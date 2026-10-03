@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Car Derby | 180028 | [180028-paint-car-derby.json](./180028-paint-car-derby.json) |
 | Paint Chase | 317578 | [317578-paint-chase.json](./317578-paint-chase.json) |
 | Paint Desk Simulator | 265135 | [265135-paint-desk-simulator.json](./265135-paint-desk-simulator.json) |
+| Paint Fruit Crush | 240854 | [240854-paint-fruit-crush.json](./240854-paint-fruit-crush.json) |
 | Paint Gal Adventures | 388227 | [388227-paint-gal-adventures.json](./388227-paint-gal-adventures.json) |
 | Paint Hit | 102784 | [102784-paint-hit.json](./102784-paint-hit.json) |
 | Paint Hit: Color Blast | 103631 | [103631-paint-hit-color-blast.json](./103631-paint-hit-color-blast.json) |
@@ -1623,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathstorm | 71512 | [71512-pathstorm.json](./71512-pathstorm.json) |
 | Pathstow Mystery VR | 68753 | [68753-pathstow-mystery-vr.json](./68753-pathstow-mystery-vr.json) |
 | Pathway | 133975 | [133975-pathway.json](./133975-pathway.json) |
+| Pathz | 240853 | [240853-pathz.json](./240853-pathz.json) |
 | Patience | 321609 | [321609-patience.json](./321609-patience.json) |
 | Patience Balls | 392789 | [392789-patience-balls.json](./392789-patience-balls.json) |
 | Patience Playdate | 276722 | [276722-patience-playdate.json](./276722-patience-playdate.json) |
@@ -1837,8 +1839,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday: Aces High | 395847 | [395847-payday-aces-high.json](./395847-payday-aces-high.json) |
 | Payday: Crime War | 98080 | [98080-payday-crime-war.json](./98080-payday-crime-war.json) |
 | Payday: Don't Be a Hero | 329145 | [329145-payday-dont-be-a-hero.json](./329145-payday-dont-be-a-hero.json) |
+| Payday: The Heist - Counterfeit | 240930 | [240930-payday-the-heist-counterfeit.json](./240930-payday-the-heist-counterfeit.json) |
 | Payday: The Heist - No Mercy | 240910 | [240910-payday-the-heist-no-mercy.json](./240910-payday-the-heist-no-mercy.json) |
+| Payday: The Heist - Undercover | 240929 | [240929-payday-the-heist-undercover.json](./240929-payday-the-heist-undercover.json) |
 | Payday: The Heist - Wolfpack | 167701 | [167701-payday-the-heist-wolfpack.json](./167701-payday-the-heist-wolfpack.json) |
+| Payday: Wolf Pack | 240931 | [240931-payday-wolf-pack.json](./240931-payday-wolf-pack.json) |
 | Payload | 175919 | [175919-payload.json](./175919-payload.json) |
 | PaymoneyWubby: The Game | 341588 | [341588-paymoneywubby-the-game.json](./341588-paymoneywubby-the-game.json) |
 | Payne Stewart Golf | 210012 | [210012-payne-stewart-golf.json](./210012-payne-stewart-golf.json) |
@@ -5404,6 +5409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon | 221996 | [221996-pokemon.json](./221996-pokemon.json) |
 | Pokémon | 266836 | [266836-pokemon.json](./266836-pokemon.json) |
 | Pokémon 2000 Adventure Game | 254167 | [254167-pokemon-2000-adventure-game.json](./254167-pokemon-2000-adventure-game.json) |
+| Pokémon 3D | 240935 | [240935-pokemon-3d.json](./240935-pokemon-3d.json) |
 | Pokémon Advanced: Cyber Poké Ball 2 | 245422 | [245422-pokemon-advanced-cyber-poke-ball-2.json](./245422-pokemon-advanced-cyber-poke-ball-2.json) |
 | Pokémon Ageless | 360182 | [360182-pokemon-ageless.json](./360182-pokemon-ageless.json) |
 | Pokémon Alpha Sapphire | 6898 | [6898-pokemon-alpha-sapphire.json](./6898-pokemon-alpha-sapphire.json) |
@@ -9362,6 +9368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PvPillman | 285463 | [285463-pvpillman.json](./285463-pvpillman.json) |
 | Pwanet Pwotector | 335408 | [335408-pwanet-pwotector.json](./335408-pwanet-pwotector.json) |
 | Pwn! | 341318 | [341318-pwn.json](./341318-pwn.json) |
+| Pwnz! | 240833 | [240833-pwnz.json](./240833-pwnz.json) |
 | Pwordle | 241405 | [241405-pwordle.json](./241405-pwordle.json) |
 | Px | 201785 | [201785-px.json](./201785-px.json) |
 | Px Art | 369573 | [369573-px-art.json](./369573-px-art.json) |
