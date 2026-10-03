@@ -1582,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Faces Remain | 382917 | [382917-only-faces-remain.json](./382917-only-faces-remain.json) |
 | Only for Gamers | 333191 | [333191-only-for-gamers.json](./333191-only-for-gamers.json) |
 | Only Fortress | 266277 | [266277-only-fortress.json](./266277-only-fortress.json) |
+| Only Furry 18+ | 234113 | [234113-only-furry-18.json](./234113-only-furry-18.json) |
 | Only Girl in High School | 223998 | [223998-only-girl-in-high-school.json](./223998-only-girl-in-high-school.json) |
 | Only Go Up 2 | 370819 | [370819-only-go-up-2.json](./370819-only-go-up-2.json) |
 | Only High | 291144 | [291144-only-high.json](./291144-only-high.json) |
@@ -2188,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ORM | 253889 | [253889-orm.json](./253889-orm.json) |
 | Ormod: Directive | 378378 | [378378-ormod-directive.json](./378378-ormod-directive.json) |
 | Orna | 105733 | [105733-orna.json](./105733-orna.json) |
+| Ornament Express | 234214 | [234214-ornament-express.json](./234214-ornament-express.json) |
 | Ornament Tower | 404393 | [404393-ornament-tower.json](./404393-ornament-tower.json) |
 | Ornélia | 403776 | [403776-ornelia.json](./403776-ornelia.json) |
 | Oroboro | 311203 | [311203-oroboro.json](./311203-oroboro.json) |
