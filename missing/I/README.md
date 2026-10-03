@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Be the Guy: Gaiden | 80531 | [80531-i-wanna-be-the-guy-gaiden.json](./80531-i-wanna-be-the-guy-gaiden.json) |
 | I Wanna Be the Hedgehog | 417434 | [417434-i-wanna-be-the-hedgehog.json](./417434-i-wanna-be-the-hedgehog.json) |
 | I Wanna Be the King! | 367960 | [367960-i-wanna-be-the-king.json](./367960-i-wanna-be-the-king.json) |
+| I Wanna Commit Crimes So I Can Go to Prison Then Commit Super Crimes So I Can Go to Super Prison 64 | 266416 | [266416-i-wanna-commit-crimes-so-i-can-go-to-prison-then-commit-super-crimes-so-i-can-go-to-super-prison-64.json](./266416-i-wanna-commit-crimes-so-i-can-go-to-prison-then-commit-super-crimes-so-i-can-go-to-super-prison-64.json) |
 | I Wanna Eat the Lemon | 191263 | [191263-i-wanna-eat-the-lemon.json](./191263-i-wanna-eat-the-lemon.json) |
 | I Wanna Escape Into My Mind | 355175 | [355175-i-wanna-escape-into-my-mind.json](./355175-i-wanna-escape-into-my-mind.json) |
 | I Wanna Flip the Sky | 195506 | [195506-i-wanna-flip-the-sky.json](./195506-i-wanna-flip-the-sky.json) |
@@ -908,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Janshi Suchie-Pai Mecha Genteiban: Hatsubai 5 Shuunen (Toku) Package | 85821 | [85821-idol-janshi-suchie-pai-mecha-genteiban-hatsubai-5-shuunen-toku-package.json](./85821-idol-janshi-suchie-pai-mecha-genteiban-hatsubai-5-shuunen-toku-package.json) |
 | Idol Janshi Suchie-Pai: Milky no Yabou | 299296 | [299296-idol-janshi-suchie-pai-milky-no-yabou.json](./299296-idol-janshi-suchie-pai-milky-no-yabou.json) |
 | Idol Kingdom | 405517 | [405517-idol-kingdom.json](./405517-idol-kingdom.json) |
+| Idol Land PriPara | 266402 | [266402-idol-land-pripara.json](./266402-idol-land-pripara.json) |
 | Idol Mahjong Final Romance 4 | 202785 | [202785-idol-mahjong-final-romance-4.json](./202785-idol-mahjong-final-romance-4.json) |
 | Idol Mahjong Final Romance 4 Remaster | 273652 | [273652-idol-mahjong-final-romance-4-remaster.json](./273652-idol-mahjong-final-romance-4-remaster.json) |
 | Idol Manager | 95215 | [95215-idol-manager.json](./95215-idol-manager.json) |
@@ -3238,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolation Story | 135021 | [135021-isolation-story.json](./135021-isolation-story.json) |
 | Isolationist Nightclub Simulator | 148523 | [148523-isolationist-nightclub-simulator.json](./148523-isolationist-nightclub-simulator.json) |
 | Isolomus | 141814 | [141814-isolomus.json](./141814-isolomus.json) |
+| Isometria | 266430 | [266430-isometria.json](./266430-isometria.json) |
 | Isometric Squares | 175356 | [175356-isometric-squares.json](./175356-isometric-squares.json) |
 | Isonzo | 158603 | [158603-isonzo.json](./158603-isonzo.json) |
 | Isonzo: Collector's Edition | 218548 | [218548-isonzo-collectors-edition.json](./218548-isonzo-collectors-edition.json) |
