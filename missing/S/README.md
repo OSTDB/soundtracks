@@ -3180,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Simulator: Yoga Class | 257884 | [257884-sex-simulator-yoga-class.json](./257884-sex-simulator-yoga-class.json) |
 | Sex Story: Cuckold Life - Episode 4 | 263762 | [263762-sex-story-cuckold-life-episode-4.json](./263762-sex-story-cuckold-life-episode-4.json) |
 | Sex Story: Cuckold Life - Episode 5 | 264635 | [264635-sex-story-cuckold-life-episode-5.json](./264635-sex-story-cuckold-life-episode-5.json) |
+| Sex Story: Cuckold Life - Episode 9 | 274689 | [274689-sex-story-cuckold-life-episode-9.json](./274689-sex-story-cuckold-life-episode-9.json) |
 | Sex Story: Ruby and Hunter - Episode 1 | 252672 | [252672-sex-story-ruby-and-hunter-episode-1.json](./252672-sex-story-ruby-and-hunter-episode-1.json) |
 | Sex Story: Ruby and Hunter - Episode 2 | 253851 | [253851-sex-story-ruby-and-hunter-episode-2.json](./253851-sex-story-ruby-and-hunter-episode-2.json) |
 | Sex Story: Ruby and Hunter - Episode 4 | 256527 | [256527-sex-story-ruby-and-hunter-episode-4.json](./256527-sex-story-ruby-and-hunter-episode-4.json) |
@@ -5873,6 +5874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixtar Gate: Startrail - Dystopia Pack | 293402 | [293402-sixtar-gate-startrail-dystopia-pack.json](./293402-sixtar-gate-startrail-dystopia-pack.json) |
 | Sixtar Gate: Startrail - Flower & Destiny Pack | 225093 | [225093-sixtar-gate-startrail-flower-and-destiny-pack.json](./225093-sixtar-gate-startrail-flower-and-destiny-pack.json) |
 | Sixtar Gate: Startrail - Oshiribeat Pack | 284913 | [284913-sixtar-gate-startrail-oshiribeat-pack.json](./284913-sixtar-gate-startrail-oshiribeat-pack.json) |
+| Sixtar Gate: Startrail - Yomoha's Planet | 274638 | [274638-sixtar-gate-startrail-yomohas-planet.json](./274638-sixtar-gate-startrail-yomohas-planet.json) |
 | Sixteen | 193213 | [193213-sixteen.json](./193213-sixteen.json) |
 | Sixteen Undead | 340368 | [340368-sixteen-undead.json](./340368-sixteen-undead.json) |
 | Sixth Grade Detective | 33911 | [33911-sixth-grade-detective.json](./33911-sixth-grade-detective.json) |
@@ -13897,6 +13899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Shot | 290715 | [290715-stray-shot.json](./290715-stray-shot.json) |
 | Stray Sketch | 339657 | [339657-stray-sketch.json](./339657-stray-sketch.json) |
 | Stray Souls | 183474 | [183474-stray-souls.json](./183474-stray-souls.json) |
+| Stray Souls: Cult Classic Edition | 274648 | [274648-stray-souls-cult-classic-edition.json](./274648-stray-souls-cult-classic-edition.json) |
 | Stray Souls: Stolen Memories | 87224 | [87224-stray-souls-stolen-memories.json](./87224-stray-souls-stolen-memories.json) |
 | Stray Tekirs | 346127 | [346127-stray-tekirs.json](./346127-stray-tekirs.json) |
 | Straya | 149516 | [149516-straya.json](./149516-straya.json) |
@@ -14614,6 +14617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Strike Anthology | 85819 | [85819-sudden-strike-anthology.json](./85819-sudden-strike-anthology.json) |
 | Sudden Strike: Forever | 81471 | [81471-sudden-strike-forever.json](./81471-sudden-strike-forever.json) |
 | Suddenly an Ogre | 308493 | [308493-suddenly-an-ogre.json](./308493-suddenly-an-ogre.json) |
+| Suddenly Bird | 274672 | [274672-suddenly-bird.json](./274672-suddenly-bird.json) |
 | Suddenly Meow 2 | 197932 | [197932-suddenly-meow-2.json](./197932-suddenly-meow-2.json) |
 | Sudeki | 6179 | [6179-sudeki.json](./6179-sudeki.json) |
 | Sudo Cats | 221263 | [221263-sudo-cats.json](./221263-sudo-cats.json) |
@@ -17108,6 +17112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival City | 346260 | [346260-survival-city.json](./346260-survival-city.json) |
 | Survival Crisis | 237673 | [237673-survival-crisis.json](./237673-survival-crisis.json) |
 | Survival Crisis Z | 94707 | [94707-survival-crisis-z.json](./94707-survival-crisis-z.json) |
+| Survival Dead Poly: Bow | 274637 | [274637-survival-dead-poly-bow.json](./274637-survival-dead-poly-bow.json) |
 | Survival Denied | 132228 | [132228-survival-denied.json](./132228-survival-denied.json) |
 | Survival driver 2: Heavy vehicles | 55277 | [55277-survival-driver-2-heavy-vehicles.json](./55277-survival-driver-2-heavy-vehicles.json) |
 | Survival Epoch | 215704 | [215704-survival-epoch.json](./215704-survival-epoch.json) |
