@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Armageddon - Ork Hunters | 53888 | [53888-warhammer-40-000-armageddon-ork-hunters.json](./53888-warhammer-40-000-armageddon-ork-hunters.json) |
 | Warhammer 40,000: Armageddon - Vulkan's Wrath | 53893 | [53893-warhammer-40-000-armageddon-vulkans-wrath.json](./53893-warhammer-40-000-armageddon-vulkans-wrath.json) |
 | Warhammer 40,000: Assault Dice | 175183 | [175183-warhammer-40-000-assault-dice.json](./175183-warhammer-40-000-assault-dice.json) |
+| Warhammer 40,000: Battlesector - Daemons of Khorne | 263148 | [263148-warhammer-40-000-battlesector-daemons-of-khorne.json](./263148-warhammer-40-000-battlesector-daemons-of-khorne.json) |
 | Warhammer 40,000: Battlesector - Necrons | 251007 | [251007-warhammer-40-000-battlesector-necrons.json](./251007-warhammer-40-000-battlesector-necrons.json) |
 | Warhammer 40,000: Battlesector - Orks | 250908 | [250908-warhammer-40-000-battlesector-orks.json](./250908-warhammer-40-000-battlesector-orks.json) |
 | Warhammer 40,000: Battlesector - Sisters of Battle | 203271 | [203271-warhammer-40-000-battlesector-sisters-of-battle.json](./203271-warhammer-40-000-battlesector-sisters-of-battle.json) |
@@ -1178,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch | 271912 | [271912-watch.json](./271912-watch.json) |
 | Watch | 310212 | [310212-watch.json](./310212-watch.json) |
 | Watch Dogs 2: No Compromise | 28377 | [28377-watch-dogs-2-no-compromise.json](./28377-watch-dogs-2-no-compromise.json) |
+| Watch Dogs 2: Psychedelic Pack | 263104 | [263104-watch-dogs-2-psychedelic-pack.json](./263104-watch-dogs-2-psychedelic-pack.json) |
 | Watch Dogs 2: Zodiac Killer | 168214 | [168214-watch-dogs-2-zodiac-killer.json](./168214-watch-dogs-2-zodiac-killer.json) |
 | Watch Dogs: Bad Blood | 17473 | [17473-watch-dogs-bad-blood.json](./17473-watch-dogs-bad-blood.json) |
 | Watch Dogs: DEDSEC Edition | 103379 | [103379-watch-dogs-dedsec-edition.json](./103379-watch-dogs-dedsec-edition.json) |
@@ -1451,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Dwell in Possibility | 186633 | [186633-we-dwell-in-possibility.json](./186633-we-dwell-in-possibility.json) |
 | We Escape Together | 373719 | [373719-we-escape-together.json](./373719-we-escape-together.json) |
 | We Got Another Year | 177918 | [177918-we-got-another-year.json](./177918-we-got-another-year.json) |
+| We Got Compagnie! | 263124 | [263124-we-got-compagnie.json](./263124-we-got-compagnie.json) |
 | We Gotta Go | 375823 | [375823-we-gotta-go.json](./375823-we-gotta-go.json) |
 | We Grew Up in War | 318776 | [318776-we-grew-up-in-war.json](./318776-we-grew-up-in-war.json) |
 | We Happy Restaurant | 319241 | [319241-we-happy-restaurant.json](./319241-we-happy-restaurant.json) |
@@ -4761,6 +4764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K22: Deluxe Edition | 188127 | [188127-wwe-2k22-deluxe-edition.json](./188127-wwe-2k22-deluxe-edition.json) |
 | WWE 2K22: Season Pass | 293720 | [293720-wwe-2k22-season-pass.json](./293720-wwe-2k22-season-pass.json) |
 | WWE 2K23 | 233028 | [233028-wwe-2k23.json](./233028-wwe-2k23.json) |
+| WWE 2K23: Bad Bunny Bonus Pack | 263147 | [263147-wwe-2k23-bad-bunny-bonus-pack.json](./263147-wwe-2k23-bad-bunny-bonus-pack.json) |
 | WWE 2K23: Bad Bunny Edition - Bonus Pack | 273348 | [273348-wwe-2k23-bad-bunny-edition-bonus-pack.json](./273348-wwe-2k23-bad-bunny-edition-bonus-pack.json) |
 | WWE 2K23: Cross-Gen Digital Edition | 241078 | [241078-wwe-2k23-cross-gen-digital-edition.json](./241078-wwe-2k23-cross-gen-digital-edition.json) |
 | WWE 2K23: Pretty Sweet Pack | 279032 | [279032-wwe-2k23-pretty-sweet-pack.json](./279032-wwe-2k23-pretty-sweet-pack.json) |
@@ -4768,6 +4772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K23: Revel with Wyatt Pack | 257324 | [257324-wwe-2k23-revel-with-wyatt-pack.json](./257324-wwe-2k23-revel-with-wyatt-pack.json) |
 | WWE 2K23: Ruthless Aggression Pack | 279050 | [279050-wwe-2k23-ruthless-aggression-pack.json](./279050-wwe-2k23-ruthless-aggression-pack.json) |
 | WWE 2K23: Season Pass | 293721 | [293721-wwe-2k23-season-pass.json](./293721-wwe-2k23-season-pass.json) |
+| WWE 2K23: Steiner Row Pack | 263146 | [263146-wwe-2k23-steiner-row-pack.json](./263146-wwe-2k23-steiner-row-pack.json) |
 | WWE 2K24 | 283600 | [283600-wwe-2k24.json](./283600-wwe-2k24.json) |
 | WWE 2K24 Bray Wyatt Bundle | 331508 | [331508-wwe-2k24-bray-wyatt-bundle.json](./331508-wwe-2k24-bray-wyatt-bundle.json) |
 | WWE 2K24: ECW Punk Pack | 311076 | [311076-wwe-2k24-ecw-punk-pack.json](./311076-wwe-2k24-ecw-punk-pack.json) |
