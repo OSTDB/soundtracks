@@ -3429,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bombing Islands | 3457 | [3457-the-bombing-islands.json](./3457-the-bombing-islands.json) |
 | The Bond | 368010 | [368010-the-bond.json](./368010-the-bond.json) |
 | The Bone Crypt | 406235 | [406235-the-bone-crypt.json](./406235-the-bone-crypt.json) |
+| The Bone Maze | 267557 | [267557-the-bone-maze.json](./267557-the-bone-maze.json) |
 | The Bones of Rosalinda | 290394 | [290394-the-bones-of-rosalinda.json](./290394-the-bones-of-rosalinda.json) |
 | The Bones Picked Clean and the Clean Bones Gone | 139316 | [139316-the-bones-picked-clean-and-the-clean-bones-gone.json](./139316-the-bones-picked-clean-and-the-clean-bones-gone.json) |
 | The Bonte Room | 316828 | [316828-the-bonte-room.json](./316828-the-bonte-room.json) |
@@ -8473,6 +8474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sinking Structure, Clione, and Lost Child: Log-1 | 193443 | [193443-the-sinking-structure-clione-and-lost-child-log-1.json](./193443-the-sinking-structure-clione-and-lost-child-log-1.json) |
 | The Sinking Structure, Clione, and Lost Child: Log-3 | 192419 | [192419-the-sinking-structure-clione-and-lost-child-log-3.json](./192419-the-sinking-structure-clione-and-lost-child-log-3.json) |
 | The Sinking Structure, Clione, and Lost Child: Log5 | 195225 | [195225-the-sinking-structure-clione-and-lost-child-log5.json](./195225-the-sinking-structure-clione-and-lost-child-log5.json) |
+| The Sins | 267573 | [267573-the-sins.json](./267573-the-sins.json) |
 | The Siren's Song | 223454 | [223454-the-sirens-song.json](./223454-the-sirens-song.json) |
 | The Six Transgender Lesbian Goddesses of Love Are Having A Petty Argument, So They Try To Settle Things Alongside The Three Transgender Gay Gods of Flavor | 318796 | [318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json](./318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json) |
 | The Sixth Extinction | 391716 | [391716-the-sixth-extinction.json](./391716-the-sixth-extinction.json) |
@@ -11772,6 +11774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TinTin: Destination Adventure | 43902 | [43902-tintin-destination-adventure.json](./43902-tintin-destination-adventure.json) |
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
 | Tiny | 298261 | [298261-tiny.json](./298261-tiny.json) |
+| Tiny 2048 | 267568 | [267568-tiny-2048.json](./267568-tiny-2048.json) |
 | Tiny Adventure | 304163 | [304163-tiny-adventure.json](./304163-tiny-adventure.json) |
 | Tiny and Big: Grandpa's Leftovers | 3079 | [3079-tiny-and-big-grandpas-leftovers.json](./3079-tiny-and-big-grandpas-leftovers.json) |
 | Tiny Animal War | 193933 | [193933-tiny-animal-war.json](./193933-tiny-animal-war.json) |
@@ -16210,6 +16213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Trucks | 66929 | [66929-turbo-trucks.json](./66929-turbo-trucks.json) |
 | Turbo Tunnel | 102348 | [102348-turbo-tunnel.json](./102348-turbo-tunnel.json) |
 | Turbo Turtle Adventure | 49345 | [49345-turbo-turtle-adventure.json](./49345-turbo-turtle-adventure.json) |
+| Turbo-Trex By Orazio Cacciola | 267562 | [267562-turbo-trex-by-orazio-cacciola.json](./267562-turbo-trex-by-orazio-cacciola.json) |
 | Turboflex | 315720 | [315720-turboflex.json](./315720-turboflex.json) |
 | TurboMania Fog Racers | 370265 | [370265-turbomania-fog-racers.json](./370265-turbomania-fog-racers.json) |
 | TurboRaketti II | 94239 | [94239-turboraketti-ii.json](./94239-turboraketti-ii.json) |
