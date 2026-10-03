@@ -2421,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Clicker: Yumi Is Streaming | 389618 | [389618-hentai-clicker-yumi-is-streaming.json](./389618-hentai-clicker-yumi-is-streaming.json) |
 | Hentai Coloring Game | 161257 | [161257-hentai-coloring-game.json](./161257-hentai-coloring-game.json) |
 | Hentai Crush | 136424 | [136424-hentai-crush.json](./136424-hentai-crush.json) |
+| Hentai Crystals | 257003 | [257003-hentai-crystals.json](./257003-hentai-crystals.json) |
 | Hentai Cyber | 368099 | [368099-hentai-cyber.json](./368099-hentai-cyber.json) |
 | Hentai Darts | 165529 | [165529-hentai-darts.json](./165529-hentai-darts.json) |
 | Hentai Dating Stories: Brazil | 300943 | [300943-hentai-dating-stories-brazil.json](./300943-hentai-dating-stories-brazil.json) |
@@ -4622,6 +4623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Run High | 109008 | [109008-home-run-high.json](./109008-home-run-high.json) |
 | Home Run King | 242809 | [242809-home-run-king.json](./242809-home-run-king.json) |
 | Home Run Stars | 20236 | [20236-home-run-stars.json](./20236-home-run-stars.json) |
+| Home Runtaro | 257009 | [257009-home-runtaro.json](./257009-home-runtaro.json) |
 | Home Safety Hotline | 244303 | [244303-home-safety-hotline.json](./244303-home-safety-hotline.json) |
 | Home Safety Hotline: Seasonal Worker | 317001 | [317001-home-safety-hotline-seasonal-worker.json](./317001-home-safety-hotline-seasonal-worker.json) |
 | Home Simulator | 292169 | [292169-home-simulator.json](./292169-home-simulator.json) |
