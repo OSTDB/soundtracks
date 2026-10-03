@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DataFall | 393464 | [393464-datafall.json](./393464-datafall.json) |
 | Dataflow | 112353 | [112353-dataflow.json](./112353-dataflow.json) |
 | Datahit | 185560 | [185560-datahit.json](./185560-datahit.json) |
+| DataJack 2020 | 244318 | [244318-datajack-2020.json](./244318-datajack-2020.json) |
 | Dataminer | 183876 | [183876-dataminer.json](./183876-dataminer.json) |
 | Datascape | 96128 | [96128-datascape.json](./96128-datascape.json) |
 | Date A Live: Arusu Install - Limited Edition | 86225 | [86225-date-a-live-arusu-install-limited-edition.json](./86225-date-a-live-arusu-install-limited-edition.json) |
@@ -3893,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Device | 150165 | [150165-device.json](./150165-device.json) |
 | Device 0101 | 294844 | [294844-device-0101.json](./294844-device-0101.json) |
 | Device 6 | 6279 | [6279-device-6.json](./6279-device-6.json) |
+| Device of Bakudan | 244324 | [244324-device-of-bakudan.json](./244324-device-of-bakudan.json) |
 | Devicereign | 166500 | [166500-devicereign.json](./166500-devicereign.json) |
 | Devices Disruptive Offense Simulator | 407480 | [407480-devices-disruptive-offense-simulator.json](./407480-devices-disruptive-offense-simulator.json) |
 | Devidicon | 400459 | [400459-devidicon.json](./400459-devidicon.json) |
