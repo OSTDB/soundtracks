@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tall Bagel | 141626 | [141626-tall-bagel.json](./141626-tall-bagel.json) |
 | Tall Man Run | 208953 | [208953-tall-man-run.json](./208953-tall-man-run.json) |
 | Tall Ships: Age of Sail | 256537 | [256537-tall-ships-age-of-sail.json](./256537-tall-ships-age-of-sail.json) |
+| Tall Tales | 239139 | [239139-tall-tales.json](./239139-tall-tales.json) |
 | Tallawa Game Nights | 415894 | [415894-tallawa-game-nights.json](./415894-tallawa-game-nights.json) |
 | Tally Man | 412399 | [412399-tally-man.json](./412399-tally-man.json) |
 | TallyUP | 183865 | [183865-tallyup.json](./183865-tallyup.json) |
@@ -3585,6 +3586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Button Effect | 342839 | [342839-the-button-effect.json](./342839-the-button-effect.json) |
 | The Byouin | 230206 | [230206-the-byouin.json](./230206-the-byouin.json) |
 | The C64 Collection 1 | 214533 | [214533-the-c64-collection-1.json](./214533-the-c64-collection-1.json) |
+| The C64 Collection 2 | 239138 | [239138-the-c64-collection-2.json](./239138-the-c64-collection-2.json) |
 | The Cabin Factory | 325273 | [325273-the-cabin-factory.json](./325273-the-cabin-factory.json) |
 | The Cabin Game | 398960 | [398960-the-cabin-game.json](./398960-the-cabin-game.json) |
 | The Cabin: VR Escape the Room | 30389 | [30389-the-cabin-vr-escape-the-room.json](./30389-the-cabin-vr-escape-the-room.json) |
@@ -4425,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Machine: The Definitive Edition | 400858 | [400858-the-dream-machine-the-definitive-edition.json](./400858-the-dream-machine-the-definitive-edition.json) |
 | The Dream of the Limbo | 298601 | [298601-the-dream-of-the-limbo.json](./298601-the-dream-of-the-limbo.json) |
 | The Dream Team | 196872 | [196872-the-dream-team.json](./196872-the-dream-team.json) |
+| The Dream Where Even Though You’ve Been Done With School for Years You Have to Go Back to School Because of a Class You Forgot About | 239211 | [239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json](./239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json) |
 | The Dreambox | 150103 | [150103-the-dreambox.json](./150103-the-dreambox.json) |
 | The Dreamers Foresight | 313479 | [313479-the-dreamers-foresight.json](./313479-the-dreamers-foresight.json) |
 | The Dreaming City Chronicles: Quest for the Vanished World | 406302 | [406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json](./406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json) |
@@ -11650,6 +11653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilelander | 72143 | [72143-tilelander.json](./72143-tilelander.json) |
 | Tilemount | 341640 | [341640-tilemount.json](./341640-tilemount.json) |
 | Tiles and Towers TD | 216503 | [216503-tiles-and-towers-td.json](./216503-tiles-and-towers-td.json) |
+| Tiles Fall | 239221 | [239221-tiles-fall.json](./239221-tiles-fall.json) |
 | Tiles Hop: Forever Dancing Ball | 108439 | [108439-tiles-hop-forever-dancing-ball.json](./108439-tiles-hop-forever-dancing-ball.json) |
 | Tiles in Time | 336547 | [336547-tiles-in-time.json](./336547-tiles-in-time.json) |
 | Tiles Match | 314876 | [314876-tiles-match.json](./314876-tiles-match.json) |
