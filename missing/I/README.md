@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Stars Double-Pack! | 56780 | [56780-indie-stars-double-pack.json](./56780-indie-stars-double-pack.json) |
 | Indiemon Card Adventure | 62720 | [62720-indiemon-card-adventure.json](./62720-indiemon-card-adventure.json) |
 | Indiemon: Earth Nation - Villain Version | 62721 | [62721-indiemon-earth-nation-villain-version.json](./62721-indiemon-earth-nation-villain-version.json) |
+| Indiepocalypse #3 | 248808 | [248808-indiepocalypse-3.json](./248808-indiepocalypse-3.json) |
 | Indiepocalypse #61 | 336536 | [336536-indiepocalypse-61.json](./336536-indiepocalypse-61.json) |
 | Indiepocalypse #68 | 382208 | [382208-indiepocalypse-68.json](./382208-indiepocalypse-68.json) |
 | Indiepocalypse #69 | 382205 | [382205-indiepocalypse-69.json](./382205-indiepocalypse-69.json) |
