@@ -6603,6 +6603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Chess: Premium Edition | 270792 | [270792-fun-chess-premium-edition.json](./270792-fun-chess-premium-edition.json) |
 | Fun Chess: Special Edition | 268559 | [268559-fun-chess-special-edition.json](./268559-fun-chess-special-edition.json) |
 | Fun Christmas Santa VR | 160152 | [160152-fun-christmas-santa-vr.json](./160152-fun-christmas-santa-vr.json) |
+| Fun Cube | 255894 | [255894-fun-cube.json](./255894-fun-cube.json) |
 | Fun Feud Trivia | 208974 | [208974-fun-feud-trivia.json](./208974-fun-feud-trivia.json) |
 | Fun Fox’s Biscuit Bash | 397089 | [397089-fun-fox-s-biscuit-bash.json](./397089-fun-fox-s-biscuit-bash.json) |
 | Fun Fruit Merge | 305388 | [305388-fun-fruit-merge.json](./305388-fun-fruit-merge.json) |
