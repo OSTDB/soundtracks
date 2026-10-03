@@ -1017,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Jigsaw Puzzles: The Orient | 357880 | [357880-fantasy-jigsaw-puzzles-the-orient.json](./357880-fantasy-jigsaw-puzzles-the-orient.json) |
 | Fantasy Kingdom: Fantasy Tiny Forest | 219290 | [219290-fantasy-kingdom-fantasy-tiny-forest.json](./219290-fantasy-kingdom-fantasy-tiny-forest.json) |
 | Fantasy Knight | 400435 | [400435-fantasy-knight.json](./400435-fantasy-knight.json) |
+| Fantasy Kommander: Eukarion Wars | 264213 | [264213-fantasy-kommander-eukarion-wars.json](./264213-fantasy-kommander-eukarion-wars.json) |
 | Fantasy Land | 40333 | [40333-fantasy-land.json](./40333-fantasy-land.json) |
 | Fantasy Lands | 286790 | [286790-fantasy-lands.json](./286790-fantasy-lands.json) |
 | Fantasy Life | 214147 | [214147-fantasy-life.json](./214147-fantasy-life.json) |
@@ -1032,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Maiden's Odd Hideout | 124640 | [124640-fantasy-maidens-odd-hideout.json](./124640-fantasy-maidens-odd-hideout.json) |
 | Fantasy Miner: Idle Depths | 411749 | [411749-fantasy-miner-idle-depths.json](./411749-fantasy-miner-idle-depths.json) |
 | Fantasy Monarch | 119627 | [119627-fantasy-monarch.json](./119627-fantasy-monarch.json) |
+| Fantasy Monster Clicker | 264205 | [264205-fantasy-monster-clicker.json](./264205-fantasy-monster-clicker.json) |
 | Fantasy Monster Hunt | 346683 | [346683-fantasy-monster-hunt.json](./346683-fantasy-monster-hunt.json) |
 | Fantasy Mosaics | 57350 | [57350-fantasy-mosaics.json](./57350-fantasy-mosaics.json) |
 | Fantasy Mosaics 13: Unexpected Visitor | 95579 | [95579-fantasy-mosaics-13-unexpected-visitor.json](./95579-fantasy-mosaics-13-unexpected-visitor.json) |
@@ -2721,6 +2723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Way Out Samurai! | 245878 | [245878-find-the-way-out-samurai.json](./245878-find-the-way-out-samurai.json) |
 | Find This Pixel Anomaly | 320982 | [320982-find-this-pixel-anomaly.json](./320982-find-this-pixel-anomaly.json) |
 | Find Together on Stream | 289411 | [289411-find-together-on-stream.json](./289411-find-together-on-stream.json) |
+| Find Up! | 264212 | [264212-find-up.json](./264212-find-up.json) |
 | Find Us Cats | 315297 | [315297-find-us-cats.json](./315297-find-us-cats.json) |
 | Find Wario and Friends | 328669 | [328669-find-wario-and-friends.json](./328669-find-wario-and-friends.json) |
 | Find with Seoul: Story Puzzle | 253385 | [253385-find-with-seoul-story-puzzle.json](./253385-find-with-seoul-story-puzzle.json) |
@@ -3115,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Steps in Learning About Pregnancy | 367040 | [367040-first-steps-in-learning-about-pregnancy.json](./367040-first-steps-in-learning-about-pregnancy.json) |
 | First Strike | 24942 | [24942-first-strike.json](./24942-first-strike.json) |
 | First Strike Final Hour | 29582 | [29582-first-strike-final-hour.json](./29582-first-strike-final-hour.json) |
+| First Strike: Multiplayer | 264248 | [264248-first-strike-multiplayer.json](./264248-first-strike-multiplayer.json) |
 | First They're Sour | 179186 | [179186-first-theyre-sour.json](./179186-first-theyre-sour.json) |
 | First Things First | 60006 | [60006-first-things-first.json](./60006-first-things-first.json) |
 | First Time in Hawaii | 236002 | [236002-first-time-in-hawaii.json](./236002-first-time-in-hawaii.json) |
