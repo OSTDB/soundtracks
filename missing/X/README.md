@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xevious | 12346 | [12346-xevious.json](./12346-xevious.json) |
 | Xevious 3D/G | 20133 | [20133-xevious-3d-g.json](./20133-xevious-3d-g.json) |
 | Xevious: Gamp no Nazo wa Subete Toketa!? | 287669 | [287669-xevious-gamp-no-nazo-wa-subete-toketa.json](./287669-xevious-gamp-no-nazo-wa-subete-toketa.json) |
+| Xevious: Scramble Mission | 243829 | [243829-xevious-scramble-mission.json](./243829-xevious-scramble-mission.json) |
 | Xevious: The Avenger | 288845 | [288845-xevious-the-avenger.json](./288845-xevious-the-avenger.json) |
 | Xevorel: The Way Of The Feather | 129215 | [129215-xevorel-the-way-of-the-feather.json](./129215-xevorel-the-way-of-the-feather.json) |
 | Xexex | 28052 | [28052-xexex.json](./28052-xexex.json) |
