@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindaichi Shounen no Jikenbo: Jigoku Yuuen Satsujin Jiken | 167061 | [167061-kindaichi-shounen-no-jikenbo-jigoku-yuuen-satsujin-jiken.json](./167061-kindaichi-shounen-no-jikenbo-jigoku-yuuen-satsujin-jiken.json) |
 | Kindan no Jikobukken | 260690 | [260690-kindan-no-jikobukken.json](./260690-kindan-no-jikobukken.json) |
 | Kindawn: The Parish Remembers | 412555 | [412555-kindawn-the-parish-remembers.json](./412555-kindawn-the-parish-remembers.json) |
+| Kinder | 261432 | [261432-kinder.json](./261432-kinder.json) |
 | Kinder Finders | 339398 | [339398-kinder-finders.json](./339398-kinder-finders.json) |
 | Kindergarten | 215760 | [215760-kindergarten.json](./215760-kindergarten.json) |
 | Kindergarten 2 | 118637 | [118637-kindergarten-2.json](./118637-kindergarten-2.json) |
