@@ -1272,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Mortem | 262441 | [262441-ad-mortem.json](./262441-ad-mortem.json) |
 | Ad Nauseam | 304201 | [304201-ad-nauseam.json](./304201-ad-nauseam.json) |
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
+| Ad Victoriam | 258106 | [258106-ad-victoriam.json](./258106-ad-victoriam.json) |
 | Ad Wars | 96242 | [96242-ad-wars.json](./96242-ad-wars.json) |
 | Ada Towers | 83493 | [83493-ada-towers.json](./83493-ada-towers.json) |
 | ADAC: The Simulation | 76623 | [76623-adac-the-simulation.json](./76623-adac-the-simulation.json) |
@@ -2543,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akatsuki no Goei Trinity: Complete Edition | 202955 | [202955-akatsuki-no-goei-trinity-complete-edition.json](./202955-akatsuki-no-goei-trinity-complete-edition.json) |
 | Akatsuki no Goei: Principal-tachi no Kyuujitsu | 202952 | [202952-akatsuki-no-goei-principal-tachi-no-kyuujitsu.json](./202952-akatsuki-no-goei-principal-tachi-no-kyuujitsu.json) |
 | Akatsuki no Goei: Tsumibukaki Shuumatsuron | 202953 | [202953-akatsuki-no-goei-tsumibukaki-shuumatsuron.json](./202953-akatsuki-no-goei-tsumibukaki-shuumatsuron.json) |
+| Akatsuki Zero | 258127 | [258127-akatsuki-zero.json](./258127-akatsuki-zero.json) |
 | Akatsuki: Shisei Ichi-go | 61628 | [61628-akatsuki-shisei-ichi-go.json](./61628-akatsuki-shisei-ichi-go.json) |
 | Akayashiki | 297794 | [297794-akayashiki.json](./297794-akayashiki.json) |
 | Akazukin Cha Cha Cha | 265971 | [265971-akazukin-cha-cha-cha.json](./265971-akazukin-cha-cha-cha.json) |
@@ -7132,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of the Singularity: Escalation Gold | 52605 | [52605-ashes-of-the-singularity-escalation-gold.json](./52605-ashes-of-the-singularity-escalation-gold.json) |
 | Ashes of War | 369665 | [369665-ashes-of-war.json](./369665-ashes-of-war.json) |
 | Ashes of Xun | 377678 | [377678-ashes-of-xun.json](./377678-ashes-of-xun.json) |
+| Ashes to Ashes | 258104 | [258104-ashes-to-ashes.json](./258104-ashes-to-ashes.json) |
 | Ashes: 2063 - Enriched Edition | 184100 | [184100-ashes-2063-enriched-edition.json](./184100-ashes-2063-enriched-edition.json) |
 | Ashfall | 218167 | [218167-ashfall.json](./218167-ashfall.json) |
 | Ashforge: Whispers of the Deep | 358875 | [358875-ashforge-whispers-of-the-deep.json](./358875-ashforge-whispers-of-the-deep.json) |
@@ -7705,6 +7708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroman | 91944 | [91944-astroman.json](./91944-astroman.json) |
 | Astromattech | 334320 | [334320-astromattech.json](./334320-astromattech.json) |
 | Astromeda | 221667 | [221667-astromeda.json](./221667-astromeda.json) |
+| Astrominer | 258105 | [258105-astrominer.json](./258105-astrominer.json) |
 | AstroMiner | 119546 | [119546-astrominer.json](./119546-astrominer.json) |
 | AstroN | 91912 | [91912-astron.json](./91912-astron.json) |
 | Astron Belt | 22732 | [22732-astron-belt.json](./22732-astron-belt.json) |
