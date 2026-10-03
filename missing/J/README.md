@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jalecolle Famicom Ver. Yokai Club | 312088 | [312088-jalecolle-famicom-ver-yokai-club.json](./312088-jalecolle-famicom-ver-yokai-club.json) |
 | Jalopy: Limited Edition | 96023 | [96023-jalopy-limited-edition.json](./96023-jalopy-limited-edition.json) |
 | Jam | 332595 | [332595-jam.json](./332595-jam.json) |
+| Jam Above Jam Below | 234114 | [234114-jam-above-jam-below.json](./234114-jam-above-jam-below.json) |
 | Jam City Rollergirls | 85200 | [85200-jam-city-rollergirls.json](./85200-jam-city-rollergirls.json) |
 | Jam Jam's Adventure | 105761 | [105761-jam-jams-adventure.json](./105761-jam-jams-adventure.json) |
 | Jam League Basketball | 237375 | [237375-jam-league-basketball.json](./237375-jam-league-basketball.json) |
