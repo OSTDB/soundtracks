@@ -4891,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playdate Bunny Bundle | 245320 | [245320-playdate-bunny-bundle.json](./245320-playdate-bunny-bundle.json) |
 | Playdate Season 1 | 398519 | [398519-playdate-season-1.json](./398519-playdate-season-1.json) |
 | Playdate Season 3 | 398535 | [398535-playdate-season-3.json](./398535-playdate-season-3.json) |
+| Playdle | 272477 | [272477-playdle.json](./272477-playdle.json) |
 | Player 9 | 132095 | [132095-player-9.json](./132095-player-9.json) |
 | Player Goes Jump | 286785 | [286785-player-goes-jump.json](./286785-player-goes-jump.json) |
 | Player Manager 2001 | 50025 | [50025-player-manager-2001.json](./50025-player-manager-2001.json) |
@@ -8466,6 +8467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pull The Pin: Ball Physic Puzzle | 289378 | [289378-pull-the-pin-ball-physic-puzzle.json](./289378-pull-the-pin-ball-physic-puzzle.json) |
 | Pull'em All! | 208964 | [208964-pullem-all.json](./208964-pullem-all.json) |
 | Pullfrog | 152277 | [152277-pullfrog.json](./152277-pullfrog.json) |
+| Pullfrog: Deluxe | 272468 | [272468-pullfrog-deluxe.json](./272468-pullfrog-deluxe.json) |
 | Pulling Pin: Pull the Pin | 231910 | [231910-pulling-pin-pull-the-pin.json](./231910-pulling-pin-pull-the-pin.json) |
 | Pulling USA 2 | 86883 | [86883-pulling-usa-2.json](./86883-pulling-usa-2.json) |
 | Pullstation | 349930 | [349930-pullstation.json](./349930-pullstation.json) |
