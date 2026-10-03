@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Colonial Graveyard | 337620 | [337620-3d-puzzle-colonial-graveyard.json](./337620-3d-puzzle-colonial-graveyard.json) |
 | 3D Puzzle: Desert Wind | 253424 | [253424-3d-puzzle-desert-wind.json](./253424-3d-puzzle-desert-wind.json) |
 | 3D Puzzle: Farming | 253426 | [253426-3d-puzzle-farming.json](./253426-3d-puzzle-farming.json) |
+| 3D Puzzle: Farming 2 | 274644 | [274644-3d-puzzle-farming-2.json](./274644-3d-puzzle-farming-2.json) |
 | 3D Puzzle: Hangar | 308948 | [308948-3d-puzzle-hangar.json](./308948-3d-puzzle-hangar.json) |
 | 3D Puzzle: Hospital 4 | 308950 | [308950-3d-puzzle-hospital-4.json](./308950-3d-puzzle-hospital-4.json) |
 | 3D Puzzle: Medieval Inn | 253425 | [253425-3d-puzzle-medieval-inn.json](./253425-3d-puzzle-medieval-inn.json) |
