@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RazePact | 356644 | [356644-razepact.json](./356644-razepact.json) |
 | Razgovor Online | 253878 | [253878-razgovor-online.json](./253878-razgovor-online.json) |
 | Raziel | 174742 | [174742-raziel.json](./174742-raziel.json) |
+| Raziel Dungeon Arena | 225689 | [225689-raziel-dungeon-arena.json](./225689-raziel-dungeon-arena.json) |
 | Razor Wire | 274521 | [274521-razor-wire.json](./274521-razor-wire.json) |
 | Razorback | 336008 | [336008-razorback.json](./336008-razorback.json) |
 | Razzmatazz | 40392 | [40392-razzmatazz.json](./40392-razzmatazz.json) |
