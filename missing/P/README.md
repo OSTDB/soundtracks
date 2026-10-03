@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Night Shift | 328009 | [328009-paranormal-night-shift.json](./328009-paranormal-night-shift.json) |
 | Paranormal Observation | 220622 | [220622-paranormal-observation.json](./220622-paranormal-observation.json) |
 | Paranormal Place | 304660 | [304660-paranormal-place.json](./304660-paranormal-place.json) |
+| Paranormal Pop | 250488 | [250488-paranormal-pop.json](./250488-paranormal-pop.json) |
 | Paranormal Power | 304625 | [304625-paranormal-power.json](./304625-paranormal-power.json) |
 | Paranormal Precinct: Last Copy of '99 | 274565 | [274565-paranormal-precinct-last-copy-of-99.json](./274565-paranormal-precinct-last-copy-of-99.json) |
 | Paranormal Psychosis | 19725 | [19725-paranormal-psychosis.json](./19725-paranormal-psychosis.json) |
@@ -1520,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patched World | 237481 | [237481-patched-world.json](./237481-patched-world.json) |
 | Patchman vs. Blue Squares | 90119 | [90119-patchman-vs-blue-squares.json](./90119-patchman-vs-blue-squares.json) |
 | Patchman vs. Red Circles | 35012 | [35012-patchman-vs-red-circles.json](./35012-patchman-vs-red-circles.json) |
+| Patchouli: A Little War in Bland-Old Library | 250511 | [250511-patchouli-a-little-war-in-bland-old-library.json](./250511-patchouli-a-little-war-in-bland-old-library.json) |
 | Patchouli's Adventure In Doll's House | 293707 | [293707-patchoulis-adventure-in-dolls-house.json](./293707-patchoulis-adventure-in-dolls-house.json) |
 | Patchwork Girl | 180242 | [180242-patchwork-girl.json](./180242-patchwork-girl.json) |
 | Patchwork Heroes | 42851 | [42851-patchwork-heroes.json](./42851-patchwork-heroes.json) |
@@ -5550,6 +5552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Coral Version | 234552 | [234552-pokemon-coral-version.json](./234552-pokemon-coral-version.json) |
 | Pokémon Corogarena | 309595 | [309595-pokemon-corogarena.json](./309595-pokemon-corogarena.json) |
 | Pokémon Covenant | 320277 | [320277-pokemon-covenant.json](./320277-pokemon-covenant.json) |
+| Pokémon Crater | 250532 | [250532-pokemon-crater.json](./250532-pokemon-crater.json) |
 | Pokémon Cross Stadium | 281394 | [281394-pokemon-cross-stadium.json](./281394-pokemon-cross-stadium.json) |
 | Pokémon Crown | 300330 | [300330-pokemon-crown.json](./300330-pokemon-crown.json) |
 | Pokémon Crystal 251 | 312377 | [312377-pokemon-crystal-251.json](./312377-pokemon-crystal-251.json) |
