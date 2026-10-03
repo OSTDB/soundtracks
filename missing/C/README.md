@@ -3595,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Seekers | 267108 | [267108-chill-seekers.json](./267108-chill-seekers.json) |
 | Chill Town | 212814 | [212814-chill-town.json](./212814-chill-town.json) |
 | Chill X | 161260 | [161260-chill-x.json](./161260-chill-x.json) |
+| Chillax | 261959 | [261959-chillax.json](./261959-chillax.json) |
 | Chillax | 303724 | [303724-chillax.json](./303724-chillax.json) |
 | Chilled Chicken | 262421 | [262421-chilled-chicken.json](./262421-chilled-chicken.json) |
 | Chiller | 11727 | [11727-chiller.json](./11727-chiller.json) |
@@ -7144,6 +7145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copter | 291600 | [291600-copter.json](./291600-copter.json) |
 | Copter and Sky | 32101 | [32101-copter-and-sky.json](./32101-copter-and-sky.json) |
 | Copter Besieged | 345649 | [345649-copter-besieged.json](./345649-copter-besieged.json) |
+| Copter Capers | 261990 | [261990-copter-capers.json](./261990-copter-capers.json) |
 | Copter Cove | 353980 | [353980-copter-cove.json](./353980-copter-cove.json) |
 | Copy Kitty | 22443 | [22443-copy-kitty.json](./22443-copy-kitty.json) |
 | Copy: Two Man Too Many | 359010 | [359010-copy-two-man-too-many.json](./359010-copy-two-man-too-many.json) |
@@ -7430,6 +7432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Storm | 80623 | [80623-cosmic-storm.json](./80623-cosmic-storm.json) |
 | Cosmic Strike: The Last Sub Sector | 205667 | [205667-cosmic-strike-the-last-sub-sector.json](./205667-cosmic-strike-the-last-sub-sector.json) |
 | Cosmic Sugar VR | 30428 | [30428-cosmic-sugar-vr.json](./30428-cosmic-sugar-vr.json) |
+| Cosmic Survivor | 261980 | [261980-cosmic-survivor.json](./261980-cosmic-survivor.json) |
 | Cosmic Swarm | 18535 | [18535-cosmic-swarm.json](./18535-cosmic-swarm.json) |
 | Cosmic Swarm | 380090 | [380090-cosmic-swarm.json](./380090-cosmic-swarm.json) |
 | Cosmic Tank | 141200 | [141200-cosmic-tank.json](./141200-cosmic-tank.json) |
@@ -10274,6 +10277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cygnus IV | 263597 | [263597-cygnus-iv.json](./263597-cygnus-iv.json) |
 | Cylinder: Puzzles Returned | 63898 | [63898-cylinder-puzzles-returned.json](./63898-cylinder-puzzles-returned.json) |
 | Cylindrix | 73318 | [73318-cylindrix.json](./73318-cylindrix.json) |
+| Cylon Attack | 261992 | [261992-cylon-attack.json](./261992-cylon-attack.json) |
 | Cylor vs. the Bullets From Hell | 123612 | [123612-cylor-vs-the-bullets-from-hell.json](./123612-cylor-vs-the-bullets-from-hell.json) |
 | Cylor vs. the Endless Legions | 136238 | [136238-cylor-vs-the-endless-legions.json](./136238-cylor-vs-the-endless-legions.json) |
 | Cymbalism | 285124 | [285124-cymbalism.json](./285124-cymbalism.json) |
