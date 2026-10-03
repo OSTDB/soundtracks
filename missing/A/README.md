@@ -2003,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Speed 2 | 326751 | [326751-age-of-speed-2.json](./326751-age-of-speed-2.json) |
 | Age of Speed Underworld | 326752 | [326752-age-of-speed-underworld.json](./326752-age-of-speed-underworld.json) |
 | Age of Talisman | 26954 | [26954-age-of-talisman.json](./26954-age-of-talisman.json) |
+| Age of the Sirens | 236893 | [236893-age-of-the-sirens.json](./236893-age-of-the-sirens.json) |
 | Age of Time | 254542 | [254542-age-of-time.json](./254542-age-of-time.json) |
 | Age of Undead | 211145 | [211145-age-of-undead.json](./211145-age-of-undead.json) |
 | Age of Valakas: Vietnam | 190456 | [190456-age-of-valakas-vietnam.json](./190456-age-of-valakas-vietnam.json) |
@@ -4667,6 +4668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animaddicts 2 | 192891 | [192891-animaddicts-2.json](./192891-animaddicts-2.json) |
 | Animaddicts 3 | 195704 | [195704-animaddicts-3.json](./195704-animaddicts-3.json) |
 | Animagi | 377681 | [377681-animagi.json](./377681-animagi.json) |
+| Animal Across: Afrika | 236964 | [236964-animal-across-afrika.json](./236964-animal-across-afrika.json) |
 | Animal Adventure | 337813 | [337813-animal-adventure.json](./337813-animal-adventure.json) |
 | Animal Adventure Downhill Rush | 269084 | [269084-animal-adventure-downhill-rush.json](./269084-animal-adventure-downhill-rush.json) |
 | Animal Away Jam | 297651 | [297651-animal-away-jam.json](./297651-animal-away-jam.json) |
@@ -4891,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime In 10 Words | 243751 | [243751-anime-in-10-words.json](./243751-anime-in-10-words.json) |
 | Anime Jigsaw | 357872 | [357872-anime-jigsaw.json](./357872-anime-jigsaw.json) |
 | Anime Jigsaw Girls: Christmas | 286515 | [286515-anime-jigsaw-girls-christmas.json](./286515-anime-jigsaw-girls-christmas.json) |
+| Anime Knight: Card Game | 236969 | [236969-anime-knight-card-game.json](./236969-anime-knight-card-game.json) |
 | Anime Land | 91914 | [91914-anime-land.json](./91914-anime-land.json) |
 | Anime Love Chat Girls | 380394 | [380394-anime-love-chat-girls.json](./380394-anime-love-chat-girls.json) |
 | Anime Manga Style Girl: Color By Number Pixel Art Coloring | 370758 | [370758-anime-manga-style-girl-color-by-number-pixel-art-coloring.json](./370758-anime-manga-style-girl-color-by-number-pixel-art-coloring.json) |
