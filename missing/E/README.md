@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ednoka | 341120 | [341120-ednoka.json](./341120-ednoka.json) |
 | Edo Mono | 250476 | [250476-edo-mono.json](./250476-edo-mono.json) |
 | Edolie | 35755 | [35755-edolie.json](./35755-edolie.json) |
+| EdoPro | 234123 | [234123-edopro.json](./234123-edopro.json) |
 | Edouard Roivas: The Eye of Law | 310413 | [310413-edouard-roivas-the-eye-of-law.json](./310413-edouard-roivas-the-eye-of-law.json) |
 | Edtris 2600 | 78031 | [78031-edtris-2600.json](./78031-edtris-2600.json) |
 | Edu Simulator | 408043 | [408043-edu-simulator.json](./408043-edu-simulator.json) |
@@ -728,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg War Puzzle | 257916 | [257916-egg-war-puzzle.json](./257916-egg-war-puzzle.json) |
 | Egg Yolk Life | 129715 | [129715-egg-yolk-life.json](./129715-egg-yolk-life.json) |
 | Eggbert's Bird Bath | 404391 | [404391-eggberts-bird-bath.json](./404391-eggberts-bird-bath.json) |
+| Eggcelerate! to the North Pole | 234225 | [234225-eggcelerate-to-the-north-pole.json](./234225-eggcelerate-to-the-north-pole.json) |
 | Eggcellent VR | 113187 | [113187-eggcellent-vr.json](./113187-eggcellent-vr.json) |
 | Eggconsole Advanced Lord Monarch PC-9801 | 394385 | [394385-eggconsole-advanced-lord-monarch-pc-9801.json](./394385-eggconsole-advanced-lord-monarch-pc-9801.json) |
 | Eggconsole Adventure of Randar MSX2 | 399637 | [399637-eggconsole-adventure-of-randar-msx2.json](./399637-eggconsole-adventure-of-randar-msx2.json) |
@@ -1811,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Dream | 253341 | [253341-endless-dream.json](./253341-endless-dream.json) |
 | Endless Drive | 234610 | [234610-endless-drive.json](./234610-endless-drive.json) |
 | Endless Dungeon | 109970 | [109970-endless-dungeon.json](./109970-endless-dungeon.json) |
+| Endless Dungeon: Day One Edition | 234210 | [234210-endless-dungeon-day-one-edition.json](./234210-endless-dungeon-day-one-edition.json) |
 | Endless Dungeon: Ichiban And Kiryu Skin Pack | 289422 | [289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json](./289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json) |
 | Endless Escalation | 390742 | [390742-endless-escalation.json](./390742-endless-escalation.json) |
 | Endless Escape | 38912 | [38912-endless-escape.json](./38912-endless-escape.json) |
@@ -3999,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extinction: Deluxe Edition | 85473 | [85473-extinction-deluxe-edition.json](./85473-extinction-deluxe-edition.json) |
 | Extirpate | 291532 | [291532-extirpate.json](./291532-extirpate.json) |
 | Extortion | 146163 | [146163-extortion.json](./146163-extortion.json) |
+| Extra Case: My Girlfriend's Secrets | 234108 | [234108-extra-case-my-girlfriends-secrets.json](./234108-extra-case-my-girlfriends-secrets.json) |
 | Extra Cream | 310134 | [310134-extra-cream.json](./310134-extra-cream.json) |
 | Extra Evolution: L’Era del Primordiale | 342778 | [342778-extra-evolution-l-era-del-primordiale.json](./342778-extra-evolution-l-era-del-primordiale.json) |
 | Extra Extra Poison | 369578 | [369578-extra-extra-poison.json](./369578-extra-extra-poison.json) |
