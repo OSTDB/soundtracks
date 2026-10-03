@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FanTris | 108072 | [108072-fantris.json](./108072-fantris.json) |
 | Fap & Cum | 235279 | [235279-fap-and-cum.json](./235279-fap-and-cum.json) |
 | Fap & Cum: Simulator | 368131 | [368131-fap-and-cum-simulator.json](./368131-fap-and-cum-simulator.json) |
+| Fap Goddess | 226802 | [226802-fap-goddess.json](./226802-fap-goddess.json) |
 | Fap Queen | 110145 | [110145-fap-queen.json](./110145-fap-queen.json) |
 | Fap Titans | 98475 | [98475-fap-titans.json](./98475-fap-titans.json) |
 | Fap&Click | 331100 | [331100-fap-and-click.json](./331100-fap-and-click.json) |
@@ -2273,6 +2274,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight | 330366 | [330366-fight.json](./330366-fight.json) |
 | Fight & Crush | 234313 | [234313-fight-and-crush.json](./234313-fight-and-crush.json) |
 | Fight 4 Flight | 98468 | [98468-fight-4-flight.json](./98468-fight-4-flight.json) |
+| Fight Angel Special Edition: Clothes Expansion Pack | 226803 | [226803-fight-angel-special-edition-clothes-expansion-pack.json](./226803-fight-angel-special-edition-clothes-expansion-pack.json) |
+| Fight Angel Special Edition: Realistic Pack | 226804 | [226804-fight-angel-special-edition-realistic-pack.json](./226804-fight-angel-special-edition-realistic-pack.json) |
 | Fight Angel: Special Edition | 127159 | [127159-fight-angel-special-edition.json](./127159-fight-angel-special-edition.json) |
 | Fight Angels | 125977 | [125977-fight-angels.json](./125977-fight-angels.json) |
 | Fight Arena Online | 239628 | [239628-fight-arena-online.json](./239628-fight-arena-online.json) |
@@ -2731,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find a Way Soccer: Women's Cup | 247437 | [247437-find-a-way-soccer-womens-cup.json](./247437-find-a-way-soccer-womens-cup.json) |
 | Find AI Parking Spot | 397187 | [397187-find-ai-parking-spot.json](./397187-find-ai-parking-spot.json) |
 | Find All | 151614 | [151614-find-all.json](./151614-find-all.json) |
+| Find All 4: Magic | 226805 | [226805-find-all-4-magic.json](./226805-find-all-4-magic.json) |
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
 | Find All: Bunker - Extra Level | 345512 | [345512-find-all-bunker-extra-level.json](./345512-find-all-bunker-extra-level.json) |
 | Find All: Valentine's Day | 388766 | [388766-find-all-valentines-day.json](./388766-find-all-valentines-day.json) |
@@ -6994,6 +6998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury Fighter VR | 96520 | [96520-fury-fighter-vr.json](./96520-fury-fighter-vr.json) |
 | Fury of Dracula | 175327 | [175327-fury-of-dracula.json](./175327-fury-of-dracula.json) |
 | Fury of Dracula: Digital Edition | 129189 | [129189-fury-of-dracula-digital-edition.json](./129189-fury-of-dracula-digital-edition.json) |
+| Fury of the Furries 2 | 226799 | [226799-fury-of-the-furries-2.json](./226799-fury-of-the-furries-2.json) |
 | Fury Race Survivor | 273491 | [273491-fury-race-survivor.json](./273491-fury-race-survivor.json) |
 | Fury Strike | 107918 | [107918-fury-strike.json](./107918-fury-strike.json) |
 | FuryDough | 300675 | [300675-furydough.json](./300675-furydough.json) |
