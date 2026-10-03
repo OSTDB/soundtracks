@@ -3234,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenants: Spirit & Mind | 190154 | [190154-revenants-spirit-and-mind.json](./190154-revenants-spirit-and-mind.json) |
 | Revenge Crystal | 278401 | [278401-revenge-crystal.json](./278401-revenge-crystal.json) |
 | Revenge Master | 200427 | [200427-revenge-master.json](./200427-revenge-master.json) |
+| Revenge of Banana | 271928 | [271928-revenge-of-banana.json](./271928-revenge-of-banana.json) |
 | Revenge of Defender | 56591 | [56591-revenge-of-defender.json](./56591-revenge-of-defender.json) |
 | Revenge of Justice | 122349 | [122349-revenge-of-justice.json](./122349-revenge-of-justice.json) |
 | Revenge of Marjorie the Chicken | 137694 | [137694-revenge-of-marjorie-the-chicken.json](./137694-revenge-of-marjorie-the-chicken.json) |
@@ -5224,6 +5225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll or Die | 382911 | [382911-roll-or-die.json](./382911-roll-or-die.json) |
 | Roll Prix | 120252 | [120252-roll-prix.json](./120252-roll-prix.json) |
 | Roll the Ball | 273418 | [273418-roll-the-ball.json](./273418-roll-the-ball.json) |
+| Roll The Bones | 271900 | [271900-roll-the-bones.json](./271900-roll-the-bones.json) |
 | Roll the Dark Heart | 251850 | [251850-roll-the-dark-heart.json](./251850-roll-the-dark-heart.json) |
 | Roll The Die: Prologue | 309467 | [309467-roll-the-die-prologue.json](./309467-roll-the-die-prologue.json) |
 | Roll the TP | 328677 | [328677-roll-the-tp.json](./328677-roll-the-tp.json) |
@@ -6345,6 +6347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Beehind | 399694 | [399694-running-beehind.json](./399694-running-beehind.json) |
 | Running Black | 120990 | [120990-running-black.json](./120990-running-black.json) |
 | Running Challenge | 190152 | [190152-running-challenge.json](./190152-running-challenge.json) |
+| Running Crazy | 271910 | [271910-running-crazy.json](./271910-running-crazy.json) |
 | Running Education | 148459 | [148459-running-education.json](./148459-running-education.json) |
 | Running Fox | 267061 | [267061-running-fox.json](./267061-running-fox.json) |
 | Running Gods | 32231 | [32231-running-gods.json](./32231-running-gods.json) |
@@ -6427,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushaway | 211790 | [211790-rushaway.json](./211790-rushaway.json) |
 | Rushcremental | 381635 | [381635-rushcremental.json](./381635-rushcremental.json) |
 | Rushdown Revolt | 138604 | [138604-rushdown-revolt.json](./138604-rushdown-revolt.json) |
+| Rushdown Rivals Reloaded | 271932 | [271932-rushdown-rivals-reloaded.json](./271932-rushdown-rivals-reloaded.json) |
 | Rushing Alice | 200116 | [200116-rushing-alice.json](./200116-rushing-alice.json) |
 | Rushing Balls | 99216 | [99216-rushing-balls.json](./99216-rushing-balls.json) |
 | Rushing Beat X: Return of Brawl Brothers | 345566 | [345566-rushing-beat-x-return-of-brawl-brothers.json](./345566-rushing-beat-x-return-of-brawl-brothers.json) |
