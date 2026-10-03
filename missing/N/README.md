@@ -2695,6 +2695,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Warriors | 42654 | [42654-ninja-warriors.json](./42654-ninja-warriors.json) |
 | Ninja Wars: Battle Simulator | 320526 | [320526-ninja-wars-battle-simulator.json](./320526-ninja-wars-battle-simulator.json) |
 | Ninja Warz | 314669 | [314669-ninja-warz.json](./314669-ninja-warz.json) |
+| Ninja World | 268104 | [268104-ninja-world.json](./268104-ninja-world.json) |
+| Ninja World 2 | 268105 | [268105-ninja-world-2.json](./268105-ninja-world-2.json) |
+| Ninja World 3 | 268106 | [268106-ninja-world-3.json](./268106-ninja-world-3.json) |
 | Ninja-kun: Ashura no Shou | 230290 | [230290-ninja-kun-ashura-no-shou.json](./230290-ninja-kun-ashura-no-shou.json) |
 | Ninja-kun: Ashura no Shou | 37326 | [37326-ninja-kun-ashura-no-shou.json](./37326-ninja-kun-ashura-no-shou.json) |
 | Ninja-kun: Majou no Bouken | 7561 | [7561-ninja-kun-majou-no-bouken.json](./7561-ninja-kun-majou-no-bouken.json) |
