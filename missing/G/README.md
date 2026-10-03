@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genji: Time Suspense Adventure | 66150 | [66150-genji-time-suspense-adventure.json](./66150-genji-time-suspense-adventure.json) |
 | Genji: Time Suspense Adventure | 66634 | [66634-genji-time-suspense-adventure.json](./66634-genji-time-suspense-adventure.json) |
 | Genjin Collection | 64343 | [64343-genjin-collection.json](./64343-genjin-collection.json) |
+| Genjin Kotts | 228337 | [228337-genjin-kotts.json](./228337-genjin-kotts.json) |
 | Genjin Show: Tobidase! VB Genjin | 234086 | [234086-genjin-show-tobidase-vb-genjin.json](./234086-genjin-show-tobidase-vb-genjin.json) |
 | Genjiro: Samurai Defense | 285973 | [285973-genjiro-samurai-defense.json](./285973-genjiro-samurai-defense.json) |
 | Genkai Shikisai Kankaku Test Hard | 266168 | [266168-genkai-shikisai-kankaku-test-hard.json](./266168-genkai-shikisai-kankaku-test-hard.json) |
