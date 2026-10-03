@@ -4557,6 +4557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wraith | 288450 | [288450-wraith.json](./288450-wraith.json) |
 | Wraith VR | 187515 | [187515-wraith-vr.json](./187515-wraith-vr.json) |
 | Wraith: The Oblivion - Afterlife | 135110 | [135110-wraith-the-oblivion-afterlife.json](./135110-wraith-the-oblivion-afterlife.json) |
+| Wraithborn | 258647 | [258647-wraithborn.json](./258647-wraithborn.json) |
 | Wrangel Island | 220631 | [220631-wrangel-island.json](./220631-wrangel-island.json) |
 | Wrangle Ranch | 364700 | [364700-wrangle-ranch.json](./364700-wrangle-ranch.json) |
 | Wrangler | 259185 | [259185-wrangler.json](./259185-wrangler.json) |
