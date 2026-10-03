@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saishuu Heiki Kanojo | 74055 | [74055-saishuu-heiki-kanojo.json](./74055-saishuu-heiki-kanojo.json) |
 | Saitama Zombie Parade | 314852 | [314852-saitama-zombie-parade.json](./314852-saitama-zombie-parade.json) |
 | Saitekikai Spy Simulator | 284323 | [284323-saitekikai-spy-simulator.json](./284323-saitekikai-spy-simulator.json) |
+| Sáivu | 252268 | [252268-saivu.json](./252268-saivu.json) |
 | Sáivu | 293889 | [293889-saivu.json](./293889-saivu.json) |
 | Sáivu | 293893 | [293893-saivu.json](./293893-saivu.json) |
 | Saiyan Legends | 96781 | [96781-saiyan-legends.json](./96781-saiyan-legends.json) |
@@ -3046,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Settlemoon | 253593 | [253593-settlemoon.json](./253593-settlemoon.json) |
 | Settlers of Catan | 320966 | [320966-settlers-of-catan.json](./320966-settlers-of-catan.json) |
 | Settlers of the Deep | 121607 | [121607-settlers-of-the-deep.json](./121607-settlers-of-the-deep.json) |
+| Settris | 252269 | [252269-settris.json](./252269-settris.json) |
 | Setup Savior | 350448 | [350448-setup-savior.json](./350448-setup-savior.json) |
 | Seul (Alone): The entrée | 107863 | [107863-seul-alone-the-entree.json](./107863-seul-alone-the-entree.json) |
 | Seum: The Drunk Side of the Moon | 104676 | [104676-seum-the-drunk-side-of-the-moon.json](./104676-seum-the-drunk-side-of-the-moon.json) |
@@ -3186,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Motel | 288885 | [288885-sex-motel.json](./288885-sex-motel.json) |
 | Sex Office Story | 171580 | [171580-sex-office-story.json](./171580-sex-office-story.json) |
 | Sex Olympics | 289398 | [289398-sex-olympics.json](./289398-sex-olympics.json) |
+| Sex on Beach | 252271 | [252271-sex-on-beach.json](./252271-sex-on-beach.json) |
 | Sex Play: BDSM | 263760 | [263760-sex-play-bdsm.json](./263760-sex-play-bdsm.json) |
 | Sex Play: The Sauna | 264636 | [264636-sex-play-the-sauna.json](./264636-sex-play-the-sauna.json) |
 | Sex Play: Tropical Vacation | 272934 | [272934-sex-play-tropical-vacation.json](./272934-sex-play-tropical-vacation.json) |
@@ -7665,6 +7668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snood Poppers | 137656 | [137656-snood-poppers.json](./137656-snood-poppers.json) |
 | Snood Slide | 138016 | [138016-snood-slide.json](./138016-snood-slide.json) |
 | Snood Towers | 246389 | [246389-snood-towers.json](./246389-snood-towers.json) |
+| Snoody: One of the Ayrie | 252262 | [252262-snoody-one-of-the-ayrie.json](./252262-snoody-one-of-the-ayrie.json) |
 | Snooker 19 | 111153 | [111153-snooker-19.json](./111153-snooker-19.json) |
 | Snooker Fever | 328487 | [328487-snooker-fever.json](./328487-snooker-fever.json) |
 | Snooker Fever Rack 'n' Roll | 381807 | [381807-snooker-fever-rack-n-roll.json](./381807-snooker-fever-rack-n-roll.json) |
@@ -10384,6 +10388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkster PC | 265220 | [265220-sparkster-pc.json](./265220-sparkster-pc.json) |
 | Sparkster: Rocket Knight Adventures 2 | 1264 | [1264-sparkster-rocket-knight-adventures-2.json](./1264-sparkster-rocket-knight-adventures-2.json) |
 | Sparky | 258970 | [258970-sparky.json](./258970-sparky.json) |
+| Sparky Marky: Episode 2 | 252263 | [252263-sparky-marky-episode-2.json](./252263-sparky-marky-episode-2.json) |
 | Sparky Marky: Episode 3 | 258178 | [258178-sparky-marky-episode-3.json](./258178-sparky-marky-episode-3.json) |
 | Sparrow Country | 408157 | [408157-sparrow-country.json](./408157-sparrow-country.json) |
 | Sparrow Shop | 384196 | [384196-sparrow-shop.json](./384196-sparrow-shop.json) |
@@ -12399,6 +12404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Droids - The Adventures of R2-D2 and C-3PO | 61864 | [61864-star-wars-droids-the-adventures-of-r2-d2-and-c-3po.json](./61864-star-wars-droids-the-adventures-of-r2-d2-and-c-3po.json) |
 | Star Wars: DroidWorks | 95480 | [95480-star-wars-droidworks.json](./95480-star-wars-droidworks.json) |
 | Star Wars: Empire at War | 144 | [144-star-wars-empire-at-war.json](./144-star-wars-empire-at-war.json) |
+| Star Wars: Episode 1 - Director's Cut | 252302 | [252302-star-wars-episode-1-directors-cut.json](./252302-star-wars-episode-1-directors-cut.json) |
 | Star Wars: Episode I - Battle for Naboo | 156 | [156-star-wars-episode-i-battle-for-naboo.json](./156-star-wars-episode-i-battle-for-naboo.json) |
 | Star Wars: Episode I - Battle Tank Attack | 198920 | [198920-star-wars-episode-i-battle-tank-attack.json](./198920-star-wars-episode-i-battle-tank-attack.json) |
 | Star Wars: Episode I - Electronic Sith Infiltrator Pen Game | 198921 | [198921-star-wars-episode-i-electronic-sith-infiltrator-pen-game.json](./198921-star-wars-episode-i-electronic-sith-infiltrator-pen-game.json) |
@@ -12700,6 +12706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarMap 3D Plus | 41524 | [41524-starmap-3d-plus.json](./41524-starmap-3d-plus.json) |
 | Starmasons | 388419 | [388419-starmasons.json](./388419-starmasons.json) |
 | Starmaster | 18033 | [18033-starmaster.json](./18033-starmaster.json) |
+| Starmate | 252305 | [252305-starmate.json](./252305-starmate.json) |
 | Starminer | 280353 | [280353-starminer.json](./280353-starminer.json) |
 | Starmount | 327323 | [327323-starmount.json](./327323-starmount.json) |
 | Starmourn | 122849 | [122849-starmourn.json](./122849-starmourn.json) |
@@ -14210,6 +14217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter X Mega Man | 45184 | [45184-street-fighter-x-mega-man.json](./45184-street-fighter-x-mega-man.json) |
 | Street Fighter Zero 3 | 242649 | [242649-street-fighter-zero-3.json](./242649-street-fighter-zero-3.json) |
 | Street Fighter: Duel | 142490 | [142490-street-fighter-duel.json](./142490-street-fighter-duel.json) |
+| Street Fighting Grandma | 252264 | [252264-street-fighting-grandma.json](./252264-street-fighting-grandma.json) |
 | Street Food Restaurant Owner | 327979 | [327979-street-food-restaurant-owner.json](./327979-street-food-restaurant-owner.json) |
 | Street Football | 169301 | [169301-street-football.json](./169301-street-football.json) |
 | Street Football | 21476 | [21476-street-football.json](./21476-street-football.json) |
@@ -14365,6 +14373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striker Pro | 237509 | [237509-striker-pro.json](./237509-striker-pro.json) |
 | Striker Pro 2000 | 22676 | [22676-striker-pro-2000.json](./22676-striker-pro-2000.json) |
 | Striker Soccer Euro 2012 | 51168 | [51168-striker-soccer-euro-2012.json](./51168-striker-soccer-euro-2012.json) |
+| Striker Zone | 252266 | [252266-striker-zone.json](./252266-striker-zone.json) |
 | Striker! | 336650 | [336650-striker.json](./336650-striker.json) |
 | Strikers | 219577 | [219577-strikers.json](./219577-strikers.json) |
 | Strikers 1945 | 39300 | [39300-strikers-1945.json](./39300-strikers-1945.json) |
@@ -15277,6 +15286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Beach Girls | 294973 | [294973-sunny-beach-girls.json](./294973-sunny-beach-girls.json) |
 | Sunny Cafe | 154353 | [154353-sunny-cafe.json](./154353-sunny-cafe.json) |
 | Sunny Fairy | 151678 | [151678-sunny-fairy.json](./151678-sunny-fairy.json) |
+| Sunny Girl | 252265 | [252265-sunny-girl.json](./252265-sunny-girl.json) |
 | Sunny Love | 367618 | [367618-sunny-love.json](./367618-sunny-love.json) |
 | Sunny Shine Funland! | 107818 | [107818-sunny-shine-funland.json](./107818-sunny-shine-funland.json) |
 | Sunny Shine on the Funny Side of Life | 123605 | [123605-sunny-shine-on-the-funny-side-of-life.json](./123605-sunny-shine-on-the-funny-side-of-life.json) |
