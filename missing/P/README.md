@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Battle Royale | 66485 | [66485-pac-man-battle-royale.json](./66485-pac-man-battle-royale.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac-Man Collection | 308389 | [308389-pac-man-collection.json](./308389-pac-man-collection.json) |
+| Pac-Man Doom | 262564 | [262564-pac-man-doom.json](./262564-pac-man-doom.json) |
 | Pac-Man Double Feature | 378397 | [378397-pac-man-double-feature.json](./378397-pac-man-double-feature.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
 | Pac-Man Maker | 28186 | [28186-pac-man-maker.json](./28186-pac-man-maker.json) |
@@ -1536,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile: King of the Faridun Supporter Pack | 332030 | [332030-path-of-exile-king-of-the-faridun-supporter-pack.json](./332030-path-of-exile-king-of-the-faridun-supporter-pack.json) |
 | Path of Exile: Settlers of Kalguur | 310958 | [310958-path-of-exile-settlers-of-kalguur.json](./310958-path-of-exile-settlers-of-kalguur.json) |
 | Path of Exile: Synthesis | 115463 | [115463-path-of-exile-synthesis.json](./115463-path-of-exile-synthesis.json) |
+| Path of Exile: Trial of the Ancestors | 262570 | [262570-path-of-exile-trial-of-the-ancestors.json](./262570-path-of-exile-trial-of-the-ancestors.json) |
 | Path of Exile: Warlord of the Karui Supporter Pack | 332082 | [332082-path-of-exile-warlord-of-the-karui-supporter-pack.json](./332082-path-of-exile-warlord-of-the-karui-supporter-pack.json) |
 | Path of Fury: Episode I - Tetsuo's Tower | 335484 | [335484-path-of-fury-episode-i-tetsuos-tower.json](./335484-path-of-fury-episode-i-tetsuos-tower.json) |
 | Path of Gear: Blacksmith’s Legend | 358971 | [358971-path-of-gear-blacksmith-s-legend.json](./358971-path-of-gear-blacksmith-s-legend.json) |
@@ -8855,6 +8857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Put In - Run Out | 119701 | [119701-put-in-run-out.json](./119701-put-in-run-out.json) |
 | Put Out the Fire | 366882 | [366882-put-out-the-fire.json](./366882-put-out-the-fire.json) |
 | Put the Fries in the Bag | 335692 | [335692-put-the-fries-in-the-bag.json](./335692-put-the-fries-in-the-bag.json) |
+| Put Up Your Dukes! | 262562 | [262562-put-up-your-dukes.json](./262562-put-up-your-dukes.json) |
 | Put Your Brain on 2 | 234150 | [234150-put-your-brain-on-2.json](./234150-put-your-brain-on-2.json) |
 | Put Your Stamp On | 226434 | [226434-put-your-stamp-on.json](./226434-put-your-stamp-on.json) |
 | Putin Jigsaw | 343309 | [343309-putin-jigsaw.json](./343309-putin-jigsaw.json) |
