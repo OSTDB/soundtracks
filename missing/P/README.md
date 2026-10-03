@@ -3146,6 +3146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross S Namco Legendary Edition | 302101 | [302101-picross-s-namco-legendary-edition.json](./302101-picross-s-namco-legendary-edition.json) |
 | Picross S SNK Classics & Neo Geo Edition | 378165 | [378165-picross-s-snk-classics-and-neo-geo-edition.json](./378165-picross-s-snk-classics-and-neo-geo-edition.json) |
 | Picross S: Genesis & Master System Edition | 137139 | [137139-picross-s-genesis-and-master-system-edition.json](./137139-picross-s-genesis-and-master-system-edition.json) |
+| Picross S+ | 266419 | [266419-picross-s.json](./266419-picross-s.json) |
 | Picross S2 | 106275 | [106275-picross-s2.json](./106275-picross-s2.json) |
 | Picross S3 | 117501 | [117501-picross-s3.json](./117501-picross-s3.json) |
 | Picross S4 | 132828 | [132828-picross-s4.json](./132828-picross-s4.json) |
@@ -4663,6 +4664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zoo: Console Edition | 284574 | [284574-planet-zoo-console-edition.json](./284574-planet-zoo-console-edition.json) |
 | Planet Zoo: Europe Pack | 191245 | [191245-planet-zoo-europe-pack.json](./191245-planet-zoo-europe-pack.json) |
 | Planet Zoo: North America Animal Pack | 174129 | [174129-planet-zoo-north-america-animal-pack.json](./174129-planet-zoo-north-america-animal-pack.json) |
+| Planet Zoo: Oceania Pack | 266381 | [266381-planet-zoo-oceania-pack.json](./266381-planet-zoo-oceania-pack.json) |
 | Planet Zoo: Tropical Pack | 243535 | [243535-planet-zoo-tropical-pack.json](./243535-planet-zoo-tropical-pack.json) |
 | Planet Zoo: Zookeepers Animal Pack | 336614 | [336614-planet-zoo-zookeepers-animal-pack.json](./336614-planet-zoo-zookeepers-animal-pack.json) |
 | Planet-Fall | 290997 | [290997-planet-fall.json](./290997-planet-fall.json) |
@@ -5243,6 +5245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poco's Maze Adventure | 319190 | [319190-pocos-maze-adventure.json](./319190-pocos-maze-adventure.json) |
 | Pocohontos | 225732 | [225732-pocohontos.json](./225732-pocohontos.json) |
 | Pocoman: Green Machine Level Pack | 262944 | [262944-pocoman-green-machine-level-pack.json](./262944-pocoman-green-machine-level-pack.json) |
+| Pocoyo and the Mystery of Hidden Objects | 266417 | [266417-pocoyo-and-the-mystery-of-hidden-objects.json](./266417-pocoyo-and-the-mystery-of-hidden-objects.json) |
 | Pocoyo Art | 102613 | [102613-pocoyo-art.json](./102613-pocoyo-art.json) |
 | Pocoyo Memo Game | 107659 | [107659-pocoyo-memo-game.json](./107659-pocoyo-memo-game.json) |
 | Pocoyo Racing | 50939 | [50939-pocoyo-racing.json](./50939-pocoyo-racing.json) |
@@ -6047,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygonauts | 25785 | [25785-polygonauts.json](./25785-polygonauts.json) |
 | Polygone | 108044 | [108044-polygone.json](./108044-polygone.json) |
 | Polygonet Commanders | 222905 | [222905-polygonet-commanders.json](./222905-polygonet-commanders.json) |
+| Polygons Tower Defense | 266435 | [266435-polygons-tower-defense.json](./266435-polygons-tower-defense.json) |
 | Polygunr | 291038 | [291038-polygunr.json](./291038-polygunr.json) |
 | Polyhop: The Skybound Islands | 278743 | [278743-polyhop-the-skybound-islands.json](./278743-polyhop-the-skybound-islands.json) |
 | Polyjump | 366390 | [366390-polyjump.json](./366390-polyjump.json) |
@@ -7670,6 +7674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project A-ko 2 | 260110 | [260110-project-a-ko-2.json](./260110-project-a-ko-2.json) |
 | Project A10 | 297191 | [297191-project-a10.json](./297191-project-a10.json) |
 | Project Abyss | 26204 | [26204-project-abyss.json](./26204-project-abyss.json) |
+| Project Adder | 266433 | [266433-project-adder.json](./266433-project-adder.json) |
 | Project Aeroes | 330342 | [330342-project-aeroes.json](./330342-project-aeroes.json) |
 | Project Aftershock | 94753 | [94753-project-aftershock.json](./94753-project-aftershock.json) |
 | Project Alpha 002 | 30943 | [30943-project-alpha-002.json](./30943-project-alpha-002.json) |
