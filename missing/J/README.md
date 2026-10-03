@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japan Train Models: JR West Edition | 278130 | [278130-japan-train-models-jr-west-edition.json](./278130-japan-train-models-jr-west-edition.json) |
 | Japan Trip | 340767 | [340767-japan-trip.json](./340767-japan-trip.json) |
 | Japanese Dominatrixes Are the Best | 385702 | [385702-japanese-dominatrixes-are-the-best.json](./385702-japanese-dominatrixes-are-the-best.json) |
+| Japanese Dungeon: Learn J-Word | 232068 | [232068-japanese-dungeon-learn-j-word.json](./232068-japanese-dungeon-learn-j-word.json) |
 | Japanese Escape Games: The Forbidden Garden | 221699 | [221699-japanese-escape-games-the-forbidden-garden.json](./221699-japanese-escape-games-the-forbidden-garden.json) |
 | Japanese Escape Games: The Hotel of Tricks | 209690 | [209690-japanese-escape-games-the-hotel-of-tricks.json](./209690-japanese-escape-games-the-hotel-of-tricks.json) |
 | Japanese Escape Games: The Light and Mirror Room | 234579 | [234579-japanese-escape-games-the-light-and-mirror-room.json](./234579-japanese-escape-games-the-light-and-mirror-room.json) |
