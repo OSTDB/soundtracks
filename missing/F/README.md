@@ -3319,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishy Dish | 383960 | [383960-fishy-dish.json](./383960-fishy-dish.json) |
 | Fishy Dungeon Delving | 230917 | [230917-fishy-dungeon-delving.json](./230917-fishy-dungeon-delving.json) |
 | Fishy2 | 129381 | [129381-fishy2.json](./129381-fishy2.json) |
+| Fishyphus | 265828 | [265828-fishyphus.json](./265828-fishyphus.json) |
 | Fisraduth: Castle of Tyramis | 321337 | [321337-fisraduth-castle-of-tyramis.json](./321337-fisraduth-castle-of-tyramis.json) |
 | Fission | 164917 | [164917-fission.json](./164917-fission.json) |
 | Fission | 381021 | [381021-fission.json](./381021-fission.json) |
@@ -4767,6 +4768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest at World's End | 25917 | [25917-forest-at-worlds-end.json](./25917-forest-at-worlds-end.json) |
 | Forest Battle | 166732 | [166732-forest-battle.json](./166732-forest-battle.json) |
 | Forest Camp Story | 174297 | [174297-forest-camp-story.json](./174297-forest-camp-story.json) |
+| Forest Crash Party | 265839 | [265839-forest-crash-party.json](./265839-forest-crash-party.json) |
 | Forest Crossroads | 278151 | [278151-forest-crossroads.json](./278151-forest-crossroads.json) |
 | Forest Curse | 413126 | [413126-forest-curse.json](./413126-forest-curse.json) |
 | Forest Defenders | 240920 | [240920-forest-defenders.json](./240920-forest-defenders.json) |
@@ -5411,6 +5413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxcrate | 266978 | [266978-foxcrate.json](./266978-foxcrate.json) |
 | Foxcrate | 383928 | [383928-foxcrate.json](./383928-foxcrate.json) |
 | Foxes and Cows | 178608 | [178608-foxes-and-cows.json](./178608-foxes-and-cows.json) |
+| Foxes Need to Eat | 265864 | [265864-foxes-need-to-eat.json](./265864-foxes-need-to-eat.json) |
 | Foxfire | 404247 | [404247-foxfire.json](./404247-foxfire.json) |
 | Foxfolk | 52050 | [52050-foxfolk.json](./52050-foxfolk.json) |
 | FoxHaunt | 386279 | [386279-foxhaunt.json](./386279-foxhaunt.json) |
