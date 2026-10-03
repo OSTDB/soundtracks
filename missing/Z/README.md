@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zulkania | 338323 | [338323-zulkania.json](./338323-zulkania.json) |
 | Zulu | 365287 | [365287-zulu.json](./365287-zulu.json) |
 | Zulup | 129021 | [129021-zulup.json](./129021-zulup.json) |
+| Zuma | 247056 | [247056-zuma.json](./247056-zuma.json) |
 | Zuma Girls | 369564 | [369564-zuma-girls.json](./369564-zuma-girls.json) |
 | Zuma's Revenge! | 8322 | [8322-zumas-revenge.json](./8322-zumas-revenge.json) |
 | Zumania: Magic Casual Puzzle | 175813 | [175813-zumania-magic-casual-puzzle.json](./175813-zumania-magic-casual-puzzle.json) |
@@ -1196,10 +1197,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zunou Taisen Live | 267542 | [267542-zunou-taisen-live.json](./267542-zunou-taisen-live.json) |
 | ZunZun Block | 172657 | [172657-zunzun-block.json](./172657-zunzun-block.json) |
 | Zunzunkyou No Yabou | 40972 | [40972-zunzunkyou-no-yabou.json](./40972-zunzunkyou-no-yabou.json) |
+| Zup-qop! | 247081 | [247081-zup-qop.json](./247081-zup-qop.json) |
 | Zup-Zup! | 52097 | [52097-zup-zup.json](./52097-zup-zup.json) |
 | Zup! 5 | 38784 | [38784-zup-5.json](./38784-zup-5.json) |
 | Zup! 7 | 76121 | [76121-zup-7.json](./76121-zup-7.json) |
 | Zup! F | 129833 | [129833-zup-f.json](./129833-zup-f.json) |
+| Zup! Q | 247058 | [247058-zup-q.json](./247058-zup-q.json) |
 | Zup! S | 111200 | [111200-zup-s.json](./111200-zup-s.json) |
 | Zup! Y | 316678 | [316678-zup-y.json](./316678-zup-y.json) |
 | Zup! Zero 2 | 105879 | [105879-zup-zero-2.json](./105879-zup-zero-2.json) |
