@@ -6894,6 +6894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Children | 137590 | [137590-missing-children.json](./137590-missing-children.json) |
 | Missing Children of Ann Siang Hill | 179113 | [179113-missing-children-of-ann-siang-hill.json](./179113-missing-children-of-ann-siang-hill.json) |
 | Missing Coordinates | 308272 | [308272-missing-coordinates.json](./308272-missing-coordinates.json) |
+| Missing Critters | 249903 | [249903-missing-critters.json](./249903-missing-critters.json) |
 | Missing Dots Matrix | 94702 | [94702-missing-dots-matrix.json](./94702-missing-dots-matrix.json) |
 | Missing Friend: Icky Mr Fox | 299262 | [299262-missing-friend-icky-mr-fox.json](./299262-missing-friend-icky-mr-fox.json) |
 | Missing Hearts: Crimson Cruise | 416625 | [416625-missing-hearts-crimson-cruise.json](./416625-missing-hearts-crimson-cruise.json) |
@@ -7450,6 +7451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mogh | 126526 | [126526-mogh.json](./126526-mogh.json) |
 | MoghVR | 160136 | [160136-moghvr.json](./160136-moghvr.json) |
 | Mogo Invasion | 48004 | [48004-mogo-invasion.json](./48004-mogo-invasion.json) |
+| Mogrimera: Disciple of Order | 249907 | [249907-mogrimera-disciple-of-order.json](./249907-mogrimera-disciple-of-order.json) |
 | Moguchan | 38584 | [38584-moguchan.json](./38584-moguchan.json) |
 | Mogul Maniac | 40788 | [40788-mogul-maniac.json](./40788-mogul-maniac.json) |
 | Mogura de Pon! | 342739 | [342739-mogura-de-pon.json](./342739-mogura-de-pon.json) |
@@ -9687,6 +9689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder at the Birch Tree Theater | 296477 | [296477-murder-at-the-birch-tree-theater.json](./296477-murder-at-the-birch-tree-theater.json) |
 | Murder at the Cat Show | 194317 | [194317-murder-at-the-cat-show.json](./194317-murder-at-the-cat-show.json) |
 | Murder at the Disco | 271792 | [271792-murder-at-the-disco.json](./271792-murder-at-the-disco.json) |
+| Murder at the House | 249902 | [249902-murder-at-the-house.json](./249902-murder-at-the-house.json) |
 | Murder Avenue | 292531 | [292531-murder-avenue.json](./292531-murder-avenue.json) |
 | Murder by Candlelight | 305369 | [305369-murder-by-candlelight.json](./305369-murder-by-candlelight.json) |
 | Murder by Choice: Mystery Game | 266265 | [266265-murder-by-choice-mystery-game.json](./266265-murder-by-choice-mystery-game.json) |
