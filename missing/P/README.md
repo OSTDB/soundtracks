@@ -2130,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin no Mondai: Saikyou Penguin Densetsu! | 69272 | [69272-penguin-no-mondai-saikyou-penguin-densetsu.json](./69272-penguin-no-mondai-saikyou-penguin-densetsu.json) |
 | Penguin no Mondai: The Wars | 141147 | [141147-penguin-no-mondai-the-wars.json](./141147-penguin-no-mondai-the-wars.json) |
 | Penguin Noir | 247764 | [247764-penguin-noir.json](./247764-penguin-noir.json) |
+| Penguin Pairs | 239109 | [239109-penguin-pairs.json](./239109-penguin-pairs.json) |
 | Penguin Panic! | 311564 | [311564-penguin-panic.json](./311564-penguin-panic.json) |
 | Penguin Push | 146894 | [146894-penguin-push.json](./146894-penguin-push.json) |
 | Penguin Puzzle | 208883 | [208883-penguin-puzzle.json](./208883-penguin-puzzle.json) |
@@ -3012,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physiofun: Pelvic Floor Training | 84827 | [84827-physiofun-pelvic-floor-training.json](./84827-physiofun-pelvic-floor-training.json) |
 | Phytomancer | 175886 | [175886-phytomancer.json](./175886-phytomancer.json) |
 | PhyxBox | 127873 | [127873-phyxbox.json](./127873-phyxbox.json) |
+| Pi Fu Fighter | 239106 | [239106-pi-fu-fighter.json](./239106-pi-fu-fighter.json) |
 | Pi in the Sky | 354647 | [354647-pi-in-the-sky.json](./354647-pi-in-the-sky.json) |
 | Pi Story | 93987 | [93987-pi-story.json](./93987-pi-story.json) |
 | Pi-Balled | 354646 | [354646-pi-balled.json](./354646-pi-balled.json) |
@@ -3976,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit-Fighter | 307835 | [307835-pit-fighter.json](./307835-pit-fighter.json) |
 | Pit-Fighter | 307836 | [307836-pit-fighter.json](./307836-pit-fighter.json) |
 | Pitball | 20723 | [20723-pitball.json](./20723-pitball.json) |
+| Pitball: Winter Waifus | 239218 | [239218-pitball-winter-waifus.json](./239218-pitball-winter-waifus.json) |
 | Pitch & Pixel | 405605 | [405605-pitch-and-pixel.json](./405605-pitch-and-pixel.json) |
 | Pitch Black | 223685 | [223685-pitch-black.json](./223685-pitch-black.json) |
 | Pitch Black | 278440 | [278440-pitch-black.json](./278440-pitch-black.json) |
@@ -6327,6 +6330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Rocket | 341562 | [341562-poop-rocket.json](./341562-poop-rocket.json) |
 | Poop Spotter: The Game To Improve the Quality of Poop~ | 294286 | [294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json](./294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json) |
 | Poor Artifact Maker | 290538 | [290538-poor-artifact-maker.json](./290538-poor-artifact-maker.json) |
+| Poor Bunny! | 239132 | [239132-poor-bunny.json](./239132-poor-bunny.json) |
 | Poor Lucas and the Evil Duke | 190206 | [190206-poor-lucas-and-the-evil-duke.json](./190206-poor-lucas-and-the-evil-duke.json) |
 | Poor Mouse | 273437 | [273437-poor-mouse.json](./273437-poor-mouse.json) |
 | Poor Piggy Pirate | 368146 | [368146-poor-piggy-pirate.json](./368146-poor-piggy-pirate.json) |
