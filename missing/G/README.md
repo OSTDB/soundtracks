@@ -2976,6 +2976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God: The Game | 264872 | [264872-god-the-game.json](./264872-god-the-game.json) |
 | God'n Spy Add-on: Power & Revolution 2023 Edition | 256989 | [256989-godn-spy-add-on-power-and-revolution-2023-edition.json](./256989-godn-spy-add-on-power-and-revolution-2023-edition.json) |
 | God's Forest | 265133 | [265133-gods-forest.json](./265133-gods-forest.json) |
+| God's Gift | 236876 | [236876-gods-gift.json](./236876-gods-gift.json) |
 | God's League | 341477 | [341477-gods-league.json](./341477-gods-league.json) |
 | God's Miniature Garden | 263136 | [263136-gods-miniature-garden.json](./263136-gods-miniature-garden.json) |
 | God's One Day World | 90582 | [90582-gods-one-day-world.json](./90582-gods-one-day-world.json) |
@@ -4166,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitation | 57614 | [57614-gravitation.json](./57614-gravitation.json) |
 | Gravitational | 150150 | [150150-gravitational.json](./150150-gravitational.json) |
 | Gravitators | 157507 | [157507-gravitators.json](./157507-gravitators.json) |
+| Gravitaws | 236886 | [236886-gravitaws.json](./236886-gravitaws.json) |
 | Gravitaze: One | 171397 | [171397-gravitaze-one.json](./171397-gravitaze-one.json) |
 | Graviteam Tactics: Mius Front | 18173 | [18173-graviteam-tactics-mius-front.json](./18173-graviteam-tactics-mius-front.json) |
 | Graviteam Tactics: Mius Front - Against the Tide | 155477 | [155477-graviteam-tactics-mius-front-against-the-tide.json](./155477-graviteam-tactics-mius-front-against-the-tide.json) |
@@ -5568,6 +5570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunsmoke | 261449 | [261449-gunsmoke.json](./261449-gunsmoke.json) |
 | Gunso's Skateboard Run | 333733 | [333733-gunsos-skateboard-run.json](./333733-gunsos-skateboard-run.json) |
 | GunSoul Girl 2 | 213000 | [213000-gunsoul-girl-2.json](./213000-gunsoul-girl-2.json) |
+| GunSpectre | 236882 | [236882-gunspectre.json](./236882-gunspectre.json) |
 | Gunspell | 54071 | [54071-gunspell.json](./54071-gunspell.json) |
 | Gunspell: Steam Edition | 36221 | [36221-gunspell-steam-edition.json](./36221-gunspell-steam-edition.json) |
 | Gunsport | 52239 | [52239-gunsport.json](./52239-gunsport.json) |
