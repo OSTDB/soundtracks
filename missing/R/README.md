@@ -2066,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Riding Hood | 179695 | [179695-red-riding-hood.json](./179695-red-riding-hood.json) |
 | Red Riding Hood | 225309 | [225309-red-riding-hood.json](./225309-red-riding-hood.json) |
 | Red Riding Hood: Star Crossed Lovers | 96880 | [96880-red-riding-hood-star-crossed-lovers.json](./96880-red-riding-hood-star-crossed-lovers.json) |
+| Red Ring of Immortality | 238010 | [238010-red-ring-of-immortality.json](./238010-red-ring-of-immortality.json) |
 | Red River | 360727 | [360727-red-river.json](./360727-red-river.json) |
 | Red Rogue Sea | 338332 | [338332-red-rogue-sea.json](./338332-red-rogue-sea.json) |
 | Red Ronin | 133967 | [133967-red-ronin.json](./133967-red-ronin.json) |
@@ -2455,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reksio: Miasto Sekretów | 146300 | [146300-reksio-miasto-sekretow.json](./146300-reksio-miasto-sekretow.json) |
 | Reksio: Miasto Sekretów - Limited Edition | 146707 | [146707-reksio-miasto-sekretow-limited-edition.json](./146707-reksio-miasto-sekretow-limited-edition.json) |
 | Rekt!: Double Flip | 238063 | [238063-rekt-double-flip.json](./238063-rekt-double-flip.json) |
+| Rekt!: The Forge | 238027 | [238027-rekt-the-forge.json](./238027-rekt-the-forge.json) |
 | Reky | 122329 | [122329-reky.json](./122329-reky.json) |
 | Reky + Cyber Protocol | 231343 | [231343-reky-cyber-protocol.json](./231343-reky-cyber-protocol.json) |
 | Relapse | 208585 | [208585-relapse.json](./208585-relapse.json) |
