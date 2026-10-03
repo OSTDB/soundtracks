@@ -4983,6 +4983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please | 134675 | [134675-please.json](./134675-please.json) |
 | Please (Don't) Touch the Art | 276478 | [276478-please-dont-touch-the-art.json](./276478-please-dont-touch-the-art.json) |
 | Please Answer Carefully | 176488 | [176488-please-answer-carefully.json](./176488-please-answer-carefully.json) |
+| Please Be Kind to the Chickens | 258080 | [258080-please-be-kind-to-the-chickens.json](./258080-please-be-kind-to-the-chickens.json) |
 | Please Do Not Climb on the Dinosaurs | 383970 | [383970-please-do-not-climb-on-the-dinosaurs.json](./383970-please-do-not-climb-on-the-dinosaurs.json) |
 | Please Don't Feed the Creatures of the Deep | 323272 | [323272-please-dont-feed-the-creatures-of-the-deep.json](./323272-please-dont-feed-the-creatures-of-the-deep.json) |
 | Please Don't Understand Me | 394861 | [394861-please-dont-understand-me.json](./394861-please-dont-understand-me.json) |
