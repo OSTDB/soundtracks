@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangster | 13855 | [13855-gangster.json](./13855-gangster.json) |
 | Gangster Alley | 18555 | [18555-gangster-alley.json](./18555-gangster-alley.json) |
 | Gangster Bros | 282577 | [282577-gangster-bros.json](./282577-gangster-bros.json) |
+| Gangster Coin Pusher | 255236 | [255236-gangster-coin-pusher.json](./255236-gangster-coin-pusher.json) |
 | Gangster Life: Criminal Untold , Cars, Theft, Police | 241889 | [241889-gangster-life-criminal-untold-cars-theft-police.json](./241889-gangster-life-criminal-untold-cars-theft-police.json) |
 | Gangster Simulator | 150576 | [150576-gangster-simulator.json](./150576-gangster-simulator.json) |
 | Gangster Town | 45650 | [45650-gangster-town.json](./45650-gangster-town.json) |
