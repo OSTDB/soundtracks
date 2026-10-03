@@ -4468,6 +4468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Earth Is Flat | 298144 | [298144-the-earth-is-flat.json](./298144-the-earth-is-flat.json) |
 | The Earth Sucks | 337278 | [337278-the-earth-sucks.json](./337278-the-earth-sucks.json) |
 | The Easiest Way | 364660 | [364660-the-easiest-way.json](./364660-the-easiest-way.json) |
+| The Eastermansion | 252296 | [252296-the-eastermansion.json](./252296-the-eastermansion.json) |
 | The Eastern Edge | 341897 | [341897-the-eastern-edge.json](./341897-the-eastern-edge.json) |
 | The Eastern Sacrifice | 273659 | [273659-the-eastern-sacrifice.json](./273659-the-eastern-sacrifice.json) |
 | The Ebb and Flow of the Tide | 146196 | [146196-the-ebb-and-flow-of-the-tide.json](./146196-the-ebb-and-flow-of-the-tide.json) |
@@ -6564,6 +6565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Twilight Princess HD | 18017 | [18017-the-legend-of-zelda-twilight-princess-hd.json](./18017-the-legend-of-zelda-twilight-princess-hd.json) |
 | The Legend of Zelda: Twilight Princess Randomizer | 241894 | [241894-the-legend-of-zelda-twilight-princess-randomizer.json](./241894-the-legend-of-zelda-twilight-princess-randomizer.json) |
 | The Legend of Zelda: Unnamed Quest | 322780 | [322780-the-legend-of-zelda-unnamed-quest.json](./322780-the-legend-of-zelda-unnamed-quest.json) |
+| The Legend of Zelda: Voyager of Time | 252292 | [252292-the-legend-of-zelda-voyager-of-time.json](./252292-the-legend-of-zelda-voyager-of-time.json) |
 | The Legend of Zelda: Waves of Time | 323908 | [323908-the-legend-of-zelda-waves-of-time.json](./323908-the-legend-of-zelda-waves-of-time.json) |
 | The Legend of Zelda: Whomp's Fortress | 299484 | [299484-the-legend-of-zelda-whomps-fortress.json](./299484-the-legend-of-zelda-whomps-fortress.json) |
 | The Legend of Zelda: Winter Solstice | 254478 | [254478-the-legend-of-zelda-winter-solstice.json](./254478-the-legend-of-zelda-winter-solstice.json) |
@@ -6856,6 +6858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Town: The Dust | 65872 | [65872-the-lost-town-the-dust.json](./65872-the-lost-town-the-dust.json) |
 | The Lost Treasure of RON | 71244 | [71244-the-lost-treasure-of-ron.json](./71244-the-lost-treasure-of-ron.json) |
 | The Lost Valley | 171490 | [171490-the-lost-valley.json](./171490-the-lost-valley.json) |
+| The Lost Valley | 252295 | [252295-the-lost-valley.json](./252295-the-lost-valley.json) |
 | The Lost Vikings | 214736 | [214736-the-lost-vikings.json](./214736-the-lost-vikings.json) |
 | The Lost Vikings | 214769 | [214769-the-lost-vikings.json](./214769-the-lost-vikings.json) |
 | The Lost Vikings | 454 | [454-the-lost-vikings.json](./454-the-lost-vikings.json) |
@@ -7749,6 +7752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The PTSD Mod 2 | 312623 | [312623-the-ptsd-mod-2.json](./312623-the-ptsd-mod-2.json) |
 | The Pub Simulator | 238727 | [238727-the-pub-simulator.json](./238727-the-pub-simulator.json) |
 | The Pulps Company | 283764 | [283764-the-pulps-company.json](./283764-the-pulps-company.json) |
+| The Pulse of Evil | 252261 | [252261-the-pulse-of-evil.json](./252261-the-pulse-of-evil.json) |
 | The Punchbag Machine | 406907 | [406907-the-punchbag-machine.json](./406907-the-punchbag-machine.json) |
 | The Punchuin | 229144 | [229144-the-punchuin.json](./229144-the-punchuin.json) |
 | The Punisher | 18294 | [18294-the-punisher.json](./18294-the-punisher.json) |
@@ -8394,6 +8398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silent One | 347763 | [347763-the-silent-one.json](./347763-the-silent-one.json) |
 | The Silent Suite | 330923 | [330923-the-silent-suite.json](./330923-the-silent-suite.json) |
 | The Silent Swan: Rising in the Mist Edition | 271400 | [271400-the-silent-swan-rising-in-the-mist-edition.json](./271400-the-silent-swan-rising-in-the-mist-edition.json) |
+| The Silicon Shadow | 252260 | [252260-the-silicon-shadow.json](./252260-the-silicon-shadow.json) |
 | The Silk Road of the Eastern Dynasty | 211665 | [211665-the-silk-road-of-the-eastern-dynasty.json](./211665-the-silk-road-of-the-eastern-dynasty.json) |
 | The Silver Age | 209556 | [209556-the-silver-age.json](./209556-the-silver-age.json) |
 | The Silver Case | 21560 | [21560-the-silver-case.json](./21560-the-silver-case.json) |
@@ -13834,6 +13839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Tactics Arena | 285534 | [285534-tower-tactics-arena.json](./285534-tower-tactics-arena.json) |
 | Tower Tactics: Astral Siege | 336624 | [336624-tower-tactics-astral-siege.json](./336624-tower-tactics-astral-siege.json) |
 | Tower to Heaven | 173313 | [173313-tower-to-heaven.json](./173313-tower-to-heaven.json) |
+| Tower Walker - The Ancient Ones | 252259 | [252259-tower-walker-the-ancient-ones.json](./252259-tower-walker-the-ancient-ones.json) |
 | Tower Walker: MMO Grind Simulator | 217504 | [217504-tower-walker-mmo-grind-simulator.json](./217504-tower-walker-mmo-grind-simulator.json) |
 | Tower War: Tactical Conquest | 245333 | [245333-tower-war-tactical-conquest.json](./245333-tower-war-tactical-conquest.json) |
 | Tower Words | 195130 | [195130-tower-words.json](./195130-tower-words.json) |
@@ -16001,6 +16007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Crime: Streets of LA | 4216 | [4216-true-crime-streets-of-la.json](./4216-true-crime-streets-of-la.json) |
 | True Detective Solitaire | 88755 | [88755-true-detective-solitaire.json](./88755-true-detective-solitaire.json) |
 | True Disc Golf | 247586 | [247586-true-disc-golf.json](./247586-true-disc-golf.json) |
+| True Driver | 252258 | [252258-true-driver.json](./252258-true-driver.json) |
 | True Fantasy Live Online | 18106 | [18106-true-fantasy-live-online.json](./18106-true-fantasy-live-online.json) |
 | True Fear: Forsaken Souls Part 2 | 111276 | [111276-true-fear-forsaken-souls-part-2.json](./111276-true-fear-forsaken-souls-part-2.json) |
 | True Horror | 103674 | [103674-true-horror.json](./103674-true-horror.json) |
