@@ -3385,6 +3385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better Tomorrows | 180829 | [180829-better-tomorrows.json](./180829-better-tomorrows.json) |
 | Better With A Friend | 301255 | [301255-better-with-a-friend.json](./301255-better-with-a-friend.json) |
 | BetterEd Element Master | 106754 | [106754-bettered-element-master.json](./106754-bettered-element-master.json) |
+| Betterified VI: Bestified | 278057 | [278057-betterified-vi-bestified.json](./278057-betterified-vi-bestified.json) |
 | BetterVR | 386425 | [386425-bettervr.json](./386425-bettervr.json) |
 | Betty & Earl | 163977 | [163977-betty-and-earl.json](./163977-betty-and-earl.json) |
 | Betty Bad | 23449 | [23449-betty-bad.json](./23449-betty-bad.json) |
