@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil of Ashes | 350025 | [350025-veil-of-ashes.json](./350025-veil-of-ashes.json) |
 | Veil of Clay | 262951 | [262951-veil-of-clay.json](./262951-veil-of-clay.json) |
 | Veil of Darkness | 14450 | [14450-veil-of-darkness.json](./14450-veil-of-darkness.json) |
+| Veil of Darkness | 272498 | [272498-veil-of-darkness.json](./272498-veil-of-darkness.json) |
 | Veil of Secrets | 313817 | [313817-veil-of-secrets.json](./313817-veil-of-secrets.json) |
 | Veil of Torment | 351686 | [351686-veil-of-torment.json](./351686-veil-of-torment.json) |
 | Veil Runners | 310932 | [310932-veil-runners.json](./310932-veil-runners.json) |
