@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echochrome II | 18240 | [18240-echochrome-ii.json](./18240-echochrome-ii.json) |
 | Echoed Nights | 408194 | [408194-echoed-nights.json](./408194-echoed-nights.json) |
 | Echoed Realms | 295000 | [295000-echoed-realms.json](./295000-echoed-realms.json) |
+| Echoes | 264209 | [264209-echoes.json](./264209-echoes.json) |
 | Echoes | 303503 | [303503-echoes.json](./303503-echoes.json) |
 | Echoes | 91392 | [91392-echoes.json](./91392-echoes.json) |
 | Echoes Afterfall | 303513 | [303513-echoes-afterfall.json](./303513-echoes-afterfall.json) |
@@ -697,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg | 305447 | [305447-egg.json](./305447-egg.json) |
 | Egg Bunny 2 | 199387 | [199387-egg-bunny-2.json](./199387-egg-bunny-2.json) |
 | Egg Collector | 246497 | [246497-egg-collector.json](./246497-egg-collector.json) |
+| Egg Drop | 264233 | [264233-egg-drop.json](./264233-egg-drop.json) |
 | Egg Drop Soup | 414301 | [414301-egg-drop-soup.json](./414301-egg-drop-soup.json) |
 | Egg Harvester | 409637 | [409637-egg-harvester.json](./409637-egg-harvester.json) |
 | Egg Hunt | 110375 | [110375-egg-hunt.json](./110375-egg-hunt.json) |
