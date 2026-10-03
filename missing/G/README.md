@@ -885,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Truck: Bulky Trash Pick Up | 97289 | [97289-garbage-truck-bulky-trash-pick-up.json](./97289-garbage-truck-bulky-trash-pick-up.json) |
 | Garbage Truck: Snow Time | 105529 | [105529-garbage-truck-snow-time.json](./105529-garbage-truck-snow-time.json) |
 | Garbagefield Saves Christmas | 309581 | [309581-garbagefield-saves-christmas.json](./309581-garbagefield-saves-christmas.json) |
+| GarbageGame | 264215 | [264215-garbagegame.json](./264215-garbagegame.json) |
 | Garbageman | 276217 | [276217-garbageman.json](./276217-garbageman.json) |
 | Garden | 185675 | [185675-garden.json](./185675-garden.json) |
 | Garden | 230201 | [230201-garden.json](./230201-garden.json) |
