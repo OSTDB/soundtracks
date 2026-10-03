@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the War | 355225 | [355225-back-to-the-war.json](./355225-back-to-the-war.json) |
 | Backbeat and Hexagroove: Music Strategy Bundle | 242074 | [242074-backbeat-and-hexagroove-music-strategy-bundle.json](./242074-backbeat-and-hexagroove-music-strategy-bundle.json) |
 | Backbone: Artifact Edition | 159697 | [159697-backbone-artifact-edition.json](./159697-backbone-artifact-edition.json) |
+| Backbone's Rampage | 277540 | [277540-backbones-rampage.json](./277540-backbones-rampage.json) |
 | Backbreaker Vengeance | 22942 | [22942-backbreaker-vengeance.json](./22942-backbreaker-vengeance.json) |
 | BackDoor- Door 1 | 101761 | [101761-backdoor-door-1.json](./101761-backdoor-door-1.json) |
 | BackDoor- Door 2 | 101760 | [101760-backdoor-door-2.json](./101760-backdoor-door-2.json) |
@@ -376,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Wrestling: Don't Try This at Home | 5734 | [5734-backyard-wrestling-dont-try-this-at-home.json](./5734-backyard-wrestling-dont-try-this-at-home.json) |
 | BAClash | 58271 | [58271-baclash.json](./58271-baclash.json) |
 | Bacon Blitz | 181761 | [181761-bacon-blitz.json](./181761-bacon-blitz.json) |
+| Bacon Grease | 277492 | [277492-bacon-grease.json](./277492-bacon-grease.json) |
 | Bacon in Zane | 399719 | [399719-bacon-in-zane.json](./399719-bacon-in-zane.json) |
 | Bacon Man: An Adventure | 36218 | [36218-bacon-man-an-adventure.json](./36218-bacon-man-an-adventure.json) |
 | Bacon Roll | 88005 | [88005-bacon-roll.json](./88005-bacon-roll.json) |
@@ -1115,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bar Night VR | 319722 | [319722-bar-night-vr.json](./319722-bar-night-vr.json) |
 | Bar Oasis | 63803 | [63803-bar-oasis.json](./63803-bar-oasis.json) |
 | Bar Simulator | 407335 | [407335-bar-simulator.json](./407335-bar-simulator.json) |
+| Bar Stella Abyss | 277489 | [277489-bar-stella-abyss.json](./277489-bar-stella-abyss.json) |
 | Bara Boarders | 183046 | [183046-bara-boarders.json](./183046-bara-boarders.json) |
 | Bara no Ki ni: Bara no Hanasaku | 56522 | [56522-bara-no-ki-ni-bara-no-hanasaku.json](./56522-bara-no-ki-ni-bara-no-hanasaku.json) |
 | Baraban: Master of Bargain | 367490 | [367490-baraban-master-of-bargain.json](./367490-baraban-master-of-bargain.json) |
@@ -3626,6 +3629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Adventure: Trip to Europe 9 | 417380 | [417380-big-adventure-trip-to-europe-9.json](./417380-big-adventure-trip-to-europe-9.json) |
 | Big Bad Sudoku Book | 267334 | [267334-big-bad-sudoku-book.json](./267334-big-bad-sudoku-book.json) |
 | Big Ball Sports | 275876 | [275876-big-ball-sports.json](./275876-big-ball-sports.json) |
+| Big Ballers VR | 277509 | [277509-big-ballers-vr.json](./277509-big-ballers-vr.json) |
 | Big Band Survivors | 374786 | [374786-big-band-survivors.json](./374786-big-band-survivors.json) |
 | Big Bang Billiards | 75819 | [75819-big-bang-billiards.json](./75819-big-bang-billiards.json) |
 | Big Bang Board Games | 78654 | [78654-big-bang-board-games.json](./78654-big-bang-board-games.json) |
@@ -4472,6 +4476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hole | 85507 | [85507-black-hole.json](./85507-black-hole.json) |
 | Black Hole Fishing | 346166 | [346166-black-hole-fishing.json](./346166-black-hole-fishing.json) |
 | Black Hole Gun | 413182 | [413182-black-hole-gun.json](./413182-black-hole-gun.json) |
+| Black Hole Interior Explorer | 277534 | [277534-black-hole-interior-explorer.json](./277534-black-hole-interior-explorer.json) |
 | Black Hole Void: Survive The Hole | 332601 | [332601-black-hole-void-survive-the-hole.json](./332601-black-hole-void-survive-the-hole.json) |
 | Black Hole: Farmageddon | 382410 | [382410-black-hole-farmageddon.json](./382410-black-hole-farmageddon.json) |
 | Black Hollow | 410993 | [410993-black-hollow.json](./410993-black-hollow.json) |
@@ -5231,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Man Adventures | 295557 | [295557-block-man-adventures.json](./295557-block-man-adventures.json) |
 | Block Master 3D Puzzle | 357976 | [357976-block-master-3d-puzzle.json](./357976-block-master-3d-puzzle.json) |
 | Block Mesa 64 | 193328 | [193328-block-mesa-64.json](./193328-block-mesa-64.json) |
+| Block Mind | 277494 | [277494-block-mind.json](./277494-block-mind.json) |
 | Block Motion | 149486 | [149486-block-motion.json](./149486-block-motion.json) |
 | Block Mover Challenge | 338249 | [338249-block-mover-challenge.json](./338249-block-mover-challenge.json) |
 | Block Multiplayer: RPG | 128377 | [128377-block-multiplayer-rpg.json](./128377-block-multiplayer-rpg.json) |
@@ -6165,6 +6171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolt | 222926 | [222926-bolt.json](./222926-bolt.json) |
 | Bolt | 4723 | [4723-bolt.json](./4723-bolt.json) |
 | Bolt Action | 380996 | [380996-bolt-action.json](./380996-bolt-action.json) |
+| Bolt Action Stealth | 277506 | [277506-bolt-action-stealth.json](./277506-bolt-action-stealth.json) |
 | Bolt Riley, A Reggae Adventure: Chapter 1 | 36168 | [36168-bolt-riley-a-reggae-adventure-chapter-1.json](./36168-bolt-riley-a-reggae-adventure-chapter-1.json) |
 | Bolt Runner | 298094 | [298094-bolt-runner.json](./298094-bolt-runner.json) |
 | Bolt: Be-Awesome Edition | 269667 | [269667-bolt-be-awesome-edition.json](./269667-bolt-be-awesome-edition.json) |
@@ -7101,6 +7108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxville: Collector's Edition | 230807 | [230807-boxville-collectors-edition.json](./230807-boxville-collectors-edition.json) |
 | BoxVR | 91208 | [91208-boxvr.json](./91208-boxvr.json) |
 | Boxworld | 287649 | [287649-boxworld.json](./287649-boxworld.json) |
+| Boxy Boy | 277524 | [277524-boxy-boy.json](./277524-boxy-boy.json) |
 | Boxy Trial | 122334 | [122334-boxy-trial.json](./122334-boxy-trial.json) |
 | Boxyboy | 94912 | [94912-boxyboy.json](./94912-boxyboy.json) |
 | Boxzum | 84283 | [84283-boxzum.json](./84283-boxzum.json) |
