@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yay BMO | 268988 | [268988-yay-bmo.json](./268988-yay-bmo.json) |
 | Yay! Spring Trip with My Coworkers! | 319071 | [319071-yay-spring-trip-with-my-coworkers.json](./319071-yay-spring-trip-with-my-coworkers.json) |
 | Yaysuu's X-Treme Adventure | 316697 | [316697-yaysuus-x-treme-adventure.json](./316697-yaysuus-x-treme-adventure.json) |
+| Yaz | 263145 | [263145-yaz.json](./263145-yaz.json) |
 | Yazzie | 141112 | [141112-yazzie.json](./141112-yazzie.json) |
 | YBit | 65790 | [65790-ybit.json](./65790-ybit.json) |
 | Ye Fenny: Revenge of the Evil Good Shepherd | 81783 | [81783-ye-fenny-revenge-of-the-evil-good-shepherd.json](./81783-ye-fenny-revenge-of-the-evil-good-shepherd.json) |
