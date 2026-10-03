@@ -1821,12 +1821,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Luigi MAD NES | 323823 | [323823-mario-and-luigi-mad-nes.json](./323823-mario-and-luigi-mad-nes.json) |
 | Mario & Luigi Sokoban | 349855 | [349855-mario-and-luigi-sokoban.json](./349855-mario-and-luigi-sokoban.json) |
 | Mario & Luigi vs. The Furbies | 323179 | [323179-mario-and-luigi-vs-the-furbies.json](./323179-mario-and-luigi-vs-the-furbies.json) |
+| Mario & Luigi: Bowser's Inside Story | 270315 | [270315-mario-and-luigi-bowsers-inside-story.json](./270315-mario-and-luigi-bowsers-inside-story.json) |
 | Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey | 90113 | [90113-mario-and-luigi-bowsers-inside-story-bowser-jr-s-journey.json](./90113-mario-and-luigi-bowsers-inside-story-bowser-jr-s-journey.json) |
 | Mario & Luigi: Dream Team | 3365 | [3365-mario-and-luigi-dream-team.json](./3365-mario-and-luigi-dream-team.json) |
 | Mario & Luigi: Kola Kingdom Quest | 132856 | [132856-mario-and-luigi-kola-kingdom-quest.json](./132856-mario-and-luigi-kola-kingdom-quest.json) |
 | Mario & Luigi: Partners in Time | 3364 | [3364-mario-and-luigi-partners-in-time.json](./3364-mario-and-luigi-partners-in-time.json) |
 | Mario & Luigi: Power Blast | 313327 | [313327-mario-and-luigi-power-blast.json](./313327-mario-and-luigi-power-blast.json) |
 | Mario & Luigi: Star Emblem | 418730 | [418730-mario-and-luigi-star-emblem.json](./418730-mario-and-luigi-star-emblem.json) |
+| Mario & Luigi: Superstar Saga | 270313 | [270313-mario-and-luigi-superstar-saga.json](./270313-mario-and-luigi-superstar-saga.json) |
 | Mario & Luigi: Superstar Saga | 3351 | [3351-mario-and-luigi-superstar-saga.json](./3351-mario-and-luigi-superstar-saga.json) |
 | Mario & Luigi's Coin Chaos | 318039 | [318039-mario-and-luigis-coin-chaos.json](./318039-mario-and-luigis-coin-chaos.json) |
 | Mario & Luigi's Delightful Adventure | 307725 | [307725-mario-and-luigis-delightful-adventure.json](./307725-mario-and-luigis-delightful-adventure.json) |
@@ -7868,6 +7870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Rise: DLC Pack 3 | 237918 | [237918-monster-hunter-rise-dlc-pack-3.json](./237918-monster-hunter-rise-dlc-pack-3.json) |
 | Monster Hunter Rise: DLC Pack 5 | 223591 | [223591-monster-hunter-rise-dlc-pack-5.json](./223591-monster-hunter-rise-dlc-pack-5.json) |
 | Monster Hunter Rise: DLC Pack 6 | 223578 | [223578-monster-hunter-rise-dlc-pack-6.json](./223578-monster-hunter-rise-dlc-pack-6.json) |
+| Monster Hunter Rise: DLC Pack 9 | 270289 | [270289-monster-hunter-rise-dlc-pack-9.json](./270289-monster-hunter-rise-dlc-pack-9.json) |
 | Monster Hunter Rise: Sunbreak | 172425 | [172425-monster-hunter-rise-sunbreak.json](./172425-monster-hunter-rise-sunbreak.json) |
 | Monster Hunter Rise: Title Update 1 | 252379 | [252379-monster-hunter-rise-title-update-1.json](./252379-monster-hunter-rise-title-update-1.json) |
 | Monster Hunter Rise: Title Update 2 | 252380 | [252380-monster-hunter-rise-title-update-2.json](./252380-monster-hunter-rise-title-update-2.json) |
@@ -8094,6 +8097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters Love Candy | 63852 | [63852-monsters-love-candy.json](./63852-monsters-love-candy.json) |
 | Monsters of Kanji | 95181 | [95181-monsters-of-kanji.json](./95181-monsters-of-kanji.json) |
 | Monsters of Kanji 2 | 124205 | [124205-monsters-of-kanji-2.json](./124205-monsters-of-kanji-2.json) |
+| Monsters of Mican | 270307 | [270307-monsters-of-mican.json](./270307-monsters-of-mican.json) |
 | Monsters of Seabrook | 224653 | [224653-monsters-of-seabrook.json](./224653-monsters-of-seabrook.json) |
 | Monsters sandbox | 127085 | [127085-monsters-sandbox.json](./127085-monsters-sandbox.json) |
 | Monsters University | 137564 | [137564-monsters-university.json](./137564-monsters-university.json) |
