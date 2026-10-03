@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Classic Book Collection | 47939 | [47939-100-classic-book-collection.json](./47939-100-classic-book-collection.json) |
 | 100 Cyprus Cats | 334121 | [334121-100-cyprus-cats.json](./334121-100-cyprus-cats.json) |
 | 100 Day Term | 359555 | [359555-100-day-term.json](./359555-100-day-term.json) |
+| 100 Days | 231985 | [231985-100-days.json](./231985-100-days.json) |
 | 100 Demon Cats | 347752 | [347752-100-demon-cats.json](./347752-100-demon-cats.json) |
 | 100 Dino Cats | 284395 | [284395-100-dino-cats.json](./284395-100-dino-cats.json) |
 | 100 Dogs | 308933 | [308933-100-dogs.json](./308933-100-dogs.json) |
@@ -1046,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Havoc | 11110 | [11110-3d-havoc.json](./11110-3d-havoc.json) |
 | 3D Hentai Chess | 149424 | [149424-3d-hentai-chess.json](./149424-3d-hentai-chess.json) |
 | 3D Hopper | 327387 | [327387-3d-hopper.json](./327387-3d-hopper.json) |
+| 3D Icon Quiz | 232060 | [232060-3d-icon-quiz.json](./232060-3d-icon-quiz.json) |
 | 3D Joys | 205073 | [205073-3d-joys.json](./205073-3d-joys.json) |
 | 3D Kaleidoscope: Baby Universe | 143644 | [143644-3d-kaleidoscope-baby-universe.json](./143644-3d-kaleidoscope-baby-universe.json) |
 | 3D Magic Chess HD | 90089 | [90089-3d-magic-chess-hd.json](./90089-3d-magic-chess-hd.json) |
