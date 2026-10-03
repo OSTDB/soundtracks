@@ -4270,6 +4270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive Stampers | 366959 | [366959-hive-stampers.json](./366959-hive-stampers.json) |
 | Hive Sweeper | 118912 | [118912-hive-sweeper.json](./118912-hive-sweeper.json) |
 | Hive Time | 124254 | [124254-hive-time.json](./124254-hive-time.json) |
+| HiveCorp | 239722 | [239722-hivecorp.json](./239722-hivecorp.json) |
 | Hivecraft | 345644 | [345644-hivecraft.json](./345644-hivecraft.json) |
 | Hivefront TD | 379857 | [379857-hivefront-td.json](./379857-hivefront-td.json) |
 | Hiversaires | 230239 | [230239-hiversaires.json](./230239-hiversaires.json) |
@@ -5276,6 +5277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Host Security Guard | 278641 | [278641-host-security-guard.json](./278641-host-security-guard.json) |
 | Hostage Heart | 417565 | [417565-hostage-heart.json](./417565-hostage-heart.json) |
 | Hostil | 75816 | [75816-hostil.json](./75816-hostil.json) |
+| Hostile Dreams | 239784 | [239784-hostile-dreams.json](./239784-hostile-dreams.json) |
 | Hostile Mars | 151031 | [151031-hostile-mars.json](./151031-hostile-mars.json) |
 | Hosting Simulator: 2026 | 406312 | [406312-hosting-simulator-2026.json](./406312-hosting-simulator-2026.json) |
 | Hostyle | 397700 | [397700-hostyle.json](./397700-hostyle.json) |
