@@ -2981,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photon Rush | 44197 | [44197-photon-rush.json](./44197-photon-rush.json) |
 | Photon: The Ultimate Game on Planet Earth | 64657 | [64657-photon-the-ultimate-game-on-planet-earth.json](./64657-photon-the-ultimate-game-on-planet-earth.json) |
 | Photons | 288759 | [288759-photons.json](./288759-photons.json) |
+| PhotonVerse | 235881 | [235881-photonverse.json](./235881-photonverse.json) |
 | Photophobia | 373200 | [373200-photophobia.json](./373200-photophobia.json) |
 | Photopia | 9513 | [9513-photopia.json](./9513-photopia.json) |
 | Photos with Animal Crossing | 59998 | [59998-photos-with-animal-crossing.json](./59998-photos-with-animal-crossing.json) |
@@ -3795,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pioner | 148454 | [148454-pioner.json](./148454-pioner.json) |
 | Piozila 2 : Animal Adventures | 269066 | [269066-piozila-2-animal-adventures.json](./269066-piozila-2-animal-adventures.json) |
 | Pip 5 | 221132 | [221132-pip-5.json](./221132-pip-5.json) |
+| Pip D | 235895 | [235895-pip-d.json](./235895-pip-d.json) |
 | Pip L | 226685 | [226685-pip-l.json](./226685-pip-l.json) |
 | Pip My Dice | 314288 | [314288-pip-my-dice.json](./314288-pip-my-dice.json) |
 | Pip Pepper Park Planner | 347116 | [347116-pip-pepper-park-planner.json](./347116-pip-pepper-park-planner.json) |
@@ -8379,6 +8381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protoplasm Mutiny | 150637 | [150637-protoplasm-mutiny.json](./150637-protoplasm-mutiny.json) |
 | Protorunner | 220662 | [220662-protorunner.json](./220662-protorunner.json) |
 | Protory Jigen | 326078 | [326078-protory-jigen.json](./326078-protory-jigen.json) |
+| Protos Magos | 235804 | [235804-protos-magos.json](./235804-protos-magos.json) |
 | Protoshift | 34555 | [34555-protoshift.json](./34555-protoshift.json) |
 | Protoshock | 258442 | [258442-protoshock.json](./258442-protoshock.json) |
 | Protostar Drift | 103679 | [103679-protostar-drift.json](./103679-protostar-drift.json) |
