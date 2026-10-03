@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obrum | 406129 | [406129-obrum.json](./406129-obrum.json) |
 | Obscura | 341492 | [341492-obscura.json](./341492-obscura.json) |
 | ObsCure | 5941 | [5941-obscure.json](./5941-obscure.json) |
+| Obscure Depths | 258111 | [258111-obscure-depths.json](./258111-obscure-depths.json) |
 | Obscure Doubt | 117068 | [117068-obscure-doubt.json](./117068-obscure-doubt.json) |
 | Obscure Figures | 387648 | [387648-obscure-figures.json](./387648-obscure-figures.json) |
 | Obscure Horrors | 386684 | [386684-obscure-horrors.json](./386684-obscure-horrors.json) |
@@ -2189,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orpheus | 237084 | [237084-orpheus.json](./237084-orpheus.json) |
 | Orpheus | 262090 | [262090-orpheus.json](./262090-orpheus.json) |
 | Orpheus: Echo of Hades | 401774 | [401774-orpheus-echo-of-hades.json](./401774-orpheus-echo-of-hades.json) |
+| Orpheus: Tale of a Lover | 258095 | [258095-orpheus-tale-of-a-lover.json](./258095-orpheus-tale-of-a-lover.json) |
 | Orpheus's Dream | 119766 | [119766-orpheuss-dream.json](./119766-orpheuss-dream.json) |
 | Orqa FPV SkyDive | 196854 | [196854-orqa-fpv-skydive.json](./196854-orqa-fpv-skydive.json) |
 | Orrb | 188916 | [188916-orrb.json](./188916-orrb.json) |
@@ -2968,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OVO Smash! | 69238 | [69238-ovo-smash.json](./69238-ovo-smash.json) |
 | Ovorol | 345643 | [345643-ovorol.json](./345643-ovorol.json) |
 | OVR Dynamic Resolution | 319793 | [319793-ovr-dynamic-resolution.json](./319793-ovr-dynamic-resolution.json) |
+| Ovrdark: A Do Not Open Story | 258122 | [258122-ovrdark-a-do-not-open-story.json](./258122-ovrdark-a-do-not-open-story.json) |
 | Ovum City | 221428 | [221428-ovum-city.json](./221428-ovum-city.json) |
 | Ovus Nova | 185623 | [185623-ovus-nova.json](./185623-ovus-nova.json) |
 | Owari | 37389 | [37389-owari.json](./37389-owari.json) |
