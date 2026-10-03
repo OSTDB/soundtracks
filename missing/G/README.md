@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gantz: The Game | 78046 | [78046-gantz-the-game.json](./78046-gantz-the-game.json) |
 | Ganz Schön Clever | 105957 | [105957-ganz-schon-clever.json](./105957-ganz-schon-clever.json) |
 | Gao Gao! 1st: Radical Sequence | 230229 | [230229-gao-gao-1st-radical-sequence.json](./230229-gao-gao-1st-radical-sequence.json) |
+| Gaplus Phalanx | 243830 | [243830-gaplus-phalanx.json](./243830-gaplus-phalanx.json) |
 | Gapper | 57674 | [57674-gapper.json](./57674-gapper.json) |
 | Gappy's Adventure: Coinkeeper's Cantrip | 389129 | [389129-gappys-adventure-coinkeepers-cantrip.json](./389129-gappys-adventure-coinkeepers-cantrip.json) |
 | Gar-Type | 327351 | [327351-gar-type.json](./327351-gar-type.json) |
@@ -3207,6 +3208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Leaf Jigsaw Puzzles: Expansion Pack 1 | 268998 | [268998-golden-leaf-jigsaw-puzzles-expansion-pack-1.json](./268998-golden-leaf-jigsaw-puzzles-expansion-pack-1.json) |
 | Golden Leaf Jigsaw Puzzles: Expansion Pack 2 | 268999 | [268999-golden-leaf-jigsaw-puzzles-expansion-pack-2.json](./268999-golden-leaf-jigsaw-puzzles-expansion-pack-2.json) |
 | Golden Leaf Jigsaw Puzzles: Expansion Pack 3 | 269000 | [269000-golden-leaf-jigsaw-puzzles-expansion-pack-3.json](./269000-golden-leaf-jigsaw-puzzles-expansion-pack-3.json) |
+| Golden Manager | 243729 | [243729-golden-manager.json](./243729-golden-manager.json) |
 | Golden Memory 2 | 242103 | [242103-golden-memory-2.json](./242103-golden-memory-2.json) |
 | Golden Mine Pickaxe 2: Mummy Tombs | 195189 | [195189-golden-mine-pickaxe-2-mummy-tombs.json](./195189-golden-mine-pickaxe-2-mummy-tombs.json) |
 | Golden Moon | 158180 | [158180-golden-moon.json](./158180-golden-moon.json) |
@@ -4577,6 +4579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GridRoad | 269761 | [269761-gridroad.json](./269761-gridroad.json) |
 | Gridrunner | 310566 | [310566-gridrunner.json](./310566-gridrunner.json) |
 | Gridrunner++ | 61033 | [61033-gridrunner.json](./61033-gridrunner.json) |
+| Grids | 243731 | [243731-grids.json](./243731-grids.json) |
 | Grids of Thermometers | 296076 | [296076-grids-of-thermometers.json](./296076-grids-of-thermometers.json) |
 | Grids of World | 132269 | [132269-grids-of-world.json](./132269-grids-of-world.json) |
 | Gridspech | 238610 | [238610-gridspech.json](./238610-gridspech.json) |
@@ -5687,6 +5690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyre | 347749 | [347749-gyre.json](./347749-gyre.json) |
 | Gyre: Nova State | 109910 | [109910-gyre-nova-state.json](./109910-gyre-nova-state.json) |
 | Gyro Gear Tournament+ | 211733 | [211733-gyro-gear-tournament.json](./211733-gyro-gear-tournament.json) |
+| Gyro Skate | 243730 | [243730-gyro-skate.json](./243730-gyro-skate.json) |
 | Gyro Star VIP | 106553 | [106553-gyro-star-vip.json](./106553-gyro-star-vip.json) |
 | GyroCube VR | 109433 | [109433-gyrocube-vr.json](./109433-gyrocube-vr.json) |
 | Gyrodine | 39682 | [39682-gyrodine.json](./39682-gyrodine.json) |
