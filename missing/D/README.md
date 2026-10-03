@@ -2137,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
 | Dear Girl: Stories Hibiki - Hibiki Tokkun Daisakusen! | 204480 | [204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json](./204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json) |
 | Dear Lighthouse | 384230 | [384230-dear-lighthouse.json](./384230-dear-lighthouse.json) |
+| Dear Magi: Mahou Shounen Gakka | 242043 | [242043-dear-magi-mahou-shounen-gakka.json](./242043-dear-magi-mahou-shounen-gakka.json) |
 | Dear Mariko | 124638 | [124638-dear-mariko.json](./124638-dear-mariko.json) |
 | Dear me, I was… | 351207 | [351207-dear-me-i-was.json](./351207-dear-me-i-was.json) |
 | Dear Mom: My Letter to You | 164965 | [164965-dear-mom-my-letter-to-you.json](./164965-dear-mom-my-letter-to-you.json) |
@@ -2238,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Merchant | 293228 | [293228-death-merchant.json](./293228-death-merchant.json) |
 | Death Mile | 259241 | [259241-death-mile.json](./259241-death-mile.json) |
 | Death Motel | 283281 | [283281-death-motel.json](./283281-death-motel.json) |
+| Death Moto | 242001 | [242001-death-moto.json](./242001-death-moto.json) |
 | Death Moto 3 | 237964 | [237964-death-moto-3.json](./237964-death-moto-3.json) |
 | Death Mountain | 358491 | [358491-death-mountain.json](./358491-death-mountain.json) |
 | Death Must Die | 244243 | [244243-death-must-die.json](./244243-death-must-die.json) |
@@ -2330,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathbound: Ultimate Edition | 313211 | [313211-deathbound-ultimate-edition.json](./313211-deathbound-ultimate-edition.json) |
 | Deathbulge: Battle of the Bands | 114778 | [114778-deathbulge-battle-of-the-bands.json](./114778-deathbulge-battle-of-the-bands.json) |
 | Deathchase 2002 | 71775 | [71775-deathchase-2002.json](./71775-deathchase-2002.json) |
+| Deathchron | 242040 | [242040-deathchron.json](./242040-deathchron.json) |
 | DeathCrank | 34726 | [34726-deathcrank.json](./34726-deathcrank.json) |
 | Deathdays End | 111478 | [111478-deathdays-end.json](./111478-deathdays-end.json) |
 | Deathgarden: Bloodharvest | 119923 | [119923-deathgarden-bloodharvest.json](./119923-deathgarden-bloodharvest.json) |
@@ -3057,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Democracy | 5520 | [5520-democracy.json](./5520-democracy.json) |
 | Democracy 3: Social Engineering | 11399 | [11399-democracy-3-social-engineering.json](./11399-democracy-3-social-engineering.json) |
 | Democracy 4 | 109483 | [109483-democracy-4.json](./109483-democracy-4.json) |
+| Democracy 4: Event Pack | 242020 | [242020-democracy-4-event-pack.json](./242020-democracy-4-event-pack.json) |
 | Demolish & Build 2017 | 24941 | [24941-demolish-and-build-2017.json](./24941-demolish-and-build-2017.json) |
 | Demolish & Build 2018 | 90102 | [90102-demolish-and-build-2018.json](./90102-demolish-and-build-2018.json) |
 | Demolition | 125341 | [125341-demolition.json](./125341-demolition.json) |
@@ -3947,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Seed | 82748 | [82748-devil-seed.json](./82748-devil-seed.json) |
 | Devil Should Die | 190950 | [190950-devil-should-die.json](./190950-devil-should-die.json) |
 | Devil Slayer | 171461 | [171461-devil-slayer.json](./171461-devil-slayer.json) |
+| Devil Slayer: Raksasi - Incarnation of Darkness | 242023 | [242023-devil-slayer-raksasi-incarnation-of-darkness.json](./242023-devil-slayer-raksasi-incarnation-of-darkness.json) |
 | Devil Spire Falls | 341018 | [341018-devil-spire-falls.json](./341018-devil-spire-falls.json) |
 | Devil Stone | 110329 | [110329-devil-stone.json](./110329-devil-stone.json) |
 | Devil Tears | 175789 | [175789-devil-tears.json](./175789-devil-tears.json) |
