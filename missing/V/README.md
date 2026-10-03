@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanilla: Made to Order | 221718 | [221718-vanilla-made-to-order.json](./221718-vanilla-made-to-order.json) |
 | VanillaBeast: Ace in the Hole | 148992 | [148992-vanillabeast-ace-in-the-hole.json](./148992-vanillabeast-ace-in-the-hole.json) |
 | VanillaSugar | 356695 | [356695-vanillasugar.json](./356695-vanillasugar.json) |
+| VanimateApp | 270855 | [270855-vanimateapp.json](./270855-vanimateapp.json) |
 | Vanish | 28150 | [28150-vanish.json](./28150-vanish.json) |
 | Vanished Anniversary | 305366 | [305366-vanished-anniversary.json](./305366-vanished-anniversary.json) |
 | Vanished Maiden | 403042 | [403042-vanished-maiden.json](./403042-vanished-maiden.json) |
@@ -1402,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtually Board Snowboarding 2 | 202947 | [202947-virtually-board-snowboarding-2.json](./202947-virtually-board-snowboarding-2.json) |
 | VirtualSociety | 413192 | [413192-virtualsociety.json](./413192-virtualsociety.json) |
 | VirtualSociety Online | 142328 | [142328-virtualsociety-online.json](./142328-virtualsociety-online.json) |
+| Virtuar Z | 270869 | [270869-virtuar-z.json](./270869-virtuar-z.json) |
 | Virtue | 282015 | [282015-virtue.json](./282015-virtue.json) |
 | Virtue's Heaven | 204432 | [204432-virtues-heaven.json](./204432-virtues-heaven.json) |
 | Virtueror: The Virtual Conqueror | 216859 | [216859-virtueror-the-virtual-conqueror.json](./216859-virtueror-the-virtual-conqueror.json) |
