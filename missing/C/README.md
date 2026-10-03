@@ -1423,6 +1423,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carry The Glass | 319399 | [319399-carry-the-glass.json](./319399-carry-the-glass.json) |
 | Carry the Pack Rack | 389711 | [389711-carry-the-pack-rack.json](./389711-carry-the-pack-rack.json) |
 | Cars | 243201 | [243201-cars.json](./243201-cars.json) |
+| Cars | 243205 | [243205-cars.json](./243205-cars.json) |
+| Cars | 243206 | [243206-cars.json](./243206-cars.json) |
 | Cars | 3849 | [3849-cars.json](./3849-cars.json) |
 | Cars 2 | 210274 | [210274-cars-2.json](./210274-cars-2.json) |
 | Cars 2 | 220080 | [220080-cars-2.json](./220080-cars-2.json) |
@@ -3002,6 +3004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charles: The Full Story | 281991 | [281991-charles-the-full-story.json](./281991-charles-the-full-story.json) |
 | Charley's Day | 218979 | [218979-charleys-day.json](./218979-charleys-day.json) |
 | Charlie & Lola: My Little Town | 90085 | [90085-charlie-and-lola-my-little-town.json](./90085-charlie-and-lola-my-little-town.json) |
+| Charlie and the Chocolate Factory | 243187 | [243187-charlie-and-the-chocolate-factory.json](./243187-charlie-and-the-chocolate-factory.json) |
 | Charlie and The Chocolate Factory DVD Games | 343343 | [343343-charlie-and-the-chocolate-factory-dvd-games.json](./343343-charlie-and-the-chocolate-factory-dvd-games.json) |
 | Charlie Foxtrot & The Galaxy of Tomorrow | 166692 | [166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json](./166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json) |
 | Charlie from the swamp | 152781 | [152781-charlie-from-the-swamp.json](./152781-charlie-from-the-swamp.json) |
@@ -4520,6 +4523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Remastered | 237966 | [237966-cities-skylines-remastered.json](./237966-cities-skylines-remastered.json) |
 | Cities: Skylines - Sunny Breeze Radio | 149997 | [149997-cities-skylines-sunny-breeze-radio.json](./149997-cities-skylines-sunny-breeze-radio.json) |
 | Cities: Skylines - World Tour Bundle | 240904 | [240904-cities-skylines-world-tour-bundle.json](./240904-cities-skylines-world-tour-bundle.json) |
+| Cities: Skylines - World Tour Bundle 2 | 243292 | [243292-cities-skylines-world-tour-bundle-2.json](./243292-cities-skylines-world-tour-bundle-2.json) |
 | Cities: Skylines II | 240902 | [240902-cities-skylines-ii.json](./240902-cities-skylines-ii.json) |
 | Cities: Skylines II - Beach Properties | 292637 | [292637-cities-skylines-ii-beach-properties.json](./292637-cities-skylines-ii-beach-properties.json) |
 | Cities: Skylines II - Bridges & Ports | 294381 | [294381-cities-skylines-ii-bridges-and-ports.json](./294381-cities-skylines-ii-bridges-and-ports.json) |
