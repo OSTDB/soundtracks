@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Unleashed | 334076 | [334076-nascar-unleashed.json](./334076-nascar-unleashed.json) |
 | Nascar Web Racing | 209153 | [209153-nascar-web-racing.json](./209153-nascar-web-racing.json) |
 | NASCAR: Dirt to Daytona | 2898 | [2898-nascar-dirt-to-daytona.json](./2898-nascar-dirt-to-daytona.json) |
+| NASCAR: Superspeedway | 245430 | [245430-nascar-superspeedway.json](./245430-nascar-superspeedway.json) |
 | NASCAR: The Game 2013 | 21630 | [21630-nascar-the-game-2013.json](./21630-nascar-the-game-2013.json) |
 | Nascence | 129649 | [129649-nascence.json](./129649-nascence.json) |
 | Naser: Son of Man | 138240 | [138240-naser-son-of-man.json](./138240-naser-son-of-man.json) |
@@ -2057,6 +2058,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick Faldo Championship Golf | 295038 | [295038-nick-faldo-championship-golf.json](./295038-nick-faldo-championship-golf.json) |
 | Nick Faldo's Championship Golf | 15872 | [15872-nick-faldos-championship-golf.json](./15872-nick-faldos-championship-golf.json) |
 | Nick Football Champions | 112133 | [112133-nick-football-champions.json](./112133-nick-football-champions.json) |
+| Nick Jr. Dora the Explorer | 245429 | [245429-nick-jr-dora-the-explorer.json](./245429-nick-jr-dora-the-explorer.json) |
+| Nick Jr. Go Diego Go! | 245428 | [245428-nick-jr-go-diego-go.json](./245428-nick-jr-go-diego-go.json) |
 | Nick Jr. Play Math! | 210029 | [210029-nick-jr-play-math.json](./210029-nick-jr-play-math.json) |
 | Nick Logic for Kids | 387331 | [387331-nick-logic-for-kids.json](./387331-nick-logic-for-kids.json) |
 | Nick News with Linda Ellerbee Word Search | 325083 | [325083-nick-news-with-linda-ellerbee-word-search.json](./325083-nick-news-with-linda-ellerbee-word-search.json) |
@@ -3777,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NTR'd By Clumsiness | 236205 | [236205-ntrd-by-clumsiness.json](./236205-ntrd-by-clumsiness.json) |
 | NTRstory | 245933 | [245933-ntrstory.json](./245933-ntrstory.json) |
 | Nu pogodi! Vypusk 3: Pesnya dlya zajca | 232658 | [232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json](./232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json) |
+| Nu, pogodi! | 245427 | [245427-nu-pogodi.json](./245427-nu-pogodi.json) |
 | Nu: Carnival | 194286 | [194286-nu-carnival.json](./194286-nu-carnival.json) |
 | Nuage | 93520 | [93520-nuage.json](./93520-nuage.json) |
 | Nubby's Number Factory | 324225 | [324225-nubbys-number-factory.json](./324225-nubbys-number-factory.json) |
