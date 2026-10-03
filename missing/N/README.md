@@ -2417,6 +2417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Of SilkenCore: Train Hell | 333570 | [333570-nightmare-of-silkencore-train-hell.json](./333570-nightmare-of-silkencore-train-hell.json) |
 | Nightmare of the Snow | 150559 | [150559-nightmare-of-the-snow.json](./150559-nightmare-of-the-snow.json) |
 | Nightmare of the Webslinger | 338785 | [338785-nightmare-of-the-webslinger.json](./338785-nightmare-of-the-webslinger.json) |
+| Nightmare of Weakest Creature | 225560 | [225560-nightmare-of-weakest-creature.json](./225560-nightmare-of-weakest-creature.json) |
 | Nightmare on Ra Street | 75217 | [75217-nightmare-on-ra-street.json](./75217-nightmare-on-ra-street.json) |
 | Nightmare on the Pacific | 216238 | [216238-nightmare-on-the-pacific.json](./216238-nightmare-on-the-pacific.json) |
 | Nightmare Operator | 303003 | [303003-nightmare-operator.json](./303003-nightmare-operator.json) |
