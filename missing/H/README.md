@@ -1493,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haze Man: The Local Hero | 327952 | [327952-haze-man-the-local-hero.json](./327952-haze-man-the-local-hero.json) |
 | Haze Together | 411047 | [411047-haze-together.json](./411047-haze-together.json) |
 | Hazel | 227930 | [227930-hazel.json](./227930-hazel.json) |
+| Hazel Sky: Deluxe Edition | 227180 | [227180-hazel-sky-deluxe-edition.json](./227180-hazel-sky-deluxe-edition.json) |
 | Hazelnut Hex | 218725 | [218725-hazelnut-hex.json](./218725-hazelnut-hex.json) |
 | Hazelnut Latte | 294175 | [294175-hazelnut-latte.json](./294175-hazelnut-latte.json) |
 | Hazels | 257521 | [257521-hazels.json](./257521-hazels.json) |
