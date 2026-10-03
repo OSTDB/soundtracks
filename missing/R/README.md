@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raidlands | 125826 | [125826-raidlands.json](./125826-raidlands.json) |
 | Raidol: Injoku ni Ochita Seiningyou | 108970 | [108970-raidol-injoku-ni-ochita-seiningyou.json](./108970-raidol-injoku-ni-ochita-seiningyou.json) |
 | Raidou Remastered: Kuzunoha Village Trainings | 347332 | [347332-raidou-remastered-kuzunoha-village-trainings.json](./347332-raidou-remastered-kuzunoha-village-trainings.json) |
+| Raids Inc. | 244851 | [244851-raids-inc.json](./244851-raids-inc.json) |
 | Raids of Nohosphere | 116395 | [116395-raids-of-nohosphere.json](./116395-raids-of-nohosphere.json) |
 | Raige | 156044 | [156044-raige.json](./156044-raige.json) |
 | Raik | 135688 | [135688-raik.json](./135688-raik.json) |
@@ -3036,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rethawed | 320929 | [320929-rethawed.json](./320929-rethawed.json) |
 | ReThink | 29260 | [29260-rethink.json](./29260-rethink.json) |
 | ReThink \| Evolved 4 | 132592 | [132592-rethink-evolved-4.json](./132592-rethink-evolved-4.json) |
+| ReThink \| Evolved 5 | 244849 | [244849-rethink-evolved-5.json](./244849-rethink-evolved-5.json) |
 | ReThink 4 | 148457 | [148457-rethink-4.json](./148457-rethink-4.json) |
 | Reticle Star | 210097 | [210097-reticle-star.json](./210097-reticle-star.json) |
 | Retimed | 76921 | [76921-retimed.json](./76921-retimed.json) |
