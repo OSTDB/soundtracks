@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backstory | 406102 | [406102-backstory.json](./406102-backstory.json) |
 | Backstreet Billiards | 94359 | [94359-backstreet-billiards.json](./94359-backstreet-billiards.json) |
 | Backstreet Warriors | 351158 | [351158-backstreet-warriors.json](./351158-backstreet-warriors.json) |
+| Backswamp | 258632 | [258632-backswamp.json](./258632-backswamp.json) |
 | Backtrace: Mechanisms for Forgetting | 419849 | [419849-backtrace-mechanisms-for-forgetting.json](./419849-backtrace-mechanisms-for-forgetting.json) |
 | Backward Poiesis | 297776 | [297776-backward-poiesis.json](./297776-backward-poiesis.json) |
 | Backwards | 179176 | [179176-backwards.json](./179176-backwards.json) |
