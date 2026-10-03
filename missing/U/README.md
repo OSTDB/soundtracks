@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Custom Night VR | 220139 | [220139-ultimate-custom-night-vr.json](./220139-ultimate-custom-night-vr.json) |
 | Ultimate Demolition | 150485 | [150485-ultimate-demolition.json](./150485-ultimate-demolition.json) |
 | Ultimate Destruction Simulator | 343790 | [343790-ultimate-destruction-simulator.json](./343790-ultimate-destruction-simulator.json) |
+| Ultimate Dice Wars: Reborn | 233058 | [233058-ultimate-dice-wars-reborn.json](./233058-ultimate-dice-wars-reborn.json) |
 | Ultimate Disc Golf | 129001 | [129001-ultimate-disc-golf.json](./129001-ultimate-disc-golf.json) |
 | Ultimate Domain | 12430 | [12430-ultimate-domain.json](./12430-ultimate-domain.json) |
 | Ultimate Dragon Simulator | 86894 | [86894-ultimate-dragon-simulator.json](./86894-ultimate-dragon-simulator.json) |
@@ -413,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimus | 267425 | [267425-ultimus.json](./267425-ultimus.json) |
 | Ultionus: A Tale of Petty Revenge | 36408 | [36408-ultionus-a-tale-of-petty-revenge.json](./36408-ultionus-a-tale-of-petty-revenge.json) |
 | Ultire: Balls Out | 124259 | [124259-ultire-balls-out.json](./124259-ultire-balls-out.json) |
+| Ultizurk III: The GuildMaster's Quest | 233133 | [233133-ultizurk-iii-the-guildmasters-quest.json](./233133-ultizurk-iii-the-guildmasters-quest.json) |
 | Ultra 2000 Series: Pac-Man | 284370 | [284370-ultra-2000-series-pac-man.json](./284370-ultra-2000-series-pac-man.json) |
 | Ultra 64 Mario Bros. | 294715 | [294715-ultra-64-mario-bros.json](./294715-ultra-64-mario-bros.json) |
 | Ultra ADHD | 131407 | [131407-ultra-adhd.json](./131407-ultra-adhd.json) |
@@ -569,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbra Halloween | 272240 | [272240-umbra-halloween.json](./272240-umbra-halloween.json) |
 | Umbra Lumen | 177841 | [177841-umbra-lumen.json](./177841-umbra-lumen.json) |
 | Umbra Lumen | 337284 | [337284-umbra-lumen.json](./337284-umbra-lumen.json) |
+| Umbra Mortis | 233134 | [233134-umbra-mortis.json](./233134-umbra-mortis.json) |
 | Umbra of Fate | 256873 | [256873-umbra-of-fate.json](./256873-umbra-of-fate.json) |
 | Umbra Sepulcri | 215678 | [215678-umbra-sepulcri.json](./215678-umbra-sepulcri.json) |
 | Umbra Survivors | 379956 | [379956-umbra-survivors.json](./379956-umbra-survivors.json) |
@@ -783,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Awakens | 342897 | [342897-undead-awakens.json](./342897-undead-awakens.json) |
 | Undead Blackout | 34425 | [34425-undead-blackout.json](./34425-undead-blackout.json) |
 | Undead Bowling | 62273 | [62273-undead-bowling.json](./62273-undead-bowling.json) |
+| Undead Carnage League | 233059 | [233059-undead-carnage-league.json](./233059-undead-carnage-league.json) |
 | Undead Carnival Carnage | 180314 | [180314-undead-carnival-carnage.json](./180314-undead-carnival-carnage.json) |
 | Undead Chronicles | 394452 | [394452-undead-chronicles.json](./394452-undead-chronicles.json) |
 | Undead City | 294168 | [294168-undead-city.json](./294168-undead-city.json) |
@@ -817,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undefeated | 36179 | [36179-undefeated.json](./36179-undefeated.json) |
 | Undefined | 111026 | [111026-undefined.json](./111026-undefined.json) |
 | Undemon | 182363 | [182363-undemon.json](./182363-undemon.json) |
+| Under | 233136 | [233136-under.json](./233136-under.json) |
 | Under a Desert Sun: Seekers of the Cursed Vessel | 372637 | [372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json](./372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json) |
 | Under Construction: Summer City | 167582 | [167582-under-construction-summer-city.json](./167582-under-construction-summer-city.json) |
 | Under Contract | 219533 | [219533-under-contract.json](./219533-under-contract.json) |
@@ -851,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the bed | 179728 | [179728-under-the-bed.json](./179728-under-the-bed.json) |
 | Under the Blue Horizon | 312722 | [312722-under-the-blue-horizon.json](./312722-under-the-blue-horizon.json) |
 | Under the Bridge | 221982 | [221982-under-the-bridge.json](./221982-under-the-bridge.json) |
+| Under the Brine | 233135 | [233135-under-the-brine.json](./233135-under-the-brine.json) |
 | Under the Castle | 275663 | [275663-under-the-castle.json](./275663-under-the-castle.json) |
 | Under The Concrete Wave | 306068 | [306068-under-the-concrete-wave.json](./306068-under-the-concrete-wave.json) |
 | Under the Farm | 184648 | [184648-under-the-farm.json](./184648-under-the-farm.json) |
@@ -1073,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unexposed: The Ghost Archives | 188014 | [188014-unexposed-the-ghost-archives.json](./188014-unexposed-the-ghost-archives.json) |
 | Unextinction | 365862 | [365862-unextinction.json](./365862-unextinction.json) |
 | Unfabulous | 18306 | [18306-unfabulous.json](./18306-unfabulous.json) |
+| Unfair | 233137 | [233137-unfair.json](./233137-unfair.json) |
 | Unfair Flips | 367451 | [367451-unfair-flips.json](./367451-unfair-flips.json) |
 | Unfair Mario | 225008 | [225008-unfair-mario.json](./225008-unfair-mario.json) |
 | Unfair Rampage: Knightfall | 317293 | [317293-unfair-rampage-knightfall.json](./317293-unfair-rampage-knightfall.json) |
@@ -1811,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uruz: Return of the Er Kishi | 122162 | [122162-uruz-return-of-the-er-kishi.json](./122162-uruz-return-of-the-er-kishi.json) |
 | Us & Them | 17118 | [17118-us-and-them.json](./17118-us-and-them.json) |
 | US AAF Mustang | 39857 | [39857-us-aaf-mustang.json](./39857-us-aaf-mustang.json) |
+| US Basketball HD | 233060 | [233060-us-basketball-hd.json](./233060-us-basketball-hd.json) |
 | US Bus Simulator 2020 | 188372 | [188372-us-bus-simulator-2020.json](./188372-us-bus-simulator-2020.json) |
 | US Coin | 86702 | [86702-us-coin.json](./86702-us-coin.json) |
 | US Conflict: Tank Battles | 410368 | [410368-us-conflict-tank-battles.json](./410368-us-conflict-tank-battles.json) |
