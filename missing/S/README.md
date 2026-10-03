@@ -5370,6 +5370,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sim Empire | 116820 | [116820-sim-empire.json](./116820-sim-empire.json) |
 | Sim Junta | 34748 | [34748-sim-junta.json](./34748-sim-junta.json) |
 | Sim Sports Raid | 384213 | [384213-sim-sports-raid.json](./384213-sim-sports-raid.json) |
+| Sim Taxi | 271387 | [271387-sim-taxi.json](./271387-sim-taxi.json) |
+| Sim Taxi 2 | 271379 | [271379-sim-taxi-2.json](./271379-sim-taxi-2.json) |
 | Sim Theme Park | 12484 | [12484-sim-theme-park.json](./12484-sim-theme-park.json) |
 | Sim: Heavyweight Boxing Champion | 397264 | [397264-sim-heavyweight-boxing-champion.json](./397264-sim-heavyweight-boxing-champion.json) |
 | SIM: Simple Idle Miner | 309462 | [309462-sim-simple-idle-miner.json](./309462-sim-simple-idle-miner.json) |
@@ -6530,6 +6532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Berserker | 384494 | [384494-slay-the-berserker.json](./384494-slay-the-berserker.json) |
 | Slay the Demon Queen | 340364 | [340364-slay-the-demon-queen.json](./340364-slay-the-demon-queen.json) |
 | Slay the King | 374164 | [374164-slay-the-king.json](./374164-slay-the-king.json) |
+| Slay the Minotaur | 271380 | [271380-slay-the-minotaur.json](./271380-slay-the-minotaur.json) |
 | Slay the Princess: The Pristine Cut | 305071 | [305071-slay-the-princess-the-pristine-cut.json](./305071-slay-the-princess-the-pristine-cut.json) |
 | Slay the Space | 187231 | [187231-slay-the-space.json](./187231-slay-the-space.json) |
 | Slay the Spire II | 296831 | [296831-slay-the-spire-ii.json](./296831-slay-the-spire-ii.json) |
@@ -11137,6 +11140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split/Second | 2150 | [2150-split-second.json](./2150-split-second.json) |
 | Splitgate | 114684 | [114684-splitgate.json](./114684-splitgate.json) |
 | Splittown | 216878 | [216878-splittown.json](./216878-splittown.json) |
+| Splitz | 271376 | [271376-splitz.json](./271376-splitz.json) |
 | Splix.io | 57900 | [57900-splix-io.json](./57900-splix-io.json) |
 | Splodey | 282965 | [282965-splodey.json](./282965-splodey.json) |
 | Splodge Royale | 190166 | [190166-splodge-royale.json](./190166-splodge-royale.json) |
@@ -11385,6 +11389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring a Line | 359401 | [359401-spring-a-line.json](./359401-spring-a-line.json) |
 | Spring Babies | 82165 | [82165-spring-babies.json](./82165-spring-babies.json) |
 | Spring Breeze | 271258 | [271258-spring-breeze.json](./271258-spring-breeze.json) |
+| Spring Breeze | 271401 | [271401-spring-breeze.json](./271401-spring-breeze.json) |
 | Spring Breeze | 68328 | [68328-spring-breeze.json](./68328-spring-breeze.json) |
 | Spring Bunny Islands | 294239 | [294239-spring-bunny-islands.json](./294239-spring-bunny-islands.json) |
 | Spring Catastrophe | 246652 | [246652-spring-catastrophe.json](./246652-spring-catastrophe.json) |
@@ -12333,6 +12338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Knights of the Old Republic III | 14401 | [14401-star-wars-knights-of-the-old-republic-iii.json](./14401-star-wars-knights-of-the-old-republic-iii.json) |
 | Star Wars: Lethal Alliance | 200677 | [200677-star-wars-lethal-alliance.json](./200677-star-wars-lethal-alliance.json) |
 | Star Wars: Millenium Falcon Challenge | 198922 | [198922-star-wars-millenium-falcon-challenge.json](./198922-star-wars-millenium-falcon-challenge.json) |
+| Star Wars: Movie Battles II | 271416 | [271416-star-wars-movie-battles-ii.json](./271416-star-wars-movie-battles-ii.json) |
 | Star Wars: Movie Duels | 355148 | [355148-star-wars-movie-duels.json](./355148-star-wars-movie-duels.json) |
 | Star Wars: Outpost | 75087 | [75087-star-wars-outpost.json](./75087-star-wars-outpost.json) |
 | Star Wars: Pit Droids | 13483 | [13483-star-wars-pit-droids.json](./13483-star-wars-pit-droids.json) |
