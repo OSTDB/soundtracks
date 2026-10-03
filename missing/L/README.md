@@ -4490,6 +4490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love, Peace, and Roseleaf | 417701 | [417701-love-peace-and-roseleaf.json](./417701-love-peace-and-roseleaf.json) |
 | Love, Sam | 118986 | [118986-love-sam.json](./118986-love-sam.json) |
 | Love: A Puzzle Box Filled with Stories | 139280 | [139280-love-a-puzzle-box-filled-with-stories.json](./139280-love-a-puzzle-box-filled-with-stories.json) |
+| Love: Spice! | 270848 | [270848-love-spice.json](./270848-love-spice.json) |
 | Love's Eternal Wishes | 298898 | [298898-loves-eternal-wishes.json](./298898-loves-eternal-wishes.json) |
 | Love's Fiery Imbroglio | 73372 | [73372-loves-fiery-imbroglio.json](./73372-loves-fiery-imbroglio.json) |
 | Love's Hella Punk | 239868 | [239868-loves-hella-punk.json](./239868-loves-hella-punk.json) |
