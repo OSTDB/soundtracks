@@ -2368,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fights in Tight Spaces: Weapon of Choice | 261775 | [261775-fights-in-tight-spaces-weapon-of-choice.json](./261775-fights-in-tight-spaces-weapon-of-choice.json) |
 | Fightttris VR | 113162 | [113162-fightttris-vr.json](./113162-fightttris-vr.json) |
 | Fighty Driver | 411045 | [411045-fighty-driver.json](./411045-fighty-driver.json) |
+| Figment 1 + Figment 2 | 242587 | [242587-figment-1-figment-2.json](./242587-figment-1-figment-2.json) |
 | Fignermukcre | 128627 | [128627-fignermukcre.json](./128627-fignermukcre.json) |
 | Figurality | 269020 | [269020-figurality.json](./269020-figurality.json) |
 | Figuras y Figuraciones | 284569 | [284569-figuras-y-figuraciones.json](./284569-figuras-y-figuraciones.json) |
@@ -4414,6 +4415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FMV Murder Mystery Bundle | 289418 | [289418-fmv-murder-mystery-bundle.json](./289418-fmv-murder-mystery-bundle.json) |
 | FNaF 2: Wii U Edition | 358328 | [358328-fnaf-2-wii-u-edition.json](./358328-fnaf-2-wii-u-edition.json) |
 | FNaF 4 Retro Edition | 275647 | [275647-fnaf-4-retro-edition.json](./275647-fnaf-4-retro-edition.json) |
+| FNAF in Psych Engine | 242611 | [242611-fnaf-in-psych-engine.json](./242611-fnaf-in-psych-engine.json) |
 | FNaF World Randomizer | 237325 | [237325-fnaf-world-randomizer.json](./237325-fnaf-world-randomizer.json) |
 | FNaF World Redacted | 362810 | [362810-fnaf-world-redacted.json](./362810-fnaf-world-redacted.json) |
 | FNAF: Killer in Purple 2 | 383052 | [383052-fnaf-killer-in-purple-2.json](./383052-fnaf-killer-in-purple-2.json) |
@@ -4424,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNF: Spooky Mix | 365105 | [365105-fnf-spooky-mix.json](./365105-fnf-spooky-mix.json) |
 | FNF: V.S. Tabi Ex Boyfriend | 314513 | [314513-fnf-v-s-tabi-ex-boyfriend.json](./314513-fnf-v-s-tabi-ex-boyfriend.json) |
 | Foam | 138267 | [138267-foam.json](./138267-foam.json) |
+| Fobia ...Worse Than Fear. | 242593 | [242593-fobia-worse-than-fear.json](./242593-fobia-worse-than-fear.json) |
 | Fobos | 79830 | [79830-fobos.json](./79830-fobos.json) |
 | Foc/us | 223677 | [223677-foc-us.json](./223677-foc-us.json) |
 | Focumon | 397828 | [397828-focumon.json](./397828-focumon.json) |
@@ -5438,6 +5441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Ways | 129702 | [129702-four-ways.json](./129702-four-ways.json) |
 | Four Ways: Block Puzzle | 131554 | [131554-four-ways-block-puzzle.json](./131554-four-ways-block-puzzle.json) |
 | Four Winds Mah Jong | 92985 | [92985-four-winds-mah-jong.json](./92985-four-winds-mah-jong.json) |
+| Four-Knight | 242594 | [242594-four-knight.json](./242594-four-knight.json) |
 | Four-Sight | 148359 | [148359-four-sight.json](./148359-four-sight.json) |
 | Four-Wheels-Drive | 184922 | [184922-four-wheels-drive.json](./184922-four-wheels-drive.json) |
 | FourChords Guitar Karaoke | 26861 | [26861-fourchords-guitar-karaoke.json](./26861-fourchords-guitar-karaoke.json) |
@@ -5937,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Bullet Arena | 31702 | [31702-friday-night-bullet-arena.json](./31702-friday-night-bullet-arena.json) |
 | Friday Night Funk'n: Funkin' is Magic | 203223 | [203223-friday-night-funkn-funkin-is-magic.json](./203223-friday-night-funkn-funkin-is-magic.json) |
 | Friday Night Funkin vs. junim Cururu | 328236 | [328236-friday-night-funkin-vs-junim-cururu.json](./328236-friday-night-funkin-vs-junim-cururu.json) |
+| Friday Night Funkin: vs. Jeff | 242615 | [242615-friday-night-funkin-vs-jeff.json](./242615-friday-night-funkin-vs-jeff.json) |
 | Friday Night Funkin' 64 | 294774 | [294774-friday-night-funkin-64.json](./294774-friday-night-funkin-64.json) |
 | Friday Night Funkin' Battle Waifu | 205627 | [205627-friday-night-funkin-battle-waifu.json](./205627-friday-night-funkin-battle-waifu.json) |
 | Friday Night Funkin' Lullaby | 198347 | [198347-friday-night-funkin-lullaby.json](./198347-friday-night-funkin-lullaby.json) |
