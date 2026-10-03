@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Object N | 142991 | [142991-object-n.json](./142991-object-n.json) |
 | Object Ward. | 188912 | [188912-object-ward.json](./188912-object-ward.json) |
 | Object Wars | 211166 | [211166-object-wars.json](./211166-object-wars.json) |
+| Object-37 | 261430 | [261430-object-37.json](./261430-object-37.json) |
 | Objection! | 93175 | [93175-objection.json](./93175-objection.json) |
 | Objector | 232959 | [232959-objector.json](./232959-objector.json) |
 | Objects in Space | 19088 | [19088-objects-in-space.json](./19088-objects-in-space.json) |
