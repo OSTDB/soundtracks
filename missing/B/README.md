@@ -5399,6 +5399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Puzzle | 390773 | [390773-block-puzzle.json](./390773-block-puzzle.json) |
 | Block Puzzle 1010 | 227506 | [227506-block-puzzle-1010.json](./227506-block-puzzle-1010.json) |
 | Block Puzzle 3D | 400451 | [400451-block-puzzle-3d.json](./400451-block-puzzle-3d.json) |
+| Block Puzzle Sudoku | 227380 | [227380-block-puzzle-sudoku.json](./227380-block-puzzle-sudoku.json) |
 | Block Puzzle Wood | 90538 | [90538-block-puzzle-wood.json](./90538-block-puzzle-wood.json) |
 | Block Puzzle: Gem Legend | 232488 | [232488-block-puzzle-gem-legend.json](./232488-block-puzzle-gem-legend.json) |
 | Block Puzzle: Star Finder | 103165 | [103165-block-puzzle-star-finder.json](./103165-block-puzzle-star-finder.json) |
