@@ -4046,6 +4046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Da Vinci Cryptex 3 | 280257 | [280257-the-da-vinci-cryptex-3.json](./280257-the-da-vinci-cryptex-3.json) |
 | The Daedalus Encounter | 4237 | [4237-the-daedalus-encounter.json](./4237-the-daedalus-encounter.json) |
 | The Daily Diaonal Sudoku | 266838 | [266838-the-daily-diaonal-sudoku.json](./266838-the-daily-diaonal-sudoku.json) |
+| The Daily Sudoku | 264239 | [264239-the-daily-sudoku.json](./264239-the-daily-sudoku.json) |
 | The Dallas Quest | 47218 | [47218-the-dallas-quest.json](./47218-the-dallas-quest.json) |
 | The Dalmatians | 44847 | [44847-the-dalmatians.json](./44847-the-dalmatians.json) |
 | The Dalton Affair | 313730 | [313730-the-dalton-affair.json](./313730-the-dalton-affair.json) |
@@ -4114,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Throne | 187232 | [187232-the-dark-throne.json](./187232-the-dark-throne.json) |
 | The Dark Tide | 312035 | [312035-the-dark-tide.json](./312035-the-dark-tide.json) |
 | The Dark Tower | 264047 | [264047-the-dark-tower.json](./264047-the-dark-tower.json) |
+| The Dark Tower | 264226 | [264226-the-dark-tower.json](./264226-the-dark-tower.json) |
 | The Dark Triad | 271225 | [271225-the-dark-triad.json](./271225-the-dark-triad.json) |
 | The Dark Veil: West Haven | 119780 | [119780-the-dark-veil-west-haven.json](./119780-the-dark-veil-west-haven.json) |
 | The Dark Way | 166697 | [166697-the-dark-way.json](./166697-the-dark-way.json) |
@@ -5636,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible VR Game Show | 83946 | [83946-the-incredible-vr-game-show.json](./83946-the-incredible-vr-game-show.json) |
 | The Incredibles | 210442 | [210442-the-incredibles.json](./210442-the-incredibles.json) |
 | The Incredibles | 3782 | [3782-the-incredibles.json](./3782-the-incredibles.json) |
+| The Incredibles: Jack-Jack's Escape | 264251 | [264251-the-incredibles-jack-jacks-escape.json](./264251-the-incredibles-jack-jacks-escape.json) |
 | The Incredibles: Mission Incredible | 213375 | [213375-the-incredibles-mission-incredible.json](./213375-the-incredibles-mission-incredible.json) |
 | The Incredibles: Rise of the Underminer | 3955 | [3955-the-incredibles-rise-of-the-underminer.json](./3955-the-incredibles-rise-of-the-underminer.json) |
 | The Incredibles: When Danger Calls | 18261 | [18261-the-incredibles-when-danger-calls.json](./18261-the-incredibles-when-danger-calls.json) |
@@ -7184,6 +7187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystic Fortune | 329063 | [329063-the-mystic-fortune.json](./329063-the-mystic-fortune.json) |
 | The Mystical Traveler | 342735 | [342735-the-mystical-traveler.json](./342735-the-mystical-traveler.json) |
 | The Mystifying Trial | 163455 | [163455-the-mystifying-trial.json](./163455-the-mystifying-trial.json) |
+| The Mythical City | 264232 | [264232-the-mythical-city.json](./264232-the-mythical-city.json) |
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
@@ -8268,6 +8272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shell Part I: Inferno | 252084 | [252084-the-shell-part-i-inferno.json](./252084-the-shell-part-i-inferno.json) |
 | The Shell Part III: Paradiso | 141751 | [141751-the-shell-part-iii-paradiso.json](./141751-the-shell-part-iii-paradiso.json) |
 | The Shenanigans of Cherry and Trix | 127374 | [127374-the-shenanigans-of-cherry-and-trix.json](./127374-the-shenanigans-of-cherry-and-trix.json) |
+| The Sheriff's Town | 264206 | [264206-the-sheriffs-town.json](./264206-the-sheriffs-town.json) |
 | The Shifting Cavern | 258424 | [258424-the-shifting-cavern.json](./258424-the-shifting-cavern.json) |
 | The Shinri Game 2: Magical Trip | 58790 | [58790-the-shinri-game-2-magical-trip.json](./58790-the-shinri-game-2-magical-trip.json) |
 | The Shiny Ones | 183547 | [183547-the-shiny-ones.json](./183547-the-shiny-ones.json) |
@@ -15431,6 +15436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Challenge 3 | 103875 | [103875-tricky-challenge-3.json](./103875-tricky-challenge-3.json) |
 | Tricky Cow | 286753 | [286753-tricky-cow.json](./286753-tricky-cow.json) |
 | Tricky Doors | 203573 | [203573-tricky-doors.json](./203573-tricky-doors.json) |
+| Tricky Gems | 264221 | [264221-tricky-gems.json](./264221-tricky-gems.json) |
 | Tricky Geometry | 233075 | [233075-tricky-geometry.json](./233075-tricky-geometry.json) |
 | Tricky Horse Jump Racing Game | 240924 | [240924-tricky-horse-jump-racing-game.json](./240924-tricky-horse-jump-racing-game.json) |
 | Tricky Keys | 144942 | [144942-tricky-keys.json](./144942-tricky-keys.json) |
