@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obituary | 313833 | [313833-obituary.json](./313833-obituary.json) |
 | Obitus | 363028 | [363028-obitus.json](./363028-obitus.json) |
 | OBJ VR | 309376 | [309376-obj-vr.json](./309376-obj-vr.json) |
+| Object "32" | 274134 | [274134-object-32.json](./274134-object-32.json) |
 | Object "Cleaning" | 83568 | [83568-object-cleaning.json](./83568-object-cleaning.json) |
 | Object Factory | 371425 | [371425-object-factory.json](./371425-object-factory.json) |
 | Object N | 142991 | [142991-object-n.json](./142991-object-n.json) |
@@ -1406,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One way to exit | 33284 | [33284-one-way-to-exit.json](./33284-one-way-to-exit.json) |
 | One Way Trip | 23280 | [23280-one-way-trip.json](./23280-one-way-trip.json) |
 | One Wee Robot | 392277 | [392277-one-wee-robot.json](./392277-one-wee-robot.json) |
+| One Week at Freddy's | 274102 | [274102-one-week-at-freddys.json](./274102-one-week-at-freddys.json) |
 | One Week At Pan | 148416 | [148416-one-week-at-pan.json](./148416-one-week-at-pan.json) |
 | One Week By Car | 209675 | [209675-one-week-by-car.json](./209675-one-week-by-car.json) |
 | One Week With The Mafia | 273435 | [273435-one-week-with-the-mafia.json](./273435-one-week-with-the-mafia.json) |
