@@ -4992,6 +4992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Legend | 284351 | [284351-guardian-legend.json](./284351-guardian-legend.json) |
 | Guardian Master VR | 113735 | [113735-guardian-master-vr.json](./113735-guardian-master-vr.json) |
 | Guardian of Altai | 362923 | [362923-guardian-of-altai.json](./362923-guardian-of-altai.json) |
+| Guardian of Dynamite: A Bomb Protector | 242022 | [242022-guardian-of-dynamite-a-bomb-protector.json](./242022-guardian-of-dynamite-a-bomb-protector.json) |
 | Guardian of Hidden Land | 352171 | [352171-guardian-of-hidden-land.json](./352171-guardian-of-hidden-land.json) |
 | Guardian of Immortal Mountain | 97904 | [97904-guardian-of-immortal-mountain.json](./97904-guardian-of-immortal-mountain.json) |
 | Guardian of Paradise | 123581 | [123581-guardian-of-paradise.json](./123581-guardian-of-paradise.json) |
