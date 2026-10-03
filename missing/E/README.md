@@ -873,6 +873,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Einstein's Cats | 291594 | [291594-einsteins-cats.json](./291594-einsteins-cats.json) |
 | Einsteins Riddle | 156605 | [156605-einsteins-riddle.json](./156605-einsteins-riddle.json) |
 | Eisadler Jagd | 279594 | [279594-eisadler-jagd.json](./279594-eisadler-jagd.json) |
+| Eisei Meijin | 268639 | [268639-eisei-meijin.json](./268639-eisei-meijin.json) |
+| Eisei Meijin II | 268640 | [268640-eisei-meijin-ii.json](./268640-eisei-meijin-ii.json) |
 | Eisei Meijin III: Game Creator Yoshimura Nobuhiro no Zunou | 283253 | [283253-eisei-meijin-iii-game-creator-yoshimura-nobuhiro-no-zunou.json](./283253-eisei-meijin-iii-game-creator-yoshimura-nobuhiro-no-zunou.json) |
 | Eisen | 240872 | [240872-eisen.json](./240872-eisen.json) |
 | Eisenbahn X: Modellset 1 - Bahnhof, Häuser, Scheunen | 169951 | [169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json](./169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json) |
