@@ -2228,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marlboro Go! | 253027 | [253027-marlboro-go.json](./253027-marlboro-go.json) |
 | Marlene | 25634 | [25634-marlene.json](./25634-marlene.json) |
 | Marlene Betwixt | 56537 | [56537-marlene-betwixt.json](./56537-marlene-betwixt.json) |
+| Marley & Marley | 250502 | [250502-marley-and-marley.json](./250502-marley-and-marley.json) |
 | Marlow Briggs and the Mask of Death | 8006 | [8006-marlow-briggs-and-the-mask-of-death.json](./8006-marlow-briggs-and-the-mask-of-death.json) |
 | Marlowe's Path | 179060 | [179060-marlowes-path.json](./179060-marlowes-path.json) |
 | Marmalade Boy | 38339 | [38339-marmalade-boy.json](./38339-marmalade-boy.json) |
@@ -2933,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mate-in-Two | 347703 | [347703-mate-in-two.json](./347703-mate-in-two.json) |
 | Matel Gear II | 267366 | [267366-matel-gear-ii.json](./267366-matel-gear-ii.json) |
 | Matelotes | 415182 | [415182-matelotes.json](./415182-matelotes.json) |
+| Matemágica | 250528 | [250528-matemagica.json](./250528-matemagica.json) |
 | Matematyka Dodawanie i odejmowanie | 318491 | [318491-matematyka-dodawanie-i-odejmowanie.json](./318491-matematyka-dodawanie-i-odejmowanie.json) |
 | Maten Densetsu: Senritsu no Ooparts | 37931 | [37931-maten-densetsu-senritsu-no-ooparts.json](./37931-maten-densetsu-senritsu-no-ooparts.json) |
 | Maten no Soumetsu | 46073 | [46073-maten-no-soumetsu.json](./46073-maten-no-soumetsu.json) |
@@ -5280,6 +5282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miboujin Nikki: Akogare no Ano Hito to Hitotsu Yane no Shita | 82972 | [82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json](./82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json) |
 | Miburi and Teburi | 230271 | [230271-miburi-and-teburi.json](./230271-miburi-and-teburi.json) |
 | Mica: Apoptosis | 177515 | [177515-mica-apoptosis.json](./177515-mica-apoptosis.json) |
+| Micegard | 250492 | [250492-micegard.json](./250492-micegard.json) |
 | Michael Andretti's World GP | 48279 | [48279-michael-andrettis-world-gp.json](./48279-michael-andrettis-world-gp.json) |
 | Michael Jackson in Scramble Training | 233982 | [233982-michael-jackson-in-scramble-training.json](./233982-michael-jackson-in-scramble-training.json) |
 | Michael Jackson: Baby Drop | 320979 | [320979-michael-jackson-baby-drop.json](./320979-michael-jackson-baby-drop.json) |
