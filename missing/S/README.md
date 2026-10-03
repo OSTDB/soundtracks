@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Showdown | 141898 | [141898-santa-showdown.json](./141898-santa-showdown.json) |
 | Santa Simon | 79953 | [79953-santa-simon.json](./79953-santa-simon.json) |
 | Santa Simulator | 112993 | [112993-santa-simulator.json](./112993-santa-simulator.json) |
+| Santa Ski vs. Zombies Ski | 257012 | [257012-santa-ski-vs-zombies-ski.json](./257012-santa-ski-vs-zombies-ski.json) |
 | Santa Sling | 30074 | [30074-santa-sling.json](./30074-santa-sling.json) |
 | Santa Throw | 186907 | [186907-santa-throw.json](./186907-santa-throw.json) |
 | Santa With Gun | 382878 | [382878-santa-with-gun.json](./382878-santa-with-gun.json) |
@@ -6386,6 +6387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyfish Rising | 340366 | [340366-skyfish-rising.json](./340366-skyfish-rising.json) |
 | Skyforce | 174856 | [174856-skyforce.json](./174856-skyforce.json) |
 | Skyforge Trails | 401097 | [401097-skyforge-trails.json](./401097-skyforge-trails.json) |
+| Skyformer | 257013 | [257013-skyformer.json](./257013-skyformer.json) |
 | Skyfort | 310170 | [310170-skyfort.json](./310170-skyfort.json) |
 | Skyfox II: The Cygnus Conflict | 55086 | [55086-skyfox-ii-the-cygnus-conflict.json](./55086-skyfox-ii-the-cygnus-conflict.json) |
 | SkyGameChanger-AirCombat II- | 114812 | [114812-skygamechanger-aircombat-ii.json](./114812-skygamechanger-aircombat-ii.json) |
@@ -7246,6 +7248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smiley Dusty | 325697 | [325697-smiley-dusty.json](./325697-smiley-dusty.json) |
 | Smiley's Revenge | 140533 | [140533-smileys-revenge.json](./140533-smileys-revenge.json) |
 | Smileys War | 234901 | [234901-smileys-war.json](./234901-smileys-war.json) |
+| Smiling Girls | 257001 | [257001-smiling-girls.json](./257001-smiling-girls.json) |
 | Smiling Misery | 333103 | [333103-smiling-misery.json](./333103-smiling-misery.json) |
 | Smiling Terror | 343919 | [343919-smiling-terror.json](./343919-smiling-terror.json) |
 | Smilinguido: Desafio na Floresta | 183610 | [183610-smilinguido-desafio-na-floresta.json](./183610-smilinguido-desafio-na-floresta.json) |
@@ -14698,6 +14701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Quest | 97486 | [97486-succubus-quest.json](./97486-succubus-quest.json) |
 | Succubus Rem | 74452 | [74452-succubus-rem.json](./74452-succubus-rem.json) |
 | Succubus Runa and the Erotic Dungeon | 192693 | [192693-succubus-runa-and-the-erotic-dungeon.json](./192693-succubus-runa-and-the-erotic-dungeon.json) |
+| Succubus Runa and the Erotic Dungeon: Additional All-Ages Story & Graphics | 256997 | [256997-succubus-runa-and-the-erotic-dungeon-additional-all-ages-story-and-graphics.json](./256997-succubus-runa-and-the-erotic-dungeon-additional-all-ages-story-and-graphics.json) |
 | Succubus Sessions: Mami Mamiya's Sweet Slice of Hell | 371233 | [371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json](./371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json) |
 | Succubus Sexy Devils | 345111 | [345111-succubus-sexy-devils.json](./345111-succubus-sexy-devils.json) |
 | Succubus Shop | 185414 | [185414-succubus-shop.json](./185414-succubus-shop.json) |
@@ -16981,6 +16985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superior IQ | 369637 | [369637-superior-iq.json](./369637-superior-iq.json) |
 | Superior Relatives | 265862 | [265862-superior-relatives.json](./265862-superior-relatives.json) |
 | Superior Wizards | 110134 | [110134-superior-wizards.json](./110134-superior-wizards.json) |
+| Superior: Vengeance | 256979 | [256979-superior-vengeance.json](./256979-superior-vengeance.json) |
 | SuperJumpWorld Rage | 391299 | [391299-superjumpworld-rage.json](./391299-superjumpworld-rage.json) |
 | Superkid | 123064 | [123064-superkid.json](./123064-superkid.json) |
 | Superku | 34343 | [34343-superku.json](./34343-superku.json) |
