@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.S.A. | 229634 | [229634-d-s-a.json](./229634-d-s-a.json) |
 | D.U.M.B.E.R. Ducks | 403734 | [403734-d-u-m-b-e-r-ducks.json](./403734-d-u-m-b-e-r-ducks.json) |
 | D.W. Dagger: Chapter One | 168837 | [168837-d-w-dagger-chapter-one.json](./168837-d-w-dagger-chapter-one.json) |
+| D.W.'s Nightmare | 248212 | [248212-d-w-s-nightmare.json](./248212-d-w-s-nightmare.json) |
 | D' | 174654 | [174654-d.json](./174654-d.json) |
 | D's Diner: The Director's Cut | 245311 | [245311-ds-diner-the-directors-cut.json](./245311-ds-diner-the-directors-cut.json) |
 | D/Generation HD | 21318 | [21318-d-generation-hd.json](./21318-d-generation-hd.json) |
@@ -4947,6 +4948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disco Elysium | 335434 | [335434-disco-elysium.json](./335434-disco-elysium.json) |
 | Disco Elysium: Game Boy Edition | 140050 | [140050-disco-elysium-game-boy-edition.json](./140050-disco-elysium-game-boy-edition.json) |
 | Disco Elysium: The Final Cut | 141540 | [141540-disco-elysium-the-final-cut.json](./141540-disco-elysium-the-final-cut.json) |
+| Disco Elysium: The Final Cut - Collage Mode | 248092 | [248092-disco-elysium-the-final-cut-collage-mode.json](./248092-disco-elysium-the-final-cut-collage-mode.json) |
 | Disco Elysium: The Final Cut Bundle | 249486 | [249486-disco-elysium-the-final-cut-bundle.json](./249486-disco-elysium-the-final-cut-bundle.json) |
 | Disco Noire | 194309 | [194309-disco-noire.json](./194309-disco-noire.json) |
 | Disco Samurai | 267475 | [267475-disco-samurai.json](./267475-disco-samurai.json) |
@@ -9308,6 +9310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunkle Manöver | 92851 | [92851-dunkle-manover.json](./92851-dunkle-manover.json) |
 | Dunkle Schatten 3: Tod in der Südkurve | 124684 | [124684-dunkle-schatten-3-tod-in-der-sudkurve.json](./124684-dunkle-schatten-3-tod-in-der-sudkurve.json) |
 | Dunkypung | 113637 | [113637-dunkypung.json](./113637-dunkypung.json) |
+| Dunlight: Random Defense | 248157 | [248157-dunlight-random-defense.json](./248157-dunlight-random-defense.json) |
 | Dunnigan's Trail | 154009 | [154009-dunnigans-trail.json](./154009-dunnigans-trail.json) |
 | Dunrog | 124203 | [124203-dunrog.json](./124203-dunrog.json) |
 | Dunthera | 357837 | [357837-dunthera.json](./357837-dunthera.json) |
