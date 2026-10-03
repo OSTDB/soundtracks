@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famous | 91389 | [91389-famous.json](./91389-famous.json) |
 | Famous - The Road to Glory! | 47971 | [47971-famous-the-road-to-glory.json](./47971-famous-the-road-to-glory.json) |
 | Famous Courses of the World: Vol. II | 71560 | [71560-famous-courses-of-the-world-vol-ii.json](./71560-famous-courses-of-the-world-vol-ii.json) |
+| Famous Crash | 257547 | [257547-famous-crash.json](./257547-famous-crash.json) |
 | Famousity Game | 98398 | [98398-famousity-game.json](./98398-famousity-game.json) |
 | Famulus | 326728 | [326728-famulus.json](./326728-famulus.json) |
 | Fan Fun 3D | 99985 | [99985-fan-fun-3d.json](./99985-fan-fun-3d.json) |
