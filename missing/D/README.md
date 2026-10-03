@@ -6198,6 +6198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Hate My Music Taste | 167818 | [167818-dont-hate-my-music-taste.json](./167818-dont-hate-my-music-taste.json) |
 | Don't Hide | 215907 | [215907-dont-hide.json](./215907-dont-hide.json) |
 | Don't Kill Her | 108421 | [108421-dont-kill-her.json](./108421-dont-kill-her.json) |
+| Don't Kill the Cat | 230973 | [230973-dont-kill-the-cat.json](./230973-dont-kill-the-cat.json) |
 | Don't Kill the King! | 189078 | [189078-dont-kill-the-king.json](./189078-dont-kill-the-king.json) |
 | Don't Kill Them All | 303088 | [303088-dont-kill-them-all.json](./303088-dont-kill-them-all.json) |
 | Don't Leave | 285439 | [285439-dont-leave.json](./285439-dont-leave.json) |
@@ -6790,6 +6791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dostavka | 358930 | [358930-dostavka.json](./358930-dostavka.json) |
 | Dosukoi Densetsu | 397896 | [397896-dosukoi-densetsu.json](./397896-dosukoi-densetsu.json) |
 | Dosukoi Slime | 322998 | [322998-dosukoi-slime.json](./322998-dosukoi-slime.json) |
+| Dot | 230965 | [230965-dot.json](./230965-dot.json) |
 | Dot | 328021 | [328021-dot.json](./328021-dot.json) |
 | Dot & Dot Dungeons | 295766 | [295766-dot-and-dot-dungeons.json](./295766-dot-and-dot-dungeons.json) |
 | Dot Art Logic | 386990 | [386990-dot-art-logic.json](./386990-dot-art-logic.json) |
