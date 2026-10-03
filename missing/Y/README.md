@@ -925,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume 2: Sleepless Night | 154362 | [154362-yume-2-sleepless-night.json](./154362-yume-2-sleepless-night.json) |
 | Yume 2kki | 80668 | [80668-yume-2kki.json](./80668-yume-2kki.json) |
 | Yume 3 | 258176 | [258176-yume-3.json](./258176-yume-3.json) |
+| Yume 4 | 269185 | [269185-yume-4.json](./269185-yume-4.json) |
 | Yume 5: Spring Festival of Lust | 400245 | [400245-yume-5-spring-festival-of-lust.json](./400245-yume-5-spring-festival-of-lust.json) |
 | Yume Cyber | 286130 | [286130-yume-cyber.json](./286130-yume-cyber.json) |
 | Yume Doodle | 201843 | [201843-yume-doodle.json](./201843-yume-doodle.json) |
