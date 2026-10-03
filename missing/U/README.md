@@ -1638,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upgrade Complete | 196800 | [196800-upgrade-complete.json](./196800-upgrade-complete.json) |
 | Upgrade Complete 2 | 196801 | [196801-upgrade-complete-2.json](./196801-upgrade-complete-2.json) |
 | Upgrade It | 396581 | [396581-upgrade-it.json](./396581-upgrade-it.json) |
+| Upgrade the game 3: Spaceship | 251078 | [251078-upgrade-the-game-3-spaceship.json](./251078-upgrade-the-game-3-spaceship.json) |
 | Upgraded | 338582 | [338582-upgraded.json](./338582-upgraded.json) |
 | Upgrades & Enemies | 362271 | [362271-upgrades-and-enemies.json](./362271-upgrades-and-enemies.json) |
 | Uph! | 157123 | [157123-uph.json](./157123-uph.json) |
