@@ -2615,7 +2615,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CEO City | 316287 | [316287-ceo-city.json](./316287-ceo-city.json) |
 | CEO Sim: Cyberpunk | 290634 | [290634-ceo-sim-cyberpunk.json](./290634-ceo-sim-cyberpunk.json) |
 | Cepheus Protocol | 127246 | [127246-cepheus-protocol.json](./127246-cepheus-protocol.json) |
+| Cepheus Protocol: Free Vehicle Camo Post Modern Collection | 256998 | [256998-cepheus-protocol-free-vehicle-camo-post-modern-collection.json](./256998-cepheus-protocol-free-vehicle-camo-post-modern-collection.json) |
 | Cepheus Protocol: Project Fenrir | 281986 | [281986-cepheus-protocol-project-fenrir.json](./281986-cepheus-protocol-project-fenrir.json) |
+| Cepheus Protocol: Support Pack Vehicle Camo Classic Wars Collection | 256996 | [256996-cepheus-protocol-support-pack-vehicle-camo-classic-wars-collection.json](./256996-cepheus-protocol-support-pack-vehicle-camo-classic-wars-collection.json) |
 | Ceradin | 126041 | [126041-ceradin.json](./126041-ceradin.json) |
 | Ceramic Crashers | 318529 | [318529-ceramic-crashers.json](./318529-ceramic-crashers.json) |
 | Ceramic Soul | 198556 | [198556-ceramic-soul.json](./198556-ceramic-soul.json) |
@@ -3170,6 +3172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Ramsay | 248130 | [248130-chef-ramsay.json](./248130-chef-ramsay.json) |
 | Chef RPG | 191154 | [191154-chef-rpg.json](./191154-chef-rpg.json) |
 | Chef Showdown | 256391 | [256391-chef-showdown.json](./256391-chef-showdown.json) |
+| Chef Town | 257007 | [257007-chef-town.json](./257007-chef-town.json) |
 | Chef Wanted | 232665 | [232665-chef-wanted.json](./232665-chef-wanted.json) |
 | Chef Wars | 102115 | [102115-chef-wars.json](./102115-chef-wars.json) |
 | Chef Word Ardee | 187862 | [187862-chef-word-ardee.json](./187862-chef-word-ardee.json) |
