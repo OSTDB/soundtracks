@@ -710,6 +710,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Attack Pinball HD: Monster Challenge | 89275 | [89275-zombie-attack-pinball-hd-monster-challenge.json](./89275-zombie-attack-pinball-hd-monster-challenge.json) |
 | Zombie Attack: Zombies Survival Shooter | 317235 | [317235-zombie-attack-zombies-survival-shooter.json](./317235-zombie-attack-zombies-survival-shooter.json) |
 | Zombie Avenger | 233461 | [233461-zombie-avenger.json](./233461-zombie-avenger.json) |
+| Zombie Balloon Heads | 234132 | [234132-zombie-balloon-heads.json](./234132-zombie-balloon-heads.json) |
+| Zombie Balloon Heads 2 | 234141 | [234141-zombie-balloon-heads-2.json](./234141-zombie-balloon-heads-2.json) |
+| Zombie Balloon Heads 3 | 234143 | [234143-zombie-balloon-heads-3.json](./234143-zombie-balloon-heads-3.json) |
 | Zombie Ballz | 29709 | [29709-zombie-ballz.json](./29709-zombie-ballz.json) |
 | Zombie Bar Simulator VR | 300718 | [300718-zombie-bar-simulator-vr.json](./300718-zombie-bar-simulator-vr.json) |
 | Zombie Barricades | 103424 | [103424-zombie-barricades.json](./103424-zombie-barricades.json) |
