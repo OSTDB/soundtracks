@@ -1188,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvester Tractor Farming Simulator Game | 174866 | [174866-harvester-tractor-farming-simulator-game.json](./174866-harvester-tractor-farming-simulator-game.json) |
 | Harvester vs. Zombies | 409751 | [409751-harvester-vs-zombies.json](./409751-harvester-vs-zombies.json) |
 | Harvey Birdman: Attorney at Law | 4907 | [4907-harvey-birdman-attorney-at-law.json](./4907-harvey-birdman-attorney-at-law.json) |
+| Has Your Dream of Dating a Cute Bunny Girl Finally Come True?! | 237442 | [237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json](./237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json) |
 | Hasamu | 40176 | [40176-hasamu.json](./40176-hasamu.json) |
 | Hasbro Family Fun Pack - Conquest Edition | 118454 | [118454-hasbro-family-fun-pack-conquest-edition.json](./118454-hasbro-family-fun-pack-conquest-edition.json) |
 | Hasbro Family Game Night 2 | 50606 | [50606-hasbro-family-game-night-2.json](./50606-hasbro-family-game-night-2.json) |
@@ -3126,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Strike | 165555 | [165555-heroes-strike.json](./165555-heroes-strike.json) |
 | Heroes Tactics | 37054 | [37054-heroes-tactics.json](./37054-heroes-tactics.json) |
 | Heroes Tactics: Fire Emblem | 389655 | [389655-heroes-tactics-fire-emblem.json](./389655-heroes-tactics-fire-emblem.json) |
+| Heroes TD | 237430 | [237430-heroes-td.json](./237430-heroes-td.json) |
 | Heroes Together VR | 380567 | [380567-heroes-together-vr.json](./380567-heroes-together-vr.json) |
 | Heroes Trials | 114505 | [114505-heroes-trials.json](./114505-heroes-trials.json) |
 | Heroes Unhinged | 343356 | [343356-heroes-unhinged.json](./343356-heroes-unhinged.json) |
@@ -5644,6 +5646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Housekeeping VR | 30497 | [30497-housekeeping-vr.json](./30497-housekeeping-vr.json) |
 | Housemates | 291063 | [291063-housemates.json](./291063-housemates.json) |
 | Houserot | 176484 | [176484-houserot.json](./176484-houserot.json) |
+| Housewarming Gift | 237535 | [237535-housewarming-gift.json](./237535-housewarming-gift.json) |
 | Houshin Engi | 125424 | [125424-houshin-engi.json](./125424-houshin-engi.json) |
 | Houshin Engi 2 | 125423 | [125423-houshin-engi-2.json](./125423-houshin-engi-2.json) |
 | Hoven the Sages Spinel | 34529 | [34529-hoven-the-sages-spinel.json](./34529-hoven-the-sages-spinel.json) |
