@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance School Stories | 89824 | [89824-dance-school-stories.json](./89824-dance-school-stories.json) |
 | Dance To Heck | 338863 | [338863-dance-to-heck.json](./338863-dance-to-heck.json) |
 | Dance to the Finish | 178595 | [178595-dance-to-the-finish.json](./178595-dance-to-the-finish.json) |
+| Dance Trips | 263697 | [263697-dance-trips.json](./263697-dance-trips.json) |
 | Dance with Devils | 132088 | [132088-dance-with-devils.json](./132088-dance-with-devils.json) |
 | Dance with Devils My Carol | 132089 | [132089-dance-with-devils-my-carol.json](./132089-dance-with-devils-my-carol.json) |
 | Dance With Memes | 102952 | [102952-dance-with-memes.json](./102952-dance-with-memes.json) |
@@ -8122,6 +8123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Market | 388757 | [388757-drift-market.json](./388757-drift-market.json) |
 | Drift Master Simulator 2024: Rich Racer DLC | 316231 | [316231-drift-master-simulator-2024-rich-racer-dlc.json](./316231-drift-master-simulator-2024-rich-racer-dlc.json) |
 | Drift Max Pro | 99408 | [99408-drift-max-pro.json](./99408-drift-max-pro.json) |
+| Drift Mine Satellite | 263648 | [263648-drift-mine-satellite.json](./263648-drift-mine-satellite.json) |
 | Drift Out | 39674 | [39674-drift-out.json](./39674-drift-out.json) |
 | Drift Out '94 - The Hard Order | 39826 | [39826-drift-out-94-the-hard-order.json](./39826-drift-out-94-the-hard-order.json) |
 | Drift Phonk 666 | 153325 | [153325-drift-phonk-666.json](./153325-drift-phonk-666.json) |
