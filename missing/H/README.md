@@ -2169,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty & Friends: Rock n' World Tour | 83210 | [83210-hello-kitty-and-friends-rock-n-world-tour.json](./83210-hello-kitty-and-friends-rock-n-world-tour.json) |
 | Hello Kitty and Friends: Happiness Parade | 204458 | [204458-hello-kitty-and-friends-happiness-parade.json](./204458-hello-kitty-and-friends-happiness-parade.json) |
 | Hello Kitty Birthday Party | 231386 | [231386-hello-kitty-birthday-party.json](./231386-hello-kitty-birthday-party.json) |
+| Hello Kitty Carnival | 268673 | [268673-hello-kitty-carnival.json](./268673-hello-kitty-carnival.json) |
 | Hello Kitty Cutie World | 78586 | [78586-hello-kitty-cutie-world.json](./78586-hello-kitty-cutie-world.json) |
 | Hello Kitty Detective Games | 279608 | [279608-hello-kitty-detective-games.json](./279608-hello-kitty-detective-games.json) |
 | Hello Kitty Discovering The World | 279610 | [279610-hello-kitty-discovering-the-world.json](./279610-hello-kitty-discovering-the-world.json) |
@@ -2795,6 +2796,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic Invades Doom | 316984 | [316984-heretic-invades-doom.json](./316984-heretic-invades-doom.json) |
 | Heretic Operative | 113792 | [113792-heretic-operative.json](./113792-heretic-operative.json) |
 | Heretic Red | 335279 | [335279-heretic-red.json](./335279-heretic-red.json) |
+| Heretic Speedmapping 1 | 268627 | [268627-heretic-speedmapping-1.json](./268627-heretic-speedmapping-1.json) |
+| Heretic Speedmapping 2 | 268628 | [268628-heretic-speedmapping-2.json](./268628-heretic-speedmapping-2.json) |
 | Heretic Treasure Chest | 260783 | [260783-heretic-treasure-chest.json](./260783-heretic-treasure-chest.json) |
 | Heretic's Fork: Abyssal Update | 320278 | [320278-heretics-fork-abyssal-update.json](./320278-heretics-fork-abyssal-update.json) |
 | Heretic's Fork: Inside The Fire | 285116 | [285116-heretics-fork-inside-the-fire.json](./285116-heretics-fork-inside-the-fire.json) |
@@ -5155,6 +5158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi Saga 8: Dokuringo | 377800 | [377800-hoshi-saga-8-dokuringo.json](./377800-hoshi-saga-8-dokuringo.json) |
 | Hoshi wo Miru Hito | 25016 | [25016-hoshi-wo-miru-hito.json](./25016-hoshi-wo-miru-hito.json) |
 | Hoshi wo Miru Hito: Bad Ebuna Patch 2 | 269869 | [269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json](./269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json) |
+| Hoshigari Empusa! | 268646 | [268646-hoshigari-empusa.json](./268646-hoshigari-empusa.json) |
 | Hoshiwari x Yoizanai | 396476 | [396476-hoshiwari-x-yoizanai.json](./396476-hoshiwari-x-yoizanai.json) |
 | Hoshizora e Kakaru Hashi AA | 144889 | [144889-hoshizora-e-kakaru-hashi-aa.json](./144889-hoshizora-e-kakaru-hashi-aa.json) |
 | Hoshizora no Comic Garden | 70660 | [70660-hoshizora-no-comic-garden.json](./70660-hoshizora-no-comic-garden.json) |
