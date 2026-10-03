@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle Eye Golf | 20583 | [20583-eagle-eye-golf.json](./20583-eagle-eye-golf.json) |
 | Eagle Eye Mysteries | 70962 | [70962-eagle-eye-mysteries.json](./70962-eagle-eye-mysteries.json) |
 | Eagle Eye Mysteries in London | 73270 | [73270-eagle-eye-mysteries-in-london.json](./73270-eagle-eye-mysteries-in-london.json) |
+| Eagle Eye: Find the Difference | 251740 | [251740-eagle-eye-find-the-difference.json](./251740-eagle-eye-find-the-difference.json) |
 | Eagle Island | 28774 | [28774-eagle-island.json](./28774-eagle-island.json) |
 | Eagle Knight Paradox | 217549 | [217549-eagle-knight-paradox.json](./217549-eagle-knight-paradox.json) |
 | Eagle Legacy: Zero | 373186 | [373186-eagle-legacy-zero.json](./373186-eagle-legacy-zero.json) |
@@ -1432,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emberwake | 320530 | [320530-emberwake.json](./320530-emberwake.json) |
 | Emberward | 260224 | [260224-emberward.json](./260224-emberward.json) |
 | Emberwing: Lost Legacy - Collector's Edition | 416612 | [416612-emberwing-lost-legacy-collectors-edition.json](./416612-emberwing-lost-legacy-collectors-edition.json) |
+| Emberwood | 251723 | [251723-emberwood.json](./251723-emberwood.json) |
 | Emblems: Sunless Vow | 294291 | [294291-emblems-sunless-vow.json](./294291-emblems-sunless-vow.json) |
 | Embr | 117312 | [117312-embr.json](./117312-embr.json) |
 | Embrace | 177866 | [177866-embrace.json](./177866-embrace.json) |
