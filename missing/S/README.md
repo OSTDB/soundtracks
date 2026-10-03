@@ -2289,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Paws: Cozy Offices | 348838 | [348838-secret-paws-cozy-offices.json](./348838-secret-paws-cozy-offices.json) |
 | Secret Pet Detective | 96574 | [96574-secret-pet-detective.json](./96574-secret-pet-detective.json) |
 | Secret Pet Playmate | 243930 | [243930-secret-pet-playmate.json](./243930-secret-pet-playmate.json) |
+| Secret Photo | 269212 | [269212-secret-photo.json](./269212-secret-photo.json) |
 | Secret Pie: End Roll | 298024 | [298024-secret-pie-end-roll.json](./298024-secret-pie-end-roll.json) |
 | Secret Pie: Hidden Room | 255018 | [255018-secret-pie-hidden-room.json](./255018-secret-pie-hidden-room.json) |
 | Secret Quest | 41108 | [41108-secret-quest.json](./41108-secret-quest.json) |
@@ -5865,6 +5866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six inches deep in mud | 278466 | [278466-six-inches-deep-in-mud.json](./278466-six-inches-deep-in-mud.json) |
 | Six Keys | 276394 | [276394-six-keys.json](./276394-six-keys.json) |
 | Six Match | 82156 | [82156-six-match.json](./82156-six-match.json) |
+| Six Meat Under | 269209 | [269209-six-meat-under.json](./269209-six-meat-under.json) |
 | Six Micro Stories | 55837 | [55837-six-micro-stories.json](./55837-six-micro-stories.json) |
 | Six Nights in Frenski's Basement | 388349 | [388349-six-nights-in-frenskis-basement.json](./388349-six-nights-in-frenskis-basement.json) |
 | Six Nights to Die | 258412 | [258412-six-nights-to-die.json](./258412-six-nights-to-die.json) |
@@ -10427,6 +10429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectraball: Extended Edition | 9069 | [9069-spectraball-extended-edition.json](./9069-spectraball-extended-edition.json) |
 | Spectral | 149411 | [149411-spectral.json](./149411-spectral.json) |
 | Spectral Ascension | 152938 | [152938-spectral-ascension.json](./152938-spectral-ascension.json) |
+| Spectral Climb | 269208 | [269208-spectral-climb.json](./269208-spectral-climb.json) |
 | Spectral Force 3 | 21339 | [21339-spectral-force-3.json](./21339-spectral-force-3.json) |
 | Spectral Invaders | 45311 | [45311-spectral-invaders.json](./45311-spectral-invaders.json) |
 | Spectral Keep | 258557 | [258557-spectral-keep.json](./258557-spectral-keep.json) |
@@ -11611,6 +11614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Head Zombies 2 - FPS Game | 99638 | [99638-square-head-zombies-2-fps-game.json](./99638-square-head-zombies-2-fps-game.json) |
 | Square It: An Electronic Game of Capture the Boxes | 217928 | [217928-square-it-an-electronic-game-of-capture-the-boxes.json](./217928-square-it-an-electronic-game-of-capture-the-boxes.json) |
 | Square Jump | 106377 | [106377-square-jump.json](./106377-square-jump.json) |
+| Square Logic | 269206 | [269206-square-logic.json](./269206-square-logic.json) |
 | Square Love | 359554 | [359554-square-love.json](./359554-square-love.json) |
 | Square Massacre | 76526 | [76526-square-massacre.json](./76526-square-massacre.json) |
 | Square n Fair | 29862 | [29862-square-n-fair.json](./29862-square-n-fair.json) |
@@ -14317,6 +14321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strong Buy Strong Sell | 324994 | [324994-strong-buy-strong-sell.json](./324994-strong-buy-strong-sell.json) |
 | Strong Crab | 384541 | [384541-strong-crab.json](./384541-strong-crab.json) |
 | Strong Fortress | 287908 | [287908-strong-fortress.json](./287908-strong-fortress.json) |
+| Strong man parkour | 269181 | [269181-strong-man-parkour.json](./269181-strong-man-parkour.json) |
 | Strong Moon | 208452 | [208452-strong-moon.json](./208452-strong-moon.json) |
 | Strong: Search for the Mightiest Person | 246975 | [246975-strong-search-for-the-mightiest-person.json](./246975-strong-search-for-the-mightiest-person.json) |
 | StrongBadZone | 135863 | [135863-strongbadzone.json](./135863-strongbadzone.json) |
@@ -14519,6 +14524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine Dash | 56762 | [56762-submarine-dash.json](./56762-submarine-dash.json) |
 | Submarine Fury | 73802 | [73802-submarine-fury.json](./73802-submarine-fury.json) |
 | Submarine Samurai | 183556 | [183556-submarine-samurai.json](./183556-submarine-samurai.json) |
+| Submarine Terror | 269205 | [269205-submarine-terror.json](./269205-submarine-terror.json) |
 | Submarine War | 154007 | [154007-submarine-war.json](./154007-submarine-war.json) |
 | SubmarineCraft | 113183 | [113183-submarinecraft.json](./113183-submarinecraft.json) |
 | Submarines | 277915 | [277915-submarines.json](./277915-submarines.json) |
@@ -14629,6 +14635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus x Saint | 327265 | [327265-succubus-x-saint.json](./327265-succubus-x-saint.json) |
 | Succubus: Elysian Fields | 337829 | [337829-succubus-elysian-fields.json](./337829-succubus-elysian-fields.json) |
 | Succubus: Onoskelis | 216209 | [216209-succubus-onoskelis.json](./216209-succubus-onoskelis.json) |
+| Succubus: Sex Story | 269203 | [269203-succubus-sex-story.json](./269203-succubus-sex-story.json) |
 | Succubuses Love Creampie | 169424 | [169424-succubuses-love-creampie.json](./169424-succubuses-love-creampie.json) |
 | Succulent | 20252 | [20252-succulent.json](./20252-succulent.json) |
 | Succulent Studio | 400224 | [400224-succulent-studio.json](./400224-succulent-studio.json) |
@@ -14840,6 +14847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide Hero | 244279 | [244279-suicide-hero.json](./244279-suicide-hero.json) |
 | Suicide Mission | 18566 | [18566-suicide-mission.json](./18566-suicide-mission.json) |
 | Suicide Run | 60054 | [60054-suicide-run.json](./60054-suicide-run.json) |
+| Suicide Runners | 269207 | [269207-suicide-runners.json](./269207-suicide-runners.json) |
 | Suicide Squad: Kill The Justice League - Deluxe Edition | 239147 | [239147-suicide-squad-kill-the-justice-league-deluxe-edition.json](./239147-suicide-squad-kill-the-justice-league-deluxe-edition.json) |
 | Suicide Squad: Kill the Justice League - Season 3: Season of Lawless | 321529 | [321529-suicide-squad-kill-the-justice-league-season-3-season-of-lawless.json](./321529-suicide-squad-kill-the-justice-league-season-3-season-of-lawless.json) |
 | Suicide Squad: Kill the Justice League - Season of Freeze | 317869 | [317869-suicide-squad-kill-the-justice-league-season-of-freeze.json](./317869-suicide-squad-kill-the-justice-league-season-of-freeze.json) |
@@ -16271,6 +16279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Move Quest | 358909 | [358909-super-move-quest.json](./358909-super-move-quest.json) |
 | Super Movie Tycoon | 346616 | [346616-super-movie-tycoon.json](./346616-super-movie-tycoon.json) |
 | Super Mr. Kake | 55480 | [55480-super-mr-kake.json](./55480-super-mr-kake.json) |
+| Super Mu | 269202 | [269202-super-mu.json](./269202-super-mu.json) |
 | Super Mumtaz Bros. | 183613 | [183613-super-mumtaz-bros.json](./183613-super-mumtaz-bros.json) |
 | Super Munchers: The Challenge Continues... | 70478 | [70478-super-munchers-the-challenge-continues.json](./70478-super-munchers-the-challenge-continues.json) |
 | Super Muscle Mario Bros | 323808 | [323808-super-muscle-mario-bros.json](./323808-super-muscle-mario-bros.json) |
