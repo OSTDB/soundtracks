@@ -930,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Dizzy | 12089 | [12089-fantastic-dizzy.json](./12089-fantastic-dizzy.json) |
 | Fantastic Fetus: Prebirth | 205113 | [205113-fantastic-fetus-prebirth.json](./205113-fantastic-fetus-prebirth.json) |
 | Fantastic Findings Hidden Seasons | 342827 | [342827-fantastic-findings-hidden-seasons.json](./342827-fantastic-findings-hidden-seasons.json) |
+| Fantastic Fist | 258100 | [258100-fantastic-fist.json](./258100-fantastic-fist.json) |
 | Fantastic Football Fan Party | 268130 | [268130-fantastic-football-fan-party.json](./268130-fantastic-football-fan-party.json) |
 | Fantastic Fortune 2: Triple Star | 220580 | [220580-fantastic-fortune-2-triple-star.json](./220580-fantastic-fortune-2-triple-star.json) |
 | Fantastic Fossils | 62148 | [62148-fantastic-fossils.json](./62148-fantastic-fossils.json) |
@@ -3698,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flat Heroes | 31898 | [31898-flat-heroes.json](./31898-flat-heroes.json) |
 | Flat Kingdom | 18795 | [18795-flat-kingdom.json](./18795-flat-kingdom.json) |
 | Flat Path | 31734 | [31734-flat-path.json](./31734-flat-path.json) |
+| Flat Spot | 258129 | [258129-flat-spot.json](./258129-flat-spot.json) |
 | Flat Worlds | 75055 | [75055-flat-worlds.json](./75055-flat-worlds.json) |
 | Flat Zombies: Cleanup & Defense | 174890 | [174890-flat-zombies-cleanup-and-defense.json](./174890-flat-zombies-cleanup-and-defense.json) |
 | Flatdog | 56429 | [56429-flatdog.json](./56429-flatdog.json) |
