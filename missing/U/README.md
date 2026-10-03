@@ -1460,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unrooted | 204366 | [204366-unrooted.json](./204366-unrooted.json) |
 | Unruly Tennis | 228121 | [228121-unruly-tennis.json](./228121-unruly-tennis.json) |
 | Unrush | 223420 | [223420-unrush.json](./223420-unrush.json) |
+| Unrushed Defence | 236342 | [236342-unrushed-defence.json](./236342-unrushed-defence.json) |
 | Unsafe Express | 173282 | [173282-unsafe-express.json](./173282-unsafe-express.json) |
 | Unscripted | 223383 | [223383-unscripted.json](./223383-unscripted.json) |
 | Unseasonable Flowering | 399221 | [399221-unseasonable-flowering.json](./399221-unseasonable-flowering.json) |
