@@ -1545,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Fighters XV: Garou MotW Terry Costume | 320249 | [320249-king-of-fighters-xv-garou-motw-terry-costume.json](./320249-king-of-fighters-xv-garou-motw-terry-costume.json) |
 | King of Football | 67980 | [67980-king-of-football.json](./67980-king-of-football.json) |
 | King of Halloween | 123503 | [123503-king-of-halloween.json](./123503-king-of-halloween.json) |
+| King of Hearts | 264204 | [264204-king-of-hearts.json](./264204-king-of-hearts.json) |
 | King of Hell | 298671 | [298671-king-of-hell.json](./298671-king-of-hell.json) |
 | King of Kalimpong | 203312 | [203312-king-of-kalimpong.json](./203312-king-of-kalimpong.json) |
 | King of Karts | 88306 | [88306-king-of-karts.json](./88306-king-of-karts.json) |
