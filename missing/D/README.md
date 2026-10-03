@@ -1112,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkstone | 660 | [660-darkstone.json](./660-darkstone.json) |
 | Darkstone Restoration | 397902 | [397902-darkstone-restoration.json](./397902-darkstone-restoration.json) |
 | DarkStory Online | 122155 | [122155-darkstory-online.json](./122155-darkstory-online.json) |
+| Darksy's Adventure | 242604 | [242604-darksys-adventure.json](./242604-darksys-adventure.json) |
 | Darkwatch | 5808 | [5808-darkwatch.json](./5808-darkwatch.json) |
 | Darkwater | 311201 | [311201-darkwater.json](./311201-darkwater.json) |
 | DarkwebStreamer | 278604 | [278604-darkwebstreamer.json](./278604-darkwebstreamer.json) |
@@ -3419,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descension | 208447 | [208447-descension.json](./208447-descension.json) |
 | Descension | 352183 | [352183-descension.json](./352183-descension.json) |
 | Descent | 110983 | [110983-descent.json](./110983-descent.json) |
+| Descent | 242692 | [242692-descent.json](./242692-descent.json) |
 | Descent | 282010 | [282010-descent.json](./282010-descent.json) |
 | Descent 3 | 667 | [667-descent-3.json](./667-descent-3.json) |
 | Descent 3: Mercenary | 11401 | [11401-descent-3-mercenary.json](./11401-descent-3-mercenary.json) |
@@ -3997,6 +3999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devils Share | 26513 | [26513-devils-share.json](./26513-devils-share.json) |
 | Devils Wind Mine | 294156 | [294156-devils-wind-mine.json](./294156-devils-wind-mine.json) |
 | DevilShaft: TheTower | 116843 | [116843-devilshaft-thetower.json](./116843-devilshaft-thetower.json) |
+| DevilutionX | 242688 | [242688-devilutionx.json](./242688-devilutionx.json) |
 | Devinica | 253979 | [253979-devinica.json](./253979-devinica.json) |
 | Devious | 99156 | [99156-devious.json](./99156-devious.json) |
 | Devious Lick | 224502 | [224502-devious-lick.json](./224502-devious-lick.json) |
