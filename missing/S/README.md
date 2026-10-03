@@ -4878,6 +4878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shroom & Doom | 256911 | [256911-shroom-and-doom.json](./256911-shroom-and-doom.json) |
 | Shroom and Gloom: Jam Version | 191809 | [191809-shroom-and-gloom-jam-version.json](./191809-shroom-and-gloom-jam-version.json) |
 | Shroom Editor | 320235 | [320235-shroom-editor.json](./320235-shroom-editor.json) |
+| Shroom Keeper | 258616 | [258616-shroom-keeper.json](./258616-shroom-keeper.json) |
 | Shroomageddon | 388305 | [388305-shroomageddon.json](./388305-shroomageddon.json) |
 | Shroomer | 346178 | [346178-shroomer.json](./346178-shroomer.json) |
 | Shroomio's Adventure | 185455 | [185455-shroomios-adventure.json](./185455-shroomios-adventure.json) |
@@ -8147,6 +8148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar System | 75388 | [75388-solar-system.json](./75388-solar-system.json) |
 | Solar System Colonist | 161261 | [161261-solar-system-colonist.json](./161261-solar-system-colonist.json) |
 | Solar System Conflict | 35768 | [35768-solar-system-conflict.json](./35768-solar-system-conflict.json) |
+| Solar System Experience | 258633 | [258633-solar-system-experience.json](./258633-solar-system-experience.json) |
 | Solar Systems For Kids | 257457 | [257457-solar-systems-for-kids.json](./257457-solar-systems-for-kids.json) |
 | Solar War | 273421 | [273421-solar-war.json](./273421-solar-war.json) |
 | Solar War | 35982 | [35982-solar-war.json](./35982-solar-war.json) |
@@ -9440,6 +9442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulivion | 285607 | [285607-soulivion.json](./285607-soulivion.json) |
 | Soulivion II | 288821 | [288821-soulivion-ii.json](./288821-soulivion-ii.json) |
 | SoulJah Kingdom Rise | 243372 | [243372-souljah-kingdom-rise.json](./243372-souljah-kingdom-rise.json) |
+| Soulker Defense | 258608 | [258608-soulker-defense.json](./258608-soulker-defense.json) |
 | Soulknight Survivor | 253363 | [253363-soulknight-survivor.json](./253363-soulknight-survivor.json) |
 | Soulless | 195790 | [195790-soulless.json](./195790-soulless.json) |
 | Soulless: Ray of Hope | 27754 | [27754-soulless-ray-of-hope.json](./27754-soulless-ray-of-hope.json) |
@@ -9636,6 +9639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Assault | 42134 | [42134-space-assault.json](./42134-space-assault.json) |
 | Space Attack | 38573 | [38573-space-attack.json](./38573-space-attack.json) |
 | Space Badminton VR | 29853 | [29853-space-badminton-vr.json](./29853-space-badminton-vr.json) |
+| Space Ball VR | 258602 | [258602-space-ball-vr.json](./258602-space-ball-vr.json) |
 | Space Baller | 133431 | [133431-space-baller.json](./133431-space-baller.json) |
 | Space Ballet | 25758 | [25758-space-ballet.json](./25758-space-ballet.json) |
 | Space Bandit | 150577 | [150577-space-bandit.json](./150577-space-bandit.json) |
@@ -10642,6 +10646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Disk | 240803 | [240803-spell-disk.json](./240803-spell-disk.json) |
 | Spell Disk Survivor | 259580 | [259580-spell-disk-survivor.json](./259580-spell-disk-survivor.json) |
 | Spell Karts | 139304 | [139304-spell-karts.json](./139304-spell-karts.json) |
+| Spell Legion | 258649 | [258649-spell-legion.json](./258649-spell-legion.json) |
 | Spell Magic | 348874 | [348874-spell-magic.json](./348874-spell-magic.json) |
 | Spell Rift | 335371 | [335371-spell-rift.json](./335371-spell-rift.json) |
 | Spell Slingers: Trick or Treat | 198516 | [198516-spell-slingers-trick-or-treat.json](./198516-spell-slingers-trick-or-treat.json) |
@@ -13824,6 +13829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story Teller | 119693 | [119693-story-teller.json](./119693-story-teller.json) |
 | Storyblocks + Cat Games + Soko Games | 335100 | [335100-storyblocks-cat-games-soko-games.json](./335100-storyblocks-cat-games-soko-games.json) |
 | Storyblocks: The King | 188110 | [188110-storyblocks-the-king.json](./188110-storyblocks-the-king.json) |
+| Storybook of Tactics | 258612 | [258612-storybook-of-tactics.json](./258612-storybook-of-tactics.json) |
 | Storybook Weaver | 252083 | [252083-storybook-weaver.json](./252083-storybook-weaver.json) |
 | Storybricks | 65193 | [65193-storybricks.json](./65193-storybricks.json) |
 | StoryKingdom | 255706 | [255706-storykingdom.json](./255706-storykingdom.json) |
@@ -13891,6 +13897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Pong | 339659 | [339659-strange-pong.json](./339659-strange-pong.json) |
 | Strange Pool | 331879 | [331879-strange-pool.json](./331879-strange-pool.json) |
 | Strange Seed | 257998 | [257998-strange-seed.json](./257998-strange-seed.json) |
+| Strange Shadow | 258651 | [258651-strange-shadow.json](./258651-strange-shadow.json) |
 | Strange Shores: Social Desktop Fishing | 344395 | [344395-strange-shores-social-desktop-fishing.json](./344395-strange-shores-social-desktop-fishing.json) |
 | Strange Tales of Tei-Shan | 301262 | [301262-strange-tales-of-tei-shan.json](./301262-strange-tales-of-tei-shan.json) |
 | Strange Terror from Beyond the Stars! | 133303 | [133303-strange-terror-from-beyond-the-stars.json](./133303-strange-terror-from-beyond-the-stars.json) |
