@@ -4522,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plane and Simple | 143108 | [143108-plane-and-simple.json](./143108-plane-and-simple.json) |
 | Plane Master | 232691 | [232691-plane-master.json](./232691-plane-master.json) |
 | Plane Racer | 230296 | [230296-plane-racer.json](./230296-plane-racer.json) |
+| Plane Starship: Galactic Frontline | 278104 | [278104-plane-starship-galactic-frontline.json](./278104-plane-starship-galactic-frontline.json) |
 | Planes | 262093 | [262093-planes.json](./262093-planes.json) |
 | Planes Combat | 278150 | [278150-planes-combat.json](./278150-planes-combat.json) |
 | Planes: Interactive Storybook | 230399 | [230399-planes-interactive-storybook.json](./230399-planes-interactive-storybook.json) |
@@ -5734,6 +5735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: National History Museum | 340212 | [340212-pokemon-national-history-museum.json](./340212-pokemon-national-history-museum.json) |
 | Pokémon: Professor Oak Challenge | 338849 | [338849-pokemon-professor-oak-challenge.json](./338849-pokemon-professor-oak-challenge.json) |
 | Pokémon: The Pit | 308392 | [308392-pokemon-the-pit.json](./308392-pokemon-the-pit.json) |
+| Pokémon: Too Many Types | 278078 | [278078-pokemon-too-many-types.json](./278078-pokemon-too-many-types.json) |
 | Pokémon/Grand Order | 330927 | [330927-pokemon-grand-order.json](./330927-pokemon-grand-order.json) |
 | PokemonGoGo | 381780 | [381780-pokemongogo.json](./381780-pokemongogo.json) |
 | Pokénet | 333548 | [333548-pokenet.json](./333548-pokenet.json) |
@@ -7414,6 +7416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2018 | 28862 | [28862-pro-evolution-soccer-2018.json](./28862-pro-evolution-soccer-2018.json) |
 | Pro Evolution Soccer 2019 | 240471 | [240471-pro-evolution-soccer-2019.json](./240471-pro-evolution-soccer-2019.json) |
 | Pro Evolution Soccer 2019 | 240473 | [240473-pro-evolution-soccer-2019.json](./240473-pro-evolution-soccer-2019.json) |
+| Pro Evolution Soccer 6: The Den Patch | 278048 | [278048-pro-evolution-soccer-6-the-den-patch.json](./278048-pro-evolution-soccer-6-the-den-patch.json) |
 | Pro Evolution Soccer Collection | 261262 | [261262-pro-evolution-soccer-collection.json](./261262-pro-evolution-soccer-collection.json) |
 | Pro Farm Manager | 75108 | [75108-pro-farm-manager.json](./75108-pro-farm-manager.json) |
 | Pro Fishing Challenge | 78688 | [78688-pro-fishing-challenge.json](./78688-pro-fishing-challenge.json) |
