@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Moviestar 3D | 245832 | [245832-captain-moviestar-3d.json](./245832-captain-moviestar-3d.json) |
 | Captain of Industry: Trains Expansion | 388973 | [388973-captain-of-industry-trains-expansion.json](./388973-captain-of-industry-trains-expansion.json) |
 | Captain of Space | 320558 | [320558-captain-of-space.json](./320558-captain-of-space.json) |
+| Captain Pawsome | 244856 | [244856-captain-pawsome.json](./244856-captain-pawsome.json) |
 | Captain Pegleg | 137452 | [137452-captain-pegleg.json](./137452-captain-pegleg.json) |
 | Captain Planet | 69790 | [69790-captain-planet.json](./69790-captain-planet.json) |
 | Captain Power and the Soldiers of the Future | 84294 | [84294-captain-power-and-the-soldiers-of-the-future.json](./84294-captain-power-and-the-soldiers-of-the-future.json) |
@@ -5368,6 +5369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluedo: The Mysteries Continue | 45936 | [45936-cluedo-the-mysteries-continue.json](./45936-cluedo-the-mysteries-continue.json) |
 | ClueFinders Search and Solve Adventures: The Phantom Amusement Park | 186038 | [186038-cluefinders-search-and-solve-adventures-the-phantom-amusement-park.json](./186038-cluefinders-search-and-solve-adventures-the-phantom-amusement-park.json) |
 | Cluefinders: Math Adventures - Mystery of the Himalayas | 66092 | [66092-cluefinders-math-adventures-mystery-of-the-himalayas.json](./66092-cluefinders-math-adventures-mystery-of-the-himalayas.json) |
+| Clueless Crosswords | 244830 | [244830-clueless-crosswords.json](./244830-clueless-crosswords.json) |
 | Clueless: The CD-ROM | 69852 | [69852-clueless-the-cd-rom.json](./69852-clueless-the-cd-rom.json) |
 | Clues By Sam | 352878 | [352878-clues-by-sam.json](./352878-clues-by-sam.json) |
 | Cluju | 386327 | [386327-cluju.json](./386327-cluju.json) |
@@ -6147,6 +6149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colosseum Coach | 395694 | [395694-colosseum-coach.json](./395694-colosseum-coach.json) |
 | Colossorama | 176985 | [176985-colossorama.json](./176985-colossorama.json) |
 | Colossus Down: Destroy'em Up Editon | 150145 | [150145-colossus-down-destroyem-up-editon.json](./150145-colossus-down-destroyem-up-editon.json) |
+| Colossus: Eternal Blight | 244913 | [244913-colossus-eternal-blight.json](./244913-colossus-eternal-blight.json) |
 | Colour Bind | 10101 | [10101-colour-bind.json](./10101-colour-bind.json) |
 | Colour Clash | 94228 | [94228-colour-clash.json](./94228-colour-clash.json) |
 | Colour My Fate | 384053 | [384053-colour-my-fate.json](./384053-colour-my-fate.json) |
@@ -6684,6 +6687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect 4 Faces: Match & Play | 232389 | [232389-connect-4-faces-match-and-play.json](./232389-connect-4-faces-match-and-play.json) |
 | Connect Bricks | 153827 | [153827-connect-bricks.json](./153827-connect-bricks.json) |
 | Connect Dots | 396371 | [396371-connect-dots.json](./396371-connect-dots.json) |
+| Connect Dots Puzzle: Classic Casual Arcade | 244823 | [244823-connect-dots-puzzle-classic-casual-arcade.json](./244823-connect-dots-puzzle-classic-casual-arcade.json) |
 | Connect Far Away Tale | 387599 | [387599-connect-far-away-tale.json](./387599-connect-far-away-tale.json) |
 | Connect Four | 45935 | [45935-connect-four.json](./45935-connect-four.json) |
 | Connect Four / Perfection / Trouble | 77638 | [77638-connect-four-perfection-trouble.json](./77638-connect-four-perfection-trouble.json) |
