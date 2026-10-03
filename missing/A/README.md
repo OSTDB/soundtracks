@@ -3219,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Aspect Warfare | 16065 | [16065-all-aspect-warfare.json](./16065-all-aspect-warfare.json) |
 | All Bears Love Honey | 133818 | [133818-all-bears-love-honey.json](./133818-all-bears-love-honey.json) |
 | All Black | 356686 | [356686-all-black.json](./356686-all-black.json) |
+| All Bosses | 268668 | [268668-all-bosses.json](./268668-all-bosses.json) |
 | All Cats 'r Belong To Us | 290484 | [290484-all-cats-r-belong-to-us.json](./290484-all-cats-r-belong-to-us.json) |
 | All Chess | 259050 | [259050-all-chess.json](./259050-all-chess.json) |
 | All City King | 293081 | [293081-all-city-king.json](./293081-all-city-king.json) |
@@ -3864,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ameprod Television Game 10 | 243416 | [243416-ameprod-television-game-10.json](./243416-ameprod-television-game-10.json) |
 | America Adventure | 206111 | [206111-america-adventure.json](./206111-america-adventure.json) |
 | America is Doing Great | 136486 | [136486-america-is-doing-great.json](./136486-america-is-doing-great.json) |
+| America Oudan Ultra Quiz | 268631 | [268631-america-oudan-ultra-quiz.json](./268631-america-oudan-ultra-quiz.json) |
 | America Oudan Ultra Quiz | 282817 | [282817-america-oudan-ultra-quiz.json](./282817-america-oudan-ultra-quiz.json) |
 | America Oudan Ultra Quiz | 45442 | [45442-america-oudan-ultra-quiz.json](./45442-america-oudan-ultra-quiz.json) |
 | America Oudan Ultra Quiz: Part 3 | 300695 | [300695-america-oudan-ultra-quiz-part-3.json](./300695-america-oudan-ultra-quiz-part-3.json) |
