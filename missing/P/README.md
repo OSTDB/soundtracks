@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pass the Time 2 | 68746 | [68746-pass-the-time-2.json](./68746-pass-the-time-2.json) |
 | Pass Tiger Cage | 374599 | [374599-pass-tiger-cage.json](./374599-pass-tiger-cage.json) |
 | Pass Your Driving Theory Test | 69205 | [69205-pass-your-driving-theory-test.json](./69205-pass-your-driving-theory-test.json) |
+| Passa ou Repassa | 248782 | [248782-passa-ou-repassa.json](./248782-passa-ou-repassa.json) |
 | Passage | 103641 | [103641-passage.json](./103641-passage.json) |
 | Passage | 204687 | [204687-passage.json](./204687-passage.json) |
 | Passage | 209700 | [209700-passage.json](./209700-passage.json) |
@@ -1987,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peekazoo | 211284 | [211284-peekazoo.json](./211284-peekazoo.json) |
 | Peeking at the peak | 278387 | [278387-peeking-at-the-peak.json](./278387-peeking-at-the-peak.json) |
 | Peel a Banana | 368557 | [368557-peel-a-banana.json](./368557-peel-a-banana.json) |
+| Peepers | 248807 | [248807-peepers.json](./248807-peepers.json) |
 | Peepers Paradise | 341586 | [341586-peepers-paradise.json](./341586-peepers-paradise.json) |
 | Peeping | 389669 | [389669-peeping.json](./389669-peeping.json) |
 | Peeping Tom | 284399 | [284399-peeping-tom.json](./284399-peeping-tom.json) |
@@ -5929,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polegli | 57115 | [57115-polegli.json](./57115-polegli.json) |
 | Polemista | 404403 | [404403-polemista.json](./404403-polemista.json) |
 | Polgar: Magic Detective | 191175 | [191175-polgar-magic-detective.json](./191175-polgar-magic-detective.json) |
+| Poliana Cake Crush | 248801 | [248801-poliana-cake-crush.json](./248801-poliana-cake-crush.json) |
 | Police & Gang | 385740 | [385740-police-and-gang.json](./385740-police-and-gang.json) |
 | Police 911 | 77016 | [77016-police-911.json](./77016-police-911.json) |
 | Police 911 2 | 97483 | [97483-police-911-2.json](./97483-police-911-2.json) |
@@ -6815,6 +6818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Battle for the Grid - Trey of Triforia: Gold Zeo Ranger | 167792 | [167792-power-rangers-battle-for-the-grid-trey-of-triforia-gold-zeo-ranger.json](./167792-power-rangers-battle-for-the-grid-trey-of-triforia-gold-zeo-ranger.json) |
 | Power Rangers: Beats of Power | 198344 | [198344-power-rangers-beats-of-power.json](./198344-power-rangers-beats-of-power.json) |
 | Power Rangers: Force in Time | 220104 | [220104-power-rangers-force-in-time.json](./220104-power-rangers-force-in-time.json) |
+| Power Rangers: Lightspeed Rescue | 248766 | [248766-power-rangers-lightspeed-rescue.json](./248766-power-rangers-lightspeed-rescue.json) |
 | Power Rangers: Mystic Force | 330744 | [330744-power-rangers-mystic-force.json](./330744-power-rangers-mystic-force.json) |
 | Power Rangers: Ninja Storm | 284965 | [284965-power-rangers-ninja-storm.json](./284965-power-rangers-ninja-storm.json) |
 | Power Rangers: Ninja Storm | 3291 | [3291-power-rangers-ninja-storm.json](./3291-power-rangers-ninja-storm.json) |
