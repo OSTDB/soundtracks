@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NES Remix 2 | 6402 | [6402-nes-remix-2.json](./6402-nes-remix-2.json) |
 | NES Remix Pack | 51151 | [51151-nes-remix-pack.json](./51151-nes-remix-pack.json) |
 | NES-Retku: The Game | 7568 | [7568-nes-retku-the-game.json](./7568-nes-retku-the-game.json) |
+| NESert Golfing | 251712 | [251712-nesert-golfing.json](./251712-nesert-golfing.json) |
 | Nesquik Quest | 332631 | [332631-nesquik-quest.json](./332631-nesquik-quest.json) |
 | Nessa no Hoshi | 123585 | [123585-nessa-no-hoshi.json](./123585-nessa-no-hoshi.json) |
 | Nessie | 64442 | [64442-nessie.json](./64442-nessie.json) |
