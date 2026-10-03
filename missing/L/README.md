@@ -3123,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Nightmares II: Day 1 Edition | 139821 | [139821-little-nightmares-ii-day-1-edition.json](./139821-little-nightmares-ii-day-1-edition.json) |
 | Little Nightmares II: Deluxe Edition | 154511 | [154511-little-nightmares-ii-deluxe-edition.json](./154511-little-nightmares-ii-deluxe-edition.json) |
 | Little Nightmares II: Enhanced Edition | 323947 | [323947-little-nightmares-ii-enhanced-edition.json](./323947-little-nightmares-ii-enhanced-edition.json) |
+| Little Nightmares II: The Nome's Attic | 226785 | [226785-little-nightmares-ii-the-nomes-attic.json](./226785-little-nightmares-ii-the-nomes-attic.json) |
 | Little Nightmares II: TV Edition | 139822 | [139822-little-nightmares-ii-tv-edition.json](./139822-little-nightmares-ii-tv-edition.json) |
 | Little Nightmares III: Dark Six Costumes Set | 370223 | [370223-little-nightmares-iii-dark-six-costumes-set.json](./370223-little-nightmares-iii-dark-six-costumes-set.json) |
 | Little Nightmares III: Deluxe Edition | 362374 | [362374-little-nightmares-iii-deluxe-edition.json](./362374-little-nightmares-iii-deluxe-edition.json) |
