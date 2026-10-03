@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calculator: The Game | 129167 | [129167-calculator-the-game.json](./129167-calculator-the-game.json) |
 | Calculator360 | 81236 | [81236-calculator360.json](./81236-calculator360.json) |
 | Caldera | 289385 | [289385-caldera.json](./289385-caldera.json) |
+| Caleb's Dream | 276400 | [276400-calebs-dream.json](./276400-calebs-dream.json) |
 | Caleria | 409017 | [409017-caleria.json](./409017-caleria.json) |
 | CaliaQuest | 303722 | [303722-caliaquest.json](./303722-caliaquest.json) |
 | Calibre 10 Racing | 30249 | [30249-calibre-10-racing.json](./30249-calibre-10-racing.json) |
@@ -2539,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celtic Tribes | 343804 | [343804-celtic-tribes.json](./343804-celtic-tribes.json) |
 | Cemantle & Pedantle | 194956 | [194956-cemantle-and-pedantle.json](./194956-cemantle-and-pedantle.json) |
 | Cement Truck | 105921 | [105921-cement-truck.json](./105921-cement-truck.json) |
+| Cemetary | 276401 | [276401-cemetary.json](./276401-cemetary.json) |
 | Cemetery Warrior 3 | 29991 | [29991-cemetery-warrior-3.json](./29991-cemetery-warrior-3.json) |
 | Cendovia Uprising | 346664 | [346664-cendovia-uprising.json](./346664-cendovia-uprising.json) |
 | Cendric | 81045 | [81045-cendric.json](./81045-cendric.json) |
@@ -7350,6 +7352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Fear | 340029 | [340029-cosmic-fear.json](./340029-cosmic-fear.json) |
 | Cosmic Fire Birds | 60038 | [60038-cosmic-fire-birds.json](./60038-cosmic-fire-birds.json) |
 | Cosmic Gravity | 106755 | [106755-cosmic-gravity.json](./106755-cosmic-gravity.json) |
+| Cosmic Guerilla | 276388 | [276388-cosmic-guerilla.json](./276388-cosmic-guerilla.json) |
 | Cosmic Gunslinger: Alien Outlaws | 274572 | [274572-cosmic-gunslinger-alien-outlaws.json](./274572-cosmic-gunslinger-alien-outlaws.json) |
 | Cosmic High Schooler | 358510 | [358510-cosmic-high-schooler.json](./358510-cosmic-high-schooler.json) |
 | Cosmic Highway | 63834 | [63834-cosmic-highway.json](./63834-cosmic-highway.json) |
@@ -7517,6 +7520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Count Logica | 110135 | [110135-count-logica.json](./110135-count-logica.json) |
 | Count Masters | 305844 | [305844-count-masters.json](./305844-count-masters.json) |
 | Count Meowcula's Barbershop | 374773 | [374773-count-meowculas-barbershop.json](./374773-count-meowculas-barbershop.json) |
+| Count of Wallachia | 276403 | [276403-count-of-wallachia.json](./276403-count-of-wallachia.json) |
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
 | Count to Ten: Supporter Edition | 310385 | [310385-count-to-ten-supporter-edition.json](./310385-count-to-ten-supporter-edition.json) |
 | Count your Clones | 413889 | [413889-count-your-clones.json](./413889-count-your-clones.json) |
@@ -8408,6 +8412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescent Loom | 134667 | [134667-crescent-loom.json](./134667-crescent-loom.json) |
 | Crescent Pale Mist | 21085 | [21085-crescent-pale-mist.json](./21085-crescent-pale-mist.json) |
 | Crescent Prism | 221664 | [221664-crescent-prism.json](./221664-crescent-prism.json) |
+| Crescent Quest: Furry Home Expansion | 276415 | [276415-crescent-quest-furry-home-expansion.json](./276415-crescent-quest-furry-home-expansion.json) |
 | Crescent Quest: Y2K Home Expansion | 276850 | [276850-crescent-quest-y2k-home-expansion.json](./276850-crescent-quest-y2k-home-expansion.json) |
 | Crescent Roll | 403084 | [403084-crescent-roll.json](./403084-crescent-roll.json) |
 | Crescent Satsujin Jiken: Hyena no Jijou | 273446 | [273446-crescent-satsujin-jiken-hyena-no-jijou.json](./273446-crescent-satsujin-jiken-hyena-no-jijou.json) |
