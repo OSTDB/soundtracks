@@ -4665,6 +4665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Evil Within Double Feature | 146135 | [146135-the-evil-within-double-feature.json](./146135-the-evil-within-double-feature.json) |
 | The Evil Within: Limited Edition | 41607 | [41607-the-evil-within-limited-edition.json](./41607-the-evil-within-limited-edition.json) |
 | The Evil Within: The Consequence | 20945 | [20945-the-evil-within-the-consequence.json](./20945-the-evil-within-the-consequence.json) |
+| The Evolving Forest | 252891 | [252891-the-evolving-forest.json](./252891-the-evolving-forest.json) |
 | The exact moment | 144790 | [144790-the-exact-moment.json](./144790-the-exact-moment.json) |
 | The Exaggerated Epoch of Edward O'Hare | 147378 | [147378-the-exaggerated-epoch-of-edward-ohare.json](./147378-the-exaggerated-epoch-of-edward-ohare.json) |
 | The eXceed Collection | 64895 | [64895-the-exceed-collection.json](./64895-the-exceed-collection.json) |
@@ -4688,6 +4689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exorcist's Story | 224628 | [224628-the-exorcists-story.json](./224628-the-exorcists-story.json) |
 | The Expanse: A Telltale Series | 185239 | [185239-the-expanse-a-telltale-series.json](./185239-the-expanse-a-telltale-series.json) |
 | The Expanse: A Telltale Series - Archangel Bonus Episode | 265835 | [265835-the-expanse-a-telltale-series-archangel-bonus-episode.json](./265835-the-expanse-a-telltale-series-archangel-bonus-episode.json) |
+| The Expanse: A Telltale Series - Deluxe Edition | 252890 | [252890-the-expanse-a-telltale-series-deluxe-edition.json](./252890-the-expanse-a-telltale-series-deluxe-edition.json) |
 | The Expanse: A Telltale Series - Episode 2: Hunting Grounds | 265830 | [265830-the-expanse-a-telltale-series-episode-2-hunting-grounds.json](./265830-the-expanse-a-telltale-series-episode-2-hunting-grounds.json) |
 | The Expanse: A Telltale Series - Episode 3: First Ones | 265831 | [265831-the-expanse-a-telltale-series-episode-3-first-ones.json](./265831-the-expanse-a-telltale-series-episode-3-first-ones.json) |
 | The Expanse: A Telltale Series - Episode 4: Impossible Objects | 265833 | [265833-the-expanse-a-telltale-series-episode-4-impossible-objects.json](./265833-the-expanse-a-telltale-series-episode-4-impossible-objects.json) |
@@ -6543,6 +6545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Skyward Sword Randomizer | 241895 | [241895-the-legend-of-zelda-skyward-sword-randomizer.json](./241895-the-legend-of-zelda-skyward-sword-randomizer.json) |
 | The Legend of Zelda: Specter's Oculus | 323365 | [323365-the-legend-of-zelda-specters-oculus.json](./323365-the-legend-of-zelda-specters-oculus.json) |
 | The Legend of Zelda: Spirit Tracks | 1038 | [1038-the-legend-of-zelda-spirit-tracks.json](./1038-the-legend-of-zelda-spirit-tracks.json) |
+| The Legend of Zelda: Tears of the Kingdom - Better Sages Mod | 252906 | [252906-the-legend-of-zelda-tears-of-the-kingdom-better-sages-mod.json](./252906-the-legend-of-zelda-tears-of-the-kingdom-better-sages-mod.json) |
 | The Legend of Zelda: Tears of the Kingdom - Collector's Edition | 237289 | [237289-the-legend-of-zelda-tears-of-the-kingdom-collectors-edition.json](./237289-the-legend-of-zelda-tears-of-the-kingdom-collectors-edition.json) |
 | The Legend of Zelda: Tears of the Kingdom - Nintendo Switch 2 Edition | 338073 | [338073-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-2-edition.json](./338073-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-2-edition.json) |
 | The Legend of Zelda: Tears of the Kingdom Online | 357440 | [357440-the-legend-of-zelda-tears-of-the-kingdom-online.json](./357440-the-legend-of-zelda-tears-of-the-kingdom-online.json) |
@@ -13688,6 +13691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2024 | 288855 | [288855-tour-de-france-2024.json](./288855-tour-de-france-2024.json) |
 | Tour de France 2025 | 336720 | [336720-tour-de-france-2025.json](./336720-tour-de-france-2025.json) |
 | Tour of Neverland | 146886 | [146886-tour-of-neverland.json](./146886-tour-of-neverland.json) |
+| Touring | 252895 | [252895-touring.json](./252895-touring.json) |
 | Tourist | 89206 | [89206-tourist.json](./89206-tourist.json) |
 | Tourist Bus Simulator: BB40 | 168891 | [168891-tourist-bus-simulator-bb40.json](./168891-tourist-bus-simulator-bb40.json) |
 | Tourist Bus Simulator: Comfort Class HD | 168888 | [168888-tourist-bus-simulator-comfort-class-hd.json](./168888-tourist-bus-simulator-comfort-class-hd.json) |
@@ -14114,6 +14118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrackRacing Online | 98396 | [98396-trackracing-online.json](./98396-trackracing-online.json) |
 | Tracks n' Turrets | 272899 | [272899-tracks-n-turrets.json](./272899-tracks-n-turrets.json) |
 | Tracks of Thought | 136982 | [136982-tracks-of-thought.json](./136982-tracks-of-thought.json) |
+| Tracks of Triumph Retro Blast | 252889 | [252889-tracks-of-triumph-retro-blast.json](./252889-tracks-of-triumph-retro-blast.json) |
 | Tracks of Triumph: Good Old Times | 29886 | [29886-tracks-of-triumph-good-old-times.json](./29886-tracks-of-triumph-good-old-times.json) |
 | Tracks: The Train Set Game | 39748 | [39748-tracks-the-train-set-game.json](./39748-tracks-the-train-set-game.json) |
 | Tracks: Toybox Edition | 139928 | [139928-tracks-toybox-edition.json](./139928-tracks-toybox-edition.json) |
@@ -16211,6 +16216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tu cara me suena: El videojuego | 332817 | [332817-tu-cara-me-suena-el-videojuego.json](./332817-tu-cara-me-suena-el-videojuego.json) |
 | TU-46 | 120876 | [120876-tu-46.json](./120876-tu-46.json) |
 | TU-95 | 120877 | [120877-tu-95.json](./120877-tu-95.json) |
+| Tub Defenders | 252930 | [252930-tub-defenders.json](./252930-tub-defenders.json) |
 | Tub Sub | 180584 | [180584-tub-sub.json](./180584-tub-sub.json) |
 | Tubby Toast | 307839 | [307839-tubby-toast.json](./307839-tubby-toast.json) |
 | Tubby's Wonderful Town | 382751 | [382751-tubbys-wonderful-town.json](./382751-tubbys-wonderful-town.json) |
