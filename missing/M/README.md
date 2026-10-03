@@ -2165,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MarioBreak! | 404420 | [404420-mariobreak.json](./404420-mariobreak.json) |
 | MarioKart 64: Recompiled | 378347 | [378347-mariokart-64-recompiled.json](./378347-mariokart-64-recompiled.json) |
 | Marion Surgical Robot Game | 336905 | [336905-marion-surgical-robot-game.json](./336905-marion-surgical-robot-game.json) |
+| Marionette | 257518 | [257518-marionette.json](./257518-marionette.json) |
 | MarionetteAI | 41970 | [41970-marionetteai.json](./41970-marionetteai.json) |
 | MarioQuest 2: Sonic Returns | 381729 | [381729-marioquest-2-sonic-returns.json](./381729-marioquest-2-sonic-returns.json) |
 | MarioQuest 3: The Ghost of SEGA | 318033 | [318033-marioquest-3-the-ghost-of-sega.json](./318033-marioquest-3-the-ghost-of-sega.json) |
@@ -8365,6 +8366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlit | 141094 | [141094-moonlit.json](./141094-moonlit.json) |
 | Moonlit | 263437 | [263437-moonlit.json](./263437-moonlit.json) |
 | Moonlit Blessed | 383549 | [383549-moonlit-blessed.json](./383549-moonlit-blessed.json) |
+| Moonlit District | 257572 | [257572-moonlit-district.json](./257572-moonlit-district.json) |
 | Moonlit Embrace | 311051 | [311051-moonlit-embrace.json](./311051-moonlit-embrace.json) |
 | Moonlit Lobby | 212773 | [212773-moonlit-lobby.json](./212773-moonlit-lobby.json) |
 | Moonlit Nights | 386146 | [386146-moonlit-nights.json](./386146-moonlit-nights.json) |
@@ -10790,6 +10792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: The Riddle of Mrs. Bishop | 360051 | [360051-mystery-case-files-the-riddle-of-mrs-bishop.json](./360051-mystery-case-files-the-riddle-of-mrs-bishop.json) |
 | Mystery Case Files: The Riddle of Mrs. Bishop - Collector's Edition | 360039 | [360039-mystery-case-files-the-riddle-of-mrs-bishop-collectors-edition.json](./360039-mystery-case-files-the-riddle-of-mrs-bishop-collectors-edition.json) |
 | Mystery Castle | 19889 | [19889-mystery-castle.json](./19889-mystery-castle.json) |
+| Mystery Cat | 257519 | [257519-mystery-cat.json](./257519-mystery-cat.json) |
 | Mystery Chronicles: One Way Heroics | 124745 | [124745-mystery-chronicles-one-way-heroics.json](./124745-mystery-chronicles-one-way-heroics.json) |
 | Mystery Circle | 37916 | [37916-mystery-circle.json](./37916-mystery-circle.json) |
 | Mystery Crypt | 261520 | [261520-mystery-crypt.json](./261520-mystery-crypt.json) |
