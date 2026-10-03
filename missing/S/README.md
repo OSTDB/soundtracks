@@ -11490,6 +11490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Dash | 216723 | [216723-spring-dash.json](./216723-spring-dash.json) |
 | Spring Dogs: Ultimate Multiplayer Battle Royale | 294371 | [294371-spring-dogs-ultimate-multiplayer-battle-royale.json](./294371-spring-dogs-ultimate-multiplayer-battle-royale.json) |
 | Spring Falls | 122845 | [122845-spring-falls.json](./122845-spring-falls.json) |
+| Spring Fowler | 252932 | [252932-spring-fowler.json](./252932-spring-fowler.json) |
 | Spring Gothic | 338216 | [338216-spring-gothic.json](./338216-spring-gothic.json) |
 | Spring Hell | 266770 | [266770-spring-hell.json](./266770-spring-hell.json) |
 | Spring in Her Step | 333124 | [333124-spring-in-her-step.json](./333124-spring-in-her-step.json) |
@@ -14501,6 +14502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stumblehill | 117510 | [117510-stumblehill.json](./117510-stumblehill.json) |
 | Stump Me | 312886 | [312886-stump-me.json](./312886-stump-me.json) |
 | Stump Simulator | 272284 | [272284-stump-simulator.json](./272284-stump-simulator.json) |
+| Stunt Bunnies Circus | 252927 | [252927-stunt-bunnies-circus.json](./252927-stunt-bunnies-circus.json) |
 | Stunt Car Challenge 3 | 261845 | [261845-stunt-car-challenge-3.json](./261845-stunt-car-challenge-3.json) |
 | Stunt Copter | 229021 | [229021-stunt-copter.json](./229021-stunt-copter.json) |
 | Stunt Corgi | 76989 | [76989-stunt-corgi.json](./76989-stunt-corgi.json) |
@@ -17659,6 +17661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweep Strike | 376540 | [376540-sweep-strike.json](./376540-sweep-strike.json) |
 | Sweeper | 178436 | [178436-sweeper.json](./178436-sweeper.json) |
 | Sweeper Zero | 107870 | [107870-sweeper-zero.json](./107870-sweeper-zero.json) |
+| Sweepers Mine | 252914 | [252914-sweepers-mine.json](./252914-sweepers-mine.json) |
 | Sweepminer | 377044 | [377044-sweepminer.json](./377044-sweepminer.json) |
 | Sweet Adventure | 392916 | [392916-sweet-adventure.json](./392916-sweet-adventure.json) |
 | Sweet and Cute | 169381 | [169381-sweet-and-cute.json](./169381-sweet-and-cute.json) |
