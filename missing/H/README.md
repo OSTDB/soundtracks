@@ -1823,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Metal Death Can | 386835 | [386835-heavy-metal-death-can.json](./386835-heavy-metal-death-can.json) |
 | Heavy Metal Machines | 36171 | [36171-heavy-metal-machines.json](./36171-heavy-metal-machines.json) |
 | Heavy Metal Thunder | 56142 | [56142-heavy-metal-thunder.json](./56142-heavy-metal-thunder.json) |
+| Heavy Metal Titans | 252256 | [252256-heavy-metal-titans.json](./252256-heavy-metal-titans.json) |
 | Heavy Nova | 5392 | [5392-heavy-nova.json](./5392-heavy-nova.json) |
 | Heavy Rain & Beyond: Two Souls - Collection | 44547 | [44547-heavy-rain-and-beyond-two-souls-collection.json](./44547-heavy-rain-and-beyond-two-souls-collection.json) |
 | Heavy Rain: Director's Cut | 45279 | [45279-heavy-rain-directors-cut.json](./45279-heavy-rain-directors-cut.json) |
@@ -5305,6 +5306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Pot Panic | 134550 | [134550-hot-pot-panic.json](./134550-hot-pot-panic.json) |
 | Hot Pussy College 2 | 240737 | [240737-hot-pussy-college-2.json](./240737-hot-pussy-college-2.json) |
 | Hot Racing | 246461 | [246461-hot-racing.json](./246461-hot-racing.json) |
+| Hot Rider | 252257 | [252257-hot-rider.json](./252257-hot-rider.json) |
 | Hot Rider Racing Simulator | 290428 | [290428-hot-rider-racing-simulator.json](./290428-hot-rider-racing-simulator.json) |
 | Hot Rod Racer | 85180 | [85180-hot-rod-racer.json](./85180-hot-rod-racer.json) |
 | Hot Rod: Garage to Glory | 73365 | [73365-hot-rod-garage-to-glory.json](./73365-hot-rod-garage-to-glory.json) |
