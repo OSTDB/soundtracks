@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You See What I See?: Dream Machine | 312210 | [312210-can-you-see-what-i-see-dream-machine.json](./312210-can-you-see-what-i-see-dream-machine.json) |
 | Can You Survive?: Survival World | 95825 | [95825-can-you-survive-survival-world.json](./95825-can-you-survive-survival-world.json) |
 | Can Your Pet | 215086 | [215086-can-your-pet.json](./215086-can-your-pet.json) |
+| Can't Be Touched | 252892 | [252892-cant-be-touched.json](./252892-cant-be-touched.json) |
 | Can't buy me love! | 363940 | [363940-cant-buy-me-love.json](./363940-cant-buy-me-love.json) |
 | Can't Even See the Sky | 361922 | [361922-cant-even-see-the-sky.json](./361922-cant-even-see-the-sky.json) |
 | Can't Run Frm Evil | 262294 | [262294-cant-run-frm-evil.json](./262294-cant-run-frm-evil.json) |
@@ -2961,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chapatriste | 307622 | [307622-chapatriste.json](./307622-chapatriste.json) |
 | Chapeau | 117169 | [117169-chapeau.json](./117169-chapeau.json) |
 | Chaperone | 276220 | [276220-chaperone.json](./276220-chaperone.json) |
+| Chapolim & Super Sam: a lenda dos super heróis | 252902 | [252902-chapolim-and-super-sam-a-lenda-dos-super-herois.json](./252902-chapolim-and-super-sam-a-lenda-dos-super-herois.json) |
 | Chapter Wars: Expansion Pack | 286541 | [286541-chapter-wars-expansion-pack.json](./286541-chapter-wars-expansion-pack.json) |
 | Chaqs | 223504 | [223504-chaqs.json](./223504-chaqs.json) |
 | Char's Ennui | 384774 | [384774-chars-ennui.json](./384774-chars-ennui.json) |
@@ -3086,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chatteract | 138710 | [138710-chatteract.json](./138710-chatteract.json) |
 | Chatterbox | 300341 | [300341-chatterbox.json](./300341-chatterbox.json) |
 | Chaturanga | 383617 | [383617-chaturanga.json](./383617-chaturanga.json) |
+| Chaves Arena | 252903 | [252903-chaves-arena.json](./252903-chaves-arena.json) |
 | CHE: Guerrilla In Bolivia | 15874 | [15874-che-guerrilla-in-bolivia.json](./15874-che-guerrilla-in-bolivia.json) |
 | Cheap Game | 157516 | [157516-cheap-game.json](./157516-cheap-game.json) |
 | Cheap Game 3 | 153984 | [153984-cheap-game-3.json](./153984-cheap-game-3.json) |
@@ -5549,6 +5552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename Eagle | 344 | [344-codename-eagle.json](./344-codename-eagle.json) |
 | Codename Kids Next Door: Operation B.E.S.T. | 342736 | [342736-codename-kids-next-door-operation-b-e-s-t.json](./342736-codename-kids-next-door-operation-b-e-s-t.json) |
 | Codename Kids Next Door: Tummy Trouble | 349934 | [349934-codename-kids-next-door-tummy-trouble.json](./349934-codename-kids-next-door-tummy-trouble.json) |
+| Codename Madruga | 252897 | [252897-codename-madruga.json](./252897-codename-madruga.json) |
 | Codename Mallow | 139251 | [139251-codename-mallow.json](./139251-codename-mallow.json) |
 | Codename Medusa | 395792 | [395792-codename-medusa.json](./395792-codename-medusa.json) |
 | Codename Nemesis | 113646 | [113646-codename-nemesis.json](./113646-codename-nemesis.json) |
