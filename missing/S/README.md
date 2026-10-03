@@ -3227,6 +3227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Play: Tropical Vacation | 272934 | [272934-sex-play-tropical-vacation.json](./272934-sex-play-tropical-vacation.json) |
 | Sex Prison | 175795 | [175795-sex-prison.json](./175795-sex-prison.json) |
 | Sex Prison VR | 368090 | [368090-sex-prison-vr.json](./368090-sex-prison-vr.json) |
+| Sex Room: 18+ | 235270 | [235270-sex-room-18.json](./235270-sex-room-18.json) |
 | Sex Search | 230950 | [230950-sex-search.json](./230950-sex-search.json) |
 | Sex Search 2: Ultimate | 204430 | [204430-sex-search-2-ultimate.json](./204430-sex-search-2-ultimate.json) |
 | Sex Shop Simulator | 330188 | [330188-sex-shop-simulator.json](./330188-sex-shop-simulator.json) |
@@ -5191,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sig | 231087 | [231087-sig.json](./231087-sig.json) |
 | Sig.Null | 32071 | [32071-sig-null.json](./32071-sig-null.json) |
 | SIGame | 285584 | [285584-sigame.json](./285584-sigame.json) |
+| Sigformation | 235369 | [235369-sigformation.json](./235369-sigformation.json) |
 | SIght | 243649 | [243649-sight.json](./243649-sight.json) |
 | Sight Blight | 249726 | [249726-sight-blight.json](./249726-sight-blight.json) |
 | Sight's Adventure | 182909 | [182909-sights-adventure.json](./182909-sights-adventure.json) |
@@ -8656,6 +8658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic & Blaze | 266506 | [266506-sonic-and-blaze.json](./266506-sonic-and-blaze.json) |
 | Sonic & Friends | 324960 | [324960-sonic-and-friends.json](./324960-sonic-and-friends.json) |
 | Sonic & Friends 2 | 324959 | [324959-sonic-and-friends-2.json](./324959-sonic-and-friends-2.json) |
+| Sonic & Johnny | 235262 | [235262-sonic-and-johnny.json](./235262-sonic-and-johnny.json) |
 | Sonic & Knuckles | 239072 | [239072-sonic-and-knuckles.json](./239072-sonic-and-knuckles.json) |
 | Sonic & Knuckles | 9475 | [9475-sonic-and-knuckles.json](./9475-sonic-and-knuckles.json) |
 | Sonic & Knuckles: Newtrogic Panic | 326151 | [326151-sonic-and-knuckles-newtrogic-panic.json](./326151-sonic-and-knuckles-newtrogic-panic.json) |
@@ -9303,6 +9306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer's Mid-month Exam | 247613 | [247613-sorcerers-mid-month-exam.json](./247613-sorcerers-mid-month-exam.json) |
 | Sorcerer's Path | 87969 | [87969-sorcerers-path.json](./87969-sorcerers-path.json) |
 | Sorcerers of Kinetics | 30824 | [30824-sorcerers-of-kinetics.json](./30824-sorcerers-of-kinetics.json) |
+| Sorceress | 235363 | [235363-sorceress.json](./235363-sorceress.json) |
 | Sorceress Alive!: The World's End Fallen Star | 397243 | [397243-sorceress-alive-the-worlds-end-fallen-star.json](./397243-sorceress-alive-the-worlds-end-fallen-star.json) |
 | Sorceress Elisha's Hypnotized & Lent-Out Log | 98452 | [98452-sorceress-elishas-hypnotized-and-lent-out-log.json](./98452-sorceress-elishas-hypnotized-and-lent-out-log.json) |
 | Sorceress Idle | 220218 | [220218-sorceress-idle.json](./220218-sorceress-idle.json) |
@@ -17424,6 +17428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survirus | 345527 | [345527-survirus.json](./345527-survirus.json) |
 | Survisland | 105015 | [105015-survisland.json](./105015-survisland.json) |
 | Survius | 322684 | [322684-survius.json](./322684-survius.json) |
+| Survival | 235263 | [235263-survival.json](./235263-survival.json) |
 | Survival & Horror: Hangman's Rope | 244273 | [244273-survival-and-horror-hangmans-rope.json](./244273-survival-and-horror-hangmans-rope.json) |
 | Survival & Horror: Mortanis Prisoners Prologue | 253422 | [253422-survival-and-horror-mortanis-prisoners-prologue.json](./253422-survival-and-horror-mortanis-prisoners-prologue.json) |
 | Survival & Horror: The Damned City | 244750 | [244750-survival-and-horror-the-damned-city.json](./244750-survival-and-horror-the-damned-city.json) |
@@ -17917,6 +17922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Shop | 90376 | [90376-sweet-shop.json](./90376-sweet-shop.json) |
 | Sweet Slave | 339442 | [339442-sweet-slave.json](./339442-sweet-slave.json) |
 | Sweet Solitaire: School Witch | 133232 | [133232-sweet-solitaire-school-witch.json](./133232-sweet-solitaire-school-witch.json) |
+| Sweet Solitaire: School Witch 3 | 235273 | [235273-sweet-solitaire-school-witch-3.json](./235273-sweet-solitaire-school-witch-3.json) |
 | Sweet Sort | 255751 | [255751-sweet-sort.json](./255751-sweet-sort.json) |
 | Sweet Sport | 368572 | [368572-sweet-sport.json](./368572-sweet-sport.json) |
 | Sweet Spring Festival | 339441 | [339441-sweet-spring-festival.json](./339441-sweet-spring-festival.json) |
