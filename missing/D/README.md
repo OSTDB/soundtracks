@@ -1729,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Function | 179737 | [179737-dead-function.json](./179737-dead-function.json) |
 | Dead Fury | 193734 | [193734-dead-fury.json](./193734-dead-fury.json) |
 | Dead Gears: Space of War | 401118 | [401118-dead-gears-space-of-war.json](./401118-dead-gears-space-of-war.json) |
+| Dead Girl's Notebook | 249322 | [249322-dead-girls-notebook.json](./249322-dead-girls-notebook.json) |
 | Dead Giveaway: Zombie Quiz | 232044 | [232044-dead-giveaway-zombie-quiz.json](./232044-dead-giveaway-zombie-quiz.json) |
 | Dead Ground Arcade: Ellis Island | 264768 | [264768-dead-ground-arcade-ellis-island.json](./264768-dead-ground-arcade-ellis-island.json) |
 | Dead GroundZ | 99038 | [99038-dead-groundz.json](./99038-dead-groundz.json) |
@@ -7782,6 +7783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Pilots | 252854 | [252854-dread-pilots.json](./252854-dread-pilots.json) |
 | Dread Protocol | 277315 | [277315-dread-protocol.json](./277315-dread-protocol.json) |
 | Dread the Rabbit | 183595 | [183595-dread-the-rabbit.json](./183595-dread-the-rabbit.json) |
+| Dread Weight | 249334 | [249334-dread-weight.json](./249334-dread-weight.json) |
 | Dread X Collection 3 | 140041 | [140041-dread-x-collection-3.json](./140041-dread-x-collection-3.json) |
 | Dread X Collection 5 | 196045 | [196045-dread-x-collection-5.json](./196045-dread-x-collection-5.json) |
 | Dread X Collection: The Hunt | 145624 | [145624-dread-x-collection-the-hunt.json](./145624-dread-x-collection-the-hunt.json) |
@@ -8201,6 +8203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift'n'Drive | 134446 | [134446-driftndrive.json](./134446-driftndrive.json) |
 | Drift'n'Drive | 200025 | [200025-driftndrive.json](./200025-driftndrive.json) |
 | DriftBorne | 399209 | [399209-driftborne.json](./399209-driftborne.json) |
+| DriftCE | 249331 | [249331-driftce.json](./249331-driftce.json) |
 | Drifted | 287227 | [287227-drifted.json](./287227-drifted.json) |
 | Driftence | 190130 | [190130-driftence.json](./190130-driftence.json) |
 | Drifter | 16772 | [16772-drifter.json](./16772-drifter.json) |
@@ -8731,6 +8734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Champions | 358362 | [358362-duel-champions.json](./358362-duel-champions.json) |
 | Duel de Base Stat | 403780 | [403780-duel-de-base-stat.json](./403780-duel-de-base-stat.json) |
 | Duel Draw: Katana Clash | 397862 | [397862-duel-draw-katana-clash.json](./397862-duel-draw-katana-clash.json) |
+| Duel Heroes | 249337 | [249337-duel-heroes.json](./249337-duel-heroes.json) |
 | Duel Jousting | 75770 | [75770-duel-jousting.json](./75770-duel-jousting.json) |
 | Duel Legends | 369734 | [369734-duel-legends.json](./369734-duel-legends.json) |
 | Duel Masters 2 - Kirifuda Shoubu Ver. | 49583 | [49583-duel-masters-2-kirifuda-shoubu-ver.json](./49583-duel-masters-2-kirifuda-shoubu-ver.json) |
