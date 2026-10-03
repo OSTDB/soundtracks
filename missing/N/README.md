@@ -2436,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare's Revenge | 322006 | [322006-nightmares-revenge.json](./322006-nightmares-revenge.json) |
 | NightmareBullet | 105364 | [105364-nightmarebullet.json](./105364-nightmarebullet.json) |
 | Nightmarena | 372547 | [372547-nightmarena.json](./372547-nightmarena.json) |
+| Nightmares and Other True Stories | 229725 | [229725-nightmares-and-other-true-stories.json](./229725-nightmares-and-other-true-stories.json) |
 | Nightmares from the Deep 3: Davy Jones | 17140 | [17140-nightmares-from-the-deep-3-davy-jones.json](./17140-nightmares-from-the-deep-3-davy-jones.json) |
 | Nightmares from the Deep Collection | 53419 | [53419-nightmares-from-the-deep-collection.json](./53419-nightmares-from-the-deep-collection.json) |
 | Nightmares from the Deep: The Cursed Heart - Collector's Edition | 88494 | [88494-nightmares-from-the-deep-the-cursed-heart-collectors-edition.json](./88494-nightmares-from-the-deep-the-cursed-heart-collectors-edition.json) |
