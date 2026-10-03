@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wani Wani Attack | 210896 | [210896-wani-wani-attack.json](./210896-wani-wani-attack.json) |
 | Waning Crescent | 381214 | [381214-waning-crescent.json](./381214-waning-crescent.json) |
 | Waning Flowers of a World Eternal: The Rainbow Appears After Flowering Rain | 339324 | [339324-waning-flowers-of-a-world-eternal-the-rainbow-appears-after-flowering-rain.json](./339324-waning-flowers-of-a-world-eternal-the-rainbow-appears-after-flowering-rain.json) |
+| Waning Moon Z | 258118 | [258118-waning-moon-z.json](./258118-waning-moon-z.json) |
 | Wanisan Shooting Game | 296013 | [296013-wanisan-shooting-game.json](./296013-wanisan-shooting-game.json) |
 | Wanking Simulator | 122993 | [122993-wanking-simulator.json](./122993-wanking-simulator.json) |
 | Wanko to Asobou! Mezase Dog Trainer! | 285664 | [285664-wanko-to-asobou-mezase-dog-trainer.json](./285664-wanko-to-asobou-mezase-dog-trainer.json) |
@@ -2430,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiteverse: No Country for Old Men | 121690 | [121690-whiteverse-no-country-for-old-men.json](./121690-whiteverse-no-country-for-old-men.json) |
 | WhiteWash | 370774 | [370774-whitewash.json](./370774-whitewash.json) |
 | Whitewater Rapids | 205838 | [205838-whitewater-rapids.json](./205838-whitewater-rapids.json) |
+| Whittingham Asylum: The Investigation | 258114 | [258114-whittingham-asylum-the-investigation.json](./258114-whittingham-asylum-the-investigation.json) |
 | Whiz Kid | 292783 | [292783-whiz-kid.json](./292783-whiz-kid.json) |
 | Whiz Racer | 180031 | [180031-whiz-racer.json](./180031-whiz-racer.json) |
 | Whizz | 12825 | [12825-whizz.json](./12825-whizz.json) |
