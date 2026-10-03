@@ -7999,6 +7999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atmos | 398400 | [398400-atmos.json](./398400-atmos.json) |
 | Atmosfear: The Third Dimension | 324940 | [324940-atmosfear-the-third-dimension.json](./324940-atmosfear-the-third-dimension.json) |
 | Atmosfear: The Third Dimension | 73340 | [73340-atmosfear-the-third-dimension.json](./73340-atmosfear-the-third-dimension.json) |
+| Atmospheric Extinction | 259745 | [259745-atmospheric-extinction.json](./259745-atmospheric-extinction.json) |
 | Atmosphir | 70682 | [70682-atmosphir.json](./70682-atmosphir.json) |
 | ATNRPG | 387687 | [387687-atnrpg.json](./387687-atnrpg.json) |
 | Atoll: The Last Ghost | 186644 | [186644-atoll-the-last-ghost.json](./186644-atoll-the-last-ghost.json) |
