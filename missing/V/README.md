@@ -876,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vestenelon | 332625 | [332625-vestenelon.json](./332625-vestenelon.json) |
 | Vestige | 186753 | [186753-vestige.json](./186753-vestige.json) |
 | Vestige | 392262 | [392262-vestige.json](./392262-vestige.json) |
+| Vestiges: Fallen Tribes | 273566 | [273566-vestiges-fallen-tribes.json](./273566-vestiges-fallen-tribes.json) |
 | Vestigia: Joust | 364706 | [364706-vestigia-joust.json](./364706-vestigia-joust.json) |
 | Vestria Story | 193940 | [193940-vestria-story.json](./193940-vestria-story.json) |
 | Vestron | 93018 | [93018-vestron.json](./93018-vestron.json) |
@@ -1359,7 +1360,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Reality Vol. 2 | 100128 | [100128-virtual-reality-vol-2.json](./100128-virtual-reality-vol-2.json) |
 | Virtual Rehab Art 4 Health | 172181 | [172181-virtual-rehab-art-4-health.json](./172181-virtual-rehab-art-4-health.json) |
 | Virtual Resort: Spring Break | 205978 | [205978-virtual-resort-spring-break.json](./205978-virtual-resort-spring-break.json) |
+| Virtual Rides 3: Astronaut | 273583 | [273583-virtual-rides-3-astronaut.json](./273583-virtual-rides-3-astronaut.json) |
+| Virtual Rides 3: Bounce Machine | 273580 | [273580-virtual-rides-3-bounce-machine.json](./273580-virtual-rides-3-bounce-machine.json) |
+| Virtual Rides 3: Flipping Disc | 273582 | [273582-virtual-rides-3-flipping-disc.json](./273582-virtual-rides-3-flipping-disc.json) |
+| Virtual Rides 3: Forge | 273585 | [273585-virtual-rides-3-forge.json](./273585-virtual-rides-3-forge.json) |
 | Virtual Rides 3: Northstar | 273396 | [273396-virtual-rides-3-northstar.json](./273396-virtual-rides-3-northstar.json) |
+| Virtual Rides 3: Roundtrip | 273579 | [273579-virtual-rides-3-roundtrip.json](./273579-virtual-rides-3-roundtrip.json) |
+| Virtual Rides 3: Salsa | 273584 | [273584-virtual-rides-3-salsa.json](./273584-virtual-rides-3-salsa.json) |
+| Virtual Rides 3: The Falcon | 273581 | [273581-virtual-rides-3-the-falcon.json](./273581-virtual-rides-3-the-falcon.json) |
+| Virtual Rides 3: Ultimate Edition | 273586 | [273586-virtual-rides-3-ultimate-edition.json](./273586-virtual-rides-3-ultimate-edition.json) |
 | Virtual Robots: Robot Programming Simulator | 74518 | [74518-virtual-robots-robot-programming-simulator.json](./74518-virtual-robots-robot-programming-simulator.json) |
 | Virtual Rogue | 33375 | [33375-virtual-rogue.json](./33375-virtual-rogue.json) |
 | Virtual Sailor NG | 220717 | [220717-virtual-sailor-ng.json](./220717-virtual-sailor-ng.json) |
