@@ -871,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gantz: The Game | 78046 | [78046-gantz-the-game.json](./78046-gantz-the-game.json) |
 | Ganz Schön Clever | 105957 | [105957-ganz-schon-clever.json](./105957-ganz-schon-clever.json) |
 | Gao Gao! 1st: Radical Sequence | 230229 | [230229-gao-gao-1st-radical-sequence.json](./230229-gao-gao-1st-radical-sequence.json) |
+| Gaop | 233657 | [233657-gaop.json](./233657-gaop.json) |
 | Gaplus Phalanx | 243830 | [243830-gaplus-phalanx.json](./243830-gaplus-phalanx.json) |
 | Gapper | 57674 | [57674-gapper.json](./57674-gapper.json) |
 | Gappy's Adventure: Coinkeeper's Cantrip | 389129 | [389129-gappys-adventure-coinkeepers-cantrip.json](./389129-gappys-adventure-coinkeepers-cantrip.json) |
@@ -1401,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | General's Son | 48579 | [48579-generals-son.json](./48579-generals-son.json) |
 | Generality | 205068 | [205068-generality.json](./205068-generality.json) |
 | GeneRally | 19280 | [19280-generally.json](./19280-generally.json) |
+| GeneRally 2 | 233559 | [233559-generally-2.json](./233559-generally-2.json) |
 | Generals | 141672 | [141672-generals.json](./141672-generals.json) |
 | Generals & Rulers | 118117 | [118117-generals-and-rulers.json](./118117-generals-and-rulers.json) |
 | Generation Exile | 305182 | [305182-generation-exile.json](./305182-generation-exile.json) |
@@ -3863,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy: Relink - Emote Expansion Set: I Work Out | 305779 | [305779-granblue-fantasy-relink-emote-expansion-set-i-work-out.json](./305779-granblue-fantasy-relink-emote-expansion-set-i-work-out.json) |
 | Granblue Fantasy: Versus | 113378 | [113378-granblue-fantasy-versus.json](./113378-granblue-fantasy-versus.json) |
 | Granblue Fantasy: Versus - Lobby Avatar (Gold Ship) | 332665 | [332665-granblue-fantasy-versus-lobby-avatar-gold-ship.json](./332665-granblue-fantasy-versus-lobby-avatar-gold-ship.json) |
+| Granblue Fantasy: Versus - Seox | 233643 | [233643-granblue-fantasy-versus-seox.json](./233643-granblue-fantasy-versus-seox.json) |
 | Grand Academy for Future Villains | 67914 | [67914-grand-academy-for-future-villains.json](./67914-grand-academy-for-future-villains.json) |
 | Grand Ages: Rome | 8395 | [8395-grand-ages-rome.json](./8395-grand-ages-rome.json) |
 | Grand Attrition | 173044 | [173044-grand-attrition.json](./173044-grand-attrition.json) |
@@ -3956,6 +3959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto Online: The Diamond Casino & Resort | 239055 | [239055-grand-theft-auto-online-the-diamond-casino-and-resort.json](./239055-grand-theft-auto-online-the-diamond-casino-and-resort.json) |
 | Grand Theft Auto Online: The Diamond Casino Heist | 398950 | [398950-grand-theft-auto-online-the-diamond-casino-heist.json](./398950-grand-theft-auto-online-the-diamond-casino-heist.json) |
 | Grand Theft Auto PS Vita Collection | 99753 | [99753-grand-theft-auto-ps-vita-collection.json](./99753-grand-theft-auto-ps-vita-collection.json) |
+| Grand Theft Auto Re: Liberty City Stories | 233662 | [233662-grand-theft-auto-re-liberty-city-stories.json](./233662-grand-theft-auto-re-liberty-city-stories.json) |
 | Grand Theft Auto Tightened Thrice | 329629 | [329629-grand-theft-auto-tightened-thrice.json](./329629-grand-theft-auto-tightened-thrice.json) |
 | Grand Theft Auto Tightened Vice | 329628 | [329628-grand-theft-auto-tightened-vice.json](./329628-grand-theft-auto-tightened-vice.json) |
 | Grand Theft Auto V | 134709 | [134709-grand-theft-auto-v.json](./134709-grand-theft-auto-v.json) |
@@ -5317,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Down the Gungan | 334945 | [334945-gun-down-the-gungan.json](./334945-gun-down-the-gungan.json) |
 | Gun Duel | 164987 | [164987-gun-duel.json](./164987-gun-duel.json) |
 | Gun Factory Simulator | 326421 | [326421-gun-factory-simulator.json](./326421-gun-factory-simulator.json) |
+| Gun Fever | 233551 | [233551-gun-fever.json](./233551-gun-fever.json) |
 | Gun Fighting | 279008 | [279008-gun-fighting.json](./279008-gun-fighting.json) |
 | Gun Fire: AI Rebellion | 328523 | [328523-gun-fire-ai-rebellion.json](./328523-gun-fire-ai-rebellion.json) |
 | Gun Force II | 10450 | [10450-gun-force-ii.json](./10450-gun-force-ii.json) |
