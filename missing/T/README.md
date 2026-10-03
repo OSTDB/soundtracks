@@ -772,6 +772,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman: Digital Edition - 40th Anniversary Edition | 270312 | [270312-talisman-digital-edition-40th-anniversary-edition.json](./270312-talisman-digital-edition-40th-anniversary-edition.json) |
 | Talisman: Digital Edition - Apprentice Mage | 149053 | [149053-talisman-digital-edition-apprentice-mage.json](./149053-talisman-digital-edition-apprentice-mage.json) |
 | Talisman: Digital Edition - Black Witch | 149069 | [149069-talisman-digital-edition-black-witch.json](./149069-talisman-digital-edition-black-witch.json) |
+| Talisman: Digital Edition - Character Pack 1 | 238008 | [238008-talisman-digital-edition-character-pack-1.json](./238008-talisman-digital-edition-character-pack-1.json) |
+| Talisman: Digital Edition - Character Pack 2 | 238007 | [238007-talisman-digital-edition-character-pack-2.json](./238007-talisman-digital-edition-character-pack-2.json) |
+| Talisman: Digital Edition - Character Pack 3 | 238001 | [238001-talisman-digital-edition-character-pack-3.json](./238001-talisman-digital-edition-character-pack-3.json) |
+| Talisman: Digital Edition - Character Pack 4 | 238002 | [238002-talisman-digital-edition-character-pack-4.json](./238002-talisman-digital-edition-character-pack-4.json) |
+| Talisman: Digital Edition - Character Pack 5 | 238003 | [238003-talisman-digital-edition-character-pack-5.json](./238003-talisman-digital-edition-character-pack-5.json) |
+| Talisman: Digital Edition - Character Pack 6 | 238004 | [238004-talisman-digital-edition-character-pack-6.json](./238004-talisman-digital-edition-character-pack-6.json) |
+| Talisman: Digital Edition - Character Pack 7 | 238005 | [238005-talisman-digital-edition-character-pack-7.json](./238005-talisman-digital-edition-character-pack-7.json) |
+| Talisman: Digital Edition - Character Pack 8 | 238006 | [238006-talisman-digital-edition-character-pack-8.json](./238006-talisman-digital-edition-character-pack-8.json) |
 | Talisman: Digital Edition - Courtesan | 149065 | [149065-talisman-digital-edition-courtesan.json](./149065-talisman-digital-edition-courtesan.json) |
 | Talisman: Digital Edition - Deluxe Edition | 233015 | [233015-talisman-digital-edition-deluxe-edition.json](./233015-talisman-digital-edition-deluxe-edition.json) |
 | Talisman: Digital Edition - Devil's Minion | 149067 | [149067-talisman-digital-edition-devils-minion.json](./149067-talisman-digital-edition-devils-minion.json) |
@@ -1558,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TDS: War Games | 203541 | [203541-tds-war-games.json](./203541-tds-war-games.json) |
 | Te to Te Try on! | 402460 | [402460-te-to-te-try-on.json](./402460-te-to-te-try-on.json) |
 | Tea for Sana | 310036 | [310036-tea-for-sana.json](./310036-tea-for-sana.json) |
+| Tea for the King | 238103 | [238103-tea-for-the-king.json](./238103-tea-for-the-king.json) |
 | Tea Society of a Witch | 72664 | [72664-tea-society-of-a-witch.json](./72664-tea-society-of-a-witch.json) |
 | Tea Time | 359406 | [359406-tea-time.json](./359406-tea-time.json) |
 | Tea Time | 58894 | [58894-tea-time.json](./58894-tea-time.json) |
@@ -2203,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis World Tour: Caroline Garcia | 169939 | [169939-tennis-world-tour-caroline-garcia.json](./169939-tennis-world-tour-caroline-garcia.json) |
 | Tennis World Tour: Coach Sophie Walker | 238060 | [238060-tennis-world-tour-coach-sophie-walker.json](./238060-tennis-world-tour-coach-sophie-walker.json) |
 | Tennis World Tour: Denis Shapovalov | 238059 | [238059-tennis-world-tour-denis-shapovalov.json](./238059-tennis-world-tour-denis-shapovalov.json) |
+| Tennis World Tour: John McEnroe | 238021 | [238021-tennis-world-tour-john-mcenroe.json](./238021-tennis-world-tour-john-mcenroe.json) |
 | Tennis World Tour: Kristina Mladenovic | 169941 | [169941-tennis-world-tour-kristina-mladenovic.json](./169941-tennis-world-tour-kristina-mladenovic.json) |
 | Tennis World Tour: Legends Bonus Pack | 169942 | [169942-tennis-world-tour-legends-bonus-pack.json](./169942-tennis-world-tour-legends-bonus-pack.json) |
 | Tennis World Tour: Rafael Nadal | 169938 | [169938-tennis-world-tour-rafael-nadal.json](./169938-tennis-world-tour-rafael-nadal.json) |
@@ -6618,6 +6628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legends of Oz: One Hundred Years of Oz | 269668 | [269668-the-legends-of-oz-one-hundred-years-of-oz.json](./269668-the-legends-of-oz-one-hundred-years-of-oz.json) |
 | The Legions of Rome | 31353 | [31353-the-legions-of-rome.json](./31353-the-legions-of-rome.json) |
 | The LEGO Movie 2 Videogame | 112674 | [112674-the-lego-movie-2-videogame.json](./112674-the-lego-movie-2-videogame.json) |
+| The LEGO Movie 2 Videogame: Galactic Adventures Character & Level Pack | 238013 | [238013-the-lego-movie-2-videogame-galactic-adventures-character-and-level-pack.json](./238013-the-lego-movie-2-videogame-galactic-adventures-character-and-level-pack.json) |
 | The LEGO Movie 2 Videogame: Minifigure Edition | 139954 | [139954-the-lego-movie-2-videogame-minifigure-edition.json](./139954-the-lego-movie-2-videogame-minifigure-edition.json) |
 | The LEGO Movie 2 Videogame: Prophecy Pack | 375277 | [375277-the-lego-movie-2-videogame-prophecy-pack.json](./375277-the-lego-movie-2-videogame-prophecy-pack.json) |
 | The LEGO Movie Video Game | 329774 | [329774-the-lego-movie-video-game.json](./329774-the-lego-movie-video-game.json) |
@@ -12533,6 +12544,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToHeart2: AnotherDays | 242474 | [242474-toheart2-anotherdays.json](./242474-toheart2-anotherdays.json) |
 | Tohoku Daigaku Karei Igaku Kenkyuusho: Kawashima Ryuuta Kyouju Kanshuu - Mono Sugoku Nou wo Kitaeru 5-Funkan no Oni Training | 136956 | [136956-tohoku-daigaku-karei-igaku-kenkyuusho-kawashima-ryuuta-kyouju-kanshuu-mono-sugoku-nou-wo-kitaeru-5-funkan-no-oni-training.json](./136956-tohoku-daigaku-karei-igaku-kenkyuusho-kawashima-ryuuta-kyouju-kanshuu-mono-sugoku-nou-wo-kitaeru-5-funkan-no-oni-training.json) |
 | Tohotopia | 391609 | [391609-tohotopia.json](./391609-tohotopia.json) |
+| Tohou Sky Arena: Matsuri Climax - Playable Character: Toyosatomimi no Miko | 238033 | [238033-tohou-sky-arena-matsuri-climax-playable-character-toyosatomimi-no-miko.json](./238033-tohou-sky-arena-matsuri-climax-playable-character-toyosatomimi-no-miko.json) |
+| Tohou Sky Arena: Matsuri Climax - Playable Character: Yukari Yakumo | 238032 | [238032-tohou-sky-arena-matsuri-climax-playable-character-yukari-yakumo.json](./238032-tohou-sky-arena-matsuri-climax-playable-character-yukari-yakumo.json) |
+| Tohou Sky Arena: Matsuri Climax - Playable Character: Yuyuko Saigyouji | 238034 | [238034-tohou-sky-arena-matsuri-climax-playable-character-yuyuko-saigyouji.json](./238034-tohou-sky-arena-matsuri-climax-playable-character-yuyuko-saigyouji.json) |
 | Tohu | 118044 | [118044-tohu.json](./118044-tohu.json) |
 | Tohu-Teka | 120159 | [120159-tohu-teka.json](./120159-tohu-teka.json) |
 | Toi Acid Game | 47525 | [47525-toi-acid-game.json](./47525-toi-acid-game.json) |
