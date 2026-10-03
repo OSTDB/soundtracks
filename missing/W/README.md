@@ -2621,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiki Hunt | 86062 | [86062-wiki-hunt.json](./86062-wiki-hunt.json) |
 | Wiki's Wild Ride | 261759 | [261759-wikis-wild-ride.json](./261759-wikis-wild-ride.json) |
 | WikiAsteroids | 386928 | [386928-wikiasteroids.json](./386928-wikiasteroids.json) |
+| WikiParty.org | 233584 | [233584-wikiparty-org.json](./233584-wikiparty-org.json) |
 | Wikipedia Gacha | 394176 | [394176-wikipedia-gacha.json](./394176-wikipedia-gacha.json) |
 | Wiktor TD | 178426 | [178426-wiktor-td.json](./178426-wiktor-td.json) |
 | Wilbur Scoville’s 151st Birthday | 375817 | [375817-wilbur-scoville-s-151st-birthday.json](./375817-wilbur-scoville-s-151st-birthday.json) |
@@ -2877,6 +2878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willy the Worm | 69897 | [69897-willy-the-worm.json](./69897-willy-the-worm.json) |
 | Willy Wabbit & His Magical Books | 287320 | [287320-willy-wabbit-and-his-magical-books.json](./287320-willy-wabbit-and-his-magical-books.json) |
 | Willy's Adventure | 375458 | [375458-willys-adventure.json](./375458-willys-adventure.json) |
+| Willy's Horrorland | 233565 | [233565-willys-horrorland.json](./233565-willys-horrorland.json) |
 | Willy's Wonderland: The Game | 287697 | [287697-willys-wonderland-the-game.json](./287697-willys-wonderland-the-game.json) |
 | Wilmot Works It Out | 314431 | [314431-wilmot-works-it-out.json](./314431-wilmot-works-it-out.json) |
 | Wilmot's Warehouse | 77494 | [77494-wilmots-warehouse.json](./77494-wilmots-warehouse.json) |
@@ -3175,6 +3177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winx Club: Winx Fairy School | 96728 | [96728-winx-club-winx-fairy-school.json](./96728-winx-club-winx-fairy-school.json) |
 | Winx Sirenix Power | 63387 | [63387-winx-sirenix-power.json](./63387-winx-sirenix-power.json) |
 | Winzer | 77383 | [77383-winzer.json](./77383-winzer.json) |
+| Wipe Factor | 233558 | [233558-wipe-factor.json](./233558-wipe-factor.json) |
 | Wipe Out | 18160 | [18160-wipe-out.json](./18160-wipe-out.json) |
 | Wipe Out VR | 81248 | [81248-wipe-out-vr.json](./81248-wipe-out-vr.json) |
 | Wipeout | 1083 | [1083-wipeout.json](./1083-wipeout.json) |
