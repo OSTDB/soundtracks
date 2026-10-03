@@ -1064,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry | 247031 | [247031-harry.json](./247031-harry.json) |
 | Harry Buster | 218539 | [218539-harry-buster.json](./218539-harry-buster.json) |
 | Harry Obby | 284409 | [284409-harry-obby.json](./284409-harry-obby.json) |
+| Harry Potter | 248180 | [248180-harry-potter.json](./248180-harry-potter.json) |
 | Harry Potter and the Chamber of Secrets: Spellcaster Knowledge | 266192 | [266192-harry-potter-and-the-chamber-of-secrets-spellcaster-knowledge.json](./266192-harry-potter-and-the-chamber-of-secrets-spellcaster-knowledge.json) |
 | Harry Potter and the Chamber of Secrets: The Chamber Challenge | 266191 | [266191-harry-potter-and-the-chamber-of-secrets-the-chamber-challenge.json](./266191-harry-potter-and-the-chamber-of-secrets-the-chamber-challenge.json) |
 | Harry Potter and the Deathly Hallows: Part 1 | 4904 | [4904-harry-potter-and-the-deathly-hallows-part-1.json](./4904-harry-potter-and-the-deathly-hallows-part-1.json) |
@@ -3926,7 +3927,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Matsuri: Ch.8 Minagoroshi-hen | 262694 | [262694-higurashi-no-naku-koro-ni-matsuri-ch-8-minagoroshi-hen.json](./262694-higurashi-no-naku-koro-ni-matsuri-ch-8-minagoroshi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Final Chapter - Miotsukushi-hen | 262697 | [262697-higurashi-no-naku-koro-ni-matsuri-final-chapter-miotsukushi-hen.json](./262697-higurashi-no-naku-koro-ni-matsuri-final-chapter-miotsukushi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Kakera Asobi | 262698 | [262698-higurashi-no-naku-koro-ni-matsuri-kakera-asobi.json](./262698-higurashi-no-naku-koro-ni-matsuri-kakera-asobi.json) |
+| Higurashi no Naku Koro ni Rei | 248201 | [248201-higurashi-no-naku-koro-ni-rei.json](./248201-higurashi-no-naku-koro-ni-rei.json) |
 | Higurashi no Naku Koro ni Sui | 60788 | [60788-higurashi-no-naku-koro-ni-sui.json](./60788-higurashi-no-naku-koro-ni-sui.json) |
+| Higurashi no Naku Koro ni: Ch.1 Onikakushi-hen | 248182 | [248182-higurashi-no-naku-koro-ni-ch-1-onikakushi-hen.json](./248182-higurashi-no-naku-koro-ni-ch-1-onikakushi-hen.json) |
+| Higurashi no Naku Koro ni: Ch.2 Watanagashi-hen | 248185 | [248185-higurashi-no-naku-koro-ni-ch-2-watanagashi-hen.json](./248185-higurashi-no-naku-koro-ni-ch-2-watanagashi-hen.json) |
+| Higurashi no Naku Koro ni: Ch.3 Tatarigoroshi-hen | 248193 | [248193-higurashi-no-naku-koro-ni-ch-3-tatarigoroshi-hen.json](./248193-higurashi-no-naku-koro-ni-ch-3-tatarigoroshi-hen.json) |
+| Higurashi no Naku Koro ni: Ch.4 Himatsubushi-hen | 248194 | [248194-higurashi-no-naku-koro-ni-ch-4-himatsubushi-hen.json](./248194-higurashi-no-naku-koro-ni-ch-4-himatsubushi-hen.json) |
+| Higurashi no Naku Koro ni: Ch.5 Meakashi-hen | 248195 | [248195-higurashi-no-naku-koro-ni-ch-5-meakashi-hen.json](./248195-higurashi-no-naku-koro-ni-ch-5-meakashi-hen.json) |
+| Higurashi no Naku Koro ni: Ch.6 Tsumihoroboshi-hen | 248196 | [248196-higurashi-no-naku-koro-ni-ch-6-tsumihoroboshi-hen.json](./248196-higurashi-no-naku-koro-ni-ch-6-tsumihoroboshi-hen.json) |
+| Higurashi no Naku Koro ni: Ch.7 Minagoroshi-hen | 248197 | [248197-higurashi-no-naku-koro-ni-ch-7-minagoroshi-hen.json](./248197-higurashi-no-naku-koro-ni-ch-7-minagoroshi-hen.json) |
+| Higurashi no Naku Koro ni: Ch.8 Matsuribayashi-hen | 248198 | [248198-higurashi-no-naku-koro-ni-ch-8-matsuribayashi-hen.json](./248198-higurashi-no-naku-koro-ni-ch-8-matsuribayashi-hen.json) |
 | Higurashi no Naku Koro ni: Himatsubushi-hen | 263696 | [263696-higurashi-no-naku-koro-ni-himatsubushi-hen.json](./263696-higurashi-no-naku-koro-ni-himatsubushi-hen.json) |
 | Higurashi no Naku Koro ni: Kuradashi-hen | 321476 | [321476-higurashi-no-naku-koro-ni-kuradashi-hen.json](./321476-higurashi-no-naku-koro-ni-kuradashi-hen.json) |
 | Higurashi no Naku Koro ni: Meakashi-hen | 263698 | [263698-higurashi-no-naku-koro-ni-meakashi-hen.json](./263698-higurashi-no-naku-koro-ni-meakashi-hen.json) |
@@ -4688,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeless | 277287 | [277287-homeless.json](./277287-homeless.json) |
 | Homeless | 312726 | [312726-homeless.json](./312726-homeless.json) |
 | Homeless Guy | 258733 | [258733-homeless-guy.json](./258733-homeless-guy.json) |
+| Homeless Life | 248162 | [248162-homeless-life.json](./248162-homeless-life.json) |
 | Homeless Pigeon | 177321 | [177321-homeless-pigeon.json](./177321-homeless-pigeon.json) |
 | Homeless Simulator 2 | 118416 | [118416-homeless-simulator-2.json](./118416-homeless-simulator-2.json) |
 | Homelessvania | 362999 | [362999-homelessvania.json](./362999-homelessvania.json) |
