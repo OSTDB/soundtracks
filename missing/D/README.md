@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dagat-i Kal Kal Kal | 63262 | [63262-dagat-i-kal-kal-kal.json](./63262-dagat-i-kal-kal-kal.json) |
 | Dagdrom | 183468 | [183468-dagdrom.json](./183468-dagdrom.json) |
 | Dagestan Technology Anthology | 52844 | [52844-dagestan-technology-anthology.json](./52844-dagestan-technology-anthology.json) |
+| Dagger Directive | 264207 | [264207-dagger-directive.json](./264207-dagger-directive.json) |
 | Dagger of heroes | 211664 | [211664-dagger-of-heroes.json](./211664-dagger-of-heroes.json) |
 | Dagger Run: Aerocombatic Racing | 276254 | [276254-dagger-run-aerocombatic-racing.json](./276254-dagger-run-aerocombatic-racing.json) |
 | Dagger Woods VR | 333016 | [333016-dagger-woods-vr.json](./333016-dagger-woods-vr.json) |
@@ -410,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance! Dance! Dance! | 339794 | [339794-dance-dance-dance.json](./339794-dance-dance-dance.json) |
 | Dance! It's Your Stage | 209000 | [209000-dance-its-your-stage.json](./209000-dance-its-your-stage.json) |
 | DanceDanceRevolution: Classroom Edition | 208998 | [208998-dancedancerevolution-classroom-edition.json](./208998-dancedancerevolution-classroom-edition.json) |
+| DanceDouDoou | 264229 | [264229-dancedoudoou.json](./264229-dancedoudoou.json) |
 | DanceGirl: Swimwear | 368067 | [368067-dancegirl-swimwear.json](./368067-dancegirl-swimwear.json) |
 | DanceMasters | 20121 | [20121-dancemasters.json](./20121-dancemasters.json) |
 | DanceMela | 346162 | [346162-dancemela.json](./346162-dancemela.json) |
@@ -1384,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawntide | 204977 | [204977-dawntide.json](./204977-dawntide.json) |
 | Dawntown | 301341 | [301341-dawntown.json](./301341-dawntown.json) |
 | DawnWander | 158525 | [158525-dawnwander.json](./158525-dawnwander.json) |
+| Day 10,909 | 264247 | [264247-day-10-909.json](./264247-day-10-909.json) |
 | Day 11 | 263003 | [263003-day-11.json](./263003-day-11.json) |
 | Day 31 | 419946 | [419946-day-31.json](./419946-day-31.json) |
 | Day After Day | 342181 | [342181-day-after-day.json](./342181-day-after-day.json) |
@@ -3657,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy All Zombies | 247974 | [247974-destroy-all-zombies.json](./247974-destroy-all-zombies.json) |
 | Destroy Blocks | 296642 | [296642-destroy-blocks.json](./296642-destroy-blocks.json) |
 | Destroy Geometric Shapes | 172139 | [172139-destroy-geometric-shapes.json](./172139-destroy-geometric-shapes.json) |
+| Destroy Korcity | 264230 | [264230-destroy-korcity.json](./264230-destroy-korcity.json) |
 | Destroy Simulator | 188517 | [188517-destroy-simulator.json](./188517-destroy-simulator.json) |
 | Destroy the Castle | 349843 | [349843-destroy-the-castle.json](./349843-destroy-the-castle.json) |
 | Destroy the Cubes | 156133 | [156133-destroy-the-cubes.json](./156133-destroy-the-cubes.json) |
