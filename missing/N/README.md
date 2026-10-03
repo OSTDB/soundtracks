@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja: The Lost Legacy | 279851 | [279851-ninja-the-lost-legacy.json](./279851-ninja-the-lost-legacy.json) |
 | Ninja? | 113900 | [113900-ninja.json](./113900-ninja.json) |
 | Ninja's Creed | 227473 | [227473-ninjas-creed.json](./227473-ninjas-creed.json) |
+| NinjaFT | 237426 | [237426-ninjaft.json](./237426-ninjaft.json) |
 | Ninjahtic | 34887 | [34887-ninjahtic.json](./34887-ninjahtic.json) |
 | Ninjahtic Mind Tricks | 34818 | [34818-ninjahtic-mind-tricks.json](./34818-ninjahtic-mind-tricks.json) |
 | Ninjala Story Pack: Chapter Four | 247585 | [247585-ninjala-story-pack-chapter-four.json](./247585-ninjala-story-pack-chapter-four.json) |
@@ -3278,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nodrog's Fortress | 182463 | [182463-nodrogs-fortress.json](./182463-nodrogs-fortress.json) |
 | Nodwar | 378906 | [378906-nodwar.json](./378906-nodwar.json) |
 | Noel the Mortal Fate S1-7 | 102484 | [102484-noel-the-mortal-fate-s1-7.json](./102484-noel-the-mortal-fate-s1-7.json) |
+| Noel the Mortal Fate: Season 11 | 237539 | [237539-noel-the-mortal-fate-season-11.json](./237539-noel-the-mortal-fate-season-11.json) |
 | Noel the Mortal Fate: Season 12 | 243374 | [243374-noel-the-mortal-fate-season-12.json](./243374-noel-the-mortal-fate-season-12.json) |
 | Noel the Mortal Fate: Season 3.5 - Revenger's Vacation | 258205 | [258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json](./258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json) |
 | Noel the Mortal Fate: Season Final Part 2 | 259092 | [259092-noel-the-mortal-fate-season-final-part-2.json](./259092-noel-the-mortal-fate-season-final-part-2.json) |
