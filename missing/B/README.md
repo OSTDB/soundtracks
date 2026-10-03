@@ -1320,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler: Kincho-R | 338357 | [338357-barcode-battler-kincho-r.json](./338357-barcode-battler-kincho-r.json) |
 | Barcode Battler: Rarman | 338353 | [338353-barcode-battler-rarman.json](./338353-barcode-battler-rarman.json) |
 | Barcode Battler: U-Ronchan | 338354 | [338354-barcode-battler-u-ronchan.json](./338354-barcode-battler-u-ronchan.json) |
+| Barcode Kingdom | 254695 | [254695-barcode-kingdom.json](./254695-barcode-kingdom.json) |
 | Barcode Knight | 173808 | [173808-barcode-knight.json](./173808-barcode-knight.json) |
 | Barcode Taisen Bardigun | 92607 | [92607-barcode-taisen-bardigun.json](./92607-barcode-taisen-bardigun.json) |
 | Barcode warriors | 140557 | [140557-barcode-warriors.json](./140557-barcode-warriors.json) |
@@ -4832,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Vharan | 396224 | [396224-blades-of-vharan.json](./396224-blades-of-vharan.json) |
 | Blades or Bets | 380647 | [380647-blades-or-bets.json](./380647-blades-or-bets.json) |
 | Blades, Bows & Magic | 329403 | [329403-blades-bows-and-magic.json](./329403-blades-bows-and-magic.json) |
+| Bladesong | 254662 | [254662-bladesong.json](./254662-bladesong.json) |
 | Blaine Bananatree | 97458 | [97458-blaine-bananatree.json](./97458-blaine-bananatree.json) |
 | Blair Witch | 119298 | [119298-blair-witch.json](./119298-blair-witch.json) |
 | Blair Witch Volume 2: The Legend of Coffin Rock | 18490 | [18490-blair-witch-volume-2-the-legend-of-coffin-rock.json](./18490-blair-witch-volume-2-the-legend-of-coffin-rock.json) |
@@ -7806,6 +7808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks Kingdom | 321510 | [321510-bricks-kingdom.json](./321510-bricks-kingdom.json) |
 | Bricks n Balls | 89246 | [89246-bricks-n-balls.json](./89246-bricks-n-balls.json) |
 | Bricks of Atlantis | 70108 | [70108-bricks-of-atlantis.json](./70108-bricks-of-atlantis.json) |
+| Bricks of Rome | 254699 | [254699-bricks-of-rome.json](./254699-bricks-of-rome.json) |
 | Bricksbumpbump | 325830 | [325830-bricksbumpbump.json](./325830-bricksbumpbump.json) |
 | Brickscapes: Bricks Breaker | 237283 | [237283-brickscapes-bricks-breaker.json](./237283-brickscapes-bricks-breaker.json) |
 | BricksVR | 144928 | [144928-bricksvr.json](./144928-bricksvr.json) |
@@ -8153,6 +8156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutus | 178041 | [178041-brutus.json](./178041-brutus.json) |
 | Brutus | 91950 | [91950-brutus.json](./91950-brutus.json) |
 | Bruxa | 184377 | [184377-bruxa.json](./184377-bruxa.json) |
+| Bruxa | 254645 | [254645-bruxa.json](./254645-bruxa.json) |
 | Bruxa Luna | 280859 | [280859-bruxa-luna.json](./280859-bruxa-luna.json) |
 | Bruxólico | 251700 | [251700-bruxolico.json](./251700-bruxolico.json) |
 | BrVR: Backrooms Virtual Reality | 199583 | [199583-brvr-backrooms-virtual-reality.json](./199583-brvr-backrooms-virtual-reality.json) |
