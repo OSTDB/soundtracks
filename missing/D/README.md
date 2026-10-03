@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance 86.4 Funky Radio Station | 314336 | [314336-dance-86-4-funky-radio-station.json](./314336-dance-86-4-funky-radio-station.json) |
 | Dance Aerobics | 48176 | [48176-dance-aerobics.json](./48176-dance-aerobics.json) |
 | Dance Around | 210279 | [210279-dance-around.json](./210279-dance-around.json) |
+| Dance Assembly | 228504 | [228504-dance-assembly.json](./228504-dance-assembly.json) |
 | Dance Dance Revolution 2nd Mix: Dreamcast Edition | 268647 | [268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json](./268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json) |
 | Dance Dance Revolution 2ndMix | 77640 | [77640-dance-dance-revolution-2ndmix.json](./77640-dance-dance-revolution-2ndmix.json) |
 | Dance Dance Revolution 2ndReMix: Append Club Version Vol. 1 | 132807 | [132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json](./132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json) |
@@ -576,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangers Afloat | 176459 | [176459-dangers-afloat.json](./176459-dangers-afloat.json) |
 | Danghost | 216741 | [216741-danghost.json](./216741-danghost.json) |
 | Dangle | 274996 | [274996-dangle.json](./274996-dangle.json) |
+| Dango Dash | 228508 | [228508-dango-dash.json](./228508-dango-dash.json) |
 | Dango Thief | 242539 | [242539-dango-thief.json](./242539-dango-thief.json) |
 | DangoVerse | 284998 | [284998-dangoverse.json](./284998-dangoverse.json) |
 | Dangun Feveron | 40979 | [40979-dangun-feveron.json](./40979-dangun-feveron.json) |
@@ -1119,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkwatch | 5808 | [5808-darkwatch.json](./5808-darkwatch.json) |
 | Darkwater | 311201 | [311201-darkwater.json](./311201-darkwater.json) |
 | DarkwebStreamer | 278604 | [278604-darkwebstreamer.json](./278604-darkwebstreamer.json) |
+| DarkWind | 228505 | [228505-darkwind.json](./228505-darkwind.json) |
 | Darkwind: War on Wheels | 17305 | [17305-darkwind-war-on-wheels.json](./17305-darkwind-war-on-wheels.json) |
 | Darkwinds | 113152 | [113152-darkwinds.json](./113152-darkwinds.json) |
 | Darkwing Duck R | 363974 | [363974-darkwing-duck-r.json](./363974-darkwing-duck-r.json) |
@@ -3506,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Storm | 270687 | [270687-desert-storm.json](./270687-desert-storm.json) |
 | Desert Storm War FPS | 395768 | [395768-desert-storm-war-fps.json](./395768-desert-storm-war-fps.json) |
 | Desert Storm with Coalition Command | 122274 | [122274-desert-storm-with-coalition-command.json](./122274-desert-storm-with-coalition-command.json) |
+| Desert Strike: Return to the Gulf | 228494 | [228494-desert-strike-return-to-the-gulf.json](./228494-desert-strike-return-to-the-gulf.json) |
 | Desert Strike: Return to the Gulf | 6798 | [6798-desert-strike-return-to-the-gulf.json](./6798-desert-strike-return-to-the-gulf.json) |
 | Desert Things | 203954 | [203954-desert-things.json](./203954-desert-things.json) |
 | Desert Thunder | 358380 | [358380-desert-thunder.json](./358380-desert-thunder.json) |
@@ -5285,6 +5289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Tarzan: Return to the Jungle | 49339 | [49339-disneys-tarzan-return-to-the-jungle.json](./49339-disneys-tarzan-return-to-the-jungle.json) |
 | Disney's Tarzan: Untamed | 10625 | [10625-disneys-tarzan-untamed.json](./10625-disneys-tarzan-untamed.json) |
 | Disney's The Emperor's New Groove | 74426 | [74426-disneys-the-emperors-new-groove.json](./74426-disneys-the-emperors-new-groove.json) |
+| Disney's The Hunchback of Notre Dame: Topsy Turvy Games | 228495 | [228495-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json](./228495-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json) |
 | Disney's The Lion King | 198801 | [198801-disneys-the-lion-king.json](./198801-disneys-the-lion-king.json) |
 | Disney's The Lion King | 204572 | [204572-disneys-the-lion-king.json](./204572-disneys-the-lion-king.json) |
 | Disney's The Lion King 1 1/2 | 79813 | [79813-disneys-the-lion-king-1-1-2.json](./79813-disneys-the-lion-king-1-1-2.json) |
@@ -5302,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Tigger's Honey Hunt | 3613 | [3613-disneys-tiggers-honey-hunt.json](./3613-disneys-tiggers-honey-hunt.json) |
 | Disney's Timon & Pumbaa's Jungle Games | 72032 | [72032-disneys-timon-and-pumbaas-jungle-games.json](./72032-disneys-timon-and-pumbaas-jungle-games.json) |
 | Disney's Toy Story | 198945 | [198945-disneys-toy-story.json](./198945-disneys-toy-story.json) |
+| Disney's Toy Story | 228497 | [228497-disneys-toy-story.json](./228497-disneys-toy-story.json) |
 | Disney's Treasure Planet: Broadside Blast | 213035 | [213035-disneys-treasure-planet-broadside-blast.json](./213035-disneys-treasure-planet-broadside-blast.json) |
 | Disney's Treasure Planet: Etherium Rescue | 213037 | [213037-disneys-treasure-planet-etherium-rescue.json](./213037-disneys-treasure-planet-etherium-rescue.json) |
 | Disney's Treasure Planet: Treasure Racer | 213025 | [213025-disneys-treasure-planet-treasure-racer.json](./213025-disneys-treasure-planet-treasure-racer.json) |
@@ -5346,6 +5352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissidia Final Fantasy NT: Steelbook Brawler Edition | 136333 | [136333-dissidia-final-fantasy-nt-steelbook-brawler-edition.json](./136333-dissidia-final-fantasy-nt-steelbook-brawler-edition.json) |
 | Dissimilated Land | 106533 | [106533-dissimilated-land.json](./106533-dissimilated-land.json) |
 | Dissimilation | 86234 | [86234-dissimilation.json](./86234-dissimilation.json) |
+| Dissolved: Chapter One | 228479 | [228479-dissolved-chapter-one.json](./228479-dissolved-chapter-one.json) |
 | Dissolving | 118821 | [118821-dissolving.json](./118821-dissolving.json) |
 | Dissolving Disarray | 324292 | [324292-dissolving-disarray.json](./324292-dissolving-disarray.json) |
 | Distance and Mirage | 299118 | [299118-distance-and-mirage.json](./299118-distance-and-mirage.json) |
@@ -9586,6 +9593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwelp | 128547 | [128547-dwelp.json](./128547-dwelp.json) |
 | Dwoemer of the Drill Faced Goddess | 377597 | [377597-dwoemer-of-the-drill-faced-goddess.json](./377597-dwoemer-of-the-drill-faced-goddess.json) |
 | DX Legends | 334319 | [334319-dx-legends.json](./334319-dx-legends.json) |
+| DX Monopoly GB | 228501 | [228501-dx-monopoly-gb.json](./228501-dx-monopoly-gb.json) |
 | DX Nippon Tokkyuu Ryokou Game: Let's Travel in Japan | 268641 | [268641-dx-nippon-tokkyuu-ryokou-game-lets-travel-in-japan.json](./268641-dx-nippon-tokkyuu-ryokou-game-lets-travel-in-japan.json) |
 | DX-Ball | 19224 | [19224-dx-ball.json](./19224-dx-ball.json) |
 | Dyad | 242079 | [242079-dyad.json](./242079-dyad.json) |
