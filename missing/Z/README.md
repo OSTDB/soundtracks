@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z.H.P. Unlosing Ranger vs. Darkdeath Evilman | 19816 | [19816-z-h-p-unlosing-ranger-vs-darkdeath-evilman.json](./19816-z-h-p-unlosing-ranger-vs-darkdeath-evilman.json) |
 | Z.I.O.N: Deluxe Edition | 52101 | [52101-z-i-o-n-deluxe-edition.json](./52101-z-i-o-n-deluxe-edition.json) |
 | Z.O.M.B.I.E. | 163952 | [163952-z-o-m-b-i-e.json](./163952-z-o-m-b-i-e.json) |
+| Z.O.N.A | 235285 | [235285-z-o-n-a.json](./235285-z-o-n-a.json) |
 | Z.O.N.A Project X | 234584 | [234584-z-o-n-a-project-x.json](./234584-z-o-n-a-project-x.json) |
 | Z.O.N.A Project X VR | 216803 | [216803-z-o-n-a-project-x-vr.json](./216803-z-o-n-a-project-x-vr.json) |
 | Z.O.N.A: Shadow of Limansk Redux | 199903 | [199903-z-o-n-a-shadow-of-limansk-redux.json](./199903-z-o-n-a-shadow-of-limansk-redux.json) |
