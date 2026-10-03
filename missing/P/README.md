@@ -6344,14 +6344,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pools of Darkness | 12761 | [12761-pools-of-darkness.json](./12761-pools-of-darkness.json) |
 | Poolside Girls Kiss: Passion Fruits Hotel Dating Sim | 362364 | [362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json](./362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json) |
 | Poolside Vigil | 384180 | [384180-poolside-vigil.json](./384180-poolside-vigil.json) |
+| Poom: Miasma Massacre | 229757 | [229757-poom-miasma-massacre.json](./229757-poom-miasma-massacre.json) |
 | Poop | 314398 | [314398-poop.json](./314398-poop.json) |
 | Poop Clicker | 195625 | [195625-poop-clicker.json](./195625-poop-clicker.json) |
 | Poop Collector | 196169 | [196169-poop-collector.json](./196169-poop-collector.json) |
 | Poop Collector: Number 2 | 245282 | [245282-poop-collector-number-2.json](./245282-poop-collector-number-2.json) |
 | Poop Fiction | 302129 | [302129-poop-fiction.json](./302129-poop-fiction.json) |
 | Poop Killer | 222320 | [222320-poop-killer.json](./222320-poop-killer.json) |
+| Poop Killer 4 | 229831 | [229831-poop-killer-4.json](./229831-poop-killer-4.json) |
+| Poop Killer 5 | 229832 | [229832-poop-killer-5.json](./229832-poop-killer-5.json) |
 | Poop Killer 6 | 230873 | [230873-poop-killer-6.json](./230873-poop-killer-6.json) |
 | Poop Killer II | 229824 | [229824-poop-killer-ii.json](./229824-poop-killer-ii.json) |
+| Poop KIller III | 229825 | [229825-poop-killer-iii.json](./229825-poop-killer-iii.json) |
+| Poop Killer Origins | 229833 | [229833-poop-killer-origins.json](./229833-poop-killer-origins.json) |
 | Poop Killer: Flush or Die | 335997 | [335997-poop-killer-flush-or-die.json](./335997-poop-killer-flush-or-die.json) |
 | Poop on Red | 326238 | [326238-poop-on-red.json](./326238-poop-on-red.json) |
 | Poop Plague in Fairyland | 189948 | [189948-poop-plague-in-fairyland.json](./189948-poop-plague-in-fairyland.json) |
