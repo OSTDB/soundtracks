@@ -1643,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump If You Can! | 193227 | [193227-jump-if-you-can.json](./193227-jump-if-you-can.json) |
 | Jump Jack | 85863 | [85863-jump-jack.json](./85863-jump-jack.json) |
 | Jump Jeroba | 301442 | [301442-jump-jeroba.json](./301442-jump-jeroba.json) |
+| Jump Jump Cyberpunk | 242603 | [242603-jump-jump-cyberpunk.json](./242603-jump-jump-cyberpunk.json) |
 | Jump Jumpz | 111679 | [111679-jump-jumpz.json](./111679-jump-jumpz.json) |
 | Jump Kid | 217022 | [217022-jump-kid.json](./217022-jump-kid.json) |
 | Jump King Quest | 259095 | [259095-jump-king-quest.json](./259095-jump-king-quest.json) |
