@@ -1214,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4x4 EVO 2 | 5715 | [5715-4x4-evo-2.json](./5715-4x4-evo-2.json) |
 | 4x4 Jam | 42785 | [42785-4x4-jam.json](./42785-4x4-jam.json) |
 | 4x4 Mania | 139436 | [139436-4x4-mania.json](./139436-4x4-mania.json) |
+| 4x4 Mud: Offroad Car Simulator & Truck | 270330 | [270330-4x4-mud-offroad-car-simulator-and-truck.json](./270330-4x4-mud-offroad-car-simulator-and-truck.json) |
 | 4x4 Off-Road Challenge | 127168 | [127168-4x4-off-road-challenge.json](./127168-4x4-off-road-challenge.json) |
 | 4x4 Off-Road Racing | 12287 | [12287-4x4-off-road-racing.json](./12287-4x4-off-road-racing.json) |
 | 4x4 Offroad Driver | 219294 | [219294-4x4-offroad-driver.json](./219294-4x4-offroad-driver.json) |
