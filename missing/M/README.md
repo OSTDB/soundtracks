@@ -4965,6 +4965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug Revolution | 98432 | [98432-metal-slug-revolution.json](./98432-metal-slug-revolution.json) |
 | Metal Slug Rush | 409737 | [409737-metal-slug-rush.json](./409737-metal-slug-rush.json) |
 | Metal Slug SB Fanthology | 324895 | [324895-metal-slug-sb-fanthology.json](./324895-metal-slug-sb-fanthology.json) |
+| Metal Slug Triple Pack | 268630 | [268630-metal-slug-triple-pack.json](./268630-metal-slug-triple-pack.json) |
 | Metal Slug: Commander | 193975 | [193975-metal-slug-commander.json](./193975-metal-slug-commander.json) |
 | Metal Soldier Isaac II | 40353 | [40353-metal-soldier-isaac-ii.json](./40353-metal-soldier-isaac-ii.json) |
 | Metal Soldiers 3 | 206126 | [206126-metal-soldiers-3.json](./206126-metal-soldiers-3.json) |
@@ -10013,6 +10014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Daughter In Family Ai | 322996 | [322996-my-daughter-in-family-ai.json](./322996-my-daughter-in-family-ai.json) |
 | My Day Challenge | 341348 | [341348-my-day-challenge.json](./341348-my-day-challenge.json) |
 | My Dear Boss | 286570 | [286570-my-dear-boss.json](./286570-my-dear-boss.json) |
+| My Dear Brother Jeff | 268660 | [268660-my-dear-brother-jeff.json](./268660-my-dear-brother-jeff.json) |
 | My Dear Can't Speak | 350486 | [350486-my-dear-cant-speak.json](./350486-my-dear-cant-speak.json) |
 | My Dear Delirium | 341349 | [341349-my-dear-delirium.json](./341349-my-dear-delirium.json) |
 | My Dear Love | 311480 | [311480-my-dear-love.json](./311480-my-dear-love.json) |
