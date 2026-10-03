@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuugen Gaisha Chikyuu Boueitai | 166152 | [166152-yuugen-gaisha-chikyuu-boueitai.json](./166152-yuugen-gaisha-chikyuu-boueitai.json) |
 | Yuugen Mikaidou Tanteisha 1-Shou | 221260 | [221260-yuugen-mikaidou-tanteisha-1-shou.json](./221260-yuugen-mikaidou-tanteisha-1-shou.json) |
 | Yuujou no Victory Goal: 4v4 Arashi - Get the Goal‼ | 353873 | [353873-yuujou-no-victory-goal-4v4-arashi-get-the-goal.json](./353873-yuujou-no-victory-goal-4v4-arashi-get-the-goal.json) |
+| Yuuka's Mansion | 247574 | [247574-yuukas-mansion.json](./247574-yuukas-mansion.json) |
 | Yuuki no Suiri Nori | 222252 | [222252-yuuki-no-suiri-nori.json](./222252-yuuki-no-suiri-nori.json) |
 | Yuuki no Suiri Nori 3: Balance no Ii Shokuji | 251624 | [251624-yuuki-no-suiri-nori-3-balance-no-ii-shokuji.json](./251624-yuuki-no-suiri-nori-3-balance-no-ii-shokuji.json) |
 | Yuuki Yuuna ha Yuusha de Aru: Gyoki Danshou | 364577 | [364577-yuuki-yuuna-ha-yuusha-de-aru-gyoki-danshou.json](./364577-yuuki-yuuna-ha-yuusha-de-aru-gyoki-danshou.json) |
