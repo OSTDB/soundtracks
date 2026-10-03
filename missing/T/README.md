@@ -5955,6 +5955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Chocolate | 231371 | [231371-the-jumping-chocolate.json](./231371-the-jumping-chocolate.json) |
 | The Jumping Chocolate: Turbo | 231372 | [231372-the-jumping-chocolate-turbo.json](./231372-the-jumping-chocolate-turbo.json) |
 | The Jumping Cookie | 228592 | [228592-the-jumping-cookie.json](./228592-the-jumping-cookie.json) |
+| The Jumping Cookie: Turbo | 228593 | [228593-the-jumping-cookie-turbo.json](./228593-the-jumping-cookie-turbo.json) |
 | The Jumping Food Delivery | 359991 | [359991-the-jumping-food-delivery.json](./359991-the-jumping-food-delivery.json) |
 | The Jumping Food Racing | 377709 | [377709-the-jumping-food-racing.json](./377709-the-jumping-food-racing.json) |
 | The Jumping Food Racing 2 | 380407 | [380407-the-jumping-food-racing-2.json](./380407-the-jumping-food-racing-2.json) |
@@ -7103,6 +7104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maw: Brute Force | 164365 | [164365-the-maw-brute-force.json](./164365-the-maw-brute-force.json) |
 | The Maw: River Redirect | 164363 | [164363-the-maw-river-redirect.json](./164363-the-maw-river-redirect.json) |
 | The Maw: Speeder Lane | 164364 | [164364-the-maw-speeder-lane.json](./164364-the-maw-speeder-lane.json) |
+| The Mayor of Sanctuary | 228510 | [228510-the-mayor-of-sanctuary.json](./228510-the-mayor-of-sanctuary.json) |
 | The Maze | 107158 | [107158-the-maze.json](./107158-the-maze.json) |
 | The Maze | 169859 | [169859-the-maze.json](./169859-the-maze.json) |
 | The Maze | 253333 | [253333-the-maze.json](./253333-the-maze.json) |
@@ -8558,6 +8560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Lucky Palms | 14577 | [14577-the-sims-3-lucky-palms.json](./14577-the-sims-3-lucky-palms.json) |
 | The Sims 3: Lunar Lakes | 14573 | [14573-the-sims-3-lunar-lakes.json](./14573-the-sims-3-lunar-lakes.json) |
 | The Sims 3: Midnight Hollow | 14584 | [14584-the-sims-3-midnight-hollow.json](./14584-the-sims-3-midnight-hollow.json) |
+| The Sims 3: Pets | 228496 | [228496-the-sims-3-pets.json](./228496-the-sims-3-pets.json) |
 | The Sims 3: Roaring Heights | 14585 | [14585-the-sims-3-roaring-heights.json](./14585-the-sims-3-roaring-heights.json) |
 | The Sims 3: Seasons | 13114 | [13114-the-sims-3-seasons.json](./13114-the-sims-3-seasons.json) |
 | The Sims 3: Showtime | 10980 | [10980-the-sims-3-showtime.json](./10980-the-sims-3-showtime.json) |
@@ -9533,6 +9536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unlit Sun | 336737 | [336737-the-unlit-sun.json](./336737-the-unlit-sun.json) |
 | The UnMaking | 191722 | [191722-the-unmaking.json](./191722-the-unmaking.json) |
 | The Unmarked | 153353 | [153353-the-unmarked.json](./153353-the-unmarked.json) |
+| The Unofficial Squaresoft MUD | 228483 | [228483-the-unofficial-squaresoft-mud.json](./228483-the-unofficial-squaresoft-mud.json) |
 | The Unplace | 373191 | [373191-the-unplace.json](./373191-the-unplace.json) |
 | The Unrest Age | 197852 | [197852-the-unrest-age.json](./197852-the-unrest-age.json) |
 | The Unrested | 334297 | [334297-the-unrested.json](./334297-the-unrested.json) |
