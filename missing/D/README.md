@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance 86.4 Funky Radio Station | 314336 | [314336-dance-86-4-funky-radio-station.json](./314336-dance-86-4-funky-radio-station.json) |
 | Dance Aerobics | 48176 | [48176-dance-aerobics.json](./48176-dance-aerobics.json) |
 | Dance Around | 210279 | [210279-dance-around.json](./210279-dance-around.json) |
+| Dance Dance Revolution 2nd Mix: Dreamcast Edition | 268647 | [268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json](./268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json) |
 | Dance Dance Revolution 2ndMix | 77640 | [77640-dance-dance-revolution-2ndmix.json](./77640-dance-dance-revolution-2ndmix.json) |
 | Dance Dance Revolution 2ndReMix: Append Club Version Vol. 1 | 132807 | [132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json](./132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json) |
 | Dance Dance Revolution Best Hits | 132809 | [132809-dance-dance-revolution-best-hits.json](./132809-dance-dance-revolution-best-hits.json) |
@@ -811,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Mist - The Wizard Vanishes | 141213 | [141213-dark-mist-the-wizard-vanishes.json](./141213-dark-mist-the-wizard-vanishes.json) |
 | Dark Moon Deities | 339366 | [339366-dark-moon-deities.json](./339366-dark-moon-deities.json) |
 | Dark Moon Motel | 219650 | [219650-dark-moon-motel.json](./219650-dark-moon-motel.json) |
+| Dark Mountain II | 268626 | [268626-dark-mountain-ii.json](./268626-dark-mountain-ii.json) |
 | Dark Mystery | 44252 | [44252-dark-mystery.json](./44252-dark-mystery.json) |
 | Dark Mystery Bundle | 397884 | [397884-dark-mystery-bundle.json](./397884-dark-mystery-bundle.json) |
 | Dark Mystery: Remastered | 233611 | [233611-dark-mystery-remastered.json](./233611-dark-mystery-remastered.json) |
@@ -4827,6 +4829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Crisis | 166749 | [166749-disaster-crisis.json](./166749-disaster-crisis.json) |
 | Disaster Dash | 238399 | [238399-disaster-dash.json](./238399-disaster-dash.json) |
 | Disaster Plan Z | 301257 | [301257-disaster-plan-z.json](./301257-disaster-plan-z.json) |
+| Disaster Quest Tree | 268672 | [268672-disaster-quest-tree.json](./268672-disaster-quest-tree.json) |
 | Disaster Town Tycoon | 294731 | [294731-disaster-town-tycoon.json](./294731-disaster-town-tycoon.json) |
 | Disaster: Day of Crisis | 4805 | [4805-disaster-day-of-crisis.json](./4805-disaster-day-of-crisis.json) |
 | DisasterPR+ | 392484 | [392484-disasterpr.json](./392484-disasterpr.json) |
@@ -7481,6 +7484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Dogma Online: Season 2 - Limited Edition | 201048 | [201048-dragons-dogma-online-season-2-limited-edition.json](./201048-dragons-dogma-online-season-2-limited-edition.json) |
 | Dragon's Dogma Quest | 63310 | [63310-dragons-dogma-quest.json](./63310-dragons-dogma-quest.json) |
 | Dragon's Dogma: Dark Arisen | 16300 | [16300-dragons-dogma-dark-arisen.json](./16300-dragons-dogma-dark-arisen.json) |
+| Dragon's Dream | 268638 | [268638-dragons-dream.json](./268638-dragons-dream.json) |
 | Dragon's Dungeon | 321486 | [321486-dragons-dungeon.json](./321486-dragons-dungeon.json) |
 | Dragon's Fury | 45586 | [45586-dragons-fury.json](./45586-dragons-fury.json) |
 | Dragon's Gold | 13609 | [13609-dragons-gold.json](./13609-dragons-gold.json) |
@@ -8371,6 +8375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Druid | 13613 | [13613-druid.json](./13613-druid.json) |
 | Druid | 305921 | [305921-druid.json](./305921-druid.json) |
 | Druid: Daemons of the Mind | 2506 | [2506-druid-daemons-of-the-mind.json](./2506-druid-daemons-of-the-mind.json) |
+| Druid: Yamie no Tsuisekisha | 268642 | [268642-druid-yamie-no-tsuisekisha.json](./268642-druid-yamie-no-tsuisekisha.json) |
 | Druid's Tale: Crystal Cave | 61653 | [61653-druids-tale-crystal-cave.json](./61653-druids-tale-crystal-cave.json) |
 | Drum Box | 187360 | [187360-drum-box.json](./187360-drum-box.json) |
 | Drum Girl | 232140 | [232140-drum-girl.json](./232140-drum-girl.json) |
@@ -9355,6 +9360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwelp | 128547 | [128547-dwelp.json](./128547-dwelp.json) |
 | Dwoemer of the Drill Faced Goddess | 377597 | [377597-dwoemer-of-the-drill-faced-goddess.json](./377597-dwoemer-of-the-drill-faced-goddess.json) |
 | DX Legends | 334319 | [334319-dx-legends.json](./334319-dx-legends.json) |
+| DX Nippon Tokkyuu Ryokou Game: Let's Travel in Japan | 268641 | [268641-dx-nippon-tokkyuu-ryokou-game-lets-travel-in-japan.json](./268641-dx-nippon-tokkyuu-ryokou-game-lets-travel-in-japan.json) |
 | DX-Ball | 19224 | [19224-dx-ball.json](./19224-dx-ball.json) |
 | Dyad | 242079 | [242079-dyad.json](./242079-dyad.json) |
 | Dye | 27288 | [27288-dye.json](./27288-dye.json) |
