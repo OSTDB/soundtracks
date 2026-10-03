@@ -1987,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feral Blue | 99078 | [99078-feral-blue.json](./99078-feral-blue.json) |
 | Feral Boyfriend | 268659 | [268659-feral-boyfriend.json](./268659-feral-boyfriend.json) |
 | Feral Echoes | 351689 | [351689-feral-echoes.json](./351689-feral-echoes.json) |
+| FeralHeart Unleashed | 225703 | [225703-feralheart-unleashed.json](./225703-feralheart-unleashed.json) |
 | Feralscape | 185417 | [185417-feralscape.json](./185417-feralscape.json) |
 | Ferarum | 396366 | [396366-ferarum.json](./396366-ferarum.json) |
 | Ferazel's Wand | 146178 | [146178-ferazels-wand.json](./146178-ferazels-wand.json) |
@@ -3822,6 +3823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleabag vs. Mutt | 196790 | [196790-fleabag-vs-mutt.json](./196790-fleabag-vs-mutt.json) |
 | Fleabag vs. Mutt 2 | 403020 | [403020-fleabag-vs-mutt-2.json](./403020-fleabag-vs-mutt-2.json) |
 | Flecto | 407325 | [407325-flecto.json](./407325-flecto.json) |
+| Fledge | 225537 | [225537-fledge.json](./225537-fledge.json) |
 | Fledge | 257909 | [257909-fledge.json](./257909-fledge.json) |
 | Fledgling Heroes | 124027 | [124027-fledgling-heroes.json](./124027-fledgling-heroes.json) |
 | Fledglings | 285685 | [285685-fledglings.json](./285685-fledglings.json) |
@@ -4269,6 +4271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluendora: The Realm of Scribes | 411127 | [411127-fluendora-the-realm-of-scribes.json](./411127-fluendora-the-realm-of-scribes.json) |
 | Fluff | 221749 | [221749-fluff.json](./221749-fluff.json) |
 | Fluff | 59479 | [59479-fluff.json](./59479-fluff.json) |
+| Fluff Friends Rescue | 225697 | [225697-fluff-friends-rescue.json](./225697-fluff-friends-rescue.json) |
 | Fluff Up | 405579 | [405579-fluff-up.json](./405579-fluff-up.json) |
 | Fluff'n'Roll | 323516 | [323516-fluffnroll.json](./323516-fluffnroll.json) |
 | Flufftopia | 134696 | [134696-flufftopia.json](./134696-flufftopia.json) |
