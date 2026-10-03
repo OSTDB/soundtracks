@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Lords | 377155 | [377155-war-lords.json](./377155-war-lords.json) |
 | War Machine | 93015 | [93015-war-machine.json](./93015-war-machine.json) |
 | War Machines | 86933 | [86933-war-machines.json](./86933-war-machines.json) |
+| War Machines: Tanks Battle Game | 260867 | [260867-war-machines-tanks-battle-game.json](./260867-war-machines-tanks-battle-game.json) |
 | War Mines: WW1 | 152721 | [152721-war-mines-ww1.json](./152721-war-mines-ww1.json) |
 | War Never Changes | 333590 | [333590-war-never-changes.json](./333590-war-never-changes.json) |
 | War Obelisks | 218977 | [218977-war-obelisks.json](./218977-war-obelisks.json) |
@@ -2641,6 +2642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Legion | 243150 | [243150-wild-legion.json](./243150-wild-legion.json) |
 | Wild Leopard Safari | 255167 | [255167-wild-leopard-safari.json](./255167-wild-leopard-safari.json) |
 | Wild Life | 127894 | [127894-wild-life.json](./127894-wild-life.json) |
+| Wild Life | 260862 | [260862-wild-life.json](./260862-wild-life.json) |
 | Wild Lynx Jigsaw | 357967 | [357967-wild-lynx-jigsaw.json](./357967-wild-lynx-jigsaw.json) |
 | Wild Lynx Jigsaw: Expansion Pack 1 | 357968 | [357968-wild-lynx-jigsaw-expansion-pack-1.json](./357968-wild-lynx-jigsaw-expansion-pack-1.json) |
 | Wild Lynx Jigsaw: Expansion Pack 2 | 357969 | [357969-wild-lynx-jigsaw-expansion-pack-2.json](./357969-wild-lynx-jigsaw-expansion-pack-2.json) |
