@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underlab | 262667 | [262667-underlab.json](./262667-underlab.json) |
 | Underland Ambush | 164884 | [164884-underland-ambush.json](./164884-underland-ambush.json) |
 | Underland: The Climb | 157713 | [157713-underland-the-climb.json](./157713-underland-the-climb.json) |
+| Underlien: Safety Zone | 233561 | [233561-underlien-safety-zone.json](./233561-underlien-safety-zone.json) |
 | Underlight | 112974 | [112974-underlight.json](./112974-underlight.json) |
 | Underliner | 199497 | [199497-underliner.json](./199497-underliner.json) |
 | Underload | 25763 | [25763-underload.json](./25763-underload.json) |
