@@ -898,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagiCraze | 151720 | [151720-magicraze.json](./151720-magicraze.json) |
 | MagicShop2 | 253903 | [253903-magicshop2.json](./253903-magicshop2.json) |
 | Magiculon's Tower | 372622 | [372622-magiculons-tower.json](./372622-magiculons-tower.json) |
+| Magicus | 227904 | [227904-magicus.json](./227904-magicus.json) |
 | Magidoll | 196588 | [196588-magidoll.json](./196588-magidoll.json) |
 | Magiduck | 252868 | [252868-magiduck.json](./252868-magiduck.json) |
 | Magiduel | 177019 | [177019-magiduel.json](./177019-magiduel.json) |
@@ -2222,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariposa | 395588 | [395588-mariposa.json](./395588-mariposa.json) |
 | Mariposa and the Galaxy Man | 191904 | [191904-mariposa-and-the-galaxy-man.json](./191904-mariposa-and-the-galaxy-man.json) |
 | Marippy | 310649 | [310649-marippy.json](./310649-marippy.json) |
+| Marisa Matrix | 227906 | [227906-marisa-matrix.json](./227906-marisa-matrix.json) |
 | Marisa's Inconceivable Journey | 190946 | [190946-marisas-inconceivable-journey.json](./190946-marisas-inconceivable-journey.json) |
 | Marisa's Marvelous Magic Shop | 126940 | [126940-marisas-marvelous-magic-shop.json](./126940-marisas-marvelous-magic-shop.json) |
 | Marissa Is Now Idle | 215222 | [215222-marissa-is-now-idle.json](./215222-marissa-is-now-idle.json) |
@@ -3295,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Escape | 320813 | [320813-maze-escape.json](./320813-maze-escape.json) |
 | Maze Escape | 345524 | [345524-maze-escape.json](./345524-maze-escape.json) |
 | Maze Estate Escape | 362982 | [362982-maze-estate-escape.json](./362982-maze-estate-escape.json) |
+| Maze Final Challenge | 227747 | [227747-maze-final-challenge.json](./227747-maze-final-challenge.json) |
 | Maze Forever | 233249 | [233249-maze-forever.json](./233249-maze-forever.json) |
 | Maze Game | 216256 | [216256-maze-game.json](./216256-maze-game.json) |
 | Maze Girl | 253907 | [253907-maze-girl.json](./253907-maze-girl.json) |
@@ -5918,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike Tyson's Punch-Out!! SNES | 377739 | [377739-mike-tysons-punch-out-snes.json](./377739-mike-tysons-punch-out-snes.json) |
 | Mike V: Skateboard Party HD | 87709 | [87709-mike-v-skateboard-party-hd.json](./87709-mike-v-skateboard-party-hd.json) |
 | Mike was Cursed | 75763 | [75763-mike-was-cursed.json](./75763-mike-was-cursed.json) |
+| Mike's Arcade | 227975 | [227975-mikes-arcade.json](./227975-mikes-arcade.json) |
 | Mike's Lonely Journey | 286616 | [286616-mikes-lonely-journey.json](./286616-mikes-lonely-journey.json) |
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
 | Mikene's Aspects | 267440 | [267440-mikenes-aspects.json](./267440-mikenes-aspects.json) |
@@ -6625,6 +6629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minidinos | 369729 | [369729-minidinos.json](./369729-minidinos.json) |
 | MiniDrivers | 34867 | [34867-minidrivers.json](./34867-minidrivers.json) |
 | Minifiend | 253034 | [253034-minifiend.json](./253034-minifiend.json) |
+| Minigame 3-hon Pack | 227750 | [227750-minigame-3-hon-pack.json](./227750-minigame-3-hon-pack.json) |
 | Minigame Game | 231333 | [231333-minigame-game.json](./231333-minigame-game.json) |
 | Minigame Madness | 142964 | [142964-minigame-madness.json](./142964-minigame-madness.json) |
 | Minigame Party | 257648 | [257648-minigame-party.json](./257648-minigame-party.json) |
@@ -8520,6 +8525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Syndrome | 65450 | [65450-moonlight-syndrome.json](./65450-moonlight-syndrome.json) |
 | Moonlight Walks | 51178 | [51178-moonlight-walks.json](./51178-moonlight-walks.json) |
 | Moonlight Warrior | 117107 | [117107-moonlight-warrior.json](./117107-moonlight-warrior.json) |
+| Moonlighter | 227752 | [227752-moonlighter.json](./227752-moonlighter.json) |
 | Moonlighter | 27771 | [27771-moonlighter.json](./27771-moonlighter.json) |
 | Moonlighter 2: The Endless Vault | 324570 | [324570-moonlighter-2-the-endless-vault.json](./324570-moonlighter-2-the-endless-vault.json) |
 | Moonlighter: Between Dimensions | 119236 | [119236-moonlighter-between-dimensions.json](./119236-moonlighter-between-dimensions.json) |
@@ -10225,6 +10231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Caligula | 323241 | [323241-my-caligula.json](./323241-my-caligula.json) |
 | My Camp of Memories | 348388 | [348388-my-camp-of-memories.json](./348388-my-camp-of-memories.json) |
 | My Candy Love: High School Life | 186654 | [186654-my-candy-love-high-school-life.json](./186654-my-candy-love-high-school-life.json) |
+| My Candy Love: New Gen | 227973 | [227973-my-candy-love-new-gen.json](./227973-my-candy-love-new-gen.json) |
 | My Candy Love: University Life | 186655 | [186655-my-candy-love-university-life.json](./186655-my-candy-love-university-life.json) |
 | My Cannibal Family | 404918 | [404918-my-cannibal-family.json](./404918-my-cannibal-family.json) |
 | My Car My Life | 373542 | [373542-my-car-my-life.json](./373542-my-car-my-life.json) |
@@ -10866,6 +10873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Zombie Girlfriend | 231423 | [231423-my-zombie-girlfriend.json](./231423-my-zombie-girlfriend.json) |
 | My Zombies Are Hungry | 418792 | [418792-my-zombies-are-hungry.json](./418792-my-zombies-are-hungry.json) |
 | My Zoo | 50707 | [50707-my-zoo.json](./50707-my-zoo.json) |
+| Myara Story 1: Hurricane of the Ancient One | 227895 | [227895-myara-story-1-hurricane-of-the-ancient-one.json](./227895-myara-story-1-hurricane-of-the-ancient-one.json) |
 | Mycelium | 295350 | [295350-mycelium.json](./295350-mycelium.json) |
 | Mycelium Conquest | 401813 | [401813-mycelium-conquest.json](./401813-mycelium-conquest.json) |
 | Mycelium Mayhem | 364634 | [364634-mycelium-mayhem.json](./364634-mycelium-mayhem.json) |
