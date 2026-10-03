@@ -3837,6 +3837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Academy | 62999 | [62999-flight-academy.json](./62999-flight-academy.json) |
 | Flight Attendant Simulator | 153905 | [153905-flight-attendant-simulator.json](./153905-flight-attendant-simulator.json) |
 | Flight Catastrophe | 149532 | [149532-flight-catastrophe.json](./149532-flight-catastrophe.json) |
+| Flight Color | 252928 | [252928-flight-color.json](./252928-flight-color.json) |
 | Flight Commander 2 | 73854 | [73854-flight-commander-2.json](./73854-flight-commander-2.json) |
 | Flight Control HD | 15064 | [15064-flight-control-hd.json](./15064-flight-control-hd.json) |
 | Flight Date | 403710 | [403710-flight-date.json](./403710-flight-date.json) |
@@ -4033,6 +4034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flock VR | 30108 | [30108-flock-vr.json](./30108-flock-vr.json) |
 | Flockland Island Crisis | 286594 | [286594-flockland-island-crisis.json](./286594-flockland-island-crisis.json) |
 | Flocks | 174193 | [174193-flocks.json](./174193-flocks.json) |
+| Flockwork | 252926 | [252926-flockwork.json](./252926-flockwork.json) |
 | Flong: Directors Cut | 377746 | [377746-flong-directors-cut.json](./377746-flong-directors-cut.json) |
 | Flood | 12104 | [12104-flood.json](./12104-flood.json) |
 | Flood | 320187 | [320187-flood.json](./320187-flood.json) |
@@ -5832,6 +5834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freelands | 396529 | [396529-freelands.json](./396529-freelands.json) |
 | Freeline! | 404923 | [404923-freeline.json](./404923-freeline.json) |
 | Freeman | 253604 | [253604-freeman.json](./253604-freeman.json) |
+| Freeman and Bob | 252921 | [252921-freeman-and-bob.json](./252921-freeman-and-bob.json) |
 | Freeman: Guerrilla Warfare | 78538 | [78538-freeman-guerrilla-warfare.json](./78538-freeman-guerrilla-warfare.json) |
 | Freerice | 140371 | [140371-freerice.json](./140371-freerice.json) |
 | Freeride | 204514 | [204514-freeride.json](./204514-freeride.json) |
@@ -6754,6 +6757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FunWar | 195757 | [195757-funwar.json](./195757-funwar.json) |
 | Funwreckers | 236276 | [236276-funwreckers.json](./236276-funwreckers.json) |
 | Fur and Fangs | 412994 | [412994-fur-and-fangs.json](./412994-fur-and-fangs.json) |
+| Fur and Feathers HD | 252924 | [252924-fur-and-feathers-hd.json](./252924-fur-and-feathers-hd.json) |
 | Fur and Void | 337645 | [337645-fur-and-void.json](./337645-fur-and-void.json) |
 | Fur Squadron | 226405 | [226405-fur-squadron.json](./226405-fur-squadron.json) |
 | Fur Squadron Phoenix | 275562 | [275562-fur-squadron-phoenix.json](./275562-fur-squadron-phoenix.json) |
