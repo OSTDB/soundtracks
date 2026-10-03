@@ -4644,6 +4644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowstery of a Growing Aurora | 296980 | [296980-meowstery-of-a-growing-aurora.json](./296980-meowstery-of-a-growing-aurora.json) |
 | Meowstery Wisp | 383067 | [383067-meowstery-wisp.json](./383067-meowstery-wisp.json) |
 | Meowter Space | 239607 | [239607-meowter-space.json](./239607-meowter-space.json) |
+| Meowth's Party | 255838 | [255838-meowths-party.json](./255838-meowths-party.json) |
 | MeowWare | 344511 | [344511-meowware.json](./344511-meowware.json) |
 | Mepekyon Racing | 416668 | [416668-mepekyon-racing.json](./416668-mepekyon-racing.json) |
 | MER Adventure Climbing | 370687 | [370687-mer-adventure-climbing.json](./370687-mer-adventure-climbing.json) |
