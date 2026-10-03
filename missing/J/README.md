@@ -763,7 +763,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeweler Simulator | 291449 | [291449-jeweler-simulator.json](./291449-jeweler-simulator.json) |
 | JeweLife: Match 3 Jewels | 255053 | [255053-jewelife-match-3-jewels.json](./255053-jewelife-match-3-jewels.json) |
 | Jewellust | 61030 | [61030-jewellust.json](./61030-jewellust.json) |
+| Jewelpet: Kawaii Mahou no Fantasy | 269787 | [269787-jewelpet-kawaii-mahou-no-fantasy.json](./269787-jewelpet-kawaii-mahou-no-fantasy.json) |
 | Jewelpet: Mahou no DS Kirapikarin | 67227 | [67227-jewelpet-mahou-no-ds-kirapikarin.json](./67227-jewelpet-mahou-no-ds-kirapikarin.json) |
+| Jewelpet: Mahou no Oheya de Issho ni Asobou! | 269788 | [269788-jewelpet-mahou-no-oheya-de-issho-ni-asobou.json](./269788-jewelpet-mahou-no-oheya-de-issho-ni-asobou.json) |
 | Jewels Deluxe | 108478 | [108478-jewels-deluxe.json](./108478-jewels-deluxe.json) |
 | Jewels II: The Ultimate Challenge | 72052 | [72052-jewels-ii-the-ultimate-challenge.json](./72052-jewels-ii-the-ultimate-challenge.json) |
 | Jewels Mania Adventure Star | 108512 | [108512-jewels-mania-adventure-star.json](./108512-jewels-mania-adventure-star.json) |
@@ -808,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiēxiànyuán de Shǐmìng | 161164 | [161164-jiexianyuan-de-shiming.json](./161164-jiexianyuan-de-shiming.json) |
 | Jig-a-Pix Pets | 209987 | [209987-jig-a-pix-pets.json](./209987-jig-a-pix-pets.json) |
 | Jig-a-Pix Wonderful World | 209988 | [209988-jig-a-pix-wonderful-world.json](./209988-jig-a-pix-wonderful-world.json) |
+| Jig-a-Pix: Love Is... | 269784 | [269784-jig-a-pix-love-is.json](./269784-jig-a-pix-love-is.json) |
 | Jigdoku | 404203 | [404203-jigdoku.json](./404203-jigdoku.json) |
 | JigDoku | 91734 | [91734-jigdoku.json](./91734-jigdoku.json) |
 | Jigen Bakudan Kaijo | 349942 | [349942-jigen-bakudan-kaijo.json](./349942-jigen-bakudan-kaijo.json) |
@@ -872,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Dreams: Serene Pack | 226858 | [226858-jigsaw-puzzle-dreams-serene-pack.json](./226858-jigsaw-puzzle-dreams-serene-pack.json) |
 | Jigsaw Puzzle Dreams: Stickers and More! Supporter Pack | 288900 | [288900-jigsaw-puzzle-dreams-stickers-and-more-supporter-pack.json](./288900-jigsaw-puzzle-dreams-stickers-and-more-supporter-pack.json) |
 | Jigsaw Puzzle Dreams: Tranquil Pack | 226859 | [226859-jigsaw-puzzle-dreams-tranquil-pack.json](./226859-jigsaw-puzzle-dreams-tranquil-pack.json) |
+| Jigsaw Puzzle DS: DS de Meguru Sekai Isan no Tabi | 269785 | [269785-jigsaw-puzzle-ds-ds-de-meguru-sekai-isan-no-tabi.json](./269785-jigsaw-puzzle-ds-ds-de-meguru-sekai-isan-no-tabi.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Aliens | 263223 | [263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json](./263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Electro Macro | 268529 | [268529-jigsaw-puzzle-pack-pixel-puzzles-ultimate-electro-macro.json](./268529-jigsaw-puzzle-pack-pixel-puzzles-ultimate-electro-macro.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Fitness | 255014 | [255014-jigsaw-puzzle-pack-pixel-puzzles-ultimate-fitness.json](./255014-jigsaw-puzzle-pack-pixel-puzzles-ultimate-fitness.json) |
@@ -1054,10 +1058,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinrou Game | 296100 | [296100-jinrou-game.json](./296100-jinrou-game.json) |
 | Jinrui no Minasama he: Suhaaya Shuka | 394890 | [394890-jinrui-no-minasama-he-suhaaya-shuka.json](./394890-jinrui-no-minasama-he-suhaaya-shuka.json) |
 | Jinsei 8-man-7000-kai no Shokuji wo Tanoshiku suru: Oishiku Kiwameru Shokutsuu DS - Otona no Shuumatsu Henshuu-bu Gensen no Osusume Tenpo Jouhou Iri | 269591 | [269591-jinsei-8-man-7000-kai-no-shokuji-wo-tanoshiku-suru-oishiku-kiwameru-shokutsuu-ds-otona-no-shuumatsu-henshuu-bu-gensen-no-osusume-tenpo-jouhou-iri.json](./269591-jinsei-8-man-7000-kai-no-shokuji-wo-tanoshiku-suru-oishiku-kiwameru-shokutsuu-ds-otona-no-shuumatsu-henshuu-bu-gensen-no-osusume-tenpo-jouhou-iri.json) |
+| Jinsei Game | 269780 | [269780-jinsei-game.json](./269780-jinsei-game.json) |
 | Jinsei Game | 344509 | [344509-jinsei-game.json](./344509-jinsei-game.json) |
 | Jinsei Game 64 | 3530 | [3530-jinsei-game-64.json](./3530-jinsei-game-64.json) |
+| Jinsei Game DS | 269781 | [269781-jinsei-game-ds.json](./269781-jinsei-game-ds.json) |
 | Jinsei Game for Dreamcast | 131569 | [131569-jinsei-game-for-dreamcast.json](./131569-jinsei-game-for-dreamcast.json) |
 | Jinsei Game for Nintendo Switch | 254467 | [254467-jinsei-game-for-nintendo-switch.json](./254467-jinsei-game-for-nintendo-switch.json) |
+| Jinsei Game Q: DS Heisei no Dekigoto | 269782 | [269782-jinsei-game-q-ds-heisei-no-dekigoto.json](./269782-jinsei-game-q-ds-heisei-no-dekigoto.json) |
+| Jinsei Game Q: DS Shouwa no Dekigoto | 269783 | [269783-jinsei-game-q-ds-shouwa-no-dekigoto.json](./269783-jinsei-game-q-ds-shouwa-no-dekigoto.json) |
 | Jinsei Game: Tomodachi Takusan Tsukurou yo! | 228565 | [228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json](./228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json) |
 | Jinsei Owata no Daibouken | 285132 | [285132-jinsei-owata-no-daibouken.json](./285132-jinsei-owata-no-daibouken.json) |
 | Jinshin | 208100 | [208100-jinshin.json](./208100-jinshin.json) |
