@@ -7450,6 +7450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Zephyr DX | 159845 | [159845-cosmic-zephyr-dx.json](./159845-cosmic-zephyr-dx.json) |
 | Cosmic: A Journey Among Shadows | 190470 | [190470-cosmic-a-journey-among-shadows.json](./190470-cosmic-a-journey-among-shadows.json) |
 | Cosmica | 149948 | [149948-cosmica.json](./149948-cosmica.json) |
+| Cosmik Battle | 260883 | [260883-cosmik-battle.json](./260883-cosmik-battle.json) |
 | Cosminers | 309524 | [309524-cosminers.json](./309524-cosminers.json) |
 | Cosminomy | 357364 | [357364-cosminomy.json](./357364-cosminomy.json) |
 | Cosmo 02 | 165690 | [165690-cosmo-02.json](./165690-cosmo-02.json) |
