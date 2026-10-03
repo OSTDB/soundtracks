@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnar | 352296 | [352296-ragnar.json](./352296-ragnar.json) |
 | Ragnar's Chinese Memory Game | 156112 | [156112-ragnars-chinese-memory-game.json](./156112-ragnars-chinese-memory-game.json) |
 | Ragnarock | 139399 | [139399-ragnarock.json](./139399-ragnarock.json) |
+| Ragnarock: Vikings On Tour | 247655 | [247655-ragnarock-vikings-on-tour.json](./247655-ragnarock-vikings-on-tour.json) |
 | Ragnarok Battle Offline: Extra Scenario 1 | 67953 | [67953-ragnarok-battle-offline-extra-scenario-1.json](./67953-ragnarok-battle-offline-extra-scenario-1.json) |
 | Ragnarok Battle Offline: Extra Scenario 2 | 67951 | [67951-ragnarok-battle-offline-extra-scenario-2.json](./67951-ragnarok-battle-offline-extra-scenario-2.json) |
 | Ragnarok Begins | 223978 | [223978-ragnarok-begins.json](./223978-ragnarok-begins.json) |
@@ -4837,6 +4838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Jockey | 50137 | [50137-rocket-jockey.json](./50137-rocket-jockey.json) |
 | Rocket Joust | 174183 | [174183-rocket-joust.json](./174183-rocket-joust.json) |
 | Rocket Jump | 378406 | [378406-rocket-jump.json](./378406-rocket-jump.json) |
+| Rocket Jump Frenzy | 247675 | [247675-rocket-jump-frenzy.json](./247675-rocket-jump-frenzy.json) |
 | Rocket Jump Race | 273653 | [273653-rocket-jump-race.json](./273653-rocket-jump-race.json) |
 | Rocket Jumping Sounds Dangerous | 179131 | [179131-rocket-jumping-sounds-dangerous.json](./179131-rocket-jumping-sounds-dangerous.json) |
 | Rocket Knight Adventures: Re-Sparked | 283095 | [283095-rocket-knight-adventures-re-sparked.json](./283095-rocket-knight-adventures-re-sparked.json) |
