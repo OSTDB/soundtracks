@@ -1364,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Dreams | 229716 | [229716-dawn-of-dreams.json](./229716-dawn-of-dreams.json) |
 | Dawn of Dynasty | 163439 | [163439-dawn-of-dynasty.json](./163439-dawn-of-dynasty.json) |
 | Dawn of Gray | 288791 | [288791-dawn-of-gray.json](./288791-dawn-of-gray.json) |
+| Dawn of Griseo | 236336 | [236336-dawn-of-griseo.json](./236336-dawn-of-griseo.json) |
 | Dawn of H'btakh: Get Lost and Die | 58487 | [58487-dawn-of-hbtakh-get-lost-and-die.json](./58487-dawn-of-hbtakh-get-lost-and-die.json) |
 | Dawn of Heroes | 19721 | [19721-dawn-of-heroes.json](./19721-dawn-of-heroes.json) |
 | Dawn of Hope: Thunder Daughter | 103870 | [103870-dawn-of-hope-thunder-daughter.json](./103870-dawn-of-hope-thunder-daughter.json) |
@@ -2154,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Red: Extended | 33250 | [33250-dear-red-extended.json](./33250-dear-red-extended.json) |
 | Dear Toki | 122972 | [122972-dear-toki.json](./122972-dear-toki.json) |
 | Dear world Re. | 386252 | [386252-dear-world-re.json](./386252-dear-world-re.json) |
+| Dearg | 236410 | [236410-dearg.json](./236410-dearg.json) |
 | DearMyFriend | 285005 | [285005-dearmyfriend.json](./285005-dearmyfriend.json) |
 | Death | 123553 | [123553-death.json](./123553-death.json) |
 | Death & Taxes | 370868 | [370868-death-and-taxes.json](./370868-death-and-taxes.json) |
@@ -2953,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Simulator | 161335 | [161335-delivery-simulator.json](./161335-delivery-simulator.json) |
 | Delivery Simulator | 391247 | [391247-delivery-simulator.json](./391247-delivery-simulator.json) |
 | Delivery Up | 361168 | [361168-delivery-up.json](./361168-delivery-up.json) |
+| Delivoo Delivery Sim | 236330 | [236330-delivoo-delivery-sim.json](./236330-delivoo-delivery-sim.json) |
 | Delores: A Thimbleweed Park Mini-Adventure | 134408 | [134408-delores-a-thimbleweed-park-mini-adventure.json](./134408-delores-a-thimbleweed-park-mini-adventure.json) |
 | Delta | 319816 | [319816-delta.json](./319816-delta.json) |
 | Delta 4: Terminal Protocol | 416726 | [416726-delta-4-terminal-protocol.json](./416726-delta-4-terminal-protocol.json) |
@@ -6977,6 +6980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down There Somewhere | 269031 | [269031-down-there-somewhere.json](./269031-down-there-somewhere.json) |
 | Down Under | 252397 | [252397-down-under.json](./252397-down-under.json) |
 | Down Ward | 126429 | [126429-down-ward.json](./126429-down-ward.json) |
+| Down With Fear | 236345 | [236345-down-with-fear.json](./236345-down-with-fear.json) |
 | Down With Hell: Crystal | 385863 | [385863-down-with-hell-crystal.json](./385863-down-with-hell-crystal.json) |
 | Down with the Ship | 365205 | [365205-down-with-the-ship.json](./365205-down-with-the-ship.json) |
 | Downbreak | 95578 | [95578-downbreak.json](./95578-downbreak.json) |
@@ -7440,6 +7444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Khan | 383486 | [383486-dragon-khan.json](./383486-dragon-khan.json) |
 | Dragon King: The Fighting Game | 184099 | [184099-dragon-king-the-fighting-game.json](./184099-dragon-king-the-fighting-game.json) |
 | Dragon Kingdom | 312637 | [312637-dragon-kingdom.json](./312637-dragon-kingdom.json) |
+| Dragon Kingdoms: A Legend's Beginning | 236322 | [236322-dragon-kingdoms-a-legends-beginning.json](./236322-dragon-kingdoms-a-legends-beginning.json) |
 | Dragon Kings | 269027 | [269027-dragon-kings.json](./269027-dragon-kings.json) |
 | Dragon Knife | 48587 | [48587-dragon-knife.json](./48587-dragon-knife.json) |
 | Dragon Knight | 31918 | [31918-dragon-knight.json](./31918-dragon-knight.json) |
@@ -9003,6 +9008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Buster Ex-Plores | 66169 | [66169-dungeon-buster-ex-plores.json](./66169-dungeon-buster-ex-plores.json) |
 | Dungeon Chop Chop | 82020 | [82020-dungeon-chop-chop.json](./82020-dungeon-chop-chop.json) |
 | Dungeon Clawler | 290897 | [290897-dungeon-clawler.json](./290897-dungeon-clawler.json) |
+| Dungeon Cleaner | 236339 | [236339-dungeon-cleaner.json](./236339-dungeon-cleaner.json) |
 | Dungeon Cleaner | 260667 | [260667-dungeon-cleaner.json](./260667-dungeon-cleaner.json) |
 | Dungeon Cleaning Express | 114974 | [114974-dungeon-cleaning-express.json](./114974-dungeon-cleaning-express.json) |
 | Dungeon Color | 190226 | [190226-dungeon-color.json](./190226-dungeon-color.json) |
@@ -9093,6 +9099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Keeper Premium | 334252 | [334252-dungeon-keeper-premium.json](./334252-dungeon-keeper-premium.json) |
 | Dungeon Killer | 400474 | [400474-dungeon-killer.json](./400474-dungeon-killer.json) |
 | Dungeon Killing | 355210 | [355210-dungeon-killing.json](./355210-dungeon-killing.json) |
+| Dungeon King | 236411 | [236411-dungeon-king.json](./236411-dungeon-king.json) |
 | Dungeon Land | 66059 | [66059-dungeon-land.json](./66059-dungeon-land.json) |
 | Dungeon Legend | 242491 | [242491-dungeon-legend.json](./242491-dungeon-legend.json) |
 | Dungeon Legend Party | 348373 | [348373-dungeon-legend-party.json](./348373-dungeon-legend-party.json) |
