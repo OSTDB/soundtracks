@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D1 Grand Prix | 20551 | [20551-d1-grand-prix.json](./20551-d1-grand-prix.json) |
 | D2 | 36736 | [36736-d2.json](./36736-d2.json) |
 | D2048 | 125915 | [125915-d2048.json](./125915-d2048.json) |
+| D3ad Hand | 277528 | [277528-d3ad-hand.json](./277528-d3ad-hand.json) |
 | D3ad Hand | 315098 | [315098-d3ad-hand.json](./315098-d3ad-hand.json) |
 | D3d Inside | 126659 | [126659-d3d-inside.json](./126659-d3d-inside.json) |
 | D3L3T3.exe | 264331 | [264331-d3l3t3-exe.json](./264331-d3l3t3-exe.json) |
@@ -1386,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of Judgment | 272394 | [272394-day-of-judgment.json](./272394-day-of-judgment.json) |
 | Day of Light | 383383 | [383383-day-of-light.json](./383383-day-of-light.json) |
 | Day of Love | 72663 | [72663-day-of-love.json](./72663-day-of-love.json) |
+| Day of Night | 277495 | [277495-day-of-night.json](./277495-day-of-night.json) |
 | Day of Red Letter | 253031 | [253031-day-of-red-letter.json](./253031-day-of-red-letter.json) |
 | Day of the dead | 243675 | [243675-day-of-the-dead.json](./243675-day-of-the-dead.json) |
 | Day of the Dead: Solitaire Collection | 161362 | [161362-day-of-the-dead-solitaire-collection.json](./161362-day-of-the-dead-solitaire-collection.json) |
@@ -2157,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Forest: Seikin | 385186 | [385186-death-forest-seikin.json](./385186-death-forest-seikin.json) |
 | Death From Above: Complete Edition | 336140 | [336140-death-from-above-complete-edition.json](./336140-death-from-above-complete-edition.json) |
 | Death from Unknown: Survival | 93710 | [93710-death-from-unknown-survival.json](./93710-death-from-unknown-survival.json) |
+| Death Front | 277514 | [277514-death-front.json](./277514-death-front.json) |
 | Death Game | 206153 | [206153-death-game.json](./206153-death-game.json) |
 | Death Game Hotel | 251554 | [251554-death-game-hotel.json](./251554-death-game-hotel.json) |
 | Death Goat | 19873 | [19873-death-goat.json](./19873-death-goat.json) |
@@ -6971,6 +6974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula: Restless Legs Syndrome | 411611 | [411611-dracula-restless-legs-syndrome.json](./411611-dracula-restless-legs-syndrome.json) |
 | Dracula: Undead Awakening | 42858 | [42858-dracula-undead-awakening.json](./42858-dracula-undead-awakening.json) |
 | Dracula: Vampires vs. Zombies | 43169 | [43169-dracula-vampires-vs-zombies.json](./43169-dracula-vampires-vs-zombies.json) |
+| Dracula's Castle | 277490 | [277490-draculas-castle.json](./277490-draculas-castle.json) |
 | Dracula's Legacy | 34613 | [34613-draculas-legacy.json](./34613-draculas-legacy.json) |
 | Dracula's Library | 43142 | [43142-draculas-library.json](./43142-draculas-library.json) |
 | Dracula's Secret | 73228 | [73228-draculas-secret.json](./73228-draculas-secret.json) |
@@ -7223,6 +7227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Forge | 311708 | [311708-dragon-forge.json](./311708-dragon-forge.json) |
 | Dragon Friends: The Secret of Green Witch | 212453 | [212453-dragon-friends-the-secret-of-green-witch.json](./212453-dragon-friends-the-secret-of-green-witch.json) |
 | Dragon Front | 57717 | [57717-dragon-front.json](./57717-dragon-front.json) |
+| Dragon Front Rising | 277507 | [277507-dragon-front-rising.json](./277507-dragon-front-rising.json) |
 | Dragon Fun Classic | 221974 | [221974-dragon-fun-classic.json](./221974-dragon-fun-classic.json) |
 | Dragon Fury | 231046 | [231046-dragon-fury.json](./231046-dragon-fury.json) |
 | Dragon Gate | 180603 | [180603-dragon-gate.json](./180603-dragon-gate.json) |
