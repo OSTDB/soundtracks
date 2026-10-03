@@ -1541,11 +1541,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: An Everlasting Dream Intertwined | 302616 | [302616-genshin-impact-an-everlasting-dream-intertwined.json](./302616-genshin-impact-an-everlasting-dream-intertwined.json) |
 | Genshin Impact: As Light Rain Falls Without Reason | 259867 | [259867-genshin-impact-as-light-rain-falls-without-reason.json](./259867-genshin-impact-as-light-rain-falls-without-reason.json) |
 | Genshin Impact: Augured Homecoming | 398426 | [398426-genshin-impact-augured-homecoming.json](./398426-genshin-impact-augured-homecoming.json) |
+| Genshin Impact: Beneath the Light of Jadeite | 256974 | [256974-genshin-impact-beneath-the-light-of-jadeite.json](./256974-genshin-impact-beneath-the-light-of-jadeite.json) |
 | Genshin Impact: Flowers Resplendent on the Sun-Scorched Sojourn | 310514 | [310514-genshin-impact-flowers-resplendent-on-the-sun-scorched-sojourn.json](./310514-genshin-impact-flowers-resplendent-on-the-sun-scorched-sojourn.json) |
 | Genshin Impact: Homeward, He Who Caught the Wind | 389652 | [389652-genshin-impact-homeward-he-who-caught-the-wind.json](./389652-genshin-impact-homeward-he-who-caught-the-wind.json) |
 | Genshin Impact: Incandescent Ode of Resurrection | 326604 | [326604-genshin-impact-incandescent-ode-of-resurrection.json](./326604-genshin-impact-incandescent-ode-of-resurrection.json) |
+| Genshin Impact: Invitation of Windblume | 256969 | [256969-genshin-impact-invitation-of-windblume.json](./256969-genshin-impact-invitation-of-windblume.json) |
 | Genshin Impact: King Deshret and the Three Magi | 257451 | [257451-genshin-impact-king-deshret-and-the-three-magi.json](./257451-genshin-impact-king-deshret-and-the-three-magi.json) |
 | Genshin Impact: Masquerade of the Guilty | 273864 | [273864-genshin-impact-masquerade-of-the-guilty.json](./273864-genshin-impact-masquerade-of-the-guilty.json) |
+| Genshin Impact: Midsummer Island Adventure | 256978 | [256978-genshin-impact-midsummer-island-adventure.json](./256978-genshin-impact-midsummer-island-adventure.json) |
 | Genshin Impact: Moonlight Amidst Dreams | 328924 | [328924-genshin-impact-moonlight-amidst-dreams.json](./328924-genshin-impact-moonlight-amidst-dreams.json) |
 | Genshin Impact: Tapestry of Spirit and Flame | 321597 | [321597-genshin-impact-tapestry-of-spirit-and-flame.json](./321597-genshin-impact-tapestry-of-spirit-and-flame.json) |
 | Genshin Impact: The Morn a Thousand Roses Brings | 257449 | [257449-genshin-impact-the-morn-a-thousand-roses-brings.json](./257449-genshin-impact-the-morn-a-thousand-roses-brings.json) |
@@ -2947,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Wars: Future Past | 25312 | [25312-god-wars-future-past.json](./25312-god-wars-future-past.json) |
 | God, Save the Queens! | 406682 | [406682-god-save-the-queens.json](./406682-god-save-the-queens.json) |
 | God: The Game | 264872 | [264872-god-the-game.json](./264872-god-the-game.json) |
+| God'n Spy Add-on: Power & Revolution 2023 Edition | 256989 | [256989-godn-spy-add-on-power-and-revolution-2023-edition.json](./256989-godn-spy-add-on-power-and-revolution-2023-edition.json) |
 | God's Forest | 265133 | [265133-gods-forest.json](./265133-gods-forest.json) |
 | God's League | 341477 | [341477-gods-league.json](./341477-gods-league.json) |
 | God's Miniature Garden | 263136 | [263136-gods-miniature-garden.json](./263136-gods-miniature-garden.json) |
@@ -5603,6 +5607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gwent: Crimson Curse | 115776 | [115776-gwent-crimson-curse.json](./115776-gwent-crimson-curse.json) |
 | Gwent: Rogue Mage | 208307 | [208307-gwent-rogue-mage.json](./208307-gwent-rogue-mage.json) |
 | Gwonchong Sonyeo Kiugi | 234637 | [234637-gwonchong-sonyeo-kiugi.json](./234637-gwonchong-sonyeo-kiugi.json) |
+| GX Monsters | 257005 | [257005-gx-monsters.json](./257005-gx-monsters.json) |
 | Gyaku Katei Kyoushi: Kanojo wa Boku no Sensei ni Shite Dorei | 411593 | [411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json](./411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json) |
 | Gyakuten Hanafuda | 256331 | [256331-gyakuten-hanafuda.json](./256331-gyakuten-hanafuda.json) |
 | Gyakuten Kenji 2 | 84972 | [84972-gyakuten-kenji-2.json](./84972-gyakuten-kenji-2.json) |
