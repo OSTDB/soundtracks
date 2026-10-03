@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallkill | 275819 | [275819-wallkill.json](./275819-wallkill.json) |
 | Wallrun Dot Love | 185068 | [185068-wallrun-dot-love.json](./185068-wallrun-dot-love.json) |
 | Wallrunners | 95209 | [95209-wallrunners.json](./95209-wallrunners.json) |
+| Walls | 268136 | [268136-walls.json](./268136-walls.json) |
 | Walls | 275006 | [275006-walls.json](./275006-walls.json) |
 | Walls of Illusion | 70443 | [70443-walls-of-illusion.json](./70443-walls-of-illusion.json) |
 | Walls of Rust | 287201 | [287201-walls-of-rust.json](./287201-walls-of-rust.json) |
@@ -611,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbox | 232010 | [232010-warbox.json](./232010-warbox.json) |
 | Warcana: Cat DLC | 357371 | [357371-warcana-cat-dlc.json](./357371-warcana-cat-dlc.json) |
 | Warcana: Dog DLC | 357370 | [357370-warcana-dog-dlc.json](./357370-warcana-dog-dlc.json) |
+| Warcher Defenders | 268098 | [268098-warcher-defenders.json](./268098-warcher-defenders.json) |
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
 | Warcraft I: Remastered | 322108 | [322108-warcraft-i-remastered.json](./322108-warcraft-i-remastered.json) |
 | Warcraft II: Beyond the Dark Portal | 131 | [131-warcraft-ii-beyond-the-dark-portal.json](./131-warcraft-ii-beyond-the-dark-portal.json) |
