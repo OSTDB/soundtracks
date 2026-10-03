@@ -3500,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked Heart | 183441 | [183441-locked-heart.json](./183441-locked-heart.json) |
 | Locked in a Room While: Visiting an Old Castle | 288922 | [288922-locked-in-a-room-while-visiting-an-old-castle.json](./288922-locked-in-a-room-while-visiting-an-old-castle.json) |
 | Locked in Love: The Office | 407465 | [407465-locked-in-love-the-office.json](./407465-locked-in-love-the-office.json) |
+| Locked In Mind | 234774 | [234774-locked-in-mind.json](./234774-locked-in-mind.json) |
 | Locked in my Darkness 2: The Room | 327368 | [327368-locked-in-my-darkness-2-the-room.json](./327368-locked-in-my-darkness-2-the-room.json) |
 | Locked in Temptation | 385810 | [385810-locked-in-temptation.json](./385810-locked-in-temptation.json) |
 | Locked In VR | 30342 | [30342-locked-in-vr.json](./30342-locked-in-vr.json) |
