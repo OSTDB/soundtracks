@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Armor Custom Gasaraki | 43904 | [43904-tactical-armor-custom-gasaraki.json](./43904-tactical-armor-custom-gasaraki.json) |
 | Tactical Assassin | 234160 | [234160-tactical-assassin.json](./234160-tactical-assassin.json) |
 | Tactical Assassin 2 | 280210 | [280210-tactical-assassin-2.json](./280210-tactical-assassin-2.json) |
+| Tactical Assault VR | 242021 | [242021-tactical-assault-vr.json](./242021-tactical-assault-vr.json) |
 | Tactical Battles | 342846 | [342846-tactical-battles.json](./342846-tactical-battles.json) |
 | Tactical Breach Wizards: Special Edition | 396407 | [396407-tactical-breach-wizards-special-edition.json](./396407-tactical-breach-wizards-special-edition.json) |
 | Tactical Chronicle | 96515 | [96515-tactical-chronicle.json](./96515-tactical-chronicle.json) |
@@ -4732,6 +4733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Faceless Killer | 312182 | [312182-the-faceless-killer.json](./312182-the-faceless-killer.json) |
 | The Faceless Man | 301996 | [301996-the-faceless-man.json](./301996-the-faceless-man.json) |
 | The Faces of Evil Remastered | 206133 | [206133-the-faces-of-evil-remastered.json](./206133-the-faces-of-evil-remastered.json) |
+| The Faces of Evil Remastered Randomizer | 242113 | [242113-the-faces-of-evil-remastered-randomizer.json](./242113-the-faces-of-evil-remastered-randomizer.json) |
 | The Facility | 34646 | [34646-the-facility.json](./34646-the-facility.json) |
 | The Factory Must Grow | 317295 | [317295-the-factory-must-grow.json](./317295-the-factory-must-grow.json) |
 | The Fading of Nicole Wilson | 319711 | [319711-the-fading-of-nicole-wilson.json](./319711-the-fading-of-nicole-wilson.json) |
@@ -6531,6 +6533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Link's Awakening | 1028 | [1028-the-legend-of-zelda-links-awakening.json](./1028-the-legend-of-zelda-links-awakening.json) |
 | The Legend of Zelda: Link's Awakening - Dreamer Edition | 136334 | [136334-the-legend-of-zelda-links-awakening-dreamer-edition.json](./136334-the-legend-of-zelda-links-awakening-dreamer-edition.json) |
 | The Legend of Zelda: Link's Awakening DX | 1027 | [1027-the-legend-of-zelda-links-awakening-dx.json](./1027-the-legend-of-zelda-links-awakening-dx.json) |
+| The Legend of Zelda: Link's Awakening DX Randomizer | 242028 | [242028-the-legend-of-zelda-links-awakening-dx-randomizer.json](./242028-the-legend-of-zelda-links-awakening-dx-randomizer.json) |
 | The Legend of Zelda: Link's Awakening Redux | 219081 | [219081-the-legend-of-zelda-links-awakening-redux.json](./219081-the-legend-of-zelda-links-awakening-redux.json) |
 | The Legend of Zelda: Link's Shadow | 269867 | [269867-the-legend-of-zelda-links-shadow.json](./269867-the-legend-of-zelda-links-shadow.json) |
 | The Legend of Zelda: Majora's Mask - Masked Quest | 172482 | [172482-the-legend-of-zelda-majoras-mask-masked-quest.json](./172482-the-legend-of-zelda-majoras-mask-masked-quest.json) |
@@ -6547,8 +6550,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Ocarina of Time - Stamina Bar | 263457 | [263457-the-legend-of-zelda-ocarina-of-time-stamina-bar.json](./263457-the-legend-of-zelda-ocarina-of-time-stamina-bar.json) |
 | The Legend of Zelda: Ocarina of Time Online | 198341 | [198341-the-legend-of-zelda-ocarina-of-time-online.json](./198341-the-legend-of-zelda-ocarina-of-time-online.json) |
 | The Legend of Zelda: Oracle of Ages | 1041 | [1041-the-legend-of-zelda-oracle-of-ages.json](./1041-the-legend-of-zelda-oracle-of-ages.json) |
+| The Legend of Zelda: Oracle of Ages Randomizer | 242025 | [242025-the-legend-of-zelda-oracle-of-ages-randomizer.json](./242025-the-legend-of-zelda-oracle-of-ages-randomizer.json) |
 | The Legend of Zelda: Oracle of Life Online | 324095 | [324095-the-legend-of-zelda-oracle-of-life-online.json](./324095-the-legend-of-zelda-oracle-of-life-online.json) |
 | The Legend of Zelda: Oracle of Seasons | 1032 | [1032-the-legend-of-zelda-oracle-of-seasons.json](./1032-the-legend-of-zelda-oracle-of-seasons.json) |
+| The Legend of Zelda: Oracle of Seasons Randomizer | 242026 | [242026-the-legend-of-zelda-oracle-of-seasons-randomizer.json](./242026-the-legend-of-zelda-oracle-of-seasons-randomizer.json) |
 | The Legend of Zelda: Oracle of Secrets | 323220 | [323220-the-legend-of-zelda-oracle-of-secrets.json](./323220-the-legend-of-zelda-oracle-of-secrets.json) |
 | The Legend of Zelda: Oracle of Secrets | 323793 | [323793-the-legend-of-zelda-oracle-of-secrets.json](./323793-the-legend-of-zelda-oracle-of-secrets.json) |
 | The Legend of Zelda: Parallel Worlds Remodel | 198543 | [198543-the-legend-of-zelda-parallel-worlds-remodel.json](./198543-the-legend-of-zelda-parallel-worlds-remodel.json) |
@@ -6679,6 +6684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Baby | 285553 | [285553-the-little-baby.json](./285553-the-little-baby.json) |
 | The Little Big Crisis | 217793 | [217793-the-little-big-crisis.json](./217793-the-little-big-crisis.json) |
 | The Little Drone 2 | 172202 | [172202-the-little-drone-2.json](./172202-the-little-drone-2.json) |
+| The Little Engine That Could | 242030 | [242030-the-little-engine-that-could.json](./242030-the-little-engine-that-could.json) |
 | The Little Girl Mill of a Ginko | 300383 | [300383-the-little-girl-mill-of-a-ginko.json](./300383-the-little-girl-mill-of-a-ginko.json) |
 | The Little Land | 403022 | [403022-the-little-land.json](./403022-the-little-land.json) |
 | The Little Match Girl 2: Annus Evertens | 290400 | [290400-the-little-match-girl-2-annus-evertens.json](./290400-the-little-match-girl-2-annus-evertens.json) |
@@ -9607,6 +9613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walt Disney World Explorer: Second Edition | 51375 | [51375-the-walt-disney-world-explorer-second-edition.json](./51375-the-walt-disney-world-explorer-second-edition.json) |
 | The Wand | 138143 | [138143-the-wand.json](./138143-the-wand.json) |
 | The Wand of Gamelon Remastered | 206135 | [206135-the-wand-of-gamelon-remastered.json](./206135-the-wand-of-gamelon-remastered.json) |
+| The Wand of Gamelon Remastered Randomizer | 242114 | [242114-the-wand-of-gamelon-remastered-randomizer.json](./242114-the-wand-of-gamelon-remastered-randomizer.json) |
 | The Wand Wizard | 255150 | [255150-the-wand-wizard.json](./255150-the-wand-wizard.json) |
 | The Wanderer: Chosen One | 211752 | [211752-the-wanderer-chosen-one.json](./211752-the-wanderer-chosen-one.json) |
 | The Wandering Her | 400498 | [400498-the-wandering-her.json](./400498-the-wandering-her.json) |
@@ -10352,6 +10359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas & Friends: Right on Time | 220126 | [220126-thomas-and-friends-right-on-time.json](./220126-thomas-and-friends-right-on-time.json) |
 | Thomas & Friends: Special Delivery | 206224 | [206224-thomas-and-friends-special-delivery.json](./206224-thomas-and-friends-special-delivery.json) |
 | Thomas & Friends: The Great Festival Adventure | 70654 | [70654-thomas-and-friends-the-great-festival-adventure.json](./70654-thomas-and-friends-the-great-festival-adventure.json) |
+| Thomas & Friends: Up, Up and Away! Diesel's Special Delivery | 242029 | [242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json](./242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json) |
 | Thomas & Friends: Wonders of Sodor - Deluxe Edition | 394325 | [394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json](./394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json) |
 | Thomas & Friends: Wonders of Sodor - James Addon | 394318 | [394318-thomas-and-friends-wonders-of-sodor-james-addon.json](./394318-thomas-and-friends-wonders-of-sodor-james-addon.json) |
 | Thomas and Friends: Engines Working Together | 73004 | [73004-thomas-and-friends-engines-working-together.json](./73004-thomas-and-friends-engines-working-together.json) |
@@ -16051,6 +16059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
 | True Abstraction: Plus | 265598 | [265598-true-abstraction-plus.json](./265598-true-abstraction-plus.json) |
 | True Backgammon HD | 87922 | [87922-true-backgammon-hd.json](./87922-true-backgammon-hd.json) |
+| True Beauty | 242019 | [242019-true-beauty.json](./242019-true-beauty.json) |
 | True Colors | 228991 | [228991-true-colors.json](./228991-true-colors.json) |
 | True Colors | 388238 | [388238-true-colors.json](./388238-true-colors.json) |
 | True Crime: New York City | 4215 | [4215-true-crime-new-york-city.json](./4215-true-crime-new-york-city.json) |
