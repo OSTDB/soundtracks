@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Mosaics | 415860 | [415860-zen-mosaics.json](./415860-zen-mosaics.json) |
 | Zen Pinball | 20730 | [20730-zen-pinball.json](./20730-zen-pinball.json) |
 | Zen Pinball 2 | 6008 | [6008-zen-pinball-2.json](./6008-zen-pinball-2.json) |
+| Zen Pinball Party: My Little Pony Pinball | 231447 | [231447-zen-pinball-party-my-little-pony-pinball.json](./231447-zen-pinball-party-my-little-pony-pinball.json) |
 | Zen Pinball World: A Charlie Brown Christmas Pinball | 354059 | [354059-zen-pinball-world-a-charlie-brown-christmas-pinball.json](./354059-zen-pinball-world-a-charlie-brown-christmas-pinball.json) |
 | Zen Pinball World: A Samurai's Vengeance | 354060 | [354060-zen-pinball-world-a-samurais-vengeance.json](./354060-zen-pinball-world-a-samurais-vengeance.json) |
 | Zen Pinball World: Adventures of Lara Croft | 354055 | [354055-zen-pinball-world-adventures-of-lara-croft.json](./354055-zen-pinball-world-adventures-of-lara-croft.json) |
