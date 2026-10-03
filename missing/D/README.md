@@ -5893,6 +5893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki-Doki Universe | 8684 | [8684-doki-doki-universe.json](./8684-doki-doki-universe.json) |
 | Doki: Chapter 0 | 304217 | [304217-doki-chapter-0.json](./304217-doki-chapter-0.json) |
 | Doki! Doki! Yuuenchi: Crazy Land Daisakusen | 48663 | [48663-doki-doki-yuuenchi-crazy-land-daisakusen.json](./48663-doki-doki-yuuenchi-crazy-land-daisakusen.json) |
+| DokiDoki Academy | 252894 | [252894-dokidoki-academy.json](./252894-dokidoki-academy.json) |
 | Dokis World | 269030 | [269030-dokis-world.json](./269030-dokis-world.json) |
 | Dokkaebi Hentai Adventures | 88073 | [88073-dokkaebi-hentai-adventures.json](./88073-dokkaebi-hentai-adventures.json) |
 | Dokkalfheim Magical University | 278526 | [278526-dokkalfheim-magical-university.json](./278526-dokkalfheim-magical-university.json) |
