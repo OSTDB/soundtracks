@@ -2658,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Detective Archives: Rain Code - Ch. Fubuki: Fubuki's Luckiest Day | 259573 | [259573-master-detective-archives-rain-code-ch-fubuki-fubukis-luckiest-day.json](./259573-master-detective-archives-rain-code-ch-fubuki-fubukis-luckiest-day.json) |
 | Master Detective Archives: Rain Code - Ch. Halara: Raining Cats & Dog | 268575 | [268575-master-detective-archives-rain-code-ch-halara-raining-cats-and-dog.json](./268575-master-detective-archives-rain-code-ch-halara-raining-cats-and-dog.json) |
 | Master Detective Archives: Rain Code - Ch. Vivia: The Near-Death Detective + Ch. Yakou: Thank You, My Detective | 268772 | [268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json](./268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json) |
+| Master Detective Archives: Rain Code - Digital Deluxe Edition | 247654 | [247654-master-detective-archives-rain-code-digital-deluxe-edition.json](./247654-master-detective-archives-rain-code-digital-deluxe-edition.json) |
 | Master Detective Archives: Rain Code Plus | 300724 | [300724-master-detective-archives-rain-code-plus.json](./300724-master-detective-archives-rain-code-plus.json) |
 | Master Detective Archives: Rain Code Plus ^ Danganronpa 1, 2, V3 Bundle | 331534 | [331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json](./331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json) |
 | Master Fighter VI' | 223027 | [223027-master-fighter-vi.json](./223027-master-fighter-vi.json) |
@@ -3728,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medusa VR | 247181 | [247181-medusa-vr.json](./247181-medusa-vr.json) |
 | Medusa's Labyrinth VR | 28178 | [28178-medusas-labyrinth-vr.json](./28178-medusas-labyrinth-vr.json) |
 | Medusa's Mini Mystery | 177513 | [177513-medusas-mini-mystery.json](./177513-medusas-mini-mystery.json) |
+| Meduziak | 247659 | [247659-meduziak.json](./247659-meduziak.json) |
 | Medved Hellraiser 3: Green Elephant | 311095 | [311095-medved-hellraiser-3-green-elephant.json](./311095-medved-hellraiser-3-green-elephant.json) |
 | Meeblings | 214498 | [214498-meeblings.json](./214498-meeblings.json) |
 | Meebzork | 282627 | [282627-meebzork.json](./282627-meebzork.json) |
