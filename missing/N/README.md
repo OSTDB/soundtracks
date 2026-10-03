@@ -2173,10 +2173,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of Full Moon: Apothecary's Blessing | 170462 | [170462-night-of-full-moon-apothecarys-blessing.json](./170462-night-of-full-moon-apothecarys-blessing.json) |
 | Night of Full Moon: Choice of Carpenter | 170463 | [170463-night-of-full-moon-choice-of-carpenter.json](./170463-night-of-full-moon-choice-of-carpenter.json) |
 | Night of Full Moon: Contract of Soul | 170465 | [170465-night-of-full-moon-contract-of-soul.json](./170465-night-of-full-moon-contract-of-soul.json) |
+| Night of Full Moon: Echoes of Nature - Classic | 269232 | [269232-night-of-full-moon-echoes-of-nature-classic.json](./269232-night-of-full-moon-echoes-of-nature-classic.json) |
 | Night of Full Moon: Gear of Fate | 170461 | [170461-night-of-full-moon-gear-of-fate.json](./170461-night-of-full-moon-gear-of-fate.json) |
 | Night of Full Moon: Ghost | 220738 | [220738-night-of-full-moon-ghost.json](./220738-night-of-full-moon-ghost.json) |
+| Night of Full Moon: Little Pig Monster - Crossover | 269233 | [269233-night-of-full-moon-little-pig-monster-crossover.json](./269233-night-of-full-moon-little-pig-monster-crossover.json) |
 | Night of Full Moon: Magic Curtain | 170464 | [170464-night-of-full-moon-magic-curtain.json](./170464-night-of-full-moon-magic-curtain.json) |
 | Night of Full Moon: The Red Hood Diary | 170460 | [170460-night-of-full-moon-the-red-hood-diary.json](./170460-night-of-full-moon-the-red-hood-diary.json) |
+| Night of Full Moon: Witcher - Mirror | 269234 | [269234-night-of-full-moon-witcher-mirror.json](./269234-night-of-full-moon-witcher-mirror.json) |
 | Night of Horror | 247222 | [247222-night-of-horror.json](./247222-night-of-horror.json) |
 | Night of Love | 199513 | [199513-night-of-love.json](./199513-night-of-love.json) |
 | Night of Spirits | 242670 | [242670-night-of-spirits.json](./242670-night-of-spirits.json) |
@@ -3393,6 +3396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Normal Diner | 177495 | [177495-normal-diner.json](./177495-normal-diner.json) |
 | Normal Fantasies.exe | 215224 | [215224-normal-fantasies-exe.json](./215224-normal-fantasies-exe.json) |
 | Normal Fastfood Fantasy | 98480 | [98480-normal-fastfood-fantasy.json](./98480-normal-fastfood-fantasy.json) |
+| Normal Fishing | 269213 | [269213-normal-fishing.json](./269213-normal-fishing.json) |
 | Normal Golf Game | 355571 | [355571-normal-golf-game.json](./355571-normal-golf-game.json) |
 | Normal Person | 285977 | [285977-normal-person.json](./285977-normal-person.json) |
 | Normal Shmup | 250378 | [250378-normal-shmup.json](./250378-normal-shmup.json) |
