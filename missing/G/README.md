@@ -1479,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius Quiz 3 | 241625 | [241625-genius-quiz-3.json](./241625-genius-quiz-3.json) |
 | Genius Quiz 4 | 241627 | [241627-genius-quiz-4.json](./241627-genius-quiz-4.json) |
 | Genius Quiz 5 | 241640 | [241640-genius-quiz-5.json](./241640-genius-quiz-5.json) |
+| Genius Quiz 8 | 240299 | [240299-genius-quiz-8.json](./240299-genius-quiz-8.json) |
 | Genius Quiz 9 | 241641 | [241641-genius-quiz-9.json](./241641-genius-quiz-9.json) |
 | Genius Quiz Animals | 241912 | [241912-genius-quiz-animals.json](./241912-genius-quiz-animals.json) |
 | Genius Quiz Animes | 241909 | [241909-genius-quiz-animes.json](./241909-genius-quiz-animes.json) |
@@ -2333,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give It Up! Bouncy | 147354 | [147354-give-it-up-bouncy.json](./147354-give-it-up-bouncy.json) |
 | Give It Up! Plus | 114160 | [114160-give-it-up-plus.json](./114160-give-it-up-plus.json) |
 | Give Me Clair Back | 290944 | [290944-give-me-clair-back.json](./290944-give-me-clair-back.json) |
+| Give Me Toilet Paper! | 240369 | [240369-give-me-toilet-paper.json](./240369-give-me-toilet-paper.json) |
 | Give My Regards to Broad Street | 66710 | [66710-give-my-regards-to-broad-street.json](./66710-give-my-regards-to-broad-street.json) |
 | Givling | 18319 | [18319-givling.json](./18319-givling.json) |
 | Gizmo of Giza | 184491 | [184491-gizmo-of-giza.json](./184491-gizmo-of-giza.json) |
