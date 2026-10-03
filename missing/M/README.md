@@ -1886,6 +1886,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario + Rabbids Sparks of Hope: Gold Edition | 207390 | [207390-mario-rabbids-sparks-of-hope-gold-edition.json](./207390-mario-rabbids-sparks-of-hope-gold-edition.json) |
 | Mario + Rabbids Sparks of Hope: Rayman in the Phantom Show | 240306 | [240306-mario-rabbids-sparks-of-hope-rayman-in-the-phantom-show.json](./240306-mario-rabbids-sparks-of-hope-rayman-in-the-phantom-show.json) |
 | Mario + Rabbids Sparks of Hope: Season Pass | 240308 | [240308-mario-rabbids-sparks-of-hope-season-pass.json](./240308-mario-rabbids-sparks-of-hope-season-pass.json) |
+| Mario + Rabbids Sparks of Hope: The Last Spark Hunter | 240301 | [240301-mario-rabbids-sparks-of-hope-the-last-spark-hunter.json](./240301-mario-rabbids-sparks-of-hope-the-last-spark-hunter.json) |
+| Mario + Rabbids Sparks of Hope: The Tower of Doooom | 240300 | [240300-mario-rabbids-sparks-of-hope-the-tower-of-doooom.json](./240300-mario-rabbids-sparks-of-hope-the-tower-of-doooom.json) |
 | Mario + Wario Complete | 318037 | [318037-mario-wario-complete.json](./318037-mario-wario-complete.json) |
 | Mario 128 | 130354 | [130354-mario-128.json](./130354-mario-128.json) |
 | Mario 3: Vokrug Svyeta | 202673 | [202673-mario-3-vokrug-svyeta.json](./202673-mario-3-vokrug-svyeta.json) |
@@ -5854,6 +5856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MightyBowOfGreenHills | 96761 | [96761-mightybowofgreenhills.json](./96761-mightybowofgreenhills.json) |
 | MightyIronBall | 81759 | [81759-mightyironball.json](./81759-mightyironball.json) |
 | Miglorn | 304590 | [304590-miglorn.json](./304590-miglorn.json) |
+| Migrant Bird | 240375 | [240375-migrant-bird.json](./240375-migrant-bird.json) |
 | Miguelshroom: First Day at School | 149593 | [149593-miguelshroom-first-day-at-school.json](./149593-miguelshroom-first-day-at-school.json) |
 | Migux | 138040 | [138040-migux.json](./138040-migux.json) |
 | Miharu: Alto Another Story | 403814 | [403814-miharu-alto-another-story.json](./403814-miharu-alto-another-story.json) |
@@ -6332,6 +6335,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: The Wild Update | 223161 | [223161-minecraft-the-wild-update.json](./223161-minecraft-the-wild-update.json) |
 | Minecraft: Time Capsule | 343905 | [343905-minecraft-time-capsule.json](./343905-minecraft-time-capsule.json) |
 | Minecraft: Toy Story Mash-up | 254066 | [254066-minecraft-toy-story-mash-up.json](./254066-minecraft-toy-story-mash-up.json) |
+| Minecraft: Trails & Tales | 240295 | [240295-minecraft-trails-and-tales.json](./240295-minecraft-trails-and-tales.json) |
+| Minecraft: Trails & Tales | 240296 | [240296-minecraft-trails-and-tales.json](./240296-minecraft-trails-and-tales.json) |
 | Minecraft: Trial Chamber Legends | 307729 | [307729-minecraft-trial-chamber-legends.json](./307729-minecraft-trial-chamber-legends.json) |
 | Minecraft: Tricky Trials | 272821 | [272821-minecraft-tricky-trials.json](./272821-minecraft-tricky-trials.json) |
 | Minecraft: Ultimate Collection | 397759 | [397759-minecraft-ultimate-collection.json](./397759-minecraft-ultimate-collection.json) |
