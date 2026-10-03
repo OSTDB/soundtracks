@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RadCity: a post-apocalyptic adventure | 381608 | [381608-radcity-a-post-apocalyptic-adventure.json](./381608-radcity-a-post-apocalyptic-adventure.json) |
 | Raddle | 345510 | [345510-raddle.json](./345510-raddle.json) |
 | Radia Senki: Reimeihen | 48686 | [48686-radia-senki-reimeihen.json](./48686-radia-senki-reimeihen.json) |
+| Radial Ascension | 273553 | [273553-radial-ascension.json](./273553-radial-ascension.json) |
 | Radial Fusion | 357306 | [357306-radial-fusion.json](./357306-radial-fusion.json) |
 | Radial Impact | 34819 | [34819-radial-impact.json](./34819-radial-impact.json) |
 | Radial-G: Proteus | 130820 | [130820-radial-g-proteus.json](./130820-radial-g-proteus.json) |
