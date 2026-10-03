@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vic Panic | 130371 | [130371-vic-panic.json](./130371-vic-panic.json) |
 | VIC Scramble | 92825 | [92825-vic-scramble.json](./92825-vic-scramble.json) |
 | ViCam | 142857 | [142857-vicam.json](./142857-vicam.json) |
+| VICCP 2 Core | 244840 | [244840-viccp-2-core.json](./244840-viccp-2-core.json) |
 | Vice City Big Mission Pack | 403800 | [403800-vice-city-big-mission-pack.json](./403800-vice-city-big-mission-pack.json) |
 | Vice City Race | 272392 | [272392-vice-city-race.json](./272392-vice-city-race.json) |
 | Vice Undercover | 204447 | [204447-vice-undercover.json](./204447-vice-undercover.json) |
@@ -1706,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoidGate | 111447 | [111447-voidgate.json](./111447-voidgate.json) |
 | Voidhunter | 216851 | [216851-voidhunter.json](./216851-voidhunter.json) |
 | Voidland Mystery Goodnight | 215225 | [215225-voidland-mystery-goodnight.json](./215225-voidland-mystery-goodnight.json) |
+| Voidless | 244914 | [244914-voidless.json](./244914-voidless.json) |
 | Voidlifted | 123487 | [123487-voidlifted.json](./123487-voidlifted.json) |
 | Voidline | 408037 | [408037-voidline.json](./408037-voidline.json) |
 | Voidnomaly | 378415 | [378415-voidnomaly.json](./378415-voidnomaly.json) |
