@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kai.Ren | 174877 | [174877-kai-ren.json](./174877-kai-ren.json) |
 | Kaia's Ascent | 337995 | [337995-kaias-ascent.json](./337995-kaias-ascent.json) |
 | Kaibil | 390732 | [390732-kaibil.json](./390732-kaibil.json) |
+| Kaibutsu Para-Dice | 263672 | [263672-kaibutsu-para-dice.json](./263672-kaibutsu-para-dice.json) |
 | Kaidann | 290470 | [290470-kaidann.json](./290470-kaidann.json) |
 | Kaidi Armed With a Cat | 113501 | [113501-kaidi-armed-with-a-cat.json](./113501-kaidi-armed-with-a-cat.json) |
 | Kaido Genkai | 349376 | [349376-kaido-genkai.json](./349376-kaido-genkai.json) |
@@ -1395,6 +1396,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
+| Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
+| Kimi ni Steady | 263694 | [263694-kimi-ni-steady.json](./263694-kimi-ni-steady.json) |
 | Kimi ni Todoke: Sodateru Omoi | 66964 | [66964-kimi-ni-todoke-sodateru-omoi.json](./66964-kimi-ni-todoke-sodateru-omoi.json) |
 | Kimi no Hitomi ni Hit Me | 82803 | [82803-kimi-no-hitomi-ni-hit-me.json](./82803-kimi-no-hitomi-ni-hit-me.json) |
 | Kimi no Mirai | 251537 | [251537-kimi-no-mirai.json](./251537-kimi-no-mirai.json) |
