@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Raid | 307109 | [307109-one-last-raid.json](./307109-one-last-raid.json) |
 | One Last Sacrifice | 385342 | [385342-one-last-sacrifice.json](./385342-one-last-sacrifice.json) |
 | One Last Star Trip | 342073 | [342073-one-last-star-trip.json](./342073-one-last-star-trip.json) |
+| One Last Tale | 260306 | [260306-one-last-tale.json](./260306-one-last-tale.json) |
 | One Last Time | 226737 | [226737-one-last-time.json](./226737-one-last-time.json) |
 | One Last Time | 351173 | [351173-one-last-time.json](./351173-one-last-time.json) |
 | One Late Night: Mobile | 102625 | [102625-one-late-night-mobile.json](./102625-one-late-night-mobile.json) |
