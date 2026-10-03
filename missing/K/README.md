@@ -3040,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuon no Kizuna | 85811 | [85811-kuon-no-kizuna.json](./85811-kuon-no-kizuna.json) |
 | Kuon no Kizuna: Sairinshou | 64659 | [64659-kuon-no-kizuna-sairinshou.json](./64659-kuon-no-kizuna-sairinshou.json) |
 | Kupechestvo | 190211 | [190211-kupechestvo.json](./190211-kupechestvo.json) |
+| Kupimon | 261979 | [261979-kupimon.json](./261979-kupimon.json) |
 | Kur | 130250 | [130250-kur.json](./130250-kur.json) |
 | Kur, Pelīte, Tu Tecēji? | 305384 | [305384-kur-pelite-tu-teceji.json](./305384-kur-pelite-tu-teceji.json) |
 | Kura5: Bonds of the Undying | 139235 | [139235-kura5-bonds-of-the-undying.json](./139235-kura5-bonds-of-the-undying.json) |
