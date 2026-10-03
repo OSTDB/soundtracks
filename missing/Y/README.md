@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yaroze Rally | 296014 | [296014-yaroze-rally.json](./296014-yaroze-rally.json) |
 | Yarozians | 296015 | [296015-yarozians.json](./296015-yarozians.json) |
 | Yars: Recharged | 211321 | [211321-yars-recharged.json](./211321-yars-recharged.json) |
+| Yart | 274124 | [274124-yart.json](./274124-yart.json) |
 | Yarudora Portable: Blood the Last Vampire | 65025 | [65025-yarudora-portable-blood-the-last-vampire.json](./65025-yarudora-portable-blood-the-last-vampire.json) |
 | Yarudora Series Vol. 1: Double Cast | 79353 | [79353-yarudora-series-vol-1-double-cast.json](./79353-yarudora-series-vol-1-double-cast.json) |
 | Yarudora Series Vol. 2: Kisetsu wo Dakishimete | 65029 | [65029-yarudora-series-vol-2-kisetsu-wo-dakishimete.json](./65029-yarudora-series-vol-2-kisetsu-wo-dakishimete.json) |
@@ -875,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yugekitai: Saikyoushin Fukkatsu no Maki | 221766 | [221766-yugekitai-saikyoushin-fukkatsu-no-maki.json](./221766-yugekitai-saikyoushin-fukkatsu-no-maki.json) |
 | Yugen Jikkou Sisters Chouchoutrian: Kanzenchouaku Chouchoutrian | 385556 | [385556-yugen-jikkou-sisters-chouchoutrian-kanzenchouaku-chouchoutrian.json](./385556-yugen-jikkou-sisters-chouchoutrian-kanzenchouaku-chouchoutrian.json) |
 | Yugen Saga | 260100 | [260100-yugen-saga.json](./260100-yugen-saga.json) |
+| Yuggot | 274141 | [274141-yuggot.json](./274141-yuggot.json) |
 | Yugo: The Non-game | 319791 | [319791-yugo-the-non-game.json](./319791-yugo-the-non-game.json) |
 | Yugowave | 250009 | [250009-yugowave.json](./250009-yugowave.json) |
 | Yuha's Nightmares | 155987 | [155987-yuhas-nightmares.json](./155987-yuhas-nightmares.json) |
