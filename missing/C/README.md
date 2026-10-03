@@ -2392,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavemen Tales | 341618 | [341618-cavemen-tales.json](./341618-cavemen-tales.json) |
 | Cavemen Tales: Collector's Edition | 260294 | [260294-cavemen-tales-collectors-edition.json](./260294-cavemen-tales-collectors-edition.json) |
 | Cavemen vs. Aliens | 91412 | [91412-cavemen-vs-aliens.json](./91412-cavemen-vs-aliens.json) |
+| Cavemen: The Rise of Tribe | 249895 | [249895-cavemen-the-rise-of-tribe.json](./249895-cavemen-the-rise-of-tribe.json) |
 | Cavequest | 2876 | [2876-cavequest.json](./2876-cavequest.json) |
 | Cavern | 272856 | [272856-cavern.json](./272856-cavern.json) |
 | Cavern Adventurers | 291983 | [291983-cavern-adventurers.json](./291983-cavern-adventurers.json) |
@@ -3337,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess, Texas | 358999 | [358999-chess-texas.json](./358999-chess-texas.json) |
 | Chess: Clash of Kings | 187475 | [187475-chess-clash-of-kings.json](./187475-chess-clash-of-kings.json) |
 | Chess: Secrets of the Grandmasters | 206967 | [206967-chess-secrets-of-the-grandmasters.json](./206967-chess-secrets-of-the-grandmasters.json) |
+| Chess! | 249932 | [249932-chess.json](./249932-chess.json) |
 | Chess.com | 121957 | [121957-chess-com.json](./121957-chess-com.json) |
 | Chess+ | 102828 | [102828-chess.json](./102828-chess.json) |
 | Chess88 | 92998 | [92998-chess88.json](./92998-chess88.json) |
@@ -5605,6 +5607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Quake 2: Double Shot | 271194 | [271194-coffee-quake-2-double-shot.json](./271194-coffee-quake-2-double-shot.json) |
 | Coffee Quest VR | 338872 | [338872-coffee-quest-vr.json](./338872-coffee-quest-vr.json) |
 | Coffee Raccoons | 413038 | [413038-coffee-raccoons.json](./413038-coffee-raccoons.json) |
+| Coffee Roaster | 249918 | [249918-coffee-roaster.json](./249918-coffee-roaster.json) |
 | Coffee Run | 210667 | [210667-coffee-run.json](./210667-coffee-run.json) |
 | Coffee Run | 74470 | [74470-coffee-run.json](./74470-coffee-run.json) |
 | Coffee Shop Tycoon | 35274 | [35274-coffee-shop-tycoon.json](./35274-coffee-shop-tycoon.json) |
@@ -6190,6 +6193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Master: Battle to Death | 344555 | [344555-combat-master-battle-to-death.json](./344555-combat-master-battle-to-death.json) |
 | Combat Master: Season 1 | 318437 | [318437-combat-master-season-1.json](./318437-combat-master-season-1.json) |
 | Combat Mech VR | 157506 | [157506-combat-mech-vr.json](./157506-combat-mech-vr.json) |
+| Combat Medic | 249910 | [249910-combat-medic.json](./249910-combat-medic.json) |
 | Combat Mission 2 | 645 | [645-combat-mission-2.json](./645-combat-mission-2.json) |
 | Combat Mission Anthology | 78011 | [78011-combat-mission-anthology.json](./78011-combat-mission-anthology.json) |
 | Combat Mission Fortress Italy: Gustav Line | 266386 | [266386-combat-mission-fortress-italy-gustav-line.json](./266386-combat-mission-fortress-italy-gustav-line.json) |
@@ -8639,6 +8643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Gem Saga | 19640 | [19640-crimson-gem-saga.json](./19640-crimson-gem-saga.json) |
 | Crimson Gray: Dusk and Dawn | 105368 | [105368-crimson-gray-dusk-and-dawn.json](./105368-crimson-gray-dusk-and-dawn.json) |
 | Crimson Hills | 29067 | [29067-crimson-hills.json](./29067-crimson-hills.json) |
+| Crimson Hollow | 249929 | [249929-crimson-hollow.json](./249929-crimson-hollow.json) |
 | Crimson Horror | 374624 | [374624-crimson-horror.json](./374624-crimson-horror.json) |
 | Crimson Hotel | 121645 | [121645-crimson-hotel.json](./121645-crimson-hotel.json) |
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
