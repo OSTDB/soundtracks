@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Combat: Road to Whale | 337831 | [337831-hamster-combat-road-to-whale.json](./337831-hamster-combat-road-to-whale.json) |
 | Hamster Cozy: Tears of Acorn Valley | 330401 | [330401-hamster-cozy-tears-of-acorn-valley.json](./330401-hamster-cozy-tears-of-acorn-valley.json) |
 | Hamster Drop | 63545 | [63545-hamster-drop.json](./63545-hamster-drop.json) |
+| Hamster Escapes: Minnie Pets! | 245372 | [245372-hamster-escapes-minnie-pets.json](./245372-hamster-escapes-minnie-pets.json) |
 | Hamster Fighter | 246459 | [246459-hamster-fighter.json](./246459-hamster-fighter.json) |
 | Hamster Hunter: Rodent Rampage | 330556 | [330556-hamster-hunter-rodent-rampage.json](./330556-hamster-hunter-rodent-rampage.json) |
 | Hamster Inn | 297166 | [297166-hamster-inn.json](./297166-hamster-inn.json) |
@@ -5915,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huíwén Píngtái Tiàoyuè | 156136 | [156136-huiwen-pingtai-tiaoyue.json](./156136-huiwen-pingtai-tiaoyue.json) |
 | Hula Wii: Minna de Fura Oodorou! | 70679 | [70679-hula-wii-minna-de-fura-oodorou.json](./70679-hula-wii-minna-de-fura-oodorou.json) |
 | Huli the Mage | 111466 | [111466-huli-the-mage.json](./111466-huli-the-mage.json) |
+| Hulk | 245463 | [245463-hulk.json](./245463-hulk.json) |
 | HullBreach: Uncloaked | 85173 | [85173-hullbreach-uncloaked.json](./85173-hullbreach-uncloaked.json) |
 | Hullbreaker | 329157 | [329157-hullbreaker.json](./329157-hullbreaker.json) |
 | Hullbreakers | 240792 | [240792-hullbreakers.json](./240792-hullbreakers.json) |
