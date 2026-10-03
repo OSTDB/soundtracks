@@ -2244,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peppa Pig: The Game | 256219 | [256219-peppa-pig-the-game.json](./256219-peppa-pig-the-game.json) |
 | Peppa Pig: The Game | 50710 | [50710-peppa-pig-the-game.json](./50710-peppa-pig-the-game.json) |
 | Peppa Pig: The New House | 116405 | [116405-peppa-pig-the-new-house.json](./116405-peppa-pig-the-new-house.json) |
+| Peppa Pig: World Adventures | 229119 | [229119-peppa-pig-world-adventures.json](./229119-peppa-pig-world-adventures.json) |
 | Pepper Girl | 226191 | [226191-pepper-girl.json](./226191-pepper-girl.json) |
 | Pepper Pengui | 363046 | [363046-pepper-pengui.json](./363046-pepper-pengui.json) |
 | Pepper Rush | 382890 | [382890-pepper-rush.json](./382890-pepper-rush.json) |
@@ -5633,6 +5634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Daycare | 264130 | [264130-pokemon-daycare.json](./264130-pokemon-daycare.json) |
 | Pokémon Decay | 360192 | [360192-pokemon-decay.json](./360192-pokemon-decay.json) |
 | Pokémon Deluge | 172745 | [172745-pokemon-deluge.json](./172745-pokemon-deluge.json) |
+| Pokémon Digimon New World | 229098 | [229098-pokemon-digimon-new-world.json](./229098-pokemon-digimon-new-world.json) |
 | Pokémon Donjon Mystère Online | 304297 | [304297-pokemon-donjon-mystere-online.json](./304297-pokemon-donjon-mystere-online.json) |
 | Pokémon Dreary | 213962 | [213962-pokemon-dreary.json](./213962-pokemon-dreary.json) |
 | Pokémon Duelist | 359980 | [359980-pokemon-duelist.json](./359980-pokemon-duelist.json) |
@@ -5707,6 +5709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Infinite Fusion 2: Hoenn | 406249 | [406249-pokemon-infinite-fusion-2-hoenn.json](./406249-pokemon-infinite-fusion-2-hoenn.json) |
 | Pokémon Infinite Heardle | 283399 | [283399-pokemon-infinite-heardle.json](./283399-pokemon-infinite-heardle.json) |
 | Pokémon Island | 202405 | [202405-pokemon-island.json](./202405-pokemon-island.json) |
+| Pokémon Jade | 229095 | [229095-pokemon-jade.json](./229095-pokemon-jade.json) |
 | Pokemon Kalos Crystal | 304731 | [304731-pokemon-kalos-crystal.json](./304731-pokemon-kalos-crystal.json) |
 | Pokémon Kanto Ultimate | 250926 | [250926-pokemon-kanto-ultimate.json](./250926-pokemon-kanto-ultimate.json) |
 | Pokémon Lazarus | 337439 | [337439-pokemon-lazarus.json](./337439-pokemon-lazarus.json) |
@@ -8258,6 +8261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Summer Ice - Bowling: Story Three - Mark Version | 215111 | [215111-project-summer-ice-bowling-story-three-mark-version.json](./215111-project-summer-ice-bowling-story-three-mark-version.json) |
 | Project: Summer Ice - Bowling: Story Two - Jane Version | 215357 | [215357-project-summer-ice-bowling-story-two-jane-version.json](./215357-project-summer-ice-bowling-story-two-jane-version.json) |
 | Project: Summer Ice - Bowling: Story Two - Mark Version | 215124 | [215124-project-summer-ice-bowling-story-two-mark-version.json](./215124-project-summer-ice-bowling-story-two-mark-version.json) |
+| Project: Summer Ice - Pinball: Pammy | 229079 | [229079-project-summer-ice-pinball-pammy.json](./229079-project-summer-ice-pinball-pammy.json) |
 | Project: SX | 331712 | [331712-project-sx.json](./331712-project-sx.json) |
 | Project: Tempo | 231909 | [231909-project-tempo.json](./231909-project-tempo.json) |
 | Project: The MIR Incident | 204062 | [204062-project-the-mir-incident.json](./204062-project-the-mir-incident.json) |
