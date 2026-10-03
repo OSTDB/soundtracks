@@ -845,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertig8 | 303071 | [303071-vertig8.json](./303071-vertig8.json) |
 | VertiGhoul | 344537 | [344537-vertighoul.json](./344537-vertighoul.json) |
 | Vertigo | 171501 | [171501-vertigo.json](./171501-vertigo.json) |
+| Vertigo | 248174 | [248174-vertigo.json](./248174-vertigo.json) |
 | Vertigo | 26620 | [26620-vertigo.json](./26620-vertigo.json) |
 | Vertigo | 42850 | [42850-vertigo.json](./42850-vertigo.json) |
 | Vertigo 2: Into the Aether | 325823 | [325823-vertigo-2-into-the-aether.json](./325823-vertigo-2-into-the-aether.json) |
