@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mappy | 313132 | [313132-mappy.json](./313132-mappy.json) |
 | Mappy Kids | 48625 | [48625-mappy-kids.json](./48625-mappy-kids.json) |
 | Mappy-Land | 48179 | [48179-mappy-land.json](./48179-mappy-land.json) |
+| Mappy: Revenge of Nyamco | 243828 | [243828-mappy-revenge-of-nyamco.json](./243828-mappy-revenge-of-nyamco.json) |
 | Maps 4Matt | 312897 | [312897-maps-4matt.json](./312897-maps-4matt.json) |
 | Maps 4TMD | 312911 | [312911-maps-4tmd.json](./312911-maps-4tmd.json) |
 | Maps: U.S.A. | 201011 | [201011-maps-u-s-a.json](./201011-maps-u-s-a.json) |
@@ -1844,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marine Tour | 243393 | [243393-marine-tour.json](./243393-marine-tour.json) |
 | Mariner | 39690 | [39690-mariner.json](./39690-mariner.json) |
 | Marines Modern Urban Combat | 50690 | [50690-marines-modern-urban-combat.json](./50690-marines-modern-urban-combat.json) |
+| Marins Dream Garden | 243727 | [243727-marins-dream-garden.json](./243727-marins-dream-garden.json) |
 | Mario & Friends in: Volcanic Panic | 336098 | [336098-mario-and-friends-in-volcanic-panic.json](./336098-mario-and-friends-in-volcanic-panic.json) |
 | Mario & Luigi | 117772 | [117772-mario-and-luigi.json](./117772-mario-and-luigi.json) |
 | Mario & Luigi 4 | 323820 | [323820-mario-and-luigi-4.json](./323820-mario-and-luigi-4.json) |
@@ -10099,6 +10101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Assassin High School | 208284 | [208284-my-assassin-high-school.json](./208284-my-assassin-high-school.json) |
 | My Baby 3 & Friends | 48041 | [48041-my-baby-3-and-friends.json](./48041-my-baby-3-and-friends.json) |
 | My Baby Girl | 47976 | [47976-my-baby-girl.json](./47976-my-baby-girl.json) |
+| My Baby Unicorn | 243752 | [243752-my-baby-unicorn.json](./243752-my-baby-unicorn.json) |
 | My Bakery Empire | 87373 | [87373-my-bakery-empire.json](./87373-my-bakery-empire.json) |
 | My Bakery Empire: Complete Edition | 284503 | [284503-my-bakery-empire-complete-edition.json](./284503-my-bakery-empire-complete-edition.json) |
 | My Bakery Empire: Tasty Edition | 290432 | [290432-my-bakery-empire-tasty-edition.json](./290432-my-bakery-empire-tasty-edition.json) |
