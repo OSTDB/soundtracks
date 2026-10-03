@@ -2102,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Tails Gets Bored | 228460 | [228460-when-tails-gets-bored.json](./228460-when-tails-gets-bored.json) |
 | When Tails Gets Bored: Special Edition | 330795 | [330795-when-tails-gets-bored-special-edition.json](./330795-when-tails-gets-bored-special-edition.json) |
 | When the Barn Sleeps | 389998 | [389998-when-the-barn-sleeps.json](./389998-when-the-barn-sleeps.json) |
+| When the Devil Takes Hold | 235799 | [235799-when-the-devil-takes-hold.json](./235799-when-the-devil-takes-hold.json) |
 | When the Light Dies | 258000 | [258000-when-the-light-dies.json](./258000-when-the-light-dies.json) |
 | When the Lying Petals Scatter Into the Wind | 155104 | [155104-when-the-lying-petals-scatter-into-the-wind.json](./155104-when-the-lying-petals-scatter-into-the-wind.json) |
 | When the Moon Falls, We Speak | 390677 | [390677-when-the-moon-falls-we-speak.json](./390677-when-the-moon-falls-we-speak.json) |
@@ -3406,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiz Hunter | 385264 | [385264-wiz-hunter.json](./385264-wiz-hunter.json) |
 | Wiz Khalifa's Weed Farm | 56168 | [56168-wiz-khalifas-weed-farm.json](./56168-wiz-khalifas-weed-farm.json) |
 | Wiz Party | 194294 | [194294-wiz-party.json](./194294-wiz-party.json) |
+| Wizabeasts | 235792 | [235792-wizabeasts.json](./235792-wizabeasts.json) |
 | Wizadore | 13769 | [13769-wizadore.json](./13769-wizadore.json) |
 | Wizard | 104479 | [104479-wizard.json](./104479-wizard.json) |
 | Wizard Another World | 294280 | [294280-wizard-another-world.json](./294280-wizard-another-world.json) |
