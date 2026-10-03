@@ -2403,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Maze | 13743 | [13743-nightmare-maze.json](./13743-nightmare-maze.json) |
 | Nightmare Mines | 358858 | [358858-nightmare-mines.json](./358858-nightmare-mines.json) |
 | Nightmare Ned | 51225 | [51225-nightmare-ned.json](./51225-nightmare-ned.json) |
+| Nightmare no Sekai: Tortured Souls | 231995 | [231995-nightmare-no-sekai-tortured-souls.json](./231995-nightmare-no-sekai-tortured-souls.json) |
 | Nightmare Nursery | 183549 | [183549-nightmare-nursery.json](./183549-nightmare-nursery.json) |
 | Nightmare Nursery | 277430 | [277430-nightmare-nursery.json](./277430-nightmare-nursery.json) |
 | Nightmare of Decay | 195478 | [195478-nightmare-of-decay.json](./195478-nightmare-of-decay.json) |
