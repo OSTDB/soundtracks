@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikebana | 352962 | [352962-ikebana.json](./352962-ikebana.json) |
 | Ikemen Oukoku Joou to Shinjitsu no Kiss | 229030 | [229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json](./229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json) |
 | Ikemen Prince: Beauty and Her Beast | 229032 | [229032-ikemen-prince-beauty-and-her-beast.json](./229032-ikemen-prince-beauty-and-her-beast.json) |
+| Ikemen Vampire: Temptation in the Dark | 225536 | [225536-ikemen-vampire-temptation-in-the-dark.json](./225536-ikemen-vampire-temptation-in-the-dark.json) |
 | Ikemen Villains: Wrapped in Wicked Romance | 229033 | [229033-ikemen-villains-wrapped-in-wicked-romance.json](./229033-ikemen-villains-wrapped-in-wicked-romance.json) |
 | Ikenie | 31798 | [31798-ikenie.json](./31798-ikenie.json) |
 | Ikibago | 85185 | [85185-ikibago.json](./85185-ikibago.json) |
@@ -3136,8 +3137,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Mining Defense | 348229 | [348229-isekai-mining-defense.json](./348229-isekai-mining-defense.json) |
 | Isekai Musume Hatsujouchuu: Ore no Are wo Hamu-hamu Shimakuri!? | 194592 | [194592-isekai-musume-hatsujouchuu-ore-no-are-wo-hamu-hamu-shimakuri.json](./194592-isekai-musume-hatsujouchuu-ore-no-are-wo-hamu-hamu-shimakuri.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting | 196828 | [196828-isekai-musume-to-konkatsuchuu-isekai-bride-hunting.json](./196828-isekai-musume-to-konkatsuchuu-isekai-bride-hunting.json) |
+| Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Chartier Edition | 225544 | [225544-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-chartier-edition.json](./225544-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-chartier-edition.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Fia Edition | 219277 | [219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json](./219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Kullulu Edition | 227849 | [227849-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kullulu-edition.json](./227849-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kullulu-edition.json) |
+| Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Kuroro Edition | 225543 | [225543-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kuroro-edition.json](./225543-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kuroro-edition.json) |
 | Isekai Neet Engineer Eiyuu ni Naru | 282670 | [282670-isekai-neet-engineer-eiyuu-ni-naru.json](./282670-isekai-neet-engineer-eiyuu-ni-naru.json) |
 | Isekai Slowlife | 402894 | [402894-isekai-slowlife.json](./402894-isekai-slowlife.json) |
 | Isekai Survivors | 317972 | [317972-isekai-survivors.json](./317972-isekai-survivors.json) |
@@ -3560,6 +3563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Izmir: An Independence Simulator | 196294 | [196294-izmir-an-independence-simulator.json](./196294-izmir-an-independence-simulator.json) |
 | Izolated | 295532 | [295532-izolated.json](./295532-izolated.json) |
 | iZone | 95232 | [95232-izone.json](./95232-izone.json) |
+| Izrand Allure | 225556 | [225556-izrand-allure.json](./225556-izrand-allure.json) |
 | Izumi Jiken File Vol. 1 - Shiosai-hen | 292102 | [292102-izumi-jiken-file-vol-1-shiosai-hen.json](./292102-izumi-jiken-file-vol-1-shiosai-hen.json) |
 | Izumi Jiken File Vol. 2 - Tasogare-hen | 292109 | [292109-izumi-jiken-file-vol-2-tasogare-hen.json](./292109-izumi-jiken-file-vol-2-tasogare-hen.json) |
 | Izumi Jiken File Vol. 3 - Yujuku-hen | 292113 | [292113-izumi-jiken-file-vol-3-yujuku-hen.json](./292113-izumi-jiken-file-vol-3-yujuku-hen.json) |
