@@ -2317,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AiRace: Tunnel | 67055 | [67055-airace-tunnel.json](./67055-airace-tunnel.json) |
 | Airaki! | 61557 | [61557-airaki.json](./61557-airaki.json) |
 | Airavat | 57916 | [57916-airavat.json](./57916-airavat.json) |
+| Airballs | 278081 | [278081-airballs.json](./278081-airballs.json) |
 | AirBob | 295874 | [295874-airbob.json](./295874-airbob.json) |
 | Airborne | 281030 | [281030-airborne.json](./281030-airborne.json) |
 | Airborne Arena | 277854 | [277854-airborne-arena.json](./277854-airborne-arena.json) |
