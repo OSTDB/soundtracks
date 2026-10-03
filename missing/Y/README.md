@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yumemi Melancholy | 222994 | [222994-yumemi-melancholy.json](./222994-yumemi-melancholy.json) |
 | Yumemidori Nostalgia | 147272 | [147272-yumemidori-nostalgia.json](./147272-yumemidori-nostalgia.json) |
 | Yumemiru Sepia | 383609 | [383609-yumemiru-sepia.json](./383609-yumemiru-sepia.json) |
+| Yumemori | 238561 | [238561-yumemori.json](./238561-yumemori.json) |
 | Yumeochi no Melme | 370853 | [370853-yumeochi-no-melme.json](./370853-yumeochi-no-melme.json) |
 | Yumeria | 63934 | [63934-yumeria.json](./63934-yumeria.json) |
 | YumeSD | 202345 | [202345-yumesd.json](./202345-yumesd.json) |
