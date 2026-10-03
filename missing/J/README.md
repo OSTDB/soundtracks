@@ -1036,6 +1036,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 2016 | 78582 | [78582-jikkyou-pawafuru-puroyakyu-2016.json](./78582-jikkyou-pawafuru-puroyakyu-2016.json) |
 | Jikkyou Pawafuru Puroyakyu 3 | 42642 | [42642-jikkyou-pawafuru-puroyakyu-3.json](./42642-jikkyou-pawafuru-puroyakyu-3.json) |
 | Jikkyou Pawafuru Puroyakyu 5 | 3526 | [3526-jikkyou-pawafuru-puroyakyu-5.json](./3526-jikkyou-pawafuru-puroyakyu-5.json) |
+| Jikkyou Pawafuru Puroyakyu Portable 3 | 229584 | [229584-jikkyou-pawafuru-puroyakyu-portable-3.json](./229584-jikkyou-pawafuru-puroyakyu-portable-3.json) |
+| Jikkyou Pawafuru Puroyakyu Portable 4 | 229585 | [229585-jikkyou-pawafuru-puroyakyu-portable-4.json](./229585-jikkyou-pawafuru-puroyakyu-portable-4.json) |
 | Jikkyou Pawafuru Puroyakyu Wii | 229183 | [229183-jikkyou-pawafuru-puroyakyu-wii.json](./229183-jikkyou-pawafuru-puroyakyu-wii.json) |
 | Jikkyou Pawafuru Puroyakyu: Success Special | 98014 | [98014-jikkyou-pawafuru-puroyakyu-success-special.json](./98014-jikkyou-pawafuru-puroyakyu-success-special.json) |
 | Jikkyou World Soccer 2000: Final Edition | 168136 | [168136-jikkyou-world-soccer-2000-final-edition.json](./168136-jikkyou-world-soccer-2000-final-edition.json) |
@@ -1506,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joymaker | 374284 | [374284-joymaker.json](./374284-joymaker.json) |
 | Joyman | 40203 | [40203-joyman.json](./40203-joyman.json) |
 | Joyo Kanji Quiz | 99646 | [99646-joyo-kanji-quiz.json](./99646-joyo-kanji-quiz.json) |
+| Joyous Rebel | 229606 | [229606-joyous-rebel.json](./229606-joyous-rebel.json) |
 | Joyquarium | 337072 | [337072-joyquarium.json](./337072-joyquarium.json) |
 | Joyride: live trivia shows | 88175 | [88175-joyride-live-trivia-shows.json](./88175-joyride-live-trivia-shows.json) |
 | Joyride: Lowpoly World | 259010 | [259010-joyride-lowpoly-world.json](./259010-joyride-lowpoly-world.json) |
@@ -1825,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juna: The Dreamwalker | 260315 | [260315-juna-the-dreamwalker.json](./260315-juna-the-dreamwalker.json) |
 | Junction | 109032 | [109032-junction.json](./109032-junction.json) |
 | june 18 2024 (White people in China) | 318232 | [318232-june-18-2024-white-people-in-china.json](./318232-june-18-2024-white-people-in-china.json) |
+| June 30th | 229591 | [229591-june-30th.json](./229591-june-30th.json) |
 | June Bride Nightmare | 356620 | [356620-june-bride-nightmare.json](./356620-june-bride-nightmare.json) |
 | Jung Rhythm | 55856 | [55856-jung-rhythm.json](./55856-jung-rhythm.json) |
 | Jung's Labyrinth | 149562 | [149562-jungs-labyrinth.json](./149562-jungs-labyrinth.json) |
