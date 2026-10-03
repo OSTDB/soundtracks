@@ -3256,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Elite Wrestling: Fight Forever - Limitless Bunny Pack | 263527 | [263527-all-elite-wrestling-fight-forever-limitless-bunny-pack.json](./263527-all-elite-wrestling-fight-forever-limitless-bunny-pack.json) |
 | All Elite Wrestling: Fight Forever - Matt Hardy | 251669 | [251669-all-elite-wrestling-fight-forever-matt-hardy.json](./251669-all-elite-wrestling-fight-forever-matt-hardy.json) |
 | All Elite Wrestling: Fight Forever - Rated Gold Superstar Pack | 301008 | [301008-all-elite-wrestling-fight-forever-rated-gold-superstar-pack.json](./301008-all-elite-wrestling-fight-forever-rated-gold-superstar-pack.json) |
+| All Elite Wrestling: Fight Forever - Season Pass | 255235 | [255235-all-elite-wrestling-fight-forever-season-pass.json](./255235-all-elite-wrestling-fight-forever-season-pass.json) |
 | All Elite Wrestling: Fight Forever - Season Pass 2 | 283188 | [283188-all-elite-wrestling-fight-forever-season-pass-2.json](./283188-all-elite-wrestling-fight-forever-season-pass-2.json) |
 | All Elite Wrestling: Fight Forever - Season Pass 3 | 287121 | [287121-all-elite-wrestling-fight-forever-season-pass-3.json](./287121-all-elite-wrestling-fight-forever-season-pass-3.json) |
 | All Elite Wrestling: Fight Forever - Season Pass 4 | 301011 | [301011-all-elite-wrestling-fight-forever-season-pass-4.json](./301011-all-elite-wrestling-fight-forever-season-pass-4.json) |
