@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Cliff | 235677 | [235677-danger-cliff.json](./235677-danger-cliff.json) |
 | Danger Cliff 2 | 316149 | [316149-danger-cliff-2.json](./316149-danger-cliff-2.json) |
 | Danger Close | 175732 | [175732-danger-close.json](./175732-danger-close.json) |
+| Danger Close VR | 258126 | [258126-danger-close-vr.json](./258126-danger-close-vr.json) |
 | Danger Close! | 76658 | [76658-danger-close.json](./76658-danger-close.json) |
 | Danger Course VR | 124231 | [124231-danger-course-vr.json](./124231-danger-course-vr.json) |
 | Danger Crew | 117623 | [117623-danger-crew.json](./117623-danger-crew.json) |
@@ -799,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Legend | 45525 | [45525-dark-legend.json](./45525-dark-legend.json) |
 | Dark Legion | 27574 | [27574-dark-legion.json](./27574-dark-legion.json) |
 | Dark Lessons | 285002 | [285002-dark-lessons.json](./285002-dark-lessons.json) |
+| Dark Life Excalibur | 258115 | [258115-dark-life-excalibur.json](./258115-dark-life-excalibur.json) |
 | Dark Light: Survivor | 317334 | [317334-dark-light-survivor.json](./317334-dark-light-survivor.json) |
 | Dark Lord | 175733 | [175733-dark-lord.json](./175733-dark-lord.json) |
 | Dark Lord | 227272 | [227272-dark-lord.json](./227272-dark-lord.json) |
@@ -3138,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon World Survival | 195201 | [195201-demon-world-survival.json](./195201-demon-world-survival.json) |
 | Demon: Recollect | 286222 | [286222-demon-recollect.json](./286222-demon-recollect.json) |
 | Demon's Bane | 253299 | [253299-demons-bane.json](./253299-demons-bane.json) |
+| Demon's Blood | 258103 | [258103-demons-blood.json](./258103-demons-blood.json) |
 | Demon's Crest | 18067 | [18067-demons-crest.json](./18067-demons-crest.json) |
 | Demon's Crystals | 20402 | [20402-demons-crystals.json](./20402-demons-crystals.json) |
 | Demon's Draw | 235349 | [235349-demons-draw.json](./235349-demons-draw.json) |
@@ -6071,6 +6074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Drop Luggage! | 303483 | [303483-dont-drop-luggage.json](./303483-dont-drop-luggage.json) |
 | Don't Drop The Cake | 323532 | [323532-dont-drop-the-cake.json](./323532-dont-drop-the-cake.json) |
 | Don't Drop the White Ball 2 | 252709 | [252709-dont-drop-the-white-ball-2.json](./252709-dont-drop-the-white-ball-2.json) |
+| Don't Drown | 258098 | [258098-dont-drown.json](./258098-dont-drown.json) |
 | Don't Drown | 342084 | [342084-dont-drown.json](./342084-dont-drown.json) |
 | Don't Eat My Mind You Stupid Monsters! | 176422 | [176422-dont-eat-my-mind-you-stupid-monsters.json](./176422-dont-eat-my-mind-you-stupid-monsters.json) |
 | Don’t Eat the Cashier! | 392432 | [392432-don-t-eat-the-cashier.json](./392432-don-t-eat-the-cashier.json) |
@@ -6497,6 +6501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday | 368044 | [368044-doomsday.json](./368044-doomsday.json) |
 | DoomsDay | 192161 | [192161-doomsday.json](./192161-doomsday.json) |
 | Doomsday Blues | 13604 | [13604-doomsday-blues.json](./13604-doomsday-blues.json) |
+| Doomsday Cave | 258125 | [258125-doomsday-cave.json](./258125-doomsday-cave.json) |
 | Doomsday Cleaner | 320542 | [320542-doomsday-cleaner.json](./320542-doomsday-cleaner.json) |
 | Doomsday Clicker | 58406 | [58406-doomsday-clicker.json](./58406-doomsday-clicker.json) |
 | Doomsday Comet 2 | 175337 | [175337-doomsday-comet-2.json](./175337-doomsday-comet-2.json) |
@@ -7037,6 +7042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draco Space X | 151620 | [151620-draco-space-x.json](./151620-draco-space-x.json) |
 | Draco's Misfortune | 110990 | [110990-dracos-misfortune.json](./110990-dracos-misfortune.json) |
 | DracoFighter | 207527 | [207527-dracofighter.json](./207527-dracofighter.json) |
+| Dracomaton | 258124 | [258124-dracomaton.json](./258124-dracomaton.json) |
 | Draconian Wars | 17324 | [17324-draconian-wars.json](./17324-draconian-wars.json) |
 | Draconic Date | 324889 | [324889-draconic-date.json](./324889-draconic-date.json) |
 | Draconic Echoes: The Ardent War | 126664 | [126664-draconic-echoes-the-ardent-war.json](./126664-draconic-echoes-the-ardent-war.json) |
@@ -8772,6 +8778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dullpain | 216801 | [216801-dullpain.json](./216801-dullpain.json) |
 | Duludubi Star | 273108 | [273108-duludubi-star.json](./273108-duludubi-star.json) |
 | Dum Dum Dinos | 138221 | [138221-dum-dum-dinos.json](./138221-dum-dum-dinos.json) |
+| Dum Game | 258099 | [258099-dum-game.json](./258099-dum-game.json) |
 | Dumb AF | 351806 | [351806-dumb-af.json](./351806-dumb-af.json) |
 | Dumb Castle | 289304 | [289304-dumb-castle.json](./289304-dumb-castle.json) |
 | Dumb Chicken 2: One Way Out | 32895 | [32895-dumb-chicken-2-one-way-out.json](./32895-dumb-chicken-2-one-way-out.json) |
