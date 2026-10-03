@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Photographer 4 | 199567 | [199567-late-photographer-4.json](./199567-late-photographer-4.json) |
 | Late Photographer 5 | 201148 | [201148-late-photographer-5.json](./201148-late-photographer-5.json) |
 | Late Photographer 6 | 228086 | [228086-late-photographer-6.json](./228086-late-photographer-6.json) |
+| Late Stage | 269227 | [269227-late-stage.json](./269227-late-stage.json) |
 | Late Stage Capitalism | 355125 | [355125-late-stage-capitalism.json](./355125-late-stage-capitalism.json) |
 | Late Work | 177487 | [177487-late-work.json](./177487-late-work.json) |
 | Latebus | 177832 | [177832-latebus.json](./177832-latebus.json) |
@@ -1034,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Tour de France: Centenary Edition | 43449 | [43449-le-tour-de-france-centenary-edition.json](./43449-le-tour-de-france-centenary-edition.json) |
 | Le Trésor d'ali Gator | 336174 | [336174-le-tresor-dali-gator.json](./336174-le-tresor-dali-gator.json) |
 | Le Zoo | 346065 | [346065-le-zoo.json](./346065-le-zoo.json) |
+| Lea | 269228 | [269228-lea.json](./269228-lea.json) |
 | Lea | 310112 | [310112-lea.json](./310112-lea.json) |
 | Lead & Blood | 372687 | [372687-lead-and-blood.json](./372687-lead-and-blood.json) |
 | Lead and Gold: Gangs of the Wild West | 2041 | [2041-lead-and-gold-gangs-of-the-wild-west.json](./2041-lead-and-gold-gangs-of-the-wild-west.json) |
@@ -1870,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go Read: An Island Adventure | 122277 | [122277-lets-go-read-an-island-adventure.json](./122277-lets-go-read-an-island-adventure.json) |
 | Let's Go Thingio!: Re:Thingio Side A | 323753 | [323753-lets-go-thingio-re-thingio-side-a.json](./323753-lets-go-thingio-re-thingio-side-a.json) |
 | Let's Go To The Circus | 299150 | [299150-lets-go-to-the-circus.json](./299150-lets-go-to-the-circus.json) |
+| Let's go! Brave | 269184 | [269184-lets-go-brave.json](./269184-lets-go-brave.json) |
 | Let's Go! My Harem Farm | 278149 | [278149-lets-go-my-harem-farm.json](./278149-lets-go-my-harem-farm.json) |
 | Let's Golf! | 67693 | [67693-lets-golf.json](./67693-lets-golf.json) |
 | Let's Jump | 265759 | [265759-lets-jump.json](./265759-lets-jump.json) |
@@ -4153,6 +4156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Judgment: Digital Ultimate Edition | 173164 | [173164-lost-judgment-digital-ultimate-edition.json](./173164-lost-judgment-digital-ultimate-edition.json) |
 | Lost Judgment: School Stories Expansion Pack | 264071 | [264071-lost-judgment-school-stories-expansion-pack.json](./264071-lost-judgment-school-stories-expansion-pack.json) |
 | Lost Key: The Path of Illumination | 318763 | [318763-lost-key-the-path-of-illumination.json](./318763-lost-key-the-path-of-illumination.json) |
+| Lost Kingdom | 269183 | [269183-lost-kingdom.json](./269183-lost-kingdom.json) |
 | Lost Kingdoms | 3981 | [3981-lost-kingdoms.json](./3981-lost-kingdoms.json) |
 | Lost Kittens: Maze Garden | 166696 | [166696-lost-kittens-maze-garden.json](./166696-lost-kittens-maze-garden.json) |
 | Lost Lagoon 2: Cursed and Forgotten | 206651 | [206651-lost-lagoon-2-cursed-and-forgotten.json](./206651-lost-lagoon-2-cursed-and-forgotten.json) |
