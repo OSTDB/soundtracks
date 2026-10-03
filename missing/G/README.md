@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Time Glizzys | 266298 | [266298-game-time-glizzys.json](./266298-game-time-glizzys.json) |
 | Game Title | 139818 | [139818-game-title.json](./139818-game-title.json) |
 | Game Title: Lost Levels | 143097 | [143097-game-title-lost-levels.json](./143097-game-title-lost-levels.json) |
+| Game Tree | 275231 | [275231-game-tree.json](./275231-game-tree.json) |
 | Game Tycoon | 127332 | [127332-game-tycoon.json](./127332-game-tycoon.json) |
 | Game Tycoon 1.5 | 16964 | [16964-game-tycoon-1-5.json](./16964-game-tycoon-1-5.json) |
 | Game Type DX | 208040 | [208040-game-type-dx.json](./208040-game-type-dx.json) |
@@ -3608,6 +3609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotta Protectors: Amazon's Running Diet | 195502 | [195502-gotta-protectors-amazons-running-diet.json](./195502-gotta-protectors-amazons-running-diet.json) |
 | Gotta Protectors: Cart of Darkness | 196318 | [196318-gotta-protectors-cart-of-darkness.json](./196318-gotta-protectors-cart-of-darkness.json) |
 | Gotta Protectors: Cart of Darkness DLC Bundle Packs 1-4 | 223590 | [223590-gotta-protectors-cart-of-darkness-dlc-bundle-packs-1-4.json](./223590-gotta-protectors-cart-of-darkness-dlc-bundle-packs-1-4.json) |
+| GottaGoFast | 275211 | [275211-gottagofast.json](./275211-gottagofast.json) |
 | Götzendiener | 19661 | [19661-gotzendiener.json](./19661-gotzendiener.json) |
 | Goudall | 350616 | [350616-goudall.json](./350616-goudall.json) |
 | Gǒudàn Shénmàoxiǎn: Hěn Shǎ Hěn Tiānzhēn | 153336 | [153336-goudan-shenmaoxian-hen-sha-hen-tianzhen.json](./153336-goudan-shenmaoxian-hen-sha-hen-tianzhen.json) |
@@ -5094,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero World Tour: Definitive Edition | 187448 | [187448-guitar-hero-world-tour-definitive-edition.json](./187448-guitar-hero-world-tour-definitive-edition.json) |
 | Guitar Hero: Avril Lavigne | 310674 | [310674-guitar-hero-avril-lavigne.json](./310674-guitar-hero-avril-lavigne.json) |
 | Guitar Hero: Barões da Pisadinha | 310671 | [310671-guitar-hero-baroes-da-pisadinha.json](./310671-guitar-hero-baroes-da-pisadinha.json) |
+| Guitar Hero: Brazucas | 275229 | [275229-guitar-hero-brazucas.json](./275229-guitar-hero-brazucas.json) |
 | Guitar Hero: On Tour - Decades | 7089 | [7089-guitar-hero-on-tour-decades.json](./7089-guitar-hero-on-tour-decades.json) |
 | Guitar Hero: Sonic VS Mario | 310673 | [310673-guitar-hero-sonic-vs-mario.json](./310673-guitar-hero-sonic-vs-mario.json) |
 | Guitar Hero: Van Halen | 2675 | [2675-guitar-hero-van-halen.json](./2675-guitar-hero-van-halen.json) |
