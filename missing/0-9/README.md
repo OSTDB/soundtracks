@@ -1467,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Trials of Whiskers | 346187 | [346187-9-trials-of-whiskers.json](./346187-9-trials-of-whiskers.json) |
 | 9 Ways: Hentai Harem | 337785 | [337785-9-ways-hentai-harem.json](./337785-9-ways-hentai-harem.json) |
 | 9 Years of Dreaming | 337786 | [337786-9-years-of-dreaming.json](./337786-9-years-of-dreaming.json) |
+| 9-Bit Armies: A Bit Too Far | 273041 | [273041-9-bit-armies-a-bit-too-far.json](./273041-9-bit-armies-a-bit-too-far.json) |
 | 9-nine-: Episode 1 | 114814 | [114814-9-nine-episode-1.json](./114814-9-nine-episode-1.json) |
 | 9-nine-: Episode 4 | 144885 | [144885-9-nine-episode-4.json](./144885-9-nine-episode-4.json) |
 | 9: The Dark Side of Notre Dame - Collector's Edition | 416852 | [416852-9-the-dark-side-of-notre-dame-collectors-edition.json](./416852-9-the-dark-side-of-notre-dame-collectors-edition.json) |
