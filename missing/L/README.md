@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth: Roll of Fate | 309494 | [309494-labyrinth-roll-of-fate.json](./309494-labyrinth-roll-of-fate.json) |
 | Labyrinth: The War on Terror | 129983 | [129983-labyrinth-the-war-on-terror.json](./129983-labyrinth-the-war-on-terror.json) |
 | Labyrinth: The Wizard's Cat | 296486 | [296486-labyrinth-the-wizards-cat.json](./296486-labyrinth-the-wizards-cat.json) |
+| Labyrinthatory | 258639 | [258639-labyrinthatory.json](./258639-labyrinthatory.json) |
 | Labyrinthe | 242259 | [242259-labyrinthe.json](./242259-labyrinthe.json) |
 | LabyrinTheam | 399687 | [399687-labyrintheam.json](./399687-labyrintheam.json) |
 | Labyrinthian Lockdown | 290627 | [290627-labyrinthian-lockdown.json](./290627-labyrinthian-lockdown.json) |
