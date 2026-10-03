@@ -3566,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Mountains | 244201 | [244201-beyond-the-mountains.json](./244201-beyond-the-mountains.json) |
 | Beyond the Phone Screen | 169886 | [169886-beyond-the-phone-screen.json](./169886-beyond-the-phone-screen.json) |
 | Beyond the Pitch | 349512 | [349512-beyond-the-pitch.json](./349512-beyond-the-pitch.json) |
+| Beyond the Plastic Wall | 249901 | [249901-beyond-the-plastic-wall.json](./249901-beyond-the-plastic-wall.json) |
 | Beyond the Portal: Island's Salvation | 296605 | [296605-beyond-the-portal-islands-salvation.json](./296605-beyond-the-portal-islands-salvation.json) |
 | Beyond the Rust | 362895 | [362895-beyond-the-rust.json](./362895-beyond-the-rust.json) |
 | Beyond the Sideline Football | 62223 | [62223-beyond-the-sideline-football.json](./62223-beyond-the-sideline-football.json) |
@@ -4675,6 +4676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackguards 2 | 8335 | [8335-blackguards-2.json](./8335-blackguards-2.json) |
 | Blackguards: Untold Legends | 11105 | [11105-blackguards-untold-legends.json](./11105-blackguards-untold-legends.json) |
 | Blackhaven | 160683 | [160683-blackhaven.json](./160683-blackhaven.json) |
+| Blackheart | 249897 | [249897-blackheart.json](./249897-blackheart.json) |
 | Blackhole on the Road | 269047 | [269047-blackhole-on-the-road.json](./269047-blackhole-on-the-road.json) |
 | Blackhole Simulator | 333385 | [333385-blackhole-simulator.json](./333385-blackhole-simulator.json) |
 | Blackhole: Challenge Vault | 170521 | [170521-blackhole-challenge-vault.json](./170521-blackhole-challenge-vault.json) |
@@ -7577,6 +7579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bread Bun World | 385261 | [385261-bread-bun-world.json](./385261-bread-bun-world.json) |
 | Bread Fish Clicker | 306637 | [306637-bread-fish-clicker.json](./306637-bread-fish-clicker.json) |
 | Bread Kittens | 159352 | [159352-bread-kittens.json](./159352-bread-kittens.json) |
+| Bread or Dead | 249934 | [249934-bread-or-dead.json](./249934-bread-or-dead.json) |
 | Breadbox | 321736 | [321736-breadbox.json](./321736-breadbox.json) |
 | Breadbox Game Pack | 138711 | [138711-breadbox-game-pack.json](./138711-breadbox-game-pack.json) |
 | Breadbulls | 351264 | [351264-breadbulls.json](./351264-breadbulls.json) |
@@ -9017,6 +9020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 2015 HD: New York Route | 97148 | [97148-bus-simulator-2015-hd-new-york-route.json](./97148-bus-simulator-2015-hd-new-york-route.json) |
 | Bus Simulator 2023 | 227959 | [227959-bus-simulator-2023.json](./227959-bus-simulator-2023.json) |
 | Bus Simulator 21: MAN Bus Pack | 213951 | [213951-bus-simulator-21-man-bus-pack.json](./213951-bus-simulator-21-man-bus-pack.json) |
+| Bus Simulator 21: Next Stop - Ebusco Bus Pack | 249892 | [249892-bus-simulator-21-next-stop-ebusco-bus-pack.json](./249892-bus-simulator-21-next-stop-ebusco-bus-pack.json) |
 | Bus Simulator 21: Next Stop - Halloween Skin Pack | 263040 | [263040-bus-simulator-21-next-stop-halloween-skin-pack.json](./263040-bus-simulator-21-next-stop-halloween-skin-pack.json) |
 | Bus Simulator 21: Next Stop - IVECO BUS Bus Pack | 250414 | [250414-bus-simulator-21-next-stop-iveco-bus-bus-pack.json](./250414-bus-simulator-21-next-stop-iveco-bus-bus-pack.json) |
 | Bus Simulator 21: Next Stop - MAN Bus Pack | 250415 | [250415-bus-simulator-21-next-stop-man-bus-pack.json](./250415-bus-simulator-21-next-stop-man-bus-pack.json) |
