@@ -4899,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Freezer | 267644 | [267644-metal-freezer.json](./267644-metal-freezer.json) |
 | Metal Fury 3000 | 124179 | [124179-metal-fury-3000.json](./124179-metal-fury-3000.json) |
 | Metal Gear | 344546 | [344546-metal-gear.json](./344546-metal-gear.json) |
+| Metal Gear & Metal Gear 2: Solid Snake | 254684 | [254684-metal-gear-and-metal-gear-2-solid-snake.json](./254684-metal-gear-and-metal-gear-2-solid-snake.json) |
 | Metal Gear Acid | 12211 | [12211-metal-gear-acid.json](./12211-metal-gear-acid.json) |
 | Metal Gear Acid 2 | 9886 | [9886-metal-gear-acid-2.json](./9886-metal-gear-acid-2.json) |
 | Metal Gear GB | 181868 | [181868-metal-gear-gb.json](./181868-metal-gear-gb.json) |
@@ -7062,6 +7063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixx Island: Remix Plus - Happy Edition | 287124 | [287124-mixx-island-remix-plus-happy-edition.json](./287124-mixx-island-remix-plus-happy-edition.json) |
 | Mixx Island: Remix Plus - Magnificent Edition | 294830 | [294830-mixx-island-remix-plus-magnificent-edition.json](./294830-mixx-island-remix-plus-magnificent-edition.json) |
 | Mixx Island: Remix Plus - Superb Edition | 298573 | [298573-mixx-island-remix-plus-superb-edition.json](./298573-mixx-island-remix-plus-superb-edition.json) |
+| Mixx Island: Remix Plus - Ultimate Edition | 254677 | [254677-mixx-island-remix-plus-ultimate-edition.json](./254677-mixx-island-remix-plus-ultimate-edition.json) |
 | Mixx Island: Remix Plus - Ultra Definitive | 316274 | [316274-mixx-island-remix-plus-ultra-definitive.json](./316274-mixx-island-remix-plus-ultra-definitive.json) |
 | Mixx Island: Remix Plus - Ultra Deluxe | 300935 | [300935-mixx-island-remix-plus-ultra-deluxe.json](./300935-mixx-island-remix-plus-ultra-deluxe.json) |
 | Mixx Island: Remix Plus - Ultra Legendary | 324449 | [324449-mixx-island-remix-plus-ultra-legendary.json](./324449-mixx-island-remix-plus-ultra-legendary.json) |
@@ -8906,6 +8908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: NY Edition | 277895 | [277895-moto-rush-gt-ny-edition.json](./277895-moto-rush-gt-ny-edition.json) |
 | Moto Rush GT: Platinium Edition | 275048 | [275048-moto-rush-gt-platinium-edition.json](./275048-moto-rush-gt-platinium-edition.json) |
 | Moto Rush GT: Prime Edition | 271503 | [271503-moto-rush-gt-prime-edition.json](./271503-moto-rush-gt-prime-edition.json) |
+| Moto Rush GT: Silver Edition | 254688 | [254688-moto-rush-gt-silver-edition.json](./254688-moto-rush-gt-silver-edition.json) |
 | Moto Rush GT: Ultra Edition | 332512 | [332512-moto-rush-gt-ultra-edition.json](./332512-moto-rush-gt-ultra-edition.json) |
 | Moto Trophy VR | 226147 | [226147-moto-trophy-vr.json](./226147-moto-trophy-vr.json) |
 | Moto Wheelie | 257469 | [257469-moto-wheelie.json](./257469-moto-wheelie.json) |
