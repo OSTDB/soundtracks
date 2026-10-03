@@ -1594,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scissors and Pink Angels | 345616 | [345616-scissors-and-pink-angels.json](./345616-scissors-and-pink-angels.json) |
 | Sciware Defense | 245841 | [245841-sciware-defense.json](./245841-sciware-defense.json) |
 | Sclash: Joystick | 311713 | [311713-sclash-joystick.json](./311713-sclash-joystick.json) |
+| Sclash: Pixels | 276417 | [276417-sclash-pixels.json](./276417-sclash-pixels.json) |
 | Sclash: Sakura | 309999 | [309999-sclash-sakura.json](./309999-sclash-sakura.json) |
 | Scoober Splat! | 151165 | [151165-scoober-splat.json](./151165-scoober-splat.json) |
 | Scooby Doc 4: The Destroyer | 356757 | [356757-scooby-doc-4-the-destroyer.json](./356757-scooby-doc-4-the-destroyer.json) |
@@ -5843,6 +5844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Floors Under | 296659 | [296659-six-floors-under.json](./296659-six-floors-under.json) |
 | Six in One Translator | 68056 | [68056-six-in-one-translator.json](./68056-six-in-one-translator.json) |
 | Six inches deep in mud | 278466 | [278466-six-inches-deep-in-mud.json](./278466-six-inches-deep-in-mud.json) |
+| Six Keys | 276394 | [276394-six-keys.json](./276394-six-keys.json) |
 | Six Match | 82156 | [82156-six-match.json](./82156-six-match.json) |
 | Six Micro Stories | 55837 | [55837-six-micro-stories.json](./55837-six-micro-stories.json) |
 | Six Nights in Frenski's Basement | 388349 | [388349-six-nights-in-frenskis-basement.json](./388349-six-nights-in-frenskis-basement.json) |
@@ -6402,6 +6404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyweaver | 123039 | [123039-skyweaver.json](./123039-skyweaver.json) |
 | Skywire | 116128 | [116128-skywire.json](./116128-skywire.json) |
 | Skywire 2 | 280333 | [280333-skywire-2.json](./280333-skywire-2.json) |
+| Skywire VIP | 276425 | [276425-skywire-vip.json](./276425-skywire-vip.json) |
 | Skyworld: Kingdom Brawl - Fresh Meat | 296040 | [296040-skyworld-kingdom-brawl-fresh-meat.json](./296040-skyworld-kingdom-brawl-fresh-meat.json) |
 | Skywriter | 108073 | [108073-skywriter.json](./108073-skywriter.json) |
 | SL The Game | 320274 | [320274-sl-the-game.json](./320274-sl-the-game.json) |
@@ -14780,6 +14783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide Express | 40963 | [40963-suicide-express.json](./40963-suicide-express.json) |
 | Suicide For Him | 153966 | [153966-suicide-for-him.json](./153966-suicide-for-him.json) |
 | Suicide Guy Collection | 118151 | [118151-suicide-guy-collection.json](./118151-suicide-guy-collection.json) |
+| Suicide Guy VR: Deluxe | 276408 | [276408-suicide-guy-vr-deluxe.json](./276408-suicide-guy-vr-deluxe.json) |
 | Suicide Guy: Sleepin' Deeply | 102917 | [102917-suicide-guy-sleepin-deeply.json](./102917-suicide-guy-sleepin-deeply.json) |
 | Suicide Hero | 244279 | [244279-suicide-hero.json](./244279-suicide-hero.json) |
 | Suicide Mission | 18566 | [18566-suicide-mission.json](./18566-suicide-mission.json) |
