@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamasa Digi World SP | 61324 | [61324-yamasa-digi-world-sp.json](./61324-yamasa-digi-world-sp.json) |
 | Yamasa Digi World: Tetra Master | 61326 | [61326-yamasa-digi-world-tetra-master.json](./61326-yamasa-digi-world-tetra-master.json) |
 | Yamasen-Chan's Hermit Home Designer | 142336 | [142336-yamasen-chans-hermit-home-designer.json](./142336-yamasen-chans-hermit-home-designer.json) |
+| Yamb | 252306 | [252306-yamb.json](./252306-yamb.json) |
 | Yami Fuku Natsu: Teito Monogatari Futatabi | 147956 | [147956-yami-fuku-natsu-teito-monogatari-futatabi.json](./147956-yami-fuku-natsu-teito-monogatari-futatabi.json) |
 | Yami Mura | 392945 | [392945-yami-mura.json](./392945-yami-mura.json) |
 | Yami no Ketsuzoku: Kanketsu-hen | 386392 | [386392-yami-no-ketsuzoku-kanketsu-hen.json](./386392-yami-no-ketsuzoku-kanketsu-hen.json) |
