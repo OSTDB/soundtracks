@@ -5851,6 +5851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collectible Cars Shop Simulator | 338929 | [338929-collectible-cars-shop-simulator.json](./338929-collectible-cars-shop-simulator.json) |
 | Collection of Mana | 27916 | [27916-collection-of-mana.json](./27916-collection-of-mana.json) |
 | Collection of Most Awful Things that Could Ever Happen on St. Valentine's Day | 319985 | [319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json](./319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json) |
+| Collection Pocket | 228493 | [228493-collection-pocket.json](./228493-collection-pocket.json) |
 | Collective Unconscious | 301431 | [301431-collective-unconscious.json](./301431-collective-unconscious.json) |
 | Collector | 130936 | [130936-collector.json](./130936-collector.json) |
 | Collector D | 299822 | [299822-collector-d.json](./299822-collector-d.json) |
@@ -9386,6 +9387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crysis Trilogy | 52852 | [52852-crysis-trilogy.json](./52852-crysis-trilogy.json) |
 | Crysis Warhead | 336 | [336-crysis-warhead.json](./336-crysis-warhead.json) |
 | Crysis Wreckage | 51292 | [51292-crysis-wreckage.json](./51292-crysis-wreckage.json) |
+| Crysmalia: Dawn of Darkness | 228485 | [228485-crysmalia-dawn-of-darkness.json](./228485-crysmalia-dawn-of-darkness.json) |
 | Cryspace | 240746 | [240746-cryspace.json](./240746-cryspace.json) |
 | Crystal Breaker | 284978 | [284978-crystal-breaker.json](./284978-crystal-breaker.json) |
 | Crystal Calamity | 350496 | [350496-crystal-calamity.json](./350496-crystal-calamity.json) |
@@ -10293,6 +10295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybercar | 392452 | [392452-cybercar.json](./392452-cybercar.json) |
 | Cyberchase: Mission Motherboard | 143086 | [143086-cyberchase-mission-motherboard.json](./143086-cyberchase-mission-motherboard.json) |
 | Cyberchase: The Quest 1 - Mission Motherboard | 140627 | [140627-cyberchase-the-quest-1-mission-motherboard.json](./140627-cyberchase-the-quest-1-mission-motherboard.json) |
+| CyberCity | 228595 | [228595-cybercity.json](./228595-cybercity.json) |
 | Cybercity: Sex Saga | 367013 | [367013-cybercity-sex-saga.json](./367013-cybercity-sex-saga.json) |
 | CyberClub-2077 | 72342 | [72342-cyberclub-2077.json](./72342-cyberclub-2077.json) |
 | Cybercon | 15923 | [15923-cybercon.json](./15923-cybercon.json) |
