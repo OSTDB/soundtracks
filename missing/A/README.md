@@ -5834,6 +5834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Satan of Saturn | 416064 | [416064-arcade-archives-satan-of-saturn.json](./416064-arcade-archives-satan-of-saturn.json) |
 | Arcade Archives: Scrambled Egg | 364072 | [364072-arcade-archives-scrambled-egg.json](./364072-arcade-archives-scrambled-egg.json) |
 | Arcade Archives: Sea Fighter Poseidon | 154981 | [154981-arcade-archives-sea-fighter-poseidon.json](./154981-arcade-archives-sea-fighter-poseidon.json) |
+| Arcade Archives: Shao-Lin's Road | 275809 | [275809-arcade-archives-shao-lins-road.json](./275809-arcade-archives-shao-lins-road.json) |
 | Arcade Archives: Shingen Samurai-Fighter | 153832 | [153832-arcade-archives-shingen-samurai-fighter.json](./153832-arcade-archives-shingen-samurai-fighter.json) |
 | Arcade Archives: Silk Worm | 284928 | [284928-arcade-archives-silk-worm.json](./284928-arcade-archives-silk-worm.json) |
 | Arcade Archives: Sky Kid DX | 240220 | [240220-arcade-archives-sky-kid-dx.json](./240220-arcade-archives-sky-kid-dx.json) |
