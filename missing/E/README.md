@@ -1921,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemy Mind | 17157 | [17157-enemy-mind.json](./17157-enemy-mind.json) |
 | Enemy of the State | 204545 | [204545-enemy-of-the-state.json](./204545-enemy-of-the-state.json) |
 | Enemy On the Tail! | 320518 | [320518-enemy-on-the-tail.json](./320518-enemy-on-the-tail.json) |
+| Enemy Territory Fortress | 273010 | [273010-enemy-territory-fortress.json](./273010-enemy-territory-fortress.json) |
 | Enen Angel | 107641 | [107641-enen-angel.json](./107641-enen-angel.json) |
 | Enenra | 182458 | [182458-enenra.json](./182458-enenra.json) |
 | Ener-G: Modern Dance | 201272 | [201272-ener-g-modern-dance.json](./201272-ener-g-modern-dance.json) |
