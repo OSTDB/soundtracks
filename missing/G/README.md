@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of Fear | 116451 | [116451-garden-of-fear.json](./116451-garden-of-fear.json) |
 | Garden of Mooj | 118061 | [118061-garden-of-mooj.json](./118061-garden-of-mooj.json) |
 | Garden of Pets | 233004 | [233004-garden-of-pets.json](./233004-garden-of-pets.json) |
+| Garden of Roses: Summerset | 244917 | [244917-garden-of-roses-summerset.json](./244917-garden-of-roses-summerset.json) |
 | Garden of Seif: Chronicles of an Assassin | 195081 | [195081-garden-of-seif-chronicles-of-an-assassin.json](./195081-garden-of-seif-chronicles-of-an-assassin.json) |
 | Garden of Seif: Curse of Gravehollow Peaks | 209456 | [209456-garden-of-seif-curse-of-gravehollow-peaks.json](./209456-garden-of-seif-curse-of-gravehollow-peaks.json) |
 | Garden of the Sea | 336717 | [336717-garden-of-the-sea.json](./336717-garden-of-the-sea.json) |
@@ -3321,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Tour | 264085 | [264085-golf-tour.json](./264085-golf-tour.json) |
 | Golf Up | 324977 | [324977-golf-up.json](./324977-golf-up.json) |
 | Golf Up Tropical | 337990 | [337990-golf-up-tropical.json](./337990-golf-up-tropical.json) |
+| Golf vs. Zombies | 244852 | [244852-golf-vs-zombies.json](./244852-golf-vs-zombies.json) |
 | Golf vs. Zombies | 310526 | [310526-golf-vs-zombies.json](./310526-golf-vs-zombies.json) |
 | Golf with the Lads | 250881 | [250881-golf-with-the-lads.json](./250881-golf-with-the-lads.json) |
 | Golf With Your Friends 2 | 325850 | [325850-golf-with-your-friends-2.json](./325850-golf-with-your-friends-2.json) |
@@ -4300,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Adventures Lost Mountains | 54060 | [54060-great-adventures-lost-mountains.json](./54060-great-adventures-lost-mountains.json) |
 | Great Adventures: Castle | 167280 | [167280-great-adventures-castle.json](./167280-great-adventures-castle.json) |
 | Great Adventures: Pirate Ship | 63892 | [63892-great-adventures-pirate-ship.json](./63892-great-adventures-pirate-ship.json) |
+| Great Again | 244853 | [244853-great-again.json](./244853-great-again.json) |
 | Great Again: 3D Shooter | 330230 | [330230-great-again-3d-shooter.json](./330230-great-again-3d-shooter.json) |
 | Great Alhcemist | 129227 | [129227-great-alhcemist.json](./129227-great-alhcemist.json) |
 | Great American Golf | 45926 | [45926-great-american-golf.json](./45926-great-american-golf.json) |
