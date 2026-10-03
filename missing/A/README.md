@@ -3226,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alienzix: CyberNet | 330938 | [330938-alienzix-cybernet.json](./330938-alienzix-cybernet.json) |
 | Aliex | 14244 | [14244-aliex.json](./14244-aliex.json) |
 | ALife | 351765 | [351765-alife.json](./351765-alife.json) |
+| Alight in the Dark | 235814 | [235814-alight-in-the-dark.json](./235814-alight-in-the-dark.json) |
 | Alight: Lunar Survival | 215780 | [215780-alight-lunar-survival.json](./215780-alight-lunar-survival.json) |
 | Align 12 | 242662 | [242662-align-12.json](./242662-align-12.json) |
 | Align 4 Big | 355147 | [355147-align-4-big.json](./355147-align-4-big.json) |
