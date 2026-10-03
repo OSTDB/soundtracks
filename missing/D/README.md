@@ -5650,10 +5650,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Monster Invasion - The Keys of Time | 301939 | [301939-doctor-who-monster-invasion-the-keys-of-time.json](./301939-doctor-who-monster-invasion-the-keys-of-time.json) |
 | Doctor Who: Monster Invasion - Ultimate Match-up | 301936 | [301936-doctor-who-monster-invasion-ultimate-match-up.json](./301936-doctor-who-monster-invasion-ultimate-match-up.json) |
 | Doctor Who: Monster Invasion - Vortex Run | 301938 | [301938-doctor-who-monster-invasion-vortex-run.json](./301938-doctor-who-monster-invasion-vortex-run.json) |
+| Doctor Who: Ood Escape | 250480 | [250480-doctor-who-ood-escape.json](./250480-doctor-who-ood-escape.json) |
 | Doctor Who: Say What You See | 301934 | [301934-doctor-who-say-what-you-see.json](./301934-doctor-who-say-what-you-see.json) |
+| Doctor Who: Sonic De-Cloaker | 250486 | [250486-doctor-who-sonic-de-cloaker.json](./250486-doctor-who-sonic-de-cloaker.json) |
 | Doctor Who: The Adventure Games | 10187 | [10187-doctor-who-the-adventure-games.json](./10187-doctor-who-the-adventure-games.json) |
 | Doctor Who: The Adventure Games - Episode 1: City of the Daleks | 26655 | [26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json](./26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json) |
 | Doctor Who: The Adventure Games - Episode 5: The Gunpowder Plot | 65463 | [65463-doctor-who-the-adventure-games-episode-5-the-gunpowder-plot.json](./65463-doctor-who-the-adventure-games-episode-5-the-gunpowder-plot.json) |
+| Doctor Who: The Doctor and the Dalek | 250508 | [250508-doctor-who-the-doctor-and-the-dalek.json](./250508-doctor-who-the-doctor-and-the-dalek.json) |
 | Doctor Who: The Edge of Reality - Deluxe Edition | 189946 | [189946-doctor-who-the-edge-of-reality-deluxe-edition.json](./189946-doctor-who-the-edge-of-reality-deluxe-edition.json) |
 | Doctor Who: The Edge of Reality - Digital Deluxe Edition | 237903 | [237903-doctor-who-the-edge-of-reality-digital-deluxe-edition.json](./237903-doctor-who-the-edge-of-reality-digital-deluxe-edition.json) |
 | Doctor Who: The Edge of Time | 118784 | [118784-doctor-who-the-edge-of-time.json](./118784-doctor-who-the-edge-of-time.json) |
@@ -6126,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Go in the woods | 285443 | [285443-dont-go-in-the-woods.json](./285443-dont-go-in-the-woods.json) |
 | Don't Go Live | 399210 | [399210-dont-go-live.json](./399210-dont-go-live.json) |
 | Don't Go Up There | 387546 | [387546-dont-go-up-there.json](./387546-dont-go-up-there.json) |
+| Don't Go, Pikachu! | 250496 | [250496-dont-go-pikachu.json](./250496-dont-go-pikachu.json) |
 | Don't Grind | 96894 | [96894-dont-grind.json](./96894-dont-grind.json) |
 | Don't Hate My Music Taste | 167818 | [167818-dont-hate-my-music-taste.json](./167818-dont-hate-my-music-taste.json) |
 | Don't Hide | 215907 | [215907-dont-hide.json](./215907-dont-hide.json) |
