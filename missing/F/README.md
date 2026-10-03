@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faith of Fate | 119668 | [119668-faith-of-fate.json](./119668-faith-of-fate.json) |
 | Faith of Life: Survive Edition | 340052 | [340052-faith-of-life-survive-edition.json](./340052-faith-of-life-survive-edition.json) |
 | Faith of the Guardians | 65743 | [65743-faith-of-the-guardians.json](./65743-faith-of-the-guardians.json) |
+| Faith Update v1.4: Good Christian Boy | 275258 | [275258-faith-update-v1-4-good-christian-boy.json](./275258-faith-update-v1-4-good-christian-boy.json) |
 | Faith: The Unholy Trinity | 125171 | [125171-faith-the-unholy-trinity.json](./125171-faith-the-unholy-trinity.json) |
 | FaithEater | 301372 | [301372-faitheater.json](./301372-faitheater.json) |
 | Faithfall | 401662 | [401662-faithfall.json](./401662-faithfall.json) |
@@ -771,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo - Zenpen | 41415 | [41415-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-zenpen.json](./41415-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-zenpen.json) |
 | Famicom Tantei Club: Kieta Koukeisha - Kouhen | 41381 | [41381-famicom-tantei-club-kieta-koukeisha-kouhen.json](./41381-famicom-tantei-club-kieta-koukeisha-kouhen.json) |
 | Famicom Tantei Club: Kieta Koukeisha - Zenpen | 41380 | [41380-famicom-tantei-club-kieta-koukeisha-zenpen.json](./41380-famicom-tantei-club-kieta-koukeisha-zenpen.json) |
+| Famicom Tantei Club: Seinaru Yoru ni | 275263 | [275263-famicom-tantei-club-seinaru-yoru-ni.json](./275263-famicom-tantei-club-seinaru-yoru-ni.json) |
 | Famicom Top Management | 48712 | [48712-famicom-top-management.json](./48712-famicom-top-management.json) |
 | Famicom Wars | 72131 | [72131-famicom-wars.json](./72131-famicom-wars.json) |
 | Famicom Zenkoku Issei Quiz | 328605 | [328605-famicom-zenkoku-issei-quiz.json](./328605-famicom-zenkoku-issei-quiz.json) |
@@ -3419,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's 4 | 312230 | [312230-five-nights-at-freddys-4.json](./312230-five-nights-at-freddys-4.json) |
 | Five Nights at Freddy's 4: Halloween Edition | 226410 | [226410-five-nights-at-freddys-4-halloween-edition.json](./226410-five-nights-at-freddys-4-halloween-edition.json) |
 | Five Nights at Freddy's 5 | 271717 | [271717-five-nights-at-freddys-5.json](./271717-five-nights-at-freddys-5.json) |
+| Five Nights at Freddy’s Abandoning | 275253 | [275253-five-nights-at-freddy-s-abandoning.json](./275253-five-nights-at-freddy-s-abandoning.json) |
 | Five Nights at Freddy's AR Lite | 273955 | [273955-five-nights-at-freddys-ar-lite.json](./273955-five-nights-at-freddys-ar-lite.json) |
 | Five Nights at Freddy's AR: Special Delivery - Dark Circus: Encore! | 206706 | [206706-five-nights-at-freddys-ar-special-delivery-dark-circus-encore.json](./206706-five-nights-at-freddys-ar-special-delivery-dark-circus-encore.json) |
 | Five Nights at Freddy's Area 51 | 270670 | [270670-five-nights-at-freddys-area-51.json](./270670-five-nights-at-freddys-area-51.json) |
@@ -5865,6 +5868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': vs. Reggie the Rat | 198491 | [198491-friday-night-funkin-vs-reggie-the-rat.json](./198491-friday-night-funkin-vs-reggie-the-rat.json) |
 | Friday Night Funkin': VS. Starlight Glimmer & Trixie | 202416 | [202416-friday-night-funkin-vs-starlight-glimmer-and-trixie.json](./202416-friday-night-funkin-vs-starlight-glimmer-and-trixie.json) |
 | Friday Night Funkin': vs. Zardy | 329149 | [329149-friday-night-funkin-vs-zardy.json](./329149-friday-night-funkin-vs-zardy.json) |
+| Friday Night Funkin': vs.Tails Doll | 275262 | [275262-friday-night-funkin-vs-tails-doll.json](./275262-friday-night-funkin-vs-tails-doll.json) |
 | Friday Night Funkin': Wednesday's Infidelity | 325668 | [325668-friday-night-funkin-wednesdays-infidelity.json](./325668-friday-night-funkin-wednesdays-infidelity.json) |
 | Friday Night Pikmin | 308375 | [308375-friday-night-pikmin.json](./308375-friday-night-pikmin.json) |
 | Friday Night Pixtor | 343820 | [343820-friday-night-pixtor.json](./343820-friday-night-pixtor.json) |
