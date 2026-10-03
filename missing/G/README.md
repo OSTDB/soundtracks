@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Soup | 112966 | [112966-game-soup.json](./112966-game-soup.json) |
 | Game Stock Car 2013 | 62132 | [62132-game-stock-car-2013.json](./62132-game-stock-car-2013.json) |
 | Game Store Chronicle | 359047 | [359047-game-store-chronicle.json](./359047-game-store-chronicle.json) |
+| Game Store Simulator | 266999 | [266999-game-store-simulator.json](./266999-game-store-simulator.json) |
 | Game Store Simulator | 346695 | [346695-game-store-simulator.json](./346695-game-store-simulator.json) |
 | Game Studio Simulator | 115594 | [115594-game-studio-simulator.json](./115594-game-studio-simulator.json) |
 | Game Tengoku: Cruisin Mix | 52187 | [52187-game-tengoku-cruisin-mix.json](./52187-game-tengoku-cruisin-mix.json) |
@@ -1002,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garmm Adventurer Vol.1 | 276259 | [276259-garmm-adventurer-vol-1.json](./276259-garmm-adventurer-vol-1.json) |
 | Garn47 | 300792 | [300792-garn47.json](./300792-garn47.json) |
 | Garnet Cradle | 221412 | [221412-garnet-cradle.json](./221412-garnet-cradle.json) |
+| Garnouille Must Live! | 267010 | [267010-garnouille-must-live.json](./267010-garnouille-must-live.json) |
 | Garou Densetsu Battle Archive 2 | 73876 | [73876-garou-densetsu-battle-archive-2.json](./73876-garou-densetsu-battle-archive-2.json) |
 | Garou Sliding Simulator | 377715 | [377715-garou-sliding-simulator.json](./377715-garou-sliding-simulator.json) |
 | Garou: Mark of the Wolves | 10605 | [10605-garou-mark-of-the-wolves.json](./10605-garou-mark-of-the-wolves.json) |
