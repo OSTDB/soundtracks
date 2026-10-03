@@ -2968,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firebird - The Unfinished | 99215 | [99215-firebird-the-unfinished.json](./99215-firebird-the-unfinished.json) |
 | Firebird: Tale of the Stolen Light | 381017 | [381017-firebird-tale-of-the-stolen-light.json](./381017-firebird-tale-of-the-stolen-light.json) |
 | Fireblaster | 69256 | [69256-fireblaster.json](./69256-fireblaster.json) |
+| Firebloo Girls | 262559 | [262559-firebloo-girls.json](./262559-firebloo-girls.json) |
 | Fireboy & Watergirl 2: The Forest Temple | 246976 | [246976-fireboy-and-watergirl-2-the-forest-temple.json](./246976-fireboy-and-watergirl-2-the-forest-temple.json) |
 | Fireboy & Watergirl 3: The Ice Temple | 122938 | [122938-fireboy-and-watergirl-3-the-ice-temple.json](./122938-fireboy-and-watergirl-3-the-ice-temple.json) |
 | Fireboy & Watergirl 4: The Crystal Temple | 122936 | [122936-fireboy-and-watergirl-4-the-crystal-temple.json](./122936-fireboy-and-watergirl-4-the-crystal-temple.json) |
@@ -4771,6 +4772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest 3 | 381236 | [381236-forest-3.json](./381236-forest-3.json) |
 | Forest 6174 | 410354 | [410354-forest-6174.json](./410354-forest-6174.json) |
 | Forest Adventure | 195727 | [195727-forest-adventure.json](./195727-forest-adventure.json) |
+| Forest Adventure | 262578 | [262578-forest-adventure.json](./262578-forest-adventure.json) |
 | Forest Asylum 2 | 352359 | [352359-forest-asylum-2.json](./352359-forest-asylum-2.json) |
 | Forest at World's End | 25917 | [25917-forest-at-worlds-end.json](./25917-forest-at-worlds-end.json) |
 | Forest Battle | 166732 | [166732-forest-battle.json](./166732-forest-battle.json) |
@@ -5658,6 +5660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Creatures | 209565 | [209565-freaky-creatures.json](./209565-freaky-creatures.json) |
 | Freaky Fish DX | 185624 | [185624-freaky-fish-dx.json](./185624-freaky-fish-dx.json) |
 | Freaky Fun | 386914 | [386914-freaky-fun.json](./386914-freaky-fun.json) |
+| Freaky Panties | 262601 | [262601-freaky-panties.json](./262601-freaky-panties.json) |
 | Freaky Racing | 233112 | [233112-freaky-racing.json](./233112-freaky-racing.json) |
 | Freaky Trip: Amazing Edition | 308803 | [308803-freaky-trip-amazing-edition.json](./308803-freaky-trip-amazing-edition.json) |
 | Freaky Trip: Camp Pack | 324414 | [324414-freaky-trip-camp-pack.json](./324414-freaky-trip-camp-pack.json) |
