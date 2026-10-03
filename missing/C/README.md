@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Boy | 217021 | [217021-candy-boy.json](./217021-candy-boy.json) |
 | Candy Brain | 393796 | [393796-candy-brain.json](./393796-candy-brain.json) |
 | Candy Chefs | 104775 | [104775-candy-chefs.json](./104775-candy-chefs.json) |
+| Candy choppers | 268636 | [268636-candy-choppers.json](./268636-candy-choppers.json) |
 | Candy Country: Sweet Wonder | 338003 | [338003-candy-country-sweet-wonder.json](./338003-candy-country-sweet-wonder.json) |
 | Candy Coven | 177943 | [177943-candy-coven.json](./177943-candy-coven.json) |
 | Candy Creeps | 227814 | [227814-candy-creeps.json](./227814-candy-creeps.json) |
@@ -3009,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chart1647 | 242654 | [242654-chart1647.json](./242654-chart1647.json) |
 | Charta Dungeon: Ambidextrous | 344514 | [344514-charta-dungeon-ambidextrous.json](./344514-charta-dungeon-ambidextrous.json) |
 | Charterstone: Digital Edition | 117869 | [117869-charterstone-digital-edition.json](./117869-charterstone-digital-edition.json) |
+| Chartreuse Star Adventure | 268671 | [268671-chartreuse-star-adventure.json](./268671-chartreuse-star-adventure.json) |
 | Chase | 195500 | [195500-chase.json](./195500-chase.json) |
 | Chase | 253998 | [253998-chase.json](./253998-chase.json) |
 | Chase | 286775 | [286775-chase.json](./286775-chase.json) |
@@ -6852,6 +6854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Continuity | 380088 | [380088-continuity.json](./380088-continuity.json) |
 | Continuum | 229019 | [229019-continuum.json](./229019-continuum.json) |
 | Continuum | 243255 | [243255-continuum.json](./243255-continuum.json) |
+| Continuum | 268676 | [268676-continuum.json](./268676-continuum.json) |
 | Continuum | 304566 | [304566-continuum.json](./304566-continuum.json) |
 | Continuum 01 | 265417 | [265417-continuum-01.json](./265417-continuum-01.json) |
 | ContiTireRace 2: The Continental Racing Game | 261351 | [261351-contitirerace-2-the-continental-racing-game.json](./261351-contitirerace-2-the-continental-racing-game.json) |
