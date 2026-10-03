@@ -8770,6 +8770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dudes with Attitude | 48063 | [48063-dudes-with-attitude.json](./48063-dudes-with-attitude.json) |
 | Dudu Monkey | 165077 | [165077-dudu-monkey.json](./165077-dudu-monkey.json) |
 | Due | 327285 | [327285-due.json](./327285-due.json) |
+| Due Date | 240367 | [240367-due-date.json](./240367-due-date.json) |
 | Due to Rain | 309343 | [309343-due-to-rain.json](./309343-due-to-rain.json) |
 | Duel | 181915 | [181915-duel.json](./181915-duel.json) |
 | Duel Arms | 100744 | [100744-duel-arms.json](./100744-duel-arms.json) |
