@@ -6582,6 +6582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boost | 29832 | [29832-boost.json](./29832-boost.json) |
 | Boost 2 | 79375 | [79375-boost-2.json](./79375-boost-2.json) |
 | Boost Beast | 51518 | [51518-boost-beast.json](./51518-boost-beast.json) |
+| Boost Beginner | 273035 | [273035-boost-beginner.json](./273035-boost-beginner.json) |
 | Boost Race | 105893 | [105893-boost-race.json](./105893-boost-race.json) |
 | Boosted | 264053 | [264053-boosted.json](./264053-boosted.json) |
 | Boosted Survivors | 314666 | [314666-boosted-survivors.json](./314666-boosted-survivors.json) |
