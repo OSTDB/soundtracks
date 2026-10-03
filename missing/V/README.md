@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Variable Barricade | 69345 | [69345-variable-barricade.json](./69345-variable-barricade.json) |
 | Variables | 118581 | [118581-variables.json](./118581-variables.json) |
 | Variables 2 | 169399 | [169399-variables-2.json](./169399-variables-2.json) |
+| Variant 22 | 234674 | [234674-variant-22.json](./234674-variant-22.json) |
 | Variant: Limits | 69317 | [69317-variant-limits.json](./69317-variant-limits.json) |
 | Varicella | 9519 | [9519-varicella.json](./9519-varicella.json) |
 | Varion | 87960 | [87960-varion.json](./87960-varion.json) |
