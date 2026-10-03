@@ -1781,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms of Marazia: Classic | 107199 | [107199-kingdoms-of-marazia-classic.json](./107199-kingdoms-of-marazia-classic.json) |
 | Kingdoms of Merge & Magic | 231926 | [231926-kingdoms-of-merge-and-magic.json](./231926-kingdoms-of-merge-and-magic.json) |
 | Kingdoms of the Dump | 106105 | [106105-kingdoms-of-the-dump.json](./106105-kingdoms-of-the-dump.json) |
+| Kingdoms Rise and Fall | 260326 | [260326-kingdoms-rise-and-fall.json](./260326-kingdoms-rise-and-fall.json) |
 | Kingdoms vs. Zombies | 406846 | [406846-kingdoms-vs-zombies.json](./406846-kingdoms-vs-zombies.json) |
 | Kingdoms: Merge & Build | 291982 | [291982-kingdoms-merge-and-build.json](./291982-kingdoms-merge-and-build.json) |
 | Kingdoms: The Crown | 100212 | [100212-kingdoms-the-crown.json](./100212-kingdoms-the-crown.json) |
