@@ -5672,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Depth | 157202 | [157202-cold-depth.json](./157202-cold-depth.json) |
 | Cold Engines | 199474 | [199474-cold-engines.json](./199474-cold-engines.json) |
 | Cold Fear | 5780 | [5780-cold-fear.json](./5780-cold-fear.json) |
+| Cold Front | 261455 | [261455-cold-front.json](./261455-cold-front.json) |
 | Cold Harvest | 191195 | [191195-cold-harvest.json](./191195-cold-harvest.json) |
 | Cold Heart | 138683 | [138683-cold-heart.json](./138683-cold-heart.json) |
 | Cold Hill | 153897 | [153897-cold-hill.json](./153897-cold-hill.json) |
@@ -6703,6 +6704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquistador | 323803 | [323803-conquistador.json](./323803-conquistador.json) |
 | Conquistadorio | 258438 | [258438-conquistadorio.json](./258438-conquistadorio.json) |
 | Conrad Stevenson's Paranormal P.I. | 190151 | [190151-conrad-stevensons-paranormal-p-i.json](./190151-conrad-stevensons-paranormal-p-i.json) |
+| Conrad's Quest | 261418 | [261418-conrads-quest.json](./261418-conrads-quest.json) |
 | Conran: The Dinky Raccoon | 29086 | [29086-conran-the-dinky-raccoon.json](./29086-conran-the-dinky-raccoon.json) |
 | Conscience | 322058 | [322058-conscience.json](./322058-conscience.json) |
 | Conscript | 137619 | [137619-conscript.json](./137619-conscript.json) |
