@@ -2075,10 +2075,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaglass | 225763 | [225763-seaglass.json](./225763-seaglass.json) |
 | Seahaven Towers Solitaire | 83465 | [83465-seahaven-towers-solitaire.json](./83465-seahaven-towers-solitaire.json) |
 | Seal Game's | 389608 | [389608-seal-games.json](./389608-seal-games.json) |
+| Seal M | 267580 | [267580-seal-m.json](./267580-seal-m.json) |
 | Seal of Evil | 14586 | [14586-seal-of-evil.json](./14586-seal-of-evil.json) |
 | Seal of Magic | 355186 | [355186-seal-of-magic.json](./355186-seal-of-magic.json) |
 | Seal of Shadows | 410237 | [410237-seal-of-shadows.json](./410237-seal-of-shadows.json) |
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
+| Seal Online: Eternal Destiny | 267578 | [267578-seal-online-eternal-destiny.json](./267578-seal-online-eternal-destiny.json) |
 | SEAL Team | 14510 | [14510-seal-team.json](./14510-seal-team.json) |
 | Seal: What the Fun | 293698 | [293698-seal-what-the-fun.json](./293698-seal-what-the-fun.json) |
 | Sealark | 64393 | [64393-sealark.json](./64393-sealark.json) |
@@ -3918,6 +3920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
 | She's My Vampire | 205816 | [205816-shes-my-vampire.json](./205816-shes-my-vampire.json) |
 | She's Outta This World | 179487 | [179487-shes-outta-this-world.json](./179487-shes-outta-this-world.json) |
+| She'sn | 267583 | [267583-shesn.json](./267583-shesn.json) |
 | Sheaf - Together EP | 120769 | [120769-sheaf-together-ep.json](./120769-sheaf-together-ep.json) |
 | Shechu de Fubao | 255624 | [255624-shechu-de-fubao.json](./255624-shechu-de-fubao.json) |
 | Shed | 406191 | [406191-shed.json](./406191-shed.json) |
@@ -9558,6 +9561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soviet Challenge: Javelin 1980 | 174329 | [174329-soviet-challenge-javelin-1980.json](./174329-soviet-challenge-javelin-1980.json) |
 | Soviet Lunapark VR | 97018 | [97018-soviet-lunapark-vr.json](./97018-soviet-lunapark-vr.json) |
 | Soviet Souls | 118329 | [118329-soviet-souls.json](./118329-soviet-souls.json) |
+| Soviet Union 2010 | 267567 | [267567-soviet-union-2010.json](./267567-soviet-union-2010.json) |
 | Soviet Union 2011 | 404414 | [404414-soviet-union-2011.json](./404414-soviet-union-2011.json) |
 | Soviet Unterzögersdorf: Sector 1 | 78651 | [78651-soviet-unterzogersdorf-sector-1.json](./78651-soviet-unterzogersdorf-sector-1.json) |
 | Soviet Village | 370879 | [370879-soviet-village.json](./370879-soviet-village.json) |
@@ -14070,6 +14074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter II: Ryu vs. Sagat | 155516 | [155516-street-fighter-ii-ryu-vs-sagat.json](./155516-street-fighter-ii-ryu-vs-sagat.json) |
 | Street Fighter II: Special Champion Edition | 4367 | [4367-street-fighter-ii-special-champion-edition.json](./4367-street-fighter-ii-special-champion-edition.json) |
 | Street Fighter II' Turbo | 18626 | [18626-street-fighter-ii-turbo.json](./18626-street-fighter-ii-turbo.json) |
+| Street Fighter III | 267546 | [267546-street-fighter-iii.json](./267546-street-fighter-iii.json) |
 | Street Fighter III 2nd Impact: Giant Attack | 6709 | [6709-street-fighter-iii-2nd-impact-giant-attack.json](./6709-street-fighter-iii-2nd-impact-giant-attack.json) |
 | Street Fighter III: 3rd Strike | 243237 | [243237-street-fighter-iii-3rd-strike.json](./243237-street-fighter-iii-3rd-strike.json) |
 | Street Fighter III: 3rd Strike | 6710 | [6710-street-fighter-iii-3rd-strike.json](./6710-street-fighter-iii-3rd-strike.json) |
@@ -14669,6 +14674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suddenly Meow 2 | 197932 | [197932-suddenly-meow-2.json](./197932-suddenly-meow-2.json) |
 | Sudeki | 6179 | [6179-sudeki.json](./6179-sudeki.json) |
 | Sudo Cats | 221263 | [221263-sudo-cats.json](./221263-sudo-cats.json) |
+| Sudo King | 267545 | [267545-sudo-king.json](./267545-sudo-king.json) |
 | SudoBlock | 36509 | [36509-sudoblock.json](./36509-sudoblock.json) |
 | Sudocats | 193466 | [193466-sudocats.json](./193466-sudocats.json) |
 | Sudocity | 216866 | [216866-sudocity.json](./216866-sudocity.json) |
@@ -14677,6 +14683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku | 131490 | [131490-sudoku.json](./131490-sudoku.json) |
 | Sudoku | 131505 | [131505-sudoku.json](./131505-sudoku.json) |
 | Sudoku | 246366 | [246366-sudoku.json](./246366-sudoku.json) |
+| Sudoku | 267544 | [267544-sudoku.json](./267544-sudoku.json) |
 | Sudoku | 337482 | [337482-sudoku.json](./337482-sudoku.json) |
 | Sudoku | 397667 | [397667-sudoku.json](./397667-sudoku.json) |
 | Sudoku | 86840 | [86840-sudoku.json](./86840-sudoku.json) |
@@ -14736,6 +14743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Pro+ | 267454 | [267454-sudoku-pro.json](./267454-sudoku-pro.json) |
 | Sudoku Puzzle | 258466 | [258466-sudoku-puzzle.json](./258466-sudoku-puzzle.json) |
 | Sudoku Puzzle Blast | 208354 | [208354-sudoku-puzzle-blast.json](./208354-sudoku-puzzle-blast.json) |
+| Sudoku Race | 267591 | [267591-sudoku-race.json](./267591-sudoku-race.json) |
 | Sudoku RPG | 143029 | [143029-sudoku-rpg.json](./143029-sudoku-rpg.json) |
 | Sudoku Scapes | 105969 | [105969-sudoku-scapes.json](./105969-sudoku-scapes.json) |
 | Sudoku Starry Sky | 154574 | [154574-sudoku-starry-sky.json](./154574-sudoku-starry-sky.json) |
@@ -15252,6 +15260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super 10 Pin | 270885 | [270885-super-10-pin.json](./270885-super-10-pin.json) |
 | Super 10 VR Bundle | 300275 | [300275-super-10-vr-bundle.json](./300275-super-10-vr-bundle.json) |
 | Super 2048 | 99983 | [99983-super-2048.json](./99983-super-2048.json) |
+| Super 8 Football | 267552 | [267552-super-8-football.json](./267552-super-8-football.json) |
 | Super ACiD Block Attack | 82459 | [82459-super-acid-block-attack.json](./82459-super-acid-block-attack.json) |
 | Super Action Baseball | 40909 | [40909-super-action-baseball.json](./40909-super-action-baseball.json) |
 | Super Action Football | 40908 | [40908-super-action-football.json](./40908-super-action-football.json) |
@@ -16277,6 +16286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monster | 101108 | [101108-super-monster.json](./101108-super-monster.json) |
 | Super Monster Bros by Adventure Time Pocket Free Games | 25017 | [25017-super-monster-bros-by-adventure-time-pocket-free-games.json](./25017-super-monster-bros-by-adventure-time-pocket-free-games.json) |
 | Super Monsters | 295015 | [295015-super-monsters.json](./295015-super-monsters.json) |
+| Super Monza GP 2 | 267554 | [267554-super-monza-gp-2.json](./267554-super-monza-gp-2.json) |
 | Super Moo World | 223021 | [223021-super-moo-world.json](./223021-super-moo-world.json) |
 | Super Morial Arms | 13092 | [13092-super-morial-arms.json](./13092-super-morial-arms.json) |
 | Super Motherload | 20078 | [20078-super-motherload.json](./20078-super-motherload.json) |
@@ -16671,6 +16681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sports Surgery | 40843 | [40843-super-sports-surgery.json](./40843-super-sports-surgery.json) |
 | Super Spray n' Slay 3D | 184107 | [184107-super-spray-n-slay-3d.json](./184107-super-spray-n-slay-3d.json) |
 | Super Sprint | 217981 | [217981-super-sprint.json](./217981-super-sprint.json) |
+| Super Sprint | 267540 | [267540-super-sprint.json](./267540-super-sprint.json) |
 | Super Spy | 59500 | [59500-super-spy.json](./59500-super-spy.json) |
 | Super Spy Academy | 298269 | [298269-super-spy-academy.json](./298269-super-spy-academy.json) |
 | Super Spy Agents 3D | 197879 | [197879-super-spy-agents-3d.json](./197879-super-spy-agents-3d.json) |
