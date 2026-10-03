@@ -4301,6 +4301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Tales: The Castle Escape | 104809 | [104809-lost-tales-the-castle-escape.json](./104809-lost-tales-the-castle-escape.json) |
 | Lost Tenet | 260213 | [260213-lost-tenet.json](./260213-lost-tenet.json) |
 | Lost The Lights | 288270 | [288270-lost-the-lights.json](./288270-lost-the-lights.json) |
+| Lost to Riches | 245900 | [245900-lost-to-riches.json](./245900-lost-to-riches.json) |
 | Lost Toys | 62996 | [62996-lost-toys.json](./62996-lost-toys.json) |
 | Lost Traces: Unsolved Cases - False Awakening | 280842 | [280842-lost-traces-unsolved-cases-false-awakening.json](./280842-lost-traces-unsolved-cases-false-awakening.json) |
 | Lost Traces: Unsolved Cases - Genesis | 329387 | [329387-lost-traces-unsolved-cases-genesis.json](./329387-lost-traces-unsolved-cases-genesis.json) |
@@ -4954,6 +4955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminesce | 159302 | [159302-luminesce.json](./159302-luminesce.json) |
 | Luminex Quartet | 384502 | [384502-luminex-quartet.json](./384502-luminex-quartet.json) |
 | Luminis: Heal Them All | 270133 | [270133-luminis-heal-them-all.json](./270133-luminis-heal-them-all.json) |
+| Luminite Era: Expedition | 245990 | [245990-luminite-era-expedition.json](./245990-luminite-era-expedition.json) |
 | Lumino City | 8762 | [8762-lumino-city.json](./8762-lumino-city.json) |
 | Luminosity | 35836 | [35836-luminosity.json](./35836-luminosity.json) |
 | Luminous | 274662 | [274662-luminous.json](./274662-luminous.json) |
