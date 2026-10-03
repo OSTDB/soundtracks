@@ -1637,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventuro | 280304 | [280304-adventuro.json](./280304-adventuro.json) |
 | AdventurOS | 62816 | [62816-adventuros.json](./62816-adventuros.json) |
 | Adventurous Boy: Màoxiǎn Xiǎozi | 128553 | [128553-adventurous-boy-maoxian-xiaozi.json](./128553-adventurous-boy-maoxian-xiaozi.json) |
+| Adventurous Hearts | 231426 | [231426-adventurous-hearts.json](./231426-adventurous-hearts.json) |
 | Adventurous Mind | 259670 | [259670-adventurous-mind.json](./259670-adventurous-mind.json) |
 | Adversary Tower | 257398 | [257398-adversary-tower.json](./257398-adversary-tower.json) |
 | Advisor: Elderly Paradigm | 383081 | [383081-advisor-elderly-paradigm.json](./383081-advisor-elderly-paradigm.json) |
@@ -4585,6 +4586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds | 2035 | [2035-angry-birds.json](./2035-angry-birds.json) |
 | Angry Birds Action! | 19274 | [19274-angry-birds-action.json](./19274-angry-birds-action.json) |
 | Angry Birds AR: Isle of Pigs | 196589 | [196589-angry-birds-ar-isle-of-pigs.json](./196589-angry-birds-ar-isle-of-pigs.json) |
+| Angry Birds Arcade | 231439 | [231439-angry-birds-arcade.json](./231439-angry-birds-arcade.json) |
 | Angry Birds Block Quest | 321375 | [321375-angry-birds-block-quest.json](./321375-angry-birds-block-quest.json) |
 | Angry Birds Boom! | 386241 | [386241-angry-birds-boom.json](./386241-angry-birds-boom.json) |
 | Angry Birds Bounce | 347237 | [347237-angry-birds-bounce.json](./347237-angry-birds-bounce.json) |
@@ -4658,6 +4660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anhedonia: Sanctuary of Ash | 408915 | [408915-anhedonia-sanctuary-of-ash.json](./408915-anhedonia-sanctuary-of-ash.json) |
 | Ani Idle | 351027 | [351027-ani-idle.json](./351027-ani-idle.json) |
 | Ani Leaving Sirius | 189120 | [189120-ani-leaving-sirius.json](./189120-ani-leaving-sirius.json) |
+| Anibabe! Choose Your Girl | 231435 | [231435-anibabe-choose-your-girl.json](./231435-anibabe-choose-your-girl.json) |
 | Anicca | 208058 | [208058-anicca.json](./208058-anicca.json) |
 | Anicon: Animal Complex | 249274 | [249274-anicon-animal-complex.json](./249274-anicon-animal-complex.json) |
 | Anicon: Animal Complex - Cat's Path | 32031 | [32031-anicon-animal-complex-cats-path.json](./32031-anicon-animal-complex-cats-path.json) |
@@ -5141,6 +5144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Day to Die | 373752 | [373752-another-day-to-die.json](./373752-another-day-to-die.json) |
 | Another Day with You | 309519 | [309519-another-day-with-you.json](./309519-another-day-with-you.json) |
 | Another Day? | 409695 | [409695-another-day.json](./409695-another-day.json) |
+| Another Dimension | 231427 | [231427-another-dimension.json](./231427-another-dimension.json) |
 | Another Door | 284403 | [284403-another-door.json](./284403-another-door.json) |
 | Another Dungeon Game | 217274 | [217274-another-dungeon-game.json](./217274-another-dungeon-game.json) |
 | Another Earth | 276852 | [276852-another-earth.json](./276852-another-earth.json) |
