@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailing Alone: Aftermath | 312708 | [312708-sailing-alone-aftermath.json](./312708-sailing-alone-aftermath.json) |
 | Sailing Era | 223172 | [223172-sailing-era.json](./223172-sailing-era.json) |
 | Sailing the Winds & New Tanks | 375160 | [375160-sailing-the-winds-and-new-tanks.json](./375160-sailing-the-winds-and-new-tanks.json) |
+| Sailist | 244333 | [244333-sailist.json](./244333-sailist.json) |
 | Sailor Fuku Bijin Tsuma Senshi Aheahe Moon | 82979 | [82979-sailor-fuku-bijin-tsuma-senshi-aheahe-moon.json](./82979-sailor-fuku-bijin-tsuma-senshi-aheahe-moon.json) |
 | Sailor Fuku Bishoujo Zukan Vol. 1 | 41389 | [41389-sailor-fuku-bishoujo-zukan-vol-1.json](./41389-sailor-fuku-bishoujo-zukan-vol-1.json) |
 | Sailor Fuku Bishoujo Zukan Vol. 2 | 41388 | [41388-sailor-fuku-bishoujo-zukan-vol-2.json](./41388-sailor-fuku-bishoujo-zukan-vol-2.json) |
@@ -5219,6 +5220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signum Perfectum | 190213 | [190213-signum-perfectum.json](./190213-signum-perfectum.json) |
 | Signus: The Artifact Wars | 70464 | [70464-signus-the-artifact-wars.json](./70464-signus-the-artifact-wars.json) |
 | Signy & Mino: Against All Gods | 301340 | [301340-signy-and-mino-against-all-gods.json](./301340-signy-and-mino-against-all-gods.json) |
+| Siheyuan | 244325 | [244325-siheyuan.json](./244325-siheyuan.json) |
 | SiIvaGunner: King for a Day Tournament - Playable Credits Minigame!! | 326974 | [326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json](./326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json) |
 | Sikhl | 308266 | [308266-sikhl.json](./308266-sikhl.json) |
 | Sil and the Fading World | 331103 | [331103-sil-and-the-fading-world.json](./331103-sil-and-the-fading-world.json) |
@@ -7853,6 +7855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowman Mo | 333154 | [333154-snowman-mo.json](./333154-snowman-mo.json) |
 | Snowman Saves Christmas | 169853 | [169853-snowman-saves-christmas.json](./169853-snowman-saves-christmas.json) |
 | Snowman's Land | 308234 | [308234-snowmans-land.json](./308234-snowmans-land.json) |
+| Snowmen | 244306 | [244306-snowmen.json](./244306-snowmen.json) |
 | Snowmobile Championship 2000 | 70325 | [70325-snowmobile-championship-2000.json](./70325-snowmobile-championship-2000.json) |
 | Snowmobile Racing | 208902 | [208902-snowmobile-racing.json](./208902-snowmobile-racing.json) |
 | Snowpult | 286231 | [286231-snowpult.json](./286231-snowpult.json) |
@@ -10238,6 +10241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Waves | 189170 | [189170-space-waves.json](./189170-space-waves.json) |
 | Space Way: Echo of the Galaxy | 365867 | [365867-space-way-echo-of-the-galaxy.json](./365867-space-way-echo-of-the-galaxy.json) |
 | Space Whip | 61903 | [61903-space-whip.json](./61903-space-whip.json) |
+| Space Wing Cadet | 244315 | [244315-space-wing-cadet.json](./244315-space-wing-cadet.json) |
 | Space Wombat | 346213 | [346213-space-wombat.json](./346213-space-wombat.json) |
 | Space World | 103886 | [103886-space-world.json](./103886-space-world.json) |
 | Space Worm | 337468 | [337468-space-worm.json](./337468-space-worm.json) |
@@ -13408,6 +13412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Shipyard | 388717 | [388717-stellar-shipyard.json](./388717-stellar-shipyard.json) |
 | Stellar Smooch | 60758 | [60758-stellar-smooch.json](./60758-stellar-smooch.json) |
 | Stellar Squad | 101738 | [101738-stellar-squad.json](./101738-stellar-squad.json) |
+| Stellar Stroll | 244323 | [244323-stellar-stroll.json](./244323-stellar-stroll.json) |
 | Stellar Tactics | 26293 | [26293-stellar-tactics.json](./26293-stellar-tactics.json) |
 | Stellar Terminus | 318178 | [318178-stellar-terminus.json](./318178-stellar-terminus.json) |
 | Stellar Track | 18427 | [18427-stellar-track.json](./18427-stellar-track.json) |
@@ -15935,6 +15940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Reptiles | 155638 | [155638-super-jigsaw-puzzle-generations-reptiles.json](./155638-super-jigsaw-puzzle-generations-reptiles.json) |
 | Super Jigsaw Puzzle: Generations - Rodents | 155639 | [155639-super-jigsaw-puzzle-generations-rodents.json](./155639-super-jigsaw-puzzle-generations-rodents.json) |
 | Super Jigsaw Puzzle: Generations - Russia Puzzles | 155591 | [155591-super-jigsaw-puzzle-generations-russia-puzzles.json](./155591-super-jigsaw-puzzle-generations-russia-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Sci-Fi | 244387 | [244387-super-jigsaw-puzzle-generations-sci-fi.json](./244387-super-jigsaw-puzzle-generations-sci-fi.json) |
 | Super Jigsaw Puzzle: Generations - Sealife Puzzles | 155605 | [155605-super-jigsaw-puzzle-generations-sealife-puzzles.json](./155605-super-jigsaw-puzzle-generations-sealife-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Second Anniversary | 155616 | [155616-super-jigsaw-puzzle-generations-second-anniversary.json](./155616-super-jigsaw-puzzle-generations-second-anniversary.json) |
 | Super Jigsaw Puzzle: Generations - SJP Anime Reloaded Puzzles | 155627 | [155627-super-jigsaw-puzzle-generations-sjp-anime-reloaded-puzzles.json](./155627-super-jigsaw-puzzle-generations-sjp-anime-reloaded-puzzles.json) |
