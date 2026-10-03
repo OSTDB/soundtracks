@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bam Boost | 256904 | [256904-bam-boost.json](./256904-bam-boost.json) |
 | Bamba's Snack Quest | 141093 | [141093-bambas-snack-quest.json](./141093-bambas-snack-quest.json) |
 | Bambinours Solves a Jig Saw Puzzle | 14283 | [14283-bambinours-solves-a-jig-saw-puzzle.json](./14283-bambinours-solves-a-jig-saw-puzzle.json) |
+| Bamboo | 276407 | [276407-bamboo.json](./276407-bamboo.json) |
 | Bamboo Bushido | 333145 | [333145-bamboo-bushido.json](./333145-bamboo-bushido.json) |
 | Bamboo EP | 26667 | [26667-bamboo-ep.json](./26667-bamboo-ep.json) |
 | Bamboo Forest | 161397 | [161397-bamboo-forest.json](./161397-bamboo-forest.json) |
@@ -3990,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Pinball Gameroom: United Rio | 265161 | [265161-bingo-pinball-gameroom-united-rio.json](./265161-bingo-pinball-gameroom-united-rio.json) |
 | Bingo Pop | 101516 | [101516-bingo-pop.json](./101516-bingo-pop.json) |
 | Bingo Roulette | 404213 | [404213-bingo-roulette.json](./404213-bingo-roulette.json) |
+| Bingo TV | 276406 | [276406-bingo-tv.json](./276406-bingo-tv.json) |
 | Bingo: Pet Rescue | 258965 | [258965-bingo-pet-rescue.json](./258965-bingo-pet-rescue.json) |
 | Bingo!!! | 106757 | [106757-bingo.json](./106757-bingo.json) |
 | Biniax | 93357 | [93357-biniax.json](./93357-biniax.json) |
@@ -4950,6 +4952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Legion: Ignition | 78064 | [78064-blazing-legion-ignition.json](./78064-blazing-legion-ignition.json) |
 | Blazing Maidens | 374309 | [374309-blazing-maidens.json](./374309-blazing-maidens.json) |
 | Blazing Sails | 114776 | [114776-blazing-sails.json](./114776-blazing-sails.json) |
+| Blazing Sails: Limbs of Lore Pack | 276414 | [276414-blazing-sails-limbs-of-lore-pack.json](./276414-blazing-sails-limbs-of-lore-pack.json) |
 | Blazing Snake | 257372 | [257372-blazing-snake.json](./257372-blazing-snake.json) |
 | Blazing Snow | 142418 | [142418-blazing-snow.json](./142418-blazing-snow.json) |
 | Blazing Souls | 5475 | [5475-blazing-souls.json](./5475-blazing-souls.json) |
