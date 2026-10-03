@@ -5208,6 +5208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antichromatic | 112323 | [112323-antichromatic.json](./112323-antichromatic.json) |
 | Anticipating Murder | 316768 | [316768-anticipating-murder.json](./316768-anticipating-murder.json) |
 | Antidote | 170819 | [170819-antidote.json](./170819-antidote.json) |
+| AntiGolfity | 260293 | [260293-antigolfity.json](./260293-antigolfity.json) |
 | Antigrav | 43521 | [43521-antigrav.json](./43521-antigrav.json) |
 | Antigrav Racing Championship | 248329 | [248329-antigrav-racing-championship.json](./248329-antigrav-racing-championship.json) |
 | Antigravity Racing | 239292 | [239292-antigravity-racing.json](./239292-antigravity-racing.json) |
@@ -6899,6 +6900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifact Hunter | 156036 | [156036-artifact-hunter.json](./156036-artifact-hunter.json) |
 | Artifact Red-X | 63365 | [63365-artifact-red-x.json](./63365-artifact-red-x.json) |
 | Artifact Run | 384534 | [384534-artifact-run.json](./384534-artifact-run.json) |
+| Artifact Seeker: Legend of Aurorium | 260298 | [260298-artifact-seeker-legend-of-aurorium.json](./260298-artifact-seeker-legend-of-aurorium.json) |
 | Artifact Seekers | 366306 | [366306-artifact-seekers.json](./366306-artifact-seekers.json) |
 | Artifacting | 151608 | [151608-artifacting.json](./151608-artifacting.json) |
 | Artifacto | 180103 | [180103-artifacto.json](./180103-artifacto.json) |
@@ -8244,6 +8246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora | 170459 | [170459-aurora.json](./170459-aurora.json) |
 | Aurora | 387688 | [387688-aurora.json](./387688-aurora.json) |
 | Aurora 4x | 60045 | [60045-aurora-4x.json](./60045-aurora-4x.json) |
+| Aurora Adventure: A Space Academy Tale | 260295 | [260295-aurora-adventure-a-space-academy-tale.json](./260295-aurora-adventure-a-space-academy-tale.json) |
 | Aurora Dusk: Steam Age | 34581 | [34581-aurora-dusk-steam-age.json](./34581-aurora-dusk-steam-age.json) |
 | Aurora Feint II: Tower Puzzles | 67694 | [67694-aurora-feint-ii-tower-puzzles.json](./67694-aurora-feint-ii-tower-puzzles.json) |
 | Aurora Heights | 374762 | [374762-aurora-heights.json](./374762-aurora-heights.json) |
