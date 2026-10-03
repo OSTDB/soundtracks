@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor Fuku Bishoujo Zukan Vol. 4 | 41386 | [41386-sailor-fuku-bishoujo-zukan-vol-4.json](./41386-sailor-fuku-bishoujo-zukan-vol-4.json) |
 | Sailor Fuku Bishoujo Zukan Vol. 5 | 41385 | [41385-sailor-fuku-bishoujo-zukan-vol-5.json](./41385-sailor-fuku-bishoujo-zukan-vol-5.json) |
 | Sailor Fuku Bishoujo Zukan Vol. 6 | 41384 | [41384-sailor-fuku-bishoujo-zukan-vol-6.json](./41384-sailor-fuku-bishoujo-zukan-vol-6.json) |
+| Sailor Fuku Senshi Felis | 263671 | [263671-sailor-fuku-senshi-felis.json](./263671-sailor-fuku-senshi-felis.json) |
 | Sailor Fuku to Femme Fatale | 293941 | [293941-sailor-fuku-to-femme-fatale.json](./293941-sailor-fuku-to-femme-fatale.json) |
 | Sailor Moon | 38280 | [38280-sailor-moon.json](./38280-sailor-moon.json) |
 | Sailor Moon Fighter S | 140404 | [140404-sailor-moon-fighter-s.json](./140404-sailor-moon-fighter-s.json) |
@@ -14126,6 +14127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: Season 5 Character Pass | 350070 | [350070-street-fighter-v-season-5-character-pass.json](./350070-street-fighter-v-season-5-character-pass.json) |
 | Street Fighter V: SFL2020 NASR Costumes Bundle | 332657 | [332657-street-fighter-v-sfl2020-nasr-costumes-bundle.json](./332657-street-fighter-v-sfl2020-nasr-costumes-bundle.json) |
 | Street Fighter V: SFL2020 UYU Costumes Bundle | 332656 | [332656-street-fighter-v-sfl2020-uyu-costumes-bundle.json](./332656-street-fighter-v-sfl2020-uyu-costumes-bundle.json) |
+| Street Fighter VI 12 Peoples | 263664 | [263664-street-fighter-vi-12-peoples.json](./263664-street-fighter-vi-12-peoples.json) |
 | Street Fighter x All Capcom | 55064 | [55064-street-fighter-x-all-capcom.json](./55064-street-fighter-x-all-capcom.json) |
 | Street Fighter X Mega Man | 45184 | [45184-street-fighter-x-mega-man.json](./45184-street-fighter-x-mega-man.json) |
 | Street Fighter Zero 3 | 242649 | [242649-street-fighter-zero-3.json](./242649-street-fighter-zero-3.json) |
@@ -16900,6 +16902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperDoom | 198358 | [198358-superdoom.json](./198358-superdoom.json) |
 | SuperDucks | 357363 | [357363-superducks.json](./357363-superducks.json) |
 | SuperDungeon MegaCorp | 190995 | [190995-superdungeon-megacorp.json](./190995-superdungeon-megacorp.json) |
+| Superfetch Dog | 263656 | [263656-superfetch-dog.json](./263656-superfetch-dog.json) |
 | Superfighter | 325272 | [325272-superfighter.json](./325272-superfighter.json) |
 | Superfighters Deluxe | 10039 | [10039-superfighters-deluxe.json](./10039-superfighters-deluxe.json) |
 | Superfighters of Survival | 338292 | [338292-superfighters-of-survival.json](./338292-superfighters-of-survival.json) |
