@@ -2875,6 +2875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of the Kingdom III | 81893 | [81893-hero-of-the-kingdom-iii.json](./81893-hero-of-the-kingdom-iii.json) |
 | Hero of the Kingdom: The Lost Tales 3 | 327322 | [327322-hero-of-the-kingdom-the-lost-tales-3.json](./327322-hero-of-the-kingdom-the-lost-tales-3.json) |
 | Hero or Foe | 173232 | [173232-hero-or-foe.json](./173232-hero-or-foe.json) |
+| Hero or Villain: Genesis - Supercharged! | 265354 | [265354-hero-or-villain-genesis-supercharged.json](./265354-hero-or-villain-genesis-supercharged.json) |
 | Hero Pack | 340466 | [340466-hero-pack.json](./340466-hero-pack.json) |
 | Hero Panda Bomber | 60794 | [60794-hero-panda-bomber.json](./60794-hero-panda-bomber.json) |
 | Hero Park | 156651 | [156651-hero-park.json](./156651-hero-park.json) |
@@ -5562,6 +5563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hovercab Station | 262994 | [262994-hovercab-station.json](./262994-hovercab-station.json) |
 | Hovercars 3077: Underground racing | 192436 | [192436-hovercars-3077-underground-racing.json](./192436-hovercars-3077-underground-racing.json) |
 | HoverCraft | 249137 | [249137-hovercraft.json](./249137-hovercraft.json) |
+| HoverCraft | 265352 | [265352-hovercraft.json](./265352-hovercraft.json) |
 | Hovercraft Drive | 95598 | [95598-hovercraft-drive.json](./95598-hovercraft-drive.json) |
 | Hovercraft Race 3D | 26691 | [26691-hovercraft-race-3d.json](./26691-hovercraft-race-3d.json) |
 | Hovercraft Racing | 192836 | [192836-hovercraft-racing.json](./192836-hovercraft-racing.json) |
