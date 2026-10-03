@@ -1993,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma of Sector Sigma | 262986 | [262986-enigma-of-sector-sigma.json](./262986-enigma-of-sector-sigma.json) |
 | Enigma of Sépia | 331861 | [331861-enigma-of-sepia.json](./331861-enigma-of-sepia.json) |
 | Enigma Prison | 32096 | [32096-enigma-prison.json](./32096-enigma-prison.json) |
+| Enigma Quest | 266995 | [266995-enigma-quest.json](./266995-enigma-quest.json) |
 | Enigmarble | 269024 | [269024-enigmarble.json](./269024-enigmarble.json) |
 | Enigmarella | 190223 | [190223-enigmarella.json](./190223-enigmarella.json) |
 | Enigmata: Stellar War | 118317 | [118317-enigmata-stellar-war.json](./118317-enigmata-stellar-war.json) |
