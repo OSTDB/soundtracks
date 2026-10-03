@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magneboy | 299834 | [299834-magneboy.json](./299834-magneboy.json) |
 | Magnery Reign | 156580 | [156580-magnery-reign.json](./156580-magnery-reign.json) |
 | Magnet Action: Zi | 147890 | [147890-magnet-action-zi.json](./147890-magnet-action-zi.json) |
+| Magnet Mania 3D | 262580 | [262580-magnet-mania-3d.json](./262580-magnet-mania-3d.json) |
 | Magnetic Billiards | 47276 | [47276-magnetic-billiards.json](./47276-magnetic-billiards.json) |
 | Magnetic Billiards: Blueprint | 22314 | [22314-magnetic-billiards-blueprint.json](./22314-magnetic-billiards-blueprint.json) |
 | Magnetic By Nature | 17322 | [17322-magnetic-by-nature.json](./17322-magnetic-by-nature.json) |
@@ -2808,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters Pool HD | 345106 | [345106-masters-pool-hd.json](./345106-masters-pool-hd.json) |
 | Masters: Harukanaru Augusta 3 | 268542 | [268542-masters-harukanaru-augusta-3.json](./268542-masters-harukanaru-augusta-3.json) |
 | Masterspace | 36420 | [36420-masterspace.json](./36420-masterspace.json) |
+| Mastery of Fate: Phantom King's Rise | 262594 | [262594-mastery-of-fate-phantom-kings-rise.json](./262594-mastery-of-fate-phantom-kings-rise.json) |
 | Mastodonte | 189062 | [189062-mastodonte.json](./189062-mastodonte.json) |
 | Masuzoe Youichi: Asa made Famicom | 48784 | [48784-masuzoe-youichi-asa-made-famicom.json](./48784-masuzoe-youichi-asa-made-famicom.json) |
 | Masyanya Under The Yellow Press | 335429 | [335429-masyanya-under-the-yellow-press.json](./335429-masyanya-under-the-yellow-press.json) |
@@ -3533,6 +3535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior Online: Naomi Legendary Mech Pack | 357325 | [357325-mechwarrior-online-naomi-legendary-mech-pack.json](./357325-mechwarrior-online-naomi-legendary-mech-pack.json) |
 | MechWarrior Online: Noble Legendary Mech Pack | 357321 | [357321-mechwarrior-online-noble-legendary-mech-pack.json](./357321-mechwarrior-online-noble-legendary-mech-pack.json) |
 | MechWarrior Online: Red Reaper II Legendary Mech Pack | 357328 | [357328-mechwarrior-online-red-reaper-ii-legendary-mech-pack.json](./357328-mechwarrior-online-red-reaper-ii-legendary-mech-pack.json) |
+| MechWarrior Online: Scaleshot Legendary Mech Pack | 262585 | [262585-mechwarrior-online-scaleshot-legendary-mech-pack.json](./262585-mechwarrior-online-scaleshot-legendary-mech-pack.json) |
 | MechWarrior Online: Seraph Legendary Mech Pack | 357409 | [357409-mechwarrior-online-seraph-legendary-mech-pack.json](./357409-mechwarrior-online-seraph-legendary-mech-pack.json) |
 | MechWarrior Online: Sigma Legendary Mech Pack | 357322 | [357322-mechwarrior-online-sigma-legendary-mech-pack.json](./357322-mechwarrior-online-sigma-legendary-mech-pack.json) |
 | MechWarrior Online: Sovereign Legendary Mech Pack | 357411 | [357411-mechwarrior-online-sovereign-legendary-mech-pack.json](./357411-mechwarrior-online-sovereign-legendary-mech-pack.json) |
@@ -3540,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior Online: Spitfire Legendary Mech Pack | 357343 | [357343-mechwarrior-online-spitfire-legendary-mech-pack.json](./357343-mechwarrior-online-spitfire-legendary-mech-pack.json) |
 | MechWarrior Online: Starshot Legendary Mech Pack | 357323 | [357323-mechwarrior-online-starshot-legendary-mech-pack.json](./357323-mechwarrior-online-starshot-legendary-mech-pack.json) |
 | MechWarrior Online: Stone Crusher Legendary Mech Pack | 357340 | [357340-mechwarrior-online-stone-crusher-legendary-mech-pack.json](./357340-mechwarrior-online-stone-crusher-legendary-mech-pack.json) |
+| MechWarrior Online: War Emu Legendary Mech Pack | 262584 | [262584-mechwarrior-online-war-emu-legendary-mech-pack.json](./262584-mechwarrior-online-war-emu-legendary-mech-pack.json) |
 | MechWarrior Tactics | 94184 | [94184-mechwarrior-tactics.json](./94184-mechwarrior-tactics.json) |
 | MechWarrior: Living Legends | 51237 | [51237-mechwarrior-living-legends.json](./51237-mechwarrior-living-legends.json) |
 | Medabots 4 | 55141 | [55141-medabots-4.json](./55141-medabots-4.json) |
@@ -6516,6 +6520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimo | 401502 | [401502-minimo.json](./401502-minimo.json) |
 | Minimonos | 365184 | [365184-minimonos.json](./365184-minimonos.json) |
 | Minimonsters Crush | 90820 | [90820-minimonsters-crush.json](./90820-minimonsters-crush.json) |
+| MiniMow | 262590 | [262590-minimow.json](./262590-minimow.json) |
 | Minimum Mage Effort | 401049 | [401049-minimum-mage-effort.json](./401049-minimum-mage-effort.json) |
 | Minimum Nanonic | 70401 | [70401-minimum-nanonic.json](./70401-minimum-nanonic.json) |
 | Mining And Achievements | 370179 | [370179-mining-and-achievements.json](./370179-mining-and-achievements.json) |
@@ -6535,6 +6540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minion Masters: Best Plan No Plan! | 330727 | [330727-minion-masters-best-plan-no-plan.json](./330727-minion-masters-best-plan-no-plan.json) |
 | Minion Masters: Charging Into Darkness | 330730 | [330730-minion-masters-charging-into-darkness.json](./330730-minion-masters-charging-into-darkness.json) |
 | Minion Masters: Crystal Conquest | 330738 | [330738-minion-masters-crystal-conquest.json](./330738-minion-masters-crystal-conquest.json) |
+| Minion Masters: Frost Dragon's Lair | 262592 | [262592-minion-masters-frost-dragons-lair.json](./262592-minion-masters-frost-dragons-lair.json) |
 | Minion Masters: Furry Fury | 330732 | [330732-minion-masters-furry-fury.json](./330732-minion-masters-furry-fury.json) |
 | Minion Masters: Kaboom Kingdom | 330726 | [330726-minion-masters-kaboom-kingdom.json](./330726-minion-masters-kaboom-kingdom.json) |
 | Minion Masters: Might of the Slither Lords | 330739 | [330739-minion-masters-might-of-the-slither-lords.json](./330739-minion-masters-might-of-the-slither-lords.json) |
@@ -8336,6 +8342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Princess | 145566 | [145566-moonlight-princess.json](./145566-moonlight-princess.json) |
 | Moonlight Rabbits | 302366 | [302366-moonlight-rabbits.json](./302366-moonlight-rabbits.json) |
 | Moonlight Sculptor | 150009 | [150009-moonlight-sculptor.json](./150009-moonlight-sculptor.json) |
+| Moonlight Sculptor: Darkgamer | 262581 | [262581-moonlight-sculptor-darkgamer.json](./262581-moonlight-sculptor-darkgamer.json) |
 | Moonlight Sonata | 185447 | [185447-moonlight-sonata.json](./185447-moonlight-sonata.json) |
 | Moonlight Syndrome | 65450 | [65450-moonlight-syndrome.json](./65450-moonlight-syndrome.json) |
 | Moonlight Walks | 51178 | [51178-moonlight-walks.json](./51178-moonlight-walks.json) |
@@ -9283,6 +9290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Meaty Hangman | 320751 | [320751-mr-meaty-hangman.json](./320751-mr-meaty-hangman.json) |
 | Mr. Meaty: Night of the Attack of the Flesh Hungry Meat Monsters | 320748 | [320748-mr-meaty-night-of-the-attack-of-the-flesh-hungry-meat-monsters.json](./320748-mr-meaty-night-of-the-attack-of-the-flesh-hungry-meat-monsters.json) |
 | Mr. Meaty: Treasures of the Deep (Fryer, That Is!) | 320750 | [320750-mr-meaty-treasures-of-the-deep-fryer-that-is.json](./320750-mr-meaty-treasures-of-the-deep-fryer-that-is.json) |
+| Mr. Melk Winter Games | 262591 | [262591-mr-melk-winter-games.json](./262591-mr-melk-winter-games.json) |
 | Mr. Men & Little Miss: Adventures in Dillydale | 243279 | [243279-mr-men-and-little-miss-adventures-in-dillydale.json](./243279-mr-men-and-little-miss-adventures-in-dillydale.json) |
 | Mr. Men & Little Miss: Mr. Messy and the Missing Sock | 243272 | [243272-mr-men-and-little-miss-mr-messy-and-the-missing-sock.json](./243272-mr-men-and-little-miss-mr-messy-and-the-missing-sock.json) |
 | Mr. Mix | 275669 | [275669-mr-mix.json](./275669-mr-mix.json) |
@@ -9836,6 +9844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MusicVR Episode 2: Maestro | 71447 | [71447-musicvr-episode-2-maestro.json](./71447-musicvr-episode-2-maestro.json) |
 | Musix | 138596 | [138596-musix.json](./138596-musix.json) |
 | Musket & Pike: Seven Years War | 132004 | [132004-musket-and-pike-seven-years-war.json](./132004-musket-and-pike-seven-years-war.json) |
+| Musket Smoke | 262593 | [262593-musket-smoke.json](./262593-musket-smoke.json) |
 | Musketeer | 365793 | [365793-musketeer.json](./365793-musketeer.json) |
 | Musketeer Growth | 208967 | [208967-musketeer-growth.json](./208967-musketeer-growth.json) |
 | Musketeer of the hell | 164281 | [164281-musketeer-of-the-hell.json](./164281-musketeer-of-the-hell.json) |
@@ -10830,6 +10839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: Cthulhu Mythos 3 | 270966 | [270966-mystery-solitaire-cthulhu-mythos-3.json](./270966-mystery-solitaire-cthulhu-mythos-3.json) |
 | Mystery Solitaire: Dreamcatcher 2 | 213317 | [213317-mystery-solitaire-dreamcatcher-2.json](./213317-mystery-solitaire-dreamcatcher-2.json) |
 | Mystery Solitaire: Grimm's Tales 2 | 122367 | [122367-mystery-solitaire-grimms-tales-2.json](./122367-mystery-solitaire-grimms-tales-2.json) |
+| Mystery Solitaire: Grimm's Tales 9 | 262586 | [262586-mystery-solitaire-grimms-tales-9.json](./262586-mystery-solitaire-grimms-tales-9.json) |
 | Mystery Solitaire: Secret Island | 65176 | [65176-mystery-solitaire-secret-island.json](./65176-mystery-solitaire-secret-island.json) |
 | Mystery Solitaire: The Black Raven | 138013 | [138013-mystery-solitaire-the-black-raven.json](./138013-mystery-solitaire-the-black-raven.json) |
 | Mystery Solitaire: The Black Raven 5 | 254756 | [254756-mystery-solitaire-the-black-raven-5.json](./254756-mystery-solitaire-the-black-raven-5.json) |
