@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Wrath of the Righteous - Game of the Year Edition | 331855 | [331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json](./331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json) |
 | Pathfinder: Wrath of the Righteous - Limited Edition | 206675 | [206675-pathfinder-wrath-of-the-righteous-limited-edition.json](./206675-pathfinder-wrath-of-the-righteous-limited-edition.json) |
 | Pathfinder: Wrath of the Righteous - Love Beyond Death | 186869 | [186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json](./186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json) |
+| Pathfinder: Wrath of the Righteous - The Lord of Nothing | 269217 | [269217-pathfinder-wrath-of-the-righteous-the-lord-of-nothing.json](./269217-pathfinder-wrath-of-the-righteous-the-lord-of-nothing.json) |
 | Pathfinder: Wrath of the Righteous - The Treasure of the Midnight Isles | 215691 | [215691-pathfinder-wrath-of-the-righteous-the-treasure-of-the-midnight-isles.json](./215691-pathfinder-wrath-of-the-righteous-the-treasure-of-the-midnight-isles.json) |
 | Pathfinder: Wrath of the Righteous - Through the Ashes | 198351 | [198351-pathfinder-wrath-of-the-righteous-through-the-ashes.json](./198351-pathfinder-wrath-of-the-righteous-through-the-ashes.json) |
 | Pathfinders | 134450 | [134450-pathfinders.json](./134450-pathfinders.json) |
@@ -4108,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Paint: Complete Edition | 246889 | [246889-pixel-paint-complete-edition.json](./246889-pixel-paint-complete-edition.json) |
 | Pixel Paint: Definitive Edition | 243367 | [243367-pixel-paint-definitive-edition.json](./243367-pixel-paint-definitive-edition.json) |
 | Pixel Paint: Premium Edition | 241395 | [241395-pixel-paint-premium-edition.json](./241395-pixel-paint-premium-edition.json) |
+| Pixel Petals | 269218 | [269218-pixel-petals.json](./269218-pixel-petals.json) |
 | Pixel Pileup Party | 130201 | [130201-pixel-pileup-party.json](./130201-pixel-pileup-party.json) |
 | Pixel Piracy | 5590 | [5590-pixel-piracy.json](./5590-pixel-piracy.json) |
 | Pixel Pirate | 342859 | [342859-pixel-pirate.json](./342859-pixel-pirate.json) |
@@ -4115,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Pixie | 312770 | [312770-pixel-pixie.json](./312770-pixel-pixie.json) |
 | Pixel Poops | 157054 | [157054-pixel-poops.json](./157054-pixel-poops.json) |
 | Pixel Poops: Number Two | 143480 | [143480-pixel-poops-number-two.json](./143480-pixel-poops-number-two.json) |
+| Pixel Princess Arena | 269219 | [269219-pixel-princess-arena.json](./269219-pixel-princess-arena.json) |
 | Pixel Privateers | 27405 | [27405-pixel-privateers.json](./27405-pixel-privateers.json) |
 | Pixel Pro Tennis | 213643 | [213643-pixel-pro-tennis.json](./213643-pixel-pro-tennis.json) |
 | Pixel Push Football | 240868 | [240868-pixel-push-football.json](./240868-pixel-push-football.json) |
@@ -4727,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Therapy: Plush and Pots Pack | 316403 | [316403-plant-therapy-plush-and-pots-pack.json](./316403-plant-therapy-plush-and-pots-pack.json) |
 | Plant Therapy: Queens | 266802 | [266802-plant-therapy-queens.json](./266802-plant-therapy-queens.json) |
 | Plant Therapy: Tropical Dreams | 364018 | [364018-plant-therapy-tropical-dreams.json](./364018-plant-therapy-tropical-dreams.json) |
+| Plant Trader | 269220 | [269220-plant-trader.json](./269220-plant-trader.json) |
 | Plant Tycoon | 15942 | [15942-plant-tycoon.json](./15942-plant-tycoon.json) |
 | Plantabi: Little Garden | 288871 | [288871-plantabi-little-garden.json](./288871-plantabi-little-garden.json) |
 | Plantan | 110330 | [110330-plantan.json](./110330-plantan.json) |
@@ -7404,6 +7408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private School Days | 89760 | [89760-private-school-days.json](./89760-private-school-days.json) |
 | Private Ward: VIP Floor - She Was My Nurse | 385821 | [385821-private-ward-vip-floor-she-was-my-nurse.json](./385821-private-ward-vip-floor-she-was-my-nurse.json) |
 | Private: Pornmania | 254545 | [254545-private-pornmania.json](./254545-private-pornmania.json) |
+| Privateer | 269222 | [269222-privateer.json](./269222-privateer.json) |
 | Privateers | 58288 | [58288-privateers.json](./58288-privateers.json) |
 | Prixel | 111205 | [111205-prixel.json](./111205-prixel.json) |
 | Prize Denied | 339962 | [339962-prize-denied.json](./339962-prize-denied.json) |
@@ -7818,6 +7823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hortus | 302073 | [302073-project-hortus.json](./302073-project-hortus.json) |
 | Project Hospital | 75855 | [75855-project-hospital.json](./75855-project-hospital.json) |
 | Project Hovercraft | 32181 | [32181-project-hovercraft.json](./32181-project-hovercraft.json) |
+| Project Hybrid | 269223 | [269223-project-hybrid.json](./269223-project-hybrid.json) |
 | Project I | 274579 | [274579-project-i.json](./274579-project-i.json) |
 | Project I.G.I. Origins (working title) | 131435 | [131435-project-i-g-i-origins-working-title.json](./131435-project-i-g-i-origins-working-title.json) |
 | Project Ictos | 286057 | [286057-project-ictos.json](./286057-project-ictos.json) |
@@ -8216,6 +8222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proton Bus Simulator Road | 219822 | [219822-proton-bus-simulator-road.json](./219822-proton-bus-simulator-road.json) |
 | Proton Pulse + | 56526 | [56526-proton-pulse.json](./56526-proton-pulse.json) |
 | Proton VR | 392133 | [392133-proton-vr.json](./392133-proton-vr.json) |
+| Protoplanet Express | 269224 | [269224-protoplanet-express.json](./269224-protoplanet-express.json) |
 | Protoplasm Mutiny | 150637 | [150637-protoplasm-mutiny.json](./150637-protoplasm-mutiny.json) |
 | Protorunner | 220662 | [220662-protorunner.json](./220662-protorunner.json) |
 | Protory Jigen | 326078 | [326078-protory-jigen.json](./326078-protory-jigen.json) |
