@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekkyuu Koushien | 46137 | [46137-nekkyuu-koushien.json](./46137-nekkyuu-koushien.json) |
 | Neko | 78965 | [78965-neko.json](./78965-neko.json) |
 | Neko Atsume VR | 68317 | [68317-neko-atsume-vr.json](./68317-neko-atsume-vr.json) |
+| Neko Atsume: Kitty Collector+ | 240858 | [240858-neko-atsume-kitty-collector.json](./240858-neko-atsume-kitty-collector.json) |
 | Neko Bento | 324136 | [324136-neko-bento.json](./324136-neko-bento.json) |
 | Neko Café Stories | 369697 | [369697-neko-cafe-stories.json](./369697-neko-cafe-stories.json) |
 | Neko Cosmo Police | 209482 | [209482-neko-cosmo-police.json](./209482-neko-cosmo-police.json) |
@@ -1234,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Battle | 85607 | [85607-neon-battle.json](./85607-neon-battle.json) |
 | Neon Beat Rider | 163739 | [163739-neon-beat-rider.json](./163739-neon-beat-rider.json) |
 | Neon Beats | 197652 | [197652-neon-beats.json](./197652-neon-beats.json) |
+| Neon Blast | 240936 | [240936-neon-blast.json](./240936-neon-blast.json) |
 | Neon Blocks 87 | 90814 | [90814-neon-blocks-87.json](./90814-neon-blocks-87.json) |
 | Neon Blood | 223443 | [223443-neon-blood.json](./223443-neon-blood.json) |
 | Neon Blood: Limited Edition | 323889 | [323889-neon-blood-limited-edition.json](./323889-neon-blood-limited-edition.json) |
@@ -3471,6 +3473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norman Cooks in "Search for the Don" | 71056 | [71056-norman-cooks-in-search-for-the-don.json](./71056-norman-cooks-in-search-for-the-don.json) |
 | Norn9: Last Era - Limited Edition | 249735 | [249735-norn9-last-era-limited-edition.json](./249735-norn9-last-era-limited-edition.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
+| Noroi E: The Origin of Nightmares | 240945 | [240945-noroi-e-the-origin-of-nightmares.json](./240945-noroi-e-the-origin-of-nightmares.json) |
 | Noroi Kago: The Grduged Domain - The Birth of Kitaro: The Mystery of GeGeGe Costume - Kitaro's father and Mizuki | 355202 | [355202-noroi-kago-the-grduged-domain-the-birth-of-kitaro-the-mystery-of-gegege-costume-kitaros-father-and-mizuki.json](./355202-noroi-kago-the-grduged-domain-the-birth-of-kitaro-the-mystery-of-gegege-costume-kitaros-father-and-mizuki.json) |
 | Noroi no Kegareuta: Narumi Tatsuya no Kaikiroku | 349464 | [349464-noroi-no-kegareuta-narumi-tatsuya-no-kaikiroku.json](./349464-noroi-no-kegareuta-narumi-tatsuya-no-kaikiroku.json) |
 | Noroware Cycle | 223481 | [223481-noroware-cycle.json](./223481-noroware-cycle.json) |
