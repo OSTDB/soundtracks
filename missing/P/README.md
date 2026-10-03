@@ -6464,6 +6464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal with RTX | 218277 | [218277-portal-with-rtx.json](./218277-portal-with-rtx.json) |
 | Portal: Alive & Kicking | 322166 | [322166-portal-alive-and-kicking.json](./322166-portal-alive-and-kicking.json) |
 | Portal: Ambition | 322167 | [322167-portal-ambition.json](./322167-portal-ambition.json) |
+| Portal: Bagley | 259145 | [259145-portal-bagley.json](./259145-portal-bagley.json) |
 | Portal: Companion Collection | 191406 | [191406-portal-companion-collection.json](./191406-portal-companion-collection.json) |
 | Portal: Forever Testing | 208407 | [208407-portal-forever-testing.json](./208407-portal-forever-testing.json) |
 | Portal: Google Translate Edition | 313478 | [313478-portal-google-translate-edition.json](./313478-portal-google-translate-edition.json) |
@@ -8847,6 +8848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PushBoy - a Sokoban style puzzle game | 91332 | [91332-pushboy-a-sokoban-style-puzzle-game.json](./91332-pushboy-a-sokoban-style-puzzle-game.json) |
 | Pushed a 'Bot! | 369026 | [369026-pushed-a-bot.json](./369026-pushed-a-bot.json) |
 | Pusher | 193439 | [193439-pusher.json](./193439-pusher.json) |
+| Pusher: Drug Tycoon | 259167 | [259167-pusher-drug-tycoon.json](./259167-pusher-drug-tycoon.json) |
 | Pushing Crates | 215037 | [215037-pushing-crates.json](./215037-pushing-crates.json) |
 | Pushing It! With Sisyphus | 298033 | [298033-pushing-it-with-sisyphus.json](./298033-pushing-it-with-sisyphus.json) |
 | Pushmo World | 19925 | [19925-pushmo-world.json](./19925-pushmo-world.json) |
