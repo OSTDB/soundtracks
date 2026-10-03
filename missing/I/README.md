@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Will Definitely Be the CEO! | 400969 | [400969-i-will-definitely-be-the-ceo.json](./400969-i-will-definitely-be-the-ceo.json) |
 | I will eat you | 126957 | [126957-i-will-eat-you.json](./126957-i-will-eat-you.json) |
 | I Will Never Fall for My Tsundere Classmate, so I Will Just Date a Background Character Instead! | 372598 | [372598-i-will-never-fall-for-my-tsundere-classmate-so-i-will-just-date-a-background-character-instead.json](./372598-i-will-never-fall-for-my-tsundere-classmate-so-i-will-just-date-a-background-character-instead.json) |
+| I Will Never Forget You Because You Have Made Me the Happiest Dog on Earth | 227981 | [227981-i-will-never-forget-you-because-you-have-made-me-the-happiest-dog-on-earth.json](./227981-i-will-never-forget-you-because-you-have-made-me-the-happiest-dog-on-earth.json) |
 | I Will Return | 341876 | [341876-i-will-return.json](./341876-i-will-return.json) |
 | I Wish I Were the Moon | 55976 | [55976-i-wish-i-were-the-moon.json](./55976-i-wish-i-were-the-moon.json) |
 | I Wish You Rain | 23884 | [23884-i-wish-you-rain.json](./23884-i-wish-you-rain.json) |
@@ -3282,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iSnake | 87703 | [87703-isnake.json](./87703-isnake.json) |
 | Iso | 100225 | [100225-iso.json](./100225-iso.json) |
 | Iso | 201763 | [201763-iso.json](./201763-iso.json) |
+| Iso | 227980 | [227980-iso.json](./227980-iso.json) |
 | Iso Racer | 246353 | [246353-iso-racer.json](./246353-iso-racer.json) |
 | ISO/2004 | 402492 | [402492-iso-2004.json](./402492-iso-2004.json) |
 | Isoball | 243779 | [243779-isoball.json](./243779-isoball.json) |
