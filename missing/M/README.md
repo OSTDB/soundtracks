@@ -2960,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Tables Mania: Learn Multiplications and Divisions | 87638 | [87638-math-tables-mania-learn-multiplications-and-divisions.json](./87638-math-tables-mania-learn-multiplications-and-divisions.json) |
 | Math the Question | 130840 | [130840-math-the-question.json](./130840-math-the-question.json) |
 | Math-A-Thon 2: The Mystery of the Missing Laboratory | 209547 | [209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json](./209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json) |
+| Math, BFF, and Notes | 276962 | [276962-math-bff-and-notes.json](./276962-math-bff-and-notes.json) |
 | Mathable | 232533 | [232533-mathable.json](./232533-mathable.json) |
 | Mathbits | 360568 | [360568-mathbits.json](./360568-mathbits.json) |
 | Mathe Pfiffikus | 85859 | [85859-mathe-pfiffikus.json](./85859-mathe-pfiffikus.json) |
@@ -8521,6 +8522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: Invasions - Season of the Huntress | 310607 | [310607-mortal-kombat-1-invasions-season-of-the-huntress.json](./310607-mortal-kombat-1-invasions-season-of-the-huntress.json) |
 | Mortal Kombat 1: Invasions - Season of the Reptile | 311073 | [311073-mortal-kombat-1-invasions-season-of-the-reptile.json](./311073-mortal-kombat-1-invasions-season-of-the-reptile.json) |
 | Mortal Kombat 1: Invasions - Season of the Soul Eater | 311075 | [311075-mortal-kombat-1-invasions-season-of-the-soul-eater.json](./311075-mortal-kombat-1-invasions-season-of-the-soul-eater.json) |
+| Mortal Kombat 1: Invasions - Season of The Spectre | 276920 | [276920-mortal-kombat-1-invasions-season-of-the-spectre.json](./276920-mortal-kombat-1-invasions-season-of-the-spectre.json) |
 | Mortal Kombat 1: Invasions - Season of the Storms | 311071 | [311071-mortal-kombat-1-invasions-season-of-the-storms.json](./311071-mortal-kombat-1-invasions-season-of-the-storms.json) |
 | Mortal Kombat 1: Jean-Claude Van Damme Skin | 265947 | [265947-mortal-kombat-1-jean-claude-van-damme-skin.json](./265947-mortal-kombat-1-jean-claude-van-damme-skin.json) |
 | Mortal Kombat 1: Khaos Reigns Bundle | 312357 | [312357-mortal-kombat-1-khaos-reigns-bundle.json](./312357-mortal-kombat-1-khaos-reigns-bundle.json) |
