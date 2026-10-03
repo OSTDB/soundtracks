@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icee Slush Rush | 352751 | [352751-icee-slush-rush.json](./352751-icee-slush-rush.json) |
 | Icefishing v | 215101 | [215101-icefishing-v.json](./215101-icefishing-v.json) |
 | IceFitter | 290637 | [290637-icefitter.json](./290637-icefitter.json) |
+| IceHockey: Lucky Puck | 245462 | [245462-icehockey-lucky-puck.json](./245462-icehockey-lucky-puck.json) |
 | iceicellClicker | 313760 | [313760-iceicellclicker.json](./313760-iceicellclicker.json) |
 | IceLine | 221129 | [221129-iceline.json](./221129-iceline.json) |
 | Iceman: Digital PlayStage | 180837 | [180837-iceman-digital-playstage.json](./180837-iceman-digital-playstage.json) |
