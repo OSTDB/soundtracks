@@ -1583,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Abyss | 197240 | [197240-heart-abyss.json](./197240-heart-abyss.json) |
 | Heart Attack | 252376 | [252376-heart-attack.json](./252376-heart-attack.json) |
 | Heart Cage | 266875 | [266875-heart-cage.json](./266875-heart-cage.json) |
+| Heart Chain Kitty: All Screwed Up | 261969 | [261969-heart-chain-kitty-all-screwed-up.json](./261969-heart-chain-kitty-all-screwed-up.json) |
 | Heart Clicker | 304868 | [304868-heart-clicker.json](./304868-heart-clicker.json) |
 | Heart de Roommate | 84234 | [84234-heart-de-roommate.json](./84234-heart-de-roommate.json) |
 | Heart Fragment | 131599 | [131599-heart-fragment.json](./131599-heart-fragment.json) |
@@ -1714,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts on Fire | 313720 | [313720-hearts-on-fire.json](./313720-hearts-on-fire.json) |
 | Hearts Online | 317011 | [317011-hearts-online.json](./317011-hearts-online.json) |
 | Hearts Premium HD | 86867 | [86867-hearts-premium-hd.json](./86867-hearts-premium-hd.json) |
+| Hearts War | 261952 | [261952-hearts-war.json](./261952-hearts-war.json) |
 | Hearts: Card Game | 143066 | [143066-hearts-card-game.json](./143066-hearts-card-game.json) |
 | Hearts: Classic Fun Card Game | 87549 | [87549-hearts-classic-fun-card-game.json](./87549-hearts-classic-fun-card-game.json) |
 | Heartseers Grove | 389746 | [389746-heartseers-grove.json](./389746-heartseers-grove.json) |
@@ -2744,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Knights: Kyrie Eleison | 145614 | [145614-her-knights-kyrie-eleison.json](./145614-her-knights-kyrie-eleison.json) |
 | Her Lie I Tried to Believe | 87953 | [87953-her-lie-i-tried-to-believe.json](./87953-her-lie-i-tried-to-believe.json) |
 | Her Little Sylvietower | 316996 | [316996-her-little-sylvietower.json](./316996-her-little-sylvietower.json) |
+| Her Love Just Washed Away | 261957 | [261957-her-love-just-washed-away.json](./261957-her-love-just-washed-away.json) |
 | Her Love, Like Poison | 332442 | [332442-her-love-like-poison.json](./332442-her-love-like-poison.json) |
 | Her Majesty's Apathy Bomb | 180709 | [180709-her-majestys-apathy-bomb.json](./180709-her-majestys-apathy-bomb.json) |
 | Her New Memory | 152295 | [152295-her-new-memory.json](./152295-her-new-memory.json) |
@@ -5040,6 +5043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Massage Clinic | 411063 | [411063-horny-massage-clinic.json](./411063-horny-massage-clinic.json) |
 | Horny Recruiter | 368046 | [368046-horny-recruiter.json](./368046-horny-recruiter.json) |
 | Horny Spell | 226189 | [226189-horny-spell.json](./226189-horny-spell.json) |
+| Horny Spy: Secret Mission | 262001 | [262001-horny-spy-secret-mission.json](./262001-horny-spy-secret-mission.json) |
 | Horny Suika: Wet Watermelon | 296614 | [296614-horny-suika-wet-watermelon.json](./296614-horny-suika-wet-watermelon.json) |
 | Horny Sweeper 2 | 130735 | [130735-horny-sweeper-2.json](./130735-horny-sweeper-2.json) |
 | Horny Warp: Hentai Fantasy | 343372 | [343372-horny-warp-hentai-fantasy.json](./343372-horny-warp-hentai-fantasy.json) |
@@ -5059,6 +5063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Bundle Vol. 1 | 147795 | [147795-horror-bundle-vol-1.json](./147795-horror-bundle-vol-1.json) |
 | Horror Bundle: 3 in 1 | 247584 | [247584-horror-bundle-3-in-1.json](./247584-horror-bundle-3-in-1.json) |
 | Horror Cartridge Collection | 244897 | [244897-horror-cartridge-collection.json](./244897-horror-cartridge-collection.json) |
+| Horror Castle | 262007 | [262007-horror-castle.json](./262007-horror-castle.json) |
 | Horror Clash | 319969 | [319969-horror-clash.json](./319969-horror-clash.json) |
 | Horror Drift | 187531 | [187531-horror-drift.json](./187531-horror-drift.json) |
 | Horror Gallery | 262908 | [262908-horror-gallery.json](./262908-horror-gallery.json) |
@@ -5694,6 +5699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Howlville | 54104 | [54104-howlville.json](./54104-howlville.json) |
 | Howlville: The Dark Past | 99084 | [99084-howlville-the-dark-past.json](./99084-howlville-the-dark-past.json) |
 | Howrse | 152750 | [152750-howrse.json](./152750-howrse.json) |
+| Howzat | 262008 | [262008-howzat.json](./262008-howzat.json) |
 | Hoyle Backgammon | 54105 | [54105-hoyle-backgammon.json](./54105-hoyle-backgammon.json) |
 | Hoyle Board Games 2003 | 97126 | [97126-hoyle-board-games-2003.json](./97126-hoyle-board-games-2003.json) |
 | Hoyle Bridge | 54106 | [54106-hoyle-bridge.json](./54106-hoyle-bridge.json) |
