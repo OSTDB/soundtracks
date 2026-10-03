@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MacMan And The Great Escape | 314496 | [314496-macman-and-the-great-escape.json](./314496-macman-and-the-great-escape.json) |
 | Macro Data Refinement Simulator: Shapes | 333778 | [333778-macro-data-refinement-simulator-shapes.json](./333778-macro-data-refinement-simulator-shapes.json) |
 | Macro golf | 169772 | [169772-macro-golf.json](./169772-macro-golf.json) |
+| Macro-TV | 278071 | [278071-macro-tv.json](./278071-macro-tv.json) |
 | Macrocosm | 200180 | [200180-macrocosm.json](./200180-macrocosm.json) |
 | Macross - Eternal Love Song | 41994 | [41994-macross-eternal-love-song.json](./41994-macross-eternal-love-song.json) |
 | Macross 30: Voices across the Galaxy | 79292 | [79292-macross-30-voices-across-the-galaxy.json](./79292-macross-30-voices-across-the-galaxy.json) |
@@ -6768,6 +6769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Command: Recharged | 132154 | [132154-missile-command-recharged.json](./132154-missile-command-recharged.json) |
 | Missile Control | 13252 | [13252-missile-control.json](./13252-missile-control.json) |
 | Missile Defence | 290654 | [290654-missile-defence.json](./290654-missile-defence.json) |
+| Missile Defense | 278093 | [278093-missile-defense.json](./278093-missile-defense.json) |
 | Missile Input | 190477 | [190477-missile-input.json](./190477-missile-input.json) |
 | Missile Mayhem | 360139 | [360139-missile-mayhem.json](./360139-missile-mayhem.json) |
 | Missile Survivor | 319240 | [319240-missile-survivor.json](./319240-missile-survivor.json) |
@@ -6800,6 +6802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Memories | 257088 | [257088-missing-memories.json](./257088-missing-memories.json) |
 | Missing Mildred | 189190 | [189190-missing-mildred.json](./189190-missing-mildred.json) |
 | Missing on Lost Island | 69910 | [69910-missing-on-lost-island.json](./69910-missing-on-lost-island.json) |
+| Missing Parts | 278099 | [278099-missing-parts.json](./278099-missing-parts.json) |
 | Missing Parts 2: The Tantei Stories | 64673 | [64673-missing-parts-2-the-tantei-stories.json](./64673-missing-parts-2-the-tantei-stories.json) |
 | Missing Parts 3: The Tantei Stories | 64675 | [64675-missing-parts-3-the-tantei-stories.json](./64675-missing-parts-3-the-tantei-stories.json) |
 | Missing Parts Side A: The Tantei Stories | 64671 | [64671-missing-parts-side-a-the-tantei-stories.json](./64671-missing-parts-side-a-the-tantei-stories.json) |
@@ -9150,6 +9153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Bree: Returning Home | 102124 | [102124-mr-bree-returning-home.json](./102124-mr-bree-returning-home.json) |
 | Mr. Bree+ | 16852 | [16852-mr-bree.json](./16852-mr-bree.json) |
 | Mr. Bullfrog | 198831 | [198831-mr-bullfrog.json](./198831-mr-bullfrog.json) |
+| Mr. Capital! | 278082 | [278082-mr-capital.json](./278082-mr-capital.json) |
 | Mr. Catfish's Singles Retreat Event Extravaganza!!! | 122353 | [122353-mr-catfishs-singles-retreat-event-extravaganza.json](./122353-mr-catfishs-singles-retreat-event-extravaganza.json) |
 | Mr. Cheesy | 182937 | [182937-mr-cheesy.json](./182937-mr-cheesy.json) |
 | Mr. Cockatrice | 410394 | [410394-mr-cockatrice.json](./410394-mr-cockatrice.json) |
