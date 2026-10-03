@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vestria Story | 193940 | [193940-vestria-story.json](./193940-vestria-story.json) |
 | Vestron | 93018 | [93018-vestron.json](./93018-vestron.json) |
 | Vesuvius | 323332 | [323332-vesuvius.json](./323332-vesuvius.json) |
+| Vesyolyi Povar | 245447 | [245447-vesyolyi-povar.json](./245447-vesyolyi-povar.json) |
 | Vet Emergency | 93024 | [93024-vet-emergency.json](./93024-vet-emergency.json) |
 | Veteran | 65004 | [65004-veteran.json](./65004-veteran.json) |
 | Veteran Combat | 35710 | [35710-veteran-combat.json](./35710-veteran-combat.json) |
