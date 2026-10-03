@@ -1514,6 +1514,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weaponry (Experimental) | 336701 | [336701-weaponry-experimental.json](./336701-weaponry-experimental.json) |
 | Weaponry Dealer VR | 110464 | [110464-weaponry-dealer-vr.json](./110464-weaponry-dealer-vr.json) |
 | Weapons Arena | 356727 | [356727-weapons-arena.json](./356727-weapons-arena.json) |
+| Weapons Factory | 273008 | [273008-weapons-factory.json](./273008-weapons-factory.json) |
+| Weapons Factory Arena | 273009 | [273009-weapons-factory-arena.json](./273009-weapons-factory-arena.json) |
 | Weapons Simulator: OutDoor Edition | 180131 | [180131-weapons-simulator-outdoor-edition.json](./180131-weapons-simulator-outdoor-edition.json) |
 | WeAreDreaming | 243648 | [243648-wearedreaming.json](./243648-wearedreaming.json) |
 | Weasel Willy | 315277 | [315277-weasel-willy.json](./315277-weasel-willy.json) |
