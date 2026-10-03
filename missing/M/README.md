@@ -5207,6 +5207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Confrontation 2: Return to SR388 | 274984 | [274984-metroid-confrontation-2-return-to-sr388.json](./274984-metroid-confrontation-2-return-to-sr388.json) |
 | Metroid Defense | 323283 | [323283-metroid-defense.json](./323283-metroid-defense.json) |
 | Metroid Dread | 15698 | [15698-metroid-dread.json](./15698-metroid-dread.json) |
+| Metroid Dread | 233651 | [233651-metroid-dread.json](./233651-metroid-dread.json) |
 | Metroid Ecliption | 324077 | [324077-metroid-ecliption.json](./324077-metroid-ecliption.json) |
 | Metroid Fool | 295024 | [295024-metroid-fool.json](./295024-metroid-fool.json) |
 | Metroid FreezeFlame | 255382 | [255382-metroid-freezeflame.json](./255382-metroid-freezeflame.json) |
