@@ -3401,6 +3401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reworld | 130807 | [130807-reworld.json](./130807-reworld.json) |
 | Rewrite - DYH | 142892 | [142892-rewrite-dyh.json](./142892-rewrite-dyh.json) |
 | Rewrite the Romance: The Golden Lotus | 346567 | [346567-rewrite-the-romance-the-golden-lotus.json](./346567-rewrite-the-romance-the-golden-lotus.json) |
+| Rewritten Recalls | 269182 | [269182-rewritten-recalls.json](./269182-rewritten-recalls.json) |
 | Rex | 45348 | [45348-rex.json](./45348-rex.json) |
 | ReX | 99193 | [99193-rex.json](./99193-rex.json) |
 | Rex Blade: The Battle Begins | 209165 | [209165-rex-blade-the-battle-begins.json](./209165-rex-blade-the-battle-begins.json) |
