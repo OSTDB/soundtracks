@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backbone: Artifact Edition | 159697 | [159697-backbone-artifact-edition.json](./159697-backbone-artifact-edition.json) |
 | Backbone's Rampage | 277540 | [277540-backbones-rampage.json](./277540-backbones-rampage.json) |
 | Backbreaker Vengeance | 22942 | [22942-backbreaker-vengeance.json](./22942-backbreaker-vengeance.json) |
+| Backdate Hero | 230904 | [230904-backdate-hero.json](./230904-backdate-hero.json) |
 | BackDoor- Door 1 | 101761 | [101761-backdoor-door-1.json](./101761-backdoor-door-1.json) |
 | BackDoor- Door 2 | 101760 | [101760-backdoor-door-2.json](./101760-backdoor-door-2.json) |
 | Backdoors | 254016 | [254016-backdoors.json](./254016-backdoors.json) |
@@ -5361,6 +5362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Hopper | 283388 | [283388-block-hopper.json](./283388-block-hopper.json) |
 | Block In | 390148 | [390148-block-in.json](./390148-block-in.json) |
 | Block Jam: Cute Edition | 332516 | [332516-block-jam-cute-edition.json](./332516-block-jam-cute-edition.json) |
+| Block Jumper | 230961 | [230961-block-jumper.json](./230961-block-jumper.json) |
 | Block Kuzushi | 38269 | [38269-block-kuzushi.json](./38269-block-kuzushi.json) |
 | Block Line Engineer | 188944 | [188944-block-line-engineer.json](./188944-block-line-engineer.json) |
 | Block Magic Puzzle | 290466 | [290466-block-magic-puzzle.json](./290466-block-magic-puzzle.json) |
@@ -5843,6 +5845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons 2 | 63569 | [63569-bloons-2.json](./63569-bloons-2.json) |
 | Bloons 2 Christmas Expansion | 326782 | [326782-bloons-2-christmas-expansion.json](./326782-bloons-2-christmas-expansion.json) |
 | Bloons 2: Spring Fling | 318006 | [318006-bloons-2-spring-fling.json](./318006-bloons-2-spring-fling.json) |
+| Bloons Bomb Gem 3 Match | 230967 | [230967-bloons-bomb-gem-3-match.json](./230967-bloons-bomb-gem-3-match.json) |
 | Bloons But You're the Bloon | 246094 | [246094-bloons-but-youre-the-bloon.json](./246094-bloons-but-youre-the-bloon.json) |
 | Bloons Card Storm | 314325 | [314325-bloons-card-storm.json](./314325-bloons-card-storm.json) |
 | Bloons Insanity | 63568 | [63568-bloons-insanity.json](./63568-bloons-insanity.json) |
@@ -6134,6 +6137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Winner | 46734 | [46734-bob-winner.json](./46734-bob-winner.json) |
 | Bob Winner 2 | 25771 | [25771-bob-winner-2.json](./25771-bob-winner-2.json) |
 | Bob: A thousand lives | 209488 | [209488-bob-a-thousand-lives.json](./209488-bob-a-thousand-lives.json) |
+| Bob.exe | 230870 | [230870-bob-exe.json](./230870-bob-exe.json) |
 | Bob's Bad Day | 14329 | [14329-bobs-bad-day.json](./14329-bobs-bad-day.json) |
 | Bob's Cat Challenge | 115441 | [115441-bobs-cat-challenge.json](./115441-bobs-cat-challenge.json) |
 | Bob's Fears | 381283 | [381283-bobs-fears.json](./381283-bobs-fears.json) |
@@ -7646,6 +7650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brayan Odleys Numbers | 74377 | [74377-brayan-odleys-numbers.json](./74377-brayan-odleys-numbers.json) |
 | Brazen | 399776 | [399776-brazen.json](./399776-brazen.json) |
 | Brazen Blaze | 265663 | [265663-brazen-blaze.json](./265663-brazen-blaze.json) |
+| Brazen Thief | 230882 | [230882-brazen-thief.json](./230882-brazen-thief.json) |
 | Braziball | 138587 | [138587-braziball.json](./138587-braziball.json) |
 | Brazil Fencing Club VR | 275100 | [275100-brazil-fencing-club-vr.json](./275100-brazil-fencing-club-vr.json) |
 | Brazilian Root | 93709 | [93709-brazilian-root.json](./93709-brazilian-root.json) |
