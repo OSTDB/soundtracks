@@ -3503,6 +3503,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Rescue | 213048 | [213048-chicken-rescue.json](./213048-chicken-rescue.json) |
 | Chicken Rescue | 393128 | [393128-chicken-rescue.json](./393128-chicken-rescue.json) |
 | Chicken Royale | 399747 | [399747-chicken-royale.json](./399747-chicken-royale.json) |
+| Chicken Run | 248768 | [248768-chicken-run.json](./248768-chicken-run.json) |
+| Chicken Run | 248769 | [248769-chicken-run.json](./248769-chicken-run.json) |
 | Chicken Run: Special Edition - Escape from the Pot-Pie Machine | 325109 | [325109-chicken-run-special-edition-escape-from-the-pot-pie-machine.json](./325109-chicken-run-special-edition-escape-from-the-pot-pie-machine.json) |
 | Chicken Run: Special Edition - Whack-A-Tweedy | 325108 | [325108-chicken-run-special-edition-whack-a-tweedy.json](./325108-chicken-run-special-edition-whack-a-tweedy.json) |
 | Chicken Rush Deluxe | 341617 | [341617-chicken-rush-deluxe.json](./341617-chicken-rush-deluxe.json) |
@@ -4980,6 +4982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clear Vision 4 | 174814 | [174814-clear-vision-4.json](./174814-clear-vision-4.json) |
 | Clear Vision Elite | 272793 | [272793-clear-vision-elite.json](./272793-clear-vision-elite.json) |
 | Clear: Atarashii Kaze no Fuku Oka de | 133909 | [133909-clear-atarashii-kaze-no-fuku-oka-de.json](./133909-clear-atarashii-kaze-no-fuku-oka-de.json) |
+| Clearance Sale | 248794 | [248794-clearance-sale.json](./248794-clearance-sale.json) |
 | Clearing Blade | 326248 | [326248-clearing-blade.json](./326248-clearing-blade.json) |
 | Clearwater | 270718 | [270718-clearwater.json](./270718-clearwater.json) |
 | Cleave | 346181 | [346181-cleave.json](./346181-cleave.json) |
@@ -7133,6 +7136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Go | 301282 | [301282-cool-go.json](./301282-cool-go.json) |
 | Cool Kid Cody | 195175 | [195175-cool-kid-cody.json](./195175-cool-kid-cody.json) |
 | Cool Kid Cody: Season 2 - Episode 04 | 248017 | [248017-cool-kid-cody-season-2-episode-04.json](./248017-cool-kid-cody-season-2-episode-04.json) |
+| Cool Kid Cody: Season 2 - Episode 05 | 248816 | [248816-cool-kid-cody-season-2-episode-05.json](./248816-cool-kid-cody-season-2-episode-05.json) |
 | Cool Kid Cody: Season 2 - Episode 09 | 253977 | [253977-cool-kid-cody-season-2-episode-09.json](./253977-cool-kid-cody-season-2-episode-09.json) |
 | Cool Kid Cody: Season 2 - Episode 10 | 252693 | [252693-cool-kid-cody-season-2-episode-10.json](./252693-cool-kid-cody-season-2-episode-10.json) |
 | Cool Kid Cody: Season 3 - Episode 01 | 296596 | [296596-cool-kid-cody-season-3-episode-01.json](./296596-cool-kid-cody-season-3-episode-01.json) |
