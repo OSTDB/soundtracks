@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac Pack | 68951 | [68951-pac-pack.json](./68951-pac-pack.json) |
 | Pac Rabbit | 319590 | [319590-pac-rabbit.json](./319590-pac-rabbit.json) |
 | Pac the Man 2 | 78960 | [78960-pac-the-man-2.json](./78960-pac-the-man-2.json) |
+| Pac-01 | 267566 | [267566-pac-01.json](./267566-pac-01.json) |
 | Pac-Athlon | 320352 | [320352-pac-athlon.json](./320352-pac-athlon.json) |
 | Pac-Attack | 239188 | [239188-pac-attack.json](./239188-pac-attack.json) |
 | Pac-Avoid | 62242 | [62242-pac-avoid.json](./62242-pac-avoid.json) |
