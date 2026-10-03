@@ -3293,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchcraft Survivors | 251756 | [251756-witchcraft-survivors.json](./251756-witchcraft-survivors.json) |
 | WitchCraft TD | 220718 | [220718-witchcraft-td.json](./220718-witchcraft-td.json) |
 | Witchcraft U | 155652 | [155652-witchcraft-u.json](./155652-witchcraft-u.json) |
+| Witchcraft: Candy Hunt | 244910 | [244910-witchcraft-candy-hunt.json](./244910-witchcraft-candy-hunt.json) |
 | Witchcraft: Pandoras Box | 127248 | [127248-witchcraft-pandoras-box.json](./127248-witchcraft-pandoras-box.json) |
 | Witchcrafty | 120920 | [120920-witchcrafty.json](./120920-witchcrafty.json) |
 | Witches & Woodlands | 275595 | [275595-witches-and-woodlands.json](./275595-witches-and-woodlands.json) |
