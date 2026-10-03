@@ -4469,6 +4469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormatozoa | 190722 | [190722-wormatozoa.json](./190722-wormatozoa.json) |
 | Wormax.io | 115449 | [115449-wormax-io.json](./115449-wormax-io.json) |
 | Wormax2.io | 125811 | [125811-wormax2-io.json](./125811-wormax2-io.json) |
+| Wormgrubber | 257522 | [257522-wormgrubber.json](./257522-wormgrubber.json) |
 | Wormhole | 195084 | [195084-wormhole.json](./195084-wormhole.json) |
 | Wormhole | 307618 | [307618-wormhole.json](./307618-wormhole.json) |
 | Wormhole | 374611 | [374611-wormhole.json](./374611-wormhole.json) |
