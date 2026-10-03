@@ -78,7 +78,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uchusen: Ultimate Ploid Battle | 159709 | [159709-uchusen-ultimate-ploid-battle.json](./159709-uchusen-ultimate-ploid-battle.json) |
 | Uchuu Bouken Shoujo Nami: Davie Jones - Umi no Akuma | 400501 | [400501-uchuu-bouken-shoujo-nami-davie-jones-umi-no-akuma.json](./400501-uchuu-bouken-shoujo-nami-davie-jones-umi-no-akuma.json) |
 | Uchuu no Kishi: Tekkaman Blade | 68070 | [68070-uchuu-no-kishi-tekkaman-blade.json](./68070-uchuu-no-kishi-tekkaman-blade.json) |
+| Uchuu Senkan Yamato | 255870 | [255870-uchuu-senkan-yamato.json](./255870-uchuu-senkan-yamato.json) |
+| Uchuu Senkan Yamato | 255875 | [255875-uchuu-senkan-yamato.json](./255875-uchuu-senkan-yamato.json) |
+| Uchuu Senkan Yamato | 255876 | [255876-uchuu-senkan-yamato.json](./255876-uchuu-senkan-yamato.json) |
 | Uchuu Senkan Yamato | 37350 | [37350-uchuu-senkan-yamato.json](./37350-uchuu-senkan-yamato.json) |
+| Uchuu Senkan Yamato HD Remaster | 255871 | [255871-uchuu-senkan-yamato-hd-remaster.json](./255871-uchuu-senkan-yamato-hd-remaster.json) |
 | Uchuu Senkan Yamato: Kanketsu-hen | 385807 | [385807-uchuu-senkan-yamato-kanketsu-hen.json](./385807-uchuu-senkan-yamato-kanketsu-hen.json) |
 | Ucieczka | 398338 | [398338-ucieczka.json](./398338-ucieczka.json) |
 | UCraft | 85462 | [85462-ucraft.json](./85462-ucraft.json) |
@@ -1357,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnNethack | 351140 | [351140-unnethack.json](./351140-unnethack.json) |
 | Unno | 235227 | [235227-unno.json](./235227-unno.json) |
 | UnnyWorld | 33438 | [33438-unnyworld.json](./33438-unnyworld.json) |
+| Uno | 255867 | [255867-uno.json](./255867-uno.json) |
 | Uno 2 Go | 229062 | [229062-uno-2-go.json](./229062-uno-2-go.json) |
 | Uno 52 | 47706 | [47706-uno-52.json](./47706-uno-52.json) |
 | Uno DX | 91956 | [91956-uno-dx.json](./91956-uno-dx.json) |
