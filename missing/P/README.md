@@ -3277,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pierrot à la Mode | 340572 | [340572-pierrot-a-la-mode.json](./340572-pierrot-a-la-mode.json) |
 | Pierrot’s Pilgrimage | 336097 | [336097-pierrot-s-pilgrimage.json](./336097-pierrot-s-pilgrimage.json) |
 | Pif Paf | 105323 | [105323-pif-paf.json](./105323-pif-paf.json) |
+| Piffle: The Great Dessert | 238031 | [238031-piffle-the-great-dessert.json](./238031-piffle-the-great-dessert.json) |
 | Pig | 367569 | [367569-pig.json](./367569-pig.json) |
 | Pig & Chikin | 341576 | [341576-pig-and-chikin.json](./341576-pig-and-chikin.json) |
 | Pig Bros Adventure | 214729 | [214729-pig-bros-adventure.json](./214729-pig-bros-adventure.json) |
@@ -4701,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Protector VR | 67939 | [67939-planet-protector-vr.json](./67939-planet-protector-vr.json) |
 | Planet Puzzle League | 23093 | [23093-planet-puzzle-league.json](./23093-planet-puzzle-league.json) |
 | Planet Quiz: Learn & Discover | 187494 | [187494-planet-quiz-learn-and-discover.json](./187494-planet-quiz-learn-and-discover.json) |
+| Planet Quiz: Learn & Discover - DLC Oceans | 238030 | [238030-planet-quiz-learn-and-discover-dlc-oceans.json](./238030-planet-quiz-learn-and-discover-dlc-oceans.json) |
 | Planet Quiz: Learn & Discover - Forest Life | 227776 | [227776-planet-quiz-learn-and-discover-forest-life.json](./227776-planet-quiz-learn-and-discover-forest-life.json) |
 | Planet Quiz: Learn & Discover - Mystery & Myth | 227773 | [227773-planet-quiz-learn-and-discover-mystery-and-myth.json](./227773-planet-quiz-learn-and-discover-mystery-and-myth.json) |
 | Planet Quiz: Learn & Discover - Trivia | 227782 | [227782-planet-quiz-learn-and-discover-trivia.json](./227782-planet-quiz-learn-and-discover-trivia.json) |
@@ -5261,6 +5263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Mine 3 | 68340 | [68340-pocket-mine-3.json](./68340-pocket-mine-3.json) |
 | Pocket Mine 3 | 77666 | [77666-pocket-mine-3.json](./77666-pocket-mine-3.json) |
 | Pocket Mini Golf | 132027 | [132027-pocket-mini-golf.json](./132027-pocket-mini-golf.json) |
+| Pocket Mini Golf: Hole in one | 238029 | [238029-pocket-mini-golf-hole-in-one.json](./238029-pocket-mini-golf-hole-in-one.json) |
 | Pocket Mirror | 57894 | [57894-pocket-mirror.json](./57894-pocket-mirror.json) |
 | Pocket Mirror: GoldenerTraum | 211637 | [211637-pocket-mirror-goldenertraum.json](./211637-pocket-mirror-goldenertraum.json) |
 | Pocket Monsters Diamond & Pearl: Pokémon wo Sagase! Meiro de Daibouken! | 125325 | [125325-pocket-monsters-diamond-and-pearl-pokemon-wo-sagase-meiro-de-daibouken.json](./125325-pocket-monsters-diamond-and-pearl-pokemon-wo-sagase-meiro-de-daibouken.json) |
@@ -9085,6 +9088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Book: Animals Edition | 378959 | [378959-puzzle-book-animals-edition.json](./378959-puzzle-book-animals-edition.json) |
 | Puzzle Book: Furry Friends Bundle | 223564 | [223564-puzzle-book-furry-friends-bundle.json](./223564-puzzle-book-furry-friends-bundle.json) |
 | Puzzle Book: Summer 2020 | 238036 | [238036-puzzle-book-summer-2020.json](./238036-puzzle-book-summer-2020.json) |
+| Puzzle Book: Summer 2021 | 238028 | [238028-puzzle-book-summer-2021.json](./238028-puzzle-book-summer-2021.json) |
 | Puzzle Bowling | 158143 | [158143-puzzle-bowling.json](./158143-puzzle-bowling.json) |
 | Puzzle Box | 166072 | [166072-puzzle-box.json](./166072-puzzle-box.json) |
 | Puzzle Box | 27037 | [27037-puzzle-box.json](./27037-puzzle-box.json) |
