@@ -3444,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Dungeon | 285579 | [285579-evil-dungeon.json](./285579-evil-dungeon.json) |
 | Evil Dungeon II | 285580 | [285580-evil-dungeon-ii.json](./285580-evil-dungeon-ii.json) |
 | Evil Dungeons 2 | 323160 | [323160-evil-dungeons-2.json](./323160-evil-dungeons-2.json) |
+| Evil Dwells Within | 276392 | [276392-evil-dwells-within.json](./276392-evil-dwells-within.json) |
 | Evil Egg | 351117 | [351117-evil-egg.json](./351117-evil-egg.json) |
 | Evil Elves II Deluxe | 276925 | [276925-evil-elves-ii-deluxe.json](./276925-evil-elves-ii-deluxe.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
