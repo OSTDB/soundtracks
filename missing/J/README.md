@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle: Pro Edition - Expansion Pack 6 | 162243 | [162243-jigsaw-puzzle-pro-edition-expansion-pack-6.json](./162243-jigsaw-puzzle-pro-edition-expansion-pack-6.json) |
 | Jigsaw Puzzle. Women's Day | 105903 | [105903-jigsaw-puzzle-womens-day.json](./105903-jigsaw-puzzle-womens-day.json) |
 | Jigsaw Puzzles | 357894 | [357894-jigsaw-puzzles.json](./357894-jigsaw-puzzles.json) |
+| Jigsaw Puzzles All in One | 239115 | [239115-jigsaw-puzzles-all-in-one.json](./239115-jigsaw-puzzles-all-in-one.json) |
 | Jigsaw Puzzles Infinite: Cats & Dogs Puzzle Pack | 286238 | [286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json](./286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json) |
 | Jigsaw Puzzles: Puzzle Game | 223946 | [223946-jigsaw-puzzles-puzzle-game.json](./223946-jigsaw-puzzles-puzzle-game.json) |
 | Jigsaw Realms: Nature | 386369 | [386369-jigsaw-realms-nature.json](./386369-jigsaw-realms-nature.json) |
@@ -1457,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey's End | 142898 | [142898-journeys-end.json](./142898-journeys-end.json) |
 | Journey's Legend | 274501 | [274501-journeys-legend.json](./274501-journeys-legend.json) |
 | Journeyman | 236373 | [236373-journeyman.json](./236373-journeyman.json) |
+| Joust | 239137 | [239137-joust.json](./239137-joust.json) |
 | Joust | 278084 | [278084-joust.json](./278084-joust.json) |
 | Joust | 278086 | [278086-joust.json](./278086-joust.json) |
 | Joust | 278088 | [278088-joust.json](./278088-joust.json) |
