@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Alley Escape | 315671 | [315671-dark-alley-escape.json](./315671-dark-alley-escape.json) |
 | Dark and Bright | 51552 | [51552-dark-and-bright.json](./51552-dark-and-bright.json) |
 | Dark and Forgotten | 262599 | [262599-dark-and-forgotten.json](./262599-dark-and-forgotten.json) |
+| Dark and Light | 251093 | [251093-dark-and-light.json](./251093-dark-and-light.json) |
 | Dark and Light Mobile | 227497 | [227497-dark-and-light-mobile.json](./227497-dark-and-light-mobile.json) |
 | Dark and Light: Tales of Gaia | 51999 | [51999-dark-and-light-tales-of-gaia.json](./51999-dark-and-light-tales-of-gaia.json) |
 | Dark Angael | 206964 | [206964-dark-angael.json](./206964-dark-angael.json) |
@@ -6434,6 +6435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom & Destiny | 13168 | [13168-doom-and-destiny.json](./13168-doom-and-destiny.json) |
 | Doom & Destiny Advanced | 25944 | [25944-doom-and-destiny-advanced.json](./25944-doom-and-destiny-advanced.json) |
 | Doom & Destiny Worlds | 133012 | [133012-doom-and-destiny-worlds.json](./133012-doom-and-destiny-worlds.json) |
+| Doom & Destiny Worlds: Damsels & Dragons | 251099 | [251099-doom-and-destiny-worlds-damsels-and-dragons.json](./251099-doom-and-destiny-worlds-damsels-and-dragons.json) |
 | Doom & Destiny Worlds: Survival of the Nerdiest | 171949 | [171949-doom-and-destiny-worlds-survival-of-the-nerdiest.json](./171949-doom-and-destiny-worlds-survival-of-the-nerdiest.json) |
 | Doom & Destiny Worlds: Ultimate Supporter Edition | 255260 | [255260-doom-and-destiny-worlds-ultimate-supporter-edition.json](./255260-doom-and-destiny-worlds-ultimate-supporter-edition.json) |
 | Doom + Doom II | 313126 | [313126-doom-doom-ii.json](./313126-doom-doom-ii.json) |
@@ -8222,6 +8224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill Arena | 86549 | [86549-drill-arena.json](./86549-drill-arena.json) |
 | Drill Core: The Machine World | 399016 | [399016-drill-core-the-machine-world.json](./399016-drill-core-the-machine-world.json) |
 | Drill Deal | 118816 | [118816-drill-deal.json](./118816-drill-deal.json) |
+| Drill Deal: Oil Tycoon | 251107 | [251107-drill-deal-oil-tycoon.json](./251107-drill-deal-oil-tycoon.json) |
 | Drill Deep | 400957 | [400957-drill-deep.json](./400957-drill-deep.json) |
 | Drill Dozer | 6390 | [6390-drill-dozer.json](./6390-drill-dozer.json) |
 | Drill Keeper | 253370 | [253370-drill-keeper.json](./253370-drill-keeper.json) |
