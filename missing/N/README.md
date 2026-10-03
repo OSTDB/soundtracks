@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naught Reawakening | 35798 | [35798-naught-reawakening.json](./35798-naught-reawakening.json) |
 | Naught: Edahi & Dohai | 238215 | [238215-naught-edahi-and-dohai.json](./238215-naught-edahi-and-dohai.json) |
 | Naught: Extended Edition | 139911 | [139911-naught-extended-edition.json](./139911-naught-extended-edition.json) |
+| Naught: Sudagi | 238025 | [238025-naught-sudagi.json](./238025-naught-sudagi.json) |
 | Naughty | 348778 | [348778-naughty.json](./348778-naughty.json) |
 | Naughty & Nice | 283732 | [283732-naughty-and-nice.json](./283732-naughty-and-nice.json) |
 | Naughty Baby | 420666 | [420666-naughty-baby.json](./420666-naughty-baby.json) |
