@@ -4431,6 +4431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greystorm | 73557 | [73557-greystorm.json](./73557-greystorm.json) |
 | Grid | 118871 | [118871-grid.json](./118871-grid.json) |
 | Grid 2 | 2138 | [2138-grid-2.json](./2138-grid-2.json) |
+| Grid 32 | 274128 | [274128-grid-32.json](./274128-grid-32.json) |
 | Grid Crypt | 398466 | [398466-grid-crypt.json](./398466-grid-crypt.json) |
 | Grid Empire | 347843 | [347843-grid-empire.json](./347843-grid-empire.json) |
 | Grid Gladiators | 343310 | [343310-grid-gladiators.json](./343310-grid-gladiators.json) |
@@ -4945,6 +4946,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guerrilla Gardener | 104459 | [104459-guerrilla-gardener.json](./104459-guerrilla-gardener.json) |
 | Guerrilla Gardening | 182531 | [182531-guerrilla-gardening.json](./182531-guerrilla-gardening.json) |
 | Guerrilla Strike | 43343 | [43343-guerrilla-strike.json](./43343-guerrilla-strike.json) |
+| Guerrilla War | 274099 | [274099-guerrilla-war.json](./274099-guerrilla-war.json) |
+| Guerrilla War | 274100 | [274100-guerrilla-war.json](./274100-guerrilla-war.json) |
 | Guerrilla War | 39787 | [39787-guerrilla-war.json](./39787-guerrilla-war.json) |
 | Guess Da Meme | 104067 | [104067-guess-da-meme.json](./104067-guess-da-meme.json) |
 | Guess Game | 115068 | [115068-guess-game.json](./115068-guess-game.json) |
@@ -5170,6 +5173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Beat | 113458 | [113458-gun-beat.json](./113458-gun-beat.json) |
 | Gun Blade | 212204 | [212204-gun-blade.json](./212204-gun-blade.json) |
 | Gun Blood Cowboy Duel | 103506 | [103506-gun-blood-cowboy-duel.json](./103506-gun-blood-cowboy-duel.json) |
+| Gun Boat Duck Hunt | 274110 | [274110-gun-boat-duck-hunt.json](./274110-gun-boat-duck-hunt.json) |
 | Gun Bots | 157067 | [157067-gun-bots.json](./157067-gun-bots.json) |
 | Gun Breaker | 227258 | [227258-gun-breaker.json](./227258-gun-breaker.json) |
 | Gun Bro | 325001 | [325001-gun-bro.json](./325001-gun-bro.json) |
