@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Thief's Legacy | 52562 | [52562-a-thiefs-legacy.json](./52562-a-thiefs-legacy.json) |
 | A Thin Line | 28030 | [28030-a-thin-line.json](./28030-a-thin-line.json) |
 | A Thousand Mouths to Scream | 338179 | [338179-a-thousand-mouths-to-scream.json](./338179-a-thousand-mouths-to-scream.json) |
+| A thousand words that I could tell you | 257539 | [257539-a-thousand-words-that-i-could-tell-you.json](./257539-a-thousand-words-that-i-could-tell-you.json) |
 | A Timeless Story | 124669 | [124669-a-timeless-story.json](./124669-a-timeless-story.json) |
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
 | A Tiny Wander | 324887 | [324887-a-tiny-wander.json](./324887-a-tiny-wander.json) |
@@ -2531,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akanesasu Sekai de Kimi to Utau | 240479 | [240479-akanesasu-sekai-de-kimi-to-utau.json](./240479-akanesasu-sekai-de-kimi-to-utau.json) |
 | Akapulka: The Rainbow | 201666 | [201666-akapulka-the-rainbow.json](./201666-akapulka-the-rainbow.json) |
 | Akari by Nikoli | 84869 | [84869-akari-by-nikoli.json](./84869-akari-by-nikoli.json) |
+| Akasha Dreams | 257537 | [257537-akasha-dreams.json](./257537-akasha-dreams.json) |
 | Akashi | 229379 | [229379-akashi.json](./229379-akashi.json) |
 | Akashicverse: Pandemonic Nightmare | 152210 | [152210-akashicverse-pandemonic-nightmare.json](./152210-akashicverse-pandemonic-nightmare.json) |
 | Akatori | 140375 | [140375-akatori.json](./140375-akatori.json) |
@@ -5478,6 +5480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo 11 VR | 33145 | [33145-apollo-11-vr.json](./33145-apollo-11-vr.json) |
 | Apollo 11 VR HD | 111144 | [111144-apollo-11-vr-hd.json](./111144-apollo-11-vr-hd.json) |
 | Apollo 13 | 199021 | [199021-apollo-13.json](./199021-apollo-13.json) |
+| Apollo 13 | 257578 | [257578-apollo-13.json](./257578-apollo-13.json) |
 | Apollo 13: The Lost Tapes VR | 297538 | [297538-apollo-13-the-lost-tapes-vr.json](./297538-apollo-13-the-lost-tapes-vr.json) |
 | Apollo 18 | 13792 | [13792-apollo-18.json](./13792-apollo-18.json) |
 | Apollo Justice: Ace Attorney | 253010 | [253010-apollo-justice-ace-attorney.json](./253010-apollo-justice-ace-attorney.json) |
@@ -7401,6 +7404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa: Red Pack | 225910 | [225910-assetto-corsa-red-pack.json](./225910-assetto-corsa-red-pack.json) |
 | Assetto Corsa: Tripl3 Pack | 168898 | [168898-assetto-corsa-tripl3-pack.json](./168898-assetto-corsa-tripl3-pack.json) |
 | Assia: Returning to Dreams | 257314 | [257314-assia-returning-to-dreams.json](./257314-assia-returning-to-dreams.json) |
+| Assignment Due: Project Blue | 257555 | [257555-assignment-due-project-blue.json](./257555-assignment-due-project-blue.json) |
 | Assimilation | 72125 | [72125-assimilation.json](./72125-assimilation.json) |
 | Assistant to the Lost Detective: Remaster | 298126 | [298126-assistant-to-the-lost-detective-remaster.json](./298126-assistant-to-the-lost-detective-remaster.json) |
 | Associate | 354527 | [354527-associate.json](./354527-associate.json) |
