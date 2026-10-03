@@ -3532,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Call Centre | 149542 | [149542-the-call-centre.json](./149542-the-call-centre.json) |
 | The Call of Karen | 139812 | [139812-the-call-of-karen.json](./139812-the-call-of-karen.json) |
 | The Call of Krul'ar | 200639 | [200639-the-call-of-krular.json](./200639-the-call-of-krular.json) |
+| The Call of Ktulu | 274153 | [274153-the-call-of-ktulu.json](./274153-the-call-of-ktulu.json) |
 | The Call of the Rats | 300702 | [300702-the-call-of-the-rats.json](./300702-the-call-of-the-rats.json) |
 | The Calling | 339386 | [339386-the-calling.json](./339386-the-calling.json) |
 | The Callisto Protocol: Contagion Bundle | 241958 | [241958-the-callisto-protocol-contagion-bundle.json](./241958-the-callisto-protocol-contagion-bundle.json) |
@@ -4119,6 +4120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day I Became a Bird | 390967 | [390967-the-day-i-became-a-bird.json](./390967-the-day-i-became-a-bird.json) |
 | The Day in a Life of a Dayfly | 357461 | [357461-the-day-in-a-life-of-a-dayfly.json](./357461-the-day-in-a-life-of-a-dayfly.json) |
 | The Day Nothing Happened | 70379 | [70379-the-day-nothing-happened.json](./70379-the-day-nothing-happened.json) |
+| The Day of Chains | 274150 | [274150-the-day-of-chains.json](./274150-the-day-of-chains.json) |
 | The Day of Sagittarius III | 281481 | [281481-the-day-of-sagittarius-iii.json](./281481-the-day-of-sagittarius-iii.json) |
 | The Day of Salvation | 374744 | [374744-the-day-of-salvation.json](./374744-the-day-of-salvation.json) |
 | The Day of the Jellyfish | 368154 | [368154-the-day-of-the-jellyfish.json](./368154-the-day-of-the-jellyfish.json) |
@@ -6309,6 +6311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Maya | 78324 | [78324-the-legend-of-maya.json](./78324-the-legend-of-maya.json) |
 | The Legend of Mir 2 | 51204 | [51204-the-legend-of-mir-2.json](./51204-the-legend-of-mir-2.json) |
 | The Legend of Monsters | 179521 | [179521-the-legend-of-monsters.json](./179521-the-legend-of-monsters.json) |
+| The Legend of Mystic Zone | 274112 | [274112-the-legend-of-mystic-zone.json](./274112-the-legend-of-mystic-zone.json) |
 | The Legend of Nayuta: Boundless Trails | 42722 | [42722-the-legend-of-nayuta-boundless-trails.json](./42722-the-legend-of-nayuta-boundless-trails.json) |
 | The Legend of Nayuta: Boundless Trails - Deluxe Edition | 284594 | [284594-the-legend-of-nayuta-boundless-trails-deluxe-edition.json](./284594-the-legend-of-nayuta-boundless-trails-deluxe-edition.json) |
 | The Legend of Nayuta: Boundless Trails - Limited Edition | 284595 | [284595-the-legend-of-nayuta-boundless-trails-limited-edition.json](./284595-the-legend-of-nayuta-boundless-trails-limited-edition.json) |
@@ -8191,6 +8194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shaft | 232555 | [232555-the-shaft.json](./232555-the-shaft.json) |
 | The Shafts of Damnation | 345016 | [345016-the-shafts-of-damnation.json](./345016-the-shafts-of-damnation.json) |
 | The Shame of a Daydreamer | 349394 | [349394-the-shame-of-a-daydreamer.json](./349394-the-shame-of-a-daydreamer.json) |
+| The Shape of Happiness | 274144 | [274144-the-shape-of-happiness.json](./274144-the-shape-of-happiness.json) |
 | The Shape of Heart | 31840 | [31840-the-shape-of-heart.json](./31840-the-shape-of-heart.json) |
 | The Shape of Things | 211729 | [211729-the-shape-of-things.json](./211729-the-shape-of-things.json) |
 | The Shape of Things: Gacha Box 1 | 278109 | [278109-the-shape-of-things-gacha-box-1.json](./278109-the-shape-of-things-gacha-box-1.json) |
@@ -12087,6 +12091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Dust | 259824 | [259824-to-dust.json](./259824-to-dust.json) |
 | To Eat A God | 326143 | [326143-to-eat-a-god.json](./326143-to-eat-a-god.json) |
 | To End All Wars: Breaking the Deadlock | 171955 | [171955-to-end-all-wars-breaking-the-deadlock.json](./171955-to-end-all-wars-breaking-the-deadlock.json) |
+| To Fight | 274116 | [274116-to-fight.json](./274116-to-fight.json) |
 | To Fight The Sea | 333704 | [333704-to-fight-the-sea.json](./333704-to-fight-the-sea.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
 | To Hell With the Ugly | 158137 | [158137-to-hell-with-the-ugly.json](./158137-to-hell-with-the-ugly.json) |
