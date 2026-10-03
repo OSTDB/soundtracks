@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Aliens Cats: Extra Content | 308929 | [308929-100-aliens-cats-extra-content.json](./308929-100-aliens-cats-extra-content.json) |
 | 100 All-Time Favorites | 67343 | [67343-100-all-time-favorites.json](./67343-100-all-time-favorites.json) |
 | 100 Amsterdam Cats | 351683 | [351683-100-amsterdam-cats.json](./351683-100-amsterdam-cats.json) |
+| 100 Animalease | 236902 | [236902-100-animalease.json](./236902-100-animalease.json) |
 | 100 Animals on an Island | 325501 | [325501-100-animals-on-an-island.json](./325501-100-animals-on-an-island.json) |
 | 100 Archeology Cats | 393728 | [393728-100-archeology-cats.json](./393728-100-archeology-cats.json) |
 | 100 Astro Cats | 347755 | [347755-100-astro-cats.json](./347755-100-astro-cats.json) |
