@@ -2821,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escort's Secrets 18+ | 275135 | [275135-escorts-secrets-18.json](./275135-escorts-secrets-18.json) |
 | Escortina Life! 2.0 | 286075 | [286075-escortina-life-2-0.json](./286075-escortina-life-2-0.json) |
 | Escria | 402469 | [402469-escria.json](./402469-escria.json) |
+| Esdraz: The Throne of Darkness | 238585 | [238585-esdraz-the-throne-of-darkness.json](./238585-esdraz-the-throne-of-darkness.json) |
 | Eseal: Reject, Reclaim, Redeem | 372639 | [372639-eseal-reject-reclaim-redeem.json](./372639-eseal-reject-reclaim-redeem.json) |
 | Eseala | 267472 | [267472-eseala.json](./267472-eseala.json) |
 | Eselmir and the Five Magical Gifts | 52067 | [52067-eselmir-and-the-five-magical-gifts.json](./52067-eselmir-and-the-five-magical-gifts.json) |
@@ -3973,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extermination | 130828 | [130828-extermination.json](./130828-extermination.json) |
 | Extermination | 271997 | [271997-extermination.json](./271997-extermination.json) |
 | Extermination 1 | 304705 | [304705-extermination-1.json](./304705-extermination-1.json) |
+| Exterminator | 238557 | [238557-exterminator.json](./238557-exterminator.json) |
 | Exterminator | 290522 | [290522-exterminator.json](./290522-exterminator.json) |
 | Exterminators of Saturn | 253580 | [253580-exterminators-of-saturn.json](./253580-exterminators-of-saturn.json) |
 | Exterminium | 349878 | [349878-exterminium.json](./349878-exterminium.json) |
