@@ -2500,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Ever After | 211624 | [211624-escape-from-ever-after.json](./211624-escape-from-ever-after.json) |
 | Escape From Exile | 259041 | [259041-escape-from-exile.json](./259041-escape-from-exile.json) |
 | Escape From Exit 7 of the Theater | 315281 | [315281-escape-from-exit-7-of-the-theater.json](./315281-escape-from-exit-7-of-the-theater.json) |
+| Escape From Flea Market Montgomery | 276930 | [276930-escape-from-flea-market-montgomery.json](./276930-escape-from-flea-market-montgomery.json) |
 | Escape from Fools | 112968 | [112968-escape-from-fools.json](./112968-escape-from-fools.json) |
 | Escape from Frankenstein's Castle | 213598 | [213598-escape-from-frankensteins-castle.json](./213598-escape-from-frankensteins-castle.json) |
 | Escape from Ghosts | 385314 | [385314-escape-from-ghosts.json](./385314-escape-from-ghosts.json) |
@@ -3444,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Dungeon II | 285580 | [285580-evil-dungeon-ii.json](./285580-evil-dungeon-ii.json) |
 | Evil Dungeons 2 | 323160 | [323160-evil-dungeons-2.json](./323160-evil-dungeons-2.json) |
 | Evil Egg | 351117 | [351117-evil-egg.json](./351117-evil-egg.json) |
+| Evil Elves II Deluxe | 276925 | [276925-evil-elves-ii-deluxe.json](./276925-evil-elves-ii-deluxe.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
 | Evil Eyes | 289560 | [289560-evil-eyes.json](./289560-evil-eyes.json) |
 | Evil Factory | 74790 | [74790-evil-factory.json](./74790-evil-factory.json) |
