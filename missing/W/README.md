@@ -4006,6 +4006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordsUp! Academy | 84961 | [84961-wordsup-academy.json](./84961-wordsup-academy.json) |
 | Wordsweeper by Powgi | 121643 | [121643-wordsweeper-by-powgi.json](./121643-wordsweeper-by-powgi.json) |
 | WordTrip: Word Swipe Puzzles | 98795 | [98795-wordtrip-word-swipe-puzzles.json](./98795-wordtrip-word-swipe-puzzles.json) |
+| WordWarrior | 243168 | [243168-wordwarrior.json](./243168-wordwarrior.json) |
 | WordWhizzle Connect | 86799 | [86799-wordwhizzle-connect.json](./86799-wordwhizzle-connect.json) |
 | WordWhizzle Search | 52881 | [52881-wordwhizzle-search.json](./52881-wordwhizzle-search.json) |
 | WordyBuilder | 245972 | [245972-wordybuilder.json](./245972-wordybuilder.json) |
