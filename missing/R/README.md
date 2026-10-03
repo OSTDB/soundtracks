@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R2R: Rewire to Revolt | 338333 | [338333-r2r-rewire-to-revolt.json](./338333-r2r-rewire-to-revolt.json) |
 | R42 | 130900 | [130900-r42.json](./130900-r42.json) |
 | R4YL: Run for your life! | 253879 | [253879-r4yl-run-for-your-life.json](./253879-r4yl-run-for-your-life.json) |
+| R5Reloaded | 229750 | [229750-r5reloaded.json](./229750-r5reloaded.json) |
 | Ra Ra Boom | 242111 | [242111-ra-ra-boom.json](./242111-ra-ra-boom.json) |
 | Ra.One: The Game | 18295 | [18295-ra-one-the-game.json](./18295-ra-one-the-game.json) |
 | Raahi | 379051 | [379051-raahi.json](./379051-raahi.json) |
@@ -1187,6 +1188,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rawyokan | 334915 | [334915-rawyokan.json](./334915-rawyokan.json) |
 | Rax Runner! | 338288 | [338288-rax-runner.json](./338288-rax-runner.json) |
 | Ray | 298639 | [298639-ray.json](./298639-ray.json) |
+| Ray - Part 1 | 229594 | [229594-ray-part-1.json](./229594-ray-part-1.json) |
+| Ray - Part 2 | 229596 | [229596-ray-part-2.json](./229596-ray-part-2.json) |
 | Ray And Cooper | 310584 | [310584-ray-and-cooper.json](./310584-ray-and-cooper.json) |
 | Ray Attack | 148470 | [148470-ray-attack.json](./148470-ray-attack.json) |
 | Ray Blade | 98027 | [98027-ray-blade.json](./98027-ray-blade.json) |
