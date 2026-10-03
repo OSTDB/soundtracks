@@ -2325,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life's Too Short GB: A Christmas Spirit | 292225 | [292225-lifes-too-short-gb-a-christmas-spirit.json](./292225-lifes-too-short-gb-a-christmas-spirit.json) |
 | Life's Too Short: A Christmas Spirit | 228095 | [228095-lifes-too-short-a-christmas-spirit.json](./228095-lifes-too-short-a-christmas-spirit.json) |
 | Life's Too Short: On Reflection | 329912 | [329912-lifes-too-short-on-reflection.json](./329912-lifes-too-short-on-reflection.json) |
+| Life's Too Short! | 259139 | [259139-lifes-too-short.json](./259139-lifes-too-short.json) |
 | LifeAfter | 115660 | [115660-lifeafter.json](./115660-lifeafter.json) |
 | LifeDev | 258470 | [258470-lifedev.json](./258470-lifedev.json) |
 | Lifeflame Compendium | 150040 | [150040-lifeflame-compendium.json](./150040-lifeflame-compendium.json) |
