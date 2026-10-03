@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars Across The World: Namibia 1915 | 292644 | [292644-wars-across-the-world-namibia-1915.json](./292644-wars-across-the-world-namibia-1915.json) |
 | Wars Across the World: Sepoy 1857 | 212228 | [212228-wars-across-the-world-sepoy-1857.json](./212228-wars-across-the-world-sepoy-1857.json) |
 | Wars Across The World: Tryphon 104 | 350610 | [350610-wars-across-the-world-tryphon-104.json](./350610-wars-across-the-world-tryphon-104.json) |
+| Wars Across the World: Zulu 1879 | 242623 | [242623-wars-across-the-world-zulu-1879.json](./242623-wars-across-the-world-zulu-1879.json) |
 | Wars of Napoleon | 33092 | [33092-wars-of-napoleon.json](./33092-wars-of-napoleon.json) |
 | Wars of Prasia | 188381 | [188381-wars-of-prasia.json](./188381-wars-of-prasia.json) |
 | Wars of Succession | 79814 | [79814-wars-of-succession.json](./79814-wars-of-succession.json) |
@@ -3922,6 +3923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Training Camp | 130929 | [130929-word-training-camp.json](./130929-word-training-camp.json) |
 | Word Tuah | 338303 | [338303-word-tuah.json](./338303-word-tuah.json) |
 | Word U | 104600 | [104600-word-u.json](./104600-word-u.json) |
+| Word War Vi | 242591 | [242591-word-war-vi.json](./242591-word-war-vi.json) |
 | Word Warp | 377139 | [377139-word-warp.json](./377139-word-warp.json) |
 | Word Warp: Animal Edition | 396222 | [396222-word-warp-animal-edition.json](./396222-word-warp-animal-edition.json) |
 | Word Warrior: Zombie Typocalypse | 278727 | [278727-word-warrior-zombie-typocalypse.json](./278727-word-warrior-zombie-typocalypse.json) |
@@ -4689,6 +4691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wret | 352871 | [352871-wret.json](./352871-wret.json) |
 | Wretch | 366985 | [366985-wretch.json](./366985-wretch.json) |
 | Wretch: Divine Ascent | 352750 | [352750-wretch-divine-ascent.json](./352750-wretch-divine-ascent.json) |
+| Wretched Depths | 242595 | [242595-wretched-depths.json](./242595-wretched-depths.json) |
 | Wretched Star | 333083 | [333083-wretched-star.json](./333083-wretched-star.json) |
 | Wriggler | 46742 | [46742-wriggler.json](./46742-wriggler.json) |
 | Wrigglui | 280867 | [280867-wrigglui.json](./280867-wrigglui.json) |
