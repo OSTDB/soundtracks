@@ -2296,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey | 200667 | [200667-air-hockey.json](./200667-air-hockey.json) |
 | Air Hockey | 43934 | [43934-air-hockey.json](./43934-air-hockey.json) |
 | Air Hockey Blue | 197773 | [197773-air-hockey-blue.json](./197773-air-hockey-blue.json) |
+| Air Hockey Halloween | 243737 | [243737-air-hockey-halloween.json](./243737-air-hockey-halloween.json) |
 | Air Hockey Pink | 175177 | [175177-air-hockey-pink.json](./175177-air-hockey-pink.json) |
 | Air Hockey Simulator | 379525 | [379525-air-hockey-simulator.json](./379525-air-hockey-simulator.json) |
 | Air Hockey-fuu: Soukai Taisen Action Game - Breaking Beats! | 250444 | [250444-air-hockey-fuu-soukai-taisen-action-game-breaking-beats.json](./250444-air-hockey-fuu-soukai-taisen-action-game-breaking-beats.json) |
@@ -4873,6 +4874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Hero Zero | 292011 | [292011-anime-hero-zero.json](./292011-anime-hero-zero.json) |
 | Anime Hero Zero 2 | 292013 | [292013-anime-hero-zero-2.json](./292013-anime-hero-zero-2.json) |
 | Anime Hero Zero 3 | 292014 | [292014-anime-hero-zero-3.json](./292014-anime-hero-zero-3.json) |
+| Anime In 10 Words | 243751 | [243751-anime-in-10-words.json](./243751-anime-in-10-words.json) |
 | Anime Jigsaw | 357872 | [357872-anime-jigsaw.json](./357872-anime-jigsaw.json) |
 | Anime Jigsaw Girls: Christmas | 286515 | [286515-anime-jigsaw-girls-christmas.json](./286515-anime-jigsaw-girls-christmas.json) |
 | Anime Land | 91914 | [91914-anime-land.json](./91914-anime-land.json) |
