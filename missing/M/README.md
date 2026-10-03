@@ -1618,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manufactur'inc. | 265956 | [265956-manufacturinc.json](./265956-manufacturinc.json) |
 | Manuganu | 175908 | [175908-manuganu.json](./175908-manuganu.json) |
 | Manuganu 2 | 175909 | [175909-manuganu-2.json](./175909-manuganu-2.json) |
+| Manus Dei | 269226 | [269226-manus-dei.json](./269226-manus-dei.json) |
 | Manx TT Super Bike | 36572 | [36572-manx-tt-super-bike.json](./36572-manx-tt-super-bike.json) |
 | Many Crimes of Serenity Falls | 301917 | [301917-many-crimes-of-serenity-falls.json](./301917-many-crimes-of-serenity-falls.json) |
 | Manygolf | 54740 | [54740-manygolf.json](./54740-manygolf.json) |
@@ -7219,6 +7220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobo Greenhouse Garden | 256903 | [256903-mobo-greenhouse-garden.json](./256903-mobo-greenhouse-garden.json) |
 | Mobo Hide and Seek | 200128 | [200128-mobo-hide-and-seek.json](./200128-mobo-hide-and-seek.json) |
 | Mobocratic | 164279 | [164279-mobocratic.json](./164279-mobocratic.json) |
+| Mobocratic Union | 269229 | [269229-mobocratic-union.json](./269229-mobocratic-union.json) |
 | MobOS | 350566 | [350566-mobos.json](./350566-mobos.json) |
 | Mobs 'N Monsters | 321379 | [321379-mobs-n-monsters.json](./321379-mobs-n-monsters.json) |
 | Mobsmash.io | 125981 | [125981-mobsmash-io.json](./125981-mobsmash-io.json) |
@@ -7592,6 +7594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monk & The Misfit Monsters | 413622 | [413622-monk-and-the-misfit-monsters.json](./413622-monk-and-the-misfit-monsters.json) |
 | Monk Took Book | 393839 | [393839-monk-took-book.json](./393839-monk-took-book.json) |
 | Monkaru Fanta: Yuusha to Suishou no Shoujo | 348924 | [348924-monkaru-fanta-yuusha-to-suishou-no-shoujo.json](./348924-monkaru-fanta-yuusha-to-suishou-no-shoujo.json) |
+| Monkee Game | 269230 | [269230-monkee-game.json](./269230-monkee-game.json) |
 | Monkeround | 326219 | [326219-monkeround.json](./326219-monkeround.json) |
 | Monkey | 305464 | [305464-monkey.json](./305464-monkey.json) |
 | Monkey Bananza | 146349 | [146349-monkey-bananza.json](./146349-monkey-bananza.json) |
@@ -8729,6 +8732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mostly Delivered | 407382 | [407382-mostly-delivered.json](./407382-mostly-delivered.json) |
 | Mostly Harmless | 275804 | [275804-mostly-harmless.json](./275804-mostly-harmless.json) |
 | Mostly Scared of Spiders | 115683 | [115683-mostly-scared-of-spiders.json](./115683-mostly-scared-of-spiders.json) |
+| Mostroscopy | 269231 | [269231-mostroscopy.json](./269231-mostroscopy.json) |
 | Mot's 8-Ball Pool | 374166 | [374166-mots-8-ball-pool.json](./374166-mots-8-ball-pool.json) |
 | Mot's Grand Prix | 293749 | [293749-mots-grand-prix.json](./293749-mots-grand-prix.json) |
 | Mota Must Die | 397248 | [397248-mota-must-die.json](./397248-mota-must-die.json) |
