@@ -6250,6 +6250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Starve Together: Starter Pack 2025 | 374238 | [374238-dont-starve-together-starter-pack-2025.json](./374238-dont-starve-together-starter-pack-2025.json) |
 | Don't Starve: Console Edition | 154347 | [154347-dont-starve-console-edition.json](./154347-dont-starve-console-edition.json) |
 | Don't Starve: Pocket Edition | 86925 | [86925-dont-starve-pocket-edition.json](./86925-dont-starve-pocket-edition.json) |
+| Don't Steal My Christmas! | 235271 | [235271-dont-steal-my-christmas.json](./235271-dont-steal-my-christmas.json) |
 | Don't Stop | 106139 | [106139-dont-stop.json](./106139-dont-stop.json) |
 | Don't Stop Corocco | 151663 | [151663-dont-stop-corocco.json](./151663-dont-stop-corocco.json) |
 | Don't Stop in Red Wood | 378387 | [378387-dont-stop-in-red-wood.json](./378387-dont-stop-in-red-wood.json) |
