@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Ninja Shooter | 207772 | [207772-ultra-ninja-shooter.json](./207772-ultra-ninja-shooter.json) |
 | Ultra Ninja Soul | 151755 | [151755-ultra-ninja-soul.json](./151755-ultra-ninja-soul.json) |
 | Ultra Nothing | 377674 | [377674-ultra-nothing.json](./377674-ultra-nothing.json) |
+| Ultra Pixel Survive | 243763 | [243763-ultra-pixel-survive.json](./243763-ultra-pixel-survive.json) |
 | Ultra Realistic Mine | 416820 | [416820-ultra-realistic-mine.json](./416820-ultra-realistic-mine.json) |
 | Ultra Rhythm | 227876 | [227876-ultra-rhythm.json](./227876-ultra-rhythm.json) |
 | Ultra SCSIcide | 40732 | [40732-ultra-scsicide.json](./40732-ultra-scsicide.json) |
