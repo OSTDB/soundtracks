@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakoniwa Electric | 399739 | [399739-hakoniwa-electric.json](./399739-hakoniwa-electric.json) |
 | Hakoniwa Explorer Plus | 101606 | [101606-hakoniwa-explorer-plus.json](./101606-hakoniwa-explorer-plus.json) |
 | Hakoniwa Shou-ekiden 2 | 297749 | [297749-hakoniwa-shou-ekiden-2.json](./297749-hakoniwa-shou-ekiden-2.json) |
+| Hakosan | 228336 | [228336-hakosan.json](./228336-hakosan.json) |
 | Hakou Watcher | 253936 | [253936-hakou-watcher.json](./253936-hakou-watcher.json) |
 | Hakuchuumu no Bibouroku | 376630 | [376630-hakuchuumu-no-bibouroku.json](./376630-hakuchuumu-no-bibouroku.json) |
 | Hakuda's Wife Visiting | 151695 | [151695-hakudas-wife-visiting.json](./151695-hakudas-wife-visiting.json) |
@@ -560,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Monogatari Collection | 49589 | [49589-hamster-monogatari-collection.json](./49589-hamster-monogatari-collection.json) |
 | Hamster Monogatari GB + Magi Ham Mahou no Shoujo | 97853 | [97853-hamster-monogatari-gb-magi-ham-mahou-no-shoujo.json](./97853-hamster-monogatari-gb-magi-ham-mahou-no-shoujo.json) |
 | Hamster Panic | 151743 | [151743-hamster-panic.json](./151743-hamster-panic.json) |
+| Hamster Paradise | 228499 | [228499-hamster-paradise.json](./228499-hamster-paradise.json) |
 | Hamster Paradise 2 | 281544 | [281544-hamster-paradise-2.json](./281544-hamster-paradise-2.json) |
 | Hamster Paradise 3 | 281546 | [281546-hamster-paradise-3.json](./281546-hamster-paradise-3.json) |
 | Hamster Paradise 4 | 281547 | [281547-hamster-paradise-4.json](./281547-hamster-paradise-4.json) |
@@ -602,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanano | 28828 | [28828-hanano.json](./28828-hanano.json) |
 | Hanapon Princess | 135790 | [135790-hanapon-princess.json](./135790-hanapon-princess.json) |
 | Hanarenga: Takumi no Utage | 338309 | [338309-hanarenga-takumi-no-utage.json](./338309-hanarenga-takumi-no-utage.json) |
+| Hanasaka Tenshi Tenten-kun no Beat Breaker | 228500 | [228500-hanasaka-tenshi-tenten-kun-no-beat-breaker.json](./228500-hanasaka-tenshi-tenten-kun-no-beat-breaker.json) |
 | Hanata-Kadaka!? | 59993 | [59993-hanata-kadaka.json](./59993-hanata-kadaka.json) |
 | Hanayaka Nari, Waga Ichizoku | 61640 | [61640-hanayaka-nari-waga-ichizoku.json](./61640-hanayaka-nari-waga-ichizoku.json) |
 | Hanayome: The Sacrificial Bride | 284611 | [284611-hanayome-the-sacrificial-bride.json](./284611-hanayome-the-sacrificial-bride.json) |
