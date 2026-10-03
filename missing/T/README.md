@@ -6706,6 +6706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost and Forgotten | 104816 | [104816-the-lost-and-forgotten.json](./104816-the-lost-and-forgotten.json) |
 | The Lost Art of Innkeeping | 135234 | [135234-the-lost-art-of-innkeeping.json](./135234-the-lost-art-of-innkeeping.json) |
 | The Lost Artifacts | 171588 | [171588-the-lost-artifacts.json](./171588-the-lost-artifacts.json) |
+| The Lost Ashford Ring | 267024 | [267024-the-lost-ashford-ring.json](./267024-the-lost-ashford-ring.json) |
 | The Lost Bear | 53923 | [53923-the-lost-bear.json](./53923-the-lost-bear.json) |
 | The Lost Block | 386377 | [386377-the-lost-block.json](./386377-the-lost-block.json) |
 | The Lost Cases of Sherlock Holmes | 10978 | [10978-the-lost-cases-of-sherlock-holmes.json](./10978-the-lost-cases-of-sherlock-holmes.json) |
@@ -8752,6 +8753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sun Crosswords: Volume 1 & 2 | 118165 | [118165-the-sun-crosswords-volume-1-and-2.json](./118165-the-sun-crosswords-volume-1-and-2.json) |
 | The Sun Does Not Exist | 128543 | [128543-the-sun-does-not-exist.json](./128543-the-sun-does-not-exist.json) |
 | The Sun Never Sets | 38962 | [38962-the-sun-never-sets.json](./38962-the-sun-never-sets.json) |
+| The Sun Shines Over Us | 267022 | [267022-the-sun-shines-over-us.json](./267022-the-sun-shines-over-us.json) |
 | The Sun Will Rise | 31833 | [31833-the-sun-will-rise.json](./31833-the-sun-will-rise.json) |
 | The Sun: Evaluation | 174761 | [174761-the-sun-evaluation.json](./174761-the-sun-evaluation.json) |
 | The Sun: Origin | 102763 | [102763-the-sun-origin.json](./102763-the-sun-origin.json) |
@@ -16579,6 +16581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Bit Hero | 157498 | [157498-two-bit-hero.json](./157498-two-bit-hero.json) |
 | Two Brothers | 9440 | [9440-two-brothers.json](./9440-two-brothers.json) |
 | Two Cars Stunts Edition | 219529 | [219529-two-cars-stunts-edition.json](./219529-two-cars-stunts-edition.json) |
+| Two Climbers | 266982 | [266982-two-climbers.json](./266982-two-climbers.json) |
 | Two Clusters Cold Haven | 189978 | [189978-two-clusters-cold-haven.json](./189978-two-clusters-cold-haven.json) |
 | Two Coins | 151008 | [151008-two-coins.json](./151008-two-coins.json) |
 | Two Colours | 201712 | [201712-two-colours.json](./201712-two-colours.json) |
