@@ -1984,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Application | 256555 | [256555-lethal-application.json](./256555-lethal-application.json) |
 | Lethal Beach | 267109 | [267109-lethal-beach.json](./267109-lethal-beach.json) |
 | Lethal Company | 212089 | [212089-lethal-company.json](./212089-lethal-company.json) |
+| Lethal Crisis | 259719 | [259719-lethal-crisis.json](./259719-lethal-crisis.json) |
 | Lethal Dose | 241950 | [241950-lethal-dose.json](./241950-lethal-dose.json) |
 | Lethal Encounter | 297477 | [297477-lethal-encounter.json](./297477-lethal-encounter.json) |
 | Lethal Enforcers | 4501 | [4501-lethal-enforcers.json](./4501-lethal-enforcers.json) |
@@ -3292,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Puzzles: Triazzle | 72023 | [72023-living-puzzles-triazzle.json](./72023-living-puzzles-triazzle.json) |
 | Living Room | 315586 | [315586-living-room.json](./315586-living-room.json) |
 | Living Shadows | 351727 | [351727-living-shadows.json](./351727-living-shadows.json) |
+| Living the Dream | 259763 | [259763-living-the-dream.json](./259763-living-the-dream.json) |
 | Living the Nightmare | 151144 | [151144-living-the-nightmare.json](./151144-living-the-nightmare.json) |
 | Living with an Elf: A Cozy Forest Retreat | 263195 | [263195-living-with-an-elf-a-cozy-forest-retreat.json](./263195-living-with-an-elf-a-cozy-forest-retreat.json) |
 | Living With It | 329394 | [329394-living-with-it.json](./329394-living-with-it.json) |
