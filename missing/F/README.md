@@ -3412,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist of the North Star: Lost Paradise - Premium Edition | 212335 | [212335-fist-of-the-north-star-lost-paradise-premium-edition.json](./212335-fist-of-the-north-star-lost-paradise-premium-edition.json) |
 | Fist of Yokai | 253485 | [253485-fist-of-yokai.json](./253485-fist-of-yokai.json) |
 | Fist Puncher | 9088 | [9088-fist-puncher.json](./9088-fist-puncher.json) |
+| Fist Tower | 233125 | [233125-fist-tower.json](./233125-fist-tower.json) |
 | Fista 3-in-1 Retro Pack | 254762 | [254762-fista-3-in-1-retro-pack.json](./254762-fista-3-in-1-retro-pack.json) |
 | Fista Retro Horror Pack | 309323 | [309323-fista-retro-horror-pack.json](./309323-fista-retro-horror-pack.json) |
 | Fistagon | 264065 | [264065-fistagon.json](./264065-fistagon.json) |
@@ -6731,6 +6732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun with Body for Sex Motel | 288891 | [288891-fun-with-body-for-sex-motel.json](./288891-fun-with-body-for-sex-motel.json) |
 | Fun with Boobs for Cyberpunk Sex | 288883 | [288883-fun-with-boobs-for-cyberpunk-sex.json](./288883-fun-with-boobs-for-cyberpunk-sex.json) |
 | Fun with Boobs for Sex Motel | 288889 | [288889-fun-with-boobs-for-sex-motel.json](./288889-fun-with-boobs-for-sex-motel.json) |
+| Fun with Cubes | 233122 | [233122-fun-with-cubes.json](./233122-fun-with-cubes.json) |
 | Fun with Penis for Sex Motel | 288888 | [288888-fun-with-penis-for-sex-motel.json](./288888-fun-with-penis-for-sex-motel.json) |
 | Fun with Ragdolls: The Game | 123468 | [123468-fun-with-ragdolls-the-game.json](./123468-fun-with-ragdolls-the-game.json) |
 | Fun With the Fitzgeralds | 262946 | [262946-fun-with-the-fitzgeralds.json](./262946-fun-with-the-fitzgeralds.json) |
