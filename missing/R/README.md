@@ -6529,6 +6529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust: Console Deluxe Edition | 148452 | [148452-rust-console-deluxe-edition.json](./148452-rust-console-deluxe-edition.json) |
 | Rust: Console Edition | 145149 | [145149-rust-console-edition.json](./145149-rust-console-edition.json) |
 | Rust: Console Edition - Day One | 146116 | [146116-rust-console-edition-day-one.json](./146116-rust-console-edition-day-one.json) |
+| Rust: Console Edition - New Cobalt Employee Welcome Pack | 259752 | [259752-rust-console-edition-new-cobalt-employee-welcome-pack.json](./259752-rust-console-edition-new-cobalt-employee-welcome-pack.json) |
 | Rust: Console Edition - Warhammer 40,000 Pack | 402506 | [402506-rust-console-edition-warhammer-40-000-pack.json](./402506-rust-console-edition-warhammer-40-000-pack.json) |
 | Rustbucket Rumble | 35699 | [35699-rustbucket-rumble.json](./35699-rustbucket-rumble.json) |
 | Rustbuckets | 415297 | [415297-rustbuckets.json](./415297-rustbuckets.json) |
