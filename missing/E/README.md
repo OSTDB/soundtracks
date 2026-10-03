@@ -1246,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eliosi's Hunt | 32277 | [32277-eliosis-hunt.json](./32277-eliosis-hunt.json) |
 | EliosM: Red Battlefield | 174802 | [174802-eliosm-red-battlefield.json](./174802-eliosm-red-battlefield.json) |
 | Elisa: Seduce the Innkeeper | 63734 | [63734-elisa-seduce-the-innkeeper.json](./63734-elisa-seduce-the-innkeeper.json) |
+| Elise | 245365 | [245365-elise.json](./245365-elise.json) |
 | Elise | 285130 | [285130-elise.json](./285130-elise.json) |
 | Elise and the Spellbinding Marionette | 396388 | [396388-elise-and-the-spellbinding-marionette.json](./396388-elise-and-the-spellbinding-marionette.json) |
 | Elise's Peepshow | 161377 | [161377-elises-peepshow.json](./161377-elises-peepshow.json) |
