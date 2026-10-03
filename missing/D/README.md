@@ -6813,6 +6813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down the Drain | 256830 | [256830-down-the-drain.json](./256830-down-the-drain.json) |
 | Down the Hill! | 259239 | [259239-down-the-hill.json](./259239-down-the-hill.json) |
 | Down the Hole | 133813 | [133813-down-the-hole.json](./133813-down-the-hole.json) |
+| Down the Ratbit Hole | 271371 | [271371-down-the-ratbit-hole.json](./271371-down-the-ratbit-hole.json) |
 | Down the Shaft | 305176 | [305176-down-the-shaft.json](./305176-down-the-shaft.json) |
 | Down There Somewhere | 269031 | [269031-down-there-somewhere.json](./269031-down-there-somewhere.json) |
 | Down Under | 252397 | [252397-down-under.json](./252397-down-under.json) |
@@ -7298,6 +7299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Nest M | 104643 | [104643-dragon-nest-m.json](./104643-dragon-nest-m.json) |
 | Dragon Oath | 59945 | [59945-dragon-oath.json](./59945-dragon-oath.json) |
 | Dragon of Calon Valley | 323737 | [323737-dragon-of-calon-valley.json](./323737-dragon-of-calon-valley.json) |
+| Dragon of Saiyu | 271383 | [271383-dragon-of-saiyu.json](./271383-dragon-of-saiyu.json) |
 | Dragon of Steelthorne | 287753 | [287753-dragon-of-steelthorne.json](./287753-dragon-of-steelthorne.json) |
 | Dragon Pals | 23591 | [23591-dragon-pals.json](./23591-dragon-pals.json) |
 | Dragon Perception | 74474 | [74474-dragon-perception.json](./74474-dragon-perception.json) |
@@ -9372,6 +9374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dylio's Adventures | 418546 | [418546-dylios-adventures.json](./418546-dylios-adventures.json) |
 | Dymension | 191262 | [191262-dymension.json](./191262-dymension.json) |
 | Dyna Blade | 271260 | [271260-dyna-blade.json](./271260-dyna-blade.json) |
+| Dyna Blade | 271402 | [271402-dyna-blade.json](./271402-dyna-blade.json) |
 | Dynablaster Revenge | 18445 | [18445-dynablaster-revenge.json](./18445-dynablaster-revenge.json) |
 | Dynacat | 196958 | [196958-dynacat.json](./196958-dynacat.json) |
 | Dynacore | 214722 | [214722-dynacore.json](./214722-dynacore.json) |
