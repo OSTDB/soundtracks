@@ -6418,6 +6418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Draft | 408234 | [408234-doomsday-draft.json](./408234-doomsday-draft.json) |
 | Doomsday Hero | 156042 | [156042-doomsday-hero.json](./156042-doomsday-hero.json) |
 | Doomsday Hunters | 129042 | [129042-doomsday-hunters.json](./129042-doomsday-hunters.json) |
+| Doomsday Lonely town | 275811 | [275811-doomsday-lonely-town.json](./275811-doomsday-lonely-town.json) |
 | Doomsday of UAC | 252367 | [252367-doomsday-of-uac.json](./252367-doomsday-of-uac.json) |
 | Doomsday on Demand | 104037 | [104037-doomsday-on-demand.json](./104037-doomsday-on-demand.json) |
 | Doomsday on Demand 2 | 104036 | [104036-doomsday-on-demand-2.json](./104036-doomsday-on-demand-2.json) |
@@ -7287,6 +7288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Puncher | 332997 | [332997-dragon-puncher.json](./332997-dragon-puncher.json) |
 | Dragon puzzle | 132733 | [132733-dragon-puzzle.json](./132733-dragon-puzzle.json) |
 | Dragon Quest | 239185 | [239185-dragon-quest.json](./239185-dragon-quest.json) |
+| Dragon Quest + | 275799 | [275799-dragon-quest.json](./275799-dragon-quest.json) |
 | Dragon Quest 25th Anniversary Collection | 136885 | [136885-dragon-quest-25th-anniversary-collection.json](./136885-dragon-quest-25th-anniversary-collection.json) |
 | Dragon Quest Builders | 24069 | [24069-dragon-quest-builders.json](./24069-dragon-quest-builders.json) |
 | Dragon Quest Builders 2 | 54548 | [54548-dragon-quest-builders-2.json](./54548-dragon-quest-builders-2.json) |
