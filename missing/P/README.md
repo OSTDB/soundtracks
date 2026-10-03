@@ -4754,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies 3: Welcome to Zomburbia | 120900 | [120900-plants-vs-zombies-3-welcome-to-zomburbia.json](./120900-plants-vs-zombies-3-welcome-to-zomburbia.json) |
 | Plants vs. Zombies Adventures | 77968 | [77968-plants-vs-zombies-adventures.json](./77968-plants-vs-zombies-adventures.json) |
 | Plants vs. Zombies Delturbia | 343926 | [343926-plants-vs-zombies-delturbia.json](./343926-plants-vs-zombies-delturbia.json) |
+| Plants vs. Zombies Plus | 271938 | [271938-plants-vs-zombies-plus.json](./271938-plants-vs-zombies-plus.json) |
 | Plants vs. Zombies: Battle for Neighborville - Deluxe Edition | 136356 | [136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json](./136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json) |
 | Plants vs. Zombies: Cubed | 272801 | [272801-plants-vs-zombies-cubed.json](./272801-plants-vs-zombies-cubed.json) |
 | Plants vs. Zombies: Endless Edition | 287882 | [287882-plants-vs-zombies-endless-edition.json](./287882-plants-vs-zombies-endless-edition.json) |
@@ -5542,6 +5543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Fuso's Meteor | 359983 | [359983-pokemon-fusos-meteor.json](./359983-pokemon-fusos-meteor.json) |
 | Pokémon Ga-Olé | 131487 | [131487-pokemon-ga-ole.json](./131487-pokemon-ga-ole.json) |
 | Pokémon Gadir | 232692 | [232692-pokemon-gadir.json](./232692-pokemon-gadir.json) |
+| Pokémon Gadir Deluxe | 271941 | [271941-pokemon-gadir-deluxe.json](./271941-pokemon-gadir-deluxe.json) |
 | Pokémon Gaia Version | 136997 | [136997-pokemon-gaia-version.json](./136997-pokemon-gaia-version.json) |
 | Pokémon Gamma Emerald | 342762 | [342762-pokemon-gamma-emerald.json](./342762-pokemon-gamma-emerald.json) |
 | Pokemon Garbage Gold | 305295 | [305295-pokemon-garbage-gold.json](./305295-pokemon-garbage-gold.json) |
@@ -6775,6 +6777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powercity 9000 | 26634 | [26634-powercity-9000.json](./26634-powercity-9000.json) |
 | Powercut, Inc. | 110151 | [110151-powercut-inc.json](./110151-powercut-inc.json) |
 | Powered Platformer Bundle | 314861 | [314861-powered-platformer-bundle.json](./314861-powered-platformer-bundle.json) |
+| Powerful Dabl | 271905 | [271905-powerful-dabl.json](./271905-powerful-dabl.json) |
 | Powerful Wind, Slicked-back Cabbages | 327360 | [327360-powerful-wind-slicked-back-cabbages.json](./327360-powerful-wind-slicked-back-cabbages.json) |
 | Powerful Wind, Slicked-back Hair, But It’s a Game | 393484 | [393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json](./393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json) |
 | Powerglove | 183459 | [183459-powerglove.json](./183459-powerglove.json) |
@@ -7921,6 +7924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project RTD : Random Tower Defense | 128267 | [128267-project-rtd-random-tower-defense.json](./128267-project-rtd-random-tower-defense.json) |
 | Project RTD: Random Tower Defense VR | 132488 | [132488-project-rtd-random-tower-defense-vr.json](./132488-project-rtd-random-tower-defense-vr.json) |
 | Project Runway | 25171 | [25171-project-runway.json](./25171-project-runway.json) |
+| Project RyMe | 271936 | [271936-project-ryme.json](./271936-project-ryme.json) |
 | Project S | 358891 | [358891-project-s.json](./358891-project-s.json) |
 | Project S.A.M | 270952 | [270952-project-s-a-m.json](./270952-project-s-a-m.json) |
 | Project Sail | 231367 | [231367-project-sail.json](./231367-project-sail.json) |
