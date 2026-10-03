@@ -3866,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detention | 320745 | [320745-detention.json](./320745-detention.json) |
 | Detention Club: School's Out | 167813 | [167813-detention-club-schools-out.json](./167813-detention-club-schools-out.json) |
 | Detention: Deluxe Edition | 52885 | [52885-detention-deluxe-edition.json](./52885-detention-deluxe-edition.json) |
+| Deteriation Game | 229744 | [229744-deteriation-game.json](./229744-deteriation-game.json) |
 | Determinance | 21416 | [21416-determinance.json](./21416-determinance.json) |
 | Dethcube | 148487 | [148487-dethcube.json](./148487-dethcube.json) |
 | DethKarz | 51252 | [51252-dethkarz.json](./51252-dethkarz.json) |
@@ -5439,6 +5440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divilixa | 149456 | [149456-divilixa.json](./149456-divilixa.json) |
 | Divinastros | 306577 | [306577-divinastros.json](./306577-divinastros.json) |
 | Divination | 339102 | [339102-divination.json](./339102-divination.json) |
+| Divine | 229587 | [229587-divine.json](./229587-divine.json) |
 | Divine Adventure: Act One | 174121 | [174121-divine-adventure-act-one.json](./174121-divine-adventure-act-one.json) |
 | Divine Ascent | 29179 | [29179-divine-ascent.json](./29179-divine-ascent.json) |
 | Divine Ascent: Map Pack | 161752 | [161752-divine-ascent-map-pack.json](./161752-divine-ascent-map-pack.json) |
@@ -8029,7 +8031,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Place | 334336 | [334336-dream-place.json](./334336-dream-place.json) |
 | Dream Ploy Will | 242672 | [242672-dream-ploy-will.json](./242672-dream-ploy-will.json) |
 | Dream Racer V1 | 125907 | [125907-dream-racer-v1.json](./125907-dream-racer-v1.json) |
+| Dream Records | 229745 | [229745-dream-records.json](./229745-dream-records.json) |
 | Dream Riders | 406861 | [406861-dream-riders.json](./406861-dream-riders.json) |
+| Dream RPG | 229599 | [229599-dream-rpg.json](./229599-dream-rpg.json) |
 | Dream Seed | 257069 | [257069-dream-seed.json](./257069-dream-seed.json) |
 | Dream Sequences | 202247 | [202247-dream-sequences.json](./202247-dream-sequences.json) |
 | Dream Shogi 4K | 391863 | [391863-dream-shogi-4k.json](./391863-dream-shogi-4k.json) |
