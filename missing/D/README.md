@@ -7394,6 +7394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 - Extra DLC Pack 4 | 168749 | [168749-dragon-ball-xenoverse-2-extra-dlc-pack-4.json](./168749-dragon-ball-xenoverse-2-extra-dlc-pack-4.json) |
 | Dragon Ball: Xenoverse 2 - Extra Pass | 117657 | [117657-dragon-ball-xenoverse-2-extra-pass.json](./117657-dragon-ball-xenoverse-2-extra-pass.json) |
 | Dragon Ball: Xenoverse 2 - Future Saga: Chapter 2 | 327932 | [327932-dragon-ball-xenoverse-2-future-saga-chapter-2.json](./327932-dragon-ball-xenoverse-2-future-saga-chapter-2.json) |
+| Dragon Ball: Xenoverse 2 - Hero of Justice: Pack 2 | 225546 | [225546-dragon-ball-xenoverse-2-hero-of-justice-pack-2.json](./225546-dragon-ball-xenoverse-2-hero-of-justice-pack-2.json) |
 | Dragon Ball: Xenoverse 2 - Legendary Pack 1 | 168741 | [168741-dragon-ball-xenoverse-2-legendary-pack-1.json](./168741-dragon-ball-xenoverse-2-legendary-pack-1.json) |
 | Dragon Ball: Xenoverse 2 - Legendary Pack 2 | 193208 | [193208-dragon-ball-xenoverse-2-legendary-pack-2.json](./193208-dragon-ball-xenoverse-2-legendary-pack-2.json) |
 | Dragon Ball: Xenoverse 2 - Super Edition | 200692 | [200692-dragon-ball-xenoverse-2-super-edition.json](./200692-dragon-ball-xenoverse-2-super-edition.json) |
@@ -8047,6 +8048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Pinball 3D: Digital Deluxe Edition | 402953 | [402953-dream-pinball-3d-digital-deluxe-edition.json](./402953-dream-pinball-3d-digital-deluxe-edition.json) |
 | Dream Place | 334336 | [334336-dream-place.json](./334336-dream-place.json) |
 | Dream Ploy Will | 242672 | [242672-dream-ploy-will.json](./242672-dream-ploy-will.json) |
+| Dream Quest: Knight and Princess | 225555 | [225555-dream-quest-knight-and-princess.json](./225555-dream-quest-knight-and-princess.json) |
 | Dream Racer V1 | 125907 | [125907-dream-racer-v1.json](./125907-dream-racer-v1.json) |
 | Dream Records | 229745 | [229745-dream-records.json](./229745-dream-records.json) |
 | Dream Riders | 406861 | [406861-dream-riders.json](./406861-dream-riders.json) |
