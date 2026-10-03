@@ -2519,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koisuru Purin! Koi ha Daibouken! Dr. Kanmi no Yabou!? | 269581 | [269581-koisuru-purin-koi-ha-daibouken-dr-kanmi-no-yabou.json](./269581-koisuru-purin-koi-ha-daibouken-dr-kanmi-no-yabou.json) |
 | Koitsugi: Legend of the Water Guardian | 303616 | [303616-koitsugi-legend-of-the-water-guardian.json](./303616-koitsugi-legend-of-the-water-guardian.json) |
 | Kojouji | 149543 | [149543-kojouji.json](./149543-kojouji.json) |
+| Koko & Kebi: Crank Harrier | 274671 | [274671-koko-and-kebi-crank-harrier.json](./274671-koko-and-kebi-crank-harrier.json) |
 | Koko kara Natsu no Innocence! | 327920 | [327920-koko-kara-natsu-no-innocence.json](./327920-koko-kara-natsu-no-innocence.json) |
 | Koko's Cafe | 406678 | [406678-kokos-cafe.json](./406678-kokos-cafe.json) |
 | Kokohore! Pukka: Dig-a-Dig Pukka | 138825 | [138825-kokohore-pukka-dig-a-dig-pukka.json](./138825-kokohore-pukka-dig-a-dig-pukka.json) |
@@ -2907,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubus | 80580 | [80580-kubus.json](./80580-kubus.json) |
 | Kuchisake Onna | 110496 | [110496-kuchisake-onna.json](./110496-kuchisake-onna.json) |
 | Kud Wafter | 9659 | [9659-kud-wafter.json](./9659-kud-wafter.json) |
+| Kud Wafter: Converted Edition | 274649 | [274649-kud-wafter-converted-edition.json](./274649-kud-wafter-converted-edition.json) |
 | Kudamono Drop | 316780 | [316780-kudamono-drop.json](./316780-kudamono-drop.json) |
 | Kudamono Party | 288780 | [288780-kudamono-party.json](./288780-kudamono-party.json) |
 | Kudo’s Kuppa | 397866 | [397866-kudo-s-kuppa.json](./397866-kudo-s-kuppa.json) |
