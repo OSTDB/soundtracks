@@ -4144,6 +4144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Portal | 271322 | [271322-the-dark-portal.json](./271322-the-dark-portal.json) |
 | The Dark Prince | 207389 | [207389-the-dark-prince.json](./207389-the-dark-prince.json) |
 | The Dark Prophecy | 190100 | [190100-the-dark-prophecy.json](./190100-the-dark-prophecy.json) |
+| The Dark Pursuer | 249922 | [249922-the-dark-pursuer.json](./249922-the-dark-pursuer.json) |
 | The Dark Quarter | 367476 | [367476-the-dark-quarter.json](./367476-the-dark-quarter.json) |
 | The Dark Queen of Mortholme | 325202 | [325202-the-dark-queen-of-mortholme.json](./325202-the-dark-queen-of-mortholme.json) |
 | The Dark Realm | 194269 | [194269-the-dark-realm.json](./194269-the-dark-realm.json) |
@@ -7320,6 +7321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night of Erosion: Prequel | 267677 | [267677-the-night-of-erosion-prequel.json](./267677-the-night-of-erosion-prequel.json) |
 | The Night of Fire Stealing | 106412 | [106412-the-night-of-fire-stealing.json](./106412-the-night-of-fire-stealing.json) |
 | The Night of Fire Stealing 2 | 163751 | [163751-the-night-of-fire-stealing-2.json](./163751-the-night-of-fire-stealing-2.json) |
+| The Night of the Inquisitor | 249924 | [249924-the-night-of-the-inquisitor.json](./249924-the-night-of-the-inquisitor.json) |
 | The Night of the Rabbit | 3230 | [3230-the-night-of-the-rabbit.json](./3230-the-night-of-the-rabbit.json) |
 | The Night of the Rabbit: Premium Edition | 53768 | [53768-the-night-of-the-rabbit-premium-edition.json](./53768-the-night-of-the-rabbit-premium-edition.json) |
 | The Night Owl Murder | 260086 | [260086-the-night-owl-murder.json](./260086-the-night-owl-murder.json) |
@@ -8707,6 +8709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Soul Ring of Soro: Divine Realm | 301603 | [301603-the-soul-ring-of-soro-divine-realm.json](./301603-the-soul-ring-of-soro-divine-realm.json) |
 | The SoulKeeper VR | 27193 | [27193-the-soulkeeper-vr.json](./27193-the-soulkeeper-vr.json) |
 | The Soulwalkers | 252796 | [252796-the-soulwalkers.json](./252796-the-soulwalkers.json) |
+| The Source | 249923 | [249923-the-source.json](./249923-the-source.json) |
 | The source of evil | 29790 | [29790-the-source-of-evil.json](./29790-the-source-of-evil.json) |
 | The Source of the Nightmare Storms | 126625 | [126625-the-source-of-the-nightmare-storms.json](./126625-the-source-of-the-nightmare-storms.json) |
 | The South Island | 304381 | [304381-the-south-island.json](./304381-the-south-island.json) |
@@ -9345,6 +9348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Twisted Zone: Foreborn | 413827 | [413827-the-twisted-zone-foreborn.json](./413827-the-twisted-zone-foreborn.json) |
 | The Twisting Trail of Clues | 295524 | [295524-the-twisting-trail-of-clues.json](./295524-the-twisting-trail-of-clues.json) |
 | The Two Body Problem | 411725 | [411725-the-two-body-problem.json](./411725-the-two-body-problem.json) |
+| The Two Moons | 249939 | [249939-the-two-moons.json](./249939-the-two-moons.json) |
 | The Two of Us | 185944 | [185944-the-two-of-us.json](./185944-the-two-of-us.json) |
 | The Typing of the Dead | 11605 | [11605-the-typing-of-the-dead.json](./11605-the-typing-of-the-dead.json) |
 | The Typing of the Dead: Overkill - Dancing with the Dead DLC | 53785 | [53785-the-typing-of-the-dead-overkill-dancing-with-the-dead-dlc.json](./53785-the-typing-of-the-dead-overkill-dancing-with-the-dead-dlc.json) |
@@ -11969,6 +11973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Fortress | 409645 | [409645-tiny-fortress.json](./409645-tiny-fortress.json) |
 | Tiny Fragments | 142360 | [142360-tiny-fragments.json](./142360-tiny-fragments.json) |
 | Tiny Friends Desktop Pet | 387630 | [387630-tiny-friends-desktop-pet.json](./387630-tiny-friends-desktop-pet.json) |
+| Tiny Frightened | 249905 | [249905-tiny-frightened.json](./249905-tiny-frightened.json) |
 | Tiny Galaxy | 84951 | [84951-tiny-galaxy.json](./84951-tiny-galaxy.json) |
 | Tiny Games: Knights & Dragons | 84950 | [84950-tiny-games-knights-and-dragons.json](./84950-tiny-games-knights-and-dragons.json) |
 | Tiny Garden | 300390 | [300390-tiny-garden.json](./300390-tiny-garden.json) |
@@ -13220,6 +13225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornado Mania! | 241466 | [241466-tornado-mania.json](./241466-tornado-mania.json) |
 | Tornado Raid / Tornado Blade | 297722 | [297722-tornado-raid-tornado-blade.json](./297722-tornado-raid-tornado-blade.json) |
 | Tornado: Low Level | 23052 | [23052-tornado-low-level.json](./23052-tornado-low-level.json) |
+| Tornado: Research and Rescue | 249891 | [249891-tornado-research-and-rescue.json](./249891-tornado-research-and-rescue.json) |
 | Tornado! | 118297 | [118297-tornado.json](./118297-tornado.json) |
 | Tornado.io | 106525 | [106525-tornado-io.json](./106525-tornado-io.json) |
 | Tornblade | 386880 | [386880-tornblade.json](./386880-tornblade.json) |
