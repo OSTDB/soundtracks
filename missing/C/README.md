@@ -5569,6 +5569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cog Fire | 291483 | [291483-cog-fire.json](./291483-cog-fire.json) |
 | Cog Owl | 211281 | [211281-cog-owl.json](./211281-cog-owl.json) |
 | COG: Back to the 80s | 192928 | [192928-cog-back-to-the-80s.json](./192928-cog-back-to-the-80s.json) |
+| Cog: The Rogue Machine | 270857 | [270857-cog-the-rogue-machine.json](./270857-cog-the-rogue-machine.json) |
 | Cogen: Sword of Rewind - Additional Story & Playable Character: Copen (Gunvolt Chronicles: Luminous Avenger iX 2) | 274999 | [274999-cogen-sword-of-rewind-additional-story-and-playable-character-copen-gunvolt-chronicles-luminous-avenger-ix-2.json](./274999-cogen-sword-of-rewind-additional-story-and-playable-character-copen-gunvolt-chronicles-luminous-avenger-ix-2.json) |
 | Cogen: Sword of Rewind: Additional Story & Playable Character - Akasha | 274997 | [274997-cogen-sword-of-rewind-additional-story-and-playable-character-akasha.json](./274997-cogen-sword-of-rewind-additional-story-and-playable-character-akasha.json) |
 | Cogito Ergo Sum | 299852 | [299852-cogito-ergo-sum.json](./299852-cogito-ergo-sum.json) |
