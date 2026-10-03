@@ -2761,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 3D Machine | 196817 | [196817-the-3d-machine.json](./196817-the-3d-machine.json) |
 | The 3rd Birthday | 7359 | [7359-the-3rd-birthday.json](./7359-the-3rd-birthday.json) |
 | The 3rd Night | 281684 | [281684-the-3rd-night.json](./281684-the-3rd-night.json) |
+| The 4 Masters of Melody | 259767 | [259767-the-4-masters-of-melody.json](./259767-the-4-masters-of-melody.json) |
 | The 4 Sins | 286656 | [286656-the-4-sins.json](./286656-the-4-sins.json) |
 | The 4th Unit | 78724 | [78724-the-4th-unit.json](./78724-the-4th-unit.json) |
 | The 4th Unit 2 | 78725 | [78725-the-4th-unit-2.json](./78725-the-4th-unit-2.json) |
@@ -5258,6 +5259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Tournament | 86758 | [86758-the-great-tournament.json](./86758-the-great-tournament.json) |
 | The Great Tournament 2 | 86759 | [86759-the-great-tournament-2.json](./86759-the-great-tournament-2.json) |
 | The Great Urban Battle | 260142 | [260142-the-great-urban-battle.json](./260142-the-great-urban-battle.json) |
+| The Great Villainess: Strategy of Lily | 259708 | [259708-the-great-villainess-strategy-of-lily.json](./259708-the-great-villainess-strategy-of-lily.json) |
 | The Great Waldo Search | 275020 | [275020-the-great-waldo-search.json](./275020-the-great-waldo-search.json) |
 | The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
 | The Great Whale Road | 19788 | [19788-the-great-whale-road.json](./19788-the-great-whale-road.json) |
@@ -6929,6 +6931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Martian VR Experience | 25814 | [25814-the-martian-vr-experience.json](./25814-the-martian-vr-experience.json) |
 | The Martian: Official Game | 102771 | [102771-the-martian-official-game.json](./102771-the-martian-official-game.json) |
 | The Marvellous Miss Take | 8780 | [8780-the-marvellous-miss-take.json](./8780-the-marvellous-miss-take.json) |
+| The Marvelous Misadventures of Flapjack: Bottle Cap'n | 259724 | [259724-the-marvelous-misadventures-of-flapjack-bottle-capn.json](./259724-the-marvelous-misadventures-of-flapjack-bottle-capn.json) |
 | The Marvelous Raincaster of Yell Holler | 402520 | [402520-the-marvelous-raincaster-of-yell-holler.json](./402520-the-marvelous-raincaster-of-yell-holler.json) |
 | The Mask Game | 278993 | [278993-the-mask-game.json](./278993-the-mask-game.json) |
 | The Mask of Agnosia | 399720 | [399720-the-mask-of-agnosia.json](./399720-the-mask-of-agnosia.json) |
@@ -9289,6 +9292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Arena | 77357 | [77357-the-ultimate-arena.json](./77357-the-ultimate-arena.json) |
 | The Ultimate Banana Game | 330898 | [330898-the-ultimate-banana-game.json](./330898-the-ultimate-banana-game.json) |
 | The Ultimate Clicker Master of the Universe | 334825 | [334825-the-ultimate-clicker-master-of-the-universe.json](./334825-the-ultimate-clicker-master-of-the-universe.json) |
+| The Ultimate Doom: In Name Only | 259749 | [259749-the-ultimate-doom-in-name-only.json](./259749-the-ultimate-doom-in-name-only.json) |
 | The Ultimate Doom: Knee-Deep in Zdoom | 196708 | [196708-the-ultimate-doom-knee-deep-in-zdoom.json](./196708-the-ultimate-doom-knee-deep-in-zdoom.json) |
 | The Ultimate FMV Bundle 2 | 213046 | [213046-the-ultimate-fmv-bundle-2.json](./213046-the-ultimate-fmv-bundle-2.json) |
 | The Ultimate Haunted House | 12140 | [12140-the-ultimate-haunted-house.json](./12140-the-ultimate-haunted-house.json) |
@@ -9471,6 +9475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: A New Frontier - Episode 3: Above the Law | 127064 | [127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json](./127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json) |
 | The Walking Dead: A New Frontier - Episode 5: From the Gallows | 127066 | [127066-the-walking-dead-a-new-frontier-episode-5-from-the-gallows.json](./127066-the-walking-dead-a-new-frontier-episode-5-from-the-gallows.json) |
 | The Walking Dead: Aftermath | 410938 | [410938-the-walking-dead-aftermath.json](./410938-the-walking-dead-aftermath.json) |
+| The Walking Dead: Betrayal | 259748 | [259748-the-walking-dead-betrayal.json](./259748-the-walking-dead-betrayal.json) |
 | The Walking Dead: Last Mile | 209152 | [209152-the-walking-dead-last-mile.json](./209152-the-walking-dead-last-mile.json) |
 | The Walking Dead: March to War | 25642 | [25642-the-walking-dead-march-to-war.json](./25642-the-walking-dead-march-to-war.json) |
 | The Walking Dead: Michonne | 11204 | [11204-the-walking-dead-michonne.json](./11204-the-walking-dead-michonne.json) |
@@ -10300,6 +10305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Alpha One Nine | 312133 | [312133-three-alpha-one-nine.json](./312133-three-alpha-one-nine.json) |
 | Three Bosses | 174323 | [174323-three-bosses.json](./174323-three-bosses.json) |
 | Three Color Cannon | 360001 | [360001-three-color-cannon.json](./360001-three-color-cannon.json) |
+| Three Days to Chicago | 259716 | [259716-three-days-to-chicago.json](./259716-three-days-to-chicago.json) |
 | Three Dead Zed | 36364 | [36364-three-dead-zed.json](./36364-three-dead-zed.json) |
 | Three Dimension | 189183 | [189183-three-dimension.json](./189183-three-dimension.json) |
 | Three Finger Battle Arena | 192965 | [192965-three-finger-battle-arena.json](./192965-three-finger-battle-arena.json) |
@@ -12210,6 +12216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Mortal Dust | 260217 | [260217-to-mortal-dust.json](./260217-to-mortal-dust.json) |
 | To My Best Friend | 149545 | [149545-to-my-best-friend.json](./149545-to-my-best-friend.json) |
 | To My Darling | 393512 | [393512-to-my-darling.json](./393512-to-my-darling.json) |
+| To My Forever Love | 259710 | [259710-to-my-forever-love.json](./259710-to-my-forever-love.json) |
 | To Save Humanity From Virus | 159816 | [159816-to-save-humanity-from-virus.json](./159816-to-save-humanity-from-virus.json) |
 | To Swat A Fly | 378212 | [378212-to-swat-a-fly.json](./378212-to-swat-a-fly.json) |
 | To Tell the Truth | 282570 | [282570-to-tell-the-truth.json](./282570-to-tell-the-truth.json) |
