@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia.gg | 112288 | [112288-mafia-gg.json](./112288-mafia-gg.json) |
 | Mafioso | 348499 | [348499-mafioso.json](./348499-mafioso.json) |
 | Mag | 178431 | [178431-mag.json](./178431-mag.json) |
+| MAG | 229766 | [229766-mag.json](./229766-mag.json) |
 | MAG | 7365 | [7365-mag.json](./7365-mag.json) |
 | Magalumina | 392932 | [392932-magalumina.json](./392932-magalumina.json) |
 | Magatsu Barai | 172730 | [172730-magatsu-barai.json](./172730-magatsu-barai.json) |
@@ -516,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maggie's Movies - Camera, Action! | 61879 | [61879-maggies-movies-camera-action.json](./61879-maggies-movies-camera-action.json) |
 | Maggie's Movies: Second Shot | 132789 | [132789-maggies-movies-second-shot.json](./132789-maggies-movies-second-shot.json) |
 | Maggie's Rainy Ride | 375334 | [375334-maggies-rainy-ride.json](./375334-maggies-rainy-ride.json) |
+| Maggot Face | 229768 | [229768-maggot-face.json](./229768-maggot-face.json) |
 | Maggotmania | 109041 | [109041-maggotmania.json](./109041-maggotmania.json) |
 | Magi Death Fight: Mahou Gakuen | 58878 | [58878-magi-death-fight-mahou-gakuen.json](./58878-magi-death-fight-mahou-gakuen.json) |
 | Magi Trials | 33449 | [33449-magi-trials.json](./33449-magi-trials.json) |
@@ -1555,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manga Solitaire | 73844 | [73844-manga-solitaire.json](./73844-manga-solitaire.json) |
 | Manga-ka Debut Monogatari: Suteki na Manga wo Egakou | 222393 | [222393-manga-ka-debut-monogatari-suteki-na-manga-wo-egakou.json](./222393-manga-ka-debut-monogatari-suteki-na-manga-wo-egakou.json) |
 | Mangadle | 374286 | [374286-mangadle.json](./374286-mangadle.json) |
+| Mangaka Dream | 229734 | [229734-mangaka-dream.json](./229734-mangaka-dream.json) |
 | Mangan Shisen-sho | 206357 | [206357-mangan-shisen-sho.json](./206357-mangan-shisen-sho.json) |
 | Mangata | 184048 | [184048-mangata.json](./184048-mangata.json) |
 | Mangchi | 39591 | [39591-mangchi.json](./39591-mangchi.json) |
@@ -5763,6 +5766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
 | Midnight Scenes: A Safe Place | 257261 | [257261-midnight-scenes-a-safe-place.json](./257261-midnight-scenes-a-safe-place.json) |
 | Midnight Scour | 409752 | [409752-midnight-scour.json](./409752-midnight-scour.json) |
+| Midnight Shift Remake | 229767 | [229767-midnight-shift-remake.json](./229767-midnight-shift-remake.json) |
 | Midnight Shifts with Femboy | 400315 | [400315-midnight-shifts-with-femboy.json](./400315-midnight-shifts-with-femboy.json) |
 | Midnight Snack | 324920 | [324920-midnight-snack.json](./324920-midnight-snack.json) |
 | Midnight Snack | 339894 | [339894-midnight-snack.json](./339894-midnight-snack.json) |
@@ -5974,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Military:Run | 101463 | [101463-military-run.json](./101463-military-run.json) |
 | Military.io | 197362 | [197362-military-io.json](./197362-military-io.json) |
 | Milites Fortunae | 249210 | [249210-milites-fortunae.json](./249210-milites-fortunae.json) |
+| Milk | 229592 | [229592-milk.json](./229592-milk.json) |
 | Milk | 314396 | [314396-milk.json](./314396-milk.json) |
 | Milk and Cookies | 132233 | [132233-milk-and-cookies.json](./132233-milk-and-cookies.json) |
 | Milk Farm | 103664 | [103664-milk-farm.json](./103664-milk-farm.json) |
@@ -8497,6 +8502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Lovers | 186764 | [186764-moonlight-lovers.json](./186764-moonlight-lovers.json) |
 | Moonlight Mayhem | 257993 | [257993-moonlight-mayhem.json](./257993-moonlight-mayhem.json) |
 | Moonlight maze | 121734 | [121734-moonlight-maze.json](./121734-moonlight-maze.json) |
+| Moonlight Moggy | 229769 | [229769-moonlight-moggy.json](./229769-moonlight-moggy.json) |
 | Moonlight Motel | 403091 | [403091-moonlight-motel.json](./403091-moonlight-motel.json) |
 | Moonlight Pale | 404436 | [404436-moonlight-pale.json](./404436-moonlight-pale.json) |
 | Moonlight Princess | 145566 | [145566-moonlight-princess.json](./145566-moonlight-princess.json) |
@@ -8689,6 +8695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morning Ritual | 179033 | [179033-morning-ritual.json](./179033-morning-ritual.json) |
 | Morning Ritual | 97706 | [97706-morning-ritual.json](./97706-morning-ritual.json) |
 | Mornings | 184059 | [184059-mornings.json](./184059-mornings.json) |
+| Mornings with Java | 229770 | [229770-mornings-with-java.json](./229770-mornings-with-java.json) |
 | Morningstar | 254446 | [254446-morningstar.json](./254446-morningstar.json) |
 | Morningstar | 415929 | [415929-morningstar.json](./415929-morningstar.json) |
 | Morningtide Motel | 318970 | [318970-morningtide-motel.json](./318970-morningtide-motel.json) |
@@ -9324,6 +9331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Through Life | 238476 | [238476-moving-through-life.json](./238476-moving-through-life.json) |
 | Moving with the Moon: Mastering Universal Gravitation! | 382891 | [382891-moving-with-the-moon-mastering-universal-gravitation.json](./382891-moving-with-the-moon-mastering-universal-gravitation.json) |
 | Movit | 89651 | [89651-movit.json](./89651-movit.json) |
+| MovoD II | 229826 | [229826-movod-ii.json](./229826-movod-ii.json) |
 | Mow | 200107 | [200107-mow.json](./200107-mow.json) |
 | Mow VR: Challenge Your Limits | 264775 | [264775-mow-vr-challenge-your-limits.json](./264775-mow-vr-challenge-your-limits.json) |
 | MoW: Face Off M | 36245 | [36245-mow-face-off-m.json](./36245-mow-face-off-m.json) |
@@ -9930,6 +9938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museca | 57107 | [57107-museca.json](./57107-museca.json) |
 | Museful | 398543 | [398543-museful.json](./398543-museful.json) |
 | Musestruck | 330945 | [330945-musestruck.json](./330945-musestruck.json) |
+| MuseSwipr | 229604 | [229604-museswipr.json](./229604-museswipr.json) |
 | Museum | 109891 | [109891-museum.json](./109891-museum.json) |
 | Museum | 185437 | [185437-museum.json](./185437-museum.json) |
 | Museum Mystery | 291700 | [291700-museum-mystery.json](./291700-museum-mystery.json) |
