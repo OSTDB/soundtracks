@@ -1716,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volantia: Kingdom in the Sky | 71019 | [71019-volantia-kingdom-in-the-sky.json](./71019-volantia-kingdom-in-the-sky.json) |
 | Volara | 339792 | [339792-volara.json](./339792-volara.json) |
 | Volatile Defender | 180791 | [180791-volatile-defender.json](./180791-volatile-defender.json) |
+| Volatile Particle | 267013 | [267013-volatile-particle.json](./267013-volatile-particle.json) |
 | Volatile Triangle | 82397 | [82397-volatile-triangle.json](./82397-volatile-triangle.json) |
 | Volcanewt | 304572 | [304572-volcanewt.json](./304572-volcanewt.json) |
 | Volcania Peaks | 254120 | [254120-volcania-peaks.json](./254120-volcania-peaks.json) |
