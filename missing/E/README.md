@@ -1267,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Beat Agents | 9109 | [9109-elite-beat-agents.json](./9109-elite-beat-agents.json) |
 | Elite Beat Zombygons | 184659 | [184659-elite-beat-zombygons.json](./184659-elite-beat-zombygons.json) |
 | Elite Comet | 277354 | [277354-elite-comet.json](./277354-elite-comet.json) |
+| Elite Dangerous: Odyssey - Deluxe Edition | 227190 | [227190-elite-dangerous-odyssey-deluxe-edition.json](./227190-elite-dangerous-odyssey-deluxe-edition.json) |
 | Elite Darts | 98956 | [98956-elite-darts.json](./98956-elite-darts.json) |
 | Elite Force | 223659 | [223659-elite-force.json](./223659-elite-force.json) |
 | Elite Forces: Navy SEALs | 84183 | [84183-elite-forces-navy-seals.json](./84183-elite-forces-navy-seals.json) |
@@ -2190,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epi-Derick | 372481 | [372481-epi-derick.json](./372481-epi-derick.json) |
 | Epic | 12066 | [12066-epic.json](./12066-epic.json) |
 | Epic | 342746 | [342746-epic.json](./342746-epic.json) |
+| Epic + Inferno: The Odyssey Continues Bundle | 227382 | [227382-epic-inferno-the-odyssey-continues-bundle.json](./227382-epic-inferno-the-odyssey-continues-bundle.json) |
 | Epic 90's Journey: The Legend of Elesha | 94869 | [94869-epic-90s-journey-the-legend-of-elesha.json](./94869-epic-90s-journey-the-legend-of-elesha.json) |
 | Epic Adventures: La Jangada | 114353 | [114353-epic-adventures-la-jangada.json](./114353-epic-adventures-la-jangada.json) |
 | Epic Ape Madness | 255758 | [255758-epic-ape-madness.json](./255758-epic-ape-madness.json) |
