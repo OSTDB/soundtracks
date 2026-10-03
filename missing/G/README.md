@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Center Club | 197636 | [197636-game-center-club.json](./197636-game-center-club.json) |
 | Game Chinese | 105949 | [105949-game-chinese.json](./105949-game-chinese.json) |
 | Game club "Waka-Waka" | 117064 | [117064-game-club-waka-waka.json](./117064-game-club-waka-waka.json) |
+| Game Collecting Simulator | 239714 | [239714-game-collecting-simulator.json](./239714-game-collecting-simulator.json) |
 | Game Collector | 266792 | [266792-game-collector.json](./266792-game-collector.json) |
 | Game Conveni 21 | 281452 | [281452-game-conveni-21.json](./281452-game-conveni-21.json) |
 | Game Corp DX | 25276 | [25276-game-corp-dx.json](./25276-game-corp-dx.json) |
@@ -2422,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gliding Square | 207893 | [207893-gliding-square.json](./207893-gliding-square.json) |
 | Glight | 86559 | [86559-glight.json](./86559-glight.json) |
 | Glimby | 246412 | [246412-glimby.json](./246412-glimby.json) |
+| Glimmer Chain | 239727 | [239727-glimmer-chain.json](./239727-glimmer-chain.json) |
 | Glimmers of the Past | 409774 | [409774-glimmers-of-the-past.json](./409774-glimmers-of-the-past.json) |
 | Glimpo | 414380 | [414380-glimpo.json](./414380-glimpo.json) |
 | Glimpse | 235988 | [235988-glimpse.json](./235988-glimpse.json) |
