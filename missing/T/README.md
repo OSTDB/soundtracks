@@ -3184,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Axolotl Project | 60022 | [60022-the-axolotl-project.json](./60022-the-axolotl-project.json) |
 | The Aztec Ruins | 308328 | [308328-the-aztec-ruins.json](./308328-the-aztec-ruins.json) |
 | The Azure One | 402373 | [402373-the-azure-one.json](./402373-the-azure-one.json) |
+| The Babysitter | 231454 | [231454-the-babysitter.json](./231454-the-babysitter.json) |
 | The Backroom: Lost and Found | 207763 | [207763-the-backroom-lost-and-found.json](./207763-the-backroom-lost-and-found.json) |
 | The Backrooms | 221748 | [221748-the-backrooms.json](./221748-the-backrooms.json) |
 | The Backrooms | 374795 | [374795-the-backrooms.json](./374795-the-backrooms.json) |
@@ -3547,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brain Blasters | 14612 | [14612-the-brain-blasters.json](./14612-the-brain-blasters.json) |
 | The Brain's Brain Game | 307913 | [307913-the-brains-brain-game.json](./307913-the-brains-brain-game.json) |
 | The Brainies | 42634 | [42634-the-brainies.json](./42634-the-brainies.json) |
+| The Branch | 231456 | [231456-the-branch.json](./231456-the-branch.json) |
 | The Brave Little Cloud | 275828 | [275828-the-brave-little-cloud.json](./275828-the-brave-little-cloud.json) |
 | The Brave Mouse | 51513 | [51513-the-brave-mouse.json](./51513-the-brave-mouse.json) |
 | The Brave Never Alone | 351109 | [351109-the-brave-never-alone.json](./351109-the-brave-never-alone.json) |
@@ -3969,6 +3971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Creativest Love Doll | 82747 | [82747-the-creativest-love-doll.json](./82747-the-creativest-love-doll.json) |
 | The Creator | 347359 | [347359-the-creator.json](./347359-the-creator.json) |
 | The Creature | 120783 | [120783-the-creature.json](./120783-the-creature.json) |
+| The Creature | 231457 | [231457-the-creature.json](./231457-the-creature.json) |
 | The Creature in my Dreams | 330369 | [330369-the-creature-in-my-dreams.json](./330369-the-creature-in-my-dreams.json) |
 | The Creature Mafia | 415162 | [415162-the-creature-mafia.json](./415162-the-creature-mafia.json) |
 | The Creature Zone VR: Nightfall | 259834 | [259834-the-creature-zone-vr-nightfall.json](./259834-the-creature-zone-vr-nightfall.json) |
@@ -4322,6 +4325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Derailed | 333377 | [333377-the-derailed.json](./333377-the-derailed.json) |
 | The Derailed: Devour the Harvest | 413675 | [413675-the-derailed-devour-the-harvest.json](./413675-the-derailed-devour-the-harvest.json) |
 | The Descent | 212890 | [212890-the-descent.json](./212890-the-descent.json) |
+| The Descent | 231521 | [231521-the-descent.json](./231521-the-descent.json) |
 | The Descent | 278996 | [278996-the-descent.json](./278996-the-descent.json) |
 | The Desert's Rose | 109710 | [109710-the-deserts-rose.json](./109710-the-deserts-rose.json) |
 | The Designer's Curse | 120971 | [120971-the-designers-curse.json](./120971-the-designers-curse.json) |
@@ -4430,6 +4434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dragon Princess | 389693 | [389693-the-dragon-princess.json](./389693-the-dragon-princess.json) |
 | The Dragon Queen | 238526 | [238526-the-dragon-queen.json](./238526-the-dragon-queen.json) |
 | The Dragon Sword | 149934 | [149934-the-dragon-sword.json](./149934-the-dragon-sword.json) |
+| The Dragon Sword | 231458 | [231458-the-dragon-sword.json](./231458-the-dragon-sword.json) |
 | The Dragon, Thyme | 280779 | [280779-the-dragon-thyme.json](./280779-the-dragon-thyme.json) |
 | The Dragon's Intern | 312642 | [312642-the-dragons-intern.json](./312642-the-dragons-intern.json) |
 | The Dragon's Turnabout | 303025 | [303025-the-dragons-turnabout.json](./303025-the-dragons-turnabout.json) |
@@ -4846,6 +4851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Far Kingdoms: Winter Solitaire | 386131 | [386131-the-far-kingdoms-winter-solitaire.json](./386131-the-far-kingdoms-winter-solitaire.json) |
 | The Far Node | 392286 | [392286-the-far-node.json](./392286-the-far-node.json) |
 | The Faraway Land | 152786 | [152786-the-faraway-land.json](./152786-the-faraway-land.json) |
+| The Farm | 231524 | [231524-the-farm.json](./231524-the-farm.json) |
 | The Farm You Grew Up On | 180749 | [180749-the-farm-you-grew-up-on.json](./180749-the-farm-you-grew-up-on.json) |
 | The Farmer Was Replaced | 243931 | [243931-the-farmer-was-replaced.json](./243931-the-farmer-was-replaced.json) |
 | The Farming One | 383601 | [383601-the-farming-one.json](./383601-the-farming-one.json) |
@@ -4875,6 +4881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Few | 211932 | [211932-the-few.json](./211932-the-few.json) |
 | The Few | 407334 | [407334-the-few.json](./407334-the-few.json) |
 | The Fiancée Has Never Known First Love | 370288 | [370288-the-fiancee-has-never-known-first-love.json](./370288-the-fiancee-has-never-known-first-love.json) |
+| The Fickle Hands of Fate | 231459 | [231459-the-fickle-hands-of-fate.json](./231459-the-fickle-hands-of-fate.json) |
 | The Fidelio Incident | 36707 | [36707-the-fidelio-incident.json](./36707-the-fidelio-incident.json) |
 | The Fidelity Chessmaster 2100 | 15875 | [15875-the-fidelity-chessmaster-2100.json](./15875-the-fidelity-chessmaster-2100.json) |
 | The Fidgetts | 49000 | [49000-the-fidgetts.json](./49000-the-fidgetts.json) |
@@ -5505,6 +5512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Henchmen | 389670 | [389670-the-henchmen.json](./389670-the-henchmen.json) |
 | The Henry Stickmin Collection | 120710 | [120710-the-henry-stickmin-collection.json](./120710-the-henry-stickmin-collection.json) |
 | The Hepatica Spring | 190222 | [190222-the-hepatica-spring.json](./190222-the-hepatica-spring.json) |
+| The Herbalist | 231526 | [231526-the-herbalist.json](./231526-the-herbalist.json) |
 | The Hermit | 111221 | [111221-the-hermit.json](./111221-the-hermit.json) |
 | The Hermit's Secret | 25131 | [25131-the-hermits-secret.json](./25131-the-hermits-secret.json) |
 | The Hero gives up!... Wait, What!? | 265582 | [265582-the-hero-gives-up-wait-what.json](./265582-the-hero-gives-up-wait-what.json) |
@@ -5550,6 +5558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hockey Experiment | 62725 | [62725-the-hockey-experiment.json](./62725-the-hockey-experiment.json) |
 | The Hoff vs Hitler | 342741 | [342741-the-hoff-vs-hitler.json](./342741-the-hoff-vs-hitler.json) |
 | The Hokkaido Serial Murder Case: The Okhotsk Disappearance - Memories in Ice, Tearful Figurine | 287889 | [287889-the-hokkaido-serial-murder-case-the-okhotsk-disappearance-memories-in-ice-tearful-figurine.json](./287889-the-hokkaido-serial-murder-case-the-okhotsk-disappearance-memories-in-ice-tearful-figurine.json) |
+| The Hole in the Cabin | 231527 | [231527-the-hole-in-the-cabin.json](./231527-the-hole-in-the-cabin.json) |
 | The Hole Keeper | 370270 | [370270-the-hole-keeper.json](./370270-the-hole-keeper.json) |
 | The Hollow Alchemist | 371257 | [371257-the-hollow-alchemist.json](./371257-the-hollow-alchemist.json) |
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
@@ -5575,6 +5584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Horus Heresy: Battle of Tallarn | 31633 | [31633-the-horus-heresy-battle-of-tallarn.json](./31633-the-horus-heresy-battle-of-tallarn.json) |
 | The Horus Heresy: Drop Assault | 30791 | [30791-the-horus-heresy-drop-assault.json](./30791-the-horus-heresy-drop-assault.json) |
 | The Horus Heresy: Legions - Titandeath | 203298 | [203298-the-horus-heresy-legions-titandeath.json](./203298-the-horus-heresy-legions-titandeath.json) |
+| The Hospital | 231534 | [231534-the-hospital.json](./231534-the-hospital.json) |
 | The Hospital of Fear | 274505 | [274505-the-hospital-of-fear.json](./274505-the-hospital-of-fear.json) |
 | The Hostel: Night Terrors | 249842 | [249842-the-hostel-night-terrors.json](./249842-the-hostel-night-terrors.json) |
 | The Hot Dog would Explode | 109750 | [109750-the-hot-dog-would-explode.json](./109750-the-hot-dog-would-explode.json) |
@@ -6058,6 +6068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King's Carriage | 184470 | [184470-the-kings-carriage.json](./184470-the-kings-carriage.json) |
 | The King's Castle | 215739 | [215739-the-kings-castle.json](./215739-the-kings-castle.json) |
 | The King's Courier | 335242 | [335242-the-kings-courier.json](./335242-the-kings-courier.json) |
+| The King's Crown | 231431 | [231431-the-kings-crown.json](./231431-the-kings-crown.json) |
 | The King's Dilemma: Chronicles | 216750 | [216750-the-kings-dilemma-chronicles.json](./216750-the-kings-dilemma-chronicles.json) |
 | The King's Feast | 232930 | [232930-the-kings-feast.json](./232930-the-kings-feast.json) |
 | The King's League | 294419 | [294419-the-kings-league.json](./294419-the-kings-league.json) |
@@ -6419,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Dark Witch Episode 2: The Price of Desire | 313257 | [313257-the-legend-of-dark-witch-episode-2-the-price-of-desire.json](./313257-the-legend-of-dark-witch-episode-2-the-price-of-desire.json) |
 | The Legend of Dark Witch Episode 4 | 313259 | [313259-the-legend-of-dark-witch-episode-4.json](./313259-the-legend-of-dark-witch-episode-4.json) |
 | The Legend of Demon-Slaying Heroes | 355213 | [355213-the-legend-of-demon-slaying-heroes.json](./355213-the-legend-of-demon-slaying-heroes.json) |
+| The Legend of Doom | 231448 | [231448-the-legend-of-doom.json](./231448-the-legend-of-doom.json) |
 | The Legend of Dragoon | 239182 | [239182-the-legend-of-dragoon.json](./239182-the-legend-of-dragoon.json) |
 | The Legend of Edgar | 124032 | [124032-the-legend-of-edgar.json](./124032-the-legend-of-edgar.json) |
 | The Legend of Eight Dragons | 145653 | [145653-the-legend-of-eight-dragons.json](./145653-the-legend-of-eight-dragons.json) |
@@ -8911,6 +8923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Strongholds of Silberland | 183446 | [183446-the-strongholds-of-silberland.json](./183446-the-strongholds-of-silberland.json) |
 | The Struggle of Trust | 177339 | [177339-the-struggle-of-trust.json](./177339-the-struggle-of-trust.json) |
 | The Struggles of Stefan | 148975 | [148975-the-struggles-of-stefan.json](./148975-the-struggles-of-stefan.json) |
+| The Stubborn of WakGood | 231450 | [231450-the-stubborn-of-wakgood.json](./231450-the-stubborn-of-wakgood.json) |
 | The Stubborn of WakGood: Afterheat | 257885 | [257885-the-stubborn-of-wakgood-afterheat.json](./257885-the-stubborn-of-wakgood-afterheat.json) |
 | The Studio | 89383 | [89383-the-studio.json](./89383-the-studio.json) |
 | The Studio 100: Play Island | 268210 | [268210-the-studio-100-play-island.json](./268210-the-studio-100-play-island.json) |
@@ -15857,6 +15870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tristan | 96532 | [96532-tristan.json](./96532-tristan.json) |
 | Tristan: Curse of The Frog | 404964 | [404964-tristan-curse-of-the-frog.json](./404964-tristan-curse-of-the-frog.json) |
 | Tristia Doki-doki Operation | 408142 | [408142-tristia-doki-doki-operation.json](./408142-tristia-doki-doki-operation.json) |
+| Tristia: Legacy | 231522 | [231522-tristia-legacy.json](./231522-tristia-legacy.json) |
 | Tristone | 112314 | [112314-tristone.json](./112314-tristone.json) |
 | Triton Survival | 114566 | [114566-triton-survival.json](./114566-triton-survival.json) |
 | Triton's Travels | 246525 | [246525-tritons-travels.json](./246525-tritons-travels.json) |
