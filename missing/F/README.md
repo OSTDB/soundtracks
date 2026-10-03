@@ -1674,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatrifice 3 | 334211 | [334211-fatrifice-3.json](./334211-fatrifice-3.json) |
 | FatSheep Crisis | 247763 | [247763-fatsheep-crisis.json](./247763-fatsheep-crisis.json) |
 | FatSheep Crisis II | 372076 | [372076-fatsheep-crisis-ii.json](./372076-fatsheep-crisis-ii.json) |
+| Fattening Career | 260324 | [260324-fattening-career.json](./260324-fattening-career.json) |
 | Fatty Fight | 256544 | [256544-fatty-fight.json](./256544-fatty-fight.json) |
 | Fatty In Trouble | 238398 | [238398-fatty-in-trouble.json](./238398-fatty-in-trouble.json) |
 | Fatty Maze's Adventures | 35723 | [35723-fatty-mazes-adventures.json](./35723-fatty-mazes-adventures.json) |
@@ -4469,6 +4470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck Monopoly | 348875 | [348875-food-truck-monopoly.json](./348875-food-truck-monopoly.json) |
 | Food Truck Shop Simulator | 350537 | [350537-food-truck-shop-simulator.json](./350537-food-truck-shop-simulator.json) |
 | Food Truck Simulator | 129109 | [129109-food-truck-simulator.json](./129109-food-truck-simulator.json) |
+| Food Truck Time Machine | 260299 | [260299-food-truck-time-machine.json](./260299-food-truck-time-machine.json) |
 | Food Truck Together | 385309 | [385309-food-truck-together.json](./385309-food-truck-together.json) |
 | Food Truck Tycoon + Flowlines VS | 243793 | [243793-food-truck-tycoon-flowlines-vs.json](./243793-food-truck-tycoon-flowlines-vs.json) |
 | Food Truck Tycoon: Asian Cuisine | 147922 | [147922-food-truck-tycoon-asian-cuisine.json](./147922-food-truck-tycoon-asian-cuisine.json) |
@@ -5772,6 +5774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Fighters | 719 | [719-freedom-fighters.json](./719-freedom-fighters.json) |
 | Freedom Maker | 327825 | [327825-freedom-maker.json](./327825-freedom-maker.json) |
 | Freedom Planet | 7116 | [7116-freedom-planet.json](./7116-freedom-planet.json) |
+| Freedom Tower | 260334 | [260334-freedom-tower.json](./260334-freedom-tower.json) |
 | Freedom Wars | 6060 | [6060-freedom-wars.json](./6060-freedom-wars.json) |
 | Freedom Wars Remastered | 317086 | [317086-freedom-wars-remastered.json](./317086-freedom-wars-remastered.json) |
 | Freedom: A Time to Reckon | 72350 | [72350-freedom-a-time-to-reckon.json](./72350-freedom-a-time-to-reckon.json) |
@@ -6913,6 +6916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futagoza No Paradox | 143521 | [143521-futagoza-no-paradox.json](./143521-futagoza-no-paradox.json) |
 | Futanari & Ladyboy BDSM | 384723 | [384723-futanari-and-ladyboy-bdsm.json](./384723-futanari-and-ladyboy-bdsm.json) |
 | Futanari & Ladyboy Hotel | 393837 | [393837-futanari-and-ladyboy-hotel.json](./393837-futanari-and-ladyboy-hotel.json) |
+| Futanari di Funghi | 260333 | [260333-futanari-di-funghi.json](./260333-futanari-di-funghi.json) |
 | Futanari Fantasy XX | 97840 | [97840-futanari-fantasy-xx.json](./97840-futanari-fantasy-xx.json) |
 | Futanari Girls 3D | 368125 | [368125-futanari-girls-3d.json](./368125-futanari-girls-3d.json) |
 | Futanari Have a Heart Too | 384722 | [384722-futanari-have-a-heart-too.json](./384722-futanari-have-a-heart-too.json) |
