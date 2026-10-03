@@ -6911,6 +6911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Tomb | 269080 | [269080-the-lost-tomb.json](./269080-the-lost-tomb.json) |
 | The Lost Town: The Dust | 65872 | [65872-the-lost-town-the-dust.json](./65872-the-lost-town-the-dust.json) |
 | The Lost Treasure of RON | 71244 | [71244-the-lost-treasure-of-ron.json](./71244-the-lost-treasure-of-ron.json) |
+| The Lost Uncle | 236334 | [236334-the-lost-uncle.json](./236334-the-lost-uncle.json) |
 | The Lost Valley | 171490 | [171490-the-lost-valley.json](./171490-the-lost-valley.json) |
 | The Lost Valley | 252295 | [252295-the-lost-valley.json](./252295-the-lost-valley.json) |
 | The Lost Vikings | 214736 | [214736-the-lost-vikings.json](./214736-the-lost-vikings.json) |
@@ -9840,6 +9841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witches' Tea Party | 51383 | [51383-the-witches-tea-party.json](./51383-the-witches-tea-party.json) |
 | The Witches' Whisk | 304257 | [304257-the-witches-whisk.json](./304257-the-witches-whisk.json) |
 | The Wizard | 181239 | [181239-the-wizard.json](./181239-the-wizard.json) |
+| The Wizard | 236332 | [236332-the-wizard.json](./236332-the-wizard.json) |
 | The Wizard and The Slug | 139400 | [139400-the-wizard-and-the-slug.json](./139400-the-wizard-and-the-slug.json) |
 | The Wizard Game | 149092 | [149092-the-wizard-game.json](./149092-the-wizard-game.json) |
 | The Wizard Needs Food, Badly! | 330717 | [330717-the-wizard-needs-food-badly.json](./330717-the-wizard-needs-food-badly.json) |
@@ -12485,6 +12487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobe's Hookshot Escape | 248880 | [248880-tobes-hookshot-escape.json](./248880-tobes-hookshot-escape.json) |
 | Tobe's Vertical Adventure | 249141 | [249141-tobes-vertical-adventure.json](./249141-tobes-vertical-adventure.json) |
 | Toberu yo! Honoka-chan | 405509 | [405509-toberu-yo-honoka-chan.json](./405509-toberu-yo-honoka-chan.json) |
+| Tobi Topples Tyranny | 236343 | [236343-tobi-topples-tyranny.json](./236343-tobi-topples-tyranny.json) |
 | Tobia's Animal Farm | 301965 | [301965-tobias-animal-farm.json](./301965-tobias-animal-farm.json) |
 | Tobimarisa | 97511 | [97511-tobimarisa.json](./97511-tobimarisa.json) |
 | Tobitaro | 391152 | [391152-tobitaro.json](./391152-tobitaro.json) |
@@ -13106,6 +13109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Roads: Superbike | 308490 | [308490-toon-roads-superbike.json](./308490-toon-roads-superbike.json) |
 | Toon Shooters the Freelancers | 57193 | [57193-toon-shooters-the-freelancers.json](./57193-toon-shooters-the-freelancers.json) |
 | Toon Tanks | 84947 | [84947-toon-tanks.json](./84947-toon-tanks.json) |
+| Toon Team | 236337 | [236337-toon-team.json](./236337-toon-team.json) |
 | Toon Troops Strategy | 307868 | [307868-toon-troops-strategy.json](./307868-toon-troops-strategy.json) |
 | Toon War | 86238 | [86238-toon-war.json](./86238-toon-war.json) |
 | Toon Wars: Tank Battles | 87898 | [87898-toon-wars-tank-battles.json](./87898-toon-wars-tank-battles.json) |
@@ -14027,6 +14031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers Saga | 391719 | [391719-towers-saga.json](./391719-towers-saga.json) |
 | Towers That Don't Like Each Other | 51997 | [51997-towers-that-dont-like-each-other.json](./51997-towers-that-dont-like-each-other.json) |
 | Towers Watch | 277916 | [277916-towers-watch.json](./277916-towers-watch.json) |
+| Towers, Turrets, Turtles | 236415 | [236415-towers-turrets-turtles.json](./236415-towers-turrets-turtles.json) |
 | ToWhere? | 387006 | [387006-towhere.json](./387006-towhere.json) |
 | Towing Race | 239045 | [239045-towing-race.json](./239045-towing-race.json) |
 | Towing Simulator | 9451 | [9451-towing-simulator.json](./9451-towing-simulator.json) |
