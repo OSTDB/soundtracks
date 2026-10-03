@@ -7394,6 +7394,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Bob | 88162 | [88162-snail-bob.json](./88162-snail-bob.json) |
 | Snail Bob 2 | 213637 | [213637-snail-bob-2.json](./213637-snail-bob-2.json) |
 | Snail Bob 3: Egypt Journey | 213638 | [213638-snail-bob-3-egypt-journey.json](./213638-snail-bob-3-egypt-journey.json) |
+| Snail Bob 4: Space | 248186 | [248186-snail-bob-4-space.json](./248186-snail-bob-4-space.json) |
+| Snail Bob 5: Love Story | 248187 | [248187-snail-bob-5-love-story.json](./248187-snail-bob-5-love-story.json) |
+| Snail Bob 6: Winter Story | 248188 | [248188-snail-bob-6-winter-story.json](./248188-snail-bob-6-winter-story.json) |
+| Snail Bob 7: Fantasy Story | 248189 | [248189-snail-bob-7-fantasy-story.json](./248189-snail-bob-7-fantasy-story.json) |
 | Snail Mail | 84877 | [84877-snail-mail.json](./84877-snail-mail.json) |
 | Snail Maze | 46118 | [46118-snail-maze.json](./46118-snail-maze.json) |
 | Snail Simulator | 272721 | [272721-snail-simulator.json](./272721-snail-simulator.json) |
@@ -7915,6 +7919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So You Wanna Be A Redneck | 362972 | [362972-so-you-wanna-be-a-redneck.json](./362972-so-you-wanna-be-a-redneck.json) |
 | SO-108 | 232945 | [232945-so-108.json](./232945-so-108.json) |
 | So-Gnar | 176465 | [176465-so-gnar.json](./176465-so-gnar.json) |
+| Soak 'Em Out | 248215 | [248215-soak-em-out.json](./248215-soak-em-out.json) |
 | Soak & Splash | 250948 | [250948-soak-and-splash.json](./250948-soak-and-splash.json) |
 | Soaked! | 52854 | [52854-soaked.json](./52854-soaked.json) |
 | Soap | 360732 | [360732-soap.json](./360732-soap.json) |
@@ -11853,6 +11858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SSR Wives: The Murder Of My Winter Crush | 296468 | [296468-ssr-wives-the-murder-of-my-winter-crush.json](./296468-ssr-wives-the-murder-of-my-winter-crush.json) |
 | SSS222: HyperSpace | 211177 | [211177-sss222-hyperspace.json](./211177-sss222-hyperspace.json) |
 | SSSM: In the Shadow of Jupiter | 221295 | [221295-sssm-in-the-shadow-of-jupiter.json](./221295-sssm-in-the-shadow-of-jupiter.json) |
+| SSSnaker | 248169 | [248169-sssnaker.json](./248169-sssnaker.json) |
 | Sssnakes | 84896 | [84896-sssnakes.json](./84896-sssnakes.json) |
 | SSX | 4179 | [4179-ssx.json](./4179-ssx.json) |
 | SSX 3 | 186239 | [186239-ssx-3.json](./186239-ssx-3.json) |
@@ -13580,6 +13586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Turbo Dismounting 3D | 95841 | [95841-stickman-turbo-dismounting-3d.json](./95841-stickman-turbo-dismounting-3d.json) |
 | StickMan vs. MagicWorld | 265596 | [265596-stickman-vs-magicworld.json](./265596-stickman-vs-magicworld.json) |
 | Stickman War Lightsaber Games | 100746 | [100746-stickman-war-lightsaber-games.json](./100746-stickman-war-lightsaber-games.json) |
+| Stickman War: Stick Fight Army | 248160 | [248160-stickman-war-stick-fight-army.json](./248160-stickman-war-stick-fight-army.json) |
 | Stickman Warriors Craft | 100834 | [100834-stickman-warriors-craft.json](./100834-stickman-warriors-craft.json) |
 | Stickman World | 87250 | [87250-stickman-world.json](./87250-stickman-world.json) |
 | Stickman World Battle | 287231 | [287231-stickman-world-battle.json](./287231-stickman-world-battle.json) |
@@ -17500,6 +17507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Susanoo | 409005 | [409005-susanoo.json](./409005-susanoo.json) |
 | Sushi Bar | 298874 | [298874-sushi-bar.json](./298874-sushi-bar.json) |
 | Sushi Bar Express | 54416 | [54416-sushi-bar-express.json](./54416-sushi-bar-express.json) |
+| Sushi Bar Idle | 248161 | [248161-sushi-bar-idle.json](./248161-sushi-bar-idle.json) |
 | Sushi Battle Rambunctiously | 267685 | [267685-sushi-battle-rambunctiously.json](./267685-sushi-battle-rambunctiously.json) |
 | Sushi Belt | 181226 | [181226-sushi-belt.json](./181226-sushi-belt.json) |
 | Sushi Ben VR | 152219 | [152219-sushi-ben-vr.json](./152219-sushi-ben-vr.json) |
