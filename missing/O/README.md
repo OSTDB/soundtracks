@@ -1988,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbits | 91137 | [91137-orbits.json](./91137-orbits.json) |
 | Orbituous | 339908 | [339908-orbituous.json](./339908-orbituous.json) |
 | Orbiz | 30115 | [30115-orbiz.json](./30115-orbiz.json) |
+| Orblike Madness | 258637 | [258637-orblike-madness.json](./258637-orblike-madness.json) |
 | Orbo | 292822 | [292822-orbo.json](./292822-orbo.json) |
 | Orbo's Exodus | 314907 | [314907-orbos-exodus.json](./314907-orbos-exodus.json) |
 | Orbo's Odyssey | 260493 | [260493-orbos-odyssey.json](./260493-orbos-odyssey.json) |
@@ -2655,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer-Rim Pod Digger | 66058 | [66058-outer-rim-pod-digger.json](./66058-outer-rim-pod-digger.json) |
 | Outergalactic Aliens Pinball | 173237 | [173237-outergalactic-aliens-pinball.json](./173237-outergalactic-aliens-pinball.json) |
 | Outerplane | 188368 | [188368-outerplane.json](./188368-outerplane.json) |
+| Outerstellar | 258630 | [258630-outerstellar.json](./258630-outerstellar.json) |
 | Outertale: Project Spacetime | 313236 | [313236-outertale-project-spacetime.json](./313236-outertale-project-spacetime.json) |
 | Outertown | 118191 | [118191-outertown.json](./118191-outertown.json) |
 | Outerverse | 164901 | [164901-outerverse.json](./164901-outerverse.json) |
