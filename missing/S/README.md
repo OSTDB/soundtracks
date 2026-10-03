@@ -3725,15 +3725,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shall we date? Sengoku Darling: Choose your Destination | 219134 | [219134-shall-we-date-sengoku-darling-choose-your-destination.json](./219134-shall-we-date-sengoku-darling-choose-your-destination.json) |
 | Shall we date?: Angel or Devil | 225315 | [225315-shall-we-date-angel-or-devil.json](./225315-shall-we-date-angel-or-devil.json) |
 | Shall we date?: Arabian Dreams Wildest Tales in Starry Nights | 225664 | [225664-shall-we-date-arabian-dreams-wildest-tales-in-starry-nights.json](./225664-shall-we-date-arabian-dreams-wildest-tales-in-starry-nights.json) |
+| Shall we date?: Become Elite | 225684 | [225684-shall-we-date-become-elite.json](./225684-shall-we-date-become-elite.json) |
 | Shall We Date?: Destiny Ninja 2 | 122928 | [122928-shall-we-date-destiny-ninja-2.json](./122928-shall-we-date-destiny-ninja-2.json) |
 | Shall we date?: Guard Me, Sherlock! | 225667 | [225667-shall-we-date-guard-me-sherlock.json](./225667-shall-we-date-guard-me-sherlock.json) |
 | Shall we date?: Love, Mafia Dawn of the Don | 225673 | [225673-shall-we-date-love-mafia-dawn-of-the-don.json](./225673-shall-we-date-love-mafia-dawn-of-the-don.json) |
 | Shall we date?: Love, Mafia My Signore | 225674 | [225674-shall-we-date-love-mafia-my-signore.json](./225674-shall-we-date-love-mafia-my-signore.json) |
 | Shall we date?: Modern Cinderella | 225670 | [225670-shall-we-date-modern-cinderella.json](./225670-shall-we-date-modern-cinderella.json) |
+| Shall we date?: Mononoke Kiss x Lost Island | 225685 | [225685-shall-we-date-mononoke-kiss-x-lost-island.json](./225685-shall-we-date-mononoke-kiss-x-lost-island.json) |
 | Shall we date?: Ninja Love | 225316 | [225316-shall-we-date-ninja-love.json](./225316-shall-we-date-ninja-love.json) |
 | Shall we date?: Null; | 225675 | [225675-shall-we-date-null.json](./225675-shall-we-date-null.json) |
 | Shall we date?: Oz | 225666 | [225666-shall-we-date-oz.json](./225666-shall-we-date-oz.json) |
 | Shall we date?: Pirates Treasured Love in the Ocean | 225665 | [225665-shall-we-date-pirates-treasured-love-in-the-ocean.json](./225665-shall-we-date-pirates-treasured-love-in-the-ocean.json) |
+| Shall we date?: Pretty Awesome | 225683 | [225683-shall-we-date-pretty-awesome.json](./225683-shall-we-date-pretty-awesome.json) |
+| Shall we date?: Rewind | 225682 | [225682-shall-we-date-rewind.json](./225682-shall-we-date-rewind.json) |
+| Shall we date?: The World or You | 225681 | [225681-shall-we-date-the-world-or-you.json](./225681-shall-we-date-the-world-or-you.json) |
 | Shall We Date?: War of Prayers - Inori no Otome | 225662 | [225662-shall-we-date-war-of-prayers-inori-no-otome.json](./225662-shall-we-date-war-of-prayers-inori-no-otome.json) |
 | Shall we date?: We the Girls | 225671 | [225671-shall-we-date-we-the-girls.json](./225671-shall-we-date-we-the-girls.json) |
 | Shallow Blue | 340599 | [340599-shallow-blue.json](./340599-shallow-blue.json) |
@@ -12832,6 +12837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight Idol: Colorful Top Stage! | 194586 | [194586-starlight-idol-colorful-top-stage.json](./194586-starlight-idol-colorful-top-stage.json) |
 | Starlight Inception | 16662 | [16662-starlight-inception.json](./16662-starlight-inception.json) |
 | Starlight Isle | 303191 | [303191-starlight-isle.json](./303191-starlight-isle.json) |
+| Starlight Mario | 225551 | [225551-starlight-mario.json](./225551-starlight-mario.json) |
 | Starlight Mining Company | 372998 | [372998-starlight-mining-company.json](./372998-starlight-mining-company.json) |
 | StarLight Terminus | 180047 | [180047-starlight-terminus.json](./180047-starlight-terminus.json) |
 | Starlight Vega | 35041 | [35041-starlight-vega.json](./35041-starlight-vega.json) |
@@ -16318,6 +16324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Game Watch | 172502 | [172502-super-mario-bros-game-watch.json](./172502-super-mario-bros-game-watch.json) |
 | Super Mario Bros. in Crazy Castle | 323826 | [323826-super-mario-bros-in-crazy-castle.json](./323826-super-mario-bros-in-crazy-castle.json) |
 | Super Mario Bros. MM | 322779 | [322779-super-mario-bros-mm.json](./322779-super-mario-bros-mm.json) |
+| Super Mario Bros. Next | 225548 | [225548-super-mario-bros-next.json](./225548-super-mario-bros-next.json) |
 | Super Mario Bros. Peach's Adventure | 142383 | [142383-super-mario-bros-peachs-adventure.json](./142383-super-mario-bros-peachs-adventure.json) |
 | Super Mario Bros. SNES | 377742 | [377742-super-mario-bros-snes.json](./377742-super-mario-bros-snes.json) |
 | Super Mario Bros. SNES Days | 321586 | [321586-super-mario-bros-snes-days.json](./321586-super-mario-bros-snes-days.json) |
