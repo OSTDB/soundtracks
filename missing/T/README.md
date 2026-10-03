@@ -1565,6 +1565,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Delusional's Dusttale | 329654 | [329654-team-delusionals-dusttale.json](./329654-team-delusionals-dusttale.json) |
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
 | Team Fortress 2 Classic: Community Edition | 360756 | [360756-team-fortress-2-classic-community-edition.json](./360756-team-fortress-2-classic-community-edition.json) |
+| Team Fortress 2 Classic: Death & Taxes | 261461 | [261461-team-fortress-2-classic-death-and-taxes.json](./261461-team-fortress-2-classic-death-and-taxes.json) |
+| Team Fortress 2 Classic: Fight or Flight | 261467 | [261467-team-fortress-2-classic-fight-or-flight.json](./261467-team-fortress-2-classic-fight-or-flight.json) |
 | Team Fortress 2: End of the Line Update | 256883 | [256883-team-fortress-2-end-of-the-line-update.json](./256883-team-fortress-2-end-of-the-line-update.json) |
 | Team Fortress 2: Gold Rush | 335705 | [335705-team-fortress-2-gold-rush.json](./335705-team-fortress-2-gold-rush.json) |
 | Team Fortress 2: Gold Rush Update | 256372 | [256372-team-fortress-2-gold-rush-update.json](./256372-team-fortress-2-gold-rush-update.json) |
@@ -2522,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetraminos | 308977 | [308977-tetraminos.json](./308977-tetraminos.json) |
 | Tetraphobia | 124740 | [124740-tetraphobia.json](./124740-tetraphobia.json) |
 | Tetrapod | 13767 | [13767-tetrapod.json](./13767-tetrapod.json) |
+| Tetraptykon | 261462 | [261462-tetraptykon.json](./261462-tetraptykon.json) |
 | Tetrapulse | 61868 | [61868-tetrapulse.json](./61868-tetrapulse.json) |
 | Tetras | 336118 | [336118-tetras.json](./336118-tetras.json) |
 | Tetraspace | 59929 | [59929-tetraspace.json](./59929-tetraspace.json) |
@@ -4167,6 +4170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day the World Changed | 97713 | [97713-the-day-the-world-changed.json](./97713-the-day-the-world-changed.json) |
 | The Day We Met was a Regular Day in the Infinitely Looping Highschool, is That Normal? | 192953 | [192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json](./192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json) |
 | The Days Without Gods | 356826 | [356826-the-days-without-gods.json](./356826-the-days-without-gods.json) |
+| The DBK Holiday Special | 261465 | [261465-the-dbk-holiday-special.json](./261465-the-dbk-holiday-special.json) |
 | The Dead City | 376715 | [376715-the-dead-city.json](./376715-the-dead-city.json) |
 | The Dead in my Living Room | 142378 | [142378-the-dead-in-my-living-room.json](./142378-the-dead-in-my-living-room.json) |
 | The Dead Linger | 9055 | [9055-the-dead-linger.json](./9055-the-dead-linger.json) |
@@ -5350,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Harmony of Buku | 55921 | [55921-the-harmony-of-buku.json](./55921-the-harmony-of-buku.json) |
 | The Harvest 3D | 233095 | [233095-the-harvest-3d.json](./233095-the-harvest-3d.json) |
 | The Hat Man: Shadow Ward | 36355 | [36355-the-hat-man-shadow-ward.json](./36355-the-hat-man-shadow-ward.json) |
+| The Hate Flow | 261454 | [261454-the-hate-flow.json](./261454-the-hate-flow.json) |
 | The Hateful Dead | 31367 | [31367-the-hateful-dead.json](./31367-the-hateful-dead.json) |
 | The Haunted Dolls | 157181 | [157181-the-haunted-dolls.json](./157181-the-haunted-dolls.json) |
 | The Haunted Graveyard | 110343 | [110343-the-haunted-graveyard.json](./110343-the-haunted-graveyard.json) |
@@ -6947,6 +6952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Matrix Online | 1005 | [1005-the-matrix-online.json](./1005-the-matrix-online.json) |
 | The Matrix: Path of Neo | 1004 | [1004-the-matrix-path-of-neo.json](./1004-the-matrix-path-of-neo.json) |
 | The Matter at Hand | 183476 | [183476-the-matter-at-hand.json](./183476-the-matter-at-hand.json) |
+| The Mauve Zone | 261443 | [261443-the-mauve-zone.json](./261443-the-mauve-zone.json) |
 | The Maw | 3976 | [3976-the-maw.json](./3976-the-maw.json) |
 | The Maw: Brute Force | 164365 | [164365-the-maw-brute-force.json](./164365-the-maw-brute-force.json) |
 | The Maw: River Redirect | 164363 | [164363-the-maw-river-redirect.json](./164363-the-maw-river-redirect.json) |
