@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takuhai Maid Shiiko-san | 77944 | [77944-takuhai-maid-shiiko-san.json](./77944-takuhai-maid-shiiko-san.json) |
 | Takume | 136420 | [136420-takume.json](./136420-takume.json) |
 | Takumi 3 | 220193 | [220193-takumi-3.json](./220193-takumi-3.json) |
+| Takuyo Mix Box: First Anniversary | 268669 | [268669-takuyo-mix-box-first-anniversary.json](./268669-takuyo-mix-box-first-anniversary.json) |
 | TAL: Arctic | 104837 | [104837-tal-arctic.json](./104837-tal-arctic.json) |
 | TAL: Arctic 2 | 106625 | [106625-tal-arctic-2.json](./106625-tal-arctic-2.json) |
 | Tale of a Hero | 63385 | [63385-tale-of-a-hero.json](./63385-tale-of-a-hero.json) |
@@ -5623,6 +5624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredibles: Mission Incredible | 213375 | [213375-the-incredibles-mission-incredible.json](./213375-the-incredibles-mission-incredible.json) |
 | The Incredibles: Rise of the Underminer | 3955 | [3955-the-incredibles-rise-of-the-underminer.json](./3955-the-incredibles-rise-of-the-underminer.json) |
 | The Incredibles: When Danger Calls | 18261 | [18261-the-incredibles-when-danger-calls.json](./18261-the-incredibles-when-danger-calls.json) |
+| The Indespensible T_DUNNxx.WAD Series : For Heretic | 268625 | [268625-the-indespensible-t-dunnxx-wad-series-for-heretic.json](./268625-the-indespensible-t-dunnxx-wad-series-for-heretic.json) |
 | The Indian in the Cupboard | 74044 | [74044-the-indian-in-the-cupboard.json](./74044-the-indian-in-the-cupboard.json) |
 | The Indie Dev | 296474 | [296474-the-indie-dev.json](./296474-the-indie-dev.json) |
 | The Indie Mixtape | 35685 | [35685-the-indie-mixtape.json](./35685-the-indie-mixtape.json) |
@@ -6413,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Child Quest | 346598 | [346598-the-legend-of-zelda-child-quest.json](./346598-the-legend-of-zelda-child-quest.json) |
 | The Legend of Zelda: Chiming Bells | 323273 | [323273-the-legend-of-zelda-chiming-bells.json](./323273-the-legend-of-zelda-chiming-bells.json) |
 | The Legend of Zelda: Demon's Quest | 345626 | [345626-the-legend-of-zelda-demons-quest.json](./345626-the-legend-of-zelda-demons-quest.json) |
+| The Legend of Zelda: Dungeon Rush | 268674 | [268674-the-legend-of-zelda-dungeon-rush.json](./268674-the-legend-of-zelda-dungeon-rush.json) |
 | The Legend of Zelda: Dungeons of Infinity | 316720 | [316720-the-legend-of-zelda-dungeons-of-infinity.json](./316720-the-legend-of-zelda-dungeons-of-infinity.json) |
 | The Legend of Zelda: Echoes of Aurelia | 323202 | [323202-the-legend-of-zelda-echoes-of-aurelia.json](./323202-the-legend-of-zelda-echoes-of-aurelia.json) |
 | The Legend of Zelda: Echoes of Wisdom | 306149 | [306149-the-legend-of-zelda-echoes-of-wisdom.json](./306149-the-legend-of-zelda-echoes-of-wisdom.json) |
@@ -6452,6 +6455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Oracle of Secrets | 323793 | [323793-the-legend-of-zelda-oracle-of-secrets.json](./323793-the-legend-of-zelda-oracle-of-secrets.json) |
 | The Legend of Zelda: Parallel Worlds Remodel | 198543 | [198543-the-legend-of-zelda-parallel-worlds-remodel.json](./198543-the-legend-of-zelda-parallel-worlds-remodel.json) |
 | The Legend of Zelda: Perils of Darkness | 213041 | [213041-the-legend-of-zelda-perils-of-darkness.json](./213041-the-legend-of-zelda-perils-of-darkness.json) |
+| The Legend of Zelda: Petrie's Challenge | 268675 | [268675-the-legend-of-zelda-petries-challenge.json](./268675-the-legend-of-zelda-petries-challenge.json) |
 | The Legend of Zelda: Picross | 172690 | [172690-the-legend-of-zelda-picross.json](./172690-the-legend-of-zelda-picross.json) |
 | The Legend of Zelda: Relics of the Past | 250319 | [250319-the-legend-of-zelda-relics-of-the-past.json](./250319-the-legend-of-zelda-relics-of-the-past.json) |
 | The Legend of Zelda: Return of the Hylian SE | 243616 | [243616-the-legend-of-zelda-return-of-the-hylian-se.json](./243616-the-legend-of-zelda-return-of-the-hylian-se.json) |
@@ -11695,6 +11699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeScar: Hyperion | 110769 | [110769-timescar-hyperion.json](./110769-timescar-hyperion.json) |
 | TimeShift | 2030 | [2030-timeshift.json](./2030-timeshift.json) |
 | Timeslip | 77974 | [77974-timeslip.json](./77974-timeslip.json) |
+| Timespinner 2: Unwoven Dream | 268677 | [268677-timespinner-2-unwoven-dream.json](./268677-timespinner-2-unwoven-dream.json) |
 | TimeSplitters | 2142 | [2142-timesplitters.json](./2142-timesplitters.json) |
 | TimeSplitters | 317415 | [317415-timesplitters.json](./317415-timesplitters.json) |
 | TimeSplitters 2 | 317414 | [317414-timesplitters-2.json](./317414-timesplitters-2.json) |
@@ -13024,6 +13029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToriDori | 211825 | [211825-toridori.json](./211825-toridori.json) |
 | Torii Path | 112932 | [112932-torii-path.json](./112932-torii-path.json) |
 | Torikago no Marriage | 202818 | [202818-torikago-no-marriage.json](./202818-torikago-no-marriage.json) |
+| Torikago no Mukougawa | 268665 | [268665-torikago-no-mukougawa.json](./268665-torikago-no-mukougawa.json) |
 | Toriko: Gourmet Monsters! | 79277 | [79277-toriko-gourmet-monsters.json](./79277-toriko-gourmet-monsters.json) |
 | Toriko: Gourmet Survival | 66080 | [66080-toriko-gourmet-survival.json](./66080-toriko-gourmet-survival.json) |
 | Toril | 228700 | [228700-toril.json](./228700-toril.json) |
@@ -15770,6 +15776,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Life: Gansu | 170814 | [170814-truck-life-gansu.json](./170814-truck-life-gansu.json) |
 | Truck Life: Hainan | 170815 | [170815-truck-life-hainan.json](./170815-truck-life-hainan.json) |
 | Truck Life: TaiWan | 170816 | [170816-truck-life-taiwan.json](./170816-truck-life-taiwan.json) |
+| Truck Loader 3 | 268634 | [268634-truck-loader-3.json](./268634-truck-loader-3.json) |
+| Truck Loader 4 | 268643 | [268643-truck-loader-4.json](./268643-truck-loader-4.json) |
+| Truck Loader 5 | 268645 | [268645-truck-loader-5.json](./268645-truck-loader-5.json) |
 | Truck Mechanic Simulator | 147848 | [147848-truck-mechanic-simulator.json](./147848-truck-mechanic-simulator.json) |
 | Truck Mechanic Simulator 2015 | 36188 | [36188-truck-mechanic-simulator-2015.json](./36188-truck-mechanic-simulator-2015.json) |
 | Truck Mechanic: Dangerous Paths | 134668 | [134668-truck-mechanic-dangerous-paths.json](./134668-truck-mechanic-dangerous-paths.json) |
