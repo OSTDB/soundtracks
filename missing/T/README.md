@@ -3253,6 +3253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Balldragon | 335265 | [335265-the-balldragon.json](./335265-the-balldragon.json) |
 | The Balloonist: Beyond the Clouds | 75831 | [75831-the-balloonist-beyond-the-clouds.json](./75831-the-balloonist-beyond-the-clouds.json) |
 | The Balls | 280256 | [280256-the-balls.json](./280256-the-balls.json) |
+| The Ballz are Lava! | 225695 | [225695-the-ballz-are-lava.json](./225695-the-ballz-are-lava.json) |
 | The Balrog and the Cat | 58857 | [58857-the-balrog-and-the-cat.json](./58857-the-balrog-and-the-cat.json) |
 | The Banker Tycoon | 379340 | [379340-the-banker-tycoon.json](./379340-the-banker-tycoon.json) |
 | The Banner Saga 3 | 26940 | [26940-the-banner-saga-3.json](./26940-the-banner-saga-3.json) |
@@ -6485,6 +6486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails in the Sky the 3rd | 28101 | [28101-the-legend-of-heroes-trails-in-the-sky-the-3rd.json](./28101-the-legend-of-heroes-trails-in-the-sky-the-3rd.json) |
 | The Legend of Heroes: Trails into Reverie | 136673 | [136673-the-legend-of-heroes-trails-into-reverie.json](./136673-the-legend-of-heroes-trails-into-reverie.json) |
 | The Legend of Heroes: Trails into Reverie - Complete Cosmetics | 256256 | [256256-the-legend-of-heroes-trails-into-reverie-complete-cosmetics.json](./256256-the-legend-of-heroes-trails-into-reverie-complete-cosmetics.json) |
+| The Legend of Heroes: Trails into Reverie - Deluxe Edition | 225777 | [225777-the-legend-of-heroes-trails-into-reverie-deluxe-edition.json](./225777-the-legend-of-heroes-trails-into-reverie-deluxe-edition.json) |
 | The Legend of Heroes: Trails into Reverie - Premium Cosmetic Set | 251673 | [251673-the-legend-of-heroes-trails-into-reverie-premium-cosmetic-set.json](./251673-the-legend-of-heroes-trails-into-reverie-premium-cosmetic-set.json) |
 | The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set | 251671 | [251671-the-legend-of-heroes-trails-into-reverie-sss-summer-splash-set.json](./251671-the-legend-of-heroes-trails-into-reverie-sss-summer-splash-set.json) |
 | The Legend of Heroes: Trails into Reverie - Standard Cosmetic Set | 251672 | [251672-the-legend-of-heroes-trails-into-reverie-standard-cosmetic-set.json](./251672-the-legend-of-heroes-trails-into-reverie-standard-cosmetic-set.json) |
@@ -9757,6 +9759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Watchmaker | 82091 | [82091-the-watchmaker.json](./82091-the-watchmaker.json) |
 | The Water Horse: Legend of the Deep | 27629 | [27629-the-water-horse-legend-of-the-deep.json](./27629-the-water-horse-legend-of-the-deep.json) |
 | The Water Horse: Legend of the Deep | 43258 | [43258-the-water-horse-legend-of-the-deep.json](./43258-the-water-horse-legend-of-the-deep.json) |
+| The Water is Wide | 225702 | [225702-the-water-is-wide.json](./225702-the-water-is-wide.json) |
 | The Waterfront | 274226 | [274226-the-waterfront.json](./274226-the-waterfront.json) |
 | The Waters Above: Prelude | 104826 | [104826-the-waters-above-prelude.json](./104826-the-waters-above-prelude.json) |
 | The Waters of Fertility | 147312 | [147312-the-waters-of-fertility.json](./147312-the-waters-of-fertility.json) |
@@ -9942,6 +9945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Woods | 95165 | [95165-the-woods.json](./95165-the-woods.json) |
 | The Woods Have Horns | 310676 | [310676-the-woods-have-horns.json](./310676-the-woods-have-horns.json) |
 | The Woods: VR Escape the Room | 114975 | [114975-the-woods-vr-escape-the-room.json](./114975-the-woods-vr-escape-the-room.json) |
+| The Woodsman | 225558 | [225558-the-woodsman.json](./225558-the-woodsman.json) |
 | The Word is Not the Thing | 74468 | [74468-the-word-is-not-the-thing.json](./74468-the-word-is-not-the-thing.json) |
 | The World 3: Rise of Demon | 91965 | [91965-the-world-3-rise-of-demon.json](./91965-the-world-3-rise-of-demon.json) |
 | The World A Robot Girl Dream Of | 82871 | [82871-the-world-a-robot-girl-dream-of.json](./82871-the-world-a-robot-girl-dream-of.json) |
