@@ -865,6 +865,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramp Bike Jumping | 215117 | [215117-ramp-bike-jumping.json](./215117-ramp-bike-jumping.json) |
 | Ramp Bike Racing | 322072 | [322072-ramp-bike-racing.json](./322072-ramp-bike-racing.json) |
 | Ramp Car Jumping | 147852 | [147852-ramp-car-jumping.json](./147852-ramp-car-jumping.json) |
+| Rampage | 278053 | [278053-rampage.json](./278053-rampage.json) |
+| Rampage | 278055 | [278055-rampage.json](./278055-rampage.json) |
+| Rampage | 278056 | [278056-rampage.json](./278056-rampage.json) |
+| Rampage | 278062 | [278062-rampage.json](./278062-rampage.json) |
+| Rampage | 278063 | [278063-rampage.json](./278063-rampage.json) |
+| Rampage | 278064 | [278064-rampage.json](./278064-rampage.json) |
+| Rampage | 278065 | [278065-rampage.json](./278065-rampage.json) |
+| Rampage | 278066 | [278066-rampage.json](./278066-rampage.json) |
+| Rampage | 278067 | [278067-rampage.json](./278067-rampage.json) |
+| Rampage | 278068 | [278068-rampage.json](./278068-rampage.json) |
+| Rampage | 278069 | [278069-rampage.json](./278069-rampage.json) |
+| Rampage | 278070 | [278070-rampage.json](./278070-rampage.json) |
 | Rampage | 3055 | [3055-rampage.json](./3055-rampage.json) |
 | Rampage | 374778 | [374778-rampage.json](./374778-rampage.json) |
 | Rampage Agents | 262298 | [262298-rampage-agents.json](./262298-rampage-agents.json) |
