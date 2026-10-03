@@ -7289,6 +7289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fang Z: The Rose & Dungeon of Time - Extra Dungeon: The Cave of Fangs | 171939 | [171939-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-cave-of-fangs.json](./171939-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-cave-of-fangs.json) |
 | Dragon Fang Z: The Rose & Dungeon of Time - Extra Dungeon: The Inferno Hollow | 171938 | [171938-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-inferno-hollow.json](./171938-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-inferno-hollow.json) |
 | Dragon Fantasy | 22332 | [22332-dragon-fantasy.json](./22332-dragon-fantasy.json) |
+| Dragon Fantasy | 263141 | [263141-dragon-fantasy.json](./263141-dragon-fantasy.json) |
 | Dragon Fantasy Book I and II Bundle | 99554 | [99554-dragon-fantasy-book-i-and-ii-bundle.json](./99554-dragon-fantasy-book-i-and-ii-bundle.json) |
 | Dragon Fantasy: The Black Tome of Ice | 36219 | [36219-dragon-fantasy-the-black-tome-of-ice.json](./36219-dragon-fantasy-the-black-tome-of-ice.json) |
 | Dragon Fantasy: The Volumes of Westeria | 17931 | [17931-dragon-fantasy-the-volumes-of-westeria.json](./17931-dragon-fantasy-the-volumes-of-westeria.json) |
@@ -8701,6 +8702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dug'n | 180621 | [180621-dugn.json](./180621-dugn.json) |
 | Duga | 111752 | [111752-duga.json](./111752-duga.json) |
 | Dugashoba! | 202251 | [202251-dugashoba.json](./202251-dugashoba.json) |
+| Dui | 263110 | [263110-dui.json](./263110-dui.json) |
 | Duil | 161348 | [161348-duil.json](./161348-duil.json) |
 | Duilius: The Ancient Duel | 294152 | [294152-duilius-the-ancient-duel.json](./294152-duilius-the-ancient-duel.json) |
 | Dukai | 271984 | [271984-dukai.json](./271984-dukai.json) |
