@@ -803,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandbox | 251826 | [251826-sandbox.json](./251826-sandbox.json) |
 | Sandbox | 368087 | [368087-sandbox.json](./368087-sandbox.json) |
 | Sandbox Planet | 256534 | [256534-sandbox-planet.json](./256534-sandbox-planet.json) |
+| Sandcastle | 268655 | [268655-sandcastle.json](./268655-sandcastle.json) |
 | Sandcastle Builder | 62457 | [62457-sandcastle-builder.json](./62457-sandcastle-builder.json) |
 | Sandcastles | 134693 | [134693-sandcastles.json](./134693-sandcastles.json) |
 | SandEEE | 399845 | [399845-sandeee.json](./399845-sandeee.json) |
@@ -8116,6 +8117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar War | 273421 | [273421-solar-war.json](./273421-solar-war.json) |
 | Solar War | 35982 | [35982-solar-war.json](./35982-solar-war.json) |
 | Solar Warden | 101603 | [101603-solar-warden.json](./101603-solar-warden.json) |
+| SolarBlack | 268653 | [268653-solarblack.json](./268653-solarblack.json) |
 | Solares | 291990 | [291990-solares.json](./291990-solares.json) |
 | Solarfall | 271484 | [271484-solarfall.json](./271484-solarfall.json) |
 | Solarflare | 405051 | [405051-solarflare.json](./405051-solarflare.json) |
@@ -11332,6 +11334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Challenge: 65 Games Edition | 381708 | [381708-sports-challenge-65-games-edition.json](./381708-sports-challenge-65-games-edition.json) |
 | Sports Champions | 18237 | [18237-sports-champions.json](./18237-sports-champions.json) |
 | Sports Champions / Medieval Moves: Deadmund's Quest Combo Pack | 268744 | [268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json](./268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json) |
+| Sports Club Boyfriend: Secrets of BL Academy | 268657 | [268657-sports-club-boyfriend-secrets-of-bl-academy.json](./268657-sports-club-boyfriend-secrets-of-bl-academy.json) |
 | Sports Feel Baseball | 218010 | [218010-sports-feel-baseball.json](./218010-sports-feel-baseball.json) |
 | Sports Feel Fishing Champion | 218011 | [218011-sports-feel-fishing-champion.json](./218011-sports-feel-fishing-champion.json) |
 | Sports Feel Golf | 218014 | [218014-sports-feel-golf.json](./218014-sports-feel-golf.json) |
@@ -17630,6 +17633,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Run | 392919 | [392919-sweet-run.json](./392919-sweet-run.json) |
 | Sweet Sailor | 339443 | [339443-sweet-sailor.json](./339443-sweet-sailor.json) |
 | Sweet Science: The Girls of Silversee Castle | 239656 | [239656-sweet-science-the-girls-of-silversee-castle.json](./239656-sweet-science-the-girls-of-silversee-castle.json) |
+| Sweet Season | 268652 | [268652-sweet-season.json](./268652-sweet-season.json) |
+| Sweet Season | 268656 | [268656-sweet-season.json](./268656-sweet-season.json) |
 | Sweet Seasons | 110531 | [110531-sweet-seasons.json](./110531-sweet-seasons.json) |
 | Sweet Shell | 328043 | [328043-sweet-shell.json](./328043-sweet-shell.json) |
 | Sweet Shine | 159825 | [159825-sweet-shine.json](./159825-sweet-shine.json) |
