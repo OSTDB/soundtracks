@@ -1718,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Reenactment: Battle of the Wilderness | 164429 | [164429-rebel-reenactment-battle-of-the-wilderness.json](./164429-rebel-reenactment-battle-of-the-wilderness.json) |
 | Rebel Roar | 408736 | [408736-rebel-roar.json](./408736-rebel-roar.json) |
 | Rebel Tank Solo-Raid | 333131 | [333131-rebel-tank-solo-raid.json](./333131-rebel-tank-solo-raid.json) |
+| Rebel! | 259138 | [259138-rebel.json](./259138-rebel.json) |
 | Rebellion Anthology | 53492 | [53492-rebellion-anthology.json](./53492-rebellion-anthology.json) |
 | Rebellion Princess | 391330 | [391330-rebellion-princess.json](./391330-rebellion-princess.json) |
 | Rebellion Saga | 334282 | [334282-rebellion-saga.json](./334282-rebellion-saga.json) |
@@ -2479,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic Arena | 278976 | [278976-relic-arena.json](./278976-relic-arena.json) |
 | Relic Heroes | 219812 | [219812-relic-heroes.json](./219812-relic-heroes.json) |
 | Relic Hunters Zero: Remix | 129846 | [129846-relic-hunters-zero-remix.json](./129846-relic-hunters-zero-remix.json) |
+| Relic Odyssey: Ruins Of Xantao | 259176 | [259176-relic-odyssey-ruins-of-xantao.json](./259176-relic-odyssey-ruins-of-xantao.json) |
 | Relic Raiders | 70986 | [70986-relic-raiders.json](./70986-relic-raiders.json) |
 | Relic Runway | 181312 | [181312-relic-runway.json](./181312-relic-runway.json) |
 | Relicfall | 415078 | [415078-relicfall.json](./415078-relicfall.json) |
@@ -2669,6 +2671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repentless | 213640 | [213640-repentless.json](./213640-repentless.json) |
 | RePirates | 181332 | [181332-repirates.json](./181332-repirates.json) |
 | Replaced | 152244 | [152244-replaced.json](./152244-replaced.json) |
+| Replay Boys | 259188 | [259188-replay-boys.json](./259188-replay-boys.json) |
 | Replay Value: Second Hand Games | 347748 | [347748-replay-value-second-hand-games.json](./347748-replay-value-second-hand-games.json) |
 | Replay: A Puzzle Game | 157200 | [157200-replay-a-puzzle-game.json](./157200-replay-a-puzzle-game.json) |
 | Replaying: The Game | 191568 | [191568-replaying-the-game.json](./191568-replaying-the-game.json) |
@@ -2809,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reshape | 293634 | [293634-reshape.json](./293634-reshape.json) |
 | Reshine | 399078 | [399078-reshine.json](./399078-reshine.json) |
 | ReShot | 364646 | [364646-reshot.json](./364646-reshot.json) |
+| Residence | 259179 | [259179-residence.json](./259179-residence.json) |
 | Resident Evil | 102722 | [102722-resident-evil.json](./102722-resident-evil.json) |
 | Resident Evil | 288943 | [288943-resident-evil.json](./288943-resident-evil.json) |
 | Resident Evil | 396732 | [396732-resident-evil.json](./396732-resident-evil.json) |
@@ -3928,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring of Titans | 189162 | [189162-ring-of-titans.json](./189162-ring-of-titans.json) |
 | Ring Out!! | 41404 | [41404-ring-out.json](./41404-ring-out.json) |
 | Ring Racer | 147379 | [147379-ring-racer.json](./147379-ring-racer.json) |
+| Ring Racer | 259151 | [259151-ring-racer.json](./259151-ring-racer.json) |
 | Ring Ring | 135689 | [135689-ring-ring.json](./135689-ring-ring.json) |
 | Ring Sculptors | 313155 | [313155-ring-sculptors.json](./313155-ring-sculptors.json) |
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
@@ -4574,6 +4579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robopost | 244195 | [244195-robopost.json](./244195-robopost.json) |
 | RoboQuest | 199912 | [199912-roboquest.json](./199912-roboquest.json) |
 | Roboquest VR | 313774 | [313774-roboquest-vr.json](./313774-roboquest-vr.json) |
+| RoboRancher | 259182 | [259182-roborancher.json](./259182-roborancher.json) |
 | Roborobi | 357808 | [357808-roborobi.json](./357808-roborobi.json) |
 | RoBoRumble | 26485 | [26485-roborumble.json](./26485-roborumble.json) |
 | RoboSamurai | 333187 | [333187-robosamurai.json](./333187-robosamurai.json) |
