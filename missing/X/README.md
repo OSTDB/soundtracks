@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Ray Ball | 68976 | [68976-x-ray-ball.json](./68976-x-ray-ball.json) |
 | X-Ray Ball: Winter Storm | 62159 | [62159-x-ray-ball-winter-storm.json](./62159-x-ray-ball-winter-storm.json) |
 | X-ray hospital | 97117 | [97117-x-ray-hospital.json](./97117-x-ray-hospital.json) |
+| X-Rush | 242002 | [242002-x-rush.json](./242002-x-rush.json) |
 | X-Scape | 67155 | [67155-x-scape.json](./67155-x-scape.json) |
 | X-Squad | 19423 | [19423-x-squad.json](./19423-x-squad.json) |
 | X-Tactics | 19482 | [19482-x-tactics.json](./19482-x-tactics.json) |
