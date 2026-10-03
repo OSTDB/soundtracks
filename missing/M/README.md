@@ -2104,6 +2104,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Takes a Three | 318556 | [318556-mario-takes-a-three.json](./318556-mario-takes-a-three.json) |
 | Mario Takes America | 175956 | [175956-mario-takes-america.json](./175956-mario-takes-america.json) |
 | Mario Tennis | 344924 | [344924-mario-tennis.json](./344924-mario-tennis.json) |
+| Mario Tennis: Alex | 247100 | [247100-mario-tennis-alex.json](./247100-mario-tennis-alex.json) |
+| Mario Tennis: Harry | 247103 | [247103-mario-tennis-harry.json](./247103-mario-tennis-harry.json) |
+| Mario Tennis: Kate | 247104 | [247104-mario-tennis-kate.json](./247104-mario-tennis-kate.json) |
+| Mario Tennis: Nina | 247101 | [247101-mario-tennis-nina.json](./247101-mario-tennis-nina.json) |
 | Mario Tennis: Power Tour | 342260 | [342260-mario-tennis-power-tour.json](./342260-mario-tennis-power-tour.json) |
 | Mario Tennis: Power Tour | 6504 | [6504-mario-tennis-power-tour.json](./6504-mario-tennis-power-tour.json) |
 | Mario Tennis: Power Tour - Bicep Pump | 231624 | [231624-mario-tennis-power-tour-bicep-pump.json](./231624-mario-tennis-power-tour-bicep-pump.json) |
@@ -3966,6 +3970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X Dive | 121045 | [121045-mega-man-x-dive.json](./121045-mega-man-x-dive.json) |
 | Mega Man X Dive Offline | 252996 | [252996-mega-man-x-dive-offline.json](./252996-mega-man-x-dive-offline.json) |
 | Mega Man X in Sonic the Hedgehog 2 | 136417 | [136417-mega-man-x-in-sonic-the-hedgehog-2.json](./136417-mega-man-x-in-sonic-the-hedgehog-2.json) |
+| Mega Man X Innocent Impulse | 247090 | [247090-mega-man-x-innocent-impulse.json](./247090-mega-man-x-innocent-impulse.json) |
 | Mega Man X Synthesis | 335396 | [335396-mega-man-x-synthesis.json](./335396-mega-man-x-synthesis.json) |
 | Mega Man X: cadê o chão, Sharivan? | 268420 | [268420-mega-man-x-cade-o-chao-sharivan.json](./268420-mega-man-x-cade-o-chao-sharivan.json) |
 | Mega Man X: Command Mission | 1751 | [1751-mega-man-x-command-mission.json](./1751-mega-man-x-command-mission.json) |
@@ -9035,6 +9040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorcycle Extreme Driver: Moto Racing Simulator | 294836 | [294836-motorcycle-extreme-driver-moto-racing-simulator.json](./294836-motorcycle-extreme-driver-moto-racing-simulator.json) |
 | Motorcycle Girl | 402984 | [402984-motorcycle-girl.json](./402984-motorcycle-girl.json) |
 | Motorcycle Mechanic Simulator 2021 | 142478 | [142478-motorcycle-mechanic-simulator-2021.json](./142478-motorcycle-mechanic-simulator-2021.json) |
+| Motorcycle Ninja | 247064 | [247064-motorcycle-ninja.json](./247064-motorcycle-ninja.json) |
 | Motorcycle Racing VR | 226725 | [226725-motorcycle-racing-vr.json](./226725-motorcycle-racing-vr.json) |
 | Motorcycle Racing: Hill Up Cha | 108641 | [108641-motorcycle-racing-hill-up-cha.json](./108641-motorcycle-racing-hill-up-cha.json) |
 | Motorcycle RPG | 196815 | [196815-motorcycle-rpg.json](./196815-motorcycle-rpg.json) |
