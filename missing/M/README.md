@@ -9930,6 +9930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushiking: King of the Beetles | 80223 | [80223-mushiking-king-of-the-beetles.json](./80223-mushiking-king-of-the-beetles.json) |
 | Mushiverse: Online Boardgame | 309446 | [309446-mushiverse-online-boardgame.json](./309446-mushiverse-online-boardgame.json) |
 | Mushroam | 348387 | [348387-mushroam.json](./348387-mushroam.json) |
+| Mushroom Agent | 235795 | [235795-mushroom-agent.json](./235795-mushroom-agent.json) |
 | Mushroom Card RPG | 219818 | [219818-mushroom-card-rpg.json](./219818-mushroom-card-rpg.json) |
 | Mushroom Challenge | 169755 | [169755-mushroom-challenge.json](./169755-mushroom-challenge.json) |
 | Mushroom Collection | 284609 | [284609-mushroom-collection.json](./284609-mushroom-collection.json) |
