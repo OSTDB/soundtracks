@@ -3074,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Democracy 3: Social Engineering | 11399 | [11399-democracy-3-social-engineering.json](./11399-democracy-3-social-engineering.json) |
 | Democracy 4 | 109483 | [109483-democracy-4.json](./109483-democracy-4.json) |
 | Democracy 4: Event Pack | 242020 | [242020-democracy-4-event-pack.json](./242020-democracy-4-event-pack.json) |
+| Democracy: The Board Game | 232492 | [232492-democracy-the-board-game.json](./232492-democracy-the-board-game.json) |
 | Demolish & Build 2017 | 24941 | [24941-demolish-and-build-2017.json](./24941-demolish-and-build-2017.json) |
 | Demolish & Build 2018 | 90102 | [90102-demolish-and-build-2018.json](./90102-demolish-and-build-2018.json) |
 | Demolition | 125341 | [125341-demolition.json](./125341-demolition.json) |
@@ -6483,7 +6484,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Kingdom | 27243 | [27243-doodle-kingdom.json](./27243-doodle-kingdom.json) |
 | Doodle Kingdom: Medieval | 338335 | [338335-doodle-kingdom-medieval.json](./338335-doodle-kingdom-medieval.json) |
 | Doodle Mafia: Crime City | 146741 | [146741-doodle-mafia-crime-city.json](./146741-doodle-mafia-crime-city.json) |
+| Doodle Movie Quiz | 232504 | [232504-doodle-movie-quiz.json](./232504-doodle-movie-quiz.json) |
 | Doodle or Die | 252291 | [252291-doodle-or-die.json](./252291-doodle-or-die.json) |
+| Doodle Smash! | 232578 | [232578-doodle-smash.json](./232578-doodle-smash.json) |
 | Doodle Sprint! | 134445 | [134445-doodle-sprint.json](./134445-doodle-sprint.json) |
 | Doodle Taxi | 258605 | [258605-doodle-taxi.json](./258605-doodle-taxi.json) |
 | Doodle TD 2 | 295800 | [295800-doodle-td-2.json](./295800-doodle-td-2.json) |
@@ -8771,6 +8774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck's Island | 399716 | [399716-ducks-island.json](./399716-ducks-island.json) |
 | Duck's Most Terrible Day | 277336 | [277336-ducks-most-terrible-day.json](./277336-ducks-most-terrible-day.json) |
 | Duckball: Glorious Ducks | 133987 | [133987-duckball-glorious-ducks.json](./133987-duckball-glorious-ducks.json) |
+| Duckers | 232582 | [232582-duckers.json](./232582-duckers.json) |
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
 | Ducklings IO | 150020 | [150020-ducklings-io.json](./150020-ducklings-io.json) |
 | Ducklyte | 247475 | [247475-ducklyte.json](./247475-ducklyte.json) |
@@ -8795,6 +8799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuckWorld Smart Adventures | 327959 | [327959-duckworld-smart-adventures.json](./327959-duckworld-smart-adventures.json) |
 | Ducky Dan | 94212 | [94212-ducky-dan.json](./94212-ducky-dan.json) |
 | Ducky Dash | 320761 | [320761-ducky-dash.json](./320761-ducky-dash.json) |
+| Ducky Dive | 232579 | [232579-ducky-dive.json](./232579-ducky-dive.json) |
 | Ducky's Delivery Service | 241902 | [241902-duckys-delivery-service.json](./241902-duckys-delivery-service.json) |
 | Duco | 408956 | [408956-duco.json](./408956-duco.json) |
 | DUD Detective Ulysses Day | 379049 | [379049-dud-detective-ulysses-day.json](./379049-dud-detective-ulysses-day.json) |
