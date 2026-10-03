@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Answer | 30062 | [30062-last-answer.json](./30062-last-answer.json) |
 | Last Antagonist | 361885 | [361885-last-antagonist.json](./361885-last-antagonist.json) |
 | Last Arrows | 123535 | [123535-last-arrows.json](./123535-last-arrows.json) |
+| Last Barrier | 263114 | [263114-last-barrier.json](./263114-last-barrier.json) |
 | Last Battalion | 20127 | [20127-last-battalion.json](./20127-last-battalion.json) |
 | Last Battleground: Survival | 77422 | [77422-last-battleground-survival.json](./77422-last-battleground-survival.json) |
 | Last Bible III | 38354 | [38354-last-bible-iii.json](./38354-last-bible-iii.json) |
@@ -4969,6 +4970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunaform | 44131 | [44131-lunaform.json](./44131-lunaform.json) |
 | Lunapark VR | 90823 | [90823-lunapark-vr.json](./90823-lunapark-vr.json) |
 | LunaQuest | 190473 | [190473-lunaquest.json](./190473-lunaquest.json) |
+| Lunar Ascendant | 263101 | [263101-lunar-ascendant.json](./263101-lunar-ascendant.json) |
 | Lunar Assault 64 | 145457 | [145457-lunar-assault-64.json](./145457-lunar-assault-64.json) |
 | Lunar Ball | 92281 | [92281-lunar-ball.json](./92281-lunar-ball.json) |
 | Lunar Catastrophe | 260960 | [260960-lunar-catastrophe.json](./260960-lunar-catastrophe.json) |
