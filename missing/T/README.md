@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesla's Best Friend | 30861 | [30861-teslas-best-friend.json](./30861-teslas-best-friend.json) |
 | Tesla's Tower: The Wardenclyffe Mystery | 31954 | [31954-teslas-tower-the-wardenclyffe-mystery.json](./31954-teslas-tower-the-wardenclyffe-mystery.json) |
 | Teslagrad 2 | 214506 | [214506-teslagrad-2.json](./214506-teslagrad-2.json) |
+| Teslagrad Power Pack Edition | 246451 | [246451-teslagrad-power-pack-edition.json](./246451-teslagrad-power-pack-edition.json) |
 | Teslagrad Remastered | 246407 | [246407-teslagrad-remastered.json](./246407-teslagrad-remastered.json) |
 | Teslapunk | 20961 | [20961-teslapunk.json](./20961-teslapunk.json) |
 | Tess | 58767 | [58767-tess.json](./58767-tess.json) |
@@ -15759,6 +15760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tristia Doki-doki Operation | 408142 | [408142-tristia-doki-doki-operation.json](./408142-tristia-doki-doki-operation.json) |
 | Tristone | 112314 | [112314-tristone.json](./112314-tristone.json) |
 | Triton Survival | 114566 | [114566-triton-survival.json](./114566-triton-survival.json) |
+| Triton's Travels | 246525 | [246525-tritons-travels.json](./246525-tritons-travels.json) |
 | Tritorn | 150027 | [150027-tritorn.json](./150027-tritorn.json) |
 | Tritorn Final | 67395 | [67395-tritorn-final.json](./67395-tritorn-final.json) |
 | Tritorn II: Road of Darkness | 67399 | [67399-tritorn-ii-road-of-darkness.json](./67399-tritorn-ii-road-of-darkness.json) |
