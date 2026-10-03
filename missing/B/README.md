@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Bulét | 304632 | [304632-ball-bulet.json](./304632-ball-bulet.json) |
 | Ball Buster Breakout | 404372 | [404372-ball-buster-breakout.json](./404372-ball-buster-breakout.json) |
 | Ball Cannon | 327984 | [327984-ball-cannon.json](./327984-ball-cannon.json) |
+| Ball Clash | 247080 | [247080-ball-clash.json](./247080-ball-clash.json) |
 | Ball Destiny | 291174 | [291174-ball-destiny.json](./291174-ball-destiny.json) |
 | Ball Drop | 243703 | [243703-ball-drop.json](./243703-ball-drop.json) |
 | Ball Drop | 338188 | [338188-ball-drop.json](./338188-ball-drop.json) |
@@ -2750,6 +2751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Speller | 398545 | [398545-beat-speller.json](./398545-beat-speller.json) |
 | Beat Stickman: Infinity Clones | 112072 | [112072-beat-stickman-infinity-clones.json](./112072-beat-stickman-infinity-clones.json) |
 | Beat the Beat! | 262376 | [262376-beat-the-beat.json](./262376-beat-the-beat.json) |
+| Beat the Bird | 247076 | [247076-beat-the-bird.json](./247076-beat-the-bird.json) |
 | Beat the Blitz | 87962 | [87962-beat-the-blitz.json](./87962-beat-the-blitz.json) |
 | Beat the Boss 2 | 86786 | [86786-beat-the-boss-2.json](./86786-beat-the-boss-2.json) |
 | Beat The Boss Game | 331699 | [331699-beat-the-boss-game.json](./331699-beat-the-boss-game.json) |
@@ -2926,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedtime Stories 2 | 370252 | [370252-bedtime-stories-2.json](./370252-bedtime-stories-2.json) |
 | Bedtime Story: Saint | 338208 | [338208-bedtime-story-saint.json](./338208-bedtime-story-saint.json) |
 | Bee | 78084 | [78084-bee.json](./78084-bee.json) |
+| Bee Eliminator | 247066 | [247066-bee-eliminator.json](./247066-bee-eliminator.json) |
 | Bee Farming | 175281 | [175281-bee-farming.json](./175281-bee-farming.json) |
 | Bee Fighting | 247014 | [247014-bee-fighting.json](./247014-bee-fighting.json) |
 | Bee Flowers | 330941 | [330941-bee-flowers.json](./330941-bee-flowers.json) |
@@ -5295,6 +5298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Factory | 79670 | [79670-block-factory.json](./79670-block-factory.json) |
 | Block Fight | 201553 | [201553-block-fight.json](./201553-block-fight.json) |
 | Block Five | 71613 | [71613-block-five.json](./71613-block-five.json) |
+| Block Flying | 247077 | [247077-block-flying.json](./247077-block-flying.json) |
 | Block Force | 247454 | [247454-block-force.json](./247454-block-force.json) |
 | Block Force | 400447 | [400447-block-force.json](./400447-block-force.json) |
 | Block Gal | 38587 | [38587-block-gal.json](./38587-block-gal.json) |
@@ -6348,6 +6352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bomber Man 2002 | 287648 | [287648-bomber-man-2002.json](./287648-bomber-man-2002.json) |
 | Bomber Run | 362432 | [362432-bomber-run.json](./362432-bomber-run.json) |
+| Bomber-Man | 247059 | [247059-bomber-man.json](./247059-bomber-man.json) |
 | Bomber-Mario | 248288 | [248288-bomber-mario.json](./248288-bomber-mario.json) |
 | Bomber's Run | 184989 | [184989-bombers-run.json](./184989-bombers-run.json) |
 | Bomberball | 392144 | [392144-bomberball.json](./392144-bomberball.json) |
@@ -7067,6 +7072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowled | 403557 | [403557-bowled.json](./403557-bowled.json) |
 | Bowlers | 384080 | [384080-bowlers.json](./384080-bowlers.json) |
 | Bowling | 131535 | [131535-bowling.json](./131535-bowling.json) |
+| Bowling | 247004 | [247004-bowling.json](./247004-bowling.json) |
 | Bowling | 291999 | [291999-bowling.json](./291999-bowling.json) |
 | Bowling | 300414 | [300414-bowling.json](./300414-bowling.json) |
 | Bowling | 317634 | [317634-bowling.json](./317634-bowling.json) |
