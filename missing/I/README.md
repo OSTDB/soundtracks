@@ -858,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Shapes | 226164 | [226164-idle-shapes.json](./226164-idle-shapes.json) |
 | Idle ShowOff | 368683 | [368683-idle-showoff.json](./368683-idle-showoff.json) |
 | Idle Siege: Army Tycoon Game | 246982 | [246982-idle-siege-army-tycoon-game.json](./246982-idle-siege-army-tycoon-game.json) |
+| Idle Simple RPG | 243212 | [243212-idle-simple-rpg.json](./243212-idle-simple-rpg.json) |
 | Idle Skilling | 144767 | [144767-idle-skilling.json](./144767-idle-skilling.json) |
 | Idle Slayer | 139040 | [139040-idle-slayer.json](./139040-idle-slayer.json) |
 | Idle Spa Tycoon 3D | 208923 | [208923-idle-spa-tycoon-3d.json](./208923-idle-spa-tycoon-3d.json) |
@@ -1380,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperialism:The Dark Continent | 105521 | [105521-imperialism-the-dark-continent.json](./105521-imperialism-the-dark-continent.json) |
 | Imperialist | 400247 | [400247-imperialist.json](./400247-imperialist.json) |
 | Imperian | 78655 | [78655-imperian.json](./78655-imperian.json) |
+| Imperion | 243217 | [243217-imperion.json](./243217-imperion.json) |
 | Imperium Galactum | 25976 | [25976-imperium-galactum.json](./25976-imperium-galactum.json) |
 | Imperium Revolution | 188564 | [188564-imperium-revolution.json](./188564-imperium-revolution.json) |
 | Imperium Romanum | 20776 | [20776-imperium-romanum.json](./20776-imperium-romanum.json) |
