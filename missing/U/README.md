@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UC Love | 238218 | [238218-uc-love.json](./238218-uc-love.json) |
 | Uchi No Heya! | 403050 | [403050-uchi-no-heya.json](./403050-uchi-no-heya.json) |
 | Uchi Tore: Saitan 4-fun Kin Tore & Yuusansou Undou | 276469 | [276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json](./276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json) |
+| Uchikano: Living With My Lovers | 250485 | [250485-uchikano-living-with-my-lovers.json](./250485-uchikano-living-with-my-lovers.json) |
 | Uchu | 145507 | [145507-uchu.json](./145507-uchu.json) |
 | Uchu Mega Fight | 196791 | [196791-uchu-mega-fight.json](./196791-uchu-mega-fight.json) |
 | Uchusen: Ultimate Ploid Battle | 159709 | [159709-uchusen-ultimate-ploid-battle.json](./159709-uchusen-ultimate-ploid-battle.json) |
