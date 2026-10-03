@@ -1084,6 +1084,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Cafe on Electric Street | 302952 | [302952-maid-cafe-on-electric-street.json](./302952-maid-cafe-on-electric-street.json) |
 | Maid Cafe Simulator | 393665 | [393665-maid-cafe-simulator.json](./393665-maid-cafe-simulator.json) |
 | Maid Cafe: Delightful Sins Comics | 265610 | [265610-maid-cafe-delightful-sins-comics.json](./265610-maid-cafe-delightful-sins-comics.json) |
+| Maid Cafe: Maid Girls Comics | 265331 | [265331-maid-cafe-maid-girls-comics.json](./265331-maid-cafe-maid-girls-comics.json) |
+| Maid Cafe: Monstrous Beauties Comics | 265332 | [265332-maid-cafe-monstrous-beauties-comics.json](./265332-maid-cafe-monstrous-beauties-comics.json) |
 | Maid Cafe: Sexy Secrets | 265604 | [265604-maid-cafe-sexy-secrets.json](./265604-maid-cafe-sexy-secrets.json) |
 | Maid Envy | 74760 | [74760-maid-envy.json](./74760-maid-envy.json) |
 | Maid for Loving You | 227872 | [227872-maid-for-loving-you.json](./227872-maid-for-loving-you.json) |
@@ -1536,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MangueBoy | 279241 | [279241-mangueboy.json](./279241-mangueboy.json) |
 | ManHandler | 243689 | [243689-manhandler.json](./243689-manhandler.json) |
 | Manhattan Dealers | 10846 | [10846-manhattan-dealers.json](./10846-manhattan-dealers.json) |
+| Manhattan Dolls | 265329 | [265329-manhattan-dolls.json](./265329-manhattan-dolls.json) |
 | Manhattan Requiem | 349955 | [349955-manhattan-requiem.json](./349955-manhattan-requiem.json) |
 | Manhole | 100229 | [100229-manhole.json](./100229-manhole.json) |
 | Manhole-e: Classic Version | 92847 | [92847-manhole-e-classic-version.json](./92847-manhole-e-classic-version.json) |
@@ -1586,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manludo 2 | 303643 | [303643-manludo-2.json](./303643-manludo-2.json) |
 | Manly Men Fighting | 58796 | [58796-manly-men-fighting.json](./58796-manly-men-fighting.json) |
 | MannaRites | 140566 | [140566-mannarites.json](./140566-mannarites.json) |
+| MannaRites Gold | 265328 | [265328-mannarites-gold.json](./265328-mannarites-gold.json) |
 | ManneKin: Hessler Storage | 215611 | [215611-mannekin-hessler-storage.json](./215611-mannekin-hessler-storage.json) |
 | Mannequin Academy | 183037 | [183037-mannequin-academy.json](./183037-mannequin-academy.json) |
 | Mannequin House | 171535 | [171535-mannequin-house.json](./171535-mannequin-house.json) |
@@ -3030,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matthias Sammer Soccer | 49101 | [49101-matthias-sammer-soccer.json](./49101-matthias-sammer-soccer.json) |
 | Matts & the Metamagicians | 181684 | [181684-matts-and-the-metamagicians.json](./181684-matts-and-the-metamagicians.json) |
 | Matts Project Z Endless | 149581 | [149581-matts-project-z-endless.json](./149581-matts-project-z-endless.json) |
+| Mature Comedy Visual Novel | 265330 | [265330-mature-comedy-visual-novel.json](./265330-mature-comedy-visual-novel.json) |
 | Maudelyn's Quest | 186189 | [186189-maudelyns-quest.json](./186189-maudelyns-quest.json) |
 | Maui The Shapeshifter | 314425 | [314425-maui-the-shapeshifter.json](./314425-maui-the-shapeshifter.json) |
 | Mauled | 239681 | [239681-mauled.json](./239681-mauled.json) |
@@ -4855,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Assault | 9040 | [9040-metal-assault.json](./9040-metal-assault.json) |
 | Metal Black: Alternative | 70648 | [70648-metal-black-alternative.json](./70648-metal-black-alternative.json) |
 | Metal Brigade Tactics Versus | 256254 | [256254-metal-brigade-tactics-versus.json](./256254-metal-brigade-tactics-versus.json) |
+| Metal Bringer | 265327 | [265327-metal-bringer.json](./265327-metal-bringer.json) |
 | Metal Bunny | 309894 | [309894-metal-bunny.json](./309894-metal-bunny.json) |
 | Metal Clash | 40355 | [40355-metal-clash.json](./40355-metal-clash.json) |
 | Metal Coffin | 335256 | [335256-metal-coffin.json](./335256-metal-coffin.json) |
@@ -5318,6 +5324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Pico Racers | 96665 | [96665-micro-pico-racers.json](./96665-micro-pico-racers.json) |
 | Micro Plutonia | 312898 | [312898-micro-plutonia.json](./312898-micro-plutonia.json) |
 | Micro Quest | 307593 | [307593-micro-quest.json](./307593-micro-quest.json) |
+| Micro Rogue | 265326 | [265326-micro-rogue.json](./265326-micro-rogue.json) |
 | Micro RPG | 197794 | [197794-micro-rpg.json](./197794-micro-rpg.json) |
 | Micro Scooter Challenge | 209025 | [209025-micro-scooter-challenge.json](./209025-micro-scooter-challenge.json) |
 | Micro Slaughter Community Project | 221847 | [221847-micro-slaughter-community-project.json](./221847-micro-slaughter-community-project.json) |
@@ -5565,6 +5572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight | 33802 | [33802-midnight.json](./33802-midnight.json) |
 | Midnight Arcade | 344364 | [344364-midnight-arcade.json](./344364-midnight-arcade.json) |
 | Midnight at Blackwood Manor | 370150 | [370150-midnight-at-blackwood-manor.json](./370150-midnight-at-blackwood-manor.json) |
+| Midnight at the Disco | 265325 | [265325-midnight-at-the-disco.json](./265325-midnight-at-the-disco.json) |
 | Midnight Bike | 158146 | [158146-midnight-bike.json](./158146-midnight-bike.json) |
 | Midnight Blues | 173305 | [173305-midnight-blues.json](./173305-midnight-blues.json) |
 | Midnight Building | 93172 | [93172-midnight-building.json](./93172-midnight-building.json) |
@@ -5866,6 +5874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milky Quest II | 232654 | [232654-milky-quest-ii.json](./232654-milky-quest-ii.json) |
 | Milky Shaky Lab | 282648 | [282648-milky-shaky-lab.json](./282648-milky-shaky-lab.json) |
 | Milky Way Idle | 336018 | [336018-milky-way-idle.json](./336018-milky-way-idle.json) |
+| Milky Way Jigsaw Puzzles | 265319 | [265319-milky-way-jigsaw-puzzles.json](./265319-milky-way-jigsaw-puzzles.json) |
 | Milky Way Jigsaw Puzzles: Expansion Pack 1 | 265246 | [265246-milky-way-jigsaw-puzzles-expansion-pack-1.json](./265246-milky-way-jigsaw-puzzles-expansion-pack-1.json) |
 | Milky Way Jigsaw Puzzles: Expansion Pack 2 | 265247 | [265247-milky-way-jigsaw-puzzles-expansion-pack-2.json](./265247-milky-way-jigsaw-puzzles-expansion-pack-2.json) |
 | Milky Way Wishes | 271264 | [271264-milky-way-wishes.json](./271264-milky-way-wishes.json) |
@@ -5948,6 +5957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimic Search | 278678 | [278678-mimic-search.json](./278678-mimic-search.json) |
 | Mimic Sleuth | 355031 | [355031-mimic-sleuth.json](./355031-mimic-sleuth.json) |
 | Mimic Warehouse | 346649 | [346649-mimic-warehouse.json](./346649-mimic-warehouse.json) |
+| MimiCries | 265324 | [265324-mimicries.json](./265324-mimicries.json) |
 | Mimicry | 342757 | [342757-mimicry.json](./342757-mimicry.json) |
 | Mimicry Man | 61570 | [61570-mimicry-man.json](./61570-mimicry-man.json) |
 | Mimics | 176438 | [176438-mimics.json](./176438-mimics.json) |
@@ -6809,6 +6819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Command: Evolved | 329635 | [329635-missile-command-evolved.json](./329635-missile-command-evolved.json) |
 | Missile Command: Recharged | 132154 | [132154-missile-command-recharged.json](./132154-missile-command-recharged.json) |
 | Missile Control | 13252 | [13252-missile-control.json](./13252-missile-control.json) |
+| Missile Dancer 2 | 265323 | [265323-missile-dancer-2.json](./265323-missile-dancer-2.json) |
 | Missile Defence | 290654 | [290654-missile-defence.json](./290654-missile-defence.json) |
 | Missile Defense | 278093 | [278093-missile-defense.json](./278093-missile-defense.json) |
 | Missile Input | 190477 | [190477-missile-input.json](./190477-missile-input.json) |
@@ -6975,6 +6986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mithra Episode 1: The Calling | 359065 | [359065-mithra-episode-1-the-calling.json](./359065-mithra-episode-1-the-calling.json) |
 | Mithraeum | 213622 | [213622-mithraeum.json](./213622-mithraeum.json) |
 | Mithral Gun | 196330 | [196330-mithral-gun.json](./196330-mithral-gun.json) |
+| Mithronia: Tower Wars | 265322 | [265322-mithronia-tower-wars.json](./265322-mithronia-tower-wars.json) |
 | Mitla | 373657 | [373657-mitla.json](./373657-mitla.json) |
 | Mito da Criação | 131368 | [131368-mito-da-criacao.json](./131368-mito-da-criacao.json) |
 | Mito Koumon II: Sekai Manyuu Ki | 48773 | [48773-mito-koumon-ii-sekai-manyuu-ki.json](./48773-mito-koumon-ii-sekai-manyuu-ki.json) |
@@ -7313,6 +7325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modulate | 61733 | [61733-modulate.json](./61733-modulate.json) |
 | Module | 372651 | [372651-module.json](./372651-module.json) |
 | Module TD. Sci Fi Tower Defense | 103350 | [103350-module-td-sci-fi-tower-defense.json](./103350-module-td-sci-fi-tower-defense.json) |
+| Modulor | 265321 | [265321-modulor.json](./265321-modulor.json) |
 | Moduwar | 109753 | [109753-moduwar.json](./109753-moduwar.json) |
 | Modyssey | 323234 | [323234-modyssey.json](./323234-modyssey.json) |
 | Moe | 113853 | [113853-moe.json](./113853-moe.json) |
@@ -8184,6 +8197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Valley II: The Lost Forest | 255779 | [255779-monument-valley-ii-the-lost-forest.json](./255779-monument-valley-ii-the-lost-forest.json) |
 | Monument Valley: Panoramic Edition | 203331 | [203331-monument-valley-panoramic-edition.json](./203331-monument-valley-panoramic-edition.json) |
 | Monument Valley+ | 145466 | [145466-monument-valley.json](./145466-monument-valley.json) |
+| Monument Village | 265320 | [265320-monument-village.json](./265320-monument-village.json) |
 | Monument: Invasion | 308501 | [308501-monument-invasion.json](./308501-monument-invasion.json) |
 | Monument: Ultimate Edition | 317249 | [317249-monument-ultimate-edition.json](./317249-monument-ultimate-edition.json) |
 | Monumental Failure | 29940 | [29940-monumental-failure.json](./29940-monumental-failure.json) |
@@ -10091,6 +10105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Farm | 85610 | [85610-my-farm.json](./85610-my-farm.json) |
 | My Farm Life | 53391 | [53391-my-farm-life.json](./53391-my-farm-life.json) |
 | My Father My Son | 188684 | [188684-my-father-my-son.json](./188684-my-father-my-son.json) |
+| My Father's House | 265318 | [265318-my-fathers-house.json](./265318-my-fathers-house.json) |
 | My Favorite Dream Girls | 401695 | [401695-my-favorite-dream-girls.json](./401695-my-favorite-dream-girls.json) |
 | My Favorite Match | 179510 | [179510-my-favorite-match.json](./179510-my-favorite-match.json) |
 | My Favorite Monster | 261305 | [261305-my-favorite-monster.json](./261305-my-favorite-monster.json) |
@@ -10260,6 +10275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Last Friday | 320730 | [320730-my-last-friday.json](./320730-my-last-friday.json) |
 | My Last Heatwave | 396556 | [396556-my-last-heatwave.json](./396556-my-last-heatwave.json) |
 | My Last Memories About You | 158133 | [158133-my-last-memories-about-you.json](./158133-my-last-memories-about-you.json) |
+| My Legend of Immortal Cultivation | 265317 | [265317-my-legend-of-immortal-cultivation.json](./265317-my-legend-of-immortal-cultivation.json) |
 | My Lego Network | 321552 | [321552-my-lego-network.json](./321552-my-lego-network.json) |
 | My Leisure Time | 395121 | [395121-my-leisure-time.json](./395121-my-leisure-time.json) |
 | My Lewd Adventure | 341350 | [341350-my-lewd-adventure.json](./341350-my-lewd-adventure.json) |
