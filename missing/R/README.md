@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Lord 2 - The witch of Cologne and black cat | 189940 | [189940-re-lord-2-the-witch-of-cologne-and-black-cat.json](./189940-re-lord-2-the-witch-of-cologne-and-black-cat.json) |
 | Re:Memento - White Shadow | 326138 | [326138-re-memento-white-shadow.json](./326138-re-memento-white-shadow.json) |
 | Re:Metamorphosis Candina | 409768 | [409768-re-metamorphosis-candina.json](./409768-re-metamorphosis-candina.json) |
+| Re:Mobilize | 270851 | [270851-re-mobilize.json](./270851-re-mobilize.json) |
 | Re:Mobilize Jam 3: Re:Frigerated | 393783 | [393783-re-mobilize-jam-3-re-frigerated.json](./393783-re-mobilize-jam-3-re-frigerated.json) |
 | Re:Monster | 241637 | [241637-re-monster.json](./241637-re-monster.json) |
 | Re:Night | 258952 | [258952-re-night.json](./258952-re-night.json) |
@@ -6522,6 +6523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusts of Corruption | 307218 | [307218-rusts-of-corruption.json](./307218-rusts-of-corruption.json) |
 | Rusty | 239074 | [239074-rusty.json](./239074-rusty.json) |
 | Rusty | 45975 | [45975-rusty.json](./45975-rusty.json) |
+| Rusty Barrel | 270854 | [270854-rusty-barrel.json](./270854-rusty-barrel.json) |
 | Rusty Blower 3D | 342782 | [342782-rusty-blower-3d.json](./342782-rusty-blower-3d.json) |
 | Rusty Drill | 326740 | [326740-rusty-drill.json](./326740-rusty-drill.json) |
 | Rusty Dusty | 298105 | [298105-rusty-dusty.json](./298105-rusty-dusty.json) |
