@@ -899,33 +899,52 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle World: Amphibians | 357895 | [357895-jigsaw-puzzle-world-amphibians.json](./357895-jigsaw-puzzle-world-amphibians.json) |
 | Jigsaw Puzzle World: Arachnids | 357896 | [357896-jigsaw-puzzle-world-arachnids.json](./357896-jigsaw-puzzle-world-arachnids.json) |
 | Jigsaw Puzzle World: Australia | 357907 | [357907-jigsaw-puzzle-world-australia.json](./357907-jigsaw-puzzle-world-australia.json) |
+| Jigsaw Puzzle World: Bakery | 247651 | [247651-jigsaw-puzzle-world-bakery.json](./247651-jigsaw-puzzle-world-bakery.json) |
 | Jigsaw Puzzle World: Bar Drinks | 247627 | [247627-jigsaw-puzzle-world-bar-drinks.json](./247627-jigsaw-puzzle-world-bar-drinks.json) |
 | Jigsaw Puzzle World: Bears | 293067 | [293067-jigsaw-puzzle-world-bears.json](./293067-jigsaw-puzzle-world-bears.json) |
 | Jigsaw Puzzle World: Birds | 247625 | [247625-jigsaw-puzzle-world-birds.json](./247625-jigsaw-puzzle-world-birds.json) |
+| Jigsaw Puzzle World: Boats | 247642 | [247642-jigsaw-puzzle-world-boats.json](./247642-jigsaw-puzzle-world-boats.json) |
+| Jigsaw Puzzle World: Brazil | 247650 | [247650-jigsaw-puzzle-world-brazil.json](./247650-jigsaw-puzzle-world-brazil.json) |
 | Jigsaw Puzzle World: Canada | 293609 | [293609-jigsaw-puzzle-world-canada.json](./293609-jigsaw-puzzle-world-canada.json) |
+| Jigsaw Puzzle World: Candy | 247637 | [247637-jigsaw-puzzle-world-candy.json](./247637-jigsaw-puzzle-world-candy.json) |
+| Jigsaw Puzzle World: Cars | 247644 | [247644-jigsaw-puzzle-world-cars.json](./247644-jigsaw-puzzle-world-cars.json) |
+| Jigsaw Puzzle World: Cats | 247638 | [247638-jigsaw-puzzle-world-cats.json](./247638-jigsaw-puzzle-world-cats.json) |
 | Jigsaw Puzzle World: Challenge | 286235 | [286235-jigsaw-puzzle-world-challenge.json](./286235-jigsaw-puzzle-world-challenge.json) |
+| Jigsaw Puzzle World: China | 247635 | [247635-jigsaw-puzzle-world-china.json](./247635-jigsaw-puzzle-world-china.json) |
 | Jigsaw Puzzle World: Desserts | 293611 | [293611-jigsaw-puzzle-world-desserts.json](./293611-jigsaw-puzzle-world-desserts.json) |
+| Jigsaw Puzzle World: Dogs | 247643 | [247643-jigsaw-puzzle-world-dogs.json](./247643-jigsaw-puzzle-world-dogs.json) |
 | Jigsaw Puzzle World: Electronics | 247628 | [247628-jigsaw-puzzle-world-electronics.json](./247628-jigsaw-puzzle-world-electronics.json) |
 | Jigsaw Puzzle World: Fairground | 293068 | [293068-jigsaw-puzzle-world-fairground.json](./293068-jigsaw-puzzle-world-fairground.json) |
 | Jigsaw Puzzle World: Fast Food | 286234 | [286234-jigsaw-puzzle-world-fast-food.json](./286234-jigsaw-puzzle-world-fast-food.json) |
+| Jigsaw Puzzle World: Fish | 247647 | [247647-jigsaw-puzzle-world-fish.json](./247647-jigsaw-puzzle-world-fish.json) |
+| Jigsaw Puzzle World: France | 247636 | [247636-jigsaw-puzzle-world-france.json](./247636-jigsaw-puzzle-world-france.json) |
 | Jigsaw Puzzle World: Geology | 357906 | [357906-jigsaw-puzzle-world-geology.json](./357906-jigsaw-puzzle-world-geology.json) |
 | Jigsaw Puzzle World: Germany | 357904 | [357904-jigsaw-puzzle-world-germany.json](./357904-jigsaw-puzzle-world-germany.json) |
 | Jigsaw Puzzle World: Hobbies | 357905 | [357905-jigsaw-puzzle-world-hobbies.json](./357905-jigsaw-puzzle-world-hobbies.json) |
+| Jigsaw Puzzle World: Horses | 247634 | [247634-jigsaw-puzzle-world-horses.json](./247634-jigsaw-puzzle-world-horses.json) |
 | Jigsaw Puzzle World: India | 247631 | [247631-jigsaw-puzzle-world-india.json](./247631-jigsaw-puzzle-world-india.json) |
 | Jigsaw Puzzle World: Insects | 293610 | [293610-jigsaw-puzzle-world-insects.json](./293610-jigsaw-puzzle-world-insects.json) |
+| Jigsaw Puzzle World: Japan | 247646 | [247646-jigsaw-puzzle-world-japan.json](./247646-jigsaw-puzzle-world-japan.json) |
 | Jigsaw Puzzle World: Lions & Tigers | 357903 | [357903-jigsaw-puzzle-world-lions-and-tigers.json](./357903-jigsaw-puzzle-world-lions-and-tigers.json) |
 | Jigsaw Puzzle World: Mediterranean Food | 247626 | [247626-jigsaw-puzzle-world-mediterranean-food.json](./247626-jigsaw-puzzle-world-mediterranean-food.json) |
 | Jigsaw Puzzle World: Military Vehicles | 286236 | [286236-jigsaw-puzzle-world-military-vehicles.json](./286236-jigsaw-puzzle-world-military-vehicles.json) |
 | Jigsaw Puzzle World: Motorcycles | 247624 | [247624-jigsaw-puzzle-world-motorcycles.json](./247624-jigsaw-puzzle-world-motorcycles.json) |
 | Jigsaw Puzzle World: Musical Instruments | 357902 | [357902-jigsaw-puzzle-world-musical-instruments.json](./357902-jigsaw-puzzle-world-musical-instruments.json) |
 | Jigsaw Puzzle World: North Africa | 357900 | [357900-jigsaw-puzzle-world-north-africa.json](./357900-jigsaw-puzzle-world-north-africa.json) |
+| Jigsaw Puzzle World: Planes | 247633 | [247633-jigsaw-puzzle-world-planes.json](./247633-jigsaw-puzzle-world-planes.json) |
+| Jigsaw Puzzle World: Plants | 247641 | [247641-jigsaw-puzzle-world-plants.json](./247641-jigsaw-puzzle-world-plants.json) |
+| Jigsaw Puzzle World: Plants 2 | 247639 | [247639-jigsaw-puzzle-world-plants-2.json](./247639-jigsaw-puzzle-world-plants-2.json) |
 | Jigsaw Puzzle World: Primates | 357901 | [357901-jigsaw-puzzle-world-primates.json](./357901-jigsaw-puzzle-world-primates.json) |
 | Jigsaw Puzzle World: Rabbits | 286237 | [286237-jigsaw-puzzle-world-rabbits.json](./286237-jigsaw-puzzle-world-rabbits.json) |
+| Jigsaw Puzzle World: Reptiles | 247649 | [247649-jigsaw-puzzle-world-reptiles.json](./247649-jigsaw-puzzle-world-reptiles.json) |
+| Jigsaw Puzzle World: Reptiles 2 | 247640 | [247640-jigsaw-puzzle-world-reptiles-2.json](./247640-jigsaw-puzzle-world-reptiles-2.json) |
 | Jigsaw Puzzle World: Scandinavia | 357899 | [357899-jigsaw-puzzle-world-scandinavia.json](./357899-jigsaw-puzzle-world-scandinavia.json) |
 | Jigsaw Puzzle World: Sharks | 357898 | [357898-jigsaw-puzzle-world-sharks.json](./357898-jigsaw-puzzle-world-sharks.json) |
 | Jigsaw Puzzle World: South Korea | 293069 | [293069-jigsaw-puzzle-world-south-korea.json](./293069-jigsaw-puzzle-world-south-korea.json) |
 | Jigsaw Puzzle World: Spain | 247630 | [247630-jigsaw-puzzle-world-spain.json](./247630-jigsaw-puzzle-world-spain.json) |
+| Jigsaw Puzzle World: Sports | 247648 | [247648-jigsaw-puzzle-world-sports.json](./247648-jigsaw-puzzle-world-sports.json) |
 | Jigsaw Puzzle World: Toys | 247629 | [247629-jigsaw-puzzle-world-toys.json](./247629-jigsaw-puzzle-world-toys.json) |
+| Jigsaw Puzzle World: Trains | 247645 | [247645-jigsaw-puzzle-world-trains.json](./247645-jigsaw-puzzle-world-trains.json) |
 | Jigsaw Puzzle World: U.K. | 247632 | [247632-jigsaw-puzzle-world-u-k.json](./247632-jigsaw-puzzle-world-u-k.json) |
 | Jigsaw Puzzle World: U.S.A. 2 | 357897 | [357897-jigsaw-puzzle-world-u-s-a-2.json](./357897-jigsaw-puzzle-world-u-s-a-2.json) |
 | Jigsaw Puzzle World: Weather | 293608 | [293608-jigsaw-puzzle-world-weather.json](./293608-jigsaw-puzzle-world-weather.json) |
@@ -1664,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump with Friends | 118131 | [118131-jump-with-friends.json](./118131-jump-with-friends.json) |
 | Jump Without Reason | 124252 | [124252-jump-without-reason.json](./124252-jump-without-reason.json) |
 | Jump Yuusha | 222423 | [222423-jump-yuusha.json](./222423-jump-yuusha.json) |
+| Jump, challenge 100 floors | 247662 | [247662-jump-challenge-100-floors.json](./247662-jump-challenge-100-floors.json) |
 | Jump, Mouse, Jump! | 391252 | [391252-jump-mouse-jump.json](./391252-jump-mouse-jump.json) |
 | Jump, Race, Fly | 264903 | [264903-jump-race-fly.json](./264903-jump-race-fly.json) |
 | Jump, Smash! | 106999 | [106999-jump-smash.json](./106999-jump-smash.json) |
