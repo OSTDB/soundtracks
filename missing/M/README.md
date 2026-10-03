@@ -10276,6 +10276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Exit | 293687 | [293687-my-exit.json](./293687-my-exit.json) |
 | My Exotic Farm | 66391 | [66391-my-exotic-farm.json](./66391-my-exotic-farm.json) |
 | My Exotic Farm Australia | 65751 | [65751-my-exotic-farm-australia.json](./65751-my-exotic-farm-australia.json) |
+| My Extraordinary Girlfriend | 238097 | [238097-my-extraordinary-girlfriend.json](./238097-my-extraordinary-girlfriend.json) |
 | My Eyes on You | 57694 | [57694-my-eyes-on-you.json](./57694-my-eyes-on-you.json) |
 | My Fair Cat: Snow | 298649 | [298649-my-fair-cat-snow.json](./298649-my-fair-cat-snow.json) |
 | My Faithful and Loyal Wife Would Never Cheat on Me | 278413 | [278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json](./278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json) |
