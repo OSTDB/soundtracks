@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eliza | 92919 | [92919-eliza.json](./92919-eliza.json) |
 | Elk Attack | 282714 | [282714-elk-attack.json](./282714-elk-attack.json) |
 | Elk Simulator | 158565 | [158565-elk-simulator.json](./158565-elk-simulator.json) |
+| Elkrone no Atelier: Dear for Otomate Limited Edition | 253495 | [253495-elkrone-no-atelier-dear-for-otomate-limited-edition.json](./253495-elkrone-no-atelier-dear-for-otomate-limited-edition.json) |
 | Ella Stars | 334127 | [334127-ella-stars.json](./334127-ella-stars.json) |
 | Ella's Nightmare | 384173 | [384173-ellas-nightmare.json](./384173-ellas-nightmare.json) |
 | Ellada Games RPG Bundle | 187500 | [187500-ellada-games-rpg-bundle.json](./187500-ellada-games-rpg-bundle.json) |
