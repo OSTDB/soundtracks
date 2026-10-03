@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Master: Cradle of Egypt 2 | 23677 | [23677-jewel-master-cradle-of-egypt-2.json](./23677-jewel-master-cradle-of-egypt-2.json) |
 | Jewel Match | 53251 | [53251-jewel-match.json](./53251-jewel-match.json) |
 | Jewel Match 3 | 85216 | [85216-jewel-match-3.json](./85216-jewel-match-3.json) |
+| Jewel Match Aquascapes: Collector's Edition | 244845 | [244845-jewel-match-aquascapes-collectors-edition.json](./244845-jewel-match-aquascapes-collectors-edition.json) |
 | Jewel Match Atlantis Solitaire 2 | 153397 | [153397-jewel-match-atlantis-solitaire-2.json](./153397-jewel-match-atlantis-solitaire-2.json) |
 | Jewel Match Atlantis Solitaire 2: Collector's Edition | 153292 | [153292-jewel-match-atlantis-solitaire-2-collectors-edition.json](./153292-jewel-match-atlantis-solitaire-2-collectors-edition.json) |
 | Jewel Match Atlantis Solitaire 4: Collector's Edition | 265343 | [265343-jewel-match-atlantis-solitaire-4-collectors-edition.json](./265343-jewel-match-atlantis-solitaire-4-collectors-edition.json) |
@@ -1309,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo's Bizarre RPG: Phantom Blood | 172763 | [172763-jojos-bizarre-rpg-phantom-blood.json](./172763-jojos-bizarre-rpg-phantom-blood.json) |
 | JoJo's Diner | 225295 | [225295-jojos-diner.json](./225295-jojos-diner.json) |
 | JoJodle | 225621 | [225621-jojodle.json](./225621-jojodle.json) |
+| Jojoy!: Ecorpy Islands | 244850 | [244850-jojoy-ecorpy-islands.json](./244850-jojoy-ecorpy-islands.json) |
 | Joke's On Us | 352194 | [352194-jokes-on-us.json](./352194-jokes-on-us.json) |
 | Joker & Teacher | 369556 | [369556-joker-and-teacher.json](./369556-joker-and-teacher.json) |
 | Joker Poker: Video Poker | 146862 | [146862-joker-poker-video-poker.json](./146862-joker-poker-video-poker.json) |
