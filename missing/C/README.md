@@ -9627,6 +9627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubicolor | 33430 | [33430-cubicolor.json](./33430-cubicolor.json) |
 | CubicPanic | 98980 | [98980-cubicpanic.json](./98980-cubicpanic.json) |
 | Cubidle | 311473 | [311473-cubidle.json](./311473-cubidle.json) |
+| Cubified | 241451 | [241451-cubified.json](./241451-cubified.json) |
 | Cubik | 294301 | [294301-cubik.json](./294301-cubik.json) |
 | Cubikill | 341076 | [341076-cubikill.json](./341076-cubikill.json) |
 | Cubikolor | 19888 | [19888-cubikolor.json](./19888-cubikolor.json) |
@@ -10030,6 +10031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute & Cozy Farm 5-in-1 | 399816 | [399816-cute-and-cozy-farm-5-in-1.json](./399816-cute-and-cozy-farm-5-in-1.json) |
 | Cute & Dead | 408863 | [408863-cute-and-dead.json](./408863-cute-and-dead.json) |
 | Cute Adventure | 114323 | [114323-cute-adventure.json](./114323-cute-adventure.json) |
+| Cute and Creepy | 241412 | [241412-cute-and-creepy.json](./241412-cute-and-creepy.json) |
 | Cute animal jigsaw puzzle | 159856 | [159856-cute-animal-jigsaw-puzzle.json](./159856-cute-animal-jigsaw-puzzle.json) |
 | Cute Animal Match | 100721 | [100721-cute-animal-match.json](./100721-cute-animal-match.json) |
 | Cute Animals | 411140 | [411140-cute-animals.json](./411140-cute-animals.json) |
