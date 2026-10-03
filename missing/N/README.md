@@ -1951,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Street 2: Unleashed | 243016 | [243016-nfl-street-2-unleashed.json](./243016-nfl-street-2-unleashed.json) |
 | NFL Street 3 | 8266 | [8266-nfl-street-3.json](./8266-nfl-street-3.json) |
 | NFL Xtreme 2 | 43899 | [43899-nfl-xtreme-2.json](./43899-nfl-xtreme-2.json) |
+| NFT Museum | 231446 | [231446-nft-museum.json](./231446-nft-museum.json) |
 | Ngolf | 283259 | [283259-ngolf.json](./283259-ngolf.json) |
 | Ngolf: Colorful Golf Balls 2 | 300953 | [300953-ngolf-colorful-golf-balls-2.json](./300953-ngolf-colorful-golf-balls-2.json) |
 | Ngolf: Colorful Golf Balls 3 | 300954 | [300954-ngolf-colorful-golf-balls-3.json](./300954-ngolf-colorful-golf-balls-3.json) |
