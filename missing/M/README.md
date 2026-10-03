@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Witches | 280860 | [280860-magic-witches.json](./280860-magic-witches.json) |
 | Magic Wizard | 130862 | [130862-magic-wizard.json](./130862-magic-wizard.json) |
 | Magic World | 372634 | [372634-magic-world.json](./372634-magic-world.json) |
+| Magic World: Unravel the Magic | 242588 | [242588-magic-world-unravel-the-magic.json](./242588-magic-world-unravel-the-magic.json) |
 | Magic: ManaStrike | 125270 | [125270-magic-manastrike.json](./125270-magic-manastrike.json) |
 | Magic: Puzzle Quest | 111748 | [111748-magic-puzzle-quest.json](./111748-magic-puzzle-quest.json) |
 | Magic: The Gathering - Battlegrounds | 5907 | [5907-magic-the-gathering-battlegrounds.json](./5907-magic-the-gathering-battlegrounds.json) |
@@ -3308,6 +3309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Quest Master | 270186 | [270186-maze-quest-master.json](./270186-maze-quest-master.json) |
 | Maze Roller | 32203 | [32203-maze-roller.json](./32203-maze-roller.json) |
 | Maze Runner | 72108 | [72108-maze-runner.json](./72108-maze-runner.json) |
+| Maze Runner II | 242690 | [242690-maze-runner-ii.json](./242690-maze-runner-ii.json) |
 | Maze Survivor | 408979 | [408979-maze-survivor.json](./408979-maze-survivor.json) |
 | Maze Tanks | 252222 | [252222-maze-tanks.json](./252222-maze-tanks.json) |
 | Maze Twister | 191820 | [191820-maze-twister.json](./191820-maze-twister.json) |
@@ -8799,6 +8801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Shell: Rotten Autumn | 229714 | [229714-mortal-shell-rotten-autumn.json](./229714-mortal-shell-rotten-autumn.json) |
 | Mortal Shell: The Virtuous Cycle | 152119 | [152119-mortal-shell-the-virtuous-cycle.json](./152119-mortal-shell-the-virtuous-cycle.json) |
 | Mortal Street Fighter | 260877 | [260877-mortal-street-fighter.json](./260877-mortal-street-fighter.json) |
+| Mortal Trace | 242693 | [242693-mortal-trace.json](./242693-mortal-trace.json) |
 | Mortal Trap Dungeon | 378282 | [378282-mortal-trap-dungeon.json](./378282-mortal-trap-dungeon.json) |
 | Mortal Void | 336628 | [336628-mortal-void.json](./336628-mortal-void.json) |
 | Mortal Weapon | 74333 | [74333-mortal-weapon.json](./74333-mortal-weapon.json) |
