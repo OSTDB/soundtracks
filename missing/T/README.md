@@ -2436,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror of Sea | 227815 | [227815-terror-of-sea.json](./227815-terror-of-sea.json) |
 | Terror of the Catacombs | 11046 | [11046-terror-of-the-catacombs.json](./11046-terror-of-the-catacombs.json) |
 | Terror of the Deep | 37178 | [37178-terror-of-the-deep.json](./37178-terror-of-the-deep.json) |
+| Terror of the Seven Seas | 244855 | [244855-terror-of-the-seven-seas.json](./244855-terror-of-the-seven-seas.json) |
 | Terror on Tromos 5 | 407427 | [407427-terror-on-tromos-5.json](./407427-terror-on-tromos-5.json) |
 | Terror Quake 2 | 272317 | [272317-terror-quake-2.json](./272317-terror-quake-2.json) |
 | Terror Shooter Apocalypse | 195111 | [195111-terror-shooter-apocalypse.json](./195111-terror-shooter-apocalypse.json) |
@@ -3421,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Watchmen: Mother Russia | 170485 | [170485-the-black-watchmen-mother-russia.json](./170485-the-black-watchmen-mother-russia.json) |
 | The Black Watchmen: Season 2 - Enduring Conflict | 170486 | [170486-the-black-watchmen-season-2-enduring-conflict.json](./170486-the-black-watchmen-season-2-enduring-conflict.json) |
 | The Black Watchmen: Whitechapel | 170487 | [170487-the-black-watchmen-whitechapel.json](./170487-the-black-watchmen-whitechapel.json) |
+| The Black Within | 244916 | [244916-the-black-within.json](./244916-the-black-within.json) |
 | The Blacklist: Conspiracy | 58266 | [58266-the-blacklist-conspiracy.json](./58266-the-blacklist-conspiracy.json) |
 | The Blackout Club | 89562 | [89562-the-blackout-club.json](./89562-the-blackout-club.json) |
 | The Blackwell Bundle | 154449 | [154449-the-blackwell-bundle.json](./154449-the-blackwell-bundle.json) |
@@ -6966,6 +6968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Manager | 79581 | [79581-the-manager.json](./79581-the-manager.json) |
 | The Manaworks | 401052 | [401052-the-manaworks.json](./401052-the-manaworks.json) |
 | The Mandate | 61567 | [61567-the-mandate.json](./61567-the-mandate.json) |
+| The Mangust | 244857 | [244857-the-mangust.json](./244857-the-mangust.json) |
 | The Manhole: New and Enhanced | 73310 | [73310-the-manhole-new-and-enhanced.json](./73310-the-manhole-new-and-enhanced.json) |
 | The Mannequin | 179740 | [179740-the-mannequin.json](./179740-the-mannequin.json) |
 | The Mansion | 106145 | [106145-the-mansion.json](./106145-the-mansion.json) |
@@ -12067,6 +12070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Terraces | 311476 | [311476-tiny-terraces.json](./311476-tiny-terraces.json) |
 | Tiny Terry's Turbo Trip | 253106 | [253106-tiny-terrys-turbo-trip.json](./253106-tiny-terrys-turbo-trip.json) |
 | Tiny Thor | 28295 | [28295-tiny-thor.json](./28295-tiny-thor.json) |
+| Tiny Tied | 244843 | [244843-tiny-tied.json](./244843-tiny-tied.json) |
 | Tiny Tina's Wonderlands | 152061 | [152061-tiny-tinas-wonderlands.json](./152061-tiny-tinas-wonderlands.json) |
 | Tiny Tina's Wonderlands: Next Level Edition | 170024 | [170024-tiny-tinas-wonderlands-next-level-edition.json](./170024-tiny-tinas-wonderlands-next-level-edition.json) |
 | Tiny Tina's Wonderlands: Season Pass | 293727 | [293727-tiny-tinas-wonderlands-season-pass.json](./293727-tiny-tinas-wonderlands-season-pass.json) |
