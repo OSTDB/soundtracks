@@ -2848,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PhoboPhobia | 306479 | [306479-phobophobia.json](./306479-phobophobia.json) |
 | Phobos | 141096 | [141096-phobos.json](./141096-phobos.json) |
 | Phobos | 184093 | [184093-phobos.json](./184093-phobos.json) |
+| Phobos Dere.GB | 260851 | [260851-phobos-dere-gb.json](./260851-phobos-dere-gb.json) |
 | Phobos Down | 285462 | [285462-phobos-down.json](./285462-phobos-down.json) |
 | Phobos Massacre | 268424 | [268424-phobos-massacre.json](./268424-phobos-massacre.json) |
 | Phobos Revisited | 313166 | [313166-phobos-revisited.json](./313166-phobos-revisited.json) |
@@ -5202,6 +5203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket no Naka no Doraemon | 37357 | [37357-pocket-no-naka-no-doraemon.json](./37357-pocket-no-naka-no-doraemon.json) |
 | Pocket of Horror | 344566 | [344566-pocket-of-horror.json](./344566-pocket-of-horror.json) |
 | Pocket Pioneers | 152388 | [152388-pocket-pioneers.json](./152388-pocket-pioneers.json) |
+| Pocket Pix | 260880 | [260880-pocket-pix.json](./260880-pocket-pix.json) |
 | Pocket Planes | 65017 | [65017-pocket-planes.json](./65017-pocket-planes.json) |
 | Pocket Plants | 149595 | [149595-pocket-plants.json](./149595-pocket-plants.json) |
 | Pocket Plants | 265949 | [265949-pocket-plants.json](./265949-pocket-plants.json) |
@@ -8769,6 +8771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple Pink Summer Beach | 299227 | [299227-purple-pink-summer-beach.json](./299227-purple-pink-summer-beach.json) |
 | Purple Place | 268978 | [268978-purple-place.json](./268978-purple-place.json) |
 | Purple Prose for Purple Hearts: **** the Witch | 307219 | [307219-purple-prose-for-purple-hearts-the-witch.json](./307219-purple-prose-for-purple-hearts-the-witch.json) |
+| Purple Rain | 260892 | [260892-purple-rain.json](./260892-purple-rain.json) |
 | Purple Slime Production Line | 298581 | [298581-purple-slime-production-line.json](./298581-purple-slime-production-line.json) |
 | Purple Tentacle | 391274 | [391274-purple-tentacle.json](./391274-purple-tentacle.json) |
 | Purple Turtles | 62685 | [62685-purple-turtles.json](./62685-purple-turtles.json) |
@@ -8894,6 +8897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putty Pals | 32866 | [32866-putty-pals.json](./32866-putty-pals.json) |
 | Putty Squad | 39021 | [39021-putty-squad.json](./39021-putty-squad.json) |
 | Putty Squad | 85584 | [85584-putty-squad.json](./85584-putty-squad.json) |
+| Puyo Ponyo Lines | 260895 | [260895-puyo-ponyo-lines.json](./260895-puyo-ponyo-lines.json) |
 | Puyo Pop | 23455 | [23455-puyo-pop.json](./23455-puyo-pop.json) |
 | Puyo Pop | 81459 | [81459-puyo-pop.json](./81459-puyo-pop.json) |
 | Puyo Puyo | 146876 | [146876-puyo-puyo.json](./146876-puyo-puyo.json) |
