@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Bird Day | 275726 | [275726-happy-bird-day.json](./275726-happy-bird-day.json) |
 | Happy Birthday | 151574 | [151574-happy-birthday.json](./151574-happy-birthday.json) |
 | Happy Birthday Pavera | 268011 | [268011-happy-birthday-pavera.json](./268011-happy-birthday-pavera.json) |
+| Happy Birthday, Csonicgo! | 262558 | [262558-happy-birthday-csonicgo.json](./262558-happy-birthday-csonicgo.json) |
 | Happy Birthday: With Sergio Spellbound | 319682 | [319682-happy-birthday-with-sergio-spellbound.json](./319682-happy-birthday-with-sergio-spellbound.json) |
 | Happy Birthdays | 86771 | [86771-happy-birthdays.json](./86771-happy-birthdays.json) |
 | Happy Block | 108076 | [108076-happy-block.json](./108076-happy-block.json) |
@@ -839,6 +840,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Tails Zoo Keeper | 54077 | [54077-happy-tails-zoo-keeper.json](./54077-happy-tails-zoo-keeper.json) |
 | Happy Telepathy | 286218 | [286218-happy-telepathy.json](./286218-happy-telepathy.json) |
 | Happy Time | 362282 | [362282-happy-time.json](./362282-happy-time.json) |
+| Happy Time Circus | 262576 | [262576-happy-time-circus.json](./262576-happy-time-circus.json) |
+| Happy Time Circus II | 262577 | [262577-happy-time-circus-ii.json](./262577-happy-time-circus-ii.json) |
 | Happy Trails | 23685 | [23685-happy-trails.json](./23685-happy-trails.json) |
 | Happy Trap House | 224552 | [224552-happy-trap-house.json](./224552-happy-trap-house.json) |
 | Happy Uppen Sometimes Downsad | 310140 | [310140-happy-uppen-sometimes-downsad.json](./310140-happy-uppen-sometimes-downsad.json) |
@@ -1760,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven On Jupiter | 327384 | [327384-heaven-on-jupiter.json](./327384-heaven-on-jupiter.json) |
 | Heaven Over It | 304029 | [304029-heaven-over-it.json](./304029-heaven-over-it.json) |
 | Heaven Slash | 139372 | [139372-heaven-slash.json](./139372-heaven-slash.json) |
+| Heaven Stroll | 262557 | [262557-heaven-stroll.json](./262557-heaven-stroll.json) |
 | Heaven's Bazar: Online | 154997 | [154997-heavens-bazar-online.json](./154997-heavens-bazar-online.json) |
 | Heaven's Door | 231057 | [231057-heavens-door.json](./231057-heavens-door.json) |
 | Heaven's Glaive | 387362 | [387362-heavens-glaive.json](./387362-heavens-glaive.json) |
