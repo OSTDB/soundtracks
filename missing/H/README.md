@@ -1328,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel: Phoenix - Collector's Edition | 151191 | [151191-haunted-hotel-phoenix-collectors-edition.json](./151191-haunted-hotel-phoenix-collectors-edition.json) |
 | Haunted Hotel: The X | 57725 | [57725-haunted-hotel-the-x.json](./57725-haunted-hotel-the-x.json) |
 | Haunted Hour | 200120 | [200120-haunted-hour.json](./200120-haunted-hour.json) |
+| Haunted House | 229763 | [229763-haunted-house.json](./229763-haunted-house.json) |
 | Haunted House | 25196 | [25196-haunted-house.json](./25196-haunted-house.json) |
 | Haunted House | 258483 | [258483-haunted-house.json](./258483-haunted-house.json) |
 | Haunted House | 276244 | [276244-haunted-house.json](./276244-haunted-house.json) |
@@ -2882,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermes' Runner | 334193 | [334193-hermes-runner.json](./334193-hermes-runner.json) |
 | Hermetica | 293875 | [293875-hermetica.json](./293875-hermetica.json) |
 | Hermetica | 388301 | [388301-hermetica.json](./388301-hermetica.json) |
+| Hermeticism | 229733 | [229733-hermeticism.json](./229733-hermeticism.json) |
 | Hermina to Culus: Lillie no Atelier Mou Hitotsu no Monogatari | 123013 | [123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json](./123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json) |
 | Hermit | 291025 | [291025-hermit.json](./291025-hermit.json) |
 | Hermit and Pig | 252738 | [252738-hermit-and-pig.json](./252738-hermit-and-pig.json) |
@@ -6411,6 +6413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Reverthion | 97327 | [97327-hyper-reverthion.json](./97327-hyper-reverthion.json) |
 | Hyper Rider | 319972 | [319972-hyper-rider.json](./319972-hyper-rider.json) |
 | Hyper Rift | 273862 | [273862-hyper-rift.json](./273862-hyper-rift.json) |
+| Hyper Rosalina Kart Wii & Rosalina 2 Turbo | 229834 | [229834-hyper-rosalina-kart-wii-and-rosalina-2-turbo.json](./229834-hyper-rosalina-kart-wii-and-rosalina-2-turbo.json) |
 | Hyper School Simulator | 303095 | [303095-hyper-school-simulator.json](./303095-hyper-school-simulator.json) |
 | Hyper Scuffle | 114338 | [114338-hyper-scuffle.json](./114338-hyper-scuffle.json) |
 | Hyper Shapes | 232443 | [232443-hyper-shapes.json](./232443-hyper-shapes.json) |
