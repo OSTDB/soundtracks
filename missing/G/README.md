@@ -1736,6 +1736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gestalt_OS | 270657 | [270657-gestalt-os.json](./270657-gestalt-os.json) |
 | Gestalt: Steam & Cinder | 130076 | [130076-gestalt-steam-and-cinder.json](./130076-gestalt-steam-and-cinder.json) |
 | Gestalt: The Fifth Day | 275730 | [275730-gestalt-the-fifth-day.json](./275730-gestalt-the-fifth-day.json) |
+| Gestures on iOS | 232589 | [232589-gestures-on-ios.json](./232589-gestures-on-ios.json) |
 | Gestures Towards Divinity | 393510 | [393510-gestures-towards-divinity.json](./393510-gestures-towards-divinity.json) |
 | Gestüt: Ein Leben für die Pferde | 136369 | [136369-gestut-ein-leben-fur-die-pferde.json](./136369-gestut-ein-leben-fur-die-pferde.json) |
 | Gesuido | 166516 | [166516-gesuido.json](./166516-gesuido.json) |
@@ -5091,6 +5092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess the Flags: A Fun Quiz | 55136 | [55136-guess-the-flags-a-fun-quiz.json](./55136-guess-the-flags-a-fun-quiz.json) |
 | Guess The Movie | 273111 | [273111-guess-the-movie.json](./273111-guess-the-movie.json) |
 | Guess the Movie :- Funnier One | 23903 | [23903-guess-the-movie-funnier-one.json](./23903-guess-the-movie-funnier-one.json) |
+| Guess the Movie Game | 232503 | [232503-guess-the-movie-game.json](./232503-guess-the-movie-game.json) |
 | Guess the Person? | 88466 | [88466-guess-the-person.json](./88466-guess-the-person.json) |
 | Guess the Word | 277341 | [277341-guess-the-word.json](./277341-guess-the-word.json) |
 | Guess Where You Are | 320164 | [320164-guess-where-you-are.json](./320164-guess-where-you-are.json) |
