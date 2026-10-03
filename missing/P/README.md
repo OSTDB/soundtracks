@@ -1672,7 +1672,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol Bundle | 150141 | [150141-paw-patrol-bundle.json](./150141-paw-patrol-bundle.json) |
 | PAW Patrol Collection | 137559 | [137559-paw-patrol-collection.json](./137559-paw-patrol-collection.json) |
 | Paw Patrol the Movie: Adventure City Calls | 152302 | [152302-paw-patrol-the-movie-adventure-city-calls.json](./152302-paw-patrol-the-movie-adventure-city-calls.json) |
+| Paw Patrol To The Rescue! Learning Video Game | 274682 | [274682-paw-patrol-to-the-rescue-learning-video-game.json](./274682-paw-patrol-to-the-rescue-learning-video-game.json) |
 | Paw Patrol: Laptop Infantil | 294467 | [294467-paw-patrol-laptop-infantil.json](./294467-paw-patrol-laptop-infantil.json) |
+| Paw Patrol: The Movie Learning Phone | 274652 | [274652-paw-patrol-the-movie-learning-phone.json](./274652-paw-patrol-the-movie-learning-phone.json) |
 | Paw Patrol: World | 252175 | [252175-paw-patrol-world.json](./252175-paw-patrol-world.json) |
 | Pawafuru Puroyakyu 2024-2025 | 287890 | [287890-pawafuru-puroyakyu-2024-2025.json](./287890-pawafuru-puroyakyu-2024-2025.json) |
 | Pawafuru Puroyakyu: Eikan Nine Crossroad | 265625 | [265625-pawafuru-puroyakyu-eikan-nine-crossroad.json](./265625-pawafuru-puroyakyu-eikan-nine-crossroad.json) |
@@ -2191,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pepo | 171047 | [171047-pepo.json](./171047-pepo.json) |
 | Peppa Pig: Fun and Games | 20318 | [20318-peppa-pig-fun-and-games.json](./20318-peppa-pig-fun-and-games.json) |
 | Peppa Pig: Laptop Infantil | 297771 | [297771-peppa-pig-laptop-infantil.json](./297771-peppa-pig-laptop-infantil.json) |
+| Peppa Pig: Read and Play with Peppa | 274683 | [274683-peppa-pig-read-and-play-with-peppa.json](./274683-peppa-pig-read-and-play-with-peppa.json) |
 | Peppa Pig: Seasons | 86879 | [86879-peppa-pig-seasons.json](./86879-peppa-pig-seasons.json) |
 | Peppa Pig: The Game | 256219 | [256219-peppa-pig-the-game.json](./256219-peppa-pig-the-game.json) |
 | Peppa Pig: The Game | 50710 | [50710-peppa-pig-the-game.json](./50710-peppa-pig-the-game.json) |
@@ -4212,6 +4215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles World War II Jigsaws | 263779 | [263779-pixel-puzzles-world-war-ii-jigsaws.json](./263779-pixel-puzzles-world-war-ii-jigsaws.json) |
 | Pixel Puzzles World War II Jigsaws Pack: Invasion of Poland | 265245 | [265245-pixel-puzzles-world-war-ii-jigsaws-pack-invasion-of-poland.json](./265245-pixel-puzzles-world-war-ii-jigsaws-pack-invasion-of-poland.json) |
 | Pixel Puzzles World War II Jigsaws: Battle of Hürtgen Forest | 267064 | [267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json](./267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json) |
+| Pixel Puzzles World War II Jigsaws: Pack - Battle Off Samar | 274657 | [274657-pixel-puzzles-world-war-ii-jigsaws-pack-battle-off-samar.json](./274657-pixel-puzzles-world-war-ii-jigsaws-pack-battle-off-samar.json) |
 | Pixel Puzzles WW2 Jigsaw: Battle of the Bulge | 289463 | [289463-pixel-puzzles-ww2-jigsaw-battle-of-the-bulge.json](./289463-pixel-puzzles-ww2-jigsaw-battle-of-the-bulge.json) |
 | Pixel Puzzles WW2 Jigsaw: Italian Tanks | 264005 | [264005-pixel-puzzles-ww2-jigsaw-italian-tanks.json](./264005-pixel-puzzles-ww2-jigsaw-italian-tanks.json) |
 | Pixel Puzzles: Illustrations & Anime | 162933 | [162933-pixel-puzzles-illustrations-and-anime.json](./162933-pixel-puzzles-illustrations-and-anime.json) |
