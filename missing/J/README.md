@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jellyboom | 73239 | [73239-jellyboom.json](./73239-jellyboom.json) |
 | JellyCar | 95422 | [95422-jellycar.json](./95422-jellycar.json) |
 | JellyCar | 9635 | [9635-jellycar.json](./9635-jellycar.json) |
+| JellyCar 3 | 228601 | [228601-jellycar-3.json](./228601-jellycar-3.json) |
 | Jellydad Hero | 180135 | [180135-jellydad-hero.json](./180135-jellydad-hero.json) |
 | JellyFish | 321429 | [321429-jellyfish.json](./321429-jellyfish.json) |
 | Jellyfish Archipelago | 272019 | [272019-jellyfish-archipelago.json](./272019-jellyfish-archipelago.json) |
