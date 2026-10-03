@@ -392,6 +392,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madout Big City | 29580 | [29580-madout-big-city.json](./29580-madout-big-city.json) |
 | MADrigal CD Collection | 365110 | [365110-madrigal-cd-collection.json](./365110-madrigal-cd-collection.json) |
 | Madrobot X | 31793 | [31793-madrobot-x.json](./31793-madrobot-x.json) |
+| Madruga From Mars | 252899 | [252899-madruga-from-mars.json](./252899-madruga-from-mars.json) |
+| Madruga Goes Home | 252900 | [252900-madruga-goes-home.json](./252900-madruga-goes-home.json) |
+| Madrugacraft | 252901 | [252901-madrugacraft.json](./252901-madrugacraft.json) |
 | Mads, Morfar og Miljøstrup | 59950 | [59950-mads-morfar-og-milj-strup.json](./59950-mads-morfar-og-milj-strup.json) |
 | Madshot | 191697 | [191697-madshot.json](./191697-madshot.json) |
 | MadSpace: To Hell and Beyond | 10144 | [10144-madspace-to-hell-and-beyond.json](./10144-madspace-to-hell-and-beyond.json) |
@@ -1416,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamegoma 2: Uchi no Ko ga Ichiban! | 241032 | [241032-mamegoma-2-uchi-no-ko-ga-ichiban.json](./241032-mamegoma-2-uchi-no-ko-ga-ichiban.json) |
 | Mamegoma 3: Kawaii ga Ippai! | 241043 | [241043-mamegoma-3-kawaii-ga-ippai.json](./241043-mamegoma-3-kawaii-ga-ippai.json) |
 | Mameshiba | 141729 | [141729-mameshiba.json](./141729-mameshiba.json) |
+| MAMH | 252919 | [252919-mamh.json](./252919-mamh.json) |
 | Mami no Doki-doki Tiro Finale | 56758 | [56758-mami-no-doki-doki-tiro-finale.json](./56758-mami-no-doki-doki-tiro-finale.json) |
 | Mami no Doki-doki Tiro Finale | 56759 | [56759-mami-no-doki-doki-tiro-finale.json](./56759-mami-no-doki-doki-tiro-finale.json) |
 | Mamiya | 145621 | [145621-mamiya.json](./145621-mamiya.json) |
@@ -3237,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Game | 216256 | [216256-maze-game.json](./216256-maze-game.json) |
 | Maze Girl | 253907 | [253907-maze-girl.json](./253907-maze-girl.json) |
 | Maze Gold Run | 127267 | [127267-maze-gold-run.json](./127267-maze-gold-run.json) |
+| Maze Horror: Meikyuu Horror | 252893 | [252893-maze-horror-meikyuu-horror.json](./252893-maze-horror-meikyuu-horror.json) |
 | Maze in Your Mind | 351598 | [351598-maze-in-your-mind.json](./351598-maze-in-your-mind.json) |
 | Maze Invaders | 98243 | [98243-maze-invaders.json](./98243-maze-invaders.json) |
 | Maze It Out | 374730 | [374730-maze-it-out.json](./374730-maze-it-out.json) |
@@ -3380,6 +3385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meaningless Tragedy | 397046 | [397046-meaningless-tragedy.json](./397046-meaningless-tragedy.json) |
 | Meanings: Hidden in Plain Sight | 317346 | [317346-meanings-hidden-in-plain-sight.json](./317346-meanings-hidden-in-plain-sight.json) |
 | Meanwhile | 22329 | [22329-meanwhile.json](./22329-meanwhile.json) |
+| Mearcair/System Pulse | 252908 | [252908-mearcair-system-pulse.json](./252908-mearcair-system-pulse.json) |
 | Mearth | 197875 | [197875-mearth.json](./197875-mearth.json) |
 | Mearth II | 226722 | [226722-mearth-ii.json](./226722-mearth-ii.json) |
 | Measurement Problem | 166740 | [166740-measurement-problem.json](./166740-measurement-problem.json) |
@@ -9945,6 +9951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutiny | 256879 | [256879-mutiny.json](./256879-mutiny.json) |
 | Mutrix | 253449 | [253449-mutrix.json](./253449-mutrix.json) |
 | Mutual Assured Destruction Simulator | 326389 | [326389-mutual-assured-destruction-simulator.json](./326389-mutual-assured-destruction-simulator.json) |
+| Mutual Place | 252920 | [252920-mutual-place.json](./252920-mutual-place.json) |
 | Mutual Secret | 107386 | [107386-mutual-secret.json](./107386-mutual-secret.json) |
 | Muumit ja Taikalamppu | 178047 | [178047-muumit-ja-taikalamppu.json](./178047-muumit-ja-taikalamppu.json) |
 | Muv-Luv | 11778 | [11778-muv-luv.json](./11778-muv-luv.json) |
