@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cat's Night | 125203 | [125203-a-cats-night.json](./125203-a-cats-night.json) |
 | A Cat's Night 2: Orazio goes to town | 125204 | [125204-a-cats-night-2-orazio-goes-to-town.json](./125204-a-cats-night-2-orazio-goes-to-town.json) |
 | A Cat's Way Home | 337791 | [337791-a-cats-way-home.json](./337791-a-cats-way-home.json) |
+| A Catfiend's Impending Relapse | 227911 | [227911-a-catfiends-impending-relapse.json](./227911-a-catfiends-impending-relapse.json) |
 | A Certain Erotic Daily Scenes | 82930 | [82930-a-certain-erotic-daily-scenes.json](./82930-a-certain-erotic-daily-scenes.json) |
 | A Ch'ti Bundle | 147792 | [147792-a-chti-bundle.json](./147792-a-chti-bundle.json) |
 | A Chainsaw Across My Heart | 181155 | [181155-a-chainsaw-across-my-heart.json](./181155-a-chainsaw-across-my-heart.json) |
@@ -2559,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akai Corridor | 316282 | [316282-akai-corridor.json](./316282-akai-corridor.json) |
 | Akai Hana | 386935 | [386935-akai-hana.json](./386935-akai-hana.json) |
 | Akai Hitomi no Serafu | 77915 | [77915-akai-hitomi-no-serafu.json](./77915-akai-hitomi-no-serafu.json) |
+| Akai Ito & Aoi Shiro HD Remaster | 227974 | [227974-akai-ito-and-aoi-shiro-hd-remaster.json](./227974-akai-ito-and-aoi-shiro-hd-remaster.json) |
 | Akai Katana Shin | 78617 | [78617-akai-katana-shin.json](./78617-akai-katana-shin.json) |
 | Akai Majo | 330910 | [330910-akai-majo.json](./330910-akai-majo.json) |
 | Akai Onna | 277961 | [277961-akai-onna.json](./277961-akai-onna.json) |
@@ -6903,6 +6905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow Dungeon | 351720 | [351720-arrow-dungeon.json](./351720-arrow-dungeon.json) |
 | Arrow Flash | 46522 | [46522-arrow-flash.json](./46522-arrow-flash.json) |
 | Arrow Flick | 262463 | [262463-arrow-flick.json](./262463-arrow-flick.json) |
+| Arrow of Laputa | 227979 | [227979-arrow-of-laputa.json](./227979-arrow-of-laputa.json) |
 | Arrow Patterns | 267361 | [267361-arrow-patterns.json](./267361-arrow-patterns.json) |
 | Arrow Rain | 351122 | [351122-arrow-rain.json](./351122-arrow-rain.json) |
 | Arrow Snake | 135874 | [135874-arrow-snake.json](./135874-arrow-snake.json) |
