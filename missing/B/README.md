@@ -3863,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikini Island | 385819 | [385819-bikini-island.json](./385819-bikini-island.json) |
 | Bikini Karate Babes | 51236 | [51236-bikini-karate-babes.json](./51236-bikini-karate-babes.json) |
 | Bikkuri Pachinko: Ashita no Joe Kyoraku Collection Vol. 1 | 65561 | [65561-bikkuri-pachinko-ashita-no-joe-kyoraku-collection-vol-1.json](./65561-bikkuri-pachinko-ashita-no-joe-kyoraku-collection-vol-1.json) |
+| Bikkuri Pro Wrestling | 264252 | [264252-bikkuri-pro-wrestling.json](./264252-bikkuri-pro-wrestling.json) |
 | Bikkuriman 2000 Kamereon Zantei no Inbou | 376733 | [376733-bikkuriman-2000-kamereon-zantei-no-inbou.json](./376733-bikkuriman-2000-kamereon-zantei-no-inbou.json) |
 | Bikkuriman 2000: Viva! Pocket Festival! | 43971 | [43971-bikkuriman-2000-viva-pocket-festival.json](./43971-bikkuriman-2000-viva-pocket-festival.json) |
 | Biko 2: Reversible Face | 22351 | [22351-biko-2-reversible-face.json](./22351-biko-2-reversible-face.json) |
@@ -3891,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bille & Trille: Klæder sig ud | 91448 | [91448-bille-and-trille-kl-der-sig-ud.json](./91448-bille-and-trille-kl-der-sig-ud.json) |
 | Bille & Trille: Nu er det Jul igen | 91449 | [91449-bille-and-trille-nu-er-det-jul-igen.json](./91449-bille-and-trille-nu-er-det-jul-igen.json) |
 | Billgard | 329169 | [329169-billgard.json](./329169-billgard.json) |
+| Billiard Academy Real Break | 264254 | [264254-billiard-academy-real-break.json](./264254-billiard-academy-real-break.json) |
 | Billiard Japonais | 92291 | [92291-billiard-japonais.json](./92291-billiard-japonais.json) |
 | Billiard Rampage | 389682 | [389682-billiard-rampage.json](./389682-billiard-rampage.json) |
 | Billiard: VR | 30197 | [30197-billiard-vr.json](./30197-billiard-vr.json) |
@@ -6122,6 +6124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bogey Dead 6 | 20590 | [20590-bogey-dead-6.json](./20590-bogey-dead-6.json) |
 | Bogeyman | 138145 | [138145-bogeyman.json](./138145-bogeyman.json) |
 | Boggle | 206463 | [206463-boggle.json](./206463-boggle.json) |
+| Boggle | 264236 | [264236-boggle.json](./264236-boggle.json) |
 | Boggle | 282633 | [282633-boggle.json](./282633-boggle.json) |
 | Boggle Bash | 366411 | [366411-boggle-bash.json](./366411-boggle-bash.json) |
 | Boggle Plus | 92264 | [92264-boggle-plus.json](./92264-boggle-plus.json) |
@@ -7710,6 +7713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Blaster | 133326 | [133326-brick-blaster.json](./133326-brick-blaster.json) |
 | Brick Block | 304041 | [304041-brick-block.json](./304041-brick-block.json) |
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
+| Brick Breaker | 264223 | [264223-brick-breaker.json](./264223-brick-breaker.json) |
 | Brick Breaker Bunch | 87968 | [87968-brick-breaker-bunch.json](./87968-brick-breaker-bunch.json) |
 | Brick Breaker DEMOLITION | 312645 | [312645-brick-breaker-demolition.json](./312645-brick-breaker-demolition.json) |
 | Brick Breaker Infinity | 305932 | [305932-brick-breaker-infinity.json](./305932-brick-breaker-infinity.json) |
