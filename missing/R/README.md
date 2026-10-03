@@ -3026,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restricted Area | 266768 | [266768-restricted-area.json](./266768-restricted-area.json) |
 | Restricted Section | 178439 | [178439-restricted-section.json](./178439-restricted-section.json) |
 | Resttore | 285487 | [285487-resttore.json](./285487-resttore.json) |
+| Resttw | 235366 | [235366-resttw.json](./235366-resttw.json) |
 | Resuffer: Down the Rabbit Hole | 112504 | [112504-resuffer-down-the-rabbit-hole.json](./112504-resuffer-down-the-rabbit-hole.json) |
 | Resurface | 406681 | [406681-resurface.json](./406681-resurface.json) |
 | Resurgence | 56594 | [56594-resurgence.json](./56594-resurgence.json) |
@@ -5872,6 +5873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rover Wars: Battle For Mars | 132380 | [132380-rover-wars-battle-for-mars.json](./132380-rover-wars-battle-for-mars.json) |
 | Rover’s Radventure: The New Millennium | 411733 | [411733-rover-s-radventure-the-new-millennium.json](./411733-rover-s-radventure-the-new-millennium.json) |
 | Rovercraft 2 | 220195 | [220195-rovercraft-2.json](./220195-rovercraft-2.json) |
+| RoverCraft Space Racing | 235287 | [235287-rovercraft-space-racing.json](./235287-rovercraft-space-racing.json) |
 | Roving in the Dark | 106602 | [106602-roving-in-the-dark.json](./106602-roving-in-the-dark.json) |
 | Roving Rogue | 19982 | [19982-roving-rogue.json](./19982-roving-rogue.json) |
 | Rovio Classics: Angry Birds | 197792 | [197792-rovio-classics-angry-birds.json](./197792-rovio-classics-angry-birds.json) |
