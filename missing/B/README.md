@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Guys at School | 128352 | [128352-bad-guys-at-school.json](./128352-bad-guys-at-school.json) |
 | Bad Heroes | 373206 | [373206-bad-heroes.json](./373206-bad-heroes.json) |
 | Bad Hombre | 119660 | [119660-bad-hombre.json](./119660-bad-hombre.json) |
+| Bad Hop Baseball | 235368 | [235368-bad-hop-baseball.json](./235368-bad-hop-baseball.json) |
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
 | Bad Janitor | 346250 | [346250-bad-janitor.json](./346250-bad-janitor.json) |
 | Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
@@ -1596,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball, But Fun | 177858 | [177858-baseball-but-fun.json](./177858-baseball-but-fun.json) |
 | Baseball: The Season II | 40267 | [40267-baseball-the-season-ii.json](./40267-baseball-the-season-ii.json) |
 | Baseball4 | 59450 | [59450-baseball4.json](./59450-baseball4.json) |
+| Baseballoons | 235280 | [235280-baseballoons.json](./235280-baseballoons.json) |
 | BASED | 394231 | [394231-based.json](./394231-based.json) |
 | Based Refueling | 279075 | [279075-based-refueling.json](./279075-based-refueling.json) |
 | Basement | 348383 | [348383-basement.json](./348383-basement.json) |
@@ -3037,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before I Go | 283988 | [283988-before-i-go.json](./283988-before-i-go.json) |
 | Before Nightfall | 271311 | [271311-before-nightfall.json](./271311-before-nightfall.json) |
 | Before the Battery's Over | 148986 | [148986-before-the-batterys-over.json](./148986-before-the-batterys-over.json) |
+| Before the Dawn | 235362 | [235362-before-the-dawn.json](./235362-before-the-dawn.json) |
 | Before the Last Hour | 200428 | [200428-before-the-last-hour.json](./200428-before-the-last-hour.json) |
 | Before the Moon | 311067 | [311067-before-the-moon.json](./311067-before-the-moon.json) |
 | Before the Needle Lifts | 303754 | [303754-before-the-needle-lifts.json](./303754-before-the-needle-lifts.json) |
@@ -4928,6 +4931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast 'Em Bunnies | 21321 | [21321-blast-em-bunnies.json](./21321-blast-em-bunnies.json) |
 | Blast Ball | 22328 | [22328-blast-ball.json](./22328-blast-ball.json) |
 | Blast Beat | 186821 | [186821-blast-beat.json](./186821-blast-beat.json) |
+| Blast Beats | 235288 | [235288-blast-beats.json](./235288-blast-beats.json) |
 | Blast Bots | 194022 | [194022-blast-bots.json](./194022-blast-bots.json) |
 | Blast Brawl 2: Bloody Boogaloo | 33414 | [33414-blast-brawl-2-bloody-boogaloo.json](./33414-blast-brawl-2-bloody-boogaloo.json) |
 | Blast Breaker Online | 79363 | [79363-blast-breaker-online.json](./79363-blast-breaker-online.json) |
@@ -6067,6 +6071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat House | 313352 | [313352-boat-house.json](./313352-boat-house.json) |
 | Boat Prom | 141015 | [141015-boat-prom.json](./141015-boat-prom.json) |
 | Boat Racer | 367594 | [367594-boat-racer.json](./367594-boat-racer.json) |
+| Boat Rage | 235377 | [235377-boat-rage.json](./235377-boat-rage.json) |
 | Boat Rescue Simulator Mobile | 228116 | [228116-boat-rescue-simulator-mobile.json](./228116-boat-rescue-simulator-mobile.json) |
 | Boat Sim Elite | 90595 | [90595-boat-sim-elite.json](./90595-boat-sim-elite.json) |
 | Boat Simulator | 231082 | [231082-boat-simulator.json](./231082-boat-simulator.json) |
@@ -6849,6 +6854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss 101 | 34959 | [34959-boss-101.json](./34959-boss-101.json) |
 | Boss 101 with S.T.E.V.E. and Max | 59844 | [59844-boss-101-with-s-t-e-v-e-and-max.json](./59844-boss-101-with-s-t-e-v-e-and-max.json) |
 | Boss Barrage | 110986 | [110986-boss-barrage.json](./110986-boss-barrage.json) |
+| Boss Fighters | 235372 | [235372-boss-fighters.json](./235372-boss-fighters.json) |
 | Boss Hunter | 233485 | [233485-boss-hunter.json](./233485-boss-hunter.json) |
 | Boss Hunter | 368679 | [368679-boss-hunter.json](./368679-boss-hunter.json) |
 | Boss Life 3D | 224090 | [224090-boss-life-3d.json](./224090-boss-life-3d.json) |
@@ -7073,6 +7079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Battle | 107873 | [107873-bounty-battle.json](./107873-bounty-battle.json) |
 | Bounty Below | 192707 | [192707-bounty-below.json](./192707-bounty-below.json) |
 | Bounty Bob Strikes Back! | 12305 | [12305-bounty-bob-strikes-back.json](./12305-bounty-bob-strikes-back.json) |
+| Bounty Bots | 235286 | [235286-bounty-bots.json](./235286-bounty-bots.json) |
 | Bounty Drag Racing: Import Modified Pack 1 | 267074 | [267074-bounty-drag-racing-import-modified-pack-1.json](./267074-bounty-drag-racing-import-modified-pack-1.json) |
 | Bounty Drag Racing: Outlaw Pack 3 | 267075 | [267075-bounty-drag-racing-outlaw-pack-3.json](./267075-bounty-drag-racing-outlaw-pack-3.json) |
 | Bounty Drag Racing: Outlaw Pack 5 | 310062 | [310062-bounty-drag-racing-outlaw-pack-5.json](./310062-bounty-drag-racing-outlaw-pack-5.json) |
@@ -7837,6 +7844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker Bunch | 87968 | [87968-brick-breaker-bunch.json](./87968-brick-breaker-bunch.json) |
 | Brick Breaker DEMOLITION | 312645 | [312645-brick-breaker-demolition.json](./312645-brick-breaker-demolition.json) |
 | Brick Breaker Dungeon | 256458 | [256458-brick-breaker-dungeon.json](./256458-brick-breaker-dungeon.json) |
+| Brick Breaker Hero | 235267 | [235267-brick-breaker-hero.json](./235267-brick-breaker-hero.json) |
 | Brick Breaker Infinity | 305932 | [305932-brick-breaker-infinity.json](./305932-brick-breaker-infinity.json) |
 | Brick Breaker Lab | 237306 | [237306-brick-breaker-lab.json](./237306-brick-breaker-lab.json) |
 | Brick Breaker Maker | 344515 | [344515-brick-breaker-maker.json](./344515-brick-breaker-maker.json) |
@@ -9117,6 +9125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bushido: The Way of the Warrior | 41008 | [41008-bushido-the-way-of-the-warrior.json](./41008-bushido-the-way-of-the-warrior.json) |
 | Business 98 | 391200 | [391200-business-98.json](./391200-business-98.json) |
 | Business Boardwalk | 146812 | [146812-business-boardwalk.json](./146812-business-boardwalk.json) |
+| Business Empire | 235374 | [235374-business-empire.json](./235374-business-empire.json) |
 | Business Empire Tycoon | 309489 | [309489-business-empire-tycoon.json](./309489-business-empire-tycoon.json) |
 | Business Empire: RichMan | 280220 | [280220-business-empire-richman.json](./280220-business-empire-richman.json) |
 | Business Magnate | 112754 | [112754-business-magnate.json](./112754-business-magnate.json) |
