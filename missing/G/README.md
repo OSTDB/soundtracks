@@ -4321,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Greed | 48994 | [48994-great-greed.json](./48994-great-greed.json) |
 | Great Hero's Beard | 109867 | [109867-great-heros-beard.json](./109867-great-heros-beard.json) |
 | Great Hits | 94734 | [94734-great-hits.json](./94734-great-hits.json) |
+| Great Hopes City I | 244390 | [244390-great-hopes-city-i.json](./244390-great-hopes-city-i.json) |
 | Great Houses of Calderia | 192680 | [192680-great-houses-of-calderia.json](./192680-great-houses-of-calderia.json) |
 | Great Invasions: The Darkages 350-1066 AD | 66718 | [66718-great-invasions-the-darkages-350-1066-ad.json](./66718-great-invasions-the-darkages-350-1066-ad.json) |
 | Great Little War Game 2 | 61321 | [61321-great-little-war-game-2.json](./61321-great-little-war-game-2.json) |
@@ -4465,6 +4466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greg Norman's Ultimate Golf | 98979 | [98979-greg-normans-ultimate-golf.json](./98979-greg-normans-ultimate-golf.json) |
 | Gregg: Tower Defence | 295858 | [295858-gregg-tower-defence.json](./295858-gregg-tower-defence.json) |
 | Grégoire Lefèbvre Investigations: The Vow of Hate | 390670 | [390670-gregoire-lefebvre-investigations-the-vow-of-hate.json](./390670-gregoire-lefebvre-investigations-the-vow-of-hate.json) |
+| Gregor | 244330 | [244330-gregor.json](./244330-gregor.json) |
 | Gregor's Notebook | 253938 | [253938-gregors-notebook.json](./253938-gregors-notebook.json) |
 | Gregory Horror Show | 22252 | [22252-gregory-horror-show.json](./22252-gregory-horror-show.json) |
 | Gregory Horror Show | 292825 | [292825-gregory-horror-show.json](./292825-gregory-horror-show.json) |
@@ -5021,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of the Wall | 396884 | [396884-guardians-of-the-wall.json](./396884-guardians-of-the-wall.json) |
 | Guardians of the Wild Sky | 347896 | [347896-guardians-of-the-wild-sky.json](./347896-guardians-of-the-wild-sky.json) |
 | Guardians of Victoria | 34882 | [34882-guardians-of-victoria.json](./34882-guardians-of-victoria.json) |
+| Guardians Survival | 244307 | [244307-guardians-survival.json](./244307-guardians-survival.json) |
 | Guardians: Denjin Makai II | 46781 | [46781-guardians-denjin-makai-ii.json](./46781-guardians-denjin-makai-ii.json) |
 | Guardians: Royal Journey | 155003 | [155003-guardians-royal-journey.json](./155003-guardians-royal-journey.json) |
 | Guardians: Unite the Realms | 299417 | [299417-guardians-unite-the-realms.json](./299417-guardians-unite-the-realms.json) |
