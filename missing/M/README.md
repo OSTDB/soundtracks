@@ -5924,6 +5924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milon's Secret Hell | 323347 | [323347-milons-secret-hell.json](./323347-milons-secret-hell.json) |
 | Milthm | 258703 | [258703-milthm.json](./258703-milthm.json) |
 | Milton Cumberdale | 238990 | [238990-milton-cumberdale.json](./238990-milton-cumberdale.json) |
+| Milu Milan | 265824 | [265824-milu-milan.json](./265824-milu-milan.json) |
 | Milya[broken] | 150128 | [150128-milya-broken.json](./150128-milya-broken.json) |
 | MiM: Meditation Interactive Matrix | 358995 | [358995-mim-meditation-interactive-matrix.json](./358995-mim-meditation-interactive-matrix.json) |
 | Mima's Magical Wardrobe | 325817 | [325817-mimas-magical-wardrobe.json](./325817-mimas-magical-wardrobe.json) |
@@ -6264,6 +6265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner: Dig Deep | 23846 | [23846-miner-dig-deep.json](./23846-miner-dig-deep.json) |
 | Mineral | 302438 | [302438-mineral.json](./302438-mineral.json) |
 | Mineral Defense | 326685 | [326685-mineral-defense.json](./326685-mineral-defense.json) |
+| Mineral Madness | 265829 | [265829-mineral-madness.json](./265829-mineral-madness.json) |
 | MineRalph | 112260 | [112260-mineralph.json](./112260-mineralph.json) |
 | Minerals: Deep Core Mining | 404349 | [404349-minerals-deep-core-mining.json](./404349-minerals-deep-core-mining.json) |
 | Minerest | 184883 | [184883-minerest.json](./184883-minerest.json) |
@@ -7784,6 +7786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Claws 5 | 357408 | [357408-monster-claws-5.json](./357408-monster-claws-5.json) |
 | Monster Clicker : Idle Halloween Strategy | 111862 | [111862-monster-clicker-idle-halloween-strategy.json](./111862-monster-clicker-idle-halloween-strategy.json) |
 | Monster Club | 185144 | [185144-monster-club.json](./185144-monster-club.json) |
+| Monster Collections Plus | 265842 | [265842-monster-collections-plus.json](./265842-monster-collections-plus.json) |
 | Monster Collector | 143647 | [143647-monster-collector.json](./143647-monster-collector.json) |
 | Monster Combine TD | 85615 | [85615-monster-combine-td.json](./85615-monster-combine-td.json) |
 | Monster Commanders | 310720 | [310720-monster-commanders.json](./310720-monster-commanders.json) |
@@ -9311,6 +9314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. T-Shirt | 329769 | [329769-mr-t-shirt.json](./329769-mr-t-shirt.json) |
 | Mr. Tiny Adventures | 231848 | [231848-mr-tiny-adventures.json](./231848-mr-tiny-adventures.json) |
 | Mr. Transporter - Truck Driving Simulator | 88735 | [88735-mr-transporter-truck-driving-simulator.json](./88735-mr-transporter-truck-driving-simulator.json) |
+| Mr. Triangle Mania 2 | 265857 | [265857-mr-triangle-mania-2.json](./265857-mr-triangle-mania-2.json) |
 | Mr. Whiskers Bubbles | 385088 | [385088-mr-whiskers-bubbles.json](./385088-mr-whiskers-bubbles.json) |
 | Mr. Wimpy | 46079 | [46079-mr-wimpy.json](./46079-mr-wimpy.json) |
 | Mr. Wings | 255714 | [255714-mr-wings.json](./255714-mr-wings.json) |
