@@ -6480,6 +6480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: A Link to the Past | 229416 | [229416-the-legend-of-zelda-a-link-to-the-past.json](./229416-the-legend-of-zelda-a-link-to-the-past.json) |
 | The Legend of Zelda: A Link to the Past & Four Swords | 77336 | [77336-the-legend-of-zelda-a-link-to-the-past-and-four-swords.json](./77336-the-legend-of-zelda-a-link-to-the-past-and-four-swords.json) |
 | The Legend of Zelda: A Link to the Past Redux | 219073 | [219073-the-legend-of-zelda-a-link-to-the-past-redux.json](./219073-the-legend-of-zelda-a-link-to-the-past-redux.json) |
+| The Legend of Zelda: A Link to the Proto | 249317 | [249317-the-legend-of-zelda-a-link-to-the-proto.json](./249317-the-legend-of-zelda-a-link-to-the-proto.json) |
 | The Legend of Zelda: A New Light | 233602 | [233602-the-legend-of-zelda-a-new-light.json](./233602-the-legend-of-zelda-a-new-light.json) |
 | The Legend of Zelda: Allhallows Eve | 308390 | [308390-the-legend-of-zelda-allhallows-eve.json](./308390-the-legend-of-zelda-allhallows-eve.json) |
 | The Legend of Zelda: Ancient Dungeon | 229619 | [229619-the-legend-of-zelda-ancient-dungeon.json](./229619-the-legend-of-zelda-ancient-dungeon.json) |
@@ -13166,6 +13167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torchlight III | 106987 | [106987-torchlight-iii.json](./106987-torchlight-iii.json) |
 | Torchlight Mobile | 26905 | [26905-torchlight-mobile.json](./26905-torchlight-mobile.json) |
 | Torchlight: Infinite | 174897 | [174897-torchlight-infinite.json](./174897-torchlight-infinite.json) |
+| Torchlight: Infinite - Cube of Rapacity | 249332 | [249332-torchlight-infinite-cube-of-rapacity.json](./249332-torchlight-infinite-cube-of-rapacity.json) |
 | Torchure | 180183 | [180183-torchure.json](./180183-torchure.json) |
 | Torchure | 352262 | [352262-torchure.json](./352262-torchure.json) |
 | Torebia: Island Odyssey | 392386 | [392386-torebia-island-odyssey.json](./392386-torebia-island-odyssey.json) |
