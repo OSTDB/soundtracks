@@ -1246,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Fantasy: Birds | 254144 | [254144-neon-fantasy-birds.json](./254144-neon-fantasy-birds.json) |
 | Neon Fantasy: Dinosaurs | 401022 | [401022-neon-fantasy-dinosaurs.json](./401022-neon-fantasy-dinosaurs.json) |
 | Neon Fantasy: Dogs | 270970 | [270970-neon-fantasy-dogs.json](./270970-neon-fantasy-dogs.json) |
+| Neon Fantasy: Girls | 252278 | [252278-neon-fantasy-girls.json](./252278-neon-fantasy-girls.json) |
 | Neon Fantasy: Monkeys | 274457 | [274457-neon-fantasy-monkeys.json](./274457-neon-fantasy-monkeys.json) |
 | Neon Fantasy: Owls | 395785 | [395785-neon-fantasy-owls.json](./395785-neon-fantasy-owls.json) |
 | Neon Fantasy: Predators | 278732 | [278732-neon-fantasy-predators.json](./278732-neon-fantasy-predators.json) |
@@ -1451,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netcorter: City 2179 | 217385 | [217385-netcorter-city-2179.json](./217385-netcorter-city-2179.json) |
 | Netcrawler | 183883 | [183883-netcrawler.json](./183883-netcrawler.json) |
 | NetDive | 358862 | [358862-netdive.json](./358862-netdive.json) |
+| NetGame Adventure | 252298 | [252298-netgame-adventure.json](./252298-netgame-adventure.json) |
 | Netghost | 293838 | [293838-netghost.json](./293838-netghost.json) |
 | NetGunner | 139844 | [139844-netgunner.json](./139844-netgunner.json) |
 | NetHack | 207850 | [207850-nethack.json](./207850-nethack.json) |
@@ -1850,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Up Hero | 45026 | [45026-next-up-hero.json](./45026-next-up-hero.json) |
 | Nextbots In The Backrooms | 265729 | [265729-nextbots-in-the-backrooms.json](./265729-nextbots-in-the-backrooms.json) |
 | Nextgen Sandbox | 124710 | [124710-nextgen-sandbox.json](./124710-nextgen-sandbox.json) |
+| NextNight | 252280 | [252280-nextnight.json](./252280-nextnight.json) |
 | NextRev: Care Manager Shiken | 179482 | [179482-nextrev-care-manager-shiken.json](./179482-nextrev-care-manager-shiken.json) |
 | NextRev: Eibunpou Tettei Tokkun | 64944 | [64944-nextrev-eibunpou-tettei-tokkun.json](./64944-nextrev-eibunpou-tettei-tokkun.json) |
 | NextRev: Eiken | 179523 | [179523-nextrev-eiken.json](./179523-nextrev-eiken.json) |
@@ -2389,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Within | 311615 | [311615-nightmare-within.json](./311615-nightmare-within.json) |
 | Nightmare Without Return | 216792 | [216792-nightmare-without-return.json](./216792-nightmare-without-return.json) |
 | Nightmare Yokai Village | 222238 | [222238-nightmare-yokai-village.json](./222238-nightmare-yokai-village.json) |
+| Nightmare Zapping | 252277 | [252277-nightmare-zapping.json](./252277-nightmare-zapping.json) |
 | Nightmare: The Lunatic | 186025 | [186025-nightmare-the-lunatic.json](./186025-nightmare-the-lunatic.json) |
 | Nightmare: The Origins | 173218 | [173218-nightmare-the-origins.json](./173218-nightmare-the-origins.json) |
 | Nightmare's Revenge | 322006 | [322006-nightmares-revenge.json](./322006-nightmares-revenge.json) |
