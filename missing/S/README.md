@@ -8182,6 +8182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sole Iron Tail | 132693 | [132693-sole-iron-tail.json](./132693-sole-iron-tail.json) |
 | Sole Saga | 211940 | [211940-sole-saga.json](./211940-sole-saga.json) |
 | Sole Salvation | 415920 | [415920-sole-salvation.json](./415920-sole-salvation.json) |
+| Sole Seeker | 266429 | [266429-sole-seeker.json](./266429-sole-seeker.json) |
 | Solebon | 63806 | [63806-solebon.json](./63806-solebon.json) |
 | Solebon Solitaire | 87541 | [87541-solebon-solitaire.json](./87541-solebon-solitaire.json) |
 | Solemn Knights: Entirely Ours | 254421 | [254421-solemn-knights-entirely-ours.json](./254421-solemn-knights-entirely-ours.json) |
@@ -12970,6 +12971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staying Together | 129647 | [129647-staying-together.json](./129647-staying-together.json) |
 | STCC 2: The Game | 62410 | [62410-stcc-2-the-game.json](./62410-stcc-2-the-game.json) |
 | STCC: The Game | 10921 | [10921-stcc-the-game.json](./10921-stcc-the-game.json) |
+| STDS00751 R+R | 266413 | [266413-stds00751-r-r.json](./266413-stds00751-r-r.json) |
 | Steadfast | 417535 | [417535-steadfast.json](./417535-steadfast.json) |
 | Steady, Steady, Steady! | 348254 | [348254-steady-steady-steady.json](./348254-steady-steady-steady.json) |
 | Steak Stacker | 350597 | [350597-steak-stacker.json](./350597-steak-stacker.json) |
