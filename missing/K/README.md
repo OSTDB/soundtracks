@@ -2456,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kochira, Haha Naru Hoshi Yori | 152912 | [152912-kochira-haha-naru-hoshi-yori.json](./152912-kochira-haha-naru-hoshi-yori.json) |
 | Kochiya Sanae no Kamikaze to Tomo ni | 165524 | [165524-kochiya-sanae-no-kamikaze-to-tomo-ni.json](./165524-kochiya-sanae-no-kamikaze-to-tomo-ni.json) |
 | Kochu's Dream | 148423 | [148423-kochus-dream.json](./148423-kochus-dream.json) |
+| Koco | 275845 | [275845-koco.json](./275845-koco.json) |
 | Kodama | 262067 | [262067-kodama.json](./262067-kodama.json) |
 | Kodawari Saihai Simulation: Ocha no Ma Pro Yakyuu DS | 122959 | [122959-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds.json](./122959-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds.json) |
 | Kode Zero | 362252 | [362252-kode-zero.json](./362252-kode-zero.json) |
@@ -2860,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kroniki Elevena | 236807 | [236807-kroniki-elevena.json](./236807-kroniki-elevena.json) |
 | Kronolog: The Nazi Paradox | 50481 | [50481-kronolog-the-nazi-paradox.json](./50481-kronolog-the-nazi-paradox.json) |
 | Kronville: Stolen Dreams | 53262 | [53262-kronville-stolen-dreams.json](./53262-kronville-stolen-dreams.json) |
+| Krosfighter | 275844 | [275844-krosfighter.json](./275844-krosfighter.json) |
 | Krosmaga | 29097 | [29097-krosmaga.json](./29097-krosmaga.json) |
 | Kruger | 202773 | [202773-kruger.json](./202773-kruger.json) |
 | Krull | 292096 | [292096-krull.json](./292096-krull.json) |
