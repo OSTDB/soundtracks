@@ -2025,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Fishing | 68764 | [68764-just-fishing.json](./68764-just-fishing.json) |
 | Just For Killing Time | 82791 | [82791-just-for-killing-time.json](./82791-just-for-killing-time.json) |
 | Just Freeskiing | 86985 | [86985-just-freeskiing.json](./86985-just-freeskiing.json) |
+| Just Get 2048: A Simple Puzzle Game! | 264218 | [264218-just-get-2048-a-simple-puzzle-game.json](./264218-just-get-2048-a-simple-puzzle-game.json) |
 | Just Get In Through the Door | 158677 | [158677-just-get-in-through-the-door.json](./158677-just-get-in-through-the-door.json) |
 | Just Get There | 291747 | [291747-just-get-there.json](./291747-just-get-there.json) |
 | Just Get Through | 36059 | [36059-just-get-through.json](./36059-just-get-through.json) |
