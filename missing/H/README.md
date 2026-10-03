@@ -1352,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Train: Spirits of Charon - Collector's Edition | 36486 | [36486-haunted-train-spirits-of-charon-collectors-edition.json](./36486-haunted-train-spirits-of-charon-collectors-edition.json) |
 | Haunted Village | 358939 | [358939-haunted-village.json](./358939-haunted-village.json) |
 | Haunted Vlogs | 209473 | [209473-haunted-vlogs.json](./209473-haunted-vlogs.json) |
+| Haunted Woods! | 260852 | [260852-haunted-woods.json](./260852-haunted-woods.json) |
 | Haunted Zombie School | 205225 | [205225-haunted-zombie-school.json](./205225-haunted-zombie-school.json) |
 | Haunted Zombie Slaughter | 232986 | [232986-haunted-zombie-slaughter.json](./232986-haunted-zombie-slaughter.json) |
 | Haunted: Attack of the Dead Men | 219813 | [219813-haunted-attack-of-the-dead-men.json](./219813-haunted-attack-of-the-dead-men.json) |
@@ -1884,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heir of Light | 90098 | [90098-heir-of-light.json](./90098-heir-of-light.json) |
 | Heir of Light Eclipse | 267351 | [267351-heir-of-light-eclipse.json](./267351-heir-of-light-eclipse.json) |
 | Heir of Love | 299422 | [299422-heir-of-love.json](./299422-heir-of-love.json) |
+| Heir of the Dog | 260847 | [260847-heir-of-the-dog.json](./260847-heir-of-the-dog.json) |
 | Heir to the Queen | 358915 | [358915-heir-to-the-queen.json](./358915-heir-to-the-queen.json) |
 | Heirs | 329072 | [329072-heirs.json](./329072-heirs.json) |
 | Heirs of Heaven | 346237 | [346237-heirs-of-heaven.json](./346237-heirs-of-heaven.json) |
@@ -5384,6 +5386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Giant: Edition 2012 | 53200 | [53200-hotel-giant-edition-2012.json](./53200-hotel-giant-edition-2012.json) |
 | Hotel Hermes | 187832 | [187832-hotel-hermes.json](./187832-hotel-hermes.json) |
 | Hotel Hideaway | 380123 | [380123-hotel-hideaway.json](./380123-hotel-hideaway.json) |
+| Hotel Hima | 260865 | [260865-hotel-hima.json](./260865-hotel-hima.json) |
 | Hotel Hysteria! | 316261 | [316261-hotel-hysteria.json](./316261-hotel-hysteria.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
 | Hotel Island: Paradise Story! | 88318 | [88318-hotel-island-paradise-story.json](./88318-hotel-island-paradise-story.json) |
