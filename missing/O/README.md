@@ -1389,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Thousand Lies | 19444 | [19444-one-thousand-lies.json](./19444-one-thousand-lies.json) |
 | One Thousand Paper Cuts | 138605 | [138605-one-thousand-paper-cuts.json](./138605-one-thousand-paper-cuts.json) |
 | One Tile Man | 137488 | [137488-one-tile-man.json](./137488-one-tile-man.json) |
+| One to Nine | 272482 | [272482-one-to-nine.json](./272482-one-to-nine.json) |
 | One to Three: Sovereignty | 182998 | [182998-one-to-three-sovereignty.json](./182998-one-to-three-sovereignty.json) |
 | One Ton Bang Bang | 234722 | [234722-one-ton-bang-bang.json](./234722-one-ton-bang-bang.json) |
 | One Ton Reloaded | 234173 | [234173-one-ton-reloaded.json](./234173-one-ton-reloaded.json) |
@@ -2730,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outside | 339895 | [339895-outside.json](./339895-outside.json) |
 | Outside | 385260 | [385260-outside.json](./385260-outside.json) |
 | Outside of Our Own | 184127 | [184127-outside-of-our-own.json](./184127-outside-of-our-own.json) |
+| Outside Parties | 272473 | [272473-outside-parties.json](./272473-outside-parties.json) |
 | Outside the Blocks | 245868 | [245868-outside-the-blocks.json](./245868-outside-the-blocks.json) |
 | Outside: Stray Cat | 185453 | [185453-outside-stray-cat.json](./185453-outside-stray-cat.json) |
 | Outsider | 201773 | [201773-outsider.json](./201773-outsider.json) |
@@ -2956,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owlboy: Limited Edition | 68672 | [68672-owlboy-limited-edition.json](./68672-owlboy-limited-edition.json) |
 | Owlen and the Spirits of the Past | 385084 | [385084-owlen-and-the-spirits-of-the-past.json](./385084-owlen-and-the-spirits-of-the-past.json) |
 | Owlen and the Whispering Woods | 396433 | [396433-owlen-and-the-whispering-woods.json](./396433-owlen-and-the-whispering-woods.json) |
+| Owlet's Embrace | 272485 | [272485-owlets-embrace.json](./272485-owlets-embrace.json) |
 | Owlette in the Sky | 359434 | [359434-owlette-in-the-sky.json](./359434-owlette-in-the-sky.json) |
 | Owlette's Playground Cleanup | 359435 | [359435-owlettes-playground-cleanup.json](./359435-owlettes-playground-cleanup.json) |
 | Owling. Crowling. Bowling! | 115613 | [115613-owling-crowling-bowling.json](./115613-owling-crowling-bowling.json) |
