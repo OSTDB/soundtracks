@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanda's Island | 48048 | [48048-nandas-island.json](./48048-nandas-island.json) |
 | Nandao Ni Shi Gal Gaoshou | 411771 | [411771-nandao-ni-shi-gal-gaoshou.json](./411771-nandao-ni-shi-gal-gaoshou.json) |
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
+| Nandemoya of Flower Street | 239797 | [239797-nandemoya-of-flower-street.json](./239797-nandemoya-of-flower-street.json) |
 | Nangoku Shounen Papuwa-kun | 38389 | [38389-nangoku-shounen-papuwa-kun.json](./38389-nangoku-shounen-papuwa-kun.json) |
 | Nangol | 310064 | [310064-nangol.json](./310064-nangol.json) |
 | Nangong Detective Agency | 360153 | [360153-nangong-detective-agency.json](./360153-nangong-detective-agency.json) |
@@ -1784,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Yankee: To the Queen! | 53415 | [53415-new-yankee-to-the-queen.json](./53415-new-yankee-to-the-queen.json) |
 | New Yankee: Under the Genie's Thumb | 170500 | [170500-new-yankee-under-the-genies-thumb.json](./170500-new-yankee-under-the-genies-thumb.json) |
 | New Yatterman: Nandai Kandai Yajirobee | 37908 | [37908-new-yatterman-nandai-kandai-yajirobee.json](./37908-new-yatterman-nandai-kandai-yajirobee.json) |
+| New Year Break | 239726 | [239726-new-year-break.json](./239726-new-year-break.json) |
 | New Year Girls | 191085 | [191085-new-year-girls.json](./191085-new-year-girls.json) |
 | New Year Simulator 2025 | 326390 | [326390-new-year-simulator-2025.json](./326390-new-year-simulator-2025.json) |
 | New Year, New Nanos | 302613 | [302613-new-year-new-nanos.json](./302613-new-year-new-nanos.json) |
@@ -2281,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Slave | 45974 | [45974-night-slave.json](./45974-night-slave.json) |
 | Night Stalkers | 190128 | [190128-night-stalkers.json](./190128-night-stalkers.json) |
 | Night Stocker | 37329 | [37329-night-stocker.json](./37329-night-stocker.json) |
+| Night Stones | 239711 | [239711-night-stones.json](./239711-night-stones.json) |
 | Night Striker | 37324 | [37324-night-striker.json](./37324-night-striker.json) |
 | Night Striker Gear | 330380 | [330380-night-striker-gear.json](./330380-night-striker-gear.json) |
 | Night Swarm | 343477 | [343477-night-swarm.json](./343477-night-swarm.json) |
@@ -2586,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ningen Maru | 178677 | [178677-ningen-maru.json](./178677-ningen-maru.json) |
 | Ningen Tower Battle | 346018 | [346018-ningen-tower-battle.json](./346018-ningen-tower-battle.json) |
 | Ningyo no Rakuin | 166551 | [166551-ningyo-no-rakuin.json](./166551-ningyo-no-rakuin.json) |
+| Ningyou Genkai | 239799 | [239799-ningyou-genkai.json](./239799-ningyou-genkai.json) |
 | Ningyou no Kizuato | 255112 | [255112-ningyou-no-kizuato.json](./255112-ningyou-no-kizuato.json) |
 | Ningyou Tsukai | 41407 | [41407-ningyou-tsukai.json](./41407-ningyou-tsukai.json) |
 | Nini Ninja's Great Escape | 265316 | [265316-nini-ninjas-great-escape.json](./265316-nini-ninjas-great-escape.json) |
