@@ -1613,6 +1613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometric Feel the Beats | 224206 | [224206-geometric-feel-the-beats.json](./224206-geometric-feel-the-beats.json) |
 | Geometric Force Field | 284614 | [284614-geometric-force-field.json](./284614-geometric-force-field.json) |
 | Geometric Link | 269017 | [269017-geometric-link.json](./269017-geometric-link.json) |
+| Geometric Paradox TD | 263118 | [263118-geometric-paradox-td.json](./263118-geometric-paradox-td.json) |
 | Geometric Shapes 1: Circleboy | 322584 | [322584-geometric-shapes-1-circleboy.json](./322584-geometric-shapes-1-circleboy.json) |
 | Geometric Sniper | 133424 | [133424-geometric-sniper.json](./133424-geometric-sniper.json) |
 | Geometric Sniper Z | 163944 | [163944-geometric-sniper-z.json](./163944-geometric-sniper-z.json) |
@@ -2425,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitched Out | 274482 | [274482-glitched-out.json](./274482-glitched-out.json) |
 | Glitcheon | 143557 | [143557-glitcheon.json](./143557-glitcheon.json) |
 | Glitchers | 120332 | [120332-glitchers.json](./120332-glitchers.json) |
+| Glitchers: Hack 'em Up | 263123 | [263123-glitchers-hack-em-up.json](./263123-glitchers-hack-em-up.json) |
 | Glitchery | 386143 | [386143-glitchery.json](./386143-glitchery.json) |
 | Glitchhikers: First Drive | 178009 | [178009-glitchhikers-first-drive.json](./178009-glitchhikers-first-drive.json) |
 | Glitchhikers: The Spaces Between | 186873 | [186873-glitchhikers-the-spaces-between.json](./186873-glitchhikers-the-spaces-between.json) |
@@ -2811,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Clicker | 365876 | [365876-goblin-clicker.json](./365876-goblin-clicker.json) |
 | Goblin Colony | 235705 | [235705-goblin-colony.json](./235705-goblin-colony.json) |
 | Goblin Company | 386855 | [386855-goblin-company.json](./386855-goblin-company.json) |
+| Goblin Daily Life | 263131 | [263131-goblin-daily-life.json](./263131-goblin-daily-life.json) |
 | Goblin Dice and Cleave | 370140 | [370140-goblin-dice-and-cleave.json](./370140-goblin-dice-and-cleave.json) |
 | Goblin Dungeoneer | 151526 | [151526-goblin-dungeoneer.json](./151526-goblin-dungeoneer.json) |
 | Goblin God | 413069 | [413069-goblin-god.json](./413069-goblin-god.json) |
@@ -2935,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God: The Game | 264872 | [264872-god-the-game.json](./264872-god-the-game.json) |
 | God's Forest | 265133 | [265133-gods-forest.json](./265133-gods-forest.json) |
 | God's League | 341477 | [341477-gods-league.json](./341477-gods-league.json) |
+| God's Miniature Garden | 263136 | [263136-gods-miniature-garden.json](./263136-gods-miniature-garden.json) |
 | God's One Day World | 90582 | [90582-gods-one-day-world.json](./90582-gods-one-day-world.json) |
 | God's Playing Field | 210663 | [210663-gods-playing-field.json](./210663-gods-playing-field.json) |
 | God's Trigger: O.M.G. Edition | 154548 | [154548-gods-trigger-o-m-g-edition.json](./154548-gods-trigger-o-m-g-edition.json) |
