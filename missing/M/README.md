@@ -3690,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Dynasty: Hunting Pack | 415186 | [415186-medieval-dynasty-hunting-pack.json](./415186-medieval-dynasty-hunting-pack.json) |
 | Medieval Dynasty: The Backwood | 415188 | [415188-medieval-dynasty-the-backwood.json](./415188-medieval-dynasty-the-backwood.json) |
 | Medieval Escape 2 | 397066 | [397066-medieval-escape-2.json](./397066-medieval-escape-2.json) |
+| Medieval Fantasy Survival Simulator 2: Gladiator Edition | 237465 | [237465-medieval-fantasy-survival-simulator-2-gladiator-edition.json](./237465-medieval-fantasy-survival-simulator-2-gladiator-edition.json) |
 | Medieval Fantasy: Jigsaw Puzzle | 313148 | [313148-medieval-fantasy-jigsaw-puzzle.json](./313148-medieval-fantasy-jigsaw-puzzle.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Eerie Darkness | 314889 | [314889-medieval-fantasy-jigsaw-puzzle-eerie-darkness.json](./314889-medieval-fantasy-jigsaw-puzzle-eerie-darkness.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Emperor Edition | 315870 | [315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json](./315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json) |
@@ -7088,6 +7089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Universe | 153428 | [153428-mister-universe.json](./153428-mister-universe.json) |
 | Mister Versatile: A Gay Superhero Visual Novel | 180251 | [180251-mister-versatile-a-gay-superhero-visual-novel.json](./180251-mister-versatile-a-gay-superhero-visual-novel.json) |
 | Misterious Thief | 321996 | [321996-misterious-thief.json](./321996-misterious-thief.json) |
+| Mistery | 237470 | [237470-mistery.json](./237470-mistery.json) |
 | Mistery | 264046 | [264046-mistery.json](./264046-mistery.json) |
 | Mistfall | 239042 | [239042-mistfall.json](./239042-mistfall.json) |
 | Mistfall Ruins | 391249 | [391249-mistfall-ruins.json](./391249-mistfall-ruins.json) |
