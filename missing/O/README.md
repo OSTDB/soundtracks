@@ -2263,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Other | 197274 | [197274-other.json](./197274-other.json) |
 | Other Minds | 183051 | [183051-other-minds.json](./183051-other-minds.json) |
 | Other Side | 126455 | [126455-other-side.json](./126455-other-side.json) |
+| Other Side Of Mist And Mountain | 278108 | [278108-other-side-of-mist-and-mountain.json](./278108-other-side-of-mist-and-mountain.json) |
 | Other Spheres | 388316 | [388316-other-spheres.json](./388316-other-spheres.json) |
 | Other Submarine | 124143 | [124143-other-submarine.json](./124143-other-submarine.json) |
 | Other World | 154360 | [154360-other-world.json](./154360-other-world.json) |
