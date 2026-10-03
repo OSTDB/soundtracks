@@ -4108,6 +4108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow Free: Hexes | 96260 | [96260-flow-free-hexes.json](./96260-flow-free-hexes.json) |
 | Flow Gear Racing | 153399 | [153399-flow-gear-racing.json](./153399-flow-gear-racing.json) |
 | Flow of War | 272262 | [272262-flow-of-war.json](./272262-flow-of-war.json) |
+| Flow Parkour | 260894 | [260894-flow-parkour.json](./260894-flow-parkour.json) |
 | Flow Skate | 369048 | [369048-flow-skate.json](./369048-flow-skate.json) |
 | Flow: Last Origins | 267471 | [267471-flow-last-origins.json](./267471-flow-last-origins.json) |
 | Flow: The Sliding | 41934 | [41934-flow-the-sliding.json](./41934-flow-the-sliding.json) |
@@ -6365,6 +6366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Fall | 246333 | [246333-fruit-fall.json](./246333-fruit-fall.json) |
 | Fruit Farmer | 199603 | [199603-fruit-farmer.json](./199603-fruit-farmer.json) |
 | Fruit for the Village | 59868 | [59868-fruit-for-the-village.json](./59868-fruit-for-the-village.json) |
+| Fruit Frenzy | 260898 | [260898-fruit-frenzy.json](./260898-fruit-frenzy.json) |
 | Fruit Fusion | 60254 | [60254-fruit-fusion.json](./60254-fruit-fusion.json) |
 | Fruit Fusion! | 384197 | [384197-fruit-fusion.json](./384197-fruit-fusion.json) |
 | Fruit Golf | 34363 | [34363-fruit-golf.json](./34363-fruit-golf.json) |
