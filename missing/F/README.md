@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London | 11285 | [11285-fallen-london.json](./11285-fallen-london.json) |
 | Fallen London: A Columbidaean Commotion | 217802 | [217802-fallen-london-a-columbidaean-commotion.json](./217802-fallen-london-a-columbidaean-commotion.json) |
 | Fallen London: A Crown of Thorns | 191792 | [191792-fallen-london-a-crown-of-thorns.json](./191792-fallen-london-a-crown-of-thorns.json) |
+| Fallen London: A Devil's Due | 233588 | [233588-fallen-london-a-devils-due.json](./233588-fallen-london-a-devils-due.json) |
 | Fallen London: A Little Pandemonium | 191710 | [191710-fallen-london-a-little-pandemonium.json](./191710-fallen-london-a-little-pandemonium.json) |
 | Fallen London: A Stretch in the Sky | 191903 | [191903-fallen-london-a-stretch-in-the-sky.json](./191903-fallen-london-a-stretch-in-the-sky.json) |
 | Fallen London: Adornment | 191795 | [191795-fallen-london-adornment.json](./191795-fallen-london-adornment.json) |
@@ -585,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: Por Una Cabeza | 191731 | [191731-fallen-london-por-una-cabeza.json](./191731-fallen-london-por-una-cabeza.json) |
 | Fallen London: Required Repairs | 191706 | [191706-fallen-london-required-repairs.json](./191706-fallen-london-required-repairs.json) |
 | Fallen London: Reunion | 191787 | [191787-fallen-london-reunion.json](./191787-fallen-london-reunion.json) |
+| Fallen London: Salon Scandal! | 233589 | [233589-fallen-london-salon-scandal.json](./233589-fallen-london-salon-scandal.json) |
 | Fallen London: Say It with Flowers | 191729 | [191729-fallen-london-say-it-with-flowers.json](./191729-fallen-london-say-it-with-flowers.json) |
 | Fallen London: Shades of Yesterday | 191735 | [191735-fallen-london-shades-of-yesterday.json](./191735-fallen-london-shades-of-yesterday.json) |
 | Fallen London: Stolen Stanzas | 233592 | [233592-fallen-london-stolen-stanzas.json](./233592-fallen-london-stolen-stanzas.json) |
@@ -3762,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flask | 366367 | [366367-flask.json](./366367-flask.json) |
 | Flaskoman | 153852 | [153852-flaskoman.json](./153852-flaskoman.json) |
 | Flat & Fluffy | 297075 | [297075-flat-and-fluffy.json](./297075-flat-and-fluffy.json) |
+| Flat Affect | 233563 | [233563-flat-affect.json](./233563-flat-affect.json) |
 | Flat Galaxy: An Idlemare | 387623 | [387623-flat-galaxy-an-idlemare.json](./387623-flat-galaxy-an-idlemare.json) |
 | Flat Heroes | 31898 | [31898-flat-heroes.json](./31898-flat-heroes.json) |
 | Flat Kingdom | 18795 | [18795-flat-kingdom.json](./18795-flat-kingdom.json) |
@@ -5039,6 +5042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Roads | 262940 | [262940-forgotten-roads.json](./262940-forgotten-roads.json) |
 | Forgotten Runiverse | 275661 | [275661-forgotten-runiverse.json](./275661-forgotten-runiverse.json) |
 | Forgotten Saga | 145572 | [145572-forgotten-saga.json](./145572-forgotten-saga.json) |
+| Forgotten Seas | 233582 | [233582-forgotten-seas.json](./233582-forgotten-seas.json) |
 | Forgotten Signal: Portal | 348389 | [348389-forgotten-signal-portal.json](./348389-forgotten-signal-portal.json) |
 | Forgotten Sound 1: Revelation | 83595 | [83595-forgotten-sound-1-revelation.json](./83595-forgotten-sound-1-revelation.json) |
 | Forgotten Sound 2: Destiny | 83545 | [83545-forgotten-sound-2-destiny.json](./83545-forgotten-sound-2-destiny.json) |
