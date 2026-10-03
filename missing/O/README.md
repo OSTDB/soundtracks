@@ -2200,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orso | 390200 | [390200-orso.json](./390200-orso.json) |
 | Ortharion: The Last Battle | 193444 | [193444-ortharion-the-last-battle.json](./193444-ortharion-the-last-battle.json) |
 | Ortheo | 163197 | [163197-ortheo.json](./163197-ortheo.json) |
+| Ortheo | 250510 | [250510-ortheo.json](./250510-ortheo.json) |
 | Ortheo Voyage | 289457 | [289457-ortheo-voyage.json](./289457-ortheo-voyage.json) |
 | Ortho | 152322 | [152322-ortho.json](./152322-ortho.json) |
 | Orthodox | 138583 | [138583-orthodox.json](./138583-orthodox.json) |
