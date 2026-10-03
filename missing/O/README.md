@@ -2806,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcursed | 176494 | [176494-overcursed.json](./176494-overcursed.json) |
 | Overdawn | 372045 | [372045-overdawn.json](./372045-overdawn.json) |
 | Overdose | 337695 | [337695-overdose.json](./337695-overdose.json) |
+| Overdose Delusion | 277493 | [277493-overdose-delusion.json](./277493-overdose-delusion.json) |
 | OverDrift Festival | 155984 | [155984-overdrift-festival.json](./155984-overdrift-festival.json) |
 | OverDrift Festival: Exclusive Cars Pack #2 | 293403 | [293403-overdrift-festival-exclusive-cars-pack-2.json](./293403-overdrift-festival-exclusive-cars-pack-2.json) |
 | OverDrift Festival: Exclusive Cars Pack#1 | 292672 | [292672-overdrift-festival-exclusive-cars-pack-1.json](./292672-overdrift-festival-exclusive-cars-pack-1.json) |
