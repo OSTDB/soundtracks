@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landline | 367526 | [367526-landline.json](./367526-landline.json) |
 | Landlord | 346718 | [346718-landlord.json](./346718-landlord.json) |
 | Landlord | 385584 | [385584-landlord.json](./385584-landlord.json) |
+| Landlord Go! | 235293 | [235293-landlord-go.json](./235293-landlord-go.json) |
 | Landlord Simulator | 231878 | [231878-landlord-simulator.json](./231878-landlord-simulator.json) |
 | Landlord Simulator | 89654 | [89654-landlord-simulator.json](./89654-landlord-simulator.json) |
 | Landlord Tycoon | 127984 | [127984-landlord-tycoon.json](./127984-landlord-tycoon.json) |
