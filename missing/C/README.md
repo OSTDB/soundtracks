@@ -4161,12 +4161,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Mystery: The Secret Tree of Life | 66175 | [66175-chronicles-of-mystery-the-secret-tree-of-life.json](./66175-chronicles-of-mystery-the-secret-tree-of-life.json) |
 | Chronicles of Refugia | 213401 | [213401-chronicles-of-refugia.json](./213401-chronicles-of-refugia.json) |
 | Chronicles of Sarval: Bridges of Koni | 173052 | [173052-chronicles-of-sarval-bridges-of-koni.json](./173052-chronicles-of-sarval-bridges-of-koni.json) |
+| Chronicles of TalDun: The Longing | 239787 | [239787-chronicles-of-taldun-the-longing.json](./239787-chronicles-of-taldun-the-longing.json) |
 | Chronicles of the Celestial Way | 347221 | [347221-chronicles-of-the-celestial-way.json](./347221-chronicles-of-the-celestial-way.json) |
 | Chronicles of the Great Wilderness | 339109 | [339109-chronicles-of-the-great-wilderness.json](./339109-chronicles-of-the-great-wilderness.json) |
 | Chronicles of the Mattock | 181676 | [181676-chronicles-of-the-mattock.json](./181676-chronicles-of-the-mattock.json) |
 | Chronicles of the Sword | 15477 | [15477-chronicles-of-the-sword.json](./15477-chronicles-of-the-sword.json) |
 | Chronicles of the Witches and Warlocks | 34614 | [34614-chronicles-of-the-witches-and-warlocks.json](./34614-chronicles-of-the-witches-and-warlocks.json) |
 | Chronicles of the Wolf | 258184 | [258184-chronicles-of-the-wolf.json](./258184-chronicles-of-the-wolf.json) |
+| Chronicles of Time: Timeline Zero | 239723 | [239723-chronicles-of-time-timeline-zero.json](./239723-chronicles-of-time-timeline-zero.json) |
 | Chronicles of Vinland | 81008 | [81008-chronicles-of-vinland.json](./81008-chronicles-of-vinland.json) |
 | Chronicles of Vipers | 253321 | [253321-chronicles-of-vipers.json](./253321-chronicles-of-vipers.json) |
 | Chronicles of Witches & Warlocks | 52738 | [52738-chronicles-of-witches-and-warlocks.json](./52738-chronicles-of-witches-and-warlocks.json) |
@@ -6507,6 +6509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compare the Meerkat | 313280 | [313280-compare-the-meerkat.json](./313280-compare-the-meerkat.json) |
 | Compartmentalize | 326610 | [326610-compartmentalize.json](./326610-compartmentalize.json) |
 | Compass Live Arena | 220579 | [220579-compass-live-arena.json](./220579-compass-live-arena.json) |
+| Compass of the Destiny: Istanbul | 239794 | [239794-compass-of-the-destiny-istanbul.json](./239794-compass-of-the-destiny-istanbul.json) |
 | Compass Rose | 124632 | [124632-compass-rose.json](./124632-compass-rose.json) |
 | Compassion | 179680 | [179680-compassion.json](./179680-compassion.json) |
 | Compensated Girl | 369100 | [369100-compensated-girl.json](./369100-compensated-girl.json) |
@@ -7572,6 +7575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo's Cosmic Adventure | 8484 | [8484-cosmos-cosmic-adventure.json](./8484-cosmos-cosmic-adventure.json) |
 | Cosmo's Delivery and Logistics | 269037 | [269037-cosmos-delivery-and-logistics.json](./269037-cosmos-delivery-and-logistics.json) |
 | Cosmo's Industry | 374841 | [374841-cosmos-industry.json](./374841-cosmos-industry.json) |
+| Cosmo's Pizzarama | 239788 | [239788-cosmos-pizzarama.json](./239788-cosmos-pizzarama.json) |
 | Cosmoblaster Exodia | 192939 | [192939-cosmoblaster-exodia.json](./192939-cosmoblaster-exodia.json) |
 | Cosmochoria | 17230 | [17230-cosmochoria.json](./17230-cosmochoria.json) |
 | Cosmodread | 144994 | [144994-cosmodread.json](./144994-cosmodread.json) |
@@ -8307,6 +8311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Critters: Combat Cats | 122198 | [122198-crazy-critters-combat-cats.json](./122198-crazy-critters-combat-cats.json) |
 | Crazy Cursed Grandma's House | 272393 | [272393-crazy-cursed-grandmas-house.json](./272393-crazy-cursed-grandmas-house.json) |
 | Crazy Defense Heroes | 95092 | [95092-crazy-defense-heroes.json](./95092-crazy-defense-heroes.json) |
+| Crazy Designer | 239789 | [239789-crazy-designer.json](./239789-crazy-designer.json) |
 | Crazy Dessert Maker | 98928 | [98928-crazy-dessert-maker.json](./98928-crazy-dessert-maker.json) |
 | Crazy Dreamz: Best Of | 90076 | [90076-crazy-dreamz-best-of.json](./90076-crazy-dreamz-best-of.json) |
 | Crazy Dreamz: MagiCats Edition | 55255 | [55255-crazy-dreamz-magicats-edition.json](./55255-crazy-dreamz-magicats-edition.json) |
