@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rancid | 124234 | [124234-rancid.json](./124234-rancid.json) |
 | Rand-O-mazE | 110359 | [110359-rand-o-maze.json](./110359-rand-o-maze.json) |
 | Randal's House | 308467 | [308467-randals-house.json](./308467-randals-house.json) |
+| Randal's Tuesday | 248200 | [248200-randals-tuesday.json](./248200-randals-tuesday.json) |
 | Randnet Disk | 94725 | [94725-randnet-disk.json](./94725-randnet-disk.json) |
 | Random Acts of Madness | 270173 | [270173-random-acts-of-madness.json](./270173-random-acts-of-madness.json) |
 | Random Coin | 411083 | [411083-random-coin.json](./411083-random-coin.json) |
@@ -1002,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid Assault | 62137 | [62137-rapid-assault.json](./62137-rapid-assault.json) |
 | Rapid Deployment Force: Global Conflict | 46606 | [46606-rapid-deployment-force-global-conflict.json](./46606-rapid-deployment-force-global-conflict.json) |
 | Rapid Fire | 112751 | [112751-rapid-fire.json](./112751-rapid-fire.json) |
+| Rapid Fire Brigade | 248178 | [248178-rapid-fire-brigade.json](./248178-rapid-fire-brigade.json) |
 | Rapid Hero | 39881 | [39881-rapid-hero.json](./39881-rapid-hero.json) |
 | Rapid Magic Arcane Crystals | 174210 | [174210-rapid-magic-arcane-crystals.json](./174210-rapid-magic-arcane-crystals.json) |
 | Rapid Reload | 45013 | [45013-rapid-reload.json](./45013-rapid-reload.json) |
