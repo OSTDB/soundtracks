@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 8: Miary Zo | 374185 | [374185-tekken-8-miary-zo.json](./374185-tekken-8-miary-zo.json) |
 | Tekken 8: Pac-Pixels | 374187 | [374187-tekken-8-pac-pixels.json](./374187-tekken-8-pac-pixels.json) |
 | Tekken 8: Phoenix Gate | 333580 | [333580-tekken-8-phoenix-gate.json](./333580-tekken-8-phoenix-gate.json) |
+| Tekken 8: Premium Collector's Edition | 271396 | [271396-tekken-8-premium-collectors-edition.json](./271396-tekken-8-premium-collectors-edition.json) |
 | Tekken 8: Season 1 Character & Stage Pass | 347697 | [347697-tekken-8-season-1-character-and-stage-pass.json](./347697-tekken-8-season-1-character-and-stage-pass.json) |
 | Tekken 8: Season 2 - Deluxe Edition | 338222 | [338222-tekken-8-season-2-deluxe-edition.json](./338222-tekken-8-season-2-deluxe-edition.json) |
 | Tekken 8: Season 2 - Ultimate Edition | 338221 | [338221-tekken-8-season-2-ultimate-edition.json](./338221-tekken-8-season-2-ultimate-edition.json) |
@@ -2183,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi no uta: The Angel's Verse | 385075 | [385075-tenshi-no-uta-the-angels-verse.json](./385075-tenshi-no-uta-the-angels-verse.json) |
 | Tenshi-tachi no Gogo II: Minako | 247182 | [247182-tenshi-tachi-no-gogo-ii-minako.json](./247182-tenshi-tachi-no-gogo-ii-minako.json) |
 | Tenshi-tachi no Gogo III: Bangai-hen | 270791 | [270791-tenshi-tachi-no-gogo-iii-bangai-hen.json](./270791-tenshi-tachi-no-gogo-iii-bangai-hen.json) |
+| Tenshi-tachi no Gogo IV: Yuuko | 271421 | [271421-tenshi-tachi-no-gogo-iv-yuuko.json](./271421-tenshi-tachi-no-gogo-iv-yuuko.json) |
 | Tenshi-tachi no Gogo Special 2 | 271709 | [271709-tenshi-tachi-no-gogo-special-2.json](./271709-tenshi-tachi-no-gogo-special-2.json) |
 | Tenshi-tachi no Gogo V: Nerawareta Tenshi | 271708 | [271708-tenshi-tachi-no-gogo-v-nerawareta-tenshi.json](./271708-tenshi-tachi-no-gogo-v-nerawareta-tenshi.json) |
 | Tenshin Ranman: Happy Go Lucky!! | 386954 | [386954-tenshin-ranman-happy-go-lucky.json](./386954-tenshin-ranman-happy-go-lucky.json) |
@@ -3031,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Area 51 Secret: Boombox Killer | 127024 | [127024-the-area-51-secret-boombox-killer.json](./127024-the-area-51-secret-boombox-killer.json) |
 | The Area Where You Can't Place Arrows | 185529 | [185529-the-area-where-you-cant-place-arrows.json](./185529-the-area-where-you-cant-place-arrows.json) |
 | The Arena | 271265 | [271265-the-arena.json](./271265-the-arena.json) |
+| The Arena | 271408 | [271408-the-arena.json](./271408-the-arena.json) |
 | The Arena Guy | 151029 | [151029-the-arena-guy.json](./151029-the-arena-guy.json) |
 | The Argument Solver | 289308 | [289308-the-argument-solver.json](./289308-the-argument-solver.json) |
 | The Ark | 390005 | [390005-the-ark.json](./390005-the-ark.json) |
@@ -5176,6 +5179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Bedroom Escape | 385213 | [385213-the-great-bedroom-escape.json](./385213-the-great-bedroom-escape.json) |
 | The Great Beyond | 401634 | [401634-the-great-beyond.json](./401634-the-great-beyond.json) |
 | The Great Cave Offensive | 271262 | [271262-the-great-cave-offensive.json](./271262-the-great-cave-offensive.json) |
+| The Great Cave Offensive | 271405 | [271405-the-great-cave-offensive.json](./271405-the-great-cave-offensive.json) |
 | The Great Chocolate Chase: A Chocolatier Twist | 19557 | [19557-the-great-chocolate-chase-a-chocolatier-twist.json](./19557-the-great-chocolate-chase-a-chocolatier-twist.json) |
 | The Great Coffee Caper | 338210 | [338210-the-great-coffee-caper.json](./338210-the-great-coffee-caper.json) |
 | The Great Couturier | 290013 | [290013-the-great-couturier.json](./290013-the-great-couturier.json) |
@@ -7604,6 +7608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pro Wrestling | 385780 | [385780-the-pro-wrestling.json](./385780-the-pro-wrestling.json) |
 | The Pro Yakyuu | 132129 | [132129-the-pro-yakyuu.json](./132129-the-pro-yakyuu.json) |
 | The Pro Yakyuu Super '94 | 307092 | [307092-the-pro-yakyuu-super-94.json](./307092-the-pro-yakyuu-super-94.json) |
+| The Pro Yakyuu: Pennant race | 271377 | [271377-the-pro-yakyuu-pennant-race.json](./271377-the-pro-yakyuu-pennant-race.json) |
 | The Problem With Golf | 330156 | [330156-the-problem-with-golf.json](./330156-the-problem-with-golf.json) |
 | The Problems Compound | 59677 | [59677-the-problems-compound.json](./59677-the-problems-compound.json) |
 | The Procession to Calvary | 106985 | [106985-the-procession-to-calvary.json](./106985-the-procession-to-calvary.json) |
@@ -8262,6 +8267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silent Islands | 211939 | [211939-the-silent-islands.json](./211939-the-silent-islands.json) |
 | The Silent One | 347763 | [347763-the-silent-one.json](./347763-the-silent-one.json) |
 | The Silent Suite | 330923 | [330923-the-silent-suite.json](./330923-the-silent-suite.json) |
+| The Silent Swan: Rising in the Mist Edition | 271400 | [271400-the-silent-swan-rising-in-the-mist-edition.json](./271400-the-silent-swan-rising-in-the-mist-edition.json) |
 | The Silk Road of the Eastern Dynasty | 211665 | [211665-the-silk-road-of-the-eastern-dynasty.json](./211665-the-silk-road-of-the-eastern-dynasty.json) |
 | The Silver Age | 209556 | [209556-the-silver-age.json](./209556-the-silver-age.json) |
 | The Silver Case | 21560 | [21560-the-silver-case.json](./21560-the-silver-case.json) |
@@ -9167,6 +9173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Troll & The Witch's House | 350437 | [350437-the-troll-and-the-witchs-house.json](./350437-the-troll-and-the-witchs-house.json) |
 | The Trolley Problem Game | 172138 | [172138-the-trolley-problem-game.json](./172138-the-trolley-problem-game.json) |
 | The Trolls in Crazyland | 48706 | [48706-the-trolls-in-crazyland.json](./48706-the-trolls-in-crazyland.json) |
+| The True Arena | 271412 | [271412-the-true-arena.json](./271412-the-true-arena.json) |
 | The Trump | 124087 | [124087-the-trump.json](./124087-the-trump.json) |
 | The Truth of a Snowy Night | 340955 | [340955-the-truth-of-a-snowy-night.json](./340955-the-truth-of-a-snowy-night.json) |
 | The Tsar's Secret | 209475 | [209475-the-tsars-secret.json](./209475-the-tsars-secret.json) |
@@ -9263,6 +9270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unknown City (Episode 1) | 105987 | [105987-the-unknown-city-episode-1.json](./105987-the-unknown-city-episode-1.json) |
 | The Unknown Force | 179580 | [179580-the-unknown-force.json](./179580-the-unknown-force.json) |
 | The Unknown Planet | 270684 | [270684-the-unknown-planet.json](./270684-the-unknown-planet.json) |
+| The Unlife of Gorlak | 271391 | [271391-the-unlife-of-gorlak.json](./271391-the-unlife-of-gorlak.json) |
 | The Unlit Sun | 336737 | [336737-the-unlit-sun.json](./336737-the-unlit-sun.json) |
 | The UnMaking | 191722 | [191722-the-unmaking.json](./191722-the-unmaking.json) |
 | The Unmarked | 153353 | [153353-the-unmarked.json](./153353-the-unmarked.json) |
@@ -12173,6 +12181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toad in SMB1 | 198470 | [198470-toad-in-smb1.json](./198470-toad-in-smb1.json) |
 | Toad Line | 89701 | [89701-toad-line.json](./89701-toad-line.json) |
 | Toad on Fire | 139482 | [139482-toad-on-fire.json](./139482-toad-on-fire.json) |
+| Toad Runner | 271375 | [271375-toad-runner.json](./271375-toad-runner.json) |
 | Toad Strikes Back | 134068 | [134068-toad-strikes-back.json](./134068-toad-strikes-back.json) |
 | Toad Tales | 272578 | [272578-toad-tales.json](./272578-toad-tales.json) |
 | Toad Tavern | 313247 | [313247-toad-tavern.json](./313247-toad-tavern.json) |
@@ -15131,6 +15140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Rangers | 153445 | [153445-treasure-rangers.json](./153445-treasure-rangers.json) |
 | Treasure Report: Kikai Jikake no Isan | 124109 | [124109-treasure-report-kikai-jikake-no-isan.json](./124109-treasure-report-kikai-jikake-no-isan.json) |
 | Treasure Rush: Phantom Infiltration | 386293 | [386293-treasure-rush-phantom-infiltration.json](./386293-treasure-rush-phantom-infiltration.json) |
+| Treasure Seas Incorporated | 271390 | [271390-treasure-seas-incorporated.json](./271390-treasure-seas-incorporated.json) |
 | Treasure Seekers: The Time Has Come | 226208 | [226208-treasure-seekers-the-time-has-come.json](./226208-treasure-seekers-the-time-has-come.json) |
 | Treasure Seekers: Visions of Gold HD | 24285 | [24285-treasure-seekers-visions-of-gold-hd.json](./24285-treasure-seekers-visions-of-gold-hd.json) |
 | Treasure Star | 247746 | [247746-treasure-star.json](./247746-treasure-star.json) |
@@ -16100,6 +16110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Runner | 22757 | [22757-tunnel-runner.json](./22757-tunnel-runner.json) |
 | Tunnel Town | 106380 | [106380-tunnel-town.json](./106380-tunnel-town.json) |
 | Tunnel View | 180699 | [180699-tunnel-view.json](./180699-tunnel-view.json) |
+| Tunnel Vision | 271425 | [271425-tunnel-vision.json](./271425-tunnel-vision.json) |
 | Tunnel Vision | 273873 | [273873-tunnel-vision.json](./273873-tunnel-vision.json) |
 | Tunneler | 14439 | [14439-tunneler.json](./14439-tunneler.json) |
 | Tunnels & Trolls | 40920 | [40920-tunnels-and-trolls.json](./40920-tunnels-and-trolls.json) |
