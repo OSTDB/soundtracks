@@ -4853,6 +4853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrine | 132241 | [132241-shrine.json](./132241-shrine.json) |
 | Shrine For the Gods of Lost Things | 141628 | [141628-shrine-for-the-gods-of-lost-things.json](./141628-shrine-for-the-gods-of-lost-things.json) |
 | Shrine of Haunts | 347336 | [347336-shrine-of-haunts.json](./347336-shrine-of-haunts.json) |
+| Shrine of the Silver CyberPrimate | 261466 | [261466-shrine-of-the-silver-cyberprimate.json](./261466-shrine-of-the-silver-cyberprimate.json) |
 | Shrine Raider | 377052 | [377052-shrine-raider.json](./377052-shrine-raider.json) |
 | Shrine to Anubis | 135685 | [135685-shrine-to-anubis.json](./135685-shrine-to-anubis.json) |
 | Shrine: Circus Tycoon | 206970 | [206970-shrine-circus-tycoon.json](./206970-shrine-circus-tycoon.json) |
@@ -7598,6 +7599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Shooter: Gun Shooting | 86982 | [86982-sniper-shooter-gun-shooting.json](./86982-sniper-shooter-gun-shooting.json) |
 | Sniper Squad Mission | 99659 | [99659-sniper-squad-mission.json](./99659-sniper-squad-mission.json) |
 | Sniper Strike 3D | 237365 | [237365-sniper-strike-3d.json](./237365-sniper-strike-3d.json) |
+| Sniper Strike: Special Ops | 261423 | [261423-sniper-strike-special-ops.json](./261423-sniper-strike-special-ops.json) |
 | Sniper Strike: Special Ops | 89492 | [89492-sniper-strike-special-ops.json](./89492-sniper-strike-special-ops.json) |
 | Sniper Warrior Elite | 345119 | [345119-sniper-warrior-elite.json](./345119-sniper-warrior-elite.json) |
 | Sniper Wild West Shooting Simulator | 264214 | [264214-sniper-wild-west-shooting-simulator.json](./264214-sniper-wild-west-shooting-simulator.json) |
@@ -8165,6 +8167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solcialists | 272581 | [272581-solcialists.json](./272581-solcialists.json) |
 | SolCycle | 349993 | [349993-solcycle.json](./349993-solcycle.json) |
 | Sold Out | 253337 | [253337-sold-out.json](./253337-sold-out.json) |
+| Sold Soul | 261437 | [261437-sold-soul.json](./261437-sold-soul.json) |
 | Soldat | 8722 | [8722-soldat.json](./8722-soldat.json) |
 | Soldier Blade Special: Caravan Stage | 42024 | [42024-soldier-blade-special-caravan-stage.json](./42024-soldier-blade-special-caravan-stage.json) |
 | Soldier Blaster | 412972 | [412972-soldier-blaster.json](./412972-soldier-blaster.json) |
@@ -9686,6 +9689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cobra Professional | 75733 | [75733-space-cobra-professional.json](./75733-space-cobra-professional.json) |
 | Space Cobra RetPixMod | 178647 | [178647-space-cobra-retpixmod.json](./178647-space-cobra-retpixmod.json) |
 | Space Cobra the Psychogun | 75734 | [75734-space-cobra-the-psychogun.json](./75734-space-cobra-the-psychogun.json) |
+| Space Colonizers: The Sandbox | 261425 | [261425-space-colonizers-the-sandbox.json](./261425-space-colonizers-the-sandbox.json) |
 | Space Colony HD | 51901 | [51901-space-colony-hd.json](./51901-space-colony-hd.json) |
 | Space Combat | 294265 | [294265-space-combat.json](./294265-space-combat.json) |
 | Space Combat Simulator | 292677 | [292677-space-combat-simulator.json](./292677-space-combat-simulator.json) |
@@ -12578,6 +12582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate Worlds | 14534 | [14534-stargate-worlds.json](./14534-stargate-worlds.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
 | StarGazers | 245873 | [245873-stargazers.json](./245873-stargazers.json) |
+| Stargazing | 261426 | [261426-stargazing.json](./261426-stargazing.json) |
 | Stargazing 64 | 350523 | [350523-stargazing-64.json](./350523-stargazing-64.json) |
 | Stargazing: Genesis | 195705 | [195705-stargazing-genesis.json](./195705-stargazing-genesis.json) |
 | Stargoose Warrior | 51285 | [51285-stargoose-warrior.json](./51285-stargoose-warrior.json) |
@@ -13016,6 +13021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Inc. 2: A Game of Clones Deluxe | 51893 | [51893-stealth-inc-2-a-game-of-clones-deluxe.json](./51893-stealth-inc-2-a-game-of-clones-deluxe.json) |
 | Stealth Init | 408240 | [408240-stealth-init.json](./408240-stealth-init.json) |
 | Stealth Kill VR Missions | 310677 | [310677-stealth-kill-vr-missions.json](./310677-stealth-kill-vr-missions.json) |
+| Stealth Master: Assassin Ninja | 261421 | [261421-stealth-master-assassin-ninja.json](./261421-stealth-master-assassin-ninja.json) |
 | Stealth Operative Syn: Virtual Training | 406221 | [406221-stealth-operative-syn-virtual-training.json](./406221-stealth-operative-syn-virtual-training.json) |
 | Stealth Prankster | 180126 | [180126-stealth-prankster.json](./180126-stealth-prankster.json) |
 | Stealth Raider | 399006 | [399006-stealth-raider.json](./399006-stealth-raider.json) |
@@ -13374,6 +13380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stern Pinball Arcade: Star Trek | 161231 | [161231-stern-pinball-arcade-star-trek.json](./161231-stern-pinball-arcade-star-trek.json) |
 | Stern Pinball Arcade: Starship Troopers | 161226 | [161226-stern-pinball-arcade-starship-troopers.json](./161226-stern-pinball-arcade-starship-troopers.json) |
 | Sternenschweif 3D - Das Geheimnis im Zauberwald | 125212 | [125212-sternenschweif-3d-das-geheimnis-im-zauberwald.json](./125212-sternenschweif-3d-das-geheimnis-im-zauberwald.json) |
+| Sternly Worded Adventures | 261434 | [261434-sternly-worded-adventures.json](./261434-sternly-worded-adventures.json) |
 | Steve Davis Snooker | 45323 | [45323-steve-davis-snooker.json](./45323-steve-davis-snooker.json) |
 | Steve Davis World Snooker | 12928 | [12928-steve-davis-world-snooker.json](./12928-steve-davis-world-snooker.json) |
 | Steve Magal: Fists of Brutal Truth | 341888 | [341888-steve-magal-fists-of-brutal-truth.json](./341888-steve-magal-fists-of-brutal-truth.json) |
@@ -14678,6 +14685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suck It! | 266236 | [266236-suck-it.json](./266236-suck-it.json) |
 | Suck Up! | 280431 | [280431-suck-up.json](./280431-suck-up.json) |
 | Sucker head: Bodycam | 338215 | [338215-sucker-head-bodycam.json](./338215-sucker-head-bodycam.json) |
+| Sucker Punch 2 | 261460 | [261460-sucker-punch-2.json](./261460-sucker-punch-2.json) |
 | Sucker Punch Mech Gunner | 59357 | [59357-sucker-punch-mech-gunner.json](./59357-sucker-punch-mech-gunner.json) |
 | Sucre: Sweet and Charming Time for You | 396945 | [396945-sucre-sweet-and-charming-time-for-you.json](./396945-sucre-sweet-and-charming-time-for-you.json) |
 | Suction Co-Op | 303222 | [303222-suction-co-op.json](./303222-suction-co-op.json) |
