@@ -2377,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Dandelion | 158698 | [158698-white-dandelion.json](./158698-white-dandelion.json) |
 | White Day 2: Swan Song | 55020 | [55020-white-day-2-swan-song.json](./55020-white-day-2-swan-song.json) |
 | White Day 2: The Flower That Tells Lies - Ep.2 | 248335 | [248335-white-day-2-the-flower-that-tells-lies-ep-2.json](./248335-white-day-2-the-flower-that-tells-lies-ep-2.json) |
+| White Desert | 256973 | [256973-white-desert.json](./256973-white-desert.json) |
 | White Eternal | 314870 | [314870-white-eternal.json](./314870-white-eternal.json) |
 | White Eyes | 166719 | [166719-white-eyes.json](./166719-white-eyes.json) |
 | White Haven Mysteries | 17201 | [17201-white-haven-mysteries.json](./17201-white-haven-mysteries.json) |
@@ -3935,6 +3936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordHerd | 147269 | [147269-wordherd.json](./147269-wordherd.json) |
 | WordHive | 411569 | [411569-wordhive.json](./411569-wordhive.json) |
 | WordHive 2 | 414441 | [414441-wordhive-2.json](./414441-wordhive-2.json) |
+| WordHopper | 256986 | [256986-wordhopper.json](./256986-wordhopper.json) |
 | WordHue | 212796 | [212796-wordhue.json](./212796-wordhue.json) |
 | Wordify | 147461 | [147461-wordify.json](./147461-wordify.json) |
 | Wordish | 187434 | [187434-wordish.json](./187434-wordish.json) |
