@@ -4159,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionic Hunter VR | 127190 | [127190-bionic-hunter-vr.json](./127190-bionic-hunter-vr.json) |
 | Bionic Rebirth | 283997 | [283997-bionic-rebirth.json](./283997-bionic-rebirth.json) |
 | Bionic Shield: Battle for Space Nebula Omega | 189123 | [189123-bionic-shield-battle-for-space-nebula-omega.json](./189123-bionic-shield-battle-for-space-nebula-omega.json) |
+| Bionic Slammer | 236324 | [236324-bionic-slammer.json](./236324-bionic-slammer.json) |
 | Bionicle Defenders | 343283 | [343283-bionicle-defenders.json](./343283-bionicle-defenders.json) |
 | Bionicle Heroes: DOOM | 135832 | [135832-bionicle-heroes-doom.json](./135832-bionicle-heroes-doom.json) |
 | Bionicle Metru Nui: City of Legends - Stop the Morbuzakh | 279236 | [279236-bionicle-metru-nui-city-of-legends-stop-the-morbuzakh.json](./279236-bionicle-metru-nui-city-of-legends-stop-the-morbuzakh.json) |
@@ -7305,6 +7306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bragger's Run | 150610 | [150610-braggers-run.json](./150610-braggers-run.json) |
 | Bragnarok | 275123 | [275123-bragnarok.json](./275123-bragnarok.json) |
 | Brahma Force: The Assault on Beltlogger 9 | 20816 | [20816-brahma-force-the-assault-on-beltlogger-9.json](./20816-brahma-force-the-assault-on-beltlogger-9.json) |
+| Brahman: The Gate of Salvation | 236327 | [236327-brahman-the-gate-of-salvation.json](./236327-brahman-the-gate-of-salvation.json) |
 | Braid: Anniversary Edition | 136511 | [136511-braid-anniversary-edition.json](./136511-braid-anniversary-edition.json) |
 | Brain 43°C | 104051 | [104051-brain-43-c.json](./104051-brain-43-c.json) |
 | Brain Age 2: More Training in Minutes a Day! | 2711 | [2711-brain-age-2-more-training-in-minutes-a-day.json](./2711-brain-age-2-more-training-in-minutes-a-day.json) |
