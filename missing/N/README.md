@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narco Express | 353399 | [353399-narco-express.json](./353399-narco-express.json) |
 | Narco Terror | 16446 | [16446-narco-terror.json](./16446-narco-terror.json) |
 | Narco Tycoon | 153896 | [153896-narco-tycoon.json](./153896-narco-tycoon.json) |
+| Narco Wars | 263133 | [263133-narco-wars.json](./263133-narco-wars.json) |
 | NarcoGuerra | 50217 | [50217-narcoguerra.json](./50217-narcoguerra.json) |
 | Narcolepsy | 91415 | [91415-narcolepsy.json](./91415-narcolepsy.json) |
 | Narcos: Rise of the Cartels | 112409 | [112409-narcos-rise-of-the-cartels.json](./112409-narcos-rise-of-the-cartels.json) |
@@ -3866,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numenclature | 357249 | [357249-numenclature.json](./357249-numenclature.json) |
 | Numeral Lord | 221426 | [221426-numeral-lord.json](./221426-numeral-lord.json) |
 | Numerix Math Game | 56760 | [56760-numerix-math-game.json](./56760-numerix-math-game.json) |
+| Numerology of Artifacts | 263143 | [263143-numerology-of-artifacts.json](./263143-numerology-of-artifacts.json) |
 | Numerous Ninjas | 409658 | [409658-numerous-ninjas.json](./409658-numerous-ninjas.json) |
 | Numgeon | 113059 | [113059-numgeon.json](./113059-numgeon.json) |
 | Numina | 141250 | [141250-numina.json](./141250-numina.json) |
