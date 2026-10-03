@@ -5074,6 +5074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game For Skippers | 368077 | [368077-the-game-for-skippers.json](./368077-the-game-for-skippers.json) |
 | The Game Has Started | 387007 | [387007-the-game-has-started.json](./387007-the-game-has-started.json) |
 | The Game Maker | 64485 | [64485-the-game-maker.json](./64485-the-game-maker.json) |
+| The Game of Annie | 246003 | [246003-the-game-of-annie.json](./246003-the-game-of-annie.json) |
 | The Game of Bionic Goat | 339099 | [339099-the-game-of-bionic-goat.json](./339099-the-game-of-bionic-goat.json) |
 | The Game Of Death | 276156 | [276156-the-game-of-death.json](./276156-the-game-of-death.json) |
 | The Game of Life | 106271 | [106271-the-game-of-life.json](./106271-the-game-of-life.json) |
