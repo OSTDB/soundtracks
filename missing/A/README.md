@@ -1073,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Prosecutor Zero | 303022 | [303022-ace-prosecutor-zero.json](./303022-ace-prosecutor-zero.json) |
 | Ace Racer | 174905 | [174905-ace-racer.json](./174905-ace-racer.json) |
 | Ace Racing Turbo | 200057 | [200057-ace-racing-turbo.json](./200057-ace-racing-turbo.json) |
+| Ace Robot Combat | 270324 | [270324-ace-robot-combat.json](./270324-ace-robot-combat.json) |
 | Ace Squadron: WWII Conflicts | 223931 | [223931-ace-squadron-wwii-conflicts.json](./223931-ace-squadron-wwii-conflicts.json) |
 | Ace Squared | 337793 | [337793-ace-squared.json](./337793-ace-squared.json) |
 | Ace the Space-Case | 76194 | [76194-ace-the-space-case.json](./76194-ace-the-space-case.json) |
@@ -2447,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airship | 379526 | [379526-airship.json](./379526-airship.json) |
 | Airship | 379527 | [379527-airship.json](./379527-airship.json) |
 | Airship 2: Kingdoms Ablaze | 396536 | [396536-airship-2-kingdoms-ablaze.json](./396536-airship-2-kingdoms-ablaze.json) |
+| Airship Defender | 270326 | [270326-airship-defender.json](./270326-airship-defender.json) |
 | Airship: Kingdoms Adrift | 231336 | [231336-airship-kingdoms-adrift.json](./231336-airship-kingdoms-adrift.json) |
 | Airships: Conquer the Skies | 35934 | [35934-airships-conquer-the-skies.json](./35934-airships-conquer-the-skies.json) |
 | Airships: Heroes and Villains | 244353 | [244353-airships-heroes-and-villains.json](./244353-airships-heroes-and-villains.json) |
@@ -4629,6 +4631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Genius | 397073 | [397073-animal-genius.json](./397073-animal-genius.json) |
 | Animal God | 359543 | [359543-animal-god.json](./359543-animal-god.json) |
 | Animal Hearts: A Card Quest | 373754 | [373754-animal-hearts-a-card-quest.json](./373754-animal-hearts-a-card-quest.json) |
+| Animal Hospital | 270311 | [270311-animal-hospital.json](./270311-animal-hospital.json) |
 | Animal Hospital for kids | 99195 | [99195-animal-hospital-for-kids.json](./99195-animal-hospital-for-kids.json) |
 | Animal Hunting 3D | 301511 | [301511-animal-hunting-3d.json](./301511-animal-hunting-3d.json) |
 | Animal Inspector | 124753 | [124753-animal-inspector.json](./124753-animal-inspector.json) |
@@ -5597,6 +5600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquanore | 376451 | [376451-aquanore.json](./376451-aquanore.json) |
 | AquaNox | 1997 | [1997-aquanox.json](./1997-aquanox.json) |
 | Aquapark io: Animals DLC | 263524 | [263524-aquapark-io-animals-dlc.json](./263524-aquapark-io-animals-dlc.json) |
+| Aquapark io: Complete Edition | 270300 | [270300-aquapark-io-complete-edition.json](./270300-aquapark-io-complete-edition.json) |
 | Aquapark io: Movie Stars DLC | 263526 | [263526-aquapark-io-movie-stars-dlc.json](./263526-aquapark-io-movie-stars-dlc.json) |
 | Aquapark io: Sweet and Spooky DLC | 263525 | [263525-aquapark-io-sweet-and-spooky-dlc.json](./263525-aquapark-io-sweet-and-spooky-dlc.json) |
 | Aquapark io: Sweet Edition | 364098 | [364098-aquapark-io-sweet-edition.json](./364098-aquapark-io-sweet-edition.json) |
