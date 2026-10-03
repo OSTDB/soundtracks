@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quixzel Rush: Halloween Party | 109880 | [109880-quixzel-rush-halloween-party.json](./109880-quixzel-rush-halloween-party.json) |
 | Quixzel Rush: Pumpkin Bash | 109883 | [109883-quixzel-rush-pumpkin-bash.json](./109883-quixzel-rush-pumpkin-bash.json) |
 | Quiz & Learn: Animals | 366216 | [366216-quiz-and-learn-animals.json](./366216-quiz-and-learn-animals.json) |
+| Quiz 4 All | 242017 | [242017-quiz-4-all.json](./242017-quiz-4-all.json) |
 | Quiz Aa! Megami-sama: Tatakau Tsubasa to Tomoni | 131572 | [131572-quiz-aa-megami-sama-tatakau-tsubasa-to-tomoni.json](./131572-quiz-aa-megami-sama-tatakau-tsubasa-to-tomoni.json) |
 | Quiz Caravan Cult Q | 97683 | [97683-quiz-caravan-cult-q.json](./97683-quiz-caravan-cult-q.json) |
 | Quiz Country Flags | 104110 | [104110-quiz-country-flags.json](./104110-quiz-country-flags.json) |
