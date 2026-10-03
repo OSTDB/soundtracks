@@ -1921,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Jigsaw Puzzle Games: Expansion Pack 11 | 241323 | [241323-cat-jigsaw-puzzle-games-expansion-pack-11.json](./241323-cat-jigsaw-puzzle-games-expansion-pack-11.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 3 | 263207 | [263207-cat-jigsaw-puzzle-games-expansion-pack-3.json](./263207-cat-jigsaw-puzzle-games-expansion-pack-3.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 4 | 263211 | [263211-cat-jigsaw-puzzle-games-expansion-pack-4.json](./263211-cat-jigsaw-puzzle-games-expansion-pack-4.json) |
+| Cat Jigsaw Puzzle Games: Expansion Pack 5 | 263098 | [263098-cat-jigsaw-puzzle-games-expansion-pack-5.json](./263098-cat-jigsaw-puzzle-games-expansion-pack-5.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 7 | 263214 | [263214-cat-jigsaw-puzzle-games-expansion-pack-7.json](./263214-cat-jigsaw-puzzle-games-expansion-pack-7.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 8 | 262945 | [262945-cat-jigsaw-puzzle-games-expansion-pack-8.json](./262945-cat-jigsaw-puzzle-games-expansion-pack-8.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 9 | 241322 | [241322-cat-jigsaw-puzzle-games-expansion-pack-9.json](./241322-cat-jigsaw-puzzle-games-expansion-pack-9.json) |
@@ -3752,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolat Rush | 120789 | [120789-chocolat-rush.json](./120789-chocolat-rush.json) |
 | Chocolate Cake | 397948 | [397948-chocolate-cake.json](./397948-chocolate-cake.json) |
 | Chocolate Factory | 112995 | [112995-chocolate-factory.json](./112995-chocolate-factory.json) |
+| Chocolate Kiss | 263115 | [263115-chocolate-kiss.json](./263115-chocolate-kiss.json) |
 | Chocolate makes you happy 4 | 89935 | [89935-chocolate-makes-you-happy-4.json](./89935-chocolate-makes-you-happy-4.json) |
 | Chocolate makes you happy 5 | 99433 | [99433-chocolate-makes-you-happy-5.json](./99433-chocolate-makes-you-happy-5.json) |
 | Chocolate makes you happy 7 | 105376 | [105376-chocolate-makes-you-happy-7.json](./105376-chocolate-makes-you-happy-7.json) |
@@ -7363,6 +7365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Cowabunnies | 265866 | [265866-cosmic-cowabunnies.json](./265866-cosmic-cowabunnies.json) |
 | Cosmic Cowboy | 413070 | [413070-cosmic-cowboy.json](./413070-cosmic-cowboy.json) |
 | Cosmic Creeps | 18547 | [18547-cosmic-creeps.json](./18547-cosmic-creeps.json) |
+| Cosmic Critters | 263121 | [263121-cosmic-critters.json](./263121-cosmic-critters.json) |
 | Cosmic Crowbar | 410939 | [410939-cosmic-crowbar.json](./410939-cosmic-crowbar.json) |
 | Cosmic Crucible | 293173 | [293173-cosmic-crucible.json](./293173-cosmic-crucible.json) |
 | Cosmic Cruiser | 210871 | [210871-cosmic-cruiser.json](./210871-cosmic-cruiser.json) |
@@ -8925,6 +8928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crow's Curated Closet: Shop Simulator | 407481 | [407481-crows-curated-closet-shop-simulator.json](./407481-crows-curated-closet-shop-simulator.json) |
 | Crowbar Climber | 348928 | [348928-crowbar-climber.json](./348928-crowbar-climber.json) |
 | Crowborne | 295786 | [295786-crowborne.json](./295786-crowborne.json) |
+| Crowd | 263109 | [263109-crowd.json](./263109-crowd.json) |
 | Crowd City | 268535 | [268535-crowd-city.json](./268535-crowd-city.json) |
 | Crowd City: Complete Edition | 270299 | [270299-crowd-city-complete-edition.json](./270299-crowd-city-complete-edition.json) |
 | Crowd City: Treasure Edition | 371437 | [371437-crowd-city-treasure-edition.json](./371437-crowd-city-treasure-edition.json) |
