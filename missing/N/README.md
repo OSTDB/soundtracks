@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Dash | 103163 | [103163-nano-dash.json](./103163-nano-dash.json) |
 | Nano Driller | 115587 | [115587-nano-driller.json](./115587-nano-driller.json) |
 | Nano Flat Owner | 391032 | [391032-nano-flat-owner.json](./391032-nano-flat-owner.json) |
+| Nano Force | 250483 | [250483-nano-force.json](./250483-nano-force.json) |
 | Nano Neighbors | 347838 | [347838-nano-neighbors.json](./347838-nano-neighbors.json) |
 | Nano Reef | 405538 | [405538-nano-reef.json](./405538-nano-reef.json) |
 | Nano Shift VR | 48000 | [48000-nano-shift-vr.json](./48000-nano-shift-vr.json) |
@@ -426,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nasteroids: Space Shuttle vs. Asteroids | 91148 | [91148-nasteroids-space-shuttle-vs-asteroids.json](./91148-nasteroids-space-shuttle-vs-asteroids.json) |
 | Nastrond | 271483 | [271483-nastrond.json](./271483-nastrond.json) |
 | Nasty Goats | 204725 | [204725-nasty-goats.json](./204725-nasty-goats.json) |
+| Nasty Neighbors: No Country for Curmudgeon | 250519 | [250519-nasty-neighbors-no-country-for-curmudgeon.json](./250519-nasty-neighbors-no-country-for-curmudgeon.json) |
 | Nasty Rogue 2 | 264695 | [264695-nasty-rogue-2.json](./264695-nasty-rogue-2.json) |
 | Nat Geo Traveler: Sudoku China | 67262 | [67262-nat-geo-traveler-sudoku-china.json](./67262-nat-geo-traveler-sudoku-china.json) |
 | Natari at the Bubble Planet | 75759 | [75759-natari-at-the-bubble-planet.json](./75759-natari-at-the-bubble-planet.json) |
@@ -3818,6 +3820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuke Bomberman | 336681 | [336681-nuke-bomberman.json](./336681-nuke-bomberman.json) |
 | Nuke Destroyer | 97158 | [97158-nuke-destroyer.json](./97158-nuke-destroyer.json) |
 | Nuke Mine | 311467 | [311467-nuke-mine.json](./311467-nuke-mine.json) |
+| Nuke Them All | 250513 | [250513-nuke-them-all.json](./250513-nuke-them-all.json) |
 | Nuketris | 145666 | [145666-nuketris.json](./145666-nuketris.json) |
 | NukiTashi | 201846 | [201846-nukitashi.json](./201846-nukitashi.json) |
 | Nulandia | 304718 | [304718-nulandia.json](./304718-nulandia.json) |
