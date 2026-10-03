@@ -1455,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JQ: chemistry | 96633 | [96633-jq-chemistry.json](./96633-jq-chemistry.json) |
 | JQ: cosmos | 117116 | [117116-jq-cosmos.json](./117116-jq-cosmos.json) |
 | JR East Train Simulator | 215093 | [215093-jr-east-train-simulator.json](./215093-jr-east-train-simulator.json) |
+| JR East Train Simulator: Hachinohe Line (Hachinohe to Kuji) Kiha E130-500 Series | 274643 | [274643-jr-east-train-simulator-hachinohe-line-hachinohe-to-kuji-kiha-e130-500-series.json](./274643-jr-east-train-simulator-hachinohe-line-hachinohe-to-kuji-kiha-e130-500-series.json) |
 | JR EAST Train Simulator: Keiyo Line (Soga to Tokyo) E233-5000 Series | 254786 | [254786-jr-east-train-simulator-keiyo-line-soga-to-tokyo-e233-5000-series.json](./254786-jr-east-train-simulator-keiyo-line-soga-to-tokyo-e233-5000-series.json) |
 | JR East Train Simulator: Koumi Line (Kobuchizawa to Komoro) Kiha E200 series | 289465 | [289465-jr-east-train-simulator-koumi-line-kobuchizawa-to-komoro-kiha-e200-series.json](./289465-jr-east-train-simulator-koumi-line-kobuchizawa-to-komoro-kiha-e200-series.json) |
 | JR East Train Simulator: Oito Line - Matsumoto to Minami-Otari: 211 Series | 226693 | [226693-jr-east-train-simulator-oito-line-matsumoto-to-minami-otari-211-series.json](./226693-jr-east-train-simulator-oito-line-matsumoto-to-minami-otari-211-series.json) |
