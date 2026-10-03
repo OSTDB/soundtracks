@@ -620,6 +620,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ohanabatake no Flore | 332418 | [332418-ohanabatake-no-flore.json](./332418-ohanabatake-no-flore.json) |
 | Oharion | 413071 | [413071-oharion.json](./413071-oharion.json) |
 | Ohimesama: Jiku wo Koeru | 97694 | [97694-ohimesama-jiku-wo-koeru.json](./97694-ohimesama-jiku-wo-koeru.json) |
+| OHM 1 | 273570 | [273570-ohm-1.json](./273570-ohm-1.json) |
+| OHM 2 | 273571 | [273571-ohm-2.json](./273571-ohm-2.json) |
 | OhMyWitch! | 266876 | [266876-ohmywitch.json](./266876-ohmywitch.json) |
 | Ohno Odyssey | 23519 | [23519-ohno-odyssey.json](./23519-ohno-odyssey.json) |
 | Ohr Oni | 186620 | [186620-ohr-oni.json](./186620-ohr-oni.json) |
@@ -1259,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night At Herobrine's | 280446 | [280446-one-night-at-herobrines.json](./280446-one-night-at-herobrines.json) |
 | One Night Heaven: Aka to Kuro no Hitobito ni Sasagu Hommage | 282563 | [282563-one-night-heaven-aka-to-kuro-no-hitobito-ni-sasagu-hommage.json](./282563-one-night-heaven-aka-to-kuro-no-hitobito-ni-sasagu-hommage.json) |
 | One Night In 2D | 370147 | [370147-one-night-in-2d.json](./370147-one-night-in-2d.json) |
+| One Night in Kawami | 273590 | [273590-one-night-in-kawami.json](./273590-one-night-in-kawami.json) |
 | One Night of Romance With My Waifu | 375274 | [375274-one-night-of-romance-with-my-waifu.json](./375274-one-night-of-romance-with-my-waifu.json) |
 | One Night on Halloween | 153418 | [153418-one-night-on-halloween.json](./153418-one-night-on-halloween.json) |
 | One Night Too Many | 182805 | [182805-one-night-too-many.json](./182805-one-night-too-many.json) |
