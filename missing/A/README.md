@@ -2591,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akiba’s Trip: First Memory - 10th Anniversary Edition | 142373 | [142373-akiba-s-trip-first-memory-10th-anniversary-edition.json](./142373-akiba-s-trip-first-memory-10th-anniversary-edition.json) |
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
 | Akiba's Trip: Undead & Undressed - Kati Route | 204503 | [204503-akibas-trip-undead-and-undressed-kati-route.json](./204503-akibas-trip-undead-and-undressed-kati-route.json) |
+| Akihabara Dennou-gumi Pata Pies! | 247573 | [247573-akihabara-dennou-gumi-pata-pies.json](./247573-akihabara-dennou-gumi-pata-pies.json) |
 | Akihabara: Feel the Rhythm | 26770 | [26770-akihabara-feel-the-rhythm.json](./26770-akihabara-feel-the-rhythm.json) |
 | Akiiwan: Survival | 361850 | [361850-akiiwan-survival.json](./361850-akiiwan-survival.json) |
 | Akimaho! | 97383 | [97383-akimaho.json](./97383-akimaho.json) |
@@ -2739,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist's Apprentice | 341889 | [341889-alchemists-apprentice.json](./341889-alchemists-apprentice.json) |
 | Alchemist's Apprentice 2: Strength of Stones | 341901 | [341901-alchemists-apprentice-2-strength-of-stones.json](./341901-alchemists-apprentice-2-strength-of-stones.json) |
 | Alchemist's Castle | 74449 | [74449-alchemists-castle.json](./74449-alchemists-castle.json) |
+| Alchemist's Fantasy R: A Girl's Alchemic Furnace | 247665 | [247665-alchemists-fantasy-r-a-girls-alchemic-furnace.json](./247665-alchemists-fantasy-r-a-girls-alchemic-furnace.json) |
 | Alchemist's Garden | 399764 | [399764-alchemists-garden.json](./399764-alchemists-garden.json) |
 | Alchemist's Mountain | 173292 | [173292-alchemists-mountain.json](./173292-alchemists-mountain.json) |
 | Alchemist's Secret | 297059 | [297059-alchemists-secret.json](./297059-alchemists-secret.json) |
@@ -3512,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpaca Ball: Allstars - Collector's Edition | 146114 | [146114-alpaca-ball-allstars-collectors-edition.json](./146114-alpaca-ball-allstars-collectors-edition.json) |
 | Alpaca Party | 326086 | [326086-alpaca-party.json](./326086-alpaca-party.json) |
 | Alpaca Run | 62451 | [62451-alpaca-run.json](./62451-alpaca-run.json) |
+| Alpaca Sprint | 247670 | [247670-alpaca-sprint.json](./247670-alpaca-sprint.json) |
 | Alpaca Wonders Why | 280175 | [280175-alpaca-wonders-why.json](./280175-alpaca-wonders-why.json) |
 | Alpacapaca Dash 1 + 2 Bundle | 331445 | [331445-alpacapaca-dash-1-2-bundle.json](./331445-alpacapaca-dash-1-2-bundle.json) |
 | Alpacapaca Dash 2 | 331444 | [331444-alpacapaca-dash-2.json](./331444-alpacapaca-dash-2.json) |
