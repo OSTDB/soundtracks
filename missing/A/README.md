@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bibelot: Prototo | 314676 | [314676-a-bibelot-prototo.json](./314676-a-bibelot-prototo.json) |
 | A Bibelot: Y-Type | 324951 | [324951-a-bibelot-y-type.json](./324951-a-bibelot-y-type.json) |
 | A Bird's Tale | 207242 | [207242-a-birds-tale.json](./207242-a-birds-tale.json) |
+| A Birthday Present | 254033 | [254033-a-birthday-present.json](./254033-a-birthday-present.json) |
 | A Bit of Tactics | 221112 | [221112-a-bit-of-tactics.json](./221112-a-bit-of-tactics.json) |
 | A Blocky Kind of Love | 234012 | [234012-a-blocky-kind-of-love.json](./234012-a-blocky-kind-of-love.json) |
 | A Bomb's Way | 64677 | [64677-a-bombs-way.json](./64677-a-bombs-way.json) |
@@ -486,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Silent Wood | 61318 | [61318-a-silent-wood.json](./61318-a-silent-wood.json) |
 | A Simple Ball Game | 345073 | [345073-a-simple-ball-game.json](./345073-a-simple-ball-game.json) |
 | A Simple Door | 311647 | [311647-a-simple-door.json](./311647-a-simple-door.json) |
+| A Simple Expurriment | 254020 | [254020-a-simple-expurriment.json](./254020-a-simple-expurriment.json) |
 | A Simple Garbage Sorting Game | 329705 | [329705-a-simple-garbage-sorting-game.json](./329705-a-simple-garbage-sorting-game.json) |
 | A Simple Love Story | 25072 | [25072-a-simple-love-story.json](./25072-a-simple-love-story.json) |
 | A Simple Platformer | 339915 | [339915-a-simple-platformer.json](./339915-a-simple-platformer.json) |
@@ -957,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AbyssalRestaurant | 312662 | [312662-abyssalrestaurant.json](./312662-abyssalrestaurant.json) |
 | Abyssdia | 363049 | [363049-abyssdia.json](./363049-abyssdia.json) |
 | Abyssfall: Seekers Within | 337706 | [337706-abyssfall-seekers-within.json](./337706-abyssfall-seekers-within.json) |
+| Abyssmare | 254032 | [254032-abyssmare.json](./254032-abyssmare.json) |
 | Abyssopelagia | 145511 | [145511-abyssopelagia.json](./145511-abyssopelagia.json) |
 | Abyssopelagic | 382880 | [382880-abyssopelagic.json](./382880-abyssopelagic.json) |
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
@@ -2115,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Mahjong | 56534 | [56534-ai-mahjong.json](./56534-ai-mahjong.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | AI Mahjong Selection | 349952 | [349952-ai-mahjong-selection.json](./349952-ai-mahjong-selection.json) |
+| AI Olympius | 254030 | [254030-ai-olympius.json](./254030-ai-olympius.json) |
 | Ai Painter: Painting Simulator | 350489 | [350489-ai-painter-painting-simulator.json](./350489-ai-painter-painting-simulator.json) |
 | AI People | 317314 | [317314-ai-people.json](./317314-ai-people.json) |
 | AI Rebellion | 90465 | [90465-ai-rebellion.json](./90465-ai-rebellion.json) |
@@ -2147,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai-(Onic) | 197878 | [197878-ai-onic.json](./197878-ai-onic.json) |
 | AI: Rampage | 33611 | [33611-ai-rampage.json](./33611-ai-rampage.json) |
 | AI: The Somnium Files | 104971 | [104971-ai-the-somnium-files.json](./104971-ai-the-somnium-files.json) |
+| AI.Cybercraft | 254031 | [254031-ai-cybercraft.json](./254031-ai-cybercraft.json) |
 | AI.Gears: Team Tag Battle | 277312 | [277312-ai-gears-team-tag-battle.json](./277312-ai-gears-team-tag-battle.json) |
 | AI.VI | 303258 | [303258-ai-vi.json](./303258-ai-vi.json) |
 | AI2U: With You 'Til The End | 293905 | [293905-ai2u-with-you-til-the-end.json](./293905-ai2u-with-you-til-the-end.json) |
@@ -2667,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alan's Automaton Workshop | 160262 | [160262-alans-automaton-workshop.json](./160262-alans-automaton-workshop.json) |
 | Alara Prime | 207827 | [207827-alara-prime.json](./207827-alara-prime.json) |
 | Alaric | 312679 | [312679-alaric.json](./312679-alaric.json) |
+| Alaric's Quest | 254029 | [254029-alarics-quest.json](./254029-alarics-quest.json) |
 | Alarm für Cobra 11: Das Spiel zur RTL-Erfolgsserie | 125961 | [125961-alarm-fur-cobra-11-das-spiel-zur-rtl-erfolgsserie.json](./125961-alarm-fur-cobra-11-das-spiel-zur-rtl-erfolgsserie.json) |
 | Alarm für Cobra 11: Vol. III | 81170 | [81170-alarm-fur-cobra-11-vol-iii.json](./81170-alarm-fur-cobra-11-vol-iii.json) |
 | Alaska | 86767 | [86767-alaska.json](./86767-alaska.json) |
@@ -4016,6 +4022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMF Pro Bowl 3D | 93999 | [93999-amf-pro-bowl-3d.json](./93999-amf-pro-bowl-3d.json) |
 | AMFM | 315622 | [315622-amfm.json](./315622-amfm.json) |
 | Ami | 276791 | [276791-ami.json](./276791-ami.json) |
+| Amicade | 254027 | [254027-amicade.json](./254027-amicade.json) |
 | Amid Evil: Champion Edition | 263589 | [263589-amid-evil-champion-edition.json](./263589-amid-evil-champion-edition.json) |
 | Amid Evil: The Black Labyrinth | 152264 | [152264-amid-evil-the-black-labyrinth.json](./152264-amid-evil-the-black-labyrinth.json) |
 | Amid the Grid | 394824 | [394824-amid-the-grid.json](./394824-amid-the-grid.json) |
@@ -4195,6 +4202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Analemma | 68767 | [68767-analemma.json](./68767-analemma.json) |
 | Analistica Academy | 89937 | [89937-analistica-academy.json](./89937-analistica-academy.json) |
 | Analog Party Sim | 160246 | [160246-analog-party-sim.json](./160246-analog-party-sim.json) |
+| Anamnesis | 254026 | [254026-anamnesis.json](./254026-anamnesis.json) |
 | Anamorphine | 27873 | [27873-anamorphine.json](./27873-anamorphine.json) |
 | Anan Kanshuu: Onna-jikara Kinkyuu Up! DS | 269549 | [269549-anan-kanshuu-onna-jikara-kinkyuu-up-ds.json](./269549-anan-kanshuu-onna-jikara-kinkyuu-up-ds.json) |
 | Ananas: Pineapple Idle Game | 337815 | [337815-ananas-pineapple-idle-game.json](./337815-ananas-pineapple-idle-game.json) |
@@ -5324,6 +5332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ao Zora to Nakama Tachi: Yume no Bouken Plus | 44842 | [44842-ao-zora-to-nakama-tachi-yume-no-bouken-plus.json](./44842-ao-zora-to-nakama-tachi-yume-no-bouken-plus.json) |
 | Ao-Don DS: Hanabi no Goku & Hanabi no Takumi | 269649 | [269649-ao-don-ds-hanabi-no-goku-and-hanabi-no-takumi.json](./269649-ao-don-ds-hanabi-no-goku-and-hanabi-no-takumi.json) |
 | AOD | 297785 | [297785-aod.json](./297785-aod.json) |
+| Aohri's Uprising | 254023 | [254023-aohris-uprising.json](./254023-aohris-uprising.json) |
 | Aoi | 226233 | [226233-aoi.json](./226233-aoi.json) |
 | Aoi Shiro | 165554 | [165554-aoi-shiro.json](./165554-aoi-shiro.json) |
 | Aoi Sora no Neosphere Doki-doki Adventure Effective E | 408136 | [408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json](./408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json) |
@@ -5390,6 +5399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aperture Ireland | 284363 | [284363-aperture-ireland.json](./284363-aperture-ireland.json) |
 | Aperture Narbacular | 341038 | [341038-aperture-narbacular.json](./341038-aperture-narbacular.json) |
 | Aperture: Salt Mines | 284366 | [284366-aperture-salt-mines.json](./284366-aperture-salt-mines.json) |
+| Apes At Sea | 254022 | [254022-apes-at-sea.json](./254022-apes-at-sea.json) |
 | Apes Warfare | 374123 | [374123-apes-warfare.json](./374123-apes-warfare.json) |
 | Apes.io | 240311 | [240311-apes-io.json](./240311-apes-io.json) |
 | Apewar | 241939 | [241939-apewar.json](./241939-apewar.json) |
@@ -6567,6 +6577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arlo the Rabbit | 99286 | [99286-arlo-the-rabbit.json](./99286-arlo-the-rabbit.json) |
 | Arlyeh Center for Heart Diseases | 271218 | [271218-arlyeh-center-for-heart-diseases.json](./271218-arlyeh-center-for-heart-diseases.json) |
 | Arm Joe | 130876 | [130876-arm-joe.json](./130876-arm-joe.json) |
+| Arm of Satan | 254021 | [254021-arm-of-satan.json](./254021-arm-of-satan.json) |
 | Arm Wrestling | 38517 | [38517-arm-wrestling.json](./38517-arm-wrestling.json) |
 | Arma 2: Army of the Czech Republic | 15869 | [15869-arma-2-army-of-the-czech-republic.json](./15869-arma-2-army-of-the-czech-republic.json) |
 | Arma 2: British Armed Forces | 15867 | [15867-arma-2-british-armed-forces.json](./15867-arma-2-british-armed-forces.json) |
@@ -6890,6 +6901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artdink Game Log: Tail of the Sun | 377258 | [377258-artdink-game-log-tail-of-the-sun.json](./377258-artdink-game-log-tail-of-the-sun.json) |
 | Artemis | 185542 | [185542-artemis.json](./185542-artemis.json) |
 | Artemis Blue | 321543 | [321543-artemis-blue.json](./321543-artemis-blue.json) |
+| Artemis Cosmos | 254019 | [254019-artemis-cosmos.json](./254019-artemis-cosmos.json) |
 | Artemis Lutea: District Defender | 318766 | [318766-artemis-lutea-district-defender.json](./318766-artemis-lutea-district-defender.json) |
 | Artemis: Book One | 239288 | [239288-artemis-book-one.json](./239288-artemis-book-one.json) |
 | Artemishea | 150617 | [150617-artemishea.json](./150617-artemishea.json) |
@@ -7810,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Sixes and Sevens | 342771 | [342771-at-sixes-and-sevens.json](./342771-at-sixes-and-sevens.json) |
 | At Sundown: Shots in the Dark | 27998 | [27998-at-sundown-shots-in-the-dark.json](./27998-at-sundown-shots-in-the-dark.json) |
 | At the Behest of the Pike: Time to Run | 153894 | [153894-at-the-behest-of-the-pike-time-to-run.json](./153894-at-the-behest-of-the-pike-time-to-run.json) |
+| At the Dream End 2: Beyond Gods | 254018 | [254018-at-the-dream-end-2-beyond-gods.json](./254018-at-the-dream-end-2-beyond-gods.json) |
 | At the Gates of Midian | 271496 | [271496-at-the-gates-of-midian.json](./271496-at-the-gates-of-midian.json) |
 | At the Heart of the Forest | 201303 | [201303-at-the-heart-of-the-forest.json](./201303-at-the-heart-of-the-forest.json) |
 | At the Party | 203878 | [203878-at-the-party.json](./203878-at-the-party.json) |
@@ -8744,6 +8757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayakashi: Ghost Guild | 39179 | [39179-ayakashi-ghost-guild.json](./39179-ayakashi-ghost-guild.json) |
 | Ayakashi: Romance Reborn Dawn Chapter & Twilight Chapter | 147817 | [147817-ayakashi-romance-reborn-dawn-chapter-and-twilight-chapter.json](./147817-ayakashi-romance-reborn-dawn-chapter-and-twilight-chapter.json) |
 | Ayakashibito: Genyou Ibunroku | 56521 | [56521-ayakashibito-genyou-ibunroku.json](./56521-ayakashibito-genyou-ibunroku.json) |
+| Ayako's Mission | 254017 | [254017-ayakos-mission.json](./254017-ayakos-mission.json) |
 | Ayame no Machi to Ohime-sama | 194546 | [194546-ayame-no-machi-to-ohime-sama.json](./194546-ayame-no-machi-to-ohime-sama.json) |
 | Ayasa: Shadows of Silence | 319650 | [319650-ayasa-shadows-of-silence.json](./319650-ayasa-shadows-of-silence.json) |
 | Ayatana | 211291 | [211291-ayatana.json](./211291-ayatana.json) |
