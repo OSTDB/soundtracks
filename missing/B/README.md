@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Tour | 297718 | [297718-ball-tour.json](./297718-ball-tour.json) |
 | Ball Travel | 351755 | [351755-ball-travel.json](./351755-ball-travel.json) |
 | Ball Turn | 105402 | [105402-ball-turn.json](./105402-ball-turn.json) |
+| Ball und Panzer Golf | 272478 | [272478-ball-und-panzer-golf.json](./272478-ball-und-panzer-golf.json) |
 | Ball Vader MAX | 115432 | [115432-ball-vader-max.json](./115432-ball-vader-max.json) |
 | Ball vs Block | 186185 | [186185-ball-vs-block.json](./186185-ball-vs-block.json) |
 | Ball-e | 229823 | [229823-ball-e.json](./229823-ball-e.json) |
@@ -6861,6 +6862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Tales | 133867 | [133867-bounce-tales.json](./133867-bounce-tales.json) |
 | Bounce Tales 64 | 135264 | [135264-bounce-tales-64.json](./135264-bounce-tales-64.json) |
 | Bounce Time! | 233240 | [233240-bounce-time.json](./233240-bounce-time.json) |
+| Bounce Touch | 272443 | [272443-bounce-touch.json](./272443-bounce-touch.json) |
 | Bounce your Bullets! | 213310 | [213310-bounce-your-bullets.json](./213310-bounce-your-bullets.json) |
 | Bounce Zone | 84241 | [84241-bounce-zone.json](./84241-bounce-zone.json) |
 | Bounce, Swing, Slide!: 3 in 1 Bundle | 347309 | [347309-bounce-swing-slide-3-in-1-bundle.json](./347309-bounce-swing-slide-3-in-1-bundle.json) |
