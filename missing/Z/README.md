@@ -68,9 +68,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaccaria Pinball: Magic Castle Deluxe Pinball Table | 349915 | [349915-zaccaria-pinball-magic-castle-deluxe-pinball-table.json](./349915-zaccaria-pinball-magic-castle-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Master Edition | 107669 | [107669-zaccaria-pinball-master-edition.json](./107669-zaccaria-pinball-master-edition.json) |
 | Zaccaria Pinball: Moon Flight Deluxe Pinball Table | 349918 | [349918-zaccaria-pinball-moon-flight-deluxe-pinball-table.json](./349918-zaccaria-pinball-moon-flight-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Pinball Champ 2018 Table | 238018 | [238018-zaccaria-pinball-pinball-champ-2018-table.json](./238018-zaccaria-pinball-pinball-champ-2018-table.json) |
 | Zaccaria Pinball: Pinball Champ Deluxe Pinball Table | 349919 | [349919-zaccaria-pinball-pinball-champ-deluxe-pinball-table.json](./349919-zaccaria-pinball-pinball-champ-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Pool Champion 2018 Table | 156105 | [156105-zaccaria-pinball-pool-champion-2018-table.json](./156105-zaccaria-pinball-pool-champion-2018-table.json) |
 | Zaccaria Pinball: Postal 2 Table Pack | 215390 | [215390-zaccaria-pinball-postal-2-table-pack.json](./215390-zaccaria-pinball-postal-2-table-pack.json) |
+| Zaccaria Pinball: Remake Table Pack 1 | 238011 | [238011-zaccaria-pinball-remake-table-pack-1.json](./238011-zaccaria-pinball-remake-table-pack-1.json) |
+| Zaccaria Pinball: Remake Table Pack 2 | 238012 | [238012-zaccaria-pinball-remake-table-pack-2.json](./238012-zaccaria-pinball-remake-table-pack-2.json) |
 | Zaccaria Pinball: Remake Table Pack 3 | 237905 | [237905-zaccaria-pinball-remake-table-pack-3.json](./237905-zaccaria-pinball-remake-table-pack-3.json) |
 | Zaccaria Pinball: Shooting the Rapids | 156099 | [156099-zaccaria-pinball-shooting-the-rapids.json](./156099-zaccaria-pinball-shooting-the-rapids.json) |
 | Zaccaria Pinball: Shooting the Rapids - 2016 Table | 344575 | [344575-zaccaria-pinball-shooting-the-rapids-2016-table.json](./344575-zaccaria-pinball-shooting-the-rapids-2016-table.json) |
