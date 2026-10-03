@@ -1607,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De Ontdekker en het mysterie van de Diamanten Scarabee | 268124 | [268124-de-ontdekker-en-het-mysterie-van-de-diamanten-scarabee.json](./268124-de-ontdekker-en-het-mysterie-van-de-diamanten-scarabee.json) |
 | Dé_Intricate | 310534 | [310534-de-intricate.json](./310534-de-intricate.json) |
 | De-Exit: Eternal Matters | 172757 | [172757-de-exit-eternal-matters.json](./172757-de-exit-eternal-matters.json) |
+| De-Ja II | 233590 | [233590-de-ja-ii.json](./233590-de-ja-ii.json) |
 | De: Yabatanien | 145548 | [145548-de-yabatanien.json](./145548-de-yabatanien.json) |
 | De:Fanastasis | 297812 | [297812-de-fanastasis.json](./297812-de-fanastasis.json) |
 | De:Void | 135813 | [135813-de-void.json](./135813-de-void.json) |
@@ -6433,6 +6434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut Get! | 51173 | [51173-donut-get.json](./51173-donut-get.json) |
 | Donut Hockey | 373558 | [373558-donut-hockey.json](./373558-donut-hockey.json) |
 | Donut Maker | 232179 | [232179-donut-maker.json](./232179-donut-maker.json) |
+| Donut or Cookie | 233660 | [233660-donut-or-cookie.json](./233660-donut-or-cookie.json) |
 | Donut Punks | 141638 | [141638-donut-punks.json](./141638-donut-punks.json) |
 | Donut Shop Simulator | 348761 | [348761-donut-shop-simulator.json](./348761-donut-shop-simulator.json) |
 | Donuts | 263019 | [263019-donuts.json](./263019-donuts.json) |
