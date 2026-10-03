@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki: Warriors of the Shinsengumi | 44525 | [44525-hakuoki-warriors-of-the-shinsengumi.json](./44525-hakuoki-warriors-of-the-shinsengumi.json) |
 | Hakuouki Shinkai Ginsei no Shou Genteiban | 136882 | [136882-hakuouki-shinkai-ginsei-no-shou-genteiban.json](./136882-hakuouki-shinkai-ginsei-no-shou-genteiban.json) |
 | Hakuouki Shinkai: Ginsei no Shou Twin Pack | 136839 | [136839-hakuouki-shinkai-ginsei-no-shou-twin-pack.json](./136839-hakuouki-shinkai-ginsei-no-shou-twin-pack.json) |
+| Hakuouki Shinkai: Manyou no Shou | 241529 | [241529-hakuouki-shinkai-manyou-no-shou.json](./241529-hakuouki-shinkai-manyou-no-shou.json) |
 | Hakurei Frontier | 225725 | [225725-hakurei-frontier.json](./225725-hakurei-frontier.json) |
 | Hakurei Frontier Spell Strive | 225728 | [225728-hakurei-frontier-spell-strive.json](./225728-hakurei-frontier-spell-strive.json) |
 | Hal 21 | 25956 | [25956-hal-21.json](./25956-hal-21.json) |
@@ -3494,6 +3495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Girls: Quiet Beauty | 415059 | [415059-hidden-girls-quiet-beauty.json](./415059-hidden-girls-quiet-beauty.json) |
 | Hidden Girls: Tropical Vibes | 420672 | [420672-hidden-girls-tropical-vibes.json](./420672-hidden-girls-tropical-vibes.json) |
 | Hidden Harbor 2 Top-Down 3D | 226676 | [226676-hidden-harbor-2-top-down-3d.json](./226676-hidden-harbor-2-top-down-3d.json) |
+| Hidden Harbor 3 Top-Down 3D | 241417 | [241417-hidden-harbor-3-top-down-3d.json](./241417-hidden-harbor-3-top-down-3d.json) |
 | Hidden Harbor Top-Down 3D | 195247 | [195247-hidden-harbor-top-down-3d.json](./195247-hidden-harbor-top-down-3d.json) |
 | Hidden Hijinks: No Cats in the Orgy, Please! | 385805 | [385805-hidden-hijinks-no-cats-in-the-orgy-please.json](./385805-hidden-hijinks-no-cats-in-the-orgy-please.json) |
 | Hidden Horror Photo Exhibition | 399643 | [399643-hidden-horror-photo-exhibition.json](./399643-hidden-horror-photo-exhibition.json) |
@@ -3715,6 +3717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Words! | 241336 | [241336-hidden-words.json](./241336-hidden-words.json) |
 | Hidden World | 54089 | [54089-hidden-world.json](./54089-hidden-world.json) |
 | Hidden World 10 Top-Down 3D | 277826 | [277826-hidden-world-10-top-down-3d.json](./277826-hidden-world-10-top-down-3d.json) |
+| Hidden World 4 Top-Down 3D | 241531 | [241531-hidden-world-4-top-down-3d.json](./241531-hidden-world-4-top-down-3d.json) |
 | Hidden World of Art 2 | 126667 | [126667-hidden-world-of-art-2.json](./126667-hidden-world-of-art-2.json) |
 | Hidden World of Art 4 | 294848 | [294848-hidden-world-of-art-4.json](./294848-hidden-world-of-art-4.json) |
 | Hidden World Top-Down 3D | 192466 | [192466-hidden-world-top-down-3d.json](./192466-hidden-world-top-down-3d.json) |
