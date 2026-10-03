@@ -1244,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Bears VR | 34719 | [34719-water-bears-vr.json](./34719-water-bears-vr.json) |
 | Water Bugs | 73218 | [73218-water-bugs.json](./73218-water-bugs.json) |
 | Water Castle | 268473 | [268473-water-castle.json](./268473-water-castle.json) |
+| Water Chaos | 236877 | [236877-water-chaos.json](./236877-water-chaos.json) |
 | Water City | 268472 | [268472-water-city.json](./268472-water-city.json) |
 | Water Clock | 106620 | [106620-water-clock.json](./106620-water-clock.json) |
 | Water Connect Puzzle | 213379 | [213379-water-connect-puzzle.json](./213379-water-connect-puzzle.json) |
