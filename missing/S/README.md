@@ -5291,6 +5291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Seeker | 209159 | [209159-silent-seeker.json](./209159-silent-seeker.json) |
 | Silent Shadow | 123007 | [123007-silent-shadow.json](./123007-silent-shadow.json) |
 | Silent Shark | 404429 | [404429-silent-shark.json](./404429-silent-shark.json) |
+| Silent Shores | 253506 | [253506-silent-shores.json](./253506-silent-shores.json) |
 | Silent Slayer: Vault of the Vampire | 251562 | [251562-silent-slayer-vault-of-the-vampire.json](./251562-silent-slayer-vault-of-the-vampire.json) |
 | Silent Snow | 384152 | [384152-silent-snow.json](./384152-silent-snow.json) |
 | Silent Sonata | 284483 | [284483-silent-sonata.json](./284483-silent-sonata.json) |
@@ -10672,6 +10673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Defender | 215715 | [215715-spell-defender.json](./215715-spell-defender.json) |
 | Spell Disk | 240803 | [240803-spell-disk.json](./240803-spell-disk.json) |
 | Spell Disk Survivor | 259580 | [259580-spell-disk-survivor.json](./259580-spell-disk-survivor.json) |
+| Spell Hell | 253518 | [253518-spell-hell.json](./253518-spell-hell.json) |
 | Spell Karts | 139304 | [139304-spell-karts.json](./139304-spell-karts.json) |
 | Spell Legion | 258649 | [258649-spell-legion.json](./258649-spell-legion.json) |
 | Spell Magic | 348874 | [348874-spell-magic.json](./348874-spell-magic.json) |
