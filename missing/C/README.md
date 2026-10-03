@@ -1433,12 +1433,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carry the Count | 414477 | [414477-carry-the-count.json](./414477-carry-the-count.json) |
 | Carry The Glass | 319399 | [319399-carry-the-glass.json](./319399-carry-the-glass.json) |
 | Carry the Pack Rack | 389711 | [389711-carry-the-pack-rack.json](./389711-carry-the-pack-rack.json) |
+| Cars | 230423 | [230423-cars.json](./230423-cars.json) |
 | Cars | 243201 | [243201-cars.json](./243201-cars.json) |
 | Cars | 243205 | [243205-cars.json](./243205-cars.json) |
 | Cars | 243206 | [243206-cars.json](./243206-cars.json) |
 | Cars | 3849 | [3849-cars.json](./3849-cars.json) |
 | Cars 2 | 210274 | [210274-cars-2.json](./210274-cars-2.json) |
 | Cars 2 | 220080 | [220080-cars-2.json](./220080-cars-2.json) |
+| Cars 2 | 230345 | [230345-cars-2.json](./230345-cars-2.json) |
 | Cars 2 | 230555 | [230555-cars-2.json](./230555-cars-2.json) |
 | Cars 2 Racing Beena: Mezase! World Champion! | 125323 | [125323-cars-2-racing-beena-mezase-world-champion.json](./125323-cars-2-racing-beena-mezase-world-champion.json) |
 | Cars 3: Driven to Win | 28075 | [28075-cars-3-driven-to-win.json](./28075-cars-3-driven-to-win.json) |
@@ -2228,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catrap | 7820 | [7820-catrap.json](./7820-catrap.json) |
 | Catroom Drama: Case 2 | 183953 | [183953-catroom-drama-case-2.json](./183953-catroom-drama-case-2.json) |
 | CatRoots | 130334 | [130334-catroots.json](./130334-catroots.json) |
+| Catrophy Trail | 230346 | [230346-catrophy-trail.json](./230346-catrophy-trail.json) |
 | CatRunner 2022 | 299902 | [299902-catrunner-2022.json](./299902-catrunner-2022.json) |
 | Cats | 301856 | [301856-cats.json](./301856-cats.json) |
 | Cats & Castles | 260182 | [260182-cats-and-castles.json](./260182-cats-and-castles.json) |
