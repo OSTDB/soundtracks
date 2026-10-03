@@ -4174,6 +4174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Angels: Fates Allegiance | 75215 | [75215-rising-angels-fates-allegiance.json](./75215-rising-angels-fates-allegiance.json) |
 | Rising Army | 302925 | [302925-rising-army.json](./302925-rising-army.json) |
 | Rising Board 3D | 23675 | [23675-rising-board-3d.json](./23675-rising-board-3d.json) |
+| Rising City | 236875 | [236875-rising-city.json](./236875-rising-city.json) |
 | Rising Constellation | 139367 | [139367-rising-constellation.json](./139367-rising-constellation.json) |
 | Rising Dead | 265125 | [265125-rising-dead.json](./265125-rising-dead.json) |
 | Rising Fire | 112515 | [112515-rising-fire.json](./112515-rising-fire.json) |
@@ -4506,6 +4507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robbery Day | 334206 | [334206-robbery-day.json](./334206-robbery-day.json) |
 | Robbery Madness: Thief Games | 219782 | [219782-robbery-madness-thief-games.json](./219782-robbery-madness-thief-games.json) |
 | Robbie Swifthand and the Orb of Mysteries | 76404 | [76404-robbie-swifthand-and-the-orb-of-mysteries.json](./76404-robbie-swifthand-and-the-orb-of-mysteries.json) |
+| Robbie's Tale | 236890 | [236890-robbies-tale.json](./236890-robbies-tale.json) |
 | Robbo | 60071 | [60071-robbo.json](./60071-robbo.json) |
 | Robbotto | 106804 | [106804-robbotto.json](./106804-robbotto.json) |
 | Robby's Day Out | 181850 | [181850-robbys-day-out.json](./181850-robbys-day-out.json) |
@@ -5763,6 +5765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotate: Collective | 258611 | [258611-rotate-collective.json](./258611-rotate-collective.json) |
 | RotatePDF: A Corporate Tale | 214446 | [214446-rotatepdf-a-corporate-tale.json](./214446-rotatepdf-a-corporate-tale.json) |
 | Rotatex | 118778 | [118778-rotatex.json](./118778-rotatex.json) |
+| Rotatex 3 | 236898 | [236898-rotatex-3.json](./236898-rotatex-3.json) |
 | Rotating Bones | 188010 | [188010-rotating-bones.json](./188010-rotating-bones.json) |
 | Rotating Roads | 307761 | [307761-rotating-roads.json](./307761-rotating-roads.json) |
 | Rotation Phonology: Break | 26843 | [26843-rotation-phonology-break.json](./26843-rotation-phonology-break.json) |
