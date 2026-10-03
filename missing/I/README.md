@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immersion Pack: Europa Universalis IV - Origins | 246898 | [246898-immersion-pack-europa-universalis-iv-origins.json](./246898-immersion-pack-europa-universalis-iv-origins.json) |
 | Immersive Engineering | 232715 | [232715-immersive-engineering.json](./232715-immersive-engineering.json) |
 | Immersive Horror Room: Hospital Escape Terror | 52003 | [52003-immersive-horror-room-hospital-escape-terror.json](./52003-immersive-horror-room-hospital-escape-terror.json) |
+| Immersive Jurassic World Roller Coaster VR | 250491 | [250491-immersive-jurassic-world-roller-coaster-vr.json](./250491-immersive-jurassic-world-roller-coaster-vr.json) |
 | Immoral Quartet | 147316 | [147316-immoral-quartet.json](./147316-immoral-quartet.json) |
 | Immoral Shadows | 236829 | [236829-immoral-shadows.json](./236829-immoral-shadows.json) |
 | Immoral Ward | 22483 | [22483-immoral-ward.json](./22483-immoral-ward.json) |
