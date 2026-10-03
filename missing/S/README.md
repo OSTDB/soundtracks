@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SakaTsuku Tokudai-gou 2: J.League Pro Soccer Club wo Tsukurou! | 392777 | [392777-sakatsuku-tokudai-gou-2-j-league-pro-soccer-club-wo-tsukurou.json](./392777-sakatsuku-tokudai-gou-2-j-league-pro-soccer-club-wo-tsukurou.json) |
 | Sakatsuku: Pro Soccer Club wo Tsukurou! | 63298 | [63298-sakatsuku-pro-soccer-club-wo-tsukurou.json](./63298-sakatsuku-pro-soccer-club-wo-tsukurou.json) |
 | Sakeretsu | 37393 | [37393-sakeretsu.json](./37393-sakeretsu.json) |
+| Sakeworld | 249916 | [249916-sakeworld.json](./249916-sakeworld.json) |
 | Saki: Achiga-Hen Episode of Side-A Portable | 135902 | [135902-saki-achiga-hen-episode-of-side-a-portable.json](./135902-saki-achiga-hen-episode-of-side-a-portable.json) |
 | Sakigake!! Otokojuku | 64112 | [64112-sakigake-otokojuku.json](./64112-sakigake-otokojuku.json) |
 | Sakigake!! Otokojuku: Meikoushima Kessen | 64113 | [64113-sakigake-otokojuku-meikoushima-kessen.json](./64113-sakigake-otokojuku-meikoushima-kessen.json) |
@@ -2859,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinels of the Multiverse: Vengeance | 169969 | [169969-sentinels-of-the-multiverse-vengeance.json](./169969-sentinels-of-the-multiverse-vengeance.json) |
 | Sentinels of the Multiverse: Villains of the Multiverse | 170412 | [170412-sentinels-of-the-multiverse-villains-of-the-multiverse.json](./170412-sentinels-of-the-multiverse-villains-of-the-multiverse.json) |
 | Sentinels of the Multiverse: Wrath of the Cosmos | 170415 | [170415-sentinels-of-the-multiverse-wrath-of-the-cosmos.json](./170415-sentinels-of-the-multiverse-wrath-of-the-cosmos.json) |
+| Sentinent Steel | 249921 | [249921-sentinent-steel.json](./249921-sentinent-steel.json) |
 | Sento Survivor: Slip, Grab, and Bathe in Glory! | 390231 | [390231-sento-survivor-slip-grab-and-bathe-in-glory.json](./390231-sento-survivor-slip-grab-and-bathe-in-glory.json) |
 | Sentou Gakuen: Revival | 34388 | [34388-sentou-gakuen-revival.json](./34388-sentou-gakuen-revival.json) |
 | Sentou Kokka Kai Improved | 166547 | [166547-sentou-kokka-kai-improved.json](./166547-sentou-kokka-kai-improved.json) |
@@ -7640,6 +7642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Ghost Warrior Contracts: Steam Mist Weapon Skin | 370321 | [370321-sniper-ghost-warrior-contracts-steam-mist-weapon-skin.json](./370321-sniper-ghost-warrior-contracts-steam-mist-weapon-skin.json) |
 | Sniper Ghost Warrior Contracts: World Flags Skin Pack | 370319 | [370319-sniper-ghost-warrior-contracts-world-flags-skin-pack.json](./370319-sniper-ghost-warrior-contracts-world-flags-skin-pack.json) |
 | Sniper Hunter Shooter | 264581 | [264581-sniper-hunter-shooter.json](./264581-sniper-hunter-shooter.json) |
+| Sniper Killer | 249933 | [249933-sniper-killer.json](./249933-sniper-killer.json) |
 | Sniper Master: City Hunter | 227482 | [227482-sniper-master-city-hunter.json](./227482-sniper-master-city-hunter.json) |
 | Sniper Ops 3D | 88297 | [88297-sniper-ops-3d.json](./88297-sniper-ops-3d.json) |
 | Sniper Rescue | 291172 | [291172-sniper-rescue.json](./291172-sniper-rescue.json) |
