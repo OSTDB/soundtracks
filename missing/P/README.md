@@ -2252,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Dark | 1463 | [1463-perfect-dark.json](./1463-perfect-dark.json) |
 | Perfect Dark | 1464 | [1464-perfect-dark.json](./1464-perfect-dark.json) |
 | Perfect Dark | 1466 | [1466-perfect-dark.json](./1466-perfect-dark.json) |
+| Perfect Dark PC Port | 271424 | [271424-perfect-dark-pc-port.json](./271424-perfect-dark-pc-port.json) |
 | Perfect Dark Zero | 1465 | [1465-perfect-dark-zero.json](./1465-perfect-dark-zero.json) |
 | Perfect Dark Zero | 292158 | [292158-perfect-dark-zero.json](./292158-perfect-dark-zero.json) |
 | Perfect Dark Zero: Collector's Edition | 41596 | [41596-perfect-dark-zero-collectors-edition.json](./41596-perfect-dark-zero-collectors-edition.json) |
@@ -4799,6 +4800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plates | 32188 | [32188-plates.json](./32188-plates.json) |
 | PlateUp!: Collector's Edition | 247191 | [247191-plateup-collectors-edition.json](./247191-plateup-collectors-edition.json) |
 | Platform | 316717 | [316717-platform.json](./316717-platform.json) |
+| Platform 10 | 271384 | [271384-platform-10.json](./271384-platform-10.json) |
 | Platform 4 | 326257 | [326257-platform-4.json](./326257-platform-4.json) |
 | Platform 6 Online | 379004 | [379004-platform-6-online.json](./379004-platform-6-online.json) |
 | Platform 9: No Way Out | 324129 | [324129-platform-9-no-way-out.json](./324129-platform-9-no-way-out.json) |
