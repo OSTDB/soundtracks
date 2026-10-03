@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abduction Episode 1: Her Name Was Sarah | 32170 | [32170-abduction-episode-1-her-name-was-sarah.json](./32170-abduction-episode-1-her-name-was-sarah.json) |
 | Abduction Escape | 337117 | [337117-abduction-escape.json](./337117-abduction-escape.json) |
 | Abduction Prologue: The Story Of Jonathan Blake | 82096 | [82096-abduction-prologue-the-story-of-jonathan-blake.json](./82096-abduction-prologue-the-story-of-jonathan-blake.json) |
+| Abduction! | 241448 | [241448-abduction.json](./241448-abduction.json) |
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
 | Abenteuer Landtag 2 | 135093 | [135093-abenteuer-landtag-2.json](./135093-abenteuer-landtag-2.json) |
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
@@ -7338,6 +7339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Mirage: Master Assassin Upgrade Bundle 1 | 360572 | [360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json](./360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json) |
 | Assassin's Creed Mythology Pack | 218994 | [218994-assassins-creed-mythology-pack.json](./218994-assassins-creed-mythology-pack.json) |
 | Assassin's Creed Odyssey: Legacy of the First Blade | 112732 | [112732-assassins-creed-odyssey-legacy-of-the-first-blade.json](./112732-assassins-creed-odyssey-legacy-of-the-first-blade.json) |
+| Assassin's Creed Odyssey: The Blind King | 241432 | [241432-assassins-creed-odyssey-the-blind-king.json](./241432-assassins-creed-odyssey-the-blind-king.json) |
 | Assassin's Creed Odyssey: The Fate of Atlantis | 113098 | [113098-assassins-creed-odyssey-the-fate-of-atlantis.json](./113098-assassins-creed-odyssey-the-fate-of-atlantis.json) |
 | Assassin's Creed Odyssey: The Fate of Atlantis - Episode 1: Fields of Elysium | 327929 | [327929-assassins-creed-odyssey-the-fate-of-atlantis-episode-1-fields-of-elysium.json](./327929-assassins-creed-odyssey-the-fate-of-atlantis-episode-1-fields-of-elysium.json) |
 | Assassin's Creed Odyssey: The Fate of Atlantis - Episode 2: Torment of Hades | 327927 | [327927-assassins-creed-odyssey-the-fate-of-atlantis-episode-2-torment-of-hades.json](./327927-assassins-creed-odyssey-the-fate-of-atlantis-episode-2-torment-of-hades.json) |
@@ -8632,6 +8634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid | 152135 | [152135-avoid.json](./152135-avoid.json) |
 | Avoid | 177406 | [177406-avoid.json](./177406-avoid.json) |
 | Avoid Ahoge | 179606 | [179606-avoid-ahoge.json](./179606-avoid-ahoge.json) |
+| Avoid It! | 241420 | [241420-avoid-it.json](./241420-avoid-it.json) |
 | Avoid the Awful Thing that Vaguely Resembles a Banana!! | 69312 | [69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json](./69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json) |
 | Avoid the Monsters | 54450 | [54450-avoid-the-monsters.json](./54450-avoid-the-monsters.json) |
 | Avoid the Noid | 14445 | [14445-avoid-the-noid.json](./14445-avoid-the-noid.json) |
