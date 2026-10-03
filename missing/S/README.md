@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sadame | 19980 | [19980-sadame.json](./19980-sadame.json) |
 | Sadboy | 113682 | [113682-sadboy.json](./113682-sadboy.json) |
 | Saddies: Attack!! | 60610 | [60610-saddies-attack.json](./60610-saddies-attack.json) |
+| Saddle Up and Drive | 258123 | [258123-saddle-up-and-drive.json](./258123-saddle-up-and-drive.json) |
 | Saddle Up: Time to Ride | 64114 | [64114-saddle-up-time-to-ride.json](./64114-saddle-up-time-to-ride.json) |
 | Sadhana | 364598 | [364598-sadhana.json](./364598-sadhana.json) |
 | Sadist II: Ostatni Krzyk | 404380 | [404380-sadist-ii-ostatni-krzyk.json](./404380-sadist-ii-ostatni-krzyk.json) |
@@ -5262,6 +5263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Paradise | 401796 | [401796-silent-paradise.json](./401796-silent-paradise.json) |
 | Silent Paradise Anthology | 402901 | [402901-silent-paradise-anthology.json](./402901-silent-paradise-anthology.json) |
 | Silent Paws: Hidden Valley | 264006 | [264006-silent-paws-hidden-valley.json](./264006-silent-paws-hidden-valley.json) |
+| Silent Rain | 258078 | [258078-silent-rain.json](./258078-silent-rain.json) |
 | Silent Reel | 367979 | [367979-silent-reel.json](./367979-silent-reel.json) |
 | Silent Residence | 362402 | [362402-silent-residence.json](./362402-silent-residence.json) |
 | Silent Ruins | 183520 | [183520-silent-ruins.json](./183520-silent-ruins.json) |
