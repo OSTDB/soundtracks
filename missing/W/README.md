@@ -4180,6 +4180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Heroes Supreme Justice Extra | 358960 | [358960-world-heroes-supreme-justice-extra.json](./358960-world-heroes-supreme-justice-extra.json) |
 | World History Quiz: Cavemen to Democracy | 72180 | [72180-world-history-quiz-cavemen-to-democracy.json](./72180-world-history-quiz-cavemen-to-democracy.json) |
 | World Hunter | 60634 | [60634-world-hunter.json](./60634-world-hunter.json) |
+| World in a Moment | 229759 | [229759-world-in-a-moment.json](./229759-world-in-a-moment.json) |
 | World in Conflict: Soviet Assault | 9338 | [9338-world-in-conflict-soviet-assault.json](./9338-world-in-conflict-soviet-assault.json) |
 | World is Lava | 376713 | [376713-world-is-lava.json](./376713-world-is-lava.json) |
 | World Karate Championship | 79620 | [79620-world-karate-championship.json](./79620-world-karate-championship.json) |
