@@ -3482,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Skimmer | 37186 | [37186-shadow-skimmer.json](./37186-shadow-skimmer.json) |
 | Shadow Spotter | 231653 | [231653-shadow-spotter.json](./231653-shadow-spotter.json) |
 | Shadow Squadron | 19763 | [19763-shadow-squadron.json](./19763-shadow-squadron.json) |
+| Shadow Stalker | 251721 | [251721-shadow-stalker.json](./251721-shadow-stalker.json) |
 | Shadow Stalker | 264319 | [264319-shadow-stalker.json](./264319-shadow-stalker.json) |
 | Shadow Storm | 331312 | [331312-shadow-storm.json](./331312-shadow-storm.json) |
 | Shadow Strikers | 270194 | [270194-shadow-strikers.json](./270194-shadow-strikers.json) |
@@ -4435,6 +4436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ships | 187826 | [187826-ships.json](./187826-ships.json) |
 | Ships 2022 | 148897 | [148897-ships-2022.json](./148897-ships-2022.json) |
 | Ships 3D | 321755 | [321755-ships-3d.json](./321755-ships-3d.json) |
+| Ships at Sea | 251741 | [251741-ships-at-sea.json](./251741-ships-at-sea.json) |
 | Ships N' Battles | 13097 | [13097-ships-n-battles.json](./13097-ships-n-battles.json) |
 | Ships of Battle Age of Pirates | 235296 | [235296-ships-of-battle-age-of-pirates.json](./235296-ships-of-battle-age-of-pirates.json) |
 | Ships Simulator | 229181 | [229181-ships-simulator.json](./229181-ships-simulator.json) |
@@ -8306,6 +8308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Dozen Gold | 146916 | [146916-solitaire-dozen-gold.json](./146916-solitaire-dozen-gold.json) |
 | Solitaire Egypt | 25063 | [25063-solitaire-egypt.json](./25063-solitaire-egypt.json) |
 | Solitaire Epic | 53628 | [53628-solitaire-epic.json](./53628-solitaire-epic.json) |
+| Solitaire Family World | 251734 | [251734-solitaire-family-world.json](./251734-solitaire-family-world.json) |
 | Solitaire Fish Klondike | 220047 | [220047-solitaire-fish-klondike.json](./220047-solitaire-fish-klondike.json) |
 | Solitaire Freecell - card game | 88414 | [88414-solitaire-freecell-card-game.json](./88414-solitaire-freecell-card-game.json) |
 | Solitaire Grand Harvest | 321601 | [321601-solitaire-grand-harvest.json](./321601-solitaire-grand-harvest.json) |
@@ -16988,6 +16991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercharged | 263755 | [263755-supercharged.json](./263755-supercharged.json) |
 | Supercharged Robot Vulkaiser | 20019 | [20019-supercharged-robot-vulkaiser.json](./20019-supercharged-robot-vulkaiser.json) |
 | Supercharged! | 69241 | [69241-supercharged.json](./69241-supercharged.json) |
+| Supercooked! | 251711 | [251711-supercooked.json](./251711-supercooked.json) |
 | SuperCowBoy | 339479 | [339479-supercowboy.json](./339479-supercowboy.json) |
 | Supercross Freestyle | 50069 | [50069-supercross-freestyle.json](./50069-supercross-freestyle.json) |
 | SuperCTF | 151123 | [151123-superctf.json](./151123-superctf.json) |
@@ -17202,6 +17206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sura: Shattered Star | 412474 | [412474-sura-shattered-star.json](./412474-sura-shattered-star.json) |
 | Surabaya Inferno | 150676 | [150676-surabaya-inferno.json](./150676-surabaya-inferno.json) |
 | Surbird | 292555 | [292555-surbird.json](./292555-surbird.json) |
+| Sure Instinct | 251713 | [251713-sure-instinct.json](./251713-sure-instinct.json) |
 | Sure Shot | 355543 | [355543-sure-shot.json](./355543-sure-shot.json) |
 | Surf 'm Up! | 77331 | [77331-surf-m-up.json](./77331-surf-m-up.json) |
 | Surf 'n Safari | 93574 | [93574-surf-n-safari.json](./93574-surf-n-safari.json) |
@@ -18104,6 +18109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syde Rugby League Simulator | 163837 | [163837-syde-rugby-league-simulator.json](./163837-syde-rugby-league-simulator.json) |
 | Sydless | 345576 | [345576-sydless.json](./345576-sydless.json) |
 | Sydney and the Cicadas in: Immanentize | 339426 | [339426-sydney-and-the-cicadas-in-immanentize.json](./339426-sydney-and-the-cicadas-in-immanentize.json) |
+| Sydney Hunter Collection | 251715 | [251715-sydney-hunter-collection.json](./251715-sydney-hunter-collection.json) |
 | Syke | 295522 | [295522-syke.json](./295522-syke.json) |
 | SyLestia | 125957 | [125957-sylestia.json](./125957-sylestia.json) |
 | Sylox | 357388 | [357388-sylox.json](./357388-sylox.json) |
