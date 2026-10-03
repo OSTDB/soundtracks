@@ -2957,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Big Workshop | 124131 | [124131-little-big-workshop.json](./124131-little-big-workshop.json) |
 | Little Bill Thinks Big | 71805 | [71805-little-bill-thinks-big.json](./71805-little-bill-thinks-big.json) |
 | Little Bit War | 147259 | [147259-little-bit-war.json](./147259-little-bit-war.json) |
+| Little Bo Reap | 244308 | [244308-little-bo-reap.json](./244308-little-bo-reap.json) |
 | Little Boats of Farewell | 193730 | [193730-little-boats-of-farewell.json](./193730-little-boats-of-farewell.json) |
 | Little Boo and the Spectral Orbs | 386232 | [386232-little-boo-and-the-spectral-orbs.json](./386232-little-boo-and-the-spectral-orbs.json) |
 | Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
@@ -4612,6 +4613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Lodgings: Autumn Edition | 402310 | [402310-lovely-lodgings-autumn-edition.json](./402310-lovely-lodgings-autumn-edition.json) |
 | Lovely Magicals! | 364486 | [364486-lovely-magicals.json](./364486-lovely-magicals.json) |
 | Lovely Moments: Dad and Daughter | 203802 | [203802-lovely-moments-dad-and-daughter.json](./203802-lovely-moments-dad-and-daughter.json) |
+| Lovely Neko Girl | 244302 | [244302-lovely-neko-girl.json](./244302-lovely-neko-girl.json) |
 | Lovely Nurse | 245823 | [245823-lovely-nurse.json](./245823-lovely-nurse.json) |
 | Lovely Plains | 217402 | [217402-lovely-plains.json](./217402-lovely-plains.json) |
 | Lovely Planet | 14326 | [14326-lovely-planet.json](./14326-lovely-planet.json) |
