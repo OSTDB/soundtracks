@@ -5276,6 +5276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Greenening | 339972 | [339972-the-greenening.json](./339972-the-greenening.json) |
 | The Greenskins | 74374 | [74374-the-greenskins.json](./74374-the-greenskins.json) |
 | The Grey Company | 362324 | [362324-the-grey-company.json](./362324-the-grey-company.json) |
+| The Grey Dream | 260325 | [260325-the-grey-dream.json](./260325-the-grey-dream.json) |
 | The Grid | 407546 | [407546-the-grid.json](./407546-the-grid.json) |
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
 | The Grim and I | 120837 | [120837-the-grim-and-i.json](./120837-the-grim-and-i.json) |
@@ -7927,6 +7928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revenant Prince | 129761 | [129761-the-revenant-prince.json](./129761-the-revenant-prince.json) |
 | The Revenge of Mr.Samuel | 199381 | [199381-the-revenge-of-mr-samuel.json](./199381-the-revenge-of-mr-samuel.json) |
 | The Revenge of Shinobi | 10222 | [10222-the-revenge-of-shinobi.json](./10222-the-revenge-of-shinobi.json) |
+| The Revenge of Tungsten | 260329 | [260329-the-revenge-of-tungsten.json](./260329-the-revenge-of-tungsten.json) |
 | The Revived Throne | 249249 | [249249-the-revived-throne.json](./249249-the-revived-throne.json) |
 | The Revolt: Massing | 193884 | [193884-the-revolt-massing.json](./193884-the-revolt-massing.json) |
 | The Reward of Cherishment and Eternity. | 329199 | [329199-the-reward-of-cherishment-and-eternity.json](./329199-the-reward-of-cherishment-and-eternity.json) |
@@ -11633,6 +11635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time of Heroes | 341087 | [341087-time-of-heroes.json](./341087-time-of-heroes.json) |
 | Time of Shadows | 90468 | [90468-time-of-shadows.json](./90468-time-of-shadows.json) |
 | Time of Sorrow | 316606 | [316606-time-of-sorrow.json](./316606-time-of-sorrow.json) |
+| Time of the Wizard | 260308 | [260308-time-of-the-wizard.json](./260308-time-of-the-wizard.json) |
 | Time of the Zombies | 113657 | [113657-time-of-the-zombies.json](./113657-time-of-the-zombies.json) |
 | Time of War | 27638 | [27638-time-of-war.json](./27638-time-of-war.json) |
 | Time on Frog Island: Prologue | 209641 | [209641-time-on-frog-island-prologue.json](./209641-time-on-frog-island-prologue.json) |
@@ -12190,6 +12193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To End All Wars: Breaking the Deadlock | 171955 | [171955-to-end-all-wars-breaking-the-deadlock.json](./171955-to-end-all-wars-breaking-the-deadlock.json) |
 | To Fight | 274116 | [274116-to-fight.json](./274116-to-fight.json) |
 | To Fight The Sea | 333704 | [333704-to-fight-the-sea.json](./333704-to-fight-the-sea.json) |
+| To Have and to Hold | 260317 | [260317-to-have-and-to-hold.json](./260317-to-have-and-to-hold.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
 | To Hell With the Ugly | 158137 | [158137-to-hell-with-the-ugly.json](./158137-to-hell-with-the-ugly.json) |
 | To Kill A Black Swan | 183371 | [183371-to-kill-a-black-swan.json](./183371-to-kill-a-black-swan.json) |
@@ -13582,6 +13586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Red Empress Devil | 225180 | [225180-touhou-red-empress-devil.json](./225180-touhou-red-empress-devil.json) |
 | Touhou: Sougetsu-tou | 284603 | [284603-touhou-sougetsu-tou.json](./284603-touhou-sougetsu-tou.json) |
 | Touhou: Tales of the Scarlet | 379443 | [379443-touhou-tales-of-the-scarlet.json](./379443-touhou-tales-of-the-scarlet.json) |
+| Touhou: The Unreachable Oneiroborder | 260319 | [260319-touhou-the-unreachable-oneiroborder.json](./260319-touhou-the-unreachable-oneiroborder.json) |
 | Touhou: Unmei no Hoshi | 181928 | [181928-touhou-unmei-no-hoshi.json](./181928-touhou-unmei-no-hoshi.json) |
 | Touhou: Wandering Souls | 304110 | [304110-touhou-wandering-souls.json](./304110-touhou-wandering-souls.json) |
 | Touhoumon World Link | 279679 | [279679-touhoumon-world-link.json](./279679-touhoumon-world-link.json) |
@@ -15958,6 +15963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth in Turbulent | 308891 | [308891-truth-in-turbulent.json](./308891-truth-in-turbulent.json) |
 | Truth Loop | 218735 | [218735-truth-loop.json](./218735-truth-loop.json) |
 | Truth Loop 2 | 246120 | [246120-truth-loop-2.json](./246120-truth-loop-2.json) |
+| Truth of Beauty Witch: Marine's Treasure Ship | 260291 | [260291-truth-of-beauty-witch-marines-treasure-ship.json](./260291-truth-of-beauty-witch-marines-treasure-ship.json) |
 | Truth of Falchion | 95203 | [95203-truth-of-falchion.json](./95203-truth-of-falchion.json) |
 | Truth or Dare | 91133 | [91133-truth-or-dare.json](./91133-truth-or-dare.json) |
 | Truth or Dare Party | 86909 | [86909-truth-or-dare-party.json](./86909-truth-or-dare-party.json) |
