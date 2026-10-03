@@ -1735,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Of The Dark | 308244 | [308244-fear-of-the-dark.json](./308244-fear-of-the-dark.json) |
 | Fear or Evil: Nightmare Horror Scary Game Phobia 2023 Simulator Hunter Games | 241401 | [241401-fear-or-evil-nightmare-horror-scary-game-phobia-2023-simulator-hunter-games.json](./241401-fear-or-evil-nightmare-horror-scary-game-phobia-2023-simulator-hunter-games.json) |
 | Fear Protocol: Shadow Paradigm | 163187 | [163187-fear-protocol-shadow-paradigm.json](./163187-fear-protocol-shadow-paradigm.json) |
+| Fear Station Bravo | 273542 | [273542-fear-station-bravo.json](./273542-fear-station-bravo.json) |
 | Fear surrounds | 143693 | [143693-fear-surrounds.json](./143693-fear-surrounds.json) |
 | Fear Survival | 174650 | [174650-fear-survival.json](./174650-fear-survival.json) |
 | Fear Tall Grass | 399074 | [399074-fear-tall-grass.json](./399074-fear-tall-grass.json) |
@@ -4018,6 +4019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor is...What!? | 189135 | [189135-floor-is-what.json](./189135-floor-is-what.json) |
 | Floor Observer | 284437 | [284437-floor-observer.json](./284437-floor-observer.json) |
 | Floor Plan Puzzle (Red Room Simulator) | 347321 | [347321-floor-plan-puzzle-red-room-simulator.json](./347321-floor-plan-puzzle-red-room-simulator.json) |
+| Floor Plan Remastered | 273589 | [273589-floor-plan-remastered.json](./273589-floor-plan-remastered.json) |
 | Floor Plan: Hands-On Edition | 55801 | [55801-floor-plan-hands-on-edition.json](./55801-floor-plan-hands-on-edition.json) |
 | Floor Wiping Race | 420674 | [420674-floor-wiping-race.json](./420674-floor-wiping-race.json) |
 | Floor X | 323263 | [323263-floor-x.json](./323263-floor-x.json) |
@@ -4949,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forknite | 313201 | [313201-forknite.json](./313201-forknite.json) |
 | Forks & Daggers | 380676 | [380676-forks-and-daggers.json](./380676-forks-and-daggers.json) |
 | Forlands | 303183 | [303183-forlands.json](./303183-forlands.json) |
+| Forlorn | 273555 | [273555-forlorn.json](./273555-forlorn.json) |
 | Forlorn | 280804 | [280804-forlorn.json](./280804-forlorn.json) |
 | Forlorn Memories | 214761 | [214761-forlorn-memories.json](./214761-forlorn-memories.json) |
 | Forlorn Outcast | 260226 | [260226-forlorn-outcast.json](./260226-forlorn-outcast.json) |
