@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valentino Rossi: The Game - MotoGP Legendary Bikes | 167849 | [167849-valentino-rossi-the-game-motogp-legendary-bikes.json](./167849-valentino-rossi-the-game-motogp-legendary-bikes.json) |
 | Valentino Rossi: The Game - Real Events: 2015 MotoGP Season | 168360 | [168360-valentino-rossi-the-game-real-events-2015-motogp-season.json](./168360-valentino-rossi-the-game-real-events-2015-motogp-season.json) |
 | Valentino Rossi: The Game - Special Edition | 118940 | [118940-valentino-rossi-the-game-special-edition.json](./118940-valentino-rossi-the-game-special-edition.json) |
+| Valeria the Pagan Priestess | 249341 | [249341-valeria-the-pagan-priestess.json](./249341-valeria-the-pagan-priestess.json) |
 | Valerian Tales | 104038 | [104038-valerian-tales.json](./104038-valerian-tales.json) |
 | Valerie | 337109 | [337109-valerie.json](./337109-valerie.json) |
 | Valerie Porter and the Scarlet Scandal | 27881 | [27881-valerie-porter-and-the-scarlet-scandal.json](./27881-valerie-porter-and-the-scarlet-scandal.json) |
@@ -197,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla Knights 2: Battle Stance | 142322 | [142322-valhalla-knights-2-battle-stance.json](./142322-valhalla-knights-2-battle-stance.json) |
 | Valhalla Knights 3 | 20072 | [20072-valhalla-knights-3.json](./20072-valhalla-knights-3.json) |
 | Valhalla Mountain | 328465 | [328465-valhalla-mountain.json](./328465-valhalla-mountain.json) |
+| Valhalla Wars | 249370 | [249370-valhalla-wars.json](./249370-valhalla-wars.json) |
 | Valhalla: Awakening of Valkyrie | 214200 | [214200-valhalla-awakening-of-valkyrie.json](./214200-valhalla-awakening-of-valkyrie.json) |
 | Valhalla: Before the War | 12809 | [12809-valhalla-before-the-war.json](./12809-valhalla-before-the-war.json) |
 | Valheim: Mistlands | 227760 | [227760-valheim-mistlands.json](./227760-valheim-mistlands.json) |
