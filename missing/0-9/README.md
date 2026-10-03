@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Dogs | 308933 | [308933-100-dogs.json](./308933-100-dogs.json) |
 | 100 Dogs in India | 325504 | [325504-100-dogs-in-india.json](./325504-100-dogs-in-india.json) |
 | 100 Doors Escape: Let me In! | 256349 | [256349-100-doors-escape-let-me-in.json](./256349-100-doors-escape-let-me-in.json) |
+| 100 Doors Mystery Adventures | 252304 | [252304-100-doors-mystery-adventures.json](./252304-100-doors-mystery-adventures.json) |
 | 100 doors of artifact: Room Escape Challenge | 145001 | [145001-100-doors-of-artifact-room-escape-challenge.json](./145001-100-doors-of-artifact-room-escape-challenge.json) |
 | 100 Doors of Revenge | 234190 | [234190-100-doors-of-revenge.json](./234190-100-doors-of-revenge.json) |
 | 100 Doors: Escape from Prison | 195637 | [195637-100-doors-escape-from-prison.json](./195637-100-doors-escape-from-prison.json) |
