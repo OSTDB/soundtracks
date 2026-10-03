@@ -3180,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European War 5: Empire | 89709 | [89709-european-war-5-empire.json](./89709-european-war-5-empire.json) |
 | Eurydice Exhumed | 264122 | [264122-eurydice-exhumed.json](./264122-eurydice-exhumed.json) |
 | Eutolant Saga | 342054 | [342054-eutolant-saga.json](./342054-eutolant-saga.json) |
+| EV2: Earth Version 2 | 270893 | [270893-ev2-earth-version-2.json](./270893-ev2-earth-version-2.json) |
 | EV3 - Drag Racing | 88251 | [88251-ev3-drag-racing.json](./88251-ev3-drag-racing.json) |
 | Eva | 185099 | [185099-eva.json](./185099-eva.json) |
 | Eva | 272354 | [272354-eva.json](./272354-eva.json) |
