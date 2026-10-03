@@ -8702,6 +8702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppet Fever | 72321 | [72321-puppet-fever.json](./72321-puppet-fever.json) |
 | Puppet Kings | 82853 | [82853-puppet-kings.json](./82853-puppet-kings.json) |
 | Puppet Master RPG | 94786 | [94786-puppet-master-rpg.json](./94786-puppet-master-rpg.json) |
+| Puppet Master: The Game - Curse of the Puppet Master Skin Pack | 255241 | [255241-puppet-master-the-game-curse-of-the-puppet-master-skin-pack.json](./255241-puppet-master-the-game-curse-of-the-puppet-master-skin-pack.json) |
 | Puppet Master: The Game - Dark Horse Skins | 310023 | [310023-puppet-master-the-game-dark-horse-skins.json](./310023-puppet-master-the-game-dark-horse-skins.json) |
 | Puppet Master: The Game - Movie Edition Blade + Execution | 278400 | [278400-puppet-master-the-game-movie-edition-blade-execution.json](./278400-puppet-master-the-game-movie-edition-blade-execution.json) |
 | Puppet Seed | 349954 | [349954-puppet-seed.json](./349954-puppet-seed.json) |
