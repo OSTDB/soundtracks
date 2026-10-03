@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk to the Woods | 202667 | [202667-walk-to-the-woods.json](./202667-walk-to-the-woods.json) |
 | Walk With Me | 128002 | [128002-walk-with-me.json](./128002-walk-with-me.json) |
 | Walk with me. | 178459 | [178459-walk-with-me.json](./178459-walk-with-me.json) |
+| Walk with the Living 2 | 230883 | [230883-walk-with-the-living-2.json](./230883-walk-with-the-living-2.json) |
 | Walk Zero1 | 329364 | [329364-walk-zero1.json](./329364-walk-zero1.json) |
 | Walkabout Mini Golf: Alice's Adventures in Wonderland | 380577 | [380577-walkabout-mini-golf-alices-adventures-in-wonderland.json](./380577-walkabout-mini-golf-alices-adventures-in-wonderland.json) |
 | Walkabout Mini Golf: Atlantis | 232952 | [232952-walkabout-mini-golf-atlantis.json](./232952-walkabout-mini-golf-atlantis.json) |
@@ -4235,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Of Modern Warfare | 89190 | [89190-world-of-modern-warfare.json](./89190-world-of-modern-warfare.json) |
 | World of Motors 2 | 220722 | [220722-world-of-motors-2.json](./220722-world-of-motors-2.json) |
 | World of Movies: Puzzle Game Challenge | 328463 | [328463-world-of-movies-puzzle-game-challenge.json](./328463-world-of-movies-puzzle-game-challenge.json) |
+| World of Mystery | 230966 | [230966-world-of-mystery.json](./230966-world-of-mystery.json) |
 | World of Myths | 112493 | [112493-world-of-myths.json](./112493-world-of-myths.json) |
 | World of One | 39012 | [39012-world-of-one.json](./39012-world-of-one.json) |
 | World of One: Holistic Edition | 52122 | [52122-world-of-one-holistic-edition.json](./52122-world-of-one-holistic-edition.json) |
