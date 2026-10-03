@@ -1126,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts Frenzy | 280785 | [280785-darts-frenzy.json](./280785-darts-frenzy.json) |
 | Darts Up | 85556 | [85556-darts-up.json](./85556-darts-up.json) |
 | Darts VR | 52091 | [52091-darts-vr.json](./52091-darts-vr.json) |
+| Darts Wii DX | 268121 | [268121-darts-wii-dx.json](./268121-darts-wii-dx.json) |
 | Dartz | 354574 | [354574-dartz.json](./354574-dartz.json) |
 | Daruino | 185536 | [185536-daruino.json](./185536-daruino.json) |
 | Darumeshi Sports Store | 230306 | [230306-darumeshi-sports-store.json](./230306-darumeshi-sports-store.json) |
@@ -1571,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De Blob 2 | 4796 | [4796-de-blob-2.json](./4796-de-blob-2.json) |
 | De griezelbus 1 | 98943 | [98943-de-griezelbus-1.json](./98943-de-griezelbus-1.json) |
 | De griezelbus 2 | 78322 | [78322-de-griezelbus-2.json](./78322-de-griezelbus-2.json) |
+| De Ontdekker en het mysterie van de Diamanten Scarabee | 268124 | [268124-de-ontdekker-en-het-mysterie-van-de-diamanten-scarabee.json](./268124-de-ontdekker-en-het-mysterie-van-de-diamanten-scarabee.json) |
 | Dé_Intricate | 310534 | [310534-de-intricate.json](./310534-de-intricate.json) |
 | De-Exit: Eternal Matters | 172757 | [172757-de-exit-eternal-matters.json](./172757-de-exit-eternal-matters.json) |
 | De: Yabatanien | 145548 | [145548-de-yabatanien.json](./145548-de-yabatanien.json) |
@@ -3297,11 +3299,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deputy Den | 346751 | [346751-deputy-den.json](./346751-deputy-den.json) |
 | Dequivsia | 326603 | [326603-dequivsia.json](./326603-dequivsia.json) |
 | DeQuoter | 83457 | [83457-dequoter.json](./83457-dequoter.json) |
+| Der Bauernhof | 268111 | [268111-der-bauernhof.json](./268111-der-bauernhof.json) |
 | Der Blaue Diamant: Additional mission | 213031 | [213031-der-blaue-diamant-additional-mission.json](./213031-der-blaue-diamant-additional-mission.json) |
 | Der blaue Kristall | 125956 | [125956-der-blaue-kristall.json](./125956-der-blaue-kristall.json) |
 | Der Dativ ist dem Genitiv sein Tod | 269665 | [269665-der-dativ-ist-dem-genitiv-sein-tod.json](./269665-der-dativ-ist-dem-genitiv-sein-tod.json) |
 | Der Geistermeister | 369648 | [369648-der-geistermeister.json](./369648-der-geistermeister.json) |
 | Der Gesundheits Coach: Wohlfuhlen jeden Tag | 269579 | [269579-der-gesundheits-coach-wohlfuhlen-jeden-tag.json](./269579-der-gesundheits-coach-wohlfuhlen-jeden-tag.json) |
+| Der Gesundheitscoach | 268139 | [268139-der-gesundheitscoach.json](./268139-der-gesundheitscoach.json) |
 | Der Große Preis von Raddorf | 98955 | [98955-der-gro-e-preis-von-raddorf.json](./98955-der-gro-e-preis-von-raddorf.json) |
 | Der Königsruf | 369627 | [369627-der-konigsruf.json](./369627-der-konigsruf.json) |
 | Der Langrisser | 77634 | [77634-der-langrisser.json](./77634-der-langrisser.json) |
@@ -3850,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Dice | 28400 | [28400-devil-dice.json](./28400-devil-dice.json) |
 | Devil Eater | 38506 | [38506-devil-eater.json](./38506-devil-eater.json) |
 | Devil Edge | 169450 | [169450-devil-edge.json](./169450-devil-edge.json) |
+| Devil Engine: Complete Edition | 268093 | [268093-devil-engine-complete-edition.json](./268093-devil-engine-complete-edition.json) |
 | Devil Engine: Ignition | 150601 | [150601-devil-engine-ignition.json](./150601-devil-engine-ignition.json) |
 | Devil Fish | 39633 | [39633-devil-fish.json](./39633-devil-fish.json) |
 | Devil Gate | 403692 | [403692-devil-gate.json](./403692-devil-gate.json) |
@@ -4218,6 +4223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die drei ???: Das Gold der Inkas | 361324 | [361324-die-drei-das-gold-der-inkas.json](./361324-die-drei-das-gold-der-inkas.json) |
 | Die drei Freunde von der Reitschule | 291073 | [291073-die-drei-freunde-von-der-reitschule.json](./291073-die-drei-freunde-von-der-reitschule.json) |
 | Die Drei??? Kids: Jagd auf Das Phantom | 136371 | [136371-die-drei-kids-jagd-auf-das-phantom.json](./136371-die-drei-kids-jagd-auf-das-phantom.json) |
+| Die drei???: Das verfluchte Schloss | 268126 | [268126-die-drei-das-verfluchte-schloss.json](./268126-die-drei-das-verfluchte-schloss.json) |
 | Die drei???: Plan der Chamäleonbande | 302665 | [302665-die-drei-plan-der-chamaleonbande.json](./302665-die-drei-plan-der-chamaleonbande.json) |
 | Die Dunkle Dimension | 356849 | [356849-die-dunkle-dimension.json](./356849-die-dunkle-dimension.json) |
 | Die Erdnussbutter | 285978 | [285978-die-erdnussbutter.json](./285978-die-erdnussbutter.json) |
