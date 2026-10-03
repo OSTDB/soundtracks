@@ -1697,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reball | 68931 | [68931-reball.json](./68931-reball.json) |
 | Rebel | 52756 | [52756-rebel.json](./52756-rebel.json) |
 | Rebel | 78086 | [78086-rebel.json](./78086-rebel.json) |
+| Rebel Duet | 275837 | [275837-rebel-duet.json](./275837-rebel-duet.json) |
 | Rebel Engine | 374272 | [374272-rebel-engine.json](./374272-rebel-engine.json) |
 | Rebel Galaxy | 11719 | [11719-rebel-galaxy.json](./11719-rebel-galaxy.json) |
 | Rebel Inc. | 115206 | [115206-rebel-inc.json](./115206-rebel-inc.json) |
@@ -3420,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RGB Run | 112480 | [112480-rgb-run.json](./112480-rgb-run.json) |
 | RGB Rush | 218173 | [218173-rgb-rush.json](./218173-rgb-rush.json) |
 | RGB Simulator | 237278 | [237278-rgb-simulator.json](./237278-rgb-simulator.json) |
+| RGBounce | 275836 | [275836-rgbounce.json](./275836-rgbounce.json) |
 | RGBverse | 29231 | [29231-rgbverse.json](./29231-rgbverse.json) |
 | Rgby | 199473 | [199473-rgby.json](./199473-rgby.json) |
 | RGT Cycling | 138571 | [138571-rgt-cycling.json](./138571-rgt-cycling.json) |
@@ -3707,6 +3709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rider's World: I Want to Ride! | 163942 | [163942-riders-world-i-want-to-ride.json](./163942-riders-world-i-want-to-ride.json) |
 | Riders 2491 | 158706 | [158706-riders-2491.json](./158706-riders-2491.json) |
 | Riders of Asgard: Deluxe Edition | 53508 | [53508-riders-of-asgard-deluxe-edition.json](./53508-riders-of-asgard-deluxe-edition.json) |
+| Riders of the Wild | 275835 | [275835-riders-of-the-wild.json](./275835-riders-of-the-wild.json) |
 | Riders Republic: 360 Edition | 263514 | [263514-riders-republic-360-edition.json](./263514-riders-republic-360-edition.json) |
 | Riders Republic: Complete Edition | 263515 | [263515-riders-republic-complete-edition.json](./263515-riders-republic-complete-edition.json) |
 | Riders Republic: Freeride Edition | 201047 | [201047-riders-republic-freeride-edition.json](./201047-riders-republic-freeride-edition.json) |
