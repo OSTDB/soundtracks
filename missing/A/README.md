@@ -5199,6 +5199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anpfiff: Der RTL Fussball-Manager | 81449 | [81449-anpfiff-der-rtl-fussball-manager.json](./81449-anpfiff-der-rtl-fussball-manager.json) |
 | Anseion | 245810 | [245810-anseion.json](./245810-anseion.json) |
 | AnShi | 132740 | [132740-anshi.json](./132740-anshi.json) |
+| Ansoku | 236421 | [236421-ansoku.json](./236421-ansoku.json) |
 | Anstorm | 111214 | [111214-anstorm.json](./111214-anstorm.json) |
 | Anstoss | 37126 | [37126-anstoss.json](./37126-anstoss.json) |
 | Anstoss 2: Gold Edition | 155090 | [155090-anstoss-2-gold-edition.json](./155090-anstoss-2-gold-edition.json) |
@@ -6771,6 +6772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armour-Geddon II: Codename Hellfire | 14267 | [14267-armour-geddon-ii-codename-hellfire.json](./14267-armour-geddon-ii-codename-hellfire.json) |
 | Armoured Onslaught | 129223 | [129223-armoured-onslaught.json](./129223-armoured-onslaught.json) |
 | Arms Devicer S!! | 82895 | [82895-arms-devicer-s.json](./82895-arms-devicer-s.json) |
+| Arms Race 2 | 236420 | [236420-arms-race-2.json](./236420-arms-race-2.json) |
 | Arms Race: TCWE | 29691 | [29691-arms-race-tcwe.json](./29691-arms-race-tcwe.json) |
 | Arms Race: TCWE - Industrialization | 172191 | [172191-arms-race-tcwe-industrialization.json](./172191-arms-race-tcwe-industrialization.json) |
 | Arms Race: TCWE - Politics | 170914 | [170914-arms-race-tcwe-politics.json](./170914-arms-race-tcwe-politics.json) |
@@ -7856,6 +7858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asura's Wrath: Lost Episode 1 | 182447 | [182447-asuras-wrath-lost-episode-1.json](./182447-asuras-wrath-lost-episode-1.json) |
 | Asura's Wrath: Lost Episode 2 | 182448 | [182448-asuras-wrath-lost-episode-2.json](./182448-asuras-wrath-lost-episode-2.json) |
 | Asuria Awakens | 175390 | [175390-asuria-awakens.json](./175390-asuria-awakens.json) |
+| Aswang Detective: The Case of New York | 236326 | [236326-aswang-detective-the-case-of-new-york.json](./236326-aswang-detective-the-case-of-new-york.json) |
 | Asy przestworzy | 204728 | [204728-asy-przestworzy.json](./204728-asy-przestworzy.json) |
 | Asylamba : Influence | 99154 | [99154-asylamba-influence.json](./99154-asylamba-influence.json) |
 | Asylum | 356277 | [356277-asylum.json](./356277-asylum.json) |
