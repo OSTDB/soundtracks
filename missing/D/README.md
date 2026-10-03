@@ -2534,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dark Wrath | 293330 | [293330-deep-dark-wrath.json](./293330-deep-dark-wrath.json) |
 | Deep Dark Wrath: Frost Flower | 385573 | [385573-deep-dark-wrath-frost-flower.json](./385573-deep-dark-wrath-frost-flower.json) |
 | Deep Dead | 323811 | [323811-deep-dead.json](./323811-deep-dead.json) |
+| Deep Death Dungeon Darkness | 239702 | [239702-deep-death-dungeon-darkness.json](./239702-deep-death-dungeon-darkness.json) |
 | Deep Despair | 129641 | [129641-deep-despair.json](./129641-deep-despair.json) |
 | Deep Despair 3 | 320554 | [320554-deep-despair-3.json](./320554-deep-despair-3.json) |
 | Deep Dish Dungeon | 298680 | [298680-deep-dish-dungeon.json](./298680-deep-dish-dungeon.json) |
@@ -2928,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deliverance | 322670 | [322670-deliverance.json](./322670-deliverance.json) |
 | Deliverance | 322990 | [322990-deliverance.json](./322990-deliverance.json) |
 | Deliverance | 377173 | [377173-deliverance.json](./377173-deliverance.json) |
+| Deliverance & Reign | 239699 | [239699-deliverance-and-reign.json](./239699-deliverance-and-reign.json) |
 | Delivered by Friday | 399216 | [399216-delivered-by-friday.json](./399216-delivered-by-friday.json) |
 | Delivering Hope | 260095 | [260095-delivering-hope.json](./260095-delivering-hope.json) |
 | Delivery Boy | 190214 | [190214-delivery-boy.json](./190214-delivery-boy.json) |
@@ -3606,6 +3608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperate game | 82050 | [82050-desperate-game.json](./82050-desperate-game.json) |
 | Desperate Place | 335290 | [335290-desperate-place.json](./335290-desperate-place.json) |
 | Desperate Skeleton | 238470 | [238470-desperate-skeleton.json](./238470-desperate-skeleton.json) |
+| Desperate Survival | 239712 | [239712-desperate-survival.json](./239712-desperate-survival.json) |
 | Desperate: Vladivostok | 206720 | [206720-desperate-vladivostok.json](./206720-desperate-vladivostok.json) |
 | Desperation | 147415 | [147415-desperation.json](./147415-desperation.json) |
 | Despicable Bear | 86852 | [86852-despicable-bear.json](./86852-despicable-bear.json) |
@@ -8134,6 +8137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamTank | 72356 | [72356-dreamtank.json](./72356-dreamtank.json) |
 | Dreamtone | 310960 | [310960-dreamtone.json](./310960-dreamtone.json) |
 | Dreamvibe | 192276 | [192276-dreamvibe.json](./192276-dreamvibe.json) |
+| Dreamwalker | 239716 | [239716-dreamwalker.json](./239716-dreamwalker.json) |
 | Dreamwalker | 333021 | [333021-dreamwalker.json](./333021-dreamwalker.json) |
 | DreamWatcher | 145430 | [145430-dreamwatcher.json](./145430-dreamwatcher.json) |
 | Dreamwater | 252385 | [252385-dreamwater.json](./252385-dreamwater.json) |
