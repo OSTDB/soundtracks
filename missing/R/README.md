@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiohgar: Asuka and the King of Steel | 126816 | [126816-raiohgar-asuka-and-the-king-of-steel.json](./126816-raiohgar-asuka-and-the-king-of-steel.json) |
 | Raios Funde | 245012 | [245012-raios-funde.json](./245012-raios-funde.json) |
 | Raise the Colours | 393816 | [393816-raise-the-colours.json](./393816-raise-the-colours.json) |
+| Raise the Flag | 274677 | [274677-raise-the-flag.json](./274677-raise-the-flag.json) |
 | Raise-a-Wish | 404255 | [404255-raise-a-wish.json](./404255-raise-a-wish.json) |
 | Raise, Rise & Die | 416734 | [416734-raise-rise-and-die.json](./416734-raise-rise-and-die.json) |
 | Raishi | 222500 | [222500-raishi.json](./222500-raishi.json) |
@@ -3020,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Ball | 309465 | [309465-retro-ball.json](./309465-retro-ball.json) |
 | Retro Basketball Coach 2022 | 187831 | [187831-retro-basketball-coach-2022.json](./187831-retro-basketball-coach-2022.json) |
 | Retro Battle | 306533 | [306533-retro-battle.json](./306533-retro-battle.json) |
+| Retro Blaster: Mech Madness 1 | 274642 | [274642-retro-blaster-mech-madness-1.json](./274642-retro-blaster-mech-madness-1.json) |
 | Retro Bowl | 141684 | [141684-retro-bowl.json](./141684-retro-bowl.json) |
 | Retro City Rampage DX | 15276 | [15276-retro-city-rampage-dx.json](./15276-retro-city-rampage-dx.json) |
 | Retro Classix 2-in-1 Pack: Express Raider & Shootout | 147864 | [147864-retro-classix-2-in-1-pack-express-raider-and-shootout.json](./147864-retro-classix-2-in-1-pack-express-raider-and-shootout.json) |
