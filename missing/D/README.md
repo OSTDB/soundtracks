@@ -3155,6 +3155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonic Bundle | 192305 | [192305-demonic-bundle.json](./192305-demonic-bundle.json) |
 | Demonic Crusade | 298896 | [298896-demonic-crusade.json](./298896-demonic-crusade.json) |
 | Demonic Defence 3 | 380695 | [380695-demonic-defence-3.json](./380695-demonic-defence-3.json) |
+| Demonic Destruction! | 261451 | [261451-demonic-destruction.json](./261451-demonic-destruction.json) |
 | Demonic Gauntlet | 403120 | [403120-demonic-gauntlet.json](./403120-demonic-gauntlet.json) |
 | Demonic Kiss | 371388 | [371388-demonic-kiss.json](./371388-demonic-kiss.json) |
 | Demonic Labyrinth | 237074 | [237074-demonic-labyrinth.json](./237074-demonic-labyrinth.json) |
@@ -8381,6 +8382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropzone | 369618 | [369618-dropzone.json](./369618-dropzone.json) |
 | DropZone | 19546 | [19546-dropzone.json](./19546-dropzone.json) |
 | Drosoph Hotel | 75039 | [75039-drosoph-hotel.json](./75039-drosoph-hotel.json) |
+| Drought | 261442 | [261442-drought.json](./261442-drought.json) |
 | Drown in Yesterday's Sea | 411780 | [411780-drown-in-yesterdays-sea.json](./411780-drown-in-yesterdays-sea.json) |
 | Drown Rabbit | 397937 | [397937-drown-rabbit.json](./397937-drown-rabbit.json) |
 | Drowned Caves | 402501 | [402501-drowned-caves.json](./402501-drowned-caves.json) |
@@ -9084,6 +9086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Survivors | 257935 | [257935-dungeon-survivors.json](./257935-dungeon-survivors.json) |
 | Dungeon Sweeper KiKi | 299396 | [299396-dungeon-sweeper-kiki.json](./299396-dungeon-sweeper-kiki.json) |
 | Dungeon Sweeper Plus | 401058 | [401058-dungeon-sweeper-plus.json](./401058-dungeon-sweeper-plus.json) |
+| Dungeon Synths | 261464 | [261464-dungeon-synths.json](./261464-dungeon-synths.json) |
 | Dungeon Tales: RPG Card Game | 121732 | [121732-dungeon-tales-rpg-card-game.json](./121732-dungeon-tales-rpg-card-game.json) |
 | Dungeon Tiles | 58235 | [58235-dungeon-tiles.json](./58235-dungeon-tiles.json) |
 | Dungeon Tiny Hunter | 308908 | [308908-dungeon-tiny-hunter.json](./308908-dungeon-tiny-hunter.json) |
