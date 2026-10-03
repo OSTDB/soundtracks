@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halfway | 8800 | [8800-halfway.json](./8800-halfway.json) |
 | Hall of the Art Thieves | 122271 | [122271-hall-of-the-art-thieves.json](./122271-hall-of-the-art-thieves.json) |
 | Hall of the Dwarf King | 339375 | [339375-hall-of-the-dwarf-king.json](./339375-hall-of-the-dwarf-king.json) |
+| Hall of the Epiphany | 276378 | [276378-hall-of-the-epiphany.json](./276378-hall-of-the-epiphany.json) |
 | Halley's Big Catch | 417530 | [417530-halleys-big-catch.json](./417530-halleys-big-catch.json) |
 | Halley's Comet | 40352 | [40352-halleys-comet.json](./40352-halleys-comet.json) |
 | Halley's Dream | 169372 | [169372-halleys-dream.json](./169372-halleys-dream.json) |
@@ -1274,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Escape: Wrath of Victoria | 62759 | [62759-haunted-escape-wrath-of-victoria.json](./62759-haunted-escape-wrath-of-victoria.json) |
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
 | Haunted Heye Apartment | 245811 | [245811-haunted-heye-apartment.json](./245811-haunted-heye-apartment.json) |
+| Haunted Hill | 276390 | [276390-haunted-hill.json](./276390-haunted-hill.json) |
 | Haunted Hotel | 146857 | [146857-haunted-hotel.json](./146857-haunted-hotel.json) |
 | Haunted Hotel | 31063 | [31063-haunted-hotel.json](./31063-haunted-hotel.json) |
 | Haunted Hotel II: Believe the Lies | 36450 | [36450-haunted-hotel-ii-believe-the-lies.json](./36450-haunted-hotel-ii-believe-the-lies.json) |
@@ -4696,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honk of Heroes | 293641 | [293641-honk-of-heroes.json](./293641-honk-of-heroes.json) |
 | Honkai Impact 3rd | 96032 | [96032-honkai-impact-3rd.json](./96032-honkai-impact-3rd.json) |
 | Honkai Impact 3rd: A Lightful Love | 374675 | [374675-honkai-impact-3rd-a-lightful-love.json](./374675-honkai-impact-3rd-a-lightful-love.json) |
+| Honkai Impact 3rd: Arrow of Novae | 276426 | [276426-honkai-impact-3rd-arrow-of-novae.json](./276426-honkai-impact-3rd-arrow-of-novae.json) |
 | Honkai Impact 3rd: As Thunders Filled the Sky | 279719 | [279719-honkai-impact-3rd-as-thunders-filled-the-sky.json](./279719-honkai-impact-3rd-as-thunders-filled-the-sky.json) |
 | Honkai Impact 3rd: Aurelia Invicta | 279710 | [279710-honkai-impact-3rd-aurelia-invicta.json](./279710-honkai-impact-3rd-aurelia-invicta.json) |
 | Honkai Impact 3rd: Blazing Hope | 279707 | [279707-honkai-impact-3rd-blazing-hope.json](./279707-honkai-impact-3rd-blazing-hope.json) |
@@ -4712,6 +4715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Infinite Future | 276502 | [276502-honkai-impact-3rd-infinite-future.json](./276502-honkai-impact-3rd-infinite-future.json) |
 | Honkai Impact 3rd: Lives Flourish Where Feathers Fall | 408932 | [408932-honkai-impact-3rd-lives-flourish-where-feathers-fall.json](./408932-honkai-impact-3rd-lives-flourish-where-feathers-fall.json) |
 | Honkai Impact 3rd: Lone Stargazer | 279722 | [279722-honkai-impact-3rd-lone-stargazer.json](./279722-honkai-impact-3rd-lone-stargazer.json) |
+| Honkai Impact 3rd: Moonshade Epic | 276424 | [276424-honkai-impact-3rd-moonshade-epic.json](./276424-honkai-impact-3rd-moonshade-epic.json) |
 | Honkai Impact 3rd: Ninja's Noir | 281572 | [281572-honkai-impact-3rd-ninjas-noir.json](./281572-honkai-impact-3rd-ninjas-noir.json) |
 | Honkai Impact 3rd: Post-Dusk Odyssey | 276501 | [276501-honkai-impact-3rd-post-dusk-odyssey.json](./276501-honkai-impact-3rd-post-dusk-odyssey.json) |
 | Honkai Impact 3rd: Pristine Realm | 276504 | [276504-honkai-impact-3rd-pristine-realm.json](./276504-honkai-impact-3rd-pristine-realm.json) |
@@ -4723,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Stars Derailed | 322783 | [322783-honkai-impact-3rd-stars-derailed.json](./322783-honkai-impact-3rd-stars-derailed.json) |
 | Honkai Impact 3rd: Sublime Spring | 281571 | [281571-honkai-impact-3rd-sublime-spring.json](./281571-honkai-impact-3rd-sublime-spring.json) |
 | Honkai Impact 3rd: The Banquet Operative | 383390 | [383390-honkai-impact-3rd-the-banquet-operative.json](./383390-honkai-impact-3rd-the-banquet-operative.json) |
+| Honkai Impact 3rd: The Chrono and the Hare | 276421 | [276421-honkai-impact-3rd-the-chrono-and-the-hare.json](./276421-honkai-impact-3rd-the-chrono-and-the-hare.json) |
 | Honkai Impact 3rd: The Fleet Sets Sail | 361297 | [361297-honkai-impact-3rd-the-fleet-sets-sail.json](./361297-honkai-impact-3rd-the-fleet-sets-sail.json) |
 | Honkai Impact 3rd: Unequaled, Unrivaled | 279704 | [279704-honkai-impact-3rd-unequaled-unrivaled.json](./279704-honkai-impact-3rd-unequaled-unrivaled.json) |
 | Honkai: Star Rail - A New Venture on the Eighth Dawn | 322770 | [322770-honkai-star-rail-a-new-venture-on-the-eighth-dawn.json](./322770-honkai-star-rail-a-new-venture-on-the-eighth-dawn.json) |
@@ -5155,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot 21 | 238613 | [238613-hot-21.json](./238613-hot-21.json) |
 | Hot Action Pak | 56454 | [56454-hot-action-pak.json](./56454-hot-action-pak.json) |
 | Hot Air | 152908 | [152908-hot-air.json](./152908-hot-air.json) |
+| Hot Air 2 | 276423 | [276423-hot-air-2.json](./276423-hot-air-2.json) |
 | Hot Air Balloon | 240142 | [240142-hot-air-balloon.json](./240142-hot-air-balloon.json) |
 | Hot Air Bloon | 286632 | [286632-hot-air-bloon.json](./286632-hot-air-bloon.json) |
 | Hot and Cold | 386727 | [386727-hot-and-cold.json](./386727-hot-and-cold.json) |
