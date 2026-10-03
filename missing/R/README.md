@@ -1763,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReBoot | 51953 | [51953-reboot.json](./51953-reboot.json) |
 | Reboot Heroes | 292020 | [292020-reboot-heroes.json](./292020-reboot-heroes.json) |
 | Reborn | 301985 | [301985-reborn.json](./301985-reborn.json) |
+| Reborn a Zombie! | 246004 | [246004-reborn-a-zombie.json](./246004-reborn-a-zombie.json) |
 | Reborn in Sin | 157000 | [157000-reborn-in-sin.json](./157000-reborn-in-sin.json) |
 | Reborn in the toilet | 359548 | [359548-reborn-in-the-toilet.json](./359548-reborn-in-the-toilet.json) |
 | Reborn in Wild City | 111073 | [111073-reborn-in-wild-city.json](./111073-reborn-in-wild-city.json) |
@@ -4443,6 +4444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roads of Rome 2 | 34258 | [34258-roads-of-rome-2.json](./34258-roads-of-rome-2.json) |
 | Roads of Rome 3 | 34264 | [34264-roads-of-rome-3.json](./34264-roads-of-rome-3.json) |
 | Roads of Rome: New Generation 2 | 111194 | [111194-roads-of-rome-new-generation-2.json](./111194-roads-of-rome-new-generation-2.json) |
+| Roads of Rome: Portals 2 - Collector's Edition | 245984 | [245984-roads-of-rome-portals-2-collectors-edition.json](./245984-roads-of-rome-portals-2-collectors-edition.json) |
 | Roads Yet Traveled | 359048 | [359048-roads-yet-traveled.json](./359048-roads-yet-traveled.json) |
 | Roadside | 286079 | [286079-roadside.json](./286079-roadside.json) |
 | Roadside Assistance Simulator | 36317 | [36317-roadside-assistance-simulator.json](./36317-roadside-assistance-simulator.json) |
