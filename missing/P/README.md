@@ -2744,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Dust | 280275 | [280275-phantom-dust.json](./280275-phantom-dust.json) |
 | Phantom Dust | 7341 | [7341-phantom-dust.json](./7341-phantom-dust.json) |
 | Phantom Fighter | 48188 | [48188-phantom-fighter.json](./48188-phantom-fighter.json) |
+| Phantom Flail | 244844 | [244844-phantom-flail.json](./244844-phantom-flail.json) |
 | Phantom Floor | 394178 | [394178-phantom-floor.json](./394178-phantom-floor.json) |
 | Phantom Fury | 218009 | [218009-phantom-fury.json](./218009-phantom-fury.json) |
 | Phantom Gear | 141108 | [141108-phantom-gear.json](./141108-phantom-gear.json) |
@@ -4100,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Rocket Frog | 335354 | [335354-pixel-game-maker-series-rocket-frog.json](./335354-pixel-game-maker-series-rocket-frog.json) |
 | Pixel Game Maker Series: Storm Swordsman | 277520 | [277520-pixel-game-maker-series-storm-swordsman.json](./277520-pixel-game-maker-series-storm-swordsman.json) |
 | Pixel Game Maker Series: Stray Witch and the Ghost Train | 370820 | [370820-pixel-game-maker-series-stray-witch-and-the-ghost-train.json](./370820-pixel-game-maker-series-stray-witch-and-the-ghost-train.json) |
+| Pixel Game Maker Series: Tentacled Terrors Tyrannize Terra! | 244824 | [244824-pixel-game-maker-series-tentacled-terrors-tyrannize-terra.json](./244824-pixel-game-maker-series-tentacled-terrors-tyrannize-terra.json) |
 | Pixel Game Maker Series: The Willow Man | 316190 | [316190-pixel-game-maker-series-the-willow-man.json](./316190-pixel-game-maker-series-the-willow-man.json) |
 | Pixel Gangsters | 211184 | [211184-pixel-gangsters.json](./211184-pixel-gangsters.json) |
 | Pixel Gear | 25182 | [25182-pixel-gear.json](./25182-pixel-gear.json) |
@@ -7670,6 +7672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prodigy Tactics | 77360 | [77360-prodigy-tactics.json](./77360-prodigy-tactics.json) |
 | Prodoomer | 201234 | [201234-prodoomer.json](./201234-prodoomer.json) |
 | Production Line: Doors that go like this | 124782 | [124782-production-line-doors-that-go-like-this.json](./124782-production-line-doors-that-go-like-this.json) |
+| Prof. Miyamoto's Soroban & Flash Anzan | 244825 | [244825-prof-miyamotos-soroban-and-flash-anzan.json](./244825-prof-miyamotos-soroban-and-flash-anzan.json) |
 | Profanation | 304127 | [304127-profanation.json](./304127-profanation.json) |
 | Profane | 57196 | [57196-profane.json](./57196-profane.json) |
 | Profession investigator | 190967 | [190967-profession-investigator.json](./190967-profession-investigator.json) |
@@ -7835,6 +7838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project D | 255117 | [255117-project-d.json](./255117-project-d.json) |
 | Project D | 305783 | [305783-project-d.json](./305783-project-d.json) |
 | Project D: Human Risen | 126632 | [126632-project-d-human-risen.json](./126632-project-d-human-risen.json) |
+| Project Dark | 244818 | [244818-project-dark.json](./244818-project-dark.json) |
 | Project Death Strikers | 211272 | [211272-project-death-strikers.json](./211272-project-death-strikers.json) |
 | Project DeepWeb | 120422 | [120422-project-deepweb.json](./120422-project-deepweb.json) |
 | Project Dejavu | 391156 | [391156-project-dejavu.json](./391156-project-dejavu.json) |
