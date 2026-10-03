@@ -7696,8 +7696,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakers Revenge | 39558 | [39558-breakers-revenge.json](./39558-breakers-revenge.json) |
 | Breakfall: Nuclear Winter | 342616 | [342616-breakfall-nuclear-winter.json](./342616-breakfall-nuclear-winter.json) |
 | Breakfast at Twilight | 271771 | [271771-breakfast-at-twilight.json](./271771-breakfast-at-twilight.json) |
+| Breakfast Bar Tycoon + Expansion pack | 238015 | [238015-breakfast-bar-tycoon-expansion-pack.json](./238015-breakfast-bar-tycoon-expansion-pack.json) |
 | Breakfast Bar Tycoon: Complete Edition | 199897 | [199897-breakfast-bar-tycoon-complete-edition.json](./199897-breakfast-bar-tycoon-complete-edition.json) |
 | Breakfast Bar Tycoon: Definitive Edition | 333719 | [333719-breakfast-bar-tycoon-definitive-edition.json](./333719-breakfast-bar-tycoon-definitive-edition.json) |
+| Breakfast Bar Tycoon: Expansion Pack | 238017 | [238017-breakfast-bar-tycoon-expansion-pack.json](./238017-breakfast-bar-tycoon-expansion-pack.json) |
 | Breakfast Bar Tycoon: Super Edition | 315875 | [315875-breakfast-bar-tycoon-super-edition.json](./315875-breakfast-bar-tycoon-super-edition.json) |
 | Breakfast Bar Tycoon: Ultimate Edition | 298569 | [298569-breakfast-bar-tycoon-ultimate-edition.json](./298569-breakfast-bar-tycoon-ultimate-edition.json) |
 | Breakfast Bar Tycoon: Value Edition | 317916 | [317916-breakfast-bar-tycoon-value-edition.json](./317916-breakfast-bar-tycoon-value-edition.json) |
@@ -8898,6 +8900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Chef Tycoon: Co-op Edition | 250363 | [250363-burger-chef-tycoon-co-op-edition.json](./250363-burger-chef-tycoon-co-op-edition.json) |
 | Burger Chef Tycoon: Complete Edition | 199110 | [199110-burger-chef-tycoon-complete-edition.json](./199110-burger-chef-tycoon-complete-edition.json) |
 | Burger Chef Tycoon: Elite Edition | 332515 | [332515-burger-chef-tycoon-elite-edition.json](./332515-burger-chef-tycoon-elite-edition.json) |
+| Burger Chef Tycoon: Expansion Pack 1 | 238016 | [238016-burger-chef-tycoon-expansion-pack-1.json](./238016-burger-chef-tycoon-expansion-pack-1.json) |
 | Burger Chef Tycoon: GOTY Edition | 273629 | [273629-burger-chef-tycoon-goty-edition.json](./273629-burger-chef-tycoon-goty-edition.json) |
 | Burger For Me | 180607 | [180607-burger-for-me.json](./180607-burger-for-me.json) |
 | Burger Fun | 205254 | [205254-burger-fun.json](./205254-burger-fun.json) |
