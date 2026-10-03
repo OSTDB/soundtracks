@@ -1694,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Disorder | 291258 | [291258-tech-disorder.json](./291258-tech-disorder.json) |
 | Tech Executive Tycoon | 17036 | [17036-tech-executive-tycoon.json](./17036-tech-executive-tycoon.json) |
 | Tech Invaders TD | 219568 | [219568-tech-invaders-td.json](./219568-tech-invaders-td.json) |
+| Tech Romancer | 227751 | [227751-tech-romancer.json](./227751-tech-romancer.json) |
 | Tech Warriors Giga Fighters | 218015 | [218015-tech-warriors-giga-fighters.json](./218015-tech-warriors-giga-fighters.json) |
 | Tech-Heresy | 272497 | [272497-tech-heresy.json](./272497-tech-heresy.json) |
 | Tech48 | 92628 | [92628-tech48.json](./92628-tech48.json) |
@@ -2690,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Text | 110635 | [110635-text.json](./110635-text.json) |
 | Text Adventure Engine | 295361 | [295361-text-adventure-engine.json](./295361-text-adventure-engine.json) |
 | Text Adventure Engine: Chicken Boy | 295362 | [295362-text-adventure-engine-chicken-boy.json](./295362-text-adventure-engine-chicken-boy.json) |
+| Text Adventure: Xianghua-hen | 227749 | [227749-text-adventure-xianghua-hen.json](./227749-text-adventure-xianghua-hen.json) |
 | Text and Drive: Friendship Never Dies | 131384 | [131384-text-and-drive-friendship-never-dies.json](./131384-text-and-drive-friendship-never-dies.json) |
 | Text Dungeon: The Ring of Life | 407450 | [407450-text-dungeon-the-ring-of-life.json](./407450-text-dungeon-the-ring-of-life.json) |
 | Text Tiles | 46564 | [46564-text-tiles.json](./46564-text-tiles.json) |
@@ -5335,6 +5337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Battles of Hannibal | 73519 | [73519-the-great-battles-of-hannibal.json](./73519-the-great-battles-of-hannibal.json) |
 | The Great Bedroom Escape | 385213 | [385213-the-great-bedroom-escape.json](./385213-the-great-bedroom-escape.json) |
 | The Great Beyond | 401634 | [401634-the-great-beyond.json](./401634-the-great-beyond.json) |
+| The Great Book of Mario | 227972 | [227972-the-great-book-of-mario.json](./227972-the-great-book-of-mario.json) |
 | The Great Cave Offensive | 271262 | [271262-the-great-cave-offensive.json](./271262-the-great-cave-offensive.json) |
 | The Great Cave Offensive | 271405 | [271405-the-great-cave-offensive.json](./271405-the-great-cave-offensive.json) |
 | The Great Chocolate Chase: A Chocolatier Twist | 19557 | [19557-the-great-chocolate-chase-a-chocolatier-twist.json](./19557-the-great-chocolate-chase-a-chocolatier-twist.json) |
@@ -7120,6 +7123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Meaning | 203303 | [203303-the-meaning.json](./203303-the-meaning.json) |
 | The Meaning of Auri | 349310 | [349310-the-meaning-of-auri.json](./349310-the-meaning-of-auri.json) |
 | The Meating | 141111 | [141111-the-meating.json](./141111-the-meating.json) |
+| The Mechsmith Run=Dim | 227976 | [227976-the-mechsmith-run-dim.json](./227976-the-mechsmith-run-dim.json) |
 | The Medieval Doctor | 416825 | [416825-the-medieval-doctor.json](./416825-the-medieval-doctor.json) |
 | The Medium + Observer: System Redux + Darq: Complete Edition Bundle | 166687 | [166687-the-medium-observer-system-redux-darq-complete-edition-bundle.json](./166687-the-medium-observer-system-redux-darq-complete-edition-bundle.json) |
 | The Medium: Deluxe Edition | 154537 | [154537-the-medium-deluxe-edition.json](./154537-the-medium-deluxe-edition.json) |
@@ -15740,6 +15744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trickster VR | 31766 | [31766-trickster-vr.json](./31766-trickster-vr.json) |
 | Trickster VR: Horde Attack! | 119759 | [119759-trickster-vr-horde-attack.json](./119759-trickster-vr-horde-attack.json) |
 | TrickStyle | 8229 | [8229-trickstyle.json](./8229-trickstyle.json) |
+| TrickStyle Jr. | 227757 | [227757-trickstyle-jr.json](./227757-trickstyle-jr.json) |
 | Tricky and the Dream Caster | 316626 | [316626-tricky-and-the-dream-caster.json](./316626-tricky-and-the-dream-caster.json) |
 | Tricky Challenge 2 | 90839 | [90839-tricky-challenge-2.json](./90839-tricky-challenge-2.json) |
 | Tricky Challenge 3 | 103875 | [103875-tricky-challenge-3.json](./103875-tricky-challenge-3.json) |
@@ -16752,8 +16757,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twhols | 377717 | [377717-twhols.json](./377717-twhols.json) |
 | Twice Go! Go! Fightin' | 115763 | [115763-twice-go-go-fightin.json](./115763-twice-go-go-fightin.json) |
 | Twilight Apartment | 331887 | [331887-twilight-apartment.json](./331887-twilight-apartment.json) |
+| Twilight Blood | 227898 | [227898-twilight-blood.json](./227898-twilight-blood.json) |
 | Twilight Canyon | 306421 | [306421-twilight-canyon.json](./306421-twilight-canyon.json) |
 | Twilight City | 315643 | [315643-twilight-city.json](./315643-twilight-city.json) |
+| Twilight Crusade | 227902 | [227902-twilight-crusade.json](./227902-twilight-crusade.json) |
 | Twilight Dream | 364683 | [364683-twilight-dream.json](./364683-twilight-dream.json) |
 | Twilight Drive | 148366 | [148366-twilight-drive.json](./148366-twilight-drive.json) |
 | Twilight Flight | 403709 | [403709-twilight-flight.json](./403709-twilight-flight.json) |
