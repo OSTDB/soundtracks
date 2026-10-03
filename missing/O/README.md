@@ -996,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Express 91.06 | 155129 | [155129-omsi-2-express-91-06.json](./155129-omsi-2-express-91-06.json) |
 | OMSI 2: Hamburg Linie 20 | 195764 | [195764-omsi-2-hamburg-linie-20.json](./195764-omsi-2-hamburg-linie-20.json) |
 | OMSI 2: Heuliez Bus Pack - GX x37: Diesel Edition | 237624 | [237624-omsi-2-heuliez-bus-pack-gx-x37-diesel-edition.json](./237624-omsi-2-heuliez-bus-pack-gx-x37-diesel-edition.json) |
+| OMSI 2: Irisbus Familie - Citybus Pack | 227196 | [227196-omsi-2-irisbus-familie-citybus-pack.json](./227196-omsi-2-irisbus-familie-citybus-pack.json) |
 | OMSI 2: Irisbus Familie - Low-Entry-Busse | 193181 | [193181-omsi-2-irisbus-familie-low-entry-busse.json](./193181-omsi-2-irisbus-familie-low-entry-busse.json) |
 | OMSI 2: Irisbus Intercity Pack | 155117 | [155117-omsi-2-irisbus-intercity-pack.json](./155117-omsi-2-irisbus-intercity-pack.json) |
 | OMSI 2: IVECO Bus Family Interurban Generation | 155111 | [155111-omsi-2-iveco-bus-family-interurban-generation.json](./155111-omsi-2-iveco-bus-family-interurban-generation.json) |
@@ -2228,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orudo Taima | 184884 | [184884-orudo-taima.json](./184884-orudo-taima.json) |
 | Orun | 411713 | [411713-orun.json](./411713-orun.json) |
 | Oruna | 139420 | [139420-oruna.json](./139420-oruna.json) |
+| Orwell: Ignorance Is Strength - Deluxe Edition | 227187 | [227187-orwell-ignorance-is-strength-deluxe-edition.json](./227187-orwell-ignorance-is-strength-deluxe-edition.json) |
 | Os Cavaleiros do Zodíaco: A Lenda do Santuário - Cosmo Cards | 282131 | [282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json](./282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json) |
 | Os Trapalhões apresentam Didi na Mina Encantada! | 262416 | [262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json](./262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json) |
 | OS:Path | 97084 | [97084-os-path.json](./97084-os-path.json) |
