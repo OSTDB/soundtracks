@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimmie Jong on Nukes the World | 110989 | [110989-kimmie-jong-on-nukes-the-world.json](./110989-kimmie-jong-on-nukes-the-world.json) |
 | Kimmy | 29331 | [29331-kimmy.json](./29331-kimmy.json) |
 | Kimochii Classroom | 360209 | [360209-kimochii-classroom.json](./360209-kimochii-classroom.json) |
+| KimodameshiGolf | 266976 | [266976-kimodameshigolf.json](./266976-kimodameshigolf.json) |
 | Kimokawaiii | 304184 | [304184-kimokawaiii.json](./304184-kimokawaiii.json) |
 | Kimono Cats | 249774 | [249774-kimono-cats.json](./249774-kimono-cats.json) |
 | Kin | 84169 | [84169-kin.json](./84169-kin.json) |
@@ -1825,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiniro no Korda Starlight Orchestra | 220314 | [220314-kiniro-no-korda-starlight-orchestra.json](./220314-kiniro-no-korda-starlight-orchestra.json) |
 | Kinkey Dong | 275225 | [275225-kinkey-dong.json](./275225-kinkey-dong.json) |
 | Kinky Cosplay Heroes | 275727 | [275727-kinky-cosplay-heroes.json](./275727-kinky-cosplay-heroes.json) |
+| Kinky Fight Club 2 | 267000 | [267000-kinky-fight-club-2.json](./267000-kinky-fight-club-2.json) |
 | Kinniku Banzuke GB 3: Shinseiki Survival Retsuden! | 281657 | [281657-kinniku-banzuke-gb-3-shinseiki-survival-retsuden.json](./281657-kinniku-banzuke-gb-3-shinseiki-survival-retsuden.json) |
 | Kinniku Banzuke Vol.2: Aratanaru Genkai he no Chousen! | 344463 | [344463-kinniku-banzuke-vol-2-aratanaru-genkai-he-no-chousen.json](./344463-kinniku-banzuke-vol-2-aratanaru-genkai-he-no-chousen.json) |
 | Kinnikuman | 138764 | [138764-kinnikuman.json](./138764-kinnikuman.json) |
@@ -2123,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kizuna Encounter: Super Tag Battle | 380124 | [380124-kizuna-encounter-super-tag-battle.json](./380124-kizuna-encounter-super-tag-battle.json) |
 | Kizuna Kirameku Koi Iroha | 339373 | [339373-kizuna-kirameku-koi-iroha.json](./339373-kizuna-kirameku-koi-iroha.json) |
 | Kizuna Kirameku Koi Iroha | 77659 | [77659-kizuna-kirameku-koi-iroha.json](./77659-kizuna-kirameku-koi-iroha.json) |
+| Kizuyami | 267009 | [267009-kizuyami.json](./267009-kizuyami.json) |
 | KKHTA: Security Watch - The Second Part | 285151 | [285151-kkhta-security-watch-the-second-part.json](./285151-kkhta-security-watch-the-second-part.json) |
 | KKND: Krush, Kill 'N' Destroy | 71738 | [71738-kknd-krush-kill-n-destroy.json](./71738-kknd-krush-kill-n-destroy.json) |
 | Kkokko Industry | 371981 | [371981-kkokko-industry.json](./371981-kkokko-industry.json) |
@@ -2719,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosmo Laika: Space and Beyond | 164247 | [164247-kosmo-laika-space-and-beyond.json](./164247-kosmo-laika-space-and-beyond.json) |
 | Kosmo Skirmish | 291771 | [291771-kosmo-skirmish.json](./291771-kosmo-skirmish.json) |
 | Kosmobreak | 285518 | [285518-kosmobreak.json](./285518-kosmobreak.json) |
+| Kosmocean: The Endless Sea | 266985 | [266985-kosmocean-the-endless-sea.json](./266985-kosmocean-the-endless-sea.json) |
 | Kosmonavtes: Academy Escape | 163752 | [163752-kosmonavtes-academy-escape.json](./163752-kosmonavtes-academy-escape.json) |
 | Kosmonavtes: Escape Reality | 155983 | [155983-kosmonavtes-escape-reality.json](./155983-kosmonavtes-escape-reality.json) |
 | Kosmopolska | 92100 | [92100-kosmopolska.json](./92100-kosmopolska.json) |
