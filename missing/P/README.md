@@ -3679,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong | 358839 | [358839-ping-pong.json](./358839-ping-pong.json) |
 | Ping Pong | 86218 | [86218-ping-pong.json](./86218-ping-pong.json) |
 | Ping Pong 3D | 90348 | [90348-ping-pong-3d.json](./90348-ping-pong-3d.json) |
+| Ping Pong Cup | 247065 | [247065-ping-pong-cup.json](./247065-ping-pong-cup.json) |
 | Ping Pong League | 32252 | [32252-ping-pong-league.json](./32252-ping-pong-league.json) |
 | Ping Pong Pow | 23605 | [23605-ping-pong-pow.json](./23605-ping-pong-pow.json) |
 | Ping Pong Space | 130965 | [130965-ping-pong-space.json](./130965-ping-pong-space.json) |
@@ -4548,6 +4549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Place & Learn 19×19 Mental Math | 409550 | [409550-place-and-learn-19-19-mental-math.json](./409550-place-and-learn-19-19-mental-math.json) |
 | Place for Hero | 153907 | [153907-place-for-hero.json](./153907-place-for-hero.json) |
 | Place Icebergs Apart | 318190 | [318190-place-icebergs-apart.json](./318190-place-icebergs-apart.json) |
+| Place Kick Master Football Championship | 247003 | [247003-place-kick-master-football-championship.json](./247003-place-kick-master-football-championship.json) |
 | Place: Weapon Workshop | 411079 | [411079-place-weapon-workshop.json](./411079-place-weapon-workshop.json) |
 | Placebo Love | 150074 | [150074-placebo-love.json](./150074-placebo-love.json) |
 | Placefront | 170322 | [170322-placefront.json](./170322-placefront.json) |
@@ -6308,6 +6310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop & Chips | 83213 | [83213-pop-and-chips.json](./83213-pop-and-chips.json) |
 | Pop and Chicks | 253364 | [253364-pop-and-chicks.json](./253364-pop-and-chicks.json) |
 | Pop Ball | 246360 | [246360-pop-ball.json](./246360-pop-ball.json) |
+| Pop Balloons | 247069 | [247069-pop-balloons.json](./247069-pop-balloons.json) |
 | Pop Cutie! Street Fashion Simulation | 72743 | [72743-pop-cutie-street-fashion-simulation.json](./72743-pop-cutie-street-fashion-simulation.json) |
 | Pop DS | 326190 | [326190-pop-ds.json](./326190-pop-ds.json) |
 | Pop Float a-way | 414579 | [414579-pop-float-a-way.json](./414579-pop-float-a-way.json) |
@@ -7193,6 +7196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime World: Defenders 2 | 112944 | [112944-prime-world-defenders-2.json](./112944-prime-world-defenders-2.json) |
 | Prime's Quest | 63555 | [63555-primes-quest.json](./63555-primes-quest.json) |
 | Primedice | 76563 | [76563-primedice.json](./76563-primedice.json) |
+| Primer | 247086 | [247086-primer.json](./247086-primer.json) |
 | Primeval | 158688 | [158688-primeval.json](./158688-primeval.json) |
 | Primeval Horizon | 295527 | [295527-primeval-horizon.json](./295527-primeval-horizon.json) |
 | Priministar | 294860 | [294860-priministar.json](./294860-priministar.json) |
@@ -8886,6 +8890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Stack | 146348 | [146348-push-stack.json](./146348-push-stack.json) |
 | Push That Cat!! | 258642 | [258642-push-that-cat.json](./258642-push-that-cat.json) |
 | Push the Box | 147899 | [147899-push-the-box.json](./147899-push-the-box.json) |
+| Push the Box | 247075 | [247075-push-the-box.json](./247075-push-the-box.json) |
 | Push the Box 3D | 167784 | [167784-push-the-box-3d.json](./167784-push-the-box-3d.json) |
 | Push the Button to Win! | 241487 | [241487-push-the-button-to-win.json](./241487-push-the-button-to-win.json) |
 | Push the Circles Extreme | 96036 | [96036-push-the-circles-extreme.json](./96036-push-the-circles-extreme.json) |
