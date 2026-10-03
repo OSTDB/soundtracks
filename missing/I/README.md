@@ -1037,6 +1037,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IkachanDS | 339243 | [339243-ikachands.json](./339243-ikachands.json) |
 | Ikanoid | 78600 | [78600-ikanoid.json](./78600-ikanoid.json) |
 | Ikao: The lost souls | 114533 | [114533-ikao-the-lost-souls.json](./114533-ikao-the-lost-souls.json) |
+| Ikari III: The Rescue | 274104 | [274104-ikari-iii-the-rescue.json](./274104-ikari-iii-the-rescue.json) |
+| Ikari III: The Rescue | 274105 | [274105-ikari-iii-the-rescue.json](./274105-ikari-iii-the-rescue.json) |
+| Ikari III: The Rescue | 274106 | [274106-ikari-iii-the-rescue.json](./274106-ikari-iii-the-rescue.json) |
 | Ikari III: The Rescue | 48054 | [48054-ikari-iii-the-rescue.json](./48054-ikari-iii-the-rescue.json) |
 | Ikari Warriors | 274081 | [274081-ikari-warriors.json](./274081-ikari-warriors.json) |
 | Ikari Warriors II: Victory Road | 48055 | [48055-ikari-warriors-ii-victory-road.json](./48055-ikari-warriors-ii-victory-road.json) |
@@ -2045,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inflatable doll | 155462 | [155462-inflatable-doll.json](./155462-inflatable-doll.json) |
 | Inflatables | 309033 | [309033-inflatables.json](./309033-inflatables.json) |
 | Inflate Me to the Moon | 177494 | [177494-inflate-me-to-the-moon.json](./177494-inflate-me-to-the-moon.json) |
+| Inflation Bay | 274139 | [274139-inflation-bay.json](./274139-inflation-bay.json) |
 | Inflation RPG | 208481 | [208481-inflation-rpg.json](./208481-inflation-rpg.json) |
 | Inflatum | 295879 | [295879-inflatum.json](./295879-inflatum.json) |
 | Inflorescences | 249217 | [249217-inflorescences.json](./249217-inflorescences.json) |
