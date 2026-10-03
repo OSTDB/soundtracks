@@ -8959,11 +8959,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo CD Tsuu | 250297 | [250297-puyo-puyo-cd-tsuu.json](./250297-puyo-puyo-cd-tsuu.json) |
 | Puyo Puyo Fever Habanero | 252125 | [252125-puyo-puyo-fever-habanero.json](./252125-puyo-puyo-fever-habanero.json) |
 | Puyo Puyo Fever Rhythm | 252126 | [252126-puyo-puyo-fever-rhythm.json](./252126-puyo-puyo-fever-rhythm.json) |
+| Puyo Puyo Fever: Minna de Nazo Puyo | 251090 | [251090-puyo-puyo-fever-minna-de-nazo-puyo.json](./251090-puyo-puyo-fever-minna-de-nazo-puyo.json) |
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
 | Puyo Puyo Sun | 250340 | [250340-puyo-puyo-sun.json](./250340-puyo-puyo-sun.json) |
 | Puyo Puyo Tetris 2 | 137132 | [137132-puyo-puyo-tetris-2.json](./137132-puyo-puyo-tetris-2.json) |
 | Puyo Puyo Tetris 2: Launch Edition | 139944 | [139944-puyo-puyo-tetris-2-launch-edition.json](./139944-puyo-puyo-tetris-2-launch-edition.json) |
 | Puyo Puyo!! Quest | 80188 | [80188-puyo-puyo-quest.json](./80188-puyo-puyo-quest.json) |
+| Puyo Puyo!! Quest Arcade | 251092 | [251092-puyo-puyo-quest-arcade.json](./251092-puyo-puyo-quest-arcade.json) |
 | Puyo! Sokoban | 367944 | [367944-puyo-sokoban.json](./367944-puyo-sokoban.json) |
 | Puzigo | 416601 | [416601-puzigo.json](./416601-puzigo.json) |
 | Puzkend | 68930 | [68930-puzkend.json](./68930-puzkend.json) |
