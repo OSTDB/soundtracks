@@ -1980,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing Collection | 118850 | [118850-lets-sing-collection.json](./118850-lets-sing-collection.json) |
 | Let's Sing Queen | 138761 | [138761-lets-sing-queen.json](./138761-lets-sing-queen.json) |
 | Let's Sing: Radio Italia | 268190 | [268190-lets-sing-radio-italia.json](./268190-lets-sing-radio-italia.json) |
+| Let's Spot It! | 252925 | [252925-lets-spot-it.json](./252925-lets-spot-it.json) |
 | Let's Talk About Me | 57648 | [57648-lets-talk-about-me.json](./57648-lets-talk-about-me.json) |
 | Let's Talk About Me Too | 78336 | [78336-lets-talk-about-me-too.json](./78336-lets-talk-about-me-too.json) |
 | Let's Throoow! Street Basketball Simulator | 300869 | [300869-lets-throoow-street-basketball-simulator.json](./300869-lets-throoow-street-basketball-simulator.json) |
@@ -2712,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Crossing | 181386 | [181386-line-crossing.json](./181386-line-crossing.json) |
 | Line GoGo! TwinBee | 282827 | [282827-line-gogo-twinbee.json](./282827-line-gogo-twinbee.json) |
 | Line Hopper | 349875 | [349875-line-hopper.json](./349875-line-hopper.json) |
+| Line Monster: Escape Dark | 252931 | [252931-line-monster-escape-dark.json](./252931-line-monster-escape-dark.json) |
 | Line of Fire | 12178 | [12178-line-of-fire.json](./12178-line-of-fire.json) |
 | Line of Fire | 19487 | [19487-line-of-fire.json](./19487-line-of-fire.json) |
 | Line of Fire: Pirate Waltz | 290544 | [290544-line-of-fire-pirate-waltz.json](./290544-line-of-fire-pirate-waltz.json) |
