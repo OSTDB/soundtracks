@@ -2236,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redstream | 392134 | [392134-redstream.json](./392134-redstream.json) |
 | Redstream Dispatch | 397059 | [397059-redstream-dispatch.json](./397059-redstream-dispatch.json) |
 | Redswood VR | 32103 | [32103-redswood-vr.json](./32103-redswood-vr.json) |
+| Redumption | 236419 | [236419-redumption.json](./236419-redumption.json) |
 | Redundancy | 262311 | [262311-redundancy.json](./262311-redundancy.json) |
 | ReDungeon | 38943 | [38943-redungeon.json](./38943-redungeon.json) |
 | Redux: Dark Matters | 36093 | [36093-redux-dark-matters.json](./36093-redux-dark-matters.json) |
