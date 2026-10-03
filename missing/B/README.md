@@ -6559,6 +6559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom | 240146 | [240146-boom.json](./240146-boom.json) |
 | Boom | 339838 | [339838-boom.json](./339838-boom.json) |
 | Boom 2020 | 226196 | [226196-boom-2020.json](./226196-boom-2020.json) |
+| Boom Arena | 261988 | [261988-boom-arena.json](./261988-boom-arena.json) |
 | Boom Barn | 58304 | [58304-boom-barn.json](./58304-boom-barn.json) |
 | Boom Beats | 42777 | [42777-boom-beats.json](./42777-boom-beats.json) |
 | Boom Bits | 108040 | [108040-boom-bits.json](./108040-boom-bits.json) |
