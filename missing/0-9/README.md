@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1st Person Pinball | 12429 | [12429-1st-person-pinball.json](./12429-1st-person-pinball.json) |
 | 1v1 Arcade Soccer | 58469 | [58469-1v1-arcade-soccer.json](./58469-1v1-arcade-soccer.json) |
 | 1v1 Cube Game | 135143 | [135143-1v1-cube-game.json](./135143-1v1-cube-game.json) |
+| 1Week | 235880 | [235880-1week.json](./235880-1week.json) |
 | 1x! Space Adventure | 169847 | [169847-1x-space-adventure.json](./169847-1x-space-adventure.json) |
 | 1x1 | 262086 | [262086-1x1.json](./262086-1x1.json) |
 | 2 3 4 Player Games | 125921 | [125921-2-3-4-player-games.json](./125921-2-3-4-player-games.json) |
