@@ -7351,6 +7351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smurfs' Village | 234053 | [234053-smurfs-village.json](./234053-smurfs-village.json) |
 | Smush | 119028 | [119028-smush.json](./119028-smush.json) |
 | Smush.TV | 111707 | [111707-smush-tv.json](./111707-smush-tv.json) |
+| SMW | 250505 | [250505-smw.json](./250505-smw.json) |
 | SMW Quest for Gaming | 267950 | [267950-smw-quest-for-gaming.json](./267950-smw-quest-for-gaming.json) |
 | SMW The Crown Tale | 267957 | [267957-smw-the-crown-tale.json](./267957-smw-the-crown-tale.json) |
 | SMW The Princess Rescue | 222890 | [222890-smw-the-princess-rescue.json](./222890-smw-the-princess-rescue.json) |
@@ -18230,6 +18231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synopsis Quest | 66166 | [66166-synopsis-quest.json](./66166-synopsis-quest.json) |
 | SyntaxBomb | 183012 | [183012-syntaxbomb.json](./183012-syntaxbomb.json) |
 | Synth Ark | 317234 | [317234-synth-ark.json](./317234-synth-ark.json) |
+| Synth Beasts | 250479 | [250479-synth-beasts.json](./250479-synth-beasts.json) |
 | Synth Laser | 373201 | [373201-synth-laser.json](./373201-synth-laser.json) |
 | Synth Pong | 235759 | [235759-synth-pong.json](./235759-synth-pong.json) |
 | Synth Riders | 105333 | [105333-synth-riders.json](./105333-synth-riders.json) |
