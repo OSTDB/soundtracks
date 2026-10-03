@@ -2057,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Knights | 105140 | [105140-hell-knights.json](./105140-hell-knights.json) |
 | Hell Let Loose | 32365 | [32365-hell-let-loose.json](./32365-hell-let-loose.json) |
 | Hell Let Loose: Airborne M1942 Reinforced | 323252 | [323252-hell-let-loose-airborne-m1942-reinforced.json](./323252-hell-let-loose-airborne-m1942-reinforced.json) |
+| Hell Let Loose: Anniversary Edition | 226784 | [226784-hell-let-loose-anniversary-edition.json](./226784-hell-let-loose-anniversary-edition.json) |
 | Hell Let Loose: Battle Scarred | 371226 | [371226-hell-let-loose-battle-scarred.json](./371226-hell-let-loose-battle-scarred.json) |
 | Hell Let Loose: Deluxe Edition | 273004 | [273004-hell-let-loose-deluxe-edition.json](./273004-hell-let-loose-deluxe-edition.json) |
 | Hell Let Loose: Devotion to Duty | 252863 | [252863-hell-let-loose-devotion-to-duty.json](./252863-hell-let-loose-devotion-to-duty.json) |
