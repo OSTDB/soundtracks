@@ -2057,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Stars: Dawn of Equinox | 318389 | [318389-sea-of-stars-dawn-of-equinox.json](./318389-sea-of-stars-dawn-of-equinox.json) |
 | Sea of Stars: Early Backer Limited Edition | 283826 | [283826-sea-of-stars-early-backer-limited-edition.json](./283826-sea-of-stars-early-backer-limited-edition.json) |
 | Sea of Stars: Throes of the Watchmaker | 314929 | [314929-sea-of-stars-throes-of-the-watchmaker.json](./314929-sea-of-stars-throes-of-the-watchmaker.json) |
+| Sea of Survivors | 244841 | [244841-sea-of-survivors.json](./244841-sea-of-survivors.json) |
 | Sea of Thieves: 2024 Deluxe Bundle | 298029 | [298029-sea-of-thieves-2024-deluxe-bundle.json](./298029-sea-of-thieves-2024-deluxe-bundle.json) |
 | Sea of Thieves: 2024 Deluxe Edition | 291677 | [291677-sea-of-thieves-2024-deluxe-edition.json](./291677-sea-of-thieves-2024-deluxe-edition.json) |
 | Sea of Thieves: 2024 Edition | 335072 | [335072-sea-of-thieves-2024-edition.json](./335072-sea-of-thieves-2024-edition.json) |
@@ -2236,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Soul | 202407 | [202407-second-soul.json](./202407-second-soul.json) |
 | Second Stone | 216314 | [216314-second-stone.json](./216314-second-stone.json) |
 | Second Story | 59688 | [59688-second-story.json](./59688-second-story.json) |
+| Second Sun | 244915 | [244915-second-sun.json](./244915-second-sun.json) |
 | Second Thoughts | 203543 | [203543-second-thoughts.json](./203543-second-thoughts.json) |
 | Second to Nun | 189949 | [189949-second-to-nun.json](./189949-second-to-nun.json) |
 | Second Wave | 242250 | [242250-second-wave.json](./242250-second-wave.json) |
@@ -18104,6 +18106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Bones 5 | 360592 | [360592-swords-and-bones-5.json](./360592-swords-and-bones-5.json) |
 | Swords & Bones: Complete Edition | 250365 | [250365-swords-and-bones-complete-edition.json](./250365-swords-and-bones-complete-edition.json) |
 | Swords & Bones: Definitive Edition | 247592 | [247592-swords-and-bones-definitive-edition.json](./247592-swords-and-bones-definitive-edition.json) |
+| Swords & Bones: Premium Edition | 244819 | [244819-swords-and-bones-premium-edition.json](./244819-swords-and-bones-premium-edition.json) |
 | Swords & Bones: Special Edition | 242054 | [242054-swords-and-bones-special-edition.json](./242054-swords-and-bones-special-edition.json) |
 | Swords & Crystals: Dragon Hatchling Pet | 298185 | [298185-swords-and-crystals-dragon-hatchling-pet.json](./298185-swords-and-crystals-dragon-hatchling-pet.json) |
 | Swords & Darkness | 85411 | [85411-swords-and-darkness.json](./85411-swords-and-darkness.json) |
