@@ -3901,6 +3901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Book: Hand-Drawn Action MMO | 146171 | [146171-devil-book-hand-drawn-action-mmo.json](./146171-devil-book-hand-drawn-action-mmo.json) |
 | Devil Cult Party | 305794 | [305794-devil-cult-party.json](./305794-devil-cult-party.json) |
 | Devil Dice | 28400 | [28400-devil-dice.json](./28400-devil-dice.json) |
+| Devil Dumper Doris | 244918 | [244918-devil-dumper-doris.json](./244918-devil-dumper-doris.json) |
 | Devil Eater | 38506 | [38506-devil-eater.json](./38506-devil-eater.json) |
 | Devil Edge | 169450 | [169450-devil-edge.json](./169450-devil-edge.json) |
 | Devil Engine: Complete Edition | 268093 | [268093-devil-engine-complete-edition.json](./268093-devil-engine-complete-edition.json) |
@@ -4732,6 +4733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DinoLife | 212909 | [212909-dinolife.json](./212909-dinolife.json) |
 | DinoMight Baseball | 209019 | [209019-dinomight-baseball.json](./209019-dinomight-baseball.json) |
 | DinoOps | 33334 | [33334-dinoops.json](./33334-dinoops.json) |
+| DinoPlanet VR | 244835 | [244835-dinoplanet-vr.json](./244835-dinoplanet-vr.json) |
 | Dinopunk: The Cacops Adventure | 273648 | [273648-dinopunk-the-cacops-adventure.json](./273648-dinopunk-the-cacops-adventure.json) |
 | Dinorage | 180581 | [180581-dinorage.json](./180581-dinorage.json) |
 | DinoRPG | 176881 | [176881-dinorpg.json](./176881-dinorpg.json) |
@@ -4877,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Love | 303481 | [303481-dirty-love.json](./303481-dirty-love.json) |
 | Dirty Piano Lessons | 371387 | [371387-dirty-piano-lessons.json](./371387-dirty-piano-lessons.json) |
 | Dirty Rotten Bounders | 285023 | [285023-dirty-rotten-bounders.json](./285023-dirty-rotten-bounders.json) |
+| Dirty Streamer Puzzle | 244832 | [244832-dirty-streamer-puzzle.json](./244832-dirty-streamer-puzzle.json) |
 | Dirty Teachers | 368091 | [368091-dirty-teachers.json](./368091-dirty-teachers.json) |
 | Dirty Texts: Are You Sure? | 263221 | [263221-dirty-texts-are-you-sure.json](./263221-dirty-texts-are-you-sure.json) |
 | Dirty Vampires: An RPG Tower Defence Adventure | 241297 | [241297-dirty-vampires-an-rpg-tower-defence-adventure.json](./241297-dirty-vampires-an-rpg-tower-defence-adventure.json) |
