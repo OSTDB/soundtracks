@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Virus: Outbreak | 362983 | [362983-z-virus-outbreak.json](./362983-z-virus-outbreak.json) |
 | Z ViRus: V.I.R.M Uprising | 44209 | [44209-z-virus-v-i-r-m-uprising.json](./44209-z-virus-v-i-r-m-uprising.json) |
 | Z World | 252223 | [252223-z-world.json](./252223-z-world.json) |
+| Z Zombies: Battle Royale | 259173 | [259173-z-zombies-battle-royale.json](./259173-z-zombies-battle-royale.json) |
 | Z-89 | 93371 | [93371-z-89.json](./93371-z-89.json) |
 | Z-Ape: Tower Defense | 304009 | [304009-z-ape-tower-defense.json](./304009-z-ape-tower-defense.json) |
 | Z-Arena | 28153 | [28153-z-arena.json](./28153-z-arena.json) |
