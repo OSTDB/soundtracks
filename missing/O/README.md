@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Shadow | 232438 | [232438-old-shadow.json](./232438-old-shadow.json) |
 | Old Skool Classics | 93569 | [93569-old-skool-classics.json](./93569-old-skool-classics.json) |
 | Old Skool Racer | 156609 | [156609-old-skool-racer.json](./156609-old-skool-racer.json) |
+| Old Still Life | 262552 | [262552-old-still-life.json](./262552-old-still-life.json) |
 | Old Time Baseball | 94671 | [94671-old-time-baseball.json](./94671-old-time-baseball.json) |
 | Old Times | 294169 | [294169-old-times.json](./294169-old-times.json) |
 | Old Towers | 126017 | [126017-old-towers.json](./126017-old-towers.json) |
@@ -1660,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooops Up | 84290 | [84290-ooops-up.json](./84290-ooops-up.json) |
 | Ooparts | 269600 | [269600-ooparts.json](./269600-ooparts.json) |
 | Oops, I said Yes?! | 239870 | [239870-oops-i-said-yes.json](./239870-oops-i-said-yes.json) |
+| Oops! All Greyboxes! | 262548 | [262548-oops-all-greyboxes.json](./262548-oops-all-greyboxes.json) |
 | Oops! All Gyarus! | 294991 | [294991-oops-all-gyarus.json](./294991-oops-all-gyarus.json) |
 | Oops! Inc. Emergency Center | 395044 | [395044-oops-inc-emergency-center.json](./395044-oops-inc-emergency-center.json) |
 | Oops! Simulator | 390757 | [390757-oops-simulator.json](./390757-oops-simulator.json) |
