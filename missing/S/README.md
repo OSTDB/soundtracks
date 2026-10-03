@@ -3245,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Puzzle | 335443 | [335443-sexy-puzzle.json](./335443-sexy-puzzle.json) |
 | Sexy Sniper | 159814 | [159814-sexy-sniper.json](./159814-sexy-sniper.json) |
 | Sexy Space Defender | 389648 | [389648-sexy-space-defender.json](./389648-sexy-space-defender.json) |
+| Sexy Strippers | 275834 | [275834-sexy-strippers.json](./275834-sexy-strippers.json) |
 | Sexy Waifu | 227518 | [227518-sexy-waifu.json](./227518-sexy-waifu.json) |
 | Seybul Tech | 264634 | [264634-seybul-tech.json](./264634-seybul-tech.json) |
 | Seymour - Take One! | 142435 | [142435-seymour-take-one.json](./142435-seymour-take-one.json) |
@@ -3256,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SG Racing | 207760 | [207760-sg-racing.json](./207760-sg-racing.json) |
 | SGC: Short Games Collection #1 | 173141 | [173141-sgc-short-games-collection-1.json](./173141-sgc-short-games-collection-1.json) |
 | SGS Battle For: Dien Bien Phu | 298119 | [298119-sgs-battle-for-dien-bien-phu.json](./298119-sgs-battle-for-dien-bien-phu.json) |
+| SGS Battle For: Madrid | 275833 | [275833-sgs-battle-for-madrid.json](./275833-sgs-battle-for-madrid.json) |
 | SGS Battle For: Stalingrad | 244900 | [244900-sgs-battle-for-stalingrad.json](./244900-sgs-battle-for-stalingrad.json) |
 | SGS Fall Weiss | 197271 | [197271-sgs-fall-weiss.json](./197271-sgs-fall-weiss.json) |
 | SGS Korean War | 202653 | [202653-sgs-korean-war.json](./202653-sgs-korean-war.json) |
@@ -3586,6 +3588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows: Awakening | 54775 | [54775-shadows-awakening.json](./54775-shadows-awakening.json) |
 | Shadowsense. | 207510 | [207510-shadowsense.json](./207510-shadowsense.json) |
 | Shadowstone | 388342 | [388342-shadowstone.json](./388342-shadowstone.json) |
+| ShadowStorm | 275832 | [275832-shadowstorm.json](./275832-shadowstorm.json) |
 | ShadowStrikeVR | 285114 | [285114-shadowstrikevr.json](./285114-shadowstrikevr.json) |
 | Shadowvane | 254781 | [254781-shadowvane.json](./254781-shadowvane.json) |
 | Shadowveil: Legend of The Five Rings | 321163 | [321163-shadowveil-legend-of-the-five-rings.json](./321163-shadowveil-legend-of-the-five-rings.json) |
@@ -5876,6 +5879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixty Jumps to Ceres | 258479 | [258479-sixty-jumps-to-ceres.json](./258479-sixty-jumps-to-ceres.json) |
 | Sixty Second Shooter Prime | 20056 | [20056-sixty-second-shooter-prime.json](./20056-sixty-second-shooter-prime.json) |
 | Sixty Words by Powgi | 206719 | [206719-sixty-words-by-powgi.json](./206719-sixty-words-by-powgi.json) |
+| Size Experiments at Morinomma Tech | 275801 | [275801-size-experiments-at-morinomma-tech.json](./275801-size-experiments-at-morinomma-tech.json) |
 | Size Matters! | 331709 | [331709-size-matters.json](./331709-size-matters.json) |
 | Sizeable | 139605 | [139605-sizeable.json](./139605-sizeable.json) |
 | Sizif | 257433 | [257433-sizif.json](./257433-sizif.json) |
@@ -9944,6 +9948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ranger: Return to Earth | 45907 | [45907-space-ranger-return-to-earth.json](./45907-space-ranger-return-to-earth.json) |
 | Space Rangers | 7592 | [7592-space-rangers.json](./7592-space-rangers.json) |
 | Space Rangers 2: Dominators | 7593 | [7593-space-rangers-2-dominators.json](./7593-space-rangers-2-dominators.json) |
+| Space Rangers: Legacy | 275805 | [275805-space-rangers-legacy.json](./275805-space-rangers-legacy.json) |
 | Space Rangers: Quest | 25617 | [25617-space-rangers-quest.json](./25617-space-rangers-quest.json) |
 | Space raven quest - Tiny planet | 120965 | [120965-space-raven-quest-tiny-planet.json](./120965-space-raven-quest-tiny-planet.json) |
 | Space Rebellion | 66930 | [66930-space-rebellion.json](./66930-space-rebellion.json) |
@@ -10919,6 +10924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpinOff | 199054 | [199054-spinoff.json](./199054-spinoff.json) |
 | Spinout Drifter | 219649 | [219649-spinout-drifter.json](./219649-spinout-drifter.json) |
 | Spinrise | 118190 | [118190-spinrise.json](./118190-spinrise.json) |
+| Spinshot Party | 275830 | [275830-spinshot-party.json](./275830-spinshot-party.json) |
 | SpinShuffle | 413752 | [413752-spinshuffle.json](./413752-spinshuffle.json) |
 | SpinSling | 74405 | [74405-spinsling.json](./74405-spinsling.json) |
 | SpinSweep | 301277 | [301277-spinsweep.json](./301277-spinsweep.json) |
@@ -11060,6 +11066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splashy Dots | 54679 | [54679-splashy-dots.json](./54679-splashy-dots.json) |
 | Splashy Duck | 84893 | [84893-splashy-duck.json](./84893-splashy-duck.json) |
 | Splashy Sharky | 97147 | [97147-splashy-sharky.json](./97147-splashy-sharky.json) |
+| Splat Arena | 275829 | [275829-splat-arena.json](./275829-splat-arena.json) |
 | Splat Death Salad | 238077 | [238077-splat-death-salad.json](./238077-splat-death-salad.json) |
 | Splat Renegade Paintball | 47312 | [47312-splat-renegade-paintball.json](./47312-splat-renegade-paintball.json) |
 | Splat Splat | 348990 | [348990-splat-splat.json](./348990-splat-splat.json) |
@@ -11232,6 +11239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky's Jump Scare Mansion: The Doll House | 140550 | [140550-spookys-jump-scare-mansion-the-doll-house.json](./140550-spookys-jump-scare-mansion-the-doll-house.json) |
 | Spooky's Jumpscare Mansion Plus | 356227 | [356227-spookys-jumpscare-mansion-plus.json](./356227-spookys-jumpscare-mansion-plus.json) |
 | SpookyKillers | 191121 | [191121-spookykillers.json](./191121-spookykillers.json) |
+| Spookynakki | 275810 | [275810-spookynakki.json](./275810-spookynakki.json) |
 | Spookyville | 299409 | [299409-spookyville.json](./299409-spookyville.json) |
 | Spoonman: Ballad of a Bonehead | 307708 | [307708-spoonman-ballad-of-a-bonehead.json](./307708-spoonman-ballad-of-a-bonehead.json) |
 | Spoons Card Game | 102740 | [102740-spoons-card-game.json](./102740-spoons-card-game.json) |
@@ -14986,6 +14994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoner's Gambit | 353894 | [353894-summoners-gambit.json](./353894-summoners-gambit.json) |
 | Summoner's Handbook | 181696 | [181696-summoners-handbook.json](./181696-summoners-handbook.json) |
 | Summoner's Sky | 295562 | [295562-summoners-sky.json](./295562-summoners-sky.json) |
+| SummonerRL | 275806 | [275806-summonerrl.json](./275806-summonerrl.json) |
 | Summoners Era: Arena of Heroes | 193888 | [193888-summoners-era-arena-of-heroes.json](./193888-summoners-era-arena-of-heroes.json) |
 | Summoners Glory | 141128 | [141128-summoners-glory.json](./141128-summoners-glory.json) |
 | Summoners Mist | 130246 | [130246-summoners-mist.json](./130246-summoners-mist.json) |
@@ -17751,6 +17760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Hollow Realization - Limited Edition | 212317 | [212317-sword-art-online-hollow-realization-limited-edition.json](./212317-sword-art-online-hollow-realization-limited-edition.json) |
 | Sword Art Online: Hollow Realization Collector's Edition | 132182 | [132182-sword-art-online-hollow-realization-collectors-edition.json](./132182-sword-art-online-hollow-realization-collectors-edition.json) |
 | Sword Art Online: Integral Factor | 68441 | [68441-sword-art-online-integral-factor.json](./68441-sword-art-online-integral-factor.json) |
+| Sword Art Online: Last Recollection - Black Swordsman Swords Skins Set | 275831 | [275831-sword-art-online-last-recollection-black-swordsman-swords-skins-set.json](./275831-sword-art-online-last-recollection-black-swordsman-swords-skins-set.json) |
 | Sword Art Online: Last Recollection - Digital Premium Edition | 271473 | [271473-sword-art-online-last-recollection-digital-premium-edition.json](./271473-sword-art-online-last-recollection-digital-premium-edition.json) |
 | Sword Art Online: Lost Song - Limited Edition | 313299 | [313299-sword-art-online-lost-song-limited-edition.json](./313299-sword-art-online-lost-song-limited-edition.json) |
 | Sword Art Online: Unleash Blading | 318998 | [318998-sword-art-online-unleash-blading.json](./318998-sword-art-online-unleash-blading.json) |
@@ -17912,6 +17922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sym Shepherd | 413143 | [413143-sym-shepherd.json](./413143-sym-shepherd.json) |
 | Sym-Bionic Titan: Teenage Warriors | 319177 | [319177-sym-bionic-titan-teenage-warriors.json](./319177-sym-bionic-titan-teenage-warriors.json) |
 | Symb Eco | 77362 | [77362-symb-eco.json](./77362-symb-eco.json) |
+| Symbio | 275827 | [275827-symbio.json](./275827-symbio.json) |
 | Symbiogenesis | 302964 | [302964-symbiogenesis.json](./302964-symbiogenesis.json) |
 | Symbiosis | 302916 | [302916-symbiosis.json](./302916-symbiosis.json) |
 | Symbiotic Love | 159361 | [159361-symbiotic-love.json](./159361-symbiotic-love.json) |
