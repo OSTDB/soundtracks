@@ -3898,6 +3898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flightless Fighters | 391710 | [391710-flightless-fighters.json](./391710-flightless-fighters.json) |
 | Flightmare | 267469 | [267469-flightmare.json](./267469-flightmare.json) |
 | Flights of Fancy | 176954 | [176954-flights-of-fancy.json](./176954-flights-of-fancy.json) |
+| Flighty Chicken | 242107 | [242107-flighty-chicken.json](./242107-flighty-chicken.json) |
 | Flikken Game: De Achtervolging | 86032 | [86032-flikken-game-de-achtervolging.json](./86032-flikken-game-de-achtervolging.json) |
 | Flimbo's Quest | 12103 | [12103-flimbos-quest.json](./12103-flimbos-quest.json) |
 | Fling | 93541 | [93541-fling.json](./93541-fling.json) |
