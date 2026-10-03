@@ -3686,6 +3686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Match Master | 323307 | [323307-medieval-match-master.json](./323307-medieval-match-master.json) |
 | Medieval Mayhem | 40716 | [40716-medieval-mayhem.json](./40716-medieval-mayhem.json) |
 | Medieval Mayhem | 75009 | [75009-medieval-mayhem.json](./75009-medieval-mayhem.json) |
+| Medieval Merge: Epic Adventure | 248158 | [248158-medieval-merge-epic-adventure.json](./248158-medieval-merge-epic-adventure.json) |
 | Medieval Nightt: Part 1 | 311804 | [311804-medieval-nightt-part-1.json](./311804-medieval-nightt-part-1.json) |
 | Medieval Pathfinder | 336050 | [336050-medieval-pathfinder.json](./336050-medieval-pathfinder.json) |
 | Medieval Quest | 406848 | [406848-medieval-quest.json](./406848-medieval-quest.json) |
@@ -3771,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet the Vowels | 102773 | [102773-meet-the-vowels.json](./102773-meet-the-vowels.json) |
 | Meet Your Maker | 212710 | [212710-meet-your-maker.json](./212710-meet-your-maker.json) |
 | Meet Your Maker: Deluxe Edition | 243798 | [243798-meet-your-maker-deluxe-edition.json](./243798-meet-your-maker-deluxe-edition.json) |
+| Meet Your Maker: Scorched Necropolis | 248093 | [248093-meet-your-maker-scorched-necropolis.json](./248093-meet-your-maker-scorched-necropolis.json) |
 | Meet Your Maker: Sector 3 Arsenal Pack | 284882 | [284882-meet-your-maker-sector-3-arsenal-pack.json](./284882-meet-your-maker-sector-3-arsenal-pack.json) |
 | Meet.Hunter | 96479 | [96479-meet-hunter.json](./96479-meet-hunter.json) |
 | Meet'N'Fuck Denise Milani | 221728 | [221728-meetnfuck-denise-milani.json](./221728-meetnfuck-denise-milani.json) |
@@ -6322,6 +6324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Clicker | 291477 | [291477-miner-clicker.json](./291477-miner-clicker.json) |
 | Miner Clicker | 387598 | [387598-miner-clicker.json](./387598-miner-clicker.json) |
 | Miner Escape: Puzzle Adventure | 296425 | [296425-miner-escape-puzzle-adventure.json](./296425-miner-escape-puzzle-adventure.json) |
+| Miner Gun Builder | 248159 | [248159-miner-gun-builder.json](./248159-miner-gun-builder.json) |
 | Miner Man | 391215 | [391215-miner-man.json](./391215-miner-man.json) |
 | Miner Problem | 180117 | [180117-miner-problem.json](./180117-miner-problem.json) |
 | Miner Rogue | 290391 | [290391-miner-rogue.json](./290391-miner-rogue.json) |
