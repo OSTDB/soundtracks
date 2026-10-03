@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.I. Joe: The Atlantis Factor | 8166 | [8166-g-i-joe-the-atlantis-factor.json](./8166-g-i-joe-the-atlantis-factor.json) |
 | G.I. Joe: War on Cobra | 138573 | [138573-g-i-joe-war-on-cobra.json](./138573-g-i-joe-war-on-cobra.json) |
 | G.O.H - The God of Highschool | 137442 | [137442-g-o-h-the-god-of-highschool.json](./137442-g-o-h-the-god-of-highschool.json) |
+| G.O.M.P! | 245903 | [245903-g-o-m-p.json](./245903-g-o-m-p.json) |
 | G.O.P.O.T.A 2 | 291756 | [291756-g-o-p-o-t-a-2.json](./291756-g-o-p-o-t-a-2.json) |
 | G1 Jockey 2 | 55170 | [55170-g1-jockey-2.json](./55170-g1-jockey-2.json) |
 | G1 Jockey 2000 | 55171 | [55171-g1-jockey-2000.json](./55171-g1-jockey-2000.json) |
@@ -873,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garage Flipper | 217270 | [217270-garage-flipper.json](./217270-garage-flipper.json) |
 | Garage Mechanic Simulator | 124020 | [124020-garage-mechanic-simulator.json](./124020-garage-mechanic-simulator.json) |
 | Garage Ninja | 163764 | [163764-garage-ninja.json](./163764-garage-ninja.json) |
+| Garage Sale | 245999 | [245999-garage-sale.json](./245999-garage-sale.json) |
 | Garage Works | 278417 | [278417-garage-works.json](./278417-garage-works.json) |
 | Garage: Bad Dream Adventure | 24947 | [24947-garage-bad-dream-adventure.json](./24947-garage-bad-dream-adventure.json) |
 | Garagem SA | 345628 | [345628-garagem-sa.json](./345628-garagem-sa.json) |
@@ -4584,6 +4586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grief Trigger | 236514 | [236514-grief-trigger.json](./236514-grief-trigger.json) |
 | Grief: How to say goodbye | 182851 | [182851-grief-how-to-say-goodbye.json](./182851-grief-how-to-say-goodbye.json) |
 | Grieving: Berduka | 372674 | [372674-grieving-berduka.json](./372674-grieving-berduka.json) |
+| Grievous Onslaught | 245966 | [245966-grievous-onslaught.json](./245966-grievous-onslaught.json) |
 | Grievous Survivors | 235680 | [235680-grievous-survivors.json](./235680-grievous-survivors.json) |
 | Griff Wild | 257575 | [257575-griff-wild.json](./257575-griff-wild.json) |
 | Griffin | 353993 | [353993-griffin.json](./353993-griffin.json) |
@@ -5515,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunship 2000 | 12129 | [12129-gunship-2000.json](./12129-gunship-2000.json) |
 | Gunship Assault | 188006 | [188006-gunship-assault.json](./188006-gunship-assault.json) |
 | Gunship Battle | 174901 | [174901-gunship-battle.json](./174901-gunship-battle.json) |
+| Gunship Battle | 245967 | [245967-gunship-battle.json](./245967-gunship-battle.json) |
 | Gunship Battle: Total Warfare | 109500 | [109500-gunship-battle-total-warfare.json](./109500-gunship-battle-total-warfare.json) |
 | Gunship Global Operations | 380115 | [380115-gunship-global-operations.json](./380115-gunship-global-operations.json) |
 | Gunship II | 88754 | [88754-gunship-ii.json](./88754-gunship-ii.json) |
