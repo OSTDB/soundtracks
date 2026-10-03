@@ -2374,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terres: Supporter Pack | 323240 | [323240-terres-supporter-pack.json](./323240-terres-supporter-pack.json) |
 | Terrestial | 250929 | [250929-terrestial.json](./250929-terrestial.json) |
 | Terrestrial | 311826 | [311826-terrestrial.json](./311826-terrestrial.json) |
+| Terrianis | 269759 | [269759-terrianis.json](./269759-terrianis.json) |
 | Terrible Beast from the East | 111602 | [111602-terrible-beast-from-the-east.json](./111602-terrible-beast-from-the-east.json) |
 | Terrible Clicking Game | 215391 | [215391-terrible-clicking-game.json](./215391-terrible-clicking-game.json) |
 | Terrible Life Expectancy | 352386 | [352386-terrible-life-expectancy.json](./352386-terrible-life-expectancy.json) |
@@ -5263,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guardhouse | 271321 | [271321-the-guardhouse.json](./271321-the-guardhouse.json) |
 | The Guardian | 149495 | [149495-the-guardian.json](./149495-the-guardian.json) |
 | The Guardian and the Dreamer | 318801 | [318801-the-guardian-and-the-dreamer.json](./318801-the-guardian-and-the-dreamer.json) |
+| The Guardian Legend: Secret Edition | 269778 | [269778-the-guardian-legend-secret-edition.json](./269778-the-guardian-legend-secret-edition.json) |
 | The Guardians of the Secret Garden | 349305 | [349305-the-guardians-of-the-secret-garden.json](./349305-the-guardians-of-the-secret-garden.json) |
 | The Guest: Home Alone | 394171 | [394171-the-guest-home-alone.json](./394171-the-guest-home-alone.json) |
 | The Guestlist | 244381 | [244381-the-guestlist.json](./244381-the-guestlist.json) |
@@ -12586,6 +12588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Steal the Meal | 228100 | [228100-tom-steal-the-meal.json](./228100-tom-steal-the-meal.json) |
 | Tom the Tow Truck of Car City | 90796 | [90796-tom-the-tow-truck-of-car-city.json](./90796-tom-the-tow-truck-of-car-city.json) |
 | Tom Thumb | 206766 | [206766-tom-thumb.json](./206766-tom-thumb.json) |
+| Tom vs. Jerry: The Chase Is On! | 269769 | [269769-tom-vs-jerry-the-chase-is-on.json](./269769-tom-vs-jerry-the-chase-is-on.json) |
 | Tom's Adventure | 202668 | [202668-toms-adventure.json](./202668-toms-adventure.json) |
 | Tomahawk | 26474 | [26474-tomahawk.json](./26474-tomahawk.json) |
 | Tomahawk Missile | 277897 | [277897-tomahawk-missile.json](./277897-tomahawk-missile.json) |
