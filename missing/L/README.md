@@ -3021,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Islanders | 211251 | [211251-little-islanders.json](./211251-little-islanders.json) |
 | Little Jack's Adventures | 30101 | [30101-little-jacks-adventures.json](./30101-little-jacks-adventures.json) |
 | Little Jumper! | 175403 | [175403-little-jumper.json](./175403-little-jumper.json) |
+| Little Keepers | 256418 | [256418-little-keepers.json](./256418-little-keepers.json) |
 | Little King's Story | 4974 | [4974-little-kings-story.json](./4974-little-kings-story.json) |
 | Little Kingdom RTS | 349319 | [349319-little-kingdom-rts.json](./349319-little-kingdom-rts.json) |
 | Little Kingdoms: Chapters 1-3 | 262930 | [262930-little-kingdoms-chapters-1-3.json](./262930-little-kingdoms-chapters-1-3.json) |
