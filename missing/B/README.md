@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bannerman | 70395 | [70395-bannerman.json](./70395-bannerman.json) |
 | Banners of Ruin: Collection | 324501 | [324501-banners-of-ruin-collection.json](./324501-banners-of-ruin-collection.json) |
 | Banners of Ruin: DLC Pack | 324413 | [324413-banners-of-ruin-dlc-pack.json](./324413-banners-of-ruin-dlc-pack.json) |
+| Banners of Ruin: Iris | 260316 | [260316-banners-of-ruin-iris.json](./260316-banners-of-ruin-iris.json) |
 | Banners of Ruin: Moonstone | 230817 | [230817-banners-of-ruin-moonstone.json](./230817-banners-of-ruin-moonstone.json) |
 | Banpo's Bridge Wondrous Worlds | 348887 | [348887-banpos-bridge-wondrous-worlds.json](./348887-banpos-bridge-wondrous-worlds.json) |
 | Banquet for Fools | 318079 | [318079-banquet-for-fools.json](./318079-banquet-for-fools.json) |
@@ -4420,6 +4421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizarre Earthquake | 33385 | [33385-bizarre-earthquake.json](./33385-bizarre-earthquake.json) |
 | Bizarre Hunteress Rin | 82879 | [82879-bizarre-hunteress-rin.json](./82879-bizarre-hunteress-rin.json) |
 | Bizarre Journey | 103164 | [103164-bizarre-journey.json](./103164-bizarre-journey.json) |
+| Bizarre Mushroom Cycle Simulator | 260337 | [260337-bizarre-mushroom-cycle-simulator.json](./260337-bizarre-mushroom-cycle-simulator.json) |
 | Bizarre Tale | 76671 | [76671-bizarre-tale.json](./76671-bizarre-tale.json) |
 | Bizerta: Silent Evil | 60570 | [60570-bizerta-silent-evil.json](./60570-bizerta-silent-evil.json) |
 | Biztopia | 323774 | [323774-biztopia.json](./323774-biztopia.json) |
@@ -5067,6 +5069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleu Bayou | 349836 | [349836-bleu-bayou.json](./349836-bleu-bayou.json) |
 | Blewie | 157482 | [157482-blewie.json](./157482-blewie.json) |
 | Blight | 211161 | [211161-blight.json](./211161-blight.json) |
+| Blight Bubbles | 260289 | [260289-blight-bubbles.json](./260289-blight-bubbles.json) |
 | Blight Doctors | 415867 | [415867-blight-doctors.json](./415867-blight-doctors.json) |
 | Blight Dream | 121029 | [121029-blight-dream.json](./121029-blight-dream.json) |
 | Blight Night | 343404 | [343404-blight-night.json](./343404-blight-night.json) |
