@@ -2178,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liber | 163198 | [163198-liber.json](./163198-liber.json) |
 | Liberate 1024 | 312923 | [312923-liberate-1024.json](./312923-liberate-1024.json) |
 | Liberation | 249813 | [249813-liberation.json](./249813-liberation.json) |
+| Liberation | 250489 | [250489-liberation.json](./250489-liberation.json) |
 | Liberation | 355236 | [355236-liberation.json](./355236-liberation.json) |
 | Liberation Army | 364590 | [364590-liberation-army.json](./364590-liberation-army.json) |
 | Liberation Army Plus | 364593 | [364593-liberation-army-plus.json](./364593-liberation-army-plus.json) |
@@ -3930,6 +3931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Magna: Maiden Heaven | 20020 | [20020-lord-of-magna-maiden-heaven.json](./20020-lord-of-magna-maiden-heaven.json) |
 | Lord of Nazarick | 317316 | [317316-lord-of-nazarick.json](./317316-lord-of-nazarick.json) |
 | Lord of Ogre | 365078 | [365078-lord-of-ogre.json](./365078-lord-of-ogre.json) |
+| Lord of Terror | 250490 | [250490-lord-of-terror.json](./250490-lord-of-terror.json) |
 | Lord of the Balrogs | 47225 | [47225-lord-of-the-balrogs.json](./47225-lord-of-the-balrogs.json) |
 | Lord of the Click 3 | 197410 | [197410-lord-of-the-click-3.json](./197410-lord-of-the-click-3.json) |
 | Lord of the Click 4 | 331469 | [331469-lord-of-the-click-4.json](./331469-lord-of-the-click-4.json) |
@@ -4141,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Blue 2: Fate's Island | 318018 | [318018-lost-in-blue-2-fates-island.json](./318018-lost-in-blue-2-fates-island.json) |
 | Lost in Blue 3 | 21361 | [21361-lost-in-blue-3.json](./21361-lost-in-blue-3.json) |
 | Lost in Cairo | 284909 | [284909-lost-in-cairo.json](./284909-lost-in-cairo.json) |
+| Lost in Darklight | 250481 | [250481-lost-in-darklight.json](./250481-lost-in-darklight.json) |
 | Lost In Failures | 291093 | [291093-lost-in-failures.json](./291093-lost-in-failures.json) |
 | Lost In Fantaland | 157064 | [157064-lost-in-fantaland.json](./157064-lost-in-fantaland.json) |
 | Lost in Harmony | 58892 | [58892-lost-in-harmony.json](./58892-lost-in-harmony.json) |
@@ -4653,6 +4656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Löwenzahn 5: Geschichten aus Natur, Umwelt und Technik | 374190 | [374190-lowenzahn-5-geschichten-aus-natur-umwelt-und-technik.json](./374190-lowenzahn-5-geschichten-aus-natur-umwelt-und-technik.json) |
 | Löwenzahn 6: Geschichten aus Natur, Umwelt und Technik | 374191 | [374191-lowenzahn-6-geschichten-aus-natur-umwelt-und-technik.json](./374191-lowenzahn-6-geschichten-aus-natur-umwelt-und-technik.json) |
 | Löwenzahn 7: Geschichten aus Natur, Umwelt und Technik | 374192 | [374192-lowenzahn-7-geschichten-aus-natur-umwelt-und-technik.json](./374192-lowenzahn-7-geschichten-aus-natur-umwelt-und-technik.json) |
+| Löwenzahn: Geschichten aus Natur, Umwelt und Technik | 250534 | [250534-lowenzahn-geschichten-aus-natur-umwelt-und-technik.json](./250534-lowenzahn-geschichten-aus-natur-umwelt-und-technik.json) |
 | Lower Forecourt | 271370 | [271370-lower-forecourt.json](./271370-lower-forecourt.json) |
 | Lower? Higher! | 303640 | [303640-lower-higher.json](./303640-lower-higher.json) |
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
