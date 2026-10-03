@@ -2537,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ningyo no Rakuin | 166551 | [166551-ningyo-no-rakuin.json](./166551-ningyo-no-rakuin.json) |
 | Ningyou no Kizuato | 255112 | [255112-ningyou-no-kizuato.json](./255112-ningyou-no-kizuato.json) |
 | Ningyou Tsukai | 41407 | [41407-ningyou-tsukai.json](./41407-ningyou-tsukai.json) |
+| Nini Ninja's Great Escape | 265316 | [265316-nini-ninjas-great-escape.json](./265316-nini-ninjas-great-escape.json) |
 | Ninja | 12837 | [12837-ninja.json](./12837-ninja.json) |
 | Ninja | 217835 | [217835-ninja.json](./217835-ninja.json) |
 | Ninja 1987 | 304559 | [304559-ninja-1987.json](./304559-ninja-1987.json) |
@@ -3642,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova: The Birth | 138830 | [138830-nova-the-birth.json](./138830-nova-the-birth.json) |
 | Nova's Adventure | 316397 | [316397-novas-adventure.json](./316397-novas-adventure.json) |
 | Novalight Tetris | 73858 | [73858-novalight-tetris.json](./73858-novalight-tetris.json) |
+| Novantica | 265312 | [265312-novantica.json](./265312-novantica.json) |
 | Novark | 290510 | [290510-novark.json](./290510-novark.json) |
 | Novas Las Aventurietas del Robercleiton o Renascimento do Turbo | 89425 | [89425-novas-las-aventurietas-del-robercleiton-o-renascimento-do-turbo.json](./89425-novas-las-aventurietas-del-robercleiton-o-renascimento-do-turbo.json) |
 | Novastella Island | 221189 | [221189-novastella-island.json](./221189-novastella-island.json) |
