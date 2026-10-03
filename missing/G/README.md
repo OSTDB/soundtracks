@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaelic Football Laochra | 394897 | [394897-gaelic-football-laochra.json](./394897-gaelic-football-laochra.json) |
 | Gaelic Games: Football | 98973 | [98973-gaelic-games-football.json](./98973-gaelic-games-football.json) |
 | Gaelic Games: Football 2 | 57605 | [57605-gaelic-games-football-2.json](./57605-gaelic-games-football-2.json) |
+| Gage | 264809 | [264809-gage.json](./264809-gage.json) |
 | Gaggi Clicker | 307947 | [307947-gaggi-clicker.json](./307947-gaggi-clicker.json) |
 | Gaggl | 306442 | [306442-gaggl.json](./306442-gaggl.json) |
 | GagImpact | 390267 | [390267-gagimpact.json](./390267-gagimpact.json) |
@@ -2187,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Dress Up Makeover | 88327 | [88327-girl-dress-up-makeover.json](./88327-girl-dress-up-makeover.json) |
 | Girl Fight | 19971 | [19971-girl-fight.json](./19971-girl-fight.json) |
 | Girl Frame | 349468 | [349468-girl-frame.json](./349468-girl-frame.json) |
+| Girl Gallery | 264786 | [264786-girl-gallery.json](./264786-girl-gallery.json) |
 | Girl Group Inc: Love Kpop Idol | 297012 | [297012-girl-group-inc-love-kpop-idol.json](./297012-girl-group-inc-love-kpop-idol.json) |
 | Girl Gunner | 277317 | [277317-girl-gunner.json](./277317-girl-gunner.json) |
 | Girl in Darkness | 394126 | [394126-girl-in-darkness.json](./394126-girl-in-darkness.json) |
@@ -2435,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global ATC Simulator | 16945 | [16945-global-atc-simulator.json](./16945-global-atc-simulator.json) |
 | Global Aviation Dream | 126530 | [126530-global-aviation-dream.json](./126530-global-aviation-dream.json) |
 | Global Champion | 92636 | [92636-global-champion.json](./92636-global-champion.json) |
+| Global Conflict: The Trading Card Game | 264811 | [264811-global-conflict-the-trading-card-game.json](./264811-global-conflict-the-trading-card-game.json) |
 | Global Conquest | 69946 | [69946-global-conquest.json](./69946-global-conquest.json) |
 | Global Defence Force | 5581 | [5581-global-defence-force.json](./5581-global-defence-force.json) |
 | Global Defence Force: Tactics | 5582 | [5582-global-defence-force-tactics.json](./5582-global-defence-force-tactics.json) |
@@ -3840,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix Circuit | 278446 | [278446-grand-prix-circuit.json](./278446-grand-prix-circuit.json) |
 | Grand Prix Circuit | 278447 | [278447-grand-prix-circuit.json](./278447-grand-prix-circuit.json) |
 | Grand Prix Circuit | 278449 | [278449-grand-prix-circuit.json](./278449-grand-prix-circuit.json) |
+| Grand Prix Circus 2 | 264780 | [264780-grand-prix-circus-2.json](./264780-grand-prix-circus-2.json) |
 | Grand Prix Evolution | 54063 | [54063-grand-prix-evolution.json](./54063-grand-prix-evolution.json) |
 | Grand Prix Formula One | 314865 | [314865-grand-prix-formula-one.json](./314865-grand-prix-formula-one.json) |
 | Grand Prix Manager | 78019 | [78019-grand-prix-manager.json](./78019-grand-prix-manager.json) |
