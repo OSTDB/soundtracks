@@ -2042,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRLab Academy: Anatomy VR | 115011 | [115011-vrlab-academy-anatomy-vr.json](./115011-vrlab-academy-anatomy-vr.json) |
 | VRobot: VR Giant Robot Destruction Simulator | 29572 | [29572-vrobot-vr-giant-robot-destruction-simulator.json](./29572-vrobot-vr-giant-robot-destruction-simulator.json) |
 | VRock | 187439 | [187439-vrock.json](./187439-vrock.json) |
+| VRogue | 264211 | [264211-vrogue.json](./264211-vrogue.json) |
 | Vroom | 12813 | [12813-vroom.json](./12813-vroom.json) |
 | Vroom Vroom !!! | 87527 | [87527-vroom-vroom.json](./87527-vroom-vroom.json) |
 | Vroom Vroom Valley | 253444 | [253444-vroom-vroom-valley.json](./253444-vroom-vroom-valley.json) |
