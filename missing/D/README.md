@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Ages: Volume I - Prince of Destiny | 70337 | [70337-dark-ages-volume-i-prince-of-destiny.json](./70337-dark-ages-volume-i-prince-of-destiny.json) |
 | Dark Alley Escape | 315671 | [315671-dark-alley-escape.json](./315671-dark-alley-escape.json) |
 | Dark and Bright | 51552 | [51552-dark-and-bright.json](./51552-dark-and-bright.json) |
+| Dark and Forgotten | 262599 | [262599-dark-and-forgotten.json](./262599-dark-and-forgotten.json) |
 | Dark and Light Mobile | 227497 | [227497-dark-and-light-mobile.json](./227497-dark-and-light-mobile.json) |
 | Dark and Light: Tales of Gaia | 51999 | [51999-dark-and-light-tales-of-gaia.json](./51999-dark-and-light-tales-of-gaia.json) |
 | Dark Angael | 206964 | [206964-dark-angael.json](./206964-dark-angael.json) |
@@ -3360,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dereism | 216237 | [216237-dereism.json](./216237-dereism.json) |
 | Derelict | 168384 | [168384-derelict.json](./168384-derelict.json) |
 | Derelict | 32423 | [32423-derelict.json](./32423-derelict.json) |
+| Dereliction Derby | 262553 | [262553-dereliction-derby.json](./262553-dereliction-derby.json) |
 | Dereology Chime | 409782 | [409782-dereology-chime.json](./409782-dereology-chime.json) |
 | Derf Party | 303475 | [303475-derf-party.json](./303475-derf-party.json) |
 | Deriva | 348329 | [348329-deriva.json](./348329-deriva.json) |
@@ -8719,6 +8721,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke It's Zero Hour | 270656 | [270656-duke-its-zero-hour.json](./270656-duke-its-zero-hour.json) |
 | Duke Mansion | 308472 | [308472-duke-mansion.json](./308472-duke-mansion.json) |
 | Duke Nukem 1+2 | 137548 | [137548-duke-nukem-1-2.json](./137548-duke-nukem-1-2.json) |
+| Duke Nukem 3D | 262569 | [262569-duke-nukem-3d.json](./262569-duke-nukem-3d.json) |
+| Duke Nukem 3D | 262573 | [262573-duke-nukem-3d.json](./262573-duke-nukem-3d.json) |
+| Duke Nukem 3D | 262575 | [262575-duke-nukem-3d.json](./262575-duke-nukem-3d.json) |
 | Duke Nukem 3D | 262683 | [262683-duke-nukem-3d.json](./262683-duke-nukem-3d.json) |
 | Duke Nukem 3D: High Resolution Pack | 371392 | [371392-duke-nukem-3d-high-resolution-pack.json](./371392-duke-nukem-3d-high-resolution-pack.json) |
 | Duke Nukem 3D: Kill-A-Ton Collection | 19730 | [19730-duke-nukem-3d-kill-a-ton-collection.json](./19730-duke-nukem-3d-kill-a-ton-collection.json) |
