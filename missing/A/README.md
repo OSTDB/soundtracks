@@ -1615,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aegis Online | 103881 | [103881-aegis-online.json](./103881-aegis-online.json) |
 | Aegyptus | 55466 | [55466-aegyptus.json](./55466-aegyptus.json) |
 | Aelfric the Wondrous | 299301 | [299301-aelfric-the-wondrous.json](./299301-aelfric-the-wondrous.json) |
+| Aenigma Game: Storm Hacker | 264792 | [264792-aenigma-game-storm-hacker.json](./264792-aenigma-game-storm-hacker.json) |
 | Aenigmarch | 360655 | [360655-aenigmarch.json](./360655-aenigmarch.json) |
 | Aeolus Fighter | 236797 | [236797-aeolus-fighter.json](./236797-aeolus-fighter.json) |
 | Aeolus Fighter 3 | 265585 | [265585-aeolus-fighter-3.json](./265585-aeolus-fighter-3.json) |
@@ -1858,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AfterShocked! | 69816 | [69816-aftershocked.json](./69816-aftershocked.json) |
 | Aftertaste | 419845 | [419845-aftertaste.json](./419845-aftertaste.json) |
 | AfterTheDawn | 81753 | [81753-afterthedawn.json](./81753-afterthedawn.json) |
+| AfterWar | 264765 | [264765-afterwar.json](./264765-afterwar.json) |
 | Afterworld | 288746 | [288746-afterworld.json](./288746-afterworld.json) |
 | AftLife: Girl and Cats, and Lost World | 284326 | [284326-aftlife-girl-and-cats-and-lost-world.json](./284326-aftlife-girl-and-cats-and-lost-world.json) |
 | Aftonbuilt | 204390 | [204390-aftonbuilt.json](./204390-aftonbuilt.json) |
@@ -3291,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All New Ultimate Pub Quiz 2008 | 320900 | [320900-all-new-ultimate-pub-quiz-2008.json](./320900-all-new-ultimate-pub-quiz-2008.json) |
 | All New World of Lemmings | 14246 | [14246-all-new-world-of-lemmings.json](./14246-all-new-world-of-lemmings.json) |
 | All Night Nippon Super Mario Bros. | 41272 | [41272-all-night-nippon-super-mario-bros.json](./41272-all-night-nippon-super-mario-bros.json) |
+| All Noobs Must Die | 264806 | [264806-all-noobs-must-die.json](./264806-all-noobs-must-die.json) |
 | All of Our Friends Are Dead | 124630 | [124630-all-of-our-friends-are-dead.json](./124630-all-of-our-friends-are-dead.json) |
 | All of Touhou Mystia's Izakaya | 209978 | [209978-all-of-touhou-mystias-izakaya.json](./209978-all-of-touhou-mystias-izakaya.json) |
 | All of Us: Her Story | 313877 | [313877-all-of-us-her-story.json](./313877-all-of-us-her-story.json) |
@@ -4146,6 +4149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Elmwood Trail | 243410 | [243410-an-elmwood-trail.json](./243410-an-elmwood-trail.json) |
 | An Empty Castle: Laputa | 177305 | [177305-an-empty-castle-laputa.json](./177305-an-empty-castle-laputa.json) |
 | An Empty House | 360730 | [360730-an-empty-house.json](./360730-an-empty-house.json) |
+| An Engineer and the Great Machine | 264789 | [264789-an-engineer-and-the-great-machine.json](./264789-an-engineer-and-the-great-machine.json) |
 | An English Haunting | 258723 | [258723-an-english-haunting.json](./258723-an-english-haunting.json) |
 | An Eternity Gone By | 294276 | [294276-an-eternity-gone-by.json](./294276-an-eternity-gone-by.json) |
 | An Evening of Wonders | 258941 | [258941-an-evening-of-wonders.json](./258941-an-evening-of-wonders.json) |
@@ -6968,6 +6972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Aventuras de Kiwi | 306710 | [306710-as-aventuras-de-kiwi.json](./306710-as-aventuras-de-kiwi.json) |
 | As Cold as the Grave | 176924 | [176924-as-cold-as-the-grave.json](./176924-as-cold-as-the-grave.json) |
 | As Crônicas de Mar Céu | 247988 | [247988-as-cronicas-de-mar-ceu.json](./247988-as-cronicas-de-mar-ceu.json) |
+| As Long As It's Not Illegal: Last Act | 264812 | [264812-as-long-as-its-not-illegal-last-act.json](./264812-as-long-as-its-not-illegal-last-act.json) |
 | As Long As We're Together: Magical Girls Sweet & Pure | 135055 | [135055-as-long-as-were-together-magical-girls-sweet-and-pure.json](./135055-as-long-as-were-together-magical-girls-sweet-and-pure.json) |
 | As Long As You're Here | 374293 | [374293-as-long-as-youre-here.json](./374293-as-long-as-youre-here.json) |
 | As Per My Last Email | 314868 | [314868-as-per-my-last-email.json](./314868-as-per-my-last-email.json) |
@@ -8670,6 +8675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axis and Allies | 24171 | [24171-axis-and-allies.json](./24171-axis-and-allies.json) |
 | Axis Football 2016 | 32085 | [32085-axis-football-2016.json](./32085-axis-football-2016.json) |
 | Axis Football 2023 | 213436 | [213436-axis-football-2023.json](./213436-axis-football-2023.json) |
+| Axis Football 2024 | 264762 | [264762-axis-football-2024.json](./264762-axis-football-2024.json) |
 | Axis Football 2027 | 416119 | [416119-axis-football-2027.json](./416119-axis-football-2027.json) |
 | Axis Forward | 100930 | [100930-axis-forward.json](./100930-axis-forward.json) |
 | Axis Mundi | 26942 | [26942-axis-mundi.json](./26942-axis-mundi.json) |
