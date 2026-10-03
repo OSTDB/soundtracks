@@ -3002,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: The Upper Hand | 329669 | [329669-deltarune-the-upper-hand.json](./329669-deltarune-the-upper-hand.json) |
 | Deltarune: Wilter's Wonderland | 350545 | [350545-deltarune-wilters-wonderland.json](./350545-deltarune-wilters-wonderland.json) |
 | Deltatale | 318535 | [318535-deltatale.json](./318535-deltatale.json) |
+| Deltatile | 238651 | [238651-deltatile.json](./238651-deltatile.json) |
 | Deltatraveler | 182345 | [182345-deltatraveler.json](./182345-deltatraveler.json) |
 | Deltatraveler: Section 1 | 307807 | [307807-deltatraveler-section-1.json](./307807-deltatraveler-section-1.json) |
 | Deltatraveler: Section 2 | 307811 | [307811-deltatraveler-section-2.json](./307811-deltatraveler-section-2.json) |
@@ -3584,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolate Wastes: Vendor Chronicles | 30314 | [30314-desolate-wastes-vendor-chronicles.json](./30314-desolate-wastes-vendor-chronicles.json) |
 | Desolate: Clone Catastrophe | 93730 | [93730-desolate-clone-catastrophe.json](./93730-desolate-clone-catastrophe.json) |
 | Desolated District | 253356 | [253356-desolated-district.json](./253356-desolated-district.json) |
+| Desolation | 238648 | [238648-desolation.json](./238648-desolation.json) |
 | Desolation | 284364 | [284364-desolation.json](./284364-desolation.json) |
 | Desolation Escape | 315672 | [315672-desolation-escape.json](./315672-desolation-escape.json) |
 | Desolation Tycoon | 169361 | [169361-desolation-tycoon.json](./169361-desolation-tycoon.json) |
@@ -5846,6 +5848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogotchi: Virtual Pet - Deluxe Edition | 256265 | [256265-dogotchi-virtual-pet-deluxe-edition.json](./256265-dogotchi-virtual-pet-deluxe-edition.json) |
 | DogPunk | 391750 | [391750-dogpunk.json](./391750-dogpunk.json) |
 | Dogs Cyberpuzzle | 203949 | [203949-dogs-cyberpuzzle.json](./203949-dogs-cyberpuzzle.json) |
+| Dogs Day | 238555 | [238555-dogs-day.json](./238555-dogs-day.json) |
 | Dogs of the Dark | 265678 | [265678-dogs-of-the-dark.json](./265678-dogs-of-the-dark.json) |
 | Dogs of Wallstreet | 197925 | [197925-dogs-of-wallstreet.json](./197925-dogs-of-wallstreet.json) |
 | Dogs of War | 74307 | [74307-dogs-of-war.json](./74307-dogs-of-war.json) |
@@ -6155,6 +6158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Feed It | 341896 | [341896-dont-feed-it.json](./341896-dont-feed-it.json) |
 | Don't Feed the Cat | 373144 | [373144-dont-feed-the-cat.json](./373144-dont-feed-the-cat.json) |
 | Don't Find Me!! | 303488 | [303488-dont-find-me.json](./303488-dont-find-me.json) |
+| Don't Flee | 238643 | [238643-dont-flee.json](./238643-dont-flee.json) |
 | Don't Flip First | 362408 | [362408-dont-flip-first.json](./362408-dont-flip-first.json) |
 | Don't Fool Me, Beauties! | 346175 | [346175-dont-fool-me-beauties.json](./346175-dont-fool-me-beauties.json) |
 | Don't Forget Me: Deluxe Edition | 154519 | [154519-dont-forget-me-deluxe-edition.json](./154519-dont-forget-me-deluxe-edition.json) |
@@ -8637,6 +8641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Brain: Complete Edition | 196178 | [196178-dual-brain-complete-edition.json](./196178-dual-brain-complete-edition.json) |
 | Dual Bus Simulator | 269028 | [269028-dual-bus-simulator.json](./269028-dual-bus-simulator.json) |
 | Dual Chroma | 255266 | [255266-dual-chroma.json](./255266-dual-chroma.json) |
+| Dual Chroma: Academy Carols | 238546 | [238546-dual-chroma-academy-carols.json](./238546-dual-chroma-academy-carols.json) |
 | Dual Chroma: Far Shore | 196699 | [196699-dual-chroma-far-shore.json](./196699-dual-chroma-far-shore.json) |
 | Dual Chroma: Haereticus | 259563 | [259563-dual-chroma-haereticus.json](./259563-dual-chroma-haereticus.json) |
 | Dual Core | 33168 | [33168-dual-core.json](./33168-dual-core.json) |
@@ -9137,6 +9142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of the Endless: Rescue Team | 168245 | [168245-dungeon-of-the-endless-rescue-team.json](./168245-dungeon-of-the-endless-rescue-team.json) |
 | Dungeon of the Forgotten King | 257981 | [257981-dungeon-of-the-forgotten-king.json](./257981-dungeon-of-the-forgotten-king.json) |
 | Dungeon of Windaria | 72637 | [72637-dungeon-of-windaria.json](./72637-dungeon-of-windaria.json) |
+| Dungeon of Zaar: Explorer Edition | 238545 | [238545-dungeon-of-zaar-explorer-edition.json](./238545-dungeon-of-zaar-explorer-edition.json) |
 | Dungeon of Zolthan | 32967 | [32967-dungeon-of-zolthan.json](./32967-dungeon-of-zolthan.json) |
 | Dungeon Party | 134613 | [134613-dungeon-party.json](./134613-dungeon-party.json) |
 | Dungeon Peplum | 379880 | [379880-dungeon-peplum.json](./379880-dungeon-peplum.json) |
