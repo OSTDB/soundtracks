@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Love | 161410 | [161410-waifu-love.json](./161410-waifu-love.json) |
 | Waifu Museum | 223162 | [223162-waifu-museum.json](./223162-waifu-museum.json) |
 | Waifu or Laifu | 243750 | [243750-waifu-or-laifu.json](./243750-waifu-or-laifu.json) |
+| Waifu Packer | 234111 | [234111-waifu-packer.json](./234111-waifu-packer.json) |
 | Waifu Pogo Club | 390750 | [390750-waifu-pogo-club.json](./390750-waifu-pogo-club.json) |
 | Waifu Quest 2 | 311813 | [311813-waifu-quest-2.json](./311813-waifu-quest-2.json) |
 | Waifu Secret 2 | 149420 | [149420-waifu-secret-2.json](./149420-waifu-secret-2.json) |
@@ -1899,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack-A-Monster | 410919 | [410919-whack-a-monster.json](./410919-whack-a-monster.json) |
 | WhackAKyouka | 164870 | [164870-whackakyouka.json](./164870-whackakyouka.json) |
 | Whacked! | 377148 | [377148-whacked.json](./377148-whacked.json) |
+| Whackerball | 234120 | [234120-whackerball.json](./234120-whackerball.json) |
 | Whacking Hell! | 282223 | [282223-whacking-hell.json](./282223-whacking-hell.json) |
 | Whacky Ball | 243712 | [243712-whacky-ball.json](./243712-whacky-ball.json) |
 | Whacky Park | 216796 | [216796-whacky-park.json](./216796-whacky-park.json) |
@@ -4831,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K23: Bad Bunny Bonus Pack | 263147 | [263147-wwe-2k23-bad-bunny-bonus-pack.json](./263147-wwe-2k23-bad-bunny-bonus-pack.json) |
 | WWE 2K23: Bad Bunny Edition - Bonus Pack | 273348 | [273348-wwe-2k23-bad-bunny-edition-bonus-pack.json](./273348-wwe-2k23-bad-bunny-edition-bonus-pack.json) |
 | WWE 2K23: Cross-Gen Digital Edition | 241078 | [241078-wwe-2k23-cross-gen-digital-edition.json](./241078-wwe-2k23-cross-gen-digital-edition.json) |
+| WWE 2K23: Deluxe Edition | 234209 | [234209-wwe-2k23-deluxe-edition.json](./234209-wwe-2k23-deluxe-edition.json) |
 | WWE 2K23: Pretty Sweet Pack | 279032 | [279032-wwe-2k23-pretty-sweet-pack.json](./279032-wwe-2k23-pretty-sweet-pack.json) |
 | WWE 2K23: Race to NXT Pack | 279049 | [279049-wwe-2k23-race-to-nxt-pack.json](./279049-wwe-2k23-race-to-nxt-pack.json) |
 | WWE 2K23: Revel with Wyatt Pack | 257324 | [257324-wwe-2k23-revel-with-wyatt-pack.json](./257324-wwe-2k23-revel-with-wyatt-pack.json) |
