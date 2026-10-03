@@ -7598,6 +7598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojito the Cat: Animals Skins | 298336 | [298336-mojito-the-cat-animals-skins.json](./298336-mojito-the-cat-animals-skins.json) |
 | Mojito the Cat: Christmas Skins | 309642 | [309642-mojito-the-cat-christmas-skins.json](./309642-mojito-the-cat-christmas-skins.json) |
 | Mojito the Cat: Definitive Edition | 251600 | [251600-mojito-the-cat-definitive-edition.json](./251600-mojito-the-cat-definitive-edition.json) |
+| Mojito the Cat: Deluxe Edition | 226780 | [226780-mojito-the-cat-deluxe-edition.json](./226780-mojito-the-cat-deluxe-edition.json) |
 | Mojito the Cat: Easter Edition | 246644 | [246644-mojito-the-cat-easter-edition.json](./246644-mojito-the-cat-easter-edition.json) |
 | Mojito the Cat: Extended Edition | 232995 | [232995-mojito-the-cat-extended-edition.json](./232995-mojito-the-cat-extended-edition.json) |
 | Mojito the Cat: Halloween Skins | 309643 | [309643-mojito-the-cat-halloween-skins.json](./309643-mojito-the-cat-halloween-skins.json) |
@@ -9157,6 +9158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbike Clicker | 337625 | [337625-motorbike-clicker.json](./337625-motorbike-clicker.json) |
 | Motorbike Racing | 217965 | [217965-motorbike-racing.json](./217965-motorbike-racing.json) |
 | Motorbike Racing | 88493 | [88493-motorbike-racing.json](./88493-motorbike-racing.json) |
+| Motorbike Racing Bundle | 226786 | [226786-motorbike-racing-bundle.json](./226786-motorbike-racing-bundle.json) |
 | Motorbike Racing Triple Pack | 149047 | [149047-motorbike-racing-triple-pack.json](./149047-motorbike-racing-triple-pack.json) |
 | Motorbikes Pro 2025: Discovery Edition | 399822 | [399822-motorbikes-pro-2025-discovery-edition.json](./399822-motorbikes-pro-2025-discovery-edition.json) |
 | Motorbikes Pro 2025: Value Edition | 396921 | [396921-motorbikes-pro-2025-value-edition.json](./396921-motorbikes-pro-2025-value-edition.json) |
