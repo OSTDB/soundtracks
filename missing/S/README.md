@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.Q. Sound Qube | 230505 | [230505-s-q-sound-qube.json](./230505-s-q-sound-qube.json) |
 | S.R.D. Mission | 40418 | [40418-s-r-d-mission.json](./40418-s-r-d-mission.json) |
 | S.S. Mission | 40252 | [40252-s-s-mission.json](./40252-s-s-mission.json) |
+| S.T.A.G. | 272454 | [272454-s-t-a-g.json](./272454-s-t-a-g.json) |
 | S.T.A.L.K.E.R. 2: Cost of Hope | 396025 | [396025-s-t-a-l-k-e-r-2-cost-of-hope.json](./396025-s-t-a-l-k-e-r-2-cost-of-hope.json) |
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Collector's Edition | 284360 | [284360-s-t-a-l-k-e-r-2-heart-of-chornobyl-collectors-edition.json](./284360-s-t-a-l-k-e-r-2-heart-of-chornobyl-collectors-edition.json) |
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Deluxe Edition | 169175 | [169175-s-t-a-l-k-e-r-2-heart-of-chornobyl-deluxe-edition.json](./169175-s-t-a-l-k-e-r-2-heart-of-chornobyl-deluxe-edition.json) |
@@ -3502,6 +3503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowgate | 8697 | [8697-shadowgate.json](./8697-shadowgate.json) |
 | Shadowgate 2 | 291480 | [291480-shadowgate-2.json](./291480-shadowgate-2.json) |
 | Shadowgate Classic | 8699 | [8699-shadowgate-classic.json](./8699-shadowgate-classic.json) |
+| Shadowgate PD | 272467 | [272467-shadowgate-pd.json](./272467-shadowgate-pd.json) |
 | Shadowgate: MacVenture Series | 35911 | [35911-shadowgate-macventure-series.json](./35911-shadowgate-macventure-series.json) |
 | Shadowgate: Special Edition | 51913 | [51913-shadowgate-special-edition.json](./51913-shadowgate-special-edition.json) |
 | Shadowgrounds Survivor | 9931 | [9931-shadowgrounds-survivor.json](./9931-shadowgrounds-survivor.json) |
@@ -3802,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Siege | 296460 | [296460-shark-siege.json](./296460-shark-siege.json) |
 | Shark Slayer | 166742 | [166742-shark-slayer.json](./166742-shark-slayer.json) |
 | Shark Trap | 24901 | [24901-shark-trap.json](./24901-shark-trap.json) |
+| Shark Turtle | 272479 | [272479-shark-turtle.json](./272479-shark-turtle.json) |
 | Shark! Hunting the Great White | 71770 | [71770-shark-hunting-the-great-white.json](./71770-shark-hunting-the-great-white.json) |
 | Shark! Shark! | 5695 | [5695-shark-shark.json](./5695-shark-shark.json) |
 | Shark's Treasures Adventure | 339901 | [339901-sharks-treasures-adventure.json](./339901-sharks-treasures-adventure.json) |
@@ -5108,6 +5111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigi: A Fart for Melusina | 75066 | [75066-sigi-a-fart-for-melusina.json](./75066-sigi-a-fart-for-melusina.json) |
 | Sigil | 313172 | [313172-sigil.json](./313172-sigil.json) |
 | Sigil of Kings | 235722 | [235722-sigil-of-kings.json](./235722-sigil-of-kings.json) |
+| Sigil Valley | 272456 | [272456-sigil-valley.json](./272456-sigil-valley.json) |
 | Sigilfarer | 314447 | [314447-sigilfarer.json](./314447-sigilfarer.json) |
 | Sigils of Elohim | 17808 | [17808-sigils-of-elohim.json](./17808-sigils-of-elohim.json) |
 | Sigma | 260791 | [260791-sigma.json](./260791-sigma.json) |
@@ -10236,6 +10240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceWorms | 114200 | [114200-spaceworms.json](./114200-spaceworms.json) |
 | SpaceWrestler XL | 128610 | [128610-spacewrestler-xl.json](./128610-spacewrestler-xl.json) |
 | Spacey Vade | 158153 | [158153-spacey-vade.json](./158153-spacey-vade.json) |
+| Spacey-Clopedia | 272484 | [272484-spacey-clopedia.json](./272484-spacey-clopedia.json) |
 | Spacy Shuffle Puck | 91520 | [91520-spacy-shuffle-puck.json](./91520-spacy-shuffle-puck.json) |
 | Spades HD | 355000 | [355000-spades-hd.json](./355000-spades-hd.json) |
 | Spades Pro | 86691 | [86691-spades-pro.json](./86691-spades-pro.json) |
@@ -15220,6 +15225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Adventure | 295492 | [295492-super-adventure.json](./295492-super-adventure.json) |
 | Super Adventure Island | 9064 | [9064-super-adventure-island.json](./9064-super-adventure-island.json) |
 | Super Adventurer | 61021 | [61021-super-adventurer.json](./61021-super-adventurer.json) |
+| Super Agent | 272486 | [272486-super-agent.json](./272486-super-agent.json) |
 | Super Airwolf | 45548 | [45548-super-airwolf.json](./45548-super-airwolf.json) |
 | Super Alabama Beach Mouse | 377600 | [377600-super-alabama-beach-mouse.json](./377600-super-alabama-beach-mouse.json) |
 | Super Algebrawl | 283889 | [283889-super-algebrawl.json](./283889-super-algebrawl.json) |
