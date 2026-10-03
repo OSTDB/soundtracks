@@ -2542,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi no Tsuzuki wa Honeymoon de | 238412 | [238412-koi-no-tsuzuki-wa-honeymoon-de.json](./238412-koi-no-tsuzuki-wa-honeymoon-de.json) |
 | Koi Shiyo? | 194535 | [194535-koi-shiyo.json](./194535-koi-shiyo.json) |
 | Koi Solitaire | 108415 | [108415-koi-solitaire.json](./108415-koi-solitaire.json) |
+| Koi suru Kanojo no Bukiyou na Butai | 238100 | [238100-koi-suru-kanojo-no-bukiyou-na-butai.json](./238100-koi-suru-kanojo-no-bukiyou-na-butai.json) |
 | Koi Suru Kimochi no Kasanekata: Kasaneta Omoi o Zutto | 82498 | [82498-koi-suru-kimochi-no-kasanekata-kasaneta-omoi-o-zutto.json](./82498-koi-suru-kimochi-no-kasanekata-kasaneta-omoi-o-zutto.json) |
 | Koi Suru Otome to Shugo no Tate: Re:boot the "Shield-9" | 139985 | [139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json](./139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json) |
 | Koi wa Alf Laylah | 191691 | [191691-koi-wa-alf-laylah.json](./191691-koi-wa-alf-laylah.json) |
