@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings | 240324 | [240324-lemmings.json](./240324-lemmings.json) |
 | Lemmings | 240326 | [240326-lemmings.json](./240326-lemmings.json) |
 | Lemmings | 4239 | [4239-lemmings.json](./4239-lemmings.json) |
+| LemminGS | 240379 | [240379-lemmings.json](./240379-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 242242 | [242242-lemmings-and-oh-no-more-lemmings.json](./242242-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 243377 | [243377-lemmings-and-oh-no-more-lemmings.json](./243377-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 243686 | [243686-lemmings-and-oh-no-more-lemmings.json](./243686-lemmings-and-oh-no-more-lemmings.json) |
@@ -1747,6 +1748,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings 2: The Tribes | 245307 | [245307-lemmings-2-the-tribes.json](./245307-lemmings-2-the-tribes.json) |
 | Lemmings 2: The Tribes | 8307 | [8307-lemmings-2-the-tribes.json](./8307-lemmings-2-the-tribes.json) |
 | Lemmings Paintball | 13780 | [13780-lemmings-paintball.json](./13780-lemmings-paintball.json) |
+| Lemmings Return | 240377 | [240377-lemmings-return.json](./240377-lemmings-return.json) |
+| Lemmings Tribes | 240378 | [240378-lemmings-tribes.json](./240378-lemmings-tribes.json) |
 | Lemnis Gate | 119464 | [119464-lemnis-gate.json](./119464-lemnis-gate.json) |
 | Lemonade | 366258 | [366258-lemonade.json](./366258-lemonade.json) |
 | Lemonade Stand | 207283 | [207283-lemonade-stand.json](./207283-lemonade-stand.json) |
@@ -4783,6 +4786,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Luke | 198806 | [198806-lucky-luke.json](./198806-lucky-luke.json) |
 | Lucky Luke Shoot & Hit | 197849 | [197849-lucky-luke-shoot-and-hit.json](./197849-lucky-luke-shoot-and-hit.json) |
 | Lucky Luke: Desperado Train | 50027 | [50027-lucky-luke-desperado-train.json](./50027-lucky-luke-desperado-train.json) |
+| Lucky Luke: Nitroglycerine | 240264 | [240264-lucky-luke-nitroglycerine.json](./240264-lucky-luke-nitroglycerine.json) |
+| Lucky Luke: Nitroglycerine | 240268 | [240268-lucky-luke-nitroglycerine.json](./240268-lucky-luke-nitroglycerine.json) |
+| Lucky Luke: Nitroglycerine | 240272 | [240272-lucky-luke-nitroglycerine.json](./240272-lucky-luke-nitroglycerine.json) |
 | Lucky Luke: Wanted! | 49331 | [49331-lucky-luke-wanted.json](./49331-lucky-luke-wanted.json) |
 | Lucky Luke: Western Fever | 43886 | [43886-lucky-luke-western-fever.json](./43886-lucky-luke-western-fever.json) |
 | Lucky Luna | 204452 | [204452-lucky-luna.json](./204452-lucky-luna.json) |
