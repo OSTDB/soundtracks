@@ -3473,6 +3473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lockdown Protocol | 176469 | [176469-lockdown-protocol.json](./176469-lockdown-protocol.json) |
 | Lockdown Town ZX | 232409 | [232409-lockdown-town-zx.json](./232409-lockdown-town-zx.json) |
 | Lockdown VR: Circus of the Dead | 195261 | [195261-lockdown-vr-circus-of-the-dead.json](./195261-lockdown-vr-circus-of-the-dead.json) |
+| Lockdown VR: Forgotten Temple | 242014 | [242014-lockdown-vr-forgotten-temple.json](./242014-lockdown-vr-forgotten-temple.json) |
 | Lockdown: Stand Alone | 31774 | [31774-lockdown-stand-alone.json](./31774-lockdown-stand-alone.json) |
 | Locke(d) | 231365 | [231365-locke-d.json](./231365-locke-d.json) |
 | Locked | 276219 | [276219-locked.json](./276219-locked.json) |
