@@ -1738,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CastleClysmic | 179153 | [179153-castleclysmic.json](./179153-castleclysmic.json) |
 | CastleDefense: RaiseArcher | 239141 | [239141-castledefense-raisearcher.json](./239141-castledefense-raisearcher.json) |
 | Castlehold | 144146 | [144146-castlehold.json](./144146-castlehold.json) |
+| Castlemancer | 258610 | [258610-castlemancer.json](./258610-castlemancer.json) |
 | CastleOfDuck | 193722 | [193722-castleofduck.json](./193722-castleofduck.json) |
 | CastleOn | 353881 | [353881-castleon.json](./353881-castleon.json) |
 | Castlepoint | 189036 | [189036-castlepoint.json](./189036-castlepoint.json) |
@@ -2970,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chariot Race | 47244 | [47244-chariot-race.json](./47244-chariot-race.json) |
 | Chariot: Adventure Through the Sky | 361331 | [361331-chariot-adventure-through-the-sky.json](./361331-chariot-adventure-through-the-sky.json) |
 | Chariot: Royal Gadget Pack | 252764 | [252764-chariot-royal-gadget-pack.json](./252764-chariot-royal-gadget-pack.json) |
+| Charles the Bee | 258641 | [258641-charles-the-bee.json](./258641-charles-the-bee.json) |
 | Charles: The Full Story | 281991 | [281991-charles-the-full-story.json](./281991-charles-the-full-story.json) |
 | Charley's Day | 218979 | [218979-charleys-day.json](./218979-charleys-day.json) |
 | Charlie & Lola: My Little Town | 90085 | [90085-charlie-and-lola-my-little-town.json](./90085-charlie-and-lola-my-little-town.json) |
@@ -9305,6 +9307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Wish: Candy Chase | 264888 | [264888-crystal-wish-candy-chase.json](./264888-crystal-wish-candy-chase.json) |
 | Crystal: Automaton | 333181 | [333181-crystal-automaton.json](./333181-crystal-automaton.json) |
 | Crystalborne: Heroes of Fate | 123036 | [123036-crystalborne-heroes-of-fate.json](./123036-crystalborne-heroes-of-fate.json) |
+| Crystalis Descendant | 258643 | [258643-crystalis-descendant.json](./258643-crystalis-descendant.json) |
 | CrystalKeepers Tower Defense | 276849 | [276849-crystalkeepers-tower-defense.json](./276849-crystalkeepers-tower-defense.json) |
 | Crystallo | 117037 | [117037-crystallo.json](./117037-crystallo.json) |
 | Crystalon | 183554 | [183554-crystalon.json](./183554-crystalon.json) |
@@ -10150,6 +10153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberdyne Warrior | 47234 | [47234-cyberdyne-warrior.json](./47234-cyberdyne-warrior.json) |
 | Cyberemo 2007 | 380620 | [380620-cyberemo-2007.json](./380620-cyberemo-2007.json) |
 | Cyberference | 244490 | [244490-cyberference.json](./244490-cyberference.json) |
+| Cyberfield | 258614 | [258614-cyberfield.json](./258614-cyberfield.json) |
 | Cyberflow | 61679 | [61679-cyberflow.json](./61679-cyberflow.json) |
 | Cybergeist | 156537 | [156537-cybergeist.json](./156537-cybergeist.json) |
 | CyberGladiators | 50149 | [50149-cybergladiators.json](./50149-cybergladiators.json) |
@@ -10228,6 +10232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberStorm 2: Corporate Wars | 11028 | [11028-cyberstorm-2-corporate-wars.json](./11028-cyberstorm-2-corporate-wars.json) |
 | Cyberstrike | 22809 | [22809-cyberstrike.json](./22809-cyberstrike.json) |
 | Cyberstrike 2 | 22810 | [22810-cyberstrike-2.json](./22810-cyberstrike-2.json) |
+| CyberStrike Chronicles | 258634 | [258634-cyberstrike-chronicles.json](./258634-cyberstrike-chronicles.json) |
 | CyberTaxi | 140602 | [140602-cybertaxi.json](./140602-cybertaxi.json) |
 | CyberTaxi: Lunatic Nights | 296388 | [296388-cybertaxi-lunatic-nights.json](./296388-cybertaxi-lunatic-nights.json) |
 | CyberTD | 221120 | [221120-cybertd.json](./221120-cybertd.json) |
