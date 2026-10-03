@@ -1139,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Files: Silent Willow - Collector's Edition | 244295 | [244295-paranormal-files-silent-willow-collectors-edition.json](./244295-paranormal-files-silent-willow-collectors-edition.json) |
 | Paranormal Files: The Trap of Truth - Collector's Edition | 370900 | [370900-paranormal-files-the-trap-of-truth-collectors-edition.json](./370900-paranormal-files-the-trap-of-truth-collectors-edition.json) |
 | Paranormal Files: Trials of Worth - Collector's Edition | 272950 | [272950-paranormal-files-trials-of-worth-collectors-edition.json](./272950-paranormal-files-trials-of-worth-collectors-edition.json) |
+| Paranormal Girlfriend | 236968 | [236968-paranormal-girlfriend.json](./236968-paranormal-girlfriend.json) |
 | Paranormal Motel | 193401 | [193401-paranormal-motel.json](./193401-paranormal-motel.json) |
 | Paranormal Mutagens: Cargo | 329209 | [329209-paranormal-mutagens-cargo.json](./329209-paranormal-mutagens-cargo.json) |
 | Paranormal Night Shift | 328009 | [328009-paranormal-night-shift.json](./328009-paranormal-night-shift.json) |
@@ -4588,6 +4589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Placefront | 170322 | [170322-placefront.json](./170322-placefront.json) |
 | Placeless | 291755 | [291755-placeless.json](./291755-placeless.json) |
 | Placid Plastic Deck: A Quiet Quest | 320718 | [320718-placid-plastic-deck-a-quiet-quest.json](./320718-placid-plastic-deck-a-quiet-quest.json) |
+| Placid Plastic Duck Simulator: Quacking the Ice | 236904 | [236904-placid-plastic-duck-simulator-quacking-the-ice.json](./236904-placid-plastic-duck-simulator-quacking-the-ice.json) |
 | Placid Plastic Duck VR | 338550 | [338550-placid-plastic-duck-vr.json](./338550-placid-plastic-duck-vr.json) |
 | Plague | 185680 | [185680-plague.json](./185680-plague.json) |
 | Plague Breaker | 155974 | [155974-plague-breaker.json](./155974-plague-breaker.json) |
@@ -5357,6 +5359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pog 2 | 157503 | [157503-pog-2.json](./157503-pog-2.json) |
 | Pog 4 | 158497 | [158497-pog-4.json](./158497-pog-4.json) |
 | Pog 5 | 165705 | [165705-pog-5.json](./165705-pog-5.json) |
+| Pog XL | 236891 | [236891-pog-xl.json](./236891-pog-xl.json) |
 | Pogger's Legends | 319641 | [319641-poggers-legends.json](./319641-poggers-legends.json) |
 | Pogglewash | 249504 | [249504-pogglewash.json](./249504-pogglewash.json) |
 | Pogn | 205103 | [205103-pogn.json](./205103-pogn.json) |
@@ -7589,6 +7592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 6: The Den Patch | 278048 | [278048-pro-evolution-soccer-6-the-den-patch.json](./278048-pro-evolution-soccer-6-the-den-patch.json) |
 | Pro Evolution Soccer Collection | 261262 | [261262-pro-evolution-soccer-collection.json](./261262-pro-evolution-soccer-collection.json) |
 | Pro Farm Manager | 75108 | [75108-pro-farm-manager.json](./75108-pro-farm-manager.json) |
+| Pro Feel Golf | 236973 | [236973-pro-feel-golf.json](./236973-pro-feel-golf.json) |
 | Pro Fishing Challenge | 78688 | [78688-pro-fishing-challenge.json](./78688-pro-fishing-challenge.json) |
 | Pro Fishing Simulator: Predator Edition | 115022 | [115022-pro-fishing-simulator-predator-edition.json](./115022-pro-fishing-simulator-predator-edition.json) |
 | Pro Flight Simulator New York Premium Edition | 88363 | [88363-pro-flight-simulator-new-york-premium-edition.json](./88363-pro-flight-simulator-new-york-premium-edition.json) |
@@ -8601,6 +8605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pudding Up! | 371324 | [371324-pudding-up.json](./371324-pudding-up.json) |
 | Pudding: Lyre Knight | 375851 | [375851-pudding-lyre-knight.json](./375851-pudding-lyre-knight.json) |
 | Puddle | 377567 | [377567-puddle.json](./377567-puddle.json) |
+| Pueblo | 236905 | [236905-pueblo.json](./236905-pueblo.json) |
 | Pueblo | 333767 | [333767-pueblo.json](./333767-pueblo.json) |
 | Puerto Rico HD | 90795 | [90795-puerto-rico-hd.json](./90795-puerto-rico-hd.json) |
 | Puff and the Catnip Caper | 185430 | [185430-puff-and-the-catnip-caper.json](./185430-puff-and-the-catnip-caper.json) |
