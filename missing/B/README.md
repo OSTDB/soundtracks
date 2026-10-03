@@ -3596,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Thaw | 170433 | [170433-beyond-the-thaw.json](./170433-beyond-the-thaw.json) |
 | Beyond the Underworld | 133371 | [133371-beyond-the-underworld.json](./133371-beyond-the-underworld.json) |
 | Beyond the Void | 72375 | [72375-beyond-the-void.json](./72375-beyond-the-void.json) |
+| Beyond the Wall | 241424 | [241424-beyond-the-wall.json](./241424-beyond-the-wall.json) |
 | Beyond the Wall | 80968 | [80968-beyond-the-wall.json](./80968-beyond-the-wall.json) |
 | Beyond the Wall of Stars | 68684 | [68684-beyond-the-wall-of-stars.json](./68684-beyond-the-wall-of-stars.json) |
 | Beyond The Walls | 303548 | [303548-beyond-the-walls.json](./303548-beyond-the-walls.json) |
