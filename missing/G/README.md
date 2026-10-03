@@ -4783,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grizzly Adventure | 107829 | [107829-grizzly-adventure.json](./107829-grizzly-adventure.json) |
 | Grizzly Retro Platformer | 98784 | [98784-grizzly-retro-platformer.json](./98784-grizzly-retro-platformer.json) |
 | Grizzly Valley | 33048 | [33048-grizzly-valley.json](./33048-grizzly-valley.json) |
+| Grizzly's | 231429 | [231429-grizzlys.json](./231429-grizzlys.json) |
 | Groaning Steel | 170541 | [170541-groaning-steel.json](./170541-groaning-steel.json) |
 | Grobnopolis \| Last Days | 363914 | [363914-grobnopolis-last-days.json](./363914-grobnopolis-last-days.json) |
 | Grocery Grab | 253937 | [253937-grocery-grab.json](./253937-grocery-grab.json) |
