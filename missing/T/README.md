@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails: The Game | 330706 | [330706-tails-the-game.json](./330706-tails-the-game.json) |
 | Tails' Adventures 2 | 336355 | [336355-tails-adventures-2.json](./336355-tails-adventures-2.json) |
 | Tails' High Flying Adventure | 331391 | [331391-tails-high-flying-adventure.json](./331391-tails-high-flying-adventure.json) |
+| Tails' Nightmare | 278076 | [278076-tails-nightmare.json](./278076-tails-nightmare.json) |
 | Tails' Nightmare 2 | 307584 | [307584-tails-nightmare-2.json](./307584-tails-nightmare-2.json) |
 | TailScape: The corgi’s Advendture | 325836 | [325836-tailscape-the-corgi-s-advendture.json](./325836-tailscape-the-corgi-s-advendture.json) |
 | Tailside: Cozy Cafe Sim | 296995 | [296995-tailside-cozy-cafe-sim.json](./296995-tailside-cozy-cafe-sim.json) |
@@ -5492,6 +5493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Icarus Experiment | 317307 | [317307-the-icarus-experiment.json](./317307-the-icarus-experiment.json) |
 | The Iceberg | 180672 | [180672-the-iceberg.json](./180672-the-iceberg.json) |
 | The Icecream Machine | 397167 | [397167-the-icecream-machine.json](./397167-the-icecream-machine.json) |
+| The Iceman | 278106 | [278106-the-iceman.json](./278106-the-iceman.json) |
 | The Icky Mr Fox | 299261 | [299261-the-icky-mr-fox.json](./299261-the-icky-mr-fox.json) |
 | The Ico & Shadow of the Colossus Collection | 21084 | [21084-the-ico-and-shadow-of-the-colossus-collection.json](./21084-the-ico-and-shadow-of-the-colossus-collection.json) |
 | The Idiot's Tale | 87956 | [87956-the-idiots-tale.json](./87956-the-idiots-tale.json) |
@@ -5960,6 +5962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Larper | 402988 | [402988-the-larper.json](./402988-the-larper.json) |
 | The Last | 31802 | [31802-the-last.json](./31802-the-last.json) |
 | The Last (Hotdog) Stand | 399185 | [399185-the-last-hotdog-stand.json](./399185-the-last-hotdog-stand.json) |
+| The Last 66 Days | 278107 | [278107-the-last-66-days.json](./278107-the-last-66-days.json) |
 | The Last Airbender | 7983 | [7983-the-last-airbender.json](./7983-the-last-airbender.json) |
 | The Last Among The Dead | 351762 | [351762-the-last-among-the-dead.json](./351762-the-last-among-the-dead.json) |
 | The Last Aura | 120871 | [120871-the-last-aura.json](./120871-the-last-aura.json) |
@@ -8158,6 +8161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shame of a Daydreamer | 349394 | [349394-the-shame-of-a-daydreamer.json](./349394-the-shame-of-a-daydreamer.json) |
 | The Shape of Heart | 31840 | [31840-the-shape-of-heart.json](./31840-the-shape-of-heart.json) |
 | The Shape of Things | 211729 | [211729-the-shape-of-things.json](./211729-the-shape-of-things.json) |
+| The Shape of Things: Gacha Box 1 | 278109 | [278109-the-shape-of-things-gacha-box-1.json](./278109-the-shape-of-things-gacha-box-1.json) |
 | The Shape of Us | 279601 | [279601-the-shape-of-us.json](./279601-the-shape-of-us.json) |
 | The Shape on the Ground | 152383 | [152383-the-shape-on-the-ground.json](./152383-the-shape-on-the-ground.json) |
 | The Shape You Make When You Want Your Bones to Be Closest to the Surface | 123625 | [123625-the-shape-you-make-when-you-want-your-bones-to-be-closest-to-the-surface.json](./123625-the-shape-you-make-when-you-want-your-bones-to-be-closest-to-the-surface.json) |
