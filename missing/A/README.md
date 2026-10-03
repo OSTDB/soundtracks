@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Car That Turns | 205084 | [205084-a-car-that-turns.json](./205084-a-car-that-turns.json) |
 | A Case for Cap & Co | 242642 | [242642-a-case-for-cap-and-co.json](./242642-a-case-for-cap-and-co.json) |
 | A Case of Missing Identity | 389016 | [389016-a-case-of-missing-identity.json](./389016-a-case-of-missing-identity.json) |
+| A Case of the Crabs: Rehash | 237458 | [237458-a-case-of-the-crabs-rehash.json](./237458-a-case-of-the-crabs-rehash.json) |
 | A Cat & His Boy | 295390 | [295390-a-cat-and-his-boy.json](./295390-a-cat-and-his-boy.json) |
 | A Cat Cafe Story | 183047 | [183047-a-cat-cafe-story.json](./183047-a-cat-cafe-story.json) |
 | A Cat named Gossamergoober | 379457 | [379457-a-cat-named-gossamergoober.json](./379457-a-cat-named-gossamergoober.json) |
@@ -322,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Night For Crazy King | 120969 | [120969-a-long-night-for-crazy-king.json](./120969-a-long-night-for-crazy-king.json) |
 | A Long Way Home | 180805 | [180805-a-long-way-home.json](./180805-a-long-way-home.json) |
 | A Long Way Home | 33077 | [33077-a-long-way-home.json](./33077-a-long-way-home.json) |
+| A Long Way to the Nearest Star | 237440 | [237440-a-long-way-to-the-nearest-star.json](./237440-a-long-way-to-the-nearest-star.json) |
 | A Loop is a Loop is | 144789 | [144789-a-loop-is-a-loop-is.json](./144789-a-loop-is-a-loop-is.json) |
 | A Lost Land | 384655 | [384655-a-lost-land.json](./384655-a-lost-land.json) |
 | A Lost Note | 244748 | [244748-a-lost-note.json](./244748-a-lost-note.json) |
@@ -1784,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afrika | 130826 | [130826-afrika.json](./130826-afrika.json) |
 | Afro Samurai 2: Revenge of Kuma | 20030 | [20030-afro-samurai-2-revenge-of-kuma.json](./20030-afro-samurai-2-revenge-of-kuma.json) |
 | AfroPenguin & The Forbidden Ramen | 244866 | [244866-afropenguin-and-the-forbidden-ramen.json](./244866-afropenguin-and-the-forbidden-ramen.json) |
+| After | 237551 | [237551-after.json](./237551-after.json) |
 | After a While | 298816 | [298816-after-a-while.json](./298816-after-a-while.json) |
 | After All Enema Masochist Daughter Miki | 82932 | [82932-after-all-enema-masochist-daughter-miki.json](./82932-after-all-enema-masochist-daughter-miki.json) |
 | After Burner | 113199 | [113199-after-burner.json](./113199-after-burner.json) |
@@ -3163,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien: Isolation - The Trigger | 15554 | [15554-alien-isolation-the-trigger.json](./15554-alien-isolation-the-trigger.json) |
 | Alien: Isolation - Trauma | 15553 | [15553-alien-isolation-trauma.json](./15553-alien-isolation-trauma.json) |
 | Alien: Isolation 2 | 319082 | [319082-alien-isolation-2.json](./319082-alien-isolation-2.json) |
+| Alien's Egg | 237427 | [237427-aliens-egg.json](./237427-aliens-egg.json) |
 | Alien's Return | 79315 | [79315-aliens-return.json](./79315-aliens-return.json) |
 | AlienAfterlife | 114220 | [114220-alienafterlife.json](./114220-alienafterlife.json) |
 | Alienation | 7600 | [7600-alienation.json](./7600-alienation.json) |
@@ -5146,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Round | 330254 | [330254-another-round.json](./330254-another-round.json) |
 | Another Runner | 55214 | [55214-another-runner.json](./55214-another-runner.json) |
 | Another SameGame | 64434 | [64434-another-samegame.json](./64434-another-samegame.json) |
+| Another Shadow | 237468 | [237468-another-shadow.json](./237468-another-shadow.json) |
 | Another Sight | 186835 | [186835-another-sight.json](./186835-another-sight.json) |
 | Another Sight | 90146 | [90146-another-sight.json](./90146-another-sight.json) |
 | Another Sight: Hodge's Journey | 111691 | [111691-another-sight-hodges-journey.json](./111691-another-sight-hodges-journey.json) |
@@ -5603,6 +5608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Sauce Apartments | 176460 | [176460-apple-sauce-apartments.json](./176460-apple-sauce-apartments.json) |
 | Apple Sauce Beach | 242691 | [242691-apple-sauce-beach.json](./242691-apple-sauce-beach.json) |
 | Apple Sauce Hinamatsuri | 239073 | [239073-apple-sauce-hinamatsuri.json](./239073-apple-sauce-hinamatsuri.json) |
+| Apple Sauce Room | 237472 | [237472-apple-sauce-room.json](./237472-apple-sauce-room.json) |
 | Apple Sauce Room 2 | 237473 | [237473-apple-sauce-room-2.json](./237473-apple-sauce-room-2.json) |
 | Apple Sauce Western | 239067 | [239067-apple-sauce-western.json](./239067-apple-sauce-western.json) |
 | Apple Sauce X mas | 239070 | [239070-apple-sauce-x-mas.json](./239070-apple-sauce-x-mas.json) |
