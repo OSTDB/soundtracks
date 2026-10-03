@@ -4424,7 +4424,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love is... in Bloom | 51160 | [51160-love-is-in-bloom.json](./51160-love-is-in-bloom.json) |
 | Love is… in Small Things | 200441 | [200441-love-is-in-small-things.json](./200441-love-is-in-small-things.json) |
 | Love Island | 303636 | [303636-love-island.json](./303636-love-island.json) |
+| Love Island: The Game - Chelsea's Murder Mystery | 263662 | [263662-love-island-the-game-chelseas-murder-mystery.json](./263662-love-island-the-game-chelseas-murder-mystery.json) |
 | Love Island: The Game - Season 10 | 413632 | [413632-love-island-the-game-season-10.json](./413632-love-island-the-game-season-10.json) |
+| Love Island: The Game - The Boat Party | 263663 | [263663-love-island-the-game-the-boat-party.json](./263663-love-island-the-game-the-boat-party.json) |
 | Love Kuesuto | 268468 | [268468-love-kuesuto.json](./268468-love-kuesuto.json) |
 | Love Language Japanese | 110424 | [110424-love-language-japanese.json](./110424-love-language-japanese.json) |
 | Love Letter | 109759 | [109759-love-letter.json](./109759-love-letter.json) |
