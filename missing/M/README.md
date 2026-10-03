@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Outbreak | 355615 | [355615-mage-outbreak.json](./355615-mage-outbreak.json) |
 | Mage Recall | 402284 | [402284-mage-recall.json](./402284-mage-recall.json) |
 | Mage Rumble | 173050 | [173050-mage-rumble.json](./173050-mage-rumble.json) |
+| Mage Saga | 235292 | [235292-mage-saga.json](./235292-mage-saga.json) |
 | Mage VR -Mini Version- | 114344 | [114344-mage-vr-mini-version.json](./114344-mage-vr-mini-version.json) |
 | Mage VR: The Lost Memories | 115619 | [115619-mage-vr-the-lost-memories.json](./115619-mage-vr-the-lost-memories.json) |
 | Mage vs. Castle | 301819 | [301819-mage-vs-castle.json](./301819-mage-vs-castle.json) |
@@ -985,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong 300 | 401018 | [401018-mahjong-300.json](./401018-mahjong-300.json) |
 | Mahjong Adventure | 147322 | [147322-mahjong-adventure.json](./147322-mahjong-adventure.json) |
 | Mahjong Aztecs Mysteries | 234187 | [234187-mahjong-aztecs-mysteries.json](./234187-mahjong-aztecs-mysteries.json) |
+| Mahjong Bengal Tiger Adventure: Summer Majong Quest Deluxe | 235282 | [235282-mahjong-bengal-tiger-adventure-summer-majong-quest-deluxe.json](./235282-mahjong-bengal-tiger-adventure-summer-majong-quest-deluxe.json) |
 | Mahjong by Dogmelon | 101489 | [101489-mahjong-by-dogmelon.json](./101489-mahjong-by-dogmelon.json) |
 | Mahjong Cards - Play classic mahjong solitaire with playing cards | 102830 | [102830-mahjong-cards-play-classic-mahjong-solitaire-with-playing-cards.json](./102830-mahjong-cards-play-classic-mahjong-solitaire-with-playing-cards.json) |
 | Mahjong Cascade: Bamboo and Dragons | 334100 | [334100-mahjong-cascade-bamboo-and-dragons.json](./334100-mahjong-cascade-bamboo-and-dragons.json) |
@@ -5763,6 +5765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Stories 2 | 158067 | [158067-midnight-stories-2.json](./158067-midnight-stories-2.json) |
 | Midnight Stories 5 | 196047 | [196047-midnight-stories-5.json](./196047-midnight-stories-5.json) |
 | Midnight Stranger | 143102 | [143102-midnight-stranger.json](./143102-midnight-stranger.json) |
+| Midnight Survivors | 235365 | [235365-midnight-survivors.json](./235365-midnight-survivors.json) |
 | Midnight Swamp | 318198 | [318198-midnight-swamp.json](./318198-midnight-swamp.json) |
 | Midnight Syndrome | 304648 | [304648-midnight-syndrome.json](./304648-midnight-syndrome.json) |
 | Midnight Terrors | 395705 | [395705-midnight-terrors.json](./395705-midnight-terrors.json) |
@@ -8261,6 +8264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonsterLife | 310132 | [310132-monsterlife.json](./310132-monsterlife.json) |
 | MonsterMind | 304210 | [304210-monstermind.json](./304210-monstermind.json) |
 | Monsterpatch | 334706 | [334706-monsterpatch.json](./334706-monsterpatch.json) |
+| Monsterra | 235266 | [235266-monsterra.json](./235266-monsterra.json) |
 | MonsterRoll | 97917 | [97917-monsterroll.json](./97917-monsterroll.json) |
 | Monsters | 13741 | [13741-monsters.json](./13741-monsters.json) |
 | Monsters | 314359 | [314359-monsters.json](./314359-monsters.json) |
@@ -9530,6 +9534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mrs. Fantastic's Freaky Figurine Shop | 166702 | [166702-mrs-fantastics-freaky-figurine-shop.json](./166702-mrs-fantastics-freaky-figurine-shop.json) |
 | Mrs. Mopp | 354578 | [354578-mrs-mopp.json](./354578-mrs-mopp.json) |
 | MrToilet | 401824 | [401824-mrtoilet.json](./401824-mrtoilet.json) |
+| MrWang and Love | 235274 | [235274-mrwang-and-love.json](./235274-mrwang-and-love.json) |
 | Ms Jenkins Estate | 217300 | [217300-ms-jenkins-estate.json](./217300-ms-jenkins-estate.json) |
 | MS Saga: A New Dawn | 20492 | [20492-ms-saga-a-new-dawn.json](./20492-ms-saga-a-new-dawn.json) |
 | Ms Vampire Love to Date With Me | 372548 | [372548-ms-vampire-love-to-date-with-me.json](./372548-ms-vampire-love-to-date-with-me.json) |
