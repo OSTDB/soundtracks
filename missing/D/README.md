@@ -2482,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dededeball | 395701 | [395701-dededeball.json](./395701-dededeball.json) |
 | Deduce Together | 308884 | [308884-deduce-together.json](./308884-deduce-together.json) |
 | Deductum | 355531 | [355531-deductum.json](./355531-deductum.json) |
+| Dedz0ne | 256970 | [256970-dedz0ne.json](./256970-dedz0ne.json) |
 | Dee-6: Dice Defenders | 145562 | [145562-dee-6-dice-defenders.json](./145562-dee-6-dice-defenders.json) |
 | Deed: Sustainable Business | 240201 | [240201-deed-sustainable-business.json](./240201-deed-sustainable-business.json) |
 | Deeds Were Done 2: Project Ascend | 414425 | [414425-deeds-were-done-2-project-ascend.json](./414425-deeds-were-done-2-project-ascend.json) |
@@ -7942,6 +7943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream: Land of Giants | 65775 | [65775-dream-land-of-giants.json](./65775-dream-land-of-giants.json) |
 | Dream? | 202246 | [202246-dream.json](./202246-dream.json) |
 | Dream.exe: A Markiplier Fan Game | 159180 | [159180-dream-exe-a-markiplier-fan-game.json](./159180-dream-exe-a-markiplier-fan-game.json) |
+| Dream's Deep | 256983 | [256983-dreams-deep.json](./256983-dreams-deep.json) |
 | DreamBig 3 | 368104 | [368104-dreambig-3.json](./368104-dreambig-3.json) |
 | Dreamblood | 280903 | [280903-dreamblood.json](./280903-dreamblood.json) |
 | Dreamboat | 295806 | [295806-dreamboat.json](./295806-dreamboat.json) |
