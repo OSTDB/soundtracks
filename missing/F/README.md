@@ -2155,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiete Match | 175273 | [175273-fiete-match.json](./175273-fiete-match.json) |
 | Fiets-Together | 395014 | [395014-fiets-together.json](./395014-fiets-together.json) |
 | FIFA 06: Road to FIFA World Cup | 22342 | [22342-fifa-06-road-to-fifa-world-cup.json](./22342-fifa-06-road-to-fifa-world-cup.json) |
+| FIFA 07 | 240291 | [240291-fifa-07.json](./240291-fifa-07.json) |
 | FIFA 09 | 240317 | [240317-fifa-09.json](./240317-fifa-09.json) |
 | FIFA 14 | 240422 | [240422-fifa-14.json](./240422-fifa-14.json) |
 | FIFA 15 | 240427 | [240427-fifa-15.json](./240427-fifa-15.json) |
@@ -2183,8 +2184,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Rivals | 335513 | [335513-fifa-rivals.json](./335513-fifa-rivals.json) |
 | FIFA Soccer | 21722 | [21722-fifa-soccer.json](./21722-fifa-soccer.json) |
 | FIFA Soccer 06 | 240356 | [240356-fifa-soccer-06.json](./240356-fifa-soccer-06.json) |
+| FIFA Soccer 06 | 240357 | [240357-fifa-soccer-06.json](./240357-fifa-soccer-06.json) |
+| FIFA Soccer 06 | 240358 | [240358-fifa-soccer-06.json](./240358-fifa-soccer-06.json) |
+| FIFA Soccer 07 | 240286 | [240286-fifa-soccer-07.json](./240286-fifa-soccer-07.json) |
+| FIFA Soccer 07 | 240288 | [240288-fifa-soccer-07.json](./240288-fifa-soccer-07.json) |
+| FIFA Soccer 07 | 240289 | [240289-fifa-soccer-07.json](./240289-fifa-soccer-07.json) |
 | FIFA Soccer 07 | 696 | [696-fifa-soccer-07.json](./696-fifa-soccer-07.json) |
 | FIFA Soccer 08 | 229182 | [229182-fifa-soccer-08.json](./229182-fifa-soccer-08.json) |
+| FIFA Soccer 08 | 240292 | [240292-fifa-soccer-08.json](./240292-fifa-soccer-08.json) |
 | FIFA Soccer 08 | 240294 | [240294-fifa-soccer-08.json](./240294-fifa-soccer-08.json) |
 | FIFA Soccer 08 | 240316 | [240316-fifa-soccer-08.json](./240316-fifa-soccer-08.json) |
 | FIFA Soccer 08 | 240319 | [240319-fifa-soccer-08.json](./240319-fifa-soccer-08.json) |
@@ -2199,13 +2206,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 10 | 240334 | [240334-fifa-soccer-10.json](./240334-fifa-soccer-10.json) |
 | FIFA Soccer 10 | 240336 | [240336-fifa-soccer-10.json](./240336-fifa-soccer-10.json) |
 | FIFA Soccer 10 | 3133 | [3133-fifa-soccer-10.json](./3133-fifa-soccer-10.json) |
+| FIFA Soccer 11 | 240380 | [240380-fifa-soccer-11.json](./240380-fifa-soccer-11.json) |
+| FIFA Soccer 11 | 240381 | [240381-fifa-soccer-11.json](./240381-fifa-soccer-11.json) |
 | FIFA Soccer 11 | 503 | [503-fifa-soccer-11.json](./503-fifa-soccer-11.json) |
 | FIFA Soccer 13 | 2153 | [2153-fifa-soccer-13.json](./2153-fifa-soccer-13.json) |
 | FIFA Soccer 13 | 240414 | [240414-fifa-soccer-13.json](./240414-fifa-soccer-13.json) |
 | FIFA Soccer 2002 | 49326 | [49326-fifa-soccer-2002.json](./49326-fifa-soccer-2002.json) |
 | FIFA Soccer 2002: Major League Soccer | 209422 | [209422-fifa-soccer-2002-major-league-soccer.json](./209422-fifa-soccer-2002-major-league-soccer.json) |
+| FIFA Soccer 2002: Major League Soccer | 240267 | [240267-fifa-soccer-2002-major-league-soccer.json](./240267-fifa-soccer-2002-major-league-soccer.json) |
 | FIFA Soccer 2003 | 209425 | [209425-fifa-soccer-2003.json](./209425-fifa-soccer-2003.json) |
 | FIFA Soccer 2003 | 229956 | [229956-fifa-soccer-2003.json](./229956-fifa-soccer-2003.json) |
+| FIFA Soccer 2004 | 240273 | [240273-fifa-soccer-2004.json](./240273-fifa-soccer-2004.json) |
+| FIFA Soccer 2004 | 240275 | [240275-fifa-soccer-2004.json](./240275-fifa-soccer-2004.json) |
+| FIFA Soccer 2004 | 240276 | [240276-fifa-soccer-2004.json](./240276-fifa-soccer-2004.json) |
 | FIFA Soccer 2004 | 3136 | [3136-fifa-soccer-2004.json](./3136-fifa-soccer-2004.json) |
 | FIFA Soccer 64 | 10682 | [10682-fifa-soccer-64.json](./10682-fifa-soccer-64.json) |
 | FIFA Soccer 96 | 209424 | [209424-fifa-soccer-96.json](./209424-fifa-soccer-96.json) |
@@ -2217,9 +2230,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 97 | 240217 | [240217-fifa-soccer-97.json](./240217-fifa-soccer-97.json) |
 | FIFA Soccer Manager | 79955 | [79955-fifa-soccer-manager.json](./79955-fifa-soccer-manager.json) |
 | FIFA Soccer: Prime Stars | 58312 | [58312-fifa-soccer-prime-stars.json](./58312-fifa-soccer-prime-stars.json) |
+| FIFA Street 2 | 240366 | [240366-fifa-street-2.json](./240366-fifa-street-2.json) |
+| FIFA Street 3 | 240359 | [240359-fifa-street-3.json](./240359-fifa-street-3.json) |
 | FIFA Street 3 | 7304 | [7304-fifa-street-3.json](./7304-fifa-street-3.json) |
 | FIFA Superstars | 304276 | [304276-fifa-superstars.json](./304276-fifa-superstars.json) |
 | FIFA World | 7433 | [7433-fifa-world.json](./7433-fifa-world.json) |
+| FIFA World Cup Germany 2006 | 240285 | [240285-fifa-world-cup-germany-2006.json](./240285-fifa-world-cup-germany-2006.json) |
 | FIFA World Cup: Launch Edition | 404400 | [404400-fifa-world-cup-launch-edition.json](./404400-fifa-world-cup-launch-edition.json) |
 | FIFA: Road to World Cup 98 | 705 | [705-fifa-road-to-world-cup-98.json](./705-fifa-road-to-world-cup-98.json) |
 | Fifi and the Flowertots: Fifi's Garden Party | 336176 | [336176-fifi-and-the-flowertots-fifis-garden-party.json](./336176-fifi-and-the-flowertots-fifis-garden-party.json) |
@@ -3494,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's Soulless Look | 383375 | [383375-five-nights-at-freddys-soulless-look.json](./383375-five-nights-at-freddys-soulless-look.json) |
 | Five Nights at Freddy's: Backlogged | 329023 | [329023-five-nights-at-freddys-backlogged.json](./329023-five-nights-at-freddys-backlogged.json) |
 | Five Nights at Freddy's: Help Wanted | 241473 | [241473-five-nights-at-freddys-help-wanted.json](./241473-five-nights-at-freddys-help-wanted.json) |
+| Five Nights at Freddy's: Help Wanted - Bundle | 240281 | [240281-five-nights-at-freddys-help-wanted-bundle.json](./240281-five-nights-at-freddys-help-wanted-bundle.json) |
 | Five Nights at Freddy's: Help Wanted 2 | 250627 | [250627-five-nights-at-freddys-help-wanted-2.json](./250627-five-nights-at-freddys-help-wanted-2.json) |
 | Five Nights at Freddy's: Help Wanted Plus | 261510 | [261510-five-nights-at-freddys-help-wanted-plus.json](./261510-five-nights-at-freddys-help-wanted-plus.json) |
 | Five Nights at Freddy's: Into the Pit | 283679 | [283679-five-nights-at-freddys-into-the-pit.json](./283679-five-nights-at-freddys-into-the-pit.json) |
@@ -5906,6 +5923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freight Tycoon | 176891 | [176891-freight-tycoon.json](./176891-freight-tycoon.json) |
 | Freight Tycoon Inc. | 10335 | [10335-freight-tycoon-inc.json](./10335-freight-tycoon-inc.json) |
 | Freiwillig | 151072 | [151072-freiwillig.json](./151072-freiwillig.json) |
+| Fremdganger: The Cheating Demon | 240297 | [240297-fremdganger-the-cheating-demon.json](./240297-fremdganger-the-cheating-demon.json) |
 | French with Rayman | 193346 | [193346-french-with-rayman.json](./193346-french-with-rayman.json) |
 | Frenetika | 372083 | [372083-frenetika.json](./372083-frenetika.json) |
 | FrenQuest | 307604 | [307604-frenquest.json](./307604-frenquest.json) |
