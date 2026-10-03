@@ -3471,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chichen-Itza | 178052 | [178052-chichen-itza.json](./178052-chichen-itza.json) |
 | Chick 'N Sword | 183592 | [183592-chick-n-sword.json](./183592-chick-n-sword.json) |
 | Chick Boy Adventures | 190149 | [190149-chick-boy-adventures.json](./190149-chick-boy-adventures.json) |
+| Chick Chick Boom | 231528 | [231528-chick-chick-boom.json](./231528-chick-chick-boom.json) |
 | Chick Chick Boom | 51125 | [51125-chick-chick-boom.json](./51125-chick-chick-boom.json) |
 | Chick City Construction | 174872 | [174872-chick-city-construction.json](./174872-chick-city-construction.json) |
 | Chick Clicker | 344995 | [344995-chick-clicker.json](./344995-chick-clicker.json) |
@@ -4866,6 +4867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Class of Heroes 3 | 65563 | [65563-class-of-heroes-3.json](./65563-class-of-heroes-3.json) |
 | Class of Heroes 3: Remaster | 325303 | [325303-class-of-heroes-3-remaster.json](./325303-class-of-heroes-3-remaster.json) |
 | Class of Heroes: Anniversary Edition | 220942 | [220942-class-of-heroes-anniversary-edition.json](./220942-class-of-heroes-anniversary-edition.json) |
+| Class of the Living Dead | 231428 | [231428-class-of-the-living-dead.json](./231428-class-of-the-living-dead.json) |
 | Class Trip Crush | 238411 | [238411-class-trip-crush.json](./238411-class-trip-crush.json) |
 | Class4 (working title) | 131466 | [131466-class4-working-title.json](./131466-class4-working-title.json) |
 | Classic Adventures: The Great Gatsby | 417686 | [417686-classic-adventures-the-great-gatsby.json](./417686-classic-adventures-the-great-gatsby.json) |
