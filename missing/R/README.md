@@ -1855,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recruit & Adventure | 380614 | [380614-recruit-and-adventure.json](./380614-recruit-and-adventure.json) |
 | Recruit One | 157707 | [157707-recruit-one.json](./157707-recruit-one.json) |
 | Recruits | 16626 | [16626-recruits.json](./16626-recruits.json) |
+| Recruta Zero | 274148 | [274148-recruta-zero.json](./274148-recruta-zero.json) |
 | Rectangle Guy | 215905 | [215905-rectangle-guy.json](./215905-rectangle-guy.json) |
 | Rectanglez | 187837 | [187837-rectanglez.json](./187837-rectanglez.json) |
 | Rectangulong | 305842 | [305842-rectangulong.json](./305842-rectangulong.json) |
