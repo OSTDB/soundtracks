@@ -8643,6 +8643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid: Sensory Overload | 17169 | [17169-avoid-sensory-overload.json](./17169-avoid-sensory-overload.json) |
 | Avoider | 57056 | [57056-avoider.json](./57056-avoider.json) |
 | Avoidon | 126435 | [126435-avoidon.json](./126435-avoidon.json) |
+| Avoids | 240851 | [240851-avoids.json](./240851-avoids.json) |
 | Avoidvania | 159802 | [159802-avoidvania.json](./159802-avoidvania.json) |
 | Avoidy Virus | 338183 | [338183-avoidy-virus.json](./338183-avoidy-virus.json) |
 | Avolteha | 208022 | [208022-avolteha.json](./208022-avolteha.json) |
