@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ueki no Housoku: Jingi Sakuretsu! Nouryokusha Battle | 188652 | [188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json](./188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json) |
 | Ueqouow | 288332 | [288332-ueqouow.json](./288332-ueqouow.json) |
 | uFactory | 115232 | [115232-ufactory.json](./115232-ufactory.json) |
+| UFC 5: Deluxe Edition | 273592 | [273592-ufc-5-deluxe-edition.json](./273592-ufc-5-deluxe-edition.json) |
 | UFC Undisputed 2010 | 7228 | [7228-ufc-undisputed-2010.json](./7228-ufc-undisputed-2010.json) |
 | UFHO2 | 35793 | [35793-ufho2.json](./35793-ufho2.json) |
 | Ufight | 269859 | [269859-ufight.json](./269859-ufight.json) |
