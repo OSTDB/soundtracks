@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap Of Faith | 333127 | [333127-leap-of-faith.json](./333127-leap-of-faith.json) |
 | Leap of Fate | 50227 | [50227-leap-of-fate.json](./50227-leap-of-fate.json) |
 | Leap of Love | 149436 | [149436-leap-of-love.json](./149436-leap-of-love.json) |
+| Leap of Love: Dark Princesses | 273587 | [273587-leap-of-love-dark-princesses.json](./273587-leap-of-love-dark-princesses.json) |
 | Leap of Sins | 319763 | [319763-leap-of-sins.json](./319763-leap-of-sins.json) |
 | Leap On! | 309590 | [309590-leap-on.json](./309590-leap-on.json) |
 | Leap Sheep! | 269105 | [269105-leap-sheep.json](./269105-leap-sheep.json) |
@@ -2360,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Cry | 268993 | [268993-light-cry.json](./268993-light-cry.json) |
 | Light Cubed | 121443 | [121443-light-cubed.json](./121443-light-cubed.json) |
 | Light Cycle | 96525 | [96525-light-cycle.json](./96525-light-cycle.json) |
+| Light Dark | 273573 | [273573-light-dark.json](./273573-light-dark.json) |
 | Light De Deux | 338264 | [338264-light-de-deux.json](./338264-light-de-deux.json) |
 | Light Eater | 215642 | [215642-light-eater.json](./215642-light-eater.json) |
 | Light Fall | 36620 | [36620-light-fall.json](./36620-light-fall.json) |
@@ -3665,6 +3667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Nardy | 264362 | [264362-long-nardy.json](./264362-long-nardy.json) |
 | Long Night | 16941 | [16941-long-night.json](./16941-long-night.json) |
 | Long Road | 148914 | [148914-long-road.json](./148914-long-road.json) |
+| Long Run | 273572 | [273572-long-run.json](./273572-long-run.json) |
 | Lóng Shén de Xīnniáng Wàizhuàn: Yù Líng Qǐ Tán | 373692 | [373692-long-shen-de-xinniang-waizhuan-yu-ling-qi-tan.json](./373692-long-shen-de-xinniang-waizhuan-yu-ling-qi-tan.json) |
 | Long Since The Eschaton | 319072 | [319072-long-since-the-eschaton.json](./319072-long-since-the-eschaton.json) |
 | Long Sky | 115793 | [115793-long-sky.json](./115793-long-sky.json) |
