@@ -1272,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo's Bizarre Adventure: All-Star Battle R - Leone Abbacchio | 263539 | [263539-jojos-bizarre-adventure-all-star-battle-r-leone-abbacchio.json](./263539-jojos-bizarre-adventure-all-star-battle-r-leone-abbacchio.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Rudol von Stroheim | 234633 | [234633-jojos-bizarre-adventure-all-star-battle-r-rudol-von-stroheim.json](./234633-jojos-bizarre-adventure-all-star-battle-r-rudol-von-stroheim.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Season Pass 2 | 254685 | [254685-jojos-bizarre-adventure-all-star-battle-r-season-pass-2.json](./254685-jojos-bizarre-adventure-all-star-battle-r-season-pass-2.json) |
+| JoJo's Bizarre Adventure: All-Star Battle R - Ultimate Edition | 254057 | [254057-jojos-bizarre-adventure-all-star-battle-r-ultimate-edition.json](./254057-jojos-bizarre-adventure-all-star-battle-r-ultimate-edition.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Wonder of U | 279860 | [279860-jojos-bizarre-adventure-all-star-battle-r-wonder-of-u.json](./279860-jojos-bizarre-adventure-all-star-battle-r-wonder-of-u.json) |
 | JoJo's Bizarre Adventure: Diamond Records | 75966 | [75966-jojos-bizarre-adventure-diamond-records.json](./75966-jojos-bizarre-adventure-diamond-records.json) |
 | JoJo's Bizarre Adventure: Eyes of Heaven | 11565 | [11565-jojos-bizarre-adventure-eyes-of-heaven.json](./11565-jojos-bizarre-adventure-eyes-of-heaven.json) |
