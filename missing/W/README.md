@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Thrones | 245263 | [245263-war-of-thrones.json](./245263-war-of-thrones.json) |
 | War of Warship | 338398 | [338398-war-of-warship.json](./338398-war-of-warship.json) |
 | War of Wizards | 215666 | [215666-war-of-wizards.json](./215666-war-of-wizards.json) |
+| War of Words 2 | 232066 | [232066-war-of-words-2.json](./232066-war-of-words-2.json) |
 | War of Zanzor III: Birth of Unity | 301825 | [301825-war-of-zanzor-iii-birth-of-unity.json](./301825-war-of-zanzor-iii-birth-of-unity.json) |
 | War on Drugs VR | 96513 | [96513-war-on-drugs-vr.json](./96513-war-on-drugs-vr.json) |
 | War Pawns | 413204 | [413204-war-pawns.json](./413204-war-pawns.json) |
@@ -1919,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What A Legend | 239306 | [239306-what-a-legend.json](./239306-what-a-legend.json) |
 | What a Shitty Job | 348869 | [348869-what-a-shitty-job.json](./348869-what-a-shitty-job.json) |
 | What Beats Rock | 309019 | [309019-what-beats-rock.json](./309019-what-beats-rock.json) |
+| What Belongs?Find Hidden Words | 232057 | [232057-what-belongs-find-hidden-words.json](./232057-what-belongs-find-hidden-words.json) |
 | What Body? | 281385 | [281385-what-body.json](./281385-what-body.json) |
 | What Cat? | 253033 | [253033-what-cat.json](./253033-what-cat.json) |
 | What Comes After | 142382 | [142382-what-comes-after.json](./142382-what-comes-after.json) |
@@ -3569,6 +3571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woke or Nah | 355532 | [355532-woke-or-nah.json](./355532-woke-or-nah.json) |
 | Woke Quest | 415914 | [415914-woke-quest.json](./415914-woke-quest.json) |
 | Woke up in a Dark Nightmare | 405726 | [405726-woke-up-in-a-dark-nightmare.json](./405726-woke-up-in-a-dark-nightmare.json) |
+| Wolf | 232000 | [232000-wolf.json](./232000-wolf.json) |
 | Wolf | 9573 | [9573-wolf.json](./9573-wolf.json) |
 | Wolf & Eggs! | 178532 | [178532-wolf-and-eggs.json](./178532-wolf-and-eggs.json) |
 | Wolf & Pigs | 127197 | [127197-wolf-and-pigs.json](./127197-wolf-and-pigs.json) |
@@ -3860,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Brawl | 329680 | [329680-word-brawl.json](./329680-word-brawl.json) |
 | Word Bridges | 397915 | [397915-word-bridges.json](./397915-word-bridges.json) |
 | Word Builder for Oliver | 92091 | [92091-word-builder-for-oliver.json](./92091-word-builder-for-oliver.json) |
+| Word Cafe 21 | 232065 | [232065-word-cafe-21.json](./232065-word-cafe-21.json) |
 | Word Challenge | 342250 | [342250-word-challenge.json](./342250-word-challenge.json) |
 | Word Chaos | 217984 | [217984-word-chaos.json](./217984-word-chaos.json) |
 | Word Chef: Letter Pop | 241330 | [241330-word-chef-letter-pop.json](./241330-word-chef-letter-pop.json) |
@@ -3944,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Spell Game: Yes or No ? | 266833 | [266833-word-spell-game-yes-or-no.json](./266833-word-spell-game-yes-or-no.json) |
 | Word Spinner | 71546 | [71546-word-spinner.json](./71546-word-spinner.json) |
 | Word Stitch | 233056 | [233056-word-stitch.json](./233056-word-stitch.json) |
+| Word Strike | 232067 | [232067-word-strike.json](./232067-word-strike.json) |
 | Word Surf | 208941 | [208941-word-surf.json](./208941-word-surf.json) |
 | Word Swipe | 101529 | [101529-word-swipe.json](./101529-word-swipe.json) |
 | Word Tango | 383550 | [383550-word-tango.json](./383550-word-tango.json) |
@@ -4013,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordly | 323327 | [323327-wordly.json](./323327-wordly.json) |
 | WordMaster | 207524 | [207524-wordmaster.json](./207524-wordmaster.json) |
 | Wordpieces | 319079 | [319079-wordpieces.json](./319079-wordpieces.json) |
+| WordPlus: Unique Word Game | 232063 | [232063-wordplus-unique-word-game.json](./232063-wordplus-unique-word-game.json) |
 | Words | 197391 | [197391-words.json](./197391-words.json) |
 | Words & Magic | 241538 | [241538-words-and-magic.json](./241538-words-and-magic.json) |
 | Words Across America | 310565 | [310565-words-across-america.json](./310565-words-across-america.json) |
