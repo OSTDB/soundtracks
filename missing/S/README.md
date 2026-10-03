@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sasayu Meshiki | 357807 | [357807-sasayu-meshiki.json](./357807-sasayu-meshiki.json) |
 | Sashimi Slayer | 395795 | [395795-sashimi-slayer.json](./395795-sashimi-slayer.json) |
 | Sashinomi Suika-chan | 396558 | [396558-sashinomi-suika-chan.json](./396558-sashinomi-suika-chan.json) |
+| Sassy Cybergirl | 255269 | [255269-sassy-cybergirl.json](./255269-sassy-cybergirl.json) |
 | Sassy Girl | 259146 | [259146-sassy-girl.json](./259146-sassy-girl.json) |
 | Sasuke Library 23rd | 78957 | [78957-sasuke-library-23rd.json](./78957-sasuke-library-23rd.json) |
 | SAT Prep Math 2008 | 76976 | [76976-sat-prep-math-2008.json](./76976-sat-prep-math-2008.json) |
@@ -8741,6 +8742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Frenzy Adventure | 305283 | [305283-sonic-frenzy-adventure.json](./305283-sonic-frenzy-adventure.json) |
 | Sonic Frontiers | 150010 | [150010-sonic-frontiers.json](./150010-sonic-frontiers.json) |
 | Sonic Frontiers 2D | 336348 | [336348-sonic-frontiers-2d.json](./336348-sonic-frontiers-2d.json) |
+| Sonic Frontiers x Monster Hunter Pack | 255233 | [255233-sonic-frontiers-x-monster-hunter-pack.json](./255233-sonic-frontiers-x-monster-hunter-pack.json) |
 | Sonic Frontiers: Holiday Cheer Suit | 352840 | [352840-sonic-frontiers-holiday-cheer-suit.json](./352840-sonic-frontiers-holiday-cheer-suit.json) |
 | Sonic Frontiers: Sonic’s Birthday Bash | 254487 | [254487-sonic-frontiers-sonic-s-birthday-bash.json](./254487-sonic-frontiers-sonic-s-birthday-bash.json) |
 | Sonic Fusion | 326819 | [326819-sonic-fusion.json](./326819-sonic-fusion.json) |
@@ -9480,6 +9482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulscape | 377565 | [377565-soulscape.json](./377565-soulscape.json) |
 | SoulSide | 190703 | [190703-soulside.json](./190703-soulside.json) |
 | Soulsland | 180014 | [180014-soulsland.json](./180014-soulsland.json) |
+| Soulsland 3: Spider Invasion | 255273 | [255273-soulsland-3-spider-invasion.json](./255273-soulsland-3-spider-invasion.json) |
 | Soulslayer | 46461 | [46461-soulslayer.json](./46461-soulslayer.json) |
 | Soulslinger | 223041 | [223041-soulslinger.json](./223041-soulslinger.json) |
 | Soulslinger: Envoy of Death | 259147 | [259147-soulslinger-envoy-of-death.json](./259147-soulslinger-envoy-of-death.json) |
@@ -12118,6 +12121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star in the Hollow | 217302 | [217302-star-in-the-hollow.json](./217302-star-in-the-hollow.json) |
 | Star Ixiom | 94357 | [94357-star-ixiom.json](./94357-star-ixiom.json) |
 | Star Jolt | 127960 | [127960-star-jolt.json](./127960-star-jolt.json) |
+| Star Keeper | 255251 | [255251-star-keeper.json](./255251-star-keeper.json) |
 | Star Knight | 46756 | [46756-star-knight.json](./46756-star-knight.json) |
 | Star League Baseball | 307766 | [307766-star-league-baseball.json](./307766-star-league-baseball.json) |
 | Star Legacy | 351693 | [351693-star-legacy.json](./351693-star-legacy.json) |
@@ -15100,6 +15104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Sports Party | 23261 | [23261-summer-sports-party.json](./23261-summer-sports-party.json) |
 | Summer Trip Cruise | 212823 | [212823-summer-trip-cruise.json](./212823-summer-trip-cruise.json) |
 | Summer Vacation | 221405 | [221405-summer-vacation.json](./221405-summer-vacation.json) |
+| Summer Valley Hike | 255267 | [255267-summer-valley-hike.json](./255267-summer-valley-hike.json) |
 | Summer Village | 236513 | [236513-summer-village.json](./236513-summer-village.json) |
 | Summer With You | 195234 | [195234-summer-with-you.json](./195234-summer-with-you.json) |
 | Summer: Jigsaw Puzzles | 104841 | [104841-summer-jigsaw-puzzles.json](./104841-summer-jigsaw-puzzles.json) |
@@ -16996,6 +17001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superior: Vengeance | 256979 | [256979-superior-vengeance.json](./256979-superior-vengeance.json) |
 | SuperJumpWorld Rage | 391299 | [391299-superjumpworld-rage.json](./391299-superjumpworld-rage.json) |
 | Superkid | 123064 | [123064-superkid.json](./123064-superkid.json) |
+| SuperKraft | 255246 | [255246-superkraft.json](./255246-superkraft.json) |
 | Superku | 34343 | [34343-superku.json](./34343-superku.json) |
 | SuperLandlady | 237657 | [237657-superlandlady.json](./237657-superlandlady.json) |
 | Superleague Soccer | 13084 | [13084-superleague-soccer.json](./13084-superleague-soccer.json) |
