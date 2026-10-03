@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zettai Meikyuu Himitsu no Oyayubi-hime | 59959 | [59959-zettai-meikyuu-himitsu-no-oyayubi-hime.json](./59959-zettai-meikyuu-himitsu-no-oyayubi-hime.json) |
 | Zettai Mite ha Ikenai Shashin | 251528 | [251528-zettai-mite-ha-ikenai-shashin.json](./251528-zettai-mite-ha-ikenai-shashin.json) |
 | Zettai Zetsumei Dangerous Jiisan DS: Dangerous Sensation | 124129 | [124129-zettai-zetsumei-dangerous-jiisan-ds-dangerous-sensation.json](./124129-zettai-zetsumei-dangerous-jiisan-ds-dangerous-sensation.json) |
+| Zettai Zetsumei Shoujo: Kokuu no Houteishiki | 268632 | [268632-zettai-zetsumei-shoujo-kokuu-no-houteishiki.json](./268632-zettai-zetsumei-shoujo-kokuu-no-houteishiki.json) |
 | Zettavolt Trigger | 108051 | [108051-zettavolt-trigger.json](./108051-zettavolt-trigger.json) |
 | Zetton's One Trillion Degree Derby | 395895 | [395895-zettons-one-trillion-degree-derby.json](./395895-zettons-one-trillion-degree-derby.json) |
 | Zeus + Poseidon | 90554 | [90554-zeus-poseidon.json](./90554-zeus-poseidon.json) |
