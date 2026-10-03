@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden Nova | 319140 | [319140-raiden-nova.json](./319140-raiden-nova.json) |
 | Raiden Trad | 46211 | [46211-raiden-trad.json](./46211-raiden-trad.json) |
 | Raiden V: Director's Cut - Limited Edition | 136319 | [136319-raiden-v-directors-cut-limited-edition.json](./136319-raiden-v-directors-cut-limited-edition.json) |
+| Raiden: 30th Anniversary | 229121 | [229121-raiden-30th-anniversary.json](./229121-raiden-30th-anniversary.json) |
 | Raider | 319597 | [319597-raider.json](./319597-raider.json) |
 | Raider | 351801 | [351801-raider.json](./351801-raider.json) |
 | Raider Kid and the Ruby Chest | 130287 | [130287-raider-kid-and-the-ruby-chest.json](./130287-raider-kid-and-the-ruby-chest.json) |
@@ -2871,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 2: Seamless HD Project | 322045 | [322045-resident-evil-2-seamless-hd-project.json](./322045-resident-evil-2-seamless-hd-project.json) |
 | Resident Evil 2: Special Edition | 280755 | [280755-resident-evil-2-special-edition.json](./280755-resident-evil-2-special-edition.json) |
 | Resident Evil 2: Zombie Crisis | 339246 | [339246-resident-evil-2-zombie-crisis.json](./339246-resident-evil-2-zombie-crisis.json) |
+| Resident Evil 3: Dark Infection | 229088 | [229088-resident-evil-3-dark-infection.json](./229088-resident-evil-3-dark-infection.json) |
 | Resident Evil 3: Lenticular Edition | 386267 | [386267-resident-evil-3-lenticular-edition.json](./386267-resident-evil-3-lenticular-edition.json) |
 | Resident Evil 3: Nemesis - Seamless HD Project | 322046 | [322046-resident-evil-3-nemesis-seamless-hd-project.json](./322046-resident-evil-3-nemesis-seamless-hd-project.json) |
 | Resident Evil 4: Berserker | 356696 | [356696-resident-evil-4-berserker.json](./356696-resident-evil-4-berserker.json) |
@@ -4987,6 +4989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 8 FC | 137116 | [137116-rockman-8-fc.json](./137116-rockman-8-fc.json) |
 | Rockman 8 Metal Heroes Famicom | 142354 | [142354-rockman-8-metal-heroes-famicom.json](./142354-rockman-8-metal-heroes-famicom.json) |
 | Rockman Battle & Fighters | 75515 | [75515-rockman-battle-and-fighters.json](./75515-rockman-battle-and-fighters.json) |
+| Rockman Dash: 5tsu no Shima no Daibouken! | 229209 | [229209-rockman-dash-5tsu-no-shima-no-daibouken.json](./229209-rockman-dash-5tsu-no-shima-no-daibouken.json) |
 | Rockman Dash: Hagane no Boukenshin | 44060 | [44060-rockman-dash-hagane-no-boukenshin.json](./44060-rockman-dash-hagane-no-boukenshin.json) |
 | Rockman EXE 4.5: Real Operation | 352875 | [352875-rockman-exe-4-5-real-operation.json](./352875-rockman-exe-4-5-real-operation.json) |
 | Rockman EXE 5: Kaizou Card - Part 1 | 352754 | [352754-rockman-exe-5-kaizou-card-part-1.json](./352754-rockman-exe-5-kaizou-card-part-1.json) |
