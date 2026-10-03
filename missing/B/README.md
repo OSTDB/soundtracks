@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldi's Basics 1 Year Birthday Bash! | 176497 | [176497-baldis-basics-1-year-birthday-bash.json](./176497-baldis-basics-1-year-birthday-bash.json) |
 | Baldi's Basics in 2D | 406248 | [406248-baldis-basics-in-2d.json](./406248-baldis-basics-in-2d.json) |
 | Baldi's Basics: Encounter Doors | 353384 | [353384-baldis-basics-encounter-doors.json](./353384-baldis-basics-encounter-doors.json) |
+| Baldi's Farm! | 263665 | [263665-baldis-farm.json](./263665-baldis-farm.json) |
 | Baldies | 90071 | [90071-baldies.json](./90071-baldies.json) |
 | Baldis Basics 2: High School | 105781 | [105781-baldis-basics-2-high-school.json](./105781-baldis-basics-2-high-school.json) |
 | Baldis Basics Calculator Sim | 106637 | [106637-baldis-basics-calculator-sim.json](./106637-baldis-basics-calculator-sim.json) |
@@ -1480,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barry McGuigan World Championship Boxing | 13862 | [13862-barry-mcguigan-world-championship-boxing.json](./13862-barry-mcguigan-world-championship-boxing.json) |
 | Barry the Bunny | 151187 | [151187-barry-the-bunny.json](./151187-barry-the-bunny.json) |
 | Bars and Balance | 74672 | [74672-bars-and-balance.json](./74672-bars-and-balance.json) |
+| Bars of Black and White | 263669 | [263669-bars-of-black-and-white.json](./263669-bars-of-black-and-white.json) |
 | Bart Bash | 350404 | [350404-bart-bash.json](./350404-bart-bash.json) |
 | Bart Bike Fun | 365247 | [365247-bart-bike-fun.json](./365247-bart-bike-fun.json) |
 | Bart Bird | 26935 | [26935-bart-bird.json](./26935-bart-bird.json) |
@@ -3372,6 +3374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bestiary Survivors | 290713 | [290713-bestiary-survivors.json](./290713-bestiary-survivors.json) |
 | Bestie Walzer | 98435 | [98435-bestie-walzer.json](./98435-bestie-walzer.json) |
 | Bestowers of Eternity | 73763 | [73763-bestowers-of-eternity.json](./73763-bestowers-of-eternity.json) |
+| Bestri | 263649 | [263649-bestri.json](./263649-bestri.json) |
 | Bet on Beta | 415119 | [415119-bet-on-beta.json](./415119-bet-on-beta.json) |
 | Beta Bloc | 44504 | [44504-beta-bloc.json](./44504-beta-bloc.json) |
 | Beta Decay | 250957 | [250957-beta-decay.json](./250957-beta-decay.json) |
@@ -3491,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Hanwell | 265409 | [265409-beyond-hanwell.json](./265409-beyond-hanwell.json) |
 | Beyond Horizon: The Astral Expedition | 311112 | [311112-beyond-horizon-the-astral-expedition.json](./311112-beyond-horizon-the-astral-expedition.json) |
 | Beyond Horror: Episode One - A Father's Journey | 170925 | [170925-beyond-horror-episode-one-a-fathers-journey.json](./170925-beyond-horror-episode-one-a-fathers-journey.json) |
+| Beyond Kung-Fu | 263650 | [263650-beyond-kung-fu.json](./263650-beyond-kung-fu.json) |
 | Beyond Lost Planets | 386300 | [386300-beyond-lost-planets.json](./386300-beyond-lost-planets.json) |
 | Beyond Magic | 32941 | [32941-beyond-magic.json](./32941-beyond-magic.json) |
 | Beyond Memoria | 386302 | [386302-beyond-memoria.json](./386302-beyond-memoria.json) |
@@ -3682,10 +3686,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Brother: The Game | 139906 | [139906-big-brother-the-game.json](./139906-big-brother-the-game.json) |
 | Big Brother: The Game | 66035 | [66035-big-brother-the-game.json](./66035-big-brother-the-game.json) |
 | Big Buck Deer Hunting | 101469 | [101469-big-buck-deer-hunting.json](./101469-big-buck-deer-hunting.json) |
+| Big Buck Hunter | 263652 | [263652-big-buck-hunter.json](./263652-big-buck-hunter.json) |
 | Big Buck Hunter Arcade | 33191 | [33191-big-buck-hunter-arcade.json](./33191-big-buck-hunter-arcade.json) |
 | Big Buck Hunter Arcade: Elk Adventure Pack | 226810 | [226810-big-buck-hunter-arcade-elk-adventure-pack.json](./226810-big-buck-hunter-arcade-elk-adventure-pack.json) |
+| Big Buck Hunter II: Sportsman's Paradise | 263654 | [263654-big-buck-hunter-ii-sportsmans-paradise.json](./263654-big-buck-hunter-ii-sportsmans-paradise.json) |
 | Big Buck Hunter Pro | 220075 | [220075-big-buck-hunter-pro.json](./220075-big-buck-hunter-pro.json) |
 | Big Buck Hunter Pro Adventure | 328254 | [328254-big-buck-hunter-pro-adventure.json](./328254-big-buck-hunter-pro-adventure.json) |
+| Big Buck Hunter: Call of the Wild | 263653 | [263653-big-buck-hunter-call-of-the-wild.json](./263653-big-buck-hunter-call-of-the-wild.json) |
+| Big Buck Hunter: Shooter's Challenge | 263651 | [263651-big-buck-hunter-shooters-challenge.json](./263651-big-buck-hunter-shooters-challenge.json) |
 | Big Buck Hunter: Ultimate Trophy - Deluxe Edition | 333717 | [333717-big-buck-hunter-ultimate-trophy-deluxe-edition.json](./333717-big-buck-hunter-ultimate-trophy-deluxe-edition.json) |
 | Big Buck Hunter: Ultimate Trophy - Mythic Hunting Pack | 333752 | [333752-big-buck-hunter-ultimate-trophy-mythic-hunting-pack.json](./333752-big-buck-hunter-ultimate-trophy-mythic-hunting-pack.json) |
 | Big Buck Safari | 220076 | [220076-big-buck-safari.json](./220076-big-buck-safari.json) |
