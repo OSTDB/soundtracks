@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuka: Scattered Shards of the Yokai | 247461 | [247461-yuka-scattered-shards-of-the-yokai.json](./247461-yuka-scattered-shards-of-the-yokai.json) |
 | Yukai de Kudaranai Game | 331875 | [331875-yukai-de-kudaranai-game.json](./331875-yukai-de-kudaranai-game.json) |
 | Yukar From the Abyss | 216808 | [216808-yukar-from-the-abyss.json](./216808-yukar-from-the-abyss.json) |
+| Yuki Nime | 229730 | [229730-yuki-nime.json](./229730-yuki-nime.json) |
 | Yuki Onna | 126993 | [126993-yuki-onna.json](./126993-yuki-onna.json) |
 | Yuki: Space Ranger | 159032 | [159032-yuki-space-ranger.json](./159032-yuki-space-ranger.json) |
 | Yukigatari | 268662 | [268662-yukigatari.json](./268662-yukigatari.json) |
@@ -963,6 +964,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume ni made Mita Idol | 375342 | [375342-yume-ni-made-mita-idol.json](./375342-yume-ni-made-mita-idol.json) |
 | Yume Nikki GB | 229685 | [229685-yume-nikki-gb.json](./229685-yume-nikki-gb.json) |
 | Yume Nikki GB | 229686 | [229686-yume-nikki-gb.json](./229686-yume-nikki-gb.json) |
+| Yume Nikki Jam 2018 Submission | 229601 | [229601-yume-nikki-jam-2018-submission.json](./229601-yume-nikki-jam-2018-submission.json) |
+| Yume Nikki Rythm | 229600 | [229600-yume-nikki-rythm.json](./229600-yume-nikki-rythm.json) |
 | Yume Nikki Space | 307052 | [307052-yume-nikki-space.json](./307052-yume-nikki-space.json) |
 | Yume Nikki Ver. 1.00 | 202368 | [202368-yume-nikki-ver-1-00.json](./202368-yume-nikki-ver-1-00.json) |
 | Yume Nikki Ware | 307091 | [307091-yume-nikki-ware.json](./307091-yume-nikki-ware.json) |
