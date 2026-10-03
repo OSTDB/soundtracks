@@ -2627,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstate Drifter 1999 | 141776 | [141776-interstate-drifter-1999.json](./141776-interstate-drifter-1999.json) |
 | Interstate Drifter 1999: Hyperdrive | 296936 | [296936-interstate-drifter-1999-hyperdrive.json](./296936-interstate-drifter-1999-hyperdrive.json) |
 | Interstellar Connection | 183013 | [183013-interstellar-connection.json](./183013-interstellar-connection.json) |
+| Interstellar Conquest | 238582 | [238582-interstellar-conquest.json](./238582-interstellar-conquest.json) |
 | Interstellar Dragon: Into the depths... of space! | 374670 | [374670-interstellar-dragon-into-the-depths-of-space.json](./374670-interstellar-dragon-into-the-depths-of-space.json) |
 | Interstellar Escape | 333795 | [333795-interstellar-escape.json](./333795-interstellar-escape.json) |
 | Interstellar Espionage Inc. | 372453 | [372453-interstellar-espionage-inc.json](./372453-interstellar-espionage-inc.json) |
