@@ -422,7 +422,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Gambling | 89266 | [89266-mafia-gambling.json](./89266-mafia-gambling.json) |
 | Mafia Hotel | 416006 | [416006-mafia-hotel.json](./416006-mafia-hotel.json) |
 | Mafia II: Director's Cut | 47385 | [47385-mafia-ii-directors-cut.json](./47385-mafia-ii-directors-cut.json) |
+| Mafia II: Greaser Pack | 275236 | [275236-mafia-ii-greaser-pack.json](./275236-mafia-ii-greaser-pack.json) |
+| Mafia II: Made Man Pack | 275238 | [275238-mafia-ii-made-man-pack.json](./275238-mafia-ii-made-man-pack.json) |
+| Mafia II: Renegade Pack | 275237 | [275237-mafia-ii-renegade-pack.json](./275237-mafia-ii-renegade-pack.json) |
 | Mafia II: The Betrayal of Jimmy | 18395 | [18395-mafia-ii-the-betrayal-of-jimmy.json](./18395-mafia-ii-the-betrayal-of-jimmy.json) |
+| Mafia II: Vegas Pack | 275230 | [275230-mafia-ii-vegas-pack.json](./275230-mafia-ii-vegas-pack.json) |
+| Mafia II: War Hero Pack | 275235 | [275235-mafia-ii-war-hero-pack.json](./275235-mafia-ii-war-hero-pack.json) |
 | Mafia III: Definitive Edition | 134073 | [134073-mafia-iii-definitive-edition.json](./134073-mafia-iii-definitive-edition.json) |
 | Mafia III: Faster, Baby! | 39761 | [39761-mafia-iii-faster-baby.json](./39761-mafia-iii-faster-baby.json) |
 | Mafia in Town | 239756 | [239756-mafia-in-town.json](./239756-mafia-in-town.json) |
@@ -6445,6 +6450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minigun vs. Swarms of the Zombie Apocalypse Simulator | 171466 | [171466-minigun-vs-swarms-of-the-zombie-apocalypse-simulator.json](./171466-minigun-vs-swarms-of-the-zombie-apocalypse-simulator.json) |
 | Minigunner | 207509 | [207509-minigunner.json](./207509-minigunner.json) |
 | MiniHunt | 296986 | [296986-minihunt.json](./296986-minihunt.json) |
+| MiniJolt | 275252 | [275252-minijolt.json](./275252-minijolt.json) |
 | Miniland Adventure | 283256 | [283256-miniland-adventure.json](./283256-miniland-adventure.json) |
 | MiniLaw: Ministry of Law | 32024 | [32024-minilaw-ministry-of-law.json](./32024-minilaw-ministry-of-law.json) |
 | MiniLife: Tournament | 257960 | [257960-minilife-tournament.json](./257960-minilife-tournament.json) |
@@ -7682,6 +7688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly | 335884 | [335884-monopoly.json](./335884-monopoly.json) |
 | Monopoly | 37740 | [37740-monopoly.json](./37740-monopoly.json) |
 | Monopoly Casino | 78950 | [78950-monopoly-casino.json](./78950-monopoly-casino.json) |
+| Monopoly City | 275217 | [275217-monopoly-city.json](./275217-monopoly-city.json) |
 | Monopoly Collection | 50615 | [50615-monopoly-collection.json](./50615-monopoly-collection.json) |
 | Monopoly Deal | 69346 | [69346-monopoly-deal.json](./69346-monopoly-deal.json) |
 | Monopoly Hotels | 64471 | [64471-monopoly-hotels.json](./64471-monopoly-hotels.json) |
