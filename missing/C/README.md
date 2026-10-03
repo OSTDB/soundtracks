@@ -1787,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania | 322139 | [322139-castlevania.json](./322139-castlevania.json) |
 | Castlevania 2 | 276459 | [276459-castlevania-2.json](./276459-castlevania-2.json) |
 | Castlevania 2 Remake | 323883 | [323883-castlevania-2-remake.json](./323883-castlevania-2-remake.json) |
+| Castlevania Chronicles II: Simon's Quest | 233564 | [233564-castlevania-chronicles-ii-simons-quest.json](./233564-castlevania-chronicles-ii-simons-quest.json) |
 | Castlevania II: Belmont's Revenge | 1123 | [1123-castlevania-ii-belmonts-revenge.json](./1123-castlevania-ii-belmonts-revenge.json) |
 | Castlevania II: Simon's Quest - Rebitten | 217540 | [217540-castlevania-ii-simons-quest-rebitten.json](./217540-castlevania-ii-simons-quest-rebitten.json) |
 | Castlevania II: Simon's Quest Revamped | 317859 | [317859-castlevania-ii-simons-quest-revamped.json](./317859-castlevania-ii-simons-quest-revamped.json) |
@@ -4184,6 +4185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicon | 35130 | [35130-chronicon.json](./35130-chronicon.json) |
 | Chronicon Complete | 242676 | [242676-chronicon-complete.json](./242676-chronicon-complete.json) |
 | Chronicon: Survivors | 314369 | [314369-chronicon-survivors.json](./314369-chronicon-survivors.json) |
+| Chronicon: The Mechanist | 233560 | [233560-chronicon-the-mechanist.json](./233560-chronicon-the-mechanist.json) |
 | Chronime Puzzle: Dogs | 418572 | [418572-chronime-puzzle-dogs.json](./418572-chronime-puzzle-dogs.json) |
 | Chronique des Silencieux | 218671 | [218671-chronique-des-silencieux.json](./218671-chronique-des-silencieux.json) |
 | Chroniric | 107251 | [107251-chroniric.json](./107251-chroniric.json) |
@@ -8350,6 +8352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Fluffy Slime Maker | 106369 | [106369-crazy-fluffy-slime-maker.json](./106369-crazy-fluffy-slime-maker.json) |
 | Crazy for Speed 2 | 105872 | [105872-crazy-for-speed-2.json](./105872-crazy-for-speed-2.json) |
 | Crazy Forest 2 | 111684 | [111684-crazy-forest-2.json](./111684-crazy-forest-2.json) |
+| Crazy Freekick | 233555 | [233555-crazy-freekick.json](./233555-crazy-freekick.json) |
 | Crazy Frog Collectables: Art School | 140549 | [140549-crazy-frog-collectables-art-school.json](./140549-crazy-frog-collectables-art-school.json) |
 | Crazy Frog Racer | 20483 | [20483-crazy-frog-racer.json](./20483-crazy-frog-racer.json) |
 | Crazy Frog Racer | 240508 | [240508-crazy-frog-racer.json](./240508-crazy-frog-racer.json) |
@@ -10172,6 +10175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber City Oedo 808: Kemono no Zokusei | 64382 | [64382-cyber-city-oedo-808-kemono-no-zokusei.json](./64382-cyber-city-oedo-808-kemono-no-zokusei.json) |
 | Cyber Clutch: Hot Import Nights | 302383 | [302383-cyber-clutch-hot-import-nights.json](./302383-cyber-clutch-hot-import-nights.json) |
 | Cyber Combat | 236335 | [236335-cyber-combat.json](./236335-cyber-combat.json) |
+| Cyber Courier 2088 | 233666 | [233666-cyber-courier-2088.json](./233666-cyber-courier-2088.json) |
 | Cyber Cycles | 39829 | [39829-cyber-cycles.json](./39829-cyber-cycles.json) |
 | Cyber Dodge | 42054 | [42054-cyber-dodge.json](./42054-cyber-dodge.json) |
 | Cyber Dome | 62801 | [62801-cyber-dome.json](./62801-cyber-dome.json) |
