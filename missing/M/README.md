@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magatsu Barai | 172730 | [172730-magatsu-barai.json](./172730-magatsu-barai.json) |
 | Magatsu Wahrheit | 194004 | [194004-magatsu-wahrheit.json](./194004-magatsu-wahrheit.json) |
 | Magazine Editor | 29433 | [29433-magazine-editor.json](./29433-magazine-editor.json) |
+| Magdalene | 277491 | [277491-magdalene.json](./277491-magdalene.json) |
 | Mage and Minions | 15468 | [15468-mage-and-minions.json](./15468-mage-and-minions.json) |
 | Mage and Monsters | 209682 | [209682-mage-and-monsters.json](./209682-mage-and-monsters.json) |
 | Mage and the Grimoire of Beast | 293203 | [293203-mage-and-the-grimoire-of-beast.json](./293203-mage-and-the-grimoire-of-beast.json) |
@@ -1141,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maimaimaigoen: Episode 6 - The Red Mask | 343937 | [343937-maimaimaigoen-episode-6-the-red-mask.json](./343937-maimaimaigoen-episode-6-the-red-mask.json) |
 | Maimaimaigoen: Episode 7 - The Lost Path | 343940 | [343940-maimaimaigoen-episode-7-the-lost-path.json](./343940-maimaimaigoen-episode-7-the-lost-path.json) |
 | Main Action | 254777 | [254777-main-action.json](./254777-main-action.json) |
+| Main Deity Space | 277515 | [277515-main-deity-space.json](./277515-main-deity-space.json) |
 | Mainasutto: I'm Not Alone | 268991 | [268991-mainasutto-im-not-alone.json](./268991-mainasutto-im-not-alone.json) |
 | Mainbody | 223424 | [223424-mainbody.json](./223424-mainbody.json) |
 | Mainframe Men | 384147 | [384147-mainframe-men.json](./384147-mainframe-men.json) |
@@ -1796,6 +1798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marina Militare It Navy Sim | 193849 | [193849-marina-militare-it-navy-sim.json](./193849-marina-militare-it-navy-sim.json) |
 | Marina's Cuckolding Report | 143063 | [143063-marinas-cuckolding-report.json](./143063-marinas-cuckolding-report.json) |
 | Marinatide | 30200 | [30200-marinatide.json](./30200-marinatide.json) |
+| Marine Battle | 277530 | [277530-marine-battle.json](./277530-marine-battle.json) |
 | Marine Buster | 45969 | [45969-marine-buster.json](./45969-marine-buster.json) |
 | Marine Chan | 97846 | [97846-marine-chan.json](./97846-marine-chan.json) |
 | Marine Quest | 313683 | [313683-marine-quest.json](./313683-marine-quest.json) |
@@ -4476,6 +4479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory of Memorie: A Chill Story | 409654 | [409654-memory-of-memorie-a-chill-story.json](./409654-memory-of-memorie-a-chill-story.json) |
 | Memory Of Psycho | 349505 | [349505-memory-of-psycho.json](./349505-memory-of-psycho.json) |
 | Memory of Souls | 314378 | [314378-memory-of-souls.json](./314378-memory-of-souls.json) |
+| Memory of The Waters | 277496 | [277496-memory-of-the-waters.json](./277496-memory-of-the-waters.json) |
 | Memory of Time | 339123 | [339123-memory-of-time.json](./339123-memory-of-time.json) |
 | Memory Patches | 264660 | [264660-memory-patches.json](./264660-memory-patches.json) |
 | Memory Puzzle: Futanari Gym | 368623 | [368623-memory-puzzle-futanari-gym.json](./368623-memory-puzzle-futanari-gym.json) |
@@ -7383,6 +7387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moldwasher | 342738 | [342738-moldwasher.json](./342738-moldwasher.json) |
 | Moldy Tower | 271479 | [271479-moldy-tower.json](./271479-moldy-tower.json) |
 | Mole | 135058 | [135058-mole.json](./135058-mole.json) |
+| Mole | 277532 | [277532-mole.json](./277532-mole.json) |
 | Möle | 93549 | [93549-mole.json](./93549-mole.json) |
 | Mole Cart Mining | 391830 | [391830-mole-cart-mining.json](./391830-mole-cart-mining.json) |
 | Mole Digging | 349309 | [349309-mole-digging.json](./349309-mole-digging.json) |
