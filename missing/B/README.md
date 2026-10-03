@@ -5514,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood girl | 177854 | [177854-blood-girl.json](./177854-blood-girl.json) |
 | Blood Golf | 264083 | [264083-blood-golf.json](./264083-blood-golf.json) |
 | Blood Harvest | 29565 | [29565-blood-harvest.json](./29565-blood-harvest.json) |
+| Blood Hunting | 259726 | [259726-blood-hunting.json](./259726-blood-hunting.json) |
 | Blood Idol Wakabayashi | 124676 | [124676-blood-idol-wakabayashi.json](./124676-blood-idol-wakabayashi.json) |
 | Blood II: Revelations | 127929 | [127929-blood-ii-revelations.json](./127929-blood-ii-revelations.json) |
 | Blood II: The Chosen | 11265 | [11265-blood-ii-the-chosen.json](./11265-blood-ii-the-chosen.json) |
@@ -6689,6 +6690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 2: Mr. Torgue's Campaign of Carnage | 13921 | [13921-borderlands-2-mr-torgues-campaign-of-carnage.json](./13921-borderlands-2-mr-torgues-campaign-of-carnage.json) |
 | Borderlands 3: Bounty of Blood - A Fistful of Redemption | 134100 | [134100-borderlands-3-bounty-of-blood-a-fistful-of-redemption.json](./134100-borderlands-3-bounty-of-blood-a-fistful-of-redemption.json) |
 | Borderlands 3: Deluxe Edition | 116995 | [116995-borderlands-3-deluxe-edition.json](./116995-borderlands-3-deluxe-edition.json) |
+| Borderlands 3: Designer's Cut | 259759 | [259759-borderlands-3-designers-cut.json](./259759-borderlands-3-designers-cut.json) |
 | Borderlands 3: Diamond Loot Chest - Collector's Edition | 136268 | [136268-borderlands-3-diamond-loot-chest-collectors-edition.json](./136268-borderlands-3-diamond-loot-chest-collectors-edition.json) |
 | Borderlands 3: Director's Cut | 271818 | [271818-borderlands-3-directors-cut.json](./271818-borderlands-3-directors-cut.json) |
 | Borderlands 3: Season Pass 2 | 293719 | [293719-borderlands-3-season-pass-2.json](./293719-borderlands-3-season-pass-2.json) |
@@ -6926,6 +6928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncemasters: Aiming Assist | 379378 | [379378-bouncemasters-aiming-assist.json](./379378-bouncemasters-aiming-assist.json) |
 | Bouncer | 13698 | [13698-bouncer.json](./13698-bouncer.json) |
 | Bouncers | 131481 | [131481-bouncers.json](./131481-bouncers.json) |
+| Bouncers | 259755 | [259755-bouncers.json](./259755-bouncers.json) |
 | BounceShot | 182484 | [182484-bounceshot.json](./182484-bounceshot.json) |
 | Bouncin' Baby Bunnies | 282632 | [282632-bouncin-baby-bunnies.json](./282632-bouncin-baby-bunnies.json) |
 | Bouncing Babies | 377828 | [377828-bouncing-babies.json](./377828-bouncing-babies.json) |
@@ -7125,6 +7128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxed Up! | 386837 | [386837-boxed-up.json](./386837-boxed-up.json) |
 | Boxer | 13699 | [13699-boxer.json](./13699-boxer.json) |
 | Boxer Rebellion | 92975 | [92975-boxer-rebellion.json](./92975-boxer-rebellion.json) |
+| Boxes | 259756 | [259756-boxes.json](./259756-boxes.json) |
 | Boxes World | 247013 | [247013-boxes-world.json](./247013-boxes-world.json) |
 | Boxes: Lost Fragments | 219729 | [219729-boxes-lost-fragments.json](./219729-boxes-lost-fragments.json) |
 | BoxesWithGuns | 20198 | [20198-boxeswithguns.json](./20198-boxeswithguns.json) |
