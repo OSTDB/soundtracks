@@ -2902,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Starfighter | 76956 | [76956-god-starfighter.json](./76956-god-starfighter.json) |
 | God Sword | 157497 | [157497-god-sword.json](./157497-god-sword.json) |
 | God Trials | 348421 | [348421-god-trials.json](./348421-god-trials.json) |
+| God vs. Sin | 273595 | [273595-god-vs-sin.json](./273595-god-vs-sin.json) |
 | God Wars | 347325 | [347325-god-wars.json](./347325-god-wars.json) |
 | God Wars: Future Past | 25312 | [25312-god-wars-future-past.json](./25312-god-wars-future-past.json) |
 | God, Save the Queens! | 406682 | [406682-god-save-the-queens.json](./406682-god-save-the-queens.json) |
@@ -3305,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomo | 7552 | [7552-gomo.json](./7552-gomo.json) |
 | Gomoku Let's Go | 173252 | [173252-gomoku-lets-go.json](./173252-gomoku-lets-go.json) |
 | Gomoku: Online Game Hall | 88204 | [88204-gomoku-online-game-hall.json](./88204-gomoku-online-game-hall.json) |
+| Gomorrah | 273546 | [273546-gomorrah.json](./273546-gomorrah.json) |
 | Gon | 97118 | [97118-gon.json](./97118-gon.json) |
 | Gon' E-Choo! | 19023 | [19023-gon-e-choo.json](./19023-gon-e-choo.json) |
 | Gone | 199927 | [199927-gone.json](./199927-gone.json) |
