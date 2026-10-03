@@ -2164,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Elbow Manager | 31291 | [31291-tennis-elbow-manager.json](./31291-tennis-elbow-manager.json) |
 | Tennis Elbow Manager 2 | 99576 | [99576-tennis-elbow-manager-2.json](./99576-tennis-elbow-manager-2.json) |
 | Tennis Esports | 280871 | [280871-tennis-esports.json](./280871-tennis-esports.json) |
+| Tennis Exciting | 247005 | [247005-tennis-exciting.json](./247005-tennis-exciting.json) |
 | Tennis Game in Roaring ’20s | 248064 | [248064-tennis-game-in-roaring-20s.json](./248064-tennis-game-in-roaring-20s.json) |
 | Tennis Girl | 292241 | [292241-tennis-girl.json](./292241-tennis-girl.json) |
 | Tennis In Hell | 250991 | [250991-tennis-in-hell.json](./250991-tennis-in-hell.json) |
