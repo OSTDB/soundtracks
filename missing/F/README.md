@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Inn Simulator | 157127 | [157127-fantasy-inn-simulator.json](./157127-fantasy-inn-simulator.json) |
 | Fantasy Item Company | 216158 | [216158-fantasy-item-company.json](./216158-fantasy-item-company.json) |
 | Fantasy Jigsaw Puzzle 5 | 174118 | [174118-fantasy-jigsaw-puzzle-5.json](./174118-fantasy-jigsaw-puzzle-5.json) |
+| Fantasy Jigsaw Puzzles | 231992 | [231992-fantasy-jigsaw-puzzles.json](./231992-fantasy-jigsaw-puzzles.json) |
 | Fantasy Jigsaw Puzzles: Dragons | 236825 | [236825-fantasy-jigsaw-puzzles-dragons.json](./236825-fantasy-jigsaw-puzzles-dragons.json) |
 | Fantasy Jigsaw Puzzles: Dwarves | 235467 | [235467-fantasy-jigsaw-puzzles-dwarves.json](./235467-fantasy-jigsaw-puzzles-dwarves.json) |
 | Fantasy Jigsaw Puzzles: Lost Empires | 296423 | [296423-fantasy-jigsaw-puzzles-lost-empires.json](./296423-fantasy-jigsaw-puzzles-lost-empires.json) |
@@ -4531,6 +4532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fomalhaut Flowers | 159714 | [159714-fomalhaut-flowers.json](./159714-fomalhaut-flowers.json) |
 | Fomography | 264003 | [264003-fomography.json](./264003-fomography.json) |
 | Fono | 161336 | [161336-fono.json](./161336-fono.json) |
+| Font Quiz | 232059 | [232059-font-quiz.json](./232059-font-quiz.json) |
 | Fonzi Fuddy: Ace Defective | 322050 | [322050-fonzi-fuddy-ace-defective.json](./322050-fonzi-fuddy-ace-defective.json) |
 | Foo Foo | 138148 | [138148-foo-foo.json](./138148-foo-foo.json) |
 | Fooaaahh! | 182451 | [182451-fooaaahh.json](./182451-fooaaahh.json) |
@@ -4687,6 +4689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football on the Magnavox Odyssey | 131477 | [131477-football-on-the-magnavox-odyssey.json](./131477-football-on-the-magnavox-odyssey.json) |
 | Football Penalty | 234315 | [234315-football-penalty.json](./234315-football-penalty.json) |
 | Football Pitch Simulator | 326428 | [326428-football-pitch-simulator.json](./326428-football-pitch-simulator.json) |
+| Football Players Quiz | 232058 | [232058-football-players-quiz.json](./232058-football-players-quiz.json) |
 | Football Quiz | 340926 | [340926-football-quiz.json](./340926-football-quiz.json) |
 | Football Quiz Deluxe | 116397 | [116397-football-quiz-deluxe.json](./116397-football-quiz-deluxe.json) |
 | Football Rising: Zero to Hero | 406285 | [406285-football-rising-zero-to-hero.json](./406285-football-rising-zero-to-hero.json) |
