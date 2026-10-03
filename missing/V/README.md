@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Crawlers: The Turbo Wildcard from Vampire Survivors | 378229 | [378229-vampire-crawlers-the-turbo-wildcard-from-vampire-survivors.json](./378229-vampire-crawlers-the-turbo-wildcard-from-vampire-survivors.json) |
 | Vampire Crystals | 64093 | [64093-vampire-crystals.json](./64093-vampire-crystals.json) |
 | Vampire Crystals: Rebirth | 85471 | [85471-vampire-crystals-rebirth.json](./85471-vampire-crystals-rebirth.json) |
+| Vampire Doctor | 255887 | [255887-vampire-doctor.json](./255887-vampire-doctor.json) |
 | Vampire Domain | 319020 | [319020-vampire-domain.json](./319020-vampire-domain.json) |
 | Vampire Escape | 315576 | [315576-vampire-escape.json](./315576-vampire-escape.json) |
 | Vampire Escape 2 | 315577 | [315577-vampire-escape-2.json](./315577-vampire-escape-2.json) |
@@ -1403,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Walk English 2: Travel-hen | 230523 | [230523-virtual-walk-english-2-travel-hen.json](./230523-virtual-walk-english-2-travel-hen.json) |
 | Virtual Walk English 3: Travel-hen | 230524 | [230524-virtual-walk-english-3-travel-hen.json](./230524-virtual-walk-english-3-travel-hen.json) |
 | Virtual Warfighter | 31621 | [31621-virtual-warfighter.json](./31621-virtual-warfighter.json) |
+| Virtual WarZone | 255850 | [255850-virtual-warzone.json](./255850-virtual-warzone.json) |
 | Virtual World Primus | 172105 | [172105-virtual-world-primus.json](./172105-virtual-world-primus.json) |
 | Virtual World: Digital Girl | 379544 | [379544-virtual-world-digital-girl.json](./379544-virtual-world-digital-girl.json) |
 | VirtualAbbey | 107131 | [107131-virtualabbey.json](./107131-virtualabbey.json) |
