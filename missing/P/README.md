@@ -5143,6 +5143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plust: Loving U So True | 239874 | [239874-plust-loving-u-so-true.json](./239874-plust-loving-u-so-true.json) |
 | Pluto Lost Its Colors | 318426 | [318426-pluto-lost-its-colors.json](./318426-pluto-lost-its-colors.json) |
 | Pluto Strikes Back | 51216 | [51216-pluto-strikes-back.json](./51216-pluto-strikes-back.json) |
+| Pluto's Sheep-Dog Day | 246516 | [246516-plutos-sheep-dog-day.json](./246516-plutos-sheep-dog-day.json) |
 | Pluto's Tears | 176974 | [176974-plutos-tears.json](./176974-plutos-tears.json) |
 | Plutonia 3: Going to Surface | 260951 | [260951-plutonia-3-going-to-surface.json](./260951-plutonia-3-going-to-surface.json) |
 | Plutonia 4: Back to Your Hole | 260952 | [260952-plutonia-4-back-to-your-hole.json](./260952-plutonia-4-back-to-your-hole.json) |
@@ -8661,6 +8662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Panic | 257329 | [257329-pumpkin-panic.json](./257329-pumpkin-panic.json) |
 | Pumpkin Restaurant | 345064 | [345064-pumpkin-restaurant.json](./345064-pumpkin-restaurant.json) |
 | Pumpkin Story | 201571 | [201571-pumpkin-story.json](./201571-pumpkin-story.json) |
+| Pumpkin Surprise | 246528 | [246528-pumpkin-surprise.json](./246528-pumpkin-surprise.json) |
 | Pumpkinban | 382214 | [382214-pumpkinban.json](./382214-pumpkinban.json) |
 | PumPum | 159883 | [159883-pumpum.json](./159883-pumpum.json) |
 | PumPum 2 | 226696 | [226696-pumpum-2.json](./226696-pumpum-2.json) |
