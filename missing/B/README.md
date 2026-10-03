@@ -2054,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Giants: Mutant Insects | 7909 | [7909-battle-of-giants-mutant-insects.json](./7909-battle-of-giants-mutant-insects.json) |
 | Battle of Goldfish Scooping | 380121 | [380121-battle-of-goldfish-scooping.json](./380121-battle-of-goldfish-scooping.json) |
 | Battle of Guang | 358489 | [358489-battle-of-guang.json](./358489-battle-of-guang.json) |
+| Battle of Guardians | 238646 | [238646-battle-of-guardians.json](./238646-battle-of-guardians.json) |
 | Battle of Heroes 3 | 196877 | [196877-battle-of-heroes-3.json](./196877-battle-of-heroes-3.json) |
 | Battle of Keys | 90152 | [90152-battle-of-keys.json](./90152-battle-of-keys.json) |
 | Battle of Kingdom | 7772 | [7772-battle-of-kingdom.json](./7772-battle-of-kingdom.json) |
@@ -2389,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlezone 2000 | 13695 | [13695-battlezone-2000.json](./13695-battlezone-2000.json) |
 | Battlezone 98 Redux | 20076 | [20076-battlezone-98-redux.json](./20076-battlezone-98-redux.json) |
 | Battlezone 98 Redux: The Red Odyssey | 124824 | [124824-battlezone-98-redux-the-red-odyssey.json](./124824-battlezone-98-redux-the-red-odyssey.json) |
+| Battlezone: Battle Grounds | 238578 | [238578-battlezone-battle-grounds.json](./238578-battlezone-battle-grounds.json) |
 | Battlezone: Evolved | 329636 | [329636-battlezone-evolved.json](./329636-battlezone-evolved.json) |
 | Battlezone: Rise of the Black Dogs | 3423 | [3423-battlezone-rise-of-the-black-dogs.json](./3423-battlezone-rise-of-the-black-dogs.json) |
 | Battlezone: The Red Odyssey | 238590 | [238590-battlezone-the-red-odyssey.json](./238590-battlezone-the-red-odyssey.json) |
@@ -5133,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blightened | 347800 | [347800-blightened.json](./347800-blightened.json) |
 | Blightfall | 414415 | [414415-blightfall.json](./414415-blightfall.json) |
 | Blightfell | 375311 | [375311-blightfell.json](./375311-blightfell.json) |
+| Blightlands Blacksmith | 238640 | [238640-blightlands-blacksmith.json](./238640-blightlands-blacksmith.json) |
 | Blightseeker | 236510 | [236510-blightseeker.json](./236510-blightseeker.json) |
 | Blightstone | 322863 | [322863-blightstone.json](./322863-blightstone.json) |
 | Blightwreck | 309441 | [309441-blightwreck.json](./309441-blightwreck.json) |
@@ -5635,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Reaver | 298237 | [298237-blood-reaver.json](./298237-blood-reaver.json) |
 | Blood Rising | 338257 | [338257-blood-rising.json](./338257-blood-rising.json) |
 | Blood Rite | 238505 | [238505-blood-rite.json](./238505-blood-rite.json) |
+| Blood Rot: 1918 | 238639 | [238639-blood-rot-1918.json](./238639-blood-rot-1918.json) |
 | Blood Running: Prologue | 293388 | [293388-blood-running-prologue.json](./293388-blood-running-prologue.json) |
 | Blood Runs Cold | 124614 | [124614-blood-runs-cold.json](./124614-blood-runs-cold.json) |
 | Blood Rush | 264079 | [264079-blood-rush.json](./264079-blood-rush.json) |
