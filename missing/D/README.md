@@ -4611,6 +4611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ding Dong VR | 105174 | [105174-ding-dong-vr.json](./105174-ding-dong-vr.json) |
 | Ding! MONO | 270634 | [270634-ding-mono.json](./270634-ding-mono.json) |
 | DingDingDing | 109719 | [109719-dingdingding.json](./109719-dingdingding.json) |
+| Dinglehoppers | 246534 | [246534-dinglehoppers.json](./246534-dinglehoppers.json) |
 | Dingletopia: Nation Under Siege (by Orcs) | 133410 | [133410-dingletopia-nation-under-siege-by-orcs.json](./133410-dingletopia-nation-under-siege-by-orcs.json) |
 | Dink Smallwood HD | 272807 | [272807-dink-smallwood-hd.json](./272807-dink-smallwood-hd.json) |
 | Dinkie Dino | 284450 | [284450-dinkie-dino.json](./284450-dinkie-dino.json) |
@@ -6240,6 +6241,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donald Trump's Real Estate Tycoon | 25706 | [25706-donald-trumps-real-estate-tycoon.json](./25706-donald-trumps-real-estate-tycoon.json) |
 | Donald VS Martians | 113504 | [113504-donald-vs-martians.json](./113504-donald-vs-martians.json) |
 | Donald's Alphabet Chase | 57631 | [57631-donalds-alphabet-chase.json](./57631-donalds-alphabet-chase.json) |
+| Donald's Gem-boree | 246517 | [246517-donalds-gem-boree.json](./246517-donalds-gem-boree.json) |
+| Donald's Hectic Hay Bales | 246508 | [246508-donalds-hectic-hay-bales.json](./246508-donalds-hectic-hay-bales.json) |
+| Donald's Tugboat Adventures | 246509 | [246509-donalds-tugboat-adventures.json](./246509-donalds-tugboat-adventures.json) |
 | Donare | 376673 | [376673-donare.json](./376673-donare.json) |
 | Donchan ga Kyu | 92051 | [92051-donchan-ga-kyu.json](./92051-donchan-ga-kyu.json) |
 | Donchan Puzzle Hanabi de Dohn Advance | 49585 | [49585-donchan-puzzle-hanabi-de-dohn-advance.json](./49585-donchan-puzzle-hanabi-de-dohn-advance.json) |
