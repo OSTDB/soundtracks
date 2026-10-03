@@ -845,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Slayer | 139040 | [139040-idle-slayer.json](./139040-idle-slayer.json) |
 | Idle Spa Tycoon 3D | 208923 | [208923-idle-spa-tycoon-3d.json](./208923-idle-spa-tycoon-3d.json) |
 | Idle Space Force | 246425 | [246425-idle-space-force.json](./246425-idle-space-force.json) |
+| Idle Space Navy | 266983 | [266983-idle-space-navy.json](./266983-idle-space-navy.json) |
 | Idle Sphere | 323157 | [323157-idle-sphere.json](./323157-idle-sphere.json) |
 | Idle Spiral | 211230 | [211230-idle-spiral.json](./211230-idle-spiral.json) |
 | Idle Spiral: Custom Spiral Pack | 291702 | [291702-idle-spiral-custom-spiral-pack.json](./291702-idle-spiral-custom-spiral-pack.json) |
