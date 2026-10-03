@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Defense | 269008 | [269008-halloween-defense.json](./269008-halloween-defense.json) |
 | Halloween Escape | 160159 | [160159-halloween-escape.json](./160159-halloween-escape.json) |
 | Halloween Experience 3: GGen | 295556 | [295556-halloween-experience-3-ggen.json](./295556-halloween-experience-3-ggen.json) |
+| Halloween Games for Toddlers and Kids | 266987 | [266987-halloween-games-for-toddlers-and-kids.json](./266987-halloween-games-for-toddlers-and-kids.json) |
 | Halloween Ghost Grabbers | 379001 | [379001-halloween-ghost-grabbers.json](./379001-halloween-ghost-grabbers.json) |
 | Halloween Girls | 373750 | [373750-halloween-girls.json](./373750-halloween-girls.json) |
 | Halloween Harem | 398450 | [398450-halloween-harem.json](./398450-halloween-harem.json) |
