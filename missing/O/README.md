@@ -1448,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneHit | 75104 | [75104-onehit.json](./75104-onehit.json) |
 | Oneiric | 285509 | [285509-oneiric.json](./285509-oneiric.json) |
 | Oneiro Man | 299779 | [299779-oneiro-man.json](./299779-oneiro-man.json) |
+| Oneirology Online | 276922 | [276922-oneirology-online.json](./276922-oneirology-online.json) |
 | Oneirophobia | 300794 | [300794-oneirophobia.json](./300794-oneirophobia.json) |
 | Oneirophobia | 391714 | [391714-oneirophobia.json](./391714-oneirophobia.json) |
 | Oneiros | 102965 | [102965-oneiros.json](./102965-oneiros.json) |
