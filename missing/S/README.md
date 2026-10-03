@@ -2221,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Coming: Tactical Training | 35641 | [35641-second-coming-tactical-training.json](./35641-second-coming-tactical-training.json) |
 | Second Death | 32211 | [32211-second-death.json](./32211-second-death.json) |
 | Second Death | 377178 | [377178-second-death.json](./377178-second-death.json) |
+| Second Dreamer | 245994 | [245994-second-dreamer.json](./245994-second-dreamer.json) |
 | Second Final | 120381 | [120381-second-final.json](./120381-second-final.json) |
 | Second Galaxy | 120308 | [120308-second-galaxy.json](./120308-second-galaxy.json) |
 | Second Humanity | 391869 | [391869-second-humanity.json](./391869-second-humanity.json) |
@@ -9753,6 +9754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Canyon | 40771 | [40771-space-canyon.json](./40771-space-canyon.json) |
 | Space Captain McCallery Episode 1: Crash Landing | 99160 | [99160-space-captain-mccallery-episode-1-crash-landing.json](./99160-space-captain-mccallery-episode-1-crash-landing.json) |
 | Space Captain McCallery Episode 3: The Weaponmaster's Challenge | 142381 | [142381-space-captain-mccallery-episode-3-the-weaponmasters-challenge.json](./142381-space-captain-mccallery-episode-3-the-weaponmasters-challenge.json) |
+| Space Captain McCallery Episode 4: The Turquoise Temple | 245977 | [245977-space-captain-mccallery-episode-4-the-turquoise-temple.json](./245977-space-captain-mccallery-episode-4-the-turquoise-temple.json) |
 | Space Captain vs Mega Robots | 28119 | [28119-space-captain-vs-mega-robots.json](./28119-space-captain-vs-mega-robots.json) |
 | Space Casual | 220625 | [220625-space-casual.json](./220625-space-casual.json) |
 | Space Cat Solitaire | 368471 | [368471-space-cat-solitaire.json](./368471-space-cat-solitaire.json) |
@@ -9998,6 +10000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Leprechaun | 75029 | [75029-space-leprechaun.json](./75029-space-leprechaun.json) |
 | Space Lift Danger Panic! | 147982 | [147982-space-lift-danger-panic.json](./147982-space-lift-danger-panic.json) |
 | Space Lines | 246085 | [246085-space-lines.json](./246085-space-lines.json) |
+| Space Lines: Ultimate Edition | 245975 | [245975-space-lines-ultimate-edition.json](./245975-space-lines-ultimate-edition.json) |
 | Space Lords | 182390 | [182390-space-lords.json](./182390-space-lords.json) |
 | Space Love Delta | 134638 | [134638-space-love-delta.json](./134638-space-love-delta.json) |
 | Space M+A+X | 37157 | [37157-space-m-a-x.json](./37157-space-m-a-x.json) |
@@ -10596,6 +10599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Elixir | 19447 | [19447-speed-elixir.json](./19447-speed-elixir.json) |
 | Speed Factor | 378777 | [378777-speed-factor.json](./378777-speed-factor.json) |
 | Speed Freak | 46764 | [46764-speed-freak.json](./46764-speed-freak.json) |
+| Speed Golf Royale | 246001 | [246001-speed-golf-royale.json](./246001-speed-golf-royale.json) |
 | Speed Guess: Something | 323188 | [323188-speed-guess-something.json](./323188-speed-guess-something.json) |
 | Speed Hero vs. Mega Ramp | 101985 | [101985-speed-hero-vs-mega-ramp.json](./101985-speed-hero-vs-mega-ramp.json) |
 | Speed High | 240355 | [240355-speed-high.json](./240355-speed-high.json) |
@@ -13883,6 +13887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story Craft | 270729 | [270729-story-craft.json](./270729-story-craft.json) |
 | Story Hour Adventures | 50713 | [50713-story-hour-adventures.json](./50713-story-hour-adventures.json) |
 | Story Hour: Fairy Tales | 9756 | [9756-story-hour-fairy-tales.json](./9756-story-hour-fairy-tales.json) |
+| Story in the Dream World 3: Sinister Island's Mysterious Mist | 245998 | [245998-story-in-the-dream-world-3-sinister-islands-mysterious-mist.json](./245998-story-in-the-dream-world-3-sinister-islands-mysterious-mist.json) |
 | Story Jar | 228353 | [228353-story-jar.json](./228353-story-jar.json) |
 | Story Machine | 42170 | [42170-story-machine.json](./42170-story-machine.json) |
 | Story Machine | 95450 | [95450-story-machine.json](./95450-story-machine.json) |
