@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Temple: Order of the Golden Dawn | 51919 | [51919-virtual-temple-order-of-the-golden-dawn.json](./51919-virtual-temple-order-of-the-golden-dawn.json) |
 | Virtual Ties Isekaijoucho Träumerei | 376085 | [376085-virtual-ties-isekaijoucho-traumerei.json](./376085-virtual-ties-isekaijoucho-traumerei.json) |
 | Virtual Towers Online | 112273 | [112273-virtual-towers-online.json](./112273-virtual-towers-online.json) |
+| Virtual VCS | 270271 | [270271-virtual-vcs.json](./270271-virtual-vcs.json) |
 | Virtual Viking | 133216 | [133216-virtual-viking.json](./133216-virtual-viking.json) |
 | Virtual Villagers 2: The Lost Children | 14975 | [14975-virtual-villagers-2-the-lost-children.json](./14975-virtual-villagers-2-the-lost-children.json) |
 | Virtual Villagers 2: The Lost Children for iPad | 108474 | [108474-virtual-villagers-2-the-lost-children-for-ipad.json](./108474-virtual-villagers-2-the-lost-children-for-ipad.json) |
