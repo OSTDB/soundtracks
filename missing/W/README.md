@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Digger | 359468 | [359468-web-digger.json](./359468-web-digger.json) |
 | Web Dimension | 172034 | [172034-web-dimension.json](./172034-web-dimension.json) |
 | Web Earth Online | 392155 | [392155-web-earth-online.json](./392155-web-earth-online.json) |
+| Web no Naka no Kanojo: Password ni Himerareta Nazo | 237434 | [237434-web-no-naka-no-kanojo-password-ni-himerareta-nazo.json](./237434-web-no-naka-no-kanojo-password-ni-himerareta-nazo.json) |
 | Web or Dead | 236272 | [236272-web-or-dead.json](./236272-web-or-dead.json) |
 | Web Power Dolls | 228983 | [228983-web-power-dolls.json](./228983-web-power-dolls.json) |
 | Web Runner | 178066 | [178066-web-runner.json](./178066-web-runner.json) |
@@ -3013,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Glory | 212247 | [212247-wings-of-glory.json](./212247-wings-of-glory.json) |
 | Wings of Honour: Battles of the Red Baron | 21341 | [21341-wings-of-honour-battles-of-the-red-baron.json](./21341-wings-of-honour-battles-of-the-red-baron.json) |
 | Wings of Horus | 415980 | [415980-wings-of-horus.json](./415980-wings-of-horus.json) |
+| Wings of Justice | 237449 | [237449-wings-of-justice.json](./237449-wings-of-justice.json) |
 | Wings of Magloryx | 85492 | [85492-wings-of-magloryx.json](./85492-wings-of-magloryx.json) |
 | Wings of Power: WWII Heavy Bombers and Jets | 61709 | [61709-wings-of-power-wwii-heavy-bombers-and-jets.json](./61709-wings-of-power-wwii-heavy-bombers-and-jets.json) |
 | Wings of Prey | 20973 | [20973-wings-of-prey.json](./20973-wings-of-prey.json) |
