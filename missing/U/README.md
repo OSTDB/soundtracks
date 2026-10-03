@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uden at prale - det er Harry | 127973 | [127973-uden-at-prale-det-er-harry.json](./127973-uden-at-prale-det-er-harry.json) |
 | UDO | 244735 | [244735-udo.json](./244735-udo.json) |
 | uDodge:Practice Tool | 94870 | [94870-udodge-practice-tool.json](./94870-udodge-practice-tool.json) |
+| Udoiana Raunes | 247089 | [247089-udoiana-raunes.json](./247089-udoiana-raunes.json) |
 | Udom Nebdon | 180708 | [180708-udom-nebdon.json](./180708-udom-nebdon.json) |
 | UdoRin | 213963 | [213963-udorin.json](./213963-udorin.json) |
 | Udos sagner: Sveakampen | 64389 | [64389-udos-sagner-sveakampen.json](./64389-udos-sagner-sveakampen.json) |
@@ -180,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ukrainian Warfare: Gostomel Heroes | 391787 | [391787-ukrainian-warfare-gostomel-heroes.json](./391787-ukrainian-warfare-gostomel-heroes.json) |
 | Uktena | 150596 | [150596-uktena.json](./150596-uktena.json) |
 | Uktena 64 | 392159 | [392159-uktena-64.json](./392159-uktena-64.json) |
+| Uldor Dread Arena | 247096 | [247096-uldor-dread-arena.json](./247096-uldor-dread-arena.json) |
 | UldreVoid | 133206 | [133206-uldrevoid.json](./133206-uldrevoid.json) |
 | Uligo: A Slime's Hike | 200429 | [200429-uligo-a-slimes-hike.json](./200429-uligo-a-slimes-hike.json) |
 | Ulimek | 279892 | [279892-ulimek.json](./279892-ulimek.json) |
