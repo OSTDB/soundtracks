@@ -3381,6 +3381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gonne Wrong | 151142 | [151142-gonne-wrong.json](./151142-gonne-wrong.json) |
 | Gonner2: Lose Your Head Bundle | 154963 | [154963-gonner2-lose-your-head-bundle.json](./154963-gonner2-lose-your-head-bundle.json) |
 | Gonner2: The Full Ikk Edition | 154552 | [154552-gonner2-the-full-ikk-edition.json](./154552-gonner2-the-full-ikk-edition.json) |
+| Gonshit infarct | 253510 | [253510-gonshit-infarct.json](./253510-gonshit-infarct.json) |
 | GonzoVR | 109865 | [109865-gonzovr.json](./109865-gonzovr.json) |
 | Gonzzalezz | 39154 | [39154-gonzzalezz.json](./39154-gonzzalezz.json) |
 | Goo Fighter | 283725 | [283725-goo-fighter.json](./283725-goo-fighter.json) |
