@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S Mahjong 2 | 97722 | [97722-s-mahjong-2.json](./97722-s-mahjong-2.json) |
 | S-Copter | 76653 | [76653-s-copter.json](./76653-s-copter.json) |
 | S-Tetris | 70465 | [70465-s-tetris.json](./70465-s-tetris.json) |
+| S: Lost Chapters | 260288 | [260288-s-lost-chapters.json](./260288-s-lost-chapters.json) |
 | S. Cargo | 275916 | [275916-s-cargo.json](./275916-s-cargo.json) |
 | S.A.B.A.H. (Sun As Biased As Harmony) | 264596 | [264596-s-a-b-a-h-sun-as-biased-as-harmony.json](./264596-s-a-b-a-h-sun-as-biased-as-harmony.json) |
 | S.A.C. Alert | 282792 | [282792-s-a-c-alert.json](./282792-s-a-c-alert.json) |
@@ -2143,6 +2144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Searching for Objects in the Forest | 173268 | [173268-searching-for-objects-in-the-forest.json](./173268-searching-for-objects-in-the-forest.json) |
 | Searching For Rest | 244364 | [244364-searching-for-rest.json](./244364-searching-for-rest.json) |
 | Seas of Fortune | 120964 | [120964-seas-of-fortune.json](./120964-seas-of-fortune.json) |
+| Seas of Kahtaone | 260300 | [260300-seas-of-kahtaone.json](./260300-seas-of-kahtaone.json) |
 | Seashell | 195692 | [195692-seashell.json](./195692-seashell.json) |
 | Seashell Thief | 302111 | [302111-seashell-thief.json](./302111-seashell-thief.json) |
 | Seashells | 197922 | [197922-seashells.json](./197922-seashells.json) |
@@ -2970,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Server Owner Tycoon | 211176 | [211176-server-owner-tycoon.json](./211176-server-owner-tycoon.json) |
 | Service of Five Graces | 395046 | [395046-service-of-five-graces.json](./395046-service-of-five-graces.json) |
 | ServiceIT: Microcontroller DLC | 403116 | [403116-serviceit-microcontroller-dlc.json](./403116-serviceit-microcontroller-dlc.json) |
+| Servonauts | 260339 | [260339-servonauts.json](./260339-servonauts.json) |
 | Sesame Street | 85858 | [85858-sesame-street.json](./85858-sesame-street.json) |
 | Sesame Street A B C | 70103 | [70103-sesame-street-a-b-c.json](./70103-sesame-street-a-b-c.json) |
 | Sesame Street Beat | 220108 | [220108-sesame-street-beat.json](./220108-sesame-street-beat.json) |
@@ -9932,6 +9935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Marshals 3 | 205223 | [205223-space-marshals-3.json](./205223-space-marshals-3.json) |
 | Space Marshals Collection | 327207 | [327207-space-marshals-collection.json](./327207-space-marshals-collection.json) |
 | Space Mash | 366877 | [366877-space-mash.json](./366877-space-mash.json) |
+| Space Maze | 260322 | [260322-space-maze.json](./260322-space-maze.json) |
 | Space Maze | 345522 | [345522-space-maze.json](./345522-space-maze.json) |
 | Space Maze Attack | 277537 | [277537-space-maze-attack.json](./277537-space-maze-attack.json) |
 | Space Mech Pilot: The Universe Drive | 205125 | [205125-space-mech-pilot-the-universe-drive.json](./205125-space-mech-pilot-the-universe-drive.json) |
@@ -10101,6 +10105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Thugs | 326184 | [326184-space-thugs.json](./326184-space-thugs.json) |
 | Space Time Ocean | 270777 | [270777-space-time-ocean.json](./270777-space-time-ocean.json) |
 | Space to Investigate | 179702 | [179702-space-to-investigate.json](./179702-space-to-investigate.json) |
+| Space Tournament | 260292 | [260292-space-tournament.json](./260292-space-tournament.json) |
 | Space Tower | 126507 | [126507-space-tower.json](./126507-space-tower.json) |
 | Space Tower Defense | 377585 | [377585-space-tower-defense.json](./377585-space-tower-defense.json) |
 | Space Trader | 9469 | [9469-space-trader.json](./9469-space-trader.json) |
@@ -10741,6 +10746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellwheel | 322968 | [322968-spellwheel.json](./322968-spellwheel.json) |
 | Spellworm | 124054 | [124054-spellworm.json](./124054-spellworm.json) |
 | Spellwrath | 28149 | [28149-spellwrath.json](./28149-spellwrath.json) |
+| Spelly Cat | 260305 | [260305-spelly-cat.json](./260305-spelly-cat.json) |
 | Spellz: Mastery or Death | 278680 | [278680-spellz-mastery-or-death.json](./278680-spellz-mastery-or-death.json) |
 | Spelp | 232711 | [232711-spelp.json](./232711-spelp.json) |
 | SpeluNikki | 269738 | [269738-spelunikki.json](./269738-spelunikki.json) |
@@ -11680,6 +11686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squares | 347300 | [347300-squares.json](./347300-squares.json) |
 | Squares | 59961 | [59961-squares.json](./59961-squares.json) |
 | Squares | 86246 | [86246-squares.json](./86246-squares.json) |
+| Squares and Stuff | 260314 | [260314-squares-and-stuff.json](./260314-squares-and-stuff.json) |
 | Squares of Hell | 304612 | [304612-squares-of-hell.json](./304612-squares-of-hell.json) |
 | Squares Proximity | 366332 | [366332-squares-proximity.json](./366332-squares-proximity.json) |
 | Squares Puzzle | 334824 | [334824-squares-puzzle.json](./334824-squares-puzzle.json) |
@@ -11724,6 +11731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squidward Tentacles Jigsaw | 320895 | [320895-squidward-tentacles-jigsaw.json](./320895-squidward-tentacles-jigsaw.json) |
 | Squidward Tractor | 320896 | [320896-squidward-tractor.json](./320896-squidward-tractor.json) |
 | Squigley | 291724 | [291724-squigley.json](./291724-squigley.json) |
+| Squiigee | 260304 | [260304-squiigee.json](./260304-squiigee.json) |
 | Squillamorph | 126652 | [126652-squillamorph.json](./126652-squillamorph.json) |
 | Squingle Arcade | 397933 | [397933-squingle-arcade.json](./397933-squingle-arcade.json) |
 | Squirdle | 194654 | [194654-squirdle.json](./194654-squirdle.json) |
@@ -13352,6 +13360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Step Right Up: Adventure Isle | 310654 | [310654-step-right-up-adventure-isle.json](./310654-step-right-up-adventure-isle.json) |
 | Step Theater | 395007 | [395007-step-theater.json](./395007-step-theater.json) |
 | Step Up! | 84902 | [84902-step-up.json](./84902-step-up.json) |
+| Stepan's Life | 260310 | [260310-stepans-life.json](./260310-stepans-life.json) |
 | StepByStep | 371906 | [371906-stepbystep.json](./371906-stepbystep.json) |
 | Stephen Huneck's PuzzleSpace | 58286 | [58286-stephen-hunecks-puzzlespace.json](./58286-stephen-hunecks-puzzlespace.json) |
 | Stephen King's F13 | 74412 | [74412-stephen-kings-f13.json](./74412-stephen-kings-f13.json) |
@@ -13735,6 +13744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Rider | 125842 | [125842-storm-rider.json](./125842-storm-rider.json) |
 | Storm Settlers | 353912 | [353912-storm-settlers.json](./353912-storm-settlers.json) |
 | Storm Storm | 297582 | [297582-storm-storm.json](./297582-storm-storm.json) |
+| Storm Striker | 260307 | [260307-storm-striker.json](./260307-storm-striker.json) |
 | Storm Strikers | 124746 | [124746-storm-strikers.json](./124746-storm-strikers.json) |
 | Storm Swordsman | 190733 | [190733-storm-swordsman.json](./190733-storm-swordsman.json) |
 | Storm Tale 2 & Ancient Relics: Adventure Bundle | 387681 | [387681-storm-tale-2-and-ancient-relics-adventure-bundle.json](./387681-storm-tale-2-and-ancient-relics-adventure-bundle.json) |
