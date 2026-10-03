@@ -4915,6 +4915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 23 | 407432 | [407432-rocket-league-season-23.json](./407432-rocket-league-season-23.json) |
 | Rocket League: Season 7 | 204462 | [204462-rocket-league-season-7.json](./204462-rocket-league-season-7.json) |
 | Rocket League: Season 8 | 216200 | [216200-rocket-league-season-8.json](./216200-rocket-league-season-8.json) |
+| Rocket League: Season 9 | 228509 | [228509-rocket-league-season-9.json](./228509-rocket-league-season-9.json) |
 | Rocket League: Supersonic Fury | 202683 | [202683-rocket-league-supersonic-fury.json](./202683-rocket-league-supersonic-fury.json) |
 | Rocket League: TriTrim Wheels | 366848 | [366848-rocket-league-tritrim-wheels.json](./366848-rocket-league-tritrim-wheels.json) |
 | Rocket League: Whiplash | 279244 | [279244-rocket-league-whiplash.json](./279244-rocket-league-whiplash.json) |
