@@ -3894,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Num Yumms | 252143 | [252143-num-yumms.json](./252143-num-yumms.json) |
 | Numachina | 350412 | [350412-numachina.json](./350412-numachina.json) |
 | Numantia | 73075 | [73075-numantia.json](./73075-numantia.json) |
+| Numanuin | 235364 | [235364-numanuin.json](./235364-numanuin.json) |
 | Numb Nimbus | 271183 | [271183-numb-nimbus.json](./271183-numb-nimbus.json) |
 | Numb: Just Don't Think About It | 255103 | [255103-numb-just-dont-think-about-it.json](./255103-numb-just-dont-think-about-it.json) |
 | Numbala | 111453 | [111453-numbala.json](./111453-numbala.json) |
