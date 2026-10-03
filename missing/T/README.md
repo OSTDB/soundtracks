@@ -598,6 +598,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From the Dark Manor | 414324 | [414324-tales-from-the-dark-manor.json](./414324-tales-from-the-dark-manor.json) |
 | Tales From The Dragon Mountain: The Strix | 17060 | [17060-tales-from-the-dragon-mountain-the-strix.json](./17060-tales-from-the-dragon-mountain-the-strix.json) |
 | Tales From the Herd | 277296 | [277296-tales-from-the-herd.json](./277296-tales-from-the-herd.json) |
+| Tales from the Outer Zone: Fleshworms | 230874 | [230874-tales-from-the-outer-zone-fleshworms.json](./230874-tales-from-the-outer-zone-fleshworms.json) |
+| Tales From The Outer Zone: The Construction | 230875 | [230875-tales-from-the-outer-zone-the-construction.json](./230875-tales-from-the-outer-zone-the-construction.json) |
+| Tales From The Outer Zone: The Goat Crone | 230876 | [230876-tales-from-the-outer-zone-the-goat-crone.json](./230876-tales-from-the-outer-zone-the-goat-crone.json) |
 | Tales from the Recycle Bin | 184035 | [184035-tales-from-the-recycle-bin.json](./184035-tales-from-the-recycle-bin.json) |
 | Tales from the Road | 135054 | [135054-tales-from-the-road.json](./135054-tales-from-the-road.json) |
 | Tales From The Under-Realm: After Midnight | 301004 | [301004-tales-from-the-under-realm-after-midnight.json](./301004-tales-from-the-under-realm-after-midnight.json) |
@@ -4686,6 +4689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escape Room Chronicles ep1: The Mysterious KumaDonald's | 324119 | [324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json](./324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json) |
 | The Escape Room Chronicles ep2: The Old School Building | 324120 | [324120-the-escape-room-chronicles-ep2-the-old-school-building.json](./324120-the-escape-room-chronicles-ep2-the-old-school-building.json) |
 | The Escape Room Chronicles ep3: The Southern Resort | 324121 | [324121-the-escape-room-chronicles-ep3-the-southern-resort.json](./324121-the-escape-room-chronicles-ep3-the-southern-resort.json) |
+| The Escape: Together | 230906 | [230906-the-escape-together.json](./230906-the-escape-together.json) |
 | The Escapee | 319768 | [319768-the-escapee.json](./319768-the-escapee.json) |
 | The Escaper | 129688 | [129688-the-escaper.json](./129688-the-escaper.json) |
 | The Escapist | 10794 | [10794-the-escapist.json](./10794-the-escapist.json) |
@@ -7146,6 +7150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mighty Quest for Epic Loot | 2726 | [2726-the-mighty-quest-for-epic-loot.json](./2726-the-mighty-quest-for-epic-loot.json) |
 | The Migrant | 199080 | [199080-the-migrant.json](./199080-the-migrant.json) |
 | The Mildew Children | 253605 | [253605-the-mildew-children.json](./253605-the-mildew-children.json) |
+| The Militant Mouse | 230886 | [230886-the-militant-mouse.json](./230886-the-militant-mouse.json) |
 | The Milliner | 317974 | [317974-the-milliner.json](./317974-the-milliner.json) |
 | The Mims 5 | 97294 | [97294-the-mims-5.json](./97294-the-mims-5.json) |
 | The Mind Snare | 363881 | [363881-the-mind-snare.json](./363881-the-mind-snare.json) |
@@ -7613,6 +7618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Painted Forest | 132705 | [132705-the-painted-forest.json](./132705-the-painted-forest.json) |
 | The Painting | 319557 | [319557-the-painting.json](./319557-the-painting.json) |
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
+| The Paladin & The Succubi Servant | 230896 | [230896-the-paladin-and-the-succubi-servant.json](./230896-the-paladin-and-the-succubi-servant.json) |
 | The Pale Man | 232547 | [232547-the-pale-man.json](./232547-the-pale-man.json) |
 | The Pale Piper | 335503 | [335503-the-pale-piper.json](./335503-the-pale-piper.json) |
 | The Pandemonium | 276377 | [276377-the-pandemonium.json](./276377-the-pandemonium.json) |
@@ -13584,6 +13590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Game Party | 124103 | [124103-touch-game-party.json](./124103-touch-game-party.json) |
 | Touch Love | 219542 | [219542-touch-love.json](./219542-touch-love.json) |
 | Touch Me | 225597 | [225597-touch-me.json](./225597-touch-me.json) |
+| Touch Me | 230880 | [230880-touch-me.json](./230880-touch-me.json) |
 | Touch Me | 400211 | [400211-touch-me.json](./400211-touch-me.json) |
 | Touch Melbourne | 167705 | [167705-touch-melbourne.json](./167705-touch-melbourne.json) |
 | Touch Melo | 312904 | [312904-touch-melo.json](./312904-touch-melo.json) |
@@ -13596,6 +13603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Selections | 57058 | [57058-touch-selections.json](./57058-touch-selections.json) |
 | Touch Solitaire | 78757 | [78757-touch-solitaire.json](./78757-touch-solitaire.json) |
 | Touch Some Grass | 195146 | [195146-touch-some-grass.json](./195146-touch-some-grass.json) |
+| Touch the Color | 230887 | [230887-touch-the-color.json](./230887-touch-the-color.json) |
 | Touch the Dead | 20702 | [20702-touch-the-dead.json](./20702-touch-the-dead.json) |
 | Touch the Devil VR | 93720 | [93720-touch-the-devil-vr.json](./93720-touch-the-devil-vr.json) |
 | Touch the Floor | 151155 | [151155-touch-the-floor.json](./151155-touch-the-floor.json) |
@@ -16885,6 +16893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisty Planets Space Puzzle | 83577 | [83577-twisty-planets-space-puzzle.json](./83577-twisty-planets-space-puzzle.json) |
 | Twisty Road! | 87660 | [87660-twisty-road.json](./87660-twisty-road.json) |
 | Twisty's Asylum Escapades | 31940 | [31940-twistys-asylum-escapades.json](./31940-twistys-asylum-escapades.json) |
+| Twitch Place | 230971 | [230971-twitch-place.json](./230971-twitch-place.json) |
 | Twitchbox | 96052 | [96052-twitchbox.json](./96052-twitchbox.json) |
 | Twitter Island | 185641 | [185641-twitter-island.json](./185641-twitter-island.json) |
 | Twitter Plays Snake | 339133 | [339133-twitter-plays-snake.json](./339133-twitter-plays-snake.json) |
