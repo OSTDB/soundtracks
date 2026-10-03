@@ -1806,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavenly Hammer | 173820 | [173820-heavenly-hammer.json](./173820-heavenly-hammer.json) |
 | Heavenly Heroes of Antidomi | 211784 | [211784-heavenly-heroes-of-antidomi.json](./211784-heavenly-heroes-of-antidomi.json) |
 | Heavenly Martyr | 377250 | [377250-heavenly-martyr.json](./377250-heavenly-martyr.json) |
+| Heavenly Peaks Cultivation | 235276 | [235276-heavenly-peaks-cultivation.json](./235276-heavenly-peaks-cultivation.json) |
 | Heavenly Sword | 7318 | [7318-heavenly-sword.json](./7318-heavenly-sword.json) |
 | Heavenshatter | 351144 | [351144-heavenshatter.json](./351144-heavenshatter.json) |
 | Heavenstrafer | 267461 | [267461-heavenstrafer.json](./267461-heavenstrafer.json) |
@@ -2629,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Puzzle Logic Game | 110379 | [110379-hentai-puzzle-logic-game.json](./110379-hentai-puzzle-logic-game.json) |
 | Hentai Puzzle Simulator 2 | 403716 | [403716-hentai-puzzle-simulator-2.json](./403716-hentai-puzzle-simulator-2.json) |
 | Hentai Puzzle Simulator 3 | 409530 | [409530-hentai-puzzle-simulator-3.json](./409530-hentai-puzzle-simulator-3.json) |
+| Hentai Puzzle Universe | 235268 | [235268-hentai-puzzle-universe.json](./235268-hentai-puzzle-universe.json) |
 | Hentai Puzzle XXX | 378807 | [378807-hentai-puzzle-xxx.json](./378807-hentai-puzzle-xxx.json) |
 | Hentai Puzzle: Clarise | 289439 | [289439-hentai-puzzle-clarise.json](./289439-hentai-puzzle-clarise.json) |
 | Hentai Puzzle: Doki Doki Dress-Up | 420690 | [420690-hentai-puzzle-doki-doki-dress-up.json](./420690-hentai-puzzle-doki-doki-dress-up.json) |
@@ -6046,6 +6048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Nights: DIFU | 395236 | [395236-hundred-nights-difu.json](./395236-hundred-nights-difu.json) |
 | Hundred Soul: The Last Savior | 174678 | [174678-hundred-soul-the-last-savior.json](./174678-hundred-soul-the-last-savior.json) |
 | Hundredth | 208036 | [208036-hundredth.json](./208036-hundredth.json) |
+| Hùndùn Qíshì | 235275 | [235275-hundun-qishi.json](./235275-hundun-qishi.json) |
 | Hùndùn Zhàn Yù | 367428 | [367428-hundun-zhan-yu.json](./367428-hundun-zhan-yu.json) |
 | Hunger | 323785 | [323785-hunger.json](./323785-hunger.json) |
 | Hunger | 41954 | [41954-hunger.json](./41954-hunger.json) |
@@ -6218,6 +6221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huntin' Adventure | 210054 | [210054-huntin-adventure.json](./210054-huntin-adventure.json) |
 | Hunting Arcade | 210055 | [210055-hunting-arcade.json](./210055-hunting-arcade.json) |
 | Hunting Challenge | 145561 | [145561-hunting-challenge.json](./145561-hunting-challenge.json) |
+| Hunting Clash: Hunter Games | 235294 | [235294-hunting-clash-hunter-games.json](./235294-hunting-clash-hunter-games.json) |
 | Hunting fields of Jackals | 114966 | [114966-hunting-fields-of-jackals.json](./114966-hunting-fields-of-jackals.json) |
 | Hunting Moon | 168150 | [168150-hunting-moon.json](./168150-hunting-moon.json) |
 | Hunting Moon vol.2 | 165022 | [165022-hunting-moon-vol-2.json](./165022-hunting-moon-vol-2.json) |
