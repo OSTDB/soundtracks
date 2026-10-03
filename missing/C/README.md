@@ -2612,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centropods | 45355 | [45355-centropods.json](./45355-centropods.json) |
 | Centurion: Defender of Rome | 8257 | [8257-centurion-defender-of-rome.json](./8257-centurion-defender-of-rome.json) |
 | Century 0: Parasitic Tower | 216798 | [216798-century-0-parasitic-tower.json](./216798-century-0-parasitic-tower.json) |
+| Century City | 243743 | [243743-century-city.json](./243743-century-city.json) |
 | Century of Steam | 260250 | [260250-century-of-steam.json](./260250-century-of-steam.json) |
 | Century: Age of Ashes | 141536 | [141536-century-age-of-ashes.json](./141536-century-age-of-ashes.json) |
 | Century: Age of Ashes - Bloodshed Edition | 202760 | [202760-century-age-of-ashes-bloodshed-edition.json](./202760-century-age-of-ashes-bloodshed-edition.json) |
@@ -8580,6 +8581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket 2000 | 79891 | [79891-cricket-2000.json](./79891-cricket-2000.json) |
 | Cricket 2002 | 92314 | [92314-cricket-2002.json](./92314-cricket-2002.json) |
 | Cricket 22 | 175987 | [175987-cricket-22.json](./175987-cricket-22.json) |
+| Cricket 24 | 243749 | [243749-cricket-24.json](./243749-cricket-24.json) |
 | Cricket 96 | 94684 | [94684-cricket-96.json](./94684-cricket-96.json) |
 | Cricket Captain | 95430 | [95430-cricket-captain.json](./95430-cricket-captain.json) |
 | Cricket Captain 2018 | 103401 | [103401-cricket-captain-2018.json](./103401-cricket-captain-2018.json) |
