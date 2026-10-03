@@ -2848,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobia III: Edge of Humanity | 18483 | [18483-phobia-iii-edge-of-humanity.json](./18483-phobia-iii-edge-of-humanity.json) |
 | Phobic Nightmares | 344502 | [344502-phobic-nightmares.json](./344502-phobic-nightmares.json) |
 | PhoboChromaPhobia | 287310 | [287310-phobochromaphobia.json](./287310-phobochromaphobia.json) |
+| Phobolis | 255854 | [255854-phobolis.json](./255854-phobolis.json) |
 | PhoboPhobia | 306479 | [306479-phobophobia.json](./306479-phobophobia.json) |
 | Phobos | 141096 | [141096-phobos.json](./141096-phobos.json) |
 | Phobos | 184093 | [184093-phobos.json](./184093-phobos.json) |
@@ -5639,6 +5640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mystery Dungeon: Blue Rescue Team | 2320 | [2320-pokemon-mystery-dungeon-blue-rescue-team.json](./2320-pokemon-mystery-dungeon-blue-rescue-team.json) |
 | Pokémon Mystery Dungeon: Explorers of Alpha | 381141 | [381141-pokemon-mystery-dungeon-explorers-of-alpha.json](./381141-pokemon-mystery-dungeon-explorers-of-alpha.json) |
 | Pokémon Mystery Dungeon: Explorers of Darkness | 2322 | [2322-pokemon-mystery-dungeon-explorers-of-darkness.json](./2322-pokemon-mystery-dungeon-explorers-of-darkness.json) |
+| Pokémon Mystery Dungeon: Explorers of Hell | 255898 | [255898-pokemon-mystery-dungeon-explorers-of-hell.json](./255898-pokemon-mystery-dungeon-explorers-of-hell.json) |
 | Pokémon Mystery Dungeon: Explorers of Skies | 294796 | [294796-pokemon-mystery-dungeon-explorers-of-skies.json](./294796-pokemon-mystery-dungeon-explorers-of-skies.json) |
 | Pokémon Mystery Dungeon: Explorers of the Spirit | 194263 | [194263-pokemon-mystery-dungeon-explorers-of-the-spirit.json](./194263-pokemon-mystery-dungeon-explorers-of-the-spirit.json) |
 | Pokémon Mystery Dungeon: Origins | 365792 | [365792-pokemon-mystery-dungeon-origins.json](./365792-pokemon-mystery-dungeon-origins.json) |
