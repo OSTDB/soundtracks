@@ -1940,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GhostCatcher | 257961 | [257961-ghostcatcher.json](./257961-ghostcatcher.json) |
 | Ghostcon: Elementals | 247773 | [247773-ghostcon-elementals.json](./247773-ghostcon-elementals.json) |
 | Ghosted | 418760 | [418760-ghosted.json](./418760-ghosted.json) |
+| Ghosteez | 276936 | [276936-ghosteez.json](./276936-ghosteez.json) |
 | Ghostforged | 391808 | [391808-ghostforged.json](./391808-ghostforged.json) |
 | Ghosth | 179747 | [179747-ghosth.json](./179747-ghosth.json) |
 | Ghosthero: Shadow of Vengeance | 295845 | [295845-ghosthero-shadow-of-vengeance.json](./295845-ghosthero-shadow-of-vengeance.json) |
@@ -4659,6 +4660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grocery Simulator | 306657 | [306657-grocery-simulator.json](./306657-grocery-simulator.json) |
 | Grocery Store Simulator | 326420 | [326420-grocery-store-simulator.json](./326420-grocery-store-simulator.json) |
 | Groda | 338537 | [338537-groda.json](./338537-groda.json) |
+| Grog | 276924 | [276924-grog.json](./276924-grog.json) |
 | Grog 'n Glory | 291739 | [291739-grog-n-glory.json](./291739-grog-n-glory.json) |
 | Groggers! | 31122 | [31122-groggers.json](./31122-groggers.json) |
 | Grok | 322763 | [322763-grok.json](./322763-grok.json) |
