@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Rider | 393778 | [393778-neon-rider.json](./393778-neon-rider.json) |
 | Neon River | 277814 | [277814-neon-river.json](./277814-neon-river.json) |
 | Neon Rumble | 292829 | [292829-neon-rumble.json](./292829-neon-rumble.json) |
+| Neon Runner | 259156 | [259156-neon-runner.json](./259156-neon-runner.json) |
 | Neon Runner - Gravity Dash | 55166 | [55166-neon-runner-gravity-dash.json](./55166-neon-runner-gravity-dash.json) |
 | Neon Runners | 288831 | [288831-neon-runners.json](./288831-neon-runners.json) |
 | Neon Rush | 290554 | [290554-neon-rush.json](./290554-neon-rush.json) |
@@ -2409,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightshade Ninja Warrior | 245268 | [245268-nightshade-ninja-warrior.json](./245268-nightshade-ninja-warrior.json) |
 | Nightshaders | 245812 | [245812-nightshaders.json](./245812-nightshaders.json) |
 | Nightshift | 163295 | [163295-nightshift.json](./163295-nightshift.json) |
+| Nightshift | 259186 | [259186-nightshift.json](./259186-nightshift.json) |
 | Nightshift | 271202 | [271202-nightshift.json](./271202-nightshift.json) |
 | Nightshift at the Beta Museum | 408141 | [408141-nightshift-at-the-beta-museum.json](./408141-nightshift-at-the-beta-museum.json) |
 | Nightshift Legacy: The Jaguar's Eye | 16077 | [16077-nightshift-legacy-the-jaguars-eye.json](./16077-nightshift-legacy-the-jaguars-eye.json) |
