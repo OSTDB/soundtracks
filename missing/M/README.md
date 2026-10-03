@@ -8914,6 +8914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Roader II | 37708 | [37708-moto-roader-ii.json](./37708-moto-roader-ii.json) |
 | Moto Runner 3D | 106780 | [106780-moto-runner-3d.json](./106780-moto-runner-3d.json) |
 | Moto Rush GT | 115751 | [115751-moto-rush-gt.json](./115751-moto-rush-gt.json) |
+| Moto Rush GT + Food Truck Tycoon | 251111 | [251111-moto-rush-gt-food-truck-tycoon.json](./251111-moto-rush-gt-food-truck-tycoon.json) |
 | Moto Rush GT Asphalt Fury | 378968 | [378968-moto-rush-gt-asphalt-fury.json](./378968-moto-rush-gt-asphalt-fury.json) |
 | Moto Rush GT: Advanced Edition | 315871 | [315871-moto-rush-gt-advanced-edition.json](./315871-moto-rush-gt-advanced-edition.json) |
 | Moto Rush GT: Back To School Edition | 263541 | [263541-moto-rush-gt-back-to-school-edition.json](./263541-moto-rush-gt-back-to-school-edition.json) |
@@ -9747,6 +9748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Mystery Machine | 111944 | [111944-murder-mystery-machine.json](./111944-murder-mystery-machine.json) |
 | Murder Mystery Mayhem AI | 319073 | [319073-murder-mystery-mayhem-ai.json](./319073-murder-mystery-mayhem-ai.json) |
 | Murder Mystery Paradox: Fifteen Years of Summer | 247526 | [247526-murder-mystery-paradox-fifteen-years-of-summer.json](./247526-murder-mystery-paradox-fifteen-years-of-summer.json) |
+| Murder Mystery: Who Killed Linda Neuman | 251095 | [251095-murder-mystery-who-killed-linda-neuman.json](./251095-murder-mystery-who-killed-linda-neuman.json) |
 | Murder on Mainstreet | 262299 | [262299-murder-on-mainstreet.json](./262299-murder-on-mainstreet.json) |
 | Murder on Snake Road | 66961 | [66961-murder-on-snake-road.json](./66961-murder-on-snake-road.json) |
 | Murder on the Island | 116871 | [116871-murder-on-the-island.json](./116871-murder-on-the-island.json) |
@@ -10120,6 +10122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dear Brother Jeff | 268660 | [268660-my-dear-brother-jeff.json](./268660-my-dear-brother-jeff.json) |
 | My Dear Can't Speak | 350486 | [350486-my-dear-cant-speak.json](./350486-my-dear-cant-speak.json) |
 | My Dear Delirium | 341349 | [341349-my-dear-delirium.json](./341349-my-dear-delirium.json) |
+| My Dear Hatchet Man | 251074 | [251074-my-dear-hatchet-man.json](./251074-my-dear-hatchet-man.json) |
 | My Dear Love | 311480 | [311480-my-dear-love.json](./311480-my-dear-love.json) |
 | My Dear Neighbor, edition 404 | 178429 | [178429-my-dear-neighbor-edition-404.json](./178429-my-dear-neighbor-edition-404.json) |
 | My Dear Sister | 213449 | [213449-my-dear-sister.json](./213449-my-dear-sister.json) |
@@ -10853,6 +10856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Loss | 57029 | [57029-mystery-loss.json](./57029-mystery-loss.json) |
 | Mystery Lover: Nonexistent Summer | 259722 | [259722-mystery-lover-nonexistent-summer.json](./259722-mystery-lover-nonexistent-summer.json) |
 | Mystery Manor | 88456 | [88456-mystery-manor.json](./88456-mystery-manor.json) |
+| Mystery Mansion | 251102 | [251102-mystery-mansion.json](./251102-mystery-mansion.json) |
 | Mystery Mansion | 353879 | [353879-mystery-mansion.json](./353879-mystery-mansion.json) |
 | Mystery Master: Felony! | 73291 | [73291-mystery-master-felony.json](./73291-mystery-master-felony.json) |
 | Mystery Masterpiece: The Moonstone | 53394 | [53394-mystery-masterpiece-the-moonstone.json](./53394-mystery-masterpiece-the-moonstone.json) |
