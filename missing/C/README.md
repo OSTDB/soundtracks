@@ -5262,6 +5262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Defenders | 361869 | [361869-club-defenders.json](./361869-club-defenders.json) |
 | Club Del Fierro | 365282 | [365282-club-del-fierro.json](./365282-club-del-fierro.json) |
 | Club Drive | 40804 | [40804-club-drive.json](./40804-club-drive.json) |
+| Club Feral | 266398 | [266398-club-feral.json](./266398-club-feral.json) |
 | Club Goblin | 184642 | [184642-club-goblin.json](./184642-club-goblin.json) |
 | Club Hentai: Girls, Love, Sex | 149426 | [149426-club-hentai-girls-love-sex.json](./149426-club-hentai-girls-love-sex.json) |
 | Club Life Visual Novel | 197767 | [197767-club-life-visual-novel.json](./197767-club-life-visual-novel.json) |
@@ -6140,6 +6141,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mech VR | 157506 | [157506-combat-mech-vr.json](./157506-combat-mech-vr.json) |
 | Combat Mission 2 | 645 | [645-combat-mission-2.json](./645-combat-mission-2.json) |
 | Combat Mission Anthology | 78011 | [78011-combat-mission-anthology.json](./78011-combat-mission-anthology.json) |
+| Combat Mission Fortress Italy: Gustav Line | 266386 | [266386-combat-mission-fortress-italy-gustav-line.json](./266386-combat-mission-fortress-italy-gustav-line.json) |
+| Combat Mission Fortress Italy: Rome to Victory | 266384 | [266384-combat-mission-fortress-italy-rome-to-victory.json](./266384-combat-mission-fortress-italy-rome-to-victory.json) |
 | Combat Mission Shock Force 2 | 138217 | [138217-combat-mission-shock-force-2.json](./138217-combat-mission-shock-force-2.json) |
 | Combat Mission Shock Force: Marines | 21263 | [21263-combat-mission-shock-force-marines.json](./21263-combat-mission-shock-force-marines.json) |
 | Combat Mission: Beyond Overlord | 646 | [646-combat-mission-beyond-overlord.json](./646-combat-mission-beyond-overlord.json) |
@@ -9120,6 +9123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
 | Cryoloop | 141809 | [141809-cryoloop.json](./141809-cryoloop.json) |
 | CryoNation | 278166 | [278166-cryonation.json](./278166-cryonation.json) |
+| Cryowakers | 266428 | [266428-cryowakers.json](./266428-cryowakers.json) |
 | Cryphora | 342288 | [342288-cryphora.json](./342288-cryphora.json) |
 | Crypt Architect | 236269 | [236269-crypt-architect.json](./236269-crypt-architect.json) |
 | Crypt Capers | 348938 | [348938-crypt-capers.json](./348938-crypt-capers.json) |
