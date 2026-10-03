@@ -2379,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bauhaus | 260788 | [260788-bauhaus.json](./260788-bauhaus.json) |
 | Bauhaus Bonk | 314394 | [314394-bauhaus-bonk.json](./314394-bauhaus-bonk.json) |
 | Baumaschinen: Die Simulation | 136378 | [136378-baumaschinen-die-simulation.json](./136378-baumaschinen-die-simulation.json) |
+| Baunsudaun | 257530 | [257530-baunsudaun.json](./257530-baunsudaun.json) |
 | Bavity | 188919 | [188919-bavity.json](./188919-bavity.json) |
 | Baxter's Venture | 62677 | [62677-baxters-venture.json](./62677-baxters-venture.json) |
 | Baxter's Venture: Director's Cut | 34851 | [34851-baxters-venture-directors-cut.json](./34851-baxters-venture-directors-cut.json) |
@@ -3439,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between Two Castles | 125068 | [125068-between-two-castles.json](./125068-between-two-castles.json) |
 | Between Two Worlds | 352826 | [352826-between-two-worlds.json](./352826-between-two-worlds.json) |
 | Between Worlds | 181388 | [181388-between-worlds.json](./181388-between-worlds.json) |
+| Between: Stardust Trail | 257554 | [257554-between-stardust-trail.json](./257554-between-stardust-trail.json) |
 | Betweenside | 102357 | [102357-betweenside.json](./102357-betweenside.json) |
 | Bevel's Painting | 121030 | [121030-bevels-painting.json](./121030-bevels-painting.json) |
 | Beverly Hills Cop | 77002 | [77002-beverly-hills-cop.json](./77002-beverly-hills-cop.json) |
