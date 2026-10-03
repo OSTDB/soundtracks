@@ -3025,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Vault | 286083 | [286083-eternal-vault.json](./286083-eternal-vault.json) |
 | Eternal Warfare | 166617 | [166617-eternal-warfare.json](./166617-eternal-warfare.json) |
 | Eternal Wheel | 64961 | [64961-eternal-wheel.json](./64961-eternal-wheel.json) |
+| Eternal Winter | 246538 | [246538-eternal-winter.json](./246538-eternal-winter.json) |
 | Eternal Zone Online | 393761 | [393761-eternal-zone-online.json](./393761-eternal-zone-online.json) |
 | Eternally Us | 123002 | [123002-eternally-us.json](./123002-eternally-us.json) |
 | Eternally Yours | 261545 | [261545-eternally-yours.json](./261545-eternally-yours.json) |
