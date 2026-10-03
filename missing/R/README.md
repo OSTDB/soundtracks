@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rachel's Game Pack | 208431 | [208431-rachels-game-pack.json](./208431-rachels-game-pack.json) |
 | Racing | 139247 | [139247-racing.json](./139247-racing.json) |
 | Racing | 217831 | [217831-racing.json](./217831-racing.json) |
+| Racing | 247068 | [247068-racing.json](./247068-racing.json) |
 | Racing | 91357 | [91357-racing.json](./91357-racing.json) |
 | Racing 2020 | 129204 | [129204-racing-2020.json](./129204-racing-2020.json) |
 | Racing Aces | 5426 | [5426-racing-aces.json](./5426-racing-aces.json) |
@@ -248,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Clash Club | 174816 | [174816-racing-clash-club.json](./174816-racing-clash-club.json) |
 | Racing Classics Pro: Drag Race & Real Speed | 187476 | [187476-racing-classics-pro-drag-race-and-real-speed.json](./187476-racing-classics-pro-drag-race-and-real-speed.json) |
 | Racing Combat | 255040 | [255040-racing-combat.json](./255040-racing-combat.json) |
+| Racing Course | 247067 | [247067-racing-course.json](./247067-racing-course.json) |
 | Racing Destruction Set | 25892 | [25892-racing-destruction-set.json](./25892-racing-destruction-set.json) |
 | Racing Djani 2 | 156050 | [156050-racing-djani-2.json](./156050-racing-djani-2.json) |
 | Racing Drift Taxi Car Simulator Ultimate | 251046 | [251046-racing-drift-taxi-car-simulator-ultimate.json](./251046-racing-drift-taxi-car-simulator-ultimate.json) |
@@ -6448,6 +6450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runway 66 | 348768 | [348768-runway-66.json](./348768-runway-66.json) |
 | RunZ | 55296 | [55296-runz.json](./55296-runz.json) |
 | RuPaul's Drag Race Match Queen | 339640 | [339640-rupauls-drag-race-match-queen.json](./339640-rupauls-drag-race-match-queen.json) |
+| RuPaul's Drag Race Superstar | 247091 | [247091-rupauls-drag-race-superstar.json](./247091-rupauls-drag-race-superstar.json) |
 | Rupert and Riley: Shipwrecked | 58482 | [58482-rupert-and-riley-shipwrecked.json](./58482-rupert-and-riley-shipwrecked.json) |
 | Rupture | 261821 | [261821-rupture.json](./261821-rupture.json) |
 | Ruptured | 226438 | [226438-ruptured.json](./226438-ruptured.json) |
