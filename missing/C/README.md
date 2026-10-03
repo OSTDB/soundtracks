@@ -2533,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellmons | 204562 | [204562-cellmons.json](./204562-cellmons.json) |
 | Cellmount: Automata | 341633 | [341633-cellmount-automata.json](./341633-cellmount-automata.json) |
 | Cellofania | 279580 | [279580-cellofania.json](./279580-cellofania.json) |
+| Cellosseum | 264228 | [264228-cellosseum.json](./264228-cellosseum.json) |
 | Cells of Division | 406329 | [406329-cells-of-division.json](./406329-cells-of-division.json) |
 | CellTD | 183879 | [183879-celltd.json](./183879-celltd.json) |
 | Cellular Harvest: Purple | 152276 | [152276-cellular-harvest-purple.json](./152276-cellular-harvest-purple.json) |
@@ -10135,6 +10136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberHoney | 310171 | [310171-cyberhoney.json](./310171-cyberhoney.json) |
 | Cyberhunk | 211191 | [211191-cyberhunk.json](./211191-cyberhunk.json) |
 | Cyberia | 4331 | [4331-cyberia.json](./4331-cyberia.json) |
+| Cyberjump | 264201 | [264201-cyberjump.json](./264201-cyberjump.json) |
 | Cyberkiller2049 | 320821 | [320821-cyberkiller2049.json](./320821-cyberkiller2049.json) |
 | CyberKitty: Neon Merge | 415858 | [415858-cyberkitty-neon-merge.json](./415858-cyberkitty-neon-merge.json) |
 | Cyberlinxx | 236952 | [236952-cyberlinxx.json](./236952-cyberlinxx.json) |
