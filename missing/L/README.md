@@ -3509,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locomotive | 78737 | [78737-locomotive.json](./78737-locomotive.json) |
 | Locomotive 115 | 322993 | [322993-locomotive-115.json](./322993-locomotive-115.json) |
 | LocoRoco | 1459 | [1459-locoroco.json](./1459-locoroco.json) |
+| LocoRoco Midnight Carnival | 247085 | [247085-locoroco-midnight-carnival.json](./247085-locoroco-midnight-carnival.json) |
 | LocoSoccer Classic | 34601 | [34601-locosoccer-classic.json](./34601-locosoccer-classic.json) |
 | Locotier | 193489 | [193489-locotier.json](./193489-locotier.json) |
 | Locura | 265334 | [265334-locura.json](./265334-locura.json) |
