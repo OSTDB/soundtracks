@@ -4503,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorial Series: Sunsoft vol. 1 | 79347 | [79347-memorial-series-sunsoft-vol-1.json](./79347-memorial-series-sunsoft-vol-1.json) |
 | Memoriedit | 373521 | [373521-memoriedit.json](./373521-memoriedit.json) |
 | Memories | 174752 | [174752-memories.json](./174752-memories.json) |
+| Memories | 234107 | [234107-memories.json](./234107-memories.json) |
 | Memories | 269566 | [269566-memories.json](./269566-memories.json) |
 | Memories From Beyond a Coral Sea | 243382 | [243382-memories-from-beyond-a-coral-sea.json](./243382-memories-from-beyond-a-coral-sea.json) |
 | Memories in Late Summer | 109688 | [109688-memories-in-late-summer.json](./109688-memories-in-late-summer.json) |
@@ -6287,6 +6288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Echo Crystal | 343904 | [343904-minecraft-echo-crystal.json](./343904-minecraft-echo-crystal.json) |
 | Minecraft: Egyptian Mythology Mash-up | 237331 | [237331-minecraft-egyptian-mythology-mash-up.json](./237331-minecraft-egyptian-mythology-mash-up.json) |
 | Minecraft: Fantastic Fairgrounds | 316689 | [316689-minecraft-fantastic-fairgrounds.json](./316689-minecraft-fantastic-fairgrounds.json) |
+| Minecraft: Festive Mash-up | 234224 | [234224-minecraft-festive-mash-up.json](./234224-minecraft-festive-mash-up.json) |
 | Minecraft: Fire TV Edition | 140463 | [140463-minecraft-fire-tv-edition.json](./140463-minecraft-fire-tv-edition.json) |
 | Minecraft: Frozen | 254125 | [254125-minecraft-frozen.json](./254125-minecraft-frozen.json) |
 | Minecraft: Godzilla | 285051 | [285051-minecraft-godzilla.json](./285051-minecraft-godzilla.json) |
