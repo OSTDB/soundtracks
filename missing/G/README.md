@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Roll | 358429 | [358429-galaxy-roll.json](./358429-galaxy-roll.json) |
 | Galaxy Shooter Space War Games | 231949 | [231949-galaxy-shooter-space-war-games.json](./231949-galaxy-shooter-space-war-games.json) |
 | Galaxy Shooting: Alien War | 105539 | [105539-galaxy-shooting-alien-war.json](./105539-galaxy-shooting-alien-war.json) |
+| Galaxy Squad: Airplane Games | 256456 | [256456-galaxy-squad-airplane-games.json](./256456-galaxy-squad-airplane-games.json) |
 | Galaxy Strike | 135896 | [135896-galaxy-strike.json](./135896-galaxy-strike.json) |
 | Galaxy Trader | 175402 | [175402-galaxy-trader.json](./175402-galaxy-trader.json) |
 | Galaxy Trader | 207849 | [207849-galaxy-trader.json](./207849-galaxy-trader.json) |
@@ -1892,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Mayoker | 267919 | [267919-ghost-mayoker.json](./267919-ghost-mayoker.json) |
 | Ghost Maze | 250889 | [250889-ghost-maze.json](./250889-ghost-maze.json) |
 | Ghost Member | 264689 | [264689-ghost-member.json](./264689-ghost-member.json) |
+| Ghost Mission | 256425 | [256425-ghost-mission.json](./256425-ghost-mission.json) |
 | Ghost Mountain | 114992 | [114992-ghost-mountain.json](./114992-ghost-mountain.json) |
 | Ghost Ninja | 289447 | [289447-ghost-ninja.json](./289447-ghost-ninja.json) |
 | Ghost Observation | 395047 | [395047-ghost-observation.json](./395047-ghost-observation.json) |
@@ -3515,7 +3517,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goonya Fighter: Jiggly Haptic Edition | 146316 | [146316-goonya-fighter-jiggly-haptic-edition.json](./146316-goonya-fighter-jiggly-haptic-edition.json) |
 | Goonya Fighter: Puimo | 196140 | [196140-goonya-fighter-puimo.json](./196140-goonya-fighter-puimo.json) |
 | Goonya Monster: Additional Character (Buster) - Clione | 248720 | [248720-goonya-monster-additional-character-buster-clione.json](./248720-goonya-monster-additional-character-buster-clione.json) |
+| Goonya Monster: Additional Character (Buster) - Gatchman V/All Guys | 256423 | [256423-goonya-monster-additional-character-buster-gatchman-v-all-guys.json](./256423-goonya-monster-additional-character-buster-gatchman-v-all-guys.json) |
+| Goonya Monster: Additional Character (Buster) - Mari Tomari/All Guys | 256424 | [256424-goonya-monster-additional-character-buster-mari-tomari-all-guys.json](./256424-goonya-monster-additional-character-buster-mari-tomari-all-guys.json) |
+| Goonya Monster: Additional Character (Buster) - Meika Utai/All Guys | 256422 | [256422-goonya-monster-additional-character-buster-meika-utai-all-guys.json](./256422-goonya-monster-additional-character-buster-meika-utai-all-guys.json) |
 | Goonya Monster: Additional Character (Buster) - Slug | 248721 | [248721-goonya-monster-additional-character-buster-slug.json](./248721-goonya-monster-additional-character-buster-slug.json) |
+| Goonya Monster: Additional Character (Buster) - Tsukasa Tenkai/All Guys | 256421 | [256421-goonya-monster-additional-character-buster-tsukasa-tenkai-all-guys.json](./256421-goonya-monster-additional-character-buster-tsukasa-tenkai-all-guys.json) |
 | Goonya Monster: Battle Pass - Eternal Pass + Infinity Cookie | 301019 | [301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json](./301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json) |
 | Goonya Monster: Buster - Iwasake-chan/Fake Type | 279872 | [279872-goonya-monster-buster-iwasake-chan-fake-type.json](./279872-goonya-monster-buster-iwasake-chan-fake-type.json) |
 | Goonya Monster: Buster - Lord Ham/Fake Type | 279871 | [279871-goonya-monster-buster-lord-ham-fake-type.json](./279871-goonya-monster-buster-lord-ham-fake-type.json) |
