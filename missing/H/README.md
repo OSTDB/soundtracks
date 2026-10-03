@@ -3833,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Daze: Junior Year | 264348 | [264348-high-school-daze-junior-year.json](./264348-high-school-daze-junior-year.json) |
 | High School Detective: Romance Visual Novel | 300780 | [300780-high-school-detective-romance-visual-novel.json](./300780-high-school-detective-romance-visual-novel.json) |
 | High School Escape 2 | 96702 | [96702-high-school-escape-2.json](./96702-high-school-escape-2.json) |
+| High School Fighters | 231430 | [231430-high-school-fighters.json](./231430-high-school-fighters.json) |
 | High School Girl Life Sim 3D | 297504 | [297504-high-school-girl-life-sim-3d.json](./297504-high-school-girl-life-sim-3d.json) |
 | High School Girl Life Simulator | 102757 | [102757-high-school-girl-life-simulator.json](./102757-high-school-girl-life-simulator.json) |
 | High School Girl Simulator 3D | 299905 | [299905-high-school-girl-simulator-3d.json](./299905-high-school-girl-simulator-3d.json) |
