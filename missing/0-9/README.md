@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Convoy | 15575 | [15575-3d-convoy.json](./15575-3d-convoy.json) |
 | 3D Crazy Ballz | 94538 | [94538-3d-crazy-ballz.json](./94538-3d-crazy-ballz.json) |
 | 3D Creation Station | 64907 | [64907-3d-creation-station.json](./64907-3d-creation-station.json) |
+| 3D Cricket | 243753 | [243753-3d-cricket.json](./243753-3d-cricket.json) |
 | 3D Crosswords | 268507 | [268507-3d-crosswords.json](./268507-3d-crosswords.json) |
 | 3D Cyber Puck | 300012 | [300012-3d-cyber-puck.json](./300012-3d-cyber-puck.json) |
 | 3D Dinosaur Hunter | 263459 | [263459-3d-dinosaur-hunter.json](./263459-3d-dinosaur-hunter.json) |
@@ -1025,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Escape Room: Mystic Manor | 348853 | [348853-3d-escape-room-mystic-manor.json](./348853-3d-escape-room-mystic-manor.json) |
 | 3D Fantasy Zone II W | 86818 | [86818-3d-fantasy-zone-ii-w.json](./86818-3d-fantasy-zone-ii-w.json) |
 | 3D Fast & Furious | 410226 | [410226-3d-fast-and-furious.json](./410226-3d-fast-and-furious.json) |
+| 3D Football | 243754 | [243754-3d-football.json](./243754-3d-football.json) |
 | 3D Game Pack | 266189 | [266189-3d-game-pack.json](./266189-3d-game-pack.json) |
 | 3D Gear | 234587 | [234587-3d-gear.json](./234587-3d-gear.json) |
 | 3D Genesis | 268558 | [268558-3d-genesis.json](./268558-3d-genesis.json) |
