@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kero Catch | 182803 | [182803-kero-catch.json](./182803-kero-catch.json) |
 | Kero Kero Cowboy | 341144 | [341144-kero-kero-cowboy.json](./341144-kero-kero-cowboy.json) |
 | Kero Kero Keroppi no Issho ni Asobou | 40239 | [40239-kero-kero-keroppi-no-issho-ni-asobou.json](./40239-kero-kero-keroppi-no-issho-ni-asobou.json) |
+| Kero Kero Keroppi no Mahou no Kuni Densetsu | 230327 | [230327-kero-kero-keroppi-no-mahou-no-kuni-densetsu.json](./230327-kero-kero-keroppi-no-mahou-no-kuni-densetsu.json) |
 | Kero Kero Keroppi to Origami no Tabibito | 125960 | [125960-kero-kero-keroppi-to-origami-no-tabibito.json](./125960-kero-kero-keroppi-to-origami-no-tabibito.json) |
 | Kero Kero Keroppi: Uki Uki Party Land | 270162 | [270162-kero-kero-keroppi-uki-uki-party-land.json](./270162-kero-kero-keroppi-uki-uki-party-land.json) |
 | Kero Quest 64 | 326620 | [326620-kero-quest-64.json](./326620-kero-quest-64.json) |
@@ -1081,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick the Boss's Ass | 301977 | [301977-kick-the-bosss-ass.json](./301977-kick-the-bosss-ass.json) |
 | Kick the Buddy: Forever | 331673 | [331673-kick-the-buddy-forever.json](./331673-kick-the-buddy-forever.json) |
 | Kick the Buddy: Remastered | 212447 | [212447-kick-the-buddy-remastered.json](./212447-kick-the-buddy-remastered.json) |
+| Kick the Buddy: Second Kick | 230417 | [230417-kick-the-buddy-second-kick.json](./230417-kick-the-buddy-second-kick.json) |
 | Kick the Puppet | 112486 | [112486-kick-the-puppet.json](./112486-kick-the-puppet.json) |
 | Kick the Sumo-Smash the Buddy | 106084 | [106084-kick-the-sumo-smash-the-buddy.json](./106084-kick-the-sumo-smash-the-buddy.json) |
 | Kick Them All | 312204 | [312204-kick-them-all.json](./312204-kick-them-all.json) |
