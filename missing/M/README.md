@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MacShot | 192447 | [192447-macshot.json](./192447-macshot.json) |
 | Mad Arkanoid | 50536 | [50536-mad-arkanoid.json](./50536-mad-arkanoid.json) |
 | Mad Ball | 128449 | [128449-mad-ball.json](./128449-mad-ball.json) |
+| Mad BalloonRider | 243172 | [243172-mad-balloonrider.json](./243172-mad-balloonrider.json) |
 | Mad Blocker Arcade | 65744 | [65744-mad-blocker-arcade.json](./65744-mad-blocker-arcade.json) |
 | Mad Blocker HD | 52558 | [52558-mad-blocker-hd.json](./52558-mad-blocker-hd.json) |
 | Mad Bullets | 33262 | [33262-mad-bullets.json](./33262-mad-bullets.json) |
@@ -301,9 +302,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 2001 | 3538 | [3538-madden-nfl-2001.json](./3538-madden-nfl-2001.json) |
 | Madden NFL 2001 | 44887 | [44887-madden-nfl-2001.json](./44887-madden-nfl-2001.json) |
 | Madden NFL 2002 | 3539 | [3539-madden-nfl-2002.json](./3539-madden-nfl-2002.json) |
+| Madden NFL 2003 | 243290 | [243290-madden-nfl-2003.json](./243290-madden-nfl-2003.json) |
+| Madden NFL 2003 | 243291 | [243291-madden-nfl-2003.json](./243291-madden-nfl-2003.json) |
 | Madden NFL 2004 | 243240 | [243240-madden-nfl-2004.json](./243240-madden-nfl-2004.json) |
 | Madden NFL 2004 | 243241 | [243241-madden-nfl-2004.json](./243241-madden-nfl-2004.json) |
 | Madden NFL 2004 | 777 | [777-madden-nfl-2004.json](./777-madden-nfl-2004.json) |
+| Madden NFL 2005 | 243179 | [243179-madden-nfl-2005.json](./243179-madden-nfl-2005.json) |
+| Madden NFL 2005 | 243180 | [243180-madden-nfl-2005.json](./243180-madden-nfl-2005.json) |
+| Madden NFL 2005 | 243181 | [243181-madden-nfl-2005.json](./243181-madden-nfl-2005.json) |
 | Madden NFL 21 | 243663 | [243663-madden-nfl-21.json](./243663-madden-nfl-21.json) |
 | Madden NFL 21 Mobile | 243662 | [243662-madden-nfl-21-mobile.json](./243662-madden-nfl-21-mobile.json) |
 | Madden NFL 21: NXT LVL Edition | 141182 | [141182-madden-nfl-21-nxt-lvl-edition.json](./141182-madden-nfl-21-nxt-lvl-edition.json) |
@@ -359,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Ambulation | 320913 | [320913-madness-ambulation.json](./320913-madness-ambulation.json) |
 | Madness Arena | 322755 | [322755-madness-arena.json](./322755-madness-arena.json) |
 | Madness Below | 326619 | [326619-madness-below.json](./326619-madness-below.json) |
+| Madness Brutal Fighting | 243214 | [243214-madness-brutal-fighting.json](./243214-madness-brutal-fighting.json) |
 | Madness Chambers | 246947 | [246947-madness-chambers.json](./246947-madness-chambers.json) |
 | Madness Combat | 252101 | [252101-madness-combat.json](./252101-madness-combat.json) |
 | Madness Cubed | 33259 | [33259-madness-cubed.json](./33259-madness-cubed.json) |
@@ -6538,7 +6545,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini-Level Megawad | 269654 | [269654-mini-level-megawad.json](./269654-mini-level-megawad.json) |
 | Mini-Market Simulator VR | 309377 | [309377-mini-market-simulator-vr.json](./309377-mini-market-simulator-vr.json) |
 | Mini-Metroid | 291622 | [291622-mini-metroid.json](./291622-mini-metroid.json) |
+| Mini-Moni. Dice de Pyon! | 243285 | [243285-mini-moni-dice-de-pyon.json](./243285-mini-moni-dice-de-pyon.json) |
 | Mini-Moni. Shakatto Tambourine! Dapyon! | 69262 | [69262-mini-moni-shakatto-tambourine-dapyon.json](./69262-mini-moni-shakatto-tambourine-dapyon.json) |
+| Mini-Moni. Step Pyon Pyon Pyon | 243282 | [243282-mini-moni-step-pyon-pyon-pyon.json](./243282-mini-moni-step-pyon-pyon-pyon.json) |
 | Mini-U: Mosaic | 175408 | [175408-mini-u-mosaic.json](./175408-mini-u-mosaic.json) |
 | Mini-Yonku Let's & Go!! Power WGP 2 | 37927 | [37927-mini-yonku-lets-and-go-power-wgp-2.json](./37927-mini-yonku-lets-and-go-power-wgp-2.json) |
 | Mini's Magic World | 33339 | [33339-minis-magic-world.json](./33339-minis-magic-world.json) |
@@ -7585,6 +7594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moloch Kombinat | 410886 | [410886-moloch-kombinat.json](./410886-moloch-kombinat.json) |
 | Moloch's Priest | 144244 | [144244-molochs-priest.json](./144244-molochs-priest.json) |
 | Moloko | 157006 | [157006-moloko.json](./157006-moloko.json) |
+| Molten Horn | 243293 | [243293-molten-horn.json](./243293-molten-horn.json) |
 | Molten Winds: Open Editon | 288375 | [288375-molten-winds-open-editon.json](./288375-molten-winds-open-editon.json) |
 | Mom | 159247 | [159247-mom.json](./159247-mom.json) |
 | Mom Crush: Hidden Hotel Love Story | 387673 | [387673-mom-crush-hidden-hotel-love-story.json](./387673-mom-crush-hidden-hotel-love-story.json) |
