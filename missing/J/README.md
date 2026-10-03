@@ -1522,12 +1522,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JQ: chemistry | 96633 | [96633-jq-chemistry.json](./96633-jq-chemistry.json) |
 | JQ: cosmos | 117116 | [117116-jq-cosmos.json](./117116-jq-cosmos.json) |
 | JR East Train Simulator | 215093 | [215093-jr-east-train-simulator.json](./215093-jr-east-train-simulator.json) |
+| JR East Train Simulator: Chuo Line Rapid Service - Takao to Tokyo E233-0 Series | 227194 | [227194-jr-east-train-simulator-chuo-line-rapid-service-takao-to-tokyo-e233-0-series.json](./227194-jr-east-train-simulator-chuo-line-rapid-service-takao-to-tokyo-e233-0-series.json) |
 | JR East Train Simulator: Hachinohe Line (Hachinohe to Kuji) Kiha E130-500 Series | 274643 | [274643-jr-east-train-simulator-hachinohe-line-hachinohe-to-kuji-kiha-e130-500-series.json](./274643-jr-east-train-simulator-hachinohe-line-hachinohe-to-kuji-kiha-e130-500-series.json) |
 | JR EAST Train Simulator: Keiyo Line (Soga to Tokyo) E233-5000 Series | 254786 | [254786-jr-east-train-simulator-keiyo-line-soga-to-tokyo-e233-5000-series.json](./254786-jr-east-train-simulator-keiyo-line-soga-to-tokyo-e233-5000-series.json) |
 | JR East Train Simulator: Koumi Line (Kobuchizawa to Komoro) Kiha E200 series | 289465 | [289465-jr-east-train-simulator-koumi-line-kobuchizawa-to-komoro-kiha-e200-series.json](./289465-jr-east-train-simulator-koumi-line-kobuchizawa-to-komoro-kiha-e200-series.json) |
 | JR East Train Simulator: Oito Line - Matsumoto to Minami-Otari: 211 Series | 226693 | [226693-jr-east-train-simulator-oito-line-matsumoto-to-minami-otari-211-series.json](./226693-jr-east-train-simulator-oito-line-matsumoto-to-minami-otari-211-series.json) |
 | JR East Train Simulator: Saikyo-Kawagoe Line - Osaki to Kawagoe E233-7000 series | 239144 | [239144-jr-east-train-simulator-saikyo-kawagoe-line-osaki-to-kawagoe-e233-7000-series.json](./239144-jr-east-train-simulator-saikyo-kawagoe-line-osaki-to-kawagoe-e233-7000-series.json) |
 | JR East Train Simulator: Senseki Line (Aobadori to Ishinomaki) 205-3100 series | 253926 | [253926-jr-east-train-simulator-senseki-line-aobadori-to-ishinomaki-205-3100-series.json](./253926-jr-east-train-simulator-senseki-line-aobadori-to-ishinomaki-205-3100-series.json) |
+| JR East Train Simulator: Tokaido Line - Tokyo to Atami E233-3000 Series | 227195 | [227195-jr-east-train-simulator-tokaido-line-tokyo-to-atami-e233-3000-series.json](./227195-jr-east-train-simulator-tokaido-line-tokyo-to-atami-e233-3000-series.json) |
 | JR's Christmas Adventure | 340776 | [340776-jrs-christmas-adventure.json](./340776-jrs-christmas-adventure.json) |
 | JR's: Enter the Flipside | 231499 | [231499-jrs-enter-the-flipside.json](./231499-jrs-enter-the-flipside.json) |
 | Jrago III Requiem of the Night | 390531 | [390531-jrago-iii-requiem-of-the-night.json](./390531-jrago-iii-requiem-of-the-night.json) |
