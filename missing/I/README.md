@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I.T Never Ends | 388373 | [388373-i-t-never-ends.json](./388373-i-t-never-ends.json) |
 | I'd Kill You as a Worm | 331682 | [331682-id-kill-you-as-a-worm.json](./331682-id-kill-you-as-a-worm.json) |
 | I'd Kiss That Fish | 321616 | [321616-id-kiss-that-fish.json](./321616-id-kiss-that-fish.json) |
+| I'd Look Better With Angel Wings | 257523 | [257523-id-look-better-with-angel-wings.json](./257523-id-look-better-with-angel-wings.json) |
 | I'd rather be fishing | 313755 | [313755-id-rather-be-fishing.json](./313755-id-rather-be-fishing.json) |
 | I'll Be Back to the Future with a Terminator | 395714 | [395714-ill-be-back-to-the-future-with-a-terminator.json](./395714-ill-be-back-to-the-future-with-a-terminator.json) |
 | I'll Be Home With You | 360145 | [360145-ill-be-home-with-you.json](./360145-ill-be-home-with-you.json) |
@@ -2468,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interactive Storybook DS: Series 3 | 269833 | [269833-interactive-storybook-ds-series-3.json](./269833-interactive-storybook-ds-series-3.json) |
 | Interalia | 354567 | [354567-interalia.json](./354567-interalia.json) |
 | Interballistic Symphony | 264804 | [264804-interballistic-symphony.json](./264804-interballistic-symphony.json) |
+| Interblocked | 257529 | [257529-interblocked.json](./257529-interblocked.json) |
 | Intercept | 234087 | [234087-intercept.json](./234087-intercept.json) |
 | Interception | 263023 | [263023-interception.json](./263023-interception.json) |
 | Interception II | 263024 | [263024-interception-ii.json](./263024-interception-ii.json) |
@@ -2771,6 +2773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion of The Halloween Fiends | 318436 | [318436-invasion-of-the-halloween-fiends.json](./318436-invasion-of-the-halloween-fiends.json) |
 | Invasion of the Zombie Monsters | 197857 | [197857-invasion-of-the-zombie-monsters.json](./197857-invasion-of-the-zombie-monsters.json) |
 | Invasion Omega | 339899 | [339899-invasion-omega.json](./339899-invasion-omega.json) |
+| Invasion UAC | 257528 | [257528-invasion-uac.json](./257528-invasion-uac.json) |
 | Invasion Waves | 200578 | [200578-invasion-waves.json](./200578-invasion-waves.json) |
 | Invasion: Brain Craving | 33942 | [33942-invasion-brain-craving.json](./33942-invasion-brain-craving.json) |
 | Invasion. Lost in Time | 89684 | [89684-invasion-lost-in-time.json](./89684-invasion-lost-in-time.json) |
