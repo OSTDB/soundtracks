@@ -3424,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Its Snowing | 282613 | [282613-its-snowing.json](./282613-its-snowing.json) |
 | Its Time To Meet God | 334131 | [334131-its-time-to-meet-god.json](./334131-its-time-to-meet-god.json) |
 | Its Village | 51502 | [51502-its-village.json](./51502-its-village.json) |
+| ItsJustAStory | 251745 | [251745-itsjustastory.json](./251745-itsjustastory.json) |
 | Itsu no Ma ni Koukan Nikki | 222319 | [222319-itsu-no-ma-ni-koukan-nikki.json](./222319-itsu-no-ma-ni-koukan-nikki.json) |
 | Itsudemo! Nyan to Wonderful | 228564 | [228564-itsudemo-nyan-to-wonderful.json](./228564-itsudemo-nyan-to-wonderful.json) |
 | Itsuka, Kasanariau Ashita he: Sayuri-hen | 203819 | [203819-itsuka-kasanariau-ashita-he-sayuri-hen.json](./203819-itsuka-kasanariau-ashita-he-sayuri-hen.json) |
