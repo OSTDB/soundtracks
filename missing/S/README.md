@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Estella Gakuin no Shichi-nin no Majo | 77937 | [77937-saint-estella-gakuin-no-shichi-nin-no-majo.json](./77937-saint-estella-gakuin-no-shichi-nin-no-majo.json) |
 | Saint George's Tavern | 388731 | [388731-saint-georges-tavern.json](./388731-saint-georges-tavern.json) |
 | Saint Goddess | 368660 | [368660-saint-goddess.json](./368660-saint-goddess.json) |
+| Saint Hell | 249329 | [249329-saint-hell.json](./249329-saint-hell.json) |
 | Saint Kotar: Digital Deluxe Edition | 246621 | [246621-saint-kotar-digital-deluxe-edition.json](./246621-saint-kotar-digital-deluxe-edition.json) |
 | Saint of Chains | 374295 | [374295-saint-of-chains.json](./374295-saint-of-chains.json) |
 | Saint Seiya Awakening: Knights of the Zodiac | 129144 | [129144-saint-seiya-awakening-knights-of-the-zodiac.json](./129144-saint-seiya-awakening-knights-of-the-zodiac.json) |
@@ -4721,6 +4722,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Clutter 3: Blooming Tale | 215031 | [215031-shopping-clutter-3-blooming-tale.json](./215031-shopping-clutter-3-blooming-tale.json) |
 | Shopping Clutter 5: Christmas Poetree | 223139 | [223139-shopping-clutter-5-christmas-poetree.json](./223139-shopping-clutter-5-christmas-poetree.json) |
 | Shopping Clutter 6: Love Is in the Air | 231314 | [231314-shopping-clutter-6-love-is-in-the-air.json](./231314-shopping-clutter-6-love-is-in-the-air.json) |
+| Shopping Clutter 7: Food Detectives | 249371 | [249371-shopping-clutter-7-food-detectives.json](./249371-shopping-clutter-7-food-detectives.json) |
+| Shopping Clutter 8: From Gloom to Bloom | 249372 | [249372-shopping-clutter-8-from-gloom-to-bloom.json](./249372-shopping-clutter-8-from-gloom-to-bloom.json) |
 | Shopping Clutter: The Best Playground | 200580 | [200580-shopping-clutter-the-best-playground.json](./200580-shopping-clutter-the-best-playground.json) |
 | Shopping Fever | 330812 | [330812-shopping-fever.json](./330812-shopping-fever.json) |
 | Shopping in a Winter Zombieland | 276174 | [276174-shopping-in-a-winter-zombieland.json](./276174-shopping-in-a-winter-zombieland.json) |
@@ -16939,6 +16942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Vadimka VI: A Terrible Threat there is No Vadimka | 224769 | [224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json](./224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json) |
 | Super Valis IV | 38411 | [38411-super-valis-iv.json](./38411-super-valis-iv.json) |
 | Super Vanilla World | 223029 | [223029-super-vanilla-world.json](./223029-super-vanilla-world.json) |
+| Super Video Golf | 249343 | [249343-super-video-golf.json](./249343-super-video-golf.json) |
 | Super Vili | 160167 | [160167-super-vili.json](./160167-super-vili.json) |
 | Super Visual Soccer | 125980 | [125980-super-visual-soccer.json](./125980-super-visual-soccer.json) |
 | Super Volley Blast | 105274 | [105274-super-volley-blast.json](./105274-super-volley-blast.json) |
@@ -17500,6 +17504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Cat 2 | 323934 | [323934-sushi-cat-2.json](./323934-sushi-cat-2.json) |
 | Sushi Cat Legacy Collection | 377246 | [377246-sushi-cat-legacy-collection.json](./377246-sushi-cat-legacy-collection.json) |
 | Sushi Cat Storycraft World Creator | 377775 | [377775-sushi-cat-storycraft-world-creator.json](./377775-sushi-cat-storycraft-world-creator.json) |
+| Sushi Cat Words | 249366 | [249366-sushi-cat-words.json](./249366-sushi-cat-words.json) |
 | Sushi Catapult | 320746 | [320746-sushi-catapult.json](./320746-sushi-catapult.json) |
 | Sushi Clickers | 343971 | [343971-sushi-clickers.json](./343971-sushi-clickers.json) |
 | Sushi for Robots | 177320 | [177320-sushi-for-robots.json](./177320-sushi-for-robots.json) |
