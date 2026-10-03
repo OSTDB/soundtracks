@@ -2966,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ovum City | 221428 | [221428-ovum-city.json](./221428-ovum-city.json) |
 | Ovus Nova | 185623 | [185623-ovus-nova.json](./185623-ovus-nova.json) |
 | Owari | 37389 | [37389-owari.json](./37389-owari.json) |
+| Owari no Kane ga Naru mae ni: Chapter 1 - Plus Edition | 259721 | [259721-owari-no-kane-ga-naru-mae-ni-chapter-1-plus-edition.json](./259721-owari-no-kane-ga-naru-mae-ni-chapter-1-plus-edition.json) |
 | Owari no Kane ga Naru mae ni: Chapter 2 | 263135 | [263135-owari-no-kane-ga-naru-mae-ni-chapter-2.json](./263135-owari-no-kane-ga-naru-mae-ni-chapter-2.json) |
 | Owarinaki Natsu, Towa Naru Shirabe | 202383 | [202383-owarinaki-natsu-towa-naru-shirabe.json](./202383-owarinaki-natsu-towa-naru-shirabe.json) |
 | Owe Money Pay Money | 301251 | [301251-owe-money-pay-money.json](./301251-owe-money-pay-money.json) |
