@@ -2888,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bed Bugs! | 15665 | [15665-bed-bugs.json](./15665-bed-bugs.json) |
 | Bed Lying Simulator: Girlfriend Experience | 292680 | [292680-bed-lying-simulator-girlfriend-experience.json](./292680-bed-lying-simulator-girlfriend-experience.json) |
 | Bed Survival | 145648 | [145648-bed-survival.json](./145648-bed-survival.json) |
+| Bed Wars | 265850 | [265850-bed-wars.json](./265850-bed-wars.json) |
 | BederSnake | 361220 | [361220-bedersnake.json](./361220-bedersnake.json) |
 | Bedlam | 2390 | [2390-bedlam.json](./2390-bedlam.json) |
 | Bedlam | 55098 | [55098-bedlam.json](./55098-bedlam.json) |
@@ -3205,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bendy: Ink Demon's Collection | 393061 | [393061-bendy-ink-demons-collection.json](./393061-bendy-ink-demons-collection.json) |
 | Bendy: Revive and Survive Bundle | 393062 | [393062-bendy-revive-and-survive-bundle.json](./393062-bendy-revive-and-survive-bundle.json) |
 | Bendy: Secrets of the Machine | 294976 | [294976-bendy-secrets-of-the-machine.json](./294976-bendy-secrets-of-the-machine.json) |
+| Bendy: The Silent City | 265858 | [265858-bendy-the-silent-city.json](./265858-bendy-the-silent-city.json) |
 | Bendy's Nightmare Run | 414307 | [414307-bendys-nightmare-run.json](./414307-bendys-nightmare-run.json) |
 | Beneath | 240509 | [240509-beneath.json](./240509-beneath.json) |
 | Beneath & Beyond | 273367 | [273367-beneath-and-beyond.json](./273367-beneath-and-beyond.json) |
