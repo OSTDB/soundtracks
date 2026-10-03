@@ -1630,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby Doo! Case File #3: Frights, Camera, Mystery! | 76980 | [76980-scooby-doo-case-file-3-frights-camera-mystery.json](./76980-scooby-doo-case-file-3-frights-camera-mystery.json) |
 | Scooby-Doo | 2856 | [2856-scooby-doo.json](./2856-scooby-doo.json) |
 | Scooby-Doo 2: Monsters Unleashed - Escape from the Coolsonian | 327821 | [327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json](./327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json) |
+| Scooby-Doo and a Mummy, Too! | 242031 | [242031-scooby-doo-and-a-mummy-too.json](./242031-scooby-doo-and-a-mummy-too.json) |
 | Scooby-Doo and Scrappy-Doo | 13078 | [13078-scooby-doo-and-scrappy-doo.json](./13078-scooby-doo-and-scrappy-doo.json) |
 | Scooby-Doo and the Cyber Chase | 248593 | [248593-scooby-doo-and-the-cyber-chase.json](./248593-scooby-doo-and-the-cyber-chase.json) |
 | Scooby-Doo and the Cyber Chase | 2859 | [2859-scooby-doo-and-the-cyber-chase.json](./2859-scooby-doo-and-the-cyber-chase.json) |
@@ -1736,6 +1737,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP-087 | 241908 | [241908-scp-087.json](./241908-scp-087.json) |
 | SCP-087 | 336366 | [336366-scp-087.json](./336366-scp-087.json) |
 | SCP-087-B | 20204 | [20204-scp-087-b.json](./20204-scp-087-b.json) |
+| SCP-087-B | 242044 | [242044-scp-087-b.json](./242044-scp-087-b.json) |
+| SCP-087-B Extended Edition | 242027 | [242027-scp-087-b-extended-edition.json](./242027-scp-087-b-extended-edition.json) |
 | SCP-087-B UE Remake | 277856 | [277856-scp-087-b-ue-remake.json](./277856-scp-087-b-ue-remake.json) |
 | SCP-087: Recovered document | 81711 | [81711-scp-087-recovered-document.json](./81711-scp-087-recovered-document.json) |
 | SCP-087: The Stairwell Horror | 324126 | [324126-scp-087-the-stairwell-horror.json](./324126-scp-087-the-stairwell-horror.json) |
@@ -4355,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi | 307860 | [307860-shinobi.json](./307860-shinobi.json) |
 | Shinobi | 309488 | [309488-shinobi.json](./309488-shinobi.json) |
 | Shinobi Breaker | 169844 | [169844-shinobi-breaker.json](./169844-shinobi-breaker.json) |
+| Shinobi Harisenbo | 242045 | [242045-shinobi-harisenbo.json](./242045-shinobi-harisenbo.json) |
 | Shinobi Match | 332845 | [332845-shinobi-match.json](./332845-shinobi-match.json) |
 | Shinobi no Dokutsu | 181773 | [181773-shinobi-no-dokutsu.json](./181773-shinobi-no-dokutsu.json) |
 | Shinobi no Okite | 132759 | [132759-shinobi-no-okite.json](./132759-shinobi-no-okite.json) |
@@ -5803,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Night | 200670 | [200670-sinister-night.json](./200670-sinister-night.json) |
 | Sinister Remains | 372020 | [372020-sinister-remains.json](./372020-sinister-remains.json) |
 | Sinister Seven | 275636 | [275636-sinister-seven.json](./275636-sinister-seven.json) |
+| Sinister Turmoil: Sewers | 242010 | [242010-sinister-turmoil-sewers.json](./242010-sinister-turmoil-sewers.json) |
 | Sinister Zombies | 95604 | [95604-sinister-zombies.json](./95604-sinister-zombies.json) |
 | Sinistrous | 153423 | [153423-sinistrous.json](./153423-sinistrous.json) |
 | Sinja UnityStory | 334344 | [334344-sinja-unitystory.json](./334344-sinja-unitystory.json) |
@@ -8926,6 +8931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Quickie | 326810 | [326810-sonic-quickie.json](./326810-sonic-quickie.json) |
 | Sonic Quickshot | 370268 | [370268-sonic-quickshot.json](./370268-sonic-quickshot.json) |
 | Sonic QWERTY | 266511 | [266511-sonic-qwerty.json](./266511-sonic-qwerty.json) |
+| Sonic R Characters: Metal Knuckles & Tails Doll | 242033 | [242033-sonic-r-characters-metal-knuckles-and-tails-doll.json](./242033-sonic-r-characters-metal-knuckles-and-tails-doll.json) |
 | Sonic Racers | 333936 | [333936-sonic-racers.json](./333936-sonic-racers.json) |
 | Sonic Racing: CrossWorlds - "Blue Star" Extreme Gear | 374160 | [374160-sonic-racing-crossworlds-blue-star-extreme-gear.json](./374160-sonic-racing-crossworlds-blue-star-extreme-gear.json) |
 | Sonic Racing: CrossWorlds - Avatar Legends Pack | 375167 | [375167-sonic-racing-crossworlds-avatar-legends-pack.json](./375167-sonic-racing-crossworlds-avatar-legends-pack.json) |
@@ -8965,6 +8971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Robo Blast 2 | 280215 | [280215-sonic-robo-blast-2.json](./280215-sonic-robo-blast-2.json) |
 | Sonic Robo Blast 2 Kart | 121436 | [121436-sonic-robo-blast-2-kart.json](./121436-sonic-robo-blast-2-kart.json) |
 | Sonic Robo Blast 2: Adventure Sonic | 241383 | [241383-sonic-robo-blast-2-adventure-sonic.json](./241383-sonic-robo-blast-2-adventure-sonic.json) |
+| Sonic Robo Blast 2: Cacee "Kiwi" Cactus | 242032 | [242032-sonic-robo-blast-2-cacee-kiwi-cactus.json](./242032-sonic-robo-blast-2-cacee-kiwi-cactus.json) |
 | Sonic Robo Blast 2: Frontiers Adaptation Project | 264858 | [264858-sonic-robo-blast-2-frontiers-adaptation-project.json](./264858-sonic-robo-blast-2-frontiers-adaptation-project.json) |
 | Sonic Robo Blast 2: Heroes | 304182 | [304182-sonic-robo-blast-2-heroes.json](./304182-sonic-robo-blast-2-heroes.json) |
 | Sonic Robo Blast 2: N64 Mario | 307659 | [307659-sonic-robo-blast-2-n64-mario.json](./307659-sonic-robo-blast-2-n64-mario.json) |
@@ -16186,6 +16193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. 64 | 150101 | [150101-super-mario-bros-64.json](./150101-super-mario-bros-64.json) |
 | Super Mario Bros. All-Star Quest | 135132 | [135132-super-mario-bros-all-star-quest.json](./135132-super-mario-bros-all-star-quest.json) |
 | Super Mario Bros. Crossover | 8734 | [8734-super-mario-bros-crossover.json](./8734-super-mario-bros-crossover.json) |
+| Super Mario Bros. Crowd Control | 242112 | [242112-super-mario-bros-crowd-control.json](./242112-super-mario-bros-crowd-control.json) |
 | Super Mario Bros. Deluxe | 49877 | [49877-super-mario-bros-deluxe.json](./49877-super-mario-bros-deluxe.json) |
 | Super Mario Bros. Dimensions | 134074 | [134074-super-mario-bros-dimensions.json](./134074-super-mario-bros-dimensions.json) |
 | Super Mario Bros. Funk Mix Deluxe | 203389 | [203389-super-mario-bros-funk-mix-deluxe.json](./203389-super-mario-bros-funk-mix-deluxe.json) |
