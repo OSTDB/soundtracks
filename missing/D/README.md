@@ -2984,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Chapter 1 - Noelle Edition | 335691 | [335691-deltarune-chapter-1-noelle-edition.json](./335691-deltarune-chapter-1-noelle-edition.json) |
 | Deltarune: Chapter 5 | 274238 | [274238-deltarune-chapter-5.json](./274238-deltarune-chapter-5.json) |
 | Deltarune: Chapter 6 | 408171 | [408171-deltarune-chapter-6.json](./408171-deltarune-chapter-6.json) |
+| Deltarune: Chapter Rewritten - Scampton The Great | 243746 | [243746-deltarune-chapter-rewritten-scampton-the-great.json](./243746-deltarune-chapter-rewritten-scampton-the-great.json) |
 | Deltarune: Hummer Jevil | 352215 | [352215-deltarune-hummer-jevil.json](./352215-deltarune-hummer-jevil.json) |
 | Deltarune: Internal Demons | 330253 | [330253-deltarune-internal-demons.json](./330253-deltarune-internal-demons.json) |
 | Deltarune: Master Mode | 336354 | [336354-deltarune-master-mode.json](./336354-deltarune-master-mode.json) |
@@ -6659,6 +6660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora's Ballet Adventures | 209122 | [209122-doras-ballet-adventures.json](./209122-doras-ballet-adventures.json) |
 | Dora's Big Birthday Adventure | 202095 | [202095-doras-big-birthday-adventure.json](./202095-doras-big-birthday-adventure.json) |
 | Dora's Cooking Club | 47964 | [47964-doras-cooking-club.json](./47964-doras-cooking-club.json) |
+| Dora's Star Mountain Adventure | 243823 | [243823-doras-star-mountain-adventure.json](./243823-doras-star-mountain-adventure.json) |
 | Dora's World Adventure! | 220085 | [220085-doras-world-adventure.json](./220085-doras-world-adventure.json) |
 | Dorabase: Dramatic Stadium | 91771 | [91771-dorabase-dramatic-stadium.json](./91771-dorabase-dramatic-stadium.json) |
 | Dorachan | 178099 | [178099-dorachan.json](./178099-dorachan.json) |
@@ -7330,6 +7332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Break Classic Head to Head | 152755 | [152755-dragon-break-classic-head-to-head.json](./152755-dragon-break-classic-head-to-head.json) |
 | Dragon Bride | 134607 | [134607-dragon-bride.json](./134607-dragon-bride.json) |
 | Dragon Buster | 38035 | [38035-dragon-buster.json](./38035-dragon-buster.json) |
+| Dragon Buster 100 | 243831 | [243831-dragon-buster-100.json](./243831-dragon-buster-100.json) |
 | Dragon Caffi | 196036 | [196036-dragon-caffi.json](./196036-dragon-caffi.json) |
 | Dragon Call | 119495 | [119495-dragon-call.json](./119495-dragon-call.json) |
 | Dragon Castle | 346115 | [346115-dragon-castle.json](./346115-dragon-castle.json) |
