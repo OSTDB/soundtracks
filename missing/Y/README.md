@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youkai Club | 48598 | [48598-youkai-club.json](./48598-youkai-club.json) |
 | Youkai Douchuuki | 48597 | [48597-youkai-douchuuki.json](./48597-youkai-douchuuki.json) |
 | Youkai Kori Kassen | 291029 | [291029-youkai-kori-kassen.json](./291029-youkai-kori-kassen.json) |
+| YoukaiMaki | 235370 | [235370-youkaimaki.json](./235370-youkaimaki.json) |
 | Youko to Anata | 66056 | [66056-youko-to-anata.json](./66056-youko-to-anata.json) |
 | Yōulì: Yasashii Lìxiǎn | 394186 | [394186-youli-yasashii-lixian.json](./394186-youli-yasashii-lixian.json) |
 | Youma Kourin | 219152 | [219152-youma-kourin.json](./219152-youma-kourin.json) |
