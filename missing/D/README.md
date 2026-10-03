@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dabado | 109431 | [109431-dabado.json](./109431-dabado.json) |
 | Dabda | 90615 | [90615-dabda.json](./90615-dabda.json) |
 | Dabman: When the Haters Dab Back | 104936 | [104936-dabman-when-the-haters-dab-back.json](./104936-dabman-when-the-haters-dab-back.json) |
+| DAC 20 | 273556 | [273556-dac-20.json](./273556-dac-20.json) |
 | DaCapo Delivers | 152832 | [152832-dacapo-delivers.json](./152832-dacapo-delivers.json) |
 | Dacholer | 196168 | [196168-dacholer.json](./196168-dacholer.json) |
 | Dachs Hunter | 336757 | [336757-dachs-hunter.json](./336757-dachs-hunter.json) |
@@ -9169,6 +9170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuoXBall | 233242 | [233242-duoxball.json](./233242-duoxball.json) |
 | DuoZuplixo | 369025 | [369025-duozuplixo.json](./369025-duozuplixo.json) |
 | Duped | 65789 | [65789-duped.json](./65789-duped.json) |
+| Duplex | 273554 | [273554-duplex.json](./273554-duplex.json) |
 | dUpLicity ~Beyond the Lies~ | 36104 | [36104-duplicity-beyond-the-lies.json](./36104-duplicity-beyond-the-lies.json) |
 | Duplicity Loop | 278525 | [278525-duplicity-loop.json](./278525-duplicity-loop.json) |
 | Duppy Detective Tashia | 215885 | [215885-duppy-detective-tashia.json](./215885-duppy-detective-tashia.json) |
