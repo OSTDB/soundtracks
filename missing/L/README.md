@@ -4729,6 +4729,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucie's Bistro | 215787 | [215787-lucies-bistro.json](./215787-lucies-bistro.json) |
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
 | Lucifer Ring | 43873 | [43873-lucifer-ring.json](./43873-lucifer-ring.json) |
+| Lucifer's Ballroom Bonanza | 246531 | [246531-lucifers-ballroom-bonanza.json](./246531-lucifers-ballroom-bonanza.json) |
+| Lucifer's Bountiful Beads | 246532 | [246532-lucifers-bountiful-beads.json](./246532-lucifers-bountiful-beads.json) |
 | Lucifer's Kingdom | 72097 | [72097-lucifers-kingdom.json](./72097-lucifers-kingdom.json) |
 | Lucifer's Realm | 25895 | [25895-lucifers-realm.json](./25895-lucifers-realm.json) |
 | Lucifer's Spell | 268635 | [268635-lucifers-spell.json](./268635-lucifers-spell.json) |
@@ -4764,6 +4766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Hand: Roguelike Deck Builder | 347780 | [347780-lucky-hand-roguelike-deck-builder.json](./347780-lucky-hand-roguelike-deck-builder.json) |
 | Lucky Hero | 253900 | [253900-lucky-hero.json](./253900-lucky-hero.json) |
 | Lucky Heroes | 217370 | [217370-lucky-heroes.json](./217370-lucky-heroes.json) |
+| Lucky Hunt | 246521 | [246521-lucky-hunt.json](./246521-lucky-hunt.json) |
 | Lucky Island | 224742 | [224742-lucky-island.json](./224742-lucky-island.json) |
 | Lucky Joe | 160168 | [160168-lucky-joe.json](./160168-lucky-joe.json) |
 | Lucky Lawn Mower | 359413 | [359413-lucky-lawn-mower.json](./359413-lucky-lawn-mower.json) |
