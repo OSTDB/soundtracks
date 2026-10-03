@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazo no Chinbotsusen | 385713 | [385713-nazo-no-chinbotsusen.json](./385713-nazo-no-chinbotsusen.json) |
 | Nazo no Mini Game: Choigae | 222525 | [222525-nazo-no-mini-game-choigae.json](./222525-nazo-no-mini-game-choigae.json) |
 | Nazo no Minigame | 63902 | [63902-nazo-no-minigame.json](./63902-nazo-no-minigame.json) |
+| Nazo Puyo | 251091 | [251091-nazo-puyo.json](./251091-nazo-puyo.json) |
 | Nazo Puyo | 45260 | [45260-nazo-puyo.json](./45260-nazo-puyo.json) |
 | Nazo Puyo 2 | 45259 | [45259-nazo-puyo-2.json](./45259-nazo-puyo-2.json) |
 | Nazo Puyo: Arle no Roux | 45258 | [45258-nazo-puyo-arle-no-roux.json](./45258-nazo-puyo-arle-no-roux.json) |
@@ -2031,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niche: Breed and Evolve | 174298 | [174298-niche-breed-and-evolve.json](./174298-niche-breed-and-evolve.json) |
 | Nichibutsu Collection 1 | 37906 | [37906-nichibutsu-collection-1.json](./37906-nichibutsu-collection-1.json) |
 | Nichibutsu Collection 2 | 37905 | [37905-nichibutsu-collection-2.json](./37905-nichibutsu-collection-2.json) |
+| Nichibutsu Mahjong Collection | 251087 | [251087-nichibutsu-mahjong-collection.json](./251087-nichibutsu-mahjong-collection.json) |
 | Nichibutsu Mahjong III: Mahjong G Men | 48804 | [48804-nichibutsu-mahjong-iii-mahjong-g-men.json](./48804-nichibutsu-mahjong-iii-mahjong-g-men.json) |
 | Nick | 29921 | [29921-nick.json](./29921-nick.json) |
 | Nick Bounty: A Case of the Crabs | 219150 | [219150-nick-bounty-a-case-of-the-crabs.json](./219150-nick-bounty-a-case-of-the-crabs.json) |
