@@ -4812,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies: Match | 287877 | [287877-plants-vs-zombies-match.json](./287877-plants-vs-zombies-match.json) |
 | Plants vs. Zombies: Original Edition | 310568 | [310568-plants-vs-zombies-original-edition.json](./310568-plants-vs-zombies-original-edition.json) |
 | Plants vs. Zombies: Replanted | 358529 | [358529-plants-vs-zombies-replanted.json](./358529-plants-vs-zombies-replanted.json) |
+| Plantsportation | 249930 | [249930-plantsportation.json](./249930-plantsportation.json) |
 | Planum | 96890 | [96890-planum.json](./96890-planum.json) |
 | Plaque Attack | 18410 | [18410-plaque-attack.json](./18410-plaque-attack.json) |
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
@@ -5249,6 +5250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Pusher: The Warehouse | 298273 | [298273-pocket-pusher-the-warehouse.json](./298273-pocket-pusher-the-warehouse.json) |
 | Pocket Puyo Puyo Tsuu | 87198 | [87198-pocket-puyo-puyo-tsuu.json](./87198-pocket-puyo-puyo-tsuu.json) |
 | Pocket Puyo Puyo~n | 249125 | [249125-pocket-puyo-puyo-n.json](./249125-pocket-puyo-puyo-n.json) |
+| Pocket Puzzle | 249935 | [249935-pocket-puzzle.json](./249935-pocket-puzzle.json) |
 | Pocket Race: Driver | 273441 | [273441-pocket-race-driver.json](./273441-pocket-race-driver.json) |
 | Pocket Racer | 129150 | [129150-pocket-racer.json](./129150-pocket-racer.json) |
 | Pocket Races | 153834 | [153834-pocket-races.json](./153834-pocket-races.json) |
@@ -6946,6 +6948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Precipice Pain | 308245 | [308245-precipice-pain.json](./308245-precipice-pain.json) |
 | Precipitous | 279073 | [279073-precipitous.json](./279073-precipitous.json) |
 | Precision Archery: Competitive | 83608 | [83608-precision-archery-competitive.json](./83608-precision-archery-competitive.json) |
+| Precision of Insight | 249925 | [249925-precision-of-insight.json](./249925-precision-of-insight.json) |
 | Precision Platform Bundle | 331487 | [331487-precision-platform-bundle.json](./331487-precision-platform-bundle.json) |
 | Precision Point VR | 270949 | [270949-precision-point-vr.json](./270949-precision-point-vr.json) |
 | PreCure All Stars: Zenin Shuugou - Let's Dance! | 56462 | [56462-precure-all-stars-zenin-shuugou-lets-dance.json](./56462-precure-all-stars-zenin-shuugou-lets-dance.json) |
