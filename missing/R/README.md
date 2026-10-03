@@ -1596,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of Alters | 169397 | [169397-realm-of-alters.json](./169397-realm-of-alters.json) |
 | Realm of Chaos | 313868 | [313868-realm-of-chaos.json](./313868-realm-of-chaos.json) |
 | Realm of Dissonance | 319182 | [319182-realm-of-dissonance.json](./319182-realm-of-dissonance.json) |
+| Realm of Dread | 265306 | [265306-realm-of-dread.json](./265306-realm-of-dread.json) |
 | Realm of Heroes | 167257 | [167257-realm-of-heroes.json](./167257-realm-of-heroes.json) |
 | Realm Of I | 291547 | [291547-realm-of-i.json](./291547-realm-of-i.json) |
 | Realm of Ink | 274368 | [274368-realm-of-ink.json](./274368-realm-of-ink.json) |
@@ -5869,6 +5870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Roads 2: The Magic Box | 161401 | [161401-royal-roads-2-the-magic-box.json](./161401-royal-roads-2-the-magic-box.json) |
 | Royal Romances: Battle of the Woods | 226930 | [226930-royal-romances-battle-of-the-woods.json](./226930-royal-romances-battle-of-the-woods.json) |
 | Royal Romances: Battle of the Woods - Collector's Edition | 224741 | [224741-royal-romances-battle-of-the-woods-collectors-edition.json](./224741-royal-romances-battle-of-the-woods-collectors-edition.json) |
+| Royal Romances: Endless Winter - Collector's Edition | 265305 | [265305-royal-romances-endless-winter-collectors-edition.json](./265305-royal-romances-endless-winter-collectors-edition.json) |
 | Royal Romances: Forbidden Magic - Collector's Edition | 240767 | [240767-royal-romances-forbidden-magic-collectors-edition.json](./240767-royal-romances-forbidden-magic-collectors-edition.json) |
 | Royal Romances: The Cursed Hearts DLC | 280258 | [280258-royal-romances-the-cursed-hearts-dlc.json](./280258-royal-romances-the-cursed-hearts-dlc.json) |
 | Royal Romances: The Power of Chosen One DLC | 256003 | [256003-royal-romances-the-power-of-chosen-one-dlc.json](./256003-royal-romances-the-power-of-chosen-one-dlc.json) |
