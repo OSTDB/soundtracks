@@ -3231,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolated Hours | 381855 | [381855-isolated-hours.json](./381855-isolated-hours.json) |
 | Isolated Life | 156119 | [156119-isolated-life.json](./156119-isolated-life.json) |
 | Isolated Room | 229024 | [229024-isolated-room.json](./229024-isolated-room.json) |
+| Isolation | 268654 | [268654-isolation.json](./268654-isolation.json) |
 | Isolation | 293242 | [293242-isolation.json](./293242-isolation.json) |
 | Isolation | 29945 | [29945-isolation.json](./29945-isolation.json) |
 | Isolation Story | 135021 | [135021-isolation-story.json](./135021-isolation-story.json) |
