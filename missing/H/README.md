@@ -2297,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello, Good-bye | 111803 | [111803-hello-good-bye.json](./111803-hello-good-bye.json) |
 | Hello, Goodbye, Summer Girl | 151721 | [151721-hello-goodbye-summer-girl.json](./151721-hello-goodbye-summer-girl.json) |
 | Hello, Kami-sama Worker | 379354 | [379354-hello-kami-sama-worker.json](./379354-hello-kami-sama-worker.json) |
+| Hello, Lucia | 235818 | [235818-hello-lucia.json](./235818-hello-lucia.json) |
 | Hello, This Is Bear | 272344 | [272344-hello-this-is-bear.json](./272344-hello-this-is-bear.json) |
 | Hello, Vic | 258543 | [258543-hello-vic.json](./258543-hello-vic.json) |
 | Hello, World. | 117130 | [117130-hello-world.json](./117130-hello-world.json) |
@@ -2470,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Direct-Her | 263192 | [263192-hentai-direct-her.json](./263192-hentai-direct-her.json) |
 | Hentai Dream | 208371 | [208371-hentai-dream.json](./208371-hentai-dream.json) |
 | Hentai Elf | 296686 | [296686-hentai-elf.json](./296686-hentai-elf.json) |
+| Hentai EroCum | 235891 | [235891-hentai-erocum.json](./235891-hentai-erocum.json) |
 | Hentai EroElf | 233091 | [233091-hentai-eroelf.json](./233091-hentai-eroelf.json) |
 | Hentai Evangeline | 372486 | [372486-hentai-evangeline.json](./372486-hentai-evangeline.json) |
 | Hentai Evilgirls | 367019 | [367019-hentai-evilgirls.json](./367019-hentai-evilgirls.json) |
@@ -3876,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highrise City | 147440 | [147440-highrise-city.json](./147440-highrise-city.json) |
 | Highrise City: Metro & Planes | 285117 | [285117-highrise-city-metro-and-planes.json](./285117-highrise-city-metro-and-planes.json) |
 | Highrise Heroes | 241342 | [241342-highrise-heroes.json](./241342-highrise-heroes.json) |
+| Highrollers | 235885 | [235885-highrollers.json](./235885-highrollers.json) |
 | HighSchool Simulator Battle | 297631 | [297631-highschool-simulator-battle.json](./297631-highschool-simulator-battle.json) |
 | Highschool53 | 280340 | [280340-highschool53.json](./280340-highschool53.json) |
 | Highscore | 238592 | [238592-highscore.json](./238592-highscore.json) |
@@ -5712,6 +5715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Do You Know Mr. Blue? | 115757 | [115757-how-do-you-know-mr-blue.json](./115757-how-do-you-know-mr-blue.json) |
 | How Do You Reckon? | 179721 | [179721-how-do-you-reckon.json](./179721-how-do-you-reckon.json) |
 | How Far Can U Go? | 176486 | [176486-how-far-can-u-go.json](./176486-how-far-can-u-go.json) |
+| How I Escaped Futa Prison | 235810 | [235810-how-i-escaped-futa-prison.json](./235810-how-i-escaped-futa-prison.json) |
 | How I learned to Skate | 175972 | [175972-how-i-learned-to-skate.json](./175972-how-i-learned-to-skate.json) |
 | How it was to live Guadalindie 2026 | 410255 | [410255-how-it-was-to-live-guadalindie-2026.json](./410255-how-it-was-to-live-guadalindie-2026.json) |
 | How Little We Wait | 285468 | [285468-how-little-we-wait.json](./285468-how-little-we-wait.json) |
@@ -6145,6 +6149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunted By Monsters: Haunting In The Castle Dungeon | 240875 | [240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json](./240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json) |
 | Hunted Hunter | 369709 | [369709-hunted-hunter.json](./369709-hunted-hunter.json) |
 | Hunted Within: The Metro | 390207 | [390207-hunted-within-the-metro.json](./390207-hunted-within-the-metro.json) |
+| Hunted: Kalevala | 235889 | [235889-hunted-kalevala.json](./235889-hunted-kalevala.json) |
 | Hunted: One Step Too Far | 25874 | [25874-hunted-one-step-too-far.json](./25874-hunted-one-step-too-far.json) |
 | Hunted: Survive the Night | 211787 | [211787-hunted-survive-the-night.json](./211787-hunted-survive-the-night.json) |
 | Hunted: The Demon's Forge | 505 | [505-hunted-the-demons-forge.json](./505-hunted-the-demons-forge.json) |
