@@ -583,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jessica's Life: The Beginning | 368115 | [368115-jessicas-life-the-beginning.json](./368115-jessicas-life-the-beginning.json) |
 | Jessie 'Boom' James | 148344 | [148344-jessie-boom-james.json](./148344-jessie-boom-james.json) |
 | Jessie Jaeger in Cleopatra's Curse | 142392 | [142392-jessie-jaeger-in-cleopatras-curse.json](./142392-jessie-jaeger-in-cleopatras-curse.json) |
+| Jester | 251714 | [251714-jester.json](./251714-jester.json) |
 | Jester / King | 166745 | [166745-jester-king.json](./166745-jester-king.json) |
 | Jester Street: Card Counting Trainer | 186029 | [186029-jester-street-card-counting-trainer.json](./186029-jester-street-card-counting-trainer.json) |
 | Jester's Helper | 363047 | [363047-jesters-helper.json](./363047-jesters-helper.json) |
@@ -1139,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jobsworth Weekly | 290526 | [290526-jobsworth-weekly.json](./290526-jobsworth-weekly.json) |
 | Jobu-Ki | 113147 | [113147-jobu-ki.json](./113147-jobu-ki.json) |
 | Jock and the Time Rings | 294211 | [294211-jock-and-the-time-rings.json](./294211-jock-and-the-time-rings.json) |
+| Jock Dummy: Ice Hockey Edition | 251732 | [251732-jock-dummy-ice-hockey-edition.json](./251732-jock-dummy-ice-hockey-edition.json) |
 | Jockey Rush | 32099 | [32099-jockey-rush.json](./32099-jockey-rush.json) |
 | Jockey Zero | 143662 | [143662-jockey-zero.json](./143662-jockey-zero.json) |
 | Jockey's Road | 62228 | [62228-jockeys-road.json](./62228-jockeys-road.json) |
@@ -1342,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jorel's Brother and the Most Important Game of the Galaxy: Chapter 2 - The Lustrous of the Universe | 253311 | [253311-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-2-the-lustrous-of-the-universe.json](./253311-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-2-the-lustrous-of-the-universe.json) |
 | Jorel's Brother and the Most Important Game of the Galaxy: Chapter 3 - The Final Rave | 253316 | [253316-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-3-the-final-rave.json](./253316-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-3-the-final-rave.json) |
 | Jorji and Impossible Forest | 104817 | [104817-jorji-and-impossible-forest.json](./104817-jorji-and-impossible-forest.json) |
+| Jorogumo | 251742 | [251742-jorogumo.json](./251742-jorogumo.json) |
 | Jorry | 129032 | [129032-jorry.json](./129032-jorry.json) |
 | Joryuu Janshi ni Chousen | 97861 | [97861-joryuu-janshi-ni-chousen.json](./97861-joryuu-janshi-ni-chousen.json) |
 | Joryuu Janshi ni Chousen GB: Watashi-tachi ni Chousen Shite ne! | 97857 | [97857-joryuu-janshi-ni-chousen-gb-watashi-tachi-ni-chousen-shite-ne.json](./97857-joryuu-janshi-ni-chousen-gb-watashi-tachi-ni-chousen-shite-ne.json) |
