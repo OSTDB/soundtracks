@@ -2573,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Explorers | 7413 | [7413-final-fantasy-explorers.json](./7413-final-fantasy-explorers.json) |
 | Final Fantasy: Mystic Quest | 415 | [415-final-fantasy-mystic-quest.json](./415-final-fantasy-mystic-quest.json) |
 | Final Fantasy: Pixel Remaster Collection | 159253 | [159253-final-fantasy-pixel-remaster-collection.json](./159253-final-fantasy-pixel-remaster-collection.json) |
+| Final Fantasy: Sky Warriors | 262006 | [262006-final-fantasy-sky-warriors.json](./262006-final-fantasy-sky-warriors.json) |
 | Final Fantasy: The 4 Heroes of Light | 17463 | [17463-final-fantasy-the-4-heroes-of-light.json](./17463-final-fantasy-the-4-heroes-of-light.json) |
 | Final Fantasy: World Wide Words | 127876 | [127876-final-fantasy-world-wide-words.json](./127876-final-fantasy-world-wide-words.json) |
 | Final Fight 2 | 1656 | [1656-final-fight-2.json](./1656-final-fight-2.json) |
@@ -5684,6 +5685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frebbventure Alliance | 316172 | [316172-frebbventure-alliance.json](./316172-frebbventure-alliance.json) |
 | Fred | 25841 | [25841-fred.json](./25841-fred.json) |
 | Fred | 85866 | [85866-fred.json](./85866-fred.json) |
+| Fred Figglehorn | 261966 | [261966-fred-figglehorn.json](./261966-fred-figglehorn.json) |
 | Fred Fuches Around | 397693 | [397693-fred-fuches-around.json](./397693-fred-fuches-around.json) |
 | Fred Johnson's: Mech Simulator | 326429 | [326429-fred-johnsons-mech-simulator.json](./326429-fred-johnsons-mech-simulator.json) |
 | Fred Penner's Company Coming | 209566 | [209566-fred-penners-company-coming.json](./209566-fred-penners-company-coming.json) |
@@ -6088,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 218591 | [218591-frogger.json](./218591-frogger.json) |
 | Frogger | 240485 | [240485-frogger.json](./240485-frogger.json) |
 | Frogger | 246398 | [246398-frogger.json](./246398-frogger.json) |
+| Frogger | 261991 | [261991-frogger.json](./261991-frogger.json) |
 | Frogger | 282741 | [282741-frogger.json](./282741-frogger.json) |
 | Frogger | 288260 | [288260-frogger.json](./288260-frogger.json) |
 | Frogger | 288264 | [288264-frogger.json](./288264-frogger.json) |
