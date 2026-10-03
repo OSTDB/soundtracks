@@ -2989,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demake86 | 412460 | [412460-demake86.json](./412460-demake86.json) |
 | Demand Dial Exorcist | 366888 | [366888-demand-dial-exorcist.json](./366888-demand-dial-exorcist.json) |
 | Deme Game | 300338 | [300338-deme-game.json](./300338-deme-game.json) |
+| Demegraunt | 265865 | [265865-demegraunt.json](./265865-demegraunt.json) |
 | Demencia | 202352 | [202352-demencia.json](./202352-demencia.json) |
 | Dementia | 184583 | [184583-dementia.json](./184583-dementia.json) |
 | Dementium II HD | 5837 | [5837-dementium-ii-hd.json](./5837-dementium-ii-hd.json) |
