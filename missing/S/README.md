@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sands of Sodis | 231380 | [231380-sands-of-sodis.json](./231380-sands-of-sodis.json) |
 | Sandspiel | 146869 | [146869-sandspiel.json](./146869-sandspiel.json) |
 | Sandstorm Strike Force | 288294 | [288294-sandstorm-strike-force.json](./288294-sandstorm-strike-force.json) |
+| Sandstorm! | 260866 | [260866-sandstorm.json](./260866-sandstorm.json) |
 | SandTable War: Three Kingdoms | 373717 | [373717-sandtable-war-three-kingdoms.json](./373717-sandtable-war-three-kingdoms.json) |
 | SandTest | 146870 | [146870-sandtest.json](./146870-sandtest.json) |
 | Sandtrix | 251225 | [251225-sandtrix.json](./251225-sandtrix.json) |
@@ -1490,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scheming Through the Zombie Apocalypse: Episode 2 - Caged | 110542 | [110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json](./110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json) |
 | Schiffbruch | 76251 | [76251-schiffbruch.json](./76251-schiffbruch.json) |
 | SCHiM | 140799 | [140799-schim.json](./140799-schim.json) |
+| Schism | 260885 | [260885-schism.json](./260885-schism.json) |
 | Schism | 266227 | [266227-schism.json](./266227-schism.json) |
 | Schizo Dark | 368481 | [368481-schizo-dark.json](./368481-schizo-dark.json) |
 | Schizophrenia | 133203 | [133203-schizophrenia.json](./133203-schizophrenia.json) |
@@ -7542,6 +7544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper 3D | 311780 | [311780-sniper-3d.json](./311780-sniper-3d.json) |
 | Sniper 3D: Fun FPS Shooting | 87378 | [87378-sniper-3d-fun-fps-shooting.json](./87378-sniper-3d-fun-fps-shooting.json) |
 | Sniper and Spotter Climbing a Tower | 125950 | [125950-sniper-and-spotter-climbing-a-tower.json](./125950-sniper-and-spotter-climbing-a-tower.json) |
+| Sniper Assassin | 260888 | [260888-sniper-assassin.json](./260888-sniper-assassin.json) |
 | Sniper Assassin 3 | 316087 | [316087-sniper-assassin-3.json](./316087-sniper-assassin-3.json) |
 | Sniper Assassin 3D | 94782 | [94782-sniper-assassin-3d.json](./94782-sniper-assassin-3d.json) |
 | Sniper Assassin 3D Shooter 2 | 104101 | [104101-sniper-assassin-3d-shooter-2.json](./104101-sniper-assassin-3d-shooter-2.json) |
@@ -16098,6 +16101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario In Element World | 267978 | [267978-super-mario-in-element-world.json](./267978-super-mario-in-element-world.json) |
 | Super Mario In Element World 2: The Master Hand Revenge | 267980 | [267980-super-mario-in-element-world-2-the-master-hand-revenge.json](./267980-super-mario-in-element-world-2-the-master-hand-revenge.json) |
 | Super Mario in Marooned on Mars! | 321451 | [321451-super-mario-in-marooned-on-mars.json](./321451-super-mario-in-marooned-on-mars.json) |
+| Super Mario Infinity: Mystery of the Magic Wand | 260850 | [260850-super-mario-infinity-mystery-of-the-magic-wand.json](./260850-super-mario-infinity-mystery-of-the-magic-wand.json) |
 | Super Mario Journey Lane | 281017 | [281017-super-mario-journey-lane.json](./281017-super-mario-journey-lane.json) |
 | Super Mario Journey to Infinity | 313107 | [313107-super-mario-journey-to-infinity.json](./313107-super-mario-journey-to-infinity.json) |
 | Super Mario Kart 8 | 198451 | [198451-super-mario-kart-8.json](./198451-super-mario-kart-8.json) |
