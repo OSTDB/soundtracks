@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Lights | 256241 | [256241-dancing-lights.json](./256241-dancing-lights.json) |
 | Dancing Line | 87048 | [87048-dancing-line.json](./87048-dancing-line.json) |
 | Dancing Monster | 13836 | [13836-dancing-monster.json](./13836-dancing-monster.json) |
+| Dancing Pandas | 236881 | [236881-dancing-pandas.json](./236881-dancing-pandas.json) |
 | Dancing Road: Color Ball Run! | 120309 | [120309-dancing-road-color-ball-run.json](./120309-dancing-road-color-ball-run.json) |
 | Dancing Snake | 89138 | [89138-dancing-snake.json](./89138-dancing-snake.json) |
 | Dancing Stage | 67248 | [67248-dancing-stage.json](./67248-dancing-stage.json) |
@@ -5826,6 +5827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogfight! | 109451 | [109451-dogfight.json](./109451-dogfight.json) |
 | Dogfighter: WW2 | 219033 | [219033-dogfighter-ww2.json](./219033-dogfighter-ww2.json) |
 | Dogforce: Seasons | 179161 | [179161-dogforce-seasons.json](./179161-dogforce-seasons.json) |
+| Doggerfall | 236883 | [236883-doggerfall.json](./236883-doggerfall.json) |
 | Doggie Ninja: The Burning Strikers | 147785 | [147785-doggie-ninja-the-burning-strikers.json](./147785-doggie-ninja-the-burning-strikers.json) |
 | Doggins | 61872 | [61872-doggins.json](./61872-doggins.json) |
 | Doggo | 287098 | [287098-doggo.json](./287098-doggo.json) |
@@ -6224,6 +6226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Pull | 361332 | [361332-dont-pull.json](./361332-dont-pull.json) |
 | Don't Punch Me | 265613 | [265613-dont-punch-me.json](./265613-dont-punch-me.json) |
 | Don't Push Your Luck | 400304 | [400304-dont-push-your-luck.json](./400304-dont-push-your-luck.json) |
+| Don't Remember | 236878 | [236878-dont-remember.json](./236878-dont-remember.json) |
 | Don't Save the Princess | 111468 | [111468-dont-save-the-princess.json](./111468-dont-save-the-princess.json) |
 | Don't Scream Together | 376018 | [376018-dont-scream-together.json](./376018-dont-scream-together.json) |
 | Don't Screw Up! | 233636 | [233636-dont-screw-up.json](./233636-dont-screw-up.json) |
