@@ -2923,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nivoz Running Canned | 244249 | [244249-nivoz-running-canned.json](./244249-nivoz-running-canned.json) |
 | Niwatori ni Natta Ore: Kodoku na Majou to no Itsuka-kan | 258101 | [258101-niwatori-ni-natta-ore-kodoku-na-majou-to-no-itsuka-kan.json](./258101-niwatori-ni-natta-ore-kodoku-na-majou-to-no-itsuka-kan.json) |
 | Nix Umbra | 158504 | [158504-nix-umbra.json](./158504-nix-umbra.json) |
+| Nix: Ashes of the Phoenix | 242601 | [242601-nix-ashes-of-the-phoenix.json](./242601-nix-ashes-of-the-phoenix.json) |
 | Nixie | 267690 | [267690-nixie.json](./267690-nixie.json) |
 | Nixxsz Maids Blazing | 292303 | [292303-nixxsz-maids-blazing.json](./292303-nixxsz-maids-blazing.json) |
 | Nixy and the Seeds of Doom | 363459 | [363459-nixy-and-the-seeds-of-doom.json](./363459-nixy-and-the-seeds-of-doom.json) |
@@ -3581,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Fine | 398354 | [398354-not-fine.json](./398354-not-fine.json) |
 | Not for Broadcast | 122133 | [122133-not-for-broadcast.json](./122133-not-for-broadcast.json) |
 | Not For Broadcast: Complete Edition | 331858 | [331858-not-for-broadcast-complete-edition.json](./331858-not-for-broadcast-complete-edition.json) |
+| Not for Broadcast: Deluxe Edition | 242607 | [242607-not-for-broadcast-deluxe-edition.json](./242607-not-for-broadcast-deluxe-edition.json) |
 | Not For You | 381698 | [381698-not-for-you.json](./381698-not-for-you.json) |
 | Not Guilty! | 353903 | [353903-not-guilty.json](./353903-not-guilty.json) |
 | Not in Heaven | 111102 | [111102-not-in-heaven.json](./111102-not-in-heaven.json) |
