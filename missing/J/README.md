@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Saves Easter | 193479 | [193479-jack-saves-easter.json](./193479-jack-saves-easter.json) |
 | Jack Sprite vs. The Crimson Ghost | 45923 | [45923-jack-sprite-vs-the-crimson-ghost.json](./45923-jack-sprite-vs-the-crimson-ghost.json) |
 | Jack Sprout | 157485 | [157485-jack-sprout.json](./157485-jack-sprout.json) |
+| Jack the Knight Adventures 2 | 243733 | [243733-jack-the-knight-adventures-2.json](./243733-jack-the-knight-adventures-2.json) |
 | Jack The Mime | 402454 | [402454-jack-the-mime.json](./402454-jack-the-mime.json) |
 | Jack the Nipper II: In Coconut Capers | 40944 | [40944-jack-the-nipper-ii-in-coconut-capers.json](./40944-jack-the-nipper-ii-in-coconut-capers.json) |
 | Jack the Ripper | 169989 | [169989-jack-the-ripper.json](./169989-jack-the-ripper.json) |
@@ -976,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Rogue | 355182 | [355182-jigsaw-rogue.json](./355182-jigsaw-rogue.json) |
 | Jigsaw Swimsuit | 326186 | [326186-jigsaw-swimsuit.json](./326186-jigsaw-swimsuit.json) |
 | Jigsaw Tetra | 147981 | [147981-jigsaw-tetra.json](./147981-jigsaw-tetra.json) |
+| Jigsaw Tile | 243736 | [243736-jigsaw-tile.json](./243736-jigsaw-tile.json) |
 | Jigsaw Together | 274752 | [274752-jigsaw-together.json](./274752-jigsaw-together.json) |
 | Jigsaw Tour 2 | 102736 | [102736-jigsaw-tour-2.json](./102736-jigsaw-tour-2.json) |
 | Jigsaw Tour 4 | 104688 | [104688-jigsaw-tour-4.json](./104688-jigsaw-tour-4.json) |
@@ -1764,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpo Joe | 103423 | [103423-jumpo-joe.json](./103423-jumpo-joe.json) |
 | JumpoCalypse | 406124 | [406124-jumpocalypse.json](./406124-jumpocalypse.json) |
 | JumpOut | 300987 | [300987-jumpout.json](./300987-jumpout.json) |
+| Jumpox | 243735 | [243735-jumpox.json](./243735-jumpox.json) |
 | Jumps VR | 156041 | [156041-jumps-vr.json](./156041-jumps-vr.json) |
 | Jumpscare to Live | 374715 | [374715-jumpscare-to-live.json](./374715-jumpscare-to-live.json) |
 | JumpSky | 74472 | [74472-jumpsky.json](./74472-jumpsky.json) |
