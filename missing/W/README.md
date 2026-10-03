@@ -2099,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When The Rumors Become Real | 370185 | [370185-when-the-rumors-become-real.json](./370185-when-the-rumors-become-real.json) |
 | When the Shutter Stops | 109713 | [109713-when-the-shutter-stops.json](./109713-when-the-shutter-stops.json) |
 | When The Snow is Gone | 383352 | [383352-when-the-snow-is-gone.json](./383352-when-the-snow-is-gone.json) |
+| When the Strawberry Muffin Ate a Goth | 249323 | [249323-when-the-strawberry-muffin-ate-a-goth.json](./249323-when-the-strawberry-muffin-ate-a-goth.json) |
 | When The World Became Black | 298134 | [298134-when-the-world-became-black.json](./298134-when-the-world-became-black.json) |
 | When Them Demons Cry | 376021 | [376021-when-them-demons-cry.json](./376021-when-them-demons-cry.json) |
 | When Vikings Attack! | 9123 | [9123-when-vikings-attack.json](./9123-when-vikings-attack.json) |
