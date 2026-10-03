@@ -5912,6 +5912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluewater: Private Military Operations VR | 190066 | [190066-bluewater-private-military-operations-vr.json](./190066-bluewater-private-military-operations-vr.json) |
 | Bluey Wackadoo Watch | 230557 | [230557-bluey-wackadoo-watch.json](./230557-bluey-wackadoo-watch.json) |
 | Bluey x Crossy Road Castle | 403839 | [403839-bluey-x-crossy-road-castle.json](./403839-bluey-x-crossy-road-castle.json) |
+| Bluey: Let's Play! | 266418 | [266418-bluey-lets-play.json](./266418-bluey-lets-play.json) |
 | Bluey: The Videogame | 257332 | [257332-bluey-the-videogame.json](./257332-bluey-the-videogame.json) |
 | Bluff with Ash | 303171 | [303171-bluff-with-ash.json](./303171-bluff-with-ash.json) |
 | Bluff: Fun Family Card Game | 227852 | [227852-bluff-fun-family-card-game.json](./227852-bluff-fun-family-card-game.json) |
