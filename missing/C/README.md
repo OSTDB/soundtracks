@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
 | Capsule Servant | 121441 | [121441-capsule-servant.json](./121441-capsule-servant.json) |
 | Capsule Silence XXIV | 58737 | [58737-capsule-silence-xxiv.json](./58737-capsule-silence-xxiv.json) |
+| CapsuleToy | 232586 | [232586-capsuletoy.json](./232586-capsuletoy.json) |
 | Capsulitas | 390201 | [390201-capsulitas.json](./390201-capsulitas.json) |
 | Capt Crabs a Slimy Adventure | 249821 | [249821-capt-crabs-a-slimy-adventure.json](./249821-capt-crabs-a-slimy-adventure.json) |
 | Captain 25 | 346086 | [346086-captain-25.json](./346086-captain-25.json) |
@@ -3893,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop | 89682 | [89682-chop.json](./89682-chop.json) |
 | Chop Chains | 386731 | [386731-chop-chains.json](./386731-chop-chains.json) |
 | Chop Chop Inc. | 398967 | [398967-chop-chop-inc.json](./398967-chop-chop-inc.json) |
+| Chop Chop Kicker | 232489 | [232489-chop-chop-kicker.json](./232489-chop-chop-kicker.json) |
 | Chop Chop Princess! | 75028 | [75028-chop-chop-princess.json](./75028-chop-chop-princess.json) |
 | Chop Chop Together | 392147 | [392147-chop-chop-together.json](./392147-chop-chop-together.json) |
 | Chop Signal | 389455 | [389455-chop-signal.json](./389455-chop-signal.json) |
@@ -4789,6 +4791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan Wars | 356284 | [356284-clan-wars.json](./356284-clan-wars.json) |
 | Clandestine | 14465 | [14465-clandestine.json](./14465-clandestine.json) |
 | Clandestine Castle Crashing | 262566 | [262566-clandestine-castle-crashing.json](./262566-clandestine-castle-crashing.json) |
+| Clandestine: Anomaly | 232502 | [232502-clandestine-anomaly.json](./232502-clandestine-anomaly.json) |
 | Clankers! | 376050 | [376050-clankers.json](./376050-clankers.json) |
 | Clannad | 262473 | [262473-clannad.json](./262473-clannad.json) |
 | Clannad | 262492 | [262492-clannad.json](./262492-clannad.json) |
@@ -10304,6 +10307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberjump | 264201 | [264201-cyberjump.json](./264201-cyberjump.json) |
 | Cyberkiller2049 | 320821 | [320821-cyberkiller2049.json](./320821-cyberkiller2049.json) |
 | CyberKitty: Neon Merge | 415858 | [415858-cyberkitty-neon-merge.json](./415858-cyberkitty-neon-merge.json) |
+| Cyberlaser | 232508 | [232508-cyberlaser.json](./232508-cyberlaser.json) |
 | Cyberlinxx | 236952 | [236952-cyberlinxx.json](./236952-cyberlinxx.json) |
 | Cyberlords Arcology | 374290 | [374290-cyberlords-arcology.json](./374290-cyberlords-arcology.json) |
 | Cybermage: Darklight Awakening | 18998 | [18998-cybermage-darklight-awakening.json](./18998-cybermage-darklight-awakening.json) |
