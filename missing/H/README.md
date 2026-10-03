@@ -256,6 +256,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2: Capture the Flag | 221720 | [221720-half-life-2-capture-the-flag.json](./221720-half-life-2-capture-the-flag.json) |
 | Half-Life 2: Collector's Edition | 237394 | [237394-half-life-2-collectors-edition.json](./237394-half-life-2-collectors-edition.json) |
 | Half-Life 2: Game of the Year Edition | 314459 | [314459-half-life-2-game-of-the-year-edition.json](./314459-half-life-2-game-of-the-year-edition.json) |
+| Half-Life 2: MMod - Half-Life 2: Episode One | 271414 | [271414-half-life-2-mmod-half-life-2-episode-one.json](./271414-half-life-2-mmod-half-life-2-episode-one.json) |
+| Half-Life 2: MMod - Half-Life 2: Episode Two | 271415 | [271415-half-life-2-mmod-half-life-2-episode-two.json](./271415-half-life-2-mmod-half-life-2-episode-two.json) |
 | Half-Life 2: MMod - Half-Life 2: Update | 267639 | [267639-half-life-2-mmod-half-life-2-update.json](./267639-half-life-2-mmod-half-life-2-update.json) |
 | Half-Life 2: MMod - Minerva | 270708 | [270708-half-life-2-mmod-minerva.json](./270708-half-life-2-mmod-minerva.json) |
 | Half-Life 2: Survivor | 320851 | [320851-half-life-2-survivor.json](./320851-half-life-2-survivor.json) |
@@ -1258,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haul My Home | 415256 | [415256-haul-my-home.json](./415256-haul-my-home.json) |
 | Haulin' Oats | 192829 | [192829-haulin-oats.json](./192829-haulin-oats.json) |
 | Hauling Away | 208276 | [208276-hauling-away.json](./208276-hauling-away.json) |
+| Hauma: A Detective Noir Story - Prologue | 271419 | [271419-hauma-a-detective-noir-story-prologue.json](./271419-hauma-a-detective-noir-story-prologue.json) |
 | Haunt | 20245 | [20245-haunt.json](./20245-haunt.json) |
 | Haunt | 383487 | [383487-haunt.json](./383487-haunt.json) |
 | Haunt | 384773 | [384773-haunt.json](./384773-haunt.json) |
@@ -1499,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head over Heels | 322797 | [322797-head-over-heels.json](./322797-head-over-heels.json) |
 | Head Over Heels | 121632 | [121632-head-over-heels.json](./121632-head-over-heels.json) |
 | Head Over Heels | 208281 | [208281-head-over-heels.json](./208281-head-over-heels.json) |
+| Head Over Heels: Monster Girl Dating Sim | 271397 | [271397-head-over-heels-monster-girl-dating-sim.json](./271397-head-over-heels-monster-girl-dating-sim.json) |
 | Head Panic | 39683 | [39683-head-panic.json](./39683-head-panic.json) |
 | Head Reattachment Trauma | 271249 | [271249-head-reattachment-trauma.json](./271249-head-reattachment-trauma.json) |
 | Head Shot | 32472 | [32472-head-shot.json](./32472-head-shot.json) |
@@ -2306,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help, I cast the wrong spell! | 180802 | [180802-help-i-cast-the-wrong-spell.json](./180802-help-i-cast-the-wrong-spell.json) |
 | Help! I've Been Cursed With A Bubble Butt | 337469 | [337469-help-ive-been-cursed-with-a-bubble-butt.json](./337469-help-ive-been-cursed-with-a-bubble-butt.json) |
 | Help! My New Roommate Is a Hung Goth Futanari Ghost! | 369164 | [369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json](./369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json) |
+| Helper to Hero | 271410 | [271410-helper-to-hero.json](./271410-helper-to-hero.json) |
 | Helping Hand | 104858 | [104858-helping-hand.json](./104858-helping-hand.json) |
 | Helping Hand | 365739 | [365739-helping-hand.json](./365739-helping-hand.json) |
 | Heltons Haunted Hotel | 148371 | [148371-heltons-haunted-hotel.json](./148371-heltons-haunted-hotel.json) |
@@ -4639,6 +4644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homestead Online | 337668 | [337668-homestead-online.json](./337668-homestead-online.json) |
 | Hometown Poker Hero | 54085 | [54085-hometown-poker-hero.json](./54085-hometown-poker-hero.json) |
 | Homeward | 188126 | [188126-homeward.json](./188126-homeward.json) |
+| Homeward | 271395 | [271395-homeward.json](./271395-homeward.json) |
 | Homeward in the Roil | 345596 | [345596-homeward-in-the-roil.json](./345596-homeward-in-the-roil.json) |
 | Homewords | 153947 | [153947-homewords.json](./153947-homewords.json) |
 | Homework is Crazy | 118334 | [118334-homework-is-crazy.json](./118334-homework-is-crazy.json) |
