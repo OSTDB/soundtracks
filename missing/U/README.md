@@ -1123,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unholy Adventure 2 | 295933 | [295933-unholy-adventure-2.json](./295933-unholy-adventure-2.json) |
 | Unholy Adventure: Mystery | 381711 | [381711-unholy-adventure-mystery.json](./381711-unholy-adventure-mystery.json) |
 | Unholy Alliance: Tower Defense | 163223 | [163223-unholy-alliance-tower-defense.json](./163223-unholy-alliance-tower-defense.json) |
+| Unholy Angel | 237450 | [237450-unholy-angel.json](./237450-unholy-angel.json) |
 | Unholy Angel 2 | 243066 | [243066-unholy-angel-2.json](./243066-unholy-angel-2.json) |
 | Unholy Arts | 135882 | [135882-unholy-arts.json](./135882-unholy-arts.json) |
 | Unholy Eyeballs | 177945 | [177945-unholy-eyeballs.json](./177945-unholy-eyeballs.json) |
