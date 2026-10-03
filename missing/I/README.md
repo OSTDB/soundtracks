@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ichigo 100%: Strawberry Diary | 77404 | [77404-ichigo-100-strawberry-diary.json](./77404-ichigo-100-strawberry-diary.json) |
 | Ichigo's Study Sessions | 361345 | [361345-ichigos-study-sessions.json](./361345-ichigos-study-sessions.json) |
 | Ichikoi | 412544 | [412544-ichikoi.json](./412544-ichikoi.json) |
+| Ichima-san | 258631 | [258631-ichima-san.json](./258631-ichima-san.json) |
 | Ichinichi | 262988 | [262988-ichinichi.json](./262988-ichinichi.json) |
 | Ichiro Shounen Kitan | 150557 | [150557-ichiro-shounen-kitan.json](./150557-ichiro-shounen-kitan.json) |
 | Ichizu na Kanojo to Koi Shitai | 402486 | [402486-ichizu-na-kanojo-to-koi-shitai.json](./402486-ichizu-na-kanojo-to-koi-shitai.json) |
@@ -2663,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Gorian's Den | 275014 | [275014-into-the-gorians-den.json](./275014-into-the-gorians-den.json) |
 | Into the Grid | 277005 | [277005-into-the-grid.json](./277005-into-the-grid.json) |
 | Into The Haunted Land | 403833 | [403833-into-the-haunted-land.json](./403833-into-the-haunted-land.json) |
+| Into the Inferno | 258629 | [258629-into-the-inferno.json](./258629-into-the-inferno.json) |
 | Into the Loop | 153843 | [153843-into-the-loop.json](./153843-into-the-loop.json) |
 | Into the M.A.W. | 309857 | [309857-into-the-m-a-w.json](./309857-into-the-m-a-w.json) |
 | Into the Midnight | 159740 | [159740-into-the-midnight.json](./159740-into-the-midnight.json) |
@@ -2786,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inventor Labs | 94242 | [94242-inventor-labs.json](./94242-inventor-labs.json) |
 | Inventor’s Cabin | 381622 | [381622-inventor-s-cabin.json](./381622-inventor-s-cabin.json) |
 | Inventorious | 181236 | [181236-inventorious.json](./181236-inventorious.json) |
+| Inventorix | 258604 | [258604-inventorix.json](./258604-inventorix.json) |
 | Inventory Full | 338833 | [338833-inventory-full.json](./338833-inventory-full.json) |
 | Inventris TD | 319009 | [319009-inventris-td.json](./319009-inventris-td.json) |
 | Inverness Nights | 134676 | [134676-inverness-nights.json](./134676-inverness-nights.json) |
