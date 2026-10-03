@@ -2242,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Speed | 264708 | [264708-knight-speed.json](./264708-knight-speed.json) |
 | Knight Squad 2 | 137112 | [137112-knight-squad-2.json](./137112-knight-squad-2.json) |
 | Knight Throde | 157071 | [157071-knight-throde.json](./157071-knight-throde.json) |
+| Knight Versus Demon | 277518 | [277518-knight-versus-demon.json](./277518-knight-versus-demon.json) |
 | Knight Without Sword | 263587 | [263587-knight-without-sword.json](./263587-knight-without-sword.json) |
 | Knight-Blade: Howling of Kerberos | 324886 | [324886-knight-blade-howling-of-kerberos.json](./324886-knight-blade-howling-of-kerberos.json) |
 | Knight's Apprentice, Memorick's Adventures | 70469 | [70469-knights-apprentice-memoricks-adventures.json](./70469-knights-apprentice-memoricks-adventures.json) |
