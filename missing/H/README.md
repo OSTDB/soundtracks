@@ -3851,6 +3851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway 2000 | 46097 | [46097-highway-2000.json](./46097-highway-2000.json) |
 | Highway Bus Rush | 352316 | [352316-highway-bus-rush.json](./352316-highway-bus-rush.json) |
 | Highway Cleaner | 234607 | [234607-highway-cleaner.json](./234607-highway-cleaner.json) |
+| Highway Crossing Madruga | 252898 | [252898-highway-crossing-madruga.json](./252898-highway-crossing-madruga.json) |
 | Highway Drifter: Hajwala Simulator | 284927 | [284927-highway-drifter-hajwala-simulator.json](./284927-highway-drifter-hajwala-simulator.json) |
 | Highway Driving Simulator | 108449 | [108449-highway-driving-simulator.json](./108449-highway-driving-simulator.json) |
 | Highway Game | 126611 | [126611-highway-game.json](./126611-highway-game.json) |
@@ -5356,7 +5357,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed 2: Season Pass Vol. 2 | 293137 | [293137-hot-wheels-unleashed-2-season-pass-vol-2.json](./293137-hot-wheels-unleashed-2-season-pass-vol-2.json) |
 | Hot Wheels Unleashed 2: Turbocharged - AcceleRacers All-Star Pack | 271933 | [271933-hot-wheels-unleashed-2-turbocharged-acceleracers-all-star-pack.json](./271933-hot-wheels-unleashed-2-turbocharged-acceleracers-all-star-pack.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Day One Edition | 252166 | [252166-hot-wheels-unleashed-2-turbocharged-day-one-edition.json](./252166-hot-wheels-unleashed-2-turbocharged-day-one-edition.json) |
+| Hot Wheels Unleashed 2: Turbocharged - Deluxe Edition | 252887 | [252887-hot-wheels-unleashed-2-turbocharged-deluxe-edition.json](./252887-hot-wheels-unleashed-2-turbocharged-deluxe-edition.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Fast X Pack | 274109 | [274109-hot-wheels-unleashed-2-turbocharged-fast-x-pack.json](./274109-hot-wheels-unleashed-2-turbocharged-fast-x-pack.json) |
+| Hot Wheels Unleashed 2: Turbocharged - Legendary Edition | 252888 | [252888-hot-wheels-unleashed-2-turbocharged-legendary-edition.json](./252888-hot-wheels-unleashed-2-turbocharged-legendary-edition.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Manga Free Pack | 277831 | [277831-hot-wheels-unleashed-2-turbocharged-manga-free-pack.json](./277831-hot-wheels-unleashed-2-turbocharged-manga-free-pack.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Pure Fire Edition | 252165 | [252165-hot-wheels-unleashed-2-turbocharged-pure-fire-edition.json](./252165-hot-wheels-unleashed-2-turbocharged-pure-fire-edition.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Speed and Style Pack | 274107 | [274107-hot-wheels-unleashed-2-turbocharged-speed-and-style-pack.json](./274107-hot-wheels-unleashed-2-turbocharged-speed-and-style-pack.json) |
