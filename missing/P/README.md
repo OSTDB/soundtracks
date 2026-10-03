@@ -1059,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradox: The Novel | 197783 | [197783-paradox-the-novel.json](./197783-paradox-the-novel.json) |
 | Paradox! | 329952 | [329952-paradox.json](./329952-paradox.json) |
 | Paradoxical Heat | 327179 | [327179-paradoxical-heat.json](./327179-paradoxical-heat.json) |
+| Paradream | 237455 | [237455-paradream.json](./237455-paradream.json) |
 | Paradroid | 22518 | [22518-paradroid.json](./22518-paradroid.json) |
 | Paradroid 90 | 13253 | [13253-paradroid-90.json](./13253-paradroid-90.json) |
 | Paraedolon | 320011 | [320011-paraedolon.json](./320011-paraedolon.json) |
@@ -2853,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phil | 199371 | [199371-phil.json](./199371-phil.json) |
 | Phil Alone | 222828 | [222828-phil-alone.json](./222828-phil-alone.json) |
 | Phil of the Future | 49387 | [49387-phil-of-the-future.json](./49387-phil-of-the-future.json) |
+| Phil the Pill: Interstellar | 237437 | [237437-phil-the-pill-interstellar.json](./237437-phil-the-pill-interstellar.json) |
 | Phil's Contract | 312184 | [312184-phils-contract.json](./312184-phils-contract.json) |
 | Phileas Fogg's Balloon Battles | 98235 | [98235-phileas-foggs-balloon-battles.json](./98235-phileas-foggs-balloon-battles.json) |
 | Philomel | 341582 | [341582-philomel.json](./341582-philomel.json) |
@@ -4439,6 +4441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelpusher | 177003 | [177003-pixelpusher.json](./177003-pixelpusher.json) |
 | PixelRulers | 360681 | [360681-pixelrulers.json](./360681-pixelrulers.json) |
 | Pixelry | 50848 | [50848-pixelry.json](./50848-pixelry.json) |
+| Pixels | 237448 | [237448-pixels.json](./237448-pixels.json) |
 | Pixels | 265566 | [265566-pixels.json](./265566-pixels.json) |
 | Pixels Defense | 60003 | [60003-pixels-defense.json](./60003-pixels-defense.json) |
 | Pixels filling Squares DX | 101729 | [101729-pixels-filling-squares-dx.json](./101729-pixels-filling-squares-dx.json) |
@@ -5210,6 +5213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Ants | 193954 | [193954-pocket-ants.json](./193954-pocket-ants.json) |
 | Pocket Arcade Story DX | 208033 | [208033-pocket-arcade-story-dx.json](./208033-pocket-arcade-story-dx.json) |
 | Pocket Assault | 118818 | [118818-pocket-assault.json](./118818-pocket-assault.json) |
+| Pocket Battles: NFT War | 237445 | [237445-pocket-battles-nft-war.json](./237445-pocket-battles-nft-war.json) |
 | Pocket Billiard Funk: The 9 Ball | 50558 | [50558-pocket-billiard-funk-the-9-ball.json](./50558-pocket-billiard-funk-the-9-ball.json) |
 | Pocket Billiards! | 41559 | [41559-pocket-billiards.json](./41559-pocket-billiards.json) |
 | Pocket Bite d20 | 184616 | [184616-pocket-bite-d20.json](./184616-pocket-bite-d20.json) |
@@ -6486,6 +6490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porcuball | 96122 | [96122-porcuball.json](./96122-porcuball.json) |
 | Porcupine's Fate: Chapter 1 | 196694 | [196694-porcupines-fate-chapter-1.json](./196694-porcupines-fate-chapter-1.json) |
 | Porgy | 318416 | [318416-porgy.json](./318416-porgy.json) |
+| Porkchop's Horror Show | 237438 | [237438-porkchops-horror-show.json](./237438-porkchops-horror-show.json) |
 | Porkerpillar | 89209 | [89209-porkerpillar.json](./89209-porkerpillar.json) |
 | Porklike: Wurst Comes to Worst Gameboy | 311700 | [311700-porklike-wurst-comes-to-worst-gameboy.json](./311700-porklike-wurst-comes-to-worst-gameboy.json) |
 | Porkotyler's Captain Dodger | 241434 | [241434-porkotylers-captain-dodger.json](./241434-porkotylers-captain-dodger.json) |
@@ -7579,6 +7584,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2018 | 28862 | [28862-pro-evolution-soccer-2018.json](./28862-pro-evolution-soccer-2018.json) |
 | Pro Evolution Soccer 2019 | 240471 | [240471-pro-evolution-soccer-2019.json](./240471-pro-evolution-soccer-2019.json) |
 | Pro Evolution Soccer 2019 | 240473 | [240473-pro-evolution-soccer-2019.json](./240473-pro-evolution-soccer-2019.json) |
+| Pro Evolution Soccer 6: Apertura 2008 | 237546 | [237546-pro-evolution-soccer-6-apertura-2008.json](./237546-pro-evolution-soccer-6-apertura-2008.json) |
+| Pro Evolution Soccer 6: Legends 2 | 237547 | [237547-pro-evolution-soccer-6-legends-2.json](./237547-pro-evolution-soccer-6-legends-2.json) |
 | Pro Evolution Soccer 6: The Den Patch | 278048 | [278048-pro-evolution-soccer-6-the-den-patch.json](./278048-pro-evolution-soccer-6-the-den-patch.json) |
 | Pro Evolution Soccer Collection | 261262 | [261262-pro-evolution-soccer-collection.json](./261262-pro-evolution-soccer-collection.json) |
 | Pro Farm Manager | 75108 | [75108-pro-farm-manager.json](./75108-pro-farm-manager.json) |
