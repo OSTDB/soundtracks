@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kataribesou: Ensouki | 229386 | [229386-kataribesou-ensouki.json](./229386-kataribesou-ensouki.json) |
 | Katarina's Farm | 254619 | [254619-katarinas-farm.json](./254619-katarinas-farm.json) |
 | Kataude no Zarigani: One-armed Crayfish | 330536 | [330536-kataude-no-zarigani-one-armed-crayfish.json](./330536-kataude-no-zarigani-one-armed-crayfish.json) |
+| Katawa Crash | 251077 | [251077-katawa-crash.json](./251077-katawa-crash.json) |
 | KatchFoundry | 397209 | [397209-katchfoundry.json](./397209-katchfoundry.json) |
 | Kate Don't Wait | 180018 | [180018-kate-dont-wait.json](./180018-kate-dont-wait.json) |
 | Kate Goes to Wildflower Grove | 177415 | [177415-kate-goes-to-wildflower-grove.json](./177415-kate-goes-to-wildflower-grove.json) |
@@ -2076,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Burst | 201690 | [201690-kitten-burst.json](./201690-kitten-burst.json) |
 | Kitten Cannon | 25889 | [25889-kitten-cannon.json](./25889-kitten-cannon.json) |
 | Kitten Coliseum | 388230 | [388230-kitten-coliseum.json](./388230-kitten-coliseum.json) |
+| Kitten Island | 251112 | [251112-kitten-island.json](./251112-kitten-island.json) |
 | Kitten Kaboodle | 40236 | [40236-kitten-kaboodle.json](./40236-kitten-kaboodle.json) |
 | Kitten Life Simulator | 97496 | [97496-kitten-life-simulator.json](./97496-kitten-life-simulator.json) |
 | Kitten Lost Her Box | 235490 | [235490-kitten-lost-her-box.json](./235490-kitten-lost-her-box.json) |
