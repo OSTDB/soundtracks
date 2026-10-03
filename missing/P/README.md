@@ -2606,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz: Hamsterz Life 2 | 49474 | [49474-petz-hamsterz-life-2.json](./49474-petz-hamsterz-life-2.json) |
 | Petz: Nursery | 44062 | [44062-petz-nursery.json](./44062-petz-nursery.json) |
 | Peur Sur Amityville | 174635 | [174635-peur-sur-amityville.json](./174635-peur-sur-amityville.json) |
+| Pew Pew Crew! | 265309 | [265309-pew-pew-crew.json](./265309-pew-pew-crew.json) |
 | Pew Pew Gaem 3 | 326260 | [326260-pew-pew-gaem-3.json](./326260-pew-pew-gaem-3.json) |
 | Pew Pew Squad | 273440 | [273440-pew-pew-squad.json](./273440-pew-pew-squad.json) |
 | Pew Pew Zombies | 88300 | [88300-pew-pew-zombies.json](./88300-pew-pew-zombies.json) |
@@ -2709,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom breaker battle grounds over drive | 99779 | [99779-phantom-breaker-battle-grounds-over-drive.json](./99779-phantom-breaker-battle-grounds-over-drive.json) |
 | Phantom Breaker: Battle Grounds Ultimate | 319268 | [319268-phantom-breaker-battle-grounds-ultimate.json](./319268-phantom-breaker-battle-grounds-ultimate.json) |
 | Phantom Brigade | 69488 | [69488-phantom-brigade.json](./69488-phantom-brigade.json) |
+| Phantom Cell | 265310 | [265310-phantom-cell.json](./265310-phantom-cell.json) |
 | Phantom City | 317826 | [317826-phantom-city.json](./317826-phantom-city.json) |
 | Phantom Club | 55017 | [55017-phantom-club.json](./55017-phantom-club.json) |
 | Phantom Demon Siege | 345026 | [345026-phantom-demon-siege.json](./345026-phantom-demon-siege.json) |
@@ -7906,6 +7908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Omega | 70397 | [70397-project-omega.json](./70397-project-omega.json) |
 | Project One | 118347 | [118347-project-one.json](./118347-project-one.json) |
 | Project Onne | 400283 | [400283-project-onne.json](./400283-project-onne.json) |
+| Project Otherside | 265307 | [265307-project-otherside.json](./265307-project-otherside.json) |
 | Project Overkill | 20804 | [20804-project-overkill.json](./20804-project-overkill.json) |
 | Project Overnet | 272949 | [272949-project-overnet.json](./272949-project-overnet.json) |
 | Project P.I.T.T. | 379356 | [379356-project-p-i-t-t.json](./379356-project-p-i-t-t.json) |
