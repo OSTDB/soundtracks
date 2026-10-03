@@ -2407,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erogods: Olympus | 275043 | [275043-erogods-olympus.json](./275043-erogods-olympus.json) |
 | Erogods: Sunrise | 312085 | [312085-erogods-sunrise.json](./312085-erogods-sunrise.json) |
 | Erophone | 156555 | [156555-erophone.json](./156555-erophone.json) |
+| Erophone:Re | 239715 | [239715-erophone-re.json](./239715-erophone-re.json) |
 | Eros Fantasy | 199606 | [199606-eros-fantasy.json](./199606-eros-fantasy.json) |
 | Eros Myth | 176467 | [176467-eros-myth.json](./176467-eros-myth.json) |
 | Erosion | 177437 | [177437-erosion.json](./177437-erosion.json) |
