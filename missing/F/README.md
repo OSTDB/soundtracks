@@ -4149,6 +4149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Chef | 382889 | [382889-fluffy-chef.json](./382889-fluffy-chef.json) |
 | Fluffy Creatures vs. The World | 28808 | [28808-fluffy-creatures-vs-the-world.json](./28808-fluffy-creatures-vs-the-world.json) |
 | Fluffy Cubed | 152762 | [152762-fluffy-cubed.json](./152762-fluffy-cubed.json) |
+| Fluffy Developers | 274685 | [274685-fluffy-developers.json](./274685-fluffy-developers.json) |
 | Fluffy Doki Sunshine | 274980 | [274980-fluffy-doki-sunshine.json](./274980-fluffy-doki-sunshine.json) |
 | Fluffy Fall | 87172 | [87172-fluffy-fall.json](./87172-fluffy-fall.json) |
 | Fluffy Friends | 57040 | [57040-fluffy-friends.json](./57040-fluffy-friends.json) |
@@ -4620,6 +4621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Marching Fire Expansion Pack | 227360 | [227360-for-honor-marching-fire-expansion-pack.json](./227360-for-honor-marching-fire-expansion-pack.json) |
 | For Honor: Master Katashi - Orochi Hero Skin | 305768 | [305768-for-honor-master-katashi-orochi-hero-skin.json](./305768-for-honor-master-katashi-orochi-hero-skin.json) |
 | For Honor: Medjay Hero | 227337 | [227337-for-honor-medjay-hero.json](./227337-for-honor-medjay-hero.json) |
+| For Honor: Monkey King Hero | 274654 | [274654-for-honor-monkey-king-hero.json](./274654-for-honor-monkey-king-hero.json) |
 | For Honor: Naoe the Swift – Shinobi Hero Skin | 408891 | [408891-for-honor-naoe-the-swift-shinobi-hero-skin.json](./408891-for-honor-naoe-the-swift-shinobi-hero-skin.json) |
 | For Honor: Pirate Hero | 227338 | [227338-for-honor-pirate-hero.json](./227338-for-honor-pirate-hero.json) |
 | For Honor: Pirate Hero Skin | 241964 | [241964-for-honor-pirate-hero-skin.json](./241964-for-honor-pirate-hero-skin.json) |
