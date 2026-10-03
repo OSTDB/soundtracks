@@ -1601,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate & Inflation | 391721 | [391721-fate-and-inflation.json](./391721-fate-and-inflation.json) |
 | Fate Architect | 381864 | [381864-fate-architect.json](./381864-fate-architect.json) |
 | Fate Chapter 2: The Beginning | 178414 | [178414-fate-chapter-2-the-beginning.json](./178414-fate-chapter-2-the-beginning.json) |
+| Fate Chessboard | 247677 | [247677-fate-chessboard.json](./247677-fate-chessboard.json) |
 | Fate Collectors | 253957 | [253957-fate-collectors.json](./253957-fate-collectors.json) |
 | Fate Commander: Fighting | 273095 | [273095-fate-commander-fighting.json](./273095-fate-commander-fighting.json) |
 | Fate Dealer | 378160 | [378160-fate-dealer.json](./378160-fate-dealer.json) |
