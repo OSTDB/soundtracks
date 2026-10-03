@@ -2098,14 +2098,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellevator | 417429 | [417429-hellevator.json](./417429-hellevator.json) |
 | Hellevators | 286035 | [286035-hellevators.json](./286035-hellevators.json) |
 | Hellfighter | 92458 | [92458-hellfighter.json](./92458-hellfighter.json) |
+| Hellfire | 274129 | [274129-hellfire.json](./274129-hellfire.json) |
 | Hellfire | 319022 | [319022-hellfire.json](./319022-hellfire.json) |
 | Hellfire | 321796 | [321796-hellfire.json](./321796-hellfire.json) |
 | Hellfire | 370763 | [370763-hellfire.json](./370763-hellfire.json) |
+| Hellfire 2 | 274130 | [274130-hellfire-2.json](./274130-hellfire-2.json) |
 | Hellfire Attack | 71587 | [71587-hellfire-attack.json](./71587-hellfire-attack.json) |
 | Hellfire Hair | 391301 | [391301-hellfire-hair.json](./391301-hellfire-hair.json) |
 | Hellfire Poncho | 283754 | [283754-hellfire-poncho.json](./283754-hellfire-poncho.json) |
 | Hellfire Saga | 234906 | [234906-hellfire-saga.json](./234906-hellfire-saga.json) |
 | Hellfire Zone | 68755 | [68755-hellfire-zone.json](./68755-hellfire-zone.json) |
+| Hellfire: Reborn | 274131 | [274131-hellfire-reborn.json](./274131-hellfire-reborn.json) |
 | HellFire: The Summoning | 27690 | [27690-hellfire-the-summoning.json](./27690-hellfire-the-summoning.json) |
 | HellFurnace | 237951 | [237951-hellfurnace.json](./237951-hellfurnace.json) |
 | Hellgate | 125403 | [125403-hellgate.json](./125403-hellgate.json) |
@@ -5275,8 +5278,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed 2: Rust and Fast Pack | 254427 | [254427-hot-wheels-unleashed-2-rust-and-fast-pack.json](./254427-hot-wheels-unleashed-2-rust-and-fast-pack.json) |
 | Hot Wheels Unleashed 2: Season Pass Vol. 2 | 293137 | [293137-hot-wheels-unleashed-2-season-pass-vol-2.json](./293137-hot-wheels-unleashed-2-season-pass-vol-2.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Day One Edition | 252166 | [252166-hot-wheels-unleashed-2-turbocharged-day-one-edition.json](./252166-hot-wheels-unleashed-2-turbocharged-day-one-edition.json) |
+| Hot Wheels Unleashed 2: Turbocharged - Fast X Pack | 274109 | [274109-hot-wheels-unleashed-2-turbocharged-fast-x-pack.json](./274109-hot-wheels-unleashed-2-turbocharged-fast-x-pack.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Manga Free Pack | 277831 | [277831-hot-wheels-unleashed-2-turbocharged-manga-free-pack.json](./277831-hot-wheels-unleashed-2-turbocharged-manga-free-pack.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Pure Fire Edition | 252165 | [252165-hot-wheels-unleashed-2-turbocharged-pure-fire-edition.json](./252165-hot-wheels-unleashed-2-turbocharged-pure-fire-edition.json) |
+| Hot Wheels Unleashed 2: Turbocharged - Speed and Style Pack | 274107 | [274107-hot-wheels-unleashed-2-turbocharged-speed-and-style-pack.json](./274107-hot-wheels-unleashed-2-turbocharged-speed-and-style-pack.json) |
 | Hot Wheels Unleashed 2: Twin Mill (Unleashed Edition) | 271777 | [271777-hot-wheels-unleashed-2-twin-mill-unleashed-edition.json](./271777-hot-wheels-unleashed-2-twin-mill-unleashed-edition.json) |
 | Hot Wheels Unleashed: Challenge Accepted Edition | 146181 | [146181-hot-wheels-unleashed-challenge-accepted-edition.json](./146181-hot-wheels-unleashed-challenge-accepted-edition.json) |
 | Hot Wheels Unleashed: Collector's Edition | 169204 | [169204-hot-wheels-unleashed-collectors-edition.json](./169204-hot-wheels-unleashed-collectors-edition.json) |
