@@ -2823,10 +2823,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 3: Nemesis - Seamless HD Project | 322046 | [322046-resident-evil-3-nemesis-seamless-hd-project.json](./322046-resident-evil-3-nemesis-seamless-hd-project.json) |
 | Resident Evil 4: Berserker | 356696 | [356696-resident-evil-4-berserker.json](./356696-resident-evil-4-berserker.json) |
 | Resident Evil 4: Collector's Edition | 24211 | [24211-resident-evil-4-collectors-edition.json](./24211-resident-evil-4-collectors-edition.json) |
+| Resident Evil 4: Extra DLC Pack | 266401 | [266401-resident-evil-4-extra-dlc-pack.json](./266401-resident-evil-4-extra-dlc-pack.json) |
 | Resident Evil 4: Gold Edition | 284920 | [284920-resident-evil-4-gold-edition.json](./284920-resident-evil-4-gold-edition.json) |
 | Resident Evil 4: Limited Edition | 145054 | [145054-resident-evil-4-limited-edition.json](./145054-resident-evil-4-limited-edition.json) |
 | Resident Evil 4: Otome Edition | 29145 | [29145-resident-evil-4-otome-edition.json](./29145-resident-evil-4-otome-edition.json) |
 | Resident Evil 4: The Mercenaries - Separate Ways Update | 266859 | [266859-resident-evil-4-the-mercenaries-separate-ways-update.json](./266859-resident-evil-4-the-mercenaries-separate-ways-update.json) |
+| Resident Evil 4: Treasure Map - Expansion | 266389 | [266389-resident-evil-4-treasure-map-expansion.json](./266389-resident-evil-4-treasure-map-expansion.json) |
 | Resident Evil 4: Ultimate HD Edition | 24223 | [24223-resident-evil-4-ultimate-hd-edition.json](./24223-resident-evil-4-ultimate-hd-edition.json) |
 | Resident Evil 4: VR Mode | 250644 | [250644-resident-evil-4-vr-mode.json](./250644-resident-evil-4-vr-mode.json) |
 | Resident Evil 4: Zeebo Edition | 227780 | [227780-resident-evil-4-zeebo-edition.json](./227780-resident-evil-4-zeebo-edition.json) |
@@ -5041,6 +5043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Buddies - Aztek Gold | 96227 | [96227-rogue-buddies-aztek-gold.json](./96227-rogue-buddies-aztek-gold.json) |
 | Rogue Carrier | 409641 | [409641-rogue-carrier.json](./409641-rogue-carrier.json) |
 | Rogue Citadel | 299379 | [299379-rogue-citadel.json](./299379-rogue-citadel.json) |
+| Rogue City: Casual Top Down Shooter | 266434 | [266434-rogue-city-casual-top-down-shooter.json](./266434-rogue-city-casual-top-down-shooter.json) |
 | Rogue Climber | 312746 | [312746-rogue-climber.json](./312746-rogue-climber.json) |
 | Rogue Company | 122235 | [122235-rogue-company.json](./122235-rogue-company.json) |
 | Rogue Company Mobile | 175694 | [175694-rogue-company-mobile.json](./175694-rogue-company-mobile.json) |
