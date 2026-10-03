@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reach | 130790 | [130790-reach.json](./130790-reach.json) |
 | Reach | 347893 | [347893-reach.json](./347893-reach.json) |
 | Reach Charon | 269561 | [269561-reach-charon.json](./269561-reach-charon.json) |
+| Reach the light | 260871 | [260871-reach-the-light.json](./260871-reach-the-light.json) |
 | Reach the Moon! | 234741 | [234741-reach-the-moon.json](./234741-reach-the-moon.json) |
 | Reach To Neighbor House | 241946 | [241946-reach-to-neighbor-house.json](./241946-reach-to-neighbor-house.json) |
 | Reach to Tsukuyomi | 278984 | [278984-reach-to-tsukuyomi.json](./278984-reach-to-tsukuyomi.json) |
@@ -2470,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relentless Rex | 110277 | [110277-relentless-rex.json](./110277-relentless-rex.json) |
 | Relevo's Snowboarding | 311986 | [311986-relevos-snowboarding.json](./311986-relevos-snowboarding.json) |
 | Relgiros | 274492 | [274492-relgiros.json](./274492-relgiros.json) |
+| Relic | 260886 | [260886-relic.json](./260886-relic.json) |
 | Relic | 338301 | [338301-relic.json](./338301-relic.json) |
 | Relic Abyss | 307089 | [307089-relic-abyss.json](./307089-relic-abyss.json) |
 | Relic Adventure | 188508 | [188508-relic-adventure.json](./188508-relic-adventure.json) |
@@ -2511,6 +2513,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rem: The Dreamer | 368653 | [368653-rem-the-dreamer.json](./368653-rem-the-dreamer.json) |
 | Rema the Truth | 111887 | [111887-rema-the-truth.json](./111887-rema-the-truth.json) |
 | Remain | 30054 | [30054-remain.json](./30054-remain.json) |
+| Remain 1 | 260854 | [260854-remain-1.json](./260854-remain-1.json) |
+| Remain 3 | 260855 | [260855-remain-3.json](./260855-remain-3.json) |
 | Remain At Your Desk | 401513 | [401513-remain-at-your-desk.json](./401513-remain-at-your-desk.json) |
 | Remain on Earth | 316135 | [316135-remain-on-earth.json](./316135-remain-on-earth.json) |
 | Remains of Yith | 340007 | [340007-remains-of-yith.json](./340007-remains-of-yith.json) |
