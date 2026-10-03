@@ -2447,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouros | 258726 | [258726-ouros.json](./258726-ouros.json) |
 | Ourworld | 254416 | [254416-ourworld.json](./254416-ourworld.json) |
 | Out and About | 161379 | [161379-out-and-about.json](./161379-out-and-about.json) |
+| Out for Blood | 276380 | [276380-out-for-blood.json](./276380-out-for-blood.json) |
 | Out for Blood | 50539 | [50539-out-for-blood.json](./50539-out-for-blood.json) |
 | Out For Delivery | 152380 | [152380-out-for-delivery.json](./152380-out-for-delivery.json) |
 | Out From the White | 176452 | [176452-out-from-the-white.json](./176452-out-from-the-white.json) |
