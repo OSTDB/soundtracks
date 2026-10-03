@@ -3751,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meekanoid | 200174 | [200174-meekanoid.json](./200174-meekanoid.json) |
 | Meeple Fantasy 6 | 393098 | [393098-meeple-fantasy-6.json](./393098-meeple-fantasy-6.json) |
 | Meeple Incremental | 404252 | [404252-meeple-incremental.json](./404252-meeple-incremental.json) |
+| Meeple Jump | 244292 | [244292-meeple-jump.json](./244292-meeple-jump.json) |
 | Meer's: Escape | 263030 | [263030-meers-escape.json](./263030-meers-escape.json) |
 | Meeri Bliss | 369213 | [369213-meeri-bliss.json](./369213-meeri-bliss.json) |
 | Meerkats | 91535 | [91535-meerkats.json](./91535-meerkats.json) |
@@ -5227,6 +5228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metropolis | 209520 | [209520-metropolis.json](./209520-metropolis.json) |
 | Metropolis | 44079 | [44079-metropolis.json](./44079-metropolis.json) |
 | Metropolis | 84537 | [84537-metropolis.json](./84537-metropolis.json) |
+| Metropolis 1998 | 244305 | [244305-metropolis-1998.json](./244305-metropolis-1998.json) |
 | Metropolis Card Club | 209519 | [209519-metropolis-card-club.json](./209519-metropolis-card-club.json) |
 | Metropolis Crimes | 67686 | [67686-metropolis-crimes.json](./67686-metropolis-crimes.json) |
 | Metropolis Origins | 183871 | [183871-metropolis-origins.json](./183871-metropolis-origins.json) |
