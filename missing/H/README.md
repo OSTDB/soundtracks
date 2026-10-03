@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter DVD Game: Wizarding World | 266196 | [266196-harry-potter-dvd-game-wizarding-world.json](./266196-harry-potter-dvd-game-wizarding-world.json) |
 | Harry Potter for Kinect | 20743 | [20743-harry-potter-for-kinect.json](./20743-harry-potter-for-kinect.json) |
 | Harry Potter Interactive DVD Game: Hogwarts Challenge | 266195 | [266195-harry-potter-interactive-dvd-game-hogwarts-challenge.json](./266195-harry-potter-interactive-dvd-game-hogwarts-challenge.json) |
+| Harry Potter Interactive Watch | 238009 | [238009-harry-potter-interactive-watch.json](./238009-harry-potter-interactive-watch.json) |
 | Harry Potter Puzzles & Spells | 139256 | [139256-harry-potter-puzzles-and-spells.json](./139256-harry-potter-puzzles-and-spells.json) |
 | Harry Potter Quidditch Champions: Firebolt Supreme Broom Skin | 316066 | [316066-harry-potter-quidditch-champions-firebolt-supreme-broom-skin.json](./316066-harry-potter-quidditch-champions-firebolt-supreme-broom-skin.json) |
 | Harry Potter RPG | 141244 | [141244-harry-potter-rpg.json](./141244-harry-potter-rpg.json) |
