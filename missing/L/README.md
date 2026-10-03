@@ -1925,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play with Nanai! | 111069 | [111069-lets-play-with-nanai.json](./111069-lets-play-with-nanai.json) |
 | Let's Play! Oink Games - Complete Edition | 315859 | [315859-lets-play-oink-games-complete-edition.json](./315859-lets-play-oink-games-complete-edition.json) |
 | Let's Play! Oink Games: Kobayakawa | 263993 | [263993-lets-play-oink-games-kobayakawa.json](./263993-lets-play-oink-games-kobayakawa.json) |
+| Let's Play! Oink Games: Make the Difference | 255277 | [255277-lets-play-oink-games-make-the-difference.json](./255277-lets-play-oink-games-make-the-difference.json) |
 | Let's Play! Oink Games: Nine Tiles | 241310 | [241310-lets-play-oink-games-nine-tiles.json](./241310-lets-play-oink-games-nine-tiles.json) |
 | Let's Play! Oink Games: Rafter Five | 275559 | [275559-lets-play-oink-games-rafter-five.json](./275559-lets-play-oink-games-rafter-five.json) |
 | Let's Puzzle: Celestial Wonders Pack | 298256 | [298256-lets-puzzle-celestial-wonders-pack.json](./298256-lets-puzzle-celestial-wonders-pack.json) |
@@ -5161,6 +5162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxury Garden Bundle | 227855 | [227855-luxury-garden-bundle.json](./227855-luxury-garden-bundle.json) |
 | Luxury Hotel Emporium | 34787 | [34787-luxury-hotel-emporium.json](./34787-luxury-hotel-emporium.json) |
 | Luxury House Renovation | 114960 | [114960-luxury-house-renovation.json](./114960-luxury-house-renovation.json) |
+| Luyen Nguc | 255237 | [255237-luyen-nguc.json](./255237-luyen-nguc.json) |
 | Lǜyěxiānzōng | 320152 | [320152-luyexianzong.json](./320152-luyexianzong.json) |
 | LV99: Final Fortress | 140592 | [140592-lv99-final-fortress.json](./140592-lv99-final-fortress.json) |
 | LVL99: AxeRage | 125917 | [125917-lvl99-axerage.json](./125917-lvl99-axerage.json) |
