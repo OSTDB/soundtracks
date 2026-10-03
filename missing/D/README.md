@@ -7565,6 +7565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draugen: Collector's Edition | 124776 | [124776-draugen-collectors-edition.json](./124776-draugen-collectors-edition.json) |
 | Draught Kraft | 133352 | [133352-draught-kraft.json](./133352-draught-kraft.json) |
 | Draw | 258014 | [258014-draw.json](./258014-draw.json) |
+| Draw & Color Maze: Paint Labyrinth Puzzle | 276959 | [276959-draw-and-color-maze-paint-labyrinth-puzzle.json](./276959-draw-and-color-maze-paint-labyrinth-puzzle.json) |
 | Draw & Guess Multiplayer | 348948 | [348948-draw-and-guess-multiplayer.json](./348948-draw-and-guess-multiplayer.json) |
 | Draw 2 Save: Stickman Puzzle | 208980 | [208980-draw-2-save-stickman-puzzle.json](./208980-draw-2-save-stickman-puzzle.json) |
 | Draw a Stickman: Epic | 5032 | [5032-draw-a-stickman-epic.json](./5032-draw-a-stickman-epic.json) |
@@ -7604,7 +7605,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DrawBall | 289014 | [289014-drawball.json](./289014-drawball.json) |
 | Drawchemy | 410327 | [410327-drawchemy.json](./410327-drawchemy.json) |
 | Drawer | 187849 | [187849-drawer.json](./187849-drawer.json) |
+| Drawing Carnival | 276958 | [276958-drawing-carnival.json](./276958-drawing-carnival.json) |
+| Drawing Carnival: Anime Style | 276960 | [276960-drawing-carnival-anime-style.json](./276960-drawing-carnival-anime-style.json) |
 | Drawing Carnival: Horror Edition | 298570 | [298570-drawing-carnival-horror-edition.json](./298570-drawing-carnival-horror-edition.json) |
+| Drawing Carnival: Horror Style | 276961 | [276961-drawing-carnival-horror-style.json](./276961-drawing-carnival-horror-style.json) |
 | Drawing Evolution | 181314 | [181314-drawing-evolution.json](./181314-drawing-evolution.json) |
 | Drawing Rush | 233480 | [233480-drawing-rush.json](./233480-drawing-rush.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
