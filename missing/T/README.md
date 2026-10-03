@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Legend Online: League of Tanks | 237961 | [237961-tank-legend-online-league-of-tanks.json](./237961-tank-legend-online-league-of-tanks.json) |
 | Tank Maniacs | 117710 | [117710-tank-maniacs.json](./117710-tank-maniacs.json) |
 | Tank Master | 200733 | [200733-tank-master.json](./200733-tank-master.json) |
+| Tank Mayhem | 266424 | [266424-tank-mayhem.json](./266424-tank-mayhem.json) |
 | Tank Maze | 293076 | [293076-tank-maze.json](./293076-tank-maze.json) |
 | Tank Mechanic Simulator: Cromwell Mk.IV | 391333 | [391333-tank-mechanic-simulator-cromwell-mk-iv.json](./391333-tank-mechanic-simulator-cromwell-mk-iv.json) |
 | Tank Mechanic Simulator: First Supply DLC | 387696 | [387696-tank-mechanic-simulator-first-supply-dlc.json](./387696-tank-mechanic-simulator-first-supply-dlc.json) |
@@ -3653,6 +3654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Champions of Lootheim | 382759 | [382759-the-champions-of-lootheim.json](./382759-the-champions-of-lootheim.json) |
 | The change | 103429 | [103429-the-change.json](./103429-the-change.json) |
 | The Change Architect | 141095 | [141095-the-change-architect.json](./141095-the-change-architect.json) |
+| The Chant: The Gloom Below | 266387 | [266387-the-chant-the-gloom-below.json](./266387-the-chant-the-gloom-below.json) |
 | The Chaput's Baby | 217992 | [217992-the-chaputs-baby.json](./217992-the-chaputs-baby.json) |
 | The Charity Shop | 333942 | [333942-the-charity-shop.json](./333942-the-charity-shop.json) |
 | The Charm of Love | 157158 | [157158-the-charm-of-love.json](./157158-the-charm-of-love.json) |
@@ -3882,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crawler | 304159 | [304159-the-crawler.json](./304159-the-crawler.json) |
 | The Crayon Factory | 66962 | [66962-the-crayon-factory.json](./66962-the-crayon-factory.json) |
 | The Crazed Chicken | 71000 | [71000-the-crazed-chicken.json](./71000-the-crazed-chicken.json) |
+| The Crazy Hyper-Dungeon Chronicles | 266427 | [266427-the-crazy-hyper-dungeon-chronicles.json](./266427-the-crazy-hyper-dungeon-chronicles.json) |
 | The Crazy Journalist | 199056 | [199056-the-crazy-journalist.json](./199056-the-crazy-journalist.json) |
 | The Creation of a Self | 149033 | [149033-the-creation-of-a-self.json](./149033-the-creation-of-a-self.json) |
 | The Creativest Love Doll | 82747 | [82747-the-creativest-love-doll.json](./82747-the-creativest-love-doll.json) |
@@ -7461,6 +7464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Park | 11649 | [11649-the-park.json](./11649-the-park.json) |
 | The Particle of Infinite Free Will | 402531 | [402531-the-particle-of-infinite-free-will.json](./402531-the-particle-of-infinite-free-will.json) |
 | The Party | 135782 | [135782-the-party.json](./135782-the-party.json) |
+| The Passenger | 266393 | [266393-the-passenger.json](./266393-the-passenger.json) |
 | The Past | 236225 | [236225-the-past.json](./236225-the-past.json) |
 | The Past Within | 147340 | [147340-the-past-within.json](./147340-the-past-within.json) |
 | The Patashnik Parable | 176434 | [176434-the-patashnik-parable.json](./176434-the-patashnik-parable.json) |
@@ -9843,6 +9847,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Facing the Wild 1 | 206822 | [206822-thehunter-call-of-the-wild-facing-the-wild-1.json](./206822-thehunter-call-of-the-wild-facing-the-wild-1.json) |
 | TheHunter: Call of the Wild - Free Species: European Rabbit | 206796 | [206796-thehunter-call-of-the-wild-free-species-european-rabbit.json](./206796-thehunter-call-of-the-wild-free-species-european-rabbit.json) |
 | TheHunter: Call of the Wild - High-Tech Hunting Pack | 206799 | [206799-thehunter-call-of-the-wild-high-tech-hunting-pack.json](./206799-thehunter-call-of-the-wild-high-tech-hunting-pack.json) |
+| TheHunter: Call of the Wild - Hirschfelden Veteran Cosmetic Pack | 266392 | [266392-thehunter-call-of-the-wild-hirschfelden-veteran-cosmetic-pack.json](./266392-thehunter-call-of-the-wild-hirschfelden-veteran-cosmetic-pack.json) |
+| TheHunter: Call of the Wild - Hunter Power Pack | 266390 | [266390-thehunter-call-of-the-wild-hunter-power-pack.json](./266390-thehunter-call-of-the-wild-hunter-power-pack.json) |
 | TheHunter: Call of the Wild - Modern Rifle Pack | 206793 | [206793-thehunter-call-of-the-wild-modern-rifle-pack.json](./206793-thehunter-call-of-the-wild-modern-rifle-pack.json) |
 | TheHunter: Call of the Wild - New England Mountains | 227336 | [227336-thehunter-call-of-the-wild-new-england-mountains.json](./227336-thehunter-call-of-the-wild-new-england-mountains.json) |
 | TheHunter: Call of the Wild - New Species 2018 | 206824 | [206824-thehunter-call-of-the-wild-new-species-2018.json](./206824-thehunter-call-of-the-wild-new-species-2018.json) |
@@ -10235,6 +10241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Who Rule II | 394374 | [394374-those-who-rule-ii.json](./394374-those-who-rule-ii.json) |
 | Thou Shalt Be Brave | 134566 | [134566-thou-shalt-be-brave.json](./134566-thou-shalt-be-brave.json) |
 | Thou Shalt Not Kill | 312220 | [312220-thou-shalt-not-kill.json](./312220-thou-shalt-not-kill.json) |
+| Though the Heavens Fall | 266423 | [266423-though-the-heavens-fall.json](./266423-though-the-heavens-fall.json) |
 | Thoughtform Invasion | 292085 | [292085-thoughtform-invasion.json](./292085-thoughtform-invasion.json) |
 | Thousand Arms | 15461 | [15461-thousand-arms.json](./15461-thousand-arms.json) |
 | Thousand Hells: The Underworld Heists | 360177 | [360177-thousand-hells-the-underworld-heists.json](./360177-thousand-hells-the-underworld-heists.json) |
