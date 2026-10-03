@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairytale Thief: Sleeping Beauty | 351748 | [351748-fairytale-thief-sleeping-beauty.json](./351748-fairytale-thief-sleeping-beauty.json) |
 | Fairytale Thief: Snow White | 365172 | [365172-fairytale-thief-snow-white.json](./365172-fairytale-thief-snow-white.json) |
 | Fairytale Thief: The Goldfish | 259568 | [259568-fairytale-thief-the-goldfish.json](./259568-fairytale-thief-the-goldfish.json) |
+| FairyWoods Patisserie | 258613 | [258613-fairywoods-patisserie.json](./258613-fairywoods-patisserie.json) |
 | Fäiser | 186063 | [186063-faiser.json](./186063-faiser.json) |
 | Fait: The Machine | 122188 | [122188-fait-the-machine.json](./122188-fait-the-machine.json) |
 | Faith & Shield: Tower Defense - Space Wars Game 2022 | 209694 | [209694-faith-and-shield-tower-defense-space-wars-game-2022.json](./209694-faith-and-shield-tower-defense-space-wars-game-2022.json) |
@@ -1884,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fellas | 408143 | [408143-fellas.json](./408143-fellas.json) |
 | FellaTrain | 294968 | [294968-fellatrain.json](./294968-fellatrain.json) |
 | Fellow Moon | 320855 | [320855-fellow-moon.json](./320855-fellow-moon.json) |
+| Fellowship | 258627 | [258627-fellowship.json](./258627-fellowship.json) |
 | Fellowship | 330379 | [330379-fellowship.json](./330379-fellowship.json) |
 | Felon-E | 302356 | [302356-felon-e.json](./302356-felon-e.json) |
 | Felonian Special Forces | 255161 | [255161-felonian-special-forces.json](./255161-felonian-special-forces.json) |
@@ -5394,6 +5396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fourth Time Around | 374791 | [374791-fourth-time-around.json](./374791-fourth-time-around.json) |
 | Fourthy | 129199 | [129199-fourthy.json](./129199-fourthy.json) |
 | Fourville | 281503 | [281503-fourville.json](./281503-fourville.json) |
+| Foviki Empieria | 258636 | [258636-foviki-empieria.json](./258636-foviki-empieria.json) |
 | Fovos VR | 29907 | [29907-fovos-vr.json](./29907-fovos-vr.json) |
 | Fowl Magic | 121543 | [121543-fowl-magic.json](./121543-fowl-magic.json) |
 | Fowl Scourge | 201238 | [201238-fowl-scourge.json](./201238-fowl-scourge.json) |
@@ -6412,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Thieves | 183548 | [183548-fruit-thieves.json](./183548-fruit-thieves.json) |
 | Fruit Warrior AR | 241047 | [241047-fruit-warrior-ar.json](./241047-fruit-warrior-ar.json) |
 | Fruit-Fusion | 282807 | [282807-fruit-fusion.json](./282807-fruit-fusion.json) |
+| Fruitalistic! | 258638 | [258638-fruitalistic.json](./258638-fruitalistic.json) |
 | Fruitbearer | 389696 | [389696-fruitbearer.json](./389696-fruitbearer.json) |
 | Fruitimo! | 352216 | [352216-fruitimo.json](./352216-fruitimo.json) |
 | Fruitio | 294288 | [294288-fruitio.json](./294288-fruitio.json) |
