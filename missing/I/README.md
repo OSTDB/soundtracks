@@ -1303,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immure | 107517 | [107517-immure.json](./107517-immure.json) |
 | Immure: Part Two | 167302 | [167302-immure-part-two.json](./167302-immure-part-two.json) |
 | Imogen | 13728 | [13728-imogen.json](./13728-imogen.json) |
+| Imomushi | 270856 | [270856-imomushi.json](./270856-imomushi.json) |
 | Imouto no Seiiki | 59880 | [59880-imouto-no-seiiki.json](./59880-imouto-no-seiiki.json) |
 | Imouto Paradise! 2 | 407358 | [407358-imouto-paradise-2.json](./407358-imouto-paradise-2.json) |
 | Imouto Paradise! 3 | 404219 | [404219-imouto-paradise-3.json](./404219-imouto-paradise-3.json) |
