@@ -8438,6 +8438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Street Traffic Race | 105520 | [105520-crazy-street-traffic-race.json](./105520-crazy-street-traffic-race.json) |
 | Crazy Stunt Driver: Extreme Racing Simulator | 300859 | [300859-crazy-stunt-driver-extreme-racing-simulator.json](./300859-crazy-stunt-driver-extreme-racing-simulator.json) |
 | Crazy Sue goes on | 37276 | [37276-crazy-sue-goes-on.json](./37276-crazy-sue-goes-on.json) |
+| Crazy Super Bunnies | 234692 | [234692-crazy-super-bunnies.json](./234692-crazy-super-bunnies.json) |
 | Crazy Tap Chef | 108610 | [108610-crazy-tap-chef.json](./108610-crazy-tap-chef.json) |
 | Crazy Tapper + | 175343 | [175343-crazy-tapper.json](./175343-crazy-tapper.json) |
 | Crazy Taxi | 1805 | [1805-crazy-taxi.json](./1805-crazy-taxi.json) |
@@ -8871,6 +8872,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crop | 397809 | [397809-crop.json](./397809-crop.json) |
 | Crop and Claw | 284991 | [284991-crop-and-claw.json](./284991-crop-and-claw.json) |
 | Crop and Claw 2 | 408813 | [408813-crop-and-claw-2.json](./408813-crop-and-claw-2.json) |
+| Crop Circles | 234688 | [234688-crop-circles.json](./234688-crop-circles.json) |
+| Crop Circles 2 | 234691 | [234691-crop-circles-2.json](./234691-crop-circles-2.json) |
 | Crop Crusaders | 332987 | [332987-crop-crusaders.json](./332987-crop-crusaders.json) |
 | Crop Empire | 413040 | [413040-crop-empire.json](./413040-crop-empire.json) |
 | Crop Haven | 287626 | [287626-crop-haven.json](./287626-crop-haven.json) |
@@ -10410,6 +10413,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyclo 8 | 322587 | [322587-cyclo-8.json](./322587-cyclo-8.json) |
 | Cyclo Chambers | 218704 | [218704-cyclo-chambers.json](./218704-cyclo-chambers.json) |
 | CycloHex | 192977 | [192977-cyclohex.json](./192977-cyclohex.json) |
+| CycloManiacs | 234694 | [234694-cyclomaniacs.json](./234694-cyclomaniacs.json) |
+| CycloManiacs 2 | 234696 | [234696-cyclomaniacs-2.json](./234696-cyclomaniacs-2.json) |
+| CycloManiacs Epic | 234698 | [234698-cyclomaniacs-epic.json](./234698-cyclomaniacs-epic.json) |
 | Cyclone | 133830 | [133830-cyclone.json](./133830-cyclone.json) |
 | Cyclone Circus: Power Sail Racing | 72112 | [72112-cyclone-circus-power-sail-racing.json](./72112-cyclone-circus-power-sail-racing.json) |
 | Cyclones Playground | 108055 | [108055-cyclones-playground.json](./108055-cyclones-playground.json) |
