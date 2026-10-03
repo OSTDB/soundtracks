@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Have 1 HP | 269656 | [269656-you-have-1-hp.json](./269656-you-have-1-hp.json) |
 | You Have 10 Seconds | 31909 | [31909-you-have-10-seconds.json](./31909-you-have-10-seconds.json) |
 | You Have 10 Seconds 3 | 112366 | [112366-you-have-10-seconds-3.json](./112366-you-have-10-seconds-3.json) |
+| You Have 10 Seconds: 2023 | 256443 | [256443-you-have-10-seconds-2023.json](./256443-you-have-10-seconds-2023.json) |
 | You Have 293 Keys | 230768 | [230768-you-have-293-keys.json](./230768-you-have-293-keys.json) |
 | You Have A Delivery | 328038 | [328038-you-have-a-delivery.json](./328038-you-have-a-delivery.json) |
 | You have a drunk friend | 111355 | [111355-you-have-a-drunk-friend.json](./111355-you-have-a-drunk-friend.json) |
