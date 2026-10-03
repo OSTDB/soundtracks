@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wangan Midnight Maximum Tune 5DX | 315270 | [315270-wangan-midnight-maximum-tune-5dx.json](./315270-wangan-midnight-maximum-tune-5dx.json) |
 | Wangan Midnight Maximum Tune 5DX+ | 315271 | [315271-wangan-midnight-maximum-tune-5dx.json](./315271-wangan-midnight-maximum-tune-5dx.json) |
 | Wangan Midnight Maximum Tune 6 RR+ | 315272 | [315272-wangan-midnight-maximum-tune-6-rr.json](./315272-wangan-midnight-maximum-tune-6-rr.json) |
+| Wangan Sensen Red City | 231525 | [231525-wangan-sensen-red-city.json](./231525-wangan-sensen-red-city.json) |
 | Wangan Trial | 182444 | [182444-wangan-trial.json](./182444-wangan-trial.json) |
 | Wangan Warrior X | 81883 | [81883-wangan-warrior-x.json](./81883-wangan-warrior-x.json) |
 | Wángguó de Mófǎ Zhànzhēng | 163831 | [163831-wangguo-de-mofa-zhanzheng.json](./163831-wangguo-de-mofa-zhanzheng.json) |
@@ -882,7 +883,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario: Master of Disguise | 1701 | [1701-wario-master-of-disguise.json](./1701-wario-master-of-disguise.json) |
 | Wario: Master of Disguise Trivia | 231649 | [231649-wario-master-of-disguise-trivia.json](./231649-wario-master-of-disguise-trivia.json) |
 | Wario's Flashin' Fruit Punch Splash | 328660 | [328660-warios-flashin-fruit-punch-splash.json](./328660-warios-flashin-fruit-punch-splash.json) |
+| Wario's Grab Bag | 231532 | [231532-warios-grab-bag.json](./231532-warios-grab-bag.json) |
 | Wario's Hint Art | 300685 | [300685-warios-hint-art.json](./300685-warios-hint-art.json) |
+| Wario's Whack Attack | 231531 | [231531-warios-whack-attack.json](./231531-warios-whack-attack.json) |
 | WarioWare D.I.Y. | 1708 | [1708-warioware-d-i-y.json](./1708-warioware-d-i-y.json) |
 | WarioWare Mouse Workz! | 250046 | [250046-warioware-mouse-workz.json](./250046-warioware-mouse-workz.json) |
 | WarioWare, Inc.: Mega Microgame$! | 1703 | [1703-warioware-inc-mega-microgame.json](./1703-warioware-inc-mega-microgame.json) |
@@ -892,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarioWare: D.I.Y. Showcase | 50705 | [50705-warioware-d-i-y-showcase.json](./50705-warioware-d-i-y-showcase.json) |
 | WarioWare: Get It Together! | 152358 | [152358-warioware-get-it-together.json](./152358-warioware-get-it-together.json) |
 | WarioWare: Twisted! | 1704 | [1704-warioware-twisted.json](./1704-warioware-twisted.json) |
+| WarioWare: Twisted! - Marble Maze Game | 231530 | [231530-warioware-twisted-marble-maze-game.json](./231530-warioware-twisted-marble-maze-game.json) |
 | Warium | 87768 | [87768-warium.json](./87768-warium.json) |
 | Warja | 277295 | [277295-warja.json](./277295-warja.json) |
 | Warka Flarka Flim Flam | 29942 | [29942-warka-flarka-flim-flam.json](./29942-warka-flarka-flim-flam.json) |
