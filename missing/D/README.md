@@ -5123,6 +5123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Hot Shots: Disney's Terk & Tantor Power Lunch | 231857 | [231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json](./231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json) |
 | Disney Hotshots: Disney's Tarzan | 231854 | [231854-disney-hotshots-disneys-tarzan.json](./231854-disney-hotshots-disneys-tarzan.json) |
 | Disney Hotshots: The Little Mermaid | 228446 | [228446-disney-hotshots-the-little-mermaid.json](./228446-disney-hotshots-the-little-mermaid.json) |
+| Disney Infinity 4.0 | 240940 | [240940-disney-infinity-4-0.json](./240940-disney-infinity-4-0.json) |
 | Disney Junior Ready for Preschool: Forces in Motion | 267543 | [267543-disney-junior-ready-for-preschool-forces-in-motion.json](./267543-disney-junior-ready-for-preschool-forces-in-motion.json) |
 | Disney Learning: 2nd Grade | 59941 | [59941-disney-learning-2nd-grade.json](./59941-disney-learning-2nd-grade.json) |
 | Disney Learning: Phonics Quest | 59939 | [59939-disney-learning-phonics-quest.json](./59939-disney-learning-phonics-quest.json) |
@@ -8206,6 +8207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift City | 259514 | [259514-drift-city.json](./259514-drift-city.json) |
 | Drift Clash Online Racing | 227241 | [227241-drift-clash-online-racing.json](./227241-drift-clash-online-racing.json) |
 | Drift Clicker | 233496 | [233496-drift-clicker.json](./233496-drift-clicker.json) |
+| Drift Draft Destroy | 240927 | [240927-drift-draft-destroy.json](./240927-drift-draft-destroy.json) |
 | Drift Empire | 390257 | [390257-drift-empire.json](./390257-drift-empire.json) |
 | Drift Gang | 372449 | [372449-drift-gang.json](./372449-drift-gang.json) |
 | Drift Girls | 58786 | [58786-drift-girls.json](./58786-drift-girls.json) |
