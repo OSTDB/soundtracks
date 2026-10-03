@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yam yam | 39812 | [39812-yam-yam.json](./39812-yam-yam.json) |
 | Yama no Susume: Next Summit - Ano Yama ni, Mou Ichido | 277306 | [277306-yama-no-susume-next-summit-ano-yama-ni-mou-ichido.json](./277306-yama-no-susume-next-summit-ano-yama-ni-mou-ichido.json) |
 | Yamabiko ha Ojou-sama no Osoba ni | 208478 | [208478-yamabiko-ha-ojou-sama-no-osoba-ni.json](./208478-yamabiko-ha-ojou-sama-no-osoba-ni.json) |
+| Yamada Kamachi Bijutsukan: Kamachi's Museum | 243208 | [243208-yamada-kamachi-bijutsukan-kamachis-museum.json](./243208-yamada-kamachi-bijutsukan-kamachis-museum.json) |
 | Yamafuda! Summit | 283857 | [283857-yamafuda-summit.json](./283857-yamafuda-summit.json) |
 | Yamakawa Shuppansha Kanshuu: Shousetsu Nihonshi DS | 124153 | [124153-yamakawa-shuppansha-kanshuu-shousetsu-nihonshi-ds.json](./124153-yamakawa-shuppansha-kanshuu-shousetsu-nihonshi-ds.json) |
 | Yamakawa Shuppansha Kanshuu: Shousetsu Sekaishi DS | 124152 | [124152-yamakawa-shuppansha-kanshuu-shousetsu-sekaishi-ds.json](./124152-yamakawa-shuppansha-kanshuu-shousetsu-sekaishi-ds.json) |
