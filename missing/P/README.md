@@ -2964,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pi-Balled | 354646 | [354646-pi-balled.json](./354646-pi-balled.json) |
 | Pi.exe | 192463 | [192463-pi-exe.json](./192463-pi-exe.json) |
 | PI.EXE Enhanced Edition | 253877 | [253877-pi-exe-enhanced-edition.json](./253877-pi-exe-enhanced-edition.json) |
+| Pi2 | 274140 | [274140-pi2.json](./274140-pi2.json) |
 | Pia | 317389 | [317389-pia.json](./317389-pia.json) |
 | Pia Carrot e Youkoso!! 2.2 | 62747 | [62747-pia-carrot-e-youkoso-2-2.json](./62747-pia-carrot-e-youkoso-2-2.json) |
 | Pia Carrot e Youkoso!! 3 | 62746 | [62746-pia-carrot-e-youkoso-3.json](./62746-pia-carrot-e-youkoso-3.json) |
@@ -3206,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pieces of Me | 318759 | [318759-pieces-of-me.json](./318759-pieces-of-me.json) |
 | Pieces of My Heart | 246635 | [246635-pieces-of-my-heart.json](./246635-pieces-of-my-heart.json) |
 | Piecrust | 311699 | [311699-piecrust.json](./311699-piecrust.json) |
+| Pieklo | 274135 | [274135-pieklo.json](./274135-pieklo.json) |
 | Pien | 144144 | [144144-pien.json](./144144-pien.json) |
 | Pier Game | 340543 | [340543-pier-game.json](./340543-pier-game.json) |
 | Pier57 Autocracy | 80470 | [80470-pier57-autocracy.json](./80470-pier57-autocracy.json) |
