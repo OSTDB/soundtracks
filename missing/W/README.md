@@ -2008,12 +2008,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
 | What's Pixelated? | 88476 | [88476-whats-pixelated.json](./88476-whats-pixelated.json) |
 | What's Shenmue? | 93595 | [93595-whats-shenmue.json](./93595-whats-shenmue.json) |
+| What's the Baby Animal? | 233064 | [233064-whats-the-baby-animal.json](./233064-whats-the-baby-animal.json) |
 | What's the Difference? Spot It | 90182 | [90182-whats-the-difference-spot-it.json](./90182-whats-the-difference-spot-it.json) |
 | What's the Dog Doing? | 325553 | [325553-whats-the-dog-doing.json](./325553-whats-the-dog-doing.json) |
 | What's the Matter? | 164337 | [164337-whats-the-matter.json](./164337-whats-the-matter.json) |
 | What's the Matter? VR | 153914 | [153914-whats-the-matter-vr.json](./153914-whats-the-matter-vr.json) |
+| What's the Movie? | 233065 | [233065-whats-the-movie.json](./233065-whats-the-movie.json) |
 | What's the Point? | 312200 | [312200-whats-the-point.json](./312200-whats-the-point.json) |
 | What's the Time Mr.Fox | 200140 | [200140-whats-the-time-mr-fox.json](./200140-whats-the-time-mr-fox.json) |
+| What's the Year | 233066 | [233066-whats-the-year.json](./233066-whats-the-year.json) |
 | What's under your blanket !? | 15744 | [15744-whats-under-your-blanket.json](./15744-whats-under-your-blanket.json) |
 | What's Up There? | 282225 | [282225-whats-up-there.json](./282225-whats-up-there.json) |
 | What's Updog | 228066 | [228066-whats-updog.json](./228066-whats-updog.json) |
@@ -2069,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WheelMates | 387496 | [387496-wheelmates.json](./387496-wheelmates.json) |
 | Wheels Escape - Police Chase! | 99134 | [99134-wheels-escape-police-chase.json](./99134-wheels-escape-police-chase.json) |
 | Wheels of Destruction | 20735 | [20735-wheels-of-destruction.json](./20735-wheels-of-destruction.json) |
+| Wheels on Fire | 233067 | [233067-wheels-on-fire.json](./233067-wheels-on-fire.json) |
 | Wheels on Fire | 78030 | [78030-wheels-on-fire.json](./78030-wheels-on-fire.json) |
 | Wheels on Impossible Ramp | 174887 | [174887-wheels-on-impossible-ramp.json](./174887-wheels-on-impossible-ramp.json) |
 | Wheels on the Bus! | 90377 | [90377-wheels-on-the-bus.json](./90377-wheels-on-the-bus.json) |
@@ -2307,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskered Away | 105385 | [105385-whiskered-away.json](./105385-whiskered-away.json) |
 | Whiskered Away | 196888 | [196888-whiskered-away.json](./196888-whiskered-away.json) |
 | Whiskers | 180237 | [180237-whiskers.json](./180237-whiskers.json) |
+| Whiskers | 233068 | [233068-whiskers.json](./233068-whiskers.json) |
 | Whiskers | 272300 | [272300-whiskers.json](./272300-whiskers.json) |
 | Whiskers and Wizardry | 345084 | [345084-whiskers-and-wizardry.json](./345084-whiskers-and-wizardry.json) |
 | Whiskers in the Dark | 309131 | [309131-whiskers-in-the-dark.json](./309131-whiskers-in-the-dark.json) |
@@ -2745,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Wild West: The Steel Assassin | 70950 | [70950-wild-wild-west-the-steel-assassin.json](./70950-wild-wild-west-the-steel-assassin.json) |
 | Wild Wizard War | 391607 | [391607-wild-wizard-war.json](./391607-wild-wizard-war.json) |
 | Wild Wolf | 81013 | [81013-wild-wolf.json](./81013-wild-wolf.json) |
+| Wild Wolf Family Simulator 3D | 233043 | [233043-wild-wolf-family-simulator-3d.json](./233043-wild-wolf-family-simulator-3d.json) |
 | Wild Wolf Simulator 3D | 200662 | [200662-wild-wolf-simulator-3d.json](./200662-wild-wolf-simulator-3d.json) |
 | Wild Wood | 141688 | [141688-wild-wood.json](./141688-wild-wood.json) |
 | Wild Woody | 5461 | [5461-wild-woody.json](./5461-wild-woody.json) |
@@ -2879,6 +2885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willy Wabbit & His Magical Books | 287320 | [287320-willy-wabbit-and-his-magical-books.json](./287320-willy-wabbit-and-his-magical-books.json) |
 | Willy's Adventure | 375458 | [375458-willys-adventure.json](./375458-willys-adventure.json) |
 | Willy's Horrorland | 233565 | [233565-willys-horrorland.json](./233565-willys-horrorland.json) |
+| Willy's Wonderland | 233044 | [233044-willys-wonderland.json](./233044-willys-wonderland.json) |
 | Willy's Wonderland: The Game | 287697 | [287697-willys-wonderland-the-game.json](./287697-willys-wonderland-the-game.json) |
 | Wilmot Works It Out | 314431 | [314431-wilmot-works-it-out.json](./314431-wilmot-works-it-out.json) |
 | Wilmot's Warehouse | 77494 | [77494-wilmots-warehouse.json](./77494-wilmots-warehouse.json) |
@@ -3054,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winner IV | 170845 | [170845-winner-iv.json](./170845-winner-iv.json) |
 | Winner vs. Loser | 182455 | [182455-winner-vs-loser.json](./182455-winner-vs-loser.json) |
 | Winner's Circle | 269662 | [269662-winners-circle.json](./269662-winners-circle.json) |
+| Winner's Soccer Evolution | 233045 | [233045-winners-soccer-evolution.json](./233045-winners-soccer-evolution.json) |
 | Winnie the Bear | 326698 | [326698-winnie-the-bear.json](./326698-winnie-the-bear.json) |
 | Winnie the Pooh in the Hundred Acre Wood | 51370 | [51370-winnie-the-pooh-in-the-hundred-acre-wood.json](./51370-winnie-the-pooh-in-the-hundred-acre-wood.json) |
 | Winnie the Pooh: First Steps | 273880 | [273880-winnie-the-pooh-first-steps.json](./273880-winnie-the-pooh-first-steps.json) |
@@ -3684,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Trips | 239143 | [239143-wonder-trips.json](./239143-wonder-trips.json) |
 | Wonder Wand | 304016 | [304016-wonder-wand.json](./304016-wonder-wand.json) |
 | Wonder Wars | 252180 | [252180-wonder-wars.json](./252180-wonder-wars.json) |
+| Wonder Wheel | 233046 | [233046-wonder-wheel.json](./233046-wonder-wheel.json) |
 | Wonder Wheel | 262979 | [262979-wonder-wheel.json](./262979-wonder-wheel.json) |
 | Wonder Wickets | 27042 | [27042-wonder-wickets.json](./27042-wonder-wickets.json) |
 | Wonder Wonder Punch | 273386 | [273386-wonder-wonder-punch.json](./273386-wonder-wonder-punch.json) |
@@ -3836,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Ace | 61032 | [61032-word-ace.json](./61032-word-ace.json) |
 | Word Across | 104481 | [104481-word-across.json](./104481-word-across.json) |
 | Word Addict: Word Puzzle Games | 90786 | [90786-word-addict-word-puzzle-games.json](./90786-word-addict-word-puzzle-games.json) |
+| Word Adventure | 233047 | [233047-word-adventure.json](./233047-word-adventure.json) |
 | Word After Word | 134653 | [134653-word-after-word.json](./134653-word-after-word.json) |
 | Word Attack | 220720 | [220720-word-attack.json](./220720-word-attack.json) |
 | Word Avalanche | 108644 | [108644-word-avalanche.json](./108644-word-avalanche.json) |
@@ -3845,12 +3855,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Blocked | 63824 | [63824-word-blocked.json](./63824-word-blocked.json) |
 | Word Bomb | 365087 | [365087-word-bomb.json](./365087-word-bomb.json) |
 | Word Bound - Word Game Puzzles | 105869 | [105869-word-bound-word-game-puzzles.json](./105869-word-bound-word-game-puzzles.json) |
+| Word Boxing | 233048 | [233048-word-boxing.json](./233048-word-boxing.json) |
 | Word Brawl | 329680 | [329680-word-brawl.json](./329680-word-brawl.json) |
 | Word Bridges | 397915 | [397915-word-bridges.json](./397915-word-bridges.json) |
 | Word Builder for Oliver | 92091 | [92091-word-builder-for-oliver.json](./92091-word-builder-for-oliver.json) |
 | Word Challenge | 342250 | [342250-word-challenge.json](./342250-word-challenge.json) |
 | Word Chaos | 217984 | [217984-word-chaos.json](./217984-word-chaos.json) |
 | Word Chef: Letter Pop | 241330 | [241330-word-chef-letter-pop.json](./241330-word-chef-letter-pop.json) |
+| Word Choices | 233052 | [233052-word-choices.json](./233052-word-choices.json) |
 | Word Chums | 91135 | [91135-word-chums.json](./91135-word-chums.json) |
 | Word Club: Word Puzzle Game | 106358 | [106358-word-club-word-puzzle-game.json](./106358-word-club-word-puzzle-game.json) |
 | Word Connect | 88761 | [88761-word-connect.json](./88761-word-connect.json) |
@@ -3901,6 +3913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Rescue | 35506 | [35506-word-rescue.json](./35506-word-rescue.json) |
 | Word Rocket | 319191 | [319191-word-rocket.json](./319191-word-rocket.json) |
 | Word Safari: The Friendship Totems | 49472 | [49472-word-safari-the-friendship-totems.json](./49472-word-safari-the-friendship-totems.json) |
+| Word Safe | 233049 | [233049-word-safe.json](./233049-word-safe.json) |
 | Word Salad | 362970 | [362970-word-salad.json](./362970-word-salad.json) |
 | Word Scores | 344355 | [344355-word-scores.json](./344355-word-scores.json) |
 | Word Scramble | 87551 | [87551-word-scramble.json](./87551-word-scramble.json) |
@@ -3915,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search Joy | 88270 | [88270-word-search-joy.json](./88270-word-search-joy.json) |
 | Word Search Puzzle | 102213 | [102213-word-search-puzzle.json](./102213-word-search-puzzle.json) |
 | Word Search Puzzle: Find the Words! | 262323 | [262323-word-search-puzzle-find-the-words.json](./262323-word-search-puzzle-find-the-words.json) |
+| Word Search Puzzle: Word Balls | 233054 | [233054-word-search-puzzle-word-balls.json](./233054-word-search-puzzle-word-balls.json) |
 | Word Search: Classic Game | 323326 | [323326-word-search-classic-game.json](./323326-word-search-classic-game.json) |
 | Word Search: World's Biggest | 240182 | [240182-word-search-worlds-biggest.json](./240182-word-search-worlds-biggest.json) |
 | Word Searcher 2 | 84963 | [84963-word-searcher-2.json](./84963-word-searcher-2.json) |
@@ -3928,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Space | 270775 | [270775-word-space.json](./270775-word-space.json) |
 | Word Spell Game: Yes or No ? | 266833 | [266833-word-spell-game-yes-or-no.json](./266833-word-spell-game-yes-or-no.json) |
 | Word Spinner | 71546 | [71546-word-spinner.json](./71546-word-spinner.json) |
+| Word Stitch | 233056 | [233056-word-stitch.json](./233056-word-stitch.json) |
 | Word Surf | 208941 | [208941-word-surf.json](./208941-word-surf.json) |
 | Word Swipe | 101529 | [101529-word-swipe.json](./101529-word-swipe.json) |
 | Word Tango | 383550 | [383550-word-tango.json](./383550-word-tango.json) |
@@ -3974,8 +3989,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordBuzz 4 | 420654 | [420654-wordbuzz-4.json](./420654-wordbuzz-4.json) |
 | WordCookies Cross | 87002 | [87002-wordcookies-cross.json](./87002-wordcookies-cross.json) |
 | WordCrasher | 87702 | [87702-wordcrasher.json](./87702-wordcrasher.json) |
+| Worded! | 233051 | [233051-worded.json](./233051-worded.json) |
 | Worder | 116852 | [116852-worder.json](./116852-worder.json) |
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
+| Wordgraphy | 233050 | [233050-wordgraphy.json](./233050-wordgraphy.json) |
 | WordHerd | 147269 | [147269-wordherd.json](./147269-wordherd.json) |
 | WordHive | 411569 | [411569-wordhive.json](./411569-wordhive.json) |
 | WordHive 2 | 414441 | [414441-wordhive-2.json](./414441-wordhive-2.json) |
@@ -4007,8 +4024,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words Inc - Endless Vocabulary Definition Competition | 99411 | [99411-words-inc-endless-vocabulary-definition-competition.json](./99411-words-inc-endless-vocabulary-definition-competition.json) |
 | Words N Words | 240345 | [240345-words-n-words.json](./240345-words-n-words.json) |
 | Words of Fate | 83259 | [83259-words-of-fate.json](./83259-words-of-fate.json) |
+| Words Scramble | 233055 | [233055-words-scramble.json](./233055-words-scramble.json) |
 | Words Scramble: Cities | 245329 | [245329-words-scramble-cities.json](./245329-words-scramble-cities.json) |
 | Words UP | 104464 | [104464-words-up.json](./104464-words-up.json) |
+| Words with AI | 233057 | [233057-words-with-ai.json](./233057-words-with-ai.json) |
 | Words With Foes: Quest for the Lexinomicon | 182843 | [182843-words-with-foes-quest-for-the-lexinomicon.json](./182843-words-with-foes-quest-for-the-lexinomicon.json) |
 | Words With Freds | 192956 | [192956-words-with-freds.json](./192956-words-with-freds.json) |
 | Words with Gizmos | 384679 | [384679-words-with-gizmos.json](./384679-words-with-gizmos.json) |
@@ -4574,6 +4593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | wormzilla.io | 397845 | [397845-wormzilla-io.json](./397845-wormzilla-io.json) |
 | Worry | 91960 | [91960-worry.json](./91960-worry.json) |
 | Worry Eaters: Dada Land | 88804 | [88804-worry-eaters-dada-land.json](./88804-worry-eaters-dada-land.json) |
+| Worry_Bead | 233039 | [233039-worry-bead.json](./233039-worry-bead.json) |
 | Worship | 144971 | [144971-worship.json](./144971-worship.json) |
 | Worshippers of Cthulhu | 292876 | [292876-worshippers-of-cthulhu.json](./292876-worshippers-of-cthulhu.json) |
 | Worshippers of the Gain | 334172 | [334172-worshippers-of-the-gain.json](./334172-worshippers-of-the-gain.json) |
