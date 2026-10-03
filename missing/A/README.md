@@ -3251,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Elite Wresting: Fight Forever - Giant Swing in the Ring | 287119 | [287119-all-elite-wresting-fight-forever-giant-swing-in-the-ring.json](./287119-all-elite-wresting-fight-forever-giant-swing-in-the-ring.json) |
 | All Elite Wrestling: Fight Forever - Elite Beats and Stampede Expansion | 301012 | [301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json](./301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json) |
 | All Elite Wrestling: Fight Forever - Freebie 4 da Fans | 287120 | [287120-all-elite-wrestling-fight-forever-freebie-4-da-fans.json](./287120-all-elite-wrestling-fight-forever-freebie-4-da-fans.json) |
+| All Elite Wrestling: Fight Forever - FTR: Revival Pack | 254679 | [254679-all-elite-wrestling-fight-forever-ftr-revival-pack.json](./254679-all-elite-wrestling-fight-forever-ftr-revival-pack.json) |
 | All Elite Wrestling: Fight Forever - Hayter's Gunna Game | 287118 | [287118-all-elite-wrestling-fight-forever-hayters-gunna-game.json](./287118-all-elite-wrestling-fight-forever-hayters-gunna-game.json) |
 | All Elite Wrestling: Fight Forever - Hookhausen: Very Handsome, Very Evil Pack | 270797 | [270797-all-elite-wrestling-fight-forever-hookhausen-very-handsome-very-evil-pack.json](./270797-all-elite-wrestling-fight-forever-hookhausen-very-handsome-very-evil-pack.json) |
 | All Elite Wrestling: Fight Forever - Limitless Bunny Pack | 263527 | [263527-all-elite-wrestling-fight-forever-limitless-bunny-pack.json](./263527-all-elite-wrestling-fight-forever-limitless-bunny-pack.json) |
@@ -6730,6 +6731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Moves | 11916 | [11916-army-moves.json](./11916-army-moves.json) |
 | Army of Ages | 286651 | [286651-army-of-ages.json](./286651-army-of-ages.json) |
 | Army of Darkness Doom 2 Total Conversion | 381149 | [381149-army-of-darkness-doom-2-total-conversion.json](./381149-army-of-darkness-doom-2-total-conversion.json) |
+| Army of Frogs HD | 254670 | [254670-army-of-frogs-hd.json](./254670-army-of-frogs-hd.json) |
 | Army of Ninjas | 240195 | [240195-army-of-ninjas.json](./240195-army-of-ninjas.json) |
 | Army of One | 199494 | [199494-army-of-one.json](./199494-army-of-one.json) |
 | Army of Pixels | 34757 | [34757-army-of-pixels.json](./34757-army-of-pixels.json) |
