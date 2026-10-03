@@ -2648,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TG Motocross 3 | 222858 | [222858-tg-motocross-3.json](./222858-tg-motocross-3.json) |
 | Th!nk Logic Trainer | 92057 | [92057-th-nk-logic-trainer.json](./92057-th-nk-logic-trainer.json) |
 | th!nk Logic Trainer: Kids | 81392 | [81392-th-nk-logic-trainer-kids.json](./81392-th-nk-logic-trainer-kids.json) |
+| Th3-M15 Guild | 268140 | [268140-th3-m15-guild.json](./268140-th3-m15-guild.json) |
 | Thailand Bus Simulator | 384617 | [384617-thailand-bus-simulator.json](./384617-thailand-bus-simulator.json) |
 | Thalamus: The Hits 2 | 137468 | [137468-thalamus-the-hits-2.json](./137468-thalamus-the-hits-2.json) |
 | Thalassa: Edge of the Abyss | 250287 | [250287-thalassa-edge-of-the-abyss.json](./250287-thalassa-edge-of-the-abyss.json) |
@@ -4159,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dead Rising Collection | 47475 | [47475-the-dead-rising-collection.json](./47475-the-dead-rising-collection.json) |
 | The Dead Roam Free | 388224 | [388224-the-dead-roam-free.json](./388224-the-dead-roam-free.json) |
 | The Dead We Knew: Open World Survival | 412960 | [412960-the-dead-we-knew-open-world-survival.json](./412960-the-dead-we-knew-open-world-survival.json) |
+| The Dead Zone | 268137 | [268137-the-dead-zone.json](./268137-the-dead-zone.json) |
 | The Dead Zone 2 | 308890 | [308890-the-dead-zone-2.json](./308890-the-dead-zone-2.json) |
 | The Deadlands | 257689 | [257689-the-deadlands.json](./257689-the-deadlands.json) |
 | The Deadliest Gambit | 313884 | [313884-the-deadliest-gambit.json](./313884-the-deadliest-gambit.json) |
@@ -6309,6 +6311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Sora no Kiseki FC Evolution - Chara-Ani Limited Box | 268029 | [268029-the-legend-of-heroes-sora-no-kiseki-fc-evolution-chara-ani-limited-box.json](./268029-the-legend-of-heroes-sora-no-kiseki-fc-evolution-chara-ani-limited-box.json) |
 | The Legend of Heroes: Sora no Kiseki FC Evolution - Limited Edition | 268030 | [268030-the-legend-of-heroes-sora-no-kiseki-fc-evolution-limited-edition.json](./268030-the-legend-of-heroes-sora-no-kiseki-fc-evolution-limited-edition.json) |
 | The Legend of Heroes: Sora no Kiseki FC Kai - HD Edition | 136859 | [136859-the-legend-of-heroes-sora-no-kiseki-fc-kai-hd-edition.json](./136859-the-legend-of-heroes-sora-no-kiseki-fc-kai-hd-edition.json) |
+| The Legend of Heroes: Sora no Kiseki the 3rd Kai - HD Edition | 268097 | [268097-the-legend-of-heroes-sora-no-kiseki-the-3rd-kai-hd-edition.json](./268097-the-legend-of-heroes-sora-no-kiseki-the-3rd-kai-hd-edition.json) |
 | The Legend of Heroes: Trails Beyond the Horizon | 280573 | [280573-the-legend-of-heroes-trails-beyond-the-horizon.json](./280573-the-legend-of-heroes-trails-beyond-the-horizon.json) |
 | The Legend of Heroes: Trails in the Sky | 8986 | [8986-the-legend-of-heroes-trails-in-the-sky.json](./8986-the-legend-of-heroes-trails-in-the-sky.json) |
 | The Legend of Heroes: Trails in the Sky the 3rd | 28101 | [28101-the-legend-of-heroes-trails-in-the-sky-the-3rd.json](./28101-the-legend-of-heroes-trails-in-the-sky-the-3rd.json) |
