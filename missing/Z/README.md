@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zalera Spark | 310935 | [310935-zalera-spark.json](./310935-zalera-spark.json) |
 | Zaleste | 329972 | [329972-zaleste.json](./329972-zaleste.json) |
 | Zalozhnik | 367007 | [367007-zalozhnik.json](./367007-zalozhnik.json) |
+| Zamakan | 253483 | [253483-zamakan.json](./253483-zamakan.json) |
 | ZampanioSimulator | 260135 | [260135-zampaniosimulator.json](./260135-zampaniosimulator.json) |
 | Zamzara | 74429 | [74429-zamzara.json](./74429-zamzara.json) |
 | Zan Gear | 46553 | [46553-zan-gear.json](./46553-zan-gear.json) |
