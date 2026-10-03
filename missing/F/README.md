@@ -6141,6 +6141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frizzy | 34764 | [34764-frizzy.json](./34764-frizzy.json) |
 | Frocket | 63807 | [63807-frocket.json](./63807-frocket.json) |
 | Frog | 55874 | [55874-frog.json](./55874-frog.json) |
+| Frog 'n Friends | 229097 | [229097-frog-n-friends.json](./229097-frog-n-friends.json) |
 | Frog 'n' Roll | 301816 | [301816-frog-n-roll.json](./301816-frog-n-roll.json) |
 | Frog Adventure | 386430 | [386430-frog-adventure.json](./386430-frog-adventure.json) |
 | Frog Affirmations | 229071 | [229071-frog-affirmations.json](./229071-frog-affirmations.json) |
