@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Da Will | 274125 | [274125-da-will.json](./274125-da-will.json) |
 | DA-VI-NC1 | 360596 | [360596-da-vi-nc1.json](./360596-da-vi-nc1.json) |
 | Da! Russian Quiz | 161258 | [161258-da-russian-quiz.json](./161258-da-russian-quiz.json) |
+| Daahrien's A.P.H.R.O.D.I.T.E. | 247673 | [247673-daahriens-a-p-h-r-o-d-i-t-e.json](./247673-daahriens-a-p-h-r-o-d-i-t-e.json) |
 | Daardoa | 151190 | [151190-daardoa.json](./151190-daardoa.json) |
 | Dab on 'em Haterz | 81781 | [81781-dab-on-em-haterz.json](./81781-dab-on-em-haterz.json) |
 | Dabado | 109431 | [109431-dabado.json](./109431-dabado.json) |
@@ -160,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemonfall | 345115 | [345115-daemonfall.json](./345115-daemonfall.json) |
 | Daemonic Runner | 127779 | [127779-daemonic-runner.json](./127779-daemonic-runner.json) |
 | Daemonical | 96233 | [96233-daemonical.json](./96233-daemonical.json) |
+| Daemonium | 247668 | [247668-daemonium.json](./247668-daemonium.json) |
 | Daemonologie | 179677 | [179677-daemonologie.json](./179677-daemonologie.json) |
 | Daemonologie | 313586 | [313586-daemonologie.json](./313586-daemonologie.json) |
 | Daemonstration | 179752 | [179752-daemonstration.json](./179752-daemonstration.json) |
