@@ -2815,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nissan Presents Over Drivin' GT-R | 45454 | [45454-nissan-presents-over-drivin-gt-r.json](./45454-nissan-presents-over-drivin-gt-r.json) |
 | Nitebear on Sleepystreet | 304198 | [304198-nitebear-on-sleepystreet.json](./304198-nitebear-on-sleepystreet.json) |
 | Niteline | 304722 | [304722-niteline.json](./304722-niteline.json) |
+| Nitemare | 276393 | [276393-nitemare.json](./276393-nitemare.json) |
 | Nitemare 3D | 50139 | [50139-nitemare-3d.json](./50139-nitemare-3d.json) |
 | Nitori Dungeon | 216460 | [216460-nitori-dungeon.json](./216460-nitori-dungeon.json) |
 | Nitori-chan Dash | 208396 | [208396-nitori-chan-dash.json](./208396-nitori-chan-dash.json) |
