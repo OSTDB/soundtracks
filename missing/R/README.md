@@ -4515,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Quest | 171545 | [171545-robo-quest.json](./171545-robo-quest.json) |
 | Robo Rangers | 388744 | [388744-robo-rangers.json](./388744-robo-rangers.json) |
 | Robo Rescue | 328489 | [328489-robo-rescue.json](./328489-robo-rescue.json) |
+| Robo Ret | 254062 | [254062-robo-ret.json](./254062-robo-ret.json) |
 | Robo Revenge Squad | 205028 | [205028-robo-revenge-squad.json](./205028-robo-revenge-squad.json) |
 | Robo Risk | 58755 | [58755-robo-risk.json](./58755-robo-risk.json) |
 | Robo Rob | 286597 | [286597-robo-rob.json](./286597-robo-rob.json) |
