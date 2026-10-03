@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camper Jumper Simulator | 31541 | [31541-camper-jumper-simulator.json](./31541-camper-jumper-simulator.json) |
 | Camper Renovator | 172131 | [172131-camper-renovator.json](./172131-camper-renovator.json) |
 | Camper Van Race Driving Simulator 2018 | 107001 | [107001-camper-van-race-driving-simulator-2018.json](./107001-camper-van-race-driving-simulator-2018.json) |
+| Camper Van Simulator 2 | 226782 | [226782-camper-van-simulator-2.json](./226782-camper-van-simulator-2.json) |
 | Campfire | 177999 | [177999-campfire.json](./177999-campfire.json) |
 | Campfire | 275600 | [275600-campfire.json](./275600-campfire.json) |
 | Campfire Cat Cafe | 250431 | [250431-campfire-cat-cafe.json](./250431-campfire-cat-cafe.json) |
@@ -5145,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clifford the Big Red Dog: Learning Activities | 255656 | [255656-clifford-the-big-red-dog-learning-activities.json](./255656-clifford-the-big-red-dog-learning-activities.json) |
 | Clifford: Ready-to-Read | 230359 | [230359-clifford-ready-to-read.json](./230359-clifford-ready-to-read.json) |
 | Cliffs of War: Fortress Defenders | 34606 | [34606-cliffs-of-war-fortress-defenders.json](./34606-cliffs-of-war-fortress-defenders.json) |
+| Clifftop Games Bundle I Kathy Rain: Director's Cut + Whispers of a Machine | 226788 | [226788-clifftop-games-bundle-i-kathy-rain-directors-cut-whispers-of-a-machine.json](./226788-clifftop-games-bundle-i-kathy-rain-directors-cut-whispers-of-a-machine.json) |
 | Clik Flip | 194964 | [194964-clik-flip.json](./194964-clik-flip.json) |
 | Clim Snail | 379017 | [379017-clim-snail.json](./379017-clim-snail.json) |
 | Climatic Survival: Northern Storm | 121485 | [121485-climatic-survival-northern-storm.json](./121485-climatic-survival-northern-storm.json) |
