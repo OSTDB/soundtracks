@@ -890,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baltazar the Familiar | 317298 | [317298-baltazar-the-familiar.json](./317298-baltazar-the-familiar.json) |
 | Baltron | 48588 | [48588-baltron.json](./48588-baltron.json) |
 | Baluno | 297780 | [297780-baluno.json](./297780-baluno.json) |
+| BAM | 271386 | [271386-bam.json](./271386-bam.json) |
 | Bam 'N Jam | 61547 | [61547-bam-n-jam.json](./61547-bam-n-jam.json) |
 | Bam Bam Boom | 350057 | [350057-bam-bam-boom.json](./350057-bam-bam-boom.json) |
 | Bam Boom Blade | 289344 | [289344-bam-boom-blade.json](./289344-bam-boom-blade.json) |
@@ -5861,6 +5862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Whale | 75320 | [75320-blue-whale.json](./75320-blue-whale.json) |
 | Blue Wish Resurrection Plus | 122850 | [122850-blue-wish-resurrection-plus.json](./122850-blue-wish-resurrection-plus.json) |
 | Blue Wyrm | 331956 | [331956-blue-wyrm.json](./331956-blue-wyrm.json) |
+| Blue-Sky-Blue(s): Sora o Mau Tsubasa | 271420 | [271420-blue-sky-blue-s-sora-o-mau-tsubasa.json](./271420-blue-sky-blue-s-sora-o-mau-tsubasa.json) |
 | Blue-Sky-Blue(s): Sora o Mau Tsubasa | 318594 | [318594-blue-sky-blue-s-sora-o-mau-tsubasa.json](./318594-blue-sky-blue-s-sora-o-mau-tsubasa.json) |
 | Blue: Store | 339452 | [339452-blue-store.json](./339452-blue-store.json) |
 | Blue. | 90131 | [90131-blue.json](./90131-blue.json) |
@@ -8340,6 +8342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Bomber | 14351 | [14351-bug-bomber.json](./14351-bug-bomber.json) |
 | Bug Bounce | 401068 | [401068-bug-bounce.json](./401068-bug-bounce.json) |
 | Bug Bunny: Discontroll | 373729 | [373729-bug-bunny-discontroll.json](./373729-bug-bunny-discontroll.json) |
+| Bug Busters | 271389 | [271389-bug-busters.json](./271389-bug-busters.json) |
 | Bug Catcher | 287651 | [287651-bug-catcher.json](./287651-bug-catcher.json) |
 | Bug Catcher | 380039 | [380039-bug-catcher.json](./380039-bug-catcher.json) |
 | Bug Cleaners | 336030 | [336030-bug-cleaners.json](./336030-bug-cleaners.json) |
