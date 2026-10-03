@@ -945,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain's Room | 181130 | [181130-captains-room.json](./181130-captains-room.json) |
 | CaptchaWare | 389659 | [389659-captchaware.json](./389659-captchaware.json) |
 | Captive | 196698 | [196698-captive.json](./196698-captive.json) |
+| Captive Audience | 247579 | [247579-captive-audience.json](./247579-captive-audience.json) |
 | Captive Love Melty Holic | 416078 | [416078-captive-love-melty-holic.json](./416078-captive-love-melty-holic.json) |
 | CaptMeow | 385832 | [385832-captmeow.json](./385832-captmeow.json) |
 | Capture | 104672 | [104672-capture.json](./104672-capture.json) |
@@ -1482,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Network: Punch Time Explosion XL | 21151 | [21151-cartoon-network-punch-time-explosion-xl.json](./21151-cartoon-network-punch-time-explosion-xl.json) |
 | Cartoon Network: Toon Jam! | 206759 | [206759-cartoon-network-toon-jam.json](./206759-cartoon-network-toon-jam.json) |
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
+| Cartoon Universe | 247576 | [247576-cartoon-universe.json](./247576-cartoon-universe.json) |
 | Cartoon Wars | 230784 | [230784-cartoon-wars.json](./230784-cartoon-wars.json) |
 | Cartoon Wars Blade | 369757 | [369757-cartoon-wars-blade.json](./369757-cartoon-wars-blade.json) |
 | Cartooners | 94685 | [94685-cartooners.json](./94685-cartooners.json) |
@@ -3174,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheezure | 316094 | [316094-cheezure.json](./316094-cheezure.json) |
 | Chef | 128575 | [128575-chef.json](./128575-chef.json) |
 | Chef | 247482 | [247482-chef.json](./247482-chef.json) |
+| Chef | 247653 | [247653-chef.json](./247653-chef.json) |
 | Chef Boyardee Can Simulator | 242507 | [242507-chef-boyardee-can-simulator.json](./242507-chef-boyardee-can-simulator.json) |
 | Chef Capybara | 253996 | [253996-chef-capybara.json](./253996-chef-capybara.json) |
 | Chef Curry | 113849 | [113849-chef-curry.json](./113849-chef-curry.json) |
@@ -7135,6 +7138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Game Pack | 409563 | [409563-cool-game-pack.json](./409563-cool-game-pack.json) |
 | Cool Go | 301282 | [301282-cool-go.json](./301282-cool-go.json) |
 | Cool Kid Cody | 195175 | [195175-cool-kid-cody.json](./195175-cool-kid-cody.json) |
+| Cool Kid Cody: Season 2 - Episode 02 | 247660 | [247660-cool-kid-cody-season-2-episode-02.json](./247660-cool-kid-cody-season-2-episode-02.json) |
 | Cool Kid Cody: Season 2 - Episode 04 | 248017 | [248017-cool-kid-cody-season-2-episode-04.json](./248017-cool-kid-cody-season-2-episode-04.json) |
 | Cool Kid Cody: Season 2 - Episode 05 | 248816 | [248816-cool-kid-cody-season-2-episode-05.json](./248816-cool-kid-cody-season-2-episode-05.json) |
 | Cool Kid Cody: Season 2 - Episode 09 | 253977 | [253977-cool-kid-cody-season-2-episode-09.json](./253977-cool-kid-cody-season-2-episode-09.json) |
