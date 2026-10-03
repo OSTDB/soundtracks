@@ -1129,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Files: Ghost Chapter | 187936 | [187936-paranormal-files-ghost-chapter.json](./187936-paranormal-files-ghost-chapter.json) |
 | Paranormal Files: Ghost Chapter - Collector's Edition | 168857 | [168857-paranormal-files-ghost-chapter-collectors-edition.json](./168857-paranormal-files-ghost-chapter-collectors-edition.json) |
 | Paranormal Files: Sacrifice to Shadows - Collector's Edition | 339788 | [339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json](./339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json) |
+| Paranormal Files: Silent Willow - Collector's Edition | 244295 | [244295-paranormal-files-silent-willow-collectors-edition.json](./244295-paranormal-files-silent-willow-collectors-edition.json) |
 | Paranormal Files: The Trap of Truth - Collector's Edition | 370900 | [370900-paranormal-files-the-trap-of-truth-collectors-edition.json](./370900-paranormal-files-the-trap-of-truth-collectors-edition.json) |
 | Paranormal Files: Trials of Worth - Collector's Edition | 272950 | [272950-paranormal-files-trials-of-worth-collectors-edition.json](./272950-paranormal-files-trials-of-worth-collectors-edition.json) |
 | Paranormal Motel | 193401 | [193401-paranormal-motel.json](./193401-paranormal-motel.json) |
@@ -4357,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Theory: Leviatán | 325711 | [325711-pixel-theory-leviatan.json](./325711-pixel-theory-leviatan.json) |
 | Pixel Top Down Shooter | 176345 | [176345-pixel-top-down-shooter.json](./176345-pixel-top-down-shooter.json) |
 | Pixel Town | 183872 | [183872-pixel-town.json](./183872-pixel-town.json) |
+| Pixel Town: Akanemachi Mystery 2 | 244311 | [244311-pixel-town-akanemachi-mystery-2.json](./244311-pixel-town-akanemachi-mystery-2.json) |
 | Pixel Town: Akanemachi Sideshow | 298162 | [298162-pixel-town-akanemachi-sideshow.json](./298162-pixel-town-akanemachi-sideshow.json) |
 | Pixel Traffic: Highway Racing | 102216 | [102216-pixel-traffic-highway-racing.json](./102216-pixel-traffic-highway-racing.json) |
 | Pixel Troopers | 351752 | [351752-pixel-troopers.json](./351752-pixel-troopers.json) |
@@ -7671,6 +7673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prodigy Racing | 311287 | [311287-prodigy-racing.json](./311287-prodigy-racing.json) |
 | Prodigy Tactics | 77360 | [77360-prodigy-tactics.json](./77360-prodigy-tactics.json) |
 | Prodoomer | 201234 | [201234-prodoomer.json](./201234-prodoomer.json) |
+| Producer Tycoon | 244319 | [244319-producer-tycoon.json](./244319-producer-tycoon.json) |
 | Production Line: Doors that go like this | 124782 | [124782-production-line-doors-that-go-like-this.json](./124782-production-line-doors-that-go-like-this.json) |
 | Prof. Miyamoto's Soroban & Flash Anzan | 244825 | [244825-prof-miyamotos-soroban-and-flash-anzan.json](./244825-prof-miyamotos-soroban-and-flash-anzan.json) |
 | Profanation | 304127 | [304127-profanation.json](./304127-profanation.json) |
