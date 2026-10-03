@@ -3549,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gore Crush | 323728 | [323728-gore-crush.json](./323728-gore-crush.json) |
 | Goreagulation | 223461 | [223461-goreagulation.json](./223461-goreagulation.json) |
 | Goreball | 122348 | [122348-goreball.json](./122348-goreball.json) |
+| Gorehounds of Doom | 261440 | [261440-gorehounds-of-doom.json](./261440-gorehounds-of-doom.json) |
 | Goremon | 249224 | [249224-goremon.json](./249224-goremon.json) |
 | Gorepunk | 337747 | [337747-gorepunk.json](./337747-gorepunk.json) |
 | Gorescript | 28889 | [28889-gorescript.json](./28889-gorescript.json) |
@@ -5492,6 +5493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunsmith | 81232 | [81232-gunsmith.json](./81232-gunsmith.json) |
 | Gunsmith Simulator | 133405 | [133405-gunsmith-simulator.json](./133405-gunsmith-simulator.json) |
 | Gunsmith Workshop Simulator | 286191 | [286191-gunsmith-workshop-simulator.json](./286191-gunsmith-workshop-simulator.json) |
+| Gunsmoke | 261449 | [261449-gunsmoke.json](./261449-gunsmoke.json) |
 | Gunso's Skateboard Run | 333733 | [333733-gunsos-skateboard-run.json](./333733-gunsos-skateboard-run.json) |
 | GunSoul Girl 2 | 213000 | [213000-gunsoul-girl-2.json](./213000-gunsoul-girl-2.json) |
 | Gunspell | 54071 | [54071-gunspell.json](./54071-gunspell.json) |
