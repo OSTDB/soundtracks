@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man World 2 | 305269 | [305269-pac-man-world-2.json](./305269-pac-man-world-2.json) |
 | Pac-Man World 2 Re-Pac | 358530 | [358530-pac-man-world-2-re-pac.json](./358530-pac-man-world-2-re-pac.json) |
 | Pac-Man World 2 Re-Pac x Sonic the Hedgehog | 361843 | [361843-pac-man-world-2-re-pac-x-sonic-the-hedgehog.json](./361843-pac-man-world-2-re-pac-x-sonic-the-hedgehog.json) |
+| Pac-Man World 3 | 243196 | [243196-pac-man-world-3.json](./243196-pac-man-world-3.json) |
 | Pac-Man World 3 | 4064 | [4064-pac-man-world-3.json](./4064-pac-man-world-3.json) |
 | Pac-Man World Re-Pac | 206811 | [206811-pac-man-world-re-pac.json](./206811-pac-man-world-re-pac.json) |
 | Pac-Man: Adventures in Time | 78239 | [78239-pac-man-adventures-in-time.json](./78239-pac-man-adventures-in-time.json) |
@@ -1081,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallel Olympus | 156132 | [156132-parallel-olympus.json](./156132-parallel-olympus.json) |
 | Parallel Pixel | 103422 | [103422-parallel-pixel.json](./103422-parallel-pixel.json) |
 | Parallel Plague: Good Old Days | 290487 | [290487-parallel-plague-good-old-days.json](./290487-parallel-plague-good-old-days.json) |
+| Parallel Room Escape | 243176 | [243176-parallel-room-escape.json](./243176-parallel-room-escape.json) |
 | Parallel World | 113026 | [113026-parallel-world.json](./113026-parallel-world.json) |
 | Parallel World in the Dream | 408206 | [408206-parallel-world-in-the-dream.json](./408206-parallel-world-in-the-dream.json) |
 | Parallel Worlds | 181373 | [181373-parallel-worlds.json](./181373-parallel-worlds.json) |
@@ -3704,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinging | 255976 | [255976-pinging.json](./255976-pinging.json) |
 | Pingo Puzzle Poker | 51167 | [51167-pingo-puzzle-poker.json](./51167-pingo-puzzle-poker.json) |
 | Pingolf | 318601 | [318601-pingolf.json](./318601-pingolf.json) |
+| Pingpon | 243174 | [243174-pingpon.json](./243174-pingpon.json) |
 | PingPong Kings VR | 89256 | [89256-pingpong-kings-vr.json](./89256-pingpong-kings-vr.json) |
 | Pingu and Friends | 130803 | [130803-pingu-and-friends.json](./130803-pingu-and-friends.json) |
 | Pingu no Waku-waku Carnival | 72786 | [72786-pingu-no-waku-waku-carnival.json](./72786-pingu-no-waku-waku-carnival.json) |
@@ -4168,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Princess Arena | 269219 | [269219-pixel-princess-arena.json](./269219-pixel-princess-arena.json) |
 | Pixel Privateers | 27405 | [27405-pixel-privateers.json](./27405-pixel-privateers.json) |
 | Pixel Pro Tennis | 213643 | [213643-pixel-pro-tennis.json](./213643-pixel-pro-tennis.json) |
+| Pixel Pro Winter Sports | 243175 | [243175-pixel-pro-winter-sports.json](./243175-pixel-pro-winter-sports.json) |
 | Pixel Punk | 252275 | [252275-pixel-punk.json](./252275-pixel-punk.json) |
 | Pixel Push Football | 240868 | [240868-pixel-push-football.json](./240868-pixel-push-football.json) |
 | Pixel Puzzle Makeout League | 121603 | [121603-pixel-puzzle-makeout-league.json](./121603-pixel-puzzle-makeout-league.json) |
@@ -6836,6 +6840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Battle for the Grid - Street Fighter Pack | 237979 | [237979-power-rangers-battle-for-the-grid-street-fighter-pack.json](./237979-power-rangers-battle-for-the-grid-street-fighter-pack.json) |
 | Power Rangers: Battle for the Grid - Trey of Triforia: Gold Zeo Ranger | 167792 | [167792-power-rangers-battle-for-the-grid-trey-of-triforia-gold-zeo-ranger.json](./167792-power-rangers-battle-for-the-grid-trey-of-triforia-gold-zeo-ranger.json) |
 | Power Rangers: Beats of Power | 198344 | [198344-power-rangers-beats-of-power.json](./198344-power-rangers-beats-of-power.json) |
+| Power Rangers: Dino Thunder | 243195 | [243195-power-rangers-dino-thunder.json](./243195-power-rangers-dino-thunder.json) |
 | Power Rangers: Force in Time | 220104 | [220104-power-rangers-force-in-time.json](./220104-power-rangers-force-in-time.json) |
 | Power Rangers: Lightspeed Rescue | 248766 | [248766-power-rangers-lightspeed-rescue.json](./248766-power-rangers-lightspeed-rescue.json) |
 | Power Rangers: Mystic Force | 330744 | [330744-power-rangers-mystic-force.json](./330744-power-rangers-mystic-force.json) |
