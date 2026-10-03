@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Estate | 66378 | [66378-zombie-estate.json](./66378-zombie-estate.json) |
 | Zombie Exodus: Safe Haven - Part Four | 388743 | [388743-zombie-exodus-safe-haven-part-four.json](./388743-zombie-exodus-safe-haven-part-four.json) |
 | Zombie Exodus: Safe Haven - Side Stories 2 | 291208 | [291208-zombie-exodus-safe-haven-side-stories-2.json](./291208-zombie-exodus-safe-haven-side-stories-2.json) |
+| Zombie Farm | 267549 | [267549-zombie-farm.json](./267549-zombie-farm.json) |
 | Zombie Fish Tank | 343999 | [343999-zombie-fish-tank.json](./343999-zombie-fish-tank.json) |
 | Zombie Flick | 58184 | [58184-zombie-flick.json](./58184-zombie-flick.json) |
 | Zombie Football Carnage | 52780 | [52780-zombie-football-carnage.json](./52780-zombie-football-carnage.json) |
@@ -1177,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zundamon Castle | 326689 | [326689-zundamon-castle.json](./326689-zundamon-castle.json) |
 | ZunderFury | 270411 | [270411-zunderfury.json](./270411-zunderfury.json) |
 | Zunius | 121740 | [121740-zunius.json](./121740-zunius.json) |
+| Zunou Taisen Live | 267542 | [267542-zunou-taisen-live.json](./267542-zunou-taisen-live.json) |
 | ZunZun Block | 172657 | [172657-zunzun-block.json](./172657-zunzun-block.json) |
 | Zunzunkyou No Yabou | 40972 | [40972-zunzunkyou-no-yabou.json](./40972-zunzunkyou-no-yabou.json) |
 | Zup-Zup! | 52097 | [52097-zup-zup.json](./52097-zup-zup.json) |
