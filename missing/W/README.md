@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Trails: A Hiking Game | 152742 | [152742-wandering-trails-a-hiking-game.json](./152742-wandering-trails-a-hiking-game.json) |
 | Wandering Willows | 16073 | [16073-wandering-willows.json](./16073-wandering-willows.json) |
 | Wanderland | 30901 | [30901-wanderland.json](./30901-wanderland.json) |
+| Wanderlost | 225712 | [225712-wanderlost.json](./225712-wanderlost.json) |
 | Wanderlust | 336914 | [336914-wanderlust.json](./336914-wanderlust.json) |
 | Wanderlust | 61175 | [61175-wanderlust.json](./61175-wanderlust.json) |
 | Wanderlust | 81181 | [81181-wanderlust.json](./81181-wanderlust.json) |
@@ -2728,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Terrain | 386423 | [386423-wild-terrain.json](./386423-wild-terrain.json) |
 | Wild Thing | 382411 | [382411-wild-thing.json](./382411-wild-thing.json) |
 | Wild Things: Animal Adventures | 109496 | [109496-wild-things-animal-adventures.json](./109496-wild-things-animal-adventures.json) |
+| Wild Thornberrys Australian Wildlife Rescue | 225704 | [225704-wild-thornberrys-australian-wildlife-rescue.json](./225704-wild-thornberrys-australian-wildlife-rescue.json) |
 | Wild Tower | 373740 | [373740-wild-tower.json](./373740-wild-tower.json) |
 | Wild Turkey Hunt | 95453 | [95453-wild-turkey-hunt.json](./95453-wild-turkey-hunt.json) |
 | Wild Warfare | 17598 | [17598-wild-warfare.json](./17598-wild-warfare.json) |
@@ -3280,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Epoch | 203528 | [203528-witch-epoch.json](./203528-witch-epoch.json) |
 | Witch Guardians: Quest for the Ancestral Magic | 309036 | [309036-witch-guardians-quest-for-the-ancestral-magic.json](./309036-witch-guardians-quest-for-the-ancestral-magic.json) |
 | Witch Halloween | 127913 | [127913-witch-halloween.json](./127913-witch-halloween.json) |
+| Witch Hat & Ears of Cat | 225553 | [225553-witch-hat-and-ears-of-cat.json](./225553-witch-hat-and-ears-of-cat.json) |
 | Witch House Mixtape | 271187 | [271187-witch-house-mixtape.json](./271187-witch-house-mixtape.json) |
 | Witch Hunt | 134420 | [134420-witch-hunt.json](./134420-witch-hunt.json) |
 | Witch Hunt | 210283 | [210283-witch-hunt.json](./210283-witch-hunt.json) |
