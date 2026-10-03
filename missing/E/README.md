@@ -2757,6 +2757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Void | 96245 | [96245-escape-void.json](./96245-escape-void.json) |
 | Escape War | 153960 | [153960-escape-war.json](./153960-escape-war.json) |
 | Escape Whisper Valley | 61673 | [61673-escape-whisper-valley.json](./61673-escape-whisper-valley.json) |
+| Escape with AI | 261984 | [261984-escape-with-ai.json](./261984-escape-with-ai.json) |
 | Escape With Bombs | 179134 | [179134-escape-with-bombs.json](./179134-escape-with-bombs.json) |
 | Escape with Monet | 96928 | [96928-escape-with-monet.json](./96928-escape-with-monet.json) |
 | Escape Zolstar | 121633 | [121633-escape-zolstar.json](./121633-escape-zolstar.json) |
@@ -2993,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Seas | 236509 | [236509-eternal-seas.json](./236509-eternal-seas.json) |
 | Eternal Silence | 29121 | [29121-eternal-silence.json](./29121-eternal-silence.json) |
 | Eternal Slumber Party | 224582 | [224582-eternal-slumber-party.json](./224582-eternal-slumber-party.json) |
+| Eternal Slumber Party II | 261960 | [261960-eternal-slumber-party-ii.json](./261960-eternal-slumber-party-ii.json) |
 | Eternal Space | 285532 | [285532-eternal-space.json](./285532-eternal-space.json) |
 | Eternal Spring VR | 290119 | [290119-eternal-spring-vr.json](./290119-eternal-spring-vr.json) |
 | Eternal Starshine | 182370 | [182370-eternal-starshine.json](./182370-eternal-starshine.json) |
