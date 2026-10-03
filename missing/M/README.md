@@ -5833,6 +5833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mightier | 50136 | [50136-mightier.json](./50136-mightier.json) |
 | Mightreya | 314489 | [314489-mightreya.json](./314489-mightreya.json) |
 | Mighty Aphid | 135156 | [135156-mighty-aphid.json](./135156-mighty-aphid.json) |
+| Mighty Aphid 2 | 231987 | [231987-mighty-aphid-2.json](./231987-mighty-aphid-2.json) |
 | Mighty Chameleon Brothers | 155469 | [155469-mighty-chameleon-brothers.json](./155469-mighty-chameleon-brothers.json) |
 | Mighty Ducks | 198818 | [198818-mighty-ducks.json](./198818-mighty-ducks.json) |
 | Mighty Final Fight | 1658 | [1658-mighty-final-fight.json](./1658-mighty-final-fight.json) |
@@ -10010,6 +10011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Thief | 191813 | [191813-music-thief.json](./191813-music-thief.json) |
 | Music95 | 149512 | [149512-music95.json](./149512-music95.json) |
 | Musical Balls | 149525 | [149525-musical-balls.json](./149525-musical-balls.json) |
+| Musical Chairs with Bulldozers and Other Heavy Equipment | 232003 | [232003-musical-chairs-with-bulldozers-and-other-heavy-equipment.json](./232003-musical-chairs-with-bulldozers-and-other-heavy-equipment.json) |
 | Musical de Primeiro de Abril | 243404 | [243404-musical-de-primeiro-de-abril.json](./243404-musical-de-primeiro-de-abril.json) |
 | Musical Range | 30819 | [30819-musical-range.json](./30819-musical-range.json) |
 | Musical Reflex | 80937 | [80937-musical-reflex.json](./80937-musical-reflex.json) |
