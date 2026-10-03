@@ -1057,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiborg: Arena | 306565 | [306565-kiborg-arena.json](./306565-kiborg-arena.json) |
 | Kiborg: Descent | 393609 | [393609-kiborg-descent.json](./393609-kiborg-descent.json) |
 | Kichiku Megane | 142451 | [142451-kichiku-megane.json](./142451-kichiku-megane.json) |
+| Kick and Cows | 243734 | [243734-kick-and-cows.json](./243734-kick-and-cows.json) |
 | Kick Ass Commandos | 20347 | [20347-kick-ass-commandos.json](./20347-kick-ass-commandos.json) |
 | Kick Ball | 42051 | [42051-kick-ball.json](./42051-kick-ball.json) |
 | Kick Bastards | 173258 | [173258-kick-bastards.json](./173258-kick-bastards.json) |
@@ -2067,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitori Academy | 136477 | [136477-kitori-academy.json](./136477-kitori-academy.json) |
 | KitPupPom! | 176279 | [176279-kitpuppom.json](./176279-kitpuppom.json) |
 | Kitrinos: Inside the Cube | 105349 | [105349-kitrinos-inside-the-cube.json](./105349-kitrinos-inside-the-cube.json) |
+| Kits | 243760 | [243760-kits.json](./243760-kits.json) |
 | Kitsu Saga | 98813 | [98813-kitsu-saga.json](./98813-kitsu-saga.json) |
 | Kitsu's Destiny | 221148 | [221148-kitsus-destiny.json](./221148-kitsus-destiny.json) |
 | Kitsune Battlemage | 190236 | [190236-kitsune-battlemage.json](./190236-kitsune-battlemage.json) |
