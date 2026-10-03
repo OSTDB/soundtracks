@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bird's Tale | 207242 | [207242-a-birds-tale.json](./207242-a-birds-tale.json) |
 | A Birthday Present | 254033 | [254033-a-birthday-present.json](./254033-a-birthday-present.json) |
 | A Bit of Tactics | 221112 | [221112-a-bit-of-tactics.json](./221112-a-bit-of-tactics.json) |
+| A Blast from the Past | 233566 | [233566-a-blast-from-the-past.json](./233566-a-blast-from-the-past.json) |
 | A Blocky Kind of Love | 234012 | [234012-a-blocky-kind-of-love.json](./234012-a-blocky-kind-of-love.json) |
 | A Bomb's Way | 64677 | [64677-a-bombs-way.json](./64677-a-bombs-way.json) |
 | A Bonte Escape | 225283 | [225283-a-bonte-escape.json](./225283-a-bonte-escape.json) |
@@ -1728,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aesthetic | 325102 | [325102-aesthetic.json](./325102-aesthetic.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
 | Aeterna Noctis: Virtuoso | 270860 | [270860-aeterna-noctis-virtuoso.json](./270860-aeterna-noctis-virtuoso.json) |
+| Aeterna: Rubra Plena | 233579 | [233579-aeterna-rubra-plena.json](./233579-aeterna-rubra-plena.json) |
 | Aeternitas | 111896 | [111896-aeternitas.json](./111896-aeternitas.json) |
 | AeternoBlade II | 28079 | [28079-aeternoblade-ii.json](./28079-aeternoblade-ii.json) |
 | AeternoBlade II: Infinity | 285602 | [285602-aeternoblade-ii-infinity.json](./285602-aeternoblade-ii-infinity.json) |
@@ -2564,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akanesasu Sekai de Kimi to Utau | 240479 | [240479-akanesasu-sekai-de-kimi-to-utau.json](./240479-akanesasu-sekai-de-kimi-to-utau.json) |
 | Akapulka: The Rainbow | 201666 | [201666-akapulka-the-rainbow.json](./201666-akapulka-the-rainbow.json) |
 | Akari by Nikoli | 84869 | [84869-akari-by-nikoli.json](./84869-akari-by-nikoli.json) |
+| Akari: School Trip | 233654 | [233654-akari-school-trip.json](./233654-akari-school-trip.json) |
 | Akasha | 250512 | [250512-akasha.json](./250512-akasha.json) |
 | Akasha Dreams | 257537 | [257537-akasha-dreams.json](./257537-akasha-dreams.json) |
 | Akashi | 229379 | [229379-akashi.json](./229379-akashi.json) |
@@ -6022,6 +6025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Zing Zing Zip | 265707 | [265707-arcade-archives-zing-zing-zip.json](./265707-arcade-archives-zing-zing-zip.json) |
 | Arcade Asylum | 276711 | [276711-arcade-asylum.json](./276711-arcade-asylum.json) |
 | Arcade Audience | 417501 | [417501-arcade-audience.json](./417501-arcade-audience.json) |
+| Arcade Bank 3 Minute Tetris | 233648 | [233648-arcade-bank-3-minute-tetris.json](./233648-arcade-bank-3-minute-tetris.json) |
 | Arcade Basketball 3D Tournament Edition | 241611 | [241611-arcade-basketball-3d-tournament-edition.json](./241611-arcade-basketball-3d-tournament-edition.json) |
 | Arcade Blast | 202699 | [202699-arcade-blast.json](./202699-arcade-blast.json) |
 | Arcade Boss Simulator | 345567 | [345567-arcade-boss-simulator.json](./345567-arcade-boss-simulator.json) |
@@ -6041,6 +6045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Galaxy | 346596 | [346596-arcade-galaxy.json](./346596-arcade-galaxy.json) |
 | Arcade Galaxy Builder | 263998 | [263998-arcade-galaxy-builder.json](./263998-arcade-galaxy-builder.json) |
 | Arcade Game Construction Kit | 44125 | [44125-arcade-game-construction-kit.json](./44125-arcade-game-construction-kit.json) |
+| Arcade Game Piggy Bank: Atari Breakout | 233649 | [233649-arcade-game-piggy-bank-atari-breakout.json](./233649-arcade-game-piggy-bank-atari-breakout.json) |
 | Arcade Game Series: Pac-Man | 68344 | [68344-arcade-game-series-pac-man.json](./68344-arcade-game-series-pac-man.json) |
 | Arcade Game Zone | 279251 | [279251-arcade-game-zone.json](./279251-arcade-game-zone.json) |
 | Arcade Gamer | 202794 | [202794-arcade-gamer.json](./202794-arcade-gamer.json) |
@@ -7759,6 +7764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Race | 172593 | [172593-astro-race.json](./172593-astro-race.json) |
 | Astro Raiders | 419902 | [419902-astro-raiders.json](./419902-astro-raiders.json) |
 | Astro Ranch | 66729 | [66729-astro-ranch.json](./66729-astro-ranch.json) |
+| Astro Smash 'n' Blast! | 233553 | [233553-astro-smash-n-blast.json](./233553-astro-smash-n-blast.json) |
 | Astro Spider: Between Threads and Stars | 364067 | [364067-astro-spider-between-threads-and-stars.json](./364067-astro-spider-between-threads-and-stars.json) |
 | Astro Tripper | 16265 | [16265-astro-tripper.json](./16265-astro-tripper.json) |
 | Astro Warrior | 37176 | [37176-astro-warrior.json](./37176-astro-warrior.json) |
