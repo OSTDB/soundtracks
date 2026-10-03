@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nantucket: Masters of the Seven Seas | 155045 | [155045-nantucket-masters-of-the-seven-seas.json](./155045-nantucket-masters-of-the-seven-seas.json) |
 | Nanuk: The dusk of the brutes | 252401 | [252401-nanuk-the-dusk-of-the-brutes.json](./252401-nanuk-the-dusk-of-the-brutes.json) |
 | Nanuka: Secret of the Shattering Moon | 298120 | [298120-nanuka-secret-of-the-shattering-moon.json](./298120-nanuka-secret-of-the-shattering-moon.json) |
+| Nanwaka Legend | 227754 | [227754-nanwaka-legend.json](./227754-nanwaka-legend.json) |
 | Nao Kalfsins | 176827 | [176827-nao-kalfsins.json](./176827-nao-kalfsins.json) |
 | Nao's Love Triangle: Hentai Puzzle 18+ | 312690 | [312690-naos-love-triangle-hentai-puzzle-18.json](./312690-naos-love-triangle-hentai-puzzle-18.json) |
 | Naoki | 326270 | [326270-naoki.json](./326270-naoki.json) |
