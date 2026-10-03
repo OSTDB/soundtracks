@@ -5102,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Chase Turbo: Senna Forever | 176882 | [176882-horizon-chase-turbo-senna-forever.json](./176882-horizon-chase-turbo-senna-forever.json) |
 | Horizon Forbidden West: Burning Shores | 228533 | [228533-horizon-forbidden-west-burning-shores.json](./228533-horizon-forbidden-west-burning-shores.json) |
 | Horizon Forbidden West: Complete Edition | 268842 | [268842-horizon-forbidden-west-complete-edition.json](./268842-horizon-forbidden-west-complete-edition.json) |
+| Horizon Forbidden West: Major Update 1.14 | 227890 | [227890-horizon-forbidden-west-major-update-1-14.json](./227890-horizon-forbidden-west-major-update-1-14.json) |
 | Horizon Odyssey | 158558 | [158558-horizon-odyssey.json](./158558-horizon-odyssey.json) |
 | Horizon of History | 30763 | [30763-horizon-of-history.json](./30763-horizon-of-history.json) |
 | Horizon Riders | 84516 | [84516-horizon-riders.json](./84516-horizon-riders.json) |
