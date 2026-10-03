@@ -1494,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Run | 254752 | [254752-taxi-run.json](./254752-taxi-run.json) |
 | Taxi Sim 2016 | 262382 | [262382-taxi-sim-2016.json](./262382-taxi-sim-2016.json) |
 | Taxi Simulator | 343327 | [343327-taxi-simulator.json](./343327-taxi-simulator.json) |
+| Taxi Simulator in City | 263702 | [263702-taxi-simulator-in-city.json](./263702-taxi-simulator-in-city.json) |
 | Taxi Xtreme Urban Racer | 320368 | [320368-taxi-xtreme-urban-racer.json](./320368-taxi-xtreme-urban-racer.json) |
 | Taxi! | 9454 | [9454-taxi.json](./9454-taxi.json) |
 | Taxidermy | 127828 | [127828-taxidermy.json](./127828-taxidermy.json) |
@@ -8868,6 +8869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tarkiff Transfer Incident | 231370 | [231370-the-tarkiff-transfer-incident.json](./231370-the-tarkiff-transfer-incident.json) |
 | The Tarot Experience VR | 257684 | [257684-the-tarot-experience-vr.json](./257684-the-tarot-experience-vr.json) |
 | The Tartarus Loop | 410449 | [410449-the-tartarus-loop.json](./410449-the-tartarus-loop.json) |
+| The Tartine's Show | 263657 | [263657-the-tartines-show.json](./263657-the-tartines-show.json) |
 | The Tavern Online. | 214767 | [214767-the-tavern-online.json](./214767-the-tavern-online.json) |
 | The Tear | 115005 | [115005-the-tear.json](./115005-the-tear.json) |
 | The Technomancer | 9919 | [9919-the-technomancer.json](./9919-the-technomancer.json) |
@@ -15289,6 +15291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tret | 314932 | [314932-tret.json](./314932-tret.json) |
 | Tretis | 277980 | [277980-tretis.json](./277980-tretis.json) |
 | Tretrais | 346675 | [346675-tretrais.json](./346675-tretrais.json) |
+| Trev to the Rescue! | 263667 | [263667-trev-to-the-rescue.json](./263667-trev-to-the-rescue.json) |
 | Trevor Sorensen's Star Legions | 54398 | [54398-trevor-sorensens-star-legions.json](./54398-trevor-sorensens-star-legions.json) |
 | TRex Hero | 306381 | [306381-trex-hero.json](./306381-trex-hero.json) |
 | Tri Breaker: A Sacred Symbols Odyssey | 322644 | [322644-tri-breaker-a-sacred-symbols-odyssey.json](./322644-tri-breaker-a-sacred-symbols-odyssey.json) |
