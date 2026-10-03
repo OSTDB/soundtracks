@@ -3775,6 +3775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinpoint | 321116 | [321116-pinpoint.json](./321116-pinpoint.json) |
 | PinRogue | 406935 | [406935-pinrogue.json](./406935-pinrogue.json) |
 | Pinstripe | 20454 | [20454-pinstripe.json](./20454-pinstripe.json) |
+| Pinta's Quest | 227748 | [227748-pintas-quest.json](./227748-pintas-quest.json) |
 | Pintando com Senninha | 408277 | [408277-pintando-com-senninha.json](./408277-pintando-com-senninha.json) |
 | Pintar | 330529 | [330529-pintar.json](./330529-pintar.json) |
 | Pintaris | 310129 | [310129-pintaris.json](./310129-pintaris.json) |
@@ -5364,6 +5365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Podd | 66704 | [66704-podd.json](./66704-podd.json) |
 | Pode | 94054 | [94054-pode.json](./94054-pode.json) |
 | Podnabu | 291256 | [291256-podnabu.json](./291256-podnabu.json) |
+| Poe | 227889 | [227889-poe.json](./227889-poe.json) |
 | Poe | 293362 | [293362-poe.json](./293362-poe.json) |
 | Poem Ex Machina | 333106 | [333106-poem-ex-machina.json](./333106-poem-ex-machina.json) |
 | Poems & Codes | 244281 | [244281-poems-and-codes.json](./244281-poems-and-codes.json) |
@@ -6925,6 +6927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Stakes: Grade 1 | 141165 | [141165-power-stakes-grade-1.json](./141165-power-stakes-grade-1.json) |
 | Power Star Frenzy | 135090 | [135090-power-star-frenzy.json](./135090-power-star-frenzy.json) |
 | Power Star Unleashed | 315024 | [315024-power-star-unleashed.json](./315024-power-star-unleashed.json) |
+| Power Stone Mini | 227746 | [227746-power-stone-mini.json](./227746-power-stone-mini.json) |
 | Power Structure | 271318 | [271318-power-structure.json](./271318-power-structure.json) |
 | Power Struggle | 129005 | [129005-power-struggle.json](./129005-power-struggle.json) |
 | Power Struggle | 55031 | [55031-power-struggle.json](./55031-power-struggle.json) |
@@ -8147,6 +8150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Spikepig | 326997 | [326997-project-spikepig.json](./326997-project-spikepig.json) |
 | Project Stack | 311786 | [311786-project-stack.json](./311786-project-stack.json) |
 | Project Star | 272347 | [272347-project-star.json](./272347-project-star.json) |
+| Project Star: Makeover Story | 227983 | [227983-project-star-makeover-story.json](./227983-project-star-makeover-story.json) |
 | Project Starblade | 391151 | [391151-project-starblade.json](./391151-project-starblade.json) |
 | Project Starcrash | 311136 | [311136-project-starcrash.json](./311136-project-starcrash.json) |
 | Project Starship | 33222 | [33222-project-starship.json](./33222-project-starship.json) |
