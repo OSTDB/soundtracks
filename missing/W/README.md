@@ -2934,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Up | 231291 | [231291-wind-up.json](./231291-wind-up.json) |
 | Wind Up! | 152785 | [152785-wind-up.json](./152785-wind-up.json) |
 | Wind-Up Knight | 65528 | [65528-wind-up-knight.json](./65528-wind-up-knight.json) |
+| Wind-Up Maze HD | 232497 | [232497-wind-up-maze-hd.json](./232497-wind-up-maze-hd.json) |
 | Wind: A Breath of Heart | 161174 | [161174-wind-a-breath-of-heart.json](./161174-wind-a-breath-of-heart.json) |
 | Wind's Poem | 325065 | [325065-winds-poem.json](./325065-winds-poem.json) |
 | Windah Horror Adventure | 330346 | [330346-windah-horror-adventure.json](./330346-windah-horror-adventure.json) |
