@@ -3112,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ash Remembers | 415267 | [415267-the-ash-remembers.json](./415267-the-ash-remembers.json) |
 | The Ashes of the Fallen Fires | 181132 | [181132-the-ashes-of-the-fallen-fires.json](./181132-the-ashes-of-the-fallen-fires.json) |
 | The Asmodian Princesses and the Witch in the Forest | 199088 | [199088-the-asmodian-princesses-and-the-witch-in-the-forest.json](./199088-the-asmodian-princesses-and-the-witch-in-the-forest.json) |
+| The Assailant's Arrival | 254659 | [254659-the-assailants-arrival.json](./254659-the-assailants-arrival.json) |
 | The Assassins: PD Games Volume 01 | 267643 | [267643-the-assassins-pd-games-volume-01.json](./267643-the-assassins-pd-games-volume-01.json) |
 | The Assault: Survivor | 395780 | [395780-the-assault-survivor.json](./395780-the-assault-survivor.json) |
 | The Assistant's Turnabout | 303261 | [303261-the-assistants-turnabout.json](./303261-the-assistants-turnabout.json) |
@@ -3196,6 +3197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ball | 9402 | [9402-the-ball.json](./9402-the-ball.json) |
 | The Ball Adventure | 148535 | [148535-the-ball-adventure.json](./148535-the-ball-adventure.json) |
 | The Ball Flow: Nature and Light | 199597 | [199597-the-ball-flow-nature-and-light.json](./199597-the-ball-flow-nature-and-light.json) |
+| The Ball Game: One Touch Arcade | 254694 | [254694-the-ball-game-one-touch-arcade.json](./254694-the-ball-game-one-touch-arcade.json) |
 | The Ball of the Rings | 176480 | [176480-the-ball-of-the-rings.json](./176480-the-ball-of-the-rings.json) |
 | The Ball Pit | 336382 | [336382-the-ball-pit.json](./336382-the-ball-pit.json) |
 | The Ball Reach | 105542 | [105542-the-ball-reach.json](./105542-the-ball-reach.json) |
@@ -9374,6 +9376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unfound Soul | 231403 | [231403-the-unfound-soul.json](./231403-the-unfound-soul.json) |
 | The Ungrateful Son | 340593 | [340593-the-ungrateful-son.json](./340593-the-ungrateful-son.json) |
 | The Unholy Society | 78751 | [78751-the-unholy-society.json](./78751-the-unholy-society.json) |
+| The Unic | 254697 | [254697-the-unic.json](./254697-the-unic.json) |
 | The Unicated | 327388 | [327388-the-unicated.json](./327388-the-unicated.json) |
 | The Unicorn Princess | 124157 | [124157-the-unicorn-princess.json](./124157-the-unicorn-princess.json) |
 | The Uninvited 2: Let Nothing You Dismay | 370106 | [370106-the-uninvited-2-let-nothing-you-dismay.json](./370106-the-uninvited-2-let-nothing-you-dismay.json) |
@@ -12047,6 +12050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Utopia | 390175 | [390175-tiny-utopia.json](./390175-tiny-utopia.json) |
 | Tiny Vikings | 276813 | [276813-tiny-vikings.json](./276813-tiny-vikings.json) |
 | Tiny Vision | 161332 | [161332-tiny-vision.json](./161332-tiny-vision.json) |
+| Tiny Visitors | 254656 | [254656-tiny-visitors.json](./254656-tiny-visitors.json) |
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
 | Tiny Whoop GO | 144143 | [144143-tiny-whoop-go.json](./144143-tiny-whoop-go.json) |
 | Tiny Wizard Tavern | 412388 | [412388-tiny-wizard-tavern.json](./412388-tiny-wizard-tavern.json) |
@@ -15288,6 +15292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Island 2 | 257411 | [257411-treasure-island-2.json](./257411-treasure-island-2.json) |
 | Treasure Island Arcade | 131519 | [131519-treasure-island-arcade.json](./131519-treasure-island-arcade.json) |
 | Treasure Island: The Golden Bug - Extended Edition | 257475 | [257475-treasure-island-the-golden-bug-extended-edition.json](./257475-treasure-island-the-golden-bug-extended-edition.json) |
+| Treasure Mountain | 254658 | [254658-treasure-mountain.json](./254658-treasure-mountain.json) |
 | Treasure of a Blizzard | 31921 | [31921-treasure-of-a-blizzard.json](./31921-treasure-of-a-blizzard.json) |
 | Treasure of Barracuda | 165695 | [165695-treasure-of-barracuda.json](./165695-treasure-of-barracuda.json) |
 | Treasure of Big Totem | 315258 | [315258-treasure-of-big-totem.json](./315258-treasure-of-big-totem.json) |
@@ -15573,6 +15578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger | 104044 | [104044-trigger.json](./104044-trigger.json) |
 | Trigger | 179070 | [179070-trigger.json](./179070-trigger.json) |
 | Trigger | 63910 | [63910-trigger.json](./63910-trigger.json) |
+| Trigger Fever | 254657 | [254657-trigger-fever.json](./254657-trigger-fever.json) |
 | Trigger Happy | 174806 | [174806-trigger-happy.json](./174806-trigger-happy.json) |
 | Trigger Heart Exelica Enhanced | 43476 | [43476-trigger-heart-exelica-enhanced.json](./43476-trigger-heart-exelica-enhanced.json) |
 | Trigger Knight | 314452 | [314452-trigger-knight.json](./314452-trigger-knight.json) |
