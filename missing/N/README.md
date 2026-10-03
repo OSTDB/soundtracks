@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrosphere | 36626 | [36626-necrosphere.json](./36626-necrosphere.json) |
 | Necrosphere Deluxe | 114026 | [114026-necrosphere-deluxe.json](./114026-necrosphere-deluxe.json) |
 | NecroTactics | 223418 | [223418-necrotactics.json](./223418-necrotactics.json) |
+| Necrotic Haze | 256420 | [256420-necrotic-haze.json](./256420-necrotic-haze.json) |
 | Necrotyper | 360594 | [360594-necrotyper.json](./360594-necrotyper.json) |
 | Necroverse: Undying Shadows | 391262 | [391262-necroverse-undying-shadows.json](./391262-necroverse-undying-shadows.json) |
 | Necrowarp | 129691 | [129691-necrowarp.json](./129691-necrowarp.json) |
@@ -2101,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nigel's Journey: A Working Day | 133378 | [133378-nigels-journey-a-working-day.json](./133378-nigels-journey-a-working-day.json) |
 | Nigel's World Adventure: Geography | 209402 | [209402-nigels-world-adventure-geography.json](./209402-nigels-world-adventure-geography.json) |
 | Nigella | 201315 | [201315-nigella.json](./201315-nigella.json) |
+| Nigepico | 256416 | [256416-nigepico.json](./256416-nigepico.json) |
 | Nigepico 1.2 | 256514 | [256514-nigepico-1-2.json](./256514-nigepico-1-2.json) |
 | Niggle (Oh Hell!) | 102215 | [102215-niggle-oh-hell.json](./102215-niggle-oh-hell.json) |
 | Night Agent: I'm the Savior | 266266 | [266266-night-agent-im-the-savior.json](./266266-night-agent-im-the-savior.json) |
@@ -3994,5 +3996,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NYT Games | 280218 | [280218-nyt-games.json](./280218-nyt-games.json) |
 | Nyx | 98804 | [98804-nyx.json](./98804-nyx.json) |
 | Nyx Legacy | 387508 | [387508-nyx-legacy.json](./387508-nyx-legacy.json) |
+| NYX x Barbie: The Movie | 256453 | [256453-nyx-x-barbie-the-movie.json](./256453-nyx-x-barbie-the-movie.json) |
 | Nyyo | 210569 | [210569-nyyo.json](./210569-nyyo.json) |
 | NYZD | 291442 | [291442-nyzd.json](./291442-nyzd.json) |
