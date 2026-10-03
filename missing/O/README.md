@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ojou-sama to Himitsu no Otome | 132100 | [132100-ojou-sama-to-himitsu-no-otome.json](./132100-ojou-sama-to-himitsu-no-otome.json) |
 | Ojousama Sousamou | 70400 | [70400-ojousama-sousamou.json](./70400-ojousama-sousamou.json) |
 | OK Boomer | 127160 | [127160-ok-boomer.json](./127160-ok-boomer.json) |
+| OK! Bird: Wing Up | 240863 | [240863-ok-bird-wing-up.json](./240863-ok-bird-wing-up.json) |
 | Ok/Normal | 101635 | [101635-ok-normal.json](./101635-ok-normal.json) |
 | Okabu | 20603 | [20603-okabu.json](./20603-okabu.json) |
 | Okada Toshio no Itsumade mo Debu to Omounayo | 70633 | [70633-okada-toshio-no-itsumade-mo-debu-to-omounayo.json](./70633-okada-toshio-no-itsumade-mo-debu-to-omounayo.json) |
@@ -1413,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Tower Defense | 390517 | [390517-one-tower-defense.json](./390517-one-tower-defense.json) |
 | One True Hero | 208434 | [208434-one-true-hero.json](./208434-one-true-hero.json) |
 | One True Path | 334151 | [334151-one-true-path.json](./334151-one-true-path.json) |
+| One True Waifu | 240944 | [240944-one-true-waifu.json](./240944-one-true-waifu.json) |
 | One Try Tower | 150623 | [150623-one-try-tower.json](./150623-one-try-tower.json) |
 | One Try, One Kill | 151121 | [151121-one-try-one-kill.json](./151121-one-try-one-kill.json) |
 | One Turkey, Two Turkeys | 332244 | [332244-one-turkey-two-turkeys.json](./332244-one-turkey-two-turkeys.json) |
