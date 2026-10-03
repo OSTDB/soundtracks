@@ -8607,6 +8607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: EA Play Edition | 384181 | [384181-the-sims-4-ea-play-edition.json](./384181-the-sims-4-ea-play-edition.json) |
 | The Sims 4: Eco Lifestyle | 135144 | [135144-the-sims-4-eco-lifestyle.json](./135144-the-sims-4-eco-lifestyle.json) |
 | The Sims 4: Essential Glam Kit | 362300 | [362300-the-sims-4-essential-glam-kit.json](./362300-the-sims-4-essential-glam-kit.json) |
+| The Sims 4: Everyday Clutter Kit | 226792 | [226792-the-sims-4-everyday-clutter-kit.json](./226792-the-sims-4-everyday-clutter-kit.json) |
 | The Sims 4: Everyday Stuff Bundle | 159341 | [159341-the-sims-4-everyday-stuff-bundle.json](./159341-the-sims-4-everyday-stuff-bundle.json) |
 | The Sims 4: Extreme Violence | 259250 | [259250-the-sims-4-extreme-violence.json](./259250-the-sims-4-extreme-violence.json) |
 | The Sims 4: Fitness Stuff | 121027 | [121027-the-sims-4-fitness-stuff.json](./121027-the-sims-4-fitness-stuff.json) |
@@ -8642,6 +8643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Outdoor Bundle | 159339 | [159339-the-sims-4-outdoor-bundle.json](./159339-the-sims-4-outdoor-bundle.json) |
 | The Sims 4: Outdoor Retreat | 13145 | [13145-the-sims-4-outdoor-retreat.json](./13145-the-sims-4-outdoor-retreat.json) |
 | The Sims 4: Party Essentials Kit | 296899 | [296899-the-sims-4-party-essentials-kit.json](./296899-the-sims-4-party-essentials-kit.json) |
+| The Sims 4: Pastel Pop Kit | 226791 | [226791-the-sims-4-pastel-pop-kit.json](./226791-the-sims-4-pastel-pop-kit.json) |
 | The Sims 4: Plus Journey to Batuu Bundle | 139823 | [139823-the-sims-4-plus-journey-to-batuu-bundle.json](./139823-the-sims-4-plus-journey-to-batuu-bundle.json) |
 | The Sims 4: Poolside Splash Kit | 265704 | [265704-the-sims-4-poolside-splash-kit.json](./265704-the-sims-4-poolside-splash-kit.json) |
 | The Sims 4: Prairie Dreams | 404225 | [404225-the-sims-4-prairie-dreams.json](./404225-the-sims-4-prairie-dreams.json) |
@@ -16329,6 +16331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TS Marketplace: LMS P1&P2 BR Maroon Coach Pack Add-On | 227293 | [227293-ts-marketplace-lms-p1-and-p2-br-maroon-coach-pack-add-on.json](./227293-ts-marketplace-lms-p1-and-p2-br-maroon-coach-pack-add-on.json) |
 | TS Marketplace: LMS P1&P2 LMS Early Coach Pack Add-On | 227289 | [227289-ts-marketplace-lms-p1-and-p2-lms-early-coach-pack-add-on.json](./227289-ts-marketplace-lms-p1-and-p2-lms-early-coach-pack-add-on.json) |
 | TS Marketplace: LMS P1&P2 LMS Late Coach Pack Add-On | 227302 | [227302-ts-marketplace-lms-p1-and-p2-lms-late-coach-pack-add-on.json](./227302-ts-marketplace-lms-p1-and-p2-lms-late-coach-pack-add-on.json) |
+| TS Marketplace: LMS Period 1 Non-Corridor Coach Pack BR Crimson | 226789 | [226789-ts-marketplace-lms-period-1-non-corridor-coach-pack-br-crimson.json](./226789-ts-marketplace-lms-period-1-non-corridor-coach-pack-br-crimson.json) |
 | TS Marketplace: LMS Period 1 Non-Corridor Coach Pack BR Maroon | 227233 | [227233-ts-marketplace-lms-period-1-non-corridor-coach-pack-br-maroon.json](./227233-ts-marketplace-lms-period-1-non-corridor-coach-pack-br-maroon.json) |
 | TS Marketplace: Loadhaul CEA Covered Hopper Wagon Pack | 227218 | [227218-ts-marketplace-loadhaul-cea-covered-hopper-wagon-pack.json](./227218-ts-marketplace-loadhaul-cea-covered-hopper-wagon-pack.json) |
 | TS Marketplace: Marias Pass Scenario Pack 01 | 196896 | [196896-ts-marketplace-marias-pass-scenario-pack-01.json](./196896-ts-marketplace-marias-pass-scenario-pack-01.json) |
