@@ -1932,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fer.al | 134534 | [134534-fer-al.json](./134534-fer-al.json) |
 | Feral | 192323 | [192323-feral.json](./192323-feral.json) |
 | Feral Blue | 99078 | [99078-feral-blue.json](./99078-feral-blue.json) |
+| Feral Boyfriend | 268659 | [268659-feral-boyfriend.json](./268659-feral-boyfriend.json) |
 | Feral Echoes | 351689 | [351689-feral-echoes.json](./351689-feral-echoes.json) |
 | Feralscape | 185417 | [185417-feralscape.json](./185417-feralscape.json) |
 | Ferarum | 396366 | [396366-ferarum.json](./396366-ferarum.json) |
