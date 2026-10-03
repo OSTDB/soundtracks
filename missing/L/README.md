@@ -2448,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light on Earth | 383971 | [383971-light-on-earth.json](./383971-light-on-earth.json) |
 | Light Paradox | 190068 | [190068-light-paradox.json](./190068-light-paradox.json) |
 | Light Pollution | 262293 | [262293-light-pollution.json](./262293-light-pollution.json) |
+| Light Quest | 231991 | [231991-light-quest.json](./231991-light-quest.json) |
 | Light Rangers: Mending the Maniac Madness | 209406 | [209406-light-rangers-mending-the-maniac-madness.json](./209406-light-rangers-mending-the-maniac-madness.json) |
 | Light Repair Team #4 | 33498 | [33498-light-repair-team-4.json](./33498-light-repair-team-4.json) |
 | Light Rider | 108427 | [108427-light-rider.json](./108427-light-rider.json) |
