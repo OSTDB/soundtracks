@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PalWar | 371275 | [371275-palwar.json](./371275-palwar.json) |
 | Palworld: Palfarm | 369677 | [369677-palworld-palfarm.json](./369677-palworld-palfarm.json) |
 | Palworld: Pokémon Mod | 296045 | [296045-palworld-pokemon-mod.json](./296045-palworld-pokemon-mod.json) |
+| Pam's Fantastic Escape | 243723 | [243723-pams-fantastic-escape.json](./243723-pams-fantastic-escape.json) |
 | Pam's HarvestCraft | 232682 | [232682-pams-harvestcraft.json](./232682-pams-harvestcraft.json) |
 | Pamali: Indonesian Folklore Horror - The Tied Corpse | 117737 | [117737-pamali-indonesian-folklore-horror-the-tied-corpse.json](./117737-pamali-indonesian-folklore-horror-the-tied-corpse.json) |
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
@@ -1536,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Achra | 222738 | [222738-path-of-achra.json](./222738-path-of-achra.json) |
 | Path of Ambition: The Sun Rise | 295375 | [295375-path-of-ambition-the-sun-rise.json](./295375-path-of-ambition-the-sun-rise.json) |
 | Path of Ascension | 259003 | [259003-path-of-ascension.json](./259003-path-of-ascension.json) |
+| Path of Colors | 243762 | [243762-path-of-colors.json](./243762-path-of-colors.json) |
 | Path of Destruction | 195773 | [195773-path-of-destruction.json](./195773-path-of-destruction.json) |
 | Path of Dragoon | 275127 | [275127-path-of-dragoon.json](./275127-path-of-dragoon.json) |
 | Path of Evil: Immortal Hunter | 174758 | [174758-path-of-evil-immortal-hunter.json](./174758-path-of-evil-immortal-hunter.json) |
@@ -1763,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pay for Picture: Vol.01 | 335335 | [335335-pay-for-picture-vol-01.json](./335335-pay-for-picture-vol-01.json) |
 | Pay Me In Colors | 287764 | [287764-pay-me-in-colors.json](./287764-pay-me-in-colors.json) |
 | Pay Your Crimes | 339090 | [339090-pay-your-crimes.json](./339090-pay-your-crimes.json) |
+| PayaPaya | 243724 | [243724-payapaya.json](./243724-payapaya.json) |
 | Payback 2 | 212494 | [212494-payback-2.json](./212494-payback-2.json) |
 | Payback Showdown | 174876 | [174876-payback-showdown.json](./174876-payback-showdown.json) |
 | Paycheck: City RPG | 130383 | [130383-paycheck-city-rpg.json](./130383-paycheck-city-rpg.json) |
