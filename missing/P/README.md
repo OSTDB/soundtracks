@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time 3 | 324133 | [324133-party-party-time-3.json](./324133-party-party-time-3.json) |
 | Party Party Time: Happy Happy Pack | 259855 | [259855-party-party-time-happy-happy-pack.json](./259855-party-party-time-happy-happy-pack.json) |
 | Party Party Time: Party Harder Pack | 233000 | [233000-party-party-time-party-harder-pack.json](./233000-party-party-time-party-harder-pack.json) |
+| Party Party Time: Thrilling Party Pack | 275840 | [275840-party-party-time-thrilling-party-pack.json](./275840-party-party-time-thrilling-party-pack.json) |
 | Party Pie | 208445 | [208445-party-pie.json](./208445-party-pie.json) |
 | Party Planet | 71594 | [71594-party-planet.json](./71594-party-planet.json) |
 | Party Planner | 209413 | [209413-party-planner.json](./209413-party-planner.json) |
@@ -3101,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PicoPico Pirates | 150589 | [150589-picopico-pirates.json](./150589-picopico-pirates.json) |
 | Picopicotron | 402505 | [402505-picopicotron.json](./402505-picopicotron.json) |
 | PicoPlex | 178619 | [178619-picoplex.json](./178619-picoplex.json) |
+| Picopolis | 275798 | [275798-picopolis.json](./275798-picopolis.json) |
 | PicoQuest: Darkness Rising | 183448 | [183448-picoquest-darkness-rising.json](./183448-picoquest-darkness-rising.json) |
 | Picoracer-2048 | 287324 | [287324-picoracer-2048.json](./287324-picoracer-2048.json) |
 | Picoware | 279711 | [279711-picoware.json](./279711-picoware.json) |
@@ -3254,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piggy Wiggy | 267335 | [267335-piggy-wiggy.json](./267335-piggy-wiggy.json) |
 | Piggy: Chapter 1 | 246093 | [246093-piggy-chapter-1.json](./246093-piggy-chapter-1.json) |
 | Piggy's Farm | 401723 | [401723-piggys-farm.json](./401723-piggys-farm.json) |
+| Pight | 275839 | [275839-pight.json](./275839-pight.json) |
 | Pigillionaire | 327256 | [327256-pigillionaire.json](./327256-pigillionaire.json) |
 | Pigkour | 416682 | [416682-pigkour.json](./416682-pigkour.json) |
 | Piglet's Big Game | 314629 | [314629-piglets-big-game.json](./314629-piglets-big-game.json) |
@@ -5038,6 +5041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumo At The Zoo | 312632 | [312632-plumo-at-the-zoo.json](./312632-plumo-at-the-zoo.json) |
 | Plumo On The Farm | 312635 | [312635-plumo-on-the-farm.json](./312635-plumo-on-the-farm.json) |
 | Plunder | 113748 | [113748-plunder.json](./113748-plunder.json) |
+| Plunder Ball | 275838 | [275838-plunder-ball.json](./275838-plunder-ball.json) |
 | Plunder Kings | 114149 | [114149-plunder-kings.json](./114149-plunder-kings.json) |
 | Plunder Squad | 107797 | [107797-plunder-squad.json](./107797-plunder-squad.json) |
 | Plunder: Scourge of the Sea | 260658 | [260658-plunder-scourge-of-the-sea.json](./260658-plunder-scourge-of-the-sea.json) |
