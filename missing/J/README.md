@@ -2031,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Climb | 286011 | [286011-just-climb.json](./286011-just-climb.json) |
 | Just Coffee with the Café Guy | 417582 | [417582-just-coffee-with-the-cafe-guy.json](./417582-just-coffee-with-the-cafe-guy.json) |
 | Just Crow Things | 264321 | [264321-just-crow-things.json](./264321-just-crow-things.json) |
+| Just Dance 2 | 241440 | [241440-just-dance-2.json](./241440-just-dance-2.json) |
 | Just Dance 2: Extra Songs | 268119 | [268119-just-dance-2-extra-songs.json](./268119-just-dance-2-extra-songs.json) |
 | Just Dance 2015 | 15559 | [15559-just-dance-2015.json](./15559-just-dance-2015.json) |
 | Just Dance 2018 | 37067 | [37067-just-dance-2018.json](./37067-just-dance-2018.json) |
@@ -2042,13 +2043,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2026 Edition | 381725 | [381725-just-dance-2026-edition.json](./381725-just-dance-2026-edition.json) |
 | Just Dance 3: Target Exclusive Edition | 375276 | [375276-just-dance-3-target-exclusive-edition.json](./375276-just-dance-3-target-exclusive-edition.json) |
 | Just Dance 4 | 3255 | [3255-just-dance-4.json](./3255-just-dance-4.json) |
+| Just Dance 4: Special Edition | 241439 | [241439-just-dance-4-special-edition.json](./241439-just-dance-4-special-edition.json) |
 | Just Dance Kids | 3299 | [3299-just-dance-kids.json](./3299-just-dance-kids.json) |
 | Just Dance Kids 2 | 3300 | [3300-just-dance-kids-2.json](./3300-just-dance-kids-2.json) |
+| Just Dance VR | 241442 | [241442-just-dance-vr.json](./241442-just-dance-vr.json) |
 | Just Dance Wii | 3297 | [3297-just-dance-wii.json](./3297-just-dance-wii.json) |
 | Just Dance Wii 2 | 3298 | [3298-just-dance-wii-2.json](./3298-just-dance-wii-2.json) |
 | Just Dance Wii U | 15560 | [15560-just-dance-wii-u.json](./15560-just-dance-wii-u.json) |
 | Just Dance: Best Of | 3303 | [3303-just-dance-best-of.json](./3303-just-dance-best-of.json) |
 | Just Dance: Decades of Hits | 409690 | [409690-just-dance-decades-of-hits.json](./409690-just-dance-decades-of-hits.json) |
+| Just Dance: Greatest Hits | 241441 | [241441-just-dance-greatest-hits.json](./241441-just-dance-greatest-hits.json) |
 | Just Dance: Vitality School | 250329 | [250329-just-dance-vitality-school.json](./250329-just-dance-vitality-school.json) |
 | Just Dance.exe | 292066 | [292066-just-dance-exe.json](./292066-just-dance-exe.json) |
 | Just Dash | 107912 | [107912-just-dash.json](./107912-just-dash.json) |
