@@ -2879,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 5: Collector's Edition | 41593 | [41593-resident-evil-5-collectors-edition.json](./41593-resident-evil-5-collectors-edition.json) |
 | Resident Evil 5: Gold Edition | 24347 | [24347-resident-evil-5-gold-edition.json](./24347-resident-evil-5-gold-edition.json) |
 | Resident Evil 6 Remastered | 41858 | [41858-resident-evil-6-remastered.json](./41858-resident-evil-6-remastered.json) |
+| Resident Evil 7 Gold Edition & Village Gold Edition | 234684 | [234684-resident-evil-7-gold-edition-and-village-gold-edition.json](./234684-resident-evil-7-gold-edition-and-village-gold-edition.json) |
 | Resident Evil 7 Teaser: Beginning Hour | 90566 | [90566-resident-evil-7-teaser-beginning-hour.json](./90566-resident-evil-7-teaser-beginning-hour.json) |
 | Resident Evil 7: Biohazard - Gold Edition Grotesque Version | 167065 | [167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json](./167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json) |
 | Resident Evil 7: Biohazard - Not A Hero | 27395 | [27395-resident-evil-7-biohazard-not-a-hero.json](./27395-resident-evil-7-biohazard-not-a-hero.json) |
@@ -3519,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhyme-A-Line | 306034 | [306034-rhyme-a-line.json](./306034-rhyme-a-line.json) |
 | Rhymo's Falling Star | 306032 | [306032-rhymos-falling-star.json](./306032-rhymos-falling-star.json) |
 | Rhyolite | 335351 | [335351-rhyolite.json](./335351-rhyolite.json) |
+| Rhythia | 234769 | [234769-rhythia.json](./234769-rhythia.json) |
 | Rhythm 'n Notes: Improve Your Music Skills | 79176 | [79176-rhythm-n-notes-improve-your-music-skills.json](./79176-rhythm-n-notes-improve-your-music-skills.json) |
 | Rhythm & Beats | 292282 | [292282-rhythm-and-beats.json](./292282-rhythm-and-beats.json) |
 | Rhythm Any Music | 220709 | [220709-rhythm-any-music.json](./220709-rhythm-any-music.json) |
