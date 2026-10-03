@@ -1303,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Cars | 36386 | [36386-rc-cars.json](./36386-rc-cars.json) |
 | RC Death Race: Multiplayer | 392941 | [392941-rc-death-race-multiplayer.json](./392941-rc-death-race-multiplayer.json) |
 | RC Fun City | 80975 | [80975-rc-fun-city.json](./80975-rc-fun-city.json) |
+| RC Heli 3 | 240862 | [240862-rc-heli-3.json](./240862-rc-heli-3.json) |
 | RC Overdrive | 393799 | [393799-rc-overdrive.json](./393799-rc-overdrive.json) |
 | Rc Plane 2 | 260654 | [260654-rc-plane-2.json](./260654-rc-plane-2.json) |
 | RC Plane 3: Canyon Scenario | 167718 | [167718-rc-plane-3-canyon-scenario.json](./167718-rc-plane-3-canyon-scenario.json) |
