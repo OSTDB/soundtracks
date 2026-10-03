@@ -4553,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck Simulator | 129109 | [129109-food-truck-simulator.json](./129109-food-truck-simulator.json) |
 | Food Truck Time Machine | 260299 | [260299-food-truck-time-machine.json](./260299-food-truck-time-machine.json) |
 | Food Truck Together | 385309 | [385309-food-truck-together.json](./385309-food-truck-together.json) |
+| Food Truck Tycoon + Expansion Pack | 238014 | [238014-food-truck-tycoon-expansion-pack.json](./238014-food-truck-tycoon-expansion-pack.json) |
 | Food Truck Tycoon + Flowlines VS | 243793 | [243793-food-truck-tycoon-flowlines-vs.json](./243793-food-truck-tycoon-flowlines-vs.json) |
 | Food Truck Tycoon + Knights & Guns | 251106 | [251106-food-truck-tycoon-knights-and-guns.json](./251106-food-truck-tycoon-knights-and-guns.json) |
 | Food Truck Tycoon: Asian Cuisine | 147922 | [147922-food-truck-tycoon-asian-cuisine.json](./147922-food-truck-tycoon-asian-cuisine.json) |
