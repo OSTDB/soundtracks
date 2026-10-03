@@ -1321,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn in the Air | 234065 | [234065-dawn-in-the-air.json](./234065-dawn-in-the-air.json) |
 | Dawn of Anarchy | 274773 | [274773-dawn-of-anarchy.json](./274773-dawn-of-anarchy.json) |
 | Dawn of Andromeda: Subterfuge | 172120 | [172120-dawn-of-andromeda-subterfuge.json](./172120-dawn-of-andromeda-subterfuge.json) |
+| Dawn of Darkness | 275204 | [275204-dawn-of-darkness.json](./275204-dawn-of-darkness.json) |
 | Dawn of Defense | 310733 | [310733-dawn-of-defense.json](./310733-dawn-of-defense.json) |
 | Dawn of Defiance | 305290 | [305290-dawn-of-defiance.json](./305290-dawn-of-defiance.json) |
 | Dawn of Discovery: The Harbor | 66759 | [66759-dawn-of-discovery-the-harbor.json](./66759-dawn-of-discovery-the-harbor.json) |
@@ -2117,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Bind | 207782 | [207782-death-bind.json](./207782-death-bind.json) |
 | Death Bowl | 208598 | [208598-death-bowl.json](./208598-death-bowl.json) |
 | Death Burger | 364506 | [364506-death-burger.json](./364506-death-burger.json) |
+| Death by AI | 275250 | [275250-death-by-ai.json](./275250-death-by-ai.json) |
 | Death By Chatter | 322934 | [322934-death-by-chatter.json](./322934-death-by-chatter.json) |
 | Death by Cube | 22977 | [22977-death-by-cube.json](./22977-death-by-cube.json) |
 | Death by Dark Shadows | 57665 | [57665-death-by-dark-shadows.json](./57665-death-by-dark-shadows.json) |
@@ -3395,6 +3397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert of Doitjma | 128437 | [128437-desert-of-doitjma.json](./128437-desert-of-doitjma.json) |
 | Desert Of The Undead New Frontiers | 296364 | [296364-desert-of-the-undead-new-frontiers.json](./296364-desert-of-the-undead-new-frontiers.json) |
 | Desert of Vice | 95169 | [95169-desert-of-vice.json](./95169-desert-of-vice.json) |
+| Desert Patrol | 275232 | [275232-desert-patrol.json](./275232-desert-patrol.json) |
 | Desert Race Adventures | 296592 | [296592-desert-race-adventures.json](./296592-desert-race-adventures.json) |
 | Desert Racer | 61646 | [61646-desert-racer.json](./61646-desert-racer.json) |
 | Desert Raider | 151174 | [151174-desert-raider.json](./151174-desert-raider.json) |
@@ -3463,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Dungeons | 8998 | [8998-desktop-dungeons.json](./8998-desktop-dungeons.json) |
 | Desktop Dungeons: Rewind | 213510 | [213510-desktop-dungeons-rewind.json](./213510-desktop-dungeons-rewind.json) |
 | Desktop Dynasties | 111519 | [111519-desktop-dynasties.json](./111519-desktop-dynasties.json) |
+| Desktop Explorer | 275251 | [275251-desktop-explorer.json](./275251-desktop-explorer.json) |
 | Desktop Fishes | 364006 | [364006-desktop-fishes.json](./364006-desktop-fishes.json) |
 | Desktop Fishing | 344545 | [344545-desktop-fishing.json](./344545-desktop-fishing.json) |
 | Desktop Football | 196831 | [196831-desktop-football.json](./196831-desktop-football.json) |
@@ -5900,6 +5904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominions 3: The Awakening | 16641 | [16641-dominions-3-the-awakening.json](./16641-dominions-3-the-awakening.json) |
 | Dominique Pamplemousse | 134677 | [134677-dominique-pamplemousse.json](./134677-dominique-pamplemousse.json) |
 | Domino Clicker | 295802 | [295802-domino-clicker.json](./295802-domino-clicker.json) |
+| Domino Club | 275266 | [275266-domino-club.json](./275266-domino-club.json) |
 | Domino Craft VR | 30071 | [30071-domino-craft-vr.json](./30071-domino-craft-vr.json) |
 | Domino Draw | 271270 | [271270-domino-draw.json](./271270-domino-draw.json) |
 | Domino Drop | 87620 | [87620-domino-drop.json](./87620-domino-drop.json) |
