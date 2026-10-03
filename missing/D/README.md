@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dadish 3 | 199111 | [199111-dadish-3.json](./199111-dadish-3.json) |
 | Dadish 3D | 294865 | [294865-dadish-3d.json](./294865-dadish-3d.json) |
 | Dadlympics | 265146 | [265146-dadlympics.json](./265146-dadlympics.json) |
+| Dadoo: Twists, Turns, and Mischiefs | 264807 | [264807-dadoo-twists-turns-and-mischiefs.json](./264807-dadoo-twists-turns-and-mischiefs.json) |
 | Dadum The Dice | 386833 | [386833-dadum-the-dice.json](./386833-dadum-the-dice.json) |
 | Daedalian Opus | 48951 | [48951-daedalian-opus.json](./48951-daedalian-opus.json) |
 | Daedalic Complex | 111465 | [111465-daedalic-complex.json](./111465-daedalic-complex.json) |
@@ -800,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Lord's Maze | 209472 | [209472-dark-lords-maze.json](./209472-dark-lords-maze.json) |
 | Dark Lords Don't Give A :) | 113519 | [113519-dark-lords-dont-give-a.json](./113519-dark-lords-dont-give-a.json) |
 | Dark Lore Mysteries: Hunt For the Truth | 52841 | [52841-dark-lore-mysteries-hunt-for-the-truth.json](./52841-dark-lore-mysteries-hunt-for-the-truth.json) |
+| Dark Lovers: Extended Edition | 264770 | [264770-dark-lovers-extended-edition.json](./264770-dark-lovers-extended-edition.json) |
 | Dark Magic 2 | 192387 | [192387-dark-magic-2.json](./192387-dark-magic-2.json) |
 | Dark Magician | 192380 | [192380-dark-magician.json](./192380-dark-magician.json) |
 | Dark Mass | 336164 | [336164-dark-mass.json](./336164-dark-mass.json) |
@@ -1171,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
 | Dash'n'Drops | 389587 | [389587-dashndrops.json](./389587-dashndrops.json) |
 | DashBored | 32847 | [32847-dashbored.json](./32847-dashbored.json) |
+| Dashbounce | 264801 | [264801-dashbounce.json](./264801-dashbounce.json) |
 | Dasher | 158205 | [158205-dasher.json](./158205-dasher.json) |
 | Dashes & Squares | 272377 | [272377-dashes-and-squares.json](./272377-dashes-and-squares.json) |
 | DashFire | 339367 | [339367-dashfire.json](./339367-dashfire.json) |
@@ -1307,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave the Diver: Potion Craft | 314279 | [314279-dave-the-diver-potion-craft.json](./314279-dave-the-diver-potion-craft.json) |
 | Dave Winfield's Batter Up! | 111897 | [111897-dave-winfields-batter-up.json](./111897-dave-winfields-batter-up.json) |
 | Dave-Man | 126517 | [126517-dave-man.json](./126517-dave-man.json) |
+| Dave's Fun Algebra Class: Remastered | 264794 | [264794-daves-fun-algebra-class-remastered.json](./264794-daves-fun-algebra-class-remastered.json) |
 | Davey Jones TD | 62810 | [62810-davey-jones-td.json](./62810-davey-jones-td.json) |
 | Davey's Mystery | 411645 | [411645-daveys-mystery.json](./411645-daveys-mystery.json) |
 | David & Keithan: The Haunted Lighthouse | 310579 | [310579-david-and-keithan-the-haunted-lighthouse.json](./310579-david-and-keithan-the-haunted-lighthouse.json) |
@@ -1707,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Fury | 193734 | [193734-dead-fury.json](./193734-dead-fury.json) |
 | Dead Gears: Space of War | 401118 | [401118-dead-gears-space-of-war.json](./401118-dead-gears-space-of-war.json) |
 | Dead Giveaway: Zombie Quiz | 232044 | [232044-dead-giveaway-zombie-quiz.json](./232044-dead-giveaway-zombie-quiz.json) |
+| Dead Ground Arcade: Ellis Island | 264768 | [264768-dead-ground-arcade-ellis-island.json](./264768-dead-ground-arcade-ellis-island.json) |
 | Dead GroundZ | 99038 | [99038-dead-groundz.json](./99038-dead-groundz.json) |
 | Dead Hearts | 156563 | [156563-dead-hearts.json](./156563-dead-hearts.json) |
 | Dead Heat | 284966 | [284966-dead-heat.json](./284966-dead-heat.json) |
@@ -2086,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Blue | 297470 | [297470-dear-blue.json](./297470-dear-blue.json) |
 | Dear Boys: Fast Break! | 334860 | [334860-dear-boys-fast-break.json](./334860-dear-boys-fast-break.json) |
 | Dear Brother | 158562 | [158562-dear-brother.json](./158562-dear-brother.json) |
+| Dear Brother | 264790 | [264790-dear-brother.json](./264790-dear-brother.json) |
 | Dear Camy | 400479 | [400479-dear-camy.json](./400479-dear-camy.json) |
 | Dear Daniel no Sweet Adventure: Kitty-chan wo Sagashite | 65598 | [65598-dear-daniel-no-sweet-adventure-kitty-chan-wo-sagashite.json](./65598-dear-daniel-no-sweet-adventure-kitty-chan-wo-sagashite.json) |
 | Dear Delusion | 201574 | [201574-dear-delusion.json](./201574-dear-delusion.json) |
@@ -8619,6 +8625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducks | 329054 | [329054-ducks.json](./329054-ducks.json) |
 | Ducks Ahoy! | 76603 | [76603-ducks-ahoy.json](./76603-ducks-ahoy.json) |
 | Ducks Can Drive | 255159 | [255159-ducks-can-drive.json](./255159-ducks-can-drive.json) |
+| Ducks Can Drive: Penguins Can Too | 264769 | [264769-ducks-can-drive-penguins-can-too.json](./264769-ducks-can-drive-penguins-can-too.json) |
 | Ducks in a Row | 288811 | [288811-ducks-in-a-row.json](./288811-ducks-in-a-row.json) |
 | Ducks in Disguise | 411621 | [411621-ducks-in-disguise.json](./411621-ducks-in-disguise.json) |
 | Ducks' Wrath | 148892 | [148892-ducks-wrath.json](./148892-ducks-wrath.json) |
