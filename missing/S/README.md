@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.O.N | 102781 | [102781-s-o-n.json](./102781-s-o-n.json) |
 | S.O.N.A.R.: Submarine Operators Not Actually Ready | 410320 | [410320-s-o-n-a-r-submarine-operators-not-actually-ready.json](./410320-s-o-n-a-r-submarine-operators-not-actually-ready.json) |
 | S.O.V. | 176785 | [176785-s-o-v.json](./176785-s-o-v.json) |
+| S.P.L.I.C.E.D. | 255847 | [255847-s-p-l-i-c-e-d.json](./255847-s-p-l-i-c-e-d.json) |
 | S.Q. Sound Qube | 230505 | [230505-s-q-sound-qube.json](./230505-s-q-sound-qube.json) |
 | S.R.D. Mission | 40418 | [40418-s-r-d-mission.json](./40418-s-r-d-mission.json) |
 | S.S. Mission | 40252 | [40252-s-s-mission.json](./40252-s-s-mission.json) |
@@ -2679,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selve | 369109 | [369109-selve.json](./369109-selve.json) |
 | Sem % | 176816 | [176816-sem.json](./176816-sem.json) |
 | Sem Saída | 342197 | [342197-sem-saida.json](./342197-sem-saida.json) |
+| Semaforo Climber | 255846 | [255846-semaforo-climber.json](./255846-semaforo-climber.json) |
 | Semantica: Semantic game | 231905 | [231905-semantica-semantic-game.json](./231905-semantica-semantic-game.json) |
 | Semantics | 388255 | [388255-semantics.json](./388255-semantics.json) |
 | Semblance | 55173 | [55173-semblance.json](./55173-semblance.json) |
@@ -8135,6 +8137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Derby | 385799 | [385799-solar-derby.json](./385799-solar-derby.json) |
 | Solar Dreamer Nikko | 369203 | [369203-solar-dreamer-nikko.json](./369203-solar-dreamer-nikko.json) |
 | Solar Echoes: The Star Legation | 149056 | [149056-solar-echoes-the-star-legation.json](./149056-solar-echoes-the-star-legation.json) |
+| Solar Empire | 255848 | [255848-solar-empire.json](./255848-solar-empire.json) |
 | Solar Expanse | 219595 | [219595-solar-expanse.json](./219595-solar-expanse.json) |
 | Solar Explorer: New Dawn | 107399 | [107399-solar-explorer-new-dawn.json](./107399-solar-explorer-new-dawn.json) |
 | Solar Gun | 51558 | [51558-solar-gun.json](./51558-solar-gun.json) |
@@ -9113,6 +9116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic.EXE One Last Round | 307226 | [307226-sonic-exe-one-last-round.json](./307226-sonic-exe-one-last-round.json) |
 | Sonic.exe: Dark Souls | 369107 | [369107-sonic-exe-dark-souls.json](./369107-sonic-exe-dark-souls.json) |
 | Sonic.exe: Dark Souls Remake | 369098 | [369098-sonic-exe-dark-souls-remake.json](./369098-sonic-exe-dark-souls-remake.json) |
+| Sonic.Exe: The Spirits of Hell | 255852 | [255852-sonic-exe-the-spirits-of-hell.json](./255852-sonic-exe-the-spirits-of-hell.json) |
 | Sonic's Bomb Squad | 237489 | [237489-sonics-bomb-squad.json](./237489-sonics-bomb-squad.json) |
 | Sonic's Casino Poker | 261291 | [261291-sonics-casino-poker.json](./261291-sonics-casino-poker.json) |
 | Sonic's Edusoft | 63901 | [63901-sonics-edusoft.json](./63901-sonics-edusoft.json) |
@@ -9164,6 +9168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soot | 231085 | [231085-soot.json](./231085-soot.json) |
 | Soothing Farmer | 216894 | [216894-soothing-farmer.json](./216894-soothing-farmer.json) |
 | Soothsayer: The Oraclepus Knows All | 243101 | [243101-soothsayer-the-oraclepus-knows-all.json](./243101-soothsayer-the-oraclepus-knows-all.json) |
+| Sooty & Sweep | 255896 | [255896-sooty-and-sweep.json](./255896-sooty-and-sweep.json) |
 | Sooty's Revenge | 311284 | [311284-sootys-revenge.json](./311284-sootys-revenge.json) |
 | Sopa: Tale of the Stolen Potato | 197073 | [197073-sopa-tale-of-the-stolen-potato.json](./197073-sopa-tale-of-the-stolen-potato.json) |
 | Sophia - My Little Sis | 86824 | [86824-sophia-my-little-sis.json](./86824-sophia-my-little-sis.json) |
@@ -9434,6 +9439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulcaster: Part I & II | 33074 | [33074-soulcaster-part-i-and-ii.json](./33074-soulcaster-part-i-and-ii.json) |
 | Soulchain | 342042 | [342042-soulchain.json](./342042-soulchain.json) |
 | Soulcreek | 229616 | [229616-soulcreek.json](./229616-soulcreek.json) |
+| Soulcrusher | 255881 | [255881-soulcrusher.json](./255881-soulcrusher.json) |
 | Souldead | 216895 | [216895-souldead.json](./216895-souldead.json) |
 | Soulfall | 326258 | [326258-soulfall.json](./326258-soulfall.json) |
 | SoulFeast | 369559 | [369559-soulfeast.json](./369559-soulfeast.json) |
@@ -13271,6 +13277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stella Nova | 407466 | [407466-stella-nova.json](./407466-stella-nova.json) |
 | Stella of the End: First Press Limited Edition | 379954 | [379954-stella-of-the-end-first-press-limited-edition.json](./379954-stella-of-the-end-first-press-limited-edition.json) |
 | Stella Supernova: The Astral Vale | 417538 | [417538-stella-supernova-the-astral-vale.json](./417538-stella-supernova-the-astral-vale.json) |
+| Stella: My Friend | 255891 | [255891-stella-my-friend.json](./255891-stella-my-friend.json) |
 | Stella's Pointless Castle Awakening | 232951 | [232951-stellas-pointless-castle-awakening.json](./232951-stellas-pointless-castle-awakening.json) |
 | Stellabits | 223405 | [223405-stellabits.json](./223405-stellabits.json) |
 | StellaGale: The Trials Of Faith | 190457 | [190457-stellagale-the-trials-of-faith.json](./190457-stellagale-the-trials-of-faith.json) |
