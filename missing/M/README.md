@@ -1040,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Tales: Ancient Wisdom | 52577 | [52577-mahjong-tales-ancient-wisdom.json](./52577-mahjong-tales-ancient-wisdom.json) |
 | Mahjong Towers | 341077 | [341077-mahjong-towers.json](./341077-mahjong-towers.json) |
 | Mahjong Trap | 115717 | [115717-mahjong-trap.json](./115717-mahjong-trap.json) |
+| Mahjong Travel | 252285 | [252285-mahjong-travel.json](./252285-mahjong-travel.json) |
 | Mahjong Triple Wars Gaiden | 91934 | [91934-mahjong-triple-wars-gaiden.json](./91934-mahjong-triple-wars-gaiden.json) |
 | Mahjong Vanilla Syndrome | 91933 | [91933-mahjong-vanilla-syndrome.json](./91933-mahjong-vanilla-syndrome.json) |
 | Mahjong Venice Mystery Classic | 99179 | [99179-mahjong-venice-mystery-classic.json](./99179-mahjong-venice-mystery-classic.json) |
@@ -1543,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mango 64 | 296972 | [296972-mango-64.json](./296972-mango-64.json) |
 | Mango Goes to Mewsic School | 292256 | [292256-mango-goes-to-mewsic-school.json](./292256-mango-goes-to-mewsic-school.json) |
 | Mango's Fisharium | 348890 | [348890-mangos-fisharium.json](./348890-mangos-fisharium.json) |
+| Mango's Wonderland | 252283 | [252283-mangos-wonderland.json](./252283-mangos-wonderland.json) |
 | MangoMan | 183471 | [183471-mangoman.json](./183471-mangoman.json) |
 | MangueBoy | 279241 | [279241-mangueboy.json](./279241-mangueboy.json) |
 | ManHandler | 243689 | [243689-manhandler.json](./243689-manhandler.json) |
@@ -2209,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Hours | 399710 | [399710-market-hours.json](./399710-market-hours.json) |
 | Market Mogul | 59899 | [59899-market-mogul.json](./59899-market-mogul.json) |
 | Market Trouble | 182541 | [182541-market-trouble.json](./182541-market-trouble.json) |
+| Market Warfare | 252284 | [252284-market-warfare.json](./252284-market-warfare.json) |
 | Markham | 40361 | [40361-markham.json](./40361-markham.json) |
 | Marki Game Collection | 260243 | [260243-marki-game-collection.json](./260243-marki-game-collection.json) |
 | Marko | 19774 | [19774-marko.json](./19774-marko.json) |
@@ -4182,6 +4185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megan The Fox | 287331 | [287331-megan-the-fox.json](./287331-megan-the-fox.json) |
 | Megan's Adventure | 310067 | [310067-megans-adventure.json](./310067-megans-adventure.json) |
 | Meganaut | 340021 | [340021-meganaut.json](./340021-meganaut.json) |
+| Megankreuzstilette | 252297 | [252297-megankreuzstilette.json](./252297-megankreuzstilette.json) |
 | Meganoid | 29184 | [29184-meganoid.json](./29184-meganoid.json) |
 | Meganoid: Chronicles | 370812 | [370812-meganoid-chronicles.json](./370812-meganoid-chronicles.json) |
 | Megapain | 398461 | [398461-megapain.json](./398461-megapain.json) |
@@ -5126,6 +5130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Mini Market Simulator | 365228 | [365228-metro-mini-market-simulator.json](./365228-metro-mini-market-simulator.json) |
 | Metro MP | 212211 | [212211-metro-mp.json](./212211-metro-mp.json) |
 | Metro PD: Close to You | 238426 | [238426-metro-pd-close-to-you.json](./238426-metro-pd-close-to-you.json) |
+| Metro Pocket | 252307 | [252307-metro-pocket.json](./252307-metro-pocket.json) |
 | Metro Quester | 277887 | [277887-metro-quester.json](./277887-metro-quester.json) |
 | Metro Redux | 6880 | [6880-metro-redux.json](./6880-metro-redux.json) |
 | Metro Rivals: New York | 373617 | [373617-metro-rivals-new-york.json](./373617-metro-rivals-new-york.json) |
@@ -9669,6 +9674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder at Homecoming | 313871 | [313871-murder-at-homecoming.json](./313871-murder-at-homecoming.json) |
 | Murder at Masquerade Manor | 223682 | [223682-murder-at-masquerade-manor.json](./223682-murder-at-masquerade-manor.json) |
 | Murder at Midnight | 146697 | [146697-murder-at-midnight.json](./146697-murder-at-midnight.json) |
+| Murder at Mystic High | 252279 | [252279-murder-at-mystic-high.json](./252279-murder-at-mystic-high.json) |
 | Murder at the Birch Tree Theater | 296477 | [296477-murder-at-the-birch-tree-theater.json](./296477-murder-at-the-birch-tree-theater.json) |
 | Murder at the Cat Show | 194317 | [194317-murder-at-the-cat-show.json](./194317-murder-at-the-cat-show.json) |
 | Murder at the Disco | 271792 | [271792-murder-at-the-disco.json](./271792-murder-at-the-disco.json) |
