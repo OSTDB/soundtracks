@@ -701,7 +701,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Jam Extreme | 40205 | [40205-nba-jam-extreme.json](./40205-nba-jam-extreme.json) |
 | NBA Jam Tournament Edition | 19712 | [19712-nba-jam-tournament-edition.json](./19712-nba-jam-tournament-edition.json) |
 | NBA Jam: Legends On Fire Edition | 242257 | [242257-nba-jam-legends-on-fire-edition.json](./242257-nba-jam-legends-on-fire-edition.json) |
+| NBA Live 07 | 248770 | [248770-nba-live-07.json](./248770-nba-live-07.json) |
+| NBA Live 07 | 248771 | [248771-nba-live-07.json](./248771-nba-live-07.json) |
+| NBA Live 07 | 248772 | [248772-nba-live-07.json](./248772-nba-live-07.json) |
 | NBA Live 07 | 5951 | [5951-nba-live-07.json](./5951-nba-live-07.json) |
+| NBA Live 08 | 248773 | [248773-nba-live-08.json](./248773-nba-live-08.json) |
+| NBA Live 08 | 248774 | [248774-nba-live-08.json](./248774-nba-live-08.json) |
+| NBA Live 08 | 248775 | [248775-nba-live-08.json](./248775-nba-live-08.json) |
+| NBA Live 09 | 248776 | [248776-nba-live-09.json](./248776-nba-live-09.json) |
+| NBA Live 09 | 248777 | [248777-nba-live-09.json](./248777-nba-live-09.json) |
+| NBA Live 09 | 248778 | [248778-nba-live-09.json](./248778-nba-live-09.json) |
 | NBA Live 09 | 5063 | [5063-nba-live-09.json](./5063-nba-live-09.json) |
 | NBA Live 09 All-Play | 67745 | [67745-nba-live-09-all-play.json](./67745-nba-live-09-all-play.json) |
 | NBA Live 13 | 52624 | [52624-nba-live-13.json](./52624-nba-live-13.json) |
@@ -3719,6 +3728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nowhere New | 135768 | [135768-nowhere-new.json](./135768-nowhere-new.json) |
 | Nowhere Patrol | 111390 | [111390-nowhere-patrol.json](./111390-nowhere-patrol.json) |
 | Nowhere to Run | 407377 | [407377-nowhere-to-run.json](./407377-nowhere-to-run.json) |
+| Nowhere, MI | 248793 | [248793-nowhere-mi.json](./248793-nowhere-mi.json) |
 | Nowotnik Puzzle | 138660 | [138660-nowotnik-puzzle.json](./138660-nowotnik-puzzle.json) |
 | Nowv | 320541 | [320541-nowv.json](./320541-nowv.json) |
 | Nox | 5620 | [5620-nox.json](./5620-nox.json) |
