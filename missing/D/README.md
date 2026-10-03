@@ -2731,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenda | 45350 | [45350-defenda.json](./45350-defenda.json) |
 | Defender | 150104 | [150104-defender.json](./150104-defender.json) |
 | Defender | 228072 | [228072-defender.json](./228072-defender.json) |
+| Defender | 239136 | [239136-defender.json](./239136-defender.json) |
 | Defender | 287077 | [287077-defender.json](./287077-defender.json) |
 | Defender | 346133 | [346133-defender.json](./346133-defender.json) |
 | Defender 2000 | 40817 | [40817-defender-2000.json](./40817-defender-2000.json) |
@@ -3220,6 +3221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons Rise Up! | 192877 | [192877-demons-rise-up.json](./192877-demons-rise-up.json) |
 | Demons Roots | 189139 | [189139-demons-roots.json](./189139-demons-roots.json) |
 | Demons vs. Fairyland | 245328 | [245328-demons-vs-fairyland.json](./245328-demons-vs-fairyland.json) |
+| Demons vs. Wizards | 239118 | [239118-demons-vs-wizards.json](./239118-demons-vs-wizards.json) |
 | Demons with Shotguns: Deluxe Edition | 52890 | [52890-demons-with-shotguns-deluxe-edition.json](./52890-demons-with-shotguns-deluxe-edition.json) |
 | Demons' Night Fever | 351210 | [351210-demons-night-fever.json](./351210-demons-night-fever.json) |
 | Demonschool | 204640 | [204640-demonschool.json](./204640-demonschool.json) |
@@ -3638,6 +3640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destination Treasure Island | 52888 | [52888-destination-treasure-island.json](./52888-destination-treasure-island.json) |
 | Destination: Dragons! | 292819 | [292819-destination-dragons.json](./292819-destination-dragons.json) |
 | Destination: Mars! | 72101 | [72101-destination-mars.json](./72101-destination-mars.json) |
+| Destind: Mr. Almost Right | 239209 | [239209-destind-mr-almost-right.json](./239209-destind-mr-almost-right.json) |
 | Destined Corp: Awakening | 349974 | [349974-destined-corp-awakening.json](./349974-destined-corp-awakening.json) |
 | Destined to Love: Ikemen Samurai Romances | 163230 | [163230-destined-to-love-ikemen-samurai-romances.json](./163230-destined-to-love-ikemen-samurai-romances.json) |
 | Destinies | 152884 | [152884-destinies.json](./152884-destinies.json) |
@@ -3677,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Island | 158686 | [158686-destiny-island.json](./158686-destiny-island.json) |
 | Destiny Maiden | 270649 | [270649-destiny-maiden.json](./270649-destiny-maiden.json) |
 | Destiny of a Wizard 2: Beyond the Vale | 102390 | [102390-destiny-of-a-wizard-2-beyond-the-vale.json](./102390-destiny-of-a-wizard-2-beyond-the-vale.json) |
+| Destiny of a Wizard 3: Beyond the World | 239217 | [239217-destiny-of-a-wizard-3-beyond-the-world.json](./239217-destiny-of-a-wizard-3-beyond-the-world.json) |
 | Destiny of Altrais | 103427 | [103427-destiny-of-altrais.json](./103427-destiny-of-altrais.json) |
 | Destiny of an Emperor | 48064 | [48064-destiny-of-an-emperor.json](./48064-destiny-of-an-emperor.json) |
 | Destiny of Ancient Kingdoms | 32154 | [32154-destiny-of-ancient-kingdoms.json](./32154-destiny-of-ancient-kingdoms.json) |
