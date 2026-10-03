@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Godmother Tycoon | 68634 | [68634-fairy-godmother-tycoon.json](./68634-fairy-godmother-tycoon.json) |
 | Fairy Godmother's Pumpkin Surprise | 246527 | [246527-fairy-godmothers-pumpkin-surprise.json](./246527-fairy-godmothers-pumpkin-surprise.json) |
 | Fairy Hotel: Enchanted Kingdom | 417523 | [417523-fairy-hotel-enchanted-kingdom.json](./417523-fairy-hotel-enchanted-kingdom.json) |
+| Fairy Kingdom: Castle of Magic | 235284 | [235284-fairy-kingdom-castle-of-magic.json](./235284-fairy-kingdom-castle-of-magic.json) |
 | Fairy Kitty no Kaiun Jiten: Yousei no Kuni no Uranai Shugyou | 65521 | [65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json](./65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json) |
 | Fairy Knights | 105943 | [105943-fairy-knights.json](./105943-fairy-knights.json) |
 | Fairy Lands: Rinka and the Fairy Gems | 52096 | [52096-fairy-lands-rinka-and-the-fairy-gems.json](./52096-fairy-lands-rinka-and-the-fairy-gems.json) |
@@ -1126,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantomas | 313250 | [313250-fantomas.json](./313250-fantomas.json) |
 | FantômeRapport: Intermezzo | 406101 | [406101-fantomerapport-intermezzo.json](./406101-fantomerapport-intermezzo.json) |
 | FanTris | 108072 | [108072-fantris.json](./108072-fantris.json) |
+| Fap & Cum | 235279 | [235279-fap-and-cum.json](./235279-fap-and-cum.json) |
 | Fap & Cum: Simulator | 368131 | [368131-fap-and-cum-simulator.json](./368131-fap-and-cum-simulator.json) |
 | Fap Queen | 110145 | [110145-fap-queen.json](./110145-fap-queen.json) |
 | Fap Titans | 98475 | [98475-fap-titans.json](./98475-fap-titans.json) |
@@ -1297,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Racing | 292224 | [292224-farm-racing.json](./292224-farm-racing.json) |
 | Farm Racing | 381014 | [381014-farm-racing.json](./381014-farm-racing.json) |
 | Farm Rescue | 359407 | [359407-farm-rescue.json](./359407-farm-rescue.json) |
+| Farm Shop: Time Management Game | 235295 | [235295-farm-shop-time-management-game.json](./235295-farm-shop-time-management-game.json) |
 | Farm Slam | 241628 | [241628-farm-slam.json](./241628-farm-slam.json) |
 | Farm Story | 80579 | [80579-farm-story.json](./80579-farm-story.json) |
 | Farm Tiles | 101772 | [101772-farm-tiles.json](./101772-farm-tiles.json) |
@@ -4778,6 +4781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For the Hive | 190704 | [190704-for-the-hive.json](./190704-for-the-hive.json) |
 | For the Honor | 134646 | [134646-for-the-honor.json](./134646-for-the-honor.json) |
 | For the King | 20331 | [20331-for-the-king.json](./20331-for-the-king.json) |
+| For the Motherland | 235371 | [235371-for-the-motherland.json](./235371-for-the-motherland.json) |
 | For the Night | 123486 | [123486-for-the-night.json](./123486-for-the-night.json) |
 | For the People | 135844 | [135844-for-the-people.json](./135844-for-the-people.json) |
 | For the Revenge | 107921 | [107921-for-the-revenge.json](./107921-for-the-revenge.json) |
@@ -6830,6 +6834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FunWar | 195757 | [195757-funwar.json](./195757-funwar.json) |
 | Funwreckers | 236276 | [236276-funwreckers.json](./236276-funwreckers.json) |
 | Fur and Fangs | 412994 | [412994-fur-and-fangs.json](./412994-fur-and-fangs.json) |
+| Fur and Feathers | 235283 | [235283-fur-and-feathers.json](./235283-fur-and-feathers.json) |
 | Fur and Feathers HD | 252924 | [252924-fur-and-feathers-hd.json](./252924-fur-and-feathers-hd.json) |
 | Fur and Void | 337645 | [337645-fur-and-void.json](./337645-fur-and-void.json) |
 | Fur Squadron | 226405 | [226405-fur-squadron.json](./226405-fur-squadron.json) |
