@@ -2523,6 +2523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicce | 32928 | [32928-wicce.json](./32928-wicce.json) |
 | Wicked | 12233 | [12233-wicked.json](./12233-wicked.json) |
 | Wicked Angels | 282208 | [282208-wicked-angels.json](./282208-wicked-angels.json) |
+| Wicked Be The Ways of Men | 273551 | [273551-wicked-be-the-ways-of-men.json](./273551-wicked-be-the-ways-of-men.json) |
 | Wicked Brawler | 272267 | [272267-wicked-brawler.json](./272267-wicked-brawler.json) |
 | Wicked Cabins | 352393 | [352393-wicked-cabins.json](./352393-wicked-cabins.json) |
 | Wicked Delights | 404822 | [404822-wicked-delights.json](./404822-wicked-delights.json) |
