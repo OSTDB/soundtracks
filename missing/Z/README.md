@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero no Tsukaima: Ko-akuma to Harukaze no Concerto | 72685 | [72685-zero-no-tsukaima-ko-akuma-to-harukaze-no-concerto.json](./72685-zero-no-tsukaima-ko-akuma-to-harukaze-no-concerto.json) |
 | Zero no Tsukaima: Muma ga Tsumugu Yokaze no Gensoukyoku | 72642 | [72642-zero-no-tsukaima-muma-ga-tsumugu-yokaze-no-gensoukyoku.json](./72642-zero-no-tsukaima-muma-ga-tsumugu-yokaze-no-gensoukyoku.json) |
 | Zero One | 115811 | [115811-zero-one.json](./115811-zero-one.json) |
+| Zero One | 257546 | [257546-zero-one.json](./257546-zero-one.json) |
 | Zero Online | 66767 | [66767-zero-online.json](./66767-zero-online.json) |
 | Zero Ops | 213626 | [213626-zero-ops.json](./213626-zero-ops.json) |
 | Zero Orders Tactics | 216811 | [216811-zero-orders-tactics.json](./216811-zero-orders-tactics.json) |
@@ -1043,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoners | 167716 | [167716-zoners.json](./167716-zoners.json) |
 | Zones of Fear | 274119 | [274119-zones-of-fear.json](./274119-zones-of-fear.json) |
 | Zonic 4 My New Life Turbo HD Remastered Edition | 322594 | [322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json](./322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json) |
+| Zoo | 257574 | [257574-zoo.json](./257574-zoo.json) |
 | Zoo Animals ~ Touch, Look, Listen | 89706 | [89706-zoo-animals-touch-look-listen.json](./89706-zoo-animals-touch-look-listen.json) |
 | Zoo at Midnight | 312231 | [312231-zoo-at-midnight.json](./312231-zoo-at-midnight.json) |
 | Zoo Block | 334260 | [334260-zoo-block.json](./334260-zoo-block.json) |
