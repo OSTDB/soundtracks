@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underwater Cycling | 368645 | [368645-underwater-cycling.json](./368645-underwater-cycling.json) |
 | Underwater Diving | 224547 | [224547-underwater-diving.json](./224547-underwater-diving.json) |
 | Underwater Life | 148514 | [148514-underwater-life.json](./148514-underwater-life.json) |
+| Underwater Life Bundle | 273005 | [273005-underwater-life-bundle.json](./273005-underwater-life-bundle.json) |
 | Underwater: Stay Alive | 114194 | [114194-underwater-stay-alive.json](./114194-underwater-stay-alive.json) |
 | Underwheels | 355073 | [355073-underwheels.json](./355073-underwheels.json) |
 | Underworld | 174107 | [174107-underworld.json](./174107-underworld.json) |
