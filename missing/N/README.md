@@ -359,8 +359,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Boruto Uzumaki (Karma) | 265248 | [265248-naruto-to-boruto-shinobi-striker-master-character-training-pack-boruto-uzumaki-karma.json](./265248-naruto-to-boruto-shinobi-striker-master-character-training-pack-boruto-uzumaki-karma.json) |
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Isshiki Otsutsuki | 234632 | [234632-naruto-to-boruto-shinobi-striker-master-character-training-pack-isshiki-otsutsuki.json](./234632-naruto-to-boruto-shinobi-striker-master-character-training-pack-isshiki-otsutsuki.json) |
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Kaguya Otsutsuki | 263509 | [263509-naruto-to-boruto-shinobi-striker-master-character-training-pack-kaguya-otsutsuki.json](./263509-naruto-to-boruto-shinobi-striker-master-character-training-pack-kaguya-otsutsuki.json) |
+| Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Obito Uchiha (Ten Tails) | 255244 | [255244-naruto-to-boruto-shinobi-striker-master-character-training-pack-obito-uchiha-ten-tails.json](./255244-naruto-to-boruto-shinobi-striker-master-character-training-pack-obito-uchiha-ten-tails.json) |
 | Naruto to Boruto: Shinobi Striker - Season 8 | 307754 | [307754-naruto-to-boruto-shinobi-striker-season-8.json](./307754-naruto-to-boruto-shinobi-striker-season-8.json) |
 | Naruto to Boruto: Shinobi Striker - Special Ninjutsu: Wood Style - Wood Golem Jutsu | 294999 | [294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json](./294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json) |
+| Naruto to Boruto: Shinobi Striker - Ultimate Edition | 255258 | [255258-naruto-to-boruto-shinobi-striker-ultimate-edition.json](./255258-naruto-to-boruto-shinobi-striker-ultimate-edition.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 1 | 284509 | [284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json](./284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 2 | 294250 | [294250-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-2.json](./294250-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-2.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections | 239385 | [239385-naruto-x-boruto-ultimate-ninja-storm-connections.json](./239385-naruto-x-boruto-ultimate-ninja-storm-connections.json) |
@@ -1834,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Space Rebels | 152256 | [152256-next-space-rebels.json](./152256-next-space-rebels.json) |
 | Next Star System | 194288 | [194288-next-star-system.json](./194288-next-star-system.json) |
 | Next Station: Jianghu | 188403 | [188403-next-station-jianghu.json](./188403-next-station-jianghu.json) |
+| Next Station: Zombies | 255278 | [255278-next-station-zombies.json](./255278-next-station-zombies.json) |
 | Next Step | 178655 | [178655-next-step.json](./178655-next-step.json) |
 | Next Stop | 87314 | [87314-next-stop.json](./87314-next-stop.json) |
 | Next Stop 3 | 115593 | [115593-next-stop-3.json](./115593-next-stop-3.json) |
@@ -2425,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightstar: Alliance | 103233 | [103233-nightstar-alliance.json](./103233-nightstar-alliance.json) |
 | Nightstar: Starfighter | 31815 | [31815-nightstar-starfighter.json](./31815-nightstar-starfighter.json) |
 | NightStars: Project 1 | 314067 | [314067-nightstars-project-1.json](./314067-nightstars-project-1.json) |
+| Nightsteel Survivors | 255274 | [255274-nightsteel-survivors.json](./255274-nightsteel-survivors.json) |
 | NightStone | 86211 | [86211-nightstone.json](./86211-nightstone.json) |
 | Nightswimming | 300820 | [300820-nightswimming.json](./300820-nightswimming.json) |
 | Nightwalker | 163946 | [163946-nightwalker.json](./163946-nightwalker.json) |
