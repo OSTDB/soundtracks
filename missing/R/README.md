@@ -3528,6 +3528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Any Music | 220709 | [220709-rhythm-any-music.json](./220709-rhythm-any-music.json) |
 | Rhythm Brawl | 173059 | [173059-rhythm-brawl.json](./173059-rhythm-brawl.json) |
 | Rhythm Cat Pro | 86707 | [86707-rhythm-cat-pro.json](./86707-rhythm-cat-pro.json) |
+| Rhythm Control 2 | 232513 | [232513-rhythm-control-2.json](./232513-rhythm-control-2.json) |
 | Rhythm Core Alpha | 84842 | [84842-rhythm-core-alpha.json](./84842-rhythm-core-alpha.json) |
 | Rhythm Core Alpha 2 | 84841 | [84841-rhythm-core-alpha-2.json](./84841-rhythm-core-alpha-2.json) |
 | Rhythm de Run Run Run | 123406 | [123406-rhythm-de-run-run-run.json](./123406-rhythm-de-run-run-run.json) |
