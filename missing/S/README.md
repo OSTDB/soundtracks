@@ -5715,6 +5715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinistar | 18693 | [18693-sinistar.json](./18693-sinistar.json) |
 | Sinistar Unleashed | 20377 | [20377-sinistar-unleashed.json](./20377-sinistar-unleashed.json) |
 | Sinister | 253335 | [253335-sinister.json](./253335-sinister.json) |
+| Sinister 625 | 270849 | [270849-sinister-625.json](./270849-sinister-625.json) |
 | Sinister Adventures Bundle | 199624 | [199624-sinister-adventures-bundle.json](./199624-sinister-adventures-bundle.json) |
 | Sinister Assistant | 111906 | [111906-sinister-assistant.json](./111906-sinister-assistant.json) |
 | Sinister City | 17898 | [17898-sinister-city.json](./17898-sinister-city.json) |
@@ -10529,6 +10530,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedin' Shotgun | 263500 | [263500-speedin-shotgun.json](./263500-speedin-shotgun.json) |
 | SpeedingRoad | 158513 | [158513-speedingroad.json](./158513-speedingroad.json) |
 | SpeedJumper | 334787 | [334787-speedjumper.json](./334787-speedjumper.json) |
+| Speedmap Snack Pack | 270846 | [270846-speedmap-snack-pack.json](./270846-speedmap-snack-pack.json) |
+| Speedmap Snack Pack 2: Cosmic Hunger | 270847 | [270847-speedmap-snack-pack-2-cosmic-hunger.json](./270847-speedmap-snack-pack-2-cosmic-hunger.json) |
 | Speedmapping Pack 189: Doom / Satanic Mechanisms | 312912 | [312912-speedmapping-pack-189-doom-satanic-mechanisms.json](./312912-speedmapping-pack-189-doom-satanic-mechanisms.json) |
 | Speedollama | 263766 | [263766-speedollama.json](./263766-speedollama.json) |
 | Speedonauts | 224661 | [224661-speedonauts.json](./224661-speedonauts.json) |
@@ -13032,6 +13035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunk Jigsaw Puzzles | 264578 | [264578-steampunk-jigsaw-puzzles.json](./264578-steampunk-jigsaw-puzzles.json) |
 | Steampunk Jigsaw Puzzles: Airships & Aviators | 265567 | [265567-steampunk-jigsaw-puzzles-airships-and-aviators.json](./265567-steampunk-jigsaw-puzzles-airships-and-aviators.json) |
 | Steampunk Jigsaw Puzzles: Ancient Empires | 267433 | [267433-steampunk-jigsaw-puzzles-ancient-empires.json](./267433-steampunk-jigsaw-puzzles-ancient-empires.json) |
+| Steampunk Jigsaw Puzzles: Mediterranean City-States | 270894 | [270894-steampunk-jigsaw-puzzles-mediterranean-city-states.json](./270894-steampunk-jigsaw-puzzles-mediterranean-city-states.json) |
 | Steampunk Racing 3D | 252141 | [252141-steampunk-racing-3d.json](./252141-steampunk-racing-3d.json) |
 | Steampunk Shinobi | 324946 | [324946-steampunk-shinobi.json](./324946-steampunk-shinobi.json) |
 | SteamPunk Sky | 88169 | [88169-steampunk-sky.json](./88169-steampunk-sky.json) |
@@ -13555,6 +13559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoked: Big Air Edition | 21107 | [21107-stoked-big-air-edition.json](./21107-stoked-big-air-edition.json) |
 | Stolen Dolls | 226430 | [226430-stolen-dolls.json](./226430-stolen-dolls.json) |
 | Stolen Heart | 397673 | [397673-stolen-heart.json](./397673-stolen-heart.json) |
+| Stolen Memories II | 270882 | [270882-stolen-memories-ii.json](./270882-stolen-memories-ii.json) |
 | Stolen Mushrooms | 268224 | [268224-stolen-mushrooms.json](./268224-stolen-mushrooms.json) |
 | Stolen Recovery | 133373 | [133373-stolen-recovery.json](./133373-stolen-recovery.json) |
 | Stolen Steel VR | 29568 | [29568-stolen-steel-vr.json](./29568-stolen-steel-vr.json) |
@@ -15132,6 +15137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunken Sailor | 176263 | [176263-sunken-sailor.json](./176263-sunken-sailor.json) |
 | Sunken Secrets | 69359 | [69359-sunken-secrets.json](./69359-sunken-secrets.json) |
 | Sunken Seeker | 386693 | [386693-sunken-seeker.json](./386693-sunken-seeker.json) |
+| Sunken Ships | 270887 | [270887-sunken-ships.json](./270887-sunken-ships.json) |
 | Sunkenland | 213475 | [213475-sunkenland.json](./213475-sunkenland.json) |
 | Sunkissed | 313831 | [313831-sunkissed.json](./313831-sunkissed.json) |
 | SunKong | 390768 | [390768-sunkong.json](./390768-sunkong.json) |
@@ -15165,6 +15171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrise's Order | 216727 | [216727-sunrises-order.json](./216727-sunrises-order.json) |
 | Sunrock Lake | 395774 | [395774-sunrock-lake.json](./395774-sunrock-lake.json) |
 | Sunrose.p8 | 179488 | [179488-sunrose-p8.json](./179488-sunrose-p8.json) |
+| Suns of Wiraqocha | 270886 | [270886-suns-of-wiraqocha.json](./270886-suns-of-wiraqocha.json) |
 | SunSenSim | 156124 | [156124-sunsensim.json](./156124-sunsensim.json) |
 | Sunset | 195533 | [195533-sunset.json](./195533-sunset.json) |
 | Sunset 20 Drone Racer | 151069 | [151069-sunset-20-drone-racer.json](./151069-sunset-20-drone-racer.json) |
@@ -15225,6 +15232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super | 51970 | [51970-super.json](./51970-super.json) |
 | Super "Mario" World | 297240 | [297240-super-mario-world.json](./297240-super-mario-world.json) |
 | Super "Mario" World 2 | 297496 | [297496-super-mario-world-2.json](./297496-super-mario-world-2.json) |
+| Super 10 Pin | 270885 | [270885-super-10-pin.json](./270885-super-10-pin.json) |
 | Super 10 VR Bundle | 300275 | [300275-super-10-vr-bundle.json](./300275-super-10-vr-bundle.json) |
 | Super 2048 | 99983 | [99983-super-2048.json](./99983-super-2048.json) |
 | Super ACiD Block Attack | 82459 | [82459-super-acid-block-attack.json](./82459-super-acid-block-attack.json) |
@@ -16449,6 +16457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rocket Monkey | 389130 | [389130-super-rocket-monkey.json](./389130-super-rocket-monkey.json) |
 | Super Rocket Pets | 320155 | [320155-super-rocket-pets.json](./320155-super-rocket-pets.json) |
 | Super Rocket Ride | 129092 | [129092-super-rocket-ride.json](./129092-super-rocket-ride.json) |
+| Super RPS | 270888 | [270888-super-rps.json](./270888-super-rps.json) |
 | Super Rugby | 48664 | [48664-super-rugby.json](./48664-super-rugby.json) |
 | Super Rugby League 2 | 23009 | [23009-super-rugby-league-2.json](./23009-super-rugby-league-2.json) |
 | Super Run World | 223017 | [223017-super-run-world.json](./223017-super-run-world.json) |
@@ -16933,6 +16942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermodel Gail McKenna | 254502 | [254502-supermodel-gail-mckenna.json](./254502-supermodel-gail-mckenna.json) |
 | SuperMoose | 30757 | [30757-supermoose.json](./30757-supermoose.json) |
 | Supermoves: World of Parkour | 280450 | [280450-supermoves-world-of-parkour.json](./280450-supermoves-world-of-parkour.json) |
+| Supermurgitroid | 270884 | [270884-supermurgitroid.json](./270884-supermurgitroid.json) |
 | Supernatural | 135124 | [135124-supernatural.json](./135124-supernatural.json) |
 | Supernatural | 303936 | [303936-supernatural.json](./303936-supernatural.json) |
 | Supernatural Squad | 333395 | [333395-supernatural-squad.json](./333395-supernatural-squad.json) |
@@ -17049,6 +17059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf Dance | 333243 | [333243-surf-dance.json](./333243-surf-dance.json) |
 | Surf Game | 296007 | [296007-surf-game.json](./296007-surf-game.json) |
 | Surf Ninjas | 181670 | [181670-surf-ninjas.json](./181670-surf-ninjas.json) |
+| Surf Park | 270883 | [270883-surf-park.json](./270883-surf-park.json) |
 | Surf's Up | 381757 | [381757-surfs-up.json](./381757-surfs-up.json) |
 | Surf's Up | 4191 | [4191-surfs-up.json](./4191-surfs-up.json) |
 | Surface | 395545 | [395545-surface.json](./395545-surface.json) |
@@ -17113,6 +17124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surrender | 226689 | [226689-surrender.json](./226689-surrender.json) |
 | Surrender | 313798 | [313798-surrender.json](./313798-surrender.json) |
 | Surrender 2 | 313799 | [313799-surrender-2.json](./313799-surrender-2.json) |
+| Surrogate | 270889 | [270889-surrogate.json](./270889-surrogate.json) |
 | SurrounDead Poly Construction | 399158 | [399158-surroundead-poly-construction.json](./399158-surroundead-poly-construction.json) |
 | Surrounded by Death | 311613 | [311613-surrounded-by-death.json](./311613-surrounded-by-death.json) |
 | Surv | 51986 | [51986-surv.json](./51986-surv.json) |
