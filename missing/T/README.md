@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tàigǔ Qíngyuán zhī Qīngyún Jiànxiá Chuánqí | 161897 | [161897-taigu-qingyuan-zhi-qingyun-jianxia-chuanqi.json](./161897-taigu-qingyuan-zhi-qingyun-jianxia-chuanqi.json) |
 | Taiheiki | 184472 | [184472-taiheiki.json](./184472-taiheiki.json) |
 | Taiheiyou no Arashi: Koukoku no Kouhai Koko ni Ari, 1942 Senkan Yamato Hankou no Kouhou | 245034 | [245034-taiheiyou-no-arashi-koukoku-no-kouhai-koko-ni-ari-1942-senkan-yamato-hankou-no-kouhou.json](./245034-taiheiyou-no-arashi-koukoku-no-kouhai-koko-ni-ari-1942-senkan-yamato-hankou-no-kouhou.json) |
+| Taiheiyou no Arashi: Senkan Yamato, Akatsuki ni Shutsugeki su! | 241437 | [241437-taiheiyou-no-arashi-senkan-yamato-akatsuki-ni-shutsugeki-su.json](./241437-taiheiyou-no-arashi-senkan-yamato-akatsuki-ni-shutsugeki-su.json) |
 | Taiheiyou no Arashi: Shijou Saidai no Gekisen Normandy Koubousen | 147317 | [147317-taiheiyou-no-arashi-shijou-saidai-no-gekisen-normandy-koubousen.json](./147317-taiheiyou-no-arashi-shijou-saidai-no-gekisen-normandy-koubousen.json) |
 | Taijitu: A Game About Balance | 167289 | [167289-taijitu-a-game-about-balance.json](./167289-taijitu-a-game-about-balance.json) |
 | Taika | 306425 | [306425-taika.json](./306425-taika.json) |
@@ -5643,6 +5644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster | 281482 | [281482-the-idolmaster.json](./281482-the-idolmaster.json) |
 | The Idolmaster Heardle | 205625 | [205625-the-idolmaster-heardle.json](./205625-the-idolmaster-heardle.json) |
 | The Idolmaster Must Songs: Presented by Taiko no Tatsujin - Aka-ban | 149988 | [149988-the-idolmaster-must-songs-presented-by-taiko-no-tatsujin-aka-ban.json](./149988-the-idolmaster-must-songs-presented-by-taiko-no-tatsujin-aka-ban.json) |
+| The Idolmaster Tours | 241446 | [241446-the-idolmaster-tours.json](./241446-the-idolmaster-tours.json) |
 | The Idolmaster: Gravure for You! - Vol. 1 | 79980 | [79980-the-idolmaster-gravure-for-you-vol-1.json](./79980-the-idolmaster-gravure-for-you-vol-1.json) |
 | The Idolmaster: Gravure for You! Vol. 2 | 79977 | [79977-the-idolmaster-gravure-for-you-vol-2.json](./79977-the-idolmaster-gravure-for-you-vol-2.json) |
 | The Idolmaster: Gravure for You! Vol. 3 | 79979 | [79979-the-idolmaster-gravure-for-you-vol-3.json](./79979-the-idolmaster-gravure-for-you-vol-3.json) |
@@ -7120,6 +7122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Misadventures of Denniz & Diana | 113050 | [113050-the-misadventures-of-denniz-and-diana.json](./113050-the-misadventures-of-denniz-and-diana.json) |
 | The Misadventures of Sir Randolph Doogleberry, British Explorer | 91429 | [91429-the-misadventures-of-sir-randolph-doogleberry-british-explorer.json](./91429-the-misadventures-of-sir-randolph-doogleberry-british-explorer.json) |
 | The Misadventures of Tron Bonne | 1753 | [1753-the-misadventures-of-tron-bonne.json](./1753-the-misadventures-of-tron-bonne.json) |
+| The MisAdventures of Xenos | 241422 | [241422-the-misadventures-of-xenos.json](./241422-the-misadventures-of-xenos.json) |
 | The MisAdventures of Xenos: Legacy Edition | 292642 | [292642-the-misadventures-of-xenos-legacy-edition.json](./292642-the-misadventures-of-xenos-legacy-edition.json) |
 | The Miser's House | 25116 | [25116-the-misers-house.json](./25116-the-misers-house.json) |
 | The Misfits Burger Joint | 255341 | [255341-the-misfits-burger-joint.json](./255341-the-misfits-burger-joint.json) |
@@ -9396,6 +9399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The ultimate secret of the universe: Soul | 169922 | [169922-the-ultimate-secret-of-the-universe-soul.json](./169922-the-ultimate-secret-of-the-universe-soul.json) |
 | The Ultimate Showdown | 34428 | [34428-the-ultimate-showdown.json](./34428-the-ultimate-showdown.json) |
 | The Ultimate Simpsons Doom | 196021 | [196021-the-ultimate-simpsons-doom.json](./196021-the-ultimate-simpsons-doom.json) |
+| The Ultimate Sports Quiz | 241454 | [241454-the-ultimate-sports-quiz.json](./241454-the-ultimate-sports-quiz.json) |
 | The Ultimate Torment and Torture | 196028 | [196028-the-ultimate-torment-and-torture.json](./196028-the-ultimate-torment-and-torture.json) |
 | The Ultimate Trivia CD | 72056 | [72056-the-ultimate-trivia-cd.json](./72056-the-ultimate-trivia-cd.json) |
 | The Ultimatum: Choices | 326795 | [326795-the-ultimatum-choices.json](./326795-the-ultimatum-choices.json) |
@@ -14216,6 +14220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trading Simulator | 274563 | [274563-trading-simulator.json](./274563-trading-simulator.json) |
 | Trading Simulator | 290421 | [290421-trading-simulator.json](./290421-trading-simulator.json) |
 | Traditional Braves with Sess-AI 2.0 | 387668 | [387668-traditional-braves-with-sess-ai-2-0.json](./387668-traditional-braves-with-sess-ai-2-0.json) |
+| Traditional Story | 241460 | [241460-traditional-story.json](./241460-traditional-story.json) |
 | Traditional Tactics | 122293 | [122293-traditional-tactics.json](./122293-traditional-tactics.json) |
 | Traditional Tactics Mobile | 122294 | [122294-traditional-tactics-mobile.json](./122294-traditional-tactics-mobile.json) |
 | Traditional Tactics Ne | 122295 | [122295-traditional-tactics-ne.json](./122295-traditional-tactics-ne.json) |
