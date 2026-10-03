@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undisputed Champ | 112735 | [112735-undisputed-champ.json](./112735-undisputed-champ.json) |
 | Undisputed: Deluxe WBC Edition | 325656 | [325656-undisputed-deluxe-wbc-edition.json](./325656-undisputed-deluxe-wbc-edition.json) |
 | Undivine | 311563 | [311563-undivine.json](./311563-undivine.json) |
+| Undivine Comedy: Hank's Inferno | 251750 | [251750-undivine-comedy-hanks-inferno.json](./251750-undivine-comedy-hanks-inferno.json) |
 | Undockable | 361782 | [361782-undockable.json](./361782-undockable.json) |
 | Undoing | 114157 | [114157-undoing.json](./114157-undoing.json) |
 | Undoing Evil | 195271 | [195271-undoing-evil.json](./195271-undoing-evil.json) |
@@ -1271,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Dungeon | 266980 | [266980-unknown-dungeon.json](./266980-unknown-dungeon.json) |
 | Unknown Exist | 202339 | [202339-unknown-exist.json](./202339-unknown-exist.json) |
 | Unknown Fluffy Object | 380450 | [380450-unknown-fluffy-object.json](./380450-unknown-fluffy-object.json) |
+| Unknown FPV: Drone Simulator | 251722 | [251722-unknown-fpv-drone-simulator.json](./251722-unknown-fpv-drone-simulator.json) |
 | Unknown Hero | 371449 | [371449-unknown-hero.json](./371449-unknown-hero.json) |
 | Unknown Heroes Idle | 174809 | [174809-unknown-heroes-idle.json](./174809-unknown-heroes-idle.json) |
 | Unknown Horizon | 408858 | [408858-unknown-horizon.json](./408858-unknown-horizon.json) |
