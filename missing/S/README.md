@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandspiel | 146869 | [146869-sandspiel.json](./146869-sandspiel.json) |
 | Sandstorm Strike Force | 288294 | [288294-sandstorm-strike-force.json](./288294-sandstorm-strike-force.json) |
 | Sandstorm! | 260866 | [260866-sandstorm.json](./260866-sandstorm.json) |
+| SandStrike.io | 240287 | [240287-sandstrike-io.json](./240287-sandstrike-io.json) |
 | SandTable War: Three Kingdoms | 373717 | [373717-sandtable-war-three-kingdoms.json](./373717-sandtable-war-three-kingdoms.json) |
 | SandTest | 146870 | [146870-sandtest.json](./146870-sandtest.json) |
 | Sandtrix | 251225 | [251225-sandtrix.json](./251225-sandtrix.json) |
@@ -4201,6 +4202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikhondo: Blue Pieta | 395144 | [395144-shikhondo-blue-pieta.json](./395144-shikhondo-blue-pieta.json) |
 | Shikhondo: Youkai Rampage | 283772 | [283772-shikhondo-youkai-rampage.json](./283772-shikhondo-youkai-rampage.json) |
 | Shiki no Kyouken: Kanna Zekkei | 147339 | [147339-shiki-no-kyouken-kanna-zekkei.json](./147339-shiki-no-kyouken-kanna-zekkei.json) |
+| Shiki Oni no Koku: Chuugoku-hen - Daiisshou | 240302 | [240302-shiki-oni-no-koku-chuugoku-hen-daiisshou.json](./240302-shiki-oni-no-koku-chuugoku-hen-daiisshou.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Dainishou | 240303 | [240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json](./240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Daisanshou | 240304 | [240304-shiki-oni-no-koku-chuugoku-hen-daisanshou.json](./240304-shiki-oni-no-koku-chuugoku-hen-daisanshou.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Daiyonshou | 240305 | [240305-shiki-oni-no-koku-chuugoku-hen-daiyonshou.json](./240305-shiki-oni-no-koku-chuugoku-hen-daiyonshou.json) |
@@ -6554,6 +6556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap the Rocks | 176884 | [176884-slap-the-rocks.json](./176884-slap-the-rocks.json) |
 | Slap Village: Reality Slap | 27399 | [27399-slap-village-reality-slap.json](./27399-slap-village-reality-slap.json) |
 | Slap-Shot! Hockey | 95424 | [95424-slap-shot-hockey.json](./95424-slap-shot-hockey.json) |
+| Slapdash | 240368 | [240368-slapdash.json](./240368-slapdash.json) |
 | SlapGains | 413671 | [413671-slapgains.json](./413671-slapgains.json) |
 | Slappy Ass | 111121 | [111121-slappy-ass.json](./111121-slappy-ass.json) |
 | Slappy Board | 216886 | [216886-slappy-board.json](./216886-slappy-board.json) |
