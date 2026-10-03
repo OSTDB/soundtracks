@@ -4757,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs Zombies Expansion | 366941 | [366941-plants-vs-zombies-expansion.json](./366941-plants-vs-zombies-expansion.json) |
 | Plants vs Zombies: Neighborhood Defense | 336549 | [336549-plants-vs-zombies-neighborhood-defense.json](./336549-plants-vs-zombies-neighborhood-defense.json) |
 | Plants vs. Zombies | 163213 | [163213-plants-vs-zombies.json](./163213-plants-vs-zombies.json) |
+| Plants vs. Zombies | 264243 | [264243-plants-vs-zombies.json](./264243-plants-vs-zombies.json) |
 | Plants vs. Zombies | 275575 | [275575-plants-vs-zombies.json](./275575-plants-vs-zombies.json) |
 | Plants vs. Zombies | 342043 | [342043-plants-vs-zombies.json](./342043-plants-vs-zombies.json) |
 | Plants vs. Zombies | 342044 | [342044-plants-vs-zombies.json](./342044-plants-vs-zombies.json) |
@@ -6196,6 +6197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Glow | 413629 | [413629-pool-glow.json](./413629-pool-glow.json) |
 | Pool Hustler | 23153 | [23153-pool-hustler.json](./23153-pool-hustler.json) |
 | Pool Live Pro | 38947 | [38947-pool-live-pro.json](./38947-pool-live-pro.json) |
+| Pool Lounge | 264241 | [264241-pool-lounge.json](./264241-pool-lounge.json) |
 | Pool Master | 43257 | [43257-pool-master.json](./43257-pool-master.json) |
 | Pool Nation FX - Lite | 15692 | [15692-pool-nation-fx-lite.json](./15692-pool-nation-fx-lite.json) |
 | Pool Nation Snooker Bundle | 112733 | [112733-pool-nation-snooker-bundle.json](./112733-pool-nation-snooker-bundle.json) |
