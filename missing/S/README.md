@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.W.I.N.E. | 51224 | [51224-s-w-i-n-e.json](./51224-s-w-i-n-e.json) |
 | S.X.E. Slider | 298247 | [298247-s-x-e-slider.json](./298247-s-x-e-slider.json) |
 | S.X.E. Slider: Dungeons | 311617 | [311617-s-x-e-slider-dungeons.json](./311617-s-x-e-slider-dungeons.json) |
+| S&T: Medieval Wars | 239107 | [239107-s-and-t-medieval-wars.json](./239107-s-and-t-medieval-wars.json) |
 | S0 | 129633 | [129633-s0.json](./129633-s0.json) |
 | S2: Silent Storm | 79956 | [79956-s2-silent-storm.json](./79956-s2-silent-storm.json) |
 | S4Game | 213463 | [213463-s4game.json](./213463-s4game.json) |
@@ -14160,6 +14161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strazeal | 121483 | [121483-strazeal.json](./121483-strazeal.json) |
 | Stream - Circuit Puzzle | 102128 | [102128-stream-circuit-puzzle.json](./102128-stream-circuit-puzzle.json) |
 | Stream Bakery | 409789 | [409789-stream-bakery.json](./409789-stream-bakery.json) |
+| Stream Defense | 239208 | [239208-stream-defense.json](./239208-stream-defense.json) |
 | Stream Draws | 139448 | [139448-stream-draws.json](./139448-stream-draws.json) |
 | Stream Fighters | 126578 | [126578-stream-fighters.json](./126578-stream-fighters.json) |
 | Stream Madness | 150685 | [150685-stream-madness.json](./150685-stream-madness.json) |
