@@ -2728,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Arcana | 336713 | [336713-escape-the-arcana.json](./336713-escape-the-arcana.json) |
 | Escape the Ayurok | 125254 | [125254-escape-the-ayurok.json](./125254-escape-the-ayurok.json) |
 | Escape the Ayuwoki Demake | 201146 | [201146-escape-the-ayuwoki-demake.json](./201146-escape-the-ayuwoki-demake.json) |
+| Escape The Ayuwoki Horror Fort | 242011 | [242011-escape-the-ayuwoki-horror-fort.json](./242011-escape-the-ayuwoki-horror-fort.json) |
 | Escape the Backrooms Bodycam | 360006 | [360006-escape-the-backrooms-bodycam.json](./360006-escape-the-backrooms-bodycam.json) |
 | Escape the Boardgame | 336719 | [336719-escape-the-boardgame.json](./336719-escape-the-boardgame.json) |
 | Escape the Bunker | 30086 | [30086-escape-the-bunker.json](./30086-escape-the-bunker.json) |
