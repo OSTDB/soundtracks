@@ -3254,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dennis og Bellini: Stridens Æble | 91451 | [91451-dennis-og-bellini-stridens-ble.json](./91451-dennis-og-bellini-stridens-ble.json) |
 | Dennis the Menace | 248767 | [248767-dennis-the-menace.json](./248767-dennis-the-menace.json) |
 | Dennis the Menace Redux | 219078 | [219078-dennis-the-menace-redux.json](./219078-dennis-the-menace-redux.json) |
+| Dennou Hyouryuu: Multimedia Cruising | 243209 | [243209-dennou-hyouryuu-multimedia-cruising.json](./243209-dennou-hyouryuu-multimedia-cruising.json) |
 | Dennou Sentai Lavian Three | 67268 | [67268-dennou-sentai-lavian-three.json](./67268-dennou-sentai-lavian-three.json) |
 | Denny's Atari Remix | 305367 | [305367-dennys-atari-remix.json](./305367-dennys-atari-remix.json) |
 | Denos City | 385858 | [385858-denos-city.json](./385858-denos-city.json) |
@@ -3278,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha Unten Shirei! Tokyo-wan-hen | 221738 | [221738-densha-unten-shirei-tokyo-wan-hen.json](./221738-densha-unten-shirei-tokyo-wan-hen.json) |
 | Denshi Life 2 | 331876 | [331876-denshi-life-2.json](./331876-denshi-life-2.json) |
 | Denshi Maid Techou: Koi no Iroha | 59403 | [59403-denshi-maid-techou-koi-no-iroha.json](./59403-denshi-maid-techou-koi-no-iroha.json) |
+| Density Limit | 243284 | [243284-density-limit.json](./243284-density-limit.json) |
 | Densou Tenshi Valforce | 383622 | [383622-densou-tenshi-valforce.json](./383622-densou-tenshi-valforce.json) |
 | Dental Madness: Cavity Mania | 166758 | [166758-dental-madness-cavity-mania.json](./166758-dental-madness-cavity-mania.json) |
 | Dental Strike | 290699 | [290699-dental-strike.json](./290699-dental-strike.json) |
@@ -5151,6 +5153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Speedstorm: The Genie Pack | 366991 | [366991-disney-speedstorm-the-genie-pack.json](./366991-disney-speedstorm-the-genie-pack.json) |
 | Disney Speedstorm: Welcome Pack | 366988 | [366988-disney-speedstorm-welcome-pack.json](./366988-disney-speedstorm-welcome-pack.json) |
 | Disney SpellStruck | 248583 | [248583-disney-spellstruck.json](./248583-disney-spellstruck.json) |
+| Disney Sports Basketball | 243192 | [243192-disney-sports-basketball.json](./243192-disney-sports-basketball.json) |
 | Disney Sports Bowling | 243816 | [243816-disney-sports-bowling.json](./243816-disney-sports-bowling.json) |
 | Disney Sports Motocross | 49305 | [49305-disney-sports-motocross.json](./49305-disney-sports-motocross.json) |
 | Disney Sports Tennis | 243812 | [243812-disney-sports-tennis.json](./243812-disney-sports-tennis.json) |
@@ -5612,6 +5615,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dobutsu Shogi World | 120260 | [120260-dobutsu-shogi-world.json](./120260-dobutsu-shogi-world.json) |
 | Doc Cosmos | 133986 | [133986-doc-cosmos.json](./133986-doc-cosmos.json) |
 | Doc Louis's Punch-Out!! | 9153 | [9153-doc-louiss-punch-out.json](./9153-doc-louiss-punch-out.json) |
+| Doc McStuffins | 243280 | [243280-doc-mcstuffins.json](./243280-doc-mcstuffins.json) |
+| Doc McStuffins: School of Madicine | 243281 | [243281-doc-mcstuffins-school-of-madicine.json](./243281-doc-mcstuffins-school-of-madicine.json) |
 | DoC: God Mode Edition | 107162 | [107162-doc-god-mode-edition.json](./107162-doc-god-mode-edition.json) |
 | Doce Fim: Sweetend Placebo | 391576 | [391576-doce-fim-sweetend-placebo.json](./391576-doce-fim-sweetend-placebo.json) |
 | Doces & Calabouços: Caos no Reino do Doce | 335244 | [335244-doces-and-calaboucos-caos-no-reino-do-doce.json](./335244-doces-and-calaboucos-caos-no-reino-do-doce.json) |
