@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hailstorm | 363955 | [363955-hailstorm.json](./363955-hailstorm.json) |
 | Hailstorm | 68171 | [68171-hailstorm.json](./68171-hailstorm.json) |
 | Hain | 386980 | [386980-hain.json](./386980-hain.json) |
+| Hainya World | 253494 | [253494-hainya-world.json](./253494-hainya-world.json) |
 | Hair Bows | 156125 | [156125-hair-bows.json](./156125-hair-bows.json) |
 | Hair Dash | 123038 | [123038-hair-dash.json](./123038-hair-dash.json) |
 | Hair Mower 3D | 137052 | [137052-hair-mower-3d.json](./137052-hair-mower-3d.json) |
@@ -1656,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearth Bound | 397128 | [397128-hearth-bound.json](./397128-hearth-bound.json) |
 | Hearth's Light: Potion Shop | 239669 | [239669-hearths-light-potion-shop.json](./239669-hearths-light-potion-shop.json) |
 | Hearthguard | 356677 | [356677-hearthguard.json](./356677-hearthguard.json) |
+| Hearthkeeper | 253489 | [253489-hearthkeeper.json](./253489-hearthkeeper.json) |
 | Hearthstone: Across the Timeways | 322150 | [322150-hearthstone-across-the-timeways.json](./322150-hearthstone-across-the-timeways.json) |
 | Hearthstone: Ashes of Outland - Trial by Felfire | 135707 | [135707-hearthstone-ashes-of-outland-trial-by-felfire.json](./135707-hearthstone-ashes-of-outland-trial-by-felfire.json) |
 | Hearthstone: Descent of Dragons | 125176 | [125176-hearthstone-descent-of-dragons.json](./125176-hearthstone-descent-of-dragons.json) |
