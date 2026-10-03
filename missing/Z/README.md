@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ziggy Putts | 58188 | [58188-ziggy-putts.json](./58188-ziggy-putts.json) |
 | Ziggy Road | 235136 | [235136-ziggy-road.json](./235136-ziggy-road.json) |
 | Ziggy's Labyrinth | 286573 | [286573-ziggys-labyrinth.json](./286573-ziggys-labyrinth.json) |
+| ZigZag | 231998 | [231998-zigzag.json](./231998-zigzag.json) |
 | ZigZag | 26920 | [26920-zigzag.json](./26920-zigzag.json) |
 | Zigzag Infinite Runner | 123480 | [123480-zigzag-infinite-runner.json](./123480-zigzag-infinite-runner.json) |
 | Ziircon | 211277 | [211277-ziircon.json](./211277-ziircon.json) |
@@ -741,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Crisis: Survival | 104234 | [104234-zombie-crisis-survival.json](./104234-zombie-crisis-survival.json) |
 | Zombie Crush Driver | 192283 | [192283-zombie-crush-driver.json](./192283-zombie-crush-driver.json) |
 | Zombie Cubes | 111169 | [111169-zombie-cubes.json](./111169-zombie-cubes.json) |
+| Zombie Cubes | 231997 | [231997-zombie-cubes.json](./231997-zombie-cubes.json) |
 | Zombie Dash | 377133 | [377133-zombie-dash.json](./377133-zombie-dash.json) |
 | Zombie Dead Smasher Shooter: Premium Edition | 283163 | [283163-zombie-dead-smasher-shooter-premium-edition.json](./283163-zombie-dead-smasher-shooter-premium-edition.json) |
 | Zombie Deathrace Feeding Frenzy | 114185 | [114185-zombie-deathrace-feeding-frenzy.json](./114185-zombie-deathrace-feeding-frenzy.json) |
@@ -1227,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zusi 3: Aerosoft Edition | 117612 | [117612-zusi-3-aerosoft-edition.json](./117612-zusi-3-aerosoft-edition.json) |
 | Zutto Atai no Turn! | 216458 | [216458-zutto-atai-no-turn.json](./216458-zutto-atai-no-turn.json) |
 | Zutto Tsukushite Ageru no! | 410951 | [410951-zutto-tsukushite-ageru-no.json](./410951-zutto-tsukushite-ageru-no.json) |
+| Zuwaka | 231996 | [231996-zuwaka.json](./231996-zuwaka.json) |
 | Zwaard | 235973 | [235973-zwaard.json](./235973-zwaard.json) |
 | Zwackery | 40975 | [40975-zwackery.json](./40975-zwackery.json) |
 | Zwamman | 395176 | [395176-zwamman.json](./395176-zwamman.json) |
