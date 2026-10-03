@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Heart Of Iron | 397692 | [397692-a-heart-of-iron.json](./397692-a-heart-of-iron.json) |
 | A Heavy Morning | 347840 | [347840-a-heavy-morning.json](./347840-a-heavy-morning.json) |
 | A Hero and a Garden | 137072 | [137072-a-hero-and-a-garden.json](./137072-a-hero-and-a-garden.json) |
+| A Hero Once More | 252918 | [252918-a-hero-once-more.json](./252918-a-hero-once-more.json) |
 | A Heroine Story | 249856 | [249856-a-heroine-story.json](./249856-a-heroine-story.json) |
 | A Hideo Kojima Game | 178947 | [178947-a-hideo-kojima-game.json](./178947-a-hideo-kojima-game.json) |
 | A Holiday Yarn | 183952 | [183952-a-holiday-yarn.json](./183952-a-holiday-yarn.json) |
@@ -3346,6 +3347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Star Soccer | 81432 | [81432-all-star-soccer.json](./81432-all-star-soccer.json) |
 | All Star Tennis 2000 | 249157 | [249157-all-star-tennis-2000.json](./249157-all-star-tennis-2000.json) |
 | All Star Tennis 2000 | 49880 | [49880-all-star-tennis-2000.json](./49880-all-star-tennis-2000.json) |
+| All Stars Racing Jumper | 252934 | [252934-all-stars-racing-jumper.json](./252934-all-stars-racing-jumper.json) |
 | All Systems Operational | 121541 | [121541-all-systems-operational.json](./121541-all-systems-operational.json) |
 | All that Glitters | 336600 | [336600-all-that-glitters.json](./336600-all-that-glitters.json) |
 | All That is Left | 384108 | [384108-all-that-is-left.json](./384108-all-that-is-left.json) |
