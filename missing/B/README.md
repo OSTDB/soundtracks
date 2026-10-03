@@ -6505,6 +6505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bondage Black Jack | 151621 | [151621-bondage-black-jack.json](./151621-bondage-black-jack.json) |
 | Bonded in Darkness | 320893 | [320893-bonded-in-darkness.json](./320893-bonded-in-darkness.json) |
 | Bonded Realities | 66109 | [66109-bonded-realities.json](./66109-bonded-realities.json) |
+| Bondee's Barnyard: Safety Violation | 231434 | [231434-bondees-barnyard-safety-violation.json](./231434-bondees-barnyard-safety-violation.json) |
 | Bonding, Now | 319676 | [319676-bonding-now.json](./319676-bonding-now.json) |
 | Bonds | 111096 | [111096-bonds.json](./111096-bonds.json) |
 | Bonds | 380036 | [380036-bonds.json](./380036-bonds.json) |
