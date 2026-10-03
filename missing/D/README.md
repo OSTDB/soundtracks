@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DDD Pool | 92835 | [92835-ddd-pool.json](./92835-ddd-pool.json) |
 | DDD: Demons Double Down | 390779 | [390779-ddd-demons-double-down.json](./390779-ddd-demons-double-down.json) |
 | DDD: Dice, Dungeons, and Drakes | 395123 | [395123-ddd-dice-dungeons-and-drakes.json](./395123-ddd-dice-dungeons-and-drakes.json) |
+| DDI Rally Championship | 260336 | [260336-ddi-rally-championship.json](./260336-ddi-rally-championship.json) |
 | DDI Touring Car Championship | 298681 | [298681-ddi-touring-car-championship.json](./298681-ddi-touring-car-championship.json) |
 | DDM Soccer '96 | 93390 | [93390-ddm-soccer-96.json](./93390-ddm-soccer-96.json) |
 | DDraceNetwork | 136770 | [136770-ddracenetwork.json](./136770-ddracenetwork.json) |
@@ -2608,6 +2609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Stories Bundle | 218689 | [218689-deep-stories-bundle.json](./218689-deep-stories-bundle.json) |
 | Deep the Game: The Darkest Cave | 169957 | [169957-deep-the-game-the-darkest-cave.json](./169957-deep-the-game-the-darkest-cave.json) |
 | Deep Treasure | 275080 | [275080-deep-treasure.json](./275080-deep-treasure.json) |
+| Deep Under | 260302 | [260302-deep-under.json](./260302-deep-under.json) |
 | Deep Voyage | 96040 | [96040-deep-voyage.json](./96040-deep-voyage.json) |
 | Deep West | 369016 | [369016-deep-west.json](./369016-deep-west.json) |
 | Deepak Chopra's Leela | 20244 | [20244-deepak-chopras-leela.json](./20244-deepak-chopras-leela.json) |
@@ -3021,6 +3023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demigods | 34304 | [34304-demigods.json](./34304-demigods.json) |
 | Demining | 342163 | [342163-demining.json](./342163-demining.json) |
 | Demise Sanctuary | 201243 | [201243-demise-sanctuary.json](./201243-demise-sanctuary.json) |
+| Demise: Survival Uncharted | 260311 | [260311-demise-survival-uncharted.json](./260311-demise-survival-uncharted.json) |
 | Demise: The Revelation | 69922 | [69922-demise-the-revelation.json](./69922-demise-the-revelation.json) |
 | Demiurge Sacrifice | 380691 | [380691-demiurge-sacrifice.json](./380691-demiurge-sacrifice.json) |
 | Demiurges | 221110 | [221110-demiurges.json](./221110-demiurges.json) |
