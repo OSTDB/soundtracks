@@ -1738,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of the World | 210099 | [210099-end-of-the-world.json](./210099-end-of-the-world.json) |
 | End of the World: NTR | 170499 | [170499-end-of-the-world-ntr.json](./170499-end-of-the-world-ntr.json) |
 | End of Twilight | 70973 | [70973-end-of-twilight.json](./70973-end-of-twilight.json) |
+| End of Verse 23,194,973,137 | 257538 | [257538-end-of-verse-23-194-973-137.json](./257538-end-of-verse-23-194-973-137.json) |
 | End of War 1945 | 127377 | [127377-end-of-war-1945.json](./127377-end-of-war-1945.json) |
 | End Party | 192370 | [192370-end-party.json](./192370-end-party.json) |
 | End Point | 260861 | [260861-end-point.json](./260861-end-point.json) |
