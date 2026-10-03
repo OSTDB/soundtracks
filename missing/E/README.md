@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Efpiyes | 234045 | [234045-efpiyes.json](./234045-efpiyes.json) |
 | EGA Coloring Book | 330270 | [330270-ega-coloring-book.json](./330270-ega-coloring-book.json) |
 | EGA-Roids | 130850 | [130850-ega-roids.json](./130850-ega-roids.json) |
+| Egao no Renkinjutsu | 238099 | [238099-egao-no-renkinjutsu.json](./238099-egao-no-renkinjutsu.json) |
 | Egg | 285669 | [285669-egg.json](./285669-egg.json) |
 | Egg | 305447 | [305447-egg.json](./305447-egg.json) |
 | Egg Bunny 2 | 199387 | [199387-egg-bunny-2.json](./199387-egg-bunny-2.json) |
@@ -3445,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyday Shooter | 14911 | [14911-everyday-shooter.json](./14911-everyday-shooter.json) |
 | Everyday Soccer | 61342 | [61342-everyday-soccer.json](./61342-everyday-soccer.json) |
 | Everyday Sororicide | 380679 | [380679-everyday-sororicide.json](./380679-everyday-sororicide.json) |
+| Everyday Today's Menu for Emiya Family: Lancer Scenario Pack | 238000 | [238000-everyday-todays-menu-for-emiya-family-lancer-scenario-pack.json](./238000-everyday-todays-menu-for-emiya-family-lancer-scenario-pack.json) |
 | Everyone Dies | 127684 | [127684-everyone-dies.json](./127684-everyone-dies.json) |
 | Everyone Goes Home | 120926 | [120926-everyone-goes-home.json](./120926-everyone-goes-home.json) |
 | Everyone Sing | 45293 | [45293-everyone-sing.json](./45293-everyone-sing.json) |
