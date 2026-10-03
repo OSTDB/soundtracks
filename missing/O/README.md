@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh My Wrench | 322187 | [322187-oh-my-wrench.json](./322187-oh-my-wrench.json) |
 | Oh My Yokai! | 208282 | [208282-oh-my-yokai.json](./208282-oh-my-yokai.json) |
 | Oh No | 135705 | [135705-oh-no.json](./135705-oh-no.json) |
+| Oh No, My Moustache! | 275221 | [275221-oh-no-my-moustache.json](./275221-oh-no-my-moustache.json) |
 | Oh No! Bugs! | 31708 | [31708-oh-no-bugs.json](./31708-oh-no-bugs.json) |
 | Oh No! It's An Alien Invasion: Turret Alert | 197643 | [197643-oh-no-its-an-alien-invasion-turret-alert.json](./197643-oh-no-its-an-alien-invasion-turret-alert.json) |
 | Oh No! More Lemmings | 14481 | [14481-oh-no-more-lemmings.json](./14481-oh-no-more-lemmings.json) |
