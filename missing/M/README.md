@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machi no Pet-Ya-San DS: Wan-chan 200-Hiki Daishuugou | 133795 | [133795-machi-no-pet-ya-san-ds-wan-chan-200-hiki-daishuugou.json](./133795-machi-no-pet-ya-san-ds-wan-chan-200-hiki-daishuugou.json) |
 | Machi-ing Maker 4 | 65510 | [65510-machi-ing-maker-4.json](./65510-machi-ing-maker-4.json) |
 | Machi-ing Maker DS | 78333 | [78333-machi-ing-maker-ds.json](./78333-machi-ing-maker-ds.json) |
+| Machi: Above the Void | 253503 | [253503-machi-above-the-void.json](./253503-machi-above-the-void.json) |
 | Machi: Unmei no Kousaten | 279745 | [279745-machi-unmei-no-kousaten.json](./279745-machi-unmei-no-kousaten.json) |
 | Machi: Unmei no Kousaten - Tokubetsu-hen | 279746 | [279746-machi-unmei-no-kousaten-tokubetsu-hen.json](./279746-machi-unmei-no-kousaten-tokubetsu-hen.json) |
 | Machiavelli the Prince | 14463 | [14463-machiavelli-the-prince.json](./14463-machiavelli-the-prince.json) |
@@ -1824,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marine Battle | 277530 | [277530-marine-battle.json](./277530-marine-battle.json) |
 | Marine Buster | 45969 | [45969-marine-buster.json](./45969-marine-buster.json) |
 | Marine Chan | 97846 | [97846-marine-chan.json](./97846-marine-chan.json) |
+| Marine Glory | 253491 | [253491-marine-glory.json](./253491-marine-glory.json) |
 | Marine Quest | 313683 | [313683-marine-quest.json](./313683-marine-quest.json) |
 | Marine Sharpshooter | 77242 | [77242-marine-sharpshooter.json](./77242-marine-sharpshooter.json) |
 | Marine Survivors | 213970 | [213970-marine-survivors.json](./213970-marine-survivors.json) |
@@ -3287,6 +3289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazeing | 306384 | [306384-mazeing.json](./306384-mazeing.json) |
 | Mazelit: Rolling With Style | 295346 | [295346-mazelit-rolling-with-style.json](./295346-mazelit-rolling-with-style.json) |
 | Mazeman | 174276 | [174276-mazeman.json](./174276-mazeman.json) |
+| MazeMaze | 253478 | [253478-mazemaze.json](./253478-mazemaze.json) |
 | Mazemerizzz II | 389997 | [389997-mazemerizzz-ii.json](./389997-mazemerizzz-ii.json) |
 | Mazepocalypse | 264580 | [264580-mazepocalypse.json](./264580-mazepocalypse.json) |
 | MazeQuest 2 | 109641 | [109641-mazequest-2.json](./109641-mazequest-2.json) |
@@ -8692,6 +8695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Predator/Prey Pack | 303142 | [303142-mortal-kombat-x-predator-prey-pack.json](./303142-mortal-kombat-x-predator-prey-pack.json) |
 | Mortal Kombat X: Premium Edition | 53367 | [53367-mortal-kombat-x-premium-edition.json](./53367-mortal-kombat-x-premium-edition.json) |
 | Mortal Kombat X: Special Edition | 140997 | [140997-mortal-kombat-x-special-edition.json](./140997-mortal-kombat-x-special-edition.json) |
+| Mortal Kombat: Defenders of The Realm | 253499 | [253499-mortal-kombat-defenders-of-the-realm.json](./253499-mortal-kombat-defenders-of-the-realm.json) |
 | Mortal Kombat: Kollector's Edition | 44559 | [44559-mortal-kombat-kollectors-edition.json](./44559-mortal-kombat-kollectors-edition.json) |
 | Mortal Kombat: Komplete Edition | 2977 | [2977-mortal-kombat-komplete-edition.json](./2977-mortal-kombat-komplete-edition.json) |
 | Mortal Kombat: Legacy Kollection | 347122 | [347122-mortal-kombat-legacy-kollection.json](./347122-mortal-kombat-legacy-kollection.json) |
@@ -9323,6 +9327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Men & Little Miss: Mr. Messy and the Missing Sock | 243272 | [243272-mr-men-and-little-miss-mr-messy-and-the-missing-sock.json](./243272-mr-men-and-little-miss-mr-messy-and-the-missing-sock.json) |
 | Mr. Mix | 275669 | [275669-mr-mix.json](./275669-mr-mix.json) |
 | Mr. Mix | 276278 | [276278-mr-mix.json](./276278-mr-mix.json) |
+| Mr. Mookie and the Runaway Cookie | 253493 | [253493-mr-mookie-and-the-runaway-cookie.json](./253493-mr-mookie-and-the-runaway-cookie.json) |
 | Mr. Mosquito | 246473 | [246473-mr-mosquito.json](./246473-mr-mosquito.json) |
 | Mr. Mower | 236380 | [236380-mr-mower.json](./236380-mr-mower.json) |
 | Mr. Mudkip 3 | 323876 | [323876-mr-mudkip-3.json](./323876-mr-mudkip-3.json) |
