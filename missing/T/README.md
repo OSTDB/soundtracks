@@ -5802,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Party Pack 8 | 144783 | [144783-the-jackbox-party-pack-8.json](./144783-the-jackbox-party-pack-8.json) |
 | The Jackbox Party Pack 9 | 198560 | [198560-the-jackbox-party-pack-9.json](./198560-the-jackbox-party-pack-9.json) |
 | The Jackbox Party Starter | 207095 | [207095-the-jackbox-party-starter.json](./207095-the-jackbox-party-starter.json) |
+| The Jackbox Party Trilogy 3.0 | 251098 | [251098-the-jackbox-party-trilogy-3-0.json](./251098-the-jackbox-party-trilogy-3-0.json) |
 | The Jackbox Survey Scramble | 318207 | [318207-the-jackbox-survey-scramble.json](./318207-the-jackbox-survey-scramble.json) |
 | The Jade Stone | 67698 | [67698-the-jade-stone.json](./67698-the-jade-stone.json) |
 | The Janitor | 32006 | [32006-the-janitor.json](./32006-the-janitor.json) |
@@ -9798,6 +9799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wonderful 101 | 264890 | [264890-the-wonderful-101.json](./264890-the-wonderful-101.json) |
 | The Wonderful 101: Remastered | 129240 | [129240-the-wonderful-101-remastered.json](./129240-the-wonderful-101-remastered.json) |
 | The Wonderful 101: Remastered - The Wonderful One: After School Hero - Part 1 | 250349 | [250349-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-1.json](./250349-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-1.json) |
+| The Wonderful 101: Remastered - The Wonderful One: After School Hero - Part 2 | 251116 | [251116-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-2.json](./251116-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-2.json) |
 | The Wonderful End of the World | 14905 | [14905-the-wonderful-end-of-the-world.json](./14905-the-wonderful-end-of-the-world.json) |
 | The Wonders of the Animal Kingdom | 14256 | [14256-the-wonders-of-the-animal-kingdom.json](./14256-the-wonders-of-the-animal-kingdom.json) |
 | The Wondrous Wedding of Ivan the Bard | 348920 | [348920-the-wondrous-wedding-of-ivan-the-bard.json](./348920-the-wondrous-wedding-of-ivan-the-bard.json) |
@@ -9855,6 +9857,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The X-Files Game | 103203 | [103203-the-x-files-game.json](./103203-the-x-files-game.json) |
 | The Xeno Project | 221659 | [221659-the-xeno-project.json](./221659-the-xeno-project.json) |
 | The Yakutsu Noroi Game | 124641 | [124641-the-yakutsu-noroi-game.json](./124641-the-yakutsu-noroi-game.json) |
+| The Yakyuken: Blonde-hen | 251083 | [251083-the-yakyuken-blonde-hen.json](./251083-the-yakyuken-blonde-hen.json) |
+| The Yakyuken: Bodicon | 251082 | [251082-the-yakyuken-bodicon.json](./251082-the-yakyuken-bodicon.json) |
+| The Yakyuken: Bunny Girl | 251080 | [251080-the-yakyuken-bunny-girl.json](./251080-the-yakyuken-bunny-girl.json) |
+| The Yakyuken: Companion | 251081 | [251081-the-yakyuken-companion.json](./251081-the-yakyuken-companion.json) |
+| The Yakyuken: Ojousama | 251084 | [251084-the-yakyuken-ojousama.json](./251084-the-yakyuken-ojousama.json) |
 | The Yakyuu Ken Special: Konya wa 8-kaisen | 74777 | [74777-the-yakyuu-ken-special-konya-wa-8-kaisen.json](./74777-the-yakyuu-ken-special-konya-wa-8-kaisen.json) |
 | The Yakyuuken Special: Konya ha 12-kaisen | 74778 | [74778-the-yakyuuken-special-konya-ha-12-kaisen.json](./74778-the-yakyuuken-special-konya-ha-12-kaisen.json) |
 | The Yard: Escape from Prison | 414610 | [414610-the-yard-escape-from-prison.json](./414610-the-yard-escape-from-prison.json) |
@@ -12421,6 +12428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TOCA World Touring Cars | 234899 | [234899-toca-world-touring-cars.json](./234899-toca-world-touring-cars.json) |
 | TOCA World Touring Cars | 8002 | [8002-toca-world-touring-cars.json](./8002-toca-world-touring-cars.json) |
 | Tochi II: Senshi | 207289 | [207289-tochi-ii-senshi.json](./207289-tochi-ii-senshi.json) |
+| Tochi T.U.N.R | 251100 | [251100-tochi-t-u-n-r.json](./251100-tochi-t-u-n-r.json) |
 | Today I Die | 55978 | [55978-today-i-die.json](./55978-today-i-die.json) |
 | Today is my Birthday | 112266 | [112266-today-is-my-birthday.json](./112266-today-is-my-birthday.json) |
 | Today, I'll Be The Hero | 409044 | [409044-today-ill-be-the-hero.json](./409044-today-ill-be-the-hero.json) |
