@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Islands 2 | 270942 | [270942-railway-islands-2.json](./270942-railway-islands-2.json) |
 | Railway Mogul | 91548 | [91548-railway-mogul.json](./91548-railway-mogul.json) |
 | Railway Operation Simulator | 214615 | [214615-railway-operation-simulator.json](./214615-railway-operation-simulator.json) |
+| Railway: Koko ni Aru Yume | 271418 | [271418-railway-koko-ni-aru-yume.json](./271418-railway-koko-ni-aru-yume.json) |
 | Railworks 2: Train Simulator | 5548 | [5548-railworks-2-train-simulator.json](./5548-railworks-2-train-simulator.json) |
 | Railworks 3: Train Simulator 2012 - Bristol to Avonmouth | 136479 | [136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json](./136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json) |
 | Raimodula | 247463 | [247463-raimodula.json](./247463-raimodula.json) |
@@ -2055,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Series | 270665 | [270665-red-series.json](./270665-red-series.json) |
 | Red Siren: Space Defense | 111541 | [111541-red-siren-space-defense.json](./111541-red-siren-space-defense.json) |
 | Red Sky | 26804 | [26804-red-sky.json](./26804-red-sky.json) |
+| Red Slammer | 271369 | [271369-red-slammer.json](./271369-red-slammer.json) |
 | Red Slash | 176266 | [176266-red-slash.json](./176266-red-slash.json) |
 | Red Snow | 287771 | [287771-red-snow.json](./287771-red-snow.json) |
 | Red Soil | 379372 | [379372-red-soil.json](./379372-red-soil.json) |
@@ -3239,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of Justice | 122349 | [122349-revenge-of-justice.json](./122349-revenge-of-justice.json) |
 | Revenge of Marjorie the Chicken | 137694 | [137694-revenge-of-marjorie-the-chicken.json](./137694-revenge-of-marjorie-the-chicken.json) |
 | Revenge of Meta Knight | 271263 | [271263-revenge-of-meta-knight.json](./271263-revenge-of-meta-knight.json) |
+| Revenge of Meta Knight | 271406 | [271406-revenge-of-meta-knight.json](./271406-revenge-of-meta-knight.json) |
 | Revenge of Noxi | 254148 | [254148-revenge-of-noxi.json](./254148-revenge-of-noxi.json) |
 | Revenge of Roger Rouge | 33516 | [33516-revenge-of-roger-rouge.json](./33516-revenge-of-roger-rouge.json) |
 | Revenge of the 'Gator: Gold | 257393 | [257393-revenge-of-the-gator-gold.json](./257393-revenge-of-the-gator-gold.json) |
@@ -3249,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the Fallen | 123600 | [123600-revenge-of-the-fallen.json](./123600-revenge-of-the-fallen.json) |
 | Revenge of the Firstborn | 378336 | [378336-revenge-of-the-firstborn.json](./378336-revenge-of-the-firstborn.json) |
 | Revenge of the Gamer | 372685 | [372685-revenge-of-the-gamer.json](./372685-revenge-of-the-gamer.json) |
+| Revenge of the King | 271409 | [271409-revenge-of-the-king.json](./271409-revenge-of-the-king.json) |
 | Revenge of the Mutant Camels | 40918 | [40918-revenge-of-the-mutant-camels.json](./40918-revenge-of-the-mutant-camels.json) |
 | Revenge of the Ronin | 277302 | [277302-revenge-of-the-ronin.json](./277302-revenge-of-the-ronin.json) |
 | Revenge of the Savage Planet: Cosmic Hoarder Edition | 336145 | [336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json](./336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json) |
@@ -5222,6 +5226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll For Confidence | 171091 | [171091-roll-for-confidence.json](./171091-roll-for-confidence.json) |
 | Roll in the Hole | 64670 | [64670-roll-in-the-hole.json](./64670-roll-in-the-hole.json) |
 | Roll It to the End | 244718 | [244718-roll-it-to-the-end.json](./244718-roll-it-to-the-end.json) |
+| Roll Me Home | 271381 | [271381-roll-me-home.json](./271381-roll-me-home.json) |
 | Roll or Die | 382911 | [382911-roll-or-die.json](./382911-roll-or-die.json) |
 | Roll Prix | 120252 | [120252-roll-prix.json](./120252-roll-prix.json) |
 | Roll the Ball | 273418 | [273418-roll-the-ball.json](./273418-roll-the-ball.json) |
