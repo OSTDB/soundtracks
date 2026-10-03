@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abduction Prologue: The Story Of Jonathan Blake | 82096 | [82096-abduction-prologue-the-story-of-jonathan-blake.json](./82096-abduction-prologue-the-story-of-jonathan-blake.json) |
 | Abduction! | 241448 | [241448-abduction.json](./241448-abduction.json) |
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
+| Abelardo: Steakhouse Musician | 232001 | [232001-abelardo-steakhouse-musician.json](./232001-abelardo-steakhouse-musician.json) |
 | Abenteuer Landtag 2 | 135093 | [135093-abenteuer-landtag-2.json](./135093-abenteuer-landtag-2.json) |
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
 | Aberrant Nights | 304671 | [304671-aberrant-nights.json](./304671-aberrant-nights.json) |
@@ -1941,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Barbarians Chronicles | 207506 | [207506-age-of-barbarians-chronicles.json](./207506-age-of-barbarians-chronicles.json) |
 | Age of Blocks | 379516 | [379516-age-of-blocks.json](./379516-age-of-blocks.json) |
 | Age of Booty: Tactics | 61332 | [61332-age-of-booty-tactics.json](./61332-age-of-booty-tactics.json) |
+| Age of Chaos | 231979 | [231979-age-of-chaos.json](./231979-age-of-chaos.json) |
 | Age of Chaos: Legends | 193934 | [193934-age-of-chaos-legends.json](./193934-age-of-chaos-legends.json) |
 | Age of Clicks | 412397 | [412397-age-of-clicks.json](./412397-age-of-clicks.json) |
 | Age of Conan: Rise of the Godslayer | 588 | [588-age-of-conan-rise-of-the-godslayer.json](./588-age-of-conan-rise-of-the-godslayer.json) |
@@ -2498,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airship | 379527 | [379527-airship.json](./379527-airship.json) |
 | Airship 2: Kingdoms Ablaze | 396536 | [396536-airship-2-kingdoms-ablaze.json](./396536-airship-2-kingdoms-ablaze.json) |
 | Airship Defender | 270326 | [270326-airship-defender.json](./270326-airship-defender.json) |
+| Airship Knights | 231980 | [231980-airship-knights.json](./231980-airship-knights.json) |
 | Airship: Kingdoms Adrift | 231336 | [231336-airship-kingdoms-adrift.json](./231336-airship-kingdoms-adrift.json) |
 | Airships: Conquer the Skies | 35934 | [35934-airships-conquer-the-skies.json](./35934-airships-conquer-the-skies.json) |
 | Airships: Heroes and Villains | 244353 | [244353-airships-heroes-and-villains.json](./244353-airships-heroes-and-villains.json) |
@@ -4013,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Powerhaul Train Simulator | 33522 | [33522-american-powerhaul-train-simulator.json](./33522-american-powerhaul-train-simulator.json) |
 | American Railroads: Summit River & Pine Valley | 96855 | [96855-american-railroads-summit-river-and-pine-valley.json](./96855-american-railroads-summit-river-and-pine-valley.json) |
 | American Speedway | 38524 | [38524-american-speedway.json](./38524-american-speedway.json) |
+| American Truck Car Transport | 231981 | [231981-american-truck-car-transport.json](./231981-american-truck-car-transport.json) |
 | American Truck Simulator | 9667 | [9667-american-truck-simulator.json](./9667-american-truck-simulator.json) |
 | American Truck Simulator 2018 | 86722 | [86722-american-truck-simulator-2018.json](./86722-american-truck-simulator-2018.json) |
 | American Truck Simulator 2022 | 197844 | [197844-american-truck-simulator-2022.json](./197844-american-truck-simulator-2022.json) |
@@ -6263,6 +6267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archeon CD-i Quiz | 217996 | [217996-archeon-cd-i-quiz.json](./217996-archeon-cd-i-quiz.json) |
 | Archer | 235264 | [235264-archer.json](./235264-archer.json) |
 | Archer boy | 158076 | [158076-archer-boy.json](./158076-archer-boy.json) |
+| Archer Defenders | 231982 | [231982-archer-defenders.json](./231982-archer-defenders.json) |
 | Archer Guardian VR : The Chapter Zero | 30770 | [30770-archer-guardian-vr-the-chapter-zero.json](./30770-archer-guardian-vr-the-chapter-zero.json) |
 | Archer Maclean's 3D Pool | 248632 | [248632-archer-macleans-3d-pool.json](./248632-archer-macleans-3d-pool.json) |
 | Archer Maclean's 3D Pool | 49315 | [49315-archer-macleans-3d-pool.json](./49315-archer-macleans-3d-pool.json) |
@@ -6451,6 +6456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Breakout: Season 5 - Road to Gold | 318419 | [318419-arena-breakout-season-5-road-to-gold.json](./318419-arena-breakout-season-5-road-to-gold.json) |
 | Arena Breakout: Season 6 - Operation Blackout | 320181 | [320181-arena-breakout-season-6-operation-blackout.json](./320181-arena-breakout-season-6-operation-blackout.json) |
 | Arena Brutal | 197913 | [197913-arena-brutal.json](./197913-arena-brutal.json) |
+| Arena Car Racing | 231978 | [231978-arena-car-racing.json](./231978-arena-car-racing.json) |
 | Arena Champion | 224588 | [224588-arena-champion.json](./224588-arena-champion.json) |
 | Arena Chaos | 223442 | [223442-arena-chaos.json](./223442-arena-chaos.json) |
 | Arena Circus | 179619 | [179619-arena-circus.json](./179619-arena-circus.json) |
@@ -6657,6 +6663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arm Joe | 130876 | [130876-arm-joe.json](./130876-arm-joe.json) |
 | Arm of Satan | 254021 | [254021-arm-of-satan.json](./254021-arm-of-satan.json) |
 | Arm Wrestling | 38517 | [38517-arm-wrestling.json](./38517-arm-wrestling.json) |
+| Arm Wrestling Clicker | 231983 | [231983-arm-wrestling-clicker.json](./231983-arm-wrestling-clicker.json) |
 | Arma 2: Army of the Czech Republic | 15869 | [15869-arma-2-army-of-the-czech-republic.json](./15869-arma-2-army-of-the-czech-republic.json) |
 | Arma 2: British Armed Forces | 15867 | [15867-arma-2-british-armed-forces.json](./15867-arma-2-british-armed-forces.json) |
 | Arma 2: Private Military Company | 15868 | [15868-arma-2-private-military-company.json](./15868-arma-2-private-military-company.json) |
@@ -8606,6 +8613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: The Last Airbender - The Burning Earth | 210253 | [210253-avatar-the-last-airbender-the-burning-earth.json](./210253-avatar-the-last-airbender-the-burning-earth.json) |
 | Avatar: The Last Airbender - The Burning Earth | 4685 | [4685-avatar-the-last-airbender-the-burning-earth.json](./4685-avatar-the-last-airbender-the-burning-earth.json) |
 | Avatar's Demise | 263488 | [263488-avatars-demise.json](./263488-avatars-demise.json) |
+| Avatara | 231984 | [231984-avatara.json](./231984-avatara.json) |
 | Avatars Saga | 243704 | [243704-avatars-saga.json](./243704-avatars-saga.json) |
 | Avava | 207287 | [207287-avava.json](./207287-avava.json) |
 | Ave Classic | 355185 | [355185-ave-classic.json](./355185-ave-classic.json) |
