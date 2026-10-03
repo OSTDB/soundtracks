@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karpar | 214750 | [214750-karpar.json](./214750-karpar.json) |
 | Karpatia: Order of the Comet | 257983 | [257983-karpatia-order-of-the-comet.json](./257983-karpatia-order-of-the-comet.json) |
 | Karpe Diem | 316132 | [316132-karpe-diem.json](./316132-karpe-diem.json) |
+| Karryn's Prison: Gym Trainer Side Job | 254050 | [254050-karryns-prison-gym-trainer-side-job.json](./254050-karryns-prison-gym-trainer-side-job.json) |
 | Karsus | 60620 | [60620-karsus.json](./60620-karsus.json) |
 | Kart Bros | 347246 | [347246-kart-bros.json](./347246-kart-bros.json) |
 | Kart Chaser: The Boost VR | 29686 | [29686-kart-chaser-the-boost-vr.json](./29686-kart-chaser-the-boost-vr.json) |
@@ -1577,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Santa | 390233 | [390233-king-of-santa.json](./390233-king-of-santa.json) |
 | King of Scooter | 91142 | [91142-king-of-scooter.json](./91142-king-of-scooter.json) |
 | King of Seas | 136091 | [136091-king-of-seas.json](./136091-king-of-seas.json) |
+| King of Silence | 254049 | [254049-king-of-silence.json](./254049-king-of-silence.json) |
 | King of Snatchers | 306338 | [306338-king-of-snatchers.json](./306338-king-of-snatchers.json) |
 | King of Solitaire | 39196 | [39196-king-of-solitaire.json](./39196-king-of-solitaire.json) |
 | King of Space | 345515 | [345515-king-of-space.json](./345515-king-of-space.json) |
@@ -2170,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KleptoCats Cartoon Network | 243707 | [243707-kleptocats-cartoon-network.json](./243707-kleptocats-cartoon-network.json) |
 | KleptoDogs | 105792 | [105792-kleptodogs.json](./105792-kleptodogs.json) |
 | Kleptomaniacs | 348807 | [348807-kleptomaniacs.json](./348807-kleptomaniacs.json) |
+| Kletba Vlčího Moru | 254048 | [254048-kletba-vlciho-moru.json](./254048-kletba-vlciho-moru.json) |
 | Kletka | 312279 | [312279-kletka.json](./312279-kletka.json) |
 | Kleu's music | 138797 | [138797-kleus-music.json](./138797-kleus-music.json) |
 | Klifur | 207255 | [207255-klifur.json](./207255-klifur.json) |
@@ -2380,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights Vault | 300984 | [300984-knights-vault.json](./300984-knights-vault.json) |
 | Knights vs Knightesses | 175202 | [175202-knights-vs-knightesses.json](./175202-knights-vs-knightesses.json) |
 | Knights vs Nature | 214193 | [214193-knights-vs-nature.json](./214193-knights-vs-nature.json) |
+| Knights Within | 254047 | [254047-knights-within.json](./254047-knights-within.json) |
 | Knights: Spiral Islands | 66098 | [66098-knights-spiral-islands.json](./66098-knights-spiral-islands.json) |
 | Knightsquire | 78762 | [78762-knightsquire.json](./78762-knightsquire.json) |
 | Knightwatch | 376651 | [376651-knightwatch.json](./376651-knightwatch.json) |
@@ -2995,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Duel | 336930 | [336930-kung-fu-duel.json](./336930-kung-fu-duel.json) |
 | Kung Fu Fearsome Fists | 333947 | [333947-kung-fu-fearsome-fists.json](./333947-kung-fu-fearsome-fists.json) |
 | Kung Fu Fight! | 58239 | [58239-kung-fu-fight.json](./58239-kung-fu-fight.json) |
+| Kung Fu Fighting | 254058 | [254058-kung-fu-fighting.json](./254058-kung-fu-fighting.json) |
 | Kung Fu Fury | 180618 | [180618-kung-fu-fury.json](./180618-kung-fu-fury.json) |
 | Kung Fu High Impact | 20156 | [20156-kung-fu-high-impact.json](./20156-kung-fu-high-impact.json) |
 | Kung Fu House | 51201 | [51201-kung-fu-house.json](./51201-kung-fu-house.json) |
