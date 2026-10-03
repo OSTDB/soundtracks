@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occupy White Walls | 105594 | [105594-occupy-white-walls.json](./105594-occupy-white-walls.json) |
 | Ocda | 185117 | [185117-ocda.json](./185117-ocda.json) |
 | Ocean Cargo Manager | 415169 | [415169-ocean-cargo-manager.json](./415169-ocean-cargo-manager.json) |
+| Ocean Cat | 245902 | [245902-ocean-cat.json](./245902-ocean-cat.json) |
 | Ocean City Killer | 353978 | [353978-ocean-city-killer.json](./353978-ocean-city-killer.json) |
 | Ocean City Racing: Redux | 36294 | [36294-ocean-city-racing-redux.json](./36294-ocean-city-racing-redux.json) |
 | Ocean Classics Volume 1 | 109909 | [109909-ocean-classics-volume-1.json](./109909-ocean-classics-volume-1.json) |
@@ -2203,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ortheo | 163197 | [163197-ortheo.json](./163197-ortheo.json) |
 | Ortheo | 250510 | [250510-ortheo.json](./250510-ortheo.json) |
 | Ortheo Voyage | 289457 | [289457-ortheo-voyage.json](./289457-ortheo-voyage.json) |
+| Ortheo's Interdimensional Jam Session | 245992 | [245992-ortheos-interdimensional-jam-session.json](./245992-ortheos-interdimensional-jam-session.json) |
 | Ortho | 152322 | [152322-ortho.json](./152322-ortho.json) |
 | Orthodox | 138583 | [138583-orthodox.json](./138583-orthodox.json) |
 | Orthoiso | 119675 | [119675-orthoiso.json](./119675-orthoiso.json) |
