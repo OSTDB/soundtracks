@@ -785,6 +785,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Farm | 62236 | [62236-happy-farm.json](./62236-happy-farm.json) |
 | Happy Farm: Field's Puzzle | 378421 | [378421-happy-farm-fields-puzzle.json](./378421-happy-farm-fields-puzzle.json) |
 | Happy Farm: Harvest Blast | 378420 | [378420-happy-farm-harvest-blast.json](./378420-happy-farm-harvest-blast.json) |
+| Happy Feet | 243189 | [243189-happy-feet.json](./243189-happy-feet.json) |
+| Happy Feet | 243190 | [243190-happy-feet.json](./243190-happy-feet.json) |
+| Happy Feet | 243191 | [243191-happy-feet.json](./243191-happy-feet.json) |
 | Happy Feet | 3940 | [3940-happy-feet.json](./3940-happy-feet.json) |
 | Happy Feet Two | 345552 | [345552-happy-feet-two.json](./345552-happy-feet-two.json) |
 | Happy Fishing | 61559 | [61559-happy-fishing.json](./61559-happy-fishing.json) |
@@ -5406,6 +5409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed: Night Burner | 195767 | [195767-hot-wheels-unleashed-night-burner.json](./195767-hot-wheels-unleashed-night-burner.json) |
 | Hot Wheels Unleashed: Street Fighter Vega | 195770 | [195770-hot-wheels-unleashed-street-fighter-vega.json](./195770-hot-wheels-unleashed-street-fighter-vega.json) |
 | Hot Wheels Unleashed: Ultimate Stunt Edition | 169205 | [169205-hot-wheels-unleashed-ultimate-stunt-edition.json](./169205-hot-wheels-unleashed-ultimate-stunt-edition.json) |
+| Hot Wheels Velocity X | 243199 | [243199-hot-wheels-velocity-x.json](./243199-hot-wheels-velocity-x.json) |
 | Hot Wheels World Race | 243147 | [243147-hot-wheels-world-race.json](./243147-hot-wheels-world-race.json) |
 | Hot Wheels: Bash Arena | 70992 | [70992-hot-wheels-bash-arena.json](./70992-hot-wheels-bash-arena.json) |
 | Hot Wheels: Beat That! | 4916 | [4916-hot-wheels-beat-that.json](./4916-hot-wheels-beat-that.json) |
