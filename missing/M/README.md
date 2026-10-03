@@ -5030,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Mutation | 194077 | [194077-metal-mutation.json](./194077-metal-mutation.json) |
 | Metal Ninja | 222394 | [222394-metal-ninja.json](./222394-metal-ninja.json) |
 | Metal Pear | 302703 | [302703-metal-pear.json](./302703-metal-pear.json) |
+| Metal Punch | 236350 | [236350-metal-punch.json](./236350-metal-punch.json) |
 | Metal Queen Dungeon | 304601 | [304601-metal-queen-dungeon.json](./304601-metal-queen-dungeon.json) |
 | Metal Racer | 246966 | [246966-metal-racer.json](./246966-metal-racer.json) |
 | Metal Rage | 137019 | [137019-metal-rage.json](./137019-metal-rage.json) |
