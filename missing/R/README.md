@@ -2551,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnants of Flesh | 322608 | [322608-remnants-of-flesh.json](./322608-remnants-of-flesh.json) |
 | Remnants of Isolation | 28032 | [28032-remnants-of-isolation.json](./28032-remnants-of-isolation.json) |
 | Remnants of Naezith | 29520 | [29520-remnants-of-naezith.json](./29520-remnants-of-naezith.json) |
+| Remnants of Skystone | 270283 | [270283-remnants-of-skystone.json](./270283-remnants-of-skystone.json) |
 | Remnants of the Arcane | 32168 | [32168-remnants-of-the-arcane.json](./32168-remnants-of-the-arcane.json) |
 | Remnants of the Rift | 154369 | [154369-remnants-of-the-rift.json](./154369-remnants-of-the-rift.json) |
 | Remnants of Yore | 342654 | [342654-remnants-of-yore.json](./342654-remnants-of-yore.json) |
@@ -3693,6 +3694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 4: USA Tribute Pack | 159664 | [159664-ride-4-usa-tribute-pack.json](./159664-ride-4-usa-tribute-pack.json) |
 | Ride 4: Valencia Pack | 159656 | [159656-ride-4-valencia-pack.json](./159656-ride-4-valencia-pack.json) |
 | Ride 5: Born to Race Pack | 288213 | [288213-ride-5-born-to-race-pack.json](./288213-ride-5-born-to-race-pack.json) |
+| Ride 5: Day One Edition | 270323 | [270323-ride-5-day-one-edition.json](./270323-ride-5-day-one-edition.json) |
 | Ride 5: Dreamer's Garage Pack | 277830 | [277830-ride-5-dreamers-garage-pack.json](./277830-ride-5-dreamers-garage-pack.json) |
 | Ride 5: Far East Pack | 271287 | [271287-ride-5-far-east-pack.json](./271287-ride-5-far-east-pack.json) |
 | Ride 5: Free Pack 01 | 271286 | [271286-ride-5-free-pack-01.json](./271286-ride-5-free-pack-01.json) |
