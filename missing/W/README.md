@@ -3919,6 +3919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word to your Sensei | 200123 | [200123-word-to-your-sensei.json](./200123-word-to-your-sensei.json) |
 | Word Tower Puzzle | 330728 | [330728-word-tower-puzzle.json](./330728-word-tower-puzzle.json) |
 | Word Town: New Crossword Games | 101541 | [101541-word-town-new-crossword-games.json](./101541-word-town-new-crossword-games.json) |
+| Word Trace | 241537 | [241537-word-trace.json](./241537-word-trace.json) |
 | Word Tracky | 249728 | [249728-word-tracky.json](./249728-word-tracky.json) |
 | Word Trails | 305339 | [305339-word-trails.json](./305339-word-trails.json) |
 | Word Training Camp | 130929 | [130929-word-training-camp.json](./130929-word-training-camp.json) |
@@ -3980,6 +3981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordMaster | 207524 | [207524-wordmaster.json](./207524-wordmaster.json) |
 | Wordpieces | 319079 | [319079-wordpieces.json](./319079-wordpieces.json) |
 | Words | 197391 | [197391-words.json](./197391-words.json) |
+| Words & Magic | 241538 | [241538-words-and-magic.json](./241538-words-and-magic.json) |
 | Words Across America | 310565 | [310565-words-across-america.json](./310565-words-across-america.json) |
 | Words Collide | 254165 | [254165-words-collide.json](./254165-words-collide.json) |
 | Words for a bird | 134692 | [134692-words-for-a-bird.json](./134692-words-for-a-bird.json) |
