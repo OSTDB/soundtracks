@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Night Maze | 232938 | [232938-dark-night-maze.json](./232938-dark-night-maze.json) |
 | Dark Nights | 138769 | [138769-dark-nights.json](./138769-dark-nights.json) |
 | Dark Noid | 81779 | [81779-dark-noid.json](./81779-dark-noid.json) |
+| Dark Odyssey | 266426 | [266426-dark-odyssey.json](./266426-dark-odyssey.json) |
 | Dark Old Sun II: Unspace | 217005 | [217005-dark-old-sun-ii-unspace.json](./217005-dark-old-sun-ii-unspace.json) |
 | Dark Orbit | 125371 | [125371-dark-orbit.json](./125371-dark-orbit.json) |
 | Dark Parables: Ballad of Rapunzel | 57161 | [57161-dark-parables-ballad-of-rapunzel.json](./57161-dark-parables-ballad-of-rapunzel.json) |
@@ -4858,8 +4859,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Saga: Burning Sword! | 238082 | [238082-disc-saga-burning-sword.json](./238082-disc-saga-burning-sword.json) |
 | Disc Saga: Iraisha wa Monster? | 238087 | [238087-disc-saga-iraisha-wa-monster.json](./238087-disc-saga-iraisha-wa-monster.json) |
 | Disc Space | 141087 | [141087-disc-space.json](./141087-disc-space.json) |
+| Disc Station #09 | 266405 | [266405-disc-station-09.json](./266405-disc-station-09.json) |
+| Disc Station #11 | 266411 | [266411-disc-station-11.json](./266411-disc-station-11.json) |
 | Disc Station #12 | 266479 | [266479-disc-station-12.json](./266479-disc-station-12.json) |
+| Disc Station 98 #1 | 266404 | [266404-disc-station-98-1.json](./266404-disc-station-98-1.json) |
 | Disc Station 98 #2 | 336602 | [336602-disc-station-98-2.json](./336602-disc-station-98-2.json) |
+| Disc Station MSX #01 | 266403 | [266403-disc-station-msx-01.json](./266403-disc-station-msx-01.json) |
+| Disc Station MSX #02 | 266406 | [266406-disc-station-msx-02.json](./266406-disc-station-msx-02.json) |
+| Disc Station MSX #03 | 266408 | [266408-disc-station-msx-03.json](./266408-disc-station-msx-03.json) |
+| Disc Station MSX #06 | 266410 | [266410-disc-station-msx-06.json](./266410-disc-station-msx-06.json) |
+| Disc Station MSX #08 | 266412 | [266412-disc-station-msx-08.json](./266412-disc-station-msx-08.json) |
 | Disc Station MSX #09 | 266482 | [266482-disc-station-msx-09.json](./266482-disc-station-msx-09.json) |
 | Disc Station MSX #11 | 266489 | [266489-disc-station-msx-11.json](./266489-disc-station-msx-11.json) |
 | Discard All Hope | 350614 | [350614-discard-all-hope.json](./350614-discard-all-hope.json) |
@@ -7727,6 +7736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadline: Net Quota | 345686 | [345686-dreadline-net-quota.json](./345686-dreadline-net-quota.json) |
 | DreadMoon | 272379 | [272379-dreadmoon.json](./272379-dreadmoon.json) |
 | Dreadnaughts | 55178 | [55178-dreadnaughts.json](./55178-dreadnaughts.json) |
+| Dreadnought | 266432 | [266432-dreadnought.json](./266432-dreadnought.json) |
 | Dreadnought Sol | 75022 | [75022-dreadnought-sol.json](./75022-dreadnought-sol.json) |
 | Dreadnought Tartarus | 383481 | [383481-dreadnought-tartarus.json](./383481-dreadnought-tartarus.json) |
 | Dreadnut | 390805 | [390805-dreadnut.json](./390805-dreadnut.json) |
@@ -7985,6 +7995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of Witchtown | 67282 | [67282-dreams-of-witchtown.json](./67282-dreams-of-witchtown.json) |
 | Dreams on a Pillow | 342893 | [342893-dreams-on-a-pillow.json](./342893-dreams-on-a-pillow.json) |
 | Dreams: Dragons, Dungeons & Templates | 344458 | [344458-dreams-dragons-dungeons-and-templates.json](./344458-dreams-dragons-dungeons-and-templates.json) |
+| Dreams: Unlimited links | 266422 | [266422-dreams-unlimited-links.json](./266422-dreams-unlimited-links.json) |
 | Dreams: VR | 344447 | [344447-dreams-vr.json](./344447-dreams-vr.json) |
 | Dreamscape Abyss | 258732 | [258732-dreamscape-abyss.json](./258732-dreamscape-abyss.json) |
 | Dreamscape Highschool | 337452 | [337452-dreamscape-highschool.json](./337452-dreamscape-highschool.json) |
