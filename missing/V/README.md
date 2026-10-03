@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanilla Click | 157177 | [157177-vanilla-click.json](./157177-vanilla-click.json) |
 | Vanilla Inspector | 154019 | [154019-vanilla-inspector.json](./154019-vanilla-inspector.json) |
 | Vanilla Sky | 274224 | [274224-vanilla-sky.json](./274224-vanilla-sky.json) |
+| Vanilla Wafers | 275215 | [275215-vanilla-wafers.json](./275215-vanilla-wafers.json) |
 | Vanilla: Made to Order | 221718 | [221718-vanilla-made-to-order.json](./221718-vanilla-made-to-order.json) |
 | VanillaBeast: Ace in the Hole | 148992 | [148992-vanillabeast-ace-in-the-hole.json](./148992-vanillabeast-ace-in-the-hole.json) |
 | VanillaSugar | 356695 | [356695-vanillasugar.json](./356695-vanillasugar.json) |
@@ -1004,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Pinball | 46877 | [46877-video-pinball.json](./46877-video-pinball.json) |
 | Video Poker | 246382 | [246382-video-poker.json](./246382-video-poker.json) |
 | Video Poker | 272552 | [272552-video-poker.json](./272552-video-poker.json) |
+| Video Poker | 275222 | [275222-video-poker.json](./275222-video-poker.json) |
 | Video Poker Collection | 147886 | [147886-video-poker-collection.json](./147886-video-poker-collection.json) |
 | Video Poker Simulator | 296012 | [296012-video-poker-simulator.json](./296012-video-poker-simulator.json) |
 | Video Realms | 156553 | [156553-video-realms.json](./156553-video-realms.json) |
