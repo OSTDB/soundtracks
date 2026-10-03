@@ -10471,6 +10471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Legends | 234330 | [234330-speed-legends.json](./234330-speed-legends.json) |
 | Speed Limit | 117106 | [117106-speed-limit.json](./117106-speed-limit.json) |
 | Speed Liner | 379878 | [379878-speed-liner.json](./379878-speed-liner.json) |
+| Speed Master | 274136 | [274136-speed-master.json](./274136-speed-master.json) |
 | Speed Masters ASD | 130971 | [130971-speed-masters-asd.json](./130971-speed-masters-asd.json) |
 | Speed Mazing | 164985 | [164985-speed-mazing.json](./164985-speed-mazing.json) |
 | Speed NFL | 289009 | [289009-speed-nfl.json](./289009-speed-nfl.json) |
