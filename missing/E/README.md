@@ -2164,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eon Altar: Episode 2 - Whispers in the Catacombs | 24875 | [24875-eon-altar-episode-2-whispers-in-the-catacombs.json](./24875-eon-altar-episode-2-whispers-in-the-catacombs.json) |
 | Eon Altar: Episode I - The Battle for Tarnum | 24874 | [24874-eon-altar-episode-i-the-battle-for-tarnum.json](./24874-eon-altar-episode-i-the-battle-for-tarnum.json) |
 | Eon Fleet | 96885 | [96885-eon-fleet.json](./96885-eon-fleet.json) |
+| Eon of the Green | 233577 | [233577-eon-of-the-green.json](./233577-eon-of-the-green.json) |
 | Eon of the Green: Area Crescent | 279138 | [279138-eon-of-the-green-area-crescent.json](./279138-eon-of-the-green-area-crescent.json) |
 | Eon Trooper | 253962 | [253962-eon-trooper.json](./253962-eon-trooper.json) |
 | Eona | 355025 | [355025-eona.json](./355025-eona.json) |
@@ -2503,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Chase Monster | 219254 | [219254-escape-chase-monster.json](./219254-escape-chase-monster.json) |
 | Escape Chronicles | 241384 | [241384-escape-chronicles.json](./241384-escape-chronicles.json) |
 | Escape Condition | 219255 | [219255-escape-condition.json](./219255-escape-condition.json) |
+| Escape Covid Camp | 233568 | [233568-escape-covid-camp.json](./233568-escape-covid-camp.json) |
 | Escape Darkness | 290550 | [290550-escape-darkness.json](./290550-escape-darkness.json) |
 | Escape Dash Journey | 347876 | [347876-escape-dash-journey.json](./347876-escape-dash-journey.json) |
 | Escape Depths of Immanis | 322989 | [322989-escape-depths-of-immanis.json](./322989-escape-depths-of-immanis.json) |
