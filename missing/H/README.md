@@ -3857,6 +3857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Hou: Hinamizawa Teiryuujo | 263492 | [263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json](./263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json) |
 | Higurashi no Naku Koro ni Hou: Kamikashimashi-hen | 263493 | [263493-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json](./263493-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json) |
 | Higurashi no Naku Koro ni Hou: Outbreak | 263490 | [263490-higurashi-no-naku-koro-ni-hou-outbreak.json](./263490-higurashi-no-naku-koro-ni-hou-outbreak.json) |
+| Higurashi no Naku Koro ni Hou+: Mehagashi-hen | 263660 | [263660-higurashi-no-naku-koro-ni-hou-mehagashi-hen.json](./263660-higurashi-no-naku-koro-ni-hou-mehagashi-hen.json) |
 | Higurashi no Naku Koro ni Jan | 229816 | [229816-higurashi-no-naku-koro-ni-jan.json](./229816-higurashi-no-naku-koro-ni-jan.json) |
 | Higurashi no Naku Koro ni Jan: Gouka Genteiban na no desu yo Box | 352787 | [352787-higurashi-no-naku-koro-ni-jan-gouka-genteiban-na-no-desu-yo-box.json](./352787-higurashi-no-naku-koro-ni-jan-gouka-genteiban-na-no-desu-yo-box.json) |
 | Higurashi no Naku Koro ni Kizuna Volume II: Sou | 111749 | [111749-higurashi-no-naku-koro-ni-kizuna-volume-ii-sou.json](./111749-higurashi-no-naku-koro-ni-kizuna-volume-ii-sou.json) |
@@ -3889,7 +3890,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Matsuri: Final Chapter - Miotsukushi-hen | 262697 | [262697-higurashi-no-naku-koro-ni-matsuri-final-chapter-miotsukushi-hen.json](./262697-higurashi-no-naku-koro-ni-matsuri-final-chapter-miotsukushi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Kakera Asobi | 262698 | [262698-higurashi-no-naku-koro-ni-matsuri-kakera-asobi.json](./262698-higurashi-no-naku-koro-ni-matsuri-kakera-asobi.json) |
 | Higurashi no Naku Koro ni Sui | 60788 | [60788-higurashi-no-naku-koro-ni-sui.json](./60788-higurashi-no-naku-koro-ni-sui.json) |
+| Higurashi no Naku Koro ni: Himatsubushi-hen | 263696 | [263696-higurashi-no-naku-koro-ni-himatsubushi-hen.json](./263696-higurashi-no-naku-koro-ni-himatsubushi-hen.json) |
 | Higurashi no Naku Koro ni: Kuradashi-hen | 321476 | [321476-higurashi-no-naku-koro-ni-kuradashi-hen.json](./321476-higurashi-no-naku-koro-ni-kuradashi-hen.json) |
+| Higurashi no Naku Koro ni: Meakashi-hen | 263698 | [263698-higurashi-no-naku-koro-ni-meakashi-hen.json](./263698-higurashi-no-naku-koro-ni-meakashi-hen.json) |
+| Higurashi no Naku Koro ni: Onikakushi-hen | 263686 | [263686-higurashi-no-naku-koro-ni-onikakushi-hen.json](./263686-higurashi-no-naku-koro-ni-onikakushi-hen.json) |
+| Higurashi no Naku Koro ni: Tatarigoroshi-hen | 263692 | [263692-higurashi-no-naku-koro-ni-tatarigoroshi-hen.json](./263692-higurashi-no-naku-koro-ni-tatarigoroshi-hen.json) |
+| Higurashi no Naku Koro ni: Tsumihoroboshi-hen | 263699 | [263699-higurashi-no-naku-koro-ni-tsumihoroboshi-hen.json](./263699-higurashi-no-naku-koro-ni-tsumihoroboshi-hen.json) |
+| Higurashi no Naku Koro ni: Watanagashi-hen | 263687 | [263687-higurashi-no-naku-koro-ni-watanagashi-hen.json](./263687-higurashi-no-naku-koro-ni-watanagashi-hen.json) |
 | Higurashi When They Cry | 9700 | [9700-higurashi-when-they-cry.json](./9700-higurashi-when-they-cry.json) |
 | Higurashi When They Cry Hou - Console Arcs | 347709 | [347709-higurashi-when-they-cry-hou-console-arcs.json](./347709-higurashi-when-they-cry-hou-console-arcs.json) |
 | Higurashi When They Cry Hou: Ch.2 Watanagashi | 34268 | [34268-higurashi-when-they-cry-hou-ch-2-watanagashi.json](./34268-higurashi-when-they-cry-hou-ch-2-watanagashi.json) |
@@ -5104,6 +5111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrors Above | 391185 | [391185-horrors-above.json](./391185-horrors-above.json) |
 | Horrors Anonymous | 179603 | [179603-horrors-anonymous.json](./179603-horrors-anonymous.json) |
 | Horrors Glade | 333366 | [333366-horrors-glade.json](./333366-horrors-glade.json) |
+| Horrors of Helmsfirth | 263701 | [263701-horrors-of-helmsfirth.json](./263701-horrors-of-helmsfirth.json) |
 | HorrorVale | 120814 | [120814-horrorvale.json](./120814-horrorvale.json) |
 | Horse & Horse | 401802 | [401802-horse-and-horse.json](./401802-horse-and-horse.json) |
 | Horse 2 | 339396 | [339396-horse-2.json](./339396-horse-2.json) |
