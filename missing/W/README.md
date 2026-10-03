@@ -3015,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingspan Oceania Deluxe Bundle | 331509 | [331509-wingspan-oceania-deluxe-bundle.json](./331509-wingspan-oceania-deluxe-bundle.json) |
 | Wingspan: The Board Game | 174266 | [174266-wingspan-the-board-game.json](./174266-wingspan-the-board-game.json) |
 | Wingspan: Woodland Wonders Decorative Pack | 310400 | [310400-wingspan-woodland-wonders-decorative-pack.json](./310400-wingspan-woodland-wonders-decorative-pack.json) |
+| WingSuit Wiley 2.0 | 251735 | [251735-wingsuit-wiley-2-0.json](./251735-wingsuit-wiley-2-0.json) |
 | Wingsuit: Gudvangen | 123024 | [123024-wingsuit-gudvangen.json](./123024-wingsuit-gudvangen.json) |
 | WingWhiz | 350454 | [350454-wingwhiz.json](./350454-wingwhiz.json) |
 | Wingy Pop | 55070 | [55070-wingy-pop.json](./55070-wingy-pop.json) |
@@ -3283,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchblood | 309021 | [309021-witchblood.json](./309021-witchblood.json) |
 | Witchblood | 413640 | [413640-witchblood.json](./413640-witchblood.json) |
 | Witchcraft | 210673 | [210673-witchcraft.json](./210673-witchcraft.json) |
+| Witchcraft Survivors | 251756 | [251756-witchcraft-survivors.json](./251756-witchcraft-survivors.json) |
 | WitchCraft TD | 220718 | [220718-witchcraft-td.json](./220718-witchcraft-td.json) |
 | Witchcraft U | 155652 | [155652-witchcraft-u.json](./155652-witchcraft-u.json) |
 | Witchcraft: Pandoras Box | 127248 | [127248-witchcraft-pandoras-box.json](./127248-witchcraft-pandoras-box.json) |
