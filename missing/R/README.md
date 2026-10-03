@@ -5060,10 +5060,28 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocksmith 2014 Edition: Remastered – blink-182: Song Pack II | 225026 | [225026-rocksmith-2014-edition-remastered-blink-182-song-pack-ii.json](./225026-rocksmith-2014-edition-remastered-blink-182-song-pack-ii.json) |
 | Rocksmith 2014 Edition: Remastered – Johnny Cash: Song Pack I-II | 225025 | [225025-rocksmith-2014-edition-remastered-johnny-cash-song-pack-i-ii.json](./225025-rocksmith-2014-edition-remastered-johnny-cash-song-pack-i-ii.json) |
 | Rocksmith 2014 Edition: Remastered – Trans-Siberian Orchestra: Song Pack | 225024 | [225024-rocksmith-2014-edition-remastered-trans-siberian-orchestra-song-pack.json](./225024-rocksmith-2014-edition-remastered-trans-siberian-orchestra-song-pack.json) |
+| Rocksmith 2014: Billy Talent Song Pack | 226652 | [226652-rocksmith-2014-billy-talent-song-pack.json](./226652-rocksmith-2014-billy-talent-song-pack.json) |
+| Rocksmith 2014: Blues Song Pack | 226653 | [226653-rocksmith-2014-blues-song-pack.json](./226653-rocksmith-2014-blues-song-pack.json) |
+| Rocksmith 2014: Bon Jovi Song Pack | 226654 | [226654-rocksmith-2014-bon-jovi-song-pack.json](./226654-rocksmith-2014-bon-jovi-song-pack.json) |
+| Rocksmith 2014: Bullet For My Valentine Song Pack | 226655 | [226655-rocksmith-2014-bullet-for-my-valentine-song-pack.json](./226655-rocksmith-2014-bullet-for-my-valentine-song-pack.json) |
+| Rocksmith 2014: Cake Song Pack | 226656 | [226656-rocksmith-2014-cake-song-pack.json](./226656-rocksmith-2014-cake-song-pack.json) |
+| Rocksmith 2014: Collective Soul Song Pack | 226657 | [226657-rocksmith-2014-collective-soul-song-pack.json](./226657-rocksmith-2014-collective-soul-song-pack.json) |
+| Rocksmith 2014: Creed Song Pack | 226658 | [226658-rocksmith-2014-creed-song-pack.json](./226658-rocksmith-2014-creed-song-pack.json) |
 | Rocksmith 2014: R.E.M. Song Pack | 226937 | [226937-rocksmith-2014-r-e-m-song-pack.json](./226937-rocksmith-2014-r-e-m-song-pack.json) |
 | Rocksmith 2014: Regal Singles Song Pack | 226938 | [226938-rocksmith-2014-regal-singles-song-pack.json](./226938-rocksmith-2014-regal-singles-song-pack.json) |
 | Rocksmith 2014: Rise Against Song Pack | 226936 | [226936-rocksmith-2014-rise-against-song-pack.json](./226936-rocksmith-2014-rise-against-song-pack.json) |
 | Rocksmith 2014: Rise Against Song Pack II | 226935 | [226935-rocksmith-2014-rise-against-song-pack-ii.json](./226935-rocksmith-2014-rise-against-song-pack-ii.json) |
+| Rocksmith 2014: Rockabilly Song Pack | 226661 | [226661-rocksmith-2014-rockabilly-song-pack.json](./226661-rocksmith-2014-rockabilly-song-pack.json) |
+| Rocksmith 2014: Rush Song Pack II | 226662 | [226662-rocksmith-2014-rush-song-pack-ii.json](./226662-rocksmith-2014-rush-song-pack-ii.json) |
+| Rocksmith 2014: Shamrock Song Pack | 226663 | [226663-rocksmith-2014-shamrock-song-pack.json](./226663-rocksmith-2014-shamrock-song-pack.json) |
+| Rocksmith 2014: Shinedown Song Pack | 226664 | [226664-rocksmith-2014-shinedown-song-pack.json](./226664-rocksmith-2014-shinedown-song-pack.json) |
+| Rocksmith 2014: Slayer Song Pack | 226665 | [226665-rocksmith-2014-slayer-song-pack.json](./226665-rocksmith-2014-slayer-song-pack.json) |
+| Rocksmith 2014: Spinal Tap Song Pack | 226666 | [226666-rocksmith-2014-spinal-tap-song-pack.json](./226666-rocksmith-2014-spinal-tap-song-pack.json) |
+| Rocksmith 2014: Stone Temple Pilots Song Pack | 226667 | [226667-rocksmith-2014-stone-temple-pilots-song-pack.json](./226667-rocksmith-2014-stone-temple-pilots-song-pack.json) |
+| Rocksmith 2014: Sublime Song Pack | 226669 | [226669-rocksmith-2014-sublime-song-pack.json](./226669-rocksmith-2014-sublime-song-pack.json) |
+| Rocksmith 2014: Sum 41 Song Pack | 226670 | [226670-rocksmith-2014-sum-41-song-pack.json](./226670-rocksmith-2014-sum-41-song-pack.json) |
+| Rocksmith 2014: The Black Keys Song Pack II | 226659 | [226659-rocksmith-2014-the-black-keys-song-pack-ii.json](./226659-rocksmith-2014-the-black-keys-song-pack-ii.json) |
+| Rocksmith 2014: The Cars Song Pack | 226660 | [226660-rocksmith-2014-the-cars-song-pack.json](./226660-rocksmith-2014-the-cars-song-pack.json) |
 | Rocksmith: Fall Out Boy Song-Pack | 226711 | [226711-rocksmith-fall-out-boy-song-pack.json](./226711-rocksmith-fall-out-boy-song-pack.json) |
 | Rocksmith: Foo Fighters - Song Pack | 226934 | [226934-rocksmith-foo-fighters-song-pack.json](./226934-rocksmith-foo-fighters-song-pack.json) |
 | Rocksmith: Queen 5-Song Pack | 226933 | [226933-rocksmith-queen-5-song-pack.json](./226933-rocksmith-queen-5-song-pack.json) |
