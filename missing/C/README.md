@@ -2325,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Chaos | 250612 | [250612-cave-chaos.json](./250612-cave-chaos.json) |
 | Cave Command | 292609 | [292609-cave-command.json](./292609-cave-command.json) |
 | Cave Crave: Tham Luang Cave VR | 406192 | [406192-cave-crave-tham-luang-cave-vr.json](./406192-cave-crave-tham-luang-cave-vr.json) |
+| Cave Crawler | 247083 | [247083-cave-crawler.json](./247083-cave-crawler.json) |
 | Cave Crawler 2 | 318216 | [318216-cave-crawler-2.json](./318216-cave-crawler-2.json) |
 | Cave Crawlers | 223392 | [223392-cave-crawlers.json](./223392-cave-crawlers.json) |
 | Cave Crusade | 343244 | [343244-cave-crusade.json](./343244-cave-crusade.json) |
@@ -3270,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess | 128646 | [128646-chess.json](./128646-chess.json) |
 | Chess | 131469 | [131469-chess.json](./131469-chess.json) |
 | Chess | 237288 | [237288-chess.json](./237288-chess.json) |
+| Chess | 247071 | [247071-chess.json](./247071-chess.json) |
 | Chess | 25126 | [25126-chess.json](./25126-chess.json) |
 | Chess | 277419 | [277419-chess.json](./277419-chess.json) |
 | Chess | 9165 | [9165-chess.json](./9165-chess.json) |
@@ -9550,6 +9552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeRace | 114953 | [114953-cuberace.json](./114953-cuberace.json) |
 | CubeRun | 89268 | [89268-cuberun.json](./89268-cuberun.json) |
 | Cuberuns | 210631 | [210631-cuberuns.json](./210631-cuberuns.json) |
+| Cubes | 247072 | [247072-cubes.json](./247072-cubes.json) |
 | Cubes and More Cubes | 180221 | [180221-cubes-and-more-cubes.json](./180221-cubes-and-more-cubes.json) |
 | Cubes Crush Legend | 174819 | [174819-cubes-crush-legend.json](./174819-cubes-crush-legend.json) |
 | Cubes: Procedural Wonders | 240339 | [240339-cubes-procedural-wonders.json](./240339-cubes-procedural-wonders.json) |
