@@ -1536,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Online Artillery 2 | 58748 | [58748-online-artillery-2.json](./58748-online-artillery-2.json) |
 | Online Chess Kingdoms | 93388 | [93388-online-chess-kingdoms.json](./93388-online-chess-kingdoms.json) |
 | Online Circle Pong | 75000 | [75000-online-circle-pong.json](./75000-online-circle-pong.json) |
+| Online FNAF | 271388 | [271388-online-fnaf.json](./271388-online-fnaf.json) |
 | Online Mouse Maze Game | 366344 | [366344-online-mouse-maze-game.json](./366344-online-mouse-maze-game.json) |
 | Online Open World RPG | 234078 | [234078-online-open-world-rpg.json](./234078-online-open-world-rpg.json) |
 | Online Retro Tennis | 156702 | [156702-online-retro-tennis.json](./156702-online-retro-tennis.json) |
