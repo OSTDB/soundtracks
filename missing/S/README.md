@@ -2675,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Semper Fidelis: Marine Corps | 73830 | [73830-semper-fidelis-marine-corps.json](./73830-semper-fidelis-marine-corps.json) |
 | Semperfly | 372595 | [372595-semperfly.json](./372595-semperfly.json) |
 | Sempiternal | 272375 | [272375-sempiternal.json](./272375-sempiternal.json) |
+| Sempre | 269757 | [269757-sempre.json](./269757-sempre.json) |
 | Semu | 265123 | [265123-semu.json](./265123-semu.json) |
 | Sen no Hana, Sakihokoru Shiawase: La Vie en Bouquet Coloré | 395122 | [395122-sen-no-hana-sakihokoru-shiawase-la-vie-en-bouquet-colore.json](./395122-sen-no-hana-sakihokoru-shiawase-la-vie-en-bouquet-colore.json) |
 | Sen no Hatou, Tsukisome no Kouki: Hana Akari | 374662 | [374662-sen-no-hatou-tsukisome-no-kouki-hana-akari.json](./374662-sen-no-hatou-tsukisome-no-kouki-hana-akari.json) |
@@ -10710,6 +10711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellwrath | 28149 | [28149-spellwrath.json](./28149-spellwrath.json) |
 | Spellz: Mastery or Death | 278680 | [278680-spellz-mastery-or-death.json](./278680-spellz-mastery-or-death.json) |
 | Spelp | 232711 | [232711-spelp.json](./232711-spelp.json) |
+| SpeluNikki | 269738 | [269738-spelunikki.json](./269738-spelunikki.json) |
 | Spelunker Black | 81451 | [81451-spelunker-black.json](./81451-spelunker-black.json) |
 | Spelunker HD | 45281 | [45281-spelunker-hd.json](./45281-spelunker-hd.json) |
 | Spelunker HD Deluxe: Limited Edition | 167149 | [167149-spelunker-hd-deluxe-limited-edition.json](./167149-spelunker-hd-deluxe-limited-edition.json) |
@@ -10882,6 +10884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spidey & His Amazing Friends | 230277 | [230277-spidey-and-his-amazing-friends.json](./230277-spidey-and-his-amazing-friends.json) |
 | Spidle Tridle | 101730 | [101730-spidle-tridle.json](./101730-spidle-tridle.json) |
 | Spidle Tridle | 334166 | [334166-spidle-tridle.json](./334166-spidle-tridle.json) |
+| Spidy | 269765 | [269765-spidy.json](./269765-spidy.json) |
 | Spielbahn | 266311 | [266311-spielbahn.json](./266311-spielbahn.json) |
 | Spies & Soldiers | 132796 | [132796-spies-and-soldiers.json](./132796-spies-and-soldiers.json) |
 | Spies in the Night | 256770 | [256770-spies-in-the-night.json](./256770-spies-in-the-night.json) |
@@ -18197,6 +18200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Systematic Immunity | 34648 | [34648-systematic-immunity.json](./34648-systematic-immunity.json) |
 | SystemCrash92 | 249505 | [249505-systemcrash92.json](./249505-systemcrash92.json) |
 | Systemic War | 365202 | [365202-systemic-war.json](./365202-systemic-war.json) |
+| Systemic\\Rem | 269736 | [269736-systemic-rem.json](./269736-systemic-rem.json) |
 | Syunsoku Mezase! Zenkoku Saikyou Runner | 222512 | [222512-syunsoku-mezase-zenkoku-saikyou-runner.json](./222512-syunsoku-mezase-zenkoku-saikyou-runner.json) |
 | Syvalion | 40249 | [40249-syvalion.json](./40249-syvalion.json) |
 | Syvnta: Sovereignty | 343952 | [343952-syvnta-sovereignty.json](./343952-syvnta-sovereignty.json) |
