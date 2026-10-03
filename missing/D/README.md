@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danball Senki Boost | 146768 | [146768-danball-senki-boost.json](./146768-danball-senki-boost.json) |
 | Danball Senki W Chou Custom | 59406 | [59406-danball-senki-w-chou-custom.json](./59406-danball-senki-w-chou-custom.json) |
 | Danball Senki Wars | 59404 | [59404-danball-senki-wars.json](./59404-danball-senki-wars.json) |
+| Dance & Learn | 230331 | [230331-dance-and-learn.json](./230331-dance-and-learn.json) |
 | Dance 86.4 Funky Radio Station | 314336 | [314336-dance-86-4-funky-radio-station.json](./314336-dance-86-4-funky-radio-station.json) |
 | Dance Aerobics | 48176 | [48176-dance-aerobics.json](./48176-dance-aerobics.json) |
 | Dance Around | 210279 | [210279-dance-around.json](./210279-dance-around.json) |
@@ -4011,10 +4012,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DevilDark: The Fallen Kingdom | 343817 | [343817-devildark-the-fallen-kingdom.json](./343817-devildark-the-fallen-kingdom.json) |
 | Deviled | 262290 | [262290-deviled.json](./262290-deviled.json) |
 | Deviled Dice | 397711 | [397711-deviled-dice.json](./397711-deviled-dice.json) |
+| Devilish Candy House | 230324 | [230324-devilish-candy-house.json](./230324-devilish-candy-house.json) |
+| Devilish Cat | 230325 | [230325-devilish-cat.json](./230325-devilish-cat.json) |
 | Devilish Charms | 227946 | [227946-devilish-charms.json](./227946-devilish-charms.json) |
+| Devilish Cooking | 230321 | [230321-devilish-cooking.json](./230321-devilish-cooking.json) |
 | Devilish Girl | 261885 | [261885-devilish-girl.json](./261885-devilish-girl.json) |
 | Devilish League | 285017 | [285017-devilish-league.json](./285017-devilish-league.json) |
 | Devilish Mahjong Tower | 45537 | [45537-devilish-mahjong-tower.json](./45537-devilish-mahjong-tower.json) |
+| Devilish Pet Salon | 230317 | [230317-devilish-pet-salon.json](./230317-devilish-pet-salon.json) |
+| Devilish Stylist | 230318 | [230318-devilish-stylist.json](./230318-devilish-stylist.json) |
 | Devilish: The Next Possession | 46222 | [46222-devilish-the-next-possession.json](./46222-devilish-the-next-possession.json) |
 | Devilition | 318597 | [318597-devilition.json](./318597-devilition.json) |
 | Devilman | 43896 | [43896-devilman.json](./43896-devilman.json) |
@@ -5142,6 +5148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Fairies | 131394 | [131394-disney-fairies.json](./131394-disney-fairies.json) |
 | Disney Fairies: Tinker Bell | 78718 | [78718-disney-fairies-tinker-bell.json](./78718-disney-fairies-tinker-bell.json) |
 | Disney Fairies: Tinker Bell and the Great Fairy Rescue | 230553 | [230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json](./230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json) |
+| Disney Fairies: Tinker Bell and the Lost Treasure | 230409 | [230409-disney-fairies-tinker-bell-and-the-lost-treasure.json](./230409-disney-fairies-tinker-bell-and-the-lost-treasure.json) |
 | Disney Fairies: Tinker Bell's Adventure | 50099 | [50099-disney-fairies-tinker-bells-adventure.json](./50099-disney-fairies-tinker-bells-adventure.json) |
 | Disney Friends | 220083 | [220083-disney-friends.json](./220083-disney-friends.json) |
 | Disney Frozen Adventures | 138679 | [138679-disney-frozen-adventures.json](./138679-disney-frozen-adventures.json) |
@@ -5165,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Piglet's Special Day | 220130 | [220130-disney-piglets-special-day.json](./220130-disney-piglets-special-day.json) |
 | Disney Pop Town | 386962 | [386962-disney-pop-town.json](./386962-disney-pop-town.json) |
 | Disney Princess | 220084 | [220084-disney-princess.json](./220084-disney-princess.json) |
+| Disney Princess | 230337 | [230337-disney-princess.json](./230337-disney-princess.json) |
 | Disney Princess | 230556 | [230556-disney-princess.json](./230556-disney-princess.json) |
 | Disney Princess Palace Pets | 334251 | [334251-disney-princess-palace-pets.json](./334251-disney-princess-palace-pets.json) |
 | Disney Princess: Cinderella - Once Upon a Midnight | 221676 | [221676-disney-princess-cinderella-once-upon-a-midnight.json](./221676-disney-princess-cinderella-once-upon-a-midnight.json) |
@@ -6693,6 +6701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dopusk 31 | 222315 | [222315-dopusk-31.json](./222315-dopusk-31.json) |
 | Dor | 84278 | [84278-dor.json](./84278-dor.json) |
 | Dora & Kai-Lan's Pet Shelter | 97372 | [97372-dora-and-kai-lans-pet-shelter.json](./97372-dora-and-kai-lans-pet-shelter.json) |
+| Dora and Friends | 230330 | [230330-dora-and-friends.json](./230330-dora-and-friends.json) |
 | Dora and the Three Little Pigs | 231378 | [231378-dora-and-the-three-little-pigs.json](./231378-dora-and-the-three-little-pigs.json) |
 | Dora Is Dead | 341089 | [341089-dora-is-dead.json](./341089-dora-is-dead.json) |
 | Dora Kazu: Nobita no Suuji Daibouken | 142282 | [142282-dora-kazu-nobita-no-suuji-daibouken.json](./142282-dora-kazu-nobita-no-suuji-daibouken.json) |
