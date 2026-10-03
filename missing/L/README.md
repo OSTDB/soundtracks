@@ -4776,6 +4776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luckcatchers2 | 285483 | [285483-luckcatchers2.json](./285483-luckcatchers2.json) |
 | Luckie Ball | 245273 | [245273-luckie-ball.json](./245273-luckie-ball.json) |
 | Luckier | 185614 | [185614-luckier.json](./185614-luckier.json) |
+| Luckily, My Arm is a Shotgun | 233578 | [233578-luckily-my-arm-is-a-shotgun.json](./233578-luckily-my-arm-is-a-shotgun.json) |
 | Luckitown | 187376 | [187376-luckitown.json](./187376-luckitown.json) |
 | LuckLand | 260423 | [260423-luckland.json](./260423-luckland.json) |
 | Luckless Seven | 9758 | [9758-luckless-seven.json](./9758-luckless-seven.json) |
