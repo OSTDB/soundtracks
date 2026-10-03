@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura-iro Tetra Prism | 325451 | [325451-sakura-iro-tetra-prism.json](./325451-sakura-iro-tetra-prism.json) |
 | Sakura, Moyu.: As the Night's, Reincarnation | 137106 | [137106-sakura-moyu-as-the-nights-reincarnation.json](./137106-sakura-moyu-as-the-nights-reincarnation.json) |
 | Sakuraba Ema's Intertwining Threshold | 418771 | [418771-sakuraba-emas-intertwining-threshold.json](./418771-sakuraba-emas-intertwining-threshold.json) |
+| Sakurairo Prism | 234149 | [234149-sakurairo-prism.json](./234149-sakurairo-prism.json) |
 | Sakuya Izayoi Gives You Advice and Dabs | 129389 | [129389-sakuya-izayoi-gives-you-advice-and-dabs.json](./129389-sakuya-izayoi-gives-you-advice-and-dabs.json) |
 | Sal. | 266231 | [266231-sal.json](./266231-sal.json) |
 | Sala de Juegos 3D | 414507 | [414507-sala-de-juegos-3d.json](./414507-sala-de-juegos-3d.json) |
@@ -3271,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SEX VR Horny Nurses | 147875 | [147875-sex-vr-horny-nurses.json](./147875-sex-vr-horny-nurses.json) |
 | Sex With Friends | 367048 | [367048-sex-with-friends.json](./367048-sex-with-friends.json) |
 | Sex with Maids | 248669 | [248669-sex-with-maids.json](./248669-sex-with-maids.json) |
+| Sex with Teachers | 234110 | [234110-sex-with-teachers.json](./234110-sex-with-teachers.json) |
 | Sex with the Devil | 165543 | [165543-sex-with-the-devil.json](./165543-sex-with-the-devil.json) |
 | Sex With Toys | 267686 | [267686-sex-with-toys.json](./267686-sex-with-toys.json) |
 | Sex x Hex | 243381 | [243381-sex-x-hex.json](./243381-sex-x-hex.json) |
@@ -3752,6 +3754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Karate | 47216 | [47216-shanghai-karate.json](./47216-shanghai-karate.json) |
 | Shanghai Kid | 38571 | [38571-shanghai-kid.json](./38571-shanghai-kid.json) |
 | Shanghai Mahjong | 205088 | [205088-shanghai-mahjong.json](./205088-shanghai-mahjong.json) |
+| Shanghai Summer | 234139 | [234139-shanghai-summer.json](./234139-shanghai-summer.json) |
 | Shanghai Wii | 84853 | [84853-shanghai-wii.json](./84853-shanghai-wii.json) |
 | Shanghai: Dynasty | 343909 | [343909-shanghai-dynasty.json](./343909-shanghai-dynasty.json) |
 | Shanghai: Dynasty | 343910 | [343910-shanghai-dynasty.json](./343910-shanghai-dynasty.json) |
@@ -5183,6 +5186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sift Heads 0: The Starting Point | 357302 | [357302-sift-heads-0-the-starting-point.json](./357302-sift-heads-0-the-starting-point.json) |
 | Sift Heads 1: Remasterized | 359423 | [359423-sift-heads-1-remasterized.json](./359423-sift-heads-1-remasterized.json) |
 | Sift Heads 2 | 283247 | [283247-sift-heads-2.json](./283247-sift-heads-2.json) |
+| Sift Heads 3 | 234134 | [234134-sift-heads-3.json](./234134-sift-heads-3.json) |
 | Sift Heads 5 | 283246 | [283246-sift-heads-5.json](./283246-sift-heads-5.json) |
 | Sift Heads Reborn | 191898 | [191898-sift-heads-reborn.json](./191898-sift-heads-reborn.json) |
 | Sift Heads World: Act 1 - Deadly Newcomer | 191902 | [191902-sift-heads-world-act-1-deadly-newcomer.json](./191902-sift-heads-world-act-1-deadly-newcomer.json) |
@@ -14498,6 +14502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striker! | 336650 | [336650-striker.json](./336650-striker.json) |
 | Strikers | 219577 | [219577-strikers.json](./219577-strikers.json) |
 | Strikers 1945 | 39300 | [39300-strikers-1945.json](./39300-strikers-1945.json) |
+| Strikers 1945 II for Nintendo Switch | 234133 | [234133-strikers-1945-ii-for-nintendo-switch.json](./234133-strikers-1945-ii-for-nintendo-switch.json) |
 | Strikers 1945 III for Nintendo Switch | 212270 | [212270-strikers-1945-iii-for-nintendo-switch.json](./212270-strikers-1945-iii-for-nintendo-switch.json) |
 | Strikers 2020 | 118840 | [118840-strikers-2020.json](./118840-strikers-2020.json) |
 | Strikers Club | 343323 | [343323-strikers-club.json](./343323-strikers-club.json) |
@@ -14536,6 +14541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strippers | 240145 | [240145-strippers.json](./240145-strippers.json) |
 | Strive For Power: King Growth Program | 308868 | [308868-strive-for-power-king-growth-program.json](./308868-strive-for-power-king-growth-program.json) |
 | Strive: A Path Forward | 334496 | [334496-strive-a-path-forward.json](./334496-strive-a-path-forward.json) |
+| Striving for Light: Survival | 234130 | [234130-striving-for-light-survival.json](./234130-striving-for-light-survival.json) |
 | Strix STG | 228077 | [228077-strix-stg.json](./228077-strix-stg.json) |
 | Strobophagia: Rave Horror | 139460 | [139460-strobophagia-rave-horror.json](./139460-strobophagia-rave-horror.json) |
 | Stroke Fill | 118794 | [118794-stroke-fill.json](./118794-stroke-fill.json) |
@@ -16122,6 +16128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Marine | 234929 | [234929-super-marine.json](./234929-super-marine.json) |
 | Super Mario | 238096 | [238096-super-mario.json](./238096-super-mario.json) |
 | Super Mario /v/orld 2: Moot Point | 333702 | [333702-super-mario-v-orld-2-moot-point.json](./333702-super-mario-v-orld-2-moot-point.json) |
+| Super Mario /v/orld: New Vegas | 234146 | [234146-super-mario-v-orld-new-vegas.json](./234146-super-mario-v-orld-new-vegas.json) |
 | Super Mario & Sonic | 262087 | [262087-super-mario-and-sonic.json](./262087-super-mario-and-sonic.json) |
 | Super Mario & The Rainbow Stars | 307658 | [307658-super-mario-and-the-rainbow-stars.json](./307658-super-mario-and-the-rainbow-stars.json) |
 | Super Mario 14 | 134517 | [134517-super-mario-14.json](./134517-super-mario-14.json) |
@@ -16832,6 +16839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. for Wii U: Igglybuff moveset | 343431 | [343431-super-smash-bros-for-wii-u-igglybuff-moveset.json](./343431-super-smash-bros-for-wii-u-igglybuff-moveset.json) |
 | Super Smash Bros. for Wii U: Stage Bundle | 325075 | [325075-super-smash-bros-for-wii-u-stage-bundle.json](./325075-super-smash-bros-for-wii-u-stage-bundle.json) |
 | Super Smash Bros. for Wii U: Wario's Shoulder Bash from Brawl | 343430 | [343430-super-smash-bros-for-wii-u-warios-shoulder-bash-from-brawl.json](./343430-super-smash-bros-for-wii-u-warios-shoulder-bash-from-brawl.json) |
+| Super Smash Bros. Infinite | 234117 | [234117-super-smash-bros-infinite.json](./234117-super-smash-bros-infinite.json) |
 | Super Smash Bros. Open | 269059 | [269059-super-smash-bros-open.json](./269059-super-smash-bros-open.json) |
 | Super Smash Bros. Sonic 2 Mod | 173085 | [173085-super-smash-bros-sonic-2-mod.json](./173085-super-smash-bros-sonic-2-mod.json) |
 | Super Smash Bros. Ultimate - Piranha Plant | 136383 | [136383-super-smash-bros-ultimate-piranha-plant.json](./136383-super-smash-bros-ultimate-piranha-plant.json) |
