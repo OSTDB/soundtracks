@@ -4030,6 +4030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Astronaut's Fringes of the Empire | 58906 | [58906-lost-astronauts-fringes-of-the-empire.json](./58906-lost-astronauts-fringes-of-the-empire.json) |
 | Lost at Sea | 209139 | [209139-lost-at-sea.json](./209139-lost-at-sea.json) |
 | Lost Away | 191571 | [191571-lost-away.json](./191571-lost-away.json) |
+| Lost Balloons: Airy mates | 260878 | [260878-lost-balloons-airy-mates.json](./260878-lost-balloons-airy-mates.json) |
 | Lost Between | 232914 | [232914-lost-between.json](./232914-lost-between.json) |
 | Lost Boy | 179063 | [179063-lost-boy.json](./179063-lost-boy.json) |
 | Lost Brother | 323895 | [323895-lost-brother.json](./323895-lost-brother.json) |
