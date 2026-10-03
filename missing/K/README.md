@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kairos | 411799 | [411799-kairos.json](./411799-kairos.json) |
 | Kairos'Light | 132235 | [132235-kairoslight.json](./132235-kairoslight.json) |
 | Kaisen! Ika Gundan! | 269317 | [269317-kaisen-ika-gundan.json](./269317-kaisen-ika-gundan.json) |
+| Kaiser of Singularity | 260868 | [260868-kaiser-of-singularity.json](./260868-kaiser-of-singularity.json) |
 | Kaisho | 276270 | [276270-kaisho.json](./276270-kaisho.json) |
 | Kaitasume: Zero | 388406 | [388406-kaitasume-zero.json](./388406-kaitasume-zero.json) |
 | Kaite Oboeru Doragana | 66034 | [66034-kaite-oboeru-doragana.json](./66034-kaite-oboeru-doragana.json) |
@@ -2219,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Adventure | 34315 | [34315-knight-adventure.json](./34315-knight-adventure.json) |
 | Knight and Princess | 170551 | [170551-knight-and-princess.json](./170551-knight-and-princess.json) |
 | Knight Bewitched | 97079 | [97079-knight-bewitched.json](./97079-knight-bewitched.json) |
+| Knight Cats: Leaves on the Road | 260879 | [260879-knight-cats-leaves-on-the-road.json](./260879-knight-cats-leaves-on-the-road.json) |
 | Knight Cats: Waves on the Water - Collector's Edition | 337276 | [337276-knight-cats-waves-on-the-water-collectors-edition.json](./337276-knight-cats-waves-on-the-water-collectors-edition.json) |
 | Knight Cats: Whisper of the Universe | 337275 | [337275-knight-cats-whisper-of-the-universe.json](./337275-knight-cats-whisper-of-the-universe.json) |
 | Knight Cats: Whisper of the Universe - Collector's Edition | 340993 | [340993-knight-cats-whisper-of-the-universe-collectors-edition.json](./340993-knight-cats-whisper-of-the-universe-collectors-edition.json) |
