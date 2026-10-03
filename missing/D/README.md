@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemon Detective Gaiden II | 133983 | [133983-daemon-detective-gaiden-ii.json](./133983-daemon-detective-gaiden-ii.json) |
 | Daemon Detective Racing Zero | 135042 | [135042-daemon-detective-racing-zero.json](./135042-daemon-detective-racing-zero.json) |
 | Daemon Masquerade | 242546 | [242546-daemon-masquerade.json](./242546-daemon-masquerade.json) |
+| Daemon Sigil | 273001 | [273001-daemon-sigil.json](./273001-daemon-sigil.json) |
 | Daemon Summoner | 44628 | [44628-daemon-summoner.json](./44628-daemon-summoner.json) |
 | Daemon Vector | 62256 | [62256-daemon-vector.json](./62256-daemon-vector.json) |
 | Daemon X Machina: Deluxe Edition | 187824 | [187824-daemon-x-machina-deluxe-edition.json](./187824-daemon-x-machina-deluxe-edition.json) |
@@ -1094,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkwing Duck R | 363974 | [363974-darkwing-duck-r.json](./363974-darkwing-duck-r.json) |
 | Darkwood | 17032 | [17032-darkwood.json](./17032-darkwood.json) |
 | Darkwood: Special Edition | 118154 | [118154-darkwood-special-edition.json](./118154-darkwood-special-edition.json) |
+| Darkworld | 273002 | [273002-darkworld.json](./273002-darkworld.json) |
 | Darkzan Adventure | 376558 | [376558-darkzan-adventure.json](./376558-darkzan-adventure.json) |
 | Darkzan Arena | 244895 | [244895-darkzan-arena.json](./244895-darkzan-arena.json) |
 | Darling II: Backlash | 203328 | [203328-darling-ii-backlash.json](./203328-darling-ii-backlash.json) |
@@ -1517,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: F-15E | 254774 | [254774-dcs-world-f-15e.json](./254774-dcs-world-f-15e.json) |
 | DCS World: F-16C Arctic Thunder Campaign by Reflected Simulations | 324673 | [324673-dcs-world-f-16c-arctic-thunder-campaign-by-reflected-simulations.json](./324673-dcs-world-f-16c-arctic-thunder-campaign-by-reflected-simulations.json) |
 | DCS World: F-16C Dragon's Fury Campaign by SorelRo | 324899 | [324899-dcs-world-f-16c-dragons-fury-campaign-by-sorelro.json](./324899-dcs-world-f-16c-dragons-fury-campaign-by-sorelro.json) |
+| DCS World: F-16C First in Weasels Over Syria Campaign by Ground Pounder Sims | 272999 | [272999-dcs-world-f-16c-first-in-weasels-over-syria-campaign-by-ground-pounder-sims.json](./272999-dcs-world-f-16c-first-in-weasels-over-syria-campaign-by-ground-pounder-sims.json) |
 | DCS World: F-4E Phantom II by Heatblur Simulations | 274977 | [274977-dcs-world-f-4e-phantom-ii-by-heatblur-simulations.json](./274977-dcs-world-f-4e-phantom-ii-by-heatblur-simulations.json) |
 | DCS World: F-5E Remastered | 324873 | [324873-dcs-world-f-5e-remastered.json](./324873-dcs-world-f-5e-remastered.json) |
 | DCS World: F/A-18C - Aggressors BFM Campaign | 169958 | [169958-dcs-world-f-a-18c-aggressors-bfm-campaign.json](./169958-dcs-world-f-a-18c-aggressors-bfm-campaign.json) |
@@ -1530,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: Iraq North Map | 325572 | [325572-dcs-world-iraq-north-map.json](./325572-dcs-world-iraq-north-map.json) |
 | DCS World: Kola Map by Orbx | 310021 | [310021-dcs-world-kola-map-by-orbx.json](./310021-dcs-world-kola-map-by-orbx.json) |
 | DCS World: MAD AH-64D Campaign by Stone Sky | 325533 | [325533-dcs-world-mad-ah-64d-campaign-by-stone-sky.json](./325533-dcs-world-mad-ah-64d-campaign-by-stone-sky.json) |
+| DCS World: MAD Black Shark Campaign by Stone Sky | 273000 | [273000-dcs-world-mad-black-shark-campaign-by-stone-sky.json](./273000-dcs-world-mad-black-shark-campaign-by-stone-sky.json) |
 | DCS World: MAD JF-17 Thunder Campaign by Stone Sky | 325540 | [325540-dcs-world-mad-jf-17-thunder-campaign-by-stone-sky.json](./325540-dcs-world-mad-jf-17-thunder-campaign-by-stone-sky.json) |
 | DCS World: Marianas | 162859 | [162859-dcs-world-marianas.json](./162859-dcs-world-marianas.json) |
 | DCS World: Marianas WWII Map | 408127 | [408127-dcs-world-marianas-wwii-map.json](./408127-dcs-world-marianas-wwii-map.json) |
@@ -4058,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diapause | 374597 | [374597-diapause.json](./374597-diapause.json) |
 | Diaper Dash | 16069 | [16069-diaper-dash.json](./16069-diaper-dash.json) |
 | Diaperquest 2055 | 112464 | [112464-diaperquest-2055.json](./112464-diaperquest-2055.json) |
+| Diari | 272998 | [272998-diari.json](./272998-diari.json) |
 | Diarrhea Don | 159891 | [159891-diarrhea-don.json](./159891-diarrhea-don.json) |
 | Diary Girl | 67992 | [67992-diary-girl.json](./67992-diary-girl.json) |
 | Diary of a Step-Sister | 239880 | [239880-diary-of-a-step-sister.json](./239880-diary-of-a-step-sister.json) |
@@ -7188,6 +7193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Beat: Legend of Pinball | 73754 | [73754-dragon-beat-legend-of-pinball.json](./73754-dragon-beat-legend-of-pinball.json) |
 | Dragon Blast: Crazy Action Super Hero Game | 159808 | [159808-dragon-blast-crazy-action-super-hero-game.json](./159808-dragon-blast-crazy-action-super-hero-game.json) |
 | Dragon Blaze | 39659 | [39659-dragon-blaze.json](./39659-dragon-blaze.json) |
+| Dragon Bobby: The Story of a Life | 272995 | [272995-dragon-bobby-the-story-of-a-life.json](./272995-dragon-bobby-the-story-of-a-life.json) |
 | Dragon Bowl | 37344 | [37344-dragon-bowl.json](./37344-dragon-bowl.json) |
 | Dragon Boy | 108995 | [108995-dragon-boy.json](./108995-dragon-boy.json) |
 | Dragon Break Classic Head to Head | 152755 | [152755-dragon-break-classic-head-to-head.json](./152755-dragon-break-classic-head-to-head.json) |
@@ -7216,6 +7222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Drill | 294691 | [294691-dragon-drill.json](./294691-dragon-drill.json) |
 | Dragon Drop | 159251 | [159251-dragon-drop.json](./159251-dragon-drop.json) |
 | Dragon Drop | 58481 | [58481-dragon-drop.json](./58481-dragon-drop.json) |
+| Dragon Eclipse | 272997 | [272997-dragon-eclipse.json](./272997-dragon-eclipse.json) |
 | Dragon Egg! | 37722 | [37722-dragon-egg.json](./37722-dragon-egg.json) |
 | Dragon Eternity | 59981 | [59981-dragon-eternity.json](./59981-dragon-eternity.json) |
 | Dragon Expedition | 332993 | [332993-dragon-expedition.json](./332993-dragon-expedition.json) |
@@ -9246,6 +9253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusttrust X | 329675 | [329675-dusttrust-x.json](./329675-dusttrust-x.json) |
 | Dustwind | 76127 | [76127-dustwind.json](./76127-dustwind.json) |
 | Dustwun | 83561 | [83561-dustwun.json](./83561-dustwun.json) |
+| Dusty Crib | 272996 | [272996-dusty-crib.json](./272996-dusty-crib.json) |
 | Dusty Raging Fist | 63798 | [63798-dusty-raging-fist.json](./63798-dusty-raging-fist.json) |
 | Dusty Revenge: Co-Op Edition | 30233 | [30233-dusty-revenge-co-op-edition.json](./30233-dusty-revenge-co-op-edition.json) |
 | Dusty's Challenge | 359392 | [359392-dustys-challenge.json](./359392-dustys-challenge.json) |
