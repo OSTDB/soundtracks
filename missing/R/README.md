@@ -4558,6 +4558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roboloop | 295776 | [295776-roboloop.json](./295776-roboloop.json) |
 | Robolt | 249306 | [249306-robolt.json](./249306-robolt.json) |
 | Robolucion: The Sandwich Conspiracy | 390681 | [390681-robolucion-the-sandwich-conspiracy.json](./390681-robolucion-the-sandwich-conspiracy.json) |
+| Robomania | 261987 | [261987-robomania.json](./261987-robomania.json) |
 | RoboMaze III: The Dome | 78029 | [78029-robomaze-iii-the-dome.json](./78029-robomaze-iii-the-dome.json) |
 | RoboMaze: The Basement | 59927 | [59927-robomaze-the-basement.json](./59927-robomaze-the-basement.json) |
 | Robonauts | 64205 | [64205-robonauts.json](./64205-robonauts.json) |
