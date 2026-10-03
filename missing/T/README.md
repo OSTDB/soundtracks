@@ -2619,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Hold'em: High Stakes Poker | 73540 | [73540-texas-holdem-high-stakes-poker.json](./73540-texas-holdem-high-stakes-poker.json) |
 | Texas Solitaire Cube | 125938 | [125938-texas-solitaire-cube.json](./125938-texas-solitaire-cube.json) |
 | Texas Wildcatter Experience | 106753 | [106753-texas-wildcatter-experience.json](./106753-texas-wildcatter-experience.json) |
+| Texnoplazm | 269190 | [269190-texnoplazm.json](./269190-texnoplazm.json) |
 | Texplore | 383946 | [383946-texplore.json](./383946-texplore.json) |
 | Text | 110635 | [110635-text.json](./110635-text.json) |
 | Text Adventure Engine | 295361 | [295361-text-adventure-engine.json](./295361-text-adventure-engine.json) |
@@ -3640,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cerberus Project | 41932 | [41932-the-cerberus-project.json](./41932-the-cerberus-project.json) |
 | The Cerpan Project | 273397 | [273397-the-cerpan-project.json](./273397-the-cerpan-project.json) |
 | The Cesspit | 367966 | [367966-the-cesspit.json](./367966-the-cesspit.json) |
+| The Chad | 269191 | [269191-the-chad.json](./269191-the-chad.json) |
 | The Chalice of Illusion | 285547 | [285547-the-chalice-of-illusion.json](./285547-the-chalice-of-illusion.json) |
 | The Chalice of Mostania | 122986 | [122986-the-chalice-of-mostania.json](./122986-the-chalice-of-mostania.json) |
 | The Chalk | 244775 | [244775-the-chalk.json](./244775-the-chalk.json) |
@@ -4052,6 +4054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Book | 248713 | [248713-the-dark-book.json](./248713-the-dark-book.json) |
 | The Dark Book 2 | 274489 | [274489-the-dark-book-2.json](./274489-the-dark-book-2.json) |
 | The Dark Climb | 253423 | [253423-the-dark-climb.json](./253423-the-dark-climb.json) |
+| The Dark Cowboy | 269189 | [269189-the-dark-cowboy.json](./269189-the-dark-cowboy.json) |
 | The Dark Crown: Genesis | 221144 | [221144-the-dark-crown-genesis.json](./221144-the-dark-crown-genesis.json) |
 | The Dark Crystal | 14575 | [14575-the-dark-crystal.json](./14575-the-dark-crystal.json) |
 | The Dark Curiosity | 381002 | [381002-the-dark-curiosity.json](./381002-the-dark-curiosity.json) |
@@ -4810,6 +4813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Finals: Season 9 - Dragon Rising | 381152 | [381152-the-finals-season-9-dragon-rising.json](./381152-the-finals-season-9-dragon-rising.json) |
 | The Find | 326989 | [326989-the-find.json](./326989-the-find.json) |
 | The Finest Spark | 408235 | [408235-the-finest-spark.json](./408235-the-finest-spark.json) |
+| The Finnish War x Sotidrokhima: Finlandsaga | 269188 | [269188-the-finnish-war-x-sotidrokhima-finlandsaga.json](./269188-the-finnish-war-x-sotidrokhima-finlandsaga.json) |
 | The Fire Nobody Started | 332067 | [332067-the-fire-nobody-started.json](./332067-the-fire-nobody-started.json) |
 | The Fire Rises | 321742 | [321742-the-fire-rises.json](./321742-the-fire-rises.json) |
 | The Firebrand | 295246 | [295246-the-firebrand.json](./295246-the-firebrand.json) |
@@ -5106,6 +5110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Goatman | 104034 | [104034-the-goatman.json](./104034-the-goatman.json) |
 | The Goblin Tavern | 352912 | [352912-the-goblin-tavern.json](./352912-the-goblin-tavern.json) |
 | The Goblins are Coming | 246949 | [246949-the-goblins-are-coming.json](./246949-the-goblins-are-coming.json) |
+| The Goblinseekers | 269187 | [269187-the-goblinseekers.json](./269187-the-goblinseekers.json) |
 | The God | 100568 | [100568-the-god.json](./100568-the-god.json) |
 | The God Heroes | 282656 | [282656-the-god-heroes.json](./282656-the-god-heroes.json) |
 | The GoD Unit | 127756 | [127756-the-god-unit.json](./127756-the-god-unit.json) |
@@ -5391,6 +5396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heroic Legend of Eagarlnia: Expansion Pack | 199651 | [199651-the-heroic-legend-of-eagarlnia-expansion-pack.json](./199651-the-heroic-legend-of-eagarlnia-expansion-pack.json) |
 | The Hi-Finesse: 2D | 25909 | [25909-the-hi-finesse-2d.json](./25909-the-hi-finesse-2d.json) |
 | The Hidden | 85437 | [85437-the-hidden.json](./85437-the-hidden.json) |
+| The Hidden Art of Innkeeping | 269192 | [269192-the-hidden-art-of-innkeeping.json](./269192-the-hidden-art-of-innkeeping.json) |
 | The Hidden Below | 9357 | [9357-the-hidden-below.json](./9357-the-hidden-below.json) |
 | The Hidden Dragon | 32157 | [32157-the-hidden-dragon.json](./32157-the-hidden-dragon.json) |
 | The Hidden Ghost | 195483 | [195483-the-hidden-ghost.json](./195483-the-hidden-ghost.json) |
@@ -7073,6 +7079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moth Inside Me | 333644 | [333644-the-moth-inside-me.json](./333644-the-moth-inside-me.json) |
 | The Moth Oracle's Poem | 135774 | [135774-the-moth-oracles-poem.json](./135774-the-moth-oracles-poem.json) |
 | The Mother Deer | 330544 | [330544-the-mother-deer.json](./330544-the-mother-deer.json) |
+| The Mothering | 269193 | [269193-the-mothering.json](./269193-the-mothering.json) |
 | The Motorcycle | 230956 | [230956-the-motorcycle.json](./230956-the-motorcycle.json) |
 | The Mountain | 372538 | [372538-the-mountain.json](./372538-the-mountain.json) |
 | The Mountain Hunting | 152757 | [152757-the-mountain-hunting.json](./152757-the-mountain-hunting.json) |
@@ -10172,6 +10179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Way!! | 199943 | [199943-this-way.json](./199943-this-way.json) |
 | This World Is Over | 348386 | [348386-this-world-is-over.json](./348386-this-world-is-over.json) |
 | This, My Soul | 179692 | [179692-this-my-soul.json](./179692-this-my-soul.json) |
+| ThisIsTheGame | 269194 | [269194-thisisthegame.json](./269194-thisisthegame.json) |
 | Thistledown: Marrowroot | 216502 | [216502-thistledown-marrowroot.json](./216502-thistledown-marrowroot.json) |
 | THO Simulator | 188086 | [188086-tho-simulator.json](./188086-tho-simulator.json) |
 | Thomas & Friends: Building the New Line | 23780 | [23780-thomas-and-friends-building-the-new-line.json](./23780-thomas-and-friends-building-the-new-line.json) |
@@ -10259,6 +10267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms VR - Jade Knight | 75820 | [75820-three-kingdoms-vr-jade-knight.json](./75820-three-kingdoms-vr-jade-knight.json) |
 | Three Kingdoms Written Words | 157538 | [157538-three-kingdoms-written-words.json](./157538-three-kingdoms-written-words.json) |
 | Three Kingdoms: Ancient Battlefield | 113172 | [113172-three-kingdoms-ancient-battlefield.json](./113172-three-kingdoms-ancient-battlefield.json) |
+| Three Kingdoms: Battle of Generals | 269199 | [269199-three-kingdoms-battle-of-generals.json](./269199-three-kingdoms-battle-of-generals.json) |
 | Three Kingdoms: Bond | 402358 | [402358-three-kingdoms-bond.json](./402358-three-kingdoms-bond.json) |
 | Three Kingdoms: Fate of the Dragon | 6985 | [6985-three-kingdoms-fate-of-the-dragon.json](./6985-three-kingdoms-fate-of-the-dragon.json) |
 | Three Kingdoms: Hero Wars | 208053 | [208053-three-kingdoms-hero-wars.json](./208053-three-kingdoms-hero-wars.json) |
@@ -12387,6 +12396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo 2029 A.D | 62790 | [62790-tokyo-2029-a-d.json](./62790-tokyo-2029-a-d.json) |
 | Tokyo 23-Ku Seifuku Wars | 61572 | [61572-tokyo-23-ku-seifuku-wars.json](./61572-tokyo-23-ku-seifuku-wars.json) |
 | Tokyo 24-Ku | 165063 | [165063-tokyo-24-ku.json](./165063-tokyo-24-ku.json) |
+| Tokyo 30 days | 269200 | [269200-tokyo-30-days.json](./269200-tokyo-30-days.json) |
 | Tokyo 42 | 18930 | [18930-tokyo-42.json](./18930-tokyo-42.json) |
 | Tokyo 42: Smaceshi's Castles | 172109 | [172109-tokyo-42-smaceshis-castles.json](./172109-tokyo-42-smaceshis-castles.json) |
 | Tokyo 7th Sisters | 60623 | [60623-tokyo-7th-sisters.json](./60623-tokyo-7th-sisters.json) |
