@@ -1740,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Tank Solo-Raid | 333131 | [333131-rebel-tank-solo-raid.json](./333131-rebel-tank-solo-raid.json) |
 | Rebel! | 259138 | [259138-rebel.json](./259138-rebel.json) |
 | Rebellion Anthology | 53492 | [53492-rebellion-anthology.json](./53492-rebellion-anthology.json) |
+| Rebellion Corporation | 230970 | [230970-rebellion-corporation.json](./230970-rebellion-corporation.json) |
 | Rebellion Princess | 391330 | [391330-rebellion-princess.json](./391330-rebellion-princess.json) |
 | Rebellion Saga | 334282 | [334282-rebellion-saga.json](./334282-rebellion-saga.json) |
 | Rebellion: A Rogue Souls Like | 153393 | [153393-rebellion-a-rogue-souls-like.json](./153393-rebellion-a-rogue-souls-like.json) |
@@ -4697,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Rejects | 220630 | [220630-robot-rejects.json](./220630-robot-rejects.json) |
 | Robot Rescue | 84844 | [84844-robot-rescue.json](./84844-robot-rescue.json) |
 | Robot Rescue 2 | 84845 | [84845-robot-rescue-2.json](./84845-robot-rescue-2.json) |
+| Robot Revolt | 230903 | [230903-robot-revolt.json](./230903-robot-revolt.json) |
 | Robot Rhapsody | 346706 | [346706-robot-rhapsody.json](./346706-robot-rhapsody.json) |
 | Robot Robert | 149048 | [149048-robot-robert.json](./149048-robot-robert.json) |
 | Robot Rumble 2 | 113767 | [113767-robot-rumble-2.json](./113767-robot-rumble-2.json) |
@@ -5905,6 +5907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Baker's Best | 285461 | [285461-roxy-raccoons-pinball-panic-bakers-best.json](./285461-roxy-raccoons-pinball-panic-bakers-best.json) |
 | Roxy Raccoon's Pinball Panic: Christmas Carnage | 235360 | [235360-roxy-raccoons-pinball-panic-christmas-carnage.json](./235360-roxy-raccoons-pinball-panic-christmas-carnage.json) |
 | Roxy Raccoon's Pinball Panic: Club Crazy | 267689 | [267689-roxy-raccoons-pinball-panic-club-crazy.json](./267689-roxy-raccoons-pinball-panic-club-crazy.json) |
+| Roxy Raccoon's Pinball Panic: Epic Egypt | 230893 | [230893-roxy-raccoons-pinball-panic-epic-egypt.json](./230893-roxy-raccoons-pinball-panic-epic-egypt.json) |
 | Roxy Raccoon's Pinball Panic: Joyous Japan | 226931 | [226931-roxy-raccoons-pinball-panic-joyous-japan.json](./226931-roxy-raccoons-pinball-panic-joyous-japan.json) |
 | Roxy Raccoon's Pinball Panic: Medieval Mayhem | 259594 | [259594-roxy-raccoons-pinball-panic-medieval-mayhem.json](./259594-roxy-raccoons-pinball-panic-medieval-mayhem.json) |
 | Roxy Raccoon's Pinball Panic: Paradise Parks | 311787 | [311787-roxy-raccoons-pinball-panic-paradise-parks.json](./311787-roxy-raccoons-pinball-panic-paradise-parks.json) |
