@@ -3974,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Creature Zone VR: Nightfall | 259834 | [259834-the-creature-zone-vr-nightfall.json](./259834-the-creature-zone-vr-nightfall.json) |
 | The Creature Zone VR: Welcome To Dystopia | 286069 | [286069-the-creature-zone-vr-welcome-to-dystopia.json](./286069-the-creature-zone-vr-welcome-to-dystopia.json) |
 | The Creature: Escape Room | 207538 | [207538-the-creature-escape-room.json](./207538-the-creature-escape-room.json) |
+| The Creeps! | 232581 | [232581-the-creeps.json](./232581-the-creeps.json) |
 | The Crevice | 275826 | [275826-the-crevice.json](./275826-the-crevice.json) |
 | The Crew | 2137 | [2137-the-crew.json](./2137-the-crew.json) |
 | The Crew 2: Special Edition | 161179 | [161179-the-crew-2-special-edition.json](./161179-the-crew-2-special-edition.json) |
@@ -7300,6 +7301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery Files of Detective Inaba No. 3 | 131577 | [131577-the-mystery-files-of-detective-inaba-no-3.json](./131577-the-mystery-files-of-detective-inaba-no-3.json) |
 | The Mystery Fountain in Space | 192878 | [192878-the-mystery-fountain-in-space.json](./192878-the-mystery-fountain-in-space.json) |
 | The Mystery of a Lost Planet | 34522 | [34522-the-mystery-of-a-lost-planet.json](./34522-the-mystery-of-a-lost-planet.json) |
+| The Mystery of Arkham Manor | 232516 | [232516-the-mystery-of-arkham-manor.json](./232516-the-mystery-of-arkham-manor.json) |
 | The Mystery of Bikini Island | 286519 | [286519-the-mystery-of-bikini-island.json](./286519-the-mystery-of-bikini-island.json) |
 | The Mystery of Blackthorn Castle | 89766 | [89766-the-mystery-of-blackthorn-castle.json](./89766-the-mystery-of-blackthorn-castle.json) |
 | The Mystery of Blackthorn Castle 2 | 289974 | [289974-the-mystery-of-blackthorn-castle-2.json](./289974-the-mystery-of-blackthorn-castle-2.json) |
@@ -7322,6 +7324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery Team | 42775 | [42775-the-mystery-team.json](./42775-the-mystery-team.json) |
 | The Mystery Workshop | 104457 | [104457-the-mystery-workshop.json](./104457-the-mystery-workshop.json) |
 | The Mystic Fortune | 329063 | [329063-the-mystic-fortune.json](./329063-the-mystic-fortune.json) |
+| The Mystic Well | 232518 | [232518-the-mystic-well.json](./232518-the-mystic-well.json) |
 | The Mystical Traveler | 342735 | [342735-the-mystical-traveler.json](./342735-the-mystical-traveler.json) |
 | The Mystifying Trial | 163455 | [163455-the-mystifying-trial.json](./163455-the-mystifying-trial.json) |
 | The Mythical City | 264232 | [264232-the-mythical-city.json](./264232-the-mythical-city.json) |
@@ -7528,6 +7531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orion Conspiracy | 23862 | [23862-the-orion-conspiracy.json](./23862-the-orion-conspiracy.json) |
 | The Orion Project | 58904 | [58904-the-orion-project.json](./58904-the-orion-project.json) |
 | The Orion Suns | 83534 | [83534-the-orion-suns.json](./83534-the-orion-suns.json) |
+| The Ormus Saga | 232521 | [232521-the-ormus-saga.json](./232521-the-ormus-saga.json) |
 | The Ormus Saga II: Guild of Death | 232524 | [232524-the-ormus-saga-ii-guild-of-death.json](./232524-the-ormus-saga-ii-guild-of-death.json) |
 | The Ormus Saga III: The Final Chapter | 232530 | [232530-the-ormus-saga-iii-the-final-chapter.json](./232530-the-ormus-saga-iii-the-final-chapter.json) |
 | The Orphan | 243153 | [243153-the-orphan.json](./243153-the-orphan.json) |
@@ -11691,6 +11695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TileKnight | 389028 | [389028-tileknight.json](./389028-tileknight.json) |
 | Tilelander | 72143 | [72143-tilelander.json](./72143-tilelander.json) |
 | Tilemount | 341640 | [341640-tilemount.json](./341640-tilemount.json) |
+| Tiler More | 232501 | [232501-tiler-more.json](./232501-tiler-more.json) |
 | Tiles and Towers TD | 216503 | [216503-tiles-and-towers-td.json](./216503-tiles-and-towers-td.json) |
 | Tiles Fall | 239221 | [239221-tiles-fall.json](./239221-tiles-fall.json) |
 | Tiles Hop: Forever Dancing Ball | 108439 | [108439-tiles-hop-forever-dancing-ball.json](./108439-tiles-hop-forever-dancing-ball.json) |
@@ -12017,6 +12022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Bookshop | 216718 | [216718-tiny-bookshop.json](./216718-tiny-bookshop.json) |
 | Tiny Boxes | 368574 | [368574-tiny-boxes.json](./368574-tiny-boxes.json) |
 | Tiny Brains | 7649 | [7649-tiny-brains.json](./7649-tiny-brains.json) |
+| Tiny Brush | 232583 | [232583-tiny-brush.json](./232583-tiny-brush.json) |
 | Tiny Bullets | 4146 | [4146-tiny-bullets.json](./4146-tiny-bullets.json) |
 | Tiny Bunny | 131653 | [131653-tiny-bunny.json](./131653-tiny-bunny.json) |
 | Tiny Candy Guardian | 264034 | [264034-tiny-candy-guardian.json](./264034-tiny-candy-guardian.json) |
@@ -13127,6 +13133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Roads: Race & Drift | 288315 | [288315-toon-roads-race-and-drift.json](./288315-toon-roads-race-and-drift.json) |
 | Toon Roads: Superbike | 308490 | [308490-toon-roads-superbike.json](./308490-toon-roads-superbike.json) |
 | Toon Shooters the Freelancers | 57193 | [57193-toon-shooters-the-freelancers.json](./57193-toon-shooters-the-freelancers.json) |
+| Toon Skate: True Freedom Racing | 232577 | [232577-toon-skate-true-freedom-racing.json](./232577-toon-skate-true-freedom-racing.json) |
 | Toon Tanks | 84947 | [84947-toon-tanks.json](./84947-toon-tanks.json) |
 | Toon Team | 236337 | [236337-toon-team.json](./236337-toon-team.json) |
 | Toon Troops Strategy | 307868 | [307868-toon-troops-strategy.json](./307868-toon-troops-strategy.json) |
