@@ -6393,6 +6393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Sora no Kiseki FC Kai - HD Edition | 136859 | [136859-the-legend-of-heroes-sora-no-kiseki-fc-kai-hd-edition.json](./136859-the-legend-of-heroes-sora-no-kiseki-fc-kai-hd-edition.json) |
 | The Legend of Heroes: Sora no Kiseki the 3rd Kai - HD Edition | 268097 | [268097-the-legend-of-heroes-sora-no-kiseki-the-3rd-kai-hd-edition.json](./268097-the-legend-of-heroes-sora-no-kiseki-the-3rd-kai-hd-edition.json) |
 | The Legend of Heroes: Trails Beyond the Horizon | 280573 | [280573-the-legend-of-heroes-trails-beyond-the-horizon.json](./280573-the-legend-of-heroes-trails-beyond-the-horizon.json) |
+| The Legend of Heroes: Trails from Zero - Deluxe Edition | 248792 | [248792-the-legend-of-heroes-trails-from-zero-deluxe-edition.json](./248792-the-legend-of-heroes-trails-from-zero-deluxe-edition.json) |
 | The Legend of Heroes: Trails in the Sky | 8986 | [8986-the-legend-of-heroes-trails-in-the-sky.json](./8986-the-legend-of-heroes-trails-in-the-sky.json) |
 | The Legend of Heroes: Trails in the Sky the 3rd | 28101 | [28101-the-legend-of-heroes-trails-in-the-sky-the-3rd.json](./28101-the-legend-of-heroes-trails-in-the-sky-the-3rd.json) |
 | The Legend of Heroes: Trails into Reverie | 136673 | [136673-the-legend-of-heroes-trails-into-reverie.json](./136673-the-legend-of-heroes-trails-into-reverie.json) |
@@ -10018,6 +10019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Themes of Dark and Light | 153864 | [153864-themes-of-dark-and-light.json](./153864-themes-of-dark-and-light.json) |
 | Themis | 327856 | [327856-themis.json](./327856-themis.json) |
 | TheMist | 116335 | [116335-themist.json](./116335-themist.json) |
+| Theo Space Miner | 248818 | [248818-theo-space-miner.json](./248818-theo-space-miner.json) |
 | Theocracy | 226158 | [226158-theocracy.json](./226158-theocracy.json) |
 | Theomachiae | 172159 | [172159-theomachiae.json](./172159-theomachiae.json) |
 | Theory | 288813 | [288813-theory.json](./288813-theory.json) |
@@ -10028,6 +10030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theralite | 329770 | [329770-theralite.json](./329770-theralite.json) |
 | Therapist Simulator | 336378 | [336378-therapist-simulator.json](./336378-therapist-simulator.json) |
 | Therapist: Mind Manager | 246116 | [246116-therapist-mind-manager.json](./246116-therapist-mind-manager.json) |
+| Therapy for Orchestra Movement III | 248803 | [248803-therapy-for-orchestra-movement-iii.json](./248803-therapy-for-orchestra-movement-iii.json) |
 | Therapy Simulator | 344444 | [344444-therapy-simulator.json](./344444-therapy-simulator.json) |
 | Therapy Simulator 2023 | 248078 | [248078-therapy-simulator-2023.json](./248078-therapy-simulator-2023.json) |
 | Therapy with Dr. Albert Krueger | 148411 | [148411-therapy-with-dr-albert-krueger.json](./148411-therapy-with-dr-albert-krueger.json) |
@@ -16795,6 +16798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Moon: Space Rabbit | 270141 | [270141-two-moon-space-rabbit.json](./270141-two-moon-space-rabbit.json) |
 | Two Move Chess | 215680 | [215680-two-move-chess.json](./215680-two-move-chess.json) |
 | Two Neons One Brain | 262359 | [262359-two-neons-one-brain.json](./262359-two-neons-one-brain.json) |
+| Two of Swords | 248805 | [248805-two-of-swords.json](./248805-two-of-swords.json) |
 | Two of Us | 286777 | [286777-two-of-us.json](./286777-two-of-us.json) |
 | Two Peas in a pod | 183055 | [183055-two-peas-in-a-pod.json](./183055-two-peas-in-a-pod.json) |
 | Two Point Campus: Brainy Bundle | 276941 | [276941-two-point-campus-brainy-bundle.json](./276941-two-point-campus-brainy-bundle.json) |
