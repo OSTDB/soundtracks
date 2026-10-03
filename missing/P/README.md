@@ -5296,6 +5296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Player Pro: Mega Man | 275242 | [275242-pocket-player-pro-mega-man.json](./275242-pocket-player-pro-mega-man.json) |
 | Pocket Player: Bubble Bobble | 245544 | [245544-pocket-player-bubble-bobble.json](./245544-pocket-player-bubble-bobble.json) |
 | Pocket Player: Dig Dug | 275241 | [275241-pocket-player-dig-dug.json](./275241-pocket-player-dig-dug.json) |
+| Pocket Player: Pac-Man | 233036 | [233036-pocket-player-pac-man.json](./233036-pocket-player-pac-man.json) |
 | Pocket Pool | 225877 | [225877-pocket-pool.json](./225877-pocket-pool.json) |
 | Pocket Pool: Adventure | 248724 | [248724-pocket-pool-adventure.json](./248724-pocket-pool-adventure.json) |
 | Pocket Pool: Complete Edition | 248723 | [248723-pocket-pool-complete-edition.json](./248723-pocket-pool-complete-edition.json) |
