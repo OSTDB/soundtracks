@@ -2395,6 +2395,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White-Water Domo | 68060 | [68060-white-water-domo.json](./68060-white-water-domo.json) |
 | WhiteBird | 119670 | [119670-whitebird.json](./119670-whitebird.json) |
 | WhiteJill | 355572 | [355572-whitejill.json](./355572-whitejill.json) |
+| Whitemare | 274137 | [274137-whitemare.json](./274137-whitemare.json) |
+| Whitemare 2 | 274138 | [274138-whitemare-2.json](./274138-whitemare-2.json) |
 | Whitematter | 365895 | [365895-whitematter.json](./365895-whitematter.json) |
 | Whiteout | 181385 | [181385-whiteout.json](./181385-whiteout.json) |
 | Whiteout Survival | 240884 | [240884-whiteout-survival.json](./240884-whiteout-survival.json) |
