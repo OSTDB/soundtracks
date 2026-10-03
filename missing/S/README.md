@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sankhara | 156130 | [156130-sankhara.json](./156130-sankhara.json) |
 | Sanki | 178517 | [178517-sanki.json](./178517-sanki.json) |
 | Sankokushi Blast: Shounen Heroes | 220322 | [220322-sankokushi-blast-shounen-heroes.json](./220322-sankokushi-blast-shounen-heroes.json) |
+| Sanonta | 236965 | [236965-sanonta.json](./236965-sanonta.json) |
 | Sanou Kaihatsu Series 1 Zukei Ninshiki | 303760 | [303760-sanou-kaihatsu-series-1-zukei-ninshiki.json](./303760-sanou-kaihatsu-series-1-zukei-ninshiki.json) |
 | Sanou Kaihatsu Series 2: Suuryou, Keisan | 303761 | [303761-sanou-kaihatsu-series-2-suuryou-keisan.json](./303761-sanou-kaihatsu-series-2-suuryou-keisan.json) |
 | Sanou Kaihatsu Series 3: Hikaku, Bunrui | 303762 | [303762-sanou-kaihatsu-series-3-hikaku-bunrui.json](./303762-sanou-kaihatsu-series-3-hikaku-bunrui.json) |
@@ -1531,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schmeiser Robo | 40413 | [40413-schmeiser-robo.json](./40413-schmeiser-robo.json) |
 | Schmutznik | 153910 | [153910-schmutznik.json](./153910-schmutznik.json) |
 | Schnappi: 3 Fun-Games | 96526 | [96526-schnappi-3-fun-games.json](./96526-schnappi-3-fun-games.json) |
+| Schnee | 236901 | [236901-schnee.json](./236901-schnee.json) |
 | Schola Spiritus | 383358 | [383358-schola-spiritus.json](./383358-schola-spiritus.json) |
 | Scholar | 200431 | [200431-scholar.json](./200431-scholar.json) |
 | Scholar Adventure: Lost Night | 418529 | [418529-scholar-adventure-lost-night.json](./418529-scholar-adventure-lost-night.json) |
@@ -2949,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seres Universalis: Three Kingdoms | 372109 | [372109-seres-universalis-three-kingdoms.json](./372109-seres-universalis-three-kingdoms.json) |
 | Serflings | 210632 | [210632-serflings.json](./210632-serflings.json) |
 | Sergeant Seymour RobotCop | 39166 | [39166-sergeant-seymour-robotcop.json](./39166-sergeant-seymour-robotcop.json) |
+| Sergeant Squidley: Space Cop! | 236895 | [236895-sergeant-squidley-space-cop.json](./236895-sergeant-squidley-space-cop.json) |
 | Serguei's Destiny | 74041 | [74041-sergueis-destiny.json](./74041-sergueis-destiny.json) |
 | Serial Assault: The Memory of the Summer. | 97478 | [97478-serial-assault-the-memory-of-the-summer.json](./97478-serial-assault-the-memory-of-the-summer.json) |
 | Serial Cleaner | 19450 | [19450-serial-cleaner.json](./19450-serial-cleaner.json) |
@@ -8634,6 +8637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Conquest: Roots | 366851 | [366851-songs-of-conquest-roots.json](./366851-songs-of-conquest-roots.json) |
 | Songs of Conquest: Supporter Edition | 201036 | [201036-songs-of-conquest-supporter-edition.json](./201036-songs-of-conquest-supporter-edition.json) |
 | Songs of Conquest: Vanir | 319147 | [319147-songs-of-conquest-vanir.json](./319147-songs-of-conquest-vanir.json) |
+| Songs of Death | 236888 | [236888-songs-of-death.json](./236888-songs-of-death.json) |
 | Songs of Everjade | 275083 | [275083-songs-of-everjade.json](./275083-songs-of-everjade.json) |
 | Songs of Silence: Celestial Church Expansion | 383020 | [383020-songs-of-silence-celestial-church-expansion.json](./383020-songs-of-silence-celestial-church-expansion.json) |
 | Songs of Silence: Complete Edition | 403559 | [403559-songs-of-silence-complete-edition.json](./403559-songs-of-silence-complete-edition.json) |
