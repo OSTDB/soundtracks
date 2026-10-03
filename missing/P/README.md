@@ -1396,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Jousting | 33608 | [33608-party-jousting.json](./33608-party-jousting.json) |
 | Party Madness | 370323 | [370323-party-madness.json](./370323-party-madness.json) |
 | Party Makeover Salon | 87923 | [87923-party-makeover-salon.json](./87923-party-makeover-salon.json) |
+| Party Maker | 234140 | [234140-party-maker.json](./234140-party-maker.json) |
 | Party Man | 321431 | [321431-party-man.json](./321431-party-man.json) |
 | Party Management | 360067 | [360067-party-management.json](./360067-party-management.json) |
 | Party Mashup | 137613 | [137613-party-mashup.json](./137613-party-mashup.json) |
@@ -6378,6 +6379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Star Dress Up - Music Idol Girl | 101571 | [101571-pop-star-dress-up-music-idol-girl.json](./101571-pop-star-dress-up-music-idol-girl.json) |
 | Pop Star Makeover | 99995 | [99995-pop-star-makeover.json](./99995-pop-star-makeover.json) |
 | POP Station | 225629 | [225629-pop-station.json](./225629-pop-station.json) |
+| Pop Survivor | 234109 | [234109-pop-survivor.json](./234109-pop-survivor.json) |
 | Pop the Bubblewrap | 328681 | [328681-pop-the-bubblewrap.json](./328681-pop-the-bubblewrap.json) |
 | Pop the Jewel | 233435 | [233435-pop-the-jewel.json](./233435-pop-the-jewel.json) |
 | Pop the Lock | 256976 | [256976-pop-the-lock.json](./256976-pop-the-lock.json) |
