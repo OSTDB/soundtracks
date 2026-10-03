@@ -10530,6 +10530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Rivals: Slot Racing | 348939 | [348939-speed-rivals-slot-racing.json](./348939-speed-rivals-slot-racing.json) |
 | Speed Run | 304594 | [304594-speed-run.json](./304594-speed-run.json) |
 | Speed Runner | 246491 | [246491-speed-runner.json](./246491-speed-runner.json) |
+| Speed Squared | 262568 | [262568-speed-squared.json](./262568-speed-squared.json) |
 | Speed Surge | 335271 | [335271-speed-surge.json](./335271-speed-surge.json) |
 | Speed Sweeper | 133209 | [133209-speed-sweeper.json](./133209-speed-sweeper.json) |
 | Speed Tap Analysis | 297648 | [297648-speed-tap-analysis.json](./297648-speed-tap-analysis.json) |
