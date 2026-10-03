@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamashi: Rise of Yokai | 196586 | [196586-tamashi-rise-of-yokai.json](./196586-tamashi-rise-of-yokai.json) |
 | Tamashii | 115152 | [115152-tamashii.json](./115152-tamashii.json) |
 | Tamashika | 329975 | [329975-tamashika.json](./329975-tamashika.json) |
+| Tamatown | 250535 | [250535-tamatown.json](./250535-tamatown.json) |
 | TamaTown Tama-Go | 229958 | [229958-tamatown-tama-go.json](./229958-tamatown-tama-go.json) |
 | Tamaweb | 383530 | [383530-tamaweb.json](./383530-tamaweb.json) |
 | Tamaya | 55113 | [55113-tamaya.json](./55113-tamaya.json) |
@@ -4319,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dig | 207 | [207-the-dig.json](./207-the-dig.json) |
 | The Dime Birthday Level Collection | 312901 | [312901-the-dime-birthday-level-collection.json](./312901-the-dime-birthday-level-collection.json) |
 | The Dimension of Anaconda | 360101 | [360101-the-dimension-of-anaconda.json](./360101-the-dimension-of-anaconda.json) |
+| The Diner | 250537 | [250537-the-diner.json](./250537-the-diner.json) |
 | The Diner | 355230 | [355230-the-diner.json](./355230-the-diner.json) |
 | The Dinner | 337767 | [337767-the-dinner.json](./337767-the-dinner.json) |
 | The Dinner Heist | 308561 | [308561-the-dinner-heist.json](./308561-the-dinner-heist.json) |
@@ -6501,6 +6503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Echoes of Aurelia | 323202 | [323202-the-legend-of-zelda-echoes-of-aurelia.json](./323202-the-legend-of-zelda-echoes-of-aurelia.json) |
 | The Legend of Zelda: Echoes of Wisdom | 306149 | [306149-the-legend-of-zelda-echoes-of-wisdom.json](./306149-the-legend-of-zelda-echoes-of-wisdom.json) |
 | The Legend of Zelda: Era of Decline | 301519 | [301519-the-legend-of-zelda-era-of-decline.json](./301519-the-legend-of-zelda-era-of-decline.json) |
+| The Legend of Zelda: Fall of Hyrule | 250514 | [250514-the-legend-of-zelda-fall-of-hyrule.json](./250514-the-legend-of-zelda-fall-of-hyrule.json) |
 | The Legend of Zelda: Four Swords | 163572 | [163572-the-legend-of-zelda-four-swords.json](./163572-the-legend-of-zelda-four-swords.json) |
 | The Legend of Zelda: Four Swords Online | 323278 | [323278-the-legend-of-zelda-four-swords-online.json](./323278-the-legend-of-zelda-four-swords-online.json) |
 | The Legend of Zelda: Fourth Quest | 150079 | [150079-the-legend-of-zelda-fourth-quest.json](./150079-the-legend-of-zelda-fourth-quest.json) |
@@ -7540,6 +7543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paracelsian Project | 244726 | [244726-the-paracelsian-project.json](./244726-the-paracelsian-project.json) |
 | The Paradixion: Laboratory | 262474 | [262474-the-paradixion-laboratory.json](./262474-the-paradixion-laboratory.json) |
 | The Paradixion: Restroom | 368589 | [368589-the-paradixion-restroom.json](./368589-the-paradixion-restroom.json) |
+| The Paradixion: Son's Room | 250493 | [250493-the-paradixion-sons-room.json](./250493-the-paradixion-sons-room.json) |
 | The Parallax Effect | 28811 | [28811-the-parallax-effect.json](./28811-the-parallax-effect.json) |
 | The Parallel Worlds | 271302 | [271302-the-parallel-worlds.json](./271302-the-parallel-worlds.json) |
 | The Parcel | 236257 | [236257-the-parcel.json](./236257-the-parcel.json) |
@@ -9388,6 +9392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Undying Plague | 35759 | [35759-the-undying-plague.json](./35759-the-undying-plague.json) |
 | The Unexpected (But Not Entirely Surprising) Demise of Jacques du Schnozzle | 329126 | [329126-the-unexpected-but-not-entirely-surprising-demise-of-jacques-du-schnozzle.json](./329126-the-unexpected-but-not-entirely-surprising-demise-of-jacques-du-schnozzle.json) |
 | The Unexpected Heiress | 313854 | [313854-the-unexpected-heiress.json](./313854-the-unexpected-heiress.json) |
+| The Unfair Platformer | 250494 | [250494-the-unfair-platformer.json](./250494-the-unfair-platformer.json) |
 | The Unfettered | 223163 | [223163-the-unfettered.json](./223163-the-unfettered.json) |
 | The Unfinished Swan | 8352 | [8352-the-unfinished-swan.json](./8352-the-unfinished-swan.json) |
 | The Unfound Soul | 231403 | [231403-the-unfound-soul.json](./231403-the-unfound-soul.json) |
@@ -15350,6 +15355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Star | 247746 | [247746-treasure-star.json](./247746-treasure-star.json) |
 | Treasure Tech | 140468 | [140468-treasure-tech.json](./140468-treasure-tech.json) |
 | Treasure Tomb VR | 153375 | [153375-treasure-tomb-vr.json](./153375-treasure-tomb-vr.json) |
+| Treasure Tombs: Ra Deal | 250487 | [250487-treasure-tombs-ra-deal.json](./250487-treasure-tombs-ra-deal.json) |
 | Treasure Trap | 70936 | [70936-treasure-trap.json](./70936-treasure-trap.json) |
 | Treasure Trove Through Time | 176282 | [176282-treasure-trove-through-time.json](./176282-treasure-trove-through-time.json) |
 | Treasure World | 21125 | [21125-treasure-world.json](./21125-treasure-world.json) |
@@ -16851,6 +16857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type Dreams | 116969 | [116969-type-dreams.json](./116969-type-dreams.json) |
 | Type Galaxy | 310065 | [310065-type-galaxy.json](./310065-type-galaxy.json) |
 | Type II | 124273 | [124273-type-ii.json](./124273-type-ii.json) |
+| Type King | 250477 | [250477-type-king.json](./250477-type-king.json) |
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
 | Type the Rhythm | 389582 | [389582-type-the-rhythm.json](./389582-type-the-rhythm.json) |
 | Type to Learn 3 | 186073 | [186073-type-to-learn-3.json](./186073-type-to-learn-3.json) |
