@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Blood: Beyond the Darkness | 291612 | [291612-dark-blood-beyond-the-darkness.json](./291612-dark-blood-beyond-the-darkness.json) |
 | Dark Bows | 285000 | [285000-dark-bows.json](./285000-dark-bows.json) |
 | Dark Break | 64887 | [64887-dark-break.json](./64887-dark-break.json) |
+| Dark Bunny | 258609 | [258609-dark-bunny.json](./258609-dark-bunny.json) |
 | Dark Burial: Enhanced Edition | 238617 | [238617-dark-burial-enhanced-edition.json](./238617-dark-burial-enhanced-edition.json) |
 | Dark Canvas Collection | 146305 | [146305-dark-canvas-collection.json](./146305-dark-canvas-collection.json) |
 | Dark Canvas: A Murder Exposed - Collector's Edition | 95240 | [95240-dark-canvas-a-murder-exposed-collectors-edition.json](./95240-dark-canvas-a-murder-exposed-collectors-edition.json) |
@@ -3429,6 +3430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Demolition Starring Road Runner and Wile E. Coyote | 4518 | [4518-desert-demolition-starring-road-runner-and-wile-e-coyote.json](./4518-desert-demolition-starring-road-runner-and-wile-e-coyote.json) |
 | Desert Dive | 317425 | [317425-desert-dive.json](./317425-desert-dive.json) |
 | Desert Domination | 122922 | [122922-desert-domination.json](./122922-desert-domination.json) |
+| Desert Dungeons | 258635 | [258635-desert-dungeons.json](./258635-desert-dungeons.json) |
 | Desert Force: Rescue Mission | 259072 | [259072-desert-force-rescue-mission.json](./259072-desert-force-rescue-mission.json) |
 | Desert Gunner | 17116 | [17116-desert-gunner.json](./17116-desert-gunner.json) |
 | Desert Island 64 | 231508 | [231508-desert-island-64.json](./231508-desert-island-64.json) |
@@ -6382,6 +6384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Kingdom: Medieval | 338335 | [338335-doodle-kingdom-medieval.json](./338335-doodle-kingdom-medieval.json) |
 | Doodle Mafia: Crime City | 146741 | [146741-doodle-mafia-crime-city.json](./146741-doodle-mafia-crime-city.json) |
 | Doodle Sprint! | 134445 | [134445-doodle-sprint.json](./134445-doodle-sprint.json) |
+| Doodle Taxi | 258605 | [258605-doodle-taxi.json](./258605-doodle-taxi.json) |
 | Doodle TD 2 | 295800 | [295800-doodle-td-2.json](./295800-doodle-td-2.json) |
 | Doodle UFO | 246972 | [246972-doodle-ufo.json](./246972-doodle-ufo.json) |
 | Doodle War | 88102 | [88102-doodle-war.json](./88102-doodle-war.json) |
