@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C14 Dating | 33280 | [33280-c14-dating.json](./33280-c14-dating.json) |
 | C15: Horror | 121001 | [121001-c15-horror.json](./121001-c15-horror.json) |
 | C17 | 253346 | [253346-c17.json](./253346-c17.json) |
+| C21: Steel Battle Chronicles | 240373 | [240373-c21-steel-battle-chronicles.json](./240373-c21-steel-battle-chronicles.json) |
 | C2H6O | 69384 | [69384-c2h6o.json](./69384-c2h6o.json) |
 | C5 Clive | 86025 | [86025-c5-clive.json](./86025-c5-clive.json) |
 | C64 & Amiga Classix Remakes Sixpack | 94773 | [94773-c64-and-amiga-classix-remakes-sixpack.json](./94773-c64-and-amiga-classix-remakes-sixpack.json) |
