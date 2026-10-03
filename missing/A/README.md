@@ -4183,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Imp and an Impostor | 378174 | [378174-an-imp-and-an-impostor.json](./378174-an-imp-and-an-impostor.json) |
 | An Incremental Game About Placing Blocks | 390177 | [390177-an-incremental-game-about-placing-blocks.json](./390177-an-incremental-game-about-placing-blocks.json) |
 | An Indie Game a Month: Unreal Journey | 190973 | [190973-an-indie-game-a-month-unreal-journey.json](./190973-an-indie-game-a-month-unreal-journey.json) |
+| An Inner Walk | 251061 | [251061-an-inner-walk.json](./251061-an-inner-walk.json) |
 | An Introvert's Nightmare | 381762 | [381762-an-introverts-nightmare.json](./381762-an-introverts-nightmare.json) |
 | An Island Away | 293090 | [293090-an-island-away.json](./293090-an-island-away.json) |
 | An Ocean Game | 360588 | [360588-an-ocean-game.json](./360588-an-ocean-game.json) |
@@ -5981,6 +5982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Classic No. 2: Centipede / Millipede | 117924 | [117924-arcade-classic-no-2-centipede-millipede.json](./117924-arcade-classic-no-2-centipede-millipede.json) |
 | Arcade Classics: Seawolf II and Gun Fight | 130282 | [130282-arcade-classics-seawolf-ii-and-gun-fight.json](./130282-arcade-classics-seawolf-ii-and-gun-fight.json) |
 | Arcade Crossy Road | 228367 | [228367-arcade-crossy-road.json](./228367-arcade-crossy-road.json) |
+| Arcade Daze | 251088 | [251088-arcade-daze.json](./251088-arcade-daze.json) |
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
 | Arcade Fusion Bundle | 300764 | [300764-arcade-fusion-bundle.json](./300764-arcade-fusion-bundle.json) |
 | Arcade Galaxy | 346596 | [346596-arcade-galaxy.json](./346596-arcade-galaxy.json) |
