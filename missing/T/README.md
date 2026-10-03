@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tali: A Roman Empire Game of Chance | 344489 | [344489-tali-a-roman-empire-game-of-chance.json](./344489-tali-a-roman-empire-game-of-chance.json) |
 | Talisman Online | 140560 | [140560-talisman-online.json](./140560-talisman-online.json) |
 | Talisman: Digital Classic Edition | 337748 | [337748-talisman-digital-classic-edition.json](./337748-talisman-digital-classic-edition.json) |
+| Talisman: Digital Edition - 40th Anniversary Edition | 270312 | [270312-talisman-digital-edition-40th-anniversary-edition.json](./270312-talisman-digital-edition-40th-anniversary-edition.json) |
 | Talisman: Digital Edition - Apprentice Mage | 149053 | [149053-talisman-digital-edition-apprentice-mage.json](./149053-talisman-digital-edition-apprentice-mage.json) |
 | Talisman: Digital Edition - Black Witch | 149069 | [149069-talisman-digital-edition-black-witch.json](./149069-talisman-digital-edition-black-witch.json) |
 | Talisman: Digital Edition - Courtesan | 149065 | [149065-talisman-digital-edition-courtesan.json](./149065-talisman-digital-edition-courtesan.json) |
@@ -2027,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempus Bound | 156997 | [156997-tempus-bound.json](./156997-tempus-bound.json) |
 | Tempus Chronicle | 63536 | [63536-tempus-chronicle.json](./63536-tempus-chronicle.json) |
 | Tempus Denique | 177998 | [177998-tempus-denique.json](./177998-tempus-denique.json) |
+| Tempus Irae | 270319 | [270319-tempus-irae.json](./270319-tempus-irae.json) |
 | Tempus is the Ignis | 271319 | [271319-tempus-is-the-ignis.json](./271319-tempus-is-the-ignis.json) |
 | Tempus Vitae | 404455 | [404455-tempus-vitae.json](./404455-tempus-vitae.json) |
 | Temtem: Collector's Edition | 206674 | [206674-temtem-collectors-edition.json](./206674-temtem-collectors-edition.json) |
@@ -9765,6 +9767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thea 2: Rat Tales & More | 249721 | [249721-thea-2-rat-tales-and-more.json](./249721-thea-2-rat-tales-and-more.json) |
 | Thea Bundle | 192306 | [192306-thea-bundle.json](./192306-thea-bundle.json) |
 | Thea is Drowning | 179072 | [179072-thea-is-drowning.json](./179072-thea-is-drowning.json) |
+| Thea Realm Fighters | 270273 | [270273-thea-realm-fighters.json](./270273-thea-realm-fighters.json) |
 | Theater of Death | 206191 | [206191-theater-of-death.json](./206191-theater-of-death.json) |
 | Theater of the Mind | 366286 | [366286-theater-of-the-mind.json](./366286-theater-of-the-mind.json) |
 | Theatre of Death | 15483 | [15483-theatre-of-death.json](./15483-theatre-of-death.json) |
@@ -11896,6 +11899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Toon Adventures: Buster Busts Loose! | 8050 | [8050-tiny-toon-adventures-buster-busts-loose.json](./8050-tiny-toon-adventures-buster-busts-loose.json) |
 | Tiny Toon Adventures: Buster's Hidden Treasure | 8049 | [8049-tiny-toon-adventures-busters-hidden-treasure.json](./8049-tiny-toon-adventures-busters-hidden-treasure.json) |
 | Tiny Toon Adventures: Defenders of the Universe | 206214 | [206214-tiny-toon-adventures-defenders-of-the-universe.json](./206214-tiny-toon-adventures-defenders-of-the-universe.json) |
+| Tiny Toon Adventures: Plucky Duck in Hollywood Hijinks | 270276 | [270276-tiny-toon-adventures-plucky-duck-in-hollywood-hijinks.json](./270276-tiny-toon-adventures-plucky-duck-in-hollywood-hijinks.json) |
 | Tiny Toon Adventures: Wacky Sports Challenge | 8051 | [8051-tiny-toon-adventures-wacky-sports-challenge.json](./8051-tiny-toon-adventures-wacky-sports-challenge.json) |
 | Tiny Tots | 360719 | [360719-tiny-tots.json](./360719-tiny-tots.json) |
 | Tiny Touchdown | 241058 | [241058-tiny-touchdown.json](./241058-tiny-touchdown.json) |
@@ -14413,6 +14417,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Tycoon | 152866 | [152866-train-tycoon.json](./152866-train-tycoon.json) |
 | Train Valley 2: Editor's Bulletin | 243140 | [243140-train-valley-2-editors-bulletin.json](./243140-train-valley-2-editors-bulletin.json) |
 | Train Valley 2: Workshop Gems - Ruby | 219540 | [219540-train-valley-2-workshop-gems-ruby.json](./219540-train-valley-2-workshop-gems-ruby.json) |
+| Train Valley Collection | 270317 | [270317-train-valley-collection.json](./270317-train-valley-collection.json) |
+| Train Valley Collection: Deluxe Edition | 270318 | [270318-train-valley-collection-deluxe-edition.json](./270318-train-valley-collection-deluxe-edition.json) |
 | Train Valley: Console Edition | 210746 | [210746-train-valley-console-edition.json](./210746-train-valley-console-edition.json) |
 | Train Valley: Deluxe Edition | 53857 | [53857-train-valley-deluxe-edition.json](./53857-train-valley-deluxe-edition.json) |
 | Train Valley: Germany | 154507 | [154507-train-valley-germany.json](./154507-train-valley-germany.json) |
@@ -15596,6 +15602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trog Smash Island | 296081 | [296081-trog-smash-island.json](./296081-trog-smash-island.json) |
 | Trois Mouvements Perpétuels | 277291 | [277291-trois-mouvements-perpetuels.json](./277291-trois-mouvements-perpetuels.json) |
 | Trojan | 236835 | [236835-trojan.json](./236835-trojan.json) |
+| Trojan | 270316 | [270316-trojan.json](./270316-trojan.json) |
 | Trojan | 287583 | [287583-trojan.json](./287583-trojan.json) |
 | Trojan | 39993 | [39993-trojan.json](./39993-trojan.json) |
 | Troll | 375849 | [375849-troll.json](./375849-troll.json) |
@@ -16220,6 +16227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn Run | 105124 | [105124-turn-run.json](./105124-turn-run.json) |
 | Turn Tack | 197919 | [197919-turn-tack.json](./197919-turn-tack.json) |
 | Turn the mirror, please. | 111849 | [111849-turn-the-mirror-please.json](./111849-turn-the-mirror-please.json) |
+| Turn-Based Battle Bundle: The Amazing American Circus & Legend of Keepers | 270303 | [270303-turn-based-battle-bundle-the-amazing-american-circus-and-legend-of-keepers.json](./270303-turn-based-battle-bundle-the-amazing-american-circus-and-legend-of-keepers.json) |
 | Turn-Based Champion | 99664 | [99664-turn-based-champion.json](./99664-turn-based-champion.json) |
 | Turn-Based Invaders From Space! | 184074 | [184074-turn-based-invaders-from-space.json](./184074-turn-based-invaders-from-space.json) |
 | Turn: The Lost Artifact | 85457 | [85457-turn-the-lost-artifact.json](./85457-turn-the-lost-artifact.json) |
