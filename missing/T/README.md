@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Building | 212469 | [212469-tap-building.json](./212469-tap-building.json) |
 | Tap Cat RPG: Simple Emoji Cat Idle Game | 297642 | [297642-tap-cat-rpg-simple-emoji-cat-idle-game.json](./297642-tap-cat-rpg-simple-emoji-cat-idle-game.json) |
 | Tap City | 259079 | [259079-tap-city.json](./259079-tap-city.json) |
+| Tap City Tycoon | 256434 | [256434-tap-city-tycoon.json](./256434-tap-city-tycoon.json) |
 | Tap Craft | 239048 | [239048-tap-craft.json](./239048-tap-craft.json) |
 | Tap Crush Jewels | 90679 | [90679-tap-crush-jewels.json](./90679-tap-crush-jewels.json) |
 | Tap Dash | 252140 | [252140-tap-dash.json](./252140-tap-dash.json) |
@@ -1573,17 +1574,29 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Fortress 2 Classic: Community Edition | 360756 | [360756-team-fortress-2-classic-community-edition.json](./360756-team-fortress-2-classic-community-edition.json) |
 | Team Fortress 2 Classic: Death & Taxes | 261461 | [261461-team-fortress-2-classic-death-and-taxes.json](./261461-team-fortress-2-classic-death-and-taxes.json) |
 | Team Fortress 2 Classic: Fight or Flight | 261467 | [261467-team-fortress-2-classic-fight-or-flight.json](./261467-team-fortress-2-classic-fight-or-flight.json) |
+| Team Fortress 2: 119th Update | 256441 | [256441-team-fortress-2-119th-update.json](./256441-team-fortress-2-119th-update.json) |
+| Team Fortress 2: A Heavy Update | 256412 | [256412-team-fortress-2-a-heavy-update.json](./256412-team-fortress-2-a-heavy-update.json) |
+| Team Fortress 2: Australian Christmas | 256447 | [256447-team-fortress-2-australian-christmas.json](./256447-team-fortress-2-australian-christmas.json) |
 | Team Fortress 2: End of the Line Update | 256883 | [256883-team-fortress-2-end-of-the-line-update.json](./256883-team-fortress-2-end-of-the-line-update.json) |
 | Team Fortress 2: Gold Rush | 335705 | [335705-team-fortress-2-gold-rush.json](./335705-team-fortress-2-gold-rush.json) |
 | Team Fortress 2: Gold Rush Update | 256372 | [256372-team-fortress-2-gold-rush-update.json](./256372-team-fortress-2-gold-rush-update.json) |
 | Team Fortress 2: Jungle Inferno | 256968 | [256968-team-fortress-2-jungle-inferno.json](./256968-team-fortress-2-jungle-inferno.json) |
 | Team Fortress 2: Love & War Update | 256882 | [256882-team-fortress-2-love-and-war-update.json](./256882-team-fortress-2-love-and-war-update.json) |
 | Team Fortress 2: Mann vs. Machine - Two Cities Update | 256881 | [256881-team-fortress-2-mann-vs-machine-two-cities-update.json](./256881-team-fortress-2-mann-vs-machine-two-cities-update.json) |
+| Team Fortress 2: Mann-Conomy Update | 256445 | [256445-team-fortress-2-mann-conomy-update.json](./256445-team-fortress-2-mann-conomy-update.json) |
 | Team Fortress 2: Mecha Update | 256782 | [256782-team-fortress-2-mecha-update.json](./256782-team-fortress-2-mecha-update.json) |
 | Team Fortress 2: Randomizer | 362981 | [362981-team-fortress-2-randomizer.json](./362981-team-fortress-2-randomizer.json) |
 | Team Fortress 2: Rebalanced | 400339 | [400339-team-fortress-2-rebalanced.json](./400339-team-fortress-2-rebalanced.json) |
 | Team Fortress 2: Robotic Boogaloo | 256783 | [256783-team-fortress-2-robotic-boogaloo.json](./256783-team-fortress-2-robotic-boogaloo.json) |
+| Team Fortress 2: Terrifying Team Fortress Haunted Hallowe'en Special | 256427 | [256427-team-fortress-2-terrifying-team-fortress-haunted-halloween-special.json](./256427-team-fortress-2-terrifying-team-fortress-haunted-halloween-special.json) |
+| Team Fortress 2: The Engineer Update | 256444 | [256444-team-fortress-2-the-engineer-update.json](./256444-team-fortress-2-the-engineer-update.json) |
+| Team Fortress 2: The First Ever Classless Update | 256415 | [256415-team-fortress-2-the-first-ever-classless-update.json](./256415-team-fortress-2-the-first-ever-classless-update.json) |
 | Team Fortress 2: The Gun Mettle Update | 256889 | [256889-team-fortress-2-the-gun-mettle-update.json](./256889-team-fortress-2-the-gun-mettle-update.json) |
+| Team Fortress 2: The Mac Update | 256442 | [256442-team-fortress-2-the-mac-update.json](./256442-team-fortress-2-the-mac-update.json) |
+| Team Fortress 2: The Scout Update | 256413 | [256413-team-fortress-2-the-scout-update.json](./256413-team-fortress-2-the-scout-update.json) |
+| Team Fortress 2: The Second Annu-Hell Scream Fortress Hauntdead Halloween Special | 256446 | [256446-team-fortress-2-the-second-annu-hell-scream-fortress-hauntdead-halloween-special.json](./256446-team-fortress-2-the-second-annu-hell-scream-fortress-hauntdead-halloween-special.json) |
+| Team Fortress 2: The Sniper vs. Spy Update | 256414 | [256414-team-fortress-2-the-sniper-vs-spy-update.json](./256414-team-fortress-2-the-sniper-vs-spy-update.json) |
+| Team Fortress 2: War! Update | 256431 | [256431-team-fortress-2-war-update.json](./256431-team-fortress-2-war-update.json) |
 | Team Fortress 2008 | 339412 | [339412-team-fortress-2008.json](./339412-team-fortress-2008.json) |
 | Team Fortress Classic | 6359 | [6359-team-fortress-classic.json](./6359-team-fortress-classic.json) |
 | Team Fortress Kart | 371244 | [371244-team-fortress-kart.json](./371244-team-fortress-kart.json) |
@@ -7997,6 +8010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
 | The Road Less Taken | 219122 | [219122-the-road-less-taken.json](./219122-the-road-less-taken.json) |
 | The Road Not Taken | 349968 | [349968-the-road-not-taken.json](./349968-the-road-not-taken.json) |
+| The Road to 56 | 256449 | [256449-the-road-to-56.json](./256449-the-road-to-56.json) |
 | The Road to Baghdad | 24108 | [24108-the-road-to-baghdad.json](./24108-the-road-to-baghdad.json) |
 | The Road To Druaga | 339383 | [339383-the-road-to-druaga.json](./339383-the-road-to-druaga.json) |
 | The Road to Gettysburg | 24885 | [24885-the-road-to-gettysburg.json](./24885-the-road-to-gettysburg.json) |
@@ -10313,6 +10327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thousand Island Solitaire | 206225 | [206225-thousand-island-solitaire.json](./206225-thousand-island-solitaire.json) |
 | Thousand Island Solitaire HD | 355004 | [355004-thousand-island-solitaire-hd.json](./355004-thousand-island-solitaire-hd.json) |
 | Thousand N' Thousand: Mimico | 376665 | [376665-thousand-n-thousand-mimico.json](./376665-thousand-n-thousand-mimico.json) |
+| Thousand Week Reich | 256452 | [256452-thousand-week-reich.json](./256452-thousand-week-reich.json) |
 | Thousands Layered Blade: Reforged | 327168 | [327168-thousands-layered-blade-reforged.json](./327168-thousands-layered-blade-reforged.json) |
 | Thousands Rooms Under the Reality | 258091 | [258091-thousands-rooms-under-the-reality.json](./258091-thousands-rooms-under-the-reality.json) |
 | Thrall of the Dying Sun | 177517 | [177517-thrall-of-the-dying-sun.json](./177517-thrall-of-the-dying-sun.json) |
@@ -10653,6 +10668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tide: 1927 | 368034 | [368034-tide-1927.json](./368034-tide-1927.json) |
 | Tideborne | 378363 | [378363-tideborne.json](./378363-tideborne.json) |
 | Tideborne Haven | 402429 | [402429-tideborne-haven.json](./402429-tideborne-haven.json) |
+| Tides of Dominion | 256419 | [256419-tides-of-dominion.json](./256419-tides-of-dominion.json) |
 | Tides of Existence | 126504 | [126504-tides-of-existence.json](./126504-tides-of-existence.json) |
 | Tides of Tethys | 307832 | [307832-tides-of-tethys.json](./307832-tides-of-tethys.json) |
 | Tides of the Endless | 345037 | [345037-tides-of-the-endless.json](./345037-tides-of-the-endless.json) |
