@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Forces: WWII - Desert Rats | 23470 | [23470-elite-forces-wwii-desert-rats.json](./23470-elite-forces-wwii-desert-rats.json) |
 | Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
 | Elite Shooter: Sniper Killer | 175696 | [175696-elite-shooter-sniper-killer.json](./175696-elite-shooter-sniper-killer.json) |
+| Elite Soldier: Modern Gun Shooter and Tank Combat | 272490 | [272490-elite-soldier-modern-gun-shooter-and-tank-combat.json](./272490-elite-soldier-modern-gun-shooter-and-tank-combat.json) |
 | Elite Sports Gaming Football | 358359 | [358359-elite-sports-gaming-football.json](./358359-elite-sports-gaming-football.json) |
 | Elite Star Fighter | 117506 | [117506-elite-star-fighter.json](./117506-elite-star-fighter.json) |
 | Elite Starfighter | 59932 | [59932-elite-starfighter.json](./59932-elite-starfighter.json) |
@@ -1550,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emperor: Battle for Dune | 89 | [89-emperor-battle-for-dune.json](./89-emperor-battle-for-dune.json) |
 | Emperor: Rise of the Middle Kingdom | 7512 | [7512-emperor-rise-of-the-middle-kingdom.json](./7512-emperor-rise-of-the-middle-kingdom.json) |
 | Empire | 105227 | [105227-empire.json](./105227-empire.json) |
+| Empire | 272474 | [272474-empire.json](./272474-empire.json) |
 | Empire Builder: Europe | 322708 | [322708-empire-builder-europe.json](./322708-empire-builder-europe.json) |
 | Empire Chronicles | 163985 | [163985-empire-chronicles.json](./163985-empire-chronicles.json) |
 | Empire Classic | 11395 | [11395-empire-classic.json](./11395-empire-classic.json) |
@@ -3262,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eventide Escape | 83952 | [83952-eventide-escape.json](./83952-eventide-escape.json) |
 | Eventide Night | 28940 | [28940-eventide-night.json](./28940-eventide-night.json) |
 | Events | 339278 | [339278-events.json](./339278-events.json) |
+| Eventyr | 272476 | [272476-eventyr.json](./272476-eventyr.json) |
 | Ever 17: The Out of Infinity | 323127 | [323127-ever-17-the-out-of-infinity.json](./323127-ever-17-the-out-of-infinity.json) |
 | Ever After Again: A Stories Adventure | 414459 | [414459-ever-after-again-a-stories-adventure.json](./414459-ever-after-again-a-stories-adventure.json) |
 | Ever Fallen Empire | 189947 | [189947-ever-fallen-empire.json](./189947-ever-fallen-empire.json) |
@@ -4046,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyeball-watching flowers bloom | 186019 | [186019-eyeball-watching-flowers-bloom.json](./186019-eyeball-watching-flowers-bloom.json) |
 | Eyeballs are your Enemies! | 166603 | [166603-eyeballs-are-your-enemies.json](./166603-eyeballs-are-your-enemies.json) |
 | Eyeboss | 181906 | [181906-eyeboss.json](./181906-eyeboss.json) |
+| Eyeland 2 | 272469 | [272469-eyeland-2.json](./272469-eyeland-2.json) |
 | Eyeless | 269310 | [269310-eyeless.json](./269310-eyeless.json) |
 | Eyeless Jack | 300016 | [300016-eyeless-jack.json](./300016-eyeless-jack.json) |
 | Eyelord | 5559 | [5559-eyelord.json](./5559-eyelord.json) |
