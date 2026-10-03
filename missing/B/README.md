@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad 2 Bad: Delta | 96000 | [96000-bad-2-bad-delta.json](./96000-bad-2-bad-delta.json) |
 | Bad 2 Bad: Extinction | 227245 | [227245-bad-2-bad-extinction.json](./227245-bad-2-bad-extinction.json) |
 | Bad 4 Business | 346221 | [346221-bad-4-business.json](./346221-bad-4-business.json) |
+| Bad animals: Rabbit | 227978 | [227978-bad-animals-rabbit.json](./227978-bad-animals-rabbit.json) |
 | Bad Apple Wars | 12884 | [12884-bad-apple-wars.json](./12884-bad-apple-wars.json) |
 | Bad Apples | 141636 | [141636-bad-apples.json](./141636-bad-apples.json) |
 | Bad Bad | 195235 | [195235-bad-bad.json](./195235-bad-bad.json) |
@@ -3397,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Fiends Forever | 57363 | [57363-best-fiends-forever.json](./57363-best-fiends-forever.json) |
 | Best Fighter | 283991 | [283991-best-fighter.json](./283991-best-fighter.json) |
 | Best Friends Forever | 183442 | [183442-best-friends-forever.json](./183442-best-friends-forever.json) |
+| Best Friends Forever | 227888 | [227888-best-friends-forever.json](./227888-best-friends-forever.json) |
 | Best Friends: My Horse 3D | 84983 | [84983-best-friends-my-horse-3d.json](./84983-best-friends-my-horse-3d.json) |
 | Best Garden | 135238 | [135238-best-garden.json](./135238-best-garden.json) |
 | Best Hero | 377573 | [377573-best-hero.json](./377573-best-hero.json) |
@@ -4662,6 +4664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Queen | 13697 | [13697-black-queen.json](./13697-black-queen.json) |
 | Black Rainbow | 370780 | [370780-black-rainbow.json](./370780-black-rainbow.json) |
 | Black Raven | 330354 | [330354-black-raven.json](./330354-black-raven.json) |
+| Black Relic | 227909 | [227909-black-relic.json](./227909-black-relic.json) |
 | Black Resin | 142278 | [142278-black-resin.json](./142278-black-resin.json) |
 | Black River | 29661 | [29661-black-river.json](./29661-black-river.json) |
 | Black Robinia | 59420 | [59420-black-robinia.json](./59420-black-robinia.json) |
