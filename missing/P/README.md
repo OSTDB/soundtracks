@@ -2659,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour 2K25: Legend Edition | 328082 | [328082-pga-tour-2k25-legend-edition.json](./328082-pga-tour-2k25-legend-edition.json) |
 | PGA Tour 96 TPC at Sawgrass Championship Course | 209982 | [209982-pga-tour-96-tpc-at-sawgrass-championship-course.json](./209982-pga-tour-96-tpc-at-sawgrass-championship-course.json) |
 | PGA Tour 96: Wentworth | 209981 | [209981-pga-tour-96-wentworth.json](./209981-pga-tour-96-wentworth.json) |
+| PGA Tour Golf | 245425 | [245425-pga-tour-golf.json](./245425-pga-tour-golf.json) |
 | PGA Tour Golf 486 | 94530 | [94530-pga-tour-golf-486.json](./94530-pga-tour-golf-486.json) |
 | PGA Tour Golf II | 368635 | [368635-pga-tour-golf-ii.json](./368635-pga-tour-golf-ii.json) |
 | PGA Tour Golf: The Monterey Courses | 206170 | [206170-pga-tour-golf-the-monterey-courses.json](./206170-pga-tour-golf-the-monterey-courses.json) |
