@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yesterday's Nightmare | 274225 | [274225-yesterdays-nightmare.json](./274225-yesterdays-nightmare.json) |
 | Yesterdreamt | 216806 | [216806-yesterdreamt.json](./216806-yesterdreamt.json) |
 | YesterMorrow | 120533 | [120533-yestermorrow.json](./120533-yestermorrow.json) |
+| YesterSol | 236885 | [236885-yestersol.json](./236885-yestersol.json) |
 | Yet Another Avoider | 412978 | [412978-yet-another-avoider.json](./412978-yet-another-avoider.json) |
 | Yet Another Fantasy Title | 209469 | [209469-yet-another-fantasy-title.json](./209469-yet-another-fantasy-title.json) |
 | Yet Another FireRed Hack | 377801 | [377801-yet-another-firered-hack.json](./377801-yet-another-firered-hack.json) |
