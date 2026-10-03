@@ -3598,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiku Chiku Beach | 22462 | [22462-chiku-chiku-beach.json](./22462-chiku-chiku-beach.json) |
 | Chikudenya Toubee | 42039 | [42039-chikudenya-toubee.json](./42039-chikudenya-toubee.json) |
 | Chikudenya Toubei | 59354 | [59354-chikudenya-toubei.json](./59354-chikudenya-toubei.json) |
+| ChikuTaku | 233035 | [233035-chikutaku.json](./233035-chikutaku.json) |
 | Chiky Poky | 221184 | [221184-chiky-poky.json](./221184-chiky-poky.json) |
 | Chikyuu Bouei Shoujo Iko-chan: UFO Daisakusen | 58781 | [58781-chikyuu-bouei-shoujo-iko-chan-ufo-daisakusen.json](./58781-chikyuu-bouei-shoujo-iko-chan-ufo-daisakusen.json) |
 | Chikyuu Kaihou Gun ZAS | 91883 | [91883-chikyuu-kaihou-gun-zas.json](./91883-chikyuu-kaihou-gun-zas.json) |
@@ -5826,6 +5827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collateral Dungeon | 290958 | [290958-collateral-dungeon.json](./290958-collateral-dungeon.json) |
 | Collect Baby Oil | 329679 | [329679-collect-baby-oil.json](./329679-collect-baby-oil.json) |
 | Collect Call | 288764 | [288764-collect-call.json](./288764-collect-call.json) |
+| Collect iT 3D | 233123 | [233123-collect-it-3d.json](./233123-collect-it-3d.json) |
 | Collectamon | 262949 | [262949-collectamon.json](./262949-collectamon.json) |
 | Collectems | 61053 | [61053-collectems.json](./61053-collectems.json) |
 | Collectible Card Shop Master | 324988 | [324988-collectible-card-shop-master.json](./324988-collectible-card-shop-master.json) |
