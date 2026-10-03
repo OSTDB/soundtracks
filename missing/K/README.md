@@ -1575,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Pit | 165647 | [165647-king-of-the-pit.json](./165647-king-of-the-pit.json) |
 | King of the Road | 19792 | [19792-king-of-the-road.json](./19792-king-of-the-road.json) |
 | King of the Sandcastle | 129566 | [129566-king-of-the-sandcastle.json](./129566-king-of-the-sandcastle.json) |
+| King of the Times | 269225 | [269225-king-of-the-times.json](./269225-king-of-the-times.json) |
 | King of Thieves | 39216 | [39216-king-of-thieves.json](./39216-king-of-thieves.json) |
 | King of Tokyo | 391281 | [391281-king-of-tokyo.json](./391281-king-of-tokyo.json) |
 | King of Unblock | 101524 | [101524-king-of-unblock.json](./101524-king-of-unblock.json) |
