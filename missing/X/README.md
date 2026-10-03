@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xontainer Meta Space | 329156 | [329156-xontainer-meta-space.json](./329156-xontainer-meta-space.json) |
 | Xoo: Xeno Xafari | 149000 | [149000-xoo-xeno-xafari.json](./149000-xoo-xeno-xafari.json) |
 | Xoo: Xeno Xafari | 387523 | [387523-xoo-xeno-xafari.json](./387523-xoo-xeno-xafari.json) |
+| XOP Black Ultra | 275256 | [275256-xop-black-ultra.json](./275256-xop-black-ultra.json) |
 | Xorbius | 384665 | [384665-xorbius.json](./384665-xorbius.json) |
 | XorceD - Sashiro's Laedrum | 33432 | [33432-xorced-sashiros-laedrum.json](./33432-xorced-sashiros-laedrum.json) |
 | Xordle | 197903 | [197903-xordle.json](./197903-xordle.json) |
