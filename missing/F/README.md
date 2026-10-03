@@ -3567,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FL Frisky Tom | 300009 | [300009-fl-frisky-tom.json](./300009-fl-frisky-tom.json) |
 | FL Tron | 286629 | [286629-fl-tron.json](./286629-fl-tron.json) |
 | Fl337 | 34361 | [34361-fl337.json](./34361-fl337.json) |
+| Flabby Santa | 249368 | [249368-flabby-santa.json](./249368-flabby-santa.json) |
 | Flag Clicker | 304375 | [304375-flag-clicker.json](./304375-flag-clicker.json) |
 | Flag Color Number: Painting and Coloring | 147382 | [147382-flag-color-number-painting-and-coloring.json](./147382-flag-color-number-painting-and-coloring.json) |
 | Flag Defender! | 262656 | [262656-flag-defender.json](./262656-flag-defender.json) |
