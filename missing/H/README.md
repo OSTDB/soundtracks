@@ -6139,6 +6139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown - Deluxe Edition | 146115 | [146115-hunt-showdown-deluxe-edition.json](./146115-hunt-showdown-deluxe-edition.json) |
 | Hunt: Showdown - Fear the Reaper | 224219 | [224219-hunt-showdown-fear-the-reaper.json](./224219-hunt-showdown-fear-the-reaper.json) |
 | Hunt: Showdown - Gold Edition | 146137 | [146137-hunt-showdown-gold-edition.json](./146137-hunt-showdown-gold-edition.json) |
+| Hunt: Showdown - Limited Bounty Hunter Edition | 229120 | [229120-hunt-showdown-limited-bounty-hunter-edition.json](./229120-hunt-showdown-limited-bounty-hunter-edition.json) |
 | Hunt: Showdown - Meridian Turncoat | 196158 | [196158-hunt-showdown-meridian-turncoat.json](./196158-hunt-showdown-meridian-turncoat.json) |
 | Hunt: Showdown - The Concubine | 226206 | [226206-hunt-showdown-the-concubine.json](./226206-hunt-showdown-the-concubine.json) |
 | Hunt: Showdown - Through the Bone Briar | 166069 | [166069-hunt-showdown-through-the-bone-briar.json](./166069-hunt-showdown-through-the-bone-briar.json) |
