@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Angels: Realm of Goddess | 260112 | [260112-idle-angels-realm-of-goddess.json](./260112-idle-angels-realm-of-goddess.json) |
 | Idle Animal Anatomy | 290515 | [290515-idle-animal-anatomy.json](./290515-idle-animal-anatomy.json) |
 | Idle Anomaly: Alien Control | 244998 | [244998-idle-anomaly-alien-control.json](./244998-idle-anomaly-alien-control.json) |
+| Idle Ants | 248166 | [248166-idle-ants.json](./248166-idle-ants.json) |
 | Idle Apocalypse | 105519 | [105519-idle-apocalypse.json](./105519-idle-apocalypse.json) |
 | Idle Aqua Driller | 407342 | [407342-idle-aqua-driller.json](./407342-idle-aqua-driller.json) |
 | Idle Arcade Tycoon | 214171 | [214171-idle-arcade-tycoon.json](./214171-idle-arcade-tycoon.json) |
@@ -760,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Devils: New Character - Lucifer | 399806 | [399806-idle-devils-new-character-lucifer.json](./399806-idle-devils-new-character-lucifer.json) |
 | Idle Devils: New Character - Samael | 399807 | [399807-idle-devils-new-character-samael.json](./399807-idle-devils-new-character-samael.json) |
 | Idle Devils: Ultimate Edition | 399809 | [399809-idle-devils-ultimate-edition.json](./399809-idle-devils-ultimate-edition.json) |
+| Idle Dice 2 | 248164 | [248164-idle-dice-2.json](./248164-idle-dice-2.json) |
 | Idle Dig Gold: Craft Adventure | 248105 | [248105-idle-dig-gold-craft-adventure.json](./248105-idle-dig-gold-craft-adventure.json) |
 | Idle Dino | 340517 | [340517-idle-dino.json](./340517-idle-dino.json) |
 | Idle Dragon Clicker: Expansion Pack 1 | 263188 | [263188-idle-dragon-clicker-expansion-pack-1.json](./263188-idle-dragon-clicker-expansion-pack-1.json) |
@@ -810,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Lust: Succubus in Training | 340515 | [340515-idle-lust-succubus-in-training.json](./340515-idle-lust-succubus-in-training.json) |
 | Idle Mafia | 245379 | [245379-idle-mafia.json](./245379-idle-mafia.json) |
 | Idle Mage Attack | 101745 | [101745-idle-mage-attack.json](./101745-idle-mage-attack.json) |
+| Idle Magic Clicker | 248165 | [248165-idle-magic-clicker.json](./248165-idle-magic-clicker.json) |
 | Idle magic herb | 215681 | [215681-idle-magic-herb.json](./215681-idle-magic-herb.json) |
 | Idle Magic Legend | 252282 | [252282-idle-magic-legend.json](./252282-idle-magic-legend.json) |
 | Idle Magic School | 281449 | [281449-idle-magic-school.json](./281449-idle-magic-school.json) |
@@ -870,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Tides | 409814 | [409814-idle-tides.json](./409814-idle-tides.json) |
 | Idle Tiers | 369577 | [369577-idle-tiers.json](./369577-idle-tiers.json) |
 | Idle to Level 1000 | 359570 | [359570-idle-to-level-1000.json](./359570-idle-to-level-1000.json) |
+| Idle Tower Defense | 248156 | [248156-idle-tower-defense.json](./248156-idle-tower-defense.json) |
 | Idle Tower Tycoon | 101522 | [101522-idle-tower-tycoon.json](./101522-idle-tower-tycoon.json) |
 | Idle Towers | 357844 | [357844-idle-towers.json](./357844-idle-towers.json) |
 | Idle Town Billionaire | 340513 | [340513-idle-town-billionaire.json](./340513-idle-town-billionaire.json) |
@@ -2978,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Lord | 12158 | [12158-iron-lord.json](./12158-iron-lord.json) |
 | Iron Maiden: Legacy of the Beast | 16473 | [16473-iron-maiden-legacy-of-the-beast.json](./16473-iron-maiden-legacy-of-the-beast.json) |
 | Iron Man | 200688 | [200688-iron-man.json](./200688-iron-man.json) |
+| Iron Man | 248179 | [248179-iron-man.json](./248179-iron-man.json) |
 | Iron Man | 257213 | [257213-iron-man.json](./257213-iron-man.json) |
 | Iron Man and X-O Manowar in Heavy Metal | 240164 | [240164-iron-man-and-x-o-manowar-in-heavy-metal.json](./240164-iron-man-and-x-o-manowar-in-heavy-metal.json) |
 | Iron Man and X-O Manowar in Heavy Metal | 307064 | [307064-iron-man-and-x-o-manowar-in-heavy-metal.json](./307064-iron-man-and-x-o-manowar-in-heavy-metal.json) |
