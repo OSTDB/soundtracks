@@ -7253,6 +7253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpus Pugna | 318545 | [318545-corpus-pugna.json](./318545-corpus-pugna.json) |
 | Corr | 245924 | [245924-corr.json](./245924-corr.json) |
 | Corral | 67525 | [67525-corral.json](./67525-corral.json) |
+| Correction | 271394 | [271394-correction.json](./271394-correction.json) |
 | Corrida das Blogueiras 6: A Maldição dos Zumbis | 319027 | [319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json](./319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json) |
 | Corridor | 282000 | [282000-corridor.json](./282000-corridor.json) |
 | Corridor 13 | 401743 | [401743-corridor-13.json](./401743-corridor-13.json) |
