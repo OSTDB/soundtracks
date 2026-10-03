@@ -845,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangstar Vegas | 38934 | [38934-gangstar-vegas.json](./38934-gangstar-vegas.json) |
 | Gangstar: Crime City | 264076 | [264076-gangstar-crime-city.json](./264076-gangstar-crime-city.json) |
 | Gangstar: Miami Vindication | 152331 | [152331-gangstar-miami-vindication.json](./152331-gangstar-miami-vindication.json) |
+| Gangstar: Miami Vindication 2D | 260873 | [260873-gangstar-miami-vindication-2d.json](./260873-gangstar-miami-vindication-2d.json) |
 | Gangster | 13855 | [13855-gangster.json](./13855-gangster.json) |
 | Gangster Alley | 18555 | [18555-gangster-alley.json](./18555-gangster-alley.json) |
 | Gangster Bros | 282577 | [282577-gangster-bros.json](./282577-gangster-bros.json) |
@@ -2303,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give a Dam! | 248066 | [248066-give-a-dam.json](./248066-give-a-dam.json) |
 | Give an imp a chance! | 330931 | [330931-give-an-imp-a-chance.json](./330931-give-an-imp-a-chance.json) |
 | Give Gifts Give Life | 397240 | [397240-give-gifts-give-life.json](./397240-give-gifts-give-life.json) |
+| Give It Up! 3 | 260897 | [260897-give-it-up-3.json](./260897-give-it-up-3.json) |
 | Give It Up! Bouncy | 147354 | [147354-give-it-up-bouncy.json](./147354-give-it-up-bouncy.json) |
 | Give It Up! Plus | 114160 | [114160-give-it-up-plus.json](./114160-give-it-up-plus.json) |
 | Give Me Clair Back | 290944 | [290944-give-me-clair-back.json](./290944-give-me-clair-back.json) |
@@ -2610,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 10 | 260755 | [260755-gnome-enchanted-jigsaw-puzzles-expansion-pack-10.json](./260755-gnome-enchanted-jigsaw-puzzles-expansion-pack-10.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 2 | 257389 | [257389-gnome-enchanted-jigsaw-puzzles-expansion-pack-2.json](./257389-gnome-enchanted-jigsaw-puzzles-expansion-pack-2.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 4 | 258948 | [258948-gnome-enchanted-jigsaw-puzzles-expansion-pack-4.json](./258948-gnome-enchanted-jigsaw-puzzles-expansion-pack-4.json) |
+| Gnome Enchanted Jigsaw Puzzles: Expansion Pack 9 | 260876 | [260876-gnome-enchanted-jigsaw-puzzles-expansion-pack-9.json](./260876-gnome-enchanted-jigsaw-puzzles-expansion-pack-9.json) |
 | Gnome Escape | 314409 | [314409-gnome-escape.json](./314409-gnome-escape.json) |
 | Gnome Gname | 185090 | [185090-gnome-gname.json](./185090-gnome-gname.json) |
 | Gnome Heist | 252097 | [252097-gnome-heist.json](./252097-gnome-heist.json) |
@@ -4603,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimace Run | 192796 | [192796-grimace-run.json](./192796-grimace-run.json) |
 | Grimchester Needs A Doctor | 416830 | [416830-grimchester-needs-a-doctor.json](./416830-grimchester-needs-a-doctor.json) |
 | Grimdoria | 278135 | [278135-grimdoria.json](./278135-grimdoria.json) |
+| Grime | 260887 | [260887-grime.json](./260887-grime.json) |
 | Grime House | 198452 | [198452-grime-house.json](./198452-grime-house.json) |
 | Grime: Definitive Edition | 284491 | [284491-grime-definitive-edition.json](./284491-grime-definitive-edition.json) |
 | Grime: Tinge of Terror | 252363 | [252363-grime-tinge-of-terror.json](./252363-grime-tinge-of-terror.json) |
