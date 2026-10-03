@@ -4324,6 +4324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Soul | 250888 | [250888-lost-soul.json](./250888-lost-soul.json) |
 | Lost Soul | 50115 | [50115-lost-soul.json](./50115-lost-soul.json) |
 | Lost Soul: Escape the Doom Museum | 344347 | [344347-lost-soul-escape-the-doom-museum.json](./344347-lost-soul-escape-the-doom-museum.json) |
+| Lost Souls | 229110 | [229110-lost-souls.json](./229110-lost-souls.json) |
 | Lost Souls: Timeless Fables - Collector's Edition | 88500 | [88500-lost-souls-timeless-fables-collectors-edition.json](./88500-lost-souls-timeless-fables-collectors-edition.json) |
 | Lost Station | 250866 | [250866-lost-station.json](./250866-lost-station.json) |
 | Lost Summoner Kitty | 80900 | [80900-lost-summoner-kitty.json](./80900-lost-summoner-kitty.json) |
