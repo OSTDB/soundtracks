@@ -6369,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Sojourn | 261839 | [261839-sky-sojourn.json](./261839-sky-sojourn.json) |
 | Sky Sports Football Manager | 94003 | [94003-sky-sports-football-manager.json](./94003-sky-sports-football-manager.json) |
 | Sky Squadron | 139477 | [139477-sky-squadron.json](./139477-sky-squadron.json) |
+| Sky Symphony | 242583 | [242583-sky-symphony.json](./242583-sky-symphony.json) |
 | Sky Target | 25173 | [25173-sky-target.json](./25173-sky-target.json) |
 | Sky Taxi 2: Storm 2012 | 54368 | [54368-sky-taxi-2-storm-2012.json](./54368-sky-taxi-2-storm-2012.json) |
 | Sky Taxi 3: The Movie | 54369 | [54369-sky-taxi-3-the-movie.json](./54369-sky-taxi-3-the-movie.json) |
@@ -11792,6 +11793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squares | 347300 | [347300-squares.json](./347300-squares.json) |
 | Squares | 59961 | [59961-squares.json](./59961-squares.json) |
 | Squares | 86246 | [86246-squares.json](./86246-squares.json) |
+| Squares and Numbers | 242585 | [242585-squares-and-numbers.json](./242585-squares-and-numbers.json) |
 | Squares and Stuff | 260314 | [260314-squares-and-stuff.json](./260314-squares-and-stuff.json) |
 | Squares of Hell | 304612 | [304612-squares-of-hell.json](./304612-squares-of-hell.json) |
 | Squares Proximity | 366332 | [366332-squares-proximity.json](./366332-squares-proximity.json) |
@@ -15667,6 +15669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cup Finals | 40428 | [40428-super-cup-finals.json](./40428-super-cup-finals.json) |
 | Super Cup Football | 142368 | [142368-super-cup-football.json](./142368-super-cup-football.json) |
 | Super Cursor | 304286 | [304286-super-cursor.json](./304286-super-cursor.json) |
+| Super Cute Alien's Adventure | 242584 | [242584-super-cute-aliens-adventure.json](./242584-super-cute-aliens-adventure.json) |
 | Super Daisenryaku: Map Collection | 381856 | [381856-super-daisenryaku-map-collection.json](./381856-super-daisenryaku-map-collection.json) |
 | Super Dany | 42658 | [42658-super-dany.json](./42658-super-dany.json) |
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
@@ -16033,6 +16036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Macklemore 64 | 418798 | [418798-super-macklemore-64.json](./418798-super-macklemore-64.json) |
 | Super Mado Paf!! | 229655 | [229655-super-mado-paf.json](./229655-super-mado-paf.json) |
 | Super Magbot | 132921 | [132921-super-magbot.json](./132921-super-magbot.json) |
+| Super Magbot: Digital Deluxe Edition | 242608 | [242608-super-magbot-digital-deluxe-edition.json](./242608-super-magbot-digital-deluxe-edition.json) |
 | Super Magic Chess | 331134 | [331134-super-magic-chess.json](./331134-super-magic-chess.json) |
 | Super Magro World | 152315 | [152315-super-magro-world.json](./152315-super-magro-world.json) |
 | Super Magus Parvomagnus | 368611 | [368611-super-magus-parvomagnus.json](./368611-super-magus-parvomagnus.json) |
@@ -17756,6 +17760,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Bakery Tycoon: Expansion Pack 1 | 237913 | [237913-sweet-bakery-tycoon-expansion-pack-1.json](./237913-sweet-bakery-tycoon-expansion-pack-1.json) |
 | Sweet Bakery Tycoon: Expansion Pack 2 | 237914 | [237914-sweet-bakery-tycoon-expansion-pack-2.json](./237914-sweet-bakery-tycoon-expansion-pack-2.json) |
 | Sweet Bakery Tycoon: Extended Edition | 213345 | [213345-sweet-bakery-tycoon-extended-edition.json](./213345-sweet-bakery-tycoon-extended-edition.json) |
+| Sweet Bakery Tycoon: Multiplayer Edition | 242621 | [242621-sweet-bakery-tycoon-multiplayer-edition.json](./242621-sweet-bakery-tycoon-multiplayer-edition.json) |
+| Sweet Bakery Tycoon: Multiplayer Mode | 242620 | [242620-sweet-bakery-tycoon-multiplayer-mode.json](./242620-sweet-bakery-tycoon-multiplayer-mode.json) |
 | Sweet Bakery Tycoon: Super Edition | 315851 | [315851-sweet-bakery-tycoon-super-edition.json](./315851-sweet-bakery-tycoon-super-edition.json) |
 | Sweet Bakery Tycoon: Value Edition | 317243 | [317243-sweet-bakery-tycoon-value-edition.json](./317243-sweet-bakery-tycoon-value-edition.json) |
 | Sweet Bar | 392908 | [392908-sweet-bar.json](./392908-sweet-bar.json) |
