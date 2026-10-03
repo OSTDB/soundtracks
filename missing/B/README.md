@@ -3008,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before We Leave | 120878 | [120878-before-we-leave.json](./120878-before-we-leave.json) |
 | Before You Depart | 252817 | [252817-before-you-depart.json](./252817-before-you-depart.json) |
 | Before You Die | 185434 | [185434-before-you-die.json](./185434-before-you-die.json) |
+| Before You Forget | 261447 | [261447-before-you-forget.json](./261447-before-you-forget.json) |
 | Before Your Eyes | 305472 | [305472-before-your-eyes.json](./305472-before-your-eyes.json) |
 | Before Your Eyes | 91477 | [91477-before-your-eyes.json](./91477-before-your-eyes.json) |
 | Befriendus | 179700 | [179700-befriendus.json](./179700-befriendus.json) |
@@ -3679,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Blue: Memory | 89379 | [89379-big-blue-memory.json](./89379-big-blue-memory.json) |
 | Big Bobby Car: The Big Race | 139861 | [139861-big-bobby-car-the-big-race.json](./139861-big-bobby-car-the-big-race.json) |
 | Big Boo's Haunt | 308230 | [308230-big-boos-haunt.json](./308230-big-boos-haunt.json) |
+| Big Boo's Revenge | 261431 | [261431-big-boos-revenge.json](./261431-big-boos-revenge.json) |
 | Big Booty Adventures | 186312 | [186312-big-booty-adventures.json](./186312-big-booty-adventures.json) |
 | Big Brave | 91440 | [91440-big-brave.json](./91440-big-brave.json) |
 | Big Breakfast 2 | 416846 | [416846-big-breakfast-2.json](./416846-big-breakfast-2.json) |
@@ -8013,6 +8015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bronzebeard's Tavern | 258955 | [258955-bronzebeards-tavern.json](./258955-bronzebeards-tavern.json) |
 | Bronzebeard's Tavern: Founder's Pack | 292752 | [292752-bronzebeards-tavern-founders-pack.json](./292752-bronzebeards-tavern-founders-pack.json) |
 | Brood | 116514 | [116514-brood.json](./116514-brood.json) |
+| Brood of Hatred | 261444 | [261444-brood-of-hatred.json](./261444-brood-of-hatred.json) |
 | Brooklyn Sentai: Episode One | 132729 | [132729-brooklyn-sentai-episode-one.json](./132729-brooklyn-sentai-episode-one.json) |
 | Brooklyn Trash King | 172508 | [172508-brooklyn-trash-king.json](./172508-brooklyn-trash-king.json) |
 | Brooks in Wild West | 272258 | [272258-brooks-in-wild-west.json](./272258-brooks-in-wild-west.json) |
