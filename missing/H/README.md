@@ -2628,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Sake | 411070 | [411070-hentai-sake.json](./411070-hentai-sake.json) |
 | Hentai Sally | 340449 | [340449-hentai-sally.json](./340449-hentai-sally.json) |
 | Hentai Senpai: Cosmic Beauties - Premium Pack | 291057 | [291057-hentai-senpai-cosmic-beauties-premium-pack.json](./291057-hentai-senpai-cosmic-beauties-premium-pack.json) |
+| Hentai Senpai: Cyberpussy 2069 | 244392 | [244392-hentai-senpai-cyberpussy-2069.json](./244392-hentai-senpai-cyberpussy-2069.json) |
 | Hentai Senpai: Goth Feet | 340450 | [340450-hentai-senpai-goth-feet.json](./340450-hentai-senpai-goth-feet.json) |
 | Hentai Senpai: Konbini no Shirigaru Onna | 311134 | [311134-hentai-senpai-konbini-no-shirigaru-onna.json](./311134-hentai-senpai-konbini-no-shirigaru-onna.json) |
 | Hentai Senpai: Thicc Fairies of Forest Lake | 372118 | [372118-hentai-senpai-thicc-fairies-of-forest-lake.json](./372118-hentai-senpai-thicc-fairies-of-forest-lake.json) |
