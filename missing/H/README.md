@@ -2339,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Hurt Hopp | 148934 | [148934-help-hurt-hopp.json](./148934-help-hurt-hopp.json) |
 | Help me Braveman! | 212484 | [212484-help-me-braveman.json](./212484-help-me-braveman.json) |
 | Help Me Escape! The Puzzle Maker's Office | 108438 | [108438-help-me-escape-the-puzzle-makers-office.json](./108438-help-me-escape-the-puzzle-makers-office.json) |
+| Help Me Fly | 240832 | [240832-help-me-fly.json](./240832-help-me-fly.json) |
 | Help Me Jack: Save the Dogs | 175731 | [175731-help-me-jack-save-the-dogs.json](./175731-help-me-jack-save-the-dogs.json) |
 | Help Me Now | 133221 | [133221-help-me-now.json](./133221-help-me-now.json) |
 | Help me please | 155977 | [155977-help-me-please.json](./155977-help-me-please.json) |
@@ -6365,6 +6366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Olympic '84 Vol. 2 | 98246 | [98246-hyper-olympic-84-vol-2.json](./98246-hyper-olympic-84-vol-2.json) |
 | Hyper Olympic: Challenge 5 | 385738 | [385738-hyper-olympic-challenge-5.json](./385738-hyper-olympic-challenge-5.json) |
 | Hyper Olympic: Jumping Type | 385734 | [385734-hyper-olympic-jumping-type.json](./385734-hyper-olympic-jumping-type.json) |
+| Hyper One: Space R.E.M. | 240848 | [240848-hyper-one-space-r-e-m.json](./240848-hyper-one-space-r-e-m.json) |
 | Hyper Pac-Man | 39806 | [39806-hyper-pac-man.json](./39806-hyper-pac-man.json) |
 | Hyper Pacman | 37337 | [37337-hyper-pacman.json](./37337-hyper-pacman.json) |
 | Hyper Paddle Block Rusher | 222323 | [222323-hyper-paddle-block-rusher.json](./222323-hyper-paddle-block-rusher.json) |
