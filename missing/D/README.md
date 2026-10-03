@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dare to Fly | 52184 | [52184-dare-to-fly.json](./52184-dare-to-fly.json) |
 | Dare to Lucid Dream | 332416 | [332416-dare-to-lucid-dream.json](./332416-dare-to-lucid-dream.json) |
 | Daredemo Asobi Taizen | 137069 | [137069-daredemo-asobi-taizen.json](./137069-daredemo-asobi-taizen.json) |
+| Daredemo Kantan! Watanabe Akira no Tsume Shogi | 269751 | [269751-daredemo-kantan-watanabe-akira-no-tsume-shogi.json](./269751-daredemo-kantan-watanabe-akira-no-tsume-shogi.json) |
 | Daredevil | 18254 | [18254-daredevil.json](./18254-daredevil.json) |
 | Daredevil Dave 2: Motorcycle Mayhem! | 175432 | [175432-daredevil-dave-2-motorcycle-mayhem.json](./175432-daredevil-dave-2-motorcycle-mayhem.json) |
 | Daredevil Dynamite | 108504 | [108504-daredevil-dynamite.json](./108504-daredevil-dynamite.json) |
@@ -3818,6 +3819,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Proxy | 291536 | [291536-deus-proxy.json](./291536-deus-proxy.json) |
 | Deus Vult VR | 107634 | [107634-deus-vult-vr.json](./107634-deus-vult-vr.json) |
 | Deuteros: The Next Millennium | 9575 | [9575-deuteros-the-next-millennium.json](./9575-deuteros-the-next-millennium.json) |
+| Deutsch 1.-4: Klasse - Fit fuers Gymnasium | 269746 | [269746-deutsch-1-4-klasse-fit-fuers-gymnasium.json](./269746-deutsch-1-4-klasse-fit-fuers-gymnasium.json) |
+| Deutsch 1.-4. Klasse 2012 | 269747 | [269747-deutsch-1-4-klasse-2012.json](./269747-deutsch-1-4-klasse-2012.json) |
 | Deutschland sucht den Superstar | 130904 | [130904-deutschland-sucht-den-superstar.json](./130904-deutschland-sucht-den-superstar.json) |
 | Dev Inc | 152835 | [152835-dev-inc.json](./152835-dev-inc.json) |
 | Dev_me | 111945 | [111945-dev-me.json](./111945-dev-me.json) |
@@ -3838,6 +3841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devicereign | 166500 | [166500-devicereign.json](./166500-devicereign.json) |
 | Devices Disruptive Offense Simulator | 407480 | [407480-devices-disruptive-offense-simulator.json](./407480-devices-disruptive-offense-simulator.json) |
 | Devidicon | 400459 | [400459-devidicon.json](./400459-devidicon.json) |
+| Deviens Miss France | 269745 | [269745-deviens-miss-france.json](./269745-deviens-miss-france.json) |
 | Devil Below | 293171 | [293171-devil-below.json](./293171-devil-below.json) |
 | Devil Book: Hand-Drawn Action MMO | 146171 | [146171-devil-book-hand-drawn-action-mmo.json](./146171-devil-book-hand-drawn-action-mmo.json) |
 | Devil Cult Party | 305794 | [305794-devil-cult-party.json](./305794-devil-cult-party.json) |
@@ -4185,6 +4189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicy Chess | 299148 | [299148-dicy-chess.json](./299148-dicy-chess.json) |
 | Did You Scared | 195128 | [195128-did-you-scared.json](./195128-did-you-scared.json) |
 | Did You See That? | 416647 | [416647-did-you-see-that.json](./416647-did-you-see-that.json) |
+| Diddl in the Cheesecakeland Diddl en Diddland | 269742 | [269742-diddl-in-the-cheesecakeland-diddl-en-diddland.json](./269742-diddl-in-the-cheesecakeland-diddl-en-diddland.json) |
 | Diddy | 327454 | [327454-diddy.json](./327454-diddy.json) |
 | Diddy Kong Racing | 2723 | [2723-diddy-kong-racing.json](./2723-diddy-kong-racing.json) |
 | Diddy Kong Racing DS: Timber's Balloon Pop | 231630 | [231630-diddy-kong-racing-ds-timbers-balloon-pop.json](./231630-diddy-kong-racing-ds-timbers-balloon-pop.json) |
@@ -4266,6 +4271,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diego Balls | 343830 | [343830-diego-balls.json](./343830-diego-balls.json) |
 | Diemi | 375352 | [375352-diemi.json](./375352-diemi.json) |
 | Diep.io | 19341 | [19341-diep-io.json](./19341-diep-io.json) |
+| Diercke Das Geographie-Quiz | 269743 | [269743-diercke-das-geographie-quiz.json](./269743-diercke-das-geographie-quiz.json) |
+| Diercke: Junior-Quiz Geographie | 269744 | [269744-diercke-junior-quiz-geographie.json](./269744-diercke-junior-quiz-geographie.json) |
 | DieRoll | 88263 | [88263-dieroll.json](./88263-dieroll.json) |
 | Dies Irae: Interview with Kaziklu Bey | 115243 | [115243-dies-irae-interview-with-kaziklu-bey.json](./115243-dies-irae-interview-with-kaziklu-bey.json) |
 | Dies Mortis | 185163 | [185163-dies-mortis.json](./185163-dies-mortis.json) |
@@ -4602,6 +4609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Hex Trap | 412565 | [412565-dino-hex-trap.json](./412565-dino-hex-trap.json) |
 | Dino Hunt | 150081 | [150081-dino-hunt.json](./150081-dino-hunt.json) |
 | Dino Jnr. in Canyon Capers | 57167 | [57167-dino-jnr-in-canyon-capers.json](./57167-dino-jnr-in-canyon-capers.json) |
+| Dino King Battle: Taiko Kara no Hyouryuusha | 269741 | [269741-dino-king-battle-taiko-kara-no-hyouryuusha.json](./269741-dino-king-battle-taiko-kara-no-hyouryuusha.json) |
 | Dino Land | 386929 | [386929-dino-land.json](./386929-dino-land.json) |
 | Dino Lost | 120406 | [120406-dino-lost.json](./120406-dino-lost.json) |
 | Dino Market | 312710 | [312710-dino-market.json](./312710-dino-market.json) |
@@ -5879,6 +5887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolphin Paradise | 107676 | [107676-dolphin-paradise.json](./107676-dolphin-paradise.json) |
 | Dolphin Simulator | 107007 | [107007-dolphin-simulator.json](./107007-dolphin-simulator.json) |
 | Dolphin Splash! | 272475 | [272475-dolphin-splash.json](./272475-dolphin-splash.json) |
+| Dolphin Trainer | 269739 | [269739-dolphin-trainer.json](./269739-dolphin-trainer.json) |
 | Dolphins-Cyborgs and open space | 81756 | [81756-dolphins-cyborgs-and-open-space.json](./81756-dolphins-cyborgs-and-open-space.json) |
 | Dolphy Dash | 104003 | [104003-dolphy-dash.json](./104003-dolphy-dash.json) |
 | Dolven | 248022 | [248022-dolven.json](./248022-dolven.json) |
@@ -6008,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Die Roguelike | 395892 | [395892-dont-die-roguelike.json](./395892-dont-die-roguelike.json) |
 | Don't Die, Mr. Robot! | 52178 | [52178-dont-die-mr-robot.json](./52178-dont-die-mr-robot.json) |
 | Don't Die! | 343340 | [343340-dont-die.json](./343340-dont-die.json) |
+| Don't Dig Down | 269768 | [269768-dont-dig-down.json](./269768-dont-dig-down.json) |
 | Don't Dig Up the Dead | 298781 | [298781-dont-dig-up-the-dead.json](./298781-dont-dig-up-the-dead.json) |
 | Don't Disturb | 32065 | [32065-dont-disturb.json](./32065-dont-disturb.json) |
 | Don't Drink That! | 364667 | [364667-dont-drink-that.json](./364667-dont-drink-that.json) |
@@ -6200,6 +6210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Country | 150028 | [150028-donkey-kong-country.json](./150028-donkey-kong-country.json) |
 | Donkey Kong Country | 234084 | [234084-donkey-kong-country.json](./234084-donkey-kong-country.json) |
 | Donkey Kong Country 2 | 178237 | [178237-donkey-kong-country-2.json](./178237-donkey-kong-country-2.json) |
+| Donkey Kong Country 2 Unveiled | 269773 | [269773-donkey-kong-country-2-unveiled.json](./269773-donkey-kong-country-2-unveiled.json) |
 | Donkey Kong Country 2: The Lost Levels | 162766 | [162766-donkey-kong-country-2-the-lost-levels.json](./162766-donkey-kong-country-2-the-lost-levels.json) |
 | Donkey Kong Country 3 | 132723 | [132723-donkey-kong-country-3.json](./132723-donkey-kong-country-3.json) |
 | Donkey Kong Country 3: Dixie Kong's Double Trouble! | 1094 | [1094-donkey-kong-country-3-dixie-kongs-double-trouble.json](./1094-donkey-kong-country-3-dixie-kongs-double-trouble.json) |
@@ -7272,6 +7283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Hop | 272396 | [272396-dragon-hop.json](./272396-dragon-hop.json) |
 | Dragon Hunt | 69236 | [69236-dragon-hunt.json](./69236-dragon-hunt.json) |
 | Dragon Hunter : Sniper Choice | 90664 | [90664-dragon-hunter-sniper-choice.json](./90664-dragon-hunter-sniper-choice.json) |
+| Dragon Hunters | 269734 | [269734-dragon-hunters.json](./269734-dragon-hunters.json) |
 | Dragon Inn | 226818 | [226818-dragon-inn.json](./226818-dragon-inn.json) |
 | Dragon Is Dead | 289444 | [289444-dragon-is-dead.json](./289444-dragon-is-dead.json) |
 | Dragon Island | 220212 | [220212-dragon-island.json](./220212-dragon-island.json) |
@@ -7551,6 +7563,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragoon Drop | 182845 | [182845-dragoon-drop.json](./182845-dragoon-drop.json) |
 | Dragoon Might | 39555 | [39555-dragoon-might.json](./39555-dragoon-might.json) |
 | Dragoon X Omega | 48685 | [48685-dragoon-x-omega.json](./48685-dragoon-x-omega.json) |
+| Dragoon X Omega I: Gold Edition - Amnethen Apocalypse | 269776 | [269776-dragoon-x-omega-i-gold-edition-amnethen-apocalypse.json](./269776-dragoon-x-omega-i-gold-edition-amnethen-apocalypse.json) |
+| Dragoon X Omega II: Easy Mode | 269777 | [269777-dragoon-x-omega-ii-easy-mode.json](./269777-dragoon-x-omega-ii-easy-mode.json) |
 | Dragoon: The Battles of Frederick the Great | 62266 | [62266-dragoon-the-battles-of-frederick-the-great.json](./62266-dragoon-the-battles-of-frederick-the-great.json) |
 | Dragot | 251821 | [251821-dragot.json](./251821-dragot.json) |
 | Drags Tavern | 315009 | [315009-drags-tavern.json](./315009-drags-tavern.json) |
