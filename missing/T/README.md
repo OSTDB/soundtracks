@@ -1652,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TechMate Chess | 327801 | [327801-techmate-chess.json](./327801-techmate-chess.json) |
 | Technic Beat | 24168 | [24168-technic-beat.json](./24168-technic-beat.json) |
 | Technical Demo X2 | 296010 | [296010-technical-demo-x2.json](./296010-technical-demo-x2.json) |
+| Technical Issues | 262600 | [262600-technical-issues.json](./262600-technical-issues.json) |
 | Technically Frogs Can Fly | 326217 | [326217-technically-frogs-can-fly.json](./326217-technically-frogs-can-fly.json) |
 | Technician Ted | 84242 | [84242-technician-ted.json](./84242-technician-ted.json) |
 | Technicity | 186619 | [186619-technicity.json](./186619-technicity.json) |
@@ -2246,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal | 150493 | [150493-terminal.json](./150493-terminal.json) |
 | Terminal | 177556 | [177556-terminal.json](./177556-terminal.json) |
 | Terminal | 253360 | [253360-terminal.json](./253360-terminal.json) |
+| Terminal | 262555 | [262555-terminal.json](./262555-terminal.json) |
 | Terminal 13 | 364699 | [364699-terminal-13.json](./364699-terminal-13.json) |
 | Terminal 64 | 252820 | [252820-terminal-64.json](./252820-terminal-64.json) |
 | Terminal 69 | 289030 | [289030-terminal-69.json](./289030-terminal-69.json) |
@@ -2735,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The $100,000 Pyramid | 12372 | [12372-the-100-000-pyramid.json](./12372-the-100-000-pyramid.json) |
 | The 10th Planet | 200421 | [200421-the-10th-planet.json](./200421-the-10th-planet.json) |
 | The 11th Hour | 2203 | [2203-the-11th-hour.json](./2203-the-11th-hour.json) |
+| The 12 Days of Doomas! | 262565 | [262565-the-12-days-of-doomas.json](./262565-the-12-days-of-doomas.json) |
 | The 13th Floor | 298323 | [298323-the-13th-floor.json](./298323-the-13th-floor.json) |
 | The 13th Floor | 356709 | [356709-the-13th-floor.json](./356709-the-13th-floor.json) |
 | The 13th Heir - Ragnarok Chapter 2 | 76503 | [76503-the-13th-heir-ragnarok-chapter-2.json](./76503-the-13th-heir-ragnarok-chapter-2.json) |
@@ -5369,6 +5372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heart of Darkness | 164909 | [164909-the-heart-of-darkness.json](./164909-the-heart-of-darkness.json) |
 | The Heart of Influencer | 342275 | [342275-the-heart-of-influencer.json](./342275-the-heart-of-influencer.json) |
 | The Heart of Sourcerer | 208386 | [208386-the-heart-of-sourcerer.json](./208386-the-heart-of-sourcerer.json) |
+| The Heart of Stone | 262563 | [262563-the-heart-of-stone.json](./262563-the-heart-of-stone.json) |
 | The Heart of Tales | 177499 | [177499-the-heart-of-tales.json](./177499-the-heart-of-tales.json) |
 | The Heart Pumps Clay | 122891 | [122891-the-heart-pumps-clay.json](./122891-the-heart-pumps-clay.json) |
 | The Heartbeat | 149610 | [149610-the-heartbeat.json](./149610-the-heartbeat.json) |
@@ -12668,6 +12672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of the Dead | 219684 | [219684-tomb-of-the-dead.json](./219684-tomb-of-the-dead.json) |
 | Tomb of the Endless | 323806 | [323806-tomb-of-the-endless.json](./323806-tomb-of-the-endless.json) |
 | Tomb of the Golden Relic | 411082 | [411082-tomb-of-the-golden-relic.json](./411082-tomb-of-the-golden-relic.json) |
+| Tomb of the Old Lords | 262556 | [262556-tomb-of-the-old-lords.json](./262556-tomb-of-the-old-lords.json) |
 | Tomb of Thunder | 302617 | [302617-tomb-of-thunder.json](./302617-tomb-of-thunder.json) |
 | Tomb of Trials | 180270 | [180270-tomb-of-trials.json](./180270-tomb-of-trials.json) |
 | Tomb Offering | 340944 | [340944-tomb-offering.json](./340944-tomb-offering.json) |
