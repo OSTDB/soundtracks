@@ -1339,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperator: Rome - Premium Edition | 139915 | [139915-imperator-rome-premium-edition.json](./139915-imperator-rome-premium-edition.json) |
 | Imperator: Rome - The Punic Wars Content Pack | 154496 | [154496-imperator-rome-the-punic-wars-content-pack.json](./154496-imperator-rome-the-punic-wars-content-pack.json) |
 | Imperfect Garden | 358297 | [358297-imperfect-garden.json](./358297-imperfect-garden.json) |
+| Imperfect Hatred | 262567 | [262567-imperfect-hatred.json](./262567-imperfect-hatred.json) |
 | Imperfections | 414502 | [414502-imperfections.json](./414502-imperfections.json) |
 | Imperi | 75791 | [75791-imperi.json](./75791-imperi.json) |
 | Imperi II | 100591 | [100591-imperi-ii.json](./100591-imperi-ii.json) |
@@ -1876,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infestation: Battle Royale | 130205 | [130205-infestation-battle-royale.json](./130205-infestation-battle-royale.json) |
 | Infestation: Origins | 281398 | [281398-infestation-origins.json](./281398-infestation-origins.json) |
 | Infestation: Revival | 122933 | [122933-infestation-revival.json](./122933-infestation-revival.json) |
+| Infested | 262554 | [262554-infested.json](./262554-infested.json) |
 | Infested Grounds | 275068 | [275068-infested-grounds.json](./275068-infested-grounds.json) |
 | Infested Lands | 248014 | [248014-infested-lands.json](./248014-infested-lands.json) |
 | Infested Planet | 8795 | [8795-infested-planet.json](./8795-infested-planet.json) |
