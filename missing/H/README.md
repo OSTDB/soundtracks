@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hansel & Gretel | 66943 | [66943-hansel-and-gretel.json](./66943-hansel-and-gretel.json) |
 | Hansel and Gretel | 215350 | [215350-hansel-and-gretel.json](./215350-hansel-and-gretel.json) |
 | Hansel and Gretel and the Enchanted Castle | 46641 | [46641-hansel-and-gretel-and-the-enchanted-castle.json](./46641-hansel-and-gretel-and-the-enchanted-castle.json) |
+| Hansel and Gretel: Interactive Book | 265837 | [265837-hansel-and-gretel-interactive-book.json](./265837-hansel-and-gretel-interactive-book.json) |
 | Hanski's Burlap of Chaos! | 174272 | [174272-hanskis-burlap-of-chaos.json](./174272-hanskis-burlap-of-chaos.json) |
 | Hanx101 Trivia | 215154 | [215154-hanx101-trivia.json](./215154-hanx101-trivia.json) |
 | Hanz Puppetguns | 106619 | [106619-hanz-puppetguns.json](./106619-hanz-puppetguns.json) |
@@ -4860,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoop Fever | 90691 | [90691-hoop-fever.json](./90691-hoop-fever.json) |
 | Hoop Land | 250996 | [250996-hoop-land.json](./250996-hoop-land.json) |
 | Hoop Smash | 116418 | [116418-hoop-smash.json](./116418-hoop-smash.json) |
+| HooperVania | 265859 | [265859-hoopervania.json](./265859-hoopervania.json) |
 | Hooplord | 132611 | [132611-hooplord.json](./132611-hooplord.json) |
 | Hoops Madness | 140354 | [140354-hoops-madness.json](./140354-hoops-madness.json) |
 | Hoops Mania | 417382 | [417382-hoops-mania.json](./417382-hoops-mania.json) |
@@ -5392,6 +5394,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Transylvania: Crazy Cruise | 105769 | [105769-hotel-transylvania-crazy-cruise.json](./105769-hotel-transylvania-crazy-cruise.json) |
 | Hotel Transylvania: Hotel Havoc | 104263 | [104263-hotel-transylvania-hotel-havoc.json](./104263-hotel-transylvania-hotel-havoc.json) |
 | Hotel Transylvania: Social Game | 108821 | [108821-hotel-transylvania-social-game.json](./108821-hotel-transylvania-social-game.json) |
+| Hotel: Lake DLC | 265871 | [265871-hotel-lake-dlc.json](./265871-hotel-lake-dlc.json) |
+| Hotel: Lake Edition | 265870 | [265870-hotel-lake-edition.json](./265870-hotel-lake-edition.json) |
 | Hotelnomaly | 318062 | [318062-hotelnomaly.json](./318062-hotelnomaly.json) |
 | HotFloor | 102406 | [102406-hotfloor.json](./102406-hotfloor.json) |
 | HotHead | 110340 | [110340-hothead.json](./110340-hothead.json) |
