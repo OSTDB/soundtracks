@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Forest Brick Breaker VR | 365756 | [365756-zen-forest-brick-breaker-vr.json](./365756-zen-forest-brick-breaker-vr.json) |
 | Zen Games: Color Blocks Puzzle | 234048 | [234048-zen-games-color-blocks-puzzle.json](./234048-zen-games-color-blocks-puzzle.json) |
 | Zen Garden | 25980 | [25980-zen-garden.json](./25980-zen-garden.json) |
+| Zen Koi | 255841 | [255841-zen-koi.json](./255841-zen-koi.json) |
 | Zen Koi 2 | 90702 | [90702-zen-koi-2.json](./90702-zen-koi-2.json) |
 | Zen Match | 185681 | [185681-zen-match.json](./185681-zen-match.json) |
 | Zen Mosaics | 415860 | [415860-zen-mosaics.json](./415860-zen-mosaics.json) |
