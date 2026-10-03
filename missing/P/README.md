@@ -5006,6 +5006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleased Aliens | 281648 | [281648-pleased-aliens.json](./281648-pleased-aliens.json) |
 | Pleasure Climb | 147873 | [147873-pleasure-climb.json](./147873-pleasure-climb.json) |
 | Pleasure Kingdom | 190075 | [190075-pleasure-kingdom.json](./190075-pleasure-kingdom.json) |
+| Pleasure Party 2 | 262000 | [262000-pleasure-party-2.json](./262000-pleasure-party-2.json) |
 | Pleasure Puzzle:Workshop - Part 1 | 163468 | [163468-pleasure-puzzle-workshop-part-1.json](./163468-pleasure-puzzle-workshop-part-1.json) |
 | Pleasure Puzzle:Workshop - Part 2 | 163467 | [163467-pleasure-puzzle-workshop-part-2.json](./163467-pleasure-puzzle-workshop-part-2.json) |
 | Pleasure Puzzle:Workshop - Part 3 | 163466 | [163466-pleasure-puzzle-workshop-part-3.json](./163466-pleasure-puzzle-workshop-part-3.json) |
@@ -5539,6 +5540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Eclesia | 306671 | [306671-pokemon-eclesia.json](./306671-pokemon-eclesia.json) |
 | Pokémon Edición Reloaded | 250629 | [250629-pokemon-edicion-reloaded.json](./250629-pokemon-edicion-reloaded.json) |
 | Pokémon Edición Team Rocket | 353274 | [353274-pokemon-edicion-team-rocket.json](./353274-pokemon-edicion-team-rocket.json) |
+| Pokémon Elite Redux | 261954 | [261954-pokemon-elite-redux.json](./261954-pokemon-elite-redux.json) |
 | Pokémon Emerald BR Deluxe | 335433 | [335433-pokemon-emerald-br-deluxe.json](./335433-pokemon-emerald-br-deluxe.json) |
 | Pokémon Emerald Crest | 267421 | [267421-pokemon-emerald-crest.json](./267421-pokemon-emerald-crest.json) |
 | Pokémon Emerald Cross | 301933 | [301933-pokemon-emerald-cross.json](./301933-pokemon-emerald-cross.json) |
@@ -6200,6 +6202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Fever: Upgrade Edition | 399825 | [399825-pool-fever-upgrade-edition.json](./399825-pool-fever-upgrade-edition.json) |
 | Pool Fiction | 402910 | [402910-pool-fiction.json](./402910-pool-fiction.json) |
 | Pool Glow | 413629 | [413629-pool-glow.json](./413629-pool-glow.json) |
+| Pool Hall Pro | 261971 | [261971-pool-hall-pro.json](./261971-pool-hall-pro.json) |
 | Pool Hustler | 23153 | [23153-pool-hustler.json](./23153-pool-hustler.json) |
 | Pool Live Pro | 38947 | [38947-pool-live-pro.json](./38947-pool-live-pro.json) |
 | Pool Lounge | 264241 | [264241-pool-lounge.json](./264241-pool-lounge.json) |
@@ -7223,6 +7226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maker: Faery Tales Come True | 127847 | [127847-princess-maker-faery-tales-come-true.json](./127847-princess-maker-faery-tales-come-true.json) |
 | Princess Miyumi and The Necro's Dungeon | 183570 | [183570-princess-miyumi-and-the-necros-dungeon.json](./183570-princess-miyumi-and-the-necros-dungeon.json) |
 | Princess Nightmare | 72674 | [72674-princess-nightmare.json](./72674-princess-nightmare.json) |
+| Princess Nom Nom | 261999 | [261999-princess-nom-nom.json](./261999-princess-nom-nom.json) |
 | Princess of Mekana | 245816 | [245816-princess-of-mekana.json](./245816-princess-of-mekana.json) |
 | Princess of Seas | 201702 | [201702-princess-of-seas.json](./201702-princess-of-seas.json) |
 | Princess of the Tomb | 353862 | [353862-princess-of-the-tomb.json](./353862-princess-of-the-tomb.json) |
@@ -8642,6 +8646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punirunes | 370299 | [370299-punirunes.json](./370299-punirunes.json) |
 | Punish Me | 385255 | [385255-punish-me.json](./385255-punish-me.json) |
 | Punished Talents: Seven Muses - Collector's Edition | 29063 | [29063-punished-talents-seven-muses-collectors-edition.json](./29063-punished-talents-seven-muses-collectors-edition.json) |
+| Punisher | 261955 | [261955-punisher.json](./261955-punisher.json) |
 | Punishment | 57647 | [57647-punishment.json](./57647-punishment.json) |
 | Punishment 2: The Punishing | 402353 | [402353-punishment-2-the-punishing.json](./402353-punishment-2-the-punishing.json) |
 | Punishment Darkness Online: Centre Ville | 171080 | [171080-punishment-darkness-online-centre-ville.json](./171080-punishment-darkness-online-centre-ville.json) |
@@ -9088,6 +9093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Quest Chapter 1: Battle of Gruulkar | 70416 | [70416-puzzle-quest-chapter-1-battle-of-gruulkar.json](./70416-puzzle-quest-chapter-1-battle-of-gruulkar.json) |
 | Puzzle Quest: Galactrix | 8980 | [8980-puzzle-quest-galactrix.json](./8980-puzzle-quest-galactrix.json) |
 | Puzzle Quest: The Legend Returns | 122246 | [122246-puzzle-quest-the-legend-returns.json](./122246-puzzle-quest-the-legend-returns.json) |
+| Puzzle Room Escape | 261983 | [261983-puzzle-room-escape.json](./261983-puzzle-room-escape.json) |
 | Puzzle Sages | 34493 | [34493-puzzle-sages.json](./34493-puzzle-sages.json) |
 | Puzzle Scape | 46021 | [46021-puzzle-scape.json](./46021-puzzle-scape.json) |
 | Puzzle Scenery | 312683 | [312683-puzzle-scenery.json](./312683-puzzle-scenery.json) |
@@ -9155,6 +9161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlefall | 58177 | [58177-puzzlefall.json](./58177-puzzlefall.json) |
 | Puzzlefun | 88304 | [88304-puzzlefun.json](./88304-puzzlefun.json) |
 | Puzzlejuice | 22682 | [22682-puzzlejuice.json](./22682-puzzlejuice.json) |
+| PuzzleLand | 261997 | [261997-puzzleland.json](./261997-puzzleland.json) |
 | Puzzlelicious | 88260 | [88260-puzzlelicious.json](./88260-puzzlelicious.json) |
 | Puzzler | 104252 | [104252-puzzler.json](./104252-puzzler.json) |
 | Puzzler Clover | 69300 | [69300-puzzler-clover.json](./69300-puzzler-clover.json) |
