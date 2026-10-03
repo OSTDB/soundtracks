@@ -2486,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deemo: The Last Recital | 26996 | [26996-deemo-the-last-recital.json](./26996-deemo-the-last-recital.json) |
 | Deep | 184605 | [184605-deep.json](./184605-deep.json) |
 | Deep | 372091 | [372091-deep.json](./372091-deep.json) |
+| Deep Abyss 3D | 260872 | [260872-deep-abyss-3d.json](./260872-deep-abyss-3d.json) |
 | Deep Alchemy Dungeon | 207500 | [207500-deep-alchemy-dungeon.json](./207500-deep-alchemy-dungeon.json) |
 | Deep Among the Swarm | 285013 | [285013-deep-among-the-swarm.json](./285013-deep-among-the-swarm.json) |
 | Deep Aquarium | 124688 | [124688-deep-aquarium.json](./124688-deep-aquarium.json) |
@@ -5359,6 +5360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Dynamo Flamefrit | 309095 | [309095-divine-dynamo-flamefrit.json](./309095-divine-dynamo-flamefrit.json) |
 | Divine Gambit | 375314 | [375314-divine-gambit.json](./375314-divine-gambit.json) |
 | Divine Gate Zero | 227486 | [227486-divine-gate-zero.json](./227486-divine-gate-zero.json) |
+| Divine Guardian | 260874 | [260874-divine-guardian.json](./260874-divine-guardian.json) |
 | Divine Heart Karen SP Season 2: Nari Henshin Heroine Crisis! | 80492 | [80492-divine-heart-karen-sp-season-2-nari-henshin-heroine-crisis.json](./80492-divine-heart-karen-sp-season-2-nari-henshin-heroine-crisis.json) |
 | Divine Heart Machina Gaiden 04 ~Onna Kanbu Toujoku Hen~ | 59083 | [59083-divine-heart-machina-gaiden-04-onna-kanbu-toujoku-hen.json](./59083-divine-heart-machina-gaiden-04-onna-kanbu-toujoku-hen.json) |
 | Divine Heart Makina ~Haijoku no Intsui Senshi~ | 59084 | [59084-divine-heart-makina-haijoku-no-intsui-senshi.json](./59084-divine-heart-makina-haijoku-no-intsui-senshi.json) |
