@@ -1305,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MakeThatMoney | 90473 | [90473-makethatmoney.json](./90473-makethatmoney.json) |
 | Makeup Stylist: DIY Makeup Game | 208971 | [208971-makeup-stylist-diy-makeup-game.json](./208971-makeup-stylist-diy-makeup-game.json) |
 | Maki Fes! | 186615 | [186615-maki-fes.json](./186615-maki-fes.json) |
+| Maki Maker | 274675 | [274675-maki-maker.json](./274675-maki-maker.json) |
 | Maki: Paw of Fury | 215610 | [215610-maki-paw-of-fury.json](./215610-maki-paw-of-fury.json) |
 | Makibishi Comic | 237501 | [237501-makibishi-comic.json](./237501-makibishi-comic.json) |
 | Makibishi Comic | 294981 | [294981-makibishi-comic.json](./294981-makibishi-comic.json) |
@@ -3331,6 +3332,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meadgard | 280279 | [280279-meadgard.json](./280279-meadgard.json) |
 | Meadow Assault | 304582 | [304582-meadow-assault.json](./304582-meadow-assault.json) |
 | Meadow Gallop | 279252 | [279252-meadow-gallop.json](./279252-meadow-gallop.json) |
+| Meadow: Blue Poison Dart Frog and Anteater Skin Pack | 274667 | [274667-meadow-blue-poison-dart-frog-and-anteater-skin-pack.json](./274667-meadow-blue-poison-dart-frog-and-anteater-skin-pack.json) |
+| Meadow: Lemming Family Skins Pack | 274660 | [274660-meadow-lemming-family-skins-pack.json](./274660-meadow-lemming-family-skins-pack.json) |
+| Meadow: Streaked Tenrec and Leopard Cub Skin Pack | 274666 | [274666-meadow-streaked-tenrec-and-leopard-cub-skin-pack.json](./274666-meadow-streaked-tenrec-and-leopard-cub-skin-pack.json) |
+| Meadow: Striped Polecat and Leopard Skin Pack | 274659 | [274659-meadow-striped-polecat-and-leopard-skin-pack.json](./274659-meadow-striped-polecat-and-leopard-skin-pack.json) |
+| Meadow: Zebra and Hyena Skin Pack | 274661 | [274661-meadow-zebra-and-hyena-skin-pack.json](./274661-meadow-zebra-and-hyena-skin-pack.json) |
 | Meadows Lanes | 40358 | [40358-meadows-lanes.json](./40358-meadows-lanes.json) |
 | Meadowside Mayor | 354517 | [354517-meadowside-mayor.json](./354517-meadowside-mayor.json) |
 | Meal Escape | 86513 | [86513-meal-escape.json](./86513-meal-escape.json) |
@@ -8664,6 +8670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic Chronicles Deluxe: Extended Edition | 251533 | [251533-mosaic-chronicles-deluxe-extended-edition.json](./251533-mosaic-chronicles-deluxe-extended-edition.json) |
 | Mosaic Chronicles Deluxe: Special Edition | 260688 | [260688-mosaic-chronicles-deluxe-special-edition.json](./260688-mosaic-chronicles-deluxe-special-edition.json) |
 | Mosaic Chronicles Deluxe: Ultimate Edition | 243366 | [243366-mosaic-chronicles-deluxe-ultimate-edition.json](./243366-mosaic-chronicles-deluxe-ultimate-edition.json) |
+| Mosaic Chronicles DLC: Nothing Personal | 274664 | [274664-mosaic-chronicles-dlc-nothing-personal.json](./274664-mosaic-chronicles-dlc-nothing-personal.json) |
 | Mosaic Girl Savior | 272367 | [272367-mosaic-girl-savior.json](./272367-mosaic-girl-savior.json) |
 | Mosaic Hearts | 172497 | [172497-mosaic-hearts.json](./172497-mosaic-hearts.json) |
 | Mosaic of the Pharaohs | 337076 | [337076-mosaic-of-the-pharaohs.json](./337076-mosaic-of-the-pharaohs.json) |
