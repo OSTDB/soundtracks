@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of the Ancients | 19794 | [19794-legacy-of-the-ancients.json](./19794-legacy-of-the-ancients.json) |
 | Legacy of the Dragonborn | 356218 | [356218-legacy-of-the-dragonborn.json](./356218-legacy-of-the-dragonborn.json) |
 | Legacy of the Elder Star | 33555 | [33555-legacy-of-the-elder-star.json](./33555-legacy-of-the-elder-star.json) |
+| Legacy of the Pact | 230877 | [230877-legacy-of-the-pact.json](./230877-legacy-of-the-pact.json) |
 | Legacy of the Stones | 117730 | [117730-legacy-of-the-stones.json](./117730-legacy-of-the-stones.json) |
 | Legacy of the Times | 59964 | [59964-legacy-of-the-times.json](./59964-legacy-of-the-times.json) |
 | Legacy of the Wizard | 320850 | [320850-legacy-of-the-wizard.json](./320850-legacy-of-the-wizard.json) |
