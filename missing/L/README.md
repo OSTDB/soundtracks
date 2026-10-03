@@ -2049,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Boxed | 296097 | [296097-letter-boxed.json](./296097-letter-boxed.json) |
 | Letter Bunny | 304202 | [304202-letter-bunny.json](./304202-letter-bunny.json) |
 | Letter Factory | 230383 | [230383-letter-factory.json](./230383-letter-factory.json) |
+| Letter Factory Adventures: The Letter Machine Rescue Team | 230326 | [230326-letter-factory-adventures-the-letter-machine-rescue-team.json](./230326-letter-factory-adventures-the-letter-machine-rescue-team.json) |
 | Letter Factory Adventures: The Rainforest | 230385 | [230385-letter-factory-adventures-the-rainforest.json](./230385-letter-factory-adventures-the-rainforest.json) |
 | Letter Fall: Swipe Letters | 233105 | [233105-letter-fall-swipe-letters.json](./233105-letter-fall-swipe-letters.json) |
 | Letter Fridge | 103653 | [103653-letter-fridge.json](./103653-letter-fridge.json) |
@@ -4797,6 +4798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Gem | 195607 | [195607-lucky-gem.json](./195607-lucky-gem.json) |
 | Lucky Gem | 262484 | [262484-lucky-gem.json](./262484-lucky-gem.json) |
 | Lucky Gem Casino | 323158 | [323158-lucky-gem-casino.json](./323158-lucky-gem-casino.json) |
+| Lucky Goal | 230347 | [230347-lucky-goal.json](./230347-lucky-goal.json) |
 | Lucky Hand: Roguelike Deck Builder | 347780 | [347780-lucky-hand-roguelike-deck-builder.json](./347780-lucky-hand-roguelike-deck-builder.json) |
 | Lucky Hero | 253900 | [253900-lucky-hero.json](./253900-lucky-hero.json) |
 | Lucky Heroes | 217370 | [217370-lucky-heroes.json](./217370-lucky-heroes.json) |
