@@ -6827,6 +6827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubles Hard | 146799 | [146799-doubles-hard.json](./146799-doubles-hard.json) |
 | DoubleShake | 142481 | [142481-doubleshake.json](./142481-doubleshake.json) |
 | Doubts | 179613 | [179613-doubts.json](./179613-doubts.json) |
+| Doubumon | 259169 | [259169-doubumon.json](./259169-doubumon.json) |
 | Doubutsu no Mori Card e+: Series 1 | 356647 | [356647-doubutsu-no-mori-card-e-series-1.json](./356647-doubutsu-no-mori-card-e-series-1.json) |
 | Doubutsu no Mori+ Card-e: Series 1 | 356635 | [356635-doubutsu-no-mori-card-e-series-1.json](./356635-doubutsu-no-mori-card-e-series-1.json) |
 | Doubutsu no Mori+: Super Mario Bros | 360585 | [360585-doubutsu-no-mori-super-mario-bros.json](./360585-doubutsu-no-mori-super-mario-bros.json) |
@@ -7889,6 +7890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Park Story | 175874 | [175874-dream-park-story.json](./175874-dream-park-story.json) |
 | Dream Peak | 390781 | [390781-dream-peak.json](./390781-dream-peak.json) |
 | Dream Piano Tiles 2018 | 107665 | [107665-dream-piano-tiles-2018.json](./107665-dream-piano-tiles-2018.json) |
+| Dream Pinball 3D | 259178 | [259178-dream-pinball-3d.json](./259178-dream-pinball-3d.json) |
 | Dream Pinball 3D: Digital Deluxe Edition | 402953 | [402953-dream-pinball-3d-digital-deluxe-edition.json](./402953-dream-pinball-3d-digital-deluxe-edition.json) |
 | Dream Place | 334336 | [334336-dream-place.json](./334336-dream-place.json) |
 | Dream Ploy Will | 242672 | [242672-dream-ploy-will.json](./242672-dream-ploy-will.json) |
