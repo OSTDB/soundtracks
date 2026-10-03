@@ -6859,6 +6859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Tales | 43462 | [43462-furry-tales.json](./43462-furry-tales.json) |
 | Furry Tangram Lite | 225758 | [225758-furry-tangram-lite.json](./225758-furry-tangram-lite.json) |
 | Furry Tits | 349865 | [349865-furry-tits.json](./349865-furry-tits.json) |
+| Furry Toys | 252255 | [252255-furry-toys.json](./252255-furry-toys.json) |
 | Furry Twins Oshikake Kemomimi Twins | 328524 | [328524-furry-twins-oshikake-kemomimi-twins.json](./328524-furry-twins-oshikake-kemomimi-twins.json) |
 | Furry UwU | 368128 | [368128-furry-uwu.json](./368128-furry-uwu.json) |
 | Furry Woof | 322704 | [322704-furry-woof.json](./322704-furry-woof.json) |
