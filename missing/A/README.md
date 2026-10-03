@@ -4873,6 +4873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annihilate the Spance | 192985 | [192985-annihilate-the-spance.json](./192985-annihilate-the-spance.json) |
 | Annihilation | 289380 | [289380-annihilation.json](./289380-annihilation.json) |
 | Annihilation: Space Tycoon | 255794 | [255794-annihilation-space-tycoon.json](./255794-annihilation-space-tycoon.json) |
+| Annihilator | 277486 | [277486-annihilator.json](./277486-annihilator.json) |
 | Annihilator | 293348 | [293348-annihilator.json](./293348-annihilator.json) |
 | Annihilator | 339993 | [339993-annihilator.json](./339993-annihilator.json) |
 | Annihilator | 94893 | [94893-annihilator.json](./94893-annihilator.json) |
