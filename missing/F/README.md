@@ -1540,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Albert | 320981 | [320981-fat-albert.json](./320981-fat-albert.json) |
 | Fat Baby | 186036 | [186036-fat-baby.json](./186036-fat-baby.json) |
 | Fat Birds Build a Bridge! | 88447 | [88447-fat-birds-build-a-bridge.json](./88447-fat-birds-build-a-bridge.json) |
+| Fat Cat & Airship | 243177 | [243177-fat-cat-and-airship.json](./243177-fat-cat-and-airship.json) |
 | Fat Chicken | 17891 | [17891-fat-chicken.json](./17891-fat-chicken.json) |
 | Fat City | 20964 | [20964-fat-city.json](./20964-fat-city.json) |
 | Fat Dot | 179145 | [179145-fat-dot.json](./179145-fat-dot.json) |
@@ -4252,6 +4253,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flupp the Fish | 264040 | [264040-flupp-the-fish.json](./264040-flupp-the-fish.json) |
 | Flurry Words | 233100 | [233100-flurry-words.json](./233100-flurry-words.json) |
 | FlurryHurry! | 323522 | [323522-flurryhurry.json](./323522-flurryhurry.json) |
+| Flushed Away | 243193 | [243193-flushed-away.json](./243193-flushed-away.json) |
+| Flushed Away | 243194 | [243194-flushed-away.json](./243194-flushed-away.json) |
 | Flushed Regrets | 257089 | [257089-flushed-regrets.json](./257089-flushed-regrets.json) |
 | Fluster Cluck | 52210 | [52210-fluster-cluck.json](./52210-fluster-cluck.json) |
 | Flute Master: Epic Christmas | 170514 | [170514-flute-master-epic-christmas.json](./170514-flute-master-epic-christmas.json) |
