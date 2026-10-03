@@ -1662,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Joe & Mac: Caveman Ninja | 215620 | [215620-new-joe-and-mac-caveman-ninja.json](./215620-new-joe-and-mac-caveman-ninja.json) |
 | New Journey to the West | 320543 | [320543-new-journey-to-the-west.json](./320543-new-journey-to-the-west.json) |
 | New Lands 1 | 252390 | [252390-new-lands-1.json](./252390-new-lands-1.json) |
+| New Lands 2 | 254061 | [254061-new-lands-2.json](./254061-new-lands-2.json) |
 | New Lands: Legends of Tenkai - Collector's Edition | 369014 | [369014-new-lands-legends-of-tenkai-collectors-edition.json](./369014-new-lands-legends-of-tenkai-collectors-edition.json) |
 | New Legend of Sword and Fairy | 77971 | [77971-new-legend-of-sword-and-fairy.json](./77971-new-legend-of-sword-and-fairy.json) |
 | New Legends | 18268 | [18268-new-legends.json](./18268-new-legends.json) |
