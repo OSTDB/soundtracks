@@ -6008,6 +6008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Chopper | 87917 | [87917-police-chopper.json](./87917-police-chopper.json) |
 | Police Enforcement VR : 1-K-27 | 97014 | [97014-police-enforcement-vr-1-k-27.json](./97014-police-enforcement-vr-1-k-27.json) |
 | Police Girls | 393765 | [393765-police-girls.json](./393765-police-girls.json) |
+| Police Girls on the Case! | 231433 | [231433-police-girls-on-the-case.json](./231433-police-girls-on-the-case.json) |
 | Police Helicopter Simulator | 111959 | [111959-police-helicopter-simulator.json](./111959-police-helicopter-simulator.json) |
 | Police Officer | 415218 | [415218-police-officer.json](./415218-police-officer.json) |
 | Police on Duty | 209656 | [209656-police-on-duty.json](./209656-police-on-duty.json) |
