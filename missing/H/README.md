@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana Feels | 139306 | [139306-hana-feels.json](./139306-hana-feels.json) |
 | Hana Oboro: Sengoku-den Ranki | 136480 | [136480-hana-oboro-sengoku-den-ranki.json](./136480-hana-oboro-sengoku-den-ranki.json) |
 | Hana Saki Work Spring! | 111649 | [111649-hana-saki-work-spring.json](./111649-hana-saki-work-spring.json) |
+| Hana: Hide and Seek | 250529 | [250529-hana-hide-and-seek.json](./250529-hana-hide-and-seek.json) |
 | Hana: Spacetime Fantasy | 260715 | [260715-hana-spacetime-fantasy.json](./260715-hana-spacetime-fantasy.json) |
 | Hanabi | 131388 | [131388-hanabi.json](./131388-hanabi.json) |
 | Hanabi and Ghost Girl | 405738 | [405738-hanabi-and-ghost-girl.json](./405738-hanabi-and-ghost-girl.json) |
@@ -832,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Quest | 144926 | [144926-happy-quest.json](./144926-happy-quest.json) |
 | Happy Rabbit Farm | 338741 | [338741-happy-rabbit-farm.json](./338741-happy-rabbit-farm.json) |
 | Happy Room: Robo | 194035 | [194035-happy-room-robo.json](./194035-happy-room-robo.json) |
+| Happy Saint Sheol | 250495 | [250495-happy-saint-sheol.json](./250495-happy-saint-sheol.json) |
 | Happy Salvage | 143128 | [143128-happy-salvage.json](./143128-happy-salvage.json) |
 | Happy Sandwich Cafe | 159276 | [159276-happy-sandwich-cafe.json](./159276-happy-sandwich-cafe.json) |
 | Happy Sawland | 306564 | [306564-happy-sawland.json](./306564-happy-sawland.json) |
@@ -4069,6 +4071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiro's Harvest Season | 76532 | [76532-hiros-harvest-season.json](./76532-hiros-harvest-season.json) |
 | Hirocato: The Delivery Hero | 253934 | [253934-hirocato-the-delivery-hero.json](./253934-hirocato-the-delivery-hero.json) |
 | Hirogami | 317871 | [317871-hirogami.json](./317871-hirogami.json) |
+| Hirogaru Sky! Precure: Hirogaru! Puzzle Collection | 250536 | [250536-hirogaru-sky-precure-hirogaru-puzzle-collection.json](./250536-hirogaru-sky-precure-hirogaru-puzzle-collection.json) |
 | Hiromechia | 363935 | [363935-hiromechia.json](./363935-hiromechia.json) |
 | Hiromichi Oniisan no Oyako Taisou Navi | 220581 | [220581-hiromichi-oniisan-no-oyako-taisou-navi.json](./220581-hiromichi-oniisan-no-oyako-taisou-navi.json) |
 | Hiryu no Ken Collection | 397224 | [397224-hiryu-no-ken-collection.json](./397224-hiryu-no-ken-collection.json) |
