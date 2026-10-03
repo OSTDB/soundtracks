@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hachishakusama | 412501 | [412501-hachishakusama.json](./412501-hachishakusama.json) |
 | Hack | 2875 | [2875-hack.json](./2875-hack.json) |
 | Hack '95 | 405079 | [405079-hack-95.json](./405079-hack-95.json) |
+| Hack 'n' Stack | 258624 | [258624-hack-n-stack.json](./258624-hack-n-stack.json) |
 | Hack & Turn | 180114 | [180114-hack-and-turn.json](./180114-hack-and-turn.json) |
 | Hack 0 | 272813 | [272813-hack-0.json](./272813-hack-0.json) |
 | Hack 0 2 | 320292 | [320292-hack-0-2.json](./320292-hack-0-2.json) |
