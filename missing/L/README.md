@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L no Kisetsu 2: Invisible Memories | 62174 | [62174-l-no-kisetsu-2-invisible-memories.json](./62174-l-no-kisetsu-2-invisible-memories.json) |
 | L no Kisetsu: A Piece of Memories | 62175 | [62175-l-no-kisetsu-a-piece-of-memories.json](./62175-l-no-kisetsu-a-piece-of-memories.json) |
 | L no Kisetsu: W Pocket | 62173 | [62173-l-no-kisetsu-w-pocket.json](./62173-l-no-kisetsu-w-pocket.json) |
+| L Pop | 239113 | [239113-l-pop.json](./239113-l-pop.json) |
 | L the Prologue to Death Note -Spiraling Trap- | 22390 | [22390-l-the-prologue-to-death-note-spiraling-trap.json](./22390-l-the-prologue-to-death-note-spiraling-trap.json) |
 | L-Room | 262936 | [262936-l-room.json](./262936-l-room.json) |
 | L-RPG | 98036 | [98036-l-rpg.json](./98036-l-rpg.json) |
@@ -1733,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings | 239058 | [239058-lemmings.json](./239058-lemmings.json) |
 | Lemmings | 239059 | [239059-lemmings.json](./239059-lemmings.json) |
 | Lemmings | 239079 | [239079-lemmings.json](./239079-lemmings.json) |
+| Lemmings | 239128 | [239128-lemmings.json](./239128-lemmings.json) |
 | Lemmings | 239310 | [239310-lemmings.json](./239310-lemmings.json) |
 | Lemmings | 240318 | [240318-lemmings.json](./240318-lemmings.json) |
 | Lemmings | 240322 | [240322-lemmings.json](./240322-lemmings.json) |
@@ -2568,6 +2570,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like a Dragon: Infinite Wealth - Special Job Set | 288219 | [288219-like-a-dragon-infinite-wealth-special-job-set.json](./288219-like-a-dragon-infinite-wealth-special-job-set.json) |
 | Like a Dragon: Infinite Wealth - Special Outfit: Hello Work Employee (Ichiban) | 288221 | [288221-like-a-dragon-infinite-wealth-special-outfit-hello-work-employee-ichiban.json](./288221-like-a-dragon-infinite-wealth-special-outfit-hello-work-employee-ichiban.json) |
 | Like a Dragon: Infinite Wealth - Yakuza CD Collection Set | 288218 | [288218-like-a-dragon-infinite-wealth-yakuza-cd-collection-set.json](./288218-like-a-dragon-infinite-wealth-yakuza-cd-collection-set.json) |
+| Like a Dragon: Ishin! - Gun Upgrade Materials Kit | 239215 | [239215-like-a-dragon-ishin-gun-upgrade-materials-kit.json](./239215-like-a-dragon-ishin-gun-upgrade-materials-kit.json) |
+| Like a Dragon: Ishin! - Shinsengumi Captain's Set | 239212 | [239212-like-a-dragon-ishin-shinsengumi-captains-set.json](./239212-like-a-dragon-ishin-shinsengumi-captains-set.json) |
+| Like a Dragon: Ishin! - Sword Upgrade Materials Kit | 239214 | [239214-like-a-dragon-ishin-sword-upgrade-materials-kit.json](./239214-like-a-dragon-ishin-sword-upgrade-materials-kit.json) |
+| Like a Dragon: Ishin! - Third Division Armament Expansion Kit | 239213 | [239213-like-a-dragon-ishin-third-division-armament-expansion-kit.json](./239213-like-a-dragon-ishin-third-division-armament-expansion-kit.json) |
 | Like a Dragon: Pirate Yakuza in Hawaii - Collector's Edition | 327838 | [327838-like-a-dragon-pirate-yakuza-in-hawaii-collectors-edition.json](./327838-like-a-dragon-pirate-yakuza-in-hawaii-collectors-edition.json) |
 | Like a Fashionista | 39190 | [39190-like-a-fashionista.json](./39190-like-a-fashionista.json) |
 | Like a Hot Knife Through Butter | 223127 | [223127-like-a-hot-knife-through-butter.json](./223127-like-a-hot-knife-through-butter.json) |
