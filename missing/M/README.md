@@ -2536,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvellous Journeys Bundle | 196282 | [196282-marvellous-journeys-bundle.json](./196282-marvellous-journeys-bundle.json) |
 | Marvelous: Mouhitotsu no Takarajima | 15837 | [15837-marvelous-mouhitotsu-no-takarajima.json](./15837-marvelous-mouhitotsu-no-takarajima.json) |
 | Marwan's Haunting | 258509 | [258509-marwans-haunting.json](./258509-marwans-haunting.json) |
+| Mary Had a Little Lamb | 241458 | [241458-mary-had-a-little-lamb.json](./241458-mary-had-a-little-lamb.json) |
 | Mary Had A Lost Lamb | 314072 | [314072-mary-had-a-lost-lamb.json](./314072-mary-had-a-lost-lamb.json) |
 | Mary Help Me! | 258518 | [258518-mary-help-me.json](./258518-mary-help-me.json) |
 | Mary Jane | 374154 | [374154-mary-jane.json](./374154-mary-jane.json) |
@@ -3058,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mating Zone | 59888 | [59888-mating-zone.json](./59888-mating-zone.json) |
 | Mato Anomalies | 212050 | [212050-mato-anomalies.json](./212050-mato-anomalies.json) |
 | Mato Anomalies: Day One Edition | 228732 | [228732-mato-anomalies-day-one-edition.json](./228732-mato-anomalies-day-one-edition.json) |
+| Mato Anomalies: Digital Deluxe Edition | 241414 | [241414-mato-anomalies-digital-deluxe-edition.json](./241414-mato-anomalies-digital-deluxe-edition.json) |
 | Matolek the Goat the Inventor | 334659 | [334659-matolek-the-goat-the-inventor.json](./334659-matolek-the-goat-the-inventor.json) |
 | Matolek the Goat's School | 334651 | [334651-matolek-the-goats-school.json](./334651-matolek-the-goats-school.json) |
 | Matou no Houkai: The Hero of Babel | 64352 | [64352-matou-no-houkai-the-hero-of-babel.json](./64352-matou-no-houkai-the-hero-of-babel.json) |
@@ -10613,6 +10615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Shark | 331392 | [331392-my-shark.json](./331392-my-shark.json) |
 | My Shelf | 87882 | [87882-my-shelf.json](./87882-my-shelf.json) |
 | My Shelter | 348449 | [348449-my-shelter.json](./348449-my-shelter.json) |
+| My Shops | 241530 | [241530-my-shops.json](./241530-my-shops.json) |
 | My Silly Life | 158222 | [158222-my-silly-life.json](./158222-my-silly-life.json) |
 | My Silly Science Summer in the Past | 348758 | [348758-my-silly-science-summer-in-the-past.json](./348758-my-silly-science-summer-in-the-past.json) |
 | My Singing Monsters | 16305 | [16305-my-singing-monsters.json](./16305-my-singing-monsters.json) |
