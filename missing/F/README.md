@@ -1902,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felix the Cat's Giant Electronic Comic Book | 240933 | [240933-felix-the-cats-giant-electronic-comic-book.json](./240933-felix-the-cats-giant-electronic-comic-book.json) |
 | Felix the Reaper | 80006 | [80006-felix-the-reaper.json](./80006-felix-the-reaper.json) |
 | Felix the Toy | 144846 | [144846-felix-the-toy.json](./144846-felix-the-toy.json) |
+| Felix the Toy DX | 239140 | [239140-felix-the-toy-dx.json](./239140-felix-the-toy-dx.json) |
 | Felix VR | 163916 | [163916-felix-vr.json](./163916-felix-vr.json) |
 | Fell from another world | 213478 | [213478-fell-from-another-world.json](./213478-fell-from-another-world.json) |
 | Fell Seal DLC Bundle | 154965 | [154965-fell-seal-dlc-bundle.json](./154965-fell-seal-dlc-bundle.json) |
@@ -4673,6 +4674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Rising: Zero to Hero | 406285 | [406285-football-rising-zero-to-hero.json](./406285-football-rising-zero-to-hero.json) |
 | Football Russian 20!8 | 86306 | [86306-football-russian-20-8.json](./86306-football-russian-20-8.json) |
 | Football Saga Fantasista | 244801 | [244801-football-saga-fantasista.json](./244801-football-saga-fantasista.json) |
+| Football Seasons | 239117 | [239117-football-seasons.json](./239117-football-seasons.json) |
 | Football Showdown 2 | 240870 | [240870-football-showdown-2.json](./240870-football-showdown-2.json) |
 | Football Simulation Shoot Game | 220060 | [220060-football-simulation-shoot-game.json](./220060-football-simulation-shoot-game.json) |
 | Football Star Life 23/24 | 260152 | [260152-football-star-life-23-24.json](./260152-football-star-life-23-24.json) |
@@ -6241,6 +6243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogvival | 235482 | [235482-frogvival.json](./235482-frogvival.json) |
 | Frogworld | 167608 | [167608-frogworld.json](./167608-frogworld.json) |
 | Frogz | 329159 | [329159-frogz.json](./329159-frogz.json) |
+| From A to B | 239111 | [239111-from-a-to-b.json](./239111-from-a-to-b.json) |
 | From Ashes | 383594 | [383594-from-ashes.json](./383594-from-ashes.json) |
 | From Basement with Love | 384057 | [384057-from-basement-with-love.json](./384057-from-basement-with-love.json) |
 | From Below | 415065 | [415065-from-below.json](./415065-from-below.json) |
