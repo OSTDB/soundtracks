@@ -8562,6 +8562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Corporation | 174829 | [174829-crime-corporation.json](./174829-crime-corporation.json) |
 | Crime District | 165699 | [165699-crime-district.json](./165699-crime-district.json) |
 | Crime Fighters | 75525 | [75525-crime-fighters.json](./75525-crime-fighters.json) |
+| Crime Files Bundle | 254059 | [254059-crime-files-bundle.json](./254059-crime-files-bundle.json) |
 | Crime Investigation Escape | 240203 | [240203-crime-investigation-escape.json](./240203-crime-investigation-escape.json) |
 | Crime Kings | 233489 | [233489-crime-kings.json](./233489-crime-kings.json) |
 | Crime Map: Spot the Hidden Differences | 234625 | [234625-crime-map-spot-the-hidden-differences.json](./234625-crime-map-spot-the-hidden-differences.json) |
