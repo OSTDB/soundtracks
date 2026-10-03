@@ -5328,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Buster | 270766 | [270766-block-buster.json](./270766-block-buster.json) |
 | Block Buster | 38585 | [38585-block-buster.json](./38585-block-buster.json) |
 | Block Busters: Local Party | 172171 | [172171-block-busters-local-party.json](./172171-block-busters-local-party.json) |
+| Block by Block: Sliding Blocks | 232494 | [232494-block-by-block-sliding-blocks.json](./232494-block-by-block-sliding-blocks.json) |
 | Block Carnival | 38588 | [38588-block-carnival.json](./38588-block-carnival.json) |
 | Block Cascade | 387008 | [387008-block-cascade.json](./387008-block-cascade.json) |
 | Block Cat Jam | 297502 | [297502-block-cat-jam.json](./297502-block-cat-jam.json) |
@@ -5379,6 +5380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Puzzle 1010 | 227506 | [227506-block-puzzle-1010.json](./227506-block-puzzle-1010.json) |
 | Block Puzzle 3D | 400451 | [400451-block-puzzle-3d.json](./400451-block-puzzle-3d.json) |
 | Block Puzzle Wood | 90538 | [90538-block-puzzle-wood.json](./90538-block-puzzle-wood.json) |
+| Block Puzzle: Gem Legend | 232488 | [232488-block-puzzle-gem-legend.json](./232488-block-puzzle-gem-legend.json) |
 | Block Puzzle: Star Finder | 103165 | [103165-block-puzzle-star-finder.json](./103165-block-puzzle-star-finder.json) |
 | Block Quest V | 61556 | [61556-block-quest-v.json](./61556-block-quest-v.json) |
 | Block Rocking Beats | 37380 | [37380-block-rocking-beats.json](./37380-block-rocking-beats.json) |
@@ -6752,6 +6754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booze Master | 191852 | [191852-booze-master.json](./191852-booze-master.json) |
 | Booze Masters: Freezing Moonshine | 119092 | [119092-booze-masters-freezing-moonshine.json](./119092-booze-masters-freezing-moonshine.json) |
 | Booze Masters: Freezing Moonshine | 266821 | [266821-booze-masters-freezing-moonshine.json](./266821-booze-masters-freezing-moonshine.json) |
+| Bop A Dork | 232587 | [232587-bop-a-dork.json](./232587-bop-a-dork.json) |
 | Bop It! Tetris | 229069 | [229069-bop-it-tetris.json](./229069-bop-it-tetris.json) |
 | Bop'n Rumble | 47219 | [47219-bopn-rumble.json](./47219-bopn-rumble.json) |
 | Bopimo! | 325696 | [325696-bopimo.json](./325696-bopimo.json) |
@@ -7679,6 +7682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Bounds: Exile | 190741 | [190741-break-bounds-exile.json](./190741-break-bounds-exile.json) |
 | Break Brick Out | 175742 | [175742-break-brick-out.json](./175742-break-brick-out.json) |
 | Break Everything: Living room | 230922 | [230922-break-everything-living-room.json](./230922-break-everything-living-room.json) |
+| Break Everything: Park | 232522 | [232522-break-everything-park.json](./232522-break-everything-park.json) |
 | Break Free | 304334 | [304334-break-free.json](./304334-break-free.json) |
 | Break In | 70097 | [70097-break-in.json](./70097-break-in.json) |
 | Break Into Zatwor | 27775 | [27775-break-into-zatwor.json](./27775-break-into-zatwor.json) |
