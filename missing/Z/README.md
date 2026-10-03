@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zolyx | 52202 | [52202-zolyx.json](./52202-zolyx.json) |
 | Zom Nom | 127768 | [127768-zom-nom.json](./127768-zom-nom.json) |
 | Zom Tom | 199372 | [199372-zom-tom.json](./199372-zom-tom.json) |
+| Zombactory | 267021 | [267021-zombactory.json](./267021-zombactory.json) |
 | Zombapocalypse | 25753 | [25753-zombapocalypse.json](./25753-zombapocalypse.json) |
 | Zombardment | 161647 | [161647-zombardment.json](./161647-zombardment.json) |
 | Zombase | 377134 | [377134-zombase.json](./377134-zombase.json) |
