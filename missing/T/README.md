@@ -2619,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Evolution | 2631 | [2631-tetris-evolution.json](./2631-tetris-evolution.json) |
 | Tetris Forever | 314934 | [314934-tetris-forever.json](./314934-tetris-forever.json) |
 | Tetris Giant | 92457 | [92457-tetris-giant.json](./92457-tetris-giant.json) |
+| Tetris Illuminated Mega Screen | 233647 | [233647-tetris-illuminated-mega-screen.json](./233647-tetris-illuminated-mega-screen.json) |
 | Tetris Jr. | 351732 | [351732-tetris-jr.json](./351732-tetris-jr.json) |
 | Tetris Keyring Arcade | 234080 | [234080-tetris-keyring-arcade.json](./234080-tetris-keyring-arcade.json) |
 | Tetris Kiwamemichi | 137623 | [137623-tetris-kiwamemichi.json](./137623-tetris-kiwamemichi.json) |
@@ -4562,6 +4563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Lost Depths | 237338 | [237338-the-elder-scrolls-online-lost-depths.json](./237338-the-elder-scrolls-online-lost-depths.json) |
 | The Elder Scrolls Online: Markarth | 237336 | [237336-the-elder-scrolls-online-markarth.json](./237336-the-elder-scrolls-online-markarth.json) |
 | The Elder Scrolls Online: Morrowind - Collector's Edition | 136339 | [136339-the-elder-scrolls-online-morrowind-collectors-edition.json](./136339-the-elder-scrolls-online-morrowind-collectors-edition.json) |
+| The Elder Scrolls Online: Necrom | 233587 | [233587-the-elder-scrolls-online-necrom.json](./233587-the-elder-scrolls-online-necrom.json) |
 | The Elder Scrolls Online: Season One - Return of the Thieves Guild | 405082 | [405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json](./405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json) |
 | The Elder Scrolls Online: Shadows of the Hist | 128476 | [128476-the-elder-scrolls-online-shadows-of-the-hist.json](./128476-the-elder-scrolls-online-shadows-of-the-hist.json) |
 | The Elder Scrolls Online: Stonethorn | 135827 | [135827-the-elder-scrolls-online-stonethorn.json](./135827-the-elder-scrolls-online-stonethorn.json) |
@@ -7375,6 +7377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Next Stop | 364026 | [364026-the-next-stop.json](./364026-the-next-stop.json) |
 | The Next Tetris | 51179 | [51179-the-next-tetris.json](./51179-the-next-tetris.json) |
 | The Next World | 344422 | [344422-the-next-world.json](./344422-the-next-world.json) |
+| The Night Before Star Wars | 233653 | [233653-the-night-before-star-wars.json](./233653-the-night-before-star-wars.json) |
 | The Night Guard | 295385 | [295385-the-night-guard.json](./295385-the-night-guard.json) |
 | The Night Is Long | 350010 | [350010-the-night-is-long.json](./350010-the-night-is-long.json) |
 | The Night Jackals Vol. 1 | 289975 | [289975-the-night-jackals-vol-1.json](./289975-the-night-jackals-vol-1.json) |
@@ -8976,6 +8979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Swine | 137693 | [137693-the-swine.json](./137693-the-swine.json) |
 | The Switch-Worker | 184490 | [184490-the-switch-worker.json](./184490-the-switch-worker.json) |
 | The Swoop 64 | 145429 | [145429-the-swoop-64.json](./145429-the-swoop-64.json) |
+| The Sword and the Fish | 233661 | [233661-the-sword-and-the-fish.json](./233661-the-sword-and-the-fish.json) |
 | The Sword and the Slime | 121455 | [121455-the-sword-and-the-slime.json](./121455-the-sword-and-the-slime.json) |
 | The Sword of Ares for Quake | 196720 | [196720-the-sword-of-ares-for-quake.json](./196720-the-sword-of-ares-for-quake.json) |
 | The Sword of Etheria | 10901 | [10901-the-sword-of-etheria.json](./10901-the-sword-of-etheria.json) |
@@ -14257,6 +14261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tractor Racing ( 3D Heavy Monster Truck Race Game on Dirt Track ) | 102577 | [102577-tractor-racing-3d-heavy-monster-truck-race-game-on-dirt-track.json](./102577-tractor-racing-3d-heavy-monster-truck-race-game-on-dirt-track.json) |
 | Tractorball | 55233 | [55233-tractorball.json](./55233-tractorball.json) |
 | Trade And Fight | 306366 | [306366-trade-and-fight.json](./306366-trade-and-fight.json) |
+| Trade Bots: A Technical Analysis Simulation | 233664 | [233664-trade-bots-a-technical-analysis-simulation.json](./233664-trade-bots-a-technical-analysis-simulation.json) |
 | Trade City | 257683 | [257683-trade-city.json](./257683-trade-city.json) |
 | Trade Conquest | 326281 | [326281-trade-conquest.json](./326281-trade-conquest.json) |
 | Trade Em Up: TCG Empire Shop | 324995 | [324995-trade-em-up-tcg-empire-shop.json](./324995-trade-em-up-tcg-empire-shop.json) |
