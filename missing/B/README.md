@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Home | 258558 | [258558-back-to-home.json](./258558-back-to-home.json) |
 | Back to Life 3 | 36102 | [36102-back-to-life-3.json](./36102-back-to-life-3.json) |
 | Back to Nature | 84980 | [84980-back-to-nature.json](./84980-back-to-nature.json) |
+| Back to Reality | 267012 | [267012-back-to-reality.json](./267012-back-to-reality.json) |
 | Back To School | 278739 | [278739-back-to-school.json](./278739-back-to-school.json) |
 | Back To School | 379991 | [379991-back-to-school.json](./379991-back-to-school.json) |
 | Back to the Collis | 244708 | [244708-back-to-the-collis.json](./244708-back-to-the-collis.json) |
@@ -435,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Dream: Purgatory | 244724 | [244724-bad-dream-purgatory.json](./244724-bad-dream-purgatory.json) |
 | Bad Dream: Series | 179624 | [179624-bad-dream-series.json](./179624-bad-dream-series.json) |
 | Bad Dreams | 69571 | [69571-bad-dreams.json](./69571-bad-dreams.json) |
+| Bad Dreams: Free Dive | 266974 | [266974-bad-dreams-free-dive.json](./266974-bad-dreams-free-dive.json) |
 | Bad Drummer Simulator | 178598 | [178598-bad-drummer-simulator.json](./178598-bad-drummer-simulator.json) |
 | Bad Dudes | 215085 | [215085-bad-dudes.json](./215085-bad-dudes.json) |
 | Bad Dudes vs. Dragon Ninja | 18831 | [18831-bad-dudes-vs-dragon-ninja.json](./18831-bad-dudes-vs-dragon-ninja.json) |
@@ -1601,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basil and the Isles of Spice | 334213 | [334213-basil-and-the-isles-of-spice.json](./334213-basil-and-the-isles-of-spice.json) |
 | Basil Goes O.U.T.S.I.D.E. | 202260 | [202260-basil-goes-o-u-t-s-i-d-e.json](./202260-basil-goes-o-u-t-s-i-d-e.json) |
 | Basileia Romaion 1736 | 356264 | [356264-basileia-romaion-1736.json](./356264-basileia-romaion-1736.json) |
+| Basilisk | 266975 | [266975-basilisk.json](./266975-basilisk.json) |
 | Basilisk 2000 | 243390 | [243390-basilisk-2000.json](./243390-basilisk-2000.json) |
 | Basilisk! | 297782 | [297782-basilisk.json](./297782-basilisk.json) |
 | Bask: The Alchemist Frog | 338195 | [338195-bask-the-alchemist-frog.json](./338195-bask-the-alchemist-frog.json) |
@@ -2030,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Orion 10: First contact | 235474 | [235474-battle-of-orion-10-first-contact.json](./235474-battle-of-orion-10-first-contact.json) |
 | Battle of Plans | 417500 | [417500-battle-of-plans.json](./417500-battle-of-plans.json) |
 | Battle of Puppets | 66616 | [66616-battle-of-puppets.json](./66616-battle-of-puppets.json) |
+| Battle of Rebels | 266972 | [266972-battle-of-rebels.json](./266972-battle-of-rebels.json) |
 | Battle of Tarlis | 259587 | [259587-battle-of-tarlis.json](./259587-battle-of-tarlis.json) |
 | Battle of the Four Towers | 368012 | [368012-battle-of-the-four-towers.json](./368012-battle-of-the-four-towers.json) |
 | Battle of the Immortals | 51218 | [51218-battle-of-the-immortals.json](./51218-battle-of-the-immortals.json) |
@@ -2794,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 33 Sparkle Shower | 367970 | [367970-beatmania-iidx-33-sparkle-shower.json](./367970-beatmania-iidx-33-sparkle-shower.json) |
 | Beatmania III The Final | 61022 | [61022-beatmania-iii-the-final.json](./61022-beatmania-iii-the-final.json) |
 | Beatmania The Final | 135672 | [135672-beatmania-the-final.json](./135672-beatmania-the-final.json) |
+| Beatmons 2 | 267004 | [267004-beatmons-2.json](./267004-beatmons-2.json) |
 | BeatMotor | 192841 | [192841-beatmotor.json](./192841-beatmotor.json) |
 | Beatoraja | 130770 | [130770-beatoraja.json](./130770-beatoraja.json) |
 | BeatRider | 305789 | [305789-beatrider.json](./305789-beatrider.json) |
@@ -6943,6 +6948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounden | 61876 | [61876-bounden.json](./61876-bounden.json) |
 | Boundless | 14365 | [14365-boundless.json](./14365-boundless.json) |
 | Boundless | 369560 | [369560-boundless.json](./369560-boundless.json) |
+| Boundless Paths | 267023 | [267023-boundless-paths.json](./267023-boundless-paths.json) |
 | Boundless Skies | 278969 | [278969-boundless-skies.json](./278969-boundless-skies.json) |
 | BoundWorlds | 295501 | [295501-boundworlds.json](./295501-boundworlds.json) |
 | Bounters | 199119 | [199119-bounters.json](./199119-bounters.json) |
@@ -8365,6 +8371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Eyes | 15690 | [15690-bug-eyes.json](./15690-bug-eyes.json) |
 | Bug Fables: Aphid Festival | 145560 | [145560-bug-fables-aphid-festival.json](./145560-bug-fables-aphid-festival.json) |
 | Bug Heroes | 92316 | [92316-bug-heroes.json](./92316-bug-heroes.json) |
+| Bug Heroes: Tower Defense | 266979 | [266979-bug-heroes-tower-defense.json](./266979-bug-heroes-tower-defense.json) |
 | Bug Hunter | 317575 | [317575-bug-hunter.json](./317575-bug-hunter.json) |
 | Bug Invaders | 82398 | [82398-bug-invaders.json](./82398-bug-invaders.json) |
 | Bug Killers | 51958 | [51958-bug-killers.json](./51958-bug-killers.json) |
@@ -8998,6 +9005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust-A-Move 2: Arcade Edition | 3455 | [3455-bust-a-move-2-arcade-edition.json](./3455-bust-a-move-2-arcade-edition.json) |
 | Bust-A-Move 3000 | 50570 | [50570-bust-a-move-3000.json](./50570-bust-a-move-3000.json) |
 | Bust-A-Move Again | 146217 | [146217-bust-a-move-again.json](./146217-bust-a-move-again.json) |
+| Bust-A-Move Again | 267008 | [267008-bust-a-move-again.json](./267008-bust-a-move-again.json) |
 | Bust-a-Move DS | 22572 | [22572-bust-a-move-ds.json](./22572-bust-a-move-ds.json) |
 | Bust-A-Move Frenzy | 138682 | [138682-bust-a-move-frenzy.json](./138682-bust-a-move-frenzy.json) |
 | Bust-A-Move Live! | 21102 | [21102-bust-a-move-live.json](./21102-bust-a-move-live.json) |
