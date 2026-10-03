@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qanga | 97909 | [97909-qanga.json](./97909-qanga.json) |
 | Qarx | 142375 | [142375-qarx.json](./142375-qarx.json) |
 | Qasir al-Wasat: International Edition | 36327 | [36327-qasir-al-wasat-international-edition.json](./36327-qasir-al-wasat-international-edition.json) |
+| QatQi | 265844 | [265844-qatqi.json](./265844-qatqi.json) |
 | Qavo | 135031 | [135031-qavo.json](./135031-qavo.json) |
 | QB - a cube's tale | 96911 | [96911-qb-a-cubes-tale.json](./96911-qb-a-cubes-tale.json) |
 | QB Debugger Hero | 384786 | [384786-qb-debugger-hero.json](./384786-qb-debugger-hero.json) |
