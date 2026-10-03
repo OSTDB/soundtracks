@@ -8678,6 +8678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimzon Clover: World EXplosion | 140395 | [140395-crimzon-clover-world-explosion.json](./140395-crimzon-clover-world-explosion.json) |
 | Crimzon Clover: World Ignition | 8763 | [8763-crimzon-clover-world-ignition.json](./8763-crimzon-clover-world-ignition.json) |
 | Cringegolf | 296386 | [296386-cringegolf.json](./296386-cringegolf.json) |
+| Criptotamagothic Lite | 250500 | [250500-criptotamagothic-lite.json](./250500-criptotamagothic-lite.json) |
 | Crisálida | 381284 | [381284-crisalida.json](./381284-crisalida.json) |
 | Crisis Action | 86093 | [86093-crisis-action.json](./86093-crisis-action.json) |
 | Crisis Action VR | 51500 | [51500-crisis-action-vr.json](./51500-crisis-action-vr.json) |
