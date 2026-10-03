@@ -4151,6 +4151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Princess Arena | 269219 | [269219-pixel-princess-arena.json](./269219-pixel-princess-arena.json) |
 | Pixel Privateers | 27405 | [27405-pixel-privateers.json](./27405-pixel-privateers.json) |
 | Pixel Pro Tennis | 213643 | [213643-pixel-pro-tennis.json](./213643-pixel-pro-tennis.json) |
+| Pixel Punk | 252275 | [252275-pixel-punk.json](./252275-pixel-punk.json) |
 | Pixel Push Football | 240868 | [240868-pixel-push-football.json](./240868-pixel-push-football.json) |
 | Pixel Puzzle Makeout League | 121603 | [121603-pixel-puzzle-makeout-league.json](./121603-pixel-puzzle-makeout-league.json) |
 | Pixel Puzzles | 243639 | [243639-pixel-puzzles.json](./243639-pixel-puzzles.json) |
@@ -6380,6 +6381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PoPoLoCrois Monogatari | 63015 | [63015-popolocrois-monogatari.json](./63015-popolocrois-monogatari.json) |
 | PoPoLoCrois Monogatari II | 63016 | [63016-popolocrois-monogatari-ii.json](./63016-popolocrois-monogatari-ii.json) |
 | PoPoLoCrois Monogatari: Narcia no Namida to Yousei no Fue | 82802 | [82802-popolocrois-monogatari-narcia-no-namida-to-yousei-no-fue.json](./82802-popolocrois-monogatari-narcia-no-namida-to-yousei-no-fue.json) |
+| Popologist: Camera Slinger | 252274 | [252274-popologist-camera-slinger.json](./252274-popologist-camera-slinger.json) |
 | Popop! | 160245 | [160245-popop.json](./160245-popop.json) |
 | Popoposan | 329555 | [329555-popoposan.json](./329555-popoposan.json) |
 | PoPoRoGue | 79937 | [79937-poporogue.json](./79937-poporogue.json) |
