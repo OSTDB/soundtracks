@@ -4238,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds & Balls | 95233 | [95233-birds-and-balls.json](./95233-birds-and-balls.json) |
 | Birds and Blocks | 147926 | [147926-birds-and-blocks.json](./147926-birds-and-blocks.json) |
 | Birds Are Not Real | 416681 | [416681-birds-are-not-real.json](./416681-birds-are-not-real.json) |
+| Birds Aren’t Real | 249357 | [249357-birds-aren-t-real.json](./249357-birds-aren-t-real.json) |
 | Birds Birds Birds | 107209 | [107209-birds-birds-birds.json](./107209-birds-birds-birds.json) |
 | Birds Blitz | 242663 | [242663-birds-blitz.json](./242663-birds-blitz.json) |
 | Birds no More | 245317 | [245317-birds-no-more.json](./245317-birds-no-more.json) |
@@ -5770,6 +5771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blooming Business: Casino | 151543 | [151543-blooming-business-casino.json](./151543-blooming-business-casino.json) |
 | Blooming Cards | 377054 | [377054-blooming-cards.json](./377054-blooming-cards.json) |
 | Blooming Suspicion | 365308 | [365308-blooming-suspicion.json](./365308-blooming-suspicion.json) |
+| Bloompunk | 249355 | [249355-bloompunk.json](./249355-bloompunk.json) |
 | Blooms | 202241 | [202241-blooms.json](./202241-blooms.json) |
 | Bloomyth & Strong Moon Bundle | 262055 | [262055-bloomyth-and-strong-moon-bundle.json](./262055-bloomyth-and-strong-moon-bundle.json) |
 | Bloons | 261913 | [261913-bloons.json](./261913-bloons.json) |
@@ -6272,6 +6274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Bowling | 307307 | [307307-bomb-bowling.json](./307307-bomb-bowling.json) |
 | Bomb Bowling 2 | 124189 | [124189-bomb-bowling-2.json](./124189-bomb-bowling-2.json) |
 | Bomb Bowling X | 331461 | [331461-bomb-bowling-x.json](./331461-bomb-bowling-x.json) |
+| Bomb Buddies | 249356 | [249356-bomb-buddies.json](./249356-bomb-buddies.json) |
 | Bomb Cat | 300776 | [300776-bomb-cat.json](./300776-bomb-cat.json) |
 | Bomb Club | 175194 | [175194-bomb-club.json](./175194-bomb-club.json) |
 | Bomb Craft Tnt | 88319 | [88319-bomb-craft-tnt.json](./88319-bomb-craft-tnt.json) |
@@ -6996,6 +6999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound of the Skies | 38976 | [38976-bound-of-the-skies.json](./38976-bound-of-the-skies.json) |
 | Bound to Defend | 410267 | [410267-bound-to-defend.json](./410267-bound-to-defend.json) |
 | Bound to Light | 74494 | [74494-bound-to-light.json](./74494-bound-to-light.json) |
+| Bounda Forever | 249361 | [249361-bounda-forever.json](./249361-bounda-forever.json) |
 | Boundary | 22395 | [22395-boundary.json](./22395-boundary.json) |
 | Boundary Gate: Daughter of Kingdom | 45949 | [45949-boundary-gate-daughter-of-kingdom.json](./45949-boundary-gate-daughter-of-kingdom.json) |
 | Boundary Master | 311268 | [311268-boundary-master.json](./311268-boundary-master.json) |
@@ -7086,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowman | 357273 | [357273-bowman.json](./357273-bowman.json) |
 | Bowman 2 | 192329 | [192329-bowman-2.json](./192329-bowman-2.json) |
 | Bowman VS Zombies | 103625 | [103625-bowman-vs-zombies.json](./103625-bowman-vs-zombies.json) |
+| Bowmaster 2: Archery Tournament | 249367 | [249367-bowmaster-2-archery-tournament.json](./249367-bowmaster-2-archery-tournament.json) |
 | Bowmasters | 71911 | [71911-bowmasters.json](./71911-bowmasters.json) |
 | Bowmen | 129731 | [129731-bowmen.json](./129731-bowmen.json) |
 | Bowmen | 277383 | [277383-bowmen.json](./277383-bowmen.json) |
