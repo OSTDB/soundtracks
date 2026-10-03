@@ -1743,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Man's Hand | 5809 | [5809-dead-mans-hand.json](./5809-dead-mans-hand.json) |
 | Dead Man's Journey | 58314 | [58314-dead-mans-journey.json](./58314-dead-mans-journey.json) |
 | Dead Man's Political Party | 71454 | [71454-dead-mans-political-party.json](./71454-dead-mans-political-party.json) |
+| Dead Man's Quest | 271937 | [271937-dead-mans-quest.json](./271937-dead-mans-quest.json) |
 | Dead Matter | 102806 | [102806-dead-matter.json](./102806-dead-matter.json) |
 | Dead Mayhem | 105305 | [105305-dead-mayhem.json](./105305-dead-mayhem.json) |
 | Dead Maze | 55494 | [55494-dead-maze.json](./55494-dead-maze.json) |
@@ -2525,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Inside | 309535 | [309535-deep-inside.json](./309535-deep-inside.json) |
 | Deep Labyrinth | 20552 | [20552-deep-labyrinth.json](./20552-deep-labyrinth.json) |
 | Deep Line | 361810 | [361810-deep-line.json](./361810-deep-line.json) |
+| Deep Loot | 271930 | [271930-deep-loot.json](./271930-deep-loot.json) |
 | Deep Madness | 165630 | [165630-deep-madness.json](./165630-deep-madness.json) |
 | Deep Mine | 274024 | [274024-deep-mine.json](./274024-deep-mine.json) |
 | Deep Nest | 262950 | [262950-deep-nest.json](./262950-deep-nest.json) |
