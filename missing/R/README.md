@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rana Card | 345059 | [345059-rana-card.json](./345059-rana-card.json) |
 | Rana Neida | 303070 | [303070-rana-neida.json](./303070-rana-neida.json) |
 | Rana Rama | 30805 | [30805-rana-rama.json](./30805-rana-rama.json) |
+| Ranbu: Sangokushi Rumble | 231989 | [231989-ranbu-sangokushi-rumble.json](./231989-ranbu-sangokushi-rumble.json) |
 | Rance 03: The Fall of Leazas | 132710 | [132710-rance-03-the-fall-of-leazas.json](./132710-rance-03-the-fall-of-leazas.json) |
 | Rance 4.1: Okusuri Koujou wo Sukue! | 132638 | [132638-rance-4-1-okusuri-koujou-wo-sukue.json](./132638-rance-4-1-okusuri-koujou-wo-sukue.json) |
 | Rance 4.2: Angel-gumi | 132639 | [132639-rance-4-2-angel-gumi.json](./132639-rance-4-2-angel-gumi.json) |
@@ -1711,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reapers Reception | 406923 | [406923-reapers-reception.json](./406923-reapers-reception.json) |
 | Reaprieve | 347907 | [347907-reaprieve.json](./347907-reaprieve.json) |
 | Rear Pheles: Red of Another | 59446 | [59446-rear-pheles-red-of-another.json](./59446-rear-pheles-red-of-another.json) |
+| Rearmed Trials | 231994 | [231994-rearmed-trials.json](./231994-rearmed-trials.json) |
 | Reason: Casual Puzzle | 148000 | [148000-reason-casual-puzzle.json](./148000-reason-casual-puzzle.json) |
 | Reasonable Claustrophobia | 182922 | [182922-reasonable-claustrophobia.json](./182922-reasonable-claustrophobia.json) |
 | Reasoning of Courage Nori 3 Balanced Diet | 251680 | [251680-reasoning-of-courage-nori-3-balanced-diet.json](./251680-reasoning-of-courage-nori-3-balanced-diet.json) |
@@ -3273,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revamped | 260216 | [260216-revamped.json](./260216-revamped.json) |
 | Reveal Fantasia | 112136 | [112136-reveal-fantasia.json](./112136-reveal-fantasia.json) |
 | Reveal that Word! | 241340 | [241340-reveal-that-word.json](./241340-reveal-that-word.json) |
+| Reveal! Multiplayer Edition | 232070 | [232070-reveal-multiplayer-edition.json](./232070-reveal-multiplayer-edition.json) |
 | Revealed | 388705 | [388705-revealed.json](./388705-revealed.json) |
 | Reveil: Funhouse Edition | 290112 | [290112-reveil-funhouse-edition.json](./290112-reveil-funhouse-edition.json) |
 | Revelation | 263510 | [263510-revelation.json](./263510-revelation.json) |
