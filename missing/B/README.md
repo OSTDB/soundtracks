@@ -1076,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie: Fort Fun | 338821 | [338821-banjo-kazooie-fort-fun.json](./338821-banjo-kazooie-fort-fun.json) |
 | Banjo-Kazooie: Legend of the Crystal Jiggy | 172671 | [172671-banjo-kazooie-legend-of-the-crystal-jiggy.json](./172671-banjo-kazooie-legend-of-the-crystal-jiggy.json) |
 | Banjo-Kazooie: Nostalgia 64 | 154990 | [154990-banjo-kazooie-nostalgia-64.json](./154990-banjo-kazooie-nostalgia-64.json) |
+| Banjo-Kazooie: The Hidden Lair | 234122 | [234122-banjo-kazooie-the-hidden-lair.json](./234122-banjo-kazooie-the-hidden-lair.json) |
 | Banjo-Pilot | 6316 | [6316-banjo-pilot.json](./6316-banjo-pilot.json) |
 | Banjo-Threeie | 200644 | [200644-banjo-threeie.json](./200644-banjo-threeie.json) |
 | Banjo-Threeie | 300262 | [300262-banjo-threeie.json](./300262-banjo-threeie.json) |
@@ -3672,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bible Word Puzzle | 103547 | [103547-bible-word-puzzle.json](./103547-bible-word-puzzle.json) |
 | BibleGirl's Big Apple | 56448 | [56448-biblegirls-big-apple.json](./56448-biblegirls-big-apple.json) |
 | Biblically Inaccurate | 374043 | [374043-biblically-inaccurate.json](./374043-biblically-inaccurate.json) |
+| Biblios Dice | 234115 | [234115-biblios-dice.json](./234115-biblios-dice.json) |
 | Biblios: Tome of Darkness | 306343 | [306343-biblios-tome-of-darkness.json](./306343-biblios-tome-of-darkness.json) |
 | Biblioteksspel | 393749 | [393749-biblioteksspel.json](./393749-biblioteksspel.json) |
 | Biblistry | 58797 | [58797-biblistry.json](./58797-biblistry.json) |
