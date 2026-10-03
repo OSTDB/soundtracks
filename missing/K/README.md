@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemono Friends Pavilion | 214738 | [214738-kemono-friends-pavilion.json](./214738-kemono-friends-pavilion.json) |
 | Kemono Friends Picross | 107655 | [107655-kemono-friends-picross.json](./107655-kemono-friends-picross.json) |
 | Kemono Friends: Cellien May Cry | 199376 | [199376-kemono-friends-cellien-may-cry.json](./199376-kemono-friends-cellien-may-cry.json) |
+| Kemono Friends: Kingdom | 248183 | [248183-kemono-friends-kingdom.json](./248183-kemono-friends-kingdom.json) |
 | Kemono Friends: Neko to Wakai se yo | 254533 | [254533-kemono-friends-neko-to-wakai-se-yo.json](./254533-kemono-friends-neko-to-wakai-se-yo.json) |
 | Kemono Friends: Opening Day | 247776 | [247776-kemono-friends-opening-day.json](./247776-kemono-friends-opening-day.json) |
 | Kemono Labyrinth | 225729 | [225729-kemono-labyrinth.json](./225729-kemono-labyrinth.json) |
@@ -1223,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiko: The Last Totem | 92080 | [92080-kiko-the-last-totem.json](./92080-kiko-the-last-totem.json) |
 | Kiko's Apple Adventure | 336635 | [336635-kikos-apple-adventure.json](./336635-kikos-apple-adventure.json) |
 | Kikokugai | 232662 | [232662-kikokugai.json](./232662-kikokugai.json) |
+| Kikou Busou G-Breaker: Legend of Cloudia | 248211 | [248211-kikou-busou-g-breaker-legend-of-cloudia.json](./248211-kikou-busou-g-breaker-legend-of-cloudia.json) |
 | Kikou Heidan J-Phoenix + | 58879 | [58879-kikou-heidan-j-phoenix.json](./58879-kikou-heidan-j-phoenix.json) |
 | Kikou Seiki Unitron | 43969 | [43969-kikou-seiki-unitron.json](./43969-kikou-seiki-unitron.json) |
 | Kikou Souhei Armodyne | 59076 | [59076-kikou-souhei-armodyne.json](./59076-kikou-souhei-armodyne.json) |
