@@ -5336,11 +5336,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey: Boxing Champ | 349448 | [349448-mickey-boxing-champ.json](./349448-mickey-boxing-champ.json) |
 | Mickey's 123's: The Big Surprise Party | 65768 | [65768-mickeys-123s-the-big-surprise-party.json](./65768-mickeys-123s-the-big-surprise-party.json) |
 | Mickey's Adventure in Numberland | 18102 | [18102-mickeys-adventure-in-numberland.json](./18102-mickeys-adventure-in-numberland.json) |
+| Mickey's Apple Cart | 246511 | [246511-mickeys-apple-cart.json](./246511-mickeys-apple-cart.json) |
 | Mickey's Dangerous Chase | 8127 | [8127-mickeys-dangerous-chase.json](./8127-mickeys-dangerous-chase.json) |
 | Mickey's House Party | 214046 | [214046-mickeys-house-party.json](./214046-mickeys-house-party.json) |
 | Mickey's Robot Laboratory | 320330 | [320330-mickeys-robot-laboratory.json](./320330-mickeys-robot-laboratory.json) |
 | Mickey's Speedway USA | 3408 | [3408-mickeys-speedway-usa.json](./3408-mickeys-speedway-usa.json) |
 | Mickey's Speedway USA: Huey | 248304 | [248304-mickeys-speedway-usa-huey.json](./248304-mickeys-speedway-usa-huey.json) |
+| Mickey's Surf Adventure | 246512 | [246512-mickeys-surf-adventure.json](./246512-mickeys-surf-adventure.json) |
 | Mickey's Typing Adventure | 56004 | [56004-mickeys-typing-adventure.json](./56004-mickeys-typing-adventure.json) |
 | Mickey's Ultimate Challenge | 307073 | [307073-mickeys-ultimate-challenge.json](./307073-mickeys-ultimate-challenge.json) |
 | Mickey's Ultimate Challenge | 307076 | [307076-mickeys-ultimate-challenge.json](./307076-mickeys-ultimate-challenge.json) |
@@ -6659,6 +6661,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minnano Gensokyo Single | 369561 | [369561-minnano-gensokyo-single.json](./369561-minnano-gensokyo-single.json) |
 | Minnie | 228443 | [228443-minnie.json](./228443-minnie.json) |
 | Minnie & Friends: Yume no Kuni wo Sagashite | 282232 | [282232-minnie-and-friends-yume-no-kuni-wo-sagashite.json](./282232-minnie-and-friends-yume-no-kuni-wo-sagashite.json) |
+| Minnie's Eggs-Aspirating Hen House | 246513 | [246513-minnies-eggs-aspirating-hen-house.json](./246513-minnies-eggs-aspirating-hen-house.json) |
+| Minnie's Fruit Fiasco | 246514 | [246514-minnies-fruit-fiasco.json](./246514-minnies-fruit-fiasco.json) |
+| Minnie's Pearls | 246515 | [246515-minnies-pearls.json](./246515-minnies-pearls.json) |
 | Minoes | 133250 | [133250-minoes.json](./133250-minoes.json) |
 | Minor Deity | 371478 | [371478-minor-deity.json](./371478-minor-deity.json) |
 | Minor Miner: Mining Action | 232035 | [232035-minor-miner-mining-action.json](./232035-minor-miner-mining-action.json) |
