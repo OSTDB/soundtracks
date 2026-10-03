@@ -4538,6 +4538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love of Renai Koutei of Love! | 172713 | [172713-love-of-renai-koutei-of-love.json](./172713-love-of-renai-koutei-of-love.json) |
 | Love on Leave | 247495 | [247495-love-on-leave.json](./247495-love-on-leave.json) |
 | Love on Paper | 158220 | [158220-love-on-paper.json](./158220-love-on-paper.json) |
+| Love Option | 228598 | [228598-love-option.json](./228598-love-option.json) |
 | Love or Die | 124041 | [124041-love-or-die.json](./124041-love-or-die.json) |
 | Love or Loved | 83592 | [83592-love-or-loved.json](./83592-love-or-loved.json) |
 | Love Pheromone | 205609 | [205609-love-pheromone.json](./205609-love-pheromone.json) |
@@ -4729,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luànshì Yúnyān | 398456 | [398456-luanshi-yunyan.json](./398456-luanshi-yunyan.json) |
 | Luberman and the Legend of Animals Warriors | 208580 | [208580-luberman-and-the-legend-of-animals-warriors.json](./208580-luberman-and-the-legend-of-animals-warriors.json) |
 | Luc Bernard's Reaper | 93601 | [93601-luc-bernards-reaper.json](./93601-luc-bernards-reaper.json) |
+| Luca no Puzzle de Daibouken! | 228606 | [228606-luca-no-puzzle-de-daibouken.json](./228606-luca-no-puzzle-de-daibouken.json) |
 | Luca: The Dreamer | 105766 | [105766-luca-the-dreamer.json](./105766-luca-the-dreamer.json) |
 | Lucah: Born of a Dream | 99120 | [99120-lucah-born-of-a-dream.json](./99120-lucah-born-of-a-dream.json) |
 | Lucas Mendoza: Amateur Detective | 323880 | [323880-lucas-mendoza-amateur-detective.json](./323880-lucas-mendoza-amateur-detective.json) |
@@ -5009,6 +5011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminous Arc Infinity | 25101 | [25101-luminous-arc-infinity.json](./25101-luminous-arc-infinity.json) |
 | Luminous Combat | 95607 | [95607-luminous-combat.json](./95607-luminous-combat.json) |
 | Luminous Kingdom | 386291 | [386291-luminous-kingdom.json](./386291-luminous-kingdom.json) |
+| Luminous of Stellar | 228486 | [228486-luminous-of-stellar.json](./228486-luminous-of-stellar.json) |
 | Luminous Plume | 140981 | [140981-luminous-plume.json](./140981-luminous-plume.json) |
 | Luminous Skies: A Short Adventure | 255956 | [255956-luminous-skies-a-short-adventure.json](./255956-luminous-skies-a-short-adventure.json) |
 | Luminous Storia | 374208 | [374208-luminous-storia.json](./374208-luminous-storia.json) |
