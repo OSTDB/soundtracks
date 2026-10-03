@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caparace | 383966 | [383966-caparace.json](./383966-caparace.json) |
 | Capcom | 220079 | [220079-capcom.json](./220079-capcom.json) |
 | Capcom Arcade 2nd Stadium | 204386 | [204386-capcom-arcade-2nd-stadium.json](./204386-capcom-arcade-2nd-stadium.json) |
+| Capcom Arcade 2nd Stadium: Muscle Bomber - The Body Explosion | 238104 | [238104-capcom-arcade-2nd-stadium-muscle-bomber-the-body-explosion.json](./238104-capcom-arcade-2nd-stadium-muscle-bomber-the-body-explosion.json) |
 | Capcom Arcade Cabinet | 18821 | [18821-capcom-arcade-cabinet.json](./18821-capcom-arcade-cabinet.json) |
 | Capcom Arcade Hits Volume 1 | 64489 | [64489-capcom-arcade-hits-volume-1.json](./64489-capcom-arcade-hits-volume-1.json) |
 | Capcom Arcade Hits Volume 3 | 64488 | [64488-capcom-arcade-hits-volume-3.json](./64488-capcom-arcade-hits-volume-3.json) |
@@ -4383,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cions of Vega | 149925 | [149925-cions-of-vega.json](./149925-cions-of-vega.json) |
 | Cipher | 178494 | [178494-cipher.json](./178494-cipher.json) |
 | Cipher | 274123 | [274123-cipher.json](./274123-cipher.json) |
+| Cipher Island | 238088 | [238088-cipher-island.json](./238088-cipher-island.json) |
 | Cipher Monk | 286034 | [286034-cipher-monk.json](./286034-cipher-monk.json) |
 | Cipher Zero | 252691 | [252691-cipher-zero.json](./252691-cipher-zero.json) |
 | Ciphercell | 144753 | [144753-ciphercell.json](./144753-ciphercell.json) |
