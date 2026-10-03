@@ -8968,6 +8968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Powered Up | 333939 | [333939-sonic-powered-up.json](./333939-sonic-powered-up.json) |
 | Sonic Prime Dash | 254490 | [254490-sonic-prime-dash.json](./254490-sonic-prime-dash.json) |
 | Sonic Project Hero Rewired | 413926 | [413926-sonic-project-hero-rewired.json](./413926-sonic-project-hero-rewired.json) |
+| Sonic Putter | 233037 | [233037-sonic-putter.json](./233037-sonic-putter.json) |
 | Sonic Putter | 261251 | [261251-sonic-putter.json](./261251-sonic-putter.json) |
 | Sonic Quickie | 326810 | [326810-sonic-quickie.json](./326810-sonic-quickie.json) |
 | Sonic Quickshot | 370268 | [370268-sonic-quickshot.json](./370268-sonic-quickshot.json) |
@@ -9039,6 +9040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Sky Chase Zone | 339670 | [339670-sonic-sky-chase-zone.json](./339670-sonic-sky-chase-zone.json) |
 | Sonic Skywind: Episode II | 327000 | [327000-sonic-skywind-episode-ii.json](./327000-sonic-skywind-episode-ii.json) |
 | Sonic Slash | 350060 | [350060-sonic-slash.json](./350060-sonic-slash.json) |
+| Sonic Slider | 233042 | [233042-sonic-slider.json](./233042-sonic-slider.json) |
 | Sonic Smackdown | 134575 | [134575-sonic-smackdown.json](./134575-sonic-smackdown.json) |
 | Sonic Small World | 332453 | [332453-sonic-small-world.json](./332453-sonic-small-world.json) |
 | Sonic Smash Revived | 317348 | [317348-sonic-smash-revived.json](./317348-sonic-smash-revived.json) |
@@ -9181,6 +9183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic X Shadow Generations: Day One Edition | 381127 | [381127-sonic-x-shadow-generations-day-one-edition.json](./381127-sonic-x-shadow-generations-day-one-edition.json) |
 | Sonic X Shadow Generations: Sonic Jam Skin | 323393 | [323393-sonic-x-shadow-generations-sonic-jam-skin.json](./323393-sonic-x-shadow-generations-sonic-jam-skin.json) |
 | Sonic X Shadow Generations: Sonic the Hedgehog 3 Movie Pack | 325688 | [325688-sonic-x-shadow-generations-sonic-the-hedgehog-3-movie-pack.json](./325688-sonic-x-shadow-generations-sonic-the-hedgehog-3-movie-pack.json) |
+| Sonic X Snake | 233053 | [233053-sonic-x-snake.json](./233053-sonic-x-snake.json) |
 | Sonic x Vapor | 233072 | [233072-sonic-x-vapor.json](./233072-sonic-x-vapor.json) |
 | Sonic X-Treme | 336383 | [336383-sonic-x-treme.json](./336383-sonic-x-treme.json) |
 | Sonic X-Treme 2D | 332574 | [332574-sonic-x-treme-2d.json](./332574-sonic-x-treme-2d.json) |
