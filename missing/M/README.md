@@ -8043,6 +8043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom 3: Monster Roadtrip - Playable Character Juan | 224482 | [224482-monster-prom-3-monster-roadtrip-playable-character-juan.json](./224482-monster-prom-3-monster-roadtrip-playable-character-juan.json) |
 | Monster Prom 3: Monster Roadtrip - Playable Character Zoe | 224488 | [224488-monster-prom-3-monster-roadtrip-playable-character-zoe.json](./224488-monster-prom-3-monster-roadtrip-playable-character-zoe.json) |
 | Monster Prom 3: Monster Roadtrip x Cult of the Lamb | 272830 | [272830-monster-prom-3-monster-roadtrip-x-cult-of-the-lamb.json](./272830-monster-prom-3-monster-roadtrip-x-cult-of-the-lamb.json) |
+| Monster Prom 3: Monster Roadtrip XXL | 260900 | [260900-monster-prom-3-monster-roadtrip-xxl.json](./260900-monster-prom-3-monster-roadtrip-xxl.json) |
 | Monster Prom 4: Monster Con | 307329 | [307329-monster-prom-4-monster-con.json](./307329-monster-prom-4-monster-con.json) |
 | Monster Prom 4: Monster Con XXL | 375413 | [375413-monster-prom-4-monster-con-xxl.json](./375413-monster-prom-4-monster-con-xxl.json) |
 | Monster Prom: Hotseat Edition | 144089 | [144089-monster-prom-hotseat-edition.json](./144089-monster-prom-hotseat-edition.json) |
@@ -8688,6 +8689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Shell: Game of the Year Edition | 201041 | [201041-mortal-shell-game-of-the-year-edition.json](./201041-mortal-shell-game-of-the-year-edition.json) |
 | Mortal Shell: Rotten Autumn | 229714 | [229714-mortal-shell-rotten-autumn.json](./229714-mortal-shell-rotten-autumn.json) |
 | Mortal Shell: The Virtuous Cycle | 152119 | [152119-mortal-shell-the-virtuous-cycle.json](./152119-mortal-shell-the-virtuous-cycle.json) |
+| Mortal Street Fighter | 260877 | [260877-mortal-street-fighter.json](./260877-mortal-street-fighter.json) |
 | Mortal Trap Dungeon | 378282 | [378282-mortal-trap-dungeon.json](./378282-mortal-trap-dungeon.json) |
 | Mortal Void | 336628 | [336628-mortal-void.json](./336628-mortal-void.json) |
 | Mortal Weapon | 74333 | [74333-mortal-weapon.json](./74333-mortal-weapon.json) |
