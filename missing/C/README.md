@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Truck Parking | 220191 | [220191-cargo-truck-parking.json](./220191-cargo-truck-parking.json) |
 | Cargo-Bot | 318204 | [318204-cargo-bot.json](./318204-cargo-bot.json) |
 | Cargo, Please! | 395719 | [395719-cargo-please.json](./395719-cargo-please.json) |
+| Cargobros | 264776 | [264776-cargobros.json](./264776-cargobros.json) |
 | Cargogo | 351260 | [351260-cargogo.json](./351260-cargogo.json) |
 | Cargor | 382415 | [382415-cargor.json](./382415-cargor.json) |
 | CargoRun | 237328 | [237328-cargorun.json](./237328-cargorun.json) |
@@ -1648,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Formers | 154026 | [154026-castle-formers.json](./154026-castle-formers.json) |
 | Castle Grimholt | 142252 | [142252-castle-grimholt.json](./142252-castle-grimholt.json) |
 | Castle Guard | 42152 | [42152-castle-guard.json](./42152-castle-guard.json) |
+| Castle Guardian | 264785 | [264785-castle-guardian.json](./264785-castle-guardian.json) |
 | Castle Hassle | 59452 | [59452-castle-hassle.json](./59452-castle-hassle.json) |
 | Castle Helios | 212741 | [212741-castle-helios.json](./212741-castle-helios.json) |
 | Castle Hero | 327420 | [327420-castle-hero.json](./327420-castle-hero.json) |
@@ -4721,6 +4723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clarc | 11047 | [11047-clarc.json](./11047-clarc.json) |
 | Clarence Goes to the F%ing Store | 166700 | [166700-clarence-goes-to-the-f-ing-store.json](./166700-clarence-goes-to-the-f-ing-store.json) |
 | Clarence: Thirty Days & Seven Seas | 59506 | [59506-clarence-thirty-days-and-seven-seas.json](./59506-clarence-thirty-days-and-seven-seas.json) |
+| Clarent Saga: Mana Chapter 0 | 264767 | [264767-clarent-saga-mana-chapter-0.json](./264767-clarent-saga-mana-chapter-0.json) |
 | Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
 | Clarisse | 56425 | [56425-clarisse.json](./56425-clarisse.json) |
 | Clark: Hoova VR | 82067 | [82067-clark-hoova-vr.json](./82067-clark-hoova-vr.json) |
@@ -4959,6 +4962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Defense | 119722 | [119722-click-defense.json](./119722-click-defense.json) |
 | Click Deity | 246660 | [246660-click-deity.json](./246660-click-deity.json) |
 | Click For Cash: Cashed Out | 265944 | [265944-click-for-cash-cashed-out.json](./265944-click-for-cash-cashed-out.json) |
+| Click Here | 264761 | [264761-click-here.json](./264761-click-here.json) |
 | Click Legends | 118597 | [118597-click-legends.json](./118597-click-legends.json) |
 | Click Lovers | 203927 | [203927-click-lovers.json](./203927-click-lovers.json) |
 | Click Mage | 320391 | [320391-click-mage.json](./320391-click-mage.json) |
@@ -5893,6 +5897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Snake | 106752 | [106752-color-snake.json](./106752-color-snake.json) |
 | Color Soul: Memories | 124229 | [124229-color-soul-memories.json](./124229-color-soul-memories.json) |
 | Color Souls | 167604 | [167604-color-souls.json](./167604-color-souls.json) |
+| Color Splash: Birds | 264764 | [264764-color-splash-birds.json](./264764-color-splash-birds.json) |
 | Color Splash: Dinosaurs | 291082 | [291082-color-splash-dinosaurs.json](./291082-color-splash-dinosaurs.json) |
 | Color Splash: Dogs | 261509 | [261509-color-splash-dogs.json](./261509-color-splash-dogs.json) |
 | Color Splash: Fairies | 301834 | [301834-color-splash-fairies.json](./301834-color-splash-fairies.json) |
@@ -8272,6 +8277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Plane Landing | 208460 | [208460-crazy-plane-landing.json](./208460-crazy-plane-landing.json) |
 | Crazy Planets | 182210 | [182210-crazy-planets.json](./182210-crazy-planets.json) |
 | Crazy Plant Shop | 17214 | [17214-crazy-plant-shop.json](./17214-crazy-plant-shop.json) |
+| Crazy Plus | 264781 | [264781-crazy-plus.json](./264781-crazy-plus.json) |
 | Crazy Pocket | 413613 | [413613-crazy-pocket.json](./413613-crazy-pocket.json) |
 | Crazy Puzzle | 358935 | [358935-crazy-puzzle.json](./358935-crazy-puzzle.json) |
 | Crazy Quiz! Are You Crazy Enough? | 268117 | [268117-crazy-quiz-are-you-crazy-enough.json](./268117-crazy-quiz-are-you-crazy-enough.json) |
