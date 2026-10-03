@@ -4013,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grant Theft Mario | 315015 | [315015-grant-theft-mario.json](./315015-grant-theft-mario.json) |
 | Granular Moon | 383661 | [383661-granular-moon.json](./383661-granular-moon.json) |
 | Granvil's Fairytale | 203309 | [203309-granvils-fairytale.json](./203309-granvils-fairytale.json) |
+| Grape Juice City | 247676 | [247676-grape-juice-city.json](./247676-grape-juice-city.json) |
 | Grapefruit | 304203 | [304203-grapefruit.json](./304203-grapefruit.json) |
 | Graph TD: Cosmic | 395104 | [395104-graph-td-cosmic.json](./395104-graph-td-cosmic.json) |
 | Graphic Mahjong | 91959 | [91959-graphic-mahjong.json](./91959-graphic-mahjong.json) |
@@ -4130,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Shift 2 | 176814 | [176814-graveyard-shift-2.json](./176814-graveyard-shift-2.json) |
 | Graveyard Smash | 90583 | [90583-graveyard-smash.json](./90583-graveyard-smash.json) |
 | Graveyard Sprint | 245874 | [245874-graveyard-sprint.json](./245874-graveyard-sprint.json) |
+| Graveyard: The Shift | 247663 | [247663-graveyard-the-shift.json](./247663-graveyard-the-shift.json) |
 | Graveyard404 | 365260 | [365260-graveyard404.json](./365260-graveyard404.json) |
 | GraveyardGambit | 308969 | [308969-graveyardgambit.json](./308969-graveyardgambit.json) |
 | Gravi Dot | 91909 | [91909-gravi-dot.json](./91909-gravi-dot.json) |
