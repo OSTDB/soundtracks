@@ -1164,10 +1164,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!! Vanguard EX | 115018 | [115018-cardfight-vanguard-ex.json](./115018-cardfight-vanguard-ex.json) |
 | Cardfight!! Vanguard G: Stride to Victory!! | 81456 | [81456-cardfight-vanguard-g-stride-to-victory.json](./81456-cardfight-vanguard-g-stride-to-victory.json) |
 | Cardfight!! Vanguard Zero | 124770 | [124770-cardfight-vanguard-zero.json](./124770-cardfight-vanguard-zero.json) |
+| Cardfight!! Vanguard: Dear Days - Additional Card Set Vol. 4 D-SS03: Stride Deckset - Chronojet | 254675 | [254675-cardfight-vanguard-dear-days-additional-card-set-vol-4-d-ss03-stride-deckset-chronojet.json](./254675-cardfight-vanguard-dear-days-additional-card-set-vol-4-d-ss03-stride-deckset-chronojet.json) |
 | Cardfight!! Vanguard: Dear Days - Additional Special Set | 301017 | [301017-cardfight-vanguard-dear-days-additional-special-set.json](./301017-cardfight-vanguard-dear-days-additional-special-set.json) |
 | Cardfight!! Vanguard: Dear Days - Character Set 01: Aichi Sendou | 226282 | [226282-cardfight-vanguard-dear-days-character-set-01-aichi-sendou.json](./226282-cardfight-vanguard-dear-days-character-set-01-aichi-sendou.json) |
 | Cardfight!! Vanguard: Dear Days - Character Set 02: Toshiki Kai | 226283 | [226283-cardfight-vanguard-dear-days-character-set-02-toshiki-kai.json](./226283-cardfight-vanguard-dear-days-character-set-02-toshiki-kai.json) |
 | Cardfight!! Vanguard: Dear Days - Character Set 03: Ren Suzugamori | 226284 | [226284-cardfight-vanguard-dear-days-character-set-03-ren-suzugamori.json](./226284-cardfight-vanguard-dear-days-character-set-03-ren-suzugamori.json) |
+| Cardfight!! Vanguard: Dear Days - Character Set 07: Chrono Shindou | 254676 | [254676-cardfight-vanguard-dear-days-character-set-07-chrono-shindou.json](./254676-cardfight-vanguard-dear-days-character-set-07-chrono-shindou.json) |
 | Cardfight!! Vanguard: Dear Days - Rare Card Set 01 D-BT01: Genesis of the Five Greats | 226285 | [226285-cardfight-vanguard-dear-days-rare-card-set-01-d-bt01-genesis-of-the-five-greats.json](./226285-cardfight-vanguard-dear-days-rare-card-set-01-d-bt01-genesis-of-the-five-greats.json) |
 | Cardfight!! Vanguard: Dear Days - Rare Card Set 02 D-BT02: A Brush with the Legends | 226286 | [226286-cardfight-vanguard-dear-days-rare-card-set-02-d-bt02-a-brush-with-the-legends.json](./226286-cardfight-vanguard-dear-days-rare-card-set-02-d-bt02-a-brush-with-the-legends.json) |
 | Cardfight!! Vanguard: Dear Days - Rare Card Set 03 D-BT03: Advance of Intertwined Stars | 226287 | [226287-cardfight-vanguard-dear-days-rare-card-set-03-d-bt03-advance-of-intertwined-stars.json](./226287-cardfight-vanguard-dear-days-rare-card-set-03-d-bt03-advance-of-intertwined-stars.json) |
@@ -3626,6 +3628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimera | 312718 | [312718-chimera.json](./312718-chimera.json) |
 | Chimera | 380063 | [380063-chimera.json](./380063-chimera.json) |
 | Chimera Custom XG | 253994 | [253994-chimera-custom-xg.json](./253994-chimera-custom-xg.json) |
+| Chimera Island | 254696 | [254696-chimera-island.json](./254696-chimera-island.json) |
 | Chimera of Tactics 1 | 93593 | [93593-chimera-of-tactics-1.json](./93593-chimera-of-tactics-1.json) |
 | Chimera of Tactics 3: Gun and Soccer | 110353 | [110353-chimera-of-tactics-3-gun-and-soccer.json](./110353-chimera-of-tactics-3-gun-and-soccer.json) |
 | Chimeral Fantasy | 223506 | [223506-chimeral-fantasy.json](./223506-chimeral-fantasy.json) |
@@ -6471,6 +6474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compound Word Puzzles 2 | 359997 | [359997-compound-word-puzzles-2.json](./359997-compound-word-puzzles-2.json) |
 | Compress(Space) | 346199 | [346199-compress-space.json](./346199-compress-space.json) |
 | Compression | 345664 | [345664-compression.json](./345664-compression.json) |
+| Compression HD | 254691 | [254691-compression-hd.json](./254691-compression-hd.json) |
 | Compromised | 79596 | [79596-compromised.json](./79596-compromised.json) |
 | Compton's Interactive Encyclopedia | 306581 | [306581-comptons-interactive-encyclopedia.json](./306581-comptons-interactive-encyclopedia.json) |
 | Compu-Tron x3000 | 338291 | [338291-compu-tron-x3000.json](./338291-compu-tron-x3000.json) |
@@ -7150,6 +7154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooties | 279887 | [279887-cooties.json](./279887-cooties.json) |
 | Cop Car Police Simulator Chase | 187469 | [187469-cop-car-police-simulator-chase.json](./187469-cop-car-police-simulator-chase.json) |
 | Cop Duty Police Car Simulator | 102761 | [102761-cop-duty-police-car-simulator.json](./102761-cop-duty-police-car-simulator.json) |
+| Cop Police Escape: Racing Zone Clash | 254690 | [254690-cop-police-escape-racing-zone-clash.json](./254690-cop-police-escape-racing-zone-clash.json) |
 | Copa City | 305177 | [305177-copa-city.json](./305177-copa-city.json) |
 | Copa City: Elite Tifo Collection | 406909 | [406909-copa-city-elite-tifo-collection.json](./406909-copa-city-elite-tifo-collection.json) |
 | Copa City: Urban Aesthetics Pack | 406908 | [406908-copa-city-urban-aesthetics-pack.json](./406908-copa-city-urban-aesthetics-pack.json) |
