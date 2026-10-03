@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen Frances and the Rat Rebellion | 112307 | [112307-queen-frances-and-the-rat-rebellion.json](./112307-queen-frances-and-the-rat-rebellion.json) |
 | Queen Mary's Script Retold | 215778 | [215778-queen-marys-script-retold.json](./215778-queen-marys-script-retold.json) |
 | Queen of Dark | 292821 | [292821-queen-of-dark.json](./292821-queen-of-dark.json) |
+| Queen of Minecarts | 227901 | [227901-queen-of-minecarts.json](./227901-queen-of-minecarts.json) |
 | Queen of Moths | 253515 | [253515-queen-of-moths.json](./253515-queen-of-moths.json) |
 | Queen of Mountain | 158669 | [158669-queen-of-mountain.json](./158669-queen-of-mountain.json) |
 | Queen of Phobos | 65034 | [65034-queen-of-phobos.json](./65034-queen-of-phobos.json) |
