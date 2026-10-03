@@ -2439,6 +2439,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koala Rush | 187841 | [187841-koala-rush.json](./187841-koala-rush.json) |
 | Koala Sling | 268020 | [268020-koala-sling.json](./268020-koala-sling.json) |
 | Koalas Deliv & Guy | 366359 | [366359-koalas-deliv-and-guy.json](./366359-koalas-deliv-and-guy.json) |
+| Kobal | 274132 | [274132-kobal.json](./274132-kobal.json) |
+| Kobal 2 | 274133 | [274133-kobal-2.json](./274133-kobal-2.json) |
 | Kobayakawa-san is a Souls-like | 413066 | [413066-kobayakawa-san-is-a-souls-like.json](./413066-kobayakawa-san-is-a-souls-like.json) |
 | Kobayashi Clash of Conquest | 397932 | [397932-kobayashi-clash-of-conquest.json](./397932-kobayashi-clash-of-conquest.json) |
 | Kobayashi Hitomi no Hold Up | 41348 | [41348-kobayashi-hitomi-no-hold-up.json](./41348-kobayashi-hitomi-no-hold-up.json) |
