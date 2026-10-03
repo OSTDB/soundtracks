@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Apocalypse: The Day After | 304128 | [304128-perfect-apocalypse-the-day-after.json](./304128-perfect-apocalypse-the-day-after.json) |
 | Perfect Assassin | 73366 | [73366-perfect-assassin.json](./73366-perfect-assassin.json) |
 | Perfect Balance | 186259 | [186259-perfect-balance.json](./186259-perfect-balance.json) |
+| Perfect Ball | 225542 | [225542-perfect-ball.json](./225542-perfect-ball.json) |
 | Perfect Bird Pitch | 270650 | [270650-perfect-bird-pitch.json](./270650-perfect-bird-pitch.json) |
 | Perfect Blue | 24149 | [24149-perfect-blue.json](./24149-perfect-blue.json) |
 | Perfect Bowling | 48306 | [48306-perfect-bowling.json](./48306-perfect-bowling.json) |
@@ -4069,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cafe: Elite Edition | 397891 | [397891-pixel-cafe-elite-edition.json](./397891-pixel-cafe-elite-edition.json) |
 | Pixel Car Racer | 56154 | [56154-pixel-car-racer.json](./56154-pixel-car-racer.json) |
 | Pixel Card Crawl | 180120 | [180120-pixel-card-crawl.json](./180120-pixel-card-crawl.json) |
+| Pixel Cat's End | 225691 | [225691-pixel-cats-end.json](./225691-pixel-cats-end.json) |
 | Pixel Caveman | 118435 | [118435-pixel-caveman.json](./118435-pixel-caveman.json) |
 | Pixel Champions | 59648 | [59648-pixel-champions.json](./59648-pixel-champions.json) |
 | Pixel Collector | 312165 | [312165-pixel-collector.json](./312165-pixel-collector.json) |
@@ -4808,6 +4810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planeturem | 326259 | [326259-planeturem.json](./326259-planeturem.json) |
 | PlanetX | 368004 | [368004-planetx.json](./368004-planetx.json) |
 | PlaneWorld | 399758 | [399758-planeworld.json](./399758-planeworld.json) |
+| Planisphere | 225686 | [225686-planisphere.json](./225686-planisphere.json) |
 | Planisphere | 308430 | [308430-planisphere.json](./308430-planisphere.json) |
 | Planitis | 212290 | [212290-planitis.json](./212290-planitis.json) |
 | Plank! | 105913 | [105913-plank.json](./105913-plank.json) |
@@ -5843,6 +5846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Tectonic | 251716 | [251716-pokemon-tectonic.json](./251716-pokemon-tectonic.json) |
 | Pokémon Theta Emerald Renev | 209550 | [209550-pokemon-theta-emerald-renev.json](./209550-pokemon-theta-emerald-renev.json) |
 | Pokemon Topaz | 383058 | [383058-pokemon-topaz.json](./383058-pokemon-topaz.json) |
+| Pokémon Topaz | 225711 | [225711-pokemon-topaz.json](./225711-pokemon-topaz.json) |
 | Pokémon Tower Battle | 254176 | [254176-pokemon-tower-battle.json](./254176-pokemon-tower-battle.json) |
 | Pokémon Tower Defense 2 | 180292 | [180292-pokemon-tower-defense-2.json](./180292-pokemon-tower-defense-2.json) |
 | Pokémon Trading Card Game Pocket: Celestial Guardians | 341686 | [341686-pokemon-trading-card-game-pocket-celestial-guardians.json](./341686-pokemon-trading-card-game-pocket-celestial-guardians.json) |
@@ -5920,6 +5924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker HD | 88440 | [88440-poker-hd.json](./88440-poker-hd.json) |
 | Poker Legends: Omaha Champions | 232560 | [232560-poker-legends-omaha-champions.json](./232560-poker-legends-omaha-champions.json) |
 | Poker Master | 167586 | [167586-poker-master.json](./167586-poker-master.json) |
+| Poker Now | 225708 | [225708-poker-now.json](./225708-poker-now.json) |
 | Poker Patience | 83481 | [83481-poker-patience.json](./83481-poker-patience.json) |
 | Poker Poker Magic | 309027 | [309027-poker-poker-magic.json](./309027-poker-poker-magic.json) |
 | Poker Pop! | 209145 | [209145-poker-pop.json](./209145-poker-pop.json) |
@@ -9160,6 +9165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Bundle: 3 in 1 | 147804 | [147804-puzzle-bundle-3-in-1.json](./147804-puzzle-bundle-3-in-1.json) |
 | Puzzle by Nikoli S Akari | 223561 | [223561-puzzle-by-nikoli-s-akari.json](./223561-puzzle-by-nikoli-s-akari.json) |
 | Puzzle by Nikoli S Hashiwokakero | 237357 | [237357-puzzle-by-nikoli-s-hashiwokakero.json](./237357-puzzle-by-nikoli-s-hashiwokakero.json) |
+| Puzzle by Nikoli S Slitherlink | 225545 | [225545-puzzle-by-nikoli-s-slitherlink.json](./225545-puzzle-by-nikoli-s-slitherlink.json) |
 | Puzzle by Nikoli S Sudoku | 219293 | [219293-puzzle-by-nikoli-s-sudoku.json](./219293-puzzle-by-nikoli-s-sudoku.json) |
 | Puzzle by Nikoli S: Numberlink | 250392 | [250392-puzzle-by-nikoli-s-numberlink.json](./250392-puzzle-by-nikoli-s-numberlink.json) |
 | Puzzle by Nikoli S: Nurikabe | 231075 | [231075-puzzle-by-nikoli-s-nurikabe.json](./231075-puzzle-by-nikoli-s-nurikabe.json) |
