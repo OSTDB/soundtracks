@@ -3189,6 +3189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Simulator: Yoga Class | 257884 | [257884-sex-simulator-yoga-class.json](./257884-sex-simulator-yoga-class.json) |
 | Sex Story: Cuckold Life - Episode 4 | 263762 | [263762-sex-story-cuckold-life-episode-4.json](./263762-sex-story-cuckold-life-episode-4.json) |
 | Sex Story: Cuckold Life - Episode 5 | 264635 | [264635-sex-story-cuckold-life-episode-5.json](./264635-sex-story-cuckold-life-episode-5.json) |
+| Sex Story: Cuckold Life - Episode 6 | 265867 | [265867-sex-story-cuckold-life-episode-6.json](./265867-sex-story-cuckold-life-episode-6.json) |
 | Sex Story: Cuckold Life - Episode 9 | 274689 | [274689-sex-story-cuckold-life-episode-9.json](./274689-sex-story-cuckold-life-episode-9.json) |
 | Sex Story: Ruby and Hunter - Episode 1 | 252672 | [252672-sex-story-ruby-and-hunter-episode-1.json](./252672-sex-story-ruby-and-hunter-episode-1.json) |
 | Sex Story: Ruby and Hunter - Episode 2 | 253851 | [253851-sex-story-ruby-and-hunter-episode-2.json](./253851-sex-story-ruby-and-hunter-episode-2.json) |
@@ -4939,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuujin he no Pert-em-Hru | 146169 | [146169-shuujin-he-no-pert-em-hru.json](./146169-shuujin-he-no-pert-em-hru.json) |
 | Shuukaku no Juunigatsu: Fuyu | 58895 | [58895-shuukaku-no-juunigatsu-fuyu.json](./58895-shuukaku-no-juunigatsu-fuyu.json) |
 | Shuumatsu no Sugoshikata: The world is drawing to an W/end | 326047 | [326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json](./326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json) |
+| Shuumatsu no Valkyrie Humanity's Last Hope | 265875 | [265875-shuumatsu-no-valkyrie-humanitys-last-hope.json](./265875-shuumatsu-no-valkyrie-humanitys-last-hope.json) |
 | Shuusou Gyoku | 123608 | [123608-shuusou-gyoku.json](./123608-shuusou-gyoku.json) |
 | Shuutai Headless | 150575 | [150575-shuutai-headless.json](./150575-shuutai-headless.json) |
 | Shuwa no Mori | 254483 | [254483-shuwa-no-mori.json](./254483-shuwa-no-mori.json) |
@@ -5246,6 +5248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Reel | 367979 | [367979-silent-reel.json](./367979-silent-reel.json) |
 | Silent Residence | 362402 | [362402-silent-residence.json](./362402-silent-residence.json) |
 | Silent Ruins | 183520 | [183520-silent-ruins.json](./183520-silent-ruins.json) |
+| Silent Scale | 265846 | [265846-silent-scale.json](./265846-silent-scale.json) |
 | Silent Scope 3 | 329121 | [329121-silent-scope-3.json](./329121-silent-scope-3.json) |
 | Silent Scope 3 | 44630 | [44630-silent-scope-3.json](./44630-silent-scope-3.json) |
 | Silent Scope Complete | 6052 | [6052-silent-scope-complete.json](./6052-silent-scope-complete.json) |
@@ -7186,6 +7189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashy Brick | 237324 | [237324-smashy-brick.json](./237324-smashy-brick.json) |
 | Smashy Cannon | 359532 | [359532-smashy-cannon.json](./359532-smashy-cannon.json) |
 | Smashy Road: Wanted 2 | 144196 | [144196-smashy-road-wanted-2.json](./144196-smashy-road-wanted-2.json) |
+| SMB RMX Land | 265877 | [265877-smb-rmx-land.json](./265877-smb-rmx-land.json) |
 | SMB RMX: Shattered Realms | 370902 | [370902-smb-rmx-shattered-realms.json](./370902-smb-rmx-shattered-realms.json) |
 | SMB1 Autumn Challenge | 322651 | [322651-smb1-autumn-challenge.json](./322651-smb1-autumn-challenge.json) |
 | SMBX: Level Contest Japan | 359515 | [359515-smbx-level-contest-japan.json](./359515-smbx-level-contest-japan.json) |
@@ -12233,6 +12237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: First Contact | 71059 | [71059-star-trek-first-contact.json](./71059-star-trek-first-contact.json) |
 | Star Trek: Generations - Beyond the Nexus | 365692 | [365692-star-trek-generations-beyond-the-nexus.json](./365692-star-trek-generations-beyond-the-nexus.json) |
 | Star Trek: Generations - Beyond the Nexus | 46335 | [46335-star-trek-generations-beyond-the-nexus.json](./46335-star-trek-generations-beyond-the-nexus.json) |
+| Star Trek: Infinite - Deluxe Edition | 265851 | [265851-star-trek-infinite-deluxe-edition.json](./265851-star-trek-infinite-deluxe-edition.json) |
 | Star Trek: Infinite - Designing the Galaxy | 271921 | [271921-star-trek-infinite-designing-the-galaxy.json](./271921-star-trek-infinite-designing-the-galaxy.json) |
 | Star Trek: Judgment Rites | 2229 | [2229-star-trek-judgment-rites.json](./2229-star-trek-judgment-rites.json) |
 | Star Trek: Klingon Academy | 19627 | [19627-star-trek-klingon-academy.json](./19627-star-trek-klingon-academy.json) |
@@ -15886,6 +15891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 256 | 270377 | [270377-super-mario-256.json](./270377-super-mario-256.json) |
 | Super Mario 2D Land | 269114 | [269114-super-mario-2d-land.json](./269114-super-mario-2d-land.json) |
 | Super Mario 3D All-Stars | 138225 | [138225-super-mario-3d-all-stars.json](./138225-super-mario-3d-all-stars.json) |
+| Super Mario 3D Kart Deluxe | 265843 | [265843-super-mario-3d-kart-deluxe.json](./265843-super-mario-3d-kart-deluxe.json) |
 | Super Mario 3D World | 229339 | [229339-super-mario-3d-world.json](./229339-super-mario-3d-world.json) |
 | Super Mario 3D World + Bowser's Fury | 138227 | [138227-super-mario-3d-world-bowsers-fury.json](./138227-super-mario-3d-world-bowsers-fury.json) |
 | Super Mario 63 | 137008 | [137008-super-mario-63.json](./137008-super-mario-63.json) |
@@ -16127,6 +16133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario RPG: The Starlite Worlds | 175887 | [175887-super-mario-rpg-the-starlite-worlds.json](./175887-super-mario-rpg-the-starlite-worlds.json) |
 | Super Mario Run: Ver. 3.0.4 | 327941 | [327941-super-mario-run-ver-3-0-4.json](./327941-super-mario-run-ver-3-0-4.json) |
 | Super Mario Sandbox | 313766 | [313766-super-mario-sandbox.json](./313766-super-mario-sandbox.json) |
+| Super Mario Sayajin Aventura | 265845 | [265845-super-mario-sayajin-aventura.json](./265845-super-mario-sayajin-aventura.json) |
 | Super Mario Senseless Delirium | 199032 | [199032-super-mario-senseless-delirium.json](./199032-super-mario-senseless-delirium.json) |
 | Super Mario Spikers | 175958 | [175958-super-mario-spikers.json](./175958-super-mario-spikers.json) |
 | Super Mario Star Road Multiplayer | 159342 | [159342-super-mario-star-road-multiplayer.json](./159342-super-mario-star-road-multiplayer.json) |
@@ -16570,6 +16577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Brawl | 328674 | [328674-super-smash-bros-brawl.json](./328674-super-smash-bros-brawl.json) |
 | Super Smash Bros. Brawl: Limited Edition | 231867 | [231867-super-smash-bros-brawl-limited-edition.json](./231867-super-smash-bros-brawl-limited-edition.json) |
 | Super Smash Bros. Clash | 279590 | [279590-super-smash-bros-clash.json](./279590-super-smash-bros-clash.json) |
+| Super Smash Bros. CMC+ | 265878 | [265878-super-smash-bros-cmc.json](./265878-super-smash-bros-cmc.json) |
 | Super Smash Bros. Crusade | 132730 | [132730-super-smash-bros-crusade.json](./132730-super-smash-bros-crusade.json) |
 | Super Smash Bros. Crusade Remix | 408816 | [408816-super-smash-bros-crusade-remix.json](./408816-super-smash-bros-crusade-remix.json) |
 | Super Smash Bros. Deluxe | 230369 | [230369-super-smash-bros-deluxe.json](./230369-super-smash-bros-deluxe.json) |
@@ -16910,6 +16918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperHyperCube | 20332 | [20332-superhypercube.json](./20332-superhypercube.json) |
 | SuperHyperHappyGame | 311186 | [311186-superhyperhappygame.json](./311186-superhyperhappygame.json) |
 | Superior IQ | 369637 | [369637-superior-iq.json](./369637-superior-iq.json) |
+| Superior Relatives | 265862 | [265862-superior-relatives.json](./265862-superior-relatives.json) |
 | Superior Wizards | 110134 | [110134-superior-wizards.json](./110134-superior-wizards.json) |
 | SuperJumpWorld Rage | 391299 | [391299-superjumpworld-rage.json](./391299-superjumpworld-rage.json) |
 | Superkid | 123064 | [123064-superkid.json](./123064-superkid.json) |
@@ -17809,6 +17818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switcheroo | 59686 | [59686-switcheroo.json](./59686-switcheroo.json) |
 | Switchfire | 54418 | [54418-switchfire.json](./54418-switchfire.json) |
 | SWIV | 12789 | [12789-swiv.json](./12789-swiv.json) |
+| Swolemochao 1 & 2: Gym of the Year Edition | 265882 | [265882-swolemochao-1-and-2-gym-of-the-year-edition.json](./265882-swolemochao-1-and-2-gym-of-the-year-edition.json) |
 | Swoon! | 153998 | [153998-swoon.json](./153998-swoon.json) |
 | Swoon! Earth Escape | 225894 | [225894-swoon-earth-escape.json](./225894-swoon-earth-escape.json) |
 | Swoop | 78988 | [78988-swoop.json](./78988-swoop.json) |
