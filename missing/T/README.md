@@ -10113,6 +10113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | These Thieving Hearts | 289966 | [289966-these-thieving-hearts.json](./289966-these-thieving-hearts.json) |
 | Theseus | 139912 | [139912-theseus.json](./139912-theseus.json) |
 | Theseus and the Minotaur | 24904 | [24904-theseus-and-the-minotaur.json](./24904-theseus-and-the-minotaur.json) |
+| Thesmophoria | 244304 | [244304-thesmophoria.json](./244304-thesmophoria.json) |
 | TheSpoiler | 289962 | [289962-thespoiler.json](./289962-thespoiler.json) |
 | Theta | 67736 | [67736-theta.json](./67736-theta.json) |
 | TheTruth.exe | 109623 | [109623-thetruth-exe.json](./109623-thetruth-exe.json) |
@@ -15879,6 +15880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropi | 209654 | [209654-tropi.json](./209654-tropi.json) |
 | Tropia | 76245 | [76245-tropia.json](./76245-tropia.json) |
 | Tropic Isle | 130866 | [130866-tropic-isle.json](./130866-tropic-isle.json) |
+| Tropica: Survival 1095 | 244396 | [244396-tropica-survival-1095.json](./244396-tropica-survival-1095.json) |
 | Tropical Air hockey | 129349 | [129349-tropical-air-hockey.json](./129349-tropical-air-hockey.json) |
 | Tropical Alien Massacre | 308329 | [308329-tropical-alien-massacre.json](./308329-tropical-alien-massacre.json) |
 | Tropical Escape | 81198 | [81198-tropical-escape.json](./81198-tropical-escape.json) |
@@ -16367,6 +16369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnels of Armageddon | 71808 | [71808-tunnels-of-armageddon.json](./71808-tunnels-of-armageddon.json) |
 | Tunnels of Fahad | 74765 | [74765-tunnels-of-fahad.json](./74765-tunnels-of-fahad.json) |
 | Tunnels of Terror! | 260986 | [260986-tunnels-of-terror.json](./260986-tunnels-of-terror.json) |
+| Tunnels Under Yorion | 244327 | [244327-tunnels-under-yorion.json](./244327-tunnels-under-yorion.json) |
 | TunnelWorm | 87108 | [87108-tunnelworm.json](./87108-tunnelworm.json) |
 | Tunnet | 244339 | [244339-tunnet.json](./244339-tunnet.json) |
 | Tunshi Kongming Legends | 110342 | [110342-tunshi-kongming-legends.json](./110342-tunshi-kongming-legends.json) |
