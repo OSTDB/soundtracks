@@ -2392,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmares from the Deep: The Cursed Heart - Collector's Edition | 88494 | [88494-nightmares-from-the-deep-the-cursed-heart-collectors-edition.json](./88494-nightmares-from-the-deep-the-cursed-heart-collectors-edition.json) |
 | Nightmares Mansion: Scary Dreams | 315104 | [315104-nightmares-mansion-scary-dreams.json](./315104-nightmares-mansion-scary-dreams.json) |
 | Nightmarescape | 280471 | [280471-nightmarescape.json](./280471-nightmarescape.json) |
+| NightmareScape | 255879 | [255879-nightmarescape.json](./255879-nightmarescape.json) |
 | NightMaresToBe | 163824 | [163824-nightmarestobe.json](./163824-nightmarestobe.json) |
 | NightmareZ | 31849 | [31849-nightmarez.json](./31849-nightmarez.json) |
 | Nightmist | 406906 | [406906-nightmist.json](./406906-nightmist.json) |
@@ -3663,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novaxandria Volume 01 | 358447 | [358447-novaxandria-volume-01.json](./358447-novaxandria-volume-01.json) |
 | Novel Simulator | 392130 | [392130-novel-simulator.json](./392130-novel-simulator.json) |
 | Novels Rogue: Isekai Koshodo to Fuuin no Majo | 320827 | [320827-novels-rogue-isekai-koshodo-to-fuuin-no-majo.json](./320827-novels-rogue-isekai-koshodo-to-fuuin-no-majo.json) |
+| November | 255893 | [255893-november.json](./255893-november.json) |
 | November 5th | 262561 | [262561-november-5th.json](./262561-november-5th.json) |
 | Novena Diabolos | 132267 | [132267-novena-diabolos.json](./132267-novena-diabolos.json) |
 | Novivors | 301984 | [301984-novivors.json](./301984-novivors.json) |
