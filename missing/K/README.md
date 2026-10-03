@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kilari: Become a Star | 70673 | [70673-kilari-become-a-star.json](./70673-kilari-become-a-star.json) |
 | Kilira's Descent | 401526 | [401526-kiliras-descent.json](./401526-kiliras-descent.json) |
 | Kill | 36446 | [36446-kill.json](./36446-kill.json) |
+| Kill a Million Rats | 265340 | [265340-kill-a-million-rats.json](./265340-kill-a-million-rats.json) |
 | Kill AI | 288812 | [288812-kill-ai.json](./288812-kill-ai.json) |
 | Kill All Enemies | 340009 | [340009-kill-all-enemies.json](./340009-kill-all-enemies.json) |
 | Kill All Lice | 320322 | [320322-kill-all-lice.json](./320322-kill-all-lice.json) |
