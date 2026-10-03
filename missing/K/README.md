@@ -1585,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Kinks | 195121 | [195121-king-of-kinks.json](./195121-king-of-kinks.json) |
 | King of Light | 237463 | [237463-king-of-light.json](./237463-king-of-light.json) |
 | King of Meat | 314255 | [314255-king-of-meat.json](./314255-king-of-meat.json) |
+| King of Mobius | 228597 | [228597-king-of-mobius.json](./228597-king-of-mobius.json) |
 | King of Peasants | 96255 | [96255-king-of-peasants.json](./96255-king-of-peasants.json) |
 | King of Phoenix | 105234 | [105234-king-of-phoenix.json](./105234-king-of-phoenix.json) |
 | King of Producer | 301435 | [301435-king-of-producer.json](./301435-king-of-producer.json) |
@@ -2658,6 +2659,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konamic Tennis | 41322 | [41322-konamic-tennis.json](./41322-konamic-tennis.json) |
 | Konbini Baito to Stalker | 322117 | [322117-konbini-baito-to-stalker.json](./322117-konbini-baito-to-stalker.json) |
 | Konchuu Fighters | 65191 | [65191-konchuu-fighters.json](./65191-konchuu-fighters.json) |
+| Konchuu Hakase | 228602 | [228602-konchuu-hakase.json](./228602-konchuu-hakase.json) |
+| Konchuu Hakase 2 | 228603 | [228603-konchuu-hakase-2.json](./228603-konchuu-hakase-2.json) |
 | Konductra | 20619 | [20619-konductra.json](./20619-konductra.json) |
 | Koneko Club | 385748 | [385748-koneko-club.json](./385748-koneko-club.json) |
 | Konfronto | 319134 | [319134-konfronto.json](./319134-konfronto.json) |
@@ -3008,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kulebra and the Souls of Limbo | 204533 | [204533-kulebra-and-the-souls-of-limbo.json](./204533-kulebra-and-the-souls-of-limbo.json) |
 | KuloNiku: Bowl Up! | 346735 | [346735-kuloniku-bowl-up.json](./346735-kuloniku-bowl-up.json) |
 | Kuma no Pooh-San: 100 Acre no Mori no Cooking Book | 130752 | [130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json](./130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json) |
+| Kuma no Puutarou: Takara Sagashi da Ohiri Game Battle! | 228600 | [228600-kuma-no-puutarou-takara-sagashi-da-ohiri-game-battle.json](./228600-kuma-no-puutarou-takara-sagashi-da-ohiri-game-battle.json) |
 | Kuma Sushi Bar | 200745 | [200745-kuma-sushi-bar.json](./200745-kuma-sushi-bar.json) |
 | Kuma\War | 23563 | [23563-kuma-war.json](./23563-kuma-war.json) |
 | Kumamaru Adventure | 297638 | [297638-kumamaru-adventure.json](./297638-kumamaru-adventure.json) |
@@ -3162,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuuruu Kenmonroku | 263134 | [263134-kuuruu-kenmonroku.json](./263134-kuuruu-kenmonroku.json) |
 | Kuusou Kagaku Sekai Gulliver Boy | 42211 | [42211-kuusou-kagaku-sekai-gulliver-boy.json](./42211-kuusou-kagaku-sekai-gulliver-boy.json) |
 | Kuusou Kagaku Sekai Gulliver Boy | 81278 | [81278-kuusou-kagaku-sekai-gulliver-boy.json](./81278-kuusou-kagaku-sekai-gulliver-boy.json) |
+| Kuusou Kagaku Sekai Gulliver Boy: Kuusou Kagaku Puzzle Puritto Pon | 228604 | [228604-kuusou-kagaku-sekai-gulliver-boy-kuusou-kagaku-puzzle-puritto-pon.json](./228604-kuusou-kagaku-sekai-gulliver-boy-kuusou-kagaku-puzzle-puritto-pon.json) |
 | Kuusou Sakaba: A Great Banquet Of Liars | 288361 | [288361-kuusou-sakaba-a-great-banquet-of-liars.json](./288361-kuusou-sakaba-a-great-banquet-of-liars.json) |
 | Kuzgakai's Dungeon | 215794 | [215794-kuzgakais-dungeon.json](./215794-kuzgakais-dungeon.json) |
 | Kwaan | 36092 | [36092-kwaan.json](./36092-kwaan.json) |
