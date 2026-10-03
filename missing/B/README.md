@@ -2635,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Farmer | 233205 | [233205-beast-farmer.json](./233205-beast-farmer.json) |
 | Beast King | 113488 | [113488-beast-king.json](./113488-beast-king.json) |
 | Beast League | 251206 | [251206-beast-league.json](./251206-beast-league.json) |
+| Beast Lord | 242685 | [242685-beast-lord.json](./242685-beast-lord.json) |
 | Beast Lord: The New Land | 297500 | [297500-beast-lord-the-new-land.json](./297500-beast-lord-the-new-land.json) |
 | Beast Market | 416107 | [416107-beast-market.json](./416107-beast-market.json) |
 | Beast Master and Prince: Snow Bride | 136452 | [136452-beast-master-and-prince-snow-bride.json](./136452-beast-master-and-prince-snow-bride.json) |
@@ -3036,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before They Leave | 184918 | [184918-before-they-leave.json](./184918-before-they-leave.json) |
 | Before Times | 398359 | [398359-before-times.json](./398359-before-times.json) |
 | Before We Leave | 120878 | [120878-before-we-leave.json](./120878-before-we-leave.json) |
+| Before We Leave: Deluxe Edition | 242609 | [242609-before-we-leave-deluxe-edition.json](./242609-before-we-leave-deluxe-edition.json) |
 | Before You Depart | 252817 | [252817-before-you-depart.json](./252817-before-you-depart.json) |
 | Before You Die | 185434 | [185434-before-you-die.json](./185434-before-you-die.json) |
 | Before You Forget | 261447 | [261447-before-you-forget.json](./261447-before-you-forget.json) |
@@ -3393,6 +3395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of Solitaire | 85508 | [85508-best-of-solitaire.json](./85508-best-of-solitaire.json) |
 | Best of the Best: Championship Karate | 7783 | [7783-best-of-the-best-championship-karate.json](./7783-best-of-the-best-championship-karate.json) |
 | Best Park in the Universe | 61141 | [61141-best-park-in-the-universe.json](./61141-best-park-in-the-universe.json) |
+| Best Play Baseball | 242686 | [242686-best-play-baseball.json](./242686-best-play-baseball.json) |
 | Best Plumber | 125397 | [125397-best-plumber.json](./125397-best-plumber.json) |
 | Best Rally | 104247 | [104247-best-rally.json](./104247-best-rally.json) |
 | Best Romance Game Ever | 183996 | [183996-best-romance-game-ever.json](./183996-best-romance-game-ever.json) |
@@ -3989,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bimous | 186845 | [186845-bimous.json](./186845-bimous.json) |
 | Bin Weevils | 126020 | [126020-bin-weevils.json](./126020-bin-weevils.json) |
 | Binaries | 18207 | [18207-binaries.json](./18207-binaries.json) |
+| Binarion | 242600 | [242600-binarion.json](./242600-binarion.json) |
 | Binary | 172678 | [172678-binary.json](./172678-binary.json) |
 | Binary Battle | 360134 | [360134-binary-battle.json](./360134-binary-battle.json) |
 | Binary Boy | 125407 | [125407-binary-boy.json](./125407-binary-boy.json) |
@@ -6768,6 +6772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bore Blasters | 250809 | [250809-bore-blasters.json](./250809-bore-blasters.json) |
 | Boreal Tenebrae | 195729 | [195729-boreal-tenebrae.json](./195729-boreal-tenebrae.json) |
 | Boreal Tenebrae Act 0 | 404353 | [404353-boreal-tenebrae-act-0.json](./404353-boreal-tenebrae-act-0.json) |
+| Boreal Tenebrae Deluxe | 242626 | [242626-boreal-tenebrae-deluxe.json](./242626-boreal-tenebrae-deluxe.json) |
 | Boreal Tenebrae: Deluxe Definitive Edition | 259582 | [259582-boreal-tenebrae-deluxe-definitive-edition.json](./259582-boreal-tenebrae-deluxe-definitive-edition.json) |
 | Boreal Tenebrae: Deluxe Extended Edition | 250366 | [250366-boreal-tenebrae-deluxe-extended-edition.json](./250366-boreal-tenebrae-deluxe-extended-edition.json) |
 | Boreal Tenebrae: Deluxe Ultimate Edition | 247753 | [247753-boreal-tenebrae-deluxe-ultimate-edition.json](./247753-boreal-tenebrae-deluxe-ultimate-edition.json) |
@@ -7563,6 +7568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlhalla x Guacamelee Crossover | 342146 | [342146-brawlhalla-x-guacamelee-crossover.json](./342146-brawlhalla-x-guacamelee-crossover.json) |
 | Brawlhalla X Lara Croft Bundle | 381166 | [381166-brawlhalla-x-lara-croft-bundle.json](./381166-brawlhalla-x-lara-croft-bundle.json) |
 | Brawlhalla X Year of Shadow Launch | 342153 | [342153-brawlhalla-x-year-of-shadow-launch.json](./342153-brawlhalla-x-year-of-shadow-launch.json) |
+| Brawlhalla: All Legends Pack | 242596 | [242596-brawlhalla-all-legends-pack.json](./242596-brawlhalla-all-legends-pack.json) |
 | Brawlhalla: Autumn Championship 2018 Pack | 342628 | [342628-brawlhalla-autumn-championship-2018-pack.json](./342628-brawlhalla-autumn-championship-2018-pack.json) |
 | Brawlhalla: BCX 2017 Pack | 342230 | [342230-brawlhalla-bcx-2017-pack.json](./342230-brawlhalla-bcx-2017-pack.json) |
 | Brawlhalla: BCX 2023 Pack | 274586 | [274586-brawlhalla-bcx-2023-pack.json](./274586-brawlhalla-bcx-2023-pack.json) |
