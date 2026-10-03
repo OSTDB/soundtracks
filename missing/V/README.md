@@ -1558,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vlad the Impaler | 17309 | [17309-vlad-the-impaler.json](./17309-vlad-the-impaler.json) |
 | Vlad Voievod Dracula: Dungeons of Edirne | 272880 | [272880-vlad-voievod-dracula-dungeons-of-edirne.json](./272880-vlad-voievod-dracula-dungeons-of-edirne.json) |
 | Vlad Voievod Dracula: Episode 1 - Manhunt | 212219 | [212219-vlad-voievod-dracula-episode-1-manhunt.json](./212219-vlad-voievod-dracula-episode-1-manhunt.json) |
+| Vlad Voievod Dracula: Episode 2 | 271899 | [271899-vlad-voievod-dracula-episode-2.json](./271899-vlad-voievod-dracula-episode-2.json) |
 | Vladiators | 141831 | [141831-vladiators.json](./141831-vladiators.json) |
 | Vladik Brutal | 159796 | [159796-vladik-brutal.json](./159796-vladik-brutal.json) |
 | Vladimere's Lhore | 216497 | [216497-vladimeres-lhore.json](./216497-vladimeres-lhore.json) |
