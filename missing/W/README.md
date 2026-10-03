@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky West | 332992 | [332992-wacky-west.json](./332992-wacky-west.json) |
 | Wacky Wheels | 8880 | [8880-wacky-wheels.json](./8880-wacky-wheels.json) |
 | Wacky Wings VR | 30162 | [30162-wacky-wings-vr.json](./30162-wacky-wings-vr.json) |
+| Wacky Wonderland Wollop: A 3D Platformer for the Ages Game of the Year All Time: The Game | 259149 | [259149-wacky-wonderland-wollop-a-3d-platformer-for-the-ages-game-of-the-year-all-time-the-game.json](./259149-wacky-wonderland-wollop-a-3d-platformer-for-the-ages-game-of-the-year-all-time-the-game.json) |
 | Wacky World of Sports | 5260 | [5260-wacky-world-of-sports.json](./5260-wacky-world-of-sports.json) |
 | Wacky Zoo GP | 66926 | [66926-wacky-zoo-gp.json](./66926-wacky-zoo-gp.json) |
 | Waco Resurrection | 308429 | [308429-waco-resurrection.json](./308429-waco-resurrection.json) |
@@ -91,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Bunny Club | 384716 | [384716-waifu-bunny-club.json](./384716-waifu-bunny-club.json) |
 | Waifu by Myside: Patch Me In | 384718 | [384718-waifu-by-myside-patch-me-in.json](./384718-waifu-by-myside-patch-me-in.json) |
 | Waifu Closet | 331097 | [331097-waifu-closet.json](./331097-waifu-closet.json) |
+| Waifu Club: Ayame | 259153 | [259153-waifu-club-ayame.json](./259153-waifu-club-ayame.json) |
 | Waifu Club: Azumi | 295374 | [295374-waifu-club-azumi.json](./295374-waifu-club-azumi.json) |
 | Waifu Collector | 171615 | [171615-waifu-collector.json](./171615-waifu-collector.json) |
 | Waifu Crush | 188522 | [188522-waifu-crush.json](./188522-waifu-crush.json) |
@@ -4557,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wraith: The Oblivion - Afterlife | 135110 | [135110-wraith-the-oblivion-afterlife.json](./135110-wraith-the-oblivion-afterlife.json) |
 | Wrangel Island | 220631 | [220631-wrangel-island.json](./220631-wrangel-island.json) |
 | Wrangle Ranch | 364700 | [364700-wrangle-ranch.json](./364700-wrangle-ranch.json) |
+| Wrangler | 259185 | [259185-wrangler.json](./259185-wrangler.json) |
 | Wrangler | 94540 | [94540-wrangler.json](./94540-wrangler.json) |
 | Wrap It! | 164442 | [164442-wrap-it.json](./164442-wrap-it.json) |
 | Wrap The Zap | 392786 | [392786-wrap-the-zap.json](./392786-wrap-the-zap.json) |
