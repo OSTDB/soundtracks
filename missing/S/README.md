@@ -1123,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satisfactory: Update 4 | 222875 | [222875-satisfactory-update-4.json](./222875-satisfactory-update-4.json) |
 | Satisfactory: Update 5 | 222876 | [222876-satisfactory-update-5.json](./222876-satisfactory-update-5.json) |
 | Satisfactory: Update 6 | 222877 | [222877-satisfactory-update-6.json](./222877-satisfactory-update-6.json) |
+| Satisfactory: Update 7 | 227759 | [227759-satisfactory-update-7.json](./227759-satisfactory-update-7.json) |
 | Satisfrustration | 349404 | [349404-satisfrustration.json](./349404-satisfrustration.json) |
 | Satiszone | 332420 | [332420-satiszone.json](./332420-satiszone.json) |
 | Sato Killing Time Chat.exe | 395020 | [395020-sato-killing-time-chat-exe.json](./395020-sato-killing-time-chat-exe.json) |
@@ -13167,6 +13168,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station Noctis | 338331 | [338331-station-noctis.json](./338331-station-noctis.json) |
 | Station Sabotage | 283770 | [283770-station-sabotage.json](./283770-station-sabotage.json) |
 | Station Zeta | 304003 | [304003-station-zeta.json](./304003-station-zeta.json) |
+| Stationeers: H.E.M Droid Species Pack | 227893 | [227893-stationeers-h-e-m-droid-species-pack.json](./227893-stationeers-h-e-m-droid-species-pack.json) |
+| Stationeers: Human Cosmetics Pack | 227894 | [227894-stationeers-human-cosmetics-pack.json](./227894-stationeers-human-cosmetics-pack.json) |
+| Stationeers: Zrilian Species Pack | 227892 | [227892-stationeers-zrilian-species-pack.json](./227892-stationeers-zrilian-species-pack.json) |
 | Stationflow | 127462 | [127462-stationflow.json](./127462-stationflow.json) |
 | Stattogories | 239339 | [239339-stattogories.json](./239339-stattogories.json) |
 | StattoPong | 92969 | [92969-stattopong.json](./92969-stattopong.json) |
@@ -14662,6 +14666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Studium | 333708 | [333708-studium.json](./333708-studium.json) |
 | Study Arcade | 367497 | [367497-study-arcade.json](./367497-study-arcade.json) |
 | Study Time Anomaly | 369597 | [369597-study-time-anomaly.json](./369597-study-time-anomaly.json) |
+| Stuff | 227755 | [227755-stuff.json](./227755-stuff.json) |
 | Stuff'd | 228472 | [228472-stuffd.json](./228472-stuffd.json) |
 | Stuffed | 140522 | [140522-stuffed.json](./140522-stuffed.json) |
 | Stuffed | 396544 | [396544-stuffed.json](./396544-stuffed.json) |
@@ -16292,6 +16297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. 3 | 158723 | [158723-super-mario-bros-3.json](./158723-super-mario-bros-3.json) |
 | Super Mario Bros. 3 Advance | 322002 | [322002-super-mario-bros-3-advance.json](./322002-super-mario-bros-3-advance.json) |
 | Super Mario Bros. 3: The Lost Levels | 239902 | [239902-super-mario-bros-3-the-lost-levels.json](./239902-super-mario-bros-3-the-lost-levels.json) |
+| Super Mario Bros. 3+ | 227896 | [227896-super-mario-bros-3.json](./227896-super-mario-bros-3.json) |
 | Super Mario Bros. 35 | 138235 | [138235-super-mario-bros-35.json](./138235-super-mario-bros-35.json) |
 | Super Mario Bros. 3Mix | 144986 | [144986-super-mario-bros-3mix.json](./144986-super-mario-bros-3mix.json) |
 | Super Mario Bros. 5 | 318552 | [318552-super-mario-bros-5.json](./318552-super-mario-bros-5.json) |
