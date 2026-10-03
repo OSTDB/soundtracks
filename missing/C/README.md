@@ -2280,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catwalk Battle | 208912 | [208912-catwalk-battle.json](./208912-catwalk-battle.json) |
 | Catwoman | 3851 | [3851-catwoman.json](./3851-catwoman.json) |
 | Catwoman | 67337 | [67337-catwoman.json](./67337-catwoman.json) |
+| CatWorld | 257516 | [257516-catworld.json](./257516-catworld.json) |
 | Catx11 | 400482 | [400482-catx11.json](./400482-catx11.json) |
 | Catz | 144796 | [144796-catz.json](./144796-catz.json) |
 | Catz 3 | 71440 | [71440-catz-3.json](./71440-catz-3.json) |
@@ -3710,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiralmori | 287634 | [287634-chiralmori.json](./287634-chiralmori.json) |
 | Chirashiiru | 325444 | [325444-chirashiiru.json](./325444-chirashiiru.json) |
 | Chirax's Fortress | 365796 | [365796-chiraxs-fortress.json](./365796-chiraxs-fortress.json) |
+| Chirk | 257557 | [257557-chirk.json](./257557-chirk.json) |
 | Chiro Gravitas | 369718 | [369718-chiro-gravitas.json](./369718-chiro-gravitas.json) |
 | ChiroTerra | 278168 | [278168-chiroterra.json](./278168-chiroterra.json) |
 | Chirp Song: Wings of Praise | 304748 | [304748-chirp-song-wings-of-praise.json](./304748-chirp-song-wings-of-praise.json) |
