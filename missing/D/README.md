@@ -2391,6 +2391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debris Infinity | 76331 | [76331-debris-infinity.json](./76331-debris-infinity.json) |
 | Debt | 192816 | [192816-debt.json](./192816-debt.json) |
 | Debt Deadline | 272383 | [272383-debt-deadline.json](./272383-debt-deadline.json) |
+| Debtor: Enhanced Edition | 234685 | [234685-debtor-enhanced-edition.json](./234685-debtor-enhanced-edition.json) |
 | Debug | 190097 | [190097-debug.json](./190097-debug.json) |
 | Debugger 3.16: Recoded - Despair of the Developer Edition | 380127 | [380127-debugger-3-16-recoded-despair-of-the-developer-edition.json](./380127-debugger-3-16-recoded-despair-of-the-developer-edition.json) |
 | Debugger 4406 | 187218 | [187218-debugger-4406.json](./187218-debugger-4406.json) |
@@ -4196,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Fight | 232368 | [232368-dice-fight.json](./232368-dice-fight.json) |
 | Dice Game | 226179 | [226179-dice-game.json](./226179-dice-game.json) |
 | Dice Guy | 217006 | [217006-dice-guy.json](./217006-dice-guy.json) |
+| Dice Hero: The Unoriginal Story | 234673 | [234673-dice-hero-the-unoriginal-story.json](./234673-dice-hero-the-unoriginal-story.json) |
 | Dice Heroes | 396504 | [396504-dice-heroes.json](./396504-dice-heroes.json) |
 | Dice In You | 379013 | [379013-dice-in-you.json](./379013-dice-in-you.json) |
 | Dice Jockey | 175171 | [175171-dice-jockey.json](./175171-dice-jockey.json) |
@@ -4867,6 +4869,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt 3: Colin McRae Vision Charity Pack | 234913 | [234913-dirt-3-colin-mcrae-vision-charity-pack.json](./234913-dirt-3-colin-mcrae-vision-charity-pack.json) |
 | Dirt 3: Complete Edition | 47381 | [47381-dirt-3-complete-edition.json](./47381-dirt-3-complete-edition.json) |
 | Dirt 3: Horn Pack | 234918 | [234918-dirt-3-horn-pack.json](./234918-dirt-3-horn-pack.json) |
+| Dirt 3: Ken Block Special Pack | 234666 | [234666-dirt-3-ken-block-special-pack.json](./234666-dirt-3-ken-block-special-pack.json) |
+| Dirt 3: Mud and Guts Car Pack | 234667 | [234667-dirt-3-mud-and-guts-car-pack.json](./234667-dirt-3-mud-and-guts-car-pack.json) |
 | Dirt 5: Amplified Edition | 136248 | [136248-dirt-5-amplified-edition.json](./136248-dirt-5-amplified-edition.json) |
 | Dirt 5: Ford Raptor Edition | 146133 | [146133-dirt-5-ford-raptor-edition.json](./146133-dirt-5-ford-raptor-edition.json) |
 | Dirt 5: Limited Edition | 139955 | [139955-dirt-5-limited-edition.json](./139955-dirt-5-limited-edition.json) |
@@ -6331,9 +6335,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong | 305300 | [305300-donkey-kong.json](./305300-donkey-kong.json) |
 | Donkey Kong | 40922 | [40922-donkey-kong.json](./40922-donkey-kong.json) |
 | Donkey Kong "Special Edition" | 305301 | [305301-donkey-kong-special-edition.json](./305301-donkey-kong-special-edition.json) |
+| Donkey Kong 2: The Rise of Jumpman! | 234768 | [234768-donkey-kong-2-the-rise-of-jumpman.json](./234768-donkey-kong-2-the-rise-of-jumpman.json) |
 | Donkey Kong 3 | 178167 | [178167-donkey-kong-3.json](./178167-donkey-kong-3.json) |
 | Donkey Kong 3 & Samus | 323885 | [323885-donkey-kong-3-and-samus.json](./323885-donkey-kong-3-and-samus.json) |
 | Donkey Kong 3-e | 170016 | [170016-donkey-kong-3-e.json](./170016-donkey-kong-3-e.json) |
+| Donkey Kong 3: Another Rise! | 234771 | [234771-donkey-kong-3-another-rise.json](./234771-donkey-kong-3-another-rise.json) |
 | Donkey Kong 5: The Journey of Over Time and Space | 222279 | [222279-donkey-kong-5-the-journey-of-over-time-and-space.json](./222279-donkey-kong-5-the-journey-of-over-time-and-space.json) |
 | Donkey Kong 64 | 1096 | [1096-donkey-kong-64.json](./1096-donkey-kong-64.json) |
 | Donkey Kong 64 Lore Quiz | 231609 | [231609-donkey-kong-64-lore-quiz.json](./231609-donkey-kong-64-lore-quiz.json) |
@@ -6387,6 +6393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Redux | 331437 | [331437-donkey-kong-redux.json](./331437-donkey-kong-redux.json) |
 | Donkey Kong vs. K. Rool Challenge | 307722 | [307722-donkey-kong-vs-k-rool-challenge.json](./307722-donkey-kong-vs-k-rool-challenge.json) |
 | Donkey Kong-e | 170011 | [170011-donkey-kong-e.json](./170011-donkey-kong-e.json) |
+| Donkey Kong: Jumpman Returns | 234767 | [234767-donkey-kong-jumpman-returns.json](./234767-donkey-kong-jumpman-returns.json) |
 | Donkey Konga | 256803 | [256803-donkey-konga.json](./256803-donkey-konga.json) |
 | Donkey Konga | 328664 | [328664-donkey-konga.json](./328664-donkey-konga.json) |
 | Donkey Konga 1+2 Pack | 329370 | [329370-donkey-konga-1-2-pack.json](./329370-donkey-konga-1-2-pack.json) |
