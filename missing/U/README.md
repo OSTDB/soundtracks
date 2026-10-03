@@ -1502,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsung Knight | 163811 | [163811-unsung-knight.json](./163811-unsung-knight.json) |
 | Unsung Story | 53927 | [53927-unsung-story.json](./53927-unsung-story.json) |
 | Unsung Warriors | 113881 | [113881-unsung-warriors.json](./113881-unsung-warriors.json) |
+| Unsupervised | 247658 | [247658-unsupervised.json](./247658-unsupervised.json) |
 | Unsustainable: a god job | 180842 | [180842-unsustainable-a-god-job.json](./180842-unsustainable-a-god-job.json) |
 | Untameable | 313800 | [313800-untameable.json](./313800-untameable.json) |
 | Untamed | 280233 | [280233-untamed.json](./280233-untamed.json) |
