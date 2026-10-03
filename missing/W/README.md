@@ -2628,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Cats | 365662 | [365662-wild-cats.json](./365662-wild-cats.json) |
 | Wild Cats of Wasteland | 117131 | [117131-wild-cats-of-wasteland.json](./117131-wild-cats-of-wasteland.json) |
 | Wild Cheetah Sim 3D | 330725 | [330725-wild-cheetah-sim-3d.json](./330725-wild-cheetah-sim-3d.json) |
+| Wild City | 253481 | [253481-wild-city.json](./253481-wild-city.json) |
 | Wild City | 350594 | [350594-wild-city.json](./350594-wild-city.json) |
 | Wild Cosmos | 381862 | [381862-wild-cosmos.json](./381862-wild-cosmos.json) |
 | Wild Country | 151014 | [151014-wild-country.json](./151014-wild-country.json) |
@@ -4869,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyldheart | 395042 | [395042-wyldheart.json](./395042-wyldheart.json) |
 | WyndBlast | 234752 | [234752-wyndblast.json](./234752-wyndblast.json) |
 | Wyprawa po zlote runo | 318490 | [318490-wyprawa-po-zlote-runo.json](./318490-wyprawa-po-zlote-runo.json) |
+| Wyrd Gun | 253488 | [253488-wyrd-gun.json](./253488-wyrd-gun.json) |
 | Wyrd World | 360571 | [360571-wyrd-world.json](./360571-wyrd-world.json) |
 | Wyrdbonds | 365841 | [365841-wyrdbonds.json](./365841-wyrdbonds.json) |
 | Wyred | 261764 | [261764-wyred.json](./261764-wyred.json) |
