@@ -3894,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Mosaic Puzzle: Caribbean Treasures | 97144 | [97144-pirate-mosaic-puzzle-caribbean-treasures.json](./97144-pirate-mosaic-puzzle-caribbean-treasures.json) |
 | Pirate Parakeet | 346777 | [346777-pirate-parakeet.json](./346777-pirate-parakeet.json) |
 | Pirate Plight | 245911 | [245911-pirate-plight.json](./245911-pirate-plight.json) |
+| Pirate Pop Mega Quiz | 232499 | [232499-pirate-pop-mega-quiz.json](./232499-pirate-pop-mega-quiz.json) |
 | Pirate Raid: Caribbean Battle | 188399 | [188399-pirate-raid-caribbean-battle.json](./188399-pirate-raid-caribbean-battle.json) |
 | Pirate Royalty | 345583 | [345583-pirate-royalty.json](./345583-pirate-royalty.json) |
 | Pirate Runner | 253881 | [253881-pirate-runner.json](./253881-pirate-runner.json) |
@@ -5226,6 +5227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Billiards! | 41559 | [41559-pocket-billiards.json](./41559-pocket-billiards.json) |
 | Pocket Bite d20 | 184616 | [184616-pocket-bite-d20.json](./184616-pocket-bite-d20.json) |
 | Pocket Bomberman | 2980 | [2980-pocket-bomberman.json](./2980-pocket-bomberman.json) |
+| Pocket Bomberman Blast Heroes | 232511 | [232511-pocket-bomberman-blast-heroes.json](./232511-pocket-bomberman-blast-heroes.json) |
 | Pocket Boss | 347684 | [347684-pocket-boss.json](./347684-pocket-boss.json) |
 | Pocket Breeder: Oguri Cap II-sei | 284458 | [284458-pocket-breeder-oguri-cap-ii-sei.json](./284458-pocket-breeder-oguri-cap-ii-sei.json) |
 | Pocket Build | 88881 | [88881-pocket-build.json](./88881-pocket-build.json) |
@@ -6369,6 +6371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Float a-way | 414579 | [414579-pop-float-a-way.json](./414579-pop-float-a-way.json) |
 | Pop Frenzy! | 108983 | [108983-pop-frenzy.json](./108983-pop-frenzy.json) |
 | Pop Fruit | 233996 | [233996-pop-fruit.json](./233996-pop-fruit.json) |
+| Pop Gems | 232575 | [232575-pop-gems.json](./232575-pop-gems.json) |
 | Pop Island | 68124 | [68124-pop-island.json](./68124-pop-island.json) |
 | Pop Islands | 94868 | [94868-pop-islands.json](./94868-pop-islands.json) |
 | Pop Journey | 220651 | [220651-pop-journey.json](./220651-pop-journey.json) |
