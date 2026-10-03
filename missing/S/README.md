@@ -4394,6 +4394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Simulator Professional | 78080 | [78080-ship-simulator-professional.json](./78080-ship-simulator-professional.json) |
 | Ship Simulator Realistic | 173056 | [173056-ship-simulator-realistic.json](./173056-ship-simulator-realistic.json) |
 | Ship Simulator: Maritime Search and Rescue | 27185 | [27185-ship-simulator-maritime-search-and-rescue.json](./27185-ship-simulator-maritime-search-and-rescue.json) |
+| Ship Smash | 264216 | [264216-ship-smash.json](./264216-ship-smash.json) |
 | Ship Surveyor Through the Ages: VR | 170324 | [170324-ship-surveyor-through-the-ages-vr.json](./170324-ship-surveyor-through-the-ages-vr.json) |
 | Shipbreakers | 107366 | [107366-shipbreakers.json](./107366-shipbreakers.json) |
 | ShipCrafter | 371975 | [371975-shipcrafter.json](./371975-shipcrafter.json) |
@@ -7595,6 +7596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Strike 3D | 237365 | [237365-sniper-strike-3d.json](./237365-sniper-strike-3d.json) |
 | Sniper Strike: Special Ops | 89492 | [89492-sniper-strike-special-ops.json](./89492-sniper-strike-special-ops.json) |
 | Sniper Warrior Elite | 345119 | [345119-sniper-warrior-elite.json](./345119-sniper-warrior-elite.json) |
+| Sniper Wild West Shooting Simulator | 264214 | [264214-sniper-wild-west-shooting-simulator.json](./264214-sniper-wild-west-shooting-simulator.json) |
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
 | Sniper: Elite Shooter Squad | 283222 | [283222-sniper-elite-shooter-squad.json](./283222-sniper-elite-shooter-squad.json) |
 | Sniper: Ghost Warrior 2 - World Hunter Pack | 156186 | [156186-sniper-ghost-warrior-2-world-hunter-pack.json](./156186-sniper-ghost-warrior-2-world-hunter-pack.json) |
@@ -11447,6 +11449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Springs, Eternal | 380435 | [380435-springs-eternal.json](./380435-springs-eternal.json) |
 | Springshot | 263575 | [263575-springshot.json](./263575-springshot.json) |
 | Springtastic Match | 359402 | [359402-springtastic-match.json](./359402-springtastic-match.json) |
+| Springtime Hike | 264231 | [264231-springtime-hike.json](./264231-springtime-hike.json) |
 | Springtime Puzzle | 359403 | [359403-springtime-puzzle.json](./359403-springtime-puzzle.json) |
 | Springy: A Bounce Adventure | 216876 | [216876-springy-a-bounce-adventure.json](./216876-springy-a-bounce-adventure.json) |
 | Sprinkfield | 241333 | [241333-sprinkfield.json](./241333-sprinkfield.json) |
@@ -15635,6 +15638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Godzilla | 38418 | [38418-super-godzilla.json](./38418-super-godzilla.json) |
 | Super Golf | 109212 | [109212-super-golf.json](./109212-super-golf.json) |
 | Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
+| Super Gorilla Quest | 264235 | [264235-super-gorilla-quest.json](./264235-super-gorilla-quest.json) |
 | Super Gorilla Quest 2: A Space Chimpanzee | 347230 | [347230-super-gorilla-quest-2-a-space-chimpanzee.json](./347230-super-gorilla-quest-2-a-space-chimpanzee.json) |
 | Super Grand Prix | 15381 | [15381-super-grand-prix.json](./15381-super-grand-prix.json) |
 | Super Granny | 7502 | [7502-super-granny.json](./7502-super-granny.json) |
@@ -18028,6 +18032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symbiosis | 302916 | [302916-symbiosis.json](./302916-symbiosis.json) |
 | Symbiotic Love | 159361 | [159361-symbiotic-love.json](./159361-symbiotic-love.json) |
 | Symbol | 229930 | [229930-symbol.json](./229930-symbol.json) |
+| Symbol Link | 264219 | [264219-symbol-link.json](./264219-symbol-link.json) |
 | symeCu8e | 90620 | [90620-symecu8e.json](./90620-symecu8e.json) |
 | Symmetrain | 123074 | [123074-symmetrain.json](./123074-symmetrain.json) |
 | Symmetry - Drawing Puzzles | 101090 | [101090-symmetry-drawing-puzzles.json](./101090-symmetry-drawing-puzzles.json) |
