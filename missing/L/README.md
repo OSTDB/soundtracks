@@ -4717,6 +4717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loyalty and Blood: Viktor Origins | 89774 | [89774-loyalty-and-blood-viktor-origins.json](./89774-loyalty-and-blood-viktor-origins.json) |
 | Lozenge | 88010 | [88010-lozenge.json](./88010-lozenge.json) |
 | LOZT: Legion of Zombie Terrors | 393048 | [393048-lozt-legion-of-zombie-terrors.json](./393048-lozt-legion-of-zombie-terrors.json) |
+| LP Recharge | 227970 | [227970-lp-recharge.json](./227970-lp-recharge.json) |
 | Lrrl or Rllr | 169441 | [169441-lrrl-or-rllr.json](./169441-lrrl-or-rllr.json) |
 | LSD Battlefield Simulator | 340927 | [340927-lsd-battlefield-simulator.json](./340927-lsd-battlefield-simulator.json) |
 | LSD: Dream Emulator Retro | 333780 | [333780-lsd-dream-emulator-retro.json](./333780-lsd-dream-emulator-retro.json) |
