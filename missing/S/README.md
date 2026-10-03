@@ -797,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctity | 282551 | [282551-sanctity.json](./282551-sanctity.json) |
 | Sanctuaries | 404390 | [404390-sanctuaries.json](./404390-sanctuaries.json) |
 | Sanctuarium Online | 191858 | [191858-sanctuarium-online.json](./191858-sanctuarium-online.json) |
+| Sanctuary Saga | 233575 | [233575-sanctuary-saga.json](./233575-sanctuary-saga.json) |
 | Sanctuary VR | 30182 | [30182-sanctuary-vr.json](./30182-sanctuary-vr.json) |
 | Sanctum 2: Road to Elysion | 10806 | [10806-sanctum-2-road-to-elysion.json](./10806-sanctum-2-road-to-elysion.json) |
 | Sanctum 2: Ruins of Brightholme | 10807 | [10807-sanctum-2-ruins-of-brightholme.json](./10807-sanctum-2-ruins-of-brightholme.json) |
@@ -12215,6 +12216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox 64 3D | 6890 | [6890-star-fox-64-3d.json](./6890-star-fox-64-3d.json) |
 | Star Fox 64: Survival | 146269 | [146269-star-fox-64-survival.json](./146269-star-fox-64-survival.json) |
 | Star Fox Adventures | 2686 | [2686-star-fox-adventures.json](./2686-star-fox-adventures.json) |
+| Star Fox EX: Exploration Showcase | 233556 | [233556-star-fox-ex-exploration-showcase.json](./233556-star-fox-ex-exploration-showcase.json) |
 | Star Fox NES | 323905 | [323905-star-fox-nes.json](./323905-star-fox-nes.json) |
 | Star Fox Wii | 279750 | [279750-star-fox-wii.json](./279750-star-fox-wii.json) |
 | Star Fox Zero | 11196 | [11196-star-fox-zero.json](./11196-star-fox-zero.json) |
