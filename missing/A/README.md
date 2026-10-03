@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day In the Life | 78681 | [78681-a-day-in-the-life.json](./78681-a-day-in-the-life.json) |
 | A Day in the Life Of | 387694 | [387694-a-day-in-the-life-of.json](./387694-a-day-in-the-life-of.json) |
 | A Day on the Farm | 326582 | [326582-a-day-on-the-farm.json](./326582-a-day-on-the-farm.json) |
+| A Day Out with Ube | 242006 | [242006-a-day-out-with-ube.json](./242006-a-day-out-with-ube.json) |
 | A Day With Mochi | 323717 | [323717-a-day-with-mochi.json](./323717-a-day-with-mochi.json) |
 | A Day with the Wiggles | 273875 | [273875-a-day-with-the-wiggles.json](./273875-a-day-with-the-wiggles.json) |
 | A Day's Work | 307699 | [307699-a-days-work.json](./307699-a-days-work.json) |
@@ -917,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abunai Tengu Densetsu | 299786 | [299786-abunai-tengu-densetsu.json](./299786-abunai-tengu-densetsu.json) |
 | Abuse | 383503 | [383503-abuse.json](./383503-abuse.json) |
 | Abuzittin'in Maceraları II: İz Peşinde | 330333 | [330333-abuzittinin-maceralar-ii-iz-pesinde.json](./330333-abuzittinin-maceralar-ii-iz-pesinde.json) |
+| Aby Escape | 242004 | [242004-aby-escape.json](./242004-aby-escape.json) |
 | ABYA: Paint Ball | 312664 | [312664-abya-paint-ball.json](./312664-abya-paint-ball.json) |
 | Abysm 2: Spirit Falcon | 201230 | [201230-abysm-2-spirit-falcon.json](./201230-abysm-2-spirit-falcon.json) |
 | Abysmal Gateway | 312661 | [312661-abysmal-gateway.json](./312661-abysmal-gateway.json) |
