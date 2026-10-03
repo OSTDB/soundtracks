@@ -2521,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Alchemy Dungeon | 207500 | [207500-deep-alchemy-dungeon.json](./207500-deep-alchemy-dungeon.json) |
 | Deep Among the Swarm | 285013 | [285013-deep-among-the-swarm.json](./285013-deep-among-the-swarm.json) |
 | Deep Aquarium | 124688 | [124688-deep-aquarium.json](./124688-deep-aquarium.json) |
+| Deep Assault | 235816 | [235816-deep-assault.json](./235816-deep-assault.json) |
 | Deep Black: Reloaded | 52863 | [52863-deep-black-reloaded.json](./52863-deep-black-reloaded.json) |
 | Deep Blue | 75524 | [75524-deep-blue.json](./75524-deep-blue.json) |
 | Deep Blue Fantasy | 253612 | [253612-deep-blue-fantasy.json](./253612-deep-blue-fantasy.json) |
@@ -3087,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Inc. | 15126 | [15126-demolition-inc.json](./15126-demolition-inc.json) |
 | Demolition Inc.: Level & Weapon | 238632 | [238632-demolition-inc-level-and-weapon.json](./238632-demolition-inc-level-and-weapon.json) |
 | Demolition Master | 106775 | [106775-demolition-master.json](./106775-demolition-master.json) |
+| Demolition Party | 235815 | [235815-demolition-party.json](./235815-demolition-party.json) |
 | Demolition Physics | 90510 | [90510-demolition-physics.json](./90510-demolition-physics.json) |
 | Demolition Plant | 270710 | [270710-demolition-plant.json](./270710-demolition-plant.json) |
 | Demolition Race | 192974 | [192974-demolition-race.json](./192974-demolition-race.json) |
@@ -6998,6 +7000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downhill Jam | 181303 | [181303-downhill-jam.json](./181303-downhill-jam.json) |
 | Downhill Slalom | 66952 | [66952-downhill-slalom.json](./66952-downhill-slalom.json) |
 | Downhill Snow | 143643 | [143643-downhill-snow.json](./143643-downhill-snow.json) |
+| DownhillMadness | 235800 | [235800-downhillmadness.json](./235800-downhillmadness.json) |
 | Downland | 93146 | [93146-downland.json](./93146-downland.json) |
 | Download RAM Idle | 400222 | [400222-download-ram-idle.json](./400222-download-ram-idle.json) |
 | Download RAM Idle 2 | 400221 | [400221-download-ram-idle-2.json](./400221-download-ram-idle-2.json) |
