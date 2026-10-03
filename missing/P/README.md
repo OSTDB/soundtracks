@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Dungeons Crawler | 95573 | [95573-paper-dungeons-crawler.json](./95573-paper-dungeons-crawler.json) |
 | Paper Fire! Rookie | 74138 | [74138-paper-fire-rookie.json](./74138-paper-fire-rookie.json) |
 | Paper Flight: Future Battles | 263236 | [263236-paper-flight-future-battles.json](./263236-paper-flight-future-battles.json) |
+| Paper Flight: Relic Hunter | 263132 | [263132-paper-flight-relic-hunter.json](./263132-paper-flight-relic-hunter.json) |
 | Paper Flights | 235224 | [235224-paper-flights.json](./235224-paper-flights.json) |
 | Paper Galaxy | 64129 | [64129-paper-galaxy.json](./64129-paper-galaxy.json) |
 | Paper Glider | 144878 | [144878-paper-glider.json](./144878-paper-glider.json) |
@@ -6031,6 +6032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polychrome | 362975 | [362975-polychrome.json](./362975-polychrome.json) |
 | Polychromia | 177867 | [177867-polychromia.json](./177867-polychromia.json) |
 | Polycity | 404978 | [404978-polycity.json](./404978-polycity.json) |
+| PolyCity Stories: The Affair | 263125 | [263125-polycity-stories-the-affair.json](./263125-polycity-stories-the-affair.json) |
 | Polycore | 369742 | [369742-polycore.json](./369742-polycore.json) |
 | PolyCube | 88232 | [88232-polycube.json](./88232-polycube.json) |
 | Polydangerous | 392468 | [392468-polydangerous.json](./392468-polydangerous.json) |
