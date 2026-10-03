@@ -1693,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GermCraft Deluxe | 208013 | [208013-germcraft-deluxe.json](./208013-germcraft-deluxe.json) |
 | Germinal | 202229 | [202229-germinal.json](./202229-germinal.json) |
 | Germinator | 21019 | [21019-germinator.json](./21019-germinator.json) |
+| Germline | 258601 | [258601-germline.json](./258601-germline.json) |
 | Germs: Nerawareta Machi | 62438 | [62438-germs-nerawareta-machi.json](./62438-germs-nerawareta-machi.json) |
 | Germs.io | 112152 | [112152-germs-io.json](./112152-germs-io.json) |
 | Gero-Gero | 295844 | [295844-gero-gero.json](./295844-gero-gero.json) |
@@ -4796,6 +4797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groovy | 201709 | [201709-groovy.json](./201709-groovy.json) |
 | Grordbattle | 116386 | [116386-grordbattle.json](./116386-grordbattle.json) |
 | Gross | 150091 | [150091-gross.json](./150091-gross.json) |
+| Grotesque Insight | 258622 | [258622-grotesque-insight.json](./258622-grotesque-insight.json) |
 | Grotesque Tactics: Evil Heroes | 18914 | [18914-grotesque-tactics-evil-heroes.json](./18914-grotesque-tactics-evil-heroes.json) |
 | Grottesco Absurdus | 110558 | [110558-grottesco-absurdus.json](./110558-grottesco-absurdus.json) |
 | Grotto Beasts Arena | 293234 | [293234-grotto-beasts-arena.json](./293234-grotto-beasts-arena.json) |
