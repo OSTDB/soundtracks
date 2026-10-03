@@ -7414,6 +7414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Old House | 257895 | [257895-the-old-house.json](./257895-the-old-house.json) |
 | The Old Kazulka | 89371 | [89371-the-old-kazulka.json](./89371-the-old-kazulka.json) |
 | The Old Man | 135036 | [135036-the-old-man.json](./135036-the-old-man.json) |
+| The Old Man and His Cat | 247657 | [247657-the-old-man-and-his-cat.json](./247657-the-old-man-and-his-cat.json) |
 | The Old Man Club | 59987 | [59987-the-old-man-club.json](./59987-the-old-man-club.json) |
 | The Old Man’s Will | 390660 | [390660-the-old-man-s-will.json](./390660-the-old-man-s-will.json) |
 | The Old Manor | 276399 | [276399-the-old-manor.json](./276399-the-old-manor.json) |
@@ -8180,6 +8181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scourge Project: Episodes 1 and 2 | 51294 | [51294-the-scourge-project-episodes-1-and-2.json](./51294-the-scourge-project-episodes-1-and-2.json) |
 | The Scouring | 325682 | [325682-the-scouring.json](./325682-the-scouring.json) |
 | The Scramble Vice | 266468 | [266468-the-scramble-vice.json](./266468-the-scramble-vice.json) |
+| The Scrap | 247669 | [247669-the-scrap.json](./247669-the-scrap.json) |
 | The Scrapper | 306645 | [306645-the-scrapper.json](./306645-the-scrapper.json) |
 | The Scream | 119552 | [119552-the-scream.json](./119552-the-scream.json) |
 | The Screen | 369116 | [369116-the-screen.json](./369116-the-screen.json) |
@@ -11905,6 +11907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinker | 51212 | [51212-tinker.json](./51212-tinker.json) |
 | Tinker Bell: 2 Disney Games | 113889 | [113889-tinker-bell-2-disney-games.json](./113889-tinker-bell-2-disney-games.json) |
 | Tinker Racers | 129739 | [129739-tinker-racers.json](./129739-tinker-racers.json) |
+| Tinker Tanks | 247666 | [247666-tinker-tanks.json](./247666-tinker-tanks.json) |
 | Tinker's Ascent | 355564 | [355564-tinkers-ascent.json](./355564-tinkers-ascent.json) |
 | Tinkercore | 316686 | [316686-tinkercore.json](./316686-tinkercore.json) |
 | Tinkerlands: A Shipwrecked Adventure | 274567 | [274567-tinkerlands-a-shipwrecked-adventure.json](./274567-tinkerlands-a-shipwrecked-adventure.json) |
@@ -13994,6 +13997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townopolis Romopolis Megapolis Collection | 53836 | [53836-townopolis-romopolis-megapolis-collection.json](./53836-townopolis-romopolis-megapolis-collection.json) |
 | Towns | 28041 | [28041-towns.json](./28041-towns.json) |
 | Towns and Towers | 341866 | [341866-towns-and-towers.json](./341866-towns-and-towers.json) |
+| Towns of Yore | 247671 | [247671-towns-of-yore.json](./247671-towns-of-yore.json) |
 | Townscaper VR | 223141 | [223141-townscaper-vr.json](./223141-townscaper-vr.json) |
 | Townseek | 177316 | [177316-townseek.json](./177316-townseek.json) |
 | Township | 19526 | [19526-township.json](./19526-township.json) |
