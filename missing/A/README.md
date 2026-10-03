@@ -3919,6 +3919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Gladiators | 273030 | [273030-american-gladiators.json](./273030-american-gladiators.json) |
 | American Gladiators | 4377 | [4377-american-gladiators.json](./4377-american-gladiators.json) |
 | American Gold Rush | 417689 | [417689-american-gold-rush.json](./417689-american-gold-rush.json) |
+| American Heroes BF 92 Extra Version | 267574 | [267574-american-heroes-bf-92-extra-version.json](./267574-american-heroes-bf-92-extra-version.json) |
 | American Idol | 248734 | [248734-american-idol.json](./248734-american-idol.json) |
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
 | American Marksman | 239912 | [239912-american-marksman.json](./239912-american-marksman.json) |
@@ -7823,6 +7824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Recharged: Volume Two | 324500 | [324500-atari-recharged-volume-two.json](./324500-atari-recharged-volume-two.json) |
 | Atari Retro Handheld Console | 277413 | [277413-atari-retro-handheld-console.json](./277413-atari-retro-handheld-console.json) |
 | Atari Video Cube | 12243 | [12243-atari-video-cube.json](./12243-atari-video-cube.json) |
+| Atari's Freeway for MSX-BASIC 2 | 267560 | [267560-ataris-freeway-for-msx-basic-2.json](./267560-ataris-freeway-for-msx-basic-2.json) |
 | Atax | 14274 | [14274-atax.json](./14274-atax.json) |
 | Ataxia | 259841 | [259841-ataxia.json](./259841-ataxia.json) |
 | ATC Flight Operator | 338176 | [338176-atc-flight-operator.json](./338176-atc-flight-operator.json) |
