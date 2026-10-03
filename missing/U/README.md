@@ -1343,8 +1343,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unmasked: An Inner Journey | 286041 | [286041-unmasked-an-inner-journey.json](./286041-unmasked-an-inner-journey.json) |
 | Unmatch | 58805 | [58805-unmatch.json](./58805-unmatch.json) |
 | Unmatched: Digital Edition | 171477 | [171477-unmatched-digital-edition.json](./171477-unmatched-digital-edition.json) |
+| Unmatched: Digital Edition - Baskerville Manor | 248704 | [248704-unmatched-digital-edition-baskerville-manor.json](./248704-unmatched-digital-edition-baskerville-manor.json) |
 | Unmatched: Digital Edition - Bigfoot | 248717 | [248717-unmatched-digital-edition-bigfoot.json](./248717-unmatched-digital-edition-bigfoot.json) |
 | Unmatched: Digital Edition - Dracula | 248706 | [248706-unmatched-digital-edition-dracula.json](./248706-unmatched-digital-edition-dracula.json) |
+| Unmatched: Digital Edition - Invisible Man | 248703 | [248703-unmatched-digital-edition-invisible-man.json](./248703-unmatched-digital-edition-invisible-man.json) |
 | Unmatched: Digital Edition - Robin Hood | 248726 | [248726-unmatched-digital-edition-robin-hood.json](./248726-unmatched-digital-edition-robin-hood.json) |
 | Unmatched: Digital Edition - Sherlock Holmes | 248716 | [248716-unmatched-digital-edition-sherlock-holmes.json](./248716-unmatched-digital-edition-sherlock-holmes.json) |
 | Unmatched: Digital Edition - Sherwood Forest | 248718 | [248718-unmatched-digital-edition-sherwood-forest.json](./248718-unmatched-digital-edition-sherwood-forest.json) |
