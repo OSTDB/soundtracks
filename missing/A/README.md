@@ -3905,6 +3905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Car Parking Simulator 2025 | 380705 | [380705-american-car-parking-simulator-2025.json](./380705-american-car-parking-simulator-2025.json) |
 | American Cars 'n Guns | 346222 | [346222-american-cars-n-guns.json](./346222-american-cars-n-guns.json) |
 | American Catur | 187971 | [187971-american-catur.json](./187971-american-catur.json) |
+| American Christmas 2 | 258650 | [258650-american-christmas-2.json](./258650-american-christmas-2.json) |
 | American Civil War | 52582 | [52582-american-civil-war.json](./52582-american-civil-war.json) |
 | American Civil War Mod: Revived | 356166 | [356166-american-civil-war-mod-revived.json](./356166-american-civil-war-mod-revived.json) |
 | American Conquest: Anthology | 324664 | [324664-american-conquest-anthology.json](./324664-american-conquest-anthology.json) |
@@ -5032,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomyeowly | 397103 | [397103-anomyeowly.json](./397103-anomyeowly.json) |
 | Anon's Neko Waifus | 276709 | [276709-anons-neko-waifus.json](./276709-anons-neko-waifus.json) |
 | Anonono. Kimi to Sugoshita Ano Hi Ano Toki Ano Mirai | 314654 | [314654-anonono-kimi-to-sugoshita-ano-hi-ano-toki-ano-mirai.json](./314654-anonono-kimi-to-sugoshita-ano-hi-ano-toki-ano-mirai.json) |
+| Anonymous Hacker Simulator | 258607 | [258607-anonymous-hacker-simulator.json](./258607-anonymous-hacker-simulator.json) |
 | Anonymous Hunting Simulator | 274537 | [274537-anonymous-hunting-simulator.json](./274537-anonymous-hunting-simulator.json) |
 | Anonymous ME | 68670 | [68670-anonymous-me.json](./68670-anonymous-me.json) |
 | Anonymous Messages | 262649 | [262649-anonymous-messages.json](./262649-anonymous-messages.json) |
@@ -7578,6 +7580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Tale | 271915 | [271915-astral-tale.json](./271915-astral-tale.json) |
 | Astral Terra | 16882 | [16882-astral-terra.json](./16882-astral-terra.json) |
 | Astral Tournament | 73863 | [73863-astral-tournament.json](./73863-astral-tournament.json) |
+| Astral Tracks | 258619 | [258619-astral-tracks.json](./258619-astral-tracks.json) |
 | Astral Traveler | 51973 | [51973-astral-traveler.json](./51973-astral-traveler.json) |
 | Astral Vangard | 289546 | [289546-astral-vangard.json](./289546-astral-vangard.json) |
 | Astral Wield | 319068 | [319068-astral-wield.json](./319068-astral-wield.json) |
