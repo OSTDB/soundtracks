@@ -1466,6 +1466,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey's End | 142898 | [142898-journeys-end.json](./142898-journeys-end.json) |
 | Journey's Legend | 274501 | [274501-journeys-legend.json](./274501-journeys-legend.json) |
 | Journeyman | 236373 | [236373-journeyman.json](./236373-journeyman.json) |
+| Joushou Mahjong Tenpai: Additional Data | 234782 | [234782-joushou-mahjong-tenpai-additional-data.json](./234782-joushou-mahjong-tenpai-additional-data.json) |
+| Joushou Mahjong Tenpai: Data | 234781 | [234781-joushou-mahjong-tenpai-data.json](./234781-joushou-mahjong-tenpai-data.json) |
+| Joushou Mahjong Tenpai: Kansen Data | 234783 | [234783-joushou-mahjong-tenpai-kansen-data.json](./234783-joushou-mahjong-tenpai-kansen-data.json) |
 | Joust | 239137 | [239137-joust.json](./239137-joust.json) |
 | Joust | 278084 | [278084-joust.json](./278084-joust.json) |
 | Joust | 278086 | [278086-joust.json](./278086-joust.json) |
