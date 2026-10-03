@@ -499,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You All Know! Arm Tank Volley | 390269 | [390269-you-all-know-arm-tank-volley.json](./390269-you-all-know-arm-tank-volley.json) |
 | You and I, at the End of That Summer | 375293 | [375293-you-and-i-at-the-end-of-that-summer.json](./375293-you-and-i-at-the-end-of-that-summer.json) |
 | You and Me and Her: A Love Story | 133256 | [133256-you-and-me-and-her-a-love-story.json](./133256-you-and-me-and-her-a-love-story.json) |
+| You Are 100k Light Years Away | 252933 | [252933-you-are-100k-light-years-away.json](./252933-you-are-100k-light-years-away.json) |
 | You Are a Failed Murderer | 338337 | [338337-you-are-a-failed-murderer.json](./338337-you-are-a-failed-murderer.json) |
 | You Are A Pilot | 189148 | [189148-you-are-a-pilot.json](./189148-you-are-a-pilot.json) |
 | You Are a Torpedo AI | 75777 | [75777-you-are-a-torpedo-ai.json](./75777-you-are-a-torpedo-ai.json) |
