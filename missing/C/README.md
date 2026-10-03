@@ -1701,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Puzzlefort | 271814 | [271814-castle-puzzlefort.json](./271814-castle-puzzlefort.json) |
 | Castle Quest | 307104 | [307104-castle-quest.json](./307104-castle-quest.json) |
 | Castle Raid 2 | 197762 | [197762-castle-raid-2.json](./197762-castle-raid-2.json) |
+| Castle Ramble | 256433 | [256433-castle-ramble.json](./256433-castle-ramble.json) |
 | Castle Red | 123000 | [123000-castle-red.json](./123000-castle-red.json) |
 | Castle Rencounter | 111475 | [111475-castle-rencounter.json](./111475-castle-rencounter.json) |
 | Castle Renovator | 219174 | [219174-castle-renovator.json](./219174-castle-renovator.json) |
@@ -2610,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - The Journeyer Edition | 218492 | [218492-century-age-of-ashes-the-journeyer-edition.json](./218492-century-age-of-ashes-the-journeyer-edition.json) |
 | Century: Age of Ashes - Thornweaver Premium Edition | 242475 | [242475-century-age-of-ashes-thornweaver-premium-edition.json](./242475-century-age-of-ashes-thornweaver-premium-edition.json) |
 | Century: Age of Ashes - Valkurian Prelude Edition | 218491 | [218491-century-age-of-ashes-valkurian-prelude-edition.json](./218491-century-age-of-ashes-valkurian-prelude-edition.json) |
+| Century: Age of Ashes - Zealot Pack | 256409 | [256409-century-age-of-ashes-zealot-pack.json](./256409-century-age-of-ashes-zealot-pack.json) |
 | Century: Wishbringer Pack | 340566 | [340566-century-wishbringer-pack.json](./340566-century-wishbringer-pack.json) |
 | CEO | 179515 | [179515-ceo.json](./179515-ceo.json) |
 | CEO City | 316287 | [316287-ceo-city.json](./316287-ceo-city.json) |
@@ -5713,6 +5715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold War Era | 356265 | [356265-cold-war-era.json](./356265-cold-war-era.json) |
 | Cold War Warfare | 73805 | [73805-cold-war-warfare.json](./73805-cold-war-warfare.json) |
 | Cold War: Frontline | 339101 | [339101-cold-war-frontline.json](./339101-cold-war-frontline.json) |
+| Cold War: The Iron Curtain | 256451 | [256451-cold-war-the-iron-curtain.json](./256451-cold-war-the-iron-curtain.json) |
 | Cold Wind | 151128 | [151128-cold-wind.json](./151128-cold-wind.json) |
 | Cold Wires | 127315 | [127315-cold-wires.json](./127315-cold-wires.json) |
 | Coldblooded | 403007 | [403007-coldblooded.json](./403007-coldblooded.json) |
@@ -8330,6 +8333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Sonic | 352784 | [352784-crazy-sonic.json](./352784-crazy-sonic.json) |
 | Crazy Space Goat Simulator 3D - 2 | 101960 | [101960-crazy-space-goat-simulator-3d-2.json](./101960-crazy-space-goat-simulator-3d-2.json) |
 | Crazy space pirate | 117633 | [117633-crazy-space-pirate.json](./117633-crazy-space-pirate.json) |
+| Crazy Sprint | 256461 | [256461-crazy-sprint.json](./256461-crazy-sprint.json) |
 | Crazy Squares: Milk River Run | 365889 | [365889-crazy-squares-milk-river-run.json](./365889-crazy-squares-milk-river-run.json) |
 | Crazy Stars: Sport Climbing | 312081 | [312081-crazy-stars-sport-climbing.json](./312081-crazy-stars-sport-climbing.json) |
 | Crazy Steam Bros 2 | 35640 | [35640-crazy-steam-bros-2.json](./35640-crazy-steam-bros-2.json) |
