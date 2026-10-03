@@ -870,8 +870,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: Beautiful Towns Around the World | 238223 | [238223-jigsaw-masterpieces-beautiful-towns-around-the-world.json](./238223-jigsaw-masterpieces-beautiful-towns-around-the-world.json) |
 | Jigsaw Masterpieces: Juicy Fruits | 238230 | [238230-jigsaw-masterpieces-juicy-fruits.json](./238230-jigsaw-masterpieces-juicy-fruits.json) |
 | Jigsaw Masterpieces: Landscapes with Flags of the World - Asia vol.1 | 201024 | [201024-jigsaw-masterpieces-landscapes-with-flags-of-the-world-asia-vol-1.json](./201024-jigsaw-masterpieces-landscapes-with-flags-of-the-world-asia-vol-1.json) |
+| Jigsaw Masterpieces: Masterpieces of World - Girls in the Paintings | 238020 | [238020-jigsaw-masterpieces-masterpieces-of-world-girls-in-the-paintings.json](./238020-jigsaw-masterpieces-masterpieces-of-world-girls-in-the-paintings.json) |
+| Jigsaw Masterpieces: Masterpieces of World - Realism | 238019 | [238019-jigsaw-masterpieces-masterpieces-of-world-realism.json](./238019-jigsaw-masterpieces-masterpieces-of-world-realism.json) |
 | Jigsaw Masterpieces: Okinawa - Paradise in Japan | 238231 | [238231-jigsaw-masterpieces-okinawa-paradise-in-japan.json](./238231-jigsaw-masterpieces-okinawa-paradise-in-japan.json) |
 | Jigsaw Masterpieces: Scenes with Horses | 201023 | [201023-jigsaw-masterpieces-scenes-with-horses.json](./201023-jigsaw-masterpieces-scenes-with-horses.json) |
+| Jigsaw Masterpieces: Shin Bakumatsu Sinsengumi | 238026 | [238026-jigsaw-masterpieces-shin-bakumatsu-sinsengumi.json](./238026-jigsaw-masterpieces-shin-bakumatsu-sinsengumi.json) |
+| Jigsaw Masterpieces: Street Cats in Japan | 238024 | [238024-jigsaw-masterpieces-street-cats-in-japan.json](./238024-jigsaw-masterpieces-street-cats-in-japan.json) |
+| Jigsaw Masterpieces: Superb View of Blue | 238022 | [238022-jigsaw-masterpieces-superb-view-of-blue.json](./238022-jigsaw-masterpieces-superb-view-of-blue.json) |
+| Jigsaw Masterpieces: Superb View of Red | 238023 | [238023-jigsaw-masterpieces-superb-view-of-red.json](./238023-jigsaw-masterpieces-superb-view-of-red.json) |
 | Jigsaw Masterpieces: Sweet Cakes | 243371 | [243371-jigsaw-masterpieces-sweet-cakes.json](./243371-jigsaw-masterpieces-sweet-cakes.json) |
 | Jigsaw Masterpieces: View from the Sky | 237912 | [237912-jigsaw-masterpieces-view-from-the-sky.json](./237912-jigsaw-masterpieces-view-from-the-sky.json) |
 | Jigsaw Masterpieces: World's Most Scenic Train Trips | 201025 | [201025-jigsaw-masterpieces-worlds-most-scenic-train-trips.json](./201025-jigsaw-masterpieces-worlds-most-scenic-train-trips.json) |
