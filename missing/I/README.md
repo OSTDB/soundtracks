@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iCarly: Groovy Foodie! | 25187 | [25187-icarly-groovy-foodie.json](./25187-icarly-groovy-foodie.json) |
 | iCarly: iDream in Toons | 210060 | [210060-icarly-idream-in-toons.json](./210060-icarly-idream-in-toons.json) |
 | Icarus | 245054 | [245054-icarus.json](./245054-icarus.json) |
+| Icarus | 274674 | [274674-icarus.json](./274674-icarus.json) |
 | Icarus Challenge | 210893 | [210893-icarus-challenge.json](./210893-icarus-challenge.json) |
 | Icarus M: Guild War | 309569 | [309569-icarus-m-guild-war.json](./309569-icarus-m-guild-war.json) |
 | Icarus Online | 62770 | [62770-icarus-online.json](./62770-icarus-online.json) |
@@ -718,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Masquerade Ball Rust Theme Pack | 313695 | [313695-idle-champions-masquerade-ball-rust-theme-pack.json](./313695-idle-champions-masquerade-ball-rust-theme-pack.json) |
 | Idle Champions: Mind Flayer Dark Urge Theme Pack | 289845 | [289845-idle-champions-mind-flayer-dark-urge-theme-pack.json](./289845-idle-champions-mind-flayer-dark-urge-theme-pack.json) |
 | Idle Champions: Mind Flayer Gale Theme Pack | 295363 | [295363-idle-champions-mind-flayer-gale-theme-pack.json](./295363-idle-champions-mind-flayer-gale-theme-pack.json) |
+| Idle Champions: Minute the Marut Familiar Pack | 274658 | [274658-idle-champions-minute-the-marut-familiar-pack.json](./274658-idle-champions-minute-the-marut-familiar-pack.json) |
 | Idle Champions: Ms. Squiggles the Octopus Familiar Pack | 306079 | [306079-idle-champions-ms-squiggles-the-octopus-familiar-pack.json](./306079-idle-champions-ms-squiggles-the-octopus-familiar-pack.json) |
 | Idle Champions: Mythic Freely Skin & Feat Pack | 255982 | [255982-idle-champions-mythic-freely-skin-and-feat-pack.json](./255982-idle-champions-mythic-freely-skin-and-feat-pack.json) |
 | Idle Champions: Sherlock Combs the Bee Familiar Pack | 313698 | [313698-idle-champions-sherlock-combs-the-bee-familiar-pack.json](./313698-idle-champions-sherlock-combs-the-bee-familiar-pack.json) |
@@ -2099,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initium Legenda | 192972 | [192972-initium-legenda.json](./192972-initium-legenda.json) |
 | Injection | 60044 | [60044-injection.json](./60044-injection.json) |
 | Injection π 23: No Name, No Number | 121486 | [121486-injection-23-no-name-no-number.json](./121486-injection-23-no-name-no-number.json) |
+| Injection π23: No Name, No Number - Expansion Events | 274653 | [274653-injection-23-no-name-no-number-expansion-events.json](./274653-injection-23-no-name-no-number-expansion-events.json) |
 | Injustice 2 Mobile | 76547 | [76547-injustice-2-mobile.json](./76547-injustice-2-mobile.json) |
 | Injustice 2: Black Lightning | 323321 | [323321-injustice-2-black-lightning.json](./323321-injustice-2-black-lightning.json) |
 | Injustice 2: Black Manta | 165041 | [165041-injustice-2-black-manta.json](./165041-injustice-2-black-manta.json) |
