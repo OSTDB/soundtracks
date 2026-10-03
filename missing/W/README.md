@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walled Haven | 382195 | [382195-walled-haven.json](./382195-walled-haven.json) |
 | Wallenda | 111627 | [111627-wallenda.json](./111627-wallenda.json) |
 | Wallkill | 275819 | [275819-wallkill.json](./275819-wallkill.json) |
+| Wallpaper | 240376 | [240376-wallpaper.json](./240376-wallpaper.json) |
 | Wallrun Dot Love | 185068 | [185068-wallrun-dot-love.json](./185068-wallrun-dot-love.json) |
 | Wallrunners | 95209 | [95209-wallrunners.json](./95209-wallrunners.json) |
 | Walls | 268136 | [268136-walls.json](./268136-walls.json) |
