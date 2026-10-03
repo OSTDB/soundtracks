@@ -6999,6 +6999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena World Tour Edition | 385196 | [385196-cooking-arena-world-tour-edition.json](./385196-cooking-arena-world-tour-edition.json) |
 | Cooking Arena: 3 in 1 Edition | 283176 | [283176-cooking-arena-3-in-1-edition.json](./283176-cooking-arena-3-in-1-edition.json) |
 | Cooking Arena: 5 in 1 Edition | 266171 | [266171-cooking-arena-5-in-1-edition.json](./266171-cooking-arena-5-in-1-edition.json) |
+| Cooking Arena: 6 in 1 Edition | 270297 | [270297-cooking-arena-6-in-1-edition.json](./270297-cooking-arena-6-in-1-edition.json) |
 | Cooking Arena: 9 in 1 Edition | 275892 | [275892-cooking-arena-9-in-1-edition.json](./275892-cooking-arena-9-in-1-edition.json) |
 | Cooking Arena: Sushi Master | 308810 | [308810-cooking-arena-sushi-master.json](./308810-cooking-arena-sushi-master.json) |
 | Cooking Arena: Value Edition | 399814 | [399814-cooking-arena-value-edition.json](./399814-cooking-arena-value-edition.json) |
@@ -8898,6 +8899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowbar Climber | 348928 | [348928-crowbar-climber.json](./348928-crowbar-climber.json) |
 | Crowborne | 295786 | [295786-crowborne.json](./295786-crowborne.json) |
 | Crowd City | 268535 | [268535-crowd-city.json](./268535-crowd-city.json) |
+| Crowd City: Complete Edition | 270299 | [270299-crowd-city-complete-edition.json](./270299-crowd-city-complete-edition.json) |
 | Crowd City: Treasure Edition | 371437 | [371437-crowd-city-treasure-edition.json](./371437-crowd-city-treasure-edition.json) |
 | Crowd City: Zombie Edition | 274485 | [274485-crowd-city-zombie-edition.json](./274485-crowd-city-zombie-edition.json) |
 | Crowd Control VR | 295788 | [295788-crowd-control-vr.json](./295788-crowd-control-vr.json) |
