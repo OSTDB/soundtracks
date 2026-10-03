@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panel de Pon: Event Version 2 | 150106 | [150106-panel-de-pon-event-version-2.json](./150106-panel-de-pon-event-version-2.json) |
 | Panel Flux | 269112 | [269112-panel-flux.json](./269112-panel-flux.json) |
 | Panel Rabbit | 253611 | [253611-panel-rabbit.json](./253611-panel-rabbit.json) |
+| Panel Room: Escape Game | 276927 | [276927-panel-room-escape-game.json](./276927-panel-room-escape-game.json) |
 | Panelka | 331522 | [331522-panelka.json](./331522-panelka.json) |
 | Panels | 298248 | [298248-panels.json](./298248-panels.json) |
 | Paneltia Story: Karen no Daibouken | 97339 | [97339-paneltia-story-karen-no-daibouken.json](./97339-paneltia-story-karen-no-daibouken.json) |
@@ -2441,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pesten | 94531 | [94531-pesten.json](./94531-pesten.json) |
 | Pesterminator: The Western Exterminator | 48080 | [48080-pesterminator-the-western-exterminator.json](./48080-pesterminator-the-western-exterminator.json) |
 | Pesterquest | 122062 | [122062-pesterquest.json](./122062-pesterquest.json) |
+| Pestersim | 276955 | [276955-pestersim.json](./276955-pestersim.json) |
 | Pesticide Not Required | 257978 | [257978-pesticide-not-required.json](./257978-pesticide-not-required.json) |
 | Pestilence | 272272 | [272272-pestilence.json](./272272-pestilence.json) |
 | Pestilent Hunters | 201563 | [201563-pestilent-hunters.json](./201563-pestilent-hunters.json) |
@@ -8254,6 +8256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psi Project 2 | 26965 | [26965-psi-project-2.json](./26965-psi-project-2.json) |
 | Psi Project: Legacy | 75907 | [75907-psi-project-legacy.json](./75907-psi-project-legacy.json) |
 | Psi-Warrior | 26466 | [26466-psi-warrior.json](./26466-psi-warrior.json) |
+| PSI: Pressure Climbing | 276964 | [276964-psi-pressure-climbing.json](./276964-psi-pressure-climbing.json) |
 | Psichodelya | 17406 | [17406-psichodelya.json](./17406-psichodelya.json) |
 | Psicose? | 129235 | [129235-psicose.json](./129235-psicose.json) |
 | Psikyo Collection Vol. 2 | 112290 | [112290-psikyo-collection-vol-2.json](./112290-psikyo-collection-vol-2.json) |
