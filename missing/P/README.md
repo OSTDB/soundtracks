@@ -6123,6 +6123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong Doubles | 18154 | [18154-pong-doubles.json](./18154-pong-doubles.json) |
 | Pong for VideoPac and Odyssey 2! | 64118 | [64118-pong-for-videopac-and-odyssey-2.json](./64118-pong-for-videopac-and-odyssey-2.json) |
 | Pong Kombat | 73326 | [73326-pong-kombat.json](./73326-pong-kombat.json) |
+| Pong Legends | 263661 | [263661-pong-legends.json](./263661-pong-legends.json) |
 | Pong Like | 96123 | [96123-pong-like.json](./96123-pong-like.json) |
 | Pong Pong Candy | 84812 | [84812-pong-pong-candy.json](./84812-pong-pong-candy.json) |
 | Pong Pong's Learning Adventure: Back to the Future | 188078 | [188078-pong-pongs-learning-adventure-back-to-the-future.json](./188078-pong-pongs-learning-adventure-back-to-the-future.json) |
@@ -8318,6 +8319,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psionic Sentry: Infinite | 276191 | [276191-psionic-sentry-infinite.json](./276191-psionic-sentry-infinite.json) |
 | Psiplex | 305981 | [305981-psiplex.json](./305981-psiplex.json) |
 | PSN Protector | 320978 | [320978-psn-protector.json](./320978-psn-protector.json) |
+| PSS-61 | 263675 | [263675-pss-61.json](./263675-pss-61.json) |
+| PSS-62 | 263676 | [263676-pss-62.json](./263676-pss-62.json) |
+| PSS-63 | 263678 | [263678-pss-63.json](./263678-pss-63.json) |
+| PSS-64 | 263679 | [263679-pss-64.json](./263679-pss-64.json) |
 | Psst... I Have a Secret | 179043 | [179043-psst-i-have-a-secret.json](./179043-psst-i-have-a-secret.json) |
 | PSweet | 151078 | [151078-psweet.json](./151078-psweet.json) |
 | PSXFunkin: Lullaby Mod | 404438 | [404438-psxfunkin-lullaby-mod.json](./404438-psxfunkin-lullaby-mod.json) |
@@ -8444,6 +8449,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Publish or Perish | 298241 | [298241-publish-or-perish.json](./298241-publish-or-perish.json) |
 | Pucca Jam | 260118 | [260118-pucca-jam.json](./260118-pucca-jam.json) |
 | Pucca Puzzle Adventure | 239003 | [239003-pucca-puzzle-adventure.json](./239003-pucca-puzzle-adventure.json) |
+| Pucca Wars | 263688 | [263688-pucca-wars.json](./263688-pucca-wars.json) |
+| Pucca, Let’s Cook! | 263689 | [263689-pucca-let-s-cook.json](./263689-pucca-let-s-cook.json) |
 | Pucca's Restaurant | 65476 | [65476-puccas-restaurant.json](./65476-puccas-restaurant.json) |
 | Puchi Carat | 37322 | [37322-puchi-carat.json](./37322-puchi-carat.json) |
 | Puchi Nikki | 201840 | [201840-puchi-nikki.json](./201840-puchi-nikki.json) |
