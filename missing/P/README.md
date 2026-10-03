@@ -3528,13 +3528,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Bethesda Pinball | 386718 | [386718-pinball-fx-bethesda-pinball.json](./386718-pinball-fx-bethesda-pinball.json) |
 | Pinball FX: Buccaneer | 395544 | [395544-pinball-fx-buccaneer.json](./395544-pinball-fx-buccaneer.json) |
 | Pinball FX: Camp Bloodbrook | 324484 | [324484-pinball-fx-camp-bloodbrook.json](./324484-pinball-fx-camp-bloodbrook.json) |
+| Pinball FX: CastleStorm | 247674 | [247674-pinball-fx-castlestorm.json](./247674-pinball-fx-castlestorm.json) |
 | Pinball FX: Charity Pack | 308577 | [308577-pinball-fx-charity-pack.json](./308577-pinball-fx-charity-pack.json) |
 | Pinball FX: Earth Defense | 395548 | [395548-pinball-fx-earth-defense.json](./395548-pinball-fx-earth-defense.json) |
 | Pinball FX: Excalibur | 395549 | [395549-pinball-fx-excalibur.json](./395549-pinball-fx-excalibur.json) |
 | Pinball FX: Garfield Pinball | 239031 | [239031-pinball-fx-garfield-pinball.json](./239031-pinball-fx-garfield-pinball.json) |
 | Pinball FX: Gearbox Pinball | 239030 | [239030-pinball-fx-gearbox-pinball.json](./239030-pinball-fx-gearbox-pinball.json) |
 | Pinball FX: Goat Simulator Pinball | 316243 | [316243-pinball-fx-goat-simulator-pinball.json](./316243-pinball-fx-goat-simulator-pinball.json) |
+| Pinball FX: Indiana Jones - The Pinball Adventure | 247667 | [247667-pinball-fx-indiana-jones-the-pinball-adventure.json](./247667-pinball-fx-indiana-jones-the-pinball-adventure.json) |
 | Pinball FX: Marvel Pinball Collection 1 | 239027 | [239027-pinball-fx-marvel-pinball-collection-1.json](./239027-pinball-fx-marvel-pinball-collection-1.json) |
+| Pinball FX: Marvel's Women of Power | 247661 | [247661-pinball-fx-marvels-women-of-power.json](./247661-pinball-fx-marvels-women-of-power.json) |
 | Pinball FX: Nightmare Mansion | 395547 | [395547-pinball-fx-nightmare-mansion.json](./395547-pinball-fx-nightmare-mansion.json) |
 | Pinball FX: Pacific Rim Pinball | 300925 | [300925-pinball-fx-pacific-rim-pinball.json](./300925-pinball-fx-pacific-rim-pinball.json) |
 | Pinball FX: Peanuts' Snoopy Pinball | 239029 | [239029-pinball-fx-peanuts-snoopy-pinball.json](./239029-pinball-fx-peanuts-snoopy-pinball.json) |
