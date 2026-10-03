@@ -2371,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Quest | 127874 | [127874-cave-quest.json](./127874-cave-quest.json) |
 | Cave Quest 2 | 157484 | [157484-cave-quest-2.json](./157484-cave-quest-2.json) |
 | Cave Quest 3 | 217275 | [217275-cave-quest-3.json](./217275-cave-quest-3.json) |
+| Cave Raider | 235797 | [235797-cave-raider.json](./235797-cave-raider.json) |
 | Cave Ranger | 239619 | [239619-cave-ranger.json](./239619-cave-ranger.json) |
 | Cave Runner | 278638 | [278638-cave-runner.json](./278638-cave-runner.json) |
 | Cave Shooter | 167275 | [167275-cave-shooter.json](./167275-cave-shooter.json) |
@@ -2721,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained Through Hell | 324983 | [324983-chained-through-hell.json](./324983-chained-through-hell.json) |
 | Chained Together | 265111 | [265111-chained-together.json](./265111-chained-together.json) |
 | Chainer | 350062 | [350062-chainer.json](./350062-chainer.json) |
+| Chainmail Bikini | 235825 | [235825-chainmail-bikini.json](./235825-chainmail-bikini.json) |
 | ChainMan | 39763 | [39763-chainman.json](./39763-chainman.json) |
 | Chainmap Chaos | 271232 | [271232-chainmap-chaos.json](./271232-chainmap-chaos.json) |
 | ChainMonsters | 124148 | [124148-chainmonsters.json](./124148-chainmonsters.json) |
@@ -4273,6 +4275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck Quizmo's Quiz | 328608 | [328608-chuck-quizmos-quiz.json](./328608-chuck-quizmos-quiz.json) |
 | Chuck Rock | 275025 | [275025-chuck-rock.json](./275025-chuck-rock.json) |
 | Chuck Rock | 275026 | [275026-chuck-rock.json](./275026-chuck-rock.json) |
+| Chuck the Metalhead in Medieval Hell | 235809 | [235809-chuck-the-metalhead-in-medieval-hell.json](./235809-chuck-the-metalhead-in-medieval-hell.json) |
 | Chuck Yeager's Air Combat | 51396 | [51396-chuck-yeagers-air-combat.json](./51396-chuck-yeagers-air-combat.json) |
 | Chuck's Challenge 3D 2020 | 139021 | [139021-chucks-challenge-3d-2020.json](./139021-chucks-challenge-3d-2020.json) |
 | Chuckie Egg | 10235 | [10235-chuckie-egg.json](./10235-chuckie-egg.json) |
@@ -6164,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorSpill Ball | 334751 | [334751-colorspill-ball.json](./334751-colorspill-ball.json) |
 | ColorTris | 178620 | [178620-colortris.json](./178620-colortris.json) |
 | ColorUs : My Coloring Books | 99401 | [99401-colorus-my-coloring-books.json](./99401-colorus-my-coloring-books.json) |
+| Colorway Antics | 235796 | [235796-colorway-antics.json](./235796-colorway-antics.json) |
 | ColorZ | 21043 | [21043-colorz.json](./21043-colorz.json) |
 | ColorZ - 3D Pixel Art | 87007 | [87007-colorz-3d-pixel-art.json](./87007-colorz-3d-pixel-art.json) |
 | Colossal Cave | 215119 | [215119-colossal-cave.json](./215119-colossal-cave.json) |
