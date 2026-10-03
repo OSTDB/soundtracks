@@ -6052,6 +6052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Morane: Science Fiction 1 | 55096 | [55096-bob-morane-science-fiction-1.json](./55096-bob-morane-science-fiction-1.json) |
 | Bob Ross: The Joy of Painting | 205647 | [205647-bob-ross-the-joy-of-painting.json](./205647-bob-ross-the-joy-of-painting.json) |
 | Bob Saves the Princess | 373726 | [373726-bob-saves-the-princess.json](./373726-bob-saves-the-princess.json) |
+| Bob Shop | 246549 | [246549-bob-shop.json](./246549-bob-shop.json) |
 | Bob Smith and the Unsolved Case of Mystery | 318475 | [318475-bob-smith-and-the-unsolved-case-of-mystery.json](./318475-bob-smith-and-the-unsolved-case-of-mystery.json) |
 | Bob The Astronaut | 289404 | [289404-bob-the-astronaut.json](./289404-bob-the-astronaut.json) |
 | Bob the Block: Rebooted | 296499 | [296499-bob-the-block-rebooted.json](./296499-bob-the-block-rebooted.json) |
