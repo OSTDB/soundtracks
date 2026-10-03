@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | S Force | 184411 | [184411-s-force.json](./184411-s-force.json) |
+| S Lanes | 254063 | [254063-s-lanes.json](./254063-s-lanes.json) |
 | S Mahjong 2 | 97722 | [97722-s-mahjong-2.json](./97722-s-mahjong-2.json) |
 | S-Copter | 76653 | [76653-s-copter.json](./76653-s-copter.json) |
 | S-Tetris | 70465 | [70465-s-tetris.json](./70465-s-tetris.json) |
@@ -1599,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scientific Project: Optic | 258431 | [258431-scientific-project-optic.json](./258431-scientific-project-optic.json) |
 | Scientific Shutdown | 156123 | [156123-scientific-shutdown.json](./156123-scientific-shutdown.json) |
 | Scientific Terms Extreme | 107125 | [107125-scientific-terms-extreme.json](./107125-scientific-terms-extreme.json) |
+| Scientifically Accurate Dinosaur Mating Simulator 2022: American Revolution 1775 - 1786: Scientifically Accurate Dinosaur Mating Simulator 2023: French Revolution 1789 - 1799 | 254042 | [254042-scientifically-accurate-dinosaur-mating-simulator-2022-american-revolution-1775-1786-scientifically-accurate-dinosaur-mating-simulator-2023-french-revolution-1789-1799.json](./254042-scientifically-accurate-dinosaur-mating-simulator-2022-american-revolution-1775-1786-scientifically-accurate-dinosaur-mating-simulator-2023-french-revolution-1789-1799.json) |
 | Scientist and Alchemist | 413140 | [413140-scientist-and-alchemist.json](./413140-scientist-and-alchemist.json) |
 | Scientist Hunt | 248299 | [248299-scientist-hunt.json](./248299-scientist-hunt.json) |
 | Scientist Slaughterhouse | 221665 | [221665-scientist-slaughterhouse.json](./221665-scientist-slaughterhouse.json) |
@@ -2235,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Agent 001 | 224621 | [224621-secret-agent-001.json](./224621-secret-agent-001.json) |
 | Secret Agent Clank | 317376 | [317376-secret-agent-clank.json](./317376-secret-agent-clank.json) |
 | Secret Agent Files: Miami | 84858 | [84858-secret-agent-files-miami.json](./84858-secret-agent-files-miami.json) |
+| Secret Agent No. 6 | 254040 | [254040-secret-agent-no-6.json](./254040-secret-agent-no-6.json) |
 | Secret Agent Puzzle | 331662 | [331662-secret-agent-puzzle.json](./331662-secret-agent-puzzle.json) |
 | Secret Agent Spy Game: Hotel Assassination Mission | 196334 | [196334-secret-agent-spy-game-hotel-assassination-mission.json](./196334-secret-agent-spy-game-hotel-assassination-mission.json) |
 | Secret Agent Wizard Boy and the International Crime Syndicate | 319719 | [319719-secret-agent-wizard-boy-and-the-international-crime-syndicate.json](./319719-secret-agent-wizard-boy-and-the-international-crime-syndicate.json) |
@@ -2671,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selfie : Sisters of the Amniotic Lens | 17176 | [17176-selfie-sisters-of-the-amniotic-lens.json](./17176-selfie-sisters-of-the-amniotic-lens.json) |
 | Selfie Games: A TV Party Game | 112149 | [112149-selfie-games-a-tv-party-game.json](./112149-selfie-games-a-tv-party-game.json) |
 | Selfie Worm | 404362 | [404362-selfie-worm.json](./404362-selfie-worm.json) |
+| Selfish Cupid | 254041 | [254041-selfish-cupid.json](./254041-selfish-cupid.json) |
 | Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
 | Selfpolis | 217289 | [217289-selfpolis.json](./217289-selfpolis.json) |
 | Selini | 159885 | [159885-selini.json](./159885-selini.json) |
@@ -2764,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
 | Senora | 136231 | [136231-senora.json](./136231-senora.json) |
 | Senpai and the Mysterious Island | 325686 | [325686-senpai-and-the-mysterious-island.json](./325686-senpai-and-the-mysterious-island.json) |
+| Senpai Arena | 254039 | [254039-senpai-arena.json](./254039-senpai-arena.json) |
 | Senpai ga Imouto no Saigo no Natsu | 406199 | [406199-senpai-ga-imouto-no-saigo-no-natsu.json](./406199-senpai-ga-imouto-no-saigo-no-natsu.json) |
 | Senpie | 374048 | [374048-senpie.json](./374048-senpie.json) |
 | Senpon | 295998 | [295998-senpon.json](./295998-senpon.json) |
@@ -3138,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Care Magical Girl | 82799 | [82799-sex-care-magical-girl.json](./82799-sex-care-magical-girl.json) |
 | Sex City: 2069 | 259087 | [259087-sex-city-2069.json](./259087-sex-city-2069.json) |
 | Sex Clicker | 367030 | [367030-sex-clicker.json](./367030-sex-clicker.json) |
+| Sex Coach: Hot Yoga | 254038 | [254038-sex-coach-hot-yoga.json](./254038-sex-coach-hot-yoga.json) |
 | Sex College | 297214 | [297214-sex-college.json](./297214-sex-college.json) |
 | Sex Diary: Double Trouble Teacher | 286532 | [286532-sex-diary-double-trouble-teacher.json](./286532-sex-diary-double-trouble-teacher.json) |
 | Sex Diary: Futanari Jail | 286533 | [286533-sex-diary-futanari-jail.json](./286533-sex-diary-futanari-jail.json) |
@@ -10566,6 +10572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Mazing | 164985 | [164985-speed-mazing.json](./164985-speed-mazing.json) |
 | Speed NFL | 289009 | [289009-speed-nfl.json](./289009-speed-nfl.json) |
 | Speed Night | 278689 | [278689-speed-night.json](./278689-speed-night.json) |
+| Speed or Death | 254053 | [254053-speed-or-death.json](./254053-speed-or-death.json) |
 | Speed Power Gunbike | 92832 | [92832-speed-power-gunbike.json](./92832-speed-power-gunbike.json) |
 | Speed Race DX | 342140 | [342140-speed-race-dx.json](./342140-speed-race-dx.json) |
 | Speed Racer | 245401 | [245401-speed-racer.json](./245401-speed-racer.json) |
@@ -13720,6 +13727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop and Smell the Flowers | 399164 | [399164-stop-and-smell-the-flowers.json](./399164-stop-and-smell-the-flowers.json) |
 | Stop Ball | 273013 | [273013-stop-ball.json](./273013-stop-ball.json) |
 | Stop Burying Me Alive, Beautiful! | 270154 | [270154-stop-burying-me-alive-beautiful.json](./270154-stop-burying-me-alive-beautiful.json) |
+| Stop Dead | 254037 | [254037-stop-dead.json](./254037-stop-dead.json) |
 | Stop Online: Battle of Words | 34353 | [34353-stop-online-battle-of-words.json](./34353-stop-online-battle-of-words.json) |
 | Stop Slapping Tenshi! | 330364 | [330364-stop-slapping-tenshi.json](./330364-stop-slapping-tenshi.json) |
 | Stop Stress: A Day of Fury | 67253 | [67253-stop-stress-a-day-of-fury.json](./67253-stop-stress-a-day-of-fury.json) |
