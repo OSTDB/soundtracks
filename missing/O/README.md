@@ -2418,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Life: Now & Forever | 187392 | [187392-our-life-now-and-forever.json](./187392-our-life-now-and-forever.json) |
 | Our Long Walk Home | 283815 | [283815-our-long-walk-home.json](./283815-our-long-walk-home.json) |
 | Our Lovely Escape | 111878 | [111878-our-lovely-escape.json](./111878-our-lovely-escape.json) |
+| Our Magic Window | 271939 | [271939-our-magic-window.json](./271939-our-magic-window.json) |
 | Our Metal Bowl | 390653 | [390653-our-metal-bowl.json](./390653-our-metal-bowl.json) |
 | Our Mind | 153898 | [153898-our-mind.json](./153898-our-mind.json) |
 | Our Mind | 238496 | [238496-our-mind.json](./238496-our-mind.json) |
