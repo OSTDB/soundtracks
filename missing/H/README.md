@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajime no Ippo: The Fighting! | 44778 | [44778-hajime-no-ippo-the-fighting.json](./44778-hajime-no-ippo-the-fighting.json) |
 | Hajimemashite Boku no Kanojo | 375340 | [375340-hajimemashite-boku-no-kanojo.json](./375340-hajimemashite-boku-no-kanojo.json) |
 | Hajimeru Sekai no Risouron: Goodbye World Index | 337092 | [337092-hajimeru-sekai-no-risouron-goodbye-world-index.json](./337092-hajimeru-sekai-no-risouron-goodbye-world-index.json) |
+| Hajimete no Eigo: Typing & Puzzle Keyboard Hairetsu mo Manaberu Youji-muke Gakushuu Benkyou Game | 274650 | [274650-hajimete-no-eigo-typing-and-puzzle-keyboard-hairetsu-mo-manaberu-youji-muke-gakushuu-benkyou-game.json](./274650-hajimete-no-eigo-typing-and-puzzle-keyboard-hairetsu-mo-manaberu-youji-muke-gakushuu-benkyou-game.json) |
 | Hajwala | 105506 | [105506-hajwala.json](./105506-hajwala.json) |
 | Hajwala Desert | 332819 | [332819-hajwala-desert.json](./332819-hajwala-desert.json) |
 | Hajwala Drift X | 374677 | [374677-hajwala-drift-x.json](./374677-hajwala-drift-x.json) |
@@ -2613,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: Ultra Ultimate | 317924 | [317924-hentai-stars-ultra-ultimate.json](./317924-hentai-stars-ultra-ultimate.json) |
 | Hentai Step Milf | 340452 | [340452-hentai-step-milf.json](./340452-hentai-step-milf.json) |
 | Hentai Store | 370274 | [370274-hentai-store.json](./370274-hentai-store.json) |
+| Hentai Stories | 274687 | [274687-hentai-stories.json](./274687-hentai-stories.json) |
 | Hentai Succubus Aura | 398550 | [398550-hentai-succubus-aura.json](./398550-hentai-succubus-aura.json) |
 | Hentai Sudoku | 146282 | [146282-hentai-sudoku.json](./146282-hentai-sudoku.json) |
 | Hentai Summer | 112739 | [112739-hentai-summer.json](./112739-hentai-summer.json) |
@@ -2837,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Allacrost | 127885 | [127885-hero-of-allacrost.json](./127885-hero-of-allacrost.json) |
 | Hero of Fate | 250886 | [250886-hero-of-fate.json](./250886-hero-of-fate.json) |
 | Hero of Fate: Darkness Land | 292647 | [292647-hero-of-fate-darkness-land.json](./292647-hero-of-fate-darkness-land.json) |
+| Hero of Fate: Western Chronicles | 274655 | [274655-hero-of-fate-western-chronicles.json](./274655-hero-of-fate-western-chronicles.json) |
 | Hero of Giants: Dinosaurs Strike VR | 367540 | [367540-hero-of-giants-dinosaurs-strike-vr.json](./367540-hero-of-giants-dinosaurs-strike-vr.json) |
 | Hero of Law | 351679 | [351679-hero-of-law.json](./351679-hero-of-law.json) |
 | Hero of Many | 17339 | [17339-hero-of-many.json](./17339-hero-of-many.json) |
