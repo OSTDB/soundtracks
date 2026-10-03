@@ -1665,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoop: Excavator | 200024 | [200024-scoop-excavator.json](./200024-scoop-excavator.json) |
 | Scoop'n Birds | 28141 | [28141-scoopn-birds.json](./28141-scoopn-birds.json) |
 | Scoop'n Birds | 86076 | [86076-scoopn-birds.json](./86076-scoopn-birds.json) |
+| Scoops | 232584 | [232584-scoops.json](./232584-scoops.json) |
 | Scoops & Social Ice-Olation | 258521 | [258521-scoops-and-social-ice-olation.json](./258521-scoops-and-social-ice-olation.json) |
 | Scoot Hard DX: Daytime Drama Zero | 230508 | [230508-scoot-hard-dx-daytime-drama-zero.json](./230508-scoot-hard-dx-daytime-drama-zero.json) |
 | Scoot Kaboom and the Tomb of Doom | 132695 | [132695-scoot-kaboom-and-the-tomb-of-doom.json](./132695-scoot-kaboom-and-the-tomb-of-doom.json) |
@@ -3151,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Severed Love | 342754 | [342754-severed-love.json](./342754-severed-love.json) |
 | Severen | 198223 | [198223-severen.json](./198223-severen.json) |
 | Severity | 93615 | [93615-severity.json](./93615-severity.json) |
+| Sevn | 232486 | [232486-sevn.json](./232486-sevn.json) |
 | Sew in Love | 184903 | [184903-sew-in-love.json](./184903-sew-in-love.json) |
 | Sewage | 202329 | [202329-sewage.json](./202329-sewage.json) |
 | Sewage Devastation | 271780 | [271780-sewage-devastation.json](./271780-sewage-devastation.json) |
@@ -14681,6 +14683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Camera | 255992 | [255992-stupid-camera.json](./255992-stupid-camera.json) |
 | Stupid Cars | 300839 | [300839-stupid-cars.json](./300839-stupid-cars.json) |
 | Stupid Clicker Game | 26554 | [26554-stupid-clicker-game.json](./26554-stupid-clicker-game.json) |
+| Stupid Dog Find Out HD | 232496 | [232496-stupid-dog-find-out-hd.json](./232496-stupid-dog-find-out-hd.json) |
 | Stupid Never Dies | 381212 | [381212-stupid-never-dies.json](./381212-stupid-never-dies.json) |
 | Stupid Quest | 116814 | [116814-stupid-quest.json](./116814-stupid-quest.json) |
 | Stupid Space Shooter | 310759 | [310759-stupid-space-shooter.json](./310759-stupid-space-shooter.json) |
