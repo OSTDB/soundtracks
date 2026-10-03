@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance of Superpower | 275248 | [275248-balance-of-superpower.json](./275248-balance-of-superpower.json) |
 | Balance of the Planet | 50499 | [50499-balance-of-the-planet.json](./50499-balance-of-the-planet.json) |
 | Balance the Beam | 58218 | [58218-balance-the-beam.json](./58218-balance-the-beam.json) |
+| Balance The Stick | 255844 | [255844-balance-the-stick.json](./255844-balance-the-stick.json) |
 | Balance: Umbilical Wake | 410977 | [410977-balance-umbilical-wake.json](./410977-balance-umbilical-wake.json) |
 | Balanced | 320309 | [320309-balanced.json](./320309-balanced.json) |
 | Balancefield | 180826 | [180826-balancefield.json](./180826-balancefield.json) |
@@ -5643,6 +5644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodless Heart | 366879 | [366879-bloodless-heart.json](./366879-bloodless-heart.json) |
 | Bloodletter | 337717 | [337717-bloodletter.json](./337717-bloodletter.json) |
 | BloodLight | 319696 | [319696-bloodlight.json](./319696-bloodlight.json) |
+| Bloodline | 255865 | [255865-bloodline.json](./255865-bloodline.json) |
 | Bloodline | 338252 | [338252-bloodline.json](./338252-bloodline.json) |
 | Bloodline Champions: Huntress Pack | 27657 | [27657-bloodline-champions-huntress-pack.json](./27657-bloodline-champions-huntress-pack.json) |
 | Bloodline Champions: Warchief Pack | 27655 | [27655-bloodline-champions-warchief-pack.json](./27655-bloodline-champions-warchief-pack.json) |
@@ -8099,6 +8101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruce Lee: Quest of the Dragon | 5758 | [5758-bruce-lee-quest-of-the-dragon.json](./5758-bruce-lee-quest-of-the-dragon.json) |
 | Bruce Quest: The Secrets of the Outback | 379888 | [379888-bruce-quest-the-secrets-of-the-outback.json](./379888-bruce-quest-the-secrets-of-the-outback.json) |
 | Brudal Baddle | 57677 | [57677-brudal-baddle.json](./57677-brudal-baddle.json) |
+| Brulo's Ballble Teafense! | 255885 | [255885-brulos-ballble-teafense.json](./255885-brulos-ballble-teafense.json) |
 | Brum Brum | 93386 | [93386-brum-brum.json](./93386-brum-brum.json) |
 | Brunch Club | 122867 | [122867-brunch-club.json](./122867-brunch-club.json) |
 | Bruneva | 329052 | [329052-bruneva.json](./329052-bruneva.json) |
