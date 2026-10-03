@@ -3055,6 +3055,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Nightmares III: Secrets of The Spiral - Expansion Pass | 370224 | [370224-little-nightmares-iii-secrets-of-the-spiral-expansion-pass.json](./370224-little-nightmares-iii-secrets-of-the-spiral-expansion-pass.json) |
 | Little Nightmares III: The Backstage | 375185 | [375185-little-nightmares-iii-the-backstage.json](./375185-little-nightmares-iii-the-backstage.json) |
 | Little Nightmares: Enhanced Edition | 350903 | [350903-little-nightmares-enhanced-edition.json](./350903-little-nightmares-enhanced-edition.json) |
+| Little Nightmares: Fox Mask | 274645 | [274645-little-nightmares-fox-mask.json](./274645-little-nightmares-fox-mask.json) |
+| Little Nightmares: Tengu Mask | 274646 | [274646-little-nightmares-tengu-mask.json](./274646-little-nightmares-tengu-mask.json) |
 | Little Nightmares: The Depths | 36834 | [36834-little-nightmares-the-depths.json](./36834-little-nightmares-the-depths.json) |
 | Little Noah: Scion of Paradise | 206809 | [206809-little-noah-scion-of-paradise.json](./206809-little-noah-scion-of-paradise.json) |
 | Little Noah: Scion of Paradise - Avatar, Lilliput, and Accessory Pack | 223577 | [223577-little-noah-scion-of-paradise-avatar-lilliput-and-accessory-pack.json](./223577-little-noah-scion-of-paradise-avatar-lilliput-and-accessory-pack.json) |
@@ -3352,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lobby Cam by Bryn Oh | 235468 | [235468-lobby-cam-by-bryn-oh.json](./235468-lobby-cam-by-bryn-oh.json) |
 | Lober Lobe | 311475 | [311475-lober-lobe.json](./311475-lober-lobe.json) |
 | Lobi y la Caza del Tesoro | 323770 | [323770-lobi-y-la-caza-del-tesoro.json](./323770-lobi-y-la-caza-del-tesoro.json) |
+| Lobo | 274668 | [274668-lobo.json](./274668-lobo.json) |
 | Lobo | 86130 | [86130-lobo.json](./86130-lobo.json) |
 | Lobotomy Corporation | 30002 | [30002-lobotomy-corporation.json](./30002-lobotomy-corporation.json) |
 | Lobotrypo | 332254 | [332254-lobotrypo.json](./332254-lobotrypo.json) |
@@ -3777,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopr | 391163 | [391163-loopr.json](./391163-loopr.json) |
 | Loopstructor | 296978 | [296978-loopstructor.json](./296978-loopstructor.json) |
 | Looptide | 386912 | [386912-looptide.json](./386912-looptide.json) |
+| Loopwood | 274670 | [274670-loopwood.json](./274670-loopwood.json) |
 | LoopWorlds Free | 106761 | [106761-loopworlds-free.json](./106761-loopworlds-free.json) |
 | Loopy Ball | 239290 | [239290-loopy-ball.json](./239290-loopy-ball.json) |
 | Loopy Blocks | 254151 | [254151-loopy-blocks.json](./254151-loopy-blocks.json) |
@@ -4866,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminis: Heal Them All | 270133 | [270133-luminis-heal-them-all.json](./270133-luminis-heal-them-all.json) |
 | Lumino City | 8762 | [8762-lumino-city.json](./8762-lumino-city.json) |
 | Luminosity | 35836 | [35836-luminosity.json](./35836-luminosity.json) |
+| Luminous | 274662 | [274662-luminous.json](./274662-luminous.json) |
 | Luminous | 290643 | [290643-luminous.json](./290643-luminous.json) |
 | Luminous | 382191 | [382191-luminous.json](./382191-luminous.json) |
 | Luminous Arc 2 | 21330 | [21330-luminous-arc-2.json](./21330-luminous-arc-2.json) |
