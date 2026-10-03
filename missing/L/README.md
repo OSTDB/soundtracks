@@ -1697,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO The Hobbit: The Big Little Character Pack | 168772 | [168772-lego-the-hobbit-the-big-little-character-pack.json](./168772-lego-the-hobbit-the-big-little-character-pack.json) |
 | LEGO The Lord of the Rings | 4969 | [4969-lego-the-lord-of-the-rings.json](./4969-lego-the-lord-of-the-rings.json) |
 | LEGO The Lord of the Rings: Toy Edition | 139957 | [139957-lego-the-lord-of-the-rings-toy-edition.json](./139957-lego-the-lord-of-the-rings-toy-edition.json) |
+| LEGO The Robot Chronicles | 234218 | [234218-lego-the-robot-chronicles.json](./234218-lego-the-robot-chronicles.json) |
 | LEGO Tower | 119579 | [119579-lego-tower.json](./119579-lego-tower.json) |
 | LEGO World Builder 2 | 243690 | [243690-lego-world-builder-2.json](./243690-lego-world-builder-2.json) |
 | LEGO World Soccer | 273982 | [273982-lego-world-soccer.json](./273982-lego-world-soccer.json) |
@@ -3344,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living With It | 329394 | [329394-living-with-it.json](./329394-living-with-it.json) |
 | Living with My Bratty Neighbor | 408970 | [408970-living-with-my-bratty-neighbor.json](./408970-living-with-my-bratty-neighbor.json) |
 | Living with My Little Sister | 344529 | [344529-living-with-my-little-sister.json](./344529-living-with-my-little-sister.json) |
+| Living with Temptation 1: Wild Weekends & Wife Gone Wilder | 234112 | [234112-living-with-temptation-1-wild-weekends-and-wife-gone-wilder.json](./234112-living-with-temptation-1-wild-weekends-and-wife-gone-wilder.json) |
 | Living with Temptation: American Sunset | 293877 | [293877-living-with-temptation-american-sunset.json](./293877-living-with-temptation-american-sunset.json) |
 | Living World Racing | 174792 | [174792-living-world-racing.json](./174792-living-world-racing.json) |
 | Living_City | 330830 | [330830-living-city.json](./330830-living-city.json) |
