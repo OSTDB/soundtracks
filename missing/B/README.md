@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance of Power | 183072 | [183072-balance-of-power.json](./183072-balance-of-power.json) |
 | Balance of Power: The 1990 Edition | 14608 | [14608-balance-of-power-the-1990-edition.json](./14608-balance-of-power-the-1990-edition.json) |
 | Balance of Soccer | 102377 | [102377-balance-of-soccer.json](./102377-balance-of-soccer.json) |
+| Balance of Superpower | 275248 | [275248-balance-of-superpower.json](./275248-balance-of-superpower.json) |
 | Balance of the Planet | 50499 | [50499-balance-of-the-planet.json](./50499-balance-of-the-planet.json) |
 | Balance the Beam | 58218 | [58218-balance-the-beam.json](./58218-balance-the-beam.json) |
 | Balance: Umbilical Wake | 410977 | [410977-balance-umbilical-wake.json](./410977-balance-umbilical-wake.json) |
@@ -3861,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill Killem | 343997 | [343997-bill-killem.json](./343997-bill-killem.json) |
 | Bill Laimbeer's Combat Basketball | 46002 | [46002-bill-laimbeers-combat-basketball.json](./46002-bill-laimbeers-combat-basketball.json) |
 | Bill Nye the Science Guy: Stop the Rock | 67957 | [67957-bill-nye-the-science-guy-stop-the-rock.json](./67957-bill-nye-the-science-guy-stop-the-rock.json) |
+| Bill Rambeard's Rad Bad Blasterball | 275260 | [275260-bill-rambeards-rad-bad-blasterball.json](./275260-bill-rambeards-rad-bad-blasterball.json) |
 | Bill the Demon | 229813 | [229813-bill-the-demon.json](./229813-bill-the-demon.json) |
 | Bill Walsh College Football | 5363 | [5363-bill-walsh-college-football.json](./5363-bill-walsh-college-football.json) |
 | Bill Walsh College Football '95 | 5364 | [5364-bill-walsh-college-football-95.json](./5364-bill-walsh-college-football-95.json) |
@@ -6529,6 +6531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Robots | 312094 | [312094-boom-robots.json](./312094-boom-robots.json) |
 | Boom Shocketa: Rocket Storm | 217303 | [217303-boom-shocketa-rocket-storm.json](./217303-boom-shocketa-rocket-storm.json) |
 | Boom Slingers | 142879 | [142879-boom-slingers.json](./142879-boom-slingers.json) |
+| Boom Stick in the Mud | 275209 | [275209-boom-stick-in-the-mud.json](./275209-boom-stick-in-the-mud.json) |
 | Boom Zoo | 297226 | [297226-boom-zoo.json](./297226-boom-zoo.json) |
 | Boom-Bahh | 43537 | [43537-boom-bahh.json](./43537-boom-bahh.json) |
 | Boom-Bap!! | 393739 | [393739-boom-bap.json](./393739-boom-bap.json) |
