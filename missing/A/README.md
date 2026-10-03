@@ -2932,6 +2932,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien | 245251 | [245251-alien.json](./245251-alien.json) |
 | Alien | 25132 | [25132-alien.json](./25132-alien.json) |
 | Alien 3 | 273014 | [273014-alien-3.json](./273014-alien-3.json) |
+| Alien 3 | 273017 | [273017-alien-3.json](./273017-alien-3.json) |
+| Alien 3 | 273018 | [273018-alien-3.json](./273018-alien-3.json) |
 | Alien 3 | 8908 | [8908-alien-3.json](./8908-alien-3.json) |
 | Alien 911 | 117523 | [117523-alien-911.json](./117523-alien-911.json) |
 | Alien Afteflife | 182807 | [182807-alien-afteflife.json](./182807-alien-afteflife.json) |
@@ -3071,6 +3073,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Swarm | 7598 | [7598-alien-swarm.json](./7598-alien-swarm.json) |
 | Alien Swarm: Reactive Drop | 27523 | [27523-alien-swarm-reactive-drop.json](./27523-alien-swarm-reactive-drop.json) |
 | Alien Swirl | 15594 | [15594-alien-swirl.json](./15594-alien-swirl.json) |
+| Alien Syndrome | 273019 | [273019-alien-syndrome.json](./273019-alien-syndrome.json) |
+| Alien Syndrome | 273020 | [273020-alien-syndrome.json](./273020-alien-syndrome.json) |
+| Alien Syndrome | 273021 | [273021-alien-syndrome.json](./273021-alien-syndrome.json) |
+| Alien Syndrome | 273022 | [273022-alien-syndrome.json](./273022-alien-syndrome.json) |
+| Alien Syndrome | 273023 | [273023-alien-syndrome.json](./273023-alien-syndrome.json) |
+| Alien Syndrome | 273024 | [273024-alien-syndrome.json](./273024-alien-syndrome.json) |
+| Alien Syndrome | 273025 | [273025-alien-syndrome.json](./273025-alien-syndrome.json) |
+| Alien Syndrome | 273026 | [273026-alien-syndrome.json](./273026-alien-syndrome.json) |
+| Alien Syndrome | 273027 | [273027-alien-syndrome.json](./273027-alien-syndrome.json) |
 | Alien Tequila | 73263 | [73263-alien-tequila.json](./73263-alien-tequila.json) |
 | Alien Tower | 259543 | [259543-alien-tower.json](./259543-alien-tower.json) |
 | Alien Town Invasion | 223398 | [223398-alien-town-invasion.json](./223398-alien-town-invasion.json) |
@@ -3480,6 +3491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha League HD | 337819 | [337819-alpha-league-hd.json](./337819-alpha-league-hd.json) |
 | Alpha Lyrae Discovery | 120958 | [120958-alpha-lyrae-discovery.json](./120958-alpha-lyrae-discovery.json) |
 | Alpha Man | 100221 | [100221-alpha-man.json](./100221-alpha-man.json) |
+| Alpha Mission | 273028 | [273028-alpha-mission.json](./273028-alpha-mission.json) |
 | Alpha Mission | 8911 | [8911-alpha-mission.json](./8911-alpha-mission.json) |
 | Alpha Point | 361730 | [361730-alpha-point.json](./361730-alpha-point.json) |
 | Alpha Response | 345614 | [345614-alpha-response.json](./345614-alpha-response.json) |
@@ -3888,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Girl: Kit - A Treehouse of My Own | 18247 | [18247-american-girl-kit-a-treehouse-of-my-own.json](./18247-american-girl-kit-a-treehouse-of-my-own.json) |
 | American Girl: Kit's Mystery Challenge | 18246 | [18246-american-girl-kits-mystery-challenge.json](./18246-american-girl-kits-mystery-challenge.json) |
 | American Girl: Mia Goes For Great | 18245 | [18245-american-girl-mia-goes-for-great.json](./18245-american-girl-mia-goes-for-great.json) |
+| American Gladiators | 273030 | [273030-american-gladiators.json](./273030-american-gladiators.json) |
 | American Gladiators | 4377 | [4377-american-gladiators.json](./4377-american-gladiators.json) |
 | American Gold Rush | 417689 | [417689-american-gold-rush.json](./417689-american-gold-rush.json) |
 | American Idol | 248734 | [248734-american-idol.json](./248734-american-idol.json) |
@@ -6169,6 +6182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archmage Ricka | 211440 | [211440-archmage-ricka.json](./211440-archmage-ricka.json) |
 | Archmage Rises | 31937 | [31937-archmage-rises.json](./31937-archmage-rises.json) |
 | ArchOlden | 248018 | [248018-archolden.json](./248018-archolden.json) |
+| Archon | 273032 | [273032-archon.json](./273032-archon.json) |
 | Archon | 375399 | [375399-archon.json](./375399-archon.json) |
 | Archon | 5539 | [5539-archon.json](./5539-archon.json) |
 | Archon Classic | 16208 | [16208-archon-classic.json](./16208-archon-classic.json) |
@@ -6364,6 +6378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argosy | 408092 | [408092-argosy.json](./408092-argosy.json) |
 | Argument Wars | 207833 | [207833-argument-wars.json](./207833-argument-wars.json) |
 | Argumentum Ad Culpam | 248012 | [248012-argumentum-ad-culpam.json](./248012-argumentum-ad-culpam.json) |
+| Argus | 273033 | [273033-argus.json](./273033-argus.json) |
 | Argus | 306012 | [306012-argus.json](./306012-argus.json) |
 | Argus | 361325 | [361325-argus.json](./361325-argus.json) |
 | Argus | 363051 | [363051-argus.json](./363051-argus.json) |
@@ -6449,6 +6464,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkana Senki Ludo | 166163 | [166163-arkana-senki-ludo.json](./166163-arkana-senki-ludo.json) |
 | ArkanDOS | 82486 | [82486-arkandos.json](./82486-arkandos.json) |
 | Arkane Rush Multiverse Mayhem | 114163 | [114163-arkane-rush-multiverse-mayhem.json](./114163-arkane-rush-multiverse-mayhem.json) |
+| Arkanoid | 273037 | [273037-arkanoid.json](./273037-arkanoid.json) |
+| Arkanoid | 273038 | [273038-arkanoid.json](./273038-arkanoid.json) |
+| Arkanoid | 273039 | [273039-arkanoid.json](./273039-arkanoid.json) |
+| Arkanoid | 273042 | [273042-arkanoid.json](./273042-arkanoid.json) |
+| Arkanoid | 273043 | [273043-arkanoid.json](./273043-arkanoid.json) |
+| Arkanoid | 273044 | [273044-arkanoid.json](./273044-arkanoid.json) |
+| Arkanoid | 273045 | [273045-arkanoid.json](./273045-arkanoid.json) |
+| Arkanoid | 273046 | [273046-arkanoid.json](./273046-arkanoid.json) |
+| Arkanoid | 273047 | [273047-arkanoid.json](./273047-arkanoid.json) |
+| Arkanoid | 273048 | [273048-arkanoid.json](./273048-arkanoid.json) |
 | Arkanoid | 4595 | [4595-arkanoid.json](./4595-arkanoid.json) |
 | Arkanoid 2000 | 80599 | [80599-arkanoid-2000.json](./80599-arkanoid-2000.json) |
 | Arkanoid Returns | 13685 | [13685-arkanoid-returns.json](./13685-arkanoid-returns.json) |
