@@ -3480,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PimpWars | 72318 | [72318-pimpwars.json](./72318-pimpwars.json) |
 | PiN | 28154 | [28154-pin.json](./28154-pin.json) |
 | Pin Bot | 217973 | [217973-pin-bot.json](./217973-pin-bot.json) |
+| Pin City | 236344 | [236344-pin-city.json](./236344-pin-city.json) |
 | Pin Climb | 318755 | [318755-pin-climb.json](./318755-pin-climb.json) |
 | Pin Crasher | 258989 | [258989-pin-crasher.json](./258989-pin-crasher.json) |
 | Pin Pong | 18155 | [18155-pin-pong.json](./18155-pin-pong.json) |
