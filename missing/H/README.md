@@ -2057,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Takes All | 278137 | [278137-hell-takes-all.json](./278137-hell-takes-all.json) |
 | Hell to Raze | 132702 | [132702-hell-to-raze.json](./132702-hell-to-raze.json) |
 | Hell Trigger | 253440 | [253440-hell-trigger.json](./253440-hell-trigger.json) |
+| Hell Unearthed | 261445 | [261445-hell-unearthed.json](./261445-hell-unearthed.json) |
 | Hell University | 264140 | [264140-hell-university.json](./264140-hell-university.json) |
 | Hell Warders | 28009 | [28009-hell-warders.json](./28009-hell-warders.json) |
 | Hell Warriors | 127380 | [127380-hell-warriors.json](./127380-hell-warriors.json) |
@@ -2070,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's Cooking Joy | 339107 | [339107-hells-cooking-joy.json](./339107-hells-cooking-joy.json) |
 | Hell's Descent | 318764 | [318764-hells-descent.json](./318764-hells-descent.json) |
 | Hell's Eventide | 263487 | [263487-hells-eventide.json](./263487-hells-eventide.json) |
+| Hell's Farthest Shore | 261452 | [261452-hells-farthest-shore.json](./261452-hells-farthest-shore.json) |
 | Hell's High Harmonizers | 156986 | [156986-hells-high-harmonizers.json](./156986-hells-high-harmonizers.json) |
 | Hell's House | 311705 | [311705-hells-house.json](./311705-hells-house.json) |
 | Hell's Maw | 338850 | [338850-hells-maw.json](./338850-hells-maw.json) |
@@ -4707,6 +4709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honest War | 412353 | [412353-honest-war.json](./412353-honest-war.json) |
 | Honest Work | 416670 | [416670-honest-work.json](./416670-honest-work.json) |
 | Honey | 196245 | [196245-honey.json](./196245-honey.json) |
+| Honey and Swallowtail | 261453 | [261453-honey-and-swallowtail.json](./261453-honey-and-swallowtail.json) |
 | Honey Bee | 47211 | [47211-honey-bee.json](./47211-honey-bee.json) |
 | Honey Bee With Guns | 298663 | [298663-honey-bee-with-guns.json](./298663-honey-bee-with-guns.json) |
 | Honey Bunny | 265699 | [265699-honey-bunny.json](./265699-honey-bunny.json) |
@@ -4980,6 +4983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horcrux College | 340215 | [340215-horcrux-college.json](./340215-horcrux-college.json) |
 | HorD: High or Die | 83590 | [83590-hord-high-or-die.json](./83590-hord-high-or-die.json) |
 | Horde Arena | 334304 | [334304-horde-arena.json](./334304-horde-arena.json) |
+| Horde Havoc | 261448 | [261448-horde-havoc.json](./261448-horde-havoc.json) |
 | Horde Mode -Trial of the Dark Lord | 143493 | [143493-horde-mode-trial-of-the-dark-lord.json](./143493-horde-mode-trial-of-the-dark-lord.json) |
 | Horde of Directors | 178090 | [178090-horde-of-directors.json](./178090-horde-of-directors.json) |
 | Horde Slayer | 355022 | [355022-horde-slayer.json](./355022-horde-slayer.json) |
