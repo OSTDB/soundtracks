@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Islands | 133376 | [133376-war-islands.json](./133376-war-islands.json) |
 | War Land TD | 414508 | [414508-war-land-td.json](./414508-war-land-td.json) |
 | War Lands | 338400 | [338400-war-lands.json](./338400-war-lands.json) |
+| War Legends | 250518 | [250518-war-legends.json](./250518-war-legends.json) |
 | War Lords | 323323 | [323323-war-lords.json](./323323-war-lords.json) |
 | War Lords | 377155 | [377155-war-lords.json](./377155-war-lords.json) |
 | War Machine | 93015 | [93015-war-machine.json](./93015-war-machine.json) |
@@ -1654,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird RPG 2 | 286042 | [286042-weird-rpg-2.json](./286042-weird-rpg-2.json) |
 | Weird Store | 252135 | [252135-weird-store.json](./252135-weird-store.json) |
 | Weird Water World | 409629 | [409629-weird-water-world.json](./409629-weird-water-world.json) |
+| Weird West: Definitive Edition | 250504 | [250504-weird-west-definitive-edition.json](./250504-weird-west-definitive-edition.json) |
 | Weird: Truth is Stranger than Fiction | 69217 | [69217-weird-truth-is-stranger-than-fiction.json](./69217-weird-truth-is-stranger-than-fiction.json) |
 | Weirdlands | 144978 | [144978-weirdlands.json](./144978-weirdlands.json) |
 | WeirdParisGame | 353872 | [353872-weirdparisgame.json](./353872-weirdparisgame.json) |
@@ -3578,6 +3580,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein: Triple Pack | 152339 | [152339-wolfenstein-triple-pack.json](./152339-wolfenstein-triple-pack.json) |
 | Wolfenstein: Youngblood - Digital Limited Edition | 121640 | [121640-wolfenstein-youngblood-digital-limited-edition.json](./121640-wolfenstein-youngblood-digital-limited-edition.json) |
 | Wolfgun | 180777 | [180777-wolfgun.json](./180777-wolfgun.json) |
+| Wolfhound: The Last of the Grey Dogs | 250522 | [250522-wolfhound-the-last-of-the-grey-dogs.json](./250522-wolfhound-the-last-of-the-grey-dogs.json) |
+| Wolfhound: The Way of the Warrior | 250521 | [250521-wolfhound-the-way-of-the-warrior.json](./250521-wolfhound-the-way-of-the-warrior.json) |
 | WolfKnights | 59930 | [59930-wolfknights.json](./59930-wolfknights.json) |
 | Wolflame | 19305 | [19305-wolflame.json](./19305-wolflame.json) |
 | Wolfling | 182509 | [182509-wolfling.json](./182509-wolfling.json) |
