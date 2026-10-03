@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy! | 131547 | [131547-jeopardy.json](./131547-jeopardy.json) |
 | Jeopardy! | 146802 | [146802-jeopardy.json](./146802-jeopardy.json) |
 | Jeopardy! | 220095 | [220095-jeopardy.json](./220095-jeopardy.json) |
+| Jeopardy! | 261998 | [261998-jeopardy.json](./261998-jeopardy.json) |
 | Jeopardy! | 28472 | [28472-jeopardy.json](./28472-jeopardy.json) |
 | Jeopardy! | 297599 | [297599-jeopardy.json](./297599-jeopardy.json) |
 | Jeopardy! | 3396 | [3396-jeopardy.json](./3396-jeopardy.json) |
@@ -1836,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junk: The Legend of Junichi Kato | 164235 | [164235-junk-the-legend-of-junichi-kato.json](./164235-junk-the-legend-of-junichi-kato.json) |
 | Junk! | 345637 | [345637-junk.json](./345637-junk.json) |
 | Junkcity Factory Simulator | 326397 | [326397-junkcity-factory-simulator.json](./326397-junkcity-factory-simulator.json) |
+| Junkfood | 261958 | [261958-junkfood.json](./261958-junkfood.json) |
 | Junkfood 3: Wow Wow West | 307812 | [307812-junkfood-3-wow-wow-west.json](./307812-junkfood-3-wow-wow-west.json) |
 | Junkineering | 320866 | [320866-junkineering.json](./320866-junkineering.json) |
 | Junkland Jam | 92097 | [92097-junkland-jam.json](./92097-junkland-jam.json) |
