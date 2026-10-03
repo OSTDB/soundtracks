@@ -919,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Life: Garden Party Pack | 286203 | [286203-garden-life-garden-party-pack.json](./286203-garden-life-garden-party-pack.json) |
 | Garden Life: Supporter Pack | 289321 | [289321-garden-life-supporter-pack.json](./289321-garden-life-supporter-pack.json) |
 | Garden Madness | 192330 | [192330-garden-madness.json](./192330-garden-madness.json) |
+| Garden Maze | 246539 | [246539-garden-maze.json](./246539-garden-maze.json) |
 | Garden of Aiden | 295843 | [295843-garden-of-aiden.json](./295843-garden-of-aiden.json) |
 | Garden of Butterflies | 353283 | [353283-garden-of-butterflies.json](./353283-garden-of-butterflies.json) |
 | Garden of Coloured Lights | 107235 | [107235-garden-of-coloured-lights.json](./107235-garden-of-coloured-lights.json) |
@@ -3496,6 +3497,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goofy Monsters - Sokoban Land | 25927 | [25927-goofy-monsters-sokoban-land.json](./25927-goofy-monsters-sokoban-land.json) |
 | Goofy Soccer | 320874 | [320874-goofy-soccer.json](./320874-goofy-soccer.json) |
 | Goofy's Hysterical History Tour | 46210 | [46210-goofys-hysterical-history-tour.json](./46210-goofys-hysterical-history-tour.json) |
+| Goofy's Loco-Coconuts | 246510 | [246510-goofys-loco-coconuts.json](./246510-goofys-loco-coconuts.json) |
+| Goofy's Milk Mania | 246519 | [246519-goofys-milk-mania.json](./246519-goofys-milk-mania.json) |
 | Goofy's Railway Express | 12122 | [12122-goofys-railway-express.json](./12122-goofys-railway-express.json) |
 | Goofy's Underwater Adventure | 243817 | [243817-goofys-underwater-adventure.json](./243817-goofys-underwater-adventure.json) |
 | Goog Clicker Deluxe | 329659 | [329659-goog-clicker-deluxe.json](./329659-goog-clicker-deluxe.json) |
@@ -5595,8 +5598,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gurugedara | 61620 | [61620-gurugedara.json](./61620-gurugedara.json) |
 | Guruguru Animals | 96268 | [96268-guruguru-animals.json](./96268-guruguru-animals.json) |
 | Gururin World | 286633 | [286633-gururin-world.json](./286633-gururin-world.json) |
+| Gus and Jaq's Cooking Chaos | 246526 | [246526-gus-and-jaqs-cooking-chaos.json](./246526-gus-and-jaqs-cooking-chaos.json) |
 | Gus and the Cyberbuds: Sing, Play & Paint-A-Long | 282237 | [282237-gus-and-the-cyberbuds-sing-play-and-paint-a-long.json](./282237-gus-and-the-cyberbuds-sing-play-and-paint-a-long.json) |
 | Gus Goes to Cybertown | 282236 | [282236-gus-goes-to-cybertown.json](./282236-gus-goes-to-cybertown.json) |
+| Gus's Feed Sort | 246529 | [246529-guss-feed-sort.json](./246529-guss-feed-sort.json) |
 | Gusano Go | 183860 | [183860-gusano-go.json](./183860-gusano-go.json) |
 | Gust | 221130 | [221130-gust.json](./221130-gust.json) |
 | Gust Buster | 24007 | [24007-gust-buster.json](./24007-gust-buster.json) |
