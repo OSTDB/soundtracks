@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1-2-3 or 4-5-6 | 342215 | [342215-1-2-3-or-4-5-6.json](./342215-1-2-3-or-4-5-6.json) |
 | 1-2-Splendid Word Search! | 414432 | [414432-1-2-splendid-word-search.json](./414432-1-2-splendid-word-search.json) |
 | 1-2-Whopping Word Search! | 316806 | [316806-1-2-whopping-word-search.json](./316806-1-2-whopping-word-search.json) |
+| 1-900-Cult | 242118 | [242118-1-900-cult.json](./242118-1-900-cult.json) |
 | 1-900-Gary | 325869 | [325869-1-900-gary.json](./325869-1-900-gary.json) |
 | 1-Bit Samurai | 181783 | [181783-1-bit-samurai.json](./181783-1-bit-samurai.json) |
 | 1-Button platformer | 323311 | [323311-1-button-platformer.json](./323311-1-button-platformer.json) |
