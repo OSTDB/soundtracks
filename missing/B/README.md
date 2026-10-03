@@ -3234,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Protector of Earth | 2799 | [2799-ben-10-protector-of-earth.json](./2799-ben-10-protector-of-earth.json) |
 | Ben 10: Samurai Warrior | 220589 | [220589-ben-10-samurai-warrior.json](./220589-ben-10-samurai-warrior.json) |
 | Ben 10: Savage Pursuit | 142388 | [142388-ben-10-savage-pursuit.json](./142388-ben-10-savage-pursuit.json) |
+| Ben 10: Ultimate Alien | 230343 | [230343-ben-10-ultimate-alien.json](./230343-ben-10-ultimate-alien.json) |
 | Ben 10: Ultimate Alien - Cosmic Destruction | 2807 | [2807-ben-10-ultimate-alien-cosmic-destruction.json](./2807-ben-10-ultimate-alien-cosmic-destruction.json) |
 | Ben 10: Ultimate Alien - Cosmic Destruction | 377688 | [377688-ben-10-ultimate-alien-cosmic-destruction.json](./377688-ben-10-ultimate-alien-cosmic-destruction.json) |
 | Ben 10: Up to Speed | 88937 | [88937-ben-10-up-to-speed.json](./88937-ben-10-up-to-speed.json) |
@@ -5052,6 +5053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue: Entropy Effect X | 377236 | [377236-blazblue-entropy-effect-x.json](./377236-blazblue-entropy-effect-x.json) |
 | Blaze and Blade: Eternal Quest | 18249 | [18249-blaze-and-blade-eternal-quest.json](./18249-blaze-and-blade-eternal-quest.json) |
 | Blaze and the Monster Machines | 101564 | [101564-blaze-and-the-monster-machines.json](./101564-blaze-and-the-monster-machines.json) |
+| Blaze and the Monster Machines | 230339 | [230339-blaze-and-the-monster-machines.json](./230339-blaze-and-the-monster-machines.json) |
 | Blaze and the Monster Machines: Axle City Racers | 148547 | [148547-blaze-and-the-monster-machines-axle-city-racers.json](./148547-blaze-and-the-monster-machines-axle-city-racers.json) |
 | Blaze of Storm | 331874 | [331874-blaze-of-storm.json](./331874-blaze-of-storm.json) |
 | Blaze Out | 94698 | [94698-blaze-out.json](./94698-blaze-out.json) |
@@ -7498,9 +7500,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz Fashion Pixiez: The Secret Necklace | 213374 | [213374-bratz-fashion-pixiez-the-secret-necklace.json](./213374-bratz-fashion-pixiez-the-secret-necklace.json) |
 | Bratz Ponyz 2 | 94733 | [94733-bratz-ponyz-2.json](./94733-bratz-ponyz-2.json) |
 | Bratz Rhythm & Style | 347308 | [347308-bratz-rhythm-and-style.json](./347308-bratz-rhythm-and-style.json) |
+| Bratz World: The Jet Set | 230422 | [230422-bratz-world-the-jet-set.json](./230422-bratz-world-the-jet-set.json) |
 | Bratz: Flaunt Your Fashion - Pretty 'N' Punk Fashion Pack | 301569 | [301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json](./301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json) |
 | Bratz: Girlz Really Rock | 43248 | [43248-bratz-girlz-really-rock.json](./43248-bratz-girlz-really-rock.json) |
 | Bratz: The Movie | 248612 | [248612-bratz-the-movie.json](./248612-bratz-the-movie.json) |
+| Brave | 230341 | [230341-brave.json](./230341-brave.json) |
 | Brave 22 | 263507 | [263507-brave-22.json](./263507-brave-22.json) |
 | Brave and Glory | 309022 | [309022-brave-and-glory.json](./309022-brave-and-glory.json) |
 | Brave Arms | 65527 | [65527-brave-arms.json](./65527-brave-arms.json) |
@@ -8384,6 +8388,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Fresh Fruits | 289376 | [289376-bubble-fresh-fruits.json](./289376-bubble-fresh-fruits.json) |
 | Bubble Ghost Remake | 250892 | [250892-bubble-ghost-remake.json](./250892-bubble-ghost-remake.json) |
 | Bubble Gun 3D | 150690 | [150690-bubble-gun-3d.json](./150690-bubble-gun-3d.json) |
+| Bubble Guppies | 230336 | [230336-bubble-guppies.json](./230336-bubble-guppies.json) |
+| Bubble Guppies | 230344 | [230344-bubble-guppies.json](./230344-bubble-guppies.json) |
 | Bubble Hero | 246436 | [246436-bubble-hero.json](./246436-bubble-hero.json) |
 | Bubble Investor | 361727 | [361727-bubble-investor.json](./361727-bubble-investor.json) |
 | Bubble Jungle | 31209 | [31209-bubble-jungle.json](./31209-bubble-jungle.json) |
