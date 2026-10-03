@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backfire Brigade | 370137 | [370137-backfire-brigade.json](./370137-backfire-brigade.json) |
 | Backfire! | 37139 | [37139-backfire.json](./37139-backfire.json) |
 | Backflip | 293630 | [293630-backflip.json](./293630-backflip.json) |
+| Backgaminion | 244920 | [244920-backgaminion.json](./244920-backgaminion.json) |
 | Backgammon | 131512 | [131512-backgammon.json](./131512-backgammon.json) |
 | Backgammon | 152338 | [152338-backgammon.json](./152338-backgammon.json) |
 | Backgammon | 15656 | [15656-backgammon.json](./15656-backgammon.json) |
@@ -4804,6 +4805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade of Jinshu | 364573 | [364573-blade-of-jinshu.json](./364573-blade-of-jinshu.json) |
 | Blade of Mercy: Bloody Countess | 407580 | [407580-blade-of-mercy-bloody-countess.json](./407580-blade-of-mercy-bloody-countess.json) |
 | Blade of Ten | 207318 | [207318-blade-of-ten.json](./207318-blade-of-ten.json) |
+| Blade of the Netherworld | 244911 | [244911-blade-of-the-netherworld.json](./244911-blade-of-the-netherworld.json) |
 | Blade of the Overlord | 362879 | [362879-blade-of-the-overlord.json](./362879-blade-of-the-overlord.json) |
 | Blade of Tsunami | 258532 | [258532-blade-of-tsunami.json](./258532-blade-of-tsunami.json) |
 | Blade of Wiz | 358492 | [358492-blade-of-wiz.json](./358492-blade-of-wiz.json) |
@@ -7903,6 +7905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridgelands | 382976 | [382976-bridgelands.json](./382976-bridgelands.json) |
 | Bridget Bishop | 400317 | [400317-bridget-bishop.json](./400317-bridget-bishop.json) |
 | BridgeTeam: Ship Simulator | 190981 | [190981-bridgeteam-ship-simulator.json](./190981-bridgeteam-ship-simulator.json) |
+| Brie Parmesan Mysteries | 244909 | [244909-brie-parmesan-mysteries.json](./244909-brie-parmesan-mysteries.json) |
 | Brigade Commander | 14349 | [14349-brigade-commander.json](./14349-brigade-commander.json) |
 | Brigadoon: The Quest of Time | 204485 | [204485-brigadoon-the-quest-of-time.json](./204485-brigadoon-the-quest-of-time.json) |
 | Brigador | 13361 | [13361-brigador.json](./13361-brigador.json) |
