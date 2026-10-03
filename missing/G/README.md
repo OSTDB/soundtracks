@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardens Inc.: From Rakes to Riches | 36409 | [36409-gardens-inc-from-rakes-to-riches.json](./36409-gardens-inc-from-rakes-to-riches.json) |
 | Gardens of a New World | 394450 | [394450-gardens-of-a-new-world.json](./394450-gardens-of-a-new-world.json) |
 | Gardens of the Void | 280924 | [280924-gardens-of-the-void.json](./280924-gardens-of-the-void.json) |
+| Gardens of Vextro | 229091 | [229091-gardens-of-vextro.json](./229091-gardens-of-vextro.json) |
 | Gardenscapes | 320939 | [320939-gardenscapes.json](./320939-gardenscapes.json) |
 | Gardenscapes: Mansion Makeover | 294685 | [294685-gardenscapes-mansion-makeover.json](./294685-gardenscapes-mansion-makeover.json) |
 | Gardia | 39684 | [39684-gardia.json](./39684-gardia.json) |
@@ -1188,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GB Pachio-kun 3 | 59513 | [59513-gb-pachio-kun-3.json](./59513-gb-pachio-kun-3.json) |
 | GB Rober | 152875 | [152875-gb-rober.json](./152875-gb-rober.json) |
 | GB Studio's 5th Anniversary | 316682 | [316682-gb-studios-5th-anniversary.json](./316682-gb-studios-5th-anniversary.json) |
+| GB Wordyl | 229081 | [229081-gb-wordyl.json](./229081-gb-wordyl.json) |
 | GBA Championship Basketball: Two-on-Two | 12114 | [12114-gba-championship-basketball-two-on-two.json](./12114-gba-championship-basketball-two-on-two.json) |
 | GBox: The Puzzle Collection | 107014 | [107014-gbox-the-puzzle-collection.json](./107014-gbox-the-puzzle-collection.json) |
 | GDO Masters | 180016 | [180016-gdo-masters.json](./180016-gdo-masters.json) |
@@ -3882,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Crime Miami | 366950 | [366950-grand-crime-miami.json](./366950-grand-crime-miami.json) |
 | Grand Cross W | 193860 | [193860-grand-cross-w.json](./193860-grand-cross-w.json) |
 | Grand Dad Overthrows Bowser | 238208 | [238208-grand-dad-overthrows-bowser.json](./238208-grand-dad-overthrows-bowser.json) |
+| Grand Emprise: Time Travel Survival | 229106 | [229106-grand-emprise-time-travel-survival.json](./229106-grand-emprise-time-travel-survival.json) |
 | Grand Fantasia: Origin | 311164 | [311164-grand-fantasia-origin.json](./311164-grand-fantasia-origin.json) |
 | Grand Fantasy Heroes | 336092 | [336092-grand-fantasy-heroes.json](./336092-grand-fantasy-heroes.json) |
 | Grand Fleet | 71221 | [71221-grand-fleet.json](./71221-grand-fleet.json) |
