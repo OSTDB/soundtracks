@@ -4473,6 +4473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Blaster | 354588 | [354588-worm-blaster.json](./354588-worm-blaster.json) |
 | Worm Bounce: Worms Jump King | 310111 | [310111-worm-bounce-worms-jump-king.json](./310111-worm-bounce-worms-jump-king.json) |
 | Worm Capitalist | 413872 | [413872-worm-capitalist.json](./413872-worm-capitalist.json) |
+| Worm Catch | 247078 | [247078-worm-catch.json](./247078-worm-catch.json) |
 | Worm Dungeon | 135878 | [135878-worm-dungeon.json](./135878-worm-dungeon.json) |
 | Worm Food | 326736 | [326736-worm-food.json](./326736-worm-food.json) |
 | Worm Game | 231396 | [231396-worm-game.json](./231396-worm-game.json) |
