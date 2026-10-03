@@ -1701,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of The Dark Ages | 271754 | [271754-castle-of-the-dark-ages.json](./271754-castle-of-the-dark-ages.json) |
 | Castle of the Land | 153356 | [153356-castle-of-the-land.json](./153356-castle-of-the-land.json) |
 | Castle of the Red Prince | 186632 | [186632-castle-of-the-red-prince.json](./186632-castle-of-the-red-prince.json) |
+| Castle of the Underdogs | 245987 | [245987-castle-of-the-underdogs.json](./245987-castle-of-the-underdogs.json) |
 | Castle of the Winds | 14446 | [14446-castle-of-the-winds.json](./14446-castle-of-the-winds.json) |
 | Castle of the Winds 2 | 14447 | [14447-castle-of-the-winds-2.json](./14447-castle-of-the-winds-2.json) |
 | Castle of Venia | 108423 | [108423-castle-of-venia.json](./108423-castle-of-venia.json) |
@@ -6246,6 +6247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combined_Arms Gaiden | 143117 | [143117-combined-arms-gaiden.json](./143117-combined-arms-gaiden.json) |
 | Combines.io | 327942 | [327942-combines-io.json](./327942-combines-io.json) |
 | Combo Babies | 167811 | [167811-combo-babies.json](./167811-combo-babies.json) |
+| Combo Bombo | 245982 | [245982-combo-bombo.json](./245982-combo-bombo.json) |
 | Combo Critters: Battle Checkers | 346263 | [346263-combo-critters-battle-checkers.json](./346263-combo-critters-battle-checkers.json) |
 | Combo Fishing | 340206 | [340206-combo-fishing.json](./340206-combo-fishing.json) |
 | Combo Haven | 287212 | [287212-combo-haven.json](./287212-combo-haven.json) |
@@ -6649,6 +6651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict: Middle East - Arab/Israeli Wars: 1973-? | 15917 | [15917-conflict-middle-east-arab-israeli-wars-1973.json](./15917-conflict-middle-east-arab-israeli-wars-1973.json) |
 | ConflictCraft 2 | 190087 | [190087-conflictcraft-2.json](./190087-conflictcraft-2.json) |
 | Confluence: An Of Sense and Soul Soliloquy | 338884 | [338884-confluence-an-of-sense-and-soul-soliloquy.json](./338884-confluence-an-of-sense-and-soul-soliloquy.json) |
+| Conflux | 245976 | [245976-conflux.json](./245976-conflux.json) |
 | Conflux | 320520 | [320520-conflux.json](./320520-conflux.json) |
 | Confrontation | 282719 | [282719-confrontation.json](./282719-confrontation.json) |
 | Confronted | 291708 | [291708-confronted.json](./291708-confronted.json) |
@@ -7005,6 +7008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conundrum | 163201 | [163201-conundrum.json](./163201-conundrum.json) |
 | Conundrum | 348975 | [348975-conundrum.json](./348975-conundrum.json) |
 | Conundrum | 380087 | [380087-conundrum.json](./380087-conundrum.json) |
+| Conundrum Catacombs | 245958 | [245958-conundrum-catacombs.json](./245958-conundrum-catacombs.json) |
 | Conveni Dream | 58464 | [58464-conveni-dream.json](./58464-conveni-dream.json) |
 | Convenience Store Simulator | 382972 | [382972-convenience-store-simulator.json](./382972-convenience-store-simulator.json) |
 | Convenience Stories | 197791 | [197791-convenience-stories.json](./197791-convenience-stories.json) |
@@ -7392,6 +7396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corum Online | 124615 | [124615-corum-online.json](./124615-corum-online.json) |
 | Corum Side Story | 146211 | [146211-corum-side-story.json](./146211-corum-side-story.json) |
 | Corum: Legend of Anpnentria | 146208 | [146208-corum-legend-of-anpnentria.json](./146208-corum-legend-of-anpnentria.json) |
+| Coruscant Attack | 245965 | [245965-coruscant-attack.json](./245965-coruscant-attack.json) |
 | Corvax | 398314 | [398314-corvax.json](./398314-corvax.json) |
 | Corvette Evolution GT | 43475 | [43475-corvette-evolution-gt.json](./43475-corvette-evolution-gt.json) |
 | Corvette ZR-1 Challenge | 48293 | [48293-corvette-zr-1-challenge.json](./48293-corvette-zr-1-challenge.json) |
