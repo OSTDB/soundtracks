@@ -4433,6 +4433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Björnes Magasin | 92829 | [92829-bjornes-magasin.json](./92829-bjornes-magasin.json) |
 | BK: OSRS | 313105 | [313105-bk-osrs.json](./313105-bk-osrs.json) |
 | BL Werewolf:Doki-Doki Summer vacation | 373633 | [373633-bl-werewolf-doki-doki-summer-vacation.json](./373633-bl-werewolf-doki-doki-summer-vacation.json) |
+| Bl00d.exe | 259168 | [259168-bl00d-exe.json](./259168-bl00d-exe.json) |
 | Blablaland | 286667 | [286667-blablaland.json](./286667-blablaland.json) |
 | Blablublas Battle Royale Shooter | 370787 | [370787-blablublas-battle-royale-shooter.json](./370787-blablublas-battle-royale-shooter.json) |
 | Black | 159265 | [159265-black.json](./159265-black.json) |
@@ -4462,6 +4463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black blood | 132781 | [132781-black-blood.json](./132781-black-blood.json) |
 | Black Blood | 379357 | [379357-black-blood.json](./379357-black-blood.json) |
 | Black Border: Border Simulator | 174205 | [174205-black-border-border-simulator.json](./174205-black-border-border-simulator.json) |
+| Black Box LSS: The Merciful Savior | 259160 | [259160-black-box-lss-the-merciful-savior.json](./259160-black-box-lss-the-merciful-savior.json) |
 | Black Box VR | 140619 | [140619-black-box-vr.json](./140619-black-box-vr.json) |
 | Black Box: Hacker Day One | 406161 | [406161-black-box-hacker-day-one.json](./406161-black-box-hacker-day-one.json) |
 | Black Castle | 143051 | [143051-black-castle.json](./143051-black-castle.json) |
@@ -4863,6 +4865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasphemous + Blasphemous 2 Bundle | 274522 | [274522-blasphemous-blasphemous-2-bundle.json](./274522-blasphemous-blasphemous-2-bundle.json) |
 | Blasphemous 2: Mea Culpa Edition | 324383 | [324383-blasphemous-2-mea-culpa-edition.json](./324383-blasphemous-2-mea-culpa-edition.json) |
 | Blasphemous Experiments | 268723 | [268723-blasphemous-experiments.json](./268723-blasphemous-experiments.json) |
+| Blasphemous II: Digital Deluxe Edition | 259135 | [259135-blasphemous-ii-digital-deluxe-edition.json](./259135-blasphemous-ii-digital-deluxe-edition.json) |
 | Blasphemous II: Mea Culpa | 317595 | [317595-blasphemous-ii-mea-culpa.json](./317595-blasphemous-ii-mea-culpa.json) |
 | Blasphemous: Wounds of Eventide | 165391 | [165391-blasphemous-wounds-of-eventide.json](./165391-blasphemous-wounds-of-eventide.json) |
 | Blast 'Em Bunnies | 21321 | [21321-blast-em-bunnies.json](./21321-blast-em-bunnies.json) |
@@ -6775,6 +6778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Life 3D | 224090 | [224090-boss-life-3d.json](./224090-boss-life-3d.json) |
 | Boss of FCs | 348418 | [348418-boss-of-fcs.json](./348418-boss-of-fcs.json) |
 | Boss Pit | 394823 | [394823-boss-pit.json](./394823-boss-pit.json) |
+| Boss Rush Bundle | 259136 | [259136-boss-rush-bundle.json](./259136-boss-rush-bundle.json) |
 | Boss Rush: Mythology | 141079 | [141079-boss-rush-mythology.json](./141079-boss-rush-mythology.json) |
 | Boss Simulator | 293109 | [293109-boss-simulator.json](./293109-boss-simulator.json) |
 | Boss Slayers | 412466 | [412466-boss-slayers.json](./412466-boss-slayers.json) |
