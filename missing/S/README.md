@@ -834,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandrail Race | 345056 | [345056-sandrail-race.json](./345056-sandrail-race.json) |
 | Sandream | 195706 | [195706-sandream.json](./195706-sandream.json) |
 | SandRipper | 270930 | [270930-sandripper.json](./270930-sandripper.json) |
+| Sands | 236348 | [236348-sands.json](./236348-sands.json) |
 | Sands of Fate | 414293 | [414293-sands-of-fate.json](./414293-sands-of-fate.json) |
 | Sands of Hope | 289459 | [289459-sands-of-hope.json](./289459-sands-of-hope.json) |
 | Sands of Mars | 280882 | [280882-sands-of-mars.json](./280882-sands-of-mars.json) |
@@ -2502,6 +2503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeker Shrine | 399735 | [399735-seeker-shrine.json](./399735-seeker-shrine.json) |
 | Seekers Aeterna | 217339 | [217339-seekers-aeterna.json](./217339-seekers-aeterna.json) |
 | Seekers of Eclipse | 278697 | [278697-seekers-of-eclipse.json](./278697-seekers-of-eclipse.json) |
+| Seekers of Sahul | 236356 | [236356-seekers-of-sahul.json](./236356-seekers-of-sahul.json) |
 | Seeking Adventure | 331970 | [331970-seeking-adventure.json](./331970-seeking-adventure.json) |
 | Seeking Asylum: Revelations | 216205 | [216205-seeking-asylum-revelations.json](./216205-seeking-asylum-revelations.json) |
 | Seeking Asylum: The Game | 390522 | [390522-seeking-asylum-the-game.json](./390522-seeking-asylum-the-game.json) |
@@ -7146,6 +7148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Maze | 311603 | [311603-small-maze.json](./311603-small-maze.json) |
 | Small Mouse Big House | 378402 | [378402-small-mouse-big-house.json](./378402-small-mouse-big-house.json) |
 | Small Nights | 253397 | [253397-small-nights.json](./253397-small-nights.json) |
+| Small People Defense | 236325 | [236325-small-people-defense.json](./236325-small-people-defense.json) |
 | Small Pixel | 105094 | [105094-small-pixel.json](./105094-small-pixel.json) |
 | Small Rockets Mahjongg | 208956 | [208956-small-rockets-mahjongg.json](./208956-small-rockets-mahjongg.json) |
 | Small Soldiers | 166528 | [166528-small-soldiers.json](./166528-small-soldiers.json) |
@@ -7155,6 +7158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Spaces | 318506 | [318506-small-spaces.json](./318506-small-spaces.json) |
 | Small Super Mario Bros. U Deluxe | 256808 | [256808-small-super-mario-bros-u-deluxe.json](./256808-small-super-mario-bros-u-deluxe.json) |
 | Small Tank | 255017 | [255017-small-tank.json](./255017-small-tank.json) |
+| Small Town Detective | 236333 | [236333-small-town-detective.json](./236333-small-town-detective.json) |
 | Small Town Detective | 310585 | [310585-small-town-detective.json](./310585-small-town-detective.json) |
 | Small Town Detective in Where are Ray And Cooper | 310586 | [310586-small-town-detective-in-where-are-ray-and-cooper.json](./310586-small-town-detective-in-where-are-ray-and-cooper.json) |
 | Small Town Terrors: Galdor's Bluff | 79248 | [79248-small-town-terrors-galdors-bluff.json](./79248-small-town-terrors-galdors-bluff.json) |
@@ -10885,6 +10889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelly Cat | 260305 | [260305-spelly-cat.json](./260305-spelly-cat.json) |
 | Spellz: Mastery or Death | 278680 | [278680-spellz-mastery-or-death.json](./278680-spellz-mastery-or-death.json) |
 | Spelp | 232711 | [232711-spelp.json](./232711-spelp.json) |
+| Speluncaphobia | 236414 | [236414-speluncaphobia.json](./236414-speluncaphobia.json) |
 | SpeluNikki | 269738 | [269738-spelunikki.json](./269738-spelunikki.json) |
 | Spelunker Black | 81451 | [81451-spelunker-black.json](./81451-spelunker-black.json) |
 | Spelunker HD | 45281 | [45281-spelunker-hd.json](./45281-spelunker-hd.json) |
@@ -12223,6 +12228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Hearts: Launch Point | 200713 | [200713-star-hearts-launch-point.json](./200713-star-hearts-launch-point.json) |
 | Star Heritage 1: The Black Cobra | 120312 | [120312-star-heritage-1-the-black-cobra.json](./120312-star-heritage-1-the-black-cobra.json) |
 | Star Heritage: Black Cobra | 406853 | [406853-star-heritage-black-cobra.json](./406853-star-heritage-black-cobra.json) |
+| Star Hive: The Menace | 236422 | [236422-star-hive-the-menace.json](./236422-star-hive-the-menace.json) |
 | Star Hogs: Online & Campaign Battles | 79625 | [79625-star-hogs-online-and-campaign-battles.json](./79625-star-hogs-online-and-campaign-battles.json) |
 | Star Honor | 228388 | [228388-star-honor.json](./228388-star-honor.json) |
 | Star Horizon | 35690 | [35690-star-horizon.json](./35690-star-horizon.json) |
@@ -12250,6 +12256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Melody: Yumemi Dreamer - Chapter 11 | 196156 | [196156-star-melody-yumemi-dreamer-chapter-11.json](./196156-star-melody-yumemi-dreamer-chapter-11.json) |
 | Star Melody: Yumemi Dreamer - Chapter 9 | 196149 | [196149-star-melody-yumemi-dreamer-chapter-9.json](./196149-star-melody-yumemi-dreamer-chapter-9.json) |
 | Star Melody: Yumemi Dreamer - Limited Edition | 175977 | [175977-star-melody-yumemi-dreamer-limited-edition.json](./175977-star-melody-yumemi-dreamer-limited-edition.json) |
+| Star Mercenary | 236417 | [236417-star-mercenary.json](./236417-star-mercenary.json) |
 | Star Mine | 142424 | [142424-star-mine.json](./142424-star-mine.json) |
 | Star Mobile | 41995 | [41995-star-mobile.json](./41995-star-mobile.json) |
 | Star Nomad | 36067 | [36067-star-nomad.json](./36067-star-nomad.json) |
@@ -14542,6 +14549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strong Fortress | 287908 | [287908-strong-fortress.json](./287908-strong-fortress.json) |
 | Strong man parkour | 269181 | [269181-strong-man-parkour.json](./269181-strong-man-parkour.json) |
 | Strong Moon | 208452 | [208452-strong-moon.json](./208452-strong-moon.json) |
+| Strong Protection | 236338 | [236338-strong-protection.json](./236338-strong-protection.json) |
 | Strong: Search for the Mightiest Person | 246975 | [246975-strong-search-for-the-mightiest-person.json](./246975-strong-search-for-the-mightiest-person.json) |
 | StrongBadZone | 135863 | [135863-strongbadzone.json](./135863-strongbadzone.json) |
 | Stronghold | 18539 | [18539-stronghold.json](./18539-stronghold.json) |
@@ -15566,6 +15574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Blasting Boy | 110977 | [110977-super-blasting-boy.json](./110977-super-blasting-boy.json) |
 | Super Block | 172655 | [172655-super-block.json](./172655-super-block.json) |
 | Super Block Boy and Friends | 333165 | [333165-super-block-boy-and-friends.json](./333165-super-block-boy-and-friends.json) |
+| Super Block Crush | 236340 | [236340-super-block-crush.json](./236340-super-block-crush.json) |
 | Super Block Jump | 306497 | [306497-super-block-jump.json](./306497-super-block-jump.json) |
 | Super Blocmania 3D + 3D Brick Blaster | 91431 | [91431-super-blocmania-3d-3d-brick-blaster.json](./91431-super-blocmania-3d-3d-brick-blaster.json) |
 | Super Bloo Kid Adventure | 219582 | [219582-super-bloo-kid-adventure.json](./219582-super-bloo-kid-adventure.json) |
@@ -15961,6 +15970,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Dogs Puzzles | 155619 | [155619-super-jigsaw-puzzle-generations-dogs-puzzles.json](./155619-super-jigsaw-puzzle-generations-dogs-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Egypt | 258993 | [258993-super-jigsaw-puzzle-generations-egypt.json](./258993-super-jigsaw-puzzle-generations-egypt.json) |
 | Super Jigsaw Puzzle: Generations - Fantasy | 155613 | [155613-super-jigsaw-puzzle-generations-fantasy.json](./155613-super-jigsaw-puzzle-generations-fantasy.json) |
+| Super Jigsaw Puzzle: Generations - Fantasy 2 | 236412 | [236412-super-jigsaw-puzzle-generations-fantasy-2.json](./236412-super-jigsaw-puzzle-generations-fantasy-2.json) |
+| Super Jigsaw Puzzle: Generations - Finland | 236346 | [236346-super-jigsaw-puzzle-generations-finland.json](./236346-super-jigsaw-puzzle-generations-finland.json) |
 | Super Jigsaw Puzzle: Generations - First Anniversary | 155598 | [155598-super-jigsaw-puzzle-generations-first-anniversary.json](./155598-super-jigsaw-puzzle-generations-first-anniversary.json) |
 | Super Jigsaw Puzzle: Generations - Flowers Puzzles | 155609 | [155609-super-jigsaw-puzzle-generations-flowers-puzzles.json](./155609-super-jigsaw-puzzle-generations-flowers-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Food | 219578 | [219578-super-jigsaw-puzzle-generations-food.json](./219578-super-jigsaw-puzzle-generations-food.json) |
