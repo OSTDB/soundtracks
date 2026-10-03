@@ -2837,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Absence of Miriam Lane | 219792 | [219792-the-absence-of-miriam-lane.json](./219792-the-absence-of-miriam-lane.json) |
 | The Absolutely Hilarious Cat Game | 153959 | [153959-the-absolutely-hilarious-cat-game.json](./153959-the-absolutely-hilarious-cat-game.json) |
 | The Abyss | 237353 | [237353-the-abyss.json](./237353-the-abyss.json) |
+| The Abyss | 239717 | [239717-the-abyss.json](./239717-the-abyss.json) |
 | The Abyss Below | 408981 | [408981-the-abyss-below.json](./408981-the-abyss-below.json) |
 | The Abyss Has Walls | 195760 | [195760-the-abyss-has-walls.json](./195760-the-abyss-has-walls.json) |
 | The Abyss: Incident at Europa | 74076 | [74076-the-abyss-incident-at-europa.json](./74076-the-abyss-incident-at-europa.json) |
@@ -3151,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Avengers United Battle Force | 297544 | [297544-the-avengers-united-battle-force.json](./297544-the-avengers-united-battle-force.json) |
 | The Average Everyday Adventures of Samantha Browne | 16984 | [16984-the-average-everyday-adventures-of-samantha-browne.json](./16984-the-average-everyday-adventures-of-samantha-browne.json) |
 | The Avoider | 178976 | [178976-the-avoider.json](./178976-the-avoider.json) |
+| The Awaited ReCollection | 239791 | [239791-the-awaited-recollection.json](./239791-the-awaited-recollection.json) |
 | The Awakened Avenger | 372467 | [372467-the-awakened-avenger.json](./372467-the-awakened-avenger.json) |
 | The Awakened Fate: Ultimatum | 19119 | [19119-the-awakened-fate-ultimatum.json](./19119-the-awakened-fate-ultimatum.json) |
 | The Awakener: Risen | 172702 | [172702-the-awakener-risen.json](./172702-the-awakener-risen.json) |
@@ -3281,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Polytopia: Solaris | 370330 | [370330-the-battle-of-polytopia-solaris.json](./370330-the-battle-of-polytopia-solaris.json) |
 | The Battle of Polytopia: Yorthwober | 366859 | [366859-the-battle-of-polytopia-yorthwober.json](./366859-the-battle-of-polytopia-yorthwober.json) |
 | The Battle of Polytopia+ | 357407 | [357407-the-battle-of-polytopia.json](./357407-the-battle-of-polytopia.json) |
+| The Battle of Sacred Heart | 239700 | [239700-the-battle-of-sacred-heart.json](./239700-the-battle-of-sacred-heart.json) |
 | The Battle Orks | 339986 | [339986-the-battle-orks.json](./339986-the-battle-orks.json) |
 | The Battle Road | 39617 | [39617-the-battle-road.json](./39617-the-battle-road.json) |
 | The Battles for Abunka | 210900 | [210900-the-battles-for-abunka.json](./210900-the-battles-for-abunka.json) |
@@ -4495,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Edge of The World Z Will Shock You | 212827 | [212827-the-edge-of-the-world-z-will-shock-you.json](./212827-the-edge-of-the-world-z-will-shock-you.json) |
 | The Edge of Water | 399144 | [399144-the-edge-of-water.json](./399144-the-edge-of-water.json) |
 | The Edibles | 273416 | [273416-the-edibles.json](./273416-the-edibles.json) |
+| The Editor | 239783 | [239783-the-editor.json](./239783-the-editor.json) |
 | The Eerie Inn | 95595 | [95595-the-eerie-inn.json](./95595-the-eerie-inn.json) |
 | The Eerie Inn VR | 106635 | [106635-the-eerie-inn-vr.json](./106635-the-eerie-inn-vr.json) |
 | The Effective Detective | 300811 | [300811-the-effective-detective.json](./300811-the-effective-detective.json) |
@@ -8280,6 +8284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secrets We Grow | 362483 | [362483-the-secrets-we-grow.json](./362483-the-secrets-we-grow.json) |
 | The Seduction of Shaqeera VR | 344438 | [344438-the-seduction-of-shaqeera-vr.json](./344438-the-seduction-of-shaqeera-vr.json) |
 | The SeethingSwarm Collection | 385848 | [385848-the-seethingswarm-collection.json](./385848-the-seethingswarm-collection.json) |
+| The Segment Twins | 239782 | [239782-the-segment-twins.json](./239782-the-segment-twins.json) |
 | The Seller | 84956 | [84956-the-seller.json](./84956-the-seller.json) |
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
 | The Sensha | 59418 | [59418-the-sensha.json](./59418-the-sensha.json) |
@@ -12344,6 +12349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To My Best Friend | 149545 | [149545-to-my-best-friend.json](./149545-to-my-best-friend.json) |
 | To My Darling | 393512 | [393512-to-my-darling.json](./393512-to-my-darling.json) |
 | To My Forever Love | 259710 | [259710-to-my-forever-love.json](./259710-to-my-forever-love.json) |
+| To Pixelia | 239780 | [239780-to-pixelia.json](./239780-to-pixelia.json) |
 | To Save Humanity From Virus | 159816 | [159816-to-save-humanity-from-virus.json](./159816-to-save-humanity-from-virus.json) |
 | To Swat A Fly | 378212 | [378212-to-swat-a-fly.json](./378212-to-swat-a-fly.json) |
 | To Tell the Truth | 282570 | [282570-to-tell-the-truth.json](./282570-to-tell-the-truth.json) |
