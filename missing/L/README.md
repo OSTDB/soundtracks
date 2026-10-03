@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L00P | 255671 | [255671-l00p.json](./255671-l00p.json) |
 | L2 Love x Loop | 219132 | [219132-l2-love-x-loop.json](./219132-l2-love-x-loop.json) |
 | l3bhm | 361280 | [361280-l3bhm.json](./361280-l3bhm.json) |
+| L8R | 229724 | [229724-l8r.json](./229724-l8r.json) |
 | La Abadía del Crimen | 12375 | [12375-la-abadia-del-crimen.json](./12375-la-abadia-del-crimen.json) |
 | La Bestia: The Migrant's Long Journey | 296485 | [296485-la-bestia-the-migrants-long-journey.json](./296485-la-bestia-the-migrants-long-journey.json) |
 | La Carbonara | 323172 | [323172-la-carbonara.json](./323172-la-carbonara.json) |
@@ -1802,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lep's World Plus - super best platformer games | 90375 | [90375-leps-world-plus-super-best-platformer-games.json](./90375-leps-world-plus-super-best-platformer-games.json) |
 | Lepidoptera | 257092 | [257092-lepidoptera.json](./257092-lepidoptera.json) |
 | LepozhdianVibe | 325866 | [325866-lepozhdianvibe.json](./325866-lepozhdianvibe.json) |
+| Leprechaun | 229828 | [229828-leprechaun.json](./229828-leprechaun.json) |
 | Leprechaun Shadow | 111698 | [111698-leprechaun-shadow.json](./111698-leprechaun-shadow.json) |
 | Leprechaun Twins | 307313 | [307313-leprechaun-twins.json](./307313-leprechaun-twins.json) |
 | Lepur | 81765 | [81765-lepur.json](./81765-lepur.json) |
@@ -4124,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Cube | 156619 | [156619-lost-cube.json](./156619-lost-cube.json) |
 | Lost Curse | 356701 | [356701-lost-curse.json](./356701-lost-curse.json) |
 | Lost Deltarune | 408795 | [408795-lost-deltarune.json](./408795-lost-deltarune.json) |
+| Lost Direction | 229765 | [229765-lost-direction.json](./229765-lost-direction.json) |
 | Lost Dooors | 383641 | [383641-lost-dooors.json](./383641-lost-dooors.json) |
 | Lost Dream | 169473 | [169473-lost-dream.json](./169473-lost-dream.json) |
 | Lost Dream 1 | 365236 | [365236-lost-dream-1.json](./365236-lost-dream-1.json) |
