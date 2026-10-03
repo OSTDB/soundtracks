@@ -15881,6 +15881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Quest | 256860 | [256860-trivia-quest.json](./256860-trivia-quest.json) |
 | Trivia Quiz: All about everything! | 106156 | [106156-trivia-quiz-all-about-everything.json](./106156-trivia-quiz-all-about-everything.json) |
 | Trivia Replacement Questions | 87219 | [87219-trivia-replacement-questions.json](./87219-trivia-replacement-questions.json) |
+| Trivia Town: Quiz Duel | 232064 | [232064-trivia-town-quiz-duel.json](./232064-trivia-town-quiz-duel.json) |
 | Trivia Tricks | 140534 | [140534-trivia-tricks.json](./140534-trivia-tricks.json) |
 | Trivia Trove | 55991 | [55991-trivia-trove.json](./55991-trivia-trove.json) |
 | Trivia Vault Olympics Trivia | 88201 | [88201-trivia-vault-olympics-trivia.json](./88201-trivia-vault-olympics-trivia.json) |
