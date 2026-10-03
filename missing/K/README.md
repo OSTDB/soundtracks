@@ -1038,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kharkov: Disaster on the Donets - Across the Dnepr: Second Edition | 281007 | [281007-kharkov-disaster-on-the-donets-across-the-dnepr-second-edition.json](./281007-kharkov-disaster-on-the-donets-across-the-dnepr-second-edition.json) |
 | Khatyrka: Prelude | 229967 | [229967-khatyrka-prelude.json](./229967-khatyrka-prelude.json) |
 | Khemia | 136460 | [136460-khemia.json](./136460-khemia.json) |
+| Kheshig Treasure Empires Fight | 240865 | [240865-kheshig-treasure-empires-fight.json](./240865-kheshig-treasure-empires-fight.json) |
 | Khimera: Puzzle Island | 146205 | [146205-khimera-puzzle-island.json](./146205-khimera-puzzle-island.json) |
 | Khio | 136458 | [136458-khio.json](./136458-khio.json) |
 | Khnum Fire | 370211 | [370211-khnum-fire.json](./370211-khnum-fire.json) |
