@@ -5416,6 +5416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | APlaceDominatedByHoles | 260418 | [260418-aplacedominatedbyholes.json](./260418-aplacedominatedbyholes.json) |
 | Aplestia: Retold | 189175 | [189175-aplestia-retold.json](./189175-aplestia-retold.json) |
 | AploVVare Collection | 263219 | [263219-aplovvare-collection.json](./263219-aplovvare-collection.json) |
+| AploVVare Collection:18+ DLC | 266990 | [266990-aplovvare-collection-18-dlc.json](./266990-aplovvare-collection-18-dlc.json) |
 | Apoc Runner | 161409 | [161409-apoc-runner.json](./161409-apoc-runner.json) |
 | Apocalipsis | 28319 | [28319-apocalipsis.json](./28319-apocalipsis.json) |
 | Apocalipsis: The Tree of the Knowledge of Good and Evil | 90073 | [90073-apocalipsis-the-tree-of-the-knowledge-of-good-and-evil.json](./90073-apocalipsis-the-tree-of-the-knowledge-of-good-and-evil.json) |
@@ -6805,6 +6806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Detective: Hidden Through Ancient China | 320327 | [320327-art-detective-hidden-through-ancient-china.json](./320327-art-detective-hidden-through-ancient-china.json) |
 | Art Diff | 303677 | [303677-art-diff.json](./303677-art-diff.json) |
 | Art for Snakes | 315704 | [315704-art-for-snakes.json](./315704-art-for-snakes.json) |
+| Art Heist | 267006 | [267006-art-heist.json](./267006-art-heist.json) |
 | Art House | 367950 | [367950-art-house.json](./367950-art-house.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
 | Art Mahjong 2 | 91526 | [91526-art-mahjong-2.json](./91526-art-mahjong-2.json) |
@@ -7407,6 +7409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Obelix XXL 3: The Crystal Menhir - Collector's Edition | 166231 | [166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json](./166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json) |
 | Asterix & Obelix XXXL: The Ram From Hibernia | 208734 | [208734-asterix-and-obelix-xxxl-the-ram-from-hibernia.json](./208734-asterix-and-obelix-xxxl-the-ram-from-hibernia.json) |
 | Asterix & Obelix: Cesar's Challenge | 262663 | [262663-asterix-and-obelix-cesars-challenge.json](./262663-asterix-and-obelix-cesars-challenge.json) |
+| Asterix & Obelix: Heroes | 267001 | [267001-asterix-and-obelix-heroes.json](./267001-asterix-and-obelix-heroes.json) |
 | Asterix & Obelix: Kick Buttix | 3789 | [3789-asterix-and-obelix-kick-buttix.json](./3789-asterix-and-obelix-kick-buttix.json) |
 | Astérix and the Great Rescue | 8501 | [8501-asterix-and-the-great-rescue.json](./8501-asterix-and-the-great-rescue.json) |
 | Asterix and the Magic Carpet | 14272 | [14272-asterix-and-the-magic-carpet.json](./14272-asterix-and-the-magic-carpet.json) |
