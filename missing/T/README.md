@@ -2317,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraForge | 258527 | [258527-terraforge.json](./258527-terraforge.json) |
 | Terraforma | 238605 | [238605-terraforma.json](./238605-terraforma.json) |
 | Terraformer Expedition to Mars | 17352 | [17352-terraformer-expedition-to-mars.json](./17352-terraformer-expedition-to-mars.json) |
+| Terraformers & Moonshine Inc.: Mars and Moon Bundle | 273006 | [273006-terraformers-and-moonshine-inc-mars-and-moon-bundle.json](./273006-terraformers-and-moonshine-inc-mars-and-moon-bundle.json) |
 | Terraformers + Starward Rogue: Mechs and Colonizers Bundle | 292614 | [292614-terraformers-starward-rogue-mechs-and-colonizers-bundle.json](./292614-terraformers-starward-rogue-mechs-and-colonizers-bundle.json) |
 | Terraformers + Starward Rogue: Mechs and Colonizers Deluxe Bundle | 292616 | [292616-terraformers-starward-rogue-mechs-and-colonizers-deluxe-bundle.json](./292616-terraformers-starward-rogue-mechs-and-colonizers-deluxe-bundle.json) |
 | Terraformers: Deluxe Bundle | 331493 | [331493-terraformers-deluxe-bundle.json](./331493-terraformers-deluxe-bundle.json) |
