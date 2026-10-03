@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sword: The Light of Ainn | 295409 | [295409-dark-sword-the-light-of-ainn.json](./295409-dark-sword-the-light-of-ainn.json) |
 | Dark Swords | 119044 | [119044-dark-swords.json](./119044-dark-swords.json) |
 | Dark Swords Firelink | 198207 | [198207-dark-swords-firelink.json](./198207-dark-swords-firelink.json) |
+| Dark Table CCG | 255869 | [255869-dark-table-ccg.json](./255869-dark-table-ccg.json) |
 | Dark Tales from México: Prelude. Just a Dream... with the Sack Man | 222845 | [222845-dark-tales-from-mexico-prelude-just-a-dream-with-the-sack-man.json](./222845-dark-tales-from-mexico-prelude-just-a-dream-with-the-sack-man.json) |
 | Dark Tales: Edgar Allan Poe's Lenore - Collector's Edition | 370676 | [370676-dark-tales-edgar-allan-poes-lenore-collectors-edition.json](./370676-dark-tales-edgar-allan-poes-lenore-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's Morella - Collector's Edition | 370677 | [370677-dark-tales-edgar-allan-poes-morella-collectors-edition.json](./370677-dark-tales-edgar-allan-poes-morella-collectors-edition.json) |
@@ -2855,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delares | 154383 | [154383-delares.json](./154383-delares.json) |
 | Delaware St. John: Volume 1 - The Curse of Midnight Manor / Volume 2: The Town with No Name | 93050 | [93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json](./93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json) |
 | Delaware St. John: Volume 2 - The Town with No Name | 71043 | [71043-delaware-st-john-volume-2-the-town-with-no-name.json](./71043-delaware-st-john-volume-2-the-town-with-no-name.json) |
+| Delaweare | 255883 | [255883-delaweare.json](./255883-delaweare.json) |
 | Delay | 90643 | [90643-delay.json](./90643-delay.json) |
 | DelayedSun | 127239 | [127239-delayedsun.json](./127239-delayedsun.json) |
 | Delbo | 85567 | [85567-delbo.json](./85567-delbo.json) |
@@ -8548,6 +8550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Du Lac & Fey: Dance of Death | 76211 | [76211-du-lac-and-fey-dance-of-death.json](./76211-du-lac-and-fey-dance-of-death.json) |
 | Duael Invaders | 42827 | [42827-duael-invaders.json](./42827-duael-invaders.json) |
 | Duake | 320260 | [320260-duake.json](./320260-duake.json) |
+| Dual | 255889 | [255889-dual.json](./255889-dual.json) |
 | Dual Brain Vol.1: Calculation | 127170 | [127170-dual-brain-vol-1-calculation.json](./127170-dual-brain-vol-1-calculation.json) |
 | Dual Brain: Complete Edition | 196178 | [196178-dual-brain-complete-edition.json](./196178-dual-brain-complete-edition.json) |
 | Dual Bus Simulator | 269028 | [269028-dual-bus-simulator.json](./269028-dual-bus-simulator.json) |
