@@ -1116,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates to Terra II | 126646 | [126646-gates-to-terra-ii.json](./126646-gates-to-terra-ii.json) |
 | Gates vs. Jobs: The Game! | 325561 | [325561-gates-vs-jobs-the-game.json](./325561-gates-vs-jobs-the-game.json) |
 | Gatestriders | 365750 | [365750-gatestriders.json](./365750-gatestriders.json) |
+| Gateway | 248204 | [248204-gateway.json](./248204-gateway.json) |
 | Gateway II: Homeworld | 51391 | [51391-gateway-ii-homeworld.json](./51391-gateway-ii-homeworld.json) |
 | Gateway to English: Eigo de Go! | 245313 | [245313-gateway-to-english-eigo-de-go.json](./245313-gateway-to-english-eigo-de-go.json) |
 | Gateway to Karos | 13720 | [13720-gateway-to-karos.json](./13720-gateway-to-karos.json) |
@@ -2868,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin's Bizarre Adventure | 273644 | [273644-goblins-bizarre-adventure.json](./273644-goblins-bizarre-adventure.json) |
 | Goblin's Expedition | 217014 | [217014-goblins-expedition.json](./217014-goblins-expedition.json) |
 | Goblin's Gamble 24 | 395045 | [395045-goblins-gamble-24.json](./395045-goblins-gamble-24.json) |
+| Goblin's Workshop | 248168 | [248168-goblins-workshop.json](./248168-goblins-workshop.json) |
 | GoblinAmerica | 271228 | [271228-goblinamerica.json](./271228-goblinamerica.json) |
 | Goblinna's Garden | 374063 | [374063-goblinnas-garden.json](./374063-goblinnas-garden.json) |
 | Goblins Can Conquer | 404972 | [404972-goblins-can-conquer.json](./404972-goblins-can-conquer.json) |
@@ -3985,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandmaster's Revenge | 215355 | [215355-grandmasters-revenge.json](./215355-grandmasters-revenge.json) |
 | Grandmother's Tale | 153872 | [153872-grandmothers-tale.json](./153872-grandmothers-tale.json) |
 | Grandpa | 329782 | [329782-grandpa.json](./329782-grandpa.json) |
+| Grandpa And Granny Home Escape | 248177 | [248177-grandpa-and-granny-home-escape.json](./248177-grandpa-and-granny-home-escape.json) |
 | Grandpa Rally | 255730 | [255730-grandpa-rally.json](./255730-grandpa-rally.json) |
 | Grandpa: The Horror Game | 99307 | [99307-grandpa-the-horror-game.json](./99307-grandpa-the-horror-game.json) |
 | Grandpa's House | 257900 | [257900-grandpas-house.json](./257900-grandpas-house.json) |
@@ -4870,6 +4873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Recovery | 175835 | [175835-grow-recovery.json](./175835-grow-recovery.json) |
 | Grow RPG | 175831 | [175831-grow-rpg.json](./175831-grow-rpg.json) |
 | Grow Tower | 175830 | [175830-grow-tower.json](./175830-grow-tower.json) |
+| Grow Turret | 248155 | [248155-grow-turret.json](./248155-grow-turret.json) |
 | Grow Up | 19552 | [19552-grow-up.json](./19552-grow-up.json) |
 | Grow Valley | 175833 | [175833-grow-valley.json](./175833-grow-valley.json) |
 | Grow Ver. 2 | 175834 | [175834-grow-ver-2.json](./175834-grow-ver-2.json) |
