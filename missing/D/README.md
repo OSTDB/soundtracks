@@ -4313,6 +4313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Original Moorhuhn Jagd | 83237 | [83237-die-original-moorhuhn-jagd.json](./83237-die-original-moorhuhn-jagd.json) |
 | Die Pizzeria | 91542 | [91542-die-pizzeria.json](./91542-die-pizzeria.json) |
 | Die Quelle von Naroth | 356840 | [356840-die-quelle-von-naroth.json](./356840-die-quelle-von-naroth.json) |
+| Die Rave | 245904 | [245904-die-rave.json](./245904-die-rave.json) |
 | Die Reise ins All | 127916 | [127916-die-reise-ins-all.json](./127916-die-reise-ins-all.json) |
 | Die Rowdy | 299766 | [299766-die-rowdy.json](./299766-die-rowdy.json) |
 | Die Together | 184465 | [184465-die-together.json](./184465-die-together.json) |
@@ -6047,6 +6048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominus Galaxia | 124744 | [124744-dominus-galaxia.json](./124744-dominus-galaxia.json) |
 | Dominus Gladiatus | 404343 | [404343-dominus-gladiatus.json](./404343-dominus-gladiatus.json) |
 | Dominus Rage | 199615 | [199615-dominus-rage.json](./199615-dominus-rage.json) |
+| Dominus Solaris | 245993 | [245993-dominus-solaris.json](./245993-dominus-solaris.json) |
 | Domion: Trinity Requiem | 181213 | [181213-domion-trinity-requiem.json](./181213-domion-trinity-requiem.json) |
 | Domiverse | 81246 | [81246-domiverse.json](./81246-domiverse.json) |
 | Domkey Kong | 336638 | [336638-domkey-kong.json](./336638-domkey-kong.json) |
@@ -8358,6 +8360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droian | 319220 | [319220-droian.json](./319220-droian.json) |
 | Droid Dreams | 133442 | [133442-droid-dreams.json](./133442-droid-dreams.json) |
 | Droid Escape | 192930 | [192930-droid-escape.json](./192930-droid-escape.json) |
+| Droid Invasion | 245964 | [245964-droid-invasion.json](./245964-droid-invasion.json) |
 | Droid Warfare | 211153 | [211153-droid-warfare.json](./211153-droid-warfare.json) |
 | Droid Wars | 302100 | [302100-droid-wars.json](./302100-droid-wars.json) |
 | Droid Wars: Duel | 232950 | [232950-droid-wars-duel.json](./232950-droid-wars-duel.json) |
@@ -9490,6 +9493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DX-Ball | 19224 | [19224-dx-ball.json](./19224-dx-ball.json) |
 | Dyad | 242079 | [242079-dyad.json](./242079-dyad.json) |
 | Dye | 27288 | [27288-dye.json](./27288-dye.json) |
+| Dye the Bunny | 245979 | [245979-dye-the-bunny.json](./245979-dye-the-bunny.json) |
 | Dyebreaker | 349389 | [349389-dyebreaker.json](./349389-dyebreaker.json) |
 | Dyflexion | 189067 | [189067-dyflexion.json](./189067-dyflexion.json) |
 | Dyg | 208581 | [208581-dyg.json](./208581-dyg.json) |
