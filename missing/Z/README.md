@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda: The Wand of Gamelon | 8533 | [8533-zelda-the-wand-of-gamelon.json](./8533-zelda-the-wand-of-gamelon.json) |
 | Zelda's Adventure | 248106 | [248106-zeldas-adventure.json](./248106-zeldas-adventure.json) |
 | Zelda's Birthday | 173087 | [173087-zeldas-birthday.json](./173087-zeldas-birthday.json) |
+| Zelda3 | 237542 | [237542-zelda3.json](./237542-zelda3.json) |
 | ZeldaBound 64 | 315025 | [315025-zeldabound-64.json](./315025-zeldabound-64.json) |
 | Zeldara's Glitch City | 278629 | [278629-zeldaras-glitch-city.json](./278629-zeldaras-glitch-city.json) |
 | Zeldo's Challenge Ch. 1: Bingo's Revenge | 243618 | [243618-zeldos-challenge-ch-1-bingos-revenge.json](./243618-zeldos-challenge-ch-1-bingos-revenge.json) |
