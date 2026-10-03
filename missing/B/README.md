@@ -541,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baikoh: Word Challenges | 87587 | [87587-baikoh-word-challenges.json](./87587-baikoh-word-challenges.json) |
 | Bail Force: Cyberpunk Bounty Hunters | 249181 | [249181-bail-force-cyberpunk-bounty-hunters.json](./249181-bail-force-cyberpunk-bounty-hunters.json) |
 | Bail or Jail: Character DLC Bundle 2 | 255141 | [255141-bail-or-jail-character-dlc-bundle-2.json](./255141-bail-or-jail-character-dlc-bundle-2.json) |
+| Bail or Jail: Character DLC Bundle 3 | 274651 | [274651-bail-or-jail-character-dlc-bundle-3.json](./274651-bail-or-jail-character-dlc-bundle-3.json) |
 | Bailout Wars | 41518 | [41518-bailout-wars.json](./41518-bailout-wars.json) |
 | Baimason's Thing Finder Puzzle | 293612 | [293612-baimasons-thing-finder-puzzle.json](./293612-baimasons-thing-finder-puzzle.json) |
 | Baise Lesbienne! | 206731 | [206731-baise-lesbienne.json](./206731-baise-lesbienne.json) |
