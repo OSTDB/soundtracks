@@ -2342,7 +2342,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladio Mori | 278415 | [278415-gladio-mori.json](./278415-gladio-mori.json) |
 | Gladom: The 2D MOBA in Pixel Art | 121469 | [121469-gladom-the-2d-moba-in-pixel-art.json](./121469-gladom-the-2d-moba-in-pixel-art.json) |
 | Glais Gawizt | 266765 | [266765-glais-gawizt.json](./266765-glais-gawizt.json) |
+| Glaive | 262009 | [262009-glaive.json](./262009-glaive.json) |
 | Glaive | 31965 | [31965-glaive.json](./31965-glaive.json) |
+| Glaive 2 | 262010 | [262010-glaive-2.json](./262010-glaive-2.json) |
 | Glaive: Brick Breaker | 95216 | [95216-glaive-brick-breaker.json](./95216-glaive-brick-breaker.json) |
 | GlaiveBound | 290719 | [290719-glaivebound.json](./290719-glaivebound.json) |
 | Glam the Rocker | 413712 | [413712-glam-the-rocker.json](./413712-glam-the-rocker.json) |
@@ -3468,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Googass | 165667 | [165667-googass.json](./165667-googass.json) |
 | Google Blocks | 115730 | [115730-google-blocks.json](./115730-google-blocks.json) |
 | Google Cricket | 230854 | [230854-google-cricket.json](./230854-google-cricket.json) |
+| Google Dinosaur Shooter | 261967 | [261967-google-dinosaur-shooter.json](./261967-google-dinosaur-shooter.json) |
 | Google Earth Flight Simulator | 10902 | [10902-google-earth-flight-simulator.json](./10902-google-earth-flight-simulator.json) |
 | Google Feud | 10898 | [10898-google-feud.json](./10898-google-feud.json) |
 | Google Feudle | 227214 | [227214-google-feudle.json](./227214-google-feudle.json) |
