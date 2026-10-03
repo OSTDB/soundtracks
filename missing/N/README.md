@@ -1228,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Chrome: Arena | 155075 | [155075-neon-chrome-arena.json](./155075-neon-chrome-arena.json) |
 | Neon Chrome: Deluxe Edition | 53412 | [53412-neon-chrome-deluxe-edition.json](./53412-neon-chrome-deluxe-edition.json) |
 | Neon Chrome: Overseer Edition | 143022 | [143022-neon-chrome-overseer-edition.json](./143022-neon-chrome-overseer-edition.json) |
+| Neon City | 249354 | [249354-neon-city.json](./249354-neon-city.json) |
 | Neon City Hacker | 322610 | [322610-neon-city-hacker.json](./322610-neon-city-hacker.json) |
 | Neon City of Desires | 260155 | [260155-neon-city-of-desires.json](./260155-neon-city-of-desires.json) |
 | Neon City Riders: Super-Powered Edition | 169181 | [169181-neon-city-riders-super-powered-edition.json](./169181-neon-city-riders-super-powered-edition.json) |
