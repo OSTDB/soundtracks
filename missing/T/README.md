@@ -4088,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Zigoris | 130252 | [130252-the-curse-of-zigoris.json](./130252-the-curse-of-zigoris.json) |
 | The Curse We Made | 380623 | [380623-the-curse-we-made.json](./380623-the-curse-we-made.json) |
 | The Cursed Amulet | 249860 | [249860-the-cursed-amulet.json](./249860-the-cursed-amulet.json) |
+| The Cursed Castle | 235290 | [235290-the-cursed-castle.json](./235290-the-cursed-castle.json) |
 | The Cursed Deep | 365819 | [365819-the-cursed-deep.json](./365819-the-cursed-deep.json) |
 | The Cursed Forest | 35848 | [35848-the-cursed-forest.json](./35848-the-cursed-forest.json) |
 | The Cursed Garden | 342750 | [342750-the-cursed-garden.json](./342750-the-cursed-garden.json) |
@@ -11837,6 +11838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Tenshi 2: Special Edition | 30407 | [30407-time-tenshi-2-special-edition.json](./30407-time-tenshi-2-special-edition.json) |
 | Time Tenshi Paradox: Episode 2 | 96616 | [96616-time-tenshi-paradox-episode-2.json](./96616-time-tenshi-paradox-episode-2.json) |
 | Time Thief | 201590 | [201590-time-thief.json](./201590-time-thief.json) |
+| Time Thief | 235277 | [235277-time-thief.json](./235277-time-thief.json) |
 | Time to Die: Adventures | 53810 | [53810-time-to-die-adventures.json](./53810-time-to-die-adventures.json) |
 | Time to Fight | 114319 | [114319-time-to-fight.json](./114319-time-to-fight.json) |
 | Time to Golf | 143711 | [143711-time-to-golf.json](./143711-time-to-golf.json) |
