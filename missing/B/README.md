@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
 | Bad Rats Show | 27510 | [27510-bad-rats-show.json](./27510-bad-rats-show.json) |
+| Bad Roads | 256432 | [256432-bad-roads.json](./256432-bad-roads.json) |
 | Bad Sector 3 | 371265 | [371265-bad-sector-3.json](./371265-bad-sector-3.json) |
 | Bad Soccer Manager | 197235 | [197235-bad-soccer-manager.json](./197235-bad-soccer-manager.json) |
 | Bad Stars | 130343 | [130343-bad-stars.json](./130343-bad-stars.json) |
@@ -7752,6 +7753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker | 264223 | [264223-brick-breaker.json](./264223-brick-breaker.json) |
 | Brick Breaker Bunch | 87968 | [87968-brick-breaker-bunch.json](./87968-brick-breaker-bunch.json) |
 | Brick Breaker DEMOLITION | 312645 | [312645-brick-breaker-demolition.json](./312645-brick-breaker-demolition.json) |
+| Brick Breaker Dungeon | 256458 | [256458-brick-breaker-dungeon.json](./256458-brick-breaker-dungeon.json) |
 | Brick Breaker Infinity | 305932 | [305932-brick-breaker-infinity.json](./305932-brick-breaker-infinity.json) |
 | Brick Breaker Lab | 237306 | [237306-brick-breaker-lab.json](./237306-brick-breaker-lab.json) |
 | Brick Breaker Maker | 344515 | [344515-brick-breaker-maker.json](./344515-brick-breaker-maker.json) |
@@ -7765,6 +7767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Building | 166220 | [166220-brick-building.json](./166220-brick-building.json) |
 | Brick City | 214526 | [214526-brick-city.json](./214526-brick-city.json) |
 | Brick Crossy Road | 241613 | [241613-brick-crossy-road.json](./241613-brick-crossy-road.json) |
+| Brick Dungeon | 256457 | [256457-brick-dungeon.json](./256457-brick-dungeon.json) |
 | Brick Exorcist | 344423 | [344423-brick-exorcist.json](./344423-brick-exorcist.json) |
 | Brick Force: Black Knight | 155573 | [155573-brick-force-black-knight.json](./155573-brick-force-black-knight.json) |
 | Brick Force: Navy Soldier | 155572 | [155572-brick-force-navy-soldier.json](./155572-brick-force-navy-soldier.json) |
