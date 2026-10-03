@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | San Andreas Multiplayer | 199038 | [199038-san-andreas-multiplayer.json](./199038-san-andreas-multiplayer.json) |
 | San Diablos | 156995 | [156995-san-diablos.json](./156995-san-diablos.json) |
 | San Diego Zoo Presents: The Animals! | 283392 | [283392-san-diego-zoo-presents-the-animals.json](./283392-san-diego-zoo-presents-the-animals.json) |
+| San Fernando | 247672 | [247672-san-fernando.json](./247672-san-fernando.json) |
 | San Francisco Rush 2049 | 249133 | [249133-san-francisco-rush-2049.json](./249133-san-francisco-rush-2049.json) |
 | San Francisco Rush 2049 | 3596 | [3596-san-francisco-rush-2049.json](./3596-san-francisco-rush-2049.json) |
 | San Francisco Rush: Extreme Racing | 264854 | [264854-san-francisco-rush-extreme-racing.json](./264854-san-francisco-rush-extreme-racing.json) |
@@ -14908,6 +14909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudokuball Detective | 10930 | [10930-sudokuball-detective.json](./10930-sudokuball-detective.json) |
 | SudoKube | 193451 | [193451-sudokube.json](./193451-sudokube.json) |
 | Sudokuro: Sudoku & Kakuro Games | 337677 | [337677-sudokuro-sudoku-and-kakuro-games.json](./337677-sudokuro-sudoku-and-kakuro-games.json) |
+| Suds | 247656 | [247656-suds.json](./247656-suds.json) |
 | Suduce-U | 401066 | [401066-suduce-u.json](./401066-suduce-u.json) |
 | Sue Shi Survival | 219584 | [219584-sue-shi-survival.json](./219584-sue-shi-survival.json) |
 | Sue's Chocolate Candy Maker | 293211 | [293211-sues-chocolate-candy-maker.json](./293211-sues-chocolate-candy-maker.json) |
