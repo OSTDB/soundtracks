@@ -4586,6 +4586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Quest | 227242 | [227242-home-quest.json](./227242-home-quest.json) |
 | Home Renovate 'N Sale | 105789 | [105789-home-renovate-n-sale.json](./105789-home-renovate-n-sale.json) |
 | Home Rescue Clean And Restore Collector's Edition | 399642 | [399642-home-rescue-clean-and-restore-collectors-edition.json](./399642-home-rescue-clean-and-restore-collectors-edition.json) |
+| Home Restoration VR | 264772 | [264772-home-restoration-vr.json](./264772-home-restoration-vr.json) |
 | Home Run Derby | 73330 | [73330-home-run-derby.json](./73330-home-run-derby.json) |
 | Home Run Derby VR | 100337 | [100337-home-run-derby-vr.json](./100337-home-run-derby-vr.json) |
 | Home Run High | 109008 | [109008-home-run-high.json](./109008-home-run-high.json) |
@@ -5919,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Days: Grape Lab | 167181 | [167181-hundred-days-grape-lab.json](./167181-hundred-days-grape-lab.json) |
 | Hundred Days: Napa Valley | 187853 | [187853-hundred-days-napa-valley.json](./187853-hundred-days-napa-valley.json) |
 | Hundred Fires: Episode 2 | 412547 | [412547-hundred-fires-episode-2.json](./412547-hundred-fires-episode-2.json) |
+| Hundred Fires: The Rising of Red Star - Episode 3 | 264808 | [264808-hundred-fires-the-rising-of-red-star-episode-3.json](./264808-hundred-fires-the-rising-of-red-star-episode-3.json) |
 | Hundred Furious Fist Momoko: Wonderful Pink 2 | 228710 | [228710-hundred-furious-fist-momoko-wonderful-pink-2.json](./228710-hundred-furious-fist-momoko-wonderful-pink-2.json) |
 | Hundred Nights: DIFU | 395236 | [395236-hundred-nights-difu.json](./395236-hundred-nights-difu.json) |
 | Hundred Soul: The Last Savior | 174678 | [174678-hundred-soul-the-last-savior.json](./174678-hundred-soul-the-last-savior.json) |
