@@ -2859,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senua | 405072 | [405072-senua.json](./405072-senua.json) |
 | Seoirye | 257680 | [257680-seoirye.json](./257680-seoirye.json) |
 | Seoul 2033 | 215092 | [215092-seoul-2033.json](./215092-seoul-2033.json) |
+| Seoul Apocalypse | 256454 | [256454-seoul-apocalypse.json](./256454-seoul-apocalypse.json) |
 | Seoul Exorcist 1111 | 347761 | [347761-seoul-exorcist-1111.json](./347761-seoul-exorcist-1111.json) |
 | Seoul Station | 312196 | [312196-seoul-station.json](./312196-seoul-station.json) |
 | Sep's Diner | 159718 | [159718-seps-diner.json](./159718-seps-diner.json) |
@@ -17785,6 +17786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweets and Swipes | 259555 | [259555-sweets-and-swipes.json](./259555-sweets-and-swipes.json) |
 | Sweets Drop | 283721 | [283721-sweets-drop.json](./283721-sweets-drop.json) |
 | Sweets Inc | 290531 | [290531-sweets-inc.json](./290531-sweets-inc.json) |
+| Sweets Mania: Candy Sugar Rush Match 3 Games | 256435 | [256435-sweets-mania-candy-sugar-rush-match-3-games.json](./256435-sweets-mania-candy-sugar-rush-match-3-games.json) |
 | Sweets Swap Classic | 175821 | [175821-sweets-swap-classic.json](./175821-sweets-swap-classic.json) |
 | Sweets' Devil | 398596 | [398596-sweets-devil.json](./398596-sweets-devil.json) |
 | Sweety Kitty | 219560 | [219560-sweety-kitty.json](./219560-sweety-kitty.json) |
