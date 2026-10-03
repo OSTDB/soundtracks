@@ -5066,6 +5066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Swarm Infinity | 167680 | [167680-metal-swarm-infinity.json](./167680-metal-swarm-infinity.json) |
 | Metal Torrent | 67703 | [67703-metal-torrent.json](./67703-metal-torrent.json) |
 | Metal Walker | 49872 | [49872-metal-walker.json](./49872-metal-walker.json) |
+| Metal War | 242008 | [242008-metal-war.json](./242008-metal-war.json) |
 | Metal Wolf | 109171 | [109171-metal-wolf.json](./109171-metal-wolf.json) |
 | Metal World: Street Scraps | 201145 | [201145-metal-world-street-scraps.json](./201145-metal-world-street-scraps.json) |
 | Metal: Hellsinger | 134560 | [134560-metal-hellsinger.json](./134560-metal-hellsinger.json) |
@@ -5350,6 +5351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey & Friends | 198815 | [198815-mickey-and-friends.json](./198815-mickey-and-friends.json) |
 | Mickey & Friends | 198816 | [198816-mickey-and-friends.json](./198816-mickey-and-friends.json) |
 | Mickey Mania 2 | 256371 | [256371-mickey-mania-2.json](./256371-mickey-mania-2.json) |
+| Mickey Mania 7 | 242110 | [242110-mickey-mania-7.json](./242110-mickey-mania-7.json) |
 | Mickey Mania: The Timeless Adventures of Mickey Mouse | 256366 | [256366-mickey-mania-the-timeless-adventures-of-mickey-mouse.json](./256366-mickey-mania-the-timeless-adventures-of-mickey-mouse.json) |
 | Mickey Mania: The Timeless Adventures of Mickey Mouse | 256367 | [256367-mickey-mania-the-timeless-adventures-of-mickey-mouse.json](./256367-mickey-mania-the-timeless-adventures-of-mickey-mouse.json) |
 | Mickey Mouse | 153449 | [153449-mickey-mouse.json](./153449-mickey-mouse.json) |
