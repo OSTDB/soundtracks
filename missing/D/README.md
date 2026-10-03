@@ -1427,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day Trader Tycoon | 386890 | [386890-day-trader-tycoon.json](./386890-day-trader-tycoon.json) |
 | Day Zero | 330904 | [330904-day-zero.json](./330904-day-zero.json) |
 | Day Zero | 360201 | [360201-day-zero.json](./360201-day-zero.json) |
+| Day_000 | 261981 | [261981-day-000.json](./261981-day-000.json) |
 | Daybreak | 217245 | [217245-daybreak.json](./217245-daybreak.json) |
 | Daybreak Legends: Origin | 101069 | [101069-daybreak-legends-origin.json](./101069-daybreak-legends-origin.json) |
 | Daybreakers | 259062 | [259062-daybreakers.json](./259062-daybreakers.json) |
@@ -3975,6 +3976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devwill Too ZX | 333924 | [333924-devwill-too-zx.json](./333924-devwill-too-zx.json) |
 | Devyat' princev Ambera | 305174 | [305174-devyat-princev-ambera.json](./305174-devyat-princev-ambera.json) |
 | Dew | 343439 | [343439-dew.json](./343439-dew.json) |
+| Dewborne Dawn | 261982 | [261982-dewborne-dawn.json](./261982-dewborne-dawn.json) |
 | Dewdrop | 365857 | [365857-dewdrop.json](./365857-dewdrop.json) |
 | Dewdrop | 379048 | [379048-dewdrop.json](./379048-dewdrop.json) |
 | Dewdrop Dynasty | 144260 | [144260-dewdrop-dynasty.json](./144260-dewdrop-dynasty.json) |
@@ -4084,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Painting ASMR: Fun & Cute | 309076 | [309076-diamond-painting-asmr-fun-and-cute.json](./309076-diamond-painting-asmr-fun-and-cute.json) |
 | Diamond Run | 305745 | [305745-diamond-run.json](./305745-diamond-run.json) |
 | Diamond Runway | 398417 | [398417-diamond-runway.json](./398417-diamond-runway.json) |
+| Diamond Rush | 261986 | [261986-diamond-rush.json](./261986-diamond-rush.json) |
 | Diamond Skee-Ball | 209611 | [209611-diamond-skee-ball.json](./209611-diamond-skee-ball.json) |
 | Diamond Star Adventure | 378294 | [378294-diamond-star-adventure.json](./378294-diamond-star-adventure.json) |
 | Diamond Trust of London | 9138 | [9138-diamond-trust-of-london.json](./9138-diamond-trust-of-london.json) |
