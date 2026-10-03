@@ -8452,6 +8452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psikyo Shooting Stars Bravo | 121652 | [121652-psikyo-shooting-stars-bravo.json](./121652-psikyo-shooting-stars-bravo.json) |
 | Psikyo Shooting Stars Bravo: Limited Edition | 136265 | [136265-psikyo-shooting-stars-bravo-limited-edition.json](./136265-psikyo-shooting-stars-bravo-limited-edition.json) |
 | Psikyo: Shooting Library Vol. 2 | 136951 | [136951-psikyo-shooting-library-vol-2.json](./136951-psikyo-shooting-library-vol-2.json) |
+| Psionic Awake | 235376 | [235376-psionic-awake.json](./235376-psionic-awake.json) |
 | Psionic Sentry: Infinite | 276191 | [276191-psionic-sentry-infinite.json](./276191-psionic-sentry-infinite.json) |
 | Psiplex | 305981 | [305981-psiplex.json](./305981-psiplex.json) |
 | PSN Protector | 320978 | [320978-psn-protector.json](./320978-psn-protector.json) |
@@ -8880,6 +8881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purgatory Pitstop | 390774 | [390774-purgatory-pitstop.json](./390774-purgatory-pitstop.json) |
 | Purgatory Survivors | 298048 | [298048-purgatory-survivors.json](./298048-purgatory-survivors.json) |
 | Purgatory: Echoes From the Void | 58246 | [58246-purgatory-echoes-from-the-void.json](./58246-purgatory-echoes-from-the-void.json) |
+| Purgatory: Mark's Creepy Story | 235291 | [235291-purgatory-marks-creepy-story.json](./235291-purgatory-marks-creepy-story.json) |
 | Purge: Three vs Blood | 190975 | [190975-purge-three-vs-blood.json](./190975-purge-three-vs-blood.json) |
 | Puri-Puri | 177935 | [177935-puri-puri.json](./177935-puri-puri.json) |
 | Purified | 374255 | [374255-purified.json](./374255-purified.json) |
