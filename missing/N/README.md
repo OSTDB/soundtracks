@@ -1080,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko's Rage | 251840 | [251840-nekos-rage.json](./251840-nekos-rage.json) |
 | Nekobabaa: Melonbooks Omake Tokubetsu-hen | 212253 | [212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json](./212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json) |
 | NekoBooM! | 102334 | [102334-nekoboom.json](./102334-nekoboom.json) |
+| NekoBop | 234125 | [234125-nekobop.json](./234125-nekobop.json) |
 | Nekoburo: Cats Block | 20024 | [20024-nekoburo-cats-block.json](./20024-nekoburo-cats-block.json) |
 | NekoChan Hero Collection | 210754 | [210754-nekochan-hero-collection.json](./210754-nekochan-hero-collection.json) |
 | NekoCharm | 111227 | [111227-nekocharm.json](./111227-nekocharm.json) |
