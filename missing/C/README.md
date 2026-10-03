@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Kellmore | 342814 | [342814-castle-kellmore.json](./342814-castle-kellmore.json) |
 | Castle Kingdom Wars | 238490 | [238490-castle-kingdom-wars.json](./238490-castle-kingdom-wars.json) |
 | Castle Master TD | 270165 | [270165-castle-master-td.json](./270165-castle-master-td.json) |
+| Castle Nevermore | 274154 | [274154-castle-nevermore.json](./274154-castle-nevermore.json) |
 | Castle of Alchemists | 191808 | [191808-castle-of-alchemists.json](./191808-castle-of-alchemists.json) |
 | Castle of Asleep | 315503 | [315503-castle-of-asleep.json](./315503-castle-of-asleep.json) |
 | Castle of Awa | 104089 | [104089-castle-of-awa.json](./104089-castle-of-awa.json) |
@@ -3182,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chenmo de Xishuai | 250445 | [250445-chenmo-de-xishuai.json](./250445-chenmo-de-xishuai.json) |
 | Chenso Club | 144895 | [144895-chenso-club.json](./144895-chenso-club.json) |
 | Cheogsh | 255781 | [255781-cheogsh.json](./255781-cheogsh.json) |
+| Cheogsh 2 | 274117 | [274117-cheogsh-2.json](./274117-cheogsh-2.json) |
 | Cheollang Yeoljeon | 145657 | [145657-cheollang-yeoljeon.json](./145657-cheollang-yeoljeon.json) |
 | Cheongchunhyang Jeon | 404824 | [404824-cheongchunhyang-jeon.json](./404824-cheongchunhyang-jeon.json) |
 | Cheonnyeon | 361306 | [361306-cheonnyeon.json](./361306-cheonnyeon.json) |
@@ -4305,6 +4307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinnamoroll: Ohanashi Shiyo!: Kirakira de Kore Cafe | 240908 | [240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json](./240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json) |
 | Cions of Vega | 149925 | [149925-cions-of-vega.json](./149925-cions-of-vega.json) |
 | Cipher | 178494 | [178494-cipher.json](./178494-cipher.json) |
+| Cipher | 274123 | [274123-cipher.json](./274123-cipher.json) |
 | Cipher Monk | 286034 | [286034-cipher-monk.json](./286034-cipher-monk.json) |
 | Cipher Zero | 252691 | [252691-cipher-zero.json](./252691-cipher-zero.json) |
 | Ciphercell | 144753 | [144753-ciphercell.json](./144753-ciphercell.json) |
@@ -6570,6 +6573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confusion Readily Achieved Perspectively Through Unrealistic Relative Dimensions | 283740 | [283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json](./283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json) |
 | Conga Master | 24445 | [24445-conga-master.json](./24445-conga-master.json) |
 | Congestion 1024 | 196247 | [196247-congestion-1024.json](./196247-congestion-1024.json) |
+| Congestion Control | 274152 | [274152-congestion-control.json](./274152-congestion-control.json) |
 | Conglomerate 451: Overloaded | 151596 | [151596-conglomerate-451-overloaded.json](./151596-conglomerate-451-overloaded.json) |
 | Congo Bongo | 282063 | [282063-congo-bongo.json](./282063-congo-bongo.json) |
 | Congo Bongo | 5669 | [5669-congo-bongo.json](./5669-congo-bongo.json) |
@@ -9040,6 +9044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
 | Crusaders Quest: Hero Town | 397208 | [397208-crusaders-quest-hero-town.json](./397208-crusaders-quest-hero-town.json) |
 | Crusaders: Thy Kingdom Come | 2011 | [2011-crusaders-thy-kingdom-come.json](./2011-crusaders-thy-kingdom-come.json) |
+| Crusades | 274149 | [274149-crusades.json](./274149-crusades.json) |
 | CrusaDoom | 310608 | [310608-crusadoom.json](./310608-crusadoom.json) |
 | Crush | 6753 | [6753-crush.json](./6753-crush.json) |
 | Crush & Squash | 75805 | [75805-crush-and-squash.json](./75805-crush-and-squash.json) |
