@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'll Be Back to the Future with a Terminator | 395714 | [395714-ill-be-back-to-the-future-with-a-terminator.json](./395714-ill-be-back-to-the-future-with-a-terminator.json) |
 | I'll Be Home With You | 360145 | [360145-ill-be-home-with-you.json](./360145-ill-be-home-with-you.json) |
 | I'll Do It Tomorrow | 278990 | [278990-ill-do-it-tomorrow.json](./278990-ill-do-it-tomorrow.json) |
+| I'll Kill Her | 245899 | [245899-ill-kill-her.json](./245899-ill-kill-her.json) |
 | I'll Put You In Debt | 82856 | [82856-ill-put-you-in-debt.json](./82856-ill-put-you-in-debt.json) |
 | I'll respond to that later | 183970 | [183970-ill-respond-to-that-later.json](./183970-ill-respond-to-that-later.json) |
 | I'm a cowboy: Western Shooter | 173226 | [173226-im-a-cowboy-western-shooter.json](./173226-im-a-cowboy-western-shooter.json) |
@@ -1779,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industring | 303577 | [303577-industring.json](./303577-industring.json) |
 | Industrious | 146813 | [146813-industrious.json](./146813-industrious.json) |
 | Industriworks | 126603 | [126603-industriworks.json](./126603-industriworks.json) |
+| Industrix | 245989 | [245989-industrix.json](./245989-industrix.json) |
 | Industry Empire | 17209 | [17209-industry-empire.json](./17209-industry-empire.json) |
 | Industry Giant | 9910 | [9910-industry-giant.json](./9910-industry-giant.json) |
 | Industry Giant 2 - Gold 2012 | 53228 | [53228-industry-giant-2-gold-2012.json](./53228-industry-giant-2-gold-2012.json) |
