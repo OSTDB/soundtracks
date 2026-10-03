@@ -3465,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lodoss-tou Senki: Eiyuu Kishiden GB | 80222 | [80222-lodoss-tou-senki-eiyuu-kishiden-gb.json](./80222-lodoss-tou-senki-eiyuu-kishiden-gb.json) |
 | Lodoss-tou Senki: Fuku Zinduke | 66143 | [66143-lodoss-tou-senki-fuku-zinduke.json](./66143-lodoss-tou-senki-fuku-zinduke.json) |
 | Lodventure | 190475 | [190475-lodventure.json](./190475-lodventure.json) |
+| Loe: Legend of Enomoto | 278072 | [278072-loe-legend-of-enomoto.json](./278072-loe-legend-of-enomoto.json) |
 | Lofelia's Cozy Corner | 416097 | [416097-lofelias-cozy-corner.json](./416097-lofelias-cozy-corner.json) |
 | Lofi Ball | 256276 | [256276-lofi-ball.json](./256276-lofi-ball.json) |
 | Lofi Ball: Dessert | 255981 | [255981-lofi-ball-dessert.json](./255981-lofi-ball-dessert.json) |
