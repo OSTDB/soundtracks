@@ -2078,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of the Four Towers | 368012 | [368012-battle-of-the-four-towers.json](./368012-battle-of-the-four-towers.json) |
 | Battle of the Immortals | 51218 | [51218-battle-of-the-immortals.json](./51218-battle-of-the-immortals.json) |
 | Battle of the Lexicon Lords | 294720 | [294720-battle-of-the-lexicon-lords.json](./294720-battle-of-the-lexicon-lords.json) |
+| Battle of the Youstrass | 229213 | [229213-battle-of-the-youstrass.json](./229213-battle-of-the-youstrass.json) |
 | Battle of Tiles | 66661 | [66661-battle-of-tiles.json](./66661-battle-of-tiles.json) |
 | Battle of Tiles Ex | 99552 | [99552-battle-of-tiles-ex.json](./99552-battle-of-tiles-ex.json) |
 | Battle of Titans | 125849 | [125849-battle-of-titans.json](./125849-battle-of-titans.json) |
@@ -3040,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetles | 163819 | [163819-beetles.json](./163819-beetles.json) |
 | Befabled | 183477 | [183477-befabled.json](./183477-befabled.json) |
 | Before | 380013 | [380013-before.json](./380013-before.json) |
+| Before Dawn | 229101 | [229101-before-dawn.json](./229101-before-dawn.json) |
 | Before Exit: Gas Station - Daylight DLC | 378305 | [378305-before-exit-gas-station-daylight-dlc.json](./378305-before-exit-gas-station-daylight-dlc.json) |
 | Before Exit: Gas Station - Midnight DLC | 378304 | [378304-before-exit-gas-station-midnight-dlc.json](./378304-before-exit-gas-station-midnight-dlc.json) |
 | Before Fate | 205248 | [205248-before-fate.json](./205248-before-fate.json) |
@@ -3270,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath | 240509 | [240509-beneath.json](./240509-beneath.json) |
 | Beneath & Beyond | 273367 | [273367-beneath-and-beyond.json](./273367-beneath-and-beyond.json) |
 | Beneath a Dead City | 327406 | [327406-beneath-a-dead-city.json](./327406-beneath-a-dead-city.json) |
+| Beneath Folly | 229214 | [229214-beneath-folly.json](./229214-beneath-folly.json) |
 | Beneath Paris | 406793 | [406793-beneath-paris.json](./406793-beneath-paris.json) |
 | Beneath the Backrooms | 273368 | [273368-beneath-the-backrooms.json](./273368-beneath-the-backrooms.json) |
 | Beneath the Bell | 333156 | [333156-beneath-the-bell.json](./333156-beneath-the-bell.json) |
@@ -4307,6 +4310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds'n'Blocks | 88843 | [88843-birdsnblocks.json](./88843-birdsnblocks.json) |
 | Birds'n'Blocks 2 | 87694 | [87694-birdsnblocks-2.json](./87694-birdsnblocks-2.json) |
 | Birdtale | 284002 | [284002-birdtale.json](./284002-birdtale.json) |
+| Birdwatcher | 229215 | [229215-birdwatcher.json](./229215-birdwatcher.json) |
 | Birdwatcher | 314969 | [314969-birdwatcher.json](./314969-birdwatcher.json) |
 | Birdwatching | 390738 | [390738-birdwatching.json](./390738-birdwatching.json) |
 | Birkanoid | 178547 | [178547-birkanoid.json](./178547-birkanoid.json) |
@@ -4571,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Dragon | 38590 | [38590-black-dragon.json](./38590-black-dragon.json) |
 | Black Dust | 318211 | [318211-black-dust.json](./318211-black-dust.json) |
 | Black Emperor | 125471 | [125471-black-emperor.json](./125471-black-emperor.json) |
+| Black Eyes | 229102 | [229102-black-eyes.json](./229102-black-eyes.json) |
 | Black Fairy | 325841 | [325841-black-fairy.json](./325841-black-fairy.json) |
 | Black Fighter: Super Shadow Fight | 103887 | [103887-black-fighter-super-shadow-fight.json](./103887-black-fighter-super-shadow-fight.json) |
 | Black Fire | 46087 | [46087-black-fire.json](./46087-black-fire.json) |
@@ -6048,6 +6053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blur time | 60790 | [60790-blur-time.json](./60790-blur-time.json) |
 | Blurred Weird Night | 150647 | [150647-blurred-weird-night.json](./150647-blurred-weird-night.json) |
 | Blurry Shopping | 381098 | [381098-blurry-shopping.json](./381098-blurry-shopping.json) |
+| Blut Club | 229103 | [229103-blut-club.json](./229103-blut-club.json) |
 | Blyte | 358867 | [358867-blyte.json](./358867-blyte.json) |
 | Blythe | 287904 | [287904-blythe.json](./287904-blythe.json) |
 | Blyx | 272859 | [272859-blyx.json](./272859-blyx.json) |
@@ -6544,6 +6550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
 | Bones of the Earth | 362880 | [362880-bones-of-the-earth.json](./362880-bones-of-the-earth.json) |
 | Bones: Lab Panic | 58811 | [58811-bones-lab-panic.json](./58811-bones-lab-panic.json) |
+| Bones: The Game of the Haunted Mansion | 229105 | [229105-bones-the-game-of-the-haunted-mansion.json](./229105-bones-the-game-of-the-haunted-mansion.json) |
 | Bones: Wandering Soul | 347678 | [347678-bones-wandering-soul.json](./347678-bones-wandering-soul.json) |
 | Bonesaw | 316799 | [316799-bonesaw.json](./316799-bonesaw.json) |
 | Bonesaw: The Game | 65432 | [65432-bonesaw-the-game.json](./65432-bonesaw-the-game.json) |
