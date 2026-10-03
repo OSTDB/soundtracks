@@ -2103,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadzone: Rogue - Apophis | 373616 | [373616-deadzone-rogue-apophis.json](./373616-deadzone-rogue-apophis.json) |
 | DeadZone: Survival Ops Zombie Shooter & WW2 Soldiers of Honor - Warzone Assault | 393065 | [393065-deadzone-survival-ops-zombie-shooter-and-ww2-soldiers-of-honor-warzone-assault.json](./393065-deadzone-survival-ops-zombie-shooter-and-ww2-soldiers-of-honor-warzone-assault.json) |
 | DeafBlind | 302434 | [302434-deafblind.json](./302434-deafblind.json) |
+| Deal & Wheeler | 241457 | [241457-deal-and-wheeler.json](./241457-deal-and-wheeler.json) |
 | Deal of the Dead Final Cut | 292769 | [292769-deal-of-the-dead-final-cut.json](./292769-deal-of-the-dead-final-cut.json) |
 | Deal or No Deal | 220081 | [220081-deal-or-no-deal.json](./220081-deal-or-no-deal.json) |
 | Deal or No Deal | 233990 | [233990-deal-or-no-deal.json](./233990-deal-or-no-deal.json) |
@@ -7082,6 +7083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Signal's Strange Machine | 194415 | [194415-dr-signals-strange-machine.json](./194415-dr-signals-strange-machine.json) |
 | Dr. Slump | 44828 | [44828-dr-slump.json](./44828-dr-slump.json) |
 | Dr. Slump: Arale-chan | 138108 | [138108-dr-slump-arale-chan.json](./138108-dr-slump-arale-chan.json) |
+| Dr. Smart Space Adventure: In the Space | 241413 | [241413-dr-smart-space-adventure-in-the-space.json](./241413-dr-smart-space-adventure-in-the-space.json) |
 | Dr. Stanley's House I | 141091 | [141091-dr-stanleys-house-i.json](./141091-dr-stanleys-house-i.json) |
 | Dr. Stone Battle Craft | 278451 | [278451-dr-stone-battle-craft.json](./278451-dr-stone-battle-craft.json) |
 | Dr. Stop! | 68730 | [68730-dr-stop.json](./68730-dr-stop.json) |
