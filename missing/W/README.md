@@ -3290,6 +3290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches & Woodlands | 275595 | [275595-witches-and-woodlands.json](./275595-witches-and-woodlands.json) |
 | Witches Legacy: Slumbering Darkness & Dark Throne | 201824 | [201824-witches-legacy-slumbering-darkness-and-dark-throne.json](./201824-witches-legacy-slumbering-darkness-and-dark-throne.json) |
 | Witches Weed | 268497 | [268497-witches-weed.json](./268497-witches-weed.json) |
+| Witches X Warlocks: Lawrence's Route | 252913 | [252913-witches-x-warlocks-lawrences-route.json](./252913-witches-x-warlocks-lawrences-route.json) |
 | Witches' Legacy: Awakening Darkness HD (Full) | 89986 | [89986-witches-legacy-awakening-darkness-hd-full.json](./89986-witches-legacy-awakening-darkness-hd-full.json) |
 | Witches' Legacy: Hunter and the Hunted - Collector's Edition | 89945 | [89945-witches-legacy-hunter-and-the-hunted-collectors-edition.json](./89945-witches-legacy-hunter-and-the-hunted-collectors-edition.json) |
 | Witches' Legacy: Hunter and the Hunted HD | 101583 | [101583-witches-legacy-hunter-and-the-hunted-hd.json](./101583-witches-legacy-hunter-and-the-hunted-hd.json) |
