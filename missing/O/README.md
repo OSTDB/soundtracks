@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obcidian Legacy | 30004 | [30004-obcidian-legacy.json](./30004-obcidian-legacy.json) |
 | Obec | 349397 | [349397-obec.json](./349397-obec.json) |
 | Obedient Servant | 213442 | [213442-obedient-servant.json](./213442-obedient-servant.json) |
+| Obeebok | 266395 | [266395-obeebok.json](./266395-obeebok.json) |
 | Obelisk | 130194 | [130194-obelisk.json](./130194-obelisk.json) |
 | Obelus Manor | 374844 | [374844-obelus-manor.json](./374844-obelus-manor.json) |
 | Obenseuer | 111983 | [111983-obenseuer.json](./111983-obenseuer.json) |
