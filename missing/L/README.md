@@ -3710,6 +3710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonesome Road | 349408 | [349408-lonesome-road.json](./349408-lonesome-road.json) |
 | LoneStar | 264933 | [264933-lonestar.json](./264933-lonestar.json) |
 | Lonewolf | 113977 | [113977-lonewolf.json](./113977-lonewolf.json) |
+| Lonewolf: Zombie FPS 3D | 240939 | [240939-lonewolf-zombie-fps-3d.json](./240939-lonewolf-zombie-fps-3d.json) |
 | Long | 249755 | [249755-long.json](./249755-long.json) |
 | Long | 292006 | [292006-long.json](./292006-long.json) |
 | Long Arm of the Law | 111863 | [111863-long-arm-of-the-law.json](./111863-long-arm-of-the-law.json) |
