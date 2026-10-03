@@ -7294,6 +7294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMW The Crown Tale | 267957 | [267957-smw-the-crown-tale.json](./267957-smw-the-crown-tale.json) |
 | SMW The Princess Rescue | 222890 | [222890-smw-the-princess-rescue.json](./222890-smw-the-princess-rescue.json) |
 | SMW The Princess Rescue 2: Luigi's Journey! | 222889 | [222889-smw-the-princess-rescue-2-luigis-journey.json](./222889-smw-the-princess-rescue-2-luigis-journey.json) |
+| SMW2+3: The Essence Star | 268099 | [268099-smw2-3-the-essence-star.json](./268099-smw2-3-the-essence-star.json) |
 | SMWLV | 267974 | [267974-smwlv.json](./267974-smwlv.json) |
 | SMYS: Classic | 292308 | [292308-smys-classic.json](./292308-smys-classic.json) |
 | SMYS: Classic - Costumes | 298253 | [298253-smys-classic-costumes.json](./298253-smys-classic-costumes.json) |
@@ -16061,6 +16062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Kart DS | 198450 | [198450-super-mario-kart-ds.json](./198450-super-mario-kart-ds.json) |
 | Super Mario Kart in Sonic Mania+ | 317419 | [317419-super-mario-kart-in-sonic-mania.json](./317419-super-mario-kart-in-sonic-mania.json) |
 | Super Mario Kart NES | 250038 | [250038-super-mario-kart-nes.json](./250038-super-mario-kart-nes.json) |
+| Super Mario Kart Reversed | 268101 | [268101-super-mario-kart-reversed.json](./268101-super-mario-kart-reversed.json) |
 | Super Mario Kart Xtreme | 311285 | [311285-super-mario-kart-xtreme.json](./311285-super-mario-kart-xtreme.json) |
 | Super Mario Kart: 64 Reverse Remake | 198457 | [198457-super-mario-kart-64-reverse-remake.json](./198457-super-mario-kart-64-reverse-remake.json) |
 | Super Mario Kart: Double Dash Reverse Remake | 198453 | [198453-super-mario-kart-double-dash-reverse-remake.json](./198453-super-mario-kart-double-dash-reverse-remake.json) |
@@ -16144,6 +16146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World Widescreen | 165069 | [165069-super-mario-world-widescreen.json](./165069-super-mario-world-widescreen.json) |
 | Super Mario World: 2025 | 365286 | [365286-super-mario-world-2025.json](./365286-super-mario-world-2025.json) |
 | Super Mario World: A Haunted Christmas | 223023 | [223023-super-mario-world-a-haunted-christmas.json](./223023-super-mario-world-a-haunted-christmas.json) |
+| Super Mario World: A Super Mario Adventure | 268102 | [268102-super-mario-world-a-super-mario-adventure.json](./268102-super-mario-world-a-super-mario-adventure.json) |
 | Super Mario World: Bowser's Return | 222278 | [222278-super-mario-world-bowsers-return.json](./222278-super-mario-world-bowsers-return.json) |
 | Super Mario World: Mario to Yoshi no Bouken Land | 230281 | [230281-super-mario-world-mario-to-yoshi-no-bouken-land.json](./230281-super-mario-world-mario-to-yoshi-no-bouken-land.json) |
 | Super Mario World: Return to Dinosaur Land | 42525 | [42525-super-mario-world-return-to-dinosaur-land.json](./42525-super-mario-world-return-to-dinosaur-land.json) |
