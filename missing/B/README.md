@@ -2207,6 +2207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 2: Armored Fury | 3814 | [3814-battlefield-2-armored-fury.json](./3814-battlefield-2-armored-fury.json) |
 | Battlefield 2: Complete Collection | 41885 | [41885-battlefield-2-complete-collection.json](./41885-battlefield-2-complete-collection.json) |
 | Battlefield 2: Special Forces | 347 | [347-battlefield-2-special-forces.json](./347-battlefield-2-special-forces.json) |
+| Battlefield 2042: Elite Edition | 251109 | [251109-battlefield-2042-elite-edition.json](./251109-battlefield-2042-elite-edition.json) |
 | Battlefield 2042: Gold Edition | 169199 | [169199-battlefield-2042-gold-edition.json](./169199-battlefield-2042-gold-edition.json) |
 | Battlefield 2042: Ultimate Edition | 169198 | [169198-battlefield-2042-ultimate-edition.json](./169198-battlefield-2042-ultimate-edition.json) |
 | Battlefield 2042: Year 1 Pass | 293915 | [293915-battlefield-2042-year-1-pass.json](./293915-battlefield-2042-year-1-pass.json) |
@@ -5353,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block+Hole | 366424 | [366424-block-hole.json](./366424-block-hole.json) |
 | Blockade | 116295 | [116295-blockade.json](./116295-blockade.json) |
 | Blockade | 18118 | [18118-blockade.json](./18118-blockade.json) |
+| Blockade | 251070 | [251070-blockade.json](./251070-blockade.json) |
 | Blockade | 362428 | [362428-blockade.json](./362428-blockade.json) |
 | Blockade Runner | 23864 | [23864-blockade-runner.json](./23864-blockade-runner.json) |
 | Blockade Runner | 297244 | [297244-blockade-runner.json](./297244-blockade-runner.json) |
@@ -7288,6 +7290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Puzzles Bundle 12 in 1 | 301533 | [301533-brain-puzzles-bundle-12-in-1.json](./301533-brain-puzzles-bundle-12-in-1.json) |
 | Brain Quest Grades 3 & 4 | 68941 | [68941-brain-quest-grades-3-and-4.json](./68941-brain-quest-grades-3-and-4.json) |
 | Brain Quest Grades 5 & 6 | 68940 | [68940-brain-quest-grades-5-and-6.json](./68940-brain-quest-grades-5-and-6.json) |
+| Brain Rot Excellence | 251062 | [251062-brain-rot-excellence.json](./251062-brain-rot-excellence.json) |
 | Brain Sanguo | 158666 | [158666-brain-sanguo.json](./158666-brain-sanguo.json) |
 | Brain Show | 247976 | [247976-brain-show.json](./247976-brain-show.json) |
 | Brain Spa | 69207 | [69207-brain-spa.json](./69207-brain-spa.json) |
