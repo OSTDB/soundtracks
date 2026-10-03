@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wales Interactive VR Bundle | 119086 | [119086-wales-interactive-vr-bundle.json](./119086-wales-interactive-vr-bundle.json) |
 | Walfie's Nonograms | 389599 | [389599-walfies-nonograms.json](./389599-walfies-nonograms.json) |
 | Waligie 3: On Mars | 318032 | [318032-waligie-3-on-mars.json](./318032-waligie-3-on-mars.json) |
+| Walk and Stroll | 239728 | [239728-walk-and-stroll.json](./239728-walk-and-stroll.json) |
 | Walk Around And Do Nothing | 392358 | [392358-walk-around-and-do-nothing.json](./392358-walk-around-and-do-nothing.json) |
 | Walk Around the World | 414532 | [414532-walk-around-the-world.json](./414532-walk-around-the-world.json) |
 | Walk Home | 183069 | [183069-walk-home.json](./183069-walk-home.json) |
@@ -1267,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Sports | 5262 | [5262-water-sports.json](./5262-water-sports.json) |
 | Water Star Adventure | 215770 | [215770-water-star-adventure.json](./215770-water-star-adventure.json) |
 | Water Surfer Bus | 202766 | [202766-water-surfer-bus.json](./202766-water-surfer-bus.json) |
+| Water Tank | 239718 | [239718-water-tank.json](./239718-water-tank.json) |
 | Water Tower | 336384 | [336384-water-tower.json](./336384-water-tower.json) |
 | Water You Doing? | 406878 | [406878-water-you-doing.json](./406878-water-you-doing.json) |
 | Water: Transformer | 303048 | [303048-water-transformer.json](./303048-water-transformer.json) |
@@ -4184,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of JumpStart | 254465 | [254465-world-of-jumpstart.json](./254465-world-of-jumpstart.json) |
 | World of Leaders | 36140 | [36140-world-of-leaders.json](./36140-world-of-leaders.json) |
 | World of Legends | 115461 | [115461-world-of-legends.json](./115461-world-of-legends.json) |
+| World of Mana | 239710 | [239710-world-of-mana.json](./239710-world-of-mana.json) |
 | World of Mines: Creators Edition | 235206 | [235206-world-of-mines-creators-edition.json](./235206-world-of-mines-creators-edition.json) |
 | World of Mixed Martial Arts 4 | 58187 | [58187-world-of-mixed-martial-arts-4.json](./58187-world-of-mixed-martial-arts-4.json) |
 | World of Mixed Martial Arts 5 | 125436 | [125436-world-of-mixed-martial-arts-5.json](./125436-world-of-mixed-martial-arts-5.json) |
