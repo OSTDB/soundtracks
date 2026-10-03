@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZoneDriver | 76558 | [76558-zonedriver.json](./76558-zonedriver.json) |
 | ZoneRacer | 331441 | [331441-zoneracer.json](./331441-zoneracer.json) |
 | Zoners | 167716 | [167716-zoners.json](./167716-zoners.json) |
+| Zones of Fear | 274119 | [274119-zones-of-fear.json](./274119-zones-of-fear.json) |
 | Zonic 4 My New Life Turbo HD Remastered Edition | 322594 | [322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json](./322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json) |
 | Zoo Animals ~ Touch, Look, Listen | 89706 | [89706-zoo-animals-touch-look-listen.json](./89706-zoo-animals-touch-look-listen.json) |
 | Zoo at Midnight | 312231 | [312231-zoo-at-midnight.json](./312231-zoo-at-midnight.json) |
