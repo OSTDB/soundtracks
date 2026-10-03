@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Sports: 2001 Pro Yakyuu | 58511 | [58511-magical-sports-2001-pro-yakyuu.json](./58511-magical-sports-2001-pro-yakyuu.json) |
 | Magical Spot | 40365 | [40365-magical-spot.json](./40365-magical-spot.json) |
 | Magical Spot II | 40364 | [40364-magical-spot-ii.json](./40364-magical-spot-ii.json) |
+| Magical Squadron | 263691 | [263691-magical-squadron.json](./263691-magical-squadron.json) |
 | Magical Star Pillars | 87976 | [87976-magical-star-pillars.json](./87976-magical-star-pillars.json) |
 | Magical Starsign | 15839 | [15839-magical-starsign.json](./15839-magical-starsign.json) |
 | Magical Stick Girl Miracle Kurun | 125427 | [125427-magical-stick-girl-miracle-kurun.json](./125427-magical-stick-girl-miracle-kurun.json) |
@@ -7805,6 +7806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Claws 5 | 357408 | [357408-monster-claws-5.json](./357408-monster-claws-5.json) |
 | Monster Clicker : Idle Halloween Strategy | 111862 | [111862-monster-clicker-idle-halloween-strategy.json](./111862-monster-clicker-idle-halloween-strategy.json) |
 | Monster Club | 185144 | [185144-monster-club.json](./185144-monster-club.json) |
+| Monster Collection: Kamen no Madoushi | 263695 | [263695-monster-collection-kamen-no-madoushi.json](./263695-monster-collection-kamen-no-madoushi.json) |
 | Monster Collections Plus | 265842 | [265842-monster-collections-plus.json](./265842-monster-collections-plus.json) |
 | Monster Collector | 143647 | [143647-monster-collector.json](./143647-monster-collector.json) |
 | Monster Combine TD | 85615 | [85615-monster-combine-td.json](./85615-monster-combine-td.json) |
