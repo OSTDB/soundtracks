@@ -560,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XXZ: XXL - Squad Trial | 170507 | [170507-xxz-xxl-squad-trial.json](./170507-xxz-xxl-squad-trial.json) |
 | Xyanide Resurrection | 43342 | [43342-xyanide-resurrection.json](./43342-xyanide-resurrection.json) |
 | Xyla and the 'Shrooms of Doom | 129696 | [129696-xyla-and-the-shrooms-of-doom.json](./129696-xyla-and-the-shrooms-of-doom.json) |
+| Xyleron | 257556 | [257556-xyleron.json](./257556-xyleron.json) |
 | Xyonix | 39807 | [39807-xyonix.json](./39807-xyonix.json) |
 | Xyphoe's Nightmare | 402885 | [402885-xyphoes-nightmare.json](./402885-xyphoes-nightmare.json) |
 | Xyphoe’s Nightmare | 354587 | [354587-xyphoe-s-nightmare.json](./354587-xyphoe-s-nightmare.json) |
