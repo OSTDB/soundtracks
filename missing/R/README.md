@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raising the Bar: Salvation | 281376 | [281376-raising-the-bar-salvation.json](./281376-raising-the-bar-salvation.json) |
 | Raising Torolith | 152885 | [152885-raising-torolith.json](./152885-raising-torolith.json) |
 | Raji: An Ancient Epic - Enhanced Edition | 152175 | [152175-raji-an-ancient-epic-enhanced-edition.json](./152175-raji-an-ancient-epic-enhanced-edition.json) |
+| Rake Remastered | 267007 | [267007-rake-remastered.json](./267007-rake-remastered.json) |
 | Raketenwashmachine | 149439 | [149439-raketenwashmachine.json](./149439-raketenwashmachine.json) |
 | Rakker and the Sinking Cities | 69569 | [69569-rakker-and-the-sinking-cities.json](./69569-rakker-and-the-sinking-cities.json) |
 | Rakoo's Adventure | 25164 | [25164-rakoos-adventure.json](./25164-rakoos-adventure.json) |
@@ -4867,6 +4868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketmen: It Came from Uranus | 41588 | [41588-rocketmen-it-came-from-uranus.json](./41588-rocketmen-it-came-from-uranus.json) |
 | RocketPods | 127975 | [127975-rocketpods.json](./127975-rocketpods.json) |
 | Rockets | 108514 | [108514-rockets.json](./108514-rockets.json) |
+| Rockets, Planes, Soldiers | 267014 | [267014-rockets-planes-soldiers.json](./267014-rockets-planes-soldiers.json) |
 | Rocketship Rescue | 178638 | [178638-rocketship-rescue.json](./178638-rocketship-rescue.json) |
 | RocketsRocketsRockets | 36342 | [36342-rocketsrocketsrockets.json](./36342-rocketsrocketsrockets.json) |
 | Rockett's New School | 65479 | [65479-rocketts-new-school.json](./65479-rocketts-new-school.json) |
