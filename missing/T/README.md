@@ -12391,6 +12391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Pixelia | 239780 | [239780-to-pixelia.json](./239780-to-pixelia.json) |
 | To Save Humanity From Virus | 159816 | [159816-to-save-humanity-from-virus.json](./159816-to-save-humanity-from-virus.json) |
 | To Swat A Fly | 378212 | [378212-to-swat-a-fly.json](./378212-to-swat-a-fly.json) |
+| To Take Root Among the Stars | 234778 | [234778-to-take-root-among-the-stars.json](./234778-to-take-root-among-the-stars.json) |
 | To Tell the Truth | 282570 | [282570-to-tell-the-truth.json](./282570-to-tell-the-truth.json) |
 | To the Basement | 275092 | [275092-to-the-basement.json](./275092-to-the-basement.json) |
 | To the Bridge | 348787 | [348787-to-the-bridge.json](./348787-to-the-bridge.json) |
@@ -13775,6 +13776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Hotline Sanzu | 317239 | [317239-touhou-hotline-sanzu.json](./317239-touhou-hotline-sanzu.json) |
 | Touhou: Kira's Fangame Collection | 411790 | [411790-touhou-kiras-fangame-collection.json](./411790-touhou-kiras-fangame-collection.json) |
 | TouHou: Legend of Fairy Souls | 244730 | [244730-touhou-legend-of-fairy-souls.json](./244730-touhou-legend-of-fairy-souls.json) |
+| Touhou: Lost Children at the Bamboo Forest | 234776 | [234776-touhou-lost-children-at-the-bamboo-forest.json](./234776-touhou-lost-children-at-the-bamboo-forest.json) |
 | Touhou: Red Empress Devil | 225180 | [225180-touhou-red-empress-devil.json](./225180-touhou-red-empress-devil.json) |
 | Touhou: Sougetsu-tou | 284603 | [284603-touhou-sougetsu-tou.json](./284603-touhou-sougetsu-tou.json) |
 | Touhou: Tales of the Scarlet | 379443 | [379443-touhou-tales-of-the-scarlet.json](./379443-touhou-tales-of-the-scarlet.json) |
