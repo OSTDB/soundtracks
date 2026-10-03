@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Day: America Invades | 69911 | [69911-d-day-america-invades.json](./69911-d-day-america-invades.json) |
 | D-Day: Normandy | 180210 | [180210-d-day-normandy.json](./180210-d-day-normandy.json) |
 | D-Day: The Beginning of the End | 12417 | [12417-d-day-the-beginning-of-the-end.json](./12417-d-day-the-beginning-of-the-end.json) |
+| D-List Diva | 270279 | [270279-d-list-diva.json](./270279-d-list-diva.json) |
 | D-Pad Hero | 163218 | [163218-d-pad-hero.json](./163218-d-pad-hero.json) |
 | D-Pad Hero 2 | 48649 | [48649-d-pad-hero-2.json](./48649-d-pad-hero-2.json) |
 | D-Paddle vs. Crankquet | 232463 | [232463-d-paddle-vs-crankquet.json](./232463-d-paddle-vs-crankquet.json) |
@@ -3676,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detach Metroid | 328683 | [328683-detach-metroid.json](./328683-detach-metroid.json) |
 | Detached | 280423 | [280423-detached.json](./280423-detached.json) |
 | Detached: Non-VR Edition | 105080 | [105080-detached-non-vr-edition.json](./105080-detached-non-vr-edition.json) |
+| Detail Detective | 270329 | [270329-detail-detective.json](./270329-detail-detective.json) |
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
 | DeTails | 355129 | [355129-details.json](./355129-details.json) |
 | Detained: Too Good for School | 152148 | [152148-detained-too-good-for-school.json](./152148-detained-too-good-for-school.json) |
@@ -4643,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinoblade | 330174 | [330174-dinoblade.json](./330174-dinoblade.json) |
 | DinoBox | 417416 | [417416-dinobox.json](./417416-dinobox.json) |
 | Dinobreak | 264154 | [264154-dinobreak.json](./264154-dinobreak.json) |
+| Dinobreak Killer Crisis Collection | 270302 | [270302-dinobreak-killer-crisis-collection.json](./270302-dinobreak-killer-crisis-collection.json) |
 | Dinobreak: Chronicles of Horror Collection | 331412 | [331412-dinobreak-chronicles-of-horror-collection.json](./331412-dinobreak-chronicles-of-horror-collection.json) |
 | Dinobreak: Crisis Collection | 331409 | [331409-dinobreak-crisis-collection.json](./331409-dinobreak-crisis-collection.json) |
 | Dinobreak: Gaiden Collection | 334111 | [334111-dinobreak-gaiden-collection.json](./334111-dinobreak-gaiden-collection.json) |
@@ -4935,6 +4938,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 7: Vows of the Virtueless | 214530 | [214530-disgaea-7-vows-of-the-virtueless.json](./214530-disgaea-7-vows-of-the-virtueless.json) |
 | Disgaea 7: Vows of the Virtueless - Bonus Story: The Kind Demon, Singing Princess, and Thief Angel | 270198 | [270198-disgaea-7-vows-of-the-virtueless-bonus-story-the-kind-demon-singing-princess-and-thief-angel.json](./270198-disgaea-7-vows-of-the-virtueless-bonus-story-the-kind-demon-singing-princess-and-thief-angel.json) |
 | Disgaea 7: Vows of the Virtueless - Bonus Story: The Overlord, Demon Lord, and Sheltered Girl | 270076 | [270076-disgaea-7-vows-of-the-virtueless-bonus-story-the-overlord-demon-lord-and-sheltered-girl.json](./270076-disgaea-7-vows-of-the-virtueless-bonus-story-the-overlord-demon-lord-and-sheltered-girl.json) |
+| Disgaea 7: Vows of the Virtueless - Complete Edition | 270296 | [270296-disgaea-7-vows-of-the-virtueless-complete-edition.json](./270296-disgaea-7-vows-of-the-virtueless-complete-edition.json) |
+| Disgaea 7: Vows of the Virtueless - Cosmetic Set | 270298 | [270298-disgaea-7-vows-of-the-virtueless-cosmetic-set.json](./270298-disgaea-7-vows-of-the-virtueless-cosmetic-set.json) |
+| Disgaea 7: Vows of the Virtueless - Costumes Set | 270294 | [270294-disgaea-7-vows-of-the-virtueless-costumes-set.json](./270294-disgaea-7-vows-of-the-virtueless-costumes-set.json) |
+| Disgaea 7: Vows of the Virtueless - Digital Deluxe Edition | 270295 | [270295-disgaea-7-vows-of-the-virtueless-digital-deluxe-edition.json](./270295-disgaea-7-vows-of-the-virtueless-digital-deluxe-edition.json) |
+| Disgaea 7: Vows of the Virtueless - Season Pass | 270287 | [270287-disgaea-7-vows-of-the-virtueless-season-pass.json](./270287-disgaea-7-vows-of-the-virtueless-season-pass.json) |
 | Disgaea Infinite | 21742 | [21742-disgaea-infinite.json](./21742-disgaea-infinite.json) |
 | Disgaea: Hour of Darkness | 11610 | [11610-disgaea-hour-of-darkness.json](./11610-disgaea-hour-of-darkness.json) |
 | Disgrace: When Our Beautiful World Disappears | 377707 | [377707-disgrace-when-our-beautiful-world-disappears.json](./377707-disgrace-when-our-beautiful-world-disappears.json) |
@@ -7602,6 +7610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw and Color: Kawaii - Director's Cut | 250361 | [250361-draw-and-color-kawaii-directors-cut.json](./250361-draw-and-color-kawaii-directors-cut.json) |
 | Draw and Color: Kawaii - Magnificent Edition | 268554 | [268554-draw-and-color-kawaii-magnificent-edition.json](./268554-draw-and-color-kawaii-magnificent-edition.json) |
 | Draw and Color: Kawaii - Platinum Edition | 247589 | [247589-draw-and-color-kawaii-platinum-edition.json](./247589-draw-and-color-kawaii-platinum-edition.json) |
+| Draw and Color: Kawaii - Superb Edition | 270293 | [270293-draw-and-color-kawaii-superb-edition.json](./270293-draw-and-color-kawaii-superb-edition.json) |
 | Draw and Lie | 147973 | [147973-draw-and-lie.json](./147973-draw-and-lie.json) |
 | Draw Around | 142402 | [142402-draw-around.json](./142402-draw-around.json) |
 | Draw Breaker | 341058 | [341058-draw-breaker.json](./341058-draw-breaker.json) |
@@ -9098,6 +9107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
 | Dungeons and Dinners | 110117 | [110117-dungeons-and-dinners.json](./110117-dungeons-and-dinners.json) |
 | Dungeons and Dragons: Daggerdale | 15127 | [15127-dungeons-and-dragons-daggerdale.json](./15127-dungeons-and-dragons-daggerdale.json) |
+| Dungeons and Goblins | 270328 | [270328-dungeons-and-goblins.json](./270328-dungeons-and-goblins.json) |
 | Dungeons and Monsters | 268751 | [268751-dungeons-and-monsters.json](./268751-dungeons-and-monsters.json) |
 | Dungeons and Myths | 226816 | [226816-dungeons-and-myths.json](./226816-dungeons-and-myths.json) |
 | Dungeons and Raids | 236516 | [236516-dungeons-and-raids.json](./236516-dungeons-and-raids.json) |
