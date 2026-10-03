@@ -1214,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unity Heroes | 297635 | [297635-unity-heroes.json](./297635-unity-heroes.json) |
 | Unity of Command | 22645 | [22645-unity-of-command.json](./22645-unity-of-command.json) |
 | Unity of Command II: Barbarossa | 150609 | [150609-unity-of-command-ii-barbarossa.json](./150609-unity-of-command-ii-barbarossa.json) |
+| Unity of Command II: Desert Fox | 235798 | [235798-unity-of-command-ii-desert-fox.json](./235798-unity-of-command-ii-desert-fox.json) |
 | Unity of Command II: Desert Rats | 207363 | [207363-unity-of-command-ii-desert-rats.json](./207363-unity-of-command-ii-desert-rats.json) |
 | Unity of Command II: Stalingrad | 196058 | [196058-unity-of-command-ii-stalingrad.json](./196058-unity-of-command-ii-stalingrad.json) |
 | Unity of Command: Black Turn | 171631 | [171631-unity-of-command-black-turn.json](./171631-unity-of-command-black-turn.json) |
@@ -1267,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | University | 252205 | [252205-university.json](./252205-university.json) |
 | University Days: Season 1 | 303060 | [303060-university-days-season-1.json](./303060-university-days-season-1.json) |
 | University Life Visual Novel | 371921 | [371921-university-life-visual-novel.json](./371921-university-life-visual-novel.json) |
+| University Love Affair | 235883 | [235883-university-love-affair.json](./235883-university-love-affair.json) |
 | Univocity | 339916 | [339916-univocity.json](./339916-univocity.json) |
 | UniWar | 91536 | [91536-uniwar.json](./91536-uniwar.json) |
 | Unizone's Underswap: Distrust Sans | 330365 | [330365-unizones-underswap-distrust-sans.json](./330365-unizones-underswap-distrust-sans.json) |
@@ -1473,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsolicited | 185647 | [185647-unsolicited.json](./185647-unsolicited.json) |
 | Unsolved Case: Ash and Secrets | 340997 | [340997-unsolved-case-ash-and-secrets.json](./340997-unsolved-case-ash-and-secrets.json) |
 | Unsolved Case: Ash and Secrets - Collector's Edition | 338584 | [338584-unsolved-case-ash-and-secrets-collectors-edition.json](./338584-unsolved-case-ash-and-secrets-collectors-edition.json) |
+| Unsolved Case: Fatal Clue - Collector's Edition | 235801 | [235801-unsolved-case-fatal-clue-collectors-edition.json](./235801-unsolved-case-fatal-clue-collectors-edition.json) |
 | Unsolved Case: Killer Popularity DLC | 289325 | [289325-unsolved-case-killer-popularity-dlc.json](./289325-unsolved-case-killer-popularity-dlc.json) |
 | Unsolved Case: Murderous Script - DLC | 243054 | [243054-unsolved-case-murderous-script-dlc.json](./243054-unsolved-case-murderous-script-dlc.json) |
 | Unsolved Case: The Scarlet Hyacinth - Collector's Edition | 256273 | [256273-unsolved-case-the-scarlet-hyacinth-collectors-edition.json](./256273-unsolved-case-the-scarlet-hyacinth-collectors-edition.json) |
