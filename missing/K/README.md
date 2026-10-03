@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keepers 1477 | 306062 | [306062-keepers-1477.json](./306062-keepers-1477.json) |
 | Keepers Dungeon | 116811 | [116811-keepers-dungeon.json](./116811-keepers-dungeon.json) |
 | Keepers of Ancient Lands | 295892 | [295892-keepers-of-ancient-lands.json](./295892-keepers-of-ancient-lands.json) |
+| Keepers of Astraela | 258625 | [258625-keepers-of-astraela.json](./258625-keepers-of-astraela.json) |
 | Keepers of the Forest | 228085 | [228085-keepers-of-the-forest.json](./228085-keepers-of-the-forest.json) |
 | Keepers of the Keep | 346693 | [346693-keepers-of-the-keep.json](./346693-keepers-of-the-keep.json) |
 | Keepers Of The Lost Arts | 285465 | [285465-keepers-of-the-lost-arts.json](./285465-keepers-of-the-lost-arts.json) |
@@ -1261,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Dragon | 184635 | [184635-kill-the-dragon.json](./184635-kill-the-dragon.json) |
 | Kill the Dragon | 268494 | [268494-kill-the-dragon.json](./268494-kill-the-dragon.json) |
 | Kill The Emoji: The Remake | 127094 | [127094-kill-the-emoji-the-remake.json](./127094-kill-the-emoji-the-remake.json) |
+| Kill the God | 258626 | [258626-kill-the-god.json](./258626-kill-the-god.json) |
 | Kill the Humans | 167269 | [167269-kill-the-humans.json](./167269-kill-the-humans.json) |
 | Kill The K.O.T.H | 261794 | [261794-kill-the-k-o-t-h.json](./261794-kill-the-k-o-t-h.json) |
 | Kill The Lights! | 337636 | [337636-kill-the-lights.json](./337636-kill-the-lights.json) |
