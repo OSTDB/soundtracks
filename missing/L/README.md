@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Memories | 236385 | [236385-last-memories.json](./236385-last-memories.json) |
 | Last Message | 316160 | [316160-last-message.json](./316160-last-message.json) |
 | Last Message Plus | 316173 | [316173-last-message-plus.json](./316173-last-message-plus.json) |
+| Last Minute | 267018 | [267018-last-minute.json](./267018-last-minute.json) |
 | Last Minute Love | 177908 | [177908-last-minute-love.json](./177908-last-minute-love.json) |
 | Last Minute Shopping | 278544 | [278544-last-minute-shopping.json](./278544-last-minute-shopping.json) |
 | Last Moon | 120387 | [120387-last-moon.json](./120387-last-moon.json) |
@@ -4649,6 +4650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucha Align | 375420 | [375420-lucha-align.json](./375420-lucha-align.json) |
 | Lucha Libre AAA: Héroes del Ring | 264875 | [264875-lucha-libre-aaa-heroes-del-ring.json](./264875-lucha-libre-aaa-heroes-del-ring.json) |
 | Luci RPG | 228678 | [228678-luci-rpg.json](./228678-luci-rpg.json) |
+| Lucia and the Possessed World | 266988 | [266988-lucia-and-the-possessed-world.json](./266988-lucia-and-the-possessed-world.json) |
 | Lucian Bee's Evil Violet | 219140 | [219140-lucian-bees-evil-violet.json](./219140-lucian-bees-evil-violet.json) |
 | Lucian Bee's Justice Yellow | 219139 | [219139-lucian-bees-justice-yellow.json](./219139-lucian-bees-justice-yellow.json) |
 | Lucian Bee's: Resurrection Supernova | 59424 | [59424-lucian-bees-resurrection-supernova.json](./59424-lucian-bees-resurrection-supernova.json) |
