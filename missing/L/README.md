@@ -2669,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Doom 2 | 301972 | [301972-liminal-doom-2.json](./301972-liminal-doom-2.json) |
 | Liminal Gallery | 274214 | [274214-liminal-gallery.json](./274214-liminal-gallery.json) |
 | Liminal Game | 341082 | [341082-liminal-game.json](./341082-liminal-game.json) |
+| Liminal Lands | 249898 | [249898-liminal-lands.json](./249898-liminal-lands.json) |
 | Liminal Lane | 349957 | [349957-liminal-lane.json](./349957-liminal-lane.json) |
 | Liminal Leap | 343432 | [343432-liminal-leap.json](./343432-liminal-leap.json) |
 | Liminal Phase | 204343 | [204343-liminal-phase.json](./204343-liminal-phase.json) |
@@ -2695,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limits of Intelligence | 301821 | [301821-limits-of-intelligence.json](./301821-limits-of-intelligence.json) |
 | Limkin | 187828 | [187828-limkin.json](./187828-limkin.json) |
 | Limoria | 327343 | [327343-limoria.json](./327343-limoria.json) |
+| Limos' Lair | 249899 | [249899-limos-lair.json](./249899-limos-lair.json) |
 | Limp Heroes+ | 292258 | [292258-limp-heroes.json](./292258-limp-heroes.json) |
 | Limp Mode | 414575 | [414575-limp-mode.json](./414575-limp-mode.json) |
 | Lims | 226166 | [226166-lims.json](./226166-lims.json) |
