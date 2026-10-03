@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LawBreakers | 11797 | [11797-lawbreakers.json](./11797-lawbreakers.json) |
 | Lawbringer | 234195 | [234195-lawbringer.json](./234195-lawbringer.json) |
 | Lawgivers | 127880 | [127880-lawgivers.json](./127880-lawgivers.json) |
+| Lawin Catch The Kim | 265339 | [265339-lawin-catch-the-kim.json](./265339-lawin-catch-the-kim.json) |
 | Lawl | 130727 | [130727-lawl.json](./130727-lawl.json) |
 | Lawless Lands: Grizzly Pet Pack | 167714 | [167714-lawless-lands-grizzly-pet-pack.json](./167714-lawless-lands-grizzly-pet-pack.json) |
 | Lawless Lands: Herding Hound | 167715 | [167715-lawless-lands-herding-hound.json](./167715-lawless-lands-herding-hound.json) |
@@ -2280,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Strange: True Colors - Alex Outfit Pack | 312108 | [312108-life-is-strange-true-colors-alex-outfit-pack.json](./312108-life-is-strange-true-colors-alex-outfit-pack.json) |
 | Life is Strange: Wavelengths | 144873 | [144873-life-is-strange-wavelengths.json](./144873-life-is-strange-wavelengths.json) |
 | Life Makeover | 212426 | [212426-life-makeover.json](./212426-life-makeover.json) |
+| Life Museum | 265338 | [265338-life-museum.json](./265338-life-museum.json) |
 | Life Not Supported | 210704 | [210704-life-not-supported.json](./210704-life-not-supported.json) |
 | Life of a Capitalist | 118407 | [118407-life-of-a-capitalist.json](./118407-life-of-a-capitalist.json) |
 | Life of a Goldfish | 364670 | [364670-life-of-a-goldfish.json](./364670-life-of-a-goldfish.json) |
@@ -2397,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light of Atlantis | 253915 | [253915-light-of-atlantis.json](./253915-light-of-atlantis.json) |
 | Light Of Chaos | 304361 | [304361-light-of-chaos.json](./304361-light-of-chaos.json) |
 | Light of Gallery | 115596 | [115596-light-of-gallery.json](./115596-light-of-gallery.json) |
+| Light of Hope: The Redeemer | 265337 | [265337-light-of-hope-the-redeemer.json](./265337-light-of-hope-the-redeemer.json) |
 | Light of Life | 211818 | [211818-light-of-life.json](./211818-light-of-life.json) |
 | Light of Motiram | 323536 | [323536-light-of-motiram.json](./323536-light-of-motiram.json) |
 | Light of Reversing Destiny | 344362 | [344362-light-of-reversing-destiny.json](./344362-light-of-reversing-destiny.json) |
@@ -2707,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Rider: Freestyle | 54163 | [54163-line-rider-freestyle.json](./54163-line-rider-freestyle.json) |
 | Line Runner 2 | 90401 | [90401-line-runner-2.json](./90401-line-runner-2.json) |
 | Line Space Wars | 69360 | [69360-line-space-wars.json](./69360-line-space-wars.json) |
+| Line Time | 265336 | [265336-line-time.json](./265336-line-time.json) |
 | Line Up: Dots! | 243098 | [243098-line-up-dots.json](./243098-line-up-dots.json) |
 | Line Up! | 380661 | [380661-line-up.json](./380661-line-up.json) |
 | Line Wobbler | 219119 | [219119-line-wobbler.json](./219119-line-wobbler.json) |
@@ -2958,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Desktop Runner | 385833 | [385833-little-desktop-runner.json](./385833-little-desktop-runner.json) |
 | Little Deviants | 20736 | [20736-little-deviants.json](./20736-little-deviants.json) |
 | Little Devourers | 169454 | [169454-little-devourers.json](./169454-little-devourers.json) |
+| Little Dew Drop | 265335 | [265335-little-dew-drop.json](./265335-little-dew-drop.json) |
 | Little Diggel | 29764 | [29764-little-diggel.json](./29764-little-diggel.json) |
 | Little Doll Queen | 260377 | [260377-little-doll-queen.json](./260377-little-doll-queen.json) |
 | Little Dragon Adventure | 287323 | [287323-little-dragon-adventure.json](./287323-little-dragon-adventure.json) |
@@ -3470,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LocoRoco | 1459 | [1459-locoroco.json](./1459-locoroco.json) |
 | LocoSoccer Classic | 34601 | [34601-locosoccer-classic.json](./34601-locosoccer-classic.json) |
 | Locotier | 193489 | [193489-locotier.json](./193489-locotier.json) |
+| Locura | 265334 | [265334-locura.json](./265334-locura.json) |
 | Locus | 92844 | [92844-locus.json](./92844-locus.json) |
 | Locus Solus | 32243 | [32243-locus-solus.json](./32243-locus-solus.json) |
 | Loddlenaut | 152196 | [152196-loddlenaut.json](./152196-loddlenaut.json) |
