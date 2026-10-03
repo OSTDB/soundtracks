@@ -2755,6 +2755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kousoku Kaitenzushi | 138702 | [138702-kousoku-kaitenzushi.json](./138702-kousoku-kaitenzushi.json) |
 | Kousoku Shikou Shogi-ou | 37950 | [37950-kousoku-shikou-shogi-ou.json](./37950-kousoku-shikou-shogi-ou.json) |
 | Koutarichou Jin'youtan: Mayoigo no Shou | 219166 | [219166-koutarichou-jinyoutan-mayoigo-no-shou.json](./219166-koutarichou-jinyoutan-mayoigo-no-shou.json) |
+| Koutei Heika ni Narou! | 278073 | [278073-koutei-heika-ni-narou.json](./278073-koutei-heika-ni-narou.json) |
 | Koutetsu no Kishi | 37949 | [37949-koutetsu-no-kishi.json](./37949-koutetsu-no-kishi.json) |
 | Koutetsu no Kishi 2: Sabaku no Rommel Gundan | 37948 | [37948-koutetsu-no-kishi-2-sabaku-no-rommel-gundan.json](./37948-koutetsu-no-kishi-2-sabaku-no-rommel-gundan.json) |
 | Koutetsu no Kishi 3: Gekitotsu Europe Sensen | 37947 | [37947-koutetsu-no-kishi-3-gekitotsu-europe-sensen.json](./37947-koutetsu-no-kishi-3-gekitotsu-europe-sensen.json) |
