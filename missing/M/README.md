@@ -6145,6 +6145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Corridors: Paroniria | 226679 | [226679-mind-corridors-paroniria.json](./226679-mind-corridors-paroniria.json) |
 | Mind Detective Psychology Test | 409539 | [409539-mind-detective-psychology-test.json](./409539-mind-detective-psychology-test.json) |
 | Mind Diver | 236519 | [236519-mind-diver.json](./236519-mind-diver.json) |
+| Mind Donor | 225559 | [225559-mind-donor.json](./225559-mind-donor.json) |
 | Mind Echoes: Remnants of the Past | 416705 | [416705-mind-echoes-remnants-of-the-past.json](./416705-mind-echoes-remnants-of-the-past.json) |
 | Mind Echoes: Remnants of the Past - Collector's Edition | 349977 | [349977-mind-echoes-remnants-of-the-past-collectors-edition.json](./349977-mind-echoes-remnants-of-the-past-collectors-edition.json) |
 | Mind Echoes: The Lost Mysteries - Collector's Edition | 338696 | [338696-mind-echoes-the-lost-mysteries-collectors-edition.json](./338696-mind-echoes-the-lost-mysteries-collectors-edition.json) |
@@ -6268,6 +6269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecart Madness | 188687 | [188687-minecart-madness.json](./188687-minecart-madness.json) |
 | MineChat Mobile | 90794 | [90794-minechat-mobile.json](./90794-minechat-mobile.json) |
 | MineClicker | 180121 | [180121-mineclicker.json](./180121-mineclicker.json) |
+| MineColonies | 225538 | [225538-minecolonies.json](./225538-minecolonies.json) |
 | MineColony | 24095 | [24095-minecolony.json](./24095-minecolony.json) |
 | Minecraft 4k | 238607 | [238607-minecraft-4k.json](./238607-minecraft-4k.json) |
 | Minecraft Backrooms Found Footage | 346784 | [346784-minecraft-backrooms-found-footage.json](./346784-minecraft-backrooms-found-footage.json) |
@@ -8750,6 +8752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morse Shingou de Ai wo Tsutae yo. | 367396 | [367396-morse-shingou-de-ai-wo-tsutae-yo.json](./367396-morse-shingou-de-ai-wo-tsutae-yo.json) |
 | Morse vs. Horse | 344340 | [344340-morse-vs-horse.json](./344340-morse-vs-horse.json) |
 | Morsels | 314931 | [314931-morsels.json](./314931-morsels.json) |
+| Morstairs: Part I - Oath of Fealty | 225550 | [225550-morstairs-part-i-oath-of-fealty.json](./225550-morstairs-part-i-oath-of-fealty.json) |
 | MORT: Manageably OK Response Team | 395815 | [395815-mort-manageably-ok-response-team.json](./395815-mort-manageably-ok-response-team.json) |
 | Mort's Dream Jump | 248010 | [248010-morts-dream-jump.json](./248010-morts-dream-jump.json) |
 | Mortacrust | 323778 | [323778-mortacrust.json](./323778-mortacrust.json) |
