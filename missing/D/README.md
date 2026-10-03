@@ -3665,6 +3665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Spire | 356899 | [356899-destiny-spire.json](./356899-destiny-spire.json) |
 | Destiny Star Girlfriend 3 | 305275 | [305275-destiny-star-girlfriend-3.json](./305275-destiny-star-girlfriend-3.json) |
 | Destiny Star Girlfriend 3 | 315039 | [315039-destiny-star-girlfriend-3.json](./315039-destiny-star-girlfriend-3.json) |
+| Destiny Summoner | 249917 | [249917-destiny-summoner.json](./249917-destiny-summoner.json) |
 | Destiny Warfare: Sci-Fi FPS | 100366 | [100366-destiny-warfare-sci-fi-fps.json](./100366-destiny-warfare-sci-fi-fps.json) |
 | Destiny: Rising | 319758 | [319758-destiny-rising.json](./319758-destiny-rising.json) |
 | Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
@@ -7635,6 +7636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonScales: Chambers of The Dragon Whisperer | 55854 | [55854-dragonscales-chambers-of-the-dragon-whisperer.json](./55854-dragonscales-chambers-of-the-dragon-whisperer.json) |
 | Dragonscapes Adventure | 219830 | [219830-dragonscapes-adventure.json](./219830-dragonscapes-adventure.json) |
 | DragonScriber | 179575 | [179575-dragonscriber.json](./179575-dragonscriber.json) |
+| DragonShift | 249893 | [249893-dragonshift.json](./249893-dragonshift.json) |
 | DragonSky | 303178 | [303178-dragonsky.json](./303178-dragonsky.json) |
 | DragonSpear EX | 200164 | [200164-dragonspear-ex.json](./200164-dragonspear-ex.json) |
 | Dragonsphere | 2487 | [2487-dragonsphere.json](./2487-dragonsphere.json) |
