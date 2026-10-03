@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeff Gordon XS Racing | 49888 | [49888-jeff-gordon-xs-racing.json](./49888-jeff-gordon-xs-racing.json) |
 | Jeff the Janitor | 337491 | [337491-jeff-the-janitor.json](./337491-jeff-the-janitor.json) |
 | Jeff the Killer | 376137 | [376137-jeff-the-killer.json](./376137-jeff-the-killer.json) |
+| Jeff The Killer | 277513 | [277513-jeff-the-killer.json](./277513-jeff-the-killer.json) |
 | Jeff the Skinner | 348314 | [348314-jeff-the-skinner.json](./348314-jeff-the-skinner.json) |
 | Jeff Wayne's The War of the Worlds | 129581 | [129581-jeff-waynes-the-war-of-the-worlds.json](./129581-jeff-waynes-the-war-of-the-worlds.json) |
 | Jeff-16 | 150638 | [150638-jeff-16.json](./150638-jeff-16.json) |
