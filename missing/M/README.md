@@ -6278,6 +6278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Cartoon Mobs HD Skin Pack | 324891 | [324891-minecraft-cartoon-mobs-hd-skin-pack.json](./324891-minecraft-cartoon-mobs-hd-skin-pack.json) |
 | Minecraft: Caves & Cliffs - Part II | 223159 | [223159-minecraft-caves-and-cliffs-part-ii.json](./223159-minecraft-caves-and-cliffs-part-ii.json) |
 | Minecraft: Chaos Cubed | 406874 | [406874-minecraft-chaos-cubed.json](./406874-minecraft-chaos-cubed.json) |
+| Minecraft: Chinese Mythology Mash-up | 234679 | [234679-minecraft-chinese-mythology-mash-up.json](./234679-minecraft-chinese-mythology-mash-up.json) |
 | Minecraft: Classic Skin Pack 5 | 257344 | [257344-minecraft-classic-skin-pack-5.json](./257344-minecraft-classic-skin-pack-5.json) |
 | Minecraft: Conservation Quest | 324883 | [324883-minecraft-conservation-quest.json](./324883-minecraft-conservation-quest.json) |
 | Minecraft: Cybersafe AI: Dig Deeper | 332581 | [332581-minecraft-cybersafe-ai-dig-deeper.json](./332581-minecraft-cybersafe-ai-dig-deeper.json) |
@@ -6290,6 +6291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Frozen | 254125 | [254125-minecraft-frozen.json](./254125-minecraft-frozen.json) |
 | Minecraft: Godzilla | 285051 | [285051-minecraft-godzilla.json](./285051-minecraft-godzilla.json) |
 | Minecraft: Good Night's Sleep | 326994 | [326994-minecraft-good-nights-sleep.json](./326994-minecraft-good-nights-sleep.json) |
+| Minecraft: Halloween Mash-up | 234676 | [234676-minecraft-halloween-mash-up.json](./234676-minecraft-halloween-mash-up.json) |
 | Minecraft: Heat Wave Survival | 324712 | [324712-minecraft-heat-wave-survival.json](./324712-minecraft-heat-wave-survival.json) |
 | Minecraft: Hermicraft Season 8 Map | 366814 | [366814-minecraft-hermicraft-season-8-map.json](./366814-minecraft-hermicraft-season-8-map.json) |
 | Minecraft: Hermitcraft Season 9 Map | 316750 | [316750-minecraft-hermitcraft-season-9-map.json](./316750-minecraft-hermitcraft-season-9-map.json) |
@@ -6340,6 +6342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Story Mode - Episode 5: Order Up! | 91295 | [91295-minecraft-story-mode-episode-5-order-up.json](./91295-minecraft-story-mode-episode-5-order-up.json) |
 | Minecraft: Story Mode - Season Two | 44158 | [44158-minecraft-story-mode-season-two.json](./44158-minecraft-story-mode-season-two.json) |
 | Minecraft: Story Mode Season Two - Episode 1: Hero in Residence | 91298 | [91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json](./91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json) |
+| Minecraft: Super Mario Mash-up | 234773 | [234773-minecraft-super-mario-mash-up.json](./234773-minecraft-super-mario-mash-up.json) |
 | Minecraft: Teenage Mutant Ninja Turtles | 259850 | [259850-minecraft-teenage-mutant-ninja-turtles.json](./259850-minecraft-teenage-mutant-ninja-turtles.json) |
 | Minecraft: The Cake Is A Lie | 325863 | [325863-minecraft-the-cake-is-a-lie.json](./325863-minecraft-the-cake-is-a-lie.json) |
 | Minecraft: The Copper Age | 363001 | [363001-minecraft-the-copper-age.json](./363001-minecraft-the-copper-age.json) |
