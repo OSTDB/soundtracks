@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Maze In Love | 69381 | [69381-a-maze-in-love.json](./69381-a-maze-in-love.json) |
 | A Mazeing Tower Defense | 54470 | [54470-a-mazeing-tower-defense.json](./54470-a-mazeing-tower-defense.json) |
 | A Meeting of Dreams | 223486 | [223486-a-meeting-of-dreams.json](./223486-a-meeting-of-dreams.json) |
+| A Megawad in Two Weeks | 274142 | [274142-a-megawad-in-two-weeks.json](./274142-a-megawad-in-two-weeks.json) |
 | A Melon's Tale | 180671 | [180671-a-melons-tale.json](./180671-a-melons-tale.json) |
 | A Messenger | 282711 | [282711-a-messenger.json](./282711-a-messenger.json) |
 | A Messenger Adventure | 56441 | [56441-a-messenger-adventure.json](./56441-a-messenger-adventure.json) |
