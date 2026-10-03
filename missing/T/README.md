@@ -1670,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tears of Magic | 224574 | [224574-tears-of-magic.json](./224574-tears-of-magic.json) |
 | Tears of the Maker | 349443 | [349443-tears-of-the-maker.json](./349443-tears-of-the-maker.json) |
 | Tears of Themis | 146245 | [146245-tears-of-themis.json](./146245-tears-of-themis.json) |
+| Tears Rain: Tears of Goddess | 236887 | [236887-tears-rain-tears-of-goddess.json](./236887-tears-rain-tears-of-goddess.json) |
 | Tears Revolude | 32148 | [32148-tears-revolude.json](./32148-tears-revolude.json) |
 | Tears to Tiara Gaiden: Avalon no Nazo | 76907 | [76907-tears-to-tiara-gaiden-avalon-no-nazo.json](./76907-tears-to-tiara-gaiden-avalon-no-nazo.json) |
 | Tears To Tiara II: Heir Of The Overlord | 21874 | [21874-tears-to-tiara-ii-heir-of-the-overlord.json](./21874-tears-to-tiara-ii-heir-of-the-overlord.json) |
@@ -3185,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms | 221748 | [221748-the-backrooms.json](./221748-the-backrooms.json) |
 | The Backrooms | 374795 | [374795-the-backrooms.json](./374795-the-backrooms.json) |
 | The Backrooms | 401676 | [401676-the-backrooms.json](./401676-the-backrooms.json) |
+| The Backrooms Anthology | 236894 | [236894-the-backrooms-anthology.json](./236894-the-backrooms-anthology.json) |
 | The Backrooms Company | 293614 | [293614-the-backrooms-company.json](./293614-the-backrooms-company.json) |
 | The Backrooms Footage | 213973 | [213973-the-backrooms-footage.json](./213973-the-backrooms-footage.json) |
 | The Backrooms Game | 130726 | [130726-the-backrooms-game.json](./130726-the-backrooms-game.json) |
@@ -5750,6 +5752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inexperienced Exorcist | 393597 | [393597-the-inexperienced-exorcist.json](./393597-the-inexperienced-exorcist.json) |
 | The Infected | 138726 | [138726-the-infected.json](./138726-the-infected.json) |
 | The Infecting 3 | 190155 | [190155-the-infecting-3.json](./190155-the-infecting-3.json) |
+| The Infernal Masquerade | 236963 | [236963-the-infernal-masquerade.json](./236963-the-infernal-masquerade.json) |
 | The Infernal Return | 195156 | [195156-the-infernal-return.json](./195156-the-infernal-return.json) |
 | The Infernalist | 371355 | [371355-the-infernalist.json](./371355-the-infernalist.json) |
 | The Inferno | 358963 | [358963-the-inferno.json](./358963-the-inferno.json) |
@@ -7157,6 +7160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Missing Link | 190442 | [190442-the-missing-link.json](./190442-the-missing-link.json) |
 | The Missing Locksmith | 135049 | [135049-the-missing-locksmith.json](./135049-the-missing-locksmith.json) |
 | The Missing Part | 349880 | [349880-the-missing-part.json](./349880-the-missing-part.json) |
+| The Missing Parts of Maria Gwozdek | 236961 | [236961-the-missing-parts-of-maria-gwozdek.json](./236961-the-missing-parts-of-maria-gwozdek.json) |
 | The Missing Sock | 302139 | [302139-the-missing-sock.json](./302139-the-missing-sock.json) |
 | The Missing Tail | 416085 | [416085-the-missing-tail.json](./416085-the-missing-tail.json) |
 | The Missing Trail | 307703 | [307703-the-missing-trail.json](./307703-the-missing-trail.json) |
@@ -7341,6 +7345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The NeverEnding Story | 13020 | [13020-the-neverending-story.json](./13020-the-neverending-story.json) |
 | The Neverending Story II | 80515 | [80515-the-neverending-story-ii.json](./80515-the-neverending-story-ii.json) |
 | The Neverhood | 2164 | [2164-the-neverhood.json](./2164-the-neverhood.json) |
+| The Neverland of the Mountain and Sea | 236966 | [236966-the-neverland-of-the-mountain-and-sea.json](./236966-the-neverland-of-the-mountain-and-sea.json) |
 | The Neverwhere Tales : Book 1 | 275692 | [275692-the-neverwhere-tales-book-1.json](./275692-the-neverwhere-tales-book-1.json) |
 | The New Addams Family | 5345 | [5345-the-new-addams-family.json](./5345-the-new-addams-family.json) |
 | The New Apartment | 332567 | [332567-the-new-apartment.json](./332567-the-new-apartment.json) |
@@ -11855,6 +11860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Wiza | 364675 | [364675-time-wiza.json](./364675-time-wiza.json) |
 | Time Zone | 14574 | [14574-time-zone.json](./14574-time-zone.json) |
 | Time-Gate | 69937 | [69937-time-gate.json](./69937-time-gate.json) |
+| Time's Disillusion | 236960 | [236960-times-disillusion.json](./236960-times-disillusion.json) |
 | Time's Prison | 318423 | [318423-times-prison.json](./318423-times-prison.json) |
 | Time's Up in Tiny Town | 190471 | [190471-times-up-in-tiny-town.json](./190471-times-up-in-tiny-town.json) |
 | Timeball | 7791 | [7791-timeball.json](./7791-timeball.json) |
