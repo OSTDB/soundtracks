@@ -1477,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of a Princess | 89381 | [89381-days-of-a-princess.json](./89381-days-of-a-princess.json) |
 | Days of Despair | 217246 | [217246-days-of-despair.json](./217246-days-of-despair.json) |
 | Days of Discord | 59654 | [59654-days-of-discord.json](./59654-days-of-discord.json) |
+| Days of Doom | 251728 | [251728-days-of-doom.json](./251728-days-of-doom.json) |
 | Days Of My Life | 270190 | [270190-days-of-my-life.json](./270190-days-of-my-life.json) |
 | Days of Oblivion | 69805 | [69805-days-of-oblivion.json](./69805-days-of-oblivion.json) |
 | Days of Purgatory | 76706 | [76706-days-of-purgatory.json](./76706-days-of-purgatory.json) |
@@ -5784,6 +5785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoggoPromenade | 398349 | [398349-doggopromenade.json](./398349-doggopromenade.json) |
 | Doggy | 262423 | [262423-doggy.json](./262423-doggy.json) |
 | Doggy | 304054 | [304054-doggy.json](./304054-doggy.json) |
+| Doggy Don't Care | 251749 | [251749-doggy-dont-care.json](./251749-doggy-dont-care.json) |
 | Doggy Quest: The Dark Forest | 378410 | [378410-doggy-quest-the-dark-forest.json](./378410-doggy-quest-the-dark-forest.json) |
 | Doggy Waiter 2 | 319678 | [319678-doggy-waiter-2.json](./319678-doggy-waiter-2.json) |
 | DogHotel | 101582 | [101582-doghotel.json](./101582-doghotel.json) |
@@ -5945,10 +5947,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolmenjord | 217519 | [217519-dolmenjord.json](./217519-dolmenjord.json) |
 | Doloc Town | 235852 | [235852-doloc-town.json](./235852-doloc-town.json) |
 | Dolor's Dwelling | 390006 | [390006-dolors-dwelling.json](./390006-dolors-dwelling.json) |
+| Dolos: Your Best Future | 251744 | [251744-dolos-your-best-future.json](./251744-dolos-your-best-future.json) |
 | Dolphin Hustle | 200172 | [200172-dolphin-hustle.json](./200172-dolphin-hustle.json) |
 | Dolphin Island 2 | 177345 | [177345-dolphin-island-2.json](./177345-dolphin-island-2.json) |
 | Dolphin Olympics 2 | 159287 | [159287-dolphin-olympics-2.json](./159287-dolphin-olympics-2.json) |
 | Dolphin Paradise | 107676 | [107676-dolphin-paradise.json](./107676-dolphin-paradise.json) |
+| Dolphin Paradise: Wild Friends | 251739 | [251739-dolphin-paradise-wild-friends.json](./251739-dolphin-paradise-wild-friends.json) |
 | Dolphin Simulator | 107007 | [107007-dolphin-simulator.json](./107007-dolphin-simulator.json) |
 | Dolphin Splash! | 272475 | [272475-dolphin-splash.json](./272475-dolphin-splash.json) |
 | Dolphin Trainer | 269739 | [269739-dolphin-trainer.json](./269739-dolphin-trainer.json) |
@@ -8412,6 +8416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropped into the Modern World: Surviving the Red-Light District | 311623 | [311623-dropped-into-the-modern-world-surviving-the-red-light-district.json](./311623-dropped-into-the-modern-world-surviving-the-red-light-district.json) |
 | Dropship: United Peace Force | 44723 | [44723-dropship-united-peace-force.json](./44723-dropship-united-peace-force.json) |
 | Dropshipping Simulator | 155993 | [155993-dropshipping-simulator.json](./155993-dropshipping-simulator.json) |
+| Dropsol | 251755 | [251755-dropsol.json](./251755-dropsol.json) |
 | Dropsy | 11488 | [11488-dropsy.json](./11488-dropsy.json) |
 | Droptch | 164920 | [164920-droptch.json](./164920-droptch.json) |
 | DropZap | 174182 | [174182-dropzap.json](./174182-dropzap.json) |
@@ -8768,6 +8773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke It's Zero Hour | 270656 | [270656-duke-its-zero-hour.json](./270656-duke-its-zero-hour.json) |
 | Duke Mansion | 308472 | [308472-duke-mansion.json](./308472-duke-mansion.json) |
 | Duke Nukem 1+2 | 137548 | [137548-duke-nukem-1-2.json](./137548-duke-nukem-1-2.json) |
+| Duke Nukem 1+2 Remastered | 251709 | [251709-duke-nukem-1-2-remastered.json](./251709-duke-nukem-1-2-remastered.json) |
 | Duke Nukem 3D | 262569 | [262569-duke-nukem-3d.json](./262569-duke-nukem-3d.json) |
 | Duke Nukem 3D | 262573 | [262573-duke-nukem-3d.json](./262573-duke-nukem-3d.json) |
 | Duke Nukem 3D | 262575 | [262575-duke-nukem-3d.json](./262575-duke-nukem-3d.json) |
