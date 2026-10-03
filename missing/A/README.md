@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Synapse: The Chaos Theories - Collector's Edition | 152341 | [152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json](./152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json) |
 | A Tasting Flight of Names | 315625 | [315625-a-tasting-flight-of-names.json](./315625-a-tasting-flight-of-names.json) |
 | A Tempting Life with My Neighbor | 420679 | [420679-a-tempting-life-with-my-neighbor.json](./420679-a-tempting-life-with-my-neighbor.json) |
+| A Test Before Jianghu | 235278 | [235278-a-test-before-jianghu.json](./235278-a-test-before-jianghu.json) |
 | A Thief's Legacy | 52562 | [52562-a-thiefs-legacy.json](./52562-a-thiefs-legacy.json) |
 | A Thin Line | 28030 | [28030-a-thin-line.json](./28030-a-thin-line.json) |
 | A Thousand Mouths to Scream | 338179 | [338179-a-thousand-mouths-to-scream.json](./338179-a-thousand-mouths-to-scream.json) |
@@ -1509,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Field | 274001 | [274001-adventure-field.json](./274001-adventure-field.json) |
 | Adventure Field 2 | 274002 | [274002-adventure-field-2.json](./274002-adventure-field-2.json) |
 | Adventure Field 3: Definitive Edition | 274003 | [274003-adventure-field-3-definitive-edition.json](./274003-adventure-field-3-definitive-edition.json) |
+| Adventure Field 5 | 235367 | [235367-adventure-field-5.json](./235367-adventure-field-5.json) |
 | Adventure Flashback Blast! | 304290 | [304290-adventure-flashback-blast.json](./304290-adventure-flashback-blast.json) |
 | Adventure Forest: Rabbit Story | 309475 | [309475-adventure-forest-rabbit-story.json](./309475-adventure-forest-rabbit-story.json) |
 | Adventure Galaxy | 126585 | [126585-adventure-galaxy.json](./126585-adventure-galaxy.json) |
@@ -5359,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AnyCircuit | 385289 | [385289-anycircuit.json](./385289-anycircuit.json) |
 | Anykey | 89671 | [89671-anykey.json](./89671-anykey.json) |
 | Anykey Simulator | 31787 | [31787-anykey-simulator.json](./31787-anykey-simulator.json) |
+| Anyone There? | 235373 | [235373-anyone-there.json](./235373-anyone-there.json) |
 | Anyone's Diary | 118160 | [118160-anyones-diary.json](./118160-anyones-diary.json) |
 | Anything Simulator | 391181 | [391181-anything-simulator.json](./391181-anything-simulator.json) |
 | Anytime Pool | 65488 | [65488-anytime-pool.json](./65488-anytime-pool.json) |
@@ -6246,6 +6249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archeo | 391282 | [391282-archeo.json](./391282-archeo.json) |
 | Archeologist Simulator | 148988 | [148988-archeologist-simulator.json](./148988-archeologist-simulator.json) |
 | Archeon CD-i Quiz | 217996 | [217996-archeon-cd-i-quiz.json](./217996-archeon-cd-i-quiz.json) |
+| Archer | 235264 | [235264-archer.json](./235264-archer.json) |
 | Archer boy | 158076 | [158076-archer-boy.json](./158076-archer-boy.json) |
 | Archer Guardian VR : The Chapter Zero | 30770 | [30770-archer-guardian-vr-the-chapter-zero.json](./30770-archer-guardian-vr-the-chapter-zero.json) |
 | Archer Maclean's 3D Pool | 248632 | [248632-archer-macleans-3d-pool.json](./248632-archer-macleans-3d-pool.json) |
