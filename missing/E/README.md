@@ -3430,6 +3430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evidence: The Last Ritual | 20599 | [20599-evidence-the-last-ritual.json](./20599-evidence-the-last-ritual.json) |
 | Evie Mal Games | 102776 | [102776-evie-mal-games.json](./102776-evie-mal-games.json) |
 | Evil | 154005 | [154005-evil.json](./154005-evil.json) |
+| Evil | 270322 | [270322-evil.json](./270322-evil.json) |
 | Evil | 34874 | [34874-evil.json](./34874-evil.json) |
 | Evil Advisor Verdict | 359995 | [359995-evil-advisor-verdict.json](./359995-evil-advisor-verdict.json) |
 | Evil Apples: Dirty as ____. | 86996 | [86996-evil-apples-dirty-as.json](./86996-evil-apples-dirty-as.json) |
@@ -3984,6 +3985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Match | 105861 | [105861-extreme-match.json](./105861-extreme-match.json) |
 | Extreme Mining | 135035 | [135035-extreme-mining.json](./135035-extreme-mining.json) |
 | Extreme Off-Road Drive | 109206 | [109206-extreme-off-road-drive.json](./109206-extreme-off-road-drive.json) |
+| Extreme Offroad Racing | 270310 | [270310-extreme-offroad-racing.json](./270310-extreme-offroad-racing.json) |
 | Extreme Offroad Racing | 320540 | [320540-extreme-offroad-racing.json](./320540-extreme-offroad-racing.json) |
 | Extreme Offroad Racing VR | 345124 | [345124-extreme-offroad-racing-vr.json](./345124-extreme-offroad-racing-vr.json) |
 | Extreme Overtake | 323528 | [323528-extreme-overtake.json](./323528-extreme-overtake.json) |
