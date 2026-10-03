@@ -723,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Blast Crew | 125194 | [125194-zombie-blast-crew.json](./125194-zombie-blast-crew.json) |
 | Zombie Blender | 190746 | [190746-zombie-blender.json](./190746-zombie-blender.json) |
 | Zombie Blocks: Pixel Shooter Gun | 328086 | [328086-zombie-blocks-pixel-shooter-gun.json](./328086-zombie-blocks-pixel-shooter-gun.json) |
+| Zombie Brains | 233040 | [233040-zombie-brains.json](./233040-zombie-brains.json) |
 | Zombie Builder Defense | 111211 | [111211-zombie-builder-defense.json](./111211-zombie-builder-defense.json) |
 | Zombie Builder Defense 2 | 239766 | [239766-zombie-builder-defense-2.json](./239766-zombie-builder-defense-2.json) |
 | Zombie Buster VR | 28886 | [28886-zombie-buster-vr.json](./28886-zombie-buster-vr.json) |
@@ -887,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Slayers | 129031 | [129031-zombie-slayers.json](./129031-zombie-slayers.json) |
 | Zombie Smash: Road Kill | 167675 | [167675-zombie-smash-road-kill.json](./167675-zombie-smash-road-kill.json) |
 | Zombie Smash! Basketball | 261355 | [261355-zombie-smash-basketball.json](./261355-zombie-smash-basketball.json) |
+| Zombie Smasher | 233041 | [233041-zombie-smasher.json](./233041-zombie-smasher.json) |
 | Zombie Smashers X2: Punx and Skins | 70923 | [70923-zombie-smashers-x2-punx-and-skins.json](./70923-zombie-smashers-x2-punx-and-skins.json) |
 | Zombie Sniper : Evil Hunter | 96396 | [96396-zombie-sniper-evil-hunter.json](./96396-zombie-sniper-evil-hunter.json) |
 | Zombie Sniper 2 | 103525 | [103525-zombie-sniper-2.json](./103525-zombie-sniper-2.json) |
