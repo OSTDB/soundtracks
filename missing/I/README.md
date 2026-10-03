@@ -289,6 +289,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Be the Guy: Gaiden | 80531 | [80531-i-wanna-be-the-guy-gaiden.json](./80531-i-wanna-be-the-guy-gaiden.json) |
 | I Wanna Be the Hedgehog | 417434 | [417434-i-wanna-be-the-hedgehog.json](./417434-i-wanna-be-the-hedgehog.json) |
 | I Wanna Be the King! | 367960 | [367960-i-wanna-be-the-king.json](./367960-i-wanna-be-the-king.json) |
+| I Wanna Be The SuperTux | 240946 | [240946-i-wanna-be-the-supertux.json](./240946-i-wanna-be-the-supertux.json) |
+| I Wanna Be The SuperTux 2 | 240947 | [240947-i-wanna-be-the-supertux-2.json](./240947-i-wanna-be-the-supertux-2.json) |
 | I Wanna Commit Crimes So I Can Go to Prison Then Commit Super Crimes So I Can Go to Super Prison 64 | 266416 | [266416-i-wanna-commit-crimes-so-i-can-go-to-prison-then-commit-super-crimes-so-i-can-go-to-super-prison-64.json](./266416-i-wanna-commit-crimes-so-i-can-go-to-prison-then-commit-super-crimes-so-i-can-go-to-super-prison-64.json) |
 | I Wanna Eat the Lemon | 191263 | [191263-i-wanna-eat-the-lemon.json](./191263-i-wanna-eat-the-lemon.json) |
 | I Wanna Escape Into My Mind | 355175 | [355175-i-wanna-escape-into-my-mind.json](./355175-i-wanna-escape-into-my-mind.json) |
