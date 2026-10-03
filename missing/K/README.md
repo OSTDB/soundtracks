@@ -1764,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KingdomDefense | 172102 | [172102-kingdomdefense.json](./172102-kingdomdefense.json) |
 | Kingdomfall | 169401 | [169401-kingdomfall.json](./169401-kingdomfall.json) |
 | Kingdomino | 338728 | [338728-kingdomino.json](./338728-kingdomino.json) |
+| Kingdoms | 259165 | [259165-kingdoms.json](./259165-kingdoms.json) |
 | Kingdoms and Slaves | 201713 | [201713-kingdoms-and-slaves.json](./201713-kingdoms-and-slaves.json) |
 | Kingdoms Conquer | 368054 | [368054-kingdoms-conquer.json](./368054-kingdoms-conquer.json) |
 | Kingdoms Fall | 41489 | [41489-kingdoms-fall.json](./41489-kingdoms-fall.json) |
@@ -2657,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konohana 4: Yami wo Harau Inori | 213933 | [213933-konohana-4-yami-wo-harau-inori.json](./213933-konohana-4-yami-wo-harau-inori.json) |
 | KonoSuba: Fantastic Days! | 138261 | [138261-konosuba-fantastic-days.json](./138261-konosuba-fantastic-days.json) |
 | KonoSuba: God's Blessing on this Wonderful World! Judgment on this Greedy Game! | 34218 | [34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json](./34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json) |
+| Konosuba: God's Blessing on This Wonderful World! Love for These Clothes of Desire! | 259162 | [259162-konosuba-gods-blessing-on-this-wonderful-world-love-for-these-clothes-of-desire.json](./259162-konosuba-gods-blessing-on-this-wonderful-world-love-for-these-clothes-of-desire.json) |
 | KonoSuba: God’s Blessing on this Wonderful World! Love for this Tempting Attire - Limited Edition | 167137 | [167137-konosuba-god-s-blessing-on-this-wonderful-world-love-for-this-tempting-attire-limited-edition.json](./167137-konosuba-god-s-blessing-on-this-wonderful-world-love-for-this-tempting-attire-limited-edition.json) |
 | KonoSuba: God's Blessing on this Wonderful World!: Aqua Special Swimsuit | 286193 | [286193-konosuba-gods-blessing-on-this-wonderful-world-aqua-special-swimsuit.json](./286193-konosuba-gods-blessing-on-this-wonderful-world-aqua-special-swimsuit.json) |
 | KonoSuba: God's Blessing on this Wonderful World!: Darkness Special Swimsuit | 286194 | [286194-konosuba-gods-blessing-on-this-wonderful-world-darkness-special-swimsuit.json](./286194-konosuba-gods-blessing-on-this-wonderful-world-darkness-special-swimsuit.json) |
