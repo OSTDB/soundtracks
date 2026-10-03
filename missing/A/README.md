@@ -2821,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alexei Run | 155995 | [155995-alexei-run.json](./155995-alexei-run.json) |
 | Alexey's Winter: Night Adventure | 160232 | [160232-alexeys-winter-night-adventure.json](./160232-alexeys-winter-night-adventure.json) |
 | Alexi Lalas International Soccer | 43933 | [43933-alexi-lalas-international-soccer.json](./43933-alexi-lalas-international-soccer.json) |
+| Alexia | 260863 | [260863-alexia.json](./260863-alexia.json) |
 | Alexios the Protector | 235463 | [235463-alexios-the-protector.json](./235463-alexios-the-protector.json) |
 | Alexis Arc: Heroes of the Three Kingdoms | 138195 | [138195-alexis-arc-heroes-of-the-three-kingdoms.json](./138195-alexis-arc-heroes-of-the-three-kingdoms.json) |
 | Alexus 2040 | 415242 | [415242-alexus-2040.json](./415242-alexus-2040.json) |
@@ -8708,6 +8709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AxySnake | 93184 | [93184-axysnake.json](./93184-axysnake.json) |
 | Axyz | 293648 | [293648-axyz.json](./293648-axyz.json) |
 | Aya | 324963 | [324963-aya.json](./324963-aya.json) |
+| Aya & Naya | 260882 | [260882-aya-and-naya.json](./260882-aya-and-naya.json) |
 | Aya Go | 91740 | [91740-aya-go.json](./91740-aya-go.json) |
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
 | Ayakashi Koi Gikyoku -Forbidden Romance with Mysterious Spirit- | 106974 | [106974-ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit.json](./106974-ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit.json) |
