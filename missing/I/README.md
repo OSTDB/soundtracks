@@ -2828,6 +2828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inverse Evolver | 192711 | [192711-inverse-evolver.json](./192711-inverse-evolver.json) |
 | Inverse Ninjas vs. The Public Domain | 277593 | [277593-inverse-ninjas-vs-the-public-domain.json](./277593-inverse-ninjas-vs-the-public-domain.json) |
 | Inversed | 310575 | [310575-inversed.json](./310575-inversed.json) |
+| Inversed World | 237531 | [237531-inversed-world.json](./237531-inversed-world.json) |
 | Inversion | 7020 | [7020-inversion.json](./7020-inversion.json) |
 | Inversion Day | 404345 | [404345-inversion-day.json](./404345-inversion-day.json) |
 | Inversion Institute | 220038 | [220038-inversion-institute.json](./220038-inversion-institute.json) |
