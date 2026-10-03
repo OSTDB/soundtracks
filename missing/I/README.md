@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Flipper | 87666 | [87666-idle-flipper.json](./87666-idle-flipper.json) |
 | Idle Food Empire Tycoon | 219268 | [219268-idle-food-empire-tycoon.json](./219268-idle-food-empire-tycoon.json) |
 | Idle Galaxy | 203805 | [203805-idle-galaxy.json](./203805-idle-galaxy.json) |
+| Idle Game 1 | 234690 | [234690-idle-game-1.json](./234690-idle-game-1.json) |
 | Idle Game Tycoon | 233628 | [233628-idle-game-tycoon.json](./233628-idle-game-tycoon.json) |
 | Idle Game x100 | 387597 | [387597-idle-game-x100.json](./387597-idle-game-x100.json) |
 | Idle Garden | 390715 | [390715-idle-garden.json](./390715-idle-garden.json) |
