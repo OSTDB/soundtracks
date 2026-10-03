@@ -4475,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
 | Pixplode | 36494 | [36494-pixplode.json](./36494-pixplode.json) |
 | Pixsaw | 279112 | [279112-pixsaw.json](./279112-pixsaw.json) |
+| Pixtalgia | 242018 | [242018-pixtalgia.json](./242018-pixtalgia.json) |
 | Pixtights | 97286 | [97286-pixtights.json](./97286-pixtights.json) |
 | Pixxelverse Online | 243239 | [243239-pixxelverse-online.json](./243239-pixxelverse-online.json) |
 | Pixxle: A Pixel Puzzle Game | 91147 | [91147-pixxle-a-pixel-puzzle-game.json](./91147-pixxle-a-pixel-puzzle-game.json) |
