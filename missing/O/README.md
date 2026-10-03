@@ -2684,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlander: Fantastic Princess | 261798 | [261798-outlander-fantastic-princess.json](./261798-outlander-fantastic-princess.json) |
 | Outlanders | 127983 | [127983-outlanders.json](./127983-outlanders.json) |
 | Outlanders | 328052 | [328052-outlanders.json](./328052-outlanders.json) |
+| Outlanders: Heir of the Roads | 236879 | [236879-outlanders-heir-of-the-roads.json](./236879-outlanders-heir-of-the-roads.json) |
 | Outlanders: Home is Where the Heart is | 277431 | [277431-outlanders-home-is-where-the-heart-is.json](./277431-outlanders-home-is-where-the-heart-is.json) |
 | Outlanders: Hunt and Survive | 348854 | [348854-outlanders-hunt-and-survive.json](./348854-outlanders-hunt-and-survive.json) |
 | Outlanders: The Keeper's Shanty | 298174 | [298174-outlanders-the-keepers-shanty.json](./298174-outlanders-the-keepers-shanty.json) |
