@@ -5417,6 +5417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPV Freerider Recharged | 90412 | [90412-fpv-freerider-recharged.json](./90412-fpv-freerider-recharged.json) |
 | FPV Kamikaze Drone | 280172 | [280172-fpv-kamikaze-drone.json](./280172-fpv-kamikaze-drone.json) |
 | FPV Simulator | 192407 | [192407-fpv-simulator.json](./192407-fpv-simulator.json) |
+| FPV SkyDive: FPV Drone Simulator - Flight School | 276418 | [276418-fpv-skydive-fpv-drone-simulator-flight-school.json](./276418-fpv-skydive-fpv-drone-simulator-flight-school.json) |
 | FPV Worldwide | 357361 | [357361-fpv-worldwide.json](./357361-fpv-worldwide.json) |
 | FR Legends | 126025 | [126025-fr-legends.json](./126025-fr-legends.json) |
 | FR Master: Formula Racing Simulator | 261356 | [261356-fr-master-formula-racing-simulator.json](./261356-fr-master-formula-racing-simulator.json) |
