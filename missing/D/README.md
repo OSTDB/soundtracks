@@ -4938,6 +4938,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Saga Extra Edition: The Tower of Muda | 238086 | [238086-disc-saga-extra-edition-the-tower-of-muda.json](./238086-disc-saga-extra-edition-the-tower-of-muda.json) |
 | Disc Saga: Burning Sword! | 238082 | [238082-disc-saga-burning-sword.json](./238082-disc-saga-burning-sword.json) |
 | Disc Saga: Iraisha wa Monster? | 238087 | [238087-disc-saga-iraisha-wa-monster.json](./238087-disc-saga-iraisha-wa-monster.json) |
+| Disc Saga: Nagisa no Baka Taisho | 238090 | [238090-disc-saga-nagisa-no-baka-taisho.json](./238090-disc-saga-nagisa-no-baka-taisho.json) |
+| Disc Saga: Yukemuri ni Kieta Bijotachi Yume no Naka e Rendezvous | 238091 | [238091-disc-saga-yukemuri-ni-kieta-bijotachi-yume-no-naka-e-rendezvous.json](./238091-disc-saga-yukemuri-ni-kieta-bijotachi-yume-no-naka-e-rendezvous.json) |
 | Disc Space | 141087 | [141087-disc-space.json](./141087-disc-space.json) |
 | Disc Station #09 | 266405 | [266405-disc-station-09.json](./266405-disc-station-09.json) |
 | Disc Station #11 | 266411 | [266411-disc-station-11.json](./266411-disc-station-11.json) |
