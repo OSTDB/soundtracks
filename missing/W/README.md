@@ -1931,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Car? x Goat Simulator+ | 400246 | [400246-what-the-car-x-goat-simulator.json](./400246-what-the-car-x-goat-simulator.json) |
 | What the Chuck? | 338379 | [338379-what-the-chuck.json](./338379-what-the-chuck.json) |
 | What the Clash? | 339825 | [339825-what-the-clash.json](./339825-what-the-clash.json) |
+| What the Crow?! | 274678 | [274678-what-the-crow.json](./274678-what-the-crow.json) |
 | What the Dub?! | 144808 | [144808-what-the-dub.json](./144808-what-the-dub.json) |
 | What the Fog | 300793 | [300793-what-the-fog.json](./300793-what-the-fog.json) |
 | What the Golf? | 87983 | [87983-what-the-golf.json](./87983-what-the-golf.json) |
@@ -3556,6 +3557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolves on the Westwind: The Vampire of Havena | 203920 | [203920-wolves-on-the-westwind-the-vampire-of-havena.json](./203920-wolves-on-the-westwind-the-vampire-of-havena.json) |
 | Wolvesville | 262964 | [262964-wolvesville.json](./262964-wolvesville.json) |
 | Woman's Body | 112458 | [112458-womans-body.json](./112458-womans-body.json) |
+| Womanizer | 274688 | [274688-womanizer.json](./274688-womanizer.json) |
 | Womb Defense Force | 311575 | [311575-womb-defense-force.json](./311575-womb-defense-force.json) |
 | Womb of Worms | 394378 | [394378-womb-of-worms.json](./394378-womb-of-worms.json) |
 | WomboCombo | 390248 | [390248-wombocombo.json](./390248-wombocombo.json) |
