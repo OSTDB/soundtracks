@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Clicker | 241956 | [241956-mafia-clicker.json](./241956-mafia-clicker.json) |
 | Mafia Gambling | 89266 | [89266-mafia-gambling.json](./89266-mafia-gambling.json) |
 | Mafia Hotel | 416006 | [416006-mafia-hotel.json](./416006-mafia-hotel.json) |
+| Mafia II Mobile | 272451 | [272451-mafia-ii-mobile.json](./272451-mafia-ii-mobile.json) |
 | Mafia II: Director's Cut | 47385 | [47385-mafia-ii-directors-cut.json](./47385-mafia-ii-directors-cut.json) |
 | Mafia II: Greaser Pack | 275236 | [275236-mafia-ii-greaser-pack.json](./275236-mafia-ii-greaser-pack.json) |
 | Mafia II: Made Man Pack | 275238 | [275238-mafia-ii-made-man-pack.json](./275238-mafia-ii-made-man-pack.json) |
@@ -5613,6 +5614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Postman | 342907 | [342907-midnight-postman.json](./342907-midnight-postman.json) |
 | Midnight Pulse | 106157 | [106157-midnight-pulse.json](./106157-midnight-pulse.json) |
 | Midnight Racer | 290523 | [290523-midnight-racer.json](./290523-midnight-racer.json) |
+| Midnight Raider | 272472 | [272472-midnight-raider.json](./272472-midnight-raider.json) |
 | Midnight Raiders | 19743 | [19743-midnight-raiders.json](./19743-midnight-raiders.json) |
 | Midnight Ramen | 273456 | [273456-midnight-ramen.json](./273456-midnight-ramen.json) |
 | Midnight Ramen Shop | 390098 | [390098-midnight-ramen-shop.json](./390098-midnight-ramen-shop.json) |
@@ -6914,6 +6916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Easter | 246470 | [246470-mister-easter.json](./246470-mister-easter.json) |
 | Mister Fruit Joy | 137676 | [137676-mister-fruit-joy.json](./137676-mister-fruit-joy.json) |
 | Mister Furry | 236788 | [236788-mister-furry.json](./236788-mister-furry.json) |
+| Mister Gas | 272457 | [272457-mister-gas.json](./272457-mister-gas.json) |
 | Mister Gato Idle: The Meowsiah | 348250 | [348250-mister-gato-idle-the-meowsiah.json](./348250-mister-gato-idle-the-meowsiah.json) |
 | Mister Rogers' Neighborhood | 138092 | [138092-mister-rogers-neighborhood.json](./138092-mister-rogers-neighborhood.json) |
 | Mister Scary | 342222 | [342222-mister-scary.json](./342222-mister-scary.json) |
@@ -8400,6 +8403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mordeth | 316605 | [316605-mordeth.json](./316605-mordeth.json) |
 | Mordfield Command | 304874 | [304874-mordfield-command.json](./304874-mordfield-command.json) |
 | Mordhau | 27729 | [27729-mordhau.json](./27729-mordhau.json) |
+| Mordhau: Archduke Set | 272449 | [272449-mordhau-archduke-set.json](./272449-mordhau-archduke-set.json) |
 | Mordhau: Platinum Edition | 305495 | [305495-mordhau-platinum-edition.json](./305495-mordhau-platinum-edition.json) |
 | Mordheim: City of the Damned - Complete Edition | 121424 | [121424-mordheim-city-of-the-damned-complete-edition.json](./121424-mordheim-city-of-the-damned-complete-edition.json) |
 | Mordheim: City of the Damned - Doomweaver | 53373 | [53373-mordheim-city-of-the-damned-doomweaver.json](./53373-mordheim-city-of-the-damned-doomweaver.json) |
@@ -8532,6 +8536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat | 239168 | [239168-mortal-kombat.json](./239168-mortal-kombat.json) |
 | Mortal Kombat | 242151 | [242151-mortal-kombat.json](./242151-mortal-kombat.json) |
 | Mortal Kombat | 242239 | [242239-mortal-kombat.json](./242239-mortal-kombat.json) |
+| Mortal Kombat 1 | 272491 | [272491-mortal-kombat-1.json](./272491-mortal-kombat-1.json) |
 | Mortal Kombat 1: Conan the Barbarian | 312343 | [312343-mortal-kombat-1-conan-the-barbarian.json](./312343-mortal-kombat-1-conan-the-barbarian.json) |
 | Mortal Kombat 1: Cyrax | 312332 | [312332-mortal-kombat-1-cyrax.json](./312332-mortal-kombat-1-cyrax.json) |
 | Mortal Kombat 1: Definitive Edition | 370302 | [370302-mortal-kombat-1-definitive-edition.json](./370302-mortal-kombat-1-definitive-edition.json) |
