@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are the Inch Valley Captive | 319180 | [319180-you-are-the-inch-valley-captive.json](./319180-you-are-the-inch-valley-captive.json) |
 | You are the Judge! | 238472 | [238472-you-are-the-judge.json](./238472-you-are-the-judge.json) |
 | You Are the Loading Screen | 407355 | [407355-you-are-the-loading-screen.json](./407355-you-are-the-loading-screen.json) |
+| You Are The Victim | 277542 | [277542-you-are-the-victim.json](./277542-you-are-the-victim.json) |
 | You are the Weapon | 230309 | [230309-you-are-the-weapon.json](./230309-you-are-the-weapon.json) |
 | You Are the Wormhole | 128621 | [128621-you-are-the-wormhole.json](./128621-you-are-the-wormhole.json) |
 | You Brought a Shield to a Tentacle Fight | 181791 | [181791-you-brought-a-shield-to-a-tentacle-fight.json](./181791-you-brought-a-shield-to-a-tentacle-fight.json) |
