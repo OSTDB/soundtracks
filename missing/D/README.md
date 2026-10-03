@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: The Thief and the Tinderbox - Collector's Edition | 31064 | [31064-dark-parables-the-thief-and-the-tinderbox-collectors-edition.json](./31064-dark-parables-the-thief-and-the-tinderbox-collectors-edition.json) |
 | Dark Passenger - An experimental audio game | 24071 | [24071-dark-passenger-an-experimental-audio-game.json](./24071-dark-passenger-an-experimental-audio-game.json) |
 | Dark Past | 211817 | [211817-dark-past.json](./211817-dark-past.json) |
+| Dark Past Darker Future | 255254 | [255254-dark-past-darker-future.json](./255254-dark-past-darker-future.json) |
 | Dark Place | 366307 | [366307-dark-place.json](./366307-dark-place.json) |
 | Dark Place 1 | 272026 | [272026-dark-place-1.json](./272026-dark-place-1.json) |
 | Dark Place 2 | 272027 | [272027-dark-place-2.json](./272027-dark-place-2.json) |
@@ -3067,6 +3068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Crisis | 415900 | [415900-demon-crisis.json](./415900-demon-crisis.json) |
 | Demon Crush | 303469 | [303469-demon-crush.json](./303469-demon-crush.json) |
 | Demon Demon | 341678 | [341678-demon-demon.json](./341678-demon-demon.json) |
+| Demon Dodger | 255249 | [255249-demon-dodger.json](./255249-demon-dodger.json) |
 | Demon Driver | 47283 | [47283-demon-driver.json](./47283-demon-driver.json) |
 | Demon Dust | 327819 | [327819-demon-dust.json](./327819-demon-dust.json) |
 | Demon Eclipse | 141138 | [141138-demon-eclipse.json](./141138-demon-eclipse.json) |
@@ -6419,6 +6421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom & Destiny Advanced | 25944 | [25944-doom-and-destiny-advanced.json](./25944-doom-and-destiny-advanced.json) |
 | Doom & Destiny Worlds | 133012 | [133012-doom-and-destiny-worlds.json](./133012-doom-and-destiny-worlds.json) |
 | Doom & Destiny Worlds: Survival of the Nerdiest | 171949 | [171949-doom-and-destiny-worlds-survival-of-the-nerdiest.json](./171949-doom-and-destiny-worlds-survival-of-the-nerdiest.json) |
+| Doom & Destiny Worlds: Ultimate Supporter Edition | 255260 | [255260-doom-and-destiny-worlds-ultimate-supporter-edition.json](./255260-doom-and-destiny-worlds-ultimate-supporter-edition.json) |
 | Doom + Doom II | 313126 | [313126-doom-doom-ii.json](./313126-doom-doom-ii.json) |
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
 | Doom 3: BFG Edition | 6968 | [6968-doom-3-bfg-edition.json](./6968-doom-3-bfg-edition.json) |
@@ -8554,6 +8557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Brain Vol.1: Calculation | 127170 | [127170-dual-brain-vol-1-calculation.json](./127170-dual-brain-vol-1-calculation.json) |
 | Dual Brain: Complete Edition | 196178 | [196178-dual-brain-complete-edition.json](./196178-dual-brain-complete-edition.json) |
 | Dual Bus Simulator | 269028 | [269028-dual-bus-simulator.json](./269028-dual-bus-simulator.json) |
+| Dual Chroma | 255266 | [255266-dual-chroma.json](./255266-dual-chroma.json) |
 | Dual Chroma: Far Shore | 196699 | [196699-dual-chroma-far-shore.json](./196699-dual-chroma-far-shore.json) |
 | Dual Chroma: Haereticus | 259563 | [259563-dual-chroma-haereticus.json](./259563-dual-chroma-haereticus.json) |
 | Dual Core | 33168 | [33168-dual-core.json](./33168-dual-core.json) |
