@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Variant: Limits | 69317 | [69317-variant-limits.json](./69317-variant-limits.json) |
 | Varicella | 9519 | [9519-varicella.json](./9519-varicella.json) |
 | Varion | 87960 | [87960-varion.json](./87960-varion.json) |
+| Various Daylife: Mobile | 233061 | [233061-various-daylife-mobile.json](./233061-various-daylife-mobile.json) |
 | Varista | 258600 | [258600-varista.json](./258600-varista.json) |
 | VariTale | 71508 | [71508-varitale.json](./71508-varitale.json) |
 | Varkon | 95368 | [95368-varkon.json](./95368-varkon.json) |
@@ -827,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versus in the Dark | 325021 | [325021-versus-in-the-dark.json](./325021-versus-in-the-dark.json) |
 | Versus One | 391755 | [391755-versus-one.json](./391755-versus-one.json) |
 | Versus Vampire | 257923 | [257923-versus-vampire.json](./257923-versus-vampire.json) |
+| Versus: Boys and Girls | 233062 | [233062-versus-boys-and-girls.json](./233062-versus-boys-and-girls.json) |
 | Versus: The Lost Ones | 34598 | [34598-versus-the-lost-ones.json](./34598-versus-the-lost-ones.json) |
 | Versus. | 201700 | [201700-versus.json](./201700-versus.json) |
 | VertalStrike | 400892 | [400892-vertalstrike.json](./400892-vertalstrike.json) |
@@ -851,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertigo | 26620 | [26620-vertigo.json](./26620-vertigo.json) |
 | Vertigo | 42850 | [42850-vertigo.json](./42850-vertigo.json) |
 | Vertigo 2: Into the Aether | 325823 | [325823-vertigo-2-into-the-aether.json](./325823-vertigo-2-into-the-aether.json) |
+| Vertigo: Binaural Beats | 233063 | [233063-vertigo-binaural-beats.json](./233063-vertigo-binaural-beats.json) |
 | Vertigo: Remastered | 135121 | [135121-vertigo-remastered.json](./135121-vertigo-remastered.json) |
 | Vertigrowl | 338571 | [338571-vertigrowl.json](./338571-vertigrowl.json) |
 | Vertix.io | 58327 | [58327-vertix-io.json](./58327-vertix-io.json) |
