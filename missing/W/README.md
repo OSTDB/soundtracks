@@ -2614,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wikipedia Gacha | 394176 | [394176-wikipedia-gacha.json](./394176-wikipedia-gacha.json) |
 | Wiktor TD | 178426 | [178426-wiktor-td.json](./178426-wiktor-td.json) |
 | Wilbur Scoville’s 151st Birthday | 375817 | [375817-wilbur-scoville-s-151st-birthday.json](./375817-wilbur-scoville-s-151st-birthday.json) |
+| Wild | 242115 | [242115-wild.json](./242115-wild.json) |
 | Wild | 257947 | [257947-wild.json](./257947-wild.json) |
 | WiLD | 7608 | [7608-wild.json](./7608-wild.json) |
 | Wild 9 | 15840 | [15840-wild-9.json](./15840-wild-9.json) |
