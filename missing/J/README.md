@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jerry Jobhopper | 122174 | [122174-jerry-jobhopper.json](./122174-jerry-jobhopper.json) |
 | Jerry McPartlin: Rebel with a Cause | 286508 | [286508-jerry-mcpartlin-rebel-with-a-cause.json](./286508-jerry-mcpartlin-rebel-with-a-cause.json) |
 | Jerry Wanker and the Quest to get Laid | 153339 | [153339-jerry-wanker-and-the-quest-to-get-laid.json](./153339-jerry-wanker-and-the-quest-to-get-laid.json) |
+| Jerry's Autowalking Adventure to Rescue His Cheese | 278080 | [278080-jerrys-autowalking-adventure-to-rescue-his-cheese.json](./278080-jerrys-autowalking-adventure-to-rescue-his-cheese.json) |
 | Jerry's Merry Christmas | 310659 | [310659-jerrys-merry-christmas.json](./310659-jerrys-merry-christmas.json) |
 | Jesse 'The Body' Ventura Wrestling Superstars | 46256 | [46256-jesse-the-body-ventura-wrestling-superstars.json](./46256-jesse-the-body-ventura-wrestling-superstars.json) |
 | Jessica Deliverson | 340772 | [340772-jessica-deliverson.json](./340772-jessica-deliverson.json) |
@@ -1408,6 +1409,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey's End | 142898 | [142898-journeys-end.json](./142898-journeys-end.json) |
 | Journey's Legend | 274501 | [274501-journeys-legend.json](./274501-journeys-legend.json) |
 | Journeyman | 236373 | [236373-journeyman.json](./236373-journeyman.json) |
+| Joust | 278084 | [278084-joust.json](./278084-joust.json) |
+| Joust | 278086 | [278086-joust.json](./278086-joust.json) |
+| Joust | 278088 | [278088-joust.json](./278088-joust.json) |
+| Joust | 278089 | [278089-joust.json](./278089-joust.json) |
+| Joust | 278090 | [278090-joust.json](./278090-joust.json) |
+| Joust | 278091 | [278091-joust.json](./278091-joust.json) |
 | Joust | 278128 | [278128-joust.json](./278128-joust.json) |
 | Joust | 278132 | [278132-joust.json](./278132-joust.json) |
 | Joust | 287078 | [287078-joust.json](./287078-joust.json) |
