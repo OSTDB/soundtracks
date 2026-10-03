@@ -4837,6 +4837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platformance: Castle Pain | 66389 | [66389-platformance-castle-pain.json](./66389-platformance-castle-pain.json) |
 | Platformer Execute | 163980 | [163980-platformer-execute.json](./163980-platformer-execute.json) |
 | Platformer Geometry Dash | 290416 | [290416-platformer-geometry-dash.json](./290416-platformer-geometry-dash.json) |
+| Platformer Helmet | 260313 | [260313-platformer-helmet.json](./260313-platformer-helmet.json) |
 | Platformer of Death | 185121 | [185121-platformer-of-death.json](./185121-platformer-of-death.json) |
 | Platformer Paradise | 336645 | [336645-platformer-paradise.json](./336645-platformer-paradise.json) |
 | Platformer Saga | 336375 | [336375-platformer-saga.json](./336375-platformer-saga.json) |
@@ -6859,6 +6860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poyo Poyo Sonic | 317350 | [317350-poyo-poyo-sonic.json](./317350-poyo-poyo-sonic.json) |
 | Pozionista | 310148 | [310148-pozionista.json](./310148-pozionista.json) |
 | Pozzo Jello Crusade | 31807 | [31807-pozzo-jello-crusade.json](./31807-pozzo-jello-crusade.json) |
+| PP | 260296 | [260296-pp.json](./260296-pp.json) |
 | PP Puncher | 158084 | [158084-pp-puncher.json](./158084-pp-puncher.json) |
 | PP: Pathetic Predator | 364479 | [364479-pp-pathetic-predator.json](./364479-pp-pathetic-predator.json) |
 | PPA Pickleball Tour 2025 | 309005 | [309005-ppa-pickleball-tour-2025.json](./309005-ppa-pickleball-tour-2025.json) |
