@@ -1618,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team of Titans | 302376 | [302376-team-of-titans.json](./302376-team-of-titans.json) |
 | Team Racing League | 32141 | [32141-team-racing-league.json](./32141-team-racing-league.json) |
 | Team Rise | 258219 | [258219-team-rise.json](./258219-team-rise.json) |
+| Team Six | 255240 | [255240-team-six.json](./255240-team-six.json) |
 | Team Slay-Bells | 279727 | [279727-team-slay-bells.json](./279727-team-slay-bells.json) |
 | Team Sonic Racing | 103018 | [103018-team-sonic-racing.json](./103018-team-sonic-racing.json) |
 | Team Umizoomi | 47958 | [47958-team-umizoomi.json](./47958-team-umizoomi.json) |
@@ -3262,6 +3263,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Polytopia: New Dawn Skin | 381100 | [381100-the-battle-of-polytopia-new-dawn-skin.json](./381100-the-battle-of-polytopia-new-dawn-skin.json) |
 | The Battle of Polytopia: Ragoo | 366856 | [366856-the-battle-of-polytopia-ragoo.json](./366856-the-battle-of-polytopia-ragoo.json) |
 | The Battle of Polytopia: Sha-po | 366862 | [366862-the-battle-of-polytopia-sha-po.json](./366862-the-battle-of-polytopia-sha-po.json) |
+| The Battle of Polytopia: Skin Pack 1 | 255230 | [255230-the-battle-of-polytopia-skin-pack-1.json](./255230-the-battle-of-polytopia-skin-pack-1.json) |
+| The Battle of Polytopia: Skin Pack 2 | 255231 | [255231-the-battle-of-polytopia-skin-pack-2.json](./255231-the-battle-of-polytopia-skin-pack-2.json) |
+| The Battle of Polytopia: Skin Pack 3 | 255232 | [255232-the-battle-of-polytopia-skin-pack-3.json](./255232-the-battle-of-polytopia-skin-pack-3.json) |
 | The Battle of Polytopia: Solaris | 370330 | [370330-the-battle-of-polytopia-solaris.json](./370330-the-battle-of-polytopia-solaris.json) |
 | The Battle of Polytopia: Yorthwober | 366859 | [366859-the-battle-of-polytopia-yorthwober.json](./366859-the-battle-of-polytopia-yorthwober.json) |
 | The Battle of Polytopia+ | 357407 | [357407-the-battle-of-polytopia.json](./357407-the-battle-of-polytopia.json) |
@@ -4064,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Underground Parking Lot | 344351 | [344351-the-cursed-underground-parking-lot.json](./344351-the-cursed-underground-parking-lot.json) |
 | The Cursewood | 240720 | [240720-the-cursewood.json](./240720-the-cursewood.json) |
 | The Cursor Game | 292260 | [292260-the-cursor-game.json](./292260-the-cursor-game.json) |
+| The Customer is Always Right! | 255270 | [255270-the-customer-is-always-right.json](./255270-the-customer-is-always-right.json) |
 | The Cute Whale | 378182 | [378182-the-cute-whale.json](./378182-the-cute-whale.json) |
 | The CW Quest | 58501 | [58501-the-cw-quest.json](./58501-the-cw-quest.json) |
 | The Cyber Masquerade: Summer Beach Reverie | 295340 | [295340-the-cyber-masquerade-summer-beach-reverie.json](./295340-the-cyber-masquerade-summer-beach-reverie.json) |
