@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Four | 220090 | [220090-fantastic-four.json](./220090-fantastic-four.json) |
 | Fantastic Four: Rise of the Silver Surfer | 197930 | [197930-fantastic-four-rise-of-the-silver-surfer.json](./197930-fantastic-four-rise-of-the-silver-surfer.json) |
 | Fantastic Frolic | 301260 | [301260-fantastic-frolic.json](./301260-fantastic-frolic.json) |
+| Fantastic Haven | 267590 | [267590-fantastic-haven.json](./267590-fantastic-haven.json) |
 | Fantastic Honey | 154400 | [154400-fantastic-honey.json](./154400-fantastic-honey.json) |
 | Fantastic Journey | 38391 | [38391-fantastic-journey.json](./38391-fantastic-journey.json) |
 | Fantastic Kingdom | 120421 | [120421-fantastic-kingdom.json](./120421-fantastic-kingdom.json) |
@@ -3288,6 +3289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Stories | 244219 | [244219-fishing-stories.json](./244219-fishing-stories.json) |
 | Fishing Superstars | 233640 | [233640-fishing-superstars.json](./233640-fishing-superstars.json) |
 | Fishing the Abyss | 333091 | [333091-fishing-the-abyss.json](./333091-fishing-the-abyss.json) |
+| Fishing the Deep | 267565 | [267565-fishing-the-deep.json](./267565-fishing-the-deep.json) |
 | Fishing Time | 364504 | [364504-fishing-time.json](./364504-fishing-time.json) |
 | Fishing Tycoon Simulator | 356076 | [356076-fishing-tycoon-simulator.json](./356076-fishing-tycoon-simulator.json) |
 | Fishing Universe | 285986 | [285986-fishing-universe.json](./285986-fishing-universe.json) |
@@ -5754,6 +5756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom: A Time to Reckon | 72350 | [72350-freedom-a-time-to-reckon.json](./72350-freedom-a-time-to-reckon.json) |
 | Freedom! Do or Die | 168122 | [168122-freedom-do-or-die.json](./168122-freedom-do-or-die.json) |
 | FreedomBot | 391577 | [391577-freedombot.json](./391577-freedombot.json) |
+| Freefall by MSX Murcia | 267563 | [267563-freefall-by-msx-murcia.json](./267563-freefall-by-msx-murcia.json) |
 | Freefall Racers | 62981 | [62981-freefall-racers.json](./62981-freefall-racers.json) |
 | Freeflow | 340248 | [340248-freeflow.json](./340248-freeflow.json) |
 | Freeforce Airplanes | 340249 | [340249-freeforce-airplanes.json](./340249-freeforce-airplanes.json) |
