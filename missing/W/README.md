@@ -2460,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who is There? | 221761 | [221761-who-is-there.json](./221761-who-is-there.json) |
 | Who Is This Man | 113570 | [113570-who-is-this-man.json](./113570-who-is-this-man.json) |
 | Who Is You | 123549 | [123549-who-is-you.json](./123549-who-is-you.json) |
+| Who Is Your Prince? In the Rich School | 255882 | [255882-who-is-your-prince-in-the-rich-school.json](./255882-who-is-your-prince-in-the-rich-school.json) |
 | Who Killed My Sister? | 122946 | [122946-who-killed-my-sister.json](./122946-who-killed-my-sister.json) |
 | Who Killed the Streamer? | 260645 | [260645-who-killed-the-streamer.json](./260645-who-killed-the-streamer.json) |
 | Who Knows Where They're Going | 184053 | [184053-who-knows-where-theyre-going.json](./184053-who-knows-where-theyre-going.json) |
@@ -4007,6 +4008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Working Dawgs: A-Maze-ing Pipes | 23585 | [23585-working-dawgs-a-maze-ing-pipes.json](./23585-working-dawgs-a-maze-ing-pipes.json) |
 | Working Dawgs: Rivet Retriever | 84936 | [84936-working-dawgs-rivet-retriever.json](./84936-working-dawgs-rivet-retriever.json) |
 | Working Days | 408762 | [408762-working-days.json](./408762-working-days.json) |
+| Working Noir | 255857 | [255857-working-noir.json](./255857-working-noir.json) |
 | Working Woman Barbie | 144856 | [144856-working-woman-barbie.json](./144856-working-woman-barbie.json) |
 | Working95 | 412562 | [412562-working95.json](./412562-working95.json) |
 | Workplace Hazard | 373731 | [373731-workplace-hazard.json](./373731-workplace-hazard.json) |
