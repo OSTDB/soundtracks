@@ -3001,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beggar's Road | 406195 | [406195-beggars-road.json](./406195-beggars-road.json) |
 | Beginning Grammer | 42195 | [42195-beginning-grammer.json](./42195-beginning-grammer.json) |
 | BeGone | 109038 | [109038-begone.json](./109038-begone.json) |
+| Behemoth | 274122 | [274122-behemoth.json](./274122-behemoth.json) |
 | Behemoth | 320724 | [320724-behemoth.json](./320724-behemoth.json) |
 | Behemoth | 323797 | [323797-behemoth.json](./323797-behemoth.json) |
 | Beherit | 125350 | [125350-beherit.json](./125350-beherit.json) |
@@ -5619,6 +5620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodroot | 296107 | [296107-bloodroot.json](./296107-bloodroot.json) |
 | Bloodrun | 304196 | [304196-bloodrun.json](./304196-bloodrun.json) |
 | BloodRush: Undying Wish | 255389 | [255389-bloodrush-undying-wish.json](./255389-bloodrush-undying-wish.json) |
+| Bloodrust | 274151 | [274151-bloodrust.json](./274151-bloodrust.json) |
 | Bloodsaint 2 | 386918 | [386918-bloodsaint-2.json](./386918-bloodsaint-2.json) |
 | Bloodscript//End | 409653 | [409653-bloodscript-end.json](./409653-bloodscript-end.json) |
 | Bloodseed: The Last Helsing | 361286 | [361286-bloodseed-the-last-helsing.json](./361286-bloodseed-the-last-helsing.json) |
