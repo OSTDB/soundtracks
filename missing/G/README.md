@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GastroEx | 215245 | [215245-gastroex.json](./215245-gastroex.json) |
 | Gastronomie | 220319 | [220319-gastronomie.json](./220319-gastronomie.json) |
 | Gasu: The Hugging Dragon | 177486 | [177486-gasu-the-hugging-dragon.json](./177486-gasu-the-hugging-dragon.json) |
+| GasZilla | 226800 | [226800-gaszilla.json](./226800-gaszilla.json) |
 | Gat Rat | 348830 | [348830-gat-rat.json](./348830-gat-rat.json) |
 | Gatari: Sand on Teeth | 78584 | [78584-gatari-sand-on-teeth.json](./78584-gatari-sand-on-teeth.json) |
 | Gatcha Gear | 285115 | [285115-gatcha-gear.json](./285115-gatcha-gear.json) |
@@ -1110,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gatedelvers | 217382 | [217382-gatedelvers.json](./217382-gatedelvers.json) |
 | Gatekeeper | 222906 | [222906-gatekeeper.json](./222906-gatekeeper.json) |
 | Gatekeeper Simulator: Inner Circle | 407484 | [407484-gatekeeper-simulator-inner-circle.json](./407484-gatekeeper-simulator-inner-circle.json) |
+| Gatekeeper: Eclipse | 226801 | [226801-gatekeeper-eclipse.json](./226801-gatekeeper-eclipse.json) |
 | Gatekeeper: Supporter Pack | 310401 | [310401-gatekeeper-supporter-pack.json](./310401-gatekeeper-supporter-pack.json) |
 | GatePass | 319987 | [319987-gatepass.json](./319987-gatepass.json) |
 | Gates and Violet | 413029 | [413029-gates-and-violet.json](./413029-gates-and-violet.json) |
@@ -1415,15 +1417,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Streets | 110088 | [110088-generation-streets.json](./110088-generation-streets.json) |
 | Generation Zero | 65445 | [65445-generation-zero.json](./65445-generation-zero.json) |
 | Generation Zero: Action Hero Bundle | 331540 | [331540-generation-zero-action-hero-bundle.json](./331540-generation-zero-action-hero-bundle.json) |
+| Generation Zero: Base Defense Pack | 226796 | [226796-generation-zero-base-defense-pack.json](./226796-generation-zero-base-defense-pack.json) |
 | Generation Zero: Base Support Pack | 234923 | [234923-generation-zero-base-support-pack.json](./234923-generation-zero-base-support-pack.json) |
 | Generation Zero: Base Warfare Starter Bundle | 234937 | [234937-generation-zero-base-warfare-starter-bundle.json](./234937-generation-zero-base-warfare-starter-bundle.json) |
 | Generation Zero: Bikes | 234933 | [234933-generation-zero-bikes.json](./234933-generation-zero-bikes.json) |
+| Generation Zero: Blockbuster Vanity Pack | 226797 | [226797-generation-zero-blockbuster-vanity-pack.json](./226797-generation-zero-blockbuster-vanity-pack.json) |
 | Generation Zero: Camo Weapon Skins Pack | 234912 | [234912-generation-zero-camo-weapon-skins-pack.json](./234912-generation-zero-camo-weapon-skins-pack.json) |
 | Generation Zero: Eastern European Weapons Pack | 234909 | [234909-generation-zero-eastern-european-weapons-pack.json](./234909-generation-zero-eastern-european-weapons-pack.json) |
 | Generation Zero: Fnix Rising | 150087 | [150087-generation-zero-fnix-rising.json](./150087-generation-zero-fnix-rising.json) |
 | Generation Zero: Motorbikes Pack | 234917 | [234917-generation-zero-motorbikes-pack.json](./234917-generation-zero-motorbikes-pack.json) |
 | Generation Zero: Resistance Bundle | 164785 | [164785-generation-zero-resistance-bundle.json](./164785-generation-zero-resistance-bundle.json) |
 | Generation Zero: Rivals and Experimental Weapons | 234932 | [234932-generation-zero-rivals-and-experimental-weapons.json](./234932-generation-zero-rivals-and-experimental-weapons.json) |
+| Generation Zero: Schweet Vanity Pack | 226798 | [226798-generation-zero-schweet-vanity-pack.json](./226798-generation-zero-schweet-vanity-pack.json) |
 | Generation Zero: Soviet Weapons Pack | 234927 | [234927-generation-zero-soviet-weapons-pack.json](./234927-generation-zero-soviet-weapons-pack.json) |
 | Generation Zero: Starter Pack Bundle | 331542 | [331542-generation-zero-starter-pack-bundle.json](./331542-generation-zero-starter-pack-bundle.json) |
 | Generation Zero: Tactical Equipment Pack | 234919 | [234919-generation-zero-tactical-equipment-pack.json](./234919-generation-zero-tactical-equipment-pack.json) |
@@ -4277,6 +4282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Lane 981 | 121601 | [121601-gravity-lane-981.json](./121601-gravity-lane-981.json) |
 | Gravity Leo | 108029 | [108029-gravity-leo.json](./108029-gravity-leo.json) |
 | Gravity Machine | 294441 | [294441-gravity-machine.json](./294441-gravity-machine.json) |
+| Gravity Magician | 226671 | [226671-gravity-magician.json](./226671-gravity-magician.json) |
 | Gravity Mastery | 144191 | [144191-gravity-mastery.json](./144191-gravity-mastery.json) |
 | Gravity Mike | 239624 | [239624-gravity-mike.json](./239624-gravity-mike.json) |
 | Gravity Racers | 379054 | [379054-gravity-racers.json](./379054-gravity-racers.json) |
