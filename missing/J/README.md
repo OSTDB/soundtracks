@@ -1596,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumanji: The Curse Returns - Ultimate Movie Game Bundle | 312087 | [312087-jumanji-the-curse-returns-ultimate-movie-game-bundle.json](./312087-jumanji-the-curse-returns-ultimate-movie-game-bundle.json) |
 | Jumanji: The Curse Returns - Welcome to the Jungle | 210870 | [210870-jumanji-the-curse-returns-welcome-to-the-jungle.json](./210870-jumanji-the-curse-returns-welcome-to-the-jungle.json) |
 | Jumara | 393498 | [393498-jumara.json](./393498-jumara.json) |
+| Jumble | 245461 | [245461-jumble.json](./245461-jumble.json) |
 | Jumble Blocks | 58507 | [58507-jumble-blocks.json](./58507-jumble-blocks.json) |
 | Jumble Madness | 92053 | [92053-jumble-madness.json](./92053-jumble-madness.json) |
 | Jumbled Manifesto | 176252 | [176252-jumbled-manifesto.json](./176252-jumbled-manifesto.json) |
@@ -1846,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungledyret | 286115 | [286115-jungledyret.json](./286115-jungledyret.json) |
 | Jungledyret Hugo: Frikadellekrigen | 286117 | [286117-jungledyret-hugo-frikadellekrigen.json](./286117-jungledyret-hugo-frikadellekrigen.json) |
 | Jungledyret Hugo: Frugtkampen Med Zik Og Zak | 286116 | [286116-jungledyret-hugo-frugtkampen-med-zik-og-zak.json](./286116-jungledyret-hugo-frugtkampen-med-zik-og-zak.json) |
+| Jungler | 245460 | [245460-jungler.json](./245460-jungler.json) |
 | Jungler | 297490 | [297490-jungler.json](./297490-jungler.json) |
 | Junglex | 115616 | [115616-junglex.json](./115616-junglex.json) |
 | Jungo | 257391 | [257391-jungo.json](./257391-jungo.json) |
@@ -2147,6 +2149,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice League Heroes | 248573 | [248573-justice-league-heroes.json](./248573-justice-league-heroes.json) |
 | Justice League United | 313329 | [313329-justice-league-united.json](./313329-justice-league-united.json) |
 | Justice League: Laptop Infantil | 297741 | [297741-justice-league-laptop-infantil.json](./297741-justice-league-laptop-infantil.json) |
+| Justice League: Save Planet Earth | 245459 | [245459-justice-league-save-planet-earth.json](./245459-justice-league-save-planet-earth.json) |
+| Justice League: The Rescue | 245458 | [245458-justice-league-the-rescue.json](./245458-justice-league-the-rescue.json) |
 | Justice Project | 398968 | [398968-justice-project.json](./398968-justice-project.json) |
 | Justice Seeker: Unsafe Data | 236772 | [236772-justice-seeker-unsafe-data.json](./236772-justice-seeker-unsafe-data.json) |
 | Justice Strikes | 129017 | [129017-justice-strikes.json](./129017-justice-strikes.json) |
