@@ -4197,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Portal CCG | 87592 | [87592-lost-portal-ccg.json](./87592-lost-portal-ccg.json) |
 | Lost Princess | 266775 | [266775-lost-princess.json](./266775-lost-princess.json) |
 | Lost Princess: City | 286229 | [286229-lost-princess-city.json](./286229-lost-princess-city.json) |
+| Lost Princess: Winterland | 271908 | [271908-lost-princess-winterland.json](./271908-lost-princess-winterland.json) |
 | Lost Prototype | 356643 | [356643-lost-prototype.json](./356643-lost-prototype.json) |
 | Lost Pyramid | 236818 | [236818-lost-pyramid.json](./236818-lost-pyramid.json) |
 | Lost Qubixle | 175257 | [175257-lost-qubixle.json](./175257-lost-qubixle.json) |
