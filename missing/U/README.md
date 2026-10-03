@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Un juego de huevos | 81390 | [81390-un-juego-de-huevos.json](./81390-un-juego-de-huevos.json) |
 | Un Paseo Por Villa Tronco | 396527 | [396527-un-paseo-por-villa-tronco.json](./396527-un-paseo-por-villa-tronco.json) |
 | Un Petit Noel | 406843 | [406843-un-petit-noel.json](./406843-un-petit-noel.json) |
+| Un Presagio de Huesos | 259751 | [259751-un-presagio-de-huesos.json](./259751-un-presagio-de-huesos.json) |
 | Un-Matching Game | 307293 | [307293-un-matching-game.json](./307293-un-matching-game.json) |
 | Un:logical | 320393 | [320393-un-logical.json](./320393-un-logical.json) |
 | Un/Fragment | 289925 | [289925-un-fragment.json](./289925-un-fragment.json) |
