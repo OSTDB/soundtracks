@@ -3361,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 2 Kaizo Edition | 291560 | [291560-pikmin-2-kaizo-edition.json](./291560-pikmin-2-kaizo-edition.json) |
 | Pikmin 2 Lands of Torture | 292126 | [292126-pikmin-2-lands-of-torture.json](./292126-pikmin-2-lands-of-torture.json) |
 | Pikmin 2 Maps in Pikmin 3 | 294792 | [294792-pikmin-2-maps-in-pikmin-3.json](./294792-pikmin-2-maps-in-pikmin-3.json) |
+| Pikmin 2 Multiplayer | 233586 | [233586-pikmin-2-multiplayer.json](./233586-pikmin-2-multiplayer.json) |
 | Pikmin 2 Power Cut Blackout | 292127 | [292127-pikmin-2-power-cut-blackout.json](./292127-pikmin-2-power-cut-blackout.json) |
 | Pikmin 2 Power-Cut | 291552 | [291552-pikmin-2-power-cut.json](./291552-pikmin-2-power-cut.json) |
 | Pikmin 2 Regrown | 299745 | [299745-pikmin-2-regrown.json](./299745-pikmin-2-regrown.json) |
@@ -4369,6 +4370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Robot Hunter | 111177 | [111177-pixel-robot-hunter.json](./111177-pixel-robot-hunter.json) |
 | Pixel Robot Return | 186319 | [186319-pixel-robot-return.json](./186319-pixel-robot-return.json) |
 | Pixel Room | 393804 | [393804-pixel-room.json](./393804-pixel-room.json) |
+| Pixel Rooms | 233554 | [233554-pixel-rooms.json](./233554-pixel-rooms.json) |
 | Pixel Run! | 252203 | [252203-pixel-run.json](./252203-pixel-run.json) |
 | Pixel Sangokushi | 200730 | [200730-pixel-sangokushi.json](./200730-pixel-sangokushi.json) |
 | Pixel Shield | 110518 | [110518-pixel-shield.json](./110518-pixel-shield.json) |
@@ -5647,6 +5649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Eon Guardians | 241388 | [241388-pokemon-eon-guardians.json](./241388-pokemon-eon-guardians.json) |
 | Pokémon Ephemerald | 206144 | [206144-pokemon-ephemerald.json](./206144-pokemon-ephemerald.json) |
 | Pokémon Eterna Emoción | 333642 | [333642-pokemon-eterna-emocion.json](./333642-pokemon-eterna-emocion.json) |
+| Pokémon Eternal X | 233652 | [233652-pokemon-eternal-x.json](./233652-pokemon-eternal-x.json) |
 | Pokémon Feuergrün Edition | 205126 | [205126-pokemon-feuergrun-edition.json](./205126-pokemon-feuergrun-edition.json) |
 | Pokémon Fire Ash | 135871 | [135871-pokemon-fire-ash.json](./135871-pokemon-fire-ash.json) |
 | Pokémon Fire Red Extended | 305997 | [305997-pokemon-fire-red-extended.json](./305997-pokemon-fire-red-extended.json) |
@@ -8118,6 +8121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Spaghetti | 60002 | [60002-project-spaghetti.json](./60002-project-spaghetti.json) |
 | Project Spectrum | 361889 | [361889-project-spectrum.json](./361889-project-spectrum.json) |
 | Project Speed 2 | 188681 | [188681-project-speed-2.json](./188681-project-speed-2.json) |
+| Project Sphinx | 233665 | [233665-project-sphinx.json](./233665-project-sphinx.json) |
 | Project Spikepig | 326997 | [326997-project-spikepig.json](./326997-project-spikepig.json) |
 | Project Stack | 311786 | [311786-project-stack.json](./311786-project-stack.json) |
 | Project Star | 272347 | [272347-project-star.json](./272347-project-star.json) |
@@ -8206,6 +8210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Jurit | 385581 | [385581-project-jurit.json](./385581-project-jurit.json) |
 | Project: Kate | 262436 | [262436-project-kate.json](./262436-project-kate.json) |
 | Project: Mania | 333562 | [333562-project-mania.json](./333562-project-mania.json) |
+| Project: Mirror | 233562 | [233562-project-mirror.json](./233562-project-mirror.json) |
 | Project: Mist | 272348 | [272348-project-mist.json](./272348-project-mist.json) |
 | Project: Nightlight | 224650 | [224650-project-nightlight.json](./224650-project-nightlight.json) |
 | Project: Nitro | 172060 | [172060-project-nitro.json](./172060-project-nitro.json) |
@@ -9100,6 +9105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Block Blast | 221382 | [221382-puzzle-block-blast.json](./221382-puzzle-block-blast.json) |
 | Puzzle Block Wood - Wooden Block & Puzzle Game | 100936 | [100936-puzzle-block-wood-wooden-block-and-puzzle-game.json](./100936-puzzle-block-wood-wooden-block-and-puzzle-game.json) |
 | Puzzle Blocks | 83937 | [83937-puzzle-blocks.json](./83937-puzzle-blocks.json) |
+| Puzzle Bobble 2X/Bust-A-Move 2: Arcade Edition & Puzzle Bobble 3/Bust-A-Move 3: S-Tribute | 233580 | [233580-puzzle-bobble-2x-bust-a-move-2-arcade-edition-and-puzzle-bobble-3-bust-a-move-3-s-tribute.json](./233580-puzzle-bobble-2x-bust-a-move-2-arcade-edition-and-puzzle-bobble-3-bust-a-move-3-s-tribute.json) |
 | Puzzle Bobble Everybubble! | 215033 | [215033-puzzle-bobble-everybubble.json](./215033-puzzle-bobble-everybubble.json) |
 | Puzzle Bobble Pocket | 42774 | [42774-puzzle-bobble-pocket.json](./42774-puzzle-bobble-pocket.json) |
 | Puzzle Bobble VS | 47567 | [47567-puzzle-bobble-vs.json](./47567-puzzle-bobble-vs.json) |
