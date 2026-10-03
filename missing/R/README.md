@@ -2649,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renegade: The Battle for Jacob's Star | 69562 | [69562-renegade-the-battle-for-jacobs-star.json](./69562-renegade-the-battle-for-jacobs-star.json) |
 | Renex III | 73884 | [73884-renex-iii.json](./73884-renex-iii.json) |
 | Renfield | 82885 | [82885-renfield.json](./82885-renfield.json) |
+| Renfield: Bring Your Own Blood | 245426 | [245426-renfield-bring-your-own-blood.json](./245426-renfield-bring-your-own-blood.json) |
 | Renga in Four Parts | 138150 | [138150-renga-in-four-parts.json](./138150-renga-in-four-parts.json) |
 | Rengoku | 325284 | [325284-rengoku.json](./325284-rengoku.json) |
 | Rengoku II: The Stairway to H.E.A.V.E.N. | 24185 | [24185-rengoku-ii-the-stairway-to-h-e-a-v-e-n.json](./24185-rengoku-ii-the-stairway-to-h-e-a-v-e-n.json) |
@@ -4315,6 +4316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Rescue | 23897 | [23897-river-rescue.json](./23897-river-rescue.json) |
 | River Runners | 384510 | [384510-river-runners.json](./384510-river-runners.json) |
 | River Rush | 199488 | [199488-river-rush.json](./199488-river-rush.json) |
+| River Song | 245359 | [245359-river-song.json](./245359-river-song.json) |
 | River Striker | 175174 | [175174-river-striker.json](./175174-river-striker.json) |
 | River Tiles | 135693 | [135693-river-tiles.json](./135693-river-tiles.json) |
 | River Towns | 324918 | [324918-river-towns.json](./324918-river-towns.json) |
@@ -4937,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 2: Gray Zone | 269879 | [269879-rockman-2-gray-zone.json](./269879-rockman-2-gray-zone.json) |
 | Rockman 3: Burst Chaser | 304132 | [304132-rockman-3-burst-chaser.json](./304132-rockman-3-burst-chaser.json) |
 | Rockman 3: Claw | 269880 | [269880-rockman-3-claw.json](./269880-rockman-3-claw.json) |
+| Rockman 3: The Last of Mushroom Kingdom?! | 245360 | [245360-rockman-3-the-last-of-mushroom-kingdom.json](./245360-rockman-3-the-last-of-mushroom-kingdom.json) |
 | Rockman 4: Burst Chaser X Air Sliding | 245380 | [245380-rockman-4-burst-chaser-x-air-sliding.json](./245380-rockman-4-burst-chaser-x-air-sliding.json) |
 | Rockman 5: Double Jumper | 322118 | [322118-rockman-5-double-jumper.json](./322118-rockman-5-double-jumper.json) |
 | Rockman 7 EP | 212782 | [212782-rockman-7-ep.json](./212782-rockman-7-ep.json) |
@@ -5830,6 +5833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RouteWhom | 394513 | [394513-routewhom.json](./394513-routewhom.json) |
 | Routine | 308460 | [308460-routine.json](./308460-routine.json) |
 | Routine | 8948 | [8948-routine.json](./8948-routine.json) |
+| Routine Checkup | 245357 | [245357-routine-checkup.json](./245357-routine-checkup.json) |
 | Routine Feat | 125052 | [125052-routine-feat.json](./125052-routine-feat.json) |
 | Rouvy | 319175 | [319175-rouvy.json](./319175-rouvy.json) |
 | Rova | 297209 | [297209-rova.json](./297209-rova.json) |
