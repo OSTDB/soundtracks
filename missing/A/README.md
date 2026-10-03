@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Café Couple's Joyful Life of Resistance | 343239 | [343239-a-cafe-couples-joyful-life-of-resistance.json](./343239-a-cafe-couples-joyful-life-of-resistance.json) |
 | A Cairn Tale | 251001 | [251001-a-cairn-tale.json](./251001-a-cairn-tale.json) |
 | A Call For Help | 351156 | [351156-a-call-for-help.json](./351156-a-call-for-help.json) |
+| A Call From Under the House | 244912 | [244912-a-call-from-under-the-house.json](./244912-a-call-from-under-the-house.json) |
 | A Call to Mars | 141755 | [141755-a-call-to-mars.json](./141755-a-call-to-mars.json) |
 | A Car That Turns | 205084 | [205084-a-car-that-turns.json](./205084-a-car-that-turns.json) |
 | A Case for Cap & Co | 242642 | [242642-a-case-for-cap-and-co.json](./242642-a-case-for-cap-and-co.json) |
@@ -4163,6 +4164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amy's Fun-2-3 Adventure | 14255 | [14255-amys-fun-2-3-adventure.json](./14255-amys-fun-2-3-adventure.json) |
 | Amygdala | 268142 | [268142-amygdala.json](./268142-amygdala.json) |
 | Amygdala: Prelude | 269284 | [269284-amygdala-prelude.json](./269284-amygdala-prelude.json) |
+| An Action Roguelite For When You Have 20 Minutes to Spare | 244828 | [244828-an-action-roguelite-for-when-you-have-20-minutes-to-spare.json](./244828-an-action-roguelite-for-when-you-have-20-minutes-to-spare.json) |
 | An Adventurer's Gallantry | 238518 | [238518-an-adventurers-gallantry.json](./238518-an-adventurers-gallantry.json) |
 | An Adventurer's Tale | 112604 | [112604-an-adventurers-tale.json](./112604-an-adventurers-tale.json) |
 | An Afternoon Rippling | 122337 | [122337-an-afternoon-rippling.json](./122337-an-afternoon-rippling.json) |
