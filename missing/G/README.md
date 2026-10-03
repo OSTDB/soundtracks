@@ -2980,6 +2980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GodFinger | 66697 | [66697-godfinger.json](./66697-godfinger.json) |
 | Godfist | 235356 | [235356-godfist.json](./235356-godfist.json) |
 | Godforged: Origins of Ozgalor | 313473 | [313473-godforged-origins-of-ozgalor.json](./313473-godforged-origins-of-ozgalor.json) |
+| Godforsaken | 258085 | [258085-godforsaken.json](./258085-godforsaken.json) |
 | Godkiller | 161172 | [161172-godkiller.json](./161172-godkiller.json) |
 | Godland: The Fire Quest | 202666 | [202666-godland-the-fire-quest.json](./202666-godland-the-fire-quest.json) |
 | Godland: The Fire Quest 2 | 219662 | [219662-godland-the-fire-quest-2.json](./219662-godland-the-fire-quest-2.json) |
@@ -4824,6 +4825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groundhog Day: Like Father Like Son | 114782 | [114782-groundhog-day-like-father-like-son.json](./114782-groundhog-day-like-father-like-son.json) |
 | Group S Challenge | 5856 | [5856-group-s-challenge.json](./5856-group-s-challenge.json) |
 | Groupel | 374057 | [374057-groupel.json](./374057-groupel.json) |
+| Grouphack | 258096 | [258096-grouphack.json](./258096-grouphack.json) |
 | Groups of Seven | 335861 | [335861-groups-of-seven.json](./335861-groups-of-seven.json) |
 | Grove Island | 219162 | [219162-grove-island.json](./219162-grove-island.json) |
 | Grove: Nostalgia's End | 192952 | [192952-grove-nostalgias-end.json](./192952-grove-nostalgias-end.json) |
