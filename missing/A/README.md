@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Flappy Bird in Real Life | 111077 | [111077-a-flappy-bird-in-real-life.json](./111077-a-flappy-bird-in-real-life.json) |
 | A Flower from Hermes | 185015 | [185015-a-flower-from-hermes.json](./185015-a-flower-from-hermes.json) |
 | A Fly in the Array | 387613 | [387613-a-fly-in-the-array.json](./387613-a-fly-in-the-array.json) |
+| A Fool's Art Gallery | 268144 | [268144-a-fools-art-gallery.json](./268144-a-fools-art-gallery.json) |
 | A Foreign Land of Us | 410436 | [410436-a-foreign-land-of-us.json](./410436-a-foreign-land-of-us.json) |
 | A Forest | 387527 | [387527-a-forest.json](./387527-a-forest.json) |
 | A Forest Tale: Porasy | 330330 | [330330-a-forest-tale-porasy.json](./330330-a-forest-tale-porasy.json) |
@@ -808,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aboard the Adventure | 187395 | [187395-aboard-the-adventure.json](./187395-aboard-the-adventure.json) |
 | Abode | 26370 | [26370-abode.json](./26370-abode.json) |
 | Abode: Definitive Edition | 337789 | [337789-abode-definitive-edition.json](./337789-abode-definitive-edition.json) |
+| Aboleo: Shadow of the Crown | 268145 | [268145-aboleo-shadow-of-the-crown.json](./268145-aboleo-shadow-of-the-crown.json) |
 | Abomi Nation: Monster Rifts | 315683 | [315683-abomi-nation-monster-rifts.json](./315683-abomi-nation-monster-rifts.json) |
 | Abomin-Agency! | 312658 | [312658-abomin-agency.json](./312658-abomin-agency.json) |
 | Abomination | 71602 | [71602-abomination.json](./71602-abomination.json) |
@@ -2637,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aladdin | 204505 | [204505-aladdin.json](./204505-aladdin.json) |
 | Aladdin II | 242085 | [242085-aladdin-ii.json](./242085-aladdin-ii.json) |
 | Aladdin Magic Carpet Racing | 296030 | [296030-aladdin-magic-carpet-racing.json](./296030-aladdin-magic-carpet-racing.json) |
+| Aladdin of the Forsaken Lands | 268143 | [268143-aladdin-of-the-forsaken-lands.json](./268143-aladdin-of-the-forsaken-lands.json) |
 | Aladdin's Magic Lamp | 14235 | [14235-aladdins-magic-lamp.json](./14235-aladdins-magic-lamp.json) |
 | Aladin & the Enchanted Lamp: Extended Edition | 416859 | [416859-aladin-and-the-enchanted-lamp-extended-edition.json](./416859-aladin-and-the-enchanted-lamp-extended-edition.json) |
 | Alakenisland | 195161 | [195161-alakenisland.json](./195161-alakenisland.json) |
@@ -4112,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amy Rose in Sonic the Hedgehog 2 | 129177 | [129177-amy-rose-in-sonic-the-hedgehog-2.json](./129177-amy-rose-in-sonic-the-hedgehog-2.json) |
 | Amy's American Page One | 261277 | [261277-amys-american-page-one.json](./261277-amys-american-page-one.json) |
 | Amy's Fun-2-3 Adventure | 14255 | [14255-amys-fun-2-3-adventure.json](./14255-amys-fun-2-3-adventure.json) |
+| Amygdala | 268142 | [268142-amygdala.json](./268142-amygdala.json) |
 | Amygdala: Prelude | 269284 | [269284-amygdala-prelude.json](./269284-amygdala-prelude.json) |
 | An Adventurer's Gallantry | 238518 | [238518-an-adventurers-gallantry.json](./238518-an-adventurers-gallantry.json) |
 | An Adventurer's Tale | 112604 | [112604-an-adventurers-tale.json](./112604-an-adventurers-tale.json) |
@@ -4411,6 +4415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Symphony | 251051 | [251051-angel-symphony.json](./251051-angel-symphony.json) |
 | Angel Tears | 169444 | [169444-angel-tears.json](./169444-angel-tears.json) |
 | Angel Valley | 297065 | [297065-angel-valley.json](./297065-angel-valley.json) |
+| Angel Whisper: The Suspense Visual Novel Left Behind by a Game Creator. | 268096 | [268096-angel-whisper-the-suspense-visual-novel-left-behind-by-a-game-creator.json](./268096-angel-whisper-the-suspense-visual-novel-left-behind-by-a-game-creator.json) |
 | Angel Wings | 102168 | [102168-angel-wings.json](./102168-angel-wings.json) |
 | Angel Wings | 307047 | [307047-angel-wings.json](./307047-angel-wings.json) |
 | Angel Zero | 398592 | [398592-angel-zero.json](./398592-angel-zero.json) |
@@ -4531,6 +4536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Cat | 379906 | [379906-angry-cat.json](./379906-angry-cat.json) |
 | Angry Celt Warrior | 157124 | [157124-angry-celt-warrior.json](./157124-angry-celt-warrior.json) |
 | Angry Chef World Tour | 381671 | [381671-angry-chef-world-tour.json](./381671-angry-chef-world-tour.json) |
+| Angry Choice | 268147 | [268147-angry-choice.json](./268147-angry-choice.json) |
 | Angry Dog | 399631 | [399631-angry-dog.json](./399631-angry-dog.json) |
 | Angry Emoji the Game | 169927 | [169927-angry-emoji-the-game.json](./169927-angry-emoji-the-game.json) |
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
@@ -4686,6 +4692,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Tower Battle | 314952 | [314952-animal-tower-battle.json](./314952-animal-tower-battle.json) |
 | Animal Town | 299404 | [299404-animal-town.json](./299404-animal-town.json) |
 | Animal Trail Girlish Square | 212799 | [212799-animal-trail-girlish-square.json](./212799-animal-trail-girlish-square.json) |
+| Animal Trail Girlish Square 2 | 268146 | [268146-animal-trail-girlish-square-2.json](./268146-animal-trail-girlish-square-2.json) |
+| Animal Trail Girlish Square Love+Plus | 268148 | [268148-animal-trail-girlish-square-love-plus.json](./268148-animal-trail-girlish-square-love-plus.json) |
 | Animal Trainer Simulator | 226236 | [226236-animal-trainer-simulator.json](./226236-animal-trainer-simulator.json) |
 | Animal Unite | 212472 | [212472-animal-unite.json](./212472-animal-unite.json) |
 | Animal Up! | 121703 | [121703-animal-up.json](./121703-animal-up.json) |
@@ -4704,6 +4712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Zoo: The Forgotten Land | 314879 | [314879-animal-zoo-the-forgotten-land.json](./314879-animal-zoo-the-forgotten-land.json) |
 | AnimalFruitTart | 369230 | [369230-animalfruittart.json](./369230-animalfruittart.json) |
 | Animalia | 216337 | [216337-animalia.json](./216337-animalia.json) |
+| Animalia | 268138 | [268138-animalia.json](./268138-animalia.json) |
 | Animalia Education: Family | 104484 | [104484-animalia-education-family.json](./104484-animalia-education-family.json) |
 | Animalia Memories | 341141 | [341141-animalia-memories.json](./341141-animalia-memories.json) |
 | Animalia Survival | 167832 | [167832-animalia-survival.json](./167832-animalia-survival.json) |
@@ -5623,6 +5632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Land: Baby Seal Edition | 278650 | [278650-aquarium-land-baby-seal-edition.json](./278650-aquarium-land-baby-seal-edition.json) |
 | Aquarium Land: Platinum Edition | 385193 | [385193-aquarium-land-platinum-edition.json](./385193-aquarium-land-platinum-edition.json) |
 | Aquarium Shop | 146919 | [146919-aquarium-shop.json](./146919-aquarium-shop.json) |
+| Aquarius Baseball: Genkai no, Sono Saki e. | 268110 | [268110-aquarius-baseball-genkai-no-sono-saki-e.json](./268110-aquarius-baseball-genkai-no-sono-saki-e.json) |
 | Aquascapes | 144353 | [144353-aquascapes.json](./144353-aquascapes.json) |
 | Aquasplendere | 346208 | [346208-aquasplendere.json](./346208-aquasplendere.json) |
 | Aquasquad | 293246 | [293246-aquasquad.json](./293246-aquasquad.json) |
