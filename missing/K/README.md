@@ -1819,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiniro no Corda Octave | 109570 | [109570-kiniro-no-corda-octave.json](./109570-kiniro-no-corda-octave.json) |
 | Kiniro no Corda: La Corda d'Oro | 57705 | [57705-kiniro-no-corda-la-corda-doro.json](./57705-kiniro-no-corda-la-corda-doro.json) |
 | Kiniro no Korda Starlight Orchestra | 220314 | [220314-kiniro-no-korda-starlight-orchestra.json](./220314-kiniro-no-korda-starlight-orchestra.json) |
+| Kinkey Dong | 275225 | [275225-kinkey-dong.json](./275225-kinkey-dong.json) |
 | Kinky Cosplay Heroes | 275727 | [275727-kinky-cosplay-heroes.json](./275727-kinky-cosplay-heroes.json) |
 | Kinniku Banzuke GB 3: Shinseiki Survival Retsuden! | 281657 | [281657-kinniku-banzuke-gb-3-shinseiki-survival-retsuden.json](./281657-kinniku-banzuke-gb-3-shinseiki-survival-retsuden.json) |
 | Kinniku Banzuke Vol.2: Aratanaru Genkai he no Chousen! | 344463 | [344463-kinniku-banzuke-vol-2-aratanaru-genkai-he-no-chousen.json](./344463-kinniku-banzuke-vol-2-aratanaru-genkai-he-no-chousen.json) |
@@ -2594,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koneko Club | 385748 | [385748-koneko-club.json](./385748-koneko-club.json) |
 | Konfronto | 319134 | [319134-konfronto.json](./319134-konfronto.json) |
 | Kong | 142412 | [142412-kong.json](./142412-kong.json) |
+| Kong | 275224 | [275224-kong.json](./275224-kong.json) |
 | Kong Horror | 395848 | [395848-kong-horror.json](./395848-kong-horror.json) |
 | Kong Studios | 368009 | [368009-kong-studios.json](./368009-kong-studios.json) |
 | Kong: King of Atlantis | 49334 | [49334-kong-king-of-atlantis.json](./49334-kong-king-of-atlantis.json) |
