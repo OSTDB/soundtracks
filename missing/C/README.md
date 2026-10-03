@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesars Palace II | 49910 | [49910-caesars-palace-ii.json](./49910-caesars-palace-ii.json) |
 | Caesars Palace: Black Jack | 218438 | [218438-caesars-palace-black-jack.json](./218438-caesars-palace-black-jack.json) |
 | Café 0: The Sleeping Beast - Remastered | 226278 | [226278-cafe-0-the-sleeping-beast-remastered.json](./226278-cafe-0-the-sleeping-beast-remastered.json) |
+| Cafe Battle | 240844 | [240844-cafe-battle.json](./240844-cafe-battle.json) |
 | Café Bouvardie | 225269 | [225269-cafe-bouvardie.json](./225269-cafe-bouvardie.json) |
 | Cafe Cafe: Idle Bird Collector | 393813 | [393813-cafe-cafe-idle-bird-collector.json](./393813-cafe-cafe-idle-bird-collector.json) |
 | Cafe Crawlers | 184885 | [184885-cafe-crawlers.json](./184885-cafe-crawlers.json) |
@@ -583,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You See What I See?: Dream Machine | 312210 | [312210-can-you-see-what-i-see-dream-machine.json](./312210-can-you-see-what-i-see-dream-machine.json) |
 | Can You Survive?: Survival World | 95825 | [95825-can-you-survive-survival-world.json](./95825-can-you-survive-survival-world.json) |
 | Can Your Pet | 215086 | [215086-can-your-pet.json](./215086-can-your-pet.json) |
+| Can Your Pet 2: Returns | 240842 | [240842-can-your-pet-2-returns.json](./240842-can-your-pet-2-returns.json) |
 | Can't Be Touched | 252892 | [252892-cant-be-touched.json](./252892-cant-be-touched.json) |
 | Can't buy me love! | 363940 | [363940-cant-buy-me-love.json](./363940-cant-buy-me-love.json) |
 | Can't Even See the Sky | 361922 | [361922-cant-even-see-the-sky.json](./361922-cant-even-see-the-sky.json) |
@@ -3298,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess and Dungeons | 186195 | [186195-chess-and-dungeons.json](./186195-chess-and-dungeons.json) |
 | Chess Arena | 117818 | [117818-chess-arena.json](./117818-chess-arena.json) |
 | Chess Arena | 373648 | [373648-chess-arena.json](./373648-chess-arena.json) |
+| Chess Battle Quest | 240843 | [240843-chess-battle-quest.json](./240843-chess-battle-quest.json) |
 | Chess Bomb | 333236 | [333236-chess-bomb.json](./333236-chess-bomb.json) |
 | Chess Boss | 175197 | [175197-chess-boss.json](./175197-chess-boss.json) |
 | Chess Brain: Dark Troops | 157156 | [157156-chess-brain-dark-troops.json](./157156-chess-brain-dark-troops.json) |
@@ -4510,6 +4513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Coast to Coast Radio | 149996 | [149996-cities-skylines-coast-to-coast-radio.json](./149996-cities-skylines-coast-to-coast-radio.json) |
 | Cities: Skylines - Content Creator Pack | 241073 | [241073-cities-skylines-content-creator-pack.json](./241073-cities-skylines-content-creator-pack.json) |
 | Cities: Skylines - Content Creator Pack: Bridges & Piers | 149999 | [149999-cities-skylines-content-creator-pack-bridges-and-piers.json](./149999-cities-skylines-content-creator-pack-bridges-and-piers.json) |
+| Cities: Skylines - Content Creator Pack: Heart of Korea | 240928 | [240928-cities-skylines-content-creator-pack-heart-of-korea.json](./240928-cities-skylines-content-creator-pack-heart-of-korea.json) |
 | Cities: Skylines - Content Creator Pack: Modern City Center | 149993 | [149993-cities-skylines-content-creator-pack-modern-city-center.json](./149993-cities-skylines-content-creator-pack-modern-city-center.json) |
 | Cities: Skylines - Content Creator Pack: Modern Japan | 149995 | [149995-cities-skylines-content-creator-pack-modern-japan.json](./149995-cities-skylines-content-creator-pack-modern-japan.json) |
 | Cities: Skylines - Content Creator Pack: Seaside Resorts | 241037 | [241037-cities-skylines-content-creator-pack-seaside-resorts.json](./241037-cities-skylines-content-creator-pack-seaside-resorts.json) |
@@ -5389,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Cat | 259242 | [259242-clumsy-cat.json](./259242-clumsy-cat.json) |
 | Clumsy Climber | 105782 | [105782-clumsy-climber.json](./105782-clumsy-climber.json) |
 | Clumsy Fighting | 104613 | [104613-clumsy-fighting.json](./104613-clumsy-fighting.json) |
+| Clumsy Fish | 240836 | [240836-clumsy-fish.json](./240836-clumsy-fish.json) |
 | Clumsy Knight vs. Skeletons R | 200065 | [200065-clumsy-knight-vs-skeletons-r.json](./200065-clumsy-knight-vs-skeletons-r.json) |
 | Clumsy Moose Season | 34314 | [34314-clumsy-moose-season.json](./34314-clumsy-moose-season.json) |
 | Clumsy Pirates | 22272 | [22272-clumsy-pirates.json](./22272-clumsy-pirates.json) |
@@ -7562,6 +7567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Solitaire 2 | 337254 | [337254-cosmo-solitaire-2.json](./337254-cosmo-solitaire-2.json) |
 | Cosmo Vulpes | 216194 | [216194-cosmo-vulpes.json](./216194-cosmo-vulpes.json) |
 | Cosmo-Champion | 346089 | [346089-cosmo-champion.json](./346089-cosmo-champion.json) |
+| Cosmo-s | 240860 | [240860-cosmo-s.json](./240860-cosmo-s.json) |
 | Cosmo's Cosmic Adventure | 8484 | [8484-cosmos-cosmic-adventure.json](./8484-cosmos-cosmic-adventure.json) |
 | Cosmo's Delivery and Logistics | 269037 | [269037-cosmos-delivery-and-logistics.json](./269037-cosmos-delivery-and-logistics.json) |
 | Cosmo's Industry | 374841 | [374841-cosmos-industry.json](./374841-cosmos-industry.json) |
@@ -8652,6 +8658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimes of Passion: The Proposal | 313797 | [313797-crimes-of-passion-the-proposal.json](./313797-crimes-of-passion-the-proposal.json) |
 | Crimes: Open Cases | 299858 | [299858-crimes-open-cases.json](./299858-crimes-open-cases.json) |
 | CrimeSceneCleaners | 276258 | [276258-crimescenecleaners.json](./276258-crimescenecleaners.json) |
+| CrimeTrip | 240866 | [240866-crimetrip.json](./240866-crimetrip.json) |
 | Criminal Archives: Alphabetic Murders | 417708 | [417708-criminal-archives-alphabetic-murders.json](./417708-criminal-archives-alphabetic-murders.json) |
 | Criminal Archives: Alphabetic Murders - Collector's Edition | 247497 | [247497-criminal-archives-alphabetic-murders-collectors-edition.json](./247497-criminal-archives-alphabetic-murders-collectors-edition.json) |
 | Criminal Archives: Alphabetic Murders DLC | 248289 | [248289-criminal-archives-alphabetic-murders-dlc.json](./248289-criminal-archives-alphabetic-murders-dlc.json) |
@@ -9027,6 +9034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosswords With Friends | 90063 | [90063-crosswords-with-friends.json](./90063-crosswords-with-friends.json) |
 | Crossy Crash | 98779 | [98779-crossy-crash.json](./98779-crossy-crash.json) |
 | Crossy Road Arcade | 228422 | [228422-crossy-road-arcade.json](./228422-crossy-road-arcade.json) |
+| Crossy Traffic: Road Rider | 240925 | [240925-crossy-traffic-road-rider.json](./240925-crossy-traffic-road-rider.json) |
 | Crossy Word | 393779 | [393779-crossy-word.json](./393779-crossy-word.json) |
 | Crossy Zombie | 213388 | [213388-crossy-zombie.json](./213388-crossy-zombie.json) |
 | Crouching Pony Hidden Dragon | 17173 | [17173-crouching-pony-hidden-dragon.json](./17173-crouching-pony-hidden-dragon.json) |
