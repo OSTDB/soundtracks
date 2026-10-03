@@ -2013,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacomb | 11042 | [11042-catacomb.json](./11042-catacomb.json) |
 | Catacomb | 380060 | [380060-catacomb.json](./380060-catacomb.json) |
 | Catacomb Abyss 3D | 11044 | [11044-catacomb-abyss-3d.json](./11044-catacomb-abyss-3d.json) |
+| Catacomb Chase | 275255 | [275255-catacomb-chase.json](./275255-catacomb-chase.json) |
 | Catacomb Chess | 354050 | [354050-catacomb-chess.json](./354050-catacomb-chess.json) |
 | Catacomb Explorers | 30766 | [30766-catacomb-explorers.json](./30766-catacomb-explorers.json) |
 | Catacomb II | 11043 | [11043-catacomb-ii.json](./11043-catacomb-ii.json) |
@@ -3254,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Deluxe | 86703 | [86703-chess-deluxe.json](./86703-chess-deluxe.json) |
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
 | Chess Empire | 361316 | [361316-chess-empire.json](./361316-chess-empire.json) |
+| Chess for Idiots | 275246 | [275246-chess-for-idiots.json](./275246-chess-for-idiots.json) |
 | Chess for Mac | 131488 | [131488-chess-for-mac.json](./131488-chess-for-mac.json) |
 | Chess For Playdate | 275684 | [275684-chess-for-playdate.json](./275684-chess-for-playdate.json) |
 | Chess Force | 338917 | [338917-chess-force.json](./338917-chess-force.json) |
@@ -7841,6 +7843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackshot | 183982 | [183982-crackshot.json](./183982-crackshot.json) |
 | Cracksman | 346054 | [346054-cracksman.json](./346054-cracksman.json) |
 | CrackSword | 397823 | [397823-cracksword.json](./397823-cracksword.json) |
+| Cracky | 275226 | [275226-cracky.json](./275226-cracky.json) |
 | Cracky Mini | 327354 | [327354-cracky-mini.json](./327354-cracky-mini.json) |
 | Cradle | 271719 | [271719-cradle.json](./271719-cradle.json) |
 | Cradle of Egypt / Cradle of Persia | 201861 | [201861-cradle-of-egypt-cradle-of-persia.json](./201861-cradle-of-egypt-cradle-of-persia.json) |
@@ -8190,6 +8193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Guy | 238061 | [238061-crazy-guy.json](./238061-crazy-guy.json) |
 | Crazy Halloween | 310554 | [310554-crazy-halloween.json](./310554-crazy-halloween.json) |
 | Crazy Hill Racing | 235200 | [235200-crazy-hill-racing.json](./235200-crazy-hill-racing.json) |
+| Crazy Hit 2 | 275261 | [275261-crazy-hit-2.json](./275261-crazy-hit-2.json) |
 | Crazy Hospital | 220209 | [220209-crazy-hospital.json](./220209-crazy-hospital.json) |
 | Crazy Indian | 157555 | [157555-crazy-indian.json](./157555-crazy-indian.json) |
 | Crazy Indian: Minion Skins | 157556 | [157556-crazy-indian-minion-skins.json](./157556-crazy-indian-minion-skins.json) |
@@ -8406,6 +8410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creme de la Creme | 126884 | [126884-creme-de-la-creme.json](./126884-creme-de-la-creme.json) |
 | Creo God Simulator | 115401 | [115401-creo-god-simulator.json](./115401-creo-god-simulator.json) |
 | Crepe Master! | 394504 | [394504-crepe-master.json](./394504-crepe-master.json) |
+| Crepitations | 275210 | [275210-crepitations.json](./275210-crepitations.json) |
 | Crescendo Of Dreams + Surmounting Terror | 271490 | [271490-crescendo-of-dreams-surmounting-terror.json](./271490-crescendo-of-dreams-surmounting-terror.json) |
 | Crescent Bloom | 215095 | [215095-crescent-bloom.json](./215095-crescent-bloom.json) |
 | Crescent County | 305181 | [305181-crescent-county.json](./305181-crescent-county.json) |
