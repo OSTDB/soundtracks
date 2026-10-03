@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Central | 95387 | [95387-safari-central.json](./95387-safari-central.json) |
 | Safari Chef | 249732 | [249732-safari-chef.json](./249732-safari-chef.json) |
 | Safari Hunt 2018 | 108513 | [108513-safari-hunt-2018.json](./108513-safari-hunt-2018.json) |
+| Safari Islands | 241532 | [241532-safari-islands.json](./241532-safari-islands.json) |
 | Safari Kart | 263579 | [263579-safari-kart.json](./263579-safari-kart.json) |
 | Safari Kongo | 79243 | [79243-safari-kongo.json](./79243-safari-kongo.json) |
 | Safari Party | 256224 | [256224-safari-party.json](./256224-safari-party.json) |
@@ -5272,6 +5273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill 5 | 282697 | [282697-silent-hill-5.json](./282697-silent-hill-5.json) |
 | Silent Hill 64 | 310573 | [310573-silent-hill-64.json](./310573-silent-hill-64.json) |
 | Silent Hill Complete Set | 144966 | [144966-silent-hill-complete-set.json](./144966-silent-hill-complete-set.json) |
+| Silent Hill DS | 241445 | [241445-silent-hill-ds.json](./241445-silent-hill-ds.json) |
 | Silent Hill f | 222343 | [222343-silent-hill-f.json](./222343-silent-hill-f.json) |
 | Silent Hill f: Day One Edition | 370229 | [370229-silent-hill-f-day-one-edition.json](./370229-silent-hill-f-day-one-edition.json) |
 | Silent Hill f: Deluxe Edition | 347180 | [347180-silent-hill-f-deluxe-edition.json](./347180-silent-hill-f-deluxe-edition.json) |
@@ -6928,6 +6930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingoween | 338940 | [338940-slingoween.json](./338940-slingoween.json) |
 | Slingshot | 60577 | [60577-slingshot.json](./60577-slingshot.json) |
 | Slingshot Assist | 26842 | [26842-slingshot-assist.json](./26842-slingshot-assist.json) |
+| Slingshot Battle | 241418 | [241418-slingshot-battle.json](./241418-slingshot-battle.json) |
 | Slingshot Blitz: Rewarded Play | 232036 | [232036-slingshot-blitz-rewarded-play.json](./232036-slingshot-blitz-rewarded-play.json) |
 | Slingshot Braves | 23647 | [23647-slingshot-braves.json](./23647-slingshot-braves.json) |
 | Slingshot Effect | 193716 | [193716-slingshot-effect.json](./193716-slingshot-effect.json) |
@@ -13128,6 +13131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steak Stacker | 350597 | [350597-steak-stacker.json](./350597-steak-stacker.json) |
 | Steal & Sell Simulator | 413173 | [413173-steal-and-sell-simulator.json](./413173-steal-and-sell-simulator.json) |
 | Steal a Monke | 370849 | [370849-steal-a-monke.json](./370849-steal-a-monke.json) |
+| Steal It | 241533 | [241533-steal-it.json](./241533-steal-it.json) |
 | Steal My Artificial Heart | 9516 | [9516-steal-my-artificial-heart.json](./9516-steal-my-artificial-heart.json) |
 | Steal Out | 361863 | [361863-steal-out.json](./361863-steal-out.json) |
 | Steal the Meal: Unblock Puzzle | 261514 | [261514-steal-the-meal-unblock-puzzle.json](./261514-steal-the-meal-unblock-puzzle.json) |
