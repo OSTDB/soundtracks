@@ -2786,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phase Paradox | 43436 | [43436-phase-paradox.json](./43436-phase-paradox.json) |
 | Phase Runner | 92490 | [92490-phase-runner.json](./92490-phase-runner.json) |
 | Phase Shift | 50165 | [50165-phase-shift.json](./50165-phase-shift.json) |
+| Phase Zero | 270275 | [270275-phase-zero.json](./270275-phase-zero.json) |
 | Phase Zero | 335684 | [335684-phase-zero.json](./335684-phase-zero.json) |
 | Phasebreak | 404374 | [404374-phasebreak.json](./404374-phasebreak.json) |
 | Phaser Fire | 172725 | [172725-phaser-fire.json](./172725-phaser-fire.json) |
@@ -2845,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phocas Island 2 | 256859 | [256859-phocas-island-2.json](./256859-phocas-island-2.json) |
 | Phoebe Bridgers Song Crafter | 179607 | [179607-phoebe-bridgers-song-crafter.json](./179607-phoebe-bridgers-song-crafter.json) |
 | Phoebe Flingle Finger | 183569 | [183569-phoebe-flingle-finger.json](./183569-phoebe-flingle-finger.json) |
+| Phoenix | 270320 | [270320-phoenix.json](./270320-phoenix.json) |
 | Phoenix | 55015 | [55015-phoenix.json](./55015-phoenix.json) |
 | Phoenix | 71477 | [71477-phoenix.json](./71477-phoenix.json) |
 | Phoenix 2 | 275718 | [275718-phoenix-2.json](./275718-phoenix-2.json) |
