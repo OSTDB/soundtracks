@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Well | 73550 | [73550-abandoned-well.json](./73550-abandoned-well.json) |
 | Abandoned: Chestnut Lodge Asylum | 34552 | [34552-abandoned-chestnut-lodge-asylum.json](./34552-abandoned-chestnut-lodge-asylum.json) |
 | Abandoned: Discovery Island | 272811 | [272811-abandoned-discovery-island.json](./272811-abandoned-discovery-island.json) |
+| Abandoned: Discovery Island - Jeff The Killer | 242614 | [242614-abandoned-discovery-island-jeff-the-killer.json](./242614-abandoned-discovery-island-jeff-the-killer.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
 | Abathor: Collector's Edition | 284479 | [284479-abathor-collectors-edition.json](./284479-abathor-collectors-edition.json) |
 | ABBA: You Can Dance | 3305 | [3305-abba-you-can-dance.json](./3305-abba-you-can-dance.json) |
@@ -2295,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Havoc Controller | 94695 | [94695-air-havoc-controller.json](./94695-air-havoc-controller.json) |
 | Air Hockey | 200667 | [200667-air-hockey.json](./200667-air-hockey.json) |
 | Air Hockey | 43934 | [43934-air-hockey.json](./43934-air-hockey.json) |
+| Air Hockey Arcade: Casual Board Game | 242589 | [242589-air-hockey-arcade-casual-board-game.json](./242589-air-hockey-arcade-casual-board-game.json) |
 | Air Hockey Blue | 197773 | [197773-air-hockey-blue.json](./197773-air-hockey-blue.json) |
 | Air Hockey Halloween | 243737 | [243737-air-hockey-halloween.json](./243737-air-hockey-halloween.json) |
 | Air Hockey Pink | 175177 | [175177-air-hockey-pink.json](./175177-air-hockey-pink.json) |
@@ -2623,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akron | 306990 | [306990-akron.json](./306990-akron.json) |
 | Aksun | 330327 | [330327-aksun.json](./330327-aksun.json) |
 | Akte Europa | 19584 | [19584-akte-europa.json](./19584-akte-europa.json) |
+| Aktie | 242687 | [242687-aktie.json](./242687-aktie.json) |
 | Aku Ryuu G* Gotoku: Legend of the Strongest | 83223 | [83223-aku-ryuu-g-gotoku-legend-of-the-strongest.json](./83223-aku-ryuu-g-gotoku-legend-of-the-strongest.json) |
 | Akuarium | 147471 | [147471-akuarium.json](./147471-akuarium.json) |
 | Akudaikan Manyuuki | 56517 | [56517-akudaikan-manyuuki.json](./56517-akudaikan-manyuuki.json) |
@@ -5591,6 +5594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Pop | 121460 | [121460-apple-pop.json](./121460-apple-pop.json) |
 | Apple Quest Monsters DX | 249740 | [249740-apple-quest-monsters-dx.json](./249740-apple-quest-monsters-dx.json) |
 | Apple Sauce Apartments | 176460 | [176460-apple-sauce-apartments.json](./176460-apple-sauce-apartments.json) |
+| Apple Sauce Beach | 242691 | [242691-apple-sauce-beach.json](./242691-apple-sauce-beach.json) |
 | Apple Sauce Hinamatsuri | 239073 | [239073-apple-sauce-hinamatsuri.json](./239073-apple-sauce-hinamatsuri.json) |
 | Apple Sauce Room 2 | 237473 | [237473-apple-sauce-room-2.json](./237473-apple-sauce-room-2.json) |
 | Apple Sauce Western | 239067 | [239067-apple-sauce-western.json](./239067-apple-sauce-western.json) |
