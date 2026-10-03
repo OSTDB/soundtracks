@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA In The Zone | 309981 | [309981-nba-in-the-zone.json](./309981-nba-in-the-zone.json) |
 | NBA in the Zone '99 | 72053 | [72053-nba-in-the-zone-99.json](./72053-nba-in-the-zone-99.json) |
 | NBA In the Zone 2 | 20729 | [20729-nba-in-the-zone-2.json](./20729-nba-in-the-zone-2.json) |
+| NBA Infinite | 257015 | [257015-nba-infinite.json](./257015-nba-infinite.json) |
 | NBA Inside Drive 2002 | 23446 | [23446-nba-inside-drive-2002.json](./23446-nba-inside-drive-2002.json) |
 | NBA Jam | 198835 | [198835-nba-jam.json](./198835-nba-jam.json) |
 | NBA Jam | 88923 | [88923-nba-jam.json](./88923-nba-jam.json) |
@@ -880,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ned | 253305 | [253305-ned.json](./253305-ned.json) |
 | Ned | 67288 | [67288-ned.json](./67288-ned.json) |
 | Ned Kelly: Armored Outlaw | 204101 | [204101-ned-kelly-armored-outlaw.json](./204101-ned-kelly-armored-outlaw.json) |
+| Ned: Iron Outlaw | 256981 | [256981-ned-iron-outlaw.json](./256981-ned-iron-outlaw.json) |
 | Ned's Garden | 380105 | [380105-neds-garden.json](./380105-neds-garden.json) |
 | Neden | 182373 | [182373-neden.json](./182373-neden.json) |
 | Nedetskie Skazki | 252821 | [252821-nedetskie-skazki.json](./252821-nedetskie-skazki.json) |
