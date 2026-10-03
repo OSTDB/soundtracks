@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landmaster | 400859 | [400859-landmaster.json](./400859-landmaster.json) |
 | Landmine Larry | 31174 | [31174-landmine-larry.json](./31174-landmine-larry.json) |
 | Landmine Princess | 342881 | [342881-landmine-princess.json](./342881-landmine-princess.json) |
+| Landnama | 245366 | [245366-landnama.json](./245366-landnama.json) |
 | Landnav | 197380 | [197380-landnav.json](./197380-landnav.json) |
 | Lando: Me? A Hero? | 321422 | [321422-lando-me-a-hero.json](./321422-lando-me-a-hero.json) |
 | Landomayzer | 370122 | [370122-landomayzer.json](./370122-landomayzer.json) |
@@ -2129,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lex Mortis | 26510 | [26510-lex-mortis.json](./26510-lex-mortis.json) |
 | Lexagrana | 174196 | [174196-lexagrana.json](./174196-lexagrana.json) |
 | Lexibble | 305344 | [305344-lexibble.json](./305344-lexibble.json) |
+| Lexibook Electronic Thesaurus: Model DC 750 | 245457 | [245457-lexibook-electronic-thesaurus-model-dc-750.json](./245457-lexibook-electronic-thesaurus-model-dc-750.json) |
 | Lexica | 369673 | [369673-lexica.json](./369673-lexica.json) |
 | Lexica Word Finder for Scrabble | 93715 | [93715-lexica-word-finder-for-scrabble.json](./93715-lexica-word-finder-for-scrabble.json) |
 | Lexicon | 287757 | [287757-lexicon.json](./287757-lexicon.json) |
