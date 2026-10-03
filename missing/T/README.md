@@ -3493,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The British Library Simulator | 182806 | [182806-the-british-library-simulator.json](./182806-the-british-library-simulator.json) |
 | The Brittle Epoch | 261751 | [261751-the-brittle-epoch.json](./261751-the-brittle-epoch.json) |
 | The Broken Balance | 216753 | [216753-the-broken-balance.json](./216753-the-broken-balance.json) |
+| The Broken Moon | 263137 | [263137-the-broken-moon.json](./263137-the-broken-moon.json) |
 | The Broken Vow | 322173 | [322173-the-broken-vow.json](./322173-the-broken-vow.json) |
 | The Brotherhood of Ruin | 142277 | [142277-the-brotherhood-of-ruin.json](./142277-the-brotherhood-of-ruin.json) |
 | The Brothers | 216751 | [216751-the-brothers.json](./216751-the-brothers.json) |
@@ -4844,6 +4845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Confrontation | 149484 | [149484-the-first-confrontation.json](./149484-the-first-confrontation.json) |
 | The First Descendant: Season 1 | 314481 | [314481-the-first-descendant-season-1.json](./314481-the-first-descendant-season-1.json) |
 | The First Descendant: Season 4 | 408829 | [408829-the-first-descendant-season-4.json](./408829-the-first-descendant-season-4.json) |
+| The First Explorers | 263100 | [263100-the-first-explorers.json](./263100-the-first-explorers.json) |
 | The First Funky Fighter | 63295 | [63295-the-first-funky-fighter.json](./63295-the-first-funky-fighter.json) |
 | The First Mile | 73535 | [73535-the-first-mile.json](./73535-the-first-mile.json) |
 | The First Present | 278675 | [278675-the-first-present.json](./278675-the-first-present.json) |
@@ -6528,6 +6530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lesser Known Cities of Europe | 142359 | [142359-the-lesser-known-cities-of-europe.json](./142359-the-lesser-known-cities-of-europe.json) |
 | The Letter | 33062 | [33062-the-letter.json](./33062-the-letter.json) |
 | The Letter That Came Over Time | 386396 | [386396-the-letter-that-came-over-time.json](./386396-the-letter-that-came-over-time.json) |
+| The Leverage Game | 263103 | [263103-the-leverage-game.json](./263103-the-leverage-game.json) |
 | The Leviathan's Fantasy: DLC | 289327 | [289327-the-leviathans-fantasy-dlc.json](./289327-the-leviathans-fantasy-dlc.json) |
 | The Leviathan's Fantasy: Mechanical Crisis | 329013 | [329013-the-leviathans-fantasy-mechanical-crisis.json](./329013-the-leviathans-fantasy-mechanical-crisis.json) |
 | The Leviathan's Fantasy: Samurai and Onmyoji | 298175 | [298175-the-leviathans-fantasy-samurai-and-onmyoji.json](./298175-the-leviathans-fantasy-samurai-and-onmyoji.json) |
@@ -7598,6 +7601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Poisoner | 118825 | [118825-the-poisoner.json](./118825-the-poisoner.json) |
 | The Polar Explorer: Hokkyoku he no VR Soriasobi | 308903 | [308903-the-polar-explorer-hokkyoku-he-no-vr-soriasobi.json](./308903-the-polar-explorer-hokkyoku-he-no-vr-soriasobi.json) |
 | The Polar Express | 210732 | [210732-the-polar-express.json](./210732-the-polar-express.json) |
+| The Police Interceptors Simulator: War Against Racers | 263111 | [263111-the-police-interceptors-simulator-war-against-racers.json](./263111-the-police-interceptors-simulator-war-against-racers.json) |
 | The Political Machine 2008 | 50866 | [50866-the-political-machine-2008.json](./50866-the-political-machine-2008.json) |
 | The Political Machine 2020 | 129073 | [129073-the-political-machine-2020.json](./129073-the-political-machine-2020.json) |
 | The Political Machine 2024 | 275696 | [275696-the-political-machine-2024.json](./275696-the-political-machine-2024.json) |
@@ -8055,6 +8059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sage's Spirit: Shining Flame | 373197 | [373197-the-sages-spirit-shining-flame.json](./373197-the-sages-spirit-shining-flame.json) |
 | The Sagittarian | 381771 | [381771-the-sagittarian.json](./381771-the-sagittarian.json) |
 | The Sagittarian 2 | 381772 | [381772-the-sagittarian-2.json](./381772-the-sagittarian-2.json) |
+| The Sailor’s Guide to Game Design | 263140 | [263140-the-sailor-s-guide-to-game-design.json](./263140-the-sailor-s-guide-to-game-design.json) |
 | The Saint Wife’s Newlywed Trials | 376560 | [376560-the-saint-wife-s-newlywed-trials.json](./376560-the-saint-wife-s-newlywed-trials.json) |
 | The Salatroisk Incident | 216168 | [216168-the-salatroisk-incident.json](./216168-the-salatroisk-incident.json) |
 | The Salatroitsk Incident | 180807 | [180807-the-salatroitsk-incident.json](./180807-the-salatroitsk-incident.json) |
@@ -13402,6 +13407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TouHou Dew Valley | 262654 | [262654-touhou-dew-valley.json](./262654-touhou-dew-valley.json) |
 | Touhou Doumeiju: Mystical Power Plant | 246671 | [246671-touhou-doumeiju-mystical-power-plant.json](./246671-touhou-doumeiju-mystical-power-plant.json) |
 | Touhou Drunken Rebellion | 372678 | [372678-touhou-drunken-rebellion.json](./372678-touhou-drunken-rebellion.json) |
+| Touhou Dungeon Maker: The Labyrinth of Heart | 263106 | [263106-touhou-dungeon-maker-the-labyrinth-of-heart.json](./263106-touhou-dungeon-maker-the-labyrinth-of-heart.json) |
 | Touhou Dystopian | 374218 | [374218-touhou-dystopian.json](./374218-touhou-dystopian.json) |
 | Touhou Eiyashou: Imperishable Night | 27162 | [27162-touhou-eiyashou-imperishable-night.json](./27162-touhou-eiyashou-imperishable-night.json) |
 | Touhou Emblem | 315050 | [315050-touhou-emblem.json](./315050-touhou-emblem.json) |
@@ -13560,6 +13566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Unmei no Hoshi | 181928 | [181928-touhou-unmei-no-hoshi.json](./181928-touhou-unmei-no-hoshi.json) |
 | Touhou: Wandering Souls | 304110 | [304110-touhou-wandering-souls.json](./304110-touhou-wandering-souls.json) |
 | Touhoumon World Link | 279679 | [279679-touhoumon-world-link.json](./279679-touhoumon-world-link.json) |
+| TouhouSnowClash | 263142 | [263142-touhousnowclash.json](./263142-touhousnowclash.json) |
 | Touka Gettan: Koufuu no Ryouou | 287638 | [287638-touka-gettan-koufuu-no-ryouou.json](./287638-touka-gettan-koufuu-no-ryouou.json) |
 | Touka Gettan: Koufuu no Ryouou Deluxe Pack | 287640 | [287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json](./287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json) |
 | Touken Ranbu Warriors: Uchiban Outfit 16-piece Set | 224518 | [224518-touken-ranbu-warriors-uchiban-outfit-16-piece-set.json](./224518-touken-ranbu-warriors-uchiban-outfit-16-piece-set.json) |
