@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Bees Advent | 228084 | [228084-i-commissioned-some-bees-advent.json](./228084-i-commissioned-some-bees-advent.json) |
 | I Commissioned Some Bunnies | 231862 | [231862-i-commissioned-some-bunnies.json](./231862-i-commissioned-some-bunnies.json) |
 | I Commissioned Some Bunnies 10 | 306993 | [306993-i-commissioned-some-bunnies-10.json](./306993-i-commissioned-some-bunnies-10.json) |
+| I Commissioned Some Bunnies 2 | 260893 | [260893-i-commissioned-some-bunnies-2.json](./260893-i-commissioned-some-bunnies-2.json) |
 | I Commissioned Some Bunnies 3 | 287070 | [287070-i-commissioned-some-bunnies-3.json](./287070-i-commissioned-some-bunnies-3.json) |
 | I Commissioned Some Bunnies 4 | 306437 | [306437-i-commissioned-some-bunnies-4.json](./306437-i-commissioned-some-bunnies-4.json) |
 | I Commissioned Some Bunnies 5 | 306438 | [306438-i-commissioned-some-bunnies-5.json](./306438-i-commissioned-some-bunnies-5.json) |
