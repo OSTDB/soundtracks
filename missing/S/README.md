@@ -4524,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shit Slam II | 372111 | [372111-shit-slam-ii.json](./372111-shit-slam-ii.json) |
 | Shit Storm | 81100 | [81100-shit-storm.json](./81100-shit-storm.json) |
 | Shit!! | 79214 | [79214-shit.json](./79214-shit.json) |
+| Shita ni | 238565 | [238565-shita-ni.json](./238565-shita-ni.json) |
 | Shitataru Ano Ko: Drenched Girls | 271505 | [271505-shitataru-ano-ko-drenched-girls.json](./271505-shitataru-ano-ko-drenched-girls.json) |
 | Shitataru Nikki | 257085 | [257085-shitataru-nikki.json](./257085-shitataru-nikki.json) |
 | Shitlings | 369626 | [369626-shitlings.json](./369626-shitlings.json) |
@@ -5340,6 +5341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Space | 156588 | [156588-silent-space.json](./156588-silent-space.json) |
 | Silent space VR | 75765 | [75765-silent-space-vr.json](./75765-silent-space-vr.json) |
 | Silent Spirits | 383363 | [383363-silent-spirits.json](./383363-silent-spirits.json) |
+| Silent Station | 238556 | [238556-silent-station.json](./238556-silent-station.json) |
 | Silent Steel | 73827 | [73827-silent-steel.json](./73827-silent-steel.json) |
 | Silent Still | 312219 | [312219-silent-still.json](./312219-silent-still.json) |
 | Silent Still III | 387378 | [387378-silent-still-iii.json](./387378-silent-still-iii.json) |
@@ -9424,6 +9426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Getter | 63294 | [63294-soul-getter.json](./63294-soul-getter.json) |
 | Soul Grabber | 83537 | [83537-soul-grabber.json](./83537-soul-grabber.json) |
 | Soul Grinder | 184649 | [184649-soul-grinder.json](./184649-soul-grinder.json) |
+| Soul Guardians | 238645 | [238645-soul-guardians.json](./238645-soul-guardians.json) |
 | Soul Guardians: Age of Midgard | 39177 | [39177-soul-guardians-age-of-midgard.json](./39177-soul-guardians-age-of-midgard.json) |
 | Soul Hackers 2: Digital Deluxe Edition | 213330 | [213330-soul-hackers-2-digital-deluxe-edition.json](./213330-soul-hackers-2-digital-deluxe-edition.json) |
 | Soul Hackers 2: Digital Premium Edition | 213331 | [213331-soul-hackers-2-digital-premium-edition.json](./213331-soul-hackers-2-digital-premium-edition.json) |
@@ -10758,6 +10761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Legion | 258649 | [258649-spell-legion.json](./258649-spell-legion.json) |
 | Spell Magic | 348874 | [348874-spell-magic.json](./348874-spell-magic.json) |
 | Spell Rift | 335371 | [335371-spell-rift.json](./335371-spell-rift.json) |
+| Spell Slinger | 238562 | [238562-spell-slinger.json](./238562-spell-slinger.json) |
 | Spell Slingers: Trick or Treat | 198516 | [198516-spell-slingers-trick-or-treat.json](./198516-spell-slingers-trick-or-treat.json) |
 | Spell Slingin' Tower Defense | 270145 | [270145-spell-slingin-tower-defense.json](./270145-spell-slingin-tower-defense.json) |
 | Spell Something | 328682 | [328682-spell-something.json](./328682-spell-something.json) |
@@ -13087,6 +13091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station 35 | 192665 | [192665-station-35.json](./192665-station-35.json) |
 | Station 37 | 277027 | [277027-station-37.json](./277027-station-37.json) |
 | Station 5 | 307931 | [307931-station-5.json](./307931-station-5.json) |
+| Station 99 | 238572 | [238572-station-99.json](./238572-station-99.json) |
 | Station Command | 402523 | [402523-station-command.json](./402523-station-command.json) |
 | Station Commander | 166074 | [166074-station-commander.json](./166074-station-commander.json) |
 | Station Commander | 76654 | [76654-station-commander.json](./76654-station-commander.json) |
@@ -14480,6 +14485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strings Theory | 139218 | [139218-strings-theory.json](./139218-strings-theory.json) |
 | Strinova | 260136 | [260136-strinova.json](./260136-strinova.json) |
 | Strinova Mobile | 350533 | [350533-strinova-mobile.json](./350533-strinova-mobile.json) |
+| Strip 'Em | 238579 | [238579-strip-em.json](./238579-strip-em.json) |
 | Strip 4: Classmate Study | 130057 | [130057-strip-4-classmate-study.json](./130057-strip-4-classmate-study.json) |
 | Strip Battle | 296990 | [296990-strip-battle.json](./296990-strip-battle.json) |
 | Strip Black Jack: At the Pub | 174115 | [174115-strip-black-jack-at-the-pub.json](./174115-strip-black-jack-at-the-pub.json) |
@@ -15279,6 +15285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumy Shelltris: Iceblocks 1 | 197388 | [197388-sumy-shelltris-iceblocks-1.json](./197388-sumy-shelltris-iceblocks-1.json) |
 | Sun Breed | 264037 | [264037-sun-breed.json](./264037-sun-breed.json) |
 | Sun City | 310176 | [310176-sun-city.json](./310176-sun-city.json) |
+| Sun Down | 238583 | [238583-sun-down.json](./238583-sun-down.json) |
 | Sun Fang Dougram | 284445 | [284445-sun-fang-dougram.json](./284445-sun-fang-dougram.json) |
 | Sun Haven | 144098 | [144098-sun-haven.json](./144098-sun-haven.json) |
 | Sun Haven: Bloom and Doom Pack | 306506 | [306506-sun-haven-bloom-and-doom-pack.json](./306506-sun-haven-bloom-and-doom-pack.json) |
@@ -17519,6 +17526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving the Aftermath: New Alliances | 203382 | [203382-surviving-the-aftermath-new-alliances.json](./203382-surviving-the-aftermath-new-alliances.json) |
 | Surviving the Aftermath: Rebirth | 240901 | [240901-surviving-the-aftermath-rebirth.json](./240901-surviving-the-aftermath-rebirth.json) |
 | Surviving the Aftermath: Ultimate Colony Edition | 188054 | [188054-surviving-the-aftermath-ultimate-colony-edition.json](./188054-surviving-the-aftermath-ultimate-colony-edition.json) |
+| Surviving the Fall | 238569 | [238569-surviving-the-fall.json](./238569-surviving-the-fall.json) |
 | Surviving the Humans | 191573 | [191573-surviving-the-humans.json](./191573-surviving-the-humans.json) |
 | Surviving Titan | 130244 | [130244-surviving-titan.json](./130244-surviving-titan.json) |
 | Surviving West | 92524 | [92524-surviving-west.json](./92524-surviving-west.json) |
