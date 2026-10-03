@@ -6792,6 +6792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice Surge | 366327 | [366327-slice-surge.json](./366327-slice-surge.json) |
 | Slice the Ice | 75779 | [75779-slice-the-ice.json](./75779-slice-the-ice.json) |
 | Slice To Meet You | 409583 | [409583-slice-to-meet-you.json](./409583-slice-to-meet-you.json) |
+| Slice Words | 232071 | [232071-slice-words.json](./232071-slice-words.json) |
 | Slice&Dice | 345526 | [345526-slice-and-dice.json](./345526-slice-and-dice.json) |
 | Sliced | 290617 | [290617-sliced.json](./290617-sliced.json) |
 | Slicer!! | 100324 | [100324-slicer.json](./100324-slicer.json) |
@@ -6918,6 +6919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Volley | 264001 | [264001-slime-volley.json](./264001-slime-volley.json) |
 | Slime Voyage | 312575 | [312575-slime-voyage.json](./312575-slime-voyage.json) |
 | Slime vs. Mushroom 2 | 225581 | [225581-slime-vs-mushroom-2.json](./225581-slime-vs-mushroom-2.json) |
+| Slime wants music! | 232004 | [232004-slime-wants-music.json](./232004-slime-wants-music.json) |
 | Slime Warrior | 260758 | [260758-slime-warrior.json](./260758-slime-warrior.json) |
 | Slime Wars | 292544 | [292544-slime-wars.json](./292544-slime-wars.json) |
 | Slime Weapon Master | 297614 | [297614-slime-weapon-master.json](./297614-slime-weapon-master.json) |
