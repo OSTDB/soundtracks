@@ -5980,6 +5980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimicry Man | 61570 | [61570-mimicry-man.json](./61570-mimicry-man.json) |
 | Mimics | 176438 | [176438-mimics.json](./176438-mimics.json) |
 | Mimics the Bots | 238514 | [238514-mimics-the-bots.json](./238514-mimics-the-bots.json) |
+| MiMiMi | 256984 | [256984-mimimi.json](./256984-mimimi.json) |
 | Mimizu Panzer | 267645 | [267645-mimizu-panzer.json](./267645-mimizu-panzer.json) |
 | Mimo | 178448 | [178448-mimo.json](./178448-mimo.json) |
 | Mimpi | 20353 | [20353-mimpi.json](./20353-mimpi.json) |
@@ -8442,6 +8443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moose Invasion | 75002 | [75002-moose-invasion.json](./75002-moose-invasion.json) |
 | Moose Life | 138332 | [138332-moose-life.json](./138332-moose-life.json) |
 | Mooselutions | 264662 | [264662-mooselutions.json](./264662-mooselutions.json) |
+| Mooshie's Kitchen | 256980 | [256980-mooshies-kitchen.json](./256980-mooshies-kitchen.json) |
 | Mooshie's Kitchen 2 | 273983 | [273983-mooshies-kitchen-2.json](./273983-mooshies-kitchen-2.json) |
 | Mooshie's Kitchen 3 | 273984 | [273984-mooshies-kitchen-3.json](./273984-mooshies-kitchen-3.json) |
 | Moot District | 114436 | [114436-moot-district.json](./114436-moot-district.json) |
