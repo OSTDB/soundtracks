@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Show of Hands | 52563 | [52563-a-show-of-hands.json](./52563-a-show-of-hands.json) |
 | A Show of Kindness | 112465 | [112465-a-show-of-kindness.json](./112465-a-show-of-kindness.json) |
 | A Silent Wood | 61318 | [61318-a-silent-wood.json](./61318-a-silent-wood.json) |
+| A Silly Goofy Dream 2 | 253477 | [253477-a-silly-goofy-dream-2.json](./253477-a-silly-goofy-dream-2.json) |
 | A Simple Ball Game | 345073 | [345073-a-simple-ball-game.json](./345073-a-simple-ball-game.json) |
 | A Simple Door | 311647 | [311647-a-simple-door.json](./311647-a-simple-door.json) |
 | A Simple Expurriment | 254020 | [254020-a-simple-expurriment.json](./254020-a-simple-expurriment.json) |
@@ -5070,6 +5071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Century's Episode 2 | 9579 | [9579-another-centurys-episode-2.json](./9579-another-centurys-episode-2.json) |
 | Another Century's Episode 3: The Final | 9582 | [9582-another-centurys-episode-3-the-final.json](./9582-another-centurys-episode-3-the-final.json) |
 | Another Century's Episode: R | 7270 | [7270-another-centurys-episode-r.json](./7270-another-centurys-episode-r.json) |
+| Another Chance | 253484 | [253484-another-chance.json](./253484-another-chance.json) |
 | Another Christmas Game | 326043 | [326043-another-christmas-game.json](./326043-another-christmas-game.json) |
 | Another Crabs Treasure Prototype | 371331 | [371331-another-crabs-treasure-prototype.json](./371331-another-crabs-treasure-prototype.json) |
 | Another Crusade | 135681 | [135681-another-crusade.json](./135681-another-crusade.json) |
@@ -7757,6 +7759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrophidia | 409682 | [409682-astrophidia.json](./409682-astrophidia.json) |
 | Astropocalypse | 289033 | [289033-astropocalypse.json](./289033-astropocalypse.json) |
 | Astropods: Starside Glaze | 316076 | [316076-astropods-starside-glaze.json](./316076-astropods-starside-glaze.json) |
+| AstroPuffs | 253505 | [253505-astropuffs.json](./253505-astropuffs.json) |
 | AstroRunner | 272858 | [272858-astrorunner.json](./272858-astrorunner.json) |
 | AstroScaper | 337774 | [337774-astroscaper.json](./337774-astroscaper.json) |
 | AstroShift | 68763 | [68763-astroshift.json](./68763-astroshift.json) |
