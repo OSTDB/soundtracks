@@ -2262,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentacult! | 32872 | [32872-tentacult.json](./32872-tentacult.json) |
 | Tentador Leches | 179500 | [179500-tentador-leches.json](./179500-tentador-leches.json) |
 | Tentlan | 103434 | [103434-tentlan.json](./103434-tentlan.json) |
+| Tenuous:City | 230340 | [230340-tenuous-city.json](./230340-tenuous-city.json) |
 | Teocalli | 134698 | [134698-teocalli.json](./134698-teocalli.json) |
 | Teocida + Estigma | 265712 | [265712-teocida-estigma.json](./265712-teocida-estigma.json) |
 | Teodoro and the Evil Machines | 153873 | [153873-teodoro-and-the-evil-machines.json](./153873-teodoro-and-the-evil-machines.json) |
@@ -3279,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Batchelor | 301406 | [301406-the-batchelor.json](./301406-the-batchelor.json) |
 | The Bathhouse Restored Edition | 304047 | [304047-the-bathhouse-restored-edition.json](./304047-the-bathhouse-restored-edition.json) |
 | The Bathrooms | 288819 | [288819-the-bathrooms.json](./288819-the-bathrooms.json) |
+| The Batman: Multiply, Divide and Conquer | 230421 | [230421-the-batman-multiply-divide-and-conquer.json](./230421-the-batman-multiply-divide-and-conquer.json) |
 | The Batman: The Cobblebot Caper | 338352 | [338352-the-batman-the-cobblebot-caper.json](./338352-the-batman-the-cobblebot-caper.json) |
 | The Battle Cats | 59746 | [59746-the-battle-cats.json](./59746-the-battle-cats.json) |
 | The Battle Cats POP! | 19898 | [19898-the-battle-cats-pop.json](./19898-the-battle-cats-pop.json) |
@@ -3761,6 +3763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Child Of Slendrina | 323911 | [323911-the-child-of-slendrina.json](./323911-the-child-of-slendrina.json) |
 | The Chilling Moment You Realize It: Creepy Meaning Psychological Test | 410366 | [410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json](./410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json) |
 | The Chinese Room | 26699 | [26699-the-chinese-room.json](./26699-the-chinese-room.json) |
+| The Chiral Night: Rhythm Carnival | 230197 | [230197-the-chiral-night-rhythm-carnival.json](./230197-the-chiral-night-rhythm-carnival.json) |
 | The Choco Of Dunkers 2003 | 97488 | [97488-the-choco-of-dunkers-2003.json](./97488-the-choco-of-dunkers-2003.json) |
 | The Choicer Voicer | 307223 | [307223-the-choicer-voicer.json](./307223-the-choicer-voicer.json) |
 | The Choices Of Priori | 412546 | [412546-the-choices-of-priori.json](./412546-the-choices-of-priori.json) |
@@ -5270,6 +5273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golf: Bishoujo Classic | 41309 | [41309-the-golf-bishoujo-classic.json](./41309-the-golf-bishoujo-classic.json) |
 | The Good Chicken | 220673 | [220673-the-good-chicken.json](./220673-the-good-chicken.json) |
 | The Good Colony | 311614 | [311614-the-good-colony.json](./311614-the-good-colony.json) |
+| The Good Dinosaur: Arlo & Spot's Wild Collection | 230412 | [230412-the-good-dinosaur-arlo-and-spots-wild-collection.json](./230412-the-good-dinosaur-arlo-and-spots-wild-collection.json) |
 | The Good Ghouls | 224590 | [224590-the-good-ghouls.json](./224590-the-good-ghouls.json) |
 | The Good Life | 9396 | [9396-the-good-life.json](./9396-the-good-life.json) |
 | The Good Old Days | 312186 | [312186-the-good-old-days.json](./312186-the-good-old-days.json) |
@@ -16497,6 +16501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tupsu | 117761 | [117761-tupsu.json](./117761-tupsu.json) |
 | Turandot | 216328 | [216328-turandot.json](./216328-turandot.json) |
 | Turbo | 18510 | [18510-turbo.json](./18510-turbo.json) |
+| Turbo | 230415 | [230415-turbo.json](./230415-turbo.json) |
 | Turbo 21 HD | 355009 | [355009-turbo-21-hd.json](./355009-turbo-21-hd.json) |
 | Turbo 84 | 239344 | [239344-turbo-84.json](./239344-turbo-84.json) |
 | Turbo Balls | 347208 | [347208-turbo-balls.json](./347208-turbo-balls.json) |
