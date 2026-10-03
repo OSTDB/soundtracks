@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Beta | 225617 | [225617-r-beta.json](./225617-r-beta.json) |
 | R-Coil | 68792 | [68792-r-coil.json](./68792-r-coil.json) |
 | R-Draw | 108857 | [108857-r-draw.json](./108857-r-draw.json) |
+| R-Lyke: Reverse | 238568 | [238568-r-lyke-reverse.json](./238568-r-lyke-reverse.json) |
 | R-Naught | 151016 | [151016-r-naught.json](./151016-r-naught.json) |
 | R-Shark | 40254 | [40254-r-shark.json](./40254-r-shark.json) |
 | R-Space | 323256 | [323256-r-space.json](./323256-r-space.json) |
@@ -46,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.A.I.L. Together | 409644 | [409644-r-a-i-l-together.json](./409644-r-a-i-l-together.json) |
 | R.A.S.P. Mobility-Unit | 359023 | [359023-r-a-s-p-mobility-unit.json](./359023-r-a-s-p-mobility-unit.json) |
 | R.A.T.: Human Error – Episode One | 350507 | [350507-r-a-t-human-error-episode-one.json](./350507-r-a-t-human-error-episode-one.json) |
+| R.A.T.T.Z. Maze | 238563 | [238563-r-a-t-t-z-maze.json](./238563-r-a-t-t-z-maze.json) |
 | R.A.Z.I.O.N | 75512 | [75512-r-a-z-i-o-n.json](./75512-r-a-z-i-o-n.json) |
 | R.B.I. Baseball | 18022 | [18022-r-b-i-baseball.json](./18022-r-b-i-baseball.json) |
 | R.B.I. Baseball '93 | 46203 | [46203-r-b-i-baseball-93.json](./46203-r-b-i-baseball-93.json) |
@@ -541,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiders of the Broken Planet | 19011 | [19011-raiders-of-the-broken-planet.json](./19011-raiders-of-the-broken-planet.json) |
 | Raiders of the Broken Planet - Founders Pack | 82424 | [82424-raiders-of-the-broken-planet-founders-pack.json](./82424-raiders-of-the-broken-planet-founders-pack.json) |
 | Raiders of the Lost Ark | 18036 | [18036-raiders-of-the-lost-ark.json](./18036-raiders-of-the-lost-ark.json) |
+| Raiders of Valhalla | 238570 | [238570-raiders-of-valhalla.json](./238570-raiders-of-valhalla.json) |
 | Raiders Rise | 352365 | [352365-raiders-rise.json](./352365-raiders-rise.json) |
 | Raiders Run | 125440 | [125440-raiders-run.json](./125440-raiders-run.json) |
 | Raiders5 | 40166 | [40166-raiders5.json](./40166-raiders5.json) |
@@ -2961,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resonating Worlds | 305930 | [305930-resonating-worlds.json](./305930-resonating-worlds.json) |
 | Resonite | 269473 | [269473-resonite.json](./269473-resonite.json) |
 | Résop Paz Yandere True | 320149 | [320149-resop-paz-yandere-true.json](./320149-resop-paz-yandere-true.json) |
+| Resoraki | 238652 | [238652-resoraki.json](./238652-resoraki.json) |
 | Resort Beauties: Hentai Photo Puzzle | 409560 | [409560-resort-beauties-hentai-photo-puzzle.json](./409560-resort-beauties-hentai-photo-puzzle.json) |
 | Resort Boss: Golf | 114798 | [114798-resort-boss-golf.json](./114798-resort-boss-golf.json) |
 | Resort Empire | 394361 | [394361-resort-empire.json](./394361-resort-empire.json) |
@@ -3489,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rgby | 199473 | [199473-rgby.json](./199473-rgby.json) |
 | RGT Cycling | 138571 | [138571-rgt-cycling.json](./138571-rgt-cycling.json) |
 | RGX Showdown | 109588 | [109588-rgx-showdown.json](./109588-rgx-showdown.json) |
+| Rhapsody III: Memories of Marl Kingdom | 238548 | [238548-rhapsody-iii-memories-of-marl-kingdom.json](./238548-rhapsody-iii-memories-of-marl-kingdom.json) |
 | Rhapsody in Scarlet | 416111 | [416111-rhapsody-in-scarlet.json](./416111-rhapsody-in-scarlet.json) |
 | Rhapsody of Zephyr | 70961 | [70961-rhapsody-of-zephyr.json](./70961-rhapsody-of-zephyr.json) |
 | Rhapsody: A Musical Adventure | 16997 | [16997-rhapsody-a-musical-adventure.json](./16997-rhapsody-a-musical-adventure.json) |
