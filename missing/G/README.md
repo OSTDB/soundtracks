@@ -2024,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giana Sisters: Twisted Dreams - Rise of the Owlverlord | 53080 | [53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json](./53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json) |
 | Giant and Me | 174757 | [174757-giant-and-me.json](./174757-giant-and-me.json) |
 | Giant Bundle | 193741 | [193741-giant-bundle.json](./193741-giant-bundle.json) |
+| Giant Chase | 272446 | [272446-giant-chase.json](./272446-giant-chase.json) |
 | Giant Life | 118342 | [118342-giant-life.json](./118342-giant-life.json) |
 | Giant Machines 2017 | 24684 | [24684-giant-machines-2017.json](./24684-giant-machines-2017.json) |
 | Giant Mario Bros. | 198472 | [198472-giant-mario-bros.json](./198472-giant-mario-bros.json) |
@@ -3594,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic Clicker | 345011 | [345011-gothic-clicker.json](./345011-gothic-clicker.json) |
 | Gothic II: Complete Classic | 270397 | [270397-gothic-ii-complete-classic.json](./270397-gothic-ii-complete-classic.json) |
 | Gothic II: Gold Edition | 29207 | [29207-gothic-ii-gold-edition.json](./29207-gothic-ii-gold-edition.json) |
+| Gothic II: Odyssey | 272459 | [272459-gothic-ii-odyssey.json](./272459-gothic-ii-odyssey.json) |
 | Gothic II: The Night of the Raven | 2481 | [2481-gothic-ii-the-night-of-the-raven.json](./2481-gothic-ii-the-night-of-the-raven.json) |
 | Gothic Masquerade HD | 146864 | [146864-gothic-masquerade-hd.json](./146864-gothic-masquerade-hd.json) |
 | Gothic Platformer Games Bundle | 242668 | [242668-gothic-platformer-games-bundle.json](./242668-gothic-platformer-games-bundle.json) |
@@ -3610,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotouchi Kentei DS | 124018 | [124018-gotouchi-kentei-ds.json](./124018-gotouchi-kentei-ds.json) |
 | Gotouchi Tetsudou for Nintendo Switch | 136963 | [136963-gotouchi-tetsudou-for-nintendo-switch.json](./136963-gotouchi-tetsudou-for-nintendo-switch.json) |
 | Gotouchi Tetsudou: Gotouchi Chara to Nihon Zenkoku no Tabi | 71016 | [71016-gotouchi-tetsudou-gotouchi-chara-to-nihon-zenkoku-no-tabi.json](./71016-gotouchi-tetsudou-gotouchi-chara-to-nihon-zenkoku-no-tabi.json) |
+| Gotta Bounce | 272463 | [272463-gotta-bounce.json](./272463-gotta-bounce.json) |
 | Gotta Get Home | 231299 | [231299-gotta-get-home.json](./231299-gotta-get-home.json) |
 | Gotta Protectors: Amazon's Running Diet | 195502 | [195502-gotta-protectors-amazons-running-diet.json](./195502-gotta-protectors-amazons-running-diet.json) |
 | Gotta Protectors: Cart of Darkness | 196318 | [196318-gotta-protectors-cart-of-darkness.json](./196318-gotta-protectors-cart-of-darkness.json) |
