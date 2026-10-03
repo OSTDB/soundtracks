@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia in Town | 239756 | [239756-mafia-in-town.json](./239756-mafia-in-town.json) |
 | Mafia Infiltration | 379044 | [379044-mafia-infiltration.json](./379044-mafia-infiltration.json) |
 | Mafia Live! | 78327 | [78327-mafia-live.json](./78327-mafia-live.json) |
+| Mafia Online | 266991 | [266991-mafia-online.json](./266991-mafia-online.json) |
 | Mafia Online | 403813 | [403813-mafia-online.json](./403813-mafia-online.json) |
 | Mafia Pinball | 97149 | [97149-mafia-pinball.json](./97149-mafia-pinball.json) |
 | Mafia Pizza: Family Business | 416666 | [416666-mafia-pizza-family-business.json](./416666-mafia-pizza-family-business.json) |
@@ -4737,6 +4738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MergeZ | 300849 | [300849-mergez.json](./300849-mergez.json) |
 | Mergical Fun: Match Island | 220199 | [220199-mergical-fun-match-island.json](./220199-mergical-fun-match-island.json) |
 | Mergimals | 98793 | [98793-mergimals.json](./98793-mergimals.json) |
+| Merging City | 266981 | [266981-merging-city.json](./266981-merging-city.json) |
 | Meria and the Island of Orcs | 195643 | [195643-meria-and-the-island-of-orcs.json](./195643-meria-and-the-island-of-orcs.json) |
 | Merica Tale | 367500 | [367500-merica-tale.json](./367500-merica-tale.json) |
 | Meridian | 312177 | [312177-meridian.json](./312177-meridian.json) |
@@ -6847,6 +6849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Picture | 315702 | [315702-missing-picture.json](./315702-missing-picture.json) |
 | Missing Pieces | 221124 | [221124-missing-pieces.json](./221124-missing-pieces.json) |
 | Missing Plane: Survival | 186854 | [186854-missing-plane-survival.json](./186854-missing-plane-survival.json) |
+| Missing Stars | 266993 | [266993-missing-stars.json](./266993-missing-stars.json) |
 | Missing Texture | 396242 | [396242-missing-texture.json](./396242-missing-texture.json) |
 | Missing The Point | 397154 | [397154-missing-the-point.json](./397154-missing-the-point.json) |
 | Missing: Itsuka Kitto | 257653 | [257653-missing-itsuka-kitto.json](./257653-missing-itsuka-kitto.json) |
@@ -10069,6 +10072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Everyday Life at Insect Academy | 364529 | [364529-my-everyday-life-at-insect-academy.json](./364529-my-everyday-life-at-insect-academy.json) |
 | My evil magician boss suddenly loves me?! | 385053 | [385053-my-evil-magician-boss-suddenly-loves-me.json](./385053-my-evil-magician-boss-suddenly-loves-me.json) |
 | My Ex is a Ghost | 132612 | [132612-my-ex-is-a-ghost.json](./132612-my-ex-is-a-ghost.json) |
+| My Ex-future Family: Premium Edition | 266989 | [266989-my-ex-future-family-premium-edition.json](./266989-my-ex-future-family-premium-edition.json) |
 | My Exercise | 138033 | [138033-my-exercise.json](./138033-my-exercise.json) |
 | My Exit | 293687 | [293687-my-exit.json](./293687-my-exit.json) |
 | My Exotic Farm | 66391 | [66391-my-exotic-farm.json](./66391-my-exotic-farm.json) |
