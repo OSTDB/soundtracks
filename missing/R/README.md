@@ -5522,6 +5522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rookie Math Pro | 102205 | [102205-rookie-math-pro.json](./102205-rookie-math-pro.json) |
 | Rookie Tank | 116357 | [116357-rookie-tank.json](./116357-rookie-tank.json) |
 | Rooks Keep | 17373 | [17373-rooks-keep.json](./17373-rooks-keep.json) |
+| RookStar | 264220 | [264220-rookstar.json](./264220-rookstar.json) |
 | Room | 291092 | [291092-room.json](./291092-room.json) |
 | Room | 293847 | [293847-room.json](./293847-room.json) |
 | Room 14 | 301855 | [301855-room-14.json](./301855-room-14.json) |
@@ -6147,6 +6148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Trucks | 44515 | [44515-rumble-trucks.json](./44515-rumble-trucks.json) |
 | Rumbral | 344465 | [344465-rumbral.json](./344465-rumbral.json) |
 | Rumia in the darkness | 121013 | [121013-rumia-in-the-darkness.json](./121013-rumia-in-the-darkness.json) |
+| Rumia Throws! | 264255 | [264255-rumia-throws.json](./264255-rumia-throws.json) |
 | Rumination | 364638 | [364638-rumination.json](./364638-rumination.json) |
 | Rummikub | 243274 | [243274-rummikub.json](./243274-rummikub.json) |
 | Rummy - classic card game | 88416 | [88416-rummy-classic-card-game.json](./88416-rummy-classic-card-game.json) |
