@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: IS-6 Pack | 293757 | [293757-war-thunder-is-6-pack.json](./293757-war-thunder-is-6-pack.json) |
 | War Thunder: J-7D Pack | 332077 | [332077-war-thunder-j-7d-pack.json](./332077-war-thunder-j-7d-pack.json) |
 | War Thunder: Leopard 2A4M CAN Bundle | 306492 | [306492-war-thunder-leopard-2a4m-can-bundle.json](./306492-war-thunder-leopard-2a4m-can-bundle.json) |
+| War Thunder: M1 KVT Pack | 254067 | [254067-war-thunder-m1-kvt-pack.json](./254067-war-thunder-m1-kvt-pack.json) |
 | War Thunder: M1A1 HC "Click-Bait" Pack | 332078 | [332078-war-thunder-m1a1-hc-click-bait-pack.json](./332078-war-thunder-m1a1-hc-click-bait-pack.json) |
 | War Thunder: Marder Clovis Pack | 336935 | [336935-war-thunder-marder-clovis-pack.json](./336935-war-thunder-marder-clovis-pack.json) |
 | War Thunder: Merkava Mk.3 Raam Segol Pack | 332081 | [332081-war-thunder-merkava-mk-3-raam-segol-pack.json](./332081-war-thunder-merkava-mk-3-raam-segol-pack.json) |
@@ -566,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: Reaper Pack | 156104 | [156104-war-thunder-reaper-pack.json](./156104-war-thunder-reaper-pack.json) |
 | War Thunder: Somua SM Pack | 336936 | [336936-war-thunder-somua-sm-pack.json](./336936-war-thunder-somua-sm-pack.json) |
 | War Thunder: Su-22M4 WTD 61 Bundle | 331504 | [331504-war-thunder-su-22m4-wtd-61-bundle.json](./331504-war-thunder-su-22m4-wtd-61-bundle.json) |
+| War Thunder: Su-39 Pack | 254068 | [254068-war-thunder-su-39-pack.json](./254068-war-thunder-su-39-pack.json) |
 | War Thunder: T-80U-E1 Bundle | 306494 | [306494-war-thunder-t-80u-e1-bundle.json](./306494-war-thunder-t-80u-e1-bundle.json) |
 | War Thunder: T29 Pack | 293762 | [293762-war-thunder-t29-pack.json](./293762-war-thunder-t29-pack.json) |
 | War Thunder: Two Fronts Bundle | 331505 | [331505-war-thunder-two-fronts-bundle.json](./331505-war-thunder-two-fronts-bundle.json) |
