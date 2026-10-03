@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Simulator2: Stargate | 344539 | [344539-galactic-simulator2-stargate.json](./344539-galactic-simulator2-stargate.json) |
 | Galactic Space Guard | 373171 | [373171-galactic-space-guard.json](./373171-galactic-space-guard.json) |
 | Galactic Starfire: Squadron | 310033 | [310033-galactic-starfire-squadron.json](./310033-galactic-starfire-squadron.json) |
+| Galactic Starforce | 260332 | [260332-galactic-starforce.json](./260332-galactic-starforce.json) |
 | Galactic Storm | 264082 | [264082-galactic-storm.json](./264082-galactic-storm.json) |
 | Galactic Story | 221190 | [221190-galactic-story.json](./221190-galactic-story.json) |
 | Galactic Striker | 329174 | [329174-galactic-striker.json](./329174-galactic-striker.json) |
@@ -336,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Wars | 133996 | [133996-galactic-wars.json](./133996-galactic-wars.json) |
 | Galactic Wars EX | 176351 | [176351-galactic-wars-ex.json](./176351-galactic-wars-ex.json) |
 | Galactic Wars: Defend Your Star Worlds | 286206 | [286206-galactic-wars-defend-your-star-worlds.json](./286206-galactic-wars-defend-your-star-worlds.json) |
+| Galactic Warship | 260297 | [260297-galactic-warship.json](./260297-galactic-warship.json) |
 | Galactic-A-Tactic: The Most Diplomatic Solution | 367975 | [367975-galactic-a-tactic-the-most-diplomatic-solution.json](./367975-galactic-a-tactic-the-most-diplomatic-solution.json) |
 | Galactic: The Xmas Edition | 327803 | [327803-galactic-the-xmas-edition.json](./327803-galactic-the-xmas-edition.json) |
 | Galactica: Batalha Espacial | 123033 | [123033-galactica-batalha-espacial.json](./123033-galactica-batalha-espacial.json) |
@@ -874,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage | 133215 | [133215-garbage.json](./133215-garbage.json) |
 | Garbage Collect | 201223 | [201223-garbage-collect.json](./201223-garbage-collect.json) |
 | Garbage Collector | 376437 | [376437-garbage-collector.json](./376437-garbage-collector.json) |
+| Garbage Country | 260303 | [260303-garbage-country.json](./260303-garbage-country.json) |
 | Garbage Driver Truck Simulator 2025 | 319789 | [319789-garbage-driver-truck-simulator-2025.json](./319789-garbage-driver-truck-simulator-2025.json) |
 | Garbage Girl Louise | 316183 | [316183-garbage-girl-louise.json](./316183-garbage-girl-louise.json) |
 | Garbage Packer | 404406 | [404406-garbage-packer.json](./404406-garbage-packer.json) |
@@ -1267,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekko's Super Strength | 359431 | [359431-gekkos-super-strength.json](./359431-gekkos-super-strength.json) |
 | Gekkou no Carnevale | 137102 | [137102-gekkou-no-carnevale.json](./137102-gekkou-no-carnevale.json) |
 | Geko: Entering The Pipe | 239757 | [239757-geko-entering-the-pipe.json](./239757-geko-entering-the-pipe.json) |
+| Gelatinous: Humanity Lost | 260312 | [260312-gelatinous-humanity-lost.json](./260312-gelatinous-humanity-lost.json) |
 | Gelecard: Guerreiros Gelatinosos | 346216 | [346216-gelecard-guerreiros-gelatinosos.json](./346216-gelecard-guerreiros-gelatinosos.json) |
 | Gelldonia | 156648 | [156648-gelldonia.json](./156648-gelldonia.json) |
 | Gelluloid Domination: SpaceLab Simulator | 265437 | [265437-gelluloid-domination-spacelab-simulator.json](./265437-gelluloid-domination-spacelab-simulator.json) |
