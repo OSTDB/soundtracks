@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 300 Dwarves | 52354 | [52354-300-dwarves.json](./52354-300-dwarves.json) |
 | 300 Heroes | 75139 | [75139-300-heroes.json](./75139-300-heroes.json) |
 | 300 Miles to Pigsland | 286646 | [286646-300-miles-to-pigsland.json](./286646-300-miles-to-pigsland.json) |
+| 300 Minutes of /vr/ | 274121 | [274121-300-minutes-of-vr.json](./274121-300-minutes-of-vr.json) |
 | 300 Spartans | 351773 | [351773-300-spartans.json](./351773-300-spartans.json) |
 | 3000m to Whatever’s up There | 373133 | [373133-3000m-to-whatever-s-up-there.json](./373133-3000m-to-whatever-s-up-there.json) |
 | 303 Game Collection | 273918 | [273918-303-game-collection.json](./273918-303-game-collection.json) |
@@ -1161,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 40 Days | 76539 | [76539-40-days.json](./76539-40-days.json) |
 | 40 Sports Games in 1 | 356845 | [356845-40-sports-games-in-1.json](./356845-40-sports-games-in-1.json) |
 | 40 Winks | 5568 | [5568-40-winks.json](./5568-40-winks.json) |
+| 400 Minutes of /vr/ | 274120 | [274120-400-minutes-of-vr.json](./274120-400-minutes-of-vr.json) |
 | 400 Years | 12383 | [12383-400-years.json](./12383-400-years.json) |
 | 4004Ripper | 342062 | [342062-4004ripper.json](./342062-4004ripper.json) |
 | 404 Knight | 277397 | [277397-404-knight.json](./277397-404-knight.json) |
@@ -1241,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Star Miami Resort | 338907 | [338907-5-star-miami-resort.json](./338907-5-star-miami-resort.json) |
 | 5 Star Racing | 44820 | [44820-5-star-racing.json](./44820-5-star-racing.json) |
 | 5 Star Rio Resort | 38959 | [38959-5-star-rio-resort.json](./38959-5-star-rio-resort.json) |
+| 5 Years | 274126 | [274126-5-years.json](./274126-5-years.json) |
 | 5-kyuu kara 1-kyuu Kanzen Taiou Saishin Kako Mondai: Nijishiken Taisaku - Eiken Kanzenban | 269536 | [269536-5-kyuu-kara-1-kyuu-kanzen-taiou-saishin-kako-mondai-nijishiken-taisaku-eiken-kanzenban.json](./269536-5-kyuu-kara-1-kyuu-kanzen-taiou-saishin-kako-mondai-nijishiken-taisaku-eiken-kanzenban.json) |
 | 5-Nen Kanji Keisan Nigate Hunter DS | 269537 | [269537-5-nen-kanji-keisan-nigate-hunter-ds.json](./269537-5-nen-kanji-keisan-nigate-hunter-ds.json) |
 | 5-Star Taxi | 415875 | [415875-5-star-taxi.json](./415875-5-star-taxi.json) |
