@@ -2175,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedLightCenter | 61176 | [61176-redlightcenter.json](./61176-redlightcenter.json) |
 | Redline | 321136 | [321136-redline.json](./321136-redline.json) |
 | RedLine | 272244 | [272244-redline.json](./272244-redline.json) |
+| Redline Crooks | 252273 | [252273-redline-crooks.json](./252273-redline-crooks.json) |
 | Redline F-1 Racer | 239898 | [239898-redline-f-1-racer.json](./239898-redline-f-1-racer.json) |
 | Redline JDM Drift | 406301 | [406301-redline-jdm-drift.json](./406301-redline-jdm-drift.json) |
 | Redline Racing | 263056 | [263056-redline-racing.json](./263056-redline-racing.json) |
@@ -2974,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Island: The Fun Family Game! Manage your staff & expand your gourmet paradise! | 88206 | [88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json](./88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json) |
 | Restaurant Manager Simulator | 211696 | [211696-restaurant-manager-simulator.json](./211696-restaurant-manager-simulator.json) |
 | Restaurant Simulator | 204072 | [204072-restaurant-simulator.json](./204072-restaurant-simulator.json) |
+| Restaurant Simulator 2023 | 252272 | [252272-restaurant-simulator-2023.json](./252272-restaurant-simulator-2023.json) |
 | Restaurant Solitaire: Delicious Lunch | 188923 | [188923-restaurant-solitaire-delicious-lunch.json](./188923-restaurant-solitaire-delicious-lunch.json) |
 | Restaurant Story | 343479 | [343479-restaurant-story.json](./343479-restaurant-story.json) |
 | Restaurant Tycoon | 75908 | [75908-restaurant-tycoon.json](./75908-restaurant-tycoon.json) |
@@ -4311,6 +4313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Towns | 324918 | [324918-river-towns.json](./324918-river-towns.json) |
 | River-ty Town | 384062 | [384062-river-ty-town.json](./384062-river-ty-town.json) |
 | Riverboat Casino | 209164 | [209164-riverboat-casino.json](./209164-riverboat-casino.json) |
+| Riverflow | 252267 | [252267-riverflow.json](./252267-riverflow.json) |
 | Riverside | 84838 | [84838-riverside.json](./84838-riverside.json) |
 | Riversiders | 253418 | [253418-riversiders.json](./253418-riversiders.json) |
 | Riviera: The Promised Land | 304131 | [304131-riviera-the-promised-land.json](./304131-riviera-the-promised-land.json) |
@@ -5014,6 +5017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockstar Games Collection: Edition 1 | 41587 | [41587-rockstar-games-collection-edition-1.json](./41587-rockstar-games-collection-edition-1.json) |
 | Rockstar Life | 192668 | [192668-rockstar-life.json](./192668-rockstar-life.json) |
 | Rockstar! | 78693 | [78693-rockstar.json](./78693-rockstar.json) |
+| RockTop | 252270 | [252270-rocktop.json](./252270-rocktop.json) |
 | Rocktopus | 301904 | [301904-rocktopus.json](./301904-rocktopus.json) |
 | Rocky | 247438 | [247438-rocky.json](./247438-rocky.json) |
 | Rocky | 37175 | [37175-rocky.json](./37175-rocky.json) |
