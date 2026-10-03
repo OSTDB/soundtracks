@@ -825,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egypt: Old Kingdom - Master of History | 124796 | [124796-egypt-old-kingdom-master-of-history.json](./124796-egypt-old-kingdom-master-of-history.json) |
 | Egypt: Secret of Five Gods | 294206 | [294206-egypt-secret-of-five-gods.json](./294206-egypt-secret-of-five-gods.json) |
 | Egyptian Challenge | 91543 | [91543-egyptian-challenge.json](./91543-egyptian-challenge.json) |
+| Egyptian Ratslap | 264796 | [264796-egyptian-ratslap.json](./264796-egyptian-ratslap.json) |
 | Egyptian Run | 93166 | [93166-egyptian-run.json](./93166-egyptian-run.json) |
 | Ehrgeiz | 1361 | [1361-ehrgeiz.json](./1361-ehrgeiz.json) |
 | Eidetus | 125898 | [125898-eidetus.json](./125898-eidetus.json) |
@@ -1074,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronic Uno | 233989 | [233989-electronic-uno.json](./233989-electronic-uno.json) |
 | Electronic Volleyball | 41573 | [41573-electronic-volleyball.json](./41573-electronic-volleyball.json) |
 | Electronic World Z | 150698 | [150698-electronic-world-z.json](./150698-electronic-world-z.json) |
+| Electronics Puzzle Lab | 264799 | [264799-electronics-puzzle-lab.json](./264799-electronics-puzzle-lab.json) |
 | Electronics Puzzle Lab 2 | 362342 | [362342-electronics-puzzle-lab-2.json](./362342-electronics-puzzle-lab-2.json) |
 | Electroplankton | 18340 | [18340-electroplankton.json](./18340-electroplankton.json) |
 | Elegant Sleuth: Mystic Family | 349311 | [349311-elegant-sleuth-mystic-family.json](./349311-elegant-sleuth-mystic-family.json) |
@@ -1642,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EmyLiveShow: BossRush | 379543 | [379543-emyliveshow-bossrush.json](./379543-emyliveshow-bossrush.json) |
 | EmyLiveShow: Case of Four Hot Witnesses | 379538 | [379538-emyliveshow-case-of-four-hot-witnesses.json](./379538-emyliveshow-case-of-four-hot-witnesses.json) |
 | EmyLiveShow: Dangers & Mysteries Tale | 311055 | [311055-emyliveshow-dangers-and-mysteries-tale.json](./311055-emyliveshow-dangers-and-mysteries-tale.json) |
+| EmyLiveShow: Hentai Puzzle Game | 264774 | [264774-emyliveshow-hentai-puzzle-game.json](./264774-emyliveshow-hentai-puzzle-game.json) |
 | Emzombed | 267473 | [267473-emzombed.json](./267473-emzombed.json) |
 | En Passant | 234059 | [234059-en-passant.json](./234059-en-passant.json) |
 | En-Fem-E No. 9: Reborn | 195780 | [195780-en-fem-e-no-9-reborn.json](./195780-en-fem-e-no-9-reborn.json) |
@@ -2682,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room: Beyond Mystery | 315265 | [315265-escape-room-beyond-mystery.json](./315265-escape-room-beyond-mystery.json) |
 | Escape Room: Christmas Quest | 241345 | [241345-escape-room-christmas-quest.json](./241345-escape-room-christmas-quest.json) |
 | Escape Room: Mystery Tales | 261317 | [261317-escape-room-mystery-tales.json](./261317-escape-room-mystery-tales.json) |
+| Escape Room: Romy Project | 264766 | [264766-escape-room-romy-project.json](./264766-escape-room-romy-project.json) |
 | Escape Roomble | 346705 | [346705-escape-roomble.json](./346705-escape-roomble.json) |
 | Escape Rooms Pack 1 | 299899 | [299899-escape-rooms-pack-1.json](./299899-escape-rooms-pack-1.json) |
 | Escape Rosecliff Island | 9830 | [9830-escape-rosecliff-island.json](./9830-escape-rosecliff-island.json) |
@@ -3656,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excitebike: Bun-bun Mario Battle | 132030 | [132030-excitebike-bun-bun-mario-battle.json](./132030-excitebike-bun-bun-mario-battle.json) |
 | Excitebots: Trick Racing | 4836 | [4836-excitebots-trick-racing.json](./4836-excitebots-trick-racing.json) |
 | Exciting Golf | 91962 | [91962-exciting-golf.json](./91962-exciting-golf.json) |
+| Exciting Milk | 264788 | [264788-exciting-milk.json](./264788-exciting-milk.json) |
 | Exciting Soccer | 46851 | [46851-exciting-soccer.json](./46851-exciting-soccer.json) |
 | Exciting Soccer II | 39834 | [39834-exciting-soccer-ii.json](./39834-exciting-soccer-ii.json) |
 | Exclusion Zone: Hunting Ground | 134616 | [134616-exclusion-zone-hunting-ground.json](./134616-exclusion-zone-hunting-ground.json) |
