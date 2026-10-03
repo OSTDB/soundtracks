@@ -6279,6 +6279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcPinball | 13242 | [13242-arcpinball.json](./13242-arcpinball.json) |
 | Arcshu: Kagerou no Jidai wo Koete | 314659 | [314659-arcshu-kagerou-no-jidai-wo-koete.json](./314659-arcshu-kagerou-no-jidai-wo-koete.json) |
 | Arctic | 56479 | [56479-arctic.json](./56479-arctic.json) |
+| Arctic 51 | 251725 | [251725-arctic-51.json](./251725-arctic-51.json) |
 | Arctic Adventure | 8488 | [8488-arctic-adventure.json](./8488-arctic-adventure.json) |
 | Arctic Adventure: Episodes | 28783 | [28783-arctic-adventure-episodes.json](./28783-arctic-adventure-episodes.json) |
 | Arctic Adventures | 42780 | [42780-arctic-adventures.json](./42780-arctic-adventures.json) |
