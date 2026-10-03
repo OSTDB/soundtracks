@@ -1722,6 +1722,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirth | 329796 | [329796-rebirth.json](./329796-rebirth.json) |
 | Rebirth | 345525 | [345525-rebirth.json](./345525-rebirth.json) |
 | Rebirth | 78571 | [78571-rebirth.json](./78571-rebirth.json) |
+| Rebirth Evolution: Casino Attendant Pack | 277511 | [277511-rebirth-evolution-casino-attendant-pack.json](./277511-rebirth-evolution-casino-attendant-pack.json) |
+| Rebirth Evolution: Fierce Bear Pack | 277517 | [277517-rebirth-evolution-fierce-bear-pack.json](./277517-rebirth-evolution-fierce-bear-pack.json) |
+| Rebirth Evolution: Haunted Carnival Pack | 277516 | [277516-rebirth-evolution-haunted-carnival-pack.json](./277516-rebirth-evolution-haunted-carnival-pack.json) |
 | Rebirth Fantasy Online | 116306 | [116306-rebirth-fantasy-online.json](./116306-rebirth-fantasy-online.json) |
 | Rebirth Moment | 259032 | [259032-rebirth-moment.json](./259032-rebirth-moment.json) |
 | Rebirth of Fortune | 174322 | [174322-rebirth-of-fortune.json](./174322-rebirth-of-fortune.json) |
@@ -3301,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Memories | 143594 | [143594-reverse-memories.json](./143594-reverse-memories.json) |
 | Reverse Momories | 115622 | [115622-reverse-momories.json](./115622-reverse-momories.json) |
 | Reverse Problem | 326142 | [326142-reverse-problem.json](./326142-reverse-problem.json) |
+| Reverse Will | 277499 | [277499-reverse-will.json](./277499-reverse-will.json) |
 | Reversed Dreamland | 50515 | [50515-reversed-dreamland.json](./50515-reversed-dreamland.json) |
 | Reversed Front | 224632 | [224632-reversed-front.json](./224632-reversed-front.json) |
 | Reversed Rebecca | 235682 | [235682-reversed-rebecca.json](./235682-reversed-rebecca.json) |
@@ -4781,6 +4785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: DC Super Heroes DLC Pack | 226939 | [226939-rocket-league-dc-super-heroes-dlc-pack.json](./226939-rocket-league-dc-super-heroes-dlc-pack.json) |
 | Rocket League: Game of the Year Edition | 282134 | [282134-rocket-league-game-of-the-year-edition.json](./282134-rocket-league-game-of-the-year-edition.json) |
 | Rocket League: Hot Wheels Triple Threat | 156174 | [156174-rocket-league-hot-wheels-triple-threat.json](./156174-rocket-league-hot-wheels-triple-threat.json) |
+| Rocket League: Painted Paragon Bundle | 277522 | [277522-rocket-league-painted-paragon-bundle.json](./277522-rocket-league-painted-paragon-bundle.json) |
 | Rocket League: Painted Power Bundle | 326040 | [326040-rocket-league-painted-power-bundle.json](./326040-rocket-league-painted-power-bundle.json) |
 | Rocket League: PlayStation Plus Pack | 303035 | [303035-rocket-league-playstation-plus-pack.json](./303035-rocket-league-playstation-plus-pack.json) |
 | Rocket League: Revenge of the Battle-Cars | 202826 | [202826-rocket-league-revenge-of-the-battle-cars.json](./202826-rocket-league-revenge-of-the-battle-cars.json) |
@@ -5275,6 +5280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Ball on Sky | 86734 | [86734-rolling-ball-on-sky.json](./86734-rolling-ball-on-sky.json) |
 | Rolling Balls | 193428 | [193428-rolling-balls.json](./193428-rolling-balls.json) |
 | Rolling Bird | 113510 | [113510-rolling-bird.json](./113510-rolling-bird.json) |
+| Rolling Crash | 277500 | [277500-rolling-crash.json](./277500-rolling-crash.json) |
 | Rolling Cube | 246364 | [246364-rolling-cube.json](./246364-rolling-cube.json) |
 | Rolling Cube | 358942 | [358942-rolling-cube.json](./358942-rolling-cube.json) |
 | Rolling Down Bottles | 262341 | [262341-rolling-down-bottles.json](./262341-rolling-down-bottles.json) |
