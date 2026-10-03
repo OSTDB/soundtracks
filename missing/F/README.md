@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 22 | 198200 | [198200-f1-22.json](./198200-f1-22.json) |
 | F1 22: Champions Content Bundle | 226843 | [226843-f1-22-champions-content-bundle.json](./226843-f1-22-champions-content-bundle.json) |
 | F1 22: Champions Edition | 198261 | [198261-f1-22-champions-edition.json](./198261-f1-22-champions-edition.json) |
+| F1 23: Champions Edition | 248192 | [248192-f1-23-champions-edition.json](./248192-f1-23-champions-edition.json) |
 | F1 25 | 336964 | [336964-f1-25.json](./336964-f1-25.json) |
 | F1 25: 2026 Season Edition | 408775 | [408775-f1-25-2026-season-edition.json](./408775-f1-25-2026-season-edition.json) |
 | F1 25: 2026 Season Pack | 408774 | [408774-f1-25-2026-season-pack.json](./408774-f1-25-2026-season-pack.json) |
