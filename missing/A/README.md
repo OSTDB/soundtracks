@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Turtle In A Hare-Machine | 246102 | [246102-a-turtle-in-a-hare-machine.json](./246102-a-turtle-in-a-hare-machine.json) |
 | A Twisted Place | 177828 | [177828-a-twisted-place.json](./177828-a-twisted-place.json) |
 | A Vacation in Nebula | 146325 | [146325-a-vacation-in-nebula.json](./146325-a-vacation-in-nebula.json) |
+| A Valentine's Day Quizzle | 232506 | [232506-a-valentines-day-quizzle.json](./232506-a-valentines-day-quizzle.json) |
 | A Vampyre Story: Year One | 3137 | [3137-a-vampyre-story-year-one.json](./3137-a-vampyre-story-year-one.json) |
 | A Verdant Hue | 32234 | [32234-a-verdant-hue.json](./32234-a-verdant-hue.json) |
 | A Very British Summer | 375941 | [375941-a-very-british-summer.json](./375941-a-very-british-summer.json) |
@@ -668,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A World Without... Videogames | 352373 | [352373-a-world-without-videogames.json](./352373-a-world-without-videogames.json) |
 | A xustiza pola man | 176271 | [176271-a-xustiza-pola-man.json](./176271-a-xustiza-pola-man.json) |
 | A Year at Pooh Corner | 45575 | [45575-a-year-at-pooh-corner.json](./45575-a-year-at-pooh-corner.json) |
+| A Year of Riddles | 232505 | [232505-a-year-of-riddles.json](./232505-a-year-of-riddles.json) |
 | A Zombie Tail | 290919 | [290919-a-zombie-tail.json](./290919-a-zombie-tail.json) |
 | A-10 Tank Killer | 14200 | [14200-a-10-tank-killer.json](./14200-a-10-tank-killer.json) |
 | A-10 Tank Killer Version 1.5 | 15570 | [15570-a-10-tank-killer-version-1-5.json](./15570-a-10-tank-killer-version-1-5.json) |
@@ -4757,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Rivals | 28915 | [28915-animal-rivals.json](./28915-animal-rivals.json) |
 | Animal Rivals | 370847 | [370847-animal-rivals.json](./370847-animal-rivals.json) |
 | Animal Rivals: Nintendo Switch Edition | 105904 | [105904-animal-rivals-nintendo-switch-edition.json](./105904-animal-rivals-nintendo-switch-edition.json) |
+| Animal Roadkill Road Racing 2 - Extreme Mutant Trip Games | 232588 | [232588-animal-roadkill-road-racing-2-extreme-mutant-trip-games.json](./232588-animal-roadkill-road-racing-2-extreme-mutant-trip-games.json) |
 | Animal Run for Kids | 381703 | [381703-animal-run-for-kids.json](./381703-animal-run-for-kids.json) |
 | Animal Sanctuary | 203882 | [203882-animal-sanctuary.json](./203882-animal-sanctuary.json) |
 | Animal School 1st Grade Games | 241356 | [241356-animal-school-1st-grade-games.json](./241356-animal-school-1st-grade-games.json) |
