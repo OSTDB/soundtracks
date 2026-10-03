@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nations At War Digital: White Star Rising Battlepack 2 | 166201 | [166201-nations-at-war-digital-white-star-rising-battlepack-2.json](./166201-nations-at-war-digital-white-star-rising-battlepack-2.json) |
 | Nations of Darkness | 233484 | [233484-nations-of-darkness.json](./233484-nations-of-darkness.json) |
 | Nations: WWII Fighter Command | 62210 | [62210-nations-wwii-fighter-command.json](./62210-nations-wwii-fighter-command.json) |
+| Native | 270274 | [270274-native.json](./270274-native.json) |
 | NATO Commander | 24988 | [24988-nato-commander.json](./24988-nato-commander.json) |
 | Nato defense | 40991 | [40991-nato-defense.json](./40991-nato-defense.json) |
 | Natsu Ecchi 2: Futago to Inaka no Natsuyasumi | 109001 | [109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json](./109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json) |
