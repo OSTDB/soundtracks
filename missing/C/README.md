@@ -3214,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Curry | 113849 | [113849-chef-curry.json](./113849-chef-curry.json) |
 | Chef Leo's Creative Kitchen | 343378 | [343378-chef-leos-creative-kitchen.json](./343378-chef-leos-creative-kitchen.json) |
 | Chef Life: A Restaurant Simulator | 191698 | [191698-chef-life-a-restaurant-simulator.json](./191698-chef-life-a-restaurant-simulator.json) |
+| Chef Life: A Restaurant Simulator - Al Forno Edition | 229122 | [229122-chef-life-a-restaurant-simulator-al-forno-edition.json](./229122-chef-life-a-restaurant-simulator-al-forno-edition.json) |
 | Chef Life: A Restaurant Simulator - Al Forno Pack | 242489 | [242489-chef-life-a-restaurant-simulator-al-forno-pack.json](./242489-chef-life-a-restaurant-simulator-al-forno-pack.json) |
 | Chef Life: A Restaurant Simulator - Tokyo Delight | 295348 | [295348-chef-life-a-restaurant-simulator-tokyo-delight.json](./295348-chef-life-a-restaurant-simulator-tokyo-delight.json) |
 | Chef Life: Cooking Lab | 288863 | [288863-chef-life-cooking-lab.json](./288863-chef-life-cooking-lab.json) |
@@ -9787,6 +9788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult: Fear Inside | 72341 | [72341-cult-fear-inside.json](./72341-cult-fear-inside.json) |
 | Cult&Card | 291765 | [291765-cult-and-card.json](./291765-cult-and-card.json) |
 | Cultist Astronaut | 203968 | [203968-cultist-astronaut.json](./203968-cultist-astronaut.json) |
+| Cultivating Happiness | 229218 | [229218-cultivating-happiness.json](./229218-cultivating-happiness.json) |
 | Cultivating Immortals | 274641 | [274641-cultivating-immortals.json](./274641-cultivating-immortals.json) |
 | Cultivation | 378388 | [378388-cultivation.json](./378388-cultivation.json) |
 | Cultivation Fantasy | 274042 | [274042-cultivation-fantasy.json](./274042-cultivation-fantasy.json) |
