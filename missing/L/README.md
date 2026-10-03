@@ -4775,6 +4775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luge Crush 2018 | 87201 | [87201-luge-crush-2018.json](./87201-luge-crush-2018.json) |
 | Luggage Lane | 314474 | [314474-luggage-lane.json](./314474-luggage-lane.json) |
 | Luhor's Memory | 393748 | [393748-luhors-memory.json](./393748-luhors-memory.json) |
+| Luigi and the Island of Mystery | 273029 | [273029-luigi-and-the-island-of-mystery.json](./273029-luigi-and-the-island-of-mystery.json) |
 | Luigi and the Quest for Nothing | 322004 | [322004-luigi-and-the-quest-for-nothing.json](./322004-luigi-and-the-quest-for-nothing.json) |
 | Luigi and the Quest for Nothing Revisited | 381732 | [381732-luigi-and-the-quest-for-nothing-revisited.json](./381732-luigi-and-the-quest-for-nothing-revisited.json) |
 | Luigi and the Quest for Nothing: Enhanced | 322380 | [322380-luigi-and-the-quest-for-nothing-enhanced.json](./322380-luigi-and-the-quest-for-nothing-enhanced.json) |
