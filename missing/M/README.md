@@ -3979,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man ZX | 1779 | [1779-mega-man-zx.json](./1779-mega-man-zx.json) |
 | Mega Man ZX Prequel | 311210 | [311210-mega-man-zx-prequel.json](./311210-mega-man-zx-prequel.json) |
 | Mega Man ZX Zeta | 334149 | [334149-mega-man-zx-zeta.json](./334149-mega-man-zx-zeta.json) |
+| Mega Man: Day in the Limelight | 261435 | [261435-mega-man-day-in-the-limelight.json](./261435-mega-man-day-in-the-limelight.json) |
 | Mega Man: Dr Wily Visits Indonesia | 356694 | [356694-mega-man-dr-wily-visits-indonesia.json](./356694-mega-man-dr-wily-visits-indonesia.json) |
 | Mega Man: Dual Override | 381249 | [381249-mega-man-dual-override.json](./381249-mega-man-dual-override.json) |
 | Mega Man: Limbo Edition | 269871 | [269871-mega-man-limbo-edition.json](./269871-mega-man-limbo-edition.json) |
@@ -5328,6 +5329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Mouse Game | 91957 | [91957-micro-mouse-game.json](./91957-micro-mouse-game.json) |
 | Micro Murder: But It's Robots So It's OK | 181238 | [181238-micro-murder-but-its-robots-so-its-ok.json](./181238-micro-murder-but-its-robots-so-its-ok.json) |
 | Micro Ninja | 314647 | [314647-micro-ninja.json](./314647-micro-ninja.json) |
+| Micro Olympics on Mars | 261456 | [261456-micro-olympics-on-mars.json](./261456-micro-olympics-on-mars.json) |
 | Micro Overdrive: Home Tour | 383068 | [383068-micro-overdrive-home-tour.json](./383068-micro-overdrive-home-tour.json) |
 | Micro Pico Racers | 96665 | [96665-micro-pico-racers.json](./96665-micro-pico-racers.json) |
 | Micro Plutonia | 312898 | [312898-micro-plutonia.json](./312898-micro-plutonia.json) |
@@ -7819,6 +7821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Commanders | 310720 | [310720-monster-commanders.json](./310720-monster-commanders.json) |
 | Monster Crown: Sin Eater | 327715 | [327715-monster-crown-sin-eater.json](./327715-monster-crown-sin-eater.json) |
 | Monster Dash | 18497 | [18497-monster-dash.json](./18497-monster-dash.json) |
+| Monster Demolition | 261416 | [261416-monster-demolition.json](./261416-monster-demolition.json) |
 | Monster Desert | 233458 | [233458-monster-desert.json](./233458-monster-desert.json) |
 | Monster Dungeon | 192666 | [192666-monster-dungeon.json](./192666-monster-dungeon.json) |
 | Monster Dunk | 130333 | [130333-monster-dunk.json](./130333-monster-dunk.json) |
