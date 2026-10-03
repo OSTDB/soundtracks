@@ -6351,6 +6351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Barrel Blast | 4817 | [4817-donkey-kong-barrel-blast.json](./4817-donkey-kong-barrel-blast.json) |
 | Donkey Kong Christmas Remix | 339259 | [339259-donkey-kong-christmas-remix.json](./339259-donkey-kong-christmas-remix.json) |
 | Donkey Kong Circus | 305442 | [305442-donkey-kong-circus.json](./305442-donkey-kong-circus.json) |
+| Donkey Kong City | 231436 | [231436-donkey-kong-city.json](./231436-donkey-kong-city.json) |
 | Donkey Kong Classics | 48175 | [48175-donkey-kong-classics.json](./48175-donkey-kong-classics.json) |
 | Donkey Kong Country | 150028 | [150028-donkey-kong-country.json](./150028-donkey-kong-country.json) |
 | Donkey Kong Country | 234084 | [234084-donkey-kong-country.json](./234084-donkey-kong-country.json) |
