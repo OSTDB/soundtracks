@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest of the Dragon Soul | 295926 | [295926-quest-of-the-dragon-soul.json](./295926-quest-of-the-dragon-soul.json) |
 | Quest of the Hero | 348988 | [348988-quest-of-the-hero.json](./348988-quest-of-the-hero.json) |
 | Quest of Wizard | 188909 | [188909-quest-of-wizard.json](./188909-quest-of-wizard.json) |
+| Quest On Full Moon Island | 245361 | [245361-quest-on-full-moon-island.json](./245361-quest-on-full-moon-island.json) |
 | Quest Room | 199565 | [199565-quest-room.json](./199565-quest-room.json) |
 | Quest room: Hanon | 110547 | [110547-quest-room-hanon.json](./110547-quest-room-hanon.json) |
 | Quest Rooms | 129252 | [129252-quest-rooms.json](./129252-quest-rooms.json) |
