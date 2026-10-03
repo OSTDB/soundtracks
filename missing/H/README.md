@@ -1765,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy As Stone | 322601 | [322601-heavy-as-stone.json](./322601-heavy-as-stone.json) |
 | Heavy Blade | 98764 | [98764-heavy-blade.json](./98764-heavy-blade.json) |
 | Heavy Burden VR | 372459 | [372459-heavy-burden-vr.json](./372459-heavy-burden-vr.json) |
+| Heavy Car Battle: Demolition Derby | 276957 | [276957-heavy-car-battle-demolition-derby.json](./276957-heavy-car-battle-demolition-derby.json) |
 | Heavy Cargo: The Truck Simulator | 165384 | [165384-heavy-cargo-the-truck-simulator.json](./165384-heavy-cargo-the-truck-simulator.json) |
 | Heavy Destinies | 75010 | [75010-heavy-destinies.json](./75010-heavy-destinies.json) |
 | Heavy Dreams | 108058 | [108058-heavy-dreams.json](./108058-heavy-dreams.json) |
