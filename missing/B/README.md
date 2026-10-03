@@ -5380,6 +5380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blok Shot VR | 309608 | [309608-blok-shot-vr.json](./309608-blok-shot-vr.json) |
 | Blokdodge | 68327 | [68327-blokdodge.json](./68327-blokdodge.json) |
 | Blokdoku | 315827 | [315827-blokdoku.json](./315827-blokdoku.json) |
+| Bloki | 276965 | [276965-bloki.json](./276965-bloki.json) |
 | Blokin | 111633 | [111633-blokin.json](./111633-blokin.json) |
 | Blokker | 156585 | [156585-blokker.json](./156585-blokker.json) |
 | Blokker: Orange | 163909 | [163909-blokker-orange.json](./163909-blokker-orange.json) |
