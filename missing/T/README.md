@@ -2762,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 8th Son? A.R. | 243087 | [243087-the-8th-son-a-r.json](./243087-the-8th-son-a-r.json) |
 | The A-Team | 200146 | [200146-the-a-team.json](./200146-the-a-team.json) |
 | The A-Team | 200147 | [200147-the-a-team.json](./200147-the-a-team.json) |
+| The A500 Mini | 275245 | [275245-the-a500-mini.json](./275245-the-a500-mini.json) |
 | The Abandoned Factory | 276396 | [276396-the-abandoned-factory.json](./276396-the-abandoned-factory.json) |
 | The Abandoned House | 321441 | [321441-the-abandoned-house.json](./321441-the-abandoned-house.json) |
 | The Abandoned House in Yeongdeok | 399073 | [399073-the-abandoned-house-in-yeongdeok.json](./399073-the-abandoned-house-in-yeongdeok.json) |
@@ -16132,6 +16133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Tempest | 153953 | [153953-turbo-tempest.json](./153953-turbo-tempest.json) |
 | Turbo Titans | 391883 | [391883-turbo-titans.json](./391883-turbo-titans.json) |
 | Turbo Trax | 12802 | [12802-turbo-trax.json](./12802-turbo-trax.json) |
+| Turbo Trio | 275216 | [275216-turbo-trio.json](./275216-turbo-trio.json) |
 | Turbo Trot | 261354 | [261354-turbo-trot.json](./261354-turbo-trot.json) |
 | Turbo Truck Islands | 351719 | [351719-turbo-truck-islands.json](./351719-turbo-truck-islands.json) |
 | Turbo trucks | 44635 | [44635-turbo-trucks.json](./44635-turbo-trucks.json) |
