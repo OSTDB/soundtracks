@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Dreams of Yuri | 339131 | [339131-wandering-dreams-of-yuri.json](./339131-wandering-dreams-of-yuri.json) |
 | Wandering Duelist | 215670 | [215670-wandering-duelist.json](./215670-wandering-duelist.json) |
 | Wandering Gem Jockeying | 121463 | [121463-wandering-gem-jockeying.json](./121463-wandering-gem-jockeying.json) |
+| Wandering in Space Online VR | 244309 | [244309-wandering-in-space-online-vr.json](./244309-wandering-in-space-online-vr.json) |
 | Wandering Maung | 381682 | [381682-wandering-maung.json](./381682-wandering-maung.json) |
 | Wandering Meatbags | 191552 | [191552-wandering-meatbags.json](./191552-wandering-meatbags.json) |
 | Wandering Owl | 107420 | [107420-wandering-owl.json](./107420-wandering-owl.json) |
@@ -1576,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Webbed | 139458 | [139458-webbed.json](./139458-webbed.json) |
 | WebbVR: The James Webb Space Telescope Virtual Experience | 111631 | [111631-webbvr-the-james-webb-space-telescope-virtual-experience.json](./111631-webbvr-the-james-webb-space-telescope-virtual-experience.json) |
 | Webcam Love | 338387 | [338387-webcam-love.json](./338387-webcam-love.json) |
+| Webcott Dungeon | 244326 | [244326-webcott-dungeon.json](./244326-webcott-dungeon.json) |
 | WebCraft | 282219 | [282219-webcraft.json](./282219-webcraft.json) |
 | WebCum Empire Tycoon | 243151 | [243151-webcum-empire-tycoon.json](./243151-webcum-empire-tycoon.json) |
 | WebCum Secrets | 338386 | [338386-webcum-secrets.json](./338386-webcum-secrets.json) |
@@ -2441,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiteverse: No Country for Old Men | 121690 | [121690-whiteverse-no-country-for-old-men.json](./121690-whiteverse-no-country-for-old-men.json) |
 | WhiteWash | 370774 | [370774-whitewash.json](./370774-whitewash.json) |
 | Whitewater Rapids | 205838 | [205838-whitewater-rapids.json](./205838-whitewater-rapids.json) |
+| Whitewater VR: Extreme Kayaking Adventure | 244388 | [244388-whitewater-vr-extreme-kayaking-adventure.json](./244388-whitewater-vr-extreme-kayaking-adventure.json) |
 | Whittingham Asylum: The Investigation | 258114 | [258114-whittingham-asylum-the-investigation.json](./258114-whittingham-asylum-the-investigation.json) |
 | Whiz Kid | 292783 | [292783-whiz-kid.json](./292783-whiz-kid.json) |
 | Whiz Racer | 180031 | [180031-whiz-racer.json](./180031-whiz-racer.json) |
@@ -3215,6 +3218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishful Thinking | 313822 | [313822-wishful-thinking.json](./313822-wishful-thinking.json) |
 | Wishing Well | 130861 | [130861-wishing-well.json](./130861-wishing-well.json) |
 | Wishing Well Hotel | 386107 | [386107-wishing-well-hotel.json](./386107-wishing-well-hotel.json) |
+| Wishlist | 244300 | [244300-wishlist.json](./244300-wishlist.json) |
 | Wishseeker | 415089 | [415089-wishseeker.json](./415089-wishseeker.json) |
 | Wisly and the Chickens! | 165508 | [165508-wisly-and-the-chickens.json](./165508-wisly-and-the-chickens.json) |
 | Wisp Child | 265257 | [265257-wisp-child.json](./265257-wisp-child.json) |
