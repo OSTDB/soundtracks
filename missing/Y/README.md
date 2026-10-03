@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza Kiwami 3 & Dark Ties: Legendary Outfit Pack | 375196 | [375196-yakuza-kiwami-3-and-dark-ties-legendary-outfit-pack.json](./375196-yakuza-kiwami-3-and-dark-ties-legendary-outfit-pack.json) |
 | Yakuza Kiwami 3 & Dark Ties: Ryukyu Gal Gang Customization Pack | 375197 | [375197-yakuza-kiwami-3-and-dark-ties-ryukyu-gal-gang-customization-pack.json](./375197-yakuza-kiwami-3-and-dark-ties-ryukyu-gal-gang-customization-pack.json) |
 | Yakuza Online | 55111 | [55111-yakuza-online.json](./55111-yakuza-online.json) |
+| Yakuza Restored | 248781 | [248781-yakuza-restored.json](./248781-yakuza-restored.json) |
 | Yakuza Shadows of New York | 322399 | [322399-yakuza-shadows-of-new-york.json](./322399-yakuza-shadows-of-new-york.json) |
 | Yakuza: Dead Souls | 7489 | [7489-yakuza-dead-souls.json](./7489-yakuza-dead-souls.json) |
 | Yakuza: Like a Dragon | 36550 | [36550-yakuza-like-a-dragon.json](./36550-yakuza-like-a-dragon.json) |
@@ -85,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakyosho | 201679 | [201679-yakyosho.json](./201679-yakyosho.json) |
 | Yakyuu Dou: The Way to Gloria | 66197 | [66197-yakyuu-dou-the-way-to-gloria.json](./66197-yakyuu-dou-the-way-to-gloria.json) |
 | Yakyuuken | 246486 | [246486-yakyuuken.json](./246486-yakyuuken.json) |
+| Yakyuuken | 248812 | [248812-yakyuuken.json](./248812-yakyuuken.json) |
 | Yakyuukyou | 67390 | [67390-yakyuukyou.json](./67390-yakyuukyou.json) |
 | Yakzee: Remastered Edition | 308369 | [308369-yakzee-remastered-edition.json](./308369-yakzee-remastered-edition.json) |
 | Yakzee! | 308367 | [308367-yakzee.json](./308367-yakzee.json) |
