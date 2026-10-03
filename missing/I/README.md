@@ -1066,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikasama Mahjong | 346150 | [346150-ikasama-mahjong.json](./346150-ikasama-mahjong.json) |
 | Ikasumi Potion | 308923 | [308923-ikasumi-potion.json](./308923-ikasumi-potion.json) |
 | Ikatan: Ikamono Tantei | 72774 | [72774-ikatan-ikamono-tantei.json](./72774-ikatan-ikamono-tantei.json) |
+| Ike Ike Dendai Bus | 251072 | [251072-ike-ike-dendai-bus.json](./251072-ike-ike-dendai-bus.json) |
 | IKEA VR Experience | 33400 | [33400-ikea-vr-experience.json](./33400-ikea-vr-experience.json) |
 | Ikebana | 352962 | [352962-ikebana.json](./352962-ikebana.json) |
 | Ikemen Oukoku Joou to Shinjitsu no Kiss | 229030 | [229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json](./229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json) |
