@@ -5011,6 +5011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal World: Street Scraps | 201145 | [201145-metal-world-street-scraps.json](./201145-metal-world-street-scraps.json) |
 | Metal: Hellsinger | 134560 | [134560-metal-hellsinger.json](./134560-metal-hellsinger.json) |
 | Metal: Hellsinger - Complete Edition | 279779 | [279779-metal-hellsinger-complete-edition.json](./279779-metal-hellsinger-complete-edition.json) |
+| Metal: Hellsinger - Essential Hits Edition | 254056 | [254056-metal-hellsinger-essential-hits-edition.json](./254056-metal-hellsinger-essential-hits-edition.json) |
 | MetalArms | 122418 | [122418-metalarms.json](./122418-metalarms.json) |
 | MetälBörn | 209490 | [209490-metalborn.json](./209490-metalborn.json) |
 | Metalborne | 196562 | [196562-metalborne.json](./196562-metalborne.json) |
@@ -6250,6 +6251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: The Traveling Trader | 322955 | [322955-minecraft-the-traveling-trader.json](./322955-minecraft-the-traveling-trader.json) |
 | Minecraft: The Wild Update | 223161 | [223161-minecraft-the-wild-update.json](./223161-minecraft-the-wild-update.json) |
 | Minecraft: Time Capsule | 343905 | [343905-minecraft-time-capsule.json](./343905-minecraft-time-capsule.json) |
+| Minecraft: Toy Story Mash-up | 254066 | [254066-minecraft-toy-story-mash-up.json](./254066-minecraft-toy-story-mash-up.json) |
 | Minecraft: Trial Chamber Legends | 307729 | [307729-minecraft-trial-chamber-legends.json](./307729-minecraft-trial-chamber-legends.json) |
 | Minecraft: Tricky Trials | 272821 | [272821-minecraft-tricky-trials.json](./272821-minecraft-tricky-trials.json) |
 | Minecraft: Ultimate Collection | 397759 | [397759-minecraft-ultimate-collection.json](./397759-minecraft-ultimate-collection.json) |
