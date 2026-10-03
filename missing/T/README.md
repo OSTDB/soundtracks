@@ -4035,6 +4035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Heart of Balor | 199483 | [199483-the-dark-heart-of-balor.json](./199483-the-dark-heart-of-balor.json) |
 | The Dark House | 267949 | [267949-the-dark-house.json](./267949-the-dark-house.json) |
 | The Dark Inside Me | 99005 | [99005-the-dark-inside-me.json](./99005-the-dark-inside-me.json) |
+| The Dark is a Soft, Warm Pressure | 276921 | [276921-the-dark-is-a-soft-warm-pressure.json](./276921-the-dark-is-a-soft-warm-pressure.json) |
 | The Dark Journey | 192803 | [192803-the-dark-journey.json](./192803-the-dark-journey.json) |
 | The Dark Kingdom | 356670 | [356670-the-dark-kingdom.json](./356670-the-dark-kingdom.json) |
 | The Dark Knight Rises | 64769 | [64769-the-dark-knight-rises.json](./64769-the-dark-knight-rises.json) |
@@ -5832,6 +5833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters Online | 76968 | [76968-the-king-of-fighters-online.json](./76968-the-king-of-fighters-online.json) |
 | The King of Fighters XIII Climax | 348461 | [348461-the-king-of-fighters-xiii-climax.json](./348461-the-king-of-fighters-xiii-climax.json) |
 | The King of Fighters XIII: Galaxy Edition | 126461 | [126461-the-king-of-fighters-xiii-galaxy-edition.json](./126461-the-king-of-fighters-xiii-galaxy-edition.json) |
+| The King of Fighters XIII: Global Match: Deluxe Edition | 276942 | [276942-the-king-of-fighters-xiii-global-match-deluxe-edition.json](./276942-the-king-of-fighters-xiii-global-match-deluxe-edition.json) |
 | The King of Fighters XIII: Iori with the Power of Flames | 404927 | [404927-the-king-of-fighters-xiii-iori-with-the-power-of-flames.json](./404927-the-king-of-fighters-xiii-iori-with-the-power-of-flames.json) |
 | The King of Fighters XIII: Mr. Karate | 404942 | [404942-the-king-of-fighters-xiii-mr-karate.json](./404942-the-king-of-fighters-xiii-mr-karate.json) |
 | The King of Fighters XIII: Nests Style Kyo | 404922 | [404922-the-king-of-fighters-xiii-nests-style-kyo.json](./404922-the-king-of-fighters-xiii-nests-style-kyo.json) |
@@ -12164,6 +12166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toasted! | 188101 | [188101-toasted.json](./188101-toasted.json) |
 | Toaster Defense | 157144 | [157144-toaster-defense.json](./157144-toaster-defense.json) |
 | Toasterball | 111301 | [111301-toasterball.json](./111301-toasterball.json) |
+| Toasterball + Buissons Bundle | 276951 | [276951-toasterball-buissons-bundle.json](./276951-toasterball-buissons-bundle.json) |
 | Toastling | 192321 | [192321-toastling.json](./192321-toastling.json) |
 | Toasty: Ashes of Dusk | 144275 | [144275-toasty-ashes-of-dusk.json](./144275-toasty-ashes-of-dusk.json) |
 | Toazzle | 90856 | [90856-toazzle.json](./90856-toazzle.json) |
@@ -12173,6 +12176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobal 2 | 1662 | [1662-tobal-2.json](./1662-tobal-2.json) |
 | Tobari 2: Dream Ocean | 135815 | [135815-tobari-2-dream-ocean.json](./135815-tobari-2-dream-ocean.json) |
 | Tobari and the Vampire Alchemist | 398568 | [398568-tobari-and-the-vampire-alchemist.json](./398568-tobari-and-the-vampire-alchemist.json) |
+| Tobari Dream Ocean + Nightmare | 276950 | [276950-tobari-dream-ocean-nightmare.json](./276950-tobari-dream-ocean-nightmare.json) |
 | Tobby The Dog | 289942 | [289942-tobby-the-dog.json](./289942-tobby-the-dog.json) |
 | Tobe's Hookshot Escape | 248880 | [248880-tobes-hookshot-escape.json](./248880-tobes-hookshot-escape.json) |
 | Tobe's Vertical Adventure | 249141 | [249141-tobes-vertical-adventure.json](./249141-tobes-vertical-adventure.json) |
@@ -15322,6 +15326,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Quicky | 78066 | [78066-tricky-quicky.json](./78066-tricky-quicky.json) |
 | Tricky Shapes | 28179 | [28179-tricky-shapes.json](./28179-tricky-shapes.json) |
 | Tricky Super Mario Bros. U | 281020 | [281020-tricky-super-mario-bros-u.json](./281020-tricky-super-mario-bros-u.json) |
+| Tricky Taps | 276939 | [276939-tricky-taps.json](./276939-tricky-taps.json) |
+| Tricky Taps: Paint Power | 276940 | [276940-tricky-taps-paint-power.json](./276940-tricky-taps-paint-power.json) |
 | Tricky Test 2: Genius Brain? | 88863 | [88863-tricky-test-2-genius-brain.json](./88863-tricky-test-2-genius-brain.json) |
 | Tricky Test 2018 | 105794 | [105794-tricky-test-2018.json](./105794-tricky-test-2018.json) |
 | Tricky Thief | 240180 | [240180-tricky-thief.json](./240180-tricky-thief.json) |
@@ -16495,6 +16501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Neons One Brain | 262359 | [262359-two-neons-one-brain.json](./262359-two-neons-one-brain.json) |
 | Two of Us | 286777 | [286777-two-of-us.json](./286777-two-of-us.json) |
 | Two Peas in a pod | 183055 | [183055-two-peas-in-a-pod.json](./183055-two-peas-in-a-pod.json) |
+| Two Point Campus: Brainy Bundle | 276941 | [276941-two-point-campus-brainy-bundle.json](./276941-two-point-campus-brainy-bundle.json) |
 | Two Point Campus: Enrollment Edition | 188643 | [188643-two-point-campus-enrollment-edition.json](./188643-two-point-campus-enrollment-edition.json) |
 | Two Point Campus: Medical School | 260716 | [260716-two-point-campus-medical-school.json](./260716-two-point-campus-medical-school.json) |
 | Two Point Campus: School Spirits | 241307 | [241307-two-point-campus-school-spirits.json](./241307-two-point-campus-school-spirits.json) |
