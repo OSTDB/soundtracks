@@ -1170,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!! Vanguard: Dear Days - Character Set 01: Aichi Sendou | 226282 | [226282-cardfight-vanguard-dear-days-character-set-01-aichi-sendou.json](./226282-cardfight-vanguard-dear-days-character-set-01-aichi-sendou.json) |
 | Cardfight!! Vanguard: Dear Days - Character Set 02: Toshiki Kai | 226283 | [226283-cardfight-vanguard-dear-days-character-set-02-toshiki-kai.json](./226283-cardfight-vanguard-dear-days-character-set-02-toshiki-kai.json) |
 | Cardfight!! Vanguard: Dear Days - Character Set 03: Ren Suzugamori | 226284 | [226284-cardfight-vanguard-dear-days-character-set-03-ren-suzugamori.json](./226284-cardfight-vanguard-dear-days-character-set-03-ren-suzugamori.json) |
+| Cardfight!! Vanguard: Dear Days - Character Set 06: Taizo Kiyokura | 251101 | [251101-cardfight-vanguard-dear-days-character-set-06-taizo-kiyokura.json](./251101-cardfight-vanguard-dear-days-character-set-06-taizo-kiyokura.json) |
 | Cardfight!! Vanguard: Dear Days - Character Set 07: Chrono Shindou | 254676 | [254676-cardfight-vanguard-dear-days-character-set-07-chrono-shindou.json](./254676-cardfight-vanguard-dear-days-character-set-07-chrono-shindou.json) |
 | Cardfight!! Vanguard: Dear Days - Rare Card Set 01 D-BT01: Genesis of the Five Greats | 226285 | [226285-cardfight-vanguard-dear-days-rare-card-set-01-d-bt01-genesis-of-the-five-greats.json](./226285-cardfight-vanguard-dear-days-rare-card-set-01-d-bt01-genesis-of-the-five-greats.json) |
 | Cardfight!! Vanguard: Dear Days - Rare Card Set 02 D-BT02: A Brush with the Legends | 226286 | [226286-cardfight-vanguard-dear-days-rare-card-set-02-d-bt02-a-brush-with-the-legends.json](./226286-cardfight-vanguard-dear-days-rare-card-set-02-d-bt02-a-brush-with-the-legends.json) |
@@ -1589,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassandra's Fabulous Foray | 67931 | [67931-cassandras-fabulous-foray.json](./67931-cassandras-fabulous-foray.json) |
 | Cassette 50 | 93344 | [93344-cassette-50.json](./93344-cassette-50.json) |
 | Cassette Beasts 2002 | 404378 | [404378-cassette-beasts-2002.json](./404378-cassette-beasts-2002.json) |
+| Cassette Beasts: Deluxe Edition | 251108 | [251108-cassette-beasts-deluxe-edition.json](./251108-cassette-beasts-deluxe-edition.json) |
 | Cassette Beasts: Fashion Pack | 365834 | [365834-cassette-beasts-fashion-pack.json](./365834-cassette-beasts-fashion-pack.json) |
 | Cassette Beasts: Wing Pack | 365833 | [365833-cassette-beasts-wing-pack.json](./365833-cassette-beasts-wing-pack.json) |
 | Cassette Boy | 248898 | [248898-cassette-boy.json](./248898-cassette-boy.json) |
@@ -2198,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catnip & Coffee | 350529 | [350529-catnip-and-coffee.json](./350529-catnip-and-coffee.json) |
 | Catniptic | 263059 | [263059-catniptic.json](./263059-catniptic.json) |
 | Cato: Buttered Cat | 203934 | [203934-cato-buttered-cat.json](./203934-cato-buttered-cat.json) |
+| Catography | 251067 | [251067-catography.json](./251067-catography.json) |
 | Catopy | 336652 | [336652-catopy.json](./336652-catopy.json) |
 | Catovania | 132629 | [132629-catovania.json](./132629-catovania.json) |
 | Catrap | 7820 | [7820-catrap.json](./7820-catrap.json) |
@@ -7344,6 +7347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupt | 67916 | [67916-corrupt.json](./67916-corrupt.json) |
 | Corrupt Life | 98457 | [98457-corrupt-life.json](./98457-corrupt-life.json) |
 | Corrupt Political | 219302 | [219302-corrupt-political.json](./219302-corrupt-political.json) |
+| Corrupted | 251063 | [251063-corrupted.json](./251063-corrupted.json) |
 | Corrupted Basement | 375810 | [375810-corrupted-basement.json](./375810-corrupted-basement.json) |
 | Corrupted Cistern | 256828 | [256828-corrupted-cistern.json](./256828-corrupted-cistern.json) |
 | Corrupted Dice | 405520 | [405520-corrupted-dice.json](./405520-corrupted-dice.json) |
