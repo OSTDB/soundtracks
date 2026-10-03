@@ -1908,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endrays | 266860 | [266860-endrays.json](./266860-endrays.json) |
 | Endro | 164971 | [164971-endro.json](./164971-endro.json) |
 | Endrr | 200690 | [200690-endrr.json](./200690-endrr.json) |
+| Ends | 247099 | [247099-ends.json](./247099-ends.json) |
 | Ends | 302078 | [302078-ends.json](./302078-ends.json) |
 | EndSeeker | 333143 | [333143-endseeker.json](./333143-endseeker.json) |
 | Endura | 301272 | [301272-endura.json](./301272-endura.json) |
@@ -3431,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyday House Tamagotchi | 222427 | [222427-everyday-house-tamagotchi.json](./222427-everyday-house-tamagotchi.json) |
 | Everyday Jigsaw | 87088 | [87088-everyday-jigsaw.json](./87088-everyday-jigsaw.json) |
 | Everyday Life Fragments | 344535 | [344535-everyday-life-fragments.json](./344535-everyday-life-fragments.json) |
+| Everyday Puzzles | 247087 | [247087-everyday-puzzles.json](./247087-everyday-puzzles.json) |
 | Everyday Shooter | 14911 | [14911-everyday-shooter.json](./14911-everyday-shooter.json) |
 | Everyday Soccer | 61342 | [61342-everyday-soccer.json](./61342-everyday-soccer.json) |
 | Everyday Sororicide | 380679 | [380679-everyday-sororicide.json](./380679-everyday-sororicide.json) |
