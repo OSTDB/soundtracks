@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Night: The First Voyage | 213604 | [213604-echo-night-the-first-voyage.json](./213604-echo-night-the-first-voyage.json) |
 | Echo of Extinction | 274039 | [274039-echo-of-extinction.json](./274039-echo-of-extinction.json) |
 | Echo of Humanity | 390723 | [390723-echo-of-humanity.json](./390723-echo-of-humanity.json) |
+| Echo of Migration | 258617 | [258617-echo-of-migration.json](./258617-echo-of-migration.json) |
 | Echo of Mobius | 303509 | [303509-echo-of-mobius.json](./303509-echo-of-mobius.json) |
 | Echo of Prypiat | 303508 | [303508-echo-of-prypiat.json](./303508-echo-of-prypiat.json) |
 | Echo of the Last Light | 226812 | [226812-echo-of-the-last-light.json](./226812-echo-of-the-last-light.json) |
