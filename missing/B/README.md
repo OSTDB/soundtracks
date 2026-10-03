@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baker Business 3: Halloween Pack | 263107 | [263107-baker-business-3-halloween-pack.json](./263107-baker-business-3-halloween-pack.json) |
 | Baker Business 3: Spring Pack | 243049 | [243049-baker-business-3-spring-pack.json](./243049-baker-business-3-spring-pack.json) |
 | Baker Street Breakouts: A Sherlockian Escape Adventure | 231870 | [231870-baker-street-breakouts-a-sherlockian-escape-adventure.json](./231870-baker-street-breakouts-a-sherlockian-escape-adventure.json) |
+| Baker's Dozen | 260859 | [260859-bakers-dozen.json](./260859-bakers-dozen.json) |
 | Bakeru | 254466 | [254466-bakeru.json](./254466-bakeru.json) |
 | Bakery Magnate: Beginning | 292692 | [292692-bakery-magnate-beginning.json](./292692-bakery-magnate-beginning.json) |
 | Bakery Shop Match Up | 338187 | [338187-bakery-shop-match-up.json](./338187-bakery-shop-match-up.json) |
@@ -729,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball laB | 89384 | [89384-ball-lab.json](./89384-ball-lab.json) |
 | Ball League | 107119 | [107119-ball-league.json](./107119-ball-league.json) |
 | Ball Mania | 280449 | [280449-ball-mania.json](./280449-ball-mania.json) |
+| Ball Master Up! | 260899 | [260899-ball-master-up.json](./260899-ball-master-up.json) |
 | Ball Match Quest | 108481 | [108481-ball-match-quest.json](./108481-ball-match-quest.json) |
 | Ball O | 262897 | [262897-ball-o.json](./262897-ball-o.json) |
 | Ball of Adventure | 220051 | [220051-ball-of-adventure.json](./220051-ball-of-adventure.json) |
@@ -1077,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bankshot | 344560 | [344560-bankshot.json](./344560-bankshot.json) |
 | Bankshot Billiards 2 | 20523 | [20523-bankshot-billiards-2.json](./20523-bankshot-billiards-2.json) |
 | Bankwave: Neon Networth | 258954 | [258954-bankwave-neon-networth.json](./258954-bankwave-neon-networth.json) |
+| Banmeng Yexing: A Journey on Limbus | 260864 | [260864-banmeng-yexing-a-journey-on-limbus.json](./260864-banmeng-yexing-a-journey-on-limbus.json) |
 | Banned From Equestria (Daily) | 148383 | [148383-banned-from-equestria-daily.json](./148383-banned-from-equestria-daily.json) |
 | Banned Tapes | 333650 | [333650-banned-tapes.json](./333650-banned-tapes.json) |
 | Banner Kings | 356153 | [356153-banner-kings.json](./356153-banner-kings.json) |
@@ -3650,6 +3653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Adventure: Trip to Europe 3 | 417375 | [417375-big-adventure-trip-to-europe-3.json](./417375-big-adventure-trip-to-europe-3.json) |
 | Big Adventure: Trip to Europe 4 | 417376 | [417376-big-adventure-trip-to-europe-4.json](./417376-big-adventure-trip-to-europe-4.json) |
 | Big Adventure: Trip to Europe 5 | 417377 | [417377-big-adventure-trip-to-europe-5.json](./417377-big-adventure-trip-to-europe-5.json) |
+| Big Adventure: Trip to Europe 5 - Collector's Edition | 260875 | [260875-big-adventure-trip-to-europe-5-collectors-edition.json](./260875-big-adventure-trip-to-europe-5-collectors-edition.json) |
 | Big Adventure: Trip to Europe 6 | 417378 | [417378-big-adventure-trip-to-europe-6.json](./417378-big-adventure-trip-to-europe-6.json) |
 | Big Adventure: Trip to Europe 6 - Collector's Edition | 283993 | [283993-big-adventure-trip-to-europe-6-collectors-edition.json](./283993-big-adventure-trip-to-europe-6-collectors-edition.json) |
 | Big Adventure: Trip to Europe 7 | 417379 | [417379-big-adventure-trip-to-europe-7.json](./417379-big-adventure-trip-to-europe-7.json) |
@@ -6354,6 +6358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Selection | 56467 | [56467-bomberman-selection.json](./56467-bomberman-selection.json) |
 | Bomberman Story DS | 66613 | [66613-bomberman-story-ds.json](./66613-bomberman-story-ds.json) |
 | Bomberman Tournament | 6334 | [6334-bomberman-tournament.json](./6334-bomberman-tournament.json) |
+| Bomberman Tower | 260870 | [260870-bomberman-tower.json](./260870-bomberman-tower.json) |
 | Bomberman Ultra | 44572 | [44572-bomberman-ultra.json](./44572-bomberman-ultra.json) |
 | Bomberman: Act Zero | 6925 | [6925-bomberman-act-zero.json](./6925-bomberman-act-zero.json) |
 | Bomberman: Bakufuu Sentai Bomberman | 59395 | [59395-bomberman-bakufuu-sentai-bomberman.json](./59395-bomberman-bakufuu-sentai-bomberman.json) |
