@@ -1123,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nelson and the Magic Cauldron | 110283 | [110283-nelson-and-the-magic-cauldron.json](./110283-nelson-and-the-magic-cauldron.json) |
 | Nelson and the Magic Cauldron: The Journey | 188494 | [188494-nelson-and-the-magic-cauldron-the-journey.json](./188494-nelson-and-the-magic-cauldron-the-journey.json) |
 | Nelson Piquet's Grand Prix Evolution | 73547 | [73547-nelson-piquets-grand-prix-evolution.json](./73547-nelson-piquets-grand-prix-evolution.json) |
+| Nelu's Adventure | 236903 | [236903-nelus-adventure.json](./236903-nelus-adventure.json) |
 | Nelumbra | 333178 | [333178-nelumbra.json](./333178-nelumbra.json) |
 | Nemac IV | 138259 | [138259-nemac-iv.json](./138259-nemac-iv.json) |
 | Nemegraphe | 326837 | [326837-nemegraphe.json](./326837-nemegraphe.json) |
@@ -2404,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Nursery | 183549 | [183549-nightmare-nursery.json](./183549-nightmare-nursery.json) |
 | Nightmare Nursery | 277430 | [277430-nightmare-nursery.json](./277430-nightmare-nursery.json) |
 | Nightmare of Decay | 195478 | [195478-nightmare-of-decay.json](./195478-nightmare-of-decay.json) |
+| Nightmare of Nady | 236906 | [236906-nightmare-of-nady.json](./236906-nightmare-of-nady.json) |
 | Nightmare Of SilkenCore: Train Hell | 333570 | [333570-nightmare-of-silkencore-train-hell.json](./333570-nightmare-of-silkencore-train-hell.json) |
 | Nightmare of the Snow | 150559 | [150559-nightmare-of-the-snow.json](./150559-nightmare-of-the-snow.json) |
 | Nightmare of the Webslinger | 338785 | [338785-nightmare-of-the-webslinger.json](./338785-nightmare-of-the-webslinger.json) |
