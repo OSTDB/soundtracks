@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JailBreaker | 98478 | [98478-jailbreaker.json](./98478-jailbreaker.json) |
 | Jak & Daxter: The Lost Levels | 319202 | [319202-jak-and-daxter-the-lost-levels.json](./319202-jak-and-daxter-the-lost-levels.json) |
 | Jak 3 | 1530 | [1530-jak-3.json](./1530-jak-3.json) |
+| Jak 3: The Journey Back Gold Edition | 237431 | [237431-jak-3-the-journey-back-gold-edition.json](./237431-jak-3-the-journey-back-gold-edition.json) |
 | Jak and Daxter Collection | 20113 | [20113-jak-and-daxter-collection.json](./20113-jak-and-daxter-collection.json) |
 | Jak and Daxter: The Precursor Legacy | 302690 | [302690-jak-and-daxter-the-precursor-legacy.json](./302690-jak-and-daxter-the-precursor-legacy.json) |
 | Jak and Daxter: The Precursor Legacy | 325261 | [325261-jak-and-daxter-the-precursor-legacy.json](./325261-jak-and-daxter-the-precursor-legacy.json) |
