@@ -2154,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EOPN: Test RS | 285549 | [285549-eopn-test-rs.json](./285549-eopn-test-rs.json) |
 | Eormor: Shattered Lands | 120918 | [120918-eormor-shattered-lands.json](./120918-eormor-shattered-lands.json) |
 | Eos | 147330 | [147330-eos.json](./147330-eos.json) |
+| EOS-503 | 256991 | [256991-eos-503.json](./256991-eos-503.json) |
 | eOthello | 277283 | [277283-eothello.json](./277283-eothello.json) |
 | Epejsodion Dodgeball Defense | 166748 | [166748-epejsodion-dodgeball-defense.json](./166748-epejsodion-dodgeball-defense.json) |
 | Epejsodion Dodgeball Training | 369724 | [369724-epejsodion-dodgeball-training.json](./369724-epejsodion-dodgeball-training.json) |
@@ -3135,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: Road to the Black Sea | 118305 | [118305-euro-truck-simulator-2-road-to-the-black-sea.json](./118305-euro-truck-simulator-2-road-to-the-black-sea.json) |
 | Euro Truck Simulator 2: Soul of Anatolia | 398433 | [398433-euro-truck-simulator-2-soul-of-anatolia.json](./398433-euro-truck-simulator-2-soul-of-anatolia.json) |
 | Euro Truck Simulator 2: Street Art Paint Jobs Pack | 225577 | [225577-euro-truck-simulator-2-street-art-paint-jobs-pack.json](./225577-euro-truck-simulator-2-street-art-paint-jobs-pack.json) |
+| Euro Truck Simulator 2: Wielton Trailer Pack | 256992 | [256992-euro-truck-simulator-2-wielton-trailer-pack.json](./256992-euro-truck-simulator-2-wielton-trailer-pack.json) |
 | Euro-Man | 71554 | [71554-euro-man.json](./71554-euro-man.json) |
 | Eurobi Racing | 112940 | [112940-eurobi-racing.json](./112940-eurobi-racing.json) |
 | EuroCops | 62984 | [62984-eurocops.json](./62984-eurocops.json) |
@@ -3705,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exhibit of Sorrows | 321126 | [321126-exhibit-of-sorrows.json](./321126-exhibit-of-sorrows.json) |
 | Exhibition | 60014 | [60014-exhibition.json](./60014-exhibition.json) |
 | Exidium Corp | 21327 | [21327-exidium-corp.json](./21327-exidium-corp.json) |
+| Exigent | 257000 | [257000-exigent.json](./257000-exigent.json) |
 | Exil | 318607 | [318607-exil.json](./318607-exil.json) |
 | Exile | 12068 | [12068-exile.json](./12068-exile.json) |
 | Exile | 176919 | [176919-exile.json](./176919-exile.json) |
