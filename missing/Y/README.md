@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yáo Àn Dēng Hǎi | 373709 | [373709-yao-an-deng-hai.json](./373709-yao-an-deng-hai.json) |
 | Yāo Dāo Zhuàn | 373695 | [373695-yao-dao-zhuan.json](./373695-yao-dao-zhuan.json) |
 | Yāo Xiān Dòngfǔ | 373706 | [373706-yao-xian-dongfu.json](./373706-yao-xian-dongfu.json) |
+| YaoGuai Hunter | 259717 | [259717-yaoguai-hunter.json](./259717-yaoguai-hunter.json) |
 | Yāoliàn Xīyóu | 373711 | [373711-yaolian-xiyou.json](./373711-yaolian-xiyou.json) |
 | Yaoling: Mythical Journey | 304279 | [304279-yaoling-mythical-journey.json](./304279-yaoling-mythical-journey.json) |
 | Yaoyoro Zoo | 356299 | [356299-yaoyoro-zoo.json](./356299-yaoyoro-zoo.json) |
