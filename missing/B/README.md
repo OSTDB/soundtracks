@@ -1670,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Showdown: Royale | 244798 | [244798-basketball-showdown-royale.json](./244798-basketball-showdown-royale.json) |
 | Basketball Simulator | 255061 | [255061-basketball-simulator.json](./255061-basketball-simulator.json) |
 | Basketball Slam! | 237651 | [237651-basketball-slam.json](./237651-basketball-slam.json) |
+| BasketBall Street Hero | 239122 | [239122-basketball-street-hero.json](./239122-basketball-street-hero.json) |
 | Basketball Théorie Pratique sur Ensembles Aléatoires | 355145 | [355145-basketball-theorie-pratique-sur-ensembles-aleatoires.json](./355145-basketball-theorie-pratique-sur-ensembles-aleatoires.json) |
 | Basketball Trivia | 88203 | [88203-basketball-trivia.json](./88203-basketball-trivia.json) |
 | Basketball VR | 304687 | [304687-basketball-vr.json](./304687-basketball-vr.json) |
@@ -4037,6 +4038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo | 206142 | [206142-bingo.json](./206142-bingo.json) |
 | Bingo | 86064 | [86064-bingo.json](./86064-bingo.json) |
 | Bingo 75 | 22429 | [22429-bingo-75.json](./22429-bingo-75.json) |
+| Bingo Bay | 239123 | [239123-bingo-bay.json](./239123-bingo-bay.json) |
 | Bingo Beavers | 293232 | [293232-bingo-beavers.json](./293232-bingo-beavers.json) |
 | Bingo Beavers: Bathroom | 298085 | [298085-bingo-beavers-bathroom.json](./298085-bingo-beavers-bathroom.json) |
 | Bingo Beavers: Kitchen | 298035 | [298035-bingo-beavers-kitchen.json](./298035-bingo-beavers-kitchen.json) |
@@ -4270,6 +4272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds Aren’t Real | 249357 | [249357-birds-aren-t-real.json](./249357-birds-aren-t-real.json) |
 | Birds Birds Birds | 107209 | [107209-birds-birds-birds.json](./107209-birds-birds-birds.json) |
 | Birds Blitz | 242663 | [242663-birds-blitz.json](./242663-birds-blitz.json) |
+| Birds In Paradise | 239124 | [239124-birds-in-paradise.json](./239124-birds-in-paradise.json) |
 | Birds no More | 245317 | [245317-birds-no-more.json](./245317-birds-no-more.json) |
 | Birds of a Feather | 284590 | [284590-birds-of-a-feather.json](./284590-birds-of-a-feather.json) |
 | Birds of a Feather | 350569 | [350569-birds-of-a-feather.json](./350569-birds-of-a-feather.json) |
