@@ -2918,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kronian Titans | 244177 | [244177-kronian-titans.json](./244177-kronian-titans.json) |
 | Kronii is Hungry | 203302 | [203302-kronii-is-hungry.json](./203302-kronii-is-hungry.json) |
 | Kroniki Elevena | 236807 | [236807-kroniki-elevena.json](./236807-kroniki-elevena.json) |
+| Kronno Zomber | 240271 | [240271-kronno-zomber.json](./240271-kronno-zomber.json) |
 | Kronolog: The Nazi Paradox | 50481 | [50481-kronolog-the-nazi-paradox.json](./50481-kronolog-the-nazi-paradox.json) |
 | Kronville: Stolen Dreams | 53262 | [53262-kronville-stolen-dreams.json](./53262-kronville-stolen-dreams.json) |
 | Krosfighter | 275844 | [275844-krosfighter.json](./275844-krosfighter.json) |
