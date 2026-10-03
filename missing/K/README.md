@@ -854,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kellogg's The Amazing Spider-Man 2 | 322362 | [322362-kelloggs-the-amazing-spider-man-2.json](./322362-kelloggs-the-amazing-spider-man-2.json) |
 | Kells | 156604 | [156604-kells.json](./156604-kells.json) |
 | Kelly Kangaroo | 292072 | [292072-kelly-kangaroo.json](./292072-kelly-kangaroo.json) |
+| Kelly Slater's Pro Surfer | 243186 | [243186-kelly-slaters-pro-surfer.json](./243186-kelly-slaters-pro-surfer.json) |
 | Kelp Keeper | 290557 | [290557-kelp-keeper.json](./290557-kelp-keeper.json) |
 | Kelsi Davies: Haunt Escape | 275675 | [275675-kelsi-davies-haunt-escape.json](./275675-kelsi-davies-haunt-escape.json) |
 | Keltika | 259606 | [259606-keltika.json](./259606-keltika.json) |
@@ -1139,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid's Preschool Game Box | 87692 | [87692-kids-preschool-game-box.json](./87692-kids-preschool-game-box.json) |
 | Kid's Sudoku, 100 puzzles | 98777 | [98777-kids-sudoku-100-puzzles.json](./98777-kids-sudoku-100-puzzles.json) |
 | Kidbash: Super Legend | 275736 | [275736-kidbash-super-legend.json](./275736-kidbash-super-legend.json) |
+| Kidblock | 243171 | [243171-kidblock.json](./243171-kidblock.json) |
 | Kiddie Coaster | 66045 | [66045-kiddie-coaster.json](./66045-kiddie-coaster.json) |
 | Kiddies Party Pack | 100174 | [100174-kiddies-party-pack.json](./100174-kiddies-party-pack.json) |
 | Kiddo | 176794 | [176794-kiddo.json](./176794-kiddo.json) |
@@ -2382,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of the Fall | 236213 | [236213-knights-of-the-fall.json](./236213-knights-of-the-fall.json) |
 | Knights of the Flexbox Table | 213965 | [213965-knights-of-the-flexbox-table.json](./213965-knights-of-the-flexbox-table.json) |
 | Knights of the Holy Loop | 183957 | [183957-knights-of-the-holy-loop.json](./183957-knights-of-the-holy-loop.json) |
+| Knights of the Road | 243213 | [243213-knights-of-the-road.json](./243213-knights-of-the-road.json) |
 | Knights of the Rogue Dungeon | 283273 | [283273-knights-of-the-rogue-dungeon.json](./283273-knights-of-the-rogue-dungeon.json) |
 | Knights of the Round | 224023 | [224023-knights-of-the-round.json](./224023-knights-of-the-round.json) |
 | Knights of the Round Torus | 186245 | [186245-knights-of-the-round-torus.json](./186245-knights-of-the-round-torus.json) |
