@@ -8526,6 +8526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pufflings: Journey Through a Fantasy World | 397921 | [397921-pufflings-journey-through-a-fantasy-world.json](./397921-pufflings-journey-through-a-fantasy-world.json) |
 | Puffmin Quest | 313354 | [313354-puffmin-quest.json](./313354-puffmin-quest.json) |
 | Puffy Dog Puzzle | 379005 | [379005-puffy-dog-puzzle.json](./379005-puffy-dog-puzzle.json) |
+| Pug Hop Mole Bop | 254672 | [254672-pug-hop-mole-bop.json](./254672-pug-hop-mole-bop.json) |
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
 | Pug's Quest | 82954 | [82954-pugs-quest.json](./82954-pugs-quest.json) |
 | Pugovki | 177051 | [177051-pugovki.json](./177051-pugovki.json) |
