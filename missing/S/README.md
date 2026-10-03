@@ -4978,9 +4978,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: Babylon Pack | 141185 | [141185-sid-meiers-civilization-vi-babylon-pack.json](./141185-sid-meiers-civilization-vi-babylon-pack.json) |
 | Sid Meier's Civilization VI: Byzantium & Gaul Pack | 139967 | [139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json](./139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json) |
 | Sid Meier's Civilization VI: John Riccitiello Pack | 277374 | [277374-sid-meiers-civilization-vi-john-riccitiello-pack.json](./277374-sid-meiers-civilization-vi-john-riccitiello-pack.json) |
+| Sid Meier's Civilization VI: Klein Moretti Pack | 278097 | [278097-sid-meiers-civilization-vi-klein-moretti-pack.json](./278097-sid-meiers-civilization-vi-klein-moretti-pack.json) |
 | Sid Meier's Civilization VI: Liyue & Inazuma Pack | 278439 | [278439-sid-meiers-civilization-vi-liyue-and-inazuma-pack.json](./278439-sid-meiers-civilization-vi-liyue-and-inazuma-pack.json) |
 | Sid Meier's Civilization VI: Mona Megistus Pack | 278742 | [278742-sid-meiers-civilization-vi-mona-megistus-pack.json](./278742-sid-meiers-civilization-vi-mona-megistus-pack.json) |
 | Sid Meier's Civilization VI: Mudrock Pack | 278635 | [278635-sid-meiers-civilization-vi-mudrock-pack.json](./278635-sid-meiers-civilization-vi-mudrock-pack.json) |
+| Sid Meier's Civilization VI: Sun and Moon of Teyvat Pack | 278052 | [278052-sid-meiers-civilization-vi-sun-and-moon-of-teyvat-pack.json](./278052-sid-meiers-civilization-vi-sun-and-moon-of-teyvat-pack.json) |
 | Sid Meier's Civilization VI: Yorha Squadron Pack | 276781 | [276781-sid-meiers-civilization-vi-yorha-squadron-pack.json](./276781-sid-meiers-civilization-vi-yorha-squadron-pack.json) |
 | Sid Meier's Civilization VII: Arcade Edition | 385294 | [385294-sid-meiers-civilization-vii-arcade-edition.json](./385294-sid-meiers-civilization-vii-arcade-edition.json) |
 | Sid Meier's Civilization VII: Brush and Blade Collection | 418585 | [418585-sid-meiers-civilization-vii-brush-and-blade-collection.json](./418585-sid-meiers-civilization-vii-brush-and-blade-collection.json) |
@@ -5939,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skautfold: Moonless Knight | 152142 | [152142-skautfold-moonless-knight.json](./152142-skautfold-moonless-knight.json) |
 | Skautfold: Shrouded in Sanity | 19481 | [19481-skautfold-shrouded-in-sanity.json](./19481-skautfold-shrouded-in-sanity.json) |
 | Skaza | 141159 | [141159-skaza.json](./141159-skaza.json) |
+| SKD | 278058 | [278058-skd.json](./278058-skd.json) |
 | Skeal | 185682 | [185682-skeal.json](./185682-skeal.json) |
 | Skedaddling In Egypt | 244244 | [244244-skedaddling-in-egypt.json](./244244-skedaddling-in-egypt.json) |
 | Skee-Ball | 94020 | [94020-skee-ball.json](./94020-skee-ball.json) |
@@ -14890,6 +14893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Games II | 297508 | [297508-summer-games-ii.json](./297508-summer-games-ii.json) |
 | Summer Games II | 298834 | [298834-summer-games-ii.json](./298834-summer-games-ii.json) |
 | Summer Garden | 82183 | [82183-summer-garden.json](./82183-summer-garden.json) |
+| Summer Heat | 278092 | [278092-summer-heat.json](./278092-summer-heat.json) |
 | Summer Horrordays | 177492 | [177492-summer-horrordays.json](./177492-summer-horrordays.json) |
 | Summer in Mara + Deiland Bundle | 188018 | [188018-summer-in-mara-deiland-bundle.json](./188018-summer-in-mara-deiland-bundle.json) |
 | Summer In Mara: Collector's Edition | 172589 | [172589-summer-in-mara-collectors-edition.json](./172589-summer-in-mara-collectors-edition.json) |
