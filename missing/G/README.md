@@ -1418,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gengar | 210568 | [210568-gengar.json](./210568-gengar.json) |
 | Genghis Khan | 269523 | [269523-genghis-khan.json](./269523-genghis-khan.json) |
 | Genghis Khan | 308557 | [308557-genghis-khan.json](./308557-genghis-khan.json) |
+| Genghis Khan II: Clan of the Gray Wolf | 273031 | [273031-genghis-khan-ii-clan-of-the-gray-wolf.json](./273031-genghis-khan-ii-clan-of-the-gray-wolf.json) |
 | Genghis Khan II: Clan of the Gray Wolf | 5389 | [5389-genghis-khan-ii-clan-of-the-gray-wolf.json](./5389-genghis-khan-ii-clan-of-the-gray-wolf.json) |
 | Genghis Khan: Aoki Ookami to Shiroki Mejika IV | 98270 | [98270-genghis-khan-aoki-ookami-to-shiroki-mejika-iv.json](./98270-genghis-khan-aoki-ookami-to-shiroki-mejika-iv.json) |
 | Gengu Survival | 319153 | [319153-gengu-survival.json](./319153-gengu-survival.json) |
