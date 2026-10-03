@@ -3894,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Chop Princess! | 75028 | [75028-chop-chop-princess.json](./75028-chop-chop-princess.json) |
 | Chop Chop Together | 392147 | [392147-chop-chop-together.json](./392147-chop-chop-together.json) |
 | Chop Signal | 389455 | [389455-chop-signal.json](./389455-chop-signal.json) |
+| Chop Suey | 234212 | [234212-chop-suey.json](./234212-chop-suey.json) |
 | Chop Suey | 47297 | [47297-chop-suey.json](./47297-chop-suey.json) |
 | Chop Sushi | 18252 | [18252-chop-sushi.json](./18252-chop-sushi.json) |
 | Chopcremental | 349329 | [349329-chopcremental.json](./349329-chopcremental.json) |
@@ -7458,6 +7459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmetic Paradise: Princess Life | 130392 | [130392-cosmetic-paradise-princess-life.json](./130392-cosmetic-paradise-princess-life.json) |
 | Cosmi-Cave 64 | 106414 | [106414-cosmi-cave-64.json](./106414-cosmi-cave-64.json) |
 | Cosmi: Forbidden Forest & Beyond | 333789 | [333789-cosmi-forbidden-forest-and-beyond.json](./333789-cosmi-forbidden-forest-and-beyond.json) |
+| CosmiBall 3D | 234124 | [234124-cosmiball-3d.json](./234124-cosmiball-3d.json) |
 | Cosmic Avenger | 18504 | [18504-cosmic-avenger.json](./18504-cosmic-avenger.json) |
 | Cosmic Badger | 197746 | [197746-cosmic-badger.json](./197746-cosmic-badger.json) |
 | Cosmic Blastards | 275873 | [275873-cosmic-blastards.json](./275873-cosmic-blastards.json) |
@@ -10075,6 +10077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Bendy and The Projectionist | 279065 | [279065-cute-bendy-and-the-projectionist.json](./279065-cute-bendy-and-the-projectionist.json) |
 | Cute Bite | 152325 | [152325-cute-bite.json](./152325-cute-bite.json) |
 | Cute Blocks | 264329 | [264329-cute-blocks.json](./264329-cute-blocks.json) |
+| Cute Bully Nyanbaba | 234118 | [234118-cute-bully-nyanbaba.json](./234118-cute-bully-nyanbaba.json) |
 | Cute Capybaras | 256559 | [256559-cute-capybaras.json](./256559-cute-capybaras.json) |
 | Cute Cats | 163399 | [163399-cute-cats.json](./163399-cute-cats.json) |
 | Cute Cats 2 | 195170 | [195170-cute-cats-2.json](./195170-cute-cats-2.json) |
