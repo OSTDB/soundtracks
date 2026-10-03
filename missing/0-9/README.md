@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Dubai Cats | 334120 | [334120-100-dubai-cats.json](./334120-100-dubai-cats.json) |
 | 100 Egypt Cats | 304666 | [304666-100-egypt-cats.json](./304666-100-egypt-cats.json) |
 | 100 Flaps | 183899 | [183899-100-flaps.json](./183899-100-flaps.json) |
+| 100 Floors Ninja | 235289 | [235289-100-floors-ninja.json](./235289-100-floors-ninja.json) |
 | 100 for Justice | 407343 | [407343-100-for-justice.json](./407343-100-for-justice.json) |
 | 100 Forest Cats | 301029 | [301029-100-forest-cats.json](./301029-100-forest-cats.json) |
 | 100 Funny Cats | 291200 | [291200-100-funny-cats.json](./291200-100-funny-cats.json) |
