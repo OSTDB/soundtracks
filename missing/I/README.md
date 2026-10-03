@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinicity | 295262 | [295262-infinicity.json](./295262-infinicity.json) |
 | Infinicrypt | 298280 | [298280-infinicrypt.json](./298280-infinicrypt.json) |
 | Infinifactory | 9649 | [9649-infinifactory.json](./9649-infinifactory.json) |
+| Infinilands | 244291 | [244291-infinilands.json](./244291-infinilands.json) |
 | Infinimoes | 333654 | [333654-infinimoes.json](./333654-infinimoes.json) |
 | InfiniPicross | 54690 | [54690-infinipicross.json](./54690-infinipicross.json) |
 | InfiniPicross 2.0 | 104392 | [104392-infinipicross-2-0.json](./104392-infinipicross-2-0.json) |
@@ -2294,6 +2295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane | 33263 | [33263-insane.json](./33263-insane.json) |
 | Insane Aquarium Deluxe | 174746 | [174746-insane-aquarium-deluxe.json](./174746-insane-aquarium-deluxe.json) |
 | Insane Creations | 149528 | [149528-insane-creations.json](./149528-insane-creations.json) |
+| Insane Escape | 244322 | [244322-insane-escape.json](./244322-insane-escape.json) |
 | Insane Forest | 342886 | [342886-insane-forest.json](./342886-insane-forest.json) |
 | Insane Kart Wii | 250325 | [250325-insane-kart-wii.json](./250325-insane-kart-wii.json) |
 | Insane Road | 37404 | [37404-insane-road.json](./37404-insane-road.json) |
