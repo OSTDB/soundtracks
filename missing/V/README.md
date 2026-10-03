@@ -1239,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viriax | 92481 | [92481-viriax.json](./92481-viriax.json) |
 | Viricide | 242779 | [242779-viricide.json](./242779-viricide.json) |
 | Viridian Room | 247597 | [247597-viridian-room.json](./247597-viridian-room.json) |
+| Viridian Sage | 256990 | [256990-viridian-sage.json](./256990-viridian-sage.json) |
 | Virion | 338568 | [338568-virion.json](./338568-virion.json) |
 | Virivì e l'ombra della pioggia | 389125 | [389125-virivi-e-lombra-della-pioggia.json](./389125-virivi-e-lombra-della-pioggia.json) |
 | Virmachina | 320857 | [320857-virmachina.json](./320857-virmachina.json) |
