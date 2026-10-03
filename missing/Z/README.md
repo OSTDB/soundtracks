@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Apocalypse 2021 | 154381 | [154381-zombie-apocalypse-2021.json](./154381-zombie-apocalypse-2021.json) |
 | Zombie Apocalypse Survivor | 99616 | [99616-zombie-apocalypse-survivor.json](./99616-zombie-apocalypse-survivor.json) |
 | Zombie Apocalypse: Escape the Undead City | 32359 | [32359-zombie-apocalypse-escape-the-undead-city.json](./32359-zombie-apocalypse-escape-the-undead-city.json) |
+| Zombie Apocalypse: Survival Stories | 249325 | [249325-zombie-apocalypse-survival-stories.json](./249325-zombie-apocalypse-survival-stories.json) |
 | Zombie Apocalypse: The Last Defense | 211147 | [211147-zombie-apocalypse-the-last-defense.json](./211147-zombie-apocalypse-the-last-defense.json) |
 | Zombie Arena | 220740 | [220740-zombie-arena.json](./220740-zombie-arena.json) |
 | Zombie Army 4: Dead War - Deluxe Edition | 129784 | [129784-zombie-army-4-dead-war-deluxe-edition.json](./129784-zombie-army-4-dead-war-deluxe-edition.json) |
@@ -1048,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zones of Fear | 274119 | [274119-zones-of-fear.json](./274119-zones-of-fear.json) |
 | Zonic 4 My New Life Turbo HD Remastered Edition | 322594 | [322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json](./322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json) |
 | Zoo | 257574 | [257574-zoo.json](./257574-zoo.json) |
+| Zoo and Wild Animals Mod: Rebuilt | 249318 | [249318-zoo-and-wild-animals-mod-rebuilt.json](./249318-zoo-and-wild-animals-mod-rebuilt.json) |
 | Zoo Animals ~ Touch, Look, Listen | 89706 | [89706-zoo-animals-touch-look-listen.json](./89706-zoo-animals-touch-look-listen.json) |
 | Zoo at Midnight | 312231 | [312231-zoo-at-midnight.json](./312231-zoo-at-midnight.json) |
 | Zoo Block | 334260 | [334260-zoo-block.json](./334260-zoo-block.json) |
