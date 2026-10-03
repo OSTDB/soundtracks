@@ -1535,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genso Flood Front | 214768 | [214768-genso-flood-front.json](./214768-genso-flood-front.json) |
 | Genso Manège | 306084 | [306084-genso-manege.json](./306084-genso-manege.json) |
 | Genso Skydrift Reborn | 114541 | [114541-genso-skydrift-reborn.json](./114541-genso-skydrift-reborn.json) |
+| Gensokishi Online | 267589 | [267589-gensokishi-online.json](./267589-gensokishi-online.json) |
 | Gensokyo no Nazo | 62253 | [62253-gensokyo-no-nazo.json](./62253-gensokyo-no-nazo.json) |
 | Gensokyo Odyssey | 192364 | [192364-gensokyo-odyssey.json](./192364-gensokyo-odyssey.json) |
 | Gensokyo Pro Wrestling Muscle Tag Match | 287891 | [287891-gensokyo-pro-wrestling-muscle-tag-match.json](./287891-gensokyo-pro-wrestling-muscle-tag-match.json) |
