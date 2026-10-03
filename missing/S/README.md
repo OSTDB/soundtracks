@@ -3154,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Severed | 319081 | [319081-severed.json](./319081-severed.json) |
 | Severed | 6066 | [6066-severed.json](./6066-severed.json) |
 | Severed Love | 342754 | [342754-severed-love.json](./342754-severed-love.json) |
+| Severed Ties | 229751 | [229751-severed-ties.json](./229751-severed-ties.json) |
 | Severen | 198223 | [198223-severen.json](./198223-severen.json) |
 | Severity | 93615 | [93615-severity.json](./93615-severity.json) |
 | Sevn | 232486 | [232486-sevn.json](./232486-sevn.json) |
@@ -6311,6 +6312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skunny: Save Our Pizzas! | 73839 | [73839-skunny-save-our-pizzas.json](./73839-skunny-save-our-pizzas.json) |
 | Skunny: Special Edition | 46732 | [46732-skunny-special-edition.json](./46732-skunny-special-edition.json) |
 | Skunny's Desert Raid | 71045 | [71045-skunnys-desert-raid.json](./71045-skunnys-desert-raid.json) |
+| Skwampt | 229752 | [229752-skwampt.json](./229752-skwampt.json) |
 | Sky 2120 | 408216 | [408216-sky-2120.json](./408216-sky-2120.json) |
 | Sky Aces | 343990 | [343990-sky-aces.json](./343990-sky-aces.json) |
 | Sky Aces | 54365 | [54365-sky-aces.json](./54365-sky-aces.json) |
@@ -15437,6 +15439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunless Sea | 8925 | [8925-sunless-sea.json](./8925-sunless-sea.json) |
 | Sunless Skies | 24427 | [24427-sunless-skies.json](./24427-sunless-skies.json) |
 | Sunlight In A Tin | 188602 | [188602-sunlight-in-a-tin.json](./188602-sunlight-in-a-tin.json) |
+| Sunlit | 229593 | [229593-sunlit.json](./229593-sunlit.json) |
 | Sunlit's Star Fox Minihack | 233606 | [233606-sunlits-star-fox-minihack.json](./233606-sunlits-star-fox-minihack.json) |
 | Sunman | 48651 | [48651-sunman.json](./48651-sunman.json) |
 | Sunny Beach | 189205 | [189205-sunny-beach.json](./189205-sunny-beach.json) |
@@ -17896,6 +17899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Delights: The Girl’s Cafe Quest | 339466 | [339466-sweet-delights-the-girl-s-cafe-quest.json](./339466-sweet-delights-the-girl-s-cafe-quest.json) |
 | Sweet Desire | 147380 | [147380-sweet-desire.json](./147380-sweet-desire.json) |
 | Sweet Dream | 172106 | [172106-sweet-dream.json](./172106-sweet-dream.json) |
+| Sweet Dream | 229597 | [229597-sweet-dream.json](./229597-sweet-dream.json) |
 | Sweet Dreams Alex | 157545 | [157545-sweet-dreams-alex.json](./157545-sweet-dreams-alex.json) |
 | Sweet Dreams Alex: Full Moon Edition | 273931 | [273931-sweet-dreams-alex-full-moon-edition.json](./273931-sweet-dreams-alex-full-moon-edition.json) |
 | Sweet Dreams Bear | 181151 | [181151-sweet-dreams-bear.json](./181151-sweet-dreams-bear.json) |
@@ -17960,6 +17964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Shine | 159825 | [159825-sweet-shine.json](./159825-sweet-shine.json) |
 | Sweet Shop | 90376 | [90376-sweet-shop.json](./90376-sweet-shop.json) |
 | Sweet Slave | 339442 | [339442-sweet-slave.json](./339442-sweet-slave.json) |
+| Sweet Sleep | 229729 | [229729-sweet-sleep.json](./229729-sweet-sleep.json) |
 | Sweet Solitaire: School Witch | 133232 | [133232-sweet-solitaire-school-witch.json](./133232-sweet-solitaire-school-witch.json) |
 | Sweet Solitaire: School Witch 3 | 235273 | [235273-sweet-solitaire-school-witch-3.json](./235273-sweet-solitaire-school-witch-3.json) |
 | Sweet Sort | 255751 | [255751-sweet-sort.json](./255751-sweet-sort.json) |
