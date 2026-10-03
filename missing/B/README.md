@@ -2608,6 +2608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Battle Simulator | 55077 | [55077-beast-battle-simulator.json](./55077-beast-battle-simulator.json) |
 | Beast Beat | 400358 | [400358-beast-beat.json](./400358-beast-beat.json) |
 | Beast Blaster | 33407 | [33407-beast-blaster.json](./33407-beast-blaster.json) |
+| Beast Blasters | 255263 | [255263-beast-blasters.json](./255263-beast-blasters.json) |
 | Beast Boxing 3D | 175381 | [175381-beast-boxing-3d.json](./175381-beast-boxing-3d.json) |
 | Beast Boxing Turbo | 14837 | [14837-beast-boxing-turbo.json](./14837-beast-boxing-turbo.json) |
 | Beast Brawl | 338200 | [338200-beast-brawl.json](./338200-beast-brawl.json) |
@@ -6474,6 +6475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bongo Quest | 190472 | [190472-bongo-quest.json](./190472-bongo-quest.json) |
 | Bongo's Bash | 69589 | [69589-bongos-bash.json](./69589-bongos-bash.json) |
 | BongoTrip | 99770 | [99770-bongotrip.json](./99770-bongotrip.json) |
+| Bongus Bright-Eye & The Great Axe-Stravaganza | 255252 | [255252-bongus-bright-eye-and-the-great-axe-stravaganza.json](./255252-bongus-bright-eye-and-the-great-axe-stravaganza.json) |
 | Bonhomme 7 Heures | 151617 | [151617-bonhomme-7-heures.json](./151617-bonhomme-7-heures.json) |
 | Bonito Days | 175817 | [175817-bonito-days.json](./175817-bonito-days.json) |
 | Bonjin: An Ordinary Man | 349869 | [349869-bonjin-an-ordinary-man.json](./349869-bonjin-an-ordinary-man.json) |
