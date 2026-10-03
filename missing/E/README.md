@@ -858,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eijukugo Target 1000 DS | 317397 | [317397-eijukugo-target-1000-ds.json](./317397-eijukugo-target-1000-ds.json) |
 | Eikan ha Kimi ni: Koukou Yakyuu Zenkoku Taikai | 210578 | [210578-eikan-ha-kimi-ni-koukou-yakyuu-zenkoku-taikai.json](./210578-eikan-ha-kimi-ni-koukou-yakyuu-zenkoku-taikai.json) |
 | Eikan wa Kimi Ni 4 | 200451 | [200451-eikan-wa-kimi-ni-4.json](./200451-eikan-wa-kimi-ni-4.json) |
+| Eiken DS | 269752 | [269752-eiken-ds.json](./269752-eiken-ds.json) |
 | Eikoku Tantei Mysteria | 221826 | [221826-eikoku-tantei-mysteria.json](./221826-eikoku-tantei-mysteria.json) |
 | Eikou no Saint Andrews | 3484 | [3484-eikou-no-saint-andrews.json](./3484-eikou-no-saint-andrews.json) |
 | Eilean Mor: The Lost Keepers | 355026 | [355026-eilean-mor-the-lost-keepers.json](./355026-eilean-mor-the-lost-keepers.json) |
@@ -3295,6 +3296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everest VR | 18971 | [18971-everest-vr.json](./18971-everest-vr.json) |
 | Everfall: Idle Dungeon RPG | 377083 | [377083-everfall-idle-dungeon-rpg.json](./377083-everfall-idle-dungeon-rpg.json) |
 | Evergarden | 107191 | [107191-evergarden.json](./107191-evergarden.json) |
+| Evergarden | 269740 | [269740-evergarden.json](./269740-evergarden.json) |
 | Evergate: Ki's Awakening | 167593 | [167593-evergate-kis-awakening.json](./167593-evergate-kis-awakening.json) |
 | Everglory | 163911 | [163911-everglory.json](./163911-everglory.json) |
 | Evergreen | 142995 | [142995-evergreen.json](./142995-evergreen.json) |
