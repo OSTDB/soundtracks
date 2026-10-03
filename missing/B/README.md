@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakumatsu Ishin: Amakakeru Koi | 163234 | [163234-bakumatsu-ishin-amakakeru-koi.json](./163234-bakumatsu-ishin-amakakeru-koi.json) |
 | Bakumatsu Kourinden Oni | 15897 | [15897-bakumatsu-kourinden-oni.json](./15897-bakumatsu-kourinden-oni.json) |
 | Bakumatsu Midarezaki | 163231 | [163231-bakumatsu-midarezaki.json](./163231-bakumatsu-midarezaki.json) |
+| Bakumatsu Renka Shinsengumi | 269779 | [269779-bakumatsu-renka-shinsengumi.json](./269779-bakumatsu-renka-shinsengumi.json) |
 | Bakumatsu Renka: Karyuu Kenshi-den | 163235 | [163235-bakumatsu-renka-karyuu-kenshi-den.json](./163235-bakumatsu-renka-karyuu-kenshi-den.json) |
 | Bakumatsu Renka: Shinsengumi DS | 122864 | [122864-bakumatsu-renka-shinsengumi-ds.json](./122864-bakumatsu-renka-shinsengumi-ds.json) |
 | Bakumatsu Roman: Gekka no Kenshi 1+2 | 84253 | [84253-bakumatsu-roman-gekka-no-kenshi-1-2.json](./84253-bakumatsu-roman-gekka-no-kenshi-1-2.json) |
@@ -2309,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleSide | 267477 | [267477-battleside.json](./267477-battleside.json) |
 | Battlesight | 132128 | [132128-battlesight.json](./132128-battlesight.json) |
 | Battlesloths 2025: The Great Pizza Wars | 33090 | [33090-battlesloths-2025-the-great-pizza-wars.json](./33090-battlesloths-2025-the-great-pizza-wars.json) |
+| Battlesmiths: Blade and Forge | 269762 | [269762-battlesmiths-blade-and-forge.json](./269762-battlesmiths-blade-and-forge.json) |
 | BattleSound | 151739 | [151739-battlesound.json](./151739-battlesound.json) |
 | Battlespace Command | 408067 | [408067-battlespace-command.json](./408067-battlespace-command.json) |
 | BattleSphere Gold | 40813 | [40813-battlesphere-gold.json](./40813-battlesphere-gold.json) |
