@@ -4395,6 +4395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ships of Battle Age of Pirates | 235296 | [235296-ships-of-battle-age-of-pirates.json](./235296-ships-of-battle-age-of-pirates.json) |
 | Ships Simulator | 229181 | [229181-ships-simulator.json](./229181-ships-simulator.json) |
 | Ships Simulator 2024 | 219609 | [219609-ships-simulator-2024.json](./219609-ships-simulator-2024.json) |
+| Ships Simulator Bundle | 273007 | [273007-ships-simulator-bundle.json](./273007-ships-simulator-bundle.json) |
 | Shipwreck | 35936 | [35936-shipwreck.json](./35936-shipwreck.json) |
 | Shipwreck Escape | 152827 | [152827-shipwreck-escape.json](./152827-shipwreck-escape.json) |
 | Shipwrecked | 313859 | [313859-shipwrecked.json](./313859-shipwrecked.json) |
@@ -13603,6 +13604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop and Go | 93567 | [93567-stop-and-go.json](./93567-stop-and-go.json) |
 | Stop and Go! HD | 90806 | [90806-stop-and-go-hd.json](./90806-stop-and-go-hd.json) |
 | Stop and Smell the Flowers | 399164 | [399164-stop-and-smell-the-flowers.json](./399164-stop-and-smell-the-flowers.json) |
+| Stop Ball | 273013 | [273013-stop-ball.json](./273013-stop-ball.json) |
 | Stop Burying Me Alive, Beautiful! | 270154 | [270154-stop-burying-me-alive-beautiful.json](./270154-stop-burying-me-alive-beautiful.json) |
 | Stop Online: Battle of Words | 34353 | [34353-stop-online-battle-of-words.json](./34353-stop-online-battle-of-words.json) |
 | Stop Slapping Tenshi! | 330364 | [330364-stop-slapping-tenshi.json](./330364-stop-slapping-tenshi.json) |
@@ -14200,7 +14202,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike City | 410390 | [410390-strike-city.json](./410390-strike-city.json) |
 | Strike Commander and Privateer TwinPack | 72134 | [72134-strike-commander-and-privateer-twinpack.json](./72134-strike-commander-and-privateer-twinpack.json) |
 | Strike Commander: Tactical Operations | 70914 | [70914-strike-commander-tactical-operations.json](./70914-strike-commander-tactical-operations.json) |
+| Strike Force | 273011 | [273011-strike-force.json](./273011-strike-force.json) |
 | Strike Force | 46856 | [46856-strike-force.json](./46856-strike-force.json) |
+| Strike Force 2004 | 273012 | [273012-strike-force-2004.json](./273012-strike-force-2004.json) |
 | Strike Force Harrier | 26480 | [26480-strike-force-harrier.json](./26480-strike-force-harrier.json) |
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
 | Strike It! | 40910 | [40910-strike-it.json](./40910-strike-it.json) |
