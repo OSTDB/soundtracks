@@ -15545,6 +15545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tretis | 277980 | [277980-tretis.json](./277980-tretis.json) |
 | Tretrais | 346675 | [346675-tretrais.json](./346675-tretrais.json) |
 | Trev to the Rescue! | 263667 | [263667-trev-to-the-rescue.json](./263667-trev-to-the-rescue.json) |
+| Trevor Daison in Outer Space: Chapter One | 233130 | [233130-trevor-daison-in-outer-space-chapter-one.json](./233130-trevor-daison-in-outer-space-chapter-one.json) |
 | Trevor Sorensen's Star Legions | 54398 | [54398-trevor-sorensens-star-legions.json](./54398-trevor-sorensens-star-legions.json) |
 | TRex Hero | 306381 | [306381-trex-hero.json](./306381-trex-hero.json) |
 | Tri Breaker: A Sacred Symbols Odyssey | 322644 | [322644-tri-breaker-a-sacred-symbols-odyssey.json](./322644-tri-breaker-a-sacred-symbols-odyssey.json) |
@@ -15919,6 +15920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troll Face Quest Horror | 351627 | [351627-troll-face-quest-horror.json](./351627-troll-face-quest-horror.json) |
 | Troll Face Quest: Game of Trolls | 306703 | [306703-troll-face-quest-game-of-trolls.json](./306703-troll-face-quest-game-of-trolls.json) |
 | Trollboarder | 85458 | [85458-trollboarder.json](./85458-trollboarder.json) |
+| Trollbound | 233131 | [233131-trollbound.json](./233131-trollbound.json) |
 | Trolley Folly | 248327 | [248327-trolley-folly.json](./248327-trolley-folly.json) |
 | Trolley Problem | 179589 | [179589-trolley-problem.json](./179589-trolley-problem.json) |
 | Trolley Simulator | 149494 | [149494-trolley-simulator.json](./149494-trolley-simulator.json) |
@@ -15965,6 +15967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropi | 209654 | [209654-tropi.json](./209654-tropi.json) |
 | Tropia | 76245 | [76245-tropia.json](./76245-tropia.json) |
 | Tropic Isle | 130866 | [130866-tropic-isle.json](./130866-tropic-isle.json) |
+| Tropic Jim's Sweet Island Adventure | 233132 | [233132-tropic-jims-sweet-island-adventure.json](./233132-tropic-jims-sweet-island-adventure.json) |
 | Tropica: Survival 1095 | 244396 | [244396-tropica-survival-1095.json](./244396-tropica-survival-1095.json) |
 | Tropical Air hockey | 129349 | [129349-tropical-air-hockey.json](./129349-tropical-air-hockey.json) |
 | Tropical Alien Massacre | 308329 | [308329-tropical-alien-massacre.json](./308329-tropical-alien-massacre.json) |
