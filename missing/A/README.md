@@ -2571,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akatsuki no Goei Trinity: Complete Edition | 202955 | [202955-akatsuki-no-goei-trinity-complete-edition.json](./202955-akatsuki-no-goei-trinity-complete-edition.json) |
 | Akatsuki no Goei: Principal-tachi no Kyuujitsu | 202952 | [202952-akatsuki-no-goei-principal-tachi-no-kyuujitsu.json](./202952-akatsuki-no-goei-principal-tachi-no-kyuujitsu.json) |
 | Akatsuki no Goei: Tsumibukaki Shuumatsuron | 202953 | [202953-akatsuki-no-goei-tsumibukaki-shuumatsuron.json](./202953-akatsuki-no-goei-tsumibukaki-shuumatsuron.json) |
+| Akatsuki Yureru Koi Akari | 238101 | [238101-akatsuki-yureru-koi-akari.json](./238101-akatsuki-yureru-koi-akari.json) |
 | Akatsuki Zero | 258127 | [258127-akatsuki-zero.json](./258127-akatsuki-zero.json) |
 | Akatsuki: Shisei Ichi-go | 61628 | [61628-akatsuki-shisei-ichi-go.json](./61628-akatsuki-shisei-ichi-go.json) |
 | Akayashiki | 297794 | [297794-akayashiki.json](./297794-akayashiki.json) |
@@ -5902,6 +5903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Gee Bee | 371413 | [371413-arcade-archives-gee-bee.json](./371413-arcade-archives-gee-bee.json) |
 | Arcade Archives: Gemini Wing | 146343 | [146343-arcade-archives-gemini-wing.json](./146343-arcade-archives-gemini-wing.json) |
 | Arcade Archives: Gradius II | 99541 | [99541-arcade-archives-gradius-ii.json](./99541-arcade-archives-gradius-ii.json) |
+| Arcade Archives: Grobda | 238098 | [238098-arcade-archives-grobda.json](./238098-arcade-archives-grobda.json) |
 | Arcade Archives: Growl | 259232 | [259232-arcade-archives-growl.json](./259232-arcade-archives-growl.json) |
 | Arcade Archives: Gun & Frontier | 213342 | [213342-arcade-archives-gun-and-frontier.json](./213342-arcade-archives-gun-and-frontier.json) |
 | Arcade Archives: GunNail | 187463 | [187463-arcade-archives-gunnail.json](./187463-arcade-archives-gunnail.json) |
@@ -7276,6 +7278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphalt 9: Legends - High-Gear Pack | 237899 | [237899-asphalt-9-legends-high-gear-pack.json](./237899-asphalt-9-legends-high-gear-pack.json) |
 | Asphalt 9: Legends - Italian Pack | 237901 | [237901-asphalt-9-legends-italian-pack.json](./237901-asphalt-9-legends-italian-pack.json) |
 | Asphalt 9: Legends - Multiplayer Champion Pack | 237896 | [237896-asphalt-9-legends-multiplayer-champion-pack.json](./237896-asphalt-9-legends-multiplayer-champion-pack.json) |
+| Asphalt 9: Legends - Triple Threat Pack | 237999 | [237999-asphalt-9-legends-triple-threat-pack.json](./237999-asphalt-9-legends-triple-threat-pack.json) |
 | Asphalt 9: Legends - Turbo Summer Racing Pack | 237893 | [237893-asphalt-9-legends-turbo-summer-racing-pack.json](./237893-asphalt-9-legends-turbo-summer-racing-pack.json) |
 | Asphalt Champions | 384188 | [384188-asphalt-champions.json](./384188-asphalt-champions.json) |
 | Asphalt Dominion | 402305 | [402305-asphalt-dominion.json](./402305-asphalt-dominion.json) |
