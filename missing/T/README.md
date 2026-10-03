@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanuki Tiles | 180033 | [180033-tanuki-tiles.json](./180033-tanuki-tiles.json) |
 | Tanuki: Pon's Summer | 317817 | [317817-tanuki-pons-summer.json](./317817-tanuki-pons-summer.json) |
 | Tanuki's Dream | 307152 | [307152-tanukis-dream.json](./307152-tanukis-dream.json) |
+| Tanuki's Spring Walk | 229116 | [229116-tanukis-spring-walk.json](./229116-tanukis-spring-walk.json) |
 | Tanx | 296009 | [296009-tanx.json](./296009-tanx.json) |
 | Tanx | 71058 | [71058-tanx.json](./71058-tanx.json) |
 | Tanya Grotter And Magic Double Bass | 366377 | [366377-tanya-grotter-and-magic-double-bass.json](./366377-tanya-grotter-and-magic-double-bass.json) |
@@ -3141,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Artifactory | 334179 | [334179-the-artifactory.json](./334179-the-artifactory.json) |
 | The Artifacts of Marvelous Birds | 278627 | [278627-the-artifacts-of-marvelous-birds.json](./278627-the-artifacts-of-marvelous-birds.json) |
 | The Asafo Journey | 220672 | [220672-the-asafo-journey.json](./220672-the-asafo-journey.json) |
+| The Ascent of the Gothic Tower | 228967 | [228967-the-ascent-of-the-gothic-tower.json](./228967-the-ascent-of-the-gothic-tower.json) |
 | The Ascent: CyberSec Pack | 276306 | [276306-the-ascent-cybersec-pack.json](./276306-the-ascent-cybersec-pack.json) |
 | The Ascot | 298061 | [298061-the-ascot.json](./298061-the-ascot.json) |
 | The Asfrixa | 192822 | [192822-the-asfrixa.json](./192822-the-asfrixa.json) |
@@ -9669,6 +9671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Our World | 55177 | [55177-the-walking-dead-our-world.json](./55177-the-walking-dead-our-world.json) |
 | The Walking Dead: Pinball | 131502 | [131502-the-walking-dead-pinball.json](./131502-the-walking-dead-pinball.json) |
 | The Walking Dead: Saints & Sinners - Ch 2: Retribution | 198232 | [198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json](./198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json) |
+| The Walking Dead: Saints & Sinners - Ch 2: Retribution - Payback Edition | 229123 | [229123-the-walking-dead-saints-and-sinners-ch-2-retribution-payback-edition.json](./229123-the-walking-dead-saints-and-sinners-ch-2-retribution-payback-edition.json) |
 | The Walking Dead: Saints & Sinners - The Complete Edition | 139865 | [139865-the-walking-dead-saints-and-sinners-the-complete-edition.json](./139865-the-walking-dead-saints-and-sinners-the-complete-edition.json) |
 | The Walking Dead: Season One - Episode 3: Long Road Ahead | 114942 | [114942-the-walking-dead-season-one-episode-3-long-road-ahead.json](./114942-the-walking-dead-season-one-episode-3-long-road-ahead.json) |
 | The Walking Dead: Season One - Episode 4: Around Every Corner | 114943 | [114943-the-walking-dead-season-one-episode-4-around-every-corner.json](./114943-the-walking-dead-season-one-episode-4-around-every-corner.json) |
@@ -12225,6 +12228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TinyHoopers | 323964 | [323964-tinyhoopers.json](./323964-tinyhoopers.json) |
 | TinyKeep | 10993 | [10993-tinykeep.json](./10993-tinykeep.json) |
 | Tinykin | 152267 | [152267-tinykin.json](./152267-tinykin.json) |
+| Tinykin Challenge Update | 229118 | [229118-tinykin-challenge-update.json](./229118-tinykin-challenge-update.json) |
 | Tinymon | 320308 | [320308-tinymon.json](./320308-tinymon.json) |
 | TinyRogue | 311288 | [311288-tinyrogue.json](./311288-tinyrogue.json) |
 | Tinyshot | 138048 | [138048-tinyshot.json](./138048-tinyshot.json) |
@@ -13048,6 +13052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonarino | 400960 | [400960-tonarino.json](./400960-tonarino.json) |
 | Tondeke Perman | 385570 | [385570-tondeke-perman.json](./385570-tondeke-perman.json) |
 | Tone Sphere | 82740 | [82740-tone-sphere.json](./82740-tone-sphere.json) |
+| Tone's froggy adventure! | 229094 | [229094-tones-froggy-adventure.json](./229094-tones-froggy-adventure.json) |
 | Tonetaker VR | 123510 | [123510-tonetaker-vr.json](./123510-tonetaker-vr.json) |
 | Tong Create Thorns | 358513 | [358513-tong-create-thorns.json](./358513-tong-create-thorns.json) |
 | Tóng Dāo Yín Jiàn | 373707 | [373707-tong-dao-yin-jian.json](./373707-tong-dao-yin-jian.json) |
