@@ -1462,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Khemia: Alchemists of Al-Revis - Premium Edition | 43308 | [43308-mana-khemia-alchemists-of-al-revis-premium-edition.json](./43308-mana-khemia-alchemists-of-al-revis-premium-edition.json) |
 | Mana Land | 369063 | [369063-mana-land.json](./369063-mana-land.json) |
 | Mana Monsters | 321504 | [321504-mana-monsters.json](./321504-mana-monsters.json) |
+| Mana Sisters | 255261 | [255261-mana-sisters.json](./255261-mana-sisters.json) |
 | Mana Spark | 50745 | [50745-mana-spark.json](./50745-mana-spark.json) |
 | Mana Spark: Forgotten Crypts | 238187 | [238187-mana-spark-forgotten-crypts.json](./238187-mana-spark-forgotten-crypts.json) |
 | Mana Valley | 211189 | [211189-mana-valley.json](./211189-mana-valley.json) |
@@ -5608,6 +5609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Cruise | 296377 | [296377-midnight-cruise.json](./296377-midnight-cruise.json) |
 | Midnight Cycle in Muxi Town | 249734 | [249734-midnight-cycle-in-muxi-town.json](./249734-midnight-cycle-in-muxi-town.json) |
 | Midnight Dice | 323788 | [323788-midnight-dice.json](./323788-midnight-dice.json) |
+| Midnight Dreams | 255242 | [255242-midnight-dreams.json](./255242-midnight-dreams.json) |
 | Midnight Drifter | 240222 | [240222-midnight-drifter.json](./240222-midnight-drifter.json) |
 | Midnight Dungeon | 179719 | [179719-midnight-dungeon.json](./179719-midnight-dungeon.json) |
 | Midnight Faerie | 176371 | [176371-midnight-faerie.json](./176371-midnight-faerie.json) |
@@ -9561,6 +9563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplayer Citizens | 384206 | [384206-multiplayer-citizens.json](./384206-multiplayer-citizens.json) |
 | Multiplayer Game Maker | 335445 | [335445-multiplayer-game-maker.json](./335445-multiplayer-game-maker.json) |
 | Multiplayer Knights | 235193 | [235193-multiplayer-knights.json](./235193-multiplayer-knights.json) |
+| Multiplayer Mercs | 255275 | [255275-multiplayer-mercs.json](./255275-multiplayer-mercs.json) |
 | Multiplayer Mongolians | 320560 | [320560-multiplayer-mongolians.json](./320560-multiplayer-mongolians.json) |
 | Multiplayer Obby | 274533 | [274533-multiplayer-obby.json](./274533-multiplayer-obby.json) |
 | Multiplayer Platform Golf | 264583 | [264583-multiplayer-platform-golf.json](./264583-multiplayer-platform-golf.json) |
@@ -9666,6 +9669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Detective: Jack the Ripper | 114535 | [114535-murder-detective-jack-the-ripper.json](./114535-murder-detective-jack-the-ripper.json) |
 | Murder Diaries | 153948 | [153948-murder-diaries.json](./153948-murder-diaries.json) |
 | Murder Diaries: Ankara | 88185 | [88185-murder-diaries-ankara.json](./88185-murder-diaries-ankara.json) |
+| Murder Generation: Cream City Chaos | 255276 | [255276-murder-generation-cream-city-chaos.json](./255276-murder-generation-cream-city-chaos.json) |
 | Murder Hornets | 164967 | [164967-murder-hornets.json](./164967-murder-hornets.json) |
 | Murder in a Wheel | 62153 | [62153-murder-in-a-wheel.json](./62153-murder-in-a-wheel.json) |
 | Murder in the Maze | 308418 | [308418-murder-in-the-maze.json](./308418-murder-in-the-maze.json) |
