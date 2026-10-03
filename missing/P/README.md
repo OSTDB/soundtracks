@@ -2023,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peklo | 266230 | [266230-peklo.json](./266230-peklo.json) |
 | Peko Pop | 227244 | [227244-peko-pop.json](./227244-peko-pop.json) |
 | Pekoe | 136988 | [136988-pekoe.json](./136988-pekoe.json) |
+| Pekoratchi | 256977 | [256977-pekoratchi.json](./256977-pekoratchi.json) |
 | Pelagicland | 320177 | [320177-pelagicland.json](./320177-pelagicland.json) |
 | Pelé: Soccer Legend | 234613 | [234613-pele-soccer-legend.json](./234613-pele-soccer-legend.json) |
 | Pelé! | 78098 | [78098-pele.json](./78098-pele.json) |
@@ -5009,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Wake Up | 156993 | [156993-please-wake-up.json](./156993-please-wake-up.json) |
 | Please, Don't Touch Anything | 9327 | [9327-please-dont-touch-anything.json](./9327-please-dont-touch-anything.json) |
 | Please, Don't Touch Anything: Classic | 151565 | [151565-please-dont-touch-anything-classic.json](./151565-please-dont-touch-anything-classic.json) |
+| Please, Forgive Me | 256995 | [256995-please-forgive-me.json](./256995-please-forgive-me.json) |
 | Please!! I want to Beg the Voluptuous Koume-chan into Consent! | 82824 | [82824-please-i-want-to-beg-the-voluptuous-koume-chan-into-consent.json](./82824-please-i-want-to-beg-the-voluptuous-koume-chan-into-consent.json) |
 | Pleased Aliens | 281648 | [281648-pleased-aliens.json](./281648-pleased-aliens.json) |
 | Pleasure Climb | 147873 | [147873-pleasure-climb.json](./147873-pleasure-climb.json) |
@@ -6000,6 +6002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Island | 113867 | [113867-poly-island.json](./113867-poly-island.json) |
 | Poly Jigsaw Puzzle | 105780 | [105780-poly-jigsaw-puzzle.json](./105780-poly-jigsaw-puzzle.json) |
 | Poly Jigsaw: Dogs | 248665 | [248665-poly-jigsaw-dogs.json](./248665-poly-jigsaw-dogs.json) |
+| Poly Jigsaw: Furries 2 | 256999 | [256999-poly-jigsaw-furries-2.json](./256999-poly-jigsaw-furries-2.json) |
 | Poly Jigsaw: Primates | 280474 | [280474-poly-jigsaw-primates.json](./280474-poly-jigsaw-primates.json) |
 | Poly Kingdom: Siege | 270947 | [270947-poly-kingdom-siege.json](./270947-poly-kingdom-siege.json) |
 | Poly Link: RPG Girls | 215397 | [215397-poly-link-rpg-girls.json](./215397-poly-link-rpg-girls.json) |
@@ -6289,6 +6292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | POP Station | 225629 | [225629-pop-station.json](./225629-pop-station.json) |
 | Pop the Bubblewrap | 328681 | [328681-pop-the-bubblewrap.json](./328681-pop-the-bubblewrap.json) |
 | Pop the Jewel | 233435 | [233435-pop-the-jewel.json](./233435-pop-the-jewel.json) |
+| Pop the Lock | 256976 | [256976-pop-the-lock.json](./256976-pop-the-lock.json) |
 | Pop This Pop-It | 163189 | [163189-pop-this-pop-it.json](./163189-pop-this-pop-it.json) |
 | Pop Town | 26561 | [26561-pop-town.json](./26561-pop-town.json) |
 | Pop Up Computer | 285034 | [285034-pop-up-computer.json](./285034-pop-up-computer.json) |
@@ -7818,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Fiend | 346247 | [346247-project-fiend.json](./346247-project-fiend.json) |
 | Project Fireball | 258458 | [258458-project-fireball.json](./258458-project-fireball.json) |
 | Project Firestart | 40941 | [40941-project-firestart.json](./40941-project-firestart.json) |
+| Project First Contact | 257018 | [257018-project-first-contact.json](./257018-project-first-contact.json) |
 | Project First Contact | 47985 | [47985-project-first-contact.json](./47985-project-first-contact.json) |
 | Project Fist | 84806 | [84806-project-fist.json](./84806-project-fist.json) |
 | Project Freedom | 315023 | [315023-project-freedom.json](./315023-project-freedom.json) |
