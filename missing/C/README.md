@@ -4951,9 +4951,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CleanSheet 2 | 404382 | [404382-cleansheet-2.json](./404382-cleansheet-2.json) |
 | Cleanup Crew | 286088 | [286088-cleanup-crew.json](./286088-cleanup-crew.json) |
 | Cleanup On Aisle 3 | 414428 | [414428-cleanup-on-aisle-3.json](./414428-cleanup-on-aisle-3.json) |
+| Cleanup Project | 255256 | [255256-cleanup-project.json](./255256-cleanup-project.json) |
 | Clear Mosaic | 253990 | [253990-clear-mosaic.json](./253990-clear-mosaic.json) |
 | Clear The Coast | 270692 | [270692-clear-the-coast.json](./270692-clear-the-coast.json) |
 | Clear the Lot | 224082 | [224082-clear-the-lot.json](./224082-clear-the-lot.json) |
+| Clear the Train | 255247 | [255247-clear-the-train.json](./255247-clear-the-train.json) |
 | Clear Vision | 95568 | [95568-clear-vision.json](./95568-clear-vision.json) |
 | Clear Vision 2 HD | 388410 | [388410-clear-vision-2-hd.json](./388410-clear-vision-2-hd.json) |
 | Clear Vision 3 | 343968 | [343968-clear-vision-3.json](./343968-clear-vision-3.json) |
@@ -6057,6 +6059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Realistic 2 Pack | 351623 | [351623-coloring-pixels-realistic-2-pack.json](./351623-coloring-pixels-realistic-2-pack.json) |
 | Coloring Pixels: Retro Pack | 194648 | [194648-coloring-pixels-retro-pack.json](./194648-coloring-pixels-retro-pack.json) |
 | Coloring Pixels: Steampunk Pack | 231329 | [231329-coloring-pixels-steampunk-pack.json](./231329-coloring-pixels-steampunk-pack.json) |
+| Coloring Pixels: Transport Pack | 255253 | [255253-coloring-pixels-transport-pack.json](./255253-coloring-pixels-transport-pack.json) |
 | Coloring Pixels: Vistas Pack 3 | 305513 | [305513-coloring-pixels-vistas-pack-3.json](./305513-coloring-pixels-vistas-pack-3.json) |
 | Coloring Pixels: Zodiac Pack | 351625 | [351625-coloring-pixels-zodiac-pack.json](./351625-coloring-pixels-zodiac-pack.json) |
 | Coloring Voxels: Advent Pack | 384090 | [384090-coloring-voxels-advent-pack.json](./384090-coloring-voxels-advent-pack.json) |
@@ -7569,6 +7572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton Games' New Game Bundle | 196811 | [196811-cotton-games-new-game-bundle.json](./196811-cotton-games-new-game-bundle.json) |
 | Cotton Guardian Force: Saturn Tribute | 146808 | [146808-cotton-guardian-force-saturn-tribute.json](./146808-cotton-guardian-force-saturn-tribute.json) |
 | Cotton Reboot! | 140443 | [140443-cotton-reboot.json](./140443-cotton-reboot.json) |
+| Cotton Tale | 255255 | [255255-cotton-tale.json](./255255-cotton-tale.json) |
 | Cottonville | 346242 | [346242-cottonville.json](./346242-cottonville.json) |
 | Couch Co-Op Bundle Vol. 2 | 147796 | [147796-couch-co-op-bundle-vol-2.json](./147796-couch-co-op-bundle-vol-2.json) |
 | Couch Co-Op: Urban Flow + Knights & Guns | 243795 | [243795-couch-co-op-urban-flow-knights-and-guns.json](./243795-couch-co-op-urban-flow-knights-and-guns.json) |
@@ -9979,6 +9983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Finders | 381700 | [381700-cute-finders.json](./381700-cute-finders.json) |
 | Cute girl with uncle's leisure time | 278737 | [278737-cute-girl-with-uncles-leisure-time.json](./278737-cute-girl-with-uncles-leisure-time.json) |
 | Cute Girls | 243627 | [243627-cute-girls.json](./243627-cute-girls.json) |
+| Cute Hentai Waifu: Numbers | 255279 | [255279-cute-hentai-waifu-numbers.json](./255279-cute-hentai-waifu-numbers.json) |
 | Cute Heroes | 343802 | [343802-cute-heroes.json](./343802-cute-heroes.json) |
 | Cute Honey 2 | 156985 | [156985-cute-honey-2.json](./156985-cute-honey-2.json) |
 | Cute Honey: Bunny Girl | 189975 | [189975-cute-honey-bunny-girl.json](./189975-cute-honey-bunny-girl.json) |
