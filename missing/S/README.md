@@ -11669,6 +11669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squarepinski | 372994 | [372994-squarepinski.json](./372994-squarepinski.json) |
 | Squares | 101610 | [101610-squares.json](./101610-squares.json) |
 | Squares | 131454 | [131454-squares.json](./131454-squares.json) |
+| Squares | 261956 | [261956-squares.json](./261956-squares.json) |
 | Squares | 347300 | [347300-squares.json](./347300-squares.json) |
 | Squares | 59961 | [59961-squares.json](./59961-squares.json) |
 | Squares | 86246 | [86246-squares.json](./86246-squares.json) |
