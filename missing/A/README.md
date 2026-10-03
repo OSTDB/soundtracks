@@ -1354,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adibou d'chou soigne les animaux | 242502 | [242502-adibou-dchou-soigne-les-animaux.json](./242502-adibou-dchou-soigne-les-animaux.json) |
 | Adibou d'chou: Jardin des surprises | 242504 | [242504-adibou-dchou-jardin-des-surprises.json](./242504-adibou-dchou-jardin-des-surprises.json) |
 | Adibou Nature et Sciences | 242531 | [242531-adibou-nature-et-sciences.json](./242531-adibou-nature-et-sciences.json) |
+| Adibou: À la recherche de Robilloc | 230420 | [230420-adibou-a-la-recherche-de-robilloc.json](./230420-adibou-a-la-recherche-de-robilloc.json) |
 | Adibou: Aventure dans le corps humain | 242530 | [242530-adibou-aventure-dans-le-corps-humain.json](./242530-adibou-aventure-dans-le-corps-humain.json) |
 | Adibou: Je lis, je calcule 4-5 ans | 242527 | [242527-adibou-je-lis-je-calcule-4-5-ans.json](./242527-adibou-je-lis-je-calcule-4-5-ans.json) |
 | Adibou: Je lis, je calcule 5-6 ans | 242528 | [242528-adibou-je-lis-je-calcule-5-6-ans.json](./242528-adibou-je-lis-je-calcule-5-6-ans.json) |
@@ -1564,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Realm | 357782 | [357782-adventure-realm.json](./357782-adventure-realm.json) |
 | Adventure Reborn | 240155 | [240155-adventure-reborn.json](./240155-adventure-reborn.json) |
 | Adventure Rush | 192674 | [192674-adventure-rush.json](./192674-adventure-rush.json) |
+| Adventure Sketchers: Draw, Play, Create | 230338 | [230338-adventure-sketchers-draw-play-create.json](./230338-adventure-sketchers-draw-play-create.json) |
 | Adventure Smasher | 181168 | [181168-adventure-smasher.json](./181168-adventure-smasher.json) |
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
 | Adventure the Four Swords | 179576 | [179576-adventure-the-four-swords.json](./179576-adventure-the-four-swords.json) |
@@ -7106,6 +7108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Aventuras de Kiwi | 306710 | [306710-as-aventuras-de-kiwi.json](./306710-as-aventuras-de-kiwi.json) |
 | As Cold as the Grave | 176924 | [176924-as-cold-as-the-grave.json](./176924-as-cold-as-the-grave.json) |
 | As Crônicas de Mar Céu | 247988 | [247988-as-cronicas-de-mar-ceu.json](./247988-as-cronicas-de-mar-ceu.json) |
+| As Long As It's Not Illegal: Act I | 230322 | [230322-as-long-as-its-not-illegal-act-i.json](./230322-as-long-as-its-not-illegal-act-i.json) |
 | As Long As It's Not Illegal: Last Act | 264812 | [264812-as-long-as-its-not-illegal-last-act.json](./264812-as-long-as-its-not-illegal-last-act.json) |
 | As Long As We're Together: Magical Girls Sweet & Pure | 135055 | [135055-as-long-as-were-together-magical-girls-sweet-and-pure.json](./135055-as-long-as-were-together-magical-girls-sweet-and-pure.json) |
 | As Long As You're Here | 374293 | [374293-as-long-as-youre-here.json](./374293-as-long-as-youre-here.json) |
