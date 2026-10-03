@@ -2557,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Jigsaw Puzzle Collection: Autumn | 371234 | [371234-hentai-jigsaw-puzzle-collection-autumn.json](./371234-hentai-jigsaw-puzzle-collection-autumn.json) |
 | Hentai Jigsaw Puzzle Collection: Christmas Edition | 235476 | [235476-hentai-jigsaw-puzzle-collection-christmas-edition.json](./235476-hentai-jigsaw-puzzle-collection-christmas-edition.json) |
 | Hentai Jigsaw Puzzle Collection: Spring Edition | 263218 | [263218-hentai-jigsaw-puzzle-collection-spring-edition.json](./263218-hentai-jigsaw-puzzle-collection-spring-edition.json) |
+| Hentai Jigsaw Puzzle Collection: Valentine's Edition | 239220 | [239220-hentai-jigsaw-puzzle-collection-valentines-edition.json](./239220-hentai-jigsaw-puzzle-collection-valentines-edition.json) |
 | Hentai Kai | 371395 | [371395-hentai-kai.json](./371395-hentai-kai.json) |
 | Hentai Killer: Girls & Chess | 151622 | [151622-hentai-killer-girls-and-chess.json](./151622-hentai-killer-girls-and-chess.json) |
 | Hentai Lady | 110742 | [110742-hentai-lady.json](./110742-hentai-lady.json) |
