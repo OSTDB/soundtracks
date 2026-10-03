@@ -4354,6 +4354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birthright | 156029 | [156029-birthright.json](./156029-birthright.json) |
 | Birthright Cataclysm: Overture | 171595 | [171595-birthright-cataclysm-overture.json](./171595-birthright-cataclysm-overture.json) |
 | Birthseederia | 30098 | [30098-birthseederia.json](./30098-birthseederia.json) |
+| Birushana Senki: Ichijuu no Kaze | 225540 | [225540-birushana-senki-ichijuu-no-kaze.json](./225540-birushana-senki-ichijuu-no-kaze.json) |
 | Birushana: Winds of Fate | 401103 | [401103-birushana-winds-of-fate.json](./401103-birushana-winds-of-fate.json) |
 | Birushana: Winds of Fate - Deluxe Edition | 401109 | [401109-birushana-winds-of-fate-deluxe-edition.json](./401109-birushana-winds-of-fate-deluxe-edition.json) |
 | Biscuit Mafia | 364537 | [364537-biscuit-mafia.json](./364537-biscuit-mafia.json) |
@@ -6516,6 +6517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombinator | 29050 | [29050-bombinator.json](./29050-bombinator.json) |
 | Bombing Quest | 129796 | [129796-bombing-quest.json](./129796-bombing-quest.json) |
 | Bombing Wonderful | 228712 | [228712-bombing-wonderful.json](./228712-bombing-wonderful.json) |
+| Bombing!! 2: A Graffiti Paradise | 225700 | [225700-bombing-2-a-graffiti-paradise.json](./225700-bombing-2-a-graffiti-paradise.json) |
 | Bombing!!: A Graffiti Sandbox | 144933 | [144933-bombing-a-graffiti-sandbox.json](./144933-bombing-a-graffiti-sandbox.json) |
 | Bombini | 129579 | [129579-bombini.json](./129579-bombini.json) |
 | Bombman | 111190 | [111190-bombman.json](./111190-bombman.json) |
@@ -8917,6 +8919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunmei Kaika: Aoiza Ibunroku | 221966 | [221966-bunmei-kaika-aoiza-ibunroku.json](./221966-bunmei-kaika-aoiza-ibunroku.json) |
 | Bunmei Kaika: Aoiza Ibunroku Saien | 59391 | [59391-bunmei-kaika-aoiza-ibunroku-saien.json](./59391-bunmei-kaika-aoiza-ibunroku-saien.json) |
 | Bunni Gunni Classic | 223501 | [223501-bunni-gunni-classic.json](./223501-bunni-gunni-classic.json) |
+| Bunni: How We First Met | 225699 | [225699-bunni-how-we-first-met.json](./225699-bunni-how-we-first-met.json) |
 | Bunnie Rabbot in Sonic the Hedgehog | 129180 | [129180-bunnie-rabbot-in-sonic-the-hedgehog.json](./129180-bunnie-rabbot-in-sonic-the-hedgehog.json) |
 | Bunnies & Ballgames! | 376462 | [376462-bunnies-and-ballgames.json](./376462-bunnies-and-ballgames.json) |
 | Bunnies vs Zombies | 197862 | [197862-bunnies-vs-zombies.json](./197862-bunnies-vs-zombies.json) |
