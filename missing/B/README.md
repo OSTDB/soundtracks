@@ -4082,11 +4082,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard Outbreak Survive | 356225 | [356225-biohazard-outbreak-survive.json](./356225-biohazard-outbreak-survive.json) |
 | Biohazard RE: 2 - Z Version | 218542 | [218542-biohazard-re-2-z-version.json](./218542-biohazard-re-2-z-version.json) |
 | Biohazard RE: 2 - Z Version: Deluxe Edition | 218546 | [218546-biohazard-re-2-z-version-deluxe-edition.json](./218546-biohazard-re-2-z-version-deluxe-edition.json) |
+| Biohazard RE:3 - Cloud Z Version | 251752 | [251752-biohazard-re-3-cloud-z-version.json](./251752-biohazard-re-3-cloud-z-version.json) |
 | Biohazard Revival Selection | 44553 | [44553-biohazard-revival-selection.json](./44553-biohazard-revival-selection.json) |
 | Biohazard Survival Door | 356237 | [356237-biohazard-survival-door.json](./356237-biohazard-survival-door.json) |
 | Biohazard The Episodes | 356241 | [356241-biohazard-the-episodes.json](./356241-biohazard-the-episodes.json) |
 | Biohazard The Operations | 356244 | [356244-biohazard-the-operations.json](./356244-biohazard-the-operations.json) |
 | Biohazard The Stories | 356245 | [356245-biohazard-the-stories.json](./356245-biohazard-the-stories.json) |
+| Biohazard Village: Cloud Z Version | 251751 | [251751-biohazard-village-cloud-z-version.json](./251751-biohazard-village-cloud-z-version.json) |
 | Biohazard Village: Z Version | 218544 | [218544-biohazard-village-z-version.json](./218544-biohazard-village-z-version.json) |
 | Biohazard Village: Z Version - Winters' Expansion | 241065 | [241065-biohazard-village-z-version-winters-expansion.json](./241065-biohazard-village-z-version-winters-expansion.json) |
 | Biohazard ZombieBuster | 356247 | [356247-biohazard-zombiebuster.json](./356247-biohazard-zombiebuster.json) |
@@ -7144,6 +7146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxed In | 76687 | [76687-boxed-in.json](./76687-boxed-in.json) |
 | Boxed In | 95394 | [95394-boxed-in.json](./95394-boxed-in.json) |
 | Boxed Out | 384737 | [384737-boxed-out.json](./384737-boxed-out.json) |
+| Boxed Tower: Actual Tower Defense | 251754 | [251754-boxed-tower-actual-tower-defense.json](./251754-boxed-tower-actual-tower-defense.json) |
 | Boxed Up! | 386837 | [386837-boxed-up.json](./386837-boxed-up.json) |
 | Boxer | 13699 | [13699-boxer.json](./13699-boxer.json) |
 | Boxer Rebellion | 92975 | [92975-boxer-rebellion.json](./92975-boxer-rebellion.json) |
