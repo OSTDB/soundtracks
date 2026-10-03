@@ -8004,6 +8004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Paradox | 346689 | [346689-broken-paradox.json](./346689-broken-paradox.json) |
 | Broken Path | 154443 | [154443-broken-path.json](./154443-broken-path.json) |
 | Broken Pearl | 223554 | [223554-broken-pearl.json](./223554-broken-pearl.json) |
+| Broken Picture Telephone | 252290 | [252290-broken-picture-telephone.json](./252290-broken-picture-telephone.json) |
 | Broken Pieces | 137286 | [137286-broken-pieces.json](./137286-broken-pieces.json) |
 | Broken Prism | 346211 | [346211-broken-prism.json](./346211-broken-prism.json) |
 | Broken Puppet | 124607 | [124607-broken-puppet.json](./124607-broken-puppet.json) |
