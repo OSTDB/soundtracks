@@ -2555,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rematch | 60008 | [60008-rematch.json](./60008-rematch.json) |
 | ReMaz! | 116859 | [116859-remaz.json](./116859-remaz.json) |
 | Rembrunir | 384209 | [384209-rembrunir.json](./384209-rembrunir.json) |
+| Remedium: Sentinels | 233658 | [233658-remedium-sentinels.json](./233658-remedium-sentinels.json) |
 | Remedy | 150516 | [150516-remedy.json](./150516-remedy.json) |
 | Remedy | 202325 | [202325-remedy.json](./202325-remedy.json) |
 | Remember Places? | 177346 | [177346-remember-places.json](./177346-remember-places.json) |
@@ -5185,6 +5186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Planet | 197343 | [197343-rogue-planet.json](./197343-rogue-planet.json) |
 | Rogue Planet | 397925 | [397925-rogue-planet.json](./397925-rogue-planet.json) |
 | Rogue Planet | 91355 | [91355-rogue-planet.json](./91355-rogue-planet.json) |
+| Rogue Planet 1 | 233583 | [233583-rogue-planet-1.json](./233583-rogue-planet-1.json) |
 | Rogue Point | 322111 | [322111-rogue-point.json](./322111-rogue-point.json) |
 | Rogue Princess | 211750 | [211750-rogue-princess.json](./211750-rogue-princess.json) |
 | Rogue Quest | 402511 | [402511-rogue-quest.json](./402511-rogue-quest.json) |
