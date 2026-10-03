@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Bus Driver Simulator | 199355 | [199355-school-bus-driver-simulator.json](./199355-school-bus-driver-simulator.json) |
 | School Bus Driving Simulator | 259031 | [259031-school-bus-driving-simulator.json](./259031-school-bus-driving-simulator.json) |
 | School Bus Simulator: Blocky World | 104633 | [104633-school-bus-simulator-blocky-world.json](./104633-school-bus-simulator-blocky-world.json) |
+| School Cafeteria Simulator | 263105 | [263105-school-cafeteria-simulator.json](./263105-school-cafeteria-simulator.json) |
 | School Crisis | 391605 | [391605-school-crisis.json](./391605-school-crisis.json) |
 | School Days | 371896 | [371896-school-days.json](./371896-school-days.json) |
 | School Days LxH | 178079 | [178079-school-days-lxh.json](./178079-school-days-lxh.json) |
@@ -4476,6 +4477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiya | 178600 | [178600-shiya.json](./178600-shiya.json) |
 | Shizue: Innocent Curse | 117086 | [117086-shizue-innocent-curse.json](./117086-shizue-innocent-curse.json) |
 | Shizuku: Japanese myth | 219610 | [219610-shizuku-japanese-myth.json](./219610-shizuku-japanese-myth.json) |
+| Shizumeru Rakuen | 263138 | [263138-shizumeru-rakuen.json](./263138-shizumeru-rakuen.json) |
 | Shizuoka Curse | 335999 | [335999-shizuoka-curse.json](./335999-shizuoka-curse.json) |
 | Shkilagames Story: Episode 1 | 280840 | [280840-shkilagames-story-episode-1.json](./280840-shkilagames-story-episode-1.json) |
 | Shleep | 340225 | [340225-shleep.json](./340225-shleep.json) |
@@ -7554,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite 5 | 116238 | [116238-sniper-elite-5.json](./116238-sniper-elite-5.json) |
 | Sniper Elite 5: Airborne Elite Weapon & Skin Pack | 307278 | [307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json](./307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Complete Edition | 263228 | [263228-sniper-elite-5-complete-edition.json](./263228-sniper-elite-5-complete-edition.json) |
+| Sniper Elite 5: Concealed Target Weapon and Skin Pack | 263129 | [263129-sniper-elite-5-concealed-target-weapon-and-skin-pack.json](./263129-sniper-elite-5-concealed-target-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Death From Above Weapon and Skin Pack | 307284 | [307284-sniper-elite-5-death-from-above-weapon-and-skin-pack.json](./307284-sniper-elite-5-death-from-above-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Deluxe Edition | 194661 | [194661-sniper-elite-5-deluxe-edition.json](./194661-sniper-elite-5-deluxe-edition.json) |
 | Sniper Elite 5: Kraken Awakes - Mission, Weapon and Skin Pack | 255688 | [255688-sniper-elite-5-kraken-awakes-mission-weapon-and-skin-pack.json](./255688-sniper-elite-5-kraken-awakes-mission-weapon-and-skin-pack.json) |
@@ -15695,6 +15698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hoops 2 | 378784 | [378784-super-hoops-2.json](./378784-super-hoops-2.json) |
 | Super Horoscope Kanji Version | 112158 | [112158-super-horoscope-kanji-version.json](./112158-super-horoscope-kanji-version.json) |
 | Super Hot Pellet Muncher 2000 | 178613 | [178613-super-hot-pellet-muncher-2000.json](./178613-super-hot-pellet-muncher-2000.json) |
+| Super House of Dead Ninjas: True Ninja Pack | 263128 | [263128-super-house-of-dead-ninjas-true-ninja-pack.json](./263128-super-house-of-dead-ninjas-true-ninja-pack.json) |
 | Super Huey 1 & 2 Airdrop | 171909 | [171909-super-huey-1-and-2-airdrop.json](./171909-super-huey-1-and-2-airdrop.json) |
 | Super Huggie Bros | 272806 | [272806-super-huggie-bros.json](./272806-super-huggie-bros.json) |
 | Super Hunchback | 157211 | [157211-super-hunchback.json](./157211-super-hunchback.json) |
@@ -17881,6 +17885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Dancer: Kyoujin no Megami | 343961 | [343961-sword-dancer-kyoujin-no-megami.json](./343961-sword-dancer-kyoujin-no-megami.json) |
 | Sword Daughter | 35937 | [35937-sword-daughter.json](./35937-sword-daughter.json) |
 | Sword Defense | 116170 | [116170-sword-defense.json](./116170-sword-defense.json) |
+| Sword Drift | 263108 | [263108-sword-drift.json](./263108-sword-drift.json) |
 | Sword Fight | 289876 | [289876-sword-fight.json](./289876-sword-fight.json) |
 | Sword Fishing | 180718 | [180718-sword-fishing.json](./180718-sword-fishing.json) |
 | Sword Game | 143473 | [143473-sword-game.json](./143473-sword-game.json) |
