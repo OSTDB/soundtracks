@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Burgeria | 77672 | [77672-papas-burgeria.json](./77672-papas-burgeria.json) |
 | Papa's Burgeria HD | 86695 | [86695-papas-burgeria-hd.json](./86695-papas-burgeria-hd.json) |
 | Papa's Burgeria to Go! | 96986 | [96986-papas-burgeria-to-go.json](./96986-papas-burgeria-to-go.json) |
+| Papa's Cheeseria To Go! | 265876 | [265876-papas-cheeseria-to-go.json](./265876-papas-cheeseria-to-go.json) |
 | Papa's Donuteria | 210502 | [210502-papas-donuteria.json](./210502-papas-donuteria.json) |
 | Papa's Donutria | 143040 | [143040-papas-donutria.json](./143040-papas-donutria.json) |
 | Papa's Hot Doggeria HD | 88892 | [88892-papas-hot-doggeria-hd.json](./88892-papas-hot-doggeria-hd.json) |
@@ -4955,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plaything | 342120 | [342120-plaything.json](./342120-plaything.json) |
 | Playthings: VR Music Vacation | 32881 | [32881-playthings-vr-music-vacation.json](./32881-playthings-vr-music-vacation.json) |
 | Playtime | 170847 | [170847-playtime.json](./170847-playtime.json) |
+| Playtown | 265825 | [265825-playtown.json](./265825-playtown.json) |
 | Playtown 2 | 281396 | [281396-playtown-2.json](./281396-playtown-2.json) |
 | Playtown 3 | 342289 | [342289-playtown-3.json](./342289-playtown-3.json) |
 | Playtown Genesis | 319376 | [319376-playtown-genesis.json](./319376-playtown-genesis.json) |
@@ -9017,6 +9019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Kana? | 312354 | [312354-puzzle-kana.json](./312354-puzzle-kana.json) |
 | Puzzle Kids | 306597 | [306597-puzzle-kids.json](./306597-puzzle-kids.json) |
 | Puzzle King | 46791 | [46791-puzzle-king.json](./46791-puzzle-king.json) |
+| Puzzle Kombat | 265855 | [265855-puzzle-kombat.json](./265855-puzzle-kombat.json) |
 | Puzzle Light | 149455 | [149455-puzzle-light.json](./149455-puzzle-light.json) |
 | Puzzle Light: Rotate | 152763 | [152763-puzzle-light-rotate.json](./152763-puzzle-light-rotate.json) |
 | Puzzle Lights and Mushrooms 1000 | 334103 | [334103-puzzle-lights-and-mushrooms-1000.json](./334103-puzzle-lights-and-mushrooms-1000.json) |
