@@ -5031,6 +5031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1701 A.D.: Gold Edition | 180265 | [180265-anno-1701-a-d-gold-edition.json](./180265-anno-1701-a-d-gold-edition.json) |
 | Anno 1701: Limited Edition | 180266 | [180266-anno-1701-limited-edition.json](./180266-anno-1701-limited-edition.json) |
 | Anno 1800: Aesthetic Artisans Bundle | 317365 | [317365-anno-1800-aesthetic-artisans-bundle.json](./317365-anno-1800-aesthetic-artisans-bundle.json) |
+| Anno 1800: Amusements Pack | 227317 | [227317-anno-1800-amusements-pack.json](./227317-anno-1800-amusements-pack.json) |
 | Anno 1800: Bright Harvest | 151058 | [151058-anno-1800-bright-harvest.json](./151058-anno-1800-bright-harvest.json) |
 | Anno 1800: Complete Edition Year 3 | 146123 | [146123-anno-1800-complete-edition-year-3.json](./146123-anno-1800-complete-edition-year-3.json) |
 | Anno 1800: Complete Edition Year 4 | 197663 | [197663-anno-1800-complete-edition-year-4.json](./197663-anno-1800-complete-edition-year-4.json) |
@@ -8155,6 +8156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atom Antics | 243178 | [243178-atom-antics.json](./243178-atom-antics.json) |
 | Atom Fit | 234169 | [234169-atom-fit.json](./234169-atom-fit.json) |
 | Atom OI | 183961 | [183961-atom-oi.json](./183961-atom-oi.json) |
+| Atom RPG: Trudograd Deluxe Edition | 227181 | [227181-atom-rpg-trudograd-deluxe-edition.json](./227181-atom-rpg-trudograd-deluxe-edition.json) |
 | Atom Run | 61123 | [61123-atom-run.json](./61123-atom-run.json) |
 | Atom Smasher | 268574 | [268574-atom-smasher.json](./268574-atom-smasher.json) |
 | Atom Universe | 18180 | [18180-atom-universe.json](./18180-atom-universe.json) |
