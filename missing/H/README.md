@@ -2022,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell of Sins: Soul | 209144 | [209144-hell-of-sins-soul.json](./209144-hell-of-sins-soul.json) |
 | Hell Of War: Combined Arms | 411596 | [411596-hell-of-war-combined-arms.json](./411596-hell-of-war-combined-arms.json) |
 | Hell on Earth | 28145 | [28145-hell-on-earth.json](./28145-hell-on-earth.json) |
+| Hell On Earth Shareware | 275212 | [275212-hell-on-earth-shareware.json](./275212-hell-on-earth-shareware.json) |
 | Hell on Ice | 180686 | [180686-hell-on-ice.json](./180686-hell-on-ice.json) |
 | Hell Revealations | 275570 | [275570-hell-revealations.json](./275570-hell-revealations.json) |
 | Hell Revealed | 138759 | [138759-hell-revealed.json](./138759-hell-revealed.json) |
