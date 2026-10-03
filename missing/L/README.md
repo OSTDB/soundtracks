@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary | 7049 | [7049-legendary.json](./7049-legendary.json) |
 | Legendary Arcane 2 Universe | 129750 | [129750-legendary-arcane-2-universe.json](./129750-legendary-arcane-2-universe.json) |
 | Legendary Archer: Rebirth | 224029 | [224029-legendary-archer-rebirth.json](./224029-legendary-archer-rebirth.json) |
+| Legendary Blacksmith | 249311 | [249311-legendary-blacksmith.json](./249311-legendary-blacksmith.json) |
 | Legendary Creatures 2 | 271374 | [271374-legendary-creatures-2.json](./271374-legendary-creatures-2.json) |
 | Legendary DXP | 69357 | [69357-legendary-dxp.json](./69357-legendary-dxp.json) |
 | Legendary Fishing | 110788 | [110788-legendary-fishing.json](./110788-legendary-fishing.json) |
@@ -1862,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let’s Build a Zoo: Aquarium Odyssey | 245302 | [245302-let-s-build-a-zoo-aquarium-odyssey.json](./245302-let-s-build-a-zoo-aquarium-odyssey.json) |
 | Let's Build a Zoo: Aquarium Odyssey Bundle | 262056 | [262056-lets-build-a-zoo-aquarium-odyssey-bundle.json](./262056-lets-build-a-zoo-aquarium-odyssey-bundle.json) |
 | Let's Build a Zoo: Ultimate Bundle | 262054 | [262054-lets-build-a-zoo-ultimate-bundle.json](./262054-lets-build-a-zoo-ultimate-bundle.json) |
+| Let's Bully Nash | 249320 | [249320-lets-bully-nash.json](./249320-lets-bully-nash.json) |
 | Let's Catch | 21352 | [21352-lets-catch.json](./21352-lets-catch.json) |
 | Let's Compare the Speed of Our Punches! | 327441 | [327441-lets-compare-the-speed-of-our-punches.json](./327441-lets-compare-the-speed-of-our-punches.json) |
 | Let's Cook | 98445 | [98445-lets-cook.json](./98445-lets-cook.json) |
