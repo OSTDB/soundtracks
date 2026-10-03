@@ -1917,6 +1917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fency Krabby | 185146 | [185146-fency-krabby.json](./185146-fency-krabby.json) |
 | Fenestra | 405641 | [405641-fenestra.json](./405641-fenestra.json) |
 | Fenestra: My Focus, Her Future | 415956 | [415956-fenestra-my-focus-her-future.json](./415956-fenestra-my-focus-her-future.json) |
+| Feng Shen Bang 2023 | 267005 | [267005-feng-shen-bang-2023.json](./267005-feng-shen-bang-2023.json) |
 | Feng Shui: Meowjong | 348796 | [348796-feng-shui-meowjong.json](./348796-feng-shui-meowjong.json) |
 | Fengdu: Chronicles of Battle | 318064 | [318064-fengdu-chronicles-of-battle.json](./318064-fengdu-chronicles-of-battle.json) |
 | Fēngkuáng Pào Pào Bǔyú | 369187 | [369187-fengkuang-pao-pao-buyu.json](./369187-fengkuang-pao-pao-buyu.json) |
@@ -2426,6 +2427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Echo | 348802 | [348802-final-echo.json](./348802-final-echo.json) |
 | Final Exam | 7306 | [7306-final-exam.json](./7306-final-exam.json) |
 | Final Exam | 80480 | [80480-final-exam.json](./80480-final-exam.json) |
+| Final Exerion | 266984 | [266984-final-exerion.json](./266984-final-exerion.json) |
 | Final Factory | 236524 | [236524-final-factory.json](./236524-final-factory.json) |
 | Final Failure | 93629 | [93629-final-failure.json](./93629-final-failure.json) |
 | Final Fall | 341702 | [341702-final-fall.json](./341702-final-fall.json) |
@@ -3174,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Season | 350506 | [350506-fish-season.json](./350506-fish-season.json) |
 | Fish Simulator: Agonik Lake | 240761 | [240761-fish-simulator-agonik-lake.json](./240761-fish-simulator-agonik-lake.json) |
 | Fish Stick Protocol | 340540 | [340540-fish-stick-protocol.json](./340540-fish-stick-protocol.json) |
+| Fish Survivor: Feed, Grow and Evolve! | 266996 | [266996-fish-survivor-feed-grow-and-evolve.json](./266996-fish-survivor-feed-grow-and-evolve.json) |
 | Fish Swarm: Within Inches | 383962 | [383962-fish-swarm-within-inches.json](./383962-fish-swarm-within-inches.json) |
 | Fish Tales | 358849 | [358849-fish-tales.json](./358849-fish-tales.json) |
 | Fish Tales | 94364 | [94364-fish-tales.json](./94364-fish-tales.json) |
@@ -5404,6 +5407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox's Peter Pan & The Pirates: The Revenge of Captain Hook | 72710 | [72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json](./72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json) |
 | Foxblade | 244872 | [244872-foxblade.json](./244872-foxblade.json) |
 | Foxblade Fable | 316168 | [316168-foxblade-fable.json](./316168-foxblade-fable.json) |
+| Foxcrate | 266978 | [266978-foxcrate.json](./266978-foxcrate.json) |
 | Foxcrate | 383928 | [383928-foxcrate.json](./383928-foxcrate.json) |
 | Foxes and Cows | 178608 | [178608-foxes-and-cows.json](./178608-foxes-and-cows.json) |
 | Foxfire | 404247 | [404247-foxfire.json](./404247-foxfire.json) |
@@ -5950,6 +5954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendzoned 2 | 276805 | [276805-friendzoned-2.json](./276805-friendzoned-2.json) |
 | Friendzoned 3 | 276806 | [276806-friendzoned-3.json](./276806-friendzoned-3.json) |
 | Friendzoned 4 | 276807 | [276807-friendzoned-4.json](./276807-friendzoned-4.json) |
+| Frieseria: The Grand Reopening | 266994 | [266994-frieseria-the-grand-reopening.json](./266994-frieseria-the-grand-reopening.json) |
 | Frigate | 250923 | [250923-frigate.json](./250923-frigate.json) |
 | Fright Chasers: Director's Cut | 312212 | [312212-fright-chasers-directors-cut.json](./312212-fright-chasers-directors-cut.json) |
 | Fright Chasers: Soul Reaper | 312213 | [312213-fright-chasers-soul-reaper.json](./312213-fright-chasers-soul-reaper.json) |
