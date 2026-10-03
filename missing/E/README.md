@@ -3062,6 +3062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ethos: Divinity's Curse | 201706 | [201706-ethos-divinitys-curse.json](./201706-ethos-divinitys-curse.json) |
 | Eti Yami: Mekanik Istila | 92630 | [92630-eti-yami-mekanik-istila.json](./92630-eti-yami-mekanik-istila.json) |
 | Etiquette Elegance | 346195 | [346195-etiquette-elegance.json](./346195-etiquette-elegance.json) |
+| Eto King | 259711 | [259711-eto-king.json](./259711-eto-king.json) |
 | Eto-cetera In no Maki | 113729 | [113729-eto-cetera-in-no-maki.json](./113729-eto-cetera-in-no-maki.json) |
 | Etre | 270182 | [270182-etre.json](./270182-etre.json) |
 | Etrian Mystery Dungeon | 8607 | [8607-etrian-mystery-dungeon.json](./8607-etrian-mystery-dungeon.json) |
@@ -3896,6 +3897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploding Lips | 92861 | [92861-exploding-lips.json](./92861-exploding-lips.json) |
 | Explomania | 81033 | [81033-explomania.json](./81033-explomania.json) |
 | Exploration | 94317 | [94317-exploration.json](./94317-exploration.json) |
+| Explore | 259720 | [259720-explore.json](./259720-explore.json) |
 | Explore Inc | 179030 | [179030-explore-inc.json](./179030-explore-inc.json) |
 | Explore Jam 1 | 275319 | [275319-explore-jam-1.json](./275319-explore-jam-1.json) |
 | Explore Jam 2 | 275322 | [275322-explore-jam-2.json](./275322-explore-jam-2.json) |
