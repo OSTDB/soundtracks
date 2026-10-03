@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Jigsaw Puzzles: Olympus | 296424 | [296424-fantasy-jigsaw-puzzles-olympus.json](./296424-fantasy-jigsaw-puzzles-olympus.json) |
 | Fantasy Jigsaw Puzzles: The Great War | 357879 | [357879-fantasy-jigsaw-puzzles-the-great-war.json](./357879-fantasy-jigsaw-puzzles-the-great-war.json) |
 | Fantasy Jigsaw Puzzles: The Orient | 357880 | [357880-fantasy-jigsaw-puzzles-the-orient.json](./357880-fantasy-jigsaw-puzzles-the-orient.json) |
+| Fantasy Journey | 245368 | [245368-fantasy-journey.json](./245368-fantasy-journey.json) |
 | Fantasy Kingdom: Fantasy Tiny Forest | 219290 | [219290-fantasy-kingdom-fantasy-tiny-forest.json](./219290-fantasy-kingdom-fantasy-tiny-forest.json) |
 | Fantasy Knight | 400435 | [400435-fantasy-knight.json](./400435-fantasy-knight.json) |
 | Fantasy Kommander: Eukarion Wars | 264213 | [264213-fantasy-kommander-eukarion-wars.json](./264213-fantasy-kommander-eukarion-wars.json) |
