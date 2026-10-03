@@ -2107,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Simulator | 103836 | [103836-battle-simulator.json](./103836-battle-simulator.json) |
 | Battle Skin Panic | 91463 | [91463-battle-skin-panic.json](./91463-battle-skin-panic.json) |
 | Battle Slugs | 261522 | [261522-battle-slugs.json](./261522-battle-slugs.json) |
+| Battle Snails | 252912 | [252912-battle-snails.json](./252912-battle-snails.json) |
 | Battle Snakes Arena | 82503 | [82503-battle-snakes-arena.json](./82503-battle-snakes-arena.json) |
 | Battle Soccer: Field no Hasha | 42567 | [42567-battle-soccer-field-no-hasha.json](./42567-battle-soccer-field-no-hasha.json) |
 | Battle Space | 92278 | [92278-battle-space.json](./92278-battle-space.json) |
