@@ -6103,6 +6103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins of Endoth | 310000 | [310000-ruins-of-endoth.json](./310000-ruins-of-endoth.json) |
 | Ruins of Majika | 211747 | [211747-ruins-of-majika.json](./211747-ruins-of-majika.json) |
 | Ruins of Mitriom | 186320 | [186320-ruins-of-mitriom.json](./186320-ruins-of-mitriom.json) |
+| Ruins of Sathryn | 262598 | [262598-ruins-of-sathryn.json](./262598-ruins-of-sathryn.json) |
 | Ruins of Tearyn | 337252 | [337252-ruins-of-tearyn.json](./337252-ruins-of-tearyn.json) |
 | Ruins of the Forgotten: A Wild Survival | 286054 | [286054-ruins-of-the-forgotten-a-wild-survival.json](./286054-ruins-of-the-forgotten-a-wild-survival.json) |
 | Ruins of the Lost | 258460 | [258460-ruins-of-the-lost.json](./258460-ruins-of-the-lost.json) |
