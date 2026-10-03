@@ -3706,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Hayseed: Hollywood | 26992 | [26992-detective-hayseed-hollywood.json](./26992-detective-hayseed-hollywood.json) |
 | Detective Hayseed: The Cloning Madness | 277025 | [277025-detective-hayseed-the-cloning-madness.json](./277025-detective-hayseed-the-cloning-madness.json) |
 | Detective Hindsight | 367971 | [367971-detective-hindsight.json](./367971-detective-hindsight.json) |
+| Detective Instinct: Farewell, My Beloved | 278060 | [278060-detective-instinct-farewell-my-beloved.json](./278060-detective-instinct-farewell-my-beloved.json) |
 | Detective Kiwi | 282569 | [282569-detective-kiwi.json](./282569-detective-kiwi.json) |
 | Detective Kobayashi | 118321 | [118321-detective-kobayashi.json](./118321-detective-kobayashi.json) |
 | Detective Lin: Time Murder Frenzy | 301915 | [301915-detective-lin-time-murder-frenzy.json](./301915-detective-lin-time-murder-frenzy.json) |
