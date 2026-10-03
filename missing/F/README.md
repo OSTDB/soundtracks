@@ -4932,6 +4932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Sound 1: Revelation | 83595 | [83595-forgotten-sound-1-revelation.json](./83595-forgotten-sound-1-revelation.json) |
 | Forgotten Sound 2: Destiny | 83545 | [83545-forgotten-sound-2-destiny.json](./83545-forgotten-sound-2-destiny.json) |
 | Forgotten Spirit | 327923 | [327923-forgotten-spirit.json](./327923-forgotten-spirit.json) |
+| Forgotten Symphony | 266420 | [266420-forgotten-symphony.json](./266420-forgotten-symphony.json) |
 | Forgotten Tales: Day of the Dead | 33244 | [33244-forgotten-tales-day-of-the-dead.json](./33244-forgotten-tales-day-of-the-dead.json) |
 | Forgotten Trails | 406697 | [406697-forgotten-trails.json](./406697-forgotten-trails.json) |
 | Forgotten Tunnels: Episode 1 | 178418 | [178418-forgotten-tunnels-episode-1.json](./178418-forgotten-tunnels-episode-1.json) |
@@ -5880,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': V.S. Neco-Arc | 203230 | [203230-friday-night-funkin-v-s-neco-arc.json](./203230-friday-night-funkin-v-s-neco-arc.json) |
 | Friday Night Funkin': V.S. Whitty | 165075 | [165075-friday-night-funkin-v-s-whitty.json](./165075-friday-night-funkin-v-s-whitty.json) |
 | Friday Night Funkin': Vs Ankha | 186302 | [186302-friday-night-funkin-vs-ankha.json](./186302-friday-night-funkin-vs-ankha.json) |
+| Friday Night Funkin': VS Boykisser | 266414 | [266414-friday-night-funkin-vs-boykisser.json](./266414-friday-night-funkin-vs-boykisser.json) |
 | Friday Night Funkin': Vs Impostor | 202380 | [202380-friday-night-funkin-vs-impostor.json](./202380-friday-night-funkin-vs-impostor.json) |
 | Friday Night Funkin': VS Protegent | 274022 | [274022-friday-night-funkin-vs-protegent.json](./274022-friday-night-funkin-vs-protegent.json) |
 | Friday Night Funkin': Vs Shitass Full Week | 198346 | [198346-friday-night-funkin-vs-shitass-full-week.json](./198346-friday-night-funkin-vs-shitass-full-week.json) |
