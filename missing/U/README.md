@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uju Jeonsa Dooly | 93589 | [93589-uju-jeonsa-dooly.json](./93589-uju-jeonsa-dooly.json) |
 | UK Truck Simulator | 27641 | [27641-uk-truck-simulator.json](./27641-uk-truck-simulator.json) |
 | Uka & Haruka: Hentai Puzzle 18+ | 312681 | [312681-uka-and-haruka-hentai-puzzle-18.json](./312681-uka-and-haruka-hentai-puzzle-18.json) |
+| Ukemeowy | 270872 | [270872-ukemeowy.json](./270872-ukemeowy.json) |
 | Ukhar | 90260 | [90260-ukhar.json](./90260-ukhar.json) |
 | Uki-Uki-Tengoku 2 | 275116 | [275116-uki-uki-tengoku-2.json](./275116-uki-uki-tengoku-2.json) |
 | Ukik | 246103 | [246103-ukik.json](./246103-ukik.json) |
@@ -511,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman: Oide yo! Ultra Youchien | 63947 | [63947-ultraman-oide-yo-ultra-youchien.json](./63947-ultraman-oide-yo-ultra-youchien.json) |
 | Ultraman: Suuji de Asobou Ultra Land | 63940 | [63940-ultraman-suuji-de-asobou-ultra-land.json](./63940-ultraman-suuji-de-asobou-ultra-land.json) |
 | Ultraman: Ultraman Chinou UP Dai Sakusen | 63941 | [63941-ultraman-ultraman-chinou-up-dai-sakusen.json](./63941-ultraman-ultraman-chinou-up-dai-sakusen.json) |
+| Ultramarine | 270843 | [270843-ultramarine.json](./270843-ultramarine.json) |
 | Ultramarine: The Retro Game | 400450 | [400450-ultramarine-the-retro-game.json](./400450-ultramarine-the-retro-game.json) |
 | Ultranatural | 337447 | [337447-ultranatural.json](./337447-ultranatural.json) |
 | Ultranium 5 | 99988 | [99988-ultranium-5.json](./99988-ultranium-5.json) |
@@ -789,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Run | 163741 | [163741-undead-run.json](./163741-undead-run.json) |
 | Undead Slayer | 46755 | [46755-undead-slayer.json](./46755-undead-slayer.json) |
 | Undead Souls | 55496 | [55496-undead-souls.json](./55496-undead-souls.json) |
+| Undead Uprising | 270871 | [270871-undead-uprising.json](./270871-undead-uprising.json) |
 | Undead Village | 244375 | [244375-undead-village.json](./244375-undead-village.json) |
 | Undead vs. Plants | 18120 | [18120-undead-vs-plants.json](./18120-undead-vs-plants.json) |
 | Undead West | 269587 | [269587-undead-west.json](./269587-undead-west.json) |
@@ -1163,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uniseas | 131555 | [131555-uniseas.json](./131555-uniseas.json) |
 | Unishroom | 116816 | [116816-unishroom.json](./116816-unishroom.json) |
 | Unislot | 128572 | [128572-unislot.json](./128572-unislot.json) |
+| Unispies: Chapter 1 - Havana Cuba | 270870 | [270870-unispies-chapter-1-havana-cuba.json](./270870-unispies-chapter-1-havana-cuba.json) |
 | Unistar | 178508 | [178508-unistar.json](./178508-unistar.json) |
 | Unit 13 | 19251 | [19251-unit-13.json](./19251-unit-13.json) |
 | Unit 4: Clash of Agents | 170561 | [170561-unit-4-clash-of-agents.json](./170561-unit-4-clash-of-agents.json) |
