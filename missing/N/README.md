@@ -2752,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Turtles: The Next Mutation | 198840 | [198840-ninja-turtles-the-next-mutation.json](./198840-ninja-turtles-the-next-mutation.json) |
 | Ninja Usagimaru: The Mysterious Karakuri Castle | 44391 | [44391-ninja-usagimaru-the-mysterious-karakuri-castle.json](./44391-ninja-usagimaru-the-mysterious-karakuri-castle.json) |
 | Ninja Village | 61080 | [61080-ninja-village.json](./61080-ninja-village.json) |
+| Ninja vs. Zombies | 235893 | [235893-ninja-vs-zombies.json](./235893-ninja-vs-zombies.json) |
 | Ninja vs. Zombies 3 | 335275 | [335275-ninja-vs-zombies-3.json](./335275-ninja-vs-zombies-3.json) |
 | Ninja War: Super Ninja Showdown | 199937 | [199937-ninja-war-super-ninja-showdown.json](./199937-ninja-war-super-ninja-showdown.json) |
 | Ninja Warrior Princess | 229334 | [229334-ninja-warrior-princess.json](./229334-ninja-warrior-princess.json) |
@@ -3766,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NOX: Chapter 1 | 229626 | [229626-nox-chapter-1.json](./229626-nox-chapter-1.json) |
 | Nox: Escape Adventure | 241049 | [241049-nox-escape-adventure.json](./241049-nox-escape-adventure.json) |
 | Noxcode | 404413 | [404413-noxcode.json](./404413-noxcode.json) |
+| Noxia Somnia | 235888 | [235888-noxia-somnia.json](./235888-noxia-somnia.json) |
 | Noxiam: Miserable Sinners | 126407 | [126407-noxiam-miserable-sinners.json](./126407-noxiam-miserable-sinners.json) |
 | Noyah: Corrupted Memories | 164962 | [164962-noyah-corrupted-memories.json](./164962-noyah-corrupted-memories.json) |
 | Nozoku | 238984 | [238984-nozoku.json](./238984-nozoku.json) |
