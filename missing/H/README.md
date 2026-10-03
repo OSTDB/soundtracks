@@ -1331,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Manor: Painted Beauties | 140030 | [140030-haunted-manor-painted-beauties.json](./140030-haunted-manor-painted-beauties.json) |
 | Haunted Manor: Queen of Death | 140031 | [140031-haunted-manor-queen-of-death.json](./140031-haunted-manor-queen-of-death.json) |
 | Haunted Mansion | 204693 | [204693-haunted-mansion.json](./204693-haunted-mansion.json) |
+| Haunted Mansion | 259183 | [259183-haunted-mansion.json](./259183-haunted-mansion.json) |
 | Haunted Mansion | 342075 | [342075-haunted-mansion.json](./342075-haunted-mansion.json) |
 | Haunted Mansion: Experience | 319759 | [319759-haunted-mansion-experience.json](./319759-haunted-mansion-experience.json) |
 | Haunted Nightmares | 149446 | [149446-haunted-nightmares.json](./149446-haunted-nightmares.json) |
@@ -1401,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haven: Deluxe Edition | 356806 | [356806-haven-deluxe-edition.json](./356806-haven-deluxe-edition.json) |
 | Haven: Episode 1 | 307952 | [307952-haven-episode-1.json](./307952-haven-episode-1.json) |
 | Haven: The Leader | 298292 | [298292-haven-the-leader.json](./298292-haven-the-leader.json) |
+| Haven's Compass | 259161 | [259161-havens-compass.json](./259161-havens-compass.json) |
 | Haven's Embers | 190970 | [190970-havens-embers.json](./190970-havens-embers.json) |
 | Havenhold | 204445 | [204445-havenhold.json](./204445-havenhold.json) |
 | Havenview | 219814 | [219814-havenview.json](./219814-havenview.json) |
@@ -3110,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroic Kingdom: Origins | 293642 | [293642-heroic-kingdom-origins.json](./293642-heroic-kingdom-origins.json) |
 | Heroic Songs: The Remix! | 369057 | [369057-heroic-songs-the-remix.json](./369057-heroic-songs-the-remix.json) |
 | Heroic Syndrome | 206354 | [206354-heroic-syndrome.json](./206354-heroic-syndrome.json) |
+| Heroic Tale Value!+ | 259152 | [259152-heroic-tale-value.json](./259152-heroic-tale-value.json) |
 | Heroica: Fortaan | 342868 | [342868-heroica-fortaan.json](./342868-heroica-fortaan.json) |
 | Heroine Dream | 61566 | [61566-heroine-dream.json](./61566-heroine-dream.json) |
 | Heroine Dream 2 | 61565 | [61565-heroine-dream-2.json](./61565-heroine-dream-2.json) |
@@ -5412,6 +5415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Room Haunting | 275645 | [275645-hotel-room-haunting.json](./275645-hotel-room-haunting.json) |
 | Hotel Security | 339846 | [339846-hotel-security.json](./339846-hotel-security.json) |
 | Hotel Simulator | 235688 | [235688-hotel-simulator.json](./235688-hotel-simulator.json) |
+| Hotel Simulator | 259140 | [259140-hotel-simulator.json](./259140-hotel-simulator.json) |
 | Hotel Simulator 2024 | 307567 | [307567-hotel-simulator-2024.json](./307567-hotel-simulator-2024.json) |
 | Hotel Simulator 2026 | 390536 | [390536-hotel-simulator-2026.json](./390536-hotel-simulator-2026.json) |
 | Hotel Sowls | 112385 | [112385-hotel-sowls.json](./112385-hotel-sowls.json) |
