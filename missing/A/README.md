@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute X | 92602 | [92602-absolute-x.json](./92602-absolute-x.json) |
 | Absolute: Asse raus! | 92288 | [92288-absolute-asse-raus.json](./92288-absolute-asse-raus.json) |
 | Absolute: Blazing Infinity | 78616 | [78616-absolute-blazing-infinity.json](./78616-absolute-blazing-infinity.json) |
+| Absolutely Killed | 262547 | [262547-absolutely-killed.json](./262547-absolutely-killed.json) |
 | Absolutely Nothing Good | 414420 | [414420-absolutely-nothing-good.json](./414420-absolutely-nothing-good.json) |
 | Absolutely Perfect Specimen | 257098 | [257098-absolutely-perfect-specimen.json](./257098-absolutely-perfect-specimen.json) |
 | Absolution of the Dead | 345661 | [345661-absolution-of-the-dead.json](./345661-absolution-of-the-dead.json) |
@@ -6197,6 +6198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archetype Arcadia | 155082 | [155082-archetype-arcadia.json](./155082-archetype-arcadia.json) |
 | Archetypes: The Rite of Passage | 211439 | [211439-archetypes-the-rite-of-passage.json](./211439-archetypes-the-rite-of-passage.json) |
 | ArcheWorld | 217002 | [217002-archeworld.json](./217002-archeworld.json) |
+| Archi-Tek | 262551 | [262551-archi-tek.json](./262551-archi-tek.json) |
 | Archibald 2 | 116985 | [116985-archibald-2.json](./116985-archibald-2.json) |
 | Archibald's Adventures | 33046 | [33046-archibalds-adventures.json](./33046-archibalds-adventures.json) |
 | Archie: Riverdale Rescue | 186060 | [186060-archie-riverdale-rescue.json](./186060-archie-riverdale-rescue.json) |
