@@ -1921,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scruzzleword | 21582 | [21582-scruzzleword.json](./21582-scruzzleword.json) |
 | SCS deOrbit | 36050 | [36050-scs-deorbit.json](./36050-scs-deorbit.json) |
 | Scuba Bear | 178678 | [178678-scuba-bear.json](./178678-scuba-bear.json) |
+| Scuba Brick | 247073 | [247073-scuba-brick.json](./247073-scuba-brick.json) |
 | Scuba Diver | 40744 | [40744-scuba-diver.json](./40744-scuba-diver.json) |
 | Scuba Diver | 40766 | [40766-scuba-diver.json](./40766-scuba-diver.json) |
 | Scuba Kidz | 92069 | [92069-scuba-kidz.json](./92069-scuba-kidz.json) |
@@ -7151,6 +7152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Kid's: Gameclub | 124050 | [124050-smart-kids-gameclub.json](./124050-smart-kids-gameclub.json) |
 | Smart Kid's: Party Fun Pack | 124059 | [124059-smart-kids-party-fun-pack.json](./124059-smart-kids-party-fun-pack.json) |
 | Smart Moves Bundle | 218459 | [218459-smart-moves-bundle.json](./218459-smart-moves-bundle.json) |
+| Smart Porter | 247070 | [247070-smart-porter.json](./247070-smart-porter.json) |
 | Smart Preschool Baby Shapes and Colors by Learning Games for Toddlers | 108597 | [108597-smart-preschool-baby-shapes-and-colors-by-learning-games-for-toddlers.json](./108597-smart-preschool-baby-shapes-and-colors-by-learning-games-for-toddlers.json) |
 | Smart Preschool Learning Games for Toddlers by Monkey Puzzle Game | 108596 | [108596-smart-preschool-learning-games-for-toddlers-by-monkey-puzzle-game.json](./108596-smart-preschool-learning-games-for-toddlers-by-monkey-puzzle-game.json) |
 | Smart Puzzles Collection | 140398 | [140398-smart-puzzles-collection.json](./140398-smart-puzzles-collection.json) |
@@ -7988,6 +7990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Rally | 175287 | [175287-soccer-rally.json](./175287-soccer-rally.json) |
 | Soccer Rally | 210079 | [210079-soccer-rally.json](./210079-soccer-rally.json) |
 | Soccer RPG: Become the coach for the national team! | 94259 | [94259-soccer-rpg-become-the-coach-for-the-national-team.json](./94259-soccer-rpg-become-the-coach-for-the-national-team.json) |
+| Soccer Shooter | 247063 | [247063-soccer-shooter.json](./247063-soccer-shooter.json) |
 | Soccer Showdown 3 | 233735 | [233735-soccer-showdown-3.json](./233735-soccer-showdown-3.json) |
 | Soccer Spirits | 60597 | [60597-soccer-spirits.json](./60597-soccer-spirits.json) |
 | Soccer Squad | 291486 | [291486-soccer-squad.json](./291486-soccer-squad.json) |
@@ -10608,6 +10611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Race DX | 342140 | [342140-speed-race-dx.json](./342140-speed-race-dx.json) |
 | Speed Racer | 245401 | [245401-speed-racer.json](./245401-speed-racer.json) |
 | Speed Racer Candy Tracks | 343895 | [343895-speed-racer-candy-tracks.json](./343895-speed-racer-candy-tracks.json) |
+| Speed Racing | 247060 | [247060-speed-racing.json](./247060-speed-racing.json) |
 | Speed Rally | 364721 | [364721-speed-rally.json](./364721-speed-rally.json) |
 | Speed Rider Racing | 100166 | [100166-speed-rider-racing.json](./100166-speed-rider-racing.json) |
 | Speed Rivals: Slot Racing | 348939 | [348939-speed-rivals-slot-racing.json](./348939-speed-rivals-slot-racing.json) |
@@ -14146,6 +14150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Boss | 370180 | [370180-street-boss.json](./370180-street-boss.json) |
 | Street Boy | 220646 | [220646-street-boy.json](./220646-street-boy.json) |
 | Street Cat | 78041 | [78041-street-cat.json](./78041-street-cat.json) |
+| Street Chaser | 247088 | [247088-street-chaser.json](./247088-street-chaser.json) |
 | Street Chef: Food Seller Simulator | 326408 | [326408-street-chef-food-seller-simulator.json](./326408-street-chef-food-seller-simulator.json) |
 | Street Clean TD | 285673 | [285673-street-clean-td.json](./285673-street-clean-td.json) |
 | Street Cleaner 3 | 305382 | [305382-street-cleaner-3.json](./305382-street-cleaner-3.json) |
@@ -15716,6 +15721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Farm | 43290 | [43290-super-farm.json](./43290-super-farm.json) |
 | Super Fight | 132240 | [132240-super-fight.json](./132240-super-fight.json) |
 | Super Fight | 247221 | [247221-super-fight.json](./247221-super-fight.json) |
+| Super Fighter | 247061 | [247061-super-fighter.json](./247061-super-fighter.json) |
 | Super Fighter | 69919 | [69919-super-fighter.json](./69919-super-fighter.json) |
 | Super Fighting Jam | 257686 | [257686-super-fighting-jam.json](./257686-super-fighting-jam.json) |
 | Super Filovirus Sisters! | 185451 | [185451-super-filovirus-sisters.json](./185451-super-filovirus-sisters.json) |
