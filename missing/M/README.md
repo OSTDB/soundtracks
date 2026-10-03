@@ -1540,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maniac | 229814 | [229814-maniac.json](./229814-maniac.json) |
 | Maniac Jackson and the Moonwalking Mindbenders | 93035 | [93035-maniac-jackson-and-the-moonwalking-mindbenders.json](./93035-maniac-jackson-and-the-moonwalking-mindbenders.json) |
 | Maniac Mansion | 307416 | [307416-maniac-mansion.json](./307416-maniac-mansion.json) |
+| Maniac Mansion 4 Blood | 276381 | [276381-maniac-mansion-4-blood.json](./276381-maniac-mansion-4-blood.json) |
 | Maniac Mansion Mania | 279026 | [279026-maniac-mansion-mania.json](./279026-maniac-mansion-mania.json) |
 | Maniac Mole | 66937 | [66937-maniac-mole.json](./66937-maniac-mole.json) |
 | Maniac Outhouse | 301441 | [301441-maniac-outhouse.json](./301441-maniac-outhouse.json) |
@@ -1884,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Forever Galaxy | 139452 | [139452-mario-forever-galaxy.json](./139452-mario-forever-galaxy.json) |
 | Mario Forever Remake | 307667 | [307667-mario-forever-remake.json](./307667-mario-forever-remake.json) |
 | Mario Forever: SMW Edition | 198464 | [198464-mario-forever-smw-edition.json](./198464-mario-forever-smw-edition.json) |
+| Mario Game | 276419 | [276419-mario-game.json](./276419-mario-game.json) |
 | Mario Gives Up | 272818 | [272818-mario-gives-up.json](./272818-mario-gives-up.json) |
 | Mario Goes Skateboarding 64 | 338307 | [338307-mario-goes-skateboarding-64.json](./338307-mario-goes-skateboarding-64.json) |
 | Mario Golf | 135389 | [135389-mario-golf.json](./135389-mario-golf.json) |
@@ -3352,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat Beating: No More Horny | 156640 | [156640-meat-beating-no-more-horny.json](./156640-meat-beating-no-more-horny.json) |
 | Meat Boy | 92427 | [92427-meat-boy.json](./92427-meat-boy.json) |
 | Meat Cleaver Mutilator | 125258 | [125258-meat-cleaver-mutilator.json](./125258-meat-cleaver-mutilator.json) |
+| Meat Factory | 276391 | [276391-meat-factory.json](./276391-meat-factory.json) |
 | Meat Fest | 348370 | [348370-meat-fest.json](./348370-meat-fest.json) |
 | Meat Girl | 325619 | [325619-meat-girl.json](./325619-meat-girl.json) |
 | Meat Gone Wrong | 376038 | [376038-meat-gone-wrong.json](./376038-meat-gone-wrong.json) |
