@@ -2516,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lihue | 163210 | [163210-lihue.json](./163210-lihue.json) |
 | Like A Dino! | 212495 | [212495-like-a-dino.json](./212495-like-a-dino.json) |
 | Like a Dragon Gaiden: The Man Who Erased His Name | 217624 | [217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json](./217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json) |
+| Like a Dragon Gaiden: The Man Who Erased His Name - Deluxe Edition | 275808 | [275808-like-a-dragon-gaiden-the-man-who-erased-his-name-deluxe-edition.json](./275808-like-a-dragon-gaiden-the-man-who-erased-his-name-deluxe-edition.json) |
 | Like a Dragon: Infinite Wealth - Assorted Outfit Bundle | 288216 | [288216-like-a-dragon-infinite-wealth-assorted-outfit-bundle.json](./288216-like-a-dragon-infinite-wealth-assorted-outfit-bundle.json) |
 | Like a Dragon: Infinite Wealth - Master Vacation Bundle | 288217 | [288217-like-a-dragon-infinite-wealth-master-vacation-bundle.json](./288217-like-a-dragon-infinite-wealth-master-vacation-bundle.json) |
 | Like a Dragon: Infinite Wealth - Special Job Set | 288219 | [288219-like-a-dragon-infinite-wealth-special-job-set.json](./288219-like-a-dragon-infinite-wealth-special-job-set.json) |
@@ -3105,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Rock, MI | 203379 | [203379-little-rock-mi.json](./203379-little-rock-mi.json) |
 | Little Rocket Girl | 62250 | [62250-little-rocket-girl.json](./62250-little-rocket-girl.json) |
 | Little Rooms | 341173 | [341173-little-rooms.json](./341173-little-rooms.json) |
+| Little Runmo | 275803 | [275803-little-runmo.json](./275803-little-runmo.json) |
 | Little Scavenger | 267451 | [267451-little-scavenger.json](./267451-little-scavenger.json) |
 | Little Screamies | 319583 | [319583-little-screamies.json](./319583-little-screamies.json) |
 | Little Secret | 395129 | [395129-little-secret.json](./395129-little-secret.json) |
@@ -4123,6 +4125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Yomori | 382283 | [382283-lost-in-yomori.json](./382283-lost-in-yomori.json) |
 | Lost Inca Prophecy 2: The Hollow Island | 273343 | [273343-lost-inca-prophecy-2-the-hollow-island.json](./273343-lost-inca-prophecy-2-the-hollow-island.json) |
 | Lost Industry 2 | 228344 | [228344-lost-industry-2.json](./228344-lost-industry-2.json) |
+| Lost Infinity | 275843 | [275843-lost-infinity.json](./275843-lost-infinity.json) |
 | Lost Inside: Act 1 | 291751 | [291751-lost-inside-act-1.json](./291751-lost-inside-act-1.json) |
 | Lost Island | 288366 | [288366-lost-island.json](./288366-lost-island.json) |
 | Lost Island | 350508 | [350508-lost-island.json](./350508-lost-island.json) |
