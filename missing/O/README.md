@@ -1659,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oolite | 47274 | [47274-oolite.json](./47274-oolite.json) |
 | Oolo | 345036 | [345036-oolo.json](./345036-oolo.json) |
 | Oom | 252765 | [252765-oom.json](./252765-oom.json) |
+| Oome | 252276 | [252276-oome.json](./252276-oome.json) |
 | Oompas Outrageous Rush | 373556 | [373556-oompas-outrageous-rush.json](./373556-oompas-outrageous-rush.json) |
 | Oona the Druid's Path | 143031 | [143031-oona-the-druids-path.json](./143031-oona-the-druids-path.json) |
 | Oonga Boonga | 389666 | [389666-oonga-boonga.json](./389666-oonga-boonga.json) |
