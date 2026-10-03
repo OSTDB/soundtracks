@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid of the Dead | 284495 | [284495-maid-of-the-dead.json](./284495-maid-of-the-dead.json) |
 | Maid of Venia | 374803 | [374803-maid-of-venia.json](./374803-maid-of-venia.json) |
 | Maid PizzaHub | 201252 | [201252-maid-pizzahub.json](./201252-maid-pizzahub.json) |
+| Maid Slaves & Golden Dungeon | 260328 | [260328-maid-slaves-and-golden-dungeon.json](./260328-maid-slaves-and-golden-dungeon.json) |
 | Maid Survivors: Little Angels | 298032 | [298032-maid-survivors-little-angels.json](./298032-maid-survivors-little-angels.json) |
 | Maid to Maze: Anata no Soba ni | 77919 | [77919-maid-to-maze-anata-no-soba-ni.json](./77919-maid-to-maze-anata-no-soba-ni.json) |
 | Maid-Sama Cafe: Anime Boys Services in Cute Outfits | 396434 | [396434-maid-sama-cafe-anime-boys-services-in-cute-outfits.json](./396434-maid-sama-cafe-anime-boys-services-in-cute-outfits.json) |
@@ -5835,6 +5836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milf Toys 3 | 208587 | [208587-milf-toys-3.json](./208587-milf-toys-3.json) |
 | MILFs in Paris | 366234 | [366234-milfs-in-paris.json](./366234-milfs-in-paris.json) |
 | Milfvania Ep. 1 | 295234 | [295234-milfvania-ep-1.json](./295234-milfvania-ep-1.json) |
+| Milfvania Ep. 3 | 260323 | [260323-milfvania-ep-3.json](./260323-milfvania-ep-3.json) |
 | Milfy City | 239289 | [239289-milfy-city.json](./239289-milfy-city.json) |
 | Milfy City: Final Edition | 265575 | [265575-milfy-city-final-edition.json](./265575-milfy-city-final-edition.json) |
 | Milgram | 89213 | [89213-milgram.json](./89213-milgram.json) |
