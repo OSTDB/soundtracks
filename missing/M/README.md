@@ -8370,6 +8370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montezuma's Revenge: 8-Bit Edition | 234623 | [234623-montezumas-revenge-8-bit-edition.json](./234623-montezumas-revenge-8-bit-edition.json) |
 | Montezuma's Revenge: The 40th Anniversary Edition | 330130 | [330130-montezumas-revenge-the-40th-anniversary-edition.json](./330130-montezumas-revenge-the-40th-anniversary-edition.json) |
 | Montgolfier Brothers' Test Flight | 413027 | [413027-montgolfier-brothers-test-flight.json](./413027-montgolfier-brothers-test-flight.json) |
+| Montgomery Fox and the Case of the Diamond Necklace | 226322 | [226322-montgomery-fox-and-the-case-of-the-diamond-necklace.json](./226322-montgomery-fox-and-the-case-of-the-diamond-necklace.json) |
 | Montgomery Fox and the Revenge of Victor Draven | 226321 | [226321-montgomery-fox-and-the-revenge-of-victor-draven.json](./226321-montgomery-fox-and-the-revenge-of-victor-draven.json) |
 | Monthly Dystopia | 232397 | [232397-monthly-dystopia.json](./232397-monthly-dystopia.json) |
 | Monti: The Hidden Secret | 278989 | [278989-monti-the-hidden-secret.json](./278989-monti-the-hidden-secret.json) |
