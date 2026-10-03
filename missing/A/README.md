@@ -3292,6 +3292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Hit All Her: Western City | 193230 | [193230-all-hit-all-her-western-city.json](./193230-all-hit-all-her-western-city.json) |
 | All Humans Must Die! | 183557 | [183557-all-humans-must-die.json](./183557-all-humans-must-die.json) |
 | All I want for Christmas are Subgames: Collector's Edition | 416871 | [416871-all-i-want-for-christmas-are-subgames-collectors-edition.json](./416871-all-i-want-for-christmas-are-subgames-collectors-edition.json) |
+| All Idleness and Ephemera | 248783 | [248783-all-idleness-and-ephemera.json](./248783-all-idleness-and-ephemera.json) |
 | All in a Day's Work | 58865 | [58865-all-in-a-days-work.json](./58865-all-in-a-days-work.json) |
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
 | All In Everyday | 326091 | [326091-all-in-everyday.json](./326091-all-in-everyday.json) |
