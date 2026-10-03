@@ -6057,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane | 271797 | [271797-arcane.json](./271797-arcane.json) |
 | Arcane | 31163 | [31163-arcane.json](./31163-arcane.json) |
 | Arcane Angler | 400238 | [400238-arcane-angler.json](./400238-arcane-angler.json) |
+| Arcane Arena | 263102 | [263102-arcane-arena.json](./263102-arcane-arena.json) |
 | Arcane Array Arena | 296524 | [296524-arcane-array-arena.json](./296524-arcane-array-arena.json) |
 | Arcane Arts Academy 2 | 217989 | [217989-arcane-arts-academy-2.json](./217989-arcane-arts-academy-2.json) |
 | Arcane Arts: Sorcerer's Quest | 385316 | [385316-arcane-arts-sorcerers-quest.json](./385316-arcane-arts-sorcerers-quest.json) |
