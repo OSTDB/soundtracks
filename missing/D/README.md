@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Color | 289543 | [289543-dark-color.json](./289543-dark-color.json) |
 | Dark Colors | 190235 | [190235-dark-colors.json](./190235-dark-colors.json) |
 | Dark Communion | 314283 | [314283-dark-communion.json](./314283-dark-communion.json) |
+| Dark Conflict | 266992 | [266992-dark-conflict.json](./266992-dark-conflict.json) |
 | Dark Confrontation Chapter 1 | 337679 | [337679-dark-confrontation-chapter-1.json](./337679-dark-confrontation-chapter-1.json) |
 | Dark Continent | 369150 | [369150-dark-continent.json](./369150-dark-continent.json) |
 | Dark Continent: Mist | 304167 | [304167-dark-continent-mist.json](./304167-dark-continent-mist.json) |
@@ -8199,6 +8200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive to Hell | 36135 | [36135-drive-to-hell.json](./36135-drive-to-hell.json) |
 | Drive to The Top | 411690 | [411690-drive-to-the-top.json](./411690-drive-to-the-top.json) |
 | Drive Together | 384799 | [384799-drive-together.json](./384799-drive-together.json) |
+| Drive Up | 266997 | [266997-drive-up.json](./266997-drive-up.json) |
 | Drive West Coast | 224496 | [224496-drive-west-coast.json](./224496-drive-west-coast.json) |
 | Drive Your Car | 199629 | [199629-drive-your-car.json](./199629-drive-your-car.json) |
 | Drive Zone Online | 269096 | [269096-drive-zone-online.json](./269096-drive-zone-online.json) |
