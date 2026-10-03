@@ -3345,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Knight | 113170 | [113170-the-black-knight.json](./113170-the-black-knight.json) |
 | The Black Knight | 249146 | [249146-the-black-knight.json](./249146-the-black-knight.json) |
 | The Black Knight | 371875 | [371875-the-black-knight.json](./371875-the-black-knight.json) |
+| The Black Knight: Halloween | 274639 | [274639-the-black-knight-halloween.json](./274639-the-black-knight-halloween.json) |
 | The Black Lamb | 329937 | [329937-the-black-lamb.json](./329937-the-black-lamb.json) |
 | The Black Masses | 113833 | [113833-the-black-masses.json](./113833-the-black-masses.json) |
 | The Black Onyx II: Search for the Fire Crystal | 25861 | [25861-the-black-onyx-ii-search-for-the-fire-crystal.json](./25861-the-black-onyx-ii-search-for-the-fire-crystal.json) |
