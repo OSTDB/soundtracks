@@ -1494,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Blast | 108503 | [108503-fast-blast.json](./108503-fast-blast.json) |
 | Fast Break | 12091 | [12091-fast-break.json](./12091-fast-break.json) |
 | Fast Bubble | 28094 | [28094-fast-bubble.json](./28094-fast-bubble.json) |
+| Fast Burger Simulator | 230411 | [230411-fast-burger-simulator.json](./230411-fast-burger-simulator.json) |
 | Fast Cars Small Islands | 284912 | [284912-fast-cars-small-islands.json](./284912-fast-cars-small-islands.json) |
 | Fast Delivery | 192672 | [192672-fast-delivery.json](./192672-fast-delivery.json) |
 | Fast Diamonds | 260770 | [260770-fast-diamonds.json](./260770-fast-diamonds.json) |
@@ -6438,6 +6439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frowning Vermin | 383656 | [383656-frowning-vermin.json](./383656-frowning-vermin.json) |
 | Froyo Taxi | 271171 | [271171-froyo-taxi.json](./271171-froyo-taxi.json) |
 | Frozen | 206151 | [206151-frozen.json](./206151-frozen.json) |
+| Frozen | 230335 | [230335-frozen.json](./230335-frozen.json) |
 | Frozen | 230377 | [230377-frozen.json](./230377-frozen.json) |
 | Frozen Bubble | 61702 | [61702-frozen-bubble.json](./61702-frozen-bubble.json) |
 | Frozen Cortex | 16521 | [16521-frozen-cortex.json](./16521-frozen-cortex.json) |
