@@ -3531,6 +3531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiky Poky | 221184 | [221184-chiky-poky.json](./221184-chiky-poky.json) |
 | Chikyuu Bouei Shoujo Iko-chan: UFO Daisakusen | 58781 | [58781-chikyuu-bouei-shoujo-iko-chan-ufo-daisakusen.json](./58781-chikyuu-bouei-shoujo-iko-chan-ufo-daisakusen.json) |
 | Chikyuu Kaihou Gun ZAS | 91883 | [91883-chikyuu-kaihou-gun-zas.json](./91883-chikyuu-kaihou-gun-zas.json) |
+| Chikyuu no Arukikata DS: Shanghai, Hangzhou, Suzhou '07-'08 | 269750 | [269750-chikyuu-no-arukikata-ds-shanghai-hangzhou-suzhou-07-08.json](./269750-chikyuu-no-arukikata-ds-shanghai-hangzhou-suzhou-07-08.json) |
 | CHiLD | 70908 | [70908-child.json](./70908-child.json) |
 | Child Arms | 157053 | [157053-child-arms.json](./157053-child-arms.json) |
 | Child of Abyss | 167293 | [167293-child-of-abyss.json](./167293-child-of-abyss.json) |
@@ -3736,6 +3737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choco-Ken no Dekitate Sweets Wagon | 287630 | [287630-choco-ken-no-dekitate-sweets-wagon.json](./287630-choco-ken-no-dekitate-sweets-wagon.json) |
 | Choco-Ken no Omise: Patisserie & Sweets Shop Game | 287628 | [287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json](./287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json) |
 | Chocobo Collection | 71219 | [71219-chocobo-collection.json](./71219-chocobo-collection.json) |
+| Chocobo Kwehst | 269775 | [269775-chocobo-kwehst.json](./269775-chocobo-kwehst.json) |
 | Chocobo Land: A Game of Dice | 49559 | [49559-chocobo-land-a-game-of-dice.json](./49559-chocobo-land-a-game-of-dice.json) |
 | Chocobo Racing | 22896 | [22896-chocobo-racing.json](./22896-chocobo-racing.json) |
 | Chocobo's Mystery Dungeon Every Buddy! | 109465 | [109465-chocobos-mystery-dungeon-every-buddy.json](./109465-chocobos-mystery-dungeon-every-buddy.json) |
@@ -4578,6 +4580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Thugs | 154025 | [154025-city-of-thugs.json](./154025-city-of-thugs.json) |
 | City of Villains | 20457 | [20457-city-of-villains.json](./20457-city-of-villains.json) |
 | City of Voices | 327414 | [327414-city-of-voices.json](./327414-city-of-voices.json) |
+| City Panic! | 269756 | [269756-city-panic.json](./269756-city-panic.json) |
 | City Parking Driver: Draw The Path Simulator | 271839 | [271839-city-parking-driver-draw-the-path-simulator.json](./271839-city-parking-driver-draw-the-path-simulator.json) |
 | City Patrol: Police | 97925 | [97925-city-patrol-police.json](./97925-city-patrol-police.json) |
 | City Racing | 159173 | [159173-city-racing.json](./159173-city-racing.json) |
@@ -7456,6 +7459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmonuts | 86200 | [86200-cosmonuts.json](./86200-cosmonuts.json) |
 | Cosmophage | 148552 | [148552-cosmophage.json](./148552-cosmophage.json) |
 | CosmoPirates | 258553 | [258553-cosmopirates.json](./258553-cosmopirates.json) |
+| Cosmopolitan | 269749 | [269749-cosmopolitan.json](./269749-cosmopolitan.json) |
 | Cosmorbit | 384537 | [384537-cosmorbit.json](./384537-cosmorbit.json) |
 | Cosmos | 127861 | [127861-cosmos.json](./127861-cosmos.json) |
 | Cosmos | 76611 | [76611-cosmos.json](./76611-cosmos.json) |
@@ -8155,6 +8159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken: Shooter Edition | 143060 | [143060-crazy-chicken-shooter-edition.json](./143060-crazy-chicken-shooter-edition.json) |
 | Crazy Christmas | 101762 | [101762-crazy-christmas.json](./101762-crazy-christmas.json) |
 | Crazy Christmas | 310552 | [310552-crazy-christmas.json](./310552-crazy-christmas.json) |
+| Crazy Circus | 269748 | [269748-crazy-circus.json](./269748-crazy-circus.json) |
 | Crazy Climber | 347695 | [347695-crazy-climber.json](./347695-crazy-climber.json) |
 | Crazy Climber | 4611 | [4611-crazy-climber.json](./4611-crazy-climber.json) |
 | Crazy Climber 2 | 39808 | [39808-crazy-climber-2.json](./39808-crazy-climber-2.json) |
