@@ -2203,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkay's Topsy-Turvey World | 57382 | [57382-inkays-topsy-turvey-world.json](./57382-inkays-topsy-turvey-world.json) |
 | Inkblood | 380440 | [380440-inkblood.json](./380440-inkblood.json) |
 | Inken | 394555 | [394555-inken.json](./394555-inken.json) |
+| Inkighter | 244827 | [244827-inkighter.json](./244827-inkighter.json) |
 | Inkjet Apocalypse | 350036 | [350036-inkjet-apocalypse.json](./350036-inkjet-apocalypse.json) |
 | Inko Joshikosei | 97692 | [97692-inko-joshikosei.json](./97692-inko-joshikosei.json) |
 | Inkoid | 390615 | [390615-inkoid.json](./390615-inkoid.json) |
