@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacmena | 391789 | [391789-jacmena.json](./391789-jacmena.json) |
 | Jacob | 33314 | [33314-jacob.json](./33314-jacob.json) |
 | Jacob Jazz's Tamarindo's Freaking Dinner | 378811 | [378811-jacob-jazzs-tamarindos-freaking-dinner.json](./378811-jacob-jazzs-tamarindos-freaking-dinner.json) |
+| Jacob Jazz's The Bus | 250503 | [250503-jacob-jazzs-the-bus.json](./250503-jacob-jazzs-the-bus.json) |
 | Jacob Jones and the Bigfoot Mystery: Episode 2 | 12378 | [12378-jacob-jones-and-the-bigfoot-mystery-episode-2.json](./12378-jacob-jones-and-the-bigfoot-mystery-episode-2.json) |
 | Jacob Jones and the Bigfoot Mystery: Episode 2 | 36289 | [36289-jacob-jones-and-the-bigfoot-mystery-episode-2.json](./36289-jacob-jones-and-the-bigfoot-mystery-episode-2.json) |
 | Jacob Jones and the Bigfoot Mystery: Episode One - A Bump in the Night | 84153 | [84153-jacob-jones-and-the-bigfoot-mystery-episode-one-a-bump-in-the-night.json](./84153-jacob-jones-and-the-bigfoot-mystery-episode-one-a-bump-in-the-night.json) |
@@ -819,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JigDoku | 91734 | [91734-jigdoku.json](./91734-jigdoku.json) |
 | Jigen Bakudan Kaijo | 349942 | [349942-jigen-bakudan-kaijo.json](./349942-jigen-bakudan-kaijo.json) |
 | Jigenro | 402443 | [402443-jigenro.json](./402443-jigenro.json) |
+| Jiggly Zone | 250524 | [250524-jiggly-zone.json](./250524-jiggly-zone.json) |
 | Jiggraph | 311068 | [311068-jiggraph.json](./311068-jiggraph.json) |
 | Jigoku Gokurakumaru | 215128 | [215128-jigoku-gokurakumaru.json](./215128-jigoku-gokurakumaru.json) |
 | Jigoku Hell | 178025 | [178025-jigoku-hell.json](./178025-jigoku-hell.json) |
