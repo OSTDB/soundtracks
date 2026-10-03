@@ -6235,6 +6235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froojarspootz! The Cleaning Monster | 387513 | [387513-froojarspootz-the-cleaning-monster.json](./387513-froojarspootz-the-cleaning-monster.json) |
 | Froot Basket Valentine | 179720 | [179720-froot-basket-valentine.json](./179720-froot-basket-valentine.json) |
 | Frooty Loops | 364695 | [364695-frooty-loops.json](./364695-frooty-loops.json) |
+| Frost & Flame: King of Avalon | 271382 | [271382-frost-and-flame-king-of-avalon.json](./271382-frost-and-flame-king-of-avalon.json) |
 | Frost Bite | 317454 | [317454-frost-bite.json](./317454-frost-bite.json) |
 | Frost Byte | 12108 | [12108-frost-byte.json](./12108-frost-byte.json) |
 | Frost Dragon in Adventure Land | 188033 | [188033-frost-dragon-in-adventure-land.json](./188033-frost-dragon-in-adventure-land.json) |
