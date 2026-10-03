@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walled City Sunset | 326601 | [326601-walled-city-sunset.json](./326601-walled-city-sunset.json) |
 | Walled Haven | 382195 | [382195-walled-haven.json](./382195-walled-haven.json) |
 | Wallenda | 111627 | [111627-wallenda.json](./111627-wallenda.json) |
+| Wallkill | 275819 | [275819-wallkill.json](./275819-wallkill.json) |
 | Wallrun Dot Love | 185068 | [185068-wallrun-dot-love.json](./185068-wallrun-dot-love.json) |
 | Wallrunners | 95209 | [95209-wallrunners.json](./95209-wallrunners.json) |
 | Walls | 275006 | [275006-walls.json](./275006-walls.json) |
@@ -747,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Eternal Crusade - Squadron Edition | 53901 | [53901-warhammer-40-000-eternal-crusade-squadron-edition.json](./53901-warhammer-40-000-eternal-crusade-squadron-edition.json) |
 | Warhammer 40,000: Fire Warrior | 9550 | [9550-warhammer-40-000-fire-warrior.json](./9550-warhammer-40-000-fire-warrior.json) |
 | Warhammer 40,000: Freeblade | 34420 | [34420-warhammer-40-000-freeblade.json](./34420-warhammer-40-000-freeblade.json) |
+| Warhammer 40,000: Gladius - Drukhari | 275818 | [275818-warhammer-40-000-gladius-drukhari.json](./275818-warhammer-40-000-gladius-drukhari.json) |
 | Warhammer 40,000: Gladius - Relics of War | 76410 | [76410-warhammer-40-000-gladius-relics-of-war.json](./76410-warhammer-40-000-gladius-relics-of-war.json) |
 | Warhammer 40,000: Gladius - Relics of War: Adepta Sororitas | 230812 | [230812-warhammer-40-000-gladius-relics-of-war-adepta-sororitas.json](./230812-warhammer-40-000-gladius-relics-of-war-adepta-sororitas.json) |
 | Warhammer 40,000: Gladius - Relics of War: Adeptus Mechanicus | 186891 | [186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json](./186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json) |
@@ -1505,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapon Meister | 282220 | [282220-weapon-meister.json](./282220-weapon-meister.json) |
 | Weapon Party | 277977 | [277977-weapon-party.json](./277977-weapon-party.json) |
 | Weapon Rearing | 338389 | [338389-weapon-rearing.json](./338389-weapon-rearing.json) |
+| Weapon Shop Decillionaire | 275817 | [275817-weapon-shop-decillionaire.json](./275817-weapon-shop-decillionaire.json) |
 | WeaponGo | 104095 | [104095-weapongo.json](./104095-weapongo.json) |
 | WeaponizedChess | 34481 | [34481-weaponizedchess.json](./34481-weaponizedchess.json) |
 | Weaponmancer | 277285 | [277285-weaponmancer.json](./277285-weaponmancer.json) |
@@ -2092,6 +2095,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where are You? | 292067 | [292067-where-are-you.json](./292067-where-are-you.json) |
 | Where Birds Sleep | 136451 | [136451-where-birds-sleep.json](./136451-where-birds-sleep.json) |
 | Where Cards Fall | 27271 | [27271-where-cards-fall.json](./27271-where-cards-fall.json) |
+| Where Cats? | 275815 | [275815-where-cats.json](./275815-where-cats.json) |
+| Where Christmas Elves? | 275816 | [275816-where-christmas-elves.json](./275816-where-christmas-elves.json) |
 | Where Control Ends | 405564 | [405564-where-control-ends.json](./405564-where-control-ends.json) |
 | Where Did I Put It? | 223472 | [223472-where-did-i-put-it.json](./223472-where-did-i-put-it.json) |
 | Where Do I Fit? | 177489 | [177489-where-do-i-fit.json](./177489-where-do-i-fit.json) |
@@ -3675,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood Block Puzzle Game | 98830 | [98830-wood-block-puzzle-game.json](./98830-wood-block-puzzle-game.json) |
 | Wood Cuter | 201800 | [201800-wood-cuter.json](./201800-wood-cuter.json) |
 | Wood for the Trees | 176958 | [176958-wood-for-the-trees.json](./176958-wood-for-the-trees.json) |
+| Wood Guy | 275814 | [275814-wood-guy.json](./275814-wood-guy.json) |
 | Wood Nuts & Bolts Puzzle | 331341 | [331341-wood-nuts-and-bolts-puzzle.json](./331341-wood-nuts-and-bolts-puzzle.json) |
 | Wood Puzzle | 208942 | [208942-wood-puzzle.json](./208942-wood-puzzle.json) |
 | Wood Walker | 395874 | [395874-wood-walker.json](./395874-wood-walker.json) |
@@ -3733,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WooLoop: Halloween Pack | 272238 | [272238-wooloop-halloween-pack.json](./272238-wooloop-halloween-pack.json) |
 | WooLoop: Industry Pack | 266315 | [266315-wooloop-industry-pack.json](./266315-wooloop-industry-pack.json) |
 | WooLoop: Magic Pack | 319347 | [319347-wooloop-magic-pack.json](./319347-wooloop-magic-pack.json) |
+| WooLoop: Nature Pack | 275813 | [275813-wooloop-nature-pack.json](./275813-wooloop-nature-pack.json) |
 | WooLoop: Science Pack | 288918 | [288918-wooloop-science-pack.json](./288918-wooloop-science-pack.json) |
 | WooLoop: Video Games Pack | 301829 | [301829-wooloop-video-games-pack.json](./301829-wooloop-video-games-pack.json) |
 | Wooly Blast: Adorable Riddles | 101517 | [101517-wooly-blast-adorable-riddles.json](./101517-wooly-blast-adorable-riddles.json) |
