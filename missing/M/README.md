@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Made in Abyss: Binary Star Falling into Darkness | 146711 | [146711-made-in-abyss-binary-star-falling-into-darkness.json](./146711-made-in-abyss-binary-star-falling-into-darkness.json) |
 | Made in Abyss: Binary Star Falling into Darkness - Collector's Edition | 150144 | [150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json](./150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json) |
 | Made in Melostead | 270092 | [270092-made-in-melostead.json](./270092-made-in-melostead.json) |
+| Made in Ohio | 236880 | [236880-made-in-ohio.json](./236880-made-in-ohio.json) |
 | Made in Physics | 184487 | [184487-made-in-physics.json](./184487-made-in-physics.json) |
 | Made in Wired | 271697 | [271697-made-in-wired.json](./271697-made-in-wired.json) |
 | Made Marion | 148518 | [148518-made-marion.json](./148518-made-marion.json) |
@@ -3674,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Archer Simulator | 348240 | [348240-medieval-archer-simulator.json](./348240-medieval-archer-simulator.json) |
 | Medieval Battlefields: Black Edition | 33081 | [33081-medieval-battlefields-black-edition.json](./33081-medieval-battlefields-black-edition.json) |
 | Medieval Battlegrounds | 188669 | [188669-medieval-battlegrounds.json](./188669-medieval-battlegrounds.json) |
+| Medieval Builders: Strongholds & Castles | 236908 | [236908-medieval-builders-strongholds-and-castles.json](./236908-medieval-builders-strongholds-and-castles.json) |
 | Medieval Castle Siege Defense vs. Invaders | 406083 | [406083-medieval-castle-siege-defense-vs-invaders.json](./406083-medieval-castle-siege-defense-vs-invaders.json) |
 | Medieval Coin Hunt | 368540 | [368540-medieval-coin-hunt.json](./368540-medieval-coin-hunt.json) |
 | Medieval Combat: Age of Glory | 216354 | [216354-medieval-combat-age-of-glory.json](./216354-medieval-combat-age-of-glory.json) |
@@ -6194,6 +6196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine | 311988 | [311988-mine.json](./311988-mine.json) |
 | Mine | 385265 | [385265-mine.json](./385265-mine.json) |
 | Mine & Ship Bundle: Gold Mining & Ship Graveyard Simulator 2 | 340950 | [340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json](./340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json) |
+| Mine Battles | 236971 | [236971-mine-battles.json](./236971-mine-battles.json) |
 | Mine Blast | 96758 | [96758-mine-blast.json](./96758-mine-blast.json) |
 | Mine Bombers | 14449 | [14449-mine-bombers.json](./14449-mine-bombers.json) |
 | Mine Boss Simulator | 212892 | [212892-mine-boss-simulator.json](./212892-mine-boss-simulator.json) |
