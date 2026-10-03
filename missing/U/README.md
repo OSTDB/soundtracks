@@ -1009,6 +1009,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld Tycoon | 348764 | [348764-underworld-tycoon.json](./348764-underworld-tycoon.json) |
 | Underworld Unfinished Business 1: Recruiting Demon Smalls | 252207 | [252207-underworld-unfinished-business-1-recruiting-demon-smalls.json](./252207-underworld-unfinished-business-1-recruiting-demon-smalls.json) |
 | Underworld Unfinished Business 2: Ghost Train at Castle Orr | 252218 | [252218-underworld-unfinished-business-2-ghost-train-at-castle-orr.json](./252218-underworld-unfinished-business-2-ghost-train-at-castle-orr.json) |
+| Underworld Unfinished Business 3: The Plain of Jars | 252293 | [252293-underworld-unfinished-business-3-the-plain-of-jars.json](./252293-underworld-unfinished-business-3-the-plain-of-jars.json) |
+| Underworld Unfinished Business 4: Taking Care of Business | 252294 | [252294-underworld-unfinished-business-4-taking-care-of-business.json](./252294-underworld-unfinished-business-4-taking-care-of-business.json) |
 | Underworld: Allied Expedition | 358515 | [358515-underworld-allied-expedition.json](./358515-underworld-allied-expedition.json) |
 | Underwurlde | 14588 | [14588-underwurlde.json](./14588-underwurlde.json) |
 | Undetected | 193334 | [193334-undetected.json](./193334-undetected.json) |
