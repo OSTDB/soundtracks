@@ -1631,6 +1631,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: A Lullaby for the Dark Chapter | 76224 | [76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json](./76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json) |
 | Dead by Daylight: A Nightmare on Elm Street | 76226 | [76226-dead-by-daylight-a-nightmare-on-elm-street.json](./76226-dead-by-daylight-a-nightmare-on-elm-street.json) |
 | Dead by Daylight: All-Kill Chapter | 154346 | [154346-dead-by-daylight-all-kill-chapter.json](./154346-dead-by-daylight-all-kill-chapter.json) |
+| Dead by Daylight: Attack on Titan - Armored Pack | 254687 | [254687-dead-by-daylight-attack-on-titan-armored-pack.json](./254687-dead-by-daylight-attack-on-titan-armored-pack.json) |
+| Dead by Daylight: Attack on Titan - Warhammer Pack | 254686 | [254686-dead-by-daylight-attack-on-titan-warhammer-pack.json](./254686-dead-by-daylight-attack-on-titan-warhammer-pack.json) |
 | Dead by Daylight: Castlevania Chapter | 300809 | [300809-dead-by-daylight-castlevania-chapter.json](./300809-dead-by-daylight-castlevania-chapter.json) |
 | Dead by Daylight: Chucky Chapter | 278424 | [278424-dead-by-daylight-chucky-chapter.json](./278424-dead-by-daylight-chucky-chapter.json) |
 | Dead by Daylight: Descend Beyond Chapter | 154345 | [154345-dead-by-daylight-descend-beyond-chapter.json](./154345-dead-by-daylight-descend-beyond-chapter.json) |
