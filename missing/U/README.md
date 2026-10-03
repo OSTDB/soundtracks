@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underwater Diving | 224547 | [224547-underwater-diving.json](./224547-underwater-diving.json) |
 | Underwater Life | 148514 | [148514-underwater-life.json](./148514-underwater-life.json) |
 | Underwater Life Bundle | 273005 | [273005-underwater-life-bundle.json](./273005-underwater-life-bundle.json) |
+| Underwater World: DLC Pack | 263150 | [263150-underwater-world-dlc-pack.json](./263150-underwater-world-dlc-pack.json) |
 | Underwater: Stay Alive | 114194 | [114194-underwater-stay-alive.json](./114194-underwater-stay-alive.json) |
 | Underwheels | 355073 | [355073-underwheels.json](./355073-underwheels.json) |
 | Underworld | 174107 | [174107-underworld.json](./174107-underworld.json) |
@@ -1312,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlock the King 3 | 132700 | [132700-unlock-the-king-3.json](./132700-unlock-the-king-3.json) |
 | Unlog | 370705 | [370705-unlog.json](./370705-unlog.json) |
 | Unloop | 232015 | [232015-unloop.json](./232015-unloop.json) |
+| Unloop | 263149 | [263149-unloop.json](./263149-unloop.json) |
 | UnLoop | 311147 | [311147-unloop.json](./311147-unloop.json) |
 | Unlord | 157057 | [157057-unlord.json](./157057-unlord.json) |
 | Unloved | 228345 | [228345-unloved.json](./228345-unloved.json) |
