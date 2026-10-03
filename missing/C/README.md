@@ -2375,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman Warriors | 29250 | [29250-caveman-warriors.json](./29250-caveman-warriors.json) |
 | Caveman Zac | 388324 | [388324-caveman-zac.json](./388324-caveman-zac.json) |
 | Cavemen Tales | 341618 | [341618-cavemen-tales.json](./341618-cavemen-tales.json) |
+| Cavemen Tales: Collector's Edition | 260294 | [260294-cavemen-tales-collectors-edition.json](./260294-cavemen-tales-collectors-edition.json) |
 | Cavemen vs. Aliens | 91412 | [91412-cavemen-vs-aliens.json](./91412-cavemen-vs-aliens.json) |
 | Cavequest | 2876 | [2876-cavequest.json](./2876-cavequest.json) |
 | Cavern | 272856 | [272856-cavern.json](./272856-cavern.json) |
@@ -3304,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Royale | 330918 | [330918-chess-royale.json](./330918-chess-royale.json) |
 | Chess Rush | 122963 | [122963-chess-rush.json](./122963-chess-rush.json) |
 | Chess Twist | 284967 | [284967-chess-twist.json](./284967-chess-twist.json) |
+| Chess Undress | 260338 | [260338-chess-undress.json](./260338-chess-undress.json) |
 | Chess Universe | 357416 | [357416-chess-universe.json](./357416-chess-universe.json) |
 | Chess vs. Chat | 203930 | [203930-chess-vs-chat.json](./203930-chess-vs-chat.json) |
 | Chess With Friends | 79921 | [79921-chess-with-friends.json](./79921-chess-with-friends.json) |
@@ -4492,6 +4494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizens Unite!: Earth x Space | 139994 | [139994-citizens-unite-earth-x-space.json](./139994-citizens-unite-earth-x-space.json) |
 | Citres | 274515 | [274515-citres.json](./274515-citres.json) |
 | Citri Plays Noirwood | 220635 | [220635-citri-plays-noirwood.json](./220635-citri-plays-noirwood.json) |
+| Citron World Forward: Zero | 260330 | [260330-citron-world-forward-zero.json](./260330-citron-world-forward-zero.json) |
 | Citrus | 104440 | [104440-citrus.json](./104440-citrus.json) |
 | Citrus Rampage | 189073 | [189073-citrus-rampage.json](./189073-citrus-rampage.json) |
 | CitrusBall | 355162 | [355162-citrusball.json](./355162-citrusball.json) |
