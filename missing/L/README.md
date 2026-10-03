@@ -4388,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Archer | 227261 | [227261-love-archer.json](./227261-love-archer.json) |
 | Love at Elevation | 112040 | [112040-love-at-elevation.json](./112040-love-at-elevation.json) |
 | Love at First Sight | 35697 | [35697-love-at-first-sight.json](./35697-love-at-first-sight.json) |
+| Love At First Squeak | 251068 | [251068-love-at-first-squeak.json](./251068-love-at-first-squeak.json) |
 | Love Bakudan | 152390 | [152390-love-bakudan.json](./152390-love-bakudan.json) |
 | Love Ball | 101111 | [101111-love-ball.json](./101111-love-ball.json) |
 | Love Bites | 254451 | [254451-love-bites.json](./254451-love-bites.json) |
