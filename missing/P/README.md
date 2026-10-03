@@ -3875,6 +3875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of Black Cove: Sink 'Em All | 120210 | [120210-pirates-of-black-cove-sink-em-all.json](./120210-pirates-of-black-cove-sink-em-all.json) |
 | Pirates of Donkey Island | 276321 | [276321-pirates-of-donkey-island.json](./276321-pirates-of-donkey-island.json) |
 | Pirates of First Star | 115668 | [115668-pirates-of-first-star.json](./115668-pirates-of-first-star.json) |
+| Pirates of Rectangular | 258644 | [258644-pirates-of-rectangular.json](./258644-pirates-of-rectangular.json) |
 | Pirates of the Asteroid Belt VR | 116857 | [116857-pirates-of-the-asteroid-belt-vr.json](./116857-pirates-of-the-asteroid-belt-vr.json) |
 | Pirates of the Barbary Coast | 38929 | [38929-pirates-of-the-barbary-coast.json](./38929-pirates-of-the-barbary-coast.json) |
 | Pirates of the Burning Sea | 21283 | [21283-pirates-of-the-burning-sea.json](./21283-pirates-of-the-burning-sea.json) |
@@ -8016,6 +8017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Tachyon | 297793 | [297793-project-tachyon.json](./297793-project-tachyon.json) |
 | Project Tarvotan | 34809 | [34809-project-tarvotan.json](./34809-project-tarvotan.json) |
 | Project Thea | 330350 | [330350-project-thea.json](./330350-project-thea.json) |
+| Project Third Eye | 258603 | [258603-project-third-eye.json](./258603-project-third-eye.json) |
 | Project Three | 343857 | [343857-project-three.json](./343857-project-three.json) |
 | Project Threshold | 404201 | [404201-project-threshold.json](./404201-project-threshold.json) |
 | Project Timi: Sasha's Curse | 204063 | [204063-project-timi-sashas-curse.json](./204063-project-timi-sashas-curse.json) |
@@ -8234,6 +8236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocell | 50152 | [50152-protocell.json](./50152-protocell.json) |
 | Protocol Aftertime | 210751 | [210751-protocol-aftertime.json](./210751-protocol-aftertime.json) |
 | Protocol Bound | 410964 | [410964-protocol-bound.json](./410964-protocol-bound.json) |
+| Protocol Delta | 258648 | [258648-protocol-delta.json](./258648-protocol-delta.json) |
 | Protocol Endfall | 159834 | [159834-protocol-endfall.json](./159834-protocol-endfall.json) |
 | Protocol Last Life | 112369 | [112369-protocol-last-life.json](./112369-protocol-last-life.json) |
 | Protocol Nadir | 367940 | [367940-protocol-nadir.json](./367940-protocol-nadir.json) |
@@ -8827,6 +8830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Push Penguin | 209600 | [209600-push-push-penguin.json](./209600-push-push-penguin.json) |
 | Push Puzzle: Rescue Adventure | 179205 | [179205-push-puzzle-rescue-adventure.json](./179205-push-puzzle-rescue-adventure.json) |
 | Push Stack | 146348 | [146348-push-stack.json](./146348-push-stack.json) |
+| Push That Cat!! | 258642 | [258642-push-that-cat.json](./258642-push-that-cat.json) |
 | Push the Box | 147899 | [147899-push-the-box.json](./147899-push-the-box.json) |
 | Push the Box 3D | 167784 | [167784-push-the-box-3d.json](./167784-push-the-box-3d.json) |
 | Push the Button to Win! | 241487 | [241487-push-the-button-to-win.json](./241487-push-the-button-to-win.json) |
