@@ -2776,6 +2776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Phantom Crisis - Collector's Edition | 417512 | [417512-rescue-team-phantom-crisis-collectors-edition.json](./417512-rescue-team-phantom-crisis-collectors-edition.json) |
 | Rescue the Hostages: Cryptic Countdown | 377239 | [377239-rescue-the-hostages-cryptic-countdown.json](./377239-rescue-the-hostages-cryptic-countdown.json) |
 | Rescue the Hostages: Misaligned Fate | 405719 | [405719-rescue-the-hostages-misaligned-fate.json](./405719-rescue-the-hostages-misaligned-fate.json) |
+| Rescue the Prisoner | 272458 | [272458-rescue-the-prisoner.json](./272458-rescue-the-prisoner.json) |
 | Rescue the Puppies | 401029 | [401029-rescue-the-puppies.json](./401029-rescue-the-puppies.json) |
 | Rescue Zone | 138616 | [138616-rescue-zone.json](./138616-rescue-zone.json) |
 | Rescue: Heroes in Action | 76718 | [76718-rescue-heroes-in-action.json](./76718-rescue-heroes-in-action.json) |
@@ -4520,6 +4521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCorps | 58794 | [58794-robocorps.json](./58794-robocorps.json) |
 | Robocraft 2 | 217298 | [217298-robocraft-2.json](./217298-robocraft-2.json) |
 | Robocraft Royale | 89976 | [89976-robocraft-royale.json](./89976-robocraft-royale.json) |
+| Roboctletes | 272465 | [272465-roboctletes.json](./272465-roboctletes.json) |
 | Robodash | 257093 | [257093-robodash.json](./257093-robodash.json) |
 | RoboDeal Simulator | 406127 | [406127-robodeal-simulator.json](./406127-robodeal-simulator.json) |
 | Robodemons | 48207 | [48207-robodemons.json](./48207-robodemons.json) |
