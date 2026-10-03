@@ -1351,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Adventure Double Pack: Orange Season + Garden Witch Life | 381716 | [381716-farming-adventure-double-pack-orange-season-garden-witch-life.json](./381716-farming-adventure-double-pack-orange-season-garden-witch-life.json) |
 | Farming Collection | 364100 | [364100-farming-collection.json](./364100-farming-collection.json) |
 | Farming Engine | 151070 | [151070-farming-engine.json](./151070-farming-engine.json) |
+| Farming Fever | 234148 | [234148-farming-fever.json](./234148-farming-fever.json) |
 | Farming Homestead | 411570 | [411570-farming-homestead.json](./411570-farming-homestead.json) |
 | Farming Life Simulator | 373655 | [373655-farming-life-simulator.json](./373655-farming-life-simulator.json) |
 | Farming Mushroom | 371483 | [371483-farming-mushroom.json](./371483-farming-mushroom.json) |
@@ -2127,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory II: Medieval - Sublime Porte | 216162 | [216162-field-of-glory-ii-medieval-sublime-porte.json](./216162-field-of-glory-ii-medieval-sublime-porte.json) |
 | Field of Glory II: Medieval - Swords and Scimitars | 171617 | [171617-field-of-glory-ii-medieval-swords-and-scimitars.json](./171617-field-of-glory-ii-medieval-swords-and-scimitars.json) |
 | Field of Glory II: Rise of Persia | 124818 | [124818-field-of-glory-ii-rise-of-persia.json](./124818-field-of-glory-ii-rise-of-persia.json) |
+| Field of Glory II: Swifter than Eagles | 234222 | [234222-field-of-glory-ii-swifter-than-eagles.json](./234222-field-of-glory-ii-swifter-than-eagles.json) |
 | Field of Glory: Empires | 112588 | [112588-field-of-glory-empires.json](./112588-field-of-glory-empires.json) |
 | Field of Glory: Empires - Persia 550-330 BCE | 154941 | [154941-field-of-glory-empires-persia-550-330-bce.json](./154941-field-of-glory-empires-persia-550-330-bce.json) |
 | Field of Nine: Digital Edition 2001 | 49576 | [49576-field-of-nine-digital-edition-2001.json](./49576-field-of-nine-digital-edition-2001.json) |
