@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails in Sonic the Hedgehog | 198529 | [198529-tails-in-sonic-the-hedgehog.json](./198529-tails-in-sonic-the-hedgehog.json) |
 | Tails no Flying Get | 261253 | [261253-tails-no-flying-get.json](./261253-tails-no-flying-get.json) |
 | Tails Noir Preludes | 215067 | [215067-tails-noir-preludes.json](./215067-tails-noir-preludes.json) |
+| Tails of Fate | 238553 | [238553-tails-of-fate.json](./238553-tails-of-fate.json) |
 | Tails of Glimmervale | 289867 | [289867-tails-of-glimmervale.json](./289867-tails-of-glimmervale.json) |
 | Tails of Iron | 116422 | [116422-tails-of-iron.json](./116422-tails-of-iron.json) |
 | Tails of Iron II: Whiskers of Winter - Augur of the Draugr Armour Pack | 371224 | [371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json](./371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json) |
@@ -752,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Xillia Remastered: Super Growth Support Herb Set | 375173 | [375173-tales-of-xillia-remastered-super-growth-support-herb-set.json](./375173-tales-of-xillia-remastered-super-growth-support-herb-set.json) |
 | Tales of Yore | 186162 | [186162-tales-of-yore.json](./186162-tales-of-yore.json) |
 | Tales of Zizada | 379440 | [379440-tales-of-zizada.json](./379440-tales-of-zizada.json) |
+| Tales of: Sena | 238649 | [238649-tales-of-sena.json](./238649-tales-of-sena.json) |
 | Tales to Enjoy! Little Red Riding Hood | 85428 | [85428-tales-to-enjoy-little-red-riding-hood.json](./85428-tales-to-enjoy-little-red-riding-hood.json) |
 | Tales to Enjoy! Puss In Boots | 85427 | [85427-tales-to-enjoy-puss-in-boots.json](./85427-tales-to-enjoy-puss-in-boots.json) |
 | Tales to Enjoy! The Ugly Duckling | 85426 | [85426-tales-to-enjoy-the-ugly-duckling.json](./85426-tales-to-enjoy-the-ugly-duckling.json) |
@@ -2920,6 +2922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Melvin Freebush | 73522 | [73522-the-adventures-of-melvin-freebush.json](./73522-the-adventures-of-melvin-freebush.json) |
 | The Adventures of Mr. Hat | 191822 | [191822-the-adventures-of-mr-hat.json](./191822-the-adventures-of-mr-hat.json) |
 | The Adventures of Mr. Poop | 147419 | [147419-the-adventures-of-mr-poop.json](./147419-the-adventures-of-mr-poop.json) |
+| The Adventures of Mr. Willickers the Rotting Mule | 238547 | [238547-the-adventures-of-mr-willickers-the-rotting-mule.json](./238547-the-adventures-of-mr-willickers-the-rotting-mule.json) |
 | The Adventures of Nerdstan | 250348 | [250348-the-adventures-of-nerdstan.json](./250348-the-adventures-of-nerdstan.json) |
 | The Adventures of Nick & Willikins | 87182 | [87182-the-adventures-of-nick-and-willikins.json](./87182-the-adventures-of-nick-and-willikins.json) |
 | The Adventures of Oddley | 320742 | [320742-the-adventures-of-oddley.json](./320742-the-adventures-of-oddley.json) |
@@ -5937,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jusou 3 | 289994 | [289994-the-jusou-3.json](./289994-the-jusou-3.json) |
 | The Justitia Files | 232955 | [232955-the-justitia-files.json](./232955-the-justitia-files.json) |
 | The Kaiju Offensive | 117097 | [117097-the-kaiju-offensive.json](./117097-the-kaiju-offensive.json) |
+| The Kaiyo Mission | 238567 | [238567-the-kaiyo-mission.json](./238567-the-kaiyo-mission.json) |
 | The Kangaroo Conspiracy DX | 366224 | [366224-the-kangaroo-conspiracy-dx.json](./366224-the-kangaroo-conspiracy-dx.json) |
 | The Karaoke | 224806 | [224806-the-karaoke.json](./224806-the-karaoke.json) |
 | The Karate Kid | 68386 | [68386-the-karate-kid.json](./68386-the-karate-kid.json) |
