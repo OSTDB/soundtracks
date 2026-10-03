@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park Beyond: Beyond the Depths - Theme World | 311079 | [311079-park-beyond-beyond-the-depths-theme-world.json](./311079-park-beyond-beyond-the-depths-theme-world.json) |
 | Park Beyond: Beyond the Skies of Arabia - Theme World | 315121 | [315121-park-beyond-beyond-the-skies-of-arabia-theme-world.json](./315121-park-beyond-beyond-the-skies-of-arabia-theme-world.json) |
 | Park Beyond: Complete Edition | 331856 | [331856-park-beyond-complete-edition.json](./331856-park-beyond-complete-edition.json) |
+| Park Beyond: Visioneer Edition | 254055 | [254055-park-beyond-visioneer-edition.json](./254055-park-beyond-visioneer-edition.json) |
 | Park Bound | 40524 | [40524-park-bound.json](./40524-park-bound.json) |
 | Park Inc | 146878 | [146878-park-inc.json](./146878-park-inc.json) |
 | Park It at All Costs! | 373125 | [373125-park-it-at-all-costs.json](./373125-park-it-at-all-costs.json) |
@@ -6815,6 +6816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Struggle | 129005 | [129005-power-struggle.json](./129005-power-struggle.json) |
 | Power Struggle | 55031 | [55031-power-struggle.json](./55031-power-struggle.json) |
 | Power Surge | 40399 | [40399-power-surge.json](./40399-power-surge.json) |
+| Power The Light | 254064 | [254064-power-the-light.json](./254064-power-the-light.json) |
 | Power to Play: The Game | 255082 | [255082-power-to-play-the-game.json](./255082-power-to-play-the-game.json) |
 | Power Tools VR | 292621 | [292621-power-tools-vr.json](./292621-power-tools-vr.json) |
 | Power Tower | 113671 | [113671-power-tower.json](./113671-power-tower.json) |
@@ -9139,6 +9141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Star Sweep | 44744 | [44744-puzzle-star-sweep.json](./44744-puzzle-star-sweep.json) |
 | Puzzle Sudoku | 304171 | [304171-puzzle-sudoku.json](./304171-puzzle-sudoku.json) |
 | Puzzle Tales: Arcane Voyager | 358451 | [358451-puzzle-tales-arcane-voyager.json](./358451-puzzle-tales-arcane-voyager.json) |
+| Puzzle Time: Seasons | 254043 | [254043-puzzle-time-seasons.json](./254043-puzzle-time-seasons.json) |
 | Puzzle to Go Baby Animals | 84794 | [84794-puzzle-to-go-baby-animals.json](./84794-puzzle-to-go-baby-animals.json) |
 | Puzzle to Go Diddl | 84793 | [84793-puzzle-to-go-diddl.json](./84793-puzzle-to-go-diddl.json) |
 | Puzzle to Go Planets and Universe | 84792 | [84792-puzzle-to-go-planets-and-universe.json](./84792-puzzle-to-go-planets-and-universe.json) |
