@@ -7565,6 +7565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Gang the Puzzle | 18382 | [18382-cosmo-gang-the-puzzle.json](./18382-cosmo-gang-the-puzzle.json) |
 | Cosmo Gang the Video | 39644 | [39644-cosmo-gang-the-video.json](./39644-cosmo-gang-the-video.json) |
 | Cosmo Nash: Culinary Courier | 290990 | [290990-cosmo-nash-culinary-courier.json](./290990-cosmo-nash-culinary-courier.json) |
+| Cosmo Odyssey 2: Comeback to Origin | 238550 | [238550-cosmo-odyssey-2-comeback-to-origin.json](./238550-cosmo-odyssey-2-comeback-to-origin.json) |
 | Cosmo Police Galivan | 28825 | [28825-cosmo-police-galivan.json](./28825-cosmo-police-galivan.json) |
 | Cosmo Race | 196335 | [196335-cosmo-race.json](./196335-cosmo-race.json) |
 | Cosmo Ranger: S.O.L. AD 2000 | 72068 | [72068-cosmo-ranger-s-o-l-ad-2000.json](./72068-cosmo-ranger-s-o-l-ad-2000.json) |
