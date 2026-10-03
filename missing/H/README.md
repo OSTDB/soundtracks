@@ -2520,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Maya | 265572 | [265572-hentai-maya.json](./265572-hentai-maya.json) |
 | Hentai Memorama | 112775 | [112775-hentai-memorama.json](./112775-hentai-memorama.json) |
 | Hentai Memory | 105200 | [105200-hentai-memory.json](./105200-hentai-memory.json) |
+| Hentai Midori | 271911 | [271911-hentai-midori.json](./271911-hentai-midori.json) |
 | Hentai Milf | 296908 | [296908-hentai-milf.json](./296908-hentai-milf.json) |
 | Hentai Milf City | 371375 | [371375-hentai-milf-city.json](./371375-hentai-milf-city.json) |
 | Hentai Milf Syndicate | 368076 | [368076-hentai-milf-syndicate.json](./368076-hentai-milf-syndicate.json) |
@@ -4541,6 +4542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Defender | 278538 | [278538-home-defender.json](./278538-home-defender.json) |
 | Home Design 3D | 34050 | [34050-home-design-3d.json](./34050-home-design-3d.json) |
 | Home Design Makeover! | 90416 | [90416-home-design-makeover.json](./90416-home-design-makeover.json) |
+| Home Designer Makeover Blast: Halloween | 271926 | [271926-home-designer-makeover-blast-halloween.json](./271926-home-designer-makeover-blast-halloween.json) |
 | Home Designer Makeover Blast: Jason's Industrial Loft | 255068 | [255068-home-designer-makeover-blast-jasons-industrial-loft.json](./255068-home-designer-makeover-blast-jasons-industrial-loft.json) |
 | Home Designer Makeover Blast: Liam & Beth's Studio Apartment | 255069 | [255069-home-designer-makeover-blast-liam-and-beths-studio-apartment.json](./255069-home-designer-makeover-blast-liam-and-beths-studio-apartment.json) |
 | Home Designer Makeover Blast: Mark & Mary's Master Bedroom | 255070 | [255070-home-designer-makeover-blast-mark-and-marys-master-bedroom.json](./255070-home-designer-makeover-blast-mark-and-marys-master-bedroom.json) |
@@ -5278,10 +5280,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Turbo Racing | 3371 | [3371-hot-wheels-turbo-racing.json](./3371-hot-wheels-turbo-racing.json) |
 | Hot Wheels Unleashed 2: AcceleRacers Free Pack 2 | 300946 | [300946-hot-wheels-unleashed-2-acceleracers-free-pack-2.json](./300946-hot-wheels-unleashed-2-acceleracers-free-pack-2.json) |
 | Hot Wheels Unleashed 2: AcceleRacers Free Pack 3 | 304810 | [304810-hot-wheels-unleashed-2-acceleracers-free-pack-3.json](./304810-hot-wheels-unleashed-2-acceleracers-free-pack-3.json) |
+| Hot Wheels Unleashed 2: Just a Scratch Pack | 271940 | [271940-hot-wheels-unleashed-2-just-a-scratch-pack.json](./271940-hot-wheels-unleashed-2-just-a-scratch-pack.json) |
 | Hot Wheels Unleashed 2: Mercedes-Benz Pack | 312012 | [312012-hot-wheels-unleashed-2-mercedes-benz-pack.json](./312012-hot-wheels-unleashed-2-mercedes-benz-pack.json) |
 | Hot Wheels Unleashed 2: Old but Gold Pack | 311085 | [311085-hot-wheels-unleashed-2-old-but-gold-pack.json](./311085-hot-wheels-unleashed-2-old-but-gold-pack.json) |
 | Hot Wheels Unleashed 2: Rust and Fast Pack | 254427 | [254427-hot-wheels-unleashed-2-rust-and-fast-pack.json](./254427-hot-wheels-unleashed-2-rust-and-fast-pack.json) |
 | Hot Wheels Unleashed 2: Season Pass Vol. 2 | 293137 | [293137-hot-wheels-unleashed-2-season-pass-vol-2.json](./293137-hot-wheels-unleashed-2-season-pass-vol-2.json) |
+| Hot Wheels Unleashed 2: Turbocharged - AcceleRacers All-Star Pack | 271933 | [271933-hot-wheels-unleashed-2-turbocharged-acceleracers-all-star-pack.json](./271933-hot-wheels-unleashed-2-turbocharged-acceleracers-all-star-pack.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Day One Edition | 252166 | [252166-hot-wheels-unleashed-2-turbocharged-day-one-edition.json](./252166-hot-wheels-unleashed-2-turbocharged-day-one-edition.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Fast X Pack | 274109 | [274109-hot-wheels-unleashed-2-turbocharged-fast-x-pack.json](./274109-hot-wheels-unleashed-2-turbocharged-fast-x-pack.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Manga Free Pack | 277831 | [277831-hot-wheels-unleashed-2-turbocharged-manga-free-pack.json](./277831-hot-wheels-unleashed-2-turbocharged-manga-free-pack.json) |
