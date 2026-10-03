@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scourge of Worlds | 107628 | [107628-scourge-of-worlds.json](./107628-scourge-of-worlds.json) |
 | Scourge Outbreak: Blindside | 167710 | [167710-scourge-outbreak-blindside.json](./167710-scourge-outbreak-blindside.json) |
 | ScourgeBringer | 115899 | [115899-scourgebringer.json](./115899-scourgebringer.json) |
+| Scout | 231533 | [231533-scout.json](./231533-scout.json) |
 | Scout | 56584 | [56584-scout.json](./56584-scout.json) |
 | Scout Search | 70098 | [70098-scout-search.json](./70098-scout-search.json) |
 | Scouter | 316613 | [316613-scouter.json](./316613-scouter.json) |
@@ -8565,6 +8566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something Is Wrong With My World Map | 315488 | [315488-something-is-wrong-with-my-world-map.json](./315488-something-is-wrong-with-my-world-map.json) |
 | Something Left | 369224 | [369224-something-left.json](./369224-something-left.json) |
 | Something Meaningful | 381613 | [381613-something-meaningful.json](./381613-something-meaningful.json) |
+| Something Nefarious Below | 231451 | [231451-something-nefarious-below.json](./231451-something-nefarious-below.json) |
 | Something Special: Zoe's American Adventure | 208871 | [208871-something-special-zoes-american-adventure.json](./208871-something-special-zoes-american-adventure.json) |
 | Something Strange has Come Over God's Country Tonight | 335515 | [335515-something-strange-has-come-over-gods-country-tonight.json](./335515-something-strange-has-come-over-gods-country-tonight.json) |
 | Something Strange in the Woods | 149531 | [149531-something-strange-in-the-woods.json](./149531-something-strange-in-the-woods.json) |
@@ -8648,6 +8650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songbirds: Creative Gaming | 174231 | [174231-songbirds-creative-gaming.json](./174231-songbirds-creative-gaming.json) |
 | Songbringer: The Trial of Ren | 165014 | [165014-songbringer-the-trial-of-ren.json](./165014-songbringer-the-trial-of-ren.json) |
 | Songless | 409608 | [409608-songless.json](./409608-songless.json) |
+| SongPop | 231455 | [231455-songpop.json](./231455-songpop.json) |
 | SongPop Party | 194563 | [194563-songpop-party.json](./194563-songpop-party.json) |
 | SongRunner | 364567 | [364567-songrunner.json](./364567-songrunner.json) |
 | Songs for a Hero | 222283 | [222283-songs-for-a-hero.json](./222283-songs-for-a-hero.json) |
@@ -9531,6 +9534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Unleashed | 213335 | [213335-soul-unleashed.json](./213335-soul-unleashed.json) |
 | Soul Void Redux | 312222 | [312222-soul-void-redux.json](./312222-soul-void-redux.json) |
 | Soul Warden Professional Academy | 288829 | [288829-soul-warden-professional-academy.json](./288829-soul-warden-professional-academy.json) |
+| Soul Warrior Battle | 231432 | [231432-soul-warrior-battle.json](./231432-soul-warrior-battle.json) |
 | Soul Wizards & Rogulite | 290933 | [290933-soul-wizards-and-rogulite.json](./290933-soul-wizards-and-rogulite.json) |
 | Soul Worker Rush | 193850 | [193850-soul-worker-rush.json](./193850-soul-worker-rush.json) |
 | Soul-Ivy: C0 | 110517 | [110517-soul-ivy-c0.json](./110517-soul-ivy-c0.json) |
@@ -10910,6 +10914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellwrath | 28149 | [28149-spellwrath.json](./28149-spellwrath.json) |
 | Spelly Cat | 260305 | [260305-spelly-cat.json](./260305-spelly-cat.json) |
 | Spellz: Mastery or Death | 278680 | [278680-spellz-mastery-or-death.json](./278680-spellz-mastery-or-death.json) |
+| Spellzone | 231452 | [231452-spellzone.json](./231452-spellzone.json) |
 | Spelp | 232711 | [232711-spelp.json](./232711-spelp.json) |
 | Speluncaphobia | 236414 | [236414-speluncaphobia.json](./236414-speluncaphobia.json) |
 | SpeluNikki | 269738 | [269738-spelunikki.json](./269738-spelunikki.json) |
@@ -17483,6 +17488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Island: Evolve | 231882 | [231882-survival-island-evolve.json](./231882-survival-island-evolve.json) |
 | Survival Machine | 152121 | [152121-survival-machine.json](./152121-survival-machine.json) |
 | Survival Maze | 99428 | [99428-survival-maze.json](./99428-survival-maze.json) |
+| Survival Messenger Adventure | 231453 | [231453-survival-messenger-adventure.json](./231453-survival-messenger-adventure.json) |
 | Survival Mobile:10,000 BC | 90381 | [90381-survival-mobile-10-000-bc.json](./90381-survival-mobile-10-000-bc.json) |
 | Survival Nation | 228586 | [228586-survival-nation.json](./228586-survival-nation.json) |
 | Survival Nation: Lost Horizon | 259619 | [259619-survival-nation-lost-horizon.json](./259619-survival-nation-lost-horizon.json) |
