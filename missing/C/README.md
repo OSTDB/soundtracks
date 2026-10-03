@@ -4353,6 +4353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circlebrix: Falling Bricks | 285530 | [285530-circlebrix-falling-bricks.json](./285530-circlebrix-falling-bricks.json) |
 | Circlecers | 334790 | [334790-circlecers.json](./334790-circlecers.json) |
 | Circlemount | 341634 | [341634-circlemount.json](./341634-circlemount.json) |
+| CircleRun I | 262588 | [262588-circlerun-i.json](./262588-circlerun-i.json) |
 | Circles | 33061 | [33061-circles.json](./33061-circles.json) |
 | Circling | 304338 | [304338-circling.json](./304338-circling.json) |
 | Circlt | 57750 | [57750-circlt.json](./57750-circlt.json) |
@@ -4709,6 +4710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
 | Clan Wars | 356284 | [356284-clan-wars.json](./356284-clan-wars.json) |
 | Clandestine | 14465 | [14465-clandestine.json](./14465-clandestine.json) |
+| Clandestine Castle Crashing | 262566 | [262566-clandestine-castle-crashing.json](./262566-clandestine-castle-crashing.json) |
 | Clankers! | 376050 | [376050-clankers.json](./376050-clankers.json) |
 | Clannad | 262473 | [262473-clannad.json](./262473-clannad.json) |
 | Clannad | 262492 | [262492-clannad.json](./262492-clannad.json) |
@@ -6423,6 +6425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compassion | 179680 | [179680-compassion.json](./179680-compassion.json) |
 | Compensated Girl | 369100 | [369100-compensated-girl.json](./369100-compensated-girl.json) |
 | Competition Karate | 25780 | [25780-competition-karate.json](./25780-competition-karate.json) |
+| Competitive Checkers | 262583 | [262583-competitive-checkers.json](./262583-competitive-checkers.json) |
 | Compilation Assassin's Creed: Brotherhood + Revelations | 151207 | [151207-compilation-assassins-creed-brotherhood-revelations.json](./151207-compilation-assassins-creed-brotherhood-revelations.json) |
 | Compilation I Tom Clancy's Ghost Recon: Advanced Warfighter 2 + Tom Clancy's EndWar | 84163 | [84163-compilation-i-tom-clancys-ghost-recon-advanced-warfighter-2-tom-clancys-endwar.json](./84163-compilation-i-tom-clancys-ghost-recon-advanced-warfighter-2-tom-clancys-endwar.json) |
 | Complete | 276261 | [276261-complete.json](./276261-complete.json) |
@@ -7811,6 +7814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozywood Creek | 391802 | [391802-cozywood-creek.json](./391802-cozywood-creek.json) |
 | CP3D | 109581 | [109581-cp3d.json](./109581-cp3d.json) |
 | CPA: Reports Bousy | 311123 | [311123-cpa-reports-bousy.json](./311123-cpa-reports-bousy.json) |
+| CPD | 262550 | [262550-cpd.json](./262550-cpd.json) |
 | CPU Invaders: Aim Hero | 413665 | [413665-cpu-invaders-aim-hero.json](./413665-cpu-invaders-aim-hero.json) |
 | CPU Invaders: Cyber Arcade | 413136 | [413136-cpu-invaders-cyber-arcade.json](./413136-cpu-invaders-cyber-arcade.json) |
 | CPU Invaders: Micro Spheres | 413658 | [413658-cpu-invaders-micro-spheres.json](./413658-cpu-invaders-micro-spheres.json) |
