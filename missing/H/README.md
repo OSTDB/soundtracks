@@ -2998,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Dragon Age | 22258 | [22258-heroes-of-dragon-age.json](./22258-heroes-of-dragon-age.json) |
 | Heroes of Drakerealm | 235485 | [235485-heroes-of-drakerealm.json](./235485-heroes-of-drakerealm.json) |
 | Heroes of Egypt: The Curse of Sethos | 191119 | [191119-heroes-of-egypt-the-curse-of-sethos.json](./191119-heroes-of-egypt-the-curse-of-sethos.json) |
+| Heroes of Egypt: The Curse of Sethos - Collector's Edition | 259757 | [259757-heroes-of-egypt-the-curse-of-sethos-collectors-edition.json](./259757-heroes-of-egypt-the-curse-of-sethos-collectors-edition.json) |
 | Heroes of Eldemor | 150544 | [150544-heroes-of-eldemor.json](./150544-heroes-of-eldemor.json) |
 | Heroes of Eroticism: Amorous Advances | 244349 | [244349-heroes-of-eroticism-amorous-advances.json](./244349-heroes-of-eroticism-amorous-advances.json) |
 | Heroes of Eroticism: New Beginnings | 221204 | [221204-heroes-of-eroticism-new-beginnings.json](./221204-heroes-of-eroticism-new-beginnings.json) |
@@ -5195,6 +5196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshizora e Kakaru Hashi AA | 144889 | [144889-hoshizora-e-kakaru-hashi-aa.json](./144889-hoshizora-e-kakaru-hashi-aa.json) |
 | Hoshizora no Comic Garden | 70660 | [70660-hoshizora-no-comic-garden.json](./70660-hoshizora-no-comic-garden.json) |
 | Hoshizora no Memoria: Wish Upon a Shooting Star HD | 312361 | [312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json](./312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json) |
+| Hoshizora Tensei Another Sky | 259709 | [259709-hoshizora-tensei-another-sky.json](./259709-hoshizora-tensei-another-sky.json) |
 | Hoshizora Testudou to Shiro no Tabi | 147405 | [147405-hoshizora-testudou-to-shiro-no-tabi.json](./147405-hoshizora-testudou-to-shiro-no-tabi.json) |
 | Hospice | 55161 | [55161-hospice.json](./55161-hospice.json) |
 | Hospital 9: Puzzles | 163417 | [163417-hospital-9-puzzles.json](./163417-hospital-9-puzzles.json) |
