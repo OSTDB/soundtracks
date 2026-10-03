@@ -1620,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Lover | 239630 | [239630-jump-lover.json](./239630-jump-lover.json) |
 | Jump Malcolm Jump | 265344 | [265344-jump-malcolm-jump.json](./265344-jump-malcolm-jump.json) |
 | Jump Man | 332528 | [332528-jump-man.json](./332528-jump-man.json) |
+| Jump Mechanic | 258113 | [258113-jump-mechanic.json](./258113-jump-mechanic.json) |
 | Jump N Shooters | 244374 | [244374-jump-n-shooters.json](./244374-jump-n-shooters.json) |
 | Jump O'Clock | 65226 | [65226-jump-oclock.json](./65226-jump-oclock.json) |
 | Jump Off the Bridge | 117553 | [117553-jump-off-the-bridge.json](./117553-jump-off-the-bridge.json) |
