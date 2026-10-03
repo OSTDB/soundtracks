@@ -4328,6 +4328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dinosaurs Are Here | 152732 | [152732-the-dinosaurs-are-here.json](./152732-the-dinosaurs-are-here.json) |
 | The DioField Chronicle: Digital Deluxe Edition | 212339 | [212339-the-diofield-chronicle-digital-deluxe-edition.json](./212339-the-diofield-chronicle-digital-deluxe-edition.json) |
 | The Directed | 89253 | [89253-the-directed.json](./89253-the-directed.json) |
+| The Directorate: The Spy Who Killed A Saint | 253469 | [253469-the-directorate-the-spy-who-killed-a-saint.json](./253469-the-directorate-the-spy-who-killed-a-saint.json) |
 | The Dis-United States of America | 126405 | [126405-the-dis-united-states-of-america.json](./126405-the-dis-united-states-of-america.json) |
 | The Disappearance of Emily Crowe | 406859 | [406859-the-disappearance-of-emily-crowe.json](./406859-the-disappearance-of-emily-crowe.json) |
 | The Disappearance of the Mitchells | 134083 | [134083-the-disappearance-of-the-mitchells.json](./134083-the-disappearance-of-the-mitchells.json) |
@@ -4654,6 +4655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eternal Mines | 379379 | [379379-the-eternal-mines.json](./379379-the-eternal-mines.json) |
 | The Eternal Woods | 414427 | [414427-the-eternal-woods.json](./414427-the-eternal-woods.json) |
 | The Evelyn Game | 370315 | [370315-the-evelyn-game.json](./370315-the-evelyn-game.json) |
+| The Event | 253479 | [253479-the-event.json](./253479-the-event.json) |
 | The Eventide | 411687 | [411687-the-eventide.json](./411687-the-eventide.json) |
 | The Evidence | 209567 | [209567-the-evidence.json](./209567-the-evidence.json) |
 | The Evil Dead | 25832 | [25832-the-evil-dead.json](./25832-the-evil-dead.json) |
@@ -7183,6 +7185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mulldoon Legacy | 60025 | [60025-the-mulldoon-legacy.json](./60025-the-mulldoon-legacy.json) |
 | The Mulldoon Murders | 60029 | [60029-the-mulldoon-murders.json](./60029-the-mulldoon-murders.json) |
 | The Multi-Medium | 216996 | [216996-the-multi-medium.json](./216996-the-multi-medium.json) |
+| The Multiverse Cleaner | 253475 | [253475-the-multiverse-cleaner.json](./253475-the-multiverse-cleaner.json) |
 | The Multiverse Trilogy | 289978 | [289978-the-multiverse-trilogy.json](./289978-the-multiverse-trilogy.json) |
 | The Mummy | 140987 | [140987-the-mummy.json](./140987-the-mummy.json) |
 | The Mummy | 281548 | [281548-the-mummy.json](./281548-the-mummy.json) |
@@ -7265,6 +7268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Neath | 296588 | [296588-the-neath.json](./296588-the-neath.json) |
 | The Necessary Evil | 415102 | [415102-the-necessary-evil.json](./415102-the-necessary-evil.json) |
 | The Necklace of Blood Part II | 109886 | [109886-the-necklace-of-blood-part-ii.json](./109886-the-necklace-of-blood-part-ii.json) |
+| The Necromancer Cometh! | 253472 | [253472-the-necromancer-cometh.json](./253472-the-necromancer-cometh.json) |
 | The Necromancer's Castle | 82462 | [82462-the-necromancers-castle.json](./82462-the-necromancers-castle.json) |
 | The Necromancer's Tower | 297566 | [297566-the-necromancers-tower.json](./297566-the-necromancers-tower.json) |
 | The Neighbor: Escape Room | 309505 | [309505-the-neighbor-escape-room.json](./309505-the-neighbor-escape-room.json) |
@@ -7880,6 +7884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Real Texas: Cellpop Goes Out At Night | 51923 | [51923-the-real-texas-cellpop-goes-out-at-night.json](./51923-the-real-texas-cellpop-goes-out-at-night.json) |
 | The Real Texas: Dusty Skies Edition | 51922 | [51922-the-real-texas-dusty-skies-edition.json](./51922-the-real-texas-dusty-skies-edition.json) |
 | The Realm | 292558 | [292558-the-realm.json](./292558-the-realm.json) |
+| The Realm of Insight Compass | 253513 | [253513-the-realm-of-insight-compass.json](./253513-the-realm-of-insight-compass.json) |
 | The Reaper Survivors | 224760 | [224760-the-reaper-survivors.json](./224760-the-reaper-survivors.json) |
 | The Reason for Your Smile | 287911 | [287911-the-reason-for-your-smile.json](./287911-the-reason-for-your-smile.json) |
 | The Reason Why Raeliana Ended up at the Duke's Mansion: Heika's Colorful Day Out | 170832 | [170832-the-reason-why-raeliana-ended-up-at-the-dukes-mansion-heikas-colorful-day-out.json](./170832-the-reason-why-raeliana-ended-up-at-the-dukes-mansion-heikas-colorful-day-out.json) |
@@ -13541,6 +13546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Hakujinki: White Names Spoiled Past | 246674 | [246674-touhou-hakujinki-white-names-spoiled-past.json](./246674-touhou-hakujinki-white-names-spoiled-past.json) |
 | Touhou Hangyaku Geki Sakuya's Counterattack | 371271 | [371271-touhou-hangyaku-geki-sakuyas-counterattack.json](./371271-touhou-hangyaku-geki-sakuyas-counterattack.json) |
 | Touhou Haou III | 98454 | [98454-touhou-haou-iii.json](./98454-touhou-haou-iii.json) |
+| Touhou Hareiden | 253476 | [253476-touhou-hareiden.json](./253476-touhou-hareiden.json) |
 | Touhou Healing Nature | 255135 | [255135-touhou-healing-nature.json](./255135-touhou-healing-nature.json) |
 | Touhou Heardle | 205617 | [205617-touhou-heardle.json](./205617-touhou-heardle.json) |
 | Touhou Heisatsu Yuugi | 294407 | [294407-touhou-heisatsu-yuugi.json](./294407-touhou-heisatsu-yuugi.json) |
@@ -14135,6 +14141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trader Life Simulator | 143666 | [143666-trader-life-simulator.json](./143666-trader-life-simulator.json) |
 | Trader of the Night | 219258 | [219258-trader-of-the-night.json](./219258-trader-of-the-night.json) |
 | Traders Life Simulator | 390101 | [390101-traders-life-simulator.json](./390101-traders-life-simulator.json) |
+| Traders of Natac | 253517 | [253517-traders-of-natac.json](./253517-traders-of-natac.json) |
 | Traders: The Intergalactic Trading Game | 78323 | [78323-traders-the-intergalactic-trading-game.json](./78323-traders-the-intergalactic-trading-game.json) |
 | Tradewinds | 94554 | [94554-tradewinds.json](./94554-tradewinds.json) |
 | Tradewinds Caravan | 59455 | [59455-tradewinds-caravan.json](./59455-tradewinds-caravan.json) |
