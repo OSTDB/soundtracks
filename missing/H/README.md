@@ -3148,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Bots | 338313 | [338313-hex-bots.json](./338313-hex-bots.json) |
 | Hex For Hire | 182925 | [182925-hex-for-hire.json](./182925-hex-for-hire.json) |
 | Hex Gambit | 70704 | [70704-hex-gambit.json](./70704-hex-gambit.json) |
+| Hex Jump | 264208 | [264208-hex-jump.json](./264208-hex-jump.json) |
 | Hex Mahjong 3D | 200133 | [200133-hex-mahjong-3d.json](./200133-hex-mahjong-3d.json) |
 | Hex of Steel | 147277 | [147277-hex-of-steel.json](./147277-hex-of-steel.json) |
 | Hex of the Lich | 164889 | [164889-hex-of-the-lich.json](./164889-hex-of-the-lich.json) |
