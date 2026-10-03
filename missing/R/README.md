@@ -5197,6 +5197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogueblock | 382770 | [382770-rogueblock.json](./382770-rogueblock.json) |
 | Roguebook: Deluxe Edition | 192301 | [192301-roguebook-deluxe-edition.json](./192301-roguebook-deluxe-edition.json) |
 | Rogueborne Fury | 293629 | [293629-rogueborne-fury.json](./293629-rogueborne-fury.json) |
+| Roguebot | 248814 | [248814-roguebot.json](./248814-roguebot.json) |
 | Roguebots Arena | 350504 | [350504-roguebots-arena.json](./350504-roguebots-arena.json) |
 | Roguebound Pirates | 365092 | [365092-roguebound-pirates.json](./365092-roguebound-pirates.json) |
 | Roguebreaker | 103413 | [103413-roguebreaker.json](./103413-roguebreaker.json) |
