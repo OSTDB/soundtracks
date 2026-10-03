@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dragon Named Coal | 236808 | [236808-a-dragon-named-coal.json](./236808-a-dragon-named-coal.json) |
 | A Dragon's Tale: Fading Light | 264017 | [264017-a-dragons-tale-fading-light.json](./264017-a-dragons-tale-fading-light.json) |
 | A Dragons Dawn | 379560 | [379560-a-dragons-dawn.json](./379560-a-dragons-dawn.json) |
+| A Dream About a Room With Four Doors | 255855 | [255855-a-dream-about-a-room-with-four-doors.json](./255855-a-dream-about-a-room-with-four-doors.json) |
 | A Dream That Never Wakes Up | 236391 | [236391-a-dream-that-never-wakes-up.json](./236391-a-dream-that-never-wakes-up.json) |
 | A Drift for the Irresolute | 180614 | [180614-a-drift-for-the-irresolute.json](./180614-a-drift-for-the-irresolute.json) |
 | A Dual Ascent | 327839 | [327839-a-dual-ascent.json](./327839-a-dual-ascent.json) |
@@ -339,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Matter of Caos: Episode 2 | 101990 | [101990-a-matter-of-caos-episode-2.json](./101990-a-matter-of-caos-episode-2.json) |
 | A Matter of Murder | 26887 | [26887-a-matter-of-murder.json](./26887-a-matter-of-murder.json) |
 | A Matter of Time | 153414 | [153414-a-matter-of-time.json](./153414-a-matter-of-time.json) |
+| A Maze 3D | 255856 | [255856-a-maze-3d.json](./255856-a-maze-3d.json) |
 | A Maze Against Time | 324980 | [324980-a-maze-against-time.json](./324980-a-maze-against-time.json) |
 | A Maze for Owls | 182517 | [182517-a-maze-for-owls.json](./182517-a-maze-for-owls.json) |
 | A Maze In Love | 69381 | [69381-a-maze-in-love.json](./69381-a-maze-in-love.json) |
@@ -1218,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Janken | 404997 | [404997-action-janken.json](./404997-action-janken.json) |
 | Action Man A.T.O.M.: Alpha Teens on Machines | 83248 | [83248-action-man-a-t-o-m-alpha-teens-on-machines.json](./83248-action-man-a-t-o-m-alpha-teens-on-machines.json) |
 | Action Man: Destruction X | 44848 | [44848-action-man-destruction-x.json](./44848-action-man-destruction-x.json) |
+| Action Mania | 255866 | [255866-action-mania.json](./255866-action-mania.json) |
 | Action News Heroes | 51614 | [51614-action-news-heroes.json](./51614-action-news-heroes.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
 | Action Pack I Prince of Persia: Revelations & Prince of Persia: Rival Swords | 159110 | [159110-action-pack-i-prince-of-persia-revelations-and-prince-of-persia-rival-swords.json](./159110-action-pack-i-prince-of-persia-revelations-and-prince-of-persia-rival-swords.json) |
@@ -7023,6 +7026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascendaria | 336120 | [336120-ascendaria.json](./336120-ascendaria.json) |
 | Ascended Gods: Realm of Origins | 270104 | [270104-ascended-gods-realm-of-origins.json](./270104-ascended-gods-realm-of-origins.json) |
 | Ascended Realms | 137683 | [137683-ascended-realms.json](./137683-ascended-realms.json) |
+| Ascendia | 255859 | [255859-ascendia.json](./255859-ascendia.json) |
 | Ascending Madness | 96706 | [96706-ascending-madness.json](./96706-ascending-madness.json) |
 | Ascending Pinball | 26684 | [26684-ascending-pinball.json](./26684-ascending-pinball.json) |
 | Ascending: Dojo | 170523 | [170523-ascending-dojo.json](./170523-ascending-dojo.json) |
