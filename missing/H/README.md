@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack & Turn | 180114 | [180114-hack-and-turn.json](./180114-hack-and-turn.json) |
 | Hack 0 | 272813 | [272813-hack-0.json](./272813-hack-0.json) |
 | Hack 0 2 | 320292 | [320292-hack-0-2.json](./320292-hack-0-2.json) |
+| Hack 1 2 | 269774 | [269774-hack-1-2.json](./269774-hack-1-2.json) |
 | Hack 42: Typing Incremental | 407601 | [407601-hack-42-typing-incremental.json](./407601-hack-42-typing-incremental.json) |
 | Hack and Slash Fury | 329207 | [329207-hack-and-slash-fury.json](./329207-hack-and-slash-fury.json) |
 | Hack And Slash Fury: Battalion Armor | 334515 | [334515-hack-and-slash-fury-battalion-armor.json](./334515-hack-and-slash-fury-battalion-armor.json) |
@@ -1356,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hauntii | 217008 | [217008-hauntii.json](./217008-hauntii.json) |
 | Haunting At Cliffhouse | 158552 | [158552-haunting-at-cliffhouse.json](./158552-haunting-at-cliffhouse.json) |
 | Haunting Ground | 14605 | [14605-haunting-ground.json](./14605-haunting-ground.json) |
+| Haunting Hollow | 269758 | [269758-haunting-hollow.json](./269758-haunting-hollow.json) |
 | Haunting Memories | 337671 | [337671-haunting-memories.json](./337671-haunting-memories.json) |
 | Haunting Mysteries: The Island of Lost Souls - Collector's Edition | 355528 | [355528-haunting-mysteries-the-island-of-lost-souls-collectors-edition.json](./355528-haunting-mysteries-the-island-of-lost-souls-collectors-edition.json) |
 | Haunting of Mageburrow | 402361 | [402361-haunting-of-mageburrow.json](./402361-haunting-of-mageburrow.json) |
@@ -4741,6 +4743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Lone Stargazer | 279722 | [279722-honkai-impact-3rd-lone-stargazer.json](./279722-honkai-impact-3rd-lone-stargazer.json) |
 | Honkai Impact 3rd: Moonshade Epic | 276424 | [276424-honkai-impact-3rd-moonshade-epic.json](./276424-honkai-impact-3rd-moonshade-epic.json) |
 | Honkai Impact 3rd: Ninja's Noir | 281572 | [281572-honkai-impact-3rd-ninjas-noir.json](./281572-honkai-impact-3rd-ninjas-noir.json) |
+| Honkai Impact 3rd: Part 2 - Extinguished Starlight and Rekindled Fire | 269737 | [269737-honkai-impact-3rd-part-2-extinguished-starlight-and-rekindled-fire.json](./269737-honkai-impact-3rd-part-2-extinguished-starlight-and-rekindled-fire.json) |
 | Honkai Impact 3rd: Post-Dusk Odyssey | 276501 | [276501-honkai-impact-3rd-post-dusk-odyssey.json](./276501-honkai-impact-3rd-post-dusk-odyssey.json) |
 | Honkai Impact 3rd: Pristine Realm | 276504 | [276504-honkai-impact-3rd-pristine-realm.json](./276504-honkai-impact-3rd-pristine-realm.json) |
 | Honkai Impact 3rd: Re: Promise to Luna | 276505 | [276505-honkai-impact-3rd-re-promise-to-luna.json](./276505-honkai-impact-3rd-re-promise-to-luna.json) |
