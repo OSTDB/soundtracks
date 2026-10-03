@@ -1181,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Jigsaw Puzzles: Fun Games for Girls & Boys | 232383 | [232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json](./232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json) |
 | Kids Learn Animal Words | 97915 | [97915-kids-learn-animal-words.json](./97915-kids-learn-animal-words.json) |
 | Kids Learn to Sort | 246973 | [246973-kids-learn-to-sort.json](./246973-kids-learn-to-sort.json) |
+| Kids Love Puzzles | 232590 | [232590-kids-love-puzzles.json](./232590-kids-love-puzzles.json) |
 | Kids Musical Instrument Connect the Dots Puzzles - learn the ABC numbers shapes and for toddlers | 92089 | [92089-kids-musical-instrument-connect-the-dots-puzzles-learn-the-abc-numbers-shapes-and-for-toddlers.json](./92089-kids-musical-instrument-connect-the-dots-puzzles-learn-the-abc-numbers-shapes-and-for-toddlers.json) |
 | Kids of Karendow | 157052 | [157052-kids-of-karendow.json](./157052-kids-of-karendow.json) |
 | Kids on Keys | 97482 | [97482-kids-on-keys.json](./97482-kids-on-keys.json) |
