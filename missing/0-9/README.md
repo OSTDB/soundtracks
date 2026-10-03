@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2MD: VR Football Evolution | 160137 | [160137-2md-vr-football-evolution.json](./160137-2md-vr-football-evolution.json) |
 | 2Moons | 93995 | [93995-2moons.json](./93995-2moons.json) |
 | 2nd Circle: Powerful Places | 109872 | [109872-2nd-circle-powerful-places.json](./109872-2nd-circle-powerful-places.json) |
+| 2nd Grade: Musical Menace | 230419 | [230419-2nd-grade-musical-menace.json](./230419-2nd-grade-musical-menace.json) |
 | 2Ship2Harkinian | 303033 | [303033-2ship2harkinian.json](./303033-2ship2harkinian.json) |
 | 2Tax Gold | 268629 | [268629-2tax-gold.json](./268629-2tax-gold.json) |
 | 2urvive | 77361 | [77361-2urvive.json](./77361-2urvive.json) |
