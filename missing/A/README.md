@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A King's Tale: Final Fantasy XV | 19600 | [19600-a-kings-tale-final-fantasy-xv.json](./19600-a-kings-tale-final-fantasy-xv.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
 | A Kiss for the Petals - Remembering How We Met | 34585 | [34585-a-kiss-for-the-petals-remembering-how-we-met.json](./34585-a-kiss-for-the-petals-remembering-how-we-met.json) |
+| A Kiss From Death | 247094 | [247094-a-kiss-from-death.json](./247094-a-kiss-from-death.json) |
 | A Kiss Of Salt Water | 301907 | [301907-a-kiss-of-salt-water.json](./301907-a-kiss-of-salt-water.json) |
 | A Kitten Seeks the Moon | 397177 | [397177-a-kitten-seeks-the-moon.json](./397177-a-kitten-seeks-the-moon.json) |
 | A Knight Never Yields | 148486 | [148486-a-knight-never-yields.json](./148486-a-knight-never-yields.json) |
@@ -2889,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alianator | 76197 | [76197-alianator.json](./76197-alianator.json) |
 | Alias | 5719 | [5719-alias.json](./5719-alias.json) |
 | Alias 'The Magpie' | 138144 | [138144-alias-the-magpie.json](./138144-alias-the-magpie.json) |
+| Alias Episode 1 | 247084 | [247084-alias-episode-1.json](./247084-alias-episode-1.json) |
 | Alias Underground Episode 1: SD-6 Agent Training | 367409 | [367409-alias-underground-episode-1-sd-6-agent-training.json](./367409-alias-underground-episode-1-sd-6-agent-training.json) |
 | Alias Underground Episode 10: Endgame | 367419 | [367419-alias-underground-episode-10-endgame.json](./367419-alias-underground-episode-10-endgame.json) |
 | Alias Underground Episode 2: Mission - Turkish Embassy | 367410 | [367410-alias-underground-episode-2-mission-turkish-embassy.json](./367410-alias-underground-episode-2-mission-turkish-embassy.json) |
@@ -7805,6 +7807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asuka x Redline Reverie | 405510 | [405510-asuka-x-redline-reverie.json](./405510-asuka-x-redline-reverie.json) |
 | Asura Blade: Sword of Dynasty | 38514 | [38514-asura-blade-sword-of-dynasty.json](./38514-asura-blade-sword-of-dynasty.json) |
 | Asura Girls | 248923 | [248923-asura-girls.json](./248923-asura-girls.json) |
+| Asura The Striker | 247093 | [247093-asura-the-striker.json](./247093-asura-the-striker.json) |
 | Asura's Trial | 249853 | [249853-asuras-trial.json](./249853-asuras-trial.json) |
 | Asura's Wrath Episode 11.5 | 217920 | [217920-asuras-wrath-episode-11-5.json](./217920-asuras-wrath-episode-11-5.json) |
 | Asura's Wrath Episode 15.5 | 217921 | [217921-asuras-wrath-episode-15-5.json](./217921-asuras-wrath-episode-15-5.json) |
