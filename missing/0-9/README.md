@@ -1178,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4.1.60Co | 295543 | [295543-4-1-60co.json](./295543-4-1-60co.json) |
 | 40 Days | 76539 | [76539-40-days.json](./76539-40-days.json) |
 | 40 Sports Games in 1 | 356845 | [356845-40-sports-games-in-1.json](./356845-40-sports-games-in-1.json) |
+| 40 Winks | 249340 | [249340-40-winks.json](./249340-40-winks.json) |
 | 40 Winks | 5568 | [5568-40-winks.json](./5568-40-winks.json) |
 | 400 Minutes of /vr/ | 274120 | [274120-400-minutes-of-vr.json](./274120-400-minutes-of-vr.json) |
 | 400 Years | 12383 | [12383-400-years.json](./12383-400-years.json) |
