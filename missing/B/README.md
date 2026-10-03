@@ -6859,6 +6859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bots Rush | 112350 | [112350-bots-rush.json](./112350-bots-rush.json) |
 | Bots!! | 175926 | [175926-bots.json](./175926-bots.json) |
 | Botticelli | 362434 | [362434-botticelli.json](./362434-botticelli.json) |
+| Bottle | 248787 | [248787-bottle.json](./248787-bottle.json) |
 | Bottle | 36488 | [36488-bottle.json](./36488-bottle.json) |
 | Bottle Can Float | 272826 | [272826-bottle-can-float.json](./272826-bottle-can-float.json) |
 | Bottle Flip | 90760 | [90760-bottle-flip.json](./90760-bottle-flip.json) |
