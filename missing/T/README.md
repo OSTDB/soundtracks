@@ -5347,6 +5347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guild Manager | 404999 | [404999-the-guild-manager.json](./404999-the-guild-manager.json) |
 | The Guild of Thieves | 12126 | [12126-the-guild-of-thieves.json](./12126-the-guild-of-thieves.json) |
 | The Guilt and the Shadow | 36145 | [36145-the-guilt-and-the-shadow.json](./36145-the-guilt-and-the-shadow.json) |
+| The Gun is Good | 254024 | [254024-the-gun-is-good.json](./254024-the-gun-is-good.json) |
 | The Gunk | 136000 | [136000-the-gunk.json](./136000-the-gunk.json) |
 | The Gurgling | 381594 | [381594-the-gurgling.json](./381594-the-gurgling.json) |
 | The Gurion Mountains | 148915 | [148915-the-gurion-mountains.json](./148915-the-gurion-mountains.json) |
@@ -6098,6 +6099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Birdling | 44162 | [44162-the-last-birdling.json](./44162-the-last-birdling.json) |
 | The Last Blade (Best Collection) | 75482 | [75482-the-last-blade-best-collection.json](./75482-the-last-blade-best-collection.json) |
 | The Last Blade 2 | 76045 | [76045-the-last-blade-2.json](./76045-the-last-blade-2.json) |
+| The Last Breath | 254025 | [254025-the-last-breath.json](./254025-the-last-breath.json) |
 | The Last Bug | 371339 | [371339-the-last-bug.json](./371339-the-last-bug.json) |
 | The Last Bullet | 117784 | [117784-the-last-bullet.json](./117784-the-last-bullet.json) |
 | The Last Camp | 334177 | [334177-the-last-camp.json](./334177-the-last-camp.json) |
@@ -14626,6 +14628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz 2022: SA CL Class - RailPower Pack | 306100 | [306100-trainz-2022-sa-cl-class-railpower-pack.json](./306100-trainz-2022-sa-cl-class-railpower-pack.json) |
 | Trainz Plus DLC - Pro Train: AC44C6M Loco Bundle | 384733 | [384733-trainz-plus-dlc-pro-train-ac44c6m-loco-bundle.json](./384733-trainz-plus-dlc-pro-train-ac44c6m-loco-bundle.json) |
 | Trainz Plus DLC: Pro Train - Class 68 ScotRail | 208339 | [208339-trainz-plus-dlc-pro-train-class-68-scotrail.json](./208339-trainz-plus-dlc-pro-train-class-68-scotrail.json) |
+| Trainz Plus DLC: Pro Train DB Class 52 | 254070 | [254070-trainz-plus-dlc-pro-train-db-class-52.json](./254070-trainz-plus-dlc-pro-train-db-class-52.json) |
 | Trainz Plus: Amtrak F40PH 2 pack | 205558 | [205558-trainz-plus-amtrak-f40ph-2-pack.json](./205558-trainz-plus-amtrak-f40ph-2-pack.json) |
 | Trainz Plus: Amtrak P42DC - Phase III | 205543 | [205543-trainz-plus-amtrak-p42dc-phase-iii.json](./205543-trainz-plus-amtrak-p42dc-phase-iii.json) |
 | Trainz Plus: Amtrak P42DC - Phase IV | 205493 | [205493-trainz-plus-amtrak-p42dc-phase-iv.json](./205493-trainz-plus-amtrak-p42dc-phase-iv.json) |
