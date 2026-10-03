@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanna Maze | 300967 | [300967-kanna-maze.json](./300967-kanna-maze.json) |
 | Kanna School | 336662 | [336662-kanna-school.json](./336662-kanna-school.json) |
 | Kannagi no Mori Samidare Tsuzuri | 136476 | [136476-kannagi-no-mori-samidare-tsuzuri.json](./136476-kannagi-no-mori-samidare-tsuzuri.json) |
+| Kannagi Usagi | 263139 | [263139-kannagi-usagi.json](./263139-kannagi-usagi.json) |
 | Kannou Mukashi Banashi Portable | 56766 | [56766-kannou-mukashi-banashi-portable.json](./56766-kannou-mukashi-banashi-portable.json) |
 | Kanojo * Step | 139862 | [139862-kanojo-step.json](./139862-kanojo-step.json) |
 | Kanojo ha Ira-ira Jirai Girl | 251613 | [251613-kanojo-ha-ira-ira-jirai-girl.json](./251613-kanojo-ha-ira-ira-jirai-girl.json) |
@@ -3101,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuudere Funk | 287742 | [287742-kuudere-funk.json](./287742-kuudere-funk.json) |
 | Kuukiyomi 4: Consider It - Nintendo Switch 2 Edition | 378813 | [378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json](./378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json) |
 | Kuukiyomi: Consider It! Online | 187529 | [187529-kuukiyomi-consider-it-online.json](./187529-kuukiyomi-consider-it-online.json) |
+| Kuuruu Kenmonroku | 263134 | [263134-kuuruu-kenmonroku.json](./263134-kuuruu-kenmonroku.json) |
 | Kuusou Kagaku Sekai Gulliver Boy | 42211 | [42211-kuusou-kagaku-sekai-gulliver-boy.json](./42211-kuusou-kagaku-sekai-gulliver-boy.json) |
 | Kuusou Kagaku Sekai Gulliver Boy | 81278 | [81278-kuusou-kagaku-sekai-gulliver-boy.json](./81278-kuusou-kagaku-sekai-gulliver-boy.json) |
 | Kuusou Sakaba: A Great Banquet Of Liars | 288361 | [288361-kuusou-sakaba-a-great-banquet-of-liars.json](./288361-kuusou-sakaba-a-great-banquet-of-liars.json) |
