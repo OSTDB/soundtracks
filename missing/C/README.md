@@ -3556,6 +3556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Shoot 2 | 248634 | [248634-chicken-shoot-2.json](./248634-chicken-shoot-2.json) |
 | Chicken Shoot 2 | 49307 | [49307-chicken-shoot-2.json](./49307-chicken-shoot-2.json) |
 | Chicken Shoot Gold | 27706 | [27706-chicken-shoot-gold.json](./27706-chicken-shoot-gold.json) |
+| Chicken Smoothie | 225707 | [225707-chicken-smoothie.json](./225707-chicken-smoothie.json) |
 | Chicken Tale | 288792 | [288792-chicken-tale.json](./288792-chicken-tale.json) |
 | Chicken Tricks | 249849 | [249849-chicken-tricks.json](./249849-chicken-tricks.json) |
 | Chicken vs. Eggs | 276297 | [276297-chicken-vs-eggs.json](./276297-chicken-vs-eggs.json) |
@@ -4683,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Stories: The Hunter's Heart - Collector's Edition | 367607 | [367607-city-of-stories-the-hunters-heart-collectors-edition.json](./367607-city-of-stories-the-hunters-heart-collectors-edition.json) |
 | City of Stories: The Professor's Secret - Collector's Edition | 362839 | [362839-city-of-stories-the-professors-secret-collectors-edition.json](./362839-city-of-stories-the-professors-secret-collectors-edition.json) |
 | City of the Evil Dead | 282129 | [282129-city-of-the-evil-dead.json](./282129-city-of-the-evil-dead.json) |
+| City of the Undead | 225557 | [225557-city-of-the-undead.json](./225557-city-of-the-undead.json) |
 | City of Thugs | 154025 | [154025-city-of-thugs.json](./154025-city-of-thugs.json) |
 | City of Villains | 20457 | [20457-city-of-villains.json](./20457-city-of-villains.json) |
 | City of Voices | 327414 | [327414-city-of-voices.json](./327414-city-of-voices.json) |
@@ -6798,6 +6800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conor Origins: T Trilogy | 292751 | [292751-conor-origins-t-trilogy.json](./292751-conor-origins-t-trilogy.json) |
 | Conquela | 286605 | [286605-conquela.json](./286605-conquela.json) |
 | Conquer City Wars | 100333 | [100333-conquer-city-wars.json](./100333-conquer-city-wars.json) |
+| Conquer Humanity | 225687 | [225687-conquer-humanity.json](./225687-conquer-humanity.json) |
 | Conquer Lands | 372464 | [372464-conquer-lands.json](./372464-conquer-lands.json) |
 | Conquer the Dungeon | 190720 | [190720-conquer-the-dungeon.json](./190720-conquer-the-dungeon.json) |
 | Conquer the Islands | 224085 | [224085-conquer-the-islands.json](./224085-conquer-the-islands.json) |
