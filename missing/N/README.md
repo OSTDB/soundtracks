@@ -935,10 +935,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Heat - McLaren F1 Black Market Delivery | 140381 | [140381-need-for-speed-heat-mclaren-f1-black-market-delivery.json](./140381-need-for-speed-heat-mclaren-f1-black-market-delivery.json) |
 | Need for Speed: Heat - Red Bull Nissan 370Z | 140382 | [140382-need-for-speed-heat-red-bull-nissan-370z.json](./140382-need-for-speed-heat-red-bull-nissan-370z.json) |
 | Need for Speed: High Stakes | 93 | [93-need-for-speed-high-stakes.json](./93-need-for-speed-high-stakes.json) |
+| Need for Speed: Hot Pursuit | 248208 | [248208-need-for-speed-hot-pursuit.json](./248208-need-for-speed-hot-pursuit.json) |
+| Need for Speed: Hot Pursuit | 248209 | [248209-need-for-speed-hot-pursuit.json](./248209-need-for-speed-hot-pursuit.json) |
 | Need for Speed: Hot Pursuit | 264364 | [264364-need-for-speed-hot-pursuit.json](./264364-need-for-speed-hot-pursuit.json) |
 | Need for speed: Mobile | 322164 | [322164-need-for-speed-mobile.json](./322164-need-for-speed-mobile.json) |
 | Need for Speed: Most Wanted | 210161 | [210161-need-for-speed-most-wanted.json](./210161-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted | 243048 | [243048-need-for-speed-most-wanted.json](./243048-need-for-speed-most-wanted.json) |
+| Need for Speed: Most Wanted | 248205 | [248205-need-for-speed-most-wanted.json](./248205-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted | 248206 | [248206-need-for-speed-most-wanted.json](./248206-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted 5-1-0 | 121504 | [121504-need-for-speed-most-wanted-5-1-0.json](./121504-need-for-speed-most-wanted-5-1-0.json) |
 | Need for Speed: Nitro | 248127 | [248127-need-for-speed-nitro.json](./248127-need-for-speed-nitro.json) |
