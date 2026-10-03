@@ -2405,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector 40: The Soviet Legacy | 133228 | [133228-sector-40-the-soviet-legacy.json](./133228-sector-40-the-soviet-legacy.json) |
 | Sector 452 | 139330 | [139330-sector-452.json](./139330-sector-452.json) |
 | Sector 666 | 308256 | [308256-sector-666.json](./308256-sector-666.json) |
+| Sector 666: The Forgotten Zone | 235824 | [235824-sector-666-the-forgotten-zone.json](./235824-sector-666-the-forgotten-zone.json) |
 | Sector 724 | 76967 | [76967-sector-724.json](./76967-sector-724.json) |
 | Sector 82 | 181149 | [181149-sector-82.json](./181149-sector-82.json) |
 | Sector 86 | 413152 | [413152-sector-86.json](./413152-sector-86.json) |
@@ -15804,6 +15805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Famista | 218386 | [218386-super-famista.json](./218386-super-famista.json) |
 | Super Fancy Pants Adventure | 51485 | [51485-super-fancy-pants-adventure.json](./51485-super-fancy-pants-adventure.json) |
 | Super Fangame Maker | 322607 | [322607-super-fangame-maker.json](./322607-super-fangame-maker.json) |
+| Super Fantasy Kingdom | 235823 | [235823-super-fantasy-kingdom.json](./235823-super-fantasy-kingdom.json) |
 | Super Farm | 43290 | [43290-super-farm.json](./43290-super-farm.json) |
 | Super Fight | 132240 | [132240-super-fight.json](./132240-super-fight.json) |
 | Super Fight | 247221 | [247221-super-fight.json](./247221-super-fight.json) |
