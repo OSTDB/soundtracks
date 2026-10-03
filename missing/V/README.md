@@ -2127,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vulcard | 351715 | [351715-vulcard.json](./351715-vulcard.json) |
 | Vulgus | 25886 | [25886-vulgus.json](./25886-vulgus.json) |
 | Vulpine | 82477 | [82477-vulpine.json](./82477-vulpine.json) |
+| Vulpis | 253501 | [253501-vulpis.json](./253501-vulpis.json) |
 | Vultur: Magic Artifact Retrieval Service | 186643 | [186643-vultur-magic-artifact-retrieval-service.json](./186643-vultur-magic-artifact-retrieval-service.json) |
 | Vulture Attack | 40721 | [40721-vulture-attack.json](./40721-vulture-attack.json) |
 | Vulture Island | 31046 | [31046-vulture-island.json](./31046-vulture-island.json) |
