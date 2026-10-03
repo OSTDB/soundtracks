@@ -1895,9 +1895,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felis: Cat Saving Platformer | 30106 | [30106-felis-cat-saving-platformer.json](./30106-felis-cat-saving-platformer.json) |
 | Felix in the Factory | 13713 | [13713-felix-in-the-factory.json](./13713-felix-in-the-factory.json) |
 | Felix Jumpman | 29878 | [29878-felix-jumpman.json](./29878-felix-jumpman.json) |
+| Felix the Cat | 240932 | [240932-felix-the-cat.json](./240932-felix-the-cat.json) |
 | Felix the Cat | 282575 | [282575-felix-the-cat.json](./282575-felix-the-cat.json) |
 | Felix the Cat: A Bomba-Relógio | 282585 | [282585-felix-the-cat-a-bomba-relogio.json](./282585-felix-the-cat-a-bomba-relogio.json) |
 | Felix the Cat: Contra os Inimigos | 282586 | [282586-felix-the-cat-contra-os-inimigos.json](./282586-felix-the-cat-contra-os-inimigos.json) |
+| Felix the Cat's Giant Electronic Comic Book | 240933 | [240933-felix-the-cats-giant-electronic-comic-book.json](./240933-felix-the-cats-giant-electronic-comic-book.json) |
 | Felix the Reaper | 80006 | [80006-felix-the-reaper.json](./80006-felix-the-reaper.json) |
 | Felix the Toy | 144846 | [144846-felix-the-toy.json](./144846-felix-the-toy.json) |
 | Felix VR | 163916 | [163916-felix-vr.json](./163916-felix-vr.json) |
