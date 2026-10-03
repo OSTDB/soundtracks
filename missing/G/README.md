@@ -1516,7 +1516,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genomon: Genetic Monsters | 142842 | [142842-genomon-genetic-monsters.json](./142842-genomon-genetic-monsters.json) |
 | Genpei Kassen | 183870 | [183870-genpei-kassen.json](./183870-genpei-kassen.json) |
 | Genre Hopper | 182532 | [182532-genre-hopper.json](./182532-genre-hopper.json) |
+| Gensei Fukyo Den | 263673 | [263673-gensei-fukyo-den.json](./263673-gensei-fukyo-den.json) |
+| Gensei Haiyuuki | 263682 | [263682-gensei-haiyuuki.json](./263682-gensei-haiyuuki.json) |
+| Gensei Kaishingeki | 263681 | [263681-gensei-kaishingeki.json](./263681-gensei-kaishingeki.json) |
+| Gensei Kaito Den | 263677 | [263677-gensei-kaito-den.json](./263677-gensei-kaito-den.json) |
+| Gensei Kitan Gaiden 1 | 263683 | [263683-gensei-kitan-gaiden-1.json](./263683-gensei-kitan-gaiden-1.json) |
+| Gensei Kitan Gaiden 2 | 263684 | [263684-gensei-kitan-gaiden-2.json](./263684-gensei-kitan-gaiden-2.json) |
+| Gensei Kitan: Disc Saga III | 263674 | [263674-gensei-kitan-disc-saga-iii.json](./263674-gensei-kitan-disc-saga-iii.json) |
 | Gensei Suikoden | 97282 | [97282-gensei-suikoden.json](./97282-gensei-suikoden.json) |
+| Gensei Suikoden Plus | 263685 | [263685-gensei-suikoden-plus.json](./263685-gensei-suikoden-plus.json) |
+| Gensei Torimonocho | 263680 | [263680-gensei-torimonocho.json](./263680-gensei-torimonocho.json) |
 | Genseijin Justirisers | 49607 | [49607-genseijin-justirisers.json](./49607-genseijin-justirisers.json) |
 | Genshin Impact: A Nocturne of the Far North | 378320 | [378320-genshin-impact-a-nocturne-of-the-far-north.json](./378320-genshin-impact-a-nocturne-of-the-far-north.json) |
 | Genshin Impact: A Rekviem for the Underworld | 417641 | [417641-genshin-impact-a-rekviem-for-the-underworld.json](./417641-genshin-impact-a-rekviem-for-the-underworld.json) |
