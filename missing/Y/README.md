@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yánhuáng Dàlù | 130150 | [130150-yanhuang-dalu.json](./130150-yanhuang-dalu.json) |
 | Yankai's Peak. | 43515 | [43515-yankais-peak.json](./43515-yankais-peak.json) |
 | Yanone: Letter Splatter | 75781 | [75781-yanone-letter-splatter.json](./75781-yanone-letter-splatter.json) |
+| Yanvania 2022 | 227977 | [227977-yanvania-2022.json](./227977-yanvania-2022.json) |
 | Yáo Àn Dēng Hǎi | 373709 | [373709-yao-an-deng-hai.json](./373709-yao-an-deng-hai.json) |
 | Yāo Dāo Zhuàn | 373695 | [373695-yao-dao-zhuan.json](./373695-yao-dao-zhuan.json) |
 | Yāo Xiān Dòngfǔ | 373706 | [373706-yao-xian-dongfu.json](./373706-yao-xian-dongfu.json) |
@@ -247,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yes My Lord | 199090 | [199090-yes-my-lord.json](./199090-yes-my-lord.json) |
 | Yes, And So Our Hollow Hearts Called For Love | 352835 | [352835-yes-and-so-our-hollow-hearts-called-for-love.json](./352835-yes-and-so-our-hollow-hearts-called-for-love.json) |
 | Yes, Master! | 118984 | [118984-yes-master.json](./118984-yes-master.json) |
+| Yes, My Demon Queen! | 227982 | [227982-yes-my-demon-queen.json](./227982-yes-my-demon-queen.json) |
 | Yes! PreCure 5 | 168328 | [168328-yes-precure-5.json](./168328-yes-precure-5.json) |
 | Yes! PreCure 5 GoGo! Zenin ShuuGO! Dream Festival | 124149 | [124149-yes-precure-5-gogo-zenin-shuugo-dream-festival.json](./124149-yes-precure-5-gogo-zenin-shuugo-dream-festival.json) |
 | Yes! PreCure 5 GoGo!: LoveLove Hiragana Lesson | 327604 | [327604-yes-precure-5-gogo-lovelove-hiragana-lesson.json](./327604-yes-precure-5-gogo-lovelove-hiragana-lesson.json) |
@@ -375,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yogurt Commercial 3 | 146850 | [146850-yogurt-commercial-3.json](./146850-yogurt-commercial-3.json) |
 | Yogurt Royale | 177010 | [177010-yogurt-royale.json](./177010-yogurt-royale.json) |
 | Yogurt! | 158540 | [158540-yogurt.json](./158540-yogurt.json) |
+| Yogurt's Big Adventure | 227753 | [227753-yogurts-big-adventure.json](./227753-yogurts-big-adventure.json) |
 | Yogurting | 166014 | [166014-yogurting.json](./166014-yogurting.json) |
 | Yohane the Parhelion: Additional Character Pack vol.1 "Dia & Hanamaru & Kanan" | 301020 | [301020-yohane-the-parhelion-additional-character-pack-vol-1-dia-and-hanamaru-and-kanan.json](./301020-yohane-the-parhelion-additional-character-pack-vol-1-dia-and-hanamaru-and-kanan.json) |
 | Yohane the Parhelion: Additional character pack vol.3 "Riko & Mari + Yohane" | 315494 | [315494-yohane-the-parhelion-additional-character-pack-vol-3-riko-and-mari-yohane.json](./315494-yohane-the-parhelion-additional-character-pack-vol-3-riko-and-mari-yohane.json) |
