@@ -1314,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taquero Simulator | 301806 | [301806-taquero-simulator.json](./301806-taquero-simulator.json) |
 | Tar Alterra Adventure Game | 165640 | [165640-tar-alterra-adventure-game.json](./165640-tar-alterra-adventure-game.json) |
 | Tarah | 397090 | [397090-tarah.json](./397090-tarah.json) |
+| Tarantula Virus | 258620 | [258620-tarantula-virus.json](./258620-tarantula-virus.json) |
 | Tarareba | 194555 | [194555-tarareba.json](./194555-tarareba.json) |
 | Taravana | 132251 | [132251-taravana.json](./132251-taravana.json) |
 | Tardiness Girl | 360198 | [360198-tardiness-girl.json](./360198-tardiness-girl.json) |
@@ -5255,6 +5256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Race | 55835 | [55835-the-great-race.json](./55835-the-great-race.json) |
 | The Great Race | 99775 | [99775-the-great-race.json](./99775-the-great-race.json) |
 | The Great Rebellion | 290012 | [290012-the-great-rebellion.json](./290012-the-great-rebellion.json) |
+| The Great Sassanelli | 258615 | [258615-the-great-sassanelli.json](./258615-the-great-sassanelli.json) |
 | The Great Smog | 244752 | [244752-the-great-smog.json](./244752-the-great-smog.json) |
 | The Great Song | 179170 | [179170-the-great-song.json](./179170-the-great-song.json) |
 | The Great Stroke-Off! | 73311 | [73311-the-great-stroke-off.json](./73311-the-great-stroke-off.json) |
@@ -7013,6 +7015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mice of Riddle Place - The Mystery of Mrs. Wirth | 108605 | [108605-the-mice-of-riddle-place-the-mystery-of-mrs-wirth.json](./108605-the-mice-of-riddle-place-the-mystery-of-mrs-wirth.json) |
 | The Mice Plight | 259008 | [259008-the-mice-plight.json](./259008-the-mice-plight.json) |
 | The Midnight Bakery | 135875 | [135875-the-midnight-bakery.json](./135875-the-midnight-bakery.json) |
+| The Midnight Crimes | 258646 | [258646-the-midnight-crimes.json](./258646-the-midnight-crimes.json) |
 | The Midnight Lapse: Reborn | 26984 | [26984-the-midnight-lapse-reborn.json](./26984-the-midnight-lapse-reborn.json) |
 | The Midnight Park | 183066 | [183066-the-midnight-park.json](./183066-the-midnight-park.json) |
 | The Midnight Walkers | 289983 | [289983-the-midnight-walkers.json](./289983-the-midnight-walkers.json) |
@@ -7074,6 +7077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moment We Met | 110910 | [110910-the-moment-we-met.json](./110910-the-moment-we-met.json) |
 | The Momo Game | 110632 | [110632-the-momo-game.json](./110632-the-momo-game.json) |
 | The Monad | 372610 | [372610-the-monad.json](./372610-the-monad.json) |
+| The Monarch | 258645 | [258645-the-monarch.json](./258645-the-monarch.json) |
 | The Monarch: First Light | 289981 | [289981-the-monarch-first-light.json](./289981-the-monarch-first-light.json) |
 | The Monastery | 304889 | [304889-the-monastery.json](./304889-the-monastery.json) |
 | The Monastery of Mount Cinburron | 308388 | [308388-the-monastery-of-mount-cinburron.json](./308388-the-monastery-of-mount-cinburron.json) |
@@ -7954,6 +7958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Riflemen | 207311 | [207311-the-riflemen.json](./207311-the-riflemen.json) |
 | The Rift | 116300 | [116300-the-rift.json](./116300-the-rift.json) |
 | The Rift | 343276 | [343276-the-rift.json](./343276-the-rift.json) |
+| The Rift Between Us | 258606 | [258606-the-rift-between-us.json](./258606-the-rift-between-us.json) |
 | The Riftbreaker: Heart of the Swamp | 263033 | [263033-the-riftbreaker-heart-of-the-swamp.json](./263033-the-riftbreaker-heart-of-the-swamp.json) |
 | The Right Side of Town | 185408 | [185408-the-right-side-of-town.json](./185408-the-right-side-of-town.json) |
 | The Right Turn | 183060 | [183060-the-right-turn.json](./183060-the-right-turn.json) |
@@ -16573,6 +16578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinkle Star Sprites: La Petite Princesse | 43453 | [43453-twinkle-star-sprites-la-petite-princesse.json](./43453-twinkle-star-sprites-la-petite-princesse.json) |
 | Twinkle Stardust's Catnap Chaos | 384192 | [384192-twinkle-stardusts-catnap-chaos.json](./384192-twinkle-stardusts-catnap-chaos.json) |
 | Twinkle Tale | 46179 | [46179-twinkle-tale.json](./46179-twinkle-tale.json) |
+| Twinkle Twinkle Little Star | 258621 | [258621-twinkle-twinkle-little-star.json](./258621-twinkle-twinkle-little-star.json) |
 | Twinkle Yohane | 405501 | [405501-twinkle-yohane.json](./405501-twinkle-yohane.json) |
 | Twinkle’s Galactic Tour | 374266 | [374266-twinkle-s-galactic-tour.json](./374266-twinkle-s-galactic-tour.json) |
 | Twinkleby | 340589 | [340589-twinkleby.json](./340589-twinkleby.json) |
