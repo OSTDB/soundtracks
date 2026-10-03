@@ -1966,6 +1966,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferrari Challenge: Trofeo Pirelli | 259269 | [259269-ferrari-challenge-trofeo-pirelli.json](./259269-ferrari-challenge-trofeo-pirelli.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259270 | [259270-ferrari-challenge-trofeo-pirelli.json](./259270-ferrari-challenge-trofeo-pirelli.json) |
 | Ferrari Formula One | 12093 | [12093-ferrari-formula-one.json](./12093-ferrari-formula-one.json) |
+| Ferrari Grand Prix Challenge | 259770 | [259770-ferrari-grand-prix-challenge.json](./259770-ferrari-grand-prix-challenge.json) |
+| Ferrari Grand Prix Challenge | 259771 | [259771-ferrari-grand-prix-challenge.json](./259771-ferrari-grand-prix-challenge.json) |
 | Ferrari Grand Prix Challenge | 48290 | [48290-ferrari-grand-prix-challenge.json](./48290-ferrari-grand-prix-challenge.json) |
 | Ferrari GT: Evolution | 66696 | [66696-ferrari-gt-evolution.json](./66696-ferrari-gt-evolution.json) |
 | Ferrari Racing | 218421 | [218421-ferrari-racing.json](./218421-ferrari-racing.json) |
@@ -6060,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Up! | 390816 | [390816-frog-up.json](./390816-frog-up.json) |
 | Frog vs Mural Girl 2: The Back Layer | 409762 | [409762-frog-vs-mural-girl-2-the-back-layer.json](./409762-frog-vs-mural-girl-2-the-back-layer.json) |
 | Frog Wizard Gem Quest | 228993 | [228993-frog-wizard-gem-quest.json](./228993-frog-wizard-gem-quest.json) |
+| Frog's Adventure | 259738 | [259738-frogs-adventure.json](./259738-frogs-adventure.json) |
 | Frogatto | 92280 | [92280-frogatto.json](./92280-frogatto.json) |
 | Frogatto & Friends | 343974 | [343974-frogatto-and-friends.json](./343974-frogatto-and-friends.json) |
 | Frogatto & Friends | 343976 | [343976-frogatto-and-friends.json](./343976-frogatto-and-friends.json) |
