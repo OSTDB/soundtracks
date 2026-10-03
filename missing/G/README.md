@@ -3304,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf of the Dead | 181705 | [181705-golf-of-the-dead.json](./181705-golf-of-the-dead.json) |
 | Golf Party | 141741 | [141741-golf-party.json](./141741-golf-party.json) |
 | Golf Peaks | 107329 | [107329-golf-peaks.json](./107329-golf-peaks.json) |
+| Golf Pro | 247062 | [247062-golf-pro.json](./247062-golf-pro.json) |
 | Golf Pro 2000 Downunder | 93072 | [93072-golf-pro-2000-downunder.json](./93072-golf-pro-2000-downunder.json) |
 | Golf Resort Tycoon | 73296 | [73296-golf-resort-tycoon.json](./73296-golf-resort-tycoon.json) |
 | Golf Resort Tycoon II | 23465 | [23465-golf-resort-tycoon-ii.json](./23465-golf-resort-tycoon-ii.json) |
