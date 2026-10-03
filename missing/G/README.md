@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galf Streem | 386936 | [386936-galf-streem.json](./386936-galf-streem.json) |
 | Galga | 227882 | [227882-galga.json](./227882-galga.json) |
 | Galidor: Defenders of the Outer Dimension | 316808 | [316808-galidor-defenders-of-the-outer-dimension.json](./316808-galidor-defenders-of-the-outer-dimension.json) |
+| Galileo Mystery: The Crown of Midas | 268118 | [268118-galileo-mystery-the-crown-of-midas.json](./268118-galileo-mystery-the-crown-of-midas.json) |
 | Galimulator | 89971 | [89971-galimulator.json](./89971-galimulator.json) |
 | Galix: NewHorizons | 304695 | [304695-galix-newhorizons.json](./304695-galix-newhorizons.json) |
 | Gall Force - Eternal Story | 230225 | [230225-gall-force-eternal-story.json](./230225-gall-force-eternal-story.json) |
@@ -1584,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeographyHelp | 316158 | [316158-geographyhelp.json](./316158-geographyhelp.json) |
 | GeoGrid | 301361 | [301361-geogrid.json](./301361-geogrid.json) |
 | GeoGuessr: Steam Edition | 336739 | [336739-geoguessr-steam-edition.json](./336739-geoguessr-steam-edition.json) |
+| GeoHub | 268109 | [268109-geohub.json](./268109-geohub.json) |
 | GeoJelly | 232457 | [232457-geojelly.json](./232457-geojelly.json) |
 | GeoJelly Space Odyssey Bundle | 284504 | [284504-geojelly-space-odyssey-bundle.json](./284504-geojelly-space-odyssey-bundle.json) |
 | GeoJelly: in the Space | 279861 | [279861-geojelly-in-the-space.json](./279861-geojelly-in-the-space.json) |
@@ -2726,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal Poacher VR: Football Header Simulator | 326415 | [326415-goal-poacher-vr-football-header-simulator.json](./326415-goal-poacher-vr-football-header-simulator.json) |
 | Goal Storm | 20315 | [20315-goal-storm.json](./20315-goal-storm.json) |
 | Goal! | 218001 | [218001-goal.json](./218001-goal.json) |
+| Goal! | 268132 | [268132-goal.json](./268132-goal.json) |
 | Goal! | 348225 | [348225-goal.json](./348225-goal.json) |
 | Goal! Goal! Goal! | 39549 | [39549-goal-goal-goal.json](./39549-goal-goal-goal.json) |
 | Goal!! | 196270 | [196270-goal.json](./196270-goal.json) |
