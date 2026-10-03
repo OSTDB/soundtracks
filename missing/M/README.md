@@ -9073,6 +9073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movie Tycoon Simulator 2020 | 150536 | [150536-movie-tycoon-simulator-2020.json](./150536-movie-tycoon-simulator-2020.json) |
 | Moviedle | 401684 | [401684-moviedle.json](./401684-moviedle.json) |
 | Movierooms: Cinema Management | 260156 | [260156-movierooms-cinema-management.json](./260156-movierooms-cinema-management.json) |
+| Movies Tycoon | 273593 | [273593-movies-tycoon.json](./273593-movies-tycoon.json) |
 | Movies Tycoon: Dawn of Cinema | 365820 | [365820-movies-tycoon-dawn-of-cinema.json](./365820-movies-tycoon-dawn-of-cinema.json) |
 | Movies Tycoon: Thrills & Spectacles | 377853 | [377853-movies-tycoon-thrills-and-spectacles.json](./377853-movies-tycoon-thrills-and-spectacles.json) |
 | MovieStarPlanet | 94981 | [94981-moviestarplanet.json](./94981-moviestarplanet.json) |
@@ -9717,6 +9718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Hunter | 190969 | [190969-mushroom-hunter.json](./190969-mushroom-hunter.json) |
 | Mushroom Kid's Big Grass Sword | 285525 | [285525-mushroom-kids-big-grass-sword.json](./285525-mushroom-kids-big-grass-sword.json) |
 | Mushroom Kingdom Fusion | 134078 | [134078-mushroom-kingdom-fusion.json](./134078-mushroom-kingdom-fusion.json) |
+| Mushroom Kingdom Meltdown | 273559 | [273559-mushroom-kingdom-meltdown.json](./273559-mushroom-kingdom-meltdown.json) |
 | Mushroom Kingdom Showdown | 307714 | [307714-mushroom-kingdom-showdown.json](./307714-mushroom-kingdom-showdown.json) |
 | Mushroom Kingdom Showdown 2 | 321412 | [321412-mushroom-kingdom-showdown-2.json](./321412-mushroom-kingdom-showdown-2.json) |
 | Mushroom Manor | 358476 | [358476-mushroom-manor.json](./358476-mushroom-manor.json) |
