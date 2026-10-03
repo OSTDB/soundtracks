@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halfway | 178445 | [178445-halfway.json](./178445-halfway.json) |
 | Halfway | 377170 | [377170-halfway.json](./377170-halfway.json) |
 | Halfway | 8800 | [8800-halfway.json](./8800-halfway.json) |
+| Halfway to Dawn | 249362 | [249362-halfway-to-dawn.json](./249362-halfway-to-dawn.json) |
 | Hall of the Art Thieves | 122271 | [122271-hall-of-the-art-thieves.json](./122271-hall-of-the-art-thieves.json) |
 | Hall of the Dwarf King | 339375 | [339375-hall-of-the-dwarf-king.json](./339375-hall-of-the-dwarf-king.json) |
 | Hall of the Epiphany | 276378 | [276378-hall-of-the-epiphany.json](./276378-hall-of-the-epiphany.json) |
@@ -3614,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects - Ireland Adventures & Object Time Puzzle Games | 71205 | [71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json](./71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json) |
 | Hidden Objects Collection | 93969 | [93969-hidden-objects-collection.json](./93969-hidden-objects-collection.json) |
 | Hidden Objects Collection 5: Detective Stories | 282055 | [282055-hidden-objects-collection-5-detective-stories.json](./282055-hidden-objects-collection-5-detective-stories.json) |
+| Hidden Objects Fantasy Games | 249315 | [249315-hidden-objects-fantasy-games.json](./249315-hidden-objects-fantasy-games.json) |
 | Hidden Objects Lost Worlds | 70913 | [70913-hidden-objects-lost-worlds.json](./70913-hidden-objects-lost-worlds.json) |
 | Hidden Objects Magical Places | 99397 | [99397-hidden-objects-magical-places.json](./99397-hidden-objects-magical-places.json) |
 | Hidden Objects Painted Forest | 415893 | [415893-hidden-objects-painted-forest.json](./415893-hidden-objects-painted-forest.json) |
@@ -5609,6 +5611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoven the Sages Spinel | 34529 | [34529-hoven-the-sages-spinel.json](./34529-hoven-the-sages-spinel.json) |
 | Hover 2030 | 32897 | [32897-hover-2030.json](./32897-hover-2030.json) |
 | Hover Ace | 54103 | [54103-hover-ace.json](./54103-hover-ace.json) |
+| Hover Cross Skills | 249316 | [249316-hover-cross-skills.json](./249316-hover-cross-skills.json) |
 | Hover Cubes: Arena | 34612 | [34612-hover-cubes-arena.json](./34612-hover-cubes-arena.json) |
 | Hover Force | 5675 | [5675-hover-force.json](./5675-hover-force.json) |
 | Hover Havoc | 32143 | [32143-hover-havoc.json](./32143-hover-havoc.json) |
