@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Failed Trust | 290558 | [290558-failed-trust.json](./290558-failed-trust.json) |
 | Failspace | 111795 | [111795-failspace.json](./111795-failspace.json) |
 | Failure Drill | 241518 | [241518-failure-drill.json](./241518-failure-drill.json) |
+| Faily Brakes 2 | 243744 | [243744-faily-brakes-2.json](./243744-faily-brakes-2.json) |
 | Faily Brakes Classic | 174310 | [174310-faily-brakes-classic.json](./174310-faily-brakes-classic.json) |
 | Faily Rider | 101534 | [101534-faily-rider.json](./101534-faily-rider.json) |
 | Faily Skater | 90787 | [90787-faily-skater.json](./90787-faily-skater.json) |
@@ -1221,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faria: A World of Mystery and Danger! | 48060 | [48060-faria-a-world-of-mystery-and-danger.json](./48060-faria-a-world-of-mystery-and-danger.json) |
 | Faria: Ghosts of the Stream | 32149 | [32149-faria-ghosts-of-the-stream.json](./32149-faria-ghosts-of-the-stream.json) |
 | Farjius no Jakoutei: Neo Metal Fantasy | 69862 | [69862-farjius-no-jakoutei-neo-metal-fantasy.json](./69862-farjius-no-jakoutei-neo-metal-fantasy.json) |
+| Farkle King | 243745 | [243745-farkle-king.json](./243745-farkle-king.json) |
 | Farland Saga I & II: Saturn Tribute | 360013 | [360013-farland-saga-i-and-ii-saturn-tribute.json](./360013-farland-saga-i-and-ii-saturn-tribute.json) |
 | Farland Story FX | 45953 | [45953-farland-story-fx.json](./45953-farland-story-fx.json) |
 | Farland Story: Daichi no Kizuna | 70455 | [70455-farland-story-daichi-no-kizuna.json](./70455-farland-story-daichi-no-kizuna.json) |
@@ -5002,6 +5004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Vale | 295312 | [295312-forgotten-vale.json](./295312-forgotten-vale.json) |
 | Forgotten VIlla | 389042 | [389042-forgotten-villa.json](./389042-forgotten-villa.json) |
 | Forgotten War | 252068 | [252068-forgotten-war.json](./252068-forgotten-war.json) |
+| Forgotten Warrior | 243728 | [243728-forgotten-warrior.json](./243728-forgotten-warrior.json) |
 | Forgotten Waters | 258536 | [258536-forgotten-waters.json](./258536-forgotten-waters.json) |
 | Forgotten: Whispers From Ashes | 373194 | [373194-forgotten-whispers-from-ashes.json](./373194-forgotten-whispers-from-ashes.json) |
 | Forgotton Anne | 24426 | [24426-forgotton-anne.json](./24426-forgotton-anne.json) |
