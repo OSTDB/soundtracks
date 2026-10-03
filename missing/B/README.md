@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badlanders | 140378 | [140378-badlanders.json](./140378-badlanders.json) |
 | Badlanders | 192286 | [192286-badlanders.json](./192286-badlanders.json) |
 | Badlands | 190719 | [190719-badlands.json](./190719-badlands.json) |
+| Badlands Crew | 258109 | [258109-badlands-crew.json](./258109-badlands-crew.json) |
 | Badmad Robots | 294140 | [294140-badmad-robots.json](./294140-badmad-robots.json) |
 | BadMan | 240524 | [240524-badman.json](./240524-badman.json) |
 | Badminton Kings VR | 89258 | [89258-badminton-kings-vr.json](./89258-badminton-kings-vr.json) |
@@ -7499,6 +7500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Stars: Welcome To Starr Park! | 318569 | [318569-brawl-stars-welcome-to-starr-park.json](./318569-brawl-stars-welcome-to-starr-park.json) |
 | Brawl Stars: Year Of The Dragon | 318591 | [318591-brawl-stars-year-of-the-dragon.json](./318591-brawl-stars-year-of-the-dragon.json) |
 | Brawl Stars: Year Of The Tiger | 318578 | [318578-brawl-stars-year-of-the-tiger.json](./318578-brawl-stars-year-of-the-tiger.json) |
+| Brawl Tactics: Origins | 258089 | [258089-brawl-tactics-origins.json](./258089-brawl-tactics-origins.json) |
 | Brawlberry | 273961 | [273961-brawlberry.json](./273961-brawlberry.json) |
 | Brawler Friends | 58185 | [58185-brawler-friends.json](./58185-brawler-friends.json) |
 | Brawler Friends | 58186 | [58186-brawler-friends.json](./58186-brawler-friends.json) |
