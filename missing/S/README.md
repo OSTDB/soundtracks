@@ -3440,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Racer | 120344 | [120344-shadow-racer.json](./120344-shadow-racer.json) |
 | Shadow Rasa | 390147 | [390147-shadow-rasa.json](./390147-shadow-rasa.json) |
 | Shadow Realms | 7617 | [7617-shadow-realms.json](./7617-shadow-realms.json) |
+| Shadow Rebirth | 267002 | [267002-shadow-rebirth.json](./267002-shadow-rebirth.json) |
 | Shadow Redemption | 169398 | [169398-shadow-redemption.json](./169398-shadow-redemption.json) |
 | Shadow Rising: Reinedgening | 330307 | [330307-shadow-rising-reinedgening.json](./330307-shadow-rising-reinedgening.json) |
 | Shadow Runner | 116287 | [116287-shadow-runner.json](./116287-shadow-runner.json) |
@@ -3782,6 +3783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of Nogard | 207310 | [207310-shards-of-nogard.json](./207310-shards-of-nogard.json) |
 | Shards of the Library | 366296 | [366296-shards-of-the-library.json](./366296-shards-of-the-library.json) |
 | Shards of the Mirror | 340381 | [340381-shards-of-the-mirror.json](./340381-shards-of-the-mirror.json) |
+| Shards of the Past | 266977 | [266977-shards-of-the-past.json](./266977-shards-of-the-past.json) |
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
 | Shared Beauty | 270760 | [270760-shared-beauty.json](./270760-shared-beauty.json) |
 | Shared RC | 415307 | [415307-shared-rc.json](./415307-shared-rc.json) |
@@ -11879,6 +11881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stand O'Food 3 | 87189 | [87189-stand-ofood-3.json](./87189-stand-ofood-3.json) |
 | Stand Out: VR Battle Royale | 115729 | [115729-stand-out-vr-battle-royale.json](./115729-stand-out-vr-battle-royale.json) |
 | Stand Your Ground | 259098 | [259098-stand-your-ground.json](./259098-stand-your-ground.json) |
+| Stand Your Ground | 266971 | [266971-stand-your-ground.json](./266971-stand-your-ground.json) |
 | Standard Bits | 108835 | [108835-standard-bits.json](./108835-standard-bits.json) |
 | Standard Legend | 116365 | [116365-standard-legend.json](./116365-standard-legend.json) |
 | Standby | 248069 | [248069-standby.json](./248069-standby.json) |
@@ -12443,6 +12446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starboard | 192366 | [192366-starboard.json](./192366-starboard.json) |
 | Starboard | 334157 | [334157-starboard.json](./334157-starboard.json) |
 | Starboi | 360603 | [360603-starboi.json](./360603-starboi.json) |
+| StarBoost | 266998 | [266998-starboost.json](./266998-starboost.json) |
 | Starboost EX | 123636 | [123636-starboost-ex.json](./123636-starboost-ex.json) |
 | StarBooze Reborn | 357314 | [357314-starbooze-reborn.json](./357314-starbooze-reborn.json) |
 | Starborn Space | 115027 | [115027-starborn-space.json](./115027-starborn-space.json) |
