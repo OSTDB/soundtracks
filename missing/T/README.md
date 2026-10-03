@@ -1382,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task Force Kampas | 117141 | [117141-task-force-kampas.json](./117141-task-force-kampas.json) |
 | Task III | 55150 | [55150-task-iii.json](./55150-task-iii.json) |
 | Task: 312 | 144861 | [144861-task-312.json](./144861-task-312.json) |
+| Tasking | 261973 | [261973-tasking.json](./261973-tasking.json) |
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
 | Tasogare Sakaba: Uwabami Breakers | 123588 | [123588-tasogare-sakaba-uwabami-breakers.json](./123588-tasogare-sakaba-uwabami-breakers.json) |
 | Tasokare Hotel | 202675 | [202675-tasokare-hotel.json](./202675-tasokare-hotel.json) |
@@ -3866,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Corruption Within | 153387 | [153387-the-corruption-within.json](./153387-the-corruption-within.json) |
 | The Cosmic Tunnels | 62760 | [62760-the-cosmic-tunnels.json](./62760-the-cosmic-tunnels.json) |
 | The Cosmic Wheel Sisterhood | 247578 | [247578-the-cosmic-wheel-sisterhood.json](./247578-the-cosmic-wheel-sisterhood.json) |
+| The Cosmic Wheel Sisterhood - Deluxe Edition | 261993 | [261993-the-cosmic-wheel-sisterhood-deluxe-edition.json](./261993-the-cosmic-wheel-sisterhood-deluxe-edition.json) |
 | The Cosmos is Mine! | 35800 | [35800-the-cosmos-is-mine.json](./35800-the-cosmos-is-mine.json) |
 | The Cost Of Bliss | 282057 | [282057-the-cost-of-bliss.json](./282057-the-cost-of-bliss.json) |
 | The Cost of Recovery | 153859 | [153859-the-cost-of-recovery.json](./153859-the-cost-of-recovery.json) |
@@ -10137,6 +10139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Age: Total War | 356233 | [356233-third-age-total-war.json](./356233-third-age-total-war.json) |
 | Third Crisis | 187542 | [187542-third-crisis.json](./187542-third-crisis.json) |
 | Third Crisis: Neon Nights | 397168 | [397168-third-crisis-neon-nights.json](./397168-third-crisis-neon-nights.json) |
+| Third Eye | 261963 | [261963-third-eye.json](./261963-third-eye.json) |
 | Third Front | 89656 | [89656-third-front.json](./89656-third-front.json) |
 | Third Grade Learning Games | 86903 | [86903-third-grade-learning-games.json](./86903-third-grade-learning-games.json) |
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
@@ -12201,6 +12204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Bridge | 348787 | [348787-to-the-bridge.json](./348787-to-the-bridge.json) |
 | To the Capital | 24476 | [24476-to-the-capital.json](./24476-to-the-capital.json) |
 | To the City of the Clouds | 83597 | [83597-to-the-city-of-the-clouds.json](./83597-to-the-city-of-the-clouds.json) |
+| To the Core | 261974 | [261974-to-the-core.json](./261974-to-the-core.json) |
 | To the Core | 307614 | [307614-to-the-core.json](./307614-to-the-core.json) |
 | To the Cosmos | 144227 | [144227-to-the-cosmos.json](./144227-to-the-cosmos.json) |
 | To the Crown | 182530 | [182530-to-the-crown.json](./182530-to-the-crown.json) |
@@ -12350,6 +12354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together | 82054 | [82054-together.json](./82054-together.json) |
 | Together | 96269 | [96269-together.json](./96269-together.json) |
 | Together After Dark | 286654 | [286654-together-after-dark.json](./286654-together-after-dark.json) |
+| Together Again | 261995 | [261995-together-again.json](./261995-together-again.json) |
 | Together Again: A "Lake's Funland" Story | 400432 | [400432-together-again-a-lakes-funland-story.json](./400432-together-again-a-lakes-funland-story.json) |
 | Together Bnb | 146310 | [146310-together-bnb.json](./146310-together-bnb.json) |
 | Together My Headers | 190977 | [190977-together-my-headers.json](./190977-together-my-headers.json) |
@@ -13971,6 +13976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toys: Crash Arena | 221396 | [221396-toys-crash-arena.json](./221396-toys-crash-arena.json) |
 | ToyShot VR | 112982 | [112982-toyshot-vr.json](./112982-toyshot-vr.json) |
 | Toz | 124200 | [124200-toz.json](./124200-toz.json) |
+| Tozerath in Ruins | 261968 | [261968-tozerath-in-ruins.json](./261968-tozerath-in-ruins.json) |
 | TP Bullet | 289930 | [289930-tp-bullet.json](./289930-tp-bullet.json) |
 | TPK | 372077 | [372077-tpk.json](./372077-tpk.json) |
 | Tplosjons | 138128 | [138128-tplosjons.json](./138128-tplosjons.json) |
