@@ -4885,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket of Whispers: Prologue | 107424 | [107424-rocket-of-whispers-prologue.json](./107424-rocket-of-whispers-prologue.json) |
 | Rocket Panda | 302425 | [302425-rocket-panda.json](./302425-rocket-panda.json) |
 | Rocket Pinball | 245413 | [245413-rocket-pinball.json](./245413-rocket-pinball.json) |
+| Rocket Power: Beach Bandits | 243188 | [243188-rocket-power-beach-bandits.json](./243188-rocket-power-beach-bandits.json) |
 | Rocket Power: Zero Gravity Zone | 262089 | [262089-rocket-power-zero-gravity-zone.json](./262089-rocket-power-zero-gravity-zone.json) |
 | Rocket Rabbit - Coin Race | 147866 | [147866-rocket-rabbit-coin-race.json](./147866-rocket-rabbit-coin-race.json) |
 | Rocket Raid | 13751 | [13751-rocket-raid.json](./13751-rocket-raid.json) |
