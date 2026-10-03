@@ -1701,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol the Movie: Adventure City Calls | 152302 | [152302-paw-patrol-the-movie-adventure-city-calls.json](./152302-paw-patrol-the-movie-adventure-city-calls.json) |
 | Paw Patrol To The Rescue! Learning Video Game | 274682 | [274682-paw-patrol-to-the-rescue-learning-video-game.json](./274682-paw-patrol-to-the-rescue-learning-video-game.json) |
 | Paw Patrol: Laptop Infantil | 294467 | [294467-paw-patrol-laptop-infantil.json](./294467-paw-patrol-laptop-infantil.json) |
+| PAW Patrol: Storm Rescuers | 230328 | [230328-paw-patrol-storm-rescuers.json](./230328-paw-patrol-storm-rescuers.json) |
 | Paw Patrol: The Movie Learning Phone | 274652 | [274652-paw-patrol-the-movie-learning-phone.json](./274652-paw-patrol-the-movie-learning-phone.json) |
 | Paw Patrol: World | 252175 | [252175-paw-patrol-world.json](./252175-paw-patrol-world.json) |
 | Pawafuru Puroyakyu 2024-2025 | 287890 | [287890-pawafuru-puroyakyu-2024-2025.json](./287890-pawafuru-puroyakyu-2024-2025.json) |
@@ -4038,6 +4039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixalo | 61310 | [61310-pixalo.json](./61310-pixalo.json) |
 | Pixapple Adventure | 388011 | [388011-pixapple-adventure.json](./388011-pixapple-adventure.json) |
 | Pixar Pals | 230398 | [230398-pixar-pals.json](./230398-pixar-pals.json) |
+| Pixar Pals Plus! | 230329 | [230329-pixar-pals-plus.json](./230329-pixar-pals-plus.json) |
 | PixArk: Jade Elegance - A Theatrical Odyssey in the East | 291059 | [291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json](./291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json) |
 | Pixasso 2 | 165703 | [165703-pixasso-2.json](./165703-pixasso-2.json) |
 | Pixasso 3 | 166624 | [166624-pixasso-3.json](./166624-pixasso-3.json) |
@@ -5349,6 +5351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poco's Maze Adventure | 319190 | [319190-pocos-maze-adventure.json](./319190-pocos-maze-adventure.json) |
 | Pocohontos | 225732 | [225732-pocohontos.json](./225732-pocohontos.json) |
 | Pocoman: Green Machine Level Pack | 262944 | [262944-pocoman-green-machine-level-pack.json](./262944-pocoman-green-machine-level-pack.json) |
+| Pocoyo | 230414 | [230414-pocoyo.json](./230414-pocoyo.json) |
 | Pocoyo and the Mystery of Hidden Objects | 266417 | [266417-pocoyo-and-the-mystery-of-hidden-objects.json](./266417-pocoyo-and-the-mystery-of-hidden-objects.json) |
 | Pocoyo Art | 102613 | [102613-pocoyo-art.json](./102613-pocoyo-art.json) |
 | Pocoyo Memo Game | 107659 | [107659-pocoyo-memo-game.json](./107659-pocoyo-memo-game.json) |
@@ -8062,6 +8065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Otherside | 265307 | [265307-project-otherside.json](./265307-project-otherside.json) |
 | Project Overkill | 20804 | [20804-project-overkill.json](./20804-project-overkill.json) |
 | Project Overnet | 272949 | [272949-project-overnet.json](./272949-project-overnet.json) |
+| Project Ozone 3 | 230348 | [230348-project-ozone-3.json](./230348-project-ozone-3.json) |
 | Project P.I.T.T. | 379356 | [379356-project-p-i-t-t.json](./379356-project-p-i-t-t.json) |
 | Project Paradise 2 | 326978 | [326978-project-paradise-2.json](./326978-project-paradise-2.json) |
 | Project Parasite | 255379 | [255379-project-parasite.json](./255379-project-parasite.json) |
