@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saghala: Heroes of the Last World | 195646 | [195646-saghala-heroes-of-the-last-world.json](./195646-saghala-heroes-of-the-last-world.json) |
 | Sagittarius: The Lost and Cursed | 352225 | [352225-sagittarius-the-lost-and-cursed.json](./352225-sagittarius-the-lost-and-cursed.json) |
 | Sago Mini Forest Flyer | 200108 | [200108-sago-mini-forest-flyer.json](./200108-sago-mini-forest-flyer.json) |
+| Sahara Storms WWIII | 239713 | [239713-sahara-storms-wwiii.json](./239713-sahara-storms-wwiii.json) |
 | SAHUR: Escape Together | 367936 | [367936-sahur-escape-together.json](./367936-sahur-escape-together.json) |
 | SaHwa: The Altered Timeline | 368601 | [368601-sahwa-the-altered-timeline.json](./368601-sahwa-the-altered-timeline.json) |
 | Sai | 133880 | [133880-sai.json](./133880-sai.json) |
@@ -3877,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharknado VR: Arcade Edition | 197404 | [197404-sharknado-vr-arcade-edition.json](./197404-sharknado-vr-arcade-edition.json) |
 | Sharknado VR: Eye of the Storm | 110288 | [110288-sharknado-vr-eye-of-the-storm.json](./110288-sharknado-vr-eye-of-the-storm.json) |
 | Sharkphobia | 243653 | [243653-sharkphobia.json](./243653-sharkphobia.json) |
+| Sharks | 239708 | [239708-sharks.json](./239708-sharks.json) |
 | Sharks and Minnows | 340956 | [340956-sharks-and-minnows.json](./340956-sharks-and-minnows.json) |
 | SharkSketch | 60576 | [60576-sharksketch.json](./60576-sharksketch.json) |
 | Sharkstorm | 297606 | [297606-sharkstorm.json](./297606-sharkstorm.json) |
@@ -10096,6 +10098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pirates for Life | 241390 | [241390-space-pirates-for-life.json](./241390-space-pirates-for-life.json) |
 | Space Plane | 160216 | [160216-space-plane.json](./160216-space-plane.json) |
 | Space Planet Invader: Cosmic Power | 305788 | [305788-space-planet-invader-cosmic-power.json](./305788-space-planet-invader-cosmic-power.json) |
+| Space Pop: Bubble Shooter | 239705 | [239705-space-pop-bubble-shooter.json](./239705-space-pop-bubble-shooter.json) |
 | Space Prevention Force | 179110 | [179110-space-prevention-force.json](./179110-space-prevention-force.json) |
 | Space Pricks | 248641 | [248641-space-pricks.json](./248641-space-pricks.json) |
 | Space puzzle | 152724 | [152724-space-puzzle.json](./152724-space-puzzle.json) |
@@ -15669,6 +15672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cosplay War Ultra | 66117 | [66117-super-cosplay-war-ultra.json](./66117-super-cosplay-war-ultra.json) |
 | Super Craft: Building Game | 100851 | [100851-super-craft-building-game.json](./100851-super-craft-building-game.json) |
 | Super Craft: Exploration Survival | 100961 | [100961-super-craft-exploration-survival.json](./100961-super-craft-exploration-survival.json) |
+| Super Crane Bug | 239706 | [239706-super-crane-bug.json](./239706-super-crane-bug.json) |
 | Super Crate Box | 9945 | [9945-super-crate-box.json](./9945-super-crate-box.json) |
 | Super Crate Box Together | 304150 | [304150-super-crate-box-together.json](./304150-super-crate-box-together.json) |
 | Super Crayon | 337232 | [337232-super-crayon.json](./337232-super-crayon.json) |
@@ -17536,6 +17540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor in Summer | 108059 | [108059-survivor-in-summer.json](./108059-survivor-in-summer.json) |
 | Survivor Island | 89419 | [89419-survivor-island.json](./89419-survivor-island.json) |
 | Survivor Master-Sifu | 293152 | [293152-survivor-master-sifu.json](./293152-survivor-master-sifu.json) |
+| Survivor Mercs | 239709 | [239709-survivor-mercs.json](./239709-survivor-mercs.json) |
 | Survivor of Eschewal | 74999 | [74999-survivor-of-eschewal.json](./74999-survivor-of-eschewal.json) |
 | Survivor of the Journey | 210892 | [210892-survivor-of-the-journey.json](./210892-survivor-of-the-journey.json) |
 | Survivor Squad: Gauntlets | 36186 | [36186-survivor-squad-gauntlets.json](./36186-survivor-squad-gauntlets.json) |
