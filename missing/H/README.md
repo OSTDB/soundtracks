@@ -1500,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Soccer | 260094 | [260094-head-soccer.json](./260094-head-soccer.json) |
 | Head Soccer | 87430 | [87430-head-soccer.json](./87430-head-soccer.json) |
 | Head to Head Football | 217833 | [217833-head-to-head-football.json](./217833-head-to-head-football.json) |
+| Head Trauma | 278083 | [278083-head-trauma.json](./278083-head-trauma.json) |
 | Head-On Soccer | 19758 | [19758-head-on-soccer.json](./19758-head-on-soccer.json) |
 | Head's Adventures: Chibichibi | 393116 | [393116-heads-adventures-chibichibi.json](./393116-heads-adventures-chibichibi.json) |
 | Headache | 182372 | [182372-headache.json](./182372-headache.json) |
@@ -1611,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbaked | 177504 | [177504-heartbaked.json](./177504-heartbaked.json) |
 | Heartbeat | 176978 | [176978-heartbeat.json](./176978-heartbeat.json) |
 | Heartbeat at Midnight | 407310 | [407310-heartbeat-at-midnight.json](./407310-heartbeat-at-midnight.json) |
+| Heartbeat Girlfriend | 278100 | [278100-heartbeat-girlfriend.json](./278100-heartbeat-girlfriend.json) |
 | Heartbeat House: Hong Kong | 386218 | [386218-heartbeat-house-hong-kong.json](./386218-heartbeat-house-hong-kong.json) |
 | Heartbeat Scramble | 209621 | [209621-heartbeat-scramble.json](./209621-heartbeat-scramble.json) |
 | Heartbeats | 211814 | [211814-heartbeats.json](./211814-heartbeats.json) |
@@ -2204,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Neighbor 3 | 287317 | [287317-hello-neighbor-3.json](./287317-hello-neighbor-3.json) |
 | Hello Neighbor Bundle | 118852 | [118852-hello-neighbor-bundle.json](./118852-hello-neighbor-bundle.json) |
 | Hello Neighbor Pre-Alpha | 403841 | [403841-hello-neighbor-pre-alpha.json](./403841-hello-neighbor-pre-alpha.json) |
+| Hello Neighbor Prototype | 278054 | [278054-hello-neighbor-prototype.json](./278054-hello-neighbor-prototype.json) |
 | Hello Neighbor: Hide and Seek | 107614 | [107614-hello-neighbor-hide-and-seek.json](./107614-hello-neighbor-hide-and-seek.json) |
 | Hello New World | 283851 | [283851-hello-new-world.json](./283851-hello-new-world.json) |
 | Hello Pocoyo! | 64972 | [64972-hello-pocoyo.json](./64972-hello-pocoyo.json) |
