@@ -2016,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Dice Gambit | 388396 | [388396-hell-dice-gambit.json](./388396-hell-dice-gambit.json) |
 | Hell Dive | 324307 | [324307-hell-dive.json](./324307-hell-dive.json) |
 | Hell Dungeons: The Lost Soul | 236362 | [236362-hell-dungeons-the-lost-soul.json](./236362-hell-dungeons-the-lost-soul.json) |
+| Hell Fighter | 242108 | [242108-hell-fighter.json](./242108-hell-fighter.json) |
 | Hell Fire: Seed of Calamity | 418727 | [418727-hell-fire-seed-of-calamity.json](./418727-hell-fire-seed-of-calamity.json) |
 | Hell Forest | 411794 | [411794-hell-forest.json](./411794-hell-forest.json) |
 | Hell Forged | 141139 | [141139-hell-forged.json](./141139-hell-forged.json) |
@@ -3447,6 +3448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats: Magic Forest | 277297 | [277297-hidden-cats-magic-forest.json](./277297-hidden-cats-magic-forest.json) |
 | Hidden Cats: Rome | 350572 | [350572-hidden-cats-rome.json](./350572-hidden-cats-rome.json) |
 | Hidden Cats: Zombie Hunter | 365284 | [365284-hidden-cats-zombie-hunter.json](./365284-hidden-cats-zombie-hunter.json) |
+| Hidden Chinese Chess | 242109 | [242109-hidden-chinese-chess.json](./242109-hidden-chinese-chess.json) |
 | Hidden City Top-Down 3D | 267460 | [267460-hidden-city-top-down-3d.json](./267460-hidden-city-top-down-3d.json) |
 | Hidden Clues: Mystery Scene Challenge | 409532 | [409532-hidden-clues-mystery-scene-challenge.json](./409532-hidden-clues-mystery-scene-challenge.json) |
 | Hidden Collection | 86714 | [86714-hidden-collection.json](./86714-hidden-collection.json) |
@@ -5034,6 +5036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopward | 372475 | [372475-hopward.json](./372475-hopward.json) |
 | Hopy-ONE | 93037 | [93037-hopy-one.json](./93037-hopy-one.json) |
 | Horace | 120323 | [120323-horace.json](./120323-horace.json) |
+| Horace to the Rescue | 242035 | [242035-horace-to-the-rescue.json](./242035-horace-to-the-rescue.json) |
 | Horatama | 157159 | [157159-horatama.json](./157159-horatama.json) |
 | Horatio: Connector 13 | 303566 | [303566-horatio-connector-13.json](./303566-horatio-connector-13.json) |
 | Horatio: Connector 13 (Chapters 1-12) | 303567 | [303567-horatio-connector-13-chapters-1-12.json](./303567-horatio-connector-13-chapters-1-12.json) |
