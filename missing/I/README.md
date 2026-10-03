@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I got a cat maid | 128013 | [128013-i-got-a-cat-maid.json](./128013-i-got-a-cat-maid.json) |
 | I Got a Millenary Cat | 197401 | [197401-i-got-a-millenary-cat.json](./197401-i-got-a-millenary-cat.json) |
 | I Got Hired To Guard The Button That Destroys The Earth | 340512 | [340512-i-got-hired-to-guard-the-button-that-destroys-the-earth.json](./340512-i-got-hired-to-guard-the-button-that-destroys-the-earth.json) |
+| I Got Trapped in the Succubus's Dream! | 264810 | [264810-i-got-trapped-in-the-succubuss-dream.json](./264810-i-got-trapped-in-the-succubuss-dream.json) |
 | I Got Turned Into a Girl and This Yuri Death Angel Will Only Turn Me Back if I Can Find All the Hidden Props | 395106 | [395106-i-got-turned-into-a-girl-and-this-yuri-death-angel-will-only-turn-me-back-if-i-can-find-all-the-hidden-props.json](./395106-i-got-turned-into-a-girl-and-this-yuri-death-angel-will-only-turn-me-back-if-i-can-find-all-the-hidden-props.json) |
 | I H8 Ur Face | 197910 | [197910-i-h8-ur-face.json](./197910-i-h8-ur-face.json) |
 | I Had Another Dream About You Last Night | 142403 | [142403-i-had-another-dream-about-you-last-night.json](./142403-i-had-another-dream-about-you-last-night.json) |
@@ -887,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idleant | 376104 | [376104-idleant.json](./376104-idleant.json) |
 | IdleCoin | 301497 | [301497-idlecoin.json](./301497-idlecoin.json) |
 | IdleCraft | 289438 | [289438-idlecraft.json](./289438-idlecraft.json) |
+| IdleDev | 264782 | [264782-idledev.json](./264782-idledev.json) |
 | IdleDragon | 379011 | [379011-idledragon.json](./379011-idledragon.json) |
 | Idlemon | 390637 | [390637-idlemon.json](./390637-idlemon.json) |
 | IdleOn | 143440 | [143440-idleon.json](./143440-idleon.json) |
@@ -925,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Tantei You&My | 246105 | [246105-idol-tantei-you-and-my.json](./246105-idol-tantei-you-and-my.json) |
 | Idol Time PriPara | 285041 | [285041-idol-time-pripara.json](./285041-idol-time-pripara.json) |
 | Idol Time PriPara Yume All Star Live! | 136938 | [136938-idol-time-pripara-yume-all-star-live.json](./136938-idol-time-pripara-yume-all-star-live.json) |
+| Idol vs Furries | 264798 | [264798-idol-vs-furries.json](./264798-idol-vs-furries.json) |
 | Idol-Mahjong Final Romance 2 | 75471 | [75471-idol-mahjong-final-romance-2.json](./75471-idol-mahjong-final-romance-2.json) |
 | Idola Phantasy Star Saga | 106103 | [106103-idola-phantasy-star-saga.json](./106103-idola-phantasy-star-saga.json) |
 | Idols of Ash | 397084 | [397084-idols-of-ash.json](./397084-idols-of-ash.json) |
@@ -1414,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imprisoned | 327391 | [327391-imprisoned.json](./327391-imprisoned.json) |
 | Imprisoned Queen | 156540 | [156540-imprisoned-queen.json](./156540-imprisoned-queen.json) |
 | Improbability | 311485 | [311485-improbability.json](./311485-improbability.json) |
+| Improbability Control Bureau | 264787 | [264787-improbability-control-bureau.json](./264787-improbability-control-bureau.json) |
 | Improbable Soccer | 141236 | [141236-improbable-soccer.json](./141236-improbable-soccer.json) |
 | Impulse | 137027 | [137027-impulse.json](./137027-impulse.json) |
 | Impulse Rogue | 199572 | [199572-impulse-rogue.json](./199572-impulse-rogue.json) |
@@ -1773,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IndyCar Series | 5866 | [5866-indycar-series.json](./5866-indycar-series.json) |
 | Inertia | 261311 | [261311-inertia.json](./261311-inertia.json) |
 | Inertia | 54694 | [54694-inertia.json](./54694-inertia.json) |
+| Inertia Ball | 264803 | [264803-inertia-ball.json](./264803-inertia-ball.json) |
 | Inertial Drift | 127770 | [127770-inertial-drift.json](./127770-inertial-drift.json) |
 | Inertial Drift: Twilight Rivals Edition | 203517 | [203517-inertial-drift-twilight-rivals-edition.json](./203517-inertial-drift-twilight-rivals-edition.json) |
 | Ines | 340925 | [340925-ines.json](./340925-ines.json) |
@@ -2453,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interactive Sex: BDSM | 371354 | [371354-interactive-sex-bdsm.json](./371354-interactive-sex-bdsm.json) |
 | Interactive Storybook DS: Series 3 | 269833 | [269833-interactive-storybook-ds-series-3.json](./269833-interactive-storybook-ds-series-3.json) |
 | Interalia | 354567 | [354567-interalia.json](./354567-interalia.json) |
+| Interballistic Symphony | 264804 | [264804-interballistic-symphony.json](./264804-interballistic-symphony.json) |
 | Intercept | 234087 | [234087-intercept.json](./234087-intercept.json) |
 | Interception | 263023 | [263023-interception.json](./263023-interception.json) |
 | Interception II | 263024 | [263024-interception-ii.json](./263024-interception-ii.json) |
