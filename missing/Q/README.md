@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen Ant Perfume Episode 0: The Mad Love of Jack the Ripper | 339111 | [339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json](./339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json) |
 | Queen At Arms: Deluxe Edition | 53488 | [53488-queen-at-arms-deluxe-edition.json](./53488-queen-at-arms-deluxe-edition.json) |
 | Queen Elsa and Her Horse Girl Games | 107862 | [107862-queen-elsa-and-her-horse-girl-games.json](./107862-queen-elsa-and-her-horse-girl-games.json) |
+| Queen Fighter 2000 | 269754 | [269754-queen-fighter-2000.json](./269754-queen-fighter-2000.json) |
 | Queen Frances and the Rat Rebellion | 112307 | [112307-queen-frances-and-the-rat-rebellion.json](./112307-queen-frances-and-the-rat-rebellion.json) |
 | Queen Mary's Script Retold | 215778 | [215778-queen-marys-script-retold.json](./215778-queen-marys-script-retold.json) |
 | Queen of Dark | 292821 | [292821-queen-of-dark.json](./292821-queen-of-dark.json) |
