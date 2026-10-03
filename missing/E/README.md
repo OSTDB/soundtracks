@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edna: Out of Sight, Out of Control | 210676 | [210676-edna-out-of-sight-out-of-control.json](./210676-edna-out-of-sight-out-of-control.json) |
 | Ednaldo Pereira: Mescladasso | 143501 | [143501-ednaldo-pereira-mescladasso.json](./143501-ednaldo-pereira-mescladasso.json) |
 | Ednoka | 341120 | [341120-ednoka.json](./341120-ednoka.json) |
+| Edo Mono | 250476 | [250476-edo-mono.json](./250476-edo-mono.json) |
 | Edolie | 35755 | [35755-edolie.json](./35755-edolie.json) |
 | Edouard Roivas: The Eye of Law | 310413 | [310413-edouard-roivas-the-eye-of-law.json](./310413-edouard-roivas-the-eye-of-law.json) |
 | Edtris 2600 | 78031 | [78031-edtris-2600.json](./78031-edtris-2600.json) |
@@ -1279,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elixirs | 274561 | [274561-elixirs.json](./274561-elixirs.json) |
 | Eliza | 345129 | [345129-eliza.json](./345129-eliza.json) |
 | Eliza | 92919 | [92919-eliza.json](./92919-eliza.json) |
+| Elizord's Tale | 250478 | [250478-elizords-tale.json](./250478-elizords-tale.json) |
 | Elk Attack | 282714 | [282714-elk-attack.json](./282714-elk-attack.json) |
 | Elk Simulator | 158565 | [158565-elk-simulator.json](./158565-elk-simulator.json) |
 | Elkrone no Atelier: Dear for Otomate Limited Edition | 253495 | [253495-elkrone-no-atelier-dear-for-otomate-limited-edition.json](./253495-elkrone-no-atelier-dear-for-otomate-limited-edition.json) |
