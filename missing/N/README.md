@@ -880,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necropolis of the Angels | 214187 | [214187-necropolis-of-the-angels.json](./214187-necropolis-of-the-angels.json) |
 | Necropolis: Brutal Edition | 25337 | [25337-necropolis-brutal-edition.json](./25337-necropolis-brutal-edition.json) |
 | Necroscope | 58889 | [58889-necroscope.json](./58889-necroscope.json) |
+| Necrosmith 2 | 244317 | [244317-necrosmith-2.json](./244317-necrosmith-2.json) |
 | Necrosphere | 36626 | [36626-necrosphere.json](./36626-necrosphere.json) |
 | Necrosphere Deluxe | 114026 | [114026-necrosphere-deluxe.json](./114026-necrosphere-deluxe.json) |
 | NecroTactics | 223418 | [223418-necrotactics.json](./223418-necrotactics.json) |
@@ -2943,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Chance | 146866 | [146866-no-chance.json](./146866-no-chance.json) |
 | No Contact | 302114 | [302114-no-contact.json](./302114-no-contact.json) |
 | No Cortarás a tu Hermana con el Filo de Esta Espada | 135690 | [135690-no-cortaras-a-tu-hermana-con-el-filo-de-esta-espada.json](./135690-no-cortaras-a-tu-hermana-con-el-filo-de-esta-espada.json) |
+| No Crime | 244298 | [244298-no-crime.json](./244298-no-crime.json) |
 | No Crossing | 111855 | [111855-no-crossing.json](./111855-no-crossing.json) |
 | No Cure 2 | 158195 | [158195-no-cure-2.json](./158195-no-cure-2.json) |
 | No Death in Wild West | 349516 | [349516-no-death-in-wild-west.json](./349516-no-death-in-wild-west.json) |
