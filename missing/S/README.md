@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satori's Atelier 1+2 | 210664 | [210664-satoris-atelier-1-2.json](./210664-satoris-atelier-1-2.json) |
 | Satori's Dungeon Kingdom 2: The Heart Of Masked Memory | 210591 | [210591-satoris-dungeon-kingdom-2-the-heart-of-masked-memory.json](./210591-satoris-dungeon-kingdom-2-the-heart-of-masked-memory.json) |
 | Satoru Gojo Backshot Simulator | 320904 | [320904-satoru-gojo-backshot-simulator.json](./320904-satoru-gojo-backshot-simulator.json) |
+| Satoyama Note: Natsukusa Komichi | 277505 | [277505-satoyama-note-natsukusa-komichi.json](./277505-satoyama-note-natsukusa-komichi.json) |
 | Satsui no Kaisou: Power Soft Satsujin Jiken | 48859 | [48859-satsui-no-kaisou-power-soft-satsujin-jiken.json](./48859-satsui-no-kaisou-power-soft-satsujin-jiken.json) |
 | Saturated Outer Space | 116836 | [116836-saturated-outer-space.json](./116836-saturated-outer-space.json) |
 | Saturday AM: Battle Manga | 382452 | [382452-saturday-am-battle-manga.json](./382452-saturday-am-battle-manga.json) |
@@ -4975,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization Revolution 2 Plus | 139435 | [139435-sid-meiers-civilization-revolution-2-plus.json](./139435-sid-meiers-civilization-revolution-2-plus.json) |
 | Sid Meier's Civilization V: Brave New World | 3272 | [3272-sid-meiers-civilization-v-brave-new-world.json](./3272-sid-meiers-civilization-v-brave-new-world.json) |
 | Sid Meier's Civilization V: Gold Edition | 50880 | [50880-sid-meiers-civilization-v-gold-edition.json](./50880-sid-meiers-civilization-v-gold-edition.json) |
+| Sid Meier's Civilization VI: Akbar Pack | 277529 | [277529-sid-meiers-civilization-vi-akbar-pack.json](./277529-sid-meiers-civilization-vi-akbar-pack.json) |
 | Sid Meier's Civilization VI: Babylon Pack | 141185 | [141185-sid-meiers-civilization-vi-babylon-pack.json](./141185-sid-meiers-civilization-vi-babylon-pack.json) |
 | Sid Meier's Civilization VI: Byzantium & Gaul Pack | 139967 | [139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json](./139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json) |
 | Sid Meier's Civilization VI: John Riccitiello Pack | 277374 | [277374-sid-meiers-civilization-vi-john-riccitiello-pack.json](./277374-sid-meiers-civilization-vi-john-riccitiello-pack.json) |
@@ -9522,6 +9524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SP-Light | 291452 | [291452-sp-light.json](./291452-sp-light.json) |
 | Sp:In | 242788 | [242788-sp-in.json](./242788-sp-in.json) |
 | Sp!te | 108070 | [108070-sp-te.json](./108070-sp-te.json) |
+| Sp(l/r)ite | 277510 | [277510-sp-l-r-ite.json](./277510-sp-l-r-ite.json) |
 | Spaaace! | 179052 | [179052-spaaace.json](./179052-spaaace.json) |
 | Spac Cop, Sereth | 97843 | [97843-spac-cop-sereth.json](./97843-spac-cop-sereth.json) |
 | Space | 213452 | [213452-space.json](./213452-space.json) |
@@ -9858,6 +9861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Marshals Collection | 327207 | [327207-space-marshals-collection.json](./327207-space-marshals-collection.json) |
 | Space Mash | 366877 | [366877-space-mash.json](./366877-space-mash.json) |
 | Space Maze | 345522 | [345522-space-maze.json](./345522-space-maze.json) |
+| Space Maze Attack | 277537 | [277537-space-maze-attack.json](./277537-space-maze-attack.json) |
 | Space Mech Pilot: The Universe Drive | 205125 | [205125-space-mech-pilot-the-universe-drive.json](./205125-space-mech-pilot-the-universe-drive.json) |
 | Space Mechanic Simulator | 90650 | [90650-space-mechanic-simulator.json](./90650-space-mechanic-simulator.json) |
 | Space Megaforce | 42583 | [42583-space-megaforce.json](./42583-space-megaforce.json) |
@@ -15428,6 +15432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Donuts! | 175412 | [175412-super-donuts.json](./175412-super-donuts.json) |
 | Super Doom TV | 299449 | [299449-super-doom-tv.json](./299449-super-doom-tv.json) |
 | Super Doopliss World | 323360 | [323360-super-doopliss-world.json](./323360-super-doopliss-world.json) |
+| Super Doors | 277539 | [277539-super-doors.json](./277539-super-doors.json) |
 | Super Dot Jump | 25960 | [25960-super-dot-jump.json](./25960-super-dot-jump.json) |
 | Super Double Dragon | 198931 | [198931-super-double-dragon.json](./198931-super-double-dragon.json) |
 | Super Double Dragon | 274439 | [274439-super-double-dragon.json](./274439-super-double-dragon.json) |
@@ -18058,6 +18063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthwave Ascension | 265117 | [265117-synthwave-ascension.json](./265117-synthwave-ascension.json) |
 | Synthwave Driver | 344387 | [344387-synthwave-driver.json](./344387-synthwave-driver.json) |
 | Synthwave Hop | 172198 | [172198-synthwave-hop.json](./172198-synthwave-hop.json) |
+| Synthwave Runner | 277519 | [277519-synthwave-runner.json](./277519-synthwave-runner.json) |
 | Synzzball | 123499 | [123499-synzzball.json](./123499-synzzball.json) |
 | Syobon Action 2 HD | 365136 | [365136-syobon-action-2-hd.json](./365136-syobon-action-2-hd.json) |
 | Syobon Action HD | 365135 | [365135-syobon-action-hd.json](./365135-syobon-action-hd.json) |
