@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall of Insanity 2 | 365847 | [365847-wall-of-insanity-2.json](./365847-wall-of-insanity-2.json) |
 | Wall Shooter | 244864 | [244864-wall-shooter.json](./244864-wall-shooter.json) |
 | Wall Simulator 2017 | 53882 | [53882-wall-simulator-2017.json](./53882-wall-simulator-2017.json) |
+| Wall Street | 261989 | [261989-wall-street.json](./261989-wall-street.json) |
 | Wall Street Junior | 74381 | [74381-wall-street-junior.json](./74381-wall-street-junior.json) |
 | Wall Street Raider | 186757 | [186757-wall-street-raider.json](./186757-wall-street-raider.json) |
 | Wall Street Raider | 377285 | [377285-wall-street-raider.json](./377285-wall-street-raider.json) |
@@ -2384,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Light Escape | 315591 | [315591-white-light-escape.json](./315591-white-light-escape.json) |
 | White Mask | 136487 | [136487-white-mask.json](./136487-white-mask.json) |
 | White Men Can't Jump | 40821 | [40821-white-men-cant-jump.json](./40821-white-men-cant-jump.json) |
+| White Middle Class Guy Simulator | 261976 | [261976-white-middle-class-guy-simulator.json](./261976-white-middle-class-guy-simulator.json) |
 | White Mirror | 214734 | [214734-white-mirror.json](./214734-white-mirror.json) |
 | White Night | 352190 | [352190-white-night.json](./352190-white-night.json) |
 | White Night | 8921 | [8921-white-night.json](./8921-white-night.json) |
