@@ -4659,6 +4659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenaries Saga | 82082 | [82082-mercenaries-saga.json](./82082-mercenaries-saga.json) |
 | Mercenaries Saga 2 | 77691 | [77691-mercenaries-saga-2.json](./77691-mercenaries-saga-2.json) |
 | Mercenaries Saga Chronicles: Physical Edition | 109435 | [109435-mercenaries-saga-chronicles-physical-edition.json](./109435-mercenaries-saga-chronicles-physical-edition.json) |
+| Mercenaries Saga: Will of the White Lions | 258121 | [258121-mercenaries-saga-will-of-the-white-lions.json](./258121-mercenaries-saga-will-of-the-white-lions.json) |
 | Mercenaries Series Bundle | 175818 | [175818-mercenaries-series-bundle.json](./175818-mercenaries-series-bundle.json) |
 | Mercenaries Wings: The False Phoenix | 104789 | [104789-mercenaries-wings-the-false-phoenix.json](./104789-mercenaries-wings-the-false-phoenix.json) |
 | Mercenaries: Playground of Destruction | 2683 | [2683-mercenaries-playground-of-destruction.json](./2683-mercenaries-playground-of-destruction.json) |
@@ -5574,6 +5575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Middle-earth: Shadow of War Mobile | 52198 | [52198-middle-earth-shadow-of-war-mobile.json](./52198-middle-earth-shadow-of-war-mobile.json) |
 | Miden Tower: Experience & SP x2 | 171021 | [171021-miden-tower-experience-and-sp-x2.json](./171021-miden-tower-experience-and-sp-x2.json) |
 | Miden Tower: Experience x3 | 171020 | [171020-miden-tower-experience-x3.json](./171020-miden-tower-experience-x3.json) |
+| Midforest Survivor | 258088 | [258088-midforest-survivor.json](./258088-midforest-survivor.json) |
 | Midgard Outlaw | 201233 | [201233-midgard-outlaw.json](./201233-midgard-outlaw.json) |
 | Midinous | 173225 | [173225-midinous.json](./173225-midinous.json) |
 | Midio! | 336919 | [336919-midio.json](./336919-midio.json) |
@@ -5670,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Syndrome | 304648 | [304648-midnight-syndrome.json](./304648-midnight-syndrome.json) |
 | Midnight Terrors | 395705 | [395705-midnight-terrors.json](./395705-midnight-terrors.json) |
 | Midnight Therapy | 388938 | [388938-midnight-therapy.json](./388938-midnight-therapy.json) |
+| Midnight Thunder Drive | 258084 | [258084-midnight-thunder-drive.json](./258084-midnight-thunder-drive.json) |
 | Midnight Toybox | 416667 | [416667-midnight-toybox.json](./416667-midnight-toybox.json) |
 | Midnight Train | 138255 | [138255-midnight-train.json](./138255-midnight-train.json) |
 | Midnight Train: Going Anywhere | 176489 | [176489-midnight-train-going-anywhere.json](./176489-midnight-train-going-anywhere.json) |
@@ -9562,6 +9565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplication Mayhem | 277280 | [277280-multiplication-mayhem.json](./277280-multiplication-mayhem.json) |
 | Multirotor Sim 2 | 81234 | [81234-multirotor-sim-2.json](./81234-multirotor-sim-2.json) |
 | Multishop Tycoon Deluxe | 30031 | [30031-multishop-tycoon-deluxe.json](./30031-multishop-tycoon-deluxe.json) |
+| Multishot | 258107 | [258107-multishot.json](./258107-multishot.json) |
 | Multispy | 386958 | [386958-multispy.json](./386958-multispy.json) |
 | Multitasking Skills Desired | 404448 | [404448-multitasking-skills-desired.json](./404448-multitasking-skills-desired.json) |
 | MultiTaskMaster | 105205 | [105205-multitaskmaster.json](./105205-multitaskmaster.json) |
