@@ -880,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamago | 369056 | [369056-tamago.json](./369056-tamago.json) |
 | Tamagotchi | 11284 | [11284-tamagotchi.json](./11284-tamagotchi.json) |
 | Tamagotchi | 301415 | [301415-tamagotchi.json](./301415-tamagotchi.json) |
+| Tamagotchi Angel | 229837 | [229837-tamagotchi-angel.json](./229837-tamagotchi-angel.json) |
 | Tamagotchi Angel | 320176 | [320176-tamagotchi-angel.json](./320176-tamagotchi-angel.json) |
 | Tamagotchi CD-ROM | 98933 | [98933-tamagotchi-cd-rom.json](./98933-tamagotchi-cd-rom.json) |
 | Tamagotchi Connection | 229942 | [229942-tamagotchi-connection.json](./229942-tamagotchi-connection.json) |
@@ -895,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Connection: Corner Shop 3 | 26544 | [26544-tamagotchi-connection-corner-shop-3.json](./26544-tamagotchi-connection-corner-shop-3.json) |
 | Tamagotchi Friends: Digital Friend | 229959 | [229959-tamagotchi-friends-digital-friend.json](./229959-tamagotchi-friends-digital-friend.json) |
 | Tamagotchi Friends: Dream Town Digital Friend | 229960 | [229960-tamagotchi-friends-dream-town-digital-friend.json](./229960-tamagotchi-friends-dream-town-digital-friend.json) |
+| Tamagotchi Garden | 229839 | [229839-tamagotchi-garden.json](./229839-tamagotchi-garden.json) |
 | Tamagotchi Mini | 229970 | [229970-tamagotchi-mini.json](./229970-tamagotchi-mini.json) |
 | Tamagotchi Music Star | 229957 | [229957-tamagotchi-music-star.json](./229957-tamagotchi-music-star.json) |
 | Tamagotchi Nano Colorful Detective Conan | 304044 | [304044-tamagotchi-nano-colorful-detective-conan.json](./304044-tamagotchi-nano-colorful-detective-conan.json) |
@@ -2776,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's a Cow: Eggshell | 233001 | [233001-thats-a-cow-eggshell.json](./233001-thats-a-cow-eggshell.json) |
 | That's a Cow: Premium Edition | 250364 | [250364-thats-a-cow-premium-edition.json](./250364-thats-a-cow-premium-edition.json) |
 | That's a Cow: Special Edition | 247595 | [247595-thats-a-cow-special-edition.json](./247595-thats-a-cow-special-edition.json) |
+| That's a lot of pixels! | 229830 | [229830-thats-a-lot-of-pixels.json](./229830-thats-a-lot-of-pixels.json) |
 | That's a Thing | 344942 | [344942-thats-a-thing.json](./344942-thats-a-thing.json) |
 | That's a Warp | 282058 | [282058-thats-a-warp.json](./282058-thats-a-warp.json) |
 | That's How Sumireko's Roach Stomping Mafia Works | 123593 | [123593-thats-how-sumirekos-roach-stomping-mafia-works.json](./123593-thats-how-sumirekos-roach-stomping-mafia-works.json) |
@@ -3716,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cave Exit | 410444 | [410444-the-cave-exit.json](./410444-the-cave-exit.json) |
 | The Cave of Atman | 179066 | [179066-the-cave-of-atman.json](./179066-the-cave-of-atman.json) |
 | The Cave of Magic | 413648 | [413648-the-cave-of-magic.json](./413648-the-cave-of-magic.json) |
+| The Caverns | 229736 | [229736-the-caverns.json](./229736-the-caverns.json) |
 | The Caverns of Hammerfest | 55979 | [55979-the-caverns-of-hammerfest.json](./55979-the-caverns-of-hammerfest.json) |
 | The Celestial Tales | 275689 | [275689-the-celestial-tales.json](./275689-the-celestial-tales.json) |
 | The Celestra | 191090 | [191090-the-celestra.json](./191090-the-celestra.json) |
@@ -3760,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chewllers | 151686 | [151686-the-chewllers.json](./151686-the-chewllers.json) |
 | The Chick C | 191265 | [191265-the-chick-c.json](./191265-the-chick-c.json) |
 | The Chicken Bandit | 61117 | [61117-the-chicken-bandit.json](./61117-the-chicken-bandit.json) |
+| The Chicken Game | 229603 | [229603-the-chicken-game.json](./229603-the-chicken-game.json) |
 | The Child Of Slendrina | 323911 | [323911-the-child-of-slendrina.json](./323911-the-child-of-slendrina.json) |
 | The Chilling Moment You Realize It: Creepy Meaning Psychological Test | 410366 | [410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json](./410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json) |
 | The Chinese Room | 26699 | [26699-the-chinese-room.json](./26699-the-chinese-room.json) |
@@ -5079,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fox Awaits Me: Limited Edition | 188644 | [188644-the-fox-awaits-me-limited-edition.json](./188644-the-fox-awaits-me-limited-edition.json) |
 | The Fox of Capistrano | 407404 | [407404-the-fox-of-capistrano.json](./407404-the-fox-of-capistrano.json) |
 | The Fox's Way Home | 308875 | [308875-the-foxs-way-home.json](./308875-the-foxs-way-home.json) |
+| The Foxglove Catcher | 229755 | [229755-the-foxglove-catcher.json](./229755-the-foxglove-catcher.json) |
 | The Fragment | 120369 | [120369-the-fragment.json](./120369-the-fragment.json) |
 | The Freddy Files | 277284 | [277284-the-freddy-files.json](./277284-the-freddy-files.json) |
 | The Free Shepherd | 381202 | [381202-the-free-shepherd.json](./381202-the-free-shepherd.json) |
@@ -5258,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Godkiller: Chapter 1 | 163984 | [163984-the-godkiller-chapter-1.json](./163984-the-godkiller-chapter-1.json) |
 | The Gods | 38509 | [38509-the-gods.json](./38509-the-gods.json) |
 | The Gods Are Fickle | 224658 | [224658-the-gods-are-fickle.json](./224658-the-gods-are-fickle.json) |
+| The Gods Fabled: Soil Frontier | 229836 | [229836-the-gods-fabled-soil-frontier.json](./229836-the-gods-fabled-soil-frontier.json) |
 | The Gold and Black Keys that Cannot Open | 251192 | [251192-the-gold-and-black-keys-that-cannot-open.json](./251192-the-gold-and-black-keys-that-cannot-open.json) |
 | The Gold of the Aztecs | 12120 | [12120-the-gold-of-the-aztecs.json](./12120-the-gold-of-the-aztecs.json) |
 | The Golden Age | 213586 | [213586-the-golden-age.json](./213586-the-golden-age.json) |
@@ -10219,6 +10226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Are Billions | 36616 | [36616-they-are-billions.json](./36616-they-are-billions.json) |
 | They Are Coming | 272574 | [272574-they-are-coming.json](./272574-they-are-coming.json) |
 | They Are Coming! | 173283 | [173283-they-are-coming.json](./173283-they-are-coming.json) |
+| They are Confined | 229758 | [229758-they-are-confined.json](./229758-they-are-confined.json) |
 | They Are Hundreds | 87954 | [87954-they-are-hundreds.json](./87954-they-are-hundreds.json) |
 | They are in the Trees | 224640 | [224640-they-are-in-the-trees.json](./224640-they-are-in-the-trees.json) |
 | They Are Rising | 392135 | [392135-they-are-rising.json](./392135-they-are-rising.json) |
@@ -10369,6 +10377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Call May Be Recorded | 135038 | [135038-this-call-may-be-recorded.json](./135038-this-call-may-be-recorded.json) |
 | This Company of Mine | 309355 | [309355-this-company-of-mine.json](./309355-this-company-of-mine.json) |
 | This Discord Has Ghosts in it | 134647 | [134647-this-discord-has-ghosts-in-it.json](./134647-this-discord-has-ghosts-in-it.json) |
+| This Emptiness | 229598 | [229598-this-emptiness.json](./229598-this-emptiness.json) |
 | This Game | 357815 | [357815-this-game.json](./357815-this-game.json) |
 | This Game is Crap | 370888 | [370888-this-game-is-crap.json](./370888-this-game-is-crap.json) |
 | This Game is Ground Breaking | 350039 | [350039-this-game-is-ground-breaking.json](./350039-this-game-is-ground-breaking.json) |
@@ -15208,6 +15217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transit | 113505 | [113505-transit.json](./113505-transit.json) |
 | Transit | 365113 | [365113-transit.json](./365113-transit.json) |
 | Transit King Tycoon | 140399 | [140399-transit-king-tycoon.json](./140399-transit-king-tycoon.json) |
+| Transition | 229838 | [229838-transition.json](./229838-transition.json) |
 | TransMemory | 318802 | [318802-transmemory.json](./318802-transmemory.json) |
 | Transmigration | 334910 | [334910-transmigration.json](./334910-transmigration.json) |
 | Transmission | 108606 | [108606-transmission.json](./108606-transmission.json) |
@@ -15358,6 +15368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Träumerei: Chapter 2 | 137465 | [137465-traumerei-chapter-2.json](./137465-traumerei-chapter-2.json) |
 | Träumerei: Chapter 3 | 137447 | [137447-traumerei-chapter-3.json](./137447-traumerei-chapter-3.json) |
 | Träumerei: Chapter 4 | 137448 | [137448-traumerei-chapter-4.json](./137448-traumerei-chapter-4.json) |
+| Traumruf | 229737 | [229737-traumruf.json](./229737-traumruf.json) |
 | Travel Along | 272905 | [272905-travel-along.json](./272905-travel-along.json) |
 | Travel Bug | 86096 | [86096-travel-bug.json](./86096-travel-bug.json) |
 | Travel Cuisine 2: Sweet Life | 358405 | [358405-travel-cuisine-2-sweet-life.json](./358405-travel-cuisine-2-sweet-life.json) |
