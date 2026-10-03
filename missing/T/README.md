@@ -2596,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetron | 153411 | [153411-tetron.json](./153411-tetron.json) |
 | Tetroon | 234594 | [234594-tetroon.json](./234594-tetroon.json) |
 | TetrotronVR | 114971 | [114971-tetrotronvr.json](./114971-tetrotronvr.json) |
+| Tetsu 1: Densha de Battle! | 265849 | [265849-tetsu-1-densha-de-battle.json](./265849-tetsu-1-densha-de-battle.json) |
 | Tetsu-pipe de Suika-wari | 220315 | [220315-tetsu-pipe-de-suika-wari.json](./220315-tetsu-pipe-de-suika-wari.json) |
 | Tetsudou Nippon! Memorial: JR Tokai KiHa 85 Tokkyuu Nanki-hen | 356242 | [356242-tetsudou-nippon-memorial-jr-tokai-kiha-85-tokkyuu-nanki-hen.json](./356242-tetsudou-nippon-memorial-jr-tokai-kiha-85-tokkyuu-nanki-hen.json) |
 | Tetsudou Nippon! Real Pro Tokyo - Kanagawa! Tokyu Dentetsu-hen | 366913 | [366913-tetsudou-nippon-real-pro-tokyo-kanagawa-tokyu-dentetsu-hen.json](./366913-tetsudou-nippon-real-pro-tokyo-kanagawa-tokyu-dentetsu-hen.json) |
@@ -3708,6 +3709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicles of Rovania: Darkest Bridge | 244266 | [244266-the-chronicles-of-rovania-darkest-bridge.json](./244266-the-chronicles-of-rovania-darkest-bridge.json) |
 | The Chronicles of Shakespeare: A Midsummer Night's Dream | 9401 | [9401-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json](./9401-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json) |
 | The Chrono Jotter | 157173 | [157173-the-chrono-jotter.json](./157173-the-chrono-jotter.json) |
+| The Chronos Event | 265861 | [265861-the-chronos-event.json](./265861-the-chronos-event.json) |
 | The Chronos Principle | 153964 | [153964-the-chronos-principle.json](./153964-the-chronos-principle.json) |
 | The Church in the Darkness | 18113 | [18113-the-church-in-the-darkness.json](./18113-the-church-in-the-darkness.json) |
 | The Church of Cheesus Crisp: An All You Can Pray Buffet | 159364 | [159364-the-church-of-cheesus-crisp-an-all-you-can-pray-buffet.json](./159364-the-church-of-cheesus-crisp-an-all-you-can-pray-buffet.json) |
@@ -4636,6 +4638,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exorcist: Story of School | 331488 | [331488-the-exorcist-story-of-school.json](./331488-the-exorcist-story-of-school.json) |
 | The Exorcist's Story | 224628 | [224628-the-exorcists-story.json](./224628-the-exorcists-story.json) |
 | The Expanse: A Telltale Series | 185239 | [185239-the-expanse-a-telltale-series.json](./185239-the-expanse-a-telltale-series.json) |
+| The Expanse: A Telltale Series - Archangel Bonus Episode | 265835 | [265835-the-expanse-a-telltale-series-archangel-bonus-episode.json](./265835-the-expanse-a-telltale-series-archangel-bonus-episode.json) |
+| The Expanse: A Telltale Series - Episode 2: Hunting Grounds | 265830 | [265830-the-expanse-a-telltale-series-episode-2-hunting-grounds.json](./265830-the-expanse-a-telltale-series-episode-2-hunting-grounds.json) |
+| The Expanse: A Telltale Series - Episode 3: First Ones | 265831 | [265831-the-expanse-a-telltale-series-episode-3-first-ones.json](./265831-the-expanse-a-telltale-series-episode-3-first-ones.json) |
+| The Expanse: A Telltale Series - Episode 4: Impossible Objects | 265833 | [265833-the-expanse-a-telltale-series-episode-4-impossible-objects.json](./265833-the-expanse-a-telltale-series-episode-4-impossible-objects.json) |
+| The Expanse: A Telltale Series - Episode 5: Europa's Folly | 265834 | [265834-the-expanse-a-telltale-series-episode-5-europas-folly.json](./265834-the-expanse-a-telltale-series-episode-5-europas-folly.json) |
 | The Expanse: Osiris Reborn | 347869 | [347869-the-expanse-osiris-reborn.json](./347869-the-expanse-osiris-reborn.json) |
 | The Expedition | 114562 | [114562-the-expedition.json](./114562-the-expedition.json) |
 | The Expendabros | 9786 | [9786-the-expendabros.json](./9786-the-expendabros.json) |
@@ -5522,6 +5529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hungry Witch and the Gourmet Dish | 185157 | [185157-the-hungry-witch-and-the-gourmet-dish.json](./185157-the-hungry-witch-and-the-gourmet-dish.json) |
 | The Hunsa Magic | 199366 | [199366-the-hunsa-magic.json](./199366-the-hunsa-magic.json) |
 | The Hunt | 171472 | [171472-the-hunt.json](./171472-the-hunt.json) |
+| The Hunt | 265841 | [265841-the-hunt.json](./265841-the-hunt.json) |
 | The Hunt | 37053 | [37053-the-hunt.json](./37053-the-hunt.json) |
 | The Hunt : Rebuilt | 25110 | [25110-the-hunt-rebuilt.json](./25110-the-hunt-rebuilt.json) |
 | The Hunt Begins | 323720 | [323720-the-hunt-begins.json](./323720-the-hunt-begins.json) |
@@ -14949,6 +14957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transworld Endless Skater | 241057 | [241057-transworld-endless-skater.json](./241057-transworld-endless-skater.json) |
 | Transworld Surf: Next Wave | 69158 | [69158-transworld-surf-next-wave.json](./69158-transworld-surf-next-wave.json) |
 | Transylmania | 267402 | [267402-transylmania.json](./267402-transylmania.json) |
+| Transylmania Deluxe | 265880 | [265880-transylmania-deluxe.json](./265880-transylmania-deluxe.json) |
 | Transylmania II: The Vampire Bites Back! | 267416 | [267416-transylmania-ii-the-vampire-bites-back.json](./267416-transylmania-ii-the-vampire-bites-back.json) |
 | Transylvania | 12262 | [12262-transylvania.json](./12262-transylvania.json) |
 | Transylvania III: Vanquish the Night | 15533 | [15533-transylvania-iii-vanquish-the-night.json](./15533-transylvania-iii-vanquish-the-night.json) |
@@ -15119,6 +15128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travis Strikes Again: No More Heroes - Bubblegum Fatale | 117496 | [117496-travis-strikes-again-no-more-heroes-bubblegum-fatale.json](./117496-travis-strikes-again-no-more-heroes-bubblegum-fatale.json) |
 | Travis, the Frog | 350038 | [350038-travis-the-frog.json](./350038-travis-the-frog.json) |
 | Travis' Coward Combustion | 265721 | [265721-travis-coward-combustion.json](./265721-travis-coward-combustion.json) |
+| Travle | 265852 | [265852-travle.json](./265852-travle.json) |
 | TraVRsal | 177409 | [177409-travrsal.json](./177409-travrsal.json) |
 | Trawl | 33420 | [33420-trawl.json](./33420-trawl.json) |
 | Trawler’s Empire | 339905 | [339905-trawler-s-empire.json](./339905-trawler-s-empire.json) |
