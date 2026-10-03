@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1387: MMO Strategy | 213313 | [213313-1387-mmo-strategy.json](./213313-1387-mmo-strategy.json) |
 | 13th Friday Night: Funk Blood | 314500 | [314500-13th-friday-night-funk-blood.json](./314500-13th-friday-night-funk-blood.json) |
 | 13th House on Halloween | 321454 | [321454-13th-house-on-halloween.json](./321454-13th-house-on-halloween.json) |
+| 14 Days With You | 251073 | [251073-14-days-with-you.json](./251073-14-days-with-you.json) |
 | 14 Locks | 225637 | [225637-14-locks.json](./225637-14-locks.json) |
 | 14 Minesweeper Variants 2 | 272869 | [272869-14-minesweeper-variants-2.json](./272869-14-minesweeper-variants-2.json) |
 | 1406 | 116102 | [116102-1406.json](./116102-1406.json) |
