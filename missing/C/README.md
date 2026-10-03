@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can't Stop Running | 391080 | [391080-cant-stop-running.json](./391080-cant-stop-running.json) |
 | Can't You Run? | 343850 | [343850-cant-you-run.json](./343850-cant-you-run.json) |
 | Canabalt | 2270 | [2270-canabalt.json](./2270-canabalt.json) |
+| Canabalt | 267570 | [267570-canabalt.json](./267570-canabalt.json) |
 | Canada 150 Trivia Quiz | 54544 | [54544-canada-150-trivia-quiz.json](./54544-canada-150-trivia-quiz.json) |
 | Canada Break | 208582 | [208582-canada-break.json](./208582-canada-break.json) |
 | Canada Break: Head to Head | 209618 | [209618-canada-break-head-to-head.json](./209618-canada-break-head-to-head.json) |
@@ -2254,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats! | 34772 | [34772-cats.json](./34772-cats.json) |
 | Cats' World | 406210 | [406210-cats-world.json](./406210-cats-world.json) |
 | Catsbridge Stories: Detective in Time | 116360 | [116360-catsbridge-stories-detective-in-time.json](./116360-catsbridge-stories-detective-in-time.json) |
+| CatsPots | 267561 | [267561-catspots.json](./267561-catspots.json) |
 | Cattails: Wildwood Story | 189143 | [189143-cattails-wildwood-story.json](./189143-cattails-wildwood-story.json) |
 | Cattenburg | 187234 | [187234-cattenburg.json](./187234-cattenburg.json) |
 | CatTerror: The Abandoned House | 347316 | [347316-catterror-the-abandoned-house.json](./347316-catterror-the-abandoned-house.json) |
@@ -4856,6 +4858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claustrophobia | 320290 | [320290-claustrophobia.json](./320290-claustrophobia.json) |
 | Claustrophobia 1024 | 260947 | [260947-claustrophobia-1024.json](./260947-claustrophobia-1024.json) |
 | Claustrophobia 1024 2: The Mystery of Too Many Maps | 260949 | [260949-claustrophobia-1024-2-the-mystery-of-too-many-maps.json](./260949-claustrophobia-1024-2-the-mystery-of-too-many-maps.json) |
+| Claustrophobic Nights | 267548 | [267548-claustrophobic-nights.json](./267548-claustrophobic-nights.json) |
 | ClaustrophobicCrypt | 311504 | [311504-claustrophobiccrypt.json](./311504-claustrophobiccrypt.json) |
 | Claustrum | 414597 | [414597-claustrum.json](./414597-claustrum.json) |
 | Claw | 2474 | [2474-claw.json](./2474-claw.json) |
