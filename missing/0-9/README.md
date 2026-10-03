@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 | 306030 | [306030-2048.json](./306030-2048.json) |
 | 2048 | 312586 | [312586-2048.json](./312586-2048.json) |
 | 2048 | 320269 | [320269-2048.json](./320269-2048.json) |
+| 2048 3D | 268679 | [268679-2048-3d.json](./268679-2048-3d.json) |
 | 2048 Animation Puzzle Edition | 181324 | [181324-2048-animation-puzzle-edition.json](./181324-2048-animation-puzzle-edition.json) |
 | 2048 Arms | 382186 | [382186-2048-arms.json](./382186-2048-arms.json) |
 | 2048 Battles | 124274 | [124274-2048-battles.json](./124274-2048-battles.json) |
@@ -866,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2Moons | 93995 | [93995-2moons.json](./93995-2moons.json) |
 | 2nd Circle: Powerful Places | 109872 | [109872-2nd-circle-powerful-places.json](./109872-2nd-circle-powerful-places.json) |
 | 2Ship2Harkinian | 303033 | [303033-2ship2harkinian.json](./303033-2ship2harkinian.json) |
+| 2Tax Gold | 268629 | [268629-2tax-gold.json](./268629-2tax-gold.json) |
 | 2urvive | 77361 | [77361-2urvive.json](./77361-2urvive.json) |
 | 2V Hoverbike | 44184 | [44184-2v-hoverbike.json](./44184-2v-hoverbike.json) |
 | 2weistein: The Curse of the Red Dragon | 147439 | [147439-2weistein-the-curse-of-the-red-dragon.json](./147439-2weistein-the-curse-of-the-red-dragon.json) |
