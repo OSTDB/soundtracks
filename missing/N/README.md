@@ -3462,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norfolk Warriors | 116127 | [116127-norfolk-warriors.json](./116127-norfolk-warriors.json) |
 | Nori Danshi!! | 295929 | [295929-nori-danshi.json](./295929-nori-danshi.json) |
 | Nori Game | 413130 | [413130-nori-game.json](./413130-nori-game.json) |
+| Norigiri | 232576 | [232576-norigiri.json](./232576-norigiri.json) |
 | Norilsk | 95602 | [95602-norilsk.json](./95602-norilsk.json) |
 | Norimono Banzai!!: Densha Daishuugou!! | 63956 | [63956-norimono-banzai-densha-daishuugou.json](./63956-norimono-banzai-densha-daishuugou.json) |
 | Norimono Banzai!!: Kuruma Daishuugou!! | 63957 | [63957-norimono-banzai-kuruma-daishuugou.json](./63957-norimono-banzai-kuruma-daishuugou.json) |
