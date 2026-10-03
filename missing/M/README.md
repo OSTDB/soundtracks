@@ -5282,6 +5282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mezase!! Tsuri Master DS | 345136 | [345136-mezase-tsuri-master-ds.json](./345136-mezase-tsuri-master-ds.json) |
 | Mezma's Revenge | 302504 | [302504-mezmas-revenge.json](./302504-mezmas-revenge.json) |
 | Mezzo Piano: Oshare & Lesson | 327597 | [327597-mezzo-piano-oshare-and-lesson.json](./327597-mezzo-piano-oshare-and-lesson.json) |
+| MF-01 Aerostrike | 239701 | [239701-mf-01-aerostrike.json](./239701-mf-01-aerostrike.json) |
 | MFGGK | 323966 | [323966-mfggk.json](./323966-mfggk.json) |
 | MFGGK2 | 323926 | [323926-mfggk2.json](./323926-mfggk2.json) |
 | MFTK: Survivors | 408193 | [408193-mftk-survivors.json](./408193-mftk-survivors.json) |
@@ -5670,6 +5671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight | 312215 | [312215-midnight.json](./312215-midnight.json) |
 | Midnight | 33802 | [33802-midnight.json](./33802-midnight.json) |
 | Midnight Arcade | 344364 | [344364-midnight-arcade.json](./344364-midnight-arcade.json) |
+| Midnight Arrow | 239725 | [239725-midnight-arrow.json](./239725-midnight-arrow.json) |
 | Midnight at Blackwood Manor | 370150 | [370150-midnight-at-blackwood-manor.json](./370150-midnight-at-blackwood-manor.json) |
 | Midnight at the Disco | 265325 | [265325-midnight-at-the-disco.json](./265325-midnight-at-the-disco.json) |
 | Midnight Bike | 158146 | [158146-midnight-bike.json](./158146-midnight-bike.json) |
@@ -6858,6 +6860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misadventure In Little Lon | 125425 | [125425-misadventure-in-little-lon.json](./125425-misadventure-in-little-lon.json) |
 | Misadventures of Laura Silver - Chapter II | 121771 | [121771-misadventures-of-laura-silver-chapter-ii.json](./121771-misadventures-of-laura-silver-chapter-ii.json) |
 | Misako 37-sai: Doutei Daigakusei x Futsuu no Shufu | 82998 | [82998-misako-37-sai-doutei-daigakusei-x-futsuu-no-shufu.json](./82998-misako-37-sai-doutei-daigakusei-x-futsuu-no-shufu.json) |
+| Misaligned | 239698 | [239698-misaligned.json](./239698-misaligned.json) |
 | Misao: 2024 HD Remaster | 313167 | [313167-misao-2024-hd-remaster.json](./313167-misao-2024-hd-remaster.json) |
 | Misao: Definitive Edition | 74567 | [74567-misao-definitive-edition.json](./74567-misao-definitive-edition.json) |
 | Misc. | 159079 | [159079-misc.json](./159079-misc.json) |
@@ -8499,6 +8502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moons That Belong | 318066 | [318066-moons-that-belong.json](./318066-moons-that-belong.json) |
 | Moonscape | 203252 | [203252-moonscape.json](./203252-moonscape.json) |
 | Moonscars | 194507 | [194507-moonscars.json](./194507-moonscars.json) |
+| MoonScavenger | 239720 | [239720-moonscavenger.json](./239720-moonscavenger.json) |
 | Moonshine | 144799 | [144799-moonshine.json](./144799-moonshine.json) |
 | Moonshine and I: Sansevieria | 178525 | [178525-moonshine-and-i-sansevieria.json](./178525-moonshine-and-i-sansevieria.json) |
 | Moonshine Inc. | 191849 | [191849-moonshine-inc.json](./191849-moonshine-inc.json) |
@@ -10309,6 +10313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend Koo | 206771 | [206771-my-friend-koo.json](./206771-my-friend-koo.json) |
 | My Friend Peppa Pig: Complete Edition | 214721 | [214721-my-friend-peppa-pig-complete-edition.json](./214721-my-friend-peppa-pig-complete-edition.json) |
 | My Friend Peppa Pig: Pirate Adventures | 195617 | [195617-my-friend-peppa-pig-pirate-adventures.json](./195617-my-friend-peppa-pig-pirate-adventures.json) |
+| My Friend, the Catgirl | 239703 | [239703-my-friend-the-catgirl.json](./239703-my-friend-the-catgirl.json) |
 | My Friend, the Wickhorn | 415072 | [415072-my-friend-the-wickhorn.json](./415072-my-friend-the-wickhorn.json) |
 | My Friendly Neighborhood: Neighborhorde | 272834 | [272834-my-friendly-neighborhood-neighborhorde.json](./272834-my-friendly-neighborhood-neighborhorde.json) |
 | My Furry Detective | 192160 | [192160-my-furry-detective.json](./192160-my-furry-detective.json) |
