@@ -942,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanrio Danshi: Watashi, Koi Wo, Shirimashita | 229031 | [229031-sanrio-danshi-watashi-koi-wo-shirimashita.json](./229031-sanrio-danshi-watashi-koi-wo-shirimashita.json) |
 | Sanrio Kawaii Me Live! | 408855 | [408855-sanrio-kawaii-me-live.json](./408855-sanrio-kawaii-me-live.json) |
 | Sanrio Timenet World | 302682 | [302682-sanrio-timenet-world.json](./302682-sanrio-timenet-world.json) |
+| Sanrio TimeNet: Mirai-hen | 229080 | [229080-sanrio-timenet-mirai-hen.json](./229080-sanrio-timenet-mirai-hen.json) |
 | Sanrio World Smash Ball! | 3692 | [3692-sanrio-world-smash-ball.json](./3692-sanrio-world-smash-ball.json) |
 | Sanrio World: Kero Kero Keroppi no Bouken Nikki | 37964 | [37964-sanrio-world-kero-kero-keroppi-no-bouken-nikki.json](./37964-sanrio-world-kero-kero-keroppi-no-bouken-nikki.json) |
 | Sans & Papyrus: Salsa Lesson | 367395 | [367395-sans-and-papyrus-salsa-lesson.json](./367395-sans-and-papyrus-salsa-lesson.json) |
@@ -7375,6 +7376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMOD: Outbreak | 312616 | [312616-smod-outbreak.json](./312616-smod-outbreak.json) |
 | Smogland | 44095 | [44095-smogland.json](./44095-smogland.json) |
 | Smoke and Mirrors | 356784 | [356784-smoke-and-mirrors.json](./356784-smoke-and-mirrors.json) |
+| Smoke Attack 2 | 229125 | [229125-smoke-attack-2.json](./229125-smoke-attack-2.json) |
 | Smoke Break! | 344359 | [344359-smoke-break.json](./344359-smoke-break.json) |
 | Smoked Fish and Cabbage 2 | 278620 | [278620-smoked-fish-and-cabbage-2.json](./278620-smoked-fish-and-cabbage-2.json) |
 | Smoked Fish And Cabbage 3 | 328046 | [328046-smoked-fish-and-cabbage-3.json](./328046-smoked-fish-and-cabbage-3.json) |
@@ -10478,6 +10480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparganator | 348963 | [348963-sparganator.json](./348963-sparganator.json) |
 | Spark | 212450 | [212450-spark.json](./212450-spark.json) |
 | Spark | 256525 | [256525-spark.json](./256525-spark.json) |
+| Spark Era | 229112 | [229112-spark-era.json](./229112-spark-era.json) |
 | Spark Five | 111683 | [111683-spark-five.json](./111683-spark-five.json) |
 | Spark in Sonic After the Sequel | 337170 | [337170-spark-in-sonic-after-the-sequel.json](./337170-spark-in-sonic-after-the-sequel.json) |
 | Spark in the Dark | 140616 | [140616-spark-in-the-dark.json](./140616-spark-in-the-dark.json) |
@@ -15593,6 +15596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Beach Bros. Wii | 394336 | [394336-super-beach-bros-wii.json](./394336-super-beach-bros-wii.json) |
 | Super Bear Adventure | 148427 | [148427-super-bear-adventure.json](./148427-super-bear-adventure.json) |
 | Super Beast Activation | 311823 | [311823-super-beast-activation.json](./311823-super-beast-activation.json) |
+| Super Beast Hunt | 229090 | [229090-super-beast-hunt.json](./229090-super-beast-hunt.json) |
 | Super Beasts: Gang up! | 260708 | [260708-super-beasts-gang-up.json](./260708-super-beasts-gang-up.json) |
 | Super Beat 'em up World | 415317 | [415317-super-beat-em-up-world.json](./415317-super-beat-em-up-world.json) |
 | Super Beco World | 267888 | [267888-super-beco-world.json](./267888-super-beco-world.json) |
@@ -16424,6 +16428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Sunshine | 229177 | [229177-super-mario-sunshine.json](./229177-super-mario-sunshine.json) |
 | Super Mario Sunshine 64 | 159263 | [159263-super-mario-sunshine-64.json](./159263-super-mario-sunshine-64.json) |
 | Super Mario Sunshine Arcade 2 | 213038 | [213038-super-mario-sunshine-arcade-2.json](./213038-super-mario-sunshine-arcade-2.json) |
+| Super Mario Sunshine DS | 229217 | [229217-super-mario-sunshine-ds.json](./229217-super-mario-sunshine-ds.json) |
 | Super Mario Sunshine in Super Mario 64 | 235173 | [235173-super-mario-sunshine-in-super-mario-64.json](./235173-super-mario-sunshine-in-super-mario-64.json) |
 | Super Mario Sunshine Seaside | 281016 | [281016-super-mario-sunshine-seaside.json](./281016-super-mario-sunshine-seaside.json) |
 | Super Mario Surf | 324094 | [324094-super-mario-surf.json](./324094-super-mario-surf.json) |
