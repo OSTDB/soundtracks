@@ -1448,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindaichi Shounen no Jikenbo: 10-nenme no Shoutaijou | 228581 | [228581-kindaichi-shounen-no-jikenbo-10-nenme-no-shoutaijou.json](./228581-kindaichi-shounen-no-jikenbo-10-nenme-no-shoutaijou.json) |
 | Kindaichi Shounen no Jikenbo: Akuma no Satsujin Koukai | 122979 | [122979-kindaichi-shounen-no-jikenbo-akuma-no-satsujin-koukai.json](./122979-kindaichi-shounen-no-jikenbo-akuma-no-satsujin-koukai.json) |
 | Kindaichi Shounen no Jikenbo: Hihou-shima Aratanaru Sangeki | 167060 | [167060-kindaichi-shounen-no-jikenbo-hihou-shima-aratanaru-sangeki.json](./167060-kindaichi-shounen-no-jikenbo-hihou-shima-aratanaru-sangeki.json) |
+| Kindaichi Shounen no Jikenbo: Hoshimitou Kanashimi no Fukushuuki | 254646 | [254646-kindaichi-shounen-no-jikenbo-hoshimitou-kanashimi-no-fukushuuki.json](./254646-kindaichi-shounen-no-jikenbo-hoshimitou-kanashimi-no-fukushuuki.json) |
 | Kindaichi Shounen no Jikenbo: Jigoku Yuuen Satsujin Jiken | 167061 | [167061-kindaichi-shounen-no-jikenbo-jigoku-yuuen-satsujin-jiken.json](./167061-kindaichi-shounen-no-jikenbo-jigoku-yuuen-satsujin-jiken.json) |
 | Kindan no Jikobukken | 260690 | [260690-kindan-no-jikobukken.json](./260690-kindan-no-jikobukken.json) |
 | Kindawn: The Parish Remembers | 412555 | [412555-kindawn-the-parish-remembers.json](./412555-kindawn-the-parish-remembers.json) |
@@ -2322,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Guns: NY Edition | 277893 | [277893-knights-and-guns-ny-edition.json](./277893-knights-and-guns-ny-edition.json) |
 | Knights & Guns: Platinum Edition | 274494 | [274494-knights-and-guns-platinum-edition.json](./274494-knights-and-guns-platinum-edition.json) |
 | Knights & Guns: Prime Edition | 270795 | [270795-knights-and-guns-prime-edition.json](./270795-knights-and-guns-prime-edition.json) |
+| Knights & Guns: Silver Edition | 254689 | [254689-knights-and-guns-silver-edition.json](./254689-knights-and-guns-silver-edition.json) |
 | Knights & Guns: Special Edition | 324371 | [324371-knights-and-guns-special-edition.json](./324371-knights-and-guns-special-edition.json) |
 | Knights & Guns: Ultimate Edition | 283142 | [283142-knights-and-guns-ultimate-edition.json](./283142-knights-and-guns-ultimate-edition.json) |
 | Knights & Outlaws | 120917 | [120917-knights-and-outlaws.json](./120917-knights-and-outlaws.json) |
