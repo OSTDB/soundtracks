@@ -9064,6 +9064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 14 | 7451 | [7451-motogp-14.json](./7451-motogp-14.json) |
 | MotoGP 14 Compact | 36238 | [36238-motogp-14-compact.json](./36238-motogp-14-compact.json) |
 | MotoGP 14: Donington Park British Grand Prix DLC | 168358 | [168358-motogp-14-donington-park-british-grand-prix-dlc.json](./168358-motogp-14-donington-park-british-grand-prix-dlc.json) |
+| MotoGP 14: Moto2 and Moto3 | 238653 | [238653-motogp-14-moto2-and-moto3.json](./238653-motogp-14-moto2-and-moto3.json) |
 | MotoGP 14: Red Bull Rookies Cup DLC | 168357 | [168357-motogp-14-red-bull-rookies-cup-dlc.json](./168357-motogp-14-red-bull-rookies-cup-dlc.json) |
 | MotoGP 15 | 11275 | [11275-motogp-15.json](./11275-motogp-15.json) |
 | MotoGP 15: GP de Portugal Circuito Estoril | 168359 | [168359-motogp-15-gp-de-portugal-circuito-estoril.json](./168359-motogp-15-gp-de-portugal-circuito-estoril.json) |
