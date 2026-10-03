@@ -1670,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OOTP Baseball Go 23 | 211280 | [211280-ootp-baseball-go-23.json](./211280-ootp-baseball-go-23.json) |
 | Ooze Odyssey | 260231 | [260231-ooze-odyssey.json](./260231-ooze-odyssey.json) |
 | Ooze: Creepy Nights | 57695 | [57695-ooze-creepy-nights.json](./57695-ooze-creepy-nights.json) |
+| Ooze: The Great and Powerful | 265315 | [265315-ooze-the-great-and-powerful.json](./265315-ooze-the-great-and-powerful.json) |
 | Oozing Blasphemy | 271241 | [271241-oozing-blasphemy.json](./271241-oozing-blasphemy.json) |
 | Oozing Islands | 165685 | [165685-oozing-islands.json](./165685-oozing-islands.json) |
 | OPA: Super Janken | 341513 | [341513-opa-super-janken.json](./341513-opa-super-janken.json) |
@@ -1688,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Heart: Third Year | 313723 | [313723-open-heart-third-year.json](./313723-open-heart-third-year.json) |
 | Open Hearts on Fire | 313724 | [313724-open-hearts-on-fire.json](./313724-open-hearts-on-fire.json) |
 | Open Hexagon | 133332 | [133332-open-hexagon.json](./133332-open-hexagon.json) |
+| Open Hunting XL | 265313 | [265313-open-hunting-xl.json](./265313-open-hunting-xl.json) |
 | Open Nectar | 416628 | [416628-open-nectar.json](./416628-open-nectar.json) |
 | Open Net Battle | 343861 | [343861-open-net-battle.json](./343861-open-net-battle.json) |
 | Open Ocarina | 271820 | [271820-open-ocarina.json](./271820-open-ocarina.json) |
@@ -1784,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Market Garden: Drive on Arnhem, September 1944 | 25779 | [25779-operation-market-garden-drive-on-arnhem-september-1944.json](./25779-operation-market-garden-drive-on-arnhem-september-1944.json) |
 | Operation Nachtsprung: Odyssey Live | 352734 | [352734-operation-nachtsprung-odyssey-live.json](./352734-operation-nachtsprung-odyssey-live.json) |
 | Operation Ninurta: Eris Portal | 351726 | [351726-operation-ninurta-eris-portal.json](./351726-operation-ninurta-eris-portal.json) |
+| Operation Noogy | 265314 | [265314-operation-noogy.json](./265314-operation-noogy.json) |
 | Operation Osam Bin Laden | 107370 | [107370-operation-osam-bin-laden.json](./107370-operation-osam-bin-laden.json) |
 | Operation Pig | 111911 | [111911-operation-pig.json](./111911-operation-pig.json) |
 | Operation Pill | 199098 | [199098-operation-pill.json](./199098-operation-pill.json) |
