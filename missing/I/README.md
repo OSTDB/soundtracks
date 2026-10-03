@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Crush 10.000 BC | 300725 | [300725-ice-crush-10-000-bc.json](./300725-ice-crush-10-000-bc.json) |
 | Ice Crystal Adventure Puzzle | 101046 | [101046-ice-crystal-adventure-puzzle.json](./101046-ice-crystal-adventure-puzzle.json) |
 | Ice Crystal Labyrinth | 82812 | [82812-ice-crystal-labyrinth.json](./82812-ice-crystal-labyrinth.json) |
+| Ice Dig | 232491 | [232491-ice-dig.json](./232491-ice-dig.json) |
 | Ice Dodo | 358894 | [358894-ice-dodo.json](./358894-ice-dodo.json) |
 | Ice Em': Race to the Grave | 362382 | [362382-ice-em-race-to-the-grave.json](./362382-ice-em-race-to-the-grave.json) |
 | Ice Fighter | 273472 | [273472-ice-fighter.json](./273472-ice-fighter.json) |
