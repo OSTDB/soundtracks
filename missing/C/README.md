@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Zero | 249313 | [249313-candy-zero.json](./249313-candy-zero.json) |
 | Candy, Please! | 57157 | [57157-candy-please.json](./57157-candy-please.json) |
 | Candybox: Mobile | 402348 | [402348-candybox-mobile.json](./402348-candybox-mobile.json) |
+| Candyboy | 236351 | [236351-candyboy.json](./236351-candyboy.json) |
 | CandyCraft | 241500 | [241500-candycraft.json](./241500-candycraft.json) |
 | Candylight | 194423 | [194423-candylight.json](./194423-candylight.json) |
 | CandyMouse | 241349 | [241349-candymouse.json](./241349-candymouse.json) |
@@ -3720,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Parents | 86430 | [86430-chinese-parents.json](./86430-chinese-parents.json) |
 | Chinese PigLoad | 385728 | [385728-chinese-pigload.json](./385728-chinese-pigload.json) |
 | Chinese Pope Door | 264677 | [264677-chinese-pope-door.json](./264677-chinese-pope-door.json) |
+| Chinese SimpleLife | 236413 | [236413-chinese-simplelife.json](./236413-chinese-simplelife.json) |
 | Chinese Souls: Hua Garden | 90614 | [90614-chinese-souls-hua-garden.json](./90614-chinese-souls-hua-garden.json) |
 | Chinese Style School | 358501 | [358501-chinese-style-school.json](./358501-chinese-style-school.json) |
 | Chinese Tomb Story | 89388 | [89388-chinese-tomb-story.json](./89388-chinese-tomb-story.json) |
@@ -5505,6 +5507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocktail Magic | 260411 | [260411-cocktail-magic.json](./260411-cocktail-magic.json) |
 | Cocktail Paradise | 68632 | [68632-cocktail-paradise.json](./68632-cocktail-paradise.json) |
 | Cocktail Rush | 330183 | [330183-cocktail-rush.json](./330183-cocktail-rush.json) |
+| Cockville | 236353 | [236353-cockville.json](./236353-cockville.json) |
 | Cockwork Industries Complete | 124194 | [124194-cockwork-industries-complete.json](./124194-cockwork-industries-complete.json) |
 | Coco | 380077 | [380077-coco.json](./380077-coco.json) |
 | Coco Bandicoot: Tiger Ride | 314658 | [314658-coco-bandicoot-tiger-ride.json](./314658-coco-bandicoot-tiger-ride.json) |
@@ -10158,6 +10161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber City | 117077 | [117077-cyber-city.json](./117077-cyber-city.json) |
 | Cyber City Oedo 808: Kemono no Zokusei | 64382 | [64382-cyber-city-oedo-808-kemono-no-zokusei.json](./64382-cyber-city-oedo-808-kemono-no-zokusei.json) |
 | Cyber Clutch: Hot Import Nights | 302383 | [302383-cyber-clutch-hot-import-nights.json](./302383-cyber-clutch-hot-import-nights.json) |
+| Cyber Combat | 236335 | [236335-cyber-combat.json](./236335-cyber-combat.json) |
 | Cyber Cycles | 39829 | [39829-cyber-cycles.json](./39829-cyber-cycles.json) |
 | Cyber Dodge | 42054 | [42054-cyber-dodge.json](./42054-cyber-dodge.json) |
 | Cyber Dome | 62801 | [62801-cyber-dome.json](./62801-cyber-dome.json) |
