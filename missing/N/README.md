@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrotyper | 360594 | [360594-necrotyper.json](./360594-necrotyper.json) |
 | Necroverse: Undying Shadows | 391262 | [391262-necroverse-undying-shadows.json](./391262-necroverse-undying-shadows.json) |
 | Necrowarp | 129691 | [129691-necrowarp.json](./129691-necrowarp.json) |
+| Nectar | 267025 | [267025-nectar.json](./267025-nectar.json) |
 | Nectar of the Gods: The Hive and Spidey Party Bugs Bundle | 171019 | [171019-nectar-of-the-gods-the-hive-and-spidey-party-bugs-bundle.json](./171019-nectar-of-the-gods-the-hive-and-spidey-party-bugs-bundle.json) |
 | Nectar Thief | 177829 | [177829-nectar-thief.json](./177829-nectar-thief.json) |
 | Nectar Wars | 260987 | [260987-nectar-wars.json](./260987-nectar-wars.json) |
@@ -1272,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Little Soul | 258562 | [258562-neon-little-soul.json](./258562-neon-little-soul.json) |
 | Neon Magic: Witch Shop | 245939 | [245939-neon-magic-witch-shop.json](./245939-neon-magic-witch-shop.json) |
 | Neon Man | 234611 | [234611-neon-man.json](./234611-neon-man.json) |
+| Neon Marble Rust | 267019 | [267019-neon-marble-rust.json](./267019-neon-marble-rust.json) |
 | Neon Net | 291569 | [291569-neon-net.json](./291569-neon-net.json) |
 | Neon Nexus | 301973 | [301973-neon-nexus.json](./301973-neon-nexus.json) |
 | Neon Nights | 159821 | [159821-neon-nights.json](./159821-neon-nights.json) |
@@ -1568,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevermore 3 | 328005 | [328005-nevermore-3.json](./328005-nevermore-3.json) |
 | NeveRossa: Mille e una notte | 316644 | [316644-neverossa-mille-e-una-notte.json](./316644-neverossa-mille-e-una-notte.json) |
 | Neverputt | 51246 | [51246-neverputt.json](./51246-neverputt.json) |
+| NeverRage | 266973 | [266973-neverrage.json](./266973-neverrage.json) |
 | Neverseas | 301808 | [301808-neverseas.json](./301808-neverseas.json) |
 | Neversong | 133261 | [133261-neversong.json](./133261-neversong.json) |
 | Neversong: Collector's Edition | 139840 | [139840-neversong-collectors-edition.json](./139840-neversong-collectors-edition.json) |
