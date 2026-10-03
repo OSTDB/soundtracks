@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netrek | 79932 | [79932-netrek.json](./79932-netrek.json) |
 | Netronian Chaos | 198355 | [198355-netronian-chaos.json](./198355-netronian-chaos.json) |
 | Netspectre | 211225 | [211225-netspectre.json](./211225-netspectre.json) |
+| Netto de Para | 267584 | [267584-netto-de-para.json](./267584-netto-de-para.json) |
 | Netto de Tennis | 58169 | [58169-netto-de-tennis.json](./58169-netto-de-tennis.json) |
 | Netty | 181211 | [181211-netty.json](./181211-netty.json) |
 | NetWalk | 283745 | [283745-netwalk.json](./283745-netwalk.json) |
