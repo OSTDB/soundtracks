@@ -9354,6 +9354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Arena | 77357 | [77357-the-ultimate-arena.json](./77357-the-ultimate-arena.json) |
 | The Ultimate Banana Game | 330898 | [330898-the-ultimate-banana-game.json](./330898-the-ultimate-banana-game.json) |
 | The Ultimate Clicker Master of the Universe | 334825 | [334825-the-ultimate-clicker-master-of-the-universe.json](./334825-the-ultimate-clicker-master-of-the-universe.json) |
+| The Ultimate Death Clock | 251720 | [251720-the-ultimate-death-clock.json](./251720-the-ultimate-death-clock.json) |
 | The Ultimate Doom: In Name Only | 259749 | [259749-the-ultimate-doom-in-name-only.json](./259749-the-ultimate-doom-in-name-only.json) |
 | The Ultimate Doom: Knee-Deep in Zdoom | 196708 | [196708-the-ultimate-doom-knee-deep-in-zdoom.json](./196708-the-ultimate-doom-knee-deep-in-zdoom.json) |
 | The Ultimate FMV Bundle 2 | 213046 | [213046-the-ultimate-fmv-bundle-2.json](./213046-the-ultimate-fmv-bundle-2.json) |
@@ -10045,6 +10046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's a Butcher Around | 118016 | [118016-theres-a-butcher-around.json](./118016-theres-a-butcher-around.json) |
 | There's a Rikishi in my House | 199613 | [199613-theres-a-rikishi-in-my-house.json](./199613-theres-a-rikishi-in-my-house.json) |
 | There's Always a Madman: Bring the Thunder | 322680 | [322680-theres-always-a-madman-bring-the-thunder.json](./322680-theres-always-a-madman-bring-the-thunder.json) |
+| There's Always a Madman: Fight or Flight | 251710 | [251710-theres-always-a-madman-fight-or-flight.json](./251710-theres-always-a-madman-fight-or-flight.json) |
 | There's Always a Madman: The MacGuffin | 330968 | [330968-theres-always-a-madman-the-macguffin.json](./330968-theres-always-a-madman-the-macguffin.json) |
 | There's Always a Madman: V.I.C.T.O.R. | 330969 | [330969-theres-always-a-madman-v-i-c-t-o-r.json](./330969-theres-always-a-madman-v-i-c-t-o-r.json) |
 | There's an Only One Way Exit. | 314065 | [314065-theres-an-only-one-way-exit.json](./314065-theres-an-only-one-way-exit.json) |
@@ -16860,6 +16862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typical | 108664 | [108664-typical.json](./108664-typical.json) |
 | Typical NPC | 412263 | [412263-typical-npc.json](./412263-typical-npc.json) |
 | Typing Break | 373079 | [373079-typing-break.json](./373079-typing-break.json) |
+| Typing Bullets | 251727 | [251727-typing-bullets.json](./251727-typing-bullets.json) |
 | Typing Faster | 125928 | [125928-typing-faster.json](./125928-typing-faster.json) |
 | Typing Hearts | 149091 | [149091-typing-hearts.json](./149091-typing-hearts.json) |
 | Typing Hero | 126428 | [126428-typing-hero.json](./126428-typing-hero.json) |
