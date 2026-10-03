@@ -277,6 +277,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 10 | 229204 | [229204-madden-nfl-10.json](./229204-madden-nfl-10.json) |
 | Madden NFL 10 | 229205 | [229205-madden-nfl-10.json](./229205-madden-nfl-10.json) |
 | Madden NFL 10 | 4985 | [4985-madden-nfl-10.json](./4985-madden-nfl-10.json) |
+| Madden NFL 10: AFL Legacy Pack | 229207 | [229207-madden-nfl-10-afl-legacy-pack.json](./229207-madden-nfl-10-afl-legacy-pack.json) |
+| Madden NFL 10: Madden Ultimate Team | 229208 | [229208-madden-nfl-10-madden-ultimate-team.json](./229208-madden-nfl-10-madden-ultimate-team.json) |
 | Madden NFL 11 | 243245 | [243245-madden-nfl-11.json](./243245-madden-nfl-11.json) |
 | Madden NFL 11 | 243246 | [243246-madden-nfl-11.json](./243246-madden-nfl-11.json) |
 | Madden NFL 11 | 243247 | [243247-madden-nfl-11.json](./243247-madden-nfl-11.json) |
@@ -1640,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manor of Shadows | 380678 | [380678-manor-of-shadows.json](./380678-manor-of-shadows.json) |
 | Manos: The Hands of Choice | 343399 | [343399-manos-the-hands-of-choice.json](./343399-manos-the-hands-of-choice.json) |
 | Manpuku | 266407 | [266407-manpuku.json](./266407-manpuku.json) |
+| ManServant: Gay Visual Novel | 229115 | [229115-manservant-gay-visual-novel.json](./229115-manservant-gay-visual-novel.json) |
 | Mansion | 269861 | [269861-mansion.json](./269861-mansion.json) |
 | Mansion 2 | 269863 | [269863-mansion-2.json](./269863-mansion-2.json) |
 | Mansion of Hidden Souls | 5402 | [5402-mansion-of-hidden-souls.json](./5402-mansion-of-hidden-souls.json) |
@@ -3658,6 +3661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot Classics Kabuto Version | 136957 | [136957-medarot-classics-kabuto-version.json](./136957-medarot-classics-kabuto-version.json) |
 | Medarot Classics Kuwagata Version | 136953 | [136953-medarot-classics-kuwagata-version.json](./136953-medarot-classics-kuwagata-version.json) |
 | Medarot Classics Plus Kabuto Version | 136832 | [136832-medarot-classics-plus-kabuto-version.json](./136832-medarot-classics-plus-kabuto-version.json) |
+| Medarot DS Kuwagata | 229104 | [229104-medarot-ds-kuwagata.json](./229104-medarot-ds-kuwagata.json) |
 | Medarot DS: Kabuto Version | 67687 | [67687-medarot-ds-kabuto-version.json](./67687-medarot-ds-kabuto-version.json) |
 | Medarot G: Kabuto Version | 188653 | [188653-medarot-g-kabuto-version.json](./188653-medarot-g-kabuto-version.json) |
 | Medarot Kabuto Version | 55145 | [55145-medarot-kabuto-version.json](./55145-medarot-kabuto-version.json) |
@@ -8635,6 +8639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mordheim: City of the Damned - Wolf-Priest of Ulric | 53368 | [53368-mordheim-city-of-the-damned-wolf-priest-of-ulric.json](./53368-mordheim-city-of-the-damned-wolf-priest-of-ulric.json) |
 | Mordheim: Warband Skirmish | 34295 | [34295-mordheim-warband-skirmish.json](./34295-mordheim-warband-skirmish.json) |
 | Mordon's Quest | 13018 | [13018-mordons-quest.json](./13018-mordons-quest.json) |
+| Mordor | 229109 | [229109-mordor.json](./229109-mordor.json) |
 | More and More | 113057 | [113057-more-and-more.json](./113057-more-and-more.json) |
 | More Bloons | 261910 | [261910-more-bloons.json](./261910-more-bloons.json) |
 | More Cookies! | 105534 | [105534-more-cookies.json](./105534-more-cookies.json) |
@@ -10577,6 +10582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovely Flower | 373659 | [373659-my-lovely-flower.json](./373659-my-lovely-flower.json) |
 | My Lovely Noblewomen | 148339 | [148339-my-lovely-noblewomen.json](./148339-my-lovely-noblewomen.json) |
 | My Lovey-Dovey Angel Is a Total Deadbeat: Seriously Scary! | 411717 | [411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json](./411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json) |
+| My Mafia Girlfriend | 229111 | [229111-my-mafia-girlfriend.json](./229111-my-mafia-girlfriend.json) |
 | My Magic Florist | 146773 | [146773-my-magic-florist.json](./146773-my-magic-florist.json) |
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
 | My Make-Up | 93985 | [93985-my-make-up.json](./93985-my-make-up.json) |
