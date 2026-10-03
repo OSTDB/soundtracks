@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Silvergun | 356228 | [356228-radiant-silvergun.json](./356228-radiant-silvergun.json) |
 | Radiant Sky | 381616 | [381616-radiant-sky.json](./381616-radiant-sky.json) |
 | Radiant Starlets | 365301 | [365301-radiant-starlets.json](./365301-radiant-starlets.json) |
+| Radiant Tale: Fanfare! | 241527 | [241527-radiant-tale-fanfare.json](./241527-radiant-tale-fanfare.json) |
 | Radiant: Guardians of Light | 258102 | [258102-radiant-guardians-of-light.json](./258102-radiant-guardians-of-light.json) |
 | RadianVR | 41979 | [41979-radianvr.json](./41979-radianvr.json) |
 | Radiation Age | 49516 | [49516-radiation-age.json](./49516-radiation-age.json) |
