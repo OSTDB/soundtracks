@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Carbonara | 323172 | [323172-la-carbonara.json](./323172-la-carbonara.json) |
 | La Caza del Espía | 323175 | [323175-la-caza-del-espia.json](./323175-la-caza-del-espia.json) |
 | La Cita de Mookie | 323222 | [323222-la-cita-de-mookie.json](./323222-la-cita-de-mookie.json) |
+| La Ciudad Fantasma | 276382 | [276382-la-ciudad-fantasma.json](./276382-la-ciudad-fantasma.json) |
 | La ciudad perdida de los Kowane | 316783 | [316783-la-ciudad-perdida-de-los-kowane.json](./316783-la-ciudad-perdida-de-los-kowane.json) |
 | La Colmena | 86085 | [86085-la-colmena.json](./86085-la-colmena.json) |
 | LA Cops | 17080 | [17080-la-cops.json](./17080-la-cops.json) |
@@ -1436,6 +1437,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Heropolis | 202851 | [202851-legends-of-heropolis.json](./202851-legends-of-heropolis.json) |
 | Legends Of Heropolis DX | 317840 | [317840-legends-of-heropolis-dx.json](./317840-legends-of-heropolis-dx.json) |
 | Legends of Horror | 209414 | [209414-legends-of-horror.json](./209414-legends-of-horror.json) |
+| Legends of Iconoclast 2: Unfinished Business | 276384 | [276384-legends-of-iconoclast-2-unfinished-business.json](./276384-legends-of-iconoclast-2-unfinished-business.json) |
+| Legends of Iconoclast: Scourge of Humanity | 276383 | [276383-legends-of-iconoclast-scourge-of-humanity.json](./276383-legends-of-iconoclast-scourge-of-humanity.json) |
 | Legends of Illarion | 228438 | [228438-legends-of-illarion.json](./228438-legends-of-illarion.json) |
 | Legends of Iona RPG | 55492 | [55492-legends-of-iona-rpg.json](./55492-legends-of-iona-rpg.json) |
 | Legends of Kingdom Rush | 159076 | [159076-legends-of-kingdom-rush.json](./159076-legends-of-kingdom-rush.json) |
@@ -3377,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock 'n Load Tactical Digital: Heroes of Nam - Battlepack 1 | 158743 | [158743-lock-n-load-tactical-digital-heroes-of-nam-battlepack-1.json](./158743-lock-n-load-tactical-digital-heroes-of-nam-battlepack-1.json) |
 | Lock 'n Load Tactical Digital: Heroes of Normandy - Battlepack 1 | 158732 | [158732-lock-n-load-tactical-digital-heroes-of-normandy-battlepack-1.json](./158732-lock-n-load-tactical-digital-heroes-of-normandy-battlepack-1.json) |
 | Lock 'n Load Tactical Digital: Heroes of Normandy - Battlepack 2 | 158745 | [158745-lock-n-load-tactical-digital-heroes-of-normandy-battlepack-2.json](./158745-lock-n-load-tactical-digital-heroes-of-normandy-battlepack-2.json) |
+| Lock 'n Load Tactical Digital: Heroes of Normandy Battlepack 3 | 276413 | [276413-lock-n-load-tactical-digital-heroes-of-normandy-battlepack-3.json](./276413-lock-n-load-tactical-digital-heroes-of-normandy-battlepack-3.json) |
 | Lock 'n Load Tactical Digital: Heroes of North Africa - Battle Pack 1 | 158728 | [158728-lock-n-load-tactical-digital-heroes-of-north-africa-battle-pack-1.json](./158728-lock-n-load-tactical-digital-heroes-of-north-africa-battle-pack-1.json) |
 | Lock 'n Load Tactical Digital: Heroes of the Bitter Harvest - Battlepack 1 | 158742 | [158742-lock-n-load-tactical-digital-heroes-of-the-bitter-harvest-battlepack-1.json](./158742-lock-n-load-tactical-digital-heroes-of-the-bitter-harvest-battlepack-1.json) |
 | Lock 'n Load Tactical Digital: Heroes of the Falklands - Pack 1 | 158734 | [158734-lock-n-load-tactical-digital-heroes-of-the-falklands-pack-1.json](./158734-lock-n-load-tactical-digital-heroes-of-the-falklands-pack-1.json) |
