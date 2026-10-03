@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Claus Jr. Advance | 49338 | [49338-santa-claus-jr-advance.json](./49338-santa-claus-jr-advance.json) |
 | Santa Claws | 50224 | [50224-santa-claws.json](./50224-santa-claws.json) |
 | Santa Clicker Tycoon | 209630 | [209630-santa-clicker-tycoon.json](./209630-santa-clicker-tycoon.json) |
+| Santa Draw Ride | 243725 | [243725-santa-draw-ride.json](./243725-santa-draw-ride.json) |
 | Santa Fe Mysteries: The Elk Moon Murder | 13783 | [13783-santa-fe-mysteries-the-elk-moon-murder.json](./13783-santa-fe-mysteries-the-elk-moon-murder.json) |
 | Santa Gift Master | 293312 | [293312-santa-gift-master.json](./293312-santa-gift-master.json) |
 | Santa in search of toys | 113691 | [113691-santa-in-search-of-toys.json](./113691-santa-in-search-of-toys.json) |
@@ -6697,6 +6698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepy Head | 91373 | [91373-sleepy-head.json](./91373-sleepy-head.json) |
 | Sleepy Heroes | 357366 | [357366-sleepy-heroes.json](./357366-sleepy-heroes.json) |
 | Sleepy Meadow | 350053 | [350053-sleepy-meadow.json](./350053-sleepy-meadow.json) |
+| Sleepy Squares | 243726 | [243726-sleepy-squares.json](./243726-sleepy-squares.json) |
 | Sleepy Sunday | 152834 | [152834-sleepy-sunday.json](./152834-sleepy-sunday.json) |
 | Sleeve Shock | 257956 | [257956-sleeve-shock.json](./257956-sleeve-shock.json) |
 | Sleigh Strikers | 279257 | [279257-sleigh-strikers.json](./279257-sleigh-strikers.json) |
@@ -7173,6 +7175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmartGo Player | 88188 | [88188-smartgo-player.json](./88188-smartgo-player.json) |
 | Smartphone | 418818 | [418818-smartphone.json](./418818-smartphone.json) |
 | Smartplant | 336752 | [336752-smartplant.json](./336752-smartplant.json) |
+| Smartsquid | 243732 | [243732-smartsquid.json](./243732-smartsquid.json) |
 | Smarty | 130360 | [130360-smarty.json](./130360-smarty.json) |
 | Smarty Labs | 410999 | [410999-smarty-labs.json](./410999-smarty-labs.json) |
 | Smash 'n Dab | 177438 | [177438-smash-n-dab.json](./177438-smash-n-dab.json) |
@@ -7952,6 +7955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer | 172594 | [172594-soccer.json](./172594-soccer.json) |
 | Soccer | 18441 | [18441-soccer.json](./18441-soccer.json) |
 | Soccer | 217962 | [217962-soccer.json](./217962-soccer.json) |
+| Soccer | 243822 | [243822-soccer.json](./243822-soccer.json) |
 | Soccer | 245406 | [245406-soccer.json](./245406-soccer.json) |
 | Soccer | 245407 | [245407-soccer.json](./245407-soccer.json) |
 | Soccer | 247045 | [247045-soccer.json](./247045-soccer.json) |
@@ -11294,6 +11298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spoils of Plunder | 163851 | [163851-spoils-of-plunder.json](./163851-spoils-of-plunder.json) |
 | Spolous Ex | 182920 | [182920-spolous-ex.json](./182920-spolous-ex.json) |
 | Sponchies | 68603 | [68603-sponchies.json](./68603-sponchies.json) |
+| Sponge Pop | 243824 | [243824-sponge-pop.json](./243824-sponge-pop.json) |
 | Spongebob & Patrick: Dirty Bubble Busters | 338942 | [338942-spongebob-and-patrick-dirty-bubble-busters.json](./338942-spongebob-and-patrick-dirty-bubble-busters.json) |
 | SpongeBob Adventures: In A Jam | 300331 | [300331-spongebob-adventures-in-a-jam.json](./300331-spongebob-adventures-in-a-jam.json) |
 | SpongeBob and the Pit of 100 Trials | 341664 | [341664-spongebob-and-the-pit-of-100-trials.json](./341664-spongebob-and-the-pit-of-100-trials.json) |
