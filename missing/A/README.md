@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Building Full of Cats 2 | 301592 | [301592-a-building-full-of-cats-2.json](./301592-a-building-full-of-cats-2.json) |
 | A Bumpy Ride | 312660 | [312660-a-bumpy-ride.json](./312660-a-bumpy-ride.json) |
 | A Business Tycoon | 68025 | [68025-a-business-tycoon.json](./68025-a-business-tycoon.json) |
+| A Butterfly | 266400 | [266400-a-butterfly.json](./266400-a-butterfly.json) |
 | A Butterfly | 327294 | [327294-a-butterfly.json](./327294-a-butterfly.json) |
 | A Butterfly's Dream | 194996 | [194996-a-butterflys-dream.json](./194996-a-butterflys-dream.json) |
 | A Buttload of Free Games | 135226 | [135226-a-buttload-of-free-games.json](./135226-a-buttload-of-free-games.json) |
@@ -376,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night at the Watermill: Collector's Bundle | 336052 | [336052-a-night-at-the-watermill-collectors-bundle.json](./336052-a-night-at-the-watermill-collectors-bundle.json) |
 | A Night Before the Deadline | 145625 | [145625-a-night-before-the-deadline.json](./145625-a-night-before-the-deadline.json) |
 | A Night in Vanet Manor | 147243 | [147243-a-night-in-vanet-manor.json](./147243-a-night-in-vanet-manor.json) |
+| A Night On The Farm | 266431 | [266431-a-night-on-the-farm.json](./266431-a-night-on-the-farm.json) |
 | A Night Out. | 334702 | [334702-a-night-out.json](./334702-a-night-out.json) |
 | A Night Train to the Forest Zone | 138054 | [138054-a-night-train-to-the-forest-zone.json](./138054-a-night-train-to-the-forest-zone.json) |
 | A Night Was Had on the Town | 178944 | [178944-a-night-was-had-on-the-town.json](./178944-a-night-was-had-on-the-town.json) |
@@ -608,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Walk in the Woods: VR | 133888 | [133888-a-walk-in-the-woods-vr.json](./133888-a-walk-in-the-woods-vr.json) |
 | A Walk Through Echoes | 159708 | [159708-a-walk-through-echoes.json](./159708-a-walk-through-echoes.json) |
 | A Walk With Yiayia | 151184 | [151184-a-walk-with-yiayia.json](./151184-a-walk-with-yiayia.json) |
+| A Wanderer's Tale: Celebration of the Century | 266415 | [266415-a-wanderers-tale-celebration-of-the-century.json](./266415-a-wanderers-tale-celebration-of-the-century.json) |
 | A War On Christmas: Part 2 | 279773 | [279773-a-war-on-christmas-part-2.json](./279773-a-war-on-christmas-part-2.json) |
 | A Warmer Shade of Summer | 151192 | [151192-a-warmer-shade-of-summer.json](./151192-a-warmer-shade-of-summer.json) |
 | A Wave of Lights | 175838 | [175838-a-wave-of-lights.json](./175838-a-wave-of-lights.json) |
