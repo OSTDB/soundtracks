@@ -4446,6 +4446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holoception | 117460 | [117460-holoception.json](./117460-holoception.json) |
 | HoloCure: Save the Fans! | 206336 | [206336-holocure-save-the-fans.json](./206336-holocure-save-the-fans.json) |
 | Holodrive | 20365 | [20365-holodrive.json](./20365-holodrive.json) |
+| Holoemblem: The Search for Seiso | 273550 | [273550-holoemblem-the-search-for-seiso.json](./273550-holoemblem-the-search-for-seiso.json) |
 | HoloExpo20XX | 401775 | [401775-holoexpo20xx.json](./401775-holoexpo20xx.json) |
 | HoloFist | 117485 | [117485-holofist.json](./117485-holofist.json) |
 | Hologram | 190961 | [190961-hologram.json](./190961-hologram.json) |
