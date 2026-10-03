@@ -1941,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scurry | 97711 | [97711-scurry.json](./97711-scurry.json) |
 | Scurvy Dogs | 224761 | [224761-scurvy-dogs.json](./224761-scurvy-dogs.json) |
 | Scuttle | 285697 | [285697-scuttle.json](./285697-scuttle.json) |
+| Scuttle's Thingamubobs | 246533 | [246533-scuttles-thingamubobs.json](./246533-scuttles-thingamubobs.json) |
 | Scythe Shepard | 276717 | [276717-scythe-shepard.json](./276717-scythe-shepard.json) |
 | Scythe X | 137667 | [137667-scythe-x.json](./137667-scythe-x.json) |
 | Scythe: Digital Edition - Invaders from Afar | 154948 | [154948-scythe-digital-edition-invaders-from-afar.json](./154948-scythe-digital-edition-invaders-from-afar.json) |
@@ -2203,6 +2204,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeaWorld Adventure Park: Shamu's Deep Sea Adventures | 50565 | [50565-seaworld-adventure-park-shamus-deep-sea-adventures.json](./50565-seaworld-adventure-park-shamus-deep-sea-adventures.json) |
 | SeaWorld Adventure Parks Tycoon | 73288 | [73288-seaworld-adventure-parks-tycoon.json](./73288-seaworld-adventure-parks-tycoon.json) |
 | Sebastian's Quest | 329038 | [329038-sebastians-quest.json](./329038-sebastians-quest.json) |
+| Sebastian's Sea Urchin Symphony | 246518 | [246518-sebastians-sea-urchin-symphony.json](./246518-sebastians-sea-urchin-symphony.json) |
+| Sebastian's Treasure Hunt | 246520 | [246520-sebastians-treasure-hunt.json](./246520-sebastians-treasure-hunt.json) |
 | Sebevrah | 377067 | [377067-sebevrah.json](./377067-sebevrah.json) |
 | Sebil Engineering | 184506 | [184506-sebil-engineering.json](./184506-sebil-engineering.json) |
 | Seblen: Battle! | 169391 | [169391-seblen-battle.json](./169391-seblen-battle.json) |
@@ -7751,6 +7754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Drop | 71444 | [71444-snow-drop.json](./71444-snow-drop.json) |
 | Snow Eagle Lord | 120834 | [120834-snow-eagle-lord.json](./120834-snow-eagle-lord.json) |
 | Snow Fall | 362355 | [362355-snow-fall.json](./362355-snow-fall.json) |
+| Snow Fight | 246543 | [246543-snow-fight.json](./246543-snow-fight.json) |
 | Snow Fight | 316096 | [316096-snow-fight.json](./316096-snow-fight.json) |
 | Snow Fighters | 151562 | [151562-snow-fighters.json](./151562-snow-fighters.json) |
 | Snow Forest | 352295 | [352295-snow-forest.json](./352295-snow-forest.json) |
@@ -7758,6 +7762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Games VR | 29782 | [29782-snow-games-vr.json](./29782-snow-games-vr.json) |
 | Snow Jewels Puzzle | 87134 | [87134-snow-jewels-puzzle.json](./87134-snow-jewels-puzzle.json) |
 | Snow Kids | 135888 | [135888-snow-kids.json](./135888-snow-kids.json) |
+| Snow Kingdom | 246544 | [246544-snow-kingdom.json](./246544-snow-kingdom.json) |
 | Snow Madness | 224201 | [224201-snow-madness.json](./224201-snow-madness.json) |
 | Snow Magic Piano Tiles | 96222 | [96222-snow-magic-piano-tiles.json](./96222-snow-magic-piano-tiles.json) |
 | Snow Memoria: Wasureenu Omoi | 77675 | [77675-snow-memoria-wasureenu-omoi.json](./77675-snow-memoria-wasureenu-omoi.json) |
@@ -10411,6 +10416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SparkleWand Puzzle | 239056 | [239056-sparklewand-puzzle.json](./239056-sparklewand-puzzle.json) |
 | Sparkling Corner | 172521 | [172521-sparkling-corner.json](./172521-sparkling-corner.json) |
 | Sparkling Feather | 46612 | [46612-sparkling-feather.json](./46612-sparkling-feather.json) |
+| Sparkling Memory | 246546 | [246546-sparkling-memory.json](./246546-sparkling-memory.json) |
 | SparkMutts | 211214 | [211214-sparkmutts.json](./211214-sparkmutts.json) |
 | Sparkour | 34852 | [34852-sparkour.json](./34852-sparkour.json) |
 | Sparkster PC | 265220 | [265220-sparkster-pc.json](./265220-sparkster-pc.json) |
@@ -11092,6 +11098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiral Wave | 42045 | [42045-spiral-wave.json](./42045-spiral-wave.json) |
 | Spiral!! | 399062 | [399062-spiral.json](./399062-spiral.json) |
 | Spiralagon | 122342 | [122342-spiralagon.json](./122342-spiralagon.json) |
+| Spiraling Snow | 246547 | [246547-spiraling-snow.json](./246547-spiraling-snow.json) |
 | Spire Horizon | 257687 | [257687-spire-horizon.json](./257687-spire-horizon.json) |
 | Spire Horizon Online | 304871 | [304871-spire-horizon-online.json](./304871-spire-horizon-online.json) |
 | Spire of Ash | 396601 | [396601-spire-of-ash.json](./396601-spire-of-ash.json) |
@@ -17549,6 +17556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushido vs. Zombies | 76523 | [76523-sushido-vs-zombies.json](./76523-sushido-vs-zombies.json) |
 | Sushininjarobot TD | 345038 | [345038-sushininjarobot-td.json](./345038-sushininjarobot-td.json) |
 | SushiParty2 | 124238 | [124238-sushiparty2.json](./124238-sushiparty2.json) |
+| Susie's Buttons and Baubles | 246536 | [246536-susies-buttons-and-baubles.json](./246536-susies-buttons-and-baubles.json) |
 | Suske en Wiske: De Texas Rakkers | 305432 | [305432-suske-en-wiske-de-texas-rakkers.json](./305432-suske-en-wiske-de-texas-rakkers.json) |
 | Suspect: The Run! | 235143 | [235143-suspect-the-run.json](./235143-suspect-the-run.json) |
 | Suspecto | 374193 | [374193-suspecto.json](./374193-suspecto.json) |
