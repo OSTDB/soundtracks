@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old World: Pharaohs of the Nile | 269215 | [269215-old-world-pharaohs-of-the-nile.json](./269215-old-world-pharaohs-of-the-nile.json) |
 | Oldage | 72353 | [72353-oldage.json](./72353-oldage.json) |
 | OldBerserker | 180760 | [180760-oldberserker.json](./180760-oldberserker.json) |
+| Olden War | 261994 | [261994-olden-war.json](./261994-olden-war.json) |
 | Oldentide | 57892 | [57892-oldentide.json](./57892-oldentide.json) |
 | Older Brother, Twins, and Little Sister | 98013 | [98013-older-brother-twins-and-little-sister.json](./98013-older-brother-twins-and-little-sister.json) |
 | Olderfall | 408205 | [408205-olderfall.json](./408205-olderfall.json) |
@@ -1184,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Hit KO | 29218 | [29218-one-hit-ko.json](./29218-one-hit-ko.json) |
 | One Hop Ahead | 390764 | [390764-one-hop-ahead.json](./390764-one-hop-ahead.json) |
 | One Hour And A Straight Line | 278986 | [278986-one-hour-and-a-straight-line.json](./278986-one-hour-and-a-straight-line.json) |
+| One Humanity | 261964 | [261964-one-humanity.json](./261964-one-humanity.json) |
 | One Hundred Times Me | 114818 | [114818-one-hundred-times-me.json](./114818-one-hundred-times-me.json) |
 | One Hundred Ways | 13218 | [13218-one-hundred-ways.json](./13218-one-hundred-ways.json) |
 | One Iced Latte With Your Breast Milk, Please! | 296688 | [296688-one-iced-latte-with-your-breast-milk-please.json](./296688-one-iced-latte-with-your-breast-milk-please.json) |
