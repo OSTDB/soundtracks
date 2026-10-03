@@ -1489,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manahex | 291598 | [291598-manahex.json](./291598-manahex.json) |
 | Manakoto Hitomi no Bawai | 268135 | [268135-manakoto-hitomi-no-bawai.json](./268135-manakoto-hitomi-no-bawai.json) |
 | Manall's FF1 | 309580 | [309580-manalls-ff1.json](./309580-manalls-ff1.json) |
+| Manas | 249359 | [249359-manas.json](./249359-manas.json) |
 | Manascape | 257933 | [257933-manascape.json](./257933-manascape.json) |
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
 | Manaulyn | 296971 | [296971-manaulyn.json](./296971-manaulyn.json) |
@@ -4621,6 +4622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mentori Puzzle | 113471 | [113471-mentori-puzzle.json](./113471-mentori-puzzle.json) |
 | Mentula Macanus: Apocolocyntosis | 22420 | [22420-mentula-macanus-apocolocyntosis.json](./22420-mentula-macanus-apocolocyntosis.json) |
 | Menyr | 260638 | [260638-menyr.json](./260638-menyr.json) |
+| Meo+ | 249363 | [249363-meo.json](./249363-meo.json) |
 | Meongnyang Animal Hospital Companion Animal Health Guardian! | 234554 | [234554-meongnyang-animal-hospital-companion-animal-health-guardian.json](./234554-meongnyang-animal-hospital-companion-animal-health-guardian.json) |
 | Meow | 334677 | [334677-meow.json](./334677-meow.json) |
 | Meow and the Diamond Jump | 379022 | [379022-meow-and-the-diamond-jump.json](./379022-meow-and-the-diamond-jump.json) |
@@ -4969,6 +4971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Marines | 42497 | [42497-metal-marines.json](./42497-metal-marines.json) |
 | Metal Max 2 | 37929 | [37929-metal-max-2.json](./37929-metal-max-2.json) |
 | Metal Max 3 | 66922 | [66922-metal-max-3.json](./66922-metal-max-3.json) |
+| Metal Max Balls | 249310 | [249310-metal-max-balls.json](./249310-metal-max-balls.json) |
 | Metal Max Returns | 38373 | [38373-metal-max-returns.json](./38373-metal-max-returns.json) |
 | Metal Max Xeno: Limited Edition | 201054 | [201054-metal-max-xeno-limited-edition.json](./201054-metal-max-xeno-limited-edition.json) |
 | Metal Max: Fireworks | 75850 | [75850-metal-max-fireworks.json](./75850-metal-max-fireworks.json) |
@@ -5857,6 +5860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miles 27: Look Like You | 413765 | [413765-miles-27-look-like-you.json](./413765-miles-27-look-like-you.json) |
 | Miles Edgeworth: Ace Attorney - Shattered Glass | 303030 | [303030-miles-edgeworth-ace-attorney-shattered-glass.json](./303030-miles-edgeworth-ace-attorney-shattered-glass.json) |
 | Miles Edgeworth: Ace Attorney 2 - Trial by Fire | 303032 | [303032-miles-edgeworth-ace-attorney-2-trial-by-fire.json](./303032-miles-edgeworth-ace-attorney-2-trial-by-fire.json) |
+| Miles From Tomorrowland: Missions | 249365 | [249365-miles-from-tomorrowland-missions.json](./249365-miles-from-tomorrowland-missions.json) |
 | Miles of Cubes | 148537 | [148537-miles-of-cubes.json](./148537-miles-of-cubes.json) |
 | MILF | 334765 | [334765-milf.json](./334765-milf.json) |
 | Milf Hunter | 192444 | [192444-milf-hunter.json](./192444-milf-hunter.json) |
@@ -9596,12 +9600,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplayer Game Maker | 335445 | [335445-multiplayer-game-maker.json](./335445-multiplayer-game-maker.json) |
 | Multiplayer Knights | 235193 | [235193-multiplayer-knights.json](./235193-multiplayer-knights.json) |
 | Multiplayer Mercs | 255275 | [255275-multiplayer-mercs.json](./255275-multiplayer-mercs.json) |
+| Multiplayer Military | 249326 | [249326-multiplayer-military.json](./249326-multiplayer-military.json) |
 | Multiplayer Mongolians | 320560 | [320560-multiplayer-mongolians.json](./320560-multiplayer-mongolians.json) |
 | Multiplayer Obby | 274533 | [274533-multiplayer-obby.json](./274533-multiplayer-obby.json) |
 | Multiplayer Platform Golf | 264583 | [264583-multiplayer-platform-golf.json](./264583-multiplayer-platform-golf.json) |
 | Multiplayer RPG | 307737 | [307737-multiplayer-rpg.json](./307737-multiplayer-rpg.json) |
 | Multiplayer Spiders | 296362 | [296362-multiplayer-spiders.json](./296362-multiplayer-spiders.json) |
 | Multiplayer Survivors | 307738 | [307738-multiplayer-survivors.json](./307738-multiplayer-survivors.json) |
+| Multiplayer Turtles | 249330 | [249330-multiplayer-turtles.json](./249330-multiplayer-turtles.json) |
 | Multiplayer Wizards | 304820 | [304820-multiplayer-wizards.json](./304820-multiplayer-wizards.json) |
 | Multiplayer.Golf | 205657 | [205657-multiplayer-golf.json](./205657-multiplayer-golf.json) |
 | Multiplication Dragons | 103545 | [103545-multiplication-dragons.json](./103545-multiplication-dragons.json) |
