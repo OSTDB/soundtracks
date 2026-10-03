@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Crisis Mage Attack | 128636 | [128636-panic-crisis-mage-attack.json](./128636-panic-crisis-mage-attack.json) |
 | Panic Factory | 194315 | [194315-panic-factory.json](./194315-panic-factory.json) |
 | Panic Floor!! | 202658 | [202658-panic-floor.json](./202658-panic-floor.json) |
+| Panic in the Mushroom Kingdom | 268108 | [268108-panic-in-the-mushroom-kingdom.json](./268108-panic-in-the-mushroom-kingdom.json) |
 | Panic in the Park | 69251 | [69251-panic-in-the-park.json](./69251-panic-in-the-park.json) |
 | Panic in the Woods | 315508 | [315508-panic-in-the-woods.json](./315508-panic-in-the-woods.json) |
 | Panic Invaders | 70957 | [70957-panic-invaders.json](./70957-panic-invaders.json) |
@@ -4228,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles World War II Jigsaws: Pack - Battle Off Samar | 274657 | [274657-pixel-puzzles-world-war-ii-jigsaws-pack-battle-off-samar.json](./274657-pixel-puzzles-world-war-ii-jigsaws-pack-battle-off-samar.json) |
 | Pixel Puzzles WW2 Jigsaw: Battle of the Bulge | 289463 | [289463-pixel-puzzles-ww2-jigsaw-battle-of-the-bulge.json](./289463-pixel-puzzles-ww2-jigsaw-battle-of-the-bulge.json) |
 | Pixel Puzzles WW2 Jigsaw: Italian Tanks | 264005 | [264005-pixel-puzzles-ww2-jigsaw-italian-tanks.json](./264005-pixel-puzzles-ww2-jigsaw-italian-tanks.json) |
+| Pixel Puzzles WW2 Jigsaw: Pack - Soviet Invasion of Poland | 268141 | [268141-pixel-puzzles-ww2-jigsaw-pack-soviet-invasion-of-poland.json](./268141-pixel-puzzles-ww2-jigsaw-pack-soviet-invasion-of-poland.json) |
 | Pixel Puzzles: Illustrations & Anime | 162933 | [162933-pixel-puzzles-illustrations-and-anime.json](./162933-pixel-puzzles-illustrations-and-anime.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Chibi | 241507 | [241507-pixel-puzzles-illustrations-and-anime-jigsaw-pack-chibi.json](./241507-pixel-puzzles-illustrations-and-anime-jigsaw-pack-chibi.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dark Sided | 162940 | [162940-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dark-sided.json](./162940-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dark-sided.json) |
@@ -6012,6 +6014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polybomber | 374140 | [374140-polybomber.json](./374140-polybomber.json) |
 | PolyBoost | 172681 | [172681-polyboost.json](./172681-polyboost.json) |
 | Polybot-7 | 97849 | [97849-polybot-7.json](./97849-polybot-7.json) |
+| PolyBoy War | 268134 | [268134-polyboy-war.json](./268134-polyboy-war.json) |
 | Polycar Blitz | 334266 | [334266-polycar-blitz.json](./334266-polycar-blitz.json) |
 | Polychoron | 151664 | [151664-polychoron.json](./151664-polychoron.json) |
 | Polychrome | 362975 | [362975-polychrome.json](./362975-polychrome.json) |
@@ -8471,6 +8474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pug's Quest | 82954 | [82954-pugs-quest.json](./82954-pugs-quest.json) |
 | Pugovki | 177051 | [177051-pugovki.json](./177051-pugovki.json) |
 | PUIQ: Demons | 298053 | [298053-puiq-demons.json](./298053-puiq-demons.json) |
+| Puke the Pirate | 268123 | [268123-puke-the-pirate.json](./268123-puke-the-pirate.json) |
 | PukePuke Demon | 103636 | [103636-pukepuke-demon.json](./103636-pukepuke-demon.json) |
 | Pukunpa: Joshikousei No Houkago | 71023 | [71023-pukunpa-joshikousei-no-houkago.json](./71023-pukunpa-joshikousei-no-houkago.json) |
 | Pulang Insanity: Director's Cut | 117769 | [117769-pulang-insanity-directors-cut.json](./117769-pulang-insanity-directors-cut.json) |
