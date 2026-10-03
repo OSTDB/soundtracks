@@ -5269,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guncho | 275604 | [275604-guncho.json](./275604-guncho.json) |
 | Gunclone Arena | 389647 | [389647-gunclone-arena.json](./389647-gunclone-arena.json) |
 | Guncom 2 | 43532 | [43532-guncom-2.json](./43532-guncom-2.json) |
+| Guncotton | 270850 | [270850-guncotton.json](./270850-guncotton.json) |
 | Guncrafter | 343805 | [343805-guncrafter.json](./343805-guncrafter.json) |
 | GunCrank | 414292 | [414292-guncrank.json](./414292-guncrank.json) |
 | Guncrypt | 405589 | [405589-guncrypt.json](./405589-guncrypt.json) |
