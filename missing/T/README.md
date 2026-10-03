@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanking Tanks | 112375 | [112375-tanking-tanks.json](./112375-tanking-tanks.json) |
 | Tankiro | 346179 | [346179-tankiro.json](./346179-tankiro.json) |
 | Tankitos | 201788 | [201788-tankitos.json](./201788-tankitos.json) |
+| TankLab | 234217 | [234217-tanklab.json](./234217-tanklab.json) |
 | Tankman | 121635 | [121635-tankman.json](./121635-tankman.json) |
 | Tankomatron War Robots: Transform Tanks into Bots | 104634 | [104634-tankomatron-war-robots-transform-tanks-into-bots.json](./104634-tankomatron-war-robots-transform-tanks-into-bots.json) |
 | TankRat | 381208 | [381208-tankrat.json](./381208-tankrat.json) |
@@ -3202,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms: Lost to the Dark | 370141 | [370141-the-backrooms-lost-to-the-dark.json](./370141-the-backrooms-lost-to-the-dark.json) |
 | The Backrooms: Mass Extinction | 203558 | [203558-the-backrooms-mass-extinction.json](./203558-the-backrooms-mass-extinction.json) |
 | The Backrooms: Maze Escape | 370281 | [370281-the-backrooms-maze-escape.json](./370281-the-backrooms-maze-escape.json) |
+| The Backrooms: Nightmare Dimension | 234116 | [234116-the-backrooms-nightmare-dimension.json](./234116-the-backrooms-nightmare-dimension.json) |
 | The Backrooms: Rescue Expedition | 374828 | [374828-the-backrooms-rescue-expedition.json](./374828-the-backrooms-rescue-expedition.json) |
 | The Backrooms: Reset | 365740 | [365740-the-backrooms-reset.json](./365740-the-backrooms-reset.json) |
 | The Backrooms: Survival | 192975 | [192975-the-backrooms-survival.json](./192975-the-backrooms-survival.json) |
@@ -4019,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crown of Leaves | 51446 | [51446-the-crown-of-leaves.json](./51446-the-crown-of-leaves.json) |
 | The Crown of Leaves: Chapter 2 | 168840 | [168840-the-crown-of-leaves-chapter-2.json](./168840-the-crown-of-leaves-chapter-2.json) |
 | The Crown of Wu | 198497 | [198497-the-crown-of-wu.json](./198497-the-crown-of-wu.json) |
+| The Crown of Wu: Legend Edition | 234216 | [234216-the-crown-of-wu-legend-edition.json](./234216-the-crown-of-wu-legend-edition.json) |
 | The Crown Stones: Mirrah | 26959 | [26959-the-crown-stones-mirrah.json](./26959-the-crown-stones-mirrah.json) |
 | The Crows | 326985 | [326985-the-crows.json](./326985-the-crows.json) |
 | The Cruel Dreamer Marchosias | 187393 | [187393-the-cruel-dreamer-marchosias.json](./187393-the-cruel-dreamer-marchosias.json) |
@@ -9054,6 +9057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tenth Minute | 400243 | [400243-the-tenth-minute.json](./400243-the-tenth-minute.json) |
 | The Terminal | 176818 | [176818-the-terminal.json](./176818-the-terminal.json) |
 | The Terminator | 198940 | [198940-the-terminator.json](./198940-the-terminator.json) |
+| The Terminator | 234211 | [234211-the-terminator.json](./234211-the-terminator.json) |
 | The Terminator | 4372 | [4372-the-terminator.json](./4372-the-terminator.json) |
 | The Terminator | 7688 | [7688-the-terminator.json](./7688-the-terminator.json) |
 | The Terminator | 85846 | [85846-the-terminator.json](./85846-the-terminator.json) |
@@ -15497,6 +15501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TreeTale | 347347 | [347347-treetale.json](./347347-treetale.json) |
 | Treeverse | 336064 | [336064-treeverse.json](./336064-treeverse.json) |
 | Treis Zoes | 129080 | [129080-treis-zoes.json](./129080-treis-zoes.json) |
+| Trek to Yomi: Deluxe Edition | 234208 | [234208-trek-to-yomi-deluxe-edition.json](./234208-trek-to-yomi-deluxe-edition.json) |
 | Trek: Travel Around the World | 105083 | [105083-trek-travel-around-the-world.json](./105083-trek-travel-around-the-world.json) |
 | Trekking and Camping | 167262 | [167262-trekking-and-camping.json](./167262-trekking-and-camping.json) |
 | Trembling Dots | 128620 | [128620-trembling-dots.json](./128620-trembling-dots.json) |
