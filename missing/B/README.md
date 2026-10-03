@@ -1926,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Crusher | 66069 | [66069-battle-crusher.json](./66069-battle-crusher.json) |
 | Battle Crust | 33505 | [33505-battle-crust.json](./33505-battle-crust.json) |
 | Battle Cry of Freedom | 63551 | [63551-battle-cry-of-freedom.json](./63551-battle-cry-of-freedom.json) |
+| Battle Cry of Freedom: Blood & Gore | 239721 | [239721-battle-cry-of-freedom-blood-and-gore.json](./239721-battle-cry-of-freedom-blood-and-gore.json) |
 | Battle Cube | 128598 | [128598-battle-cube.json](./128598-battle-cube.json) |
 | Battle Dawn | 139433 | [139433-battle-dawn.json](./139433-battle-dawn.json) |
 | Battle Dawn 2: Terra Reborn | 217230 | [217230-battle-dawn-2-terra-reborn.json](./217230-battle-dawn-2-terra-reborn.json) |
@@ -2774,6 +2775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the Clock | 196261 | [196261-beat-the-clock.json](./196261-beat-the-clock.json) |
 | Beat the House | 71041 | [71041-beat-the-house.json](./71041-beat-the-house.json) |
 | Beat the House 2 | 71503 | [71503-beat-the-house-2.json](./71503-beat-the-house-2.json) |
+| Beat the Humans | 239793 | [239793-beat-the-humans.json](./239793-beat-the-humans.json) |
 | Beat the Machine: Rebooted | 135767 | [135767-beat-the-machine-rebooted.json](./135767-beat-the-machine-rebooted.json) |
 | Beat the Markets | 348262 | [348262-beat-the-markets.json](./348262-beat-the-markets.json) |
 | Beat the Moles | 157023 | [157023-beat-the-moles.json](./157023-beat-the-moles.json) |
