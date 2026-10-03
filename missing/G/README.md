@@ -4714,6 +4714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Wai Wai Party!!!! - Hit Song + VTuber Pack 5 | 268539 | [268539-groove-coaster-wai-wai-party-hit-song-vtuber-pack-5.json](./268539-groove-coaster-wai-wai-party-hit-song-vtuber-pack-5.json) |
 | Groove Coaster: Wai Wai Party!!!! - Hololive Pack | 242049 | [242049-groove-coaster-wai-wai-party-hololive-pack.json](./242049-groove-coaster-wai-wai-party-hololive-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - Lanota Pack | 237936 | [237936-groove-coaster-wai-wai-party-lanota-pack.json](./237936-groove-coaster-wai-wai-party-lanota-pack.json) |
+| Groove Coaster: Wai Wai Party!!!! - Maimai DX + Ongeki Pack | 270290 | [270290-groove-coaster-wai-wai-party-maimai-dx-ongeki-pack.json](./270290-groove-coaster-wai-wai-party-maimai-dx-ongeki-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - Muse Dash + Misc Pack | 237888 | [237888-groove-coaster-wai-wai-party-muse-dash-misc-pack.json](./237888-groove-coaster-wai-wai-party-muse-dash-misc-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - Original Pack | 237889 | [237889-groove-coaster-wai-wai-party-original-pack.json](./237889-groove-coaster-wai-wai-party-original-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - Original Pack 2 | 237890 | [237890-groove-coaster-wai-wai-party-original-pack-2.json](./237890-groove-coaster-wai-wai-party-original-pack-2.json) |
