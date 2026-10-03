@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Jade Li Guang | 151740 | [151740-tale-of-jade-li-guang.json](./151740-tale-of-jade-li-guang.json) |
 | Tale of Legends | 260685 | [260685-tale-of-legends.json](./260685-tale-of-legends.json) |
 | Tale of Rainbow 7 | 132607 | [132607-tale-of-rainbow-7.json](./132607-tale-of-rainbow-7.json) |
+| Tale of Ren: Searching for Heart Droplets | 270892 | [270892-tale-of-ren-searching-for-heart-droplets.json](./270892-tale-of-ren-searching-for-heart-droplets.json) |
 | Tale of Ronin | 27750 | [27750-tale-of-ronin.json](./27750-tale-of-ronin.json) |
 | Tale of Scale | 339628 | [339628-tale-of-scale.json](./339628-tale-of-scale.json) |
 | Tale of Season | 174762 | [174762-tale-of-season.json](./174762-tale-of-season.json) |
@@ -1582,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Kirby Clash Deluxe | 28126 | [28126-team-kirby-clash-deluxe.json](./28126-team-kirby-clash-deluxe.json) |
 | Team Manager | 211706 | [211706-team-manager.json](./211706-team-manager.json) |
 | Team Notion | 61146 | [61146-team-notion.json](./61146-team-notion.json) |
+| Team of Bravery | 270891 | [270891-team-of-bravery.json](./270891-team-of-bravery.json) |
 | Team Of Robbers | 117773 | [117773-team-of-robbers.json](./117773-team-of-robbers.json) |
 | Team of Titans | 302376 | [302376-team-of-titans.json](./302376-team-of-titans.json) |
 | Team Racing League | 32141 | [32141-team-racing-league.json](./32141-team-racing-league.json) |
@@ -1925,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teller's Duty | 336022 | [336022-tellers-duty.json](./336022-tellers-duty.json) |
 | Telltale Batman Shadows Edition | 127560 | [127560-telltale-batman-shadows-edition.json](./127560-telltale-batman-shadows-edition.json) |
 | TellTale: Casino Murder Case | 395787 | [395787-telltale-casino-murder-case.json](./395787-telltale-casino-murder-case.json) |
+| Telluria: Forebodings Gear Minigame - Final Stage | 270881 | [270881-telluria-forebodings-gear-minigame-final-stage.json](./270881-telluria-forebodings-gear-minigame-final-stage.json) |
 | Tellurian Defense | 73555 | [73555-tellurian-defense.json](./73555-tellurian-defense.json) |
 | Telly the TV | 314643 | [314643-telly-the-tv.json](./314643-telly-the-tv.json) |
 | Telly Turtle | 40905 | [40905-telly-turtle.json](./40905-telly-turtle.json) |
@@ -3567,6 +3570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cardinal of the Kremlin | 14382 | [14382-the-cardinal-of-the-kremlin.json](./14382-the-cardinal-of-the-kremlin.json) |
 | The Carnage Continues | 276385 | [276385-the-carnage-continues.json](./276385-the-carnage-continues.json) |
 | The Carnival Of Company | 293632 | [293632-the-carnival-of-company.json](./293632-the-carnival-of-company.json) |
+| The Carrier and Crows | 270880 | [270880-the-carrier-and-crows.json](./270880-the-carrier-and-crows.json) |
 | The Cartographer's Tale | 103509 | [103509-the-cartographers-tale.json](./103509-the-cartographers-tale.json) |
 | The Case Book of Arne | 139219 | [139219-the-case-book-of-arne.json](./139219-the-case-book-of-arne.json) |
 | The Case of Andrew D. | 299370 | [299370-the-case-of-andrew-d.json](./299370-the-case-of-andrew-d.json) |
@@ -3615,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Catch: Carp & Coarse Fishing - Lake Beasts Equipment Pack | 170325 | [170325-the-catch-carp-and-coarse-fishing-lake-beasts-equipment-pack.json](./170325-the-catch-carp-and-coarse-fishing-lake-beasts-equipment-pack.json) |
 | The Catch! | 262074 | [262074-the-catch.json](./262074-the-catch.json) |
 | The Cats of Ulthar | 182557 | [182557-the-cats-of-ulthar.json](./182557-the-cats-of-ulthar.json) |
+| The Cauldron Kids: The Summoning of Mr. Vermicelli | 270879 | [270879-the-cauldron-kids-the-summoning-of-mr-vermicelli.json](./270879-the-cauldron-kids-the-summoning-of-mr-vermicelli.json) |
 | The Cave | 2175 | [2175-the-cave.json](./2175-the-cave.json) |
 | The Cave Exit | 410444 | [410444-the-cave-exit.json](./410444-the-cave-exit.json) |
 | The Cave of Atman | 179066 | [179066-the-cave-of-atman.json](./179066-the-cave-of-atman.json) |
@@ -4098,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Veil: West Haven | 119780 | [119780-the-dark-veil-west-haven.json](./119780-the-dark-veil-west-haven.json) |
 | The Dark Way | 166697 | [166697-the-dark-way.json](./166697-the-dark-way.json) |
 | The Dark West | 336522 | [336522-the-dark-west.json](./336522-the-dark-west.json) |
+| The Dark Whispers | 270877 | [270877-the-dark-whispers.json](./270877-the-dark-whispers.json) |
 | The Dark Wings 2 | 120345 | [120345-the-dark-wings-2.json](./120345-the-dark-wings-2.json) |
 | The Darked | 142227 | [142227-the-darked.json](./142227-the-darked.json) |
 | The Darkened Halls | 275701 | [275701-the-darkened-halls.json](./275701-the-darkened-halls.json) |
@@ -4931,6 +4937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fourteen Day Letters | 411627 | [411627-the-fourteen-day-letters.json](./411627-the-fourteen-day-letters.json) |
 | The Fourth Age: Total War | 356261 | [356261-the-fourth-age-total-war.json](./356261-the-fourth-age-total-war.json) |
 | The Fourth Generation | 72693 | [72693-the-fourth-generation.json](./72693-the-fourth-generation.json) |
+| The Fourth Sense Evolution: Stone Age | 270876 | [270876-the-fourth-sense-evolution-stone-age.json](./270876-the-fourth-sense-evolution-stone-age.json) |
 | The Fox Awaits Me Hana | 265642 | [265642-the-fox-awaits-me-hana.json](./265642-the-fox-awaits-me-hana.json) |
 | The Fox Awaits Me: Limited Edition | 188644 | [188644-the-fox-awaits-me-limited-edition.json](./188644-the-fox-awaits-me-limited-edition.json) |
 | The Fox of Capistrano | 407404 | [407404-the-fox-of-capistrano.json](./407404-the-fox-of-capistrano.json) |
@@ -5662,6 +5669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inverted Spire | 176914 | [176914-the-inverted-spire.json](./176914-the-inverted-spire.json) |
 | The Investigation Files of Assistant Arimura | 133387 | [133387-the-investigation-files-of-assistant-arimura.json](./133387-the-investigation-files-of-assistant-arimura.json) |
 | The Invincible | 138906 | [138906-the-invincible.json](./138906-the-invincible.json) |
+| The InVincible Iron Ivy: Enter the Pretty, Pretty Princess | 270878 | [270878-the-invincible-iron-ivy-enter-the-pretty-pretty-princess.json](./270878-the-invincible-iron-ivy-enter-the-pretty-pretty-princess.json) |
 | The Invincible Iron Man: Flight Test | 278483 | [278483-the-invincible-iron-man-flight-test.json](./278483-the-invincible-iron-man-flight-test.json) |
 | The Invincible Run-Gun-Bot | 179653 | [179653-the-invincible-run-gun-bot.json](./179653-the-invincible-run-gun-bot.json) |
 | The Invincible: Deluxe Edition | 275594 | [275594-the-invincible-deluxe-edition.json](./275594-the-invincible-deluxe-edition.json) |
@@ -5912,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King's League: Emblems | 294421 | [294421-the-kings-league-emblems.json](./294421-the-kings-league-emblems.json) |
 | The King's Request | 103193 | [103193-the-kings-request.json](./103193-the-kings-request.json) |
 | The King's Side Castle | 418590 | [418590-the-kings-side-castle.json](./418590-the-kings-side-castle.json) |
+| The King's Wish | 270852 | [270852-the-kings-wish.json](./270852-the-kings-wish.json) |
 | The Kingdom of Christmas: Santa's Elves | 328474 | [328474-the-kingdom-of-christmas-santas-elves.json](./328474-the-kingdom-of-christmas-santas-elves.json) |
 | The Kingdom of God | 371479 | [371479-the-kingdom-of-god.json](./371479-the-kingdom-of-god.json) |
 | The Kingdoms of Ædloran | 389674 | [389674-the-kingdoms-of-dloran.json](./389674-the-kingdoms-of-dloran.json) |
@@ -8188,6 +8197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow Cosmos | 373142 | [373142-the-shadow-cosmos.json](./373142-the-shadow-cosmos.json) |
 | The Shadow in the Cathedral | 10939 | [10939-the-shadow-in-the-cathedral.json](./10939-the-shadow-in-the-cathedral.json) |
 | The Shadow of Shadows | 377047 | [377047-the-shadow-of-shadows.json](./377047-the-shadow-of-shadows.json) |
+| The Shadow of the Evil Tower | 270875 | [270875-the-shadow-of-the-evil-tower.json](./270875-the-shadow-of-the-evil-tower.json) |
 | The Shadow of the Warring States Period | 348872 | [348872-the-shadow-of-the-warring-states-period.json](./348872-the-shadow-of-the-warring-states-period.json) |
 | The Shadow of Yserbius | 54684 | [54684-the-shadow-of-yserbius.json](./54684-the-shadow-of-yserbius.json) |
 | The Shadow of Zorro | 27627 | [27627-the-shadow-of-zorro.json](./27627-the-shadow-of-zorro.json) |
@@ -15943,6 +15953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TsucnenT's Treasures | 369225 | [369225-tsucnents-treasures.json](./369225-tsucnents-treasures.json) |
 | TsucnenT's Treasures II | 369226 | [369226-tsucnents-treasures-ii.json](./369226-tsucnents-treasures-ii.json) |
 | Tsugi no Giseisha wo Oshirase Shimasu: Kimi to Ko no Hateru Kotonai Kurayami wo | 340532 | [340532-tsugi-no-giseisha-wo-oshirase-shimasu-kimi-to-ko-no-hateru-kotonai-kurayami-wo.json](./340532-tsugi-no-giseisha-wo-oshirase-shimasu-kimi-to-ko-no-hateru-kotonai-kurayami-wo.json) |
+| Tsugunohi: A Voice from Yesteryear | 270873 | [270873-tsugunohi-a-voice-from-yesteryear.json](./270873-tsugunohi-a-voice-from-yesteryear.json) |
 | Tsugunohi: Supernatural Supermarket | 234297 | [234297-tsugunohi-supernatural-supermarket.json](./234297-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: The Chamber of Phantom Name | 340941 | [340941-tsugunohi-the-chamber-of-phantom-name.json](./340941-tsugunohi-the-chamber-of-phantom-name.json) |
 | Tsuki Adventure | 182457 | [182457-tsuki-adventure.json](./182457-tsuki-adventure.json) |
@@ -16307,6 +16318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tux Typing | 210605 | [210605-tux-typing.json](./210605-tux-typing.json) |
 | Tux, of Math Command | 242812 | [242812-tux-of-math-command.json](./242812-tux-of-math-command.json) |
 | Tuya | 242053 | [242053-tuya.json](./242053-tuya.json) |
+| Tuzaq | 270874 | [270874-tuzaq.json](./270874-tuzaq.json) |
 | TV and Cinema 101: Trivia from Talkies to Trekkies | 69540 | [69540-tv-and-cinema-101-trivia-from-talkies-to-trekkies.json](./69540-tv-and-cinema-101-trivia-from-talkies-to-trekkies.json) |
 | TV Archive: Tidy Up Together | 411668 | [411668-tv-archive-tidy-up-together.json](./411668-tv-archive-tidy-up-together.json) |
 | TV Boxing | 247010 | [247010-tv-boxing.json](./247010-tv-boxing.json) |
