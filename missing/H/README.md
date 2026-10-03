@@ -2481,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Complete + | 324466 | [324466-hentai-girls-complete.json](./324466-hentai-girls-complete.json) |
 | Hentai Girls: Contact | 281523 | [281523-hentai-girls-contact.json](./281523-hentai-girls-contact.json) |
 | Hentai Girls: Crazy Cowgirl | 317284 | [317284-hentai-girls-crazy-cowgirl.json](./317284-hentai-girls-crazy-cowgirl.json) |
+| Hentai Girls: Deluxe Edition | 254644 | [254644-hentai-girls-deluxe-edition.json](./254644-hentai-girls-deluxe-edition.json) |
 | Hentai Girls: Director's Cut | 284501 | [284501-hentai-girls-directors-cut.json](./284501-hentai-girls-directors-cut.json) |
 | Hentai Girls: Extended Edition | 261348 | [261348-hentai-girls-extended-edition.json](./261348-hentai-girls-extended-edition.json) |
 | Hentai Girls: Fresh Firefighter | 300863 | [300863-hentai-girls-fresh-firefighter.json](./300863-hentai-girls-fresh-firefighter.json) |
@@ -6268,6 +6269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyouryuu-ki: The Reportage Beyond the Sea | 298844 | [298844-hyouryuu-ki-the-reportage-beyond-the-sea.json](./298844-hyouryuu-ki-the-reportage-beyond-the-sea.json) |
 | Hyousei Buyuuroku: Record of Ice Fairy War | 406953 | [406953-hyousei-buyuuroku-record-of-ice-fairy-war.json](./406953-hyousei-buyuuroku-record-of-ice-fairy-war.json) |
 | Hyparxis | 169793 | [169793-hyparxis.json](./169793-hyparxis.json) |
+| Hypastorm | 254692 | [254692-hypastorm.json](./254692-hypastorm.json) |
 | Hypatia | 407344 | [407344-hypatia.json](./407344-hypatia.json) |
 | Hype: The Time Quest | 259642 | [259642-hype-the-time-quest.json](./259642-hype-the-time-quest.json) |
 | Hyper 2 | 319354 | [319354-hyper-2.json](./319354-hyper-2.json) |
