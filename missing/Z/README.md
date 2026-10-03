@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zak McKracken: A Mansion, a Meteor and the Alien Mindbenders | 328014 | [328014-zak-mckracken-a-mansion-a-meteor-and-the-alien-mindbenders.json](./328014-zak-mckracken-a-mansion-a-meteor-and-the-alien-mindbenders.json) |
 | Zak's Son | 94673 | [94673-zaks-son.json](./94673-zaks-son.json) |
 | Zakantosh Cardgame | 263038 | [263038-zakantosh-cardgame.json](./263038-zakantosh-cardgame.json) |
+| Zakesta-Z | 278102 | [278102-zakesta-z.json](./278102-zakesta-z.json) |
 | Zako Slayer | 228073 | [228073-zako-slayer.json](./228073-zako-slayer.json) |
 | Zakuro no Aji | 37748 | [37748-zakuro-no-aji.json](./37748-zakuro-no-aji.json) |
 | Zalera Spark | 310935 | [310935-zalera-spark.json](./310935-zalera-spark.json) |
@@ -125,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zany Kong | 98231 | [98231-zany-kong.json](./98231-zany-kong.json) |
 | Zany Kong Junior | 98232 | [98232-zany-kong-junior.json](./98232-zany-kong-junior.json) |
 | Zany's Hospital | 367623 | [367623-zanys-hospital.json](./367623-zanys-hospital.json) |
+| Zanzibart | 278105 | [278105-zanzibart.json](./278105-zanzibart.json) |
 | Zǎojiào Lèyuán: Wǒ de Tónghuà Huìběn - Xiǎo Hǎitù de Gùshì | 260973 | [260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json](./260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json) |
 | Zap 21 | 78067 | [78067-zap-21.json](./78067-zap-21.json) |
 | Zap Dem Rats | 195194 | [195194-zap-dem-rats.json](./195194-zap-dem-rats.json) |
@@ -439,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero to Death | 297756 | [297756-zero-to-death.json](./297756-zero-to-death.json) |
 | Zero to Hero | 235325 | [235325-zero-to-hero.json](./235325-zero-to-hero.json) |
 | Zero to South | 418664 | [418664-zero-to-south.json](./418664-zero-to-south.json) |
+| Zero Tours | 278098 | [278098-zero-tours.json](./278098-zero-tours.json) |
 | Zero Velocity | 176984 | [176984-zero-velocity.json](./176984-zero-velocity.json) |
 | Zero Volt X | 176960 | [176960-zero-volt-x.json](./176960-zero-volt-x.json) |
 | Zero World | 211216 | [211216-zero-world.json](./211216-zero-world.json) |
@@ -1099,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoop | 301393 | [301393-zoop.json](./301393-zoop.json) |
 | Zoop | 301395 | [301395-zoop.json](./301395-zoop.json) |
 | Zooparasite | 308918 | [308918-zooparasite.json](./308918-zooparasite.json) |
+| Zooplop | 278103 | [278103-zooplop.json](./278103-zooplop.json) |
 | Zoor: Majuu Tsukai Densetsu | 3650 | [3650-zoor-majuu-tsukai-densetsu.json](./3650-zoor-majuu-tsukai-densetsu.json) |
 | Zooted | 240184 | [240184-zooted.json](./240184-zooted.json) |
 | Zootto Mahjong! | 37744 | [37744-zootto-mahjong.json](./37744-zootto-mahjong.json) |
