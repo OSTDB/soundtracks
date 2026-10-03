@@ -2742,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of Kingdom | 197243 | [197243-defenders-of-kingdom.json](./197243-defenders-of-kingdom.json) |
 | Defenders of Kronos | 257972 | [257972-defenders-of-kronos.json](./257972-defenders-of-kronos.json) |
 | Defenders of Law Inc: Crime in Willburg | 72975 | [72975-defenders-of-law-inc-crime-in-willburg.json](./72975-defenders-of-law-inc-crime-in-willburg.json) |
+| Defenders of Legends | 253482 | [253482-defenders-of-legends.json](./253482-defenders-of-legends.json) |
 | Defenders of Oasis GG2SMS | 369595 | [369595-defenders-of-oasis-gg2sms.json](./369595-defenders-of-oasis-gg2sms.json) |
 | Defenders of the Atlantic | 179479 | [179479-defenders-of-the-atlantic.json](./179479-defenders-of-the-atlantic.json) |
 | Defenders of the Last Colony | 36208 | [36208-defenders-of-the-last-colony.json](./36208-defenders-of-the-last-colony.json) |
@@ -4158,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Legacy: Corrupted Fates | 196296 | [196296-dice-legacy-corrupted-fates.json](./196296-dice-legacy-corrupted-fates.json) |
 | Dice Life: Dice Game | 291618 | [291618-dice-life-dice-game.json](./291618-dice-life-dice-game.json) |
 | Dice Make 10! | 314860 | [314860-dice-make-10.json](./314860-dice-make-10.json) |
+| Dice Mayor | 253470 | [253470-dice-mayor.json](./253470-dice-mayor.json) |
 | Dice Mice | 184615 | [184615-dice-mice.json](./184615-dice-mice.json) |
 | Dice Nights | 414435 | [414435-dice-nights.json](./414435-dice-nights.json) |
 | Dice Odyssey | 390736 | [390736-dice-odyssey.json](./390736-dice-odyssey.json) |
@@ -4707,6 +4709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinodon | 238624 | [238624-dinodon.json](./238624-dinodon.json) |
 | DinoFense | 30169 | [30169-dinofense.json](./30169-dinofense.json) |
 | Dinofurie | 332417 | [332417-dinofurie.json](./332417-dinofurie.json) |
+| Dinogen Online: Commando Bundle | 253468 | [253468-dinogen-online-commando-bundle.json](./253468-dinogen-online-commando-bundle.json) |
 | DinoGore | 358348 | [358348-dinogore.json](./358348-dinogore.json) |
 | Dinogotchi | 173311 | [173311-dinogotchi.json](./173311-dinogotchi.json) |
 | DinoKnights | 107802 | [107802-dinoknights.json](./107802-dinoknights.json) |
@@ -7549,6 +7552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Dogma Online: Season 2 - Limited Edition | 201048 | [201048-dragons-dogma-online-season-2-limited-edition.json](./201048-dragons-dogma-online-season-2-limited-edition.json) |
 | Dragon's Dogma Quest | 63310 | [63310-dragons-dogma-quest.json](./63310-dragons-dogma-quest.json) |
 | Dragon's Dogma: Dark Arisen | 16300 | [16300-dragons-dogma-dark-arisen.json](./16300-dragons-dogma-dark-arisen.json) |
+| Dragon's Doom: A Skyhopper Tale | 253512 | [253512-dragons-doom-a-skyhopper-tale.json](./253512-dragons-doom-a-skyhopper-tale.json) |
 | Dragon's Dream | 268638 | [268638-dragons-dream.json](./268638-dragons-dream.json) |
 | Dragon's Dungeon | 321486 | [321486-dragons-dungeon.json](./321486-dragons-dungeon.json) |
 | Dragon's Fury | 45586 | [45586-dragons-fury.json](./45586-dragons-fury.json) |
@@ -7987,6 +7991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming Bad | 229661 | [229661-dreaming-bad.json](./229661-dreaming-bad.json) |
 | Dreaming by day | 182982 | [182982-dreaming-by-day.json](./182982-dreaming-by-day.json) |
 | Dreaming Chicken | 258041 | [258041-dreaming-chicken.json](./258041-dreaming-chicken.json) |
+| Dreaming Diorama | 253492 | [253492-dreaming-diorama.json](./253492-dreaming-diorama.json) |
 | Dreaming in the Mountains | 262372 | [262372-dreaming-in-the-mountains.json](./262372-dreaming-in-the-mountains.json) |
 | Dreaming of You | 184924 | [184924-dreaming-of-you.json](./184924-dreaming-of-you.json) |
 | Dreaming Rainbow | 191824 | [191824-dreaming-rainbow.json](./191824-dreaming-rainbow.json) |
