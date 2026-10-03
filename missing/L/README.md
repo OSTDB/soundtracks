@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavender Laboratories | 184050 | [184050-lavender-laboratories.json](./184050-lavender-laboratories.json) |
 | Lavender Station | 404205 | [404205-lavender-station.json](./404205-lavender-station.json) |
 | Lavender's Botanicals | 295913 | [295913-lavenders-botanicals.json](./295913-lavenders-botanicals.json) |
+| Lavrynthos | 236907 | [236907-lavrynthos.json](./236907-lavrynthos.json) |
 | Law & Order: Mushroom Kingdom Unit - Pilot Episode: Tragic Fox "Tails" | 345625 | [345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json](./345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json) |
 | Law Craft | 207832 | [207832-law-craft.json](./207832-law-craft.json) |
 | Law Mower | 41933 | [41933-law-mower.json](./41933-law-mower.json) |
@@ -2083,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letters to the Metro | 182548 | [182548-letters-to-the-metro.json](./182548-letters-to-the-metro.json) |
 | Letters: Collector's Edition | 193748 | [193748-letters-collectors-edition.json](./193748-letters-collectors-edition.json) |
 | LettersFall 110% | 392794 | [392794-lettersfall-110.json](./392794-lettersfall-110.json) |
+| Letterswirl | 236972 | [236972-letterswirl.json](./236972-letterswirl.json) |
 | Lettters | 340564 | [340564-lettters.json](./340564-lettters.json) |
 | Lettuce Fish | 404977 | [404977-lettuce-fish.json](./404977-lettuce-fish.json) |
 | Letux Game | 199469 | [199469-letux-game.json](./199469-letux-game.json) |
@@ -2557,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightWalk | 33096 | [33096-lightwalk.json](./33096-lightwalk.json) |
 | LightWave | 155657 | [155657-lightwave.json](./155657-lightwave.json) |
 | LightWeight Ninja | 73531 | [73531-lightweight-ninja.json](./73531-lightweight-ninja.json) |
+| Lightwood | 236962 | [236962-lightwood.json](./236962-lightwood.json) |
 | Lightworkers | 203872 | [203872-lightworkers.json](./203872-lightworkers.json) |
 | Lightyear Frontier | 163456 | [163456-lightyear-frontier.json](./163456-lightyear-frontier.json) |
 | Lightyears from Home | 124634 | [124634-lightyears-from-home.json](./124634-lightyears-from-home.json) |
