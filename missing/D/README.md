@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance It! | 317853 | [317853-dance-it.json](./317853-dance-it.json) |
 | Dance Magic | 34720 | [34720-dance-magic.json](./34720-dance-magic.json) |
 | Dance Mania | 330184 | [330184-dance-mania.json](./330184-dance-mania.json) |
+| Dance Master | 247074 | [247074-dance-master.json](./247074-dance-master.json) |
 | Dance Mat Typing | 141118 | [141118-dance-mat-typing.json](./141118-dance-mat-typing.json) |
 | Dance of Cards | 210594 | [210594-dance-of-cards.json](./210594-dance-of-cards.json) |
 | Dance of Cubes | 170552 | [170552-dance-of-cubes.json](./170552-dance-of-cubes.json) |
@@ -437,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Cube | 192837 | [192837-dancing-cube.json](./192837-dancing-cube.json) |
 | Dancing Dreamer | 148566 | [148566-dancing-dreamer.json](./148566-dancing-dreamer.json) |
 | Dancing Duelists | 272470 | [272470-dancing-duelists.json](./272470-dancing-duelists.json) |
+| Dancing Girls | 247057 | [247057-dancing-girls.json](./247057-dancing-girls.json) |
 | Dancing Hair: Music Race 3D | 212455 | [212455-dancing-hair-music-race-3d.json](./212455-dancing-hair-music-race-3d.json) |
 | Dancing Hut | 26632 | [26632-dancing-hut.json](./26632-dancing-hut.json) |
 | Dancing Lights | 256241 | [256241-dancing-lights.json](./256241-dancing-lights.json) |
@@ -2029,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Quiet | 342268 | [342268-deadly-quiet.json](./342268-deadly-quiet.json) |
 | Deadly Rehearsal | 326599 | [326599-deadly-rehearsal.json](./326599-deadly-rehearsal.json) |
 | Deadly Reunion | 341641 | [341641-deadly-reunion.json](./341641-deadly-reunion.json) |
+| Deadly Road | 247097 | [247097-deadly-road.json](./247097-deadly-road.json) |
 | Deadly Rooms of Death | 50147 | [50147-deadly-rooms-of-death.json](./50147-deadly-rooms-of-death.json) |
 | Deadly Runner | 367562 | [367562-deadly-runner.json](./367562-deadly-runner.json) |
 | Deadly Secret Beneath the Dark Wood | 269657 | [269657-deadly-secret-beneath-the-dark-wood.json](./269657-deadly-secret-beneath-the-dark-wood.json) |
@@ -9564,6 +9567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 4: Empires | 19620 | [19620-dynasty-warriors-4-empires.json](./19620-dynasty-warriors-4-empires.json) |
 | Dynasty Warriors 4: Xtreme Legends | 19631 | [19631-dynasty-warriors-4-xtreme-legends.json](./19631-dynasty-warriors-4-xtreme-legends.json) |
 | Dynasty Warriors 5 | 5820 | [5820-dynasty-warriors-5.json](./5820-dynasty-warriors-5.json) |
+| Dynasty Warriors 5: Special | 247095 | [247095-dynasty-warriors-5-special.json](./247095-dynasty-warriors-5-special.json) |
 | Dynasty Warriors 5: Xtreme Legends | 19618 | [19618-dynasty-warriors-5-xtreme-legends.json](./19618-dynasty-warriors-5-xtreme-legends.json) |
 | Dynasty Warriors 6 | 6975 | [6975-dynasty-warriors-6.json](./6975-dynasty-warriors-6.json) |
 | Dynasty Warriors 6: Empires | 19636 | [19636-dynasty-warriors-6-empires.json](./19636-dynasty-warriors-6-empires.json) |
