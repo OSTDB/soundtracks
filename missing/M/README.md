@@ -1718,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Madness | 301853 | [301853-marble-madness.json](./301853-marble-madness.json) |
 | Marble Madness / Klax | 79831 | [79831-marble-madness-klax.json](./79831-marble-madness-klax.json) |
 | Marble Mage | 166709 | [166709-marble-mage.json](./166709-marble-mage.json) |
+| Marble Magicks | 259750 | [259750-marble-magicks.json](./259750-marble-magicks.json) |
 | Marble Maid | 160223 | [160223-marble-maid.json](./160223-marble-maid.json) |
 | Marble Man: Marble Madness II | 125477 | [125477-marble-man-marble-madness-ii.json](./125477-marble-man-marble-madness-ii.json) |
 | Marble Mania Ball Maze | 87069 | [87069-marble-mania-ball-maze.json](./87069-marble-mania-ball-maze.json) |
@@ -7915,6 +7916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Rise: DLC Pack 10 | 246890 | [246890-monster-hunter-rise-dlc-pack-10.json](./246890-monster-hunter-rise-dlc-pack-10.json) |
 | Monster Hunter Rise: DLC Pack 2 | 222857 | [222857-monster-hunter-rise-dlc-pack-2.json](./222857-monster-hunter-rise-dlc-pack-2.json) |
 | Monster Hunter Rise: DLC Pack 3 | 237918 | [237918-monster-hunter-rise-dlc-pack-3.json](./237918-monster-hunter-rise-dlc-pack-3.json) |
+| Monster Hunter Rise: DLC Pack 4 | 259760 | [259760-monster-hunter-rise-dlc-pack-4.json](./259760-monster-hunter-rise-dlc-pack-4.json) |
 | Monster Hunter Rise: DLC Pack 5 | 223591 | [223591-monster-hunter-rise-dlc-pack-5.json](./223591-monster-hunter-rise-dlc-pack-5.json) |
 | Monster Hunter Rise: DLC Pack 6 | 223578 | [223578-monster-hunter-rise-dlc-pack-6.json](./223578-monster-hunter-rise-dlc-pack-6.json) |
 | Monster Hunter Rise: DLC Pack 9 | 270289 | [270289-monster-hunter-rise-dlc-pack-9.json](./270289-monster-hunter-rise-dlc-pack-9.json) |
@@ -8084,6 +8086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Storm Apoiion | 108609 | [108609-monster-storm-apoiion.json](./108609-monster-storm-apoiion.json) |
 | Monster Stunts | 197677 | [197677-monster-stunts.json](./197677-monster-stunts.json) |
 | Monster Super League | 80238 | [80238-monster-super-league.json](./80238-monster-super-league.json) |
+| Monster Survivor | 259712 | [259712-monster-survivor.json](./259712-monster-survivor.json) |
 | Monster Survivors | 246626 | [246626-monster-survivors.json](./246626-monster-survivors.json) |
 | Monster Survivors: Echo Edition | 347329 | [347329-monster-survivors-echo-edition.json](./347329-monster-survivors-echo-edition.json) |
 | Monster Sweetie | 232173 | [232173-monster-sweetie.json](./232173-monster-sweetie.json) |
@@ -9937,6 +9940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV All Out: 2020 Pro Nationals Edition | 206779 | [206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json](./206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json) |
 | MX vs. ATV Collection | 53390 | [53390-mx-vs-atv-collection.json](./53390-mx-vs-atv-collection.json) |
 | MX vs. ATV Legends: 2023 AMA Pro Motocross Championship | 253898 | [253898-mx-vs-atv-legends-2023-ama-pro-motocross-championship.json](./253898-mx-vs-atv-legends-2023-ama-pro-motocross-championship.json) |
+| MX vs. ATV Legends: KTM Pack | 259753 | [259753-mx-vs-atv-legends-ktm-pack.json](./259753-mx-vs-atv-legends-ktm-pack.json) |
 | MX vs. ATV Legends: Track Pass | 350652 | [350652-mx-vs-atv-legends-track-pass.json](./350652-mx-vs-atv-legends-track-pass.json) |
 | MX vs. ATV: All Out - Anniversary Edition | 115472 | [115472-mx-vs-atv-all-out-anniversary-edition.json](./115472-mx-vs-atv-all-out-anniversary-edition.json) |
 | MX vs. ATV: Legends - 2023 Track Pass | 287113 | [287113-mx-vs-atv-legends-2023-track-pass.json](./287113-mx-vs-atv-legends-2023-track-pass.json) |
@@ -10460,6 +10464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Riding Stables: Life with Horses 2 | 109770 | [109770-my-riding-stables-life-with-horses-2.json](./109770-my-riding-stables-life-with-horses-2.json) |
 | My Rusty Submarine: New Waters | 358291 | [358291-my-rusty-submarine-new-waters.json](./358291-my-rusty-submarine-new-waters.json) |
 | My RV Skills | 316857 | [316857-my-rv-skills.json](./316857-my-rv-skills.json) |
+| My Sacred Place | 259747 | [259747-my-sacred-place.json](./259747-my-sacred-place.json) |
 | My Sacred Shrine Maiden | 226420 | [226420-my-sacred-shrine-maiden.json](./226420-my-sacred-shrine-maiden.json) |
 | My Sail and My Sea | 133465 | [133465-my-sail-and-my-sea.json](./133465-my-sail-and-my-sea.json) |
 | My SameGame | 64433 | [64433-my-samegame.json](./64433-my-samegame.json) |
@@ -10761,6 +10766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery at Rainy Night Manor: The Missing Invitation | 409657 | [409657-mystery-at-rainy-night-manor-the-missing-invitation.json](./409657-mystery-at-rainy-night-manor-the-missing-invitation.json) |
 | Mystery Box 4-in-1 Bundle | 328508 | [328508-mystery-box-4-in-1-bundle.json](./328508-mystery-box-4-in-1-bundle.json) |
 | Mystery Box 5: Elements | 292251 | [292251-mystery-box-5-elements.json](./292251-mystery-box-5-elements.json) |
+| Mystery Box: Escape The Room | 259740 | [259740-mystery-box-escape-the-room.json](./259740-mystery-box-escape-the-room.json) |
 | Mystery Box: The Journey | 257360 | [257360-mystery-box-the-journey.json](./257360-mystery-box-the-journey.json) |
 | Mystery Case Files: Black Crown - Collector's Edition | 127100 | [127100-mystery-case-files-black-crown-collectors-edition.json](./127100-mystery-case-files-black-crown-collectors-edition.json) |
 | Mystery Case Files: Broken Hour | 56174 | [56174-mystery-case-files-broken-hour.json](./56174-mystery-case-files-broken-hour.json) |
@@ -10799,6 +10805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Legends: Phantom of the Opera | 62836 | [62836-mystery-legends-phantom-of-the-opera.json](./62836-mystery-legends-phantom-of-the-opera.json) |
 | Mystery Legends: Phantom of the Opera - Collector’s Edition | 239602 | [239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json](./239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json) |
 | Mystery Loss | 57029 | [57029-mystery-loss.json](./57029-mystery-loss.json) |
+| Mystery Lover: Nonexistent Summer | 259722 | [259722-mystery-lover-nonexistent-summer.json](./259722-mystery-lover-nonexistent-summer.json) |
 | Mystery Manor | 88456 | [88456-mystery-manor.json](./88456-mystery-manor.json) |
 | Mystery Mansion | 353879 | [353879-mystery-mansion.json](./353879-mystery-mansion.json) |
 | Mystery Master: Felony! | 73291 | [73291-mystery-master-felony.json](./73291-mystery-master-felony.json) |
