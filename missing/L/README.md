@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Equinox: Winds of Change | 255388 | [255388-last-equinox-winds-of-change.json](./255388-last-equinox-winds-of-change.json) |
 | Last Fishing: Monster Clash | 220208 | [220208-last-fishing-monster-clash.json](./220208-last-fishing-monster-clash.json) |
 | Last Flight | 72599 | [72599-last-flight.json](./72599-last-flight.json) |
+| Last Flip | 266396 | [266396-last-flip.json](./266396-last-flip.json) |
 | Last Floor | 130242 | [130242-last-floor.json](./130242-last-floor.json) |
 | Last Floor | 400252 | [400252-last-floor.json](./400252-last-floor.json) |
 | Last Fort Night Craft Survival Battle Royale | 95843 | [95843-last-fort-night-craft-survival-battle-royale.json](./95843-last-fort-night-craft-survival-battle-royale.json) |
