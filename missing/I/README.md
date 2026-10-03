@@ -2132,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inhuman | 350421 | [350421-inhuman.json](./350421-inhuman.json) |
 | Ini | 197638 | [197638-ini.json](./197638-ini.json) |
 | Inindo: Way of the Ninja | 47498 | [47498-inindo-way-of-the-ninja.json](./47498-inindo-way-of-the-ninja.json) |
+| Iniquity Survivors | 240374 | [240374-iniquity-survivors.json](./240374-iniquity-survivors.json) |
 | Init. | 35749 | [35749-init.json](./35749-init.json) |
 | Initen | 115720 | [115720-initen.json](./115720-initen.json) |
 | Initia: Elemental Arena | 32942 | [32942-initia-elemental-arena.json](./32942-initia-elemental-arena.json) |
