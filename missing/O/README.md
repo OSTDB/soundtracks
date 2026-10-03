@@ -2656,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Rat | 143020 | [143020-outer-rat.json](./143020-outer-rat.json) |
 | Outer Ridge | 14506 | [14506-outer-ridge.json](./14506-outer-ridge.json) |
 | Outer Rim: Survivor | 95191 | [95191-outer-rim-survivor.json](./95191-outer-rim-survivor.json) |
+| Outer Space | 243173 | [243173-outer-space.json](./243173-outer-space.json) |
 | Outer Terror | 206226 | [206226-outer-terror.json](./206226-outer-terror.json) |
 | Outer Wards: Proving Grounds | 260234 | [260234-outer-wards-proving-grounds.json](./260234-outer-wards-proving-grounds.json) |
 | Outer Wilds: Echoes of the Eye | 146761 | [146761-outer-wilds-echoes-of-the-eye.json](./146761-outer-wilds-echoes-of-the-eye.json) |
