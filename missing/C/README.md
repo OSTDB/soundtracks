@@ -7354,6 +7354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Consensus | 68045 | [68045-cosmic-consensus.json](./68045-cosmic-consensus.json) |
 | Cosmic Cop | 94911 | [94911-cosmic-cop.json](./94911-cosmic-cop.json) |
 | Cosmic Cosmonaut | 336641 | [336641-cosmic-cosmonaut.json](./336641-cosmic-cosmonaut.json) |
+| Cosmic Cowabunnies | 265866 | [265866-cosmic-cowabunnies.json](./265866-cosmic-cowabunnies.json) |
 | Cosmic Cowboy | 413070 | [413070-cosmic-cowboy.json](./413070-cosmic-cowboy.json) |
 | Cosmic Creeps | 18547 | [18547-cosmic-creeps.json](./18547-cosmic-creeps.json) |
 | Cosmic Crowbar | 410939 | [410939-cosmic-crowbar.json](./410939-cosmic-crowbar.json) |
@@ -9404,6 +9405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Master | 13708 | [13708-cube-master.json](./13708-cube-master.json) |
 | Cube Master: Light Adventure | 408975 | [408975-cube-master-light-adventure.json](./408975-cube-master-light-adventure.json) |
 | Cube Matching King | 108495 | [108495-cube-matching-king.json](./108495-cube-matching-king.json) |
+| Cube Merge 2048 | 265838 | [265838-cube-merge-2048.json](./265838-cube-merge-2048.json) |
 | Cube Mind | 346750 | [346750-cube-mind.json](./346750-cube-mind.json) |
 | Cube Mission | 113723 | [113723-cube-mission.json](./113723-cube-mission.json) |
 | Cube Monster | 74389 | [74389-cube-monster.json](./74389-cube-monster.json) |
