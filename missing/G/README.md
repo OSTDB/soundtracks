@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Goemon: Seikuushi Dynamites Arawaru!! | 50053 | [50053-ganbare-goemon-seikuushi-dynamites-arawaru.json](./50053-ganbare-goemon-seikuushi-dynamites-arawaru.json) |
 | Ganbare Goemon: Tengu-tou no Gyakushuu! | 129172 | [129172-ganbare-goemon-tengu-tou-no-gyakushuu.json](./129172-ganbare-goemon-tengu-tou-no-gyakushuu.json) |
 | Ganbare Goemon: Toukai Douchuu Ooedo Tengurigaeshi no Maki | 73299 | [73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json](./73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json) |
+| Ganbare Jajamaru Saisho ha Goo | 234221 | [234221-ganbare-jajamaru-saisho-ha-goo.json](./234221-ganbare-jajamaru-saisho-ha-goo.json) |
 | Ganbare Morikawa Kun 2nd PET ON TV | 213887 | [213887-ganbare-morikawa-kun-2nd-pet-on-tv.json](./213887-ganbare-morikawa-kun-2nd-pet-on-tv.json) |
 | Ganbare Natsuki-san | 270676 | [270676-ganbare-natsuki-san.json](./270676-ganbare-natsuki-san.json) |
 | Ganbare Neo Poke-Kun | 43970 | [43970-ganbare-neo-poke-kun.json](./43970-ganbare-neo-poke-kun.json) |
@@ -4217,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitronix | 21035 | [21035-gravitronix.json](./21035-gravitronix.json) |
 | Gravity | 109175 | [109175-gravity.json](./109175-gravity.json) |
 | Gravity | 177540 | [177540-gravity.json](./177540-gravity.json) |
+| Gravity | 234147 | [234147-gravity.json](./234147-gravity.json) |
 | Gravity | 361682 | [361682-gravity.json](./361682-gravity.json) |
 | Gravity Ace | 114912 | [114912-gravity-ace.json](./114912-gravity-ace.json) |
 | Gravity Angels Part 2: The Betrayal | 229359 | [229359-gravity-angels-part-2-the-betrayal.json](./229359-gravity-angels-part-2-the-betrayal.json) |
