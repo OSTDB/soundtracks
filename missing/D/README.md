@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daibutsu Paradise | 151748 | [151748-daibutsu-paradise.json](./151748-daibutsu-paradise.json) |
 | Daichikun Crisis: Do Natural | 42029 | [42029-daichikun-crisis-do-natural.json](./42029-daichikun-crisis-do-natural.json) |
 | Daidai no Ginyoku: Skyland no Majo no Miko | 84533 | [84533-daidai-no-ginyoku-skyland-no-majo-no-miko.json](./84533-daidai-no-ginyoku-skyland-no-majo-no-miko.json) |
+| Daidassou | 237548 | [237548-daidassou.json](./237548-daidassou.json) |
 | Daienkai Buchou | 293138 | [293138-daienkai-buchou.json](./293138-daienkai-buchou.json) |
 | Daigasso! Band Brothers | 28559 | [28559-daigasso-band-brothers.json](./28559-daigasso-band-brothers.json) |
 | Daigasso! Band Brothers P | 64394 | [64394-daigasso-band-brothers-p.json](./64394-daigasso-band-brothers-p.json) |
@@ -3200,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonic Kiss | 371388 | [371388-demonic-kiss.json](./371388-demonic-kiss.json) |
 | Demonic Labyrinth | 237074 | [237074-demonic-labyrinth.json](./237074-demonic-labyrinth.json) |
 | Demonic Libido | 262427 | [262427-demonic-libido.json](./262427-demonic-libido.json) |
+| Demonic Pack | 237462 | [237462-demonic-pack.json](./237462-demonic-pack.json) |
 | Demonk | 347239 | [347239-demonk.json](./347239-demonk.json) |
 | DeMonkey | 302122 | [302122-demonkey.json](./302122-demonkey.json) |
 | Demonology: Incubus - Chapter 5 | 319659 | [319659-demonology-incubus-chapter-5.json](./319659-demonology-incubus-chapter-5.json) |
@@ -3928,6 +3930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Engine: Complete Edition | 268093 | [268093-devil-engine-complete-edition.json](./268093-devil-engine-complete-edition.json) |
 | Devil Engine: Ignition | 150601 | [150601-devil-engine-ignition.json](./150601-devil-engine-ignition.json) |
 | Devil Fish | 39633 | [39633-devil-fish.json](./39633-devil-fish.json) |
+| Devil Force | 237432 | [237432-devil-force.json](./237432-devil-force.json) |
 | Devil Gate | 403692 | [403692-devil-gate.json](./403692-devil-gate.json) |
 | Devil Girl Needs Massages | 111183 | [111183-devil-girl-needs-massages.json](./111183-devil-girl-needs-massages.json) |
 | Devil Hunter: Raider | 357372 | [357372-devil-hunter-raider.json](./357372-devil-hunter-raider.json) |
@@ -7866,6 +7869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadshot | 292520 | [292520-dreadshot.json](./292520-dreadshot.json) |
 | Dreadsite Survival | 288370 | [288370-dreadsite-survival.json](./288370-dreadsite-survival.json) |
 | DreadStar: The Quest for Revenge | 140014 | [140014-dreadstar-the-quest-for-revenge.json](./140014-dreadstar-the-quest-for-revenge.json) |
+| Dreadstone Keep | 237461 | [237461-dreadstone-keep.json](./237461-dreadstone-keep.json) |
 | Dreadstone: The Immortal Prisoner | 154351 | [154351-dreadstone-the-immortal-prisoner.json](./154351-dreadstone-the-immortal-prisoner.json) |
 | Dreadtome | 349884 | [349884-dreadtome.json](./349884-dreadtome.json) |
 | Dreadway | 321577 | [321577-dreadway.json](./321577-dreadway.json) |
