@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Page Chronica | 64462 | [64462-page-chronica.json](./64462-page-chronica.json) |
 | Pageant | 184045 | [184045-pageant.json](./184045-pageant.json) |
 | Paging Dr. Floppy! | 230793 | [230793-paging-dr-floppy.json](./230793-paging-dr-floppy.json) |
+| Pagodia | 257571 | [257571-pagodia.json](./257571-pagodia.json) |
 | Pagui | 124178 | [124178-pagui.json](./124178-pagui.json) |
 | Pahelika: Revelations HD | 36164 | [36164-pahelika-revelations-hd.json](./36164-pahelika-revelations-hd.json) |
 | Pahtkest! | 382342 | [382342-pahtkest.json](./382342-pahtkest.json) |
@@ -4829,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform 9: No Way Out | 324129 | [324129-platform-9-no-way-out.json](./324129-platform-9-no-way-out.json) |
 | Platform Adventure | 213936 | [213936-platform-adventure.json](./213936-platform-adventure.json) |
 | Platform Anomaly | 373068 | [373068-platform-anomaly.json](./373068-platform-anomaly.json) |
+| Platform Game Maker | 257534 | [257534-platform-game-maker.json](./257534-platform-game-maker.json) |
 | Platform Parkour | 83214 | [83214-platform-parkour.json](./83214-platform-parkour.json) |
 | Platform Racing | 270638 | [270638-platform-racing.json](./270638-platform-racing.json) |
 | Platform Racing 2 | 98010 | [98010-platform-racing-2.json](./98010-platform-racing-2.json) |
