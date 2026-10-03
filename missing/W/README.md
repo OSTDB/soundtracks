@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walthros | 353366 | [353366-walthros.json](./353366-walthros.json) |
 | Waltz and Jam | 288479 | [288479-waltz-and-jam.json](./288479-waltz-and-jam.json) |
 | Waluigi's Taco Stand | 135227 | [135227-waluigis-taco-stand.json](./135227-waluigis-taco-stand.json) |
+| Waluigi's Wadventure | 269772 | [269772-waluigis-wadventure.json](./269772-waluigis-wadventure.json) |
 | Wampee Helicopters | 117714 | [117714-wampee-helicopters.json](./117714-wampee-helicopters.json) |
 | Wamu Wamu | 132020 | [132020-wamu-wamu.json](./132020-wamu-wamu.json) |
 | Wan Chai Connection | 62134 | [62134-wan-chai-connection.json](./62134-wan-chai-connection.json) |
