@@ -2300,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleships | 193863 | [193863-battleships.json](./193863-battleships.json) |
 | Battleships and Carriers: WW2 Battleship Game | 111706 | [111706-battleships-and-carriers-ww2-battleship-game.json](./111706-battleships-and-carriers-ww2-battleship-game.json) |
 | Battleships At Dawn! | 33488 | [33488-battleships-at-dawn.json](./33488-battleships-at-dawn.json) |
+| Battleships General Quarters | 273563 | [273563-battleships-general-quarters.json](./273563-battleships-general-quarters.json) |
 | Battleships Simulator | 407557 | [407557-battleships-simulator.json](./407557-battleships-simulator.json) |
 | BattleSide | 267477 | [267477-battleside.json](./267477-battleside.json) |
 | Battlesight | 132128 | [132128-battlesight.json](./132128-battlesight.json) |
@@ -3487,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Reach | 316725 | [316725-beyond-reach.json](./316725-beyond-reach.json) |
 | Beyond Reality | 317339 | [317339-beyond-reality.json](./317339-beyond-reality.json) |
 | Beyond Reason | 303715 | [303715-beyond-reason.json](./303715-beyond-reason.json) |
+| Beyond Revival | 273569 | [273569-beyond-revival.json](./273569-beyond-revival.json) |
 | Beyond Sandbox | 399220 | [399220-beyond-sandbox.json](./399220-beyond-sandbox.json) |
 | Beyond Senses | 124169 | [124169-beyond-senses.json](./124169-beyond-senses.json) |
 | Beyond Shattered Isles | 126545 | [126545-beyond-shattered-isles.json](./126545-beyond-shattered-isles.json) |
@@ -7498,6 +7500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breadieval | 361683 | [361683-breadieval.json](./361683-breadieval.json) |
 | BreadKnight Adventures | 355568 | [355568-breadknight-adventures.json](./355568-breadknight-adventures.json) |
 | Breadleg | 344496 | [344496-breadleg.json](./344496-breadleg.json) |
+| Breadman | 273591 | [273591-breadman.json](./273591-breadman.json) |
 | Breadskate Forever | 350543 | [350543-breadskate-forever.json](./350543-breadskate-forever.json) |
 | Breadwinner VR | 55493 | [55493-breadwinner-vr.json](./55493-breadwinner-vr.json) |
 | Break 'Em All | 20534 | [20534-break-em-all.json](./20534-break-em-all.json) |
@@ -8349,6 +8352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Mania | 140985 | [140985-bug-mania.json](./140985-bug-mania.json) |
 | Bug N Out | 32962 | [32962-bug-n-out.json](./32962-bug-n-out.json) |
 | Bug Off! | 55884 | [55884-bug-off.json](./55884-bug-off.json) |
+| Bug on a Wire | 273577 | [273577-bug-on-a-wire.json](./273577-bug-on-a-wire.json) |
 | Bug Out! | 206692 | [206692-bug-out.json](./206692-bug-out.json) |
 | Bug Quest | 287641 | [287641-bug-quest.json](./287641-bug-quest.json) |
 | Bug Riders | 277929 | [277929-bug-riders.json](./277929-bug-riders.json) |
