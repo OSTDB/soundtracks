@@ -1178,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbearian | 90157 | [90157-barbearian.json](./90157-barbearian.json) |
 | Barbecue | 408222 | [408222-barbecue.json](./408222-barbecue.json) |
 | Barbecue With Friends | 319670 | [319670-barbecue-with-friends.json](./319670-barbecue-with-friends.json) |
+| Barbelé | 236873 | [236873-barbele.json](./236873-barbele.json) |
 | Barbershop Simulator | 220351 | [220351-barbershop-simulator.json](./220351-barbershop-simulator.json) |
 | Barbican Of Hell | 271796 | [271796-barbican-of-hell.json](./271796-barbican-of-hell.json) |
 | Barbie | 245570 | [245570-barbie.json](./245570-barbie.json) |
@@ -5164,6 +5165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Quest: The Ivy Queen | 295498 | [295498-blind-quest-the-ivy-queen.json](./295498-blind-quest-the-ivy-queen.json) |
 | Blind Shot | 145003 | [145003-blind-shot.json](./145003-blind-shot.json) |
 | Blind Simulator | 351262 | [351262-blind-simulator.json](./351262-blind-simulator.json) |
+| Blind Sound | 236892 | [236892-blind-sound.json](./236892-blind-sound.json) |
 | Blind Spot | 377586 | [377586-blind-spot.json](./377586-blind-spot.json) |
 | Blind Touch | 346760 | [346760-blind-touch.json](./346760-blind-touch.json) |
 | Blind Trust: The City | 357383 | [357383-blind-trust-the-city.json](./357383-blind-trust-the-city.json) |
@@ -6249,6 +6251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokida: Heartfelt Reunion | 28189 | [28189-bokida-heartfelt-reunion.json](./28189-bokida-heartfelt-reunion.json) |
 | Bokosuka Wars | 280818 | [280818-bokosuka-wars.json](./280818-bokosuka-wars.json) |
 | Boktai 2: Solar Boy Django | 6329 | [6329-boktai-2-solar-boy-django.json](./6329-boktai-2-solar-boy-django.json) |
+| Boku Boku | 236974 | [236974-boku-boku.json](./236974-boku-boku.json) |
 | Boku dake ga Shitteiru | 375356 | [375356-boku-dake-ga-shitteiru.json](./375356-boku-dake-ga-shitteiru.json) |
 | Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 335996 | [335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
 | Boku ha Tomodachi Fan Disk: Kanwa, Sorekara | 403772 | [403772-boku-ha-tomodachi-fan-disk-kanwa-sorekara.json](./403772-boku-ha-tomodachi-fan-disk-kanwa-sorekara.json) |
