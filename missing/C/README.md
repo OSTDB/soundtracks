@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Clans: Optional Elite Card Pack | 355221 | [355221-call-of-clans-optional-elite-card-pack.json](./355221-call-of-clans-optional-elite-card-pack.json) |
 | Call of Clans: Random Legend Card Pack | 355222 | [355222-call-of-clans-random-legend-card-pack.json](./355222-call-of-clans-random-legend-card-pack.json) |
 | Call of Cutie | 411724 | [411724-call-of-cutie.json](./411724-call-of-cutie.json) |
+| Call of Death Zombie Invasion | 231976 | [231976-call-of-death-zombie-invasion.json](./231976-call-of-death-zombie-invasion.json) |
 | Call of Dookie | 274544 | [274544-call-of-dookie.json](./274544-call-of-dookie.json) |
 | Call of Duty 2 | 119160 | [119160-call-of-duty-2.json](./119160-call-of-duty-2.json) |
 | Call of Duty 2: Collector's Edition | 292790 | [292790-call-of-duty-2-collectors-edition.json](./292790-call-of-duty-2-collectors-edition.json) |
@@ -993,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Combine Mania | 342280 | [342280-car-combine-mania.json](./342280-car-combine-mania.json) |
 | Car Cops | 247218 | [247218-car-cops.json](./247218-car-cops.json) |
 | Car Crash Couch Party | 83586 | [83586-car-crash-couch-party.json](./83586-car-crash-couch-party.json) |
+| Car Crash Racing: Stunt Master | 231977 | [231977-car-crash-racing-stunt-master.json](./231977-car-crash-racing-stunt-master.json) |
 | Car Dealer Driver | 207881 | [207881-car-dealer-driver.json](./207881-car-dealer-driver.json) |
 | Car Dealership Simulator | 216183 | [216183-car-dealership-simulator.json](./216183-car-dealership-simulator.json) |
 | Car Demolition Clicker | 74140 | [74140-car-demolition-clicker.json](./74140-car-demolition-clicker.json) |
@@ -3932,6 +3934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chordata | 280459 | [280459-chordata.json](./280459-chordata.json) |
 | Chordosis | 266874 | [266874-chordosis.json](./266874-chordosis.json) |
 | Chords Enchanter | 292685 | [292685-chords-enchanter.json](./292685-chords-enchanter.json) |
+| Choreo: Legend of Loco | 232002 | [232002-choreo-legend-of-loco.json](./232002-choreo-legend-of-loco.json) |
 | Chorizo | 217409 | [217409-chorizo.json](./217409-chorizo.json) |
 | Choro Q | 245031 | [245031-choro-q.json](./245031-choro-q.json) |
 | Choro Q | 69796 | [69796-choro-q.json](./69796-choro-q.json) |
