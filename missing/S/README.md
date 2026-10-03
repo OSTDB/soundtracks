@@ -6570,6 +6570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam City with Scottie Pippen | 298559 | [298559-slam-city-with-scottie-pippen.json](./298559-slam-city-with-scottie-pippen.json) |
 | Slam Dunk | 92986 | [92986-slam-dunk.json](./92986-slam-dunk.json) |
 | Slam Dunk - The best basketball game 2018 | 106631 | [106631-slam-dunk-the-best-basketball-game-2018.json](./106631-slam-dunk-the-best-basketball-game-2018.json) |
+| Slam Dunk 2: Zenkoku he no Tip Off | 228502 | [228502-slam-dunk-2-zenkoku-he-no-tip-off.json](./228502-slam-dunk-2-zenkoku-he-no-tip-off.json) |
 | Slam Dunk Basketball | 245410 | [245410-slam-dunk-basketball.json](./245410-slam-dunk-basketball.json) |
 | Slam Dunk Basketball 2 | 259142 | [259142-slam-dunk-basketball-2.json](./259142-slam-dunk-basketball-2.json) |
 | Slam Poets | 399698 | [399698-slam-poets.json](./399698-slam-poets.json) |
@@ -9157,6 +9158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: Spinball | 279052 | [279052-sonic-the-hedgehog-spinball.json](./279052-sonic-the-hedgehog-spinball.json) |
 | Sonic the Hedgehog: The Blue Blur! Super Sonic - Quiz Game | 325095 | [325095-sonic-the-hedgehog-the-blue-blur-super-sonic-quiz-game.json](./325095-sonic-the-hedgehog-the-blue-blur-super-sonic-quiz-game.json) |
 | Sonic the Hedgehog: The Freedom Fighters | 330700 | [330700-sonic-the-hedgehog-the-freedom-fighters.json](./330700-sonic-the-hedgehog-the-freedom-fighters.json) |
+| Sonic the Hedgehog: Time Attacked | 228594 | [228594-sonic-the-hedgehog-time-attacked.json](./228594-sonic-the-hedgehog-time-attacked.json) |
 | Sonic the Hedgehog's Gameworld | 52188 | [52188-sonic-the-hedgehogs-gameworld.json](./52188-sonic-the-hedgehogs-gameworld.json) |
 | Sonic ThirdScape | 330821 | [330821-sonic-thirdscape.json](./330821-sonic-thirdscape.json) |
 | Sonic Triple Link | 330522 | [330522-sonic-triple-link.json](./330522-sonic-triple-link.json) |
@@ -11411,6 +11413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Bikini Bottom 500 | 220117 | [220117-spongebob-squarepants-bikini-bottom-500.json](./220117-spongebob-squarepants-bikini-bottom-500.json) |
 | SpongeBob SquarePants: Bundle | 286514 | [286514-spongebob-squarepants-bundle.json](./286514-spongebob-squarepants-bundle.json) |
 | Spongebob Squarepants: Clash of Triton | 285586 | [285586-spongebob-squarepants-clash-of-triton.json](./285586-spongebob-squarepants-clash-of-triton.json) |
+| SpongeBob SquarePants: Defending the Secret Formula | 228487 | [228487-spongebob-squarepants-defending-the-secret-formula.json](./228487-spongebob-squarepants-defending-the-secret-formula.json) |
 | SpongeBob SquarePants: Dilly Dabber | 220119 | [220119-spongebob-squarepants-dilly-dabber.json](./220119-spongebob-squarepants-dilly-dabber.json) |
 | SpongeBob SquarePants: Employee of the Month | 2763 | [2763-spongebob-squarepants-employee-of-the-month.json](./2763-spongebob-squarepants-employee-of-the-month.json) |
 | SpongeBob SquarePants: Fists of Foam | 230401 | [230401-spongebob-squarepants-fists-of-foam.json](./230401-spongebob-squarepants-fists-of-foam.json) |
@@ -11421,6 +11424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: JellyFish Dodge | 220118 | [220118-spongebob-squarepants-jellyfish-dodge.json](./220118-spongebob-squarepants-jellyfish-dodge.json) |
 | SpongeBob SquarePants: Krabby Quest | 141000 | [141000-spongebob-squarepants-krabby-quest.json](./141000-spongebob-squarepants-krabby-quest.json) |
 | SpongeBob SquarePants: Lights, Camera, Pants! | 210724 | [210724-spongebob-squarepants-lights-camera-pants.json](./210724-spongebob-squarepants-lights-camera-pants.json) |
+| SpongeBob SquarePants: Model Sponge | 228488 | [228488-spongebob-squarepants-model-sponge.json](./228488-spongebob-squarepants-model-sponge.json) |
 | SpongeBob SquarePants: Nighty Nightmare | 18301 | [18301-spongebob-squarepants-nighty-nightmare.json](./18301-spongebob-squarepants-nighty-nightmare.json) |
 | SpongeBob SquarePants: Plankton's Robotic Revenge | 194951 | [194951-spongebob-squarepants-planktons-robotic-revenge.json](./194951-spongebob-squarepants-planktons-robotic-revenge.json) |
 | SpongeBob SquarePants: Reef Rumble | 230891 | [230891-spongebob-squarepants-reef-rumble.json](./230891-spongebob-squarepants-reef-rumble.json) |
@@ -14049,6 +14053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strain | 237351 | [237351-strain.json](./237351-strain.json) |
 | Strainge | 151703 | [151703-strainge.json](./151703-strainge.json) |
 | Strand | 320715 | [320715-strand.json](./320715-strand.json) |
+| Strand Boy | 228478 | [228478-strand-boy.json](./228478-strand-boy.json) |
 | Stranded | 308327 | [308327-stranded.json](./308327-stranded.json) |
 | Stranded | 337676 | [337676-stranded.json](./337676-stranded.json) |
 | Stranded at Sea | 365737 | [365737-stranded-at-sea.json](./365737-stranded-at-sea.json) |
@@ -18417,6 +18422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SyntaxBomb | 183012 | [183012-syntaxbomb.json](./183012-syntaxbomb.json) |
 | Synth Ark | 317234 | [317234-synth-ark.json](./317234-synth-ark.json) |
 | Synth Beasts | 250479 | [250479-synth-beasts.json](./250479-synth-beasts.json) |
+| Synth Et Sis | 228511 | [228511-synth-et-sis.json](./228511-synth-et-sis.json) |
 | Synth Laser | 373201 | [373201-synth-laser.json](./373201-synth-laser.json) |
 | Synth Pong | 235759 | [235759-synth-pong.json](./235759-synth-pong.json) |
 | Synth Riders | 105333 | [105333-synth-riders.json](./105333-synth-riders.json) |
