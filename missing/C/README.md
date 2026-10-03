@@ -9703,6 +9703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cure Girl | 127963 | [127963-cure-girl.json](./127963-cure-girl.json) |
 | Cure Mate Club | 63875 | [63875-cure-mate-club.json](./63875-cure-mate-club.json) |
 | Cure: A Hospital Simulator | 376110 | [376110-cure-a-hospital-simulator.json](./376110-cure-a-hospital-simulator.json) |
+| Curfew | 259148 | [259148-curfew.json](./259148-curfew.json) |
 | Curfuffles | 255036 | [255036-curfuffles.json](./255036-curfuffles.json) |
 | Curiosaurios Club: Un Viaje Espacial | 147375 | [147375-curiosaurios-club-un-viaje-espacial.json](./147375-curiosaurios-club-un-viaje-espacial.json) |
 | Curiosity | 108949 | [108949-curiosity.json](./108949-curiosity.json) |
