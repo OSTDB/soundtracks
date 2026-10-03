@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Game Mega Pack 14 in 1 | 294842 | [294842-family-game-mega-pack-14-in-1.json](./294842-family-game-mega-pack-14-in-1.json) |
 | Family Game Night 4: The Game Show | 20220 | [20220-family-game-night-4-the-game-show.json](./20220-family-game-night-4-the-game-show.json) |
 | Family Game Night 4: The Game Show | 47421 | [47421-family-game-night-4-the-game-show.json](./47421-family-game-night-4-the-game-show.json) |
+| Family Games | 270327 | [270327-family-games.json](./270327-family-games.json) |
 | Family Games | 45930 | [45930-family-games.json](./45930-family-games.json) |
 | Family Games Compendium | 79241 | [79241-family-games-compendium.json](./79241-family-games-compendium.json) |
 | Family Games II: Junk Food Jive | 45929 | [45929-family-games-ii-junk-food-jive.json](./45929-family-games-ii-junk-food-jive.json) |
@@ -2323,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Vipers | 39471 | [39471-fighting-vipers.json](./39471-fighting-vipers.json) |
 | Fighting Zombie | 196558 | [196558-fighting-zombie.json](./196558-fighting-zombie.json) |
 | FightingChicken | 309675 | [309675-fightingchicken.json](./309675-fightingchicken.json) |
+| Fights in Tight Spaces: Complete Edition | 270309 | [270309-fights-in-tight-spaces-complete-edition.json](./270309-fights-in-tight-spaces-complete-edition.json) |
 | Fights in Tight Spaces: K9 Division | 370251 | [370251-fights-in-tight-spaces-k9-division.json](./370251-fights-in-tight-spaces-k9-division.json) |
 | Fights in Tight Spaces: Weapon of Choice | 261775 | [261775-fights-in-tight-spaces-weapon-of-choice.json](./261775-fights-in-tight-spaces-weapon-of-choice.json) |
 | Fightttris VR | 113162 | [113162-fightttris-vr.json](./113162-fightttris-vr.json) |
