@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Latto-Latto Simulator | 233453 | [233453-latto-latto-simulator.json](./233453-latto-latto-simulator.json) |
 | Laugh & Learn: Animal Sounds | 101577 | [101577-laugh-and-learn-animal-sounds.json](./101577-laugh-and-learn-animal-sounds.json) |
 | Laughing in the Wind Mobile | 174880 | [174880-laughing-in-the-wind-mobile.json](./174880-laughing-in-the-wind-mobile.json) |
+| Laughing to Die | 267571 | [267571-laughing-to-die.json](./267571-laughing-to-die.json) |
 | Laughingstock Apocalypse Redux | 364491 | [364491-laughingstock-apocalypse-redux.json](./364491-laughingstock-apocalypse-redux.json) |
 | LaughterLost | 303622 | [303622-laughterlost.json](./303622-laughterlost.json) |
 | Launch & Loot | 340902 | [340902-launch-and-loot.json](./340902-launch-and-loot.json) |
@@ -2936,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Cherub | 120208 | [120208-little-cherub.json](./120208-little-cherub.json) |
 | Little Chick | 157165 | [157165-little-chick.json](./157165-little-chick.json) |
 | Little Children's Educational Swanky Puzzles Game | 97308 | [97308-little-childrens-educational-swanky-puzzles-game.json](./97308-little-childrens-educational-swanky-puzzles-game.json) |
+| Little Chinese Final Edition | 267576 | [267576-little-chinese-final-edition.json](./267576-little-chinese-final-edition.json) |
 | Little Christmas Adventure | 173166 | [173166-little-christmas-adventure.json](./173166-little-christmas-adventure.json) |
 | Little Christmas Workshop | 382306 | [382306-little-christmas-workshop.json](./382306-little-christmas-workshop.json) |
 | Little Cities | 201654 | [201654-little-cities.json](./201654-little-cities.json) |
@@ -4061,6 +4063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Existence | 126912 | [126912-lost-existence.json](./126912-lost-existence.json) |
 | Lost Faces. | 388358 | [388358-lost-faces.json](./388358-lost-faces.json) |
 | Lost Fleet | 218589 | [218589-lost-fleet.json](./218589-lost-fleet.json) |
+| Lost Flower | 267577 | [267577-lost-flower.json](./267577-lost-flower.json) |
 | Lost For Swords | 274511 | [274511-lost-for-swords.json](./274511-lost-for-swords.json) |
 | Lost Forest | 256920 | [256920-lost-forest.json](./256920-lost-forest.json) |
 | Lost Friends | 393621 | [393621-lost-friends.json](./393621-lost-friends.json) |
