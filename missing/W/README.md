@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wand of Fortune 2: Jikuu ni Shizumu Mokushiroku | 219129 | [219129-wand-of-fortune-2-jikuu-ni-shizumu-mokushiroku.json](./219129-wand-of-fortune-2-jikuu-ni-shizumu-mokushiroku.json) |
 | Wand Wars VR | 81727 | [81727-wand-wars-vr.json](./81727-wand-wars-vr.json) |
 | Wander | 10920 | [10920-wander.json](./10920-wander.json) |
+| Wander in Wonder | 272494 | [272494-wander-in-wonder.json](./272494-wander-in-wonder.json) |
 | Wander Wonder | 237514 | [237514-wander-wonder.json](./237514-wander-wonder.json) |
 | Wanderer | 185082 | [185082-wanderer.json](./185082-wanderer.json) |
 | Wanderer | 205582 | [205582-wanderer.json](./205582-wanderer.json) |
@@ -2513,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why? | 335243 | [335243-why.json](./335243-why.json) |
 | WhyImmortal | 289897 | [289897-whyimmortal.json](./289897-whyimmortal.json) |
 | Whys & Wonders Secrets of Our Bodies | 409656 | [409656-whys-and-wonders-secrets-of-our-bodies.json](./409656-whys-and-wonders-secrets-of-our-bodies.json) |
+| Wi-fi Dungeon: Organism Online | 272466 | [272466-wi-fi-dungeon-organism-online.json](./272466-wi-fi-dungeon-organism-online.json) |
 | Wi-Fi Taiou Gensen Table Game DS | 124124 | [124124-wi-fi-taiou-gensen-table-game-ds.json](./124124-wi-fi-taiou-gensen-table-game-ds.json) |
 | Wi-Fi Taiou Morita Shogi DS | 124123 | [124123-wi-fi-taiou-morita-shogi-ds.json](./124123-wi-fi-taiou-morita-shogi-ds.json) |
 | Wi-Fi Taiou Yakuman DS | 124122 | [124122-wi-fi-taiou-yakuman-ds.json](./124122-wi-fi-taiou-yakuman-ds.json) |
