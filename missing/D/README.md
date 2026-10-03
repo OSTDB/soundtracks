@@ -5865,6 +5865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Tri-Line Quest | 191218 | [191218-doki-doki-tri-line-quest.json](./191218-doki-doki-tri-line-quest.json) |
 | Doki Doki Tutorial! | 256833 | [256833-doki-doki-tutorial.json](./256833-doki-doki-tutorial.json) |
 | Doki Doki Twin Realities | 384661 | [384661-doki-doki-twin-realities.json](./384661-doki-doki-twin-realities.json) |
+| Doki Doki Vacation: Kirameku Kisetsu no Naka de | 257560 | [257560-doki-doki-vacation-kirameku-kisetsu-no-naka-de.json](./257560-doki-doki-vacation-kirameku-kisetsu-no-naka-de.json) |
 | Doki Doki What If | 334823 | [334823-doki-doki-what-if.json](./334823-doki-doki-what-if.json) |
 | Doki Doki Your Bully: Natsuki | 332853 | [332853-doki-doki-your-bully-natsuki.json](./332853-doki-doki-your-bully-natsuki.json) |
 | Doki Doki Zero Bitches Plan | 334272 | [334272-doki-doki-zero-bitches-plan.json](./334272-doki-doki-zero-bitches-plan.json) |
