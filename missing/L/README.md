@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Concert | 309011 | [309011-le-concert.json](./309011-le-concert.json) |
 | Le Concert ff Fortissimo | 309009 | [309009-le-concert-ff-fortissimo.json](./309009-le-concert-ff-fortissimo.json) |
 | Le Concert pp Pianissimo | 309008 | [309008-le-concert-pp-pianissimo.json](./309008-le-concert-pp-pianissimo.json) |
+| Le Crime Du Parking | 264238 | [264238-le-crime-du-parking.json](./264238-le-crime-du-parking.json) |
 | Le Dernier Don | 303624 | [303624-le-dernier-don.json](./303624-le-dernier-don.json) |
 | Le Fetiche Maya | 10848 | [10848-le-fetiche-maya.json](./10848-le-fetiche-maya.json) |
 | Le Frenchie | 151036 | [151036-le-frenchie.json](./151036-le-frenchie.json) |
@@ -1260,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy Online | 23711 | [23711-legacy-online.json](./23711-legacy-online.json) |
 | Legacy Quest 2 | 192446 | [192446-legacy-quest-2.json](./192446-legacy-quest-2.json) |
 | Legacy: Witch Island 2 | 159655 | [159655-legacy-witch-island-2.json](./159655-legacy-witch-island-2.json) |
+| Legacy's Allure | 264199 | [264199-legacys-allure.json](./264199-legacys-allure.json) |
 | LegacyShell | 325681 | [325681-legacyshell.json](./325681-legacyshell.json) |
 | Legaia 2: Duel Saga | 28161 | [28161-legaia-2-duel-saga.json](./28161-legaia-2-duel-saga.json) |
 | Legal Dungeon | 115004 | [115004-legal-dungeon.json](./115004-legal-dungeon.json) |
@@ -3170,6 +3172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Warlings | 181763 | [181763-little-warlings.json](./181763-little-warlings.json) |
 | Little Weasel | 309485 | [309485-little-weasel.json](./309485-little-weasel.json) |
 | Little White Man vs. X | 252221 | [252221-little-white-man-vs-x.json](./252221-little-white-man-vs-x.json) |
+| Little Wing | 264234 | [264234-little-wing.json](./264234-little-wing.json) |
 | Little Wing | 79591 | [79591-little-wing.json](./79591-little-wing.json) |
 | Little Wings Deliveries | 333658 | [333658-little-wings-deliveries.json](./333658-little-wings-deliveries.json) |
 | Little Witch | 145613 | [145613-little-witch.json](./145613-little-witch.json) |
@@ -3251,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Livers Ikusei Card Game | 320815 | [320815-livers-ikusei-card-game.json](./320815-livers-ikusei-card-game.json) |
 | Lives so Sweet | 124199 | [124199-lives-so-sweet.json](./124199-lives-so-sweet.json) |
 | LiveStream | 394170 | [394170-livestream.json](./394170-livestream.json) |
+| Livestream 2: Escape from Togaezuka Happy Place | 264210 | [264210-livestream-2-escape-from-togaezuka-happy-place.json](./264210-livestream-2-escape-from-togaezuka-happy-place.json) |
 | Livestream: Escape from Hotel Izanami | 146928 | [146928-livestream-escape-from-hotel-izanami.json](./146928-livestream-escape-from-hotel-izanami.json) |
 | Livestream: Escape from Hotel Izanami + Livestream 2: Escape from Togaezuka Happy Place Collection | 380594 | [380594-livestream-escape-from-hotel-izanami-livestream-2-escape-from-togaezuka-happy-place-collection.json](./380594-livestream-escape-from-hotel-izanami-livestream-2-escape-from-togaezuka-happy-place-collection.json) |
 | Livets Hopp | 277381 | [277381-livets-hopp.json](./277381-livets-hopp.json) |
