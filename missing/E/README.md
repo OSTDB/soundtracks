@@ -1469,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerge | 342631 | [342631-emerge.json](./342631-emerge.json) |
 | Emerge: Cities of the Apocalypse | 33136 | [33136-emerge-cities-of-the-apocalypse.json](./33136-emerge-cities-of-the-apocalypse.json) |
 | Emergence | 130878 | [130878-emergence.json](./130878-emergence.json) |
+| Emergency | 249915 | [249915-emergency.json](./249915-emergency.json) |
 | Emergency | 346073 | [346073-emergency.json](./346073-emergency.json) |
 | Emergency 2 | 112482 | [112482-emergency-2.json](./112482-emergency-2.json) |
 | Emergency 2013 | 2979 | [2979-emergency-2013.json](./2979-emergency-2013.json) |
@@ -2529,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Flea Market Montgomery | 276930 | [276930-escape-from-flea-market-montgomery.json](./276930-escape-from-flea-market-montgomery.json) |
 | Escape from Fools | 112968 | [112968-escape-from-fools.json](./112968-escape-from-fools.json) |
 | Escape from Frankenstein's Castle | 213598 | [213598-escape-from-frankensteins-castle.json](./213598-escape-from-frankensteins-castle.json) |
+| Escape from Garbage House | 249894 | [249894-escape-from-garbage-house.json](./249894-escape-from-garbage-house.json) |
 | Escape from Ghosts | 385314 | [385314-escape-from-ghosts.json](./385314-escape-from-ghosts.json) |
 | Escape from Grimazel's Cottage | 410453 | [410453-escape-from-grimazels-cottage.json](./410453-escape-from-grimazels-cottage.json) |
 | Escape From Hadrian's Wall | 372603 | [372603-escape-from-hadrians-wall.json](./372603-escape-from-hadrians-wall.json) |
@@ -4107,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes of the Forest | 389087 | [389087-eyes-of-the-forest.json](./389087-eyes-of-the-forest.json) |
 | Eyes of the Killer | 150095 | [150095-eyes-of-the-killer.json](./150095-eyes-of-the-killer.json) |
 | Eyes of the Night | 173231 | [173231-eyes-of-the-night.json](./173231-eyes-of-the-night.json) |
+| Eyes of War | 249913 | [249913-eyes-of-war.json](./249913-eyes-of-war.json) |
 | Eyes on Me | 385855 | [385855-eyes-on-me.json](./385855-eyes-on-me.json) |
 | Eyes On Me | 383577 | [383577-eyes-on-me.json](./383577-eyes-on-me.json) |
 | Eyes on Yuki | 361287 | [361287-eyes-on-yuki.json](./361287-eyes-on-yuki.json) |
