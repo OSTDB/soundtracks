@@ -894,7 +894,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need For Speed Pro Street Pepega Edition | 257349 | [257349-need-for-speed-pro-street-pepega-edition.json](./257349-need-for-speed-pro-street-pepega-edition.json) |
 | Need for Speed Rivals: Complete Edition | 118896 | [118896-need-for-speed-rivals-complete-edition.json](./118896-need-for-speed-rivals-complete-edition.json) |
 | Need for Speed Unbound: Palace Edition | 220860 | [220860-need-for-speed-unbound-palace-edition.json](./220860-need-for-speed-unbound-palace-edition.json) |
+| Need for Speed Unbound: Trick or Street Swag Pack | 271923 | [271923-need-for-speed-unbound-trick-or-street-swag-pack.json](./271923-need-for-speed-unbound-trick-or-street-swag-pack.json) |
+| Need for Speed Unbound: Vol.5 Customs Pack | 271922 | [271922-need-for-speed-unbound-vol-5-customs-pack.json](./271922-need-for-speed-unbound-vol-5-customs-pack.json) |
 | Need for Speed Unbound: Vol.6 - Premium Speed Pass | 297156 | [297156-need-for-speed-unbound-vol-6-premium-speed-pass.json](./297156-need-for-speed-unbound-vol-6-premium-speed-pass.json) |
+| Need for Speed Unbound: Volkswagen Beetle (1963) - Legendary Custom Pack | 271924 | [271924-need-for-speed-unbound-volkswagen-beetle-1963-legendary-custom-pack.json](./271924-need-for-speed-unbound-volkswagen-beetle-1963-legendary-custom-pack.json) |
 | Need for Speed: Carbon | 248118 | [248118-need-for-speed-carbon.json](./248118-need-for-speed-carbon.json) |
 | Need for Speed: Carbon | 248123 | [248123-need-for-speed-carbon.json](./248123-need-for-speed-carbon.json) |
 | Need for Speed: Carbon - Collector's Edition | 43494 | [43494-need-for-speed-carbon-collectors-edition.json](./43494-need-for-speed-carbon-collectors-edition.json) |
@@ -2131,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Errand | 381200 | [381200-night-errand.json](./381200-night-errand.json) |
 | Night Errors | 395798 | [395798-night-errors.json](./395798-night-errors.json) |
 | Night Escaper | 201266 | [201266-night-escaper.json](./201266-night-escaper.json) |
+| Night Fear | 271902 | [271902-night-fear.json](./271902-night-fear.json) |
 | Night Feed | 323795 | [323795-night-feed.json](./323795-night-feed.json) |
 | Night Feeder | 279104 | [279104-night-feeder.json](./279104-night-feeder.json) |
 | Night Fighter | 41570 | [41570-night-fighter.json](./41570-night-fighter.json) |
