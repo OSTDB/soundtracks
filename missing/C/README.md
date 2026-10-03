@@ -1337,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival Games | 108759 | [108759-carnival-games.json](./108759-carnival-games.json) |
 | Carnival Games VR | 25339 | [25339-carnival-games-vr.json](./25339-carnival-games-vr.json) |
 | Carnival Hammer | 335993 | [335993-carnival-hammer.json](./335993-carnival-hammer.json) |
+| Carnival in the Hut | 251748 | [251748-carnival-in-the-hut.json](./251748-carnival-in-the-hut.json) |
 | Carnival Island | 20826 | [20826-carnival-island.json](./20826-carnival-island.json) |
 | Carnival Massacre | 25701 | [25701-carnival-massacre.json](./25701-carnival-massacre.json) |
 | Carnival of Shadows | 287327 | [287327-carnival-of-shadows.json](./287327-carnival-of-shadows.json) |
@@ -1489,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carve The Cave Together | 414602 | [414602-carve-the-cave-together.json](./414602-carve-the-cave-together.json) |
 | Carved Brink | 356881 | [356881-carved-brink.json](./356881-carved-brink.json) |
 | Carved In Stone | 321351 | [321351-carved-in-stone.json](./321351-carved-in-stone.json) |
+| Carved Out | 251724 | [251724-carved-out.json](./251724-carved-out.json) |
 | Carwarz.io | 219269 | [219269-carwarz-io.json](./219269-carwarz-io.json) |
 | Carwash Tycoon | 72738 | [72738-carwash-tycoon.json](./72738-carwash-tycoon.json) |
 | CarX Drift Racing 2 | 129793 | [129793-carx-drift-racing-2.json](./129793-carx-drift-racing-2.json) |
@@ -3512,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken's Revenge | 206969 | [206969-chickens-revenge.json](./206969-chickens-revenge.json) |
 | Chicken's Run | 181922 | [181922-chickens-run.json](./181922-chickens-run.json) |
 | Chickenality | 255138 | [255138-chickenality.json](./255138-chickenality.json) |
+| Chickenauts | 251753 | [251753-chickenauts.json](./251753-chickenauts.json) |
 | Chickenfoot Dominoes | 108257 | [108257-chickenfoot-dominoes.json](./108257-chickenfoot-dominoes.json) |
 | Chickenhare and the Treasure of Spiking-Beard | 341670 | [341670-chickenhare-and-the-treasure-of-spiking-beard.json](./341670-chickenhare-and-the-treasure-of-spiking-beard.json) |
 | ChickenPop! | 103519 | [103519-chickenpop.json](./103519-chickenpop.json) |
@@ -5618,6 +5621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffin Counseling | 179704 | [179704-coffin-counseling.json](./179704-coffin-counseling.json) |
 | Coffinman | 337463 | [337463-coffinman.json](./337463-coffinman.json) |
 | Cog Fire | 291483 | [291483-cog-fire.json](./291483-cog-fire.json) |
+| Cog Hero | 251733 | [251733-cog-hero.json](./251733-cog-hero.json) |
 | Cog Owl | 211281 | [211281-cog-owl.json](./211281-cog-owl.json) |
 | COG: Back to the 80s | 192928 | [192928-cog-back-to-the-80s.json](./192928-cog-back-to-the-80s.json) |
 | Cog: The Rogue Machine | 270857 | [270857-cog-the-rogue-machine.json](./270857-cog-the-rogue-machine.json) |
@@ -8052,6 +8056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot: Warped | 135451 | [135451-crash-bandicoot-warped.json](./135451-crash-bandicoot-warped.json) |
 | Crash Bash | 1195 | [1195-crash-bash.json](./1195-crash-bash.json) |
 | Crash Bugs Cake Defense | 353954 | [353954-crash-bugs-cake-defense.json](./353954-crash-bugs-cake-defense.json) |
+| Crash Cam | 251738 | [251738-crash-cam.json](./251738-crash-cam.json) |
 | Crash Car Mania | 318520 | [318520-crash-car-mania.json](./318520-crash-car-mania.json) |
 | Crash Car Racer | 50620 | [50620-crash-car-racer.json](./50620-crash-car-racer.json) |
 | Crash Cars: Driven to Destruction | 247743 | [247743-crash-cars-driven-to-destruction.json](./247743-crash-cars-driven-to-destruction.json) |
