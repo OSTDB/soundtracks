@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfair Mario | 225008 | [225008-unfair-mario.json](./225008-unfair-mario.json) |
 | Unfair Rampage: Knightfall | 317293 | [317293-unfair-rampage-knightfall.json](./317293-unfair-rampage-knightfall.json) |
 | Unfair War: Survivors | 398394 | [398394-unfair-war-survivors.json](./398394-unfair-war-survivors.json) |
+| Unfamiliar | 275214 | [275214-unfamiliar.json](./275214-unfamiliar.json) |
 | Unfated | 267672 | [267672-unfated.json](./267672-unfated.json) |
 | Unfated | 410974 | [410974-unfated.json](./410974-unfated.json) |
 | Unfathomable Villa | 112971 | [112971-unfathomable-villa.json](./112971-unfathomable-villa.json) |
