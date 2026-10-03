@@ -2964,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchmaking for Ghosts | 398988 | [398988-matchmaking-for-ghosts.json](./398988-matchmaking-for-ghosts.json) |
 | Matchmension: House of Mist | 197915 | [197915-matchmension-house-of-mist.json](./197915-matchmension-house-of-mist.json) |
 | MatchOolu | 320525 | [320525-matchoolu.json](./320525-matchoolu.json) |
+| Matchpoint: Tennis Championships - Legends DLC | 227316 | [227316-matchpoint-tennis-championships-legends-dlc.json](./227316-matchpoint-tennis-championships-legends-dlc.json) |
 | Matchpoint: Tennis Championships - Legends Edition | 199628 | [199628-matchpoint-tennis-championships-legends-edition.json](./199628-matchpoint-tennis-championships-legends-edition.json) |
 | Matchpoop | 265122 | [265122-matchpoop.json](./265122-matchpoop.json) |
 | MatchR: Now Hiring | 217247 | [217247-matchr-now-hiring.json](./217247-matchr-now-hiring.json) |
@@ -4139,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megadimension Neptunia VII: Party Character - Nitroplus | 238178 | [238178-megadimension-neptunia-vii-party-character-nitroplus.json](./238178-megadimension-neptunia-vii-party-character-nitroplus.json) |
 | Megadimension Neptunia VII: Party Character - Umio & Nepgya | 238179 | [238179-megadimension-neptunia-vii-party-character-umio-and-nepgya.json](./238179-megadimension-neptunia-vii-party-character-umio-and-nepgya.json) |
 | Megadimension Neptunia VIIR | 36610 | [36610-megadimension-neptunia-viir.json](./36610-megadimension-neptunia-viir.json) |
+| Megadimension Neptunia VIIR: DLC Pack | 227381 | [227381-megadimension-neptunia-viir-dlc-pack.json](./227381-megadimension-neptunia-viir-dlc-pack.json) |
 | Megadon | 40356 | [40356-megadon.json](./40356-megadon.json) |
 | MegaDrill | 286637 | [286637-megadrill.json](./286637-megadrill.json) |
 | Megadungeon | 310752 | [310752-megadungeon.json](./310752-megadungeon.json) |
@@ -10591,6 +10593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovely Family Bundle | 223563 | [223563-my-lovely-family-bundle.json](./223563-my-lovely-family-bundle.json) |
 | My Lovely Flower | 373659 | [373659-my-lovely-flower.json](./373659-my-lovely-flower.json) |
 | My Lovely Noblewomen | 148339 | [148339-my-lovely-noblewomen.json](./148339-my-lovely-noblewomen.json) |
+| My Lovely Wife: Deluxe Edition | 227184 | [227184-my-lovely-wife-deluxe-edition.json](./227184-my-lovely-wife-deluxe-edition.json) |
 | My Lovey-Dovey Angel Is a Total Deadbeat: Seriously Scary! | 411717 | [411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json](./411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json) |
 | My Mafia Girlfriend | 229111 | [229111-my-mafia-girlfriend.json](./229111-my-mafia-girlfriend.json) |
 | My Magic Florist | 146773 | [146773-my-magic-florist.json](./146773-my-magic-florist.json) |
