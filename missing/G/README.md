@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Flash Motor Karen | 388380 | [388380-g-mode-archives-flash-motor-karen.json](./388380-g-mode-archives-flash-motor-karen.json) |
 | G-Mode Archives+: Idol Janshi Suchie-Pai | 256268 | [256268-g-mode-archives-idol-janshi-suchie-pai.json](./256268-g-mode-archives-idol-janshi-suchie-pai.json) |
 | G-Mode Archives+: Kishinden Strike-G- | 412402 | [412402-g-mode-archives-kishinden-strike-g.json](./412402-g-mode-archives-kishinden-strike-g.json) |
+| G-Mode Archives+: Majin Tensei - Blind Thinker | 274663 | [274663-g-mode-archives-majin-tensei-blind-thinker.json](./274663-g-mode-archives-majin-tensei-blind-thinker.json) |
 | G-Mode Archives+: Moe Pro - Moero!! Pro Yakyuu | 260682 | [260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json](./260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json) |
 | G-Mode Archives+: Momoko no Kasei Bowling - La Mars Cup | 266172 | [266172-g-mode-archives-momoko-no-kasei-bowling-la-mars-cup.json](./266172-g-mode-archives-momoko-no-kasei-bowling-la-mars-cup.json) |
 | G-Mode Archives+: Monstre Waltz | 388382 | [388382-g-mode-archives-monstre-waltz.json](./388382-g-mode-archives-monstre-waltz.json) |
@@ -2338,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Masquerade 2: Illusions | 109763 | [109763-glass-masquerade-2-illusions.json](./109763-glass-masquerade-2-illusions.json) |
 | Glass Masquerade 3: Honeylines | 249809 | [249809-glass-masquerade-3-honeylines.json](./249809-glass-masquerade-3-honeylines.json) |
 | Glass Masquerade 3: Honeylines - Folks & Spirits | 307201 | [307201-glass-masquerade-3-honeylines-folks-and-spirits.json](./307201-glass-masquerade-3-honeylines-folks-and-spirits.json) |
+| Glass Masquerade 3: Honeylines - Wings & Tunes | 274640 | [274640-glass-masquerade-3-honeylines-wings-and-tunes.json](./274640-glass-masquerade-3-honeylines-wings-and-tunes.json) |
 | Glass Rose | 43441 | [43441-glass-rose.json](./43441-glass-rose.json) |
 | Glass Smash 64 | 338801 | [338801-glass-smash-64.json](./338801-glass-smash-64.json) |
 | Glass Tactics | 244518 | [244518-glass-tactics.json](./244518-glass-tactics.json) |
