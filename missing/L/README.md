@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.F.O. -Lost Future Omega- | 30207 | [30207-l-f-o-lost-future-omega.json](./30207-l-f-o-lost-future-omega.json) |
 | L.O.C.K. | 144364 | [144364-l-o-c-k.json](./144364-l-o-c-k.json) |
 | L.O.L. Surprise! B.B.s Born to Travel | 203810 | [203810-l-o-l-surprise-b-b-s-born-to-travel.json](./203810-l-o-l-surprise-b-b-s-born-to-travel.json) |
+| L.O.L. Surprise! Roller Dreams Racing | 271399 | [271399-l-o-l-surprise-roller-dreams-racing.json](./271399-l-o-l-surprise-roller-dreams-racing.json) |
 | L.O.L. Surprise!: Laptop Divertido | 297739 | [297739-l-o-l-surprise-laptop-divertido.json](./297739-l-o-l-surprise-laptop-divertido.json) |
 | L.O.L. Surprise!: Laptop Tech | 297742 | [297742-l-o-l-surprise-laptop-tech.json](./297742-l-o-l-surprise-laptop-tech.json) |
 | L.S.S II | 220836 | [220836-l-s-s-ii.json](./220836-l-s-s-ii.json) |
@@ -988,7 +989,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazy Sweet Tycoon | 156121 | [156121-lazy-sweet-tycoon.json](./156121-lazy-sweet-tycoon.json) |
 | Lazy Train Game | 366361 | [366361-lazy-train-game.json](./366361-lazy-train-game.json) |
 | Lazy Writer | 346665 | [346665-lazy-writer.json](./346665-lazy-writer.json) |
+| LazyTown | 271373 | [271373-lazytown.json](./271373-lazytown.json) |
 | LazyTown Live! The Pirate Adventure | 199039 | [199039-lazytown-live-the-pirate-adventure.json](./199039-lazytown-live-the-pirate-adventure.json) |
+| LazyTown: Festival | 271372 | [271372-lazytown-festival.json](./271372-lazytown-festival.json) |
 | LBreakout2 | 275915 | [275915-lbreakout2.json](./275915-lbreakout2.json) |
 | LBX: Little Battlers eXperience | 11257 | [11257-lbx-little-battlers-experience.json](./11257-lbx-little-battlers-experience.json) |
 | LCD Dem | 139815 | [139815-lcd-dem.json](./139815-lcd-dem.json) |
@@ -1387,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary | 7049 | [7049-legendary.json](./7049-legendary.json) |
 | Legendary Arcane 2 Universe | 129750 | [129750-legendary-arcane-2-universe.json](./129750-legendary-arcane-2-universe.json) |
 | Legendary Archer: Rebirth | 224029 | [224029-legendary-archer-rebirth.json](./224029-legendary-archer-rebirth.json) |
+| Legendary Creatures 2 | 271374 | [271374-legendary-creatures-2.json](./271374-legendary-creatures-2.json) |
 | Legendary DXP | 69357 | [69357-legendary-dxp.json](./69357-legendary-dxp.json) |
 | Legendary Fishing | 110788 | [110788-legendary-fishing.json](./110788-legendary-fishing.json) |
 | Legendary Heroes Unchained | 324106 | [324106-legendary-heroes-unchained.json](./324106-legendary-heroes-unchained.json) |
@@ -4593,6 +4597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Löwenzahn 5: Geschichten aus Natur, Umwelt und Technik | 374190 | [374190-lowenzahn-5-geschichten-aus-natur-umwelt-und-technik.json](./374190-lowenzahn-5-geschichten-aus-natur-umwelt-und-technik.json) |
 | Löwenzahn 6: Geschichten aus Natur, Umwelt und Technik | 374191 | [374191-lowenzahn-6-geschichten-aus-natur-umwelt-und-technik.json](./374191-lowenzahn-6-geschichten-aus-natur-umwelt-und-technik.json) |
 | Löwenzahn 7: Geschichten aus Natur, Umwelt und Technik | 374192 | [374192-lowenzahn-7-geschichten-aus-natur-umwelt-und-technik.json](./374192-lowenzahn-7-geschichten-aus-natur-umwelt-und-technik.json) |
+| Lower Forecourt | 271370 | [271370-lower-forecourt.json](./271370-lower-forecourt.json) |
 | Lower? Higher! | 303640 | [303640-lower-higher.json](./303640-lower-higher.json) |
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
 | LowPoly Towerdefense | 295009 | [295009-lowpoly-towerdefense.json](./295009-lowpoly-towerdefense.json) |
