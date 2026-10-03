@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IF-16 Fighting Falcon | 368550 | [368550-if-16-fighting-falcon.json](./368550-if-16-fighting-falcon.json) |
 | iF-22 | 95458 | [95458-if-22.json](./95458-if-22.json) |
 | iF-22 Persian Gulf v5.0 | 62267 | [62267-if-22-persian-gulf-v5-0.json](./62267-if-22-persian-gulf-v5-0.json) |
+| If... | 261458 | [261458-if.json](./261458-if.json) |
 | iF/A-18E Carrier Strike Fighter | 78014 | [78014-if-a-18e-carrier-strike-fighter.json](./78014-if-a-18e-carrier-strike-fighter.json) |
 | iFarkle | 104658 | [104658-ifarkle.json](./104658-ifarkle.json) |
 | Iffermoon | 167145 | [167145-iffermoon.json](./167145-iffermoon.json) |
@@ -2081,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infra | 382369 | [382369-infra.json](./382369-infra.json) |
 | Infra: Underground | 255360 | [255360-infra-underground.json](./255360-infra-underground.json) |
 | Infraworld: Coma Moonlight | 256832 | [256832-infraworld-coma-moonlight.json](./256832-infraworld-coma-moonlight.json) |
+| Infraworld: The Hatehammer | 261457 | [261457-infraworld-the-hatehammer.json](./261457-infraworld-the-hatehammer.json) |
 | Ingenious | 210038 | [210038-ingenious.json](./210038-ingenious.json) |
 | Ingenious Island | 226745 | [226745-ingenious-island.json](./226745-ingenious-island.json) |
 | Ingeste | 181225 | [181225-ingeste.json](./181225-ingeste.json) |
@@ -3145,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Getaway | 29939 | [29939-island-getaway.json](./29939-island-getaway.json) |
 | Island Golf | 255740 | [255740-island-golf.json](./255740-island-golf.json) |
 | Island Hopper | 265141 | [265141-island-hopper.json](./265141-island-hopper.json) |
+| Island King | 261415 | [261415-island-king.json](./261415-island-king.json) |
 | Island Life | 92439 | [92439-island-life.json](./92439-island-life.json) |
 | Island Master | 264680 | [264680-island-master.json](./264680-island-master.json) |
 | Island of 16 Sisters | 371864 | [371864-island-of-16-sisters.json](./371864-island-of-16-sisters.json) |
