@@ -6435,6 +6435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Renovation | 110384 | [110384-arena-renovation.json](./110384-arena-renovation.json) |
 | Arena Returns | 351798 | [351798-arena-returns.json](./351798-arena-returns.json) |
 | Arena Runner | 92817 | [92817-arena-runner.json](./92817-arena-runner.json) |
+| Arena Story: Rouge And Princess Knight | 239792 | [239792-arena-story-rouge-and-princess-knight.json](./239792-arena-story-rouge-and-princess-knight.json) |
 | Arena Titans | 94789 | [94789-arena-titans.json](./94789-arena-titans.json) |
 | Arena Warrior | 325022 | [325022-arena-warrior.json](./325022-arena-warrior.json) |
 | Arena Worker | 292780 | [292780-arena-worker.json](./292780-arena-worker.json) |
