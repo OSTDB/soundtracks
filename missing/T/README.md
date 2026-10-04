@@ -5425,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ground Division | 139398 | [139398-the-ground-division.json](./139398-the-ground-division.json) |
 | The Grounding | 140506 | [140506-the-grounding.json](./140506-the-grounding.json) |
 | The Groundskeeper | 366885 | [366885-the-groundskeeper.json](./366885-the-groundskeeper.json) |
+| The Grown-Up Detective Agency | 220560 | [220560-the-grown-up-detective-agency.json](./220560-the-grown-up-detective-agency.json) |
 | The Growth Project | 26614 | [26614-the-growth-project.json](./26614-the-growth-project.json) |
 | The Grugs: Origins | 262969 | [262969-the-grugs-origins.json](./262969-the-grugs-origins.json) |
 | The Guardhouse | 271321 | [271321-the-guardhouse.json](./271321-the-guardhouse.json) |
@@ -5682,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hungry Witch and the Gourmet Dish | 185157 | [185157-the-hungry-witch-and-the-gourmet-dish.json](./185157-the-hungry-witch-and-the-gourmet-dish.json) |
 | The Hunsa Magic | 199366 | [199366-the-hunsa-magic.json](./199366-the-hunsa-magic.json) |
 | The Hunt | 171472 | [171472-the-hunt.json](./171472-the-hunt.json) |
+| The Hunt | 220689 | [220689-the-hunt.json](./220689-the-hunt.json) |
 | The Hunt | 265841 | [265841-the-hunt.json](./265841-the-hunt.json) |
 | The Hunt | 37053 | [37053-the-hunt.json](./37053-the-hunt.json) |
 | The Hunt : Rebuilt | 25110 | [25110-the-hunt-rebuilt.json](./25110-the-hunt-rebuilt.json) |
@@ -6572,6 +6574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Xanadu II | 78738 | [78738-the-legend-of-xanadu-ii.json](./78738-the-legend-of-xanadu-ii.json) |
 | The Legend of Yan Loong 1+2 | 275824 | [275824-the-legend-of-yan-loong-1-2.json](./275824-the-legend-of-yan-loong-1-2.json) |
 | The Legend of You | 390139 | [390139-the-legend-of-you.json](./390139-the-legend-of-you.json) |
+| The Legend of Young | 220691 | [220691-the-legend-of-young.json](./220691-the-legend-of-young.json) |
 | The Legend of Zelda Game Watch | 172501 | [172501-the-legend-of-zelda-game-watch.json](./172501-the-legend-of-zelda-game-watch.json) |
 | The Legend of Zelda Ocarina of Time 3D: First Edition | 89904 | [89904-the-legend-of-zelda-ocarina-of-time-3d-first-edition.json](./89904-the-legend-of-zelda-ocarina-of-time-3d-first-edition.json) |
 | The Legend of Zelda Remastered | 260748 | [260748-the-legend-of-zelda-remastered.json](./260748-the-legend-of-zelda-remastered.json) |
@@ -6719,6 +6722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life and Suffering of Sir Brante | 138871 | [138871-the-life-and-suffering-of-sir-brante.json](./138871-the-life-and-suffering-of-sir-brante.json) |
 | The Life and Times of Daniel Vastberaden | 368571 | [368571-the-life-and-times-of-daniel-vastberaden.json](./368571-the-life-and-times-of-daniel-vastberaden.json) |
 | The Life of a Pacifist is Often Fraught With Conflict | 65777 | [65777-the-life-of-a-pacifist-is-often-fraught-with-conflict.json](./65777-the-life-of-a-pacifist-is-often-fraught-with-conflict.json) |
+| The Life of Arthur | 220692 | [220692-the-life-of-arthur.json](./220692-the-life-of-arthur.json) |
 | The Life of Frederick Sommer | 148987 | [148987-the-life-of-frederick-sommer.json](./148987-the-life-of-frederick-sommer.json) |
 | The Life of Greather | 31998 | [31998-the-life-of-greather.json](./31998-the-life-of-greather.json) |
 | The Life of Me | 314662 | [314662-the-life-of-me.json](./314662-the-life-of-me.json) |
@@ -6840,6 +6844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Longest Five Minutes | 44078 | [44078-the-longest-five-minutes.json](./44078-the-longest-five-minutes.json) |
 | The Longest Journey | 895 | [895-the-longest-journey.json](./895-the-longest-journey.json) |
 | The Longest Journey Remastered | 27658 | [27658-the-longest-journey-remastered.json](./27658-the-longest-journey-remastered.json) |
+| The Longest Path | 220693 | [220693-the-longest-path.json](./220693-the-longest-path.json) |
 | The Longest Road | 177846 | [177846-the-longest-road.json](./177846-the-longest-road.json) |
 | The Longest Road | 364671 | [364671-the-longest-road.json](./364671-the-longest-road.json) |
 | The Longest Road on Earth: Backstage Edition | 159695 | [159695-the-longest-road-on-earth-backstage-edition.json](./159695-the-longest-road-on-earth-backstage-edition.json) |
@@ -7344,6 +7349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mutant Virus: "Crisis in a Computer World!" | 48196 | [48196-the-mutant-virus-crisis-in-a-computer-world.json](./48196-the-mutant-virus-crisis-in-a-computer-world.json) |
 | The Mutineer | 139463 | [139463-the-mutineer.json](./139463-the-mutineer.json) |
 | The Mutton Horn: Jump Jump! | 105379 | [105379-the-mutton-horn-jump-jump.json](./105379-the-mutton-horn-jump-jump.json) |
+| The Myriad | 220694 | [220694-the-myriad.json](./220694-the-myriad.json) |
 | The Mysteries of Baroque | 110159 | [110159-the-mysteries-of-baroque.json](./110159-the-mysteries-of-baroque.json) |
 | The Mysteries of Underville | 268754 | [268754-the-mysteries-of-underville.json](./268754-the-mysteries-of-underville.json) |
 | The Mysterious Case of Dr. Jekyll & Mr. Hyde | 197946 | [197946-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./197946-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
@@ -7513,6 +7519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Occupant | 74432 | [74432-the-occupant.json](./74432-the-occupant.json) |
 | The Occupied Base | 271309 | [271309-the-occupied-base.json](./271309-the-occupied-base.json) |
 | The Ocean | 143678 | [143678-the-ocean.json](./143678-the-ocean.json) |
+| The Ocean Will Have Us All | 220695 | [220695-the-ocean-will-have-us-all.json](./220695-the-ocean-will-have-us-all.json) |
 | The Odarian Accounts | 218705 | [218705-the-odarian-accounts.json](./218705-the-odarian-accounts.json) |
 | The Odd Battle | 108026 | [108026-the-odd-battle.json](./108026-the-odd-battle.json) |
 | The Odd Neon Void | 132246 | [132246-the-odd-neon-void.json](./132246-the-odd-neon-void.json) |
@@ -8204,6 +8211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rookery | 312744 | [312744-the-rookery.json](./312744-the-rookery.json) |
 | The Rookery Way | 286047 | [286047-the-rookery-way.json](./286047-the-rookery-way.json) |
 | The Room | 11625 | [11625-the-room.json](./11625-the-room.json) |
+| The Room | 220561 | [220561-the-room.json](./220561-the-room.json) |
 | The Room 4: Old Sins | 27725 | [27725-the-room-4-old-sins.json](./27725-the-room-4-old-sins.json) |
 | The Room Collection | 351251 | [351251-the-room-collection.json](./351251-the-room-collection.json) |
 | The Room in a Glass Box | 339934 | [339934-the-room-in-a-glass-box.json](./339934-the-room-in-a-glass-box.json) |
@@ -12000,6 +12008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeout | 305953 | [305953-timeout.json](./305953-timeout.json) |
 | TimeOut | 385582 | [385582-timeout.json](./385582-timeout.json) |
 | Timepiece Ensemble | 216242 | [216242-timepiece-ensemble.json](./216242-timepiece-ensemble.json) |
+| Timepunk | 220697 | [220697-timepunk.json](./220697-timepunk.json) |
 | Timerift Raiders: The Past Awakens | 338268 | [338268-timerift-raiders-the-past-awakens.json](./338268-timerift-raiders-the-past-awakens.json) |
 | Timerunner | 161900 | [161900-timerunner.json](./161900-timerunner.json) |
 | Times | 391709 | [391709-times.json](./391709-times.json) |
@@ -12039,6 +12048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timore 6: The Cadaver | 381806 | [381806-timore-6-the-cadaver.json](./381806-timore-6-the-cadaver.json) |
 | Timore Avaritia | 366350 | [366350-timore-avaritia.json](./366350-timore-avaritia.json) |
 | Timore Narhelma | 317381 | [317381-timore-narhelma.json](./317381-timore-narhelma.json) |
+| Timore Remake | 220547 | [220547-timore-remake.json](./220547-timore-remake.json) |
 | Timothy | 64992 | [64992-timothy.json](./64992-timothy.json) |
 | Timothy and the Tower of Mu | 169876 | [169876-timothy-and-the-tower-of-mu.json](./169876-timothy-and-the-tower-of-mu.json) |
 | Timothy: Shinpi no Mori | 189132 | [189132-timothy-shinpi-no-mori.json](./189132-timothy-shinpi-no-mori.json) |
@@ -12380,6 +12390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titty Crush | 99701 | [99701-titty-crush.json](./99701-titty-crush.json) |
 | Titty World | 334675 | [334675-titty-world.json](./334675-titty-world.json) |
 | Titus the Fox | 65798 | [65798-titus-the-fox.json](./65798-titus-the-fox.json) |
+| Tivick'ing! Chronicles | 220698 | [220698-tivicking-chronicles.json](./220698-tivicking-chronicles.json) |
 | Tivits: Math Game | 108967 | [108967-tivits-math-game.json](./108967-tivits-math-game.json) |
 | TIZ: Tokyo Insect Zoo | 148436 | [148436-tiz-tokyo-insect-zoo.json](./148436-tiz-tokyo-insect-zoo.json) |
 | Tizahl's Quest | 152738 | [152738-tizahls-quest.json](./152738-tizahls-quest.json) |
@@ -12719,6 +12730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Taisen | 191861 | [191861-tokimeki-taisen.json](./191861-tokimeki-taisen.json) |
 | Tokimeter | 322951 | [322951-tokimeter.json](./322951-tokimeter.json) |
 | Tokio | 72164 | [72164-tokio.json](./72164-tokio.json) |
+| Tokki | 220699 | [220699-tokki.json](./220699-tokki.json) |
 | Tokkun Fighting Soccer | 349434 | [349434-tokkun-fighting-soccer.json](./349434-tokkun-fighting-soccer.json) |
 | Tokkyuu Shirei Solbrain | 215134 | [215134-tokkyuu-shirei-solbrain.json](./215134-tokkyuu-shirei-solbrain.json) |
 | Toko Toko Trouble | 242632 | [242632-toko-toko-trouble.json](./242632-toko-toko-trouble.json) |
@@ -12794,6 +12806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Rogue | 153977 | [153977-tokyo-rogue.json](./153977-tokyo-rogue.json) |
 | Tokyo School Girl | 289940 | [289940-tokyo-school-girl.json](./289940-tokyo-school-girl.json) |
 | Tokyo Shadow | 209609 | [209609-tokyo-shadow.json](./209609-tokyo-shadow.json) |
+| Tokyo Stranger | 220700 | [220700-tokyo-stranger.json](./220700-tokyo-stranger.json) |
 | Tokyo Tattoo Girls | 27260 | [27260-tokyo-tattoo-girls.json](./27260-tokyo-tattoo-girls.json) |
 | Tokyo Trigger | 361274 | [361274-tokyo-trigger.json](./361274-tokyo-trigger.json) |
 | Tokyo Underground Killer | 213420 | [213420-tokyo-underground-killer.json](./213420-tokyo-underground-killer.json) |
