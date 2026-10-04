@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Crawlers: The Turbo Wildcard from Vampire Survivors | 378229 | [378229-vampire-crawlers-the-turbo-wildcard-from-vampire-survivors.json](./378229-vampire-crawlers-the-turbo-wildcard-from-vampire-survivors.json) |
 | Vampire Crystals | 64093 | [64093-vampire-crystals.json](./64093-vampire-crystals.json) |
 | Vampire Crystals: Rebirth | 85471 | [85471-vampire-crystals-rebirth.json](./85471-vampire-crystals-rebirth.json) |
+| Vampire Curse | 212295 | [212295-vampire-curse.json](./212295-vampire-curse.json) |
 | Vampire Doctor | 255887 | [255887-vampire-doctor.json](./255887-vampire-doctor.json) |
 | Vampire Domain | 319020 | [319020-vampire-domain.json](./319020-vampire-domain.json) |
 | Vampire Escape | 315576 | [315576-vampire-escape.json](./315576-vampire-escape.json) |
