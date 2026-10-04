@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Flight: Relic Hunter | 263132 | [263132-paper-flight-relic-hunter.json](./263132-paper-flight-relic-hunter.json) |
 | Paper Flights | 235224 | [235224-paper-flights.json](./235224-paper-flights.json) |
 | Paper Galaxy | 64129 | [64129-paper-galaxy.json](./64129-paper-galaxy.json) |
+| Paper Ghost Stories: 7PM | 224985 | [224985-paper-ghost-stories-7pm.json](./224985-paper-ghost-stories-7pm.json) |
 | Paper Glider | 144878 | [144878-paper-glider.json](./144878-paper-glider.json) |
 | Paper Hero Manager | 279109 | [279109-paper-hero-manager.json](./279109-paper-hero-manager.json) |
 | Paper Heroes | 174743 | [174743-paper-heroes.json](./174743-paper-heroes.json) |
@@ -1783,19 +1784,30 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paycheck: City RPG | 130383 | [130383-paycheck-city-rpg.json](./130383-paycheck-city-rpg.json) |
 | Payday 2 VR | 150511 | [150511-payday-2-vr.json](./150511-payday-2-vr.json) |
 | Payday 2: Armored Transport | 167696 | [167696-payday-2-armored-transport.json](./167696-payday-2-armored-transport.json) |
+| Payday 2: Biker Character Pack | 225108 | [225108-payday-2-biker-character-pack.json](./225108-payday-2-biker-character-pack.json) |
 | Payday 2: Border Crossing Heist | 167700 | [167700-payday-2-border-crossing-heist.json](./167700-payday-2-border-crossing-heist.json) |
 | Payday 2: Breakfast in Tijuana Heist | 167691 | [167691-payday-2-breakfast-in-tijuana-heist.json](./167691-payday-2-breakfast-in-tijuana-heist.json) |
 | Payday 2: Buluc's Mansion Heist | 167688 | [167688-payday-2-bulucs-mansion-heist.json](./167688-payday-2-bulucs-mansion-heist.json) |
 | Payday 2: City of Gold Collection | 252886 | [252886-payday-2-city-of-gold-collection.json](./252886-payday-2-city-of-gold-collection.json) |
+| Payday 2: Clover Character Pack | 225114 | [225114-payday-2-clover-character-pack.json](./225114-payday-2-clover-character-pack.json) |
+| Payday 2: Dragan Character Pack | 225115 | [225115-payday-2-dragan-character-pack.json](./225115-payday-2-dragan-character-pack.json) |
+| Payday 2: Dragon Pack | 225117 | [225117-payday-2-dragon-pack.json](./225117-payday-2-dragon-pack.json) |
 | Payday 2: Espionage Weapon Pack | 400334 | [400334-payday-2-espionage-weapon-pack.json](./400334-payday-2-espionage-weapon-pack.json) |
+| Payday 2: Federales Weapon Pack | 225118 | [225118-payday-2-federales-weapon-pack.json](./225118-payday-2-federales-weapon-pack.json) |
+| Payday 2: Gage Assault Pack | 225119 | [225119-payday-2-gage-assault-pack.json](./225119-payday-2-gage-assault-pack.json) |
+| Payday 2: Gage Chivalry Pack | 225120 | [225120-payday-2-gage-chivalry-pack.json](./225120-payday-2-gage-chivalry-pack.json) |
+| Payday 2: Gage Historical Pack | 225121 | [225121-payday-2-gage-historical-pack.json](./225121-payday-2-gage-historical-pack.json) |
 | Payday 2: Gage Mod Courier | 252885 | [252885-payday-2-gage-mod-courier.json](./252885-payday-2-gage-mod-courier.json) |
+| Payday 2: Gage Ninja Pack | 225122 | [225122-payday-2-gage-ninja-pack.json](./225122-payday-2-gage-ninja-pack.json) |
 | Payday 2: Gage Russian Weapon Pack | 156182 | [156182-payday-2-gage-russian-weapon-pack.json](./156182-payday-2-gage-russian-weapon-pack.json) |
+| Payday 2: Gage Shotgun Pack | 225123 | [225123-payday-2-gage-shotgun-pack.json](./225123-payday-2-gage-shotgun-pack.json) |
 | Payday 2: Gage Sniper Pack | 225160 | [225160-payday-2-gage-sniper-pack.json](./225160-payday-2-gage-sniper-pack.json) |
 | Payday 2: Gage Spec Ops Pack | 225161 | [225161-payday-2-gage-spec-ops-pack.json](./225161-payday-2-gage-spec-ops-pack.json) |
 | Payday 2: Gage Weapon Pack #01 | 225162 | [225162-payday-2-gage-weapon-pack-01.json](./225162-payday-2-gage-weapon-pack-01.json) |
 | Payday 2: Gage Weapon Pack #02 | 225163 | [225163-payday-2-gage-weapon-pack-02.json](./225163-payday-2-gage-weapon-pack-02.json) |
 | Payday 2: Golden Dagger Tailor Pack | 225165 | [225165-payday-2-golden-dagger-tailor-pack.json](./225165-payday-2-golden-dagger-tailor-pack.json) |
 | Payday 2: Guardians Tailor Pack | 225166 | [225166-payday-2-guardians-tailor-pack.json](./225166-payday-2-guardians-tailor-pack.json) |
+| Payday 2: H3H3 Character Pack | 225125 | [225125-payday-2-h3h3-character-pack.json](./225125-payday-2-h3h3-character-pack.json) |
 | Payday 2: High Octane Tailor Pack | 225167 | [225167-payday-2-high-octane-tailor-pack.json](./225167-payday-2-high-octane-tailor-pack.json) |
 | Payday 2: John Wick Heists | 167686 | [167686-payday-2-john-wick-heists.json](./167686-payday-2-john-wick-heists.json) |
 | Payday 2: Lawless Tailor Pack | 252884 | [252884-payday-2-lawless-tailor-pack.json](./252884-payday-2-lawless-tailor-pack.json) |
@@ -5288,6 +5300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Mine 3 | 68340 | [68340-pocket-mine-3.json](./68340-pocket-mine-3.json) |
 | Pocket Mine 3 | 77666 | [77666-pocket-mine-3.json](./77666-pocket-mine-3.json) |
 | Pocket Mini Golf | 132027 | [132027-pocket-mini-golf.json](./132027-pocket-mini-golf.json) |
+| Pocket Mini Golf 2 | 224987 | [224987-pocket-mini-golf-2.json](./224987-pocket-mini-golf-2.json) |
 | Pocket Mini Golf: Hole in one | 238029 | [238029-pocket-mini-golf-hole-in-one.json](./238029-pocket-mini-golf-hole-in-one.json) |
 | Pocket Mirror | 57894 | [57894-pocket-mirror.json](./57894-pocket-mirror.json) |
 | Pocket Mirror: GoldenerTraum | 211637 | [211637-pocket-mirror-goldenertraum.json](./211637-pocket-mirror-goldenertraum.json) |
