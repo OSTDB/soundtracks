@@ -6491,6 +6491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Tom Hanks Run | 307294 | [307294-run-tom-hanks-run.json](./307294-run-tom-hanks-run.json) |
 | Run, chicken, run! | 113885 | [113885-run-chicken-run.json](./113885-run-chicken-run.json) |
 | Run, Doodleguy! | 211293 | [211293-run-doodleguy.json](./211293-run-doodleguy.json) |
+| Run, Kitty! | 192771 | [192771-run-kitty.json](./192771-run-kitty.json) |
 | Run, Poo, Run! | 388967 | [388967-run-poo-run.json](./388967-run-poo-run.json) |
 | Run, Run, Monsters! | 108024 | [108024-run-run-monsters.json](./108024-run-run-monsters.json) |
 | Run, Veggies! | 358878 | [358878-run-veggies.json](./358878-run-veggies.json) |
