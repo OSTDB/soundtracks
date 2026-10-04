@@ -1117,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Cafe on Electric Street | 302952 | [302952-maid-cafe-on-electric-street.json](./302952-maid-cafe-on-electric-street.json) |
 | Maid Cafe Simulator | 393665 | [393665-maid-cafe-simulator.json](./393665-maid-cafe-simulator.json) |
 | Maid Cafe: Delightful Sins Comics | 265610 | [265610-maid-cafe-delightful-sins-comics.json](./265610-maid-cafe-delightful-sins-comics.json) |
+| Maid Cafe: Full Service | 204946 | [204946-maid-cafe-full-service.json](./204946-maid-cafe-full-service.json) |
 | Maid Cafe: Maid Girls Comics | 265331 | [265331-maid-cafe-maid-girls-comics.json](./265331-maid-cafe-maid-girls-comics.json) |
 | Maid Cafe: Monstrous Beauties Comics | 265332 | [265332-maid-cafe-monstrous-beauties-comics.json](./265332-maid-cafe-monstrous-beauties-comics.json) |
 | Maid Cafe: Sexy Secrets | 265604 | [265604-maid-cafe-sexy-secrets.json](./265604-maid-cafe-sexy-secrets.json) |
@@ -4642,6 +4643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory of The Waters | 277496 | [277496-memory-of-the-waters.json](./277496-memory-of-the-waters.json) |
 | Memory of Time | 339123 | [339123-memory-of-time.json](./339123-memory-of-time.json) |
 | Memory Patches | 264660 | [264660-memory-patches.json](./264660-memory-patches.json) |
+| Memory Puzzle: Futanari Doctor | 204945 | [204945-memory-puzzle-futanari-doctor.json](./204945-memory-puzzle-futanari-doctor.json) |
 | Memory Puzzle: Futanari Gym | 368623 | [368623-memory-puzzle-futanari-gym.json](./368623-memory-puzzle-futanari-gym.json) |
 | Memory Puzzle: Neko Girls | 286496 | [286496-memory-puzzle-neko-girls.json](./286496-memory-puzzle-neko-girls.json) |
 | Memory Quickie | 310754 | [310754-memory-quickie.json](./310754-memory-quickie.json) |
@@ -4699,6 +4701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MenheRafflesia | 131584 | [131584-menherafflesia.json](./131584-menherafflesia.json) |
 | Menherafflesia Flowering Abyss | 151691 | [151691-menherafflesia-flowering-abyss.json](./151691-menherafflesia-flowering-abyss.json) |
 | Menherarium | 331675 | [331675-menherarium.json](./331675-menherarium.json) |
+| Menos: Precursor | 204944 | [204944-menos-precursor.json](./204944-menos-precursor.json) |
 | Menos: Psi-Shatter | 147361 | [147361-menos-psi-shatter.json](./147361-menos-psi-shatter.json) |
 | Menphis | 293929 | [293929-menphis.json](./293929-menphis.json) |
 | Mensalão, O Jogo | 221252 | [221252-mensalao-o-jogo.json](./221252-mensalao-o-jogo.json) |
@@ -9358,6 +9361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountinuum | 285047 | [285047-mountinuum.json](./285047-mountinuum.json) |
 | Mountris | 341639 | [341639-mountris.json](./341639-mountris.json) |
 | Mourir en mer | 70435 | [70435-mourir-en-mer.json](./70435-mourir-en-mer.json) |
+| Mourn-born | 204938 | [204938-mourn-born.json](./204938-mourn-born.json) |
 | Mournful Sword | 121583 | [121583-mournful-sword.json](./121583-mournful-sword.json) |
 | Mourning Inc. | 158035 | [158035-mourning-inc.json](./158035-mourning-inc.json) |
 | Mourning Tide | 306174 | [306174-mourning-tide.json](./306174-mourning-tide.json) |
@@ -11306,6 +11310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Conquests | 215639 | [215639-mystical-conquests.json](./215639-mystical-conquests.json) |
 | Mystical Crash in Magical Middle Ages: Adventure of Valkyrie | 313273 | [313273-mystical-crash-in-magical-middle-ages-adventure-of-valkyrie.json](./313273-mystical-crash-in-magical-middle-ages-adventure-of-valkyrie.json) |
 | Mystical Echoes | 149083 | [149083-mystical-echoes.json](./149083-mystical-echoes.json) |
+| Mystical Map | 204939 | [204939-mystical-map.json](./204939-mystical-map.json) |
 | Mystical Mayhem | 156038 | [156038-mystical-mayhem.json](./156038-mystical-mayhem.json) |
 | Mystical Mixing | 224011 | [224011-mystical-mixing.json](./224011-mystical-mixing.json) |
 | Mystical Mushrooms | 341353 | [341353-mystical-mushrooms.json](./341353-mystical-mushrooms.json) |
