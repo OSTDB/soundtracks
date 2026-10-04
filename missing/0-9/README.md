@@ -471,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 11-A-Side Soccer | 279699 | [279699-11-a-side-soccer.json](./279699-11-a-side-soccer.json) |
 | 11:45 A Vivid Life | 132652 | [132652-11-45-a-vivid-life.json](./132652-11-45-a-vivid-life.json) |
 | 110 Hurdles | 247052 | [247052-110-hurdles.json](./247052-110-hurdles.json) |
+| 11111Game | 219505 | [219505-11111game.json](./219505-11111game.json) |
 | 1112: Episode 01 | 213381 | [213381-1112-episode-01.json](./213381-1112-episode-01.json) |
 | 114 Miles to Doctor Noodles Farm | 250501 | [250501-114-miles-to-doctor-noodles-farm.json](./250501-114-miles-to-doctor-noodles-farm.json) |
 | 1193 Anno Domini: Merchants and Crusaders | 71494 | [71494-1193-anno-domini-merchants-and-crusaders.json](./71494-1193-anno-domini-merchants-and-crusaders.json) |
@@ -634,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1984 | 247611 | [247611-1984.json](./247611-1984.json) |
 | 1989 QianShanMen | 259288 | [259288-1989-qianshanmen.json](./259288-1989-qianshanmen.json) |
 | 198X | 100562 | [100562-198x.json](./100562-198x.json) |
+| 1990 | 219506 | [219506-1990.json](./219506-1990.json) |
 | 1993 Space Machine | 19390 | [19390-1993-space-machine.json](./19390-1993-space-machine.json) |
 | 1995Card+ | 295238 | [295238-1995card.json](./295238-1995card.json) |
 | 1997 Reloaded | 405044 | [405044-1997-reloaded.json](./405044-1997-reloaded.json) |
@@ -709,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Ninjas 1 Cup | 29898 | [29898-2-ninjas-1-cup.json](./29898-2-ninjas-1-cup.json) |
 | 2 of Me | 221177 | [221177-2-of-me.json](./221177-2-of-me.json) |
 | 2 Pak Special: Star Warrior/Frogger | 130281 | [130281-2-pak-special-star-warrior-frogger.json](./130281-2-pak-special-star-warrior-frogger.json) |
+| 2 Pattern | 219507 | [219507-2-pattern.json](./219507-2-pattern.json) |
 | 2 Player Baseball | 245578 | [245578-2-player-baseball.json](./245578-2-player-baseball.json) |
 | 2 Player games : the Challenge | 208905 | [208905-2-player-games-the-challenge.json](./208905-2-player-games-the-challenge.json) |
 | 2 Sectors | 260785 | [260785-2-sectors.json](./260785-2-sectors.json) |
@@ -907,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2Xtreme | 45105 | [45105-2xtreme.json](./45105-2xtreme.json) |
 | 3 BigEggs | 99572 | [99572-3-bigeggs.json](./99572-3-bigeggs.json) |
 | 3 Coins At School | 32980 | [32980-3-coins-at-school.json](./32980-3-coins-at-school.json) |
+| 3 Crystals | 219509 | [219509-3-crystals.json](./219509-3-crystals.json) |
 | 3 Cushion Masters | 153462 | [153462-3-cushion-masters.json](./153462-3-cushion-masters.json) |
 | 3 Days of Tactical Farming | 185000 | [185000-3-days-of-tactical-farming.json](./185000-3-days-of-tactical-farming.json) |
 | 3 Days to Live | 379898 | [379898-3-days-to-live.json](./379898-3-days-to-live.json) |
@@ -979,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30XX: Feline Fury | 318700 | [318700-30xx-feline-fury.json](./318700-30xx-feline-fury.json) |
 | 31 Pixels Later | 315648 | [315648-31-pixels-later.json](./315648-31-pixels-later.json) |
 | 31 Unmarked Games | 179524 | [179524-31-unmarked-games.json](./179524-31-unmarked-games.json) |
+| 32 in 1 Game Special | 219508 | [219508-32-in-1-game-special.json](./219508-32-in-1-game-special.json) |
 | 32 Piece Cliptucky Fried Chicken Special | 260786 | [260786-32-piece-cliptucky-fried-chicken-special.json](./260786-32-piece-cliptucky-fried-chicken-special.json) |
 | 32-in-1 Games | 247015 | [247015-32-in-1-games.json](./247015-32-in-1-games.json) |
 | 32, Dandelion Drift | 348227 | [348227-32-dandelion-drift.json](./348227-32-dandelion-drift.json) |
@@ -1034,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Crosswords | 268507 | [268507-3d-crosswords.json](./268507-3d-crosswords.json) |
 | 3D Cyber Puck | 300012 | [300012-3d-cyber-puck.json](./300012-3d-cyber-puck.json) |
 | 3D Dinosaur Hunter | 263459 | [263459-3d-dinosaur-hunter.json](./263459-3d-dinosaur-hunter.json) |
+| 3D Don't Die Mr Robot | 219510 | [219510-3d-dont-die-mr-robot.json](./219510-3d-dont-die-mr-robot.json) |
 | 3D Dot Game Heroes | 7265 | [7265-3d-dot-game-heroes.json](./7265-3d-dot-game-heroes.json) |
 | 3D Dragon Castle | 205837 | [205837-3d-dragon-castle.json](./205837-3d-dragon-castle.json) |
 | 3D Driving School | 52544 | [52544-3d-driving-school.json](./52544-3d-driving-school.json) |
@@ -1225,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 49 Squares | 253448 | [253448-49-squares.json](./253448-49-squares.json) |
 | 4A Flyer | 377833 | [377833-4a-flyer.json](./377833-4a-flyer.json) |
 | 4Below | 389691 | [389691-4below.json](./389691-4below.json) |
+| 4D Golf | 219511 | [219511-4d-golf.json](./219511-4d-golf.json) |
 | 4D Sports Tennis | 73308 | [73308-4d-sports-tennis.json](./73308-4d-sports-tennis.json) |
 | 4Fools1 | 349958 | [349958-4fools1.json](./349958-4fools1.json) |
 | 4in1: Bomb Disposer/Armour Force/Black Forest Tale/2nd Space | 77296 | [77296-4in1-bomb-disposer-armour-force-black-forest-tale-2nd-space.json](./77296-4in1-bomb-disposer-armour-force-black-forest-tale-2nd-space.json) |
@@ -1238,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4Spaces | 259550 | [259550-4spaces.json](./259550-4spaces.json) |
 | 4Tacos | 276274 | [276274-4tacos.json](./276274-4tacos.json) |
 | 4Team | 31104 | [31104-4team.json](./31104-4team.json) |
+| 4th Dawn | 219512 | [219512-4th-dawn.json](./219512-4th-dawn.json) |
 | 4th Era: The RuneChild | 120320 | [120320-4th-era-the-runechild.json](./120320-4th-era-the-runechild.json) |
 | 4th Generation Warfare | 128944 | [128944-4th-generation-warfare.json](./128944-4th-generation-warfare.json) |
 | 4th Generation Warfare: Commando Unit | 196056 | [196056-4th-generation-warfare-commando-unit.json](./196056-4th-generation-warfare-commando-unit.json) |
@@ -1245,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4th Time's the Charm | 362913 | [362913-4th-times-the-charm.json](./362913-4th-times-the-charm.json) |
 | 4Towers Onslaught | 235155 | [235155-4towers-onslaught.json](./235155-4towers-onslaught.json) |
 | 4WD Wild Rally | 300005 | [300005-4wd-wild-rally.json](./300005-4wd-wild-rally.json) |
+| 4X4 | 219513 | [219513-4x4.json](./219513-4x4.json) |
 | 4x4 Adventure Rocky Pathways | 320371 | [320371-4x4-adventure-rocky-pathways.json](./320371-4x4-adventure-rocky-pathways.json) |
 | 4x4 Buggy Race Outlaws | 106737 | [106737-4x4-buggy-race-outlaws.json](./106737-4x4-buggy-race-outlaws.json) |
 | 4x4 Dirt Track | 147816 | [147816-4x4-dirt-track.json](./147816-4x4-dirt-track.json) |
@@ -1301,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50 Waves Hero | 164981 | [164981-50-waves-hero.json](./164981-50-waves-hero.json) |
 | 500 Caliber Contractz | 268103 | [268103-500-caliber-contractz.json](./268103-500-caliber-contractz.json) |
 | 500 GP | 249253 | [249253-500-gp.json](./249253-500-gp.json) |
+| 500 Second Challenge | 219514 | [219514-500-second-challenge.json](./219514-500-second-challenge.json) |
 | 5001 Games the Ultimate Games Pack | 147280 | [147280-5001-games-the-ultimate-games-pack.json](./147280-5001-games-the-ultimate-games-pack.json) |
 | 505 Game Collection | 266324 | [266324-505-game-collection.json](./266324-505-game-collection.json) |
 | 5050 | 260709 | [260709-5050.json](./260709-5050.json) |
@@ -1429,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7th Sector | 115336 | [115336-7th-sector.json](./115336-7th-sector.json) |
 | 7th Sector: Museum | 172115 | [172115-7th-sector-museum.json](./172115-7th-sector-museum.json) |
 | 7Worlds: The Dreaming Dale | 129012 | [129012-7worlds-the-dreaming-dale.json](./129012-7worlds-the-dreaming-dale.json) |
+| 8 Ball 2 | 219515 | [219515-8-ball-2.json](./219515-8-ball-2.json) |
 | 8 Ball 3 | 232450 | [232450-8-ball-3.json](./232450-8-ball-3.json) |
 | 8 Ball 4 | 400987 | [400987-8-ball-4.json](./400987-8-ball-4.json) |
 | 8 Ball Action | 38566 | [38566-8-ball-action.json](./38566-8-ball-action.json) |
