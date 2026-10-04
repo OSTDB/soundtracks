@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iceicellClicker | 313760 | [313760-iceicellclicker.json](./313760-iceicellclicker.json) |
 | IceLine | 221129 | [221129-iceline.json](./221129-iceline.json) |
 | Iceman: Digital PlayStage | 180837 | [180837-iceman-digital-playstage.json](./180837-iceman-digital-playstage.json) |
+| Icemaze Cave: Skate Escape | 195560 | [195560-icemaze-cave-skate-escape.json](./195560-icemaze-cave-skate-escape.json) |
 | Iceroyds! | 126502 | [126502-iceroyds.json](./126502-iceroyds.json) |
 | Icesolation | 116121 | [116121-icesolation.json](./116121-icesolation.json) |
 | Icewind Dale | 753 | [753-icewind-dale.json](./753-icewind-dale.json) |
