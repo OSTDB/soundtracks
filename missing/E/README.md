@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat Your Vegetables! | 265754 | [265754-eat-your-vegetables.json](./265754-eat-your-vegetables.json) |
 | Eat Your Words | 104798 | [104798-eat-your-words.json](./104798-eat-your-words.json) |
 | Eat, Sleep, Bet, Repeat | 68167 | [68167-eat-sleep-bet-repeat.json](./68167-eat-sleep-bet-repeat.json) |
+| Eat, Sleep, Repeat | 179008 | [179008-eat-sleep-repeat.json](./179008-eat-sleep-repeat.json) |
 | Eat: The Revolution | 76637 | [76637-eat-the-revolution.json](./76637-eat-the-revolution.json) |
 | Eaten by Darkness | 235747 | [235747-eaten-by-darkness.json](./235747-eaten-by-darkness.json) |
 | EatFish | 303501 | [303501-eatfish.json](./303501-eatfish.json) |
@@ -2382,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equestrian Training | 155464 | [155464-equestrian-training.json](./155464-equestrian-training.json) |
 | Equilibria | 80447 | [80447-equilibria.json](./80447-equilibria.json) |
 | Equilibrium | 170999 | [170999-equilibrium.json](./170999-equilibrium.json) |
+| Equilibrium | 178990 | [178990-equilibrium.json](./178990-equilibrium.json) |
 | Equilibrium 2018 | 103153 | [103153-equilibrium-2018.json](./103153-equilibrium-2018.json) |
 | Equilibrium 3D | 102212 | [102212-equilibrium-3d.json](./102212-equilibrium-3d.json) |
 | Equilibrium Ocean | 107161 | [107161-equilibrium-ocean.json](./107161-equilibrium-ocean.json) |
