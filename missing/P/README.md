@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Packed Bus 3D | 220196 | [220196-packed-bus-3d.json](./220196-packed-bus-3d.json) |
 | Packed Lair | 350440 | [350440-packed-lair.json](./350440-packed-lair.json) |
 | Packed to the Gills | 270788 | [270788-packed-to-the-gills.json](./270788-packed-to-the-gills.json) |
+| Packer | 178933 | [178933-packer.json](./178933-packer.json) |
 | Packin' | 342180 | [342180-packin.json](./342180-packin.json) |
 | Packing House | 184475 | [184475-packing-house.json](./184475-packing-house.json) |
 | Packit List | 341601 | [341601-packit-list.json](./341601-packit-list.json) |
@@ -9701,6 +9702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pwn! | 341318 | [341318-pwn.json](./341318-pwn.json) |
 | Pwnz! | 240833 | [240833-pwnz.json](./240833-pwnz.json) |
 | Pwordle | 241405 | [241405-pwordle.json](./241405-pwordle.json) |
+| Pwumpkin Poetwy | 179019 | [179019-pwumpkin-poetwy.json](./179019-pwumpkin-poetwy.json) |
 | Px | 201785 | [201785-px.json](./201785-px.json) |
 | Px Art | 369573 | [369573-px-art.json](./369573-px-art.json) |
 | PxBeats | 256540 | [256540-pxbeats.json](./256540-pxbeats.json) |
