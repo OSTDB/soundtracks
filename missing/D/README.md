@@ -2264,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Front | 277514 | [277514-death-front.json](./277514-death-front.json) |
 | Death Game | 206153 | [206153-death-game.json](./206153-death-game.json) |
 | Death Game Hotel | 251554 | [251554-death-game-hotel.json](./251554-death-game-hotel.json) |
+| Death Gaze | 184962 | [184962-death-gaze.json](./184962-death-gaze.json) |
 | Death Goat | 19873 | [19873-death-goat.json](./19873-death-goat.json) |
 | Death Hall | 116377 | [116377-death-hall.json](./116377-death-hall.json) |
 | Death Howl: Deluxe Edition | 401737 | [401737-death-howl-deluxe-edition.json](./401737-death-howl-deluxe-edition.json) |
@@ -5744,6 +5745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Kill Me Jacob!! JAM Ver. | 176482 | [176482-do-not-kill-me-jacob-jam-ver.json](./176482-do-not-kill-me-jacob-jam-ver.json) |
 | Do Not Look at the Moon | 309360 | [309360-do-not-look-at-the-moon.json](./309360-do-not-look-at-the-moon.json) |
 | Do Not Open | 183869 | [183869-do-not-open.json](./183869-do-not-open.json) |
+| Do Not Pass Go | 184967 | [184967-do-not-pass-go.json](./184967-do-not-pass-go.json) |
 | Do Not Play | 339989 | [339989-do-not-play.json](./339989-do-not-play.json) |
 | Do Not Touch | 266518 | [266518-do-not-touch.json](./266518-do-not-touch.json) |
 | Do or Die | 377199 | [377199-do-or-die.json](./377199-do-or-die.json) |
@@ -6347,6 +6349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Let Me Rot | 365209 | [365209-dont-let-me-rot.json](./365209-dont-let-me-rot.json) |
 | Don't Look | 177547 | [177547-dont-look.json](./177547-dont-look.json) |
 | Don't Look at Grandma | 375820 | [375820-dont-look-at-grandma.json](./375820-dont-look-at-grandma.json) |
+| Don't Look At Me | 184952 | [184952-dont-look-at-me.json](./184952-dont-look-at-me.json) |
 | Don't Look Away | 221188 | [221188-dont-look-away.json](./221188-dont-look-away.json) |
 | Don't Look Away 2 | 359078 | [359078-dont-look-away-2.json](./359078-dont-look-away-2.json) |
 | Don't Look Back | 343785 | [343785-dont-look-back.json](./343785-dont-look-back.json) |
@@ -6846,6 +6849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora and Friends | 230330 | [230330-dora-and-friends.json](./230330-dora-and-friends.json) |
 | Dora and the Three Little Pigs | 231378 | [231378-dora-and-the-three-little-pigs.json](./231378-dora-and-the-three-little-pigs.json) |
 | Dora Is Dead | 341089 | [341089-dora-is-dead.json](./341089-dora-is-dead.json) |
+| Dora Is Dead: Remastered | 184964 | [184964-dora-is-dead-remastered.json](./184964-dora-is-dead-remastered.json) |
 | Dora Kazu: Nobita no Suuji Daibouken | 142282 | [142282-dora-kazu-nobita-no-suuji-daibouken.json](./142282-dora-kazu-nobita-no-suuji-daibouken.json) |
 | Dora Laparoscopic Appendectomy | 343935 | [343935-dora-laparoscopic-appendectomy.json](./343935-dora-laparoscopic-appendectomy.json) |
 | Dora Star Explorer | 406776 | [406776-dora-star-explorer.json](./406776-dora-star-explorer.json) |
@@ -7854,6 +7858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonBox Elements | 276796 | [276796-dragonbox-elements.json](./276796-dragonbox-elements.json) |
 | DragonCrash | 101546 | [101546-dragoncrash.json](./101546-dragoncrash.json) |
 | Dragoncrest RPG: Arc 1 | 186715 | [186715-dragoncrest-rpg-arc-1.json](./186715-dragoncrest-rpg-arc-1.json) |
+| Dragondell | 184943 | [184943-dragondell.json](./184943-dragondell.json) |
 | Dragondot 3 | 135010 | [135010-dragondot-3.json](./135010-dragondot-3.json) |
 | Dragonea | 326064 | [326064-dragonea.json](./326064-dragonea.json) |
 | Dragonfall | 296937 | [296937-dragonfall.json](./296937-dragonfall.json) |
@@ -8798,6 +8803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drums Rock: Undertale - 'Hopes And Dreams' | 322215 | [322215-drums-rock-undertale-hopes-and-dreams.json](./322215-drums-rock-undertale-hopes-and-dreams.json) |
 | Drums Rock: Undertale - 'Megalovania' | 322214 | [322214-drums-rock-undertale-megalovania.json](./322214-drums-rock-undertale-megalovania.json) |
 | Drunk | 183068 | [183068-drunk.json](./183068-drunk.json) |
+| Drunk | 184963 | [184963-drunk.json](./184963-drunk.json) |
 | Drunk As I Like: Gensokyo Chugging Contest | 202334 | [202334-drunk-as-i-like-gensokyo-chugging-contest.json](./202334-drunk-as-i-like-gensokyo-chugging-contest.json) |
 | Drunk but Not Wasted Knight | 363398 | [363398-drunk-but-not-wasted-knight.json](./363398-drunk-but-not-wasted-knight.json) |
 | Drunk Dad Vs Family | 395778 | [395778-drunk-dad-vs-family.json](./395778-drunk-dad-vs-family.json) |
