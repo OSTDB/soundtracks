@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.2 | 328839 | [328839-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-2.json](./328839-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-2.json) |
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.3 | 304806 | [304806-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-3.json](./304806-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-3.json) |
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.4 | 304807 | [304807-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-4.json](./304807-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-4.json) |
+| Jigsaw Masterpieces EX: Kawaii Cute Goddesses | 173123 | [173123-jigsaw-masterpieces-ex-kawaii-cute-goddesses.json](./173123-jigsaw-masterpieces-ex-kawaii-cute-goddesses.json) |
 | Jigsaw Masterpieces: Beautiful Castles in Japan | 238219 | [238219-jigsaw-masterpieces-beautiful-castles-in-japan.json](./238219-jigsaw-masterpieces-beautiful-castles-in-japan.json) |
 | Jigsaw Masterpieces: Beautiful Castles in the World | 238220 | [238220-jigsaw-masterpieces-beautiful-castles-in-the-world.json](./238220-jigsaw-masterpieces-beautiful-castles-in-the-world.json) |
 | Jigsaw Masterpieces: Beautiful Sceneries in Japan | 238221 | [238221-jigsaw-masterpieces-beautiful-sceneries-in-japan.json](./238221-jigsaw-masterpieces-beautiful-sceneries-in-japan.json) |
@@ -1969,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkyard Builder Simulator | 174883 | [174883-junkyard-builder-simulator.json](./174883-junkyard-builder-simulator.json) |
 | Junkyard Builder Simulator | 390537 | [390537-junkyard-builder-simulator.json](./390537-junkyard-builder-simulator.json) |
 | Junkyard Builder: King Of Scrap | 414445 | [414445-junkyard-builder-king-of-scrap.json](./414445-junkyard-builder-king-of-scrap.json) |
+| Junkyard Fury | 173024 | [173024-junkyard-fury.json](./173024-junkyard-fury.json) |
 | Junkyard Jumble | 112308 | [112308-junkyard-jumble.json](./112308-junkyard-jumble.json) |
 | Junkyard Keeper | 208930 | [208930-junkyard-keeper.json](./208930-junkyard-keeper.json) |
 | Junkyard Rush Racing | 326268 | [326268-junkyard-rush-racing.json](./326268-junkyard-rush-racing.json) |
