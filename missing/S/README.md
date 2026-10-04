@@ -1849,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Attack | 81924 | [81924-scrap-attack.json](./81924-scrap-attack.json) |
 | Scrap Bringer | 172130 | [172130-scrap-bringer.json](./172130-scrap-bringer.json) |
 | Scrap Clicker | 397173 | [397173-scrap-clicker.json](./397173-scrap-clicker.json) |
+| Scrap Clicker 2 | 212705 | [212705-scrap-clicker-2.json](./212705-scrap-clicker-2.json) |
 | Scrap Dealer Simulator | 334136 | [334136-scrap-dealer-simulator.json](./334136-scrap-dealer-simulator.json) |
 | Scrap Divers | 334102 | [334102-scrap-divers.json](./334102-scrap-divers.json) |
 | Scrap Galaxy | 75021 | [75021-scrap-galaxy.json](./75021-scrap-galaxy.json) |
@@ -17892,6 +17893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swallowtail Butterfly Princess of Sexual Techniques | 82887 | [82887-swallowtail-butterfly-princess-of-sexual-techniques.json](./82887-swallowtail-butterfly-princess-of-sexual-techniques.json) |
 | Swallowtail: Ano Hi, Ao wo Koete | 402897 | [402897-swallowtail-ano-hi-ao-wo-koete.json](./402897-swallowtail-ano-hi-ao-wo-koete.json) |
 | Swam | 30179 | [30179-swam.json](./30179-swam.json) |
+| Swamp | 212696 | [212696-swamp.json](./212696-swamp.json) |
 | Swamp & Towne | 277956 | [277956-swamp-and-towne.json](./277956-swamp-and-towne.json) |
 | Swamp Alchemy | 182981 | [182981-swamp-alchemy.json](./182981-swamp-alchemy.json) |
 | Swamp and Luig | 417555 | [417555-swamp-and-luig.json](./417555-swamp-and-luig.json) |
