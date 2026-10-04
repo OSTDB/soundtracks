@@ -1395,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysian Eclipse | 236282 | [236282-elysian-eclipse.json](./236282-elysian-eclipse.json) |
 | Elysian Siege | 351637 | [351637-elysian-siege.json](./351637-elysian-siege.json) |
 | Elysion 2: Genes of the saints | 225882 | [225882-elysion-2-genes-of-the-saints.json](./225882-elysion-2-genes-of-the-saints.json) |
+| Elysion: Feeling of Release | 222366 | [222366-elysion-feeling-of-release.json](./222366-elysion-feeling-of-release.json) |
 | Elysium | 266763 | [266763-elysium.json](./266763-elysium.json) |
 | Elysium | 339126 | [339126-elysium.json](./339126-elysium.json) |
 | Elysium | 365227 | [365227-elysium.json](./365227-elysium.json) |
