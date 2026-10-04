@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man 99: The Tower of Druaga | 325052 | [325052-pac-man-99-the-tower-of-druaga.json](./325052-pac-man-99-the-tower-of-druaga.json) |
 | Pac-Man and the Ghostly Adventures | 19940 | [19940-pac-man-and-the-ghostly-adventures.json](./19940-pac-man-and-the-ghostly-adventures.json) |
 | Pac-Man Arcade Golf | 311667 | [311667-pac-man-arcade-golf.json](./311667-pac-man-arcade-golf.json) |
+| Pac-Man Arrangement | 178408 | [178408-pac-man-arrangement.json](./178408-pac-man-arrangement.json) |
 | Pac-Man Battle Royale | 66485 | [66485-pac-man-battle-royale.json](./66485-pac-man-battle-royale.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac-Man Collection | 308389 | [308389-pac-man-collection.json](./308389-pac-man-collection.json) |
@@ -437,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pair Room | 393806 | [393806-pair-room.json](./393806-pair-room.json) |
 | Pair Up | 303111 | [303111-pair-up.json](./303111-pair-up.json) |
 | Pair Up | 359395 | [359395-pair-up.json](./359395-pair-up.json) |
+| Pairidaeza | 178467 | [178467-pairidaeza.json](./178467-pairidaeza.json) |
 | Paironix | 408949 | [408949-paironix.json](./408949-paironix.json) |
 | Pairs | 91372 | [91372-pairs.json](./91372-pairs.json) |
 | Pairs & Perils | 315042 | [315042-pairs-and-perils.json](./315042-pairs-and-perils.json) |
@@ -3508,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilgrim Adventures Complete | 53459 | [53459-pilgrim-adventures-complete.json](./53459-pilgrim-adventures-complete.json) |
 | Pilgrim of Darkness | 346145 | [346145-pilgrim-of-darkness.json](./346145-pilgrim-of-darkness.json) |
 | Pilgrim: Faith as a Weapon | 71229 | [71229-pilgrim-faith-as-a-weapon.json](./71229-pilgrim-faith-as-a-weapon.json) |
+| Pilgrimage | 178481 | [178481-pilgrimage.json](./178481-pilgrimage.json) |
 | Pilgrimage | 59694 | [59694-pilgrimage.json](./59694-pilgrimage.json) |
 | PilgrimAge | 276763 | [276763-pilgrimage.json](./276763-pilgrimage.json) |
 | Pilki Filki 2 | 99987 | [99987-pilki-filki-2.json](./99987-pilki-filki-2.json) |
@@ -8696,6 +8699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prussia's Glory | 77384 | [77384-prussias-glory.json](./77384-prussias-glory.json) |
 | Pry into the Void | 187530 | [187530-pry-into-the-void.json](./187530-pry-into-the-void.json) |
 | Pryzm | 288789 | [288789-pryzm.json](./288789-pryzm.json) |
+| PS! Flash | 178483 | [178483-ps-flash.json](./178483-ps-flash.json) |
 | PS!Outertale | 313279 | [313279-ps-outertale.json](./313279-ps-outertale.json) |
 | Psalm VR | 343853 | [343853-psalm-vr.json](./343853-psalm-vr.json) |
 | Psebay | 43063 | [43063-psebay.json](./43063-psebay.json) |
