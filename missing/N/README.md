@@ -1942,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL 2K1 | 8843 | [8843-nfl-2k1.json](./8843-nfl-2k1.json) |
 | NFL Blitz | 19807 | [19807-nfl-blitz.json](./19807-nfl-blitz.json) |
 | NFL Blitz | 249135 | [249135-nfl-blitz.json](./249135-nfl-blitz.json) |
+| NFL Blitz 2000 | 217934 | [217934-nfl-blitz-2000.json](./217934-nfl-blitz-2000.json) |
 | NFL Blitz 2000 | 249126 | [249126-nfl-blitz-2000.json](./249126-nfl-blitz-2000.json) |
 | NFL Blitz 2000 | 4366 | [4366-nfl-blitz-2000.json](./4366-nfl-blitz-2000.json) |
 | NFL Blitz 2000: Gold Edition | 39598 | [39598-nfl-blitz-2000-gold-edition.json](./39598-nfl-blitz-2000-gold-edition.json) |
