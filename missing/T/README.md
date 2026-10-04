@@ -3417,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beardless Wizard | 54437 | [54437-the-beardless-wizard.json](./54437-the-beardless-wizard.json) |
 | The Bears and The Bees | 83618 | [83618-the-bears-and-the-bees.json](./83618-the-bears-and-the-bees.json) |
 | The Beast | 100210 | [100210-the-beast.json](./100210-the-beast.json) |
+| The Beast | 176856 | [176856-the-beast.json](./176856-the-beast.json) |
 | The Beast | 374223 | [374223-the-beast.json](./374223-the-beast.json) |
 | The Beast Inside | 88116 | [88116-the-beast-inside.json](./88116-the-beast-inside.json) |
 | The Beast Is yet to Come | 373685 | [373685-the-beast-is-yet-to-come.json](./373685-the-beast-is-yet-to-come.json) |
@@ -9192,6 +9193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Submerging Island | 253453 | [253453-the-submerging-island.json](./253453-the-submerging-island.json) |
 | The Subminer | 410344 | [410344-the-subminer.json](./410344-the-subminer.json) |
 | The Substance of Things | 174359 | [174359-the-substance-of-things.json](./174359-the-substance-of-things.json) |
+| The Suburb: Not Just Dinner | 176766 | [176766-the-suburb-not-just-dinner.json](./176766-the-suburb-not-just-dinner.json) |
 | The Succubi Trap | 74354 | [74354-the-succubi-trap.json](./74354-the-succubi-trap.json) |
 | The Sueño | 86088 | [86088-the-sueno.json](./86088-the-sueno.json) |
 | The Suicide Forest | 133428 | [133428-the-suicide-forest.json](./133428-the-suicide-forest.json) |
@@ -9999,6 +10001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Vegetables | 61617 | [61617-the-walking-vegetables.json](./61617-the-walking-vegetables.json) |
 | The Walking Zombie | 75798 | [75798-the-walking-zombie.json](./75798-the-walking-zombie.json) |
 | The Wall | 13086 | [13086-the-wall.json](./13086-the-wall.json) |
+| The Wall | 176849 | [176849-the-wall.json](./176849-the-wall.json) |
 | The Wall | 200750 | [200750-the-wall.json](./200750-the-wall.json) |
 | The Wall Mustn't Fall | 215793 | [215793-the-wall-mustnt-fall.json](./215793-the-wall-mustnt-fall.json) |
 | The Walls | 289952 | [289952-the-walls.json](./289952-the-walls.json) |
@@ -12797,6 +12800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Cure Man | 344510 | [344510-to-cure-man.json](./344510-to-cure-man.json) |
 | To Dawn and Back | 136847 | [136847-to-dawn-and-back.json](./136847-to-dawn-and-back.json) |
 | To Die in the Shade | 281425 | [281425-to-die-in-the-shade.json](./281425-to-die-in-the-shade.json) |
+| To Do List | 176834 | [176834-to-do-list.json](./176834-to-do-list.json) |
 | To Duel List | 151704 | [151704-to-duel-list.json](./151704-to-duel-list.json) |
 | To Dust | 259824 | [259824-to-dust.json](./259824-to-dust.json) |
 | To Eat A God | 326143 | [326143-to-eat-a-god.json](./326143-to-eat-a-god.json) |
@@ -15646,6 +15650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traitors in the Hood | 258081 | [258081-traitors-in-the-hood.json](./258081-traitors-in-the-hood.json) |
 | Trajectile | 91417 | [91417-trajectile.json](./91417-trajectile.json) |
 | Trajectory of summer flower Ⅱ | 289922 | [289922-trajectory-of-summer-flower-ii.json](./289922-trajectory-of-summer-flower-ii.json) |
+| Trajes Fatais Minimal | 176844 | [176844-trajes-fatais-minimal.json](./176844-trajes-fatais-minimal.json) |
 | Trajes Fatais: Suits of Fate | 124245 | [124245-trajes-fatais-suits-of-fate.json](./124245-trajes-fatais-suits-of-fate.json) |
 | Trakonius | 268220 | [268220-trakonius.json](./268220-trakonius.json) |
 | Tralalero Tralala Elephant Runner | 385069 | [385069-tralalero-tralala-elephant-runner.json](./385069-tralalero-tralala-elephant-runner.json) |
@@ -17373,6 +17378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Robots: Ultimate Edition | 86236 | [86236-twin-robots-ultimate-edition.json](./86236-twin-robots-ultimate-edition.json) |
 | Twin Rockets | 392290 | [392290-twin-rockets.json](./392290-twin-rockets.json) |
 | Twin Ruin | 119729 | [119729-twin-ruin.json](./119729-twin-ruin.json) |
+| Twin Shot | 176869 | [176869-twin-shot.json](./176869-twin-shot.json) |
 | Twin Shot 2: Good & Evil | 180291 | [180291-twin-shot-2-good-and-evil.json](./180291-twin-shot-2-good-and-evil.json) |
 | Twin Sisters Ballerina: Dance, Ballet, Dress up | 95845 | [95845-twin-sisters-ballerina-dance-ballet-dress-up.json](./95845-twin-sisters-ballerina-dance-ballet-dress-up.json) |
 | Twin Skies | 72775 | [72775-twin-skies.json](./72775-twin-skies.json) |
