@@ -595,6 +595,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zipple World 2: The Sweet Chaos | 33052 | [33052-zipple-world-2-the-sweet-chaos.json](./33052-zipple-world-2-the-sweet-chaos.json) |
 | Zippy Froger | 246376 | [246376-zippy-froger.json](./246376-zippy-froger.json) |
 | Zippy Race | 322775 | [322775-zippy-race.json](./322775-zippy-race.json) |
+| Zippy the Circle Challenge: Level 11C, Level 12C, and Level 13C | 213852 | [213852-zippy-the-circle-challenge-level-11c-level-12c-and-level-13c.json](./213852-zippy-the-circle-challenge-level-11c-level-12c-and-level-13c.json) |
+| Zippy the Circle Challenge: Level 1C and Level 2C | 213855 | [213855-zippy-the-circle-challenge-level-1c-and-level-2c.json](./213855-zippy-the-circle-challenge-level-1c-and-level-2c.json) |
+| Zippy the Circle Challenge: Level 3C and Level 4C | 213854 | [213854-zippy-the-circle-challenge-level-3c-and-level-4c.json](./213854-zippy-the-circle-challenge-level-3c-and-level-4c.json) |
+| Zippy the Circle Challenge: Level 5C, Level 6C, and Level 7C | 213853 | [213853-zippy-the-circle-challenge-level-5c-level-6c-and-level-7c.json](./213853-zippy-the-circle-challenge-level-5c-level-6c-and-level-7c.json) |
+| Zippy the Circle Challenge: Level 8C, Level 9C, and Level 10C | 213851 | [213851-zippy-the-circle-challenge-level-8c-level-9c-and-level-10c.json](./213851-zippy-the-circle-challenge-level-8c-level-9c-and-level-10c.json) |
 | Zippy the Porcupine | 18411 | [18411-zippy-the-porcupine.json](./18411-zippy-the-porcupine.json) |
 | Zippy Zombi | 73813 | [73813-zippy-zombi.json](./73813-zippy-zombi.json) |
 | Ziria | 106091 | [106091-ziria.json](./106091-ziria.json) |
