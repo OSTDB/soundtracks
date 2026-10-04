@@ -9425,13 +9425,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of TigerQiuQiu 2: 1952 M1 | 173734 | [173734-the-tower-of-tigerqiuqiu-2-1952-m1.json](./173734-the-tower-of-tigerqiuqiu-2-1952-m1.json) |
 | The Tower of TigerQiuQiu 2: 1952 M2 | 173738 | [173738-the-tower-of-tigerqiuqiu-2-1952-m2.json](./173738-the-tower-of-tigerqiuqiu-2-1952-m2.json) |
 | The Tower of TigerQiuQiu 2: 1952 M3 | 173739 | [173739-the-tower-of-tigerqiuqiu-2-1952-m3.json](./173739-the-tower-of-tigerqiuqiu-2-1952-m3.json) |
+| The Tower of TigerQiuQiu 2: 1952 M4 | 189496 | [189496-the-tower-of-tigerqiuqiu-2-1952-m4.json](./189496-the-tower-of-tigerqiuqiu-2-1952-m4.json) |
+| The Tower of TigerQiuQiu 2: 1952 M6 | 189494 | [189494-the-tower-of-tigerqiuqiu-2-1952-m6.json](./189494-the-tower-of-tigerqiuqiu-2-1952-m6.json) |
 | The Tower of TigerQiuQiu 2: 1952 M7 | 173735 | [173735-the-tower-of-tigerqiuqiu-2-1952-m7.json](./173735-the-tower-of-tigerqiuqiu-2-1952-m7.json) |
+| The Tower of TigerQiuQiu 2: 1952 M8 | 189502 | [189502-the-tower-of-tigerqiuqiu-2-1952-m8.json](./189502-the-tower-of-tigerqiuqiu-2-1952-m8.json) |
+| The Tower of TigerQiuQiu 2: 1952 M9 | 189510 | [189510-the-tower-of-tigerqiuqiu-2-1952-m9.json](./189510-the-tower-of-tigerqiuqiu-2-1952-m9.json) |
 | The Tower of TigerQiuQiu 2: Ball Break | 157696 | [157696-the-tower-of-tigerqiuqiu-2-ball-break.json](./157696-the-tower-of-tigerqiuqiu-2-ball-break.json) |
 | The Tower of TigerQiuQiu 2: Ball Eliminate | 157688 | [157688-the-tower-of-tigerqiuqiu-2-ball-eliminate.json](./157688-the-tower-of-tigerqiuqiu-2-ball-eliminate.json) |
 | The Tower of TigerQiuQiu 2: Ball Shooter | 157691 | [157691-the-tower-of-tigerqiuqiu-2-ball-shooter.json](./157691-the-tower-of-tigerqiuqiu-2-ball-shooter.json) |
 | The Tower of TigerQiuQiu 2: Ball Snake | 157683 | [157683-the-tower-of-tigerqiuqiu-2-ball-snake.json](./157683-the-tower-of-tigerqiuqiu-2-ball-snake.json) |
+| The Tower of TigerQiuQiu 2: Bomb M0 | 189515 | [189515-the-tower-of-tigerqiuqiu-2-bomb-m0.json](./189515-the-tower-of-tigerqiuqiu-2-bomb-m0.json) |
 | The Tower of TigerQiuQiu 2: Bomb M1 | 173733 | [173733-the-tower-of-tigerqiuqiu-2-bomb-m1.json](./173733-the-tower-of-tigerqiuqiu-2-bomb-m1.json) |
 | The Tower of TigerQiuQiu 2: Bomb M2 | 173732 | [173732-the-tower-of-tigerqiuqiu-2-bomb-m2.json](./173732-the-tower-of-tigerqiuqiu-2-bomb-m2.json) |
+| The Tower of TigerQiuQiu 2: Bomb M3 | 189503 | [189503-the-tower-of-tigerqiuqiu-2-bomb-m3.json](./189503-the-tower-of-tigerqiuqiu-2-bomb-m3.json) |
+| The Tower of TigerQiuQiu 2: Bomb M4 | 189531 | [189531-the-tower-of-tigerqiuqiu-2-bomb-m4.json](./189531-the-tower-of-tigerqiuqiu-2-bomb-m4.json) |
+| The Tower of TigerQiuQiu 2: Bomb M5 | 189524 | [189524-the-tower-of-tigerqiuqiu-2-bomb-m5.json](./189524-the-tower-of-tigerqiuqiu-2-bomb-m5.json) |
+| The Tower of TigerQiuQiu 2: Bomb M6 | 189527 | [189527-the-tower-of-tigerqiuqiu-2-bomb-m6.json](./189527-the-tower-of-tigerqiuqiu-2-bomb-m6.json) |
+| The Tower of TigerQiuQiu 2: Bomb M7 | 189521 | [189521-the-tower-of-tigerqiuqiu-2-bomb-m7.json](./189521-the-tower-of-tigerqiuqiu-2-bomb-m7.json) |
+| The Tower of TigerQiuQiu 2: Bomb M8 | 189505 | [189505-the-tower-of-tigerqiuqiu-2-bomb-m8.json](./189505-the-tower-of-tigerqiuqiu-2-bomb-m8.json) |
+| The Tower of TigerQiuQiu 2: Bomb M9 | 189504 | [189504-the-tower-of-tigerqiuqiu-2-bomb-m9.json](./189504-the-tower-of-tigerqiuqiu-2-bomb-m9.json) |
 | The Tower of TigerQiuQiu 2: Cat Eliminate | 157682 | [157682-the-tower-of-tigerqiuqiu-2-cat-eliminate.json](./157682-the-tower-of-tigerqiuqiu-2-cat-eliminate.json) |
 | The Tower of TigerQiuQiu 2: Cats Eliminate | 157692 | [157692-the-tower-of-tigerqiuqiu-2-cats-eliminate.json](./157692-the-tower-of-tigerqiuqiu-2-cats-eliminate.json) |
 | The Tower of TigerQiuQiu 2: Duck Eliminate | 157693 | [157693-the-tower-of-tigerqiuqiu-2-duck-eliminate.json](./157693-the-tower-of-tigerqiuqiu-2-duck-eliminate.json) |
@@ -9441,20 +9453,45 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of TigerQiuQiu 2: Flag Exam | 157677 | [157677-the-tower-of-tigerqiuqiu-2-flag-exam.json](./157677-the-tower-of-tigerqiuqiu-2-flag-exam.json) |
 | The Tower of TigerQiuQiu 2: Gem Three Elimin | 157699 | [157699-the-tower-of-tigerqiuqiu-2-gem-three-elimin.json](./157699-the-tower-of-tigerqiuqiu-2-gem-three-elimin.json) |
 | The Tower of TigerQiuQiu 2: Ninja Hill 0 | 173731 | [173731-the-tower-of-tigerqiuqiu-2-ninja-hill-0.json](./173731-the-tower-of-tigerqiuqiu-2-ninja-hill-0.json) |
+| The Tower of TigerQiuQiu 2: Ninja Hill 1 | 189528 | [189528-the-tower-of-tigerqiuqiu-2-ninja-hill-1.json](./189528-the-tower-of-tigerqiuqiu-2-ninja-hill-1.json) |
+| The Tower of TigerQiuQiu 2: Ninja Hill 2 | 189517 | [189517-the-tower-of-tigerqiuqiu-2-ninja-hill-2.json](./189517-the-tower-of-tigerqiuqiu-2-ninja-hill-2.json) |
 | The Tower of TigerQiuQiu 2: Ninja Hill 3 | 173730 | [173730-the-tower-of-tigerqiuqiu-2-ninja-hill-3.json](./173730-the-tower-of-tigerqiuqiu-2-ninja-hill-3.json) |
+| The Tower of TigerQiuQiu 2: Ninja Hill 4 | 189520 | [189520-the-tower-of-tigerqiuqiu-2-ninja-hill-4.json](./189520-the-tower-of-tigerqiuqiu-2-ninja-hill-4.json) |
 | The Tower of TigerQiuQiu 2: Ninja Hill 5 | 173741 | [173741-the-tower-of-tigerqiuqiu-2-ninja-hill-5.json](./173741-the-tower-of-tigerqiuqiu-2-ninja-hill-5.json) |
+| The Tower of TigerQiuQiu 2: Ninja Hill 6 | 189529 | [189529-the-tower-of-tigerqiuqiu-2-ninja-hill-6.json](./189529-the-tower-of-tigerqiuqiu-2-ninja-hill-6.json) |
+| The Tower of TigerQiuQiu 2: Ninja Hill 7 | 189532 | [189532-the-tower-of-tigerqiuqiu-2-ninja-hill-7.json](./189532-the-tower-of-tigerqiuqiu-2-ninja-hill-7.json) |
 | The Tower of TigerQiuQiu 2: Ninja Hill 8 | 173719 | [173719-the-tower-of-tigerqiuqiu-2-ninja-hill-8.json](./173719-the-tower-of-tigerqiuqiu-2-ninja-hill-8.json) |
+| The Tower of TigerQiuQiu 2: Ninja Hill 9 | 189511 | [189511-the-tower-of-tigerqiuqiu-2-ninja-hill-9.json](./189511-the-tower-of-tigerqiuqiu-2-ninja-hill-9.json) |
+| The Tower of TigerQiuQiu 2: Ocean M0 | 189533 | [189533-the-tower-of-tigerqiuqiu-2-ocean-m0.json](./189533-the-tower-of-tigerqiuqiu-2-ocean-m0.json) |
+| The Tower of TigerQiuQiu 2: Ocean M1 | 189508 | [189508-the-tower-of-tigerqiuqiu-2-ocean-m1.json](./189508-the-tower-of-tigerqiuqiu-2-ocean-m1.json) |
 | The Tower of TigerQiuQiu 2: Ocean M2 | 173717 | [173717-the-tower-of-tigerqiuqiu-2-ocean-m2.json](./173717-the-tower-of-tigerqiuqiu-2-ocean-m2.json) |
+| The Tower of TigerQiuQiu 2: Ocean M3 | 189507 | [189507-the-tower-of-tigerqiuqiu-2-ocean-m3.json](./189507-the-tower-of-tigerqiuqiu-2-ocean-m3.json) |
+| The Tower of TigerQiuQiu 2: Ocean M4 | 189513 | [189513-the-tower-of-tigerqiuqiu-2-ocean-m4.json](./189513-the-tower-of-tigerqiuqiu-2-ocean-m4.json) |
 | The Tower of TigerQiuQiu 2: Ocean M5 | 173727 | [173727-the-tower-of-tigerqiuqiu-2-ocean-m5.json](./173727-the-tower-of-tigerqiuqiu-2-ocean-m5.json) |
 | The Tower of TigerQiuQiu 2: Ocean M6 | 173726 | [173726-the-tower-of-tigerqiuqiu-2-ocean-m6.json](./173726-the-tower-of-tigerqiuqiu-2-ocean-m6.json) |
 | The Tower of TigerQiuQiu 2: Ocean M7 | 173736 | [173736-the-tower-of-tigerqiuqiu-2-ocean-m7.json](./173736-the-tower-of-tigerqiuqiu-2-ocean-m7.json) |
 | The Tower of TigerQiuQiu 2: Ocean M8 | 173722 | [173722-the-tower-of-tigerqiuqiu-2-ocean-m8.json](./173722-the-tower-of-tigerqiuqiu-2-ocean-m8.json) |
 | The Tower of TigerQiuQiu 2: Ocean M9 | 173729 | [173729-the-tower-of-tigerqiuqiu-2-ocean-m9.json](./173729-the-tower-of-tigerqiuqiu-2-ocean-m9.json) |
 | The Tower of TigerQiuQiu 2: Space Eliminate | 157681 | [157681-the-tower-of-tigerqiuqiu-2-space-eliminate.json](./157681-the-tower-of-tigerqiuqiu-2-space-eliminate.json) |
+| The Tower of TigerQiuQiu 2: Space Force M0 | 189518 | [189518-the-tower-of-tigerqiuqiu-2-space-force-m0.json](./189518-the-tower-of-tigerqiuqiu-2-space-force-m0.json) |
+| The Tower of TigerQiuQiu 2: Space Force M1 | 189526 | [189526-the-tower-of-tigerqiuqiu-2-space-force-m1.json](./189526-the-tower-of-tigerqiuqiu-2-space-force-m1.json) |
+| The Tower of TigerQiuQiu 2: Space Force M3 | 189501 | [189501-the-tower-of-tigerqiuqiu-2-space-force-m3.json](./189501-the-tower-of-tigerqiuqiu-2-space-force-m3.json) |
+| The Tower of TigerQiuQiu 2: Space Force M4 | 189498 | [189498-the-tower-of-tigerqiuqiu-2-space-force-m4.json](./189498-the-tower-of-tigerqiuqiu-2-space-force-m4.json) |
+| The Tower of TigerQiuQiu 2: Space Force M5 | 189506 | [189506-the-tower-of-tigerqiuqiu-2-space-force-m5.json](./189506-the-tower-of-tigerqiuqiu-2-space-force-m5.json) |
+| The Tower of TigerQiuQiu 2: Space Force M6 | 189509 | [189509-the-tower-of-tigerqiuqiu-2-space-force-m6.json](./189509-the-tower-of-tigerqiuqiu-2-space-force-m6.json) |
+| The Tower of TigerQiuQiu 2: Space Force M7 | 189514 | [189514-the-tower-of-tigerqiuqiu-2-space-force-m7.json](./189514-the-tower-of-tigerqiuqiu-2-space-force-m7.json) |
+| The Tower of TigerQiuQiu 2: Space Force M8 | 189512 | [189512-the-tower-of-tigerqiuqiu-2-space-force-m8.json](./189512-the-tower-of-tigerqiuqiu-2-space-force-m8.json) |
 | The Tower of TigerQiuQiu 2: Star Eliminate | 157685 | [157685-the-tower-of-tigerqiuqiu-2-star-eliminate.json](./157685-the-tower-of-tigerqiuqiu-2-star-eliminate.json) |
 | The Tower of TigerQiuQiu 2: Super Tigerio M0 | 173723 | [173723-the-tower-of-tigerqiuqiu-2-super-tigerio-m0.json](./173723-the-tower-of-tigerqiuqiu-2-super-tigerio-m0.json) |
+| The Tower of TigerQiuQiu 2: Super Tigerio M1 | 189519 | [189519-the-tower-of-tigerqiuqiu-2-super-tigerio-m1.json](./189519-the-tower-of-tigerqiuqiu-2-super-tigerio-m1.json) |
+| The Tower of TigerQiuQiu 2: Super Tigerio M2 | 189525 | [189525-the-tower-of-tigerqiuqiu-2-super-tigerio-m2.json](./189525-the-tower-of-tigerqiuqiu-2-super-tigerio-m2.json) |
+| The Tower of TigerQiuQiu 2: Super Tigerio M3 | 189516 | [189516-the-tower-of-tigerqiuqiu-2-super-tigerio-m3.json](./189516-the-tower-of-tigerqiuqiu-2-super-tigerio-m3.json) |
 | The Tower of TigerQiuQiu 2: Super Tigerio M4 | 173740 | [173740-the-tower-of-tigerqiuqiu-2-super-tigerio-m4.json](./173740-the-tower-of-tigerqiuqiu-2-super-tigerio-m4.json) |
+| The Tower of TigerQiuQiu 2: Super Tigerio M5 | 189495 | [189495-the-tower-of-tigerqiuqiu-2-super-tigerio-m5.json](./189495-the-tower-of-tigerqiuqiu-2-super-tigerio-m5.json) |
+| The Tower of TigerQiuQiu 2: Super Tigerio M6 | 189497 | [189497-the-tower-of-tigerqiuqiu-2-super-tigerio-m6.json](./189497-the-tower-of-tigerqiuqiu-2-super-tigerio-m6.json) |
 | The Tower of TigerQiuQiu 2: Super Tigerio M7 | 173718 | [173718-the-tower-of-tigerqiuqiu-2-super-tigerio-m7.json](./173718-the-tower-of-tigerqiuqiu-2-super-tigerio-m7.json) |
+| The Tower of TigerQiuQiu 2: Super Tigerio M8 | 189534 | [189534-the-tower-of-tigerqiuqiu-2-super-tigerio-m8.json](./189534-the-tower-of-tigerqiuqiu-2-super-tigerio-m8.json) |
+| The Tower of TigerQiuQiu 2: Super Tigerio M9 | 189522 | [189522-the-tower-of-tigerqiuqiu-2-super-tigerio-m9.json](./189522-the-tower-of-tigerqiuqiu-2-super-tigerio-m9.json) |
 | The Tower of TigerQiuQiu 2: Tiger Tank 70 | 157694 | [157694-the-tower-of-tigerqiuqiu-2-tiger-tank-70.json](./157694-the-tower-of-tigerqiuqiu-2-tiger-tank-70.json) |
 | The Tower of TigerQiuQiu 2: Tiger Tank 70 II | 157680 | [157680-the-tower-of-tigerqiuqiu-2-tiger-tank-70-ii.json](./157680-the-tower-of-tigerqiuqiu-2-tiger-tank-70-ii.json) |
 | The Tower of TigerQiuQiu 2: Tiger Tank 70 III | 157686 | [157686-the-tower-of-tigerqiuqiu-2-tiger-tank-70-iii.json](./157686-the-tower-of-tigerqiuqiu-2-tiger-tank-70-iii.json) |
@@ -9469,12 +9506,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of TigerQiuQiu 2: Warp Tiger M01 | 173721 | [173721-the-tower-of-tigerqiuqiu-2-warp-tiger-m01.json](./173721-the-tower-of-tigerqiuqiu-2-warp-tiger-m01.json) |
 | The Tower of TigerQiuQiu 2: Warp Tiger M02 | 173737 | [173737-the-tower-of-tigerqiuqiu-2-warp-tiger-m02.json](./173737-the-tower-of-tigerqiuqiu-2-warp-tiger-m02.json) |
 | The Tower of TigerQiuQiu 2: Warp Tiger M03 | 173725 | [173725-the-tower-of-tigerqiuqiu-2-warp-tiger-m03.json](./173725-the-tower-of-tigerqiuqiu-2-warp-tiger-m03.json) |
+| The Tower of TigerQiuQiu 2: Warp Tiger M04 | 189493 | [189493-the-tower-of-tigerqiuqiu-2-warp-tiger-m04.json](./189493-the-tower-of-tigerqiuqiu-2-warp-tiger-m04.json) |
 | The Tower of TigerQiuQiu 2: Warp Tiger M05 | 173715 | [173715-the-tower-of-tigerqiuqiu-2-warp-tiger-m05.json](./173715-the-tower-of-tigerqiuqiu-2-warp-tiger-m05.json) |
 | The Tower Of TigerQiuQiu 2: Warp Tiger M06 | 173724 | [173724-the-tower-of-tigerqiuqiu-2-warp-tiger-m06.json](./173724-the-tower-of-tigerqiuqiu-2-warp-tiger-m06.json) |
 | The Tower of TigerQiuQiu 2: Warp Tiger M07 | 173713 | [173713-the-tower-of-tigerqiuqiu-2-warp-tiger-m07.json](./173713-the-tower-of-tigerqiuqiu-2-warp-tiger-m07.json) |
+| The Tower of TigerQiuQiu 2: Warp Tiger M08 | 189500 | [189500-the-tower-of-tigerqiuqiu-2-warp-tiger-m08.json](./189500-the-tower-of-tigerqiuqiu-2-warp-tiger-m08.json) |
 | The Tower of TigerQiuQiu 2: Warp Tiger M09 | 173716 | [173716-the-tower-of-tigerqiuqiu-2-warp-tiger-m09.json](./173716-the-tower-of-tigerqiuqiu-2-warp-tiger-m09.json) |
+| The Tower Of TigerQiuQiu 2: Warp Tiger M10 | 189499 | [189499-the-tower-of-tigerqiuqiu-2-warp-tiger-m10.json](./189499-the-tower-of-tigerqiuqiu-2-warp-tiger-m10.json) |
+| The Tower of TigerQiuQiu 2: Warp Tiger M11 | 189523 | [189523-the-tower-of-tigerqiuqiu-2-warp-tiger-m11.json](./189523-the-tower-of-tigerqiuqiu-2-warp-tiger-m11.json) |
 | The Tower of TigerQiuQiu 2: Warp Tiger M12 | 173728 | [173728-the-tower-of-tigerqiuqiu-2-warp-tiger-m12.json](./173728-the-tower-of-tigerqiuqiu-2-warp-tiger-m12.json) |
 | The Tower of TigerQiuQiu 2: Warp Tiger M13 | 173720 | [173720-the-tower-of-tigerqiuqiu-2-warp-tiger-m13.json](./173720-the-tower-of-tigerqiuqiu-2-warp-tiger-m13.json) |
+| The Tower of TigerQiuQiu 2: Warp Tiger M14 | 189530 | [189530-the-tower-of-tigerqiuqiu-2-warp-tiger-m14.json](./189530-the-tower-of-tigerqiuqiu-2-warp-tiger-m14.json) |
 | The Tower of TigerQiuQiu: 4-way Dodge the ball | 157625 | [157625-the-tower-of-tigerqiuqiu-4-way-dodge-the-ball.json](./157625-the-tower-of-tigerqiuqiu-4-way-dodge-the-ball.json) |
 | The Tower of TigerQiuQiu: Armored Fighter Arena | 157665 | [157665-the-tower-of-tigerqiuqiu-armored-fighter-arena.json](./157665-the-tower-of-tigerqiuqiu-armored-fighter-arena.json) |
 | The Tower of TigerQiuQiu: Bomber the Falling Stone | 166138 | [166138-the-tower-of-tigerqiuqiu-bomber-the-falling-stone.json](./166138-the-tower-of-tigerqiuqiu-bomber-the-falling-stone.json) |
@@ -11152,15 +11194,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Fighter 1931: Sunset MP021 | 189567 | [189567-tiger-fighter-1931-sunset-mp021.json](./189567-tiger-fighter-1931-sunset-mp021.json) |
 | Tiger Fighter 1931: Sunset MP022 | 189568 | [189568-tiger-fighter-1931-sunset-mp022.json](./189568-tiger-fighter-1931-sunset-mp022.json) |
 | Tiger Fighter 1931: Sunset MP024 | 189557 | [189557-tiger-fighter-1931-sunset-mp024.json](./189557-tiger-fighter-1931-sunset-mp024.json) |
+| Tiger Fighter 1931: Sunset MP027 | 189537 | [189537-tiger-fighter-1931-sunset-mp027.json](./189537-tiger-fighter-1931-sunset-mp027.json) |
 | Tiger Fighter 1931: Sunset MP028 | 189549 | [189549-tiger-fighter-1931-sunset-mp028.json](./189549-tiger-fighter-1931-sunset-mp028.json) |
+| Tiger Fighter 1931: Sunset MP034 | 189536 | [189536-tiger-fighter-1931-sunset-mp034.json](./189536-tiger-fighter-1931-sunset-mp034.json) |
 | Tiger Fighter 1931: Sunset MP037 | 189553 | [189553-tiger-fighter-1931-sunset-mp037.json](./189553-tiger-fighter-1931-sunset-mp037.json) |
+| Tiger Fighter 1931: Sunset MP038 | 189540 | [189540-tiger-fighter-1931-sunset-mp038.json](./189540-tiger-fighter-1931-sunset-mp038.json) |
 | Tiger Fighter 1931: Sunset MP039 | 189574 | [189574-tiger-fighter-1931-sunset-mp039.json](./189574-tiger-fighter-1931-sunset-mp039.json) |
 | Tiger Fighter 1931: Sunset MP042 | 189564 | [189564-tiger-fighter-1931-sunset-mp042.json](./189564-tiger-fighter-1931-sunset-mp042.json) |
 | Tiger Fighter 1931: Sunset MP043 | 189571 | [189571-tiger-fighter-1931-sunset-mp043.json](./189571-tiger-fighter-1931-sunset-mp043.json) |
 | Tiger Fighter 1931: Sunset MP046 | 189561 | [189561-tiger-fighter-1931-sunset-mp046.json](./189561-tiger-fighter-1931-sunset-mp046.json) |
+| Tiger Fighter 1931: Sunset MP048 | 189538 | [189538-tiger-fighter-1931-sunset-mp048.json](./189538-tiger-fighter-1931-sunset-mp048.json) |
 | Tiger Fighter 1931: Sunset MP053 | 189560 | [189560-tiger-fighter-1931-sunset-mp053.json](./189560-tiger-fighter-1931-sunset-mp053.json) |
+| Tiger Fighter 1931: Sunset MP054 | 189542 | [189542-tiger-fighter-1931-sunset-mp054.json](./189542-tiger-fighter-1931-sunset-mp054.json) |
 | Tiger Fighter 1931: Sunset MP057 | 189565 | [189565-tiger-fighter-1931-sunset-mp057.json](./189565-tiger-fighter-1931-sunset-mp057.json) |
 | Tiger Fighter 1931: Sunset MP059 | 189570 | [189570-tiger-fighter-1931-sunset-mp059.json](./189570-tiger-fighter-1931-sunset-mp059.json) |
+| Tiger Fighter 1931: Sunset MP061 | 189539 | [189539-tiger-fighter-1931-sunset-mp061.json](./189539-tiger-fighter-1931-sunset-mp061.json) |
 | Tiger Fighter 1931: Sunset MP062 | 189558 | [189558-tiger-fighter-1931-sunset-mp062.json](./189558-tiger-fighter-1931-sunset-mp062.json) |
 | Tiger Fighter 1931: Sunset MP063 | 189559 | [189559-tiger-fighter-1931-sunset-mp063.json](./189559-tiger-fighter-1931-sunset-mp063.json) |
 | Tiger Fighter 1931: Sunset MP064 | 189572 | [189572-tiger-fighter-1931-sunset-mp064.json](./189572-tiger-fighter-1931-sunset-mp064.json) |
@@ -11170,9 +11218,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Fighter 1931: Sunset MP073 | 189548 | [189548-tiger-fighter-1931-sunset-mp073.json](./189548-tiger-fighter-1931-sunset-mp073.json) |
 | Tiger Fighter 1931: Sunset MP078 | 189566 | [189566-tiger-fighter-1931-sunset-mp078.json](./189566-tiger-fighter-1931-sunset-mp078.json) |
 | Tiger Fighter 1931: Sunset MP079 | 189547 | [189547-tiger-fighter-1931-sunset-mp079.json](./189547-tiger-fighter-1931-sunset-mp079.json) |
+| Tiger Fighter 1931: Sunset MP081 | 189535 | [189535-tiger-fighter-1931-sunset-mp081.json](./189535-tiger-fighter-1931-sunset-mp081.json) |
 | Tiger Fighter 1931: Sunset MP082 | 189577 | [189577-tiger-fighter-1931-sunset-mp082.json](./189577-tiger-fighter-1931-sunset-mp082.json) |
 | Tiger Fighter 1931: Sunset MP083 | 189554 | [189554-tiger-fighter-1931-sunset-mp083.json](./189554-tiger-fighter-1931-sunset-mp083.json) |
 | Tiger Fighter 1931: Sunset MP085 | 189569 | [189569-tiger-fighter-1931-sunset-mp085.json](./189569-tiger-fighter-1931-sunset-mp085.json) |
+| Tiger Fighter 1931: Sunset MP086 | 189541 | [189541-tiger-fighter-1931-sunset-mp086.json](./189541-tiger-fighter-1931-sunset-mp086.json) |
 | Tiger Fighter 1931: Sunset MP087 | 189556 | [189556-tiger-fighter-1931-sunset-mp087.json](./189556-tiger-fighter-1931-sunset-mp087.json) |
 | Tiger Fighter 1931: Sunset MP092 | 189575 | [189575-tiger-fighter-1931-sunset-mp092.json](./189575-tiger-fighter-1931-sunset-mp092.json) |
 | Tiger Fighter 1931: Sunset MP094 | 189552 | [189552-tiger-fighter-1931-sunset-mp094.json](./189552-tiger-fighter-1931-sunset-mp094.json) |
