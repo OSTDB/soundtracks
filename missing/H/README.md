@@ -6306,6 +6306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HunterX: Code Name T | 277836 | [277836-hunterx-code-name-t.json](./277836-hunterx-code-name-t.json) |
 | HunterxHunter | 175695 | [175695-hunterxhunter.json](./175695-hunterxhunter.json) |
 | Huntfeast | 147431 | [147431-huntfeast.json](./147431-huntfeast.json) |
+| HuntForOut | 207731 | [207731-huntforout.json](./207731-huntforout.json) |
 | Huntin' Adventure | 210054 | [210054-huntin-adventure.json](./210054-huntin-adventure.json) |
 | Hunting Arcade | 210055 | [210055-hunting-arcade.json](./210055-hunting-arcade.json) |
 | Hunting Challenge | 145561 | [145561-hunting-challenge.json](./145561-hunting-challenge.json) |
