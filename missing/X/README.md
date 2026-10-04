@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Zone | 42647 | [42647-x-zone.json](./42647-x-zone.json) |
 | X: Card of Fate | 37348 | [37348-x-card-of-fate.json](./37348-x-card-of-fate.json) |
 | X.E.T. Xen Exploration Team | 222306 | [222306-x-e-t-xen-exploration-team.json](./222306-x-e-t-xen-exploration-team.json) |
+| X'mas Painter | 206046 | [206046-xmas-painter.json](./206046-xmas-painter.json) |
 | X'Treme Roller | 205814 | [205814-xtreme-roller.json](./205814-xtreme-roller.json) |
 | X*L*C*R: Squiggly Snake II | 128471 | [128471-x-l-c-r-squiggly-snake-ii.json](./128471-x-l-c-r-squiggly-snake-ii.json) |
 | X10 | 307828 | [307828-x10.json](./307828-x10.json) |
