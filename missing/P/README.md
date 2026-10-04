@@ -6360,6 +6360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polymega Collection Vol.1: Asteroids | 324511 | [324511-polymega-collection-vol-1-asteroids.json](./324511-polymega-collection-vol-1-asteroids.json) |
 | Polymega Collection Vol.17: Gunbird | 387511 | [387511-polymega-collection-vol-17-gunbird.json](./387511-polymega-collection-vol-17-gunbird.json) |
 | Polymega Collection Vol.18: Rival Turf! | 387512 | [387512-polymega-collection-vol-18-rival-turf.json](./387512-polymega-collection-vol-18-rival-turf.json) |
+| Polymerikum | 180089 | [180089-polymerikum.json](./180089-polymerikum.json) |
 | Polymino | 264659 | [264659-polymino.json](./264659-polymino.json) |
 | Polynomial 2 | 24967 | [24967-polynomial-2.json](./24967-polynomial-2.json) |
 | Polyology | 33313 | [33313-polyology.json](./33313-polyology.json) |
