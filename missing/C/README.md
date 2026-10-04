@@ -5710,7 +5710,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: D-Blood | 139222 | [139222-code-d-blood.json](./139222-code-d-blood.json) |
 | Code: Dead Ends | 254612 | [254612-code-dead-ends.json](./254612-code-dead-ends.json) |
 | Code: Europe | 73848 | [73848-code-europe.json](./73848-code-europe.json) |
+| Code: Mirage | 193817 | [193817-code-mirage.json](./193817-code-mirage.json) |
 | Code: OOC | 413828 | [413828-code-ooc.json](./413828-code-ooc.json) |
+| Code: R | 193825 | [193825-code-r.json](./193825-code-r.json) |
 | Code: Realize - Future Blessings | 41821 | [41821-code-realize-future-blessings.json](./41821-code-realize-future-blessings.json) |
 | Code: Realize - Guardian of Rebirth | 19475 | [19475-code-realize-guardian-of-rebirth.json](./19475-code-realize-guardian-of-rebirth.json) |
 | Code: Realize ~Future Blessings~ Day One Edition | 136263 | [136263-code-realize-future-blessings-day-one-edition.json](./136263-code-realize-future-blessings-day-one-edition.json) |
@@ -6930,6 +6932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquela | 286605 | [286605-conquela.json](./286605-conquela.json) |
 | Conquer City Wars | 100333 | [100333-conquer-city-wars.json](./100333-conquer-city-wars.json) |
 | Conquer Humanity | 225687 | [225687-conquer-humanity.json](./225687-conquer-humanity.json) |
+| Conquer II | 193841 | [193841-conquer-ii.json](./193841-conquer-ii.json) |
 | Conquer Lands | 372464 | [372464-conquer-lands.json](./372464-conquer-lands.json) |
 | Conquer the Dungeon | 190720 | [190720-conquer-the-dungeon.json](./190720-conquer-the-dungeon.json) |
 | Conquer the Islands | 224085 | [224085-conquer-the-islands.json](./224085-conquer-the-islands.json) |
@@ -8036,6 +8039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy with a Gatling Gun | 184106 | [184106-cowboy-with-a-gatling-gun.json](./184106-cowboy-with-a-gatling-gun.json) |
 | Cowboy Yakuza | 130240 | [130240-cowboy-yakuza.json](./130240-cowboy-yakuza.json) |
 | Cowboys & Zombies VR | 226185 | [226185-cowboys-and-zombies-vr.json](./226185-cowboys-and-zombies-vr.json) |
+| Cowboys Galaxy Adventures | 193823 | [193823-cowboys-galaxy-adventures.json](./193823-cowboys-galaxy-adventures.json) |
 | Cowboys n' Stuff | 169386 | [169386-cowboys-n-stuff.json](./169386-cowboys-n-stuff.json) |
 | Cowboys vs. Monsters | 302096 | [302096-cowboys-vs-monsters.json](./302096-cowboys-vs-monsters.json) |
 | Cowboys vs. Zombies | 328545 | [328545-cowboys-vs-zombies.json](./328545-cowboys-vs-zombies.json) |
