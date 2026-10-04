@@ -1459,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emberwing: Lost Legacy - Collector's Edition | 416612 | [416612-emberwing-lost-legacy-collectors-edition.json](./416612-emberwing-lost-legacy-collectors-edition.json) |
 | Emberwood | 251723 | [251723-emberwood.json](./251723-emberwood.json) |
 | Emblems: Sunless Vow | 294291 | [294291-emblems-sunless-vow.json](./294291-emblems-sunless-vow.json) |
+| Embodiment | 211125 | [211125-embodiment.json](./211125-embodiment.json) |
 | Embr | 117312 | [117312-embr.json](./117312-embr.json) |
 | Embrace | 177866 | [177866-embrace.json](./177866-embrace.json) |
 | Embrace of Ocean: Story of Hope | 51956 | [51956-embrace-of-ocean-story-of-hope.json](./51956-embrace-of-ocean-story-of-hope.json) |
