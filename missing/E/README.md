@@ -3574,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Twin: Cyprien's Chronicles | 18332 | [18332-evil-twin-cypriens-chronicles.json](./18332-evil-twin-cypriens-chronicles.json) |
 | Evil Unleashed | 269118 | [269118-evil-unleashed.json](./269118-evil-unleashed.json) |
 | Evil Water Ep1 | 339380 | [339380-evil-water-ep1.json](./339380-evil-water-ep1.json) |
+| Evil West: Signature Edition | 223534 | [223534-evil-west-signature-edition.json](./223534-evil-west-signature-edition.json) |
 | Evil World Hopsca | 336001 | [336001-evil-world-hopsca.json](./336001-evil-world-hopsca.json) |
 | Evil Zombies: Death on the Road | 232158 | [232158-evil-zombies-death-on-the-road.json](./232158-evil-zombies-death-on-the-road.json) |
 | Evil, My Friend | 185547 | [185547-evil-my-friend.json](./185547-evil-my-friend.json) |
