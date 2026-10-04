@@ -2667,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden | 175905 | [175905-ninja-gaiden.json](./175905-ninja-gaiden.json) |
 | Ninja Gaiden | 198837 | [198837-ninja-gaiden.json](./198837-ninja-gaiden.json) |
 | Ninja Gaiden | 198839 | [198839-ninja-gaiden.json](./198839-ninja-gaiden.json) |
+| Ninja Gaiden | 221646 | [221646-ninja-gaiden.json](./221646-ninja-gaiden.json) |
 | Ninja Gaiden | 239925 | [239925-ninja-gaiden.json](./239925-ninja-gaiden.json) |
 | Ninja Gaiden 3 | 7122 | [7122-ninja-gaiden-3.json](./7122-ninja-gaiden-3.json) |
 | Ninja Gaiden 3: Collector's Edition | 47464 | [47464-ninja-gaiden-3-collectors-edition.json](./47464-ninja-gaiden-3-collectors-edition.json) |
@@ -3038,10 +3039,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Home | 346645 | [346645-no-mans-home.json](./346645-no-mans-home.json) |
 | No Man's Land | 377282 | [377282-no-mans-land.json](./377282-no-mans-land.json) |
 | No Man's Sky: Aquarius | 315656 | [315656-no-mans-sky-aquarius.json](./315656-no-mans-sky-aquarius.json) |
+| No Man's Sky: Companions | 221636 | [221636-no-mans-sky-companions.json](./221636-no-mans-sky-companions.json) |
 | No Man's Sky: Desolation | 221742 | [221742-no-mans-sky-desolation.json](./221742-no-mans-sky-desolation.json) |
 | No Man's Sky: Living Ship | 222237 | [222237-no-mans-sky-living-ship.json](./222237-no-mans-sky-living-ship.json) |
+| No Man's Sky: Next Generation | 221637 | [221637-no-mans-sky-next-generation.json](./221637-no-mans-sky-next-generation.json) |
 | No Man's Sky: Nintendo Switch Edition | 191418 | [191418-no-mans-sky-nintendo-switch-edition.json](./191418-no-mans-sky-nintendo-switch-edition.json) |
 | No Man's Sky: Omega | 287088 | [287088-no-mans-sky-omega.json](./287088-no-mans-sky-omega.json) |
+| No Man's Sky: Origins | 221638 | [221638-no-mans-sky-origins.json](./221638-no-mans-sky-origins.json) |
 | No Man's Sky: Starborn Phoenix Ship | 325562 | [325562-no-mans-sky-starborn-phoenix-ship.json](./325562-no-mans-sky-starborn-phoenix-ship.json) |
 | No Man's Sky: Synthesis | 222424 | [222424-no-mans-sky-synthesis.json](./222424-no-mans-sky-synthesis.json) |
 | No Man's Sky: The Swarm | 403195 | [403195-no-mans-sky-the-swarm.json](./403195-no-mans-sky-the-swarm.json) |
