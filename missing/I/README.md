@@ -1833,6 +1833,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inertia | 261311 | [261311-inertia.json](./261311-inertia.json) |
 | Inertia | 54694 | [54694-inertia.json](./54694-inertia.json) |
 | Inertia Ball | 264803 | [264803-inertia-ball.json](./264803-inertia-ball.json) |
+| Inertia: Redux | 208838 | [208838-inertia-redux.json](./208838-inertia-redux.json) |
+| Inertia: Redux | 208858 | [208858-inertia-redux.json](./208858-inertia-redux.json) |
 | Inertial Drift | 127770 | [127770-inertial-drift.json](./127770-inertial-drift.json) |
 | Inertial Drift: Twilight Rivals Edition | 203517 | [203517-inertial-drift-twilight-rivals-edition.json](./203517-inertial-drift-twilight-rivals-edition.json) |
 | Ines | 340925 | [340925-ines.json](./340925-ines.json) |
@@ -3057,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Reckoning | 158150 | [158150-iron-reckoning.json](./158150-iron-reckoning.json) |
 | Iron Reich | 157194 | [157194-iron-reich.json](./157194-iron-reich.json) |
 | Iron Roses | 16063 | [16063-iron-roses.json](./16063-iron-roses.json) |
+| Iron Ruler | 208827 | [208827-iron-ruler.json](./208827-iron-ruler.json) |
 | Iron Saga VS | 273641 | [273641-iron-saga-vs.json](./273641-iron-saga-vs.json) |
 | Iron Sea: The West Coast | 157571 | [157571-iron-sea-the-west-coast.json](./157571-iron-sea-the-west-coast.json) |
 | Iron Shadow: Survival Protocol | 371472 | [371472-iron-shadow-survival-protocol.json](./371472-iron-shadow-survival-protocol.json) |
