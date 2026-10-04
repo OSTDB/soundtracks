@@ -1959,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Town Tales | 235209 | [235209-dead-town-tales.json](./235209-dead-town-tales.json) |
 | Dead TrailZ | 35753 | [35753-dead-trailz.json](./35753-dead-trailz.json) |
 | Dead Train | 208435 | [208435-dead-train.json](./208435-dead-train.json) |
+| Dead Transmission | 190033 | [190033-dead-transmission.json](./190033-dead-transmission.json) |
 | Dead Trash: Operation - Yellow Snow | 380557 | [380557-dead-trash-operation-yellow-snow.json](./380557-dead-trash-operation-yellow-snow.json) |
 | Dead Trigger | 36747 | [36747-dead-trigger.json](./36747-dead-trigger.json) |
 | Dead Trigger 2 | 36748 | [36748-dead-trigger-2.json](./36748-dead-trigger-2.json) |
@@ -3993,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devestor | 375808 | [375808-devestor.json](./375808-devestor.json) |
 | Devi & Pii | 215752 | [215752-devi-and-pii.json](./215752-devi-and-pii.json) |
 | Deviant Dungeon | 127931 | [127931-deviant-dungeon.json](./127931-deviant-dungeon.json) |
+| Deviation from Way | 190025 | [190025-deviation-from-way.json](./190025-deviation-from-way.json) |
 | Device | 150165 | [150165-device.json](./150165-device.json) |
 | Device 0101 | 294844 | [294844-device-0101.json](./294844-device-0101.json) |
 | Device 6 | 6279 | [6279-device-6.json](./6279-device-6.json) |
@@ -4064,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Crown | 13592 | [13592-devils-crown.json](./13592-devils-crown.json) |
 | Devil's Dare | 8798 | [8798-devils-dare.json](./8798-devils-dare.json) |
 | Devil's Deck: Astray Destiny | 207370 | [207370-devils-deck-astray-destiny.json](./207370-devils-deck-astray-destiny.json) |
+| Devil's Dungeon | 190051 | [190051-devils-dungeon.json](./190051-devils-dungeon.json) |
 | Devil's Food | 301952 | [301952-devils-food.json](./301952-devils-food.json) |
 | Devil's Gold | 166056 | [166056-devils-gold.json](./166056-devils-gold.json) |
 | Devil's Heaven | 277377 | [277377-devils-heaven.json](./277377-devils-heaven.json) |
