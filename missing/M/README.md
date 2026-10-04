@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia III: Faster, Baby! | 39761 | [39761-mafia-iii-faster-baby.json](./39761-mafia-iii-faster-baby.json) |
 | Mafia in Town | 239756 | [239756-mafia-in-town.json](./239756-mafia-in-town.json) |
 | Mafia Infiltration | 379044 | [379044-mafia-infiltration.json](./379044-mafia-infiltration.json) |
+| Mafia King | 220167 | [220167-mafia-king.json](./220167-mafia-king.json) |
 | Mafia Live! | 78327 | [78327-mafia-live.json](./78327-mafia-live.json) |
 | Mafia Online | 266991 | [266991-mafia-online.json](./266991-mafia-online.json) |
 | Mafia Online | 403813 | [403813-mafia-online.json](./403813-mafia-online.json) |
@@ -9320,6 +9321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouthwashing | 264410 | [264410-mouthwashing.json](./264410-mouthwashing.json) |
 | Movafort | 212190 | [212190-movafort.json](./212190-movafort.json) |
 | Move 78 | 157207 | [157207-move-78.json](./157207-move-78.json) |
+| Move Animals | 220160 | [220160-move-animals.json](./220160-move-animals.json) |
 | Move Ball to Green | 291518 | [291518-move-ball-to-green.json](./291518-move-ball-to-green.json) |
 | Move Blocks | 285454 | [285454-move-blocks.json](./285454-move-blocks.json) |
 | Move Code Lines | 284561 | [284561-move-code-lines.json](./284561-move-code-lines.json) |
