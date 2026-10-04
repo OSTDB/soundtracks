@@ -1311,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make it! Pancakes | 364080 | [364080-make-it-pancakes.json](./364080-make-it-pancakes.json) |
 | Make it! Shaved Ice | 409545 | [409545-make-it-shaved-ice.json](./409545-make-it-shaved-ice.json) |
 | Make it! Sushi | 347327 | [347327-make-it-sushi.json](./347327-make-it-sushi.json) |
+| Make Love Not War | 208244 | [208244-make-love-not-war.json](./208244-make-love-not-war.json) |
 | Make Magic Great Again | 391031 | [391031-make-magic-great-again.json](./391031-make-magic-great-again.json) |
 | Make me Float | 236959 | [236959-make-me-float.json](./236959-make-me-float.json) |
 | Make Merits in Another World | 370193 | [370193-make-merits-in-another-world.json](./370193-make-merits-in-another-world.json) |
@@ -3150,6 +3151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Axe | 343970 | [343970-max-axe.json](./343970-max-axe.json) |
 | Max Beyond | 259519 | [259519-max-beyond.json](./259519-max-beyond.json) |
 | Max Bradshaw and the Zombie Invasion | 197250 | [197250-max-bradshaw-and-the-zombie-invasion.json](./197250-max-bradshaw-and-the-zombie-invasion.json) |
+| Max Capacitor | 208258 | [208258-max-capacitor.json](./208258-max-capacitor.json) |
 | Max Craft 2: New World HD | 96703 | [96703-max-craft-2-new-world-hd.json](./96703-max-craft-2-new-world-hd.json) |
 | Max Cross | 413621 | [413621-max-cross.json](./413621-max-cross.json) |
 | Max Downforce | 182948 | [182948-max-downforce.json](./182948-max-downforce.json) |
@@ -3327,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Machina | 119646 | [119646-maze-machina.json](./119646-maze-machina.json) |
 | Maze Madness | 101598 | [101598-maze-madness.json](./101598-maze-madness.json) |
 | Maze Maid | 287656 | [287656-maze-maid.json](./287656-maze-maid.json) |
+| Maze Mart | 208248 | [208248-maze-mart.json](./208248-maze-mart.json) |
 | Maze Master | 94010 | [94010-maze-master.json](./94010-maze-master.json) |
 | Maze Masters | 148913 | [148913-maze-masters.json](./148913-maze-masters.json) |
 | Maze Ninja | 115141 | [115141-maze-ninja.json](./115141-maze-ninja.json) |
@@ -8059,6 +8062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Collector | 143647 | [143647-monster-collector.json](./143647-monster-collector.json) |
 | Monster Combine TD | 85615 | [85615-monster-combine-td.json](./85615-monster-combine-td.json) |
 | Monster Commanders | 310720 | [310720-monster-commanders.json](./310720-monster-commanders.json) |
+| Monster Company | 208241 | [208241-monster-company.json](./208241-monster-company.json) |
 | Monster Crown: Sin Eater | 327715 | [327715-monster-crown-sin-eater.json](./327715-monster-crown-sin-eater.json) |
 | Monster Dash | 18497 | [18497-monster-dash.json](./18497-monster-dash.json) |
 | Monster Demolition | 261416 | [261416-monster-demolition.json](./261416-monster-demolition.json) |
@@ -10252,6 +10256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV Legends: KTM Pack | 259753 | [259753-mx-vs-atv-legends-ktm-pack.json](./259753-mx-vs-atv-legends-ktm-pack.json) |
 | MX vs. ATV Legends: Track Pass | 350652 | [350652-mx-vs-atv-legends-track-pass.json](./350652-mx-vs-atv-legends-track-pass.json) |
 | MX vs. ATV: All Out - Anniversary Edition | 115472 | [115472-mx-vs-atv-all-out-anniversary-edition.json](./115472-mx-vs-atv-all-out-anniversary-edition.json) |
+| MX vs. ATV: Legends - 2022 AMA Pro Motocross Championship | 208228 | [208228-mx-vs-atv-legends-2022-ama-pro-motocross-championship.json](./208228-mx-vs-atv-legends-2022-ama-pro-motocross-championship.json) |
 | MX vs. ATV: Legends - 2023 Track Pass | 287113 | [287113-mx-vs-atv-legends-2023-track-pass.json](./287113-mx-vs-atv-legends-2023-track-pass.json) |
 | MX vs. ATV: Legends - 2024 AMA Pro Motocross Championship | 302034 | [302034-mx-vs-atv-legends-2024-ama-pro-motocross-championship.json](./302034-mx-vs-atv-legends-2024-ama-pro-motocross-championship.json) |
 | MX vs. ATV: Legends - 2024 Monster Energy Supercross Championship | 295398 | [295398-mx-vs-atv-legends-2024-monster-energy-supercross-championship.json](./295398-mx-vs-atv-legends-2024-monster-energy-supercross-championship.json) |
