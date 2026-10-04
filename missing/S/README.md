@@ -4170,6 +4170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheesh Adventures | 58492 | [58492-sheesh-adventures.json](./58492-sheesh-adventures.json) |
 | Shei Toule Wo de Nu Pengyou | 322344 | [322344-shei-toule-wo-de-nu-pengyou.json](./322344-shei-toule-wo-de-nu-pengyou.json) |
 | Shel: The Cure | 367565 | [367565-shel-the-cure.json](./367565-shel-the-cure.json) |
+| Sheldon Cooper Presents Fun with Flags | 180632 | [180632-sheldon-cooper-presents-fun-with-flags.json](./180632-sheldon-cooper-presents-fun-with-flags.json) |
 | Shelf | 278694 | [278694-shelf.json](./278694-shelf.json) |
 | Shelf Happens | 419828 | [419828-shelf-happens.json](./419828-shelf-happens.json) |
 | Shelf Heroes | 336147 | [336147-shelf-heroes.json](./336147-shelf-heroes.json) |
@@ -10422,6 +10423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Plane | 160216 | [160216-space-plane.json](./160216-space-plane.json) |
 | Space Planet Invader: Cosmic Power | 305788 | [305788-space-planet-invader-cosmic-power.json](./305788-space-planet-invader-cosmic-power.json) |
 | Space Pop: Bubble Shooter | 239705 | [239705-space-pop-bubble-shooter.json](./239705-space-pop-bubble-shooter.json) |
+| Space Postman Story | 180647 | [180647-space-postman-story.json](./180647-space-postman-story.json) |
 | Space Prevention Force | 179110 | [179110-space-prevention-force.json](./179110-space-prevention-force.json) |
 | Space Pricks | 248641 | [248641-space-pricks.json](./248641-space-pricks.json) |
 | Space puzzle | 152724 | [152724-space-puzzle.json](./152724-space-puzzle.json) |
@@ -10708,6 +10710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceship Survivors | 244732 | [244732-spaceship-survivors.json](./244732-spaceship-survivors.json) |
 | Spaceship Tactics | 338269 | [338269-spaceship-tactics.json](./338269-spaceship-tactics.json) |
 | Spaceship Trouble | 166705 | [166705-spaceship-trouble.json](./166705-spaceship-trouble.json) |
+| SpaceShooter | 180654 | [180654-spaceshooter.json](./180654-spaceshooter.json) |
 | SpaceShooter | 413900 | [413900-spaceshooter.json](./413900-spaceshooter.json) |
 | Spaceslingers | 150489 | [150489-spaceslingers.json](./150489-spaceslingers.json) |
 | SpaceSlog | 197908 | [197908-spaceslog.json](./197908-spaceslog.json) |
@@ -15187,6 +15190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Four: The Uncle | 110146 | [110146-sub-four-the-uncle.json](./110146-sub-four-the-uncle.json) |
 | Sub Game | 316079 | [316079-sub-game.json](./316079-sub-game.json) |
 | Sub Hunt | 5707 | [5707-sub-hunt.json](./5707-sub-hunt.json) |
+| Sub Hunter | 180661 | [180661-sub-hunter.json](./180661-sub-hunter.json) |
 | Sub Optimal Co. | 345047 | [345047-sub-optimal-co.json](./345047-sub-optimal-co.json) |
 | Sub Rebellion | 43329 | [43329-sub-rebellion.json](./43329-sub-rebellion.json) |
 | Sub Rosa | 16951 | [16951-sub-rosa.json](./16951-sub-rosa.json) |
@@ -15280,6 +15284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SubterAlien Rescue | 157504 | [157504-subteralien-rescue.json](./157504-subteralien-rescue.json) |
 | Subterrain: Mines of Titan | 155497 | [155497-subterrain-mines-of-titan.json](./155497-subterrain-mines-of-titan.json) |
 | Subterranea | 55205 | [55205-subterranea.json](./55205-subterranea.json) |
+| Subterranean | 180637 | [180637-subterranean.json](./180637-subterranean.json) |
 | Subterranean Detectives Orin and Satori | 185591 | [185591-subterranean-detectives-orin-and-satori.json](./185591-subterranean-detectives-orin-and-satori.json) |
 | Subterranean Library | 271304 | [271304-subterranean-library.json](./271304-subterranean-library.json) |
 | Subterranean Siege | 271495 | [271495-subterranean-siege.json](./271495-subterranean-siege.json) |
@@ -15957,6 +15962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Shores | 294794 | [294794-sunset-shores.json](./294794-sunset-shores.json) |
 | Sunset Solitaire | 302071 | [302071-sunset-solitaire.json](./302071-sunset-solitaire.json) |
 | Sunset Sprout | 348460 | [348460-sunset-sprout.json](./348460-sunset-sprout.json) |
+| Sunset Squid | 180659 | [180659-sunset-squid.json](./180659-sunset-squid.json) |
 | Sunset Street Ninja | 375943 | [375943-sunset-street-ninja.json](./375943-sunset-street-ninja.json) |
 | Sunset Studio | 145012 | [145012-sunset-studio.json](./145012-sunset-studio.json) |
 | Sunset Survival Station | 258973 | [258973-sunset-survival-station.json](./258973-sunset-survival-station.json) |
