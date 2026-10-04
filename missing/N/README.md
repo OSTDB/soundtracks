@@ -2747,6 +2747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden: Master Collection - Version D | 222501 | [222501-ninja-gaiden-master-collection-version-d.json](./222501-ninja-gaiden-master-collection-version-d.json) |
 | Ninja Game | 376639 | [376639-ninja-game.json](./376639-ninja-game.json) |
 | Ninja Games | 360175 | [360175-ninja-games.json](./360175-ninja-games.json) |
+| Ninja Gang Atack | 177289 | [177289-ninja-gang-atack.json](./177289-ninja-gang-atack.json) |
 | Ninja Gardening Simulator | 281531 | [281531-ninja-gardening-simulator.json](./281531-ninja-gardening-simulator.json) |
 | Ninja Gear | 322583 | [322583-ninja-gear.json](./322583-ninja-gear.json) |
 | Ninja Girl | 158543 | [158543-ninja-girl.json](./158543-ninja-girl.json) |
@@ -3173,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Rules Box! | 301815 | [301815-no-rules-box.json](./301815-no-rules-box.json) |
 | No Senses | 198236 | [198236-no-senses.json](./198236-no-senses.json) |
 | No Service | 391030 | [391030-no-service.json](./391030-no-service.json) |
+| No Sidewalks in the Mushroom Kingdom | 177296 | [177296-no-sidewalks-in-the-mushroom-kingdom.json](./177296-no-sidewalks-in-the-mushroom-kingdom.json) |
 | No Signal Escape Room | 413624 | [413624-no-signal-escape-room.json](./413624-no-signal-escape-room.json) |
 | No Skirt Convenience Shop | 212193 | [212193-no-skirt-convenience-shop.json](./212193-no-skirt-convenience-shop.json) |
 | No Sleep for Sole | 267362 | [267362-no-sleep-for-sole.json](./267362-no-sleep-for-sole.json) |
@@ -3344,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturnal Nemesis | 341483 | [341483-nocturnal-nemesis.json](./341483-nocturnal-nemesis.json) |
 | Nocturnal Quest | 386416 | [386416-nocturnal-quest.json](./386416-nocturnal-quest.json) |
 | Nocturnal Throne | 373732 | [373732-nocturnal-throne.json](./373732-nocturnal-throne.json) |
+| Nocturnal Visit | 177290 | [177290-nocturnal-visit.json](./177290-nocturnal-visit.json) |
 | Nocturnal Visitors | 226134 | [226134-nocturnal-visitors.json](./226134-nocturnal-visitors.json) |
 | Nocturnal Visitors: Book One | 370152 | [370152-nocturnal-visitors-book-one.json](./370152-nocturnal-visitors-book-one.json) |
 | Nocturnal Whispers | 356632 | [356632-nocturnal-whispers.json](./356632-nocturnal-whispers.json) |
