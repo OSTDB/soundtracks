@@ -3323,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dennis the Menace Redux | 219078 | [219078-dennis-the-menace-redux.json](./219078-dennis-the-menace-redux.json) |
 | Dennou Hyouryuu: Multimedia Cruising | 243209 | [243209-dennou-hyouryuu-multimedia-cruising.json](./243209-dennou-hyouryuu-multimedia-cruising.json) |
 | Dennou Sentai Lavian Three | 67268 | [67268-dennou-sentai-lavian-three.json](./67268-dennou-sentai-lavian-three.json) |
+| Dennou Taisen: DroneZ | 202162 | [202162-dennou-taisen-dronez.json](./202162-dennou-taisen-dronez.json) |
 | Denny's Atari Remix | 305367 | [305367-dennys-atari-remix.json](./305367-dennys-atari-remix.json) |
 | Denos City | 385858 | [385858-denos-city.json](./385858-denos-city.json) |
 | Denpa Ningen no RPG 2 | 221987 | [221987-denpa-ningen-no-rpg-2.json](./221987-denpa-ningen-no-rpg-2.json) |
@@ -3533,6 +3534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Kingdom Portable: Limited Edition | 44510 | [44510-desert-kingdom-portable-limited-edition.json](./44510-desert-kingdom-portable-limited-edition.json) |
 | Desert Kingdoms 2 | 303473 | [303473-desert-kingdoms-2.json](./303473-desert-kingdoms-2.json) |
 | Desert Lions | 335459 | [335459-desert-lions.json](./335459-desert-lions.json) |
+| Desert Lost | 202200 | [202200-desert-lost.json](./202200-desert-lost.json) |
 | Desert of Doitjma | 128437 | [128437-desert-of-doitjma.json](./128437-desert-of-doitjma.json) |
 | Desert Of The Undead New Frontiers | 296364 | [296364-desert-of-the-undead-new-frontiers.json](./296364-desert-of-the-undead-new-frontiers.json) |
 | Desert of Vice | 95169 | [95169-desert-of-vice.json](./95169-desert-of-vice.json) |
@@ -7187,6 +7189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mario: Vitamin Toss | 231636 | [231636-dr-mario-vitamin-toss.json](./231636-dr-mario-vitamin-toss.json) |
 | Dr. Mary | 268447 | [268447-dr-mary.json](./268447-dr-mary.json) |
 | Dr. Maybee and the Adventures of Scarygirl | 44514 | [44514-dr-maybee-and-the-adventures-of-scarygirl.json](./44514-dr-maybee-and-the-adventures-of-scarygirl.json) |
+| Dr. Mini Games | 202163 | [202163-dr-mini-games.json](./202163-dr-mini-games.json) |
 | Dr. Moonlight's Happyworld | 387515 | [387515-dr-moonlights-happyworld.json](./387515-dr-moonlights-happyworld.json) |
 | Dr. Murph | 304703 | [304703-dr-murph.json](./304703-dr-murph.json) |
 | Dr. Neo Cortex: Inventor's Madness | 314661 | [314661-dr-neo-cortex-inventors-madness.json](./314661-dr-neo-cortex-inventors-madness.json) |
