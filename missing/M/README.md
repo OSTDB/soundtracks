@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maelslime | 379864 | [379864-maelslime.json](./379864-maelslime.json) |
 | Maelstrom | 146173 | [146173-maelstrom.json](./146173-maelstrom.json) |
 | Maelstrom | 207802 | [207802-maelstrom.json](./207802-maelstrom.json) |
+| Maelstrom Legacy: The Tesla Mystery | 207714 | [207714-maelstrom-legacy-the-tesla-mystery.json](./207714-maelstrom-legacy-the-tesla-mystery.json) |
 | Maelstrom: The Battle for Earth Begins | 10134 | [10134-maelstrom-the-battle-for-earth-begins.json](./10134-maelstrom-the-battle-for-earth-begins.json) |
 | Maelstrom: The Battle for Earth Begins Enhanced | 385595 | [385595-maelstrom-the-battle-for-earth-begins-enhanced.json](./385595-maelstrom-the-battle-for-earth-begins-enhanced.json) |
 | Maenovan | 168123 | [168123-maenovan.json](./168123-maenovan.json) |
@@ -5211,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteorder | 317977 | [317977-meteorder.json](./317977-meteorder.json) |
 | Meteorfall: Krumit's Tale | 98379 | [98379-meteorfall-krumits-tale.json](./98379-meteorfall-krumits-tale.json) |
 | Meteorfall: Krumit's Tale - Varfa the Ranger | 172169 | [172169-meteorfall-krumits-tale-varfa-the-ranger.json](./172169-meteorfall-krumits-tale-varfa-the-ranger.json) |
+| Meteoric VR | 207725 | [207725-meteoric-vr.json](./207725-meteoric-vr.json) |
 | Meteorite Destroyer | 104119 | [104119-meteorite-destroyer.json](./104119-meteorite-destroyer.json) |
 | Meteorite Z: The Apocalypse | 293136 | [293136-meteorite-z-the-apocalypse.json](./293136-meteorite-z-the-apocalypse.json) |
 | Meteorite's Journey | 55146 | [55146-meteorites-journey.json](./55146-meteorites-journey.json) |
@@ -5790,6 +5792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Mayhem | 300814 | [300814-midnight-mayhem.json](./300814-midnight-mayhem.json) |
 | Midnight Mazesoba | 374754 | [374754-midnight-mazesoba.json](./374754-midnight-mazesoba.json) |
 | Midnight Memoria | 403160 | [403160-midnight-memoria.json](./403160-midnight-memoria.json) |
+| Midnight Memories | 207747 | [207747-midnight-memories.json](./207747-midnight-memories.json) |
 | Midnight Memories: Sonata of the Soul | 311278 | [311278-midnight-memories-sonata-of-the-soul.json](./311278-midnight-memories-sonata-of-the-soul.json) |
 | Midnight Murder Club | 312282 | [312282-midnight-murder-club.json](./312282-midnight-murder-club.json) |
 | Midnight Murder Maze | 365255 | [365255-midnight-murder-maze.json](./365255-midnight-murder-maze.json) |
