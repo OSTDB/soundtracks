@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakusei Koukitai Little Cats | 71029 | [71029-wakusei-koukitai-little-cats.json](./71029-wakusei-koukitai-little-cats.json) |
 | Wakusei Woodstock: Funky Horror Band | 62251 | [62251-wakusei-woodstock-funky-horror-band.json](./62251-wakusei-woodstock-funky-horror-band.json) |
 | Walaber's Trampoline | 69936 | [69936-walabers-trampoline.json](./69936-walabers-trampoline.json) |
+| Wald & Gutz: Under Rocks | 188447 | [188447-wald-and-gutz-under-rocks.json](./188447-wald-and-gutz-under-rocks.json) |
 | Walden Horde | 159746 | [159746-walden-horde.json](./159746-walden-horde.json) |
 | Waldo: In the Heart of the City | 381285 | [381285-waldo-in-the-heart-of-the-city.json](./381285-waldo-in-the-heart-of-the-city.json) |
 | Waldorf's Journey | 318474 | [318474-waldorfs-journey.json](./318474-waldorfs-journey.json) |
