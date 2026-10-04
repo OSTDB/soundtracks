@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Heavy Morning | 347840 | [347840-a-heavy-morning.json](./347840-a-heavy-morning.json) |
 | A Hero and a Garden | 137072 | [137072-a-hero-and-a-garden.json](./137072-a-hero-and-a-garden.json) |
 | A Hero Once More | 252918 | [252918-a-hero-once-more.json](./252918-a-hero-once-more.json) |
+| A Hero's Quest pt1 | 213430 | [213430-a-heros-quest-pt1.json](./213430-a-heros-quest-pt1.json) |
 | A Heroine Story | 249856 | [249856-a-heroine-story.json](./249856-a-heroine-story.json) |
 | A Hideo Kojima Game | 178947 | [178947-a-hideo-kojima-game.json](./178947-a-hideo-kojima-game.json) |
 | A Holiday Yarn | 183952 | [183952-a-holiday-yarn.json](./183952-a-holiday-yarn.json) |
@@ -731,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.I. Space Corps | 34206 | [34206-a-i-space-corps.json](./34206-a-i-space-corps.json) |
 | A.I.Liens | 270859 | [270859-a-i-liens.json](./270859-a-i-liens.json) |
 | A.I.M. Racing | 9955 | [9955-a-i-m-racing.json](./9955-a-i-m-racing.json) |
+| A.I.T.W | 213431 | [213431-a-i-t-w.json](./213431-a-i-t-w.json) |
 | A.IV Evolution: Hatsubai Kinen Gentei Set | 307056 | [307056-a-iv-evolution-hatsubai-kinen-gentei-set.json](./307056-a-iv-evolution-hatsubai-kinen-gentei-set.json) |
 | A.L.A.N.: Rift Breakers | 120158 | [120158-a-l-a-n-rift-breakers.json](./120158-a-l-a-n-rift-breakers.json) |
 | A.L.T. | 239590 | [239590-a-l-t.json](./239590-a-l-t.json) |
@@ -1708,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero Elite: Combat Academy | 19711 | [19711-aero-elite-combat-academy.json](./19711-aero-elite-combat-academy.json) |
 | Aero Porter | 21017 | [21017-aero-porter.json](./21017-aero-porter.json) |
 | Aero Racer | 42833 | [42833-aero-racer.json](./42833-aero-racer.json) |
+| Aero Striker: World Invasion | 213426 | [213426-aero-striker-world-invasion.json](./213426-aero-striker-world-invasion.json) |
 | Aero Style | 79884 | [79884-aero-style.json](./79884-aero-style.json) |
 | Aero The Acro-Bat 2 | 312089 | [312089-aero-the-acro-bat-2.json](./312089-aero-the-acro-bat-2.json) |
 | Aero The Acro-Bat: Rascal Rival Revenge | 312090 | [312090-aero-the-acro-bat-rascal-rival-revenge.json](./312090-aero-the-acro-bat-rascal-rival-revenge.json) |
@@ -1748,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Calm Mind 4 | 263037 | [263037-aery-calm-mind-4.json](./263037-aery-calm-mind-4.json) |
 | Aery: Cyber City | 283896 | [283896-aery-cyber-city.json](./283896-aery-cyber-city.json) |
 | Aery: Midnight Hour | 288376 | [288376-aery-midnight-hour.json](./288376-aery-midnight-hour.json) |
+| Aery: Path of Corruption | 213427 | [213427-aery-path-of-corruption.json](./213427-aery-path-of-corruption.json) |
 | Aery: Peace of Mind | 296628 | [296628-aery-peace-of-mind.json](./296628-aery-peace-of-mind.json) |
 | Aery: Peace of Mind 4 | 377272 | [377272-aery-peace-of-mind-4.json](./377272-aery-peace-of-mind-4.json) |
 | Aery: Stone Age | 283895 | [283895-aery-stone-age.json](./283895-aery-stone-age.json) |
@@ -1985,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Defense | 29247 | [29247-age-of-defense.json](./29247-age-of-defense.json) |
 | Age of Defense 3 | 327421 | [327421-age-of-defense-3.json](./327421-age-of-defense-3.json) |
 | Age of Defense: Prehistory | 309860 | [309860-age-of-defense-prehistory.json](./309860-age-of-defense-prehistory.json) |
+| Age of Dynasty | 213428 | [213428-age-of-dynasty.json](./213428-age-of-dynasty.json) |
 | Age of Emerald | 132173 | [132173-age-of-emerald.json](./132173-age-of-emerald.json) |
 | Age of Empires II Mobile | 144346 | [144346-age-of-empires-ii-mobile.json](./144346-age-of-empires-ii-mobile.json) |
 | Age of Empires II: Definitive Edition | 55056 | [55056-age-of-empires-ii-definitive-edition.json](./55056-age-of-empires-ii-definitive-edition.json) |
@@ -2030,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Heroes: The Beginning | 187985 | [187985-age-of-heroes-the-beginning.json](./187985-age-of-heroes-the-beginning.json) |
 | Age of History II | 188228 | [188228-age-of-history-ii.json](./188228-age-of-history-ii.json) |
 | Age of History II: Definitive Edition | 399162 | [399162-age-of-history-ii-definitive-edition.json](./399162-age-of-history-ii-definitive-edition.json) |
+| Age of Irata | 213429 | [213429-age-of-irata.json](./213429-age-of-irata.json) |
 | Age of Jura | 169803 | [169803-age-of-jura.json](./169803-age-of-jura.json) |
 | Age of Legion | 148968 | [148968-age-of-legion.json](./148968-age-of-legion.json) |
 | Age of Mythology: Retold - Obsidian Mirror | 395818 | [395818-age-of-mythology-retold-obsidian-mirror.json](./395818-age-of-mythology-retold-obsidian-mirror.json) |
@@ -2710,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akuya | 30891 | [30891-akuya.json](./30891-akuya.json) |
 | Akuyaku Reijou ha Ringoku no Outaishi ni Dekiai Sareru | 295840 | [295840-akuyaku-reijou-ha-ringoku-no-outaishi-ni-dekiai-sareru.json](./295840-akuyaku-reijou-ha-ringoku-no-outaishi-ni-dekiai-sareru.json) |
 | Akyrikon VR | 158204 | [158204-akyrikon-vr.json](./158204-akyrikon-vr.json) |
+| Al Andalus 711 | 213273 | [213273-al-andalus-711.json](./213273-al-andalus-711.json) |
 | Al Gurbish in... Nick it & Run!!! | 316060 | [316060-al-gurbish-in-nick-it-and-run.json](./316060-al-gurbish-in-nick-it-and-run.json) |
 | Al Qaeda Hunting 3D | 370846 | [370846-al-qaeda-hunting-3d.json](./370846-al-qaeda-hunting-3d.json) |
 | Al Qmrah Restaurant | 213975 | [213975-al-qmrah-restaurant.json](./213975-al-qmrah-restaurant.json) |
@@ -4172,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amok! | 41531 | [41531-amok.json](./41531-amok.json) |
 | Amon | 75934 | [75934-amon.json](./75934-amon.json) |
 | Among Ashes | 258510 | [258510-among-ashes.json](./258510-among-ashes.json) |
+| Among Ass: Trilogy | 213432 | [213432-among-ass-trilogy.json](./213432-among-ass-trilogy.json) |
 | Among Dots | 159063 | [159063-among-dots.json](./159063-among-dots.json) |
 | Among Ripples 2 | 119637 | [119637-among-ripples-2.json](./119637-among-ripples-2.json) |
 | Among Ripples: Shallow Waters | 133793 | [133793-among-ripples-shallow-waters.json](./133793-among-ripples-shallow-waters.json) |
@@ -7638,6 +7646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterminer | 158507 | [158507-asterminer.json](./158507-asterminer.json) |
 | Astero Inc. | 176506 | [176506-astero-inc.json](./176506-astero-inc.json) |
 | Asteroad | 149089 | [149089-asteroad.json](./149089-asteroad.json) |
+| Asterogues | 213433 | [213433-asterogues.json](./213433-asterogues.json) |
 | Asteroid | 80931 | [80931-asteroid.json](./80931-asteroid.json) |
 | Asteroid Arena | 190060 | [190060-asteroid-arena.json](./190060-asteroid-arena.json) |
 | Asteroid Blaster | 178960 | [178960-asteroid-blaster.json](./178960-asteroid-blaster.json) |
@@ -8365,6 +8374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attrax | 349381 | [349381-attrax.json](./349381-attrax.json) |
 | Attribute2 | 295486 | [295486-attribute2.json](./295486-attribute2.json) |
 | Attrition | 378197 | [378197-attrition.json](./378197-attrition.json) |
+| Atuel | 213274 | [213274-atuel.json](./213274-atuel.json) |
 | Atulos Online | 33343 | [33343-atulos-online.json](./33343-atulos-online.json) |
 | Atum | 128624 | [128624-atum.json](./128624-atum.json) |
 | ATV Bike Games | 294255 | [294255-atv-bike-games.json](./294255-atv-bike-games.json) |
