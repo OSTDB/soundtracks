@@ -3567,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reworld | 193800 | [193800-reworld.json](./193800-reworld.json) |
 | Rewrite - DYH | 142892 | [142892-rewrite-dyh.json](./142892-rewrite-dyh.json) |
 | Rewrite the Romance: The Golden Lotus | 346567 | [346567-rewrite-the-romance-the-golden-lotus.json](./346567-rewrite-the-romance-the-golden-lotus.json) |
+| Rewrite+ | 172548 | [172548-rewrite.json](./172548-rewrite.json) |
 | Rewritten Recalls | 269182 | [269182-rewritten-recalls.json](./269182-rewritten-recalls.json) |
 | Rex | 45348 | [45348-rex.json](./45348-rex.json) |
 | ReX | 99193 | [99193-rex.json](./99193-rex.json) |
@@ -4487,6 +4488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rktcr | 35863 | [35863-rktcr.json](./35863-rktcr.json) |
 | RLChess | 333189 | [333189-rlchess.json](./333189-rlchess.json) |
 | RLCraft | 203457 | [203457-rlcraft.json](./203457-rlcraft.json) |
+| RLLL: Tower of Choices | 172457 | [172457-rlll-tower-of-choices.json](./172457-rlll-tower-of-choices.json) |
 | RNFF: Running Naked in a Field of Flowers | 69544 | [69544-rnff-running-naked-in-a-field-of-flowers.json](./69544-rnff-running-naked-in-a-field-of-flowers.json) |
 | RNG Quest | 338865 | [338865-rng-quest.json](./338865-rng-quest.json) |
 | RNG Quest | 338866 | [338866-rng-quest.json](./338866-rng-quest.json) |
