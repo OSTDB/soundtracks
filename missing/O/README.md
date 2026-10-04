@@ -2132,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore o Hoshigaru Futari no Haha | 97464 | [97464-ore-o-hoshigaru-futari-no-haha.json](./97464-ore-o-hoshigaru-futari-no-haha.json) |
 | Ore to Omae ga Ai ni Tsuite Kataru dake | 337727 | [337727-ore-to-omae-ga-ai-ni-tsuite-kataru-dake.json](./337727-ore-to-omae-ga-ai-ni-tsuite-kataru-dake.json) |
 | ORE x TRACTOR | 401823 | [401823-ore-x-tractor.json](./401823-ore-x-tractor.json) |
+| Ore-sama Kingdom: Koi mo Manga mo Debut wo Mezase! Doki-doki Love Lesson | 202704 | [202704-ore-sama-kingdom-koi-mo-manga-mo-debut-wo-mezase-doki-doki-love-lesson.json](./202704-ore-sama-kingdom-koi-mo-manga-mo-debut-wo-mezase-doki-doki-love-lesson.json) |
 | Ore'n: Battle Meme Chronicle | 303221 | [303221-oren-battle-meme-chronicle.json](./303221-oren-battle-meme-chronicle.json) |
 | Oreblaze | 338732 | [338732-oreblaze.json](./338732-oreblaze.json) |
 | Orebody: Binder's Tale | 215028 | [215028-orebody-binders-tale.json](./215028-orebody-binders-tale.json) |
@@ -2328,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osu! | 3012 | [3012-osu.json](./3012-osu.json) |
 | Osu!! Karate Bu | 38382 | [38382-osu-karate-bu.json](./38382-osu-karate-bu.json) |
 | Osu!Lazer | 412517 | [412517-osu-lazer.json](./412517-osu-lazer.json) |
+| Osu!Octave | 202713 | [202713-osu-octave.json](./202713-osu-octave.json) |
 | Oswald | 130892 | [130892-oswald.json](./130892-oswald.json) |
 | Oswald's Supermarket | 299781 | [299781-oswalds-supermarket.json](./299781-oswalds-supermarket.json) |
 | Osyaberi! Horijyo! Gekihori: Anna Holinski Saves the Universe, Alright?! | 222425 | [222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json](./222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json) |
@@ -2860,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over 1000 Jigsaw Puzzles | 228409 | [228409-over-1000-jigsaw-puzzles.json](./228409-over-1000-jigsaw-puzzles.json) |
 | Over blood | 208898 | [208898-over-blood.json](./208898-over-blood.json) |
 | Over Circle | 161223 | [161223-over-circle.json](./161223-over-circle.json) |
+| Over City | 202728 | [202728-over-city.json](./202728-over-city.json) |
 | Over Clock | 336693 | [336693-over-clock.json](./336693-over-clock.json) |
 | Over Drive | 40376 | [40376-over-drive.json](./40376-over-drive.json) |
 | Over Engineered | 406076 | [406076-over-engineered.json](./406076-over-engineered.json) |
