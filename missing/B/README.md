@@ -4606,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Dawn Rebirth | 124712 | [124712-black-dawn-rebirth.json](./124712-black-dawn-rebirth.json) |
 | Black Dawn VI: Hellbound | 124724 | [124724-black-dawn-vi-hellbound.json](./124724-black-dawn-vi-hellbound.json) |
 | Black Death | 65753 | [65753-black-death.json](./65753-black-death.json) |
+| Black Death: A Tragic Dirge | 212718 | [212718-black-death-a-tragic-dirge.json](./212718-black-death-a-tragic-dirge.json) |
 | Black Desert | 6292 | [6292-black-desert.json](./6292-black-desert.json) |
 | Black Desert Mobile | 54701 | [54701-black-desert-mobile.json](./54701-black-desert-mobile.json) |
 | Black Desert Online: Prestige Edition | 139914 | [139914-black-desert-online-prestige-edition.json](./139914-black-desert-online-prestige-edition.json) |
@@ -6699,6 +6700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogy | 193890 | [193890-boogy.json](./193890-boogy.json) |
 | BoohaBlox: Arcade | 276770 | [276770-boohablox-arcade.json](./276770-boohablox-arcade.json) |
 | Book 5 Untold | 254549 | [254549-book-5-untold.json](./254549-book-5-untold.json) |
+| Book Collector | 212688 | [212688-book-collector.json](./212688-book-collector.json) |
 | Book End | 221419 | [221419-book-end.json](./221419-book-end.json) |
 | Book Inside | 392921 | [392921-book-inside.json](./392921-book-inside.json) |
 | Book Nook | 404843 | [404843-book-nook.json](./404843-book-nook.json) |
