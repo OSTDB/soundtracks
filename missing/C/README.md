@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Crush Jelly Saga | 46503 | [46503-candy-crush-jelly-saga.json](./46503-candy-crush-jelly-saga.json) |
 | Candy Crush Saga Ticket Model | 229352 | [229352-candy-crush-saga-ticket-model.json](./229352-candy-crush-saga-ticket-model.json) |
 | Candy Crush Solitaire | 350067 | [350067-candy-crush-solitaire.json](./350067-candy-crush-solitaire.json) |
+| Candy Cutter | 176775 | [176775-candy-cutter.json](./176775-candy-cutter.json) |
 | Candy Eaters Tournament | 202660 | [202660-candy-eaters-tournament.json](./202660-candy-eaters-tournament.json) |
 | Candy Factory TD | 307694 | [307694-candy-factory-td.json](./307694-candy-factory-td.json) |
 | Candy Fall | 148980 | [148980-candy-fall.json](./148980-candy-fall.json) |
@@ -5106,6 +5107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claustrophobic Nights | 267548 | [267548-claustrophobic-nights.json](./267548-claustrophobic-nights.json) |
 | ClaustrophobicCrypt | 311504 | [311504-claustrophobiccrypt.json](./311504-claustrophobiccrypt.json) |
 | Claustrum | 414597 | [414597-claustrum.json](./414597-claustrum.json) |
+| Claw | 176853 | [176853-claw.json](./176853-claw.json) |
 | Claw | 2474 | [2474-claw.json](./2474-claw.json) |
 | Claw Breaker | 105290 | [105290-claw-breaker.json](./105290-claw-breaker.json) |
 | Claw Dropper | 365720 | [365720-claw-dropper.json](./365720-claw-dropper.json) |
@@ -8298,6 +8300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Your Way | 370804 | [370804-craft-your-way.json](./370804-craft-your-way.json) |
 | Craft: The Vicious Vikings | 142982 | [142982-craft-the-vicious-vikings.json](./142982-craft-the-vicious-vikings.json) |
 | Craft. Sell. Goblin. Repeat. | 374665 | [374665-craft-sell-goblin-repeat.json](./374665-craft-sell-goblin-repeat.json) |
+| Craft.io | 176850 | [176850-craft-io.json](./176850-craft-io.json) |
 | Craftaway | 355032 | [355032-craftaway.json](./355032-craftaway.json) |
 | CraftCraft: Fantasy Merchant Simulator | 249178 | [249178-craftcraft-fantasy-merchant-simulator.json](./249178-craftcraft-fantasy-merchant-simulator.json) |
 | Crafter | 326042 | [326042-crafter.json](./326042-crafter.json) |
@@ -8481,6 +8484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crate Expectations | 299446 | [299446-crate-expectations.json](./299446-crate-expectations.json) |
 | Crate Knight | 207532 | [207532-crate-knight.json](./207532-crate-knight.json) |
 | Crate Man | 61568 | [61568-crate-man.json](./61568-crate-man.json) |
+| Crategun | 176840 | [176840-crategun.json](./176840-crategun.json) |
 | CrateMage | 310103 | [310103-cratemage.json](./310103-cratemage.json) |
 | Craterbound | 186123 | [186123-craterbound.json](./186123-craterbound.json) |
 | Crates n' Mohawks | 186339 | [186339-crates-n-mohawks.json](./186339-crates-n-mohawks.json) |
@@ -8858,6 +8862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creo God Simulator | 115401 | [115401-creo-god-simulator.json](./115401-creo-god-simulator.json) |
 | Crepe Master! | 394504 | [394504-crepe-master.json](./394504-crepe-master.json) |
 | Crepitations | 275210 | [275210-crepitations.json](./275210-crepitations.json) |
+| Crescendo | 176855 | [176855-crescendo.json](./176855-crescendo.json) |
 | Crescendo Of Dreams + Surmounting Terror | 271490 | [271490-crescendo-of-dreams-surmounting-terror.json](./271490-crescendo-of-dreams-surmounting-terror.json) |
 | Crescent Bloom | 215095 | [215095-crescent-bloom.json](./215095-crescent-bloom.json) |
 | Crescent County | 305181 | [305181-crescent-county.json](./305181-crescent-county.json) |
@@ -10631,6 +10636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybernetica: Final | 190738 | [190738-cybernetica-final.json](./190738-cybernetica-final.json) |
 | Cybernoid II: The Revenge | 12025 | [12025-cybernoid-ii-the-revenge.json](./12025-cybernoid-ii-the-revenge.json) |
 | Cyberpedia | 364522 | [364522-cyberpedia.json](./364522-cyberpedia.json) |
+| Cyberpet Graveyard | 176778 | [176778-cyberpet-graveyard.json](./176778-cyberpet-graveyard.json) |
 | CyberPigeon | 264679 | [264679-cyberpigeon.json](./264679-cyberpigeon.json) |
 | Cyberplug | 153343 | [153343-cyberplug.json](./153343-cyberplug.json) |
 | Cyberpunch | 158691 | [158691-cyberpunch.json](./158691-cyberpunch.json) |
