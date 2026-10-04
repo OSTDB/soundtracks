@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | "Gamer"+ Crossroad of Sympathy | 186065 | [186065-gamer-crossroad-of-sympathy.json](./186065-gamer-crossroad-of-sympathy.json) |
 | "Glow Ball" - The billiard puzzle game | 34802 | [34802-glow-ball-the-billiard-puzzle-game.json](./34802-glow-ball-the-billiard-puzzle-game.json) |
 | "Hello, world." | 130306 | [130306-hello-world.json](./130306-hello-world.json) |
+| "Life" not found; | 195592 | [195592-life-not-found.json](./195592-life-not-found.json) |
 | "Out" file#01 | 237475 | [237475-out-file-01.json](./237475-out-file-01.json) |
 | "Out2" out of file | 237476 | [237476-out2-out-of-file.json](./237476-out2-out-of-file.json) |
 | "Two Draw" | 74340 | [74340-two-draw.json](./74340-two-draw.json) |
