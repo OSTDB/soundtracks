@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macrotis: A Mother's Journey | 100581 | [100581-macrotis-a-mothers-journey.json](./100581-macrotis-a-mothers-journey.json) |
 | Macs World | 193714 | [193714-macs-world.json](./193714-macs-world.json) |
 | MacShot | 192447 | [192447-macshot.json](./192447-macshot.json) |
+| Mad Adventures | 202747 | [202747-mad-adventures.json](./202747-mad-adventures.json) |
 | Mad Arkanoid | 50536 | [50536-mad-arkanoid.json](./50536-mad-arkanoid.json) |
 | Mad Ball | 128449 | [128449-mad-ball.json](./128449-mad-ball.json) |
 | Mad BalloonRider | 243172 | [243172-mad-balloonrider.json](./243172-mad-balloonrider.json) |
@@ -2256,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark-I: Mission Pilot | 156632 | [156632-mark-i-mission-pilot.json](./156632-mark-i-mission-pilot.json) |
 | Mark's Life | 150089 | [150089-marks-life.json](./150089-marks-life.json) |
 | Mark's Magnificent Marble Maze | 199515 | [199515-marks-magnificent-marble-maze.json](./199515-marks-magnificent-marble-maze.json) |
+| Marked by King Bs | 202706 | [202706-marked-by-king-bs.json](./202706-marked-by-king-bs.json) |
 | Markerboard Jungle: Frogs | 159747 | [159747-markerboard-jungle-frogs.json](./159747-markerboard-jungle-frogs.json) |
 | Market Chain 98 | 405540 | [405540-market-chain-98.json](./405540-market-chain-98.json) |
 | Market Dominion | 114393 | [114393-market-dominion.json](./114393-market-dominion.json) |
@@ -3758,6 +3760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Kingdom Wars: Prologue | 266471 | [266471-medieval-kingdom-wars-prologue.json](./266471-medieval-kingdom-wars-prologue.json) |
 | Medieval Kingdom Wars: Royal Blood | 213487 | [213487-medieval-kingdom-wars-royal-blood.json](./213487-medieval-kingdom-wars-royal-blood.json) |
 | Medieval Kingdoms Total War: 1212 AD | 356223 | [356223-medieval-kingdoms-total-war-1212-ad.json](./356223-medieval-kingdoms-total-war-1212-ad.json) |
+| Medieval Knight | 202739 | [202739-medieval-knight.json](./202739-medieval-knight.json) |
 | Medieval Lands | 412430 | [412430-medieval-lands.json](./412430-medieval-lands.json) |
 | Medieval Legacy | 333011 | [333011-medieval-legacy.json](./333011-medieval-legacy.json) |
 | Medieval Life | 280299 | [280299-medieval-life.json](./280299-medieval-life.json) |
@@ -9446,6 +9449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Day | 75793 | [75793-moving-day.json](./75793-moving-day.json) |
 | Moving Day: Make It Home | 389417 | [389417-moving-day-make-it-home.json](./389417-moving-day-make-it-home.json) |
 | Moving Letters | 157512 | [157512-moving-letters.json](./157512-moving-letters.json) |
+| Moving On | 202712 | [202712-moving-on.json](./202712-moving-on.json) |
 | Moving On | 303075 | [303075-moving-on.json](./303075-moving-on.json) |
 | Moving Out | 113866 | [113866-moving-out.json](./113866-moving-out.json) |
 | Moving Out + Moving Out 2 Bundle | 261873 | [261873-moving-out-moving-out-2-bundle.json](./261873-moving-out-moving-out-2-bundle.json) |
@@ -10414,6 +10418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dear Sister | 213449 | [213449-my-dear-sister.json](./213449-my-dear-sister.json) |
 | My Dearest Direst Disaster | 397803 | [397803-my-dearest-direst-disaster.json](./397803-my-dearest-direst-disaster.json) |
 | My Demonic Romance | 243960 | [243960-my-demonic-romance.json](./243960-my-demonic-romance.json) |
+| My Destiny | 202741 | [202741-my-destiny.json](./202741-my-destiny.json) |
 | My Destiny Girls | 291091 | [291091-my-destiny-girls.json](./291091-my-destiny-girls.json) |
 | My Devil Lovers | 247468 | [247468-my-devil-lovers.json](./247468-my-devil-lovers.json) |
 | My Devil Lovers: Remake | 247470 | [247470-my-devil-lovers-remake.json](./247470-my-devil-lovers-remake.json) |
