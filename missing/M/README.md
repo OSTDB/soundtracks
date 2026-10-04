@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Twirler Angel Rabbie | 408264 | [408264-magical-twirler-angel-rabbie.json](./408264-magical-twirler-angel-rabbie.json) |
 | Magical Valkyrie Lyristia | 153949 | [153949-magical-valkyrie-lyristia.json](./153949-magical-valkyrie-lyristia.json) |
 | Magical Whip: Wizards of Phantasmal Forest | 65562 | [65562-magical-whip-wizards-of-phantasmal-forest.json](./65562-magical-whip-wizards-of-phantasmal-forest.json) |
+| Magical Witch Bell and Her Non-Magical Friends | 177884 | [177884-magical-witch-bell-and-her-non-magical-friends.json](./177884-magical-witch-bell-and-her-non-magical-friends.json) |
 | Magical Zunou Power!! DS | 70411 | [70411-magical-zunou-power-ds.json](./70411-magical-zunou-power-ds.json) |
 | Magicalic Sky High: Soratobu Houki ni Omoi wo Nosete | 194554 | [194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json](./194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json) |
 | Magicami | 150593 | [150593-magicami.json](./150593-magicami.json) |
@@ -7078,6 +7079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misdie: Into the Game | 351238 | [351238-misdie-into-the-game.json](./351238-misdie-into-the-game.json) |
 | Misericorde Volume Two: White Wool and Snow | 305383 | [305383-misericorde-volume-two-white-wool-and-snow.json](./305383-misericorde-volume-two-white-wool-and-snow.json) |
 | Misery Dungeon | 417471 | [417471-misery-dungeon.json](./417471-misery-dungeon.json) |
+| Misfiction | 177905 | [177905-misfiction.json](./177905-misfiction.json) |
 | Misfit | 108062 | [108062-misfit.json](./108062-misfit.json) |
 | Misfit Company | 400409 | [400409-misfit-company.json](./400409-misfit-company.json) |
 | Misfits | 296984 | [296984-misfits.json](./296984-misfits.json) |
