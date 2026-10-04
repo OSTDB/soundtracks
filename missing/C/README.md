@@ -9612,6 +9612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto Miner Tycoon Simulator | 191122 | [191122-crypto-miner-tycoon-simulator.json](./191122-crypto-miner-tycoon-simulator.json) |
 | Crypto Mining | 358295 | [358295-crypto-mining.json](./358295-crypto-mining.json) |
 | Crypto Quest | 93743 | [93743-crypto-quest.json](./93743-crypto-quest.json) |
+| Crypto Raiders | 178391 | [178391-crypto-raiders.json](./178391-crypto-raiders.json) |
 | Crypto Royale | 225730 | [225730-crypto-royale.json](./225730-crypto-royale.json) |
 | Crypto Rush | 338260 | [338260-crypto-rush.json](./338260-crypto-rush.json) |
 | Crypto Trading Simulator | 407374 | [407374-crypto-trading-simulator.json](./407374-crypto-trading-simulator.json) |
