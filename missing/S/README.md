@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SaberSaw VR | 32145 | [32145-sabersaw-vr.json](./32145-sabersaw-vr.json) |
 | Sable Maze: Forbidden Garden & Sable Maze: Twelve Fears | 201822 | [201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json](./201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json) |
 | Sable Maze: Norwich Caves - Collector's Edition | 74353 | [74353-sable-maze-norwich-caves-collectors-edition.json](./74353-sable-maze-norwich-caves-collectors-edition.json) |
+| Sable Maze: Sinister Knowledge | 187921 | [187921-sable-maze-sinister-knowledge.json](./187921-sable-maze-sinister-knowledge.json) |
 | Sable Maze: Soul Catcher - Collector’s Edition | 97138 | [97138-sable-maze-soul-catcher-collector-s-edition.json](./97138-sable-maze-soul-catcher-collector-s-edition.json) |
 | Sable Maze: Sullivan River - Collector's Edition | 30045 | [30045-sable-maze-sullivan-river-collectors-edition.json](./30045-sable-maze-sullivan-river-collectors-edition.json) |
 | Sable Maze: Twelve Fears - Collector's Edition | 110347 | [110347-sable-maze-twelve-fears-collectors-edition.json](./110347-sable-maze-twelve-fears-collectors-edition.json) |
@@ -7487,6 +7488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmashThem | 28202 | [28202-smashthem.json](./28202-smashthem.json) |
 | Smashy Brick | 237324 | [237324-smashy-brick.json](./237324-smashy-brick.json) |
 | Smashy Cannon | 359532 | [359532-smashy-cannon.json](./359532-smashy-cannon.json) |
+| Smashy Road: Race | 187887 | [187887-smashy-road-race.json](./187887-smashy-road-race.json) |
 | Smashy Road: Wanted 2 | 144196 | [144196-smashy-road-wanted-2.json](./144196-smashy-road-wanted-2.json) |
 | SMB RMX Land | 265877 | [265877-smb-rmx-land.json](./265877-smb-rmx-land.json) |
 | SMB RMX: Shattered Realms | 370902 | [370902-smb-rmx-shattered-realms.json](./370902-smb-rmx-shattered-realms.json) |
@@ -11211,6 +11213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere | 313887 | [313887-sphere.json](./313887-sphere.json) |
 | Sphere Arena | 166762 | [166762-sphere-arena.json](./166762-sphere-arena.json) |
 | Sphere Game | 377582 | [377582-sphere-game.json](./377582-sphere-game.json) |
+| Sphere Game Extreme | 187909 | [187909-sphere-game-extreme.json](./187909-sphere-game-extreme.json) |
 | Sphere Game Legendary | 207820 | [207820-sphere-game-legendary.json](./207820-sphere-game-legendary.json) |
 | Sphere Guider | 250423 | [250423-sphere-guider.json](./250423-sphere-guider.json) |
 | Sphere III: Enchanted World | 34619 | [34619-sphere-iii-enchanted-world.json](./34619-sphere-iii-enchanted-world.json) |
@@ -17835,6 +17838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: Project Dawn | 102812 | [102812-surface-project-dawn.json](./102812-surface-project-dawn.json) |
 | Surface: Return to Another World | 91346 | [91346-surface-return-to-another-world.json](./91346-surface-return-to-another-world.json) |
 | Surface: The Noise She Couldn't Make | 139919 | [139919-surface-the-noise-she-couldnt-make.json](./139919-surface-the-noise-she-couldnt-make.json) |
+| Surface: Virtual Detective | 187925 | [187925-surface-virtual-detective.json](./187925-surface-virtual-detective.json) |
 | Surface: Virtual Detective - Collector's Edition | 166076 | [166076-surface-virtual-detective-collectors-edition.json](./166076-surface-virtual-detective-collectors-edition.json) |
 | Surfacer+ | 85529 | [85529-surfacer.json](./85529-surfacer.json) |
 | Surfacing | 152116 | [152116-surfacing.json](./152116-surfacing.json) |
