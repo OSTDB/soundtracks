@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Hanwell | 29076 | [29076-welcome-to-hanwell.json](./29076-welcome-to-hanwell.json) |
 | Welcome to Heaven | 41976 | [41976-welcome-to-heaven.json](./41976-welcome-to-heaven.json) |
 | Welcome to IKSPQ | 271310 | [271310-welcome-to-ikspq.json](./271310-welcome-to-ikspq.json) |
+| Welcome to James' Story in the World of Our Church and Halloween: Visual Novel | 222808 | [222808-welcome-to-james-story-in-the-world-of-our-church-and-halloween-visual-novel.json](./222808-welcome-to-james-story-in-the-world-of-our-church-and-halloween-visual-novel.json) |
 | Welcome to Jane's Story in the World of Project: Summer Ice | 208621 | [208621-welcome-to-janes-story-in-the-world-of-project-summer-ice.json](./208621-welcome-to-janes-story-in-the-world-of-project-summer-ice.json) |
 | Welcome to Levy | 238730 | [238730-welcome-to-levy.json](./238730-welcome-to-levy.json) |
 | Welcome to Light Fields | 93700 | [93700-welcome-to-light-fields.json](./93700-welcome-to-light-fields.json) |
