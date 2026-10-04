@@ -708,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eFootball: Mourinho Edition 2026 | 361243 | [361243-efootball-mourinho-edition-2026.json](./361243-efootball-mourinho-edition-2026.json) |
 | EFourGames | 362884 | [362884-efourgames.json](./362884-efourgames.json) |
 | Efpiyes | 234045 | [234045-efpiyes.json](./234045-efpiyes.json) |
+| Efteling Tycoon | 210077 | [210077-efteling-tycoon.json](./210077-efteling-tycoon.json) |
 | EGA Coloring Book | 330270 | [330270-ega-coloring-book.json](./330270-ega-coloring-book.json) |
 | EGA-Roids | 130850 | [130850-ega-roids.json](./130850-ega-roids.json) |
 | Egao no Renkinjutsu | 238099 | [238099-egao-no-renkinjutsu.json](./238099-egao-no-renkinjutsu.json) |
