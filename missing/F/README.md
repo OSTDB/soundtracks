@@ -878,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Tree! | 274744 | [274744-family-tree.json](./274744-family-tree.json) |
 | Famine in Wonderland | 410272 | [410272-famine-in-wonderland.json](./410272-famine-in-wonderland.json) |
 | Famine Way | 277437 | [277437-famine-way.json](./277437-famine-way.json) |
+| Famista '91 | 218368 | [218368-famista-91.json](./218368-famista-91.json) |
 | Famista '91 | 218388 | [218388-famista-91.json](./218388-famista-91.json) |
 | Famista '92 | 218389 | [218389-famista-92.json](./218389-famista-92.json) |
 | Famista '93 | 218391 | [218391-famista-93.json](./218391-famista-93.json) |
@@ -2684,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Islands | 113476 | [113476-final-islands.json](./113476-final-islands.json) |
 | Final Judgment - Damnation Day | 110302 | [110302-final-judgment-damnation-day.json](./110302-final-judgment-damnation-day.json) |
 | Final Justice | 266892 | [266892-final-justice.json](./266892-final-justice.json) |
+| Final Lap | 218367 | [218367-final-lap.json](./218367-final-lap.json) |
 | Final Lap 2 | 255651 | [255651-final-lap-2.json](./255651-final-lap-2.json) |
 | Final Legacy | 25697 | [25697-final-legacy.json](./25697-final-legacy.json) |
 | Final Liberation: Warhammer Epic 40,000 | 12521 | [12521-final-liberation-warhammer-epic-40-000.json](./12521-final-liberation-warhammer-epic-40-000.json) |
