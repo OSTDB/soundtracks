@@ -3097,6 +3097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer! | 57091 | [57091-beer.json](./57091-beer.json) |
 | Beerjeweled | 138036 | [138036-beerjeweled.json](./138036-beerjeweled.json) |
 | Beerman | 31904 | [31904-beerman.json](./31904-beerman.json) |
+| Beers and Boomerangs | 172469 | [172469-beers-and-boomerangs.json](./172469-beers-and-boomerangs.json) |
 | Bees vs. Ants | 175164 | [175164-bees-vs-ants.json](./175164-bees-vs-ants.json) |
 | Beeswing | 35357 | [35357-beeswing.json](./35357-beeswing.json) |
 | Beet: Drum Machine Game | 232149 | [232149-beet-drum-machine-game.json](./232149-beet-drum-machine-game.json) |
@@ -5028,6 +5029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Passage | 297482 | [297482-blades-of-passage.json](./297482-blades-of-passage.json) |
 | Blades of Steel | 280812 | [280812-blades-of-steel.json](./280812-blades-of-steel.json) |
 | Blades of Steel | 7788 | [7788-blades-of-steel.json](./7788-blades-of-steel.json) |
+| Blades of the Three Kingdoms: Return | 172544 | [172544-blades-of-the-three-kingdoms-return.json](./172544-blades-of-the-three-kingdoms-return.json) |
 | Blades of Thunder | 49309 | [49309-blades-of-thunder.json](./49309-blades-of-thunder.json) |
 | Blades of Time | 6918 | [6918-blades-of-time.json](./6918-blades-of-time.json) |
 | Blades of Time: Dismal Swamp | 155038 | [155038-blades-of-time-dismal-swamp.json](./155038-blades-of-time-dismal-swamp.json) |
