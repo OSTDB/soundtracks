@@ -7134,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premortal VR | 197107 | [197107-premortal-vr.json](./197107-premortal-vr.json) |
 | Prenup Struggles | 314062 | [314062-prenup-struggles.json](./314062-prenup-struggles.json) |
 | PrePaladin Wars | 148482 | [148482-prepaladin-wars.json](./148482-prepaladin-wars.json) |
+| Prepare for Adventure | 219500 | [219500-prepare-for-adventure.json](./219500-prepare-for-adventure.json) |
 | Prepare for the Jelly | 184633 | [184633-prepare-for-the-jelly.json](./184633-prepare-for-the-jelly.json) |
 | Prepare For Warp: Unlimited Edition - Beyond Insanji | 182222 | [182222-prepare-for-warp-unlimited-edition-beyond-insanji.json](./182222-prepare-for-warp-unlimited-edition-beyond-insanji.json) |
 | Prepare the First RPG Village: The Adventures of Nyanzou&Kumakichi - Escape Game Series | 173143 | [173143-prepare-the-first-rpg-village-the-adventures-of-nyanzou-and-kumakichi-escape-game-series.json](./173143-prepare-the-first-rpg-village-the-adventures-of-nyanzou-and-kumakichi-escape-game-series.json) |
@@ -8392,6 +8393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protect Harem City | 220654 | [220654-protect-harem-city.json](./220654-protect-harem-city.json) |
 | Protect Me Knight | 22479 | [22479-protect-me-knight.json](./22479-protect-me-knight.json) |
 | Protect Mother | 241631 | [241631-protect-mother.json](./241631-protect-mother.json) |
+| Protect My Cheese | 219642 | [219642-protect-my-cheese.json](./219642-protect-my-cheese.json) |
 | Protect the campus | 123502 | [123502-protect-the-campus.json](./123502-protect-the-campus.json) |
 | Protect the Grimoire | 413133 | [413133-protect-the-grimoire.json](./413133-protect-the-grimoire.json) |
 | Protect the Planet | 257969 | [257969-protect-the-planet.json](./257969-protect-the-planet.json) |
