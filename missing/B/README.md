@@ -1634,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bashers | 387606 | [387606-bashers.json](./387606-bashers.json) |
 | Bashi Blocks | 42830 | [42830-bashi-blocks.json](./42830-bashi-blocks.json) |
 | Bashing Brutal | 348251 | [348251-bashing-brutal.json](./348251-bashing-brutal.json) |
+| Basho's Frogger | 219502 | [219502-bashos-frogger.json](./219502-bashos-frogger.json) |
 | Bashtronaut | 263203 | [263203-bashtronaut.json](./263203-bashtronaut.json) |
 | Bashville | 87981 | [87981-bashville.json](./87981-bashville.json) |
 | Basic Biking | 301344 | [301344-basic-biking.json](./301344-basic-biking.json) |
