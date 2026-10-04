@@ -5477,6 +5477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Vanentine | 228689 | [228689-club-vanentine.json](./228689-club-vanentine.json) |
 | Clubhouse Games | 18597 | [18597-clubhouse-games.json](./18597-clubhouse-games.json) |
 | Clubhouse Games Express: Card Classics | 70418 | [70418-clubhouse-games-express-card-classics.json](./70418-clubhouse-games-express-card-classics.json) |
+| ClubR: Online Car Parking Game | 199973 | [199973-clubr-online-car-parking-game.json](./199973-clubr-online-car-parking-game.json) |
 | Cluck | 195184 | [195184-cluck.json](./195184-cluck.json) |
 | Cluck and Tag | 389702 | [389702-cluck-and-tag.json](./389702-cluck-and-tag.json) |
 | Cluck Avengers | 299407 | [299407-cluck-avengers.json](./299407-cluck-avengers.json) |
@@ -9950,6 +9951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cultivation Fantasy | 274042 | [274042-cultivation-fantasy.json](./274042-cultivation-fantasy.json) |
 | Cultivation Story: Reincarnation | 211228 | [211228-cultivation-story-reincarnation.json](./211228-cultivation-story-reincarnation.json) |
 | Cultivator | 383561 | [383561-cultivator.json](./383561-cultivator.json) |
+| Cultivator Legacy | 199987 | [199987-cultivator-legacy.json](./199987-cultivator-legacy.json) |
 | Culto a los dioses | 228428 | [228428-culto-a-los-dioses.json](./228428-culto-a-los-dioses.json) |
 | Cults and Daggers | 36160 | [36160-cults-and-daggers.json](./36160-cults-and-daggers.json) |
 | Cults of the Endtimes | 389742 | [389742-cults-of-the-endtimes.json](./389742-cults-of-the-endtimes.json) |
