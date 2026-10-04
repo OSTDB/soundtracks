@@ -2016,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kisaragi's Dangerously Erotic Certification Exam! Resistance Is Futile | 82752 | [82752-kisaragis-dangerously-erotic-certification-exam-resistance-is-futile.json](./82752-kisaragis-dangerously-erotic-certification-exam-resistance-is-futile.json) |
 | Kisei Joker | 417457 | [417457-kisei-joker.json](./417457-kisei-joker.json) |
 | Kisekimura | 149547 | [149547-kisekimura.json](./149547-kisekimura.json) |
+| Kisekimura: ZumiIwa | 202641 | [202641-kisekimura-zumiiwa.json](./202641-kisekimura-zumiiwa.json) |
 | Kisen: Seeker of Aenjan City | 390129 | [390129-kisen-seeker-of-aenjan-city.json](./390129-kisen-seeker-of-aenjan-city.json) |
 | Kishin Douji Zenki FX: Vajra Fight | 45957 | [45957-kishin-douji-zenki-fx-vajra-fight.json](./45957-kishin-douji-zenki-fx-vajra-fight.json) |
 | Kishin Douji Zenki: Tenchi Meidou | 38360 | [38360-kishin-douji-zenki-tenchi-meidou.json](./38360-kishin-douji-zenki-tenchi-meidou.json) |
@@ -2284,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KnifePlayground: Horror Battle Royale | 277927 | [277927-knifeplayground-horror-battle-royale.json](./277927-knifeplayground-horror-battle-royale.json) |
 | Kniffelix | 122301 | [122301-kniffelix.json](./122301-kniffelix.json) |
 | Knight Adventure | 34315 | [34315-knight-adventure.json](./34315-knight-adventure.json) |
+| Knight and Mourning | 202703 | [202703-knight-and-mourning.json](./202703-knight-and-mourning.json) |
 | Knight and Princess | 170551 | [170551-knight-and-princess.json](./170551-knight-and-princess.json) |
 | Knight Bewitched | 97079 | [97079-knight-bewitched.json](./97079-knight-bewitched.json) |
 | Knight Cats: Leaves on the Road | 260879 | [260879-knight-cats-leaves-on-the-road.json](./260879-knight-cats-leaves-on-the-road.json) |
