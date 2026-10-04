@@ -3040,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam II | 787 | [787-serious-sam-ii.json](./787-serious-sam-ii.json) |
 | Serious Sam: Dark Island | 361920 | [361920-serious-sam-dark-island.json](./361920-serious-sam-dark-island.json) |
 | Serious Sam: GOG Collection | 205226 | [205226-serious-sam-gog-collection.json](./205226-serious-sam-gog-collection.json) |
+| Serious Sam: Gold Edition | 206017 | [206017-serious-sam-gold-edition.json](./206017-serious-sam-gold-edition.json) |
 | Serious Sam: Kamikaze Attack | 28077 | [28077-serious-sam-kamikaze-attack.json](./28077-serious-sam-kamikaze-attack.json) |
 | Serious Sam: Portals | 299202 | [299202-serious-sam-portals.json](./299202-serious-sam-portals.json) |
 | Serious Sam: Siberian Mayhem | 187112 | [187112-serious-sam-siberian-mayhem.json](./187112-serious-sam-siberian-mayhem.json) |
@@ -3083,11 +3084,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Servonauts | 260339 | [260339-servonauts.json](./260339-servonauts.json) |
 | Sesame Street | 85858 | [85858-sesame-street.json](./85858-sesame-street.json) |
 | Sesame Street A B C | 70103 | [70103-sesame-street-a-b-c.json](./70103-sesame-street-a-b-c.json) |
+| Sesame Street Art Workshop | 206016 | [206016-sesame-street-art-workshop.json](./206016-sesame-street-art-workshop.json) |
 | Sesame Street Beat | 220108 | [220108-sesame-street-beat.json](./220108-sesame-street-beat.json) |
 | Sesame Street Counting Cafe | 46198 | [46198-sesame-street-counting-cafe.json](./46198-sesame-street-counting-cafe.json) |
 | Sesame Street Crayon: Numbers Count | 71798 | [71798-sesame-street-crayon-numbers-count.json](./71798-sesame-street-crayon-numbers-count.json) |
+| Sesame Street Create & Draw in Elmo's World | 206015 | [206015-sesame-street-create-and-draw-in-elmos-world.json](./206015-sesame-street-create-and-draw-in-elmos-world.json) |
 | Sesame Street Elmo's World: Pets, Foods and Telephones! | 138579 | [138579-sesame-street-elmos-world-pets-foods-and-telephones.json](./138579-sesame-street-elmos-world-pets-foods-and-telephones.json) |
 | Sesame Street Fighter | 339673 | [339673-sesame-street-fighter.json](./339673-sesame-street-fighter.json) |
+| Sesame Street Letters | 206014 | [206014-sesame-street-letters.json](./206014-sesame-street-letters.json) |
 | Sesame Street Mecha Builders | 342765 | [342765-sesame-street-mecha-builders.json](./342765-sesame-street-mecha-builders.json) |
 | Sesame Street Sports | 49916 | [49916-sesame-street-sports.json](./49916-sesame-street-sports.json) |
 | Sesame Street: 1-2-3 | 78035 | [78035-sesame-street-1-2-3.json](./78035-sesame-street-1-2-3.json) |
@@ -4562,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ships Simulator | 229181 | [229181-ships-simulator.json](./229181-ships-simulator.json) |
 | Ships Simulator 2024 | 219609 | [219609-ships-simulator-2024.json](./219609-ships-simulator-2024.json) |
 | Ships Simulator Bundle | 273007 | [273007-ships-simulator-bundle.json](./273007-ships-simulator-bundle.json) |
+| ShipSwing | 206185 | [206185-shipswing.json](./206185-shipswing.json) |
 | Shipwreck | 35936 | [35936-shipwreck.json](./35936-shipwreck.json) |
 | Shipwreck Escape | 152827 | [152827-shipwreck-escape.json](./152827-shipwreck-escape.json) |
 | Shipwrecked | 313859 | [313859-shipwrecked.json](./313859-shipwrecked.json) |
@@ -4667,6 +4672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoemaker | 110772 | [110772-shoemaker.json](./110772-shoemaker.json) |
 | Shoestrings Story | 345090 | [345090-shoestrings-story.json](./345090-shoestrings-story.json) |
 | Shoganai | 154428 | [154428-shoganai.json](./154428-shoganai.json) |
+| Shogi | 206024 | [206024-shogi.json](./206024-shogi.json) |
 | Shogi | 63582 | [63582-shogi.json](./63582-shogi.json) |
 | Shogi 2 | 282637 | [282637-shogi-2.json](./282637-shogi-2.json) |
 | Shogi 3 | 282638 | [282638-shogi-3.json](./282638-shogi-3.json) |
@@ -4685,6 +4691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogun Warriors | 39584 | [39584-shogun-warriors.json](./39584-shogun-warriors.json) |
 | Shogun: Total War | 436 | [436-shogun-total-war.json](./436-shogun-total-war.json) |
 | Shogun: Total War - Mongol Invasion | 443 | [443-shogun-total-war-mongol-invasion.json](./443-shogun-total-war-mongol-invasion.json) |
+| Shogun: Total War - Warlord Edition | 206025 | [206025-shogun-total-war-warlord-edition.json](./206025-shogun-total-war-warlord-edition.json) |
 | Shogun's Blade | 43293 | [43293-shoguns-blade.json](./43293-shoguns-blade.json) |
 | Shogun's Empire: Hex Commander | 119739 | [119739-shoguns-empire-hex-commander.json](./119739-shoguns-empire-hex-commander.json) |
 | Shohei's Adult Streaming Channel | 161357 | [161357-shoheis-adult-streaming-channel.json](./161357-shoheis-adult-streaming-channel.json) |
@@ -6048,6 +6055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Days in Fallujah | 36538 | [36538-six-days-in-fallujah.json](./36538-six-days-in-fallujah.json) |
 | Six Degrees of Damnation | 118981 | [118981-six-degrees-of-damnation.json](./118981-six-degrees-of-damnation.json) |
 | Six F and Six 0 | 151660 | [151660-six-f-and-six-0.json](./151660-six-f-and-six-0.json) |
+| Six Flags Fun Park | 206039 | [206039-six-flags-fun-park.json](./206039-six-flags-fun-park.json) |
 | Six Flags Fun Park | 85164 | [85164-six-flags-fun-park.json](./85164-six-flags-fun-park.json) |
 | Six Floors Under | 296659 | [296659-six-floors-under.json](./296659-six-floors-under.json) |
 | Six in One Translator | 68056 | [68056-six-in-one-translator.json](./68056-six-in-one-translator.json) |
@@ -13721,6 +13729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steppenwolf: The X-Creatures Project | 284584 | [284584-steppenwolf-the-x-creatures-project.json](./284584-steppenwolf-the-x-creatures-project.json) |
 | Stepping Selection | 66741 | [66741-stepping-selection.json](./66741-stepping-selection.json) |
 | Steppy Pants | 57944 | [57944-steppy-pants.json](./57944-steppy-pants.json) |
+| Stepsister Shock! | 206028 | [206028-stepsister-shock.json](./206028-stepsister-shock.json) |
 | Steptile | 287097 | [287097-steptile.json](./287097-steptile.json) |
 | StepX | 67915 | [67915-stepx.json](./67915-stepx.json) |
 | Steredenn | 14146 | [14146-steredenn.json](./14146-steredenn.json) |
@@ -15343,6 +15352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sukeban Deka III | 48684 | [48684-sukeban-deka-iii.json](./48684-sukeban-deka-iii.json) |
 | Sukeban Janshi Ryuuko | 372145 | [372145-sukeban-janshi-ryuuko.json](./372145-sukeban-janshi-ryuuko.json) |
 | Sukebe Office | 244224 | [244224-sukebe-office.json](./244224-sukebe-office.json) |
+| Suki Desu Suzuki-kun: 4nin no Suzuki-kun | 206033 | [206033-suki-desu-suzuki-kun-4nin-no-suzuki-kun.json](./206033-suki-desu-suzuki-kun-4nin-no-suzuki-kun.json) |
 | Suki Suki Love | 365206 | [365206-suki-suki-love.json](./365206-suki-suki-love.json) |
 | Suki Tokimeki to Kiss | 344006 | [344006-suki-tokimeki-to-kiss.json](./344006-suki-tokimeki-to-kiss.json) |
 | Sukima | 361312 | [361312-sukima.json](./361312-sukima.json) |
@@ -18264,6 +18274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing Swamp | 333765 | [333765-swing-swamp.json](./333765-swing-swamp.json) |
 | Swing Swing Swing | 321452 | [321452-swing-swing-swing.json](./321452-swing-swing-swing.json) |
 | Swing the Universe | 191814 | [191814-swing-the-universe.json](./191814-swing-the-universe.json) |
+| SwingByMe | 206043 | [206043-swingbyme.json](./206043-swingbyme.json) |
 | Swinger | 91378 | [91378-swinger.json](./91378-swinger.json) |
 | Swinger-Man | 123548 | [123548-swinger-man.json](./123548-swinger-man.json) |
 | Swingers | 283718 | [283718-swingers.json](./283718-swingers.json) |
