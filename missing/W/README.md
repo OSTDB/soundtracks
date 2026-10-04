@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Scott's Story in the World of Our Church and Halloween: Visual Novel | 225588 | [225588-welcome-to-scotts-story-in-the-world-of-our-church-and-halloween-visual-novel.json](./225588-welcome-to-scotts-story-in-the-world-of-our-church-and-halloween-visual-novel.json) |
 | Welcome to Sushi Tree | 316612 | [316612-welcome-to-sushi-tree.json](./316612-welcome-to-sushi-tree.json) |
 | Welcome to the Adventurer Inn! | 169460 | [169460-welcome-to-the-adventurer-inn.json](./169460-welcome-to-the-adventurer-inn.json) |
+| Welcome to the Backrooms | 197191 | [197191-welcome-to-the-backrooms.json](./197191-welcome-to-the-backrooms.json) |
 | Welcome to the Ballroom | 137577 | [137577-welcome-to-the-ballroom.json](./137577-welcome-to-the-ballroom.json) |
 | Welcome to the Chop House | 337087 | [337087-welcome-to-the-chop-house.json](./337087-welcome-to-the-chop-house.json) |
 | Welcome to the Colony | 184033 | [184033-welcome-to-the-colony.json](./184033-welcome-to-the-colony.json) |
@@ -2877,6 +2878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Park Gold Reloaded | 44189 | [44189-wildlife-park-gold-reloaded.json](./44189-wildlife-park-gold-reloaded.json) |
 | Wildlife Park: 15 Years Anniversary Trilogy | 136379 | [136379-wildlife-park-15-years-anniversary-trilogy.json](./136379-wildlife-park-15-years-anniversary-trilogy.json) |
 | Wildlife Park: Primeval | 87537 | [87537-wildlife-park-primeval.json](./87537-wildlife-park-primeval.json) |
+| Wildlife Planet: The Incremental | 197188 | [197188-wildlife-planet-the-incremental.json](./197188-wildlife-planet-the-incremental.json) |
 | Wildlife Rescue Simulator | 287695 | [287695-wildlife-rescue-simulator.json](./287695-wildlife-rescue-simulator.json) |
 | Wildlife Simulator: Bear | 86905 | [86905-wildlife-simulator-bear.json](./86905-wildlife-simulator-bear.json) |
 | Wildlife Simulator: Crocodile | 96723 | [96723-wildlife-simulator-crocodile.json](./96723-wildlife-simulator-crocodile.json) |
@@ -4636,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Odyssey | 275914 | [275914-worm-odyssey.json](./275914-worm-odyssey.json) |
 | Worm Run | 196173 | [196173-worm-run.json](./196173-worm-run.json) |
 | Worm Runner | 207354 | [207354-worm-runner.json](./207354-worm-runner.json) |
+| Worm Slayer | 197206 | [197206-worm-slayer.json](./197206-worm-slayer.json) |
 | Worm Visitor | 210645 | [210645-worm-visitor.json](./210645-worm-visitor.json) |
 | Worm War I | 22556 | [22556-worm-war-i.json](./22556-worm-war-i.json) |
 | Worm War: Greengrocer | 290420 | [290420-worm-war-greengrocer.json](./290420-worm-war-greengrocer.json) |
