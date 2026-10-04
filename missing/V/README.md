@@ -1745,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void: Icarus | 365254 | [365254-void-icarus.json](./365254-void-icarus.json) |
 | void.Resign | 130329 | [130329-void-resign.json](./130329-void-resign.json) |
 | Void's Ballad | 163734 | [163734-voids-ballad.json](./163734-voids-ballad.json) |
+| Void's Calling ep. 2 | 196093 | [196093-voids-calling-ep-2.json](./196093-voids-calling-ep-2.json) |
 | Void's Rage | 381274 | [381274-voids-rage.json](./381274-voids-rage.json) |
 | Void/Breaker | 339626 | [339626-void-breaker.json](./339626-void-breaker.json) |
 | Voidblade | 392912 | [392912-voidblade.json](./392912-voidblade.json) |
