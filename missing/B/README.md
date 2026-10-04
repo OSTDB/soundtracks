@@ -6191,6 +6191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat Crew | 167803 | [167803-boat-crew.json](./167803-boat-crew.json) |
 | Boat House | 313352 | [313352-boat-house.json](./313352-boat-house.json) |
 | Boat Prom | 141015 | [141015-boat-prom.json](./141015-boat-prom.json) |
+| Boat Race Teiou | 199964 | [199964-boat-race-teiou.json](./199964-boat-race-teiou.json) |
 | Boat Racer | 367594 | [367594-boat-racer.json](./367594-boat-racer.json) |
 | Boat Rage | 235377 | [235377-boat-rage.json](./235377-boat-rage.json) |
 | Boat Rescue Simulator Mobile | 228116 | [228116-boat-rescue-simulator-mobile.json](./228116-boat-rescue-simulator-mobile.json) |
