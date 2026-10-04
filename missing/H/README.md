@@ -947,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Hero | 263504 | [263504-hard-hero.json](./263504-hard-hero.json) |
 | Hard Knock High | 43350 | [43350-hard-knock-high.json](./43350-hard-knock-high.json) |
 | Hard Lads | 135305 | [135305-hard-lads.json](./135305-hard-lads.json) |
+| Hard Landing | 212179 | [212179-hard-landing.json](./212179-hard-landing.json) |
 | Hard Life | 219810 | [219810-hard-life.json](./219810-hard-life.json) |
 | Hard Love: Darkest Desire | 286763 | [286763-hard-love-darkest-desire.json](./286763-hard-love-darkest-desire.json) |
 | Hard Man | 37423 | [37423-hard-man.json](./37423-hard-man.json) |
@@ -2902,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic's Hope | 216329 | [216329-heretics-hope.json](./216329-heretics-hope.json) |
 | Heretic's Lot | 158566 | [158566-heretics-lot.json](./158566-heretics-lot.json) |
 | HereWith | 236889 | [236889-herewith.json](./236889-herewith.json) |
+| Herezh: Generations of Heroes | 212183 | [212183-herezh-generations-of-heroes.json](./212183-herezh-generations-of-heroes.json) |
 | Heritage | 323499 | [323499-heritage.json](./323499-heritage.json) |
 | Heritage | 376042 | [376042-heritage.json](./376042-heritage.json) |
 | Heritage Hills | 156666 | [156666-heritage-hills.json](./156666-heritage-hills.json) |
@@ -5182,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Honey | 156628 | [156628-horny-honey.json](./156628-horny-honey.json) |
 | Horny Housewives 2 | 340484 | [340484-horny-housewives-2.json](./340484-horny-housewives-2.json) |
 | Horny Massage Clinic | 411063 | [411063-horny-massage-clinic.json](./411063-horny-massage-clinic.json) |
+| Horny Punishment | 212182 | [212182-horny-punishment.json](./212182-horny-punishment.json) |
 | Horny Recruiter | 368046 | [368046-horny-recruiter.json](./368046-horny-recruiter.json) |
 | Horny Spell | 226189 | [226189-horny-spell.json](./226189-horny-spell.json) |
 | Horny Spy: Secret Mission | 262001 | [262001-horny-spy-secret-mission.json](./262001-horny-spy-secret-mission.json) |
