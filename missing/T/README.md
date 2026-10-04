@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails' Nightmare 2 | 307584 | [307584-tails-nightmare-2.json](./307584-tails-nightmare-2.json) |
 | TailScape: The corgi’s Advendture | 325836 | [325836-tailscape-the-corgi-s-advendture.json](./325836-tailscape-the-corgi-s-advendture.json) |
 | Tailside: Cozy Cafe Sim | 296995 | [296995-tailside-cozy-cafe-sim.json](./296995-tailside-cozy-cafe-sim.json) |
+| Tailspin! | 177371 | [177371-tailspin.json](./177371-tailspin.json) |
 | Tailwind | 90648 | [90648-tailwind.json](./90648-tailwind.json) |
 | TailzFromTheGrave | 108434 | [108434-tailzfromthegrave.json](./108434-tailzfromthegrave.json) |
 | Taima Miko Yuugi | 68673 | [68673-taima-miko-yuugi.json](./68673-taima-miko-yuugi.json) |
@@ -1415,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taro Is Back | 415094 | [415094-taro-is-back.json](./415094-taro-is-back.json) |
 | Taro the Sneaky Ninja | 305476 | [305476-taro-the-sneaky-ninja.json](./305476-taro-the-sneaky-ninja.json) |
 | Taro's Quest | 48882 | [48882-taros-quest.json](./48882-taros-quest.json) |
+| Tarot | 177381 | [177381-tarot.json](./177381-tarot.json) |
 | Tarot | 95371 | [95371-tarot.json](./95371-tarot.json) |
 | Tarot Mystery | 37793 | [37793-tarot-mystery.json](./37793-tarot-mystery.json) |
 | Tarot Spell | 390271 | [390271-tarot-spell.json](./390271-tarot-spell.json) |
@@ -1515,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavenier | 81420 | [81420-tavenier.json](./81420-tavenier.json) |
 | Tavern Cards | 129098 | [129098-tavern-cards.json](./129098-tavern-cards.json) |
 | Tavern Crawl | 192234 | [192234-tavern-crawl.json](./192234-tavern-crawl.json) |
+| Tavern Crawler | 177362 | [177362-tavern-crawler.json](./177362-tavern-crawler.json) |
 | Tavern Deep Cauldron | 401024 | [401024-tavern-deep-cauldron.json](./401024-tavern-deep-cauldron.json) |
 | Tavern Girl | 290949 | [290949-tavern-girl.json](./290949-tavern-girl.json) |
 | Tavern Girl: Expansion Pack | 297738 | [297738-tavern-girl-expansion-pack.json](./297738-tavern-girl-expansion-pack.json) |
@@ -7440,6 +7443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moonlighters | 62993 | [62993-the-moonlighters.json](./62993-the-moonlighters.json) |
 | The Moonlit Tower | 216324 | [216324-the-moonlit-tower.json](./216324-the-moonlit-tower.json) |
 | The Mooseman | 27358 | [27358-the-mooseman.json](./27358-the-mooseman.json) |
+| The Morgue: Hospital Escape | 177286 | [177286-the-morgue-hospital-escape.json](./177286-the-morgue-hospital-escape.json) |
 | The Moroccan Castle 3: Behind The Secrets | 242229 | [242229-the-moroccan-castle-3-behind-the-secrets.json](./242229-the-moroccan-castle-3-behind-the-secrets.json) |
 | The Moron Test | 117757 | [117757-the-moron-test.json](./117757-the-moron-test.json) |
 | The Morphine Western Revenge | 185622 | [185622-the-morphine-western-revenge.json](./185622-the-morphine-western-revenge.json) |
@@ -8330,6 +8334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rift Between Us | 258606 | [258606-the-rift-between-us.json](./258606-the-rift-between-us.json) |
 | The Riftbreaker: Heart of the Swamp | 263033 | [263033-the-riftbreaker-heart-of-the-swamp.json](./263033-the-riftbreaker-heart-of-the-swamp.json) |
 | The Right Side of Town | 185408 | [185408-the-right-side-of-town.json](./185408-the-right-side-of-town.json) |
+| The Right Todd | 177365 | [177365-the-right-todd.json](./177365-the-right-todd.json) |
 | The Right Turn | 183060 | [183060-the-right-turn.json](./183060-the-right-turn.json) |
 | The Righteous Scar | 322685 | [322685-the-righteous-scar.json](./322685-the-righteous-scar.json) |
 | The Ringing of Twilight | 334925 | [334925-the-ringing-of-twilight.json](./334925-the-ringing-of-twilight.json) |
@@ -10462,6 +10467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Therapy Simulator 2023 | 248078 | [248078-therapy-simulator-2023.json](./248078-therapy-simulator-2023.json) |
 | Therapy with Dr. Albert Krueger | 148411 | [148411-therapy-with-dr-albert-krueger.json](./148411-therapy-with-dr-albert-krueger.json) |
 | There a no Armadillos in this game | 129212 | [129212-there-a-no-armadillos-in-this-game.json](./129212-there-a-no-armadillos-in-this-game.json) |
+| There Are Ghosts In These Stalls | 177292 | [177292-there-are-ghosts-in-these-stalls.json](./177292-there-are-ghosts-in-these-stalls.json) |
 | There Are No Ghosts at the Grand | 347841 | [347841-there-are-no-ghosts-at-the-grand.json](./347841-there-are-no-ghosts-at-the-grand.json) |
 | There Are People In Your Walls | 373644 | [373644-there-are-people-in-your-walls.json](./373644-there-are-people-in-your-walls.json) |
 | There Aren't Really Words... | 135852 | [135852-there-arent-really-words.json](./135852-there-arent-really-words.json) |
@@ -10491,6 +10497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Was a Mixup at the Factory! | 227810 | [227810-there-was-a-mixup-at-the-factory.json](./227810-there-was-a-mixup-at-the-factory.json) |
 | There was something here | 183873 | [183873-there-was-something-here.json](./183873-there-was-something-here.json) |
 | There Was Something In That Room | 338273 | [338273-there-was-something-in-that-room.json](./338273-there-was-something-in-that-room.json) |
+| There's a Bear Outside | 177358 | [177358-theres-a-bear-outside.json](./177358-theres-a-bear-outside.json) |
 | There's a Butcher Around | 118016 | [118016-theres-a-butcher-around.json](./118016-theres-a-butcher-around.json) |
 | There's a Rikishi in my House | 199613 | [199613-theres-a-rikishi-in-my-house.json](./199613-theres-a-rikishi-in-my-house.json) |
 | There's Always a Madman: Bring the Thunder | 322680 | [322680-theres-always-a-madman-bring-the-thunder.json](./322680-theres-always-a-madman-bring-the-thunder.json) |
@@ -14412,6 +14419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Winter | 240885 | [240885-tower-of-winter.json](./240885-tower-of-winter.json) |
 | Tower Of Wishes 3: Japan | 289933 | [289933-tower-of-wishes-3-japan.json](./289933-tower-of-wishes-3-japan.json) |
 | Tower of Wishes 4: Shaka | 356769 | [356769-tower-of-wishes-4-shaka.json](./356769-tower-of-wishes-4-shaka.json) |
+| Tower Offender | 177367 | [177367-tower-offender.json](./177367-tower-offender.json) |
 | Tower Offensive | 177836 | [177836-tower-offensive.json](./177836-tower-offensive.json) |
 | Tower Princess | 115661 | [115661-tower-princess.json](./115661-tower-princess.json) |
 | Tower Shield | 387588 | [387588-tower-shield.json](./387588-tower-shield.json) |
