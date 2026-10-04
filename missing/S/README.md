@@ -13176,6 +13176,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Moon Island 2: Break Out MP07 | 190573 | [190573-starry-moon-island-2-break-out-mp07.json](./190573-starry-moon-island-2-break-out-mp07.json) |
 | Starry Moon Island 2: Break Out MP08 | 190569 | [190569-starry-moon-island-2-break-out-mp08.json](./190569-starry-moon-island-2-break-out-mp08.json) |
 | Starry Moon Island 2: Break Out MP09 | 190571 | [190571-starry-moon-island-2-break-out-mp09.json](./190571-starry-moon-island-2-break-out-mp09.json) |
+| Starry Moon Island 2: Break Out MP10 | 190567 | [190567-starry-moon-island-2-break-out-mp10.json](./190567-starry-moon-island-2-break-out-mp10.json) |
+| Starry Moon Island 2: Cannon War MP01 | 190520 | [190520-starry-moon-island-2-cannon-war-mp01.json](./190520-starry-moon-island-2-cannon-war-mp01.json) |
+| Starry Moon Island 2: Cannon War MP02 | 190526 | [190526-starry-moon-island-2-cannon-war-mp02.json](./190526-starry-moon-island-2-cannon-war-mp02.json) |
+| Starry Moon Island 2: Cannon War MP04 | 190523 | [190523-starry-moon-island-2-cannon-war-mp04.json](./190523-starry-moon-island-2-cannon-war-mp04.json) |
+| Starry Moon Island 2: Cannon War MP05 | 190525 | [190525-starry-moon-island-2-cannon-war-mp05.json](./190525-starry-moon-island-2-cannon-war-mp05.json) |
+| Starry Moon Island 2: Cannon War MP06 | 190521 | [190521-starry-moon-island-2-cannon-war-mp06.json](./190521-starry-moon-island-2-cannon-war-mp06.json) |
+| Starry Moon Island 2: Cannon War MP07 | 190519 | [190519-starry-moon-island-2-cannon-war-mp07.json](./190519-starry-moon-island-2-cannon-war-mp07.json) |
+| Starry Moon Island 2: Cannon War MP08 | 190524 | [190524-starry-moon-island-2-cannon-war-mp08.json](./190524-starry-moon-island-2-cannon-war-mp08.json) |
+| Starry Moon Island 2: Cannon War MP09 | 190522 | [190522-starry-moon-island-2-cannon-war-mp09.json](./190522-starry-moon-island-2-cannon-war-mp09.json) |
+| Starry Moon Island 2: Cannon War MP10 | 190518 | [190518-starry-moon-island-2-cannon-war-mp10.json](./190518-starry-moon-island-2-cannon-war-mp10.json) |
+| Starry Moon Island 2: Cannonade MP01 | 190565 | [190565-starry-moon-island-2-cannonade-mp01.json](./190565-starry-moon-island-2-cannonade-mp01.json) |
+| Starry Moon Island 2: Cannonade MP02 | 190560 | [190560-starry-moon-island-2-cannonade-mp02.json](./190560-starry-moon-island-2-cannonade-mp02.json) |
+| Starry Moon Island 2: Cannonade MP03 | 190563 | [190563-starry-moon-island-2-cannonade-mp03.json](./190563-starry-moon-island-2-cannonade-mp03.json) |
+| Starry Moon Island 2: Cannonade MP04 | 190557 | [190557-starry-moon-island-2-cannonade-mp04.json](./190557-starry-moon-island-2-cannonade-mp04.json) |
+| Starry Moon Island 2: Cannonade MP05 | 190559 | [190559-starry-moon-island-2-cannonade-mp05.json](./190559-starry-moon-island-2-cannonade-mp05.json) |
+| Starry Moon Island 2: Cannonade MP06 | 190561 | [190561-starry-moon-island-2-cannonade-mp06.json](./190561-starry-moon-island-2-cannonade-mp06.json) |
+| Starry Moon Island 2: Cannonade MP07 | 190564 | [190564-starry-moon-island-2-cannonade-mp07.json](./190564-starry-moon-island-2-cannonade-mp07.json) |
+| Starry Moon Island 2: Cannonade MP08 | 190566 | [190566-starry-moon-island-2-cannonade-mp08.json](./190566-starry-moon-island-2-cannonade-mp08.json) |
+| Starry Moon Island 2: Cannonade MP09 | 190558 | [190558-starry-moon-island-2-cannonade-mp09.json](./190558-starry-moon-island-2-cannonade-mp09.json) |
+| Starry Moon Island 2: Cannonade MP10 | 190562 | [190562-starry-moon-island-2-cannonade-mp10.json](./190562-starry-moon-island-2-cannonade-mp10.json) |
 | Starry Moon Island 2: DNA War MP01 | 190595 | [190595-starry-moon-island-2-dna-war-mp01.json](./190595-starry-moon-island-2-dna-war-mp01.json) |
 | Starry Moon Island 2: DNA War MP02 | 190593 | [190593-starry-moon-island-2-dna-war-mp02.json](./190593-starry-moon-island-2-dna-war-mp02.json) |
 | Starry Moon Island 2: DNA War MP03 | 190594 | [190594-starry-moon-island-2-dna-war-mp03.json](./190594-starry-moon-island-2-dna-war-mp03.json) |
@@ -13186,6 +13206,36 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Moon Island 2: DNA War MP08 | 190587 | [190587-starry-moon-island-2-dna-war-mp08.json](./190587-starry-moon-island-2-dna-war-mp08.json) |
 | Starry Moon Island 2: DNA War MP09 | 190588 | [190588-starry-moon-island-2-dna-war-mp09.json](./190588-starry-moon-island-2-dna-war-mp09.json) |
 | Starry Moon Island 2: DNA War MP10 | 190596 | [190596-starry-moon-island-2-dna-war-mp10.json](./190596-starry-moon-island-2-dna-war-mp10.json) |
+| Starry Moon Island 2: Mobile Stronghold MP01 | 190553 | [190553-starry-moon-island-2-mobile-stronghold-mp01.json](./190553-starry-moon-island-2-mobile-stronghold-mp01.json) |
+| Starry Moon Island 2: Mobile Stronghold MP02 | 190548 | [190548-starry-moon-island-2-mobile-stronghold-mp02.json](./190548-starry-moon-island-2-mobile-stronghold-mp02.json) |
+| Starry Moon Island 2: Mobile Stronghold MP03 | 190550 | [190550-starry-moon-island-2-mobile-stronghold-mp03.json](./190550-starry-moon-island-2-mobile-stronghold-mp03.json) |
+| Starry Moon Island 2: Mobile Stronghold MP04 | 190552 | [190552-starry-moon-island-2-mobile-stronghold-mp04.json](./190552-starry-moon-island-2-mobile-stronghold-mp04.json) |
+| Starry Moon Island 2: Mobile Stronghold MP05 | 190549 | [190549-starry-moon-island-2-mobile-stronghold-mp05.json](./190549-starry-moon-island-2-mobile-stronghold-mp05.json) |
+| Starry Moon Island 2: Mobile Stronghold MP06 | 190547 | [190547-starry-moon-island-2-mobile-stronghold-mp06.json](./190547-starry-moon-island-2-mobile-stronghold-mp06.json) |
+| Starry Moon Island 2: Mobile Stronghold MP07 | 190555 | [190555-starry-moon-island-2-mobile-stronghold-mp07.json](./190555-starry-moon-island-2-mobile-stronghold-mp07.json) |
+| Starry Moon Island 2: Mobile Stronghold MP08 | 190551 | [190551-starry-moon-island-2-mobile-stronghold-mp08.json](./190551-starry-moon-island-2-mobile-stronghold-mp08.json) |
+| Starry Moon Island 2: Mobile Stronghold MP09 | 190554 | [190554-starry-moon-island-2-mobile-stronghold-mp09.json](./190554-starry-moon-island-2-mobile-stronghold-mp09.json) |
+| Starry Moon Island 2: Mobile Stronghold MP10 | 190556 | [190556-starry-moon-island-2-mobile-stronghold-mp10.json](./190556-starry-moon-island-2-mobile-stronghold-mp10.json) |
+| Starry Moon Island 2: Out of Control MP01 | 190540 | [190540-starry-moon-island-2-out-of-control-mp01.json](./190540-starry-moon-island-2-out-of-control-mp01.json) |
+| Starry Moon Island 2: Out of Control MP02 | 190538 | [190538-starry-moon-island-2-out-of-control-mp02.json](./190538-starry-moon-island-2-out-of-control-mp02.json) |
+| Starry Moon Island 2: Out of Control MP03 | 190544 | [190544-starry-moon-island-2-out-of-control-mp03.json](./190544-starry-moon-island-2-out-of-control-mp03.json) |
+| Starry Moon Island 2: Out of Control MP04 | 190539 | [190539-starry-moon-island-2-out-of-control-mp04.json](./190539-starry-moon-island-2-out-of-control-mp04.json) |
+| Starry Moon Island 2: Out of Control MP05 | 190541 | [190541-starry-moon-island-2-out-of-control-mp05.json](./190541-starry-moon-island-2-out-of-control-mp05.json) |
+| Starry Moon Island 2: Out of Control MP06 | 190546 | [190546-starry-moon-island-2-out-of-control-mp06.json](./190546-starry-moon-island-2-out-of-control-mp06.json) |
+| Starry Moon Island 2: Out of Control MP07 | 190537 | [190537-starry-moon-island-2-out-of-control-mp07.json](./190537-starry-moon-island-2-out-of-control-mp07.json) |
+| Starry Moon Island 2: Out of Control MP08 | 190542 | [190542-starry-moon-island-2-out-of-control-mp08.json](./190542-starry-moon-island-2-out-of-control-mp08.json) |
+| Starry Moon Island 2: Out of Control MP09 | 190543 | [190543-starry-moon-island-2-out-of-control-mp09.json](./190543-starry-moon-island-2-out-of-control-mp09.json) |
+| Starry Moon Island 2: Out of Control MP10 | 190545 | [190545-starry-moon-island-2-out-of-control-mp10.json](./190545-starry-moon-island-2-out-of-control-mp10.json) |
+| Starry Moon Island 2: Red Snake MP01 | 190536 | [190536-starry-moon-island-2-red-snake-mp01.json](./190536-starry-moon-island-2-red-snake-mp01.json) |
+| Starry Moon Island 2: Red Snake MP02 | 190532 | [190532-starry-moon-island-2-red-snake-mp02.json](./190532-starry-moon-island-2-red-snake-mp02.json) |
+| Starry Moon Island 2: Red Snake MP03 | 190534 | [190534-starry-moon-island-2-red-snake-mp03.json](./190534-starry-moon-island-2-red-snake-mp03.json) |
+| Starry Moon Island 2: Red Snake MP04 | 190530 | [190530-starry-moon-island-2-red-snake-mp04.json](./190530-starry-moon-island-2-red-snake-mp04.json) |
+| Starry Moon Island 2: Red Snake MP05 | 190527 | [190527-starry-moon-island-2-red-snake-mp05.json](./190527-starry-moon-island-2-red-snake-mp05.json) |
+| Starry Moon Island 2: Red Snake MP06 | 190535 | [190535-starry-moon-island-2-red-snake-mp06.json](./190535-starry-moon-island-2-red-snake-mp06.json) |
+| Starry Moon Island 2: Red Snake MP07 | 190533 | [190533-starry-moon-island-2-red-snake-mp07.json](./190533-starry-moon-island-2-red-snake-mp07.json) |
+| Starry Moon Island 2: Red Snake MP08 | 190531 | [190531-starry-moon-island-2-red-snake-mp08.json](./190531-starry-moon-island-2-red-snake-mp08.json) |
+| Starry Moon Island 2: Red Snake MP09 | 190529 | [190529-starry-moon-island-2-red-snake-mp09.json](./190529-starry-moon-island-2-red-snake-mp09.json) |
+| Starry Moon Island 2: Red Snake MP10 | 190528 | [190528-starry-moon-island-2-red-snake-mp10.json](./190528-starry-moon-island-2-red-snake-mp10.json) |
 | Starry Moon Island 2: Tank Advance MP01 | 190583 | [190583-starry-moon-island-2-tank-advance-mp01.json](./190583-starry-moon-island-2-tank-advance-mp01.json) |
 | Starry Moon Island 2: Tank Advance MP02 | 190585 | [190585-starry-moon-island-2-tank-advance-mp02.json](./190585-starry-moon-island-2-tank-advance-mp02.json) |
 | Starry Moon Island 2: Tank Advance MP03 | 190582 | [190582-starry-moon-island-2-tank-advance-mp03.json](./190582-starry-moon-island-2-tank-advance-mp03.json) |
