@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vektar | 382791 | [382791-vektar.json](./382791-vektar.json) |
 | Vektor 2089 | 134661 | [134661-vektor-2089.json](./134661-vektor-2089.json) |
 | Vektor Tank 3D+ | 85468 | [85468-vektor-tank-3d.json](./85468-vektor-tank-3d.json) |
+| Vektor Z | 186672 | [186672-vektor-z.json](./186672-vektor-z.json) |
 | Vektron Revenge | 33100 | [33100-vektron-revenge.json](./33100-vektron-revenge.json) |
 | Velana Adventures: Chapter I | 335348 | [335348-velana-adventures-chapter-i.json](./335348-velana-adventures-chapter-i.json) |
 | Velanit: The Forgotten Cottage | 403019 | [403019-velanit-the-forgotten-cottage.json](./403019-velanit-the-forgotten-cottage.json) |
