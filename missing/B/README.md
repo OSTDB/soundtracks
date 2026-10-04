@@ -1792,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman | 131462 | [131462-batman.json](./131462-batman.json) |
 | Batman | 200135 | [200135-batman.json](./200135-batman.json) |
 | Batman & Flash | 326624 | [326624-batman-and-flash.json](./326624-batman-and-flash.json) |
+| Batman & Robin | 199423 | [199423-batman-and-robin.json](./199423-batman-and-robin.json) |
 | Batman & Robin | 234179 | [234179-batman-and-robin.json](./234179-batman-and-robin.json) |
 | Batman Arkham Origins: Blackgate - Deluxe Edition | 21066 | [21066-batman-arkham-origins-blackgate-deluxe-edition.json](./21066-batman-arkham-origins-blackgate-deluxe-edition.json) |
 | Batman Begins | 229719 | [229719-batman-begins.json](./229719-batman-begins.json) |
@@ -2754,6 +2755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Dungeon | 180596 | [180596-beat-dungeon.json](./180596-beat-dungeon.json) |
 | Beat Feet | 369635 | [369635-beat-feet.json](./369635-beat-feet.json) |
 | Beat Fever: Music Tap Rhythm Game | 82995 | [82995-beat-fever-music-tap-rhythm-game.json](./82995-beat-fever-music-tap-rhythm-game.json) |
+| Beat Hazard 3 | 199447 | [199447-beat-hazard-3.json](./199447-beat-hazard-3.json) |
 | Beat Hazard Arcade | 368084 | [368084-beat-hazard-arcade.json](./368084-beat-hazard-arcade.json) |
 | Beat Hopper | 96049 | [96049-beat-hopper.json](./96049-beat-hopper.json) |
 | Beat It! | 66758 | [66758-beat-it.json](./66758-beat-it.json) |
@@ -4859,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackShadows | 34561 | [34561-blackshadows.json](./34561-blackshadows.json) |
 | BlackShield: Upora Story | 81066 | [81066-blackshield-upora-story.json](./81066-blackshield-upora-story.json) |
 | BlackShot | 33760 | [33760-blackshot.json](./33760-blackshot.json) |
+| BlackSky | 199446 | [199446-blacksky.json](./199446-blacksky.json) |
 | Blacksmith Bay | 150604 | [150604-blacksmith-bay.json](./150604-blacksmith-bay.json) |
 | Blacksmith Forger | 231063 | [231063-blacksmith-forger.json](./231063-blacksmith-forger.json) |
 | BlackSmith HIT | 31917 | [31917-blacksmith-hit.json](./31917-blacksmith-hit.json) |
@@ -6201,6 +6204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat Train | 227867 | [227867-boat-train.json](./227867-boat-train.json) |
 | Boat Violence: Ship Happens | 122197 | [122197-boat-violence-ship-happens.json](./122197-boat-violence-ship-happens.json) |
 | Boatgator | 253359 | [253359-boatgator.json](./253359-boatgator.json) |
+| Boating Simulator 2022 | 199458 | [199458-boating-simulator-2022.json](./199458-boating-simulator-2022.json) |
 | BoatMan | 169759 | [169759-boatman.json](./169759-boatman.json) |
 | Boaty McBoatwad | 260662 | [260662-boaty-mcboatwad.json](./260662-boaty-mcboatwad.json) |
 | Boaty Tanks | 261830 | [261830-boaty-tanks.json](./261830-boaty-tanks.json) |
@@ -6898,6 +6902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border of Insanity | 110152 | [110152-border-of-insanity.json](./110152-border-of-insanity.json) |
 | Border Patrol Simulator | 334342 | [334342-border-patrol-simulator.json](./334342-border-patrol-simulator.json) |
 | Border Reign | 142468 | [142468-border-reign.json](./142468-border-reign.json) |
+| Border Town | 199466 | [199466-border-town.json](./199466-border-town.json) |
 | Border Wars | 224091 | [224091-border-wars.json](./224091-border-wars.json) |
 | BorderCollie Game | 393011 | [393011-bordercollie-game.json](./393011-bordercollie-game.json) |
 | Borderlands 2 : Ultimate Vault Hunter Upgrade Pack | 186627 | [186627-borderlands-2-ultimate-vault-hunter-upgrade-pack.json](./186627-borderlands-2-ultimate-vault-hunter-upgrade-pack.json) |
@@ -7200,6 +7205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound of the Skies | 38976 | [38976-bound-of-the-skies.json](./38976-bound-of-the-skies.json) |
 | Bound to Defend | 410267 | [410267-bound-to-defend.json](./410267-bound-to-defend.json) |
 | Bound to Light | 74494 | [74494-bound-to-light.json](./74494-bound-to-light.json) |
+| Bounda | 199441 | [199441-bounda.json](./199441-bounda.json) |
 | Bounda Forever | 249361 | [249361-bounda-forever.json](./249361-bounda-forever.json) |
 | Boundary | 22395 | [22395-boundary.json](./22395-boundary.json) |
 | Boundary Gate: Daughter of Kingdom | 45949 | [45949-boundary-gate-daughter-of-kingdom.json](./45949-boundary-gate-daughter-of-kingdom.json) |
@@ -8855,6 +8861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Hell Monday | 57089 | [57089-bullet-hell-monday.json](./57089-bullet-hell-monday.json) |
 | Bullet Inferno | 368494 | [368494-bullet-inferno.json](./368494-bullet-inferno.json) |
 | Bullet Maniac | 237629 | [237629-bullet-maniac.json](./237629-bullet-maniac.json) |
+| Bullet Quest | 199461 | [199461-bullet-quest.json](./199461-bullet-quest.json) |
 | Bullet Rain | 302357 | [302357-bullet-rain.json](./302357-bullet-rain.json) |
 | Bullet Reality | 185435 | [185435-bullet-reality.json](./185435-bullet-reality.json) |
 | Bullet Runner | 152156 | [152156-bullet-runner.json](./152156-bullet-runner.json) |
@@ -9117,6 +9124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Zombies | 253502 | [253502-burger-zombies.json](./253502-burger-zombies.json) |
 | Burger: The Game | 102815 | [102815-burger-the-game.json](./102815-burger-the-game.json) |
 | Burgers | 18912 | [18912-burgers.json](./18912-burgers.json) |
+| BurgerTime | 199462 | [199462-burgertime.json](./199462-burgertime.json) |
 | BurgerTime | 199470 | [199470-burgertime.json](./199470-burgertime.json) |
 | BurgerTime | 246390 | [246390-burgertime.json](./246390-burgertime.json) |
 | BurgerTime | 276443 | [276443-burgertime.json](./276443-burgertime.json) |
