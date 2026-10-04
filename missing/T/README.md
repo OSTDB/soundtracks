@@ -5979,6 +5979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Interval Bureau: Extension 0 | 379028 | [379028-the-interval-bureau-extension-0.json](./379028-the-interval-bureau-extension-0.json) |
 | The Interview | 183901 | [183901-the-interview.json](./183901-the-interview.json) |
 | The Interview | 35786 | [35786-the-interview.json](./35786-the-interview.json) |
+| The Intruder | 174706 | [174706-the-intruder.json](./174706-the-intruder.json) |
 | The Intruder | 265600 | [265600-the-intruder.json](./265600-the-intruder.json) |
 | The Invasion 2 | 268038 | [268038-the-invasion-2.json](./268038-the-invasion-2.json) |
 | The Invasion of Area 51 | 130871 | [130871-the-invasion-of-area-51.json](./130871-the-invasion-of-area-51.json) |
@@ -8222,6 +8223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Real Texas: Dusty Skies Edition | 51922 | [51922-the-real-texas-dusty-skies-edition.json](./51922-the-real-texas-dusty-skies-edition.json) |
 | The Realm | 292558 | [292558-the-realm.json](./292558-the-realm.json) |
 | The Realm of Insight Compass | 253513 | [253513-the-realm-of-insight-compass.json](./253513-the-realm-of-insight-compass.json) |
+| The Realm of Keren: Exploratio | 174691 | [174691-the-realm-of-keren-exploratio.json](./174691-the-realm-of-keren-exploratio.json) |
 | The Reaper Survivors | 224760 | [224760-the-reaper-survivors.json](./224760-the-reaper-survivors.json) |
 | The Reason for Your Smile | 287911 | [287911-the-reason-for-your-smile.json](./287911-the-reason-for-your-smile.json) |
 | The Reason Why Cavemen Painted on Walls | 179571 | [179571-the-reason-why-cavemen-painted-on-walls.json](./179571-the-reason-why-cavemen-painted-on-walls.json) |
