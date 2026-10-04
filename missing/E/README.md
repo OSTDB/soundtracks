@@ -2353,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epstein 2 | 315091 | [315091-epstein-2.json](./315091-epstein-2.json) |
 | Epyka | 327930 | [327930-epyka.json](./327930-epyka.json) |
 | EQ Survival Manual | 406819 | [406819-eq-survival-manual.json](./406819-eq-survival-manual.json) |
+| Eqdrive.io | 195550 | [195550-eqdrive-io.json](./195550-eqdrive-io.json) |
 | Equaboreal 12.21 | 133903 | [133903-equaboreal-12-21.json](./133903-equaboreal-12-21.json) |
 | Equadle | 363029 | [363029-equadle.json](./363029-equadle.json) |
 | Equaland | 104251 | [104251-equaland.json](./104251-equaland.json) |
@@ -3086,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Slumber Party | 224582 | [224582-eternal-slumber-party.json](./224582-eternal-slumber-party.json) |
 | Eternal Slumber Party II | 261960 | [261960-eternal-slumber-party-ii.json](./261960-eternal-slumber-party-ii.json) |
 | Eternal Space | 285532 | [285532-eternal-space.json](./285532-eternal-space.json) |
+| Eternal Spectre | 195584 | [195584-eternal-spectre.json](./195584-eternal-spectre.json) |
 | Eternal Spring VR | 290119 | [290119-eternal-spring-vr.json](./290119-eternal-spring-vr.json) |
 | Eternal Starshine | 182370 | [182370-eternal-starshine.json](./182370-eternal-starshine.json) |
 | Eternal Step | 14388 | [14388-eternal-step.json](./14388-eternal-step.json) |
