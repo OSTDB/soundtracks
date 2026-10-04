@@ -2186,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GigaBash: MechaJuras | 347860 | [347860-gigabash-mechajuras.json](./347860-gigabash-mechajuras.json) |
 | GigaBash: Ultraman - Rising DLC | 404829 | [404829-gigabash-ultraman-rising-dlc.json](./404829-gigabash-ultraman-rising-dlc.json) |
 | GigaBash: Ultraman Zero | 404820 | [404820-gigabash-ultraman-zero.json](./404820-gigabash-ultraman-zero.json) |
+| Gigabit | 194346 | [194346-gigabit.json](./194346-gigabit.json) |
 | Gigablast | 66603 | [66603-gigablast.json](./66603-gigablast.json) |
 | Gigabot Run | 365233 | [365233-gigabot-run.json](./365233-gigabot-run.json) |
 | Gigachess: Brilliant Blitz Level Pack | 166224 | [166224-gigachess-brilliant-blitz-level-pack.json](./166224-gigachess-brilliant-blitz-level-pack.json) |
@@ -4363,6 +4364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Magician | 226671 | [226671-gravity-magician.json](./226671-gravity-magician.json) |
 | Gravity Mastery | 144191 | [144191-gravity-mastery.json](./144191-gravity-mastery.json) |
 | Gravity Mike | 239624 | [239624-gravity-mike.json](./239624-gravity-mike.json) |
+| Gravity Pilot! | 194366 | [194366-gravity-pilot.json](./194366-gravity-pilot.json) |
 | Gravity Pull | 202172 | [202172-gravity-pull.json](./202172-gravity-pull.json) |
 | Gravity Racers | 379054 | [379054-gravity-racers.json](./379054-gravity-racers.json) |
 | Gravity Range | 175333 | [175333-gravity-range.json](./175333-gravity-range.json) |
