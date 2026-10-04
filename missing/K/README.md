@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenshin Dragon Quest: Yomigaerishi Densetsu no Tsurugi | 267376 | [267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json](./267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json) |
 | Kenshuui Tendou Dokuta | 92634 | [92634-kenshuui-tendou-dokuta.json](./92634-kenshuui-tendou-dokuta.json) |
 | Kentilla | 26465 | [26465-kentilla.json](./26465-kentilla.json) |
+| Kentor and also Bloby in: Part 1 - The Krookening | 208825 | [208825-kentor-and-also-bloby-in-part-1-the-krookening.json](./208825-kentor-and-also-bloby-in-part-1-the-krookening.json) |
 | Kentoushi Gladiator Begins | 42871 | [42871-kentoushi-gladiator-begins.json](./42871-kentoushi-gladiator-begins.json) |
 | Kentris | 93343 | [93343-kentris.json](./93343-kentris.json) |
 | Kentucky Dash | 89678 | [89678-kentucky-dash.json](./89678-kentucky-dash.json) |
