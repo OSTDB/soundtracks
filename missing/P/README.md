@@ -7054,6 +7054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Ninja Storm | 284965 | [284965-power-rangers-ninja-storm.json](./284965-power-rangers-ninja-storm.json) |
 | Power Rangers: Ninja Storm | 3291 | [3291-power-rangers-ninja-storm.json](./3291-power-rangers-ninja-storm.json) |
 | Power Rangers: To the Rescue | 220101 | [220101-power-rangers-to-the-rescue.json](./220101-power-rangers-to-the-rescue.json) |
+| Power Rush | 194375 | [194375-power-rush.json](./194375-power-rush.json) |
 | Power Serve 3D Tennis | 20641 | [20641-power-serve-3d-tennis.json](./20641-power-serve-3d-tennis.json) |
 | Power Shovel | 44741 | [44741-power-shovel.json](./44741-power-shovel.json) |
 | Power Sink | 236781 | [236781-power-sink.json](./236781-power-sink.json) |
@@ -7764,6 +7765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Darts | 49953 | [49953-pro-darts.json](./49953-pro-darts.json) |
 | Pro Deer Hunting | 132159 | [132159-pro-deer-hunting.json](./132159-pro-deer-hunting.json) |
 | Pro Deer Hunting 2 | 157502 | [157502-pro-deer-hunting-2.json](./157502-pro-deer-hunting-2.json) |
+| Pro Deer Hunting: Out West | 194361 | [194361-pro-deer-hunting-out-west.json](./194361-pro-deer-hunting-out-west.json) |
 | Pro Evolution Soccer | 240457 | [240457-pro-evolution-soccer.json](./240457-pro-evolution-soccer.json) |
 | Pro Evolution Soccer 2 | 220944 | [220944-pro-evolution-soccer-2.json](./220944-pro-evolution-soccer-2.json) |
 | Pro Evolution Soccer 2010 | 240462 | [240462-pro-evolution-soccer-2010.json](./240462-pro-evolution-soccer-2010.json) |
