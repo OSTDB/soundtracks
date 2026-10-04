@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1-2-3 or 4-5-6 | 342215 | [342215-1-2-3-or-4-5-6.json](./342215-1-2-3-or-4-5-6.json) |
 | 1-2-Splendid Word Search! | 414432 | [414432-1-2-splendid-word-search.json](./414432-1-2-splendid-word-search.json) |
 | 1-2-Whopping Word Search! | 316806 | [316806-1-2-whopping-word-search.json](./316806-1-2-whopping-word-search.json) |
+| 1-800-Monsters | 179563 | [179563-1-800-monsters.json](./179563-1-800-monsters.json) |
 | 1-900-Cult | 242118 | [242118-1-900-cult.json](./242118-1-900-cult.json) |
 | 1-900-Gary | 325869 | [325869-1-900-gary.json](./325869-1-900-gary.json) |
 | 1-Bit Samurai | 181783 | [181783-1-bit-samurai.json](./181783-1-bit-samurai.json) |
@@ -1459,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 747 Flight Simulator | 15582 | [15582-747-flight-simulator.json](./15582-747-flight-simulator.json) |
 | 75 Demons | 353373 | [353373-75-demons.json](./353373-75-demons.json) |
 | 757 Captain | 68097 | [68097-757-captain.json](./68097-757-captain.json) |
+| 76 | 179553 | [179553-76.json](./179553-76.json) |
 | 768^2 | 271238 | [271238-768-2.json](./271238-768-2.json) |
 | 77 Oleander Avenue Ghost House Investigation | 205674 | [205674-77-oleander-avenue-ghost-house-investigation.json](./205674-77-oleander-avenue-ghost-house-investigation.json) |
 | 771 | 416809 | [416809-771.json](./416809-771.json) |
