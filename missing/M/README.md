@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marcella Moon: The Phantom of Harvest Grove | 373762 | [373762-marcella-moon-the-phantom-of-harvest-grove.json](./373762-marcella-moon-the-phantom-of-harvest-grove.json) |
 | March of Giants | 363900 | [363900-march-of-giants.json](./363900-march-of-giants.json) |
 | March of History | 116432 | [116432-march-of-history.json](./116432-march-of-history.json) |
+| March of Shrooms | 215020 | [215020-march-of-shrooms.json](./215020-march-of-shrooms.json) |
 | March of the Living | 18901 | [18901-march-of-the-living.json](./18901-march-of-the-living.json) |
 | March of the Penguins | 20648 | [20648-march-of-the-penguins.json](./20648-march-of-the-penguins.json) |
 | March of War: StormSiege | 170494 | [170494-march-of-war-stormsiege.json](./170494-march-of-war-stormsiege.json) |
@@ -4082,6 +4083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: Day in the Limelight | 261435 | [261435-mega-man-day-in-the-limelight.json](./261435-mega-man-day-in-the-limelight.json) |
 | Mega Man: Dr Wily Visits Indonesia | 356694 | [356694-mega-man-dr-wily-visits-indonesia.json](./356694-mega-man-dr-wily-visits-indonesia.json) |
 | Mega Man: Dual Override | 381249 | [381249-mega-man-dual-override.json](./381249-mega-man-dual-override.json) |
+| Mega Man: Four Hounds | 215172 | [215172-mega-man-four-hounds.json](./215172-mega-man-four-hounds.json) |
 | Mega Man: Limbo Edition | 269871 | [269871-mega-man-limbo-edition.json](./269871-mega-man-limbo-edition.json) |
 | Mega Man: Rock N Roll | 144203 | [144203-mega-man-rock-n-roll.json](./144203-mega-man-rock-n-roll.json) |
 | Mega Man: Shattered Diamond | 215151 | [215151-mega-man-shattered-diamond.json](./215151-mega-man-shattered-diamond.json) |
@@ -8387,6 +8389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstro Maestro | 382763 | [382763-monstro-maestro.json](./382763-monstro-maestro.json) |
 | Monstromania | 19343 | [19343-monstromania.json](./19343-monstromania.json) |
 | Monstronomy | 264653 | [264653-monstronomy.json](./264653-monstronomy.json) |
+| Monstropoly | 215012 | [215012-monstropoly.json](./215012-monstropoly.json) |
 | Monstrous Love | 221200 | [221200-monstrous-love.json](./221200-monstrous-love.json) |
 | Monstrous Lovers | 148562 | [148562-monstrous-lovers.json](./148562-monstrous-lovers.json) |
 | Monstrous Realms | 236202 | [236202-monstrous-realms.json](./236202-monstrous-realms.json) |
@@ -8507,6 +8510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Princess | 351268 | [351268-moon-princess.json](./351268-moon-princess.json) |
 | Moon Ranger | 48198 | [48198-moon-ranger.json](./48198-moon-ranger.json) |
 | Moon Rat | 330829 | [330829-moon-rat.json](./330829-moon-rat.json) |
+| Moon Rider | 215171 | [215171-moon-rider.json](./215171-moon-rider.json) |
 | Moon Rider | 295026 | [295026-moon-rider.json](./295026-moon-rider.json) |
 | Moon River | 298303 | [298303-moon-river.json](./298303-moon-river.json) |
 | Moon Runner | 199125 | [199125-moon-runner.json](./199125-moon-runner.json) |
@@ -9981,6 +9985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MurderHobo: Aggravation Quest | 63289 | [63289-murderhobo-aggravation-quest.json](./63289-murderhobo-aggravation-quest.json) |
 | Murderous Pursuits | 85526 | [85526-murderous-pursuits.json](./85526-murderous-pursuits.json) |
 | Murders & Mistresses | 418705 | [418705-murders-and-mistresses.json](./418705-murders-and-mistresses.json) |
+| Murders at Tealwoods Manor | 215103 | [215103-murders-at-tealwoods-manor.json](./215103-murders-at-tealwoods-manor.json) |
 | Murders on Budapest | 174285 | [174285-murders-on-budapest.json](./174285-murders-on-budapest.json) |
 | Murderwave: Digital Slaughter | 121011 | [121011-murderwave-digital-slaughter.json](./121011-murderwave-digital-slaughter.json) |
 | Murdle | 194471 | [194471-murdle.json](./194471-murdle.json) |
