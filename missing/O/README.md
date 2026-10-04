@@ -2040,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orchard Odyssey: Chestnut Christmas | 391146 | [391146-orchard-odyssey-chestnut-christmas.json](./391146-orchard-odyssey-chestnut-christmas.json) |
 | Orchard Odyssey: Pumpkin Party | 375440 | [375440-orchard-odyssey-pumpkin-party.json](./375440-orchard-odyssey-pumpkin-party.json) |
 | Orchard Outbreak: Slime Time | 383955 | [383955-orchard-outbreak-slime-time.json](./383955-orchard-outbreak-slime-time.json) |
+| Orchestra: The Brass Fate | 223539 | [223539-orchestra-the-brass-fate.json](./223539-orchestra-the-brass-fate.json) |
 | Orchidia | 208893 | [208893-orchidia.json](./208893-orchidia.json) |
 | Orchids to Dusk | 135906 | [135906-orchids-to-dusk.json](./135906-orchids-to-dusk.json) |
 | Orcish Inn | 9679 | [9679-orcish-inn.json](./9679-orcish-inn.json) |
