@@ -8454,6 +8454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protostar Drift | 103679 | [103679-protostar-drift.json](./103679-protostar-drift.json) |
 | Protostar Twilight | 294716 | [294716-protostar-twilight.json](./294716-protostar-twilight.json) |
 | Prototype | 119662 | [119662-prototype.json](./119662-prototype.json) |
+| Prototype | 220684 | [220684-prototype.json](./220684-prototype.json) |
 | Prototype Blocks | 191244 | [191244-prototype-blocks.json](./191244-prototype-blocks.json) |
 | Prototype Blocks 2 | 193429 | [193429-prototype-blocks-2.json](./193429-prototype-blocks-2.json) |
 | Prototype Chaos | 368596 | [368596-prototype-chaos.json](./368596-prototype-chaos.json) |
