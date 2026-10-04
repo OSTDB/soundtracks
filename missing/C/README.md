@@ -7173,6 +7173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consume | 179514 | [179514-consume.json](./179514-consume.json) |
 | Consume Thy Flesh: The Pumpkin Smashing Sim | 189137 | [189137-consume-thy-flesh-the-pumpkin-smashing-sim.json](./189137-consume-thy-flesh-the-pumpkin-smashing-sim.json) |
 | Consummate:Missing World | 51974 | [51974-consummate-missing-world.json](./51974-consummate-missing-world.json) |
+| Consumption | 179537 | [179537-consumption.json](./179537-consumption.json) |
 | Contact Draw: Football | 102915 | [102915-contact-draw-football.json](./102915-contact-draw-football.json) |
 | Contact Me | 149447 | [149447-contact-me.json](./149447-contact-me.json) |
 | Contacts | 379591 | [379591-contacts.json](./379591-contacts.json) |
