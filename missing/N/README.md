@@ -2140,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon Kids Bundle | 286512 | [286512-nickelodeon-kids-bundle.json](./286512-nickelodeon-kids-bundle.json) |
 | Nickelodeon Nick O Matic Design Factory | 210031 | [210031-nickelodeon-nick-o-matic-design-factory.json](./210031-nickelodeon-nick-o-matic-design-factory.json) |
 | Nickelodeon Pixel Town | 128374 | [128374-nickelodeon-pixel-town.json](./128374-nickelodeon-pixel-town.json) |
+| Nickelodeon Rugrats | 198878 | [198878-nickelodeon-rugrats.json](./198878-nickelodeon-rugrats.json) |
 | Nicktoons | 220098 | [220098-nicktoons.json](./220098-nicktoons.json) |
 | Nicktoons Basketball | 7984 | [7984-nicktoons-basketball.json](./7984-nicktoons-basketball.json) |
 | Nicktoons Nick Tunes | 210028 | [210028-nicktoons-nick-tunes.json](./210028-nicktoons-nick-tunes.json) |
