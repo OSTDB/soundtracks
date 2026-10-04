@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Bunny | 194998 | [194998-easter-bunny.json](./194998-easter-bunny.json) |
 | Easter Bunny | 278154 | [278154-easter-bunny.json](./278154-easter-bunny.json) |
 | Easter Bunny on Speed | 186270 | [186270-easter-bunny-on-speed.json](./186270-easter-bunny-on-speed.json) |
+| Easter Candy Break: Head to Head | 210696 | [210696-easter-candy-break-head-to-head.json](./210696-easter-candy-break-head-to-head.json) |
 | Easter Clicker: Idle Manager | 118339 | [118339-easter-clicker-idle-manager.json](./118339-easter-clicker-idle-manager.json) |
 | Easter Day Solitaire | 339789 | [339789-easter-day-solitaire.json](./339789-easter-day-solitaire.json) |
 | Easter Egg | 127225 | [127225-easter-egg.json](./127225-easter-egg.json) |
@@ -3376,6 +3377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everchained | 304643 | [304643-everchained.json](./304643-everchained.json) |
 | Everchanging | 157153 | [157153-everchanging.json](./157153-everchanging.json) |
 | Everdark Tower | 121744 | [121744-everdark-tower.json](./121744-everdark-tower.json) |
+| Everdell | 210527 | [210527-everdell.json](./210527-everdell.json) |
 | Everdine: A Lost Girl's Tale | 189142 | [189142-everdine-a-lost-girls-tale.json](./189142-everdine-a-lost-girls-tale.json) |
 | Everdream Valley | 138613 | [138613-everdream-valley.json](./138613-everdream-valley.json) |
 | Everdream Valley: GOG Exclusive DLC | 250652 | [250652-everdream-valley-gog-exclusive-dlc.json](./250652-everdream-valley-gog-exclusive-dlc.json) |
