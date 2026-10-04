@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Targeting Maths Lab 4 | 291995 | [291995-targeting-maths-lab-4.json](./291995-targeting-maths-lab-4.json) |
 | Targeting Maths Lab 6 | 291996 | [291996-targeting-maths-lab-6.json](./291996-targeting-maths-lab-6.json) |
 | Targeting Maths Lab Launch Pad | 291997 | [291997-targeting-maths-lab-launch-pad.json](./291997-targeting-maths-lab-launch-pad.json) |
+| TargetPop | 212156 | [212156-targetpop.json](./212156-targetpop.json) |
 | Targhan | 10849 | [10849-targhan.json](./10849-targhan.json) |
 | Tarisland | 254235 | [254235-tarisland.json](./254235-tarisland.json) |
 | Tarisland: Season 1 - Blight Dragon Elegy | 314403 | [314403-tarisland-season-1-blight-dragon-elegy.json](./314403-tarisland-season-1-blight-dragon-elegy.json) |
@@ -2077,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempo | 74385 | [74385-tempo.json](./74385-tempo.json) |
 | Tempo Jr. | 19761 | [19761-tempo-jr.json](./19761-tempo-jr.json) |
 | Tempo Nuts | 256542 | [256542-tempo-nuts.json](./256542-tempo-nuts.json) |
+| Tempo Punk | 212148 | [212148-tempo-punk.json](./212148-tempo-punk.json) |
 | Tempoknight | 224204 | [224204-tempoknight.json](./224204-tempoknight.json) |
 | Tempopo | 305178 | [305178-tempopo.json](./305178-tempopo.json) |
 | Temporal Cross | 310211 | [310211-temporal-cross.json](./310211-temporal-cross.json) |
@@ -8582,6 +8584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silent Huntress | 218587 | [218587-the-silent-huntress.json](./218587-the-silent-huntress.json) |
 | The Silent Islands | 211939 | [211939-the-silent-islands.json](./211939-the-silent-islands.json) |
 | The Silent One | 347763 | [347763-the-silent-one.json](./347763-the-silent-one.json) |
+| The Silent Sky: Part I | 212155 | [212155-the-silent-sky-part-i.json](./212155-the-silent-sky-part-i.json) |
 | The Silent Suite | 330923 | [330923-the-silent-suite.json](./330923-the-silent-suite.json) |
 | The Silent Swan: Rising in the Mist Edition | 271400 | [271400-the-silent-swan-rising-in-the-mist-edition.json](./271400-the-silent-swan-rising-in-the-mist-edition.json) |
 | The Silicon Shadow | 252260 | [252260-the-silicon-shadow.json](./252260-the-silicon-shadow.json) |
@@ -9703,6 +9706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Virus Game | 375853 | [375853-the-virus-game.json](./375853-the-virus-game.json) |
 | The Visit | 128660 | [128660-the-visit.json](./128660-the-visit.json) |
 | The Visit | 201289 | [201289-the-visit.json](./201289-the-visit.json) |
+| The Visit | 212153 | [212153-the-visit.json](./212153-the-visit.json) |
 | The Visit: Mizukawa | 388287 | [388287-the-visit-mizukawa.json](./388287-the-visit-mizukawa.json) |
 | The Visitor | 151752 | [151752-the-visitor.json](./151752-the-visitor.json) |
 | The Visitor Effect | 348249 | [348249-the-visitor-effect.json](./348249-the-visitor-effect.json) |
@@ -11909,6 +11913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Flight | 60550 | [60550-time-flight.json](./60550-time-flight.json) |
 | Time for Teletubbies | 326581 | [326581-time-for-teletubbies.json](./326581-time-for-teletubbies.json) |
 | Time For You: Chapter 01 | 168860 | [168860-time-for-you-chapter-01.json](./168860-time-for-you-chapter-01.json) |
+| Time From Earth | 212299 | [212299-time-from-earth.json](./212299-time-from-earth.json) |
 | Time Gal & Ninja Hayate | 55871 | [55871-time-gal-and-ninja-hayate.json](./55871-time-gal-and-ninja-hayate.json) |
 | Time Gal HD Remaster | 255872 | [255872-time-gal-hd-remaster.json](./255872-time-gal-hd-remaster.json) |
 | Time Gap | 109199 | [109199-time-gap.json](./109199-time-gap.json) |
