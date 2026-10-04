@@ -6243,6 +6243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Corgi | 255728 | [255728-hungry-corgi.json](./255728-hungry-corgi.json) |
 | Hungry Dino | 171494 | [171494-hungry-dino.json](./171494-hungry-dino.json) |
 | Hungry Dinosaurs | 42587 | [42587-hungry-dinosaurs.json](./42587-hungry-dinosaurs.json) |
+| Hungry Ducks | 177291 | [177291-hungry-ducks.json](./177291-hungry-ducks.json) |
 | Hungry Flame | 29579 | [29579-hungry-flame.json](./29579-hungry-flame.json) |
 | Hungry Fox | 181393 | [181393-hungry-fox.json](./181393-hungry-fox.json) |
 | Hungry Frog | 183335 | [183335-hungry-frog.json](./183335-hungry-frog.json) |
