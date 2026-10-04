@@ -985,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underlien: Safety Zone | 233561 | [233561-underlien-safety-zone.json](./233561-underlien-safety-zone.json) |
 | Underlight | 112974 | [112974-underlight.json](./112974-underlight.json) |
 | Underliner | 199497 | [199497-underliner.json](./199497-underliner.json) |
+| Underling Uprising | 195566 | [195566-underling-uprising.json](./195566-underling-uprising.json) |
 | Underload | 25763 | [25763-underload.json](./25763-underload.json) |
 | Underminer | 282013 | [282013-underminer.json](./282013-underminer.json) |
 | Undernauts: Labyrinth of Yomi | 25672 | [25672-undernauts-labyrinth-of-yomi.json](./25672-undernauts-labyrinth-of-yomi.json) |
