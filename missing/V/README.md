@@ -1898,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel - 3D Color by Number | 95094 | [95094-voxel-3d-color-by-number.json](./95094-voxel-3d-color-by-number.json) |
 | Voxel Blast | 34652 | [34652-voxel-blast.json](./34652-voxel-blast.json) |
 | Voxel Delvers | 381686 | [381686-voxel-delvers.json](./381686-voxel-delvers.json) |
+| Voxel Digger | 195591 | [195591-voxel-digger.json](./195591-voxel-digger.json) |
 | Voxel Doodle - Color By Number 3D | 105964 | [105964-voxel-doodle-color-by-number-3d.json](./105964-voxel-doodle-color-by-number-3d.json) |
 | Voxel Doom | 251544 | [251544-voxel-doom.json](./251544-voxel-doom.json) |
 | Voxel Doom II | 260124 | [260124-voxel-doom-ii.json](./260124-voxel-doom-ii.json) |
