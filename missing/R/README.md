@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Aktor | 383382 | [383382-re-aktor.json](./383382-re-aktor.json) |
 | Re:Ark | 290610 | [290610-re-ark.json](./290610-re-ark.json) |
 | Re:Award | 171460 | [171460-re-award.json](./171460-re-award.json) |
+| Re:Award - More Corridor 1 | 191074 | [191074-re-award-more-corridor-1.json](./191074-re-award-more-corridor-1.json) |
 | Re:Bf | 193405 | [193405-re-bf.json](./193405-re-bf.json) |
 | Re:birth Colony -Lost Azurite- | 60049 | [60049-re-birth-colony-lost-azurite.json](./60049-re-birth-colony-lost-azurite.json) |
 | Re:bound | 229012 | [229012-re-bound.json](./229012-re-bound.json) |
@@ -5581,6 +5582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rom's Truffle Trail | 56587 | [56587-roms-truffle-trail.json](./56587-roms-truffle-trail.json) |
 | Roma Incognita | 248034 | [248034-roma-incognita.json](./248034-roma-incognita.json) |
 | Roma Victor | 67955 | [67955-roma-victor.json](./67955-roma-victor.json) |
+| Roma VR: Domus | 191037 | [191037-roma-vr-domus.json](./191037-roma-vr-domus.json) |
 | Romace | 297572 | [297572-romace.json](./297572-romace.json) |
 | Roman City Tycoon | 300834 | [300834-roman-city-tycoon.json](./300834-roman-city-tycoon.json) |
 | Roman Empire | 13752 | [13752-roman-empire.json](./13752-roman-empire.json) |
