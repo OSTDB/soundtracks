@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Pool 3D Plus | 175307 | [175307-real-pool-3d-plus.json](./175307-real-pool-3d-plus.json) |
 | Real Pro Yakyuu!: Central League-hen | 282573 | [282573-real-pro-yakyuu-central-league-hen.json](./282573-real-pro-yakyuu-central-league-hen.json) |
 | Real Pro Yakyuu!: Pacific League-hen | 282574 | [282574-real-pro-yakyuu-pacific-league-hen.json](./282574-real-pro-yakyuu-pacific-league-hen.json) |
+| Real Puzzles | 208841 | [208841-real-puzzles.json](./208841-real-puzzles.json) |
 | Real Racing 2 | 11652 | [11652-real-racing-2.json](./11652-real-racing-2.json) |
 | Real Racing 2 HD | 90669 | [90669-real-racing-2-hd.json](./90669-real-racing-2-hd.json) |
 | Real Racing GTI | 343794 | [343794-real-racing-gti.json](./343794-real-racing-gti.json) |
@@ -4519,6 +4520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roads Yet Traveled | 359048 | [359048-roads-yet-traveled.json](./359048-roads-yet-traveled.json) |
 | Roadside | 286079 | [286079-roadside.json](./286079-roadside.json) |
 | Roadside Assistance Simulator | 36317 | [36317-roadside-assistance-simulator.json](./36317-roadside-assistance-simulator.json) |
+| Roadsters '98 | 208859 | [208859-roadsters-98.json](./208859-roadsters-98.json) |
 | Roadtrip | 266233 | [266233-roadtrip.json](./266233-roadtrip.json) |
 | Roadwars | 12843 | [12843-roadwars.json](./12843-roadwars.json) |
 | Roadwars | 95398 | [95398-roadwars.json](./95398-roadwars.json) |
