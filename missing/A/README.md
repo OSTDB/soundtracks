@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bibelot: Y-Type | 324951 | [324951-a-bibelot-y-type.json](./324951-a-bibelot-y-type.json) |
 | A Bird's Tale | 207242 | [207242-a-birds-tale.json](./207242-a-birds-tale.json) |
 | A Birthday Present | 254033 | [254033-a-birthday-present.json](./254033-a-birthday-present.json) |
+| A Bit of Light | 179020 | [179020-a-bit-of-light.json](./179020-a-bit-of-light.json) |
 | A Bit of Tactics | 221112 | [221112-a-bit-of-tactics.json](./221112-a-bit-of-tactics.json) |
 | A Blast from the Past | 233566 | [233566-a-blast-from-the-past.json](./233566-a-blast-from-the-past.json) |
 | A Blocky Kind of Love | 234012 | [234012-a-blocky-kind-of-love.json](./234012-a-blocky-kind-of-love.json) |
@@ -390,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Modest Legacy | 193187 | [193187-a-modest-legacy.json](./193187-a-modest-legacy.json) |
 | A Mole in a Hole | 211249 | [211249-a-mole-in-a-hole.json](./211249-a-mole-in-a-hole.json) |
 | A Mole in Space | 322750 | [322750-a-mole-in-space.json](./322750-a-mole-in-space.json) |
+| A Moment of a Self Portrait | 179000 | [179000-a-moment-of-a-self-portrait.json](./179000-a-moment-of-a-self-portrait.json) |
 | A Moon for the Sky | 9974 | [9974-a-moon-for-the-sky.json](./9974-a-moon-for-the-sky.json) |
 | A Moth Argent | 135835 | [135835-a-moth-argent.json](./135835-a-moth-argent.json) |
 | A Murder of Crows | 261846 | [261846-a-murder-of-crows.json](./261846-a-murder-of-crows.json) |
@@ -2188,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agony of a Dying MMO | 136415 | [136415-agony-of-a-dying-mmo.json](./136415-agony-of-a-dying-mmo.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
+| Agoraphobia | 179011 | [179011-agoraphobia.json](./179011-agoraphobia.json) |
 | Agos | 206602 | [206602-agos.json](./206602-agos.json) |
 | AGOS: A Game of Space | 138768 | [138768-agos-a-game-of-space.json](./138768-agos-a-game-of-space.json) |
 | Agraelus, Wanna be MaN | 141737 | [141737-agraelus-wanna-be-man.json](./141737-agraelus-wanna-be-man.json) |
@@ -5305,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Christmas Game | 326043 | [326043-another-christmas-game.json](./326043-another-christmas-game.json) |
 | Another Crabs Treasure Prototype | 371331 | [371331-another-crabs-treasure-prototype.json](./371331-another-crabs-treasure-prototype.json) |
 | Another Crusade | 135681 | [135681-another-crusade.json](./135681-another-crusade.json) |
+| Another Day | 179003 | [179003-another-day.json](./179003-another-day.json) |
 | Another Day | 254143 | [254143-another-day.json](./254143-another-day.json) |
 | Another Day As President | 394440 | [394440-another-day-as-president.json](./394440-another-day-as-president.json) |
 | Another Day in Hell | 341663 | [341663-another-day-in-hell.json](./341663-another-day-in-hell.json) |
@@ -5547,6 +5551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anxiety Puppy | 347827 | [347827-anxiety-puppy.json](./347827-anxiety-puppy.json) |
 | Anxiety Treatment with Relaxation | 187252 | [187252-anxiety-treatment-with-relaxation.json](./187252-anxiety-treatment-with-relaxation.json) |
 | Anxiety: Lost Night | 179490 | [179490-anxiety-lost-night.json](./179490-anxiety-lost-night.json) |
+| Anxietyware | 179002 | [179002-anxietyware.json](./179002-anxietyware.json) |
 | Any Castle | 337298 | [337298-any-castle.json](./337298-any-castle.json) |
 | Any Other Color | 408133 | [408133-any-other-color.json](./408133-any-other-color.json) |
 | Any World | 192794 | [192794-any-world.json](./192794-any-world.json) |
@@ -5590,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AonTheVoid Nevaeh | 386916 | [386916-aonthevoid-nevaeh.json](./386916-aonthevoid-nevaeh.json) |
 | Aooni | 307751 | [307751-aooni.json](./307751-aooni.json) |
 | Aooni: The Horror of Blueberry Onsen | 341884 | [341884-aooni-the-horror-of-blueberry-onsen.json](./341884-aooni-the-horror-of-blueberry-onsen.json) |
+| Aopii | 179018 | [179018-aopii.json](./179018-aopii.json) |
 | AOS Manager | 120367 | [120367-aos-manager.json](./120367-aos-manager.json) |
 | Aotu World | 241502 | [241502-aotu-world.json](./241502-aotu-world.json) |
 | Aozora Under Girls: Karsome Irony | 119755 | [119755-aozora-under-girls-karsome-irony.json](./119755-aozora-under-girls-karsome-irony.json) |
