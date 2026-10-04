@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 450 XP Games | 98817 | [98817-450-xp-games.json](./98817-450-xp-games.json) |
 | 46 Memory Lane | 165501 | [165501-46-memory-lane.json](./165501-46-memory-lane.json) |
 | 46 Okunen Monogatari: The Shinka Ron | 26675 | [26675-46-okunen-monogatari-the-shinka-ron.json](./26675-46-okunen-monogatari-the-shinka-ron.json) |
+| 46 Pegason b | 205022 | [205022-46-pegason-b.json](./205022-46-pegason-b.json) |
 | 48 Chambers | 64654 | [64654-48-chambers.json](./64654-48-chambers.json) |
 | 48 Pieces | 109036 | [109036-48-pieces.json](./109036-48-pieces.json) |
 | 49 Squares | 253448 | [253448-49-squares.json](./253448-49-squares.json) |
