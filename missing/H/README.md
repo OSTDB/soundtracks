@@ -2079,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Can Wait | 133412 | [133412-hell-can-wait.json](./133412-hell-can-wait.json) |
 | Hell Clock | 324256 | [324256-hell-clock.json](./324256-hell-clock.json) |
 | Hell Corp | 154568 | [154568-hell-corp.json](./154568-hell-corp.json) |
+| Hell Court | 179534 | [179534-hell-court.json](./179534-hell-court.json) |
 | Hell Crusher | 202845 | [202845-hell-crusher.json](./202845-hell-crusher.json) |
 | Hell Diary | 212770 | [212770-hell-diary.json](./212770-hell-diary.json) |
 | Hell Dice Gambit | 388396 | [388396-hell-dice-gambit.json](./388396-hell-dice-gambit.json) |
@@ -6108,6 +6109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo: Wild River | 210623 | [210623-hugo-wild-river.json](./210623-hugo-wild-river.json) |
 | Hugo: Winter Games | 337756 | [337756-hugo-winter-games.json](./337756-hugo-winter-games.json) |
 | Hugo's House of Horrors | 8881 | [8881-hugos-house-of-horrors.json](./8881-hugos-house-of-horrors.json) |
+| Hugs | 179542 | [179542-hugs.json](./179542-hugs.json) |
 | Hugungui Beopchik | 212858 | [212858-hugungui-beopchik.json](./212858-hugungui-beopchik.json) |
 | Huíwén Píngtái Tiàoyuè | 156136 | [156136-huiwen-pingtai-tiaoyue.json](./156136-huiwen-pingtai-tiaoyue.json) |
 | Hula Wii: Minna de Fura Oodorou! | 70679 | [70679-hula-wii-minna-de-fura-oodorou.json](./70679-hula-wii-minna-de-fura-oodorou.json) |
