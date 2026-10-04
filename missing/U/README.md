@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Kaiju: Battle Breeders | 223965 | [223965-ultra-kaiju-battle-breeders.json](./223965-ultra-kaiju-battle-breeders.json) |
 | Ultra Keibitai: Monster Attack | 413184 | [413184-ultra-keibitai-monster-attack.json](./413184-ultra-keibitai-monster-attack.json) |
 | Ultra LMAD | 231320 | [231320-ultra-lmad.json](./231320-ultra-lmad.json) |
+| Ultra Mega Cats | 217344 | [217344-ultra-mega-cats.json](./217344-ultra-mega-cats.json) |
 | Ultra Mega Dungeon 64 | 397662 | [397662-ultra-mega-dungeon-64.json](./397662-ultra-mega-dungeon-64.json) |
 | Ultra Mega Planet Battles | 244743 | [244743-ultra-mega-planet-battles.json](./244743-ultra-mega-planet-battles.json) |
 | Ultra Mega Xtra Party Challenge | 201784 | [201784-ultra-mega-xtra-party-challenge.json](./201784-ultra-mega-xtra-party-challenge.json) |
