@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamashi: Rise of Yokai | 196586 | [196586-tamashi-rise-of-yokai.json](./196586-tamashi-rise-of-yokai.json) |
 | Tamashii | 115152 | [115152-tamashii.json](./115152-tamashii.json) |
 | Tamashika | 329975 | [329975-tamashika.json](./329975-tamashika.json) |
+| Tamatot | 206040 | [206040-tamatot.json](./206040-tamatot.json) |
 | Tamatown | 250535 | [250535-tamatown.json](./250535-tamatown.json) |
 | TamaTown Tama-Go | 229958 | [229958-tamatown-tama-go.json](./229958-tamatown-tama-go.json) |
 | Tamaweb | 383530 | [383530-tamaweb.json](./383530-tamaweb.json) |
@@ -2180,6 +2181,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenka Touitsu SSB: Scenario - Mouko Houkousu | 283850 | [283850-tenka-touitsu-ssb-scenario-mouko-houkousu.json](./283850-tenka-touitsu-ssb-scenario-mouko-houkousu.json) |
 | Tenka Touitsu SSB: Scenario - Ryuuko Aiutsu | 283849 | [283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json](./283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json) |
 | Tenka Touitsu: SSB | 278496 | [278496-tenka-touitsu-ssb.json](./278496-tenka-touitsu-ssb.json) |
+| Tenkaichi: Sengoku Lovers | 206022 | [206022-tenkaichi-sengoku-lovers.json](./206022-tenkaichi-sengoku-lovers.json) |
+| Tenkaichi: Sengoku Lovers DS | 206023 | [206023-tenkaichi-sengoku-lovers-ds.json](./206023-tenkaichi-sengoku-lovers-ds.json) |
 | Tenko's Magical Sword Quest | 194991 | [194991-tenkos-magical-sword-quest.json](./194991-tenkos-magical-sword-quest.json) |
 | Tenkomori Shooting | 59909 | [59909-tenkomori-shooting.json](./59909-tenkomori-shooting.json) |
 | Tenkyu | 93737 | [93737-tenkyu.json](./93737-tenkyu.json) |
@@ -6165,6 +6168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kings Crusade: New Allies | 10976 | [10976-the-kings-crusade-new-allies.json](./10976-the-kings-crusade-new-allies.json) |
 | The Kings Crusade: Teutonic Knights | 10977 | [10977-the-kings-crusade-teutonic-knights.json](./10977-the-kings-crusade-teutonic-knights.json) |
 | The Kings of Limbo | 184498 | [184498-the-kings-of-limbo.json](./184498-the-kings-of-limbo.json) |
+| The Kings of the Dark Age | 206183 | [206183-the-kings-of-the-dark-age.json](./206183-the-kings-of-the-dark-age.json) |
 | The Kingsward | 400393 | [400393-the-kingsward.json](./400393-the-kingsward.json) |
 | The Kite | 111664 | [111664-the-kite.json](./111664-the-kite.json) |
 | The Klaxo Radio Hour | 122846 | [122846-the-klaxo-radio-hour.json](./122846-the-klaxo-radio-hour.json) |
