@@ -1732,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome Googoo | 330889 | [330889-welcome-googoo.json](./330889-welcome-googoo.json) |
 | Welcome Home | 146327 | [146327-welcome-home.json](./146327-welcome-home.json) |
 | Welcome Home | 183356 | [183356-welcome-home.json](./183356-welcome-home.json) |
+| Welcome Home | 191054 | [191054-welcome-home.json](./191054-welcome-home.json) |
 | Welcome Home | 327352 | [327352-welcome-home.json](./327352-welcome-home.json) |
 | Welcome House | 62987 | [62987-welcome-house.json](./62987-welcome-house.json) |
 | Welcome House 2: Keaton and His Uncle | 62985 | [62985-welcome-house-2-keaton-and-his-uncle.json](./62985-welcome-house-2-keaton-and-his-uncle.json) |
@@ -4894,6 +4895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wubbo: PuterPal | 390687 | [390687-wubbo-puterpal.json](./390687-wubbo-puterpal.json) |
 | Wudao | 284604 | [284604-wudao.json](./284604-wudao.json) |
 | Wufo | 228074 | [228074-wufo.json](./228074-wufo.json) |
+| Wuhan Clan | 191080 | [191080-wuhan-clan.json](./191080-wuhan-clan.json) |
 | Wuhu Island Explorer | 313184 | [313184-wuhu-island-explorer.json](./313184-wuhu-island-explorer.json) |
 | WuJiDaoRen | 216816 | [216816-wujidaoren.json](./216816-wujidaoren.json) |
 | Wukong Sun: Black Legend | 328464 | [328464-wukong-sun-black-legend.json](./328464-wukong-sun-black-legend.json) |
