@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valravn | 244363 | [244363-valravn.json](./244363-valravn.json) |
 | Valthazar's Sanctum | 266306 | [266306-valthazars-sanctum.json](./266306-valthazars-sanctum.json) |
 | Valve Complete Pack | 55025 | [55025-valve-complete-pack.json](./55025-valve-complete-pack.json) |
+| Valve Limit R | 198311 | [198311-valve-limit-r.json](./198311-valve-limit-r.json) |
 | Valves | 270717 | [270717-valves.json](./270717-valves.json) |
 | Valvontaa | 399057 | [399057-valvontaa.json](./399057-valvontaa.json) |
 | Valyria Tear | 60586 | [60586-valyria-tear.json](./60586-valyria-tear.json) |
@@ -331,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Hunter D | 126469 | [126469-vampire-hunter-d.json](./126469-vampire-hunter-d.json) |
 | Vampire Hunters | 244759 | [244759-vampire-hunters.json](./244759-vampire-hunters.json) |
 | Vampire Hunters | 27642 | [27642-vampire-hunters.json](./27642-vampire-hunters.json) |
+| Vampire Hurts | 198317 | [198317-vampire-hurts.json](./198317-vampire-hurts.json) |
 | Vampire Killer | 1115 | [1115-vampire-killer.json](./1115-vampire-killer.json) |
 | Vampire Knight DS | 69290 | [69290-vampire-knight-ds.json](./69290-vampire-knight-ds.json) |
 | Vampire Legends: Power of Three | 18308 | [18308-vampire-legends-power-of-three.json](./18308-vampire-legends-power-of-three.json) |
@@ -1637,9 +1639,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VN Dating Sims: Masa SMA | 214623 | [214623-vn-dating-sims-masa-sma.json](./214623-vn-dating-sims-masa-sma.json) |
 | Vnm | 307292 | [307292-vnm.json](./307292-vnm.json) |
 | VocabVan | 338565 | [338565-vocabvan.json](./338565-vocabvan.json) |
+| Vocadol | 198280 | [198280-vocadol.json](./198280-vocadol.json) |
 | Vocal Space Shooter | 156110 | [156110-vocal-space-shooter.json](./156110-vocal-space-shooter.json) |
 | Vocal Warrior | 58491 | [58491-vocal-warrior.json](./58491-vocal-warrior.json) |
+| Vocalodama | 198306 | [198306-vocalodama.json](./198306-vocalodama.json) |
 | Vocaluxe | 50878 | [50878-vocaluxe.json](./50878-vocaluxe.json) |
+| Vocanova | 198307 | [198307-vocanova.json](./198307-vocanova.json) |
 | Vodobanka | 207831 | [207831-vodobanka.json](./207831-vodobanka.json) |
 | Vogue | 183884 | [183884-vogue.json](./183884-vogue.json) |
 | Vohenn | 387538 | [387538-vohenn.json](./387538-vohenn.json) |
