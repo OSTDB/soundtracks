@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olea's Messenger | 110501 | [110501-oleas-messenger.json](./110501-oleas-messenger.json) |
 | Oleg Mongol | 161331 | [161331-oleg-mongol.json](./161331-oleg-mongol.json) |
 | Oleg Sobolev's ASCII Doom | 217783 | [217783-oleg-sobolevs-ascii-doom.json](./217783-oleg-sobolevs-ascii-doom.json) |
+| Oli | 192791 | [192791-oli.json](./192791-oli.json) |
 | Oli Boo Chu | 284406 | [284406-oli-boo-chu.json](./284406-oli-boo-chu.json) |
 | Oli One: Sneak in | 235378 | [235378-oli-one-sneak-in.json](./235378-oli-one-sneak-in.json) |
 | Olinda Fighters | 415941 | [415941-olinda-fighters.json](./415941-olinda-fighters.json) |
@@ -1249,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Line : Single Stroke Drawing | 106628 | [106628-one-line-single-stroke-drawing.json](./106628-one-line-single-stroke-drawing.json) |
 | One Line 3D | 243069 | [243069-one-line-3d.json](./243069-one-line-3d.json) |
 | One Line: Connect the Dots | 207811 | [207811-one-line-connect-the-dots.json](./207811-one-line-connect-the-dots.json) |
+| One Line: Letters and Codes | 192789 | [192789-one-line-letters-and-codes.json](./192789-one-line-letters-and-codes.json) |
 | One Little Ghost | 279733 | [279733-one-little-ghost.json](./279733-one-little-ghost.json) |
 | One Man and His Droid | 12958 | [12958-one-man-and-his-droid.json](./12958-one-man-and-his-droid.json) |
 | One Man Army | 65462 | [65462-one-man-army.json](./65462-one-man-army.json) |
@@ -2744,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlanders: Home is Where the Heart is | 277431 | [277431-outlanders-home-is-where-the-heart-is.json](./277431-outlanders-home-is-where-the-heart-is.json) |
 | Outlanders: Hunt and Survive | 348854 | [348854-outlanders-hunt-and-survive.json](./348854-outlanders-hunt-and-survive.json) |
 | Outlanders: The Keeper's Shanty | 298174 | [298174-outlanders-the-keepers-shanty.json](./298174-outlanders-the-keepers-shanty.json) |
+| Outlandia | 192747 | [192747-outlandia.json](./192747-outlandia.json) |
 | Outlands Safehouse | 405475 | [405475-outlands-safehouse.json](./405475-outlands-safehouse.json) |
 | Outlast: Bundle of Terror | 82441 | [82441-outlast-bundle-of-terror.json](./82441-outlast-bundle-of-terror.json) |
 | Outlast: Journey of a Gladiator | 157186 | [157186-outlast-journey-of-a-gladiator.json](./157186-outlast-journey-of-a-gladiator.json) |
