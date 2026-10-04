@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare - Season Three | 135219 | [135219-call-of-duty-modern-warfare-season-three.json](./135219-call-of-duty-modern-warfare-season-three.json) |
 | Call of Duty: Modern Warfare 2 - Force Recon | 135298 | [135298-call-of-duty-modern-warfare-2-force-recon.json](./135298-call-of-duty-modern-warfare-2-force-recon.json) |
 | Call of Duty: Modern Warfare 3 - Collection 1 | 194363 | [194363-call-of-duty-modern-warfare-3-collection-1.json](./194363-call-of-duty-modern-warfare-3-collection-1.json) |
+| Call of Duty: Modern Warfare 3 - Collection 2 | 194367 | [194367-call-of-duty-modern-warfare-3-collection-2.json](./194367-call-of-duty-modern-warfare-3-collection-2.json) |
 | Call of Duty: Modern Warfare 3 - Collection 3: Chaos Pack | 194416 | [194416-call-of-duty-modern-warfare-3-collection-3-chaos-pack.json](./194416-call-of-duty-modern-warfare-3-collection-3-chaos-pack.json) |
 | Call of Duty: Modern Warfare 3 - Collection 4: Final Assault | 194417 | [194417-call-of-duty-modern-warfare-3-collection-4-final-assault.json](./194417-call-of-duty-modern-warfare-3-collection-4-final-assault.json) |
 | Call of Duty: Modern Warfare 3 - Defiance | 134652 | [134652-call-of-duty-modern-warfare-3-defiance.json](./134652-call-of-duty-modern-warfare-3-defiance.json) |
@@ -585,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can you escape Switzerland | 220050 | [220050-can-you-escape-switzerland.json](./220050-can-you-escape-switzerland.json) |
 | Can You Escape- Jail Break | 106550 | [106550-can-you-escape-jail-break.json](./106550-can-you-escape-jail-break.json) |
 | Can you escape: Room Escape 1 | 106954 | [106954-can-you-escape-room-escape-1.json](./106954-can-you-escape-room-escape-1.json) |
+| Can You Escape? | 194391 | [194391-can-you-escape.json](./194391-can-you-escape.json) |
 | Can You Get Off Work on Time? | 320816 | [320816-can-you-get-off-work-on-time.json](./320816-can-you-get-off-work-on-time.json) |
 | Can You Get Over It | 101379 | [101379-can-you-get-over-it.json](./101379-can-you-get-over-it.json) |
 | Can You Make It Man | 284579 | [284579-can-you-make-it-man.json](./284579-can-you-make-it-man.json) |
@@ -3856,6 +3858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chitei Kekkadou: The Blood Flower Dungeon | 137616 | [137616-chitei-kekkadou-the-blood-flower-dungeon.json](./137616-chitei-kekkadou-the-blood-flower-dungeon.json) |
 | Chitei Tairiku Orudoora | 41379 | [41379-chitei-tairiku-orudoora.json](./41379-chitei-tairiku-orudoora.json) |
 | Chitin | 335989 | [335989-chitin.json](./335989-chitin.json) |
+| Chitty Chitty Train | 194395 | [194395-chitty-chitty-train.json](./194395-chitty-chitty-train.json) |
 | ChivalBee and the Mycelium Menace | 388228 | [388228-chivalbee-and-the-mycelium-menace.json](./388228-chivalbee-and-the-mycelium-menace.json) |
 | Chivalry 2: Day One Edition | 146126 | [146126-chivalry-2-day-one-edition.json](./146126-chivalry-2-day-one-edition.json) |
 | Chivalry 2: Regicide Update | 312382 | [312382-chivalry-2-regicide-update.json](./312382-chivalry-2-regicide-update.json) |
@@ -4557,6 +4560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus | 12944 | [12944-circus.json](./12944-circus.json) |
 | Circus | 206349 | [206349-circus.json](./206349-circus.json) |
 | Circus Atari | 78374 | [78374-circus-atari.json](./78374-circus-atari.json) |
+| Circus Baby's Diner | 194384 | [194384-circus-babys-diner.json](./194384-circus-babys-diner.json) |
 | Circus Caper | 48099 | [48099-circus-caper.json](./48099-circus-caper.json) |
 | Circus Convoy | 376721 | [376721-circus-convoy.json](./376721-circus-convoy.json) |
 | Circus Empire | 21490 | [21490-circus-empire.json](./21490-circus-empire.json) |
@@ -9563,6 +9567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crysis Wreckage | 51292 | [51292-crysis-wreckage.json](./51292-crysis-wreckage.json) |
 | Crysmalia: Dawn of Darkness | 228485 | [228485-crysmalia-dawn-of-darkness.json](./228485-crysmalia-dawn-of-darkness.json) |
 | Cryspace | 240746 | [240746-cryspace.json](./240746-cryspace.json) |
+| Crystal Anomaly | 194379 | [194379-crystal-anomaly.json](./194379-crystal-anomaly.json) |
 | Crystal Breaker | 284978 | [284978-crystal-breaker.json](./284978-crystal-breaker.json) |
 | Crystal Calamity | 350496 | [350496-crystal-calamity.json](./350496-crystal-calamity.json) |
 | Crystal Call | 142237 | [142237-crystal-call.json](./142237-crystal-call.json) |
