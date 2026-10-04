@@ -8303,9 +8303,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Station | 380434 | [380434-project-station.json](./380434-project-station.json) |
 | Project: Stellar Girls | 337827 | [337827-project-stellar-girls.json](./337827-project-stellar-girls.json) |
 | Project: Summer Ice - Bowling: Online | 221975 | [221975-project-summer-ice-bowling-online.json](./221975-project-summer-ice-bowling-online.json) |
+| Project: Summer Ice - Bowling: Story Five - Jane Version | 215105 | [215105-project-summer-ice-bowling-story-five-jane-version.json](./215105-project-summer-ice-bowling-story-five-jane-version.json) |
 | Project: Summer Ice - Bowling: Story Five - Mark Version | 229168 | [229168-project-summer-ice-bowling-story-five-mark-version.json](./229168-project-summer-ice-bowling-story-five-mark-version.json) |
 | Project: Summer Ice - Bowling: Story Five - Pammy Version | 215066 | [215066-project-summer-ice-bowling-story-five-pammy-version.json](./215066-project-summer-ice-bowling-story-five-pammy-version.json) |
 | Project: Summer Ice - Bowling: Story Four - Jane Version | 215106 | [215106-project-summer-ice-bowling-story-four-jane-version.json](./215106-project-summer-ice-bowling-story-four-jane-version.json) |
+| Project: Summer Ice - Bowling: Story Four - Mark Version | 215102 | [215102-project-summer-ice-bowling-story-four-mark-version.json](./215102-project-summer-ice-bowling-story-four-mark-version.json) |
 | Project: Summer Ice - Bowling: Story Four - Pammy Version | 215064 | [215064-project-summer-ice-bowling-story-four-pammy-version.json](./215064-project-summer-ice-bowling-story-four-pammy-version.json) |
 | Project: Summer Ice - Bowling: Story One - Jane Version | 215359 | [215359-project-summer-ice-bowling-story-one-jane-version.json](./215359-project-summer-ice-bowling-story-one-jane-version.json) |
 | Project: Summer Ice - Bowling: Story One - Mark Version | 215125 | [215125-project-summer-ice-bowling-story-one-mark-version.json](./215125-project-summer-ice-bowling-story-one-mark-version.json) |
@@ -9324,6 +9326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Plunder | 110505 | [110505-puzzle-plunder.json](./110505-puzzle-plunder.json) |
 | Puzzle Poker | 23550 | [23550-puzzle-poker.json](./23550-puzzle-poker.json) |
 | Puzzle Pop | 246361 | [246361-puzzle-pop.json](./246361-puzzle-pop.json) |
+| Puzzle Prism | 215015 | [215015-puzzle-prism.json](./215015-puzzle-prism.json) |
 | Puzzle Putt | 197246 | [197246-puzzle-putt.json](./197246-puzzle-putt.json) |
 | Puzzle Quest Chapter 1: Battle of Gruulkar | 70416 | [70416-puzzle-quest-chapter-1-battle-of-gruulkar.json](./70416-puzzle-quest-chapter-1-battle-of-gruulkar.json) |
 | Puzzle Quest: Galactrix | 8980 | [8980-puzzle-quest-galactrix.json](./8980-puzzle-quest-galactrix.json) |
