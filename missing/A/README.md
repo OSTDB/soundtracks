@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A thousand words that I could tell you | 257539 | [257539-a-thousand-words-that-i-could-tell-you.json](./257539-a-thousand-words-that-i-could-tell-you.json) |
 | A Timeless Story | 124669 | [124669-a-timeless-story.json](./124669-a-timeless-story.json) |
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
+| A Tiny Flicker | 201110 | [201110-a-tiny-flicker.json](./201110-a-tiny-flicker.json) |
 | A Tiny Wander | 324887 | [324887-a-tiny-wander.json](./324887-a-tiny-wander.json) |
 | A Tithe in Blood | 304683 | [304683-a-tithe-in-blood.json](./304683-a-tithe-in-blood.json) |
 | A to Zap! Featuring the Sunbuddies | 293313 | [293313-a-to-zap-featuring-the-sunbuddies.json](./293313-a-to-zap-featuring-the-sunbuddies.json) |
@@ -6930,7 +6931,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men: Air Combat - The Elite Missions | 50582 | [50582-army-men-air-combat-the-elite-missions.json](./50582-army-men-air-combat-the-elite-missions.json) |
 | Army Men: Major Malfunction | 5732 | [5732-army-men-major-malfunction.json](./5732-army-men-major-malfunction.json) |
 | Army Men: Mobile Ops | 280921 | [280921-army-men-mobile-ops.json](./280921-army-men-mobile-ops.json) |
+| Army Men: Sarge's Heroes 2 | 201091 | [201091-army-men-sarges-heroes-2.json](./201091-army-men-sarges-heroes-2.json) |
 | Army Men: Turf Wars | 49314 | [49314-army-men-turf-wars.json](./49314-army-men-turf-wars.json) |
+| Army Men: World War | 201092 | [201092-army-men-world-war.json](./201092-army-men-world-war.json) |
 | Army Men: World War | 44994 | [44994-army-men-world-war.json](./44994-army-men-world-war.json) |
 | Army Men: World War - Final Front | 43948 | [43948-army-men-world-war-final-front.json](./43948-army-men-world-war-final-front.json) |
 | Army Men: World War - Land Sea Air | 45097 | [45097-army-men-world-war-land-sea-air.json](./45097-army-men-world-war-land-sea-air.json) |
@@ -7028,6 +7031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arsenal Shock | 197114 | [197114-arsenal-shock.json](./197114-arsenal-shock.json) |
 | Arsene Lupin: Once a Thief | 302922 | [302922-arsene-lupin-once-a-thief.json](./302922-arsene-lupin-once-a-thief.json) |
 | Arsenic & Absinthe | 327191 | [327191-arsenic-and-absinthe.json](./327191-arsenic-and-absinthe.json) |
+| Arsilon | 201081 | [201081-arsilon.json](./201081-arsilon.json) |
 | ARSoccer | 343471 | [343471-arsoccer.json](./343471-arsoccer.json) |
 | Arsolid Productions | 201660 | [201660-arsolid-productions.json](./201660-arsolid-productions.json) |
 | Arson | 223660 | [223660-arson.json](./223660-arson.json) |
@@ -7428,6 +7432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspect of Daedalus | 275207 | [275207-aspect-of-daedalus.json](./275207-aspect-of-daedalus.json) |
 | Aspects of change | 121631 | [121631-aspects-of-change.json](./121631-aspects-of-change.json) |
 | Aspectus: Rinascimento Chronicles | 35938 | [35938-aspectus-rinascimento-chronicles.json](./35938-aspectus-rinascimento-chronicles.json) |
+| Aspen | 201116 | [201116-aspen.json](./201116-aspen.json) |
 | Aspen Lane VR | 182827 | [182827-aspen-lane-vr.json](./182827-aspen-lane-vr.json) |
 | Asphalt 9: Legends - High-Gear Pack | 237899 | [237899-asphalt-9-legends-high-gear-pack.json](./237899-asphalt-9-legends-high-gear-pack.json) |
 | Asphalt 9: Legends - Italian Pack | 237901 | [237901-asphalt-9-legends-italian-pack.json](./237901-asphalt-9-legends-italian-pack.json) |
@@ -8626,6 +8631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automatic War | 223390 | [223390-automatic-war.json](./223390-automatic-war.json) |
 | Automatica | 217013 | [217013-automatica.json](./217013-automatica.json) |
 | Automation | 165512 | [165512-automation.json](./165512-automation.json) |
+| Automation Station | 201069 | [201069-automation-station.json](./201069-automation-station.json) |
 | Automaton | 266852 | [266852-automaton.json](./266852-automaton.json) |
 | Automaton Heart | 317850 | [317850-automaton-heart.json](./317850-automaton-heart.json) |
 | Automaton Kingdom | 201665 | [201665-automaton-kingdom.json](./201665-automaton-kingdom.json) |
