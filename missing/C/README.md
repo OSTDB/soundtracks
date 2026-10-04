@@ -3995,6 +3995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chosen Angels | 255998 | [255998-chosen-angels.json](./255998-chosen-angels.json) |
 | Chosen Anyway: Card Game | 404958 | [404958-chosen-anyway-card-game.json](./404958-chosen-anyway-card-game.json) |
 | Chosen By Odin | 415124 | [415124-chosen-by-odin.json](./415124-chosen-by-odin.json) |
+| Chosen Dice | 212302 | [212302-chosen-dice.json](./212302-chosen-dice.json) |
 | Chosen of God | 321383 | [321383-chosen-of-god.json](./321383-chosen-of-god.json) |
 | Chosen War | 333353 | [333353-chosen-war.json](./333353-chosen-war.json) |
 | Choson Janggi | 312335 | [312335-choson-janggi.json](./312335-choson-janggi.json) |
@@ -4849,6 +4850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
 | Clan of Champions | 16341 | [16341-clan-of-champions.json](./16341-clan-of-champions.json) |
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
+| Clan Wars | 212162 | [212162-clan-wars.json](./212162-clan-wars.json) |
 | Clan Wars | 356284 | [356284-clan-wars.json](./356284-clan-wars.json) |
 | Clandestine | 14465 | [14465-clandestine.json](./14465-clandestine.json) |
 | Clandestine Castle Crashing | 262566 | [262566-clandestine-castle-crashing.json](./262566-clandestine-castle-crashing.json) |
@@ -5671,6 +5673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: To Jin Yong | 208466 | [208466-code-to-jin-yong.json](./208466-code-to-jin-yong.json) |
 | Code: X | 174798 | [174798-code-x.json](./174798-code-x.json) |
 | Code::Lux | 372092 | [372092-code-lux.json](./372092-code-lux.json) |
+| Code:Machina | 212165 | [212165-code-machina.json](./212165-code-machina.json) |
 | Code.Zer0 | 261220 | [261220-code-zer0.json](./261220-code-zer0.json) |
 | Code/The Werewolf Party | 120927 | [120927-code-the-werewolf-party.json](./120927-code-the-werewolf-party.json) |
 | Code2040 | 119632 | [119632-code2040.json](./119632-code2040.json) |
@@ -6857,6 +6860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connection Crawler | 418586 | [418586-connection-crawler.json](./418586-connection-crawler.json) |
 | Connection Error | 234022 | [234022-connection-error.json](./234022-connection-error.json) |
 | Connection Haunted | 130152 | [130152-connection-haunted.json](./130152-connection-haunted.json) |
+| Connection Lost | 212176 | [212176-connection-lost.json](./212176-connection-lost.json) |
 | Connection reHaunted | 146822 | [146822-connection-rehaunted.json](./146822-connection-rehaunted.json) |
 | Connection: The Nightmare Within | 258117 | [258117-connection-the-nightmare-within.json](./258117-connection-the-nightmare-within.json) |
 | Connections | 12413 | [12413-connections.json](./12413-connections.json) |
@@ -7828,6 +7832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter-Strike Online | 77251 | [77251-counter-strike-online.json](./77251-counter-strike-online.json) |
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
 | Counter-Strike: Source Offensive | 287621 | [287621-counter-strike-source-offensive.json](./287621-counter-strike-source-offensive.json) |
+| Counter-Stroke: Grand Building | 212146 | [212146-counter-stroke-grand-building.json](./212146-counter-stroke-grand-building.json) |
 | Counterattack | 256877 | [256877-counterattack.json](./256877-counterattack.json) |
 | CounterAttack | 33278 | [33278-counterattack.json](./33278-counterattack.json) |
 | CounterBlocks | 170828 | [170828-counterblocks.json](./170828-counterblocks.json) |
@@ -7928,6 +7933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoverQuest | 294456 | [294456-coverquest.json](./294456-coverquest.json) |
 | Covert | 112736 | [112736-covert.json](./112736-covert.json) |
 | Covert Command | 65507 | [65507-covert-command.json](./65507-covert-command.json) |
+| Covert Critter | 212300 | [212300-covert-critter.json](./212300-covert-critter.json) |
 | Covert Front | 213617 | [213617-covert-front.json](./213617-covert-front.json) |
 | Covert Front: Episode 1 - All Quiet on the Covert Front | 129558 | [129558-covert-front-episode-1-all-quiet-on-the-covert-front.json](./129558-covert-front-episode-1-all-quiet-on-the-covert-front.json) |
 | Covert Front: Episode 2 - Station on the Horizon | 69823 | [69823-covert-front-episode-2-station-on-the-horizon.json](./69823-covert-front-episode-2-station-on-the-horizon.json) |
@@ -8207,6 +8213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cranky Cat | 16514 | [16514-cranky-cat.json](./16514-cranky-cat.json) |
 | Cranky Food Friends | 230209 | [230209-cranky-food-friends.json](./230209-cranky-food-friends.json) |
 | Cranky Jump | 418591 | [418591-cranky-jump.json](./418591-cranky-jump.json) |
+| Cranner | 212301 | [212301-cranner.json](./212301-cranner.json) |
 | CRAP | 223517 | [223517-crap.json](./223517-crap.json) |
 | Crap Game, Don’t Play | 365075 | [365075-crap-game-don-t-play.json](./365075-crap-game-don-t-play.json) |
 | Crapette | 332253 | [332253-crapette.json](./332253-crapette.json) |
