@@ -1585,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO DC Super-Villains: Deluxe Edition | 118955 | [118955-lego-dc-super-villains-deluxe-edition.json](./118955-lego-dc-super-villains-deluxe-edition.json) |
 | LEGO DC Super-Villains: Justice League Dark Character Pack | 214481 | [214481-lego-dc-super-villains-justice-league-dark-character-pack.json](./214481-lego-dc-super-villains-justice-league-dark-character-pack.json) |
 | LEGO DC Super-Villains: Shazam! Movie Level Pack 1 & 2 | 207906 | [207906-lego-dc-super-villains-shazam-movie-level-pack-1-and-2.json](./207906-lego-dc-super-villains-shazam-movie-level-pack-1-and-2.json) |
+| LEGO DC Super-Villains: Young Justice Level Pack | 208251 | [208251-lego-dc-super-villains-young-justice-level-pack.json](./208251-lego-dc-super-villains-young-justice-level-pack.json) |
 | LEGO Dimensions | 11077 | [11077-lego-dimensions.json](./11077-lego-dimensions.json) |
 | LEGO Dimensions: Adventure Time Fun Pack | 172614 | [172614-lego-dimensions-adventure-time-fun-pack.json](./172614-lego-dimensions-adventure-time-fun-pack.json) |
 | LEGO Dimensions: Adventure Time Team Pack | 172619 | [172619-lego-dimensions-adventure-time-team-pack.json](./172619-lego-dimensions-adventure-time-team-pack.json) |
