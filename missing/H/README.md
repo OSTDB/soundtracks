@@ -2495,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Clicker: Valentine Is Streaming | 389612 | [389612-hentai-clicker-valentine-is-streaming.json](./389612-hentai-clicker-valentine-is-streaming.json) |
 | Hentai Clicker: Yumi Is Streaming | 389618 | [389618-hentai-clicker-yumi-is-streaming.json](./389618-hentai-clicker-yumi-is-streaming.json) |
 | Hentai Coloring Game | 161257 | [161257-hentai-coloring-game.json](./161257-hentai-coloring-game.json) |
+| Hentai Crazy Girls | 202203 | [202203-hentai-crazy-girls.json](./202203-hentai-crazy-girls.json) |
 | Hentai Crush | 136424 | [136424-hentai-crush.json](./136424-hentai-crush.json) |
 | Hentai Crystals | 257003 | [257003-hentai-crystals.json](./257003-hentai-crystals.json) |
 | Hentai Cyber | 368099 | [368099-hentai-cyber.json](./368099-hentai-cyber.json) |
