@@ -2724,6 +2724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seiyuu Danshi!: After Stories | 224471 | [224471-seiyuu-danshi-after-stories.json](./224471-seiyuu-danshi-after-stories.json) |
 | Seize the Cheese | 386875 | [386875-seize-the-cheese.json](./386875-seize-the-cheese.json) |
 | Seize the Clay | 118957 | [118957-seize-the-clay.json](./118957-seize-the-clay.json) |
+| Seize the Night | 193812 | [193812-seize-the-night.json](./193812-seize-the-night.json) |
 | Seizure of Territories | 240802 | [240802-seizure-of-territories.json](./240802-seizure-of-territories.json) |
 | Sejm The Game | 341051 | [341051-sejm-the-game.json](./341051-sejm-the-game.json) |
 | Seka II | 292323 | [292323-seka-ii.json](./292323-seka-ii.json) |
@@ -4167,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelled Flame | 182528 | [182528-shelled-flame.json](./182528-shelled-flame.json) |
 | Shelley Duvall's It's a Bird's Life | 79294 | [79294-shelley-duvalls-its-a-birds-life.json](./79294-shelley-duvalls-its-a-birds-life.json) |
 | Shelley Duvall's Tales of Digby the Dog | 336740 | [336740-shelley-duvalls-tales-of-digby-the-dog.json](./336740-shelley-duvalls-tales-of-digby-the-dog.json) |
+| ShellFire | 193826 | [193826-shellfire.json](./193826-shellfire.json) |
 | Shellguard: Starbound Expansion Remastered | 357316 | [357316-shellguard-starbound-expansion-remastered.json](./357316-shellguard-starbound-expansion-remastered.json) |
 | Shellie's Secret | 378169 | [378169-shellies-secret.json](./378169-shellies-secret.json) |
 | ShellPieces | 356894 | [356894-shellpieces.json](./356894-shellpieces.json) |
@@ -7387,6 +7389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash + Grab | 23178 | [23178-smash-grab.json](./23178-smash-grab.json) |
 | Smash and Bash Monsters | 277346 | [277346-smash-and-bash-monsters.json](./277346-smash-and-bash-monsters.json) |
 | Smash Arrow | 56421 | [56421-smash-arrow.json](./56421-smash-arrow.json) |
+| Smash Ball | 193808 | [193808-smash-ball.json](./193808-smash-ball.json) |
 | Smash Balls | 275898 | [275898-smash-balls.json](./275898-smash-balls.json) |
 | Smash Balls 2 | 395770 | [395770-smash-balls-2.json](./395770-smash-balls-2.json) |
 | Smash Bandits Racing | 174727 | [174727-smash-bandits-racing.json](./174727-smash-bandits-racing.json) |
@@ -9721,6 +9724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Survivor | 147413 | [147413-soul-survivor.json](./147413-soul-survivor.json) |
 | Soul Survivor | 329001 | [329001-soul-survivor.json](./329001-soul-survivor.json) |
 | Soul Survivor | 61706 | [61706-soul-survivor.json](./61706-soul-survivor.json) |
+| Soul Sword: Grow Sword Master | 193827 | [193827-soul-sword-grow-sword-master.json](./193827-soul-sword-grow-sword-master.json) |
 | Soul Symphony | 196878 | [196878-soul-symphony.json](./196878-soul-symphony.json) |
 | Soul Thief: A Wizard's Lizard 2 | 58771 | [58771-soul-thief-a-wizards-lizard-2.json](./58771-soul-thief-a-wizards-lizard-2.json) |
 | Soul Tolerance | 211757 | [211757-soul-tolerance.json](./211757-soul-tolerance.json) |
@@ -11217,6 +11221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider | 379979 | [379979-spider.json](./379979-spider.json) |
 | Spider | 88429 | [88429-spider.json](./88429-spider.json) |
 | Spider Alley | 25079 | [25079-spider-alley.json](./25079-spider-alley.json) |
+| Spider Amazing Battle Fighting | 193828 | [193828-spider-amazing-battle-fighting.json](./193828-spider-amazing-battle-fighting.json) |
 | Spider and Web | 91916 | [91916-spider-and-web.json](./91916-spider-and-web.json) |
 | Spider Bike | 359463 | [359463-spider-bike.json](./359463-spider-bike.json) |
 | Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
