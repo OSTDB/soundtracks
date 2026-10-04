@@ -3813,6 +3813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinni and the Lost Voice | 186611 | [186611-pinni-and-the-lost-voice.json](./186611-pinni-and-the-lost-voice.json) |
 | Pino the Elemental | 240752 | [240752-pino-the-elemental.json](./240752-pino-the-elemental.json) |
 | Pinobee | 209960 | [209960-pinobee.json](./209960-pinobee.json) |
+| Pinocchia no Miru Yume | 203288 | [203288-pinocchia-no-miru-yume.json](./203288-pinocchia-no-miru-yume.json) |
 | Pinocchio: Interactive Book | 265189 | [265189-pinocchio-interactive-book.json](./265189-pinocchio-interactive-book.json) |
 | Pinocchio's Puzzle | 84821 | [84821-pinocchios-puzzle.json](./84821-pinocchios-puzzle.json) |
 | Pinochle by Webfoot | 99396 | [99396-pinochle-by-webfoot.json](./99396-pinochle-by-webfoot.json) |
@@ -5397,6 +5398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Puzzle | 249935 | [249935-pocket-puzzle.json](./249935-pocket-puzzle.json) |
 | Pocket Race: Driver | 273441 | [273441-pocket-race-driver.json](./273441-pocket-race-driver.json) |
 | Pocket Racer | 129150 | [129150-pocket-racer.json](./129150-pocket-racer.json) |
+| Pocket Racers | 203188 | [203188-pocket-racers.json](./203188-pocket-racers.json) |
 | Pocket Races | 153834 | [153834-pocket-races.json](./153834-pocket-races.json) |
 | Pocket Ray | 227818 | [227818-pocket-ray.json](./227818-pocket-ray.json) |
 | Pocket Realms | 99223 | [99223-pocket-realms.json](./99223-pocket-realms.json) |
@@ -5790,6 +5792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Go: World of Wonders | 383000 | [383000-pokemon-go-world-of-wonders.json](./383000-pokemon-go-world-of-wonders.json) |
 | Pokémon Goita | 377713 | [377713-pokemon-goita.json](./377713-pokemon-goita.json) |
 | Pokémon Gold and Silver 97: Reforged | 203224 | [203224-pokemon-gold-and-silver-97-reforged.json](./203224-pokemon-gold-and-silver-97-reforged.json) |
+| Pokémon Grape | 203217 | [203217-pokemon-grape.json](./203217-pokemon-grape.json) |
 | Pokémon Gratia | 318562 | [318562-pokemon-gratia.json](./318562-pokemon-gratia.json) |
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
 | Pokémon Hoenn's Last Wish | 396514 | [396514-pokemon-hoenns-last-wish.json](./396514-pokemon-hoenns-last-wish.json) |
@@ -5984,6 +5987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Professor Oak Challenge | 338849 | [338849-pokemon-professor-oak-challenge.json](./338849-pokemon-professor-oak-challenge.json) |
 | Pokémon: The Pit | 308392 | [308392-pokemon-the-pit.json](./308392-pokemon-the-pit.json) |
 | Pokémon: Too Many Types | 278078 | [278078-pokemon-too-many-types.json](./278078-pokemon-too-many-types.json) |
+| Pokémon: Ultra Violet Version | 203221 | [203221-pokemon-ultra-violet-version.json](./203221-pokemon-ultra-violet-version.json) |
 | Pokémon/Grand Order | 330927 | [330927-pokemon-grand-order.json](./330927-pokemon-grand-order.json) |
 | PokemonGoGo | 381780 | [381780-pokemongogo.json](./381780-pokemongogo.json) |
 | Pokénet | 333548 | [333548-pokenet.json](./333548-pokenet.json) |
