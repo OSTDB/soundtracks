@@ -1174,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicorn Academy: Island of Magic | 410966 | [410966-unicorn-academy-island-of-magic.json](./410966-unicorn-academy-island-of-magic.json) |
 | Unicorn and Sweets | 149951 | [149951-unicorn-and-sweets.json](./149951-unicorn-and-sweets.json) |
 | Unicorn and Sweets 2 | 152804 | [152804-unicorn-and-sweets-2.json](./152804-unicorn-and-sweets-2.json) |
+| Unicorn Break: Head to Head | 210697 | [210697-unicorn-break-head-to-head.json](./210697-unicorn-break-head-to-head.json) |
 | Unicorn Coloring Book | 96076 | [96076-unicorn-coloring-book.json](./96076-unicorn-coloring-book.json) |
 | Unicorn Fun | 227843 | [227843-unicorn-fun.json](./227843-unicorn-fun.json) |
 | Unicorn Go | 25958 | [25958-unicorn-go.json](./25958-unicorn-go.json) |
