@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Labours of Hercules XI: Painted Adventure - Collector's Edition | 338904 | [338904-12-labours-of-hercules-xi-painted-adventure-collectors-edition.json](./338904-12-labours-of-hercules-xi-painted-adventure-collectors-edition.json) |
 | 12 Labours of Hercules XII: Timeless Adventure - Collectors Edition | 338905 | [338905-12-labours-of-hercules-xii-timeless-adventure-collectors-edition.json](./338905-12-labours-of-hercules-xii-timeless-adventure-collectors-edition.json) |
 | 12 Labours of Hercules XIII: Wonder-ful Builder - Collector's Edition | 338908 | [338908-12-labours-of-hercules-xiii-wonder-ful-builder-collectors-edition.json](./338908-12-labours-of-hercules-xiii-wonder-ful-builder-collectors-edition.json) |
+| 12 Labours of Hercules XIV: Message in a Bottle | 221170 | [221170-12-labours-of-hercules-xiv-message-in-a-bottle.json](./221170-12-labours-of-hercules-xiv-message-in-a-bottle.json) |
 | 12 Labours of Hercules XIV: Message in a Bottle - Collector's Edition | 338911 | [338911-12-labours-of-hercules-xiv-message-in-a-bottle-collectors-edition.json](./338911-12-labours-of-hercules-xiv-message-in-a-bottle-collectors-edition.json) |
 | 12 Labours of Hercules XVII: Feathered Fury | 318605 | [318605-12-labours-of-hercules-xvii-feathered-fury.json](./318605-12-labours-of-hercules-xvii-feathered-fury.json) |
 | 12 Labours of Hercules XVIII: Ghost Sheep | 355039 | [355039-12-labours-of-hercules-xviii-ghost-sheep.json](./355039-12-labours-of-hercules-xviii-ghost-sheep.json) |
@@ -791,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Boys | 305904 | [305904-2048-boys.json](./305904-2048-boys.json) |
 | 2048 Card Game | 235229 | [235229-2048-card-game.json](./235229-2048-card-game.json) |
 | 2048 Cat | 147264 | [147264-2048-cat.json](./147264-2048-cat.json) |
+| 2048 Farmer in the Dell | 221231 | [221231-2048-farmer-in-the-dell.json](./221231-2048-farmer-in-the-dell.json) |
 | 2048 Fusion | 308226 | [308226-2048-fusion.json](./308226-2048-fusion.json) |
 | 2048 Game With New Levels | 262361 | [262361-2048-game-with-new-levels.json](./262361-2048-game-with-new-levels.json) |
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
@@ -1435,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Ball: Reborn | 337783 | [337783-8-ball-reborn.json](./337783-8-ball-reborn.json) |
 | 8 beat Story | 56167 | [56167-8-beat-story.json](./56167-8-beat-story.json) |
 | 8 Bit Fighters | 233495 | [233495-8-bit-fighters.json](./233495-8-bit-fighters.json) |
+| 8 Bit Rally | 221209 | [221209-8-bit-rally.json](./221209-8-bit-rally.json) |
 | 8 Bit Son-of-a-Bitch | 186235 | [186235-8-bit-son-of-a-bitch.json](./186235-8-bit-son-of-a-bitch.json) |
 | 8 Bit Space | 135100 | [135100-8-bit-space.json](./135100-8-bit-space.json) |
 | 8 Legs to Love | 181252 | [181252-8-legs-to-love.json](./181252-8-legs-to-love.json) |
