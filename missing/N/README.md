@@ -2871,6 +2871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninku: Tsuyokina Yatsura no Daigekitotsu! | 60536 | [60536-ninku-tsuyokina-yatsura-no-daigekitotsu.json](./60536-ninku-tsuyokina-yatsura-no-daigekitotsu.json) |
 | NinMaki | 149942 | [149942-ninmaki.json](./149942-ninmaki.json) |
 | NinNinDays 2 | 230799 | [230799-ninnindays-2.json](./230799-ninnindays-2.json) |
+| NinNinDays2 | 186695 | [186695-ninnindays2.json](./186695-ninnindays2.json) |
 | NinNinDays2 | 192399 | [192399-ninnindays2.json](./192399-ninnindays2.json) |
 | Nino Maze Lofi II | 193197 | [193197-nino-maze-lofi-ii.json](./193197-nino-maze-lofi-ii.json) |
 | Ninpek | 317577 | [317577-ninpek.json](./317577-ninpek.json) |
@@ -3340,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturne | 150509 | [150509-nocturne.json](./150509-nocturne.json) |
 | Nocturne | 229636 | [229636-nocturne.json](./229636-nocturne.json) |
 | Nocturne | 402375 | [402375-nocturne.json](./402375-nocturne.json) |
+| Nocturne 191 | 186712 | [186712-nocturne-191.json](./186712-nocturne-191.json) |
 | Nocturne for Cyl-Hestia | 390813 | [390813-nocturne-for-cyl-hestia.json](./390813-nocturne-for-cyl-hestia.json) |
 | Nocturne in Yellow | 141870 | [141870-nocturne-in-yellow.json](./141870-nocturne-in-yellow.json) |
 | Nocturne Maze: Shadows in the Hedge | 374079 | [374079-nocturne-maze-shadows-in-the-hedge.json](./374079-nocturne-maze-shadows-in-the-hedge.json) |
