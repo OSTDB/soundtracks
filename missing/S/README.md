@@ -1422,6 +1422,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Idol | 408245 | [408245-scarlet-idol.json](./408245-scarlet-idol.json) |
 | Scarlet Lake | 253872 | [253872-scarlet-lake.json](./253872-scarlet-lake.json) |
 | Scarlet Manor: The Heir | 272937 | [272937-scarlet-manor-the-heir.json](./272937-scarlet-manor-the-heir.json) |
+| Scarlet Nexus: Bond Enhancement Pack 2 | 224474 | [224474-scarlet-nexus-bond-enhancement-pack-2.json](./224474-scarlet-nexus-bond-enhancement-pack-2.json) |
+| Scarlet Nexus: Brain Eater Pack 3 | 224473 | [224473-scarlet-nexus-brain-eater-pack-3.json](./224473-scarlet-nexus-brain-eater-pack-3.json) |
 | Scarlet Nexus: Ultimate Edition | 188044 | [188044-scarlet-nexus-ultimate-edition.json](./188044-scarlet-nexus-ultimate-edition.json) |
 | Scarlet Prism | 413819 | [413819-scarlet-prism.json](./413819-scarlet-prism.json) |
 | Scarlet Republics | 156693 | [156693-scarlet-republics.json](./156693-scarlet-republics.json) |
@@ -2436,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector Shooter | 361266 | [361266-sector-shooter.json](./361266-sector-shooter.json) |
 | Sector Six | 32924 | [32924-sector-six.json](./32924-sector-six.json) |
 | Sector Strike | 145016 | [145016-sector-strike.json](./145016-sector-strike.json) |
+| Sector Sweep | 224598 | [224598-sector-sweep.json](./224598-sector-sweep.json) |
 | Sector War | 413131 | [413131-sector-war.json](./413131-sector-war.json) |
 | Sector Zero | 304298 | [304298-sector-zero.json](./304298-sector-zero.json) |
 | Sector Zero | 35783 | [35783-sector-zero.json](./35783-sector-zero.json) |
@@ -2664,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seito Kaichou de Amaenbou na Onee-chan ha Suki Desu ka? | 399191 | [399191-seito-kaichou-de-amaenbou-na-onee-chan-ha-suki-desu-ka.json](./399191-seito-kaichou-de-amaenbou-na-onee-chan-ha-suki-desu-ka.json) |
 | Seiun Kamen Machineman: Dengeki Convert | 385750 | [385750-seiun-kamen-machineman-dengeki-convert.json](./385750-seiun-kamen-machineman-dengeki-convert.json) |
 | Seiya Online | 144251 | [144251-seiya-online.json](./144251-seiya-online.json) |
+| Seiyuu Danshi!: After Stories | 224471 | [224471-seiyuu-danshi-after-stories.json](./224471-seiyuu-danshi-after-stories.json) |
 | Seize the Cheese | 386875 | [386875-seize-the-cheese.json](./386875-seize-the-cheese.json) |
 | Seize the Clay | 118957 | [118957-seize-the-clay.json](./118957-seize-the-clay.json) |
 | Seizure of Territories | 240802 | [240802-seizure-of-territories.json](./240802-seizure-of-territories.json) |
@@ -6300,6 +6304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Limb | 177839 | [177839-skull-limb.json](./177839-skull-limb.json) |
 | Skull Maze: Tiny Roguelike | 200709 | [200709-skull-maze-tiny-roguelike.json](./200709-skull-maze-tiny-roguelike.json) |
 | Skull Skull Skull | 333215 | [333215-skull-skull-skull.json](./333215-skull-skull-skull.json) |
+| Skull Survivor | 224603 | [224603-skull-survivor.json](./224603-skull-survivor.json) |
 | Skull8 | 362873 | [362873-skull8.json](./362873-skull8.json) |
 | Skullbreaker | 370341 | [370341-skullbreaker.json](./370341-skullbreaker.json) |
 | Skullchef | 408786 | [408786-skullchef.json](./408786-skullchef.json) |
@@ -17673,6 +17678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor's Dawn | 319940 | [319940-survivors-dawn.json](./319940-survivors-dawn.json) |
 | Survivor's Day | 294947 | [294947-survivors-day.json](./294947-survivors-day.json) |
 | Survivor's End | 250451 | [250451-survivors-end.json](./250451-survivors-end.json) |
+| Survivorman VR: The Descent | 224602 | [224602-survivorman-vr-the-descent.json](./224602-survivorman-vr-the-descent.json) |
 | Survivors in Blood | 296532 | [296532-survivors-in-blood.json](./296532-survivors-in-blood.json) |
 | Survivors Left: X | 124177 | [124177-survivors-left-x.json](./124177-survivors-left-x.json) |
 | Survivors of Journey to the West: Bald Guy vs Wukong | 310058 | [310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json](./310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json) |
@@ -18535,6 +18541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SynthRunner | 233630 | [233630-synthrunner.json](./233630-synthrunner.json) |
 | Synthwave Ascension | 265117 | [265117-synthwave-ascension.json](./265117-synthwave-ascension.json) |
 | Synthwave Driver | 344387 | [344387-synthwave-driver.json](./344387-synthwave-driver.json) |
+| Synthwave Glider | 224604 | [224604-synthwave-glider.json](./224604-synthwave-glider.json) |
 | Synthwave Hop | 172198 | [172198-synthwave-hop.json](./172198-synthwave-hop.json) |
 | Synthwave Runner | 277519 | [277519-synthwave-runner.json](./277519-synthwave-runner.json) |
 | Synzzball | 123499 | [123499-synzzball.json](./123499-synzzball.json) |
