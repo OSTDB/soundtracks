@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napoleon's Campaigns II | 65045 | [65045-napoleons-campaigns-ii.json](./65045-napoleons-campaigns-ii.json) |
 | Napoleon's Campaigns: 1813 & 1815 | 23989 | [23989-napoleons-campaigns-1813-and-1815.json](./23989-napoleons-campaigns-1813-and-1815.json) |
 | Napoleonic Battles: The Final Struggle | 182272 | [182272-napoleonic-battles-the-final-struggle.json](./182272-napoleonic-battles-the-final-struggle.json) |
+| Napped | 219648 | [219648-napped.json](./219648-napped.json) |
 | Napple Tale: Arsia in Daydream | 28152 | [28152-napple-tale-arsia-in-daydream.json](./28152-napple-tale-arsia-in-daydream.json) |
 | Nara: Facing Fire | 210086 | [210086-nara-facing-fire.json](./210086-nara-facing-fire.json) |
 | Naraba: The Labyrinth of Light | 206781 | [206781-naraba-the-labyrinth-of-light.json](./206781-naraba-the-labyrinth-of-light.json) |
@@ -848,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necris Dome | 12956 | [12956-necris-dome.json](./12956-necris-dome.json) |
 | Necro Defense | 113687 | [113687-necro-defense.json](./113687-necro-defense.json) |
 | Necro Genesis | 390639 | [390639-necro-genesis.json](./390639-necro-genesis.json) |
+| Necro Saga | 219504 | [219504-necro-saga.json](./219504-necro-saga.json) |
 | Necro Wars | 127261 | [127261-necro-wars.json](./127261-necro-wars.json) |
 | NecroArcher | 199359 | [199359-necroarcher.json](./199359-necroarcher.json) |
 | Necroblade | 217282 | [217282-necroblade.json](./217282-necroblade.json) |
@@ -3899,6 +3901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuke Destroyer | 97158 | [97158-nuke-destroyer.json](./97158-nuke-destroyer.json) |
 | Nuke Mine | 311467 | [311467-nuke-mine.json](./311467-nuke-mine.json) |
 | Nuke Them All | 250513 | [250513-nuke-them-all.json](./250513-nuke-them-all.json) |
+| Nukepath | 219625 | [219625-nukepath.json](./219625-nukepath.json) |
 | Nuketris | 145666 | [145666-nuketris.json](./145666-nuketris.json) |
 | NukiTashi | 201846 | [201846-nukitashi.json](./201846-nukitashi.json) |
 | Nulandia | 304718 | [304718-nulandia.json](./304718-nulandia.json) |
