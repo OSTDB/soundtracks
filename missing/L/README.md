@@ -4354,7 +4354,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Saga | 63868 | [63868-lost-saga.json](./63868-lost-saga.json) |
 | Lost Scavenger | 153937 | [153937-lost-scavenger.json](./153937-lost-scavenger.json) |
 | Lost Secrets Ancient Mysteries | 25061 | [25061-lost-secrets-ancient-mysteries.json](./25061-lost-secrets-ancient-mysteries.json) |
+| Lost Secrets: Bermuda Triangle - Unsolved Mysteries | 209395 | [209395-lost-secrets-bermuda-triangle-unsolved-mysteries.json](./209395-lost-secrets-bermuda-triangle-unsolved-mysteries.json) |
+| Lost Secrets: Caribbean Explorer - Secrets of the Sea | 209396 | [209396-lost-secrets-caribbean-explorer-secrets-of-the-sea.json](./209396-lost-secrets-caribbean-explorer-secrets-of-the-sea.json) |
+| Lost Secrets: Hollywood Mysteries | 209397 | [209397-lost-secrets-hollywood-mysteries.json](./209397-lost-secrets-hollywood-mysteries.json) |
 | Lost Secrets: November 1963 | 206728 | [206728-lost-secrets-november-1963.json](./206728-lost-secrets-november-1963.json) |
+| Lost Secrets: Vatican Mysteries | 209398 | [209398-lost-secrets-vatican-mysteries.json](./209398-lost-secrets-vatican-mysteries.json) |
 | Lost Sector Online | 62815 | [62815-lost-sector-online.json](./62815-lost-sector-online.json) |
 | Lost Shipwreck | 72367 | [72367-lost-shipwreck.json](./72367-lost-shipwreck.json) |
 | Lost Snowmen | 187983 | [187983-lost-snowmen.json](./187983-lost-snowmen.json) |
