@@ -1228,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvestella | 206818 | [206818-harvestella.json](./206818-harvestella.json) |
 | Harvester Tractor Farming Simulator Game | 174866 | [174866-harvester-tractor-farming-simulator-game.json](./174866-harvester-tractor-farming-simulator-game.json) |
 | Harvester vs. Zombies | 409751 | [409751-harvester-vs-zombies.json](./409751-harvester-vs-zombies.json) |
+| Harvesterado | 186110 | [186110-harvesterado.json](./186110-harvesterado.json) |
 | Harvey Birdman: Attorney at Law | 4907 | [4907-harvey-birdman-attorney-at-law.json](./4907-harvey-birdman-attorney-at-law.json) |
 | Has Your Dream of Dating a Cute Bunny Girl Finally Come True?! | 237442 | [237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json](./237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json) |
 | Hasamu | 40176 | [40176-hasamu.json](./40176-hasamu.json) |
@@ -3825,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden World of Art 4 | 294848 | [294848-hidden-world-of-art-4.json](./294848-hidden-world-of-art-4.json) |
 | Hidden World Top-Down 3D | 192466 | [192466-hidden-world-top-down-3d.json](./192466-hidden-world-top-down-3d.json) |
 | Hidden Worlds Bundle | 328520 | [328520-hidden-worlds-bundle.json](./328520-hidden-worlds-bundle.json) |
+| HiddenFrog | 186124 | [186124-hiddenfrog.json](./186124-hiddenfrog.json) |
 | Hiddens Awakening | 212998 | [212998-hiddens-awakening.json](./212998-hiddens-awakening.json) |
 | Hiddenverse: Ariadna Dreaming | 203374 | [203374-hiddenverse-ariadna-dreaming.json](./203374-hiddenverse-ariadna-dreaming.json) |
 | Hiddenverse: Divided Kingdom | 223140 | [223140-hiddenverse-divided-kingdom.json](./223140-hiddenverse-divided-kingdom.json) |
