@@ -6204,6 +6204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kotchei | 298718 | [298718-the-kotchei.json](./298718-the-kotchei.json) |
 | The Kraken Wakes | 213425 | [213425-the-kraken-wakes.json](./213425-the-kraken-wakes.json) |
 | The Krampus | 289995 | [289995-the-krampus.json](./289995-the-krampus.json) |
+| The Kreator | 199976 | [199976-the-kreator.json](./199976-the-kreator.json) |
 | The Krilling: Scare Feast! | 298146 | [298146-the-krilling-scare-feast.json](./298146-the-krilling-scare-feast.json) |
 | The Krion Conquest | 48173 | [48173-the-krion-conquest.json](./48173-the-krion-conquest.json) |
 | The Kristal | 12168 | [12168-the-kristal.json](./12168-the-kristal.json) |
@@ -6551,6 +6552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes III: Song of the Ocean | 10944 | [10944-the-legend-of-heroes-iii-song-of-the-ocean.json](./10944-the-legend-of-heroes-iii-song-of-the-ocean.json) |
 | The Legend of Heroes in the Jianghu | 210864 | [210864-the-legend-of-heroes-in-the-jianghu.json](./210864-the-legend-of-heroes-in-the-jianghu.json) |
 | The Legend of Heroes: A Tear of Vermillion | 10943 | [10943-the-legend-of-heroes-a-tear-of-vermillion.json](./10943-the-legend-of-heroes-a-tear-of-vermillion.json) |
+| The Legend of Heroes: Akatsuki no Kiseki Mobile | 199963 | [199963-the-legend-of-heroes-akatsuki-no-kiseki-mobile.json](./199963-the-legend-of-heroes-akatsuki-no-kiseki-mobile.json) |
 | The Legend of Heroes: Ao no Kiseki Evolution | 202822 | [202822-the-legend-of-heroes-ao-no-kiseki-evolution.json](./202822-the-legend-of-heroes-ao-no-kiseki-evolution.json) |
 | The Legend of Heroes: Kuro no Kiseki II: Crimson Sin - Limited Edition | 205272 | [205272-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-limited-edition.json](./205272-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-limited-edition.json) |
 | The Legend of Heroes: Kuro no Kiseki II: Crimson Sin - Scenario Book Limited Edition | 205256 | [205256-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-scenario-book-limited-edition.json](./205256-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-scenario-book-limited-edition.json) |
@@ -6861,6 +6863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Mermaid's Friend | 252386 | [252386-the-little-mermaids-friend.json](./252386-the-little-mermaids-friend.json) |
 | The Little Red Lie | 145541 | [145541-the-little-red-lie.json](./145541-the-little-red-lie.json) |
 | The Little Slime | 83536 | [83536-the-little-slime.json](./83536-the-little-slime.json) |
+| The Little Star Spirit | 199998 | [199998-the-little-star-spirit.json](./199998-the-little-star-spirit.json) |
 | The Little Tales of Alexandria | 304757 | [304757-the-little-tales-of-alexandria.json](./304757-the-little-tales-of-alexandria.json) |
 | The Little Tomb: The Maholova Club and the Search for a Dead Body | 325103 | [325103-the-little-tomb-the-maholova-club-and-the-search-for-a-dead-body.json](./325103-the-little-tomb-the-maholova-club-and-the-search-for-a-dead-body.json) |
 | The Little Trashmaid Puzzletime | 147428 | [147428-the-little-trashmaid-puzzletime.json](./147428-the-little-trashmaid-puzzletime.json) |
@@ -8837,6 +8840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slime's Choice: TSC | 297751 | [297751-the-slimes-choice-tsc.json](./297751-the-slimes-choice-tsc.json) |
 | The Slipgate Duplex | 271186 | [271186-the-slipgate-duplex.json](./271186-the-slipgate-duplex.json) |
 | The Slopes | 28790 | [28790-the-slopes.json](./28790-the-slopes.json) |
+| The Slovak Run | 199999 | [199999-the-slovak-run.json](./199999-the-slovak-run.json) |
 | The Slowpoke Shack | 329150 | [329150-the-slowpoke-shack.json](./329150-the-slowpoke-shack.json) |
 | The Slug | 51732 | [51732-the-slug.json](./51732-the-slug.json) |
 | The Slush Force | 235691 | [235691-the-slush-force.json](./235691-the-slush-force.json) |
@@ -14116,6 +14120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Bloxx Deluxe | 9453 | [9453-tower-bloxx-deluxe.json](./9453-tower-bloxx-deluxe.json) |
 | Tower Boxing | 344025 | [344025-tower-boxing.json](./344025-tower-boxing.json) |
 | Tower Builder | 259157 | [259157-tower-builder.json](./259157-tower-builder.json) |
+| Tower Clash | 200005 | [200005-tower-clash.json](./200005-tower-clash.json) |
 | Tower climber | 90193 | [90193-tower-climber.json](./90193-tower-climber.json) |
 | Tower Command | 370908 | [370908-tower-command.json](./370908-tower-command.json) |
 | Tower Defence | 80216 | [80216-tower-defence.json](./80216-tower-defence.json) |
@@ -15911,6 +15916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial of the Gods: Siralim CCG | 133195 | [133195-trial-of-the-gods-siralim-ccg.json](./133195-trial-of-the-gods-siralim-ccg.json) |
 | Trial Xtreme 3 | 117763 | [117763-trial-xtreme-3.json](./117763-trial-xtreme-3.json) |
 | Trial Xtreme 4 Remastered | 208035 | [208035-trial-xtreme-4-remastered.json](./208035-trial-xtreme-4-remastered.json) |
+| Trial Xtreme Freedom | 199975 | [199975-trial-xtreme-freedom.json](./199975-trial-xtreme-freedom.json) |
 | Trials 2 | 140577 | [140577-trials-2.json](./140577-trials-2.json) |
 | Trials Construction Yard | 305135 | [305135-trials-construction-yard.json](./305135-trials-construction-yard.json) |
 | Trials Evolution: Gold Edition | 20748 | [20748-trials-evolution-gold-edition.json](./20748-trials-evolution-gold-edition.json) |
