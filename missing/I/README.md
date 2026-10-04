@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Night | 352165 | [352165-i-am-night.json](./352165-i-am-night.json) |
 | I Am Not A Robot | 388336 | [388336-i-am-not-a-robot.json](./388336-i-am-not-a-robot.json) |
 | I Am Not Crazy | 307183 | [307183-i-am-not-crazy.json](./307183-i-am-not-crazy.json) |
+| I am not legend | 192790 | [192790-i-am-not-legend.json](./192790-i-am-not-legend.json) |
 | I Am Not What Remains | 176498 | [176498-i-am-not-what-remains.json](./176498-i-am-not-what-remains.json) |
 | I Am Overburdened | 74212 | [74212-i-am-overburdened.json](./74212-i-am-overburdened.json) |
 | I Am Reptile | 345086 | [345086-i-am-reptile.json](./345086-i-am-reptile.json) |
@@ -1324,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Love: Letter from the Past | 53222 | [53222-immortal-love-letter-from-the-past.json](./53222-immortal-love-letter-from-the-past.json) |
 | Immortal Love: Sparkle of Talent | 187956 | [187956-immortal-love-sparkle-of-talent.json](./187956-immortal-love-sparkle-of-talent.json) |
 | Immortal Love: Stone Beauty - Collector's Edition | 130156 | [130156-immortal-love-stone-beauty-collectors-edition.json](./130156-immortal-love-stone-beauty-collectors-edition.json) |
+| Immortal Love: True Treasure - Collector's Edition | 192778 | [192778-immortal-love-true-treasure-collectors-edition.json](./192778-immortal-love-true-treasure-collectors-edition.json) |
 | Immortal Lovers | 199993 | [199993-immortal-lovers.json](./199993-immortal-lovers.json) |
 | Immortal Magus | 344360 | [344360-immortal-magus.json](./344360-immortal-magus.json) |
 | Immortal Mantis | 196671 | [196671-immortal-mantis.json](./196671-immortal-mantis.json) |
@@ -1337,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Seeker | 370882 | [370882-immortal-seeker.json](./370882-immortal-seeker.json) |
 | Immortal Snake Nest | 282845 | [282845-immortal-snake-nest.json](./282845-immortal-snake-nest.json) |
 | Immortal Space God | 164893 | [164893-immortal-space-god.json](./164893-immortal-space-god.json) |
+| Immortal Tactics: War of the Eternals | 192756 | [192756-immortal-tactics-war-of-the-eternals.json](./192756-immortal-tactics-war-of-the-eternals.json) |
 | Immortal Tales of Rebirth | 231852 | [231852-immortal-tales-of-rebirth.json](./231852-immortal-tales-of-rebirth.json) |
 | Immortal Truth | 33087 | [33087-immortal-truth.json](./33087-immortal-truth.json) |
 | Immortal Wayfarer | 402420 | [402420-immortal-wayfarer.json](./402420-immortal-wayfarer.json) |
