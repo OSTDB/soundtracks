@@ -1550,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur: Legion IX | 285440 | [285440-king-arthur-legion-ix.json](./285440-king-arthur-legion-ix.json) |
 | King Arthur's Heir | 23970 | [23970-king-arthurs-heir.json](./23970-king-arthurs-heir.json) |
 | King Arthur's K.O.R.T. | 69839 | [69839-king-arthurs-k-o-r-t.json](./69839-king-arthurs-k-o-r-t.json) |
+| King Arthur's Magic Castle | 213275 | [213275-king-arthurs-magic-castle.json](./213275-king-arthurs-magic-castle.json) |
 | King Boo's Revenge PC | 378293 | [378293-king-boos-revenge-pc.json](./378293-king-boos-revenge-pc.json) |
 | King Boo's Seven Towers | 313302 | [313302-king-boos-seven-towers.json](./313302-king-boos-seven-towers.json) |
 | King Bundle | 279218 | [279218-king-bundle.json](./279218-king-bundle.json) |
@@ -2086,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen Wars | 319205 | [319205-kitchen-wars.json](./319205-kitchen-wars.json) |
 | Kitchened | 393135 | [393135-kitchened.json](./393135-kitchened.json) |
 | Kite | 31757 | [31757-kite.json](./31757-kite.json) |
+| Kite Fight | 213267 | [213267-kite-fight.json](./213267-kite-fight.json) |
 | Kite Hunter | 333147 | [333147-kite-hunter.json](./333147-kite-hunter.json) |
 | Kiteboard Hero | 175339 | [175339-kiteboard-hero.json](./175339-kiteboard-hero.json) |
 | Kiteboarding | 304600 | [304600-kiteboarding.json](./304600-kiteboarding.json) |
