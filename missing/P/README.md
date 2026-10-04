@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacewar | 322776 | [322776-pacewar.json](./322776-pacewar.json) |
 | PachaMama | 186272 | [186272-pachamama.json](./186272-pachamama.json) |
 | Pachansky Mathematics 2+2=8 | 393454 | [393454-pachansky-mathematics-2-2-8.json](./393454-pachansky-mathematics-2-2-8.json) |
+| Pachi Pachi Saga | 212703 | [212703-pachi-pachi-saga.json](./212703-pachi-pachi-saga.json) |
 | Pachi Pachi: On a Roll | 143696 | [143696-pachi-pachi-on-a-roll.json](./143696-pachi-pachi-on-a-roll.json) |
 | Pachi Para 15: Super Sea in Okinawa 2 | 65538 | [65538-pachi-para-15-super-sea-in-okinawa-2.json](./65538-pachi-para-15-super-sea-in-okinawa-2.json) |
 | Pachi Para 17: New Sea Story With Agnes Lum | 65558 | [65558-pachi-para-17-new-sea-story-with-agnes-lum.json](./65558-pachi-para-17-new-sea-story-with-agnes-lum.json) |
@@ -1115,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paramedium: A Noise in the Attic | 82485 | [82485-paramedium-a-noise-in-the-attic.json](./82485-paramedium-a-noise-in-the-attic.json) |
 | Paramelancholia | 332654 | [332654-paramelancholia.json](./332654-paramelancholia.json) |
 | Paramnesia: Escape Together | 244489 | [244489-paramnesia-escape-together.json](./244489-paramnesia-escape-together.json) |
+| Paramount Hero | 212843 | [212843-paramount-hero.json](./212843-paramount-hero.json) |
 | Paranatural | 310763 | [310763-paranatural.json](./310763-paranatural.json) |
 | Paranoia | 107149 | [107149-paranoia.json](./107149-paranoia.json) |
 | Paranoia | 165050 | [165050-paranoia.json](./165050-paranoia.json) |
@@ -3159,6 +3161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickle Panic | 371460 | [371460-pickle-panic.json](./371460-pickle-panic.json) |
 | Pickle Pete: Survival RPG | 245378 | [245378-pickle-pete-survival-rpg.json](./245378-pickle-pete-survival-rpg.json) |
 | Pickle Pop | 317446 | [317446-pickle-pop.json](./317446-pickle-pop.json) |
+| Pickle Run | 212713 | [212713-pickle-run.json](./212713-pickle-run.json) |
 | Pickleball One | 272337 | [272337-pickleball-one.json](./272337-pickleball-one.json) |
 | Pickleball Smash | 270160 | [270160-pickleball-smash.json](./270160-pickleball-smash.json) |
 | Pickmos | 395697 | [395697-pickmos.json](./395697-pickmos.json) |
@@ -5039,6 +5042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playdate Bunny Bundle | 245320 | [245320-playdate-bunny-bundle.json](./245320-playdate-bunny-bundle.json) |
 | Playdate Season 1 | 398519 | [398519-playdate-season-1.json](./398519-playdate-season-1.json) |
 | Playdate Season 3 | 398535 | [398535-playdate-season-3.json](./398535-playdate-season-3.json) |
+| PlayDice | 212686 | [212686-playdice.json](./212686-playdice.json) |
 | Playdle | 272477 | [272477-playdle.json](./272477-playdle.json) |
 | Player 9 | 132095 | [132095-player-9.json](./132095-player-9.json) |
 | Player Goes Jump | 286785 | [286785-player-goes-jump.json](./286785-player-goes-jump.json) |
@@ -5981,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokermon | 346016 | [346016-pokermon.json](./346016-pokermon.json) |
 | PokeRoku | 227817 | [227817-pokeroku.json](./227817-pokeroku.json) |
 | PokéROM: Mew | 218523 | [218523-pokerom-mew.json](./218523-pokerom-mew.json) |
+| PokéROM: Pikachu | 212725 | [212725-pokerom-pikachu.json](./212725-pokerom-pikachu.json) |
 | PokéROM: Psyduck | 218524 | [218524-pokerom-psyduck.json](./218524-pokerom-psyduck.json) |
 | Pokerrrr 2 | 320179 | [320179-pokerrrr-2.json](./320179-pokerrrr-2.json) |
 | PokerTH | 250379 | [250379-pokerth.json](./250379-pokerth.json) |
@@ -7272,6 +7277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Price for Freedom: Gold and Sand | 295345 | [295345-price-for-freedom-gold-and-sand.json](./295345-price-for-freedom-gold-and-sand.json) |
 | Price of a Life | 358991 | [358991-price-of-a-life.json](./358991-price-of-a-life.json) |
 | Price of Power | 291069 | [291069-price-of-power.json](./291069-price-of-power.json) |
+| Price of Resurrection | 212700 | [212700-price-of-resurrection.json](./212700-price-of-resurrection.json) |
 | PriceGuessers | 394860 | [394860-priceguessers.json](./394860-priceguessers.json) |
 | PriceRPG | 111217 | [111217-pricerpg.json](./111217-pricerpg.json) |
 | Prickle | 297186 | [297186-prickle.json](./297186-prickle.json) |
@@ -7370,6 +7376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia Trilogy: Limited Edition | 43430 | [43430-prince-of-persia-trilogy-limited-edition.json](./43430-prince-of-persia-trilogy-limited-edition.json) |
 | Prince of Persia: Escape | 320136 | [320136-prince-of-persia-escape.json](./320136-prince-of-persia-escape.json) |
 | Prince of Persia: Evolution | 214715 | [214715-prince-of-persia-evolution.json](./214715-prince-of-persia-evolution.json) |
+| Prince of Persia: Harem Adventures | 212850 | [212850-prince-of-persia-harem-adventures.json](./212850-prince-of-persia-harem-adventures.json) |
 | Prince of Persia: Limited Edition | 45292 | [45292-prince-of-persia-limited-edition.json](./45292-prince-of-persia-limited-edition.json) |
 | Prince of Persia: Rival Swords | 243130 | [243130-prince-of-persia-rival-swords.json](./243130-prince-of-persia-rival-swords.json) |
 | Prince of Persia: The Forgotten Sands | 264363 | [264363-prince-of-persia-the-forgotten-sands.json](./264363-prince-of-persia-the-forgotten-sands.json) |
