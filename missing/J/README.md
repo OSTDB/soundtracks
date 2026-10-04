@@ -797,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewelpet: Kawaii Mahou no Fantasy | 269787 | [269787-jewelpet-kawaii-mahou-no-fantasy.json](./269787-jewelpet-kawaii-mahou-no-fantasy.json) |
 | Jewelpet: Mahou no DS Kirapikarin | 67227 | [67227-jewelpet-mahou-no-ds-kirapikarin.json](./67227-jewelpet-mahou-no-ds-kirapikarin.json) |
 | Jewelpet: Mahou no Oheya de Issho ni Asobou! | 269788 | [269788-jewelpet-mahou-no-oheya-de-issho-ni-asobou.json](./269788-jewelpet-mahou-no-oheya-de-issho-ni-asobou.json) |
+| Jewelry Hearts Academia: We Will Wing Wonder World | 210504 | [210504-jewelry-hearts-academia-we-will-wing-wonder-world.json](./210504-jewelry-hearts-academia-we-will-wing-wonder-world.json) |
 | Jewels Deluxe | 108478 | [108478-jewels-deluxe.json](./108478-jewels-deluxe.json) |
 | Jewels II: The Ultimate Challenge | 72052 | [72052-jewels-ii-the-ultimate-challenge.json](./72052-jewels-ii-the-ultimate-challenge.json) |
 | Jewels Mania Adventure Star | 108512 | [108512-jewels-mania-adventure-star.json](./108512-jewels-mania-adventure-star.json) |
