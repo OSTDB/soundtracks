@@ -1536,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barry Has a Secret | 102173 | [102173-barry-has-a-secret.json](./102173-barry-has-a-secret.json) |
 | Barry Mcguigan Championship Boxing | 45336 | [45336-barry-mcguigan-championship-boxing.json](./45336-barry-mcguigan-championship-boxing.json) |
 | Barry McGuigan World Championship Boxing | 13862 | [13862-barry-mcguigan-world-championship-boxing.json](./13862-barry-mcguigan-world-championship-boxing.json) |
+| Barry of Wrath | 192258 | [192258-barry-of-wrath.json](./192258-barry-of-wrath.json) |
 | Barry the Bunny | 151187 | [151187-barry-the-bunny.json](./151187-barry-the-bunny.json) |
 | Bars and Balance | 74672 | [74672-bars-and-balance.json](./74672-bars-and-balance.json) |
 | Bars of Black and White | 263669 | [263669-bars-of-black-and-white.json](./263669-bars-of-black-and-white.json) |
@@ -7136,6 +7137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Logic | 289579 | [289579-boulder-logic.json](./289579-boulder-logic.json) |
 | Boulder Match 4 | 66673 | [66673-boulder-match-4.json](./66673-boulder-match-4.json) |
 | Boulderdash | 47237 | [47237-boulderdash.json](./47237-boulderdash.json) |
+| Bouldering Robot 3D | 192272 | [192272-bouldering-robot-3d.json](./192272-bouldering-robot-3d.json) |
 | Boulders and Bombs | 23965 | [23965-boulders-and-bombs.json](./23965-boulders-and-bombs.json) |
 | Boule & Bill: Holiday time! | 67961 | [67961-boule-and-bill-holiday-time.json](./67961-boule-and-bill-holiday-time.json) |
 | BouleMan | 349508 | [349508-bouleman.json](./349508-bouleman.json) |
@@ -7681,6 +7683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Nine | 112120 | [112120-brave-nine.json](./112120-brave-nine.json) |
 | Brave Odyssea | 26976 | [26976-brave-odyssea.json](./26976-brave-odyssea.json) |
 | Brave Path | 48002 | [48002-brave-path.json](./48002-brave-path.json) |
+| Brave Princess Milia | 192240 | [192240-brave-princess-milia.json](./192240-brave-princess-milia.json) |
 | Brave Prove | 91891 | [91891-brave-prove.json](./91891-brave-prove.json) |
 | Brave Quest | 296378 | [296378-brave-quest.json](./296378-brave-quest.json) |
 | Brave Rabbit's Adventure in the Underworld | 184404 | [184404-brave-rabbits-adventure-in-the-underworld.json](./184404-brave-rabbits-adventure-in-the-underworld.json) |
@@ -9207,6 +9210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Empires | 356165 | [356165-burning-empires.json](./356165-burning-empires.json) |
 | Burning Faith | 190476 | [190476-burning-faith.json](./190476-burning-faith.json) |
 | Burning Fight | 39557 | [39557-burning-fight.json](./39557-burning-fight.json) |
+| Burning Horns | 192271 | [192271-burning-horns.json](./192271-burning-horns.json) |
 | Burning Knight | 117702 | [117702-burning-knight.json](./117702-burning-knight.json) |
 | Burning Love | 287082 | [287082-burning-love.json](./287082-burning-love.json) |
 | Burning Monkey Casino | 352743 | [352743-burning-monkey-casino.json](./352743-burning-monkey-casino.json) |
