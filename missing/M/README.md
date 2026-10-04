@@ -7793,6 +7793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moldwasher | 342738 | [342738-moldwasher.json](./342738-moldwasher.json) |
 | Moldy Tower | 271479 | [271479-moldy-tower.json](./271479-moldy-tower.json) |
 | Mole | 135058 | [135058-mole.json](./135058-mole.json) |
+| Mole | 177389 | [177389-mole.json](./177389-mole.json) |
 | Mole | 277532 | [277532-mole.json](./277532-mole.json) |
 | Möle | 93549 | [93549-mole.json](./93549-mole.json) |
 | Mole Cart Mining | 391830 | [391830-mole-cart-mining.json](./391830-mole-cart-mining.json) |
