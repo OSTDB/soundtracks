@@ -1069,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Love, On Monsters | 413779 | [413779-on-love-on-monsters.json](./413779-on-love-on-monsters.json) |
 | On Mount Ségou | 296098 | [296098-on-mount-segou.json](./296098-on-mount-segou.json) |
 | On My Own So-Called Cleverness... | 143629 | [143629-on-my-own-so-called-cleverness.json](./143629-on-my-own-so-called-cleverness.json) |
+| On My Own: A Hot Isekai Adventure | 211774 | [211774-on-my-own-a-hot-isekai-adventure.json](./211774-on-my-own-a-hot-isekai-adventure.json) |
 | On My Way Home | 324937 | [324937-on-my-way-home.json](./324937-on-my-way-home.json) |
 | On My Way Out | 365896 | [365896-on-my-way-out.json](./365896-on-my-way-out.json) |
 | On N Off | 246356 | [246356-on-n-off.json](./246356-on-n-off.json) |
@@ -2705,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Ridge | 14506 | [14506-outer-ridge.json](./14506-outer-ridge.json) |
 | Outer Rim: Survivor | 95191 | [95191-outer-rim-survivor.json](./95191-outer-rim-survivor.json) |
 | Outer Space | 243173 | [243173-outer-space.json](./243173-outer-space.json) |
+| Outer Space: War Gears | 211622 | [211622-outer-space-war-gears.json](./211622-outer-space-war-gears.json) |
 | Outer Terror | 206226 | [206226-outer-terror.json](./206226-outer-terror.json) |
 | Outer Wards: Proving Grounds | 260234 | [260234-outer-wards-proving-grounds.json](./260234-outer-wards-proving-grounds.json) |
 | Outer Wilds: Echoes of the Eye | 146761 | [146761-outer-wilds-echoes-of-the-eye.json](./146761-outer-wilds-echoes-of-the-eye.json) |
