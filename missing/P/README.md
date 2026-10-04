@@ -2285,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | People Jumping Tower | 328035 | [328035-people-jumping-tower.json](./328035-people-jumping-tower.json) |
 | People Manipulation Sim | 181369 | [181369-people-manipulation-sim.json](./181369-people-manipulation-sim.json) |
 | People Playground | 122646 | [122646-people-playground.json](./122646-people-playground.json) |
+| People's Chess | 175248 | [175248-peoples-chess.json](./175248-peoples-chess.json) |
 | People's Press Kiosk | 410957 | [410957-peoples-press-kiosk.json](./410957-peoples-press-kiosk.json) |
 | People's Tactics | 69556 | [69556-peoples-tactics.json](./69556-peoples-tactics.json) |
 | People's World | 284903 | [284903-peoples-world.json](./284903-peoples-world.json) |
@@ -2660,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petka 6: Novaya Realnost | 52760 | [52760-petka-6-novaya-realnost.json](./52760-petka-6-novaya-realnost.json) |
 | Petka 8: Pokorenie Rima | 52762 | [52762-petka-8-pokorenie-rima.json](./52762-petka-8-pokorenie-rima.json) |
 | Petka 9: Proletarskiy Glamur | 52763 | [52763-petka-9-proletarskiy-glamur.json](./52763-petka-9-proletarskiy-glamur.json) |
+| Petradise | 175246 | [175246-petradise.json](./175246-petradise.json) |
 | Petri Dish | 356624 | [356624-petri-dish.json](./356624-petri-dish.json) |
 | Petrichor | 333175 | [333175-petrichor.json](./333175-petrichor.json) |
 | Petrichor | 60540 | [60540-petrichor.json](./60540-petrichor.json) |
