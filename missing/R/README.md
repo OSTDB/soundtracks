@@ -3456,6 +3456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revival of the Road | 83496 | [83496-revival-of-the-road.json](./83496-revival-of-the-road.json) |
 | Revival Xanadu | 260750 | [260750-revival-xanadu.json](./260750-revival-xanadu.json) |
 | Revival Xanadu 2: Remix | 260751 | [260751-revival-xanadu-2-remix.json](./260751-revival-xanadu-2-remix.json) |
+| Revival: Recolonization | 201640 | [201640-revival-recolonization.json](./201640-revival-recolonization.json) |
 | Revive | 186634 | [186634-revive.json](./186634-revive.json) |
 | Revive | 334183 | [334183-revive.json](./334183-revive.json) |
 | Revive & Repeat | 391731 | [391731-revive-and-repeat.json](./391731-revive-and-repeat.json) |
@@ -4351,6 +4352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Party | 258478 | [258478-rival-party.json](./258478-rival-party.json) |
 | Rival Realms | 70472 | [70472-rival-realms.json](./70472-rival-realms.json) |
 | Rival Regions | 91082 | [91082-rival-regions.json](./91082-rival-regions.json) |
+| Rival Rides | 201608 | [201608-rival-rides.json](./201608-rival-rides.json) |
 | Rival Stars Horse Racing | 318221 | [318221-rival-stars-horse-racing.json](./318221-rival-stars-horse-racing.json) |
 | Rival Stars Horse Racing: VR Edition | 314638 | [314638-rival-stars-horse-racing-vr-edition.json](./314638-rival-stars-horse-racing-vr-edition.json) |
 | Rival Turf! | 42467 | [42467-rival-turf.json](./42467-rival-turf.json) |
@@ -5292,6 +5294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Slasher | 269092 | [269092-rogue-slasher.json](./269092-rogue-slasher.json) |
 | Rogue Slime | 388018 | [388018-rogue-slime.json](./388018-rogue-slime.json) |
 | Rogue Slots | 386872 | [386872-rogue-slots.json](./386872-rogue-slots.json) |
+| Rogue Soulstone | 201659 | [201659-rogue-soulstone.json](./201659-rogue-soulstone.json) |
 | Rogue Stache | 31772 | [31772-rogue-stache.json](./31772-rogue-stache.json) |
 | Rogue Star ACE | 91334 | [91334-rogue-star-ace.json](./91334-rogue-star-ace.json) |
 | Rogue State | 20358 | [20358-rogue-state.json](./20358-rogue-state.json) |
@@ -6314,6 +6317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruler by Default | 99004 | [99004-ruler-by-default.json](./99004-ruler-by-default.json) |
 | Ruler of the Earth | 185694 | [185694-ruler-of-the-earth.json](./185694-ruler-of-the-earth.json) |
 | Ruler of the Waves 1916 | 227838 | [227838-ruler-of-the-waves-1916.json](./227838-ruler-of-the-waves-1916.json) |
+| Ruler's Reign | 201636 | [201636-rulers-reign.json](./201636-rulers-reign.json) |
 | Rules of Engagement | 14421 | [14421-rules-of-engagement.json](./14421-rules-of-engagement.json) |
 | Rules of Engagement 2 | 14420 | [14420-rules-of-engagement-2.json](./14420-rules-of-engagement-2.json) |
 | Rules of Engagement: The Grey State | 372660 | [372660-rules-of-engagement-the-grey-state.json](./372660-rules-of-engagement-the-grey-state.json) |
