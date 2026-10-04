@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Scroll | 278543 | [278543-magic-scroll.json](./278543-magic-scroll.json) |
 | Magic Seeker: A Mimic's Odyssey - Chapter 1 | 291718 | [291718-magic-seeker-a-mimics-odyssey-chapter-1.json](./291718-magic-seeker-a-mimics-odyssey-chapter-1.json) |
 | Magic Sheep | 380397 | [380397-magic-sheep.json](./380397-magic-sheep.json) |
+| Magic Shop | 186122 | [186122-magic-shop.json](./186122-magic-shop.json) |
 | Magic Shop Simulator | 417603 | [417603-magic-shop-simulator.json](./417603-magic-shop-simulator.json) |
 | Magic Shot | 18235 | [18235-magic-shot.json](./18235-magic-shot.json) |
 | Magic Siege | 75783 | [75783-magic-siege.json](./75783-magic-siege.json) |
@@ -2121,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart: Virtual Cup | 195211 | [195211-mario-kart-virtual-cup.json](./195211-mario-kart-virtual-cup.json) |
 | Mario Learns About Colors | 323187 | [323187-mario-learns-about-colors.json](./323187-mario-learns-about-colors.json) |
 | Mario Learns About Colors 2 | 323824 | [323824-mario-learns-about-colors-2.json](./323824-mario-learns-about-colors-2.json) |
+| Mario Left the Cheese Out | 186098 | [186098-mario-left-the-cheese-out.json](./186098-mario-left-the-cheese-out.json) |
 | Mario Lost In Space | 384109 | [384109-mario-lost-in-space.json](./384109-mario-lost-in-space.json) |
 | Mario Motors | 231507 | [231507-mario-motors.json](./231507-mario-motors.json) |
 | Mario Movie Game | 318554 | [318554-mario-movie-game.json](./318554-mario-movie-game.json) |
@@ -3814,6 +3816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Squad Tactics | 415888 | [415888-medieval-squad-tactics.json](./415888-medieval-squad-tactics.json) |
 | Medieval Steve | 108253 | [108253-medieval-steve.json](./108253-medieval-steve.json) |
 | Medieval Tales Solitaire | 236254 | [236254-medieval-tales-solitaire.json](./236254-medieval-tales-solitaire.json) |
+| Medieval Trader Simulator | 186119 | [186119-medieval-trader-simulator.json](./186119-medieval-trader-simulator.json) |
 | Medieval Warrior Simulator | 215616 | [215616-medieval-warrior-simulator.json](./215616-medieval-warrior-simulator.json) |
 | Medieval Warriors | 72139 | [72139-medieval-warriors.json](./72139-medieval-warriors.json) |
 | Medieval Wars | 165697 | [165697-medieval-wars.json](./165697-medieval-wars.json) |
@@ -10656,6 +10659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Academia: Heart of Heroes | 174672 | [174672-my-hero-academia-heart-of-heroes.json](./174672-my-hero-academia-heart-of-heroes.json) |
 | My Hero Academia: Smash Tap | 74300 | [74300-my-hero-academia-smash-tap.json](./74300-my-hero-academia-smash-tap.json) |
 | My Hero Academia: The Strongest Hero | 146301 | [146301-my-hero-academia-the-strongest-hero.json](./146301-my-hero-academia-the-strongest-hero.json) |
+| My Hero Academia: Ultra Impact | 186112 | [186112-my-hero-academia-ultra-impact.json](./186112-my-hero-academia-ultra-impact.json) |
 | My Hero and the King | 63265 | [63265-my-hero-and-the-king.json](./63265-my-hero-and-the-king.json) |
 | My Hero Kitty | 299402 | [299402-my-hero-kitty.json](./299402-my-hero-kitty.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
