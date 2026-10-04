@@ -2969,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overpowered 1: Mars Infestation | 353973 | [353973-overpowered-1-mars-infestation.json](./353973-overpowered-1-mars-infestation.json) |
 | Overpowered 2: Crux of Fate | 393627 | [393627-overpowered-2-crux-of-fate.json](./393627-overpowered-2-crux-of-fate.json) |
 | OverRapid | 75133 | [75133-overrapid.json](./75133-overrapid.json) |
+| Override | 210538 | [210538-override.json](./210538-override.json) |
 | Override 2: Super Mech League | 137296 | [137296-override-2-super-mech-league.json](./137296-override-2-super-mech-league.json) |
 | Override 2: Super Mech League - Ultraman Deluxe Edition | 139888 | [139888-override-2-super-mech-league-ultraman-deluxe-edition.json](./139888-override-2-super-mech-league-ultraman-deluxe-edition.json) |
 | Override: Mech City Brawl | 105028 | [105028-override-mech-city-brawl.json](./105028-override-mech-city-brawl.json) |
