@@ -3510,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blair Witch Experience | 73541 | [73541-the-blair-witch-experience.json](./73541-the-blair-witch-experience.json) |
 | The Bleakest Keep | 344344 | [344344-the-bleakest-keep.json](./344344-the-bleakest-keep.json) |
 | The Bleeding Tower Of Pisa | 272924 | [272924-the-bleeding-tower-of-pisa.json](./272924-the-bleeding-tower-of-pisa.json) |
+| The Blight | 204930 | [204930-the-blight.json](./204930-the-blight.json) |
 | The Blight RPG | 112127 | [112127-the-blight-rpg.json](./112127-the-blight-rpg.json) |
 | The Blind Griffin | 57899 | [57899-the-blind-griffin.json](./57899-the-blind-griffin.json) |
 | The Blind of the New World | 150049 | [150049-the-blind-of-the-new-world.json](./150049-the-blind-of-the-new-world.json) |
@@ -6044,6 +6045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Quesadilla: Turbo | 225755 | [225755-the-jumping-quesadilla-turbo.json](./225755-the-jumping-quesadilla-turbo.json) |
 | The Jumping Salad | 230302 | [230302-the-jumping-salad.json](./230302-the-jumping-salad.json) |
 | The Jumping Salad: Turbo | 230304 | [230304-the-jumping-salad-turbo.json](./230304-the-jumping-salad-turbo.json) |
+| The Jumping Soda | 205078 | [205078-the-jumping-soda.json](./205078-the-jumping-soda.json) |
 | The Jumping Soda: Turbo | 205079 | [205079-the-jumping-soda-turbo.json](./205079-the-jumping-soda-turbo.json) |
 | The Jumping Strawberry | 369179 | [369179-the-jumping-strawberry.json](./369179-the-jumping-strawberry.json) |
 | The Jumping Sushi | 210666 | [210666-the-jumping-sushi.json](./210666-the-jumping-sushi.json) |
@@ -12332,6 +12334,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Thor | 28295 | [28295-tiny-thor.json](./28295-tiny-thor.json) |
 | Tiny Tied | 244843 | [244843-tiny-tied.json](./244843-tiny-tied.json) |
 | Tiny Tina's Wonderlands | 152061 | [152061-tiny-tinas-wonderlands.json](./152061-tiny-tinas-wonderlands.json) |
+| Tiny Tina's Wonderlands: Coiled Captors | 204919 | [204919-tiny-tinas-wonderlands-coiled-captors.json](./204919-tiny-tinas-wonderlands-coiled-captors.json) |
+| Tiny Tina's Wonderlands: Glutton's Gamble | 205019 | [205019-tiny-tinas-wonderlands-gluttons-gamble.json](./205019-tiny-tinas-wonderlands-gluttons-gamble.json) |
 | Tiny Tina's Wonderlands: Next Level Edition | 170024 | [170024-tiny-tinas-wonderlands-next-level-edition.json](./170024-tiny-tinas-wonderlands-next-level-edition.json) |
 | Tiny Tina's Wonderlands: Season Pass | 293727 | [293727-tiny-tinas-wonderlands-season-pass.json](./293727-tiny-tinas-wonderlands-season-pass.json) |
 | Tiny Token Empires | 21002 | [21002-tiny-token-empires.json](./21002-tiny-token-empires.json) |
