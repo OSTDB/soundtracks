@@ -3527,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Azrael 2 | 291180 | [291180-shadow-of-azrael-2.json](./291180-shadow-of-azrael-2.json) |
 | Shadow of Babel | 184496 | [184496-shadow-of-babel.json](./184496-shadow-of-babel.json) |
 | Shadow of Chaos | 324701 | [324701-shadow-of-chaos.json](./324701-shadow-of-chaos.json) |
+| Shadow of Death 2: Awakening | 199966 | [199966-shadow-of-death-2-awakening.json](./199966-shadow-of-death-2-awakening.json) |
 | Shadow of Death 2: RPG Games | 323176 | [323176-shadow-of-death-2-rpg-games.json](./323176-shadow-of-death-2-rpg-games.json) |
 | Shadow of Death: Dark Knight | 100823 | [100823-shadow-of-death-dark-knight.json](./100823-shadow-of-death-dark-knight.json) |
 | Shadow of Destiny | 208716 | [208716-shadow-of-destiny.json](./208716-shadow-of-destiny.json) |
@@ -3784,6 +3785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shall we date?: Angel or Devil | 225315 | [225315-shall-we-date-angel-or-devil.json](./225315-shall-we-date-angel-or-devil.json) |
 | Shall we date?: Arabian Dreams Wildest Tales in Starry Nights | 225664 | [225664-shall-we-date-arabian-dreams-wildest-tales-in-starry-nights.json](./225664-shall-we-date-arabian-dreams-wildest-tales-in-starry-nights.json) |
 | Shall we date?: Become Elite | 225684 | [225684-shall-we-date-become-elite.json](./225684-shall-we-date-become-elite.json) |
+| Shall we date?: Blood in Roses | 199961 | [199961-shall-we-date-blood-in-roses.json](./199961-shall-we-date-blood-in-roses.json) |
 | Shall We Date?: Destiny Ninja 2 | 122928 | [122928-shall-we-date-destiny-ninja-2.json](./122928-shall-we-date-destiny-ninja-2.json) |
 | Shall we date?: Guard Me, Sherlock! | 225667 | [225667-shall-we-date-guard-me-sherlock.json](./225667-shall-we-date-guard-me-sherlock.json) |
 | Shall we date?: Love, Mafia Dawn of the Don | 225673 | [225673-shall-we-date-love-mafia-dawn-of-the-don.json](./225673-shall-we-date-love-mafia-dawn-of-the-don.json) |
@@ -10747,6 +10749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spec Ops: Ranger Team Bravo | 9341 | [9341-spec-ops-ranger-team-bravo.json](./9341-spec-ops-ranger-team-bravo.json) |
 | Spec Ops: Rangers Lead the Way | 9340 | [9340-spec-ops-rangers-lead-the-way.json](./9340-spec-ops-rangers-lead-the-way.json) |
 | Spec Ops: Stealth Patrol | 9343 | [9343-spec-ops-stealth-patrol.json](./9343-spec-ops-stealth-patrol.json) |
+| Special Agent CyberDuck | 199983 | [199983-special-agent-cyberduck.json](./199983-special-agent-cyberduck.json) |
 | Special Agent Training | 401616 | [401616-special-agent-training.json](./401616-special-agent-training.json) |
 | Special Agent: Aigis Pink | 407446 | [407446-special-agent-aigis-pink.json](./407446-special-agent-aigis-pink.json) |
 | Special Courier | 238457 | [238457-special-courier.json](./238457-special-courier.json) |
@@ -11832,6 +11835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Springblades | 227857 | [227857-springblades.json](./227857-springblades.json) |
 | Springbot: The Last Spark | 403726 | [403726-springbot-the-last-spark.json](./403726-springbot-the-last-spark.json) |
 | Springcar | 391155 | [391155-springcar.json](./391155-springcar.json) |
+| Springdale: Riding Adventures | 200000 | [200000-springdale-riding-adventures.json](./200000-springdale-riding-adventures.json) |
 | Springer | 98967 | [98967-springer.json](./98967-springer.json) |
 | SpringFling | 254557 | [254557-springfling.json](./254557-springfling.json) |
 | Springs, Eternal | 380435 | [380435-springs-eternal.json](./380435-springs-eternal.json) |
@@ -14492,6 +14496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Corner Heartbeat Snaps | 416070 | [416070-street-corner-heartbeat-snaps.json](./416070-street-corner-heartbeat-snaps.json) |
 | Street Cred Football | 71471 | [71471-street-cred-football.json](./71471-street-cred-football.json) |
 | Street Cricket Champions | 194275 | [194275-street-cricket-champions.json](./194275-street-cricket-champions.json) |
+| Street Dance | 200003 | [200003-street-dance.json](./200003-street-dance.json) |
 | Street Defenders | 357270 | [357270-street-defenders.json](./357270-street-defenders.json) |
 | Street Drag Racing Car Driving Simulator 2022 Games | 231066 | [231066-street-drag-racing-car-driving-simulator-2022-games.json](./231066-street-drag-racing-car-driving-simulator-2022-games.json) |
 | Street Drag Racing Car Driving Simulator: Premium Edition | 315852 | [315852-street-drag-racing-car-driving-simulator-premium-edition.json](./315852-street-drag-racing-car-driving-simulator-premium-edition.json) |
@@ -15222,6 +15227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Master Edition: Logic | 98924 | [98924-sudoku-master-edition-logic.json](./98924-sudoku-master-edition-logic.json) |
 | Sudoku Masters Club | 385077 | [385077-sudoku-masters-club.json](./385077-sudoku-masters-club.json) |
 | Sudoku Micro | 195493 | [195493-sudoku-micro.json](./195493-sudoku-micro.json) |
+| Sudoku Minimalist Infinite | 200014 | [200014-sudoku-minimalist-infinite.json](./200014-sudoku-minimalist-infinite.json) |
 | Sudoku Office Style | 58254 | [58254-sudoku-office-style.json](./58254-sudoku-office-style.json) |
 | Sudoku Online | 275650 | [275650-sudoku-online.json](./275650-sudoku-online.json) |
 | Sudoku Original | 103458 | [103458-sudoku-original.json](./103458-sudoku-original.json) |
@@ -15291,6 +15297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Drops | 61048 | [61048-sugar-drops.json](./61048-sugar-drops.json) |
 | Sugar Fever | 26629 | [26629-sugar-fever.json](./26629-sugar-fever.json) |
 | Sugar High | 233226 | [233226-sugar-high.json](./233226-sugar-high.json) |
+| Sugar Jelly Crush | 199989 | [199989-sugar-jelly-crush.json](./199989-sugar-jelly-crush.json) |
 | Sugar Lies | 415258 | [415258-sugar-lies.json](./415258-sugar-lies.json) |
 | Sugar Lust | 276963 | [276963-sugar-lust.json](./276963-sugar-lust.json) |
 | Sugar Madness | 406178 | [406178-sugar-madness.json](./406178-sugar-madness.json) |
@@ -15706,6 +15713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Coast Collection | 328481 | [328481-sunset-coast-collection.json](./328481-sunset-coast-collection.json) |
 | Sunset Devils | 295549 | [295549-sunset-devils.json](./295549-sunset-devils.json) |
 | Sunset Drive 1986 | 141133 | [141133-sunset-drive-1986.json](./141133-sunset-drive-1986.json) |
+| Sunset Driver | 199981 | [199981-sunset-driver.json](./199981-sunset-driver.json) |
 | Sunset Fighter | 367020 | [367020-sunset-fighter.json](./367020-sunset-fighter.json) |
 | Sunset Game Shop Shayou | 372060 | [372060-sunset-game-shop-shayou.json](./372060-sunset-game-shop-shayou.json) |
 | Sunset Giant | 114391 | [114391-sunset-giant.json](./114391-sunset-giant.json) |
@@ -15977,6 +15985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Contraption 3D | 255048 | [255048-super-contraption-3d.json](./255048-super-contraption-3d.json) |
 | Super Converger | 177997 | [177997-super-converger.json](./177997-super-converger.json) |
 | Super Corners | 100776 | [100776-super-corners.json](./100776-super-corners.json) |
+| Super Corporate Tax Evader | 199992 | [199992-super-corporate-tax-evader.json](./199992-super-corporate-tax-evader.json) |
 | Super Cosmic Land | 239594 | [239594-super-cosmic-land.json](./239594-super-cosmic-land.json) |
 | Super CosmoJet | 160248 | [160248-super-cosmojet.json](./160248-super-cosmojet.json) |
 | Super Cosplay War Ultra | 66117 | [66117-super-cosplay-war-ultra.json](./66117-super-cosplay-war-ultra.json) |
