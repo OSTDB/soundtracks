@@ -1511,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavernier | 31587 | [31587-tavernier.json](./31587-tavernier.json) |
 | Tavu | 276823 | [276823-tavu.json](./276823-tavu.json) |
 | Tavuti | 290640 | [290640-tavuti.json](./290640-tavuti.json) |
+| Tawako The Forest Hedgehog | 207188 | [207188-tawako-the-forest-hedgehog.json](./207188-tawako-the-forest-hedgehog.json) |
 | Tax Dodge | 60638 | [60638-tax-dodge.json](./60638-tax-dodge.json) |
 | Tax Evasion | 265147 | [265147-tax-evasion.json](./265147-tax-evasion.json) |
 | Tax Return | 390679 | [390679-tax-return.json](./390679-tax-return.json) |
@@ -6486,6 +6487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Alon D'ar | 19420 | [19420-the-legend-of-alon-dar.json](./19420-the-legend-of-alon-dar.json) |
 | The Legend of Arcadieu | 126635 | [126635-the-legend-of-arcadieu.json](./126635-the-legend-of-arcadieu.json) |
 | The Legend of Aurum Draconis | 213301 | [213301-the-legend-of-aurum-draconis.json](./213301-the-legend-of-aurum-draconis.json) |
+| The Legend of Azarias | 207191 | [207191-the-legend-of-azarias.json](./207191-the-legend-of-azarias.json) |
 | The Legend of Azarias Rebirth | 294994 | [294994-the-legend-of-azarias-rebirth.json](./294994-the-legend-of-azarias-rebirth.json) |
 | The Legend of Baboo | 320143 | [320143-the-legend-of-baboo.json](./320143-the-legend-of-baboo.json) |
 | The Legend of Banjo-Kazooie: Gruntilda's Mask | 201769 | [201769-the-legend-of-banjo-kazooie-gruntildas-mask.json](./201769-the-legend-of-banjo-kazooie-gruntildas-mask.json) |
@@ -8993,6 +8995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sting! | 11851 | [11851-the-sting.json](./11851-the-sting.json) |
 | The Stoevi Curse | 247476 | [247476-the-stoevi-curse.json](./247476-the-stoevi-curse.json) |
 | The Stone | 55448 | [55448-the-stone.json](./55448-the-stone.json) |
+| The Stone Cutter and the Mountain Spirit | 207352 | [207352-the-stone-cutter-and-the-mountain-spirit.json](./207352-the-stone-cutter-and-the-mountain-spirit.json) |
 | The Stone of Anamara: First Chapter | 186145 | [186145-the-stone-of-anamara-first-chapter.json](./186145-the-stone-of-anamara-first-chapter.json) |
 | The Stone of Destiny | 284322 | [284322-the-stone-of-destiny.json](./284322-the-stone-of-destiny.json) |
 | The Stone of God | 165659 | [165659-the-stone-of-god.json](./165659-the-stone-of-god.json) |
@@ -10081,6 +10084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Worm | 34419 | [34419-the-worm.json](./34419-the-worm.json) |
 | The Worm Room | 139263 | [139263-the-worm-room.json](./139263-the-worm-room.json) |
 | The Worst-Case Scenario Survival Trivia Challenge | 69914 | [69914-the-worst-case-scenario-survival-trivia-challenge.json](./69914-the-worst-case-scenario-survival-trivia-challenge.json) |
+| The Wraith of the Galaxy | 207350 | [207350-the-wraith-of-the-galaxy.json](./207350-the-wraith-of-the-galaxy.json) |
 | The Wrath of the Goose King | 286051 | [286051-the-wrath-of-the-goose-king.json](./286051-the-wrath-of-the-goose-king.json) |
 | The Wreck That Should Not Be | 403016 | [403016-the-wreck-that-should-not-be.json](./403016-the-wreck-that-should-not-be.json) |
 | The Wrestling Code | 159104 | [159104-the-wrestling-code.json](./159104-the-wrestling-code.json) |
@@ -13054,6 +13058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Boom | 366232 | [366232-tomb-boom.json](./366232-tomb-boom.json) |
 | Tomb Cat | 363007 | [363007-tomb-cat.json](./363007-tomb-cat.json) |
 | Tomb Color: ASMR Maze Escape | 245374 | [245374-tomb-color-asmr-maze-escape.json](./245374-tomb-color-asmr-maze-escape.json) |
+| Tomb Defender | 207198 | [207198-tomb-defender.json](./207198-tomb-defender.json) |
 | Tomb Guard VR | 28874 | [28874-tomb-guard-vr.json](./28874-tomb-guard-vr.json) |
 | Tomb Joe | 29874 | [29874-tomb-joe.json](./29874-tomb-joe.json) |
 | Tomb Keeper Mansion Deluxe Pinball | 193215 | [193215-tomb-keeper-mansion-deluxe-pinball.json](./193215-tomb-keeper-mansion-deluxe-pinball.json) |
@@ -13838,6 +13843,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Fumo Racing | 193872 | [193872-touhou-fumo-racing.json](./193872-touhou-fumo-racing.json) |
 | Touhou Gaiden | 404961 | [404961-touhou-gaiden.json](./404961-touhou-gaiden.json) |
 | Touhou Gakuen Ki: Shippuu no Shou | 201176 | [201176-touhou-gakuen-ki-shippuu-no-shou.json](./201176-touhou-gakuen-ki-shippuu-no-shou.json) |
+| Touhou Gendanshou X: Unlimited Heroes | 207229 | [207229-touhou-gendanshou-x-unlimited-heroes.json](./207229-touhou-gendanshou-x-unlimited-heroes.json) |
+| Touhou Gendanshou Y: Unlimited Heroes | 207231 | [207231-touhou-gendanshou-y-unlimited-heroes.json](./207231-touhou-gendanshou-y-unlimited-heroes.json) |
+| Touhou Gendanshou: Unlimited Heroes | 207228 | [207228-touhou-gendanshou-unlimited-heroes.json](./207228-touhou-gendanshou-unlimited-heroes.json) |
 | Touhou Genso Kikou: Lost Alchemy | 100555 | [100555-touhou-genso-kikou-lost-alchemy.json](./100555-touhou-genso-kikou-lost-alchemy.json) |
 | Touhou Genso Maroku W: The Devil of Decline - Shikigami Additional Contents | 212243 | [212243-touhou-genso-maroku-w-the-devil-of-decline-shikigami-additional-contents.json](./212243-touhou-genso-maroku-w-the-devil-of-decline-shikigami-additional-contents.json) |
 | Touhou Genso Wanderer Lotus Labyrinth R: Complete Edition | 209968 | [209968-touhou-genso-wanderer-lotus-labyrinth-r-complete-edition.json](./209968-touhou-genso-wanderer-lotus-labyrinth-r-complete-edition.json) |
@@ -13925,6 +13933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Pocket Wars Evolution | 128383 | [128383-touhou-pocket-wars-evolution.json](./128383-touhou-pocket-wars-evolution.json) |
 | Touhou Pocket Wars Evolution Plus | 128384 | [128384-touhou-pocket-wars-evolution-plus.json](./128384-touhou-pocket-wars-evolution-plus.json) |
 | Touhou Puppet Dance Performance | 46722 | [46722-touhou-puppet-dance-performance.json](./46722-touhou-puppet-dance-performance.json) |
+| Touhou Puppet Dance Performance: Shard of Dreams | 207227 | [207227-touhou-puppet-dance-performance-shard-of-dreams.json](./207227-touhou-puppet-dance-performance-shard-of-dreams.json) |
 | Touhou Rakuryuusei: The Shattered Sky | 280870 | [280870-touhou-rakuryuusei-the-shattered-sky.json](./280870-touhou-rakuryuusei-the-shattered-sky.json) |
 | Touhou Rei'iden: The Highly Responsive to Prayers | 45967 | [45967-touhou-reiiden-the-highly-responsive-to-prayers.json](./45967-touhou-reiiden-the-highly-responsive-to-prayers.json) |
 | Touhou Rekkaden: Rift in a Friendship Game | 204669 | [204669-touhou-rekkaden-rift-in-a-friendship-game.json](./204669-touhou-rekkaden-rift-in-a-friendship-game.json) |
