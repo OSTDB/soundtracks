@@ -3074,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie's Adventure | 30487 | [30487-charlies-adventure.json](./30487-charlies-adventure.json) |
 | Charlie's Delivery | 219821 | [219821-charlies-delivery.json](./219821-charlies-delivery.json) |
 | Charlotte | 95227 | [95227-charlotte.json](./95227-charlotte.json) |
+| Charlotte: Dragon Slayer | 202727 | [202727-charlotte-dragon-slayer.json](./202727-charlotte-dragon-slayer.json) |
 | Charlotte's Web | 248748 | [248748-charlottes-web.json](./248748-charlottes-web.json) |
 | Charlotte's Web | 248749 | [248749-charlottes-web.json](./248749-charlottes-web.json) |
 | Charlotte's Web: Wilbur and Friends | 71015 | [71015-charlottes-web-wilbur-and-friends.json](./71015-charlottes-web-wilbur-and-friends.json) |
@@ -4217,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronescher | 203929 | [203929-chronescher.json](./203929-chronescher.json) |
 | Chronical | 276695 | [276695-chronical.json](./276695-chronical.json) |
 | Chronicle of Ekan | 169980 | [169980-chronicle-of-ekan.json](./169980-chronicle-of-ekan.json) |
+| Chronicle of Forgotten Times: Pawn of the Gods | 202642 | [202642-chronicle-of-forgotten-times-pawn-of-the-gods.json](./202642-chronicle-of-forgotten-times-pawn-of-the-gods.json) |
 | Chronicle Survivors | 287198 | [287198-chronicle-survivors.json](./287198-chronicle-survivors.json) |
 | Chronicle: Rewritten | 307845 | [307845-chronicle-rewritten.json](./307845-chronicle-rewritten.json) |
 | Chronicle: RuneScape Legends | 19433 | [19433-chronicle-runescape-legends.json](./19433-chronicle-runescape-legends.json) |
@@ -7317,6 +7319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Game Pack | 409563 | [409563-cool-game-pack.json](./409563-cool-game-pack.json) |
 | Cool Go | 301282 | [301282-cool-go.json](./301282-cool-go.json) |
 | Cool Kid Cody | 195175 | [195175-cool-kid-cody.json](./195175-cool-kid-cody.json) |
+| Cool Kid Cody: Season 1 - Episode 07 | 202732 | [202732-cool-kid-cody-season-1-episode-07.json](./202732-cool-kid-cody-season-1-episode-07.json) |
 | Cool Kid Cody: Season 1 - Episode 10 | 204960 | [204960-cool-kid-cody-season-1-episode-10.json](./204960-cool-kid-cody-season-1-episode-10.json) |
 | Cool Kid Cody: Season 2 - Episode 02 | 247660 | [247660-cool-kid-cody-season-2-episode-02.json](./247660-cool-kid-cody-season-2-episode-02.json) |
 | Cool Kid Cody: Season 2 - Episode 04 | 248017 | [248017-cool-kid-cody-season-2-episode-04.json](./248017-cool-kid-cody-season-2-episode-04.json) |
@@ -8604,6 +8607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Wife | 300294 | [300294-crazy-wife.json](./300294-crazy-wife.json) |
 | Crazy World of Caleb | 302946 | [302946-crazy-world-of-caleb.json](./302946-crazy-world-of-caleb.json) |
 | Crazy World of Caleb: Level 1 to 7 | 311190 | [311190-crazy-world-of-caleb-level-1-to-7.json](./311190-crazy-world-of-caleb-level-1-to-7.json) |
+| Crazy Zoo | 202737 | [202737-crazy-zoo.json](./202737-crazy-zoo.json) |
 | Crazy-Spy | 58772 | [58772-crazy-spy.json](./58772-crazy-spy.json) |
 | CrazyBus | 9077 | [9077-crazybus.json](./9077-crazybus.json) |
 | CrazyCar | 93612 | [93612-crazycar.json](./93612-crazycar.json) |
@@ -9840,6 +9844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubit | 204472 | [204472-cubit.json](./204472-cubit.json) |
 | Cubit | 204473 | [204473-cubit.json](./204473-cubit.json) |
 | Cubit: The Hardcore Platformer Robot | 47644 | [47644-cubit-the-hardcore-platformer-robot.json](./47644-cubit-the-hardcore-platformer-robot.json) |
+| Cubiti Parti | 202749 | [202749-cubiti-parti.json](./202749-cubiti-parti.json) |
 | Cubium Dreams | 33381 | [33381-cubium-dreams.json](./33381-cubium-dreams.json) |
 | Cubix Classic | 67981 | [67981-cubix-classic.json](./67981-cubix-classic.json) |
 | Cubix Robots for Everyone: Showdown | 242806 | [242806-cubix-robots-for-everyone-showdown.json](./242806-cubix-robots-for-everyone-showdown.json) |
