@@ -1212,6 +1212,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZPF | 308919 | [308919-zpf.json](./308919-zpf.json) |
 | ZPlague | 188981 | [188981-zplague.json](./188981-zplague.json) |
 | ZRoll | 33118 | [33118-zroll.json](./33118-zroll.json) |
+| Ztar Attack 0.5: Mario Escape from the Jail | 182287 | [182287-ztar-attack-0-5-mario-escape-from-the-jail.json](./182287-ztar-attack-0-5-mario-escape-from-the-jail.json) |
+| Ztar Attack 2: A Blast to the Past | 182288 | [182288-ztar-attack-2-a-blast-to-the-past.json](./182288-ztar-attack-2-a-blast-to-the-past.json) |
 | Ztar Attack 3: Dimensional Panic | 294780 | [294780-ztar-attack-3-dimensional-panic.json](./294780-ztar-attack-3-dimensional-panic.json) |
 | Ztar Attack Rebooted | 135231 | [135231-ztar-attack-rebooted.json](./135231-ztar-attack-rebooted.json) |
 | Ztar Attack: Mario Escape from the Jail - Definitive Edition | 215166 | [215166-ztar-attack-mario-escape-from-the-jail-definitive-edition.json](./215166-ztar-attack-mario-escape-from-the-jail-definitive-edition.json) |
