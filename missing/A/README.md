@@ -2862,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemica | 369739 | [369739-alchemica.json](./369739-alchemica.json) |
 | Alchemica: A Romance of Three Dimensions | 183963 | [183963-alchemica-a-romance-of-three-dimensions.json](./183963-alchemica-a-romance-of-three-dimensions.json) |
 | Alchemical Inc. | 190141 | [190141-alchemical-inc.json](./190141-alchemical-inc.json) |
+| Alchemicraft | 181666 | [181666-alchemicraft.json](./181666-alchemicraft.json) |
 | Alchemist | 202678 | [202678-alchemist.json](./202678-alchemist.json) |
 | Alchemist | 304130 | [304130-alchemist.json](./304130-alchemist.json) |
 | Alchemist Adventure | 137444 | [137444-alchemist-adventure.json](./137444-alchemist-adventure.json) |
@@ -7753,6 +7754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterisk | 390189 | [390189-asterisk.json](./390189-asterisk.json) |
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
 | Asterism: Apex of War | 190088 | [190088-asterism-apex-of-war.json](./190088-asterism-apex-of-war.json) |
+| Asterius | 181723 | [181723-asterius.json](./181723-asterius.json) |
 | Asterix | 12242 | [12242-asterix.json](./12242-asterix.json) |
 | Astérix | 19486 | [19486-asterix.json](./19486-asterix.json) |
 | Astérix | 7757 | [7757-asterix.json](./7757-asterix.json) |
