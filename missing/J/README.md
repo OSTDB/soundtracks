@@ -364,6 +364,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japan Trip | 340767 | [340767-japan-trip.json](./340767-japan-trip.json) |
 | Japanese Dominatrixes Are the Best | 385702 | [385702-japanese-dominatrixes-are-the-best.json](./385702-japanese-dominatrixes-are-the-best.json) |
 | Japanese Dungeon: Learn J-Word | 232068 | [232068-japanese-dungeon-learn-j-word.json](./232068-japanese-dungeon-learn-j-word.json) |
+| Japanese Escape Games: Atelier Kissa Furatto kara no Dasshutsu | 222222 | [222222-japanese-escape-games-atelier-kissa-furatto-kara-no-dasshutsu.json](./222222-japanese-escape-games-atelier-kissa-furatto-kara-no-dasshutsu.json) |
+| Japanese Escape Games: Chika Keimusho kara no Dasshutsu | 222211 | [222211-japanese-escape-games-chika-keimusho-kara-no-dasshutsu.json](./222211-japanese-escape-games-chika-keimusho-kara-no-dasshutsu.json) |
+| Japanese Escape Games: Crossed Circle kara no Dasshutsu | 222213 | [222213-japanese-escape-games-crossed-circle-kara-no-dasshutsu.json](./222213-japanese-escape-games-crossed-circle-kara-no-dasshutsu.json) |
+| Japanese Escape Games: Haikousha kara no Dasshutsu | 222208 | [222208-japanese-escape-games-haikousha-kara-no-dasshutsu.json](./222208-japanese-escape-games-haikousha-kara-no-dasshutsu.json) |
+| Japanese Escape Games: Hikari to Kagami no Aida kara no Dasshutsu | 222214 | [222214-japanese-escape-games-hikari-to-kagami-no-aida-kara-no-dasshutsu.json](./222214-japanese-escape-games-hikari-to-kagami-no-aida-kara-no-dasshutsu.json) |
+| Japanese Escape Games: Karakuri Keimusho kara no Dasshutsu | 222215 | [222215-japanese-escape-games-karakuri-keimusho-kara-no-dasshutsu.json](./222215-japanese-escape-games-karakuri-keimusho-kara-no-dasshutsu.json) |
+| Japanese Escape Games: Kimyou na Iseki kara no Dasshutsu | 222216 | [222216-japanese-escape-games-kimyou-na-iseki-kara-no-dasshutsu.json](./222216-japanese-escape-games-kimyou-na-iseki-kara-no-dasshutsu.json) |
+| Japanese Escape Games: Omoide no Bokou kara no Dasshutsu | 222217 | [222217-japanese-escape-games-omoide-no-bokou-kara-no-dasshutsu.json](./222217-japanese-escape-games-omoide-no-bokou-kara-no-dasshutsu.json) |
+| Japanese Escape Games: Renpou Keimusho kara no Dasshutsu | 222220 | [222220-japanese-escape-games-renpou-keimusho-kara-no-dasshutsu.json](./222220-japanese-escape-games-renpou-keimusho-kara-no-dasshutsu.json) |
+| Japanese Escape Games: Strange Museum kara no Dasshutsu | 222219 | [222219-japanese-escape-games-strange-museum-kara-no-dasshutsu.json](./222219-japanese-escape-games-strange-museum-kara-no-dasshutsu.json) |
+| Japanese Escape Games: Strange Park kara no Dasshutsu | 222221 | [222221-japanese-escape-games-strange-park-kara-no-dasshutsu.json](./222221-japanese-escape-games-strange-park-kara-no-dasshutsu.json) |
 | Japanese Escape Games: The Forbidden Garden | 221699 | [221699-japanese-escape-games-the-forbidden-garden.json](./221699-japanese-escape-games-the-forbidden-garden.json) |
 | Japanese Escape Games: The Hotel of Tricks | 209690 | [209690-japanese-escape-games-the-hotel-of-tricks.json](./209690-japanese-escape-games-the-hotel-of-tricks.json) |
 | Japanese Escape Games: The Light and Mirror Room | 234579 | [234579-japanese-escape-games-the-light-and-mirror-room.json](./234579-japanese-escape-games-the-light-and-mirror-room.json) |
@@ -372,11 +383,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Escape Games: The Retro House | 212275 | [212275-japanese-escape-games-the-retro-house.json](./212275-japanese-escape-games-the-retro-house.json) |
 | Japanese Escape Games: The Room with Sturdy Door | 232465 | [232465-japanese-escape-games-the-room-with-sturdy-door.json](./232465-japanese-escape-games-the-room-with-sturdy-door.json) |
 | Japanese Escape Games: The Room Without Doors | 227847 | [227847-japanese-escape-games-the-room-without-doors.json](./227847-japanese-escape-games-the-room-without-doors.json) |
+| Japanese Escape Games: Tobira no nai Heya kara no Dasshutsu | 222210 | [222210-japanese-escape-games-tobira-no-nai-heya-kara-no-dasshutsu.json](./222210-japanese-escape-games-tobira-no-nai-heya-kara-no-dasshutsu.json) |
+| Japanese Escape Games: Toy House kara no Dasshutsu | 222218 | [222218-japanese-escape-games-toy-house-kara-no-dasshutsu.json](./222218-japanese-escape-games-toy-house-kara-no-dasshutsu.json) |
 | Japanese Goblins | 220871 | [220871-japanese-goblins.json](./220871-japanese-goblins.json) |
 | Japanese Hiragana & Katakana Review DS | 342834 | [342834-japanese-hiragana-and-katakana-review-ds.json](./342834-japanese-hiragana-and-katakana-review-ds.json) |
 | Japanese House Exploration | 308893 | [308893-japanese-house-exploration.json](./308893-japanese-house-exploration.json) |
 | Japanese Love | 349864 | [349864-japanese-love.json](./349864-japanese-love.json) |
 | Japanese Neko-sama Escape: The Local Train | 207889 | [207889-japanese-neko-sama-escape-the-local-train.json](./207889-japanese-neko-sama-escape-the-local-train.json) |
+| Japanese Nekosama Escape: Neko-sama no Amamidokoro no Dasshutsu | 222209 | [222209-japanese-nekosama-escape-neko-sama-no-amamidokoro-no-dasshutsu.json](./222209-japanese-nekosama-escape-neko-sama-no-amamidokoro-no-dasshutsu.json) |
 | Japanese Nekosama Escape: The Mountain Cottage | 200460 | [200460-japanese-nekosama-escape-the-mountain-cottage.json](./200460-japanese-nekosama-escape-the-mountain-cottage.json) |
 | Japanese Nekosama Escape: The Old Inn | 197921 | [197921-japanese-nekosama-escape-the-old-inn.json](./197921-japanese-nekosama-escape-the-old-inn.json) |
 | Japanese Nekosama Escape: The Sweets Shop | 251050 | [251050-japanese-nekosama-escape-the-sweets-shop.json](./251050-japanese-nekosama-escape-the-sweets-shop.json) |
