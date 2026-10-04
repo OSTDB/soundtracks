@@ -4988,6 +4988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platformer of Death | 185121 | [185121-platformer-of-death.json](./185121-platformer-of-death.json) |
 | Platformer Paradise | 336645 | [336645-platformer-paradise.json](./336645-platformer-paradise.json) |
 | Platformer Saga | 336375 | [336375-platformer-saga.json](./336375-platformer-saga.json) |
+| Platformer Toolkit | 205599 | [205599-platformer-toolkit.json](./205599-platformer-toolkit.json) |
 | Platformica | 57054 | [57054-platformica.json](./57054-platformica.json) |
 | Platforms Unlimited | 101323 | [101323-platforms-unlimited.json](./101323-platforms-unlimited.json) |
 | Plati and the Tower of Time | 310739 | [310739-plati-and-the-tower-of-time.json](./310739-plati-and-the-tower-of-time.json) |
