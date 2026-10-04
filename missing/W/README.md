@@ -326,8 +326,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanba Warriors: Character Pack 2 | 170994 | [170994-wanba-warriors-character-pack-2.json](./170994-wanba-warriors-character-pack-2.json) |
 | Wanba Warriors: Character Pack 3 | 170993 | [170993-wanba-warriors-character-pack-3.json](./170993-wanba-warriors-character-pack-3.json) |
 | Wand Mart | 371451 | [371451-wand-mart.json](./371451-wand-mart.json) |
+| Wand of Fortune | 218957 | [218957-wand-of-fortune.json](./218957-wand-of-fortune.json) |
 | Wand of Fortune 2 FD: Kimi ni Sasageru Epilogue | 219130 | [219130-wand-of-fortune-2-fd-kimi-ni-sasageru-epilogue.json](./219130-wand-of-fortune-2-fd-kimi-ni-sasageru-epilogue.json) |
 | Wand of Fortune 2: Jikuu ni Shizumu Mokushiroku | 219129 | [219129-wand-of-fortune-2-jikuu-ni-shizumu-mokushiroku.json](./219129-wand-of-fortune-2-jikuu-ni-shizumu-mokushiroku.json) |
+| Wand of Fortune Portable | 218958 | [218958-wand-of-fortune-portable.json](./218958-wand-of-fortune-portable.json) |
+| Wand of Fortune: Mirai he no Prologue | 218959 | [218959-wand-of-fortune-mirai-he-no-prologue.json](./218959-wand-of-fortune-mirai-he-no-prologue.json) |
+| Wand of Fortune: Mirai he no Prologue Portable | 218960 | [218960-wand-of-fortune-mirai-he-no-prologue-portable.json](./218960-wand-of-fortune-mirai-he-no-prologue-portable.json) |
 | Wand Wars VR | 81727 | [81727-wand-wars-vr.json](./81727-wand-wars-vr.json) |
 | Wander | 10920 | [10920-wander.json](./10920-wander.json) |
 | Wander in Wonder | 272494 | [272494-wander-in-wonder.json](./272494-wander-in-wonder.json) |
