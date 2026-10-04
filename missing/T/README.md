@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails and Pines | 192448 | [192448-tails-and-pines.json](./192448-tails-and-pines.json) |
 | Tails Doll | 279577 | [279577-tails-doll.json](./279577-tails-doll.json) |
 | Tails Football | 362899 | [362899-tails-football.json](./362899-tails-football.json) |
+| Tails From Alteria | 190039 | [190039-tails-from-alteria.json](./190039-tails-from-alteria.json) |
 | Tails in Sonic the Hedgehog | 198529 | [198529-tails-in-sonic-the-hedgehog.json](./198529-tails-in-sonic-the-hedgehog.json) |
 | Tails no Flying Get | 261253 | [261253-tails-no-flying-get.json](./261253-tails-no-flying-get.json) |
 | Tails Noir Preludes | 215067 | [215067-tails-noir-preludes.json](./215067-tails-noir-preludes.json) |
@@ -2788,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tharaba | 280321 | [280321-tharaba.json](./280321-tharaba.json) |
 | That Bastard is Trying to Steal Our Gold! | 33301 | [33301-that-bastard-is-trying-to-steal-our-gold.json](./33301-that-bastard-is-trying-to-steal-our-gold.json) |
 | That Blooming Feeling | 182510 | [182510-that-blooming-feeling.json](./182510-that-blooming-feeling.json) |
+| That Castle | 190019 | [190019-that-castle.json](./190019-that-castle.json) |
 | That Crazy World | 71006 | [71006-that-crazy-world.json](./71006-that-crazy-world.json) |
 | That Dam Level | 59660 | [59660-that-dam-level.json](./59660-that-dam-level.json) |
 | That Dragon, Cancer | 15925 | [15925-that-dragon-cancer.json](./15925-that-dragon-cancer.json) |
@@ -5050,6 +5052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Funky Fighter | 63295 | [63295-the-first-funky-fighter.json](./63295-the-first-funky-fighter.json) |
 | The First Mile | 73535 | [73535-the-first-mile.json](./73535-the-first-mile.json) |
 | The First Mountain | 219634 | [219634-the-first-mountain.json](./219634-the-first-mountain.json) |
+| The First Odyssey | 190006 | [190006-the-first-odyssey.json](./190006-the-first-odyssey.json) |
 | The First Present | 278675 | [278675-the-first-present.json](./278675-the-first-present.json) |
 | The First SMW Hack that will Ever be so Lucky as to Gain the Luxury of Leaving My PC | 278628 | [278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json](./278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json) |
 | The First Spine - Arena | 386865 | [386865-the-first-spine-arena.json](./386865-the-first-spine-arena.json) |
@@ -7565,6 +7568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Ripper | 125259 | [125259-the-night-ripper.json](./125259-the-night-ripper.json) |
 | The Night Shift | 258416 | [258416-the-night-shift.json](./258416-the-night-shift.json) |
 | The night spoke our names | 208310 | [208310-the-night-spoke-our-names.json](./208310-the-night-spoke-our-names.json) |
+| The Night You'd Wish to Forget | 190015 | [190015-the-night-youd-wish-to-forget.json](./190015-the-night-youd-wish-to-forget.json) |
 | The Nightfall Incident | 182525 | [182525-the-nightfall-incident.json](./182525-the-nightfall-incident.json) |
 | The Nightmare | 24860 | [24860-the-nightmare.json](./24860-the-nightmare.json) |
 | The Nightmare Accord | 289976 | [289976-the-nightmare-accord.json](./289976-the-nightmare-accord.json) |
@@ -10467,6 +10471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They're Coming | 163200 | [163200-theyre-coming.json](./163200-theyre-coming.json) |
 | Theyest Thou | 129272 | [129272-theyest-thou.json](./129272-theyest-thou.json) |
 | TheZone | 146225 | [146225-thezone.json](./146225-thezone.json) |
+| THICC: The Himalayan Ice Climbing Challenge | 190021 | [190021-thicc-the-himalayan-ice-climbing-challenge.json](./190021-thicc-the-himalayan-ice-climbing-challenge.json) |
 | Thick Air | 31392 | [31392-thick-air.json](./31392-thick-air.json) |
 | Thick Light 3 | 334837 | [334837-thick-light-3.json](./334837-thick-light-3.json) |
 | Thickety Creek | 229049 | [229049-thickety-creek.json](./229049-thickety-creek.json) |
@@ -15643,6 +15648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped Girl X | 255677 | [255677-trapped-girl-x.json](./255677-trapped-girl-x.json) |
 | Trapped in a Cage | 267067 | [267067-trapped-in-a-cage.json](./267067-trapped-in-a-cage.json) |
 | Trapped In Here With Me | 263566 | [263566-trapped-in-here-with-me.json](./263566-trapped-in-here-with-me.json) |
+| Trapped in the Forest | 190055 | [190055-trapped-in-the-forest.json](./190055-trapped-in-the-forest.json) |
 | Trapped in the Kanal | 259538 | [259538-trapped-in-the-kanal.json](./259538-trapped-in-the-kanal.json) |
 | Trapped Inside a Train (And There's Nothing You Can Do About It) | 299304 | [299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json](./299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json) |
 | Trapped Summoner | 38495 | [38495-trapped-summoner.json](./38495-trapped-summoner.json) |
@@ -16836,6 +16842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumble VR | 18400 | [18400-tumble-vr.json](./18400-tumble-vr.json) |
 | Tumble Wrestling | 262349 | [262349-tumble-wrestling.json](./262349-tumble-wrestling.json) |
 | Tumblebugs 2 | 53858 | [53858-tumblebugs-2.json](./53858-tumblebugs-2.json) |
+| Tumbledown Drive | 190043 | [190043-tumbledown-drive.json](./190043-tumbledown-drive.json) |
 | Tumbles | 350056 | [350056-tumbles.json](./350056-tumbles.json) |
 | TumbleSeed | 27051 | [27051-tumbleseed.json](./27051-tumbleseed.json) |
 | Tumbleweed Destiny | 195073 | [195073-tumbleweed-destiny.json](./195073-tumbleweed-destiny.json) |
@@ -16980,6 +16987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn on the Lights Carefully | 238750 | [238750-turn-on-the-lights-carefully.json](./238750-turn-on-the-lights-carefully.json) |
 | Turn Run | 105124 | [105124-turn-run.json](./105124-turn-run.json) |
 | Turn Tack | 197919 | [197919-turn-tack.json](./197919-turn-tack.json) |
+| Turn the Line! | 190005 | [190005-turn-the-line.json](./190005-turn-the-line.json) |
 | Turn the mirror, please. | 111849 | [111849-turn-the-mirror-please.json](./111849-turn-the-mirror-please.json) |
 | Turn-Based Battle Bundle: The Amazing American Circus & Legend of Keepers | 270303 | [270303-turn-based-battle-bundle-the-amazing-american-circus-and-legend-of-keepers.json](./270303-turn-based-battle-bundle-the-amazing-american-circus-and-legend-of-keepers.json) |
 | Turn-Based Champion | 99664 | [99664-turn-based-champion.json](./99664-turn-based-champion.json) |
