@@ -2214,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Cemetery: Bitter Frost - Collector's Edition | 30858 | [30858-redemption-cemetery-bitter-frost-collectors-edition.json](./30858-redemption-cemetery-bitter-frost-collectors-edition.json) |
 | Redemption Cemetery: Children's Plight | 61079 | [61079-redemption-cemetery-childrens-plight.json](./61079-redemption-cemetery-childrens-plight.json) |
 | Redemption Cemetery: Clock of Fate - Collector's Edition | 83553 | [83553-redemption-cemetery-clock-of-fate-collectors-edition.json](./83553-redemption-cemetery-clock-of-fate-collectors-edition.json) |
+| Redemption Cemetery: Dead Park | 187929 | [187929-redemption-cemetery-dead-park.json](./187929-redemption-cemetery-dead-park.json) |
 | Redemption Cemetery: Grave Testimony | 61078 | [61078-redemption-cemetery-grave-testimony.json](./61078-redemption-cemetery-grave-testimony.json) |
 | Redemption Cemetery: Grave Testimony - Collector's Edition | 102189 | [102189-redemption-cemetery-grave-testimony-collectors-edition.json](./102189-redemption-cemetery-grave-testimony-collectors-edition.json) |
 | Redemption Cemetery: Salvation of the Lost | 61077 | [61077-redemption-cemetery-salvation-of-the-lost.json](./61077-redemption-cemetery-salvation-of-the-lost.json) |
@@ -3106,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resurrection Core | 335267 | [335267-resurrection-core.json](./335267-resurrection-core.json) |
 | Resurrection Island: Love and Victory | 265570 | [265570-resurrection-island-love-and-victory.json](./265570-resurrection-island-love-and-victory.json) |
 | Resurrection of Santiago | 349385 | [349385-resurrection-of-santiago.json](./349385-resurrection-of-santiago.json) |
+| Resurrection of Soul Drain | 187902 | [187902-resurrection-of-soul-drain.json](./187902-resurrection-of-soul-drain.json) |
 | Resurrection: New Mexico - Collector's Edition | 125310 | [125310-resurrection-new-mexico-collectors-edition.json](./125310-resurrection-new-mexico-collectors-edition.json) |
 | Resurrector | 126624 | [126624-resurrector.json](./126624-resurrector.json) |
 | Resurviv.biz: Battle Royale | 373642 | [373642-resurviv-biz-battle-royale.json](./373642-resurviv-biz-battle-royale.json) |
