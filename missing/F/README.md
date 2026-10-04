@@ -3455,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fission | 164917 | [164917-fission.json](./164917-fission.json) |
 | Fission | 381021 | [381021-fission.json](./381021-fission.json) |
 | Fission Superstar X | 90312 | [90312-fission-superstar-x.json](./90312-fission-superstar-x.json) |
+| Fissure | 201624 | [201624-fissure.json](./201624-fissure.json) |
 | Fissure | 361809 | [361809-fissure.json](./361809-fissure.json) |
 | Fissure: Cubic | 297078 | [297078-fissure-cubic.json](./297078-fissure-cubic.json) |
 | Fist Fighter | 41007 | [41007-fist-fighter.json](./41007-fist-fighter.json) |
@@ -4618,6 +4619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Delivery Battle | 166634 | [166634-food-delivery-battle.json](./166634-food-delivery-battle.json) |
 | Food Delivery Simulator | 316420 | [316420-food-delivery-simulator.json](./316420-food-delivery-simulator.json) |
 | Food Devils | 301330 | [301330-food-devils.json](./301330-food-devils.json) |
+| Food Diary | 201625 | [201625-food-diary.json](./201625-food-diary.json) |
 | Food Drive | 109721 | [109721-food-drive.json](./109721-food-drive.json) |
 | Food Empire | 216743 | [216743-food-empire.json](./216743-food-empire.json) |
 | Food Factory VR | 127020 | [127020-food-factory-vr.json](./127020-food-factory-vr.json) |
