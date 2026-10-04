@@ -5175,6 +5175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Down! | 250880 | [250880-meteor-down.json](./250880-meteor-down.json) |
 | Meteor Genocide | 153994 | [153994-meteor-genocide.json](./153994-meteor-genocide.json) |
 | Meteor Hunt Idle | 248096 | [248096-meteor-hunt-idle.json](./248096-meteor-hunt-idle.json) |
+| Meteor Mess | 220554 | [220554-meteor-mess.json](./220554-meteor-mess.json) |
 | Meteor Mission | 13736 | [13736-meteor-mission.json](./13736-meteor-mission.json) |
 | Meteor Rain | 179053 | [179053-meteor-rain.json](./179053-meteor-rain.json) |
 | Meteor Shower | 306668 | [306668-meteor-shower.json](./306668-meteor-shower.json) |
@@ -7677,6 +7678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moloko | 157006 | [157006-moloko.json](./157006-moloko.json) |
 | Molten Horn | 243293 | [243293-molten-horn.json](./243293-molten-horn.json) |
 | Molten Winds: Open Editon | 288375 | [288375-molten-winds-open-editon.json](./288375-molten-winds-open-editon.json) |
+| Molytropia: Cloud in Shape of Hurt | 220679 | [220679-molytropia-cloud-in-shape-of-hurt.json](./220679-molytropia-cloud-in-shape-of-hurt.json) |
 | Mom | 159247 | [159247-mom.json](./159247-mom.json) |
 | Mom Crush: Hidden Hotel Love Story | 387673 | [387673-mom-crush-hidden-hotel-love-story.json](./387673-mom-crush-hidden-hotel-love-story.json) |
 | Mom Hid My Game! | 78160 | [78160-mom-hid-my-game.json](./78160-mom-hid-my-game.json) |
@@ -7902,6 +7904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monochrome RPG Episode 1: The Maniacal Morning | 152894 | [152894-monochrome-rpg-episode-1-the-maniacal-morning.json](./152894-monochrome-rpg-episode-1-the-maniacal-morning.json) |
 | Monochrome Valentine | 183576 | [183576-monochrome-valentine.json](./183576-monochrome-valentine.json) |
 | Monochrono | 57937 | [57937-monochrono.json](./57937-monochrono.json) |
+| Monocity | 220680 | [220680-monocity.json](./220680-monocity.json) |
 | Monodot | 207828 | [207828-monodot.json](./207828-monodot.json) |
 | Monogatari: Love Letter | 297029 | [297029-monogatari-love-letter.json](./297029-monogatari-love-letter.json) |
 | Monogon: Echoes | 147366 | [147366-monogon-echoes.json](./147366-monogon-echoes.json) |
@@ -9063,6 +9066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Mania Dirt Bike Challenge | 102829 | [102829-moto-mania-dirt-bike-challenge.json](./102829-moto-mania-dirt-bike-challenge.json) |
 | Moto Mouse Stunt Mania | 193475 | [193475-moto-mouse-stunt-mania.json](./193475-moto-mouse-stunt-mania.json) |
 | Moto Parkour | 293640 | [293640-moto-parkour.json](./293640-moto-parkour.json) |
+| Moto Pizza Courier | 220681 | [220681-moto-pizza-courier.json](./220681-moto-pizza-courier.json) |
 | Moto Race | 197888 | [197888-moto-race.json](./197888-moto-race.json) |
 | Moto Racer | 10560 | [10560-moto-racer.json](./10560-moto-racer.json) |
 | Moto Racer 2044 Game Simulator: Money Magnet Bundle | 328988 | [328988-moto-racer-2044-game-simulator-money-magnet-bundle.json](./328988-moto-racer-2044-game-simulator-money-magnet-bundle.json) |
@@ -9815,6 +9819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munchees | 319588 | [319588-munchees.json](./319588-munchees.json) |
 | Muncher | 80219 | [80219-muncher.json](./80219-muncher.json) |
 | Munchie Strikers | 258421 | [258421-munchie-strikers.json](./258421-munchie-strikers.json) |
+| Munchkin Digital | 220682 | [220682-munchkin-digital.json](./220682-munchkin-digital.json) |
 | Munchkin Digital: Unnatural Axe | 255020 | [255020-munchkin-digital-unnatural-axe.json](./255020-munchkin-digital-unnatural-axe.json) |
 | Munchkin Match | 90788 | [90788-munchkin-match.json](./90788-munchkin-match.json) |
 | Munchkin: Quacked Quest | 110314 | [110314-munchkin-quacked-quest.json](./110314-munchkin-quacked-quest.json) |
@@ -10420,6 +10425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Garage | 162411 | [162411-my-garage.json](./162411-my-garage.json) |
 | My Garbage Cat Wakes Me Up At 3AM Every Day | 128556 | [128556-my-garbage-cat-wakes-me-up-at-3am-every-day.json](./128556-my-garbage-cat-wakes-me-up-at-3am-every-day.json) |
 | My Ghost Pet Is Zhong Kui | 309362 | [309362-my-ghost-pet-is-zhong-kui.json](./309362-my-ghost-pet-is-zhong-kui.json) |
+| My Giant Friend | 220677 | [220677-my-giant-friend.json](./220677-my-giant-friend.json) |
 | My Giant Sexy Sensei Bullies Me 10 | 384738 | [384738-my-giant-sexy-sensei-bullies-me-10.json](./384738-my-giant-sexy-sensei-bullies-me-10.json) |
 | My Giant Sexy Sensei Bullies Me 5 | 384724 | [384724-my-giant-sexy-sensei-bullies-me-5.json](./384724-my-giant-sexy-sensei-bullies-me-5.json) |
 | My Giant Sexy Sensei Bullies Me 6 | 384727 | [384727-my-giant-sexy-sensei-bullies-me-6.json](./384727-my-giant-sexy-sensei-bullies-me-6.json) |
@@ -10523,6 +10529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Idle Witch | 395589 | [395589-my-idle-witch.json](./395589-my-idle-witch.json) |
 | My Immortal Sect is Very Powerful | 309673 | [309673-my-immortal-sect-is-very-powerful.json](./309673-my-immortal-sect-is-very-powerful.json) |
 | My Incubi Harem | 235348 | [235348-my-incubi-harem.json](./235348-my-incubi-harem.json) |
+| My Insect Girl Can't Be This Cute | 220683 | [220683-my-insect-girl-cant-be-this-cute.json](./220683-my-insect-girl-cant-be-this-cute.json) |
 | My Interstellar Inn | 285568 | [285568-my-interstellar-inn.json](./285568-my-interstellar-inn.json) |
 | My Isekai After Life is an RPG!? | 153392 | [153392-my-isekai-after-life-is-an-rpg.json](./153392-my-isekai-after-life-is-an-rpg.json) |
 | My Island | 114113 | [114113-my-island.json](./114113-my-island.json) |
