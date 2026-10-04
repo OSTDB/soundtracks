@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Nicklaus' Greatest 18 Holes of Major Championship Golf | 18101 | [18101-jack-nicklaus-greatest-18-holes-of-major-championship-golf.json](./18101-jack-nicklaus-greatest-18-holes-of-major-championship-golf.json) |
 | Jack Nicklaus' Unlimited Golf & Course Design | 72175 | [72175-jack-nicklaus-unlimited-golf-and-course-design.json](./72175-jack-nicklaus-unlimited-golf-and-course-design.json) |
 | Jack of Clubs | 319394 | [319394-jack-of-clubs.json](./319394-jack-of-clubs.json) |
+| Jack of Skies | 176833 | [176833-jack-of-skies.json](./176833-jack-of-skies.json) |
 | Jack of Spades | 182861 | [182861-jack-of-spades.json](./182861-jack-of-spades.json) |
 | Jack Pilgrim: Space Within | 195150 | [195150-jack-pilgrim-space-within.json](./195150-jack-pilgrim-space-within.json) |
 | Jack Saves Easter | 193479 | [193479-jack-saves-easter.json](./193479-jack-saves-easter.json) |
