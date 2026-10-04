@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Assault | 94867 | [94867-omega-assault.json](./94867-omega-assault.json) |
 | Omega Blast | 270632 | [270632-omega-blast.json](./270632-omega-blast.json) |
 | Omega Chase | 41985 | [41985-omega-chase.json](./41985-omega-chase.json) |
+| Omega Chronos | 191667 | [191667-omega-chronos.json](./191667-omega-chronos.json) |
 | Omega Enforcer X | 181905 | [181905-omega-enforcer-x.json](./181905-omega-enforcer-x.json) |
 | Omega Extinction | 68588 | [68588-omega-extinction.json](./68588-omega-extinction.json) |
 | Omega Fighter | 40256 | [40256-omega-fighter.json](./40256-omega-fighter.json) |
