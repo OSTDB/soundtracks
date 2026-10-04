@@ -5399,6 +5399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siheyuan | 244325 | [244325-siheyuan.json](./244325-siheyuan.json) |
 | Siienaa | 195575 | [195575-siienaa.json](./195575-siienaa.json) |
 | SiIvaGunner: King for a Day Tournament - Playable Credits Minigame!! | 326974 | [326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json](./326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json) |
+| Sika: Tribe's salvation | 184985 | [184985-sika-tribes-salvation.json](./184985-sika-tribes-salvation.json) |
 | Sikhl | 308266 | [308266-sikhl.json](./308266-sikhl.json) |
 | Sil and the Fading World | 331103 | [331103-sil-and-the-fading-world.json](./331103-sil-and-the-fading-world.json) |
 | Silberheim Evolving Card Game | 393787 | [393787-silberheim-evolving-card-game.json](./393787-silberheim-evolving-card-game.json) |
@@ -7840,6 +7841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SneakBit | 326712 | [326712-sneakbit.json](./326712-sneakbit.json) |
 | Sneaker Store Simulator | 389965 | [389965-sneaker-store-simulator.json](./389965-sneaker-store-simulator.json) |
 | Sneakers | 6053 | [6053-sneakers.json](./6053-sneakers.json) |
+| SneakR | 184950 | [184950-sneakr.json](./184950-sneakr.json) |
 | Sneaky All-Nighter 2 | 379035 | [379035-sneaky-all-nighter-2.json](./379035-sneaky-all-nighter-2.json) |
 | Sneaky Bears | 69320 | [69320-sneaky-bears.json](./69320-sneaky-bears.json) |
 | Sneaky Bears VR | 68272 | [68272-sneaky-bears-vr.json](./68272-sneaky-bears-vr.json) |
@@ -7856,6 +7858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnekMP | 226442 | [226442-snekmp.json](./226442-snekmp.json) |
 | Snekoban | 393124 | [393124-snekoban.json](./393124-snekoban.json) |
 | Snekris | 291002 | [291002-snekris.json](./291002-snekris.json) |
+| Sneks Fiend | 184977 | [184977-sneks-fiend.json](./184977-sneks-fiend.json) |
 | Snekteks | 365232 | [365232-snekteks.json](./365232-snekteks.json) |
 | Snezhinka: Sentinel Girls 2 | 284892 | [284892-snezhinka-sentinel-girls-2.json](./284892-snezhinka-sentinel-girls-2.json) |
 | Snezhnaja Koroleva | 197956 | [197956-snezhnaja-koroleva.json](./197956-snezhnaja-koroleva.json) |
@@ -12193,6 +12196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squeakers II | 148370 | [148370-squeakers-ii.json](./148370-squeakers-ii.json) |
 | Squeakross: Free Content Update | 392279 | [392279-squeakross-free-content-update.json](./392279-squeakross-free-content-update.json) |
 | Squeakross: Home Squeak Home | 305074 | [305074-squeakross-home-squeak-home.json](./305074-squeakross-home-squeak-home.json) |
+| Squeek, the meek | 184974 | [184974-squeek-the-meek.json](./184974-squeek-the-meek.json) |
 | Squeen's Adventure 3: Across The Cosmos | 242255 | [242255-squeens-adventure-3-across-the-cosmos.json](./242255-squeens-adventure-3-across-the-cosmos.json) |
 | Squeeze Box | 22802 | [22802-squeeze-box.json](./22802-squeeze-box.json) |
 | Squeezils | 206708 | [206708-squeezils.json](./206708-squeezils.json) |
@@ -12272,6 +12276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sssnake | 195058 | [195058-sssnake.json](./195058-sssnake.json) |
 | SSSnaker | 248169 | [248169-sssnaker.json](./248169-sssnaker.json) |
 | Sssnakes | 84896 | [84896-sssnakes.json](./84896-sssnakes.json) |
+| SSWK: Valentine's Day Special | 184966 | [184966-sswk-valentines-day-special.json](./184966-sswk-valentines-day-special.json) |
 | SSX | 4179 | [4179-ssx.json](./4179-ssx.json) |
 | SSX 3 | 186239 | [186239-ssx-3.json](./186239-ssx-3.json) |
 | SSX 3 | 4174 | [4174-ssx-3.json](./4174-ssx-3.json) |
@@ -14483,6 +14488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Shores: Social Desktop Fishing | 344395 | [344395-strange-shores-social-desktop-fishing.json](./344395-strange-shores-social-desktop-fishing.json) |
 | Strange Tales of Tei-Shan | 301262 | [301262-strange-tales-of-tei-shan.json](./301262-strange-tales-of-tei-shan.json) |
 | Strange Terror from Beyond the Stars! | 133303 | [133303-strange-terror-from-beyond-the-stars.json](./133303-strange-terror-from-beyond-the-stars.json) |
+| Strange Terror from the Deep | 184939 | [184939-strange-terror-from-the-deep.json](./184939-strange-terror-from-the-deep.json) |
 | Strange Things | 75775 | [75775-strange-things.json](./75775-strange-things.json) |
 | Strange Toilet | 294975 | [294975-strange-toilet.json](./294975-strange-toilet.json) |
 | Strange Winds | 383637 | [383637-strange-winds.json](./383637-strange-winds.json) |
@@ -15506,6 +15512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugary Shifter | 314055 | [314055-sugary-shifter.json](./314055-sugary-shifter.json) |
 | Sugary Spire: Exhibition Night | 349966 | [349966-sugary-spire-exhibition-night.json](./349966-sugary-spire-exhibition-night.json) |
 | Sugee Yasashii Yandere no Ichiniji no Ruutin | 398546 | [398546-sugee-yasashii-yandere-no-ichiniji-no-ruutin.json](./398546-sugee-yasashii-yandere-no-ichiniji-no-ruutin.json) |
+| Suggestion Box | 184969 | [184969-suggestion-box.json](./184969-suggestion-box.json) |
 | Suggoi! Arcana Heart 2 | 243414 | [243414-suggoi-arcana-heart-2.json](./243414-suggoi-arcana-heart-2.json) |
 | Suggoi! Arcana Heart 2 | 243419 | [243419-suggoi-arcana-heart-2.json](./243419-suggoi-arcana-heart-2.json) |
 | Sugi Chan Adventure | 297637 | [297637-sugi-chan-adventure.json](./297637-sugi-chan-adventure.json) |
