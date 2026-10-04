@@ -9128,6 +9128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Symbiant | 228984 | [228984-the-symbiant.json](./228984-the-symbiant.json) |
 | The Symbiant II | 349336 | [349336-the-symbiant-ii.json](./349336-the-symbiant-ii.json) |
 | The Symbiant Re:Union | 259004 | [259004-the-symbiant-re-union.json](./259004-the-symbiant-re-union.json) |
+| The Symphony of Dragon and Girls | 208237 | [208237-the-symphony-of-dragon-and-girls.json](./208237-the-symphony-of-dragon-and-girls.json) |
 | The T.O.T.E.: Tales of the Elements | 258214 | [258214-the-t-o-t-e-tales-of-the-elements.json](./258214-the-t-o-t-e-tales-of-the-elements.json) |
 | The Table Game | 93975 | [93975-the-table-game.json](./93975-the-table-game.json) |
 | The Tabung | 196310 | [196310-the-tabung.json](./196310-the-tabung.json) |
@@ -12805,6 +12806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Memorial: Forever with You - Emotional | 314954 | [314954-tokimeki-memorial-forever-with-you-emotional.json](./314954-tokimeki-memorial-forever-with-you-emotional.json) |
 | Tokimeki Memorial: Taisen Tokkaedama | 71021 | [71021-tokimeki-memorial-taisen-tokkaedama.json](./71021-tokimeki-memorial-taisen-tokkaedama.json) |
 | Tokimeki Restaurant | 140385 | [140385-tokimeki-restaurant.json](./140385-tokimeki-restaurant.json) |
+| Tokimeki RunRuns | 208257 | [208257-tokimeki-runruns.json](./208257-tokimeki-runruns.json) |
 | Tokimeki Taisen | 191861 | [191861-tokimeki-taisen.json](./191861-tokimeki-taisen.json) |
 | Tokimeter | 322951 | [322951-tokimeter.json](./322951-tokimeter.json) |
 | Tokio | 72164 | [72164-tokio.json](./72164-tokio.json) |
@@ -13700,6 +13702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Tuberz | 373074 | [373074-totally-tuberz.json](./373074-totally-tuberz.json) |
 | Totally Unbalanced | 32402 | [32402-totally-unbalanced.json](./32402-totally-unbalanced.json) |
 | Totally Working Game | 168130 | [168130-totally-working-game.json](./168130-totally-working-game.json) |
+| TotalNerds | 208254 | [208254-totalnerds.json](./208254-totalnerds.json) |
 | Totem | 32070 | [32070-totem.json](./32070-totem.json) |
 | Totem | 396483 | [396483-totem.json](./396483-totem.json) |
 | Tôtem | 133974 | [133974-totem.json](./133974-totem.json) |
@@ -14435,6 +14438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrackMania United | 9908 | [9908-trackmania-united.json](./9908-trackmania-united.json) |
 | TrackMania United Forever | 2451 | [2451-trackmania-united-forever.json](./2451-trackmania-united-forever.json) |
 | TrackMania: Power Up! | 69906 | [69906-trackmania-power-up.json](./69906-trackmania-power-up.json) |
+| TrackRace | 208230 | [208230-trackrace.json](./208230-trackrace.json) |
 | TrackRacing Online | 98396 | [98396-trackracing-online.json](./98396-trackracing-online.json) |
 | Tracks n' Turrets | 272899 | [272899-tracks-n-turrets.json](./272899-tracks-n-turrets.json) |
 | Tracks of Thought | 136982 | [136982-tracks-of-thought.json](./136982-tracks-of-thought.json) |
@@ -15745,6 +15749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trepang2: Digital Deluxe Edition | 287625 | [287625-trepang2-digital-deluxe-edition.json](./287625-trepang2-digital-deluxe-edition.json) |
 | Tres | 319800 | [319800-tres.json](./319800-tres.json) |
 | Tres Acordes | 230757 | [230757-tres-acordes.json](./230757-tres-acordes.json) |
+| Tres Undos | 208269 | [208269-tres-undos.json](./208269-tres-undos.json) |
 | Tresmir Sight | 298169 | [298169-tresmir-sight.json](./298169-tresmir-sight.json) |
 | Trespass: Episode 1 | 31879 | [31879-trespass-episode-1.json](./31879-trespass-episode-1.json) |
 | Trespasser 2 | 204111 | [204111-trespasser-2.json](./204111-trespasser-2.json) |
