@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Bloodlines 2: Deluxe Edition | 370896 | [370896-vampire-the-masquerade-bloodlines-2-deluxe-edition.json](./370896-vampire-the-masquerade-bloodlines-2-deluxe-edition.json) |
 | Vampire: The Masquerade - Bloodlines 2: Premium Edition | 370897 | [370897-vampire-the-masquerade-bloodlines-2-premium-edition.json](./370897-vampire-the-masquerade-bloodlines-2-premium-edition.json) |
 | Vampire: The Masquerade - Coteries of New York & Shadows of New York | 146128 | [146128-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york.json](./146128-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york.json) |
+| Vampire: The Masquerade - Heartless Lullaby | 197222 | [197222-vampire-the-masquerade-heartless-lullaby.json](./197222-vampire-the-masquerade-heartless-lullaby.json) |
 | Vampire: The Masquerade - Justice | 251559 | [251559-vampire-the-masquerade-justice.json](./251559-vampire-the-masquerade-justice.json) |
 | Vampire: The Masquerade - Night Road | 133401 | [133401-vampire-the-masquerade-night-road.json](./133401-vampire-the-masquerade-night-road.json) |
 | Vampire: The Masquerade - Parliament of Knives | 133402 | [133402-vampire-the-masquerade-parliament-of-knives.json](./133402-vampire-the-masquerade-parliament-of-knives.json) |
@@ -737,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vengeful Guardian: Moonrider | 213741 | [213741-vengeful-guardian-moonrider.json](./213741-vengeful-guardian-moonrider.json) |
 | Venial Sin | 396539 | [396539-venial-sin.json](./396539-venial-sin.json) |
 | Venice Deluxe | 21448 | [21448-venice-deluxe.json](./21448-venice-deluxe.json) |
+| Venice Master | 197205 | [197205-venice-master.json](./197205-venice-master.json) |
 | Venice Taxi Boats | 218373 | [218373-venice-taxi-boats.json](./218373-venice-taxi-boats.json) |
 | Venison County | 387672 | [387672-venison-county.json](./387672-venison-county.json) |
 | VeniVidiFutzi | 271731 | [271731-venividifutzi.json](./271731-venividifutzi.json) |
@@ -1652,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice | 191246 | [191246-voice.json](./191246-voice.json) |
 | Voice Actress II | 104801 | [104801-voice-actress-ii.json](./104801-voice-actress-ii.json) |
 | Voice Changer 360 | 80639 | [80639-voice-changer-360.json](./80639-voice-changer-360.json) |
+| Voice from Beyond | 197208 | [197208-voice-from-beyond.json](./197208-voice-from-beyond.json) |
 | Voice in the Abyss | 283735 | [283735-voice-in-the-abyss.json](./283735-voice-in-the-abyss.json) |
 | Voice of Cards Trilogy | 242664 | [242664-voice-of-cards-trilogy.json](./242664-voice-of-cards-trilogy.json) |
 | Voice of Cards: The Beasts of Burden | 215058 | [215058-voice-of-cards-the-beasts-of-burden.json](./215058-voice-of-cards-the-beasts-of-burden.json) |
