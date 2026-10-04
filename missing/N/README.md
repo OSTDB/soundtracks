@@ -1868,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Zealand Jigsaw Puzzles | 274766 | [274766-new-zealand-jigsaw-puzzles.json](./274766-new-zealand-jigsaw-puzzles.json) |
 | New Zelda | 270386 | [270386-new-zelda.json](./270386-new-zelda.json) |
 | New Zombie | 274473 | [274473-new-zombie.json](./274473-new-zombie.json) |
+| New! SMW2 Yoshi's Island | 186135 | [186135-new-smw2-yoshis-island.json](./186135-new-smw2-yoshis-island.json) |
 | Newbie Life | 262384 | [262384-newbie-life.json](./262384-newbie-life.json) |
 | Newcastle United Club Football 2005 | 267896 | [267896-newcastle-united-club-football-2005.json](./267896-newcastle-united-club-football-2005.json) |
 | Newcomer | 84280 | [84280-newcomer.json](./84280-newcomer.json) |
