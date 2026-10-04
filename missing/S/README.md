@@ -10424,6 +10424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceCombat | 94862 | [94862-spacecombat.json](./94862-spacecombat.json) |
 | SpaceCorn | 35000 | [35000-spacecorn.json](./35000-spacecorn.json) |
 | SpaceCorp: 2025-2300AD | 352297 | [352297-spacecorp-2025-2300ad.json](./352297-spacecorp-2025-2300ad.json) |
+| SpaceCorps XXX | 215180 | [215180-spacecorps-xxx.json](./215180-spacecorps-xxx.json) |
 | Spacecraft Tactics | 274038 | [274038-spacecraft-tactics.json](./274038-spacecraft-tactics.json) |
 | Spacecraft War | 109879 | [109879-spacecraft-war.json](./109879-spacecraft-war.json) |
 | SpaceCrooks: The End of Time | 216883 | [216883-spacecrooks-the-end-of-time.json](./216883-spacecrooks-the-end-of-time.json) |
