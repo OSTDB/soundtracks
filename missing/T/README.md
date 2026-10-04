@@ -3004,6 +3004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alchemist | 306992 | [306992-the-alchemist.json](./306992-the-alchemist.json) |
 | The Alchemist & His Battle-Scarred Homunculus | 315048 | [315048-the-alchemist-and-his-battle-scarred-homunculus.json](./315048-the-alchemist-and-his-battle-scarred-homunculus.json) |
 | The Alchemist of Nafiljar | 244906 | [244906-the-alchemist-of-nafiljar.json](./244906-the-alchemist-of-nafiljar.json) |
+| The Alchemist Shop: An Apprentice's Life | 213308 | [213308-the-alchemist-shop-an-apprentices-life.json](./213308-the-alchemist-shop-an-apprentices-life.json) |
 | The Alchemist's Cards | 397784 | [397784-the-alchemists-cards.json](./397784-the-alchemists-cards.json) |
 | The Alcor Trivia Pro Classic Star Trek (Star-Log I) | 71672 | [71672-the-alcor-trivia-pro-classic-star-trek-star-log-i.json](./71672-the-alcor-trivia-pro-classic-star-trek-star-log-i.json) |
 | The Alehouse Tavern Chronicles | 335074 | [335074-the-alehouse-tavern-chronicles.json](./335074-the-alehouse-tavern-chronicles.json) |
@@ -4383,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil & the Deep Blue Sea | 194434 | [194434-the-devil-and-the-deep-blue-sea.json](./194434-the-devil-and-the-deep-blue-sea.json) |
 | The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
 | The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
+| The Devil Within: Satgat | 213423 | [213423-the-devil-within-satgat.json](./213423-the-devil-within-satgat.json) |
 | The Devil's Bride | 326215 | [326215-the-devils-bride.json](./326215-the-devils-bride.json) |
 | The Devil's Calculator | 114080 | [114080-the-devils-calculator.json](./114080-the-devils-calculator.json) |
 | The Devil's Eight | 55126 | [55126-the-devils-eight.json](./55126-the-devils-eight.json) |
@@ -5711,6 +5713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunted | 28786 | [28786-the-hunted.json](./28786-the-hunted.json) |
 | The Hunted Witch | 252678 | [252678-the-hunted-witch.json](./252678-the-hunted-witch.json) |
 | The Hunter Cursed by Night | 296467 | [296467-the-hunter-cursed-by-night.json](./296467-the-hunter-cursed-by-night.json) |
+| The Hunter's Journals: Wight Chapel Dreams | 213424 | [213424-the-hunters-journals-wight-chapel-dreams.json](./213424-the-hunters-journals-wight-chapel-dreams.json) |
 | The Hunter's Path | 327292 | [327292-the-hunters-path.json](./327292-the-hunters-path.json) |
 | The Hunters Journals; Pale Harbour | 119680 | [119680-the-hunters-journals-pale-harbour.json](./119680-the-hunters-journals-pale-harbour.json) |
 | The Hunting God | 51418 | [51418-the-hunting-god.json](./51418-the-hunting-god.json) |
@@ -6160,6 +6163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kore Gang: Outvasion From Inner Space | 21071 | [21071-the-kore-gang-outvasion-from-inner-space.json](./21071-the-kore-gang-outvasion-from-inner-space.json) |
 | The Koshan Conspiracy | 69926 | [69926-the-koshan-conspiracy.json](./69926-the-koshan-conspiracy.json) |
 | The Kotchei | 298718 | [298718-the-kotchei.json](./298718-the-kotchei.json) |
+| The Kraken Wakes | 213425 | [213425-the-kraken-wakes.json](./213425-the-kraken-wakes.json) |
 | The Krampus | 289995 | [289995-the-krampus.json](./289995-the-krampus.json) |
 | The Krilling: Scare Feast! | 298146 | [298146-the-krilling-scare-feast.json](./298146-the-krilling-scare-feast.json) |
 | The Krion Conquest | 48173 | [48173-the-krion-conquest.json](./48173-the-krion-conquest.json) |
@@ -6357,6 +6361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Player | 115469 | [115469-the-last-player.json](./115469-the-last-player.json) |
 | The Last Poem: The Trials of Poe | 152776 | [152776-the-last-poem-the-trials-of-poe.json](./152776-the-last-poem-the-trials-of-poe.json) |
 | The Last Practice Sectis | 196044 | [196044-the-last-practice-sectis.json](./196044-the-last-practice-sectis.json) |
+| The Last Premiere | 213422 | [213422-the-last-premiere.json](./213422-the-last-premiere.json) |
 | The Last Prompt | 342179 | [342179-the-last-prompt.json](./342179-the-last-prompt.json) |
 | The Last Queen in the Wizard Kingdom | 156184 | [156184-the-last-queen-in-the-wizard-kingdom.json](./156184-the-last-queen-in-the-wizard-kingdom.json) |
 | The Last Quest | 185158 | [185158-the-last-quest.json](./185158-the-last-quest.json) |
@@ -6465,6 +6470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend Beyond Legends | 302441 | [302441-the-legend-beyond-legends.json](./302441-the-legend-beyond-legends.json) |
 | The Legend of Alon D'ar | 19420 | [19420-the-legend-of-alon-dar.json](./19420-the-legend-of-alon-dar.json) |
 | The Legend of Arcadieu | 126635 | [126635-the-legend-of-arcadieu.json](./126635-the-legend-of-arcadieu.json) |
+| The Legend of Aurum Draconis | 213301 | [213301-the-legend-of-aurum-draconis.json](./213301-the-legend-of-aurum-draconis.json) |
 | The Legend of Azarias Rebirth | 294994 | [294994-the-legend-of-azarias-rebirth.json](./294994-the-legend-of-azarias-rebirth.json) |
 | The Legend of Baboo | 320143 | [320143-the-legend-of-baboo.json](./320143-the-legend-of-baboo.json) |
 | The Legend of Banjo-Kazooie: Gruntilda's Mask | 201769 | [201769-the-legend-of-banjo-kazooie-gruntildas-mask.json](./201769-the-legend-of-banjo-kazooie-gruntildas-mask.json) |
