@@ -2316,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Angel: Special Edition | 127159 | [127159-fight-angel-special-edition.json](./127159-fight-angel-special-edition.json) |
 | Fight Angels | 125977 | [125977-fight-angels.json](./125977-fight-angels.json) |
 | Fight Arena Online | 239628 | [239628-fight-arena-online.json](./239628-fight-arena-online.json) |
+| Fight Ascending | 190010 | [190010-fight-ascending.json](./190010-fight-ascending.json) |
 | Fight Back The Night | 290608 | [290608-fight-back-the-night.json](./290608-fight-back-the-night.json) |
 | Fight Ball VR | 120924 | [120924-fight-ball-vr.json](./120924-fight-ball-vr.json) |
 | Fight Bingo | 265185 | [265185-fight-bingo.json](./265185-fight-bingo.json) |
@@ -2481,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill and Cross. Pirate Riddles | 100348 | [100348-fill-and-cross-pirate-riddles.json](./100348-fill-and-cross-pirate-riddles.json) |
 | Fill Fill | 362399 | [362399-fill-fill.json](./362399-fill-fill.json) |
 | Fill in the Holes | 205027 | [205027-fill-in-the-holes.json](./205027-fill-in-the-holes.json) |
+| Fill me up | 190050 | [190050-fill-me-up.json](./190050-fill-me-up.json) |
 | Fill Missing Letters | 187977 | [187977-fill-missing-letters.json](./187977-fill-missing-letters.json) |
 | Fill Multicolor | 283380 | [283380-fill-multicolor.json](./283380-fill-multicolor.json) |
 | Fill The Cup | 315705 | [315705-fill-the-cup.json](./315705-fill-the-cup.json) |
@@ -2796,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Cats2 | 307687 | [307687-find-cats2.json](./307687-find-cats2.json) |
 | Find Differences | 380628 | [380628-find-differences.json](./380628-find-differences.json) |
 | Find El Chupacabra | 359393 | [359393-find-el-chupacabra.json](./359393-find-el-chupacabra.json) |
+| Find Exit | 190024 | [190024-find-exit.json](./190024-find-exit.json) |
 | Find Him | 292771 | [292771-find-him.json](./292771-find-him.json) |
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
 | Find It - Tap the Different | 55102 | [55102-find-it-tap-the-different.json](./55102-find-it-tap-the-different.json) |
