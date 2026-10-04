@@ -4763,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Safety Hotline: Seasonal Worker | 317001 | [317001-home-safety-hotline-seasonal-worker.json](./317001-home-safety-hotline-seasonal-worker.json) |
 | Home Simulator | 292169 | [292169-home-simulator.json](./292169-home-simulator.json) |
 | Home Snatch | 311791 | [311791-home-snatch.json](./311791-home-snatch.json) |
+| Home Solo Car Racer | 202644 | [202644-home-solo-car-racer.json](./202644-home-solo-car-racer.json) |
 | Home Store Simulator | 407486 | [407486-home-store-simulator.json](./407486-home-store-simulator.json) |
 | Home Story: 1971 | 101747 | [101747-home-story-1971.json](./101747-home-story-1971.json) |
 | Home Street: Dream House Sim | 90555 | [90555-home-street-dream-house-sim.json](./90555-home-street-dream-house-sim.json) |
