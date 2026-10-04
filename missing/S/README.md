@@ -9674,6 +9674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulSide | 190703 | [190703-soulside.json](./190703-soulside.json) |
 | Soulsland | 180014 | [180014-soulsland.json](./180014-soulsland.json) |
 | Soulsland 3: Spider Invasion | 255273 | [255273-soulsland-3-spider-invasion.json](./255273-soulsland-3-spider-invasion.json) |
+| Soulsland: Last Fight | 215718 | [215718-soulsland-last-fight.json](./215718-soulsland-last-fight.json) |
 | Soulslayer | 46461 | [46461-soulslayer.json](./46461-soulslayer.json) |
 | Soulslinger | 223041 | [223041-soulslinger.json](./223041-soulslinger.json) |
 | Soulslinger: Envoy of Death | 259147 | [259147-soulslinger-envoy-of-death.json](./259147-soulslinger-envoy-of-death.json) |
@@ -9812,6 +9813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sovietpunk: Chapter one | 168852 | [168852-sovietpunk-chapter-one.json](./168852-sovietpunk-chapter-one.json) |
 | SOVL: Ratkin Clans | 305773 | [305773-sovl-ratkin-clans.json](./305773-sovl-ratkin-clans.json) |
 | SOVL: Reptilian Kingdoms | 296657 | [296657-sovl-reptilian-kingdoms.json](./296657-sovl-reptilian-kingdoms.json) |
+| Sowa VR | 215719 | [215719-sowa-vr.json](./215719-sowa-vr.json) |
 | Sowon | 222984 | [222984-sowon.json](./222984-sowon.json) |
 | Sowon : The Toy Wonderland | 298579 | [298579-sowon-the-toy-wonderland.json](./298579-sowon-the-toy-wonderland.json) |
 | Soy Supremacy | 372036 | [372036-soy-supremacy.json](./372036-soy-supremacy.json) |
@@ -10032,6 +10034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Girls | 68894 | [68894-space-girls.json](./68894-space-girls.json) |
 | Space Girls Band | 293215 | [293215-space-girls-band.json](./293215-space-girls-band.json) |
 | Space Gnomes | 407315 | [407315-space-gnomes.json](./407315-space-gnomes.json) |
+| Space Gold Rush TD | 215717 | [215717-space-gold-rush-td.json](./215717-space-gold-rush-td.json) |
 | Space Goose | 92309 | [92309-space-goose.json](./92309-space-goose.json) |
 | Space Gourmet: Delivery | 238504 | [238504-space-gourmet-delivery.json](./238504-space-gourmet-delivery.json) |
 | Space Gray X | 304861 | [304861-space-gray-x.json](./304861-space-gray-x.json) |
