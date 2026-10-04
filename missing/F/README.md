@@ -4210,6 +4210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor Chess | 244747 | [244747-floor-chess.json](./244747-floor-chess.json) |
 | Floor Drop | 413655 | [413655-floor-drop.json](./413655-floor-drop.json) |
 | Floor Fall | 310974 | [310974-floor-fall.json](./310974-floor-fall.json) |
+| Floor is Lava | 189017 | [189017-floor-is-lava.json](./189017-floor-is-lava.json) |
 | Floor is Lava | 207520 | [207520-floor-is-lava.json](./207520-floor-is-lava.json) |
 | Floor is Water | 193402 | [193402-floor-is-water.json](./193402-floor-is-water.json) |
 | Floor is...What!? | 189135 | [189135-floor-is-what.json](./189135-floor-is-what.json) |
@@ -6008,6 +6009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Wars Remastered | 317086 | [317086-freedom-wars-remastered.json](./317086-freedom-wars-remastered.json) |
 | Freedom: A Time to Reckon | 72350 | [72350-freedom-a-time-to-reckon.json](./72350-freedom-a-time-to-reckon.json) |
 | Freedom! Do or Die | 168122 | [168122-freedom-do-or-die.json](./168122-freedom-do-or-die.json) |
+| Freedom's Eye | 188984 | [188984-freedoms-eye.json](./188984-freedoms-eye.json) |
 | FreedomBot | 391577 | [391577-freedombot.json](./391577-freedombot.json) |
 | Freefall by MSX Murcia | 267563 | [267563-freefall-by-msx-murcia.json](./267563-freefall-by-msx-murcia.json) |
 | Freefall Racers | 62981 | [62981-freefall-racers.json](./62981-freefall-racers.json) |
