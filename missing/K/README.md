@@ -2708,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konchuu Fighters | 65191 | [65191-konchuu-fighters.json](./65191-konchuu-fighters.json) |
 | Konchuu Hakase | 228602 | [228602-konchuu-hakase.json](./228602-konchuu-hakase.json) |
 | Konchuu Hakase 2 | 228603 | [228603-konchuu-hakase-2.json](./228603-konchuu-hakase-2.json) |
+| Koncolos | 192264 | [192264-koncolos.json](./192264-koncolos.json) |
 | Konductra | 20619 | [20619-konductra.json](./20619-konductra.json) |
 | Koneko Club | 385748 | [385748-koneko-club.json](./385748-koneko-club.json) |
 | Konfronto | 319134 | [319134-konfronto.json](./319134-konfronto.json) |
@@ -2721,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kong: The Animated Series | 49333 | [49333-kong-the-animated-series.json](./49333-kong-the-animated-series.json) |
 | Kongeer | 201006 | [201006-kongeer.json](./201006-kongeer.json) |
 | Kongfu | 246465 | [246465-kongfu.json](./246465-kongfu.json) |
+| Kongfu VR | 192249 | [192249-kongfu-vr.json](./192249-kongfu-vr.json) |
 | Kongo Kong | 62983 | [62983-kongo-kong.json](./62983-kongo-kong.json) |
 | KongQuest | 216172 | [216172-kongquest.json](./216172-kongquest.json) |
 | Kongregate Racing | 338926 | [338926-kongregate-racing.json](./338926-kongregate-racing.json) |
