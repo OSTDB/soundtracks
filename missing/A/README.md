@@ -845,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abenteuer Landtag 2 | 135093 | [135093-abenteuer-landtag-2.json](./135093-abenteuer-landtag-2.json) |
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
 | Aberrant Nights | 304671 | [304671-aberrant-nights.json](./304671-aberrant-nights.json) |
+| Aberration | 187259 | [187259-aberration.json](./187259-aberration.json) |
 | Abglantz | 216775 | [216775-abglantz.json](./216775-abglantz.json) |
 | Abh | 173184 | [173184-abh.json](./173184-abh.json) |
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
@@ -2566,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Service Simulator | 204979 | [204979-airport-service-simulator.json](./204979-airport-service-simulator.json) |
 | Airport Simulator 2013 | 100124 | [100124-airport-simulator-2013.json](./100124-airport-simulator-2013.json) |
 | Airport Simulator 2014 | 16899 | [16899-airport-simulator-2014.json](./16899-airport-simulator-2014.json) |
+| Airport Simulator: Day & Night | 187310 | [187310-airport-simulator-day-and-night.json](./187310-airport-simulator-day-and-night.json) |
 | Airport Tycoon 2 | 78040 | [78040-airport-tycoon-2.json](./78040-airport-tycoon-2.json) |
 | Airport Tycoon 3 | 69843 | [69843-airport-tycoon-3.json](./69843-airport-tycoon-3.json) |
 | Airport Wars ll | 52565 | [52565-airport-wars-ll.json](./52565-airport-wars-ll.json) |
@@ -7345,6 +7347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asesinato en 7º Grado (Por lo Menos) | 317029 | [317029-asesinato-en-7o-grado-por-lo-menos.json](./317029-asesinato-en-7o-grado-por-lo-menos.json) |
 | Asesinato en 7º Grado 2 (La Huida) | 317030 | [317030-asesinato-en-7o-grado-2-la-huida.json](./317030-asesinato-en-7o-grado-2-la-huida.json) |
 | Asfalia: The Cranky Volcano | 196425 | [196425-asfalia-the-cranky-volcano.json](./196425-asfalia-the-cranky-volcano.json) |
+| Asgard | 187282 | [187282-asgard.json](./187282-asgard.json) |
 | Asgard Run | 57327 | [57327-asgard-run.json](./57327-asgard-run.json) |
 | Asgard's Wrath | 115031 | [115031-asgards-wrath.json](./115031-asgards-wrath.json) |
 | Asgard’s Wrath II | 251569 | [251569-asgard-s-wrath-ii.json](./251569-asgard-s-wrath-ii.json) |
