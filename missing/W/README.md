@@ -2188,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When the Strawberry Muffin Ate a Goth | 249323 | [249323-when-the-strawberry-muffin-ate-a-goth.json](./249323-when-the-strawberry-muffin-ate-a-goth.json) |
 | When The World Became Black | 298134 | [298134-when-the-world-became-black.json](./298134-when-the-world-became-black.json) |
 | When Them Demons Cry | 376021 | [376021-when-them-demons-cry.json](./376021-when-them-demons-cry.json) |
+| When There Is No More Snow | 184421 | [184421-when-there-is-no-more-snow.json](./184421-when-there-is-no-more-snow.json) |
 | When Vikings Attack! | 9123 | [9123-when-vikings-attack.json](./9123-when-vikings-attack.json) |
 | When Wardens Fall | 99023 | [99023-when-wardens-fall.json](./99023-when-wardens-fall.json) |
 | When We Arrive | 390795 | [390795-when-we-arrive.json](./390795-when-we-arrive.json) |
