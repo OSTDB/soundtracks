@@ -1802,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania II: Simon's Quest Revamped | 317859 | [317859-castlevania-ii-simons-quest-revamped.json](./317859-castlevania-ii-simons-quest-revamped.json) |
 | Castlevania Legends | 1129 | [1129-castlevania-legends.json](./1129-castlevania-legends.json) |
 | Castlevania Requiem: Symphony of the Night & Rondo of Blood | 109594 | [109594-castlevania-requiem-symphony-of-the-night-and-rondo-of-blood.json](./109594-castlevania-requiem-symphony-of-the-night-and-rondo-of-blood.json) |
+| Castlevania Retold II | 222975 | [222975-castlevania-retold-ii.json](./222975-castlevania-retold-ii.json) |
 | Castlevania SNES Port | 377219 | [377219-castlevania-snes-port.json](./377219-castlevania-snes-port.json) |
 | Castlevania: Aria of Sorrow | 1134 | [1134-castlevania-aria-of-sorrow.json](./1134-castlevania-aria-of-sorrow.json) |
 | Castlevania: Aria of Sorrow | 222412 | [222412-castlevania-aria-of-sorrow.json](./222412-castlevania-aria-of-sorrow.json) |
@@ -1847,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Symphony of the Night | 213878 | [213878-castlevania-symphony-of-the-night.json](./213878-castlevania-symphony-of-the-night.json) |
 | Castlevania: Symphony of the Night | 222227 | [222227-castlevania-symphony-of-the-night.json](./222227-castlevania-symphony-of-the-night.json) |
 | Castlevania: Symphony of the Night | 223593 | [223593-castlevania-symphony-of-the-night.json](./223593-castlevania-symphony-of-the-night.json) |
+| Castlevania: Symphony of the Night - Hard Type | 222985 | [222985-castlevania-symphony-of-the-night-hard-type.json](./222985-castlevania-symphony-of-the-night-hard-type.json) |
 | Castlevania: Symphony of the Night - Reborn | 338814 | [338814-castlevania-symphony-of-the-night-reborn.json](./338814-castlevania-symphony-of-the-night-reborn.json) |
 | Castlevania: Symphony of the Night Randomizer | 218152 | [218152-castlevania-symphony-of-the-night-randomizer.json](./218152-castlevania-symphony-of-the-night-randomizer.json) |
 | Castlevania: The Adventure | 1118 | [1118-castlevania-the-adventure.json](./1118-castlevania-the-adventure.json) |
@@ -5197,6 +5199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clione's Bomb-Bomb Sweeper | 369050 | [369050-cliones-bomb-bomb-sweeper.json](./369050-cliones-bomb-bomb-sweeper.json) |
 | Clippyworld: An Unexpected Journey | 260787 | [260787-clippyworld-an-unexpected-journey.json](./260787-clippyworld-an-unexpected-journey.json) |
 | Clive 'N' Wrench | 59598 | [59598-clive-n-wrench.json](./59598-clive-n-wrench.json) |
+| Clive 'N' Wrench: Collector's Edition | 222955 | [222955-clive-n-wrench-collectors-edition.json](./222955-clive-n-wrench-collectors-edition.json) |
 | Clive Barker's Jericho | 6939 | [6939-clive-barkers-jericho.json](./6939-clive-barkers-jericho.json) |
 | Clive Barker's Jericho: Special Edition | 47470 | [47470-clive-barkers-jericho-special-edition.json](./47470-clive-barkers-jericho-special-edition.json) |
 | Clive vs. Hives 2 | 188685 | [188685-clive-vs-hives-2.json](./188685-clive-vs-hives-2.json) |
@@ -5376,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clown House: Lunacy | 381610 | [381610-clown-house-lunacy.json](./381610-clown-house-lunacy.json) |
 | Clown Is Hungry | 346783 | [346783-clown-is-hungry.json](./346783-clown-is-hungry.json) |
 | Clown Nightmare, Satan's Joke | 130175 | [130175-clown-nightmare-satans-joke.json](./130175-clown-nightmare-satans-joke.json) |
+| Clown Theft Auto: Woke City | 222958 | [222958-clown-theft-auto-woke-city.json](./222958-clown-theft-auto-woke-city.json) |
 | Clown2Beat | 30828 | [30828-clown2beat.json](./30828-clown2beat.json) |
 | Clowns and Balloons | 40781 | [40781-clowns-and-balloons.json](./40781-clowns-and-balloons.json) |
 | ClownScapades Rally | 257924 | [257924-clownscapades-rally.json](./257924-clownscapades-rally.json) |
@@ -7024,6 +7028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contingency Plan | 336632 | [336632-contingency-plan.json](./336632-contingency-plan.json) |
 | Contingent️ | 275352 | [275352-contingent.json](./275352-contingent.json) |
 | Continue?9876543210 | 8725 | [8725-continue-9876543210.json](./8725-continue-9876543210.json) |
+| Continue/Stop/Rise | 222976 | [222976-continue-stop-rise.json](./222976-continue-stop-rise.json) |
 | Continuity | 380088 | [380088-continuity.json](./380088-continuity.json) |
 | Continuum | 229019 | [229019-continuum.json](./229019-continuum.json) |
 | Continuum | 243255 | [243255-continuum.json](./243255-continuum.json) |
@@ -9190,6 +9195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowtel Renovations | 26723 | [26723-crowtel-renovations.json](./26723-crowtel-renovations.json) |
 | CRSED: F.O.A.D. - Age of Nagual | 171062 | [171062-crsed-f-o-a-d-age-of-nagual.json](./171062-crsed-f-o-a-d-age-of-nagual.json) |
 | CRSED: F.O.A.D. - Biker Queen | 171057 | [171057-crsed-f-o-a-d-biker-queen.json](./171057-crsed-f-o-a-d-biker-queen.json) |
+| CRSED: F.O.A.D. - Dieselpunk | 222979 | [222979-crsed-f-o-a-d-dieselpunk.json](./222979-crsed-f-o-a-d-dieselpunk.json) |
 | CRSED: F.O.A.D. - Holy Beast | 171059 | [171059-crsed-f-o-a-d-holy-beast.json](./171059-crsed-f-o-a-d-holy-beast.json) |
 | CRSED: F.O.A.D. - Lone Wolf | 171061 | [171061-crsed-f-o-a-d-lone-wolf.json](./171061-crsed-f-o-a-d-lone-wolf.json) |
 | CRSED: F.O.A.D. - Metal Zombie | 171058 | [171058-crsed-f-o-a-d-metal-zombie.json](./171058-crsed-f-o-a-d-metal-zombie.json) |
@@ -10381,6 +10387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk 2 | 262905 | [262905-cyberpunk-2.json](./262905-cyberpunk-2.json) |
 | Cyberpunk 2077: 2.0 Update | 263463 | [263463-cyberpunk-2077-2-0-update.json](./263463-cyberpunk-2077-2-0-update.json) |
 | Cyberpunk 2077: Day One Edition | 284480 | [284480-cyberpunk-2077-day-one-edition.json](./284480-cyberpunk-2077-day-one-edition.json) |
+| Cyberpunk 2077: Edgerunners Update | 222969 | [222969-cyberpunk-2077-edgerunners-update.json](./222969-cyberpunk-2077-edgerunners-update.json) |
 | Cyberpunk 2077: Ultimate Edition | 277807 | [277807-cyberpunk-2077-ultimate-edition.json](./277807-cyberpunk-2077-ultimate-edition.json) |
 | Cyberpunk 3776 | 35896 | [35896-cyberpunk-3776.json](./35896-cyberpunk-3776.json) |
 | Cyberpunk Arena | 81736 | [81736-cyberpunk-arena.json](./81736-cyberpunk-arena.json) |
@@ -10516,6 +10523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cypher 007 | 265647 | [265647-cypher-007.json](./265647-cypher-007.json) |
 | Cypher Override | 417490 | [417490-cypher-override.json](./417490-cypher-override.json) |
 | Cypher: Cyberpunk Text Adventure | 64616 | [64616-cypher-cyberpunk-text-adventure.json](./64616-cypher-cyberpunk-text-adventure.json) |
+| Cyphernaut | 222798 | [222798-cyphernaut.json](./222798-cyphernaut.json) |
 | Cypress Legacy | 328097 | [328097-cypress-legacy.json](./328097-cypress-legacy.json) |
 | Cyra and the Beacon Path | 203962 | [203962-cyra-and-the-beacon-path.json](./203962-cyra-and-the-beacon-path.json) |
 | Cyrah's Ascent | 201558 | [201558-cyrahs-ascent.json](./201558-cyrahs-ascent.json) |
