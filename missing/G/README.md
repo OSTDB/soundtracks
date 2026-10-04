@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GalaxIverse II | 304895 | [304895-galaxiverse-ii.json](./304895-galaxiverse-ii.json) |
 | GalaxSeed | 97714 | [97714-galaxseed.json](./97714-galaxseed.json) |
 | Galaxy | 154578 | [154578-galaxy.json](./154578-galaxy.json) |
+| Galaxy | 217776 | [217776-galaxy.json](./217776-galaxy.json) |
 | Galaxy | 24000 | [24000-galaxy.json](./24000-galaxy.json) |
 | Galaxy | 381043 | [381043-galaxy.json](./381043-galaxy.json) |
 | Galaxy Angel | 70414 | [70414-galaxy-angel.json](./70414-galaxy-angel.json) |
@@ -1191,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gazmatera: Return of the Generals | 149039 | [149039-gazmatera-return-of-the-generals.json](./149039-gazmatera-return-of-the-generals.json) |
 | Gazolinas | 260632 | [260632-gazolinas.json](./260632-gazolinas.json) |
 | Gazza II | 41000 | [41000-gazza-ii.json](./41000-gazza-ii.json) |
+| Gazza's Electronic Football Game | 217945 | [217945-gazzas-electronic-football-game.json](./217945-gazzas-electronic-football-game.json) |
 | Gazzel Quest: The Five Magic Stones | 32110 | [32110-gazzel-quest-the-five-magic-stones.json](./32110-gazzel-quest-the-five-magic-stones.json) |
 | GB Dash | 393094 | [393094-gb-dash.json](./393094-gb-dash.json) |
 | GB Genjin Land: Viva! Chikkun Oukoku | 64344 | [64344-gb-genjin-land-viva-chikkun-oukoku.json](./64344-gb-genjin-land-viva-chikkun-oukoku.json) |
@@ -5112,6 +5114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guerrilla Gardener | 104459 | [104459-guerrilla-gardener.json](./104459-guerrilla-gardener.json) |
 | Guerrilla Gardening | 182531 | [182531-guerrilla-gardening.json](./182531-guerrilla-gardening.json) |
 | Guerrilla Strike | 43343 | [43343-guerrilla-strike.json](./43343-guerrilla-strike.json) |
+| Guerrilla War | 217933 | [217933-guerrilla-war.json](./217933-guerrilla-war.json) |
 | Guerrilla War | 274099 | [274099-guerrilla-war.json](./274099-guerrilla-war.json) |
 | Guerrilla War | 274100 | [274100-guerrilla-war.json](./274100-guerrilla-war.json) |
 | Guerrilla War | 39787 | [39787-guerrilla-war.json](./39787-guerrilla-war.json) |
