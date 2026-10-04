@@ -1232,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majin Woman | 106148 | [106148-majin-woman.json](./106148-majin-woman.json) |
 | Majo | 413181 | [413181-majo.json](./413181-majo.json) |
 | Majo no Furo Life | 265640 | [265640-majo-no-furo-life.json](./265640-majo-no-furo-life.json) |
+| Majo'ou | 218950 | [218950-majoou.json](./218950-majoou.json) |
 | Majoneko | 252398 | [252398-majoneko.json](./252398-majoneko.json) |
 | Majong | 138732 | [138732-majong.json](./138732-majong.json) |
 | Majong Classic | 87991 | [87991-majong-classic.json](./87991-majong-classic.json) |
@@ -3898,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 2: The Power Fighters | 1725 | [1725-mega-man-2-the-power-fighters.json](./1725-mega-man-2-the-power-fighters.json) |
 | Mega Man 3 | 1716 | [1716-mega-man-3.json](./1716-mega-man-3.json) |
 | Mega Man 3 | 198813 | [198813-mega-man-3.json](./198813-mega-man-3.json) |
+| Mega Man 3 Improvement | 219088 | [219088-mega-man-3-improvement.json](./219088-mega-man-3-improvement.json) |
 | Mega Man 30th Anniversary Bundle | 110814 | [110814-mega-man-30th-anniversary-bundle.json](./110814-mega-man-30th-anniversary-bundle.json) |
 | Mega Man 4 Voyage: Blue Version | 252392 | [252392-mega-man-4-voyage-blue-version.json](./252392-mega-man-4-voyage-blue-version.json) |
 | Mega Man 6 Mobile | 103490 | [103490-mega-man-6-mobile.json](./103490-mega-man-6-mobile.json) |
@@ -5416,6 +5418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey Mouse: Fantasy World | 349449 | [349449-mickey-mouse-fantasy-world.json](./349449-mickey-mouse-fantasy-world.json) |
 | Mickey Mouse: Magic Wands! | 48990 | [48990-mickey-mouse-magic-wands.json](./48990-mickey-mouse-magic-wands.json) |
 | Mickey Mouse: Mahou no Yakata | 349456 | [349456-mickey-mouse-mahou-no-yakata.json](./349456-mickey-mouse-mahou-no-yakata.json) |
+| Mickey Mouse: Mickey's Magical Adventure | 219096 | [219096-mickey-mouse-mickeys-magical-adventure.json](./219096-mickey-mouse-mickeys-magical-adventure.json) |
 | Mickey no Tokyo Disneyland Daibouken | 42543 | [42543-mickey-no-tokyo-disneyland-daibouken.json](./42543-mickey-no-tokyo-disneyland-daibouken.json) |
 | Mickey to Ooki na Furudokei | 299463 | [299463-mickey-to-ooki-na-furudokei.json](./299463-mickey-to-ooki-na-furudokei.json) |
 | Mickey: Boxing Champ | 349448 | [349448-mickey-boxing-champ.json](./349448-mickey-boxing-champ.json) |
@@ -9018,6 +9021,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother 4 | 300351 | [300351-mother-4.json](./300351-mother-4.json) |
 | Mother Christmas | 394818 | [394818-mother-christmas.json](./394818-mother-christmas.json) |
 | Mother Fucker Galaxy | 254523 | [254523-mother-fucker-galaxy.json](./254523-mother-fucker-galaxy.json) |
+| Mother Goose no Himitsu no Yakata | 218962 | [218962-mother-goose-no-himitsu-no-yakata.json](./218962-mother-goose-no-himitsu-no-yakata.json) |
+| Mother Goose no Himitsu no Yakata: Blue Label | 218963 | [218963-mother-goose-no-himitsu-no-yakata-blue-label.json](./218963-mother-goose-no-himitsu-no-yakata-blue-label.json) |
 | Mother Is Gone | 180843 | [180843-mother-is-gone.json](./180843-mother-is-gone.json) |
 | Mother Machine | 315742 | [315742-mother-machine.json](./315742-mother-machine.json) |
 | Mother May I | 291455 | [291455-mother-may-i.json](./291455-mother-may-i.json) |
