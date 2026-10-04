@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of no Escape 1+2 Bundle | 218464 | [218464-castle-of-no-escape-1-2-bundle.json](./218464-castle-of-no-escape-1-2-bundle.json) |
 | Castle Of Plague | 237090 | [237090-castle-of-plague.json](./237090-castle-of-plague.json) |
 | Castle of Riddles | 13701 | [13701-castle-of-riddles.json](./13701-castle-of-riddles.json) |
+| Castle of Secrets | 188992 | [188992-castle-of-secrets.json](./188992-castle-of-secrets.json) |
 | Castle of Shikigami | 28519 | [28519-castle-of-shikigami.json](./28519-castle-of-shikigami.json) |
 | Castle of Shikigami 2 | 174090 | [174090-castle-of-shikigami-2.json](./174090-castle-of-shikigami-2.json) |
 | Castle of Shikigami 3 | 331315 | [331315-castle-of-shikigami-3.json](./331315-castle-of-shikigami-3.json) |
@@ -2260,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catman: Gimmick Action Game | 161368 | [161368-catman-gimmick-action-game.json](./161368-catman-gimmick-action-game.json) |
 | Catmouth Island | 36077 | [36077-catmouth-island.json](./36077-catmouth-island.json) |
 | CatMxn: Chapter 1 | 196788 | [196788-catmxn-chapter-1.json](./196788-catmxn-chapter-1.json) |
+| CatNab | 188986 | [188986-catnab.json](./188986-catnab.json) |
 | Catnight | 188582 | [188582-catnight.json](./188582-catnight.json) |
 | Catnigma | 376755 | [376755-catnigma.json](./376755-catnigma.json) |
 | Catnip & Coffee | 350529 | [350529-catnip-and-coffee.json](./350529-catnip-and-coffee.json) |
@@ -3579,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Defense War | 380065 | [380065-chicken-defense-war.json](./380065-chicken-defense-war.json) |
 | Chicken Derby | 391882 | [391882-chicken-derby.json](./391882-chicken-derby.json) |
 | Chicken Done | 273374 | [273374-chicken-done.json](./273374-chicken-done.json) |
+| Chicken Empire: Weasel in Shadows | 189027 | [189027-chicken-empire-weasel-in-shadows.json](./189027-chicken-empire-weasel-in-shadows.json) |
 | Chicken Evolution | 377251 | [377251-chicken-evolution.json](./377251-chicken-evolution.json) |
 | Chicken Fall | 202648 | [202648-chicken-fall.json](./202648-chicken-fall.json) |
 | Chicken Farm 2K17 | 75924 | [75924-chicken-farm-2k17.json](./75924-chicken-farm-2k17.json) |
@@ -4919,6 +4922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clarc | 11047 | [11047-clarc.json](./11047-clarc.json) |
 | Clarence Goes to the F%ing Store | 166700 | [166700-clarence-goes-to-the-f-ing-store.json](./166700-clarence-goes-to-the-f-ing-store.json) |
 | Clarence: Thirty Days & Seven Seas | 59506 | [59506-clarence-thirty-days-and-seven-seas.json](./59506-clarence-thirty-days-and-seven-seas.json) |
+| Clarent Saga: Chronicles | 189023 | [189023-clarent-saga-chronicles.json](./189023-clarent-saga-chronicles.json) |
 | Clarent Saga: Mana Chapter 0 | 264767 | [264767-clarent-saga-mana-chapter-0.json](./264767-clarent-saga-mana-chapter-0.json) |
 | Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
 | Clarisse | 56425 | [56425-clarisse.json](./56425-clarisse.json) |
@@ -6788,6 +6792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concert | 247542 | [247542-concert.json](./247542-concert.json) |
 | Concerto Gate | 94709 | [94709-concerto-gate.json](./94709-concerto-gate.json) |
 | Concerto Note | 60053 | [60053-concerto-note.json](./60053-concerto-note.json) |
+| Concerto on White | 189029 | [189029-concerto-on-white.json](./189029-concerto-on-white.json) |
 | Concerto on White: Cajon Story - Pykamia Music Pack Vol.1 | 388966 | [388966-concerto-on-white-cajon-story-pykamia-music-pack-vol-1.json](./388966-concerto-on-white-cajon-story-pykamia-music-pack-vol-1.json) |
 | Concerto on White: Cajon Story - Pykamia Music Pack Vol.2 | 388969 | [388969-concerto-on-white-cajon-story-pykamia-music-pack-vol-2.json](./388969-concerto-on-white-cajon-story-pykamia-music-pack-vol-2.json) |
 | Concerto on White: Cajon Story - Touhou Project Music Pack | 388970 | [388970-concerto-on-white-cajon-story-touhou-project-music-pack.json](./388970-concerto-on-white-cajon-story-touhou-project-music-pack.json) |
@@ -8665,6 +8670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Wheel Rider HD | 213395 | [213395-crazy-wheel-rider-hd.json](./213395-crazy-wheel-rider-hd.json) |
 | Crazy Wheels | 103161 | [103161-crazy-wheels.json](./103161-crazy-wheels.json) |
 | Crazy Wife | 300294 | [300294-crazy-wife.json](./300294-crazy-wife.json) |
+| Crazy World | 189026 | [189026-crazy-world.json](./189026-crazy-world.json) |
 | Crazy World of Caleb | 302946 | [302946-crazy-world-of-caleb.json](./302946-crazy-world-of-caleb.json) |
 | Crazy World of Caleb: Level 1 to 7 | 311190 | [311190-crazy-world-of-caleb-level-1-to-7.json](./311190-crazy-world-of-caleb-level-1-to-7.json) |
 | Crazy Zoo | 202737 | [202737-crazy-zoo.json](./202737-crazy-zoo.json) |
@@ -9552,6 +9558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto Royale | 225730 | [225730-crypto-royale.json](./225730-crypto-royale.json) |
 | Crypto Rush | 338260 | [338260-crypto-rush.json](./338260-crypto-rush.json) |
 | Crypto Trading Simulator | 407374 | [407374-crypto-trading-simulator.json](./407374-crypto-trading-simulator.json) |
+| Crypto Tycoon | 189021 | [189021-crypto-tycoon.json](./189021-crypto-tycoon.json) |
 | Crypto-Fascist | 364561 | [364561-crypto-fascist.json](./364561-crypto-fascist.json) |
 | Crypto-Shots | 221844 | [221844-crypto-shots.json](./221844-crypto-shots.json) |
 | CryptoClash | 265730 | [265730-cryptoclash.json](./265730-cryptoclash.json) |
