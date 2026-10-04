@@ -6257,6 +6257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominus 2 | 106421 | [106421-dominus-2.json](./106421-dominus-2.json) |
 | Dominus Diabolicus | 294764 | [294764-dominus-diabolicus.json](./294764-dominus-diabolicus.json) |
 | Dominus Galaxia | 124744 | [124744-dominus-galaxia.json](./124744-dominus-galaxia.json) |
+| Dominus Galaxia: KS Edition | 176845 | [176845-dominus-galaxia-ks-edition.json](./176845-dominus-galaxia-ks-edition.json) |
 | Dominus Gladiatus | 404343 | [404343-dominus-gladiatus.json](./404343-dominus-gladiatus.json) |
 | Dominus Rage | 199615 | [199615-dominus-rage.json](./199615-dominus-rage.json) |
 | Dominus Solaris | 245993 | [245993-dominus-solaris.json](./245993-dominus-solaris.json) |
