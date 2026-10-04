@@ -3926,6 +3926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo-Calibre | 338927 | [338927-exo-calibre.json](./338927-exo-calibre.json) |
 | Exo-Card Collector | 365869 | [365869-exo-card-collector.json](./365869-exo-card-collector.json) |
 | Exo-Leviathan | 259284 | [259284-exo-leviathan.json](./259284-exo-leviathan.json) |
+| Exo-Ship Saga | 172537 | [172537-exo-ship-saga.json](./172537-exo-ship-saga.json) |
 | Exo-tical | 334866 | [334866-exo-tical.json](./334866-exo-tical.json) |
 | Exo: Arena | 257473 | [257473-exo-arena.json](./257473-exo-arena.json) |
 | ExoColony: Planet Survival | 226715 | [226715-exocolony-planet-survival.json](./226715-exocolony-planet-survival.json) |
