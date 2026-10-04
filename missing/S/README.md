@@ -1831,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Unknown. | 95998 | [95998-scp-unknown.json](./95998-scp-unknown.json) |
 | SCP: Valravn | 280174 | [280174-scp-valravn.json](./280174-scp-valravn.json) |
 | Scrabble | 131524 | [131524-scrabble.json](./131524-scrabble.json) |
+| Scrabble | 199433 | [199433-scrabble.json](./199433-scrabble.json) |
 | Scrabble | 354997 | [354997-scrabble.json](./354997-scrabble.json) |
 | Scrabble | 371873 | [371873-scrabble.json](./371873-scrabble.json) |
 | Scrabble Blast! | 49337 | [49337-scrabble-blast.json](./49337-scrabble-blast.json) |
@@ -3877,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Invasion | 317445 | [317445-shape-invasion.json](./317445-shape-invasion.json) |
 | Shape of Clouds | 279115 | [279115-shape-of-clouds.json](./279115-shape-of-clouds.json) |
 | Shape Palette | 130779 | [130779-shape-palette.json](./130779-shape-palette.json) |
+| Shape Puzzle | 199456 | [199456-shape-puzzle.json](./199456-shape-puzzle.json) |
 | Shape Quiz | 263991 | [263991-shape-quiz.json](./263991-shape-quiz.json) |
 | Shape Shift Shawn: Episode 1 - Tale of the Transmogrified | 171567 | [171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json](./171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json) |
 | Shape Shifter | 323525 | [323525-shape-shifter.json](./323525-shape-shifter.json) |
@@ -7571,6 +7573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMYS: Gem Blocks | 311087 | [311087-smys-gem-blocks.json](./311087-smys-gem-blocks.json) |
 | SMYS: Retro Blocks | 311090 | [311090-smys-retro-blocks.json](./311090-smys-retro-blocks.json) |
 | SMYS: Retro Blocks | 311091 | [311091-smys-retro-blocks.json](./311091-smys-retro-blocks.json) |
+| SMYS: Show Me Your Stairs | 199437 | [199437-smys-show-me-your-stairs.json](./199437-smys-show-me-your-stairs.json) |
 | Snaaker & Friends | 169393 | [169393-snaaker-and-friends.json](./169393-snaaker-and-friends.json) |
 | Snaccoon | 214496 | [214496-snaccoon.json](./214496-snaccoon.json) |
 | Snack and Quack | 366221 | [366221-snack-and-quack.json](./366221-snack-and-quack.json) |
@@ -8122,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Much Stuff: Collector's Edition | 251596 | [251596-so-much-stuff-collectors-edition.json](./251596-so-much-stuff-collectors-edition.json) |
 | So Obscure; | 178534 | [178534-so-obscure.json](./178534-so-obscure.json) |
 | So Quirky! Puzzle Escape Game | 399789 | [399789-so-quirky-puzzle-escape-game.json](./399789-so-quirky-puzzle-escape-game.json) |
+| So to Speak | 199463 | [199463-so-to-speak.json](./199463-so-to-speak.json) |
 | So Who's Dr. Rabbit? | 291974 | [291974-so-whos-dr-rabbit.json](./291974-so-whos-dr-rabbit.json) |
 | So You Wanna Be A Redneck | 362972 | [362972-so-you-wanna-be-a-redneck.json](./362972-so-you-wanna-be-a-redneck.json) |
 | SO-108 | 232945 | [232945-so-108.json](./232945-so-108.json) |
