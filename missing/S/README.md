@@ -3419,6 +3419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGS Korean War | 202653 | [202653-sgs-korean-war.json](./202653-sgs-korean-war.json) |
 | SGS NATO's Nightmare | 212166 | [212166-sgs-natos-nightmare.json](./212166-sgs-natos-nightmare.json) |
 | SGS Pacific D-Day | 197415 | [197415-sgs-pacific-d-day.json](./197415-sgs-pacific-d-day.json) |
+| SGS Spain at War | 197187 | [197187-sgs-spain-at-war.json](./197187-sgs-spain-at-war.json) |
 | SGS Taipings | 230923 | [230923-sgs-taipings.json](./230923-sgs-taipings.json) |
 | SGS We The People | 388972 | [388972-sgs-we-the-people.json](./388972-sgs-we-the-people.json) |
 | Sh*thead | 292748 | [292748-sh-thead.json](./292748-sh-thead.json) |
@@ -7538,6 +7539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smooth Criminal | 91913 | [91913-smooth-criminal.json](./91913-smooth-criminal.json) |
 | Smooth Criminals | 51526 | [51526-smooth-criminals.json](./51526-smooth-criminals.json) |
 | Smooth Mover | 120956 | [120956-smooth-mover.json](./120956-smooth-mover.json) |
+| Smooth Operators 2 | 197209 | [197209-smooth-operators-2.json](./197209-smooth-operators-2.json) |
 | Smoothie Galaxy | 182518 | [182518-smoothie-galaxy.json](./182518-smoothie-galaxy.json) |
 | Smoothie Swipe | 248646 | [248646-smoothie-swipe.json](./248646-smoothie-swipe.json) |
 | Smoots Crazy Wave | 356841 | [356841-smoots-crazy-wave.json](./356841-smoots-crazy-wave.json) |
@@ -9776,6 +9778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulscape | 120764 | [120764-soulscape.json](./120764-soulscape.json) |
 | Soulscape | 300823 | [300823-soulscape.json](./300823-soulscape.json) |
 | Soulscape | 377565 | [377565-soulscape.json](./377565-soulscape.json) |
+| SoulShards Arena | 197223 | [197223-soulshards-arena.json](./197223-soulshards-arena.json) |
 | SoulSide | 190703 | [190703-soulside.json](./190703-soulside.json) |
 | Soulsland | 180014 | [180014-soulsland.json](./180014-soulsland.json) |
 | Soulsland 3: Spider Invasion | 255273 | [255273-soulsland-3-spider-invasion.json](./255273-soulsland-3-spider-invasion.json) |
@@ -12036,6 +12039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squadron II | 116444 | [116444-squadron-ii.json](./116444-squadron-ii.json) |
 | Squadron: Sky Guardians | 51420 | [51420-squadron-sky-guardians.json](./51420-squadron-sky-guardians.json) |
 | Squally | 111118 | [111118-squally.json](./111118-squally.json) |
+| Squamations | 197219 | [197219-squamations.json](./197219-squamations.json) |
 | Squarcat | 124056 | [124056-squarcat.json](./124056-squarcat.json) |
 | Square | 195626 | [195626-square.json](./195626-square.json) |
 | Square | 208591 | [208591-square.json](./208591-square.json) |
@@ -16211,6 +16215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Gussun Oyoyo 2 | 38385 | [38385-super-gussun-oyoyo-2.json](./38385-super-gussun-oyoyo-2.json) |
 | Super Hammer Bros. | 381758 | [381758-super-hammer-bros.json](./381758-super-hammer-bros.json) |
 | Super Hamster Ball | 227869 | [227869-super-hamster-ball.json](./227869-super-hamster-ball.json) |
+| Super Hamster Havoc | 197197 | [197197-super-hamster-havoc.json](./197197-super-hamster-havoc.json) |
 | Super Happi Quest 3 | 299733 | [299733-super-happi-quest-3.json](./299733-super-happi-quest-3.json) |
 | Super Hard Game | 360580 | [360580-super-hard-game.json](./360580-super-hard-game.json) |
 | Super Hardcore | 50749 | [50749-super-hardcore.json](./50749-super-hardcore.json) |
@@ -18818,6 +18823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthwave Driver | 344387 | [344387-synthwave-driver.json](./344387-synthwave-driver.json) |
 | Synthwave Glider | 224604 | [224604-synthwave-glider.json](./224604-synthwave-glider.json) |
 | Synthwave Hop | 172198 | [172198-synthwave-hop.json](./172198-synthwave-hop.json) |
+| Synthwave Racers | 197218 | [197218-synthwave-racers.json](./197218-synthwave-racers.json) |
 | Synthwave Runner | 277519 | [277519-synthwave-runner.json](./277519-synthwave-runner.json) |
 | Synzzball | 123499 | [123499-synzzball.json](./123499-synzzball.json) |
 | Syobon Action 2 HD | 365136 | [365136-syobon-action-2-hd.json](./365136-syobon-action-2-hd.json) |
