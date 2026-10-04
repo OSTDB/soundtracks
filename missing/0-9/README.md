@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Hours to Refund | 382985 | [382985-2-hours-to-refund.json](./382985-2-hours-to-refund.json) |
 | 2 in 1 Collection: Culture of Asia + The Mystery of Pirates Treasure | 93970 | [93970-2-in-1-collection-culture-of-asia-the-mystery-of-pirates-treasure.json](./93970-2-in-1-collection-culture-of-asia-the-mystery-of-pirates-treasure.json) |
 | 2 in 1 I Asterix & Obelix: Bash Them All! + Asterix & Obelix XXL | 82102 | [82102-2-in-1-i-asterix-and-obelix-bash-them-all-asterix-and-obelix-xxl.json](./82102-2-in-1-i-asterix-and-obelix-bash-them-all-asterix-and-obelix-xxl.json) |
+| 2 in 1 Pack: Super Bubsy/Lollypop | 182328 | [182328-2-in-1-pack-super-bubsy-lollypop.json](./182328-2-in-1-pack-super-bubsy-lollypop.json) |
 | 2 in 1 Workout | 232565 | [232565-2-in-1-workout.json](./232565-2-in-1-workout.json) |
 | 2 in 1: Donkey Kong 4 + The Jungle Book 2 | 241453 | [241453-2-in-1-donkey-kong-4-the-jungle-book-2.json](./241453-2-in-1-donkey-kong-4-the-jungle-book-2.json) |
 | 2 in 1: Hot Wheels Stunt Track Challenge & Hot Wheels World Race | 84193 | [84193-2-in-1-hot-wheels-stunt-track-challenge-and-hot-wheels-world-race.json](./84193-2-in-1-hot-wheels-stunt-track-challenge-and-hot-wheels-world-race.json) |
