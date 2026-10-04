@@ -1985,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heirs to the Throne | 69893 | [69893-heirs-to-the-throne.json](./69893-heirs-to-the-throne.json) |
 | Heise Biji | 330272 | [330272-heise-biji.json](./330272-heise-biji.json) |
 | Heisei Kyouiku Iinkai Jr. Mezase Yuutousei | 303758 | [303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json](./303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json) |
+| Heisei Pistol Show | 176864 | [176864-heisei-pistol-show.json](./176864-heisei-pistol-show.json) |
 | Heisei Tensai Bakabon | 249763 | [249763-heisei-tensai-bakabon.json](./249763-heisei-tensai-bakabon.json) |
 | Heisei Tensai Bakabon Minna de Family Resturant ni Iku no da! | 249764 | [249764-heisei-tensai-bakabon-minna-de-family-resturant-ni-iku-no-da.json](./249764-heisei-tensai-bakabon-minna-de-family-resturant-ni-iku-no-da.json) |
 | Heisen-Bro Hustler | 419898 | [419898-heisen-bro-hustler.json](./419898-heisen-bro-hustler.json) |
@@ -4708,6 +4709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloRun | 361794 | [361794-holorun.json](./361794-holorun.json) |
 | Holos lisu | 279752 | [279752-holos-lisu.json](./279752-holos-lisu.json) |
 | Holosaga: Invasion of the HoloX | 298148 | [298148-holosaga-invasion-of-the-holox.json](./298148-holosaga-invasion-of-the-holox.json) |
+| Holoscope: Another Day Another Data | 176773 | [176773-holoscope-another-day-another-data.json](./176773-holoscope-another-day-another-data.json) |
 | HoloSona5 | 340479 | [340479-holosona5.json](./340479-holosona5.json) |
 | Holosseum | 40347 | [40347-holosseum.json](./40347-holosseum.json) |
 | HoloTrials: Case Covered | 409620 | [409620-holotrials-case-covered.json](./409620-holotrials-case-covered.json) |
