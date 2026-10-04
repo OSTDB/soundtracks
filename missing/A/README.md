@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Boring Place: The Road 2 Head | 321426 | [321426-a-boring-place-the-road-2-head.json](./321426-a-boring-place-the-road-2-head.json) |
 | A Box Full of Joy | 356680 | [356680-a-box-full-of-joy.json](./356680-a-box-full-of-joy.json) |
 | A Boy And His Barrel | 295931 | [295931-a-boy-and-his-barrel.json](./295931-a-boy-and-his-barrel.json) |
+| A Boy and His Blob: Retro Collection | 203773 | [203773-a-boy-and-his-blob-retro-collection.json](./203773-a-boy-and-his-blob-retro-collection.json) |
 | A Boy and His Blob: Trouble on Blobolonia | 2109 | [2109-a-boy-and-his-blob-trouble-on-blobolonia.json](./2109-a-boy-and-his-blob-trouble-on-blobolonia.json) |
 | A Brand New Camera | 279224 | [279224-a-brand-new-camera.json](./279224-a-brand-new-camera.json) |
 | A Brat's Journey: A Rose Playing Game | 372579 | [372579-a-brats-journey-a-rose-playing-game.json](./372579-a-brats-journey-a-rose-playing-game.json) |
@@ -1112,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 7: Skies Unknown - Original Aircraft Series | 138246 | [138246-ace-combat-7-skies-unknown-original-aircraft-series.json](./138246-ace-combat-7-skies-unknown-original-aircraft-series.json) |
 | Ace Combat 7: Skies Unknown - Original Aircraft Series Set | 324422 | [324422-ace-combat-7-skies-unknown-original-aircraft-series-set.json](./324422-ace-combat-7-skies-unknown-original-aircraft-series-set.json) |
 | Ace Combat 7: Skies Unknown - Premium Edition | 139975 | [139975-ace-combat-7-skies-unknown-premium-edition.json](./139975-ace-combat-7-skies-unknown-premium-edition.json) |
+| Ace Combat 7: Skies Unknown - Top Gun: Maverick Aircraft Set | 203860 | [203860-ace-combat-7-skies-unknown-top-gun-maverick-aircraft-set.json](./203860-ace-combat-7-skies-unknown-top-gun-maverick-aircraft-set.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Edition | 204084 | [204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json](./204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json) |
 | Ace Combat 7: Skies Unknown - Ultimate Edition | 282547 | [282547-ace-combat-7-skies-unknown-ultimate-edition.json](./282547-ace-combat-7-skies-unknown-ultimate-edition.json) |
 | Ace Combat 8: Wings of Theve | 381247 | [381247-ace-combat-8-wings-of-theve.json](./381247-ace-combat-8-wings-of-theve.json) |
@@ -2280,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Down Screen | 283888 | [283888-aim-down-screen.json](./283888-aim-down-screen.json) |
 | Aim for the Top! Gunbuster Vol. 1 | 57928 | [57928-aim-for-the-top-gunbuster-vol-1.json](./57928-aim-for-the-top-gunbuster-vol-1.json) |
 | Aim for the Top! Gunbuster vol. 2 | 57927 | [57927-aim-for-the-top-gunbuster-vol-2.json](./57927-aim-for-the-top-gunbuster-vol-2.json) |
+| Aim God | 203784 | [203784-aim-god.json](./203784-aim-god.json) |
 | Aim in Space | 274513 | [274513-aim-in-space.json](./274513-aim-in-space.json) |
 | Aim Lab Mobile | 226768 | [226768-aim-lab-mobile.json](./226768-aim-lab-mobile.json) |
 | Aim Master H | 169787 | [169787-aim-master-h.json](./169787-aim-master-h.json) |
@@ -2789,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albert | 185094 | [185094-albert.json](./185094-albert.json) |
 | Albert and Camille's Little Lille Adventure | 192708 | [192708-albert-and-camilles-little-lille-adventure.json](./192708-albert-and-camilles-little-lille-adventure.json) |
 | Albert and Otto: The Adventure Begins | 13223 | [13223-albert-and-otto-the-adventure-begins.json](./13223-albert-and-otto-the-adventure-begins.json) |
+| Albert and Puzzle Mansion | 203788 | [203788-albert-and-puzzle-mansion.json](./203788-albert-and-puzzle-mansion.json) |
 | Albert Mort: Desert Heat | 51510 | [51510-albert-mort-desert-heat.json](./51510-albert-mort-desert-heat.json) |
 | Albert Odyssey | 15889 | [15889-albert-odyssey.json](./15889-albert-odyssey.json) |
 | Albert Odyssey 2: Jashin no Taidou | 38346 | [38346-albert-odyssey-2-jashin-no-taidou.json](./38346-albert-odyssey-2-jashin-no-taidou.json) |
@@ -3644,6 +3648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Man | 100221 | [100221-alpha-man.json](./100221-alpha-man.json) |
 | Alpha Mission | 273028 | [273028-alpha-mission.json](./273028-alpha-mission.json) |
 | Alpha Mission | 8911 | [8911-alpha-mission.json](./8911-alpha-mission.json) |
+| Alpha Pairs | 203854 | [203854-alpha-pairs.json](./203854-alpha-pairs.json) |
 | Alpha Point | 361730 | [361730-alpha-point.json](./361730-alpha-point.json) |
 | Alpha Response | 345614 | [345614-alpha-response.json](./345614-alpha-response.json) |
 | Alpha Roid | 47558 | [47558-alpha-roid.json](./47558-alpha-roid.json) |
