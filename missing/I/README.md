@@ -3505,6 +3505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itchana Tchones Zombie Terror | 285139 | [285139-itchana-tchones-zombie-terror.json](./285139-itchana-tchones-zombie-terror.json) |
 | Item Frenzy | 328516 | [328516-item-frenzy.json](./328516-item-frenzy.json) |
 | Item Shop Simulator | 406226 | [406226-item-shop-simulator.json](./406226-item-shop-simulator.json) |
+| Item Synthesis and Dungeon Exploration | 196124 | [196124-item-synthesis-and-dungeon-exploration.json](./196124-item-synthesis-and-dungeon-exploration.json) |
 | Iter | 398493 | [398493-iter.json](./398493-iter.json) |
 | Iter-8 | 316071 | [316071-iter-8.json](./316071-iter-8.json) |
 | Iteration Factor | 154573 | [154573-iteration-factor.json](./154573-iteration-factor.json) |
