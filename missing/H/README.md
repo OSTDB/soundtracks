@@ -2293,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Cutie World | 78586 | [78586-hello-kitty-cutie-world.json](./78586-hello-kitty-cutie-world.json) |
 | Hello Kitty Detective Games | 279608 | [279608-hello-kitty-detective-games.json](./279608-hello-kitty-detective-games.json) |
 | Hello Kitty Discovering The World | 279610 | [279610-hello-kitty-discovering-the-world.json](./279610-hello-kitty-discovering-the-world.json) |
+| Hello Kitty Dream Village | 172536 | [172536-hello-kitty-dream-village.json](./172536-hello-kitty-dream-village.json) |
 | Hello Kitty Fairy Tale Samegame | 77342 | [77342-hello-kitty-fairy-tale-samegame.json](./77342-hello-kitty-fairy-tale-samegame.json) |
 | Hello Kitty Food Town | 249481 | [249481-hello-kitty-food-town.json](./249481-hello-kitty-food-town.json) |
 | Hello Kitty Friends | 186743 | [186743-hello-kitty-friends.json](./186743-hello-kitty-friends.json) |
@@ -4875,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeostasis | 389444 | [389444-homeostasis.json](./389444-homeostasis.json) |
 | Homepage | 347702 | [347702-homepage.json](./347702-homepage.json) |
 | Homer the Flanders Killer 6 | 268487 | [268487-homer-the-flanders-killer-6.json](./268487-homer-the-flanders-killer-6.json) |
+| Homerun | 172462 | [172462-homerun.json](./172462-homerun.json) |
 | Homerun Bun | 209947 | [209947-homerun-bun.json](./209947-homerun-bun.json) |
 | Homerun Clash 2: Legends Derby | 312584 | [312584-homerun-clash-2-legends-derby.json](./312584-homerun-clash-2-legends-derby.json) |
 | Homerun Hitters | 66766 | [66766-homerun-hitters.json](./66766-homerun-hitters.json) |
