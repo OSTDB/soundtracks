@@ -952,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords Awakening | 103416 | [103416-warlords-awakening.json](./103416-warlords-awakening.json) |
 | Warlords Battle Simulator | 267020 | [267020-warlords-battle-simulator.json](./267020-warlords-battle-simulator.json) |
 | Warlords Battlecry II | 9833 | [9833-warlords-battlecry-ii.json](./9833-warlords-battlecry-ii.json) |
+| Warlords Classic Strategy | 197718 | [197718-warlords-classic-strategy.json](./197718-warlords-classic-strategy.json) |
 | Warlords II | 50357 | [50357-warlords-ii.json](./50357-warlords-ii.json) |
 | Warlords III: Frontier | 401822 | [401822-warlords-iii-frontier.json](./401822-warlords-iii-frontier.json) |
 | Warlords of Aternum | 107181 | [107181-warlords-of-aternum.json](./107181-warlords-of-aternum.json) |
