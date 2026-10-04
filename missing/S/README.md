@@ -1913,6 +1913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screaming Eagles | 54511 | [54511-screaming-eagles.json](./54511-screaming-eagles.json) |
 | Screaming in the Basement | 329180 | [329180-screaming-in-the-basement.json](./329180-screaming-in-the-basement.json) |
 | Screaming Savage Blood Death | 311100 | [311100-screaming-savage-blood-death.json](./311100-screaming-savage-blood-death.json) |
+| Screaming Skies | 201070 | [201070-screaming-skies.json](./201070-screaming-skies.json) |
 | Scree | 236371 | [236371-scree.json](./236371-scree.json) |
 | Screen | 300716 | [300716-screen.json](./300716-screen.json) |
 | Screen Blaster | 101548 | [101548-screen-blaster.json](./101548-screen-blaster.json) |
@@ -5080,6 +5081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shukusai no Utahime: Kimi to Tsumugu Asu he no Uta | 194605 | [194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json](./194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json) |
 | Shukusei no Girlfriend AllStar | 305323 | [305323-shukusei-no-girlfriend-allstar.json](./305323-shukusei-no-girlfriend-allstar.json) |
 | Shultz's Treasure | 292839 | [292839-shultzs-treasure.json](./292839-shultzs-treasure.json) |
+| Shump Mania | 201084 | [201084-shump-mania.json](./201084-shump-mania.json) |
 | Shunkyoku no Tyrhhia: What a Beautiful Dawn | 144958 | [144958-shunkyoku-no-tyrhhia-what-a-beautiful-dawn.json](./144958-shunkyoku-no-tyrhhia-what-a-beautiful-dawn.json) |
 | Shuntle | 319141 | [319141-shuntle.json](./319141-shuntle.json) |
 | Shuppatsu! Doubutsu Tankentai | 63958 | [63958-shuppatsu-doubutsu-tankentai.json](./63958-shuppatsu-doubutsu-tankentai.json) |
@@ -7458,6 +7460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile Simulation | 303078 | [303078-smile-simulation.json](./303078-smile-simulation.json) |
 | Smile Town | 338191 | [338191-smile-town.json](./338191-smile-town.json) |
 | Smile Town | 397229 | [397229-smile-town.json](./397229-smile-town.json) |
+| Smilemo | 201096 | [201096-smilemo.json](./201096-smilemo.json) |
 | Smiles Incorporated | 176285 | [176285-smiles-incorporated.json](./176285-smiles-incorporated.json) |
 | SmileTris 2 | 70967 | [70967-smiletris-2.json](./70967-smiletris-2.json) |
 | SmileTris 3 | 70329 | [70329-smiletris-3.json](./70329-smiletris-3.json) |
@@ -8744,6 +8747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somnium Space VR | 137636 | [137636-somnium-space-vr.json](./137636-somnium-space-vr.json) |
 | Somnium Tenebris | 301421 | [301421-somnium-tenebris.json](./301421-somnium-tenebris.json) |
 | Somnography | 172769 | [172769-somnography.json](./172769-somnography.json) |
+| Somnokid | 201114 | [201114-somnokid.json](./201114-somnokid.json) |
 | Somnus: Nonogram | 312328 | [312328-somnus-nonogram.json](./312328-somnus-nonogram.json) |
 | Somos | 110494 | [110494-somos.json](./110494-somos.json) |
 | Son of a Glitch | 340202 | [340202-son-of-a-glitch.json](./340202-son-of-a-glitch.json) |
@@ -9170,6 +9174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Robo Blast 2: Official Level Design Contest 2021- Round 2 | 287668 | [287668-sonic-robo-blast-2-official-level-design-contest-2021-round-2.json](./287668-sonic-robo-blast-2-official-level-design-contest-2021-round-2.json) |
 | Sonic Robo Blast 2: Official Level Design Contest 2022 - Round 1 | 287658 | [287658-sonic-robo-blast-2-official-level-design-contest-2022-round-1.json](./287658-sonic-robo-blast-2-official-level-design-contest-2022-round-1.json) |
 | Sonic Robo Blast 2: Top Down | 282704 | [282704-sonic-robo-blast-2-top-down.json](./282704-sonic-robo-blast-2-top-down.json) |
+| Sonic Robo Blast! | 201071 | [201071-sonic-robo-blast.json](./201071-sonic-robo-blast.json) |
 | Sonic Robo Christmas Blast | 280224 | [280224-sonic-robo-christmas-blast.json](./280224-sonic-robo-christmas-blast.json) |
 | Sonic Roll-a-Ball | 326162 | [326162-sonic-roll-a-ball.json](./326162-sonic-roll-a-ball.json) |
 | Sonic Roller 1 & 2 Deluxe | 330550 | [330550-sonic-roller-1-and-2-deluxe.json](./330550-sonic-roller-1-and-2-deluxe.json) |
@@ -10040,6 +10045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dezinsector | 263046 | [263046-space-dezinsector.json](./263046-space-dezinsector.json) |
 | Space Digger | 263743 | [263743-space-digger.json](./263743-space-digger.json) |
 | Space Dodger 2019: Arcade Wars | 249730 | [249730-space-dodger-2019-arcade-wars.json](./249730-space-dodger-2019-arcade-wars.json) |
+| Space Dog Run | 201093 | [201093-space-dog-run.json](./201093-space-dog-run.json) |
 | Space Dogo | 264628 | [264628-space-dogo.json](./264628-space-dogo.json) |
 | Space Dragons | 188618 | [188618-space-dragons.json](./188618-space-dragons.json) |
 | Space Dream | 41962 | [41962-space-dream.json](./41962-space-dream.json) |
@@ -10370,6 +10376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shot Game | 346047 | [346047-space-shot-game.json](./346047-space-shot-game.json) |
 | Space Show Edition 17 | 290709 | [290709-space-show-edition-17.json](./290709-space-show-edition-17.json) |
 | Space Shrooms RollPlay | 219588 | [219588-space-shrooms-rollplay.json](./219588-space-shrooms-rollplay.json) |
+| Space Shuttle | 201089 | [201089-space-shuttle.json](./201089-space-shuttle.json) |
 | Space Shuttle | 346100 | [346100-space-shuttle.json](./346100-space-shuttle.json) |
 | Space Shuttle 3-in-1 | 385809 | [385809-space-shuttle-3-in-1.json](./385809-space-shuttle-3-in-1.json) |
 | Space Shuttle Landing | 90779 | [90779-space-shuttle-landing.json](./90779-space-shuttle-landing.json) |
