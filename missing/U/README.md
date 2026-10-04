@@ -886,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Sea: Swim | 233740 | [233740-under-the-sea-swim.json](./233740-under-the-sea-swim.json) |
 | Under the Sky World: Another | 234220 | [234220-under-the-sky-world-another.json](./234220-under-the-sky-world-another.json) |
 | Under the Snow | 258628 | [258628-under-the-snow.json](./258628-under-the-snow.json) |
+| Under the Stars | 207186 | [207186-under-the-stars.json](./207186-under-the-stars.json) |
 | Under the Stars | 252224 | [252224-under-the-stars.json](./252224-under-the-stars.json) |
 | Under the Streetlights of the Reiche | 342804 | [342804-under-the-streetlights-of-the-reiche.json](./342804-under-the-streetlights-of-the-reiche.json) |
 | Under The Surface | 343457 | [343457-under-the-surface.json](./343457-under-the-surface.json) |
