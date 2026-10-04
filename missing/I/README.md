@@ -2691,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Travel Package | 223552 | [223552-interstellar-travel-package.json](./223552-interstellar-travel-package.json) |
 | Intertwined | 177921 | [177921-intertwined.json](./177921-intertwined.json) |
 | Intertwined | 397231 | [397231-intertwined.json](./397231-intertwined.json) |
+| Intertwined Fate with a Cat Demon | 202206 | [202206-intertwined-fate-with-a-cat-demon.json](./202206-intertwined-fate-with-a-cat-demon.json) |
 | Interview | 80233 | [80233-interview.json](./80233-interview.json) |
 | Interweaver | 296682 | [296682-interweaver.json](./296682-interweaver.json) |
 | Interworlds Academy | 117080 | [117080-interworlds-academy.json](./117080-interworlds-academy.json) |
