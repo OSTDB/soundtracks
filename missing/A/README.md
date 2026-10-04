@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bug's Life: Active Play | 311677 | [311677-a-bugs-life-active-play.json](./311677-a-bugs-life-active-play.json) |
 | A Building Full of Cats 2 | 301592 | [301592-a-building-full-of-cats-2.json](./301592-a-building-full-of-cats-2.json) |
 | A Bumpy Ride | 312660 | [312660-a-bumpy-ride.json](./312660-a-bumpy-ride.json) |
+| A Bunch of you in a Crowded Room | 177363 | [177363-a-bunch-of-you-in-a-crowded-room.json](./177363-a-bunch-of-you-in-a-crowded-room.json) |
 | A Business Tycoon | 68025 | [68025-a-business-tycoon.json](./68025-a-business-tycoon.json) |
 | A Butterfly | 266400 | [266400-a-butterfly.json](./266400-a-butterfly.json) |
 | A Butterfly | 327294 | [327294-a-butterfly.json](./327294-a-butterfly.json) |
@@ -96,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Coloring Break | 326233 | [326233-a-coloring-break.json](./326233-a-coloring-break.json) |
 | A Coloring Break: Expansion pack 6 | 357772 | [357772-a-coloring-break-expansion-pack-6.json](./357772-a-coloring-break-expansion-pack-6.json) |
 | A Coloring Break: Expansion pack 8 | 357774 | [357774-a-coloring-break-expansion-pack-8.json](./357774-a-coloring-break-expansion-pack-8.json) |
+| A Colour Like No Other | 177351 | [177351-a-colour-like-no-other.json](./177351-a-colour-like-no-other.json) |
 | A Comfy Place | 342271 | [342271-a-comfy-place.json](./342271-a-comfy-place.json) |
 | A Compendium of Ghosts | 102155 | [102155-a-compendium-of-ghosts.json](./102155-a-compendium-of-ghosts.json) |
 | A Completely Fictional Story About a City Inside a Whale | 253992 | [253992-a-completely-fictional-story-about-a-city-inside-a-whale.json](./253992-a-completely-fictional-story-about-a-city-inside-a-whale.json) |
@@ -4616,6 +4618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Androsystem Idle | 303145 | [303145-androsystem-idle.json](./303145-androsystem-idle.json) |
 | Andy Blast vs. The Forces of Evil | 291772 | [291772-andy-blast-vs-the-forces-of-evil.json](./291772-andy-blast-vs-the-forces-of-evil.json) |
 | Andy's Adventure Game | 316760 | [316760-andys-adventure-game.json](./316760-andys-adventure-game.json) |
+| Andy's Apple Farm | 177383 | [177383-andys-apple-farm.json](./177383-andys-apple-farm.json) |
 | Andy's Apple Farm: Christmas Special | 193505 | [193505-andys-apple-farm-christmas-special.json](./193505-andys-apple-farm-christmas-special.json) |
 | AnEarth Fantasy Stories: The First Volume | 45441 | [45441-anearth-fantasy-stories-the-first-volume.json](./45441-anearth-fantasy-stories-the-first-volume.json) |
 | Anemoi | 276736 | [276736-anemoi.json](./276736-anemoi.json) |
@@ -7213,6 +7216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artemis Cosmos | 254019 | [254019-artemis-cosmos.json](./254019-artemis-cosmos.json) |
 | Artemis Lutea: District Defender | 318766 | [318766-artemis-lutea-district-defender.json](./318766-artemis-lutea-district-defender.json) |
 | Artemis: Book One | 239288 | [239288-artemis-book-one.json](./239288-artemis-book-one.json) |
+| Artemis' Minesweeper | 177378 | [177378-artemis-minesweeper.json](./177378-artemis-minesweeper.json) |
 | Artemishea | 150617 | [150617-artemishea.json](./150617-artemishea.json) |
 | Artery Gear: Fusion | 152111 | [152111-artery-gear-fusion.json](./152111-artery-gear-fusion.json) |
 | Arthas: The Game | 238581 | [238581-arthas-the-game.json](./238581-arthas-the-game.json) |
