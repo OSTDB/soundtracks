@@ -2305,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlegun | 52276 | [52276-battlegun.json](./52276-battlegun.json) |
 | Battlehawks 1942 | 178 | [178-battlehawks-1942.json](./178-battlehawks-1942.json) |
 | Battleheart 2 | 104236 | [104236-battleheart-2.json](./104236-battleheart-2.json) |
+| Battleheart Legacy+ | 224991 | [224991-battleheart-legacy.json](./224991-battleheart-legacy.json) |
 | BattleHeights | 327220 | [327220-battleheights.json](./327220-battleheights.json) |
 | Battlejack | 55074 | [55074-battlejack.json](./55074-battlejack.json) |
 | Battlejack: Blackjack RPG | 91992 | [91992-battlejack-blackjack-rpg.json](./91992-battlejack-blackjack-rpg.json) |
