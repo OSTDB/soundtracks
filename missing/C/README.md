@@ -1855,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: The Adventure DX | 280448 | [280448-castlevania-the-adventure-dx.json](./280448-castlevania-the-adventure-dx.json) |
 | Castlevania: The Adventure ReBirth | 1146 | [1146-castlevania-the-adventure-rebirth.json](./1146-castlevania-the-adventure-rebirth.json) |
 | Castlevania: The Holy Relics | 127263 | [127263-castlevania-the-holy-relics.json](./127263-castlevania-the-holy-relics.json) |
+| Castlevania: The Last Tear | 222346 | [222346-castlevania-the-last-tear.json](./222346-castlevania-the-last-tear.json) |
 | Castlevania: The Seal Of The Curse X | 317630 | [317630-castlevania-the-seal-of-the-curse-x.json](./317630-castlevania-the-seal-of-the-curse-x.json) |
 | CastleVille Legends | 38906 | [38906-castleville-legends.json](./38906-castleville-legends.json) |
 | Castlewatch | 248006 | [248006-castlewatch.json](./248006-castlewatch.json) |
@@ -3462,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Akuma's Episode 1: Invasion! | 300807 | [300807-chibi-akumas-episode-1-invasion.json](./300807-chibi-akumas-episode-1-invasion.json) |
 | Chibi Charger | 338562 | [338562-chibi-charger.json](./338562-chibi-charger.json) |
 | Chibi Devi! | 222291 | [222291-chibi-devi.json](./222291-chibi-devi.json) |
+| Chibi Devi! 2: Mahou no Yume Ehon | 222340 | [222340-chibi-devi-2-mahou-no-yume-ehon.json](./222340-chibi-devi-2-mahou-no-yume-ehon.json) |
 | Chibi Escape | 301285 | [301285-chibi-escape.json](./301285-chibi-escape.json) |
 | Chibi Fighters 2.0 | 130375 | [130375-chibi-fighters-2-0.json](./130375-chibi-fighters-2-0.json) |
 | Chibi Horror: The School | 156039 | [156039-chibi-horror-the-school.json](./156039-chibi-horror-the-school.json) |
@@ -3580,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickens on the Road | 143072 | [143072-chickens-on-the-road.json](./143072-chickens-on-the-road.json) |
 | Chickens VS Zombies | 299414 | [299414-chickens-vs-zombies.json](./299414-chickens-vs-zombies.json) |
 | Chickens. Chickens? Chickens! | 417412 | [417412-chickens-chickens-chickens.json](./417412-chickens-chickens-chickens.json) |
+| Chickip Dancers: Nori-nori Dance de Kokoro mo Odoru | 222365 | [222365-chickip-dancers-nori-nori-dance-de-kokoro-mo-odoru.json](./222365-chickip-dancers-nori-nori-dance-de-kokoro-mo-odoru.json) |
 | Chicklet | 365167 | [365167-chicklet.json](./365167-chicklet.json) |
 | Chicktionary | 375202 | [375202-chicktionary.json](./375202-chicktionary.json) |
 | Chicku | 181397 | [181397-chicku.json](./181397-chicku.json) |
@@ -3803,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chivalry: Deadliest Warrior | 10083 | [10083-chivalry-deadliest-warrior.json](./10083-chivalry-deadliest-warrior.json) |
 | Chivalware | 403821 | [403821-chivalware.json](./403821-chivalware.json) |
 | Chiyo | 266815 | [266815-chiyo.json](./266815-chiyo.json) |
+| Chiyokagi | 222356 | [222356-chiyokagi.json](./222356-chiyokagi.json) |
 | Chkn | 34021 | [34021-chkn.json](./34021-chkn.json) |
 | Chloe Puzzle Game | 162247 | [162247-chloe-puzzle-game.json](./162247-chloe-puzzle-game.json) |
 | Chloe's Requiem | 124639 | [124639-chloes-requiem.json](./124639-chloes-requiem.json) |
@@ -3980,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Aniki: Kyuukyoku Muteki Ginga Saikyou Otoko | 95478 | [95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json](./95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json) |
 | Chou Ga Shin Zangard | 246106 | [246106-chou-ga-shin-zangard.json](./246106-chou-ga-shin-zangard.json) |
 | Chou Gekijouban Keroro Gunsou: Gekishin Dragon Warriors de Arimasu! | 69199 | [69199-chou-gekijouban-keroro-gunsou-gekishin-dragon-warriors-de-arimasu.json](./69199-chou-gekijouban-keroro-gunsou-gekishin-dragon-warriors-de-arimasu.json) |
+| Chou Hakai Keikaku kara no Dasshutsu | 222224 | [222224-chou-hakai-keikaku-kara-no-dasshutsu.json](./222224-chou-hakai-keikaku-kara-no-dasshutsu.json) |
 | Chou Hatsumei Boy Kani Pan: Bousou Roboto no Nazo!? | 97335 | [97335-chou-hatsumei-boy-kani-pan-bousou-roboto-no-nazo.json](./97335-chou-hatsumei-boy-kani-pan-bousou-roboto-no-nazo.json) |
 | Chou Hatsumei Boy Kanipan: Hirameki Wonderland | 166597 | [166597-chou-hatsumei-boy-kanipan-hirameki-wonderland.json](./166597-chou-hatsumei-boy-kanipan-hirameki-wonderland.json) |
 | Chou Jikuu Yousai Macross: Ai Oboete Imasuka | 46094 | [46094-chou-jikuu-yousai-macross-ai-oboete-imasuka.json](./46094-chou-jikuu-yousai-macross-ai-oboete-imasuka.json) |
@@ -5834,6 +5839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColdWire | 328000 | [328000-coldwire.json](./328000-coldwire.json) |
 | Coldy Drinkeria | 316077 | [316077-coldy-drinkeria.json](./316077-coldy-drinkeria.json) |
 | Cole's Christmas 2024: GoonQuest | 327419 | [327419-coles-christmas-2024-goonquest.json](./327419-coles-christmas-2024-goonquest.json) |
+| Colecionador Show do Milhão | 222352 | [222352-colecionador-show-do-milhao.json](./222352-colecionador-show-do-milhao.json) |
 | Colette's Sugar Madness | 109765 | [109765-colettes-sugar-madness.json](./109765-colettes-sugar-madness.json) |
 | Colibrium: Zen Colour Matching | 107139 | [107139-colibrium-zen-colour-matching.json](./107139-colibrium-zen-colour-matching.json) |
 | Colin McRae Rally | 7967 | [7967-colin-mcrae-rally.json](./7967-colin-mcrae-rally.json) |
@@ -6198,6 +6204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorizing: Satisfaction | 351225 | [351225-colorizing-satisfaction.json](./351225-colorizing-satisfaction.json) |
 | Colorizing: Sunshine | 389049 | [389049-colorizing-sunshine.json](./389049-colorizing-sunshine.json) |
 | Colorless | 380078 | [380078-colorless.json](./380078-colorless.json) |
+| Colorless Kaina | 222351 | [222351-colorless-kaina.json](./222351-colorless-kaina.json) |
 | Colorless Life | 50525 | [50525-colorless-life.json](./50525-colorless-life.json) |
 | Colorless Life | 50528 | [50528-colorless-life.json](./50528-colorless-life.json) |
 | Colorless Odyssey | 318005 | [318005-colorless-odyssey.json](./318005-colorless-odyssey.json) |
