@@ -4770,6 +4770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot'n'Scroll 3D | 109875 | [109875-shootnscroll-3d.json](./109875-shootnscroll-3d.json) |
 | Shooter Bundle: Ghost Assassin, Hotline, Water Blast, Shadowblade, Yori's Journey | 356823 | [356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json](./356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json) |
 | Shooter Game | 107871 | [107871-shooter-game.json](./107871-shooter-game.json) |
+| Shooter League: Robot Goal | 198312 | [198312-shooter-league-robot-goal.json](./198312-shooter-league-robot-goal.json) |
 | Shooter of the Arcana | 319948 | [319948-shooter-of-the-arcana.json](./319948-shooter-of-the-arcana.json) |
 | Shooter: Space Shot | 72976 | [72976-shooter-space-shot.json](./72976-shooter-space-shot.json) |
 | Shooter95 | 375307 | [375307-shooter95.json](./375307-shooter95.json) |
@@ -7808,6 +7809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snezhnaja Koroleva | 197956 | [197956-snezhnaja-koroleva.json](./197956-snezhnaja-koroleva.json) |
 | Snik | 34795 | [34795-snik.json](./34795-snik.json) |
 | Snip It! | 292247 | [292247-snip-it.json](./292247-snip-it.json) |
+| Snipe Hunt | 198313 | [198313-snipe-hunt.json](./198313-snipe-hunt.json) |
 | Sniper 3D | 311780 | [311780-sniper-3d.json](./311780-sniper-3d.json) |
 | Sniper 3D: Fun FPS Shooting | 87378 | [87378-sniper-3d-fun-fps-shooting.json](./87378-sniper-3d-fun-fps-shooting.json) |
 | Sniper and Spotter Climbing a Tower | 125950 | [125950-sniper-and-spotter-climbing-a-tower.json](./125950-sniper-and-spotter-climbing-a-tower.json) |
@@ -8710,6 +8712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Someday You'll Return | 102890 | [102890-someday-youll-return.json](./102890-someday-youll-return.json) |
 | Someday You'll Return: Director's Cut | 241044 | [241044-someday-youll-return-directors-cut.json](./241044-someday-youll-return-directors-cut.json) |
 | Someone Knocks The Door | 350032 | [350032-someone-knocks-the-door.json](./350032-someone-knocks-the-door.json) |
+| Someone Stole My Lunch! | 198332 | [198332-someone-stole-my-lunch.json](./198332-someone-stole-my-lunch.json) |
 | Someone’s Ghost Photos | 399721 | [399721-someone-s-ghost-photos.json](./399721-someone-s-ghost-photos.json) |
 | Someone's Here | 410921 | [410921-someones-here.json](./410921-someones-here.json) |
 | Someone's in the Kitchen! | 208874 | [208874-someones-in-the-kitchen.json](./208874-someones-in-the-kitchen.json) |
@@ -10133,6 +10136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
 | Space Gate Rush | 259565 | [259565-space-gate-rush.json](./259565-space-gate-rush.json) |
 | Space Gears | 241497 | [241497-space-gears.json](./241497-space-gears.json) |
+| Space Genesis | 198328 | [198328-space-genesis.json](./198328-space-genesis.json) |
 | Space Girls | 68894 | [68894-space-girls.json](./68894-space-girls.json) |
 | Space Girls Band | 293215 | [293215-space-girls-band.json](./293215-space-girls-band.json) |
 | Space Gnomes | 407315 | [407315-space-gnomes.json](./407315-space-gnomes.json) |
@@ -10224,6 +10228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Inversion | 260762 | [260762-space-inversion.json](./260762-space-inversion.json) |
 | Space Inversion 2 HD | 174313 | [174313-space-inversion-2-hd.json](./174313-space-inversion-2-hd.json) |
 | Space Inversion Puzzle | 255720 | [255720-space-inversion-puzzle.json](./255720-space-inversion-puzzle.json) |
+| Space is Hard | 198296 | [198296-space-is-hard.json](./198296-space-is-hard.json) |
 | Space is Key | 243107 | [243107-space-is-key.json](./243107-space-is-key.json) |
 | Space is Key Christmas | 408824 | [408824-space-is-key-christmas.json](./408824-space-is-key-christmas.json) |
 | Space Is Limited | 184374 | [184374-space-is-limited.json](./184374-space-is-limited.json) |
@@ -10925,6 +10930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedboat GP | 66931 | [66931-speedboat-gp.json](./66931-speedboat-gp.json) |
 | Speedboat League | 348411 | [348411-speedboat-league.json](./348411-speedboat-league.json) |
 | Speedboat Racing | 144387 | [144387-speedboat-racing.json](./144387-speedboat-racing.json) |
+| Speedcat | 198290 | [198290-speedcat.json](./198290-speedcat.json) |
 | Speeder | 152934 | [152934-speeder.json](./152934-speeder.json) |
 | Speedin' Shotgun | 263500 | [263500-speedin-shotgun.json](./263500-speedin-shotgun.json) |
 | SpeedingRoad | 158513 | [158513-speedingroad.json](./158513-speedingroad.json) |
@@ -16806,9 +16812,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Eris | 42209 | [42209-super-metroid-eris.json](./42209-super-metroid-eris.json) |
 | Super Metroid: Fear | 255370 | [255370-super-metroid-fear.json](./255370-super-metroid-fear.json) |
 | Super Metroid: GBA Edition | 222919 | [222919-super-metroid-gba-edition.json](./222919-super-metroid-gba-edition.json) |
+| Super Metroid: Ice Metal Uninstall | 198335 | [198335-super-metroid-ice-metal-uninstall.json](./198335-super-metroid-ice-metal-uninstall.json) |
 | Super Metroid: Less Linear Edition | 219087 | [219087-super-metroid-less-linear-edition.json](./219087-super-metroid-less-linear-edition.json) |
 | Super Metroid: Map Rando | 237534 | [237534-super-metroid-map-rando.json](./237534-super-metroid-map-rando.json) |
 | Super Metroid: Opposition | 255372 | [255372-super-metroid-opposition.json](./255372-super-metroid-opposition.json) |
+| Super Metroid: Project Base | 198334 | [198334-super-metroid-project-base.json](./198334-super-metroid-project-base.json) |
 | Super Metroid: Redux | 188575 | [188575-super-metroid-redux.json](./188575-super-metroid-redux.json) |
 | Super Metroid: Rotation | 199009 | [199009-super-metroid-rotation.json](./199009-super-metroid-rotation.json) |
 | Super Metroid: Rumbled | 377737 | [377737-super-metroid-rumbled.json](./377737-super-metroid-rumbled.json) |
@@ -17638,6 +17646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme | 80546 | [80546-supreme.json](./80546-supreme.json) |
 | Supreme Candy: Oudou ni wa Oudoutaru Riyuu ga Arun Desu! | 137107 | [137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json](./137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json) |
 | Supreme Commander 2 | 7201 | [7201-supreme-commander-2.json](./7201-supreme-commander-2.json) |
+| Supreme Duelist Stickman | 198310 | [198310-supreme-duelist-stickman.json](./198310-supreme-duelist-stickman.json) |
 | Supreme Duo | 227269 | [227269-supreme-duo.json](./227269-supreme-duo.json) |
 | Supreme Earth Champion | 73257 | [73257-supreme-earth-champion.json](./73257-supreme-earth-champion.json) |
 | Supreme Fighters: Javan Havan the Drunken Fist | 293865 | [293865-supreme-fighters-javan-havan-the-drunken-fist.json](./293865-supreme-fighters-javan-havan-the-drunken-fist.json) |
