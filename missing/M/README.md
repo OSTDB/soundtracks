@@ -4054,6 +4054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Perfect Blue | 132024 | [132024-mega-man-perfect-blue.json](./132024-mega-man-perfect-blue.json) |
 | Mega Man Powered Up | 12937 | [12937-mega-man-powered-up.json](./12937-mega-man-powered-up.json) |
 | Mega Man Rock | 323771 | [323771-mega-man-rock.json](./323771-mega-man-rock.json) |
+| Mega Man Rock Force | 194382 | [194382-mega-man-rock-force.json](./194382-mega-man-rock-force.json) |
 | Mega Man SNES | 377766 | [377766-mega-man-snes.json](./377766-mega-man-snes.json) |
 | Mega Man Star Force 2: Zerker x Ninja | 1785 | [1785-mega-man-star-force-2-zerker-x-ninja.json](./1785-mega-man-star-force-2-zerker-x-ninja.json) |
 | Mega Man Star Force 3: Black Ace | 1786 | [1786-mega-man-star-force-3-black-ace.json](./1786-mega-man-star-force-3-black-ace.json) |
@@ -6262,6 +6263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Space | 171469 | [171469-mind-space.json](./171469-mind-space.json) |
 | Mind Storm | 308338 | [308338-mind-storm.json](./308338-mind-storm.json) |
 | Mind Switch | 120786 | [120786-mind-switch.json](./120786-mind-switch.json) |
+| Mind Symphony | 194342 | [194342-mind-symphony.json](./194342-mind-symphony.json) |
 | Mind the Abyss | 310175 | [310175-mind-the-abyss.json](./310175-mind-the-abyss.json) |
 | Mind the Pipes! | 234708 | [234708-mind-the-pipes.json](./234708-mind-the-pipes.json) |
 | Mind the Vikings | 81714 | [81714-mind-the-vikings.json](./81714-mind-the-vikings.json) |
