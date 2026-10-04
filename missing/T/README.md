@@ -14922,6 +14922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator 2021: Western Hydraulics Pack | 162352 | [162352-train-simulator-2021-western-hydraulics-pack.json](./162352-train-simulator-2021-western-hydraulics-pack.json) |
 | Train Simulator 2021: Western Maryland Railway Retro Pack | 162395 | [162395-train-simulator-2021-western-maryland-railway-retro-pack.json](./162395-train-simulator-2021-western-maryland-railway-retro-pack.json) |
 | Train Simulator 3: Thameslink BR Class 700/0 EMU | 257017 | [257017-train-simulator-3-thameslink-br-class-700-0-emu.json](./257017-train-simulator-3-thameslink-br-class-700-0-emu.json) |
+| Train Simulator Classic | 198295 | [198295-train-simulator-classic.json](./198295-train-simulator-classic.json) |
 | Train Simulator Classic: BN Wagon Pack 01 | 226264 | [226264-train-simulator-classic-bn-wagon-pack-01.json](./226264-train-simulator-classic-bn-wagon-pack-01.json) |
 | Train Simulator Classic: Boston & Albany - Boston - Springfield Route Add-On | 357395 | [357395-train-simulator-classic-boston-and-albany-boston-springfield-route-add-on.json](./357395-train-simulator-classic-boston-and-albany-boston-springfield-route-add-on.json) |
 | Train Simulator Classic: C-424 | 357392 | [357392-train-simulator-classic-c-424.json](./357392-train-simulator-classic-c-424.json) |
