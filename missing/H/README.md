@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halcyon: The WaveBorn | 259053 | [259053-halcyon-the-waveborn.json](./259053-halcyon-the-waveborn.json) |
 | Haldion | 82913 | [82913-haldion.json](./82913-haldion.json) |
 | Halen: Ballad of the Blade Thief | 134002 | [134002-halen-ballad-of-the-blade-thief.json](./134002-halen-ballad-of-the-blade-thief.json) |
+| Half | 178472 | [178472-half.json](./178472-half.json) |
 | Half + Half | 152230 | [152230-half-half.json](./152230-half-half.json) |
 | Half An Hour | 179990 | [179990-half-an-hour.json](./179990-half-an-hour.json) |
 | Half Away | 322756 | [322756-half-away.json](./322756-half-away.json) |
@@ -6478,6 +6479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyaku Monogatari: Kaidan Romance | 59422 | [59422-hyaku-monogatari-kaidan-romance.json](./59422-hyaku-monogatari-kaidan-romance.json) |
 | Hyakusen no Jou ni Kawatareshi Toki | 301362 | [301362-hyakusen-no-jou-ni-kawatareshi-toki.json](./301362-hyakusen-no-jou-ni-kawatareshi-toki.json) |
 | Hyakusen Renma: Kyousha no Sengoku | 216221 | [216221-hyakusen-renma-kyousha-no-sengoku.json](./216221-hyakusen-renma-kyousha-no-sengoku.json) |
+| Hybrid | 178464 | [178464-hybrid.json](./178464-hybrid.json) |
 | Hybrid | 53164 | [53164-hybrid.json](./53164-hybrid.json) |
 | Hybrid 64 | 375336 | [375336-hybrid-64.json](./375336-hybrid-64.json) |
 | Hybrid Beasts | 53218 | [53218-hybrid-beasts.json](./53218-hybrid-beasts.json) |
