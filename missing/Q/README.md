@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest of Goddess | 277945 | [277945-quest-of-goddess.json](./277945-quest-of-goddess.json) |
 | Quest of Graal | 182930 | [182930-quest-of-graal.json](./182930-quest-of-graal.json) |
 | Quest of Graal DX | 192320 | [192320-quest-of-graal-dx.json](./192320-quest-of-graal-dx.json) |
+| Quest of Hat | 186097 | [186097-quest-of-hat.json](./186097-quest-of-hat.json) |
 | Quest of Jackal: Puzzle game | 113882 | [113882-quest-of-jackal-puzzle-game.json](./113882-quest-of-jackal-puzzle-game.json) |
 | Quest of Legend | 334202 | [334202-quest-of-legend.json](./334202-quest-of-legend.json) |
 | Quest of Persia: Lotfali Khan Zand | 191672 | [191672-quest-of-persia-lotfali-khan-zand.json](./191672-quest-of-persia-lotfali-khan-zand.json) |
