@@ -2088,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune | 144230 | [144230-wheel-of-fortune.json](./144230-wheel-of-fortune.json) |
 | Wheel of Fortune | 194569 | [194569-wheel-of-fortune.json](./194569-wheel-of-fortune.json) |
 | Wheel of Fortune | 198964 | [198964-wheel-of-fortune.json](./198964-wheel-of-fortune.json) |
+| Wheel of Fortune | 199434 | [199434-wheel-of-fortune.json](./199434-wheel-of-fortune.json) |
 | Wheel of Fortune | 220131 | [220131-wheel-of-fortune.json](./220131-wheel-of-fortune.json) |
 | Wheel of Fortune | 287301 | [287301-wheel-of-fortune.json](./287301-wheel-of-fortune.json) |
 | Wheel of Fortune | 37183 | [37183-wheel-of-fortune.json](./37183-wheel-of-fortune.json) |
@@ -2681,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wii Sports Club | 23518 | [23518-wii-sports-club.json](./23518-wii-sports-club.json) |
 | Wii Sports Resort | 2182 | [2182-wii-sports-resort.json](./2182-wii-sports-resort.json) |
 | Wik & the Fable of Souls | 933 | [933-wik-and-the-fable-of-souls.json](./933-wik-and-the-fable-of-souls.json) |
+| Wika Wicked's Egg | 199450 | [199450-wika-wickeds-egg.json](./199450-wika-wickeds-egg.json) |
 | Wiki Hunt | 86062 | [86062-wiki-hunt.json](./86062-wiki-hunt.json) |
 | Wiki's Wild Ride | 261759 | [261759-wikis-wild-ride.json](./261759-wikis-wild-ride.json) |
 | WikiAsteroids | 386928 | [386928-wikiasteroids.json](./386928-wikiasteroids.json) |
@@ -2917,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willful | 44190 | [44190-willful.json](./44190-willful.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
 | William's Love Prelude | 127849 | [127849-williams-love-prelude.json](./127849-williams-love-prelude.json) |
+| Williams Arcade Classics | 199435 | [199435-williams-arcade-classics.json](./199435-williams-arcade-classics.json) |
 | Williams Arcade Classics | 71782 | [71782-williams-arcade-classics.json](./71782-williams-arcade-classics.json) |
 | Williams Arcade's Greatest Hits | 20713 | [20713-williams-arcades-greatest-hits.json](./20713-williams-arcades-greatest-hits.json) |
 | Williams Arcade's Greatest Hits | 287084 | [287084-williams-arcades-greatest-hits.json](./287084-williams-arcades-greatest-hits.json) |
