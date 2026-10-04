@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Firefighter's Boxing Matches | 179136 | [179136-a-firefighters-boxing-matches.json](./179136-a-firefighters-boxing-matches.json) |
 | A Firelit Room | 196619 | [196619-a-firelit-room.json](./196619-a-firelit-room.json) |
 | A Firm Handshake | 176349 | [176349-a-firm-handshake.json](./176349-a-firm-handshake.json) |
+| A Fishy RPG | 181101 | [181101-a-fishy-rpg.json](./181101-a-fishy-rpg.json) |
 | A Flappy Bird in Real Life | 111077 | [111077-a-flappy-bird-in-real-life.json](./111077-a-flappy-bird-in-real-life.json) |
 | A Flicker of Light | 188449 | [188449-a-flicker-of-light.json](./188449-a-flicker-of-light.json) |
 | A Flower from Hermes | 185015 | [185015-a-flower-from-hermes.json](./185015-a-flower-from-hermes.json) |
@@ -286,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A House That Glows | 389593 | [389593-a-house-that-glows.json](./389593-a-house-that-glows.json) |
 | A housewife Hiroko Yamaguchi is reborn in the alternative world with her husband | 82927 | [82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json](./82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json) |
 | A Housewife's Healing Touch | 198561 | [198561-a-housewifes-healing-touch.json](./198561-a-housewifes-healing-touch.json) |
+| A Hunter's Day | 181198 | [181198-a-hunters-day.json](./181198-a-hunters-day.json) |
 | A Ilha Perdida da Babitonga | 352367 | [352367-a-ilha-perdida-da-babitonga.json](./352367-a-ilha-perdida-da-babitonga.json) |
 | A is for Aardvark | 334281 | [334281-a-is-for-aardvark.json](./334281-a-is-for-aardvark.json) |
 | A Journey Through Valhalla | 165677 | [165677-a-journey-through-valhalla.json](./165677-a-journey-through-valhalla.json) |
@@ -857,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
 | Abide | 389091 | [389091-abide.json](./389091-abide.json) |
 | Abide With Me | 179614 | [179614-abide-with-me.json](./179614-abide-with-me.json) |
+| Abigail Fortune and the Scarlet Fairy | 181205 | [181205-abigail-fortune-and-the-scarlet-fairy.json](./181205-abigail-fortune-and-the-scarlet-fairy.json) |
 | Abiko the Miko | 158042 | [158042-abiko-the-miko.json](./158042-abiko-the-miko.json) |
 | Ability Draft | 109031 | [109031-ability-draft.json](./109031-ability-draft.json) |
 | Abiotic Factor | 219126 | [219126-abiotic-factor.json](./219126-abiotic-factor.json) |
@@ -1807,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeternitas | 111896 | [111896-aeternitas.json](./111896-aeternitas.json) |
 | AeternoBlade II | 28079 | [28079-aeternoblade-ii.json](./28079-aeternoblade-ii.json) |
 | AeternoBlade II: Infinity | 285602 | [285602-aeternoblade-ii-infinity.json](./285602-aeternoblade-ii-infinity.json) |
+| Aeternum Quest | 181100 | [181100-aeternum-quest.json](./181100-aeternum-quest.json) |
 | Aether | 280472 | [280472-aether.json](./280472-aether.json) |
 | Aether Crown | 405616 | [405616-aether-crown.json](./405616-aether-crown.json) |
 | Aether Drift | 108046 | [108046-aether-drift.json](./108046-aether-drift.json) |
@@ -8493,6 +8497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Mutation Station | 307118 | [307118-attack-on-mutation-station.json](./307118-attack-on-mutation-station.json) |
 | Attack on Reality | 231612 | [231612-attack-on-reality.json](./231612-attack-on-reality.json) |
 | Attack on Steel | 346228 | [346228-attack-on-steel.json](./346228-attack-on-steel.json) |
+| Attack on the Deathstar | 181203 | [181203-attack-on-the-deathstar.json](./181203-attack-on-the-deathstar.json) |
 | Attack on Time | 193848 | [193848-attack-on-time.json](./193848-attack-on-time.json) |
 | Attack on Titan | 14879 | [14879-attack-on-titan.json](./14879-attack-on-titan.json) |
 | Attack on Titan 2: Second Victory | 170829 | [170829-attack-on-titan-2-second-victory.json](./170829-attack-on-titan-2-second-victory.json) |
