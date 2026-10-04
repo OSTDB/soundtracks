@@ -3106,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Arcana | 211759 | [211759-heroes-of-arcana.json](./211759-heroes-of-arcana.json) |
 | Heroes of Artadis | 378340 | [378340-heroes-of-artadis.json](./378340-heroes-of-artadis.json) |
 | Heroes of Book & Paper | 199506 | [199506-heroes-of-book-and-paper.json](./199506-heroes-of-book-and-paper.json) |
+| Heroes of Britannia | 188464 | [188464-heroes-of-britannia.json](./188464-heroes-of-britannia.json) |
 | Heroes of Camelot | 7449 | [7449-heroes-of-camelot.json](./7449-heroes-of-camelot.json) |
 | Heroes of Delum | 27408 | [27408-heroes-of-delum.json](./27408-heroes-of-delum.json) |
 | Heroes of Destiny | 63384 | [63384-heroes-of-destiny.json](./63384-heroes-of-destiny.json) |
@@ -5885,6 +5886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Fish | 378170 | [378170-how-to-fish.json](./378170-how-to-fish.json) |
 | How to Fly a Cannon | 405537 | [405537-how-to-fly-a-cannon.json](./405537-how-to-fly-a-cannon.json) |
 | How to Fool a Liar King | 72344 | [72344-how-to-fool-a-liar-king.json](./72344-how-to-fool-a-liar-king.json) |
+| How to Fool a Liar King: Remastered | 188470 | [188470-how-to-fool-a-liar-king-remastered.json](./188470-how-to-fool-a-liar-king-remastered.json) |
 | How to Get a Japanese Girlfriend (And Save the World) | 292634 | [292634-how-to-get-a-japanese-girlfriend-and-save-the-world.json](./292634-how-to-get-a-japanese-girlfriend-and-save-the-world.json) |
 | How to Grow Your Sausage | 404405 | [404405-how-to-grow-your-sausage.json](./404405-how-to-grow-your-sausage.json) |
 | How to Live a Healthy Hentai Lifestyle! | 200645 | [200645-how-to-live-a-healthy-hentai-lifestyle.json](./200645-how-to-live-a-healthy-hentai-lifestyle.json) |
