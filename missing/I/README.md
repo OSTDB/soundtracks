@@ -1483,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impping! | 350400 | [350400-impping.json](./350400-impping.json) |
 | Impractical Spells | 295525 | [295525-impractical-spells.json](./295525-impractical-spells.json) |
 | Impresja | 47992 | [47992-impresja.json](./47992-impresja.json) |
+| Impressionista: Water Lilies | 182859 | [182859-impressionista-water-lilies.json](./182859-impressionista-water-lilies.json) |
 | Impressions | 128996 | [128996-impressions.json](./128996-impressions.json) |
 | Imprint | 397650 | [397650-imprint.json](./397650-imprint.json) |
 | imprint-X | 27307 | [27307-imprint-x.json](./27307-imprint-x.json) |
@@ -3522,6 +3523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itadaki Street DS | 71885 | [71885-itadaki-street-ds.json](./71885-itadaki-street-ds.json) |
 | Itadaki Street Special | 72987 | [72987-itadaki-street-special.json](./72987-itadaki-street-special.json) |
 | Itadaki Street: Dragon Quest & Final Fantasy 30th Anniversary | 54550 | [54550-itadaki-street-dragon-quest-and-final-fantasy-30th-anniversary.json](./54550-itadaki-street-dragon-quest-and-final-fantasy-30th-anniversary.json) |
+| Itako Works | 182898 | [182898-itako-works.json](./182898-itako-works.json) |
 | Italian Journey | 216142 | [216142-italian-journey.json](./216142-italian-journey.json) |
 | Italian Journey: Nitro | 216144 | [216144-italian-journey-nitro.json](./216144-italian-journey-nitro.json) |
 | Italian Night 1999 | 386393 | [386393-italian-night-1999.json](./386393-italian-night-1999.json) |
