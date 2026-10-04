@@ -837,6 +837,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballin' | 173239 | [173239-ballin.json](./173239-ballin.json) |
 | Ballionaire | 274333 | [274333-ballionaire.json](./274333-ballionaire.json) |
 | Ballista Legend | 117038 | [117038-ballista-legend.json](./117038-ballista-legend.json) |
+| Ballistic | 187303 | [187303-ballistic.json](./187303-ballistic.json) |
+| Ballistic | 187304 | [187304-ballistic.json](./187304-ballistic.json) |
 | Ballistic | 29767 | [29767-ballistic.json](./29767-ballistic.json) |
 | Ballistic | 302039 | [302039-ballistic.json](./302039-ballistic.json) |
 | Ballistic | 80488 | [80488-ballistic.json](./80488-ballistic.json) |
