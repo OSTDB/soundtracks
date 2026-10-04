@@ -328,10 +328,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's Combat Simulations: Israeli Air Force | 72071 | [72071-janes-combat-simulations-israeli-air-force.json](./72071-janes-combat-simulations-israeli-air-force.json) |
 | Jane's Combat Simulations: Longbow Gold | 73363 | [73363-janes-combat-simulations-longbow-gold.json](./73363-janes-combat-simulations-longbow-gold.json) |
 | Jane's F/A-18 | 687 | [687-janes-f-a-18.json](./687-janes-f-a-18.json) |
+| Jane's Hotel | 180079 | [180079-janes-hotel.json](./180079-janes-hotel.json) |
 | Jane's Hotel | 20549 | [20549-janes-hotel.json](./20549-janes-hotel.json) |
 | Jane's Hotel | 210009 | [210009-janes-hotel.json](./210009-janes-hotel.json) |
+| Jane's Hotel 3: Mania | 180100 | [180100-janes-hotel-3-mania.json](./180100-janes-hotel-3-mania.json) |
 | Jane's Hotel Mania | 54135 | [54135-janes-hotel-mania.json](./54135-janes-hotel-mania.json) |
 | Jane’s Hotel: New story - Collector’s Edition | 246002 | [246002-jane-s-hotel-new-story-collector-s-edition.json](./246002-jane-s-hotel-new-story-collector-s-edition.json) |
+| Jane`s Hotel 2: Family Hero | 180092 | [180092-jane-s-hotel-2-family-hero.json](./180092-jane-s-hotel-2-family-hero.json) |
 | Janga | 121629 | [121629-janga.json](./121629-janga.json) |
 | Janggi for Kakao | 126002 | [126002-janggi-for-kakao.json](./126002-janggi-for-kakao.json) |
 | Janggun | 145638 | [145638-janggun.json](./145638-janggun.json) |
