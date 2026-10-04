@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edward Grabowski's: The Blue & The Gray | 74065 | [74065-edward-grabowskis-the-blue-and-the-gray.json](./74065-edward-grabowskis-the-blue-and-the-gray.json) |
 | Edward's Manor | 319349 | [319349-edwards-manor.json](./319349-edwards-manor.json) |
 | Edward's Sewer Adventure | 304109 | [304109-edwards-sewer-adventure.json](./304109-edwards-sewer-adventure.json) |
+| Edwardo | 190016 | [190016-edwardo.json](./190016-edwardo.json) |
 | Edwin Earstwhile: Medical Examiner | 404924 | [404924-edwin-earstwhile-medical-examiner.json](./404924-edwin-earstwhile-medical-examiner.json) |
 | Edxn | 381169 | [381169-edxn.json](./381169-edxn.json) |
 | Eeeek Abyss | 235811 | [235811-eeeek-abyss.json](./235811-eeeek-abyss.json) |
@@ -2776,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room: Christmas Quest | 241345 | [241345-escape-room-christmas-quest.json](./241345-escape-room-christmas-quest.json) |
 | Escape Room: Mystery Tales | 261317 | [261317-escape-room-mystery-tales.json](./261317-escape-room-mystery-tales.json) |
 | Escape Room: Romy Project | 264766 | [264766-escape-room-romy-project.json](./264766-escape-room-romy-project.json) |
+| Escape Room: The Sorcerer's Curse | 190030 | [190030-escape-room-the-sorcerers-curse.json](./190030-escape-room-the-sorcerers-curse.json) |
 | Escape Roomble | 346705 | [346705-escape-roomble.json](./346705-escape-roomble.json) |
 | Escape Rooms Pack 1 | 299899 | [299899-escape-rooms-pack-1.json](./299899-escape-rooms-pack-1.json) |
 | Escape Rosecliff Island | 9830 | [9830-escape-rosecliff-island.json](./9830-escape-rosecliff-island.json) |
