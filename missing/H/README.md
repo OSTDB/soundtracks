@@ -5240,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horké Léto 2 | 292086 | [292086-horke-leto-2.json](./292086-horke-leto-2.json) |
 | Hormiga Escape | 315255 | [315255-hormiga-escape.json](./315255-hormiga-escape.json) |
 | Hormiga Escape 2 | 315256 | [315256-hormiga-escape-2.json](./315256-hormiga-escape-2.json) |
+| Hormone Wars | 181114 | [181114-hormone-wars.json](./181114-hormone-wars.json) |
 | Hormones of the Dead | 405601 | [405601-hormones-of-the-dead.json](./405601-hormones-of-the-dead.json) |
 | Horn and Shields | 319959 | [319959-horn-and-shields.json](./319959-horn-and-shields.json) |
 | Horn of Balance | 296912 | [296912-horn-of-balance.json](./296912-horn-of-balance.json) |
