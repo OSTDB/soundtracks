@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit's Quest | 142342 | [142342-rabbits-quest.json](./142342-rabbits-quest.json) |
 | RabbitJack's Casino | 67960 | [67960-rabbitjacks-casino.json](./67960-rabbitjacks-casino.json) |
 | Rabby in the Land of Sweets | 165646 | [165646-rabby-in-the-land-of-sweets.json](./165646-rabby-in-the-land-of-sweets.json) |
+| Rabdonut | 219106 | [219106-rabdonut.json](./219106-rabdonut.json) |
 | Rabi Laby | 85580 | [85580-rabi-laby.json](./85580-rabi-laby.json) |
 | Rabi Laby 2 | 84834 | [84834-rabi-laby-2.json](./84834-rabi-laby-2.json) |
 | Rabi Laby 3 | 84833 | [84833-rabi-laby-3.json](./84833-rabi-laby-3.json) |
@@ -2246,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedStory and the Last Glimmer | 244711 | [244711-redstory-and-the-last-glimmer.json](./244711-redstory-and-the-last-glimmer.json) |
 | Redstream | 392134 | [392134-redstream.json](./392134-redstream.json) |
 | Redstream Dispatch | 397059 | [397059-redstream-dispatch.json](./397059-redstream-dispatch.json) |
+| Redsun 2020 | 218948 | [218948-redsun-2020.json](./218948-redsun-2020.json) |
 | Redswood VR | 32103 | [32103-redswood-vr.json](./32103-redswood-vr.json) |
 | Redumption | 236419 | [236419-redumption.json](./236419-redumption.json) |
 | Redundancy | 262311 | [262311-redundancy.json](./262311-redundancy.json) |
@@ -4607,6 +4609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robocco Wars | 72649 | [72649-robocco-wars.json](./72649-robocco-wars.json) |
 | RoboCo | 121739 | [121739-roboco.json](./121739-roboco.json) |
 | RoboCock | 274454 | [274454-robocock.json](./274454-robocock.json) |
+| RoboCop | 218942 | [218942-robocop.json](./218942-robocop.json) |
 | RoboCop | 242810 | [242810-robocop.json](./242810-robocop.json) |
 | RoboCop | 59110 | [59110-robocop.json](./59110-robocop.json) |
 | RoboCop | 6013 | [6013-robocop.json](./6013-robocop.json) |
@@ -5456,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Star: Tomomi Another Story | 396379 | [396379-rolling-star-tomomi-another-story.json](./396379-rolling-star-tomomi-another-story.json) |
 | Rolling Sun | 26719 | [26719-rolling-sun.json](./26719-rolling-sun.json) |
 | Rolling Thunder | 12846 | [12846-rolling-thunder.json](./12846-rolling-thunder.json) |
+| Rolling Thunder | 219018 | [219018-rolling-thunder.json](./219018-rolling-thunder.json) |
 | Rolling Thunder 3 | 46243 | [46243-rolling-thunder-3.json](./46243-rolling-thunder-3.json) |
 | Rolling Thunder: Vietnam | 343950 | [343950-rolling-thunder-vietnam.json](./343950-rolling-thunder-vietnam.json) |
 | Rolling Toolman | 248683 | [248683-rolling-toolman.json](./248683-rolling-toolman.json) |
