@@ -2783,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defeated Girl | 219038 | [219038-defeated-girl.json](./219038-defeated-girl.json) |
 | Defect | 21928 | [21928-defect.json](./21928-defect.json) |
 | Defect | 313764 | [313764-defect.json](./313764-defect.json) |
+| Defect Process | 173029 | [173029-defect-process.json](./173029-defect-process.json) |
 | Defence Agent Gaya | 82906 | [82906-defence-agent-gaya.json](./82906-defence-agent-gaya.json) |
 | Defence of the Arcane Realms | 298679 | [298679-defence-of-the-arcane-realms.json](./298679-defence-of-the-arcane-realms.json) |
 | Defend Earth: Xenos Survivors | 320738 | [320738-defend-earth-xenos-survivors.json](./320738-defend-earth-xenos-survivors.json) |
@@ -4220,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo IV: Vessel of Hatred | 275171 | [275171-diablo-iv-vessel-of-hatred.json](./275171-diablo-iv-vessel-of-hatred.json) |
 | Diablo IV: Vessel of Hatred - Expansion Bundle | 305496 | [305496-diablo-iv-vessel-of-hatred-expansion-bundle.json](./305496-diablo-iv-vessel-of-hatred-expansion-bundle.json) |
 | Diablo Junior | 186037 | [186037-diablo-junior.json](./186037-diablo-junior.json) |
+| Diablo Prime Evil Collection | 173127 | [173127-diablo-prime-evil-collection.json](./173127-diablo-prime-evil-collection.json) |
 | Diablo V | 417647 | [417647-diablo-v.json](./417647-diablo-v.json) |
 | Diablo: Battle Chest | 46976 | [46976-diablo-battle-chest.json](./46976-diablo-battle-chest.json) |
 | Diabolik 01: Inafferrabile Criminale | 138700 | [138700-diabolik-01-inafferrabile-criminale.json](./138700-diabolik-01-inafferrabile-criminale.json) |
@@ -4322,6 +4324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice King | 188016 | [188016-dice-king.json](./188016-dice-king.json) |
 | Dice Knight: Mystery of the Moirai | 152741 | [152741-dice-knight-mystery-of-the-moirai.json](./152741-dice-knight-mystery-of-the-moirai.json) |
 | Dice Legacy: Corrupted Fates | 196296 | [196296-dice-legacy-corrupted-fates.json](./196296-dice-legacy-corrupted-fates.json) |
+| Dice Legacy: Deluxe Edition | 173102 | [173102-dice-legacy-deluxe-edition.json](./173102-dice-legacy-deluxe-edition.json) |
 | Dice Life: Dice Game | 291618 | [291618-dice-life-dice-game.json](./291618-dice-life-dice-game.json) |
 | Dice Make 10! | 314860 | [314860-dice-make-10.json](./314860-dice-make-10.json) |
 | Dice Mayor | 253470 | [253470-dice-mayor.json](./253470-dice-mayor.json) |
@@ -6578,6 +6581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Land | 1091 | [1091-donkey-kong-land.json](./1091-donkey-kong-land.json) |
 | Donkey Kong Land 2: Game Boy Color Edition | 234032 | [234032-donkey-kong-land-2-game-boy-color-edition.json](./234032-donkey-kong-land-2-game-boy-color-edition.json) |
 | Donkey Kong Land III | 1095 | [1095-donkey-kong-land-iii.json](./1095-donkey-kong-land-iii.json) |
+| Donkey Kong Land: New Colors Mode | 173120 | [173120-donkey-kong-land-new-colors-mode.json](./173120-donkey-kong-land-new-colors-mode.json) |
 | Donkey Kong Redux | 331437 | [331437-donkey-kong-redux.json](./331437-donkey-kong-redux.json) |
 | Donkey Kong vs. K. Rool Challenge | 307722 | [307722-donkey-kong-vs-k-rool-challenge.json](./307722-donkey-kong-vs-k-rool-challenge.json) |
 | Donkey Kong-e | 170011 | [170011-donkey-kong-e.json](./170011-donkey-kong-e.json) |
@@ -9282,6 +9286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Arena: Class Ninja | 167845 | [167845-dungeon-arena-class-ninja.json](./167845-dungeon-arena-class-ninja.json) |
 | Dungeon Armory | 408097 | [408097-dungeon-armory.json](./408097-dungeon-armory.json) |
 | Dungeon Army | 197768 | [197768-dungeon-army.json](./197768-dungeon-army.json) |
+| Dungeon Arsenal | 173031 | [173031-dungeon-arsenal.json](./173031-dungeon-arsenal.json) |
 | Dungeon Ascension | 280895 | [280895-dungeon-ascension.json](./280895-dungeon-ascension.json) |
 | Dungeon Attack | 151655 | [151655-dungeon-attack.json](./151655-dungeon-attack.json) |
 | Dungeon Avenger | 180272 | [180272-dungeon-avenger.json](./180272-dungeon-avenger.json) |
