@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrophosis | 285925 | [285925-necrophosis.json](./285925-necrophosis.json) |
 | Necropolis Nights | 332849 | [332849-necropolis-nights.json](./332849-necropolis-nights.json) |
 | Necropolis of the Angels | 214187 | [214187-necropolis-of-the-angels.json](./214187-necropolis-of-the-angels.json) |
+| Necropolis Suite | 217348 | [217348-necropolis-suite.json](./217348-necropolis-suite.json) |
 | Necropolis: Brutal Edition | 25337 | [25337-necropolis-brutal-edition.json](./25337-necropolis-brutal-edition.json) |
 | Necroscope | 58889 | [58889-necroscope.json](./58889-necroscope.json) |
 | Necrosmith 2 | 244317 | [244317-necrosmith-2.json](./244317-necrosmith-2.json) |
@@ -1170,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemurenu Yoru no Chiisana Ohanashi | 254494 | [254494-nemurenu-yoru-no-chiisana-ohanashi.json](./254494-nemurenu-yoru-no-chiisana-ohanashi.json) |
 | Nemuri Uri no | 233479 | [233479-nemuri-uri-no.json](./233479-nemuri-uri-no.json) |
 | Nemuru Mayu | 141028 | [141028-nemuru-mayu.json](./141028-nemuru-mayu.json) |
+| Nenneman: The Game | 217360 | [217360-nenneman-the-game.json](./217360-nenneman-the-game.json) |
 | Neo 2045 | 148536 | [148536-neo-2045.json](./148536-neo-2045.json) |
 | Neo 21 | 75491 | [75491-neo-21.json](./75491-neo-21.json) |
 | Neo Angelique | 72681 | [72681-neo-angelique.json](./72681-neo-angelique.json) |
