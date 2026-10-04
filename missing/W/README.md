@@ -1552,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Need an Army | 363952 | [363952-we-need-an-army.json](./363952-we-need-an-army.json) |
 | We Need More Steam! | 282221 | [282221-we-need-more-steam.json](./282221-we-need-more-steam.json) |
 | We Need the Sun | 185610 | [185610-we-need-the-sun.json](./185610-we-need-the-sun.json) |
+| We Need to Go Deeper: The Atomique | 174156 | [174156-we-need-to-go-deeper-the-atomique.json](./174156-we-need-to-go-deeper-the-atomique.json) |
 | We Pretend | 410338 | [410338-we-pretend.json](./410338-we-pretend.json) |
 | We Rock: Drum King | 5127 | [5127-we-rock-drum-king.json](./5127-we-rock-drum-king.json) |
 | We should talk. | 132400 | [132400-we-should-talk.json](./132400-we-should-talk.json) |
@@ -3663,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizavior | 255392 | [255392-wizavior.json](./255392-wizavior.json) |
 | WizBall | 415127 | [415127-wizball.json](./415127-wizball.json) |
 | Wizcave | 211683 | [211683-wizcave.json](./211683-wizcave.json) |
+| Wizdom | 174082 | [174082-wizdom.json](./174082-wizdom.json) |
 | Wizdom | 85500 | [85500-wizdom.json](./85500-wizdom.json) |
 | Wizlite: Everybody loved RPGs | 304013 | [304013-wizlite-everybody-loved-rpgs.json](./304013-wizlite-everybody-loved-rpgs.json) |
 | WiZmans World | 67669 | [67669-wizmans-world.json](./67669-wizmans-world.json) |
@@ -4915,6 +4917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | wrldDivision | 181379 | [181379-wrlddivision.json](./181379-wrlddivision.json) |
 | Wrong | 372615 | [372615-wrong.json](./372615-wrong.json) |
 | Wrong Answer | 389676 | [389676-wrong-answer.json](./389676-wrong-answer.json) |
+| Wrong Box | 174179 | [174179-wrong-box.json](./174179-wrong-box.json) |
 | Wrong Dimension - The One Dimensional Platformer | 32224 | [32224-wrong-dimension-the-one-dimensional-platformer.json](./32224-wrong-dimension-the-one-dimensional-platformer.json) |
 | Wrong Door | 320958 | [320958-wrong-door.json](./320958-wrong-door.json) |
 | Wrong Escape | 302420 | [302420-wrong-escape.json](./302420-wrong-escape.json) |
