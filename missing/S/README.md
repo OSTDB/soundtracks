@@ -9995,6 +9995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Farm | 107384 | [107384-space-farm.json](./107384-space-farm.json) |
 | Space Farmers 2 | 169870 | [169870-space-farmers-2.json](./169870-space-farmers-2.json) |
 | Space Fat: To the Core | 155655 | [155655-space-fat-to-the-core.json](./155655-space-fat-to-the-core.json) |
+| Space Fight | 216763 | [216763-space-fight.json](./216763-space-fight.json) |
 | Space Fight of Gun | 287344 | [287344-space-fight-of-gun.json](./287344-space-fight-of-gun.json) |
 | Space Fighter | 172531 | [172531-space-fighter.json](./172531-space-fighter.json) |
 | Space Fighters | 89396 | [89396-space-fighters.json](./89396-space-fighters.json) |
