@@ -1160,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Soul | 391606 | [391606-elemental-soul.json](./391606-elemental-soul.json) |
 | Elemental Strike: Mirage Tower | 132107 | [132107-elemental-strike-mirage-tower.json](./132107-elemental-strike-mirage-tower.json) |
 | Elemental Survivors | 244234 | [244234-elemental-survivors.json](./244234-elemental-survivors.json) |
+| Elemental Tiles | 180631 | [180631-elemental-tiles.json](./180631-elemental-tiles.json) |
 | Elemental War | 110131 | [110131-elemental-war.json](./110131-elemental-war.json) |
 | Elemental War 2 | 159268 | [159268-elemental-war-2.json](./159268-elemental-war-2.json) |
 | Elemental War Clash | 343448 | [343448-elemental-war-clash.json](./343448-elemental-war-clash.json) |
@@ -1909,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Online | 57183 | [57183-endless-online.json](./57183-endless-online.json) |
 | Endless Onslaught | 311179 | [311179-endless-onslaught.json](./311179-endless-onslaught.json) |
 | Endless Pursuit | 183532 | [183532-endless-pursuit.json](./183532-endless-pursuit.json) |
+| Endless Q | 180649 | [180649-endless-q.json](./180649-endless-q.json) |
 | Endless Rails | 406947 | [406947-endless-rails.json](./406947-endless-rails.json) |
 | Endless Reach | 358964 | [358964-endless-reach.json](./358964-endless-reach.json) |
 | Endless RPG | 119705 | [119705-endless-rpg.json](./119705-endless-rpg.json) |
@@ -3880,6 +3882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Terminal | 320180 | [320180-exit-terminal.json](./320180-exit-terminal.json) |
 | Exit the Backrooms | 265121 | [265121-exit-the-backrooms.json](./265121-exit-the-backrooms.json) |
 | Exit the Gungeon | 122311 | [122311-exit-the-gungeon.json](./122311-exit-the-gungeon.json) |
+| Exit the Shadow | 180570 | [180570-exit-the-shadow.json](./180570-exit-the-shadow.json) |
 | Exit Together | 333662 | [333662-exit-together.json](./333662-exit-together.json) |
 | Exit Veil | 264054 | [264054-exit-veil.json](./264054-exit-veil.json) |
 | Exit Ways | 346652 | [346652-exit-ways.json](./346652-exit-ways.json) |
