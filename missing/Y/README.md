@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Must | 166604 | [166604-you-must.json](./166604-you-must.json) |
 | You Must Become A Lich | 248653 | [248653-you-must-become-a-lich.json](./248653-you-must-become-a-lich.json) |
 | You Must Build A Ship | 185589 | [185589-you-must-build-a-ship.json](./185589-you-must-build-a-ship.json) |
+| You Must Die | 220166 | [220166-you-must-die.json](./220166-you-must-die.json) |
 | You Must Escape | 343870 | [343870-you-must-escape.json](./343870-you-must-escape.json) |
 | You Must Escape 2 | 71197 | [71197-you-must-escape-2.json](./71197-you-must-escape-2.json) |
 | You need to Buy a Phone Charger | 361338 | [361338-you-need-to-buy-a-phone-charger.json](./361338-you-need-to-buy-a-phone-charger.json) |
