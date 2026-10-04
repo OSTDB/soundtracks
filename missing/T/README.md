@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Chess | 304706 | [304706-tank-chess.json](./304706-tank-chess.json) |
 | Tank Combat | 54425 | [54425-tank-combat.json](./54425-tank-combat.json) |
 | Tank Commander: Battlefield | 384164 | [384164-tank-commander-battlefield.json](./384164-tank-commander-battlefield.json) |
+| Tank Defender | 187895 | [187895-tank-defender.json](./187895-tank-defender.json) |
 | Tank Domination | 343877 | [343877-tank-domination.json](./343877-tank-domination.json) |
 | Tank Elite | 82130 | [82130-tank-elite.json](./82130-tank-elite.json) |
 | Tank Force | 81329 | [81329-tank-force.json](./81329-tank-force.json) |
@@ -14719,6 +14720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailer Park Boys: Grea$y Money | 76608 | [76608-trailer-park-boys-grea-y-money.json](./76608-trailer-park-boys-grea-y-money.json) |
 | Trailer Park Zombies | 389462 | [389462-trailer-park-zombies.json](./389462-trailer-park-zombies.json) |
 | Trailer Trashers | 130157 | [130157-trailer-trashers.json](./130157-trailer-trashers.json) |
+| Trailmakers: Deluxe Edition | 187896 | [187896-trailmakers-deluxe-edition.json](./187896-trailmakers-deluxe-edition.json) |
 | Trailmakers: High Seas Expansion | 193221 | [193221-trailmakers-high-seas-expansion.json](./193221-trailmakers-high-seas-expansion.json) |
 | Trailmakers: Motorhead Pack | 317323 | [317323-trailmakers-motorhead-pack.json](./317323-trailmakers-motorhead-pack.json) |
 | Trailmakers: Rescue Pack | 293396 | [293396-trailmakers-rescue-pack.json](./293396-trailmakers-rescue-pack.json) |
