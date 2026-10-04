@@ -3232,6 +3232,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europe 1300 | 9670 | [9670-europe-1300.json](./9670-europe-1300.json) |
 | Europe 2041: Resistance | 297094 | [297094-europe-2041-resistance.json](./297094-europe-2041-resistance.json) |
 | Europe Ablaze | 25978 | [25978-europe-ablaze.json](./25978-europe-ablaze.json) |
+| Europe Bus Driver | 220016 | [220016-europe-bus-driver.json](./220016-europe-bus-driver.json) |
+| Europe Empire 2027 | 220017 | [220017-europe-empire-2027.json](./220017-europe-empire-2027.json) |
 | Europe Front II | 200741 | [200741-europe-front-ii.json](./200741-europe-front-ii.json) |
 | Europe Front Remastered | 357399 | [357399-europe-front-remastered.json](./357399-europe-front-remastered.json) |
 | European 2 | 70128 | [70128-european-2.json](./70128-european-2.json) |
@@ -3539,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
 | Evil Eyes | 289560 | [289560-evil-eyes.json](./289560-evil-eyes.json) |
 | Evil Factory | 74790 | [74790-evil-factory.json](./74790-evil-factory.json) |
+| Evil Fate | 220018 | [220018-evil-fate.json](./220018-evil-fate.json) |
 | Evil Fire | 87979 | [87979-evil-fire.json](./87979-evil-fire.json) |
 | Evil Genius 2: World Domination - Abomination Pack | 226849 | [226849-evil-genius-2-world-domination-abomination-pack.json](./226849-evil-genius-2-world-domination-abomination-pack.json) |
 | Evil Genius 2: World Domination - Cabal Pack | 226850 | [226850-evil-genius-2-world-domination-cabal-pack.json](./226850-evil-genius-2-world-domination-cabal-pack.json) |
@@ -3754,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Executive Assault 2 | 110573 | [110573-executive-assault-2.json](./110573-executive-assault-2.json) |
 | Executive Command | 207842 | [207842-executive-command.json](./207842-executive-command.json) |
 | Executive Hockey | 82396 | [82396-executive-hockey.json](./82396-executive-hockey.json) |
+| Executor | 220019 | [220019-executor.json](./220019-executor.json) |
 | Executrix's Folly | 180116 | [180116-executrixs-folly.json](./180116-executrixs-folly.json) |
 | Exelio | 264350 | [264350-exelio.json](./264350-exelio.json) |
 | Exelon | 79236 | [79236-exelon.json](./79236-exelon.json) |
@@ -3939,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expelled! | 331180 | [331180-expelled.json](./331180-expelled.json) |
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
 | Expendabots | 404929 | [404929-expendabots.json](./404929-expendabots.json) |
+| Expense | 220020 | [220020-expense.json](./220020-expense.json) |
 | eXperience 112 | 17873 | [17873-experience-112.json](./17873-experience-112.json) |
 | Experience: Colorblindness | 112363 | [112363-experience-colorblindness.json](./112363-experience-colorblindness.json) |
 | Experiment 404 | 391159 | [391159-experiment-404.json](./391159-experiment-404.json) |
@@ -4040,6 +4045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extra Terrestrial Perception | 44615 | [44615-extra-terrestrial-perception.json](./44615-extra-terrestrial-perception.json) |
 | Extra Terrestrials | 40778 | [40778-extra-terrestrials.json](./40778-extra-terrestrials.json) |
 | ExtracTD | 337675 | [337675-extractd.json](./337675-extractd.json) |
+| Extraction Force | 220021 | [220021-extraction-force.json](./220021-extraction-force.json) |
 | Extraktion 1943 | 273486 | [273486-extraktion-1943.json](./273486-extraktion-1943.json) |
 | Extraneum | 178441 | [178441-extraneum.json](./178441-extraneum.json) |
 | Extraordinary Ball | 368605 | [368605-extraordinary-ball.json](./368605-extraordinary-ball.json) |
@@ -4182,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeToy Play Hero | 44638 | [44638-eyetoy-play-hero.json](./44638-eyetoy-play-hero.json) |
 | EyeToy: AntiGrav | 19253 | [19253-eyetoy-antigrav.json](./19253-eyetoy-antigrav.json) |
 | Eyewitness Virtual Reality: Dinosaur Hunter | 198384 | [198384-eyewitness-virtual-reality-dinosaur-hunter.json](./198384-eyewitness-virtual-reality-dinosaur-hunter.json) |
+| Eyo: Jump 'n' Run RPG | 220022 | [220022-eyo-jump-n-run-rpg.json](./220022-eyo-jump-n-run-rpg.json) |
 | EZ-Talk Shokyuu-hen 4 | 334245 | [334245-ez-talk-shokyuu-hen-4.json](./334245-ez-talk-shokyuu-hen-4.json) |
 | EZ-Talk Shokyuu-hen 5 | 334275 | [334275-ez-talk-shokyuu-hen-5.json](./334275-ez-talk-shokyuu-hen-5.json) |
 | EZ-Talk Shokyuuhen 1-6 Kan Set | 93596 | [93596-ez-talk-shokyuuhen-1-6-kan-set.json](./93596-ez-talk-shokyuuhen-1-6-kan-set.json) |
