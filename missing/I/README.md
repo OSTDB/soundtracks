@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Lost My Eggs: Easter | 387329 | [387329-i-lost-my-eggs-easter.json](./387329-i-lost-my-eggs-easter.json) |
 | I Lost My Luggage | 155653 | [155653-i-lost-my-luggage.json](./155653-i-lost-my-luggage.json) |
 | I Lost Someone | 362296 | [362296-i-lost-someone.json](./362296-i-lost-someone.json) |
+| I Love Babies | 199994 | [199994-i-love-babies.json](./199994-i-love-babies.json) |
 | I Love Finding 9-in-1 Bundle | 328514 | [328514-i-love-finding-9-in-1-bundle.json](./328514-i-love-finding-9-in-1-bundle.json) |
 | I Love Finding Birds | 236500 | [236500-i-love-finding-birds.json](./236500-i-love-finding-birds.json) |
 | I Love Finding Birds: Collector's Edition | 248656 | [248656-i-love-finding-birds-collectors-edition.json](./248656-i-love-finding-birds-collectors-edition.json) |
@@ -1319,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Love: Letter from the Past | 53222 | [53222-immortal-love-letter-from-the-past.json](./53222-immortal-love-letter-from-the-past.json) |
 | Immortal Love: Sparkle of Talent | 187956 | [187956-immortal-love-sparkle-of-talent.json](./187956-immortal-love-sparkle-of-talent.json) |
 | Immortal Love: Stone Beauty - Collector's Edition | 130156 | [130156-immortal-love-stone-beauty-collectors-edition.json](./130156-immortal-love-stone-beauty-collectors-edition.json) |
+| Immortal Lovers | 199993 | [199993-immortal-lovers.json](./199993-immortal-lovers.json) |
 | Immortal Magus | 344360 | [344360-immortal-magus.json](./344360-immortal-magus.json) |
 | Immortal Quest | 106398 | [106398-immortal-quest.json](./106398-immortal-quest.json) |
 | Immortal Realms: Vampire Wars | 119258 | [119258-immortal-realms-vampire-wars.json](./119258-immortal-realms-vampire-wars.json) |
@@ -2468,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instarion | 260972 | [260972-instarion.json](./260972-instarion.json) |
 | InstaTok Tycoon | 301837 | [301837-instatok-tycoon.json](./301837-instatok-tycoon.json) |
 | Instead; Ghost Suburb | 280911 | [280911-instead-ghost-suburb.json](./280911-instead-ghost-suburb.json) |
+| Instead: Ghost Suburb | 199979 | [199979-instead-ghost-suburb.json](./199979-instead-ghost-suburb.json) |
 | Instinct | 286509 | [286509-instinct.json](./286509-instinct.json) |
 | Instinct Rush | 117821 | [117821-instinct-rush.json](./117821-instinct-rush.json) |
 | Instinct: Survival | 118000 | [118000-instinct-survival.json](./118000-instinct-survival.json) |
