@@ -3518,6 +3518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Knight's Sleep | 369021 | [369021-good-knights-sleep.json](./369021-good-knights-sleep.json) |
 | Good Luck Citizen | 305777 | [305777-good-luck-citizen.json](./305777-good-luck-citizen.json) |
 | Good Luck Crossing | 344393 | [344393-good-luck-crossing.json](./344393-good-luck-crossing.json) |
+| Good Luck Have Fun | 202723 | [202723-good-luck-have-fun.json](./202723-good-luck-have-fun.json) |
 | Good Luck Seducing an Ace Witch | 310520 | [310520-good-luck-seducing-an-ace-witch.json](./310520-good-luck-seducing-an-ace-witch.json) |
 | Good Mahjong | 88276 | [88276-good-mahjong.json](./88276-good-mahjong.json) |
 | Good Morgan Eve | 332443 | [332443-good-morgan-eve.json](./332443-good-morgan-eve.json) |
@@ -4265,6 +4266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviteam Tactics: Mius Front - Operation Moduler | 155478 | [155478-graviteam-tactics-mius-front-operation-moduler.json](./155478-graviteam-tactics-mius-front-operation-moduler.json) |
 | Graviteam Tactics: Mius Front - Operation Victory | 192163 | [192163-graviteam-tactics-mius-front-operation-victory.json](./192163-graviteam-tactics-mius-front-operation-victory.json) |
 | Graviteam Tactics: Mius Front - Pivot Point | 192162 | [192162-graviteam-tactics-mius-front-pivot-point.json](./192162-graviteam-tactics-mius-front-pivot-point.json) |
+| Graviteam Tactics: Mius Front - Predators in the Mist | 202735 | [202735-graviteam-tactics-mius-front-predators-in-the-mist.json](./202735-graviteam-tactics-mius-front-predators-in-the-mist.json) |
 | Graviteam Tactics: Mius Front - Raging Bridgehead | 192164 | [192164-graviteam-tactics-mius-front-raging-bridgehead.json](./192164-graviteam-tactics-mius-front-raging-bridgehead.json) |
 | Graviteam Tactics: Mius Front - Raid | 155482 | [155482-graviteam-tactics-mius-front-raid.json](./155482-graviteam-tactics-mius-front-raid.json) |
 | Graviteam Tactics: Mius Front - Strong Point | 155485 | [155485-graviteam-tactics-mius-front-strong-point.json](./155485-graviteam-tactics-mius-front-strong-point.json) |
