@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Käpt'n Blaubär: Die Verrückte Schatzsuche | 86070 | [86070-kaptn-blaubar-die-verruckte-schatzsuche.json](./86070-kaptn-blaubar-die-verruckte-schatzsuche.json) |
 | Kara no Oukoku | 380433 | [380433-kara-no-oukoku.json](./380433-kara-no-oukoku.json) |
 | Kara's Darkness Chapter 1 | 102154 | [102154-karas-darkness-chapter-1.json](./102154-karas-darkness-chapter-1.json) |
+| KaraCreate | 191073 | [191073-karacreate.json](./191073-karacreate.json) |
 | KaraDedeler 1989 | 165712 | [165712-karadedeler-1989.json](./165712-karadedeler-1989.json) |
 | Karakai Simuation Game | 133248 | [133248-karakai-simuation-game.json](./133248-karakai-simuation-game.json) |
 | Karakia Shooter | 158139 | [158139-karakia-shooter.json](./158139-karakia-shooter.json) |
