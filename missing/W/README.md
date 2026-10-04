@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Aero | 39849 | [39849-war-of-aero.json](./39849-war-of-aero.json) |
 | War of Angels | 66400 | [66400-war-of-angels.json](./66400-war-of-angels.json) |
 | War of Ashird | 122974 | [122974-war-of-ashird.json](./122974-war-of-ashird.json) |
+| War of Bellrook | 211123 | [211123-war-of-bellrook.json](./211123-war-of-bellrook.json) |
 | War Of Castles | 282249 | [282249-war-of-castles.json](./282249-war-of-castles.json) |
 | War Of Celestials | 253389 | [253389-war-of-celestials.json](./253389-war-of-celestials.json) |
 | War of Charge | 309676 | [309676-war-of-charge.json](./309676-war-of-charge.json) |
@@ -1011,12 +1012,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarpBall | 34482 | [34482-warpball.json](./34482-warpball.json) |
 | Warped North | 263451 | [263451-warped-north.json](./263451-warped-north.json) |
 | Warped Space Shooter | 182980 | [182980-warped-space-shooter.json](./182980-warped-space-shooter.json) |
+| Warped Times | 211104 | [211104-warped-times.json](./211104-warped-times.json) |
 | Warpfire | 364554 | [364554-warpfire.json](./364554-warpfire.json) |
 | Warpfire.io | 412425 | [412425-warpfire-io.json](./412425-warpfire-io.json) |
 | WarpForce | 55876 | [55876-warpforce.json](./55876-warpforce.json) |
 | Warpie | 188034 | [188034-warpie.json](./188034-warpie.json) |
 | WarPlan | 125460 | [125460-warplan.json](./125460-warplan.json) |
 | Warplane Inc. | 152801 | [152801-warplane-inc.json](./152801-warplane-inc.json) |
+| Warplane Quest | 211105 | [211105-warplane-quest.json](./211105-warplane-quest.json) |
 | Warplanes Bundle | 238436 | [238436-warplanes-bundle.json](./238436-warplanes-bundle.json) |
 | Warplanes Inc. | 327206 | [327206-warplanes-inc.json](./327206-warplanes-inc.json) |
 | Warplanes: Air Corp | 266302 | [266302-warplanes-air-corp.json](./266302-warplanes-air-corp.json) |
@@ -1054,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior of Ras: Volume I - Dunzhin | 94578 | [94578-warrior-of-ras-volume-i-dunzhin.json](./94578-warrior-of-ras-volume-i-dunzhin.json) |
 | Warrior Paint: 2005 GOTY Edition | 231309 | [231309-warrior-paint-2005-goty-edition.json](./231309-warrior-paint-2005-goty-edition.json) |
 | Warrior Quest | 412378 | [412378-warrior-quest.json](./412378-warrior-quest.json) |
+| Warrior Souls | 211106 | [211106-warrior-souls.json](./211106-warrior-souls.json) |
 | Warrior's Dilemma | 360636 | [360636-warriors-dilemma.json](./360636-warriors-dilemma.json) |
 | Warrior's Reward | 370710 | [370710-warriors-reward.json](./370710-warriors-reward.json) |
 | Warriors | 377151 | [377151-warriors.json](./377151-warriors.json) |
@@ -1276,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Delivery | 318626 | [318626-water-delivery.json](./318626-water-delivery.json) |
 | Water Density | 76530 | [76530-water-density.json](./76530-water-density.json) |
 | Water Drift | 153381 | [153381-water-drift.json](./153381-water-drift.json) |
+| Water Fall | 211102 | [211102-water-fall.json](./211102-water-fall.json) |
 | Water Flow | 284576 | [284576-water-flow.json](./284576-water-flow.json) |
 | Water Horse | 363987 | [363987-water-horse.json](./363987-water-horse.json) |
 | Water Level / B.l.u.e. Exploration | 320938 | [320938-water-level-b-l-u-e-exploration.json](./320938-water-level-b-l-u-e-exploration.json) |
@@ -2004,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Crow?! | 274678 | [274678-what-the-crow.json](./274678-what-the-crow.json) |
 | What the Dub?! | 144808 | [144808-what-the-dub.json](./144808-what-the-dub.json) |
 | What the Fog | 300793 | [300793-what-the-fog.json](./300793-what-the-fog.json) |
+| What the Fortress!? | 211103 | [211103-what-the-fortress.json](./211103-what-the-fortress.json) |
 | What the Golf? | 87983 | [87983-what-the-golf.json](./87983-what-the-golf.json) |
 | What the Golf? A Hole New World | 264343 | [264343-what-the-golf-a-hole-new-world.json](./264343-what-the-golf-a-hole-new-world.json) |
 | What the Golf? It's Snowtime | 264344 | [264344-what-the-golf-its-snowtime.json](./264344-what-the-golf-its-snowtime.json) |
