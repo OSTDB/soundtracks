@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night Wanderer | 98476 | [98476-late-night-wanderer.json](./98476-late-night-wanderer.json) |
 | Late Order | 406926 | [406926-late-order.json](./406926-late-order.json) |
 | Late Photographer | 367995 | [367995-late-photographer.json](./367995-late-photographer.json) |
+| Late photographer 2 | 196084 | [196084-late-photographer-2.json](./196084-late-photographer-2.json) |
 | Late Photographer 3 | 192288 | [192288-late-photographer-3.json](./192288-late-photographer-3.json) |
 | Late Photographer 4 | 199567 | [199567-late-photographer-4.json](./199567-late-photographer-4.json) |
 | Late Photographer 5 | 201148 | [201148-late-photographer-5.json](./201148-late-photographer-5.json) |
@@ -1854,11 +1855,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Ripoux | 133439 | [133439-les-ripoux.json](./133439-les-ripoux.json) |
 | Lesbian Mothman Hunters | 151751 | [151751-lesbian-mothman-hunters.json](./151751-lesbian-mothman-hunters.json) |
 | Lesbian Vampire Simulator | 177531 | [177531-lesbian-vampire-simulator.json](./177531-lesbian-vampire-simulator.json) |
+| Lesbian Voyeur Simulator 2 | 196128 | [196128-lesbian-voyeur-simulator-2.json](./196128-lesbian-voyeur-simulator-2.json) |
 | LesbiAnts | 291593 | [291593-lesbiants.json](./291593-lesbiants.json) |
 | Leshy Prelude | 321117 | [321117-leshy-prelude.json](./321117-leshy-prelude.json) |
 | Leslie & Brianne's Galactic Rampage | 353374 | [353374-leslie-and-briannes-galactic-rampage.json](./353374-leslie-and-briannes-galactic-rampage.json) |
 | Lessaria: Fantasy Kingdom Sim | 261556 | [261556-lessaria-fantasy-kingdom-sim.json](./261556-lessaria-fantasy-kingdom-sim.json) |
 | Lesson | 111658 | [111658-lesson.json](./111658-lesson.json) |
+| Lesson Learned | 196115 | [196115-lesson-learned.json](./196115-lesson-learned.json) |
 | Lessons in Love | 182472 | [182472-lessons-in-love.json](./182472-lessons-in-love.json) |
 | Lessons learned | 108067 | [108067-lessons-learned.json](./108067-lessons-learned.json) |
 | Lester the Unlikely | 42504 | [42504-lester-the-unlikely.json](./42504-lester-the-unlikely.json) |
@@ -4419,6 +4422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Within | 23959 | [23959-lost-within.json](./23959-lost-within.json) |
 | Lost World | 226183 | [226183-lost-world.json](./226183-lost-world.json) |
 | Lost Zion | 395555 | [395555-lost-zion.json](./395555-lost-zion.json) |
+| Lost: Find | 196118 | [196118-lost-find.json](./196118-lost-find.json) |
 | Lost:Smile Memories | 120778 | [120778-lost-smile-memories.json](./120778-lost-smile-memories.json) |
 | Lostade | 377694 | [377694-lostade.json](./377694-lostade.json) |
 | Losted | 190962 | [190962-losted.json](./190962-losted.json) |
