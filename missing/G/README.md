@@ -845,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gandhi III | 323801 | [323801-gandhi-iii.json](./323801-gandhi-iii.json) |
 | Gang Beasts | 11177 | [11177-gang-beasts.json](./11177-gang-beasts.json) |
 | Gang Blast | 283265 | [283265-gang-blast.json](./283265-gang-blast.json) |
+| Gang Human Wrestling | 193816 | [193816-gang-human-wrestling.json](./193816-gang-human-wrestling.json) |
 | Gang Man | 279066 | [279066-gang-man.json](./279066-gang-man.json) |
 | Gang Man Shooter | 351691 | [351691-gang-man-shooter.json](./351691-gang-man-shooter.json) |
 | Gang Nations | 60592 | [60592-gang-nations.json](./60592-gang-nations.json) |
@@ -5647,6 +5648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns of Infinity | 33440 | [33440-guns-of-infinity.json](./33440-guns-of-infinity.json) |
 | Guns of Mercy | 114176 | [114176-guns-of-mercy.json](./114176-guns-of-mercy.json) |
 | Guns of Midnight | 118362 | [118362-guns-of-midnight.json](./118362-guns-of-midnight.json) |
+| Guns of Survivor | 193829 | [193829-guns-of-survivor.json](./193829-guns-of-survivor.json) |
 | Guns Up! Mobile | 175705 | [175705-guns-up-mobile.json](./175705-guns-up-mobile.json) |
 | Guns, Blocks, and Steel | 326239 | [326239-guns-blocks-and-steel.json](./326239-guns-blocks-and-steel.json) |
 | Guns'n'Glory | 95410 | [95410-gunsnglory.json](./95410-gunsnglory.json) |
