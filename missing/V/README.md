@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vicious Attack Llama Apocalypse | 44289 | [44289-vicious-attack-llama-apocalypse.json](./44289-vicious-attack-llama-apocalypse.json) |
 | Vicious Growth | 203924 | [203924-vicious-growth.json](./203924-vicious-growth.json) |
 | Vicious Red | 249793 | [249793-vicious-red.json](./249793-vicious-red.json) |
+| Vicious Vine | 216707 | [216707-vicious-vine.json](./216707-vicious-vine.json) |
 | Vicious, Fateful Memories | 108992 | [108992-vicious-fateful-memories.json](./108992-vicious-fateful-memories.json) |
 | Vickinachi | 37308 | [37308-vickinachi.json](./37308-vickinachi.json) |
 | Vicky | 138753 | [138753-vicky.json](./138753-vicky.json) |
