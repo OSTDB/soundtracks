@@ -3673,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: Williams Pinball - Volume 2 | 164000 | [164000-pinball-fx3-williams-pinball-volume-2.json](./164000-pinball-fx3-williams-pinball-volume-2.json) |
 | Pinball FX3: Williams Pinball - Volume 5 | 164004 | [164004-pinball-fx3-williams-pinball-volume-5.json](./164004-pinball-fx3-williams-pinball-volume-5.json) |
 | Pinball Gardener | 185001 | [185001-pinball-gardener.json](./185001-pinball-gardener.json) |
+| Pinball Girlfriend | 207187 | [207187-pinball-girlfriend.json](./207187-pinball-girlfriend.json) |
 | Pinball Hazard | 74336 | [74336-pinball-hazard.json](./74336-pinball-hazard.json) |
 | Pinball HD | 175348 | [175348-pinball-hd.json](./175348-pinball-hd.json) |
 | Pinball HD | 88282 | [88282-pinball-hd.json](./88282-pinball-hd.json) |
@@ -6545,6 +6546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popcorn Popstars | 359519 | [359519-popcorn-popstars.json](./359519-popcorn-popstars.json) |
 | Popcorn! | 312727 | [312727-popcorn.json](./312727-popcorn.json) |
 | Popcorn! | 97472 | [97472-popcorn.json](./97472-popcorn.json) |
+| PopCultured | 207225 | [207225-popcultured.json](./207225-popcultured.json) |
 | Pope Simulator | 133205 | [133205-pope-simulator.json](./133205-pope-simulator.json) |
 | Popeye | 232703 | [232703-popeye.json](./232703-popeye.json) |
 | Popeye | 266839 | [266839-popeye.json](./266839-popeye.json) |
@@ -7252,6 +7254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
 | Press Inc. | 108275 | [108275-press-inc.json](./108275-press-inc.json) |
+| Press the alphabetically first letter | 207222 | [207222-press-the-alphabetically-first-letter.json](./207222-press-the-alphabetically-first-letter.json) |
 | Press W to Move Forward | 222823 | [222823-press-w-to-move-forward.json](./222823-press-w-to-move-forward.json) |
 | Press X to Not Die | 13619 | [13619-press-x-to-not-die.json](./13619-press-x-to-not-die.json) |
 | Press X to Not Die: Special Edition | 53472 | [53472-press-x-to-not-die-special-edition.json](./53472-press-x-to-not-die-special-edition.json) |
@@ -8676,6 +8679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PsychoPhobia | 196025 | [196025-psychophobia.json](./196025-psychophobia.json) |
 | Psychophonies: What Ghosts Say | 238438 | [238438-psychophonies-what-ghosts-say.json](./238438-psychophonies-what-ghosts-say.json) |
 | Psychopomp Gold | 319765 | [319765-psychopomp-gold.json](./319765-psychopomp-gold.json) |
+| Psychoscopy | 207195 | [207195-psychoscopy.json](./207195-psychoscopy.json) |
 | Psychosis: Teaser | 222863 | [222863-psychosis-teaser.json](./222863-psychosis-teaser.json) |
 | Psychosomnium | 84249 | [84249-psychosomnium.json](./84249-psychosomnium.json) |
 | Psychotic Adventures Origins | 138795 | [138795-psychotic-adventures-origins.json](./138795-psychotic-adventures-origins.json) |
