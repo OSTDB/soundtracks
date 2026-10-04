@@ -5530,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockhead | 14323 | [14323-blockhead.json](./14323-blockhead.json) |
 | Blockhead | 338248 | [338248-blockhead.json](./338248-blockhead.json) |
 | Blockhead | 380026 | [380026-blockhead.json](./380026-blockhead.json) |
+| Blockhead 2D | 208274 | [208274-blockhead-2d.json](./208274-blockhead-2d.json) |
 | Blockhead II | 14324 | [14324-blockhead-ii.json](./14324-blockhead-ii.json) |
 | Blockies VR | 193204 | [193204-blockies-vr.json](./193204-blockies-vr.json) |
 | Blockiverse: Camouflage | 106144 | [106144-blockiverse-camouflage.json](./106144-blockiverse-camouflage.json) |
