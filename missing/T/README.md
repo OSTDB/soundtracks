@@ -883,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TalkTics: Double Served | 303793 | [303793-talktics-double-served.json](./303793-talktics-double-served.json) |
 | Tall Bagel | 141626 | [141626-tall-bagel.json](./141626-tall-bagel.json) |
 | Tall Man Run | 208953 | [208953-tall-man-run.json](./208953-tall-man-run.json) |
+| Tall Poppy | 172550 | [172550-tall-poppy.json](./172550-tall-poppy.json) |
 | Tall Ships: Age of Sail | 256537 | [256537-tall-ships-age-of-sail.json](./256537-tall-ships-age-of-sail.json) |
 | Tall Tales | 239139 | [239139-tall-tales.json](./239139-tall-tales.json) |
 | Tallawa Game Nights | 415894 | [415894-tallawa-game-nights.json](./415894-tallawa-game-nights.json) |
@@ -2590,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Lab Inc. | 264604 | [264604-test-lab-inc.json](./264604-test-lab-inc.json) |
 | Test Subject | 318778 | [318778-test-subject.json](./318778-test-subject.json) |
 | Test Subject 901 | 108039 | [108039-test-subject-901.json](./108039-test-subject-901.json) |
+| Test Subject Blue | 172473 | [172473-test-subject-blue.json](./172473-test-subject-blue.json) |
 | Test Subject Complete | 172475 | [172475-test-subject-complete.json](./172475-test-subject-complete.json) |
 | Test Subject Green | 172474 | [172474-test-subject-green.json](./172474-test-subject-green.json) |
 | Test Tube Titans | 129933 | [129933-test-tube-titans.json](./129933-test-tube-titans.json) |
@@ -2978,6 +2980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Bertram Fiddle: Episode 2 - A Bleaker Predicklement | 32834 | [32834-the-adventures-of-bertram-fiddle-episode-2-a-bleaker-predicklement.json](./32834-the-adventures-of-bertram-fiddle-episode-2-a-bleaker-predicklement.json) |
 | The Adventures of Big Faz | 206721 | [206721-the-adventures-of-big-faz.json](./206721-the-adventures-of-big-faz.json) |
 | The Adventures of Bruce Flea | 258474 | [258474-the-adventures-of-bruce-flea.json](./258474-the-adventures-of-bruce-flea.json) |
+| The Adventures of Bryan Scott | 172541 | [172541-the-adventures-of-bryan-scott.json](./172541-the-adventures-of-bryan-scott.json) |
 | The Adventures of Bunny and Pig | 265127 | [265127-the-adventures-of-bunny-and-pig.json](./265127-the-adventures-of-bunny-and-pig.json) |
 | The Adventures of Busy Billy | 206207 | [206207-the-adventures-of-busy-billy.json](./206207-the-adventures-of-busy-billy.json) |
 | The Adventures of Capitano Navarro | 51512 | [51512-the-adventures-of-capitano-navarro.json](./51512-the-adventures-of-capitano-navarro.json) |
@@ -6237,6 +6240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XV: Character "Sylvie Paula Paula" | 249759 | [249759-the-king-of-fighters-xv-character-sylvie-paula-paula.json](./249759-the-king-of-fighters-xv-character-sylvie-paula-paula.json) |
 | The King of Fighters XV: Characters - Kim Kaphwan | 243761 | [243761-the-king-of-fighters-xv-characters-kim-kaphwan.json](./243761-the-king-of-fighters-xv-characters-kim-kaphwan.json) |
 | The King of Fighters XV: Characters Mature & Vice | 317839 | [317839-the-king-of-fighters-xv-characters-mature-and-vice.json](./317839-the-king-of-fighters-xv-characters-mature-and-vice.json) |
+| The King of Fighters XV: Deluxe Edition | 172556 | [172556-the-king-of-fighters-xv-deluxe-edition.json](./172556-the-king-of-fighters-xv-deluxe-edition.json) |
 | The King of Fighters XV: DLC Costume "Classic Leona" | 332031 | [332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json](./332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json) |
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
 | The King of Fighters: AFK | 364038 | [364038-the-king-of-fighters-afk.json](./364038-the-king-of-fighters-afk.json) |
@@ -10562,6 +10566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thesmophoria | 244304 | [244304-thesmophoria.json](./244304-thesmophoria.json) |
 | TheSpoiler | 289962 | [289962-thespoiler.json](./289962-thespoiler.json) |
 | Theta | 67736 | [67736-theta.json](./67736-theta.json) |
+| Thetan Arena | 172547 | [172547-thetan-arena.json](./172547-thetan-arena.json) |
 | TheTravelGame | 215723 | [215723-thetravelgame.json](./215723-thetravelgame.json) |
 | TheTruth.exe | 109623 | [109623-thetruth-exe.json](./109623-thetruth-exe.json) |
 | Theurgy Architect | 333365 | [333365-theurgy-architect.json](./333365-theurgy-architect.json) |
