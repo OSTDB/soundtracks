@@ -5678,6 +5678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gutted: Infested Crypts | 405682 | [405682-gutted-infested-crypts.json](./405682-gutted-infested-crypts.json) |
 | Gutter Night | 376028 | [376028-gutter-night.json](./376028-gutter-night.json) |
 | Gutter Priestess | 345619 | [345619-gutter-priestess.json](./345619-gutter-priestess.json) |
+| Gutter: The Cursed | 223370 | [223370-gutter-the-cursed.json](./223370-gutter-the-cursed.json) |
 | Gutter: The Perished | 296902 | [296902-gutter-the-perished.json](./296902-gutter-the-perished.json) |
 | Gutter: The Reject | 257691 | [257691-gutter-the-reject.json](./257691-gutter-the-reject.json) |
 | Gutterball 2 | 344018 | [344018-gutterball-2.json](./344018-gutterball-2.json) |
