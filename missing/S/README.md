@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailing Era | 223172 | [223172-sailing-era.json](./223172-sailing-era.json) |
 | Sailing the Winds & New Tanks | 375160 | [375160-sailing-the-winds-and-new-tanks.json](./375160-sailing-the-winds-and-new-tanks.json) |
 | Sailist | 244333 | [244333-sailist.json](./244333-sailist.json) |
+| Sailor Cats | 202708 | [202708-sailor-cats.json](./202708-sailor-cats.json) |
 | Sailor Fuku Bijin Tsuma Senshi Aheahe Moon | 82979 | [82979-sailor-fuku-bijin-tsuma-senshi-aheahe-moon.json](./82979-sailor-fuku-bijin-tsuma-senshi-aheahe-moon.json) |
 | Sailor Fuku Bishoujo Zukan Vol. 1 | 41389 | [41389-sailor-fuku-bishoujo-zukan-vol-1.json](./41389-sailor-fuku-bishoujo-zukan-vol-1.json) |
 | Sailor Fuku Bishoujo Zukan Vol. 2 | 41388 | [41388-sailor-fuku-bishoujo-zukan-vol-2.json](./41388-sailor-fuku-bishoujo-zukan-vol-2.json) |
@@ -1815,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Maintain & Control | 202098 | [202098-scp-maintain-and-control.json](./202098-scp-maintain-and-control.json) |
 | SCP: Mystery Man | 320169 | [320169-scp-mystery-man.json](./320169-scp-mystery-man.json) |
 | SCP: Nemesi | 260106 | [260106-scp-nemesi.json](./260106-scp-nemesi.json) |
+| SCP: New Operative | 202740 | [202740-scp-new-operative.json](./202740-scp-new-operative.json) |
 | SCP: Refinarium | 407500 | [407500-scp-refinarium.json](./407500-scp-refinarium.json) |
 | SCP: Rulebreaker | 279770 | [279770-scp-rulebreaker.json](./279770-scp-rulebreaker.json) |
 | SCP: Run For Freedom | 338266 | [338266-scp-run-for-freedom.json](./338266-scp-run-for-freedom.json) |
@@ -8509,6 +8511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Battle Royal | 111907 | [111907-solitaire-battle-royal.json](./111907-solitaire-battle-royal.json) |
 | Solitaire Beach Season | 31284 | [31284-solitaire-beach-season.json](./31284-solitaire-beach-season.json) |
 | Solitaire Beach Season 2 | 95559 | [95559-solitaire-beach-season-2.json](./95559-solitaire-beach-season-2.json) |
+| Solitaire Beach Season: A Vacation Time | 202731 | [202731-solitaire-beach-season-a-vacation-time.json](./202731-solitaire-beach-season-a-vacation-time.json) |
 | Solitaire Bliss Collection | 117176 | [117176-solitaire-bliss-collection.json](./117176-solitaire-bliss-collection.json) |
 | Solitaire Card Deck Game '23 | 231896 | [231896-solitaire-card-deck-game-23.json](./231896-solitaire-card-deck-game-23.json) |
 | Solitaire Card Games | 147883 | [147883-solitaire-card-games.json](./147883-solitaire-card-games.json) |
@@ -10263,6 +10266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Misfits | 123040 | [123040-space-misfits.json](./123040-space-misfits.json) |
 | Space Mission SM-11 | 235219 | [235219-space-mission-sm-11.json](./235219-space-mission-sm-11.json) |
 | Space Moguls | 124600 | [124600-space-moguls.json](./124600-space-moguls.json) |
+| Space Molmae | 202645 | [202645-space-molmae.json](./202645-space-molmae.json) |
 | Space Monster | 72971 | [72971-space-monster.json](./72971-space-monster.json) |
 | Space Moonshiner | 230969 | [230969-space-moonshiner.json](./230969-space-moonshiner.json) |
 | Space Moth DX | 33928 | [33928-space-moth-dx.json](./33928-space-moth-dx.json) |
@@ -11209,6 +11213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man 3: The Goblin Strikes! | 245397 | [245397-spider-man-3-the-goblin-strikes.json](./245397-spider-man-3-the-goblin-strikes.json) |
 | Spider-Man 3: Trio of Terror | 245396 | [245396-spider-man-3-trio-of-terror.json](./245396-spider-man-3-trio-of-terror.json) |
 | Spider-Man 3: Vigilante Vengeance | 245395 | [245395-spider-man-3-vigilante-vengeance.json](./245395-spider-man-3-vigilante-vengeance.json) |
+| Spider-Man 4 | 202711 | [202711-spider-man-4.json](./202711-spider-man-4.json) |
 | Spider-Man 4 | 231383 | [231383-spider-man-4.json](./231383-spider-man-4.json) |
 | Spider-Man and the X-Men in Arcade's Revenge | 365699 | [365699-spider-man-and-the-x-men-in-arcades-revenge.json](./365699-spider-man-and-the-x-men-in-arcades-revenge.json) |
 | Spider-Man and the X-Men in Arcade's Revenge | 365700 | [365700-spider-man-and-the-x-men-in-arcades-revenge.json](./365700-spider-man-and-the-x-men-in-arcades-revenge.json) |
@@ -11867,6 +11872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprunki Block Puzzle | 326982 | [326982-sprunki-block-puzzle.json](./326982-sprunki-block-puzzle.json) |
 | Sprunki Hell Towers | 395210 | [395210-sprunki-hell-towers.json](./395210-sprunki-hell-towers.json) |
 | Sprunki Horror From the Loop | 361923 | [361923-sprunki-horror-from-the-loop.json](./361923-sprunki-horror-from-the-loop.json) |
+| Spryward | 202744 | [202744-spryward.json](./202744-spryward.json) |
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
 | Spud! | 35649 | [35649-spud.json](./35649-spud.json) |
 | Spuds | 54421 | [54421-spuds.json](./54421-spuds.json) |
@@ -12794,6 +12800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Old Republic - Knights of the Eternal Throne | 22659 | [22659-star-wars-the-old-republic-knights-of-the-eternal-throne.json](./22659-star-wars-the-old-republic-knights-of-the-eternal-throne.json) |
 | Star Wars: The Old Republic - Knights of the Fallen Empire | 11178 | [11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json](./11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json) |
 | Star Wars: The Old Republic - Legacy of the Sith | 202780 | [202780-star-wars-the-old-republic-legacy-of-the-sith.json](./202780-star-wars-the-old-republic-legacy-of-the-sith.json) |
+| Star Wars: The Old Republic - Onslaught | 202715 | [202715-star-wars-the-old-republic-onslaught.json](./202715-star-wars-the-old-republic-onslaught.json) |
 | Star Wars: The Old Republic - Shadow of Revan | 22658 | [22658-star-wars-the-old-republic-shadow-of-revan.json](./22658-star-wars-the-old-republic-shadow-of-revan.json) |
 | Star Wars: The Return of the Jedi | 219022 | [219022-star-wars-the-return-of-the-jedi.json](./219022-star-wars-the-return-of-the-jedi.json) |
 | Star Wars: Throwback Pack | 99756 | [99756-star-wars-throwback-pack.json](./99756-star-wars-throwback-pack.json) |
@@ -13891,6 +13898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Skater | 174341 | [174341-stickman-skater.json](./174341-stickman-skater.json) |
 | Stickman Soccer 2016 | 90737 | [90737-stickman-soccer-2016.json](./90737-stickman-soccer-2016.json) |
 | Stickman Strikes: Conquer Fantasy World | 317870 | [317870-stickman-strikes-conquer-fantasy-world.json](./317870-stickman-strikes-conquer-fantasy-world.json) |
+| Stickman Synthwave Escape | 202733 | [202733-stickman-synthwave-escape.json](./202733-stickman-synthwave-escape.json) |
 | Stickman turbo destruiction | 349465 | [349465-stickman-turbo-destruiction.json](./349465-stickman-turbo-destruiction.json) |
 | Stickman Turbo Dismounting 3D | 95841 | [95841-stickman-turbo-dismounting-3d.json](./95841-stickman-turbo-dismounting-3d.json) |
 | StickMan vs. MagicWorld | 265596 | [265596-stickman-vs-magicworld.json](./265596-stickman-vs-magicworld.json) |
