@@ -2000,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Loop: Backrooms | 366952 | [366952-infinite-loop-backrooms.json](./366952-infinite-loop-backrooms.json) |
 | Infinite Mansion | 374816 | [374816-infinite-mansion.json](./374816-infinite-mansion.json) |
 | Infinite Mario 64 | 288851 | [288851-infinite-mario-64.json](./288851-infinite-mario-64.json) |
+| Infinite Mario Bros. | 212694 | [212694-infinite-mario-bros.json](./212694-infinite-mario-bros.json) |
 | Infinite Minigolf: Hangar 37 | 170835 | [170835-infinite-minigolf-hangar-37.json](./170835-infinite-minigolf-hangar-37.json) |
 | Infinite Minigolf: Tortuga | 170834 | [170834-infinite-minigolf-tortuga.json](./170834-infinite-minigolf-tortuga.json) |
 | Infinite Monkey Autocorrect | 89205 | [89205-infinite-monkey-autocorrect.json](./89205-infinite-monkey-autocorrect.json) |
@@ -3201,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isla de la Muerte | 399734 | [399734-isla-de-la-muerte.json](./399734-isla-de-la-muerte.json) |
 | Isla Dorada: Episode 1 - The Sands of Ephranis | 210046 | [210046-isla-dorada-episode-1-the-sands-of-ephranis.json](./210046-isla-dorada-episode-1-the-sands-of-ephranis.json) |
 | Isla Mosa Adventure: The Secret of the Southern Capital | 265606 | [265606-isla-mosa-adventure-the-secret-of-the-southern-capital.json](./265606-isla-mosa-adventure-the-secret-of-the-southern-capital.json) |
+| Isla Sinaloa | 212838 | [212838-isla-sinaloa.json](./212838-isla-sinaloa.json) |
 | ISLA test | 123573 | [123573-isla-test.json](./123573-isla-test.json) |
 | Islamic Fun | 318628 | [318628-islamic-fun.json](./318628-islamic-fun.json) |
 | Island | 260380 | [260380-island.json](./260380-island.json) |
