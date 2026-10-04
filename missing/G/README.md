@@ -814,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaming Cafe Life | 295842 | [295842-gaming-cafe-life.json](./295842-gaming-cafe-life.json) |
 | Gaming Cafe Simulator | 318807 | [318807-gaming-cafe-simulator.json](./318807-gaming-cafe-simulator.json) |
 | Gaming Constructor Simulator | 121002 | [121002-gaming-constructor-simulator.json](./121002-gaming-constructor-simulator.json) |
+| Gaming Late at Night | 177886 | [177886-gaming-late-at-night.json](./177886-gaming-late-at-night.json) |
 | Gamino | 94551 | [94551-gamino.json](./94551-gamino.json) |
 | Gamitate the Meditation Game | 147374 | [147374-gamitate-the-meditation-game.json](./147374-gamitate-the-meditation-game.json) |
 | Gamius Type IV | 51175 | [51175-gamius-type-iv.json](./51175-gamius-type-iv.json) |
