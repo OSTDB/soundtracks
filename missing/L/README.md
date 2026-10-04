@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landing High Japan | 129142 | [129142-landing-high-japan.json](./129142-landing-high-japan.json) |
 | Landing Party | 74089 | [74089-landing-party.json](./74089-landing-party.json) |
 | Landlady Seduction Simulator | 326394 | [326394-landlady-seduction-simulator.json](./326394-landlady-seduction-simulator.json) |
+| Landlady: The Lions Roar | 180627 | [180627-landlady-the-lions-roar.json](./180627-landlady-the-lions-roar.json) |
 | Landline | 367526 | [367526-landline.json](./367526-landline.json) |
 | Landlord | 346718 | [346718-landlord.json](./346718-landlord.json) |
 | Landlord | 385584 | [385584-landlord.json](./385584-landlord.json) |
@@ -1394,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Roland | 39781 | [39781-legend-of-roland.json](./39781-legend-of-roland.json) |
 | Legend of Rome 2: The Magic Hourglass | 296488 | [296488-legend-of-rome-2-the-magic-hourglass.json](./296488-legend-of-rome-2-the-magic-hourglass.json) |
 | Legend of Saha | 347817 | [347817-legend-of-saha.json](./347817-legend-of-saha.json) |
+| Legend of Serigel | 180648 | [180648-legend-of-serigel.json](./180648-legend-of-serigel.json) |
 | Legend of Silkroad | 23625 | [23625-legend-of-silkroad.json](./23625-legend-of-silkroad.json) |
 | Legend of Slime: Idle RPG | 237529 | [237529-legend-of-slime-idle-rpg.json](./237529-legend-of-slime-idle-rpg.json) |
 | Legend of Snake | 215645 | [215645-legend-of-snake.json](./215645-legend-of-snake.json) |
@@ -5019,6 +5021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lug's Tiny Torture | 300268 | [300268-lugs-tiny-torture.json](./300268-lugs-tiny-torture.json) |
 | Lug's Tiny Torture Lite | 300269 | [300269-lugs-tiny-torture-lite.json](./300269-lugs-tiny-torture-lite.json) |
 | Lugaru | 14940 | [14940-lugaru.json](./14940-lugaru.json) |
+| Lugaru HD | 180628 | [180628-lugaru-hd.json](./180628-lugaru-hd.json) |
 | Luge Crush 2018 | 87201 | [87201-luge-crush-2018.json](./87201-luge-crush-2018.json) |
 | Luggage Lane | 314474 | [314474-luggage-lane.json](./314474-luggage-lane.json) |
 | Luhor's Memory | 393748 | [393748-luhors-memory.json](./393748-luhors-memory.json) |
