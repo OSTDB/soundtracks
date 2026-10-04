@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet Another Avoider | 412978 | [412978-yet-another-avoider.json](./412978-yet-another-avoider.json) |
 | Yet Another Fantasy Title | 209469 | [209469-yet-another-fantasy-title.json](./209469-yet-another-fantasy-title.json) |
 | Yet Another FireRed Hack | 377801 | [377801-yet-another-firered-hack.json](./377801-yet-another-firered-hack.json) |
+| Yet Another Godzilla Game | 184973 | [184973-yet-another-godzilla-game.json](./184973-yet-another-godzilla-game.json) |
 | Yet Another Hentai Puzzle | 295323 | [295323-yet-another-hentai-puzzle.json](./295323-yet-another-hentai-puzzle.json) |
 | Yet Another Hentai Puzzle: PTSD | 245846 | [245846-yet-another-hentai-puzzle-ptsd.json](./245846-yet-another-hentai-puzzle-ptsd.json) |
 | Yet Another Hero Legend | 118988 | [118988-yet-another-hero-legend.json](./118988-yet-another-hero-legend.json) |
@@ -620,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Need to Summon a Demon | 419868 | [419868-you-need-to-summon-a-demon.json](./419868-you-need-to-summon-a-demon.json) |
 | You Only Live Once | 212697 | [212697-you-only-live-once.json](./212697-you-only-live-once.json) |
 | You Only Livez Twice | 124250 | [124250-you-only-livez-twice.json](./124250-you-only-livez-twice.json) |
+| You Played Yourself | 184946 | [184946-you-played-yourself.json](./184946-you-played-yourself.json) |
 | You See a Monster Smoking in the Parking Lot | 377666 | [377666-you-see-a-monster-smoking-in-the-parking-lot.json](./377666-you-see-a-monster-smoking-in-the-parking-lot.json) |
 | You Shall Not Jump: PC Master Race Edition | 41967 | [41967-you-shall-not-jump-pc-master-race-edition.json](./41967-you-shall-not-jump-pc-master-race-edition.json) |
 | You Should Eat Breakfast | 176515 | [176515-you-should-eat-breakfast.json](./176515-you-should-eat-breakfast.json) |
