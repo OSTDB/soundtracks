@@ -2081,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ni no Kuni: Wrath of the White Witch - Wizard's Edition | 223042 | [223042-ni-no-kuni-wrath-of-the-white-witch-wizards-edition.json](./223042-ni-no-kuni-wrath-of-the-white-witch-wizards-edition.json) |
 | Ni-Hao Kai-Lan: Kai-Lan's Great trip to China! | 210026 | [210026-ni-hao-kai-lan-kai-lans-great-trip-to-china.json](./210026-ni-hao-kai-lan-kai-lans-great-trip-to-china.json) |
 | Ni'mRoD | 256818 | [256818-nimrod.json](./256818-nimrod.json) |
+| Nia | 192759 | [192759-nia.json](./192759-nia.json) |
 | Nia in Mushroom World | 185511 | [185511-nia-in-mushroom-world.json](./185511-nia-in-mushroom-world.json) |
 | Nia: Jewel Hunter | 358299 | [358299-nia-jewel-hunter.json](./358299-nia-jewel-hunter.json) |
 | Niaki | 262065 | [262065-niaki.json](./262065-niaki.json) |
@@ -2405,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightly Trash | 236238 | [236238-nightly-trash.json](./236238-nightly-trash.json) |
 | NightmAR Protocol | 158074 | [158074-nightmar-protocol.json](./158074-nightmar-protocol.json) |
 | Nightmare | 118819 | [118819-nightmare.json](./118819-nightmare.json) |
+| Nightmare | 192775 | [192775-nightmare.json](./192775-nightmare.json) |
 | Nightmare | 216987 | [216987-nightmare.json](./216987-nightmare.json) |
 | Nightmare | 252735 | [252735-nightmare.json](./252735-nightmare.json) |
 | Nightmare | 30102 | [30102-nightmare.json](./30102-nightmare.json) |
