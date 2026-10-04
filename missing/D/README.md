@@ -4808,6 +4808,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Rampage 3D | 106627 | [106627-dino-rampage-3d.json](./106627-dino-rampage-3d.json) |
 | Dino Rex | 183466 | [183466-dino-rex.json](./183466-dino-rex.json) |
 | Dino Rex | 39630 | [39630-dino-rex.json](./39630-dino-rex.json) |
+| Dino Robot Infinity | 193842 | [193842-dino-robot-infinity.json](./193842-dino-robot-infinity.json) |
+| Dino Robot: Megalodon | 193796 | [193796-dino-robot-megalodon.json](./193796-dino-robot-megalodon.json) |
 | Dino Run | 260083 | [260083-dino-run.json](./260083-dino-run.json) |
 | Dino Run DX | 16636 | [16636-dino-run-dx.json](./16636-dino-run-dx.json) |
 | Dino Run SE | 64965 | [64965-dino-run-se.json](./64965-dino-run-se.json) |
@@ -7139,6 +7141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downhill Driver: Extreme Racing Simulator | 283285 | [283285-downhill-driver-extreme-racing-simulator.json](./283285-downhill-driver-extreme-racing-simulator.json) |
 | Downhill Jam | 181303 | [181303-downhill-jam.json](./181303-downhill-jam.json) |
 | Downhill Legend | 211240 | [211240-downhill-legend.json](./211240-downhill-legend.json) |
+| Downhill Republic | 193822 | [193822-downhill-republic.json](./193822-downhill-republic.json) |
 | Downhill Slalom | 66952 | [66952-downhill-slalom.json](./66952-downhill-slalom.json) |
 | Downhill Snow | 143643 | [143643-downhill-snow.json](./143643-downhill-snow.json) |
 | DownhillMadness | 235800 | [235800-downhillmadness.json](./235800-downhillmadness.json) |
@@ -7616,6 +7619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Mine | 211204 | [211204-dragon-mine.json](./211204-dragon-mine.json) |
 | Dragon Mix | 42173 | [42173-dragon-mix.json](./42173-dragon-mix.json) |
 | Dragon Must Die | 215917 | [215917-dragon-must-die.json](./215917-dragon-must-die.json) |
+| Dragon Nest 2 | 193839 | [193839-dragon-nest-2.json](./193839-dragon-nest-2.json) |
 | Dragon Nest Escape | 315645 | [315645-dragon-nest-escape.json](./315645-dragon-nest-escape.json) |
 | Dragon Nest M | 104643 | [104643-dragon-nest-m.json](./104643-dragon-nest-m.json) |
 | Dragon Oath | 59945 | [59945-dragon-oath.json](./59945-dragon-oath.json) |
@@ -7750,6 +7754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Valor | 27351 | [27351-dragon-valor.json](./27351-dragon-valor.json) |
 | Dragon Village Arena | 193988 | [193988-dragon-village-arena.json](./193988-dragon-village-arena.json) |
 | Dragon Village Collection | 266259 | [266259-dragon-village-collection.json](./266259-dragon-village-collection.json) |
+| Dragon Village X | 193844 | [193844-dragon-village-x.json](./193844-dragon-village-x.json) |
 | Dragon Vita | 243071 | [243071-dragon-vita.json](./243071-dragon-vita.json) |
 | Dragon VR | 156091 | [156091-dragon-vr.json](./156091-dragon-vr.json) |
 | Dragon Wang | 6097 | [6097-dragon-wang.json](./6097-dragon-wang.json) |
@@ -8145,6 +8150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Match Tennis Pro | 109197 | [109197-dream-match-tennis-pro.json](./109197-dream-match-tennis-pro.json) |
 | Dream Match Tennis VR | 105507 | [105507-dream-match-tennis-vr.json](./105507-dream-match-tennis-vr.json) |
 | Dream Medicine | 286126 | [286126-dream-medicine.json](./286126-dream-medicine.json) |
+| Dream Meister and the Recollected Black Fairy | 193805 | [193805-dream-meister-and-the-recollected-black-fairy.json](./193805-dream-meister-and-the-recollected-black-fairy.json) |
 | Dream Mirror | 164966 | [164966-dream-mirror.json](./164966-dream-mirror.json) |
 | Dream Mysteries: Case of the Red Fox | 294201 | [294201-dream-mysteries-case-of-the-red-fox.json](./294201-dream-mysteries-case-of-the-red-fox.json) |
 | Dream of Life | 229721 | [229721-dream-of-life.json](./229721-dream-of-life.json) |
