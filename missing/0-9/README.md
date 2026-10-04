@@ -1359,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6 Inch My Darling | 45449 | [45449-6-inch-my-darling.json](./45449-6-inch-my-darling.json) |
 | 6 Keys: The Gym | 370289 | [370289-6-keys-the-gym.json](./370289-6-keys-the-gym.json) |
 | 6 Love Dominoes | 88421 | [88421-6-love-dominoes.json](./88421-6-love-dominoes.json) |
+| 6 Pack of Craft Games | 194386 | [194386-6-pack-of-craft-games.json](./194386-6-pack-of-craft-games.json) |
 | 6-7 | 386391 | [386391-6-7.json](./386391-6-7.json) |
 | 6-gatsu no Kimi to Boku | 412403 | [412403-6-gatsu-no-kimi-to-boku.json](./412403-6-gatsu-no-kimi-to-boku.json) |
 | 6-in-1 IQ Scale Bundle: Lost Starships | 166212 | [166212-6-in-1-iq-scale-bundle-lost-starships.json](./166212-6-in-1-iq-scale-bundle-lost-starships.json) |
