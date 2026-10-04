@@ -1757,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fawning Over a Corpse | 266862 | [266862-fawning-over-a-corpse.json](./266862-fawning-over-a-corpse.json) |
 | Fax These to Smith!!! | 128562 | [128562-fax-these-to-smith.json](./128562-fax-these-to-smith.json) |
 | Faxion | 92271 | [92271-faxion.json](./92271-faxion.json) |
+| Fay's Factory | 199440 | [199440-fays-factory.json](./199440-fays-factory.json) |
 | Faybound: Veils of Magic | 405562 | [405562-faybound-veils-of-magic.json](./405562-faybound-veils-of-magic.json) |
 | Faye Falling | 189136 | [189136-faye-falling.json](./189136-faye-falling.json) |
 | Faye: A Tale of Shadow | 192885 | [192885-faye-a-tale-of-shadow.json](./192885-faye-a-tale-of-shadow.json) |
@@ -6283,6 +6284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrogFlop | 313295 | [313295-frogflop.json](./313295-frogflop.json) |
 | Froggee | 93020 | [93020-froggee.json](./93020-froggee.json) |
 | Frogger | 11465 | [11465-frogger.json](./11465-frogger.json) |
+| Frogger | 199426 | [199426-frogger.json](./199426-frogger.json) |
 | Frogger | 203243 | [203243-frogger.json](./203243-frogger.json) |
 | Frogger | 218437 | [218437-frogger.json](./218437-frogger.json) |
 | Frogger | 218439 | [218439-frogger.json](./218439-frogger.json) |
