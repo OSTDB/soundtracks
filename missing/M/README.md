@@ -2229,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariposa and the Galaxy Man | 191904 | [191904-mariposa-and-the-galaxy-man.json](./191904-mariposa-and-the-galaxy-man.json) |
 | Marippy | 310649 | [310649-marippy.json](./310649-marippy.json) |
 | Marisa Matrix | 227906 | [227906-marisa-matrix.json](./227906-marisa-matrix.json) |
+| Marisa no Kagi | 216288 | [216288-marisa-no-kagi.json](./216288-marisa-no-kagi.json) |
 | Marisa's Inconceivable Journey | 190946 | [190946-marisas-inconceivable-journey.json](./190946-marisas-inconceivable-journey.json) |
 | Marisa's Marvelous Magic Shop | 126940 | [126940-marisas-marvelous-magic-shop.json](./126940-marisas-marvelous-magic-shop.json) |
 | Marissa Is Now Idle | 215222 | [215222-marissa-is-now-idle.json](./215222-marissa-is-now-idle.json) |
@@ -2523,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel vs. Capcom: Infinite - Venom | 161318 | [161318-marvel-vs-capcom-infinite-venom.json](./161318-marvel-vs-capcom-infinite-venom.json) |
 | Marvel vs. Capcom: Infinite - Winter Soldier | 161321 | [161321-marvel-vs-capcom-infinite-winter-soldier.json](./161321-marvel-vs-capcom-infinite-winter-soldier.json) |
 | Marvel vs. Capcom: Infinite & Beyond | 305345 | [305345-marvel-vs-capcom-infinite-and-beyond.json](./305345-marvel-vs-capcom-infinite-and-beyond.json) |
+| Marvel World of Heroes | 216280 | [216280-marvel-world-of-heroes.json](./216280-marvel-world-of-heroes.json) |
 | Marvel: Avengers Alliance | 77283 | [77283-marvel-avengers-alliance.json](./77283-marvel-avengers-alliance.json) |
 | Marvel: Avengers Alliance 2 | 59380 | [59380-marvel-avengers-alliance-2.json](./59380-marvel-avengers-alliance-2.json) |
 | Marvel: Powers United VR | 51411 | [51411-marvel-powers-united-vr.json](./51411-marvel-powers-united-vr.json) |
