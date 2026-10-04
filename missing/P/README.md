@@ -2759,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmal Exosteel | 377814 | [377814-phantasmal-exosteel.json](./377814-phantasmal-exosteel.json) |
 | Phantasmal: City of Darkness | 18793 | [18793-phantasmal-city-of-darkness.json](./18793-phantasmal-city-of-darkness.json) |
 | Phantasmat: Crucible Peak - Collector's Edition | 31066 | [31066-phantasmat-crucible-peak-collectors-edition.json](./31066-phantasmat-crucible-peak-collectors-edition.json) |
+| Phantasmat: Death in Hardcover | 187924 | [187924-phantasmat-death-in-hardcover.json](./187924-phantasmat-death-in-hardcover.json) |
 | Phantasmat: Death in Hardcover - Collector’s Edition | 234556 | [234556-phantasmat-death-in-hardcover-collector-s-edition.json](./234556-phantasmat-death-in-hardcover-collector-s-edition.json) |
 | Phantasmat: Déjà Vu - Collector's Edition | 234555 | [234555-phantasmat-deja-vu-collectors-edition.json](./234555-phantasmat-deja-vu-collectors-edition.json) |
 | Phantasmat: Remains of Buried Memories - Collector's Edition | 234557 | [234557-phantasmat-remains-of-buried-memories-collectors-edition.json](./234557-phantasmat-remains-of-buried-memories-collectors-edition.json) |
@@ -7113,6 +7114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerful Wind, Slicked-back Cabbages | 327360 | [327360-powerful-wind-slicked-back-cabbages.json](./327360-powerful-wind-slicked-back-cabbages.json) |
 | Powerful Wind, Slicked-back Hair, But It’s a Game | 393484 | [393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json](./393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json) |
 | Powerglove | 183459 | [183459-powerglove.json](./183459-powerglove.json) |
+| Powerglove Reloaded | 187883 | [187883-powerglove-reloaded.json](./187883-powerglove-reloaded.json) |
 | PowerHits: BattleTech | 69864 | [69864-powerhits-battletech.json](./69864-powerhits-battletech.json) |
 | Powerjackers: Superhero Battle Royale | 204941 | [204941-powerjackers-superhero-battle-royale.json](./204941-powerjackers-superhero-battle-royale.json) |
 | Powerline.io | 191257 | [191257-powerline-io.json](./191257-powerline-io.json) |
@@ -9057,7 +9059,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppeTNetiK: Speedrun Challenge | 152365 | [152365-puppetnetik-speedrun-challenge.json](./152365-puppetnetik-speedrun-challenge.json) |
 | PuppetShow: Destiny Undone | 63571 | [63571-puppetshow-destiny-undone.json](./63571-puppetshow-destiny-undone.json) |
 | PuppetShow: Destiny Undone - Collector's Edition | 105749 | [105749-puppetshow-destiny-undone-collectors-edition.json](./105749-puppetshow-destiny-undone-collectors-edition.json) |
+| PuppetShow: Fatal Mistake | 187931 | [187931-puppetshow-fatal-mistake.json](./187931-puppetshow-fatal-mistake.json) |
 | PuppetShow: Mystery of Joyville | 25926 | [25926-puppetshow-mystery-of-joyville.json](./25926-puppetshow-mystery-of-joyville.json) |
+| PuppetShow: Poetic Justice | 187912 | [187912-puppetshow-poetic-justice.json](./187912-puppetshow-poetic-justice.json) |
 | Puppies World 3D | 84800 | [84800-puppies-world-3d.json](./84800-puppies-world-3d.json) |
 | Pupple Pop | 390192 | [390192-pupple-pop.json](./390192-pupple-pop.json) |
 | Puppy Balloon Ride | 213392 | [213392-puppy-balloon-ride.json](./213392-puppy-balloon-ride.json) |
