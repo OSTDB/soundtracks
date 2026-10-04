@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Monster | 241637 | [241637-re-monster.json](./241637-re-monster.json) |
 | Re:Night | 258952 | [258952-re-night.json](./258952-re-night.json) |
 | Re:Ozma | 118162 | [118162-re-ozma.json](./118162-re-ozma.json) |
+| Re:Pairn’t | 181173 | [181173-re-pairn-t.json](./181173-re-pairn-t.json) |
 | Re:Rite | 402518 | [402518-re-rite.json](./402518-re-rite.json) |
 | Re:Spite | 107644 | [107644-re-spite.json](./107644-re-spite.json) |
 | Re:Turn - One Way Trip | 138021 | [138021-re-turn-one-way-trip.json](./138021-re-turn-one-way-trip.json) |
@@ -2659,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnants of the Arcane | 32168 | [32168-remnants-of-the-arcane.json](./32168-remnants-of-the-arcane.json) |
 | Remnants of the Rift | 154369 | [154369-remnants-of-the-rift.json](./154369-remnants-of-the-rift.json) |
 | Remnants of Yore | 342654 | [342654-remnants-of-yore.json](./342654-remnants-of-yore.json) |
+| Remont Soyuz | 181172 | [181172-remont-soyuz.json](./181172-remont-soyuz.json) |
 | Remorse | 167606 | [167606-remorse.json](./167606-remorse.json) |
 | Remorse | 378391 | [378391-remorse.json](./378391-remorse.json) |
 | Remote Aphrodite | 404996 | [404996-remote-aphrodite.json](./404996-remote-aphrodite.json) |
@@ -3242,6 +3244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrograde Arena: Arms Race Pack | 226966 | [226966-retrograde-arena-arms-race-pack.json](./226966-retrograde-arena-arms-race-pack.json) |
 | Retrograde Arena: Deathmatch Pack | 226967 | [226967-retrograde-arena-deathmatch-pack.json](./226967-retrograde-arena-deathmatch-pack.json) |
 | Retrogram | 197742 | [197742-retrogram.json](./197742-retrogram.json) |
+| Retroid | 181176 | [181176-retroid.json](./181176-retroid.json) |
 | Retrojam 3 | 384214 | [384214-retrojam-3.json](./384214-retrojam-3.json) |
 | Retrojam 4 | 384216 | [384216-retrojam-4.json](./384216-retrojam-4.json) |
 | Retrojam I | 314285 | [314285-retrojam-i.json](./314285-retrojam-i.json) |
@@ -4743,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roboloop | 295776 | [295776-roboloop.json](./295776-roboloop.json) |
 | Robolt | 249306 | [249306-robolt.json](./249306-robolt.json) |
 | Robolucion: The Sandwich Conspiracy | 390681 | [390681-robolucion-the-sandwich-conspiracy.json](./390681-robolucion-the-sandwich-conspiracy.json) |
+| Robomancer | 181183 | [181183-robomancer.json](./181183-robomancer.json) |
 | Robomania | 261987 | [261987-robomania.json](./261987-robomania.json) |
 | RoboMaze III: The Dome | 78029 | [78029-robomaze-iii-the-dome.json](./78029-robomaze-iii-the-dome.json) |
 | RoboMaze: The Basement | 59927 | [59927-robomaze-the-basement.json](./59927-robomaze-the-basement.json) |
@@ -6828,6 +6832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty | 239074 | [239074-rusty.json](./239074-rusty.json) |
 | Rusty | 45975 | [45975-rusty.json](./45975-rusty.json) |
 | Rusty Barrel | 270854 | [270854-rusty-barrel.json](./270854-rusty-barrel.json) |
+| Rusty Blade | 181192 | [181192-rusty-blade.json](./181192-rusty-blade.json) |
 | Rusty Blower 3D | 342782 | [342782-rusty-blower-3d.json](./342782-rusty-blower-3d.json) |
 | Rusty Drill | 326740 | [326740-rusty-drill.json](./326740-rusty-drill.json) |
 | Rusty Dusty | 298105 | [298105-rusty-dusty.json](./298105-rusty-dusty.json) |
