@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballerina Magazine Dress Up | 95844 | [95844-ballerina-magazine-dress-up.json](./95844-ballerina-magazine-dress-up.json) |
 | Ballermann: Hey Baby! | 346711 | [346711-ballermann-hey-baby.json](./346711-ballermann-hey-baby.json) |
 | Ballet Parking | 314070 | [314070-ballet-parking.json](./314070-ballet-parking.json) |
+| Ballex 2: The Hanging Gardens | 207728 | [207728-ballex-2-the-hanging-gardens.json](./207728-ballex-2-the-hanging-gardens.json) |
 | BallFrog | 186755 | [186755-ballfrog.json](./186755-ballfrog.json) |
 | Ballgame 2 | 79224 | [79224-ballgame-2.json](./79224-ballgame-2.json) |
 | Ballin' | 173239 | [173239-ballin.json](./173239-ballin.json) |
