@@ -199,27 +199,44 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Alkaline Jam | 196802 | [196802-quake-alkaline-jam.json](./196802-quake-alkaline-jam.json) |
 | Quake: Arcade Tournament Edition | 405632 | [405632-quake-arcade-tournament-edition.json](./405632-quake-arcade-tournament-edition.json) |
 | Quake: Autumn Haunting | 202931 | [202931-quake-autumn-haunting.json](./202931-quake-autumn-haunting.json) |
+| Quake: Carved in Flesh | 196659 | [196659-quake-carved-in-flesh.json](./196659-quake-carved-in-flesh.json) |
 | Quake: Contract Revoked | 280187 | [280187-quake-contract-revoked.json](./280187-quake-contract-revoked.json) |
 | Quake: Dawn of the Machine | 412530 | [412530-quake-dawn-of-the-machine.json](./412530-quake-dawn-of-the-machine.json) |
 | Quake: Death's Dominion | 202932 | [202932-quake-deaths-dominion.json](./202932-quake-deaths-dominion.json) |
+| Quake: Doom Tintin Jam | 196646 | [196646-quake-doom-tintin-jam.json](./196646-quake-doom-tintin-jam.json) |
+| Quake: Egyptoagula | 196658 | [196658-quake-egyptoagula.json](./196658-quake-egyptoagula.json) |
 | Quake: Episode 5 - Dimension of the Past | 159171 | [159171-quake-episode-5-dimension-of-the-past.json](./159171-quake-episode-5-dimension-of-the-past.json) |
 | Quake: Five Rivers Land | 196706 | [196706-quake-five-rivers-land.json](./196706-quake-five-rivers-land.json) |
+| Quake: For My Babies | 196645 | [196645-quake-for-my-babies.json](./196645-quake-for-my-babies.json) |
+| Quake: Forgotten Sepulcher | 196638 | [196638-quake-forgotten-sepulcher.json](./196638-quake-forgotten-sepulcher.json) |
 | Quake: Func Jam 3 | 196568 | [196568-quake-func-jam-3.json](./196568-quake-func-jam-3.json) |
+| Quake: Func Jam 5 | 196618 | [196618-quake-func-jam-5.json](./196618-quake-func-jam-5.json) |
+| Quake: Func Jam 6 | 196623 | [196623-quake-func-jam-6.json](./196623-quake-func-jam-6.json) |
+| Quake: Func Jam 7 | 196624 | [196624-quake-func-jam-7.json](./196624-quake-func-jam-7.json) |
+| Quake: Func Jam 8 | 196628 | [196628-quake-func-jam-8.json](./196628-quake-func-jam-8.json) |
+| Quake: Func Jam X | 196630 | [196630-quake-func-jam-x.json](./196630-quake-func-jam-x.json) |
 | Quake: January Jump Jam | 202930 | [202930-quake-january-jump-jam.json](./202930-quake-january-jump-jam.json) |
 | Quake: January Jump Jam 2 | 202928 | [202928-quake-january-jump-jam-2.json](./202928-quake-january-jump-jam-2.json) |
 | Quake: Mission Pack 1 - Scourge of Armagon | 15760 | [15760-quake-mission-pack-1-scourge-of-armagon.json](./15760-quake-mission-pack-1-scourge-of-armagon.json) |
 | Quake: Mission Pack 2 - Dissolution of Eternity | 15759 | [15759-quake-mission-pack-2-dissolution-of-eternity.json](./15759-quake-mission-pack-2-dissolution-of-eternity.json) |
+| Quake: Nyarlathotep | 196657 | [196657-quake-nyarlathotep.json](./196657-quake-nyarlathotep.json) |
+| Quake: Operation Urth Majik | 196662 | [196662-quake-operation-urth-majik.json](./196662-quake-operation-urth-majik.json) |
 | Quake: Prelude to Apocalypse & Mordrigor's Demise | 196580 | [196580-quake-prelude-to-apocalypse-and-mordrigors-demise.json](./196580-quake-prelude-to-apocalypse-and-mordrigors-demise.json) |
+| Quake: Rapture | 196653 | [196653-quake-rapture.json](./196653-quake-rapture.json) |
 | Quake: Raven Keep | 142275 | [142275-quake-raven-keep.json](./142275-quake-raven-keep.json) |
 | Quake: Realms of Tiddles | 202929 | [202929-quake-realms-of-tiddles.json](./202929-quake-realms-of-tiddles.json) |
 | Quake: Retro Jam Egyptian | 196725 | [196725-quake-retro-jam-egyptian.json](./196725-quake-retro-jam-egyptian.json) |
 | Quake: Retro Jam Windtunnel | 196726 | [196726-quake-retro-jam-windtunnel.json](./196726-quake-retro-jam-windtunnel.json) |
 | Quake: Sewer Jam | 196799 | [196799-quake-sewer-jam.json](./196799-quake-sewer-jam.json) |
+| Quake: Soul of Evil | 196644 | [196644-quake-soul-of-evil.json](./196644-quake-soul-of-evil.json) |
+| Quake: Soul of Evil - Indian Summer | 196650 | [196650-quake-soul-of-evil-indian-summer.json](./196650-quake-soul-of-evil-indian-summer.json) |
 | Quake: The Final Descent | 196723 | [196723-quake-the-final-descent.json](./196723-quake-the-final-descent.json) |
 | Quake: The Offering | 46627 | [46627-quake-the-offering.json](./46627-quake-the-offering.json) |
 | Quake: The Punishment Due | 280188 | [280188-quake-the-punishment-due.json](./280188-quake-the-punishment-due.json) |
 | Quake: Travail | 203189 | [203189-quake-travail.json](./203189-quake-travail.json) |
 | Quake: Underdark Overbright & Copper | 199075 | [199075-quake-underdark-overbright-and-copper.json](./199075-quake-underdark-overbright-and-copper.json) |
+| Quake: Underwater Jam | 196632 | [196632-quake-underwater-jam.json](./196632-quake-underwater-jam.json) |
+| Quake: Warp Spasm | 196631 | [196631-quake-warp-spasm.json](./196631-quake-warp-spasm.json) |
 | Quakeguy Goes to White Castle | 271234 | [271234-quakeguy-goes-to-white-castle.json](./271234-quakeguy-goes-to-white-castle.json) |
 | Qual a Capa? | 227489 | [227489-qual-a-capa.json](./227489-qual-a-capa.json) |
 | Qualatro | 380535 | [380535-qualatro.json](./380535-qualatro.json) |
@@ -489,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questscape | 294145 | [294145-questscape.json](./294145-questscape.json) |
 | Questscape: Survival | 310128 | [310128-questscape-survival.json](./310128-questscape-survival.json) |
 | Quetzal | 299302 | [299302-quetzal.json](./299302-quetzal.json) |
+| Quetzal's Call | 196651 | [196651-quetzals-call.json](./196651-quetzals-call.json) |
 | Quetzi | 300816 | [300816-quetzi.json](./300816-quetzi.json) |
 | Queue | 180255 | [180255-queue.json](./180255-queue.json) |
 | Queue Simulator | 276715 | [276715-queue-simulator.json](./276715-queue-simulator.json) |
