@@ -1578,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO City Undercover | 343450 | [343450-lego-city-undercover.json](./343450-lego-city-undercover.json) |
 | LEGO Creator: Harry Potter | 66631 | [66631-lego-creator-harry-potter.json](./66631-lego-creator-harry-potter.json) |
 | LEGO DC Super-Villains: Aquaman Bundle Pack | 214483 | [214483-lego-dc-super-villains-aquaman-bundle-pack.json](./214483-lego-dc-super-villains-aquaman-bundle-pack.json) |
+| LEGO DC Super-Villains: Aquaman Movie Level Pack 1 | 207224 | [207224-lego-dc-super-villains-aquaman-movie-level-pack-1.json](./207224-lego-dc-super-villains-aquaman-movie-level-pack-1.json) |
 | LEGO DC Super-Villains: Aquaman Pack 2 | 207239 | [207239-lego-dc-super-villains-aquaman-pack-2.json](./207239-lego-dc-super-villains-aquaman-pack-2.json) |
 | LEGO DC Super-Villains: Batman - The Animated Series Level Pack | 207265 | [207265-lego-dc-super-villains-batman-the-animated-series-level-pack.json](./207265-lego-dc-super-villains-batman-the-animated-series-level-pack.json) |
 | LEGO DC Super-Villains: DC TV Series Super Heroes Character Pack | 214482 | [214482-lego-dc-super-villains-dc-tv-series-super-heroes-character-pack.json](./214482-lego-dc-super-villains-dc-tv-series-super-heroes-character-pack.json) |
@@ -2897,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lioden | 178067 | [178067-lioden.json](./178067-lioden.json) |
 | Lion | 9565 | [9565-lion.json](./9565-lion.json) |
 | Lion Bubble Tosser: The Queen of the Safari | 259078 | [259078-lion-bubble-tosser-the-queen-of-the-safari.json](./259078-lion-bubble-tosser-the-queen-of-the-safari.json) |
+| Lion Heart Soushuu-hen | 207202 | [207202-lion-heart-soushuu-hen.json](./207202-lion-heart-soushuu-hen.json) |
 | Lion Pig: Frozen Run | 259238 | [259238-lion-pig-frozen-run.json](./259238-lion-pig-frozen-run.json) |
 | Lion Quest Infinity | 157519 | [157519-lion-quest-infinity.json](./157519-lion-quest-infinity.json) |
 | Lion Tamer | 346061 | [346061-lion-tamer.json](./346061-lion-tamer.json) |
@@ -4795,6 +4797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucera | 356678 | [356678-lucera.json](./356678-lucera.json) |
 | Lucerna Tenebris | 180767 | [180767-lucerna-tenebris.json](./180767-lucerna-tenebris.json) |
 | Lucha Align | 375420 | [375420-lucha-align.json](./375420-lucha-align.json) |
+| Lucha Caliente | 207221 | [207221-lucha-caliente.json](./207221-lucha-caliente.json) |
 | Lucha Libre AAA: Héroes del Ring | 264875 | [264875-lucha-libre-aaa-heroes-del-ring.json](./264875-lucha-libre-aaa-heroes-del-ring.json) |
 | Luci RPG | 228678 | [228678-luci-rpg.json](./228678-luci-rpg.json) |
 | Lucia and the Possessed World | 266988 | [266988-lucia-and-the-possessed-world.json](./266988-lucia-and-the-possessed-world.json) |
