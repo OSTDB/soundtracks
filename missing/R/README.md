@@ -1511,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Car Parking 3D | 256436 | [256436-real-car-parking-3d.json](./256436-real-car-parking-3d.json) |
 | Real Communism | 273963 | [273963-real-communism.json](./273963-real-communism.json) |
 | Real Cricket 20 | 202113 | [202113-real-cricket-20.json](./202113-real-cricket-20.json) |
+| Real Cricket 22 | 202192 | [202192-real-cricket-22.json](./202192-real-cricket-22.json) |
 | Real Cricket Go | 233506 | [233506-real-cricket-go.json](./233506-real-cricket-go.json) |
 | Real Cricket™ 16: English Bash | 242682 | [242682-real-cricket-16-english-bash.json](./242682-real-cricket-16-english-bash.json) |
 | Real Crimes: Jack the Ripper | 137474 | [137474-real-crimes-jack-the-ripper.json](./137474-real-crimes-jack-the-ripper.json) |
@@ -2922,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 5: Collector's Edition | 41593 | [41593-resident-evil-5-collectors-edition.json](./41593-resident-evil-5-collectors-edition.json) |
 | Resident Evil 5: Gold Edition | 24347 | [24347-resident-evil-5-gold-edition.json](./24347-resident-evil-5-gold-edition.json) |
 | Resident Evil 6 Remastered | 41858 | [41858-resident-evil-6-remastered.json](./41858-resident-evil-6-remastered.json) |
+| Resident Evil 6: Survivors Mode | 202196 | [202196-resident-evil-6-survivors-mode.json](./202196-resident-evil-6-survivors-mode.json) |
 | Resident Evil 7 Gold Edition & Village Gold Edition | 234684 | [234684-resident-evil-7-gold-edition-and-village-gold-edition.json](./234684-resident-evil-7-gold-edition-and-village-gold-edition.json) |
 | Resident Evil 7 Teaser: Beginning Hour | 90566 | [90566-resident-evil-7-teaser-beginning-hour.json](./90566-resident-evil-7-teaser-beginning-hour.json) |
 | Resident Evil 7: Biohazard - Gold Edition Grotesque Version | 167065 | [167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json](./167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json) |
@@ -6481,6 +6483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune II | 55149 | [55149-rune-ii.json](./55149-rune-ii.json) |
 | Rune II: Berserker Rage Edition | 202216 | [202216-rune-ii-berserker-rage-edition.json](./202216-rune-ii-berserker-rage-edition.json) |
 | Rune II: Decapitation Edition | 139881 | [139881-rune-ii-decapitation-edition.json](./139881-rune-ii-decapitation-edition.json) |
+| Rune II: God Slayer Edition | 202215 | [202215-rune-ii-god-slayer-edition.json](./202215-rune-ii-god-slayer-edition.json) |
 | Rune in the Three Kingdoms | 278674 | [278674-rune-in-the-three-kingdoms.json](./278674-rune-in-the-three-kingdoms.json) |
 | Rune Legacy Idle | 377598 | [377598-rune-legacy-idle.json](./377598-rune-legacy-idle.json) |
 | Rune Raiders | 22327 | [22327-rune-raiders.json](./22327-rune-raiders.json) |
