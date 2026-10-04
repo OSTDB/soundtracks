@@ -4879,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diptych: The Great War | 199135 | [199135-diptych-the-great-war.json](./199135-diptych-the-great-war.json) |
 | Dirappen Restoration | 265700 | [265700-dirappen-restoration.json](./265700-dirappen-restoration.json) |
 | Dire | 182830 | [182830-dire.json](./182830-dire.json) |
+| Dire Destiny: Time Travel | 217227 | [217227-dire-destiny-time-travel.json](./217227-dire-destiny-time-travel.json) |
 | Dire Echo | 376541 | [376541-dire-echo.json](./376541-dire-echo.json) |
 | Dire Island | 290482 | [290482-dire-island.json](./290482-dire-island.json) |
 | Dire Vengeance: Deluxe | 223570 | [223570-dire-vengeance-deluxe.json](./223570-dire-vengeance-deluxe.json) |
@@ -5514,6 +5515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity: Original Sin - The Source Saga | 133908 | [133908-divinity-original-sin-the-source-saga.json](./133908-divinity-original-sin-the-source-saga.json) |
 | Divinoids | 132077 | [132077-divinoids.json](./132077-divinoids.json) |
 | Divinus Vanitas | 215921 | [215921-divinus-vanitas.json](./215921-divinus-vanitas.json) |
+| Division | 217209 | [217209-division.json](./217209-division.json) |
 | Division 1 | 42174 | [42174-division-1.json](./42174-division-1.json) |
 | Dìwáng Chāiqiān Bàn | 367485 | [367485-diwang-chaiqian-ban.json](./367485-diwang-chaiqian-ban.json) |
 | DIY Fashion Star - Design Hacks Clothing Game | 104486 | [104486-diy-fashion-star-design-hacks-clothing-game.json](./104486-diy-fashion-star-design-hacks-clothing-game.json) |
@@ -8119,6 +8121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamcore: Playrooms | 347846 | [347846-dreamcore-playrooms.json](./347846-dreamcore-playrooms.json) |
 | Dreamcore95 Idle | 322138 | [322138-dreamcore95-idle.json](./322138-dreamcore95-idle.json) |
 | DreamDayKi | 202355 | [202355-dreamdayki.json](./202355-dreamdayki.json) |
+| Dreamed | 217342 | [217342-dreamed.json](./217342-dreamed.json) |
 | Dreamed Away | 220745 | [220745-dreamed-away.json](./220745-dreamed-away.json) |
 | Dreamer | 101641 | [101641-dreamer.json](./101641-dreamer.json) |
 | Dreamer Series: Zoo Keeper | 230289 | [230289-dreamer-series-zoo-keeper.json](./230289-dreamer-series-zoo-keeper.json) |
@@ -8736,6 +8739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Force | 413669 | [413669-dual-force.json](./413669-dual-force.json) |
 | Dual Fury | 187842 | [187842-dual-fury.json](./187842-dual-fury.json) |
 | Dual Gear | 33551 | [33551-dual-gear.json](./33551-dual-gear.json) |
+| Dual Gunstrike | 217220 | [217220-dual-gunstrike.json](./217220-dual-gunstrike.json) |
 | Dual Hearts | 44717 | [44717-dual-hearts.json](./44717-dual-hearts.json) |
 | Dual Heroes | 3477 | [3477-dual-heroes.json](./3477-dual-heroes.json) |
 | Dual Orb | 15906 | [15906-dual-orb.json](./15906-dual-orb.json) |
@@ -9034,6 +9038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dung Slinger | 410342 | [410342-dung-slinger.json](./410342-dung-slinger.json) |
 | Dungemon | 339930 | [339930-dungemon.json](./339930-dungemon.json) |
 | Dungen | 169436 | [169436-dungen.json](./169436-dungen.json) |
+| Dungene | 217354 | [217354-dungene.json](./217354-dungene.json) |
 | Dungeon | 227756 | [227756-dungeon.json](./227756-dungeon.json) |
 | Dungeon | 86095 | [86095-dungeon.json](./86095-dungeon.json) |
 | Dungeon & Adventure | 220590 | [220590-dungeon-and-adventure.json](./220590-dungeon-and-adventure.json) |
