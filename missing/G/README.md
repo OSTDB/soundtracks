@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Over: A Musical RPG?? | 207767 | [207767-game-over-a-musical-rpg.json](./207767-game-over-a-musical-rpg.json) |
 | Game Over! | 380539 | [380539-game-over.json](./380539-game-over.json) |
 | Game Pack CD: 37 VGA Games Volume 2 | 137574 | [137574-game-pack-cd-37-vga-games-volume-2.json](./137574-game-pack-cd-37-vga-games-volume-2.json) |
+| Game Party | 208265 | [208265-game-party.json](./208265-game-party.json) |
 | Game Party 3 | 76982 | [76982-game-party-3.json](./76982-game-party-3.json) |
 | Game Quest: The Backlog Battler | 346715 | [346715-game-quest-the-backlog-battler.json](./346715-game-quest-the-backlog-battler.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
@@ -2344,7 +2345,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Puzzle | 112979 | [112979-girls-puzzle.json](./112979-girls-puzzle.json) |
 | Girls Rest | 257954 | [257954-girls-rest.json](./257954-girls-rest.json) |
 | Girls Tennis League | 240782 | [240782-girls-tennis-league.json](./240782-girls-tennis-league.json) |
+| Girls und Panzer: Atsumare! Minna no Sensha-dou | 208242 | [208242-girls-und-panzer-atsumare-minna-no-sensha-dou.json](./208242-girls-und-panzer-atsumare-minna-no-sensha-dou.json) |
 | Girls und Panzer: Dream Tank Match - Premium Edition | 166182 | [166182-girls-und-panzer-dream-tank-match-premium-edition.json](./166182-girls-und-panzer-dream-tank-match-premium-edition.json) |
+| Girls und Panzer: Senshadou Daisakusen! | 208236 | [208236-girls-und-panzer-senshadou-daisakusen.json](./208236-girls-und-panzer-senshadou-daisakusen.json) |
 | Girls VR | 109708 | [109708-girls-vr.json](./109708-girls-vr.json) |
 | Girls With Secrets | 294397 | [294397-girls-with-secrets.json](./294397-girls-with-secrets.json) |
 | Girls x Battle 2 | 137467 | [137467-girls-x-battle-2.json](./137467-girls-x-battle-2.json) |
