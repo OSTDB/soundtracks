@@ -6408,6 +6408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurricane chase | 120775 | [120775-hurricane-chase.json](./120775-hurricane-chase.json) |
 | Hurricane Heroes | 369684 | [369684-hurricane-heroes.json](./369684-hurricane-heroes.json) |
 | Hurricane Ship Ghost | 104833 | [104833-hurricane-ship-ghost.json](./104833-hurricane-ship-ghost.json) |
+| Hurry Hurry Heal Me | 185465 | [185465-hurry-hurry-heal-me.json](./185465-hurry-hurry-heal-me.json) |
 | Hurry Up Bird Hunter! | 82107 | [82107-hurry-up-bird-hunter.json](./82107-hurry-up-bird-hunter.json) |
 | Hurt Me Plenty | 20248 | [20248-hurt-me-plenty.json](./20248-hurt-me-plenty.json) |
 | Hush | 34988 | [34988-hush.json](./34988-hush.json) |
