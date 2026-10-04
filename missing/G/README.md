@@ -2171,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gig Life | 198449 | [198449-gig-life.json](./198449-gig-life.json) |
 | Giga Fighters Batman & Robin | 218016 | [218016-giga-fighters-batman-and-robin.json](./218016-giga-fighters-batman-and-robin.json) |
 | Giga Fighters WCW/nWo | 218017 | [218017-giga-fighters-wcw-nwo.json](./218017-giga-fighters-wcw-nwo.json) |
+| Giga Pets Plus: Rugrats | 198880 | [198880-giga-pets-plus-rugrats.json](./198880-giga-pets-plus-rugrats.json) |
 | Giga Wing 2 | 9163 | [9163-giga-wing-2.json](./9163-giga-wing-2.json) |
 | GigaBash: Final Ascension DLC | 404835 | [404835-gigabash-final-ascension-dlc.json](./404835-gigabash-final-ascension-dlc.json) |
 | GigaBash: GAMERA -Rebirth- DLC | 404834 | [404834-gigabash-gamera-rebirth-dlc.json](./404834-gigabash-gamera-rebirth-dlc.json) |
