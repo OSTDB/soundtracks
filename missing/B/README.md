@@ -6736,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Shadows | 235204 | [235204-book-of-shadows.json](./235204-book-of-shadows.json) |
 | Book of Yog | 126520 | [126520-book-of-yog.json](./126520-book-of-yog.json) |
 | Book Organizer | 405095 | [405095-book-organizer.json](./405095-book-organizer.json) |
+| Book Recommendations | 207223 | [207223-book-recommendations.json](./207223-book-recommendations.json) |
 | Book Seeker | 121536 | [121536-book-seeker.json](./121536-book-seeker.json) |
 | Book Smugglers | 291522 | [291522-book-smugglers.json](./291522-book-smugglers.json) |
 | Book Travelers II: A Royal Story - Collector's Edition | 362845 | [362845-book-travelers-ii-a-royal-story-collectors-edition.json](./362845-book-travelers-ii-a-royal-story-collectors-edition.json) |
