@@ -1340,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo's Bizarre RPG: Phantom Blood | 172763 | [172763-jojos-bizarre-rpg-phantom-blood.json](./172763-jojos-bizarre-rpg-phantom-blood.json) |
 | JoJo's Diner | 225295 | [225295-jojos-diner.json](./225295-jojos-diner.json) |
 | JoJodle | 225621 | [225621-jojodle.json](./225621-jojodle.json) |
+| JojoVsDio | 220690 | [220690-jojovsdio.json](./220690-jojovsdio.json) |
 | Jojoy!: Ecorpy Islands | 244850 | [244850-jojoy-ecorpy-islands.json](./244850-jojoy-ecorpy-islands.json) |
 | Joke's On Us | 352194 | [352194-jokes-on-us.json](./352194-jokes-on-us.json) |
 | Joker & Teacher | 369556 | [369556-joker-and-teacher.json](./369556-joker-and-teacher.json) |
