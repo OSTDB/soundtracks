@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harbingers of Desspair | 320959 | [320959-harbingers-of-desspair.json](./320959-harbingers-of-desspair.json) |
 | Harbingers of Destiny | 392412 | [392412-harbingers-of-destiny.json](./392412-harbingers-of-destiny.json) |
 | Harbor Havoc 3D | 181165 | [181165-harbor-havoc-3d.json](./181165-harbor-havoc-3d.json) |
+| Harbor Tycoon | 192228 | [192228-harbor-tycoon.json](./192228-harbor-tycoon.json) |
 | Harborland de Tsukamaete | 317009 | [317009-harborland-de-tsukamaete.json](./317009-harborland-de-tsukamaete.json) |
 | Harbour Master | 206089 | [206089-harbour-master.json](./206089-harbour-master.json) |
 | Harca | 340413 | [340413-harca.json](./340413-harca.json) |
@@ -2205,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellfire | 319022 | [319022-hellfire.json](./319022-hellfire.json) |
 | Hellfire | 321796 | [321796-hellfire.json](./321796-hellfire.json) |
 | Hellfire | 370763 | [370763-hellfire.json](./370763-hellfire.json) |
+| Hellfire 1988: An Oregon Story | 192237 | [192237-hellfire-1988-an-oregon-story.json](./192237-hellfire-1988-an-oregon-story.json) |
 | Hellfire 2 | 274130 | [274130-hellfire-2.json](./274130-hellfire-2.json) |
 | Hellfire Attack | 71587 | [71587-hellfire-attack.json](./71587-hellfire-attack.json) |
 | Hellfire Hair | 391301 | [391301-hellfire-hair.json](./391301-hellfire-hair.json) |
@@ -2214,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellfire Zone | 68755 | [68755-hellfire-zone.json](./68755-hellfire-zone.json) |
 | Hellfire: Reborn | 274131 | [274131-hellfire-reborn.json](./274131-hellfire-reborn.json) |
 | HellFire: The Summoning | 27690 | [27690-hellfire-the-summoning.json](./27690-hellfire-the-summoning.json) |
+| HellFull: The Last Hope | 192273 | [192273-hellfull-the-last-hope.json](./192273-hellfull-the-last-hope.json) |
 | HellFurnace | 237951 | [237951-hellfurnace.json](./237951-hellfurnace.json) |
 | Hellgate | 125403 | [125403-hellgate.json](./125403-hellgate.json) |
 | Hellgate | 291043 | [291043-hellgate.json](./291043-hellgate.json) |
@@ -2958,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Fighter | 66720 | [66720-hero-fighter.json](./66720-hero-fighter.json) |
 | Hero Fighters Club | 62693 | [62693-hero-fighters-club.json](./62693-hero-fighters-club.json) |
 | Hero Fodder | 224673 | [224673-hero-fodder.json](./224673-hero-fodder.json) |
+| Hero for Hire | 192248 | [192248-hero-for-hire.json](./192248-hero-for-hire.json) |
 | Hero Generations: ReGen | 33556 | [33556-hero-generations-regen.json](./33556-hero-generations-regen.json) |
 | Hero Great Wars | 252131 | [252131-hero-great-wars.json](./252131-hero-great-wars.json) |
 | Hero Hawk | 195042 | [195042-hero-hawk.json](./195042-hero-hawk.json) |
@@ -4864,6 +4868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homo Flimsy | 103433 | [103433-homo-flimsy.json](./103433-homo-flimsy.json) |
 | Homunculus | 255669 | [255669-homunculus.json](./255669-homunculus.json) |
 | Homunculus | 319807 | [319807-homunculus.json](./319807-homunculus.json) |
+| Homunculus Hotel | 192268 | [192268-homunculus-hotel.json](./192268-homunculus-hotel.json) |
 | Homura | 43330 | [43330-homura.json](./43330-homura.json) |
 | Homura Hime | 199055 | [199055-homura-hime.json](./199055-homura-hime.json) |
 | Homura: The Crimson Warriors - Deluxe Edition | 390530 | [390530-homura-the-crimson-warriors-deluxe-edition.json](./390530-homura-the-crimson-warriors-deluxe-edition.json) |
