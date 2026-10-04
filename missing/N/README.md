@@ -2054,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2002 | 815 | [815-nhl-2002.json](./815-nhl-2002.json) |
 | NHL 2005 | 4043 | [4043-nhl-2005.json](./4043-nhl-2005.json) |
 | NHL 22 | 165197 | [165197-nhl-22.json](./165197-nhl-22.json) |
+| NHL 22: X-Factor Edition | 172557 | [172557-nhl-22-x-factor-edition.json](./172557-nhl-22-x-factor-edition.json) |
 | NHL 23 | 214675 | [214675-nhl-23.json](./214675-nhl-23.json) |
 | NHL 25 | 314499 | [314499-nhl-25.json](./314499-nhl-25.json) |
 | NHL 27 | 408771 | [408771-nhl-27.json](./408771-nhl-27.json) |
