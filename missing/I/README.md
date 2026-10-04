@@ -620,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icemaze Cave: Skate Escape | 195560 | [195560-icemaze-cave-skate-escape.json](./195560-icemaze-cave-skate-escape.json) |
 | Iceroyds! | 126502 | [126502-iceroyds.json](./126502-iceroyds.json) |
 | Icesolation | 116121 | [116121-icesolation.json](./116121-icesolation.json) |
+| Icewall | 188987 | [188987-icewall.json](./188987-icewall.json) |
 | Icewind Dale | 753 | [753-icewind-dale.json](./753-icewind-dale.json) |
 | Icewind Dale II | 876 | [876-icewind-dale-ii.json](./876-icewind-dale-ii.json) |
 | Icewind Dale II: Collector's Edition | 232152 | [232152-icewind-dale-ii-collectors-edition.json](./232152-icewind-dale-ii-collectors-edition.json) |
