@@ -6269,6 +6269,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
 | The Last Child | 289998 | [289998-the-last-child.json](./289998-the-last-child.json) |
 | The Last Chronomancer | 146352 | [146352-the-last-chronomancer.json](./146352-the-last-chronomancer.json) |
+| The Last City | 202724 | [202724-the-last-city.json](./202724-the-last-city.json) |
+| The Last City | 202725 | [202725-the-last-city.json](./202725-the-last-city.json) |
 | The Last Contact | 112776 | [112776-the-last-contact.json](./112776-the-last-contact.json) |
 | The Last Corpse Forge: Survivor | 342186 | [342186-the-last-corpse-forge-survivor.json](./342186-the-last-corpse-forge-survivor.json) |
 | The Last Cosmonaut | 413594 | [413594-the-last-cosmonaut.json](./413594-the-last-cosmonaut.json) |
@@ -9672,6 +9674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unseen Fears: Ominous Talent | 187937 | [187937-the-unseen-fears-ominous-talent.json](./187937-the-unseen-fears-ominous-talent.json) |
 | The Unseen Fears: Outlive - Collector's Edition | 360664 | [360664-the-unseen-fears-outlive-collectors-edition.json](./360664-the-unseen-fears-outlive-collectors-edition.json) |
 | The Unseen Fears: Stories Untold | 187940 | [187940-the-unseen-fears-stories-untold.json](./187940-the-unseen-fears-stories-untold.json) |
+| The Unseen Fears: Stories Untold - Collector's Edition | 202738 | [202738-the-unseen-fears-stories-untold-collectors-edition.json](./202738-the-unseen-fears-stories-untold-collectors-edition.json) |
 | The Unsettled | 199665 | [199665-the-unsettled.json](./199665-the-unsettled.json) |
 | The Unsolved | 418549 | [418549-the-unsolved.json](./418549-the-unsolved.json) |
 | The Unsolved | 66216 | [66216-the-unsolved.json](./66216-the-unsolved.json) |
