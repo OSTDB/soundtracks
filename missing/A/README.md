@@ -499,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Second Chance | 201290 | [201290-a-second-chance.json](./201290-a-second-chance.json) |
 | A Second Face: The Eye of Geltz is watching Us | 67684 | [67684-a-second-face-the-eye-of-geltz-is-watching-us.json](./67684-a-second-face-the-eye-of-geltz-is-watching-us.json) |
 | A Second Mario Bros. X Thing: Analog Funk | 304212 | [304212-a-second-mario-bros-x-thing-analog-funk.json](./304212-a-second-mario-bros-x-thing-analog-funk.json) |
+| A Series of Temporal Mishaps | 193269 | [193269-a-series-of-temporal-mishaps.json](./193269-a-series-of-temporal-mishaps.json) |
 | A Session with Dr. Liebnitz | 338402 | [338402-a-session-with-dr-liebnitz.json](./338402-a-session-with-dr-liebnitz.json) |
 | A Sexy Tour With Marie | 368576 | [368576-a-sexy-tour-with-marie.json](./368576-a-sexy-tour-with-marie.json) |
 | A Sexy Tour With Riley | 379550 | [379550-a-sexy-tour-with-riley.json](./379550-a-sexy-tour-with-riley.json) |
@@ -791,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aatral Origins | 346238 | [346238-aatral-origins.json](./346238-aatral-origins.json) |
 | Aatrox's Journey to be Reverted | 177322 | [177322-aatroxs-journey-to-be-reverted.json](./177322-aatroxs-journey-to-be-reverted.json) |
 | Aavegotchi: Gotchiverse | 195528 | [195528-aavegotchi-gotchiverse.json](./195528-aavegotchi-gotchiverse.json) |
+| Ab Aeterno | 193291 | [193291-ab-aeterno.json](./193291-ab-aeterno.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
 | Abaddon | 305287 | [305287-abaddon.json](./305287-abaddon.json) |
 | Abadox: The Deadly Inner War | 7903 | [7903-abadox-the-deadly-inner-war.json](./7903-abadox-the-deadly-inner-war.json) |
@@ -820,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abbot's Book | 92095 | [92095-abbots-book.json](./92095-abbots-book.json) |
 | Abby Héroes en apuros | 316790 | [316790-abby-heroes-en-apuros.json](./316790-abby-heroes-en-apuros.json) |
 | Abby Monkey Musical Puzzle Games | 96753 | [96753-abby-monkey-musical-puzzle-games.json](./96753-abby-monkey-musical-puzzle-games.json) |
+| ABC Match with Me | 193300 | [193300-abc-match-with-me.json](./193300-abc-match-with-me.json) |
 | ABC Memory Match | 99415 | [99415-abc-memory-match.json](./99415-abc-memory-match.json) |
 | ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
 | ABC Sports Presents: The Palm Spring Open | 46559 | [46559-abc-sports-presents-the-palm-spring-open.json](./46559-abc-sports-presents-the-palm-spring-open.json) |
@@ -961,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abysm 2: Spirit Falcon | 201230 | [201230-abysm-2-spirit-falcon.json](./201230-abysm-2-spirit-falcon.json) |
 | Abysmal Gateway | 312661 | [312661-abysmal-gateway.json](./312661-abysmal-gateway.json) |
 | Abyss | 12288 | [12288-abyss.json](./12288-abyss.json) |
+| Abyss | 193294 | [193294-abyss.json](./193294-abyss.json) |
 | Abyss | 210669 | [210669-abyss.json](./210669-abyss.json) |
 | Abyss | 80512 | [80512-abyss.json](./80512-abyss.json) |
 | Abyss | 8524 | [8524-abyss.json](./8524-abyss.json) |
@@ -7837,6 +7841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Equilibrium | 140358 | [140358-astral-equilibrium.json](./140358-astral-equilibrium.json) |
 | Astral Fable | 303187 | [303187-astral-fable.json](./303187-astral-fable.json) |
 | Astral Fantasy | 350662 | [350662-astral-fantasy.json](./350662-astral-fantasy.json) |
+| Astral Flux | 193273 | [193273-astral-flux.json](./193273-astral-flux.json) |
 | Astral Green | 184079 | [184079-astral-green.json](./184079-astral-green.json) |
 | Astral Guardians | 303188 | [303188-astral-guardians.json](./303188-astral-guardians.json) |
 | Astral Masters | 140983 | [140983-astral-masters.json](./140983-astral-masters.json) |
