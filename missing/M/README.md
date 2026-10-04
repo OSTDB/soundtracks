@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Moku Proud | 395568 | [395568-make-moku-proud.json](./395568-make-moku-proud.json) |
 | Make My Car | 346227 | [346227-make-my-car.json](./346227-make-my-car.json) |
 | Make My Life Worse | 318788 | [318788-make-my-life-worse.json](./318788-make-my-life-worse.json) |
+| Make or Break: The Routine | 180644 | [180644-make-or-break-the-routine.json](./180644-make-or-break-the-routine.json) |
 | Make Route | 109658 | [109658-make-route.json](./109658-make-route.json) |
 | Make Sure It's Closed | 176491 | [176491-make-sure-its-closed.json](./176491-make-sure-its-closed.json) |
 | Make That Date! | 313896 | [313896-make-that-date.json](./313896-make-that-date.json) |
@@ -3041,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maten no Soumetsu | 46073 | [46073-maten-no-soumetsu.json](./46073-maten-no-soumetsu.json) |
 | Matendouji | 215140 | [215140-matendouji.json](./215140-matendouji.json) |
 | Material Brave | 180612 | [180612-material-brave.json](./180612-material-brave.json) |
+| Material Brave Ignition | 180630 | [180630-material-brave-ignition.json](./180630-material-brave-ignition.json) |
 | Materialization of Memories | 248019 | [248019-materialization-of-memories.json](./248019-materialization-of-memories.json) |
 | MaternalBound Redux | 219084 | [219084-maternalbound-redux.json](./219084-maternalbound-redux.json) |
 | MaternalBound: An EarthBound & Mother 2 Bond! | 313344 | [313344-maternalbound-an-earthbound-and-mother-2-bond.json](./313344-maternalbound-an-earthbound-and-mother-2-bond.json) |
@@ -6329,6 +6331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindless Running | 33533 | [33533-mindless-running.json](./33533-mindless-running.json) |
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
 | MindLoop | 365195 | [365195-mindloop.json](./365195-mindloop.json) |
+| Mindmazer | 180646 | [180646-mindmazer.json](./180646-mindmazer.json) |
 | MindMessenger | 342156 | [342156-mindmessenger.json](./342156-mindmessenger.json) |
 | Mindnight | 52260 | [52260-mindnight.json](./52260-mindnight.json) |
 | Minds Define Us | 414511 | [414511-minds-define-us.json](./414511-minds-define-us.json) |
@@ -7088,6 +7091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misplaced | 172050 | [172050-misplaced.json](./172050-misplaced.json) |
 | Misplaced | 300034 | [300034-misplaced.json](./300034-misplaced.json) |
 | Misplaced | 413185 | [413185-misplaced.json](./413185-misplaced.json) |
+| Misplaced. | 180566 | [180566-misplaced.json](./180566-misplaced.json) |
 | Miss | 242777 | [242777-miss.json](./242777-miss.json) |
 | Miss Agatha's Palace | 187199 | [187199-miss-agathas-palace.json](./187199-miss-agathas-palace.json) |
 | Miss Bellevue Never Heard the Whistle | 362961 | [362961-miss-bellevue-never-heard-the-whistle.json](./362961-miss-bellevue-never-heard-the-whistle.json) |
