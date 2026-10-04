@@ -10019,6 +10019,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soviet Souls | 118329 | [118329-soviet-souls.json](./118329-soviet-souls.json) |
 | Soviet Union 2010 | 267567 | [267567-soviet-union-2010.json](./267567-soviet-union-2010.json) |
 | Soviet Union 2011 | 404414 | [404414-soviet-union-2011.json](./404414-soviet-union-2011.json) |
+| Soviet Unterzoegersdorf: Sector I | 175775 | [175775-soviet-unterzoegersdorf-sector-i.json](./175775-soviet-unterzoegersdorf-sector-i.json) |
+| Soviet Unterzoegersdorf: Sector II | 175776 | [175776-soviet-unterzoegersdorf-sector-ii.json](./175776-soviet-unterzoegersdorf-sector-ii.json) |
 | Soviet Unterzögersdorf: Sector 1 | 78651 | [78651-soviet-unterzogersdorf-sector-1.json](./78651-soviet-unterzogersdorf-sector-1.json) |
 | Soviet Village | 370879 | [370879-soviet-village.json](./370879-soviet-village.json) |
 | Sovietpunk: Chapter one | 168852 | [168852-sovietpunk-chapter-one.json](./168852-sovietpunk-chapter-one.json) |
@@ -10426,6 +10428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ops Arcade | 285480 | [285480-space-ops-arcade.json](./285480-space-ops-arcade.json) |
 | Space Ops VR | 117705 | [117705-space-ops-vr.json](./117705-space-ops-vr.json) |
 | Space Orb | 105014 | [105014-space-orb.json](./105014-space-orb.json) |
+| Space Orbs | 175766 | [175766-space-orbs.json](./175766-space-orbs.json) |
 | Space Orcs Brawl | 348895 | [348895-space-orcs-brawl.json](./348895-space-orcs-brawl.json) |
 | Space Out | 195166 | [195166-space-out.json](./195166-space-out.json) |
 | Space Out | 72627 | [72627-space-out.json](./72627-space-out.json) |
@@ -10955,6 +10958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Keep | 258557 | [258557-spectral-keep.json](./258557-spectral-keep.json) |
 | Spectral Shades: Fragments | 191199 | [191199-spectral-shades-fragments.json](./191199-spectral-shades-fragments.json) |
 | Spectral Showdown | 211799 | [211799-spectral-showdown.json](./211799-spectral-showdown.json) |
+| Spectral Souls | 175756 | [175756-spectral-souls.json](./175756-spectral-souls.json) |
 | Spectral Souls | 39194 | [39194-spectral-souls.json](./39194-spectral-souls.json) |
 | Spectral Souls: Resurrection of the Ethereal Empires | 44519 | [44519-spectral-souls-resurrection-of-the-ethereal-empires.json](./44519-spectral-souls-resurrection-of-the-ethereal-empires.json) |
 | Spectral Survivor | 307581 | [307581-spectral-survivor.json](./307581-spectral-survivor.json) |
@@ -13444,6 +13448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
 | Stars Shooter | 245301 | [245301-stars-shooter.json](./245301-stars-shooter.json) |
 | Stars Survivor | 291481 | [291481-stars-survivor.json](./291481-stars-survivor.json) |
+| Stars Wheel | 175747 | [175747-stars-wheel.json](./175747-stars-wheel.json) |
 | Stars, Stripes and Subgames: Collector's Edition | 308494 | [308494-stars-stripes-and-subgames-collectors-edition.json](./308494-stars-stripes-and-subgames-collectors-edition.json) |
 | Starsand | 152754 | [152754-starsand.json](./152754-starsand.json) |
 | Starsand Island | 310885 | [310885-starsand-island.json](./310885-starsand-island.json) |
@@ -14160,6 +14165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Synthwave Escape | 202733 | [202733-stickman-synthwave-escape.json](./202733-stickman-synthwave-escape.json) |
 | Stickman turbo destruiction | 349465 | [349465-stickman-turbo-destruiction.json](./349465-stickman-turbo-destruiction.json) |
 | Stickman Turbo Dismounting 3D | 95841 | [95841-stickman-turbo-dismounting-3d.json](./95841-stickman-turbo-dismounting-3d.json) |
+| Stickman vs Circles | 175750 | [175750-stickman-vs-circles.json](./175750-stickman-vs-circles.json) |
 | StickMan vs. MagicWorld | 265596 | [265596-stickman-vs-magicworld.json](./265596-stickman-vs-magicworld.json) |
 | Stickman War Lightsaber Games | 100746 | [100746-stickman-war-lightsaber-games.json](./100746-stickman-war-lightsaber-games.json) |
 | Stickman War: Stick Fight Army | 248160 | [248160-stickman-war-stick-fight-army.json](./248160-stickman-war-stick-fight-army.json) |
@@ -14709,6 +14715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamer Mini Games Collection | 324508 | [324508-streamer-mini-games-collection.json](./324508-streamer-mini-games-collection.json) |
 | Streamer Party | 384105 | [384105-streamer-party.json](./384105-streamer-party.json) |
 | Streamer Screamer | 375937 | [375937-streamer-screamer.json](./375937-streamer-screamer.json) |
+| Streamer Simulator | 175762 | [175762-streamer-simulator.json](./175762-streamer-simulator.json) |
 | Streamer Top | 370843 | [370843-streamer-top.json](./370843-streamer-top.json) |
 | Streamer vs. Chat | 414605 | [414605-streamer-vs-chat.json](./414605-streamer-vs-chat.json) |
 | StreamerFun | 413064 | [413064-streamerfun.json](./413064-streamerfun.json) |
@@ -18783,6 +18790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordash | 259564 | [259564-swordash.json](./259564-swordash.json) |
 | Swordbreaker the Game | 34192 | [34192-swordbreaker-the-game.json](./34192-swordbreaker-the-game.json) |
 | Swordbreaker: Back to the Castle | 113751 | [113751-swordbreaker-back-to-the-castle.json](./113751-swordbreaker-back-to-the-castle.json) |
+| Swordcery | 175772 | [175772-swordcery.json](./175772-swordcery.json) |
 | Swordfight | 40794 | [40794-swordfight.json](./40794-swordfight.json) |
 | Swordhaven: Iron Conspiracy | 290620 | [290620-swordhaven-iron-conspiracy.json](./290620-swordhaven-iron-conspiracy.json) |
 | Swordia | 309882 | [309882-swordia.json](./309882-swordia.json) |
