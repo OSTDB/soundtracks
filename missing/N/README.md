@@ -1168,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo 2045 | 148536 | [148536-neo-2045.json](./148536-neo-2045.json) |
 | Neo 21 | 75491 | [75491-neo-21.json](./75491-neo-21.json) |
 | Neo Angelique | 72681 | [72681-neo-angelique.json](./72681-neo-angelique.json) |
+| Neo Angelique Special | 221225 | [221225-neo-angelique-special.json](./221225-neo-angelique-special.json) |
 | Neo Artifacts | 393819 | [393819-neo-artifacts.json](./393819-neo-artifacts.json) |
 | Neo Atlas 1469 | 27318 | [27318-neo-atlas-1469.json](./27318-neo-atlas-1469.json) |
 | Neo Berlin 2087 | 244993 | [244993-neo-berlin-2087.json](./244993-neo-berlin-2087.json) |
@@ -1895,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Stop Zombie | 72364 | [72364-next-stop-zombie.json](./72364-next-stop-zombie.json) |
 | Next Sweetstop | 253884 | [253884-next-sweetstop.json](./253884-next-sweetstop.json) |
 | Next Up Hero | 45026 | [45026-next-up-hero.json](./45026-next-up-hero.json) |
+| Nextbots In Backrooms: Obunga | 221228 | [221228-nextbots-in-backrooms-obunga.json](./221228-nextbots-in-backrooms-obunga.json) |
 | Nextbots In The Backrooms | 265729 | [265729-nextbots-in-the-backrooms.json](./265729-nextbots-in-the-backrooms.json) |
 | Nextgen Sandbox | 124710 | [124710-nextgen-sandbox.json](./124710-nextgen-sandbox.json) |
 | NextNight | 252280 | [252280-nextnight.json](./252280-nextnight.json) |
@@ -3930,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numb: Just Don't Think About It | 255103 | [255103-numb-just-dont-think-about-it.json](./255103-numb-just-dont-think-about-it.json) |
 | Numbala | 111453 | [111453-numbala.json](./111453-numbala.json) |
 | Number 7 | 291000 | [291000-number-7.json](./291000-number-7.json) |
+| Number 99 | 221095 | [221095-number-99.json](./221095-number-99.json) |
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
 | Number Chaser | 41011 | [41011-number-chaser.json](./41011-number-chaser.json) |
 | Number Crush | 366321 | [366321-number-crush.json](./366321-number-crush.json) |
