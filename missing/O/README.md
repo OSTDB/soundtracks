@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
 | Ocarina of Time Redux | 172478 | [172478-ocarina-of-time-redux.json](./172478-ocarina-of-time-redux.json) |
 | Ocarina of Time: Master Quest Redux | 172480 | [172480-ocarina-of-time-master-quest-redux.json](./172480-ocarina-of-time-master-quest-redux.json) |
+| Ocarina of Time: Spaceworld '97 Experience | 182313 | [182313-ocarina-of-time-spaceworld-97-experience.json](./182313-ocarina-of-time-spaceworld-97-experience.json) |
 | Ocaso | 278612 | [278612-ocaso.json](./278612-ocaso.json) |
 | Occidental Heroes | 388012 | [388012-occidental-heroes.json](./388012-occidental-heroes.json) |
 | Occult | 153954 | [153954-occult.json](./153954-occult.json) |
@@ -1901,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operator Ace's Simple Infinite Survival | 278734 | [278734-operator-aces-simple-infinite-survival.json](./278734-operator-aces-simple-infinite-survival.json) |
 | Operator: Drones | 257894 | [257894-operator-drones.json](./257894-operator-drones.json) |
 | Operencia: The Stolen Sun - Explorer's Edition | 154541 | [154541-operencia-the-stolen-sun-explorers-edition.json](./154541-operencia-the-stolen-sun-explorers-edition.json) |
+| Operius | 182319 | [182319-operius.json](./182319-operius.json) |
 | Operius DX | 347184 | [347184-operius-dx.json](./347184-operius-dx.json) |
 | Ophelia's Chapter | 272327 | [272327-ophelias-chapter.json](./272327-ophelias-chapter.json) |
 | Ophelia´s Paradise | 400313 | [400313-ophelia-s-paradise.json](./400313-ophelia-s-paradise.json) |
