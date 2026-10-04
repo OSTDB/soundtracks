@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagamihara/Justice | 222256 | [222256-kagamihara-justice.json](./222256-kagamihara-justice.json) |
 | Kage Fumazu | 98056 | [98056-kage-fumazu.json](./98056-kage-fumazu.json) |
 | Kageninja | 385743 | [385743-kageninja.json](./385743-kageninja.json) |
+| Kagerou | 181658 | [181658-kagerou.json](./181658-kagerou.json) |
 | Kagerou Labyrinth | 338819 | [338819-kagerou-labyrinth.json](./338819-kagerou-labyrinth.json) |
 | Kagi wo Kakushita Kago no Tori: Bird in Cage Hiding the Key | 260120 | [260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json](./260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json) |
 | Kagikko Adventure | 184457 | [184457-kagikko-adventure.json](./184457-kagikko-adventure.json) |
@@ -385,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kangaroo Court | 330172 | [330172-kangaroo-court.json](./330172-kangaroo-court.json) |
 | Kangarumble | 185149 | [185149-kangarumble.json](./185149-kangarumble.json) |
 | Kangoku Lock | 284448 | [284448-kangoku-lock.json](./284448-kangoku-lock.json) |
+| Kangoku Shounen | 181659 | [181659-kangoku-shounen.json](./181659-kangoku-shounen.json) |
 | Kangoku Suieibu: Kyouei Mizugi ni Kuikomu Inbi na Shitai | 70652 | [70652-kangoku-suieibu-kyouei-mizugi-ni-kuikomu-inbi-na-shitai.json](./70652-kangoku-suieibu-kyouei-mizugi-ni-kuikomu-inbi-na-shitai.json) |
 | Kangoorun: Fly to the Moon | 37181 | [37181-kangoorun-fly-to-the-moon.json](./37181-kangoorun-fly-to-the-moon.json) |
 | Kanhoji's Island | 286227 | [286227-kanhojis-island.json](./286227-kanhojis-island.json) |
