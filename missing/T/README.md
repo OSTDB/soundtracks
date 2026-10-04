@@ -1235,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tao Taido | 39585 | [39585-tao-taido.json](./39585-tao-taido.json) |
 | Tao Yuan Shen Chu You Ren Jia | 283374 | [283374-tao-yuan-shen-chu-you-ren-jia.json](./283374-tao-yuan-shen-chu-you-ren-jia.json) |
 | Tao's Adventure: Curse of the Demon Seal | 20495 | [20495-taos-adventure-curse-of-the-demon-seal.json](./20495-taos-adventure-curse-of-the-demon-seal.json) |
+| Taoist Priest Yan | 189028 | [189028-taoist-priest-yan.json](./189028-taoist-priest-yan.json) |
 | Táolí Dìqiú | 158203 | [158203-taoli-diqiu.json](./158203-taoli-diqiu.json) |
 | Taolu | 209944 | [209944-taolu.json](./209944-taolu.json) |
 | Taora: Survival | 235197 | [235197-taora-survival.json](./235197-taora-survival.json) |
@@ -2144,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten trials of Archer | 175200 | [175200-ten-trials-of-archer.json](./175200-ten-trials-of-archer.json) |
 | Ten Trials of Babel 2: Tower and Aurora | 372682 | [372682-ten-trials-of-babel-2-tower-and-aurora.json](./372682-ten-trials-of-babel-2-tower-and-aurora.json) |
 | Ten-chan Party! | 108264 | [108264-ten-chan-party.json](./108264-ten-chan-party.json) |
+| Ten: Ten Rooms, Ten Seconds | 189000 | [189000-ten-ten-rooms-ten-seconds.json](./189000-ten-ten-rooms-ten-seconds.json) |
 | Ten++ | 374132 | [374132-ten.json](./374132-ten.json) |
 | Tenable | 133791 | [133791-tenable.json](./133791-tenable.json) |
 | Tenacious | 111202 | [111202-tenacious.json](./111202-tenacious.json) |
@@ -4034,6 +4036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Court of Wanderers | 152793 | [152793-the-court-of-wanderers.json](./152793-the-court-of-wanderers.json) |
 | The Coven | 37114 | [37114-the-coven.json](./37114-the-coven.json) |
 | The Coveted Mirror | 25038 | [25038-the-coveted-mirror.json](./25038-the-coveted-mirror.json) |
+| The Cow Game | 189022 | [189022-the-cow-game.json](./189022-the-cow-game.json) |
 | The Cow Quiz | 217914 | [217914-the-cow-quiz.json](./217914-the-cow-quiz.json) |
 | The Cozy Garden of Forgotten Dreams | 347303 | [347303-the-cozy-garden-of-forgotten-dreams.json](./347303-the-cozy-garden-of-forgotten-dreams.json) |
 | The Crackpet Show: Happy Tree Friends Edition | 291998 | [291998-the-crackpet-show-happy-tree-friends-edition.json](./291998-the-crackpet-show-happy-tree-friends-edition.json) |
@@ -4695,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elevator | 57174 | [57174-the-elevator.json](./57174-the-elevator.json) |
 | The Elevator Breakdown | 337700 | [337700-the-elevator-breakdown.json](./337700-the-elevator-breakdown.json) |
 | The Elevator Game | 176256 | [176256-the-elevator-game.json](./176256-the-elevator-game.json) |
+| The Elevator Game with Catgirls | 188990 | [188990-the-elevator-game-with-catgirls.json](./188990-the-elevator-game-with-catgirls.json) |
 | The Elision Effect | 273415 | [273415-the-elision-effect.json](./273415-the-elision-effect.json) |
 | The Elven Forest VR | 384633 | [384633-the-elven-forest-vr.json](./384633-the-elven-forest-vr.json) |
 | The Elysian Field | 153976 | [153976-the-elysian-field.json](./153976-the-elysian-field.json) |
@@ -8452,6 +8456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Search For Above Average Life | 361752 | [361752-the-search-for-above-average-life.json](./361752-the-search-for-above-average-life.json) |
 | The Search for Amelia Earhart | 29199 | [29199-the-search-for-amelia-earhart.json](./29199-the-search-for-amelia-earhart.json) |
 | The Search for Fran 2 | 203778 | [203778-the-search-for-fran-2.json](./203778-the-search-for-fran-2.json) |
+| The Search for MR Fimple | 189003 | [189003-the-search-for-mr-fimple.json](./189003-the-search-for-mr-fimple.json) |
 | The Search for Salmon | 315637 | [315637-the-search-for-salmon.json](./315637-the-search-for-salmon.json) |
 | The Search For Sonic Mania 2 | 352175 | [352175-the-search-for-sonic-mania-2.json](./352175-the-search-for-sonic-mania-2.json) |
 | The Search for Tikiman | 265679 | [265679-the-search-for-tikiman.json](./265679-the-search-for-tikiman.json) |
