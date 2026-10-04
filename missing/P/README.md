@@ -1363,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Particle Accelerator | 357362 | [357362-particle-accelerator.json](./357362-particle-accelerator.json) |
 | Particle Fleet: Emergence | 24821 | [24821-particle-fleet-emergence.json](./24821-particle-fleet-emergence.json) |
 | Particle Mace | 17304 | [17304-particle-mace.json](./17304-particle-mace.json) |
+| Particle of God | 217223 | [217223-particle-of-god.json](./217223-particle-of-god.json) |
 | Particles | 262696 | [262696-particles.json](./262696-particles.json) |
 | Particubes | 151086 | [151086-particubes.json](./151086-particubes.json) |
 | Particula | 18179 | [18179-particula.json](./18179-particula.json) |
@@ -3895,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Dawn | 62414 | [62414-pirate-dawn.json](./62414-pirate-dawn.json) |
 | Pirate Defender | 176805 | [176805-pirate-defender.json](./176805-pirate-defender.json) |
 | Pirate Doom II | 298313 | [298313-pirate-doom-ii.json](./298313-pirate-doom-ii.json) |
+| Pirate Dragons | 217351 | [217351-pirate-dragons.json](./217351-pirate-dragons.json) |
 | Pirate Escape | 323506 | [323506-pirate-escape.json](./323506-pirate-escape.json) |
 | Pirate Fighting Simulator | 234023 | [234023-pirate-fighting-simulator.json](./234023-pirate-fighting-simulator.json) |
 | Pirate Fishing | 200173 | [200173-pirate-fishing.json](./200173-pirate-fishing.json) |
