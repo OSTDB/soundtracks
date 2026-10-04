@@ -1941,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack A Tako | 202179 | [202179-whack-a-tako.json](./202179-whack-a-tako.json) |
 | Whack a Vote: Hammering the Polls | 30785 | [30785-whack-a-vote-hammering-the-polls.json](./30785-whack-a-vote-hammering-the-polls.json) |
 | Whack First!: Fight the Moles | 212268 | [212268-whack-first-fight-the-moles.json](./212268-whack-first-fight-the-moles.json) |
+| Whack the Burglars | 193801 | [193801-whack-the-burglars.json](./193801-whack-the-burglars.json) |
 | Whack the Serial Killer | 90514 | [90514-whack-the-serial-killer.json](./90514-whack-the-serial-killer.json) |
 | Whack Your Computer | 356717 | [356717-whack-your-computer.json](./356717-whack-your-computer.json) |
 | Whack Your Ex | 193853 | [193853-whack-your-ex.json](./193853-whack-your-ex.json) |
@@ -4107,6 +4108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordle DS | 265142 | [265142-wordle-ds.json](./265142-wordle-ds.json) |
 | WordLeap | 292300 | [292300-wordleap.json](./292300-wordleap.json) |
 | Wordler | 268024 | [268024-wordler.json](./268024-wordler.json) |
+| Wordless | 193830 | [193830-wordless.json](./193830-wordless.json) |
 | Wordless Forest | 413778 | [413778-wordless-forest.json](./413778-wordless-forest.json) |
 | Wordlike | 326808 | [326808-wordlike.json](./326808-wordlike.json) |
 | Wordly | 323327 | [323327-wordly.json](./323327-wordly.json) |
