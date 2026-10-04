@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valentino Rossi: The Game - MotoGP Legendary Bikes | 167849 | [167849-valentino-rossi-the-game-motogp-legendary-bikes.json](./167849-valentino-rossi-the-game-motogp-legendary-bikes.json) |
 | Valentino Rossi: The Game - Real Events: 2015 MotoGP Season | 168360 | [168360-valentino-rossi-the-game-real-events-2015-motogp-season.json](./168360-valentino-rossi-the-game-real-events-2015-motogp-season.json) |
 | Valentino Rossi: The Game - Special Edition | 118940 | [118940-valentino-rossi-the-game-special-edition.json](./118940-valentino-rossi-the-game-special-edition.json) |
+| Valentyne Stories Necromancy | 177902 | [177902-valentyne-stories-necromancy.json](./177902-valentyne-stories-necromancy.json) |
 | Valeria the Pagan Priestess | 249341 | [249341-valeria-the-pagan-priestess.json](./249341-valeria-the-pagan-priestess.json) |
 | Valerian Tales | 104038 | [104038-valerian-tales.json](./104038-valerian-tales.json) |
 | Valerie | 337109 | [337109-valerie.json](./337109-valerie.json) |
@@ -1265,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violet | 265152 | [265152-violet.json](./265152-violet.json) |
 | Violet Cycle | 81245 | [81245-violet-cycle.json](./81245-violet-cycle.json) |
 | Violet Girl | 169777 | [169777-violet-girl.json](./169777-violet-girl.json) |
+| Violet Memoir | 177887 | [177887-violet-memoir.json](./177887-violet-memoir.json) |
 | Violet rE:-The Final reExistence- | 120781 | [120781-violet-re-the-final-reexistence.json](./120781-violet-re-the-final-reexistence.json) |
 | Violet's Party Mania | 219518 | [219518-violets-party-mania.json](./219518-violets-party-mania.json) |
 | Violett | 18734 | [18734-violett.json](./18734-violett.json) |
