@@ -2533,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whitematter | 365895 | [365895-whitematter.json](./365895-whitematter.json) |
 | Whiteout | 181385 | [181385-whiteout.json](./181385-whiteout.json) |
 | Whiteout Survival | 240884 | [240884-whiteout-survival.json](./240884-whiteout-survival.json) |
+| WhiteRoom | 181740 | [181740-whiteroom.json](./181740-whiteroom.json) |
 | Whites This | 320262 | [320262-whites-this.json](./320262-whites-this.json) |
 | Whiteside | 69339 | [69339-whiteside.json](./69339-whiteside.json) |
 | Whitestone | 263534 | [263534-whitestone.json](./263534-whitestone.json) |
@@ -2619,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's the Traitor | 273655 | [273655-whos-the-traitor.json](./273655-whos-the-traitor.json) |
 | Who's Who 2.0 | 336393 | [336393-whos-who-2-0.json](./336393-whos-who-2-0.json) |
 | Who's Your Daddy | 15746 | [15746-whos-your-daddy.json](./15746-whos-your-daddy.json) |
+| Who's Your Weapon | 181664 | [181664-whos-your-weapon.json](./181664-whos-your-weapon.json) |
 | Whodunchat | 418675 | [418675-whodunchat.json](./418675-whodunchat.json) |
 | Wholesome Cats | 133322 | [133322-wholesome-cats.json](./133322-wholesome-cats.json) |
 | Wholesome Slaughter | 143014 | [143014-wholesome-slaughter.json](./143014-wholesome-slaughter.json) |
@@ -2701,6 +2703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiffel Ball | 205806 | [205806-wiffel-ball.json](./205806-wiffel-ball.json) |
 | Wigged Out | 126584 | [126584-wigged-out.json](./126584-wigged-out.json) |
 | Wiggly Boy | 139424 | [139424-wiggly-boy.json](./139424-wiggly-boy.json) |
+| Wiggly Pig | 181757 | [181757-wiggly-pig.json](./181757-wiggly-pig.json) |
 | Wii Chess | 5280 | [5280-wii-chess.json](./5280-wii-chess.json) |
 | Wii Fit | 2186 | [2186-wii-fit.json](./2186-wii-fit.json) |
 | Wii Karaoke U by Joysound | 3107 | [3107-wii-karaoke-u-by-joysound.json](./3107-wii-karaoke-u-by-joysound.json) |
