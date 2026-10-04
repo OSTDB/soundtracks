@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Nebezem RPG: Red Peril | 115609 | [115609-tales-of-nebezem-rpg-red-peril.json](./115609-tales-of-nebezem-rpg-red-peril.json) |
 | Tales of Nebezem: Elemental Link | 86749 | [86749-tales-of-nebezem-elemental-link.json](./86749-tales-of-nebezem-elemental-link.json) |
 | Tales of Phantasia | 1200 | [1200-tales-of-phantasia.json](./1200-tales-of-phantasia.json) |
+| Tales of Phantasia | 196660 | [196660-tales-of-phantasia.json](./196660-tales-of-phantasia.json) |
 | Tales of Phantasia: Cross Edition | 351694 | [351694-tales-of-phantasia-cross-edition.json](./351694-tales-of-phantasia-cross-edition.json) |
 | Tales of Phantasia: Full Voice Edition | 152164 | [152164-tales-of-phantasia-full-voice-edition.json](./152164-tales-of-phantasia-full-voice-edition.json) |
 | Tales of Phantasia: Narikiri Dungeon X | 42864 | [42864-tales-of-phantasia-narikiri-dungeon-x.json](./42864-tales-of-phantasia-narikiri-dungeon-x.json) |
@@ -2386,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ternox Games 4-in-1 Bundle | 362379 | [362379-ternox-games-4-in-1-bundle.json](./362379-ternox-games-4-in-1-bundle.json) |
 | Terpaling Legend | 339406 | [339406-terpaling-legend.json](./339406-terpaling-legend.json) |
 | Terra | 183439 | [183439-terra.json](./183439-terra.json) |
+| Terra | 196634 | [196634-terra.json](./196634-terra.json) |
 | Terra | 295236 | [295236-terra.json](./295236-terra.json) |
 | Terra Alia | 279404 | [279404-terra-alia.json](./279404-terra-alia.json) |
 | Terra Avoider | 278508 | [278508-terra-avoider.json](./278508-terra-avoider.json) |
@@ -4835,6 +4837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eye | 141836 | [141836-the-eye.json](./141836-the-eye.json) |
 | The Eye of Judgment: Legends | 46020 | [46020-the-eye-of-judgment-legends.json](./46020-the-eye-of-judgment-legends.json) |
 | The Eye of Modern Mali | 103185 | [103185-the-eye-of-modern-mali.json](./103185-the-eye-of-modern-mali.json) |
+| The Eye of the Goddess | 196649 | [196649-the-eye-of-the-goddess.json](./196649-the-eye-of-the-goddess.json) |
 | The Eye of Typhoon | 57341 | [57341-the-eye-of-typhoon.json](./57341-the-eye-of-typhoon.json) |
 | The Eyes of Dr Kautzmann | 219256 | [219256-the-eyes-of-dr-kautzmann.json](./219256-the-eyes-of-dr-kautzmann.json) |
 | The Eyes of Mars | 236217 | [236217-the-eyes-of-mars.json](./236217-the-eyes-of-mars.json) |
@@ -16971,6 +16974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turning Manor | 363953 | [363953-turning-manor.json](./363953-turning-manor.json) |
 | Turning Point: Fall of Liberty | 7221 | [7221-turning-point-fall-of-liberty.json](./7221-turning-point-fall-of-liberty.json) |
 | Turning Red Dancing Tiles Hop | 198240 | [198240-turning-red-dancing-tiles-hop.json](./198240-turning-red-dancing-tiles-hop.json) |
+| Turnip Boy Commits Tax Evasion: The Sunset Station Update | 196664 | [196664-turnip-boy-commits-tax-evasion-the-sunset-station-update.json](./196664-turnip-boy-commits-tax-evasion-the-sunset-station-update.json) |
 | Turnip Boy Robs a Bank | 217645 | [217645-turnip-boy-robs-a-bank.json](./217645-turnip-boy-robs-a-bank.json) |
 | Turnip Boy Steals the Mail | 342657 | [342657-turnip-boy-steals-the-mail.json](./342657-turnip-boy-steals-the-mail.json) |
 | TurnOn | 19606 | [19606-turnon.json](./19606-turnon.json) |
