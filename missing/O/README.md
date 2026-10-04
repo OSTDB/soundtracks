@@ -2480,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Cinderella | 292061 | [292061-our-cinderella.json](./292061-our-cinderella.json) |
 | Our Darkest Night | 30793 | [30793-our-darkest-night.json](./30793-our-darkest-night.json) |
 | Our Dollhouse | 294219 | [294219-our-dollhouse.json](./294219-our-dollhouse.json) |
+| Our Dying World | 203781 | [203781-our-dying-world.json](./203781-our-dying-world.json) |
 | Our Eyes See No Evil | 361841 | [361841-our-eyes-see-no-evil.json](./361841-our-eyes-see-no-evil.json) |
 | Our Fantasy Quest | 221737 | [221737-our-fantasy-quest.json](./221737-our-fantasy-quest.json) |
 | Our Fate Forsaken | 197411 | [197411-our-fate-forsaken.json](./197411-our-fate-forsaken.json) |
