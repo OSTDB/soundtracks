@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happiness Market | 253411 | [253411-happiness-market.json](./253411-happiness-market.json) |
 | Happiness! De:Lucks | 94724 | [94724-happiness-de-lucks.json](./94724-happiness-de-lucks.json) |
 | Happup | 130738 | [130738-happup.json](./130738-happup.json) |
+| Happy Animal Testing | 216699 | [216699-happy-animal-testing.json](./216699-happy-animal-testing.json) |
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
 | Happy Ball Rush | 391328 | [391328-happy-ball-rush.json](./391328-happy-ball-rush.json) |
 | Happy Balloons | 57368 | [57368-happy-balloons.json](./57368-happy-balloons.json) |
