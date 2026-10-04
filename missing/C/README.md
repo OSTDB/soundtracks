@@ -2857,6 +2857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Ice Hockey | 6088 | [6088-champion-ice-hockey.json](./6088-champion-ice-hockey.json) |
 | Champion Kendo | 6089 | [6089-champion-kendo.json](./6089-champion-kendo.json) |
 | Champion of Andia | 272282 | [272282-champion-of-andia.json](./272282-champion-of-andia.json) |
+| Champion of Venus | 196636 | [196636-champion-of-venus.json](./196636-champion-of-venus.json) |
 | Champion Pro Wrestling | 6090 | [6090-champion-pro-wrestling.json](./6090-champion-pro-wrestling.json) |
 | Champion ProWres Special | 125978 | [125978-champion-prowres-special.json](./125978-champion-prowres-special.json) |
 | Champion Shift | 249837 | [249837-champion-shift.json](./249837-champion-shift.json) |
@@ -3229,6 +3230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheerleader's Choice: New York Spirit | 338274 | [338274-cheerleaders-choice-new-york-spirit.json](./338274-cheerleaders-choice-new-york-spirit.json) |
 | Cheers! | 227934 | [227934-cheers.json](./227934-cheers.json) |
 | Cheery Party | 148977 | [148977-cheery-party.json](./148977-cheery-party.json) |
+| Cheery Soccer | 196620 | [196620-cheery-soccer.json](./196620-cheery-soccer.json) |
 | Cheese Banquet Advanced | 294695 | [294695-cheese-banquet-advanced.json](./294695-cheese-banquet-advanced.json) |
 | Cheese Bit | 412971 | [412971-cheese-bit.json](./412971-cheese-bit.json) |
 | Cheese Dreams | 220555 | [220555-cheese-dreams.json](./220555-cheese-dreams.json) |
@@ -3325,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobyl VR Project | 20092 | [20092-chernobyl-vr-project.json](./20092-chernobyl-vr-project.json) |
 | Chernobyl: Escape from Pripyat | 335952 | [335952-chernobyl-escape-from-pripyat.json](./335952-chernobyl-escape-from-pripyat.json) |
 | Chernobyl: Nuclear Power Plant Simulation | 54710 | [54710-chernobyl-nuclear-power-plant-simulation.json](./54710-chernobyl-nuclear-power-plant-simulation.json) |
+| Chernobyl: Origins | 196666 | [196666-chernobyl-origins.json](./196666-chernobyl-origins.json) |
 | Chernobyl: Road of Death | 122380 | [122380-chernobyl-road-of-death.json](./122380-chernobyl-road-of-death.json) |
 | Chernobyl: Terrorist Attack | 30844 | [30844-chernobyl-terrorist-attack.json](./30844-chernobyl-terrorist-attack.json) |
 | Chernobylite: Black Smoke Pack | 323250 | [323250-chernobylite-black-smoke-pack.json](./323250-chernobylite-black-smoke-pack.json) |
@@ -8289,6 +8292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot | 210243 | [210243-crash-bandicoot.json](./210243-crash-bandicoot.json) |
 | Crash Bandicoot 2: N-Tranced | 1198 | [1198-crash-bandicoot-2-n-tranced.json](./1198-crash-bandicoot-2-n-tranced.json) |
 | Crash Bandicoot 4: N. Hanced | 323730 | [323730-crash-bandicoot-4-n-hanced.json](./323730-crash-bandicoot-4-n-hanced.json) |
+| Crash Bandicoot Action Pack | 196663 | [196663-crash-bandicoot-action-pack.json](./196663-crash-bandicoot-action-pack.json) |
 | Crash Bandicoot N.Finite | 374279 | [374279-crash-bandicoot-n-finite.json](./374279-crash-bandicoot-n-finite.json) |
 | Crash Bandicoot Nitro Kart 2 | 21749 | [21749-crash-bandicoot-nitro-kart-2.json](./21749-crash-bandicoot-nitro-kart-2.json) |
 | Crash Bandicoot Party Games | 210240 | [210240-crash-bandicoot-party-games.json](./210240-crash-bandicoot-party-games.json) |
