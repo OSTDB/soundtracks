@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad-Boon Strikes Back | 341706 | [341706-bad-boon-strikes-back.json](./341706-bad-boon-strikes-back.json) |
 | Bada Space Station | 146355 | [146355-bada-space-station.json](./146355-bada-space-station.json) |
 | Badaboom | 233203 | [233203-badaboom.json](./233203-badaboom.json) |
+| Badanamu First Step | 201094 | [201094-badanamu-first-step.json](./201094-badanamu-first-step.json) |
 | BadDool | 279899 | [279899-baddool.json](./279899-baddool.json) |
 | Baderna: Um Conto de Barro | 283974 | [283974-baderna-um-conto-de-barro.json](./283974-baderna-um-conto-de-barro.json) |
 | Badge Emperor | 101732 | [101732-badge-emperor.json](./101732-badge-emperor.json) |
@@ -3886,6 +3887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Mountain 2000 | 3367 | [3367-big-mountain-2000.json](./3367-big-mountain-2000.json) |
 | Big Mountain Snowboarding | 88322 | [88322-big-mountain-snowboarding.json](./88322-big-mountain-snowboarding.json) |
 | Big Mutha Truckers | 3809 | [3809-big-mutha-truckers.json](./3809-big-mutha-truckers.json) |
+| Big Mutha Truckers 2 | 201103 | [201103-big-mutha-truckers-2.json](./201103-big-mutha-truckers-2.json) |
 | Big Name: City Lovin | 231971 | [231971-big-name-city-lovin.json](./231971-big-name-city-lovin.json) |
 | Big Names Bonanza | 19683 | [19683-big-names-bonanza.json](./19683-big-names-bonanza.json) |
 | Big Nose and the Witchdoctor | 233993 | [233993-big-nose-and-the-witchdoctor.json](./233993-big-nose-and-the-witchdoctor.json) |
@@ -4887,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackwater 100 | 92540 | [92540-blackwater-100.json](./92540-blackwater-100.json) |
 | Blackwater Exchange | 407396 | [407396-blackwater-exchange.json](./407396-blackwater-exchange.json) |
 | Blackwell Unbound | 9041 | [9041-blackwell-unbound.json](./9041-blackwell-unbound.json) |
+| BlackWhite | 201105 | [201105-blackwhite.json](./201105-blackwhite.json) |
 | Blackwood Division | 373110 | [373110-blackwood-division.json](./373110-blackwood-division.json) |
 | Blackwood: Beneath the Silence | 365181 | [365181-blackwood-beneath-the-silence.json](./365181-blackwood-beneath-the-silence.json) |
 | Blackwoods | 312577 | [312577-blackwoods.json](./312577-blackwoods.json) |
@@ -4906,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Bouncer 2: Revolution | 317823 | [317823-blade-bouncer-2-revolution.json](./317823-blade-bouncer-2-revolution.json) |
 | Blade Bound | 174817 | [174817-blade-bound.json](./174817-blade-bound.json) |
 | Blade Breaker: Sword Taker | 394485 | [394485-blade-breaker-sword-taker.json](./394485-blade-breaker-sword-taker.json) |
+| Blade Bros Action! | 201083 | [201083-blade-bros-action.json](./201083-blade-bros-action.json) |
 | Blade Bros Impact! | 203796 | [203796-blade-bros-impact.json](./203796-blade-bros-impact.json) |
 | Blade Buster | 48316 | [48316-blade-buster.json](./48316-blade-buster.json) |
 | Blade Crafter | 108871 | [108871-blade-crafter.json](./108871-blade-crafter.json) |
@@ -7273,6 +7277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling at the Lake | 30190 | [30190-bowling-at-the-lake.json](./30190-bowling-at-the-lake.json) |
 | Bowling by Jason Belmonte | 262386 | [262386-bowling-by-jason-belmonte.json](./262386-bowling-by-jason-belmonte.json) |
 | Bowling Crew | 256240 | [256240-bowling-crew.json](./256240-bowling-crew.json) |
+| Bowling Cross: Final Frame | 201118 | [201118-bowling-cross-final-frame.json](./201118-bowling-cross-final-frame.json) |
 | Bowling Fever Strike Masters | 378961 | [378961-bowling-fever-strike-masters.json](./378961-bowling-fever-strike-masters.json) |
 | Bowling Fever: Deluxe Edition | 288285 | [288285-bowling-fever-deluxe-edition.json](./288285-bowling-fever-deluxe-edition.json) |
 | Bowling Fever: Discovery Edition | 333718 | [333718-bowling-fever-discovery-edition.json](./333718-bowling-fever-discovery-edition.json) |
@@ -8952,6 +8957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumper Stickers MZX | 271949 | [271949-bumper-stickers-mzx.json](./271949-bumper-stickers-mzx.json) |
 | Bumper Wars | 71534 | [71534-bumper-wars.json](./71534-bumper-wars.json) |
 | Bumper.io | 106376 | [106376-bumper-io.json](./106376-bumper-io.json) |
+| Bumpers & Broadswords | 201117 | [201117-bumpers-and-broadswords.json](./201117-bumpers-and-broadswords.json) |
 | Bumps | 21265 | [21265-bumps.json](./21265-bumps.json) |
 | BumpUpGhostBuster | 234717 | [234717-bumpupghostbuster.json](./234717-bumpupghostbuster.json) |
 | Bumpy Jumpy | 305374 | [305374-bumpy-jumpy.json](./305374-bumpy-jumpy.json) |
