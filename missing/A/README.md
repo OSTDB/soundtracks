@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A day for a kitten | 75803 | [75803-a-day-for-a-kitten.json](./75803-a-day-for-a-kitten.json) |
 | A Day for Soft Food | 304221 | [304221-a-day-for-soft-food.json](./304221-a-day-for-soft-food.json) |
 | A Day In Space | 249257 | [249257-a-day-in-space.json](./249257-a-day-in-space.json) |
+| A Day in the Lie | 176237 | [176237-a-day-in-the-lie.json](./176237-a-day-in-the-lie.json) |
 | A Day In the Life | 78681 | [78681-a-day-in-the-life.json](./78681-a-day-in-the-life.json) |
 | A Day in the Life Of | 387694 | [387694-a-day-in-the-life-of.json](./387694-a-day-in-the-life-of.json) |
 | A Day in the Life of a Writer | 201647 | [201647-a-day-in-the-life-of-a-writer.json](./201647-a-day-in-the-life-of-a-writer.json) |
@@ -1600,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
 | Adventure Light | 149534 | [149534-adventure-light.json](./149534-adventure-light.json) |
 | Adventure Llama | 104463 | [104463-adventure-llama.json](./104463-adventure-llama.json) |
+| Adventure Machine | 176328 | [176328-adventure-machine.json](./176328-adventure-machine.json) |
 | Adventure Maker: Runiya | 107638 | [107638-adventure-maker-runiya.json](./107638-adventure-maker-runiya.json) |
 | Adventure Mansion | 283899 | [283899-adventure-mansion.json](./283899-adventure-mansion.json) |
 | Adventure Master | 381130 | [381130-adventure-master.json](./381130-adventure-master.json) |
@@ -1687,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Dino Riki | 8741 | [8741-adventures-of-dino-riki.json](./8741-adventures-of-dino-riki.json) |
 | Adventures of Heroes | 65783 | [65783-adventures-of-heroes.json](./65783-adventures-of-heroes.json) |
 | Adventures of Jack: Platformer | 58245 | [58245-adventures-of-jack-platformer.json](./58245-adventures-of-jack-platformer.json) |
+| Adventures of Julia | 176317 | [176317-adventures-of-julia.json](./176317-adventures-of-julia.json) |
 | Adventures of Lolo 2 | 6472 | [6472-adventures-of-lolo-2.json](./6472-adventures-of-lolo-2.json) |
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
 | Adventures of Mike | 101344 | [101344-adventures-of-mike.json](./101344-adventures-of-mike.json) |
