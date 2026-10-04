@@ -1057,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignitement | 407440 | [407440-ignitement.json](./407440-ignitement.json) |
 | Ignition | 180309 | [180309-ignition.json](./180309-ignition.json) |
 | Ignition Arena | 314896 | [314896-ignition-arena.json](./314896-ignition-arena.json) |
+| Ignorance Fighter II: Tour Bus | 181754 | [181754-ignorance-fighter-ii-tour-bus.json](./181754-ignorance-fighter-ii-tour-bus.json) |
 | Ignore the Blackbird | 400951 | [400951-ignore-the-blackbird.json](./400951-ignore-the-blackbird.json) |
 | Ignored and Humiliated by Gamer Girls | 249344 | [249344-ignored-and-humiliated-by-gamer-girls.json](./249344-ignored-and-humiliated-by-gamer-girls.json) |
 | Igo Meikan | 138706 | [138706-igo-meikan.json](./138706-igo-meikan.json) |
