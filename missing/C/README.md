@@ -1118,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carcosa | 140554 | [140554-carcosa.json](./140554-carcosa.json) |
 | Card & Digital | 385324 | [385324-card-and-digital.json](./385324-card-and-digital.json) |
 | Card & Puzzle Collection Ginga | 365679 | [365679-card-and-puzzle-collection-ginga.json](./365679-card-and-puzzle-collection-ginga.json) |
+| Card Adventure | 187271 | [187271-card-adventure.json](./187271-card-adventure.json) |
 | Card Blast | 204966 | [204966-card-blast.json](./204966-card-blast.json) |
 | Card Blitz: WWII | 133235 | [133235-card-blitz-wwii.json](./133235-card-blitz-wwii.json) |
 | Card Captor Sakura: Sakura Card-hen - Sakura Card to Tomodachi | 49518 | [49518-card-captor-sakura-sakura-card-hen-sakura-card-to-tomodachi.json](./49518-card-captor-sakura-sakura-card-hen-sakura-card-to-tomodachi.json) |
@@ -2057,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Sudoku | 369682 | [369682-cat-sudoku.json](./369682-cat-sudoku.json) |
 | Cat Summoner: Block Puzzle | 357979 | [357979-cat-summoner-block-puzzle.json](./357979-cat-summoner-block-puzzle.json) |
 | Cat Survivors | 289374 | [289374-cat-survivors.json](./289374-cat-survivors.json) |
+| Cat Swap Tiles | 187280 | [187280-cat-swap-tiles.json](./187280-cat-swap-tiles.json) |
 | Cat Tales: Premium Edition | 241396 | [241396-cat-tales-premium-edition.json](./241396-cat-tales-premium-edition.json) |
 | Cat Tiles: Matching Puzzle | 232377 | [232377-cat-tiles-matching-puzzle.json](./232377-cat-tiles-matching-puzzle.json) |
 | Cat Train | 177493 | [177493-cat-train.json](./177493-cat-train.json) |
@@ -4148,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Night | 236804 | [236804-christmas-night.json](./236804-christmas-night.json) |
 | Christmas Night Archery | 77667 | [77667-christmas-night-archery.json](./77667-christmas-night-archery.json) |
 | Christmas Otome | 125412 | [125412-christmas-otome.json](./125412-christmas-otome.json) |
+| Christmas Panic | 187307 | [187307-christmas-panic.json](./187307-christmas-panic.json) |
 | Christmas Patchwork Frozen | 286522 | [286522-christmas-patchwork-frozen.json](./286522-christmas-patchwork-frozen.json) |
 | Christmas Prayers | 82167 | [82167-christmas-prayers.json](./82167-christmas-prayers.json) |
 | Christmas Present | 285567 | [285567-christmas-present.json](./285567-christmas-present.json) |
@@ -6719,6 +6722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Complex X | 301911 | [301911-complex-x.json](./301911-complex-x.json) |
 | Complexia: A Ballet of Blades | 400486 | [400486-complexia-a-ballet-of-blades.json](./400486-complexia-a-ballet-of-blades.json) |
 | Componut | 174195 | [174195-componut.json](./174195-componut.json) |
+| Composer | 187316 | [187316-composer.json](./187316-composer.json) |
 | Compound | 28927 | [28927-compound.json](./28927-compound.json) |
 | Compound Fracture | 143560 | [143560-compound-fracture.json](./143560-compound-fracture.json) |
 | Compound Word Puzzles 2 | 359997 | [359997-compound-word-puzzles-2.json](./359997-compound-word-puzzles-2.json) |
@@ -6955,6 +6959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquer Humanity | 225687 | [225687-conquer-humanity.json](./225687-conquer-humanity.json) |
 | Conquer II | 193841 | [193841-conquer-ii.json](./193841-conquer-ii.json) |
 | Conquer Lands | 372464 | [372464-conquer-lands.json](./372464-conquer-lands.json) |
+| Conquer or Die | 187289 | [187289-conquer-or-die.json](./187289-conquer-or-die.json) |
 | Conquer the Dungeon | 190720 | [190720-conquer-the-dungeon.json](./190720-conquer-the-dungeon.json) |
 | Conquer the Islands | 224085 | [224085-conquer-the-islands.json](./224085-conquer-the-islands.json) |
 | Conquer the World | 71532 | [71532-conquer-the-world.json](./71532-conquer-the-world.json) |
@@ -9269,6 +9274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroads of Fate | 185601 | [185601-crossroads-of-fate.json](./185601-crossroads-of-fate.json) |
 | Crossroads of Life | 213323 | [213323-crossroads-of-life.json](./213323-crossroads-of-life.json) |
 | Crossroads: Lucky Edition | 113241 | [113241-crossroads-lucky-edition.json](./113241-crossroads-lucky-edition.json) |
+| Crossroads: On a Just Path - Collector's Edition | 187306 | [187306-crossroads-on-a-just-path-collectors-edition.json](./187306-crossroads-on-a-just-path-collectors-edition.json) |
 | Crossroads: What Was Lost | 417713 | [417713-crossroads-what-was-lost.json](./417713-crossroads-what-was-lost.json) |
 | CrossTown 1: Giften | 122315 | [122315-crosstown-1-giften.json](./122315-crosstown-1-giften.json) |
 | Crosswinds | 404394 | [404394-crosswinds.json](./404394-crosswinds.json) |
