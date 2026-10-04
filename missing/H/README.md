@@ -1805,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartwild Solitaire Book One | 88737 | [88737-heartwild-solitaire-book-one.json](./88737-heartwild-solitaire-book-one.json) |
 | Heartwood | 179158 | [179158-heartwood.json](./179158-heartwood.json) |
 | Heartwood Heroes | 236329 | [236329-heartwood-heroes.json](./236329-heartwood-heroes.json) |
+| Heat | 183400 | [183400-heat.json](./183400-heat.json) |
 | Heat 'n Hit: The Blacksmith Simulator | 371962 | [371962-heat-n-hit-the-blacksmith-simulator.json](./371962-heat-n-hit-the-blacksmith-simulator.json) |
 | Heat Death | 191653 | [191653-heat-death.json](./191653-heat-death.json) |
 | Heat Gear: Race & Drift World | 193847 | [193847-heat-gear-race-and-drift-world.json](./193847-heat-gear-race-and-drift-world.json) |
@@ -2866,6 +2867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Nightmares: Redacted | 212265 | [212265-her-nightmares-redacted.json](./212265-her-nightmares-redacted.json) |
 | Her Pound of Flesh | 139386 | [139386-her-pound-of-flesh.json](./139386-her-pound-of-flesh.json) |
 | Her Shoes | 301822 | [301822-her-shoes.json](./301822-her-shoes.json) |
+| Her Sign | 183390 | [183390-her-sign.json](./183390-her-sign.json) |
 | Her Trees: The Puzzle House | 285920 | [285920-her-trees-the-puzzle-house.json](./285920-her-trees-the-puzzle-house.json) |
 | Her War | 135752 | [135752-her-war.json](./135752-her-war.json) |
 | Her World | 218401 | [218401-her-world.json](./218401-her-world.json) |
@@ -6523,6 +6525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Demon | 218183 | [218183-hyper-demon.json](./218183-hyper-demon.json) |
 | Hyper Dimensional Basement Crawler | 177944 | [177944-hyper-dimensional-basement-crawler.json](./177944-hyper-dimensional-basement-crawler.json) |
 | Hyper Dimensional Dynamo | 183919 | [183919-hyper-dimensional-dynamo.json](./183919-hyper-dimensional-dynamo.json) |
+| Hyper DOS | 183327 | [183327-hyper-dos.json](./183327-hyper-dos.json) |
 | Hyper Drill | 224612 | [224612-hyper-drill.json](./224612-hyper-drill.json) |
 | Hyper Drive Runner | 303554 | [303554-hyper-drive-runner.json](./303554-hyper-drive-runner.json) |
 | Hyper Drive: The Insane Gravity Race | 51598 | [51598-hyper-drive-the-insane-gravity-race.json](./51598-hyper-drive-the-insane-gravity-race.json) |
