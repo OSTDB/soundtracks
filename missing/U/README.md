@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubersoldier II | 17120 | [17120-ubersoldier-ii.json](./17120-ubersoldier-ii.json) |
 | Ubi Soft: Happy New Year 2001 | 325568 | [325568-ubi-soft-happy-new-year-2001.json](./325568-ubi-soft-happy-new-year-2001.json) |
 | Ubik | 44852 | [44852-ubik.json](./44852-ubik.json) |
+| Ubiquatopia | 187286 | [187286-ubiquatopia.json](./187286-ubiquatopia.json) |
 | UBoat | 32283 | [32283-uboat.json](./32283-uboat.json) |
 | Uboat Attack | 220203 | [220203-uboat-attack.json](./220203-uboat-attack.json) |
 | Uboat Attack: Cloverfield DLC | 316235 | [316235-uboat-attack-cloverfield-dlc.json](./316235-uboat-attack-cloverfield-dlc.json) |
