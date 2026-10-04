@@ -4017,6 +4017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Confession | 133365 | [133365-the-confession.json](./133365-the-confession.json) |
 | The Confined: Basement | 406899 | [406899-the-confined-basement.json](./406899-the-confined-basement.json) |
 | The Confinement | 332413 | [332413-the-confinement.json](./332413-the-confinement.json) |
+| The Confraternity of Toast 2 | 176314 | [176314-the-confraternity-of-toast-2.json](./176314-the-confraternity-of-toast-2.json) |
 | The Consequences of Gardening | 183026 | [183026-the-consequences-of-gardening.json](./183026-the-consequences-of-gardening.json) |
 | The Consumist Journey | 270099 | [270099-the-consumist-journey.json](./270099-the-consumist-journey.json) |
 | The Contact | 288981 | [288981-the-contact.json](./288981-the-contact.json) |
@@ -7354,6 +7355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mighty Quest for Epic Loot | 217796 | [217796-the-mighty-quest-for-epic-loot.json](./217796-the-mighty-quest-for-epic-loot.json) |
 | The Mighty Quest for Epic Loot | 2726 | [2726-the-mighty-quest-for-epic-loot.json](./2726-the-mighty-quest-for-epic-loot.json) |
 | The Migrant | 199080 | [199080-the-migrant.json](./199080-the-migrant.json) |
+| The Migration | 176243 | [176243-the-migration.json](./176243-the-migration.json) |
 | The Mildew Children | 253605 | [253605-the-mildew-children.json](./253605-the-mildew-children.json) |
 | The Militant Mouse | 230886 | [230886-the-militant-mouse.json](./230886-the-militant-mouse.json) |
 | The Milk Lake | 211775 | [211775-the-milk-lake.json](./211775-the-milk-lake.json) |
@@ -7840,6 +7842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paladin & The Succubi Servant | 230896 | [230896-the-paladin-and-the-succubi-servant.json](./230896-the-paladin-and-the-succubi-servant.json) |
 | The Pale Man | 232547 | [232547-the-pale-man.json](./232547-the-pale-man.json) |
 | The Pale Piper | 335503 | [335503-the-pale-piper.json](./335503-the-pale-piper.json) |
+| The Pancakes Official Game Show | 176247 | [176247-the-pancakes-official-game-show.json](./176247-the-pancakes-official-game-show.json) |
 | The Pandemonium | 276377 | [276377-the-pandemonium.json](./276377-the-pandemonium.json) |
 | The Panel DC | 119720 | [119720-the-panel-dc.json](./119720-the-panel-dc.json) |
 | The Panic Room: House of Secrets | 259516 | [259516-the-panic-room-house-of-secrets.json](./259516-the-panic-room-house-of-secrets.json) |
@@ -8192,6 +8195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ranchers | 142498 | [142498-the-ranchers.json](./142498-the-ranchers.json) |
 | The Ransom of Atawallpa | 337644 | [337644-the-ransom-of-atawallpa.json](./337644-the-ransom-of-atawallpa.json) |
 | The Raphael Parable | 305306 | [305306-the-raphael-parable.json](./305306-the-raphael-parable.json) |
+| The Rapid Treasure Escape | 176325 | [176325-the-rapid-treasure-escape.json](./176325-the-rapid-treasure-escape.json) |
 | The Raptured | 289967 | [289967-the-raptured.json](./289967-the-raptured.json) |
 | The Ratline | 351273 | [351273-the-ratline.json](./351273-the-ratline.json) |
 | The Rats | 9558 | [9558-the-rats.json](./9558-the-rats.json) |
@@ -8202,6 +8206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Raven: Legacy of a Master Thief - Digital Deluxe Edition | 53771 | [53771-the-raven-legacy-of-a-master-thief-digital-deluxe-edition.json](./53771-the-raven-legacy-of-a-master-thief-digital-deluxe-edition.json) |
 | The Raven: Legacy of a Master Thief - Episode 2 | 172592 | [172592-the-raven-legacy-of-a-master-thief-episode-2.json](./172592-the-raven-legacy-of-a-master-thief-episode-2.json) |
 | The Ravendree Oracle | 258090 | [258090-the-ravendree-oracle.json](./258090-the-ravendree-oracle.json) |
+| The Ravine | 176241 | [176241-the-ravine.json](./176241-the-ravine.json) |
 | The Reaction | 89680 | [89680-the-reaction.json](./89680-the-reaction.json) |
 | The Real Academic Challenge High School Level | 401094 | [401094-the-real-academic-challenge-high-school-level.json](./401094-the-real-academic-challenge-high-school-level.json) |
 | The Real Deal 2 | 130849 | [130849-the-real-deal-2.json](./130849-the-real-deal-2.json) |
@@ -10722,6 +10727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Game Will End In 205 Clicks. | 359013 | [359013-this-game-will-end-in-205-clicks.json](./359013-this-game-will-end-in-205-clicks.json) |
 | This Girl Does Not Exist | 215727 | [215727-this-girl-does-not-exist.json](./215727-this-girl-does-not-exist.json) |
 | This Grand Life 2 | 253572 | [253572-this-grand-life-2.json](./253572-this-grand-life-2.json) |
+| This hole in my chest | 176242 | [176242-this-hole-in-my-chest.json](./176242-this-hole-in-my-chest.json) |
 | This House Looks Familiar | 176969 | [176969-this-house-looks-familiar.json](./176969-this-house-looks-familiar.json) |
 | This is a game | 198488 | [198488-this-is-a-game.json](./198488-this-is-a-game.json) |
 | This is a Refuge | 226419 | [226419-this-is-a-refuge.json](./226419-this-is-a-refuge.json) |
@@ -12710,6 +12716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Title Fight Pro Boxing for Windows | 94548 | [94548-title-fight-pro-boxing-for-windows.json](./94548-title-fight-pro-boxing-for-windows.json) |
 | Title_Pending | 144909 | [144909-title-pending.json](./144909-title-pending.json) |
 | Titleless Tale | 304002 | [304002-titleless-tale.json](./304002-titleless-tale.json) |
+| Titonic Fisherman | 176324 | [176324-titonic-fisherman.json](./176324-titonic-fisherman.json) |
 | Titor's Time Traveling Tale | 249862 | [249862-titors-time-traveling-tale.json](./249862-titors-time-traveling-tale.json) |
 | Tits and Shadows | 252676 | [252676-tits-and-shadows.json](./252676-tits-and-shadows.json) |
 | Tits Okay Tits Fine | 371361 | [371361-tits-okay-tits-fine.json](./371361-tits-okay-tits-fine.json) |
@@ -13701,6 +13708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toraware no Palm: Refrain | 109603 | [109603-toraware-no-palm-refrain.json](./109603-toraware-no-palm-refrain.json) |
 | Toraware no Palm: Refrain - Deluxe Edition | 136843 | [136843-toraware-no-palm-refrain-deluxe-edition.json](./136843-toraware-no-palm-refrain-deluxe-edition.json) |
 | Torawase: The Girl in the Mirror | 397911 | [397911-torawase-the-girl-in-the-mirror.json](./397911-torawase-the-girl-in-the-mirror.json) |
+| Torb | 176326 | [176326-torb.json](./176326-torb.json) |
 | Torbaci Oyunu | 274769 | [274769-torbaci-oyunu.json](./274769-torbaci-oyunu.json) |
 | Torc: Legend Of The Ogre Crown | 362968 | [362968-torc-legend-of-the-ogre-crown.json](./362968-torc-legend-of-the-ogre-crown.json) |
 | Torch | 232977 | [232977-torch.json](./232977-torch.json) |
@@ -14808,6 +14816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traha Infinity | 188374 | [188374-traha-infinity.json](./188374-traha-infinity.json) |
 | Trail & Error | 401495 | [401495-trail-and-error.json](./401495-trail-and-error.json) |
 | Trail Master 3D | 245266 | [245266-trail-master-3d.json](./245266-trail-master-3d.json) |
+| Trail Mix | 176318 | [176318-trail-mix.json](./176318-trail-mix.json) |
 | Trail of Ayash | 112111 | [112111-trail-of-ayash.json](./112111-trail-of-ayash.json) |
 | Trail of Destruction | 28880 | [28880-trail-of-destruction.json](./28880-trail-of-destruction.json) |
 | Trail of Nanook | 216696 | [216696-trail-of-nanook.json](./216696-trail-of-nanook.json) |
