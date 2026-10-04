@@ -3642,6 +3642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Run | 248769 | [248769-chicken-run.json](./248769-chicken-run.json) |
 | Chicken Run: Special Edition - Escape from the Pot-Pie Machine | 325109 | [325109-chicken-run-special-edition-escape-from-the-pot-pie-machine.json](./325109-chicken-run-special-edition-escape-from-the-pot-pie-machine.json) |
 | Chicken Run: Special Edition - Whack-A-Tweedy | 325108 | [325108-chicken-run-special-edition-whack-a-tweedy.json](./325108-chicken-run-special-edition-whack-a-tweedy.json) |
+| Chicken Rune | 176320 | [176320-chicken-rune.json](./176320-chicken-rune.json) |
 | Chicken Rush Deluxe | 341617 | [341617-chicken-rush-deluxe.json](./341617-chicken-rush-deluxe.json) |
 | Chicken Scratch | 256558 | [256558-chicken-scratch.json](./256558-chicken-scratch.json) |
 | Chicken Shoot | 248610 | [248610-chicken-shoot.json](./248610-chicken-shoot.json) |
@@ -10172,6 +10173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curro | 200468 | [200468-curro.json](./200468-curro.json) |
 | Curro Jimenez | 272298 | [272298-curro-jimenez.json](./272298-curro-jimenez.json) |
 | CurryKitten FPV Simulator | 169443 | [169443-currykitten-fpv-simulator.json](./169443-currykitten-fpv-simulator.json) |
+| Curse Ahoy! | 176305 | [176305-curse-ahoy.json](./176305-curse-ahoy.json) |
 | Curse Chapter: Dawnthief | 382365 | [382365-curse-chapter-dawnthief.json](./382365-curse-chapter-dawnthief.json) |
 | Curse in our heads | 103452 | [103452-curse-in-our-heads.json](./103452-curse-in-our-heads.json) |
 | Curse of Anabelle | 122826 | [122826-curse-of-anabelle.json](./122826-curse-of-anabelle.json) |
