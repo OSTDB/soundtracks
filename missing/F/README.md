@@ -1508,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Universe | 212481 | [212481-fashion-universe.json](./212481-fashion-universe.json) |
 | Fashion Week: Junior Stylist | 79893 | [79893-fashion-week-junior-stylist.json](./79893-fashion-week-junior-stylist.json) |
 | Fashion World: Premium Edition | 308804 | [308804-fashion-world-premium-edition.json](./308804-fashion-world-premium-edition.json) |
+| Fashion_Weak | 181755 | [181755-fashion-weak.json](./181755-fashion-weak.json) |
 | FashionVerse | 296068 | [296068-fashionverse.json](./296068-fashionverse.json) |
 | Fast & Blast | 368687 | [368687-fast-and-blast.json](./368687-fast-and-blast.json) |
 | Fast & Fractured | 390642 | [390642-fast-and-fractured.json](./390642-fast-and-fractured.json) |
@@ -1993,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femdom Wife Game: Zoe | 367045 | [367045-femdom-wife-game-zoe.json](./367045-femdom-wife-game-zoe.json) |
 | FemDomination 2 | 286504 | [286504-femdomination-2.json](./286504-femdomination-2.json) |
 | Feminize Me! | 185683 | [185683-feminize-me.json](./185683-feminize-me.json) |
+| Femme | 181745 | [181745-femme.json](./181745-femme.json) |
 | Femme Fatality | 406911 | [406911-femme-fatality.json](./406911-femme-fatality.json) |
 | Fen | 82028 | [82028-fen.json](./82028-fen.json) |
 | Fenakkumura Monogatari | 166145 | [166145-fenakkumura-monogatari.json](./166145-fenakkumura-monogatari.json) |
