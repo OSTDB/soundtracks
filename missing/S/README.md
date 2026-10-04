@@ -12171,6 +12171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaredance | 58308 | [58308-squaredance.json](./58308-squaredance.json) |
 | Squaredle | 213881 | [213881-squaredle.json](./213881-squaredle.json) |
 | Squareface | 31585 | [31585-squareface.json](./31585-squareface.json) |
+| Squarelaxy | 183326 | [183326-squarelaxy.json](./183326-squarelaxy.json) |
 | Squarelets | 297054 | [297054-squarelets.json](./297054-squarelets.json) |
 | Squarelings | 416009 | [416009-squarelings.json](./416009-squarelings.json) |
 | Squarely | 364574 | [364574-squarely.json](./364574-squarely.json) |
@@ -18844,6 +18845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphony of War: Legends | 252370 | [252370-symphony-of-war-legends.json](./252370-symphony-of-war-legends.json) |
 | Symphony of War: The Nephilim Saga | 192840 | [192840-symphony-of-war-the-nephilim-saga.json](./192840-symphony-of-war-the-nephilim-saga.json) |
 | Symphorix | 333400 | [333400-symphorix.json](./333400-symphorix.json) |
+| Symposium of Grief | 183385 | [183385-symposium-of-grief.json](./183385-symposium-of-grief.json) |
 | Symptoms of Deceit | 323729 | [323729-symptoms-of-deceit.json](./323729-symptoms-of-deceit.json) |
 | Symptoms of Infection | 406211 | [406211-symptoms-of-infection.json](./406211-symptoms-of-infection.json) |
 | Symulator Tuska 2014 | 62204 | [62204-symulator-tuska-2014.json](./62204-symulator-tuska-2014.json) |
