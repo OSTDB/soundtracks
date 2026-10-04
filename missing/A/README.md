@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Desert Christmas Story | 235974 | [235974-a-desert-christmas-story.json](./235974-a-desert-christmas-story.json) |
 | A Detective Game | 302498 | [302498-a-detective-game.json](./302498-a-detective-game.json) |
 | A Detective's Novel | 27921 | [27921-a-detectives-novel.json](./27921-a-detectives-novel.json) |
+| A Devilish Nightmare | 217850 | [217850-a-devilish-nightmare.json](./217850-a-devilish-nightmare.json) |
 | A Diamond Display | 397163 | [397163-a-diamond-display.json](./397163-a-diamond-display.json) |
 | A different summer | 278426 | [278426-a-different-summer.json](./278426-a-different-summer.json) |
 | A Difficult Game About Climbing | 283892 | [283892-a-difficult-game-about-climbing.json](./283892-a-difficult-game-about-climbing.json) |
@@ -1255,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Hollywood | 46767 | [46767-action-hollywood.json](./46767-action-hollywood.json) |
 | Action in the North Atlantic | 70452 | [70452-action-in-the-north-atlantic.json](./70452-action-in-the-north-atlantic.json) |
 | Action Janken | 404997 | [404997-action-janken.json](./404997-action-janken.json) |
+| Action Man | 217943 | [217943-action-man.json](./217943-action-man.json) |
 | Action Man A.T.O.M.: Alpha Teens on Machines | 83248 | [83248-action-man-a-t-o-m-alpha-teens-on-machines.json](./83248-action-man-a-t-o-m-alpha-teens-on-machines.json) |
 | Action Man: Destruction X | 44848 | [44848-action-man-destruction-x.json](./44848-action-man-destruction-x.json) |
 | Action Mania | 255866 | [255866-action-mania.json](./255866-action-mania.json) |
@@ -3099,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Hell | 24895 | [24895-alien-hell.json](./24895-alien-hell.json) |
 | Alien Hive | 203299 | [203299-alien-hive.json](./203299-alien-hive.json) |
 | Alien Holiday | 300813 | [300813-alien-holiday.json](./300813-alien-holiday.json) |
+| Alien Holocaust | 217849 | [217849-alien-holocaust.json](./217849-alien-holocaust.json) |
 | Alien Holocaust II: Invasion Earth | 255670 | [255670-alien-holocaust-ii-invasion-earth.json](./255670-alien-holocaust-ii-invasion-earth.json) |
 | Alien Hominid | 210733 | [210733-alien-hominid.json](./210733-alien-hominid.json) |
 | Alien Hominid | 314892 | [314892-alien-hominid.json](./314892-alien-hominid.json) |
@@ -4237,6 +4240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Alt Girl for Skoof | 298835 | [298835-an-alt-girl-for-skoof.json](./298835-an-alt-girl-for-skoof.json) |
 | An Altered State | 400881 | [400881-an-altered-state.json](./400881-an-altered-state.json) |
 | An Amazing Wizard | 169313 | [169313-an-amazing-wizard.json](./169313-an-amazing-wizard.json) |
+| An American Tail: Fievel Goes West | 217950 | [217950-an-american-tail-fievel-goes-west.json](./217950-an-american-tail-fievel-goes-west.json) |
 | An Angel's Final Desire | 319005 | [319005-an-angels-final-desire.json](./319005-an-angels-final-desire.json) |
 | An Ankou | 250946 | [250946-an-ankou.json](./250946-an-ankou.json) |
 | An Annventure to End Them All | 221774 | [221774-an-annventure-to-end-them-all.json](./221774-an-annventure-to-end-them-all.json) |
@@ -6016,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Roller Jammer | 210745 | [210745-arcade-archives-roller-jammer.json](./210745-arcade-archives-roller-jammer.json) |
 | Arcade Archives: Rolling Thunder | 196174 | [196174-arcade-archives-rolling-thunder.json](./196174-arcade-archives-rolling-thunder.json) |
 | Arcade Archives: Rolling Thunder 2 | 251000 | [251000-arcade-archives-rolling-thunder-2.json](./251000-arcade-archives-rolling-thunder-2.json) |
+| Arcade Archives: Rompers | 217789 | [217789-arcade-archives-rompers.json](./217789-arcade-archives-rompers.json) |
 | Arcade Archives: Route 16 | 113197 | [113197-arcade-archives-route-16.json](./113197-arcade-archives-route-16.json) |
 | Arcade Archives: Rug Rats | 304793 | [304793-arcade-archives-rug-rats.json](./304793-arcade-archives-rug-rats.json) |
 | Arcade Archives: Rygar | 109499 | [109499-arcade-archives-rygar.json](./109499-arcade-archives-rygar.json) |
