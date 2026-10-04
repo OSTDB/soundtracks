@@ -744,7 +744,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game-Pac | 319582 | [319582-game-pac.json](./319582-game-pac.json) |
 | Game, Set & Match | 41002 | [41002-game-set-and-match.json](./41002-game-set-and-match.json) |
 | Game.exe | 142467 | [142467-game-exe.json](./142467-game-exe.json) |
+| Gamebook Adventures 10: Lords of Nurroth | 175166 | [175166-gamebook-adventures-10-lords-of-nurroth.json](./175166-gamebook-adventures-10-lords-of-nurroth.json) |
 | Gamebook Adventures 8: Curse of the Assassin | 174344 | [174344-gamebook-adventures-8-curse-of-the-assassin.json](./174344-gamebook-adventures-8-curse-of-the-assassin.json) |
+| Gamebook Adventures 9: Sultans of Rema | 175167 | [175167-gamebook-adventures-9-sultans-of-rema.json](./175167-gamebook-adventures-9-sultans-of-rema.json) |
 | Gamebox | 291782 | [291782-gamebox.json](./291782-gamebox.json) |
 | GameBoy Wordle | 195209 | [195209-gameboy-wordle.json](./195209-gameboy-wordle.json) |
 | GameBreak | 214554 | [214554-gamebreak.json](./214554-gamebreak.json) |
