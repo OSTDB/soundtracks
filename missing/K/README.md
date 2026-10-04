@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kageninja | 385743 | [385743-kageninja.json](./385743-kageninja.json) |
 | Kagerou Labyrinth | 338819 | [338819-kagerou-labyrinth.json](./338819-kagerou-labyrinth.json) |
 | Kagi wo Kakushita Kago no Tori: Bird in Cage Hiding the Key | 260120 | [260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json](./260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json) |
+| Kagikko Adventure | 184457 | [184457-kagikko-adventure.json](./184457-kagikko-adventure.json) |
 | Kagirinaki Tatakai | 64397 | [64397-kagirinaki-tatakai.json](./64397-kagirinaki-tatakai.json) |
 | Kagitori: Bird in Cage Hiding the Key | 260121 | [260121-kagitori-bird-in-cage-hiding-the-key.json](./260121-kagitori-bird-in-cage-hiding-the-key.json) |
 | Kago no Naka no Alicis | 218383 | [218383-kago-no-naka-no-alicis.json](./218383-kago-no-naka-no-alicis.json) |
@@ -232,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaleidoscope of Phantasm Prison 2 | 320772 | [320772-kaleidoscope-of-phantasm-prison-2.json](./320772-kaleidoscope-of-phantasm-prison-2.json) |
 | Kaleidoscope of Phantasm Prison: Limited Edition | 121611 | [121611-kaleidoscope-of-phantasm-prison-limited-edition.json](./121611-kaleidoscope-of-phantasm-prison-limited-edition.json) |
 | Kaleidoscope: 7 Man Kounen no Houshi-tachi | 66149 | [66149-kaleidoscope-7-man-kounen-no-houshi-tachi.json](./66149-kaleidoscope-7-man-kounen-no-houshi-tachi.json) |
+| Kalevala | 184437 | [184437-kalevala.json](./184437-kalevala.json) |
 | Kali | 176269 | [176269-kali.json](./176269-kali.json) |
 | Kali's Legion | 373543 | [373543-kalis-legion.json](./373543-kalis-legion.json) |
 | Kalia | 334138 | [334138-kalia.json](./334138-kalia.json) |
