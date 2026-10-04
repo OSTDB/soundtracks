@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Very Cat | 393511 | [393511-very-very-cat.json](./393511-very-very-cat.json) |
 | Very Very Valet | 141680 | [141680-very-very-valet.json](./141680-very-very-valet.json) |
 | VeryVeryHouse | 356637 | [356637-veryveryhouse.json](./356637-veryveryhouse.json) |
+| Vespa's Test | 211655 | [211655-vespas-test.json](./211655-vespas-test.json) |
 | Vesper | 137046 | [137046-vesper.json](./137046-vesper.json) |
 | Vesper | 377291 | [377291-vesper.json](./377291-vesper.json) |
 | Vesper Hotel | 391067 | [391067-vesper-hotel.json](./391067-vesper-hotel.json) |
@@ -1269,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viridian Room | 247597 | [247597-viridian-room.json](./247597-viridian-room.json) |
 | Viridian Sage | 256990 | [256990-viridian-sage.json](./256990-viridian-sage.json) |
 | Virion | 338568 | [338568-virion.json](./338568-virion.json) |
+| Virium | 211633 | [211633-virium.json](./211633-virium.json) |
 | Virivì e l'ombra della pioggia | 389125 | [389125-virivi-e-lombra-della-pioggia.json](./389125-virivi-e-lombra-della-pioggia.json) |
 | Virmachina | 320857 | [320857-virmachina.json](./320857-virmachina.json) |
 | Viro Move | 131041 | [131041-viro-move.json](./131041-viro-move.json) |
