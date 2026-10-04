@@ -1450,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperium Romanum | 20776 | [20776-imperium-romanum.json](./20776-imperium-romanum.json) |
 | Imperium Romanum: Gold Edition | 27828 | [27828-imperium-romanum-gold-edition.json](./27828-imperium-romanum-gold-edition.json) |
 | Imperium: Galactic War | 120263 | [120263-imperium-galactic-war.json](./120263-imperium-galactic-war.json) |
+| Imperiums: Greek Wars - Age of Alexander | 174162 | [174162-imperiums-greek-wars-age-of-alexander.json](./174162-imperiums-greek-wars-age-of-alexander.json) |
 | Imperius | 195640 | [195640-imperius.json](./195640-imperius.json) |
 | Imperivm: Great Battles of Rome - HD Edition | 165540 | [165540-imperivm-great-battles-of-rome-hd-edition.json](./165540-imperivm-great-battles-of-rome-hd-edition.json) |
 | Impermanence | 365837 | [365837-impermanence.json](./365837-impermanence.json) |
@@ -1546,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Extremis DX | 225759 | [225759-in-extremis-dx.json](./225759-in-extremis-dx.json) |
 | In Falsus | 342204 | [342204-in-falsus.json](./342204-in-falsus.json) |
 | In Fear I Trust: Episode 3 - Iron and Rust | 171363 | [171363-in-fear-i-trust-episode-3-iron-and-rust.json](./171363-in-fear-i-trust-episode-3-iron-and-rust.json) |
+| In Fear I Trust: Episode 4 - The Glimpse | 174176 | [174176-in-fear-i-trust-episode-4-the-glimpse.json](./174176-in-fear-i-trust-episode-4-the-glimpse.json) |
 | In Good Company | 184906 | [184906-in-good-company.json](./184906-in-good-company.json) |
 | In Harness | 369083 | [369083-in-harness.json](./369083-in-harness.json) |
 | In Hazy Clouds | 212761 | [212761-in-hazy-clouds.json](./212761-in-hazy-clouds.json) |
