@@ -3497,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revive & Repeat | 391731 | [391731-revive-and-repeat.json](./391731-revive-and-repeat.json) |
 | Revive The Town! | 353372 | [353372-revive-the-town.json](./353372-revive-the-town.json) |
 | Revive: C64 Classics | 84199 | [84199-revive-c64-classics.json](./84199-revive-c64-classics.json) |
+| Revived | 181728 | [181728-revived.json](./181728-revived.json) |
 | Revived Forest | 203806 | [203806-revived-forest.json](./203806-revived-forest.json) |
 | Revived Souls | 163912 | [163912-revived-souls.json](./163912-revived-souls.json) |
 | Reviver | 292583 | [292583-reviver.json](./292583-reviver.json) |
