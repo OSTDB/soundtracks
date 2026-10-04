@@ -4317,6 +4317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dead Prince and the Pacifican Express | 185550 | [185550-the-dead-prince-and-the-pacifican-express.json](./185550-the-dead-prince-and-the-pacifican-express.json) |
 | The Dead Rising Collection | 47475 | [47475-the-dead-rising-collection.json](./47475-the-dead-rising-collection.json) |
 | The Dead Roam Free | 388224 | [388224-the-dead-roam-free.json](./388224-the-dead-roam-free.json) |
+| The Dead Sea Scrolls Adventure | 203798 | [203798-the-dead-sea-scrolls-adventure.json](./203798-the-dead-sea-scrolls-adventure.json) |
 | The Dead We Knew: Open World Survival | 412960 | [412960-the-dead-we-knew-open-world-survival.json](./412960-the-dead-we-knew-open-world-survival.json) |
 | The Dead Zone | 268137 | [268137-the-dead-zone.json](./268137-the-dead-zone.json) |
 | The Dead Zone 2 | 308890 | [308890-the-dead-zone-2.json](./308890-the-dead-zone-2.json) |
@@ -8401,6 +8402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Search | 30193 | [30193-the-search.json](./30193-the-search.json) |
 | The Search For Above Average Life | 361752 | [361752-the-search-for-above-average-life.json](./361752-the-search-for-above-average-life.json) |
 | The Search for Amelia Earhart | 29199 | [29199-the-search-for-amelia-earhart.json](./29199-the-search-for-amelia-earhart.json) |
+| The Search for Fran 2 | 203778 | [203778-the-search-for-fran-2.json](./203778-the-search-for-fran-2.json) |
 | The Search for Salmon | 315637 | [315637-the-search-for-salmon.json](./315637-the-search-for-salmon.json) |
 | The Search For Sonic Mania 2 | 352175 | [352175-the-search-for-sonic-mania-2.json](./352175-the-search-for-sonic-mania-2.json) |
 | The Search for Tikiman | 265679 | [265679-the-search-for-tikiman.json](./265679-the-search-for-tikiman.json) |
