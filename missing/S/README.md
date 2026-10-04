@@ -1049,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapo Xulé: O Mestre do Kung Fu | 152305 | [152305-sapo-xule-o-mestre-do-kung-fu.json](./152305-sapo-xule-o-mestre-do-kung-fu.json) |
 | Sapo Xulé: S.O.S. Lagoa Poluída | 84282 | [84282-sapo-xule-s-o-s-lagoa-poluida.json](./84282-sapo-xule-s-o-s-lagoa-poluida.json) |
 | Sapper boom! | 102958 | [102958-sapper-boom.json](./102958-sapper-boom.json) |
+| Sapper Robot | 211657 | [211657-sapper-robot.json](./211657-sapper-robot.json) |
 | Sapper: Defuse the Bomb Simulator | 118439 | [118439-sapper-defuse-the-bomb-simulator.json](./118439-sapper-defuse-the-bomb-simulator.json) |
 | Sapper's bad dream | 32185 | [32185-sappers-bad-dream.json](./32185-sappers-bad-dream.json) |
 | Sapphic Space | 257950 | [257950-sapphic-space.json](./257950-sapphic-space.json) |
@@ -10994,6 +10995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spells For Sad Goths With Shitty Parents | 176921 | [176921-spells-for-sad-goths-with-shitty-parents.json](./176921-spells-for-sad-goths-with-shitty-parents.json) |
 | Spells of Genesis | 57726 | [57726-spells-of-genesis.json](./57726-spells-of-genesis.json) |
 | Spells of Gold | 13785 | [13785-spells-of-gold.json](./13785-spells-of-gold.json) |
+| Spellscribe | 211634 | [211634-spellscribe.json](./211634-spellscribe.json) |
 | Spellshaper | 213451 | [213451-spellshaper.json](./213451-spellshaper.json) |
 | Spellshard: The Black Crown of Horgoth | 149992 | [149992-spellshard-the-black-crown-of-horgoth.json](./149992-spellshard-the-black-crown-of-horgoth.json) |
 | Spellshot | 243700 | [243700-spellshot.json](./243700-spellshot.json) |
@@ -14965,6 +14967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subterranean Stryker | 13037 | [13037-subterranean-stryker.json](./13037-subterranean-stryker.json) |
 | Subterror | 291576 | [291576-subterror.json](./291576-subterror.json) |
 | Subtracto | 372536 | [372536-subtracto.json](./372536-subtracto.json) |
+| Subuccus | 211656 | [211656-subuccus.json](./211656-subuccus.json) |
 | Suburban Commando | 73811 | [73811-suburban-commando.json](./73811-suburban-commando.json) |
 | Suburban Footy League | 272911 | [272911-suburban-footy-league.json](./272911-suburban-footy-league.json) |
 | Suburban Hive | 308482 | [308482-suburban-hive.json](./308482-suburban-hive.json) |
@@ -16783,6 +16786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Orbital Mega Drift II | 339477 | [339477-super-orbital-mega-drift-ii.json](./339477-super-orbital-mega-drift-ii.json) |
 | Super Otamatone | 172524 | [172524-super-otamatone.json](./172524-super-otamatone.json) |
 | Super Over! | 244799 | [244799-super-over.json](./244799-super-over.json) |
+| Super Owlboy | 211658 | [211658-super-owlboy.json](./211658-super-owlboy.json) |
 | Super Pac-Man | 239191 | [239191-super-pac-man.json](./239191-super-pac-man.json) |
 | Super Pachinko | 46663 | [46663-super-pachinko.json](./46663-super-pachinko.json) |
 | Super Pads: Become a DJ | 96776 | [96776-super-pads-become-a-dj.json](./96776-super-pads-become-a-dj.json) |
@@ -17499,6 +17503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Fighters: Javan Havan the Drunken Fist | 293865 | [293865-supreme-fighters-javan-havan-the-drunken-fist.json](./293865-supreme-fighters-javan-havan-the-drunken-fist.json) |
 | Supreme Heroes | 369687 | [369687-supreme-heroes.json](./369687-supreme-heroes.json) |
 | Supreme Kung Fu | 339474 | [339474-supreme-kung-fu.json](./339474-supreme-kung-fu.json) |
+| Supreme OS | 211771 | [211771-supreme-os.json](./211771-supreme-os.json) |
 | Supreme Ruler 1936 | 16574 | [16574-supreme-ruler-1936.json](./16574-supreme-ruler-1936.json) |
 | Supreme Ruler 2020 | 2024 | [2024-supreme-ruler-2020.json](./2024-supreme-ruler-2020.json) |
 | Supreme Ruler 2020 Gold | 25062 | [25062-supreme-ruler-2020-gold.json](./25062-supreme-ruler-2020-gold.json) |
