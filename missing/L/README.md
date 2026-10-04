@@ -1805,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Len'en Monochrome World | 335405 | [335405-lenen-monochrome-world.json](./335405-lenen-monochrome-world.json) |
 | Lenin - The Lion | 99626 | [99626-lenin-the-lion.json](./99626-lenin-the-lion.json) |
 | Lenin Simulator | 195180 | [195180-lenin-simulator.json](./195180-lenin-simulator.json) |
+| Leningrad | 188430 | [188430-leningrad.json](./188430-leningrad.json) |
 | Lennod Jump Game | 384542 | [384542-lennod-jump-game.json](./384542-lennod-jump-game.json) |
 | Lennus II: Fuuin no Shito | 38376 | [38376-lennus-ii-fuuin-no-shito.json](./38376-lennus-ii-fuuin-no-shito.json) |
 | Lenny Loosejocks Goes Walkabout | 170548 | [170548-lenny-loosejocks-goes-walkabout.json](./170548-lenny-loosejocks-goes-walkabout.json) |
@@ -2346,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Magic | 64426 | [64426-life-is-magic.json](./64426-life-is-magic.json) |
 | Life Is Not the End | 156999 | [156999-life-is-not-the-end.json](./156999-life-is-not-the-end.json) |
 | Life is Pain | 239584 | [239584-life-is-pain.json](./239584-life-is-pain.json) |
+| Life is Paine | 188443 | [188443-life-is-paine.json](./188443-life-is-paine.json) |
 | Life is Strange 2: Episode 4 - Faith | 119055 | [119055-life-is-strange-2-episode-4-faith.json](./119055-life-is-strange-2-episode-4-faith.json) |
 | Life is Strange Collection | 361759 | [361759-life-is-strange-collection.json](./361759-life-is-strange-collection.json) |
 | Life is Strange Remastered Collection | 144770 | [144770-life-is-strange-remastered-collection.json](./144770-life-is-strange-remastered-collection.json) |
@@ -2524,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light-It Up: Neon Adventure | 279862 | [279862-light-it-up-neon-adventure.json](./279862-light-it-up-neon-adventure.json) |
 | Light-Years Away | 314919 | [314919-light-years-away.json](./314919-light-years-away.json) |
 | Light, Dark or Hrak? | 192259 | [192259-light-dark-or-hrak.json](./192259-light-dark-or-hrak.json) |
+| Light: Black Cat & Amnesia Girl | 188465 | [188465-light-black-cat-and-amnesia-girl.json](./188465-light-black-cat-and-amnesia-girl.json) |
 | Light: Path of the Archmage | 392136 | [392136-light-path-of-the-archmage.json](./392136-light-path-of-the-archmage.json) |
 | Light: Rebirth-The falsehood | 53274 | [53274-light-rebirth-the-falsehood.json](./53274-light-rebirth-the-falsehood.json) |
 | Light'em Up: For brainiacs only | 232495 | [232495-lightem-up-for-brainiacs-only.json](./232495-lightem-up-for-brainiacs-only.json) |
