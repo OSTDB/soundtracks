@@ -1202,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Musical Instrument Connect the Dots Puzzles - learn the ABC numbers shapes and for toddlers | 92089 | [92089-kids-musical-instrument-connect-the-dots-puzzles-learn-the-abc-numbers-shapes-and-for-toddlers.json](./92089-kids-musical-instrument-connect-the-dots-puzzles-learn-the-abc-numbers-shapes-and-for-toddlers.json) |
 | Kids of Karendow | 157052 | [157052-kids-of-karendow.json](./157052-kids-of-karendow.json) |
 | Kids on Keys | 97482 | [97482-kids-on-keys.json](./97482-kids-on-keys.json) |
+| Kids on Site: Hard Hat Edition | 209925 | [209925-kids-on-site-hard-hat-edition.json](./209925-kids-on-site-hard-hat-edition.json) |
 | Kids Preschool Puzzles | 323152 | [323152-kids-preschool-puzzles.json](./323152-kids-preschool-puzzles.json) |
 | Kids Puzzle - 2 in 1 Bundle | 231048 | [231048-kids-puzzle-2-in-1-bundle.json](./231048-kids-puzzle-2-in-1-bundle.json) |
 | Kids Station: Asobou! Hanasou! Guru-guru Town Hanamaru-kun | 148374 | [148374-kids-station-asobou-hanasou-guru-guru-town-hanamaru-kun.json](./148374-kids-station-asobou-hanasou-guru-guru-town-hanamaru-kun.json) |
@@ -2227,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klikwerk | 225282 | [225282-klikwerk.json](./225282-klikwerk.json) |
 | Klinok Doblesti 2 | 71791 | [71791-klinok-doblesti-2.json](./71791-klinok-doblesti-2.json) |
 | Klitorax | 221173 | [221173-klitorax.json](./221173-klitorax.json) |
+| Kloa: Child of the Forest | 209916 | [209916-kloa-child-of-the-forest.json](./209916-kloa-child-of-the-forest.json) |
 | Klondike | 14503 | [14503-klondike.json](./14503-klondike.json) |
 | Klondike | 281555 | [281555-klondike.json](./281555-klondike.json) |
 | Klondike & Girls | 112472 | [112472-klondike-and-girls.json](./112472-klondike-and-girls.json) |
