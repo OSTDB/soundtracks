@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UBeat | 91921 | [91921-ubeat.json](./91921-ubeat.json) |
 | Ubel | 195142 | [195142-ubel.json](./195142-ubel.json) |
 | Uber Squad | 179132 | [179132-uber-squad.json](./179132-uber-squad.json) |
+| UberFlight | 180056 | [180056-uberflight.json](./180056-uberflight.json) |
 | Ubergridder | 92521 | [92521-ubergridder.json](./92521-ubergridder.json) |
 | Ubermensch | 293649 | [293649-ubermensch.json](./293649-ubermensch.json) |
 | Ubermosh Vol.3 | 31669 | [31669-ubermosh-vol-3.json](./31669-ubermosh-vol-3.json) |
