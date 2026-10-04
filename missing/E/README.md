@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EarWorm | 340931 | [340931-earworm.json](./340931-earworm.json) |
 | Ease Out | 224544 | [224544-ease-out.json](./224544-ease-out.json) |
 | Eason | 192695 | [192695-eason.json](./192695-eason.json) |
+| East | 182314 | [182314-east.json](./182314-east.json) |
 | East Defense | 305526 | [305526-east-defense.json](./305526-east-defense.json) |
 | East Front Campaign CD 1 | 78704 | [78704-east-front-campaign-cd-1.json](./78704-east-front-campaign-cd-1.json) |
 | East Front II | 84257 | [84257-east-front-ii.json](./84257-east-front-ii.json) |
