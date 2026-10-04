@@ -5309,6 +5309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gate | 35727 | [35727-the-gate.json](./35727-the-gate.json) |
 | The Gate Must Stand | 370107 | [370107-the-gate-must-stand.json](./370107-the-gate-must-stand.json) |
 | The Gatekeeper of Scarlet's Mansion | 348237 | [348237-the-gatekeeper-of-scarlets-mansion.json](./348237-the-gatekeeper-of-scarlets-mansion.json) |
+| The Gateway Persona | 177890 | [177890-the-gateway-persona.json](./177890-the-gateway-persona.json) |
 | The Gateway to Hell | 271752 | [271752-the-gateway-to-hell.json](./271752-the-gateway-to-hell.json) |
 | The Gateway Trilogy | 51980 | [51980-the-gateway-trilogy.json](./51980-the-gateway-trilogy.json) |
 | The Gauntlet | 294930 | [294930-the-gauntlet.json](./294930-the-gauntlet.json) |
@@ -6878,6 +6879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Light at the End of the Ocean | 168635 | [168635-the-light-at-the-end-of-the-ocean.json](./168635-the-light-at-the-end-of-the-ocean.json) |
 | The Light Box | 242557 | [242557-the-light-box.json](./242557-the-light-box.json) |
 | The Light Brigade | 224505 | [224505-the-light-brigade.json](./224505-the-light-brigade.json) |
+| The Light City of Karola | 177897 | [177897-the-light-city-of-karola.json](./177897-the-light-city-of-karola.json) |
 | The Light Corridor | 12438 | [12438-the-light-corridor.json](./12438-the-light-corridor.json) |
 | The Light Empire | 34245 | [34245-the-light-empire.json](./34245-the-light-empire.json) |
 | The Light Inside Us | 55922 | [55922-the-light-inside-us.json](./55922-the-light-inside-us.json) |
@@ -7574,6 +7576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Neighbor: Escape Room | 309505 | [309505-the-neighbor-escape-room.json](./309505-the-neighbor-escape-room.json) |
 | The Neighborhood | 180592 | [180592-the-neighborhood.json](./180592-the-neighborhood.json) |
 | The Neon Mate | 137483 | [137483-the-neon-mate.json](./137483-the-neon-mate.json) |
+| The Neptune Diaries | 177889 | [177889-the-neptune-diaries.json](./177889-the-neptune-diaries.json) |
 | The Neroe | 199492 | [199492-the-neroe.json](./199492-the-neroe.json) |
 | The Nerve Game | 180256 | [180256-the-nerve-game.json](./180256-the-nerve-game.json) |
 | The NetherWorld | 271766 | [271766-the-netherworld.json](./271766-the-netherworld.json) |
@@ -9442,6 +9445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tideshell Keeper | 211805 | [211805-the-tideshell-keeper.json](./211805-the-tideshell-keeper.json) |
 | The Tiger T | 210668 | [210668-the-tiger-t.json](./210668-the-tiger-t.json) |
 | The Time Game | 310054 | [310054-the-time-game.json](./310054-the-time-game.json) |
+| The Time Has Come | 177873 | [177873-the-time-has-come.json](./177873-the-time-has-come.json) |
 | The Time Machine: Trapped in Time | 93704 | [93704-the-time-machine-trapped-in-time.json](./93704-the-time-machine-trapped-in-time.json) |
 | The Time of Awakening | 115138 | [115138-the-time-of-awakening.json](./115138-the-time-of-awakening.json) |
 | The Time Watcher | 192289 | [192289-the-time-watcher.json](./192289-the-time-watcher.json) |
@@ -10829,6 +10833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threadline | 396214 | [396214-threadline.json](./396214-threadline.json) |
 | Threads of Fate | 28402 | [28402-threads-of-fate.json](./28402-threads-of-fate.json) |
 | Threads of Karma | 338325 | [338325-threads-of-karma.json](./338325-threads-of-karma.json) |
+| Threads of Magic | 177879 | [177879-threads-of-magic.json](./177879-threads-of-magic.json) |
 | Threads of Time | 317820 | [317820-threads-of-time.json](./317820-threads-of-time.json) |
 | Threads of War | 296691 | [296691-threads-of-war.json](./296691-threads-of-war.json) |
 | Three Alpha One Nine | 312133 | [312133-three-alpha-one-nine.json](./312133-three-alpha-one-nine.json) |
@@ -12513,6 +12518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Pixels Vol. 2: Stormy Knights | 338928 | [338928-tiny-pixels-vol-2-stormy-knights.json](./338928-tiny-pixels-vol-2-stormy-knights.json) |
 | Tiny Poker | 150603 | [150603-tiny-poker.json](./150603-tiny-poker.json) |
 | Tiny Racing | 101963 | [101963-tiny-racing.json](./101963-tiny-racing.json) |
+| Tiny Rainbow Rebels | 177810 | [177810-tiny-rainbow-rebels.json](./177810-tiny-rainbow-rebels.json) |
 | Tiny Ramen Shop | 411843 | [411843-tiny-ramen-shop.json](./411843-tiny-ramen-shop.json) |
 | Tiny Realms | 61720 | [61720-tiny-realms.json](./61720-tiny-realms.json) |
 | Tiny Ring | 257364 | [257364-tiny-ring.json](./257364-tiny-ring.json) |
@@ -13414,6 +13420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomorrow Don't Come: Vicious Cycle | 172124 | [172124-tomorrow-dont-come-vicious-cycle.json](./172124-tomorrow-dont-come-vicious-cycle.json) |
 | Tomorrow for Mar | 199608 | [199608-tomorrow-for-mar.json](./199608-tomorrow-for-mar.json) |
 | Tomorrow is my Birthday | 260088 | [260088-tomorrow-is-my-birthday.json](./260088-tomorrow-is-my-birthday.json) |
+| Tomorrow Will Be Dying | 177874 | [177874-tomorrow-will-be-dying.json](./177874-tomorrow-will-be-dying.json) |
 | Tomorrow Won't Come For Those Without | 135658 | [135658-tomorrow-wont-come-for-those-without.json](./135658-tomorrow-wont-come-for-those-without.json) |
 | Tomorrow's Love Puzzle | 287722 | [287722-tomorrows-love-puzzle.json](./287722-tomorrows-love-puzzle.json) |
 | Tomorrowness | 377682 | [377682-tomorrowness.json](./377682-tomorrowness.json) |
