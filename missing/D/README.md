@@ -1276,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date A Live: Spirit Pledge | 125935 | [125935-date-a-live-spirit-pledge.json](./125935-date-a-live-spirit-pledge.json) |
 | Date Banger | 326191 | [326191-date-banger.json](./326191-date-banger.json) |
 | Date de Blackjack | 401060 | [401060-date-de-blackjack.json](./401060-date-de-blackjack.json) |
+| Date ni Game Tsui Wake Jane! Dungeon Maker Girls Type | 214552 | [214552-date-ni-game-tsui-wake-jane-dungeon-maker-girls-type.json](./214552-date-ni-game-tsui-wake-jane-dungeon-maker-girls-type.json) |
 | Date Night | 179077 | [179077-date-night.json](./179077-date-night.json) |
 | Date Night Bowling | 137109 | [137109-date-night-bowling.json](./137109-date-night-bowling.json) |
 | Date Nite | 336598 | [336598-date-nite.json](./336598-date-nite.json) |
@@ -3505,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Force: Rescue Mission | 259072 | [259072-desert-force-rescue-mission.json](./259072-desert-force-rescue-mission.json) |
 | Desert Gunner | 17116 | [17116-desert-gunner.json](./17116-desert-gunner.json) |
 | Desert Island 64 | 231508 | [231508-desert-island-64.json](./231508-desert-island-64.json) |
+| Desert Journey | 214557 | [214557-desert-journey.json](./214557-desert-journey.json) |
 | Desert King 2 | 208918 | [208918-desert-king-2.json](./208918-desert-king-2.json) |
 | Desert Kingdom Portable: Limited Edition | 44510 | [44510-desert-kingdom-portable-limited-edition.json](./44510-desert-kingdom-portable-limited-edition.json) |
 | Desert Kingdoms 2 | 303473 | [303473-desert-kingdoms-2.json](./303473-desert-kingdoms-2.json) |
@@ -3702,6 +3704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Season of the Splicer Silver Bundle | 147893 | [147893-destiny-2-season-of-the-splicer-silver-bundle.json](./147893-destiny-2-season-of-the-splicer-silver-bundle.json) |
 | Destiny 2: Shadowkeep - Season of Arrivals | 135150 | [135150-destiny-2-shadowkeep-season-of-arrivals.json](./135150-destiny-2-shadowkeep-season-of-arrivals.json) |
 | Destiny 2: Shadowkeep - Season of the Worthy | 135147 | [135147-destiny-2-shadowkeep-season-of-the-worthy.json](./135147-destiny-2-shadowkeep-season-of-the-worthy.json) |
+| Destiny 2: The Witch Queen - Season of Plunder | 214424 | [214424-destiny-2-the-witch-queen-season-of-plunder.json](./214424-destiny-2-the-witch-queen-season-of-plunder.json) |
 | Destiny 2: The Witch Queen - Season of the Seraph | 228435 | [228435-destiny-2-the-witch-queen-season-of-the-seraph.json](./228435-destiny-2-the-witch-queen-season-of-the-seraph.json) |
 | Destiny 2: Warmind | 97258 | [97258-destiny-2-warmind.json](./97258-destiny-2-warmind.json) |
 | Destiny Chaser | 114413 | [114413-destiny-chaser.json](./114413-destiny-chaser.json) |
@@ -4613,6 +4616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dima Rescues Ira | 75157 | [75157-dima-rescues-ira.json](./75157-dima-rescues-ira.json) |
 | Dimachaerus | 301248 | [301248-dimachaerus.json](./301248-dimachaerus.json) |
 | Dimahoo | 38527 | [38527-dimahoo.json](./38527-dimahoo.json) |
+| Dimday Red | 214389 | [214389-dimday-red.json](./214389-dimday-red.json) |
 | Dime City | 94565 | [94565-dime-city.json](./94565-dime-city.json) |
 | Dimenseum | 396376 | [396376-dimenseum.json](./396376-dimenseum.json) |
 | Dimension | 355177 | [355177-dimension.json](./355177-dimension.json) |
@@ -6478,6 +6482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut Blast | 340529 | [340529-donut-blast.json](./340529-donut-blast.json) |
 | Donut Boi | 130268 | [130268-donut-boi.json](./130268-donut-boi.json) |
 | Donut Break 2: Head to Head | 214516 | [214516-donut-break-2-head-to-head.json](./214516-donut-break-2-head-to-head.json) |
+| Donut Break: Head to Head | 214566 | [214566-donut-break-head-to-head.json](./214566-donut-break-head-to-head.json) |
 | Donut County | 55080 | [55080-donut-county.json](./55080-donut-county.json) |
 | Donut Crabs | 206715 | [206715-donut-crabs.json](./206715-donut-crabs.json) |
 | Donut Drop by ABCya | 96075 | [96075-donut-drop-by-abcya.json](./96075-donut-drop-by-abcya.json) |
@@ -6511,6 +6516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Factory | 295801 | [295801-doodle-factory.json](./295801-doodle-factory.json) |
 | Doodle Farm: Breeds and Beasts | 375303 | [375303-doodle-farm-breeds-and-beasts.json](./375303-doodle-farm-breeds-and-beasts.json) |
 | Doodle Fit | 42828 | [42828-doodle-fit.json](./42828-doodle-fit.json) |
+| Doodle Fit Hell-O-Ween | 214555 | [214555-doodle-fit-hell-o-ween.json](./214555-doodle-fit-hell-o-ween.json) |
 | Doodle Games Bundle | 147800 | [147800-doodle-games-bundle.json](./147800-doodle-games-bundle.json) |
 | Doodle God | 18528 | [18528-doodle-god.json](./18528-doodle-god.json) |
 | Doodle God Blitz | 68341 | [68341-doodle-god-blitz.json](./68341-doodle-god-blitz.json) |
@@ -9655,6 +9661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying for Daylight | 79904 | [79904-dying-for-daylight.json](./79904-dying-for-daylight.json) |
 | Dying For Treasure | 141007 | [141007-dying-for-treasure.json](./141007-dying-for-treasure.json) |
 | Dying In Dungeon | 181765 | [181765-dying-in-dungeon.json](./181765-dying-in-dungeon.json) |
+| Dying Light 2: Stay Human - Bloody Ties | 214400 | [214400-dying-light-2-stay-human-bloody-ties.json](./214400-dying-light-2-stay-human-bloody-ties.json) |
 | Dying Light 2: Stay Human - Chicken Bundle | 243671 | [243671-dying-light-2-stay-human-chicken-bundle.json](./243671-dying-light-2-stay-human-chicken-bundle.json) |
 | Dying Light 2: Stay Human - Collector's Edition | 150146 | [150146-dying-light-2-stay-human-collectors-edition.json](./150146-dying-light-2-stay-human-collectors-edition.json) |
 | Dying Light 2: Stay Human - Reloaded Edition | 322800 | [322800-dying-light-2-stay-human-reloaded-edition.json](./322800-dying-light-2-stay-human-reloaded-edition.json) |
