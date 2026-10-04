@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harm Other | 96502 | [96502-harm-other.json](./96502-harm-other.json) |
 | Harmagedon | 340416 | [340416-harmagedon.json](./340416-harmagedon.json) |
 | Harmful | 216170 | [216170-harmful.json](./216170-harmful.json) |
+| Harmful: The Second Tape | 187884 | [187884-harmful-the-second-tape.json](./187884-harmful-the-second-tape.json) |
 | HarmoKnight | 18156 | [18156-harmoknight.json](./18156-harmoknight.json) |
 | Harmolinks | 404384 | [404384-harmolinks.json](./404384-harmolinks.json) |
 | Harmoni | 296903 | [296903-harmoni.json](./296903-harmoni.json) |
@@ -1379,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Laia | 193881 | [193881-haunted-laia.json](./193881-haunted-laia.json) |
 | Haunted Lands: Burial Grounds | 240502 | [240502-haunted-lands-burial-grounds.json](./240502-haunted-lands-burial-grounds.json) |
 | Haunted Legends: Cursed Gift | 107115 | [107115-haunted-legends-cursed-gift.json](./107115-haunted-legends-cursed-gift.json) |
+| Haunted Legends: The Black Hawk | 187920 | [187920-haunted-legends-the-black-hawk.json](./187920-haunted-legends-the-black-hawk.json) |
 | Haunted Legends: The Queen of Spades - Collector's Edition | 31067 | [31067-haunted-legends-the-queen-of-spades-collectors-edition.json](./31067-haunted-legends-the-queen-of-spades-collectors-edition.json) |
 | Haunted Legends: The Secret of Life | 100007 | [100007-haunted-legends-the-secret-of-life.json](./100007-haunted-legends-the-secret-of-life.json) |
 | Haunted Legends: The Stone Guest - Collector's Edition | 99621 | [99621-haunted-legends-the-stone-guest-collectors-edition.json](./99621-haunted-legends-the-stone-guest-collectors-edition.json) |
@@ -3556,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Dungeon Top-Down 3D | 222935 | [222935-hidden-dungeon-top-down-3d.json](./222935-hidden-dungeon-top-down-3d.json) |
 | Hidden Epee | 248116 | [248116-hidden-epee.json](./248116-hidden-epee.json) |
 | Hidden Expedition Collection | 50860 | [50860-hidden-expedition-collection.json](./50860-hidden-expedition-collection.json) |
+| Hidden Expedition: A King's Line | 187923 | [187923-hidden-expedition-a-kings-line.json](./187923-hidden-expedition-a-kings-line.json) |
 | Hidden Expedition: Crown of Solomon | 140034 | [140034-hidden-expedition-crown-of-solomon.json](./140034-hidden-expedition-crown-of-solomon.json) |
 | Hidden Expedition: Neptune's Gift | 187960 | [187960-hidden-expedition-neptunes-gift.json](./187960-hidden-expedition-neptunes-gift.json) |
 | Hidden Expedition: Smithsonian Castle | 187950 | [187950-hidden-expedition-smithsonian-castle.json](./187950-hidden-expedition-smithsonian-castle.json) |
@@ -3566,6 +3569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: The Fountain of Youth - Collector's Edition | 53213 | [53213-hidden-expedition-the-fountain-of-youth-collectors-edition.json](./53213-hidden-expedition-the-fountain-of-youth-collectors-edition.json) |
 | Hidden Expedition: The Pearl of Discord | 140037 | [140037-hidden-expedition-the-pearl-of-discord.json](./140037-hidden-expedition-the-pearl-of-discord.json) |
 | Hidden Expedition: The Pearl of Discord - Collector's Edition | 29102 | [29102-hidden-expedition-the-pearl-of-discord-collectors-edition.json](./29102-hidden-expedition-the-pearl-of-discord-collectors-edition.json) |
+| Hidden Expedition: The Price of Paradise | 187927 | [187927-hidden-expedition-the-price-of-paradise.json](./187927-hidden-expedition-the-price-of-paradise.json) |
 | Hidden Farm 2 Top-Down 3D | 208593 | [208593-hidden-farm-2-top-down-3d.json](./208593-hidden-farm-2-top-down-3d.json) |
 | Hidden Fears | 86916 | [86916-hidden-fears.json](./86916-hidden-fears.json) |
 | Hidden Folks | 26809 | [26809-hidden-folks.json](./26809-hidden-folks.json) |
@@ -6197,6 +6201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry | 201646 | [201646-hungry.json](./201646-hungry.json) |
 | Hungry Adventurer | 248013 | [248013-hungry-adventurer.json](./248013-hungry-adventurer.json) |
 | Hungry Animals | 196675 | [196675-hungry-animals.json](./196675-hungry-animals.json) |
+| Hungry Birds | 187889 | [187889-hungry-birds.json](./187889-hungry-birds.json) |
 | Hungry Black Hole | 28106 | [28106-hungry-black-hole.json](./28106-hungry-black-hole.json) |
 | Hungry Burger | 222354 | [222354-hungry-burger.json](./222354-hungry-burger.json) |
 | Hungry Cat | 387690 | [387690-hungry-cat.json](./387690-hungry-cat.json) |
@@ -6711,6 +6716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypogeal | 401015 | [401015-hypogeal.json](./401015-hypogeal.json) |
 | Hypogean Descent | 266791 | [266791-hypogean-descent.json](./266791-hypogean-descent.json) |
 | Hyposphere | 33020 | [33020-hyposphere.json](./33020-hyposphere.json) |
+| Hyposphere 2 | 187918 | [187918-hyposphere-2.json](./187918-hyposphere-2.json) |
 | Hypotheses on the Symmetry between Vision and Hands | 294157 | [294157-hypotheses-on-the-symmetry-between-vision-and-hands.json](./294157-hypotheses-on-the-symmetry-between-vision-and-hands.json) |
 | Hypotheticards: a nature collection mystery!! | 182848 | [182848-hypotheticards-a-nature-collection-mystery.json](./182848-hypotheticards-a-nature-collection-mystery.json) |
 | Hypothetimania | 278405 | [278405-hypothetimania.json](./278405-hypothetimania.json) |
