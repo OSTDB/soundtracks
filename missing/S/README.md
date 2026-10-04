@@ -14781,6 +14781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stryfe - The Everlasting Battle | 39136 | [39136-stryfe-the-everlasting-battle.json](./39136-stryfe-the-everlasting-battle.json) |
 | Stryke | 249805 | [249805-stryke.json](./249805-stryke.json) |
 | STSP: Super Titty Space Prison | 260643 | [260643-stsp-super-titty-space-prison.json](./260643-stsp-super-titty-space-prison.json) |
+| Stu: The First AI | 207741 | [207741-stu-the-first-ai.json](./207741-stu-the-first-ai.json) |
 | Stuart Little 2 | 121606 | [121606-stuart-little-2.json](./121606-stuart-little-2.json) |
 | Stuart Little 2 | 27628 | [27628-stuart-little-2.json](./27628-stuart-little-2.json) |
 | Stuart Little 3: Big Photo Adventure | 43455 | [43455-stuart-little-3-big-photo-adventure.json](./43455-stuart-little-3-big-photo-adventure.json) |
