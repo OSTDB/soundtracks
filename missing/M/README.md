@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maggotmania | 109041 | [109041-maggotmania.json](./109041-maggotmania.json) |
 | Magi Death Fight: Mahou Gakuen | 58878 | [58878-magi-death-fight-mahou-gakuen.json](./58878-magi-death-fight-mahou-gakuen.json) |
 | Magi Trials | 33449 | [33449-magi-trials.json](./33449-magi-trials.json) |
+| Magi: Hajimari no Meikyuu | 191666 | [191666-magi-hajimari-no-meikyuu.json](./191666-magi-hajimari-no-meikyuu.json) |
 | Magi: Mind Game | 197917 | [197917-magi-mind-game.json](./197917-magi-mind-game.json) |
 | Magia Para Todos | 86111 | [86111-magia-para-todos.json](./86111-magia-para-todos.json) |
 | Magia Record | 231933 | [231933-magia-record.json](./231933-magia-record.json) |
@@ -4197,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megadon | 40356 | [40356-megadon.json](./40356-megadon.json) |
 | MegaDrill | 286637 | [286637-megadrill.json](./286637-megadrill.json) |
 | Megadungeon | 310752 | [310752-megadungeon.json](./310752-megadungeon.json) |
+| MegaFactory Titan | 191648 | [191648-megafactory-titan.json](./191648-megafactory-titan.json) |
 | Megafist | 332400 | [332400-megafist.json](./332400-megafist.json) |
 | Megafortress | 71481 | [71481-megafortress.json](./71481-megafortress.json) |
 | Megafortress Collection | 244870 | [244870-megafortress-collection.json](./244870-megafortress-collection.json) |
@@ -6905,6 +6907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mion and the Cursed Killer Hamster | 224576 | [224576-mion-and-the-cursed-killer-hamster.json](./224576-mion-and-the-cursed-killer-hamster.json) |
 | Mir | 148952 | [148952-mir.json](./148952-mir.json) |
 | Mir | 363939 | [363939-mir.json](./363939-mir.json) |
+| Mir-Mahna | 191668 | [191668-mir-mahna.json](./191668-mir-mahna.json) |
 | Mira and the Legend of the Djinns | 197172 | [197172-mira-and-the-legend-of-the-djinns.json](./197172-mira-and-the-legend-of-the-djinns.json) |
 | Mira and the Mysteries of Alchemy | 168222 | [168222-mira-and-the-mysteries-of-alchemy.json](./168222-mira-and-the-mysteries-of-alchemy.json) |
 | Mira: A Bird's Flight | 208462 | [208462-mira-a-birds-flight.json](./208462-mira-a-birds-flight.json) |
@@ -10187,6 +10190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Wars: Space! | 268502 | [268502-mushroom-wars-space.json](./268502-mushroom-wars-space.json) |
 | Mushroom: The Ruckus | 98994 | [98994-mushroom-the-ruckus.json](./98994-mushroom-the-ruckus.json) |
 | MushroomJump | 311273 | [311273-mushroomjump.json](./311273-mushroomjump.json) |
+| Mushy | 191660 | [191660-mushy.json](./191660-mushy.json) |
 | Mushy Score | 257694 | [257694-mushy-score.json](./257694-mushy-score.json) |
 | Music Box | 309035 | [309035-music-box.json](./309035-music-box.json) |
 | Music Box: Electro Pop | 316232 | [316232-music-box-electro-pop.json](./316232-music-box-electro-pop.json) |
