@@ -1952,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agartha | 145519 | [145519-agartha.json](./145519-agartha.json) |
 | Agartha Platform 81!: City of Angels | 400499 | [400499-agartha-platform-81-city-of-angels.json](./400499-agartha-platform-81-city-of-angels.json) |
 | Agassi Tennis Generation | 248735 | [248735-agassi-tennis-generation.json](./248735-agassi-tennis-generation.json) |
+| Agatha Christie Collection | 214003 | [214003-agatha-christie-collection.json](./214003-agatha-christie-collection.json) |
 | Agatha Christie: 4:50 from Paddington | 135245 | [135245-agatha-christie-4-50-from-paddington.json](./135245-agatha-christie-4-50-from-paddington.json) |
 | Agatha Christie: Dead Man's Folly | 135105 | [135105-agatha-christie-dead-mans-folly.json](./135105-agatha-christie-dead-mans-folly.json) |
 | Agatha Christie: Death on the Nile | 21134 | [21134-agatha-christie-death-on-the-nile.json](./21134-agatha-christie-death-on-the-nile.json) |
