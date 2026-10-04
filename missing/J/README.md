@@ -1464,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to Chaos: Pilgrimage to the West | 355218 | [355218-journey-to-chaos-pilgrimage-to-the-west.json](./355218-journey-to-chaos-pilgrimage-to-the-west.json) |
 | Journey to die | 327341 | [327341-journey-to-die.json](./327341-journey-to-die.json) |
 | Journey to Earth | 302921 | [302921-journey-to-earth.json](./302921-journey-to-earth.json) |
+| Journey to Entorus | 215178 | [215178-journey-to-entorus.json](./215178-journey-to-entorus.json) |
 | Journey to Kreisia | 321998 | [321998-journey-to-kreisia.json](./321998-journey-to-kreisia.json) |
 | Journey to Kreisia | 68977 | [68977-journey-to-kreisia.json](./68977-journey-to-kreisia.json) |
 | Journey to Luonto | 75943 | [75943-journey-to-luonto.json](./75943-journey-to-luonto.json) |
