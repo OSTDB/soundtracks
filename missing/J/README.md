@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jo and Momo: Forest Rush | 101774 | [101774-jo-and-momo-forest-rush.json](./101774-jo-and-momo-forest-rush.json) |
 | Jo-Jo Fighter | 182366 | [182366-jo-jo-fighter.json](./182366-jo-jo-fighter.json) |
 | Jo's Dream: Organic Coffee | 123638 | [123638-jos-dream-organic-coffee.json](./123638-jos-dream-organic-coffee.json) |
+| Jo's House | 177391 | [177391-jos-house.json](./177391-jos-house.json) |
 | Joan Jade and the Gates of Xibalba | 53248 | [53248-joan-jade-and-the-gates-of-xibalba.json](./53248-joan-jade-and-the-gates-of-xibalba.json) |
 | Joan of Arc: The Beginning | 127841 | [127841-joan-of-arc-the-beginning.json](./127841-joan-of-arc-the-beginning.json) |
 | Joanie | 176386 | [176386-joanie.json](./176386-joanie.json) |
