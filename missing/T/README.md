@@ -3428,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bells' Arietta | 313334 | [313334-the-bells-arietta.json](./313334-the-bells-arietta.json) |
 | The Bend | 172719 | [172719-the-bend.json](./172719-the-bend.json) |
 | The Bends | 178538 | [178538-the-bends.json](./178538-the-bends.json) |
+| The Bendy Strawmen Inc. Team Bonding Beach Volley Bonanza | 183911 | [183911-the-bendy-strawmen-inc-team-bonding-beach-volley-bonanza.json](./183911-the-bendy-strawmen-inc-team-bonding-beach-volley-bonanza.json) |
 | The Benjamins | 169382 | [169382-the-benjamins.json](./169382-the-benjamins.json) |
 | The Berenstain Bears and the Spooky Old Tree | 49311 | [49311-the-berenstain-bears-and-the-spooky-old-tree.json](./49311-the-berenstain-bears-and-the-spooky-old-tree.json) |
 | The Berenstain Bears: Learning At Home, Volume One | 71548 | [71548-the-berenstain-bears-learning-at-home-volume-one.json](./71548-the-berenstain-bears-learning-at-home-volume-one.json) |
@@ -10710,6 +10711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Starry Midnight We Make | 17776 | [17776-this-starry-midnight-we-make.json](./17776-this-starry-midnight-we-make.json) |
 | This Strange Realm of Mine | 50506 | [50506-this-strange-realm-of-mine.json](./50506-this-strange-realm-of-mine.json) |
 | This Thing of Ours | 214162 | [214162-this-thing-of-ours.json](./214162-this-thing-of-ours.json) |
+| This too | 183940 | [183940-this-too.json](./183940-this-too.json) |
 | This Trip: Hunted in Forest | 178520 | [178520-this-trip-hunted-in-forest.json](./178520-this-trip-hunted-in-forest.json) |
 | This War of Mine: Complete Edition | 111817 | [111817-this-war-of-mine-complete-edition.json](./111817-this-war-of-mine-complete-edition.json) |
 | This War of Mine: Stories - Father's Promise | 75871 | [75871-this-war-of-mine-stories-fathers-promise.json](./75871-this-war-of-mine-stories-fathers-promise.json) |
@@ -12436,6 +12438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Jukebox | 279857 | [279857-tiny-jukebox.json](./279857-tiny-jukebox.json) |
 | Tiny Jump | 254559 | [254559-tiny-jump.json](./254559-tiny-jump.json) |
 | Tiny Jumper | 109922 | [109922-tiny-jumper.json](./109922-tiny-jumper.json) |
+| Tiny Kingdom | 183852 | [183852-tiny-kingdom.json](./183852-tiny-kingdom.json) |
 | Tiny Kingdom | 309616 | [309616-tiny-kingdom.json](./309616-tiny-kingdom.json) |
 | Tiny Kingdom Builder | 315634 | [315634-tiny-kingdom-builder.json](./315634-tiny-kingdom-builder.json) |
 | Tiny Kingdoms | 311119 | [311119-tiny-kingdoms.json](./311119-tiny-kingdoms.json) |
@@ -13468,6 +13471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonzurakko | 66630 | [66630-tonzurakko.json](./66630-tonzurakko.json) |
 | Too Deep To Quit | 397820 | [397820-too-deep-to-quit.json](./397820-too-deep-to-quit.json) |
 | Too Far Too Late | 295550 | [295550-too-far-too-late.json](./295550-too-far-too-late.json) |
+| Too Fast | 183913 | [183913-too-fast.json](./183913-too-fast.json) |
 | Too Fast RPG | 240277 | [240277-too-fast-rpg.json](./240277-too-fast-rpg.json) |
 | Too Hot to Be True | 406715 | [406715-too-hot-to-be-true.json](./406715-too-hot-to-be-true.json) |
 | Too Hot to Handle: Love is a Game | 204449 | [204449-too-hot-to-handle-love-is-a-game.json](./204449-too-hot-to-handle-love-is-a-game.json) |
