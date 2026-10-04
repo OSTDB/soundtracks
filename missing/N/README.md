@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Heat | 49956 | [49956-nascar-heat.json](./49956-nascar-heat.json) |
 | NASCAR Heat 2002 | 248619 | [248619-nascar-heat-2002.json](./248619-nascar-heat-2002.json) |
 | NASCAR Heat 4 | 120487 | [120487-nascar-heat-4.json](./120487-nascar-heat-4.json) |
+| NASCAR Heat 4: Gold Edition | 187900 | [187900-nascar-heat-4-gold-edition.json](./187900-nascar-heat-4-gold-edition.json) |
 | NASCAR Heat 5 | 134370 | [134370-nascar-heat-5.json](./134370-nascar-heat-5.json) |
 | NASCAR Heat 5: Ultimate Edition | 164815 | [164815-nascar-heat-5-ultimate-edition.json](./164815-nascar-heat-5-ultimate-edition.json) |
 | NASCAR Heat Bundle | 273941 | [273941-nascar-heat-bundle.json](./273941-nascar-heat-bundle.json) |
@@ -1653,6 +1654,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neversong | 133261 | [133261-neversong.json](./133261-neversong.json) |
 | Neversong: Collector's Edition | 139840 | [139840-neversong-collectors-edition.json](./139840-neversong-collectors-edition.json) |
 | NeverSynth | 225878 | [225878-neversynth.json](./225878-neversynth.json) |
+| Nevertales: Faryon | 187926 | [187926-nevertales-faryon.json](./187926-nevertales-faryon.json) |
+| Nevertales: Forgotten Pages | 187919 | [187919-nevertales-forgotten-pages.json](./187919-nevertales-forgotten-pages.json) |
 | Nevertales: Hidden Doorway - Collector's Edition | 416617 | [416617-nevertales-hidden-doorway-collectors-edition.json](./416617-nevertales-hidden-doorway-collectors-edition.json) |
 | Nevertales: Legends - Collector's Edition | 76513 | [76513-nevertales-legends-collectors-edition.json](./76513-nevertales-legends-collectors-edition.json) |
 | Nevertales: Smoke and Mirrors HD | 108459 | [108459-nevertales-smoke-and-mirrors-hd.json](./108459-nevertales-smoke-and-mirrors-hd.json) |
