@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edgar: Bokbok in Boulzac | 114591 | [114591-edgar-bokbok-in-boulzac.json](./114591-edgar-bokbok-in-boulzac.json) |
 | Edgar's Room | 189939 | [189939-edgars-room.json](./189939-edgars-room.json) |
 | Edge | 8392 | [8392-edge.json](./8392-edge.json) |
+| Edge Case | 208266 | [208266-edge-case.json](./208266-edge-case.json) |
 | Edge of Atlantis | 28946 | [28946-edge-of-atlantis.json](./28946-edge-of-atlantis.json) |
 | Edge of Collapse | 214387 | [214387-edge-of-collapse.json](./214387-edge-of-collapse.json) |
 | Edge of Dawn | 135799 | [135799-edge-of-dawn.json](./135799-edge-of-dawn.json) |
@@ -1392,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ElvenEscape | 203945 | [203945-elvenescape.json](./203945-elvenescape.json) |
 | Elves | 295940 | [295940-elves.json](./295940-elves.json) |
 | Elves Adventure | 31972 | [31972-elves-adventure.json](./31972-elves-adventure.json) |
+| Elves Fantasy: Hentai Puzzle | 208229 | [208229-elves-fantasy-hentai-puzzle.json](./208229-elves-fantasy-hentai-puzzle.json) |
 | Elves Jigsaw Puzzle Collection | 229041 | [229041-elves-jigsaw-puzzle-collection.json](./229041-elves-jigsaw-puzzle-collection.json) |
 | Elves of Duty | 211922 | [211922-elves-of-duty.json](./211922-elves-of-duty.json) |
 | Elves vs. Goblins Mahjongg World | 275737 | [275737-elves-vs-goblins-mahjongg-world.json](./275737-elves-vs-goblins-mahjongg-world.json) |
