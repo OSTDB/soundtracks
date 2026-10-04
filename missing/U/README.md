@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underwater Diving | 224547 | [224547-underwater-diving.json](./224547-underwater-diving.json) |
 | Underwater Life | 148514 | [148514-underwater-life.json](./148514-underwater-life.json) |
 | Underwater Life Bundle | 273005 | [273005-underwater-life-bundle.json](./273005-underwater-life-bundle.json) |
+| Underwater World | 204924 | [204924-underwater-world.json](./204924-underwater-world.json) |
 | Underwater World: DLC Pack | 263150 | [263150-underwater-world-dlc-pack.json](./263150-underwater-world-dlc-pack.json) |
 | Underwater: Stay Alive | 114194 | [114194-underwater-stay-alive.json](./114194-underwater-stay-alive.json) |
 | Underwheels | 355073 | [355073-underwheels.json](./355073-underwheels.json) |
@@ -1182,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uni Ver Se | 185635 | [185635-uni-ver-se.json](./185635-uni-ver-se.json) |
 | Unibat | 252225 | [252225-unibat.json](./252225-unibat.json) |
 | Unicellular | 185602 | [185602-unicellular.json](./185602-unicellular.json) |
+| Unichrome: A 1-Bit Unicorn Adventure | 204925 | [204925-unichrome-a-1-bit-unicorn-adventure.json](./204925-unichrome-a-1-bit-unicorn-adventure.json) |
 | Unicorn | 223672 | [223672-unicorn.json](./223672-unicorn.json) |
 | Unicorn 3D | 87057 | [87057-unicorn-3d.json](./87057-unicorn-3d.json) |
 | Unicorn Academy: Island of Magic | 410966 | [410966-unicorn-academy-island-of-magic.json](./410966-unicorn-academy-island-of-magic.json) |
