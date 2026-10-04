@@ -2682,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive Defense | 239740 | [239740-massive-defense.json](./239740-massive-defense.json) |
 | Massive Galaxy | 89669 | [89669-massive-galaxy.json](./89669-massive-galaxy.json) |
 | Massive Warfare: Aftermath | 347878 | [347878-massive-warfare-aftermath.json](./347878-massive-warfare-aftermath.json) |
+| Mastaba Snoopy | 221788 | [221788-mastaba-snoopy.json](./221788-mastaba-snoopy.json) |
 | Mastema: Out of Hell | 29424 | [29424-mastema-out-of-hell.json](./29424-mastema-out-of-hell.json) |
 | Master Alchemist Simulator | 396522 | [396522-master-alchemist-simulator.json](./396522-master-alchemist-simulator.json) |
 | Master Archer | 185544 | [185544-master-archer.json](./185544-master-archer.json) |
