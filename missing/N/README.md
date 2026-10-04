@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nana-chan no Star Tanjou | 66131 | [66131-nana-chan-no-star-tanjou.json](./66131-nana-chan-no-star-tanjou.json) |
 | Nanako Descends to Hell | 39151 | [39151-nanako-descends-to-hell.json](./39151-nanako-descends-to-hell.json) |
 | Nanali in another world | 226195 | [226195-nanali-in-another-world.json](./226195-nanali-in-another-world.json) |
+| Naname de Magic! | 213831 | [213831-naname-de-magic.json](./213831-naname-de-magic.json) |
 | Nanatama: Chronicle of Dungeon Maker | 59366 | [59366-nanatama-chronicle-of-dungeon-maker.json](./59366-nanatama-chronicle-of-dungeon-maker.json) |
 | Nanatsu no Hikan | 137031 | [137031-nanatsu-no-hikan.json](./137031-nanatsu-no-hikan.json) |
 | Nanatsuiro Drops | 70642 | [70642-nanatsuiro-drops.json](./70642-nanatsuiro-drops.json) |
