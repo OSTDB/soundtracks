@@ -1206,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZPack: Random Maps for ZDoom | 260981 | [260981-zpack-random-maps-for-zdoom.json](./260981-zpack-random-maps-for-zdoom.json) |
 | ZpellCatz | 206340 | [206340-zpellcatz.json](./206340-zpellcatz.json) |
 | ZPF | 308919 | [308919-zpf.json](./308919-zpf.json) |
+| ZPlague | 188981 | [188981-zplague.json](./188981-zplague.json) |
 | ZRoll | 33118 | [33118-zroll.json](./33118-zroll.json) |
 | Ztar Attack 3: Dimensional Panic | 294780 | [294780-ztar-attack-3-dimensional-panic.json](./294780-ztar-attack-3-dimensional-panic.json) |
 | Ztar Attack Rebooted | 135231 | [135231-ztar-attack-rebooted.json](./135231-ztar-attack-rebooted.json) |
