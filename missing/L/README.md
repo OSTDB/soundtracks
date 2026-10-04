@@ -2816,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lineality | 286600 | [286600-lineality.json](./286600-lineality.json) |
 | Linear Calamity | 293676 | [293676-linear-calamity.json](./293676-linear-calamity.json) |
 | Linear Doom | 217795 | [217795-linear-doom.json](./217795-linear-doom.json) |
+| Linear Racing | 195046 | [195046-linear-racing.json](./195046-linear-racing.json) |
 | Linear S | 349331 | [349331-linear-s.json](./349331-linear-s.json) |
 | LinearShooter Remixed | 186327 | [186327-linearshooter-remixed.json](./186327-linearshooter-remixed.json) |
 | LineArt Jigsaw Puzzle: Airplanes | 286239 | [286239-lineart-jigsaw-puzzle-airplanes.json](./286239-lineart-jigsaw-puzzle-airplanes.json) |
