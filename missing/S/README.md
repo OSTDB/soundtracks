@@ -7289,6 +7289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Girl's: Magical Book Club | 124047 | [124047-smart-girls-magical-book-club.json](./124047-smart-girls-magical-book-club.json) |
 | Smart Girl's: Party Games | 124046 | [124046-smart-girls-party-games.json](./124046-smart-girls-party-games.json) |
 | Smart Girl's: Playhouse | 124045 | [124045-smart-girls-playhouse.json](./124045-smart-girls-playhouse.json) |
+| Smart Girl's: Playhouse II | 208864 | [208864-smart-girls-playhouse-ii.json](./208864-smart-girls-playhouse-ii.json) |
 | Smart Girl's: Winter Wonderland | 124049 | [124049-smart-girls-winter-wonderland.json](./124049-smart-girls-winter-wonderland.json) |
 | Smart Kid's: Gameclub | 124050 | [124050-smart-kids-gameclub.json](./124050-smart-kids-gameclub.json) |
 | Smart Kid's: Party Fun Pack | 124059 | [124059-smart-kids-party-fun-pack.json](./124059-smart-kids-party-fun-pack.json) |
@@ -7591,6 +7592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Dice | 364679 | [364679-snake-dice.json](./364679-snake-dice.json) |
 | Snake Echos | 417645 | [417645-snake-echos.json](./417645-snake-echos.json) |
 | Snake EX | 133869 | [133869-snake-ex.json](./133869-snake-ex.json) |
+| Snake Eyes | 208983 | [208983-snake-eyes.json](./208983-snake-eyes.json) |
 | Snake Eyes | 369733 | [369733-snake-eyes.json](./369733-snake-eyes.json) |
 | Snake Flow | 37061 | [37061-snake-flow.json](./37061-snake-flow.json) |
 | Snake Force | 182382 | [182382-snake-force.json](./182382-snake-force.json) |
@@ -9874,6 +9876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space and Lazers | 324320 | [324320-space-and-lazers.json](./324320-space-and-lazers.json) |
 | Space Angel Boin Boin! | 97832 | [97832-space-angel-boin-boin.json](./97832-space-angel-boin-boin.json) |
 | Space Arcade | 237374 | [237374-space-arcade.json](./237374-space-arcade.json) |
+| Space Arcade Collection | 208870 | [208870-space-arcade-collection.json](./208870-space-arcade-collection.json) |
 | Space Ashes | 109899 | [109899-space-ashes.json](./109899-space-ashes.json) |
 | Space Assault | 42134 | [42134-space-assault.json](./42134-space-assault.json) |
 | Space Attack | 38573 | [38573-space-attack.json](./38573-space-attack.json) |
@@ -9922,6 +9925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cactus Canyon | 292070 | [292070-space-cactus-canyon.json](./292070-space-cactus-canyon.json) |
 | Space Cadet | 76997 | [76997-space-cadet.json](./76997-space-cadet.json) |
 | Space Cake | 61114 | [61114-space-cake.json](./61114-space-cake.json) |
+| Space Camp | 208867 | [208867-space-camp.json](./208867-space-camp.json) |
 | Space Camp | 68734 | [68734-space-camp.json](./68734-space-camp.json) |
 | Space Candy | 125398 | [125398-space-candy.json](./125398-space-candy.json) |
 | Space Cantina | 259073 | [259073-space-cantina.json](./259073-space-cantina.json) |
@@ -10122,6 +10126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Intern | 221187 | [221187-space-intern.json](./221187-space-intern.json) |
 | Space Intruder | 245403 | [245403-space-intruder.json](./245403-space-intruder.json) |
 | Space Intruders | 38923 | [38923-space-intruders.json](./38923-space-intruders.json) |
+| Space Invaders | 208860 | [208860-space-invaders.json](./208860-space-invaders.json) |
 | Space Invaders | 218361 | [218361-space-invaders.json](./218361-space-invaders.json) |
 | Space Invaders | 218440 | [218440-space-invaders.json](./218440-space-invaders.json) |
 | Space Invaders | 218445 | [218445-space-invaders.json](./218445-space-invaders.json) |
@@ -10269,6 +10274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ranger: Return to Earth | 45907 | [45907-space-ranger-return-to-earth.json](./45907-space-ranger-return-to-earth.json) |
 | Space Rangers | 7592 | [7592-space-rangers.json](./7592-space-rangers.json) |
 | Space Rangers 2: Dominators | 7593 | [7593-space-rangers-2-dominators.json](./7593-space-rangers-2-dominators.json) |
+| Space Rangers 2: Reboot | 208846 | [208846-space-rangers-2-reboot.json](./208846-space-rangers-2-reboot.json) |
 | Space Rangers: Legacy | 275805 | [275805-space-rangers-legacy.json](./275805-space-rangers-legacy.json) |
 | Space Rangers: Quest | 25617 | [25617-space-rangers-quest.json](./25617-space-rangers-quest.json) |
 | Space raven quest - Tiny planet | 120965 | [120965-space-raven-quest-tiny-planet.json](./120965-space-raven-quest-tiny-planet.json) |
@@ -10320,6 +10326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shuttle 3-in-1 | 385809 | [385809-space-shuttle-3-in-1.json](./385809-space-shuttle-3-in-1.json) |
 | Space Shuttle Landing | 90779 | [90779-space-shuttle-landing.json](./90779-space-shuttle-landing.json) |
 | Space Shuttle Mission 2007 | 65180 | [65180-space-shuttle-mission-2007.json](./65180-space-shuttle-mission-2007.json) |
+| Space Shuttle Mission Simulator: The Collector's Edition | 208862 | [208862-space-shuttle-mission-simulator-the-collectors-edition.json](./208862-space-shuttle-mission-simulator-the-collectors-edition.json) |
 | Space Shuttle: A Journey Into Space | 12318 | [12318-space-shuttle-a-journey-into-space.json](./12318-space-shuttle-a-journey-into-space.json) |
 | Space Simulation Toolkit | 345585 | [345585-space-simulation-toolkit.json](./345585-space-simulation-toolkit.json) |
 | Space Slayer | 26793 | [26793-space-slayer.json](./26793-space-slayer.json) |
@@ -10620,6 +10627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartacus Legends | 2326 | [2326-spartacus-legends.json](./2326-spartacus-legends.json) |
 | Spartacus: Blood and Sand | 66648 | [66648-spartacus-blood-and-sand.json](./66648-spartacus-blood-and-sand.json) |
 | Spartaga | 51853 | [51853-spartaga.json](./51853-spartaga.json) |
+| Spartan | 208845 | [208845-spartan.json](./208845-spartan.json) |
 | Spartan Runner | 96223 | [96223-spartan-runner.json](./96223-spartan-runner.json) |
 | Spartan Survivors | 335403 | [335403-spartan-survivors.json](./335403-spartan-survivors.json) |
 | Spartan Wars | 256253 | [256253-spartan-wars.json](./256253-spartan-wars.json) |
