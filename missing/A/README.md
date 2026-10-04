@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Turnabout to El Dorado | 295241 | [295241-a-turnabout-to-el-dorado.json](./295241-a-turnabout-to-el-dorado.json) |
 | A Turtle In A Hare-Machine | 246102 | [246102-a-turtle-in-a-hare-machine.json](./246102-a-turtle-in-a-hare-machine.json) |
 | A Twisted Place | 177828 | [177828-a-twisted-place.json](./177828-a-twisted-place.json) |
+| A Twisted Tale | 190034 | [190034-a-twisted-tale.json](./190034-a-twisted-tale.json) |
 | A Vacation in Nebula | 146325 | [146325-a-vacation-in-nebula.json](./146325-a-vacation-in-nebula.json) |
 | A Valentine's Day Quizzle | 232506 | [232506-a-valentines-day-quizzle.json](./232506-a-valentines-day-quizzle.json) |
 | A Vampyre Story: Year One | 3137 | [3137-a-vampyre-story-year-one.json](./3137-a-vampyre-story-year-one.json) |
@@ -2864,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist's Secret | 297059 | [297059-alchemists-secret.json](./297059-alchemists-secret.json) |
 | Alchemistress Vivi | 287142 | [287142-alchemistress-vivi.json](./287142-alchemistress-vivi.json) |
 | Alchemists' Garden | 199908 | [199908-alchemists-garden.json](./199908-alchemists-garden.json) |
+| Alchemos | 190041 | [190041-alchemos.json](./190041-alchemos.json) |
 | Alchemy | 337805 | [337805-alchemy.json](./337805-alchemy.json) |
 | Alchemy Academy | 337810 | [337810-alchemy-academy.json](./337810-alchemy-academy.json) |
 | Alchemy Classic | 111035 | [111035-alchemy-classic.json](./111035-alchemy-classic.json) |
@@ -4761,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Peppa | 320890 | [320890-angry-peppa.json](./320890-angry-peppa.json) |
 | Angry Pigs | 194980 | [194980-angry-pigs.json](./194980-angry-pigs.json) |
 | Angry Robot Girlfriend | 290508 | [290508-angry-robot-girlfriend.json](./290508-angry-robot-girlfriend.json) |
+| Angry Rocketeer Frenzy | 190018 | [190018-angry-rocketeer-frenzy.json](./190018-angry-rocketeer-frenzy.json) |
 | Angry shapes: Clash of geometry | 52786 | [52786-angry-shapes-clash-of-geometry.json](./52786-angry-shapes-clash-of-geometry.json) |
 | Angry Shark 2016 | 106125 | [106125-angry-shark-2016.json](./106125-angry-shark-2016.json) |
 | Angry Sonic Maze | 95997 | [95997-angry-sonic-maze.json](./95997-angry-sonic-maze.json) |
@@ -5970,6 +5973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arbeit Man in another world | 151610 | [151610-arbeit-man-in-another-world.json](./151610-arbeit-man-in-another-world.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
 | Arborea: Magnicidio en la Corte | 316835 | [316835-arborea-magnicidio-en-la-corte.json](./316835-arborea-magnicidio-en-la-corte.json) |
+| Arboreal | 190052 | [190052-arboreal.json](./190052-arboreal.json) |
 | Arboretum | 122919 | [122919-arboretum.json](./122919-arboretum.json) |
 | Arboria | 126432 | [126432-arboria.json](./126432-arboria.json) |
 | Arby | 377051 | [377051-arby.json](./377051-arby.json) |
