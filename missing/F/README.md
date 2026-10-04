@@ -6683,6 +6683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Metal Sergeant | 189108 | [189108-full-metal-sergeant.json](./189108-full-metal-sergeant.json) |
 | Full Metal Sergeant 2 | 325496 | [325496-full-metal-sergeant-2.json](./325496-full-metal-sergeant-2.json) |
 | Full Moon | 125910 | [125910-full-moon.json](./125910-full-moon.json) |
+| Full Moon | 224989 | [224989-full-moon.json](./224989-full-moon.json) |
 | Full Moon Fishing | 383396 | [383396-full-moon-fishing.json](./383396-full-moon-fishing.json) |
 | Full Moon Guildhouse Simulator | 366251 | [366251-full-moon-guildhouse-simulator.json](./366251-full-moon-guildhouse-simulator.json) |
 | Full of Crap | 288838 | [288838-full-of-crap.json](./288838-full-of-crap.json) |
