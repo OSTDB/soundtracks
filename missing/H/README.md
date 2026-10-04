@@ -5502,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed: Day One Edition | 146134 | [146134-hot-wheels-unleashed-day-one-edition.json](./146134-hot-wheels-unleashed-day-one-edition.json) |
 | Hot Wheels Unleashed: DC Super Heroes Racing Season | 195766 | [195766-hot-wheels-unleashed-dc-super-heroes-racing-season.json](./195766-hot-wheels-unleashed-dc-super-heroes-racing-season.json) |
 | Hot Wheels Unleashed: Game of the Year Edition | 218968 | [218968-hot-wheels-unleashed-game-of-the-year-edition.json](./218968-hot-wheels-unleashed-game-of-the-year-edition.json) |
+| Hot Wheels Unleashed: Looney Tunes | 209393 | [209393-hot-wheels-unleashed-looney-tunes.json](./209393-hot-wheels-unleashed-looney-tunes.json) |
 | Hot Wheels Unleashed: McLaren Senna | 195768 | [195768-hot-wheels-unleashed-mclaren-senna.json](./195768-hot-wheels-unleashed-mclaren-senna.json) |
 | Hot Wheels Unleashed: Night Burner | 195767 | [195767-hot-wheels-unleashed-night-burner.json](./195767-hot-wheels-unleashed-night-burner.json) |
 | Hot Wheels Unleashed: Street Fighter Vega | 195770 | [195770-hot-wheels-unleashed-street-fighter-vega.json](./195770-hot-wheels-unleashed-street-fighter-vega.json) |
