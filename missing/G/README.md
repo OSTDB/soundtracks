@@ -5362,6 +5362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumball | 25612 | [25612-gumball.json](./25612-gumball.json) |
 | Gumball 3000 | 300795 | [300795-gumball-3000.json](./300795-gumball-3000.json) |
 | Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
+| Gumball: School House Rush | 203209 | [203209-gumball-school-house-rush.json](./203209-gumball-school-house-rush.json) |
 | Gumbowl's Adventure | 292551 | [292551-gumbowls-adventure.json](./292551-gumbowls-adventure.json) |
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
 | Gummy Bear Idle: No Job, Just Jelly | 369160 | [369160-gummy-bear-idle-no-job-just-jelly.json](./369160-gummy-bear-idle-no-job-just-jelly.json) |
