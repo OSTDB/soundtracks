@@ -2493,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Filsnown: Hikari to Toki | 247506 | [247506-filsnown-hikari-to-toki.json](./247506-filsnown-hikari-to-toki.json) |
 | Filter World | 277512 | [277512-filter-world.json](./277512-filter-world.json) |
 | Filthbreed | 140541 | [140541-filthbreed.json](./140541-filthbreed.json) |
+| Filthy Animals: Halloween Heist | 196112 | [196112-filthy-animals-halloween-heist.json](./196112-filthy-animals-halloween-heist.json) |
 | Filthy Animals: Heist Simulator | 193203 | [193203-filthy-animals-heist-simulator.json](./193203-filthy-animals-heist-simulator.json) |
 | Filthy Apartments | 385273 | [385273-filthy-apartments.json](./385273-filthy-apartments.json) |
 | Filthy Hands | 90306 | [90306-filthy-hands.json](./90306-filthy-hands.json) |
@@ -6395,6 +6396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Madness with Love | 215934 | [215934-from-madness-with-love.json](./215934-from-madness-with-love.json) |
 | From Nava | 282139 | [282139-from-nava.json](./282139-from-nava.json) |
 | From One World To Another | 335087 | [335087-from-one-world-to-another.json](./335087-from-one-world-to-another.json) |
+| From Paris with Love 2: Passion with view | 196113 | [196113-from-paris-with-love-2-passion-with-view.json](./196113-from-paris-with-love-2-passion-with-view.json) |
 | From Ruins | 381177 | [381177-from-ruins.json](./381177-from-ruins.json) |
 | From Salt to Sugar | 212803 | [212803-from-salt-to-sugar.json](./212803-from-salt-to-sugar.json) |
 | From Scratch | 287199 | [287199-from-scratch.json](./287199-from-scratch.json) |
