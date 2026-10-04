@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need to Know | 18234 | [18234-need-to-know.json](./18234-need-to-know.json) |
 | Needle & Thread | 330155 | [330155-needle-and-thread.json](./330155-needle-and-thread.json) |
 | Needle Of Anger | 254671 | [254671-needle-of-anger.json](./254671-needle-of-anger.json) |
+| Needy Dragons | 220678 | [220678-needy-dragons.json](./220678-needy-dragons.json) |
 | Needy Streamer Overload | 146564 | [146564-needy-streamer-overload.json](./146564-needy-streamer-overload.json) |
 | Neeko: Your 3D Interactive Monster | 262354 | [262354-neeko-your-3d-interactive-monster.json](./262354-neeko-your-3d-interactive-monster.json) |
 | Neera: Dark Secrets | 79806 | [79806-neera-dark-secrets.json](./79806-neera-dark-secrets.json) |
