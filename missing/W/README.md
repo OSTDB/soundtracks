@@ -1649,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weedcraft Inc + Crossroads Inn: Weed and Greet Bundle | 288861 | [288861-weedcraft-inc-crossroads-inn-weed-and-greet-bundle.json](./288861-weedcraft-inc-crossroads-inn-weed-and-greet-bundle.json) |
 | Weedcraft Inc + Ruinarch: Devil Lettuce Bundle | 288858 | [288858-weedcraft-inc-ruinarch-devil-lettuce-bundle.json](./288858-weedcraft-inc-ruinarch-devil-lettuce-bundle.json) |
 | Weefager | 282216 | [282216-weefager.json](./282216-weefager.json) |
+| Weekday Warrior | 214390 | [214390-weekday-warrior.json](./214390-weekday-warrior.json) |
 | Weekend Drive | 109019 | [109019-weekend-drive.json](./109019-weekend-drive.json) |
 | Weekend Solitaire: Grace in Motion | 416081 | [416081-weekend-solitaire-grace-in-motion.json](./416081-weekend-solitaire-grace-in-motion.json) |
 | Weekend Solitaire: Meditation | 337257 | [337257-weekend-solitaire-meditation.json](./337257-weekend-solitaire-meditation.json) |
@@ -5000,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyrd Gun | 253488 | [253488-wyrd-gun.json](./253488-wyrd-gun.json) |
 | Wyrd World | 360571 | [360571-wyrd-world.json](./360571-wyrd-world.json) |
 | Wyrdbonds | 365841 | [365841-wyrdbonds.json](./365841-wyrdbonds.json) |
+| Wyrdsong | 214419 | [214419-wyrdsong.json](./214419-wyrdsong.json) |
 | Wyred | 261764 | [261764-wyred.json](./261764-wyred.json) |
 | Wyrm Climb | 305795 | [305795-wyrm-climb.json](./305795-wyrm-climb.json) |
 | WyrmBound | 290721 | [290721-wyrmbound.json](./290721-wyrmbound.json) |
