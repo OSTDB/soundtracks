@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Break in the Road | 300000 | [300000-a-break-in-the-road.json](./300000-a-break-in-the-road.json) |
 | A Bridge Too Far | 181134 | [181134-a-bridge-too-far.json](./181134-a-bridge-too-far.json) |
 | A Brief Tale | 411683 | [411683-a-brief-tale.json](./411683-a-brief-tale.json) |
+| A Broken Halo | 216776 | [216776-a-broken-halo.json](./216776-a-broken-halo.json) |
 | A Bug's Life: Active Play | 311677 | [311677-a-bugs-life-active-play.json](./311677-a-bugs-life-active-play.json) |
 | A Building Full of Cats 2 | 301592 | [301592-a-building-full-of-cats-2.json](./301592-a-building-full-of-cats-2.json) |
 | A Bumpy Ride | 312660 | [312660-a-bumpy-ride.json](./312660-a-bumpy-ride.json) |
@@ -827,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abenteuer Landtag 2 | 135093 | [135093-abenteuer-landtag-2.json](./135093-abenteuer-landtag-2.json) |
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
 | Aberrant Nights | 304671 | [304671-aberrant-nights.json](./304671-aberrant-nights.json) |
+| Abglantz | 216775 | [216775-abglantz.json](./216775-abglantz.json) |
 | Abh | 173184 | [173184-abh.json](./173184-abh.json) |
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
 | Abide | 389091 | [389091-abide.json](./389091-abide.json) |
@@ -939,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abunai Josei Shinrigaku Nyuumon | 269683 | [269683-abunai-josei-shinrigaku-nyuumon.json](./269683-abunai-josei-shinrigaku-nyuumon.json) |
 | Abunai Koi no Sousashitsu | 197859 | [197859-abunai-koi-no-sousashitsu.json](./197859-abunai-koi-no-sousashitsu.json) |
 | Abunai Tengu Densetsu | 299786 | [299786-abunai-tengu-densetsu.json](./299786-abunai-tengu-densetsu.json) |
+| Abunka | 216777 | [216777-abunka.json](./216777-abunka.json) |
 | Abuse | 383503 | [383503-abuse.json](./383503-abuse.json) |
 | Abuzittin'in Maceraları II: İz Peşinde | 330333 | [330333-abuzittinin-maceralar-ii-iz-pesinde.json](./330333-abuzittinin-maceralar-ii-iz-pesinde.json) |
 | Aby Escape | 242004 | [242004-aby-escape.json](./242004-aby-escape.json) |
@@ -998,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssopelagic | 382880 | [382880-abyssopelagic.json](./382880-abyssopelagic.json) |
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
 | Abysswalkers | 260646 | [260646-abysswalkers.json](./260646-abysswalkers.json) |
+| AC-130 Gunship Operator | 216779 | [216779-ac-130-gunship-operator.json](./216779-ac-130-gunship-operator.json) |
 | AC/DC Live: Rock Band - Track Pack | 6467 | [6467-ac-dc-live-rock-band-track-pack.json](./6467-ac-dc-live-rock-band-track-pack.json) |
 | ACA Neo Geo: Art of Fighting 3 | 118916 | [118916-aca-neo-geo-art-of-fighting-3.json](./118916-aca-neo-geo-art-of-fighting-3.json) |
 | ACA Neo Geo: Baseball Stars Professional | 102345 | [102345-aca-neo-geo-baseball-stars-professional.json](./102345-aca-neo-geo-baseball-stars-professional.json) |
@@ -1219,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across Icaria | 337794 | [337794-across-icaria.json](./337794-across-icaria.json) |
 | Across Kiloparsecs | 259022 | [259022-across-kiloparsecs.json](./259022-across-kiloparsecs.json) |
 | Across the demon realm | 150546 | [150546-across-the-demon-realm.json](./150546-across-the-demon-realm.json) |
+| Across the Galaxy: Infinite War | 216780 | [216780-across-the-galaxy-infinite-war.json](./216780-across-the-galaxy-infinite-war.json) |
 | Across the Galaxy: Stellar Dominator | 171500 | [171500-across-the-galaxy-stellar-dominator.json](./171500-across-the-galaxy-stellar-dominator.json) |
 | Across the Grooves | 121711 | [121711-across-the-grooves.json](./121711-across-the-grooves.json) |
 | Across the Obelisk | 143000 | [143000-across-the-obelisk.json](./143000-across-the-obelisk.json) |
@@ -1408,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrenaline Rush: Highway Extreme Traffic Racer | 300767 | [300767-adrenaline-rush-highway-extreme-traffic-racer.json](./300767-adrenaline-rush-highway-extreme-traffic-racer.json) |
 | Adrian Ford in the Tomb of the Moon | 314994 | [314994-adrian-ford-in-the-tomb-of-the-moon.json](./314994-adrian-ford-in-the-tomb-of-the-moon.json) |
 | Adrian's Tale | 219112 | [219112-adrians-tale.json](./219112-adrians-tale.json) |
+| Adrianne and Oliver | 216781 | [216781-adrianne-and-oliver.json](./216781-adrianne-and-oliver.json) |
 | Adrift | 304673 | [304673-adrift.json](./304673-adrift.json) |
 | Adrift | 377088 | [377088-adrift.json](./377088-adrift.json) |
 | Adrift Program | 269048 | [269048-adrift-program.json](./269048-adrift-program.json) |
@@ -2101,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ages of Mages: The Last Keeper | 98755 | [98755-ages-of-mages-the-last-keeper.json](./98755-ages-of-mages-the-last-keeper.json) |
 | Aggres | 406171 | [406171-aggres.json](./406171-aggres.json) |
 | Aggression | 174670 | [174670-aggression.json](./174670-aggression.json) |
+| Aggressive Alpine Skiing | 216767 | [216767-aggressive-alpine-skiing.json](./216767-aggressive-alpine-skiing.json) |
 | Aggressive Inline | 3783 | [3783-aggressive-inline.json](./3783-aggressive-inline.json) |
 | Aggressor | 13241 | [13241-aggressor.json](./13241-aggressor.json) |
 | Aggressors of Dark Kombat | 39336 | [39336-aggressors-of-dark-kombat.json](./39336-aggressors-of-dark-kombat.json) |
