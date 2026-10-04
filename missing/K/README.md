@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kao the Kangaroo: Summer Drip | 255089 | [255089-kao-the-kangaroo-summer-drip.json](./255089-kao-the-kangaroo-summer-drip.json) |
 | Kao The Kangaroo: Top Of The Class | 290412 | [290412-kao-the-kangaroo-top-of-the-class.json](./290412-kao-the-kangaroo-top-of-the-class.json) |
 | Kao the Kangaroo: VIP | 290411 | [290411-kao-the-kangaroo-vip.json](./290411-kao-the-kangaroo-vip.json) |
+| Kaoamaru Kaiju | 222982 | [222982-kaoamaru-kaiju.json](./222982-kaoamaru-kaiju.json) |
 | Kaon : Fragmented Core | 379582 | [379582-kaon-fragmented-core.json](./379582-kaon-fragmented-core.json) |
 | Kaori After Story | 112770 | [112770-kaori-after-story.json](./112770-kaori-after-story.json) |
 | Kaorin Fight | 305426 | [305426-kaorin-fight.json](./305426-kaorin-fight.json) |
@@ -494,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karateka | 4602 | [4602-karateka.json](./4602-karateka.json) |
 | Karawan | 180232 | [180232-karawan.json](./180232-karawan.json) |
 | KarBoom | 62667 | [62667-karboom.json](./62667-karboom.json) |
+| Kardboard Kings: Card Game Island | 222960 | [222960-kardboard-kings-card-game-island.json](./222960-kardboard-kings-card-game-island.json) |
 | Kardia Tou Abel | 174807 | [174807-kardia-tou-abel.json](./174807-kardia-tou-abel.json) |
 | Kardinal & König | 68959 | [68959-kardinal-and-konig.json](./68959-kardinal-and-konig.json) |
 | Kardiossomatic | 185137 | [185137-kardiossomatic.json](./185137-kardiossomatic.json) |
@@ -1755,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Paradise | 42878 | [42878-kingdom-of-paradise.json](./42878-kingdom-of-paradise.json) |
 | Kingdom Of Peace | 295775 | [295775-kingdom-of-peace.json](./295775-kingdom-of-peace.json) |
 | Kingdom of Rhea | 119026 | [119026-kingdom-of-rhea.json](./119026-kingdom-of-rhea.json) |
+| Kingdom of Secrets | 222963 | [222963-kingdom-of-secrets.json](./222963-kingdom-of-secrets.json) |
 | Kingdom of the Untitled Magic | 154033 | [154033-kingdom-of-the-untitled-magic.json](./154033-kingdom-of-the-untitled-magic.json) |
 | Kingdom of Velvet Сhains | 385315 | [385315-kingdom-of-velvet-hains.json](./385315-kingdom-of-velvet-hains.json) |
 | Kingdom Quest | 236208 | [236208-kingdom-quest.json](./236208-kingdom-quest.json) |
