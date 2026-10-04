@@ -2689,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rendezvous Delano | 323295 | [323295-rendezvous-delano.json](./323295-rendezvous-delano.json) |
 | Rendezvous with a Stranger Girl | 57623 | [57623-rendezvous-with-a-stranger-girl.json](./57623-rendezvous-with-a-stranger-girl.json) |
 | Rendezvous: A Space Shuttle Flight Simulation | 24859 | [24859-rendezvous-a-space-shuttle-flight-simulation.json](./24859-rendezvous-a-space-shuttle-flight-simulation.json) |
+| Rendezvous: Shadows of the Past | 199444 | [199444-rendezvous-shadows-of-the-past.json](./199444-rendezvous-shadows-of-the-past.json) |
 | Rending Sky | 114374 | [114374-rending-sky.json](./114374-rending-sky.json) |
 | Rendition | 172498 | [172498-rendition.json](./172498-rendition.json) |
 | Renegade | 255243 | [255243-renegade.json](./255243-renegade.json) |
@@ -3593,6 +3594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Hell | 257080 | [257080-rhythm-hell.json](./257080-rhythm-hell.json) |
 | Rhythm Hero | 152869 | [152869-rhythm-hero.json](./152869-rhythm-hero.json) |
 | Rhythm Knights | 153929 | [153929-rhythm-knights.json](./153929-rhythm-knights.json) |
+| Rhythm Knights: Double Treble | 199460 | [199460-rhythm-knights-double-treble.json](./199460-rhythm-knights-double-treble.json) |
 | Rhythm League Heroes | 276181 | [276181-rhythm-league-heroes.json](./276181-rhythm-league-heroes.json) |
 | Rhythm Lust Girl 2 | 249786 | [249786-rhythm-lust-girl-2.json](./249786-rhythm-lust-girl-2.json) |
 | Rhythm of Annihilation | 358373 | [358373-rhythm-of-annihilation.json](./358373-rhythm-of-annihilation.json) |
