@@ -1510,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man, I Love Terraria Fishing | 383611 | [383611-man-i-love-terraria-fishing.json](./383611-man-i-love-terraria-fishing.json) |
 | Man's Body: For Adults | 385312 | [385312-mans-body-for-adults.json](./385312-mans-body-for-adults.json) |
 | Man's Last Friends | 397200 | [397200-mans-last-friends.json](./397200-mans-last-friends.json) |
+| Man/Woman | 181747 | [181747-man-woman.json](./181747-man-woman.json) |
 | Mana | 280309 | [280309-mana.json](./280309-mana.json) |
 | Mana Chess | 195148 | [195148-mana-chess.json](./195148-mana-chess.json) |
 | Mana Cycle | 296970 | [296970-mana-cycle.json](./296970-mana-cycle.json) |
