@@ -7273,6 +7273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draglade | 21542 | [21542-draglade.json](./21542-draglade.json) |
 | Dragluttony | 190230 | [190230-dragluttony.json](./190230-dragluttony.json) |
 | Drago Noka | 203939 | [203939-drago-noka.json](./203939-drago-noka.json) |
+| Dragon | 216764 | [216764-dragon.json](./216764-dragon.json) |
 | Dragon & Colonies | 55950 | [55950-dragon-and-colonies.json](./55950-dragon-and-colonies.json) |
 | Dragon & Elfs | 227507 | [227507-dragon-and-elfs.json](./227507-dragon-and-elfs.json) |
 | Dragon & Knights | 200747 | [200747-dragon-and-knights.json](./200747-dragon-and-knights.json) |
