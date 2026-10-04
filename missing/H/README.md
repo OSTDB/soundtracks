@@ -4032,6 +4032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiiro | 32922 | [32922-hiiro.json](./32922-hiiro.json) |
 | Hiiro no Kakera Tamayori-hime Kitan: Omoi Iro no Kioku for Nintendo Switch | 293147 | [293147-hiiro-no-kakera-tamayori-hime-kitan-omoi-iro-no-kioku-for-nintendo-switch.json](./293147-hiiro-no-kakera-tamayori-hime-kitan-omoi-iro-no-kioku-for-nintendo-switch.json) |
 | Hiiro no Kakera: Omoi Iro no Kioku | 136478 | [136478-hiiro-no-kakera-omoi-iro-no-kioku.json](./136478-hiiro-no-kakera-omoi-iro-no-kioku.json) |
+| Hiiro no Kakera: Shin Tamayori-hime Denshou - Piece of Future | 217767 | [217767-hiiro-no-kakera-shin-tamayori-hime-denshou-piece-of-future.json](./217767-hiiro-no-kakera-shin-tamayori-hime-denshou-piece-of-future.json) |
 | Hiiro: Collector's Edition | 53211 | [53211-hiiro-collectors-edition.json](./53211-hiiro-collectors-edition.json) |
 | Hiirun | 257112 | [257112-hiirun.json](./257112-hiirun.json) |
 | Hiis | 143579 | [143579-hiis.json](./143579-hiis.json) |
@@ -6384,6 +6385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydraulic Press Pocket | 400391 | [400391-hydraulic-press-pocket.json](./400391-hydraulic-press-pocket.json) |
 | Hydraulic Slam | 337773 | [337773-hydraulic-slam.json](./337773-hydraulic-slam.json) |
 | Hydro | 344997 | [344997-hydro.json](./344997-hydro.json) |
+| Hydro Thunder | 217932 | [217932-hydro-thunder.json](./217932-hydro-thunder.json) |
 | Hydro Thunder | 3370 | [3370-hydro-thunder.json](./3370-hydro-thunder.json) |
 | Hydrofoil Generation | 190237 | [190237-hydrofoil-generation.json](./190237-hydrofoil-generation.json) |
 | Hydrofusion Substation | 270677 | [270677-hydrofusion-substation.json](./270677-hydrofusion-substation.json) |
