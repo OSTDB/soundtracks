@@ -1713,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Elsinore | 146106 | [146106-castle-elsinore.json](./146106-castle-elsinore.json) |
 | Castle Evalon | 323931 | [323931-castle-evalon.json](./323931-castle-evalon.json) |
 | Castle Explorer | 79838 | [79838-castle-explorer.json](./79838-castle-explorer.json) |
+| Castle Explorer: The Dark Below | 174172 | [174172-castle-explorer-the-dark-below.json](./174172-castle-explorer-the-dark-below.json) |
 | Castle Fantasia: Erencia Senki - Plus Stories | 408777 | [408777-castle-fantasia-erencia-senki-plus-stories.json](./408777-castle-fantasia-erencia-senki-plus-stories.json) |
 | Castle Flipper | 111425 | [111425-castle-flipper.json](./111425-castle-flipper.json) |
 | Castle Formers | 154026 | [154026-castle-formers.json](./154026-castle-formers.json) |
@@ -1756,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Shikigami | 28519 | [28519-castle-of-shikigami.json](./28519-castle-of-shikigami.json) |
 | Castle of Shikigami 2 | 174090 | [174090-castle-of-shikigami-2.json](./174090-castle-of-shikigami-2.json) |
 | Castle of Shikigami 3 | 331315 | [331315-castle-of-shikigami-3.json](./331315-castle-of-shikigami-3.json) |
+| Castle of Shikigami: Evolution | 174166 | [174166-castle-of-shikigami-evolution.json](./174166-castle-of-shikigami-evolution.json) |
 | Castle of The Dark Ages | 271754 | [271754-castle-of-the-dark-ages.json](./271754-castle-of-the-dark-ages.json) |
 | Castle of the Land | 153356 | [153356-castle-of-the-land.json](./153356-castle-of-the-land.json) |
 | Castle of the Red Prince | 186632 | [186632-castle-of-the-red-prince.json](./186632-castle-of-the-red-prince.json) |
@@ -5760,6 +5762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Vein: Collector's Edition | 103212 | [103212-code-vein-collectors-edition.json](./103212-code-vein-collectors-edition.json) |
 | Code Vein: Hellfire Knight | 129134 | [129134-code-vein-hellfire-knight.json](./129134-code-vein-hellfire-knight.json) |
 | Code Zero | 161896 | [161896-code-zero.json](./161896-code-zero.json) |
+| Code Zero | 174081 | [174081-code-zero.json](./174081-code-zero.json) |
 | Code Zodiac | 251853 | [251853-code-zodiac.json](./251853-code-zodiac.json) |
 | Code_18 | 18072 | [18072-code-18.json](./18072-code-18.json) |
 | Code, Solve, Revolt! | 265387 | [265387-code-solve-revolt.json](./265387-code-solve-revolt.json) |
@@ -7290,6 +7293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Controller Sync | 209489 | [209489-controller-sync.json](./209489-controller-sync.json) |
 | Controware | 285519 | [285519-controware.json](./285519-controware.json) |
 | Conundrum | 163201 | [163201-conundrum.json](./163201-conundrum.json) |
+| Conundrum | 174086 | [174086-conundrum.json](./174086-conundrum.json) |
 | Conundrum | 348975 | [348975-conundrum.json](./348975-conundrum.json) |
 | Conundrum | 380087 | [380087-conundrum.json](./380087-conundrum.json) |
 | Conundrum Catacombs | 245958 | [245958-conundrum-catacombs.json](./245958-conundrum-catacombs.json) |
@@ -9021,6 +9025,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Memories | 391803 | [391803-crimson-memories.json](./391803-crimson-memories.json) |
 | Crimson Memories | 68887 | [68887-crimson-memories.json](./68887-crimson-memories.json) |
 | Crimson Metal | 29168 | [29168-crimson-metal.json](./29168-crimson-metal.json) |
+| Crimson Metal: Episode II | 174168 | [174168-crimson-metal-episode-ii.json](./174168-crimson-metal-episode-ii.json) |
+| Crimson Metal: Episode III | 174163 | [174163-crimson-metal-episode-iii.json](./174163-crimson-metal-episode-iii.json) |
 | Crimson Moon | 245796 | [245796-crimson-moon.json](./245796-crimson-moon.json) |
 | Crimson Moon | 389428 | [389428-crimson-moon.json](./389428-crimson-moon.json) |
 | Crimson Needle 3 | 265205 | [265205-crimson-needle-3.json](./265205-crimson-needle-3.json) |
@@ -9775,6 +9781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSR Racing 2 | 55169 | [55169-csr-racing-2.json](./55169-csr-racing-2.json) |
 | CSS Room Escape | 252121 | [252121-css-room-escape.json](./252121-css-room-escape.json) |
 | CT Special Forces 3: BioTerror | 43898 | [43898-ct-special-forces-3-bioterror.json](./43898-ct-special-forces-3-bioterror.json) |
+| CTcity | 174088 | [174088-ctcity.json](./174088-ctcity.json) |
 | Ctesiphon | 349420 | [349420-ctesiphon.json](./349420-ctesiphon.json) |
 | CTGP-7 | 209549 | [209549-ctgp-7.json](./209549-ctgp-7.json) |
 | Cthulhu 1920 | 386242 | [386242-cthulhu-1920.json](./386242-cthulhu-1920.json) |
