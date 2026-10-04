@@ -1618,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headliner: NoviNews | 107596 | [107596-headliner-novinews.json](./107596-headliner-novinews.json) |
 | Headlines from the Deep | 177312 | [177312-headlines-from-the-deep.json](./177312-headlines-from-the-deep.json) |
 | Headlong Hunt | 152226 | [152226-headlong-hunt.json](./152226-headlong-hunt.json) |
+| Headmaster: Extra Time Edition | 173111 | [173111-headmaster-extra-time-edition.json](./173111-headmaster-extra-time-edition.json) |
 | Headmaster: The Lost Lessons | 174186 | [174186-headmaster-the-lost-lessons.json](./174186-headmaster-the-lost-lessons.json) |
 | HeadOn! | 93729 | [93729-headon.json](./93729-headon.json) |
 | Headpat Special Taskforce | 400320 | [400320-headpat-special-taskforce.json](./400320-headpat-special-taskforce.json) |
@@ -1801,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron IV: Peace for Our Time | 399142 | [399142-hearts-of-iron-iv-peace-for-our-time.json](./399142-hearts-of-iron-iv-peace-for-our-time.json) |
 | Hearts of Iron IV: Together for Victory | 53182 | [53182-hearts-of-iron-iv-together-for-victory.json](./53182-hearts-of-iron-iv-together-for-victory.json) |
 | Hearts of Iron: Road to War | 64993 | [64993-hearts-of-iron-road-to-war.json](./64993-hearts-of-iron-road-to-war.json) |
+| Hearts of the Dungeon List | 173036 | [173036-hearts-of-the-dungeon-list.json](./173036-hearts-of-the-dungeon-list.json) |
 | Hearts on Fire | 313720 | [313720-hearts-on-fire.json](./313720-hearts-on-fire.json) |
 | Hearts Online | 317011 | [317011-hearts-online.json](./317011-hearts-online.json) |
 | Hearts Premium HD | 86867 | [86867-hearts-premium-hd.json](./86867-hearts-premium-hd.json) |
@@ -3568,6 +3570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats: Magic Forest | 277297 | [277297-hidden-cats-magic-forest.json](./277297-hidden-cats-magic-forest.json) |
 | Hidden Cats: Rome | 350572 | [350572-hidden-cats-rome.json](./350572-hidden-cats-rome.json) |
 | Hidden Cats: Zombie Hunter | 365284 | [365284-hidden-cats-zombie-hunter.json](./365284-hidden-cats-zombie-hunter.json) |
+| Hidden Caves | 173027 | [173027-hidden-caves.json](./173027-hidden-caves.json) |
 | Hidden Chinese Chess | 242109 | [242109-hidden-chinese-chess.json](./242109-hidden-chinese-chess.json) |
 | Hidden City Top-Down 3D | 267460 | [267460-hidden-city-top-down-3d.json](./267460-hidden-city-top-down-3d.json) |
 | Hidden Clues: Mystery Scene Challenge | 409532 | [409532-hidden-clues-mystery-scene-challenge.json](./409532-hidden-clues-mystery-scene-challenge.json) |
@@ -5234,6 +5237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Forbidden West: Burning Shores | 228533 | [228533-horizon-forbidden-west-burning-shores.json](./228533-horizon-forbidden-west-burning-shores.json) |
 | Horizon Forbidden West: Complete Edition | 268842 | [268842-horizon-forbidden-west-complete-edition.json](./268842-horizon-forbidden-west-complete-edition.json) |
 | Horizon Forbidden West: Major Update 1.14 | 227890 | [227890-horizon-forbidden-west-major-update-1-14.json](./227890-horizon-forbidden-west-major-update-1-14.json) |
+| Horizon Forbidden West: Regalla Edition | 173110 | [173110-horizon-forbidden-west-regalla-edition.json](./173110-horizon-forbidden-west-regalla-edition.json) |
 | Horizon Odyssey | 158558 | [158558-horizon-odyssey.json](./158558-horizon-odyssey.json) |
 | Horizon of History | 30763 | [30763-horizon-of-history.json](./30763-horizon-of-history.json) |
 | Horizon Riders | 84516 | [84516-horizon-riders.json](./84516-horizon-riders.json) |
