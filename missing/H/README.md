@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haldion | 82913 | [82913-haldion.json](./82913-haldion.json) |
 | Halen: Ballad of the Blade Thief | 134002 | [134002-halen-ballad-of-the-blade-thief.json](./134002-halen-ballad-of-the-blade-thief.json) |
 | Half + Half | 152230 | [152230-half-half.json](./152230-half-half.json) |
+| Half An Hour | 179990 | [179990-half-an-hour.json](./179990-half-an-hour.json) |
 | Half Away | 322756 | [322756-half-away.json](./322756-half-away.json) |
 | Half Billion: Love Choice | 320281 | [320281-half-billion-love-choice.json](./320281-half-billion-love-choice.json) |
 | Half Billion: Love Choice - 2K DLC | 320284 | [320284-half-billion-love-choice-2k-dlc.json](./320284-half-billion-love-choice-2k-dlc.json) |
