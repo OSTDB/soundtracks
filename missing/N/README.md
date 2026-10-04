@@ -3585,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NormalTanks | 66658 | [66658-normaltanks.json](./66658-normaltanks.json) |
 | Norman | 60590 | [60590-norman.json](./60590-norman.json) |
 | Norman Cooks in "Search for the Don" | 71056 | [71056-norman-cooks-in-search-for-the-don.json](./71056-norman-cooks-in-search-for-the-don.json) |
+| Norman's Sky | 179001 | [179001-normans-sky.json](./179001-normans-sky.json) |
 | Norn9: Last Era - Limited Edition | 249735 | [249735-norn9-last-era-limited-edition.json](./249735-norn9-last-era-limited-edition.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
 | Noroi E: The Origin of Nightmares | 240945 | [240945-noroi-e-the-origin-of-nightmares.json](./240945-noroi-e-the-origin-of-nightmares.json) |
