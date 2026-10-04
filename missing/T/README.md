@@ -1619,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tea Society of a Witch | 72664 | [72664-tea-society-of-a-witch.json](./72664-tea-society-of-a-witch.json) |
 | Tea Time | 359406 | [359406-tea-time.json](./359406-tea-time.json) |
 | Tea Time | 58894 | [58894-tea-time.json](./58894-tea-time.json) |
+| Tea With Embalming Fluid | 179016 | [179016-tea-with-embalming-fluid.json](./179016-tea-with-embalming-fluid.json) |
 | Tea, Please! | 347905 | [347905-tea-please.json](./347905-tea-please.json) |
 | Teach Kids Games | 339413 | [339413-teach-kids-games.json](./339413-teach-kids-games.json) |
 | Teach My Little Sister How to Drive | 373092 | [373092-teach-my-little-sister-how-to-drive.json](./373092-teach-my-little-sister-how-to-drive.json) |
@@ -3155,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Apartment 57 | 327867 | [327867-the-apartment-57.json](./327867-the-apartment-57.json) |
 | The Ape Painting | 240241 | [240241-the-ape-painting.json](./240241-the-ape-painting.json) |
 | The Aperture Dilemma | 378905 | [378905-the-aperture-dilemma.json](./378905-the-aperture-dilemma.json) |
+| The Apocalypse of You | 178999 | [178999-the-apocalypse-of-you.json](./178999-the-apocalypse-of-you.json) |
 | The Apocryphal Gensoukyou | 212894 | [212894-the-apocryphal-gensoukyou.json](./212894-the-apocryphal-gensoukyou.json) |
 | The Apollo Project | 192682 | [192682-the-apollo-project.json](./192682-the-apollo-project.json) |
 | The Apothecary Diaries Palace Chronicles | 406943 | [406943-the-apothecary-diaries-palace-chronicles.json](./406943-the-apothecary-diaries-palace-chronicles.json) |
@@ -6440,6 +6442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
 | The Last Mission | 298633 | [298633-the-last-mission.json](./298633-the-last-mission.json) |
 | The Last Mission | 55078 | [55078-the-last-mission.json](./55078-the-last-mission.json) |
+| The Last Moments of a Doomed Spaceship | 178925 | [178925-the-last-moments-of-a-doomed-spaceship.json](./178925-the-last-moments-of-a-doomed-spaceship.json) |
 | The Last Monsters | 132735 | [132735-the-last-monsters.json](./132735-the-last-monsters.json) |
 | The Last Mothership | 390765 | [390765-the-last-mothership.json](./390765-the-last-mothership.json) |
 | The Last Night | 18285 | [18285-the-last-night.json](./18285-the-last-night.json) |
@@ -6862,6 +6865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life and Suffering of Sir Brante | 138871 | [138871-the-life-and-suffering-of-sir-brante.json](./138871-the-life-and-suffering-of-sir-brante.json) |
 | The Life and Times of Daniel Vastberaden | 368571 | [368571-the-life-and-times-of-daniel-vastberaden.json](./368571-the-life-and-times-of-daniel-vastberaden.json) |
 | The Life of a Pacifist is Often Fraught With Conflict | 65777 | [65777-the-life-of-a-pacifist-is-often-fraught-with-conflict.json](./65777-the-life-of-a-pacifist-is-often-fraught-with-conflict.json) |
+| The Life of an Astronaut | 179027 | [179027-the-life-of-an-astronaut.json](./179027-the-life-of-an-astronaut.json) |
 | The Life of Arthur | 220692 | [220692-the-life-of-arthur.json](./220692-the-life-of-arthur.json) |
 | The Life of Frederick Sommer | 148987 | [148987-the-life-of-frederick-sommer.json](./148987-the-life-of-frederick-sommer.json) |
 | The Life of Greather | 31998 | [31998-the-life-of-greather.json](./31998-the-life-of-greather.json) |
@@ -10794,6 +10798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thoroughbred Tatsu no Eikan: The Victorious Thoroughbreds | 166541 | [166541-thoroughbred-tatsu-no-eikan-the-victorious-thoroughbreds.json](./166541-thoroughbred-tatsu-no-eikan-the-victorious-thoroughbreds.json) |
 | Thoru Yamamoto's Mole Hole | 272480 | [272480-thoru-yamamotos-mole-hole.json](./272480-thoru-yamamotos-mole-hole.json) |
 | Those Damn Aliens VR | 29937 | [29937-those-damn-aliens-vr.json](./29937-those-damn-aliens-vr.json) |
+| Those Days | 179024 | [179024-those-days.json](./179024-those-days.json) |
 | Those Dirty Colonists | 179527 | [179527-those-dirty-colonists.json](./179527-those-dirty-colonists.json) |
 | Those Infernal Girls! | 225744 | [225744-those-infernal-girls.json](./225744-those-infernal-girls.json) |
 | Those Left Behind | 212854 | [212854-those-left-behind.json](./212854-those-left-behind.json) |
