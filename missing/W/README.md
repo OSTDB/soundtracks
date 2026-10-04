@@ -3101,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wink Out | 404410 | [404410-wink-out.json](./404410-wink-out.json) |
 | Winkeltje: Cat Companion | 273939 | [273939-winkeltje-cat-companion.json](./273939-winkeltje-cat-companion.json) |
 | Winkeltje: The Little Shop | 114493 | [114493-winkeltje-the-little-shop.json](./114493-winkeltje-the-little-shop.json) |
+| Winky the Little Bear | 213857 | [213857-winky-the-little-bear.json](./213857-winky-the-little-bear.json) |
 | Winky Trap | 131582 | [131582-winky-trap.json](./131582-winky-trap.json) |
 | Winner | 130946 | [130946-winner.json](./130946-winner.json) |
 | Winner In Life | 338363 | [338363-winner-in-life.json](./338363-winner-in-life.json) |
@@ -3449,6 +3450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without a Dawn | 333551 | [333551-without-a-dawn.json](./333551-without-a-dawn.json) |
 | Without A Hitch | 381168 | [381168-without-a-hitch.json](./381168-without-a-hitch.json) |
 | Without A Roof (W.A.R.) | 108637 | [108637-without-a-roof-w-a-r.json](./108637-without-a-roof-w-a-r.json) |
+| Without End | 213842 | [213842-without-end.json](./213842-without-end.json) |
 | Without Escape | 270394 | [270394-without-escape.json](./270394-without-escape.json) |
 | Without Judgement | 216824 | [216824-without-judgement.json](./216824-without-judgement.json) |
 | Without kidney | 215652 | [215652-without-kidney.json](./215652-without-kidney.json) |
