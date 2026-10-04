@@ -2411,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathtrap Dungeon Trilogy | 126494 | [126494-deathtrap-dungeon-trilogy.json](./126494-deathtrap-dungeon-trilogy.json) |
 | Deathtrap Dungeon: The Interactive Video Adventure | 129936 | [129936-deathtrap-dungeon-the-interactive-video-adventure.json](./129936-deathtrap-dungeon-the-interactive-video-adventure.json) |
 | Deathwatch | 221258 | [221258-deathwatch.json](./221258-deathwatch.json) |
+| Deathwish Enforcers | 203766 | [203766-deathwish-enforcers.json](./203766-deathwish-enforcers.json) |
 | DeathWorm | 234941 | [234941-deathworm.json](./234941-deathworm.json) |
 | Debasing Grounds | 286682 | [286682-debasing-grounds.json](./286682-debasing-grounds.json) |
 | Debbie's Diner Derby | 394889 | [394889-debbies-diner-derby.json](./394889-debbies-diner-derby.json) |
@@ -8017,6 +8018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Cage | 329222 | [329222-dream-cage.json](./329222-dream-cage.json) |
 | Dream Car Racing 3D | 32896 | [32896-dream-car-racing-3d.json](./32896-dream-car-racing-3d.json) |
 | Dream Cat Paradise | 374175 | [374175-dream-cat-paradise.json](./374175-dream-cat-paradise.json) |
+| Dream Catcher VR | 203757 | [203757-dream-catcher-vr.json](./203757-dream-catcher-vr.json) |
 | Dream Catchers | 164448 | [164448-dream-catchers.json](./164448-dream-catchers.json) |
 | Dream Celestial Body | 274524 | [274524-dream-celestial-body.json](./274524-dream-celestial-body.json) |
 | Dream Chamber | 27332 | [27332-dream-chamber.json](./27332-dream-chamber.json) |
