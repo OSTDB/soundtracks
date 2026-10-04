@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Mega Dungeon 64 | 397662 | [397662-ultra-mega-dungeon-64.json](./397662-ultra-mega-dungeon-64.json) |
 | Ultra Mega Planet Battles | 244743 | [244743-ultra-mega-planet-battles.json](./244743-ultra-mega-planet-battles.json) |
 | Ultra Mega Xtra Party Challenge | 201784 | [201784-ultra-mega-xtra-party-challenge.json](./201784-ultra-mega-xtra-party-challenge.json) |
+| Ultra Moto Hero | 175251 | [175251-ultra-moto-hero.json](./175251-ultra-moto-hero.json) |
 | Ultra Moto VR | 213304 | [213304-ultra-moto-vr.json](./213304-ultra-moto-vr.json) |
 | Ultra Mushroom | 302442 | [302442-ultra-mushroom.json](./302442-ultra-mushroom.json) |
 | Ultra Neo Geo Maze 2 | 377786 | [377786-ultra-neo-geo-maze-2.json](./377786-ultra-neo-geo-maze-2.json) |
