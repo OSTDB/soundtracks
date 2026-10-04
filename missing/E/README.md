@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports UFC 5: Mike Tyson | 297457 | [297457-ea-sports-ufc-5-mike-tyson.json](./297457-ea-sports-ufc-5-mike-tyson.json) |
 | EA Sports UFC 6 | 400095 | [400095-ea-sports-ufc-6.json](./400095-ea-sports-ufc-6.json) |
 | EA Sports UFC 6: Ultimate Edition | 402962 | [402962-ea-sports-ufc-6-ultimate-edition.json](./402962-ea-sports-ufc-6-ultimate-edition.json) |
+| EA Sports UFC Mobile | 218949 | [218949-ea-sports-ufc-mobile.json](./218949-ea-sports-ufc-mobile.json) |
 | EA Sports WRC 24 | 319197 | [319197-ea-sports-wrc-24.json](./319197-ea-sports-wrc-24.json) |
 | EA Star Wars Triple Bundle | 164777 | [164777-ea-star-wars-triple-bundle.json](./164777-ea-star-wars-triple-bundle.json) |
 | Eador: Masters of the Broken World | 7719 | [7719-eador-masters-of-the-broken-world.json](./7719-eador-masters-of-the-broken-world.json) |
@@ -3523,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Cogs | 93740 | [93740-evil-cogs.json](./93740-evil-cogs.json) |
 | Evil Crown | 45328 | [45328-evil-crown.json](./45328-evil-crown.json) |
 | Evil Cucumber | 169374 | [169374-evil-cucumber.json](./169374-evil-cucumber.json) |
+| Evil Dead Pinball | 219100 | [219100-evil-dead-pinball.json](./219100-evil-dead-pinball.json) |
 | Evil Dead: Regeneration | 5828 | [5828-evil-dead-regeneration.json](./5828-evil-dead-regeneration.json) |
 | Evil Dead: The Game | 66308 | [66308-evil-dead-the-game.json](./66308-evil-dead-the-game.json) |
 | Evil Dead: The Game - 2013 bundle | 227340 | [227340-evil-dead-the-game-2013-bundle.json](./227340-evil-dead-the-game-2013-bundle.json) |
@@ -3888,6 +3890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoprimal: Witchdoctor Mega Man Set | 298330 | [298330-exoprimal-witchdoctor-mega-man-set.json](./298330-exoprimal-witchdoctor-mega-man-set.json) |
 | Exoprimal: Witchdoctor UFO Set | 256551 | [256551-exoprimal-witchdoctor-ufo-set.json](./256551-exoprimal-witchdoctor-ufo-set.json) |
 | Exoprimal: Zephyr Security Guard Set | 256548 | [256548-exoprimal-zephyr-security-guard-set.json](./256548-exoprimal-zephyr-security-guard-set.json) |
+| Exoracer | 219092 | [219092-exoracer.json](./219092-exoracer.json) |
 | Exorcism Agency | 355208 | [355208-exorcism-agency.json](./355208-exorcism-agency.json) |
 | Exorcism Express | 181153 | [181153-exorcism-express.json](./181153-exorcism-express.json) |
 | Exorcism: Case Zero | 72489 | [72489-exorcism-case-zero.json](./72489-exorcism-case-zero.json) |
@@ -4041,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extra Evolution: L’Era del Primordiale | 342778 | [342778-extra-evolution-l-era-del-primordiale.json](./342778-extra-evolution-l-era-del-primordiale.json) |
 | Extra Extra Poison | 369578 | [369578-extra-extra-poison.json](./369578-extra-extra-poison.json) |
 | Extra Innings | 42558 | [42558-extra-innings.json](./42558-extra-innings.json) |
+| Extra Mario Bros. | 219115 | [219115-extra-mario-bros.json](./219115-extra-mario-bros.json) |
 | Extra Story of God's One Day World | 162853 | [162853-extra-story-of-gods-one-day-world.json](./162853-extra-story-of-gods-one-day-world.json) |
 | Extra Terrestrial Perception | 44615 | [44615-extra-terrestrial-perception.json](./44615-extra-terrestrial-perception.json) |
 | Extra Terrestrials | 40778 | [40778-extra-terrestrials.json](./40778-extra-terrestrials.json) |
