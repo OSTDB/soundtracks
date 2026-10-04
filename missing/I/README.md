@@ -1146,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Battle of Stalingrad - I.A.R. 80-A and 80-B Collector Planes | 295399 | [295399-il-2-sturmovik-battle-of-stalingrad-i-a-r-80-a-and-80-b-collector-planes.json](./295399-il-2-sturmovik-battle-of-stalingrad-i-a-r-80-a-and-80-b-collector-planes.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Spitfire Mk.XIVe with Teardrop Canopy | 243160 | [243160-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-xive-with-teardrop-canopy.json](./243160-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-xive-with-teardrop-canopy.json) |
 | IL-2 Sturmovik: Battle of Stalingrad Deluxe Edition | 300968 | [300968-il-2-sturmovik-battle-of-stalingrad-deluxe-edition.json](./300968-il-2-sturmovik-battle-of-stalingrad-deluxe-edition.json) |
+| IL-2 Sturmovik: Birds of Prey | 193298 | [193298-il-2-sturmovik-birds-of-prey.json](./193298-il-2-sturmovik-birds-of-prey.json) |
 | IL-2 Sturmovik: CG-4A Collector Plane | 285552 | [285552-il-2-sturmovik-cg-4a-collector-plane.json](./285552-il-2-sturmovik-cg-4a-collector-plane.json) |
 | IL-2 Sturmovik: Cliffs of Dover | 27471 | [27471-il-2-sturmovik-cliffs-of-dover.json](./27471-il-2-sturmovik-cliffs-of-dover.json) |
 | IL-2 Sturmovik: Cliffs of Dover Blitz | 80996 | [80996-il-2-sturmovik-cliffs-of-dover-blitz.json](./80996-il-2-sturmovik-cliffs-of-dover-blitz.json) |
@@ -1195,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion | 99650 | [99650-illusion.json](./99650-illusion.json) |
 | Illusion Connect | 139382 | [139382-illusion-connect.json](./139382-illusion-connect.json) |
 | Illusion Inexistante | 292815 | [292815-illusion-inexistante.json](./292815-illusion-inexistante.json) |
+| Illusion Lands | 193257 | [193257-illusion-lands.json](./193257-illusion-lands.json) |
 | Illusion of Being: Chapter 1 | 375953 | [375953-illusion-of-being-chapter-1.json](./375953-illusion-of-being-chapter-1.json) |
 | Illusion of Itehari | 242067 | [242067-illusion-of-itehari.json](./242067-illusion-of-itehari.json) |
 | Illusion of L'Phalcia | 39010 | [39010-illusion-of-lphalcia.json](./39010-illusion-of-lphalcia.json) |
@@ -2177,6 +2179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inheritance of Ash | 322793 | [322793-inheritance-of-ash.json](./322793-inheritance-of-ash.json) |
 | Inherited Shadows | 403838 | [403838-inherited-shadows.json](./403838-inherited-shadows.json) |
 | Inhibit | 264688 | [264688-inhibit.json](./264688-inhibit.json) |
+| Inhuman | 193276 | [193276-inhuman.json](./193276-inhuman.json) |
 | Inhuman | 350421 | [350421-inhuman.json](./350421-inhuman.json) |
 | Ini | 197638 | [197638-ini.json](./197638-ini.json) |
 | Inindo: Way of the Ninja | 47498 | [47498-inindo-way-of-the-ninja.json](./47498-inindo-way-of-the-ninja.json) |
