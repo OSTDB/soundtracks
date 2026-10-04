@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M3nticid3: Control Group | 393018 | [393018-m3nticid3-control-group.json](./393018-m3nticid3-control-group.json) |
 | M87 | 200511 | [200511-m87.json](./200511-m87.json) |
 | Ma première visite à la tour du sens | 345578 | [345578-ma-premiere-visite-a-la-tour-du-sens.json](./345578-ma-premiere-visite-a-la-tour-du-sens.json) |
+| Ma Puzzle | 181209 | [181209-ma-puzzle.json](./181209-ma-puzzle.json) |
 | Ma3 | 252667 | [252667-ma3.json](./252667-ma3.json) |
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
 | Mabeop Cheonjamun DS | 124789 | [124789-mabeop-cheonjamun-ds.json](./124789-mabeop-cheonjamun-ds.json) |
@@ -5909,6 +5910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Watcher: Village | 403685 | [403685-midnight-watcher-village.json](./403685-midnight-watcher-village.json) |
 | Midnight Wave | 109669 | [109669-midnight-wave.json](./109669-midnight-wave.json) |
 | Midnight Witch | 244228 | [244228-midnight-witch.json](./244228-midnight-witch.json) |
+| Midnight: Submersion | 181111 | [181111-midnight-submersion.json](./181111-midnight-submersion.json) |
 | Midnight's Bell | 319647 | [319647-midnights-bell.json](./319647-midnights-bell.json) |
 | Midnight's Blessing 2 | 33040 | [33040-midnights-blessing-2.json](./33040-midnights-blessing-2.json) |
 | Midnight's Curse | 154569 | [154569-midnights-curse.json](./154569-midnights-curse.json) |
@@ -6188,6 +6190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milo's Quest | 137608 | [137608-milos-quest.json](./137608-milos-quest.json) |
 | Milon no Hoshizora Shabon: Puzzle Kumikyoku | 97681 | [97681-milon-no-hoshizora-shabon-puzzle-kumikyoku.json](./97681-milon-no-hoshizora-shabon-puzzle-kumikyoku.json) |
 | Milon's Secret Hell | 323347 | [323347-milons-secret-hell.json](./323347-milons-secret-hell.json) |
+| Milt | 181195 | [181195-milt.json](./181195-milt.json) |
 | Milthm | 258703 | [258703-milthm.json](./258703-milthm.json) |
 | Milton Cumberdale | 238990 | [238990-milton-cumberdale.json](./238990-milton-cumberdale.json) |
 | Milton the Alien Guy | 230349 | [230349-milton-the-alien-guy.json](./230349-milton-the-alien-guy.json) |
@@ -7180,6 +7183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Stars | 266993 | [266993-missing-stars.json](./266993-missing-stars.json) |
 | Missing Texture | 396242 | [396242-missing-texture.json](./396242-missing-texture.json) |
 | Missing The Point | 397154 | [397154-missing-the-point.json](./397154-missing-the-point.json) |
+| Missing: Game for a Cause | 181200 | [181200-missing-game-for-a-cause.json](./181200-missing-game-for-a-cause.json) |
 | Missing: Itsuka Kitto | 257653 | [257653-missing-itsuka-kitto.json](./257653-missing-itsuka-kitto.json) |
 | Missing: Since January | 68204 | [68204-missing-since-january.json](./68204-missing-since-january.json) |
 | Mission | 246351 | [246351-mission.json](./246351-mission.json) |
@@ -9601,6 +9605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Burt | 102824 | [102824-mr-burt.json](./102824-mr-burt.json) |
 | Mr Chin | 409760 | [409760-mr-chin.json](./409760-mr-chin.json) |
 | Mr Crab | 57146 | [57146-mr-crab.json](./57146-mr-crab.json) |
+| Mr Fish's Awful Adventure | 181174 | [181174-mr-fishs-awful-adventure.json](./181174-mr-fishs-awful-adventure.json) |
 | Mr Flippers Out For Vengeance | 278668 | [278668-mr-flippers-out-for-vengeance.json](./278668-mr-flippers-out-for-vengeance.json) |
 | Mr Giggle | 138201 | [138201-mr-giggle.json](./138201-mr-giggle.json) |
 | Mr Giggle 2 | 143043 | [143043-mr-giggle-2.json](./143043-mr-giggle-2.json) |
@@ -11403,6 +11408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Mischief | 248029 | [248029-mystic-mischief.json](./248029-mystic-mischief.json) |
 | Mystic Pathways | 342150 | [342150-mystic-pathways.json](./342150-mystic-pathways.json) |
 | Mystic Pillars: Remastered | 291150 | [291150-mystic-pillars-remastered.json](./291150-mystic-pillars-remastered.json) |
+| Mystic Realm Dizzy | 181208 | [181208-mystic-realm-dizzy.json](./181208-mystic-realm-dizzy.json) |
 | Mystic Rest Stop | 327949 | [327949-mystic-rest-stop.json](./327949-mystic-rest-stop.json) |
 | Mystic Ruin: A New Dawn | 150619 | [150619-mystic-ruin-a-new-dawn.json](./150619-mystic-ruin-a-new-dawn.json) |
 | Mystic RUS-files | 117635 | [117635-mystic-rus-files.json](./117635-mystic-rus-files.json) |
