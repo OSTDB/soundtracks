@@ -1272,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfsquad7 | 93501 | [93501-elfsquad7.json](./93501-elfsquad7.json) |
 | Elhosea | 287710 | [287710-elhosea.json](./287710-elhosea.json) |
 | Elidon | 13633 | [13633-elidon.json](./13633-elidon.json) |
+| Elif | 186689 | [186689-elif.json](./186689-elif.json) |
 | Elimination | 207732 | [207732-elimination.json](./207732-elimination.json) |
 | Elimination Games | 220840 | [220840-elimination-games.json](./220840-elimination-games.json) |
 | Eliminato | 102826 | [102826-eliminato.json](./102826-eliminato.json) |
@@ -2600,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Duckness | 395218 | [395218-escape-from-duckness.json](./395218-escape-from-duckness.json) |
 | Escape From Earth | 121458 | [121458-escape-from-earth.json](./121458-escape-from-earth.json) |
 | Escape from Elm Street | 320295 | [320295-escape-from-elm-street.json](./320295-escape-from-elm-street.json) |
+| Escape From Eternity | 186673 | [186673-escape-from-eternity.json](./186673-escape-from-eternity.json) |
 | Escape from Ever After | 211624 | [211624-escape-from-ever-after.json](./211624-escape-from-ever-after.json) |
 | Escape From Exile | 259041 | [259041-escape-from-exile.json](./259041-escape-from-exile.json) |
 | Escape From Exit 7 of the Theater | 315281 | [315281-escape-from-exit-7-of-the-theater.json](./315281-escape-from-exit-7-of-the-theater.json) |
@@ -4151,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Power | 44727 | [44727-extreme-power.json](./44727-extreme-power.json) |
 | Extreme Power Soccer | 247043 | [247043-extreme-power-soccer.json](./247043-extreme-power-soccer.json) |
 | Extreme QTE | 151747 | [151747-extreme-qte.json](./151747-extreme-qte.json) |
+| Extreme Race | 186679 | [186679-extreme-race.json](./186679-extreme-race.json) |
 | Extreme Rally Raid | 278523 | [278523-extreme-rally-raid.json](./278523-extreme-rally-raid.json) |
 | Extreme Reaction | 368148 | [368148-extreme-reaction.json](./368148-extreme-reaction.json) |
 | Extreme Riding 2 | 278155 | [278155-extreme-riding-2.json](./278155-extreme-riding-2.json) |
