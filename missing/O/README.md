@@ -1636,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Pinball | 292532 | [292532-only-pinball.json](./292532-only-pinball.json) |
 | Only Shadows Left Behind | 109730 | [109730-only-shadows-left-behind.json](./109730-only-shadows-left-behind.json) |
 | Only Sky Parkour: Island Up! | 349427 | [349427-only-sky-parkour-island-up.json](./349427-only-sky-parkour-island-up.json) |
+| Only Society: Arena | 188991 | [188991-only-society-arena.json](./188991-only-society-arena.json) |
 | Only Straight and Up! | 264027 | [264027-only-straight-and-up.json](./264027-only-straight-and-up.json) |
 | Only The Lost Shall See | 341508 | [341508-only-the-lost-shall-see.json](./341508-only-the-lost-shall-see.json) |
 | Only the Rich May Die | 270940 | [270940-only-the-rich-may-die.json](./270940-only-the-rich-may-die.json) |
@@ -2518,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Mind | 238496 | [238496-our-mind.json](./238496-our-mind.json) |
 | Our Mini Adventure | 235871 | [235871-our-mini-adventure.json](./235871-our-mini-adventure.json) |
 | Our Monsoon Balcony | 382387 | [382387-our-monsoon-balcony.json](./382387-our-monsoon-balcony.json) |
+| Our Mother's house | 189011 | [189011-our-mothers-house.json](./189011-our-mothers-house.json) |
 | Our Ninja World | 199106 | [199106-our-ninja-world.json](./199106-our-ninja-world.json) |
 | Our Personal Space | 163204 | [163204-our-personal-space.json](./163204-our-personal-space.json) |
 | Our Place | 179155 | [179155-our-place.json](./179155-our-place.json) |
