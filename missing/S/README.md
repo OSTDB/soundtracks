@@ -3383,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGS Battle For: Stalingrad | 244900 | [244900-sgs-battle-for-stalingrad.json](./244900-sgs-battle-for-stalingrad.json) |
 | SGS Fall Weiss | 197271 | [197271-sgs-fall-weiss.json](./197271-sgs-fall-weiss.json) |
 | SGS Korean War | 202653 | [202653-sgs-korean-war.json](./202653-sgs-korean-war.json) |
+| SGS NATO's Nightmare | 212166 | [212166-sgs-natos-nightmare.json](./212166-sgs-natos-nightmare.json) |
 | SGS Pacific D-Day | 197415 | [197415-sgs-pacific-d-day.json](./197415-sgs-pacific-d-day.json) |
 | SGS Taipings | 230923 | [230923-sgs-taipings.json](./230923-sgs-taipings.json) |
 | SGS We The People | 388972 | [388972-sgs-we-the-people.json](./388972-sgs-we-the-people.json) |
@@ -4628,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shock Hop | 243089 | [243089-shock-hop.json](./243089-shock-hop.json) |
 | Shock Tactics | 18811 | [18811-shock-tactics.json](./18811-shock-tactics.json) |
 | Shock Troopers: 2nd Squad | 32778 | [32778-shock-troopers-2nd-squad.json](./32778-shock-troopers-2nd-squad.json) |
+| Shock Troops | 212303 | [212303-shock-troops.json](./212303-shock-troops.json) |
 | Shocked | 213458 | [213458-shocked.json](./213458-shocked.json) |
 | Shocking Twist | 308261 | [308261-shocking-twist.json](./308261-shocking-twist.json) |
 | Shockwave | 48084 | [48084-shockwave.json](./48084-shockwave.json) |
@@ -6363,6 +6365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skunny: Special Edition | 46732 | [46732-skunny-special-edition.json](./46732-skunny-special-edition.json) |
 | Skunny's Desert Raid | 71045 | [71045-skunnys-desert-raid.json](./71045-skunnys-desert-raid.json) |
 | Skwampt | 229752 | [229752-skwampt.json](./229752-skwampt.json) |
+| Skwish | 212294 | [212294-skwish.json](./212294-skwish.json) |
 | Sky 2120 | 408216 | [408216-sky-2120.json](./408216-sky-2120.json) |
 | Sky Aces | 343990 | [343990-sky-aces.json](./343990-sky-aces.json) |
 | Sky Aces | 54365 | [54365-sky-aces.json](./54365-sky-aces.json) |
@@ -6736,6 +6739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayer Cat | 147362 | [147362-slayer-cat.json](./147362-slayer-cat.json) |
 | Slayer Legend | 226766 | [226766-slayer-legend.json](./226766-slayer-legend.json) |
 | Slayer Shock | 24646 | [24646-slayer-shock.json](./24646-slayer-shock.json) |
+| Slayer: The Demon Haunted World | 212150 | [212150-slayer-the-demon-haunted-world.json](./212150-slayer-the-demon-haunted-world.json) |
 | Slayers Royal 2 | 72660 | [72660-slayers-royal-2.json](./72660-slayers-royal-2.json) |
 | Slaygon | 55148 | [55148-slaygon.json](./55148-slaygon.json) |
 | Slayin | 59671 | [59671-slayin.json](./59671-slayin.json) |
@@ -9938,6 +9942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Combat Simulator | 292677 | [292677-space-combat-simulator.json](./292677-space-combat-simulator.json) |
 | Space Combat: Galaxy Wars | 255726 | [255726-space-combat-galaxy-wars.json](./255726-space-combat-galaxy-wars.json) |
 | Space Command Battleship | 262071 | [262071-space-command-battleship.json](./262071-space-command-battleship.json) |
+| Space Commander | 212159 | [212159-space-commander.json](./212159-space-commander.json) |
 | Space Commander | 26806 | [26806-space-commander.json](./26806-space-commander.json) |
 | Space Commander: War and Trade | 146222 | [146222-space-commander-war-and-trade.json](./146222-space-commander-war-and-trade.json) |
 | Space Commanders | 397256 | [397256-space-commanders.json](./397256-space-commanders.json) |
@@ -14522,6 +14527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Riders | 46017 | [46017-street-riders.json](./46017-street-riders.json) |
 | Street Scooters | 279217 | [279217-street-scooters.json](./279217-street-scooters.json) |
 | Street Shuffle | 134659 | [134659-street-shuffle.json](./134659-street-shuffle.json) |
+| Street Shuffle | 212160 | [212160-street-shuffle.json](./212160-street-shuffle.json) |
 | Street Soccer Online | 345087 | [345087-street-soccer-online.json](./345087-street-soccer-online.json) |
 | Street Soccer Simulator | 391342 | [391342-street-soccer-simulator.json](./391342-street-soccer-simulator.json) |
 | Street Sports Baseball | 52201 | [52201-street-sports-baseball.json](./52201-street-sports-baseball.json) |
