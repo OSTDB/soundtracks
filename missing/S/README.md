@@ -4503,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi Origins | 389108 | [389108-shinobi-origins.json](./389108-shinobi-origins.json) |
 | Shinobi Rising | 216286 | [216286-shinobi-rising.json](./216286-shinobi-rising.json) |
 | Shinobi Saga | 285539 | [285539-shinobi-saga.json](./285539-shinobi-saga.json) |
+| Shinobi Shift | 192745 | [192745-shinobi-shift.json](./192745-shinobi-shift.json) |
 | Shinobi Slash | 264055 | [264055-shinobi-slash.json](./264055-shinobi-slash.json) |
 | Shinobi Spirits S: Legend of Heroes | 121046 | [121046-shinobi-spirits-s-legend-of-heroes.json](./121046-shinobi-spirits-s-legend-of-heroes.json) |
 | Shinobi, Koi Utsutsu | 61665 | [61665-shinobi-koi-utsutsu.json](./61665-shinobi-koi-utsutsu.json) |
@@ -4646,6 +4647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shirokoi Sakura Gram | 370245 | [370245-shirokoi-sakura-gram.json](./370245-shirokoi-sakura-gram.json) |
 | ShiroKuro Iede Gyaru: Tomete Kuretara Nandemo Suru yo | 82999 | [82999-shirokuro-iede-gyaru-tomete-kuretara-nandemo-suru-yo.json](./82999-shirokuro-iede-gyaru-tomete-kuretara-nandemo-suru-yo.json) |
 | Shirokuro: Shikijoushou no Osananajimi wo Sewa suru koto ni natta, Kanojo ni naisho de | 323855 | [323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json](./323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json) |
+| Shirone: the Dragon Girl | 192782 | [192782-shirone-the-dragon-girl.json](./192782-shirone-the-dragon-girl.json) |
 | Shirotsume Souwa Bangai-hen: Tsunakawa-sanchi no Christmas | 376706 | [376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json](./376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json) |
 | Shirotsume Souwa: Episode of the Clovers | 354005 | [354005-shirotsume-souwa-episode-of-the-clovers.json](./354005-shirotsume-souwa-episode-of-the-clovers.json) |
 | Shirushi | 202364 | [202364-shirushi.json](./202364-shirushi.json) |
@@ -5056,6 +5058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrine | 132241 | [132241-shrine.json](./132241-shrine.json) |
 | Shrine For the Gods of Lost Things | 141628 | [141628-shrine-for-the-gods-of-lost-things.json](./141628-shrine-for-the-gods-of-lost-things.json) |
 | Shrine of Haunts | 347336 | [347336-shrine-of-haunts.json](./347336-shrine-of-haunts.json) |
+| Shrine of Tails | 192763 | [192763-shrine-of-tails.json](./192763-shrine-of-tails.json) |
 | Shrine of the Silver CyberPrimate | 261466 | [261466-shrine-of-the-silver-cyberprimate.json](./261466-shrine-of-the-silver-cyberprimate.json) |
 | Shrine of the Spirits: SS Hero | 230881 | [230881-shrine-of-the-spirits-ss-hero.json](./230881-shrine-of-the-spirits-ss-hero.json) |
 | Shrine Raider | 377052 | [377052-shrine-raider.json](./377052-shrine-raider.json) |
@@ -10882,6 +10885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectron | 40912 | [40912-spectron.json](./40912-spectron.json) |
 | Spectrubes | 33415 | [33415-spectrubes.json](./33415-spectrubes.json) |
 | Spectrubes Infinity | 96663 | [96663-spectrubes-infinity.json](./96663-spectrubes-infinity.json) |
+| Spectrum | 192785 | [192785-spectrum.json](./192785-spectrum.json) |
 | Spectrum | 260129 | [260129-spectrum.json](./260129-spectrum.json) |
 | Spectrum 6 | 240838 | [240838-spectrum-6.json](./240838-spectrum-6.json) |
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
@@ -11788,6 +11792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sportitions ’24 | 308497 | [308497-sportitions-24.json](./308497-sportitions-24.json) |
 | Sports Action Pak | 56456 | [56456-sports-action-pak.json](./56456-sports-action-pak.json) |
 | Sports Babes | 382284 | [382284-sports-babes.json](./382284-sports-babes.json) |
+| Sports Betting Simulator | 192767 | [192767-sports-betting-simulator.json](./192767-sports-betting-simulator.json) |
 | Sports Car Challenge 2 | 233243 | [233243-sports-car-challenge-2.json](./233243-sports-car-challenge-2.json) |
 | Sports Car Driver | 187493 | [187493-sports-car-driver.json](./187493-sports-car-driver.json) |
 | Sports Car Driving Simulator 2018 | 100867 | [100867-sports-car-driving-simulator-2018.json](./100867-sports-car-driving-simulator-2018.json) |
@@ -12539,6 +12544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Jolt | 127960 | [127960-star-jolt.json](./127960-star-jolt.json) |
 | Star Keeper | 255251 | [255251-star-keeper.json](./255251-star-keeper.json) |
 | Star Knight | 46756 | [46756-star-knight.json](./46756-star-knight.json) |
+| Star Knightess Aura | 192746 | [192746-star-knightess-aura.json](./192746-star-knightess-aura.json) |
 | Star League Baseball | 307766 | [307766-star-league-baseball.json](./307766-star-league-baseball.json) |
 | Star Legacy | 351693 | [351693-star-legacy.json](./351693-star-legacy.json) |
 | Star Legacy VR | 261782 | [261782-star-legacy-vr.json](./261782-star-legacy-vr.json) |
@@ -12931,6 +12937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staraway | 349377 | [349377-staraway.json](./349377-staraway.json) |
 | Starazius | 122423 | [122423-starazius.json](./122423-starazius.json) |
 | Starback: Planetdestroyer Redux | 101724 | [101724-starback-planetdestroyer-redux.json](./101724-starback-planetdestroyer-redux.json) |
+| Starbase Gunship | 192772 | [192772-starbase-gunship.json](./192772-starbase-gunship.json) |
 | Starbase Hyperion | 282149 | [282149-starbase-hyperion.json](./282149-starbase-hyperion.json) |
 | Starbirds | 73292 | [73292-starbirds.json](./73292-starbirds.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
