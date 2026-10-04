@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welly Wang VR | 267680 | [267680-welly-wang-vr.json](./267680-welly-wang-vr.json) |
 | Welme | 404234 | [404234-welme.json](./404234-welme.json) |
 | Weltreich: Political Strategy Simulator | 151071 | [151071-weltreich-political-strategy-simulator.json](./151071-weltreich-political-strategy-simulator.json) |
+| Weltschmerz | 177809 | [177809-weltschmerz.json](./177809-weltschmerz.json) |
 | Wèndào Xiāntú | 160231 | [160231-wendao-xiantu.json](./160231-wendao-xiantu.json) |
 | Wendigo | 252727 | [252727-wendigo.json](./252727-wendigo.json) |
 | Wendigo | 253331 | [253331-wendigo.json](./253331-wendigo.json) |
@@ -2161,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whelm | 296363 | [296363-whelm.json](./296363-whelm.json) |
 | When a Man Lose His Job | 147874 | [147874-when-a-man-lose-his-job.json](./147874-when-a-man-lose-his-job.json) |
 | When A Mimosa Blooms | 98021 | [98021-when-a-mimosa-blooms.json](./98021-when-a-mimosa-blooms.json) |
+| When Aster Falls | 177899 | [177899-when-aster-falls.json](./177899-when-aster-falls.json) |
 | When Bricks Fly | 224534 | [224534-when-bricks-fly.json](./224534-when-bricks-fly.json) |
 | When Clones Attack! | 69945 | [69945-when-clones-attack.json](./69945-when-clones-attack.json) |
 | When Day Breaks | 216346 | [216346-when-day-breaks.json](./216346-when-day-breaks.json) |
@@ -2197,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When The Rumors Become Real | 370185 | [370185-when-the-rumors-become-real.json](./370185-when-the-rumors-become-real.json) |
 | When the Shutter Stops | 109713 | [109713-when-the-shutter-stops.json](./109713-when-the-shutter-stops.json) |
 | When The Snow is Gone | 383352 | [383352-when-the-snow-is-gone.json](./383352-when-the-snow-is-gone.json) |
+| When the Stars Come Down on Us | 177896 | [177896-when-the-stars-come-down-on-us.json](./177896-when-the-stars-come-down-on-us.json) |
 | When the Strawberry Muffin Ate a Goth | 249323 | [249323-when-the-strawberry-muffin-ate-a-goth.json](./249323-when-the-strawberry-muffin-ate-a-goth.json) |
 | When The World Became Black | 298134 | [298134-when-the-world-became-black.json](./298134-when-the-world-became-black.json) |
 | When Them Demons Cry | 376021 | [376021-when-them-demons-cry.json](./376021-when-them-demons-cry.json) |
