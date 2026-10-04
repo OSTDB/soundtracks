@@ -586,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda? | 287715 | [287715-panda.json](./287715-panda.json) |
 | PandaBomber | 367559 | [367559-pandabomber.json](./367559-pandabomber.json) |
 | Pandamonium | 345520 | [345520-pandamonium.json](./345520-pandamonium.json) |
+| PandaMonium: Corporate Carnage | 186131 | [186131-pandamonium-corporate-carnage.json](./186131-pandamonium-corporate-carnage.json) |
 | PandaSG | 157122 | [157122-pandasg.json](./157122-pandasg.json) |
 | Pandash | 248913 | [248913-pandash.json](./248913-pandash.json) |
 | Pandecrown | 215908 | [215908-pandecrown.json](./215908-pandecrown.json) |
@@ -1397,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Partition Sector | 144383 | [144383-partition-sector.json](./144383-partition-sector.json) |
 | Partivity! | 115655 | [115655-partivity.json](./115655-partivity.json) |
 | Partner In TV!!! O-Uchi ni Wan-chan ga Yattekita | 327623 | [327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json](./327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json) |
+| Partum Artifex | 186115 | [186115-partum-artifex.json](./186115-partum-artifex.json) |
 | Party Animal | 92431 | [92431-party-animal.json](./92431-party-animal.json) |
 | Party Arcade | 109436 | [109436-party-arcade.json](./109436-party-arcade.json) |
 | Party Arcade: Enhanced Edition | 330186 | [330186-party-arcade-enhanced-edition.json](./330186-party-arcade-enhanced-edition.json) |
@@ -4862,6 +4864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Exploration Company | 207743 | [207743-planetary-exploration-company.json](./207743-planetary-exploration-company.json) |
 | Planetary Factory | 245980 | [245980-planetary-factory.json](./245980-planetary-factory.json) |
 | Planetary Field Team | 406125 | [406125-planetary-field-team.json](./406125-planetary-field-team.json) |
+| Planetary Grapple | 186085 | [186085-planetary-grapple.json](./186085-planetary-grapple.json) |
 | Planetary Gravity | 158174 | [158174-planetary-gravity.json](./158174-planetary-gravity.json) |
 | Planetary Guard: Defender | 41487 | [41487-planetary-guard-defender.json](./41487-planetary-guard-defender.json) |
 | Planetary Life | 258433 | [258433-planetary-life.json](./258433-planetary-life.json) |
@@ -5839,6 +5842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon I Choose You Challenge | 198863 | [198863-pokemon-i-choose-you-challenge.json](./198863-pokemon-i-choose-you-challenge.json) |
 | Pokémon Infinite Fusion 2: Hoenn | 406249 | [406249-pokemon-infinite-fusion-2-hoenn.json](./406249-pokemon-infinite-fusion-2-hoenn.json) |
 | Pokémon Infinite Heardle | 283399 | [283399-pokemon-infinite-heardle.json](./283399-pokemon-infinite-heardle.json) |
+| Pokémon Infinity | 186130 | [186130-pokemon-infinity.json](./186130-pokemon-infinity.json) |
 | Pokémon Island | 202405 | [202405-pokemon-island.json](./202405-pokemon-island.json) |
 | Pokémon Jade | 229095 | [229095-pokemon-jade.json](./229095-pokemon-jade.json) |
 | Pokemon Kalos Crystal | 304731 | [304731-pokemon-kalos-crystal.json](./304731-pokemon-kalos-crystal.json) |
@@ -7330,6 +7334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press-Switch | 217993 | [217993-press-switch.json](./217993-press-switch.json) |
 | Pressing Under Pressure | 393618 | [393618-pressing-under-pressure.json](./393618-pressing-under-pressure.json) |
 | Pressure | 15406 | [15406-pressure.json](./15406-pressure.json) |
+| Pressure | 186086 | [186086-pressure.json](./186086-pressure.json) |
 | Pressure Cooker | 25732 | [25732-pressure-cooker.json](./25732-pressure-cooker.json) |
 | Pressure Gauge | 40756 | [40756-pressure-gauge.json](./40756-pressure-gauge.json) |
 | Pressure Pop! | 209926 | [209926-pressure-pop.json](./209926-pressure-pop.json) |
@@ -8265,6 +8270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project One | 118347 | [118347-project-one.json](./118347-project-one.json) |
 | Project Onne | 400283 | [400283-project-onne.json](./400283-project-onne.json) |
 | Project Otherside | 265307 | [265307-project-otherside.json](./265307-project-otherside.json) |
+| Project Overdrive | 186140 | [186140-project-overdrive.json](./186140-project-overdrive.json) |
 | Project Overkill | 20804 | [20804-project-overkill.json](./20804-project-overkill.json) |
 | Project Overnet | 272949 | [272949-project-overnet.json](./272949-project-overnet.json) |
 | Project Ozone 3 | 230348 | [230348-project-ozone-3.json](./230348-project-ozone-3.json) |
