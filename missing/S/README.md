@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S. Cargo | 275916 | [275916-s-cargo.json](./275916-s-cargo.json) |
 | S.A.B.A.H. (Sun As Biased As Harmony) | 264596 | [264596-s-a-b-a-h-sun-as-biased-as-harmony.json](./264596-s-a-b-a-h-sun-as-biased-as-harmony.json) |
 | S.A.C. Alert | 282792 | [282792-s-a-c-alert.json](./282792-s-a-c-alert.json) |
+| S.A.I.A Awakening: A Robothorium Visual Novel | 180058 | [180058-s-a-i-a-awakening-a-robothorium-visual-novel.json](./180058-s-a-i-a-awakening-a-robothorium-visual-novel.json) |
 | S.A.I.A awaknening: a Robothorium visual novel | 111851 | [111851-s-a-i-a-awaknening-a-robothorium-visual-novel.json](./111851-s-a-i-a-awaknening-a-robothorium-visual-novel.json) |
 | S.A.N.D.Y.: Beach Cleaner | 406300 | [406300-s-a-n-d-y-beach-cleaner.json](./406300-s-a-n-d-y-beach-cleaner.json) |
 | S.C. Out | 150073 | [150073-s-c-out.json](./150073-s-c-out.json) |
@@ -3446,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SFG Soccer | 66700 | [66700-sfg-soccer.json](./66700-sfg-soccer.json) |
 | Sfsim | 415868 | [415868-sfsim.json](./415868-sfsim.json) |
 | SG Racing | 207760 | [207760-sg-racing.json](./207760-sg-racing.json) |
+| SGarden | 180050 | [180050-sgarden.json](./180050-sgarden.json) |
 | SGC: Short Games Collection #1 | 173141 | [173141-sgc-short-games-collection-1.json](./173141-sgc-short-games-collection-1.json) |
 | SGS Battle For: Dien Bien Phu | 298119 | [298119-sgs-battle-for-dien-bien-phu.json](./298119-sgs-battle-for-dien-bien-phu.json) |
 | SGS Battle For: Madrid | 275833 | [275833-sgs-battle-for-madrid.json](./275833-sgs-battle-for-madrid.json) |
@@ -5150,6 +5152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuntle | 319141 | [319141-shuntle.json](./319141-shuntle.json) |
 | Shuppatsu! Doubutsu Tankentai | 63958 | [63958-shuppatsu-doubutsu-tankentai.json](./63958-shuppatsu-doubutsu-tankentai.json) |
 | Shura no Mon | 46258 | [46258-shura-no-mon.json](./46258-shura-no-mon.json) |
+| Shura No Mon | 179996 | [179996-shura-no-mon.json](./179996-shura-no-mon.json) |
 | Shurado | 74775 | [74775-shurado.json](./74775-shurado.json) |
 | Shuriken & Aliens | 124144 | [124144-shuriken-and-aliens.json](./124144-shuriken-and-aliens.json) |
 | Shuriken Block | 61058 | [61058-shuriken-block.json](./61058-shuriken-block.json) |
@@ -5445,6 +5448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Crossing | 25868 | [25868-silent-crossing.json](./25868-silent-crossing.json) |
 | Silent Depth 2: Pacific | 272932 | [272932-silent-depth-2-pacific.json](./272932-silent-depth-2-pacific.json) |
 | Silent Doom | 115176 | [115176-silent-doom.json](./115176-silent-doom.json) |
+| Silent Doom | 180086 | [180086-silent-doom.json](./180086-silent-doom.json) |
 | Silent Dragon US | 39850 | [39850-silent-dragon-us.json](./39850-silent-dragon-us.json) |
 | Silent Dread: Last Order | 408116 | [408116-silent-dread-last-order.json](./408116-silent-dread-last-order.json) |
 | Silent Escape: Induction | 127945 | [127945-silent-escape-induction.json](./127945-silent-escape-induction.json) |
