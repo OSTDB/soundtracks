@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth 3 | 171066 | [171066-labyrinth-3.json](./171066-labyrinth-3.json) |
 | Labyrinth City: Pierre the Maze Detective | 145786 | [145786-labyrinth-city-pierre-the-maze-detective.json](./145786-labyrinth-city-pierre-the-maze-detective.json) |
 | Labyrinth DeLux: A Crusoe Quest | 192229 | [192229-labyrinth-delux-a-crusoe-quest.json](./192229-labyrinth-delux-a-crusoe-quest.json) |
+| Labyrinth Eternal | 187898 | [187898-labyrinth-eternal.json](./187898-labyrinth-eternal.json) |
 | Labyrinth Lunacy | 104694 | [104694-labyrinth-lunacy.json](./104694-labyrinth-lunacy.json) |
 | Labyrinth Master | 356672 | [356672-labyrinth-master.json](./356672-labyrinth-master.json) |
 | Labyrinth of Anxiety | 413128 | [413128-labyrinth-of-anxiety.json](./413128-labyrinth-of-anxiety.json) |
@@ -1443,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Archer: Rebirth | 224029 | [224029-legendary-archer-rebirth.json](./224029-legendary-archer-rebirth.json) |
 | Legendary Blacksmith | 249311 | [249311-legendary-blacksmith.json](./249311-legendary-blacksmith.json) |
 | Legendary Creatures 2 | 271374 | [271374-legendary-creatures-2.json](./271374-legendary-creatures-2.json) |
+| Legendary Dwarves: Retribution | 187893 | [187893-legendary-dwarves-retribution.json](./187893-legendary-dwarves-retribution.json) |
 | Legendary DXP | 69357 | [69357-legendary-dxp.json](./69357-legendary-dxp.json) |
 | Legendary Fishing | 110788 | [110788-legendary-fishing.json](./110788-legendary-fishing.json) |
 | Legendary Heroes Unchained | 324106 | [324106-legendary-heroes-unchained.json](./324106-legendary-heroes-unchained.json) |
@@ -3393,6 +3395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living in the Ending World | 140406 | [140406-living-in-the-ending-world.json](./140406-living-in-the-ending-world.json) |
 | Living Island Project | 284330 | [284330-living-island-project.json](./284330-living-island-project.json) |
 | Living Labyrinth | 185139 | [185139-living-labyrinth.json](./185139-living-labyrinth.json) |
+| Living Legends Remastered: Ice Rose | 187917 | [187917-living-legends-remastered-ice-rose.json](./187917-living-legends-remastered-ice-rose.json) |
 | Living Legends Remastered: Wrath of the Beast - Collector's Edition | 241421 | [241421-living-legends-remastered-wrath-of-the-beast-collectors-edition.json](./241421-living-legends-remastered-wrath-of-the-beast-collectors-edition.json) |
 | Living Legends: Beasts of Bremen | 188004 | [188004-living-legends-beasts-of-bremen.json](./188004-living-legends-beasts-of-bremen.json) |
 | Living Legends: Bound by Wishes - Collector's Edition | 212207 | [212207-living-legends-bound-by-wishes-collectors-edition.json](./212207-living-legends-bound-by-wishes-collectors-edition.json) |
