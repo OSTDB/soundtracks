@@ -2183,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice 2: Black Manta | 165041 | [165041-injustice-2-black-manta.json](./165041-injustice-2-black-manta.json) |
 | Injustice 2: Brainiac | 165042 | [165042-injustice-2-brainiac.json](./165042-injustice-2-brainiac.json) |
 | Injustice 2: Darkseid | 165043 | [165043-injustice-2-darkseid.json](./165043-injustice-2-darkseid.json) |
+| Injustice 2: Deluxe Edition | 212172 | [212172-injustice-2-deluxe-edition.json](./212172-injustice-2-deluxe-edition.json) |
 | Injustice 2: Demons Shader Pack | 323385 | [323385-injustice-2-demons-shader-pack.json](./323385-injustice-2-demons-shader-pack.json) |
 | Injustice 2: Enchantress | 165036 | [165036-injustice-2-enchantress.json](./165036-injustice-2-enchantress.json) |
 | Injustice 2: Fighter Pack 2 | 55046 | [55046-injustice-2-fighter-pack-2.json](./55046-injustice-2-fighter-pack-2.json) |
@@ -3386,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Knows You're Here | 185134 | [185134-it-knows-youre-here.json](./185134-it-knows-youre-here.json) |
 | It Lives | 270666 | [270666-it-lives.json](./270666-it-lives.json) |
 | It Lives Beneath | 313738 | [313738-it-lives-beneath.json](./313738-it-lives-beneath.json) |
+| It Lives in the Woods | 212149 | [212149-it-lives-in-the-woods.json](./212149-it-lives-in-the-woods.json) |
 | It Lives in the Woods | 313737 | [313737-it-lives-in-the-woods.json](./313737-it-lives-in-the-woods.json) |
 | It Lives Within | 300413 | [300413-it-lives-within.json](./300413-it-lives-within.json) |
 | It Lurks Below | 85662 | [85662-it-lurks-below.json](./85662-it-lurks-below.json) |
