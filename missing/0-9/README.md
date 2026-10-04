@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 300 Minutes of /vr/ | 274121 | [274121-300-minutes-of-vr.json](./274121-300-minutes-of-vr.json) |
 | 300 Spartans | 351773 | [351773-300-spartans.json](./351773-300-spartans.json) |
 | 3000m to Whatever’s up There | 373133 | [373133-3000m-to-whatever-s-up-there.json](./373133-3000m-to-whatever-s-up-there.json) |
+| 3000th Duel: The Wise Ones | 174161 | [174161-3000th-duel-the-wise-ones.json](./174161-3000th-duel-the-wise-ones.json) |
 | 303 Game Collection | 273918 | [273918-303-game-collection.json](./273918-303-game-collection.json) |
 | 303 Logic, Action & Arcade Games | 228411 | [228411-303-logic-action-and-arcade-games.json](./228411-303-logic-action-and-arcade-games.json) |
 | 303 Squadron: Battle of Britain | 90654 | [90654-303-squadron-battle-of-britain.json](./90654-303-squadron-battle-of-britain.json) |
