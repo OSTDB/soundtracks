@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Army 4: Dead War - Super Deluxe Edition | 129783 | [129783-zombie-army-4-dead-war-super-deluxe-edition.json](./129783-zombie-army-4-dead-war-super-deluxe-edition.json) |
 | Zombie Army Trilogy | 20871 | [20871-zombie-army-trilogy.json](./20871-zombie-army-trilogy.json) |
 | Zombie Army VR | 288444 | [288444-zombie-army-vr.json](./288444-zombie-army-vr.json) |
+| Zombie Attack | 172551 | [172551-zombie-attack.json](./172551-zombie-attack.json) |
 | Zombie Attack Girls | 221816 | [221816-zombie-attack-girls.json](./221816-zombie-attack-girls.json) |
 | Zombie Attack Pinball HD: Monster Challenge | 89275 | [89275-zombie-attack-pinball-hd-monster-challenge.json](./89275-zombie-attack-pinball-hd-monster-challenge.json) |
 | Zombie Attack: Zombies Survival Shooter | 317235 | [317235-zombie-attack-zombies-survival-shooter.json](./317235-zombie-attack-zombies-survival-shooter.json) |
