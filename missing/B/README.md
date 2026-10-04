@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.I.N.D. | 212907 | [212907-b-i-n-d.json](./212907-b-i-n-d.json) |
 | B.I.T | 99182 | [99182-b-i-t.json](./99182-b-i-t.json) |
 | B.M.G 19: Bike Messenger Go! | 115707 | [115707-b-m-g-19-bike-messenger-go.json](./115707-b-m-g-19-bike-messenger-go.json) |
+| B.O.A.T.S | 176832 | [176832-b-o-a-t-s.json](./176832-b-o-a-t-s.json) |
 | B.O.B.2 | 303812 | [303812-b-o-b-2.json](./303812-b-o-b-2.json) |
 | B.O.D.A.: Send the Plant Home | 183967 | [183967-b-o-d-a-send-the-plant-home.json](./183967-b-o-d-a-send-the-plant-home.json) |
 | B.o.o.o. | 178676 | [178676-b-o-o-o.json](./178676-b-o-o-o.json) |
@@ -3313,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Ultimate Alien - Cosmic Destruction | 377688 | [377688-ben-10-ultimate-alien-cosmic-destruction.json](./377688-ben-10-ultimate-alien-cosmic-destruction.json) |
 | Ben 10: Up to Speed | 88937 | [88937-ben-10-up-to-speed.json](./88937-ben-10-up-to-speed.json) |
 | Ben 10: Vengeance of Vilgax | 206736 | [206736-ben-10-vengeance-of-vilgax.json](./206736-ben-10-vengeance-of-vilgax.json) |
+| Ben 10/Generator Rex: Heroes United | 176854 | [176854-ben-10-generator-rex-heroes-united.json](./176854-ben-10-generator-rex-heroes-united.json) |
 | Ben and Holly: Big Star Fun | 109009 | [109009-ben-and-holly-big-star-fun.json](./109009-ben-and-holly-big-star-fun.json) |
 | Ben Bero Beh | 40265 | [40265-ben-bero-beh.json](./40265-ben-bero-beh.json) |
 | Ben Jordan: Paranormal Investigator | 127124 | [127124-ben-jordan-paranormal-investigator.json](./127124-ben-jordan-paranormal-investigator.json) |
@@ -6064,6 +6066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blub | 274497 | [274497-blub.json](./274497-blub.json) |
 | Blubber | 312582 | [312582-blubber.json](./312582-blubber.json) |
 | BlubBlub: Quest of the Blob | 102338 | [102338-blubblub-quest-of-the-blob.json](./102338-blubblub-quest-of-the-blob.json) |
+| Blue | 176777 | [176777-blue.json](./176777-blue.json) |
 | Blue | 380034 | [380034-blue.json](./380034-blue.json) |
 | Blue Angelo | 18253 | [18253-blue-angelo.json](./18253-blue-angelo.json) |
 | Blue Angelo: Angels from the Shrine | 66051 | [66051-blue-angelo-angels-from-the-shrine.json](./66051-blue-angelo-angels-from-the-shrine.json) |
@@ -7040,6 +7043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borodino | 14335 | [14335-borodino.json](./14335-borodino.json) |
 | Boros | 90455 | [90455-boros.json](./90455-boros.json) |
 | Borrowed Book | 314071 | [314071-borrowed-book.json](./314071-borrowed-book.json) |
+| Borrowed Landscapes | 176776 | [176776-borrowed-landscapes.json](./176776-borrowed-landscapes.json) |
 | Borrowed Light | 402503 | [402503-borrowed-light.json](./402503-borrowed-light.json) |
 | Borrowed Time | 12259 | [12259-borrowed-time.json](./12259-borrowed-time.json) |
 | Borstal | 33241 | [33241-borstal.json](./33241-borstal.json) |
@@ -8726,6 +8730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Budget Rate Stigmata | 362855 | [362855-budget-rate-stigmata.json](./362855-budget-rate-stigmata.json) |
 | Budget Renovation Simulator | 407482 | [407482-budget-renovation-simulator.json](./407482-budget-renovation-simulator.json) |
 | Budni | 287359 | [287359-budni.json](./287359-budni.json) |
+| Buds | 176863 | [176863-buds.json](./176863-buds.json) |
 | Buenos Aires Mirror Line | 391162 | [391162-buenos-aires-mirror-line.json](./391162-buenos-aires-mirror-line.json) |
 | Buff Doge | 219066 | [219066-buff-doge.json](./219066-buff-doge.json) |
 | Buff Huckem Fully Wrecked | 270187 | [270187-buff-huckem-fully-wrecked.json](./270187-buff-huckem-fully-wrecked.json) |
