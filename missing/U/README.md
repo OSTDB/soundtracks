@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Ghost Mountain | 156975 | [156975-under-the-ghost-mountain.json](./156975-under-the-ghost-mountain.json) |
 | Under the Island | 151501 | [151501-under-the-island.json](./151501-under-the-island.json) |
 | Under the Moon | 204327 | [204327-under-the-moon.json](./204327-under-the-moon.json) |
+| Under the Moon: Crescent | 203289 | [203289-under-the-moon-crescent.json](./203289-under-the-moon-crescent.json) |
 | Under the Moon: Tsukiiro Ehon | 72682 | [72682-under-the-moon-tsukiiro-ehon.json](./72682-under-the-moon-tsukiiro-ehon.json) |
 | Under the Ocean | 50821 | [50821-under-the-ocean.json](./50821-under-the-ocean.json) |
 | Under the Rain | 180043 | [180043-under-the-rain.json](./180043-under-the-rain.json) |
