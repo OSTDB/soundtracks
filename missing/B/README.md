@@ -945,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bam Bam Boom | 350057 | [350057-bam-bam-boom.json](./350057-bam-bam-boom.json) |
 | Bam Boom Blade | 289344 | [289344-bam-boom-blade.json](./289344-bam-boom-blade.json) |
 | Bam Boost | 256904 | [256904-bam-boost.json](./256904-bam-boost.json) |
+| Bamb | 182860 | [182860-bamb.json](./182860-bamb.json) |
 | Bamba's Snack Quest | 141093 | [141093-bambas-snack-quest.json](./141093-bambas-snack-quest.json) |
 | Bambie | 257002 | [257002-bambie.json](./257002-bambie.json) |
 | Bambinours Solves a Jig Saw Puzzle | 14283 | [14283-bambinours-solves-a-jig-saw-puzzle.json](./14283-bambinours-solves-a-jig-saw-puzzle.json) |
@@ -4112,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binarion | 242600 | [242600-binarion.json](./242600-binarion.json) |
 | Binary | 172678 | [172678-binary.json](./172678-binary.json) |
 | Binary Battle | 360134 | [360134-binary-battle.json](./360134-binary-battle.json) |
+| Binary Blocks | 182894 | [182894-binary-blocks.json](./182894-binary-blocks.json) |
 | Binary Boy | 125407 | [125407-binary-boy.json](./125407-binary-boy.json) |
 | Binary Domain | 6913 | [6913-binary-domain.json](./6913-binary-domain.json) |
 | Binary Domain Collection | 52629 | [52629-binary-domain-collection.json](./52629-binary-domain-collection.json) |
@@ -9516,6 +9518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bvrger Van | 105138 | [105138-bvrger-van.json](./105138-bvrger-van.json) |
 | BVS Solitaire Collection | 93360 | [93360-bvs-solitaire-collection.json](./93360-bvs-solitaire-collection.json) |
 | By Bait or By Bullet | 369238 | [369238-by-bait-or-by-bullet.json](./369238-by-bait-or-by-bullet.json) |
+| By God Your Anger is Beautiful | 182881 | [182881-by-god-your-anger-is-beautiful.json](./182881-by-god-your-anger-is-beautiful.json) |
 | By Grit Alone | 306947 | [306947-by-grit-alone.json](./306947-by-grit-alone.json) |
 | By Moonlight | 114968 | [114968-by-moonlight.json](./114968-by-moonlight.json) |
 | By Myself | 390185 | [390185-by-myself.json](./390185-by-myself.json) |
