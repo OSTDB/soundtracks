@@ -195,7 +195,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima Forever: Quest for the Avatar | 64923 | [64923-ultima-forever-quest-for-the-avatar.json](./64923-ultima-forever-quest-for-the-avatar.json) |
 | Ultima III: Exodus | 2867 | [2867-ultima-iii-exodus.json](./2867-ultima-iii-exodus.json) |
 | Ultima Nex | 365823 | [365823-ultima-nex.json](./365823-ultima-nex.json) |
+| Ultima Online: 9th Anniversary Edition | 206624 | [206624-ultima-online-9th-anniversary-edition.json](./206624-ultima-online-9th-anniversary-edition.json) |
 | Ultima Online: Age of Shadows | 69219 | [69219-ultima-online-age-of-shadows.json](./69219-ultima-online-age-of-shadows.json) |
+| Ultima Online: Axe Marks the Spot | 206618 | [206618-ultima-online-axe-marks-the-spot.json](./206618-ultima-online-axe-marks-the-spot.json) |
+| Ultima Online: Gold | 206619 | [206619-ultima-online-gold.json](./206619-ultima-online-gold.json) |
 | Ultima Ratio Regum | 142341 | [142341-ultima-ratio-regum.json](./142341-ultima-ratio-regum.json) |
 | Ultima TD | 236261 | [236261-ultima-td.json](./236261-ultima-td.json) |
 | Ultima VI: The False Prophet | 12230 | [12230-ultima-vi-the-false-prophet.json](./12230-ultima-vi-the-false-prophet.json) |
@@ -331,13 +334,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Ocean Simulator | 86890 | [86890-ultimate-ocean-simulator.json](./86890-ultimate-ocean-simulator.json) |
 | Ultimate Pain | 364017 | [364017-ultimate-pain.json](./364017-ultimate-pain.json) |
 | Ultimate Paintball | 49901 | [49901-ultimate-paintball.json](./49901-ultimate-paintball.json) |
+| Ultimate Paintball Challenge | 206620 | [206620-ultimate-paintball-challenge.json](./206620-ultimate-paintball-challenge.json) |
 | Ultimate Panzer | 216490 | [216490-ultimate-panzer.json](./216490-ultimate-panzer.json) |
 | Ultimate Pinball | 146840 | [146840-ultimate-pinball.json](./146840-ultimate-pinball.json) |
+| Ultimate Pinball | 206621 | [206621-ultimate-pinball.json](./206621-ultimate-pinball.json) |
 | Ultimate Pirates | 176809 | [176809-ultimate-pirates.json](./176809-ultimate-pirates.json) |
 | Ultimate Pro Basketball GM | 228122 | [228122-ultimate-pro-basketball-gm.json](./228122-ultimate-pro-basketball-gm.json) |
 | Ultimate Protector | 215679 | [215679-ultimate-protector.json](./215679-ultimate-protector.json) |
 | Ultimate Puzzle Games: Sudoku Edition | 124111 | [124111-ultimate-puzzle-games-sudoku-edition.json](./124111-ultimate-puzzle-games-sudoku-edition.json) |
 | Ultimate Puzzles 1500 | 53940 | [53940-ultimate-puzzles-1500.json](./53940-ultimate-puzzles-1500.json) |
+| Ultimate Puzzles 500 | 206622 | [206622-ultimate-puzzles-500.json](./206622-ultimate-puzzles-500.json) |
 | Ultimate Quest: Journey to the Far Side of Possible | 7513 | [7513-ultimate-quest-journey-to-the-far-side-of-possible.json](./7513-ultimate-quest-journey-to-the-far-side-of-possible.json) |
 | Ultimate Racing 2D | 99538 | [99538-ultimate-racing-2d.json](./99538-ultimate-racing-2d.json) |
 | Ultimate Racing 2D 2 | 164891 | [164891-ultimate-racing-2d-2.json](./164891-ultimate-racing-2d-2.json) |
@@ -861,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Oath | 193989 | [193989-under-oath.json](./193989-under-oath.json) |
 | Under Observation | 227871 | [227871-under-observation.json](./227871-under-observation.json) |
 | Under Party | 127021 | [127021-under-party.json](./127021-under-party.json) |
+| Under Pressure | 206623 | [206623-under-pressure.json](./206623-under-pressure.json) |
 | Under Pressure | 80602 | [80602-under-pressure.json](./80602-under-pressure.json) |
 | Under Pretense of Death | 177334 | [177334-under-pretense-of-death.json](./177334-under-pretense-of-death.json) |
 | Under Princess: Pure Voice | 109005 | [109005-under-princess-pure-voice.json](./109005-under-princess-pure-voice.json) |
@@ -1612,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untold Memories: Potter's Field | 391311 | [391311-untold-memories-potters-field.json](./391311-untold-memories-potters-field.json) |
 | Untold Mystery: Angel’s Cry | 17061 | [17061-untold-mystery-angel-s-cry.json](./17061-untold-mystery-angel-s-cry.json) |
 | Untold Riches | 59673 | [59673-untold-riches.json](./59673-untold-riches.json) |
+| Untold Secrets: Lost in Time | 206608 | [206608-untold-secrets-lost-in-time.json](./206608-untold-secrets-lost-in-time.json) |
 | Untold Stories 01: Goliath | 406718 | [406718-untold-stories-01-goliath.json](./406718-untold-stories-01-goliath.json) |
 | Untold Stories 3: Myriad Caves | 355115 | [355115-untold-stories-3-myriad-caves.json](./355115-untold-stories-3-myriad-caves.json) |
 | Untold Stories 5: Calamity Canyon | 355134 | [355134-untold-stories-5-calamity-canyon.json](./355134-untold-stories-5-calamity-canyon.json) |
