@@ -2561,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Sonic X: Episode 1 | 266863 | [266863-final-fantasy-sonic-x-episode-1.json](./266863-final-fantasy-sonic-x-episode-1.json) |
 | Final Fantasy Tactics | 428 | [428-final-fantasy-tactics.json](./428-final-fantasy-tactics.json) |
 | Final Fantasy Tactics 1.3 | 159064 | [159064-final-fantasy-tactics-1-3.json](./159064-final-fantasy-tactics-1-3.json) |
+| Final Fantasy Tactics Advance X | 222987 | [222987-final-fantasy-tactics-advance-x.json](./222987-final-fantasy-tactics-advance-x.json) |
 | Final Fantasy Tactics S | 63312 | [63312-final-fantasy-tactics-s.json](./63312-final-fantasy-tactics-s.json) |
 | Final Fantasy Tactics: The Ivalice Chronicles | 347121 | [347121-final-fantasy-tactics-the-ivalice-chronicles.json](./347121-final-fantasy-tactics-the-ivalice-chronicles.json) |
 | Final Fantasy Tactics: The War of the Lions | 394 | [394-final-fantasy-tactics-the-war-of-the-lions.json](./394-final-fantasy-tactics-the-war-of-the-lions.json) |
@@ -2647,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Crystal Chronicles - The Crystal Bearers | 401 | [401-final-fantasy-crystal-chronicles-the-crystal-bearers.json](./401-final-fantasy-crystal-chronicles-the-crystal-bearers.json) |
 | Final Fantasy: Economic Collapse | 345622 | [345622-final-fantasy-economic-collapse.json](./345622-final-fantasy-economic-collapse.json) |
 | Final Fantasy: Explorers | 7413 | [7413-final-fantasy-explorers.json](./7413-final-fantasy-explorers.json) |
+| Final Fantasy: Legend of Balance | 222978 | [222978-final-fantasy-legend-of-balance.json](./222978-final-fantasy-legend-of-balance.json) |
 | Final Fantasy: Mystic Quest | 415 | [415-final-fantasy-mystic-quest.json](./415-final-fantasy-mystic-quest.json) |
 | Final Fantasy: Pixel Remaster Collection | 159253 | [159253-final-fantasy-pixel-remaster-collection.json](./159253-final-fantasy-pixel-remaster-collection.json) |
 | Final Fantasy: Sky Warriors | 262006 | [262006-final-fantasy-sky-warriors.json](./262006-final-fantasy-sky-warriors.json) |
