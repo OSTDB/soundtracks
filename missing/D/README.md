@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date or Destiny: Kiss or Miss | 348880 | [348880-date-or-destiny-kiss-or-miss.json](./348880-date-or-destiny-kiss-or-miss.json) |
 | Date or Die | 56508 | [56508-date-or-die.json](./56508-date-or-die.json) |
 | Date Plus | 358498 | [358498-date-plus.json](./358498-date-plus.json) |
+| Date quartet | 183944 | [183944-date-quartet.json](./183944-date-quartet.json) |
 | Date Senbei | 412450 | [412450-date-senbei.json](./412450-date-senbei.json) |
 | Date Teacher | 397193 | [397193-date-teacher.json](./397193-date-teacher.json) |
 | Date the Difference | 392299 | [392299-date-the-difference.json](./392299-date-the-difference.json) |
@@ -2555,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ded | 30073 | [30073-ded.json](./30073-ded.json) |
 | Ded Inside | 120776 | [120776-ded-inside.json](./120776-ded-inside.json) |
 | Dedalium | 199418 | [199418-dedalium.json](./199418-dedalium.json) |
+| Dedede Daggers | 183910 | [183910-dedede-daggers.json](./183910-dedede-daggers.json) |
 | Dedede's Drum Dash Deluxe | 61319 | [61319-dededes-drum-dash-deluxe.json](./61319-dededes-drum-dash-deluxe.json) |
 | Dededeball | 395701 | [395701-dededeball.json](./395701-dededeball.json) |
 | Deduce Together | 308884 | [308884-deduce-together.json](./308884-deduce-together.json) |
@@ -4754,6 +4756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ding Dong Pitch | 379555 | [379555-ding-dong-pitch.json](./379555-ding-dong-pitch.json) |
 | Ding Dong VR | 105174 | [105174-ding-dong-vr.json](./105174-ding-dong-vr.json) |
 | Ding! MONO | 270634 | [270634-ding-mono.json](./270634-ding-mono.json) |
+| Ding. | 183932 | [183932-ding.json](./183932-ding.json) |
 | DingDingDing | 109719 | [109719-dingdingding.json](./109719-dingdingding.json) |
 | Dinglehoppers | 246534 | [246534-dinglehoppers.json](./246534-dinglehoppers.json) |
 | Dingletopia: Nation Under Siege (by Orcs) | 133410 | [133410-dingletopia-nation-under-siege-by-orcs.json](./133410-dingletopia-nation-under-siege-by-orcs.json) |
@@ -6436,6 +6439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Turn Your Back On The City | 256797 | [256797-dont-turn-your-back-on-the-city.json](./256797-dont-turn-your-back-on-the-city.json) |
 | Don't Wake the Beast | 322690 | [322690-dont-wake-the-beast.json](./322690-dont-wake-the-beast.json) |
 | Don't wake up | 381009 | [381009-dont-wake-up.json](./381009-dont-wake-up.json) |
+| Don't Wake Up | 183915 | [183915-dont-wake-up.json](./183915-dont-wake-up.json) |
 | Don't Wake Up My Dream | 369588 | [369588-dont-wake-up-my-dream.json](./369588-dont-wake-up-my-dream.json) |
 | Don't! Heroes | 181932 | [181932-dont-heroes.json](./181932-dont-heroes.json) |
 | Don't! Heroes: Encore! | 181929 | [181929-dont-heroes-encore.json](./181929-dont-heroes-encore.json) |
@@ -7099,6 +7103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double World. Cave Song Castle | 163836 | [163836-double-world-cave-song-castle.json](./163836-double-world-cave-song-castle.json) |
 | Double Zags | 175266 | [175266-double-zags.json](./175266-double-zags.json) |
 | Double-Dabble | 319108 | [319108-double-dabble.json](./319108-double-dabble.json) |
+| Double-Edged Blade: All Under Control | 183855 | [183855-double-edged-blade-all-under-control.json](./183855-double-edged-blade-all-under-control.json) |
 | Double-Entry Bookkeeping Simulator | 188549 | [188549-double-entry-bookkeeping-simulator.json](./188549-double-entry-bookkeeping-simulator.json) |
 | Doubleback | 42148 | [42148-doubleback.json](./42148-doubleback.json) |
 | DoubleClutch 2: Basketball | 266262 | [266262-doubleclutch-2-basketball.json](./266262-doubleclutch-2-basketball.json) |
@@ -7558,6 +7563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 3 | 387020 | [387020-dragon-ball-xenoverse-3.json](./387020-dragon-ball-xenoverse-3.json) |
 | Dragon Banner | 130162 | [130162-dragon-banner.json](./130162-dragon-banner.json) |
 | Dragon Battle | 102165 | [102165-dragon-battle.json](./102165-dragon-battle.json) |
+| Dragon Battle | 183945 | [183945-dragon-battle.json](./183945-dragon-battle.json) |
 | Dragon Beat: Legend of Pinball | 73754 | [73754-dragon-beat-legend-of-pinball.json](./73754-dragon-beat-legend-of-pinball.json) |
 | Dragon Blast: Crazy Action Super Hero Game | 159808 | [159808-dragon-blast-crazy-action-super-hero-game.json](./159808-dragon-blast-crazy-action-super-hero-game.json) |
 | Dragon Blaze | 39659 | [39659-dragon-blaze.json](./39659-dragon-blaze.json) |
