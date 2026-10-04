@@ -3024,6 +3024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owl Force | 319661 | [319661-owl-force.json](./319661-owl-force.json) |
 | Owl Glider Adventure | 359432 | [359432-owl-glider-adventure.json](./359432-owl-glider-adventure.json) |
 | Owl Observatory | 278717 | [278717-owl-observatory.json](./278717-owl-observatory.json) |
+| Owl Rescue | 221081 | [221081-owl-rescue.json](./221081-owl-rescue.json) |
 | Owl Simulator | 90086 | [90086-owl-simulator.json](./90086-owl-simulator.json) |
 | Owl Watch | 111254 | [111254-owl-watch.json](./111254-owl-watch.json) |
 | Owlbears | 387518 | [387518-owlbears.json](./387518-owlbears.json) |
