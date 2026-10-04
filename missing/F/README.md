@@ -5525,6 +5525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossil Quest | 386729 | [386729-fossil-quest.json](./386729-fossil-quest.json) |
 | Fossil Skater | 318214 | [318214-fossil-skater.json](./318214-fossil-skater.json) |
 | Fossil Sweeper | 247462 | [247462-fossil-sweeper.json](./247462-fossil-sweeper.json) |
+| Fossilfuel VR: Raptor Isolation | 192777 | [192777-fossilfuel-vr-raptor-isolation.json](./192777-fossilfuel-vr-raptor-isolation.json) |
 | Fossilpunk | 327189 | [327189-fossilpunk.json](./327189-fossilpunk.json) |
 | Foster's Home for Imaginary Friends | 230313 | [230313-fosters-home-for-imaginary-friends.json](./230313-fosters-home-for-imaginary-friends.json) |
 | Foster's Home for Imaginary Friends: Imagination Invaders | 8004 | [8004-fosters-home-for-imaginary-friends-imagination-invaders.json](./8004-fosters-home-for-imaginary-friends-imagination-invaders.json) |
@@ -6699,6 +6700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuck the Police | 159889 | [159889-fuck-the-police.json](./159889-fuck-the-police.json) |
 | Fuck Typing | 79958 | [79958-fuck-typing.json](./79958-fuck-typing.json) |
 | Fucked by the Princesses of the Realm | 372488 | [372488-fucked-by-the-princesses-of-the-realm.json](./372488-fucked-by-the-princesses-of-the-realm.json) |
+| Fuckling | 192750 | [192750-fuckling.json](./192750-fuckling.json) |
 | Fuddo & Slam | 250342 | [250342-fuddo-and-slam.json](./250342-fuddo-and-slam.json) |
 | Fudou Myouou Den | 48909 | [48909-fudou-myouou-den.json](./48909-fudou-myouou-den.json) |
 | Fuel | 567 | [567-fuel.json](./567-fuel.json) |
