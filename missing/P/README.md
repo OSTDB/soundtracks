@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Pancakeria HD | 88891 | [88891-papas-pancakeria-hd.json](./88891-papas-pancakeria-hd.json) |
 | Papa's Pastaria | 210501 | [210501-papas-pastaria.json](./210501-papas-pastaria.json) |
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
+| Papa's Scooperia | 210503 | [210503-papas-scooperia.json](./210503-papas-scooperia.json) |
 | Papa's Taco Mia HD | 87027 | [87027-papas-taco-mia-hd.json](./87027-papas-taco-mia-hd.json) |
 | Papair | 57148 | [57148-papair.json](./57148-papair.json) |
 | Papao: The Legend of the Bogeyman | 372544 | [372544-papao-the-legend-of-the-bogeyman.json](./372544-papao-the-legend-of-the-bogeyman.json) |
@@ -5788,6 +5789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mystery Dungeon: Origins | 365792 | [365792-pokemon-mystery-dungeon-origins.json](./365792-pokemon-mystery-dungeon-origins.json) |
 | Pokémon Mystery Dungeon: Outlaw's Paradise | 294718 | [294718-pokemon-mystery-dungeon-outlaws-paradise.json](./294718-pokemon-mystery-dungeon-outlaws-paradise.json) |
 | Pokémon Mystery Dungeon: Red Rescue Team | 2319 | [2319-pokemon-mystery-dungeon-red-rescue-team.json](./2319-pokemon-mystery-dungeon-red-rescue-team.json) |
+| Pokémon Mystery Dungeon: Turnabout Dimension | 210550 | [210550-pokemon-mystery-dungeon-turnabout-dimension.json](./210550-pokemon-mystery-dungeon-turnabout-dimension.json) |
 | Pokémon Nameless FireRed Project | 213034 | [213034-pokemon-nameless-firered-project.json](./213034-pokemon-nameless-firered-project.json) |
 | Pokémon Nameless Version | 381791 | [381791-pokemon-nameless-version.json](./381791-pokemon-nameless-version.json) |
 | Pokémon Nightmare Version: Invasion | 279053 | [279053-pokemon-nightmare-version-invasion.json](./279053-pokemon-nightmare-version-invasion.json) |
