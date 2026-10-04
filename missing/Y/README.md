@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yodobongingi | 234635 | [234635-yodobongingi.json](./234635-yodobongingi.json) |
 | Yodoyabashi Oyasama Club | 254505 | [254505-yodoyabashi-oyasama-club.json](./254505-yodoyabashi-oyasama-club.json) |
 | Yog-Sothoth's Yard | 250278 | [250278-yog-sothoths-yard.json](./250278-yog-sothoths-yard.json) |
+| Yoga Bear | 177895 | [177895-yoga-bear.json](./177895-yoga-bear.json) |
 | Yoga Master | 84958 | [84958-yoga-master.json](./84958-yoga-master.json) |
 | Yoga Master: Dreams Fantasy Bundle | 237911 | [237911-yoga-master-dreams-fantasy-bundle.json](./237911-yoga-master-dreams-fantasy-bundle.json) |
 | Yoga Master: Magic Atmosphere Bundle | 237910 | [237910-yoga-master-magic-atmosphere-bundle.json](./237910-yoga-master-magic-atmosphere-bundle.json) |
@@ -998,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Metsuki | 229683 | [229683-yume-metsuki.json](./229683-yume-metsuki.json) |
 | Yume Mitai | 201152 | [201152-yume-mitai.json](./201152-yume-mitai.json) |
 | Yume ni made Mita Idol | 375342 | [375342-yume-ni-made-mita-idol.json](./375342-yume-ni-made-mita-idol.json) |
+| Yume Nikki 3D | 177808 | [177808-yume-nikki-3d.json](./177808-yume-nikki-3d.json) |
 | Yume Nikki GB | 229685 | [229685-yume-nikki-gb.json](./229685-yume-nikki-gb.json) |
 | Yume Nikki GB | 229686 | [229686-yume-nikki-gb.json](./229686-yume-nikki-gb.json) |
 | Yume Nikki Jam 2018 Submission | 229601 | [229601-yume-nikki-jam-2018-submission.json](./229601-yume-nikki-jam-2018-submission.json) |
