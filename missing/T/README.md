@@ -1055,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Chess | 304706 | [304706-tank-chess.json](./304706-tank-chess.json) |
 | Tank Combat | 54425 | [54425-tank-combat.json](./54425-tank-combat.json) |
 | Tank Commander: Battlefield | 384164 | [384164-tank-commander-battlefield.json](./384164-tank-commander-battlefield.json) |
+| Tank Commando 3D | 184947 | [184947-tank-commando-3d.json](./184947-tank-commando-3d.json) |
 | Tank Defender | 187895 | [187895-tank-defender.json](./187895-tank-defender.json) |
 | Tank Domination | 343877 | [343877-tank-domination.json](./343877-tank-domination.json) |
 | Tank Elite | 82130 | [82130-tank-elite.json](./82130-tank-elite.json) |
@@ -5470,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Mushroom Hunt | 114321 | [114321-the-great-mushroom-hunt.json](./114321-the-great-mushroom-hunt.json) |
 | The Great Ocean | 199519 | [199519-the-great-ocean.json](./199519-the-great-ocean.json) |
 | The Great One Hand Challenge | 98574 | [98574-the-great-one-hand-challenge.json](./98574-the-great-one-hand-challenge.json) |
+| The Great Order | 184941 | [184941-the-great-order.json](./184941-the-great-order.json) |
 | The Great Race | 55835 | [55835-the-great-race.json](./55835-the-great-race.json) |
 | The Great Race | 99775 | [99775-the-great-race.json](./99775-the-great-race.json) |
 | The Great Rebellion | 290012 | [290012-the-great-rebellion.json](./290012-the-great-rebellion.json) |
@@ -10629,6 +10631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Front | 89656 | [89656-third-front.json](./89656-third-front.json) |
 | Third Grade Learning Games | 86903 | [86903-third-grade-learning-games.json](./86903-third-grade-learning-games.json) |
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
+| Third Party | 184955 | [184955-third-party.json](./184955-third-party.json) |
 | Third Reich | 14518 | [14518-third-reich.json](./14518-third-reich.json) |
 | Third Reich PC | 138103 | [138103-third-reich-pc.json](./138103-third-reich-pc.json) |
 | Third Shift | 344998 | [344998-third-shift.json](./344998-third-shift.json) |
@@ -14727,6 +14730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail of Ayash | 112111 | [112111-trail-of-ayash.json](./112111-trail-of-ayash.json) |
 | Trail of Destruction | 28880 | [28880-trail-of-destruction.json](./28880-trail-of-destruction.json) |
 | Trail of Nanook | 216696 | [216696-trail-of-nanook.json](./216696-trail-of-nanook.json) |
+| Trail of Pigs | 184951 | [184951-trail-of-pigs.json](./184951-trail-of-pigs.json) |
 | Trail of Stars | 329966 | [329966-trail-of-stars.json](./329966-trail-of-stars.json) |
 | Trail of the Damned | 160222 | [160222-trail-of-the-damned.json](./160222-trail-of-the-damned.json) |
 | Trail of the Wretched | 280246 | [280246-trail-of-the-wretched.json](./280246-trail-of-the-wretched.json) |
