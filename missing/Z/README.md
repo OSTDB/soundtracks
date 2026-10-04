@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Forest Brick Breaker VR | 365756 | [365756-zen-forest-brick-breaker-vr.json](./365756-zen-forest-brick-breaker-vr.json) |
 | Zen Games: Color Blocks Puzzle | 234048 | [234048-zen-games-color-blocks-puzzle.json](./234048-zen-games-color-blocks-puzzle.json) |
 | Zen Garden | 25980 | [25980-zen-garden.json](./25980-zen-garden.json) |
+| Zen Golf | 215663 | [215663-zen-golf.json](./215663-zen-golf.json) |
 | Zen Koi | 255841 | [255841-zen-koi.json](./255841-zen-koi.json) |
 | Zen Koi 2 | 90702 | [90702-zen-koi-2.json](./90702-zen-koi-2.json) |
 | Zen Match | 185681 | [185681-zen-match.json](./185681-zen-match.json) |
@@ -1114,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo-phonics 9: The Zoo Billboard Mix-up | 101484 | [101484-zoo-phonics-9-the-zoo-billboard-mix-up.json](./101484-zoo-phonics-9-the-zoo-billboard-mix-up.json) |
 | Zoo-pocalypse | 396899 | [396899-zoo-pocalypse.json](./396899-zoo-pocalypse.json) |
 | Zoo's Mad | 187229 | [187229-zoos-mad.json](./187229-zoos-mad.json) |
+| Zoogarnian | 215661 | [215661-zoogarnian.json](./215661-zoogarnian.json) |
 | ZooHop | 247997 | [247997-zoohop.json](./247997-zoohop.json) |
 | Zookaa Fruits | 395583 | [395583-zookaa-fruits.json](./395583-zookaa-fruits.json) |
 | Zookeeper DX Touch Edition | 104109 | [104109-zookeeper-dx-touch-edition.json](./104109-zookeeper-dx-touch-edition.json) |
