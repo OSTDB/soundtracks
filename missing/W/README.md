@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbound Storm | 220161 | [220161-warbound-storm.json](./220161-warbound-storm.json) |
 | Warbox | 168647 | [168647-warbox.json](./168647-warbox.json) |
 | Warbox | 232010 | [232010-warbox.json](./232010-warbox.json) |
+| Warbox Sandbox | 204926 | [204926-warbox-sandbox.json](./204926-warbox-sandbox.json) |
 | Warcana: Cat DLC | 357371 | [357371-warcana-cat-dlc.json](./357371-warcana-cat-dlc.json) |
 | Warcana: Dog DLC | 357370 | [357370-warcana-dog-dlc.json](./357370-warcana-dog-dlc.json) |
 | Warcher Defenders | 268098 | [268098-warcher-defenders.json](./268098-warcher-defenders.json) |
@@ -3156,6 +3157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winoa Wizard's Witchy Quest to Womanhood vs. the Botanical Bitches | 344524 | [344524-winoa-wizards-witchy-quest-to-womanhood-vs-the-botanical-bitches.json](./344524-winoa-wizards-witchy-quest-to-womanhood-vs-the-botanical-bitches.json) |
 | WinPlex | 94723 | [94723-winplex.json](./94723-winplex.json) |
 | WinRisk | 92815 | [92815-winrisk.json](./92815-winrisk.json) |
+| Winshu | 204927 | [204927-winshu.json](./204927-winshu.json) |
 | Winslow | 367483 | [367483-winslow.json](./367483-winslow.json) |
 | Winter | 127791 | [127791-winter.json](./127791-winter.json) |
 | Winter | 194559 | [194559-winter.json](./194559-winter.json) |
@@ -4076,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordJong Arcade | 65492 | [65492-wordjong-arcade.json](./65492-wordjong-arcade.json) |
 | WordKiller: Revolution | 180122 | [180122-wordkiller-revolution.json](./180122-wordkiller-revolution.json) |
 | Wordkour | 307730 | [307730-wordkour.json](./307730-wordkour.json) |
+| Wordland: Let's Travel | 204928 | [204928-wordland-lets-travel.json](./204928-wordland-lets-travel.json) |
 | Wordle | 265847 | [265847-wordle.json](./265847-wordle.json) |
 | Wordle DS | 265142 | [265142-wordle-ds.json](./265142-wordle-ds.json) |
 | WordLeap | 292300 | [292300-wordleap.json](./292300-wordleap.json) |
