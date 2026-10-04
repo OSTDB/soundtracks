@@ -4391,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Punch Boom: First Impact! | 132201 | [132201-fly-punch-boom-first-impact.json](./132201-fly-punch-boom-first-impact.json) |
 | Fly Simulator | 40706 | [40706-fly-simulator.json](./40706-fly-simulator.json) |
 | Fly Spy | 12997 | [12997-fly-spy.json](./12997-fly-spy.json) |
+| Fly Tales | 211630 | [211630-fly-tales.json](./211630-fly-tales.json) |
 | Fly the Cloud | 151137 | [151137-fly-the-cloud.json](./151137-fly-the-cloud.json) |
 | Fly the Plane | 263494 | [263494-fly-the-plane.json](./263494-fly-the-plane.json) |
 | Fly This!: Flight Control Tower | 222248 | [222248-fly-this-flight-control-tower.json](./222248-fly-this-flight-control-tower.json) |
@@ -4869,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Island | 381031 | [381031-forbidden-island.json](./381031-forbidden-island.json) |
 | Forbidden Love | 322115 | [322115-forbidden-love.json](./322115-forbidden-love.json) |
 | Forbidden Magic | 253947 | [253947-forbidden-magic.json](./253947-forbidden-magic.json) |
+| Forbidden Ninja Scroll: Kunoichi Training | 211766 | [211766-forbidden-ninja-scroll-kunoichi-training.json](./211766-forbidden-ninja-scroll-kunoichi-training.json) |
 | Forbidden Offering | 346737 | [346737-forbidden-offering.json](./346737-forbidden-offering.json) |
 | Forbidden place | 173180 | [173180-forbidden-place.json](./173180-forbidden-place.json) |
 | Forbidden planet | 33722 | [33722-forbidden-planet.json](./33722-forbidden-planet.json) |
@@ -6973,6 +6975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Adventure! | 417388 | [417388-furry-adventure.json](./417388-furry-adventure.json) |
 | Furry Aim Trainer | 326741 | [326741-furry-aim-trainer.json](./326741-furry-aim-trainer.json) |
 | Furry Aim Trainer: Gooning Mode | 326206 | [326206-furry-aim-trainer-gooning-mode.json](./326206-furry-aim-trainer-gooning-mode.json) |
+| Furry Android Hentai | 211767 | [211767-furry-android-hentai.json](./211767-furry-android-hentai.json) |
 | Furry Animals Bombing | 109745 | [109745-furry-animals-bombing.json](./109745-furry-animals-bombing.json) |
 | Furry Backrooms | 291775 | [291775-furry-backrooms.json](./291775-furry-backrooms.json) |
 | Furry BDSM | 256988 | [256988-furry-bdsm.json](./256988-furry-bdsm.json) |
