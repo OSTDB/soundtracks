@@ -4375,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Fly | 311057 | [311057-fly-fly.json](./311057-fly-fly.json) |
 | Fly Fly Dragon! | 255123 | [255123-fly-fly-dragon.json](./255123-fly-fly-dragon.json) |
 | Fly Fly Tank | 129735 | [129735-fly-fly-tank.json](./129735-fly-fly-tank.json) |
+| Fly Fly Tuk Tuk | 211112 | [211112-fly-fly-tuk-tuk.json](./211112-fly-fly-tuk-tuk.json) |
 | Fly for Fly | 380403 | [380403-fly-for-fly.json](./380403-fly-for-fly.json) |
 | Fly Fu | 52209 | [52209-fly-fu.json](./52209-fly-fu.json) |
 | Fly Guy | 230512 | [230512-fly-guy.json](./230512-fly-guy.json) |
@@ -5478,6 +5479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossil Corner | 150075 | [150075-fossil-corner.json](./150075-fossil-corner.json) |
 | Fossil Echo | 18231 | [18231-fossil-echo.json](./18231-fossil-echo.json) |
 | Fossil Fighters: Frontier | 8609 | [8609-fossil-fighters-frontier.json](./8609-fossil-fighters-frontier.json) |
+| Fossil Finder | 211127 | [211127-fossil-finder.json](./211127-fossil-finder.json) |
 | Fossil Island | 341126 | [341126-fossil-island.json](./341126-fossil-island.json) |
 | Fossil League: Dino Tournament Championship | 73049 | [73049-fossil-league-dino-tournament-championship.json](./73049-fossil-league-dino-tournament-championship.json) |
 | Fossil Quest | 386729 | [386729-fossil-quest.json](./386729-fossil-quest.json) |
