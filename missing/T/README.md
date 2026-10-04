@@ -1617,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TDS | 287793 | [287793-tds.json](./287793-tds.json) |
 | TDS: War Games | 203541 | [203541-tds-war-games.json](./203541-tds-war-games.json) |
 | Te to Te Try on! | 402460 | [402460-te-to-te-try-on.json](./402460-te-to-te-try-on.json) |
+| Tea for God | 175782 | [175782-tea-for-god.json](./175782-tea-for-god.json) |
 | Tea for Sana | 310036 | [310036-tea-for-sana.json](./310036-tea-for-sana.json) |
 | Tea for the King | 238103 | [238103-tea-for-the-king.json](./238103-tea-for-the-king.json) |
 | Tea Society of a Witch | 72664 | [72664-tea-society-of-a-witch.json](./72664-tea-society-of-a-witch.json) |
@@ -8372,6 +8373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Road Not Taken | 349968 | [349968-the-road-not-taken.json](./349968-the-road-not-taken.json) |
 | The Road to 56 | 256449 | [256449-the-road-to-56.json](./256449-the-road-to-56.json) |
 | The Road to Baghdad | 24108 | [24108-the-road-to-baghdad.json](./24108-the-road-to-baghdad.json) |
+| The Road to Disorder | 175691 | [175691-the-road-to-disorder.json](./175691-the-road-to-disorder.json) |
 | The Road To Druaga | 339383 | [339383-the-road-to-druaga.json](./339383-the-road-to-druaga.json) |
 | The Road to Gettysburg | 24885 | [24885-the-road-to-gettysburg.json](./24885-the-road-to-gettysburg.json) |
 | The Road to Hades | 96354 | [96354-the-road-to-hades.json](./96354-the-road-to-hades.json) |
@@ -12828,6 +12830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Libertad | 212287 | [212287-to-libertad.json](./212287-to-libertad.json) |
 | To Light: Ex Umbra | 102370 | [102370-to-light-ex-umbra.json](./102370-to-light-ex-umbra.json) |
 | To Love Ru x 2 | 97376 | [97376-to-love-ru-x-2.json](./97376-to-love-ru-x-2.json) |
+| To Love-ru Darkness Gravure Chance | 175683 | [175683-to-love-ru-darkness-gravure-chance.json](./175683-to-love-ru-darkness-gravure-chance.json) |
 | To Make a Game | 192889 | [192889-to-make-a-game.json](./192889-to-make-a-game.json) |
 | To Mortal Dust | 260217 | [260217-to-mortal-dust.json](./260217-to-mortal-dust.json) |
 | To My Best Friend | 149545 | [149545-to-my-best-friend.json](./149545-to-my-best-friend.json) |
