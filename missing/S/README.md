@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: Save the World | 140878 | [140878-sam-and-max-save-the-world.json](./140878-sam-and-max-save-the-world.json) |
 | Sam & Max: Save the World | 862 | [862-sam-and-max-save-the-world.json](./862-sam-and-max-save-the-world.json) |
 | Sam & Max: The Devil's Playhouse | 9534 | [9534-sam-and-max-the-devils-playhouse.json](./9534-sam-and-max-the-devils-playhouse.json) |
+| Sam Mallard: The Case of the Missing Swan | 203218 | [203218-sam-mallard-the-case-of-the-missing-swan.json](./203218-sam-mallard-the-case-of-the-missing-swan.json) |
 | Sam the Olympic Eagle: Rings | 349452 | [349452-sam-the-olympic-eagle-rings.json](./349452-sam-the-olympic-eagle-rings.json) |
 | Sam the Olympic Eagle: Torch | 349451 | [349451-sam-the-olympic-eagle-torch.json](./349451-sam-the-olympic-eagle-torch.json) |
 | Samabake! Scramble | 318056 | [318056-samabake-scramble.json](./318056-samabake-scramble.json) |
@@ -2855,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senkou no Clarias | 180766 | [180766-senkou-no-clarias.json](./180766-senkou-no-clarias.json) |
 | Senli 307 | 224618 | [224618-senli-307.json](./224618-senli-307.json) |
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
+| Senninha GP Racing | 203290 | [203290-senninha-gp-racing.json](./203290-senninha-gp-racing.json) |
 | Senora | 136231 | [136231-senora.json](./136231-senora.json) |
 | Senpai and the Mysterious Island | 325686 | [325686-senpai-and-the-mysterious-island.json](./325686-senpai-and-the-mysterious-island.json) |
 | Senpai Arena | 254039 | [254039-senpai-arena.json](./254039-senpai-arena.json) |
@@ -5670,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Ultimate Vol. 25: Chou Saisoku! Zoku-sha King | 203361 | [203361-simple-2000-series-ultimate-vol-25-chou-saisoku-zoku-sha-king.json](./203361-simple-2000-series-ultimate-vol-25-chou-saisoku-zoku-sha-king.json) |
 | Simple 2000 Series Ultimate Vol. 4: Urawaza Ikasa Mahjong Gai | 203351 | [203351-simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai.json](./203351-simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai.json) |
 | Simple 2000 Series Ultimate Vol. 5: Love * Mahjong | 203352 | [203352-simple-2000-series-ultimate-vol-5-love-mahjong.json](./203352-simple-2000-series-ultimate-vol-5-love-mahjong.json) |
+| Simple 2000 Series Vol. 1: The Table Board | 203180 | [203180-simple-2000-series-vol-1-the-table-board.json](./203180-simple-2000-series-vol-1-the-table-board.json) |
 | Simple 2000 Series Vol. 100: The Otoko Tachi no Kijuu Houza | 203330 | [203330-simple-2000-series-vol-100-the-otoko-tachi-no-kijuu-houza.json](./203330-simple-2000-series-vol-100-the-otoko-tachi-no-kijuu-houza.json) |
 | Simple 2000 Series Vol. 104: The Robot Tsuku Rouze! - Gekitou! Robot Fight | 203334 | [203334-simple-2000-series-vol-104-the-robot-tsuku-rouze-gekitou-robot-fight.json](./203334-simple-2000-series-vol-104-the-robot-tsuku-rouze-gekitou-robot-fight.json) |
 | Simple 2000 Series Vol. 105: The Maid Fuku to Kikanjuu | 43478 | [43478-simple-2000-series-vol-105-the-maid-fuku-to-kikanjuu.json](./43478-simple-2000-series-vol-105-the-maid-fuku-to-kikanjuu.json) |
@@ -5685,7 +5688,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 19: The Renai Simulation - Watashi ni Oma Cafe | 70431 | [70431-simple-2000-series-vol-19-the-renai-simulation-watashi-ni-oma-cafe.json](./70431-simple-2000-series-vol-19-the-renai-simulation-watashi-ni-oma-cafe.json) |
 | Simple 2000 Series Vol. 2: The Party Game | 124080 | [124080-simple-2000-series-vol-2-the-party-game.json](./124080-simple-2000-series-vol-2-the-party-game.json) |
 | Simple 2000 Series Vol. 20: The Dungeon RPG | 335906 | [335906-simple-2000-series-vol-20-the-dungeon-rpg.json](./335906-simple-2000-series-vol-20-the-dungeon-rpg.json) |
+| Simple 2000 Series Vol. 21: The Bishoujo Simulation RPG - Moonlight Tale | 203200 | [203200-simple-2000-series-vol-21-the-bishoujo-simulation-rpg-moonlight-tale.json](./203200-simple-2000-series-vol-21-the-bishoujo-simulation-rpg-moonlight-tale.json) |
 | Simple 2000 Series Vol. 24: The Bowling Hyper | 335909 | [335909-simple-2000-series-vol-24-the-bowling-hyper.json](./335909-simple-2000-series-vol-24-the-bowling-hyper.json) |
+| Simple 2000 Series Vol. 27: The Pro Yakyuu - 2003 Pennant Race | 203208 | [203208-simple-2000-series-vol-27-the-pro-yakyuu-2003-pennant-race.json](./203208-simple-2000-series-vol-27-the-pro-yakyuu-2003-pennant-race.json) |
 | Simple 2000 Series Vol. 29: The Renai Board Game Seishun 18 Radio | 203257 | [203257-simple-2000-series-vol-29-the-renai-board-game-seishun-18-radio.json](./203257-simple-2000-series-vol-29-the-renai-board-game-seishun-18-radio.json) |
 | Simple 2000 Series Vol. 32: The Sensha | 335914 | [335914-simple-2000-series-vol-32-the-sensha.json](./335914-simple-2000-series-vol-32-the-sensha.json) |
 | Simple 2000 Series Vol. 34: The Renai Horror Adventure - Hyouryuu Shoujo | 203260 | [203260-simple-2000-series-vol-34-the-renai-horror-adventure-hyouryuu-shoujo.json](./203260-simple-2000-series-vol-34-the-renai-horror-adventure-hyouryuu-shoujo.json) |
@@ -5700,6 +5705,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 69: The Board Game Collection | 203279 | [203279-simple-2000-series-vol-69-the-board-game-collection.json](./203279-simple-2000-series-vol-69-the-board-game-collection.json) |
 | Simple 2000 Series Vol. 70: The Kanshikikan | 124078 | [124078-simple-2000-series-vol-70-the-kanshikikan.json](./124078-simple-2000-series-vol-70-the-kanshikikan.json) |
 | Simple 2000 Series Vol. 71: The Fantasy Renai Adventure - Kanojo no Densetsu, Boku no Sekiban | 203280 | [203280-simple-2000-series-vol-71-the-fantasy-renai-adventure-kanojo-no-densetsu-boku-no-sekiban.json](./203280-simple-2000-series-vol-71-the-fantasy-renai-adventure-kanojo-no-densetsu-boku-no-sekiban.json) |
+| Simple 2000 Series Vol. 73: The Saiyuki Saruden | 203281 | [203281-simple-2000-series-vol-73-the-saiyuki-saruden.json](./203281-simple-2000-series-vol-73-the-saiyuki-saruden.json) |
+| Simple 2000 Series Vol. 76: The Hanasou Eigo no Tabi | 203284 | [203284-simple-2000-series-vol-76-the-hanasou-eigo-no-tabi.json](./203284-simple-2000-series-vol-76-the-hanasou-eigo-no-tabi.json) |
 | Simple 2000 Series Vol. 77: The Hanasou Hanguru no Tabi | 203319 | [203319-simple-2000-series-vol-77-the-hanasou-hanguru-no-tabi.json](./203319-simple-2000-series-vol-77-the-hanasou-hanguru-no-tabi.json) |
 | Simple 2000 Series vol. 79: Akko ni Omakase! The Party Quiz | 203320 | [203320-simple-2000-series-vol-79-akko-ni-omakase-the-party-quiz.json](./203320-simple-2000-series-vol-79-akko-ni-omakase-the-party-quiz.json) |
 | Simple 2000 Series Vol. 82: The Kung Fu | 203321 | [203321-simple-2000-series-vol-82-the-kung-fu.json](./203321-simple-2000-series-vol-82-the-kung-fu.json) |
@@ -5710,7 +5717,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 93: The Unou Drill | 203327 | [203327-simple-2000-series-vol-93-the-unou-drill.json](./203327-simple-2000-series-vol-93-the-unou-drill.json) |
 | Simple 2000 Series Vol. 94: The Akachampion | 68267 | [68267-simple-2000-series-vol-94-the-akachampion.json](./68267-simple-2000-series-vol-94-the-akachampion.json) |
 | Simple 2000 Series Vol. 98: The Roman Sabou | 203329 | [203329-simple-2000-series-vol-98-the-roman-sabou.json](./203329-simple-2000-series-vol-98-the-roman-sabou.json) |
+| Simple 2000 Series Vol.017: The Suiri Aratanaru 20 ni Jikenbo | 203197 | [203197-simple-2000-series-vol-017-the-suiri-aratanaru-20-ni-jikenbo.json](./203197-simple-2000-series-vol-017-the-suiri-aratanaru-20-ni-jikenbo.json) |
 | Simple 2000 Series Vol.116: The Neko-mura no Hitobito - Pagu Daikan no Akugyou San-mai | 203337 | [203337-simple-2000-series-vol-116-the-neko-mura-no-hitobito-pagu-daikan-no-akugyou-san-mai.json](./203337-simple-2000-series-vol-116-the-neko-mura-no-hitobito-pagu-daikan-no-akugyou-san-mai.json) |
+| Simple 2000 Series Vol.75: The Tokudane - Nippon Zenkoku Scoop Rettou | 203283 | [203283-simple-2000-series-vol-75-the-tokudane-nippon-zenkoku-scoop-rettou.json](./203283-simple-2000-series-vol-75-the-tokudane-nippon-zenkoku-scoop-rettou.json) |
 | Simple 2000 Series Vol.86: Menkyo Shutoku Simulation - Kaiseidouro Koutsuu-hou Taiouban | 203325 | [203325-simple-2000-series-vol-86-menkyo-shutoku-simulation-kaiseidouro-koutsuu-hou-taiouban.json](./203325-simple-2000-series-vol-86-menkyo-shutoku-simulation-kaiseidouro-koutsuu-hou-taiouban.json) |
 | Simple 2500 Series Portable Vol. 7: The Doko Demo Kanji Quiz - Challenge! Kanji Kentei 2006 | 203397 | [203397-simple-2500-series-portable-vol-7-the-doko-demo-kanji-quiz-challenge-kanji-kentei-2006.json](./203397-simple-2500-series-portable-vol-7-the-doko-demo-kanji-quiz-challenge-kanji-kentei-2006.json) |
 | Simple 2500 Series Portable Vol. 9: The My Taxi! | 203398 | [203398-simple-2500-series-portable-vol-9-the-my-taxi.json](./203398-simple-2500-series-portable-vol-9-the-my-taxi.json) |
@@ -15244,6 +15253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suez Canal Girl | 368042 | [368042-suez-canal-girl.json](./368042-suez-canal-girl.json) |
 | Suez Canal Simulator | 149409 | [149409-suez-canal-simulator.json](./149409-suez-canal-simulator.json) |
 | Suffer | 110650 | [110650-suffer.json](./110650-suffer.json) |
+| Suffer | 203187 | [203187-suffer.json](./203187-suffer.json) |
 | Suffer 2 | 211689 | [211689-suffer-2.json](./211689-suffer-2.json) |
 | Suffering | 156560 | [156560-suffering.json](./156560-suffering.json) |
 | Sufficiency | 262922 | [262922-sufficiency.json](./262922-sufficiency.json) |
