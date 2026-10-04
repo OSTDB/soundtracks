@@ -2623,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Simulator | 98241 | [98241-internet-simulator.json](./98241-internet-simulator.json) |
 | Internet Survivor Survivors | 413626 | [413626-internet-survivor-survivors.json](./413626-internet-survivor-survivors.json) |
 | Internity | 295883 | [295883-internity.json](./295883-internity.json) |
+| Interns of Ecstasy Island | 217847 | [217847-interns-of-ecstasy-island.json](./217847-interns-of-ecstasy-island.json) |
 | Internship Adventure | 179526 | [179526-internship-adventure.json](./179526-internship-adventure.json) |
 | Interphase | 129210 | [129210-interphase.json](./129210-interphase.json) |
 | Interplanet Ex | 178982 | [178982-interplanet-ex.json](./178982-interplanet-ex.json) |
