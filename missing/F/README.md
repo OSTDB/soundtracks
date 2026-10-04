@@ -5886,6 +5886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frantic Dimension | 113514 | [113514-frantic-dimension.json](./113514-frantic-dimension.json) |
 | Frantic Flea | 42620 | [42620-frantic-flea.json](./42620-frantic-flea.json) |
 | Frantic Fred | 281669 | [281669-frantic-fred.json](./281669-frantic-fred.json) |
+| Frantic Freddie | 178989 | [178989-frantic-freddie.json](./178989-frantic-freddie.json) |
 | Frantic Freddie | 55018 | [55018-frantic-freddie.json](./55018-frantic-freddie.json) |
 | Frantic Freddy | 40894 | [40894-frantic-freddy.json](./40894-frantic-freddy.json) |
 | Frantic Freighter | 32022 | [32022-frantic-freighter.json](./32022-frantic-freighter.json) |
@@ -7341,6 +7342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzzy McFluffenstein | 337205 | [337205-fuzzy-mcfluffenstein.json](./337205-fuzzy-mcfluffenstein.json) |
 | Fuzzy World Cup Qatar 2022 | 312349 | [312349-fuzzy-world-cup-qatar-2022.json](./312349-fuzzy-world-cup-qatar-2022.json) |
 | Fwog | 270189 | [270189-fwog.json](./270189-fwog.json) |
+| Fwosty Poetwy | 179010 | [179010-fwosty-poetwy.json](./179010-fwosty-poetwy.json) |
 | FX Chess | 94266 | [94266-fx-chess.json](./94266-fx-chess.json) |
 | FX Chess Plus | 92864 | [92864-fx-chess-plus.json](./92864-fx-chess-plus.json) |
 | FX Eleven | 62221 | [62221-fx-eleven.json](./62221-fx-eleven.json) |
