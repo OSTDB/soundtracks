@@ -6096,6 +6096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Lines | 76713 | [76713-arcade-lines.json](./76713-arcade-lines.json) |
 | Arcade Love: Plus Pengo! | 120285 | [120285-arcade-love-plus-pengo.json](./120285-arcade-love-plus-pengo.json) |
 | Arcade Machine: Clown Hunt | 232991 | [232991-arcade-machine-clown-hunt.json](./232991-arcade-machine-clown-hunt.json) |
+| Arcade Machine: Gopher's Revenge | 224986 | [224986-arcade-machine-gophers-revenge.json](./224986-arcade-machine-gophers-revenge.json) |
 | Arcade Maniac | 178965 | [178965-arcade-maniac.json](./178965-arcade-maniac.json) |
 | Arcade Master | 202866 | [202866-arcade-master.json](./202866-arcade-master.json) |
 | Arcade Master | 206139 | [206139-arcade-master.json](./206139-arcade-master.json) |
@@ -6105,8 +6106,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Nano Virtua Fighter 2 | 202869 | [202869-arcade-nano-virtua-fighter-2.json](./202869-arcade-nano-virtua-fighter-2.json) |
 | Arcade Pack | 399614 | [399614-arcade-pack.json](./399614-arcade-pack.json) |
 | Arcade Paradise VR | 279379 | [279379-arcade-paradise-vr.json](./279379-arcade-paradise-vr.json) |
+| Arcade Paradise: CyberDance EuroMix | 224999 | [224999-arcade-paradise-cyberdance-euromix.json](./224999-arcade-paradise-cyberdance-euromix.json) |
 | Arcade Paradise: Digital Deluxe Edition | 213329 | [213329-arcade-paradise-digital-deluxe-edition.json](./213329-arcade-paradise-digital-deluxe-edition.json) |
+| Arcade Paradise: Empathy DLC | 225000 | [225000-arcade-paradise-empathy-dlc.json](./225000-arcade-paradise-empathy-dlc.json) |
 | Arcade Paradise: Kung Fury - Street Rage | 230798 | [230798-arcade-paradise-kung-fury-street-rage.json](./230798-arcade-paradise-kung-fury-street-rage.json) |
+| Arcade Paradise: Smoke 'em DLC | 225001 | [225001-arcade-paradise-smoke-em-dlc.json](./225001-arcade-paradise-smoke-em-dlc.json) |
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
 | Arcade Party Pak | 92977 | [92977-arcade-party-pak.json](./92977-arcade-party-pak.json) |
 | Arcade Pinball | 86706 | [86706-arcade-pinball.json](./86706-arcade-pinball.json) |
