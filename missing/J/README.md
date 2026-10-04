@@ -1114,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jìn Shì Shū | 373705 | [373705-jin-shi-shu.json](./373705-jin-shi-shu.json) |
 | Jinchou | 337480 | [337480-jinchou.json](./337480-jinchou.json) |
 | Jing 'an District Copstories | 157043 | [157043-jing-an-district-copstories.json](./157043-jing-an-district-copstories.json) |
+| Jìng Shìjiè | 188441 | [188441-jing-shijie.json](./188441-jing-shijie.json) |
 | Jìngjiè 2: Qiánkūn Yī Zhì | 373687 | [373687-jingjie-2-qiankun-yi-zhi.json](./373687-jingjie-2-qiankun-yi-zhi.json) |
 | Jingle Cats | 63293 | [63293-jingle-cats.json](./63293-jingle-cats.json) |
 | Jingle Strike VR | 381764 | [381764-jingle-strike-vr.json](./381764-jingle-strike-vr.json) |
