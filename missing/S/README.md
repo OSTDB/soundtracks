@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Taisen 1 & 2 | 62140 | [62140-sakura-taisen-1-and-2.json](./62140-sakura-taisen-1-and-2.json) |
 | Sakura Taisen Hanagumi Tsuushin | 62123 | [62123-sakura-taisen-hanagumi-tsuushin.json](./62123-sakura-taisen-hanagumi-tsuushin.json) |
 | Sakura Taisen Monogatari: Mysterious Paris | 73236 | [73236-sakura-taisen-monogatari-mysterious-paris.json](./73236-sakura-taisen-monogatari-mysterious-paris.json) |
+| Sakura Taisen Online: Paris no Yuuga na Hibi | 221783 | [221783-sakura-taisen-online-paris-no-yuuga-na-hibi.json](./221783-sakura-taisen-online-paris-no-yuuga-na-hibi.json) |
 | Sakura Taisen Steam Radio Show | 62125 | [62125-sakura-taisen-steam-radio-show.json](./62125-sakura-taisen-steam-radio-show.json) |
 | Sakura Taisen: Kinematron Hanagumi Mail | 62122 | [62122-sakura-taisen-kinematron-hanagumi-mail.json](./62122-sakura-taisen-kinematron-hanagumi-mail.json) |
 | Sakura Trick: Special Edition | 191564 | [191564-sakura-trick-special-edition.json](./191564-sakura-trick-special-edition.json) |
@@ -7233,6 +7234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Boy's: Winter Wonderland | 124048 | [124048-smart-boys-winter-wonderland.json](./124048-smart-boys-winter-wonderland.json) |
 | Smart Cookie Cat | 234588 | [234588-smart-cookie-cat.json](./234588-smart-cookie-cat.json) |
 | Smart CyberFly | 69851 | [69851-smart-cyberfly.json](./69851-smart-cyberfly.json) |
+| Smart Decoy | 221657 | [221657-smart-decoy.json](./221657-smart-decoy.json) |
 | Smart Educational Games for Mac | 100607 | [100607-smart-educational-games-for-mac.json](./100607-smart-educational-games-for-mac.json) |
 | Smart Fart | 149938 | [149938-smart-fart.json](./149938-smart-fart.json) |
 | Smart Fish | 250877 | [250877-smart-fish.json](./250877-smart-fish.json) |
@@ -8152,6 +8154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soda Drinker Pro | 20037 | [20037-soda-drinker-pro.json](./20037-soda-drinker-pro.json) |
 | Soda Dungeon | 27685 | [27685-soda-dungeon.json](./27685-soda-dungeon.json) |
 | Soda Dungeon 2 | 122712 | [122712-soda-dungeon-2.json](./122712-soda-dungeon-2.json) |
+| Soda Hunt | 221793 | [221793-soda-hunt.json](./221793-soda-hunt.json) |
 | Soda Pipes | 208900 | [208900-soda-pipes.json](./208900-soda-pipes.json) |
 | Soda Sabotage | 200469 | [200469-soda-sabotage.json](./200469-soda-sabotage.json) |
 | Soda Scuffle | 290117 | [290117-soda-scuffle.json](./290117-soda-scuffle.json) |
@@ -11326,6 +11329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits: Ciel Bleu | 44214 | [44214-spirits-ciel-bleu.json](./44214-spirits-ciel-bleu.json) |
 | Spirits' Forest | 383366 | [383366-spirits-forest.json](./383366-spirits-forest.json) |
 | Spiritstead | 366345 | [366345-spiritstead.json](./366345-spiritstead.json) |
+| SpiritSurge | 221639 | [221639-spiritsurge.json](./221639-spiritsurge.json) |
 | Spiritual Bond: Breaking the Curse, Intertwining Fates | 316635 | [316635-spiritual-bond-breaking-the-curse-intertwining-fates.json](./316635-spiritual-bond-breaking-the-curse-intertwining-fates.json) |
 | Spiritual Soul | 275632 | [275632-spiritual-soul.json](./275632-spiritual-soul.json) |
 | Spiritual Soul 2 | 275633 | [275633-spiritual-soul-2.json](./275633-spiritual-soul-2.json) |
@@ -15715,6 +15719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Breakout: Evolved | 329632 | [329632-super-breakout-evolved.json](./329632-super-breakout-evolved.json) |
 | Super Bros. 8 | 163222 | [163222-super-bros-8.json](./163222-super-bros-8.json) |
 | Super Brothers Escape | 213384 | [213384-super-brothers-escape.json](./213384-super-brothers-escape.json) |
+| Super Bub Contest | 221786 | [221786-super-bub-contest.json](./221786-super-bub-contest.json) |
 | Super Bubble 2003 | 267979 | [267979-super-bubble-2003.json](./267979-super-bubble-2003.json) |
 | Super Bubble Bobble | 70327 | [70327-super-bubble-bobble.json](./70327-super-bubble-bobble.json) |
 | Super Bug | 40431 | [40431-super-bug.json](./40431-super-bug.json) |
@@ -17990,6 +17995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Girls Collection | 352294 | [352294-sweet-girls-collection.json](./352294-sweet-girls-collection.json) |
 | Sweet Glassirl | 339462 | [339462-sweet-glassirl.json](./339462-sweet-glassirl.json) |
 | Sweet Gym | 339461 | [339461-sweet-gym.json](./339461-sweet-gym.json) |
+| Sweet Half-Life | 221652 | [221652-sweet-half-life.json](./221652-sweet-half-life.json) |
 | Sweet Hazard | 316815 | [316815-sweet-hazard.json](./316815-sweet-hazard.json) |
 | Sweet Hearts Match 3 | 86800 | [86800-sweet-hearts-match-3.json](./86800-sweet-hearts-match-3.json) |
 | Sweet Hell | 293710 | [293710-sweet-hell.json](./293710-sweet-hell.json) |
