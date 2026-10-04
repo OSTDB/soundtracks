@@ -2106,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entaku no Seito | 13201 | [13201-entaku-no-seito.json](./13201-entaku-no-seito.json) |
 | Entaku no Seito: The Eternal Legend | 13216 | [13216-entaku-no-seito-the-eternal-legend.json](./13216-entaku-no-seito-the-eternal-legend.json) |
 | Entangled | 105321 | [105321-entangled.json](./105321-entangled.json) |
+| Entangled | 212158 | [212158-entangled.json](./212158-entangled.json) |
 | Entangled | 344564 | [344564-entangled.json](./344564-entangled.json) |
 | Entangled | 344565 | [344565-entangled.json](./344565-entangled.json) |
 | Entangled Souls | 223404 | [223404-entangled-souls.json](./223404-entangled-souls.json) |
@@ -2286,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Zombies | 293620 | [293620-epic-zombies.json](./293620-epic-zombies.json) |
 | Epica | 31048 | [31048-epica.json](./31048-epica.json) |
 | Epicedium | 102797 | [102797-epicedium.json](./102797-epicedium.json) |
+| Epicenter VR | 212168 | [212168-epicenter-vr.json](./212168-epicenter-vr.json) |
 | Epicinium | 82124 | [82124-epicinium.json](./82124-epicinium.json) |
 | EpicMafia | 57075 | [57075-epicmafia.json](./57075-epicmafia.json) |
 | Epics of Distant Realm 2: Holy Return | 189950 | [189950-epics-of-distant-realm-2-holy-return.json](./189950-epics-of-distant-realm-2-holy-return.json) |
