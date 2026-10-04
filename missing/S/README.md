@@ -2926,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinel | 12339 | [12339-sentinel.json](./12339-sentinel.json) |
 | Sentinel | 153840 | [153840-sentinel.json](./153840-sentinel.json) |
 | Sentinel 4: Dark Star | 34835 | [34835-sentinel-4-dark-star.json](./34835-sentinel-4-dark-star.json) |
+| Sentinel Attack | 203855 | [203855-sentinel-attack.json](./203855-sentinel-attack.json) |
 | Sentinel Heroes | 23641 | [23641-sentinel-heroes.json](./23641-sentinel-heroes.json) |
 | Sentinel of Innocence | 301827 | [301827-sentinel-of-innocence.json](./301827-sentinel-of-innocence.json) |
 | Sentinel Point Heroes | 226441 | [226441-sentinel-point-heroes.json](./226441-sentinel-point-heroes.json) |
@@ -3413,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shachibato! President, It's Time for Battle! Maju Wars | 145520 | [145520-shachibato-president-its-time-for-battle-maju-wars.json](./145520-shachibato-president-its-time-for-battle-maju-wars.json) |
 | Shachou Eiyuuden: The Eagle Shooting Heroes | 78343 | [78343-shachou-eiyuuden-the-eagle-shooting-heroes.json](./78343-shachou-eiyuuden-the-eagle-shooting-heroes.json) |
 | Shackled | 148354 | [148354-shackled.json](./148354-shackled.json) |
+| Shackles of Ellswyn | 203776 | [203776-shackles-of-ellswyn.json](./203776-shackles-of-ellswyn.json) |
 | Shad'O | 80331 | [80331-shado.json](./80331-shado.json) |
 | Shada Kalo | 216306 | [216306-shada-kalo.json](./216306-shada-kalo.json) |
 | Shade | 171056 | [171056-shade.json](./171056-shade.json) |
@@ -6204,6 +6206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton Warrior | 130198 | [130198-skeleton-warrior.json](./130198-skeleton-warrior.json) |
 | Skeleton Warriors | 8084 | [8084-skeleton-warriors.json](./8084-skeleton-warriors.json) |
 | Skeletons Uprising | 265153 | [265153-skeletons-uprising.json](./265153-skeletons-uprising.json) |
+| Skeletons vs Nadia | 203756 | [203756-skeletons-vs-nadia.json](./203756-skeletons-vs-nadia.json) |
 | Skeletris | 134701 | [134701-skeletris.json](./134701-skeletris.json) |
 | Skelets | 140620 | [140620-skelets.json](./140620-skelets.json) |
 | Skeljump | 257377 | [257377-skeljump.json](./257377-skeljump.json) |
@@ -11435,6 +11438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritual Warfare | 73369 | [73369-spiritual-warfare.json](./73369-spiritual-warfare.json) |
 | Spiritually Unemployed | 375832 | [375832-spiritually-unemployed.json](./375832-spiritually-unemployed.json) |
 | Spiritus | 200017 | [200017-spiritus.json](./200017-spiritus.json) |
+| Spiritus | 203783 | [203783-spiritus.json](./203783-spiritus.json) |
 | Spiritus 2 | 276972 | [276972-spiritus-2.json](./276972-spiritus-2.json) |
 | Spiritus Astrum | 217355 | [217355-spiritus-astrum.json](./217355-spiritus-astrum.json) |
 | Spiritwell | 222348 | [222348-spiritwell.json](./222348-spiritwell.json) |
@@ -13142,11 +13146,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Sky: After Spring Portable | 201833 | [201833-starry-sky-after-spring-portable.json](./201833-starry-sky-after-spring-portable.json) |
 | Starry Sky: After Summer | 202824 | [202824-starry-sky-after-summer.json](./202824-starry-sky-after-summer.json) |
 | Starry Sky: After Summer Portable | 202825 | [202825-starry-sky-after-summer-portable.json](./202825-starry-sky-after-summer-portable.json) |
+| Starry Sky: After Winter | 203794 | [203794-starry-sky-after-winter.json](./203794-starry-sky-after-winter.json) |
 | Starry Sky: After Winter Portable | 203813 | [203813-starry-sky-after-winter-portable.json](./203813-starry-sky-after-winter-portable.json) |
 | Starry Sky: in Spring 3D | 201302 | [201302-starry-sky-in-spring-3d.json](./201302-starry-sky-in-spring-3d.json) |
 | Starry Sky: in Summer | 202820 | [202820-starry-sky-in-summer.json](./202820-starry-sky-in-summer.json) |
 | Starry Sky: in Summer 3D | 202823 | [202823-starry-sky-in-summer-3d.json](./202823-starry-sky-in-summer-3d.json) |
 | Starry Sky: in Summer Portable | 202821 | [202821-starry-sky-in-summer-portable.json](./202821-starry-sky-in-summer-portable.json) |
+| Starry Sky: in Winter | 203782 | [203782-starry-sky-in-winter.json](./203782-starry-sky-in-winter.json) |
+| Starry Sky: in Winter 3D | 203791 | [203791-starry-sky-in-winter-3d.json](./203791-starry-sky-in-winter-3d.json) |
+| Starry Sky: in Winter Portable | 203789 | [203789-starry-sky-in-winter-portable.json](./203789-starry-sky-in-winter-portable.json) |
 | Starry Sky: Spring Stories | 202374 | [202374-starry-sky-spring-stories.json](./202374-starry-sky-spring-stories.json) |
 | Starry Sky: Summer Stories | 202827 | [202827-starry-sky-summer-stories.json](./202827-starry-sky-summer-stories.json) |
 | Starry Sky: Winter Stories | 203814 | [203814-starry-sky-winter-stories.json](./203814-starry-sky-winter-stories.json) |
@@ -14413,6 +14421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Town | 143703 | [143703-stream-town.json](./143703-stream-town.json) |
 | Stream Train | 410341 | [410341-stream-train.json](./410341-stream-train.json) |
 | Stream Typers | 206738 | [206738-stream-typers.json](./206738-stream-typers.json) |
+| Stream War | 203763 | [203763-stream-war.json](./203763-stream-war.json) |
 | Streamchat: Horror Live | 405699 | [405699-streamchat-horror-live.json](./405699-streamchat-horror-live.json) |
 | Streamer Content: A Simple Mechanic, a Simple Game | 358361 | [358361-streamer-content-a-simple-mechanic-a-simple-game.json](./358361-streamer-content-a-simple-mechanic-a-simple-game.json) |
 | Streamer Daily | 130275 | [130275-streamer-daily.json](./130275-streamer-daily.json) |
