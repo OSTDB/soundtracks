@@ -3837,6 +3837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tunes: Carrot Crazy | 49870 | [49870-looney-tunes-carrot-crazy.json](./49870-looney-tunes-carrot-crazy.json) |
 | Looney Tunes: Cartoon Concerto | 84298 | [84298-looney-tunes-cartoon-concerto.json](./84298-looney-tunes-cartoon-concerto.json) |
 | Looney Tunes: Dizzy Driving | 136999 | [136999-looney-tunes-dizzy-driving.json](./136999-looney-tunes-dizzy-driving.json) |
+| Looney Tunes: Road Rally Riot | 217947 | [217947-looney-tunes-road-rally-riot.json](./217947-looney-tunes-road-rally-riot.json) |
 | Looney Tunes: Wacky World of Sports | 306142 | [306142-looney-tunes-wacky-world-of-sports.json](./306142-looney-tunes-wacky-world-of-sports.json) |
 | Looney Tunes: Wacky World of Sports - Deluxe Edition | 315873 | [315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json](./315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json) |
 | Loong | 288828 | [288828-loong.json](./288828-loong.json) |
@@ -4455,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Ball | 101111 | [101111-love-ball.json](./101111-love-ball.json) |
 | Love Bites | 254451 | [254451-love-bites.json](./254451-love-bites.json) |
 | Love Breakout | 280176 | [280176-love-breakout.json](./280176-love-breakout.json) |
+| Love Change | 217949 | [217949-love-change.json](./217949-love-change.json) |
 | Love Chronicles: Salvation - Collector's Edition | 89407 | [89407-love-chronicles-salvation-collectors-edition.json](./89407-love-chronicles-salvation-collectors-edition.json) |
 | Love Collection 4-in-1 | 404259 | [404259-love-collection-4-in-1.json](./404259-love-collection-4-in-1.json) |
 | Love Colors: Everyday Pixels | 195230 | [195230-love-colors-everyday-pixels.json](./195230-love-colors-everyday-pixels.json) |
