@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisen! Koori Oni | 227366 | [227366-taisen-koori-oni.json](./227366-taisen-koori-oni.json) |
 | Taisho x Alice: Episode 3 | 150505 | [150505-taisho-x-alice-episode-3.json](./150505-taisho-x-alice-episode-3.json) |
 | Taisho Zombi Roman (Plus) | 150657 | [150657-taisho-zombi-roman-plus.json](./150657-taisho-zombi-roman-plus.json) |
+| Taishou Kitan: Kotonoha Sakura | 218956 | [218956-taishou-kitan-kotonoha-sakura.json](./218956-taishou-kitan-kotonoha-sakura.json) |
 | Taishou Mebiusline Hitotsumi | 141897 | [141897-taishou-mebiusline-hitotsumi.json](./141897-taishou-mebiusline-hitotsumi.json) |
 | Taishou Mebiusline Portable | 256317 | [256317-taishou-mebiusline-portable.json](./256317-taishou-mebiusline-portable.json) |
 | Taishou Mebiusline Teito Bibouroku | 256318 | [256318-taishou-mebiusline-teito-bibouroku.json](./256318-taishou-mebiusline-teito-bibouroku.json) |
@@ -5997,6 +5998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Pumpkin | 218555 | [218555-the-jumping-pumpkin.json](./218555-the-jumping-pumpkin.json) |
 | The Jumping Pumpkin: Halloween Edition | 222805 | [222805-the-jumping-pumpkin-halloween-edition.json](./222805-the-jumping-pumpkin-halloween-edition.json) |
 | The Jumping Pumpkin: Halloween Edition - Turbo | 222806 | [222806-the-jumping-pumpkin-halloween-edition-turbo.json](./222806-the-jumping-pumpkin-halloween-edition-turbo.json) |
+| The Jumping Pumpkin: Turbo | 218944 | [218944-the-jumping-pumpkin-turbo.json](./218944-the-jumping-pumpkin-turbo.json) |
 | The Jumping Quesadilla | 225756 | [225756-the-jumping-quesadilla.json](./225756-the-jumping-quesadilla.json) |
 | The Jumping Quesadilla: Turbo | 225755 | [225755-the-jumping-quesadilla-turbo.json](./225755-the-jumping-quesadilla-turbo.json) |
 | The Jumping Salad | 230302 | [230302-the-jumping-salad.json](./230302-the-jumping-salad.json) |
@@ -8033,6 +8035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Real Deal 2 | 130849 | [130849-the-real-deal-2.json](./130849-the-real-deal-2.json) |
 | The Real Ghostbusters | 12841 | [12841-the-real-ghostbusters.json](./12841-the-real-ghostbusters.json) |
 | The Real Ghostbusters | 218436 | [218436-the-real-ghostbusters.json](./218436-the-real-ghostbusters.json) |
+| The Real Ghostbusters | 218945 | [218945-the-real-ghostbusters.json](./218945-the-real-ghostbusters.json) |
 | The Real Man Summer Championship 2019 | 119652 | [119652-the-real-man-summer-championship-2019.json](./119652-the-real-man-summer-championship-2019.json) |
 | The Real Stunt Experts | 13026 | [13026-the-real-stunt-experts.json](./13026-the-real-stunt-experts.json) |
 | The Real Texas | 25048 | [25048-the-real-texas.json](./25048-the-real-texas.json) |
