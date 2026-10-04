@@ -9615,6 +9615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soshite Kono Sora ni Kirameku Kimi no Uta | 221827 | [221827-soshite-kono-sora-ni-kirameku-kimi-no-uta.json](./221827-soshite-kono-sora-ni-kirameku-kimi-no-uta.json) |
 | Soshite Kono Sora ni Kirameku Kimi no Uta XXX | 221828 | [221828-soshite-kono-sora-ni-kirameku-kimi-no-uta-xxx.json](./221828-soshite-kono-sora-ni-kirameku-kimi-no-uta-xxx.json) |
 | Soshite Suki ni Naru | 375357 | [375357-soshite-suki-ni-naru.json](./375357-soshite-suki-ni-naru.json) |
+| Sotano | 190036 | [190036-sotano.json](./190036-sotano.json) |
 | Soter | 157139 | [157139-soter.json](./157139-soter.json) |
 | Sotidrokhima | 226396 | [226396-sotidrokhima.json](./226396-sotidrokhima.json) |
 | Soto Nemuri | 229671 | [229671-soto-nemuri.json](./229671-soto-nemuri.json) |
@@ -10792,6 +10793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speaker | 178457 | [178457-speaker.json](./178457-speaker.json) |
 | Speaking Simulator 2018 | 111648 | [111648-speaking-simulator-2018.json](./111648-speaking-simulator-2018.json) |
 | Speakrit | 293702 | [293702-speakrit.json](./293702-speakrit.json) |
+| Spear Girl | 190035 | [190035-spear-girl.json](./190035-spear-girl.json) |
 | Spear Knight | 233445 | [233445-spear-knight.json](./233445-spear-knight.json) |
 | Spear Leap Saga | 398413 | [398413-spear-leap-saga.json](./398413-spear-leap-saga.json) |
 | Spear of Despair | 183030 | [183030-spear-of-despair.json](./183030-spear-of-despair.json) |
@@ -17366,6 +17368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Space Serpent: Secondary Edition | 117529 | [117529-super-space-serpent-secondary-edition.json](./117529-super-space-serpent-secondary-edition.json) |
 | Super Space Shooter Arena | 127204 | [127204-super-space-shooter-arena.json](./127204-super-space-shooter-arena.json) |
 | Super Space Slayer 2 | 26946 | [26946-super-space-slayer-2.json](./26946-super-space-slayer-2.json) |
+| Super SpaceMail | 190009 | [190009-super-spacemail.json](./190009-super-spacemail.json) |
 | Super Spamton 64 | 389025 | [389025-super-spamton-64.json](./389025-super-spamton-64.json) |
 | Super Spatial | 225738 | [225738-super-spatial.json](./225738-super-spatial.json) |
 | Super Speed Ball | 331506 | [331506-super-speed-ball.json](./331506-super-speed-ball.json) |
