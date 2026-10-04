@@ -5258,6 +5258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Bit | 110363 | [110363-rogue-bit.json](./110363-rogue-bit.json) |
 | Rogue Blaster | 232435 | [232435-rogue-blaster.json](./232435-rogue-blaster.json) |
 | Rogue Blight | 212912 | [212912-rogue-blight.json](./212912-rogue-blight.json) |
+| Rogue Bones | 184451 | [184451-rogue-bones.json](./184451-rogue-bones.json) |
 | Rogue Bricks | 370898 | [370898-rogue-bricks.json](./370898-rogue-bricks.json) |
 | Rogue Buddies - Aztek Gold | 96227 | [96227-rogue-buddies-aztek-gold.json](./96227-rogue-buddies-aztek-gold.json) |
 | Rogue Carrier | 409641 | [409641-rogue-carrier.json](./409641-rogue-carrier.json) |
@@ -5460,6 +5461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll in the Hole | 64670 | [64670-roll-in-the-hole.json](./64670-roll-in-the-hole.json) |
 | Roll It to the End | 244718 | [244718-roll-it-to-the-end.json](./244718-roll-it-to-the-end.json) |
 | Roll Me Home | 271381 | [271381-roll-me-home.json](./271381-roll-me-home.json) |
+| Roll of Fate | 184456 | [184456-roll-of-fate.json](./184456-roll-of-fate.json) |
 | Roll or Die | 382911 | [382911-roll-or-die.json](./382911-roll-or-die.json) |
 | Roll Player | 200527 | [200527-roll-player.json](./200527-roll-player.json) |
 | Roll Prix | 120252 | [120252-roll-prix.json](./120252-roll-prix.json) |
