@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OASE: Other Age Second Encounter | 34478 | [34478-oase-other-age-second-encounter.json](./34478-oase-other-age-second-encounter.json) |
 | Oasis | 334662 | [334662-oasis.json](./334662-oasis.json) |
 | Oasis | 821 | [821-oasis.json](./821-oasis.json) |
+| Oasis Bistro | 220154 | [220154-oasis-bistro.json](./220154-oasis-bistro.json) |
 | Oasis Blitz | 319690 | [319690-oasis-blitz.json](./319690-oasis-blitz.json) |
 | Oasis Games VR Fun Pack | 108862 | [108862-oasis-games-vr-fun-pack.json](./108862-oasis-games-vr-fun-pack.json) |
 | Oasis Invasion | 380648 | [380648-oasis-invasion.json](./380648-oasis-invasion.json) |
