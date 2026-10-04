@@ -1585,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapons Arena | 356727 | [356727-weapons-arena.json](./356727-weapons-arena.json) |
 | Weapons Factory | 273008 | [273008-weapons-factory.json](./273008-weapons-factory.json) |
 | Weapons Factory Arena | 273009 | [273009-weapons-factory-arena.json](./273009-weapons-factory-arena.json) |
+| Weapons of Ra | 199990 | [199990-weapons-of-ra.json](./199990-weapons-of-ra.json) |
 | Weapons Simulator: OutDoor Edition | 180131 | [180131-weapons-simulator-outdoor-edition.json](./180131-weapons-simulator-outdoor-edition.json) |
 | WeAreDreaming | 243648 | [243648-wearedreaming.json](./243648-wearedreaming.json) |
 | Weasel Willy | 315277 | [315277-weasel-willy.json](./315277-weasel-willy.json) |
@@ -2554,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Shot James R. Burnside? | 302493 | [302493-who-shot-james-r-burnside.json](./302493-who-shot-james-r-burnside.json) |
 | Who Stole Me? | 247168 | [247168-who-stole-me.json](./247168-who-stole-me.json) |
 | Who Stole My Beard? | 132747 | [132747-who-stole-my-beard.json](./132747-who-stole-my-beard.json) |
+| Who Tied Me to the Rocket? | 199965 | [199965-who-tied-me-to-the-rocket.json](./199965-who-tied-me-to-the-rocket.json) |
 | Who Wants to Be a Hypnoslut? | 263668 | [263668-who-wants-to-be-a-hypnoslut.json](./263668-who-wants-to-be-a-hypnoslut.json) |
 | Who Wants to Be a Millionaire | 210722 | [210722-who-wants-to-be-a-millionaire.json](./210722-who-wants-to-be-a-millionaire.json) |
 | Who Wants to Be a Millionaire | 310596 | [310596-who-wants-to-be-a-millionaire.json](./310596-who-wants-to-be-a-millionaire.json) |
