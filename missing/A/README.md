@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Fighter’s Nova: Mindara | 391811 | [391811-a-fighter-s-nova-mindara.json](./391811-a-fighter-s-nova-mindara.json) |
 | A Finality with Sheji | 113852 | [113852-a-finality-with-sheji.json](./113852-a-finality-with-sheji.json) |
 | A Firefighter's Boxing Matches | 179136 | [179136-a-firefighters-boxing-matches.json](./179136-a-firefighters-boxing-matches.json) |
+| A Firelit Room | 196619 | [196619-a-firelit-room.json](./196619-a-firelit-room.json) |
 | A Firm Handshake | 176349 | [176349-a-firm-handshake.json](./176349-a-firm-handshake.json) |
 | A Flappy Bird in Real Life | 111077 | [111077-a-flappy-bird-in-real-life.json](./111077-a-flappy-bird-in-real-life.json) |
 | A Flower from Hermes | 185015 | [185015-a-flower-from-hermes.json](./185015-a-flower-from-hermes.json) |
@@ -2385,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey Blue | 197773 | [197773-air-hockey-blue.json](./197773-air-hockey-blue.json) |
 | Air Hockey Halloween | 243737 | [243737-air-hockey-halloween.json](./243737-air-hockey-halloween.json) |
 | Air Hockey Pink | 175177 | [175177-air-hockey-pink.json](./175177-air-hockey-pink.json) |
+| Air Hockey Puzzles | 196643 | [196643-air-hockey-puzzles.json](./196643-air-hockey-puzzles.json) |
 | Air Hockey Simulator | 379525 | [379525-air-hockey-simulator.json](./379525-air-hockey-simulator.json) |
 | Air Hockey-fuu: Soukai Taisen Action Game - Breaking Beats! | 250444 | [250444-air-hockey-fuu-soukai-taisen-action-game-breaking-beats.json](./250444-air-hockey-fuu-soukai-taisen-action-game-breaking-beats.json) |
 | Air Hockey: Casual Table Arcade | 306526 | [306526-air-hockey-casual-table-arcade.json](./306526-air-hockey-casual-table-arcade.json) |
@@ -2451,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne Justice | 321533 | [321533-airborne-justice.json](./321533-airborne-justice.json) |
 | Airborne Kingdom | 115473 | [115473-airborne-kingdom.json](./115473-airborne-kingdom.json) |
 | Airborne Kingdom: Deluxe Edition | 216228 | [216228-airborne-kingdom-deluxe-edition.json](./216228-airborne-kingdom-deluxe-edition.json) |
+| Airborne Motocross | 196639 | [196639-airborne-motocross.json](./196639-airborne-motocross.json) |
 | Airborne Ranger | 11891 | [11891-airborne-ranger.json](./11891-airborne-ranger.json) |
 | Airborne! | 95457 | [95457-airborne.json](./95457-airborne.json) |
 | AirBurst | 77643 | [77643-airburst.json](./77643-airburst.json) |
@@ -6906,6 +6909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Hunter Gunhound EX | 36391 | [36391-armored-hunter-gunhound-ex.json](./36391-armored-hunter-gunhound-ex.json) |
 | Armored Kitten | 67904 | [67904-armored-kitten.json](./67904-armored-kitten.json) |
 | Armored Patrol | 55932 | [55932-armored-patrol.json](./55932-armored-patrol.json) |
+| Armored Sinner | 196640 | [196640-armored-sinner.json](./196640-armored-sinner.json) |
 | Armored Squad | 83557 | [83557-armored-squad.json](./83557-armored-squad.json) |
 | Armored Suit Solgante | 303679 | [303679-armored-suit-solgante.json](./303679-armored-suit-solgante.json) |
 | Armored Trooper Votoms: Dead Ash | 98262 | [98262-armored-trooper-votoms-dead-ash.json](./98262-armored-trooper-votoms-dead-ash.json) |
