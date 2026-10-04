@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
 | Parchisi | 209416 | [209416-parchisi.json](./209416-parchisi.json) |
 | Parchisi Star Online | 138606 | [138606-parchisi-star-online.json](./138606-parchisi-star-online.json) |
+| Pardon My French Toast | 206041 | [206041-pardon-my-french-toast.json](./206041-pardon-my-french-toast.json) |
 | Pardus | 327913 | [327913-pardus.json](./327913-pardus.json) |
 | pareidolia in █▄██▄▄ | 280796 | [280796-pareidolia-in.json](./280796-pareidolia-in.json) |
 | Parents vs. Kids | 226320 | [226320-parents-vs-kids.json](./226320-parents-vs-kids.json) |
@@ -9347,6 +9348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Grid | 263571 | [263571-puzzle-grid.json](./263571-puzzle-grid.json) |
 | Puzzle Guardians | 29155 | [29155-puzzle-guardians.json](./29155-puzzle-guardians.json) |
 | Puzzle Heart Match-3 Adventure | 99501 | [99501-puzzle-heart-match-3-adventure.json](./99501-puzzle-heart-match-3-adventure.json) |
+| Puzzle Hero | 206044 | [206044-puzzle-hero.json](./206044-puzzle-hero.json) |
 | Puzzle Hero | 53484 | [53484-puzzle-hero.json](./53484-puzzle-hero.json) |
 | Puzzle Island VR | 30096 | [30096-puzzle-island-vr.json](./30096-puzzle-island-vr.json) |
 | Puzzle Islands: Ancient & Modern - Bundle | 340743 | [340743-puzzle-islands-ancient-and-modern-bundle.json](./340743-puzzle-islands-ancient-and-modern-bundle.json) |
