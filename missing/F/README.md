@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail: Brave Guild | 144100 | [144100-fairy-tail-brave-guild.json](./144100-fairy-tail-brave-guild.json) |
 | Fairy Tail: Brave Saga | 144095 | [144095-fairy-tail-brave-saga.json](./144095-fairy-tail-brave-saga.json) |
 | Fairy Tail: DiceMagic | 144096 | [144096-fairy-tail-dicemagic.json](./144096-fairy-tail-dicemagic.json) |
+| Fairy Tail: Digital Deluxe Edition | 221782 | [221782-fairy-tail-digital-deluxe-edition.json](./221782-fairy-tail-digital-deluxe-edition.json) |
 | Fairy Tail: Dungeons | 313123 | [313123-fairy-tail-dungeons.json](./313123-fairy-tail-dungeons.json) |
 | Fairy Tail: Forces Unite! | 193970 | [193970-fairy-tail-forces-unite.json](./193970-fairy-tail-forces-unite.json) |
 | Fairy Tail: Guild Masters | 193873 | [193873-fairy-tail-guild-masters.json](./193873-fairy-tail-guild-masters.json) |
@@ -4495,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fobia ...Worse Than Fear. | 242593 | [242593-fobia-worse-than-fear.json](./242593-fobia-worse-than-fear.json) |
 | Fobos | 79830 | [79830-fobos.json](./79830-fobos.json) |
 | Foc/us | 223677 | [223677-foc-us.json](./223677-foc-us.json) |
+| Focalpoint | 221653 | [221653-focalpoint.json](./221653-focalpoint.json) |
 | Focumon | 397828 | [397828-focumon.json](./397828-focumon.json) |
 | Focus | 182941 | [182941-focus.json](./182941-focus.json) |
 | Focus | 242576 | [242576-focus.json](./242576-focus.json) |
@@ -5025,6 +5027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgive Me Father 2 | 244784 | [244784-forgive-me-father-2.json](./244784-forgive-me-father-2.json) |
 | Forgive Me My Henchmen | 106097 | [106097-forgive-me-my-henchmen.json](./106097-forgive-me-my-henchmen.json) |
 | Forgive or Finalize | 398486 | [398486-forgive-or-finalize.json](./398486-forgive-or-finalize.json) |
+| Forgiven | 221641 | [221641-forgiven.json](./221641-forgiven.json) |
 | Forgiveness | 111471 | [111471-forgiveness.json](./111471-forgiveness.json) |
 | Forgiveness | 291580 | [291580-forgiveness.json](./291580-forgiveness.json) |
 | Forgiveness RPG: The First Chapter - Part Three | 297539 | [297539-forgiveness-rpg-the-first-chapter-part-three.json](./297539-forgiveness-rpg-the-first-chapter-part-three.json) |
