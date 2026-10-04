@@ -472,6 +472,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest of Graal DX | 192320 | [192320-quest-of-graal-dx.json](./192320-quest-of-graal-dx.json) |
 | Quest of Jackal: Puzzle game | 113882 | [113882-quest-of-jackal-puzzle-game.json](./113882-quest-of-jackal-puzzle-game.json) |
 | Quest of Legend | 334202 | [334202-quest-of-legend.json](./334202-quest-of-legend.json) |
+| Quest of Persia: Lotfali Khan Zand | 191672 | [191672-quest-of-persia-lotfali-khan-zand.json](./191672-quest-of-persia-lotfali-khan-zand.json) |
+| Quest of Persia: The End of Innocence | 191671 | [191671-quest-of-persia-the-end-of-innocence.json](./191671-quest-of-persia-the-end-of-innocence.json) |
 | Quest of the Dragon Soul | 295926 | [295926-quest-of-the-dragon-soul.json](./295926-quest-of-the-dragon-soul.json) |
 | Quest of the Hero | 348988 | [348988-quest-of-the-hero.json](./348988-quest-of-the-hero.json) |
 | Quest of Wizard | 188909 | [188909-quest-of-wizard.json](./188909-quest-of-wizard.json) |
@@ -671,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quotes Quest - Match 3 | 114164 | [114164-quotes-quest-match-3.json](./114164-quotes-quest-match-3.json) |
 | Quoth The Raven | 268727 | [268727-quoth-the-raven.json](./268727-quoth-the-raven.json) |
 | QuoVadis 2: Wakusei Kyoushuu Ovan Rei | 123631 | [123631-quovadis-2-wakusei-kyoushuu-ovan-rei.json](./123631-quovadis-2-wakusei-kyoushuu-ovan-rei.json) |
+| Quraish | 191688 | [191688-quraish.json](./191688-quraish.json) |
 | Qurare: Magic Library | 19605 | [19605-qurare-magic-library.json](./19605-qurare-magic-library.json) |
 | QuVerse | 207302 | [207302-quverse.json](./207302-quverse.json) |
 | Quynh | 185162 | [185162-quynh.json](./185162-quynh.json) |
