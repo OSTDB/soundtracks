@@ -2958,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchbox: Driving Adventures | 305052 | [305052-matchbox-driving-adventures.json](./305052-matchbox-driving-adventures.json) |
 | Matchbox: Emergency Patrol | 49963 | [49963-matchbox-emergency-patrol.json](./49963-matchbox-emergency-patrol.json) |
 | Matchbox's Pizza Adventure | 305307 | [305307-matchboxs-pizza-adventure.json](./305307-matchboxs-pizza-adventure.json) |
+| Matchday Manager World Football | 214556 | [214556-matchday-manager-world-football.json](./214556-matchday-manager-world-football.json) |
 | Matched | 253009 | [253009-matched.json](./253009-matched.json) |
 | Matchem | 91737 | [91737-matchem.json](./91737-matchem.json) |
 | Matches Puzzle 2: Classic Logic Arcade | 287175 | [287175-matches-puzzle-2-classic-logic-arcade.json](./287175-matches-puzzle-2-classic-logic-arcade.json) |
@@ -6521,6 +6522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper: The Clean One | 180245 | [180245-minesweeper-the-clean-one.json](./180245-minesweeper-the-clean-one.json) |
 | Mineswifter | 138189 | [138189-mineswifter.json](./138189-mineswifter.json) |
 | Míngjiào Fēngyún zhī Jiǔ Yīn Jiǔ Yáng | 155014 | [155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json](./155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json) |
+| Mingle | 214416 | [214416-mingle.json](./214416-mingle.json) |
 | Mingy Jongo | 60609 | [60609-mingy-jongo.json](./60609-mingy-jongo.json) |
 | Mìngyùn de Yǐndǎozhě: Chuánshuō Bǎoshí | 394195 | [394195-mingyun-de-yindaozhe-chuanshuo-baoshi.json](./394195-mingyun-de-yindaozhe-chuanshuo-baoshi.json) |
 | Minha Casa | 307864 | [307864-minha-casa.json](./307864-minha-casa.json) |
@@ -8534,6 +8536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonbase | 94230 | [94230-moonbase.json](./94230-moonbase.json) |
 | Moonbeeps: Fireflies | 99177 | [99177-moonbeeps-fireflies.json](./99177-moonbeeps-fireflies.json) |
 | Moonblood | 257418 | [257418-moonblood.json](./257418-moonblood.json) |
+| Moonbreaker | 214405 | [214405-moonbreaker.json](./214405-moonbreaker.json) |
 | Mooncat's Trio | 308976 | [308976-mooncats-trio.json](./308976-mooncats-trio.json) |
 | Moonchild | 36180 | [36180-moonchild.json](./36180-moonchild.json) |
 | Moonchrome. | 382931 | [382931-moonchrome.json](./382931-moonchrome.json) |
@@ -9714,6 +9717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mu Old Times | 331948 | [331948-mu-old-times.json](./331948-mu-old-times.json) |
 | Mu Origin 2 | 118923 | [118923-mu-origin-2.json](./118923-mu-origin-2.json) |
 | MU Origin 3 | 188380 | [188380-mu-origin-3.json](./188380-mu-origin-3.json) |
+| MU: Archangel | 214378 | [214378-mu-archangel.json](./214378-mu-archangel.json) |
 | Mu: Dark Epoch | 323723 | [323723-mu-dark-epoch.json](./323723-mu-dark-epoch.json) |
 | Muay Thai | 349887 | [349887-muay-thai.json](./349887-muay-thai.json) |
 | Muchacho Bean | 293638 | [293638-muchacho-bean.json](./293638-muchacho-bean.json) |
@@ -9772,6 +9776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mujun's Casefile: The Mystery Mansion | 394431 | [394431-mujuns-casefile-the-mystery-mansion.json](./394431-mujuns-casefile-the-mystery-mansion.json) |
 | Mukaeute Uchuu Gundan Galack | 66130 | [66130-mukaeute-uchuu-gundan-galack.json](./66130-mukaeute-uchuu-gundan-galack.json) |
 | Mukbang 3D | 240883 | [240883-mukbang-3d.json](./240883-mukbang-3d.json) |
+| Mukon M | 214380 | [214380-mukon-m.json](./214380-mukon-m.json) |
 | Mukougawa no Reisetsu | 341594 | [341594-mukougawa-no-reisetsu.json](./341594-mukougawa-no-reisetsu.json) |
 | Mukti | 106382 | [106382-mukti.json](./106382-mukti.json) |
 | Muku wo Saku | 308877 | [308877-muku-wo-saku.json](./308877-muku-wo-saku.json) |
