@@ -2280,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl & Gem Magic | 367022 | [367022-girl-and-gem-magic.json](./367022-girl-and-gem-magic.json) |
 | Girl & Scarecrow | 404331 | [404331-girl-and-scarecrow.json](./404331-girl-and-scarecrow.json) |
 | Girl Abducted | 334654 | [334654-girl-abducted.json](./334654-girl-abducted.json) |
+| Girl Adventure | 181738 | [181738-girl-adventure.json](./181738-girl-adventure.json) |
 | Girl and Demon 1 | 212829 | [212829-girl-and-demon-1.json](./212829-girl-and-demon-1.json) |
 | Girl and Goblin | 103810 | [103810-girl-and-goblin.json](./103810-girl-and-goblin.json) |
 | Girl Blonde | 74178 | [74178-girl-blonde.json](./74178-girl-blonde.json) |
@@ -3389,6 +3390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf For Fun in Ice | 173229 | [173229-golf-for-fun-in-ice.json](./173229-golf-for-fun-in-ice.json) |
 | Golf for Workgroups | 30109 | [30109-golf-for-workgroups.json](./30109-golf-for-workgroups.json) |
 | Golf Galore | 104875 | [104875-golf-galore.json](./104875-golf-galore.json) |
+| Golf Gaming | 181721 | [181721-golf-gaming.json](./181721-golf-gaming.json) |
 | Golf Gang | 142998 | [142998-golf-gang.json](./142998-golf-gang.json) |
 | Golf Grand Slam | 48285 | [48285-golf-grand-slam.json](./48285-golf-grand-slam.json) |
 | Golf Guys | 277888 | [277888-golf-guys.json](./277888-golf-guys.json) |
@@ -3566,6 +3568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Mourning | 148556 | [148556-good-mourning.json](./148556-good-mourning.json) |
 | Good News | 382300 | [382300-good-news.json](./382300-good-news.json) |
 | Good Night Mr. Snoozleberg | 321456 | [321456-good-night-mr-snoozleberg.json](./321456-good-night-mr-snoozleberg.json) |
+| Good Night, Egg | 181727 | [181727-good-night-egg.json](./181727-good-night-egg.json) |
 | Good Night, Every Night | 244197 | [244197-good-night-every-night.json](./244197-good-night-every-night.json) |
 | Good Night, Peregrine | 222936 | [222936-good-night-peregrine.json](./222936-good-night-peregrine.json) |
 | Good Night, Rowan | 178564 | [178564-good-night-rowan.json](./178564-good-night-rowan.json) |
@@ -5860,6 +5863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyras: Rogue | 305540 | [305540-gyras-rogue.json](./305540-gyras-rogue.json) |
 | Gyre | 347749 | [347749-gyre.json](./347749-gyre.json) |
 | Gyre: Nova State | 109910 | [109910-gyre-nova-state.json](./109910-gyre-nova-state.json) |
+| Gyro Gear | 181724 | [181724-gyro-gear.json](./181724-gyro-gear.json) |
 | Gyro Gear Tournament+ | 211733 | [211733-gyro-gear-tournament.json](./211733-gyro-gear-tournament.json) |
 | Gyro Skate | 243730 | [243730-gyro-skate.json](./243730-gyro-skate.json) |
 | Gyro Star VIP | 106553 | [106553-gyro-star-vip.json](./106553-gyro-star-vip.json) |
