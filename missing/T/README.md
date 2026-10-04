@@ -3056,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Airtight City 2 | 161171 | [161171-the-airtight-city-2.json](./161171-the-airtight-city-2.json) |
 | The Akuma Hunters: Exorsister | 45993 | [45993-the-akuma-hunters-exorsister.json](./45993-the-akuma-hunters-exorsister.json) |
 | The Albino Hunter: Revamp | 392411 | [392411-the-albino-hunter-revamp.json](./392411-the-albino-hunter-revamp.json) |
+| The Alchemist | 178474 | [178474-the-alchemist.json](./178474-the-alchemist.json) |
 | The Alchemist | 207373 | [207373-the-alchemist.json](./207373-the-alchemist.json) |
 | The Alchemist | 306992 | [306992-the-alchemist.json](./306992-the-alchemist.json) |
 | The Alchemist & His Battle-Scarred Homunculus | 315048 | [315048-the-alchemist-and-his-battle-scarred-homunculus.json](./315048-the-alchemist-and-his-battle-scarred-homunculus.json) |
@@ -3506,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Binding of Isaac: Revelations | 376126 | [376126-the-binding-of-isaac-revelations.json](./376126-the-binding-of-isaac-revelations.json) |
 | The Binding of You | 83551 | [83551-the-binding-of-you.json](./83551-the-binding-of-you.json) |
 | The Biorift | 376550 | [376550-the-biorift.json](./376550-the-biorift.json) |
+| The BioWare Bundle | 178402 | [178402-the-bioware-bundle.json](./178402-the-bioware-bundle.json) |
 | The Bird and the Bicycle | 298780 | [298780-the-bird-and-the-bicycle.json](./298780-the-bird-and-the-bicycle.json) |
 | The Bird Museum | 182545 | [182545-the-bird-museum.json](./182545-the-bird-museum.json) |
 | The Bird That Drinks Tears | 237447 | [237447-the-bird-that-drinks-tears.json](./237447-the-bird-that-drinks-tears.json) |
@@ -13441,6 +13443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonetaker VR | 123510 | [123510-tonetaker-vr.json](./123510-tonetaker-vr.json) |
 | Tong Create Thorns | 358513 | [358513-tong-create-thorns.json](./358513-tong-create-thorns.json) |
 | Tóng Dāo Yín Jiàn | 373707 | [373707-tong-dao-yin-jian.json](./373707-tong-dao-yin-jian.json) |
+| Tong Jyun | 178488 | [178488-tong-jyun.json](./178488-tong-jyun.json) |
 | Tongari Boushi to Mahou no Machi | 109053 | [109053-tongari-boushi-to-mahou-no-machi.json](./109053-tongari-boushi-to-mahou-no-machi.json) |
 | Tongari Boushi to Mahou no Omise | 109055 | [109055-tongari-boushi-to-mahou-no-omise.json](./109055-tongari-boushi-to-mahou-no-omise.json) |
 | Tongari Boushi to Oshare na Mahou Tsukai | 109054 | [109054-tongari-boushi-to-oshare-na-mahou-tsukai.json](./109054-tongari-boushi-to-oshare-na-mahou-tsukai.json) |
