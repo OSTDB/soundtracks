@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor's Stories Solitaire | 196881 | [196881-sailors-stories-solitaire.json](./196881-sailors-stories-solitaire.json) |
 | Sailwind | 180225 | [180225-sailwind.json](./180225-sailwind.json) |
 | Saily Seas | 297507 | [297507-saily-seas.json](./297507-saily-seas.json) |
+| Saimai Rd | 196635 | [196635-saimai-rd.json](./196635-saimai-rd.json) |
 | Saimazoom | 45326 | [45326-saimazoom.json](./45326-saimazoom.json) |
 | Saimin Choukyou Shimai | 108866 | [108866-saimin-choukyou-shimai.json](./108866-saimin-choukyou-shimai.json) |
 | Saimin Reiki | 59036 | [59036-saimin-reiki.json](./59036-saimin-reiki.json) |
@@ -4774,6 +4775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot! & Ahhhhh | 385816 | [385816-shoot-and-ahhhhh.json](./385816-shoot-and-ahhhhh.json) |
 | Shoot! VR | 230948 | [230948-shoot-vr.json](./230948-shoot-vr.json) |
 | Shoot'n'Scroll 3D | 109875 | [109875-shootnscroll-3d.json](./109875-shootnscroll-3d.json) |
+| Shootball Arena | 196641 | [196641-shootball-arena.json](./196641-shootball-arena.json) |
 | Shooter Bundle: Ghost Assassin, Hotline, Water Blast, Shadowblade, Yori's Journey | 356823 | [356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json](./356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json) |
 | Shooter Game | 107871 | [107871-shooter-game.json](./107871-shooter-game.json) |
 | Shooter League: Robot Goal | 198312 | [198312-shooter-league-robot-goal.json](./198312-shooter-league-robot-goal.json) |
@@ -8744,6 +8746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something To Write About: Unbroken - Book One | 336066 | [336066-something-to-write-about-unbroken-book-one.json](./336066-something-to-write-about-unbroken-book-one.json) |
 | Something Took Her | 335247 | [335247-something-took-her.json](./335247-something-took-her.json) |
 | Something Wicked Lies Beneath | 250873 | [250873-something-wicked-lies-beneath.json](./250873-something-wicked-lies-beneath.json) |
+| Something Wicked This Way Comes | 196637 | [196637-something-wicked-this-way-comes.json](./196637-something-wicked-this-way-comes.json) |
 | Something's in the Air Redux | 255102 | [255102-somethings-in-the-air-redux.json](./255102-somethings-in-the-air-redux.json) |
 | Something's Not Right | 298047 | [298047-somethings-not-right.json](./298047-somethings-not-right.json) |
 | Something's Out There | 235739 | [235739-somethings-out-there.json](./235739-somethings-out-there.json) |
@@ -12443,6 +12446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Defender 2 | 54396 | [54396-star-defender-2.json](./54396-star-defender-2.json) |
 | Star Defender 3 | 25478 | [25478-star-defender-3.json](./25478-star-defender-3.json) |
 | Star Diffusion | 106969 | [106969-star-diffusion.json](./106969-star-diffusion.json) |
+| Star Discord | 196621 | [196621-star-discord.json](./196621-star-discord.json) |
 | Star Drifter | 13761 | [13761-star-drifter.json](./13761-star-drifter.json) |
 | Star Drifter | 32473 | [32473-star-drifter.json](./32473-star-drifter.json) |
 | Star Drives | 187464 | [187464-star-drives.json](./187464-star-drives.json) |
