@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Simon | 79953 | [79953-santa-simon.json](./79953-santa-simon.json) |
 | Santa Simulator | 112993 | [112993-santa-simulator.json](./112993-santa-simulator.json) |
 | Santa Ski vs. Zombies Ski | 257012 | [257012-santa-ski-vs-zombies-ski.json](./257012-santa-ski-vs-zombies-ski.json) |
+| Santa Slays Nazis | 196117 | [196117-santa-slays-nazis.json](./196117-santa-slays-nazis.json) |
 | Santa Sling | 30074 | [30074-santa-sling.json](./30074-santa-sling.json) |
 | Santa Throw | 186907 | [186907-santa-throw.json](./186907-santa-throw.json) |
 | Santa With Gun | 382878 | [382878-santa-with-gun.json](./382878-santa-with-gun.json) |
@@ -1780,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP 3008 | 231390 | [231390-scp-3008.json](./231390-scp-3008.json) |
 | SCP Area 8 | 82390 | [82390-scp-area-8.json](./82390-scp-area-8.json) |
 | SCP Clicker | 183859 | [183859-scp-clicker.json](./183859-scp-clicker.json) |
+| SCP Foundation: ITTLG - Chapter 1 | 196101 | [196101-scp-foundation-ittlg-chapter-1.json](./196101-scp-foundation-ittlg-chapter-1.json) |
 | SCP Horror Series 2 | 273576 | [273576-scp-horror-series-2.json](./273576-scp-horror-series-2.json) |
 | SCP Observer | 188680 | [188680-scp-observer.json](./188680-scp-observer.json) |
 | SCP Operations | 244720 | [244720-scp-operations.json](./244720-scp-operations.json) |
@@ -5099,6 +5101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shukusei no Girlfriend AllStar | 305323 | [305323-shukusei-no-girlfriend-allstar.json](./305323-shukusei-no-girlfriend-allstar.json) |
 | Shultz's Treasure | 292839 | [292839-shultzs-treasure.json](./292839-shultzs-treasure.json) |
 | Shump Mania | 201084 | [201084-shump-mania.json](./201084-shump-mania.json) |
+| Shunga Frame | 196094 | [196094-shunga-frame.json](./196094-shunga-frame.json) |
 | Shunkyoku no Tyrhhia: What a Beautiful Dawn | 144958 | [144958-shunkyoku-no-tyrhhia-what-a-beautiful-dawn.json](./144958-shunkyoku-no-tyrhhia-what-a-beautiful-dawn.json) |
 | Shuntle | 319141 | [319141-shuntle.json](./319141-shuntle.json) |
 | Shuppatsu! Doubutsu Tankentai | 63958 | [63958-shuppatsu-doubutsu-tankentai.json](./63958-shuppatsu-doubutsu-tankentai.json) |
