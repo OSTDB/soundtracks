@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaporwave World | 130202 | [130202-vaporwave-world.json](./130202-vaporwave-world.json) |
 | Vapour | 35849 | [35849-vapour.json](./35849-vapour.json) |
 | Vardia | 275694 | [275694-vardia.json](./275694-vardia.json) |
+| Vardir | 178468 | [178468-vardir.json](./178468-vardir.json) |
 | VarDragons | 57114 | [57114-vardragons.json](./57114-vardragons.json) |
 | Vareion | 245321 | [245321-vareion.json](./245321-vareion.json) |
 | Varenje: Collector's Edition | 111504 | [111504-varenje-collectors-edition.json](./111504-varenje-collectors-edition.json) |
