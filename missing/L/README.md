@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladybug dress up | 101588 | [101588-ladybug-dress-up.json](./101588-ladybug-dress-up.json) |
 | Ladybug Quest | 113753 | [113753-ladybug-quest.json](./113753-ladybug-quest.json) |
 | Ladylike | 152769 | [152769-ladylike.json](./152769-ladylike.json) |
+| Laetus. | 198297 | [198297-laetus.json](./198297-laetus.json) |
 | Laf Pak | 279740 | [279740-laf-pak.json](./279740-laf-pak.json) |
 | Laf the game | 226204 | [226204-laf-the-game.json](./226204-laf-the-game.json) |
 | Laff Pack | 100022 | [100022-laff-pack.json](./100022-laff-pack.json) |
@@ -1527,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Tzonac 2: Friendship & Automata | 229612 | [229612-legends-of-tzonac-2-friendship-and-automata.json](./229612-legends-of-tzonac-2-friendship-and-automata.json) |
 | Legends of Tzonac: The Great Dungeon Escape | 229611 | [229611-legends-of-tzonac-the-great-dungeon-escape.json](./229611-legends-of-tzonac-the-great-dungeon-escape.json) |
 | Legends of Valour | 12903 | [12903-legends-of-valour.json](./12903-legends-of-valour.json) |
+| Legends of Venari | 198301 | [198301-legends-of-venari.json](./198301-legends-of-venari.json) |
 | Legends of War | 20014 | [20014-legends-of-war.json](./20014-legends-of-war.json) |
 | Legends of War: Patton | 20015 | [20015-legends-of-war-patton.json](./20015-legends-of-war-patton.json) |
 | Legends of Wrestling | 3974 | [3974-legends-of-wrestling.json](./3974-legends-of-wrestling.json) |
@@ -3707,6 +3709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loli Racing | 292291 | [292291-loli-racing.json](./292291-loli-racing.json) |
 | Lolita 2 | 66128 | [66128-lolita-2.json](./66128-lolita-2.json) |
 | Lolita Expedition | 370885 | [370885-lolita-expedition.json](./370885-lolita-expedition.json) |
+| Lollipop | 198329 | [198329-lollipop.json](./198329-lollipop.json) |
 | Lollipop Chainsaw RePop: Nintendo Switch 2 Edition | 401101 | [401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json](./401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json) |
 | LolliPop: The Best Indie Game | 149496 | [149496-lollipop-the-best-indie-game.json](./149496-lollipop-the-best-indie-game.json) |
 | Lollipop! | 159882 | [159882-lollipop.json](./159882-lollipop.json) |
