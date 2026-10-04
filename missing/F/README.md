@@ -2715,6 +2715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Payload | 394502 | [394502-final-payload.json](./394502-final-payload.json) |
 | Final Profit: A Shop RPG | 196721 | [196721-final-profit-a-shop-rpg.json](./196721-final-profit-a-shop-rpg.json) |
 | Final Quest | 31732 | [31732-final-quest.json](./31732-final-quest.json) |
+| Final Racing | 206761 | [206761-final-racing.json](./206761-final-racing.json) |
 | Final Redoubt: Zombie Apocalypse | 329590 | [329590-final-redoubt-zombie-apocalypse.json](./329590-final-redoubt-zombie-apocalypse.json) |
 | Final Remedy | 236778 | [236778-final-remedy.json](./236778-final-remedy.json) |
 | Final Rites | 405685 | [405685-final-rites.json](./405685-final-rites.json) |
@@ -3064,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire With Fire: Online Tower Attack and Defense | 35714 | [35714-fire-with-fire-online-tower-attack-and-defense.json](./35714-fire-with-fire-online-tower-attack-and-defense.json) |
 | Fire Woman: Matoi Gumi | 45958 | [45958-fire-woman-matoi-gumi.json](./45958-fire-woman-matoi-gumi.json) |
 | Fire: The First Dreamer | 333552 | [333552-fire-the-first-dreamer.json](./333552-fire-the-first-dreamer.json) |
+| Firearm | 206762 | [206762-firearm.json](./206762-firearm.json) |
 | Firearms Master | 335326 | [335326-firearms-master.json](./335326-firearms-master.json) |
 | Fireball | 18565 | [18565-fireball.json](./18565-fireball.json) |
 | Fireball | 374834 | [374834-fireball.json](./374834-fireball.json) |
@@ -3320,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishbait | 373634 | [373634-fishbait.json](./373634-fishbait.json) |
 | Fishbones | 122194 | [122194-fishbones.json](./122194-fishbones.json) |
 | Fishbowl | 68629 | [68629-fishbowl.json](./68629-fishbowl.json) |
+| FishCo | 206764 | [206764-fishco.json](./206764-fishco.json) |
 | Fishdom: Deep Dive | 197359 | [197359-fishdom-deep-dive.json](./197359-fishdom-deep-dive.json) |
 | Fishdom: Seasons Under the Sea | 294387 | [294387-fishdom-seasons-under-the-sea.json](./294387-fishdom-seasons-under-the-sea.json) |
 | Fisher Birds HD | 257010 | [257010-fisher-birds-hd.json](./257010-fisher-birds-hd.json) |
@@ -5414,6 +5417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forward Assault | 140491 | [140491-forward-assault.json](./140491-forward-assault.json) |
 | Forward March: Attack! Deluxe | 25106 | [25106-forward-march-attack-deluxe.json](./25106-forward-march-attack-deluxe.json) |
 | Forward Motion | 366378 | [366378-forward-motion.json](./366378-forward-motion.json) |
+| Forward Winds | 206594 | [206594-forward-winds.json](./206594-forward-winds.json) |
 | Forwards Compatible | 271742 | [271742-forwards-compatible.json](./271742-forwards-compatible.json) |
 | Foryster | 312225 | [312225-foryster.json](./312225-foryster.json) |
 | Forza Horizon - December IGN Car Pack | 132825 | [132825-forza-horizon-december-ign-car-pack.json](./132825-forza-horizon-december-ign-car-pack.json) |
