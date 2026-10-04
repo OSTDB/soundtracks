@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Reality: Hunter's Legacy - Collector's Edition | 397145 | [397145-edge-of-reality-hunters-legacy-collectors-edition.json](./397145-edge-of-reality-hunters-legacy-collectors-edition.json) |
 | Edge of Reality: Island of Shadows - Collector's Edition | 397153 | [397153-edge-of-reality-island-of-shadows-collectors-edition.json](./397153-edge-of-reality-island-of-shadows-collectors-edition.json) |
 | Edge of Reality: Lethal Predictions - Collector's Edition | 397141 | [397141-edge-of-reality-lethal-predictions-collectors-edition.json](./397141-edge-of-reality-lethal-predictions-collectors-edition.json) |
+| Edge of Reality: Mark of Fate | 187904 | [187904-edge-of-reality-mark-of-fate.json](./187904-edge-of-reality-mark-of-fate.json) |
 | Edge of Reality: Mark of Fate - Collector's Edition | 397147 | [397147-edge-of-reality-mark-of-fate-collectors-edition.json](./397147-edge-of-reality-mark-of-fate-collectors-edition.json) |
 | Edge of Reality: Ring of Destiny - Collector's Edition | 397139 | [397139-edge-of-reality-ring-of-destiny-collectors-edition.json](./397139-edge-of-reality-ring-of-destiny-collectors-edition.json) |
 | Edge of Sanity | 214504 | [214504-edge-of-sanity.json](./214504-edge-of-sanity.json) |
@@ -1733,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted in the Moonlight: Miyabi, Kyoga & Samon - Luck in Love: The Key to Happiness | 238068 | [238068-enchanted-in-the-moonlight-miyabi-kyoga-and-samon-luck-in-love-the-key-to-happiness.json](./238068-enchanted-in-the-moonlight-miyabi-kyoga-and-samon-luck-in-love-the-key-to-happiness.json) |
 | Enchanted Kingdom: A Stranger's Venom | 188003 | [188003-enchanted-kingdom-a-strangers-venom.json](./188003-enchanted-kingdom-a-strangers-venom.json) |
 | Enchanted Kingdom: Descent of the Elders - Collector's Edition | 170996 | [170996-enchanted-kingdom-descent-of-the-elders-collectors-edition.json](./170996-enchanted-kingdom-descent-of-the-elders-collectors-edition.json) |
+| Enchanted Kingdom: The Secret of the Golden Lamp | 187903 | [187903-enchanted-kingdom-the-secret-of-the-golden-lamp.json](./187903-enchanted-kingdom-the-secret-of-the-golden-lamp.json) |
 | Enchanted Kingdom: The Secret of the Golden Lamp - Collector's Edition | 168306 | [168306-enchanted-kingdom-the-secret-of-the-golden-lamp-collectors-edition.json](./168306-enchanted-kingdom-the-secret-of-the-golden-lamp-collectors-edition.json) |
 | Enchanted Memories | 386148 | [386148-enchanted-memories.json](./386148-enchanted-memories.json) |
 | Enchanted Scepters | 31186 | [31186-enchanted-scepters.json](./31186-enchanted-scepters.json) |
