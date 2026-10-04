@@ -4744,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Resin | 142278 | [142278-black-resin.json](./142278-black-resin.json) |
 | Black River | 29661 | [29661-black-river.json](./29661-black-river.json) |
 | Black Robinia | 59420 | [59420-black-robinia.json](./59420-black-robinia.json) |
+| Black Rock Shooter: Fragment | 193806 | [193806-black-rock-shooter-fragment.json](./193806-black-rock-shooter-fragment.json) |
 | Black Rose | 33253 | [33253-black-rose.json](./33253-black-rose.json) |
 | Black Rose Valkyrie | 137079 | [137079-black-rose-valkyrie.json](./137079-black-rose-valkyrie.json) |
 | Black Runes | 266764 | [266764-black-runes.json](./266764-black-runes.json) |
@@ -7464,6 +7465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BR1: Infinite | 194433 | [194433-br1-infinite.json](./194433-br1-infinite.json) |
 | Braaains | 319105 | [319105-braaains.json](./319105-braaains.json) |
 | Braaains! | 207284 | [207284-braaains.json](./207284-braaains.json) |
+| Braains.io | 193807 | [193807-braains-io.json](./193807-braains-io.json) |
 | Bracer | 403818 | [403818-bracer.json](./403818-bracer.json) |
 | Bracket Chain | 279765 | [279765-bracket-chain.json](./279765-bracket-chain.json) |
 | Bracket City | 341031 | [341031-bracket-city.json](./341031-bracket-city.json) |
