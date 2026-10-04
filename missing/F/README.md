@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face Down | 227968 | [227968-face-down.json](./227968-face-down.json) |
 | Face Golf | 181703 | [181703-face-golf.json](./181703-face-golf.json) |
 | Face Love: Face Designer | 334861 | [334861-face-love-face-designer.json](./334861-face-love-face-designer.json) |
+| Face Love! | 177875 | [177875-face-love.json](./177875-face-love.json) |
 | Face of the Killer | 289410 | [289410-face-of-the-killer.json](./289410-face-of-the-killer.json) |
 | Face Raiders | 66060 | [66060-face-raiders.json](./66060-face-raiders.json) |
 | Face The Abyss | 340049 | [340049-face-the-abyss.json](./340049-face-the-abyss.json) |
@@ -3738,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flagged Down | 297076 | [297076-flagged-down.json](./297076-flagged-down.json) |
 | Flaghead | 400219 | [400219-flaghead.json](./400219-flaghead.json) |
 | Flagman | 76972 | [76972-flagman.json](./76972-flagman.json) |
+| Flags For Friends | 177882 | [177882-flags-for-friends.json](./177882-flags-for-friends.json) |
 | Flagship | 61563 | [61563-flagship.json](./61563-flagship.json) |
 | Flagsplosion | 38763 | [38763-flagsplosion.json](./38763-flagsplosion.json) |
 | Flail | 402415 | [402415-flail.json](./402415-flail.json) |
@@ -7342,6 +7344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzzy | 331489 | [331489-fuzzy.json](./331489-fuzzy.json) |
 | Fuzzy Critters | 104644 | [104644-fuzzy-critters.json](./104644-fuzzy-critters.json) |
 | Fuzzy McFluffenstein | 337205 | [337205-fuzzy-mcfluffenstein.json](./337205-fuzzy-mcfluffenstein.json) |
+| Fuzzy Road Home | 177878 | [177878-fuzzy-road-home.json](./177878-fuzzy-road-home.json) |
 | Fuzzy World Cup Qatar 2022 | 312349 | [312349-fuzzy-world-cup-qatar-2022.json](./312349-fuzzy-world-cup-qatar-2022.json) |
 | Fwog | 270189 | [270189-fwog.json](./270189-fwog.json) |
 | Fwosty Poetwy | 179010 | [179010-fwosty-poetwy.json](./179010-fwosty-poetwy.json) |
