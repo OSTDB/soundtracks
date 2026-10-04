@@ -1575,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patchworkz!: X-maz! | 185696 | [185696-patchworkz-x-maz.json](./185696-patchworkz-x-maz.json) |
 | Patchworld | 316399 | [316399-patchworld.json](./316399-patchworld.json) |
 | Patchy Matchy | 307853 | [307853-patchy-matchy.json](./307853-patchy-matchy.json) |
+| Patchy Patients | 177285 | [177285-patchy-patients.json](./177285-patchy-patients.json) |
 | Patent Blaster | 60079 | [60079-patent-blaster.json](./60079-patent-blaster.json) |
 | Patent9 | 90117 | [90117-patent9.json](./90117-patent9.json) |
 | Path Ball | 341590 | [341590-path-ball.json](./341590-path-ball.json) |
@@ -5199,6 +5200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plaza Sesamo Erase una vez un Monstruo | 209356 | [209356-plaza-sesamo-erase-una-vez-un-monstruo.json](./209356-plaza-sesamo-erase-una-vez-un-monstruo.json) |
 | PlazaSoup | 408908 | [408908-plazasoup.json](./408908-plazasoup.json) |
 | Plazma Burst: Forward to the Past | 124039 | [124039-plazma-burst-forward-to-the-past.json](./124039-plazma-burst-forward-to-the-past.json) |
+| Plead with the Mountain God | 177293 | [177293-plead-with-the-mountain-god.json](./177293-plead-with-the-mountain-god.json) |
 | Please | 134675 | [134675-please.json](./134675-please.json) |
 | Please (Don't) Touch the Art | 276478 | [276478-please-dont-touch-the-art.json](./276478-please-dont-touch-the-art.json) |
 | Please Answer Carefully | 176488 | [176488-please-answer-carefully.json](./176488-please-answer-carefully.json) |
@@ -7401,6 +7403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Neko | 159243 | [159243-pretty-neko.json](./159243-pretty-neko.json) |
 | Pretty Ninja Himekage | 220327 | [220327-pretty-ninja-himekage.json](./220327-pretty-ninja-himekage.json) |
 | Pretty Overseer | 232964 | [232964-pretty-overseer.json](./232964-pretty-overseer.json) |
+| Pretty Please | 177384 | [177384-pretty-please.json](./177384-pretty-please.json) |
 | Pretty Princess Party | 135339 | [135339-pretty-princess-party.json](./135339-pretty-princess-party.json) |
 | Pretty Rhythm: My Deco Rainbow Wedding | 141150 | [141150-pretty-rhythm-my-deco-rainbow-wedding.json](./141150-pretty-rhythm-my-deco-rainbow-wedding.json) |
 | Pretty Safe Airlines | 125480 | [125480-pretty-safe-airlines.json](./125480-pretty-safe-airlines.json) |
