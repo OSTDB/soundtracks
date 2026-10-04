@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Inc. | 224063 | [224063-earth-inc.json](./224063-earth-inc.json) |
 | Earth Invasion | 72085 | [72085-earth-invasion.json](./72085-earth-invasion.json) |
 | Earth Invasion 99 | 354641 | [354641-earth-invasion-99.json](./354641-earth-invasion-99.json) |
+| Earth is too small for me | 192266 | [192266-earth-is-too-small-for-me.json](./192266-earth-is-too-small-for-me.json) |
 | Earth Liberation | 30301 | [30301-earth-liberation.json](./30301-earth-liberation.json) |
 | Earth Light: Luna Strike | 42247 | [42247-earth-light-luna-strike.json](./42247-earth-light-luna-strike.json) |
 | Earth Marines | 153862 | [153862-earth-marines.json](./153862-earth-marines.json) |
@@ -2396,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eRacer | 92816 | [92816-eracer.json](./92816-eracer.json) |
 | Eradicator | 8340 | [8340-eradicator.json](./8340-eradicator.json) |
 | Eradicator Genesis | 384187 | [384187-eradicator-genesis.json](./384187-eradicator-genesis.json) |
+| Erannorth Chronicles: Ancient Ruins | 192263 | [192263-erannorth-chronicles-ancient-ruins.json](./192263-erannorth-chronicles-ancient-ruins.json) |
 | Erannorth Chronicles: Guilds and Secret Societies | 226806 | [226806-erannorth-chronicles-guilds-and-secret-societies.json](./226806-erannorth-chronicles-guilds-and-secret-societies.json) |
 | Erannorth Reborn | 116711 | [116711-erannorth-reborn.json](./116711-erannorth-reborn.json) |
 | Erannorth Reborn: Blood Coven Rise | 168914 | [168914-erannorth-reborn-blood-coven-rise.json](./168914-erannorth-reborn-blood-coven-rise.json) |
@@ -4046,6 +4048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explosive Racing | 44854 | [44854-explosive-racing.json](./44854-explosive-racing.json) |
 | Explosive Shooting Star Beetle | 311809 | [311809-explosive-shooting-star-beetle.json](./311809-explosive-shooting-star-beetle.json) |
 | Explosive Track | 226672 | [226672-explosive-track.json](./226672-explosive-track.json) |
+| Explosiver | 192227 | [192227-explosiver.json](./192227-explosiver.json) |
 | Expo 2020 | 174900 | [174900-expo-2020.json](./174900-expo-2020.json) |
 | Exposed Livestream | 360184 | [360184-exposed-livestream.json](./360184-exposed-livestream.json) |
 | Exposed Reality | 70375 | [70375-exposed-reality.json](./70375-exposed-reality.json) |
