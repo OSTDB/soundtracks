@@ -7900,6 +7900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaktory | 183552 | [183552-breaktory.json](./183552-breaktory.json) |
 | Breakup Squad | 243103 | [243103-breakup-squad.json](./243103-breakup-squad.json) |
 | Breakwaters | 148425 | [148425-breakwaters.json](./148425-breakwaters.json) |
+| Breakyo | 208835 | [208835-breakyo.json](./208835-breakyo.json) |
 | Breath | 141685 | [141685-breath.json](./141685-breath.json) |
 | Breath of Death VII | 16259 | [16259-breath-of-death-vii.json](./16259-breath-of-death-vii.json) |
 | Breath of Death VII: The Beginning - Reanimated | 324914 | [324914-breath-of-death-vii-the-beginning-reanimated.json](./324914-breath-of-death-vii-the-beginning-reanimated.json) |
@@ -7907,6 +7908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of Fire III | 18055 | [18055-breath-of-fire-iii.json](./18055-breath-of-fire-iii.json) |
 | Breath of Fire III | 207256 | [207256-breath-of-fire-iii.json](./207256-breath-of-fire-iii.json) |
 | Breath of Ghosts | 203552 | [203552-breath-of-ghosts.json](./203552-breath-of-ghosts.json) |
+| Breath of Ghosts 2 | 208856 | [208856-breath-of-ghosts-2.json](./208856-breath-of-ghosts-2.json) |
 | Breath of Light | 100615 | [100615-breath-of-light.json](./100615-breath-of-light.json) |
 | Breath of Spirits | 152736 | [152736-breath-of-spirits.json](./152736-breath-of-spirits.json) |
 | Breath of the NES | 402394 | [402394-breath-of-the-nes.json](./402394-breath-of-the-nes.json) |
