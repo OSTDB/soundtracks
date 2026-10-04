@@ -1637,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Monsters | 6800 | [6800-king-of-the-monsters.json](./6800-king-of-the-monsters.json) |
 | King of the Mountain: Premium | 174324 | [174324-king-of-the-mountain-premium.json](./174324-king-of-the-mountain-premium.json) |
 | King of the Pit | 165647 | [165647-king-of-the-pit.json](./165647-king-of-the-pit.json) |
+| King of the Raft | 196108 | [196108-king-of-the-raft.json](./196108-king-of-the-raft.json) |
 | King of the Road | 19792 | [19792-king-of-the-road.json](./19792-king-of-the-road.json) |
 | King of the Road | 238642 | [238642-king-of-the-road.json](./238642-king-of-the-road.json) |
 | King of the Sandcastle | 129566 | [129566-king-of-the-sandcastle.json](./129566-king-of-the-sandcastle.json) |
