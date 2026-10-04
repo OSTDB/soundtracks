@@ -3763,6 +3763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Knight | 195123 | [195123-lonely-knight.json](./195123-lonely-knight.json) |
 | Lonely Mountains: Downhill | 29144 | [29144-lonely-mountains-downhill.json](./29144-lonely-mountains-downhill.json) |
 | Lonely Mountains: Downhill - Eldfjall Island | 138241 | [138241-lonely-mountains-downhill-eldfjall-island.json](./138241-lonely-mountains-downhill-eldfjall-island.json) |
+| Lonely Mountains: Downhill - Misty Peak | 202730 | [202730-lonely-mountains-downhill-misty-peak.json](./202730-lonely-mountains-downhill-misty-peak.json) |
 | Lonely Mountains: Downhill - Rivera's Revenge | 274479 | [274479-lonely-mountains-downhill-riveras-revenge.json](./274479-lonely-mountains-downhill-riveras-revenge.json) |
 | Lonely Mountains: Snow Riders - Baifushan | 339953 | [339953-lonely-mountains-snow-riders-baifushan.json](./339953-lonely-mountains-snow-riders-baifushan.json) |
 | Lonely Owl | 335460 | [335460-lonely-owl.json](./335460-lonely-owl.json) |
@@ -4535,6 +4536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Hotel Simulator | 410920 | [410920-love-hotel-simulator.json](./410920-love-hotel-simulator.json) |
 | Love Hues! | 134674 | [134674-love-hues.json](./134674-love-hues.json) |
 | Love Idol Maker | 297014 | [297014-love-idol-maker.json](./297014-love-idol-maker.json) |
+| Love In a Bottle | 202643 | [202643-love-in-a-bottle.json](./202643-love-in-a-bottle.json) |
 | Love In Drawing | 112461 | [112461-love-in-drawing.json](./112461-love-in-drawing.json) |
 | Love in Lockdown: Eli Version | 215772 | [215772-love-in-lockdown-eli-version.json](./215772-love-in-lockdown-eli-version.json) |
 | Love in the Crimson Void | 288898 | [288898-love-in-the-crimson-void.json](./288898-love-in-the-crimson-void.json) |
@@ -4668,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovecraft's Mythos Run | 248055 | [248055-lovecrafts-mythos-run.json](./248055-lovecrafts-mythos-run.json) |
 | Lovecraftian Bundle | 259512 | [259512-lovecraftian-bundle.json](./259512-lovecraftian-bundle.json) |
 | LoveCrafting | 180797 | [180797-lovecrafting.json](./180797-lovecrafting.json) |
+| Loved by King Bs | 202707 | [202707-loved-by-king-bs.json](./202707-loved-by-king-bs.json) |
 | Lovefield General: Back to Work | 105351 | [105351-lovefield-general-back-to-work.json](./105351-lovefield-general-back-to-work.json) |
 | LoveKami -Divinity Stage- | 26541 | [26541-lovekami-divinity-stage.json](./26541-lovekami-divinity-stage.json) |
 | LoveKami Trilogy | 381756 | [381756-lovekami-trilogy.json](./381756-lovekami-trilogy.json) |
