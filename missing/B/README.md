@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bala na Manga | 238994 | [238994-bala-na-manga.json](./238994-bala-na-manga.json) |
 | Balaball | 373012 | [373012-balaball.json](./373012-balaball.json) |
 | Balacera Brothers | 135745 | [135745-balacera-brothers.json](./135745-balacera-brothers.json) |
+| Baladins | 198861 | [198861-baladins.json](./198861-baladins.json) |
 | Balala Dà Zhuǎnhuàn | 359469 | [359469-balala-da-zhuanhuan.json](./359469-balala-da-zhuanhuan.json) |
 | Balam and the Spirit Within | 201325 | [201325-balam-and-the-spirit-within.json](./201325-balam-and-the-spirit-within.json) |
 | Balam: Bounce Hell | 211086 | [211086-balam-bounce-hell.json](./211086-balam-bounce-hell.json) |
