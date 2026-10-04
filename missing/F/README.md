@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fanbots | 183980 | [183980-fanbots.json](./183980-fanbots.json) |
 | Fanciful Diamonds | 359398 | [359398-fanciful-diamonds.json](./359398-fanciful-diamonds.json) |
 | Fancy | 247033 | [247033-fancy.json](./247033-fancy.json) |
+| Fancy Birds | 222207 | [222207-fancy-birds.json](./222207-fancy-birds.json) |
 | Fancy Island | 172735 | [172735-fancy-island.json](./172735-fancy-island.json) |
 | Fancy Match | 246545 | [246545-fancy-match.json](./246545-fancy-match.json) |
 | Fancy Nancy: Tea Party Time! | 66370 | [66370-fancy-nancy-tea-party-time.json](./66370-fancy-nancy-tea-party-time.json) |
@@ -1053,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Life: Origin Island | 225737 | [225737-fantasy-life-origin-island.json](./225737-fantasy-life-origin-island.json) |
 | Fantasy Little Jobs | 135141 | [135141-fantasy-little-jobs.json](./135141-fantasy-little-jobs.json) |
 | Fantasy Mahjong Connect | 154357 | [154357-fantasy-mahjong-connect.json](./154357-fantasy-mahjong-connect.json) |
+| Fantasy Maiden Wars: Dream of the Stray Dreamer | 222370 | [222370-fantasy-maiden-wars-dream-of-the-stray-dreamer.json](./222370-fantasy-maiden-wars-dream-of-the-stray-dreamer.json) |
 | Fantasy Maiden Wars: Scarlet | 138718 | [138718-fantasy-maiden-wars-scarlet.json](./138718-fantasy-maiden-wars-scarlet.json) |
 | Fantasy Maiden's Odd Hideout | 124640 | [124640-fantasy-maidens-odd-hideout.json](./124640-fantasy-maidens-odd-hideout.json) |
 | Fantasy Mercenary Wars | 230964 | [230964-fantasy-mercenary-wars.json](./230964-fantasy-mercenary-wars.json) |
@@ -2562,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Tactics | 428 | [428-final-fantasy-tactics.json](./428-final-fantasy-tactics.json) |
 | Final Fantasy Tactics 1.3 | 159064 | [159064-final-fantasy-tactics-1-3.json](./159064-final-fantasy-tactics-1-3.json) |
 | Final Fantasy Tactics Advance X | 222987 | [222987-final-fantasy-tactics-advance-x.json](./222987-final-fantasy-tactics-advance-x.json) |
+| Final Fantasy Tactics Advanced Battle | 222345 | [222345-final-fantasy-tactics-advanced-battle.json](./222345-final-fantasy-tactics-advanced-battle.json) |
 | Final Fantasy Tactics S | 63312 | [63312-final-fantasy-tactics-s.json](./63312-final-fantasy-tactics-s.json) |
 | Final Fantasy Tactics: The Ivalice Chronicles | 347121 | [347121-final-fantasy-tactics-the-ivalice-chronicles.json](./347121-final-fantasy-tactics-the-ivalice-chronicles.json) |
 | Final Fantasy Tactics: The War of the Lions | 394 | [394-final-fantasy-tactics-the-war-of-the-lions.json](./394-final-fantasy-tactics-the-war-of-the-lions.json) |
