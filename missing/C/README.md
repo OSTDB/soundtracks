@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cambrian Crawl | 404981 | [404981-cambrian-crawl.json](./404981-cambrian-crawl.json) |
 | Cambrian Dawn | 226280 | [226280-cambrian-dawn.json](./226280-cambrian-dawn.json) |
 | Camega | 202808 | [202808-camega.json](./202808-camega.json) |
+| Camel Up | 197715 | [197715-camel-up.json](./197715-camel-up.json) |
 | Camelbirds | 318978 | [318978-camelbirds.json](./318978-camelbirds.json) |
 | Camellia Train | 200530 | [200530-camellia-train.json](./200530-camellia-train.json) |
 | Camelot | 141242 | [141242-camelot.json](./141242-camelot.json) |
@@ -2182,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch'em | 302138 | [302138-catchem.json](./302138-catchem.json) |
 | Catcha | 327398 | [327398-catcha.json](./327398-catcha.json) |
 | Catcha Catcha Aliens! | 61630 | [61630-catcha-catcha-aliens.json](./61630-catcha-catcha-aliens.json) |
+| Catchee | 197694 | [197694-catchee.json](./197694-catchee.json) |
 | Catching | 117654 | [117654-catching.json](./117654-catching.json) |
 | Catching a Ride | 173057 | [173057-catching-a-ride.json](./173057-catching-a-ride.json) |
 | Catching Features | 21465 | [21465-catching-features.json](./21465-catching-features.json) |
@@ -4917,6 +4919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Clans: Clash-O-Ween Season | 317324 | [317324-clash-of-clans-clash-o-ween-season.json](./317324-clash-of-clans-clash-o-ween-season.json) |
 | Clash of Clans: Egypt Season | 317327 | [317327-clash-of-clans-egypt-season.json](./317327-clash-of-clans-egypt-season.json) |
 | Clash of Clans: The North Season | 317335 | [317335-clash-of-clans-the-north-season.json](./317335-clash-of-clans-the-north-season.json) |
+| Clash of Clones: kill birds like a ninja | 197744 | [197744-clash-of-clones-kill-birds-like-a-ninja.json](./197744-clash-of-clones-kill-birds-like-a-ninja.json) |
 | Clash of Coins | 135029 | [135029-clash-of-coins.json](./135029-clash-of-coins.json) |
 | Clash of Critters | 383642 | [383642-clash-of-critters.json](./383642-clash-of-critters.json) |
 | Clash of Digital: Rumble Smash | 241666 | [241666-clash-of-digital-rumble-smash.json](./241666-clash-of-digital-rumble-smash.json) |
@@ -5241,6 +5244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb the Tower | 268185 | [268185-climb-the-tower.json](./268185-climb-the-tower.json) |
 | Climb Up the Down | 158498 | [158498-climb-up-the-down.json](./158498-climb-up-the-down.json) |
 | Climb, Cube, Climb! | 414596 | [414596-climb-cube-climb.json](./414596-climb-cube-climb.json) |
+| Climb! A Mountain in Your Pocket | 197730 | [197730-climb-a-mountain-in-your-pocket.json](./197730-climb-a-mountain-in-your-pocket.json) |
 | Climber | 100578 | [100578-climber.json](./100578-climber.json) |
 | Climber | 125338 | [125338-climber.json](./125338-climber.json) |
 | Climber | 269843 | [269843-climber.json](./269843-climber.json) |
@@ -9869,6 +9873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubix Classic | 67981 | [67981-cubix-classic.json](./67981-cubix-classic.json) |
 | Cubix Robots for Everyone: Showdown | 242806 | [242806-cubix-robots-for-everyone-showdown.json](./242806-cubix-robots-for-everyone-showdown.json) |
 | Cubix Worlds | 215002 | [215002-cubix-worlds.json](./215002-cubix-worlds.json) |
+| Cubix: Match-3 | 197727 | [197727-cubix-match-3.json](./197727-cubix-match-3.json) |
 | Cubix: Robots For Everyone - Race 'N Robots | 49897 | [49897-cubix-robots-for-everyone-race-n-robots.json](./49897-cubix-robots-for-everyone-race-n-robots.json) |
 | Cubixx HD | 20632 | [20632-cubixx-hd.json](./20632-cubixx-hd.json) |
 | Cubiya | 164881 | [164881-cubiya.json](./164881-cubiya.json) |
