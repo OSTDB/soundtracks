@@ -704,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candyz | 206703 | [206703-candyz.json](./206703-candyz.json) |
 | CandyZoo 2 Electric Boogaloo | 133976 | [133976-candyzoo-2-electric-boogaloo.json](./133976-candyzoo-2-electric-boogaloo.json) |
 | Canfield | 83476 | [83476-canfield.json](./83476-canfield.json) |
+| Canfield Solitaire Collection | 211769 | [211769-canfield-solitaire-collection.json](./211769-canfield-solitaire-collection.json) |
 | Canghai Zhuansheng Tan | 348917 | [348917-canghai-zhuansheng-tan.json](./348917-canghai-zhuansheng-tan.json) |
 | Cānghóng Lèi: Nì Tiān Shénhuà | 394183 | [394183-canghong-lei-ni-tian-shenhua.json](./394183-canghong-lei-ni-tian-shenhua.json) |
 | Canidae | 336517 | [336517-canidae.json](./336517-canidae.json) |
@@ -6663,6 +6664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Cats | 226431 | [226431-computer-cats.json](./226431-computer-cats.json) |
 | Computer Chess | 47531 | [47531-computer-chess.json](./47531-computer-chess.json) |
 | Computer Circus Maximus | 72039 | [72039-computer-circus-maximus.json](./72039-computer-circus-maximus.json) |
+| Computer Club | 211646 | [211646-computer-club.json](./211646-computer-club.json) |
 | Computer Diplomacy | 72163 | [72163-computer-diplomacy.json](./72163-computer-diplomacy.json) |
 | Computer Foreign Exchange | 282121 | [282121-computer-foreign-exchange.json](./282121-computer-foreign-exchange.json) |
 | Computer Genealogy Mantra | 294468 | [294468-computer-genealogy-mantra.json](./294468-computer-genealogy-mantra.json) |
