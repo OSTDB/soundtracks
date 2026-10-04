@@ -8977,6 +8977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moses: Old Testament Adventure #1 | 100018 | [100018-moses-old-testament-adventure-1.json](./100018-moses-old-testament-adventure-1.json) |
 | Mosh Lift | 283798 | [283798-mosh-lift.json](./283798-mosh-lift.json) |
 | Mosh Pit Simulator | 109545 | [109545-mosh-pit-simulator.json](./109545-mosh-pit-simulator.json) |
+| Moshcave | 216709 | [216709-moshcave.json](./216709-moshcave.json) |
 | Moshi Monsters | 349990 | [349990-moshi-monsters.json](./349990-moshi-monsters.json) |
 | Moshi Monsters: Buster's Lost Moshlings | 96897 | [96897-moshi-monsters-busters-lost-moshlings.json](./96897-moshi-monsters-busters-lost-moshlings.json) |
 | Moshi Monsters: Moshlings Theme Park | 47658 | [47658-moshi-monsters-moshlings-theme-park.json](./47658-moshi-monsters-moshlings-theme-park.json) |
