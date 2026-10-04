@@ -4015,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RiiPlay | 294784 | [294784-riiplay.json](./294784-riiplay.json) |
 | Rika Suzuki | 97328 | [97328-rika-suzuki.json](./97328-rika-suzuki.json) |
 | Riki 8Bit Game Collection | 322554 | [322554-riki-8bit-game-collection.json](./322554-riki-8bit-game-collection.json) |
+| Riki's Risky Ride | 192261 | [192261-rikis-risky-ride.json](./192261-rikis-risky-ride.json) |
 | Rikki Kuu | 220708 | [220708-rikki-kuu.json](./220708-rikki-kuu.json) |
 | Riku to Johan: Kaeta Nimai no E | 123407 | [123407-riku-to-johan-kaeta-nimai-no-e.json](./123407-riku-to-johan-kaeta-nimai-no-e.json) |
 | Rilakkuma Farm | 284426 | [284426-rilakkuma-farm.json](./284426-rilakkuma-farm.json) |
