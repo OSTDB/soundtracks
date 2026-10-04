@@ -995,6 +995,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanglewood | 104602 | [104602-tanglewood.json](./104602-tanglewood.json) |
 | Tango | 321121 | [321121-tango.json](./321121-tango.json) |
 | Tango Fiesta | 9459 | [9459-tango-fiesta.json](./9459-tango-fiesta.json) |
+| Tango Race: Nou Training Kotoba Game | 208851 | [208851-tango-race-nou-training-kotoba-game.json](./208851-tango-race-nou-training-kotoba-game.json) |
+| Tango Survival: Omoshiroi Kotoba Game | 208852 | [208852-tango-survival-omoshiroi-kotoba-game.json](./208852-tango-survival-omoshiroi-kotoba-game.json) |
 | Tangol | 125945 | [125945-tangol.json](./125945-tangol.json) |
 | Tangoo & Ullashong | 374087 | [374087-tangoo-and-ullashong.json](./374087-tangoo-and-ullashong.json) |
 | Tangram | 208373 | [208373-tangram.json](./208373-tangram.json) |
@@ -7141,6 +7143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Marvellous Miss Take | 8780 | [8780-the-marvellous-miss-take.json](./8780-the-marvellous-miss-take.json) |
 | The Marvelous Misadventures of Flapjack: Bottle Cap'n | 259724 | [259724-the-marvelous-misadventures-of-flapjack-bottle-capn.json](./259724-the-marvelous-misadventures-of-flapjack-bottle-capn.json) |
 | The Marvelous Raincaster of Yell Holler | 402520 | [402520-the-marvelous-raincaster-of-yell-holler.json](./402520-the-marvelous-raincaster-of-yell-holler.json) |
+| The Marvelous Snail | 208849 | [208849-the-marvelous-snail.json](./208849-the-marvelous-snail.json) |
 | The Mask Game | 278993 | [278993-the-mask-game.json](./278993-the-mask-game.json) |
 | The Mask of Agnosia | 399720 | [399720-the-mask-of-agnosia.json](./399720-the-mask-of-agnosia.json) |
 | The Mask of Zorro | 199024 | [199024-the-mask-of-zorro.json](./199024-the-mask-of-zorro.json) |
@@ -10397,6 +10400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Shop | 163202 | [163202-thief-shop.json](./163202-thief-shop.json) |
 | Thief Simulator | 61616 | [61616-thief-simulator.json](./61616-thief-simulator.json) |
 | Thief Simulator VR | 114932 | [114932-thief-simulator-vr.json](./114932-thief-simulator-vr.json) |
+| Thief Simulator VR: Greenview Street | 208840 | [208840-thief-simulator-vr-greenview-street.json](./208840-thief-simulator-vr-greenview-street.json) |
 | Thief Simulator: Luxury Houses | 193192 | [193192-thief-simulator-luxury-houses.json](./193192-thief-simulator-luxury-houses.json) |
 | Thief Simulator: Mastermind Edition | 362344 | [362344-thief-simulator-mastermind-edition.json](./362344-thief-simulator-mastermind-edition.json) |
 | Thief VR: Legacy of Shadow | 347124 | [347124-thief-vr-legacy-of-shadow.json](./347124-thief-vr-legacy-of-shadow.json) |
@@ -12575,6 +12579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Core | 261974 | [261974-to-the-core.json](./261974-to-the-core.json) |
 | To the Core | 307614 | [307614-to-the-core.json](./307614-to-the-core.json) |
 | To the Cosmos | 144227 | [144227-to-the-cosmos.json](./144227-to-the-cosmos.json) |
+| To the couple two rows in front of us | 208868 | [208868-to-the-couple-two-rows-in-front-of-us.json](./208868-to-the-couple-two-rows-in-front-of-us.json) |
 | To the Crown | 182530 | [182530-to-the-crown.json](./182530-to-the-crown.json) |
 | To The Dark Tower | 119006 | [119006-to-the-dark-tower.json](./119006-to-the-dark-tower.json) |
 | To the Dungeon! | 255075 | [255075-to-the-dungeon.json](./255075-to-the-dungeon.json) |
