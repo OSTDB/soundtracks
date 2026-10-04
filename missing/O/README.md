@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Burning Blood - Platinum Luffy | 171051 | [171051-one-piece-burning-blood-platinum-luffy.json](./171051-one-piece-burning-blood-platinum-luffy.json) |
 | One Piece: Burning Blood - Wanted | 171048 | [171048-one-piece-burning-blood-wanted.json](./171048-one-piece-burning-blood-wanted.json) |
 | One Piece: Burning Blood - Wanted 2 | 171050 | [171050-one-piece-burning-blood-wanted-2.json](./171050-one-piece-burning-blood-wanted-2.json) |
+| One Piece: Burning Will | 174715 | [174715-one-piece-burning-will.json](./174715-one-piece-burning-will.json) |
 | One Piece: Chopper no Daibouken | 75751 | [75751-one-piece-chopper-no-daibouken.json](./75751-one-piece-chopper-no-daibouken.json) |
 | One Piece: Dai Kaizoku Colosseum | 58468 | [58468-one-piece-dai-kaizoku-colosseum.json](./58468-one-piece-dai-kaizoku-colosseum.json) |
 | One Piece: Dai Kaizoku Colosseum | 75835 | [75835-one-piece-dai-kaizoku-colosseum.json](./75835-one-piece-dai-kaizoku-colosseum.json) |
@@ -1414,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Punch Man: A Hero Nobody Knows DLC Pack 3 - Watchdog Man | 134064 | [134064-one-punch-man-a-hero-nobody-knows-dlc-pack-3-watchdog-man.json](./134064-one-punch-man-a-hero-nobody-knows-dlc-pack-3-watchdog-man.json) |
 | One Punch Man: A Hero Nobody Knows DLC Pack 4 - Garou | 134065 | [134065-one-punch-man-a-hero-nobody-knows-dlc-pack-4-garou.json](./134065-one-punch-man-a-hero-nobody-knows-dlc-pack-4-garou.json) |
 | One Punch Man: The Strongest Man | 122990 | [122990-one-punch-man-the-strongest-man.json](./122990-one-punch-man-the-strongest-man.json) |
+| One Punch Man: World | 174694 | [174694-one-punch-man-world.json](./174694-one-punch-man-world.json) |
 | One Putt Wonder | 181709 | [181709-one-putt-wonder.json](./181709-one-putt-wonder.json) |
 | One Py Berry Match | 97317 | [97317-one-py-berry-match.json](./97317-one-py-berry-match.json) |
 | One Question and You'll Want to Share It! 1000 Trivia Quiz Questions | 409554 | [409554-one-question-and-youll-want-to-share-it-1000-trivia-quiz-questions.json](./409554-one-question-and-youll-want-to-share-it-1000-trivia-quiz-questions.json) |
@@ -1567,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oni: Road to be the Mightiest Oni | 194944 | [194944-oni-road-to-be-the-mightiest-oni.json](./194944-oni-road-to-be-the-mightiest-oni.json) |
 | Onigami | 184562 | [184562-onigami.json](./184562-onigami.json) |
 | Onigashima: Awakening | 406103 | [406103-onigashima-awakening.json](./406103-onigashima-awakening.json) |
+| Onigiri Heroes | 174699 | [174699-onigiri-heroes.json](./174699-onigiri-heroes.json) |
 | Onigiri Run | 351781 | [351781-onigiri-run.json](./351781-onigiri-run.json) |
 | Onigiri Shop Simulator | 361911 | [361911-onigiri-shop-simulator.json](./361911-onigiri-shop-simulator.json) |
 | Onigo Hunter | 133618 | [133618-onigo-hunter.json](./133618-onigo-hunter.json) |
@@ -2284,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orun | 411713 | [411713-orun.json](./411713-orun.json) |
 | Oruna | 139420 | [139420-oruna.json](./139420-oruna.json) |
 | Orwell: Ignorance Is Strength - Deluxe Edition | 227187 | [227187-orwell-ignorance-is-strength-deluxe-edition.json](./227187-orwell-ignorance-is-strength-deluxe-edition.json) |
+| Orzmic | 174689 | [174689-orzmic.json](./174689-orzmic.json) |
 | Os Cavaleiros do Zodíaco: A Lenda do Santuário - Cosmo Cards | 282131 | [282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json](./282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json) |
 | Os Trapalhões apresentam Didi na Mina Encantada! | 262416 | [262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json](./262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json) |
 | OS:Memories | 203179 | [203179-os-memories.json](./203179-os-memories.json) |
