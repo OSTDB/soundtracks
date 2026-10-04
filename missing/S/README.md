@@ -2460,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Heart | 399771 | [399771-secrets-of-the-heart.json](./399771-secrets-of-the-heart.json) |
 | Secrets of the Heartbeat | 302353 | [302353-secrets-of-the-heartbeat.json](./302353-secrets-of-the-heartbeat.json) |
 | Secrets of the Lost Tomb | 165626 | [165626-secrets-of-the-lost-tomb.json](./165626-secrets-of-the-lost-tomb.json) |
+| Secrets of the Mansion | 184442 | [184442-secrets-of-the-mansion.json](./184442-secrets-of-the-mansion.json) |
 | Secrets of the Middle Ages | 165660 | [165660-secrets-of-the-middle-ages.json](./165660-secrets-of-the-middle-ages.json) |
 | Secrets of the Shore | 293839 | [293839-secrets-of-the-shore.json](./293839-secrets-of-the-shore.json) |
 | Secrets of the Temple | 193416 | [193416-secrets-of-the-temple.json](./193416-secrets-of-the-temple.json) |
@@ -2696,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seibu Keisatsu | 346045 | [346045-seibu-keisatsu.json](./346045-seibu-keisatsu.json) |
 | Seibu Keisatsu Part-III | 346046 | [346046-seibu-keisatsu-part-iii.json](./346046-seibu-keisatsu-part-iii.json) |
 | Seicross | 40408 | [40408-seicross.json](./40408-seicross.json) |
+| Seidkona: A Tale of Death and Dice | 184428 | [184428-seidkona-a-tale-of-death-and-dice.json](./184428-seidkona-a-tale-of-death-and-dice.json) |
 | Seifuku Densetsu Pretty Fighter X | 64982 | [64982-seifuku-densetsu-pretty-fighter-x.json](./64982-seifuku-densetsu-pretty-fighter-x.json) |
 | Seifuku Kanojo 2 | 332551 | [332551-seifuku-kanojo-2.json](./332551-seifuku-kanojo-2.json) |
 | Seifuku Kanojo 2: Free DLC Act.1 - Yahiro Mio | 375369 | [375369-seifuku-kanojo-2-free-dlc-act-1-yahiro-mio.json](./375369-seifuku-kanojo-2-free-dlc-act-1-yahiro-mio.json) |
@@ -3216,6 +3218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Photos | 122945 | [122945-seven-photos.json](./122945-seven-photos.json) |
 | Seven Pirates H | 192281 | [192281-seven-pirates-h.json](./192281-seven-pirates-h.json) |
 | Seven Sacrifices | 107402 | [107402-seven-sacrifices.json](./107402-seven-sacrifices.json) |
+| Seven Seasonings | 184449 | [184449-seven-seasonings.json](./184449-seven-seasonings.json) |
 | Seven Sins: Academic Version | 112933 | [112933-seven-sins-academic-version.json](./112933-seven-sins-academic-version.json) |
 | Seven Skies to Paradise | 219601 | [219601-seven-skies-to-paradise.json](./219601-seven-skies-to-paradise.json) |
 | Seven Stars 3D | 381261 | [381261-seven-stars-3d.json](./381261-seven-stars-3d.json) |
@@ -4795,6 +4798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Till You Meet Death | 390624 | [390624-shoot-till-you-meet-death.json](./390624-shoot-till-you-meet-death.json) |
 | Shoot to Escape | 231901 | [231901-shoot-to-escape.json](./231901-shoot-to-escape.json) |
 | Shoot to Pleasure | 310735 | [310735-shoot-to-pleasure.json](./310735-shoot-to-pleasure.json) |
+| Shoot to Slide | 184427 | [184427-shoot-to-slide.json](./184427-shoot-to-slide.json) |
 | Shoot Your Friends | 154562 | [154562-shoot-your-friends.json](./154562-shoot-your-friends.json) |
 | Shoot Yourself With a Rifle | 336531 | [336531-shoot-yourself-with-a-rifle.json](./336531-shoot-yourself-with-a-rifle.json) |
 | Shoot-No-Shoot | 107805 | [107805-shoot-no-shoot.json](./107805-shoot-no-shoot.json) |
@@ -11754,6 +11758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Castle | 47235 | [47235-spooky-castle.json](./47235-spooky-castle.json) |
 | Spooky Chase | 136485 | [136485-spooky-chase.json](./136485-spooky-chase.json) |
 | Spooky Dating Sim | 374222 | [374222-spooky-dating-sim.json](./374222-spooky-dating-sim.json) |
+| Spooky Dice | 184443 | [184443-spooky-dice.json](./184443-spooky-dice.json) |
 | Spooky Dwellers 2: Collector's Edition | 272350 | [272350-spooky-dwellers-2-collectors-edition.json](./272350-spooky-dwellers-2-collectors-edition.json) |
 | Spooky Dwellers 4 | 418536 | [418536-spooky-dwellers-4.json](./418536-spooky-dwellers-4.json) |
 | Spooky Dwellers 4: Collector's Edition | 378357 | [378357-spooky-dwellers-4-collectors-edition.json](./378357-spooky-dwellers-4-collectors-edition.json) |
@@ -13457,6 +13462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Start Survey? | 177427 | [177427-start-survey.json](./177427-start-survey.json) |
 | Start the Enchanted Books | 91088 | [91088-start-the-enchanted-books.json](./91088-start-the-enchanted-books.json) |
 | Start the Party! Save the World! | 20731 | [20731-start-the-party-save-the-world.json](./20731-start-the-party-save-the-world.json) |
+| Start with no dice | 184440 | [184440-start-with-no-dice.json](./184440-start-with-no-dice.json) |
 | Start Your Engines Bundle | 173789 | [173789-start-your-engines-bundle.json](./173789-start-your-engines-bundle.json) |
 | Start-Up | 57654 | [57654-start-up.json](./57654-start-up.json) |
 | Start! Heart Thief | 165011 | [165011-start-heart-thief.json](./165011-start-heart-thief.json) |
@@ -14130,6 +14136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Business: Seaside Tales | 411002 | [411002-sticky-business-seaside-tales.json](./411002-sticky-business-seaside-tales.json) |
 | Sticky Castle | 232031 | [232031-sticky-castle.json](./232031-sticky-castle.json) |
 | Sticky Date | 373164 | [373164-sticky-date.json](./373164-sticky-date.json) |
+| Sticky Friends | 184368 | [184368-sticky-friends.json](./184368-sticky-friends.json) |
 | Sticky Keys | 178986 | [178986-sticky-keys.json](./178986-sticky-keys.json) |
 | Sticky Ninja Academy | 286647 | [286647-sticky-ninja-academy.json](./286647-sticky-ninja-academy.json) |
 | Sticky Pigeons | 177023 | [177023-sticky-pigeons.json](./177023-sticky-pigeons.json) |
@@ -14141,6 +14148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Zeitgeist: Episode 3 - A Trick With Ants | 178505 | [178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json](./178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json) |
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
 | Stickyban | 338736 | [338736-stickyban.json](./338736-stickyban.json) |
+| Stien | 184450 | [184450-stien.json](./184450-stien.json) |
 | Stifled | 31655 | [31655-stifled.json](./31655-stifled.json) |
 | Stig | 295541 | [295541-stig.json](./295541-stig.json) |
 | Stigma: The Salem Legacy | 373686 | [373686-stigma-the-salem-legacy.json](./373686-stigma-the-salem-legacy.json) |
@@ -17289,6 +17297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Slam Dunk Touchdown | 27664 | [27664-super-slam-dunk-touchdown.json](./27664-super-slam-dunk-touchdown.json) |
 | Super Slap Shot | 94561 | [94561-super-slap-shot.json](./94561-super-slap-shot.json) |
 | Super Slide 64 | 135179 | [135179-super-slide-64.json](./135179-super-slide-64.json) |
+| Super Slime Adventure | 184367 | [184367-super-slime-adventure.json](./184367-super-slime-adventure.json) |
 | Super Slime Arena | 69486 | [69486-super-slime-arena.json](./69486-super-slime-arena.json) |
 | Super Slime Blitz: Gumball | 102603 | [102603-super-slime-blitz-gumball.json](./102603-super-slime-blitz-gumball.json) |
 | Super Slime Boy | 335956 | [335956-super-slime-boy.json](./335956-super-slime-boy.json) |
