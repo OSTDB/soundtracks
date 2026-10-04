@@ -2274,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Library of Babel | 389018 | [389018-library-of-babel.json](./389018-library-of-babel.json) |
 | Library of Ruina | 131760 | [131760-library-of-ruina.json](./131760-library-of-ruina.json) |
 | Library of Souls | 183568 | [183568-library-of-souls.json](./183568-library-of-souls.json) |
+| Libre TrainSim | 184426 | [184426-libre-trainsim.json](./184426-libre-trainsim.json) |
 | Librerama | 176992 | [176992-librerama.json](./176992-librerama.json) |
 | Libretta | 56129 | [56129-libretta.json](./56129-libretta.json) |
 | Libritopia: Librarian Simulator | 326949 | [326949-libritopia-librarian-simulator.json](./326949-libritopia-librarian-simulator.json) |
