@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Classics: Syndicate Wars & Dark Omen | 214455 | [214455-ea-classics-syndicate-wars-and-dark-omen.json](./214455-ea-classics-syndicate-wars-and-dark-omen.json) |
 | EA Create: Snap | 331966 | [331966-ea-create-snap.json](./331966-ea-create-snap.json) |
 | EA Mahjong | 79875 | [79875-ea-mahjong.json](./79875-ea-mahjong.json) |
+| EA Playground | 175780 | [175780-ea-playground.json](./175780-ea-playground.json) |
 | EA Replay 2 | 209176 | [209176-ea-replay-2.json](./209176-ea-replay-2.json) |
 | EA Sports | 220088 | [220088-ea-sports.json](./220088-ea-sports.json) |
 | EA Sports Active 2.0 | 47422 | [47422-ea-sports-active-2-0.json](./47422-ea-sports-active-2-0.json) |
