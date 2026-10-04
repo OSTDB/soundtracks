@@ -2806,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senda Salvaje | 272301 | [272301-senda-salvaje.json](./272301-senda-salvaje.json) |
 | Sender Unknown: The Woods | 74404 | [74404-sender-unknown-the-woods.json](./74404-sender-unknown-the-woods.json) |
 | Senderos de Fugüm | 326606 | [326606-senderos-de-fugum.json](./326606-senderos-de-fugum.json) |
+| Seneca 7: A Cyberpunk Odyssey | 201643 | [201643-seneca-7-a-cyberpunk-odyssey.json](./201643-seneca-7-a-cyberpunk-odyssey.json) |
 | Senet | 71209 | [71209-senet.json](./71209-senet.json) |
 | Senet Deluxe | 99975 | [99975-senet-deluxe.json](./99975-senet-deluxe.json) |
 | Sengoku | 5433 | [5433-sengoku.json](./5433-sengoku.json) |
@@ -6835,6 +6836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleeping With the Phish | 391178 | [391178-sleeping-with-the-phish.json](./391178-sleeping-with-the-phish.json) |
 | Sleeping: Counting Sheep | 321503 | [321503-sleeping-counting-sheep.json](./321503-sleeping-counting-sheep.json) |
 | SleepingPills | 383515 | [383515-sleepingpills.json](./383515-sleepingpills.json) |
+| Sleepless | 201637 | [201637-sleepless.json](./201637-sleepless.json) |
 | Sleepless Cinderella: Party | 298884 | [298884-sleepless-cinderella-party.json](./298884-sleepless-cinderella-party.json) |
 | Sleepless in the Sapphire City | 299864 | [299864-sleepless-in-the-sapphire-city.json](./299864-sleepless-in-the-sapphire-city.json) |
 | Sleepless Night | 172485 | [172485-sleepless-night.json](./172485-sleepless-night.json) |
@@ -7302,6 +7304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Wars: Mohicans | 294376 | [294376-small-wars-mohicans.json](./294376-small-wars-mohicans.json) |
 | Small World | 217779 | [217779-small-world.json](./217779-small-world.json) |
 | Small World | 272927 | [272927-small-world.json](./272927-small-world.json) |
+| Small Worlds | 201612 | [201612-small-worlds.json](./201612-small-worlds.json) |
 | Smalland: Survive the Wilds VR | 299752 | [299752-smalland-survive-the-wilds-vr.json](./299752-smalland-survive-the-wilds-vr.json) |
 | Smalls Island Woes | 177341 | [177341-smalls-island-woes.json](./177341-smalls-island-woes.json) |
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
