@@ -3343,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alight: Lunar Survival | 215780 | [215780-alight-lunar-survival.json](./215780-alight-lunar-survival.json) |
 | Align 12 | 242662 | [242662-align-12.json](./242662-align-12.json) |
 | Align 4 Big | 355147 | [355147-align-4-big.json](./355147-align-4-big.json) |
+| Align Q | 185489 | [185489-align-q.json](./185489-align-q.json) |
 | Aligned | 205115 | [205115-aligned.json](./205115-aligned.json) |
 | Alignment Zero | 397269 | [397269-alignment-zero.json](./397269-alignment-zero.json) |
 | Alik: Gry i zabawy | 188569 | [188569-alik-gry-i-zabawy.json](./188569-alik-gry-i-zabawy.json) |
@@ -4183,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ameshidama | 361918 | [361918-ameshidama.json](./361918-ameshidama.json) |
 | Amethlion | 105771 | [105771-amethlion.json](./105771-amethlion.json) |
 | Amethyst Hearth | 194410 | [194410-amethyst-hearth.json](./194410-amethyst-hearth.json) |
+| Amethyst Waters | 185495 | [185495-amethyst-waters.json](./185495-amethyst-waters.json) |
 | Ametrine Dreams | 382192 | [382192-ametrine-dreams.json](./382192-ametrine-dreams.json) |
 | AMF Bowling | 206115 | [206115-amf-bowling.json](./206115-amf-bowling.json) |
 | AMF Bowling 2004 | 5723 | [5723-amf-bowling-2004.json](./5723-amf-bowling-2004.json) |
