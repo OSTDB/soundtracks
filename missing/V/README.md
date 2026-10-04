@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Survivors: The Darkasso | 316619 | [316619-vampire-survivors-the-darkasso.json](./316619-vampire-survivors-the-darkasso.json) |
 | Vampire Survivors: Whiteout | 272828 | [272828-vampire-survivors-whiteout.json](./272828-vampire-survivors-whiteout.json) |
 | Vampire Survivors+ | 357404 | [357404-vampire-survivors.json](./357404-vampire-survivors.json) |
+| Vampire Sweetie | 203779 | [203779-vampire-sweetie.json](./203779-vampire-sweetie.json) |
 | Vampire Therapist | 288502 | [288502-vampire-therapist.json](./288502-vampire-therapist.json) |
 | Vampire Therapist: Complete Edition | 403560 | [403560-vampire-therapist-complete-edition.json](./403560-vampire-therapist-complete-edition.json) |
 | Vampire Therapist: Couples Therapy | 398340 | [398340-vampire-therapist-couples-therapy.json](./398340-vampire-therapist-couples-therapy.json) |
