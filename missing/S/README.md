@@ -6425,6 +6425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Patrol | 40793 | [40793-sky-patrol.json](./40793-sky-patrol.json) |
 | Sky Pirates of Actorius | 129101 | [129101-sky-pirates-of-actorius.json](./129101-sky-pirates-of-actorius.json) |
 | Sky Plankers | 28195 | [28195-sky-plankers.json](./28195-sky-plankers.json) |
+| Sky Puzzle | 220703 | [220703-sky-puzzle.json](./220703-sky-puzzle.json) |
 | Sky Races | 186909 | [186909-sky-races.json](./186909-sky-races.json) |
 | Sky Racket | 115006 | [115006-sky-racket.json](./115006-sky-racket.json) |
 | Sky Reach | 382347 | [382347-sky-reach.json](./382347-sky-reach.json) |
@@ -6596,6 +6597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slalom | 378177 | [378177-slalom.json](./378177-slalom.json) |
 | Slam 'N Jam | 20708 | [20708-slam-n-jam.json](./20708-slam-n-jam.json) |
 | Slam 'n Jam 95 | 39017 | [39017-slam-n-jam-95.json](./39017-slam-n-jam-95.json) |
+| Slam and Roll | 220702 | [220702-slam-and-roll.json](./220702-slam-and-roll.json) |
 | Slam City with Scottie Pippen | 298559 | [298559-slam-city-with-scottie-pippen.json](./298559-slam-city-with-scottie-pippen.json) |
 | Slam Dunk | 92986 | [92986-slam-dunk.json](./92986-slam-dunk.json) |
 | Slam Dunk - The best basketball game 2018 | 106631 | [106631-slam-dunk-the-best-basketball-game-2018.json](./106631-slam-dunk-the-best-basketball-game-2018.json) |
@@ -6652,6 +6654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slasher Lock | 184593 | [184593-slasher-lock.json](./184593-slasher-lock.json) |
 | Slasher: Origins | 319761 | [319761-slasher-origins.json](./319761-slasher-origins.json) |
 | SlasherRPG | 224515 | [224515-slasherrpg.json](./224515-slasherrpg.json) |
+| Slashers: Great Circus | 220701 | [220701-slashers-great-circus.json](./220701-slashers-great-circus.json) |
 | Slashing Knight | 403053 | [403053-slashing-knight.json](./403053-slashing-knight.json) |
 | Slashing Night | 340365 | [340365-slashing-night.json](./340365-slashing-night.json) |
 | Slashing Samurai | 181779 | [181779-slashing-samurai.json](./181779-slashing-samurai.json) |
@@ -6684,6 +6687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slave Zero X: Digital Deluxe Edition | 277028 | [277028-slave-zero-x-digital-deluxe-edition.json](./277028-slave-zero-x-digital-deluxe-edition.json) |
 | Slave's Sword 2 ~Imperial Revolution~ | 113818 | [113818-slaves-sword-2-imperial-revolution.json](./113818-slaves-sword-2-imperial-revolution.json) |
 | Slaveblade | 121774 | [121774-slaveblade.json](./121774-slaveblade.json) |
+| Slaves | 220688 | [220688-slaves.json](./220688-slaves.json) |
 | Slaves to Armok: God of Blood | 60084 | [60084-slaves-to-armok-god-of-blood.json](./60084-slaves-to-armok-god-of-blood.json) |
 | Slavic Gods Rodnoverie | 298304 | [298304-slavic-gods-rodnoverie.json](./298304-slavic-gods-rodnoverie.json) |
 | Slavic Mythology Creatures | 297650 | [297650-slavic-mythology-creatures.json](./297650-slavic-mythology-creatures.json) |
