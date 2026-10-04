@@ -2570,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Grooming Studio | 293207 | [293207-pet-grooming-studio.json](./293207-pet-grooming-studio.json) |
 | Pet Hero vs. Zombie | 341119 | [341119-pet-hero-vs-zombie.json](./341119-pet-hero-vs-zombie.json) |
 | Pet Hotel Tycoon | 25066 | [25066-pet-hotel-tycoon.json](./25066-pet-hotel-tycoon.json) |
+| Pet idle | 189005 | [189005-pet-idle.json](./189005-pet-idle.json) |
 | Pet Kawaii Shop | 317211 | [317211-pet-kawaii-shop.json](./317211-pet-kawaii-shop.json) |
 | Pet Knight into cave | 161262 | [161262-pet-knight-into-cave.json](./161262-pet-knight-into-cave.json) |
 | Pet Luv Spa and Resort Tycoon | 254594 | [254594-pet-luv-spa-and-resort-tycoon.json](./254594-pet-luv-spa-and-resort-tycoon.json) |
@@ -3784,6 +3785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong Cup | 247065 | [247065-ping-pong-cup.json](./247065-ping-pong-cup.json) |
 | Ping Pong League | 32252 | [32252-ping-pong-league.json](./32252-ping-pong-league.json) |
 | Ping Pong Pow | 23605 | [23605-ping-pong-pow.json](./23605-ping-pong-pow.json) |
+| Ping Pong Pufferfish | 188985 | [188985-ping-pong-pufferfish.json](./188985-ping-pong-pufferfish.json) |
 | Ping Pong Space | 130965 | [130965-ping-pong-space.json](./130965-ping-pong-space.json) |
 | Ping Pong Trick Shot | 56779 | [56779-ping-pong-trick-shot.json](./56779-ping-pong-trick-shot.json) |
 | Ping Pong Trick Shot 2 | 84823 | [84823-ping-pong-trick-shot-2.json](./84823-ping-pong-trick-shot-2.json) |
@@ -6315,6 +6317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygon Flight | 89572 | [89572-polygon-flight.json](./89572-polygon-flight.json) |
 | Polygon Hunter VR | 186843 | [186843-polygon-hunter-vr.json](./186843-polygon-hunter-vr.json) |
 | Polygon Mayhem | 411736 | [411736-polygon-mayhem.json](./411736-polygon-mayhem.json) |
+| Polygon of Reality | 188998 | [188998-polygon-of-reality.json](./188998-polygon-of-reality.json) |
 | Polygon Race | 262932 | [262932-polygon-race.json](./262932-polygon-race.json) |
 | Polygon Survival | 269111 | [269111-polygon-survival.json](./269111-polygon-survival.json) |
 | Polygon War | 406163 | [406163-polygon-war.json](./406163-polygon-war.json) |
@@ -9215,6 +9218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pushpully | 261222 | [261222-pushpully.json](./261222-pushpully.json) |
 | Pushy | 354009 | [354009-pushy.json](./354009-pushy.json) |
 | Pushy II | 295992 | [295992-pushy-ii.json](./295992-pushy-ii.json) |
+| Pushy Worm | 189004 | [189004-pushy-worm.json](./189004-pushy-worm.json) |
 | Pusoy Go | 386225 | [386225-pusoy-go.json](./386225-pusoy-go.json) |
 | Puss 'n Boots: Pero's Great Adventure | 48219 | [48219-puss-n-boots-peros-great-adventure.json](./48219-puss-n-boots-peros-great-adventure.json) |
 | Puss in Book: Trapped in an Epic Tale | 256844 | [256844-puss-in-book-trapped-in-an-epic-tale.json](./256844-puss-in-book-trapped-in-an-epic-tale.json) |
