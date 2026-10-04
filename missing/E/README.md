@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Cid | 13629 | [13629-el-cid.json](./13629-el-cid.json) |
 | El Coco | 353884 | [353884-el-coco.json](./353884-el-coco.json) |
 | El Conquista | 362410 | [362410-el-conquista.json](./362410-el-conquista.json) |
+| El Dorado | 214994 | [214994-el-dorado.json](./214994-el-dorado.json) |
 | El Dorado | 312880 | [312880-el-dorado.json](./312880-el-dorado.json) |
 | El gaucho Martín Fierro | 340035 | [340035-el-gaucho-martin-fierro.json](./340035-el-gaucho-martin-fierro.json) |
 | El Hero | 333227 | [333227-el-hero.json](./333227-el-hero.json) |
