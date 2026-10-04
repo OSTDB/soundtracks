@@ -3884,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graceful Flying Vehicle | 368548 | [368548-graceful-flying-vehicle.json](./368548-graceful-flying-vehicle.json) |
 | Graceward: Complete Edition | 231490 | [231490-graceward-complete-edition.json](./231490-graceward-complete-edition.json) |
 | Gracia | 301844 | [301844-gracia.json](./301844-gracia.json) |
+| Gracie & Mike: Interstellar Mercenary Exterminators | 176771 | [176771-gracie-and-mike-interstellar-mercenary-exterminators.json](./176771-gracie-and-mike-interstellar-mercenary-exterminators.json) |
 | Grackon's Curse | 117020 | [117020-grackons-curse.json](./117020-grackons-curse.json) |
 | Grade Sword | 245883 | [245883-grade-sword.json](./245883-grade-sword.json) |
 | Grader Simulator: Road Work | 231948 | [231948-grader-simulator-road-work.json](./231948-grader-simulator-road-work.json) |
