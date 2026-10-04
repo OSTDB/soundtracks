@@ -6265,6 +6265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Freak Part 1 | 334875 | [334875-dont-freak-part-1.json](./334875-dont-freak-part-1.json) |
 | Don't Fret | 289433 | [289433-dont-fret.json](./289433-dont-fret.json) |
 | Don't Get a Virus | 181874 | [181874-dont-get-a-virus.json](./181874-dont-get-a-virus.json) |
+| Don't Get Distracted | 204326 | [204326-dont-get-distracted.json](./204326-dont-get-distracted.json) |
 | Don't Get Fired! | 406825 | [406825-dont-get-fired.json](./406825-dont-get-fired.json) |
 | Don't Get Got | 329216 | [329216-dont-get-got.json](./329216-dont-get-got.json) |
 | Don't Give Up: A Cynical Tale | 111141 | [111141-dont-give-up-a-cynical-tale.json](./111141-dont-give-up-a-cynical-tale.json) |
