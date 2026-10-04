@@ -5374,6 +5374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Way of Gettin' Paid | 319234 | [319234-another-way-of-gettin-paid.json](./319234-another-way-of-gettin-paid.json) |
 | Another Way of Gettin' Paid | 319235 | [319235-another-way-of-gettin-paid.json](./319235-another-way-of-gettin-paid.json) |
 | Another Way Out | 316762 | [316762-another-way-out.json](./316762-another-way-out.json) |
+| Another World | 176847 | [176847-another-world.json](./176847-another-world.json) |
 | Another World | 343435 | [343435-another-world.json](./343435-another-world.json) |
 | Another World | 343437 | [343437-another-world.json](./343437-another-world.json) |
 | Another World | 392454 | [392454-another-world.json](./392454-another-world.json) |
