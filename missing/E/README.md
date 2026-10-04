@@ -2852,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Room | 108954 | [108954-escape-the-room.json](./108954-escape-the-room.json) |
 | Escape the Room Inscryption Door | 221715 | [221715-escape-the-room-inscryption-door.json](./221715-escape-the-room-inscryption-door.json) |
 | Escape the School | 355217 | [355217-escape-the-school.json](./355217-escape-the-school.json) |
+| Escape the SoulKeeper's Forest | 176829 | [176829-escape-the-soulkeepers-forest.json](./176829-escape-the-soulkeepers-forest.json) |
 | Escape the Tank | 153362 | [153362-escape-the-tank.json](./153362-escape-the-tank.json) |
 | Escape the Undertaker | 256839 | [256839-escape-the-undertaker.json](./256839-escape-the-undertaker.json) |
 | Escape the Void | 183920 | [183920-escape-the-void.json](./183920-escape-the-void.json) |
@@ -4284,6 +4285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EZ2on Reboot: R | 144282 | [144282-ez2on-reboot-r.json](./144282-ez2on-reboot-r.json) |
 | EZ2on Reboot: R - DJMAX Collaboration DLC | 269015 | [269015-ez2on-reboot-r-djmax-collaboration-dlc.json](./269015-ez2on-reboot-r-djmax-collaboration-dlc.json) |
 | EZ2on Reboot: R - Fortress Collaboration DLC | 256004 | [256004-ez2on-reboot-r-fortress-collaboration-dlc.json](./256004-ez2on-reboot-r-fortress-collaboration-dlc.json) |
+| Eza | 176836 | [176836-eza.json](./176836-eza.json) |
 | Ezerath 3D | 298683 | [298683-ezerath-3d.json](./298683-ezerath-3d.json) |
 | EZMuze Break and House edition | 79908 | [79908-ezmuze-break-and-house-edition.json](./79908-ezmuze-break-and-house-edition.json) |
 | Ezmuze+ 2.0 | 93570 | [93570-ezmuze-2-0.json](./93570-ezmuze-2-0.json) |
