@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing in Car 2 | 100326 | [100326-racing-in-car-2.json](./100326-racing-in-car-2.json) |
 | Racing Juke | 151097 | [151097-racing-juke.json](./151097-racing-juke.json) |
 | Racing Karts | 186913 | [186913-racing-karts.json](./186913-racing-karts.json) |
+| Racing League: Car Race Games | 216148 | [216148-racing-league-car-race-games.json](./216148-racing-league-car-race-games.json) |
 | Racing Legends | 174214 | [174214-racing-legends.json](./174214-racing-legends.json) |
 | Racing Legends: Speed Evolution | 91131 | [91131-racing-legends-speed-evolution.json](./91131-racing-legends-speed-evolution.json) |
 | Racing Life | 396598 | [396598-racing-life.json](./396598-racing-life.json) |
@@ -789,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Copters | 33424 | [33424-rally-copters.json](./33424-rally-copters.json) |
 | Rally Cross 2 | 8648 | [8648-rally-cross-2.json](./8648-rally-cross-2.json) |
 | Rally Cross Challenge | 93365 | [93365-rally-cross-challenge.json](./93365-rally-cross-challenge.json) |
+| Rally Day | 216147 | [216147-rally-day.json](./216147-rally-day.json) |
 | Rally de Africa | 138176 | [138176-rally-de-africa.json](./138176-rally-de-africa.json) |
 | Rally Drift Cars | 123558 | [123558-rally-drift-cars.json](./123558-rally-drift-cars.json) |
 | Rally Drifters Racing Cars 3D: Ultimate Fast Car Gang Challange | 232164 | [232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json](./232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json) |
@@ -942,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Deck | 341309 | [341309-random-deck.json](./341309-random-deck.json) |
 | Random Dice | 137650 | [137650-random-dice.json](./137650-random-dice.json) |
 | Random Dice: Go | 239620 | [239620-random-dice-go.json](./239620-random-dice-go.json) |
+| Random Dice: Wars | 216130 | [216130-random-dice-wars.json](./216130-random-dice-wars.json) |
 | Random Dungeon | 260725 | [260725-random-dungeon.json](./260725-random-dungeon.json) |
 | Random Dungeon Game | 333018 | [333018-random-dungeon-game.json](./333018-random-dungeon-game.json) |
 | Random Heroes | 59895 | [59895-random-heroes.json](./59895-random-heroes.json) |
@@ -1510,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Drift | 89963 | [89963-real-drift.json](./89963-real-drift.json) |
 | Real Drift Multiplayer | 256564 | [256564-real-drift-multiplayer.json](./256564-real-drift-multiplayer.json) |
 | Real Drift Multiplayer 2 | 265586 | [265586-real-drift-multiplayer-2.json](./265586-real-drift-multiplayer-2.json) |
+| Real Driver Legend of the City | 216133 | [216133-real-driver-legend-of-the-city.json](./216133-real-driver-legend-of-the-city.json) |
 | Real Driving 2: Ultimate Car Simulator | 208962 | [208962-real-driving-2-ultimate-car-simulator.json](./208962-real-driving-2-ultimate-car-simulator.json) |
 | Real Erogame Situation! Triple H | 194627 | [194627-real-erogame-situation-triple-h.json](./194627-real-erogame-situation-triple-h.json) |
 | Real Eroge Situation! | 194590 | [194590-real-eroge-situation.json](./194590-real-eroge-situation.json) |
@@ -4966,6 +4970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Time Trials: Galactic Highway | 389070 | [389070-rocket-time-trials-galactic-highway.json](./389070-rocket-time-trials-galactic-highway.json) |
 | Rocket Valet! Galaxy Landing Service | 212818 | [212818-rocket-valet-galaxy-landing-service.json](./212818-rocket-valet-galaxy-landing-service.json) |
 | Rocket Wrestling Entertainment | 353290 | [353290-rocket-wrestling-entertainment.json](./353290-rocket-wrestling-entertainment.json) |
+| Rocket Zap | 216125 | [216125-rocket-zap.json](./216125-rocket-zap.json) |
 | Rocket-Man | 377774 | [377774-rocket-man.json](./377774-rocket-man.json) |
 | Rocketball: Championship Cup | 175706 | [175706-rocketball-championship-cup.json](./175706-rocketball-championship-cup.json) |
 | Rocketbirds 2: Mind Control | 170517 | [170517-rocketbirds-2-mind-control.json](./170517-rocketbirds-2-mind-control.json) |
