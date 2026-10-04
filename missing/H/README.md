@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Feet Two | 345552 | [345552-happy-feet-two.json](./345552-happy-feet-two.json) |
 | Happy Fishing | 61559 | [61559-happy-fishing.json](./61559-happy-fishing.json) |
 | Happy Fox | 89280 | [89280-happy-fox.json](./89280-happy-fox.json) |
+| Happy fruit | 191057 | [191057-happy-fruit.json](./191057-happy-fruit.json) |
 | Happy Furry Restaurant | 340411 | [340411-happy-furry-restaurant.json](./340411-happy-furry-restaurant.json) |
 | Happy Game | 141681 | [141681-happy-game.json](./141681-happy-game.json) |
 | Happy Game/Pilgrims | 267959 | [267959-happy-game-pilgrims.json](./267959-happy-game-pilgrims.json) |
@@ -6569,6 +6570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperballoid Deluxe: Survival Pack | 130846 | [130846-hyperballoid-deluxe-survival-pack.json](./130846-hyperballoid-deluxe-survival-pack.json) |
 | Hyperbaroque | 186759 | [186759-hyperbaroque.json](./186759-hyperbaroque.json) |
 | Hyperbeat | 295876 | [295876-hyperbeat.json](./295876-hyperbeat.json) |
+| Hyperblade | 191070 | [191070-hyperblade.json](./191070-hyperblade.json) |
 | Hyperblade | 344579 | [344579-hyperblade.json](./344579-hyperblade.json) |
 | Hyperblade | 51379 | [51379-hyperblade.json](./51379-hyperblade.json) |
 | Hyperblast! | 342612 | [342612-hyperblast.json](./342612-hyperblast.json) |
