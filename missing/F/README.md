@@ -1862,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed | 296397 | [296397-feed.json](./296397-feed.json) |
 | Feed | 411077 | [411077-feed.json](./411077-feed.json) |
 | Feed A Titanosaur | 117069 | [117069-feed-a-titanosaur.json](./117069-feed-a-titanosaur.json) |
+| Feed and Grow: Crazy Fish | 193799 | [193799-feed-and-grow-crazy-fish.json](./193799-feed-and-grow-crazy-fish.json) |
 | Feed and Grow: Fish | 19876 | [19876-feed-and-grow-fish.json](./19876-feed-and-grow-fish.json) |
 | Feed Garfield | 63865 | [63865-feed-garfield.json](./63865-feed-garfield.json) |
 | Feed It | 403808 | [403808-feed-it.json](./403808-feed-it.json) |
@@ -3250,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Strike | 24942 | [24942-first-strike.json](./24942-first-strike.json) |
 | First Strike Final Hour | 29582 | [29582-first-strike-final-hour.json](./29582-first-strike-final-hour.json) |
 | First Strike: Multiplayer | 264248 | [264248-first-strike-multiplayer.json](./264248-first-strike-multiplayer.json) |
+| First Summoner | 193831 | [193831-first-summoner.json](./193831-first-summoner.json) |
 | First They're Sour | 179186 | [179186-first-theyre-sour.json](./179186-first-theyre-sour.json) |
 | First Things First | 60006 | [60006-first-things-first.json](./60006-first-things-first.json) |
 | First Time in Hawaii | 236002 | [236002-first-time-in-hawaii.json](./236002-first-time-in-hawaii.json) |
