@@ -159,6 +159,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valenium | 382294 | [382294-valenium.json](./382294-valenium.json) |
 | Valens | 33537 | [33537-valens.json](./33537-valens.json) |
 | Valentine Candy Break | 210695 | [210695-valentine-candy-break.json](./210695-valentine-candy-break.json) |
+| Valentine Candy Break 2 | 194392 | [194392-valentine-candy-break-2.json](./194392-valentine-candy-break-2.json) |
+| Valentine Candy Break 2 Head to Head | 194393 | [194393-valentine-candy-break-2-head-to-head.json](./194393-valentine-candy-break-2-head-to-head.json) |
 | Valentine Candy: Break Head to Head | 214567 | [214567-valentine-candy-break-head-to-head.json](./214567-valentine-candy-break-head-to-head.json) |
 | Valentine Disaster | 184893 | [184893-valentine-disaster.json](./184893-valentine-disaster.json) |
 | Valentine Panic | 68587 | [68587-valentine-panic.json](./68587-valentine-panic.json) |
@@ -1274,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viral Hunters | 390204 | [390204-viral-hunters.json](./390204-viral-hunters.json) |
 | Viral Multiplayer | 340556 | [340556-viral-multiplayer.json](./340556-viral-multiplayer.json) |
 | Viral Quarantine | 116404 | [116404-viral-quarantine.json](./116404-viral-quarantine.json) |
+| Viral Reload | 194344 | [194344-viral-reload.json](./194344-viral-reload.json) |
 | Viral Survival | 85475 | [85475-viral-survival.json](./85475-viral-survival.json) |
 | Virar | 276814 | [276814-virar.json](./276814-virar.json) |
 | Virche Evermore: EpiC:Lycoris | 241528 | [241528-virche-evermore-epic-lycoris.json](./241528-virche-evermore-epic-lycoris.json) |
@@ -1676,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voices of a Hidden Star | 183530 | [183530-voices-of-a-hidden-star.json](./183530-voices-of-a-hidden-star.json) |
 | Voices of Authority | 270719 | [270719-voices-of-authority.json](./270719-voices-of-authority.json) |
 | Void | 113487 | [113487-void.json](./113487-void.json) |
+| Void | 194339 | [194339-void.json](./194339-void.json) |
 | Void | 202343 | [202343-void.json](./202343-void.json) |
 | Void | 237506 | [237506-void.json](./237506-void.json) |
 | Void | 252369 | [252369-void.json](./252369-void.json) |
