@@ -1529,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days with Girlfriends: Kello & Cammy | 375954 | [375954-days-with-girlfriends-kello-and-cammy.json](./375954-days-with-girlfriends-kello-and-cammy.json) |
 | Days with My Lonely Teacher | 346666 | [346666-days-with-my-lonely-teacher.json](./346666-days-with-my-lonely-teacher.json) |
 | Days With Ollie | 294689 | [294689-days-with-ollie.json](./294689-days-with-ollie.json) |
+| Days with Ophelia: The Girl From Wind City | 196109 | [196109-days-with-ophelia-the-girl-from-wind-city.json](./196109-days-with-ophelia-the-girl-from-wind-city.json) |
 | Days Without Incident | 374727 | [374727-days-without-incident.json](./374727-days-without-incident.json) |
 | Dayscream | 139872 | [139872-dayscream.json](./139872-dayscream.json) |
 | Dayshift at Freddy's | 198465 | [198465-dayshift-at-freddys.json](./198465-dayshift-at-freddys.json) |
@@ -2877,6 +2878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degeons Project | 390796 | [390796-degeons-project.json](./390796-degeons-project.json) |
 | Degradation: Kyomu's Fury | 265780 | [265780-degradation-kyomus-fury.json](./265780-degradation-kyomus-fury.json) |
 | Degraman: Act I - Vincent | 196165 | [196165-degraman-act-i-vincent.json](./196165-degraman-act-i-vincent.json) |
+| Degraman: Act I - Vincent, Cassel & Loner | 196088 | [196088-degraman-act-i-vincent-cassel-and-loner.json](./196088-degraman-act-i-vincent-cassel-and-loner.json) |
 | Degraman: Act II - Victor | 265571 | [265571-degraman-act-ii-victor.json](./265571-degraman-act-ii-victor.json) |
 | Degrees of Separation | 110503 | [110503-degrees-of-separation.json](./110503-degrees-of-separation.json) |
 | Degu Squad | 282007 | [282007-degu-squad.json](./282007-degu-squad.json) |
@@ -5158,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dish Up Fruit | 302344 | [302344-dish-up-fruit.json](./302344-dish-up-fruit.json) |
 | Disharmonia | 199493 | [199493-disharmonia.json](./199493-disharmonia.json) |
 | Disharmony | 168325 | [168325-disharmony.json](./168325-disharmony.json) |
+| Disharmony | 196123 | [196123-disharmony.json](./196123-disharmony.json) |
 | DishDash | 389968 | [389968-dishdash.json](./389968-dishdash.json) |
 | Dishonest | 120934 | [120934-dishonest.json](./120934-dishonest.json) |
 | Dishonored 2: Collector's Edition | 136269 | [136269-dishonored-2-collectors-edition.json](./136269-dishonored-2-collectors-edition.json) |
@@ -5823,6 +5826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge | 291575 | [291575-dodge.json](./291575-dodge.json) |
 | Dodge 'Em | 222892 | [222892-dodge-em.json](./222892-dodge-em.json) |
 | Dodge & Roll | 267327 | [267327-dodge-and-roll.json](./267327-dodge-and-roll.json) |
+| Dodge & Weave | 196097 | [196097-dodge-and-weave.json](./196097-dodge-and-weave.json) |
 | Dodge Barrage | 296369 | [296369-dodge-barrage.json](./296369-dodge-barrage.json) |
 | Dodge Club Pocket | 96105 | [96105-dodge-club-pocket.json](./96105-dodge-club-pocket.json) |
 | Dodge Dancer | 149577 | [149577-dodge-dancer.json](./149577-dodge-dancer.json) |
