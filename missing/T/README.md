@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TAGAP 4 | 321139 | [321139-tagap-4.json](./321139-tagap-4.json) |
 | Tagger Mascot | 244862 | [244862-tagger-mascot.json](./244862-tagger-mascot.json) |
 | Taghairm | 59685 | [59685-taghairm.json](./59685-taghairm.json) |
+| TagHunter | 192779 | [192779-taghunter.json](./192779-taghunter.json) |
 | Tagin' Dragon | 48229 | [48229-tagin-dragon.json](./48229-tagin-dragon.json) |
 | Tago Akira no Atama no Taisou Dai-1-Shuu: Nazotoki Sekai Isshuu Ryokou | 282125 | [282125-tago-akira-no-atama-no-taisou-dai-1-shuu-nazotoki-sekai-isshuu-ryokou.json](./282125-tago-akira-no-atama-no-taisou-dai-1-shuu-nazotoki-sekai-isshuu-ryokou.json) |
 | Tago Akira no Atama no Taisou Dai-2-Shuu: Ginga Oudan Nazotoki Adventure | 402967 | [402967-tago-akira-no-atama-no-taisou-dai-2-shuu-ginga-oudan-nazotoki-adventure.json](./402967-tago-akira-no-atama-no-taisou-dai-2-shuu-ginga-oudan-nazotoki-adventure.json) |
@@ -1690,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TeamTower | 160255 | [160255-teamtower.json](./160255-teamtower.json) |
 | Teaparty in Candyworld | 357226 | [357226-teaparty-in-candyworld.json](./357226-teaparty-in-candyworld.json) |
 | Teapot Poppers | 146915 | [146915-teapot-poppers.json](./146915-teapot-poppers.json) |
+| Tear of Time: Lost Memory | 192783 | [192783-tear-of-time-lost-memory.json](./192783-tear-of-time-lost-memory.json) |
 | Tear Ring Saga | 43872 | [43872-tear-ring-saga.json](./43872-tear-ring-saga.json) |
 | Tear Ring Saga Series: Berwick Saga: Lazberia Chronicle Chapter 174 | 80578 | [80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json](./80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json) |
 | Tear Ripple | 305305 | [305305-tear-ripple.json](./305305-tear-ripple.json) |
@@ -12154,6 +12156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeline Traveler II: Dream | 170518 | [170518-timeline-traveler-ii-dream.json](./170518-timeline-traveler-ii-dream.json) |
 | TimelineTown | 401746 | [401746-timelinetown.json](./401746-timelinetown.json) |
 | TimeLock VR | 51516 | [51516-timelock-vr.json](./51516-timelock-vr.json) |
+| TimeLock VR 2 | 192769 | [192769-timelock-vr-2.json](./192769-timelock-vr-2.json) |
 | Timeloop | 308398 | [308398-timeloop.json](./308398-timeloop.json) |
 | Timeloop: Sink Again Beach | 224662 | [224662-timeloop-sink-again-beach.json](./224662-timeloop-sink-again-beach.json) |
 | Timelord | 78615 | [78615-timelord.json](./78615-timelord.json) |
@@ -15996,6 +15999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials Rising | 103316 | [103316-trials-rising.json](./103316-trials-rising.json) |
 | Trials: Gold Pack | 219004 | [219004-trials-gold-pack.json](./219004-trials-gold-pack.json) |
 | Trialspire | 397782 | [397782-trialspire.json](./397782-trialspire.json) |
+| Trialtime Reborn | 192793 | [192793-trialtime-reborn.json](./192793-trialtime-reborn.json) |
 | Trianga's Project: Battle Splash 2.0 - Earth's Legacy M.A.I.A | 289466 | [289466-triangas-project-battle-splash-2-0-earths-legacy-m-a-i-a.json](./289466-triangas-project-battle-splash-2-0-earths-legacy-m-a-i-a.json) |
 | Triangle Again | 63017 | [63017-triangle-again.json](./63017-triangle-again.json) |
 | Triangle Again 2 | 63018 | [63018-triangle-again-2.json](./63018-triangle-again-2.json) |
