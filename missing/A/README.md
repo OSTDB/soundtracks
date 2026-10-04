@@ -5457,6 +5457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoki Shinjuku | 305866 | [305866-aoki-shinjuku.json](./305866-aoki-shinjuku.json) |
 | AOL Girls Museum | 313758 | [313758-aol-girls-museum.json](./313758-aol-girls-museum.json) |
 | Aonar | 259292 | [259292-aonar.json](./259292-aonar.json) |
+| Aonatsu Line | 214547 | [214547-aonatsu-line.json](./214547-aonatsu-line.json) |
 | AonTheVoid Nevaeh | 386916 | [386916-aonthevoid-nevaeh.json](./386916-aonthevoid-nevaeh.json) |
 | Aooni | 307751 | [307751-aooni.json](./307751-aooni.json) |
 | Aooni: The Horror of Blueberry Onsen | 341884 | [341884-aooni-the-horror-of-blueberry-onsen.json](./341884-aooni-the-horror-of-blueberry-onsen.json) |
