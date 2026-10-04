@@ -2994,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchy Star | 83498 | [83498-matchy-star.json](./83498-matchy-star.json) |
 | Matchy Way Tales | 365884 | [365884-matchy-way-tales.json](./365884-matchy-way-tales.json) |
 | MatchyGotchy Z | 109661 | [109661-matchygotchy-z.json](./109661-matchygotchy-z.json) |
+| Mate | 207201 | [207201-mate.json](./207201-mate.json) |
 | Mate in Eleven | 364104 | [364104-mate-in-eleven.json](./364104-mate-in-eleven.json) |
 | Mate-in-Two | 347703 | [347703-mate-in-two.json](./347703-mate-in-two.json) |
 | Matel Gear II | 267366 | [267366-matel-gear-ii.json](./267366-matel-gear-ii.json) |
@@ -7099,6 +7100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Parts Side A: The Tantei Stories | 64671 | [64671-missing-parts-side-a-the-tantei-stories.json](./64671-missing-parts-side-a-the-tantei-stories.json) |
 | Missing Parts Side B: The Tantei Stories | 64672 | [64672-missing-parts-side-b-the-tantei-stories.json](./64672-missing-parts-side-b-the-tantei-stories.json) |
 | Missing Parts: The Tantei Stories | 64674 | [64674-missing-parts-the-tantei-stories.json](./64674-missing-parts-the-tantei-stories.json) |
+| Missing Persons | 207185 | [207185-missing-persons.json](./207185-missing-persons.json) |
 | Missing Picture | 315702 | [315702-missing-picture.json](./315702-missing-picture.json) |
 | Missing Pieces | 221124 | [221124-missing-pieces.json](./221124-missing-pieces.json) |
 | Missing Plane: Survival | 186854 | [186854-missing-plane-survival.json](./186854-missing-plane-survival.json) |
@@ -10492,6 +10494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Flower | 266888 | [266888-my-flower.json](./266888-my-flower.json) |
 | My Fluffy Life | 163745 | [163745-my-fluffy-life.json](./163745-my-fluffy-life.json) |
 | My Football Game | 206770 | [206770-my-football-game.json](./206770-my-football-game.json) |
+| My Forest Spirit Girlfriend | 207205 | [207205-my-forest-spirit-girlfriend.json](./207205-my-forest-spirit-girlfriend.json) |
 | My Forged Wedding: Party | 238422 | [238422-my-forged-wedding-party.json](./238422-my-forged-wedding-party.json) |
 | My Foxy Girlfriend | 205818 | [205818-my-foxy-girlfriend.json](./205818-my-foxy-girlfriend.json) |
 | My Friend Barrington | 398323 | [398323-my-friend-barrington.json](./398323-my-friend-barrington.json) |
