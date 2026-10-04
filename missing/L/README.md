@@ -1137,6 +1137,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Light: Dark Omens - Collector's Edition | 31065 | [31065-league-of-light-dark-omens-collectors-edition.json](./31065-league-of-light-dark-omens-collectors-edition.json) |
 | League of Light: Dark Omens & League of Light: Wicked Harvest | 201815 | [201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json](./201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json) |
 | League of Light: Edge of Justice | 108245 | [108245-league-of-light-edge-of-justice.json](./108245-league-of-light-edge-of-justice.json) |
+| League of Light: The Gatherer | 182309 | [182309-league-of-light-the-gatherer.json](./182309-league-of-light-the-gatherer.json) |
+| League of Light: The Gatherer - Collector's Edition | 182310 | [182310-league-of-light-the-gatherer-collectors-edition.json](./182310-league-of-light-the-gatherer-collectors-edition.json) |
 | League of Mermaids | 34920 | [34920-league-of-mermaids.json](./34920-league-of-mermaids.json) |
 | League of Piss | 383041 | [383041-league-of-piss.json](./383041-league-of-piss.json) |
 | League of Stickman 2 | 174638 | [174638-league-of-stickman-2.json](./174638-league-of-stickman-2.json) |
