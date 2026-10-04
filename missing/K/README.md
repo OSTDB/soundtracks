@@ -1259,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kikuni Masahiko no Jantoushi Dora-ou | 37962 | [37962-kikuni-masahiko-no-jantoushi-dora-ou.json](./37962-kikuni-masahiko-no-jantoushi-dora-ou.json) |
 | Kikuni Masahiko no Jantoushi Dora-ou 2 | 37961 | [37961-kikuni-masahiko-no-jantoushi-dora-ou-2.json](./37961-kikuni-masahiko-no-jantoushi-dora-ou-2.json) |
 | Kikuni Masahiko: Jirushi Warau Fukei-san Pachi-Slot Hunter | 65214 | [65214-kikuni-masahiko-jirushi-warau-fukei-san-pachi-slot-hunter.json](./65214-kikuni-masahiko-jirushi-warau-fukei-san-pachi-slot-hunter.json) |
+| Kikura | 212181 | [212181-kikura.json](./212181-kikura.json) |
 | KilaFlow | 265955 | [265955-kilaflow.json](./265955-kilaflow.json) |
 | Kilari: Become a Star | 70673 | [70673-kilari-become-a-star.json](./70673-kilari-become-a-star.json) |
 | Kilira's Descent | 401526 | [401526-kiliras-descent.json](./401526-kiliras-descent.json) |
