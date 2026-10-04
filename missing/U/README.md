@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unionism Quartet A3-Days | 399197 | [399197-unionism-quartet-a3-days.json](./399197-unionism-quartet-a3-days.json) |
 | Unionism Quartet B2-Style | 399198 | [399198-unionism-quartet-b2-style.json](./399198-unionism-quartet-b2-style.json) |
 | Unioverse Proving Grounds | 249919 | [249919-unioverse-proving-grounds.json](./249919-unioverse-proving-grounds.json) |
+| UniPlex | 186705 | [186705-uniplex.json](./186705-uniplex.json) |
 | UniqKiller | 307222 | [307222-uniqkiller.json](./307222-uniqkiller.json) |
 | UniqKiller: Urban Shooter | 323514 | [323514-uniqkiller-urban-shooter.json](./323514-uniqkiller-urban-shooter.json) |
 | Unique Lady | 370345 | [370345-unique-lady.json](./370345-unique-lady.json) |
