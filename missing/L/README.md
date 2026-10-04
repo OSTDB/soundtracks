@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth X | 312114 | [312114-labyrinth-x.json](./312114-labyrinth-x.json) |
 | Labyrinth: Classic Pinball Puzzle | 225884 | [225884-labyrinth-classic-pinball-puzzle.json](./225884-labyrinth-classic-pinball-puzzle.json) |
 | Labyrinth: Derelict Abyss | 138136 | [138136-labyrinth-derelict-abyss.json](./138136-labyrinth-derelict-abyss.json) |
+| Labyrinth: Immortal Oblivion | 224601 | [224601-labyrinth-immortal-oblivion.json](./224601-labyrinth-immortal-oblivion.json) |
 | Labyrinth: Roll of Fate | 309494 | [309494-labyrinth-roll-of-fate.json](./309494-labyrinth-roll-of-fate.json) |
 | Labyrinth: The War on Terror | 129983 | [129983-labyrinth-the-war-on-terror.json](./129983-labyrinth-the-war-on-terror.json) |
 | Labyrinth: The Wizard's Cat | 296486 | [296486-labyrinth-the-wizards-cat.json](./296486-labyrinth-the-wizards-cat.json) |
@@ -3424,6 +3425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LO-OP | 104220 | [104220-lo-op.json](./104220-lo-op.json) |
 | Lo-Rez | 285054 | [285054-lo-rez.json](./285054-lo-rez.json) |
 | Load Roll Die | 172734 | [172734-load-roll-die.json](./172734-load-roll-die.json) |
+| Load Slinging VR Training | 224599 | [224599-load-slinging-vr-training.json](./224599-load-slinging-vr-training.json) |
 | Loaded | 18682 | [18682-loaded.json](./18682-loaded.json) |
 | Loader | 96679 | [96679-loader.json](./96679-loader.json) |
 | Loader Larry | 73809 | [73809-loader-larry.json](./73809-loader-larry.json) |
