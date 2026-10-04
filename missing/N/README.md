@@ -3027,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NLL 11 | 62793 | [62793-nll-11.json](./62793-nll-11.json) |
 | NLL Lacrosse 2010 | 66705 | [66705-nll-lacrosse-2010.json](./66705-nll-lacrosse-2010.json) |
 | NMDC | 199584 | [199584-nmdc.json](./199584-nmdc.json) |
+| NMNE | 181106 | [181106-nmne.json](./181106-nmne.json) |
 | No Afraid Of Battle | 341481 | [341481-no-afraid-of-battle.json](./341481-no-afraid-of-battle.json) |
 | No Alien Dating Allowed! | 382481 | [382481-no-alien-dating-allowed.json](./382481-no-alien-dating-allowed.json) |
 | No Anglerfish | 195104 | [195104-no-anglerfish.json](./195104-no-anglerfish.json) |
@@ -3438,6 +3439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomad Survival | 197874 | [197874-nomad-survival.json](./197874-nomad-survival.json) |
 | Nomads in the Dust | 296479 | [296479-nomads-in-the-dust.json](./296479-nomads-in-the-dust.json) |
 | NoMaKo | 139261 | [139261-nomako.json](./139261-nomako.json) |
+| Noman's Dungeon | 181177 | [181177-nomans-dungeon.json](./181177-nomans-dungeon.json) |
 | NOMBZ: Night of a Million Billion Zombies | 209408 | [209408-nombz-night-of-a-million-billion-zombies.json](./209408-nombz-night-of-a-million-billion-zombies.json) |
 | Nomia | 338730 | [338730-nomia.json](./338730-nomia.json) |
 | Nominal | 163312 | [163312-nominal.json](./163312-nominal.json) |
