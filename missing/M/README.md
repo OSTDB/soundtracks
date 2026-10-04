@@ -8699,6 +8699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moondust: Knuckles Tech Demos | 127835 | [127835-moondust-knuckles-tech-demos.json](./127835-moondust-knuckles-tech-demos.json) |
 | Moonfall Voyage | 264052 | [264052-moonfall-voyage.json](./264052-moonfall-voyage.json) |
 | MoonFall: Butterfly Lovers | 190099 | [190099-moonfall-butterfly-lovers.json](./190099-moonfall-butterfly-lovers.json) |
+| Moonfang | 175751 | [175751-moonfang.json](./175751-moonfang.json) |
 | Moonfell: The Tides of Aether | 349388 | [349388-moonfell-the-tides-of-aether.json](./349388-moonfell-the-tides-of-aether.json) |
 | Moonflower | 224580 | [224580-moonflower.json](./224580-moonflower.json) |
 | Moongrave | 370889 | [370889-moongrave.json](./370889-moongrave.json) |
