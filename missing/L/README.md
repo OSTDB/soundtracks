@@ -4554,6 +4554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Love Diary | 247748 | [247748-love-love-diary.json](./247748-love-love-diary.json) |
 | Love Love Joe Biden: The Joe Biden Dating Simulator | 248819 | [248819-love-love-joe-biden-the-joe-biden-dating-simulator.json](./248819-love-love-joe-biden-the-joe-biden-dating-simulator.json) |
 | Love Love Mystery Club | 386233 | [386233-love-love-mystery-club.json](./386233-love-love-mystery-club.json) |
+| Love Love School Days | 212174 | [212174-love-love-school-days.json](./212174-love-love-school-days.json) |
 | Love Lust and a Little Evil | 385058 | [385058-love-lust-and-a-little-evil.json](./385058-love-lust-and-a-little-evil.json) |
 | Love M01 | 338299 | [338299-love-m01.json](./338299-love-m01.json) |
 | Love Mansion | 346672 | [346672-love-mansion.json](./346672-love-mansion.json) |
