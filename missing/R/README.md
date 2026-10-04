@@ -5903,6 +5903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette Simulator 2025 | 310503 | [310503-roulette-simulator-2025.json](./310503-roulette-simulator-2025.json) |
 | Roulette VIP | 256252 | [256252-roulette-vip.json](./256252-roulette-vip.json) |
 | Round About | 25858 | [25858-round-about.json](./25858-round-about.json) |
+| Round Invaders Rush | 209918 | [209918-round-invaders-rush.json](./209918-round-invaders-rush.json) |
 | Round Invaders Rush 2 | 214039 | [214039-round-invaders-rush-2.json](./214039-round-invaders-rush-2.json) |
 | Round My Corners | 301241 | [301241-round-my-corners.json](./301241-round-my-corners.json) |
 | Round Spike | 348954 | [348954-round-spike.json](./348954-round-spike.json) |
