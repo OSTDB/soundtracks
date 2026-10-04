@@ -834,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Chess: Magnificent Edition | 246647 | [246647-family-chess-magnificent-edition.json](./246647-family-chess-magnificent-edition.json) |
 | Family Chess: Ultimate Edition | 212340 | [212340-family-chess-ultimate-edition.json](./212340-family-chess-ultimate-edition.json) |
 | Family Chess: Ultra Deluxe | 254678 | [254678-family-chess-ultra-deluxe.json](./254678-family-chess-ultra-deluxe.json) |
+| Family Dinner | 178470 | [178470-family-dinner.json](./178470-family-dinner.json) |
 | Family Dinner | 377162 | [377162-family-dinner.json](./377162-family-dinner.json) |
 | Family Dog | 42570 | [42570-family-dog.json](./42570-family-dog.json) |
 | Family Farm | 322141 | [322141-family-farm.json](./322141-family-farm.json) |
@@ -1748,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatum Betula + Knights & Guns | 246080 | [246080-fatum-betula-knights-and-guns.json](./246080-fatum-betula-knights-and-guns.json) |
 | Fatum Betula + Moto Rush GT | 255257 | [255257-fatum-betula-moto-rush-gt.json](./255257-fatum-betula-moto-rush-gt.json) |
 | Fatum Betula + Urban Flow | 252702 | [252702-fatum-betula-urban-flow.json](./252702-fatum-betula-urban-flow.json) |
+| Fatum Metamorphosis: Void Divers | 178463 | [178463-fatum-metamorphosis-void-divers.json](./178463-fatum-metamorphosis-void-divers.json) |
 | FAU-G: Fearless and United Guards | 138668 | [138668-fau-g-fearless-and-united-guards.json](./138668-fau-g-fearless-and-united-guards.json) |
 | Faucet VR | 89269 | [89269-faucet-vr.json](./89269-faucet-vr.json) |
 | Faul! | 194659 | [194659-faul.json](./194659-faul.json) |
