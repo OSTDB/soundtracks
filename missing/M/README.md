@@ -4806,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge AirPlane | 227501 | [227501-merge-airplane.json](./227501-merge-airplane.json) |
 | Merge Battle | 102592 | [102592-merge-battle.json](./102592-merge-battle.json) |
 | Merge Bistro | 248103 | [248103-merge-bistro.json](./248103-merge-bistro.json) |
+| Merge Blast | 221090 | [221090-merge-blast.json](./221090-merge-blast.json) |
 | Merge Castle | 233448 | [233448-merge-castle.json](./233448-merge-castle.json) |
 | Merge Chess | 172007 | [172007-merge-chess.json](./172007-merge-chess.json) |
 | Merge Circle | 262342 | [262342-merge-circle.json](./262342-merge-circle.json) |
