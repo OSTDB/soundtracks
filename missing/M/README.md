@@ -2292,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marooned: Arcanus Island | 7445 | [7445-marooned-arcanus-island.json](./7445-marooned-arcanus-island.json) |
 | Marquee Candle | 350021 | [350021-marquee-candle.json](./350021-marquee-candle.json) |
 | Marriage or Pervert: The Small Penis Warrior & The Perverted Magician | 82909 | [82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json](./82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json) |
+| Marriage to the Demon Wife! | 202197 | [202197-marriage-to-the-demon-wife.json](./202197-marriage-to-the-demon-wife.json) |
 | Married Girls' Night School | 249750 | [249750-married-girls-night-school.json](./249750-married-girls-night-school.json) |
 | Married in Red | 307253 | [307253-married-in-red.json](./307253-married-in-red.json) |
 | Married Woman Eilla's NTR RPG: Two Man Cell Journey with Obeying a Douchey Guy | 82852 | [82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json](./82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json) |
@@ -2671,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 3 | 245478 | [245478-mass-effect-3.json](./245478-mass-effect-3.json) |
 | Mass Effect 3: Extended Cut | 78460 | [78460-mass-effect-3-extended-cut.json](./78460-mass-effect-3-extended-cut.json) |
 | Mass Effect 3: From Ashes | 13910 | [13910-mass-effect-3-from-ashes.json](./13910-mass-effect-3-from-ashes.json) |
+| Mass Effect 3: N7 Digital Deluxe Edition | 202174 | [202174-mass-effect-3-n7-digital-deluxe-edition.json](./202174-mass-effect-3-n7-digital-deluxe-edition.json) |
 | Mass Effect 3: Special Edition | 21697 | [21697-mass-effect-3-special-edition.json](./21697-mass-effect-3-special-edition.json) |
 | Mass Effect: Andromeda - Deluxe Recruit Edition | 91212 | [91212-mass-effect-andromeda-deluxe-recruit-edition.json](./91212-mass-effect-andromeda-deluxe-recruit-edition.json) |
 | Mass Effect: Andromeda - Super Deluxe Edition | 27767 | [27767-mass-effect-andromeda-super-deluxe-edition.json](./27767-mass-effect-andromeda-super-deluxe-edition.json) |
@@ -6052,6 +6054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milk | 229592 | [229592-milk.json](./229592-milk.json) |
 | Milk | 314396 | [314396-milk.json](./314396-milk.json) |
 | Milk and Cookies | 132233 | [132233-milk-and-cookies.json](./132233-milk-and-cookies.json) |
+| Milk Bottle and Monster Girl 2 | 202212 | [202212-milk-bottle-and-monster-girl-2.json](./202212-milk-bottle-and-monster-girl-2.json) |
 | Milk Farm | 103664 | [103664-milk-farm.json](./103664-milk-farm.json) |
 | Milk Farm Tycoon | 243708 | [243708-milk-farm-tycoon.json](./243708-milk-farm-tycoon.json) |
 | Milk Girl: Sweet Memories of Summer | 212194 | [212194-milk-girl-sweet-memories-of-summer.json](./212194-milk-girl-sweet-memories-of-summer.json) |
@@ -8719,6 +8722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moraff's Entrap | 69815 | [69815-moraffs-entrap.json](./69815-moraffs-entrap.json) |
 | Moraff's Escapade | 135666 | [135666-moraffs-escapade.json](./135666-moraffs-escapade.json) |
 | Moraff's Maximum Mahjongg 2 | 24077 | [24077-moraffs-maximum-mahjongg-2.json](./24077-moraffs-maximum-mahjongg-2.json) |
+| Moraff's Maximum Mahjongg 3 | 202186 | [202186-moraffs-maximum-mahjongg-3.json](./202186-moraffs-maximum-mahjongg-3.json) |
 | Moraff's World | 74053 | [74053-moraffs-world.json](./74053-moraffs-world.json) |
 | Morbid | 145591 | [145591-morbid.json](./145591-morbid.json) |
 | Morbid | 219628 | [219628-morbid.json](./219628-morbid.json) |
