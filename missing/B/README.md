@@ -3947,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Racing | 91109 | [91109-bike-racing.json](./91109-bike-racing.json) |
 | Bike Rampage! | 313776 | [313776-bike-rampage.json](./313776-bike-rampage.json) |
 | Bike Ride 3D | 283994 | [283994-bike-ride-3d.json](./283994-bike-ride-3d.json) |
+| Bike Rider DX3: Time Rider | 222357 | [222357-bike-rider-dx3-time-rider.json](./222357-bike-rider-dx3-time-rider.json) |
 | Bike Rush | 227508 | [227508-bike-rush.json](./227508-bike-rush.json) |
 | Bike Rush | 73170 | [73170-bike-rush.json](./73170-bike-rush.json) |
 | Bike Stunt Master | 105960 | [105960-bike-stunt-master.json](./105960-bike-stunt-master.json) |
