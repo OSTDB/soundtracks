@@ -4418,6 +4418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die With Glory | 28357 | [28357-die-with-glory.json](./28357-die-with-glory.json) |
 | Die Wolf | 129635 | [129635-die-wolf.json](./129635-die-wolf.json) |
 | Die-Rise | 245277 | [245277-die-rise.json](./245277-die-rise.json) |
+| Die, A.I | 203191 | [203191-die-a-i.json](./203191-die-a-i.json) |
 | Die, A.I. | 191183 | [191183-die-a-i.json](./191183-die-a-i.json) |
 | Die, Pablo! | 270119 | [270119-die-pablo.json](./270119-die-pablo.json) |
 | Dieathlon | 410981 | [410981-dieathlon.json](./410981-dieathlon.json) |
@@ -5894,6 +5895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog-a-Boo | 90623 | [90623-dog-a-boo.json](./90623-dog-a-boo.json) |
 | Dog! | 183362 | [183362-dog.json](./183362-dog.json) |
 | Dog's Garden | 188009 | [188009-dogs-garden.json](./188009-dogs-garden.json) |
+| Dog's Muck Island | 203216 | [203216-dogs-muck-island.json](./203216-dogs-muck-island.json) |
 | Dog's Quest | 103454 | [103454-dogs-quest.json](./103454-dogs-quest.json) |
 | Dog's Walts | 408060 | [408060-dogs-walts.json](./408060-dogs-walts.json) |
 | Dogchild | 59062 | [59062-dogchild.json](./59062-dogchild.json) |
