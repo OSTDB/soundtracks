@@ -2402,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Club | 190991 | [190991-help-club.json](./190991-help-club.json) |
 | Help Furby Dodge the Balls | 365776 | [365776-help-furby-dodge-the-balls.json](./365776-help-furby-dodge-the-balls.json) |
 | Help Hurt Hopp | 148934 | [148934-help-hurt-hopp.json](./148934-help-hurt-hopp.json) |
+| Help Me | 190038 | [190038-help-me.json](./190038-help-me.json) |
 | Help me Braveman! | 212484 | [212484-help-me-braveman.json](./212484-help-me-braveman.json) |
 | Help Me Escape! The Puzzle Maker's Office | 108438 | [108438-help-me-escape-the-puzzle-makers-office.json](./108438-help-me-escape-the-puzzle-makers-office.json) |
 | Help Me Fly | 240832 | [240832-help-me-fly.json](./240832-help-me-fly.json) |
@@ -3223,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroic Defender GoFalcon | 363913 | [363913-heroic-defender-gofalcon.json](./363913-heroic-defender-gofalcon.json) |
 | Heroic Hop: A New Adventure Begins | 371985 | [371985-heroic-hop-a-new-adventure-begins.json](./371985-heroic-hop-a-new-adventure-begins.json) |
 | Heroic Kingdom: Origins | 293642 | [293642-heroic-kingdom-origins.json](./293642-heroic-kingdom-origins.json) |
+| Heroic Pirates | 190042 | [190042-heroic-pirates.json](./190042-heroic-pirates.json) |
 | Heroic Songs: The Remix! | 369057 | [369057-heroic-songs-the-remix.json](./369057-heroic-songs-the-remix.json) |
 | Heroic Syndrome | 206354 | [206354-heroic-syndrome.json](./206354-heroic-syndrome.json) |
 | Heroic Tale Value!+ | 259152 | [259152-heroic-tale-value.json](./259152-heroic-tale-value.json) |
@@ -3603,6 +3605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Legacy: Dark Heirloom | 416709 | [416709-hidden-legacy-dark-heirloom.json](./416709-hidden-legacy-dark-heirloom.json) |
 | Hidden Legacy: Dark Heirloom - Collector's Edition | 360637 | [360637-hidden-legacy-dark-heirloom-collectors-edition.json](./360637-hidden-legacy-dark-heirloom-collectors-edition.json) |
 | Hidden Legends | 370817 | [370817-hidden-legends.json](./370817-hidden-legends.json) |
+| Hidden Magic Town | 190008 | [190008-hidden-magic-town.json](./190008-hidden-magic-town.json) |
 | Hidden Map | 187369 | [187369-hidden-map.json](./187369-hidden-map.json) |
 | Hidden Memories | 345564 | [345564-hidden-memories.json](./345564-hidden-memories.json) |
 | Hidden Memories of a Bright Summer | 100608 | [100608-hidden-memories-of-a-bright-summer.json](./100608-hidden-memories-of-a-bright-summer.json) |
