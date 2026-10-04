@@ -1111,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko-sama no Karaguri: Garden kara no Dasshutsu | 240231 | [240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json](./240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json) |
 | Neko-sama no Kominka kara no Dasshutsu | 260689 | [260689-neko-sama-no-kominka-kara-no-dasshutsu.json](./260689-neko-sama-no-kominka-kara-no-dasshutsu.json) |
 | Neko-sama to Outlaws | 222371 | [222371-neko-sama-to-outlaws.json](./222371-neko-sama-to-outlaws.json) |
+| Neko: The Black Cat | 176245 | [176245-neko-the-black-cat.json](./176245-neko-the-black-cat.json) |
 | Neko's Rage | 251840 | [251840-nekos-rage.json](./251840-nekos-rage.json) |
 | Nekobabaa: Melonbooks Omake Tokubetsu-hen | 212253 | [212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json](./212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json) |
 | NekoBooM! | 102334 | [102334-nekoboom.json](./102334-nekoboom.json) |
@@ -4098,6 +4099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nurse Love Obsession | 131557 | [131557-nurse-love-obsession.json](./131557-nurse-love-obsession.json) |
 | Nurse Me! | 297165 | [297165-nurse-me.json](./297165-nurse-me.json) |
 | Nurse Story | 268644 | [268644-nurse-story.json](./268644-nurse-story.json) |
+| Nursery Curse | 176310 | [176310-nursery-curse.json](./176310-nursery-curse.json) |
 | Nursery Mania | 209014 | [209014-nursery-mania.json](./209014-nursery-mania.json) |
 | Nursery Rhyme | 69306 | [69306-nursery-rhyme.json](./69306-nursery-rhyme.json) |
 | Nursery Slime | 195642 | [195642-nursery-slime.json](./195642-nursery-slime.json) |
