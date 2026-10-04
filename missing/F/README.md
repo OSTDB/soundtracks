@@ -703,10 +703,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FallMan | 60560 | [60560-fallman.json](./60560-fallman.json) |
 | FallNation | 217213 | [217213-fallnation.json](./217213-fallnation.json) |
 | FallNation Lost Stories | 294941 | [294941-fallnation-lost-stories.json](./294941-fallnation-lost-stories.json) |
+| Fallout 3: Broken Steel and Point Lookout | 202169 | [202169-fallout-3-broken-steel-and-point-lookout.json](./202169-fallout-3-broken-steel-and-point-lookout.json) |
 | Fallout 3: Game of the Year Edition | 21892 | [21892-fallout-3-game-of-the-year-edition.json](./21892-fallout-3-game-of-the-year-edition.json) |
 | Fallout 3: Mothership Zeta | 10300 | [10300-fallout-3-mothership-zeta.json](./10300-fallout-3-mothership-zeta.json) |
 | Fallout 3: Point Lookout | 10302 | [10302-fallout-3-point-lookout.json](./10302-fallout-3-point-lookout.json) |
 | Fallout 3: Survival Edition | 72381 | [72381-fallout-3-survival-edition.json](./72381-fallout-3-survival-edition.json) |
+| Fallout 3: The Pitt & Fallout 3: Operation Anchorage | 202170 | [202170-fallout-3-the-pitt-and-fallout-3-operation-anchorage.json](./202170-fallout-3-the-pitt-and-fallout-3-operation-anchorage.json) |
 | Fallout 4: Automatron | 18029 | [18029-fallout-4-automatron.json](./18029-fallout-4-automatron.json) |
 | Fallout 4: Contraptions Workshop | 19532 | [19532-fallout-4-contraptions-workshop.json](./19532-fallout-4-contraptions-workshop.json) |
 | Fallout 4: Edible Asbestos | 334933 | [334933-fallout-4-edible-asbestos.json](./334933-fallout-4-edible-asbestos.json) |
