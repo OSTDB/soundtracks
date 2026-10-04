@@ -5698,6 +5698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooms: The Unsolvable Puzzle | 19018 | [19018-rooms-the-unsolvable-puzzle.json](./19018-rooms-the-unsolvable-puzzle.json) |
 | Roomscale Tower | 31984 | [31984-roomscale-tower.json](./31984-roomscale-tower.json) |
 | Roopocket | 122171 | [122171-roopocket.json](./122171-roopocket.json) |
+| Roost | 220147 | [220147-roost.json](./220147-roost.json) |
 | Roost | 329111 | [329111-roost.json](./329111-roost.json) |
 | Rooster | 301367 | [301367-rooster.json](./301367-rooster.json) |
 | Rooster | 62722 | [62722-rooster.json](./62722-rooster.json) |
