@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048+# | 343995 | [343995-2048.json](./343995-2048.json) |
 | 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
 | 2048Puzzle | 357973 | [357973-2048puzzle.json](./357973-2048puzzle.json) |
+| 206 | 186710 | [186710-206.json](./186710-206.json) |
 | 2069 AD | 98267 | [98267-2069-ad.json](./98267-2069-ad.json) |
 | 2084 | 113154 | [113154-2084.json](./113154-2084.json) |
 | 2088: The Cryllan Mission | 57377 | [57377-2088-the-cryllan-mission.json](./57377-2088-the-cryllan-mission.json) |
@@ -1330,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5-Star Taxi | 415875 | [415875-5-star-taxi.json](./415875-5-star-taxi.json) |
 | 5-Step Steve | 251585 | [251585-5-step-steve.json](./251585-5-step-steve.json) |
 | 5:48AM | 277038 | [277038-5-48am.json](./277038-5-48am.json) |
+| 50 | 186671 | [186671-50.json](./186671-50.json) |
 | 50 Cents Please | 367504 | [367504-50-cents-please.json](./367504-50-cents-please.json) |
 | 50 flags and seals of the United States HD | 109013 | [109013-50-flags-and-seals-of-the-united-states-hd.json](./109013-50-flags-and-seals-of-the-united-states-hd.json) |
 | 50 Floors: The Paranormal Investigators Prologue | 306699 | [306699-50-floors-the-paranormal-investigators-prologue.json](./306699-50-floors-the-paranormal-investigators-prologue.json) |
