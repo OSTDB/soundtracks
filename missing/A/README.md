@@ -2605,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akai Hana | 386935 | [386935-akai-hana.json](./386935-akai-hana.json) |
 | Akai Hitomi no Serafu | 77915 | [77915-akai-hitomi-no-serafu.json](./77915-akai-hitomi-no-serafu.json) |
 | Akai Ito & Aoi Shiro HD Remaster | 227974 | [227974-akai-ito-and-aoi-shiro-hd-remaster.json](./227974-akai-ito-and-aoi-shiro-hd-remaster.json) |
+| Akai Ito DS | 206021 | [206021-akai-ito-ds.json](./206021-akai-ito-ds.json) |
 | Akai Katana Shin | 78617 | [78617-akai-katana-shin.json](./78617-akai-katana-shin.json) |
 | Akai Majo | 330910 | [330910-akai-majo.json](./330910-akai-majo.json) |
 | Akai Onna | 277961 | [277961-akai-onna.json](./277961-akai-onna.json) |
@@ -7019,6 +7020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArsonVille | 25729 | [25729-arsonville.json](./25729-arsonville.json) |
 | Art Academy: First Semester | 79260 | [79260-art-academy-first-semester.json](./79260-art-academy-first-semester.json) |
 | Art Academy: Home Studio | 21839 | [21839-art-academy-home-studio.json](./21839-art-academy-home-studio.json) |
+| Art Apart | 206011 | [206011-art-apart.json](./206011-art-apart.json) |
 | Art Appreciation | 307736 | [307736-art-appreciation.json](./307736-art-appreciation.json) |
 | Art Attack | 366924 | [366924-art-attack.json](./366924-art-attack.json) |
 | Art by Numbers | 124140 | [124140-art-by-numbers.json](./124140-art-by-numbers.json) |
@@ -9040,6 +9042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aztec Tomb Adventure | 25853 | [25853-aztec-tomb-adventure.json](./25853-aztec-tomb-adventure.json) |
 | Aztec Tower | 114332 | [114332-aztec-tower.json](./114332-aztec-tower.json) |
 | Aztec Wars | 80628 | [80628-aztec-wars.json](./80628-aztec-wars.json) |
+| Azteca | 206013 | [206013-azteca.json](./206013-azteca.json) |
 | Aztech Forgotten Gods | 145783 | [145783-aztech-forgotten-gods.json](./145783-aztech-forgotten-gods.json) |
 | Aztecs: The Last Sun | 243211 | [243211-aztecs-the-last-sun.json](./243211-aztecs-the-last-sun.json) |
 | Aztlán Codex: El códice de los ancestros | 304684 | [304684-aztlan-codex-el-codice-de-los-ancestros.json](./304684-aztlan-codex-el-codice-de-los-ancestros.json) |
