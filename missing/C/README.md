@@ -2652,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Frost Heir Edition | 251014 | [251014-century-age-of-ashes-frost-heir-edition.json](./251014-century-age-of-ashes-frost-heir-edition.json) |
 | Century: Age of Ashes - Harbinger Edition | 221702 | [221702-century-age-of-ashes-harbinger-edition.json](./221702-century-age-of-ashes-harbinger-edition.json) |
 | Century: Age of Ashes - Heroes of the Continent Bundle | 286546 | [286546-century-age-of-ashes-heroes-of-the-continent-bundle.json](./286546-century-age-of-ashes-heroes-of-the-continent-bundle.json) |
+| Century: Age of Ashes - Myth Starter Edition | 218516 | [218516-century-age-of-ashes-myth-starter-edition.json](./218516-century-age-of-ashes-myth-starter-edition.json) |
 | Century: Age of Ashes - Rimeblood Premium Edition | 259607 | [259607-century-age-of-ashes-rimeblood-premium-edition.json](./259607-century-age-of-ashes-rimeblood-premium-edition.json) |
 | Century: Age of Ashes - Stormraiser Premium Edition | 218451 | [218451-century-age-of-ashes-stormraiser-premium-edition.json](./218451-century-age-of-ashes-stormraiser-premium-edition.json) |
 | Century: Age of Ashes - The Journeyer Edition | 218492 | [218492-century-age-of-ashes-the-journeyer-edition.json](./218492-century-age-of-ashes-the-journeyer-edition.json) |
@@ -3475,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Knight | 386258 | [386258-chibi-knight.json](./386258-chibi-knight.json) |
 | Chibi Knight Classic | 389703 | [389703-chibi-knight-classic.json](./389703-chibi-knight-classic.json) |
 | Chibi Maruko-chan Deluxe Quiz | 47574 | [47574-chibi-maruko-chan-deluxe-quiz.json](./47574-chibi-maruko-chan-deluxe-quiz.json) |
+| Chibi Maruko-chan no Okashi de Piihyarara | 218369 | [218369-chibi-maruko-chan-no-okashi-de-piihyarara.json](./218369-chibi-maruko-chan-no-okashi-de-piihyarara.json) |
 | Chibi Maruko-chan: Maru-chan Ame wo Morai ni Iku no Maki | 284443 | [284443-chibi-maruko-chan-maru-chan-ame-wo-morai-ni-iku-no-maki.json](./284443-chibi-maruko-chan-maru-chan-ame-wo-morai-ni-iku-no-maki.json) |
 | Chibi Reboot | 336690 | [336690-chibi-reboot.json](./336690-chibi-reboot.json) |
 | Chibi Survivor Weather Lord - Survival | 89189 | [89189-chibi-survivor-weather-lord-survival.json](./89189-chibi-survivor-weather-lord-survival.json) |
