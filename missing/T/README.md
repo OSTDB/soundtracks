@@ -4946,6 +4946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fight for Glorton | 196797 | [196797-the-fight-for-glorton.json](./196797-the-fight-for-glorton.json) |
 | The Fight of the Sumo-Hoppers | 314465 | [314465-the-fight-of-the-sumo-hoppers.json](./314465-the-fight-of-the-sumo-hoppers.json) |
 | The Fight: Aftermath | 311173 | [311173-the-fight-aftermath.json](./311173-the-fight-aftermath.json) |
+| The Final Answer | 211114 | [211114-the-final-answer.json](./211114-the-final-answer.json) |
 | The Final Ascent | 408826 | [408826-the-final-ascent.json](./408826-the-final-ascent.json) |
 | The Final Bastion | 238507 | [238507-the-final-bastion.json](./238507-the-final-bastion.json) |
 | The Final Battle | 69254 | [69254-the-final-battle.json](./69254-the-final-battle.json) |
@@ -15835,6 +15836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribe of Pok | 31979 | [31979-tribe-of-pok.json](./31979-tribe-of-pok.json) |
 | Tribe of the Accord | 268221 | [268221-tribe-of-the-accord.json](./268221-tribe-of-the-accord.json) |
 | Tribe Quest | 258998 | [258998-tribe-quest.json](./258998-tribe-quest.json) |
+| Tribe War | 211122 | [211122-tribe-war.json](./211122-tribe-war.json) |
 | TribeQuest: Red Killer | 34771 | [34771-tribequest-red-killer.json](./34771-tribequest-red-killer.json) |
 | Tribes 2 | 922 | [922-tribes-2.json](./922-tribes-2.json) |
 | Tribes Action Pack | 100118 | [100118-tribes-action-pack.json](./100118-tribes-action-pack.json) |
