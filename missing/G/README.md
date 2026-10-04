@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Machine 2 | 346762 | [346762-game-machine-2.json](./346762-game-machine-2.json) |
 | Game Machines: Arcade Casino | 74121 | [74121-game-machines-arcade-casino.json](./74121-game-machines-arcade-casino.json) |
 | Game Night | 406175 | [406175-game-night.json](./406175-game-night.json) |
+| Game Nihonshi: Kakumeiji Oda Nobunaga | 214392 | [214392-game-nihonshi-kakumeiji-oda-nobunaga.json](./214392-game-nihonshi-kakumeiji-oda-nobunaga.json) |
 | Game no Kanzume Vol. 1 | 398458 | [398458-game-no-kanzume-vol-1.json](./398458-game-no-kanzume-vol-1.json) |
 | Game no Kanzume Vol. 2 | 59518 | [59518-game-no-kanzume-vol-2.json](./59518-game-no-kanzume-vol-2.json) |
 | Game no Tatsujin: Money Wars | 41314 | [41314-game-no-tatsujin-money-wars.json](./41314-game-no-tatsujin-money-wars.json) |
@@ -733,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamebook Adventures 8: Curse of the Assassin | 174344 | [174344-gamebook-adventures-8-curse-of-the-assassin.json](./174344-gamebook-adventures-8-curse-of-the-assassin.json) |
 | Gamebox | 291782 | [291782-gamebox.json](./291782-gamebox.json) |
 | GameBoy Wordle | 195209 | [195209-gameboy-wordle.json](./195209-gameboy-wordle.json) |
+| GameBreak | 214554 | [214554-gamebreak.json](./214554-gamebreak.json) |
 | GameBuddies.io | 396597 | [396597-gamebuddies-io.json](./396597-gamebuddies-io.json) |
 | GameCenter CX: 3-Choume no Arino | 79922 | [79922-gamecenter-cx-3-choume-no-arino.json](./79922-gamecenter-cx-3-choume-no-arino.json) |
 | GameCenter CX: Arino no Chousenjou 2 | 79923 | [79923-gamecenter-cx-arino-no-chousenjou-2.json](./79923-gamecenter-cx-arino-no-chousenjou-2.json) |
@@ -3779,6 +3781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Governor of the West | 292632 | [292632-governor-of-the-west.json](./292632-governor-of-the-west.json) |
 | GoWings Safari | 30088 | [30088-gowings-safari.json](./30088-gowings-safari.json) |
 | Goya's Inferno | 345601 | [345601-goyas-inferno.json](./345601-goyas-inferno.json) |
+| Goyangi Jeongwon: Merge | 214381 | [214381-goyangi-jeongwon-merge.json](./214381-goyangi-jeongwon-merge.json) |
 | GP Club Life Motorsports Team | 315650 | [315650-gp-club-life-motorsports-team.json](./315650-gp-club-life-motorsports-team.json) |
 | GP Fight | 92311 | [92311-gp-fight.json](./92311-gp-fight.json) |
 | GP World | 6108 | [6108-gp-world.json](./6108-gp-world.json) |
