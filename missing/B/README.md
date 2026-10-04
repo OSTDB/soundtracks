@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakar Game | 365275 | [365275-bakar-game.json](./365275-bakar-game.json) |
 | Bakatonosama Mahjong Manyuki | 47575 | [47575-bakatonosama-mahjong-manyuki.json](./47575-bakatonosama-mahjong-manyuki.json) |
 | Bake Care | 177931 | [177931-bake-care.json](./177931-bake-care.json) |
+| Bake it Till' You Make it! | 210544 | [210544-bake-it-till-you-make-it.json](./210544-bake-it-till-you-make-it.json) |
 | Bake it! Pizza Master | 378781 | [378781-bake-it-pizza-master.json](./378781-bake-it-pizza-master.json) |
 | Bake Jack | 382216 | [382216-bake-jack.json](./382216-bake-jack.json) |
 | Bakeborough | 211085 | [211085-bakeborough.json](./211085-bakeborough.json) |
@@ -2507,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Frugal | 245901 | [245901-be-frugal.json](./245901-be-frugal.json) |
 | Be Funny Now! | 194440 | [194440-be-funny-now.json](./194440-be-funny-now.json) |
 | Be hate Free Interactive | 112130 | [112130-be-hate-free-interactive.json](./112130-be-hate-free-interactive.json) |
+| Be Her Hero | 210518 | [210518-be-her-hero.json](./210518-be-her-hero.json) |
 | Be Honest | 305536 | [305536-be-honest.json](./305536-be-honest.json) |
 | Be Kind Rewind | 411148 | [411148-be-kind-rewind.json](./411148-be-kind-rewind.json) |
 | Be Kind To Yourself | 328241 | [328241-be-kind-to-yourself.json](./328241-be-kind-to-yourself.json) |
