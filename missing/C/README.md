@@ -2413,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavelon | 40971 | [40971-cavelon.json](./40971-cavelon.json) |
 | Cavelon II | 74071 | [74071-cavelon-ii.json](./74071-cavelon-ii.json) |
 | Caveman | 163276 | [163276-caveman.json](./163276-caveman.json) |
+| Caveman | 216765 | [216765-caveman.json](./216765-caveman.json) |
 | Caveman | 335472 | [335472-caveman.json](./335472-caveman.json) |
 | Caveman | 47281 | [47281-caveman.json](./47281-caveman.json) |
 | Caveman Capers | 13702 | [13702-caveman-capers.json](./13702-caveman-capers.json) |
@@ -3342,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Cartoons | 196826 | [196826-chess-cartoons.json](./196826-chess-cartoons.json) |
 | Chess Cats | 248068 | [248068-chess-cats.json](./248068-chess-cats.json) |
 | Chess Challenger | 227821 | [227821-chess-challenger.json](./227821-chess-challenger.json) |
+| Chess Corp | 216701 | [216701-chess-corp.json](./216701-chess-corp.json) |
 | Chess Defense Saga | 234200 | [234200-chess-defense-saga.json](./234200-chess-defense-saga.json) |
 | Chess Deluxe | 86703 | [86703-chess-deluxe.json](./86703-chess-deluxe.json) |
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
@@ -3393,6 +3395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess, Texas | 358999 | [358999-chess-texas.json](./358999-chess-texas.json) |
 | Chess: Clash of Kings | 187475 | [187475-chess-clash-of-kings.json](./187475-chess-clash-of-kings.json) |
 | Chess: Secrets of the Grandmasters | 206967 | [206967-chess-secrets-of-the-grandmasters.json](./206967-chess-secrets-of-the-grandmasters.json) |
+| Chess: The Lost Pieces | 216702 | [216702-chess-the-lost-pieces.json](./216702-chess-the-lost-pieces.json) |
 | Chess! | 249932 | [249932-chess.json](./249932-chess.json) |
 | Chess.com | 121957 | [121957-chess-com.json](./121957-chess-com.json) |
 | Chess+ | 102828 | [102828-chess.json](./102828-chess.json) |
@@ -4756,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Turn | 311472 | [311472-city-turn.json](./311472-city-turn.json) |
 | City Tycoon | 138127 | [138127-city-tycoon.json](./138127-city-tycoon.json) |
 | City Worker Simulator | 405735 | [405735-city-worker-simulator.json](./405735-city-worker-simulator.json) |
+| City Worlds | 216700 | [216700-city-worlds.json](./216700-city-worlds.json) |
 | City Z | 34682 | [34682-city-z.json](./34682-city-z.json) |
 | City-Racing | 358887 | [358887-city-racing.json](./358887-city-racing.json) |
 | City: Battle Ground | 345012 | [345012-city-battle-ground.json](./345012-city-battle-ground.json) |
