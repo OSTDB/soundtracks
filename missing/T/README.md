@@ -5704,6 +5704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The house of the missing hands | 287763 | [287763-the-house-of-the-missing-hands.json](./287763-the-house-of-the-missing-hands.json) |
 | The House on Ninth Avenue | 260625 | [260625-the-house-on-ninth-avenue.json](./260625-the-house-on-ninth-avenue.json) |
 | The House on the Hill | 387555 | [387555-the-house-on-the-hill.json](./387555-the-house-on-the-hill.json) |
+| The House That Dripped Blood | 203186 | [203186-the-house-that-dripped-blood.json](./203186-the-house-that-dripped-blood.json) |
 | The House that Jack Built | 25725 | [25725-the-house-that-jack-built.json](./25725-the-house-that-jack-built.json) |
 | The House Unrest | 392166 | [392166-the-house-unrest.json](./392166-the-house-unrest.json) |
 | The House Where They Dwell | 192389 | [192389-the-house-where-they-dwell.json](./192389-the-house-where-they-dwell.json) |
@@ -14085,6 +14086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tow Game | 348347 | [348347-tow-game.json](./348347-tow-game.json) |
 | Tow Truck | 104635 | [104635-tow-truck.json](./104635-tow-truck.json) |
 | Tow Truck: Max | 102137 | [102137-tow-truck-max.json](./102137-tow-truck-max.json) |
+| Towa no Sakura | 203199 | [203199-towa-no-sakura.json](./203199-towa-no-sakura.json) |
 | Toward The Ice | 335505 | [335505-toward-the-ice.json](./335505-toward-the-ice.json) |
 | Towards a perilous journey | 102333 | [102333-towards-a-perilous-journey.json](./102333-towards-a-perilous-journey.json) |
 | Towards the Pantheon | 25316 | [25316-towards-the-pantheon.json](./25316-towards-the-pantheon.json) |
@@ -17344,6 +17346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typefighters | 18956 | [18956-typefighters.json](./18956-typefighters.json) |
 | Typefighters: Steam Edition | 90589 | [90589-typefighters-steam-edition.json](./90589-typefighters-steam-edition.json) |
 | Typer | 88354 | [88354-typer.json](./88354-typer.json) |
+| TypeRush | 203185 | [203185-typerush.json](./203185-typerush.json) |
 | Typeshift | 27884 | [27884-typeshift.json](./27884-typeshift.json) |
 | TypeSpell Journey | 294290 | [294290-typespell-journey.json](./294290-typespell-journey.json) |
 | Typewriter Monkeys | 365229 | [365229-typewriter-monkeys.json](./365229-typewriter-monkeys.json) |
