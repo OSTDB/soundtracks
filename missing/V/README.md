@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vajont VR | 221141 | [221141-vajont-vr.json](./221141-vajont-vr.json) |
 | Val d'Isère Ski Park Manager | 64920 | [64920-val-disere-ski-park-manager.json](./64920-val-disere-ski-park-manager.json) |
 | Val d'Isère Ski Park Manager: Edition 2003 | 64919 | [64919-val-disere-ski-park-manager-edition-2003.json](./64919-val-disere-ski-park-manager-edition-2003.json) |
+| Val d'Isère Ski Park Manager: Gold Edition | 206042 | [206042-val-disere-ski-park-manager-gold-edition.json](./206042-val-disere-ski-park-manager-gold-edition.json) |
 | Val d'Isère Skiing and Snowboarding | 175892 | [175892-val-disere-skiing-and-snowboarding.json](./175892-val-disere-skiing-and-snowboarding.json) |
 | Valakas Story | 122824 | [122824-valakas-story.json](./122824-valakas-story.json) |
 | Valakas: Immortal | 154393 | [154393-valakas-immortal.json](./154393-valakas-immortal.json) |
@@ -1371,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Interactive Fireplace | 338566 | [338566-virtual-interactive-fireplace.json](./338566-virtual-interactive-fireplace.json) |
 | Virtual Job Shop Simulator | 107273 | [107273-virtual-job-shop-simulator.json](./107273-virtual-job-shop-simulator.json) |
 | Virtual Jockey | 231515 | [231515-virtual-jockey.json](./231515-virtual-jockey.json) |
+| Virtual K'nex | 206020 | [206020-virtual-knex.json](./206020-virtual-knex.json) |
 | Virtual Karting | 15567 | [15567-virtual-karting.json](./15567-virtual-karting.json) |
 | Virtual Karts | 92982 | [92982-virtual-karts.json](./92982-virtual-karts.json) |
 | Virtual Knee Surgery | 337200 | [337200-virtual-knee-surgery.json](./337200-virtual-knee-surgery.json) |
