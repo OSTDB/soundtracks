@@ -214,7 +214,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuisei Renai Shoukougun | 115480 | [115480-hakuisei-renai-shoukougun.json](./115480-hakuisei-renai-shoukougun.json) |
 | Hakuoki Ibun: Berezinskii no Majo | 287896 | [287896-hakuoki-ibun-berezinskii-no-majo.json](./287896-hakuoki-ibun-berezinskii-no-majo.json) |
 | Hakuoki Shinkai: Ginsei no Shou | 136838 | [136838-hakuoki-shinkai-ginsei-no-shou.json](./136838-hakuoki-shinkai-ginsei-no-shou.json) |
+| Hakuoki Shinkai: Ten'un no Shou | 221222 | [221222-hakuoki-shinkai-tenun-no-shou.json](./221222-hakuoki-shinkai-tenun-no-shou.json) |
 | Hakuoki SSL: Sweet School Life for Nintendo Switch | 243921 | [243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json](./243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json) |
+| Hakuoki Yuugiroku 2: Matsuribayashi to Taishi-tachi | 221221 | [221221-hakuoki-yuugiroku-2-matsuribayashi-to-taishi-tachi.json](./221221-hakuoki-yuugiroku-2-matsuribayashi-to-taishi-tachi.json) |
+| Hakuoki Yuugiroku DS | 221219 | [221219-hakuoki-yuugiroku-ds.json](./221219-hakuoki-yuugiroku-ds.json) |
 | Hakuoki Yuugiroku Taishitachi no Daienkai | 124016 | [124016-hakuoki-yuugiroku-taishitachi-no-daienkai.json](./124016-hakuoki-yuugiroku-taishitachi-no-daienkai.json) |
 | Hakuoki: Chronicles of Wind and Blossom | 101066 | [101066-hakuoki-chronicles-of-wind-and-blossom.json](./101066-hakuoki-chronicles-of-wind-and-blossom.json) |
 | Hakuoki: Demon of the Fleeting Blossom | 17272 | [17272-hakuoki-demon-of-the-fleeting-blossom.json](./17272-hakuoki-demon-of-the-fleeting-blossom.json) |
@@ -302,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Loop | 221797 | [221797-half-life-loop.json](./221797-half-life-loop.json) |
 | Half-Life: Military Duty | 222314 | [222314-half-life-military-duty.json](./222314-half-life-military-duty.json) |
 | Half-Life: Mission of Mercy | 248300 | [248300-half-life-mission-of-mercy.json](./248300-half-life-mission-of-mercy.json) |
+| Half-Life: Peaces Like Us | 221213 | [221213-half-life-peaces-like-us.json](./221213-half-life-peaces-like-us.json) |
 | Half-Life: Prison | 221855 | [221855-half-life-prison.json](./221855-half-life-prison.json) |
 | Half-Life: Pulse | 248292 | [248292-half-life-pulse.json](./248292-half-life-pulse.json) |
 | Half-Life: Rally | 221805 | [221805-half-life-rally.json](./221805-half-life-rally.json) |
