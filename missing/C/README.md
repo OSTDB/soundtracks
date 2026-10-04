@@ -1994,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Life | 230525 | [230525-cat-life.json](./230525-cat-life.json) |
 | Cat Life Simulator | 267486 | [267486-cat-life-simulator.json](./267486-cat-life-simulator.json) |
 | Cat Lobster Simulator | 253401 | [253401-cat-lobster-simulator.json](./253401-cat-lobster-simulator.json) |
+| Cat Lovescapes | 204427 | [204427-cat-lovescapes.json](./204427-cat-lovescapes.json) |
 | Cat Magic School | 350002 | [350002-cat-magic-school.json](./350002-cat-magic-school.json) |
 | Cat Mail Co. | 406739 | [406739-cat-mail-co.json](./406739-cat-mail-co.json) |
 | Cat Meat | 32911 | [32911-cat-meat.json](./32911-cat-meat.json) |
@@ -6159,6 +6160,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Book: Bundle For Kids - 140 drawings | 284510 | [284510-coloring-book-bundle-for-kids-140-drawings.json](./284510-coloring-book-bundle-for-kids-140-drawings.json) |
 | Coloring Book: Complete Bundle - 410 drawings | 283191 | [283191-coloring-book-complete-bundle-410-drawings.json](./283191-coloring-book-complete-bundle-410-drawings.json) |
 | Coloring Book: Cute Edition | 332514 | [332514-coloring-book-cute-edition.json](./332514-coloring-book-cute-edition.json) |
+| Coloring Book: Farm Life | 204295 | [204295-coloring-book-farm-life.json](./204295-coloring-book-farm-life.json) |
+| Coloring Book: Ocean Animals | 204294 | [204294-coloring-book-ocean-animals.json](./204294-coloring-book-ocean-animals.json) |
 | Coloring Book: Spring 2022 DLC Pack | 223595 | [223595-coloring-book-spring-2022-dlc-pack.json](./223595-coloring-book-spring-2022-dlc-pack.json) |
 | Coloring Bundle | 317237 | [317237-coloring-bundle.json](./317237-coloring-bundle.json) |
 | Coloring Game | 114998 | [114998-coloring-game.json](./114998-coloring-game.json) |
@@ -7263,6 +7266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena: Value Edition | 399814 | [399814-cooking-arena-value-edition.json](./399814-cooking-arena-value-edition.json) |
 | Cooking by the Numbers | 364616 | [364616-cooking-by-the-numbers.json](./364616-cooking-by-the-numbers.json) |
 | Cooking Champions | 119017 | [119017-cooking-champions.json](./119017-cooking-champions.json) |
+| Cooking Championship | 204325 | [204325-cooking-championship.json](./204325-cooking-championship.json) |
 | Cooking Chaos | 246492 | [246492-cooking-chaos.json](./246492-cooking-chaos.json) |
 | Cooking Craze | 88770 | [88770-cooking-craze.json](./88770-cooking-craze.json) |
 | Cooking Crew | 262954 | [262954-cooking-crew.json](./262954-cooking-crew.json) |
