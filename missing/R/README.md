@@ -5340,6 +5340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Knight | 277938 | [277938-rogue-knight.json](./277938-rogue-knight.json) |
 | Rogue Labyrinth | 249195 | [249195-rogue-labyrinth.json](./249195-rogue-labyrinth.json) |
 | Rogue Loops | 323755 | [323755-rogue-loops.json](./323755-rogue-loops.json) |
+| Rogue Lords: Blood Moon Edition | 173100 | [173100-rogue-lords-blood-moon-edition.json](./173100-rogue-lords-blood-moon-edition.json) |
 | Rogue Lords: Day One Edition | 199631 | [199631-rogue-lords-day-one-edition.json](./199631-rogue-lords-day-one-edition.json) |
 | Rogue Mate | 406201 | [406201-rogue-mate.json](./406201-rogue-mate.json) |
 | Rogue Monster Rush | 325523 | [325523-rogue-monster-rush.json](./325523-rogue-monster-rush.json) |
