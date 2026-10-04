@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakeview Cabin 2 | 149478 | [149478-lakeview-cabin-2.json](./149478-lakeview-cabin-2.json) |
 | Lakeview Valley | 117690 | [117690-lakeview-valley.json](./117690-lakeview-valley.json) |
 | Lakitu's Great Adventure | 217842 | [217842-lakitus-great-adventure.json](./217842-lakitus-great-adventure.json) |
+| Lakitu's Great Adventure 2 | 222974 | [222974-lakitus-great-adventure-2.json](./222974-lakitus-great-adventure-2.json) |
 | Lala Hentai 2 | 375970 | [375970-lala-hentai-2.json](./375970-lala-hentai-2.json) |
 | Lala the Magical | 48298 | [48298-lala-the-magical.json](./48298-lala-the-magical.json) |
 | Lalaloopsy: Sew Magical! Sew Cute! | 113888 | [113888-lalaloopsy-sew-magical-sew-cute.json](./113888-lalaloopsy-sew-magical-sew-cute.json) |
@@ -4917,6 +4918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi Puzzle | 341142 | [341142-luigi-puzzle.json](./341142-luigi-puzzle.json) |
 | Luigi Quest | 318025 | [318025-luigi-quest.json](./318025-luigi-quest.json) |
 | Luigi Run | 203387 | [203387-luigi-run.json](./203387-luigi-run.json) |
+| Luigi vs. Wario | 222971 | [222971-luigi-vs-wario.json](./222971-luigi-vs-wario.json) |
 | Luigi: Insanity | 335659 | [335659-luigi-insanity.json](./335659-luigi-insanity.json) |
 | Luigi's Adventure OSE | 276786 | [276786-luigis-adventure-ose.json](./276786-luigis-adventure-ose.json) |
 | Luigi's Boo Hunt | 352300 | [352300-luigis-boo-hunt.json](./352300-luigis-boo-hunt.json) |
