@@ -3085,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie Foxtrot & The Galaxy of Tomorrow | 166692 | [166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json](./166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json) |
 | Charlie from the swamp | 152781 | [152781-charlie-from-the-swamp.json](./152781-charlie-from-the-swamp.json) |
 | Charlie II: Expansion Pack | 169327 | [169327-charlie-ii-expansion-pack.json](./169327-charlie-ii-expansion-pack.json) |
+| Charlie in the Moistverse of Madness | 192257 | [192257-charlie-in-the-moistverse-of-madness.json](./192257-charlie-in-the-moistverse-of-madness.json) |
 | Charlie Murder | 19914 | [19914-charlie-murder.json](./19914-charlie-murder.json) |
 | Charlie Ninja | 39832 | [39832-charlie-ninja.json](./39832-charlie-ninja.json) |
 | Charlie Spotlight | 391897 | [391897-charlie-spotlight.json](./391897-charlie-spotlight.json) |
