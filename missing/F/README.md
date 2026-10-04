@@ -2009,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feral Blue | 99078 | [99078-feral-blue.json](./99078-feral-blue.json) |
 | Feral Boyfriend | 268659 | [268659-feral-boyfriend.json](./268659-feral-boyfriend.json) |
 | Feral Echoes | 351689 | [351689-feral-echoes.json](./351689-feral-echoes.json) |
+| Feral Hearts | 198326 | [198326-feral-hearts.json](./198326-feral-hearts.json) |
 | FeralHeart Unleashed | 225703 | [225703-feralheart-unleashed.json](./225703-feralheart-unleashed.json) |
 | Feralscape | 185417 | [185417-feralscape.json](./185417-feralscape.json) |
 | Ferarum | 396366 | [396366-ferarum.json](./396366-ferarum.json) |
@@ -4235,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flore | 204527 | [204527-flore.json](./204527-flore.json) |
 | Florealia | 214563 | [214563-florealia.json](./214563-florealia.json) |
 | Florensia | 34922 | [34922-florensia.json](./34922-florensia.json) |
+| Flores con Historias | 198330 | [198330-flores-con-historias.json](./198330-flores-con-historias.json) |
 | Florescer | 159058 | [159058-florescer.json](./159058-florescer.json) |
 | Floresia I: Intemporel | 80897 | [80897-floresia-i-intemporel.json](./80897-floresia-i-intemporel.json) |
 | Floret Bond | 178035 | [178035-floret-bond.json](./178035-floret-bond.json) |
@@ -6088,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin: vs. Jeff | 242615 | [242615-friday-night-funkin-vs-jeff.json](./242615-friday-night-funkin-vs-jeff.json) |
 | Friday Night Funkin' 64 | 294774 | [294774-friday-night-funkin-64.json](./294774-friday-night-funkin-64.json) |
 | Friday Night Funkin' Battle Waifu | 205627 | [205627-friday-night-funkin-battle-waifu.json](./205627-friday-night-funkin-battle-waifu.json) |
+| Friday Night Funkin' D-Sides | 198304 | [198304-friday-night-funkin-d-sides.json](./198304-friday-night-funkin-d-sides.json) |
 | Friday Night Funkin' Lullaby | 198347 | [198347-friday-night-funkin-lullaby.json](./198347-friday-night-funkin-lullaby.json) |
 | Friday Night Funkin' Red Version: vs. Red | 322374 | [322374-friday-night-funkin-red-version-vs-red.json](./322374-friday-night-funkin-red-version-vs-red.json) |
 | Friday Night Funkin' Soft | 206928 | [206928-friday-night-funkin-soft.json](./206928-friday-night-funkin-soft.json) |
@@ -6097,6 +6100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin' vs. NFT | 325104 | [325104-friday-night-funkin-vs-nft.json](./325104-friday-night-funkin-vs-nft.json) |
 | Friday Night Funkin': Banbuds vs. Reggie the Rat | 202337 | [202337-friday-night-funkin-banbuds-vs-reggie-the-rat.json](./202337-friday-night-funkin-banbuds-vs-reggie-the-rat.json) |
 | Friday Night Funkin': CG5 Edition | 224523 | [224523-friday-night-funkin-cg5-edition.json](./224523-friday-night-funkin-cg5-edition.json) |
+| Friday Night Funkin': Elements of Insanity | 198303 | [198303-friday-night-funkin-elements-of-insanity.json](./198303-friday-night-funkin-elements-of-insanity.json) |
 | Friday Night Funkin': Hotline 024 | 201320 | [201320-friday-night-funkin-hotline-024.json](./201320-friday-night-funkin-hotline-024.json) |
 | Friday Night Funkin': Idol | 269294 | [269294-friday-night-funkin-idol.json](./269294-friday-night-funkin-idol.json) |
 | Friday Night Funkin': In the Galaxy | 228605 | [228605-friday-night-funkin-in-the-galaxy.json](./228605-friday-night-funkin-in-the-galaxy.json) |
