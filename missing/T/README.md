@@ -2413,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrain Defender | 402381 | [402381-terrain-defender.json](./402381-terrain-defender.json) |
 | Terrain of Magical Expertise | 72762 | [72762-terrain-of-magical-expertise.json](./72762-terrain-of-magical-expertise.json) |
 | Terralysia | 284591 | [284591-terralysia.json](./284591-terralysia.json) |
+| Terramachi: Battle Card Game | 215007 | [215007-terramachi-battle-card-game.json](./215007-terramachi-battle-card-game.json) |
 | TerraMartis4x | 157050 | [157050-terramartis4x.json](./157050-terramartis4x.json) |
 | Terranigma | 9633 | [9633-terranigma.json](./9633-terranigma.json) |
 | TerranLands | 258513 | [258513-terranlands.json](./258513-terranlands.json) |
@@ -2719,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Textures Not Found | 405524 | [405524-textures-not-found.json](./405524-textures-not-found.json) |
 | Texturetown | 411742 | [411742-texturetown.json](./411742-texturetown.json) |
 | Tezcatlipoca | 350488 | [350488-tezcatlipoca.json](./350488-tezcatlipoca.json) |
+| Tezotopia | 215019 | [215019-tezotopia.json](./215019-tezotopia.json) |
 | Tezzel: The Tilemaker's Tale | 344923 | [344923-tezzel-the-tilemakers-tale.json](./344923-tezzel-the-tilemakers-tale.json) |
 | TFX | 44874 | [44874-tfx.json](./44874-tfx.json) |
 | TG Motocross 3 | 222858 | [222858-tg-motocross-3.json](./222858-tg-motocross-3.json) |
@@ -12593,6 +12595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toad Tavern | 313247 | [313247-toad-tavern.json](./313247-toad-tavern.json) |
 | Toad Turf | 391898 | [391898-toad-turf.json](./391898-toad-turf.json) |
 | Toad's Adventure | 48318 | [48318-toads-adventure.json](./48318-toads-adventure.json) |
+| Toad's Christmas Adventure | 214997 | [214997-toads-christmas-adventure.json](./214997-toads-christmas-adventure.json) |
 | Toad's Soul Hopper | 301024 | [301024-toads-soul-hopper.json](./301024-toads-soul-hopper.json) |
 | Toad's Trees | 346132 | [346132-toads-trees.json](./346132-toads-trees.json) |
 | Toad's Typical Day | 322107 | [322107-toads-typical-day.json](./322107-toads-typical-day.json) |
@@ -13852,6 +13855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Makuka Sai: Fantastic Danmaku Festival | 106400 | [106400-touhou-makuka-sai-fantastic-danmaku-festival.json](./106400-touhou-makuka-sai-fantastic-danmaku-festival.json) |
 | Touhou Makuka Sai: Fantastic Danmaku Festival Part III | 331125 | [331125-touhou-makuka-sai-fantastic-danmaku-festival-part-iii.json](./331125-touhou-makuka-sai-fantastic-danmaku-festival-part-iii.json) |
 | Touhou Mario 2 | 322652 | [322652-touhou-mario-2.json](./322652-touhou-mario-2.json) |
+| Touhou Mario: Imperishable Night | 214996 | [214996-touhou-mario-imperishable-night.json](./214996-touhou-mario-imperishable-night.json) |
 | Touhou Mashousei: Fairies of Sorcery | 280178 | [280178-touhou-mashousei-fairies-of-sorcery.json](./280178-touhou-mashousei-fairies-of-sorcery.json) |
 | Touhou Mechanical Scrollery | 130061 | [130061-touhou-mechanical-scrollery.json](./130061-touhou-mechanical-scrollery.json) |
 | Touhou Meisuishu: Resurrection of Heaven's Liquor | 375382 | [375382-touhou-meisuishu-resurrection-of-heavens-liquor.json](./375382-touhou-meisuishu-resurrection-of-heavens-liquor.json) |
