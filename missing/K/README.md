@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindergarten: Buddy Edition | 232999 | [232999-kindergarten-buddy-edition.json](./232999-kindergarten-buddy-edition.json) |
 | Kindled Cavern | 29816 | [29816-kindled-cavern.json](./29816-kindled-cavern.json) |
 | Kindling: The Last Light | 183365 | [183365-kindling-the-last-light.json](./183365-kindling-the-last-light.json) |
+| Kindness | 177813 | [177813-kindness.json](./177813-kindness.json) |
 | Kindred | 295896 | [295896-kindred.json](./295896-kindred.json) |
 | Kindred | 313888 | [313888-kindred.json](./313888-kindred.json) |
 | Kindred [SnowBound] | 402522 | [402522-kindred-snowbound.json](./402522-kindred-snowbound.json) |
