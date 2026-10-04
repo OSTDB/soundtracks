@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gameday Live | 82066 | [82066-gameday-live.json](./82066-gameday-live.json) |
 | Gamedec: Dafne Bennet | 196148 | [196148-gamedec-dafne-bennet.json](./196148-gamedec-dafne-bennet.json) |
 | Gamedec: Definitive Edition | 219788 | [219788-gamedec-definitive-edition.json](./219788-gamedec-definitive-edition.json) |
+| Gamedec: Digital Deluxe Edition | 173104 | [173104-gamedec-digital-deluxe-edition.json](./173104-gamedec-digital-deluxe-edition.json) |
 | Gamedec: Izmael Krostov | 196147 | [196147-gamedec-izmael-krostov.json](./196147-gamedec-izmael-krostov.json) |
 | Gamedev Beatdown | 127986 | [127986-gamedev-beatdown.json](./127986-gamedev-beatdown.json) |
 | GameDev Clicker: Tap & Build | 411085 | [411085-gamedev-clicker-tap-and-build.json](./411085-gamedev-clicker-tap-and-build.json) |
