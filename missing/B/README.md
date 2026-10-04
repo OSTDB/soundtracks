@@ -834,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballex 2: The Hanging Gardens | 207728 | [207728-ballex-2-the-hanging-gardens.json](./207728-ballex-2-the-hanging-gardens.json) |
 | BallFrog | 186755 | [186755-ballfrog.json](./186755-ballfrog.json) |
 | Ballgame 2 | 79224 | [79224-ballgame-2.json](./79224-ballgame-2.json) |
+| Ballgirl and the 64 Lost Gems | 181720 | [181720-ballgirl-and-the-64-lost-gems.json](./181720-ballgirl-and-the-64-lost-gems.json) |
 | Ballin' | 173239 | [173239-ballin.json](./173239-ballin.json) |
 | Ballionaire | 274333 | [274333-ballionaire.json](./274333-ballionaire.json) |
 | Ballista Legend | 117038 | [117038-ballista-legend.json](./117038-ballista-legend.json) |
@@ -5429,6 +5430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobbz Online | 186144 | [186144-blobbz-online.json](./186144-blobbz-online.json) |
 | Blobert | 158598 | [158598-blobert.json](./158598-blobert.json) |
 | Blobi Sprint | 248291 | [248291-blobi-sprint.json](./248291-blobi-sprint.json) |
+| Blobify | 181741 | [181741-blobify.json](./181741-blobify.json) |
 | Blobkin Blaster | 158699 | [158699-blobkin-blaster.json](./158699-blobkin-blaster.json) |
 | Blobl.io | 316086 | [316086-blobl-io.json](./316086-blobl-io.json) |
 | Bloble.io | 126022 | [126022-bloble-io.json](./126022-bloble-io.json) |
