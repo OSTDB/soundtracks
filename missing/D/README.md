@@ -797,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Grid | 373014 | [373014-dark-grid.json](./373014-dark-grid.json) |
 | Dark Half | 42562 | [42562-dark-half.json](./42562-dark-half.json) |
 | Dark Harvest: Ascension | 224577 | [224577-dark-harvest-ascension.json](./224577-dark-harvest-ascension.json) |
+| Dark Haunting | 192225 | [192225-dark-haunting.json](./192225-dark-haunting.json) |
 | Dark Heart Mansion | 156994 | [156994-dark-heart-mansion.json](./156994-dark-heart-mansion.json) |
 | Dark Honor | 403652 | [403652-dark-honor.json](./403652-dark-honor.json) |
 | Dark Horizon | 19639 | [19639-dark-horizon.json](./19639-dark-horizon.json) |
@@ -1874,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Pixels | 346658 | [346658-dead-pixels.json](./346658-dead-pixels.json) |
 | Dead Pixels | 5448 | [5448-dead-pixels.json](./5448-dead-pixels.json) |
 | Dead Pixels II: Straight to Video | 18362 | [18362-dead-pixels-ii-straight-to-video.json](./18362-dead-pixels-ii-straight-to-video.json) |
+| Dead Profit | 192274 | [192274-dead-profit.json](./192274-dead-profit.json) |
 | Dead Raid | 140516 | [140516-dead-raid.json](./140516-dead-raid.json) |
 | Dead Rails | 335356 | [335356-dead-rails.json](./335356-dead-rails.json) |
 | Dead Reckoner | 406220 | [406220-dead-reckoner.json](./406220-dead-reckoner.json) |
@@ -2228,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Crown | 90270 | [90270-death-crown.json](./90270-death-crown.json) |
 | Death Crown: Era of Human | 171920 | [171920-death-crown-era-of-human.json](./171920-death-crown-era-of-human.json) |
 | Death Cube | 199096 | [199096-death-cube.json](./199096-death-cube.json) |
+| Death Damnation | 192253 | [192253-death-damnation.json](./192253-death-damnation.json) |
 | Death Delivery | 371237 | [371237-death-delivery.json](./371237-death-delivery.json) |
 | Death Dojo | 30913 | [30913-death-dojo.json](./30913-death-dojo.json) |
 | Death Drive | 197775 | [197775-death-drive.json](./197775-death-drive.json) |
