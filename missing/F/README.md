@@ -1774,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FD's Industry Tycoon | 409588 | [409588-fds-industry-tycoon.json](./409588-fds-industry-tycoon.json) |
 | FDNY Firefighter: American Heroes | 206050 | [206050-fdny-firefighter-american-heroes.json](./206050-fdny-firefighter-american-heroes.json) |
 | Fealty | 175213 | [175213-fealty.json](./175213-fealty.json) |
+| Fealty | 195559 | [195559-fealty.json](./195559-fealty.json) |
 | Fear & Fury | 238716 | [238716-fear-and-fury.json](./238716-fear-and-fury.json) |
 | Fear & Hunger 2: Termina | 224262 | [224262-fear-and-hunger-2-termina.json](./224262-fear-and-hunger-2-termina.json) |
 | Fear & Hunger 3 | 324308 | [324308-fear-and-hunger-3.json](./324308-fear-and-hunger-3.json) |
@@ -2820,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Bug | 234076 | [234076-find-the-bug.json](./234076-find-the-bug.json) |
 | Find the Cat: Nightmare | 391604 | [391604-find-the-cat-nightmare.json](./391604-find-the-cat-nightmare.json) |
 | Find the Cats: Japan Journey | 364077 | [364077-find-the-cats-japan-journey.json](./364077-find-the-cats-japan-journey.json) |
+| Find the Cats: Memory | 195593 | [195593-find-the-cats-memory.json](./195593-find-the-cats-memory.json) |
 | Find the Differences Detective | 232174 | [232174-find-the-differences-detective.json](./232174-find-the-differences-detective.json) |
 | Find the Four-Leaf Clover | 389055 | [389055-find-the-four-leaf-clover.json](./389055-find-the-four-leaf-clover.json) |
 | Find the Gnome | 96682 | [96682-find-the-gnome.json](./96682-find-the-gnome.json) |
@@ -5102,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Depths | 381034 | [381034-forgotten-depths.json](./381034-forgotten-depths.json) |
 | Forgotten Dreams | 340233 | [340233-forgotten-dreams.json](./340233-forgotten-dreams.json) |
 | Forgotten Eras | 368499 | [368499-forgotten-eras.json](./368499-forgotten-eras.json) |
+| Forgotten Fables: Wolves on the Westwind | 195567 | [195567-forgotten-fables-wolves-on-the-westwind.json](./195567-forgotten-fables-wolves-on-the-westwind.json) |
 | Forgotten Faces | 47998 | [47998-forgotten-faces.json](./47998-forgotten-faces.json) |
 | Forgotten Fears | 312734 | [312734-forgotten-fears.json](./312734-forgotten-fears.json) |
 | Forgotten Forest: Afterlife | 58301 | [58301-forgotten-forest-afterlife.json](./58301-forgotten-forest-afterlife.json) |
@@ -6392,6 +6395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Hel to Asgard | 367983 | [367983-from-hel-to-asgard.json](./367983-from-hel-to-asgard.json) |
 | From Hell | 217399 | [217399-from-hell.json](./217399-from-hell.json) |
 | From Hell | 320524 | [320524-from-hell.json](./320524-from-hell.json) |
+| From Lex to Rex | 195574 | [195574-from-lex-to-rex.json](./195574-from-lex-to-rex.json) |
 | From Light | 59999 | [59999-from-light.json](./59999-from-light.json) |
 | From Madness with Love | 215934 | [215934-from-madness-with-love.json](./215934-from-madness-with-love.json) |
 | From Nava | 282139 | [282139-from-nava.json](./282139-from-nava.json) |
