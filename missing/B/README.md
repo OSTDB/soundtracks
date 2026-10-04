@@ -9214,6 +9214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 18: Setra Bus Pack 1 | 224124 | [224124-bus-simulator-18-setra-bus-pack-1.json](./224124-bus-simulator-18-setra-bus-pack-1.json) |
 | Bus Simulator 2015 HD: New York Route | 97148 | [97148-bus-simulator-2015-hd-new-york-route.json](./97148-bus-simulator-2015-hd-new-york-route.json) |
 | Bus Simulator 2023 | 227959 | [227959-bus-simulator-2023.json](./227959-bus-simulator-2023.json) |
+| Bus Simulator 21: Angel Shores Insider Skin Pack | 213848 | [213848-bus-simulator-21-angel-shores-insider-skin-pack.json](./213848-bus-simulator-21-angel-shores-insider-skin-pack.json) |
 | Bus Simulator 21: MAN Bus Pack | 213951 | [213951-bus-simulator-21-man-bus-pack.json](./213951-bus-simulator-21-man-bus-pack.json) |
 | Bus Simulator 21: Next Stop - Ebusco Bus Pack | 249892 | [249892-bus-simulator-21-next-stop-ebusco-bus-pack.json](./249892-bus-simulator-21-next-stop-ebusco-bus-pack.json) |
 | Bus Simulator 21: Next Stop - Halloween Skin Pack | 263040 | [263040-bus-simulator-21-next-stop-halloween-skin-pack.json](./263040-bus-simulator-21-next-stop-halloween-skin-pack.json) |
@@ -9223,6 +9224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 21: Next Stop - Official School Bus Extension | 264117 | [264117-bus-simulator-21-next-stop-official-school-bus-extension.json](./264117-bus-simulator-21-next-stop-official-school-bus-extension.json) |
 | Bus Simulator 21: Next Stop - VDL Bus Pack | 250418 | [250418-bus-simulator-21-next-stop-vdl-bus-pack.json](./250418-bus-simulator-21-next-stop-vdl-bus-pack.json) |
 | Bus Simulator 21: Protect Nature Interior Pack | 213950 | [213950-bus-simulator-21-protect-nature-interior-pack.json](./213950-bus-simulator-21-protect-nature-interior-pack.json) |
+| Bus Simulator 21: USA Skin Pack | 213849 | [213849-bus-simulator-21-usa-skin-pack.json](./213849-bus-simulator-21-usa-skin-pack.json) |
 | Bus Simulator 21: VDL Bus Pack | 213952 | [213952-bus-simulator-21-vdl-bus-pack.json](./213952-bus-simulator-21-vdl-bus-pack.json) |
 | Bus Simulator 27 | 355086 | [355086-bus-simulator-27.json](./355086-bus-simulator-27.json) |
 | Bus Simulator 3D | 241060 | [241060-bus-simulator-3d.json](./241060-bus-simulator-3d.json) |
@@ -9358,6 +9360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buttons Up! | 386419 | [386419-buttons-up.json](./386419-buttons-up.json) |
 | Buttons Up! 2 | 405568 | [405568-buttons-up-2.json](./405568-buttons-up-2.json) |
 | Buy a Croquette! | 360750 | [360750-buy-a-croquette.json](./360750-buy-a-croquette.json) |
+| Buy Hyacinths | 214008 | [214008-buy-hyacinths.json](./214008-buy-hyacinths.json) |
 | Buy Low Sell High | 109707 | [109707-buy-low-sell-high.json](./109707-buy-low-sell-high.json) |
 | Buy Me Some Soup | 188682 | [188682-buy-me-some-soup.json](./188682-buy-me-some-soup.json) |
 | Buy Sell | 374158 | [374158-buy-sell.json](./374158-buy-sell.json) |
