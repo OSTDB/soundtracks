@@ -2008,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Masturbate | 384634 | [384634-vr-masturbate.json](./384634-vr-masturbate.json) |
 | VR Military Reporter in Middle East (with tanks & helicopters) | 163737 | [163737-vr-military-reporter-in-middle-east-with-tanks-and-helicopters.json](./163737-vr-military-reporter-in-middle-east-with-tanks-and-helicopters.json) |
 | VR Mini Bowling | 81115 | [81115-vr-mini-bowling.json](./81115-vr-mini-bowling.json) |
+| VR Mini Bowling 2 | 202207 | [202207-vr-mini-bowling-2.json](./202207-vr-mini-bowling-2.json) |
 | VR Mini Golf | 138609 | [138609-vr-mini-golf.json](./138609-vr-mini-golf.json) |
 | VR Monster Awakens | 30176 | [30176-vr-monster-awakens.json](./30176-vr-monster-awakens.json) |
 | VR Multi-Games | 32119 | [32119-vr-multi-games.json](./32119-vr-multi-games.json) |
