@@ -1775,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Force | 299828 | [299828-dead-force.json](./299828-dead-force.json) |
 | Dead Freight | 345683 | [345683-dead-freight.json](./345683-dead-freight.json) |
 | Dead Frequency | 373214 | [373214-dead-frequency.json](./373214-dead-frequency.json) |
+| Dead Frog Tell No Tales | 182882 | [182882-dead-frog-tell-no-tales.json](./182882-dead-frog-tell-no-tales.json) |
 | Dead Fun Pack: Penguins and Aliens Strike Again | 102588 | [102588-dead-fun-pack-penguins-and-aliens-strike-again.json](./102588-dead-fun-pack-penguins-and-aliens-strike-again.json) |
 | Dead Function | 179737 | [179737-dead-function.json](./179737-dead-function.json) |
 | Dead Fury | 193734 | [193734-dead-fury.json](./193734-dead-fury.json) |
