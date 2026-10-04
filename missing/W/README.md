@@ -2667,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WikiAsteroids | 386928 | [386928-wikiasteroids.json](./386928-wikiasteroids.json) |
 | WikiParty.org | 233584 | [233584-wikiparty-org.json](./233584-wikiparty-org.json) |
 | Wikipedia Gacha | 394176 | [394176-wikipedia-gacha.json](./394176-wikipedia-gacha.json) |
+| Wikitrivia | 212691 | [212691-wikitrivia.json](./212691-wikitrivia.json) |
 | Wiktor TD | 178426 | [178426-wiktor-td.json](./178426-wiktor-td.json) |
 | Wilbur Scoville’s 151st Birthday | 375817 | [375817-wilbur-scoville-s-151st-birthday.json](./375817-wilbur-scoville-s-151st-birthday.json) |
 | Wild | 242115 | [242115-wild.json](./242115-wild.json) |
