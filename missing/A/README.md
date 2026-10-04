@@ -4462,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Keys DX | 321448 | [321448-ancient-keys-dx.json](./321448-ancient-keys-dx.json) |
 | Ancient Magic: Bazuu! Mahou Sekai | 15892 | [15892-ancient-magic-bazuu-mahou-sekai.json](./15892-ancient-magic-bazuu-mahou-sekai.json) |
 | Ancient Mahjong | 267370 | [267370-ancient-mahjong.json](./267370-ancient-mahjong.json) |
+| Ancient Medieval Empire | 192246 | [192246-ancient-medieval-empire.json](./192246-ancient-medieval-empire.json) |
 | Ancient Military | 392800 | [392800-ancient-military.json](./392800-ancient-military.json) |
 | Ancient Mind | 244879 | [244879-ancient-mind.json](./244879-ancient-mind.json) |
 | Ancient Observer | 297570 | [297570-ancient-observer.json](./297570-ancient-observer.json) |
@@ -7862,6 +7863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Savior | 347779 | [347779-astral-savior.json](./347779-astral-savior.json) |
 | Astral Sever | 414337 | [414337-astral-sever.json](./414337-astral-sever.json) |
 | Astral Shipwright | 193198 | [193198-astral-shipwright.json](./193198-astral-shipwright.json) |
+| Astral Slider | 192262 | [192262-astral-slider.json](./192262-astral-slider.json) |
 | Astral Stairways | 142993 | [142993-astral-stairways.json](./142993-astral-stairways.json) |
 | Astral Tale | 271915 | [271915-astral-tale.json](./271915-astral-tale.json) |
 | Astral Terra | 16882 | [16882-astral-terra.json](./16882-astral-terra.json) |
@@ -8705,6 +8707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automobilista: Formula Truck | 171085 | [171085-automobilista-formula-truck.json](./171085-automobilista-formula-truck.json) |
 | Automobilista: Legendary Tracks Part 3 - Hockenheim | 171372 | [171372-automobilista-legendary-tracks-part-3-hockenheim.json](./171372-automobilista-legendary-tracks-part-3-hockenheim.json) |
 | Automobilista: Snetterton | 171087 | [171087-automobilista-snetterton.json](./171087-automobilista-snetterton.json) |
+| Automon | 192226 | [192226-automon.json](./192226-automon.json) |
 | Automonopoli | 94566 | [94566-automonopoli.json](./94566-automonopoli.json) |
 | Automount | 341637 | [341637-automount.json](./341637-automount.json) |
 | Autonauts | 54736 | [54736-autonauts.json](./54736-autonauts.json) |
