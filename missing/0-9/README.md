@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Earth Chronicles 8 | 199582 | [199582-1001-jigsaw-earth-chronicles-8.json](./199582-1001-jigsaw-earth-chronicles-8.json) |
 | 1001 Jigsaw: Home Sweet Home - Back from Vacation | 188933 | [188933-1001-jigsaw-home-sweet-home-back-from-vacation.json](./188933-1001-jigsaw-home-sweet-home-back-from-vacation.json) |
 | 1001 Jigsaw: Ice Age | 268041 | [268041-1001-jigsaw-ice-age.json](./268041-1001-jigsaw-ice-age.json) |
+| 1001 Jigsaw: Interior Design | 208836 | [208836-1001-jigsaw-interior-design.json](./208836-1001-jigsaw-interior-design.json) |
 | 1001 Jigsaw: Legends of Mystery 4 | 200701 | [200701-1001-jigsaw-legends-of-mystery-4.json](./200701-1001-jigsaw-legends-of-mystery-4.json) |
 | 1001 Jigsaw: Legends of Mystery 6 | 212899 | [212899-1001-jigsaw-legends-of-mystery-6.json](./212899-1001-jigsaw-legends-of-mystery-6.json) |
 | 1001 Jigsaw: World Tour - Asia | 102732 | [102732-1001-jigsaw-world-tour-asia.json](./102732-1001-jigsaw-world-tour-asia.json) |
@@ -906,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2weistein: The Curse of the Red Dragon 2 | 166158 | [166158-2weistein-the-curse-of-the-red-dragon-2.json](./166158-2weistein-the-curse-of-the-red-dragon-2.json) |
 | 2weistein: The Curse of the Red Dragon 3 - Ronger Pirates | 214561 | [214561-2weistein-the-curse-of-the-red-dragon-3-ronger-pirates.json](./214561-2weistein-the-curse-of-the-red-dragon-3-ronger-pirates.json) |
 | 2win Ghost | 92619 | [92619-2win-ghost.json](./92619-2win-ghost.json) |
+| 2X | 208984 | [208984-2x.json](./208984-2x.json) |
 | 2x4 Nails | 258003 | [258003-2x4-nails.json](./258003-2x4-nails.json) |
 | 2XL ATV Offroad | 197676 | [197676-2xl-atv-offroad.json](./197676-2xl-atv-offroad.json) |
 | 2XL Supercross | 69327 | [69327-2xl-supercross.json](./69327-2xl-supercross.json) |
