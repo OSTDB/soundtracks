@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galves Adventure | 230310 | [230310-galves-adventure.json](./230310-galves-adventure.json) |
 | Galxagar | 207320 | [207320-galxagar.json](./207320-galxagar.json) |
 | Gamba Gun | 346248 | [346248-gamba-gun.json](./346248-gamba-gun.json) |
+| Gambaru Amabie-chan | 206049 | [206049-gambaru-amabie-chan.json](./206049-gambaru-amabie-chan.json) |
 | Gambit | 124622 | [124622-gambit.json](./124622-gambit.json) |
 | Gambit | 328064 | [328064-gambit.json](./328064-gambit.json) |
 | Gambit | 403008 | [403008-gambit.json](./403008-gambit.json) |
@@ -2312,6 +2313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girlfriend's Betrayal | 251518 | [251518-girlfriends-betrayal.json](./251518-girlfriends-betrayal.json) |
 | Girlfriend's sister | 75784 | [75784-girlfriends-sister.json](./75784-girlfriends-sister.json) |
 | Girlfriends Forever: Magic Skate | 84511 | [84511-girlfriends-forever-magic-skate.json](./84511-girlfriends-forever-magic-skate.json) |
+| Girlfriends with Benefits | 206029 | [206029-girlfriends-with-benefits.json](./206029-girlfriends-with-benefits.json) |
 | Girlish Grimoire Littlewitch Romanesque: Editio Perfecta | 50166 | [50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json](./50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json) |
 | Girlish Love Revolution | 80610 | [80610-girlish-love-revolution.json](./80610-girlish-love-revolution.json) |
 | GirlJail | 97348 | [97348-girljail.json](./97348-girljail.json) |
