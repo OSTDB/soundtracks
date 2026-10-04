@@ -9139,6 +9139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sword of Hope | 10946 | [10946-the-sword-of-hope.json](./10946-the-sword-of-hope.json) |
 | The Sword of Hope II | 10947 | [10947-the-sword-of-hope-ii.json](./10947-the-sword-of-hope-ii.json) |
 | The Sword Witch's Apprentice | 351037 | [351037-the-sword-witchs-apprentice.json](./351037-the-sword-witchs-apprentice.json) |
+| The Swordbearer | 204329 | [204329-the-swordbearer.json](./204329-the-swordbearer.json) |
 | The Swords | 57720 | [57720-the-swords.json](./57720-the-swords.json) |
 | The Swordsmen X: Survival | 152375 | [152375-the-swordsmen-x-survival.json](./152375-the-swordsmen-x-survival.json) |
 | The Syber Virus | 201714 | [201714-the-syber-virus.json](./201714-the-syber-virus.json) |
@@ -9572,6 +9573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Twilight Witch | 287709 | [287709-the-twilight-witch.json](./287709-the-twilight-witch.json) |
 | The Twilight Zone | 12804 | [12804-the-twilight-zone.json](./12804-the-twilight-zone.json) |
 | The Twilight Zone II: Final Dreams | 274008 | [274008-the-twilight-zone-ii-final-dreams.json](./274008-the-twilight-zone-ii-final-dreams.json) |
+| The Twilight Zone VR | 204339 | [204339-the-twilight-zone-vr.json](./204339-the-twilight-zone-vr.json) |
 | The Twins | 128337 | [128337-the-twins.json](./128337-the-twins.json) |
 | The Twins | 324870 | [324870-the-twins.json](./324870-the-twins.json) |
 | The Twisted Dream | 323354 | [323354-the-twisted-dream.json](./323354-the-twisted-dream.json) |
@@ -9781,6 +9783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wait | 128605 | [128605-the-wait.json](./128605-the-wait.json) |
 | The Wake Event | 418564 | [418564-the-wake-event.json](./418564-the-wake-event.json) |
 | The Wake of the Wyrm | 415904 | [415904-the-wake-of-the-wyrm.json](./415904-the-wake-of-the-wyrm.json) |
+| The Wakers | 204330 | [204330-the-wakers.json](./204330-the-wakers.json) |
 | The Walk | 375939 | [375939-the-walk.json](./375939-the-walk.json) |
 | The Walking Dead Match 3 Tales | 303175 | [303175-the-walking-dead-match-3-tales.json](./303175-the-walking-dead-match-3-tales.json) |
 | The Walking Dead: A New Frontier - Episode 2: Ties That Bind - Part Two | 127063 | [127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json](./127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json) |
@@ -10579,6 +10582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This, My Soul | 179692 | [179692-this-my-soul.json](./179692-this-my-soul.json) |
 | ThisIsTheGame | 269194 | [269194-thisisthegame.json](./269194-thisisthegame.json) |
 | Thistledown: Marrowroot | 216502 | [216502-thistledown-marrowroot.json](./216502-thistledown-marrowroot.json) |
+| Thnt | 204331 | [204331-thnt.json](./204331-thnt.json) |
 | THO Simulator | 188086 | [188086-tho-simulator.json](./188086-tho-simulator.json) |
 | Thomas & Friends: Building the New Line | 23780 | [23780-thomas-and-friends-building-the-new-line.json](./23780-thomas-and-friends-building-the-new-line.json) |
 | Thomas & Friends: Go Go Thomas! | 329139 | [329139-thomas-and-friends-go-go-thomas.json](./329139-thomas-and-friends-go-go-thomas.json) |
@@ -10713,6 +10717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrice Doomed | 294769 | [294769-thrice-doomed.json](./294769-thrice-doomed.json) |
 | Thrice in a row: Last Adventure | 213419 | [213419-thrice-in-a-row-last-adventure.json](./213419-thrice-in-a-row-last-adventure.json) |
 | Thrift Store Treasure: Hidden Objects | 417510 | [417510-thrift-store-treasure-hidden-objects.json](./417510-thrift-store-treasure-hidden-objects.json) |
+| Thrill Penguin | 204332 | [204332-thrill-penguin.json](./204332-thrill-penguin.json) |
 | Thrill Rush | 103400 | [103400-thrill-rush.json](./103400-thrill-rush.json) |
 | Thrillgate | 130160 | [130160-thrillgate.json](./130160-thrillgate.json) |
 | Thrilling Stories Collection | 279878 | [279878-thrilling-stories-collection.json](./279878-thrilling-stories-collection.json) |
@@ -12266,6 +12271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Hunters | 199939 | [199939-tiny-hunters.json](./199939-tiny-hunters.json) |
 | Tiny industry | 415275 | [415275-tiny-industry.json](./415275-tiny-industry.json) |
 | Tiny Invaders | 92501 | [92501-tiny-invaders.json](./92501-tiny-invaders.json) |
+| Tiny Island | 204301 | [204301-tiny-island.json](./204301-tiny-island.json) |
 | Tiny Island Survival | 187809 | [187809-tiny-island-survival.json](./187809-tiny-island-survival.json) |
 | Tiny Isle | 374794 | [374794-tiny-isle.json](./374794-tiny-isle.json) |
 | Tiny Jukebox | 279857 | [279857-tiny-jukebox.json](./279857-tiny-jukebox.json) |
@@ -12684,6 +12690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaplan Shooting Battle 1 | 125986 | [125986-toaplan-shooting-battle-1.json](./125986-toaplan-shooting-battle-1.json) |
 | Toaru Kagaku no Railgun | 12380 | [12380-toaru-kagaku-no-railgun.json](./12380-toaru-kagaku-no-railgun.json) |
 | Toaru Majutsu no Virtual-On | 55040 | [55040-toaru-majutsu-no-virtual-on.json](./55040-toaru-majutsu-no-virtual-on.json) |
+| Toaru Pantsu no Railgun | 204322 | [204322-toaru-pantsu-no-railgun.json](./204322-toaru-pantsu-no-railgun.json) |
 | Toast Ghost | 307739 | [307739-toast-ghost.json](./307739-toast-ghost.json) |
 | Toast Hell | 350556 | [350556-toast-hell.json](./350556-toast-hell.json) |
 | Toast Shooter | 260199 | [260199-toast-shooter.json](./260199-toast-shooter.json) |
@@ -13078,6 +13085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Cat | 363007 | [363007-tomb-cat.json](./363007-tomb-cat.json) |
 | Tomb Color: ASMR Maze Escape | 245374 | [245374-tomb-color-asmr-maze-escape.json](./245374-tomb-color-asmr-maze-escape.json) |
 | Tomb Defender | 207198 | [207198-tomb-defender.json](./207198-tomb-defender.json) |
+| Tomb Explorer VR | 204422 | [204422-tomb-explorer-vr.json](./204422-tomb-explorer-vr.json) |
 | Tomb Guard VR | 28874 | [28874-tomb-guard-vr.json](./28874-tomb-guard-vr.json) |
 | Tomb Joe | 29874 | [29874-tomb-joe.json](./29874-tomb-joe.json) |
 | Tomb Keeper Mansion Deluxe Pinball | 193215 | [193215-tomb-keeper-mansion-deluxe-pinball.json](./193215-tomb-keeper-mansion-deluxe-pinball.json) |
@@ -15008,6 +15016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz 2019: SA AN Class - Australian National | 325039 | [325039-trainz-2019-sa-an-class-australian-national.json](./325039-trainz-2019-sa-an-class-australian-national.json) |
 | Trainz 2019: SA AN Class - Pacific National | 325025 | [325025-trainz-2019-sa-an-class-pacific-national.json](./325025-trainz-2019-sa-an-class-pacific-national.json) |
 | Trainz 2022: SA CL Class - RailPower Pack | 306100 | [306100-trainz-2022-sa-cl-class-railpower-pack.json](./306100-trainz-2022-sa-cl-class-railpower-pack.json) |
+| Trainz Plus | 204302 | [204302-trainz-plus.json](./204302-trainz-plus.json) |
 | Trainz Plus DLC - Pro Train: AC44C6M Loco Bundle | 384733 | [384733-trainz-plus-dlc-pro-train-ac44c6m-loco-bundle.json](./384733-trainz-plus-dlc-pro-train-ac44c6m-loco-bundle.json) |
 | Trainz Plus DLC: Pro Train - Class 68 ScotRail | 208339 | [208339-trainz-plus-dlc-pro-train-class-68-scotrail.json](./208339-trainz-plus-dlc-pro-train-class-68-scotrail.json) |
 | Trainz Plus DLC: Pro Train DB Class 52 | 254070 | [254070-trainz-plus-dlc-pro-train-db-class-52.json](./254070-trainz-plus-dlc-pro-train-db-class-52.json) |
@@ -15159,9 +15168,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Shmmns Coil Transporter | 205516 | [205516-trainz-plus-shmmns-coil-transporter.json](./205516-trainz-plus-shmmns-coil-transporter.json) |
 | Trainz Plus: Shortline Railroad | 205547 | [205547-trainz-plus-shortline-railroad.json](./205547-trainz-plus-shortline-railroad.json) |
 | Trainz Plus: Swayfield Branch | 298150 | [298150-trainz-plus-swayfield-branch.json](./298150-trainz-plus-swayfield-branch.json) |
+| Trainz Plus: Switch Model Railroad - TRS19 | 204316 | [204316-trainz-plus-switch-model-railroad-trs19.json](./204316-trainz-plus-switch-model-railroad-trs19.json) |
 | Trainz Plus: TE3-1072 | 205470 | [205470-trainz-plus-te3-1072.json](./205470-trainz-plus-te3-1072.json) |
 | Trainz Plus: TE3-2068 | 205561 | [205561-trainz-plus-te3-2068.json](./205561-trainz-plus-te3-2068.json) |
 | Trainz Plus: TE7-083 | 205492 | [205492-trainz-plus-te7-083.json](./205492-trainz-plus-te7-083.json) |
+| Trainz Plus: The BiDye Traction Railroad Route | 204317 | [204317-trainz-plus-the-bidye-traction-railroad-route.json](./204317-trainz-plus-the-bidye-traction-railroad-route.json) |
+| Trainz Plus: The Broadway Limited | 204318 | [204318-trainz-plus-the-broadway-limited.json](./204318-trainz-plus-the-broadway-limited.json) |
 | Trainz Plus: The Flying Scotsman 1920s | 205468 | [205468-trainz-plus-the-flying-scotsman-1920s.json](./205468-trainz-plus-the-flying-scotsman-1920s.json) |
 | Trainz Plus: The Innter Kohn Necktion Railroad | 205463 | [205463-trainz-plus-the-innter-kohn-necktion-railroad.json](./205463-trainz-plus-the-innter-kohn-necktion-railroad.json) |
 | Trainz Plus: The Shorts and Kerl Traction Railroad | 205498 | [205498-trainz-plus-the-shorts-and-kerl-traction-railroad.json](./205498-trainz-plus-the-shorts-and-kerl-traction-railroad.json) |
@@ -15169,7 +15181,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Tnfrhs Refrigerator Wagon | 205469 | [205469-trainz-plus-tnfrhs-refrigerator-wagon.json](./205469-trainz-plus-tnfrhs-refrigerator-wagon.json) |
 | Trainz Plus: Trainz Model Railroad - The Chuck Ewe Pharlie Railroad | 264116 | [264116-trainz-plus-trainz-model-railroad-the-chuck-ewe-pharlie-railroad.json](./264116-trainz-plus-trainz-model-railroad-the-chuck-ewe-pharlie-railroad.json) |
 | Trainz Plus: Trainz Route - Rostovsky Uzel | 205539 | [205539-trainz-plus-trainz-route-rostovsky-uzel.json](./205539-trainz-plus-trainz-route-rostovsky-uzel.json) |
+| Trainz Plus: UP AC4400CW #5982-6081 | 204314 | [204314-trainz-plus-up-ac4400cw-5982-6081.json](./204314-trainz-plus-up-ac4400cw-5982-6081.json) |
+| Trainz Plus: US ATC Class S 160 Steam | 204313 | [204313-trainz-plus-us-atc-class-s-160-steam.json](./204313-trainz-plus-us-atc-class-s-160-steam.json) |
+| Trainz Plus: Utah Belt AC4400CW 4400-4450 | 204312 | [204312-trainz-plus-utah-belt-ac4400cw-4400-4450.json](./204312-trainz-plus-utah-belt-ac4400cw-4400-4450.json) |
+| Trainz Plus: Victorian Railways D1 Class - Type 4: Newport - Black | 204315 | [204315-trainz-plus-victorian-railways-d1-class-type-4-newport-black.json](./204315-trainz-plus-victorian-railways-d1-class-type-4-newport-black.json) |
+| Trainz Plus: Victorian Railways Type 2 DD Class Pack | 204311 | [204311-trainz-plus-victorian-railways-type-2-dd-class-pack.json](./204311-trainz-plus-victorian-railways-type-2-dd-class-pack.json) |
+| Trainz Plus: Victorian Railways Type 4 DD Class Pack - Canadian Red | 204310 | [204310-trainz-plus-victorian-railways-type-4-dd-class-pack-canadian-red.json](./204310-trainz-plus-victorian-railways-type-4-dd-class-pack-canadian-red.json) |
+| Trainz Plus: Victorian Railways V class FL Black | 204308 | [204308-trainz-plus-victorian-railways-v-class-fl-black.json](./204308-trainz-plus-victorian-railways-v-class-fl-black.json) |
+| Trainz Plus: Victorian Railways V499 - Baldwin Built | 204309 | [204309-trainz-plus-victorian-railways-v499-baldwin-built.json](./204309-trainz-plus-victorian-railways-v499-baldwin-built.json) |
 | Trainz Plus: VR C Locomotive - RailFirst / CFCLA | 401630 | [401630-trainz-plus-vr-c-locomotive-railfirst-cfcla.json](./401630-trainz-plus-vr-c-locomotive-railfirst-cfcla.json) |
+| Trainz Plus: VR Healesville 1913-1920 TRS19 | 204307 | [204307-trainz-plus-vr-healesville-1913-1920-trs19.json](./204307-trainz-plus-vr-healesville-1913-1920-trs19.json) |
+| Trainz Plus: Warwick to Wallangarra Route | 204305 | [204305-trainz-plus-warwick-to-wallangarra-route.json](./204305-trainz-plus-warwick-to-wallangarra-route.json) |
+| Trainz Plus: ZecRail 2017 Christmas Train | 204306 | [204306-trainz-plus-zecrail-2017-christmas-train.json](./204306-trainz-plus-zecrail-2017-christmas-train.json) |
+| Trainz Plus: ZecRail V499 Blue & Gold and Christmas 2019 | 204304 | [204304-trainz-plus-zecrail-v499-blue-and-gold-and-christmas-2019.json](./204304-trainz-plus-zecrail-v499-blue-and-gold-and-christmas-2019.json) |
+| Trainz Plus: Znamensk-Svir | 204303 | [204303-trainz-plus-znamensk-svir.json](./204303-trainz-plus-znamensk-svir.json) |
 | Trainz Railroad Simulator 2004 | 11013 | [11013-trainz-railroad-simulator-2004.json](./11013-trainz-railroad-simulator-2004.json) |
 | Trainz Railroad Simulator 2006 | 11014 | [11014-trainz-railroad-simulator-2006.json](./11014-trainz-railroad-simulator-2006.json) |
 | Trainz Railroad Simulator 2006: Routes Volume 1 | 206164 | [206164-trainz-railroad-simulator-2006-routes-volume-1.json](./206164-trainz-railroad-simulator-2006-routes-volume-1.json) |
@@ -17013,6 +17038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twenty One | 395559 | [395559-twenty-one.json](./395559-twenty-one.json) |
 | Twenty Six | 346662 | [346662-twenty-six.json](./346662-twenty-six.json) |
 | Twenty Wargame Classics | 94367 | [94367-twenty-wargame-classics.json](./94367-twenty-wargame-classics.json) |
+| Twenty, in Total | 204424 | [204424-twenty-in-total.json](./204424-twenty-in-total.json) |
 | Twerk it Girl! | 238510 | [238510-twerk-it-girl.json](./238510-twerk-it-girl.json) |
 | Twerps | 24935 | [24935-twerps.json](./24935-twerps.json) |
 | Twhols | 377717 | [377717-twhols.json](./377717-twhols.json) |
