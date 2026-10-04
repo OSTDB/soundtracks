@@ -3346,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liùmángzhū Chuánshuō | 394185 | [394185-liumangzhu-chuanshuo.json](./394185-liumangzhu-chuanshuo.json) |
 | Liuyin's World | 346566 | [346566-liuyins-world.json](./346566-liuyins-world.json) |
 | Live A Live | 15835 | [15835-live-a-live.json](./15835-live-a-live.json) |
+| Live Adventure | 187298 | [187298-live-adventure.json](./187298-live-adventure.json) |
 | Live Ammo | 93030 | [93030-live-ammo.json](./93030-live-ammo.json) |
 | Live at Strummer's Pond | 253498 | [253498-live-at-strummers-pond.json](./253498-live-at-strummers-pond.json) |
 | Live Bingo | 186058 | [186058-live-bingo.json](./186058-live-bingo.json) |
