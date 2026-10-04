@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Reindeer Run | 106367 | [106367-santas-reindeer-run.json](./106367-santas-reindeer-run.json) |
 | Santa's Salvation | 200040 | [200040-santas-salvation.json](./200040-santas-salvation.json) |
 | Santa's Secret Valley | 215791 | [215791-santas-secret-valley.json](./215791-santas-secret-valley.json) |
+| Santa's Silent Night | 183912 | [183912-santas-silent-night.json](./183912-santas-silent-night.json) |
 | Santa's Spot It | 317227 | [317227-santas-spot-it.json](./317227-santas-spot-it.json) |
 | Santa's Spot It + Exit Station 7 + Find Room 96 + HighScore Anomaly Shop +HighScore Anomaly Underground | 319775 | [319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json](./319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json) |
 | Santa's Workshop | 343787 | [343787-santas-workshop.json](./343787-santas-workshop.json) |
@@ -2328,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second to Nun | 189949 | [189949-second-to-nun.json](./189949-second-to-nun.json) |
 | Second Wave | 242250 | [242250-second-wave.json](./242250-second-wave.json) |
 | Second Wind | 390123 | [390123-second-wind.json](./390123-second-wind.json) |
+| Second Wing | 183916 | [183916-second-wing.json](./183916-second-wing.json) |
 | Second World | 192254 | [192254-second-world.json](./192254-second-world.json) |
 | Second World: Air War S | 113002 | [113002-second-world-air-war-s.json](./113002-second-world-air-war-s.json) |
 | Seconds in Space | 133217 | [133217-seconds-in-space.json](./133217-seconds-in-space.json) |
@@ -4974,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoujo Minority: Nagusame no Ai | 194607 | [194607-shoujo-minority-nagusame-no-ai.json](./194607-shoujo-minority-nagusame-no-ai.json) |
 | Should I Buy It? | 180818 | [180818-should-i-buy-it.json](./180818-should-i-buy-it.json) |
 | Should Shoot | 197714 | [197714-should-shoot.json](./197714-should-shoot.json) |
+| Should the Stars Have Eyes | 183926 | [183926-should-the-stars-have-eyes.json](./183926-should-the-stars-have-eyes.json) |
 | Shoulder-Mounted Space Program | 373533 | [373533-shoulder-mounted-space-program.json](./373533-shoulder-mounted-space-program.json) |
 | Shouldermen | 293651 | [293651-shouldermen.json](./293651-shouldermen.json) |
 | Shoulders of Giants: Ultimate | 309111 | [309111-shoulders-of-giants-ultimate.json](./309111-shoulders-of-giants-ultimate.json) |
@@ -7669,6 +7672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Trainer | 282541 | [282541-snail-trainer.json](./282541-snail-trainer.json) |
 | Snail Trek: Chapter 3 - Lettuce Be | 81675 | [81675-snail-trek-chapter-3-lettuce-be.json](./81675-snail-trek-chapter-3-lettuce-be.json) |
 | Snail Trek: Chapter 4 - The Final Fondue | 89664 | [89664-snail-trek-chapter-4-the-final-fondue.json](./89664-snail-trek-chapter-4-the-final-fondue.json) |
+| Snail wisdom simulator 2017 | 183922 | [183922-snail-wisdom-simulator-2017.json](./183922-snail-wisdom-simulator-2017.json) |
 | Snail's Knock Out! | 301021 | [301021-snails-knock-out.json](./301021-snails-knock-out.json) |
 | Snailboy: Rise of Hermitron | 120353 | [120353-snailboy-rise-of-hermitron.json](./120353-snailboy-rise-of-hermitron.json) |
 | Snailiad | 118309 | [118309-snailiad.json](./118309-snailiad.json) |
@@ -10652,6 +10656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceland: Cooperative | 170524 | [170524-spaceland-cooperative.json](./170524-spaceland-cooperative.json) |
 | Spaceland: Frontier | 195785 | [195785-spaceland-frontier.json](./195785-spaceland-frontier.json) |
 | Spaceland: Sci-Fi Indie Tactics | 117052 | [117052-spaceland-sci-fi-indie-tactics.json](./117052-spaceland-sci-fi-indie-tactics.json) |
+| Spacelord | 183936 | [183936-spacelord.json](./183936-spacelord.json) |
 | Spacelords: Aneska Deluxe Character Pack | 169318 | [169318-spacelords-aneska-deluxe-character-pack.json](./169318-spacelords-aneska-deluxe-character-pack.json) |
 | Spacelords: Schneider Deluxe Character Pack | 169317 | [169317-spacelords-schneider-deluxe-character-pack.json](./169317-spacelords-schneider-deluxe-character-pack.json) |
 | Spacelords: Sööma Deluxe Character Pack | 169302 | [169302-spacelords-sooma-deluxe-character-pack.json](./169302-spacelords-sooma-deluxe-character-pack.json) |
@@ -15034,6 +15039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold: Warlords | 119368 | [119368-stronghold-warlords.json](./119368-stronghold-warlords.json) |
 | Stronghold: Warlords - Rise of the Shogun Campaign | 186877 | [186877-stronghold-warlords-rise-of-the-shogun-campaign.json](./186877-stronghold-warlords-rise-of-the-shogun-campaign.json) |
 | Stronghold: Warlords - The Mongol Empire Campaign | 186879 | [186879-stronghold-warlords-the-mongol-empire-campaign.json](./186879-stronghold-warlords-the-mongol-empire-campaign.json) |
+| Stronghold2D | 183858 | [183858-stronghold2d.json](./183858-stronghold2d.json) |
 | Strongloween: The Escape | 192424 | [192424-strongloween-the-escape.json](./192424-strongloween-the-escape.json) |
 | Strontium Dog and the Death Gauntlet | 313333 | [313333-strontium-dog-and-the-death-gauntlet.json](./313333-strontium-dog-and-the-death-gauntlet.json) |
 | Strontium Dog: The Killing | 38924 | [38924-strontium-dog-the-killing.json](./38924-strontium-dog-the-killing.json) |
@@ -15948,6 +15954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunshine Love | 342763 | [342763-sunshine-love.json](./342763-sunshine-love.json) |
 | Sunshine Mahou no Mori | 66062 | [66062-sunshine-mahou-no-mori.json](./66062-sunshine-mahou-no-mori.json) |
 | Sunshine Secret Book 64 | 132838 | [132838-sunshine-secret-book-64.json](./132838-sunshine-secret-book-64.json) |
+| Sunshower | 183946 | [183946-sunshower.json](./183946-sunshower.json) |
 | Sunsoft Collection 2 | 291544 | [291544-sunsoft-collection-2.json](./291544-sunsoft-collection-2.json) |
 | Sunsoft is Back! Retro Game Selection | 297001 | [297001-sunsoft-is-back-retro-game-selection.json](./297001-sunsoft-is-back-retro-game-selection.json) |
 | Sunsoft Mahjong Solitaire: Shanghai Legend | 276952 | [276952-sunsoft-mahjong-solitaire-shanghai-legend.json](./276952-sunsoft-mahjong-solitaire-shanghai-legend.json) |
