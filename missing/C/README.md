@@ -3768,13 +3768,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimera of Tactics 3: Gun and Soccer | 110353 | [110353-chimera-of-tactics-3-gun-and-soccer.json](./110353-chimera-of-tactics-3-gun-and-soccer.json) |
 | Chimeral Fantasy | 223506 | [223506-chimeral-fantasy.json](./223506-chimeral-fantasy.json) |
 | Chimeras: Cherished Serpent | 417543 | [417543-chimeras-cherished-serpent.json](./417543-chimeras-cherished-serpent.json) |
+| Chimeras: Heavenfall Secrets | 187890 | [187890-chimeras-heavenfall-secrets.json](./187890-chimeras-heavenfall-secrets.json) |
 | Chimeras: Heavenfall Secrets Collector's Edition | 263508 | [263508-chimeras-heavenfall-secrets-collectors-edition.json](./263508-chimeras-heavenfall-secrets-collectors-edition.json) |
 | Chimeras: Inhuman Nature | 417544 | [417544-chimeras-inhuman-nature.json](./417544-chimeras-inhuman-nature.json) |
+| Chimeras: Mark of Death | 187907 | [187907-chimeras-mark-of-death.json](./187907-chimeras-mark-of-death.json) |
 | Chimeras: Mortal Medicine | 417570 | [417570-chimeras-mortal-medicine.json](./417570-chimeras-mortal-medicine.json) |
+| Chimeras: Price of Greed | 187910 | [187910-chimeras-price-of-greed.json](./187910-chimeras-price-of-greed.json) |
 | Chimeras: The Lost Film | 416624 | [416624-chimeras-the-lost-film.json](./416624-chimeras-the-lost-film.json) |
 | Chimeras: The Signs of Prophecy - Collector's Edition | 50755 | [50755-chimeras-the-signs-of-prophecy-collectors-edition.json](./50755-chimeras-the-signs-of-prophecy-collectors-edition.json) |
 | Chimeras: Tune of Revenge | 63816 | [63816-chimeras-tune-of-revenge.json](./63816-chimeras-tune-of-revenge.json) |
 | Chimeras: Tune of Revenge - Collector's Edition | 30263 | [30263-chimeras-tune-of-revenge-collectors-edition.json](./30263-chimeras-tune-of-revenge-collectors-edition.json) |
+| Chimeras: Wailing Waters | 187915 | [187915-chimeras-wailing-waters.json](./187915-chimeras-wailing-waters.json) |
+| Chimeras: What Wishes May Come | 187906 | [187906-chimeras-what-wishes-may-come.json](./187906-chimeras-what-wishes-may-come.json) |
 | Chimes: A Kinetic Novel | 184102 | [184102-chimes-a-kinetic-novel.json](./184102-chimes-a-kinetic-novel.json) |
 | Chimp Memory | 319391 | [319391-chimp-memory.json](./319391-chimp-memory.json) |
 | Chimp Quest: Spirit Isle | 277335 | [277335-chimp-quest-spirit-isle.json](./277335-chimp-quest-spirit-isle.json) |
@@ -4159,9 +4164,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Shooter | 213309 | [213309-christmas-shooter.json](./213309-christmas-shooter.json) |
 | Christmas Shopper Simulator | 137466 | [137466-christmas-shopper-simulator.json](./137466-christmas-shopper-simulator.json) |
 | Christmas Smash | 400469 | [400469-christmas-smash.json](./400469-christmas-smash.json) |
+| Christmas Stories: A Little Prince | 187911 | [187911-christmas-stories-a-little-prince.json](./187911-christmas-stories-a-little-prince.json) |
 | Christmas Stories: A Little Prince - Collector's Edition | 417587 | [417587-christmas-stories-a-little-prince-collectors-edition.json](./417587-christmas-stories-a-little-prince-collectors-edition.json) |
 | Christmas Stories: Alice's Adventures | 187978 | [187978-christmas-stories-alices-adventures.json](./187978-christmas-stories-alices-adventures.json) |
 | Christmas Stories: Nutcracker - Collector's Edition | 30202 | [30202-christmas-stories-nutcracker-collectors-edition.json](./30202-christmas-stories-nutcracker-collectors-edition.json) |
+| Christmas Stories: Puss in Boots | 187916 | [187916-christmas-stories-puss-in-boots.json](./187916-christmas-stories-puss-in-boots.json) |
 | Christmas Stories: The Adventures of Santa Claus | 328539 | [328539-christmas-stories-the-adventures-of-santa-claus.json](./328539-christmas-stories-the-adventures-of-santa-claus.json) |
 | Christmas Stories: The Christmas Tree Forest | 187961 | [187961-christmas-stories-the-christmas-tree-forest.json](./187961-christmas-stories-the-christmas-tree-forest.json) |
 | Christmas Stories: The Gift of the Magi | 57126 | [57126-christmas-stories-the-gift-of-the-magi.json](./57126-christmas-stories-the-gift-of-the-magi.json) |
@@ -7326,6 +7333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Champions | 119017 | [119017-cooking-champions.json](./119017-cooking-champions.json) |
 | Cooking Championship | 204325 | [204325-cooking-championship.json](./204325-cooking-championship.json) |
 | Cooking Chaos | 246492 | [246492-cooking-chaos.json](./246492-cooking-chaos.json) |
+| Cooking City: Summer Party | 187892 | [187892-cooking-city-summer-party.json](./187892-cooking-city-summer-party.json) |
 | Cooking Craze | 88770 | [88770-cooking-craze.json](./88770-cooking-craze.json) |
 | Cooking Crew | 262954 | [262954-cooking-crew.json](./262954-cooking-crew.json) |
 | Cooking Diary: Welcome to Tasty Hills | 106991 | [106991-cooking-diary-welcome-to-tasty-hills.json](./106991-cooking-diary-welcome-to-tasty-hills.json) |
