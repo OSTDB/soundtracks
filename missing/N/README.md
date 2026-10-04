@@ -3265,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobodies: After Death | 190162 | [190162-nobodies-after-death.json](./190162-nobodies-after-death.json) |
 | Nobody Nowhere | 277339 | [277339-nobody-nowhere.json](./277339-nobody-nowhere.json) |
 | Nobody Paradox | 244919 | [244919-nobody-paradox.json](./244919-nobody-paradox.json) |
+| Nobody Said It Was Easy | 175233 | [175233-nobody-said-it-was-easy.json](./175233-nobody-said-it-was-easy.json) |
 | Nobody Saves the World: Frozen Hearth | 214735 | [214735-nobody-saves-the-world-frozen-hearth.json](./214735-nobody-saves-the-world-frozen-hearth.json) |
 | Nobody Sleeps Tonight | 282812 | [282812-nobody-sleeps-tonight.json](./282812-nobody-sleeps-tonight.json) |
 | Nobody's Dilemma | 252674 | [252674-nobodys-dilemma.json](./252674-nobodys-dilemma.json) |
