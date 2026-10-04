@@ -1195,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illegal Excavation | 249880 | [249880-illegal-excavation.json](./249880-illegal-excavation.json) |
 | Illegal Mahjong | 272563 | [272563-illegal-mahjong.json](./272563-illegal-mahjong.json) |
 | Illegal Simulator | 302058 | [302058-illegal-simulator.json](./302058-illegal-simulator.json) |
+| Illiteracy | 178489 | [178489-illiteracy.json](./178489-illiteracy.json) |
 | Illo: birth of the cool | 85626 | [85626-illo-birth-of-the-cool.json](./85626-illo-birth-of-the-cool.json) |
 | Illove dream | 243650 | [243650-illove-dream.json](./243650-illove-dream.json) |
 | Illu-Logi VOW | 269635 | [269635-illu-logi-vow.json](./269635-illu-logi-vow.json) |
