@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backpacker 3: Mediterraneo | 129782 | [129782-backpacker-3-mediterraneo.json](./129782-backpacker-3-mediterraneo.json) |
 | Backpackers Guide to the Universe | 309344 | [309344-backpackers-guide-to-the-universe.json](./309344-backpackers-guide-to-the-universe.json) |
 | Backroom | 238458 | [238458-backroom.json](./238458-backroom.json) |
+| Backroom Beyond | 206596 | [206596-backroom-beyond.json](./206596-backroom-beyond.json) |
 | Backrooms | 306424 | [306424-backrooms.json](./306424-backrooms.json) |
 | Backrooms | 379993 | [379993-backrooms.json](./379993-backrooms.json) |
 | Backrooms | 379994 | [379994-backrooms.json](./379994-backrooms.json) |
