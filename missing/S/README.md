@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanalika | 180296 | [180296-sanalika.json](./180296-sanalika.json) |
 | Sanasana | 411754 | [411754-sanasana.json](./411754-sanasana.json) |
 | Sanatorium | 375324 | [375324-sanatorium.json](./375324-sanatorium.json) |
+| Sanatorium: A Mental Asylum Simulator | 213369 | [213369-sanatorium-a-mental-asylum-simulator.json](./213369-sanatorium-a-mental-asylum-simulator.json) |
 | Sanctale | 350431 | [350431-sanctale.json](./350431-sanctale.json) |
 | Sancticide | 291154 | [291154-sancticide.json](./291154-sancticide.json) |
 | Sanction | 203533 | [203533-sanction.json](./203533-sanction.json) |
@@ -2324,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Cats: Zoo | 315300 | [315300-secret-cats-zoo.json](./315300-secret-cats-zoo.json) |
 | Secret City: Chalk of Fate - Collector's Edition | 129214 | [129214-secret-city-chalk-of-fate-collectors-edition.json](./129214-secret-city-chalk-of-fate-collectors-edition.json) |
 | Secret Collect. | 135848 | [135848-secret-collect.json](./135848-secret-collect.json) |
+| Secret Command | 213265 | [213265-secret-command.json](./213265-secret-command.json) |
 | Secret Crossing | 225647 | [225647-secret-crossing.json](./225647-secret-crossing.json) |
 | Secret Crush: Unrequited Love | 370279 | [370279-secret-crush-unrequited-love.json](./370279-secret-crush-unrequited-love.json) |
 | Secret Doctrine | 46556 | [46556-secret-doctrine.json](./46556-secret-doctrine.json) |
@@ -2599,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Genesis Classics: Series 4 | 50851 | [50851-sega-genesis-classics-series-4.json](./50851-sega-genesis-classics-series-4.json) |
 | Sega Genesis Classics: Series 5 | 50850 | [50850-sega-genesis-classics-series-5.json](./50850-sega-genesis-classics-series-5.json) |
 | Sega Genesis Collection | 20621 | [20621-sega-genesis-collection.json](./20621-sega-genesis-collection.json) |
+| Sega Genesis Mini | 213368 | [213368-sega-genesis-mini.json](./213368-sega-genesis-mini.json) |
 | Sega Genesis Mini 2 | 215742 | [215742-sega-genesis-mini-2.json](./215742-sega-genesis-mini-2.json) |
 | Sega Genesis Ultimate Portable Game Player | 202787 | [202787-sega-genesis-ultimate-portable-game-player.json](./202787-sega-genesis-ultimate-portable-game-player.json) |
 | Sega GT | 28838 | [28838-sega-gt.json](./28838-sega-gt.json) |
@@ -5753,6 +5756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simstory: Live As You Wish | 101573 | [101573-simstory-live-as-you-wish.json](./101573-simstory-live-as-you-wish.json) |
 | SIMT Simulator | 55118 | [55118-simt-simulator.json](./55118-simt-simulator.json) |
 | SimTown | 20194 | [20194-simtown.json](./20194-simtown.json) |
+| SimTown | 213291 | [213291-simtown.json](./213291-simtown.json) |
 | Simulacra 2 | 122134 | [122134-simulacra-2.json](./122134-simulacra-2.json) |
 | Simulacra: Pipe Dreams | 110900 | [110900-simulacra-pipe-dreams.json](./110900-simulacra-pipe-dreams.json) |
 | Simulacro | 344363 | [344363-simulacro.json](./344363-simulacro.json) |
@@ -7743,6 +7747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Blacklist | 34465 | [34465-sniper-blacklist.json](./34465-sniper-blacklist.json) |
 | Sniper Elite 3: Camouflage Weapons Pack | 254534 | [254534-sniper-elite-3-camouflage-weapons-pack.json](./254534-sniper-elite-3-camouflage-weapons-pack.json) |
 | Sniper Elite 4 | 18366 | [18366-sniper-elite-4.json](./18366-sniper-elite-4.json) |
+| Sniper Elite 4 - Target: Führer | 213297 | [213297-sniper-elite-4-target-fuhrer.json](./213297-sniper-elite-4-target-fuhrer.json) |
 | Sniper Elite 4: Deathstorm Part 1 - Inception | 27868 | [27868-sniper-elite-4-deathstorm-part-1-inception.json](./27868-sniper-elite-4-deathstorm-part-1-inception.json) |
 | Sniper Elite 4: Digital Deluxe Edition | 54380 | [54380-sniper-elite-4-digital-deluxe-edition.json](./54380-sniper-elite-4-digital-deluxe-edition.json) |
 | Sniper Elite 5 | 116238 | [116238-sniper-elite-5.json](./116238-sniper-elite-5.json) |
@@ -16733,6 +16738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Neptunia RPG: Party Member - Artisan | 238174 | [238174-super-neptunia-rpg-party-member-artisan.json](./238174-super-neptunia-rpg-party-member-artisan.json) |
 | Super Neptunia RPG: Party Member - Compa | 238175 | [238175-super-neptunia-rpg-party-member-compa.json](./238175-super-neptunia-rpg-party-member-compa.json) |
 | Super Neptunia RPG: Party Member - If | 238176 | [238176-super-neptunia-rpg-party-member-if.json](./238176-super-neptunia-rpg-party-member-if.json) |
+| Super NES Classic Edition | 213363 | [213363-super-nes-classic-edition.json](./213363-super-nes-classic-edition.json) |
 | Super Nichibutsu Mahjong | 37804 | [37804-super-nichibutsu-mahjong.json](./37804-super-nichibutsu-mahjong.json) |
 | Super Nichibutsu Mahjong 2: Zenkoku Seiha-hen | 37803 | [37803-super-nichibutsu-mahjong-2-zenkoku-seiha-hen.json](./37803-super-nichibutsu-mahjong-2-zenkoku-seiha-hen.json) |
 | Super Nichibutsu Mahjong 3: Yoshimoto Gekijou-hen | 37802 | [37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json](./37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json) |
@@ -17456,6 +17462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperTux Wii | 205620 | [205620-supertux-wii.json](./205620-supertux-wii.json) |
 | SuperTux: Octo's Levels | 230761 | [230761-supertux-octos-levels.json](./230761-supertux-octos-levels.json) |
 | Supertype | 99180 | [99180-supertype.json](./99180-supertype.json) |
+| SuperVHS | 213268 | [213268-supervhs.json](./213268-supervhs.json) |
 | Supervive | 255078 | [255078-supervive.json](./255078-supervive.json) |
 | Supervoid | 287185 | [287185-supervoid.json](./287185-supervoid.json) |
 | SuperWeird | 353883 | [353883-superweird.json](./353883-superweird.json) |
