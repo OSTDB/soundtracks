@@ -2575,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nilspace | 150102 | [150102-nilspace.json](./150102-nilspace.json) |
 | Nim | 100217 | [100217-nim.json](./100217-nim.json) |
 | Nim | 407560 | [407560-nim.json](./407560-nim.json) |
+| Nim's Sin Removal Service | 216299 | [216299-nims-sin-removal-service.json](./216299-nims-sin-removal-service.json) |
 | Nimbit Frontier | 258173 | [258173-nimbit-frontier.json](./258173-nimbit-frontier.json) |
 | Nimble Bunn | 68805 | [68805-nimble-bunn.json](./68805-nimble-bunn.json) |
 | Nimble Fish | 55234 | [55234-nimble-fish.json](./55234-nimble-fish.json) |
