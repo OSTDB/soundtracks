@@ -1228,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Tale | 260306 | [260306-one-last-tale.json](./260306-one-last-tale.json) |
 | One Last Time | 226737 | [226737-one-last-time.json](./226737-one-last-time.json) |
 | One Last Time | 351173 | [351173-one-last-time.json](./351173-one-last-time.json) |
+| One Last Try | 219627 | [219627-one-last-try.json](./219627-one-last-try.json) |
 | One Late Night: Mobile | 102625 | [102625-one-late-night-mobile.json](./102625-one-late-night-mobile.json) |
 | One Life | 197239 | [197239-one-life.json](./197239-one-life.json) |
 | One Life to Alice | 260228 | [260228-one-life-to-alice.json](./260228-one-life-to-alice.json) |
@@ -2566,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Sync: Complete Cherry Bomb Edition | 397166 | [397166-out-of-sync-complete-cherry-bomb-edition.json](./397166-out-of-sync-complete-cherry-bomb-edition.json) |
 | Out of Sync: Crescendo | 397169 | [397169-out-of-sync-crescendo.json](./397169-out-of-sync-crescendo.json) |
 | Out of the Blocks | 62723 | [62723-out-of-the-blocks.json](./62723-out-of-the-blocks.json) |
+| Out of the Cube | 219626 | [219626-out-of-the-cube.json](./219626-out-of-the-cube.json) |
 | Out of the Deathmount | 231505 | [231505-out-of-the-deathmount.json](./231505-out-of-the-deathmount.json) |
 | Out of the ground | 226202 | [226202-out-of-the-ground.json](./226202-out-of-the-ground.json) |
 | Out of the Ordinary | 351774 | [351774-out-of-the-ordinary.json](./351774-out-of-the-ordinary.json) |
