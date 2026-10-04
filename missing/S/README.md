@@ -1982,6 +1982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribbly Walrus | 128571 | [128571-scribbly-walrus.json](./128571-scribbly-walrus.json) |
 | Scribe RPG | 339089 | [339089-scribe-rpg.json](./339089-scribe-rpg.json) |
 | Scripps Spelling Bee | 206644 | [206644-scripps-spelling-bee.json](./206644-scripps-spelling-bee.json) |
+| Script Ship | 182895 | [182895-script-ship.json](./182895-script-ship.json) |
 | Scripted Land | 219620 | [219620-scripted-land.json](./219620-scripted-land.json) |
 | Scripted Souls | 200563 | [200563-scripted-souls.json](./200563-scripted-souls.json) |
 | Scriptic: Interactive Dramas | 191860 | [191860-scriptic-interactive-dramas.json](./191860-scriptic-interactive-dramas.json) |
@@ -7862,6 +7863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneezeman | 189099 | [189099-sneezeman.json](./189099-sneezeman.json) |
 | Sneezies HD | 21748 | [21748-sneezies-hd.json](./21748-sneezies-hd.json) |
 | Sneggit | 42177 | [42177-sneggit.json](./42177-sneggit.json) |
+| Snek | 182802 | [182802-snek.json](./182802-snek.json) |
 | Snekburd | 342255 | [342255-snekburd.json](./342255-snekburd.json) |
 | SnekMP | 226442 | [226442-snekmp.json](./226442-snekmp.json) |
 | Snekoban | 393124 | [393124-snekoban.json](./393124-snekoban.json) |
@@ -10250,6 +10252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Harrier II | 4498 | [4498-space-harrier-ii.json](./4498-space-harrier-ii.json) |
 | Space Harvest II | 97916 | [97916-space-harvest-ii.json](./97916-space-harvest-ii.json) |
 | Space Hat | 290685 | [290685-space-hat.json](./290685-space-hat.json) |
+| Space Hauler | 182800 | [182800-space-hauler.json](./182800-space-hauler.json) |
 | Space Haven | 103246 | [103246-space-haven.json](./103246-space-haven.json) |
 | Space Hawks | 13035 | [13035-space-hawks.json](./13035-space-hawks.json) |
 | Space Hero Line | 43518 | [43518-space-hero-line.json](./43518-space-hero-line.json) |
@@ -18251,6 +18254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp Fellas | 344508 | [344508-swamp-fellas.json](./344508-swamp-fellas.json) |
 | Swamp Fever | 47204 | [47204-swamp-fever.json](./47204-swamp-fever.json) |
 | Swamp Gas Visits the United States of America | 65517 | [65517-swamp-gas-visits-the-united-states-of-america.json](./65517-swamp-gas-visits-the-united-states-of-america.json) |
+| Swamp goblin spawner | 182796 | [182796-swamp-goblin-spawner.json](./182796-swamp-goblin-spawner.json) |
 | Swamp Hunt | 208347 | [208347-swamp-hunt.json](./208347-swamp-hunt.json) |
 | Swamp Hunter | 311578 | [311578-swamp-hunter.json](./311578-swamp-hunter.json) |
 | Swamp Jump | 108035 | [108035-swamp-jump.json](./108035-swamp-jump.json) |
