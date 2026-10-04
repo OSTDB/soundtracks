@@ -6767,6 +6767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minigolf Galaxy | 275597 | [275597-minigolf-galaxy.json](./275597-minigolf-galaxy.json) |
 | MiniGolf Island | 235156 | [235156-minigolf-island.json](./235156-minigolf-island.json) |
 | MiniGolf Mania | 33237 | [33237-minigolf-mania.json](./33237-minigolf-mania.json) |
+| Minigolf Party | 182200 | [182200-minigolf-party.json](./182200-minigolf-party.json) |
 | Minigolf VR | 34356 | [34356-minigolf-vr.json](./34356-minigolf-vr.json) |
 | Minigore | 76624 | [76624-minigore.json](./76624-minigore.json) |
 | Minigun vs. Swarms of the Zombie Apocalypse Simulator | 171466 | [171466-minigun-vs-swarms-of-the-zombie-apocalypse-simulator.json](./171466-minigun-vs-swarms-of-the-zombie-apocalypse-simulator.json) |
@@ -10557,6 +10558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Elf Girlfriend | 206007 | [206007-my-elf-girlfriend.json](./206007-my-elf-girlfriend.json) |
 | My Emma :) | 86977 | [86977-my-emma.json](./86977-my-emma.json) |
 | My Empire | 149590 | [149590-my-empire.json](./149590-my-empire.json) |
+| My Empire | 182321 | [182321-my-empire.json](./182321-my-empire.json) |
 | My English Coach: Para Hispanoparlantes | 82064 | [82064-my-english-coach-para-hispanoparlantes.json](./82064-my-english-coach-para-hispanoparlantes.json) |
 | My Escort Company | 215916 | [215916-my-escort-company.json](./215916-my-escort-company.json) |
 | My Esports Club | 346192 | [346192-my-esports-club.json](./346192-my-esports-club.json) |
