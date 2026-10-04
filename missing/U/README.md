@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unnamed Shovel Knight Sequel | 305758 | [305758-unnamed-shovel-knight-sequel.json](./305758-unnamed-shovel-knight-sequel.json) |
 | Unnatural | 104951 | [104951-unnatural.json](./104951-unnatural.json) |
 | Unnatural Freaks: Episode 1 Wolf At Evergreen | 166605 | [166605-unnatural-freaks-episode-1-wolf-at-evergreen.json](./166605-unnatural-freaks-episode-1-wolf-at-evergreen.json) |
+| Unnatural Investigations | 191077 | [191077-unnatural-investigations.json](./191077-unnatural-investigations.json) |
 | Unnatural Selection | 94207 | [94207-unnatural-selection.json](./94207-unnatural-selection.json) |
 | Unnatural: Land of Dead | 211263 | [211263-unnatural-land-of-dead.json](./211263-unnatural-land-of-dead.json) |
 | Unnatural: Season Two | 247760 | [247760-unnatural-season-two.json](./247760-unnatural-season-two.json) |
