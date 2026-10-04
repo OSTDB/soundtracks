@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Majesty | 186280 | [186280-your-majesty.json](./186280-your-majesty.json) |
 | Your Majesty | 292166 | [292166-your-majesty.json](./292166-your-majesty.json) |
 | Your Majesty's Arrival | 339132 | [339132-your-majestys-arrival.json](./339132-your-majestys-arrival.json) |
+| Your Merman Boyfriend | 177352 | [177352-your-merman-boyfriend.json](./177352-your-merman-boyfriend.json) |
 | Your Mom | 195615 | [195615-your-mom.json](./195615-your-mom.json) |
 | Your Mom | 385608 | [385608-your-mom.json](./385608-your-mom.json) |
 | Your Otherworldly Harem | 235723 | [235723-your-otherworldly-harem.json](./235723-your-otherworldly-harem.json) |
