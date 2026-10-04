@@ -1135,6 +1135,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoid | 111861 | [111861-paranoid.json](./111861-paranoid.json) |
 | Paranoid | 172029 | [172029-paranoid.json](./172029-paranoid.json) |
 | Paranoid | 304700 | [304700-paranoid.json](./304700-paranoid.json) |
+| Paranoid: Half-Life for Doom | 201100 | [201100-paranoid-half-life-for-doom.json](./201100-paranoid-half-life-for-doom.json) |
+| Paranoid: Paranoiac | 201101 | [201101-paranoid-paranoiac.json](./201101-paranoid-paranoiac.json) |
 | Paranoid! | 325673 | [325673-paranoid.json](./325673-paranoid.json) |
 | Paranoide | 333371 | [333371-paranoide.json](./333371-paranoide.json) |
 | Paranoir | 354639 | [354639-paranoir.json](./354639-paranoir.json) |
@@ -4184,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Fruit Platform | 388237 | [388237-pixel-fruit-platform.json](./388237-pixel-fruit-platform.json) |
 | Pixel Galaxy | 24615 | [24615-pixel-galaxy.json](./24615-pixel-galaxy.json) |
 | Pixel Game Maker Series Arcanion: The Mekanos Invasion | 409551 | [409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json](./409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json) |
+| Pixel Game Maker Series LAB | 201085 | [201085-pixel-game-maker-series-lab.json](./201085-pixel-game-maker-series-lab.json) |
 | Pixel Game Maker Series MessiahEnd Refrain | 199930 | [199930-pixel-game-maker-series-messiahend-refrain.json](./199930-pixel-game-maker-series-messiahend-refrain.json) |
 | Pixel Game Maker Series Ninja Sneaking vs: Battle on the Couch | 264904 | [264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json](./264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json) |
 | Pixel Game Maker Series NyanxTech | 311093 | [311093-pixel-game-maker-series-nyanxtech.json](./311093-pixel-game-maker-series-nyanxtech.json) |
