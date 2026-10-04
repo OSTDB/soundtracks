@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T3D: Genesis | 213357 | [213357-t3d-genesis.json](./213357-t3d-genesis.json) |
 | T90 Tank Battle Simulator in VR | 193186 | [193186-t90-tank-battle-simulator-in-vr.json](./193186-t90-tank-battle-simulator-in-vr.json) |
 | Ta ga Tame ni Oni wa Naku | 163357 | [163357-ta-ga-tame-ni-oni-wa-naku.json](./163357-ta-ga-tame-ni-oni-wa-naku.json) |
+| Ta ga tame no Alchemist | 216212 | [216212-ta-ga-tame-no-alchemist.json](./216212-ta-ga-tame-no-alchemist.json) |
 | Taaltris | 94699 | [94699-taaltris.json](./94699-taaltris.json) |
 | Taarradhin | 57179 | [57179-taarradhin.json](./57179-taarradhin.json) |
 | Tab + Notch | 401091 | [401091-tab-notch.json](./401091-tab-notch.json) |
@@ -12300,6 +12301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinymon | 320308 | [320308-tinymon.json](./320308-tinymon.json) |
 | TinyRogue | 311288 | [311288-tinyrogue.json](./311288-tinyrogue.json) |
 | Tinyshot | 138048 | [138048-tinyshot.json](./138048-tinyshot.json) |
+| Tinysss! | 216293 | [216293-tinysss.json](./216293-tinysss.json) |
 | TinyTiny | 235820 | [235820-tinytiny.json](./235820-tinytiny.json) |
 | Tinytopia | 131947 | [131947-tinytopia.json](./131947-tinytopia.json) |
 | Tinyverse | 181362 | [181362-tinyverse.json](./181362-tinyverse.json) |
@@ -13848,6 +13850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TouHou Nil Soul | 114801 | [114801-touhou-nil-soul.json](./114801-touhou-nil-soul.json) |
 | Touhou Pants Contest | 111365 | [111365-touhou-pants-contest.json](./111365-touhou-pants-contest.json) |
 | Touhou Perfect Sakura Fantastica | 212732 | [212732-touhou-perfect-sakura-fantastica.json](./212732-touhou-perfect-sakura-fantastica.json) |
+| Touhou Piano Game: Music Tiles | 216213 | [216213-touhou-piano-game-music-tiles.json](./216213-touhou-piano-game-music-tiles.json) |
 | Touhou Picross: Nazrin's Puzzles | 312688 | [312688-touhou-picross-nazrins-puzzles.json](./312688-touhou-picross-nazrins-puzzles.json) |
 | Touhou Pocket Wars | 128382 | [128382-touhou-pocket-wars.json](./128382-touhou-pocket-wars.json) |
 | Touhou Pocket Wars Evolution | 128383 | [128383-touhou-pocket-wars-evolution.json](./128383-touhou-pocket-wars-evolution.json) |
@@ -15956,6 +15959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Jump | 183352 | [183352-triple-jump.json](./183352-triple-jump.json) |
 | Triple Jump | 247050 | [247050-triple-jump.json](./247050-triple-jump.json) |
 | Triple Jumping Sports | 85453 | [85453-triple-jumping-sports.json](./85453-triple-jumping-sports.json) |
+| Triple Match 3D | 216132 | [216132-triple-match-3d.json](./216132-triple-match-3d.json) |
 | Triple n Extended m | 182826 | [182826-triple-n-extended-m.json](./182826-triple-n-extended-m.json) |
 | Triple Pack: Trials HD, Limbo, Splosion Man | 141767 | [141767-triple-pack-trials-hd-limbo-splosion-man.json](./141767-triple-pack-trials-hd-limbo-splosion-man.json) |
 | Triple Pairing | 386964 | [386964-triple-pairing.json](./386964-triple-pairing.json) |
