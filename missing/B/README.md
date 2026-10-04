@@ -1545,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barry McGuigan World Championship Boxing | 13862 | [13862-barry-mcguigan-world-championship-boxing.json](./13862-barry-mcguigan-world-championship-boxing.json) |
 | Barry of Wrath | 192258 | [192258-barry-of-wrath.json](./192258-barry-of-wrath.json) |
 | Barry the Bunny | 151187 | [151187-barry-the-bunny.json](./151187-barry-the-bunny.json) |
+| Bars | 178480 | [178480-bars.json](./178480-bars.json) |
 | Bars and Balance | 74672 | [74672-bars-and-balance.json](./74672-bars-and-balance.json) |
 | Bars of Black and White | 263669 | [263669-bars-of-black-and-white.json](./263669-bars-of-black-and-white.json) |
 | Bart Bash | 350404 | [350404-bart-bash.json](./350404-bart-bash.json) |
@@ -6554,6 +6555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombarika | 101962 | [101962-bombarika.json](./101962-bombarika.json) |
 | Bombarium | 179129 | [179129-bombarium.json](./179129-bombarium.json) |
 | Bombastar | 379008 | [379008-bombastar.json](./379008-bombastar.json) |
+| Bombastic | 178493 | [178493-bombastic.json](./178493-bombastic.json) |
 | Bombastic | 308253 | [308253-bombastic.json](./308253-bombastic.json) |
 | Bombastic! | 103655 | [103655-bombastic.json](./103655-bombastic.json) |
 | Bombball | 301584 | [301584-bombball.json](./301584-bombball.json) |
@@ -8481,12 +8483,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS F-Zero Grand Prix 2 | 151577 | [151577-bs-f-zero-grand-prix-2.json](./151577-bs-f-zero-grand-prix-2.json) |
 | BS F-Zero Grand Prix 2: Practice | 38348 | [38348-bs-f-zero-grand-prix-2-practice.json](./38348-bs-f-zero-grand-prix-2-practice.json) |
 | BS Fire Emblem: Archanea Saga | 178586 | [178586-bs-fire-emblem-archanea-saga.json](./178586-bs-fire-emblem-archanea-saga.json) |
+| BS Fire Emblem: Archanea Senki-hen - Dai-1-wa: Palace Kanraku | 178392 | [178392-bs-fire-emblem-archanea-senki-hen-dai-1-wa-palace-kanraku.json](./178392-bs-fire-emblem-archanea-senki-hen-dai-1-wa-palace-kanraku.json) |
+| BS Fire Emblem: Archanea Senki-hen - Dai-2-wa: Akai Ryuu Kishi | 178393 | [178393-bs-fire-emblem-archanea-senki-hen-dai-2-wa-akai-ryuu-kishi.json](./178393-bs-fire-emblem-archanea-senki-hen-dai-2-wa-akai-ryuu-kishi.json) |
+| BS Fire Emblem: Archanea Senki-hen - Dai-3-wa: Seigi no Touzokudan | 178394 | [178394-bs-fire-emblem-archanea-senki-hen-dai-3-wa-seigi-no-touzokudan.json](./178394-bs-fire-emblem-archanea-senki-hen-dai-3-wa-seigi-no-touzokudan.json) |
+| BS Fire Emblem: Archanea Senki-hen - Dai-4-wa: Hajimari no Toki | 178396 | [178396-bs-fire-emblem-archanea-senki-hen-dai-4-wa-hajimari-no-toki.json](./178396-bs-fire-emblem-archanea-senki-hen-dai-4-wa-hajimari-no-toki.json) |
 | BS Fuurai no Shiren: Surara wo Sukue | 134430 | [134430-bs-fuurai-no-shiren-surara-wo-sukue.json](./134430-bs-fuurai-no-shiren-surara-wo-sukue.json) |
 | BS Hacker: Replay | 68733 | [68733-bs-hacker-replay.json](./68733-bs-hacker-replay.json) |
 | BS Hacker: Zero Expansions | 78052 | [78052-bs-hacker-zero-expansions.json](./78052-bs-hacker-zero-expansions.json) |
 | BS Ihatovo Monogatari | 150170 | [150170-bs-ihatovo-monogatari.json](./150170-bs-ihatovo-monogatari.json) |
 | BS Marvelous: Camp Arnold | 134431 | [134431-bs-marvelous-camp-arnold.json](./134431-bs-marvelous-camp-arnold.json) |
+| BS Marvelous: Camp Arnold - Course 3 | 178385 | [178385-bs-marvelous-camp-arnold-course-3.json](./178385-bs-marvelous-camp-arnold-course-3.json) |
+| BS Marvelous: Camp Arnold - Course 4 | 178386 | [178386-bs-marvelous-camp-arnold-course-4.json](./178386-bs-marvelous-camp-arnold-course-4.json) |
 | BS Marvelous: Time Athletic | 134432 | [134432-bs-marvelous-time-athletic.json](./134432-bs-marvelous-time-athletic.json) |
+| BS Marvelous: Time Athletic - Course 1 | 178387 | [178387-bs-marvelous-time-athletic-course-1.json](./178387-bs-marvelous-time-athletic-course-1.json) |
+| BS Marvelous: Time Athletic - Course 2 | 178388 | [178388-bs-marvelous-time-athletic-course-2.json](./178388-bs-marvelous-time-athletic-course-2.json) |
+| BS Marvelous: Time Athletic - Course 3 | 178389 | [178389-bs-marvelous-time-athletic-course-3.json](./178389-bs-marvelous-time-athletic-course-3.json) |
+| BS Marvelous: Time Athletic - Course 4 | 178390 | [178390-bs-marvelous-time-athletic-course-4.json](./178390-bs-marvelous-time-athletic-course-4.json) |
 | BS Parlor! Parlor! | 134433 | [134433-bs-parlor-parlor.json](./134433-bs-parlor-parlor.json) |
 | BS Shin Onigashima | 134434 | [134434-bs-shin-onigashima.json](./134434-bs-shin-onigashima.json) |
 | BS SimCity: Machi Tsukuri Taikai | 134435 | [134435-bs-simcity-machi-tsukuri-taikai.json](./134435-bs-simcity-machi-tsukuri-taikai.json) |
@@ -9304,6 +9316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burrito Bison: Launcha Libre | 80360 | [80360-burrito-bison-launcha-libre.json](./80360-burrito-bison-launcha-libre.json) |
 | Burrito Galaxy 65 | 61875 | [61875-burrito-galaxy-65.json](./61875-burrito-galaxy-65.json) |
 | Burrow | 158717 | [158717-burrow.json](./158717-burrow.json) |
+| Burrows | 178397 | [178397-burrows.json](./178397-burrows.json) |
 | Burrows | 377195 | [377195-burrows.json](./377195-burrows.json) |
 | Burrows | 380045 | [380045-burrows.json](./380045-burrows.json) |
 | Burst | 380044 | [380044-burst.json](./380044-burst.json) |
