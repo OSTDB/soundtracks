@@ -968,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Chaser | 332446 | [332446-abyss-chaser.json](./332446-abyss-chaser.json) |
 | Abyss Crawlers Plus | 88465 | [88465-abyss-crawlers-plus.json](./88465-abyss-crawlers-plus.json) |
 | Abyss Deck: Deckbuilding Roguelike | 373159 | [373159-abyss-deck-deckbuilding-roguelike.json](./373159-abyss-deck-deckbuilding-roguelike.json) |
+| Abyss Delvers | 194378 | [194378-abyss-delvers.json](./194378-abyss-delvers.json) |
 | Abyss Eschaton Survivors | 348852 | [348852-abyss-eschaton-survivors.json](./348852-abyss-eschaton-survivors.json) |
 | Abyss King | 199485 | [199485-abyss-king.json](./199485-abyss-king.json) |
 | Abyss Kitchen | 341028 | [341028-abyss-kitchen.json](./341028-abyss-kitchen.json) |
@@ -6091,6 +6092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Plump Pop | 394382 | [394382-arcade-archives-plump-pop.json](./394382-arcade-archives-plump-pop.json) |
 | Arcade Archives: Pole Position II | 279875 | [279875-arcade-archives-pole-position-ii.json](./279875-arcade-archives-pole-position-ii.json) |
 | Arcade Archives: Power Spikes | 319783 | [319783-arcade-archives-power-spikes.json](./319783-arcade-archives-power-spikes.json) |
+| Arcade Archives: Qix | 194365 | [194365-arcade-archives-qix.json](./194365-arcade-archives-qix.json) |
 | Arcade Archives: Rabio Lepus | 208425 | [208425-arcade-archives-rabio-lepus.json](./208425-arcade-archives-rabio-lepus.json) |
 | Arcade Archives: Radical Radial | 147936 | [147936-arcade-archives-radical-radial.json](./147936-arcade-archives-radical-radial.json) |
 | Arcade Archives: Raiders5 | 99783 | [99783-arcade-archives-raiders5.json](./99783-arcade-archives-raiders5.json) |
@@ -8457,6 +8459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attractorache | 109904 | [109904-attractorache.json](./109904-attractorache.json) |
 | Attrax | 349381 | [349381-attrax.json](./349381-attrax.json) |
 | Attribute2 | 295486 | [295486-attribute2.json](./295486-attribute2.json) |
+| Attrition | 194369 | [194369-attrition.json](./194369-attrition.json) |
 | Attrition | 378197 | [378197-attrition.json](./378197-attrition.json) |
 | Atuel | 213274 | [213274-atuel.json](./213274-atuel.json) |
 | Atulos Online | 33343 | [33343-atulos-online.json](./33343-atulos-online.json) |
