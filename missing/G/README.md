@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Roll | 358429 | [358429-galaxy-roll.json](./358429-galaxy-roll.json) |
 | Galaxy Shooter Space War Games | 231949 | [231949-galaxy-shooter-space-war-games.json](./231949-galaxy-shooter-space-war-games.json) |
 | Galaxy Shooting: Alien War | 105539 | [105539-galaxy-shooting-alien-war.json](./105539-galaxy-shooting-alien-war.json) |
+| Galaxy Sphere | 180066 | [180066-galaxy-sphere.json](./180066-galaxy-sphere.json) |
 | Galaxy Squad: Airplane Games | 256456 | [256456-galaxy-squad-airplane-games.json](./256456-galaxy-squad-airplane-games.json) |
 | Galaxy Strike | 135896 | [135896-galaxy-strike.json](./135896-galaxy-strike.json) |
 | Galaxy Survivors | 212839 | [212839-galaxy-survivors.json](./212839-galaxy-survivors.json) |
