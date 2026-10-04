@@ -2131,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level Up! Factory | 298153 | [298153-level-up-factory.json](./298153-level-up-factory.json) |
 | Level Zero: Extraction | 223473 | [223473-level-zero-extraction.json](./223473-level-zero-extraction.json) |
 | Leveleers | 348378 | [348378-leveleers.json](./348378-leveleers.json) |
+| Levelhead | 212695 | [212695-levelhead.json](./212695-levelhead.json) |
 | LevelMergePuzzle | 297652 | [297652-levelmergepuzzle.json](./297652-levelmergepuzzle.json) |
 | Levers! | 200195 | [200195-levers.json](./200195-levers.json) |
 | Levi no Slime Factory | 355189 | [355189-levi-no-slime-factory.json](./355189-levi-no-slime-factory.json) |
@@ -3628,7 +3629,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Missile | 33382 | [33382-logic-missile.json](./33382-logic-missile.json) |
 | Logic Path | 392451 | [392451-logic-path.json](./392451-logic-path.json) |
 | Logic Pic | 212273 | [212273-logic-pic.json](./212273-logic-pic.json) |
+| Logic Pic: All DLCs Pack | 212683 | [212683-logic-pic-all-dlcs-pack.json](./212683-logic-pic-all-dlcs-pack.json) |
 | Logic Pic: Complete Bundle | 214001 | [214001-logic-pic-complete-bundle.json](./214001-logic-pic-complete-bundle.json) |
+| Logic Pic: Happy Pics | 212685 | [212685-logic-pic-happy-pics.json](./212685-logic-pic-happy-pics.json) |
+| Logic Pic: Love to Solve by Numbers | 212684 | [212684-logic-pic-love-to-solve-by-numbers.json](./212684-logic-pic-love-to-solve-by-numbers.json) |
+| Logic Pic: Nonogram Adventure | 212681 | [212681-logic-pic-nonogram-adventure.json](./212681-logic-pic-nonogram-adventure.json) |
 | Logic Puzzle Collection: Sudoku, Permudoku, Nonodoku | 147949 | [147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json](./147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json) |
 | Logic Town: Santa's Grotto | 279131 | [279131-logic-town-santas-grotto.json](./279131-logic-town-santas-grotto.json) |
 | Logic Training IQ Quiz for Kids | 401131 | [401131-logic-training-iq-quiz-for-kids.json](./401131-logic-training-iq-quiz-for-kids.json) |
