@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Hearts R: LaLaBitMarket Edition | 89866 | [89866-tales-of-hearts-r-lalabitmarket-edition.json](./89866-tales-of-hearts-r-lalabitmarket-edition.json) |
 | Tales of Hearts R: Link Edition | 89865 | [89865-tales-of-hearts-r-link-edition.json](./89865-tales-of-hearts-r-link-edition.json) |
 | Tales of Hearts: CG Movie Edition | 222922 | [222922-tales-of-hearts-cg-movie-edition.json](./222922-tales-of-hearts-cg-movie-edition.json) |
+| Tales of Howl Town | 221773 | [221773-tales-of-howl-town.json](./221773-tales-of-howl-town.json) |
 | Tales of Innocence R | 42673 | [42673-tales-of-innocence-r.json](./42673-tales-of-innocence-r.json) |
 | Tales of Innocence R: Limited Edition | 89870 | [89870-tales-of-innocence-r-limited-edition.json](./89870-tales-of-innocence-r-limited-edition.json) |
 | Tales of Isenberg | 375419 | [375419-tales-of-isenberg.json](./375419-tales-of-isenberg.json) |
@@ -3565,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brain Blasters | 14612 | [14612-the-brain-blasters.json](./14612-the-brain-blasters.json) |
 | The Brain's Brain Game | 307913 | [307913-the-brains-brain-game.json](./307913-the-brains-brain-game.json) |
 | The Brainies | 42634 | [42634-the-brainies.json](./42634-the-brainies.json) |
+| The Brains & The Brawn | 221771 | [221771-the-brains-and-the-brawn.json](./221771-the-brains-and-the-brawn.json) |
 | The Branch | 231456 | [231456-the-branch.json](./231456-the-branch.json) |
 | The Brave Little Cloud | 275828 | [275828-the-brave-little-cloud.json](./275828-the-brave-little-cloud.json) |
 | The Brave Mouse | 51513 | [51513-the-brave-mouse.json](./51513-the-brave-mouse.json) |
