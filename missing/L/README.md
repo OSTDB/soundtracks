@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LainTSX | 248784 | [248784-laintsx.json](./248784-laintsx.json) |
 | Lair | 7362 | [7362-lair.json](./7362-lair.json) |
 | Lair Defense: Dungeon | 127893 | [127893-lair-defense-dungeon.json](./127893-lair-defense-dungeon.json) |
+| Lair Land Story 2: Mist of Sea | 217214 | [217214-lair-land-story-2-mist-of-sea.json](./217214-lair-land-story-2-mist-of-sea.json) |
 | Lair Land Story: Remake Edition | 119030 | [119030-lair-land-story-remake-edition.json](./119030-lair-land-story-remake-edition.json) |
 | Lair of Anubis | 236303 | [236303-lair-of-anubis.json](./236303-lair-of-anubis.json) |
 | Lair of the Clockwork God | 117058 | [117058-lair-of-the-clockwork-god.json](./117058-lair-of-the-clockwork-god.json) |
@@ -994,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazer Tag | 54536 | [54536-lazer-tag.json](./54536-lazer-tag.json) |
 | Lazer Tag Arena | 340907 | [340907-lazer-tag-arena.json](./340907-lazer-tag-arena.json) |
 | Lazer Wheel | 38920 | [38920-lazer-wheel.json](./38920-lazer-wheel.json) |
+| Lazerball | 217357 | [217357-lazerball.json](./217357-lazerball.json) |
 | LazerBlazer: Type A - Intercept | 271255 | [271255-lazerblazer-type-a-intercept.json](./271255-lazerblazer-type-a-intercept.json) |
 | LazerBlazer: Type B - Engage | 271256 | [271256-lazerblazer-type-b-engage.json](./271256-lazerblazer-type-b-engage.json) |
 | LazerBlazer: Type C - Confront | 271257 | [271257-lazerblazer-type-c-confront.json](./271257-lazerblazer-type-c-confront.json) |
@@ -5240,6 +5242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lux | 329071 | [329071-lux.json](./329071-lux.json) |
 | Lux DLX 3 - Map Conquest Game | 96895 | [96895-lux-dlx-3-map-conquest-game.json](./96895-lux-dlx-3-map-conquest-game.json) |
 | Lux Ex: Cyber Initiation | 214190 | [214190-lux-ex-cyber-initiation.json](./214190-lux-ex-cyber-initiation.json) |
+| Lux Intacta | 217286 | [217286-lux-intacta.json](./217286-lux-intacta.json) |
 | Lux Sine | 149030 | [149030-lux-sine.json](./149030-lux-sine.json) |
 | Lux umbra | 56595 | [56595-lux-umbra.json](./56595-lux-umbra.json) |
 | Lux: Dream.Girl | 280928 | [280928-lux-dream-girl.json](./280928-lux-dream-girl.json) |
