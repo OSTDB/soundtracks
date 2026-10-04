@@ -3478,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizzie McGuire: On the Go! | 49394 | [49394-lizzie-mcguire-on-the-go.json](./49394-lizzie-mcguire-on-the-go.json) |
 | LJ65 | 305313 | [305313-lj65.json](./305313-lj65.json) |
 | Lkyt. | 207259 | [207259-lkyt.json](./207259-lkyt.json) |
+| Llama God | 179991 | [179991-llama-god.json](./179991-llama-god.json) |
 | Llama Villa | 129572 | [129572-llama-villa.json](./129572-llama-villa.json) |
 | Llamagotchi | 223597 | [223597-llamagotchi.json](./223597-llamagotchi.json) |
 | Llamalandia | 258002 | [258002-llamalandia.json](./258002-llamalandia.json) |
