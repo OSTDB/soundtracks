@@ -809,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egglia: Legend of the Redcap | 48018 | [48018-egglia-legend-of-the-redcap.json](./48018-egglia-legend-of-the-redcap.json) |
 | Egglia: Legend of the Redcap Offline | 107144 | [107144-egglia-legend-of-the-redcap-offline.json](./107144-egglia-legend-of-the-redcap-offline.json) |
 | Egglings | 361848 | [361848-egglings.json](./361848-egglings.json) |
+| Egglomania | 175256 | [175256-egglomania.json](./175256-egglomania.json) |
 | Eggman | 309664 | [309664-eggman.json](./309664-eggman.json) |
 | Eggman no Kazuate Panic! | 261249 | [261249-eggman-no-kazuate-panic.json](./261249-eggman-no-kazuate-panic.json) |
 | Eggman Strikes | 330956 | [330956-eggman-strikes.json](./330956-eggman-strikes.json) |
@@ -4184,6 +4185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Skate Boarder 3D | 87635 | [87635-extreme-skate-boarder-3d.json](./87635-extreme-skate-boarder-3d.json) |
 | Extreme Skater | 200200 | [200200-extreme-skater.json](./200200-extreme-skater.json) |
 | Extreme Skill | 80466 | [80466-extreme-skill.json](./80466-extreme-skill.json) |
+| Extreme Skydiving | 175159 | [175159-extreme-skydiving.json](./175159-extreme-skydiving.json) |
 | Extreme Snowboard | 228110 | [228110-extreme-snowboard.json](./228110-extreme-snowboard.json) |
 | Extreme Social Distancing | 163761 | [163761-extreme-social-distancing.json](./163761-extreme-social-distancing.json) |
 | Extreme Speed Bundle: Go! Fish Go! Adrenaline Rush, Jet Ski Rush | 196823 | [196823-extreme-speed-bundle-go-fish-go-adrenaline-rush-jet-ski-rush.json](./196823-extreme-speed-bundle-go-fish-go-adrenaline-rush-jet-ski-rush.json) |
