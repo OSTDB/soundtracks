@@ -684,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Maj'Eyal: Embers of Rage | 51930 | [51930-tales-of-majeyal-embers-of-rage.json](./51930-tales-of-majeyal-embers-of-rage.json) |
 | Tales of Mathasia | 239743 | [239743-tales-of-mathasia.json](./239743-tales-of-mathasia.json) |
 | Tales of Medieval Duelists | 389982 | [389982-tales-of-medieval-duelists.json](./389982-tales-of-medieval-duelists.json) |
+| Tales of Memo | 194340 | [194340-tales-of-memo.json](./194340-tales-of-memo.json) |
 | Tales of Middle Earth | 326278 | [326278-tales-of-middle-earth.json](./326278-tales-of-middle-earth.json) |
 | Tales of Miravia | 339420 | [339420-tales-of-miravia.json](./339420-tales-of-miravia.json) |
 | Tales of Misteria | 204551 | [204551-tales-of-misteria.json](./204551-tales-of-misteria.json) |
@@ -3144,6 +3145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aquarium of Luck | 85434 | [85434-the-aquarium-of-luck.json](./85434-the-aquarium-of-luck.json) |
 | The Aquatic Adventure of the Last Human | 12598 | [12598-the-aquatic-adventure-of-the-last-human.json](./12598-the-aquatic-adventure-of-the-last-human.json) |
 | The Arab League of Misfits | 412531 | [412531-the-arab-league-of-misfits.json](./412531-the-arab-league-of-misfits.json) |
+| The Arcade Tower | 194373 | [194373-the-arcade-tower.json](./194373-the-arcade-tower.json) |
 | The Arcana: Dark Tarot & Kings of Madness | 389075 | [389075-the-arcana-dark-tarot-and-kings-of-madness.json](./389075-the-arcana-dark-tarot-and-kings-of-madness.json) |
 | The Arcana: Dark Tarot & Queens of Madness | 389077 | [389077-the-arcana-dark-tarot-and-queens-of-madness.json](./389077-the-arcana-dark-tarot-and-queens-of-madness.json) |
 | The Arcane Tower | 166744 | [166744-the-arcane-tower.json](./166744-the-arcane-tower.json) |
@@ -10383,6 +10385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Therian Crush: Wild Animal Girls | 414453 | [414453-therian-crush-wild-animal-girls.json](./414453-therian-crush-wild-animal-girls.json) |
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
 | Thermal Power Plant K-13 | 182989 | [182989-thermal-power-plant-k-13.json](./182989-thermal-power-plant-k-13.json) |
+| Thermo Puzzle | 194381 | [194381-thermo-puzzle.json](./194381-thermo-puzzle.json) |
 | These are not Heroes | 187239 | [187239-these-are-not-heroes.json](./187239-these-are-not-heroes.json) |
 | These Are Them | 365215 | [365215-these-are-them.json](./365215-these-are-them.json) |
 | These Darker Tides | 322135 | [322135-these-darker-tides.json](./322135-these-darker-tides.json) |
@@ -10507,6 +10510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thingio Side A: Let's Go! Thingio! | 323782 | [323782-thingio-side-a-lets-go-thingio.json](./323782-thingio-side-a-lets-go-thingio.json) |
 | Thingio Side B: The Grand Illusion | 323783 | [323783-thingio-side-b-the-grand-illusion.json](./323783-thingio-side-b-the-grand-illusion.json) |
 | Things on Wheels | 72727 | [72727-things-on-wheels.json](./72727-things-on-wheels.json) |
+| Things That Go Bump | 194341 | [194341-things-that-go-bump.json](./194341-things-that-go-bump.json) |
 | Things Too Ugly | 289948 | [289948-things-too-ugly.json](./289948-things-too-ugly.json) |
 | Think About Aliens! | 150088 | [150088-think-about-aliens.json](./150088-think-about-aliens.json) |
 | Think and Choice | 373758 | [373758-think-and-choice.json](./373758-think-and-choice.json) |
@@ -11022,6 +11026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidalis | 10991 | [10991-tidalis.json](./10991-tidalis.json) |
 | Tiddy Bounce | 156061 | [156061-tiddy-bounce.json](./156061-tiddy-bounce.json) |
 | Tide of Thieves | 216501 | [216501-tide-of-thieves.json](./216501-tide-of-thieves.json) |
+| Tide Up | 194387 | [194387-tide-up.json](./194387-tide-up.json) |
 | Tide: 1927 | 368034 | [368034-tide-1927.json](./368034-tide-1927.json) |
 | Tideborne | 378363 | [378363-tideborne.json](./378363-tideborne.json) |
 | Tideborne Haven | 402429 | [402429-tideborne-haven.json](./402429-tideborne-haven.json) |
