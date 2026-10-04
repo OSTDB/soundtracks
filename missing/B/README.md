@@ -2286,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield Online | 353 | [353-battlefield-online.json](./353-battlefield-online.json) |
 | Battlefield Priest | 211427 | [211427-battlefield-priest.json](./211427-battlefield-priest.json) |
 | Battlefield REDSEC | 371393 | [371393-battlefield-redsec.json](./371393-battlefield-redsec.json) |
+| Battlefield: Bad Company 2 - Digital Deluxe Edition | 202187 | [202187-battlefield-bad-company-2-digital-deluxe-edition.json](./202187-battlefield-bad-company-2-digital-deluxe-edition.json) |
 | Battlefield: Bad Company 2 - Specact Kit Upgrade | 27654 | [27654-battlefield-bad-company-2-specact-kit-upgrade.json](./27654-battlefield-bad-company-2-specact-kit-upgrade.json) |
 | Battlefield: Bad Company 2 Vietnam | 607 | [607-battlefield-bad-company-2-vietnam.json](./607-battlefield-bad-company-2-vietnam.json) |
 | Battlefish: Free Zombie Games | 39766 | [39766-battlefish-free-zombie-games.json](./39766-battlefish-free-zombie-games.json) |
