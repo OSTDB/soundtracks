@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Einhänder | 1360 | [1360-einhander.json](./1360-einhander.json) |
 | Einherjar | 181122 | [181122-einherjar.json](./181122-einherjar.json) |
 | Einn | 120832 | [120832-einn.json](./120832-einn.json) |
+| Eins Ring | 204319 | [204319-eins-ring.json](./204319-eins-ring.json) |
 | Einstein's Cats | 291594 | [291594-einsteins-cats.json](./291594-einsteins-cats.json) |
 | Einsteins Riddle | 156605 | [156605-einsteins-riddle.json](./156605-einsteins-riddle.json) |
 | Eisadler Jagd | 279594 | [279594-eisadler-jagd.json](./279594-eisadler-jagd.json) |
