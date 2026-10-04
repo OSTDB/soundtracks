@@ -3279,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold of the Incas Solitaire | 294741 | [294741-gold-of-the-incas-solitaire.json](./294741-gold-of-the-incas-solitaire.json) |
 | Gold Picker | 292627 | [292627-gold-picker.json](./292627-gold-picker.json) |
 | Gold Runner | 146816 | [146816-gold-runner.json](./146816-gold-runner.json) |
+| Gold Rush | 172467 | [172467-gold-rush.json](./172467-gold-rush.json) |
 | Gold Rush | 244761 | [244761-gold-rush.json](./244761-gold-rush.json) |
 | Gold Rush | 352253 | [352253-gold-rush.json](./352253-gold-rush.json) |
 | Gold Rush Clicker | 264658 | [264658-gold-rush-clicker.json](./264658-gold-rush-clicker.json) |
@@ -3948,6 +3949,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo 5 Prologue | 1599 | [1599-gran-turismo-5-prologue.json](./1599-gran-turismo-5-prologue.json) |
 | Gran Turismo 5 Spec 2.0 | 136852 | [136852-gran-turismo-5-spec-2-0.json](./136852-gran-turismo-5-spec-2-0.json) |
 | Gran Turismo 5: Prologue Spec III | 77993 | [77993-gran-turismo-5-prologue-spec-iii.json](./77993-gran-turismo-5-prologue-spec-iii.json) |
+| Gran Turismo 7: 25th Anniversary Edition | 172566 | [172566-gran-turismo-7-25th-anniversary-edition.json](./172566-gran-turismo-7-25th-anniversary-edition.json) |
+| Gran Turismo 7: Launch Edition | 172567 | [172567-gran-turismo-7-launch-edition.json](./172567-gran-turismo-7-launch-edition.json) |
 | Gran Turismo 7: Power Pack | 377243 | [377243-gran-turismo-7-power-pack.json](./377243-gran-turismo-7-power-pack.json) |
 | Gran Turismo 7: Spec IV | 416116 | [416116-gran-turismo-7-spec-iv.json](./416116-gran-turismo-7-spec-iv.json) |
 | Gran Turismo Concept: 2002 Tokyo-Geneva | 22061 | [22061-gran-turismo-concept-2002-tokyo-geneva.json](./22061-gran-turismo-concept-2002-tokyo-geneva.json) |
