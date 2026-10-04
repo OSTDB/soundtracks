@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko no Famires: Nyanko-tachi to Issho ni Omise wo Moriageyou!!~ | 214382 | [214382-neko-no-famires-nyanko-tachi-to-issho-ni-omise-wo-moriageyou.json](./214382-neko-no-famires-nyanko-tachi-to-issho-ni-omise-wo-moriageyou.json) |
 | Neko no Sentouki | 343390 | [343390-neko-no-sentouki.json](./343390-neko-no-sentouki.json) |
 | Neko Nyaa~ | 195479 | [195479-neko-nyaa.json](./195479-neko-nyaa.json) |
+| Neko Puzzle | 212851 | [212851-neko-puzzle.json](./212851-neko-puzzle.json) |
 | Neko Rescue Tale | 241040 | [241040-neko-rescue-tale.json](./241040-neko-rescue-tale.json) |
 | Neko Sagashi | 227270 | [227270-neko-sagashi.json](./227270-neko-sagashi.json) |
 | Neko Samurai | 212468 | [212468-neko-samurai.json](./212468-neko-samurai.json) |
@@ -1110,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekomancer of Nowhere | 325512 | [325512-nekomancer-of-nowhere.json](./325512-nekomancer-of-nowhere.json) |
 | Nekomancy | 213440 | [213440-nekomancy.json](./213440-nekomancy.json) |
 | Nekome: Nazi Hunter | 388249 | [388249-nekome-nazi-hunter.json](./388249-nekome-nazi-hunter.json) |
+| Nekomew's Nightmares | 212701 | [212701-nekomews-nightmares.json](./212701-nekomews-nightmares.json) |
 | Nekomew's Potty Trouble | 81921 | [81921-nekomews-potty-trouble.json](./81921-nekomews-potty-trouble.json) |
 | NekoMiko | 114367 | [114367-nekomiko.json](./114367-nekomiko.json) |
 | Nekomin Kittens Invasion | 351725 | [351725-nekomin-kittens-invasion.json](./351725-nekomin-kittens-invasion.json) |
@@ -3425,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram 3D: Mega Puzzle | 289449 | [289449-nonogram-3d-mega-puzzle.json](./289449-nonogram-3d-mega-puzzle.json) |
 | Nonogram Animals | 305913 | [305913-nonogram-animals.json](./305913-nonogram-animals.json) |
 | Nonogram Desserts | 347759 | [347759-nonogram-desserts.json](./347759-nonogram-desserts.json) |
+| Nonogram Galaxy 2 | 212699 | [212699-nonogram-galaxy-2.json](./212699-nonogram-galaxy-2.json) |
 | Nonogram Minimal | 197918 | [197918-nonogram-minimal.json](./197918-nonogram-minimal.json) |
 | Nonogram Mon | 312367 | [312367-nonogram-mon.json](./312367-nonogram-mon.json) |
 | Nonogram Nights | 273451 | [273451-nonogram-nights.json](./273451-nonogram-nights.json) |
@@ -3834,6 +3837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NRL Mascot Mania | 124026 | [124026-nrl-mascot-mania.json](./124026-nrl-mascot-mania.json) |
 | NS Kakuro | 91105 | [91105-ns-kakuro.json](./91105-ns-kakuro.json) |
 | NSFW: Not a Simulator for Working | 25606 | [25606-nsfw-not-a-simulator-for-working.json](./25606-nsfw-not-a-simulator-for-working.json) |
+| NSMB: Mario vs. Luigi Online | 212845 | [212845-nsmb-mario-vs-luigi-online.json](./212845-nsmb-mario-vs-luigi-online.json) |
 | NSR: Night Street Racing | 397954 | [397954-nsr-night-street-racing.json](./397954-nsr-night-street-racing.json) |
 | nStations | 127115 | [127115-nstations.json](./127115-nstations.json) |
 | NSYNC: Get to the Show | 49955 | [49955-nsync-get-to-the-show.json](./49955-nsync-get-to-the-show.json) |
