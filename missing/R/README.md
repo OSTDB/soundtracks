@@ -4517,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roah | 114892 | [114892-roah.json](./114892-roah.json) |
 | Roam | 324521 | [324521-roam.json](./324521-roam.json) |
 | Roam | 63893 | [63893-roam.json](./63893-roam.json) |
+| Roam Survival | 215728 | [215728-roam-survival.json](./215728-roam-survival.json) |
 | Roamaor | 249314 | [249314-roamaor.json](./249314-roamaor.json) |
 | Roaming Backrooms | 265156 | [265156-roaming-backrooms.json](./265156-roaming-backrooms.json) |
 | Roaming through the Rivers | 214731 | [214731-roaming-through-the-rivers.json](./214731-roaming-through-the-rivers.json) |
