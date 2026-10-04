@@ -2021,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Planet | 63922 | [63922-cat-planet.json](./63922-cat-planet.json) |
 | Cat Plus | 330190 | [330190-cat-plus.json](./330190-cat-plus.json) |
 | Cat Pong! | 243082 | [243082-cat-pong.json](./243082-cat-pong.json) |
+| Cat Powered UFO | 197179 | [197179-cat-powered-ufo.json](./197179-cat-powered-ufo.json) |
 | Cat President 2: Purrlitical Revolution | 148990 | [148990-cat-president-2-purrlitical-revolution.json](./148990-cat-president-2-purrlitical-revolution.json) |
 | Cat President: A More Purrfect Union | 23186 | [23186-cat-president-a-more-purrfect-union.json](./23186-cat-president-a-more-purrfect-union.json) |
 | Cat Purrtrol: Find All 100! | 295772 | [295772-cat-purrtrol-find-all-100.json](./295772-cat-purrtrol-find-all-100.json) |
@@ -2693,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Zealot Pack | 256409 | [256409-century-age-of-ashes-zealot-pack.json](./256409-century-age-of-ashes-zealot-pack.json) |
 | Century: Wishbringer Pack | 340566 | [340566-century-wishbringer-pack.json](./340566-century-wishbringer-pack.json) |
 | CEO | 179515 | [179515-ceo.json](./179515-ceo.json) |
+| CEO | 197181 | [197181-ceo.json](./197181-ceo.json) |
 | CEO City | 316287 | [316287-ceo-city.json](./316287-ceo-city.json) |
 | CEO Sim: Cyberpunk | 290634 | [290634-ceo-sim-cyberpunk.json](./290634-ceo-sim-cyberpunk.json) |
 | Cepheus Protocol | 127246 | [127246-cepheus-protocol.json](./127246-cepheus-protocol.json) |
@@ -4911,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash Heroes | 145547 | [145547-clash-heroes.json](./145547-clash-heroes.json) |
 | Clash Memory Game | 158557 | [158557-clash-memory-game.json](./158557-clash-memory-game.json) |
 | Clash Mini | 172495 | [172495-clash-mini.json](./172495-clash-mini.json) |
+| Clash of Beasts | 197185 | [197185-clash-of-beasts.json](./197185-clash-of-beasts.json) |
 | Clash of Blades | 265109 | [265109-clash-of-blades.json](./265109-clash-of-blades.json) |
 | Clash of Champs | 56529 | [56529-clash-of-champs.json](./56529-clash-of-champs.json) |
 | Clash of Chefs VR | 111704 | [111704-clash-of-chefs-vr.json](./111704-clash-of-chefs-vr.json) |
