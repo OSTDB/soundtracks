@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Princess of Fallen Kingdom | 166615 | [166615-a-princess-of-fallen-kingdom.json](./166615-a-princess-of-fallen-kingdom.json) |
 | A Promise Best Left Unkept | 235844 | [235844-a-promise-best-left-unkept.json](./235844-a-promise-best-left-unkept.json) |
 | A Promise Best Left Unkept: Aya Edition | 385835 | [385835-a-promise-best-left-unkept-aya-edition.json](./385835-a-promise-best-left-unkept-aya-edition.json) |
+| A Quest That Became Legend | 217294 | [217294-a-quest-that-became-legend.json](./217294-a-quest-that-became-legend.json) |
 | A Quick Death | 41973 | [41973-a-quick-death.json](./41973-a-quick-death.json) |
 | A Quick Journey to the Edge and Back | 177844 | [177844-a-quick-journey-to-the-edge-and-back.json](./177844-a-quick-journey-to-the-edge-and-back.json) |
 | A Quick One Before Azathoth Devours Fodrian | 271299 | [271299-a-quick-one-before-azathoth-devours-fodrian.json](./271299-a-quick-one-before-azathoth-devours-fodrian.json) |
@@ -8440,6 +8441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora | 387688 | [387688-aurora.json](./387688-aurora.json) |
 | Aurora 4x | 60045 | [60045-aurora-4x.json](./60045-aurora-4x.json) |
 | Aurora Adventure: A Space Academy Tale | 260295 | [260295-aurora-adventure-a-space-academy-tale.json](./260295-aurora-adventure-a-space-academy-tale.json) |
+| Aurora Chronicles | 217228 | [217228-aurora-chronicles.json](./217228-aurora-chronicles.json) |
 | Aurora Dusk: Steam Age | 34581 | [34581-aurora-dusk-steam-age.json](./34581-aurora-dusk-steam-age.json) |
 | Aurora Feint II: Tower Puzzles | 67694 | [67694-aurora-feint-ii-tower-puzzles.json](./67694-aurora-feint-ii-tower-puzzles.json) |
 | Aurora Heights | 374762 | [374762-aurora-heights.json](./374762-aurora-heights.json) |
@@ -8602,6 +8604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AV Director Life! | 346669 | [346669-av-director-life.json](./346669-av-director-life.json) |
 | AV Pachinko | 242089 | [242089-av-pachinko.json](./242089-av-pachinko.json) |
 | AV Sex Manager | 400407 | [400407-av-sex-manager.json](./400407-av-sex-manager.json) |
+| AV.Runner | 217218 | [217218-av-runner.json](./217218-av-runner.json) |
 | Ava | 119569 | [119569-ava.json](./119569-ava.json) |
 | AVA | 367997 | [367997-ava.json](./367997-ava.json) |
 | Ava and Avior Save the Earth | 84979 | [84979-ava-and-avior-save-the-earth.json](./84979-ava-and-avior-save-the-earth.json) |
@@ -8756,6 +8759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoidvania | 159802 | [159802-avoidvania.json](./159802-avoidvania.json) |
 | Avoidy Virus | 338183 | [338183-avoidy-virus.json](./338183-avoidy-virus.json) |
 | Avolteha | 208022 | [208022-avolteha.json](./208022-avolteha.json) |
+| Avopug Show | 217346 | [217346-avopug-show.json](./217346-avopug-show.json) |
 | Avorion | 27114 | [27114-avorion.json](./27114-avorion.json) |
 | Avorion: Black Market | 172110 | [172110-avorion-black-market.json](./172110-avorion-black-market.json) |
 | Avorion: Into the Rift | 210867 | [210867-avorion-into-the-rift.json](./210867-avorion-into-the-rift.json) |
