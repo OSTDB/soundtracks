@@ -1088,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 3: Electrosphere | 14751 | [14751-ace-combat-3-electrosphere.json](./14751-ace-combat-3-electrosphere.json) |
 | Ace Combat 3: Electrosphere | 306600 | [306600-ace-combat-3-electrosphere.json](./306600-ace-combat-3-electrosphere.json) |
 | Ace Combat 5: The Unsung War | 14753 | [14753-ace-combat-5-the-unsung-war.json](./14753-ace-combat-5-the-unsung-war.json) |
+| Ace Combat 7: Skies Unknown - 25th Anniversary Edition | 218508 | [218508-ace-combat-7-skies-unknown-25th-anniversary-edition.json](./218508-ace-combat-7-skies-unknown-25th-anniversary-edition.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Emblem Set II | 282591 | [282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json](./282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set II | 282593 | [282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json](./282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json) |
 | Ace Combat 7: Skies Unknown - ASF-X Shinden II Set | 282579 | [282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json](./282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json) |
@@ -3352,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Hit All Her: Western City | 193230 | [193230-all-hit-all-her-western-city.json](./193230-all-hit-all-her-western-city.json) |
 | All Humans Must Die! | 183557 | [183557-all-humans-must-die.json](./183557-all-humans-must-die.json) |
 | All I want for Christmas are Subgames: Collector's Edition | 416871 | [416871-all-i-want-for-christmas-are-subgames-collectors-edition.json](./416871-all-i-want-for-christmas-are-subgames-collectors-edition.json) |
+| All I Want for Christmas Collection | 218378 | [218378-all-i-want-for-christmas-collection.json](./218378-all-i-want-for-christmas-collection.json) |
 | All Idleness and Ephemera | 248783 | [248783-all-idleness-and-ephemera.json](./248783-all-idleness-and-ephemera.json) |
 | All in a Day's Work | 58865 | [58865-all-in-a-days-work.json](./58865-all-in-a-days-work.json) |
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
@@ -3571,6 +3573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Along the Edge of the Sky | 337818 | [337818-along-the-edge-of-the-sky.json](./337818-along-the-edge-of-the-sky.json) |
 | Along the River During the Qingming Festival | 295384 | [295384-along-the-river-during-the-qingming-festival.json](./295384-along-the-river-during-the-qingming-festival.json) |
 | Alpaca Ball: Allstars - Collector's Edition | 146114 | [146114-alpaca-ball-allstars-collectors-edition.json](./146114-alpaca-ball-allstars-collectors-edition.json) |
+| Alpaca Evolution | 218527 | [218527-alpaca-evolution.json](./218527-alpaca-evolution.json) |
 | Alpaca Party | 326086 | [326086-alpaca-party.json](./326086-alpaca-party.json) |
 | Alpaca Run | 62451 | [62451-alpaca-run.json](./62451-alpaca-run.json) |
 | Alpaca Sprint | 247670 | [247670-alpaca-sprint.json](./247670-alpaca-sprint.json) |
@@ -4622,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Fight! | 60226 | [60226-angry-birds-fight.json](./60226-angry-birds-fight.json) |
 | Angry Birds Flock Party | 377797 | [377797-angry-birds-flock-party.json](./377797-angry-birds-flock-party.json) |
 | Angry Birds FPS: First Person Slingshot | 111021 | [111021-angry-birds-fps-first-person-slingshot.json](./111021-angry-birds-fps-first-person-slingshot.json) |
+| Angry Birds Fuji TV | 218530 | [218530-angry-birds-fuji-tv.json](./218530-angry-birds-fuji-tv.json) |
 | Angry Birds Google+ | 245001 | [245001-angry-birds-google.json](./245001-angry-birds-google.json) |
 | Angry Birds Hatchery Island | 280801 | [280801-angry-birds-hatchery-island.json](./280801-angry-birds-hatchery-island.json) |
 | Angry Birds Hot Wheels Smashup | 195093 | [195093-angry-birds-hot-wheels-smashup.json](./195093-angry-birds-hot-wheels-smashup.json) |
@@ -6181,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana Automata | 361831 | [361831-arcana-automata.json](./361831-arcana-automata.json) |
 | Arcana Famiglia Collezione! Piccola Amore | 218493 | [218493-arcana-famiglia-collezione-piccola-amore.json](./218493-arcana-famiglia-collezione-piccola-amore.json) |
 | Arcana Famiglia: Festa Regalo | 194276 | [194276-arcana-famiglia-festa-regalo.json](./194276-arcana-famiglia-festa-regalo.json) |
+| Arcana Famiglia: La storia della Arcana Famiglia - Ancora | 218375 | [218375-arcana-famiglia-la-storia-della-arcana-famiglia-ancora.json](./218375-arcana-famiglia-la-storia-della-arcana-famiglia-ancora.json) |
 | Arcana Famiglia: Vascello Phantasma no Majutsushi | 64668 | [64668-arcana-famiglia-vascello-phantasma-no-majutsushi.json](./64668-arcana-famiglia-vascello-phantasma-no-majutsushi.json) |
 | Arcana Heart | 243694 | [243694-arcana-heart.json](./243694-arcana-heart.json) |
 | Arcana Heart 2 | 15865 | [15865-arcana-heart-2.json](./15865-arcana-heart-2.json) |
