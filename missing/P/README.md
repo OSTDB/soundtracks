@@ -3298,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pierhead Arcade 2 | 188081 | [188081-pierhead-arcade-2.json](./188081-pierhead-arcade-2.json) |
 | Pierre Hotel | 310637 | [310637-pierre-hotel.json](./310637-pierre-hotel.json) |
 | Pierre le Chef is... Out to Lunch | 39042 | [39042-pierre-le-chef-is-out-to-lunch.json](./39042-pierre-le-chef-is-out-to-lunch.json) |
+| Pierre's Adventures in French | 221784 | [221784-pierres-adventures-in-french.json](./221784-pierres-adventures-in-french.json) |
 | Pierrot à la Mode | 340572 | [340572-pierrot-a-la-mode.json](./340572-pierrot-a-la-mode.json) |
 | Pierrot’s Pilgrimage | 336097 | [336097-pierrot-s-pilgrimage.json](./336097-pierrot-s-pilgrimage.json) |
 | Pif Paf | 105323 | [105323-pif-paf.json](./105323-pif-paf.json) |
@@ -4994,6 +4995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play of Wire | 319089 | [319089-play-of-wire.json](./319089-play-of-wire.json) |
 | Play Outside Simulator | 189145 | [189145-play-outside-simulator.json](./189145-play-outside-simulator.json) |
 | Play Room 0g | 111017 | [111017-play-room-0g.json](./111017-play-room-0g.json) |
+| Play Rough | 221643 | [221643-play-rough.json](./221643-play-rough.json) |
 | Play Something Different Vol. 1 | 173788 | [173788-play-something-different-vol-1.json](./173788-play-something-different-vol-1.json) |
 | Play Tag | 116810 | [116810-play-tag.json](./116810-play-tag.json) |
 | Play Tennis | 323171 | [323171-play-tennis.json](./323171-play-tennis.json) |
