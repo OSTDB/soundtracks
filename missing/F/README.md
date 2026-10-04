@@ -1793,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear for Sale: City of the Past - Collector's Edition | 107836 | [107836-fear-for-sale-city-of-the-past-collectors-edition.json](./107836-fear-for-sale-city-of-the-past-collectors-edition.json) |
 | Fear for Sale: City of the Past HD - A Hidden Object Mystery | 88307 | [88307-fear-for-sale-city-of-the-past-hd-a-hidden-object-mystery.json](./88307-fear-for-sale-city-of-the-past-hd-a-hidden-object-mystery.json) |
 | Fear for Sale: Endless Voyage HD | 102204 | [102204-fear-for-sale-endless-voyage-hd.json](./102204-fear-for-sale-endless-voyage-hd.json) |
+| Fear For Sale: Hidden in the Darkness | 187899 | [187899-fear-for-sale-hidden-in-the-darkness.json](./187899-fear-for-sale-hidden-in-the-darkness.json) |
 | Fear For Sale: Nightmare Cinema - Collector’s Edition | 104216 | [104216-fear-for-sale-nightmare-cinema-collector-s-edition.json](./104216-fear-for-sale-nightmare-cinema-collector-s-edition.json) |
 | Fear Is in the Mind | 179168 | [179168-fear-is-in-the-mind.json](./179168-fear-is-in-the-mind.json) |
 | Fear Is In The Mind | 302943 | [302943-fear-is-in-the-mind.json](./302943-fear-is-in-the-mind.json) |
@@ -3800,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Lovers 2 | 235140 | [235140-flappy-lovers-2.json](./235140-flappy-lovers-2.json) |
 | Flappy Meatbag | 23731 | [23731-flappy-meatbag.json](./23731-flappy-meatbag.json) |
 | Flappy Monkey | 325099 | [325099-flappy-monkey.json](./325099-flappy-monkey.json) |
+| Flappy Monster | 187908 | [187908-flappy-monster.json](./187908-flappy-monster.json) |
 | Flappy Navalny | 137665 | [137665-flappy-navalny.json](./137665-flappy-navalny.json) |
 | Flappy Pink Bird | 87075 | [87075-flappy-pink-bird.json](./87075-flappy-pink-bird.json) |
 | Flappy Pixel! | 249308 | [249308-flappy-pixel.json](./249308-flappy-pixel.json) |
@@ -6222,6 +6224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frigate | 250923 | [250923-frigate.json](./250923-frigate.json) |
 | Fright Chasers: Director's Cut | 312212 | [312212-fright-chasers-directors-cut.json](./312212-fright-chasers-directors-cut.json) |
 | Fright Chasers: Soul Reaper | 312213 | [312213-fright-chasers-soul-reaper.json](./312213-fright-chasers-soul-reaper.json) |
+| Fright Chasers: Thrills, Chills and Kills | 187905 | [187905-fright-chasers-thrills-chills-and-kills.json](./187905-fright-chasers-thrills-chills-and-kills.json) |
 | Fright Cops | 216459 | [216459-fright-cops.json](./216459-fright-cops.json) |
 | Fright Fight | 61901 | [61901-fright-fight.json](./61901-fright-fight.json) |
 | Fright House | 329352 | [329352-fright-house.json](./329352-fright-house.json) |
@@ -6438,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Shadows | 142329 | [142329-from-the-shadows.json](./142329-from-the-shadows.json) |
 | From the Streets to the Script: A Carabanchel Story | 238500 | [238500-from-the-streets-to-the-script-a-carabanchel-story.json](./238500-from-the-streets-to-the-script-a-carabanchel-story.json) |
 | From the Town of Gleming | 195630 | [195630-from-the-town-of-gleming.json](./195630-from-the-town-of-gleming.json) |
+| From the Void | 187897 | [187897-from-the-void.json](./187897-from-the-void.json) |
 | From Within | 177830 | [177830-from-within.json](./177830-from-within.json) |
 | Fromage | 222913 | [222913-fromage.json](./222913-fromage.json) |
 | Fromage | 326059 | [326059-fromage.json](./326059-fromage.json) |
