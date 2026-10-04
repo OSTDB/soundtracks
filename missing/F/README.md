@@ -2326,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight | 147425 | [147425-fight.json](./147425-fight.json) |
 | Fight | 150650 | [150650-fight.json](./150650-fight.json) |
 | Fight | 330366 | [330366-fight.json](./330366-fight.json) |
+| Fight // Flight | 176857 | [176857-fight-flight.json](./176857-fight-flight.json) |
 | Fight & Crush | 234313 | [234313-fight-and-crush.json](./234313-fight-and-crush.json) |
 | Fight 4 Flight | 98468 | [98468-fight-4-flight.json](./98468-fight-4-flight.json) |
 | Fight Angel Special Edition: Clothes Expansion Pack | 226803 | [226803-fight-angel-special-edition-clothes-expansion-pack.json](./226803-fight-angel-special-edition-clothes-expansion-pack.json) |
@@ -2661,6 +2662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy X-2: Last Mission | 247245 | [247245-final-fantasy-x-2-last-mission.json](./247245-final-fantasy-x-2-last-mission.json) |
 | Final Fantasy X: Fantasy War | 266285 | [266285-final-fantasy-x-fantasy-war.json](./266285-final-fantasy-x-fantasy-war.json) |
 | Final Fantasy X/X-2 Ultimate Box | 301388 | [301388-final-fantasy-x-x-2-ultimate-box.json](./301388-final-fantasy-x-x-2-ultimate-box.json) |
+| Final Fantasy XI Braver | 176843 | [176843-final-fantasy-xi-braver.json](./176843-final-fantasy-xi-braver.json) |
 | Final Fantasy XI Online | 411 | [411-final-fantasy-xi-online.json](./411-final-fantasy-xi-online.json) |
 | Final Fantasy XI: A Crystalline Prophecy | 255633 | [255633-final-fantasy-xi-a-crystalline-prophecy.json](./255633-final-fantasy-xi-a-crystalline-prophecy.json) |
 | Final Fantasy XI: A Moogle Kupo d'Etat | 255771 | [255771-final-fantasy-xi-a-moogle-kupo-detat.json](./255771-final-fantasy-xi-a-moogle-kupo-detat.json) |
@@ -2750,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Missions | 103187 | [103187-final-missions.json](./103187-final-missions.json) |
 | Final Nation | 251823 | [251823-final-nation.json](./251823-final-nation.json) |
 | Final Ninja | 176821 | [176821-final-ninja.json](./176821-final-ninja.json) |
+| Final Ninja Zero | 176868 | [176868-final-ninja-zero.json](./176868-final-ninja-zero.json) |
 | Final Notice | 351112 | [351112-final-notice.json](./351112-final-notice.json) |
 | Final Odyssey | 378173 | [378173-final-odyssey.json](./378173-final-odyssey.json) |
 | Final Paradox | 280351 | [280351-final-paradox.json](./280351-final-paradox.json) |
@@ -5586,6 +5589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foul Play - Mystery at Awkward Manor | 127783 | [127783-foul-play-mystery-at-awkward-manor.json](./127783-foul-play-mystery-at-awkward-manor.json) |
 | Foul Repercussion | 337178 | [337178-foul-repercussion.json](./337178-foul-repercussion.json) |
 | Foulbreaker | 290542 | [290542-foulbreaker.json](./290542-foulbreaker.json) |
+| Found | 176862 | [176862-found.json](./176862-found.json) |
 | Found it! | 283289 | [283289-found-it.json](./283289-found-it.json) |
 | Found'It | 183994 | [183994-foundit.json](./183994-foundit.json) |
 | Foundation Gold | 69802 | [69802-foundation-gold.json](./69802-foundation-gold.json) |
