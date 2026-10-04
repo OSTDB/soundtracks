@@ -2753,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Goo Chase | 44223 | [44223-wild-goo-chase.json](./44223-wild-goo-chase.json) |
 | Wild Gunman | 4625 | [4625-wild-gunman.json](./4625-wild-gunman.json) |
 | Wild Gunslinger | 287696 | [287696-wild-gunslinger.json](./287696-wild-gunslinger.json) |
+| Wild Heart | 183403 | [183403-wild-heart.json](./183403-wild-heart.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
 | Wild Honesty: A Party Game for Deeper Conversations | 139810 | [139810-wild-honesty-a-party-game-for-deeper-conversations.json](./139810-wild-honesty-a-party-game-for-deeper-conversations.json) |
 | Wild Horizon: Edge of Survival | 333111 | [333111-wild-horizon-edge-of-survival.json](./333111-wild-horizon-edge-of-survival.json) |
@@ -4729,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worshippers of Cthulhu | 292876 | [292876-worshippers-of-cthulhu.json](./292876-worshippers-of-cthulhu.json) |
 | Worshippers of the Gain | 334172 | [334172-worshippers-of-the-gain.json](./334172-worshippers-of-the-gain.json) |
 | Worst Case | 320552 | [320552-worst-case.json](./320552-worst-case.json) |
+| Worst Chess: Esther Sauce | 183423 | [183423-worst-chess-esther-sauce.json](./183423-worst-chess-esther-sauce.json) |
 | Worst Coach in the World | 289893 | [289893-worst-coach-in-the-world.json](./289893-worst-coach-in-the-world.json) |
 | Worst Dating Sim | 178658 | [178658-worst-dating-sim.json](./178658-worst-dating-sim.json) |
 | Worst Idea | 295402 | [295402-worst-idea.json](./295402-worst-idea.json) |
