@@ -5720,6 +5720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Voldritch's experiment | 302502 | [302502-doctor-voldritchs-experiment.json](./302502-doctor-voldritchs-experiment.json) |
 | Doctor Watson - Treasure Island | 33442 | [33442-doctor-watson-treasure-island.json](./33442-doctor-watson-treasure-island.json) |
 | Doctor Watson: The Riddle of the Catacombs | 33443 | [33443-doctor-watson-the-riddle-of-the-catacombs.json](./33443-doctor-watson-the-riddle-of-the-catacombs.json) |
+| Doctor Who and the Daleks | 218359 | [218359-doctor-who-and-the-daleks.json](./218359-doctor-who-and-the-daleks.json) |
 | Doctor Who and the Mines of Terror | 13597 | [13597-doctor-who-and-the-mines-of-terror.json](./13597-doctor-who-and-the-mines-of-terror.json) |
 | Doctor Who and the Warlord | 66675 | [66675-doctor-who-and-the-warlord.json](./66675-doctor-who-and-the-warlord.json) |
 | Doctor Who Game Maker | 59457 | [59457-doctor-who-game-maker.json](./59457-doctor-who-game-maker.json) |
@@ -7073,6 +7074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Mafia: Gang Wars | 105348 | [105348-downtown-mafia-gang-wars.json](./105348-downtown-mafia-gang-wars.json) |
 | Downtown Nekketsu Jidaigeki | 60562 | [60562-downtown-nekketsu-jidaigeki.json](./60562-downtown-nekketsu-jidaigeki.json) |
 | Downtown Nekketsu Monogatari 2 | 66084 | [66084-downtown-nekketsu-monogatari-2.json](./66084-downtown-nekketsu-monogatari-2.json) |
+| Downtown no Gaki no Tsukai Yaarahen de!! Zettai ni Tsukamatte ha Ikenai Gas Kurobikari Land | 218525 | [218525-downtown-no-gaki-no-tsukai-yaarahen-de-zettai-ni-tsukamatte-ha-ikenai-gas-kurobikari-land.json](./218525-downtown-no-gaki-no-tsukai-yaarahen-de-zettai-ni-tsukamatte-ha-ikenai-gas-kurobikari-land.json) |
 | Downtown River City Baseball Story: Play Ball, Kunio! | 38277 | [38277-downtown-river-city-baseball-story-play-ball-kunio.json](./38277-downtown-river-city-baseball-story-play-ball-kunio.json) |
 | Downtown Run | 242783 | [242783-downtown-run.json](./242783-downtown-run.json) |
 | Downtown Special Kunio-kun's Historical Period Drama! | 48631 | [48631-downtown-special-kunio-kuns-historical-period-drama.json](./48631-downtown-special-kunio-kuns-historical-period-drama.json) |
@@ -7630,6 +7632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Souls | 31864 | [31864-dragon-souls.json](./31864-dragon-souls.json) |
 | Dragon Spear | 77588 | [77588-dragon-spear.json](./77588-dragon-spear.json) |
 | Dragon Spirit | 12055 | [12055-dragon-spirit.json](./12055-dragon-spirit.json) |
+| Dragon Spirit | 218370 | [218370-dragon-spirit.json](./218370-dragon-spirit.json) |
 | Dragon Spirits | 127202 | [127202-dragon-spirits.json](./127202-dragon-spirits.json) |
 | Dragon Spirits 2 | 315690 | [315690-dragon-spirits-2.json](./315690-dragon-spirits-2.json) |
 | Dragon Spirits in Fight | 320812 | [320812-dragon-spirits-in-fight.json](./320812-dragon-spirits-in-fight.json) |
