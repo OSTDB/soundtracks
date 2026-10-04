@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layerworld | 189018 | [189018-layerworld.json](./189018-layerworld.json) |
 | Layla: The Iris Missions | 239599 | [239599-layla-the-iris-missions.json](./239599-layla-the-iris-missions.json) |
 | Layover Lovers | 270204 | [270204-layover-lovers.json](./270204-layover-lovers.json) |
+| Laysara: Summit Kingdom | 186083 | [186083-laysara-summit-kingdom.json](./186083-laysara-summit-kingdom.json) |
 | Laza Knitez!! | 134513 | [134513-laza-knitez.json](./134513-laza-knitez.json) |
 | Lazaret | 211740 | [211740-lazaret.json](./211740-lazaret.json) |
 | Lazarian | 23917 | [23917-lazarian.json](./23917-lazarian.json) |
@@ -2124,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letters from the War | 340916 | [340916-letters-from-the-war.json](./340916-letters-from-the-war.json) |
 | Letters of Bernard Thorne | 337466 | [337466-letters-of-bernard-thorne.json](./337466-letters-of-bernard-thorne.json) |
 | Letters on the Loose | 91742 | [91742-letters-on-the-loose.json](./91742-letters-on-the-loose.json) |
+| Letters to a Friend: Farewell | 186081 | [186081-letters-to-a-friend-farewell.json](./186081-letters-to-a-friend-farewell.json) |
 | Letters to Arralla | 224565 | [224565-letters-to-arralla.json](./224565-letters-to-arralla.json) |
 | Letters to Heaven | 274463 | [274463-letters-to-heaven.json](./274463-letters-to-heaven.json) |
 | Letters to the Metro | 182548 | [182548-letters-to-the-metro.json](./182548-letters-to-the-metro.json) |
@@ -2486,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light my Fear | 116435 | [116435-light-my-fear.json](./116435-light-my-fear.json) |
 | Light of Atlantis | 253915 | [253915-light-of-atlantis.json](./253915-light-of-atlantis.json) |
 | Light Of Chaos | 304361 | [304361-light-of-chaos.json](./304361-light-of-chaos.json) |
+| Light of Darkness | 186087 | [186087-light-of-darkness.json](./186087-light-of-darkness.json) |
 | Light of Gallery | 115596 | [115596-light-of-gallery.json](./115596-light-of-gallery.json) |
 | Light of Hope: The Redeemer | 265337 | [265337-light-of-hope-the-redeemer.json](./265337-light-of-hope-the-redeemer.json) |
 | Light of Life | 211818 | [211818-light-of-life.json](./211818-light-of-life.json) |
