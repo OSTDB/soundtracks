@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | \\\//\\/\\\/// | 139880 | [139880-.json](./139880-.json) |
 | & in the War I Find You | 178584 | [178584-and-in-the-war-i-find-you.json](./178584-and-in-the-war-i-find-you.json) |
 | #1 Pastime Bundle | 192408 | [192408-1-pastime-bundle.json](./192408-1-pastime-bundle.json) |
+| #1 Sudokus | 187309 | [187309-1-sudokus.json](./187309-1-sudokus.json) |
 | #7-J5Z: The Driftwood Experiment | 343447 | [343447-7-j5z-the-driftwood-experiment.json](./343447-7-j5z-the-driftwood-experiment.json) |
 | #AkiRobots | 141023 | [141023-akirobots.json](./141023-akirobots.json) |
 | #Blud | 117500 | [117500-blud.json](./117500-blud.json) |
@@ -747,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2/29 | 288841 | [288841-2-29.json](./288841-2-29.json) |
 | 20 All-Time Favorites | 91382 | [91382-20-all-time-favorites.json](./91382-20-all-time-favorites.json) |
 | 20 Billion Wives | 56146 | [56146-20-billion-wives.json](./56146-20-billion-wives.json) |
+| 20 Bunnies | 187274 | [187274-20-bunnies.json](./187274-20-bunnies.json) |
 | 20 Challenges: Episode 2 - Witchcraft | 339249 | [339249-20-challenges-episode-2-witchcraft.json](./339249-20-challenges-episode-2-witchcraft.json) |
 | 20 Challenges: Episode 4 - Temple of the Elements | 344022 | [344022-20-challenges-episode-4-temple-of-the-elements.json](./344022-20-challenges-episode-4-temple-of-the-elements.json) |
 | 20 Challenges: Episode 5 - Community Vibe | 392352 | [392352-20-challenges-episode-5-community-vibe.json](./392352-20-challenges-episode-5-community-vibe.json) |
@@ -1093,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Minesweeper | 384102 | [384102-3d-minesweeper.json](./384102-3d-minesweeper.json) |
 | 3D MiniGolf | 143059 | [143059-3d-minigolf.json](./143059-3d-minigolf.json) |
 | 3D MiniGolf | 147887 | [147887-3d-minigolf.json](./147887-3d-minigolf.json) |
+| 3D MiniGolf Remastered | 187270 | [187270-3d-minigolf-remastered.json](./187270-3d-minigolf-remastered.json) |
 | 3D MiniGolf: Makeover-Edition | 327436 | [327436-3d-minigolf-makeover-edition.json](./327436-3d-minigolf-makeover-edition.json) |
 | 3D Morpion | 324513 | [324513-3d-morpion.json](./324513-3d-morpion.json) |
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
