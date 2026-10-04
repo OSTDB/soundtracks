@@ -2276,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catopy | 336652 | [336652-catopy.json](./336652-catopy.json) |
 | Catovania | 132629 | [132629-catovania.json](./132629-catovania.json) |
 | Catrap | 7820 | [7820-catrap.json](./7820-catrap.json) |
+| Catroom Drama: Case 1 | 183933 | [183933-catroom-drama-case-1.json](./183933-catroom-drama-case-1.json) |
 | Catroom Drama: Case 2 | 183953 | [183953-catroom-drama-case-2.json](./183953-catroom-drama-case-2.json) |
 | CatRoots | 130334 | [130334-catroots.json](./130334-catroots.json) |
 | Catrophy Trail | 230346 | [230346-catrophy-trail.json](./230346-catrophy-trail.json) |
@@ -6514,6 +6515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Tail: Polygon Panic | 369010 | [369010-comet-tail-polygon-panic.json](./369010-comet-tail-polygon-panic.json) |
 | Comet Tycoon | 349881 | [349881-comet-tycoon.json](./349881-comet-tycoon.json) |
 | Comfort | 134414 | [134414-comfort.json](./134414-comfort.json) |
+| Comforting Sounds | 183924 | [183924-comforting-sounds.json](./183924-comforting-sounds.json) |
 | Comfy Cosmos | 339897 | [339897-comfy-cosmos.json](./339897-comfy-cosmos.json) |
 | Comfy Girl | 360608 | [360608-comfy-girl.json](./360608-comfy-girl.json) |
 | Comic 5trike | 148935 | [148935-comic-5trike.json](./148935-comic-5trike.json) |
@@ -9204,6 +9206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossed Wires | 291191 | [291191-crossed-wires.json](./291191-crossed-wires.json) |
 | Crossedland | 207501 | [207501-crossedland.json](./207501-crossedland.json) |
 | Crosser | 121550 | [121550-crosser.json](./121550-crosser.json) |
+| Crossfire | 183918 | [183918-crossfire.json](./183918-crossfire.json) |
 | Crossfire | 9739 | [9739-crossfire.json](./9739-crossfire.json) |
 | CrossFire | 138120 | [138120-crossfire.json](./138120-crossfire.json) |
 | CrossFire | 267638 | [267638-crossfire.json](./267638-crossfire.json) |
@@ -9754,6 +9757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ctrlsink | 390252 | [390252-ctrlsink.json](./390252-ctrlsink.json) |
 | CTU: Counter Terrorism Unit | 34586 | [34586-ctu-counter-terrorism-unit.json](./34586-ctu-counter-terrorism-unit.json) |
 | Cu-On-Pa BS Ban | 134436 | [134436-cu-on-pa-bs-ban.json](./134436-cu-on-pa-bs-ban.json) |
+| Cu63 | 183934 | [183934-cu63.json](./183934-cu63.json) |
 | Cuadradito y Circulito: El Videojuego | 133982 | [133982-cuadradito-y-circulito-el-videojuego.json](./133982-cuadradito-y-circulito-el-videojuego.json) |
 | Cuana | 227879 | [227879-cuana.json](./227879-cuana.json) |
 | Cub Gym | 150701 | [150701-cub-gym.json](./150701-cub-gym.json) |
