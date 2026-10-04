@@ -871,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Pong | 90580 | [90580-happy-pong.json](./90580-happy-pong.json) |
 | Happy Quest | 144926 | [144926-happy-quest.json](./144926-happy-quest.json) |
 | Happy Rabbit Farm | 338741 | [338741-happy-rabbit-farm.json](./338741-happy-rabbit-farm.json) |
+| Happy Race | 195041 | [195041-happy-race.json](./195041-happy-race.json) |
 | Happy Room: Robo | 194035 | [194035-happy-room-robo.json](./194035-happy-room-robo.json) |
 | Happy Saint Sheol | 250495 | [250495-happy-saint-sheol.json](./250495-happy-saint-sheol.json) |
 | Happy Salvage | 143128 | [143128-happy-salvage.json](./143128-happy-salvage.json) |
@@ -2958,6 +2959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Fodder | 224673 | [224673-hero-fodder.json](./224673-hero-fodder.json) |
 | Hero Generations: ReGen | 33556 | [33556-hero-generations-regen.json](./33556-hero-generations-regen.json) |
 | Hero Great Wars | 252131 | [252131-hero-great-wars.json](./252131-hero-great-wars.json) |
+| Hero Hawk | 195042 | [195042-hero-hawk.json](./195042-hero-hawk.json) |
 | Hero Hunters: Jurassic Shooting Sniper | 104069 | [104069-hero-hunters-jurassic-shooting-sniper.json](./104069-hero-hunters-jurassic-shooting-sniper.json) |
 | Hero in an All-forgiving Fantasy World RPG | 357423 | [357423-hero-in-an-all-forgiving-fantasy-world-rpg.json](./357423-hero-in-an-all-forgiving-fantasy-world-rpg.json) |
 | Hero in the Castle of Doom | 40173 | [40173-hero-in-the-castle-of-doom.json](./40173-hero-in-the-castle-of-doom.json) |
