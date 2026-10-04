@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Hunter | 311784 | [311784-dark-hunter.json](./311784-dark-hunter.json) |
 | Dark Incursion | 38958 | [38958-dark-incursion.json](./38958-dark-incursion.json) |
 | Dark Inquisition | 278162 | [278162-dark-inquisition.json](./278162-dark-inquisition.json) |
+| Dark Invasion VR: Doomsday | 204923 | [204923-dark-invasion-vr-doomsday.json](./204923-dark-invasion-vr-doomsday.json) |
 | Dark is the Void | 276848 | [276848-dark-is-the-void.json](./276848-dark-is-the-void.json) |
 | Dark Island | 147961 | [147961-dark-island.json](./147961-dark-island.json) |
 | Dark Island: Faded Memories | 415312 | [415312-dark-island-faded-memories.json](./415312-dark-island-faded-memories.json) |
@@ -1029,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkEnd | 17217 | [17217-darkend.json](./17217-darkend.json) |
 | Darkenstein 3D | 235996 | [235996-darkenstein-3d.json](./235996-darkenstein-3d.json) |
 | Darker Ride Escape | 310578 | [310578-darker-ride-escape.json](./310578-darker-ride-escape.json) |
+| Darker Than Space | 204921 | [204921-darker-than-space.json](./204921-darker-than-space.json) |
 | Darker Tides | 238603 | [238603-darker-tides.json](./238603-darker-tides.json) |
 | Darker: Episode I | 163759 | [163759-darker-episode-i.json](./163759-darker-episode-i.json) |
 | Darkest Corners | 404867 | [404867-darkest-corners.json](./404867-darkest-corners.json) |
@@ -1124,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkstone Restoration | 397902 | [397902-darkstone-restoration.json](./397902-darkstone-restoration.json) |
 | DarkStory Online | 122155 | [122155-darkstory-online.json](./122155-darkstory-online.json) |
 | Darksy's Adventure | 242604 | [242604-darksys-adventure.json](./242604-darksys-adventure.json) |
+| DarkTide | 204955 | [204955-darktide.json](./204955-darktide.json) |
 | Darkwatch | 5808 | [5808-darkwatch.json](./5808-darkwatch.json) |
 | Darkwater | 311201 | [311201-darkwater.json](./311201-darkwater.json) |
 | DarkwebStreamer | 278604 | [278604-darkwebstreamer.json](./278604-darkwebstreamer.json) |
@@ -1595,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: Mosquito FB VI Freeman's Folly Campaign by SUNTS Simulations | 408214 | [408214-dcs-world-mosquito-fb-vi-freemans-folly-campaign-by-sunts-simulations.json](./408214-dcs-world-mosquito-fb-vi-freemans-folly-campaign-by-sunts-simulations.json) |
 | DCS World: Normandy 2.0 | 323965 | [323965-dcs-world-normandy-2-0.json](./323965-dcs-world-normandy-2-0.json) |
 | DCS World: OH-58D Kiowa Warrior | 304372 | [304372-dcs-world-oh-58d-kiowa-warrior.json](./304372-dcs-world-oh-58d-kiowa-warrior.json) |
+| DCS World: South Atlantic | 205076 | [205076-dcs-world-south-atlantic.json](./205076-dcs-world-south-atlantic.json) |
 | DCS World: Spitfire Beware! Beware! Campaign by Reflected Simulations | 325541 | [325541-dcs-world-spitfire-beware-beware-campaign-by-reflected-simulations.json](./325541-dcs-world-spitfire-beware-beware-campaign-by-reflected-simulations.json) |
 | DCS World: Su-25 | 162865 | [162865-dcs-world-su-25.json](./162865-dcs-world-su-25.json) |
 | DCS World: Su-27 | 162867 | [162867-dcs-world-su-27.json](./162867-dcs-world-su-27.json) |
