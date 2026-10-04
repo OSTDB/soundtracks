@@ -1479,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We are Broken | 146090 | [146090-we-are-broken.json](./146090-we-are-broken.json) |
 | We Are Counting | 386108 | [386108-we-are-counting.json](./386108-we-are-counting.json) |
 | We Are Doomed | 20894 | [20894-we-are-doomed.json](./20894-we-are-doomed.json) |
+| We are Eva | 191656 | [191656-we-are-eva.json](./191656-we-are-eva.json) |
 | We are Football 2024 | 288844 | [288844-we-are-football-2024.json](./288844-we-are-football-2024.json) |
 | We Are Football: Bundesliga Edition | 152342 | [152342-we-are-football-bundesliga-edition.json](./152342-we-are-football-bundesliga-edition.json) |
 | We Are Gladiators | 258445 | [258445-we-are-gladiators.json](./258445-we-are-gladiators.json) |
@@ -2599,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's in the Box? | 95625 | [95625-whos-in-the-box.json](./95625-whos-in-the-box.json) |
 | Who's My Secret Santa? | 399685 | [399685-whos-my-secret-santa.json](./399685-whos-my-secret-santa.json) |
 | Who's Next? | 293613 | [293613-whos-next.json](./293613-whos-next.json) |
+| Who's That Pokémon? | 191640 | [191640-whos-that-pokemon.json](./191640-whos-that-pokemon.json) |
 | Who's the Boss | 297803 | [297803-whos-the-boss.json](./297803-whos-the-boss.json) |
 | Who's the Celeb? | 233071 | [233071-whos-the-celeb.json](./233071-whos-the-celeb.json) |
 | Who's the Traitor | 273655 | [273655-whos-the-traitor.json](./273655-whos-the-traitor.json) |
