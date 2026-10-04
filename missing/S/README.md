@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Revenge 2 | 241509 | [241509-samurai-revenge-2.json](./241509-samurai-revenge-2.json) |
 | Samurai Riot: Definitive Edition | 227189 | [227189-samurai-riot-definitive-edition.json](./227189-samurai-riot-definitive-edition.json) |
 | Samurai Saga | 55910 | [55910-samurai-saga.json](./55910-samurai-saga.json) |
+| Samurai Sam | 181204 | [181204-samurai-sam.json](./181204-samurai-sam.json) |
 | Samurai Shampoo | 153879 | [153879-samurai-shampoo.json](./153879-samurai-shampoo.json) |
 | Samurai Shaver | 177442 | [177442-samurai-shaver.json](./177442-samurai-shaver.json) |
 | Samurai Shodown 64 | 19990 | [19990-samurai-shodown-64.json](./19990-samurai-shodown-64.json) |
@@ -1274,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Koch | 114808 | [114808-save-koch.json](./114808-save-koch.json) |
 | Save Me Cows | 392160 | [392160-save-me-cows.json](./392160-save-me-cows.json) |
 | Save me Mr Tako: Tasukete Tako-San | 55175 | [55175-save-me-mr-tako-tasukete-tako-san.json](./55175-save-me-mr-tako-tasukete-tako-san.json) |
+| Save Me, Dad! | 181169 | [181169-save-me-dad.json](./181169-save-me-dad.json) |
 | Save Mom | 366369 | [366369-save-mom.json](./366369-save-mom.json) |
 | Save My Pet | 89278 | [89278-save-my-pet.json](./89278-save-my-pet.json) |
 | Save My Scrap | 380047 | [380047-save-my-scrap.json](./380047-save-my-scrap.json) |
@@ -2188,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seafrog | 215796 | [215796-seafrog.json](./215796-seafrog.json) |
 | Seaglass | 225763 | [225763-seaglass.json](./225763-seaglass.json) |
 | Seahaven Towers Solitaire | 83465 | [83465-seahaven-towers-solitaire.json](./83465-seahaven-towers-solitaire.json) |
+| Seal Breaker | 181202 | [181202-seal-breaker.json](./181202-seal-breaker.json) |
 | Seal Game's | 389608 | [389608-seal-games.json](./389608-seal-games.json) |
 | Seal M | 267580 | [267580-seal-m.json](./267580-seal-m.json) |
 | Seal of Evil | 14586 | [14586-seal-of-evil.json](./14586-seal-of-evil.json) |
@@ -3098,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serk: Chaos City Delivery | 348919 | [348919-serk-chaos-city-delivery.json](./348919-serk-chaos-city-delivery.json) |
 | SerMon | 404386 | [404386-sermon.json](./404386-sermon.json) |
 | Seroutte | 234575 | [234575-seroutte.json](./234575-seroutte.json) |
+| Serpedelic | 181181 | [181181-serpedelic.json](./181181-serpedelic.json) |
 | Serpens: Eternal Thievery | 271916 | [271916-serpens-eternal-thievery.json](./271916-serpens-eternal-thievery.json) |
 | Serpent | 360187 | [360187-serpent.json](./360187-serpent.json) |
 | Serpent | 49021 | [49021-serpent.json](./49021-serpent.json) |
@@ -6169,6 +6173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six-Guns: Gang Showdown | 38991 | [38991-six-guns-gang-showdown.json](./38991-six-guns-gang-showdown.json) |
 | Six-Sided Streets | 234897 | [234897-six-sided-streets.json](./234897-six-sided-streets.json) |
 | Six! | 88774 | [88774-six.json](./88774-six.json) |
+| Sixtar Gate: Startrail | 181103 | [181103-sixtar-gate-startrail.json](./181103-sixtar-gate-startrail.json) |
 | Sixtar Gate: Startrail - Dystopia Pack | 293402 | [293402-sixtar-gate-startrail-dystopia-pack.json](./293402-sixtar-gate-startrail-dystopia-pack.json) |
 | Sixtar Gate: Startrail - Flower & Destiny Pack | 225093 | [225093-sixtar-gate-startrail-flower-and-destiny-pack.json](./225093-sixtar-gate-startrail-flower-and-destiny-pack.json) |
 | Sixtar Gate: Startrail - Oshiribeat Pack | 284913 | [284913-sixtar-gate-startrail-oshiribeat-pack.json](./284913-sixtar-gate-startrail-oshiribeat-pack.json) |
@@ -10229,6 +10234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Gourmet: Delivery | 238504 | [238504-space-gourmet-delivery.json](./238504-space-gourmet-delivery.json) |
 | Space Gray X | 304861 | [304861-space-gray-x.json](./304861-space-gray-x.json) |
 | Space Griffon | 20661 | [20661-space-griffon.json](./20661-space-griffon.json) |
+| Space Grind | 181182 | [181182-space-grind.json](./181182-space-grind.json) |
 | Space Grunts 2 | 121004 | [121004-space-grunts-2.json](./121004-space-grunts-2.json) |
 | Space Grunts: Chrono Shard | 345099 | [345099-space-grunts-chrono-shard.json](./345099-space-grunts-chrono-shard.json) |
 | Space Guard | 78613 | [78613-space-guard.json](./78613-space-guard.json) |
