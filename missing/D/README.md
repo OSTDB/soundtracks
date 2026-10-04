@@ -7077,6 +7077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Symbol | 267564 | [267564-double-symbol.json](./267564-double-symbol.json) |
 | Double Talk: Sports Edition | 73360 | [73360-double-talk-sports-edition.json](./73360-double-talk-sports-edition.json) |
 | Double the Meat | 52765 | [52765-double-the-meat.json](./52765-double-the-meat.json) |
+| Double Time | 187281 | [187281-double-time.json](./187281-double-time.json) |
 | Double Trouble | 215928 | [215928-double-trouble.json](./215928-double-trouble.json) |
 | Double Trouble | 267470 | [267470-double-trouble.json](./267470-double-trouble.json) |
 | Double View | 250432 | [250432-double-view.json](./250432-double-view.json) |
@@ -8761,6 +8762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DrumMania 3rdMix | 188662 | [188662-drummania-3rdmix.json](./188662-drummania-3rdmix.json) |
 | Drumpf 2: Lost, But Not Forgotten! | 120366 | [120366-drumpf-2-lost-but-not-forgotten.json](./120366-drumpf-2-lost-but-not-forgotten.json) |
 | Drumpf: Rise Up, Libertonia! | 88017 | [88017-drumpf-rise-up-libertonia.json](./88017-drumpf-rise-up-libertonia.json) |
+| Drums | 187313 | [187313-drums.json](./187313-drums.json) |
 | Drums Hero PC | 37398 | [37398-drums-hero-pc.json](./37398-drums-hero-pc.json) |
 | Drums of War | 307662 | [307662-drums-of-war.json](./307662-drums-of-war.json) |
 | Drums Rock: Battle Beast - 'King for a Day' | 296417 | [296417-drums-rock-battle-beast-king-for-a-day.json](./296417-drums-rock-battle-beast-king-for-a-day.json) |
