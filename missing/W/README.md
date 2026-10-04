@@ -3920,6 +3920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodcutter Simulator 2012 | 52131 | [52131-woodcutter-simulator-2012.json](./52131-woodcutter-simulator-2012.json) |
 | Woodcutter Simulator 2013 | 16900 | [16900-woodcutter-simulator-2013.json](./16900-woodcutter-simulator-2013.json) |
 | Wooden House | 23726 | [23726-wooden-house.json](./23726-wooden-house.json) |
+| Wooden Labyrinth 3D | 175169 | [175169-wooden-labyrinth-3d.json](./175169-wooden-labyrinth-3d.json) |
 | Wooden Nickel | 115663 | [115663-wooden-nickel.json](./115663-wooden-nickel.json) |
 | Wooden Ocean | 55232 | [55232-wooden-ocean.json](./55232-wooden-ocean.json) |
 | WoodHeart | 160160 | [160160-woodheart.json](./160160-woodheart.json) |
