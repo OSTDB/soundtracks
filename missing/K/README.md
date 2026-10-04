@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kate Don't Wait | 180018 | [180018-kate-dont-wait.json](./180018-kate-dont-wait.json) |
 | Kate Goes to Wildflower Grove | 177415 | [177415-kate-goes-to-wildflower-grove.json](./177415-kate-goes-to-wildflower-grove.json) |
 | Kate Plus Ten | 112324 | [112324-kate-plus-ten.json](./112324-kate-plus-ten.json) |
+| Kate: Collateral Damage | 172562 | [172562-kate-collateral-damage.json](./172562-kate-collateral-damage.json) |
 | Kateba Kangun | 98058 | [98058-kateba-kangun.json](./98058-kateba-kangun.json) |
 | Katei de Dekiru! Chomeijin Yuumei Ryourinin no Original Recipe - Shokusai Roman | 269824 | [269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json](./269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json) |
 | Katei Kyoushi no Onee-san: H no Hensachi Agechaimasu | 413844 | [413844-katei-kyoushi-no-onee-san-h-no-hensachi-agechaimasu.json](./413844-katei-kyoushi-no-onee-san-h-no-hensachi-agechaimasu.json) |
