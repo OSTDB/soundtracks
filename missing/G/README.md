@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangsta Bean | 234931 | [234931-gangsta-bean.json](./234931-gangsta-bean.json) |
 | Gangsta Bean 2 | 261296 | [261296-gangsta-bean-2.json](./261296-gangsta-bean-2.json) |
 | Gangsta Bean 3: Night of the Rising Bread | 419841 | [419841-gangsta-bean-3-night-of-the-rising-bread.json](./419841-gangsta-bean-3-night-of-the-rising-bread.json) |
+| Gangsta Hero | 196080 | [196080-gangsta-hero.json](./196080-gangsta-hero.json) |
 | Gangsta Magic | 156633 | [156633-gangsta-magic.json](./156633-gangsta-magic.json) |
 | Gangsta Paradise | 147252 | [147252-gangsta-paradise.json](./147252-gangsta-paradise.json) |
 | Gangsta Sniper | 112123 | [112123-gangsta-sniper.json](./112123-gangsta-sniper.json) |
@@ -2465,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glasshouse | 236321 | [236321-glasshouse.json](./236321-glasshouse.json) |
 | Glassy Stare | 358463 | [358463-glassy-stare.json](./358463-glassy-stare.json) |
 | Glay: Complete Works | 286588 | [286588-glay-complete-works.json](./286588-glay-complete-works.json) |
+| Gleaner Heights: Season 2 | 196082 | [196082-gleaner-heights-season-2.json](./196082-gleaner-heights-season-2.json) |
 | Gleep Gym | 299372 | [299372-gleep-gym.json](./299372-gleep-gym.json) |
 | Glennhaven | 185540 | [185540-glennhaven.json](./185540-glennhaven.json) |
 | Glenwich Idle MMO | 397790 | [397790-glenwich-idle-mmo.json](./397790-glenwich-idle-mmo.json) |
