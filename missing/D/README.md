@@ -2607,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dive | 120892 | [120892-deep-dive.json](./120892-deep-dive.json) |
 | Deep Dive | 403577 | [403577-deep-dive.json](./403577-deep-dive.json) |
 | Deep Diving Simulator: Adventure Pack | 154506 | [154506-deep-diving-simulator-adventure-pack.json](./154506-deep-diving-simulator-adventure-pack.json) |
+| Deep Down | 177368 | [177368-deep-down.json](./177368-deep-down.json) |
 | Deep Down | 285011 | [285011-deep-down.json](./285011-deep-down.json) |
 | Deep Down & Dark | 263592 | [263592-deep-down-and-dark.json](./263592-deep-down-and-dark.json) |
 | Deep Down Below | 373157 | [373157-deep-down-below.json](./373157-deep-down-below.json) |
@@ -3032,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Up | 361168 | [361168-delivery-up.json](./361168-delivery-up.json) |
 | Delivoo Delivery Sim | 236330 | [236330-delivoo-delivery-sim.json](./236330-delivoo-delivery-sim.json) |
 | Delores: A Thimbleweed Park Mini-Adventure | 134408 | [134408-delores-a-thimbleweed-park-mini-adventure.json](./134408-delores-a-thimbleweed-park-mini-adventure.json) |
+| Delphine's Discovery | 177360 | [177360-delphines-discovery.json](./177360-delphines-discovery.json) |
 | Delta | 319816 | [319816-delta.json](./319816-delta.json) |
 | Delta 4: Terminal Protocol | 416726 | [416726-delta-4-terminal-protocol.json](./416726-delta-4-terminal-protocol.json) |
 | Delta Chase | 183339 | [183339-delta-chase.json](./183339-delta-chase.json) |
