@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Party | 416027 | [416027-gem-party.json](./416027-gem-party.json) |
 | Gem Phrase | 237379 | [237379-gem-phrase.json](./237379-gem-phrase.json) |
 | Gem Quest: Rush | 416643 | [416643-gem-quest-rush.json](./416643-gem-quest-rush.json) |
+| Gem Raider 2 | 188467 | [188467-gem-raider-2.json](./188467-gem-raider-2.json) |
 | Gem Rifts | 188498 | [188498-gem-rifts.json](./188498-gem-rifts.json) |
 | Gem Setter | 176340 | [176340-gem-setter.json](./176340-gem-setter.json) |
 | Gem Shoot | 175344 | [175344-gem-shoot.json](./175344-gem-shoot.json) |
@@ -1907,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghetto Blaster | 47254 | [47254-ghetto-blaster.json](./47254-ghetto-blaster.json) |
 | Ghetto Conspiracy | 127366 | [127366-ghetto-conspiracy.json](./127366-ghetto-conspiracy.json) |
 | Ghetto Zombies: Graffiti Squad | 255711 | [255711-ghetto-zombies-graffiti-squad.json](./255711-ghetto-zombies-graffiti-squad.json) |
+| Ghost | 188440 | [188440-ghost.json](./188440-ghost.json) |
 | Ghost and Joker: A thing to do for you | 255886 | [255886-ghost-and-joker-a-thing-to-do-for-you.json](./255886-ghost-and-joker-a-thing-to-do-for-you.json) |
 | Ghost Ascension | 290486 | [290486-ghost-ascension.json](./290486-ghost-ascension.json) |
 | Ghost Battle | 78319 | [78319-ghost-battle.json](./78319-ghost-battle.json) |
@@ -3472,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomoku Let's Go | 173252 | [173252-gomoku-lets-go.json](./173252-gomoku-lets-go.json) |
 | Gomoku: Online Game Hall | 88204 | [88204-gomoku-online-game-hall.json](./88204-gomoku-online-game-hall.json) |
 | Gomorrah | 273546 | [273546-gomorrah.json](./273546-gomorrah.json) |
+| Gomu | 188432 | [188432-gomu.json](./188432-gomu.json) |
 | Gon | 97118 | [97118-gon.json](./97118-gon.json) |
 | Gon' E-Choo! | 19023 | [19023-gon-e-choo.json](./19023-gon-e-choo.json) |
 | Gone | 199927 | [199927-gone.json](./199927-gone.json) |
@@ -5660,6 +5663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns'n'Glory | 95410 | [95410-gunsnglory.json](./95410-gunsnglory.json) |
 | Guns'n'Glory Heroes | 68958 | [68958-gunsnglory-heroes.json](./68958-gunsnglory-heroes.json) |
 | Guns'n'Glory Zombies | 296073 | [296073-gunsnglory-zombies.json](./296073-gunsnglory-zombies.json) |
+| GunsBox VR | 188431 | [188431-gunsbox-vr.json](./188431-gunsbox-vr.json) |
 | Gunscape | 17010 | [17010-gunscape.json](./17010-gunscape.json) |
 | Gunscape: Seismic | 171921 | [171921-gunscape-seismic.json](./171921-gunscape-seismic.json) |
 | Gunship | 133964 | [133964-gunship.json](./133964-gunship.json) |
