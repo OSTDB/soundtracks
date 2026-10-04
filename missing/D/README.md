@@ -1459,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day_000 | 261981 | [261981-day-000.json](./261981-day-000.json) |
 | Daybreak | 217245 | [217245-daybreak.json](./217245-daybreak.json) |
 | Daybreak Legends: Origin | 101069 | [101069-daybreak-legends-origin.json](./101069-daybreak-legends-origin.json) |
+| Daybreaker VR | 208833 | [208833-daybreaker-vr.json](./208833-daybreaker-vr.json) |
 | Daybreakers | 259062 | [259062-daybreakers.json](./259062-daybreakers.json) |
 | Daycare Descent | 256909 | [256909-daycare-descent.json](./256909-daycare-descent.json) |
 | Daycare Dungeon | 324947 | [324947-daycare-dungeon.json](./324947-daycare-dungeon.json) |
@@ -2671,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deepak Chopra's Leela | 20244 | [20244-deepak-chopras-leela.json](./20244-deepak-chopras-leela.json) |
 | DeepBubbles | 358890 | [358890-deepbubbles.json](./358890-deepbubbles.json) |
 | DeepCover | 317998 | [317998-deepcover.json](./317998-deepcover.json) |
+| Deepening Fire | 208854 | [208854-deepening-fire.json](./208854-deepening-fire.json) |
 | Deeper | 104650 | [104650-deeper.json](./104650-deeper.json) |
 | Deeper | 223440 | [223440-deeper.json](./223440-deeper.json) |
 | Deeper | 343279 | [343279-deeper.json](./343279-deeper.json) |
@@ -3251,6 +3253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonrift TD : The Mountain of doom | 136247 | [136247-demonrift-td-the-mountain-of-doom.json](./136247-demonrift-td-the-mountain-of-doom.json) |
 | Demonrock: War of Ages | 216156 | [216156-demonrock-war-of-ages.json](./216156-demonrock-war-of-ages.json) |
 | Demons | 306588 | [306588-demons.json](./306588-demons.json) |
+| Demons and Altar | 208832 | [208832-demons-and-altar.json](./208832-demons-and-altar.json) |
 | Demons and Doobins | 291760 | [291760-demons-and-doobins.json](./291760-demons-and-doobins.json) |
 | Demons are coming! | 278160 | [278160-demons-are-coming.json](./278160-demons-are-coming.json) |
 | Demons Ate My Neighbors! | 138676 | [138676-demons-ate-my-neighbors.json](./138676-demons-ate-my-neighbors.json) |
@@ -6586,6 +6589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom & Destiny Advanced | 25944 | [25944-doom-and-destiny-advanced.json](./25944-doom-and-destiny-advanced.json) |
 | Doom & Destiny Worlds | 133012 | [133012-doom-and-destiny-worlds.json](./133012-doom-and-destiny-worlds.json) |
 | Doom & Destiny Worlds: Damsels & Dragons | 251099 | [251099-doom-and-destiny-worlds-damsels-and-dragons.json](./251099-doom-and-destiny-worlds-damsels-and-dragons.json) |
+| Doom & Destiny Worlds: Randomicity | 208831 | [208831-doom-and-destiny-worlds-randomicity.json](./208831-doom-and-destiny-worlds-randomicity.json) |
 | Doom & Destiny Worlds: Survival of the Nerdiest | 171949 | [171949-doom-and-destiny-worlds-survival-of-the-nerdiest.json](./171949-doom-and-destiny-worlds-survival-of-the-nerdiest.json) |
 | Doom & Destiny Worlds: Ultimate Supporter Edition | 255260 | [255260-doom-and-destiny-worlds-ultimate-supporter-edition.json](./255260-doom-and-destiny-worlds-ultimate-supporter-edition.json) |
 | Doom + Doom II | 313126 | [313126-doom-doom-ii.json](./313126-doom-doom-ii.json) |
@@ -9327,6 +9331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Siege: Legends of Aranna | 9271 | [9271-dungeon-siege-legends-of-aranna.json](./9271-dungeon-siege-legends-of-aranna.json) |
 | Dungeon Slave | 240814 | [240814-dungeon-slave.json](./240814-dungeon-slave.json) |
 | Dungeon Slayer | 194008 | [194008-dungeon-slayer.json](./194008-dungeon-slayer.json) |
+| Dungeon Slime Collection | 208837 | [208837-dungeon-slime-collection.json](./208837-dungeon-slime-collection.json) |
 | Dungeon Slime Hero | 295808 | [295808-dungeon-slime-hero.json](./295808-dungeon-slime-hero.json) |
 | Dungeon Solitaire | 178000 | [178000-dungeon-solitaire.json](./178000-dungeon-solitaire.json) |
 | Dungeon Solitaire | 341127 | [341127-dungeon-solitaire.json](./341127-dungeon-solitaire.json) |
