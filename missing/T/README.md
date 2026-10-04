@@ -4752,6 +4752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Epyx Collection: Handheld | 298580 | [298580-the-epyx-collection-handheld.json](./298580-the-epyx-collection-handheld.json) |
 | The Equinox Hunt | 125368 | [125368-the-equinox-hunt.json](./125368-the-equinox-hunt.json) |
 | The ER: Patient Typhon | 146320 | [146320-the-er-patient-typhon.json](./146320-the-er-patient-typhon.json) |
+| The ER: Patient Typhon - SOS | 196095 | [196095-the-er-patient-typhon-sos.json](./196095-the-er-patient-typhon-sos.json) |
 | The Era of Pioneers | 302924 | [302924-the-era-of-pioneers.json](./302924-the-era-of-pioneers.json) |
 | The Erased Student | 374201 | [374201-the-erased-student.json](./374201-the-erased-student.json) |
 | The Escape | 112115 | [112115-the-escape.json](./112115-the-escape.json) |
@@ -6113,6 +6114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Beasts | 345075 | [345075-the-king-of-beasts.json](./345075-the-king-of-beasts.json) |
 | The King of Creation | 273414 | [273414-the-king-of-creation.json](./273414-the-king-of-creation.json) |
 | The King of Dragons | 6814 | [6814-the-king-of-dragons.json](./6814-the-king-of-dragons.json) |
+| The King of Drive: Parking Edition | 196102 | [196102-the-king-of-drive-parking-edition.json](./196102-the-king-of-drive-parking-edition.json) |
 | The King of Fighters '95 | 15427 | [15427-the-king-of-fighters-95.json](./15427-the-king-of-fighters-95.json) |
 | The King of Fighters '97 | 15428 | [15428-the-king-of-fighters-97.json](./15428-the-king-of-fighters-97.json) |
 | The King of Fighters '97 OL | 80566 | [80566-the-king-of-fighters-97-ol.json](./80566-the-king-of-fighters-97-ol.json) |
@@ -15775,6 +15777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Drop: Complete Edition | 385211 | [385211-treasure-drop-complete-edition.json](./385211-treasure-drop-complete-edition.json) |
 | Treasure Forest Clicker | 350494 | [350494-treasure-forest-clicker.json](./350494-treasure-forest-clicker.json) |
 | Treasure Gear | 130357 | [130357-treasure-gear.json](./130357-treasure-gear.json) |
+| Treasure Girl 3D 2 | 196099 | [196099-treasure-girl-3d-2.json](./196099-treasure-girl-3d-2.json) |
 | Treasure Guardian: Collector Shift Defender's Saga | 301536 | [301536-treasure-guardian-collector-shift-defenders-saga.json](./301536-treasure-guardian-collector-shift-defenders-saga.json) |
 | Treasure Hunt | 12969 | [12969-treasure-hunt.json](./12969-treasure-hunt.json) |
 | Treasure Hunt | 208892 | [208892-treasure-hunt.json](./208892-treasure-hunt.json) |
