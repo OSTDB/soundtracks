@@ -1114,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sasayu Meshiki | 357807 | [357807-sasayu-meshiki.json](./357807-sasayu-meshiki.json) |
 | Sashimi Slayer | 395795 | [395795-sashimi-slayer.json](./395795-sashimi-slayer.json) |
 | Sashinomi Suika-chan | 396558 | [396558-sashinomi-suika-chan.json](./396558-sashinomi-suika-chan.json) |
+| Sasquatch Loves Soup | 179564 | [179564-sasquatch-loves-soup.json](./179564-sasquatch-loves-soup.json) |
 | Sassy Cybergirl | 255269 | [255269-sassy-cybergirl.json](./255269-sassy-cybergirl.json) |
 | Sassy Girl | 259146 | [259146-sassy-girl.json](./259146-sassy-girl.json) |
 | Sasuke Library 23rd | 78957 | [78957-sasuke-library-23rd.json](./78957-sasuke-library-23rd.json) |
@@ -5447,6 +5448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Cause | 287238 | [287238-silent-cause.json](./287238-silent-cause.json) |
 | Silent Crossing | 25868 | [25868-silent-crossing.json](./25868-silent-crossing.json) |
 | Silent Depth 2: Pacific | 272932 | [272932-silent-depth-2-pacific.json](./272932-silent-depth-2-pacific.json) |
+| Silent Depth Submarine Simulator | 179471 | [179471-silent-depth-submarine-simulator.json](./179471-silent-depth-submarine-simulator.json) |
 | Silent Doom | 115176 | [115176-silent-doom.json](./115176-silent-doom.json) |
 | Silent Doom | 180086 | [180086-silent-doom.json](./180086-silent-doom.json) |
 | Silent Dragon US | 39850 | [39850-silent-dragon-us.json](./39850-silent-dragon-us.json) |
@@ -6098,6 +6100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren Sands | 350418 | [350418-siren-sands.json](./350418-siren-sands.json) |
 | Siren: Blood Curse | 7457 | [7457-siren-blood-curse.json](./7457-siren-blood-curse.json) |
 | Siren's Call: Escape Velocity | 258728 | [258728-sirens-call-escape-velocity.json](./258728-sirens-call-escape-velocity.json) |
+| Siren's Serenade | 179529 | [179529-sirens-serenade.json](./179529-sirens-serenade.json) |
 | Sirène | 310975 | [310975-sirene.json](./310975-sirene.json) |
 | Sirenhead | 135760 | [135760-sirenhead.json](./135760-sirenhead.json) |
 | Sirenum | 255638 | [255638-sirenum.json](./255638-sirenum.json) |
@@ -10335,6 +10338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Jammers | 27651 | [27651-space-jammers.json](./27651-space-jammers.json) |
 | Space Jelly | 297479 | [297479-space-jelly.json](./297479-space-jelly.json) |
 | Space Jones VR | 31816 | [31816-space-jones-vr.json](./31816-space-jones-vr.json) |
+| Space Junk | 179541 | [179541-space-junk.json](./179541-space-junk.json) |
 | Space Junk Rage | 180041 | [180041-space-junk-rage.json](./180041-space-junk-rage.json) |
 | Space Junk Scavenger | 305197 | [305197-space-junk-scavenger.json](./305197-space-junk-scavenger.json) |
 | Space Junk Seekers | 277889 | [277889-space-junk-seekers.json](./277889-space-junk-seekers.json) |
@@ -13544,6 +13548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Statecraft | 365852 | [365852-statecraft.json](./365852-statecraft.json) |
 | States Map Tutor | 87542 | [87542-states-map-tutor.json](./87542-states-map-tutor.json) |
 | States, Firms, and Households | 33122 | [33122-states-firms-and-households.json](./33122-states-firms-and-households.json) |
+| Static | 179570 | [179570-static.json](./179570-static.json) |
 | Static | 333637 | [333637-static.json](./333637-static.json) |
 | Static | 94914 | [94914-static.json](./94914-static.json) |
 | Static Cling | 182519 | [182519-static-cling.json](./182519-static-cling.json) |
