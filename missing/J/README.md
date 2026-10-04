@@ -1534,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joyo Kanji Quiz | 99646 | [99646-joyo-kanji-quiz.json](./99646-joyo-kanji-quiz.json) |
 | Joyous Rebel | 229606 | [229606-joyous-rebel.json](./229606-joyous-rebel.json) |
 | Joyquarium | 337072 | [337072-joyquarium.json](./337072-joyquarium.json) |
+| Joyride | 203787 | [203787-joyride.json](./203787-joyride.json) |
 | Joyride: live trivia shows | 88175 | [88175-joyride-live-trivia-shows.json](./88175-joyride-live-trivia-shows.json) |
 | Joyride: Lowpoly World | 259010 | [259010-joyride-lowpoly-world.json](./259010-joyride-lowpoly-world.json) |
 | Joyrider | 270412 | [270412-joyrider.json](./270412-joyrider.json) |
@@ -1644,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumanji: Reverse the Curse | 246639 | [246639-jumanji-reverse-the-curse.json](./246639-jumanji-reverse-the-curse.json) |
 | Jumanji: The Curse Returns - Ultimate Movie Game Bundle | 312087 | [312087-jumanji-the-curse-returns-ultimate-movie-game-bundle.json](./312087-jumanji-the-curse-returns-ultimate-movie-game-bundle.json) |
 | Jumanji: The Curse Returns - Welcome to the Jungle | 210870 | [210870-jumanji-the-curse-returns-welcome-to-the-jungle.json](./210870-jumanji-the-curse-returns-welcome-to-the-jungle.json) |
+| Jumanji: The Curse Returns - Winter Resort | 203786 | [203786-jumanji-the-curse-returns-winter-resort.json](./203786-jumanji-the-curse-returns-winter-resort.json) |
 | Jumara | 393498 | [393498-jumara.json](./393498-jumara.json) |
 | Jumble | 245461 | [245461-jumble.json](./245461-jumble.json) |
 | Jumble Blocks | 58507 | [58507-jumble-blocks.json](./58507-jumble-blocks.json) |
