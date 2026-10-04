@@ -355,6 +355,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galador: The Prince and the Coward | 26484 | [26484-galador-the-prince-and-the-coward.json](./26484-galador-the-prince-and-the-coward.json) |
 | Galaforce | 13719 | [13719-galaforce.json](./13719-galaforce.json) |
 | Galaga | 239156 | [239156-galaga.json](./239156-galaga.json) |
+| Galaga '91 | 218364 | [218364-galaga-91.json](./218364-galaga-91.json) |
+| Galaga 2000 | 218365 | [218365-galaga-2000.json](./218365-galaga-2000.json) |
 | Galaga 30th Collection | 25188 | [25188-galaga-30th-collection.json](./25188-galaga-30th-collection.json) |
 | Galaga Arrangement | 132113 | [132113-galaga-arrangement.json](./132113-galaga-arrangement.json) |
 | Galaga Arrangement | 178409 | [178409-galaga-arrangement.json](./178409-galaga-arrangement.json) |
@@ -839,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gang of Four | 127053 | [127053-gang-of-four.json](./127053-gang-of-four.json) |
 | GangBusters | 46773 | [46773-gangbusters.json](./46773-gangbusters.json) |
 | Gangnam City Deluxe | 242207 | [242207-gangnam-city-deluxe.json](./242207-gangnam-city-deluxe.json) |
+| Gangnam Dance School | 218531 | [218531-gangnam-dance-school.json](./218531-gangnam-dance-school.json) |
 | Gangnam Style | 257577 | [257577-gangnam-style.json](./257577-gangnam-style.json) |
 | Gangs of Asia | 360068 | [360068-gangs-of-asia.json](./360068-gangs-of-asia.json) |
 | Gangs of Rikton | 167592 | [167592-gangs-of-rikton.json](./167592-gangs-of-rikton.json) |
@@ -1391,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gender Dysphoria | 177502 | [177502-gender-dysphoria.json](./177502-gender-dysphoria.json) |
 | Gender Euphoria VN | 183906 | [183906-gender-euphoria-vn.json](./183906-gender-euphoria-vn.json) |
 | Gender Wars | 50141 | [50141-gender-wars.json](./50141-gender-wars.json) |
+| Genderfelt | 218526 | [218526-genderfelt.json](./218526-genderfelt.json) |
 | Genderless Haruka's Confinement & Discipline RPG | 82987 | [82987-genderless-harukas-confinement-and-discipline-rpg.json](./82987-genderless-harukas-confinement-and-discipline-rpg.json) |
 | Genderman | 391600 | [391600-genderman.json](./391600-genderman.json) |
 | Gendo The Gatherer | 404352 | [404352-gendo-the-gatherer.json](./404352-gendo-the-gatherer.json) |
@@ -2771,6 +2775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go There | 240742 | [240742-go-there.json](./240742-go-there.json) |
 | Go to Heck | 214154 | [214154-go-to-heck.json](./214154-go-to-heck.json) |
 | Go to Hell | 211432 | [211432-go-to-hell.json](./211432-go-to-hell.json) |
+| Go to Hell | 218538 | [218538-go-to-hell.json](./218538-go-to-hell.json) |
 | Go to It | 110944 | [110944-go-to-it.json](./110944-go-to-it.json) |
 | Go To Sleep | 268651 | [268651-go-to-sleep.json](./268651-go-to-sleep.json) |
 | Go to Ten | 100940 | [100940-go-to-ten.json](./100940-go-to-ten.json) |
@@ -4159,6 +4164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravel: King of Buggies | 172061 | [172061-gravel-king-of-buggies.json](./172061-gravel-king-of-buggies.json) |
 | Gravel: Special Edition | 164769 | [164769-gravel-special-edition.json](./164769-gravel-special-edition.json) |
 | Gravelbox: The Sandbox | 148422 | [148422-gravelbox-the-sandbox.json](./148422-gravelbox-the-sandbox.json) |
+| Graveless | 218519 | [218519-graveless.json](./218519-graveless.json) |
 | Gravelmon | 359996 | [359996-gravelmon.json](./359996-gravelmon.json) |
 | Gravelord | 314330 | [314330-gravelord.json](./314330-gravelord.json) |
 | Gravels of Endless War | 149565 | [149565-gravels-of-endless-war.json](./149565-gravels-of-endless-war.json) |
