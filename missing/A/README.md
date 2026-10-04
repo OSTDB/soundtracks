@@ -2456,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AIR Summer Solstice | 308416 | [308416-air-summer-solstice.json](./308416-air-summer-solstice.json) |
 | Air Supremacy | 12281 | [12281-air-supremacy.json](./12281-air-supremacy.json) |
 | Air Threat | 97276 | [97276-air-threat.json](./97276-air-threat.json) |
+| Air Time | 179993 | [179993-air-time.json](./179993-air-time.json) |
 | Air Traffic Control | 15590 | [15590-air-traffic-control.json](./15590-air-traffic-control.json) |
 | Air Traffic Controller 4 | 59031 | [59031-air-traffic-controller-4.json](./59031-air-traffic-controller-4.json) |
 | Air Traffic Controller Airport Hero 3D New Chitose with JAL | 222522 | [222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json](./222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json) |
@@ -4872,6 +4873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing: New Murder | 251058 | [251058-animal-crossing-new-murder.json](./251058-animal-crossing-new-murder.json) |
 | Animal Crossing: Pocket Camp | 58630 | [58630-animal-crossing-pocket-camp.json](./58630-animal-crossing-pocket-camp.json) |
 | Animal Crush | 52770 | [52770-animal-crush.json](./52770-animal-crush.json) |
+| Animal Daedal | 180087 | [180087-animal-daedal.json](./180087-animal-daedal.json) |
 | Animal Diner | 217391 | [217391-animal-diner.json](./217391-animal-diner.json) |
 | Animal Drifters | 219296 | [219296-animal-drifters.json](./219296-animal-drifters.json) |
 | Animal Drop Safari | 168658 | [168658-animal-drop-safari.json](./168658-animal-drop-safari.json) |
