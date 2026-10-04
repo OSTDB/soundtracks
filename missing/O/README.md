@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oiled | 101361 | [101361-oiled.json](./101361-oiled.json) |
 | Oiligarchy | 101735 | [101735-oiligarchy.json](./101735-oiligarchy.json) |
 | Oily Tower | 386982 | [386982-oily-tower.json](./386982-oily-tower.json) |
+| Oinari Origami | 181171 | [181171-oinari-origami.json](./181171-oinari-origami.json) |
 | Oink Royale | 185600 | [185600-oink-royale.json](./185600-oink-royale.json) |
 | Oir | 76219 | [76219-oir.json](./76219-oir.json) |
 | Oiran Survival: Edo Yokai Rush | 391304 | [391304-oiran-survival-edo-yokai-rush.json](./391304-oiran-survival-edo-yokai-rush.json) |
