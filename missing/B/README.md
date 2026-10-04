@@ -2114,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of the Immortals | 51218 | [51218-battle-of-the-immortals.json](./51218-battle-of-the-immortals.json) |
 | Battle of the Lexicon Lords | 294720 | [294720-battle-of-the-lexicon-lords.json](./294720-battle-of-the-lexicon-lords.json) |
 | Battle of the Lost Continent | 226245 | [226245-battle-of-the-lost-continent.json](./226245-battle-of-the-lost-continent.json) |
+| Battle of the Robots | 192762 | [192762-battle-of-the-robots.json](./192762-battle-of-the-robots.json) |
 | Battle of the Youstrass | 229213 | [229213-battle-of-the-youstrass.json](./229213-battle-of-the-youstrass.json) |
 | Battle of Tiles | 66661 | [66661-battle-of-tiles.json](./66661-battle-of-tiles.json) |
 | Battle of Tiles Ex | 99552 | [99552-battle-of-tiles-ex.json](./99552-battle-of-tiles-ex.json) |
@@ -2901,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania The Final | 135672 | [135672-beatmania-the-final.json](./135672-beatmania-the-final.json) |
 | Beatmons 2 | 267004 | [267004-beatmons-2.json](./267004-beatmons-2.json) |
 | BeatMotor | 192841 | [192841-beatmotor.json](./192841-beatmotor.json) |
+| BeatNClean | 192792 | [192792-beatnclean.json](./192792-beatnclean.json) |
 | Beatoraja | 130770 | [130770-beatoraja.json](./130770-beatoraja.json) |
 | BeatRider | 305789 | [305789-beatrider.json](./305789-beatrider.json) |
 | Beats Fever | 30173 | [30173-beats-fever.json](./30173-beats-fever.json) |
@@ -4008,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikini Hunter Attack on Bikini Army | 297807 | [297807-bikini-hunter-attack-on-bikini-army.json](./297807-bikini-hunter-attack-on-bikini-army.json) |
 | Bikini Island | 385819 | [385819-bikini-island.json](./385819-bikini-island.json) |
 | Bikini Karate Babes | 51236 | [51236-bikini-karate-babes.json](./51236-bikini-karate-babes.json) |
+| Bikini Tits | 192765 | [192765-bikini-tits.json](./192765-bikini-tits.json) |
 | Bikkuri Pachinko: Ashita no Joe Kyoraku Collection Vol. 1 | 65561 | [65561-bikkuri-pachinko-ashita-no-joe-kyoraku-collection-vol-1.json](./65561-bikkuri-pachinko-ashita-no-joe-kyoraku-collection-vol-1.json) |
 | Bikkuri Pro Wrestling | 264252 | [264252-bikkuri-pro-wrestling.json](./264252-bikkuri-pro-wrestling.json) |
 | Bikkuriman 2000 Kamereon Zantei no Inbou | 376733 | [376733-bikkuriman-2000-kamereon-zantei-no-inbou.json](./376733-bikkuriman-2000-kamereon-zantei-no-inbou.json) |
@@ -4945,6 +4948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade of God 2 | 174805 | [174805-blade-of-god-2.json](./174805-blade-of-god-2.json) |
 | Blade of Jinshu | 364573 | [364573-blade-of-jinshu.json](./364573-blade-of-jinshu.json) |
 | Blade of Mercy: Bloody Countess | 407580 | [407580-blade-of-mercy-bloody-countess.json](./407580-blade-of-mercy-bloody-countess.json) |
+| Blade of Si | 192761 | [192761-blade-of-si.json](./192761-blade-of-si.json) |
 | Blade of Ten | 207318 | [207318-blade-of-ten.json](./207318-blade-of-ten.json) |
 | Blade of the Netherworld | 244911 | [244911-blade-of-the-netherworld.json](./244911-blade-of-the-netherworld.json) |
 | Blade of the Overlord | 362879 | [362879-blade-of-the-overlord.json](./362879-blade-of-the-overlord.json) |
@@ -7826,6 +7830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreadKnight Adventures | 355568 | [355568-breadknight-adventures.json](./355568-breadknight-adventures.json) |
 | Breadleg | 344496 | [344496-breadleg.json](./344496-breadleg.json) |
 | Breadman | 273591 | [273591-breadman.json](./273591-breadman.json) |
+| Breadskate | 192780 | [192780-breadskate.json](./192780-breadskate.json) |
 | Breadskate Forever | 350543 | [350543-breadskate-forever.json](./350543-breadskate-forever.json) |
 | Breadwinner VR | 55493 | [55493-breadwinner-vr.json](./55493-breadwinner-vr.json) |
 | Break 'Em All | 20534 | [20534-break-em-all.json](./20534-break-em-all.json) |
