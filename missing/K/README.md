@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiloblocks | 289409 | [289409-kiloblocks.json](./289409-kiloblocks.json) |
 | Kiloparsec Uprising | 275095 | [275095-kiloparsec-uprising.json](./275095-kiloparsec-uprising.json) |
 | Kiloton | 330911 | [330911-kiloton.json](./330911-kiloton.json) |
+| Kilroy Was Here | 188459 | [188459-kilroy-was-here.json](./188459-kilroy-was-here.json) |
 | Kilubu Magic Potions 2 | 213397 | [213397-kilubu-magic-potions-2.json](./213397-kilubu-magic-potions-2.json) |
 | Kim | 25225 | [25225-kim.json](./25225-kim.json) |
 | Kim and Prostitute | 102410 | [102410-kim-and-prostitute.json](./102410-kim-and-prostitute.json) |
@@ -2362,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's Redemption: War for Freedom | 298577 | [298577-knights-redemption-war-for-freedom.json](./298577-knights-redemption-war-for-freedom.json) |
 | Knight's Retreat | 132512 | [132512-knights-retreat.json](./132512-knights-retreat.json) |
 | Knight's Rush | 23923 | [23923-knights-rush.json](./23923-knights-rush.json) |
+| Knight's Try | 188435 | [188435-knights-try.json](./188435-knights-try.json) |
 | Knightcore Kingdom | 227514 | [227514-knightcore-kingdom.json](./227514-knightcore-kingdom.json) |
 | Knightczech: The beginning | 145446 | [145446-knightczech-the-beginning.json](./145446-knightczech-the-beginning.json) |
 | Knightess | 262943 | [262943-knightess.json](./262943-knightess.json) |
