@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necks Please... | 294212 | [294212-necks-please.json](./294212-necks-please.json) |
 | Necogram | 243384 | [243384-necogram.json](./243384-necogram.json) |
 | Necomen | 359550 | [359550-necomen.json](./359550-necomen.json) |
+| Necore Warriors | 197171 | [197171-necore-warriors.json](./197171-necore-warriors.json) |
 | NECR: Chain Reaction Physics | 395779 | [395779-necr-chain-reaction-physics.json](./395779-necr-chain-reaction-physics.json) |
 | Necris Dome | 12956 | [12956-necris-dome.json](./12956-necris-dome.json) |
 | Necro Defense | 113687 | [113687-necro-defense.json](./113687-necro-defense.json) |
