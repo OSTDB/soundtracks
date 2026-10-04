@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Egg | 127225 | [127225-easter-egg.json](./127225-easter-egg.json) |
 | Easter Egg Bundle | 279229 | [279229-easter-egg-bundle.json](./279229-easter-egg-bundle.json) |
 | Easter Eggs | 41493 | [41493-easter-eggs.json](./41493-easter-eggs.json) |
+| Easter Eggstravaganza | 196077 | [196077-easter-eggstravaganza.json](./196077-easter-eggstravaganza.json) |
 | Easter Eggztravaganza 2 | 418548 | [418548-easter-eggztravaganza-2.json](./418548-easter-eggztravaganza-2.json) |
 | Easter Jewels HD | 87068 | [87068-easter-jewels-hd.json](./87068-easter-jewels-hd.json) |
 | Easter Journey | 296080 | [296080-easter-journey.json](./296080-easter-journey.json) |
