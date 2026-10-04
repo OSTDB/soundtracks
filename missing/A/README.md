@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tiny Wander | 324887 | [324887-a-tiny-wander.json](./324887-a-tiny-wander.json) |
 | A Tithe in Blood | 304683 | [304683-a-tithe-in-blood.json](./304683-a-tithe-in-blood.json) |
 | A to Zap! Featuring the Sunbuddies | 293313 | [293313-a-to-zap-featuring-the-sunbuddies.json](./293313-a-to-zap-featuring-the-sunbuddies.json) |
+| A toad well travelled | 207190 | [207190-a-toad-well-travelled.json](./207190-a-toad-well-travelled.json) |
 | A Toast for the End Times | 395139 | [395139-a-toast-for-the-end-times.json](./395139-a-toast-for-the-end-times.json) |
 | A Todas Las Lagartijas Que Atrapé | 399761 | [399761-a-todas-las-lagartijas-que-atrape.json](./399761-a-todas-las-lagartijas-que-atrape.json) |
 | A Tofu Tail | 58803 | [58803-a-tofu-tail.json](./58803-a-tofu-tail.json) |
@@ -7954,6 +7955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrosweeper Mini | 205105 | [205105-astrosweeper-mini.json](./205105-astrosweeper-mini.json) |
 | Astrotester | 258016 | [258016-astrotester.json](./258016-astrotester.json) |
 | Astrotit | 93074 | [93074-astrotit.json](./93074-astrotit.json) |
+| AstroTrucks | 207183 | [207183-astrotrucks.json](./207183-astrotrucks.json) |
 | Astround | 342049 | [342049-astround.json](./342049-astround.json) |
 | Astrovity | 163908 | [163908-astrovity.json](./163908-astrovity.json) |
 | Astrowar | 11127 | [11127-astrowar.json](./11127-astrowar.json) |
