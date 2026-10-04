@@ -1985,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribblequest | 219621 | [219621-scribblequest.json](./219621-scribblequest.json) |
 | Scribbly Walrus | 128571 | [128571-scribbly-walrus.json](./128571-scribbly-walrus.json) |
 | Scribe RPG | 339089 | [339089-scribe-rpg.json](./339089-scribe-rpg.json) |
+| Scribo Magi | 178922 | [178922-scribo-magi.json](./178922-scribo-magi.json) |
 | Scripps Spelling Bee | 206644 | [206644-scripps-spelling-bee.json](./206644-scripps-spelling-bee.json) |
 | Script Ship | 182895 | [182895-script-ship.json](./182895-script-ship.json) |
 | Scripted Land | 219620 | [219620-scripted-land.json](./219620-scripted-land.json) |
@@ -5560,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Fish | 83268 | [83268-silicon-fish.json](./83268-silicon-fish.json) |
 | Silicon Magic: Umareru Mae Kara Anata Senyou?! | 77954 | [77954-silicon-magic-umareru-mae-kara-anata-senyou.json](./77954-silicon-magic-umareru-mae-kara-anata-senyou.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
+| Silicon-Galaxy | 178994 | [178994-silicon-galaxy.json](./178994-silicon-galaxy.json) |
 | Silicone Heart | 358369 | [358369-silicone-heart.json](./358369-silicone-heart.json) |
 | SiliCorp Systems | 321550 | [321550-silicorp-systems.json](./321550-silicorp-systems.json) |
 | Silivri | 376097 | [376097-silivri.json](./376097-silivri.json) |
@@ -6027,6 +6029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sink and Score | 373658 | [373658-sink-and-score.json](./373658-sink-and-score.json) |
 | Sink Sub Pro | 379984 | [379984-sink-sub-pro.json](./379984-sink-sub-pro.json) |
 | Sink the Fish: Spy Kit | 282542 | [282542-sink-the-fish-spy-kit.json](./282542-sink-the-fish-spy-kit.json) |
+| Sink/Swim | 179006 | [179006-sink-swim.json](./179006-sink-swim.json) |
 | Sinking Inn | 151111 | [151111-sinking-inn.json](./151111-sinking-inn.json) |
 | Sinking Iron | 251176 | [251176-sinking-iron.json](./251176-sinking-iron.json) |
 | Sinking Ships | 176455 | [176455-sinking-ships.json](./176455-sinking-ships.json) |
@@ -8465,6 +8468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Source Online | 26718 | [26718-sol-source-online.json](./26718-sol-source-online.json) |
 | Sol Standard | 184412 | [184412-sol-standard.json](./184412-sol-standard.json) |
 | Sol Trader | 34611 | [34611-sol-trader.json](./34611-sol-trader.json) |
+| Sol Traveler | 178993 | [178993-sol-traveler.json](./178993-sol-traveler.json) |
 | Sol Trigger | 38467 | [38467-sol-trigger.json](./38467-sol-trigger.json) |
 | Sol Wars | 105556 | [105556-sol-wars.json](./105556-sol-wars.json) |
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
@@ -10430,6 +10434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pirates for Life | 241390 | [241390-space-pirates-for-life.json](./241390-space-pirates-for-life.json) |
 | Space Plane | 160216 | [160216-space-plane.json](./160216-space-plane.json) |
 | Space Planet Invader: Cosmic Power | 305788 | [305788-space-planet-invader-cosmic-power.json](./305788-space-planet-invader-cosmic-power.json) |
+| Space Pong! | 178927 | [178927-space-pong.json](./178927-space-pong.json) |
 | Space Pop: Bubble Shooter | 239705 | [239705-space-pop-bubble-shooter.json](./239705-space-pop-bubble-shooter.json) |
 | Space Postman Story | 180647 | [180647-space-postman-story.json](./180647-space-postman-story.json) |
 | Space Prevention Force | 179110 | [179110-space-prevention-force.json](./179110-space-prevention-force.json) |
@@ -10485,6 +10490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Science Investigations | 215211 | [215211-space-science-investigations.json](./215211-space-science-investigations.json) |
 | Space Scrap Shuffle | 183351 | [183351-space-scrap-shuffle.json](./183351-space-scrap-shuffle.json) |
 | Space ScrubLords | 348930 | [348930-space-scrublords.json](./348930-space-scrublords.json) |
+| Space Shadow | 178988 | [178988-space-shadow.json](./178988-space-shadow.json) |
 | Space Shapes | 126567 | [126567-space-shapes.json](./126567-space-shapes.json) |
 | Space Shark Wrangle Fest | 245843 | [245843-space-shark-wrangle-fest.json](./245843-space-shark-wrangle-fest.json) |
 | Space Shells | 204100 | [204100-space-shells.json](./204100-space-shells.json) |
@@ -11824,6 +11830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spookynakki | 275810 | [275810-spookynakki.json](./275810-spookynakki.json) |
 | Spookyville | 299409 | [299409-spookyville.json](./299409-spookyville.json) |
 | Spoonman: Ballad of a Bonehead | 307708 | [307708-spoonman-ballad-of-a-bonehead.json](./307708-spoonman-ballad-of-a-bonehead.json) |
+| SPooNS | 179014 | [179014-spoons.json](./179014-spoons.json) |
 | Spoons Card Game | 102740 | [102740-spoons-card-game.json](./102740-spoons-card-game.json) |
 | Spoons III | 70369 | [70369-spoons-iii.json](./70369-spoons-iii.json) |
 | Spoop Troop | 304697 | [304697-spoop-troop.json](./304697-spoop-troop.json) |
@@ -13208,6 +13215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starmasons | 388419 | [388419-starmasons.json](./388419-starmasons.json) |
 | Starmaster | 18033 | [18033-starmaster.json](./18033-starmaster.json) |
 | Starmate | 252305 | [252305-starmate.json](./252305-starmate.json) |
+| Starmatter | 178926 | [178926-starmatter.json](./178926-starmatter.json) |
 | Starminer | 280353 | [280353-starminer.json](./280353-starminer.json) |
 | Starmount | 327323 | [327323-starmount.json](./327323-starmount.json) |
 | Starmourn | 122849 | [122849-starmourn.json](./122849-starmourn.json) |
@@ -13519,6 +13527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starvedge | 349454 | [349454-starvedge.json](./349454-starvedge.json) |
 | Starving Merchant | 390760 | [390760-starving-merchant.json](./390760-starving-merchant.json) |
 | Starward Rogue: Complete Edition | 283159 | [283159-starward-rogue-complete-edition.json](./283159-starward-rogue-complete-edition.json) |
+| Starwatchers: The Search for Cosmic Jam | 178923 | [178923-starwatchers-the-search-for-cosmic-jam.json](./178923-starwatchers-the-search-for-cosmic-jam.json) |
 | Starwave | 306943 | [306943-starwave.json](./306943-starwave.json) |
 | Starway Ateez | 315487 | [315487-starway-ateez.json](./315487-starway-ateez.json) |
 | Starweaver Express: Per Aspera Ad Astra | 391752 | [391752-starweaver-express-per-aspera-ad-astra.json](./391752-starweaver-express-per-aspera-ad-astra.json) |
@@ -17885,6 +17894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suprotyv | 402376 | [402376-suprotyv.json](./402376-suprotyv.json) |
 | Suqare: Hired Gun | 333171 | [333171-suqare-hired-gun.json](./333171-suqare-hired-gun.json) |
 | Sur | 159127 | [159127-sur.json](./159127-sur.json) |
+| Sur Tout Le Trajet | 179013 | [179013-sur-tout-le-trajet.json](./179013-sur-tout-le-trajet.json) |
 | Sura: Shattered Star | 412474 | [412474-sura-shattered-star.json](./412474-sura-shattered-star.json) |
 | Surabaya Inferno | 150676 | [150676-surabaya-inferno.json](./150676-surabaya-inferno.json) |
 | Surbird | 292555 | [292555-surbird.json](./292555-surbird.json) |
