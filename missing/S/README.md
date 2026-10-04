@@ -4793,6 +4793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Yourself With a Rifle | 336531 | [336531-shoot-yourself-with-a-rifle.json](./336531-shoot-yourself-with-a-rifle.json) |
 | Shoot-No-Shoot | 107805 | [107805-shoot-no-shoot.json](./107805-shoot-no-shoot.json) |
 | Shoot-Out | 71588 | [71588-shoot-out.json](./71588-shoot-out.json) |
+| Shoot! | 188437 | [188437-shoot.json](./188437-shoot.json) |
 | Shoot! & Ahhhhh | 385816 | [385816-shoot-and-ahhhhh.json](./385816-shoot-and-ahhhhh.json) |
 | Shoot! VR | 230948 | [230948-shoot-vr.json](./230948-shoot-vr.json) |
 | Shoot'n'Scroll 3D | 109875 | [109875-shootnscroll-3d.json](./109875-shootnscroll-3d.json) |
@@ -7044,6 +7045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Guy | 348881 | [348881-slime-guy.json](./348881-slime-guy.json) |
 | Slime Hero | 216890 | [216890-slime-hero.json](./216890-slime-hero.json) |
 | Slime Heroes | 152171 | [152171-slime-heroes.json](./152171-slime-heroes.json) |
+| Slime Islands | 188468 | [188468-slime-islands.json](./188468-slime-islands.json) |
 | Slime Jump | 411758 | [411758-slime-jump.json](./411758-slime-jump.json) |
 | Slime Jumper | 34316 | [34316-slime-jumper.json](./34316-slime-jumper.json) |
 | Slime Killer | 163910 | [163910-slime-killer.json](./163910-slime-killer.json) |
@@ -7105,6 +7107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimelon | 300786 | [300786-slimelon.json](./300786-slimelon.json) |
 | Slimer | 184489 | [184489-slimer.json](./184489-slimer.json) |
 | Slimes RPG | 110782 | [110782-slimes-rpg.json](./110782-slimes-rpg.json) |
+| SlimeSlider | 188453 | [188453-slimeslider.json](./188453-slimeslider.json) |
 | SlimeTrials | 185607 | [185607-slimetrials.json](./185607-slimetrials.json) |
 | Slimeward | 373084 | [373084-slimeward.json](./373084-slimeward.json) |
 | Slimey Champions | 166770 | [166770-slimey-champions.json](./166770-slimey-champions.json) |
@@ -8165,6 +8168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So I bought a little chainsaw | 367599 | [367599-so-i-bought-a-little-chainsaw.json](./367599-so-i-bought-a-little-chainsaw.json) |
 | So I'm a Spider, So What? Ruler of the Labyrinth | 323711 | [323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json](./323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json) |
 | So Let Us Melt | 68276 | [68276-so-let-us-melt.json](./68276-so-let-us-melt.json) |
+| So Long as There is Mercy | 188473 | [188473-so-long-as-there-is-mercy.json](./188473-so-long-as-there-is-mercy.json) |
 | So Long Earth | 33376 | [33376-so-long-earth.json](./33376-so-long-earth.json) |
 | So Long Grandma | 87995 | [87995-so-long-grandma.json](./87995-so-long-grandma.json) |
 | So Many Cubes | 31791 | [31791-so-many-cubes.json](./31791-so-many-cubes.json) |
@@ -11488,6 +11492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Mancer | 224556 | [224556-spirit-mancer.json](./224556-spirit-mancer.json) |
 | Spirit Night | 225563 | [225563-spirit-night.json](./225563-spirit-night.json) |
 | Spirit Oath | 118383 | [118383-spirit-oath.json](./118383-spirit-oath.json) |
+| Spirit of Adventure | 188433 | [188433-spirit-of-adventure.json](./188433-spirit-of-adventure.json) |
 | Spirit of Death | 294252 | [294252-spirit-of-death.json](./294252-spirit-of-death.json) |
 | Spirit of Maya | 29903 | [29903-spirit-of-maya.json](./29903-spirit-of-maya.json) |
 | Spirit of the Backwaters | 248076 | [248076-spirit-of-the-backwaters.json](./248076-spirit-of-the-backwaters.json) |
@@ -11530,6 +11535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits & Alice | 358502 | [358502-spirits-and-alice.json](./358502-spirits-and-alice.json) |
 | Spirits and Secrets | 384500 | [384500-spirits-and-secrets.json](./384500-spirits-and-secrets.json) |
 | Spirits of Carter Mansion | 189053 | [189053-spirits-of-carter-mansion.json](./189053-spirits-of-carter-mansion.json) |
+| Spirits of Light | 188455 | [188455-spirits-of-light.json](./188455-spirits-of-light.json) |
 | Spirits of Lunara | 383364 | [383364-spirits-of-lunara.json](./383364-spirits-of-lunara.json) |
 | Spirits of Metropolis | 54392 | [54392-spirits-of-metropolis.json](./54392-spirits-of-metropolis.json) |
 | Spirits of Mystery: Amber Maiden | 62823 | [62823-spirits-of-mystery-amber-maiden.json](./62823-spirits-of-mystery-amber-maiden.json) |
@@ -11754,6 +11760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Speedrun | 157048 | [157048-spooky-speedrun.json](./157048-spooky-speedrun.json) |
 | Spooky Spins Returns: Crazy Cash Edition - Slots | 276172 | [276172-spooky-spins-returns-crazy-cash-edition-slots.json](./276172-spooky-spins-returns-crazy-cash-edition-slots.json) |
 | Spooky Squad! | 318565 | [318565-spooky-squad.json](./318565-spooky-squad.json) |
+| Spooky Story | 188472 | [188472-spooky-story.json](./188472-spooky-story.json) |
 | Spooky Survivors | 333640 | [333640-spooky-survivors.json](./333640-spooky-survivors.json) |
 | Spooky Tales and Mummy Trails | 420659 | [420659-spooky-tales-and-mummy-trails.json](./420659-spooky-tales-and-mummy-trails.json) |
 | Spooky Town | 272565 | [272565-spooky-town.json](./272565-spooky-town.json) |
@@ -18509,6 +18516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swingin' | 333700 | [333700-swingin.json](./333700-swingin.json) |
 | Swingin' Beats | 338204 | [338204-swingin-beats.json](./338204-swingin-beats.json) |
 | Swinging Over It with Alin Lucian | 116415 | [116415-swinging-over-it-with-alin-lucian.json](./116415-swinging-over-it-with-alin-lucian.json) |
+| Swinging-Man | 188428 | [188428-swinging-man.json](./188428-swinging-man.json) |
 | Swingmania | 304039 | [304039-swingmania.json](./304039-swingmania.json) |
 | Swingularity | 333566 | [333566-swingularity.json](./333566-swingularity.json) |
 | swipe | 346219 | [346219-swipe.json](./346219-swipe.json) |
