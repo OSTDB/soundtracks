@@ -5741,6 +5741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Usher | 25721 | [25721-house-of-usher.json](./25721-house-of-usher.json) |
 | House of Velez | 27087 | [27087-house-of-velez.json](./27087-house-of-velez.json) |
 | House of Velez: Part 2 | 171505 | [171505-house-of-velez-part-2.json](./171505-house-of-velez-part-2.json) |
+| House of Weirdos | 197214 | [197214-house-of-weirdos.json](./197214-house-of-weirdos.json) |
 | House of Wonders: Kitty Kat Wedding | 53195 | [53195-house-of-wonders-kitty-kat-wedding.json](./53195-house-of-wonders-kitty-kat-wedding.json) |
 | House on [Redacted] Street | 352197 | [352197-house-on-redacted-street.json](./352197-house-on-redacted-street.json) |
 | House Painting: Simulator | 328513 | [328513-house-painting-simulator.json](./328513-house-painting-simulator.json) |
@@ -6356,6 +6357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huntscape | 219692 | [219692-huntscape.json](./219692-huntscape.json) |
 | Huntsman Against Darkness | 408937 | [408937-huntsman-against-darkness.json](./408937-huntsman-against-darkness.json) |
 | Huntsman: The Orphanage | 10422 | [10422-huntsman-the-orphanage.json](./10422-huntsman-the-orphanage.json) |
+| Hunyadi Strategy | 197200 | [197200-hunyadi-strategy.json](./197200-hunyadi-strategy.json) |
 | Hup Hup The Cupcake | 303558 | [303558-hup-hup-the-cupcake.json](./303558-hup-hup-the-cupcake.json) |
 | Hupsi | 177436 | [177436-hupsi.json](./177436-hupsi.json) |
 | Huracan Drift Simulator | 95875 | [95875-huracan-drift-simulator.json](./95875-huracan-drift-simulator.json) |
