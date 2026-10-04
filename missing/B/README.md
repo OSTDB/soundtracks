@@ -3915,6 +3915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigfoot Evolution: French Classics | 60032 | [60032-bigfoot-evolution-french-classics.json](./60032-bigfoot-evolution-french-classics.json) |
 | Bigfoot Forest | 157489 | [157489-bigfoot-forest.json](./157489-bigfoot-forest.json) |
 | Bigfoot Hunter | 61902 | [61902-bigfoot-hunter.json](./61902-bigfoot-hunter.json) |
+| Bigfoot Hunting | 220157 | [220157-bigfoot-hunting.json](./220157-bigfoot-hunting.json) |
 | Bigfoot Hunting | 353950 | [353950-bigfoot-hunting.json](./353950-bigfoot-hunting.json) |
 | Bigfoot Monster Hunter | 97050 | [97050-bigfoot-monster-hunter.json](./97050-bigfoot-monster-hunter.json) |
 | Bigfoot Quest | 90752 | [90752-bigfoot-quest.json](./90752-bigfoot-quest.json) |
