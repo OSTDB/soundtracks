@@ -3839,6 +3839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese SimpleLife | 236413 | [236413-chinese-simplelife.json](./236413-chinese-simplelife.json) |
 | Chinese Souls: Hua Garden | 90614 | [90614-chinese-souls-hua-garden.json](./90614-chinese-souls-hua-garden.json) |
 | Chinese Style School | 358501 | [358501-chinese-style-school.json](./358501-chinese-style-school.json) |
+| Chinese Takeout! | 180640 | [180640-chinese-takeout.json](./180640-chinese-takeout.json) |
 | Chinese Tomb Story | 89388 | [89388-chinese-tomb-story.json](./89388-chinese-tomb-story.json) |
 | Chinese Train Trip | 195190 | [195190-chinese-train-trip.json](./195190-chinese-train-trip.json) |
 | Chinese Tycoon | 247457 | [247457-chinese-tycoon.json](./247457-chinese-tycoon.json) |
@@ -5513,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clu Clu Land D | 170022 | [170022-clu-clu-land-d.json](./170022-clu-clu-land-d.json) |
 | Clu Clu Land-e | 170007 | [170007-clu-clu-land-e.json](./170007-clu-clu-land-e.json) |
 | Club Backgammon | 270745 | [270745-club-backgammon.json](./270745-club-backgammon.json) |
+| Club de Detectives: Caso 01 | 180629 | [180629-club-de-detectives-caso-01.json](./180629-club-de-detectives-caso-01.json) |
 | Club Defenders | 361869 | [361869-club-defenders.json](./361869-club-defenders.json) |
 | Club Del Fierro | 365282 | [365282-club-del-fierro.json](./365282-club-del-fierro.json) |
 | Club Drive | 40804 | [40804-club-drive.json](./40804-club-drive.json) |
