@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaslit Bay | 405686 | [405686-gaslit-bay.json](./405686-gaslit-bay.json) |
 | Gasnator | 229796 | [229796-gasnator.json](./229796-gasnator.json) |
 | Gastova: The Witches of Arkana | 130955 | [130955-gastova-the-witches-of-arkana.json](./130955-gastova-the-witches-of-arkana.json) |
+| Gastro Force | 197221 | [197221-gastro-force.json](./197221-gastro-force.json) |
 | GastroEx | 215245 | [215245-gastroex.json](./215245-gastroex.json) |
 | Gastronomie | 220319 | [220319-gastronomie.json](./220319-gastronomie.json) |
 | Gasu: The Hugging Dragon | 177486 | [177486-gasu-the-hugging-dragon.json](./177486-gasu-the-hugging-dragon.json) |
@@ -2389,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give Me Clair Back | 290944 | [290944-give-me-clair-back.json](./290944-give-me-clair-back.json) |
 | Give Me Toilet Paper! | 240369 | [240369-give-me-toilet-paper.json](./240369-give-me-toilet-paper.json) |
 | Give My Regards to Broad Street | 66710 | [66710-give-my-regards-to-broad-street.json](./66710-give-my-regards-to-broad-street.json) |
+| Give the People What They Want | 197189 | [197189-give-the-people-what-they-want.json](./197189-give-the-people-what-they-want.json) |
 | Givling | 18319 | [18319-givling.json](./18319-givling.json) |
 | Gizmo of Giza | 184491 | [184491-gizmo-of-giza.json](./184491-gizmo-of-giza.json) |
 | GizmoLab VR | 290682 | [290682-gizmolab-vr.json](./290682-gizmolab-vr.json) |
@@ -3113,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GodsArena Online | 368541 | [368541-godsarena-online.json](./368541-godsarena-online.json) |
 | Godsbane Idle | 202670 | [202670-godsbane-idle.json](./202670-godsbane-idle.json) |
 | Godscale | 378349 | [378349-godscale.json](./378349-godscale.json) |
+| Godscyld | 197177 | [197177-godscyld.json](./197177-godscyld.json) |
 | Godsend | 112757 | [112757-godsend.json](./112757-godsend.json) |
 | Godsend Arena | 235853 | [235853-godsend-arena.json](./235853-godsend-arena.json) |
 | Godslayer Arena | 295851 | [295851-godslayer-arena.json](./295851-godslayer-arena.json) |
@@ -4535,6 +4538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green vs Tan | 416834 | [416834-green-vs-tan.json](./416834-green-vs-tan.json) |
 | Green Wave | 397088 | [397088-green-wave.json](./397088-green-wave.json) |
 | Green Wind | 209638 | [209638-green-wind.json](./209638-green-wind.json) |
+| Green Wounds | 197190 | [197190-green-wounds.json](./197190-green-wounds.json) |
 | Green Zone | 254768 | [254768-green-zone.json](./254768-green-zone.json) |
 | Green: The Life Algorithm | 120863 | [120863-green-the-life-algorithm.json](./120863-green-the-life-algorithm.json) |
 | Green's Xmas Collection | 80193 | [80193-greens-xmas-collection.json](./80193-greens-xmas-collection.json) |
