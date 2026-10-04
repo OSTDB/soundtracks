@@ -1426,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unmatched: Digital Edition - Yukon | 248715 | [248715-unmatched-digital-edition-yukon.json](./248715-unmatched-digital-edition-yukon.json) |
 | Unmaze | 159363 | [159363-unmaze.json](./159363-unmaze.json) |
 | Unmemory | 131565 | [131565-unmemory.json](./131565-unmemory.json) |
+| UnMetal: UnDeluxe Edition | 173099 | [173099-unmetal-undeluxe-edition.json](./173099-unmetal-undeluxe-edition.json) |
 | Unmixable Syrup | 404404 | [404404-unmixable-syrup.json](./404404-unmixable-syrup.json) |
 | Unmoor | 89341 | [89341-unmoor.json](./89341-unmoor.json) |
 | Unnamed Arcade | 338586 | [338586-unnamed-arcade.json](./338586-unnamed-arcade.json) |
@@ -1953,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utawarerumono: Lost Flag | 120286 | [120286-utawarerumono-lost-flag.json](./120286-utawarerumono-lost-flag.json) |
 | Utawarerumono: Mask of Deception | 13548 | [13548-utawarerumono-mask-of-deception.json](./13548-utawarerumono-mask-of-deception.json) |
 | Utawarerumono: Past and Present Rediscovered | 387541 | [387541-utawarerumono-past-and-present-rediscovered.json](./387541-utawarerumono-past-and-present-rediscovered.json) |
+| Utawarerumono: Prelude to the Fallen - Origins Edition | 173117 | [173117-utawarerumono-prelude-to-the-fallen-origins-edition.json](./173117-utawarerumono-prelude-to-the-fallen-origins-edition.json) |
 | Utawarerumono: Prelude to the Fallen - Premium Edition | 167071 | [167071-utawarerumono-prelude-to-the-fallen-premium-edition.json](./167071-utawarerumono-prelude-to-the-fallen-premium-edition.json) |
 | Utherous | 60488 | [60488-utherous.json](./60488-utherous.json) |
 | Utility for the Soul | 312571 | [312571-utility-for-the-soul.json](./312571-utility-for-the-soul.json) |
