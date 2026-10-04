@@ -1081,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gary Grigsby's Pacific War | 72106 | [72106-gary-grigsbys-pacific-war.json](./72106-gary-grigsbys-pacific-war.json) |
 | Gary Grigsby's War in the East | 24627 | [24627-gary-grigsbys-war-in-the-east.json](./24627-gary-grigsbys-war-in-the-east.json) |
 | Gary Grigsby's War in the East: Don to the Danube | 154491 | [154491-gary-grigsbys-war-in-the-east-don-to-the-danube.json](./154491-gary-grigsbys-war-in-the-east-don-to-the-danube.json) |
+| Gary Grigsby's War in the East: Lost Battles | 174171 | [174171-gary-grigsbys-war-in-the-east-lost-battles.json](./174171-gary-grigsbys-war-in-the-east-lost-battles.json) |
 | Gary Grigsby's War in the Pacific | 69846 | [69846-gary-grigsbys-war-in-the-pacific.json](./69846-gary-grigsbys-war-in-the-pacific.json) |
 | Gary Grigsby's War in the West | 59528 | [59528-gary-grigsbys-war-in-the-west.json](./59528-gary-grigsbys-war-in-the-west.json) |
 | Gary Grigsby's War in the West: Operation Torch | 154492 | [154492-gary-grigsbys-war-in-the-west-operation-torch.json](./154492-gary-grigsbys-war-in-the-west-operation-torch.json) |
