@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marigold | 183053 | [183053-marigold.json](./183053-marigold.json) |
 | Marikin Online 4 | 288351 | [288351-marikin-online-4.json](./288351-marikin-online-4.json) |
 | Mariko: Hot Nightlife | 88052 | [88052-mariko-hot-nightlife.json](./88052-mariko-hot-nightlife.json) |
+| Marimo vs. I.A.S | 188463 | [188463-marimo-vs-i-a-s.json](./188463-marimo-vs-i-a-s.json) |
 | Marina Militare It Navy Sim | 193849 | [193849-marina-militare-it-navy-sim.json](./193849-marina-militare-it-navy-sim.json) |
 | Marina's Cuckolding Report | 143063 | [143063-marinas-cuckolding-report.json](./143063-marinas-cuckolding-report.json) |
 | Marinatide | 30200 | [30200-marinatide.json](./30200-marinatide.json) |
@@ -3111,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MathJelly | 386854 | [386854-mathjelly.json](./386854-mathjelly.json) |
 | MathLand | 146687 | [146687-mathland.json](./146687-mathland.json) |
 | Mathle | 363038 | [363038-mathle.json](./363038-mathle.json) |
+| Mathletix | 188434 | [188434-mathletix.json](./188434-mathletix.json) |
 | Mathomatics | 190215 | [190215-mathomatics.json](./190215-mathomatics.json) |
 | Mathooze - The Math Puzzle Game! | 24964 | [24964-mathooze-the-math-puzzle-game.json](./24964-mathooze-the-math-puzzle-game.json) |
 | MathRat | 370905 | [370905-mathrat.json](./370905-mathrat.json) |
@@ -6068,6 +6070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MilioNESy | 195511 | [195511-milionesy.json](./195511-milionesy.json) |
 | Milita Aventuro | 218711 | [218711-milita-aventuro.json](./218711-milita-aventuro.json) |
 | MilitAnt | 20877 | [20877-militant.json](./20877-militant.json) |
+| Militaristic Rain of Terror | 188461 | [188461-militaristic-rain-of-terror.json](./188461-militaristic-rain-of-terror.json) |
 | Military Attack | 215612 | [215612-military-attack.json](./215612-military-attack.json) |
 | Military Base War | 169447 | [169447-military-base-war.json](./169447-military-base-war.json) |
 | Military Battlefield: Enlisted | 404361 | [404361-military-battlefield-enlisted.json](./404361-military-battlefield-enlisted.json) |
@@ -7344,6 +7347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miya's Everyday Joy of Cooking | 202144 | [202144-miyas-everyday-joy-of-cooking.json](./202144-miyas-everyday-joy-of-cooking.json) |
 | Miyaji Shachou no Pachinko Fan: Shouri Sengen 2 | 37925 | [37925-miyaji-shachou-no-pachinko-fan-shouri-sengen-2.json](./37925-miyaji-shachou-no-pachinko-fan-shouri-sengen-2.json) |
 | Miyamoto | 175328 | [175328-miyamoto.json](./175328-miyamoto.json) |
+| Miyamoto S | 188460 | [188460-miyamoto-s.json](./188460-miyamoto-s.json) |
 | Miyazato San Kyoudai Naizou: Sega Golf Club | 7454 | [7454-miyazato-san-kyoudai-naizou-sega-golf-club.json](./7454-miyazato-san-kyoudai-naizou-sega-golf-club.json) |
 | Miyuki the Shoubushi | 67375 | [67375-miyuki-the-shoubushi.json](./67375-miyuki-the-shoubushi.json) |
 | Mizari Loves Company | 385056 | [385056-mizari-loves-company.json](./385056-mizari-loves-company.json) |
@@ -9916,6 +9920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multidimensions and Dreams | 231301 | [231301-multidimensions-and-dreams.json](./231301-multidimensions-and-dreams.json) |
 | Multidude | 141107 | [141107-multidude.json](./141107-multidude.json) |
 | MultiEnding Heroes | 345558 | [345558-multiending-heroes.json](./345558-multiending-heroes.json) |
+| Multigravity | 188469 | [188469-multigravity.json](./188469-multigravity.json) |
 | Multigun | 345108 | [345108-multigun.json](./345108-multigun.json) |
 | Multilytheus | 186271 | [186271-multilytheus.json](./186271-multilytheus.json) |
 | Multimaker | 109748 | [109748-multimaker.json](./109748-multimaker.json) |
