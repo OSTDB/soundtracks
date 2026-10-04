@@ -6187,6 +6187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluebush Chess | 74058 | [74058-bluebush-chess.json](./74058-bluebush-chess.json) |
 | BlueCloud Summit | 254005 | [254005-bluecloud-summit.json](./254005-bluecloud-summit.json) |
 | BlueGlow | 116283 | [116283-blueglow.json](./116283-blueglow.json) |
+| BlueGlow: Operation Blue Rain | 174175 | [174175-blueglow-operation-blue-rain.json](./174175-blueglow-operation-blue-rain.json) |
 | Bluegrass | 386930 | [386930-bluegrass.json](./386930-bluegrass.json) |
 | Bluem | 199396 | [199396-bluem.json](./199396-bluem.json) |
 | Blueman | 329002 | [329002-blueman.json](./329002-blueman.json) |
@@ -7402,6 +7403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box and Ball | 153851 | [153851-box-and-ball.json](./153851-box-and-ball.json) |
 | Box Bakery | 310007 | [310007-box-bakery.json](./310007-box-bakery.json) |
 | Box Bop | 314485 | [314485-box-bop.json](./314485-box-bop.json) |
+| Box box | 174078 | [174078-box-box.json](./174078-box-box.json) |
 | Box Box Box! | 379055 | [379055-box-box-box.json](./379055-box-box-box.json) |
 | Box Boy! + Box Girl! | 115281 | [115281-box-boy-box-girl.json](./115281-box-boy-box-girl.json) |
 | Box Chaos | 328553 | [328553-box-chaos.json](./328553-box-chaos.json) |
