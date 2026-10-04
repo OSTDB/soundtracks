@@ -7003,6 +7003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army of Two | 996 | [996-army-of-two.json](./996-army-of-two.json) |
 | Army of Two: The Devil's Cartel | 1832 | [1832-army-of-two-the-devils-cartel.json](./1832-army-of-two-the-devils-cartel.json) |
 | Army Rage | 63889 | [63889-army-rage.json](./63889-army-rage.json) |
+| Army to Army | 189019 | [189019-army-to-army.json](./189019-army-to-army.json) |
 | Army vs Zombie | 226770 | [226770-army-vs-zombie.json](./226770-army-vs-zombie.json) |
 | Army War: Shooting Simulator | 235198 | [235198-army-war-shooting-simulator.json](./235198-army-war-shooting-simulator.json) |
 | Army Wars Tactics | 200158 | [200158-army-wars-tactics.json](./200158-army-wars-tactics.json) |
