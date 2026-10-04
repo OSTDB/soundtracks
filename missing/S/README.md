@@ -8603,6 +8603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solebon Solitaire | 87541 | [87541-solebon-solitaire.json](./87541-solebon-solitaire.json) |
 | Solemn Knights: Entirely Ours | 254421 | [254421-solemn-knights-entirely-ours.json](./254421-solemn-knights-entirely-ours.json) |
 | Solemn Warriors | 330187 | [330187-solemn-warriors.json](./330187-solemn-warriors.json) |
+| Solenars Edge Rebirth: After Story | 174173 | [174173-solenars-edge-rebirth-after-story.json](./174173-solenars-edge-rebirth-after-story.json) |
 | Soletrando: Nova Ortografia | 181940 | [181940-soletrando-nova-ortografia.json](./181940-soletrando-nova-ortografia.json) |
 | SolForge | 16487 | [16487-solforge.json](./16487-solforge.json) |
 | Solheim | 397830 | [397830-solheim.json](./397830-solheim.json) |
@@ -10173,6 +10174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dave! | 27526 | [27526-space-dave.json](./27526-space-dave.json) |
 | Space Debris | 103533 | [103533-space-debris.json](./103533-space-debris.json) |
 | Space Defend | 246424 | [246424-space-defend.json](./246424-space-defend.json) |
+| Space Defender | 174087 | [174087-space-defender.json](./174087-space-defender.json) |
 | Space Defender Battle Infinity | 109495 | [109495-space-defender-battle-infinity.json](./109495-space-defender-battle-infinity.json) |
 | Space Demolisher | 25919 | [25919-space-demolisher.json](./25919-space-demolisher.json) |
 | Space Demon | 145469 | [145469-space-demon.json](./145469-space-demon.json) |
@@ -11272,6 +11274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelunky 2 | 75239 | [75239-spelunky-2.json](./75239-spelunky-2.json) |
 | Spelunky64 | 316126 | [316126-spelunky64.json](./316126-spelunky64.json) |
 | Spencer | 90124 | [90124-spencer.json](./90124-spencer.json) |
+| Spent | 174177 | [174177-spent.json](./174177-spent.json) |
 | Sperm Into Labia | 310742 | [310742-sperm-into-labia.json](./310742-sperm-into-labia.json) |
 | Sperma | 232698 | [232698-sperma.json](./232698-sperma.json) |
 | SpermDash | 157009 | [157009-spermdash.json](./157009-spermdash.json) |
