@@ -3238,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eurgava: Tomb of Senza | 116122 | [116122-eurgava-tomb-of-senza.json](./116122-eurgava-tomb-of-senza.json) |
 | Eurit | 42246 | [42246-eurit.json](./42246-eurit.json) |
 | Euro Club Manager 2003-04 | 94706 | [94706-euro-club-manager-2003-04.json](./94706-euro-club-manager-2003-04.json) |
+| Euro Fishing: Collector's Edition | 173108 | [173108-euro-fishing-collectors-edition.json](./173108-euro-fishing-collectors-edition.json) |
 | Euro Fishing: The Moat | 151065 | [151065-euro-fishing-the-moat.json](./151065-euro-fishing-the-moat.json) |
 | Euro Fishing: Urban Edition | 52979 | [52979-euro-fishing-urban-edition.json](./52979-euro-fishing-urban-edition.json) |
 | Euro Rally Champion | 43298 | [43298-euro-rally-champion.json](./43298-euro-rally-champion.json) |
@@ -3722,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution Climate: Ultimate Bundle | 287181 | [287181-evolution-climate-ultimate-bundle.json](./287181-evolution-climate-ultimate-bundle.json) |
 | Evolution Merge: Eat and Grow | 221378 | [221378-evolution-merge-eat-and-grow.json](./221378-evolution-merge-eat-and-grow.json) |
 | Evolution of a Mini World: Physics Wonderland | 153429 | [153429-evolution-of-a-mini-world-physics-wonderland.json](./153429-evolution-of-a-mini-world-physics-wonderland.json) |
+| Evolution of War | 173023 | [173023-evolution-of-war.json](./173023-evolution-of-war.json) |
 | Evolution RTS | 36359 | [36359-evolution-rts.json](./36359-evolution-rts.json) |
 | Evolution Soccer | 137690 | [137690-evolution-soccer.json](./137690-evolution-soccer.json) |
 | Evolution Tale | 236900 | [236900-evolution-tale.json](./236900-evolution-tale.json) |
