@@ -4564,6 +4564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robber | 385579 | [385579-robber.json](./385579-robber.json) |
 | Robber Knight | 204068 | [204068-robber-knight.json](./204068-robber-knight.json) |
 | Robber Rideshare | 184920 | [184920-robber-rideshare.json](./184920-robber-rideshare.json) |
+| Robber Sam | 202722 | [202722-robber-sam.json](./202722-robber-sam.json) |
 | Robbery Bob | 19501 | [19501-robbery-bob.json](./19501-robbery-bob.json) |
 | Robbery Day | 334206 | [334206-robbery-day.json](./334206-robbery-day.json) |
 | Robbery Madness: Thief Games | 219782 | [219782-robbery-madness-thief-games.json](./219782-robbery-madness-thief-games.json) |
@@ -5800,6 +5801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ropeway Simulator 2014 | 36345 | [36345-ropeway-simulator-2014.json](./36345-ropeway-simulator-2014.json) |
 | Ropin' Ranch | 279425 | [279425-ropin-ranch.json](./279425-ropin-ranch.json) |
 | Ropoko | 370822 | [370822-ropoko.json](./370822-ropoko.json) |
+| Roppongi Hunters | 202746 | [202746-roppongi-hunters.json](./202746-roppongi-hunters.json) |
 | Roppongi Sadistic Night | 395566 | [395566-roppongi-sadistic-night.json](./395566-roppongi-sadistic-night.json) |
 | Ropuka | 386712 | [386712-ropuka.json](./386712-ropuka.json) |
 | Rorke's Drift | 72107 | [72107-rorkes-drift.json](./72107-rorkes-drift.json) |
@@ -5925,6 +5927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Round Invaders Rush 2 | 214039 | [214039-round-invaders-rush-2.json](./214039-round-invaders-rush-2.json) |
 | Round My Corners | 301241 | [301241-round-my-corners.json](./301241-round-my-corners.json) |
 | Round Spike | 348954 | [348954-round-spike.json](./348954-round-spike.json) |
+| Round Table | 202719 | [202719-round-table.json](./202719-round-table.json) |
 | Round The U-Bend | 271306 | [271306-round-the-u-bend.json](./271306-round-the-u-bend.json) |
 | Round Trip | 244280 | [244280-round-trip.json](./244280-round-trip.json) |
 | Round Up 5: Super Delta Force | 407524 | [407524-round-up-5-super-delta-force.json](./407524-round-up-5-super-delta-force.json) |
