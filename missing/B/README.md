@@ -4365,6 +4365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdie Shot | 223956 | [223956-birdie-shot.json](./223956-birdie-shot.json) |
 | Birdie Up | 334084 | [334084-birdie-up.json](./334084-birdie-up.json) |
 | Birding 101 | 185424 | [185424-birding-101.json](./185424-birding-101.json) |
+| Birding Simulator | 191654 | [191654-birding-simulator.json](./191654-birding-simulator.json) |
 | Birdiy | 38592 | [38592-birdiy.json](./38592-birdiy.json) |
 | Birdland | 20339 | [20339-birdland.json](./20339-birdland.json) |
 | BirdLingo: A birdsong learning game | 311260 | [311260-birdlingo-a-birdsong-learning-game.json](./311260-birdlingo-a-birdsong-learning-game.json) |
