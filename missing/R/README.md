@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Ink Challenge | 156127 | [156127-railroad-ink-challenge.json](./156127-railroad-ink-challenge.json) |
 | Railroad Ink Challenge: Forest | 196142 | [196142-railroad-ink-challenge-forest.json](./196142-railroad-ink-challenge-forest.json) |
 | Railroad Pioneer | 9417 | [9417-railroad-pioneer.json](./9417-railroad-pioneer.json) |
+| Railroad Rogues | 176767 | [176767-railroad-rogues.json](./176767-railroad-rogues.json) |
 | Railroad Scheduler | 295005 | [295005-railroad-scheduler.json](./295005-railroad-scheduler.json) |
 | Railroad Story HD | 175393 | [175393-railroad-story-hd.json](./175393-railroad-story-hd.json) |
 | Railroad Tycoon 3 | 840 | [840-railroad-tycoon-3.json](./840-railroad-tycoon-3.json) |
@@ -4861,6 +4862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotragedy 2: Countdown to Doomsday | 171548 | [171548-robotragedy-2-countdown-to-doomsday.json](./171548-robotragedy-2-countdown-to-doomsday.json) |
 | RoboTraps | 43429 | [43429-robotraps.json](./43429-robotraps.json) |
 | Robotron: 2084 | 3592 | [3592-robotron-2084.json](./3592-robotron-2084.json) |
+| Robots | 176770 | [176770-robots.json](./176770-robots.json) |
 | Robots 2 Unknown World | 105369 | [105369-robots-2-unknown-world.json](./105369-robots-2-unknown-world.json) |
 | Robots and Planets | 347361 | [347361-robots-and-planets.json](./347361-robots-and-planets.json) |
 | Robots at Midnight | 276180 | [276180-robots-at-midnight.json](./276180-robots-at-midnight.json) |
@@ -5362,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Robot: Escape Protocol | 304616 | [304616-rogue-robot-escape-protocol.json](./304616-rogue-robot-escape-protocol.json) |
 | Rogue Run | 407304 | [407304-rogue-run.json](./407304-rogue-run.json) |
 | Rogue Samurai | 266278 | [266278-rogue-samurai.json](./266278-rogue-samurai.json) |
+| Rogue Seas | 176830 | [176830-rogue-seas.json](./176830-rogue-seas.json) |
 | Rogue Sentry | 142987 | [142987-rogue-sentry.json](./142987-rogue-sentry.json) |
 | Rogue Shell | 395553 | [395553-rogue-shell.json](./395553-rogue-shell.json) |
 | Rogue Shooter: The FPS Roguelike | 17307 | [17307-rogue-shooter-the-fps-roguelike.json](./17307-rogue-shooter-the-fps-roguelike.json) |
@@ -5608,6 +5611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roly Poly Putt | 251663 | [251663-roly-poly-putt.json](./251663-roly-poly-putt.json) |
 | Roly Poly Roundup | 396415 | [396415-roly-poly-roundup.json](./396415-roly-poly-roundup.json) |
 | Roly-Polo | 158575 | [158575-roly-polo.json](./158575-roly-polo.json) |
+| Rom | 176846 | [176846-rom.json](./176846-rom.json) |
 | ROM Check Fail | 79311 | [79311-rom-check-fail.json](./79311-rom-check-fail.json) |
 | Rom Rom Stadium | 64377 | [64377-rom-rom-stadium.json](./64377-rom-rom-stadium.json) |
 | ROM: Extraction | 26549 | [26549-rom-extraction.json](./26549-rom-extraction.json) |
