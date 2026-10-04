@@ -6554,6 +6554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Country: The Trilogy | 172504 | [172504-donkey-kong-country-the-trilogy.json](./172504-donkey-kong-country-the-trilogy.json) |
 | Donkey Kong Country: Tropical Freeze | 2923 | [2923-donkey-kong-country-tropical-freeze.json](./2923-donkey-kong-country-tropical-freeze.json) |
 | Donkey Kong Craze | 191268 | [191268-donkey-kong-craze.json](./191268-donkey-kong-craze.json) |
+| Donkey Kong Game Watch | 172538 | [172538-donkey-kong-game-watch.json](./172538-donkey-kong-game-watch.json) |
 | Donkey Kong GB: Dinky Kong & Dixie Kong | 50039 | [50039-donkey-kong-gb-dinky-kong-and-dixie-kong.json](./50039-donkey-kong-gb-dinky-kong-and-dixie-kong.json) |
 | Donkey Kong Heardle | 203817 | [203817-donkey-kong-heardle.json](./203817-donkey-kong-heardle.json) |
 | Donkey Kong II | 112423 | [112423-donkey-kong-ii.json](./112423-donkey-kong-ii.json) |
