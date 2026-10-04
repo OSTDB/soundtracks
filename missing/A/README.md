@@ -1614,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Racing 2 | 356278 | [356278-adventure-racing-2.json](./356278-adventure-racing-2.json) |
 | Adventure Realm | 357782 | [357782-adventure-realm.json](./357782-adventure-realm.json) |
 | Adventure Reborn | 240155 | [240155-adventure-reborn.json](./240155-adventure-reborn.json) |
+| Adventure Roll | 186101 | [186101-adventure-roll.json](./186101-adventure-roll.json) |
 | Adventure Rush | 192674 | [192674-adventure-rush.json](./192674-adventure-rush.json) |
 | Adventure Sketchers: Draw, Play, Create | 230338 | [230338-adventure-sketchers-draw-play-create.json](./230338-adventure-sketchers-draw-play-create.json) |
 | Adventure Smasher | 181168 | [181168-adventure-smasher.json](./181168-adventure-smasher.json) |
@@ -7711,6 +7712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AStar | 84300 | [84300-astar.json](./84300-astar.json) |
 | Astar Solis | 366396 | [366396-astar-solis.json](./366396-astar-solis.json) |
 | Astate: La Malédiction des Templiers | 14271 | [14271-astate-la-malediction-des-templiers.json](./14271-astate-la-malediction-des-templiers.json) |
+| Astatos | 186111 | [186111-astatos.json](./186111-astatos.json) |
 | Astebreed | 8356 | [8356-astebreed.json](./8356-astebreed.json) |
 | Asteion Nights | 87559 | [87559-asteion-nights.json](./87559-asteion-nights.json) |
 | Astellia | 113957 | [113957-astellia.json](./113957-astellia.json) |
