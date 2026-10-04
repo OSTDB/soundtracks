@@ -3022,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire From Heaven | 73888 | [73888-fire-from-heaven.json](./73888-fire-from-heaven.json) |
 | Fire Fu | 102618 | [102618-fire-fu.json](./102618-fire-fu.json) |
 | Fire Galaxy | 73352 | [73352-fire-galaxy.json](./73352-fire-galaxy.json) |
+| Fire Hose | 212296 | [212296-fire-hose.json](./212296-fire-hose.json) |
 | Fire in the Dark | 346696 | [346696-fire-in-the-dark.json](./346696-fire-in-the-dark.json) |
 | Fire in the Goal | 31170 | [31170-fire-in-the-goal.json](./31170-fire-in-the-goal.json) |
 | Fire in the Hole | 381019 | [381019-fire-in-the-hole.json](./381019-fire-in-the-hole.json) |
@@ -3461,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fister.Fun | 386434 | [386434-fister-fun.json](./386434-fister-fun.json) |
 | Fistful of Nothing | 150591 | [150591-fistful-of-nothing.json](./150591-fistful-of-nothing.json) |
 | Fisticuffs: An Arcade Boxing Game | 240193 | [240193-fisticuffs-an-arcade-boxing-game.json](./240193-fisticuffs-an-arcade-boxing-game.json) |
+| Fists For Fighting Fx3 | 212305 | [212305-fists-for-fighting-fx3.json](./212305-fists-for-fighting-fx3.json) |
 | Fists of Invokers | 199500 | [199500-fists-of-invokers.json](./199500-fists-of-invokers.json) |
 | Fists of Stone | 219786 | [219786-fists-of-stone.json](./219786-fists-of-stone.json) |
 | Fit | 102731 | [102731-fit.json](./102731-fit.json) |
@@ -3499,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Fables | 327589 | [327589-fitness-fables.json](./327589-fitness-fables.json) |
 | Fitness Game: Romance Story | 256250 | [256250-fitness-game-romance-story.json](./256250-fitness-game-romance-story.json) |
 | Fitness Girl - Studio Coach | 86814 | [86814-fitness-girl-studio-coach.json](./86814-fitness-girl-studio-coach.json) |
+| Fitriz | 212147 | [212147-fitriz.json](./212147-fitriz.json) |
 | Fittest | 100167 | [100167-fittest.json](./100167-fittest.json) |
 | Fitting-In | 253942 | [253942-fitting-in.json](./253942-fitting-in.json) |
 | FitXR | 142345 | [142345-fitxr.json](./142345-fitxr.json) |
