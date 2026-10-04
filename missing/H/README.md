@@ -1842,6 +1842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavenly Heroes of Antidomi | 211784 | [211784-heavenly-heroes-of-antidomi.json](./211784-heavenly-heroes-of-antidomi.json) |
 | Heavenly Martyr | 377250 | [377250-heavenly-martyr.json](./377250-heavenly-martyr.json) |
 | Heavenly Peaks Cultivation | 235276 | [235276-heavenly-peaks-cultivation.json](./235276-heavenly-peaks-cultivation.json) |
+| Heavenly Puzzle | 207199 | [207199-heavenly-puzzle.json](./207199-heavenly-puzzle.json) |
 | Heavenly Sword | 7318 | [7318-heavenly-sword.json](./7318-heavenly-sword.json) |
 | Heavenshatter | 351144 | [351144-heavenshatter.json](./351144-heavenshatter.json) |
 | Heavenstrafer | 267461 | [267461-heavenstrafer.json](./267461-heavenstrafer.json) |
@@ -5030,6 +5031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoops: Shut Up and Jam 2 | 245293 | [245293-hoops-shut-up-and-jam-2.json](./245293-hoops-shut-up-and-jam-2.json) |
 | Hooray for Maths | 318034 | [318034-hooray-for-maths.json](./318034-hooray-for-maths.json) |
 | Hooray for Spelling | 318044 | [318044-hooray-for-spelling.json](./318044-hooray-for-spelling.json) |
+| Hoosegow | 207213 | [207213-hoosegow.json](./207213-hoosegow.json) |
 | Hoover Dam | 272923 | [272923-hoover-dam.json](./272923-hoover-dam.json) |
 | Hoover Heroes | 329963 | [329963-hoover-heroes.json](./329963-hoover-heroes.json) |
 | Hoozuki no Yakusai | 376674 | [376674-hoozuki-no-yakusai.json](./376674-hoozuki-no-yakusai.json) |
