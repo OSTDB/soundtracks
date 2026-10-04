@@ -4164,6 +4164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dezaemon | 56533 | [56533-dezaemon.json](./56533-dezaemon.json) |
 | Dezaemon 3D | 3470 | [3470-dezaemon-3d.json](./3470-dezaemon-3d.json) |
 | Dezaemon BS-X Version: BS-X Shooting | 142409 | [142409-dezaemon-bs-x-version-bs-x-shooting.json](./142409-dezaemon-bs-x-version-bs-x-shooting.json) |
+| Dezaemon DD | 182337 | [182337-dezaemon-dd.json](./182337-dezaemon-dd.json) |
 | Dezaemon Kids! | 98463 | [98463-dezaemon-kids.json](./98463-dezaemon-kids.json) |
 | Dezaemon Plus | 65770 | [65770-dezaemon-plus.json](./65770-dezaemon-plus.json) |
 | Dezzan | 117118 | [117118-dezzan.json](./117118-dezzan.json) |
@@ -5622,6 +5623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIY Paper Doll | 277026 | [277026-diy-paper-doll.json](./277026-diy-paper-doll.json) |
 | DIY Slime Maker! Squishy ASMR | 106593 | [106593-diy-slime-maker-squishy-asmr.json](./106593-diy-slime-maker-squishy-asmr.json) |
 | Dizziness | 181375 | [181375-dizziness.json](./181375-dizziness.json) |
+| Dizzy Bee 2 | 182333 | [182333-dizzy-bee-2.json](./182333-dizzy-bee-2.json) |
 | Dizzy Dice | 13594 | [13594-dizzy-dice.json](./13594-dizzy-dice.json) |
 | Dizzy Down the Rapids | 18543 | [18543-dizzy-down-the-rapids.json](./18543-dizzy-down-the-rapids.json) |
 | Dizzy Dwarves | 174744 | [174744-dizzy-dwarves.json](./174744-dizzy-dwarves.json) |
@@ -6573,6 +6575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donnie's Delicious Nuclear Funeral | 390521 | [390521-donnies-delicious-nuclear-funeral.json](./390521-donnies-delicious-nuclear-funeral.json) |
 | Donny Donut: Dokrats | 265689 | [265689-donny-donut-dokrats.json](./265689-donny-donut-dokrats.json) |
 | Donny Donut: Stardust | 417697 | [417697-donny-donut-stardust.json](./417697-donny-donut-stardust.json) |
+| Dono's Tale | 182194 | [182194-donos-tale.json](./182194-donos-tale.json) |
 | DoNor - Onna Tantei Ryoujoku | 131380 | [131380-donor-onna-tantei-ryoujoku.json](./131380-donor-onna-tantei-ryoujoku.json) |
 | Donpen Beat | 218966 | [218966-donpen-beat.json](./218966-donpen-beat.json) |
 | Donsol | 177521 | [177521-donsol.json](./177521-donsol.json) |
@@ -7648,6 +7651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Keeper 2 | 356182 | [356182-dragon-keeper-2.json](./356182-dragon-keeper-2.json) |
 | Dragon Khan | 383486 | [383486-dragon-khan.json](./383486-dragon-khan.json) |
 | Dragon King: The Fighting Game | 184099 | [184099-dragon-king-the-fighting-game.json](./184099-dragon-king-the-fighting-game.json) |
+| Dragon Kingdom | 182277 | [182277-dragon-kingdom.json](./182277-dragon-kingdom.json) |
 | Dragon Kingdom | 312637 | [312637-dragon-kingdom.json](./312637-dragon-kingdom.json) |
 | Dragon Kingdoms: A Legend's Beginning | 236322 | [236322-dragon-kingdoms-a-legends-beginning.json](./236322-dragon-kingdoms-a-legends-beginning.json) |
 | Dragon Kings | 269027 | [269027-dragon-kings.json](./269027-dragon-kings.json) |
