@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xerxesia | 267998 | [267998-xerxesia.json](./267998-xerxesia.json) |
 | Xevious | 12346 | [12346-xevious.json](./12346-xevious.json) |
 | Xevious 3D/G | 20133 | [20133-xevious-3d-g.json](./20133-xevious-3d-g.json) |
+| Xevious 3D/G+ | 220149 | [220149-xevious-3d-g.json](./220149-xevious-3d-g.json) |
 | Xevious: Gamp no Nazo wa Subete Toketa!? | 287669 | [287669-xevious-gamp-no-nazo-wa-subete-toketa.json](./287669-xevious-gamp-no-nazo-wa-subete-toketa.json) |
 | Xevious: Scramble Mission | 243829 | [243829-xevious-scramble-mission.json](./243829-xevious-scramble-mission.json) |
 | Xevious: The Avenger | 288845 | [288845-xevious-the-avenger.json](./288845-xevious-the-avenger.json) |
