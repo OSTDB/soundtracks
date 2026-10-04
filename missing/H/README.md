@@ -1267,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsujousei | 108856 | [108856-hatsujousei.json](./108856-hatsujousei.json) |
 | Hatsukoi Master Up | 329945 | [329945-hatsukoi-master-up.json](./329945-hatsukoi-master-up.json) |
 | Hatsune Miku Amiguru Jump | 228454 | [228454-hatsune-miku-amiguru-jump.json](./228454-hatsune-miku-amiguru-jump.json) |
+| Hatsune Miku Connecting Puzzle Tamagotori: Kagamine Rin / Len Happy 14th Birthday | 213300 | [213300-hatsune-miku-connecting-puzzle-tamagotori-kagamine-rin-len-happy-14th-birthday.json](./213300-hatsune-miku-connecting-puzzle-tamagotori-kagamine-rin-len-happy-14th-birthday.json) |
 | Hatsune Miku Jigsaw Puzzle | 194617 | [194617-hatsune-miku-jigsaw-puzzle.json](./194617-hatsune-miku-jigsaw-puzzle.json) |
 | Hatsune Miku Logic Paint | 144758 | [144758-hatsune-miku-logic-paint.json](./144758-hatsune-miku-logic-paint.json) |
 | Hatsune Miku Logic Paint S | 144759 | [144759-hatsune-miku-logic-paint-s.json](./144759-hatsune-miku-logic-paint-s.json) |
@@ -2287,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty: Carrot Story | 206192 | [206192-hello-kitty-carrot-story.json](./206192-hello-kitty-carrot-story.json) |
 | Hello Kitty: Happy Happy Family | 83209 | [83209-hello-kitty-happy-happy-family.json](./83209-hello-kitty-happy-happy-family.json) |
 | Hello Kitty: Happy Party Pals | 3689 | [3689-hello-kitty-happy-party-pals.json](./3689-hello-kitty-happy-party-pals.json) |
+| Hello Kitty: Hello Kitty's Surprise | 213277 | [213277-hello-kitty-hello-kittys-surprise.json](./213277-hello-kitty-hello-kittys-surprise.json) |
 | Hello Kitty: Hello Submarine | 206193 | [206193-hello-kitty-hello-submarine.json](./206193-hello-kitty-hello-submarine.json) |
 | Hello Kitty: Kids Hospital | 377696 | [377696-hello-kitty-kids-hospital.json](./377696-hello-kitty-kids-hospital.json) |
 | Hello Kitty: Picnic with Sanrio Friends | 7437 | [7437-hello-kitty-picnic-with-sanrio-friends.json](./7437-hello-kitty-picnic-with-sanrio-friends.json) |
@@ -3253,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex of Steel | 147277 | [147277-hex-of-steel.json](./147277-hex-of-steel.json) |
 | Hex of the Lich | 164889 | [164889-hex-of-the-lich.json](./164889-hex-of-the-lich.json) |
 | Hex Park: Master DLC | 411828 | [411828-hex-park-master-dlc.json](./411828-hex-park-master-dlc.json) |
+| Hex Picross | 213362 | [213362-hex-picross.json](./213362-hex-picross.json) |
 | Hex Pipe | 403665 | [403665-hex-pipe.json](./403665-hex-pipe.json) |
 | Hex Pool | 40172 | [40172-hex-pool.json](./40172-hex-pool.json) |
 | Hex Racer | 259061 | [259061-hex-racer.json](./259061-hex-racer.json) |
@@ -6456,6 +6459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Olympic: Challenge 5 | 385738 | [385738-hyper-olympic-challenge-5.json](./385738-hyper-olympic-challenge-5.json) |
 | Hyper Olympic: Jumping Type | 385734 | [385734-hyper-olympic-jumping-type.json](./385734-hyper-olympic-jumping-type.json) |
 | Hyper One: Space R.E.M. | 240848 | [240848-hyper-one-space-r-e-m.json](./240848-hyper-one-space-r-e-m.json) |
+| Hyper P.T. | 213364 | [213364-hyper-p-t.json](./213364-hyper-p-t.json) |
 | Hyper Pac-Man | 39806 | [39806-hyper-pac-man.json](./39806-hyper-pac-man.json) |
 | Hyper Pacman | 37337 | [37337-hyper-pacman.json](./37337-hyper-pacman.json) |
 | Hyper Paddle Block Rusher | 222323 | [222323-hyper-paddle-block-rusher.json](./222323-hyper-paddle-block-rusher.json) |
