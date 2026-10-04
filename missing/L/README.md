@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Nuclear Darkness | 158162 | [158162-last-nuclear-darkness.json](./158162-last-nuclear-darkness.json) |
 | Last Oasis | 114422 | [114422-last-oasis.json](./114422-last-oasis.json) |
 | Last of Ass | 157161 | [157161-last-of-ass.json](./157161-last-of-ass.json) |
+| Last One Standing | 176332 | [176332-last-one-standing.json](./176332-last-one-standing.json) |
 | Last Order | 235994 | [235994-last-order.json](./235994-last-order.json) |
 | Last Origin R+ | 401129 | [401129-last-origin-r.json](./401129-last-origin-r.json) |
 | Last Outlander | 224028 | [224028-last-outlander.json](./224028-last-outlander.json) |
@@ -2150,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Levania | 367018 | [367018-levania.json](./367018-levania.json) |
 | Levantar La Botella | 364512 | [364512-levantar-la-botella.json](./364512-levantar-la-botella.json) |
 | Levantera: Tale of The Winds | 71598 | [71598-levantera-tale-of-the-winds.json](./71598-levantera-tale-of-the-winds.json) |
+| Levedad | 176244 | [176244-levedad.json](./176244-levedad.json) |
 | Level | 326614 | [326614-level.json](./326614-level.json) |
 | Level 5 | 94001 | [94001-level-5.json](./94001-level-5.json) |
 | Level Crossing | 92088 | [92088-level-crossing.json](./92088-level-crossing.json) |
@@ -2666,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like a Record | 364633 | [364633-like-a-record.json](./364633-like-a-record.json) |
 | Like an Angel | 173824 | [173824-like-an-angel.json](./173824-like-an-angel.json) |
 | Like Blowing Out a Candle | 181698 | [181698-like-blowing-out-a-candle.json](./181698-like-blowing-out-a-candle.json) |
+| Like Camping | 176248 | [176248-like-camping.json](./176248-like-camping.json) |
 | Like Clockwork | 181924 | [181924-like-clockwork.json](./181924-like-clockwork.json) |
 | Like Gulls Crying at the Dawn | 136226 | [136226-like-gulls-crying-at-the-dawn.json](./136226-like-gulls-crying-at-the-dawn.json) |
 | Like Life Every Hour | 56554 | [56554-like-life-every-hour.json](./56554-like-life-every-hour.json) |
