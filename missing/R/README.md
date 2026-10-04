@@ -894,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramp Bike Jumping | 215117 | [215117-ramp-bike-jumping.json](./215117-ramp-bike-jumping.json) |
 | Ramp Bike Racing | 322072 | [322072-ramp-bike-racing.json](./322072-ramp-bike-racing.json) |
 | Ramp Car Jumping | 147852 | [147852-ramp-car-jumping.json](./147852-ramp-car-jumping.json) |
+| Rampage | 198874 | [198874-rampage.json](./198874-rampage.json) |
 | Rampage | 278053 | [278053-rampage.json](./278053-rampage.json) |
 | Rampage | 278055 | [278055-rampage.json](./278055-rampage.json) |
 | Rampage | 278056 | [278056-rampage.json](./278056-rampage.json) |
@@ -4479,6 +4480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Rash | 141271 | [141271-road-rash.json](./141271-road-rash.json) |
 | Road Rash | 249144 | [249144-road-rash.json](./249144-road-rash.json) |
 | Road Rash 2 | 327271 | [327271-road-rash-2.json](./327271-road-rash-2.json) |
+| Road Rash 3 | 198875 | [198875-road-rash-3.json](./198875-road-rash-3.json) |
 | Road Rash 64 | 3589 | [3589-road-rash-64.json](./3589-road-rash-64.json) |
 | Road Rash III | 199014 | [199014-road-rash-iii.json](./199014-road-rash-iii.json) |
 | Road Rash: Jailbreak | 44897 | [44897-road-rash-jailbreak.json](./44897-road-rash-jailbreak.json) |
@@ -4648,6 +4650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robocco Wars | 72649 | [72649-robocco-wars.json](./72649-robocco-wars.json) |
 | RoboCo | 121739 | [121739-roboco.json](./121739-roboco.json) |
 | RoboCock | 274454 | [274454-robocock.json](./274454-robocock.json) |
+| RoboCop | 198876 | [198876-robocop.json](./198876-robocop.json) |
 | RoboCop | 218942 | [218942-robocop.json](./218942-robocop.json) |
 | RoboCop | 242810 | [242810-robocop.json](./242810-robocop.json) |
 | RoboCop | 59110 | [59110-robocop.json](./59110-robocop.json) |
@@ -5645,6 +5648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ron 13:13^2: The Thickening | 71003 | [71003-ron-13-13-2-the-thickening.json](./71003-ron-13-13-2-the-thickening.json) |
 | RON Quiz Part 1 | 71239 | [71239-ron-quiz-part-1.json](./71239-ron-quiz-part-1.json) |
 | Ron-Q! Highland in DS | 123403 | [123403-ron-q-highland-in-ds.json](./123403-ron-q-highland-in-ds.json) |
+| Ronald McDonald Alphabet Fun | 198877 | [198877-ronald-mcdonald-alphabet-fun.json](./198877-ronald-mcdonald-alphabet-fun.json) |
 | Ronald McDonalds | 255715 | [255715-ronald-mcdonalds.json](./255715-ronald-mcdonalds.json) |
 | Ronald Regan Teaches Typing | 178961 | [178961-ronald-regan-teaches-typing.json](./178961-ronald-regan-teaches-typing.json) |
 | Ronald Rubberduck | 47205 | [47205-ronald-rubberduck.json](./47205-ronald-rubberduck.json) |
