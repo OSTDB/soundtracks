@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Eternal | 406903 | [406903-garden-eternal.json](./406903-garden-eternal.json) |
 | Garden for Glory: Collector's Edition | 337241 | [337241-garden-for-glory-collectors-edition.json](./337241-garden-for-glory-collectors-edition.json) |
 | Garden Gingdom | 386993 | [386993-garden-gingdom.json](./386993-garden-gingdom.json) |
+| Garden Guardian | 211109 | [211109-garden-guardian.json](./211109-garden-guardian.json) |
 | Garden Harvest | 285145 | [285145-garden-harvest.json](./285145-garden-harvest.json) |
 | Garden Hunt | 352263 | [352263-garden-hunt.json](./352263-garden-hunt.json) |
 | Garden In! | 198625 | [198625-garden-in.json](./198625-garden-in.json) |
