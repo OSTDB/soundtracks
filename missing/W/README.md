@@ -3316,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Cram Sorceries | 262901 | [262901-witch-cram-sorceries.json](./262901-witch-cram-sorceries.json) |
 | Witch Cry: Horror House | 233460 | [233460-witch-cry-horror-house.json](./233460-witch-cry-horror-house.json) |
 | Witch Epoch | 203528 | [203528-witch-epoch.json](./203528-witch-epoch.json) |
+| Witch Girl Got Killed | 212185 | [212185-witch-girl-got-killed.json](./212185-witch-girl-got-killed.json) |
 | Witch Guardians: Quest for the Ancestral Magic | 309036 | [309036-witch-guardians-quest-for-the-ancestral-magic.json](./309036-witch-guardians-quest-for-the-ancestral-magic.json) |
 | Witch Halloween | 127913 | [127913-witch-halloween.json](./127913-witch-halloween.json) |
 | Witch Hat & Ears of Cat | 225553 | [225553-witch-hat-and-ears-of-cat.json](./225553-witch-hat-and-ears-of-cat.json) |
