@@ -930,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground | 77009 | [77009-underground.json](./77009-underground.json) |
 | Underground 2077 | 174858 | [174858-underground-2077.json](./174858-underground-2077.json) |
 | Underground Above | 250917 | [250917-underground-above.json](./250917-underground-above.json) |
+| Underground Adventure | 214421 | [214421-underground-adventure.json](./214421-underground-adventure.json) |
 | Underground Blossom | 246917 | [246917-underground-blossom.json](./246917-underground-blossom.json) |
 | Underground Business | 406924 | [406924-underground-business.json](./406924-underground-business.json) |
 | Underground Defense Force: Sword and Sorcery and Swarm of Insects | 270108 | [270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json](./270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json) |
@@ -1507,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsolved Mystery Club: Amelia Earhart | 120819 | [120819-unsolved-mystery-club-amelia-earhart.json](./120819-unsolved-mystery-club-amelia-earhart.json) |
 | Unsolved Stories | 86535 | [86535-unsolved-stories.json](./86535-unsolved-stories.json) |
 | Unsorted Horror | 258669 | [258669-unsorted-horror.json](./258669-unsorted-horror.json) |
+| Unsorted VHS | 214425 | [214425-unsorted-vhs.json](./214425-unsorted-vhs.json) |
 | Unsought | 303073 | [303073-unsought.json](./303073-unsought.json) |
 | Unsouled | 124772 | [124772-unsouled.json](./124772-unsouled.json) |
 | Unspoken | 364004 | [364004-unspoken.json](./364004-unspoken.json) |
