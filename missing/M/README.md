@@ -4088,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: Dr Wily Visits Indonesia | 356694 | [356694-mega-man-dr-wily-visits-indonesia.json](./356694-mega-man-dr-wily-visits-indonesia.json) |
 | Mega Man: Dual Override | 381249 | [381249-mega-man-dual-override.json](./381249-mega-man-dual-override.json) |
 | Mega Man: Four Hounds | 215172 | [215172-mega-man-four-hounds.json](./215172-mega-man-four-hounds.json) |
+| Mega Man: Indonesian Artifact | 210506 | [210506-mega-man-indonesian-artifact.json](./210506-mega-man-indonesian-artifact.json) |
 | Mega Man: Limbo Edition | 269871 | [269871-mega-man-limbo-edition.json](./269871-mega-man-limbo-edition.json) |
 | Mega Man: Rock N Roll | 144203 | [144203-mega-man-rock-n-roll.json](./144203-mega-man-rock-n-roll.json) |
 | Mega Man: Shattered Diamond | 215151 | [215151-mega-man-shattered-diamond.json](./215151-mega-man-shattered-diamond.json) |
@@ -5132,6 +5133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal: Hellsinger | 134560 | [134560-metal-hellsinger.json](./134560-metal-hellsinger.json) |
 | Metal: Hellsinger - Complete Edition | 279779 | [279779-metal-hellsinger-complete-edition.json](./279779-metal-hellsinger-complete-edition.json) |
 | Metal: Hellsinger - Essential Hits Edition | 254056 | [254056-metal-hellsinger-essential-hits-edition.json](./254056-metal-hellsinger-essential-hits-edition.json) |
+| Metalands: Battle for CIFI | 210514 | [210514-metalands-battle-for-cifi.json](./210514-metalands-battle-for-cifi.json) |
 | MetalArms | 122418 | [122418-metalarms.json](./122418-metalarms.json) |
 | MetälBörn | 209490 | [209490-metalborn.json](./209490-metalborn.json) |
 | Metalborne | 196562 | [196562-metalborne.json](./196562-metalborne.json) |
@@ -10721,6 +10723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Name is Mayo 3 | 200699 | [200699-my-name-is-mayo-3.json](./200699-my-name-is-mayo-3.json) |
 | My Name is Sarah | 129221 | [129221-my-name-is-sarah.json](./129221-my-name-is-sarah.json) |
 | My Name is Uncle Groucho You Win a Fat Cigar | 253895 | [253895-my-name-is-uncle-groucho-you-win-a-fat-cigar.json](./253895-my-name-is-uncle-groucho-you-win-a-fat-cigar.json) |
+| My name is Uter | 210559 | [210559-my-name-is-uter.json](./210559-my-name-is-uter.json) |
 | My Naughty Shotgun | 197400 | [197400-my-naughty-shotgun.json](./197400-my-naughty-shotgun.json) |
 | My Neighbor Alice | 157044 | [157044-my-neighbor-alice.json](./157044-my-neighbor-alice.json) |
 | My Neighbor is a Yandere?! | 143062 | [143062-my-neighbor-is-a-yandere.json](./143062-my-neighbor-is-a-yandere.json) |
@@ -10941,6 +10944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Universe: Fashion Boutique | 139215 | [139215-my-universe-fashion-boutique.json](./139215-my-universe-fashion-boutique.json) |
 | My Universe: My Baby - New Edition | 170028 | [170028-my-universe-my-baby-new-edition.json](./170028-my-universe-my-baby-new-edition.json) |
 | My Universe: Pet Clinic - Cats & Dogs | 139835 | [139835-my-universe-pet-clinic-cats-and-dogs.json](./139835-my-universe-pet-clinic-cats-and-dogs.json) |
+| My Universe: Pet Clinic - Cats & Dogs: Panda Edition | 210513 | [210513-my-universe-pet-clinic-cats-and-dogs-panda-edition.json](./210513-my-universe-pet-clinic-cats-and-dogs-panda-edition.json) |
 | My Universe: Pets Edition | 221949 | [221949-my-universe-pets-edition.json](./221949-my-universe-pets-edition.json) |
 | My Universe: School Teacher | 139216 | [139216-my-universe-school-teacher.json](./139216-my-universe-school-teacher.json) |
 | My UnReal Pet | 158705 | [158705-my-unreal-pet.json](./158705-my-unreal-pet.json) |
