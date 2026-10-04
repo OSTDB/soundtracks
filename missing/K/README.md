@@ -68,8 +68,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaen no Seito | 308878 | [308878-kaen-no-seito.json](./308878-kaen-no-seito.json) |
 | Kaepernick Football | 234007 | [234007-kaepernick-football.json](./234007-kaepernick-football.json) |
 | Kaerimichi | 308892 | [308892-kaerimichi.json](./308892-kaerimichi.json) |
+| Kaeru Batake DE Tsukamaete | 218510 | [218510-kaeru-batake-de-tsukamaete.json](./218510-kaeru-batake-de-tsukamaete.json) |
 | Kaeru Batake DE Tsukamaete Portable | 218505 | [218505-kaeru-batake-de-tsukamaete-portable.json](./218505-kaeru-batake-de-tsukamaete-portable.json) |
+| Kaeru Batake DE Tsukamaete: Natsu Chigira Sansen! | 218515 | [218515-kaeru-batake-de-tsukamaete-natsu-chigira-sansen.json](./218515-kaeru-batake-de-tsukamaete-natsu-chigira-sansen.json) |
 | Kaeru Batake DE Tsukamaete: Natsu Chigira Sansen! | 60248 | [60248-kaeru-batake-de-tsukamaete-natsu-chigira-sansen.json](./60248-kaeru-batake-de-tsukamaete-natsu-chigira-sansen.json) |
+| Kaeru Batake DE Tsukamaete: Natsu Chigira Sansen! Portable | 218513 | [218513-kaeru-batake-de-tsukamaete-natsu-chigira-sansen-portable.json](./218513-kaeru-batake-de-tsukamaete-natsu-chigira-sansen-portable.json) |
 | Kaeru no Ehon: Adventure for The Lost Memories | 166514 | [166514-kaeru-no-ehon-adventure-for-the-lost-memories.json](./166514-kaeru-no-ehon-adventure-for-the-lost-memories.json) |
 | Kaeru no Tame ni Kane wa Naru | 49078 | [49078-kaeru-no-tame-ni-kane-wa-naru.json](./49078-kaeru-no-tame-ni-kane-wa-naru.json) |
 | Kaeru nyo Panyo~n | 146266 | [146266-kaeru-nyo-panyo-n.json](./146266-kaeru-nyo-panyo-n.json) |
@@ -2227,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klonoa 2: Lunatea's Veil | 9709 | [9709-klonoa-2-lunateas-veil.json](./9709-klonoa-2-lunateas-veil.json) |
 | Klonoa FanRPG | 331717 | [331717-klonoa-fanrpg.json](./331717-klonoa-fanrpg.json) |
 | Klonoa Phantasy Reverie Series | 191405 | [191405-klonoa-phantasy-reverie-series.json](./191405-klonoa-phantasy-reverie-series.json) |
+| Klonoa Phantasy Reverie Series: Digital Deluxe Edition | 218506 | [218506-klonoa-phantasy-reverie-series-digital-deluxe-edition.json](./218506-klonoa-phantasy-reverie-series-digital-deluxe-edition.json) |
 | Klonoa Phantasy Reverie Series: Special Edition | 201032 | [201032-klonoa-phantasy-reverie-series-special-edition.json](./201032-klonoa-phantasy-reverie-series-special-edition.json) |
 | Klonoa: Door to Phantomile | 270725 | [270725-klonoa-door-to-phantomile.json](./270725-klonoa-door-to-phantomile.json) |
 | Klonoa: Empire of Dreams | 6492 | [6492-klonoa-empire-of-dreams.json](./6492-klonoa-empire-of-dreams.json) |
