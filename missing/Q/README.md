@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Runners | 151006 | [151006-quantum-runners.json](./151006-quantum-runners.json) |
 | Quantum Rush Champions | 17726 | [17726-quantum-rush-champions.json](./17726-quantum-rush-champions.json) |
 | Quantum Rush Champions: Jump Start Tournament | 172121 | [172121-quantum-rush-champions-jump-start-tournament.json](./172121-quantum-rush-champions-jump-start-tournament.json) |
+| Quantum Rush Online | 212717 | [212717-quantum-rush-online.json](./212717-quantum-rush-online.json) |
 | Quantum Siege | 54725 | [54725-quantum-siege.json](./54725-quantum-siege.json) |
 | Quantum Storm | 226318 | [226318-quantum-storm.json](./226318-quantum-storm.json) |
 | Quantum Threshold | 344962 | [344962-quantum-threshold.json](./344962-quantum-threshold.json) |
