@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-LOC: Air Battle | 363999 | [363999-g-loc-air-battle.json](./363999-g-loc-air-battle.json) |
 | G-man Invasion | 222304 | [222304-g-man-invasion.json](./222304-g-man-invasion.json) |
 | G-Mode Archives 03: Kururin Cafe | 137538 | [137538-g-mode-archives-03-kururin-cafe.json](./137538-g-mode-archives-03-kururin-cafe.json) |
+| G-Mode Archives 04: Beach Volleyball Girl Shizuku | 221780 | [221780-g-mode-archives-04-beach-volleyball-girl-shizuku.json](./221780-g-mode-archives-04-beach-volleyball-girl-shizuku.json) |
 | G-Mode Archives 06: Shijou Saikyou Miyamoto Julia | 137617 | [137617-g-mode-archives-06-shijou-saikyou-miyamoto-julia.json](./137617-g-mode-archives-06-shijou-saikyou-miyamoto-julia.json) |
 | G-Mode Archives 08: Pucchin Puzzle | 137678 | [137678-g-mode-archives-08-pucchin-puzzle.json](./137678-g-mode-archives-08-pucchin-puzzle.json) |
 | G-Mode Archives 09: Flyhight Cloudia II | 137593 | [137593-g-mode-archives-09-flyhight-cloudia-ii.json](./137593-g-mode-archives-09-flyhight-cloudia-ii.json) |
@@ -746,13 +747,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameGuru: Industrial Sewer Pack | 166190 | [166190-gameguru-industrial-sewer-pack.json](./166190-gameguru-industrial-sewer-pack.json) |
 | Gamehunt | 119768 | [119768-gamehunt.json](./119768-gamehunt.json) |
 | GameKey: Disney - Disney Sports Bowling / Goofy's Underwater Adventure | 221806 | [221806-gamekey-disney-disney-sports-bowling-goofys-underwater-adventure.json](./221806-gamekey-disney-disney-sports-bowling-goofys-underwater-adventure.json) |
+| GameKey: Disney - Disney Sports Tennis / Disney Face Chase | 221799 | [221799-gamekey-disney-disney-sports-tennis-disney-face-chase.json](./221799-gamekey-disney-disney-sports-tennis-disney-face-chase.json) |
 | GameKey: Disney - Disney Sports Tennis / Disney Face Chase / The Riches of Agrabah with Disney | 221807 | [221807-gamekey-disney-disney-sports-tennis-disney-face-chase-the-riches-of-agrabah-with-disney.json](./221807-gamekey-disney-disney-sports-tennis-disney-face-chase-the-riches-of-agrabah-with-disney.json) |
+| GameKey: Disney Princess - Rescue Race / Memory Chase | 221798 | [221798-gamekey-disney-princess-rescue-race-memory-chase.json](./221798-gamekey-disney-princess-rescue-race-memory-chase.json) |
 | GameKey: Dora the Explorer - Soccer / Dora's Star Mountain Adventure | 221812 | [221812-gamekey-dora-the-explorer-soccer-doras-star-mountain-adventure.json](./221812-gamekey-dora-the-explorer-soccer-doras-star-mountain-adventure.json) |
 | GameKey: Namco - Dig Dug / New Rally X | 221809 | [221809-gamekey-namco-dig-dug-new-rally-x.json](./221809-gamekey-namco-dig-dug-new-rally-x.json) |
 | GameKey: Namco - Pac-Man / Bosconian | 221815 | [221815-gamekey-namco-pac-man-bosconian.json](./221815-gamekey-namco-pac-man-bosconian.json) |
 | GameKey: Namco - Pac-Man / Bosconian / Rally-X | 221810 | [221810-gamekey-namco-pac-man-bosconian-rally-x.json](./221810-gamekey-namco-pac-man-bosconian-rally-x.json) |
 | GameKey: Nick SpongeBob SquarePants - Sponge Pop / Snowball Showdown | 221813 | [221813-gamekey-nick-spongebob-squarepants-sponge-pop-snowball-showdown.json](./221813-gamekey-nick-spongebob-squarepants-sponge-pop-snowball-showdown.json) |
 | GameKey: Nicktoons - Nicktoons Volleyball / Birdie Putt | 221814 | [221814-gamekey-nicktoons-nicktoons-volleyball-birdie-putt.json](./221814-gamekey-nicktoons-nicktoons-volleyball-birdie-putt.json) |
+| GameKey: Spider-Man - Black Cat / Doc Ock | 221800 | [221800-gamekey-spider-man-black-cat-doc-ock.json](./221800-gamekey-spider-man-black-cat-doc-ock.json) |
 | GameKey: Star Wars - Yoda's Escape / Turret Defense | 221811 | [221811-gamekey-star-wars-yodas-escape-turret-defense.json](./221811-gamekey-star-wars-yodas-escape-turret-defense.json) |
 | GameKid | 240871 | [240871-gamekid.json](./240871-gamekid.json) |
 | GameLib | 305917 | [305917-gamelib.json](./305917-gamelib.json) |
