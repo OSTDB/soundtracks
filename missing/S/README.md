@@ -8458,6 +8458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Holiday Season | 386151 | [386151-solitaire-holiday-season.json](./386151-solitaire-holiday-season.json) |
 | Solitaire Home Story | 354999 | [354999-solitaire-home-story.json](./354999-solitaire-home-story.json) |
 | Solitaire Jester | 123427 | [123427-solitaire-jester.json](./123427-solitaire-jester.json) |
+| Solitaire Journey | 220162 | [220162-solitaire-journey.json](./220162-solitaire-journey.json) |
 | Solitaire Klondike Deluxe - classic card game | 86910 | [86910-solitaire-klondike-deluxe-classic-card-game.json](./86910-solitaire-klondike-deluxe-classic-card-game.json) |
 | Solitaire Klondike Pro. | 101601 | [101601-solitaire-klondike-pro.json](./101601-solitaire-klondike-pro.json) |
 | Solitaire Knights | 93747 | [93747-solitaire-knights.json](./93747-solitaire-knights.json) |
