@@ -4274,6 +4274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitas | 134000 | [134000-gravitas.json](./134000-gravitas.json) |
 | Gravitas | 397230 | [397230-gravitas.json](./397230-gravitas.json) |
 | Gravitas! | 259549 | [259549-gravitas.json](./259549-gravitas.json) |
+| Gravitation | 187293 | [187293-gravitation.json](./187293-gravitation.json) |
 | Gravitation | 57614 | [57614-gravitation.json](./57614-gravitation.json) |
 | Gravitational | 150150 | [150150-gravitational.json](./150150-gravitational.json) |
 | Gravitators | 157507 | [157507-gravitators.json](./157507-gravitators.json) |
@@ -4322,6 +4323,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitron | 69925 | [69925-gravitron.json](./69925-gravitron.json) |
 | Gravitron360 | 92060 | [92060-gravitron360.json](./92060-gravitron360.json) |
 | Gravitronix | 21035 | [21035-gravitronix.json](./21035-gravitronix.json) |
+| Gravitum | 187287 | [187287-gravitum.json](./187287-gravitum.json) |
+| GraviTV | 187291 | [187291-gravitv.json](./187291-gravitv.json) |
 | Gravity | 109175 | [109175-gravity.json](./109175-gravity.json) |
 | Gravity | 177540 | [177540-gravity.json](./177540-gravity.json) |
 | Gravity | 234147 | [234147-gravity.json](./234147-gravity.json) |
@@ -4358,6 +4361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Falls: Legend of the Gnome Gemulets | 44014 | [44014-gravity-falls-legend-of-the-gnome-gemulets.json](./44014-gravity-falls-legend-of-the-gnome-gemulets.json) |
 | Gravity Flip | 190204 | [190204-gravity-flip.json](./190204-gravity-flip.json) |
 | Gravity Flip X | 334912 | [334912-gravity-flip-x.json](./334912-gravity-flip-x.json) |
+| Gravity Game | 187265 | [187265-gravity-game.json](./187265-gravity-game.json) |
 | Gravity Games Bike: Street Vert Dirt | 5851 | [5851-gravity-games-bike-street-vert-dirt.json](./5851-gravity-games-bike-street-vert-dirt.json) |
 | Gravity Garden | 365759 | [365759-gravity-garden.json](./365759-gravity-garden.json) |
 | Gravity Golfing | 255054 | [255054-gravity-golfing.json](./255054-gravity-golfing.json) |
