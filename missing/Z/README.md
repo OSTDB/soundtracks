@@ -1178,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zork | 1944 | [1944-zork.json](./1944-zork.json) |
 | Zork Collection | 137464 | [137464-zork-collection.json](./137464-zork-collection.json) |
 | Zork Remake | 118444 | [118444-zork-remake.json](./118444-zork-remake.json) |
+| Zork Trilogy | 186103 | [186103-zork-trilogy.json](./186103-zork-trilogy.json) |
 | ZorkQuest: Assault on Egreth Castle | 59856 | [59856-zorkquest-assault-on-egreth-castle.json](./59856-zorkquest-assault-on-egreth-castle.json) |
 | ZorkQuest: The Crystal of Doom | 59857 | [59857-zorkquest-the-crystal-of-doom.json](./59857-zorkquest-the-crystal-of-doom.json) |
 | Zorlok | 361789 | [361789-zorlok.json](./361789-zorlok.json) |
