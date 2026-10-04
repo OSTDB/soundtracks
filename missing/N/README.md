@@ -1543,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netorare Osananajimi: Haruka to Chika | 82970 | [82970-netorare-osananajimi-haruka-to-chika.json](./82970-netorare-osananajimi-haruka-to-chika.json) |
 | Netrek | 79932 | [79932-netrek.json](./79932-netrek.json) |
 | Netronian Chaos | 198355 | [198355-netronian-chaos.json](./198355-netronian-chaos.json) |
+| NetSpace Saga Ep.1 | 174076 | [174076-netspace-saga-ep-1.json](./174076-netspace-saga-ep-1.json) |
 | Netspectre | 211225 | [211225-netspectre.json](./211225-netspectre.json) |
 | Netto de Para | 267584 | [267584-netto-de-para.json](./267584-netto-de-para.json) |
 | Netto de Tennis | 58169 | [58169-netto-de-tennis.json](./58169-netto-de-tennis.json) |
