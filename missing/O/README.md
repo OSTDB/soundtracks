@@ -2383,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otoko Cross: Naked Remix 2 | 381621 | [381621-otoko-cross-naked-remix-2.json](./381621-otoko-cross-naked-remix-2.json) |
 | Otoko Cross: Pretty Boys Dropout! | 249863 | [249863-otoko-cross-pretty-boys-dropout.json](./249863-otoko-cross-pretty-boys-dropout.json) |
 | Otoko Cross: Pretty Boys Dropout! | 259520 | [259520-otoko-cross-pretty-boys-dropout.json](./259520-otoko-cross-pretty-boys-dropout.json) |
+| Otoko Cross: Pretty Boys Klondike Solitaire | 207751 | [207751-otoko-cross-pretty-boys-klondike-solitaire.json](./207751-otoko-cross-pretty-boys-klondike-solitaire.json) |
 | Otoko Cross: Pretty Boys Mahjong Solitaire | 199569 | [199569-otoko-cross-pretty-boys-mahjong-solitaire.json](./199569-otoko-cross-pretty-boys-mahjong-solitaire.json) |
 | Otoko Dogeza Zigoku | 63870 | [63870-otoko-dogeza-zigoku.json](./63870-otoko-dogeza-zigoku.json) |
 | Otokonoko Fishing | 283848 | [283848-otokonoko-fishing.json](./283848-otokonoko-fishing.json) |
@@ -3033,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ovrdark: A Do Not Open Story | 258122 | [258122-ovrdark-a-do-not-open-story.json](./258122-ovrdark-a-do-not-open-story.json) |
 | Ovum City | 221428 | [221428-ovum-city.json](./221428-ovum-city.json) |
 | Ovus Nova | 185623 | [185623-ovus-nova.json](./185623-ovus-nova.json) |
+| Oware3D | 207863 | [207863-oware3d.json](./207863-oware3d.json) |
 | Owari | 37389 | [37389-owari.json](./37389-owari.json) |
 | Owari no Kane ga Naru mae ni: Chapter 1 - Plus Edition | 259721 | [259721-owari-no-kane-ga-naru-mae-ni-chapter-1-plus-edition.json](./259721-owari-no-kane-ga-naru-mae-ni-chapter-1-plus-edition.json) |
 | Owari no Kane ga Naru mae ni: Chapter 2 | 263135 | [263135-owari-no-kane-ga-naru-mae-ni-chapter-2.json](./263135-owari-no-kane-ga-naru-mae-ni-chapter-2.json) |
