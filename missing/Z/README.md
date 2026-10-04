@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zakantosh Cardgame | 263038 | [263038-zakantosh-cardgame.json](./263038-zakantosh-cardgame.json) |
 | Zakesta-Z | 278102 | [278102-zakesta-z.json](./278102-zakesta-z.json) |
 | Zako Slayer | 228073 | [228073-zako-slayer.json](./228073-zako-slayer.json) |
+| Zakon | 212177 | [212177-zakon.json](./212177-zakon.json) |
 | Zakuro no Aji | 37748 | [37748-zakuro-no-aji.json](./37748-zakuro-no-aji.json) |
 | Zalera Spark | 310935 | [310935-zalera-spark.json](./310935-zalera-spark.json) |
 | Zaleste | 329972 | [329972-zaleste.json](./329972-zaleste.json) |
