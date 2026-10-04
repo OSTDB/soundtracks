@@ -8690,6 +8690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dry Erase: Infinite VR Whiteboard | 51559 | [51559-dry-erase-infinite-vr-whiteboard.json](./51559-dry-erase-infinite-vr-whiteboard.json) |
 | Dry Hazard | 181718 | [181718-dry-hazard.json](./181718-dry-hazard.json) |
 | Dry Path | 181808 | [181808-dry-path.json](./181808-dry-path.json) |
+| Dry School | 217791 | [217791-dry-school.json](./217791-dry-school.json) |
 | Dry Sorrow | 271783 | [271783-dry-sorrow.json](./271783-dry-sorrow.json) |
 | Drybreed | 180715 | [180715-drybreed.json](./180715-drybreed.json) |
 | Drying Paint Simulator VR | 129003 | [129003-drying-paint-simulator-vr.json](./129003-drying-paint-simulator-vr.json) |
