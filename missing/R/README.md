@@ -952,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Thing Game | 236278 | [236278-random-thing-game.json](./236278-random-thing-game.json) |
 | Random War | 118807 | [118807-random-war.json](./118807-random-war.json) |
 | Randomax | 319752 | [319752-randomax.json](./319752-randomax.json) |
+| RandoMine | 221098 | [221098-randomine.json](./221098-randomine.json) |
 | Randomish | 217400 | [217400-randomish.json](./217400-randomish.json) |
 | Randomlands | 156602 | [156602-randomlands.json](./156602-randomlands.json) |
 | Randotura | 325694 | [325694-randotura.json](./325694-randotura.json) |
@@ -1604,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality Fighters | 20732 | [20732-reality-fighters.json](./20732-reality-fighters.json) |
 | Reality Mod | 209539 | [209539-reality-mod.json](./209539-reality-mod.json) |
 | Reality Raiders | 44216 | [44216-reality-raiders.json](./44216-reality-raiders.json) |
+| Reality Rash | 221094 | [221094-reality-rash.json](./221094-reality-rash.json) |
 | Reality Rifts | 320517 | [320517-reality-rifts.json](./320517-reality-rifts.json) |
 | Reality Stability Office | 401086 | [401086-reality-stability-office.json](./401086-reality-stability-office.json) |
 | Reality's Reverse Side | 156523 | [156523-realitys-reverse-side.json](./156523-realitys-reverse-side.json) |
