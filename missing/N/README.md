@@ -118,6 +118,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Classic Fighter Collection | 43282 | [43282-namco-classic-fighter-collection.json](./43282-namco-classic-fighter-collection.json) |
 | Namco classics volume 1 | 37331 | [37331-namco-classics-volume-1.json](./37331-namco-classics-volume-1.json) |
 | Namco classics volume 2 | 37328 | [37328-namco-classics-volume-2.json](./37328-namco-classics-volume-2.json) |
+| Namco History Vol. 1 | 220150 | [220150-namco-history-vol-1.json](./220150-namco-history-vol-1.json) |
+| Namco History Vol. 2 | 220151 | [220151-namco-history-vol-2.json](./220151-namco-history-vol-2.json) |
 | Namco Logic | 343342 | [343342-namco-logic.json](./343342-namco-logic.json) |
 | Namco Museum | 131507 | [131507-namco-museum.json](./131507-namco-museum.json) |
 | Namco Museum 50th Anniversary | 202112 | [202112-namco-museum-50th-anniversary.json](./202112-namco-museum-50th-anniversary.json) |
