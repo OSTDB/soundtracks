@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faeria: Chronicles of Gagana | 117519 | [117519-faeria-chronicles-of-gagana.json](./117519-faeria-chronicles-of-gagana.json) |
 | Faeria: Game + All DLC Bundle | 238217 | [238217-faeria-game-all-dlc-bundle.json](./238217-faeria-game-all-dlc-bundle.json) |
 | Faeria: Premium Edition | 238045 | [238045-faeria-premium-edition.json](./238045-faeria-premium-edition.json) |
+| Faerie Solitaire Classic | 182884 | [182884-faerie-solitaire-classic.json](./182884-faerie-solitaire-classic.json) |
 | Faery: Legends of Avalon | 10295 | [10295-faery-legends-of-avalon.json](./10295-faery-legends-of-avalon.json) |
 | Faery: Swapped | 298022 | [298022-faery-swapped.json](./298022-faery-swapped.json) |
 | Faewoods | 352248 | [352248-faewoods.json](./352248-faewoods.json) |
@@ -1707,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fated Haven | 61724 | [61724-fated-haven.json](./61724-fated-haven.json) |
 | Fated Kingdom | 97111 | [97111-fated-kingdom.json](./97111-fated-kingdom.json) |
 | Fated: The Silent Oath | 19013 | [19013-fated-the-silent-oath.json](./19013-fated-the-silent-oath.json) |
+| Fateful Dealings | 182868 | [182868-fateful-dealings.json](./182868-fateful-dealings.json) |
 | Fateful Destiny | 323504 | [323504-fateful-destiny.json](./323504-fateful-destiny.json) |
 | Fateline | 121003 | [121003-fateline.json](./121003-fateline.json) |
 | Fatermyth | 291159 | [291159-fatermyth.json](./291159-fatermyth.json) |
@@ -3971,6 +3973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Soccer France 2016 | 58204 | [58204-flick-soccer-france-2016.json](./58204-flick-soccer-france-2016.json) |
 | Flick Soccer! | 41516 | [41516-flick-soccer.json](./41516-flick-soccer.json) |
 | Flick Tennis | 223598 | [223598-flick-tennis.json](./223598-flick-tennis.json) |
+| FlickBlocks | 182880 | [182880-flickblocks.json](./182880-flickblocks.json) |
 | Flicker | 348871 | [348871-flicker.json](./348871-flicker.json) |
 | Flicker | 381024 | [381024-flicker.json](./381024-flicker.json) |
 | Flicklash | 259540 | [259540-flicklash.json](./259540-flicklash.json) |
