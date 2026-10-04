@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbi-T | 240780 | [240780-rabbi-t.json](./240780-rabbi-t.json) |
 | Rabbids Big Bang | 61635 | [61635-rabbids-big-bang.json](./61635-rabbids-big-bang.json) |
 | Rabbids Crazy Rush | 90356 | [90356-rabbids-crazy-rush.json](./90356-rabbids-crazy-rush.json) |
+| Rabbids Go Home | 193295 | [193295-rabbids-go-home.json](./193295-rabbids-go-home.json) |
 | Rabbids Go Home | 2190 | [2190-rabbids-go-home.json](./2190-rabbids-go-home.json) |
 | Rabbids Invasion | 131366 | [131366-rabbids-invasion.json](./131366-rabbids-invasion.json) |
 | Rabbids Lab | 50699 | [50699-rabbids-lab.json](./50699-rabbids-lab.json) |
@@ -375,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Exurbia | 249439 | [249439-radio-exurbia.json](./249439-radio-exurbia.json) |
 | Radio Fall | 202811 | [202811-radio-fall.json](./202811-radio-fall.json) |
 | Radio Flyer | 264317 | [264317-radio-flyer.json](./264317-radio-flyer.json) |
+| Radio Free Europa | 193271 | [193271-radio-free-europa.json](./193271-radio-free-europa.json) |
 | Radio General | 117643 | [117643-radio-general.json](./117643-radio-general.json) |
 | Radio General: Water Rats | 213490 | [213490-radio-general-water-rats.json](./213490-radio-general-water-rats.json) |
 | Radio Helicopter | 51159 | [51159-radio-helicopter.json](./51159-radio-helicopter.json) |
@@ -1253,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman 10th Anniversary | 193354 | [193354-rayman-10th-anniversary.json](./193354-rayman-10th-anniversary.json) |
 | Rayman 10th Anniversary | 43339 | [43339-rayman-10th-anniversary.json](./43339-rayman-10th-anniversary.json) |
 | Rayman 10th Anniversary Collection | 193355 | [193355-rayman-10th-anniversary-collection.json](./193355-rayman-10th-anniversary-collection.json) |
+| Rayman 2 | 193310 | [193310-rayman-2.json](./193310-rayman-2.json) |
 | Rayman 2 | 193316 | [193316-rayman-2.json](./193316-rayman-2.json) |
 | Rayman 2 | 193317 | [193317-rayman-2.json](./193317-rayman-2.json) |
 | Rayman 2: The Great Escape | 193313 | [193313-rayman-2-the-great-escape.json](./193313-rayman-2-the-great-escape.json) |
@@ -2827,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiem: Memento Mori | 80593 | [80593-requiem-memento-mori.json](./80593-requiem-memento-mori.json) |
 | Requiem: Rise of the Reaver | 36343 | [36343-requiem-rise-of-the-reaver.json](./36343-requiem-rise-of-the-reaver.json) |
 | Requiem: Unleashed | 341093 | [341093-requiem-unleashed.json](./341093-requiem-unleashed.json) |
+| Requisition VR | 193293 | [193293-requisition-vr.json](./193293-requisition-vr.json) |
 | ReRave | 41506 | [41506-rerave.json](./41506-rerave.json) |
 | ReRise | 293862 | [293862-rerise.json](./293862-rerise.json) |
 | Reroll | 104065 | [104065-reroll.json](./104065-reroll.json) |
@@ -4835,6 +4839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots Go Home! | 116452 | [116452-robots-go-home.json](./116452-robots-go-home.json) |
 | Robots in the Wild | 32086 | [32086-robots-in-the-wild.json](./32086-robots-in-the-wild.json) |
 | Robots Love Ice Cream | 62997 | [62997-robots-love-ice-cream.json](./62997-robots-love-ice-cream.json) |
+| Robots n Lasers | 193270 | [193270-robots-n-lasers.json](./193270-robots-n-lasers.json) |
 | Robots Runner | 259528 | [259528-robots-runner.json](./259528-robots-runner.json) |
 | Robots under attack! | 129608 | [129608-robots-under-attack.json](./129608-robots-under-attack.json) |
 | Robots With Guns | 351808 | [351808-robots-with-guns.json](./351808-robots-with-guns.json) |
@@ -5404,6 +5409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roid Chimp | 366297 | [366297-roid-chimp.json](./366297-roid-chimp.json) |
 | Roidrekt | 114954 | [114954-roidrekt.json](./114954-roidrekt.json) |
 | Roids | 264564 | [264564-roids.json](./264564-roids.json) |
+| Rojiura Glory Hole | 193264 | [193264-rojiura-glory-hole.json](./193264-rojiura-glory-hole.json) |
 | Rojiura Satsuki: Chapter Heroine Sanctuary | 225654 | [225654-rojiura-satsuki-chapter-heroine-sanctuary.json](./225654-rojiura-satsuki-chapter-heroine-sanctuary.json) |
 | Roka Blocks Game - Fun & Hexagon Puzzle | 57690 | [57690-roka-blocks-game-fun-and-hexagon-puzzle.json](./57690-roka-blocks-game-fun-and-hexagon-puzzle.json) |
 | Rokka | 157492 | [157492-rokka.json](./157492-rokka.json) |
@@ -6602,6 +6608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runner | 84538 | [84538-runner.json](./84538-runner.json) |
 | Runner Bear | 307074 | [307074-runner-bear.json](./307074-runner-bear.json) |
 | Runner Coaster | 220055 | [220055-runner-coaster.json](./220055-runner-coaster.json) |
+| Runner Party | 193306 | [193306-runner-party.json](./193306-runner-party.json) |
 | Runner Roy | 250396 | [250396-runner-roy.json](./250396-runner-roy.json) |
 | Runner's High | 266281 | [266281-runners-high.json](./266281-runners-high.json) |
 | Runner2: Good Friends Character Pack | 226929 | [226929-runner2-good-friends-character-pack.json](./226929-runner2-good-friends-character-pack.json) |
