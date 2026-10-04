@@ -5491,6 +5491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Pirates | 22272 | [22272-clumsy-pirates.json](./22272-clumsy-pirates.json) |
 | Clumsy Rush + Brawl Chess Family Bundle | 218455 | [218455-clumsy-rush-brawl-chess-family-bundle.json](./218455-clumsy-rush-brawl-chess-family-bundle.json) |
 | Clumsy Rush + Cyber Protocol | 218415 | [218415-clumsy-rush-cyber-protocol.json](./218415-clumsy-rush-cyber-protocol.json) |
+| Clumsy Rush: Ultimate Guys | 212682 | [212682-clumsy-rush-ultimate-guys.json](./212682-clumsy-rush-ultimate-guys.json) |
 | Clumsy Rush: Ultimate Guys - Complete Edition | 232998 | [232998-clumsy-rush-ultimate-guys-complete-edition.json](./232998-clumsy-rush-ultimate-guys-complete-edition.json) |
 | Clumsy Rush: Ultimate Guys - Decorations Pack 12 | 251665 | [251665-clumsy-rush-ultimate-guys-decorations-pack-12.json](./251665-clumsy-rush-ultimate-guys-decorations-pack-12.json) |
 | Clumsy Rush: Ultimate Guys - Extended Edition | 238064 | [238064-clumsy-rush-ultimate-guys-extended-edition.json](./238064-clumsy-rush-ultimate-guys-extended-edition.json) |
