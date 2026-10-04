@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Aces | 5426 | [5426-racing-aces.json](./5426-racing-aces.json) |
 | Racing Beat | 40393 | [40393-racing-beat.json](./40393-racing-beat.json) |
 | Racing Car Chaos: Extreme Stunt Showdown | 308503 | [308503-racing-car-chaos-extreme-stunt-showdown.json](./308503-racing-car-chaos-extreme-stunt-showdown.json) |
+| Racing Car Forge | 193840 | [193840-racing-car-forge.json](./193840-racing-car-forge.json) |
 | Racing City | 104588 | [104588-racing-city.json](./104588-racing-city.json) |
 | Racing Clash Club | 174816 | [174816-racing-clash-club.json](./174816-racing-clash-club.json) |
 | Racing Classics Pro: Drag Race & Real Speed | 187476 | [187476-racing-classics-pro-drag-race-and-real-speed.json](./187476-racing-classics-pro-drag-race-and-real-speed.json) |
@@ -409,6 +410,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rafflesia | 40167 | [40167-rafflesia.json](./40167-rafflesia.json) |
 | Raft | 27082 | [27082-raft.json](./27082-raft.json) |
 | Raft Rider | 22819 | [22819-raft-rider.json](./22819-raft-rider.json) |
+| Raft Survival | 193810 | [193810-raft-survival.json](./193810-raft-survival.json) |
+| Raft Survival Basics | 193794 | [193794-raft-survival-basics.json](./193794-raft-survival-basics.json) |
 | Raft Survival Evolve Simulator | 103521 | [103521-raft-survival-evolve-simulator.json](./103521-raft-survival-evolve-simulator.json) |
 | Raft Wars 2 | 220138 | [220138-raft-wars-2.json](./220138-raft-wars-2.json) |
 | Rafting Frenzy | 253367 | [253367-rafting-frenzy.json](./253367-rafting-frenzy.json) |
@@ -1047,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid Unplanned Disassembly | 176369 | [176369-rapid-unplanned-disassembly.json](./176369-rapid-unplanned-disassembly.json) |
 | RapidBrogue | 201259 | [201259-rapidbrogue.json](./201259-rapidbrogue.json) |
 | Rapis the Bullet | 260621 | [260621-rapis-the-bullet.json](./260621-rapis-the-bullet.json) |
+| Rappelz Online | 193819 | [193819-rappelz-online.json](./193819-rappelz-online.json) |
 | Rapper Life Simulation | 158710 | [158710-rapper-life-simulation.json](./158710-rapper-life-simulation.json) |
 | Rappy Bird | 61873 | [61873-rappy-bird.json](./61873-rappy-bird.json) |
 | Rapta | 315114 | [315114-rapta.json](./315114-rapta.json) |
@@ -3523,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReWire | 348839 | [348839-rewire.json](./348839-rewire.json) |
 | Rework | 310507 | [310507-rework.json](./310507-rework.json) |
 | Reworld | 130807 | [130807-reworld.json](./130807-reworld.json) |
+| Reworld | 193800 | [193800-reworld.json](./193800-reworld.json) |
 | Rewrite - DYH | 142892 | [142892-rewrite-dyh.json](./142892-rewrite-dyh.json) |
 | Rewrite the Romance: The Golden Lotus | 346567 | [346567-rewrite-the-romance-the-golden-lotus.json](./346567-rewrite-the-romance-the-golden-lotus.json) |
 | Rewritten Recalls | 269182 | [269182-rewritten-recalls.json](./269182-rewritten-recalls.json) |
@@ -3551,6 +3556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rezon | 40186 | [40186-rezon.json](./40186-rezon.json) |
 | Rezzil Player | 220710 | [220710-rezzil-player.json](./220710-rezzil-player.json) |
 | Rezzil Player: Forest Team Pack | 263130 | [263130-rezzil-player-forest-team-pack.json](./263130-rezzil-player-forest-team-pack.json) |
+| RF Project | 193820 | [193820-rf-project.json](./193820-rf-project.json) |
 | RFA Station | 244907 | [244907-rfa-station.json](./244907-rfa-station.json) |
 | rFactor | 9493 | [9493-rfactor.json](./9493-rfactor.json) |
 | rFactor 2 | 9494 | [9494-rfactor-2.json](./9494-rfactor-2.json) |
@@ -3621,6 +3627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Stars Climbing | 157196 | [157196-rhythm-stars-climbing.json](./157196-rhythm-stars-climbing.json) |
 | Rhythm Station | 277853 | [277853-rhythm-station.json](./277853-rhythm-station.json) |
 | Rhythm Storm | 239180 | [239180-rhythm-storm.json](./239180-rhythm-storm.json) |
+| Rhythm Taichi | 193797 | [193797-rhythm-taichi.json](./193797-rhythm-taichi.json) |
 | Rhythm Taichi XR | 391297 | [391297-rhythm-taichi-xr.json](./391297-rhythm-taichi-xr.json) |
 | Rhythm Tengoku | 210730 | [210730-rhythm-tengoku.json](./210730-rhythm-tengoku.json) |
 | Rhythm Tengoku | 6557 | [6557-rhythm-tengoku.json](./6557-rhythm-tengoku.json) |
