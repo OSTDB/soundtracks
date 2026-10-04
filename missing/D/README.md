@@ -7246,6 +7246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Battle Top Fuel | 192870 | [192870-drag-battle-top-fuel.json](./192870-drag-battle-top-fuel.json) |
 | Drag Fight | 208981 | [208981-drag-fight.json](./208981-drag-fight.json) |
 | Drag Journey | 215113 | [215113-drag-journey.json](./215113-drag-journey.json) |
+| Drag Journey: Nitro | 219113 | [219113-drag-journey-nitro.json](./219113-drag-journey-nitro.json) |
 | Drag Me Home | 67273 | [67273-drag-me-home.json](./67273-drag-me-home.json) |
 | Drag n Merge Numbers | 127788 | [127788-drag-n-merge-numbers.json](./127788-drag-n-merge-numbers.json) |
 | Drag Race | 18104 | [18104-drag-race.json](./18104-drag-race.json) |
@@ -8441,6 +8442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver's Education '98 | 69331 | [69331-drivers-education-98.json](./69331-drivers-education-98.json) |
 | Driver's Work Trip | 185150 | [185150-drivers-work-trip.json](./185150-drivers-work-trip.json) |
 | Driver4VR | 152871 | [152871-driver4vr.json](./152871-driver4vr.json) |
+| Driverio | 219108 | [219108-driverio.json](./219108-driverio.json) |
 | Driverio 2 | 223518 | [223518-driverio-2.json](./223518-driverio-2.json) |
 | Drivers Ed Portable | 70425 | [70425-drivers-ed-portable.json](./70425-drivers-ed-portable.json) |
 | Driving Academy 2018 Simulator | 86972 | [86972-driving-academy-2018-simulator.json](./86972-driving-academy-2018-simulator.json) |
