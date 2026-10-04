@@ -1713,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Idler | 376112 | [376112-castle-idler.json](./376112-castle-idler.json) |
 | Castle in the Darkness II | 127028 | [127028-castle-in-the-darkness-ii.json](./127028-castle-in-the-darkness-ii.json) |
 | Castle in the Sands | 404818 | [404818-castle-in-the-sands.json](./404818-castle-in-the-sands.json) |
+| Castle in the Sky: Clash of Sky Palace | 192753 | [192753-castle-in-the-sky-clash-of-sky-palace.json](./192753-castle-in-the-sky-clash-of-sky-palace.json) |
 | Castle Infinity | 63576 | [63576-castle-infinity.json](./63576-castle-infinity.json) |
 | Castle Itter: The Strangest Battle of WWII | 169423 | [169423-castle-itter-the-strangest-battle-of-wwii.json](./169423-castle-itter-the-strangest-battle-of-wwii.json) |
 | Castle Karthenfrost | 308385 | [308385-castle-karthenfrost.json](./308385-castle-karthenfrost.json) |
@@ -7449,6 +7450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coraabia | 63300 | [63300-coraabia.json](./63300-coraabia.json) |
 | Corah | 237636 | [237636-corah.json](./237636-corah.json) |
 | Coral Caper | 245794 | [245794-coral-caper.json](./245794-coral-caper.json) |
+| Coral Drive | 192781 | [192781-coral-drive.json](./192781-coral-drive.json) |
 | Coral Island | 143061 | [143061-coral-island.json](./143061-coral-island.json) |
 | Coral Island: Multiplayer & Romance | 347857 | [347857-coral-island-multiplayer-and-romance.json](./347857-coral-island-multiplayer-and-romance.json) |
 | Coral Quest | 164269 | [164269-coral-quest.json](./164269-coral-quest.json) |
@@ -8053,6 +8055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowgirl Maid Milk Cafe | 417392 | [417392-cowgirl-maid-milk-cafe.json](./417392-cowgirl-maid-milk-cafe.json) |
 | Cowgirl Trainer | 331299 | [331299-cowgirl-trainer.json](./331299-cowgirl-trainer.json) |
 | Cowhop | 239631 | [239631-cowhop.json](./239631-cowhop.json) |
+| CoWorker | 192766 | [192766-coworker.json](./192766-coworker.json) |
 | Cowpocalypse | 118382 | [118382-cowpocalypse.json](./118382-cowpocalypse.json) |
 | Cowpocalypse | 274776 | [274776-cowpocalypse.json](./274776-cowpocalypse.json) |
 | Cows Gone Mad: Battle for Pasture Prime | 411676 | [411676-cows-gone-mad-battle-for-pasture-prime.json](./411676-cows-gone-mad-battle-for-pasture-prime.json) |
