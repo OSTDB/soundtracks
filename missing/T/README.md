@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tad the Lost Explorer and the Emerald Tablet | 204124 | [204124-tad-the-lost-explorer-and-the-emerald-tablet.json](./204124-tad-the-lost-explorer-and-the-emerald-tablet.json) |
 | Tad the Lost Explorer and the Emerald Tablet: Craziest and Madness Edition | 250359 | [250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json](./250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json) |
 | Tadaima Yuusha Boshuuchuu Okawari | 37799 | [37799-tadaima-yuusha-boshuuchuu-okawari.json](./37799-tadaima-yuusha-boshuuchuu-okawari.json) |
+| Taddle Quest | 224608 | [224608-taddle-quest.json](./224608-taddle-quest.json) |
 | Tadeo Jones y el Manuscrito Perdido | 82043 | [82043-tadeo-jones-y-el-manuscrito-perdido.json](./82043-tadeo-jones-y-el-manuscrito-perdido.json) |
 | Tadpole Swimmer | 110822 | [110822-tadpole-swimmer.json](./110822-tadpole-swimmer.json) |
 | TaekwonGirl | 329087 | [329087-taekwongirl.json](./329087-taekwongirl.json) |
@@ -3239,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bakery Tales | 328475 | [328475-the-bakery-tales.json](./328475-the-bakery-tales.json) |
 | The Ball | 363961 | [363961-the-ball.json](./363961-the-ball.json) |
 | The Ball | 9402 | [9402-the-ball.json](./9402-the-ball.json) |
+| The Ball 2 | 224475 | [224475-the-ball-2.json](./224475-the-ball-2.json) |
 | The Ball Adventure | 148535 | [148535-the-ball-adventure.json](./148535-the-ball-adventure.json) |
 | The Ball Flow: Nature and Light | 199597 | [199597-the-ball-flow-nature-and-light.json](./199597-the-ball-flow-nature-and-light.json) |
 | The Ball Game: One Touch Arcade | 254694 | [254694-the-ball-game-one-touch-arcade.json](./254694-the-ball-game-one-touch-arcade.json) |
@@ -11981,6 +11983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timerunner | 161900 | [161900-timerunner.json](./161900-timerunner.json) |
 | Times | 391709 | [391709-times.json](./391709-times.json) |
 | Times & Galaxy | 248316 | [248316-times-and-galaxy.json](./248316-times-and-galaxy.json) |
+| Times Dungeon | 224593 | [224593-times-dungeon.json](./224593-times-dungeon.json) |
 | Times of Lore | 12486 | [12486-times-of-lore.json](./12486-times-of-lore.json) |
 | Times Of War | 253428 | [253428-times-of-war.json](./253428-times-of-war.json) |
 | Times Trials | 244245 | [244245-times-trials.json](./244245-times-trials.json) |
@@ -13548,6 +13551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer III - Thrones of Decay: Malakai | 296622 | [296622-total-war-warhammer-iii-thrones-of-decay-malakai.json](./296622-total-war-warhammer-iii-thrones-of-decay-malakai.json) |
 | Total War: Warhammer III - Thrones of Decay: Tamurkhan | 296621 | [296621-total-war-warhammer-iii-thrones-of-decay-tamurkhan.json](./296621-total-war-warhammer-iii-thrones-of-decay-tamurkhan.json) |
 | Total War: Warhammer III - Update 3.1 | 251222 | [251222-total-war-warhammer-iii-update-3-1.json](./251222-total-war-warhammer-iii-update-3-1.json) |
+| Total World Liberation | 224607 | [224607-total-world-liberation.json](./224607-total-world-liberation.json) |
 | Total Zugzwang | 310145 | [310145-total-zugzwang.json](./310145-total-zugzwang.json) |
 | Totality | 272278 | [272278-totality.json](./272278-totality.json) |
 | Totally Accurate Battle Simulator: Bug DLC | 239080 | [239080-totally-accurate-battle-simulator-bug-dlc.json](./239080-totally-accurate-battle-simulator-bug-dlc.json) |
