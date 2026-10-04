@@ -897,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Flying Robot | 90666 | [90666-captain-flying-robot.json](./90666-captain-flying-robot.json) |
 | Captain Forever | 29046 | [29046-captain-forever.json](./29046-captain-forever.json) |
 | Captain Forever Remix | 17360 | [17360-captain-forever-remix.json](./17360-captain-forever-remix.json) |
+| Captain Gazman: Day of the Rage | 207715 | [207715-captain-gazman-day-of-the-rage.json](./207715-captain-gazman-day-of-the-rage.json) |
 | Captain Goose | 260161 | [260161-captain-goose.json](./260161-captain-goose.json) |
 | Captain Hannon: The Belanzano | 129759 | [129759-captain-hannon-the-belanzano.json](./129759-captain-hannon-the-belanzano.json) |
 | Captain Hardcore | 278686 | [278686-captain-hardcore.json](./278686-captain-hardcore.json) |
@@ -2512,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CDF Ghostship | 16844 | [16844-cdf-ghostship.json](./16844-cdf-ghostship.json) |
 | CDL for a UFO | 386115 | [386115-cdl-for-a-ufo.json](./386115-cdl-for-a-ufo.json) |
 | Ceana the Wraithress | 314951 | [314951-ceana-the-wraithress.json](./314951-ceana-the-wraithress.json) |
+| Ceaseless | 207737 | [207737-ceaseless.json](./207737-ceaseless.json) |
 | Ceaseless | 380069 | [380069-ceaseless.json](./380069-ceaseless.json) |
 | Ceasing to be Her Demise | 57908 | [57908-ceasing-to-be-her-demise.json](./57908-ceasing-to-be-her-demise.json) |
 | Cebolinha & Floquinho | 216292 | [216292-cebolinha-and-floquinho.json](./216292-cebolinha-and-floquinho.json) |
@@ -3259,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Word Ardee | 187862 | [187862-chef-word-ardee.json](./187862-chef-word-ardee.json) |
 | Chef Yummy | 106366 | [106366-chef-yummy.json](./106366-chef-yummy.json) |
 | Chef: A Restaurant Tycoon Game | 107908 | [107908-chef-a-restaurant-tycoon-game.json](./107908-chef-a-restaurant-tycoon-game.json) |
+| Chef: A Restaurant Tycoon Game - Pizza & Baked Goods | 207730 | [207730-chef-a-restaurant-tycoon-game-pizza-and-baked-goods.json](./207730-chef-a-restaurant-tycoon-game-pizza-and-baked-goods.json) |
 | Chef: Cocktails & Drinks | 249198 | [249198-chef-cocktails-and-drinks.json](./249198-chef-cocktails-and-drinks.json) |
 | Chef's Dogma | 405054 | [405054-chefs-dogma.json](./405054-chefs-dogma.json) |
 | Chef's Tail | 144247 | [144247-chefs-tail.json](./144247-chefs-tail.json) |
