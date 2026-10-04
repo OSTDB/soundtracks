@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Escort: Kokuchou Special Night | 220567 | [220567-last-escort-kokuchou-special-night.json](./220567-last-escort-kokuchou-special-night.json) |
 | Last Escort: Shin'ya no Kokuchou Monogatari | 220566 | [220566-last-escort-shinya-no-kokuchou-monogatari.json](./220566-last-escort-shinya-no-kokuchou-monogatari.json) |
 | Last Fishing: Monster Clash | 220208 | [220208-last-fishing-monster-clash.json](./220208-last-fishing-monster-clash.json) |
+| Last Flame | 181733 | [181733-last-flame.json](./181733-last-flame.json) |
 | Last Flight | 72599 | [72599-last-flight.json](./72599-last-flight.json) |
 | Last Flip | 266396 | [266396-last-flip.json](./266396-last-flip.json) |
 | Last Floor | 130242 | [130242-last-floor.json](./130242-last-floor.json) |
