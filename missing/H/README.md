@@ -5534,6 +5534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Giant | 292 | [292-hotel-giant.json](./292-hotel-giant.json) |
 | Hotel Giant Bundle | 193738 | [193738-hotel-giant-bundle.json](./193738-hotel-giant-bundle.json) |
 | Hotel Giant: Edition 2012 | 53200 | [53200-hotel-giant-edition-2012.json](./53200-hotel-giant-edition-2012.json) |
+| Hotel Greenwood | 211644 | [211644-hotel-greenwood.json](./211644-hotel-greenwood.json) |
 | Hotel Hermes | 187832 | [187832-hotel-hermes.json](./187832-hotel-hermes.json) |
 | Hotel Hideaway | 380123 | [380123-hotel-hideaway.json](./380123-hotel-hideaway.json) |
 | Hotel Hima | 260865 | [260865-hotel-hima.json](./260865-hotel-hima.json) |
@@ -6083,6 +6084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanoid Huntress | 249794 | [249794-humanoid-huntress.json](./249794-humanoid-huntress.json) |
 | Humanolve: A Human Evolution Card Saga | 303562 | [303562-humanolve-a-human-evolution-card-saga.json](./303562-humanolve-a-human-evolution-card-saga.json) |
 | Humans 3: Evolution - Lost in Time | 39031 | [39031-humans-3-evolution-lost-in-time.json](./39031-humans-3-evolution-lost-in-time.json) |
+| Humans Are Useless | 211626 | [211626-humans-are-useless.json](./211626-humans-are-useless.json) |
 | Humans Vs Ghouls | 153372 | [153372-humans-vs-ghouls.json](./153372-humans-vs-ghouls.json) |
 | Humans vs. Monsters | 303561 | [303561-humans-vs-monsters.json](./303561-humans-vs-monsters.json) |
 | Humans vs. Vampires | 199060 | [199060-humans-vs-vampires.json](./199060-humans-vs-vampires.json) |
