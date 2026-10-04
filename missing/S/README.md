@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scare: Fatal Picture | 253871 | [253871-scare-fatal-picture.json](./253871-scare-fatal-picture.json) |
 | Scare: Fatal Picture - Manga Story | 358433 | [358433-scare-fatal-picture-manga-story.json](./358433-scare-fatal-picture-manga-story.json) |
 | Scarecropia | 279258 | [279258-scarecropia.json](./279258-scarecropia.json) |
+| Scarecrow | 176841 | [176841-scarecrow.json](./176841-scarecrow.json) |
 | Scarecrow vs. Big Butt Birds | 296389 | [296389-scarecrow-vs-big-butt-birds.json](./296389-scarecrow-vs-big-butt-birds.json) |
 | Scarecrow: Heart of Straw | 408146 | [408146-scarecrow-heart-of-straw.json](./408146-scarecrow-heart-of-straw.json) |
 | Scarecrows of Illyria | 211758 | [211758-scarecrows-of-illyria.json](./211758-scarecrows-of-illyria.json) |
@@ -10439,6 +10440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pilot 2 | 25723 | [25723-space-pilot-2.json](./25723-space-pilot-2.json) |
 | Space Pilot Alliance | 182834 | [182834-space-pilot-alliance.json](./182834-space-pilot-alliance.json) |
 | Space Pinball | 50595 | [50595-space-pinball.json](./50595-space-pinball.json) |
+| Space Pirates | 176837 | [176837-space-pirates.json](./176837-space-pirates.json) |
 | Space Pirates for Life | 241390 | [241390-space-pirates-for-life.json](./241390-space-pirates-for-life.json) |
 | Space Plane | 160216 | [160216-space-plane.json](./160216-space-plane.json) |
 | Space Planet Invader: Cosmic Power | 305788 | [305788-space-planet-invader-cosmic-power.json](./305788-space-planet-invader-cosmic-power.json) |
@@ -12343,6 +12345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stab | 264620 | [264620-stab.json](./264620-stab.json) |
 | Stab It VR.com | 310022 | [310022-stab-it-vr-com.json](./310022-stab-it-vr-com.json) |
 | Stabby Cats | 159734 | [159734-stabby-cats.json](./159734-stabby-cats.json) |
+| Stabby the Clown | 176774 | [176774-stabby-the-clown.json](./176774-stabby-the-clown.json) |
 | Stabfish 2 | 200190 | [200190-stabfish-2.json](./200190-stabfish-2.json) |
 | Stability | 43171 | [43171-stability.json](./43171-stability.json) |
 | Stabjack | 353295 | [353295-stabjack.json](./353295-stabjack.json) |
@@ -16832,6 +16835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Epic | 323814 | [323814-super-mario-epic.json](./323814-super-mario-epic.json) |
 | Super Mario Epic 3 | 323815 | [323815-super-mario-epic-3.json](./323815-super-mario-epic-3.json) |
 | Super Mario Fantasy | 300256 | [300256-super-mario-fantasy.json](./300256-super-mario-fantasy.json) |
+| Super Mario Flash | 176865 | [176865-super-mario-flash.json](./176865-super-mario-flash.json) |
 | Super Mario Flash 2 | 183605 | [183605-super-mario-flash-2.json](./183605-super-mario-flash-2.json) |
 | Super Mario Flash 2: SMW Remake | 198502 | [198502-super-mario-flash-2-smw-remake.json](./198502-super-mario-flash-2-smw-remake.json) |
 | Super Mario Flashback | 134075 | [134075-super-mario-flashback.json](./134075-super-mario-flashback.json) |
