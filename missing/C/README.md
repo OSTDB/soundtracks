@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | C out | 37302 | [37302-c-out.json](./37302-c-out.json) |
 | C So! | 6095 | [6095-c-so.json](./6095-c-so.json) |
+| C ya laterrrr | 177817 | [177817-c-ya-laterrrr.json](./177817-c-ya-laterrrr.json) |
 | C-Dogs SDL | 182203 | [182203-c-dogs-sdl.json](./182203-c-dogs-sdl.json) |
 | C-evo | 10033 | [10033-c-evo.json](./10033-c-evo.json) |
 | C-Rush | 16833 | [16833-c-rush.json](./16833-c-rush.json) |
@@ -2660,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cemantle & Pedantle | 194956 | [194956-cemantle-and-pedantle.json](./194956-cemantle-and-pedantle.json) |
 | Cement Truck | 105921 | [105921-cement-truck.json](./105921-cement-truck.json) |
 | Cemetary | 276401 | [276401-cemetary.json](./276401-cemetary.json) |
+| Cemetery Mary | 177883 | [177883-cemetery-mary.json](./177883-cemetery-mary.json) |
 | Cemetery Warrior 3 | 29991 | [29991-cemetery-warrior-3.json](./29991-cemetery-warrior-3.json) |
 | Cendovia Uprising | 346664 | [346664-cendovia-uprising.json](./346664-cendovia-uprising.json) |
 | Cendric | 81045 | [81045-cendric.json](./81045-cendric.json) |
@@ -3176,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaser | 380072 | [380072-chaser.json](./380072-chaser.json) |
 | Chaseway | 179586 | [179586-chaseway.json](./179586-chaseway.json) |
 | Chasing Aurora | 20882 | [20882-chasing-aurora.json](./20882-chasing-aurora.json) |
+| Chasing Birds | 177880 | [177880-chasing-birds.json](./177880-chasing-birds.json) |
 | Chasing Bottaflies | 286567 | [286567-chasing-bottaflies.json](./286567-chasing-bottaflies.json) |
 | Chasing Demons | 150553 | [150553-chasing-demons.json](./150553-chasing-demons.json) |
 | Chasing Kaleidorider | 343321 | [343321-chasing-kaleidorider.json](./343321-chasing-kaleidorider.json) |
@@ -6495,6 +6498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combo Haven | 287212 | [287212-combo-haven.json](./287212-combo-haven.json) |
 | Combo King | 185478 | [185478-combo-king.json](./185478-combo-king.json) |
 | Combo Master | 364711 | [364711-combo-master.json](./364711-combo-master.json) |
+| Combo Pool | 177876 | [177876-combo-pool.json](./177876-combo-pool.json) |
 | Combo Postage | 112496 | [112496-combo-postage.json](./112496-combo-postage.json) |
 | Combo Quest 2 | 102768 | [102768-combo-quest-2.json](./102768-combo-quest-2.json) |
 | Combo! | 184405 | [184405-combo.json](./184405-combo.json) |
@@ -10265,6 +10269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Swamp Escape 3 | 315470 | [315470-cursed-swamp-escape-3.json](./315470-cursed-swamp-escape-3.json) |
 | Cursed Theatre Escape | 315583 | [315583-cursed-theatre-escape.json](./315583-cursed-theatre-escape.json) |
 | Cursed Toy | 387650 | [387650-cursed-toy.json](./387650-cursed-toy.json) |
+| Cursed Travels: Flame of the Banshee | 177872 | [177872-cursed-travels-flame-of-the-banshee.json](./177872-cursed-travels-flame-of-the-banshee.json) |
 | Cursed Travels: Sunken City | 202421 | [202421-cursed-travels-sunken-city.json](./202421-cursed-travels-sunken-city.json) |
 | Cursed Travels: The Shattered Labyrinth | 179718 | [179718-cursed-travels-the-shattered-labyrinth.json](./179718-cursed-travels-the-shattered-labyrinth.json) |
 | Cursed Treasure: Don't Touch My Gems! | 141844 | [141844-cursed-treasure-dont-touch-my-gems.json](./141844-cursed-treasure-dont-touch-my-gems.json) |
