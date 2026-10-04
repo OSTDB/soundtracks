@@ -4779,6 +4779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Mahjong | 6113 | [6113-home-mahjong.json](./6113-home-mahjong.json) |
 | Home Makeover: Hidden Object | 146710 | [146710-home-makeover-hidden-object.json](./146710-home-makeover-hidden-object.json) |
 | Home Office Simulator | 223391 | [223391-home-office-simulator.json](./223391-home-office-simulator.json) |
+| Home on Prom Night | 184968 | [184968-home-on-prom-night.json](./184968-home-on-prom-night.json) |
 | Home Path | 294940 | [294940-home-path.json](./294940-home-path.json) |
 | Home Pin 2: Family Adventure | 227362 | [227362-home-pin-2-family-adventure.json](./227362-home-pin-2-family-adventure.json) |
 | Home Quest | 227242 | [227242-home-quest.json](./227242-home-quest.json) |
@@ -5094,6 +5095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop n Pee Dreams VR | 259094 | [259094-hop-n-pee-dreams-vr.json](./259094-hop-n-pee-dreams-vr.json) |
 | Hop N' Drop | 265186 | [265186-hop-n-drop.json](./265186-hop-n-drop.json) |
 | Hop N' Swap | 340481 | [340481-hop-n-swap.json](./340481-hop-n-swap.json) |
+| Hop Off | 184958 | [184958-hop-off.json](./184958-hop-off.json) |
 | Hop Rocket | 384806 | [384806-hop-rocket.json](./384806-hop-rocket.json) |
 | Hop Skip Jump | 149014 | [149014-hop-skip-jump.json](./149014-hop-skip-jump.json) |
 | Hop Spring Girl | 296658 | [296658-hop-spring-girl.json](./296658-hop-spring-girl.json) |
@@ -5396,6 +5398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshizora Testudou to Shiro no Tabi | 147405 | [147405-hoshizora-testudou-to-shiro-no-tabi.json](./147405-hoshizora-testudou-to-shiro-no-tabi.json) |
 | Hospice | 55161 | [55161-hospice.json](./55161-hospice.json) |
 | Hospital 9: Puzzles | 163417 | [163417-hospital-9-puzzles.json](./163417-hospital-9-puzzles.json) |
+| Hospital Black River | 184961 | [184961-hospital-black-river.json](./184961-hospital-black-river.json) |
 | Hospital Doctor: Fix me up for Kids (Boys & Girls) | 257881 | [257881-hospital-doctor-fix-me-up-for-kids-boys-and-girls.json](./257881-hospital-doctor-fix-me-up-for-kids-boys-and-girls.json) |
 | Hospital Haste | 54084 | [54084-hospital-haste.json](./54084-hospital-haste.json) |
 | Hospital Havoc | 85179 | [85179-hospital-havoc.json](./85179-hospital-havoc.json) |
