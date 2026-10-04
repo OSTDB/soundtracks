@@ -5068,6 +5068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Max Xeno: Limited Edition | 201054 | [201054-metal-max-xeno-limited-edition.json](./201054-metal-max-xeno-limited-edition.json) |
 | Metal Max: Fireworks | 75850 | [75850-metal-max-fireworks.json](./75850-metal-max-fireworks.json) |
 | Metal Mech: Man & Machine | 48082 | [48082-metal-mech-man-and-machine.json](./48082-metal-mech-man-and-machine.json) |
+| Metal Miners | 212680 | [212680-metal-miners.json](./212680-metal-miners.json) |
 | Metal Mission 2015: Dino Island | 259567 | [259567-metal-mission-2015-dino-island.json](./259567-metal-mission-2015-dino-island.json) |
 | Metal Morph | 42556 | [42556-metal-morph.json](./42556-metal-morph.json) |
 | Metal Mutant | 10852 | [10852-metal-mutant.json](./10852-metal-mutant.json) |
@@ -10489,6 +10490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Giant Sexy Sensei Bullies Me 8 | 384732 | [384732-my-giant-sexy-sensei-bullies-me-8.json](./384732-my-giant-sexy-sensei-bullies-me-8.json) |
 | My Giant Sexy Sensei Bullies Me 9 | 384735 | [384735-my-giant-sexy-sensei-bullies-me-9.json](./384735-my-giant-sexy-sensei-bullies-me-9.json) |
 | My Girlfriend | 81184 | [81184-my-girlfriend.json](./81184-my-girlfriend.json) |
+| My Girlfriend is a Mermaid!? | 212712 | [212712-my-girlfriend-is-a-mermaid.json](./212712-my-girlfriend-is-a-mermaid.json) |
 | My Girlfriend is a Mermaid!? Refine | 188642 | [188642-my-girlfriend-is-a-mermaid-refine.json](./188642-my-girlfriend-is-a-mermaid-refine.json) |
 | My Girlfriend is a Mermaid!? Refine: Limited Edition | 188645 | [188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json](./188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json) |
 | My Girlfriend is a Musician | 195171 | [195171-my-girlfriend-is-a-musician.json](./195171-my-girlfriend-is-a-musician.json) |
@@ -10633,6 +10635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Dog Adventure | 146772 | [146772-my-little-dog-adventure.json](./146772-my-little-dog-adventure.json) |
 | My Little Farm | 391620 | [391620-my-little-farm.json](./391620-my-little-farm.json) |
 | My Little Fast Food Booth | 147457 | [147457-my-little-fast-food-booth.json](./147457-my-little-fast-food-booth.json) |
+| My Little Forest | 212848 | [212848-my-little-forest.json](./212848-my-little-forest.json) |
 | My Little Foundation: Containment is Magic | 352348 | [352348-my-little-foundation-containment-is-magic.json](./352348-my-little-foundation-containment-is-magic.json) |
 | My Little Friend Chibi | 391738 | [391738-my-little-friend-chibi.json](./391738-my-little-friend-chibi.json) |
 | My Little Fruit Juice Booth | 153820 | [153820-my-little-fruit-juice-booth.json](./153820-my-little-fruit-juice-booth.json) |
