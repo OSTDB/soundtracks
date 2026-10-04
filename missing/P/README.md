@@ -5747,6 +5747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Eclesia | 306671 | [306671-pokemon-eclesia.json](./306671-pokemon-eclesia.json) |
 | Pokémon Edición Reloaded | 250629 | [250629-pokemon-edicion-reloaded.json](./250629-pokemon-edicion-reloaded.json) |
 | Pokémon Edición Team Rocket | 353274 | [353274-pokemon-edicion-team-rocket.json](./353274-pokemon-edicion-team-rocket.json) |
+| Pokémon Electronic Battle Arena | 198862 | [198862-pokemon-electronic-battle-arena.json](./198862-pokemon-electronic-battle-arena.json) |
 | Pokémon Elite Redux | 261954 | [261954-pokemon-elite-redux.json](./261954-pokemon-elite-redux.json) |
 | Pokémon Emerald BR Deluxe | 335433 | [335433-pokemon-emerald-br-deluxe.json](./335433-pokemon-emerald-br-deluxe.json) |
 | Pokémon Emerald Crest | 267421 | [267421-pokemon-emerald-crest.json](./267421-pokemon-emerald-crest.json) |
@@ -5812,6 +5813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
 | Pokémon Hoenn's Last Wish | 396514 | [396514-pokemon-hoenns-last-wish.json](./396514-pokemon-hoenns-last-wish.json) |
 | Pokémon Home | 141960 | [141960-pokemon-home.json](./141960-pokemon-home.json) |
+| Pokémon I Choose You Challenge | 198863 | [198863-pokemon-i-choose-you-challenge.json](./198863-pokemon-i-choose-you-challenge.json) |
 | Pokémon Infinite Fusion 2: Hoenn | 406249 | [406249-pokemon-infinite-fusion-2-hoenn.json](./406249-pokemon-infinite-fusion-2-hoenn.json) |
 | Pokémon Infinite Heardle | 283399 | [283399-pokemon-infinite-heardle.json](./283399-pokemon-infinite-heardle.json) |
 | Pokémon Island | 202405 | [202405-pokemon-island.json](./202405-pokemon-island.json) |
@@ -5873,6 +5875,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Platinum Version PC Port | 403089 | [403089-pokemon-platinum-version-pc-port.json](./403089-pokemon-platinum-version-pc-port.json) |
 | Pokémon Play It! | 80213 | [80213-pokemon-play-it.json](./80213-pokemon-play-it.json) |
 | Pokémon Play It! Version 2 | 24959 | [24959-pokemon-play-it-version-2.json](./24959-pokemon-play-it-version-2.json) |
+| Pokémon Poké Ball | 198864 | [198864-pokemon-poke-ball.json](./198864-pokemon-poke-ball.json) |
+| Pokémon Pokédex Organizer | 198865 | [198865-pokemon-pokedex-organizer.json](./198865-pokemon-pokedex-organizer.json) |
 | Pokémon Polished Crystal | 220866 | [220866-pokemon-polished-crystal.json](./220866-pokemon-polished-crystal.json) |
 | Pokémon Potassium | 360040 | [360040-pokemon-potassium.json](./360040-pokemon-potassium.json) |
 | Pokémon Prism | 129588 | [129588-pokemon-prism.json](./129588-pokemon-prism.json) |
@@ -6122,6 +6126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police & Gang | 385740 | [385740-police-and-gang.json](./385740-police-and-gang.json) |
 | Police 911 | 77016 | [77016-police-911.json](./77016-police-911.json) |
 | Police 911 2 | 97483 | [97483-police-911-2.json](./97483-police-911-2.json) |
+| Police Academy | 198867 | [198867-police-academy.json](./198867-police-academy.json) |
 | Police Air Transporter | 104226 | [104226-police-air-transporter.json](./104226-police-air-transporter.json) |
 | Police Atv Offroad | 309872 | [309872-police-atv-offroad.json](./309872-police-atv-offroad.json) |
 | Police Blazel | 98018 | [98018-police-blazel.json](./98018-police-blazel.json) |
@@ -6198,6 +6203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polluted Flesh | 416117 | [416117-polluted-flesh.json](./416117-polluted-flesh.json) |
 | Pollution | 316416 | [316416-pollution.json](./316416-pollution.json) |
 | Pollux | 40255 | [40255-pollux.json](./40255-pollux.json) |
+| Polly Pocket | 198868 | [198868-polly-pocket.json](./198868-polly-pocket.json) |
 | Polly Pocket: Flower Surprises | 293183 | [293183-polly-pocket-flower-surprises.json](./293183-polly-pocket-flower-surprises.json) |
 | Polly Pocket: Polly Party Pickup | 293182 | [293182-polly-pocket-polly-party-pickup.json](./293182-polly-pocket-polly-party-pickup.json) |
 | Polly Pocket: Polly's Beautiful Bedroom | 293185 | [293185-polly-pocket-pollys-beautiful-bedroom.json](./293185-polly-pocket-pollys-beautiful-bedroom.json) |
@@ -6356,6 +6362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pondemonium | 372057 | [372057-pondemonium.json](./372057-pondemonium.json) |
 | Ponder Club | 394542 | [394542-ponder-club.json](./394542-ponder-club.json) |
 | Pondlife | 384543 | [384543-pondlife.json](./384543-pondlife.json) |
+| Pong | 198869 | [198869-pong.json](./198869-pong.json) |
 | Pong - Old School | 86705 | [86705-pong-old-school.json](./86705-pong-old-school.json) |
 | Pong Champion VR | 31944 | [31944-pong-champion-vr.json](./31944-pong-champion-vr.json) |
 | Pong de las Tortugas Ninja | 195513 | [195513-pong-de-las-tortugas-ninja.json](./195513-pong-de-las-tortugas-ninja.json) |
@@ -9244,6 +9251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo!! Quest | 80188 | [80188-puyo-puyo-quest.json](./80188-puyo-puyo-quest.json) |
 | Puyo Puyo!! Quest Arcade | 251092 | [251092-puyo-puyo-quest-arcade.json](./251092-puyo-puyo-quest-arcade.json) |
 | Puyo! Sokoban | 367944 | [367944-puyo-sokoban.json](./367944-puyo-sokoban.json) |
+| Puyolin | 198873 | [198873-puyolin.json](./198873-puyolin.json) |
 | Puzigo | 416601 | [416601-puzigo.json](./416601-puzigo.json) |
 | Puzkend | 68930 | [68930-puzkend.json](./68930-puzkend.json) |
 | Puzz 3D: The Orient Express | 70932 | [70932-puzz-3d-the-orient-express.json](./70932-puzz-3d-the-orient-express.json) |
