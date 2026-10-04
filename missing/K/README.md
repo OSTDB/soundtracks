@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout Peoples: Chotto Zankoku na Hakurankai | 260745 | [260745-knockout-peoples-chotto-zankoku-na-hakurankai.json](./260745-knockout-peoples-chotto-zankoku-na-hakurankai.json) |
 | Knorrig the Gifted Troublemaker | 229609 | [229609-knorrig-the-gifted-troublemaker.json](./229609-knorrig-the-gifted-troublemaker.json) |
 | Knossos | 55497 | [55497-knossos.json](./55497-knossos.json) |
+| Knossu | 220571 | [220571-knossu.json](./220571-knossu.json) |
 | Knot Fiction! | 144202 | [144202-knot-fiction.json](./144202-knot-fiction.json) |
 | Knot in 3D | 79303 | [79303-knot-in-3d.json](./79303-knot-in-3d.json) |
 | Knot My Job | 410403 | [410403-knot-my-job.json](./410403-knot-my-job.json) |
