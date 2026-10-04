@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl Opal | 354444 | [354444-magical-girl-opal.json](./354444-magical-girl-opal.json) |
 | Magical Girl Paranoids | 297746 | [297746-magical-girl-paranoids.json](./297746-magical-girl-paranoids.json) |
 | Magical Girl Sarah: Her Dark Skin Clouded White With Cum | 82794 | [82794-magical-girl-sarah-her-dark-skin-clouded-white-with-cum.json](./82794-magical-girl-sarah-her-dark-skin-clouded-white-with-cum.json) |
+| Magical girl story | 193811 | [193811-magical-girl-story.json](./193811-magical-girl-story.json) |
 | Magical Girl Witch Trials: Famitsu DX Pack | 403787 | [403787-magical-girl-witch-trials-famitsu-dx-pack.json](./403787-magical-girl-witch-trials-famitsu-dx-pack.json) |
 | Magical Girl Yusya-chan and the Labyrinth of Lust | 406694 | [406694-magical-girl-yusya-chan-and-the-labyrinth-of-lust.json](./406694-magical-girl-yusya-chan-and-the-labyrinth-of-lust.json) |
 | Magical Girl: Final Pink Star | 389715 | [389715-magical-girl-final-pink-star.json](./389715-magical-girl-final-pink-star.json) |
@@ -7605,6 +7606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern War | 100206 | [100206-modern-war.json](./100206-modern-war.json) |
 | Modern War by Gree | 39186 | [39186-modern-war-by-gree.json](./39186-modern-war-by-gree.json) |
 | Modern War Simulator: Advance Under Air Raid | 169448 | [169448-modern-war-simulator-advance-under-air-raid.json](./169448-modern-war-simulator-advance-under-air-raid.json) |
+| Modern Warplanes | 193818 | [193818-modern-warplanes.json](./193818-modern-warplanes.json) |
 | Modern Warships: Sea Battle Online | 174797 | [174797-modern-warships-sea-battle-online.json](./174797-modern-warships-sea-battle-online.json) |
 | Modern Zombie | 24943 | [24943-modern-zombie.json](./24943-modern-zombie.json) |
 | ModernArcheryVR | 100832 | [100832-modernarcheryvr.json](./100832-modernarcheryvr.json) |
