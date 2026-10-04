@@ -1596,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Heaven | 278142 | [278142-path-of-heaven.json](./278142-path-of-heaven.json) |
 | Path of Hero. Story of Dartes | 310216 | [310216-path-of-hero-story-of-dartes.json](./310216-path-of-hero-story-of-dartes.json) |
 | Path of Immortals | 194027 | [194027-path-of-immortals.json](./194027-path-of-immortals.json) |
+| Path of Shadows | 184949 | [184949-path-of-shadows.json](./184949-path-of-shadows.json) |
 | Path of Sin: Greed | 107734 | [107734-path-of-sin-greed.json](./107734-path-of-sin-greed.json) |
 | Path of Survival | 412274 | [412274-path-of-survival.json](./412274-path-of-survival.json) |
 | Path of Tengri | 202716 | [202716-path-of-tengri.json](./202716-path-of-tengri.json) |
@@ -7658,6 +7659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Break | 110781 | [110781-prison-break.json](./110781-prison-break.json) |
 | Prison Break | 353368 | [353368-prison-break.json](./353368-prison-break.json) |
 | Prison Break: The Conspiracy | 557 | [557-prison-break-the-conspiracy.json](./557-prison-break-the-conspiracy.json) |
+| Prison Bros | 184957 | [184957-prison-bros.json](./184957-prison-bros.json) |
 | Prison Chainball Massacre | 75170 | [75170-prison-chainball-massacre.json](./75170-prison-chainball-massacre.json) |
 | Prison City | 226729 | [226729-prison-city.json](./226729-prison-city.json) |
 | Prison Empire Tycoon: Idle Game | 231907 | [231907-prison-empire-tycoon-idle-game.json](./231907-prison-empire-tycoon-idle-game.json) |
@@ -8998,6 +9000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Lunch: Foodtruck Fighter | 364698 | [364698-punch-lunch-foodtruck-fighter.json](./364698-punch-lunch-foodtruck-fighter.json) |
 | Punch Max | 302471 | [302471-punch-max.json](./302471-punch-max.json) |
 | Punch Monk | 331513 | [331513-punch-monk.json](./331513-punch-monk.json) |
+| Punch Pong | 184983 | [184983-punch-pong.json](./184983-punch-pong.json) |
 | Punch Quest | 41505 | [41505-punch-quest.json](./41505-punch-quest.json) |
 | Punch the Monkey! Game Edition | 66201 | [66201-punch-the-monkey-game-edition.json](./66201-punch-the-monkey-game-edition.json) |
 | Punch the Rats | 104102 | [104102-punch-the-rats.json](./104102-punch-the-rats.json) |
