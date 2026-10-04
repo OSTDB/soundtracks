@@ -6514,6 +6514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Bowling | 65451 | [65451-doodle-bowling.json](./65451-doodle-bowling.json) |
 | Doodle Cat | 343797 | [343797-doodle-cat.json](./343797-doodle-cat.json) |
 | Doodle Cats | 320325 | [320325-doodle-cats.json](./320325-doodle-cats.json) |
+| Doodle Champs | 211629 | [211629-doodle-champs.json](./211629-doodle-champs.json) |
 | Doodle Creatures HD | 100873 | [100873-doodle-creatures-hd.json](./100873-doodle-creatures-hd.json) |
 | Doodle Date | 96632 | [96632-doodle-date.json](./96632-doodle-date.json) |
 | Doodle Defense | 366295 | [366295-doodle-defense.json](./366295-doodle-defense.json) |
@@ -7222,6 +7223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draconic Evolution | 232672 | [232672-draconic-evolution.json](./232672-draconic-evolution.json) |
 | Draconic Order VR | 31925 | [31925-draconic-order-vr.json](./31925-draconic-order-vr.json) |
 | Draconis Race | 358440 | [358440-draconis-race.json](./358440-draconis-race.json) |
+| Draconis Volatus | 211777 | [211777-draconis-volatus.json](./211777-draconis-volatus.json) |
 | Dracu-Riot! | 137087 | [137087-dracu-riot.json](./137087-dracu-riot.json) |
 | Dracula | 174104 | [174104-dracula.json](./174104-dracula.json) |
 | Dracula | 18588 | [18588-dracula.json](./18588-dracula.json) |
@@ -8105,6 +8107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Storm | 189047 | [189047-dream-storm.json](./189047-dream-storm.json) |
 | Dream Survivors | 297085 | [297085-dream-survivors.json](./297085-dream-survivors.json) |
 | Dream Syndrome | 138269 | [138269-dream-syndrome.json](./138269-dream-syndrome.json) |
+| Dream Tactics | 211623 | [211623-dream-tactics.json](./211623-dream-tactics.json) |
 | Dream Tale | 36047 | [36047-dream-tale.json](./36047-dream-tale.json) |
 | Dream Tape LLC | 408910 | [408910-dream-tape-llc.json](./408910-dream-tape-llc.json) |
 | Dream Team Basketball | 229005 | [229005-dream-team-basketball.json](./229005-dream-team-basketball.json) |
@@ -8331,6 +8334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Empire | 390257 | [390257-drift-empire.json](./390257-drift-empire.json) |
 | Drift Gang | 372449 | [372449-drift-gang.json](./372449-drift-gang.json) |
 | Drift Girls | 58786 | [58786-drift-girls.json](./58786-drift-girls.json) |
+| Drift Go | 211770 | [211770-drift-go.json](./211770-drift-go.json) |
 | Drift Highway: Retro Console Edition | 365855 | [365855-drift-highway-retro-console-edition.json](./365855-drift-highway-retro-console-edition.json) |
 | Drift Hunters | 145530 | [145530-drift-hunters.json](./145530-drift-hunters.json) |
 | Drift It! | 87013 | [87013-drift-it.json](./87013-drift-it.json) |
