@@ -1425,6 +1425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malvinas: La Ultima Carta | 303645 | [303645-malvinas-la-ultima-carta.json](./303645-malvinas-la-ultima-carta.json) |
 | Malvirta Station | 271459 | [271459-malvirta-station.json](./271459-malvirta-station.json) |
 | Malware Derby | 244896 | [244896-malware-derby.json](./244896-malware-derby.json) |
+| Malware Rewritten | 217353 | [217353-malware-rewritten.json](./217353-malware-rewritten.json) |
 | Malzbie's Pinball Collection | 74463 | [74463-malzbies-pinball-collection.json](./74463-malzbies-pinball-collection.json) |
 | Malzbie's Pinball Collection: Carnival Table | 166015 | [166015-malzbies-pinball-collection-carnival-table.json](./166015-malzbies-pinball-collection-carnival-table.json) |
 | Malzbie's Pinball Collection: The Garden Table | 166016 | [166016-malzbies-pinball-collection-the-garden-table.json](./166016-malzbies-pinball-collection-the-garden-table.json) |
@@ -5159,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaplace | 78077 | [78077-metaplace.json](./78077-metaplace.json) |
 | Metarun | 234754 | [234754-metarun.json](./234754-metarun.json) |
 | MetaShooter | 211673 | [211673-metashooter.json](./211673-metashooter.json) |
+| Metasweeper | 217352 | [217352-metasweeper.json](./217352-metasweeper.json) |
 | Metathrone | 173771 | [173771-metathrone.json](./173771-metathrone.json) |
 | MetaTron | 33213 | [33213-metatron.json](./33213-metatron.json) |
 | Metavaxx | 159052 | [159052-metavaxx.json](./159052-metavaxx.json) |
@@ -7132,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mist of Chaos | 7368 | [7368-mist-of-chaos.json](./7368-mist-of-chaos.json) |
 | Mist of the Dark | 60059 | [60059-mist-of-the-dark.json](./60059-mist-of-the-dark.json) |
 | Mist of the Undead | 148484 | [148484-mist-of-the-undead.json](./148484-mist-of-the-undead.json) |
+| Mist Slayer | 217221 | [217221-mist-slayer.json](./217221-mist-slayer.json) |
 | Mist Survival | 108349 | [108349-mist-survival.json](./108349-mist-survival.json) |
 | Mist Survivor | 296982 | [296982-mist-survivor.json](./296982-mist-survivor.json) |
 | Mistake | 189188 | [189188-mistake.json](./189188-mistake.json) |
