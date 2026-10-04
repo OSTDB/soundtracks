@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-Ho Kablammo | 67690 | [67690-yo-ho-kablammo.json](./67690-yo-ho-kablammo.json) |
 | Yo-Ho-Ho Cannon | 349842 | [349842-yo-ho-ho-cannon.json](./349842-yo-ho-ho-cannon.json) |
 | Yo-Jin-Bo: The Bodyguards | 72679 | [72679-yo-jin-bo-the-bodyguards.json](./72679-yo-jin-bo-the-bodyguards.json) |
+| Yo-Jin-Bo: Unmei no Freude | 200010 | [200010-yo-jin-bo-unmei-no-freude.json](./200010-yo-jin-bo-unmei-no-freude.json) |
 | Yo-Kai Dictionary | 57026 | [57026-yo-kai-dictionary.json](./57026-yo-kai-dictionary.json) |
 | Yo-kai Sangokushi: Kunitori Wars | 77356 | [77356-yo-kai-sangokushi-kunitori-wars.json](./77356-yo-kai-sangokushi-kunitori-wars.json) |
 | Yo-Kai Watch 1 for Nintendo Switch | 136357 | [136357-yo-kai-watch-1-for-nintendo-switch.json](./136357-yo-kai-watch-1-for-nintendo-switch.json) |
@@ -346,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-Kai Watch Wibble Wobble | 79191 | [79191-yo-kai-watch-wibble-wobble.json](./79191-yo-kai-watch-wibble-wobble.json) |
 | Yo-Kai Watch Wibble Wobble: The Great Detective Nekomata | 397922 | [397922-yo-kai-watch-wibble-wobble-the-great-detective-nekomata.json](./397922-yo-kai-watch-wibble-wobble-the-great-detective-nekomata.json) |
 | Yo-kai Watch World | 104254 | [104254-yo-kai-watch-world.json](./104254-yo-kai-watch-world.json) |
+| Yo-Kai Watch: Puni-Puni | 199971 | [199971-yo-kai-watch-puni-puni.json](./199971-yo-kai-watch-puni-puni.json) |
 | Yo, Matias 2: Fantasmas y Calabazas | 343312 | [343312-yo-matias-2-fantasmas-y-calabazas.json](./343312-yo-matias-2-fantasmas-y-calabazas.json) |
 | Yo, Matias 3: Cazador de Golosinas | 343947 | [343947-yo-matias-3-cazador-de-golosinas.json](./343947-yo-matias-3-cazador-de-golosinas.json) |
 | Yo, Matias 4: Viajero del Tiempo | 343949 | [343949-yo-matias-4-viajero-del-tiempo.json](./343949-yo-matias-4-viajero-del-tiempo.json) |
