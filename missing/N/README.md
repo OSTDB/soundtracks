@@ -1917,6 +1917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Door: An Eternal World | 188411 | [188411-next-door-an-eternal-world.json](./188411-next-door-an-eternal-world.json) |
 | Next Earth: The Journey Trilogy | 149568 | [149568-next-earth-the-journey-trilogy.json](./149568-next-earth-the-journey-trilogy.json) |
 | Next Floor | 276974 | [276974-next-floor.json](./276974-next-floor.json) |
+| Next Generation Soccer Coach | 173025 | [173025-next-generation-soccer-coach.json](./173025-next-generation-soccer-coach.json) |
 | Next Generation Tennis 2003 | 43443 | [43443-next-generation-tennis-2003.json](./43443-next-generation-tennis-2003.json) |
 | Next In Line | 366958 | [366958-next-in-line.json](./366958-next-in-line.json) |
 | Next Island | 92473 | [92473-next-island.json](./92473-next-island.json) |
@@ -2042,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 07 | 5964 | [5964-nhl-07.json](./5964-nhl-07.json) |
 | NHL 08 | 875 | [875-nhl-08.json](./875-nhl-08.json) |
 | NHL 10 | 953 | [953-nhl-10.json](./953-nhl-10.json) |
+| NHL 17: Deluxe Edition | 173114 | [173114-nhl-17-deluxe-edition.json](./173114-nhl-17-deluxe-edition.json) |
 | NHL 18 | 36847 | [36847-nhl-18.json](./36847-nhl-18.json) |
 | NHL 19: Ultimate Edition | 61636 | [61636-nhl-19-ultimate-edition.json](./61636-nhl-19-ultimate-edition.json) |
 | NHL 20: Deluxe Edition | 128387 | [128387-nhl-20-deluxe-edition.json](./128387-nhl-20-deluxe-edition.json) |
@@ -2717,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Dude vs. Zombies 2 | 117030 | [117030-ninja-dude-vs-zombies-2.json](./117030-ninja-dude-vs-zombies-2.json) |
 | Ninja Emaki | 37325 | [37325-ninja-emaki.json](./37325-ninja-emaki.json) |
 | Ninja Epic Adventure | 147458 | [147458-ninja-epic-adventure.json](./147458-ninja-epic-adventure.json) |
+| Ninja Express | 173028 | [173028-ninja-express.json](./173028-ninja-express.json) |
 | Ninja Feet of Fury | 64102 | [64102-ninja-feet-of-fury.json](./64102-ninja-feet-of-fury.json) |
 | Ninja Fight | 336374 | [336374-ninja-fight.json](./336374-ninja-fight.json) |
 | Ninja Fighter | 200422 | [200422-ninja-fighter.json](./200422-ninja-fighter.json) |
