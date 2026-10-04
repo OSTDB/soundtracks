@@ -4906,6 +4906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Fantasy | 322641 | [322641-forbidden-fantasy.json](./322641-forbidden-fantasy.json) |
 | Forbidden Forest | 13848 | [13848-forbidden-forest.json](./13848-forbidden-forest.json) |
 | Forbidden Forgiveness | 85836 | [85836-forbidden-forgiveness.json](./85836-forbidden-forgiveness.json) |
+| Forbidden Fruit | 191082 | [191082-forbidden-fruit.json](./191082-forbidden-fruit.json) |
 | Forbidden Fruit | 47527 | [47527-forbidden-fruit.json](./47527-forbidden-fruit.json) |
 | Forbidden Ghost Photo | 283286 | [283286-forbidden-ghost-photo.json](./283286-forbidden-ghost-photo.json) |
 | Forbidden Ground: Lair of Aooni | 364090 | [364090-forbidden-ground-lair-of-aooni.json](./364090-forbidden-ground-lair-of-aooni.json) |
@@ -7178,6 +7179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futa Jigsaw Dating | 368126 | [368126-futa-jigsaw-dating.json](./368126-futa-jigsaw-dating.json) |
 | Futa Nights: Bloody Sluts | 362274 | [362274-futa-nights-bloody-sluts.json](./362274-futa-nights-bloody-sluts.json) |
 | Futa Paradise | 382384 | [382384-futa-paradise.json](./382384-futa-paradise.json) |
+| Futa Spell | 191061 | [191061-futa-spell.json](./191061-futa-spell.json) |
 | Futa Tales | 273490 | [273490-futa-tales.json](./273490-futa-tales.json) |
 | Futa Training | 285604 | [285604-futa-training.json](./285604-futa-training.json) |
 | Futa University | 209487 | [209487-futa-university.json](./209487-futa-university.json) |
