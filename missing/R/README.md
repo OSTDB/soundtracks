@@ -1934,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recursor | 182274 | [182274-recursor.json](./182274-recursor.json) |
 | Recursudoku | 413194 | [413194-recursudoku.json](./413194-recursudoku.json) |
 | Recycle | 17300 | [17300-recycle.json](./17300-recycle.json) |
+| Recycle Design | 195055 | [195055-recycle-design.json](./195055-recycle-design.json) |
 | Recycle Master | 300851 | [300851-recycle-master.json](./300851-recycle-master.json) |
 | Recycle Shop Eco | 415993 | [415993-recycle-shop-eco.json](./415993-recycle-shop-eco.json) |
 | Recycler's Terminal | 116327 | [116327-recyclers-terminal.json](./116327-recyclers-terminal.json) |
@@ -6526,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune II: Decapitation Edition | 139881 | [139881-rune-ii-decapitation-edition.json](./139881-rune-ii-decapitation-edition.json) |
 | Rune II: God Slayer Edition | 202215 | [202215-rune-ii-god-slayer-edition.json](./202215-rune-ii-god-slayer-edition.json) |
 | Rune in the Three Kingdoms | 278674 | [278674-rune-in-the-three-kingdoms.json](./278674-rune-in-the-three-kingdoms.json) |
+| Rune Infinite | 195025 | [195025-rune-infinite.json](./195025-rune-infinite.json) |
 | Rune Legacy Idle | 377598 | [377598-rune-legacy-idle.json](./377598-rune-legacy-idle.json) |
 | Rune Raiders | 22327 | [22327-rune-raiders.json](./22327-rune-raiders.json) |
 | Rune Ranker | 197722 | [197722-rune-ranker.json](./197722-rune-ranker.json) |
