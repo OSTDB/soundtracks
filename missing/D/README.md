@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D3d Inside | 126659 | [126659-d3d-inside.json](./126659-d3d-inside.json) |
 | D3L3T3.exe | 264331 | [264331-d3l3t3-exe.json](./264331-d3l3t3-exe.json) |
 | D4 Complete Edition | 52846 | [52846-d4-complete-edition.json](./52846-d4-complete-edition.json) |
+| D8gn | 184433 | [184433-d8gn.json](./184433-d8gn.json) |
 | Da Box | 59672 | [59672-da-box.json](./59672-da-box.json) |
 | Da Capo 3 R | 27760 | [27760-da-capo-3-r.json](./27760-da-capo-3-r.json) |
 | Dà Fùwēng | 125469 | [125469-da-fuweng.json](./125469-da-fuweng.json) |
@@ -1639,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De Ontdekker en het mysterie van de Diamanten Scarabee | 268124 | [268124-de-ontdekker-en-het-mysterie-van-de-diamanten-scarabee.json](./268124-de-ontdekker-en-het-mysterie-van-de-diamanten-scarabee.json) |
 | De Tres al Cuarto | 227910 | [227910-de-tres-al-cuarto.json](./227910-de-tres-al-cuarto.json) |
 | Dé_Intricate | 310534 | [310534-de-intricate.json](./310534-de-intricate.json) |
+| De-capite | 184445 | [184445-de-capite.json](./184445-de-capite.json) |
 | De-Exit: Eternal Matters | 172757 | [172757-de-exit-eternal-matters.json](./172757-de-exit-eternal-matters.json) |
 | De-Ja II | 233590 | [233590-de-ja-ii.json](./233590-de-ja-ii.json) |
 | De: Yabatanien | 145548 | [145548-de-yabatanien.json](./145548-de-yabatanien.json) |
@@ -4274,6 +4276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice | 309457 | [309457-dice.json](./309457-dice.json) |
 | Dice & Fold | 276684 | [276684-dice-and-fold.json](./276684-dice-and-fold.json) |
 | Dice & Sword | 286063 | [286063-dice-and-sword.json](./286063-dice-and-sword.json) |
+| Dice 1000 online | 184463 | [184463-dice-1000-online.json](./184463-dice-1000-online.json) |
 | Dice A Million | 335662 | [335662-dice-a-million.json](./335662-dice-a-million.json) |
 | Dice Battle | 279007 | [279007-dice-battle.json](./279007-dice-battle.json) |
 | Dice Battle: 3d Board Game | 348395 | [348395-dice-battle-3d-board-game.json](./348395-dice-battle-3d-board-game.json) |
@@ -4286,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Craft | 252156 | [252156-dice-craft.json](./252156-dice-craft.json) |
 | Dice Crypt | 266317 | [266317-dice-crypt.json](./266317-dice-crypt.json) |
 | Dice Deluge | 414294 | [414294-dice-deluge.json](./414294-dice-deluge.json) |
+| Dice Delve | 184454 | [184454-dice-delve.json](./184454-dice-delve.json) |
 | Dice Derby | 366418 | [366418-dice-derby.json](./366418-dice-derby.json) |
 | Dice Fight | 232368 | [232368-dice-fight.json](./232368-dice-fight.json) |
 | Dice Game | 226179 | [226179-dice-game.json](./226179-dice-game.json) |
@@ -4308,8 +4312,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice of Knights | 166612 | [166612-dice-of-knights.json](./166612-dice-of-knights.json) |
 | Dice of Life | 184466 | [184466-dice-of-life.json](./184466-dice-of-life.json) |
 | Dice of Olympus | 130342 | [130342-dice-of-olympus.json](./130342-dice-of-olympus.json) |
+| Dice or Die | 184452 | [184452-dice-or-die.json](./184452-dice-or-die.json) |
 | Dice Paradise | 175416 | [175416-dice-paradise.json](./175416-dice-paradise.json) |
 | Dice Player One: Trailer | 305916 | [305916-dice-player-one-trailer.json](./305916-dice-player-one-trailer.json) |
+| Dice Poker Chicken Battle | 184422 | [184422-dice-poker-chicken-battle.json](./184422-dice-poker-chicken-battle.json) |
 | Dice Puzzle | 220175 | [220175-dice-puzzle.json](./220175-dice-puzzle.json) |
 | Dice Quest | 226749 | [226749-dice-quest.json](./226749-dice-quest.json) |
 | Dice Rogues | 406120 | [406120-dice-rogues.json](./406120-dice-rogues.json) |
@@ -4335,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice: The Dice Game! | 229971 | [229971-dice-the-dice-game.json](./229971-dice-the-dice-game.json) |
 | Dice'n'Go | 404963 | [404963-dicengo.json](./404963-dicengo.json) |
 | Dicealot | 319726 | [319726-dicealot.json](./319726-dicealot.json) |
+| Dicefeat | 184459 | [184459-dicefeat.json](./184459-dicefeat.json) |
 | Dicefolk: Will Chimeras Pack | 324415 | [324415-dicefolk-will-chimeras-pack.json](./324415-dicefolk-will-chimeras-pack.json) |
 | Diceies | 79898 | [79898-diceies.json](./79898-diceies.json) |
 | Dicentra | 255649 | [255649-dicentra.json](./255649-dicentra.json) |
@@ -7078,6 +7085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Puzzled | 243794 | [243794-double-puzzled.json](./243794-double-puzzled.json) |
 | Double Reaction! Plus | 175973 | [175973-double-reaction-plus.json](./175973-double-reaction-plus.json) |
 | Double Shoulders | 338800 | [338800-double-shoulders.json](./338800-double-shoulders.json) |
+| Double sided: TriJam edition | 184425 | [184425-double-sided-trijam-edition.json](./184425-double-sided-trijam-edition.json) |
 | Double Smash Ninja | 246083 | [246083-double-smash-ninja.json](./246083-double-smash-ninja.json) |
 | Double Switch | 5375 | [5375-double-switch.json](./5375-double-switch.json) |
 | Double Switch: 25th Anniversary Edition | 111152 | [111152-double-switch-25th-anniversary-edition.json](./111152-double-switch-25th-anniversary-edition.json) |
@@ -8036,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread | 130910 | [130910-dread.json](./130910-dread.json) |
 | Dread Chess | 338338 | [338338-dread-chess.json](./338338-dread-chess.json) |
 | Dread Delusion: Rise of the Skeletons | 272835 | [272835-dread-delusion-rise-of-the-skeletons.json](./272835-dread-delusion-rise-of-the-skeletons.json) |
+| Dread Dice | 184444 | [184444-dread-dice.json](./184444-dread-dice.json) |
 | Dread Flats | 351690 | [351690-dread-flats.json](./351690-dread-flats.json) |
 | Dread Nautical | 122514 | [122514-dread-nautical.json](./122514-dread-nautical.json) |
 | Dread Neighbor | 382463 | [382463-dread-neighbor.json](./382463-dread-neighbor.json) |
@@ -9500,6 +9509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DungeonBox | 355028 | [355028-dungeonbox.json](./355028-dungeonbox.json) |
 | DungeonCrawlers | 363008 | [363008-dungeoncrawlers.json](./363008-dungeoncrawlers.json) |
 | Dungeoneer | 76957 | [76957-dungeoneer.json](./76957-dungeoneer.json) |
+| Dungeoneering | 184432 | [184432-dungeoneering.json](./184432-dungeoneering.json) |
 | Dungeonette for Apple Watch | 197751 | [197751-dungeonette-for-apple-watch.json](./197751-dungeonette-for-apple-watch.json) |
 | Dungeonfell | 325618 | [325618-dungeonfell.json](./325618-dungeonfell.json) |
 | Dungeonfield | 331961 | [331961-dungeonfield.json](./331961-dungeonfield.json) |
