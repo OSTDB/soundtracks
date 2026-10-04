@@ -2515,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Rivals: Season 6 - Night at Museum | 381240 | [381240-marvel-rivals-season-6-night-at-museum.json](./381240-marvel-rivals-season-6-night-at-museum.json) |
 | Marvel Rivals: Season 7 - The Hunt is On | 395763 | [395763-marvel-rivals-season-7-the-hunt-is-on.json](./395763-marvel-rivals-season-7-the-hunt-is-on.json) |
 | Marvel Snap | 202279 | [202279-marvel-snap.json](./202279-marvel-snap.json) |
+| Marvel Spider-Man | 198900 | [198900-marvel-spider-man.json](./198900-marvel-spider-man.json) |
 | Marvel Spider-Man Unlimited | 89103 | [89103-marvel-spider-man-unlimited.json](./89103-marvel-spider-man-unlimited.json) |
 | Marvel Super Hero Squad | 4997 | [4997-marvel-super-hero-squad.json](./4997-marvel-super-hero-squad.json) |
 | Marvel Super Hero Squad Online | 19663 | [19663-marvel-super-hero-squad-online.json](./19663-marvel-super-hero-squad-online.json) |
@@ -5939,9 +5940,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Mike (Power Pete) | 72658 | [72658-mighty-mike-power-pete.json](./72658-mighty-mike-power-pete.json) |
 | Mighty Monkey | 40389 | [40389-mighty-monkey.json](./40389-mighty-monkey.json) |
 | Mighty Monster Mayhem | 29622 | [29622-mighty-monster-mayhem.json](./29622-mighty-monster-mayhem.json) |
+| Mighty Morphin Power Rangers | 198870 | [198870-mighty-morphin-power-rangers.json](./198870-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers | 3286 | [3286-mighty-morphin-power-rangers.json](./3286-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers | 3324 | [3324-mighty-morphin-power-rangers.json](./3324-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers Game Watch | 218431 | [218431-mighty-morphin-power-rangers-game-watch.json](./218431-mighty-morphin-power-rangers-game-watch.json) |
+| Mighty Morphin Power Rangers Tiger Barcodzz | 198871 | [198871-mighty-morphin-power-rangers-tiger-barcodzz.json](./198871-mighty-morphin-power-rangers-tiger-barcodzz.json) |
 | Mighty Morphin Power Rangers: Alpha 5 Where Are You? | 198819 | [198819-mighty-morphin-power-rangers-alpha-5-where-are-you.json](./198819-mighty-morphin-power-rangers-alpha-5-where-are-you.json) |
 | Mighty Morphin Power Rangers: Rita's Rewind | 305016 | [305016-mighty-morphin-power-rangers-ritas-rewind.json](./305016-mighty-morphin-power-rangers-ritas-rewind.json) |
 | Mighty Morphin Power Rangers: The Movie | 75981 | [75981-mighty-morphin-power-rangers-the-movie.json](./75981-mighty-morphin-power-rangers-the-movie.json) |
