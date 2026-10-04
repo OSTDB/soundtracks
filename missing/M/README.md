@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Wizard | 130862 | [130862-magic-wizard.json](./130862-magic-wizard.json) |
 | Magic World | 372634 | [372634-magic-world.json](./372634-magic-world.json) |
 | Magic World: Unravel the Magic | 242588 | [242588-magic-world-unravel-the-magic.json](./242588-magic-world-unravel-the-magic.json) |
+| Magic Сity Detective: Secret Desire - Collector's Edition | 211641 | [211641-magic-ity-detective-secret-desire-collectors-edition.json](./211641-magic-ity-detective-secret-desire-collectors-edition.json) |
 | Magic: ManaStrike | 125270 | [125270-magic-manastrike.json](./125270-magic-manastrike.json) |
 | Magic: Puzzle Quest | 111748 | [111748-magic-puzzle-quest.json](./111748-magic-puzzle-quest.json) |
 | Magic: The Gathering - Battlegrounds | 5907 | [5907-magic-the-gathering-battlegrounds.json](./5907-magic-the-gathering-battlegrounds.json) |
@@ -5806,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Report | 207371 | [207371-midnight-report.json](./207371-midnight-report.json) |
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
 | Midnight Scenes: A Safe Place | 257261 | [257261-midnight-scenes-a-safe-place.json](./257261-midnight-scenes-a-safe-place.json) |
+| Midnight School Walk | 211649 | [211649-midnight-school-walk.json](./211649-midnight-school-walk.json) |
 | Midnight Scour | 409752 | [409752-midnight-scour.json](./409752-midnight-scour.json) |
 | Midnight Shift Remake | 229767 | [229767-midnight-shift-remake.json](./229767-midnight-shift-remake.json) |
 | Midnight Shifts with Femboy | 400315 | [400315-midnight-shifts-with-femboy.json](./400315-midnight-shifts-with-femboy.json) |
@@ -7844,6 +7846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mongol | 227967 | [227967-mongol.json](./227967-mongol.json) |
 | Mongol 2 | 370339 | [370339-mongol-2.json](./370339-mongol-2.json) |
 | Mongrel | 57197 | [57197-mongrel.json](./57197-mongrel.json) |
+| Mongrel Games Minigames | 211636 | [211636-mongrel-games-minigames.json](./211636-mongrel-games-minigames.json) |
 | Mônica Dentuça | 216273 | [216273-monica-dentuca.json](./216273-monica-dentuca.json) |
 | Mônica no Castelo do Dragão | 9557 | [9557-monica-no-castelo-do-dragao.json](./9557-monica-no-castelo-do-dragao.json) |
 | Monica's Paradox | 276222 | [276222-monicas-paradox.json](./276222-monicas-paradox.json) |
@@ -9636,6 +9639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Yeti's Fast Food | 179495 | [179495-mr-yetis-fast-food.json](./179495-mr-yetis-fast-food.json) |
 | Mr. Zippy is Watching | 401090 | [401090-mr-zippy-is-watching.json](./401090-mr-zippy-is-watching.json) |
 | Mr.Addon in Sulpicius Gallus M | 187384 | [187384-mr-addon-in-sulpicius-gallus-m.json](./187384-mr-addon-in-sulpicius-gallus-m.json) |
+| Mr.Egg: Adventure | 211647 | [211647-mr-egg-adventure.json](./211647-mr-egg-adventure.json) |
 | Mr.Jezko | 86579 | [86579-mr-jezko.json](./86579-mr-jezko.json) |
 | MR.KungFu | 174737 | [174737-mr-kungfu.json](./174737-mr-kungfu.json) |
 | Mr.Mag: The Dark Side Within | 414535 | [414535-mr-mag-the-dark-side-within.json](./414535-mr-mag-the-dark-side-within.json) |
