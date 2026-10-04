@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Ball | 96882 | [96882-galaxy-ball.json](./96882-galaxy-ball.json) |
 | Galaxy Ball Defender | 96886 | [96886-galaxy-ball-defender.json](./96886-galaxy-ball-defender.json) |
 | Galaxy Ballerina | 293415 | [293415-galaxy-ballerina.json](./293415-galaxy-ballerina.json) |
+| Galaxy Beam | 185506 | [185506-galaxy-beam.json](./185506-galaxy-beam.json) |
 | Galaxy Blaster | 56156 | [56156-galaxy-blaster.json](./56156-galaxy-blaster.json) |
 | Galaxy Blaster Code Red | 85168 | [85168-galaxy-blaster-code-red.json](./85168-galaxy-blaster-code-red.json) |
 | Galaxy Boom - Defend Planet | 108487 | [108487-galaxy-boom-defend-planet.json](./108487-galaxy-boom-defend-planet.json) |
@@ -2684,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gluk'Oza Action | 54053 | [54053-glukoza-action.json](./54053-glukoza-action.json) |
 | Glukhovo | 270184 | [270184-glukhovo.json](./270184-glukhovo.json) |
 | Glusiverse | 304599 | [304599-glusiverse.json](./304599-glusiverse.json) |
+| Glutto, the Eater of Worlds | 185507 | [185507-glutto-the-eater-of-worlds.json](./185507-glutto-the-eater-of-worlds.json) |
 | Gluttony | 353979 | [353979-gluttony.json](./353979-gluttony.json) |
 | Gluua | 235698 | [235698-gluua.json](./235698-gluua.json) |
 | Glyde the Dragon | 217234 | [217234-glyde-the-dragon.json](./217234-glyde-the-dragon.json) |
@@ -2818,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Race Yourself | 200137 | [200137-go-race-yourself.json](./200137-go-race-yourself.json) |
 | Go Rocket | 153917 | [153917-go-rocket.json](./153917-go-rocket.json) |
 | GO Series: Portable Shrine Wars | 65750 | [65750-go-series-portable-shrine-wars.json](./65750-go-series-portable-shrine-wars.json) |
+| Go Team Yeah | 185463 | [185463-go-team-yeah.json](./185463-go-team-yeah.json) |
 | Go There | 240742 | [240742-go-there.json](./240742-go-there.json) |
 | Go to Heck | 214154 | [214154-go-to-heck.json](./214154-go-to-heck.json) |
 | Go to Hell | 211432 | [211432-go-to-hell.json](./211432-go-to-hell.json) |
@@ -3290,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Gate | 81335 | [81335-golden-gate.json](./81335-golden-gate.json) |
 | Golden Gloves VR | 235191 | [235191-golden-gloves-vr.json](./235191-golden-gloves-vr.json) |
 | Golden Goal: Soccer Squad | 297251 | [297251-golden-goal-soccer-squad.json](./297251-golden-goal-soccer-squad.json) |
+| Golden Goblet | 185505 | [185505-golden-goblet.json](./185505-golden-goblet.json) |
 | Golden Idol Investigations: The Lemurian Phoenix | 342844 | [342844-golden-idol-investigations-the-lemurian-phoenix.json](./342844-golden-idol-investigations-the-lemurian-phoenix.json) |
 | Golden Idol Investigations: The Sins of New Wells | 333390 | [333390-golden-idol-investigations-the-sins-of-new-wells.json](./333390-golden-idol-investigations-the-sins-of-new-wells.json) |
 | Golden Idol Mysteries: DLC Bundle | 268569 | [268569-golden-idol-mysteries-dlc-bundle.json](./268569-golden-idol-mysteries-dlc-bundle.json) |
@@ -3556,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Morning Is A Social Construct | 231393 | [231393-good-morning-is-a-social-construct.json](./231393-good-morning-is-a-social-construct.json) |
 | Good Morning, A.I. | 193259 | [193259-good-morning-a-i.json](./193259-good-morning-a-i.json) |
 | Good Morning, Radio | 203365 | [203365-good-morning-radio.json](./203365-good-morning-radio.json) |
+| Good Morningstar | 185488 | [185488-good-morningstar.json](./185488-good-morningstar.json) |
 | Good Mourning | 148556 | [148556-good-mourning.json](./148556-good-mourning.json) |
 | Good News | 382300 | [382300-good-news.json](./382300-good-news.json) |
 | Good Night Mr. Snoozleberg | 321456 | [321456-good-night-mr-snoozleberg.json](./321456-good-night-mr-snoozleberg.json) |
@@ -5670,6 +5675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns of Survivor | 193829 | [193829-guns-of-survivor.json](./193829-guns-of-survivor.json) |
 | Guns Up! Mobile | 175705 | [175705-guns-up-mobile.json](./175705-guns-up-mobile.json) |
 | Guns, Blocks, and Steel | 326239 | [326239-guns-blocks-and-steel.json](./326239-guns-blocks-and-steel.json) |
+| Guns, Camera, Action! | 185481 | [185481-guns-camera-action.json](./185481-guns-camera-action.json) |
 | Guns'n'Glory | 95410 | [95410-gunsnglory.json](./95410-gunsnglory.json) |
 | Guns'n'Glory Heroes | 68958 | [68958-gunsnglory-heroes.json](./68958-gunsnglory-heroes.json) |
 | Guns'n'Glory Zombies | 296073 | [296073-gunsnglory-zombies.json](./296073-gunsnglory-zombies.json) |
