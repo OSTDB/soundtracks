@@ -5141,6 +5141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift Extreme: Ultra Edition | 252404 | [252404-forklift-extreme-ultra-edition.json](./252404-forklift-extreme-ultra-edition.json) |
 | Forklift Extreme: Vertigo Farm | 221692 | [221692-forklift-extreme-vertigo-farm.json](./221692-forklift-extreme-vertigo-farm.json) |
 | Forklift Flowerpot: Botanical Investigator | 217236 | [217236-forklift-flowerpot-botanical-investigator.json](./217236-forklift-flowerpot-botanical-investigator.json) |
+| Forklift Man | 209933 | [209933-forklift-man.json](./209933-forklift-man.json) |
 | Forklift Racer | 253948 | [253948-forklift-racer.json](./253948-forklift-racer.json) |
 | Forklift Simulator | 293134 | [293134-forklift-simulator.json](./293134-forklift-simulator.json) |
 | Forklift Simulator | 326425 | [326425-forklift-simulator.json](./326425-forklift-simulator.json) |
