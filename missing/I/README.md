@@ -3256,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Clash | 267070 | [267070-island-clash.json](./267070-island-clash.json) |
 | Island Clicker | 247041 | [247041-island-clicker.json](./247041-island-clicker.json) |
 | Island Crisis | 331109 | [331109-island-crisis.json](./331109-island-crisis.json) |
+| Island Crusaders | 190011 | [190011-island-crusaders.json](./190011-island-crusaders.json) |
 | Island Dash | 55449 | [55449-island-dash.json](./55449-island-dash.json) |
 | Island Deck | 374252 | [374252-island-deck.json](./374252-island-deck.json) |
 | Island Designer | 296652 | [296652-island-designer.json](./296652-island-designer.json) |
