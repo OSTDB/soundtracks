@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly-Jelly | 301890 | [301890-jelly-jelly.json](./301890-jelly-jelly.json) |
 | Jelly's Adventure | 208328 | [208328-jellys-adventure.json](./208328-jellys-adventure.json) |
 | Jellyboom | 73239 | [73239-jellyboom.json](./73239-jellyboom.json) |
+| JellyBugs | 175254 | [175254-jellybugs.json](./175254-jellybugs.json) |
 | JellyCar | 95422 | [95422-jellycar.json](./95422-jellycar.json) |
 | JellyCar | 9635 | [9635-jellycar.json](./9635-jellycar.json) |
 | JellyCar 3 | 228601 | [228601-jellycar-3.json](./228601-jellycar-3.json) |
@@ -1239,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe is Not Lost: Jigsaw Landscapes | 284900 | [284900-joe-is-not-lost-jigsaw-landscapes.json](./284900-joe-is-not-lost-jigsaw-landscapes.json) |
 | Joe Montana Football | 149968 | [149968-joe-montana-football.json](./149968-joe-montana-football.json) |
 | Joe Montana II: Sports Talk Football | 19491 | [19491-joe-montana-ii-sports-talk-football.json](./19491-joe-montana-ii-sports-talk-football.json) |
+| Joe vs. The Joneses | 175170 | [175170-joe-vs-the-joneses.json](./175170-joe-vs-the-joneses.json) |
 | Joe vs. The Wall | 264308 | [264308-joe-vs-the-wall.json](./264308-joe-vs-the-wall.json) |
 | Joe Wander and the Enigmatic Adventures | 222929 | [222929-joe-wander-and-the-enigmatic-adventures.json](./222929-joe-wander-and-the-enigmatic-adventures.json) |
 | Joe's Diner | 35859 | [35859-joes-diner.json](./35859-joes-diner.json) |
@@ -1594,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juda | 120780 | [120780-juda.json](./120780-juda.json) |
 | Judas | 228527 | [228527-judas.json](./228527-judas.json) |
 | Judas | 29714 | [29714-judas.json](./29714-judas.json) |
+| Judas Priest: Road to Valhalla | 175162 | [175162-judas-priest-road-to-valhalla.json](./175162-judas-priest-road-to-valhalla.json) |
 | Jude | 172141 | [172141-jude.json](./172141-jude.json) |
 | Judero | 221649 | [221649-judero.json](./221649-judero.json) |
 | Judge Dredd | 4387 | [4387-judge-dredd.json](./4387-judge-dredd.json) |
