@@ -4341,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
 | Shifted VR | 137439 | [137439-shifted-vr.json](./137439-shifted-vr.json) |
 | Shifters | 43557 | [43557-shifters.json](./43557-shifters.json) |
+| Shifting Dreamscape | 177891 | [177891-shifting-dreamscape.json](./177891-shifting-dreamscape.json) |
 | Shifting Planes of Existence | 271793 | [271793-shifting-planes-of-existence.json](./271793-shifting-planes-of-existence.json) |
 | Shifting Sand Land | 308232 | [308232-shifting-sand-land.json](./308232-shifting-sand-land.json) |
 | Shifting Sands | 367543 | [367543-shifting-sands.json](./367543-shifting-sands.json) |
@@ -6931,6 +6932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepless Night | 172485 | [172485-sleepless-night.json](./172485-sleepless-night.json) |
 | Sleepover | 113709 | [113709-sleepover.json](./113709-sleepover.json) |
 | Sleepover | 401631 | [401631-sleepover.json](./401631-sleepover.json) |
+| Sleepover Rules | 177815 | [177815-sleepover-rules.json](./177815-sleepover-rules.json) |
 | Sleepover: Rewake | 374808 | [374808-sleepover-rewake.json](./374808-sleepover-rewake.json) |
 | Sleepthrough | 230264 | [230264-sleepthrough.json](./230264-sleepthrough.json) |
 | Sleepwalker | 13079 | [13079-sleepwalker.json](./13079-sleepwalker.json) |
@@ -8371,6 +8373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sofia | 218734 | [218734-sofia.json](./218734-sofia.json) |
 | Sofia the First | 213469 | [213469-sofia-the-first.json](./213469-sofia-the-first.json) |
 | Sofia the First Royal Learning Tablet | 213378 | [213378-sofia-the-first-royal-learning-tablet.json](./213378-sofia-the-first-royal-learning-tablet.json) |
+| Sofia? | 177901 | [177901-sofia.json](./177901-sofia.json) |
 | Sofia's Debt | 196794 | [196794-sofias-debt.json](./196794-sofias-debt.json) |
 | Sofie: The Echoes | 307140 | [307140-sofie-the-echoes.json](./307140-sofie-the-echoes.json) |
 | Sofiya and the Ancient Clan | 209648 | [209648-sofiya-and-the-ancient-clan.json](./209648-sofiya-and-the-ancient-clan.json) |
@@ -18393,6 +18396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet and Cute | 169381 | [169381-sweet-and-cute.json](./169381-sweet-and-cute.json) |
 | Sweet Ange | 282666 | [282666-sweet-ange.json](./282666-sweet-ange.json) |
 | Sweet Animal Girls | 339471 | [339471-sweet-animal-girls.json](./339471-sweet-animal-girls.json) |
+| Sweet as Magic | 177907 | [177907-sweet-as-magic.json](./177907-sweet-as-magic.json) |
 | Sweet Baby Girl Christmas 2 | 227474 | [227474-sweet-baby-girl-christmas-2.json](./227474-sweet-baby-girl-christmas-2.json) |
 | Sweet Baby Girl Cleanup 5 | 102617 | [102617-sweet-baby-girl-cleanup-5.json](./102617-sweet-baby-girl-cleanup-5.json) |
 | Sweet Baby Girl Doll House | 104487 | [104487-sweet-baby-girl-doll-house.json](./104487-sweet-baby-girl-doll-house.json) |
@@ -18546,6 +18550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetie Candy Maze: Purple Grape | 379041 | [379041-sweetie-candy-maze-purple-grape.json](./379041-sweetie-candy-maze-purple-grape.json) |
 | Sweetie Candy Maze: Red Cherry | 359517 | [359517-sweetie-candy-maze-red-cherry.json](./359517-sweetie-candy-maze-red-cherry.json) |
 | Sweetie Candy Maze: Violet Plum | 406218 | [406218-sweetie-candy-maze-violet-plum.json](./406218-sweetie-candy-maze-violet-plum.json) |
+| SweetPea Village | 177894 | [177894-sweetpea-village.json](./177894-sweetpea-village.json) |
 | Sweets and Swipes | 259555 | [259555-sweets-and-swipes.json](./259555-sweets-and-swipes.json) |
 | Sweets Drop | 283721 | [283721-sweets-drop.json](./283721-sweets-drop.json) |
 | Sweets Inc | 290531 | [290531-sweets-inc.json](./290531-sweets-inc.json) |
