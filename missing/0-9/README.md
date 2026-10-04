@@ -903,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2V Hoverbike | 44184 | [44184-2v-hoverbike.json](./44184-2v-hoverbike.json) |
 | 2weistein: The Curse of the Red Dragon | 147439 | [147439-2weistein-the-curse-of-the-red-dragon.json](./147439-2weistein-the-curse-of-the-red-dragon.json) |
 | 2weistein: The Curse of the Red Dragon 2 | 166158 | [166158-2weistein-the-curse-of-the-red-dragon-2.json](./166158-2weistein-the-curse-of-the-red-dragon-2.json) |
+| 2weistein: The Curse of the Red Dragon 3 - Ronger Pirates | 214561 | [214561-2weistein-the-curse-of-the-red-dragon-3-ronger-pirates.json](./214561-2weistein-the-curse-of-the-red-dragon-3-ronger-pirates.json) |
 | 2win Ghost | 92619 | [92619-2win-ghost.json](./92619-2win-ghost.json) |
 | 2x4 Nails | 258003 | [258003-2x4-nails.json](./258003-2x4-nails.json) |
 | 2XL ATV Offroad | 197676 | [197676-2xl-atv-offroad.json](./197676-2xl-atv-offroad.json) |
