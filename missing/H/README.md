@@ -4257,6 +4257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HitagiDrops | 286601 | [286601-hitagidrops.json](./286601-hitagidrops.json) |
 | Hitalick Challenge | 257576 | [257576-hitalick-challenge.json](./257576-hitalick-challenge.json) |
 | HitBox | 21982 | [21982-hitbox.json](./21982-hitbox.json) |
+| Hitboxer | 214418 | [214418-hitboxer.json](./214418-hitboxer.json) |
 | Hitchhiking to Hell | 405684 | [405684-hitchhiking-to-hell.json](./405684-hitchhiking-to-hell.json) |
 | Hitler is My Crush: Love and Fascism | 318420 | [318420-hitler-is-my-crush-love-and-fascism.json](./318420-hitler-is-my-crush-love-and-fascism.json) |
 | Hitler My Friend | 277006 | [277006-hitler-my-friend.json](./277006-hitler-my-friend.json) |
