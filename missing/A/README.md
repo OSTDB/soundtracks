@@ -2070,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Legion | 148968 | [148968-age-of-legion.json](./148968-age-of-legion.json) |
 | Age of Mythology: Retold - Obsidian Mirror | 395818 | [395818-age-of-mythology-retold-obsidian-mirror.json](./395818-age-of-mythology-retold-obsidian-mirror.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
+| Age of Pahlevans | 191670 | [191670-age-of-pahlevans.json](./191670-age-of-pahlevans.json) |
 | Age of Pixels | 118261 | [118261-age-of-pixels.json](./118261-age-of-pixels.json) |
 | Age of Reforging: The Freelands | 171364 | [171364-age-of-reforging-the-freelands.json](./171364-age-of-reforging-the-freelands.json) |
 | Age of Sail | 9430 | [9430-age-of-sail.json](./9430-age-of-sail.json) |
@@ -5933,6 +5934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arabian Nights | 271778 | [271778-arabian-nights.json](./271778-arabian-nights.json) |
 | Arabian Nights: Sabaku no Seirei-ou | 38381 | [38381-arabian-nights-sabaku-no-seirei-ou.json](./38381-arabian-nights-sabaku-no-seirei-ou.json) |
 | Arabian Treasures: Midnight Match | 150490 | [150490-arabian-treasures-midnight-match.json](./150490-arabian-treasures-midnight-match.json) |
+| Arabians Doubt: The Engagement on Desert | 191690 | [191690-arabians-doubt-the-engagement-on-desert.json](./191690-arabians-doubt-the-engagement-on-desert.json) |
 | Arabilis | 197787 | [197787-arabilis.json](./197787-arabilis.json) |
 | Arachnid | 83489 | [83489-arachnid.json](./83489-arachnid.json) |
 | Arachnoid | 23886 | [23886-arachnoid.json](./23886-arachnoid.json) |
@@ -8047,6 +8049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asu Owaru Sekai, Sono Zenya | 255325 | [255325-asu-owaru-sekai-sono-zenya.json](./255325-asu-owaru-sekai-sono-zenya.json) |
 | Asuka & Asuka | 38515 | [38515-asuka-and-asuka.json](./38515-asuka-and-asuka.json) |
 | Asuka 120% Burning Fest. Exallent | 382789 | [382789-asuka-120-burning-fest-exallent.json](./382789-asuka-120-burning-fest-exallent.json) |
+| Asuka 120% Burning Fest. Excellent | 191681 | [191681-asuka-120-burning-fest-excellent.json](./191681-asuka-120-burning-fest-excellent.json) |
 | Asuka 120% Excellent Burning Fest. | 81336 | [81336-asuka-120-excellent-burning-fest.json](./81336-asuka-120-excellent-burning-fest.json) |
 | Asuka 120% Limited Burning Fest. | 46088 | [46088-asuka-120-limited-burning-fest.json](./46088-asuka-120-limited-burning-fest.json) |
 | Asuka x Redline Reverie | 405510 | [405510-asuka-x-redline-reverie.json](./405510-asuka-x-redline-reverie.json) |
@@ -8504,6 +8507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atypian | 369046 | [369046-atypian.json](./369046-atypian.json) |
 | Au Pays des PooYoos: Activités d'Éveil | 408976 | [408976-au-pays-des-pooyoos-activites-deveil.json](./408976-au-pays-des-pooyoos-activites-deveil.json) |
 | Au Sable | 125855 | [125855-au-sable.json](./125855-au-sable.json) |
+| Au-Delà | 191651 | [191651-au-dela.json](./191651-au-dela.json) |
 | Aube | 104450 | [104450-aube.json](./104450-aube.json) |
 | Auction | 192701 | [192701-auction.json](./192701-auction.json) |
 | Audica: 5 Seconds of Summer - "Youngblood" | 358945 | [358945-audica-5-seconds-of-summer-youngblood.json](./358945-audica-5-seconds-of-summer-youngblood.json) |
