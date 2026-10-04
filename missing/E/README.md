@@ -2610,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Kiss | 348896 | [348896-escape-from-kiss.json](./348896-escape-from-kiss.json) |
 | Escape from Labyrinth | 121457 | [121457-escape-from-labyrinth.json](./121457-escape-from-labyrinth.json) |
 | Escape From Lavender Island | 235991 | [235991-escape-from-lavender-island.json](./235991-escape-from-lavender-island.json) |
+| Escape From Lavender Town | 198333 | [198333-escape-from-lavender-town.json](./198333-escape-from-lavender-town.json) |
 | Escape From Lesco | 312751 | [312751-escape-from-lesco.json](./312751-escape-from-lesco.json) |
 | Escape From Lighthouse | 257341 | [257341-escape-from-lighthouse.json](./257341-escape-from-lighthouse.json) |
 | Escape From Lost Island | 206653 | [206653-escape-from-lost-island.json](./206653-escape-from-lost-island.json) |
@@ -4203,6 +4204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes First: Double Up | 210742 | [210742-eyes-first-double-up.json](./210742-eyes-first-double-up.json) |
 | Eyes First: Match Two | 210741 | [210741-eyes-first-match-two.json](./210741-eyes-first-match-two.json) |
 | Eyes First: Tile Slide | 210743 | [210743-eyes-first-tile-slide.json](./210743-eyes-first-tile-slide.json) |
+| Eyes in the Dark | 198298 | [198298-eyes-in-the-dark.json](./198298-eyes-in-the-dark.json) |
 | Eyes of Darkness | 201583 | [201583-eyes-of-darkness.json](./201583-eyes-of-darkness.json) |
 | Eyes of Hellfire | 333788 | [333788-eyes-of-hellfire.json](./333788-eyes-of-hellfire.json) |
 | Eyes of Souls | 177948 | [177948-eyes-of-souls.json](./177948-eyes-of-souls.json) |
