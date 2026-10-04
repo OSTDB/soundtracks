@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomawari: The Long Night Collection | 103052 | [103052-yomawari-the-long-night-collection.json](./103052-yomawari-the-long-night-collection.json) |
 | Yomesou de Yomenai Kanji DS | 287632 | [287632-yomesou-de-yomenai-kanji-ds.json](./287632-yomesou-de-yomenai-kanji-ds.json) |
 | Yomi | 17189 | [17189-yomi.json](./17189-yomi.json) |
+| Yomi 2 | 223376 | [223376-yomi-2.json](./223376-yomi-2.json) |
 | Yomi 2: Complete edition | 399830 | [399830-yomi-2-complete-edition.json](./399830-yomi-2-complete-edition.json) |
 | Yomi 2: Renegades | 289877 | [289877-yomi-2-renegades.json](./289877-yomi-2-renegades.json) |
 | Yomi No Kuni | 400387 | [400387-yomi-no-kuni.json](./400387-yomi-no-kuni.json) |
