@@ -65,6 +65,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LA Hollywood Zombies | 273633 | [273633-la-hollywood-zombies.json](./273633-la-hollywood-zombies.json) |
 | La Isla de lo Mono | 208467 | [208467-la-isla-de-lo-mono.json](./208467-la-isla-de-lo-mono.json) |
 | La Java du Privé | 350540 | [350540-la-java-du-prive.json](./350540-la-java-du-prive.json) |
+| La La Land | 215005 | [215005-la-la-land.json](./215005-la-la-land.json) |
+| La La Land 2 | 215006 | [215006-la-la-land-2.json](./215006-la-la-land-2.json) |
+| La La Land 3 | 215008 | [215008-la-la-land-3.json](./215008-la-la-land-3.json) |
+| La La Land 4 | 215009 | [215009-la-la-land-4.json](./215009-la-la-land-4.json) |
 | La Leyenda de la Biblioteca | 323224 | [323224-la-leyenda-de-la-biblioteca.json](./323224-la-leyenda-de-la-biblioteca.json) |
 | La Leyenda del Chupacabra | 75094 | [75094-la-leyenda-del-chupacabra.json](./75094-la-leyenda-del-chupacabra.json) |
 | La Libertad Arrasa: Milei | 323725 | [323725-la-libertad-arrasa-milei.json](./323725-la-libertad-arrasa-milei.json) |
