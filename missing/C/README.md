@@ -2424,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Swing | 242564 | [242564-cave-swing.json](./242564-cave-swing.json) |
 | Cave Up | 334848 | [334848-cave-up.json](./334848-cave-up.json) |
 | Cave Walker | 73226 | [73226-cave-walker.json](./73226-cave-walker.json) |
+| Cave Wonders | 195032 | [195032-cave-wonders.json](./195032-cave-wonders.json) |
 | Cave! Cave! Deus Videt. | 388940 | [388940-cave-cave-deus-videt.json](./388940-cave-cave-deus-videt.json) |
 | Caveblazers: Together | 170909 | [170909-caveblazers-together.json](./170909-caveblazers-together.json) |
 | Caved-in | 249797 | [249797-caved-in.json](./249797-caved-in.json) |
@@ -3745,6 +3746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chillquarium | 236572 | [236572-chillquarium.json](./236572-chillquarium.json) |
 | Chime Candy | 281994 | [281994-chime-candy.json](./281994-chime-candy.json) |
 | Chime Sharp | 17907 | [17907-chime-sharp.json](./17907-chime-sharp.json) |
+| Chimera | 195033 | [195033-chimera.json](./195033-chimera.json) |
 | Chimera | 312718 | [312718-chimera.json](./312718-chimera.json) |
 | Chimera | 380063 | [380063-chimera.json](./380063-chimera.json) |
 | Chimera Custom XG | 253994 | [253994-chimera-custom-xg.json](./253994-chimera-custom-xg.json) |
@@ -4974,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Car Simulator Car Driving | 277356 | [277356-classic-car-simulator-car-driving.json](./277356-classic-car-simulator-car-driving.json) |
 | Classic Card Games | 85539 | [85539-classic-card-games.json](./85539-classic-card-games.json) |
 | Classic Card Games 3D | 111762 | [111762-classic-card-games-3d.json](./111762-classic-card-games-3d.json) |
+| Classic Casino | 195034 | [195034-classic-casino.json](./195034-classic-casino.json) |
 | Classic Checkers | 147860 | [147860-classic-checkers.json](./147860-classic-checkers.json) |
 | Classic Collection | 52848 | [52848-classic-collection.json](./52848-classic-collection.json) |
 | Classic Compendium 2 | 79364 | [79364-classic-compendium-2.json](./79364-classic-compendium-2.json) |
@@ -5254,6 +5257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb! A Mountain in Your Pocket | 197730 | [197730-climb-a-mountain-in-your-pocket.json](./197730-climb-a-mountain-in-your-pocket.json) |
 | Climber | 100578 | [100578-climber.json](./100578-climber.json) |
 | Climber | 125338 | [125338-climber.json](./125338-climber.json) |
+| Climber | 195035 | [195035-climber.json](./195035-climber.json) |
 | Climber | 269843 | [269843-climber.json](./269843-climber.json) |
 | Climber Girl | 350635 | [350635-climber-girl.json](./350635-climber-girl.json) |
 | Climber: Sky is the Limit | 129701 | [129701-climber-sky-is-the-limit.json](./129701-climber-sky-is-the-limit.json) |
@@ -9092,6 +9096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Fire 2 | 26982 | [26982-cross-fire-2.json](./26982-cross-fire-2.json) |
 | Cross Force | 18556 | [18556-cross-force.json](./18556-cross-force.json) |
 | Cross Guardian | 381110 | [381110-cross-guardian.json](./381110-cross-guardian.json) |
+| Cross High | 195036 | [195036-cross-high.json](./195036-cross-high.json) |
 | Cross Impact | 250398 | [250398-cross-impact.json](./250398-cross-impact.json) |
 | Cross Love - Episode 1 | 110524 | [110524-cross-love-episode-1.json](./110524-cross-love-episode-1.json) |
 | Cross Match! | 238402 | [238402-cross-match.json](./238402-cross-match.json) |
