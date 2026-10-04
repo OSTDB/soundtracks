@@ -1499,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passenger Camel Taxi Driving | 227217 | [227217-passenger-camel-taxi-driving.json](./227217-passenger-camel-taxi-driving.json) |
 | Passenger Rush | 227956 | [227956-passenger-rush.json](./227956-passenger-rush.json) |
 | Passenger: Gone | 348398 | [348398-passenger-gone.json](./348398-passenger-gone.json) |
+| Passengers | 179528 | [179528-passengers.json](./179528-passengers.json) |
 | Passengers of Execution | 143743 | [143743-passengers-of-execution.json](./143743-passengers-of-execution.json) |
 | Passengers on the Wind II | 37173 | [37173-passengers-on-the-wind-ii.json](./37173-passengers-on-the-wind-ii.json) |
 | Passeport du CE2 au CM1 | 376072 | [376072-passeport-du-ce2-au-cm1.json](./376072-passeport-du-ce2-au-cm1.json) |
