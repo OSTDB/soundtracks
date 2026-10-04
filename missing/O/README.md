@@ -1734,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooze Odyssey | 260231 | [260231-ooze-odyssey.json](./260231-ooze-odyssey.json) |
 | Ooze: Creepy Nights | 57695 | [57695-ooze-creepy-nights.json](./57695-ooze-creepy-nights.json) |
 | Ooze: The Great and Powerful | 265315 | [265315-ooze-the-great-and-powerful.json](./265315-ooze-the-great-and-powerful.json) |
+| Oozin' in Space! | 179552 | [179552-oozin-in-space.json](./179552-oozin-in-space.json) |
 | Oozing Blasphemy | 271241 | [271241-oozing-blasphemy.json](./271241-oozing-blasphemy.json) |
 | Oozing Islands | 165685 | [165685-oozing-islands.json](./165685-oozing-islands.json) |
 | OPA: Super Janken | 341513 | [341513-opa-super-janken.json](./341513-opa-super-janken.json) |
@@ -1877,6 +1878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Whirlwind | 23964 | [23964-operation-whirlwind.json](./23964-operation-whirlwind.json) |
 | Operation Wolf 3 | 40377 | [40377-operation-wolf-3.json](./40377-operation-wolf-3.json) |
 | Operation Wolf Returns: First Mission | 218213 | [218213-operation-wolf-returns-first-mission.json](./218213-operation-wolf-returns-first-mission.json) |
+| Operation Wolfenstein | 179472 | [179472-operation-wolfenstein.json](./179472-operation-wolfenstein.json) |
 | Operation Z.E.R.O.: OutNumbuh'd! | 234540 | [234540-operation-z-e-r-o-outnumbuhd.json](./234540-operation-z-e-r-o-outnumbuhd.json) |
 | Operation Zero | 333014 | [333014-operation-zero.json](./333014-operation-zero.json) |
 | Operation: Armored Liberty | 49319 | [49319-operation-armored-liberty.json](./49319-operation-armored-liberty.json) |
