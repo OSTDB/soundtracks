@@ -2368,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellver | 129692 | [129692-hellver.json](./129692-hellver.json) |
 | Hellvivors | 217317 | [217317-hellvivors.json](./217317-hellvivors.json) |
 | Hellwalker: Gremory | 389667 | [389667-hellwalker-gremory.json](./389667-hellwalker-gremory.json) |
+| Hellway to Hell | 213841 | [213841-hellway-to-hell.json](./213841-hellway-to-hell.json) |
 | Hellwomb | 150138 | [150138-hellwomb.json](./150138-hellwomb.json) |
 | Hellworld! | 173183 | [173183-hellworld.json](./173183-hellworld.json) |
 | Helm Realm | 126497 | [126497-helm-realm.json](./126497-helm-realm.json) |
