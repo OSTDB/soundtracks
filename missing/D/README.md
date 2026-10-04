@@ -4399,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Like a Hero | 153891 | [153891-die-like-a-hero.json](./153891-die-like-a-hero.json) |
 | Die Meeple | 416777 | [416777-die-meeple.json](./416777-die-meeple.json) |
 | Die O'Clock | 214161 | [214161-die-oclock.json](./214161-die-oclock.json) |
+| Die Original Moorhuhn Jagd | 206592 | [206592-die-original-moorhuhn-jagd.json](./206592-die-original-moorhuhn-jagd.json) |
 | Die Original Moorhuhn Jagd | 83237 | [83237-die-original-moorhuhn-jagd.json](./83237-die-original-moorhuhn-jagd.json) |
 | Die Pizzeria | 91542 | [91542-die-pizzeria.json](./91542-die-pizzeria.json) |
 | Die Quelle von Naroth | 356840 | [356840-die-quelle-von-naroth.json](./356840-die-quelle-von-naroth.json) |
