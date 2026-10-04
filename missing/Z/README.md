@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Hell: Infected City | 216814 | [216814-zombie-hell-infected-city.json](./216814-zombie-hell-infected-city.json) |
 | Zombie High Dive | 344004 | [344004-zombie-high-dive.json](./344004-zombie-high-dive.json) |
 | Zombie Highway | 201839 | [201839-zombie-highway.json](./201839-zombie-highway.json) |
+| Zombie Highway 2 | 199969 | [199969-zombie-highway-2.json](./199969-zombie-highway-2.json) |
 | Zombie Hill Race | 147265 | [147265-zombie-hill-race.json](./147265-zombie-hill-race.json) |
 | Zombie Hills | 139905 | [139905-zombie-hills.json](./139905-zombie-hills.json) |
 | Zombie Hobby VR | 41950 | [41950-zombie-hobby-vr.json](./41950-zombie-hobby-vr.json) |
@@ -948,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Town Online | 101607 | [101607-zombie-town-online.json](./101607-zombie-town-online.json) |
 | Zombie Towns | 129216 | [129216-zombie-towns.json](./129216-zombie-towns.json) |
 | Zombie Trailer Park | 219045 | [219045-zombie-trailer-park.json](./219045-zombie-trailer-park.json) |
+| Zombie Train | 199984 | [199984-zombie-train.json](./199984-zombie-train.json) |
 | Zombie Training Simulator | 33451 | [33451-zombie-training-simulator.json](./33451-zombie-training-simulator.json) |
 | Zombie Variant | 130161 | [130161-zombie-variant.json](./130161-zombie-variant.json) |
 | Zombie Vegas | 190172 | [190172-zombie-vegas.json](./190172-zombie-vegas.json) |
