@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeti Legend: Mystery of the Forest | 294470 | [294470-yeti-legend-mystery-of-the-forest.json](./294470-yeti-legend-mystery-of-the-forest.json) |
 | Yeti Quest: Crazy Penguins | 294469 | [294469-yeti-quest-crazy-penguins.json](./294469-yeti-quest-crazy-penguins.json) |
 | Yeti's Parole Officer | 83598 | [83598-yetis-parole-officer.json](./83598-yetis-parole-officer.json) |
+| YetiSports | 202185 | [202185-yetisports.json](./202185-yetisports.json) |
 | Yetisports Arctic Adventure | 43239 | [43239-yetisports-arctic-adventure.json](./43239-yetisports-arctic-adventure.json) |
 | Yetisports Deluxe | 44774 | [44774-yetisports-deluxe.json](./44774-yetisports-deluxe.json) |
 | Yetisports: World Tour | 279227 | [279227-yetisports-world-tour.json](./279227-yetisports-world-tour.json) |
@@ -392,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yohane the Parhelion: Numazu in the Mirage - Costume "Fledgling" | 315495 | [315495-yohane-the-parhelion-numazu-in-the-mirage-costume-fledgling.json](./315495-yohane-the-parhelion-numazu-in-the-mirage-costume-fledgling.json) |
 | Yohane the Parhelion: Numazu in the Mirage - Costume "Lucky Outfit" | 315496 | [315496-yohane-the-parhelion-numazu-in-the-mirage-costume-lucky-outfit.json](./315496-yohane-the-parhelion-numazu-in-the-mirage-costume-lucky-outfit.json) |
 | Yohane the Parhelion: Numazu in the Mirage - Costume "Trendy Schoolgirl" | 315498 | [315498-yohane-the-parhelion-numazu-in-the-mirage-costume-trendy-schoolgirl.json](./315498-yohane-the-parhelion-numazu-in-the-mirage-costume-trendy-schoolgirl.json) |
+| Yoiks! | 202173 | [202173-yoiks.json](./202173-yoiks.json) |
 | Yoiyami Biscuit | 307308 | [307308-yoiyami-biscuit.json](./307308-yoiyami-biscuit.json) |
 | Yoiyami Dancers | 100556 | [100556-yoiyami-dancers.json](./100556-yoiyami-dancers.json) |
 | Yoiyami Dreamer: Voice of the Dreambringer | 69353 | [69353-yoiyami-dreamer-voice-of-the-dreambringer.json](./69353-yoiyami-dreamer-voice-of-the-dreambringer.json) |
@@ -643,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're Alive, Phil | 413919 | [413919-youre-alive-phil.json](./413919-youre-alive-phil.json) |
 | You're Boned | 287672 | [287672-youre-boned.json](./287672-youre-boned.json) |
 | You're Doomed | 112154 | [112154-youre-doomed.json](./112154-youre-doomed.json) |
+| You're Full of It | 202180 | [202180-youre-full-of-it.json](./202180-youre-full-of-it.json) |
 | You're Going to Make a Great Mother One Day | 177490 | [177490-youre-going-to-make-a-great-mother-one-day.json](./177490-youre-going-to-make-a-great-mother-one-day.json) |
 | You're Gonna Die 1000 Times (Or So) | 321474 | [321474-youre-gonna-die-1000-times-or-so.json](./321474-youre-gonna-die-1000-times-or-so.json) |
 | You're Gonna Miss the Bus! | 271385 | [271385-youre-gonna-miss-the-bus.json](./271385-youre-gonna-miss-the-bus.json) |
