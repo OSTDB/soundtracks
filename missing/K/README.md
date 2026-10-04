@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Kong 2: Ikari no Megaton Punch | 48690 | [48690-king-kong-2-ikari-no-megaton-punch.json](./48690-king-kong-2-ikari-no-megaton-punch.json) |
 | King Kong City Destroyer | 291478 | [291478-king-kong-city-destroyer.json](./291478-king-kong-city-destroyer.json) |
 | King Lucas | 26371 | [26371-king-lucas.json](./26371-king-lucas.json) |
+| King NooB | 180054 | [180054-king-noob.json](./180054-king-noob.json) |
 | King of Bali | 50547 | [50547-king-of-bali.json](./50547-king-of-bali.json) |
 | King of Bees in Fantasy Land | 139310 | [139310-king-of-bees-in-fantasy-land.json](./139310-king-of-bees-in-fantasy-land.json) |
 | King of BMX | 91979 | [91979-king-of-bmx.json](./91979-king-of-bmx.json) |
@@ -3043,6 +3044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuàilè Xiǎojī | 130953 | [130953-kuaile-xiaoji.json](./130953-kuaile-xiaoji.json) |
 | Kub | 146694 | [146694-kub.json](./146694-kub.json) |
 | Kubble Star | 129218 | [129218-kubble-star.json](./129218-kubble-star.json) |
+| Kube | 180095 | [180095-kube.json](./180095-kube.json) |
 | Kube Kreatures: Bleached White | 386274 | [386274-kube-kreatures-bleached-white.json](./386274-kube-kreatures-bleached-white.json) |
 | Kubic | 283143 | [283143-kubic.json](./283143-kubic.json) |
 | Kubika | 390136 | [390136-kubika.json](./390136-kubika.json) |
