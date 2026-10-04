@@ -2780,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Shurican | 183467 | [183467-ninja-shurican.json](./183467-ninja-shurican.json) |
 | Ninja Shuriken Master | 300855 | [300855-ninja-shuriken-master.json](./300855-ninja-shuriken-master.json) |
 | Ninja Sneaking VS | 244892 | [244892-ninja-sneaking-vs.json](./244892-ninja-sneaking-vs.json) |
+| Ninja Specialist | 207184 | [207184-ninja-specialist.json](./207184-ninja-specialist.json) |
 | Ninja Spirit | 219020 | [219020-ninja-spirit.json](./219020-ninja-spirit.json) |
 | Ninja Spirit | 6819 | [6819-ninja-spirit.json](./6819-ninja-spirit.json) |
 | Ninja Stealth 2 | 29639 | [29639-ninja-stealth-2.json](./29639-ninja-stealth-2.json) |
@@ -3927,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nukepath | 219625 | [219625-nukepath.json](./219625-nukepath.json) |
 | Nuketris | 145666 | [145666-nuketris.json](./145666-nuketris.json) |
 | NukiTashi | 201846 | [201846-nukitashi.json](./201846-nukitashi.json) |
+| Nukitashi 2 | 207209 | [207209-nukitashi-2.json](./207209-nukitashi-2.json) |
 | Nulandia | 304718 | [304718-nulandia.json](./304718-nulandia.json) |
 | Null & Peta -Invasion of the Queen Bug- | 127372 | [127372-null-and-peta-invasion-of-the-queen-bug.json](./127372-null-and-peta-invasion-of-the-queen-bug.json) |
 | Null Breach | 239151 | [239151-null-breach.json](./239151-null-breach.json) |
@@ -4061,6 +4063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuts | 309576 | [309576-nuts.json](./309576-nuts.json) |
 | Nuts & Bolts Puzzle | 265749 | [265749-nuts-and-bolts-puzzle.json](./265749-nuts-and-bolts-puzzle.json) |
 | Nuts Physics | 175272 | [175272-nuts-physics.json](./175272-nuts-physics.json) |
+| Nuts Protocol | 207192 | [207192-nuts-protocol.json](./207192-nuts-protocol.json) |
 | NutsMania | 401757 | [401757-nutsmania.json](./401757-nutsmania.json) |
 | Nutty | 299170 | [299170-nutty.json](./299170-nutty.json) |
 | Nutty Motorcars | 215626 | [215626-nutty-motorcars.json](./215626-nutty-motorcars.json) |
