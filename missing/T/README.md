@@ -4411,6 +4411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Definitive Subsistence Update | 374288 | [374288-the-definitive-subsistence-update.json](./374288-the-definitive-subsistence-update.json) |
 | The Deletion | 34768 | [34768-the-deletion.json](./34768-the-deletion.json) |
 | The Delirium Dimension | 269658 | [269658-the-delirium-dimension.json](./269658-the-delirium-dimension.json) |
+| The Deliverer | 180643 | [180643-the-deliverer.json](./180643-the-deliverer.json) |
 | The DeLuca Family: Season 1 | 297721 | [297721-the-deluca-family-season-1.json](./297721-the-deluca-family-season-1.json) |
 | The Delusions of Maximillian Wurst | 243646 | [243646-the-delusions-of-maximillian-wurst.json](./243646-the-delusions-of-maximillian-wurst.json) |
 | The Delusions of Von Sottendorff and His Squared Mind | 63520 | [63520-the-delusions-of-von-sottendorff-and-his-squared-mind.json](./63520-the-delusions-of-von-sottendorff-and-his-squared-mind.json) |
@@ -4831,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eventide | 411687 | [411687-the-eventide.json](./411687-the-eventide.json) |
 | The Evidence | 209567 | [209567-the-evidence.json](./209567-the-evidence.json) |
 | The Evil Dead | 25832 | [25832-the-evil-dead.json](./25832-the-evil-dead.json) |
+| The Evil Resides | 180636 | [180636-the-evil-resides.json](./180636-the-evil-resides.json) |
 | The Evil Sect | 296473 | [296473-the-evil-sect.json](./296473-the-evil-sect.json) |
 | The Evil Unleashed | 313836 | [313836-the-evil-unleashed.json](./313836-the-evil-unleashed.json) |
 | The Evil Within Bundle | 154961 | [154961-the-evil-within-bundle.json](./154961-the-evil-within-bundle.json) |
@@ -5305,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gazebo | 358949 | [358949-the-gazebo.json](./358949-the-gazebo.json) |
 | The Geekwad: Games of the Galaxy | 71772 | [71772-the-geekwad-games-of-the-galaxy.json](./71772-the-geekwad-games-of-the-galaxy.json) |
 | The Gem Collector | 85435 | [85435-the-gem-collector.json](./85435-the-gem-collector.json) |
+| The Gems | 180626 | [180626-the-gems.json](./180626-the-gems.json) |
 | The Gene Machine | 19672 | [19672-the-gene-machine.json](./19672-the-gene-machine.json) |
 | The General | 174369 | [174369-the-general.json](./174369-the-general.json) |
 | The General Retreats | 102375 | [102375-the-general-retreats.json](./102375-the-general-retreats.json) |
@@ -5496,6 +5499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Stroke-Off! | 73311 | [73311-the-great-stroke-off.json](./73311-the-great-stroke-off.json) |
 | The Great Tournament | 86758 | [86758-the-great-tournament.json](./86758-the-great-tournament.json) |
 | The Great Tournament 2 | 86759 | [86759-the-great-tournament-2.json](./86759-the-great-tournament-2.json) |
+| The Great Tsunami | 180662 | [180662-the-great-tsunami.json](./180662-the-great-tsunami.json) |
 | The Great Urban Battle | 260142 | [260142-the-great-urban-battle.json](./260142-the-great-urban-battle.json) |
 | The Great Villainess: Strategy of Lily | 259708 | [259708-the-great-villainess-strategy-of-lily.json](./259708-the-great-villainess-strategy-of-lily.json) |
 | The Great Waldo Search | 275020 | [275020-the-great-waldo-search.json](./275020-the-great-waldo-search.json) |
@@ -5660,6 +5664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Herbalist | 231526 | [231526-the-herbalist.json](./231526-the-herbalist.json) |
 | The Hermit | 111221 | [111221-the-hermit.json](./111221-the-hermit.json) |
 | The Hermit's Secret | 25131 | [25131-the-hermits-secret.json](./25131-the-hermits-secret.json) |
+| The Hero Business | 180656 | [180656-the-hero-business.json](./180656-the-hero-business.json) |
 | The Hero gives up!... Wait, What!? | 265582 | [265582-the-hero-gives-up-wait-what.json](./265582-the-hero-gives-up-wait-what.json) |
 | The Hero of Bangaona | 173067 | [173067-the-hero-of-bangaona.json](./173067-the-hero-of-bangaona.json) |
 | The Hero of Destiny Was Killed by the Final Boss | 386940 | [386940-the-hero-of-destiny-was-killed-by-the-final-boss.json](./386940-the-hero-of-destiny-was-killed-by-the-final-boss.json) |
@@ -7793,6 +7798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outlaw and the Newcomer | 216998 | [216998-the-outlaw-and-the-newcomer.json](./216998-the-outlaw-and-the-newcomer.json) |
 | The Outpost | 156055 | [156055-the-outpost.json](./156055-the-outpost.json) |
 | The Outreach | 294360 | [294360-the-outreach.json](./294360-the-outreach.json) |
+| The Outsider | 180560 | [180560-the-outsider.json](./180560-the-outsider.json) |
 | The Outskirts | 412394 | [412394-the-outskirts.json](./412394-the-outskirts.json) |
 | The Overlook Rehaunted | 276762 | [276762-the-overlook-rehaunted.json](./276762-the-overlook-rehaunted.json) |
 | The Overnight Watch | 321438 | [321438-the-overnight-watch.json](./321438-the-overnight-watch.json) |
@@ -9809,6 +9815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unplace | 373191 | [373191-the-unplace.json](./373191-the-unplace.json) |
 | The Unrest Age | 197852 | [197852-the-unrest-age.json](./197852-the-unrest-age.json) |
 | The Unrested | 334297 | [334297-the-unrested.json](./334297-the-unrested.json) |
+| The Unseen | 180565 | [180565-the-unseen.json](./180565-the-unseen.json) |
 | The Unseen Awakening | 347148 | [347148-the-unseen-awakening.json](./347148-the-unseen-awakening.json) |
 | The Unseen Fears: Body Thief - Collector's Edition | 377077 | [377077-the-unseen-fears-body-thief-collectors-edition.json](./377077-the-unseen-fears-body-thief-collectors-edition.json) |
 | The Unseen Fears: Inner Darkness - Collector's Edition | 416788 | [416788-the-unseen-fears-inner-darkness-collectors-edition.json](./416788-the-unseen-fears-inner-darkness-collectors-edition.json) |
@@ -10971,6 +10978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thumb Buggy | 243086 | [243086-thumb-buggy.json](./243086-thumb-buggy.json) |
 | Thumb Drift | 58840 | [58840-thumb-drift.json](./58840-thumb-drift.json) |
 | Thumb Tanks | 236200 | [236200-thumb-tanks.json](./236200-thumb-tanks.json) |
+| Thumb War | 180652 | [180652-thumb-war.json](./180652-thumb-war.json) |
 | ThumBeat | 124623 | [124623-thumbeat.json](./124623-thumbeat.json) |
 | ThumBeat: Button Basher Edition | 196136 | [196136-thumbeat-button-basher-edition.json](./196136-thumbeat-button-basher-edition.json) |
 | Thumblemania | 348346 | [348346-thumblemania.json](./348346-thumblemania.json) |
@@ -12879,6 +12887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaru Pantsu no Railgun | 204322 | [204322-toaru-pantsu-no-railgun.json](./204322-toaru-pantsu-no-railgun.json) |
 | Toast Ghost | 307739 | [307739-toast-ghost.json](./307739-toast-ghost.json) |
 | Toast Hell | 350556 | [350556-toast-hell.json](./350556-toast-hell.json) |
+| Toast Jammer | 180642 | [180642-toast-jammer.json](./180642-toast-jammer.json) |
 | Toast Shooter | 260199 | [260199-toast-shooter.json](./260199-toast-shooter.json) |
 | Toast the Chicken: Hard Puzzle Game Unique Brain Teaser | 232534 | [232534-toast-the-chicken-hard-puzzle-game-unique-brain-teaser.json](./232534-toast-the-chicken-hard-puzzle-game-unique-brain-teaser.json) |
 | Toast the Ghost | 220146 | [220146-toast-the-ghost.json](./220146-toast-the-ghost.json) |
@@ -15787,6 +15796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapper's Delight | 32701 | [32701-trappers-delight.json](./32701-trappers-delight.json) |
 | Trappuzzler | 158173 | [158173-trappuzzler.json](./158173-trappuzzler.json) |
 | Trappy Climb | 181870 | [181870-trappy-climb.json](./181870-trappy-climb.json) |
+| Trappy Dungeon | 180563 | [180563-trappy-dungeon.json](./180563-trappy-dungeon.json) |
 | Trappy Mine | 181859 | [181859-trappy-mine.json](./181859-trappy-mine.json) |
 | Traps 'n' Treasures | 37275 | [37275-traps-n-treasures.json](./37275-traps-n-treasures.json) |
 | Traps in Space | 142482 | [142482-traps-in-space.json](./142482-traps-in-space.json) |
