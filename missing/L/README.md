@@ -2399,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Snow Wolf | 246981 | [246981-life-of-snow-wolf.json](./246981-life-of-snow-wolf.json) |
 | Life of Tabayama | 344557 | [344557-life-of-tabayama.json](./344557-life-of-tabayama.json) |
 | Life on a Pizza | 164880 | [164880-life-on-a-pizza.json](./164880-life-on-a-pizza.json) |
+| Life on the Earth | 175677 | [175677-life-on-the-earth.json](./175677-life-on-the-earth.json) |
 | Life Save Service | 376677 | [376677-life-save-service.json](./376677-life-save-service.json) |
 | Life Saver | 247989 | [247989-life-saver.json](./247989-life-saver.json) |
 | Life Sim | 404409 | [404409-life-sim.json](./404409-life-sim.json) |
@@ -4297,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Anomaly | 325622 | [325622-lost-in-anomaly.json](./325622-lost-in-anomaly.json) |
 | Lost in Art | 407328 | [407328-lost-in-art.json](./407328-lost-in-art.json) |
 | Lost in Blindness | 146709 | [146709-lost-in-blindness.json](./146709-lost-in-blindness.json) |
+| Lost in Blue | 175759 | [175759-lost-in-blue.json](./175759-lost-in-blue.json) |
 | Lost In Blue 2: Fate's Island | 318018 | [318018-lost-in-blue-2-fates-island.json](./318018-lost-in-blue-2-fates-island.json) |
 | Lost in Blue 3 | 21361 | [21361-lost-in-blue-3.json](./21361-lost-in-blue-3.json) |
 | Lost in Cairo | 284909 | [284909-lost-in-cairo.json](./284909-lost-in-cairo.json) |
