@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G2 Fighter | 110443 | [110443-g2-fighter.json](./110443-g2-fighter.json) |
 | G30 | 101501 | [101501-g30.json](./101501-g30.json) |
 | GA Geijutsuka Art Design Class: Slapstick Wonderland | 241429 | [241429-ga-geijutsuka-art-design-class-slapstick-wonderland.json](./241429-ga-geijutsuka-art-design-class-slapstick-wonderland.json) |
+| GA1: An Assassin in Orlandes | 175757 | [175757-ga1-an-assassin-in-orlandes.json](./175757-ga1-an-assassin-in-orlandes.json) |
 | Gabbuchi | 114429 | [114429-gabbuchi.json](./114429-gabbuchi.json) |
 | Gaben Clicker | 54468 | [54468-gaben-clicker.json](./54468-gaben-clicker.json) |
 | GabeN: The Final Decision | 34448 | [34448-gaben-the-final-decision.json](./34448-gaben-the-final-decision.json) |
@@ -212,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Senki Muryou | 49563 | [49563-gakuen-senki-muryou.json](./49563-gakuen-senki-muryou.json) |
 | Gakuen Sentai Solblast | 322189 | [322189-gakuen-sentai-solblast.json](./322189-gakuen-sentai-solblast.json) |
 | Gakuin Makyo: High School Crisis | 322577 | [322577-gakuin-makyo-high-school-crisis.json](./322577-gakuin-makyo-high-school-crisis.json) |
+| Gakusen Toshi Asteriks Festa: Kirameki no Stella | 175688 | [175688-gakusen-toshi-asteriks-festa-kirameki-no-stella.json](./175688-gakusen-toshi-asteriks-festa-kirameki-no-stella.json) |
 | Gal Guardians: Demon Purge | 212571 | [212571-gal-guardians-demon-purge.json](./212571-gal-guardians-demon-purge.json) |
 | Gal Gunvolt Burst | 92038 | [92038-gal-gunvolt-burst.json](./92038-gal-gunvolt-burst.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
