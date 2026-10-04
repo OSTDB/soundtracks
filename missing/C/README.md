@@ -8077,6 +8077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CowaCowa: Jinmenken | 339328 | [339328-cowacowa-jinmenken.json](./339328-cowacowa-jinmenken.json) |
 | Coward | 132664 | [132664-coward.json](./132664-coward.json) |
 | Cowardice | 199512 | [199512-cowardice.json](./199512-cowardice.json) |
+| Cowardly Heroes | 182298 | [182298-cowardly-heroes.json](./182298-cowardly-heroes.json) |
 | Cowbots and Aliens | 31595 | [31595-cowbots-and-aliens.json](./31595-cowbots-and-aliens.json) |
 | Cowboy | 346053 | [346053-cowboy.json](./346053-cowboy.json) |
 | Cowboy 3030 | 266220 | [266220-cowboy-3030.json](./266220-cowboy-3030.json) |
