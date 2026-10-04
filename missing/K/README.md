@@ -1860,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings Shire | 237073 | [237073-kings-shire.json](./237073-kings-shire.json) |
 | Kings under the hill | 31390 | [31390-kings-under-the-hill.json](./31390-kings-under-the-hill.json) |
 | Kings' Cross | 112354 | [112354-kings-cross.json](./112354-kings-cross.json) |
+| Kingsblood | 216706 | [216706-kingsblood.json](./216706-kingsblood.json) |
 | Kingsburg Serving the Crown | 205090 | [205090-kingsburg-serving-the-crown.json](./205090-kingsburg-serving-the-crown.json) |
 | Kingsland Online | 137551 | [137551-kingsland-online.json](./137551-kingsland-online.json) |
 | Kingslayer Tactics | 117065 | [117065-kingslayer-tactics.json](./117065-kingslayer-tactics.json) |
@@ -2388,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Decayden | 209529 | [209529-knights-of-decayden.json](./209529-knights-of-decayden.json) |
 | Knights of Dice | 235822 | [235822-knights-of-dice.json](./235822-knights-of-dice.json) |
 | Knights of Fate | 201575 | [201575-knights-of-fate.json](./201575-knights-of-fate.json) |
+| Knights of Frontier Valley | 216695 | [216695-knights-of-frontier-valley.json](./216695-knights-of-frontier-valley.json) |
 | Knights of Grumthorr | 149444 | [149444-knights-of-grumthorr.json](./149444-knights-of-grumthorr.json) |
 | Knights of Honor II: Sovereign | 121919 | [121919-knights-of-honor-ii-sovereign.json](./121919-knights-of-honor-ii-sovereign.json) |
 | Knights of Legend | 47224 | [47224-knights-of-legend.json](./47224-knights-of-legend.json) |
