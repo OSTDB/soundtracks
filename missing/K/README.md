@@ -908,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenka ga Tsuyokute Cool de Tsuyoki no Furyou Kanojo ga Yowai Boku o Kabatte Kegasaremasu | 82481 | [82481-kenka-ga-tsuyokute-cool-de-tsuyoki-no-furyou-kanojo-ga-yowai-boku-o-kabatte-kegasaremasu.json](./82481-kenka-ga-tsuyokute-cool-de-tsuyoki-no-furyou-kanojo-ga-yowai-boku-o-kabatte-kegasaremasu.json) |
 | KenKen Pro by Will Shortz | 66747 | [66747-kenken-pro-by-will-shortz.json](./66747-kenken-pro-by-will-shortz.json) |
 | KenKen: Train Your Brain | 68022 | [68022-kenken-train-your-brain.json](./68022-kenken-train-your-brain.json) |
+| Kenkoku no Shokudou | 222367 | [222367-kenkoku-no-shokudou.json](./222367-kenkoku-no-shokudou.json) |
 | Kennedy Approach | 25920 | [25920-kennedy-approach.json](./25920-kennedy-approach.json) |
 | Kenny 7 | 253310 | [253310-kenny-7.json](./253310-kenny-7.json) |
 | Kenny vs. Spenny: Best Friends/Worst Enemies | 303697 | [303697-kenny-vs-spenny-best-friends-worst-enemies.json](./303697-kenny-vs-spenny-best-friends-worst-enemies.json) |
