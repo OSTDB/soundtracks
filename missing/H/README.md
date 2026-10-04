@@ -6627,6 +6627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypermarket Simulator | 335855 | [335855-hypermarket-simulator.json](./335855-hypermarket-simulator.json) |
 | Hypermind | 193471 | [193471-hypermind.json](./193471-hypermind.json) |
 | Hypernet Arena | 108864 | [108864-hypernet-arena.json](./108864-hypernet-arena.json) |
+| HyperNova | 199465 | [199465-hypernova.json](./199465-hypernova.json) |
 | HyperParasite | 101257 | [101257-hyperparasite.json](./101257-hyperparasite.json) |
 | HyperPop | 298664 | [298664-hyperpop.json](./298664-hyperpop.json) |
 | HyperPortals | 195712 | [195712-hyperportals.json](./195712-hyperportals.json) |
