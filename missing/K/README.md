@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-9 Dog Job | 286756 | [286756-k-9-dog-job.json](./286756-k-9-dog-job.json) |
 | K-Bot | 303610 | [303610-k-bot.json](./303610-k-bot.json) |
 | K-ON! Houkago Live!! | 38485 | [38485-k-on-houkago-live.json](./38485-k-on-houkago-live.json) |
+| K-ON! Houkago Live!! HD Ver. | 206606 | [206606-k-on-houkago-live-hd-ver.json](./206606-k-on-houkago-live-hd-ver.json) |
 | K-ON! Houkago Rhythm Time | 269593 | [269593-k-on-houkago-rhythm-time.json](./269593-k-on-houkago-rhythm-time.json) |
 | K-ON!!: Houkago Rhythm Selection | 201262 | [201262-k-on-houkago-rhythm-selection.json](./201262-k-on-houkago-rhythm-selection.json) |
 | K-Pop Fandom Korean Quiz | 401102 | [401102-k-pop-fandom-korean-quiz.json](./401102-k-pop-fandom-korean-quiz.json) |
@@ -3229,6 +3230,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyokugen Dasshutsu Minigame: Renda Shibou Desu | 298861 | [298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json](./298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json) |
 | Kyonyuu Hitozuma Shimai wa Nakadashi Niku Benki: Oi no Wakai Kyokon ni Soku Ochi Mesu Yorokobi de Netori Haramase Onedari | 59029 | [59029-kyonyuu-hitozuma-shimai-wa-nakadashi-niku-benki-oi-no-wakai-kyokon-ni-soku-ochi-mesu-yorokobi-de-netori-haramase-onedari.json](./59029-kyonyuu-hitozuma-shimai-wa-nakadashi-niku-benki-oi-no-wakai-kyokon-ni-soku-ochi-mesu-yorokobi-de-netori-haramase-onedari.json) |
 | Kyora | 325587 | [325587-kyora.json](./325587-kyora.json) |
+| Kyoro-chan Land | 206598 | [206598-kyoro-chan-land.json](./206598-kyoro-chan-land.json) |
+| Kyoro-chan Land | 206604 | [206604-kyoro-chan-land.json](./206604-kyoro-chan-land.json) |
 | Kyoryu | 315130 | [315130-kyoryu.json](./315130-kyoryu.json) |
 | Kyosho | 320817 | [320817-kyosho.json](./320817-kyosho.json) |
 | Kyoto | 128630 | [128630-kyoto.json](./128630-kyoto.json) |
