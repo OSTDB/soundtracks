@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayball | 119657 | [119657-rayball.json](./119657-rayball.json) |
 | Raybeem | 369204 | [369204-raybeem.json](./369204-raybeem.json) |
 | Raybound | 145683 | [145683-raybound.json](./145683-raybound.json) |
+| Raycast Racer | 185508 | [185508-raycast-racer.json](./185508-raycast-racer.json) |
 | RayCity | 116391 | [116391-raycity.json](./116391-raycity.json) |
 | RayForce | 22349 | [22349-rayforce.json](./22349-rayforce.json) |
 | Raygraze | 196323 | [196323-raygraze.json](./196323-raygraze.json) |
@@ -5045,6 +5046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Smash | 273642 | [273642-rocket-smash.json](./273642-rocket-smash.json) |
 | Rocket Space Ship Frontier | 243091 | [243091-rocket-space-ship-frontier.json](./243091-rocket-space-ship-frontier.json) |
 | Rocket Spin Orbit Glide | 369128 | [369128-rocket-spin-orbit-glide.json](./369128-rocket-spin-orbit-glide.json) |
+| Rocket Theater Rehearsal | 185484 | [185484-rocket-theater-rehearsal.json](./185484-rocket-theater-rehearsal.json) |
 | Rocket Time Trials: Galactic Highway | 389070 | [389070-rocket-time-trials-galactic-highway.json](./389070-rocket-time-trials-galactic-highway.json) |
 | Rocket Valet! Galaxy Landing Service | 212818 | [212818-rocket-valet-galaxy-landing-service.json](./212818-rocket-valet-galaxy-landing-service.json) |
 | Rocket Wrestling Entertainment | 353290 | [353290-rocket-wrestling-entertainment.json](./353290-rocket-wrestling-entertainment.json) |
