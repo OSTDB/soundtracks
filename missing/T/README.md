@@ -13937,6 +13937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Spell Bubble: Character Pack Hong Meiling | 246646 | [246646-touhou-spell-bubble-character-pack-hong-meiling.json](./246646-touhou-spell-bubble-character-pack-hong-meiling.json) |
 | Touhou Spell Bubble: Character Pack Kogasa Tatara | 209492 | [209492-touhou-spell-bubble-character-pack-kogasa-tatara.json](./209492-touhou-spell-bubble-character-pack-kogasa-tatara.json) |
 | Touhou Spell Bubble: Diao ye zong - Song Pack | 209169 | [209169-touhou-spell-bubble-diao-ye-zong-song-pack.json](./209169-touhou-spell-bubble-diao-ye-zong-song-pack.json) |
+| Touhou Spell Bubble: Liz Triangle Song Pack | 209355 | [209355-touhou-spell-bubble-liz-triangle-song-pack.json](./209355-touhou-spell-bubble-liz-triangle-song-pack.json) |
 | Touhou Spell Bubble: Rhythm Game Song Pack | 209443 | [209443-touhou-spell-bubble-rhythm-game-song-pack.json](./209443-touhou-spell-bubble-rhythm-game-song-pack.json) |
 | Touhou Spell Bubble: Scarlet Devil Land Arrange Song Pack Vol.2 | 209468 | [209468-touhou-spell-bubble-scarlet-devil-land-arrange-song-pack-vol-2.json](./209468-touhou-spell-bubble-scarlet-devil-land-arrange-song-pack-vol-2.json) |
 | Touhou Spell Bubble: Side Story Pack Sanae Arc | 144773 | [144773-touhou-spell-bubble-side-story-pack-sanae-arc.json](./144773-touhou-spell-bubble-side-story-pack-sanae-arc.json) |
@@ -16037,6 +16038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Tiles | 178548 | [178548-triple-tiles.json](./178548-triple-tiles.json) |
 | Triple Tournament | 313098 | [313098-triple-tournament.json](./313098-triple-tournament.json) |
 | Triple Triad | 386989 | [386989-triple-triad.json](./386989-triple-triad.json) |
+| Triple Triad: Tournament of the Elements | 209374 | [209374-triple-triad-tournament-of-the-elements.json](./209374-triple-triad-tournament-of-the-elements.json) |
 | Triple X Tycoon | 31892 | [31892-triple-x-tycoon.json](./31892-triple-x-tycoon.json) |
 | Triple Yatzy for iPad | 101494 | [101494-triple-yatzy-for-ipad.json](./101494-triple-yatzy-for-ipad.json) |
 | Triple Zombie Collection | 274443 | [274443-triple-zombie-collection.json](./274443-triple-zombie-collection.json) |
