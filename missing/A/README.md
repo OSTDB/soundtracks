@@ -1802,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aetherglen | 347806 | [347806-aetherglen.json](./347806-aetherglen.json) |
 | Aetherial | 357786 | [357786-aetherial.json](./357786-aetherial.json) |
 | Aetherica: Echoes of Exodus | 391868 | [391868-aetherica-echoes-of-exodus.json](./391868-aetherica-echoes-of-exodus.json) |
+| Aetheris | 199436 | [199436-aetheris.json](./199436-aetheris.json) |
 | AetherShot | 318055 | [318055-aethershot.json](./318055-aethershot.json) |
 | Aetherspace | 44089 | [44089-aetherspace.json](./44089-aetherspace.json) |
 | Aethus | 270142 | [270142-aethus.json](./270142-aethus.json) |
@@ -2010,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Defense | 29247 | [29247-age-of-defense.json](./29247-age-of-defense.json) |
 | Age of Defense 3 | 327421 | [327421-age-of-defense-3.json](./327421-age-of-defense-3.json) |
 | Age of Defense: Prehistory | 309860 | [309860-age-of-defense-prehistory.json](./309860-age-of-defense-prehistory.json) |
+| Age of Discovery | 199457 | [199457-age-of-discovery.json](./199457-age-of-discovery.json) |
 | Age of Dynasty | 213428 | [213428-age-of-dynasty.json](./213428-age-of-dynasty.json) |
 | Age of Emerald | 132173 | [132173-age-of-emerald.json](./132173-age-of-emerald.json) |
 | Age of Empires II Mobile | 144346 | [144346-age-of-empires-ii-mobile.json](./144346-age-of-empires-ii-mobile.json) |
@@ -6753,6 +6755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid: Revenge of Doh | 282802 | [282802-arkanoid-revenge-of-doh.json](./282802-arkanoid-revenge-of-doh.json) |
 | ArkanoidSmoking | 54452 | [54452-arkanoidsmoking.json](./54452-arkanoidsmoking.json) |
 | Arkball | 102392 | [102392-arkball.json](./102392-arkball.json) |
+| Arkell | 199453 | [199453-arkell.json](./199453-arkell.json) |
 | Arken | 177337 | [177337-arken.json](./177337-arken.json) |
 | Arkfront | 182204 | [182204-arkfront.json](./182204-arkfront.json) |
 | Arkham Detective | 278178 | [278178-arkham-detective.json](./278178-arkham-detective.json) |
