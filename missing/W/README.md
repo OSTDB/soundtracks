@@ -1864,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Bank VR | 76678 | [76678-western-bank-vr.json](./76678-western-bank-vr.json) |
 | Western Bar | 346076 | [346076-western-bar.json](./346076-western-bar.json) |
 | Western Death | 312614 | [312614-western-death.json](./312614-western-death.json) |
+| Western Dual Wield | 207750 | [207750-western-dual-wield.json](./207750-western-dual-wield.json) |
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
 | Western Province | 114810 | [114810-western-province.json](./114810-western-province.json) |
 | Western Quest | 244181 | [244181-western-quest.json](./244181-western-quest.json) |
