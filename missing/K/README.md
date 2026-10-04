@@ -2019,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Epic Yarn | 2184 | [2184-kirbys-epic-yarn.json](./2184-kirbys-epic-yarn.json) |
 | Kirby's Pinball Land DX | 279225 | [279225-kirbys-pinball-land-dx.json](./279225-kirbys-pinball-land-dx.json) |
 | Kirchhoff's Revenge | 89398 | [89398-kirchhoffs-revenge.json](./89398-kirchhoffs-revenge.json) |
+| Kirigami | 183384 | [183384-kirigami.json](./183384-kirigami.json) |
 | Kirikou | 50028 | [50028-kirikou.json](./50028-kirikou.json) |
 | Kirilma: Helix Horizon | 406847 | [406847-kirilma-helix-horizon.json](./406847-kirilma-helix-horizon.json) |
 | Kiritan Island Okawari! | 204731 | [204731-kiritan-island-okawari.json](./204731-kiritan-island-okawari.json) |
