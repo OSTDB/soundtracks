@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Finding Furbabies: Collector's Edition | 277576 | [277576-i-love-finding-furbabies-collectors-edition.json](./277576-i-love-finding-furbabies-collectors-edition.json) |
 | I Love Finding More Cats | 190729 | [190729-i-love-finding-more-cats.json](./190729-i-love-finding-more-cats.json) |
 | I Love Finding More Cats!: Collector's Edition | 205224 | [205224-i-love-finding-more-cats-collectors-edition.json](./205224-i-love-finding-more-cats-collectors-edition.json) |
+| I Love Finding More Pups | 207733 | [207733-i-love-finding-more-pups.json](./207733-i-love-finding-more-pups.json) |
 | I Love Finding Pups!: Collector's Edition | 187452 | [187452-i-love-finding-pups-collectors-edition.json](./187452-i-love-finding-pups-collectors-edition.json) |
 | I Love Food | 197907 | [197907-i-love-food.json](./197907-i-love-food.json) |
 | I Love Horses | 47975 | [47975-i-love-horses.json](./47975-i-love-horses.json) |
