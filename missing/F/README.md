@@ -2527,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy | 286674 | [286674-final-fantasy.json](./286674-final-fantasy.json) |
 | Final Fantasy | 380632 | [380632-final-fantasy.json](./380632-final-fantasy.json) |
 | Final Fantasy | 408304 | [408304-final-fantasy.json](./408304-final-fantasy.json) |
+| Final Fantasy ++ | 214990 | [214990-final-fantasy.json](./214990-final-fantasy.json) |
 | Final Fantasy 25th Anniversary Ultimate Box | 282727 | [282727-final-fantasy-25th-anniversary-ultimate-box.json](./282727-final-fantasy-25th-anniversary-ultimate-box.json) |
 | Final Fantasy Adventure DX | 306591 | [306591-final-fantasy-adventure-dx.json](./306591-final-fantasy-adventure-dx.json) |
 | Final Fantasy Agito | 7400 | [7400-final-fantasy-agito.json](./7400-final-fantasy-agito.json) |
@@ -3444,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist of Awesome | 17501 | [17501-fist-of-awesome.json](./17501-fist-of-awesome.json) |
 | Fist of Brave | 86231 | [86231-fist-of-brave.json](./86231-fist-of-brave.json) |
 | Fist of the North Star | 172517 | [172517-fist-of-the-north-star.json](./172517-fist-of-the-north-star.json) |
+| Fist of the North Star | 215174 | [215174-fist-of-the-north-star.json](./215174-fist-of-the-north-star.json) |
 | Fist of the North Star Legends Revive | 120171 | [120171-fist-of-the-north-star-legends-revive.json](./120171-fist-of-the-north-star-legends-revive.json) |
 | Fist of the North Star: Ken's Rage 2 | 5313 | [5313-fist-of-the-north-star-kens-rage-2.json](./5313-fist-of-the-north-star-kens-rage-2.json) |
 | Fist of the North Star: Lost Paradise - Premium Edition | 212335 | [212335-fist-of-the-north-star-lost-paradise-premium-edition.json](./212335-fist-of-the-north-star-lost-paradise-premium-edition.json) |
@@ -7225,6 +7227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FX Football | 9788 | [9788-fx-football.json](./9788-fx-football.json) |
 | FX Racer | 380682 | [380682-fx-racer.json](./380682-fx-racer.json) |
 | Fyd | 80898 | [80898-fyd.json](./80898-fyd.json) |
+| Fydo's Magic Tiles | 215179 | [215179-fydos-magic-tiles.json](./215179-fydos-magic-tiles.json) |
 | Fylgja | 92098 | [92098-fylgja.json](./92098-fylgja.json) |
 | FYR: The Lost Island | 372613 | [372613-fyr-the-lost-island.json](./372613-fyr-the-lost-island.json) |
 | Fyrardien | 384525 | [384525-fyrardien.json](./384525-fyrardien.json) |
