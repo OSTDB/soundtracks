@@ -1184,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bar Oasis | 63803 | [63803-bar-oasis.json](./63803-bar-oasis.json) |
 | Bar Simulator | 407335 | [407335-bar-simulator.json](./407335-bar-simulator.json) |
 | Bar Stella Abyss | 277489 | [277489-bar-stella-abyss.json](./277489-bar-stella-abyss.json) |
+| Bar the Gates | 185467 | [185467-bar-the-gates.json](./185467-bar-the-gates.json) |
 | Bara Boarders | 183046 | [183046-bara-boarders.json](./183046-bara-boarders.json) |
 | Bara no Ki ni Bara no Hanasaku Fandisk | 218954 | [218954-bara-no-ki-ni-bara-no-hanasaku-fandisk.json](./218954-bara-no-ki-ni-bara-no-hanasaku-fandisk.json) |
 | Bara no Ki ni: Bara no Hanasaku | 56522 | [56522-bara-no-ki-ni-bara-no-hanasaku.json](./56522-bara-no-ki-ni-bara-no-hanasaku.json) |
@@ -7217,6 +7218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Egg | 96287 | [96287-bouncy-egg.json](./96287-bouncy-egg.json) |
 | Bouncy Goal | 242219 | [242219-bouncy-goal.json](./242219-bouncy-goal.json) |
 | Bouncy Goat Climb | 186688 | [186688-bouncy-goat-climb.json](./186688-bouncy-goat-climb.json) |
+| Bouncy Heroes | 185486 | [185486-bouncy-heroes.json](./185486-bouncy-heroes.json) |
 | Bouncy Jump Ball | 231974 | [231974-bouncy-jump-ball.json](./231974-bouncy-jump-ball.json) |
 | Bouncy Kingdoms | 397768 | [397768-bouncy-kingdoms.json](./397768-bouncy-kingdoms.json) |
 | Bouncy Pork Simulator | 339394 | [339394-bouncy-pork-simulator.json](./339394-bouncy-pork-simulator.json) |
@@ -8895,6 +8897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Cell | 136239 | [136239-bullet-cell.json](./136239-bullet-cell.json) |
 | Bullet Chase | 205032 | [205032-bullet-chase.json](./205032-bullet-chase.json) |
 | Bullet Destroyer | 226273 | [226273-bullet-destroyer.json](./226273-bullet-destroyer.json) |
+| Bullet Express | 185477 | [185477-bullet-express.json](./185477-bullet-express.json) |
 | Bullet Fractals | 181894 | [181894-bullet-fractals.json](./181894-bullet-fractals.json) |
 | Bullet Frenzy | 269041 | [269041-bullet-frenzy.json](./269041-bullet-frenzy.json) |
 | Bullet Grinder | 190952 | [190952-bullet-grinder.json](./190952-bullet-grinder.json) |
