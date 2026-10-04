@@ -1861,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MareQuest | 230240 | [230240-marequest.json](./230240-marequest.json) |
 | Margareta | 182810 | [182810-margareta.json](./182810-margareta.json) |
 | Margery | 388408 | [388408-margery.json](./388408-margery.json) |
+| Margikarman ItoA | 180084 | [180084-margikarman-itoa.json](./180084-margikarman-itoa.json) |
 | Marginal Break | 236260 | [236260-marginal-break.json](./236260-marginal-break.json) |
 | Margo: On The Brink | 223373 | [223373-margo-on-the-brink.json](./223373-margo-on-the-brink.json) |
 | Margo: The Bean Adventure | 174305 | [174305-margo-the-bean-adventure.json](./174305-margo-the-bean-adventure.json) |
@@ -2310,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marlene Betwixt | 56537 | [56537-marlene-betwixt.json](./56537-marlene-betwixt.json) |
 | Marley & Marley | 250502 | [250502-marley-and-marley.json](./250502-marley-and-marley.json) |
 | Marlow Briggs and the Mask of Death | 8006 | [8006-marlow-briggs-and-the-mask-of-death.json](./8006-marlow-briggs-and-the-mask-of-death.json) |
+| Marlow in Apocalyptic Acid World | 180053 | [180053-marlow-in-apocalyptic-acid-world.json](./180053-marlow-in-apocalyptic-acid-world.json) |
 | Marlowe's Path | 179060 | [179060-marlowes-path.json](./179060-marlowes-path.json) |
 | Marmalade Boy | 38339 | [38339-marmalade-boy.json](./38339-marmalade-boy.json) |
 | Marmoset | 189110 | [189110-marmoset.json](./189110-marmoset.json) |
