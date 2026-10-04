@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bass Landing 2 | 55879 | [55879-bass-landing-2.json](./55879-bass-landing-2.json) |
 | Bass Landing 3 | 55878 | [55878-bass-landing-3.json](./55878-bass-landing-3.json) |
 | Bass Masters Classic | 49867 | [49867-bass-masters-classic.json](./49867-bass-masters-classic.json) |
+| Bass Monkey | 191041 | [191041-bass-monkey.json](./191041-bass-monkey.json) |
 | Bass Pro Shops Fishing Sim World | 139982 | [139982-bass-pro-shops-fishing-sim-world.json](./139982-bass-pro-shops-fishing-sim-world.json) |
 | Bass Pro Shops Trophy Hunter 2007 | 5737 | [5737-bass-pro-shops-trophy-hunter-2007.json](./5737-bass-pro-shops-trophy-hunter-2007.json) |
 | Bass Pro Shops: The Strike - Championship Edition | 110428 | [110428-bass-pro-shops-the-strike-championship-edition.json](./110428-bass-pro-shops-the-strike-championship-edition.json) |
@@ -4601,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black & White | 376747 | [376747-black-and-white.json](./376747-black-and-white.json) |
 | Black 9 | 369716 | [369716-black-9.json](./369716-black-9.json) |
 | Black Abyss | 284005 | [284005-black-abyss.json](./284005-black-abyss.json) |
+| Black Ace | 191067 | [191067-black-ace.json](./191067-black-ace.json) |
 | Black Armor: Battle For Survivors | 326173 | [326173-black-armor-battle-for-survivors.json](./326173-black-armor-battle-for-survivors.json) |
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
 | Black Baby | 139292 | [139292-black-baby.json](./139292-black-baby.json) |
@@ -5730,6 +5732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood in Baldur's Gate | 274016 | [274016-blood-in-baldurs-gate.json](./274016-blood-in-baldurs-gate.json) |
 | Blood in the Panopticon | 395552 | [395552-blood-in-the-panopticon.json](./395552-blood-in-the-panopticon.json) |
 | Blood Island | 113898 | [113898-blood-island.json](./113898-blood-island.json) |
+| Blood Island | 191035 | [191035-blood-island.json](./191035-blood-island.json) |
 | Blood Island | 227916 | [227916-blood-island.json](./227916-blood-island.json) |
 | Blood Kiss | 146247 | [146247-blood-kiss.json](./146247-blood-kiss.json) |
 | Blood Knights | 8421 | [8421-blood-knights.json](./8421-blood-knights.json) |
@@ -8042,6 +8045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Buddies | 272274 | [272274-brick-buddies.json](./272274-brick-buddies.json) |
 | Brick Building | 166220 | [166220-brick-building.json](./166220-brick-building.json) |
 | Brick City | 214526 | [214526-brick-city.json](./214526-brick-city.json) |
+| Brick Cracker 3D | 191029 | [191029-brick-cracker-3d.json](./191029-brick-cracker-3d.json) |
 | Brick Crossy Road | 241613 | [241613-brick-crossy-road.json](./241613-brick-crossy-road.json) |
 | Brick Dungeon | 256457 | [256457-brick-dungeon.json](./256457-brick-dungeon.json) |
 | Brick Exorcist | 344423 | [344423-brick-exorcist.json](./344423-brick-exorcist.json) |
