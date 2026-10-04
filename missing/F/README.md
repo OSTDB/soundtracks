@@ -1565,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faster than light? | 178437 | [178437-faster-than-light.json](./178437-faster-than-light.json) |
 | Fastest 1 | 122854 | [122854-fastest-1.json](./122854-fastest-1.json) |
 | Fastest Finger First! 3 Hint Quiz | 283287 | [283287-fastest-finger-first-3-hint-quiz.json](./283287-fastest-finger-first-3-hint-quiz.json) |
+| FastFWD | 183388 | [183388-fastfwd.json](./183388-fastfwd.json) |
 | FastGo Running | 104021 | [104021-fastgo-running.json](./104021-fastgo-running.json) |
 | Fasthand | 360734 | [360734-fasthand.json](./360734-fasthand.json) |
 | Fastidious | 381013 | [381013-fastidious.json](./381013-fastidious.json) |
@@ -4187,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flock Party | 250869 | [250869-flock-party.json](./250869-flock-party.json) |
 | Flock VR | 30108 | [30108-flock-vr.json](./30108-flock-vr.json) |
 | Flockland Island Crisis | 286594 | [286594-flockland-island-crisis.json](./286594-flockland-island-crisis.json) |
+| Flockoban | 183399 | [183399-flockoban.json](./183399-flockoban.json) |
 | Flocks | 174193 | [174193-flocks.json](./174193-flocks.json) |
 | Flockwork | 252926 | [252926-flockwork.json](./252926-flockwork.json) |
 | Flong: Directors Cut | 377746 | [377746-flong-directors-cut.json](./377746-flong-directors-cut.json) |
@@ -4356,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluff Friends Rescue | 225697 | [225697-fluff-friends-rescue.json](./225697-fluff-friends-rescue.json) |
 | Fluff Up | 405579 | [405579-fluff-up.json](./405579-fluff-up.json) |
 | Fluff'n'Roll | 323516 | [323516-fluffnroll.json](./323516-fluffnroll.json) |
+| Fluffland | 183421 | [183421-fluffland.json](./183421-fluffland.json) |
 | Flufftopia | 134696 | [134696-flufftopia.json](./134696-flufftopia.json) |
 | Flufftopia: Fluffmazing Edition | 386272 | [386272-flufftopia-fluffmazing-edition.json](./386272-flufftopia-fluffmazing-edition.json) |
 | Fluffy | 29808 | [29808-fluffy.json](./29808-fluffy.json) |
@@ -7029,6 +7032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furious Goal | 123529 | [123529-furious-goal.json](./123529-furious-goal.json) |
 | Furious Golf | 180768 | [180768-furious-golf.json](./180768-furious-golf.json) |
 | Furious Karting | 47310 | [47310-furious-karting.json](./47310-furious-karting.json) |
+| Furious Parry | 183383 | [183383-furious-parry.json](./183383-furious-parry.json) |
 | Furious Race | 105985 | [105985-furious-race.json](./105985-furious-race.json) |
 | Furious Revenge of Bolo | 153893 | [153893-furious-revenge-of-bolo.json](./153893-furious-revenge-of-bolo.json) |
 | Furious Seas | 103775 | [103775-furious-seas.json](./103775-furious-seas.json) |
