@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achtung! Cthulhu Tactics | 106562 | [106562-achtung-cthulhu-tactics.json](./106562-achtung-cthulhu-tactics.json) |
 | Acid Drop | 11111 | [11111-acid-drop.json](./11111-acid-drop.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
+| Acid Girls' Escape | 205568 | [205568-acid-girls-escape.json](./205568-acid-girls-escape.json) |
 | Acid Moon | 135092 | [135092-acid-moon.json](./135092-acid-moon.json) |
 | Acid Reflux | 274437 | [274437-acid-reflux.json](./274437-acid-reflux.json) |
 | Acid Spy | 102877 | [102877-acid-spy.json](./102877-acid-spy.json) |
@@ -2134,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aghia | 406804 | [406804-aghia.json](./406804-aghia.json) |
 | Agile Firefighter | 207912 | [207912-agile-firefighter.json](./207912-agile-firefighter.json) |
 | AGIS | 239647 | [239647-agis.json](./239647-agis.json) |
+| Aglet: The Sneaker Game | 205586 | [205586-aglet-the-sneaker-game.json](./205586-aglet-the-sneaker-game.json) |
 | Agnostic Requiem | 273363 | [273363-agnostic-requiem.json](./273363-agnostic-requiem.json) |
 | Agnostiko Origins | 305986 | [305986-agnostiko-origins.json](./305986-agnostiko-origins.json) |
 | Agon: The Lost Sword of Toledo | 9953 | [9953-agon-the-lost-sword-of-toledo.json](./9953-agon-the-lost-sword-of-toledo.json) |
