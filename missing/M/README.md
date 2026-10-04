@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Lords of Brams | 215608 | [215608-mage-lords-of-brams.json](./215608-mage-lords-of-brams.json) |
 | Mage Mania | 120408 | [120408-mage-mania.json](./120408-mage-mania.json) |
 | Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
+| Mage Noir | 199439 | [199439-mage-noir.json](./199439-mage-noir.json) |
 | Mage of Tempest Castle | 371352 | [371352-mage-of-tempest-castle.json](./371352-mage-of-tempest-castle.json) |
 | Mage Outbreak | 355615 | [355615-mage-outbreak.json](./355615-mage-outbreak.json) |
 | Mage Recall | 402284 | [402284-mage-recall.json](./402284-mage-recall.json) |
@@ -2837,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of the Monster Lair | 21276 | [21276-master-of-the-monster-lair.json](./21276-master-of-the-monster-lair.json) |
 | Master of the Wind | 123642 | [123642-master-of-the-wind.json](./123642-master-of-the-wind.json) |
 | Master of Vtuber | 267452 | [267452-master-of-vtuber.json](./267452-master-of-vtuber.json) |
+| Master of War: Rule of Power | 199451 | [199451-master-of-war-rule-of-power.json](./199451-master-of-war-rule-of-power.json) |
 | Master Pyrox Wizard Smackdown | 102924 | [102924-master-pyrox-wizard-smackdown.json](./102924-master-pyrox-wizard-smackdown.json) |
 | Master Rallye | 44707 | [44707-master-rallye.json](./44707-master-rallye.json) |
 | Master Reboot | 10541 | [10541-master-reboot.json](./10541-master-reboot.json) |
@@ -8005,6 +8007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly | 131463 | [131463-monopoly.json](./131463-monopoly.json) |
 | Monopoly | 131548 | [131548-monopoly.json](./131548-monopoly.json) |
 | Monopoly | 186723 | [186723-monopoly.json](./186723-monopoly.json) |
+| Monopoly | 199430 | [199430-monopoly.json](./199430-monopoly.json) |
 | Monopoly | 228550 | [228550-monopoly.json](./228550-monopoly.json) |
 | Monopoly | 23767 | [23767-monopoly.json](./23767-monopoly.json) |
 | Monopoly | 335112 | [335112-monopoly.json](./335112-monopoly.json) |
@@ -8950,6 +8953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat Mythologies: Sub-Zero | 1610 | [1610-mortal-kombat-mythologies-sub-zero.json](./1610-mortal-kombat-mythologies-sub-zero.json) |
 | Mortal Kombat Mythologies: Sub-Zero | 198829 | [198829-mortal-kombat-mythologies-sub-zero.json](./198829-mortal-kombat-mythologies-sub-zero.json) |
 | Mortal Kombat Trilogy | 199010 | [199010-mortal-kombat-trilogy.json](./199010-mortal-kombat-trilogy.json) |
+| Mortal Kombat Trilogy | 199431 | [199431-mortal-kombat-trilogy.json](./199431-mortal-kombat-trilogy.json) |
 | Mortal Kombat Trilogy | 4121 | [4121-mortal-kombat-trilogy.json](./4121-mortal-kombat-trilogy.json) |
 | Mortal Kombat vs. DC Universe | 1617 | [1617-mortal-kombat-vs-dc-universe.json](./1617-mortal-kombat-vs-dc-universe.json) |
 | Mortal Kombat X | 241492 | [241492-mortal-kombat-x.json](./241492-mortal-kombat-x.json) |
