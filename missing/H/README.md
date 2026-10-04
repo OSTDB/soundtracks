@@ -4593,6 +4593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood Mogul 4 | 334337 | [334337-hollywood-mogul-4.json](./334337-hollywood-mogul-4.json) |
 | Hollywood Monsters | 71516 | [71516-hollywood-monsters.json](./71516-hollywood-monsters.json) |
 | Hollywood or Bust | 13878 | [13878-hollywood-or-bust.json](./13878-hollywood-or-bust.json) |
+| Hollywood Pets | 209914 | [209914-hollywood-pets.json](./209914-hollywood-pets.json) |
 | Hollywood Pictures II | 53208 | [53208-hollywood-pictures-ii.json](./53208-hollywood-pictures-ii.json) |
 | Hollywood Pinball | 49862 | [49862-hollywood-pinball.json](./49862-hollywood-pinball.json) |
 | Hollywood Poker Pro | 75232 | [75232-hollywood-poker-pro.json](./75232-hollywood-poker-pro.json) |
@@ -4781,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homehead | 346023 | [346023-homehead.json](./346023-homehead.json) |
 | Homekeeping | 341675 | [341675-homekeeping.json](./341675-homekeeping.json) |
 | Homeland | 3948 | [3948-homeland.json](./3948-homeland.json) |
+| Homeland Defense: National Security Patrol | 209915 | [209915-homeland-defense-national-security-patrol.json](./209915-homeland-defense-national-security-patrol.json) |
 | Homeless | 277287 | [277287-homeless.json](./277287-homeless.json) |
 | Homeless | 312726 | [312726-homeless.json](./312726-homeless.json) |
 | Homeless Guy | 258733 | [258733-homeless-guy.json](./258733-homeless-guy.json) |
@@ -4792,6 +4794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeostasis | 389444 | [389444-homeostasis.json](./389444-homeostasis.json) |
 | Homepage | 347702 | [347702-homepage.json](./347702-homepage.json) |
 | Homer the Flanders Killer 6 | 268487 | [268487-homer-the-flanders-killer-6.json](./268487-homer-the-flanders-killer-6.json) |
+| Homerun Bun | 209947 | [209947-homerun-bun.json](./209947-homerun-bun.json) |
 | Homerun Clash 2: Legends Derby | 312584 | [312584-homerun-clash-2-legends-derby.json](./312584-homerun-clash-2-legends-derby.json) |
 | Homerun Hitters | 66766 | [66766-homerun-hitters.json](./66766-homerun-hitters.json) |
 | Homerun King - Pro Baseball | 39011 | [39011-homerun-king-pro-baseball.json](./39011-homerun-king-pro-baseball.json) |
@@ -5444,6 +5447,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Shots Golf: Open Tee 2 | 21050 | [21050-hot-shots-golf-open-tee-2.json](./21050-hot-shots-golf-open-tee-2.json) |
 | Hot Shots Golf: Out of Bounds | 154692 | [154692-hot-shots-golf-out-of-bounds.json](./154692-hot-shots-golf-out-of-bounds.json) |
 | Hot Shots Golf: World Invitational | 7301 | [7301-hot-shots-golf-world-invitational.json](./7301-hot-shots-golf-world-invitational.json) |
+| Hot Shots Shorties: Blue | 209920 | [209920-hot-shots-shorties-blue.json](./209920-hot-shots-shorties-blue.json) |
+| Hot Shots Shorties: Green | 209921 | [209921-hot-shots-shorties-green.json](./209921-hot-shots-shorties-green.json) |
+| Hot Shots Shorties: Red | 209922 | [209922-hot-shots-shorties-red.json](./209922-hot-shots-shorties-red.json) |
+| Hot Shots Shorties: Yellow | 209923 | [209923-hot-shots-shorties-yellow.json](./209923-hot-shots-shorties-yellow.json) |
 | Hot Shots Soccer | 101570 | [101570-hot-shots-soccer.json](./101570-hot-shots-soccer.json) |
 | Hot Slice: Lust Exposed | 340487 | [340487-hot-slice-lust-exposed.json](./340487-hot-slice-lust-exposed.json) |
 | Hot Slide | 152920 | [152920-hot-slide.json](./152920-hot-slide.json) |
@@ -5893,16 +5900,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Illusions Mahjongg | 54108 | [54108-hoyle-illusions-mahjongg.json](./54108-hoyle-illusions-mahjongg.json) |
 | Hoyle Jewels: Swap & Drop It | 210071 | [210071-hoyle-jewels-swap-and-drop-it.json](./210071-hoyle-jewels-swap-and-drop-it.json) |
 | Hoyle Kid's Card Games | 99000 | [99000-hoyle-kids-card-games.json](./99000-hoyle-kids-card-games.json) |
+| Hoyle Kids Games | 210073 | [210073-hoyle-kids-games.json](./210073-hoyle-kids-games.json) |
 | Hoyle Official Book of Games: Volume 1 | 57604 | [57604-hoyle-official-book-of-games-volume-1.json](./57604-hoyle-official-book-of-games-volume-1.json) |
 | Hoyle Official Book of Games: Volume 2 | 73331 | [73331-hoyle-official-book-of-games-volume-2.json](./73331-hoyle-official-book-of-games-volume-2.json) |
 | Hoyle Official Card Games Collection | 34590 | [34590-hoyle-official-card-games-collection.json](./34590-hoyle-official-card-games-collection.json) |
 | Hoyle Official Casino Games Collection | 87061 | [87061-hoyle-official-casino-games-collection.json](./87061-hoyle-official-casino-games-collection.json) |
 | Hoyle Parlor Games | 89693 | [89693-hoyle-parlor-games.json](./89693-hoyle-parlor-games.json) |
+| Hoyle Poker Series | 210074 | [210074-hoyle-poker-series.json](./210074-hoyle-poker-series.json) |
 | Hoyle Puzzle & Board Games | 25013 | [25013-hoyle-puzzle-and-board-games.json](./25013-hoyle-puzzle-and-board-games.json) |
 | Hoyle Puzzle & Board Games 2005 | 97127 | [97127-hoyle-puzzle-and-board-games-2005.json](./97127-hoyle-puzzle-and-board-games-2005.json) |
 | Hoyle Puzzle & Board Games 2007 | 97129 | [97129-hoyle-puzzle-and-board-games-2007.json](./97129-hoyle-puzzle-and-board-games-2007.json) |
 | Hoyle Puzzle & Board Games 2008 | 97128 | [97128-hoyle-puzzle-and-board-games-2008.json](./97128-hoyle-puzzle-and-board-games-2008.json) |
 | Hoyle Puzzle & Board Games 2009 | 210052 | [210052-hoyle-puzzle-and-board-games-2009.json](./210052-hoyle-puzzle-and-board-games-2009.json) |
+| Hoyle Puzzle & Board Games 2011 | 210075 | [210075-hoyle-puzzle-and-board-games-2011.json](./210075-hoyle-puzzle-and-board-games-2011.json) |
 | Hoyle Puzzle and Board Games 2010 | 51209 | [51209-hoyle-puzzle-and-board-games-2010.json](./51209-hoyle-puzzle-and-board-games-2010.json) |
 | Hoyle Solitaire | 73883 | [73883-hoyle-solitaire.json](./73883-hoyle-solitaire.json) |
 | Hoyle South Beach Solitaire | 210051 | [210051-hoyle-south-beach-solitaire.json](./210051-hoyle-south-beach-solitaire.json) |
@@ -6430,6 +6440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Bishi Bashi Champ | 228466 | [228466-hyper-bishi-bashi-champ.json](./228466-hyper-bishi-bashi-champ.json) |
 | Hyper Black Bass '95 | 61349 | [61349-hyper-black-bass-95.json](./61349-hyper-black-bass-95.json) |
 | Hyper Bun Buster: Rocket Hammer Action | 368624 | [368624-hyper-bun-buster-rocket-hammer-action.json](./368624-hyper-bun-buster-rocket-hammer-action.json) |
+| Hyper Cards | 209936 | [209936-hyper-cards.json](./209936-hyper-cards.json) |
 | Hyper Chess | 353916 | [353916-hyper-chess.json](./353916-hyper-chess.json) |
 | Hyper Danganronpa Melancholy | 304342 | [304342-hyper-danganronpa-melancholy.json](./304342-hyper-danganronpa-melancholy.json) |
 | Hyper Demon | 218183 | [218183-hyper-demon.json](./218183-hyper-demon.json) |
