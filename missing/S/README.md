@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SandTest | 146870 | [146870-sandtest.json](./146870-sandtest.json) |
 | Sandtrix | 251225 | [251225-sandtrix.json](./251225-sandtrix.json) |
 | Sandtrix+ | 280778 | [280778-sandtrix.json](./280778-sandtrix.json) |
+| Sandu ish! | 176337 | [176337-sandu-ish.json](./176337-sandu-ish.json) |
 | Sandustry | 285974 | [285974-sandustry.json](./285974-sandustry.json) |
 | Sandvich Maker | 294431 | [294431-sandvich-maker.json](./294431-sandvich-maker.json) |
 | Sandwalkers | 165392 | [165392-sandwalkers.json](./165392-sandwalkers.json) |
@@ -6101,6 +6102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren | 14522 | [14522-siren.json](./14522-siren.json) |
 | Siren | 195494 | [195494-siren.json](./195494-siren.json) |
 | Siren Head Dating Sim | 177958 | [177958-siren-head-dating-sim.json](./177958-siren-head-dating-sim.json) |
+| Siren Head Resurrection | 176246 | [176246-siren-head-resurrection.json](./176246-siren-head-resurrection.json) |
 | Siren Head SCP 6789 | 243223 | [243223-siren-head-scp-6789.json](./243223-siren-head-scp-6789.json) |
 | Siren Head: Stranded | 309120 | [309120-siren-head-stranded.json](./309120-siren-head-stranded.json) |
 | Siren Head: The Arrival | 312360 | [312360-siren-head-the-arrival.json](./312360-siren-head-the-arrival.json) |
@@ -17550,6 +17552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sudoku | 195526 | [195526-super-sudoku.json](./195526-super-sudoku.json) |
 | Super Sunny World | 324695 | [324695-super-sunny-world.json](./324695-super-sunny-world.json) |
 | Super Super Fun World | 276937 | [276937-super-super-fun-world.json](./276937-super-super-fun-world.json) |
+| Super Super Super Super | 176331 | [176331-super-super-super-super.json](./176331-super-super-super-super.json) |
 | Super Surf Bros | 128609 | [128609-super-surf-bros.json](./128609-super-surf-bros.json) |
 | Super Sus | 198201 | [198201-super-sus.json](./198201-super-sus.json) |
 | Super Sushi Roll | 219575 | [219575-super-sushi-roll.json](./219575-super-sushi-roll.json) |
