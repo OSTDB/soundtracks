@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Swords: Mystery Scroll | 83544 | [83544-tale-of-swords-mystery-scroll.json](./83544-tale-of-swords-mystery-scroll.json) |
 | Tale of the Bear and the Beech Tree | 398347 | [398347-tale-of-the-bear-and-the-beech-tree.json](./398347-tale-of-the-bear-and-the-beech-tree.json) |
 | Tale of the Fragmented Star: Single Fragment Version | 109477 | [109477-tale-of-the-fragmented-star-single-fragment-version.json](./109477-tale-of-the-fragmented-star-single-fragment-version.json) |
+| Tale of the Kissing Bandit | 217768 | [217768-tale-of-the-kissing-bandit.json](./217768-tale-of-the-kissing-bandit.json) |
 | Tale of the Seas | 287744 | [287744-tale-of-the-seas.json](./287744-tale-of-the-seas.json) |
 | Tale of the Shadow World | 267681 | [267681-tale-of-the-shadow-world.json](./267681-tale-of-the-shadow-world.json) |
 | Tale of the Singing Peaks | 301846 | [301846-tale-of-the-singing-peaks.json](./301846-tale-of-the-singing-peaks.json) |
@@ -852,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Pierre the Parrot | 320944 | [320944-talking-pierre-the-parrot.json](./320944-talking-pierre-the-parrot.json) |
 | Talking Pinball | 346043 | [346043-talking-pinball.json](./346043-talking-pinball.json) |
 | Talking Roby the Robot | 343796 | [343796-talking-roby-the-robot.json](./343796-talking-roby-the-robot.json) |
+| Talking Saban's Mighty Morphin Power Rangers: The Solar Stealers | 217938 | [217938-talking-sabans-mighty-morphin-power-rangers-the-solar-stealers.json](./217938-talking-sabans-mighty-morphin-power-rangers-the-solar-stealers.json) |
 | Talking to My Dad | 229016 | [229016-talking-to-my-dad.json](./229016-talking-to-my-dad.json) |
 | Talking Tom Candy Run | 107165 | [107165-talking-tom-candy-run.json](./107165-talking-tom-candy-run.json) |
 | Talking Tom Cat | 214349 | [214349-talking-tom-cat.json](./214349-talking-tom-cat.json) |
@@ -1427,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tass Times in Tonetown | 29031 | [29031-tass-times-in-tonetown.json](./29031-tass-times-in-tonetown.json) |
 | Taste of Blood | 361268 | [361268-taste-of-blood.json](./361268-taste-of-blood.json) |
 | Taste of Seduction | 212198 | [212198-taste-of-seduction.json](./212198-taste-of-seduction.json) |
+| Taste of Sweet Magic | 217784 | [217784-taste-of-sweet-magic.json](./217784-taste-of-sweet-magic.json) |
 | Taste of the Wind | 366249 | [366249-taste-of-the-wind.json](./366249-taste-of-the-wind.json) |
 | Taste of War | 232929 | [232929-taste-of-war.json](./232929-taste-of-war.json) |
 | TasteMaker | 143630 | [143630-tastemaker.json](./143630-tastemaker.json) |
@@ -3783,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Child Of Slendrina | 323911 | [323911-the-child-of-slendrina.json](./323911-the-child-of-slendrina.json) |
 | The Chilling Moment You Realize It: Creepy Meaning Psychological Test | 410366 | [410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json](./410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json) |
 | The Chinese Room | 26699 | [26699-the-chinese-room.json](./26699-the-chinese-room.json) |
+| The Chipmunks | 217948 | [217948-the-chipmunks.json](./217948-the-chipmunks.json) |
 | The Chiral Night: Rhythm Carnival | 230197 | [230197-the-chiral-night-rhythm-carnival.json](./230197-the-chiral-night-rhythm-carnival.json) |
 | The Choco Of Dunkers 2003 | 97488 | [97488-the-choco-of-dunkers-2003.json](./97488-the-choco-of-dunkers-2003.json) |
 | The Choicer Voicer | 307223 | [307223-the-choicer-voicer.json](./307223-the-choicer-voicer.json) |
@@ -5110,6 +5114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Freddy Files | 277284 | [277284-the-freddy-files.json](./277284-the-freddy-files.json) |
 | The Free Shepherd | 381202 | [381202-the-free-shepherd.json](./381202-the-free-shepherd.json) |
 | The French and Indian War | 182258 | [182258-the-french-and-indian-war.json](./182258-the-french-and-indian-war.json) |
+| The Frenetic Five vs. Sturm und Drang | 217771 | [217771-the-frenetic-five-vs-sturm-und-drang.json](./217771-the-frenetic-five-vs-sturm-und-drang.json) |
 | The Fridge is Red | 141660 | [141660-the-fridge-is-red.json](./141660-the-fridge-is-red.json) |
 | The friends of Ringo Ishikawa | 98898 | [98898-the-friends-of-ringo-ishikawa.json](./98898-the-friends-of-ringo-ishikawa.json) |
 | The Friends of Ringo Ishikawa: Special Edition | 406100 | [406100-the-friends-of-ringo-ishikawa-special-edition.json](./406100-the-friends-of-ringo-ishikawa-special-edition.json) |
@@ -6771,6 +6776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lion King II: Simba's Pride: Special Edition - Timon And Pumbaa’s Virtual Safari 2.0: Prideland Pachiderm Safari | 325090 | [325090-the-lion-king-ii-simbas-pride-special-edition-timon-and-pumbaa-s-virtual-safari-2-0-prideland-pachiderm-safari.json](./325090-the-lion-king-ii-simbas-pride-special-edition-timon-and-pumbaa-s-virtual-safari-2-0-prideland-pachiderm-safari.json) |
 | The Lion King: Platinum Edition - Timon And Pumbaa’s Virtual Safari Boat Tour | 325093 | [325093-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-boat-tour.json](./325093-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-boat-tour.json) |
 | The Lion King: Platinum Edition - Timon And Pumbaa’s Virtual Safari Jeep Tour | 325092 | [325092-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-jeep-tour.json](./325092-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-jeep-tour.json) |
+| The Lion King: Timon & Pumbaa | 217955 | [217955-the-lion-king-timon-and-pumbaa.json](./217955-the-lion-king-timon-and-pumbaa.json) |
 | The Lion's Song | 26674 | [26674-the-lions-song.json](./26674-the-lions-song.json) |
 | The Lion's Song: Episode 2 - Anthology | 168343 | [168343-the-lions-song-episode-2-anthology.json](./168343-the-lions-song-episode-2-anthology.json) |
 | The Lion's Song: Episode 3 - Derivation | 168345 | [168345-the-lions-song-episode-3-derivation.json](./168345-the-lions-song-episode-3-derivation.json) |
@@ -9128,6 +9134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Telltale Games Collection | 99799 | [99799-the-telltale-games-collection.json](./99799-the-telltale-games-collection.json) |
 | The Telwynium | 179663 | [179663-the-telwynium.json](./179663-the-telwynium.json) |
 | The Telwynium | 404830 | [404830-the-telwynium.json](./404830-the-telwynium.json) |
+| The Tempest | 217775 | [217775-the-tempest.json](./217775-the-tempest.json) |
 | The Template | 359009 | [359009-the-template.json](./359009-the-template.json) |
 | The Temple | 292549 | [292549-the-temple.json](./292549-the-temple.json) |
 | The Temple of Adventure | 165406 | [165406-the-temple-of-adventure.json](./165406-the-temple-of-adventure.json) |
@@ -15533,6 +15540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treachery in Beatdown City: U.N. Trouble | 272568 | [272568-treachery-in-beatdown-city-u-n-trouble.json](./272568-treachery-in-beatdown-city-u-n-trouble.json) |
 | Treadmillasaurus Rex | 377740 | [377740-treadmillasaurus-rex.json](./377740-treadmillasaurus-rex.json) |
 | Treason | 190229 | [190229-treason.json](./190229-treason.json) |
+| Treasure | 217778 | [217778-treasure.json](./217778-treasure.json) |
 | Treasure | 358936 | [358936-treasure.json](./358936-treasure.json) |
 | Treasure 'n Trio | 320773 | [320773-treasure-n-trio.json](./320773-treasure-n-trio.json) |
 | Treasure Action: Threatened, Violated & Sacrificed Sherry | 82923 | [82923-treasure-action-threatened-violated-and-sacrificed-sherry.json](./82923-treasure-action-threatened-violated-and-sacrificed-sherry.json) |
