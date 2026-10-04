@@ -2721,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsudou Nippon! Rosen Tabi: Kikansha Thomas-hen - Ooigawa Tetsudou wo Hashirou! | 221731 | [221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json](./221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json) |
 | Tetsudou-ou | 48880 | [48880-tetsudou-ou.json](./48880-tetsudou-ou.json) |
 | Tetsuo Gaiden | 46565 | [46565-tetsuo-gaiden.json](./46565-tetsuo-gaiden.json) |
+| Tetsuwan Atom | 186707 | [186707-tetsuwan-atom.json](./186707-tetsuwan-atom.json) |
 | Teuflisch gute Spiele | 92304 | [92304-teuflisch-gute-spiele.json](./92304-teuflisch-gute-spiele.json) |
 | Tevi: Fauna Arcana | 403199 | [403199-tevi-fauna-arcana.json](./403199-tevi-fauna-arcana.json) |
 | Tex Murphy: Killing Moon Rising | 404988 | [404988-tex-murphy-killing-moon-rising.json](./404988-tex-murphy-killing-moon-rising.json) |
@@ -6913,6 +6914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Witch Shop: New in Town | 240794 | [240794-the-little-witch-shop-new-in-town.json](./240794-the-little-witch-shop-new-in-town.json) |
 | The Living Dungeon | 21316 | [21316-the-living-dungeon.json](./21316-the-living-dungeon.json) |
 | The Living End & Elder World Waystation | 271480 | [271480-the-living-end-and-elder-world-waystation.json](./271480-the-living-end-and-elder-world-waystation.json) |
+| The Living Handra | 186669 | [186669-the-living-handra.json](./186669-the-living-handra.json) |
 | The Living Remain | 103536 | [103536-the-living-remain.json](./103536-the-living-remain.json) |
 | The Lizard King | 239154 | [239154-the-lizard-king.json](./239154-the-lizard-king.json) |
 | The Llama | 387343 | [387343-the-llama.json](./387343-the-llama.json) |
@@ -8362,6 +8364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Route | 266320 | [266320-the-route.json](./266320-the-route.json) |
 | The Royal Finale | 313687 | [313687-the-royal-finale.json](./313687-the-royal-finale.json) |
 | The Royal Game of Ur | 73500 | [73500-the-royal-game-of-ur.json](./73500-the-royal-game-of-ur.json) |
+| The Royal Game of Ur 3D | 186692 | [186692-the-royal-game-of-ur-3d.json](./186692-the-royal-game-of-ur-3d.json) |
 | The Royal Heir: Book 1 | 313675 | [313675-the-royal-heir-book-1.json](./313675-the-royal-heir-book-1.json) |
 | The Royal Heir: Book 2 | 313684 | [313684-the-royal-heir-book-2.json](./313684-the-royal-heir-book-2.json) |
 | The Royal Heir: Book 3 | 313685 | [313685-the-royal-heir-book-3.json](./313685-the-royal-heir-book-3.json) |
@@ -9851,6 +9854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Virtual Museum of Dead-Wifery | 188617 | [188617-the-virtual-museum-of-dead-wifery.json](./188617-the-virtual-museum-of-dead-wifery.json) |
 | The Virus | 156541 | [156541-the-virus.json](./156541-the-virus.json) |
 | The Virus Game | 375853 | [375853-the-virus-game.json](./375853-the-virus-game.json) |
+| The Vision of the Ant | 186682 | [186682-the-vision-of-the-ant.json](./186682-the-vision-of-the-ant.json) |
 | The Visit | 128660 | [128660-the-visit.json](./128660-the-visit.json) |
 | The Visit | 201289 | [201289-the-visit.json](./201289-the-visit.json) |
 | The Visit | 212153 | [212153-the-visit.json](./212153-the-visit.json) |
@@ -10286,6 +10290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatre of Death | 15483 | [15483-theatre-of-death.json](./15483-theatre-of-death.json) |
 | Theatre of Doom | 28183 | [28183-theatre-of-doom.json](./28183-theatre-of-doom.json) |
 | Theatre of Pain | 316792 | [316792-theatre-of-pain.json](./316792-theatre-of-pain.json) |
+| Theatre of Sorrows | 186706 | [186706-theatre-of-sorrows.json](./186706-theatre-of-sorrows.json) |
 | Theatre of The Absurd | 17367 | [17367-theatre-of-the-absurd.json](./17367-theatre-of-the-absurd.json) |
 | Theatre of the Absurd: A Scarlet Frost Mystery | 53792 | [53792-theatre-of-the-absurd-a-scarlet-frost-mystery.json](./53792-theatre-of-the-absurd-a-scarlet-frost-mystery.json) |
 | Theatre of War | 166632 | [166632-theatre-of-war.json](./166632-theatre-of-war.json) |
@@ -14467,6 +14472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townopolis Romopolis Megapolis Collection | 53836 | [53836-townopolis-romopolis-megapolis-collection.json](./53836-townopolis-romopolis-megapolis-collection.json) |
 | Towns | 28041 | [28041-towns.json](./28041-towns.json) |
 | Towns and Towers | 341866 | [341866-towns-and-towers.json](./341866-towns-and-towers.json) |
+| Towns Battleground | 186670 | [186670-towns-battleground.json](./186670-towns-battleground.json) |
 | Towns of Yore | 247671 | [247671-towns-of-yore.json](./247671-towns-of-yore.json) |
 | Townscaper VR | 223141 | [223141-townscaper-vr.json](./223141-townscaper-vr.json) |
 | Townseek | 177316 | [177316-townseek.json](./177316-townseek.json) |
