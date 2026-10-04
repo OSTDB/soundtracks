@@ -3687,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Up | 386297 | [386297-beyond-up.json](./386297-beyond-up.json) |
 | Beyond Yardwork Simulator | 397238 | [397238-beyond-yardwork-simulator.json](./397238-beyond-yardwork-simulator.json) |
 | Beyond Ynth HDX | 103880 | [103880-beyond-ynth-hdx.json](./103880-beyond-ynth-hdx.json) |
+| Beyond Your Fear | 195596 | [195596-beyond-your-fear.json](./195596-beyond-your-fear.json) |
 | Beyond Your Wall | 369593 | [369593-beyond-your-wall.json](./369593-beyond-your-wall.json) |
 | Beyond Zero Line | 386299 | [386299-beyond-zero-line.json](./386299-beyond-zero-line.json) |
 | Beyond-Human | 56598 | [56598-beyond-human.json](./56598-beyond-human.json) |
@@ -4064,6 +4065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy | 126539 | [126539-billy.json](./126539-billy.json) |
 | Billy 101 | 192964 | [192964-billy-101.json](./192964-billy-101.json) |
 | Billy Bob's Huntin'-n-Fishin' | 49913 | [49913-billy-bobs-huntin-n-fishin.json](./49913-billy-bobs-huntin-n-fishin.json) |
+| Billy Bonka | 195563 | [195563-billy-bonka.json](./195563-billy-bonka.json) |
 | Billy Boots' Treasure | 396548 | [396548-billy-boots-treasure.json](./396548-billy-boots-treasure.json) |
 | Billy Boy | 72130 | [72130-billy-boy.json](./72130-billy-boy.json) |
 | Billy Boy's Important Wine Lottery | 317404 | [317404-billy-boys-important-wine-lottery.json](./317404-billy-boys-important-wine-lottery.json) |
@@ -5609,6 +5611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Roads | 23413 | [23413-blocky-roads.json](./23413-blocky-roads.json) |
 | Blocky Rugby | 58198 | [58198-blocky-rugby.json](./58198-blocky-rugby.json) |
 | Blocky San Andreas Police 2018 | 102753 | [102753-blocky-san-andreas-police-2018.json](./102753-blocky-san-andreas-police-2018.json) |
+| Blocky Snake | 195558 | [195558-blocky-snake.json](./195558-blocky-snake.json) |
 | Blocky Soccer | 58205 | [58205-blocky-soccer.json](./58205-blocky-soccer.json) |
 | Blocky Space Puzzle | 106733 | [106733-blocky-space-puzzle.json](./106733-blocky-space-puzzle.json) |
 | Blocky XMas | 101769 | [101769-blocky-xmas.json](./101769-blocky-xmas.json) |
