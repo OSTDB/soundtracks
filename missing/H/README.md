@@ -2989,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Pop | 151603 | [151603-hero-pop.json](./151603-hero-pop.json) |
 | Hero Quest | 331670 | [331670-hero-quest.json](./331670-hero-quest.json) |
 | Hero Quest: Tower Conflict | 33248 | [33248-hero-quest-tower-conflict.json](./33248-hero-quest-tower-conflict.json) |
+| Hero Realms | 203785 | [203785-hero-realms.json](./203785-hero-realms.json) |
 | Hero Rescue | 319947 | [319947-hero-rescue.json](./319947-hero-rescue.json) |
 | Hero Rescue 3 | 233511 | [233511-hero-rescue-3.json](./233511-hero-rescue-3.json) |
 | Hero Rescue Agency | 409661 | [409661-hero-rescue-agency.json](./409661-hero-rescue-agency.json) |
@@ -4871,6 +4872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Peach | 48307 | [48307-honey-peach.json](./48307-honey-peach.json) |
 | Honey Pot | 317391 | [317391-honey-pot.json](./317391-honey-pot.json) |
 | Honey Select 2: Libido | 134622 | [134622-honey-select-2-libido.json](./134622-honey-select-2-libido.json) |
+| Honey Select 2: Libido DX | 203777 | [203777-honey-select-2-libido-dx.json](./203777-honey-select-2-libido-dx.json) |
 | Honey Time! with Pooh! | 286613 | [286613-honey-time-with-pooh.json](./286613-honey-time-with-pooh.json) |
 | Honey Toast | 207508 | [207508-honey-toast.json](./207508-honey-toast.json) |
 | Honey Trap | 379540 | [379540-honey-trap.json](./379540-honey-trap.json) |
