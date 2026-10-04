@@ -3747,6 +3747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChinanaGo! | 416732 | [416732-chinanago.json](./416732-chinanago.json) |
 | Chinatown | 272012 | [272012-chinatown.json](./272012-chinatown.json) |
 | Chinatown Detective Agency | 125715 | [125715-chinatown-detective-agency.json](./125715-chinatown-detective-agency.json) |
+| Chinatris | 213367 | [213367-chinatris.json](./213367-chinatris.json) |
 | Chinbu's Adventure: Ice World | 171940 | [171940-chinbus-adventure-ice-world.json](./171940-chinbus-adventure-ice-world.json) |
 | Chinese Ancient Poetry Matching Game | 274576 | [274576-chinese-ancient-poetry-matching-game.json](./274576-chinese-ancient-poetry-matching-game.json) |
 | Chinese Brush Simulator | 129077 | [129077-chinese-brush-simulator.json](./129077-chinese-brush-simulator.json) |
@@ -4108,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Rocket Pudding | 276851 | [276851-christmas-rocket-pudding.json](./276851-christmas-rocket-pudding.json) |
 | Christmas Runner | 276697 | [276697-christmas-runner.json](./276697-christmas-runner.json) |
 | Christmas Rush | 284971 | [284971-christmas-rush.json](./284971-christmas-rush.json) |
+| Christmas Shooter | 213309 | [213309-christmas-shooter.json](./213309-christmas-shooter.json) |
 | Christmas Shopper Simulator | 137466 | [137466-christmas-shopper-simulator.json](./137466-christmas-shopper-simulator.json) |
 | Christmas Smash | 400469 | [400469-christmas-smash.json](./400469-christmas-smash.json) |
 | Christmas Stories: A Little Prince - Collector's Edition | 417587 | [417587-christmas-stories-a-little-prince-collectors-edition.json](./417587-christmas-stories-a-little-prince-collectors-edition.json) |
@@ -9607,6 +9609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CTRL Phreak | 169758 | [169758-ctrl-phreak.json](./169758-ctrl-phreak.json) |
 | Ctrl-U | 272863 | [272863-ctrl-u.json](./272863-ctrl-u.json) |
 | Ctrl.Alt.Deal | 291738 | [291738-ctrl-alt-deal.json](./291738-ctrl-alt-deal.json) |
+| Ctrl/Esc | 213293 | [213293-ctrl-esc.json](./213293-ctrl-esc.json) |
 | CtrlC | 239735 | [239735-ctrlc.json](./239735-ctrlc.json) |
 | Ctrlsink | 390252 | [390252-ctrlsink.json](./390252-ctrlsink.json) |
 | CTU: Counter Terrorism Unit | 34586 | [34586-ctu-counter-terrorism-unit.json](./34586-ctu-counter-terrorism-unit.json) |
