@@ -2734,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Foe | 153955 | [153955-final-foe.json](./153955-final-foe.json) |
 | Final Forge | 244296 | [244296-final-forge.json](./244296-final-forge.json) |
 | Final Freeway | 257369 | [257369-final-freeway.json](./257369-final-freeway.json) |
+| Final Front: Enobetta | 174690 | [174690-final-front-enobetta.json](./174690-final-front-enobetta.json) |
 | Final Frontier Story | 360084 | [360084-final-frontier-story.json](./360084-final-frontier-story.json) |
 | Final Fury | 204336 | [204336-final-fury.json](./204336-final-fury.json) |
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
@@ -4717,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foodie Bear | 121608 | [121608-foodie-bear.json](./121608-foodie-bear.json) |
 | Foodie Blast: Block Puzzle | 411768 | [411768-foodie-blast-block-puzzle.json](./411768-foodie-blast-block-puzzle.json) |
 | Foodie Yama | 344439 | [344439-foodie-yama.json](./344439-foodie-yama.json) |
+| Foodies | 174619 | [174619-foodies.json](./174619-foodies.json) |
 | Foodo Kitchen | 23419 | [23419-foodo-kitchen.json](./23419-foodo-kitchen.json) |
 | FooFee | 277423 | [277423-foofee.json](./277423-foofee.json) |
 | Fool King | 356724 | [356724-fool-king.json](./356724-fool-king.json) |
