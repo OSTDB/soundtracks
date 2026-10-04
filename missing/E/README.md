@@ -1945,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endure | 280205 | [280205-endure.json](./280205-endure.json) |
 | Endure Island | 213976 | [213976-endure-island.json](./213976-endure-island.json) |
 | Endure or Perish | 288223 | [288223-endure-or-perish.json](./288223-endure-or-perish.json) |
+| Enduring Mountain | 213999 | [213999-enduring-mountain.json](./213999-enduring-mountain.json) |
 | Enduro Racer | 37159 | [37159-enduro-racer.json](./37159-enduro-racer.json) |
 | Enduro Racer | 6666 | [6666-enduro-racer.json](./6666-enduro-racer.json) |
 | EndZ Village | 119630 | [119630-endz-village.json](./119630-endz-village.json) |
