@@ -5075,6 +5075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples: Sacred Lands Gold | 11405 | [11405-disciples-sacred-lands-gold.json](./11405-disciples-sacred-lands-gold.json) |
 | Disco Bert and the Curse of the Evil Mummies | 55913 | [55913-disco-bert-and-the-curse-of-the-evil-mummies.json](./55913-disco-bert-and-the-curse-of-the-evil-mummies.json) |
 | Disco Bullets | 122371 | [122371-disco-bullets.json](./122371-disco-bullets.json) |
+| Disco Cannon Airlines | 194389 | [194389-disco-cannon-airlines.json](./194389-disco-cannon-airlines.json) |
 | Disco Dave | 245257 | [245257-disco-dave.json](./245257-disco-dave.json) |
 | Disco Destruction | 51423 | [51423-disco-destruction.json](./51423-disco-destruction.json) |
 | Disco Duck | 366317 | [366317-disco-duck.json](./366317-disco-duck.json) |
@@ -7839,6 +7840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonRealms | 66380 | [66380-dragonrealms.json](./66380-dragonrealms.json) |
 | Dragons and Elves | 355191 | [355191-dragons-and-elves.json](./355191-dragons-and-elves.json) |
 | Dragons and Titans | 10195 | [10195-dragons-and-titans.json](./10195-dragons-and-titans.json) |
+| Dragons in Space | 194349 | [194349-dragons-in-space.json](./194349-dragons-in-space.json) |
 | Dragons of Atlantis | 303231 | [303231-dragons-of-atlantis.json](./303231-dragons-of-atlantis.json) |
 | Dragons of Elanthia | 62998 | [62998-dragons-of-elanthia.json](./62998-dragons-of-elanthia.json) |
 | Dragons of Hong Kong | 55836 | [55836-dragons-of-hong-kong.json](./55836-dragons-of-hong-kong.json) |
