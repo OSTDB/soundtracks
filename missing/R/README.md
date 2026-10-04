@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:D Cherish! SS: Rouge's One Operation | 370697 | [370697-re-d-cherish-ss-rouges-one-operation.json](./370697-re-d-cherish-ss-rouges-one-operation.json) |
 | Re:D Cherish!: Eternity Blood | 370695 | [370695-re-d-cherish-eternity-blood.json](./370695-re-d-cherish-eternity-blood.json) |
 | Re:Dreamer | 213911 | [213911-re-dreamer.json](./213911-re-dreamer.json) |
+| re:fleXion | 179021 | [179021-re-flexion.json](./179021-re-flexion.json) |
 | Re:Fragment - Absolute Ambition | 319008 | [319008-re-fragment-absolute-ambition.json](./319008-re-fragment-absolute-ambition.json) |
 | Re:Fresh | 239086 | [239086-re-fresh.json](./239086-re-fresh.json) |
 | Re:Infinite | 196587 | [196587-re-infinite.json](./196587-re-infinite.json) |
@@ -2123,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red River | 360727 | [360727-red-river.json](./360727-red-river.json) |
 | Red Rogue Sea | 338332 | [338332-red-rogue-sea.json](./338332-red-rogue-sea.json) |
 | Red Ronin | 133967 | [133967-red-ronin.json](./133967-red-ronin.json) |
+| Red Room | 178998 | [178998-red-room.json](./178998-red-room.json) |
 | Red Room | 367605 | [367605-red-room.json](./367605-red-room.json) |
 | Red Rooms | 409642 | [409642-red-rooms.json](./409642-red-rooms.json) |
 | Red Rope: Don't Fall Behind | 21633 | [21633-red-rope-dont-fall-behind.json](./21633-red-rope-dont-fall-behind.json) |
