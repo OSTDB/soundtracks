@@ -3344,10 +3344,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Xtreme Stunts | 15739 | [15739-island-xtreme-stunts.json](./15739-island-xtreme-stunts.json) |
 | Island Xtreme Stunts | 300709 | [300709-island-xtreme-stunts.json](./300709-island-xtreme-stunts.json) |
 | Island_Name_Here | 222274 | [222274-island-name-here.json](./222274-island-name-here.json) |
+| Islander | 176851 | [176851-islander.json](./176851-islander.json) |
 | Islanders: New Shores | 333961 | [333961-islanders-new-shores.json](./333961-islanders-new-shores.json) |
 | Islanders: VR Edition | 260703 | [260703-islanders-vr-edition.json](./260703-islanders-vr-edition.json) |
 | Islandia | 92478 | [92478-islandia.json](./92478-islandia.json) |
 | IslandPop Photo | 185553 | [185553-islandpop-photo.json](./185553-islandpop-photo.json) |
+| Islands | 176861 | [176861-islands.json](./176861-islands.json) |
 | Islands and Ships logic puzzle | 232048 | [232048-islands-and-ships-logic-puzzle.json](./232048-islands-and-ships-logic-puzzle.json) |
 | Islands of Insight | 212652 | [212652-islands-of-insight.json](./212652-islands-of-insight.json) |
 | Islands of the Caliph | 197146 | [197146-islands-of-the-caliph.json](./197146-islands-of-the-caliph.json) |
