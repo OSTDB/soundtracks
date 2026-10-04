@@ -3496,6 +3496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dereology Chime | 409782 | [409782-dereology-chime.json](./409782-dereology-chime.json) |
 | Derf Party | 303475 | [303475-derf-party.json](./303475-derf-party.json) |
 | Deriva | 348329 | [348329-deriva.json](./348329-deriva.json) |
+| Dérive | 183412 | [183412-derive.json](./183412-derive.json) |
 | Deriver | 401714 | [401714-deriver.json](./401714-deriver.json) |
 | Dermapis | 359056 | [359056-dermapis.json](./359056-dermapis.json) |
 | Derpy Dinos | 74433 | [74433-derpy-dinos.json](./74433-derpy-dinos.json) |
@@ -7097,6 +7098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Talk: Sports Edition | 73360 | [73360-double-talk-sports-edition.json](./73360-double-talk-sports-edition.json) |
 | Double the Meat | 52765 | [52765-double-the-meat.json](./52765-double-the-meat.json) |
 | Double Time | 187281 | [187281-double-time.json](./187281-double-time.json) |
+| Double Time Dash | 183323 | [183323-double-time-dash.json](./183323-double-time-dash.json) |
 | Double Trouble | 215928 | [215928-double-trouble.json](./215928-double-trouble.json) |
 | Double Trouble | 267470 | [267470-double-trouble.json](./267470-double-trouble.json) |
 | Double View | 250432 | [250432-double-view.json](./250432-double-view.json) |
