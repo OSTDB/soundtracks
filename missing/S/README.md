@@ -1670,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby Doo: Horror of the High Seas - Episode 3: Reef Relief | 337126 | [337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json](./337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json) |
 | Scooby Doo: The Motion Picture | 57641 | [57641-scooby-doo-the-motion-picture.json](./57641-scooby-doo-the-motion-picture.json) |
 | Scooby Doo! Case File #3: Frights, Camera, Mystery! | 76980 | [76980-scooby-doo-case-file-3-frights-camera-mystery.json](./76980-scooby-doo-case-file-3-frights-camera-mystery.json) |
+| Scooby-Doo | 198881 | [198881-scooby-doo.json](./198881-scooby-doo.json) |
 | Scooby-Doo | 2856 | [2856-scooby-doo.json](./2856-scooby-doo.json) |
 | Scooby-Doo 2: Monsters Unleashed - Escape from the Coolsonian | 327821 | [327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json](./327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json) |
 | Scooby-Doo and a Mummy, Too! | 242031 | [242031-scooby-doo-and-a-mummy-too.json](./242031-scooby-doo-and-a-mummy-too.json) |
@@ -3925,6 +3926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapo | 84898 | [84898-shapo.json](./84898-shapo.json) |
 | Shapy Road | 244805 | [244805-shapy-road.json](./244805-shapy-road.json) |
 | Shaq Attaq | 94736 | [94736-shaq-attaq.json](./94736-shaq-attaq.json) |
+| Shaq Attaq: Monster Jam | 198883 | [198883-shaq-attaq-monster-jam.json](./198883-shaq-attaq-monster-jam.json) |
 | Shaq Fu: A Legend Reborn | 51679 | [51679-shaq-fu-a-legend-reborn.json](./51679-shaq-fu-a-legend-reborn.json) |
 | Shaq-Fu | 8536 | [8536-shaq-fu.json](./8536-shaq-fu.json) |
 | Shaqing | 298281 | [298281-shaqing.json](./298281-shaqing.json) |
@@ -5559,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Star Reversi | 67963 | [67963-silver-star-reversi.json](./67963-silver-star-reversi.json) |
 | Silver State | 396245 | [396245-silver-state.json](./396245-silver-state.json) |
 | Silver Strike Bowling | 72780 | [72780-silver-strike-bowling.json](./72780-silver-strike-bowling.json) |
+| Silver Surfer | 198884 | [198884-silver-surfer.json](./198884-silver-surfer.json) |
 | Silver Thread | 202227 | [202227-silver-thread.json](./202227-silver-thread.json) |
 | Silver Thread: Deux | 298809 | [298809-silver-thread-deux.json](./298809-silver-thread-deux.json) |
 | Silver Valley | 267976 | [267976-silver-valley.json](./267976-silver-valley.json) |
@@ -5810,6 +5813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimTown | 20194 | [20194-simtown.json](./20194-simtown.json) |
 | SimTown | 213291 | [213291-simtown.json](./213291-simtown.json) |
 | Simulacra 2 | 122134 | [122134-simulacra-2.json](./122134-simulacra-2.json) |
+| Simulacra 3 | 198859 | [198859-simulacra-3.json](./198859-simulacra-3.json) |
 | Simulacra: Pipe Dreams | 110900 | [110900-simulacra-pipe-dreams.json](./110900-simulacra-pipe-dreams.json) |
 | Simulacro | 344363 | [344363-simulacro.json](./344363-simulacro.json) |
 | Simulacrum | 201125 | [201125-simulacrum.json](./201125-simulacrum.json) |
@@ -7084,6 +7088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingbox | 371995 | [371995-slingbox.json](./371995-slingbox.json) |
 | Slinger | 255955 | [255955-slinger.json](./255955-slinger.json) |
 | Slinger VR | 29098 | [29098-slinger-vr.json](./29098-slinger-vr.json) |
+| Slingo | 198890 | [198890-slingo.json](./198890-slingo.json) |
 | Slingo 15th Anniversary Edition | 208976 | [208976-slingo-15th-anniversary-edition.json](./208976-slingo-15th-anniversary-edition.json) |
 | Slingo Adventure | 234185 | [234185-slingo-adventure.json](./234185-slingo-adventure.json) |
 | Slingo Deluxe Bundle | 208921 | [208921-slingo-deluxe-bundle.json](./208921-slingo-deluxe-bundle.json) |
@@ -7548,6 +7553,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smugglers IV: Doomsday | 54377 | [54377-smugglers-iv-doomsday.json](./54377-smugglers-iv-doomsday.json) |
 | Smugglers V | 51903 | [51903-smugglers-v.json](./51903-smugglers-v.json) |
 | Smugglers V: Invasion - Warrior Within | 51902 | [51902-smugglers-v-invasion-warrior-within.json](./51902-smugglers-v-invasion-warrior-within.json) |
+| Smurf | 198891 | [198891-smurf.json](./198891-smurf.json) |
+| Smurf | 198892 | [198892-smurf.json](./198892-smurf.json) |
+| Smurf | 198893 | [198893-smurf.json](./198893-smurf.json) |
 | Smurf Life | 261326 | [261326-smurf-life.json](./261326-smurf-life.json) |
 | Smurf: Rescue in Gargamel's Castle | 8080 | [8080-smurf-rescue-in-gargamels-castle.json](./8080-smurf-rescue-in-gargamels-castle.json) |
 | Smurfen | 366256 | [366256-smurfen.json](./366256-smurfen.json) |
@@ -7680,6 +7688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake: Secret Treasure | 370311 | [370311-snake-secret-treasure.json](./370311-snake-secret-treasure.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
 | Snake.io | 330240 | [330240-snake-io.json](./330240-snake-io.json) |
+| Snake's Revenge | 198894 | [198894-snakes-revenge.json](./198894-snakes-revenge.json) |
 | Snake's Revenge | 7848 | [7848-snakes-revenge.json](./7848-snakes-revenge.json) |
 | Snake360 | 71607 | [71607-snake360.json](./71607-snake360.json) |
 | Snakebird | 13104 | [13104-snakebird.json](./13104-snakebird.json) |
@@ -7986,6 +7995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow White and the Seven Dwarfs | 77396 | [77396-snow-white-and-the-seven-dwarfs.json](./77396-snow-white-and-the-seven-dwarfs.json) |
 | Snow White in Happily Ever After | 42582 | [42582-snow-white-in-happily-ever-after.json](./42582-snow-white-in-happily-ever-after.json) |
 | Snow White Solitaire: Charmed Kingdom | 81771 | [81771-snow-white-solitaire-charmed-kingdom.json](./81771-snow-white-solitaire-charmed-kingdom.json) |
+| Snow White: Counting Diamond Mine | 198897 | [198897-snow-white-counting-diamond-mine.json](./198897-snow-white-counting-diamond-mine.json) |
 | Snow World | 176972 | [176972-snow-world.json](./176972-snow-world.json) |
 | Snow! | 180771 | [180771-snow.json](./180771-snow.json) |
 | Snow! | 376566 | [376566-snow.json](./376566-snow.json) |
@@ -10201,6 +10211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders Forever | 139864 | [139864-space-invaders-forever.json](./139864-space-invaders-forever.json) |
 | Space Invaders II | 46839 | [46839-space-invaders-ii.json](./46839-space-invaders-ii.json) |
 | Space Invaders Micro Player | 229786 | [229786-space-invaders-micro-player.json](./229786-space-invaders-micro-player.json) |
+| Space Invaders Mini Electronic | 198898 | [198898-space-invaders-mini-electronic.json](./198898-space-invaders-mini-electronic.json) |
 | Space Invaders Part II | 246397 | [246397-space-invaders-part-ii.json](./246397-space-invaders-part-ii.json) |
 | Space Invaders X.L. | 51183 | [51183-space-invaders-x-l.json](./51183-space-invaders-x-l.json) |
 | Space Invaders: Carabiner Edition | 225630 | [225630-space-invaders-carabiner-edition.json](./225630-space-invaders-carabiner-edition.json) |
@@ -11208,6 +11219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Ultimate | 100738 | [100738-spider-ultimate.json](./100738-spider-ultimate.json) |
 | Spider Wars | 33209 | [33209-spider-wars.json](./33209-spider-wars.json) |
 | Spider-Guy: Trapped in the Cheese Place | 291773 | [291773-spider-guy-trapped-in-the-cheese-place.json](./291773-spider-guy-trapped-in-the-cheese-place.json) |
+| Spider-Man | 198902 | [198902-spider-man.json](./198902-spider-man.json) |
 | Spider-Man | 220109 | [220109-spider-man.json](./220109-spider-man.json) |
 | Spider-Man | 245400 | [245400-spider-man.json](./245400-spider-man.json) |
 | Spider-Man | 248203 | [248203-spider-man.json](./248203-spider-man.json) |
@@ -11254,6 +11266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: Friend or Foe | 249163 | [249163-spider-man-friend-or-foe.json](./249163-spider-man-friend-or-foe.json) |
 | Spider-Man: Friend or Foe | 5180 | [5180-spider-man-friend-or-foe.json](./5180-spider-man-friend-or-foe.json) |
 | Spider-Man: Mysterio's Menace | 6605 | [6605-spider-man-mysterios-menace.json](./6605-spider-man-mysterios-menace.json) |
+| Spider-Man: Revenge of the Spider-Slayers | 198901 | [198901-spider-man-revenge-of-the-spider-slayers.json](./198901-spider-man-revenge-of-the-spider-slayers.json) |
 | Spider-Man: Shattered Dimensions | 142254 | [142254-spider-man-shattered-dimensions.json](./142254-spider-man-shattered-dimensions.json) |
 | Spider-Man: Shattered Dimensions | 209975 | [209975-spider-man-shattered-dimensions.json](./209975-spider-man-shattered-dimensions.json) |
 | Spider-Man: The Sinister Six | 66383 | [66383-spider-man-the-sinister-six.json](./66383-spider-man-the-sinister-six.json) |
@@ -12334,6 +12347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Bridge | 59917 | [59917-star-bridge.json](./59917-star-bridge.json) |
 | Star Cadre: Combat Class | 396216 | [396216-star-cadre-combat-class.json](./396216-star-cadre-combat-class.json) |
 | Star Carrier | 352785 | [352785-star-carrier.json](./352785-star-carrier.json) |
+| Star Castle | 198903 | [198903-star-castle.json](./198903-star-castle.json) |
 | Star Castle PC | 95420 | [95420-star-castle-pc.json](./95420-star-castle-pc.json) |
 | Star Castles 2 | 397259 | [397259-star-castles-2.json](./397259-star-castles-2.json) |
 | Star Catcher | 391150 | [391150-star-catcher.json](./391150-star-catcher.json) |
@@ -12668,6 +12682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Strategic Operations Simulator | 282081 | [282081-star-trek-strategic-operations-simulator.json](./282081-star-trek-strategic-operations-simulator.json) |
 | Star Trek: Strategic Operations Simulator | 282082 | [282082-star-trek-strategic-operations-simulator.json](./282082-star-trek-strategic-operations-simulator.json) |
 | Star Trek: The Game Show | 69228 | [69228-star-trek-the-game-show.json](./69228-star-trek-the-game-show.json) |
+| Star Trek: The Next Generation | 198904 | [198904-star-trek-the-next-generation.json](./198904-star-trek-the-next-generation.json) |
 | Star Trek: The Next Generation | 365694 | [365694-star-trek-the-next-generation.json](./365694-star-trek-the-next-generation.json) |
 | Star Trek: The Next Generation - A Final Unity | 2228 | [2228-star-trek-the-next-generation-a-final-unity.json](./2228-star-trek-the-next-generation-a-final-unity.json) |
 | Star Trek: The Next Generation - Klingon Honor Guard | 84216 | [84216-star-trek-the-next-generation-klingon-honor-guard.json](./84216-star-trek-the-next-generation-klingon-honor-guard.json) |
@@ -12745,10 +12760,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Empire at War | 144 | [144-star-wars-empire-at-war.json](./144-star-wars-empire-at-war.json) |
 | Star Wars: Episode 1 - Director's Cut | 252302 | [252302-star-wars-episode-1-directors-cut.json](./252302-star-wars-episode-1-directors-cut.json) |
 | Star Wars: Episode I - Battle for Naboo | 156 | [156-star-wars-episode-i-battle-for-naboo.json](./156-star-wars-episode-i-battle-for-naboo.json) |
+| Star Wars: Episode I - Battle of Naboo | 198907 | [198907-star-wars-episode-i-battle-of-naboo.json](./198907-star-wars-episode-i-battle-of-naboo.json) |
 | Star Wars: Episode I - Battle Tank Attack | 198920 | [198920-star-wars-episode-i-battle-tank-attack.json](./198920-star-wars-episode-i-battle-tank-attack.json) |
+| Star Wars: Episode I - Destroyer Droid | 198906 | [198906-star-wars-episode-i-destroyer-droid.json](./198906-star-wars-episode-i-destroyer-droid.json) |
+| Star Wars: Episode I - Droid Fighter Attack | 198908 | [198908-star-wars-episode-i-droid-fighter-attack.json](./198908-star-wars-episode-i-droid-fighter-attack.json) |
+| Star Wars: Episode I - Electronic Galactic Chess | 198909 | [198909-star-wars-episode-i-electronic-galactic-chess.json](./198909-star-wars-episode-i-electronic-galactic-chess.json) |
 | Star Wars: Episode I - Electronic Sith Infiltrator Pen Game | 198921 | [198921-star-wars-episode-i-electronic-sith-infiltrator-pen-game.json](./198921-star-wars-episode-i-electronic-sith-infiltrator-pen-game.json) |
+| Star Wars: Episode I - Gian Speeder Chase | 198910 | [198910-star-wars-episode-i-gian-speeder-chase.json](./198910-star-wars-episode-i-gian-speeder-chase.json) |
+| Star Wars: Episode I - Jedi Hunt | 198911 | [198911-star-wars-episode-i-jedi-hunt.json](./198911-star-wars-episode-i-jedi-hunt.json) |
 | Star Wars: Episode I - Jedi Power Battles | 301490 | [301490-star-wars-episode-i-jedi-power-battles.json](./301490-star-wars-episode-i-jedi-power-battles.json) |
 | Star Wars: Episode I - Jedi Power Battles | 319362 | [319362-star-wars-episode-i-jedi-power-battles.json](./319362-star-wars-episode-i-jedi-power-battles.json) |
+| Star Wars: Episode I - Lightsaber Duel | 198912 | [198912-star-wars-episode-i-lightsaber-duel.json](./198912-star-wars-episode-i-lightsaber-duel.json) |
 | Star Wars: Episode I - Naboo Defense | 198914 | [198914-star-wars-episode-i-naboo-defense.json](./198914-star-wars-episode-i-naboo-defense.json) |
 | Star Wars: Episode I - Naboo Escape | 198913 | [198913-star-wars-episode-i-naboo-escape.json](./198913-star-wars-episode-i-naboo-escape.json) |
 | Star Wars: Episode I - Podrace Challenge Game | 198915 | [198915-star-wars-episode-i-podrace-challenge-game.json](./198915-star-wars-episode-i-podrace-challenge-game.json) |
