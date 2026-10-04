@@ -2940,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty Jigsaw: Image Pack | 357874 | [357874-beauty-jigsaw-image-pack.json](./357874-beauty-jigsaw-image-pack.json) |
 | Beauty Lawyer Victoria 2 | 200058 | [200058-beauty-lawyer-victoria-2.json](./200058-beauty-lawyer-victoria-2.json) |
 | Beauty or the Beast | 165517 | [165517-beauty-or-the-beast.json](./165517-beauty-or-the-beast.json) |
+| Beauty Rental Shop | 203286 | [203286-beauty-rental-shop.json](./203286-beauty-rental-shop.json) |
 | Beauty Showdown: Awakening | 273088 | [273088-beauty-showdown-awakening.json](./273088-beauty-showdown-awakening.json) |
 | Beauty vs. Zombie | 309844 | [309844-beauty-vs-zombie.json](./309844-beauty-vs-zombie.json) |
 | Beaux-Arts | 372623 | [372623-beaux-arts.json](./372623-beaux-arts.json) |
@@ -5194,6 +5195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleaklight Falls | 362270 | [362270-bleaklight-falls.json](./362270-bleaklight-falls.json) |
 | Bleakmoor House | 371965 | [371965-bleakmoor-house.json](./371965-bleakmoor-house.json) |
 | Bleakshore | 133317 | [133317-bleakshore.json](./133317-bleakshore.json) |
+| Bleakstead | 203181 | [203181-bleakstead.json](./203181-bleakstead.json) |
 | Bleakwood | 304574 | [304574-bleakwood.json](./304574-bleakwood.json) |
 | Bleap | 352247 | [352247-bleap.json](./352247-bleap.json) |
 | Bleb | 346792 | [346792-bleb.json](./346792-bleb.json) |
