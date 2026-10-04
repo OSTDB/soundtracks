@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Tune-Up | 117168 | [117168-tennis-tune-up.json](./117168-tennis-tune-up.json) |
 | Tennis World Tour | 36544 | [36544-tennis-world-tour.json](./36544-tennis-world-tour.json) |
 | Tennis World Tour 2 | 135576 | [135576-tennis-world-tour-2.json](./135576-tennis-world-tour-2.json) |
+| Tennis World Tour 2: Ace Edition | 218379 | [218379-tennis-world-tour-2-ace-edition.json](./218379-tennis-world-tour-2-ace-edition.json) |
 | Tennis World Tour 2: Champions Pack | 167297 | [167297-tennis-world-tour-2-champions-pack.json](./167297-tennis-world-tour-2-champions-pack.json) |
 | Tennis World Tour 2: Juan Martin Del Potro & Victoria Azarenka | 161755 | [161755-tennis-world-tour-2-juan-martin-del-potro-and-victoria-azarenka.json](./161755-tennis-world-tour-2-juan-martin-del-potro-and-victoria-azarenka.json) |
 | Tennis World Tour 2: Legends Pack | 167299 | [167299-tennis-world-tour-2-legends-pack.json](./167299-tennis-world-tour-2-legends-pack.json) |
