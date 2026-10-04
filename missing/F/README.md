@@ -2692,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Forge | 244296 | [244296-final-forge.json](./244296-final-forge.json) |
 | Final Freeway | 257369 | [257369-final-freeway.json](./257369-final-freeway.json) |
 | Final Frontier Story | 360084 | [360084-final-frontier-story.json](./360084-final-frontier-story.json) |
+| Final Fury | 204336 | [204336-final-fury.json](./204336-final-fury.json) |
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
 | Final Guardian 2 | 197348 | [197348-final-guardian-2.json](./197348-final-guardian-2.json) |
 | Final Gun | 241517 | [241517-final-gun.json](./241517-final-gun.json) |
@@ -4637,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck Tycoon + Knights & Guns | 251106 | [251106-food-truck-tycoon-knights-and-guns.json](./251106-food-truck-tycoon-knights-and-guns.json) |
 | Food Truck Tycoon: Asian Cuisine | 147922 | [147922-food-truck-tycoon-asian-cuisine.json](./147922-food-truck-tycoon-asian-cuisine.json) |
 | Food Truck Tycoon: Asian Cuisine - Complete Edition | 238046 | [238046-food-truck-tycoon-asian-cuisine-complete-edition.json](./238046-food-truck-tycoon-asian-cuisine-complete-edition.json) |
+| Food Truck Tycoon: Asian Cuisine - Deluxe Edition | 204297 | [204297-food-truck-tycoon-asian-cuisine-deluxe-edition.json](./204297-food-truck-tycoon-asian-cuisine-deluxe-edition.json) |
 | Food Truck Tycoon: Co-op Edition | 247590 | [247590-food-truck-tycoon-co-op-edition.json](./247590-food-truck-tycoon-co-op-edition.json) |
 | Food Truck Tycoon: GOTY Edition | 268556 | [268556-food-truck-tycoon-goty-edition.json](./268556-food-truck-tycoon-goty-edition.json) |
 | Food Truck VR | 343329 | [343329-food-truck-vr.json](./343329-food-truck-vr.json) |
