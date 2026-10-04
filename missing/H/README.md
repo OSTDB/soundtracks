@@ -3837,6 +3837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hideaways: Foggy Valley | 84519 | [84519-hideaways-foggy-valley.json](./84519-hideaways-foggy-valley.json) |
 | Hideko | 326201 | [326201-hideko.json](./326201-hideko.json) |
 | Hiden Inyou Kikouhou: Ca Da | 286595 | [286595-hiden-inyou-kikouhou-ca-da.json](./286595-hiden-inyou-kikouhou-ca-da.json) |
+| HideNSeek | 201079 | [201079-hidenseek.json](./201079-hidenseek.json) |
 | Hideous | 348801 | [348801-hideous.json](./348801-hideous.json) |
 | Hideout: Face your fears | 159278 | [159278-hideout-face-your-fears.json](./159278-hideout-face-your-fears.json) |
 | Hiding Out | 84518 | [84518-hiding-out.json](./84518-hiding-out.json) |
