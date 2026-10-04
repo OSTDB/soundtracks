@@ -2042,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Haze: Bruises Glimmer in Starlight | 325820 | [325820-red-haze-bruises-glimmer-in-starlight.json](./325820-red-haze-bruises-glimmer-in-starlight.json) |
 | Red Hero Adventure | 193442 | [193442-red-hero-adventure.json](./193442-red-hero-adventure.json) |
 | Red Herring | 118178 | [118178-red-herring.json](./118178-red-herring.json) |
+| Red Hood Adventure | 207196 | [207196-red-hood-adventure.json](./207196-red-hood-adventure.json) |
 | Red Horizon | 128643 | [128643-red-horizon.json](./128643-red-horizon.json) |
 | Red Horizon | 52744 | [52744-red-horizon.json](./52744-red-horizon.json) |
 | Red Hot Ricochet | 83610 | [83610-red-hot-ricochet.json](./83610-red-hot-ricochet.json) |
