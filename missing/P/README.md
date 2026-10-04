@@ -5077,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plattis | 341569 | [341569-plattis.json](./341569-plattis.json) |
 | Platty Game | 417678 | [417678-platty-game.json](./417678-platty-game.json) |
 | Platwormer | 181325 | [181325-platwormer.json](./181325-platwormer.json) |
+| Platypus Adventures | 173032 | [173032-platypus-adventures.json](./173032-platypus-adventures.json) |
 | Platypus Evolution | 268491 | [268491-platypus-evolution.json](./268491-platypus-evolution.json) |
 | Platypus II | 36229 | [36229-platypus-ii.json](./36229-platypus-ii.json) |
 | Platzkart Simulator | 158201 | [158201-platzkart-simulator.json](./158201-platzkart-simulator.json) |
