@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddle Together | 366244 | [366244-paddle-together.json](./366244-paddle-together.json) |
 | Paddler | 403650 | [403650-paddler.json](./403650-paddler.json) |
 | Paddles | 214545 | [214545-paddles.json](./214545-paddles.json) |
+| Paddles | 214558 | [214558-paddles.json](./214558-paddles.json) |
 | Paddles! Pong edition | 102621 | [102621-paddles-pong-edition.json](./102621-paddles-pong-edition.json) |
 | Paddock Note '95 | 268522 | [268522-paddock-note-95.json](./268522-paddock-note-95.json) |
 | Padel Pro World Tour | 409553 | [409553-padel-pro-world-tour.json](./409553-padel-pro-world-tour.json) |
@@ -2794,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Grid | 367974 | [367974-phantom-grid.json](./367974-phantom-grid.json) |
 | Phantom Halls | 27199 | [27199-phantom-halls.json](./27199-phantom-halls.json) |
 | Phantom Havoc | 333962 | [333962-phantom-havoc.json](./333962-phantom-havoc.json) |
+| Phantom Hellcat | 214415 | [214415-phantom-hellcat.json](./214415-phantom-hellcat.json) |
 | Phantom Hunter | 243157 | [243157-phantom-hunter.json](./243157-phantom-hunter.json) |
 | Phantom II | 40404 | [40404-phantom-ii.json](./40404-phantom-ii.json) |
 | Phantom Killer | 275343 | [275343-phantom-killer.json](./275343-phantom-killer.json) |
@@ -6216,6 +6218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygonauts | 25785 | [25785-polygonauts.json](./25785-polygonauts.json) |
 | Polygone | 108044 | [108044-polygone.json](./108044-polygone.json) |
 | Polygonet Commanders | 222905 | [222905-polygonet-commanders.json](./222905-polygonet-commanders.json) |
+| Polygonle | 214410 | [214410-polygonle.json](./214410-polygonle.json) |
 | Polygons Tower Defense | 266435 | [266435-polygons-tower-defense.json](./266435-polygons-tower-defense.json) |
 | Polygunr | 291038 | [291038-polygunr.json](./291038-polygunr.json) |
 | Polyhop: The Skybound Islands | 278743 | [278743-polyhop-the-skybound-islands.json](./278743-polyhop-the-skybound-islands.json) |
@@ -9093,6 +9096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Put Your Brain on 2 | 234150 | [234150-put-your-brain-on-2.json](./234150-put-your-brain-on-2.json) |
 | Put Your Stamp On | 226434 | [226434-put-your-stamp-on.json](./226434-put-your-stamp-on.json) |
 | Putin Destroys Alien | 230901 | [230901-putin-destroys-alien.json](./230901-putin-destroys-alien.json) |
+| Putin In Jail | 214427 | [214427-putin-in-jail.json](./214427-putin-in-jail.json) |
 | Putin Jigsaw | 343309 | [343309-putin-jigsaw.json](./343309-putin-jigsaw.json) |
 | Putin Kills: Coronavirus | 393108 | [393108-putin-kills-coronavirus.json](./393108-putin-kills-coronavirus.json) |
 | Putin Life | 130049 | [130049-putin-life.json](./130049-putin-life.json) |
