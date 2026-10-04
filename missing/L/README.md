@@ -2210,6 +2210,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar Trick: Psychological Crime Mystery | 163961 | [163961-liar-trick-psychological-crime-mystery.json](./163961-liar-trick-psychological-crime-mystery.json) |
 | Liar: Legend of the Sword | 65223 | [65223-liar-legend-of-the-sword.json](./65223-liar-legend-of-the-sword.json) |
 | Liar: Legend of the Sword 2 | 65222 | [65222-liar-legend-of-the-sword-2.json](./65222-liar-legend-of-the-sword-2.json) |
+| Liar! Office Deception | 203201 | [203201-liar-office-deception.json](./203201-liar-office-deception.json) |
+| Liar! Scheming Socialites | 203203 | [203203-liar-scheming-socialites.json](./203203-liar-scheming-socialites.json) |
 | Liar! Uncover the Truth | 115483 | [115483-liar-uncover-the-truth.json](./115483-liar-uncover-the-truth.json) |
 | Liar's Bar | 317695 | [317695-liars-bar.json](./317695-liars-bar.json) |
 | Liar's Dice | 345540 | [345540-liars-dice.json](./345540-liars-dice.json) |
@@ -3610,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofi Ball: Wipeout | 256277 | [256277-lofi-ball-wipeout.json](./256277-lofi-ball-wipeout.json) |
 | Lofi Funkin' | 198381 | [198381-lofi-funkin.json](./198381-lofi-funkin.json) |
 | Lofi Haven | 388418 | [388418-lofi-haven.json](./388418-lofi-haven.json) |
+| Lofi Hip Hop Worlds to Study in | 203207 | [203207-lofi-hip-hop-worlds-to-study-in.json](./203207-lofi-hip-hop-worlds-to-study-in.json) |
 | LoFi Hotel | 211117 | [211117-lofi-hotel.json](./211117-lofi-hotel.json) |
 | Lofi Kitten | 266305 | [266305-lofi-kitten.json](./266305-lofi-kitten.json) |
 | Lofi Milk Delivery | 245921 | [245921-lofi-milk-delivery.json](./245921-lofi-milk-delivery.json) |
