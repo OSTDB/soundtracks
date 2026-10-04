@@ -5172,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze and the Monster Machines: Axle City Racers | 148547 | [148547-blaze-and-the-monster-machines-axle-city-racers.json](./148547-blaze-and-the-monster-machines-axle-city-racers.json) |
 | Blaze of Storm | 331874 | [331874-blaze-of-storm.json](./331874-blaze-of-storm.json) |
 | Blaze Out | 94698 | [94698-blaze-out.json](./94698-blaze-out.json) |
+| Blazend | 186691 | [186691-blazend.json](./186691-blazend.json) |
 | Blazeo | 406326 | [406326-blazeo.json](./406326-blazeo.json) |
 | BlazePunk | 415092 | [415092-blazepunk.json](./415092-blazepunk.json) |
 | Blazer | 46842 | [46842-blazer.json](./46842-blazer.json) |
@@ -7214,6 +7215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Chicken | 306529 | [306529-bouncy-chicken.json](./306529-bouncy-chicken.json) |
 | Bouncy Egg | 96287 | [96287-bouncy-egg.json](./96287-bouncy-egg.json) |
 | Bouncy Goal | 242219 | [242219-bouncy-goal.json](./242219-bouncy-goal.json) |
+| Bouncy Goat Climb | 186688 | [186688-bouncy-goat-climb.json](./186688-bouncy-goat-climb.json) |
 | Bouncy Jump Ball | 231974 | [231974-bouncy-jump-ball.json](./231974-bouncy-jump-ball.json) |
 | Bouncy Kingdoms | 397768 | [397768-bouncy-kingdoms.json](./397768-bouncy-kingdoms.json) |
 | Bouncy Pork Simulator | 339394 | [339394-bouncy-pork-simulator.json](./339394-bouncy-pork-simulator.json) |
