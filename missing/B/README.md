@@ -4136,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo!!! | 106757 | [106757-bingo.json](./106757-bingo.json) |
 | Biniax | 93357 | [93357-biniax.json](./93357-biniax.json) |
 | Biniku no Kaori: Bangai Hen | 237405 | [237405-biniku-no-kaori-bangai-hen.json](./237405-biniku-no-kaori-bangai-hen.json) |
+| Binky Mcmxcix: The Labyrinthe | 215177 | [215177-binky-mcmxcix-the-labyrinthe.json](./215177-binky-mcmxcix-the-labyrinthe.json) |
 | Binky show | 123512 | [123512-binky-show.json](./123512-binky-show.json) |
 | Binky XXIV: Game Streamer "Binky" Plays Grotto of the Grebulons | 279024 | [279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json](./279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json) |
 | Binky's Trash Service | 142483 | [142483-binkys-trash-service.json](./142483-binkys-trash-service.json) |
@@ -4839,6 +4840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith: Dark Times | 105012 | [105012-blacksmith-dark-times.json](./105012-blacksmith-dark-times.json) |
 | Blacksmith's Master | 184895 | [184895-blacksmiths-master.json](./184895-blacksmiths-master.json) |
 | Blackspot: The Card Game | 397872 | [397872-blackspot-the-card-game.json](./397872-blackspot-the-card-game.json) |
+| BlackStar: Theater Starless | 215169 | [215169-blackstar-theater-starless.json](./215169-blackstar-theater-starless.json) |
 | Blackstead | 217828 | [217828-blackstead.json](./217828-blackstead.json) |
 | BlackSteel | 105301 | [105301-blacksteel.json](./105301-blacksteel.json) |
 | Blackstone | 83927 | [83927-blackstone.json](./83927-blackstone.json) |
@@ -8564,6 +8566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucko | 236359 | [236359-bucko.json](./236359-bucko.json) |
 | Buckshot Battlemage | 345653 | [345653-buckshot-battlemage.json](./345653-buckshot-battlemage.json) |
 | Bucky O'Hare | 18808 | [18808-bucky-ohare.json](./18808-bucky-ohare.json) |
+| Bud Farm Idle Tycoon | 215104 | [215104-bud-farm-idle-tycoon.json](./215104-bud-farm-idle-tycoon.json) |
 | Bud Farm: Munchie Match | 245347 | [245347-bud-farm-munchie-match.json](./245347-bud-farm-munchie-match.json) |
 | Bud Masters: Battle Edition | 142316 | [142316-bud-masters-battle-edition.json](./142316-bud-masters-battle-edition.json) |
 | Bud of Frenzy and Instinct | 108946 | [108946-bud-of-frenzy-and-instinct.json](./108946-bud-of-frenzy-and-instinct.json) |
@@ -8773,6 +8776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bull Riding | 281685 | [281685-bull-riding.json](./281685-bull-riding.json) |
 | Bull-Bia Ricky | 291456 | [291456-bull-bia-ricky.json](./291456-bull-bia-ricky.json) |
 | Bull3000VRTS | 369649 | [369649-bull3000vrts.json](./369649-bull3000vrts.json) |
+| Bullcrap! | 215022 | [215022-bullcrap.json](./215022-bullcrap.json) |
 | Bulldozer Bob | 146921 | [146921-bulldozer-bob.json](./146921-bulldozer-bob.json) |
 | Bulldozer Crash | 227466 | [227466-bulldozer-crash.json](./227466-bulldozer-crash.json) |
 | Bulle | 178590 | [178590-bulle.json](./178590-bulle.json) |
