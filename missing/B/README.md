@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Collis | 244708 | [244708-back-to-the-collis.json](./244708-back-to-the-collis.json) |
 | Back to the Dawn | 200544 | [200544-back-to-the-dawn.json](./200544-back-to-the-dawn.json) |
 | Back to the Edo | 307963 | [307963-back-to-the-edo.json](./307963-back-to-the-edo.json) |
+| Back to the Future III | 218360 | [218360-back-to-the-future-iii.json](./218360-back-to-the-future-iii.json) |
 | Back to the Future: The Game | 3232 | [3232-back-to-the-future-the-game.json](./3232-back-to-the-future-the-game.json) |
 | Back to the Future: The Game - Episode 1: It's About Time | 78249 | [78249-back-to-the-future-the-game-episode-1-its-about-time.json](./78249-back-to-the-future-the-game-episode-1-its-about-time.json) |
 | Back to the Future: The Game - Episode 2: Get Tannen! | 78253 | [78253-back-to-the-future-the-game-episode-2-get-tannen.json](./78253-back-to-the-future-the-game-episode-2-get-tannen.json) |
@@ -1099,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bank Escape Pro | 68773 | [68773-bank-escape-pro.json](./68773-bank-escape-pro.json) |
 | Bank Heist | 11129 | [11129-bank-heist.json](./11129-bank-heist.json) |
 | Bank Panic | 6083 | [6083-bank-panic.json](./6083-bank-panic.json) |
+| Bank Raid | 218362 | [218362-bank-raid.json](./218362-bank-raid.json) |
 | Bank Robber | 319569 | [319569-bank-robber.json](./319569-bank-robber.json) |
 | Bank Robbery Royale: Battle Simulator | 100937 | [100937-bank-robbery-royale-battle-simulator.json](./100937-bank-robbery-royale-battle-simulator.json) |
 | Bank-A-Ball | 84323 | [84323-bank-a-ball.json](./84323-bank-a-ball.json) |
@@ -2967,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedlamball | 51985 | [51985-bedlamball.json](./51985-bedlamball.json) |
 | BeDo | 245783 | [245783-bedo.json](./245783-bedo.json) |
 | Bedouin Ride | 395809 | [395809-bedouin-ride.json](./395809-bedouin-ride.json) |
+| Bedrock Bowl | 218363 | [218363-bedrock-bowl.json](./218363-bedrock-bowl.json) |
 | Bedrock High | 238630 | [238630-bedrock-high.json](./238630-bedrock-high.json) |
 | Bedrock Snowball Bash Game | 143682 | [143682-bedrock-snowball-bash-game.json](./143682-bedrock-snowball-bash-game.json) |
 | Bedrone | 270713 | [270713-bedrone.json](./270713-bedrone.json) |
@@ -4947,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blake Strongflank | 182515 | [182515-blake-strongflank.json](./182515-blake-strongflank.json) |
 | Blake Turner: Ace Attorney | 308528 | [308528-blake-turner-ace-attorney.json](./308528-blake-turner-ace-attorney.json) |
 | Blaloon Blalympia | 187505 | [187505-blaloon-blalympia.json](./187505-blaloon-blalympia.json) |
+| Blaloon Blalympia 2 | 218374 | [218374-blaloon-blalympia-2.json](./218374-blaloon-blalympia-2.json) |
 | Blam! Machinehead | 45414 | [45414-blam-machinehead.json](./45414-blam-machinehead.json) |
 | Blamdown Udder Fury | 33063 | [33063-blamdown-udder-fury.json](./33063-blamdown-udder-fury.json) |
 | Blame him | 111802 | [111802-blame-him.json](./111802-blame-him.json) |
@@ -6368,6 +6372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bold | 243680 | [243680-bold.json](./243680-bold.json) |
 | Bold: Networked Newt Action | 397821 | [397821-bold-networked-newt-action.json](./397821-bold-networked-newt-action.json) |
 | Bolek i Lolek: Język angielski dla najmłodszych | 351832 | [351832-bolek-i-lolek-jezyk-angielski-dla-najm-odszych.json](./351832-bolek-i-lolek-jezyk-angielski-dla-najm-odszych.json) |
+| Bolek i Lolek: Tajemnicze Zamczysko | 218514 | [218514-bolek-i-lolek-tajemnicze-zamczysko.json](./218514-bolek-i-lolek-tajemnicze-zamczysko.json) |
 | BoliKa | 328072 | [328072-bolika.json](./328072-bolika.json) |
 | Bolix | 300382 | [300382-bolix.json](./300382-bolix.json) |
 | Boll Deluxe | 134084 | [134084-boll-deluxe.json](./134084-boll-deluxe.json) |
