@@ -4991,6 +4991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platformer Saga | 336375 | [336375-platformer-saga.json](./336375-platformer-saga.json) |
 | Platformer Toolkit | 205599 | [205599-platformer-toolkit.json](./205599-platformer-toolkit.json) |
 | Platformica | 57054 | [57054-platformica.json](./57054-platformica.json) |
+| Platformity | 203758 | [203758-platformity.json](./203758-platformity.json) |
 | Platforms Unlimited | 101323 | [101323-platforms-unlimited.json](./101323-platforms-unlimited.json) |
 | Plati and the Tower of Time | 310739 | [310739-plati-and-the-tower-of-time.json](./310739-plati-and-the-tower-of-time.json) |
 | Plati Nalog: Favorite Russian Game | 88083 | [88083-plati-nalog-favorite-russian-game.json](./88083-plati-nalog-favorite-russian-game.json) |
@@ -5233,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumbers Creed | 178667 | [178667-plumbers-creed.json](./178667-plumbers-creed.json) |
 | Plumbers Don't Wear Ties | 4251 | [4251-plumbers-dont-wear-ties.json](./4251-plumbers-dont-wear-ties.json) |
 | Plumbers Don't Wear Ties: But They Do Carry Shotguns | 271316 | [271316-plumbers-dont-wear-ties-but-they-do-carry-shotguns.json](./271316-plumbers-dont-wear-ties-but-they-do-carry-shotguns.json) |
+| Plumbers Don't Wear Ties: Definitive Edition | 203765 | [203765-plumbers-dont-wear-ties-definitive-edition.json](./203765-plumbers-dont-wear-ties-definitive-edition.json) |
 | Plumbers Don't Wear Ties: Definitive Edition - Collector's Edition | 267640 | [267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json](./267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json) |
 | Plumbing Contest | 230836 | [230836-plumbing-contest.json](./230836-plumbing-contest.json) |
 | Plummet | 84238 | [84238-plummet.json](./84238-plummet.json) |
@@ -7697,6 +7699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prixel | 111205 | [111205-prixel.json](./111205-prixel.json) |
 | Prize Denied | 339962 | [339962-prize-denied.json](./339962-prize-denied.json) |
 | Prize Fighter | 5424 | [5424-prize-fighter.json](./5424-prize-fighter.json) |
+| Prize Fighter: Remastered | 203790 | [203790-prize-fighter-remastered.json](./203790-prize-fighter-remastered.json) |
 | Prizefight | 68609 | [68609-prizefight.json](./68609-prizefight.json) |
 | Prizefighters | 239914 | [239914-prizefighters.json](./239914-prizefighters.json) |
 | Prizma Puzzle Classic | 378184 | [378184-prizma-puzzle-classic.json](./378184-prizma-puzzle-classic.json) |
@@ -8150,6 +8153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Luna | 220659 | [220659-project-luna.json](./220659-project-luna.json) |
 | Project Lynx | 326165 | [326165-project-lynx.json](./326165-project-lynx.json) |
 | Project M | 127155 | [127155-project-m.json](./127155-project-m.json) |
+| Project M | 203771 | [203771-project-m.json](./203771-project-m.json) |
 | Project M | 382401 | [382401-project-m.json](./382401-project-m.json) |
 | Project M EX Remix | 202916 | [202916-project-m-ex-remix.json](./202916-project-m-ex-remix.json) |
 | Project MA | 317422 | [317422-project-ma.json](./317422-project-ma.json) |
@@ -9506,6 +9510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles for smart: Dogs | 107848 | [107848-puzzles-for-smart-dogs.json](./107848-puzzles-for-smart-dogs.json) |
 | Puzzles for smart: Horses | 111492 | [111492-puzzles-for-smart-horses.json](./111492-puzzles-for-smart-horses.json) |
 | Puzzles Forest | 414496 | [414496-puzzles-forest.json](./414496-puzzles-forest.json) |
+| Puzzles with Nature | 203795 | [203795-puzzles-with-nature.json](./203795-puzzles-with-nature.json) |
 | Puzzles: Dog | 414499 | [414499-puzzles-dog.json](./414499-puzzles-dog.json) |
 | Puzzles: Fish | 414498 | [414498-puzzles-fish.json](./414498-puzzles-fish.json) |
 | PuzzleScriptMis | 312684 | [312684-puzzlescriptmis.json](./312684-puzzlescriptmis.json) |
