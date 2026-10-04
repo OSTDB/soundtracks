@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paco and the Tumbling Seed Box | 138051 | [138051-paco-and-the-tumbling-seed-box.json](./138051-paco-and-the-tumbling-seed-box.json) |
 | Paco El Hare vs Los Marcianos Siderales | 277926 | [277926-paco-el-hare-vs-los-marcianos-siderales.json](./277926-paco-el-hare-vs-los-marcianos-siderales.json) |
 | Pacremental | 398410 | [398410-pacremental.json](./398410-pacremental.json) |
+| Pact of Joy | 211619 | [211619-pact-of-joy.json](./211619-pact-of-joy.json) |
 | Pact of Steel | 235724 | [235724-pact-of-steel.json](./235724-pact-of-steel.json) |
 | Pact of the Black Tide | 409077 | [409077-pact-of-the-black-tide.json](./409077-pact-of-the-black-tide.json) |
 | Pact With a Demon | 345105 | [345105-pact-with-a-demon.json](./345105-pact-with-a-demon.json) |
@@ -1083,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parahcuy | 321493 | [321493-parahcuy.json](./321493-parahcuy.json) |
 | Paraido | 265781 | [265781-paraido.json](./265781-paraido.json) |
 | Paraiso | 299390 | [299390-paraiso.json](./299390-paraiso.json) |
+| Parallax | 211628 | [211628-parallax.json](./211628-parallax.json) |
 | Parallax | 271743 | [271743-parallax.json](./271743-parallax.json) |
 | Parallax | 28847 | [28847-parallax.json](./28847-parallax.json) |
 | Parallax | 292841 | [292841-parallax.json](./292841-parallax.json) |
@@ -2067,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peglin | 133512 | [133512-peglin.json](./133512-peglin.json) |
 | Pegs of Hell | 416008 | [416008-pegs-of-hell.json](./416008-pegs-of-hell.json) |
 | Pegshot: Vendetta | 346743 | [346743-pegshot-vendetta.json](./346743-pegshot-vendetta.json) |
+| PegSoli+ | 211650 | [211650-pegsoli.json](./211650-pegsoli.json) |
 | Pegture | 389722 | [389722-pegture.json](./389722-pegture.json) |
 | Pegzo | 78073 | [78073-pegzo.json](./78073-pegzo.json) |
 | Peh Pai | 91361 | [91361-peh-pai.json](./91361-peh-pai.json) |
@@ -6733,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal III | 3110 | [3110-postal-iii.json](./3110-postal-iii.json) |
 | Postal: Redux | 8716 | [8716-postal-redux.json](./8716-postal-redux.json) |
 | PostApo | 386421 | [386421-postapo.json](./386421-postapo.json) |
+| Postapo Mechanic Simulator | 211632 | [211632-postapo-mechanic-simulator.json](./211632-postapo-mechanic-simulator.json) |
 | Postbound! | 291581 | [291581-postbound.json](./291581-postbound.json) |
 | Postcard Through Time | 417581 | [417581-postcard-through-time.json](./417581-postcard-through-time.json) |
 | Postcat Caitsith | 194318 | [194318-postcat-caitsith.json](./194318-postcat-caitsith.json) |
@@ -6806,6 +6810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Shop Simulator | 290953 | [290953-potion-shop-simulator.json](./290953-potion-shop-simulator.json) |
 | Potion Slingers | 248036 | [248036-potion-slingers.json](./248036-potion-slingers.json) |
 | Potion Stand Story | 316809 | [316809-potion-stand-story.json](./316809-potion-stand-story.json) |
+| Potion Tales | 211620 | [211620-potion-tales.json](./211620-potion-tales.json) |
 | Potion Wilds | 216713 | [216713-potion-wilds.json](./216713-potion-wilds.json) |
 | Potioneer: The VR Gardening Simulator | 27341 | [27341-potioneer-the-vr-gardening-simulator.json](./27341-potioneer-the-vr-gardening-simulator.json) |
 | Potionomics: Boss Finn Content Pack | 360595 | [360595-potionomics-boss-finn-content-pack.json](./360595-potionomics-boss-finn-content-pack.json) |
