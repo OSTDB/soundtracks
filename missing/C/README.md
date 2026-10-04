@@ -1982,6 +1982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat MeowMart: Supermarket Simulator | 328567 | [328567-cat-meowmart-supermarket-simulator.json](./328567-cat-meowmart-supermarket-simulator.json) |
 | Cat Minesweeper | 396599 | [396599-cat-minesweeper.json](./396599-cat-minesweeper.json) |
 | Cat Museum | 193857 | [193857-cat-museum.json](./193857-cat-museum.json) |
+| Cat N Can | 223366 | [223366-cat-n-can.json](./223366-cat-n-can.json) |
 | Cat Named Mojave | 342774 | [342774-cat-named-mojave.json](./342774-cat-named-mojave.json) |
 | Cat Named Spirit | 254567 | [254567-cat-named-spirit.json](./254567-cat-named-spirit.json) |
 | Cat Nap | 380061 | [380061-cat-nap.json](./380061-cat-nap.json) |
@@ -3888,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chomper's | 282626 | [282626-chompers.json](./282626-chompers.json) |
 | Chomper's Adventure | 59451 | [59451-chompers-adventure.json](./59451-chompers-adventure.json) |
 | Chompies! | 207407 | [207407-chompies.json](./207407-chompies.json) |
+| Chompy Chomp Chomp Party | 223508 | [223508-chompy-chomp-chomp-party.json](./223508-chompy-chomp-chomp-party.json) |
 | Chóngshēng Zhànshì | 158537 | [158537-chongsheng-zhanshi.json](./158537-chongsheng-zhanshi.json) |
 | Chonkymon | 149035 | [149035-chonkymon.json](./149035-chonkymon.json) |
 | Choo Choo Crossing | 278722 | [278722-choo-choo-crossing.json](./278722-choo-choo-crossing.json) |
@@ -4122,6 +4124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma Blast | 43498 | [43498-chroma-blast.json](./43498-chroma-blast.json) |
 | Chroma Cannon | 136245 | [136245-chroma-cannon.json](./136245-chroma-cannon.json) |
 | Chroma Chronicles | 194450 | [194450-chroma-chronicles.json](./194450-chroma-chronicles.json) |
+| Chroma Circuit | 223509 | [223509-chroma-circuit.json](./223509-chroma-circuit.json) |
 | Chroma Crush | 343955 | [343955-chroma-crush.json](./343955-chroma-crush.json) |
 | Chroma Deluxe: Sexy Hentai Girls | 368062 | [368062-chroma-deluxe-sexy-hentai-girls.json](./368062-chroma-deluxe-sexy-hentai-girls.json) |
 | Chroma Match | 102822 | [102822-chroma-match.json](./102822-chroma-match.json) |
@@ -4353,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chwæst: A Creeping Parasite Horror | 393633 | [393633-chw-st-a-creeping-parasite-horror.json](./393633-chw-st-a-creeping-parasite-horror.json) |
 | Chymicalia | 294180 | [294180-chymicalia.json](./294180-chymicalia.json) |
 | Chyrza | 142395 | [142395-chyrza.json](./142395-chyrza.json) |
+| Chyss | 223510 | [223510-chyss.json](./223510-chyss.json) |
 | Cì Shā | 158675 | [158675-ci-sha.json](./158675-ci-sha.json) |
 | CIA | 25130 | [25130-cia.json](./25130-cia.json) |
 | CIA Operative: Solo Missions | 71228 | [71228-cia-operative-solo-missions.json](./71228-cia-operative-solo-missions.json) |
@@ -4943,6 +4947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic64 | 308474 | [308474-classic64.json](./308474-classic64.json) |
 | Classical Contraption | 249364 | [249364-classical-contraption.json](./249364-classical-contraption.json) |
 | Classical Jukebox | 175933 | [175933-classical-jukebox.json](./175933-classical-jukebox.json) |
+| Classical Music Minesweeper | 223511 | [223511-classical-music-minesweeper.json](./223511-classical-music-minesweeper.json) |
 | ClassiCube | 117562 | [117562-classicube.json](./117562-classicube.json) |
 | Classified of 2015 | 293336 | [293336-classified-of-2015.json](./293336-classified-of-2015.json) |
 | Classified Stories: Color Out of Space | 190951 | [190951-classified-stories-color-out-of-space.json](./190951-classified-stories-color-out-of-space.json) |
@@ -5001,6 +5006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Attack! | 135025 | [135025-clean-attack.json](./135025-clean-attack.json) |
 | Clean City Project | 292521 | [292521-clean-city-project.json](./292521-clean-city-project.json) |
 | Clean Cut | 275315 | [275315-clean-cut.json](./275315-clean-cut.json) |
+| Clean Energy Creatures | 223513 | [223513-clean-energy-creatures.json](./223513-clean-energy-creatures.json) |
 | Clean Freak! Perfect Cook! | 365166 | [365166-clean-freak-perfect-cook.json](./365166-clean-freak-perfect-cook.json) |
 | Clean My Carpet: ASMR Washing | 228451 | [228451-clean-my-carpet-asmr-washing.json](./228451-clean-my-carpet-asmr-washing.json) |
 | Clean Paper | 239598 | [239598-clean-paper.json](./239598-clean-paper.json) |
@@ -5231,6 +5237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwork Pussy | 158218 | [158218-clockwork-pussy.json](./158218-clockwork-pussy.json) |
 | Clockwork Rabbit | 319814 | [319814-clockwork-rabbit.json](./319814-clockwork-rabbit.json) |
 | Clockwork Revolution | 252840 | [252840-clockwork-revolution.json](./252840-clockwork-revolution.json) |
+| Clockwork Survivors | 223512 | [223512-clockwork-survivors.json](./223512-clockwork-survivors.json) |
 | Clockwork Tales: Of Glass and Ink | 17141 | [17141-clockwork-tales-of-glass-and-ink.json](./17141-clockwork-tales-of-glass-and-ink.json) |
 | Cloisterfuck | 271296 | [271296-cloisterfuck.json](./271296-cloisterfuck.json) |
 | Clone | 217844 | [217844-clone.json](./217844-clone.json) |
@@ -7358,6 +7365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corewave Defenders | 382292 | [382292-corewave-defenders.json](./382292-corewave-defenders.json) |
 | Corg of the Dead | 133383 | [133383-corg-of-the-dead.json](./133383-corg-of-the-dead.json) |
 | Corgi | 202671 | [202671-corgi.json](./202671-corgi.json) |
+| Corgi Cove | 223514 | [223514-corgi-cove.json](./223514-corgi-cove.json) |
 | Corgi in the Box | 273372 | [273372-corgi-in-the-box.json](./273372-corgi-in-the-box.json) |
 | Corgi Memory | 62694 | [62694-corgi-memory.json](./62694-corgi-memory.json) |
 | Corgi Race | 292773 | [292773-corgi-race.json](./292773-corgi-race.json) |
@@ -7515,6 +7523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Challenge Racing | 196336 | [196336-cosmic-challenge-racing.json](./196336-cosmic-challenge-racing.json) |
 | Cosmic Chicken | 103657 | [103657-cosmic-chicken.json](./103657-cosmic-chicken.json) |
 | Cosmic Cleaner | 380083 | [380083-cosmic-cleaner.json](./380083-cosmic-cleaner.json) |
+| Cosmic Coliseum | 223515 | [223515-cosmic-coliseum.json](./223515-cosmic-coliseum.json) |
 | Cosmic Collapse | 275327 | [275327-cosmic-collapse.json](./275327-cosmic-collapse.json) |
 | Cosmic Commando | 60518 | [60518-cosmic-commando.json](./60518-cosmic-commando.json) |
 | Cosmic Commute | 229624 | [229624-cosmic-commute.json](./229624-cosmic-commute.json) |
@@ -7831,6 +7840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courier Chief Tycoon | 237086 | [237086-courier-chief-tycoon.json](./237086-courier-chief-tycoon.json) |
 | Courier Life Simulator | 380089 | [380089-courier-life-simulator.json](./380089-courier-life-simulator.json) |
 | Courier Simulator | 349514 | [349514-courier-simulator.json](./349514-courier-simulator.json) |
+| Couroland | 223516 | [223516-couroland.json](./223516-couroland.json) |
 | Court of Ashes | 120941 | [120941-court-of-ashes.json](./120941-court-of-ashes.json) |
 | Court of Darkness: Captivation's Kiss | 399622 | [399622-court-of-darkness-captivations-kiss.json](./399622-court-of-darkness-captivations-kiss.json) |
 | Court of Darkness: Temptation's Kiss | 370803 | [370803-court-of-darkness-temptations-kiss.json](./370803-court-of-darkness-temptations-kiss.json) |
@@ -8138,6 +8148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cranky Cat | 16514 | [16514-cranky-cat.json](./16514-cranky-cat.json) |
 | Cranky Food Friends | 230209 | [230209-cranky-food-friends.json](./230209-cranky-food-friends.json) |
 | Cranky Jump | 418591 | [418591-cranky-jump.json](./418591-cranky-jump.json) |
+| CRAP | 223517 | [223517-crap.json](./223517-crap.json) |
 | Crap Game, Don’t Play | 365075 | [365075-crap-game-don-t-play.json](./365075-crap-game-don-t-play.json) |
 | Crapette | 332253 | [332253-crapette.json](./332253-crapette.json) |
 | Crapman | 70424 | [70424-crapman.json](./70424-crapman.json) |
