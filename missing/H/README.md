@@ -2084,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Corp | 154568 | [154568-hell-corp.json](./154568-hell-corp.json) |
 | Hell Court | 179534 | [179534-hell-court.json](./179534-hell-court.json) |
 | Hell Crusher | 202845 | [202845-hell-crusher.json](./202845-hell-crusher.json) |
+| Hell Darkness | 174614 | [174614-hell-darkness.json](./174614-hell-darkness.json) |
 | Hell Diary | 212770 | [212770-hell-diary.json](./212770-hell-diary.json) |
 | Hell Dice Gambit | 388396 | [388396-hell-dice-gambit.json](./388396-hell-dice-gambit.json) |
 | Hell Dive | 324307 | [324307-hell-dive.json](./324307-hell-dive.json) |
@@ -3125,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Arca | 29575 | [29575-heroes-of-arca.json](./29575-heroes-of-arca.json) |
 | Heroes of Arcana | 211759 | [211759-heroes-of-arcana.json](./211759-heroes-of-arcana.json) |
 | Heroes of Artadis | 378340 | [378340-heroes-of-artadis.json](./378340-heroes-of-artadis.json) |
+| Heroes of Blast | 174718 | [174718-heroes-of-blast.json](./174718-heroes-of-blast.json) |
 | Heroes of Book & Paper | 199506 | [199506-heroes-of-book-and-paper.json](./199506-heroes-of-book-and-paper.json) |
 | Heroes of Britannia | 188464 | [188464-heroes-of-britannia.json](./188464-heroes-of-britannia.json) |
 | Heroes of Camelot | 7449 | [7449-heroes-of-camelot.json](./7449-heroes-of-camelot.json) |
