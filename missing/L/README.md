@@ -4535,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love is Dead | 33225 | [33225-love-is-dead.json](./33225-love-is-dead.json) |
 | Love is in Bloom | 225300 | [225300-love-is-in-bloom.json](./225300-love-is-in-bloom.json) |
 | Love is in the air | 98264 | [98264-love-is-in-the-air.json](./98264-love-is-in-the-air.json) |
+| Love is Our Specialty! | 210520 | [210520-love-is-our-specialty.json](./210520-love-is-our-specialty.json) |
 | Love is Strange | 178526 | [178526-love-is-strange.json](./178526-love-is-strange.json) |
 | Love Is... | 321619 | [321619-love-is.json](./321619-love-is.json) |
 | Love is... in Bloom | 51160 | [51160-love-is-in-bloom.json](./51160-love-is-in-bloom.json) |
