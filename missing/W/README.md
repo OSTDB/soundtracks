@@ -1156,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wartide: Heroes of Atlantis | 74313 | [74313-wartide-heroes-of-atlantis.json](./74313-wartide-heroes-of-atlantis.json) |
 | Wartile | 18185 | [18185-wartile.json](./18185-wartile.json) |
 | Wartorn | 328003 | [328003-wartorn.json](./328003-wartorn.json) |
+| WarTorn | 179473 | [179473-wartorn.json](./179473-wartorn.json) |
 | WarTorn | 94337 | [94337-wartorn.json](./94337-wartorn.json) |
 | Wartune | 23652 | [23652-wartune.json](./23652-wartune.json) |
 | WarUniverse | 123614 | [123614-waruniverse.json](./123614-waruniverse.json) |
@@ -3174,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winner vs. Loser | 182455 | [182455-winner-vs-loser.json](./182455-winner-vs-loser.json) |
 | Winner's Circle | 269662 | [269662-winners-circle.json](./269662-winners-circle.json) |
 | Winner's Soccer Evolution | 233045 | [233045-winners-soccer-evolution.json](./233045-winners-soccer-evolution.json) |
+| Winners and Losers | 179466 | [179466-winners-and-losers.json](./179466-winners-and-losers.json) |
 | Winnie the Bear | 326698 | [326698-winnie-the-bear.json](./326698-winnie-the-bear.json) |
 | Winnie the Pooh in the Hundred Acre Wood | 51370 | [51370-winnie-the-pooh-in-the-hundred-acre-wood.json](./51370-winnie-the-pooh-in-the-hundred-acre-wood.json) |
 | Winnie the Pooh: First Steps | 273880 | [273880-winnie-the-pooh-first-steps.json](./273880-winnie-the-pooh-first-steps.json) |
