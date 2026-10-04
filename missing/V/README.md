@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V: The Video Game | 45313 | [45313-v-the-video-game.json](./45313-v-the-video-game.json) |
 | V! Yuusha no Kuse ni Namaikida R | 167140 | [167140-v-yuusha-no-kuse-ni-namaikida-r.json](./167140-v-yuusha-no-kuse-ni-namaikida-r.json) |
 | V!be Bunny | 404975 | [404975-v-be-bunny.json](./404975-v-be-bunny.json) |
+| V.A Proxy | 207718 | [207718-v-a-proxy.json](./207718-v-a-proxy.json) |
 | V.D.O | 201774 | [201774-v-d-o.json](./201774-v-d-o.json) |
 | V.G. Re-birth | 180273 | [180273-v-g-re-birth.json](./180273-v-g-re-birth.json) |
 | V.G.: Variable Geo | 98254 | [98254-v-g-variable-geo.json](./98254-v-g-variable-geo.json) |
