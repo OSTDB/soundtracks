@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Balloon Mania | 147467 | [147467-water-balloon-mania.json](./147467-water-balloon-mania.json) |
 | Water balls | 39847 | [39847-water-balls.json](./39847-water-balls.json) |
 | Water Bears VR | 34719 | [34719-water-bears-vr.json](./34719-water-bears-vr.json) |
+| Water Boiling Simulator | 179004 | [179004-water-boiling-simulator.json](./179004-water-boiling-simulator.json) |
 | Water Bugs | 73218 | [73218-water-bugs.json](./73218-water-bugs.json) |
 | Water Castle | 268473 | [268473-water-castle.json](./268473-water-castle.json) |
 | Water Chaos | 236877 | [236877-water-chaos.json](./236877-water-chaos.json) |
@@ -1663,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weddle | 202801 | [202801-weddle.json](./202801-weddle.json) |
 | Wedge Lock Scaffolding VR Training | 282217 | [282217-wedge-lock-scaffolding-vr-training.json](./282217-wedge-lock-scaffolding-vr-training.json) |
 | Wedgie Simulator | 216842 | [216842-wedgie-simulator.json](./216842-wedgie-simulator.json) |
+| Wednesday | 179022 | [179022-wednesday.json](./179022-wednesday.json) |
 | Wednesdays | 333946 | [333946-wednesdays.json](./333946-wednesdays.json) |
 | Wee Trains | 120293 | [120293-wee-trains.json](./120293-wee-trains.json) |
 | Weed & Greed | 348940 | [348940-weed-and-greed.json](./348940-weed-and-greed.json) |
