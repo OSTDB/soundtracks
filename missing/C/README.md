@@ -1937,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Chases Mouse | 406722 | [406722-cat-chases-mouse.json](./406722-cat-chases-mouse.json) |
 | Cat City | 260227 | [260227-cat-city.json](./260227-cat-city.json) |
 | Cat Clean Ocean | 320916 | [320916-cat-clean-ocean.json](./320916-cat-clean-ocean.json) |
+| Cat Clicker | 190014 | [190014-cat-clicker.json](./190014-cat-clicker.json) |
 | Cat Clicker | 337840 | [337840-cat-clicker.json](./337840-cat-clicker.json) |
 | Cat Clinic Simulator: Vet Hospital | 364075 | [364075-cat-clinic-simulator-vet-hospital.json](./364075-cat-clinic-simulator-vet-hospital.json) |
 | Cat Cosmic Puzzle | 347317 | [347317-cat-cosmic-puzzle.json](./347317-cat-cosmic-puzzle.json) |
@@ -6635,6 +6636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Community Ball | 289541 | [289541-community-ball.json](./289541-community-ball.json) |
 | Community Build Project 9: Halloween-2020 | 308480 | [308480-community-build-project-9-halloween-2020.json](./308480-community-build-project-9-halloween-2020.json) |
 | Community Button | 402383 | [402383-community-button.json](./402383-community-button.json) |
+| Community College Hero: Fun and Games | 190049 | [190049-community-college-hero-fun-and-games.json](./190049-community-college-hero-fun-and-games.json) |
 | Community College Hero: Knowledge is Power | 99058 | [99058-community-college-hero-knowledge-is-power.json](./99058-community-college-hero-knowledge-is-power.json) |
 | Community Garden | 68589 | [68589-community-garden.json](./68589-community-garden.json) |
 | Community Inc | 40546 | [40546-community-inc.json](./40546-community-inc.json) |
@@ -10037,6 +10039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupcake Baker | 87719 | [87719-cupcake-baker.json](./87719-cupcake-baker.json) |
 | Cupcake Clicker 4 | 231381 | [231381-cupcake-clicker-4.json](./231381-cupcake-clicker-4.json) |
 | Cupcake House: Liv's cupcakes matching sweetness! | 252705 | [252705-cupcake-house-livs-cupcakes-matching-sweetness.json](./252705-cupcake-house-livs-cupcakes-matching-sweetness.json) |
+| Cupcake Remember | 190028 | [190028-cupcake-remember.json](./190028-cupcake-remember.json) |
 | Cupcake: an Apartment Adventure | 163818 | [163818-cupcake-an-apartment-adventure.json](./163818-cupcake-an-apartment-adventure.json) |
 | Cupcakeroo! | 256792 | [256792-cupcakeroo.json](./256792-cupcakeroo.json) |
 | Cupcakes and Critters | 63560 | [63560-cupcakes-and-critters.json](./63560-cupcakes-and-critters.json) |
@@ -10156,6 +10159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Demons of Wallachia | 365767 | [365767-cursed-demons-of-wallachia.json](./365767-cursed-demons-of-wallachia.json) |
 | Cursed Diamonds | 285985 | [285985-cursed-diamonds.json](./285985-cursed-diamonds.json) |
 | Cursed Digicam | 327543 | [327543-cursed-digicam.json](./327543-cursed-digicam.json) |
+| Cursed Dungeon | 190017 | [190017-cursed-dungeon.json](./190017-cursed-dungeon.json) |
 | Cursed Fables: A Gilded Rose - Collector's Edition | 338782 | [338782-cursed-fables-a-gilded-rose-collectors-edition.json](./338782-cursed-fables-a-gilded-rose-collectors-edition.json) |
 | Cursed Fables: A Voice to Die For - Collector's Edition | 260422 | [260422-cursed-fables-a-voice-to-die-for-collectors-edition.json](./260422-cursed-fables-a-voice-to-die-for-collectors-edition.json) |
 | Cursed Fables: Before the Clock Strikes | 318568 | [318568-cursed-fables-before-the-clock-strikes.json](./318568-cursed-fables-before-the-clock-strikes.json) |
@@ -10566,6 +10570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk City Tycoon | 304796 | [304796-cyberpunk-city-tycoon.json](./304796-cyberpunk-city-tycoon.json) |
 | Cyberpunk Detective | 164975 | [164975-cyberpunk-detective.json](./164975-cyberpunk-detective.json) |
 | Cyberpunk Fighting | 190468 | [190468-cyberpunk-fighting.json](./190468-cyberpunk-fighting.json) |
+| Cyberpunk Girls | 190053 | [190053-cyberpunk-girls.json](./190053-cyberpunk-girls.json) |
 | Cyberpunk Inquisitor | 306065 | [306065-cyberpunk-inquisitor.json](./306065-cyberpunk-inquisitor.json) |
 | Cyberpunk Men for Cyberpunk Sex | 288882 | [288882-cyberpunk-men-for-cyberpunk-sex.json](./288882-cyberpunk-men-for-cyberpunk-sex.json) |
 | Cyberpunk Men for Sex Motel | 288895 | [288895-cyberpunk-men-for-sex-motel.json](./288895-cyberpunk-men-for-sex-motel.json) |
