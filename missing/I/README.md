@@ -1106,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikki | 12915 | [12915-ikki.json](./12915-ikki.json) |
 | Ikki Tousen: Eloquent Fist | 38475 | [38475-ikki-tousen-eloquent-fist.json](./38475-ikki-tousen-eloquent-fist.json) |
 | Ikki Tousen: Xross Impact | 38470 | [38470-ikki-tousen-xross-impact.json](./38470-ikki-tousen-xross-impact.json) |
+| Ikki Unite | 216708 | [216708-ikki-unite.json](./216708-ikki-unite.json) |
 | Ikkitousen: Shining Dragon | 44645 | [44645-ikkitousen-shining-dragon.json](./44645-ikkitousen-shining-dragon.json) |
 | Ikoka Game | 273458 | [273458-ikoka-game.json](./273458-ikoka-game.json) |
 | Ikonei Island: An Earthlock Adventure | 197183 | [197183-ikonei-island-an-earthlock-adventure.json](./197183-ikonei-island-an-earthlock-adventure.json) |
