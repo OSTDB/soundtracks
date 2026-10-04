@@ -2747,6 +2747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Fighter VI' | 223027 | [223027-master-fighter-vi.json](./223027-master-fighter-vi.json) |
 | Master Golf | 247008 | [247008-master-golf.json](./247008-master-golf.json) |
 | Master Labyrinth | 45915 | [45915-master-labyrinth.json](./45915-master-labyrinth.json) |
+| Master Lander | 187299 | [187299-master-lander.json](./187299-master-lander.json) |
 | Master Leaf Blower | 317024 | [317024-master-leaf-blower.json](./317024-master-leaf-blower.json) |
 | Master Lemon: The Quest for Iceland | 309469 | [309469-master-lemon-the-quest-for-iceland.json](./309469-master-lemon-the-quest-for-iceland.json) |
 | Master Levels for Doom II | 313171 | [313171-master-levels-for-doom-ii.json](./313171-master-levels-for-doom-ii.json) |
@@ -6534,6 +6535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Problem | 180117 | [180117-miner-problem.json](./180117-miner-problem.json) |
 | Miner Rogue | 290391 | [290391-miner-rogue.json](./290391-miner-rogue.json) |
 | Miner Rush | 201799 | [201799-miner-rush.json](./201799-miner-rush.json) |
+| Miner Ultra Adventures 2 | 187297 | [187297-miner-ultra-adventures-2.json](./187297-miner-ultra-adventures-2.json) |
 | Miner Ultra Rag Smash | 163918 | [163918-miner-ultra-rag-smash.json](./163918-miner-ultra-rag-smash.json) |
 | Miner: Dig Deep | 23846 | [23846-miner-dig-deep.json](./23846-miner-dig-deep.json) |
 | Mineral | 302438 | [302438-mineral.json](./302438-mineral.json) |
@@ -7985,6 +7987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Tales: The Museum of Anything | 18458 | [18458-monkey-tales-the-museum-of-anything.json](./18458-monkey-tales-the-museum-of-anything.json) |
 | Monkey Tales: The Princess of Sundara | 18457 | [18457-monkey-tales-the-princess-of-sundara.json](./18457-monkey-tales-the-princess-of-sundara.json) |
 | Monkey Tales: The Valley of the Jackal | 18461 | [18461-monkey-tales-the-valley-of-the-jackal.json](./18461-monkey-tales-the-valley-of-the-jackal.json) |
+| Monkey Time | 187300 | [187300-monkey-time.json](./187300-monkey-time.json) |
 | Monkey vs. Dino | 167605 | [167605-monkey-vs-dino.json](./167605-monkey-vs-dino.json) |
 | Monkey Wars! | 323749 | [323749-monkey-wars.json](./323749-monkey-wars.json) |
 | Monkey Wave | 383963 | [383963-monkey-wave.json](./383963-monkey-wave.json) |
