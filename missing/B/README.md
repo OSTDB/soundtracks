@@ -5731,6 +5731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Crossroad | 291189 | [291189-blood-crossroad.json](./291189-blood-crossroad.json) |
 | Blood Cube | 185549 | [185549-blood-cube.json](./185549-blood-cube.json) |
 | Blood Day | 112469 | [112469-blood-day.json](./112469-blood-day.json) |
+| Blood Day | 180080 | [180080-blood-day.json](./180080-blood-day.json) |
 | Blood Drift | 86566 | [86566-blood-drift.json](./86566-blood-drift.json) |
 | Blood Engine | 284013 | [284013-blood-engine.json](./284013-blood-engine.json) |
 | Blood Expedition | 384638 | [384638-blood-expedition.json](./384638-blood-expedition.json) |
@@ -6018,6 +6019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlosamAO | 151170 | [151170-blosamao.json](./151170-blosamao.json) |
 | Blosics 2 | 320867 | [320867-blosics-2.json](./320867-blosics-2.json) |
 | Blossom | 178530 | [178530-blossom.json](./178530-blossom.json) |
+| Blossom | 180085 | [180085-blossom.json](./180085-blossom.json) |
 | Blossom | 284015 | [284015-blossom.json](./284015-blossom.json) |
 | Blossom | 290469 | [290469-blossom.json](./290469-blossom.json) |
 | Blossom | 388708 | [388708-blossom.json](./388708-blossom.json) |
@@ -8923,6 +8925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Hell Advanced | 100592 | [100592-bullet-hell-advanced.json](./100592-bullet-hell-advanced.json) |
 | Bullet Hell Monday | 57089 | [57089-bullet-hell-monday.json](./57089-bullet-hell-monday.json) |
 | Bullet Inferno | 368494 | [368494-bullet-inferno.json](./368494-bullet-inferno.json) |
+| Bullet Looper | 180051 | [180051-bullet-looper.json](./180051-bullet-looper.json) |
 | Bullet Maniac | 237629 | [237629-bullet-maniac.json](./237629-bullet-maniac.json) |
 | Bullet Quest | 199461 | [199461-bullet-quest.json](./199461-bullet-quest.json) |
 | Bullet Rain | 302357 | [302357-bullet-rain.json](./302357-bullet-rain.json) |
