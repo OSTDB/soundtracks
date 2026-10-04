@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water: Transformer | 303048 | [303048-water-transformer.json](./303048-water-transformer.json) |
 | Water's Fine | 134565 | [134565-waters-fine.json](./134565-waters-fine.json) |
 | Waterbed | 178668 | [178668-waterbed.json](./178668-waterbed.json) |
+| Watercolor Hell | 201068 | [201068-watercolor-hell.json](./201068-watercolor-hell.json) |
 | Watercolors Sink Beneath the Surface | 404254 | [404254-watercolors-sink-beneath-the-surface.json](./404254-watercolors-sink-beneath-the-surface.json) |
 | Waterfall | 251196 | [251196-waterfall.json](./251196-waterfall.json) |
 | Waterfall Canyon | 223683 | [223683-waterfall-canyon.json](./223683-waterfall-canyon.json) |
@@ -2805,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Western | 18060 | [18060-wild-western.json](./18060-wild-western.json) |
 | Wild Wheels | 59968 | [59968-wild-wheels.json](./59968-wild-wheels.json) |
 | Wild Wild Eden | 265308 | [265308-wild-wild-eden.json](./265308-wild-wild-eden.json) |
+| Wild Wild West: The Steel Assassin | 201075 | [201075-wild-wild-west-the-steel-assassin.json](./201075-wild-wild-west-the-steel-assassin.json) |
 | Wild Wild West: The Steel Assassin | 70950 | [70950-wild-wild-west-the-steel-assassin.json](./70950-wild-wild-west-the-steel-assassin.json) |
 | Wild Wizard War | 391607 | [391607-wild-wizard-war.json](./391607-wild-wizard-war.json) |
 | Wild Wolf | 81013 | [81013-wild-wolf.json](./81013-wild-wolf.json) |
@@ -3037,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windy Mystletainn | 284344 | [284344-windy-mystletainn.json](./284344-windy-mystletainn.json) |
 | Windy Waltz | 248682 | [248682-windy-waltz.json](./248682-windy-waltz.json) |
 | Windy x Windam | 94899 | [94899-windy-x-windam.json](./94899-windy-x-windam.json) |
+| Wine Tycoon | 201074 | [201074-wine-tycoon.json](./201074-wine-tycoon.json) |
 | Winery Simulator | 216836 | [216836-winery-simulator.json](./216836-winery-simulator.json) |
 | WinFish 3 - Fly Fishing | 129767 | [129767-winfish-3-fly-fishing.json](./129767-winfish-3-fly-fishing.json) |
 | Wing | 202164 | [202164-wing.json](./202164-wing.json) |
@@ -3078,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingman 2: Kitakura no Fukkatsu | 84335 | [84335-wingman-2-kitakura-no-fukkatsu.json](./84335-wingman-2-kitakura-no-fukkatsu.json) |
 | Wingmen | 349940 | [349940-wingmen.json](./349940-wingmen.json) |
 | Wingmine | 388339 | [388339-wingmine.json](./388339-wingmine.json) |
+| WingNuts: Temporal Navigator | 201073 | [201073-wingnuts-temporal-navigator.json](./201073-wingnuts-temporal-navigator.json) |
 | Wings | 282664 | [282664-wings.json](./282664-wings.json) |
 | Wings | 5450 | [5450-wings.json](./5450-wings.json) |
 | Wings 1941 | 203571 | [203571-wings-1941.json](./203571-wings-1941.json) |
@@ -3404,6 +3408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches' Legacy: Hunter and the Hunted - Collector's Edition | 89945 | [89945-witches-legacy-hunter-and-the-hunted-collectors-edition.json](./89945-witches-legacy-hunter-and-the-hunted-collectors-edition.json) |
 | Witches' Legacy: Hunter and the Hunted HD | 101583 | [101583-witches-legacy-hunter-and-the-hunted-hd.json](./101583-witches-legacy-hunter-and-the-hunted-hd.json) |
 | Witches' Legacy: Lair of the Witch Queen - Collector's Edition | 110374 | [110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json](./110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json) |
+| Witches' Legacy: Lair of the Witch Queen & Witches' Legacy: Hunter and the Hunted | 201072 | [201072-witches-legacy-lair-of-the-witch-queen-and-witches-legacy-hunter-and-the-hunted.json](./201072-witches-legacy-lair-of-the-witch-queen-and-witches-legacy-hunter-and-the-hunted.json) |
 | Witches' Legacy: The City That Isn't There | 415976 | [415976-witches-legacy-the-city-that-isnt-there.json](./415976-witches-legacy-the-city-that-isnt-there.json) |
 | Witchfiend / Odd Job Eddie | 92845 | [92845-witchfiend-odd-job-eddie.json](./92845-witchfiend-odd-job-eddie.json) |
 | Witching Tower | 90121 | [90121-witching-tower.json](./90121-witching-tower.json) |
