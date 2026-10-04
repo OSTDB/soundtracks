@@ -4843,6 +4843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Guard: Defender | 41487 | [41487-planetary-guard-defender.json](./41487-planetary-guard-defender.json) |
 | Planetary Life | 258433 | [258433-planetary-life.json](./258433-planetary-life.json) |
 | Planetary Parfait | 293139 | [293139-planetary-parfait.json](./293139-planetary-parfait.json) |
+| Planetary Planter | 200517 | [200517-planetary-planter.json](./200517-planetary-planter.json) |
 | Planetary Settlers | 101340 | [101340-planetary-settlers.json](./101340-planetary-settlers.json) |
 | Planetation | 148978 | [148978-planetation.json](./148978-planetation.json) |
 | Planetbase | 13200 | [13200-planetbase.json](./13200-planetbase.json) |
@@ -7504,6 +7505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Nom Nom | 261999 | [261999-princess-nom-nom.json](./261999-princess-nom-nom.json) |
 | Princess of Mekana | 245816 | [245816-princess-of-mekana.json](./245816-princess-of-mekana.json) |
 | Princess of Seas | 201702 | [201702-princess-of-seas.json](./201702-princess-of-seas.json) |
+| Princess of the Moon Ultimate | 200547 | [200547-princess-of-the-moon-ultimate.json](./200547-princess-of-the-moon-ultimate.json) |
 | Princess of the Tomb | 353862 | [353862-princess-of-the-tomb.json](./353862-princess-of-the-tomb.json) |
 | Princess of Zeven | 116165 | [116165-princess-of-zeven.json](./116165-princess-of-zeven.json) |
 | Princess Pairs - Games for Girls | 88108 | [88108-princess-pairs-games-for-girls.json](./88108-princess-pairs-games-for-girls.json) |
