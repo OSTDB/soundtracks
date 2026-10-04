@@ -3956,6 +3956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man | 195570 | [195570-mega-man.json](./195570-mega-man.json) |
 | Mega Man | 281415 | [281415-mega-man.json](./281415-mega-man.json) |
 | Mega Man & Mega Man X 5in1 Special Box | 124033 | [124033-mega-man-and-mega-man-x-5in1-special-box.json](./124033-mega-man-and-mega-man-x-5in1-special-box.json) |
+| Mega Man 11: Amiibo Edition | 178398 | [178398-mega-man-11-amiibo-edition.json](./178398-mega-man-11-amiibo-edition.json) |
 | Mega Man 11: Collector's Package | 167160 | [167160-mega-man-11-collectors-package.json](./167160-mega-man-11-collectors-package.json) |
 | Mega Man 2 | 198812 | [198812-mega-man-2.json](./198812-mega-man-2.json) |
 | Mega Man 2 | 217935 | [217935-mega-man-2.json](./217935-mega-man-2.json) |
@@ -5217,6 +5218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaltech: Earthsiege - Expansion Pack | 73554 | [73554-metaltech-earthsiege-expansion-pack.json](./73554-metaltech-earthsiege-expansion-pack.json) |
 | Metaltech: Earthsiege Speech Pack | 98937 | [98937-metaltech-earthsiege-speech-pack.json](./98937-metaltech-earthsiege-speech-pack.json) |
 | Metalyx | 354579 | [354579-metalyx.json](./354579-metalyx.json) |
+| Metamaze | 178491 | [178491-metamaze.json](./178491-metamaze.json) |
 | Metamon | 227835 | [227835-metamon.json](./227835-metamon.json) |
 | Metamon Island | 223947 | [223947-metamon-island.json](./223947-metamon-island.json) |
 | Metamoqester | 39542 | [39542-metamoqester.json](./39542-metamoqester.json) |
