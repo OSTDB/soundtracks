@@ -2251,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night is Coming: Wrath of the Woods | 336551 | [336551-night-is-coming-wrath-of-the-woods.json](./336551-night-is-coming-wrath-of-the-woods.json) |
 | Night Island | 120793 | [120793-night-island.json](./120793-night-island.json) |
 | Night Keep | 311622 | [311622-night-keep.json](./311622-night-keep.json) |
+| Night Light | 206626 | [206626-night-light.json](./206626-night-light.json) |
 | Night Light | 33459 | [33459-night-light.json](./33459-night-light.json) |
 | Night Light: Nightmare | 156187 | [156187-night-light-nightmare.json](./156187-night-light-nightmare.json) |
 | Night Lights | 26698 | [26698-night-lights.json](./26698-night-lights.json) |
