@@ -1491,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Gum | 374054 | [374054-we-are-gum.json](./374054-we-are-gum.json) |
 | We Are Illuminati | 120333 | [120333-we-are-illuminati.json](./120333-we-are-illuminati.json) |
 | We Are Infinity | 283744 | [283744-we-are-infinity.json](./283744-we-are-infinity.json) |
+| We are kings | 183925 | [183925-we-are-kings.json](./183925-we-are-kings.json) |
 | We are Legion: Rome | 120916 | [120916-we-are-legion-rome.json](./120916-we-are-legion-rome.json) |
 | We Are Live | 157034 | [157034-we-are-live.json](./157034-we-are-live.json) |
 | We Are Live Momora! | 402461 | [402461-we-are-live-momora.json](./402461-we-are-live-momora.json) |
@@ -1617,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weathered | 62827 | [62827-weathered.json](./62827-weathered.json) |
 | Weatherworn: The Adventure of Pap & Pup | 157526 | [157526-weatherworn-the-adventure-of-pap-and-pup.json](./157526-weatherworn-the-adventure-of-pap-and-pup.json) |
 | Weave | 108823 | [108823-weave.json](./108823-weave.json) |
+| Weave | 183935 | [183935-weave.json](./183935-weave.json) |
 | Weave the Line - Puzzle games | 108278 | [108278-weave-the-line-puzzle-games.json](./108278-weave-the-line-puzzle-games.json) |
 | Weaveborn Heroes | 323517 | [323517-weaveborn-heroes.json](./323517-weaveborn-heroes.json) |
 | Weaver | 209979 | [209979-weaver.json](./209979-weaver.json) |
@@ -1728,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WeJam | 119678 | [119678-wejam.json](./119678-wejam.json) |
 | Wekele Wordle | 329557 | [329557-wekele-wordle.json](./329557-wekele-wordle.json) |
 | Wéko The Mask Gatherer | 270724 | [270724-weko-the-mask-gatherer.json](./270724-weko-the-mask-gatherer.json) |
+| Welcome | 183928 | [183928-welcome.json](./183928-welcome.json) |
 | Welcome | 368669 | [368669-welcome.json](./368669-welcome.json) |
 | Welcome | 92277 | [92277-welcome.json](./92277-welcome.json) |
 | Welcome Above | 111225 | [111225-welcome-above.json](./111225-welcome-above.json) |
