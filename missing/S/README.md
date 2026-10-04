@@ -6396,6 +6396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skies of Glory | 62446 | [62446-skies-of-glory.json](./62446-skies-of-glory.json) |
 | SkifY | 75075 | [75075-skify.json](./75075-skify.json) |
 | Skiing | 55104 | [55104-skiing.json](./55104-skiing.json) |
+| Skiing Race | 175245 | [175245-skiing-race.json](./175245-skiing-race.json) |
 | Skiing Yeti Mountain | 59463 | [59463-skiing-yeti-mountain.json](./59463-skiing-yeti-mountain.json) |
 | Skill Gap | 393662 | [393662-skill-gap.json](./393662-skill-gap.json) |
 | Skill Legends Royale | 316603 | [316603-skill-legends-royale.json](./316603-skill-legends-royale.json) |
@@ -7196,6 +7197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot Trip | 245935 | [245935-slingshot-trip.json](./245935-slingshot-trip.json) |
 | Slingshot: The Bump Challenge | 108470 | [108470-slingshot-the-bump-challenge.json](./108470-slingshot-the-bump-challenge.json) |
 | Slingstar | 80640 | [80640-slingstar.json](./80640-slingstar.json) |
+| Slingy Snow | 175168 | [175168-slingy-snow.json](./175168-slingy-snow.json) |
 | Slink & Snatch: Tales of Thievery | 220666 | [220666-slink-and-snatch-tales-of-thievery.json](./220666-slink-and-snatch-tales-of-thievery.json) |
 | Slinki | 35633 | [35633-slinki.json](./35633-slinki.json) |
 | Slip | 36357 | [36357-slip.json](./36357-slip.json) |
@@ -7218,6 +7220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slipstream | 358437 | [358437-slipstream.json](./358437-slipstream.json) |
 | Slipstream | 75096 | [75096-slipstream.json](./75096-slipstream.json) |
 | Sliptime Sleuth | 132698 | [132698-sliptime-sleuth.json](./132698-sliptime-sleuth.json) |
+| Slipuzzle | 175225 | [175225-slipuzzle.json](./175225-slipuzzle.json) |
 | Slipways | 176372 | [176372-slipways.json](./176372-slipways.json) |
 | Slit Your Wrists! | 234729 | [234729-slit-your-wrists.json](./234729-slit-your-wrists.json) |
 | Slither Realm | 388946 | [388946-slither-realm.json](./388946-slither-realm.json) |
@@ -12671,6 +12674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Mine | 142424 | [142424-star-mine.json](./142424-star-mine.json) |
 | Star Mobile | 41995 | [41995-star-mobile.json](./41995-star-mobile.json) |
 | Star Nomad | 36067 | [36067-star-nomad.json](./36067-star-nomad.json) |
+| Star Nomad Elite | 175236 | [175236-star-nomad-elite.json](./175236-star-nomad-elite.json) |
 | Star Ocean | 11209 | [11209-star-ocean.json](./11209-star-ocean.json) |
 | Star Ocean: Anamnesis | 25078 | [25078-star-ocean-anamnesis.json](./25078-star-ocean-anamnesis.json) |
 | Star Ocean: Integrity and Faithlessness | 11213 | [11213-star-ocean-integrity-and-faithlessness.json](./11213-star-ocean-integrity-and-faithlessness.json) |
@@ -14996,6 +15000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StrikeNet | 339655 | [339655-strikenet.json](./339655-strikenet.json) |
 | Striker | 237503 | [237503-striker.json](./237503-striker.json) |
 | Striker | 237504 | [237504-striker.json](./237504-striker.json) |
+| Striker Arena | 175158 | [175158-striker-arena.json](./175158-striker-arena.json) |
 | Striker of Sky | 238498 | [238498-striker-of-sky.json](./238498-striker-of-sky.json) |
 | Striker Pro | 237509 | [237509-striker-pro.json](./237509-striker-pro.json) |
 | Striker Pro 2000 | 22676 | [22676-striker-pro-2000.json](./22676-striker-pro-2000.json) |
