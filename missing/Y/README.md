@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YASG | 122326 | [122326-yasg.json](./122326-yasg.json) |
 | Yasha: Legends of the Demon Blade - Deluxe Edition | 351139 | [351139-yasha-legends-of-the-demon-blade-deluxe-edition.json](./351139-yasha-legends-of-the-demon-blade-deluxe-edition.json) |
 | Yashi - Sand Driver | 411675 | [411675-yashi-sand-driver.json](./411675-yashi-sand-driver.json) |
+| Yaso: Curse of Soirée | 182892 | [182892-yaso-curse-of-soiree.json](./182892-yaso-curse-of-soiree.json) |
 | Yasogaya Murder Cases | 238597 | [238597-yasogaya-murder-cases.json](./238597-yasogaya-murder-cases.json) |
 | Yasuda Fire & Marine: Safety Rally | 48863 | [48863-yasuda-fire-and-marine-safety-rally.json](./48863-yasuda-fire-and-marine-safety-rally.json) |
 | Yasuhati | 142349 | [142349-yasuhati.json](./142349-yasuhati.json) |
