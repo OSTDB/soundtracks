@@ -2492,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relaxing Fishing | 350509 | [350509-relaxing-fishing.json](./350509-relaxing-fishing.json) |
 | Relaxing Jigsaw | 330405 | [330405-relaxing-jigsaw.json](./330405-relaxing-jigsaw.json) |
 | Relaxing Kite | 148571 | [148571-relaxing-kite.json](./148571-relaxing-kite.json) |
+| Relaxing Lawnmower Simulator | 224611 | [224611-relaxing-lawnmower-simulator.json](./224611-relaxing-lawnmower-simulator.json) |
 | Relaxing Rain Sounds: Amayadori | 151669 | [151669-relaxing-rain-sounds-amayadori.json](./151669-relaxing-rain-sounds-amayadori.json) |
 | Relaxing Sudoku and Futushiki | 359073 | [359073-relaxing-sudoku-and-futushiki.json](./359073-relaxing-sudoku-and-futushiki.json) |
 | Relaxing Time: Enchanting France - Collector's Edition | 337245 | [337245-relaxing-time-enchanting-france-collectors-edition.json](./337245-relaxing-time-enchanting-france-collectors-edition.json) |
