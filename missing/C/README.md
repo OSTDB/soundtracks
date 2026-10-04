@@ -1845,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania SNES Port | 377219 | [377219-castlevania-snes-port.json](./377219-castlevania-snes-port.json) |
 | Castlevania: Aria of Sorrow | 1134 | [1134-castlevania-aria-of-sorrow.json](./1134-castlevania-aria-of-sorrow.json) |
 | Castlevania: Aria of Sorrow | 222412 | [222412-castlevania-aria-of-sorrow.json](./222412-castlevania-aria-of-sorrow.json) |
+| Castlevania: Aria of Sorrow - Genya Arikado Hack | 173094 | [173094-castlevania-aria-of-sorrow-genya-arikado-hack.json](./173094-castlevania-aria-of-sorrow-genya-arikado-hack.json) |
 | Castlevania: Aria of Sorrow - Magician Mode | 268721 | [268721-castlevania-aria-of-sorrow-magician-mode.json](./268721-castlevania-aria-of-sorrow-magician-mode.json) |
 | Castlevania: Aria of Sorrow - Persephone | 268722 | [268722-castlevania-aria-of-sorrow-persephone.json](./268722-castlevania-aria-of-sorrow-persephone.json) |
 | Castlevania: Aria of Sorrow - Reprise | 231091 | [231091-castlevania-aria-of-sorrow-reprise.json](./231091-castlevania-aria-of-sorrow-reprise.json) |
@@ -6652,6 +6653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commanders of the Void | 379872 | [379872-commanders-of-the-void.json](./379872-commanders-of-the-void.json) |
 | Commanders: Attack of the Genos | 20775 | [20775-commanders-attack-of-the-genos.json](./20775-commanders-attack-of-the-genos.json) |
 | CommanderTux | 320161 | [320161-commandertux.json](./320161-commandertux.json) |
+| Commanding Nations | 173035 | [173035-commanding-nations.json](./173035-commanding-nations.json) |
 | Commando | 282623 | [282623-commando.json](./282623-commando.json) |
 | Commando | 310110 | [310110-commando.json](./310110-commando.json) |
 | Commando 3 | 335477 | [335477-commando-3.json](./335477-commando-3.json) |
@@ -9425,6 +9427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown of Thorns | 235359 | [235359-crown-of-thorns.json](./235359-crown-of-thorns.json) |
 | Crown Siege | 386943 | [386943-crown-siege.json](./386943-crown-siege.json) |
 | Crown Solitaire: Card Game | 96714 | [96714-crown-solitaire-card-game.json](./96714-crown-solitaire-card-game.json) |
+| Crown Trick: Limited Edition | 173112 | [173112-crown-trick-limited-edition.json](./173112-crown-trick-limited-edition.json) |
 | Crown Wars: The Black Prince | 208416 | [208416-crown-wars-the-black-prince.json](./208416-crown-wars-the-black-prince.json) |
 | Crown Wars: The Black Prince - Brotherhood of Light Cosmetic Pack | 290124 | [290124-crown-wars-the-black-prince-brotherhood-of-light-cosmetic-pack.json](./290124-crown-wars-the-black-prince-brotherhood-of-light-cosmetic-pack.json) |
 | Crown's Trial | 402270 | [402270-crowns-trial.json](./402270-crowns-trial.json) |
@@ -10667,6 +10670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk 2077: Day One Edition | 284480 | [284480-cyberpunk-2077-day-one-edition.json](./284480-cyberpunk-2077-day-one-edition.json) |
 | Cyberpunk 2077: Edgerunners Update | 222969 | [222969-cyberpunk-2077-edgerunners-update.json](./222969-cyberpunk-2077-edgerunners-update.json) |
 | Cyberpunk 2077: Ultimate Edition | 277807 | [277807-cyberpunk-2077-ultimate-edition.json](./277807-cyberpunk-2077-ultimate-edition.json) |
+| Cyberpunk 2077: Vincent Sin Edition | 173119 | [173119-cyberpunk-2077-vincent-sin-edition.json](./173119-cyberpunk-2077-vincent-sin-edition.json) |
 | Cyberpunk 3776 | 35896 | [35896-cyberpunk-3776.json](./35896-cyberpunk-3776.json) |
 | Cyberpunk Arena | 81736 | [81736-cyberpunk-arena.json](./81736-cyberpunk-arena.json) |
 | Cyberpunk City Tycoon | 304796 | [304796-cyberpunk-city-tycoon.json](./304796-cyberpunk-city-tycoon.json) |
