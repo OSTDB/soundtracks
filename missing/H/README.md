@@ -274,13 +274,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 3 | 28029 | [28029-half-life-3.json](./28029-half-life-3.json) |
 | Half-Life Alyx NoVR | 255791 | [255791-half-life-alyx-novr.json](./255791-half-life-alyx-novr.json) |
 | Half-Life FX: Single | 323781 | [323781-half-life-fx-single.json](./323781-half-life-fx-single.json) |
+| Half-Life Randomizer | 221792 | [221792-half-life-randomizer.json](./221792-half-life-randomizer.json) |
 | Half-Life ZDoom | 255673 | [255673-half-life-zdoom.json](./255673-half-life-zdoom.json) |
 | Half-Life: 25th Anniversary Update | 277523 | [277523-half-life-25th-anniversary-update.json](./277523-half-life-25th-anniversary-update.json) |
+| Half-Life: Abeyance | 221789 | [221789-half-life-abeyance.json](./221789-half-life-abeyance.json) |
 | Half-Life: Beyond | 329025 | [329025-half-life-beyond.json](./329025-half-life-beyond.json) |
 | Half-Life: C.A.G.E.D. | 127914 | [127914-half-life-c-a-g-e-d.json](./127914-half-life-c-a-g-e-d.json) |
 | Half-Life: Chernobyl | 127954 | [127954-half-life-chernobyl.json](./127954-half-life-chernobyl.json) |
 | Half-Life: Cleaner's Adventures | 221857 | [221857-half-life-cleaners-adventures.json](./221857-half-life-cleaners-adventures.json) |
 | Half-Life: Cross Product Multiplayer | 360604 | [360604-half-life-cross-product-multiplayer.json](./360604-half-life-cross-product-multiplayer.json) |
+| Half-Life: Crowbar-Deep in the Dead | 221795 | [221795-half-life-crowbar-deep-in-the-dead.json](./221795-half-life-crowbar-deep-in-the-dead.json) |
 | Half-Life: Dark Matter | 150592 | [150592-half-life-dark-matter.json](./150592-half-life-dark-matter.json) |
 | Half-Life: E7 Black Star | 196832 | [196832-half-life-e7-black-star.json](./196832-half-life-e7-black-star.json) |
 | Half-Life: Echoes | 150226 | [150226-half-life-echoes.json](./150226-half-life-echoes.json) |
@@ -288,28 +291,37 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Escape | 221856 | [221856-half-life-escape.json](./221856-half-life-escape.json) |
 | Half-Life: Escape 2.0 | 294442 | [294442-half-life-escape-2-0.json](./294442-half-life-escape-2-0.json) |
 | Half-Life: Field Intensity | 196731 | [196731-half-life-field-intensity.json](./196731-half-life-field-intensity.json) |
+| Half-Life: Hard Duty | 221802 | [221802-half-life-hard-duty.json](./221802-half-life-hard-duty.json) |
 | Half-Life: Hazardous Course 2 | 196733 | [196733-half-life-hazardous-course-2.json](./196733-half-life-hazardous-course-2.json) |
 | Half-Life: Hostile Takeover | 252806 | [252806-half-life-hostile-takeover.json](./252806-half-life-hostile-takeover.json) |
+| Half-Life: Hour-Glass | 221794 | [221794-half-life-hour-glass.json](./221794-half-life-hour-glass.json) |
 | Half-Life: In Deep | 221858 | [221858-half-life-in-deep.json](./221858-half-life-in-deep.json) |
 | Half-Life: Intolerable Threat | 222325 | [222325-half-life-intolerable-threat.json](./222325-half-life-intolerable-threat.json) |
 | Half-Life: Invasion | 196834 | [196834-half-life-invasion.json](./196834-half-life-invasion.json) |
 | Half-Life: Life's End | 196835 | [196835-half-life-lifes-end.json](./196835-half-life-lifes-end.json) |
+| Half-Life: Loop | 221797 | [221797-half-life-loop.json](./221797-half-life-loop.json) |
 | Half-Life: Military Duty | 222314 | [222314-half-life-military-duty.json](./222314-half-life-military-duty.json) |
 | Half-Life: Mission of Mercy | 248300 | [248300-half-life-mission-of-mercy.json](./248300-half-life-mission-of-mercy.json) |
 | Half-Life: Prison | 221855 | [221855-half-life-prison.json](./221855-half-life-prison.json) |
 | Half-Life: Pulse | 248292 | [248292-half-life-pulse.json](./248292-half-life-pulse.json) |
+| Half-Life: Rally | 221805 | [221805-half-life-rally.json](./221805-half-life-rally.json) |
+| Half-Life: Recovery | 221801 | [221801-half-life-recovery.json](./221801-half-life-recovery.json) |
 | Half-Life: Reissues | 196840 | [196840-half-life-reissues.json](./196840-half-life-reissues.json) |
 | Half-Life: Residual Life | 196836 | [196836-half-life-residual-life.json](./196836-half-life-residual-life.json) |
 | Half-Life: Residual Point | 196837 | [196837-half-life-residual-point.json](./196837-half-life-residual-point.json) |
 | Half-Life: Retrograde | 350502 | [350502-half-life-retrograde.json](./350502-half-life-retrograde.json) |
+| Half-Life: Science and Industry | 221791 | [221791-half-life-science-and-industry.json](./221791-half-life-science-and-industry.json) |
 | Half-Life: Shift-Two | 247554 | [247554-half-life-shift-two.json](./247554-half-life-shift-two.json) |
+| Half-Life: Soldier | 221803 | [221803-half-life-soldier.json](./221803-half-life-soldier.json) |
 | Half-Life: Sum | 218736 | [218736-half-life-sum.json](./218736-half-life-sum.json) |
 | Half-Life: The Challenger Deep 2 | 196853 | [196853-half-life-the-challenger-deep-2.json](./196853-half-life-the-challenger-deep-2.json) |
 | Half-Life: The Core | 222322 | [222322-half-life-the-core.json](./222322-half-life-the-core.json) |
 | Half-Life: The Evasion | 222287 | [222287-half-life-the-evasion.json](./222287-half-life-the-evasion.json) |
 | Half-Life: The Infected | 196732 | [196732-half-life-the-infected.json](./196732-half-life-the-infected.json) |
 | Half-Life: Through The City | 309106 | [309106-half-life-through-the-city.json](./309106-half-life-through-the-city.json) |
+| Half-Life: Timeline 1 | 221804 | [221804-half-life-timeline-1.json](./221804-half-life-timeline-1.json) |
 | Half-Life: Uplink | 93071 | [93071-half-life-uplink.json](./93071-half-life-uplink.json) |
+| Half-Life: Uplinked | 221790 | [221790-half-life-uplinked.json](./221790-half-life-uplinked.json) |
 | Half-Life: Visitors | 221854 | [221854-half-life-visitors.json](./221854-half-life-visitors.json) |
 | Half-Life: VR Mod | 221166 | [221166-half-life-vr-mod.json](./221166-half-life-vr-mod.json) |
 | Half-Life: Xen-Warrior | 221808 | [221808-half-life-xen-warrior.json](./221808-half-life-xen-warrior.json) |
@@ -1634,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Crown Online | 217292 | [217292-heart-of-crown-online.json](./217292-heart-of-crown-online.json) |
 | Heart of Enya | 149479 | [149479-heart-of-enya.json](./149479-heart-of-enya.json) |
 | Heart of Evil | 165441 | [165441-heart-of-evil.json](./165441-heart-of-evil.json) |
+| Heart of Evil: Napalm Edition | 221654 | [221654-heart-of-evil-napalm-edition.json](./221654-heart-of-evil-napalm-edition.json) |
 | Heart Of Evil: Source | 334847 | [334847-heart-of-evil-source.json](./334847-heart-of-evil-source.json) |
 | Heart of Fantasy | 404441 | [404441-heart-of-fantasy.json](./404441-heart-of-fantasy.json) |
 | Heart of Fire | 268729 | [268729-heart-of-fire.json](./268729-heart-of-fire.json) |
