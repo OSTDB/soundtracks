@@ -7807,6 +7807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos | 76611 | [76611-cosmos.json](./76611-cosmos.json) |
 | Cosmos Bit | 182231 | [182231-cosmos-bit.json](./182231-cosmos-bit.json) |
 | Cosmos Club | 270747 | [270747-cosmos-club.json](./270747-cosmos-club.json) |
+| Cosmos Conquer | 188451 | [188451-cosmos-conquer.json](./188451-cosmos-conquer.json) |
 | Cosmos Cop | 48314 | [48314-cosmos-cop.json](./48314-cosmos-cop.json) |
 | Cosmos Crash VR | 31761 | [31761-cosmos-crash-vr.json](./31761-cosmos-crash-vr.json) |
 | Cosmos Defenders | 85553 | [85553-cosmos-defenders.json](./85553-cosmos-defenders.json) |
@@ -10682,6 +10683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyco | 204958 | [204958-cyco.json](./204958-cyco.json) |
 | Cydonia | 256838 | [256838-cydonia.json](./256838-cydonia.json) |
 | Cygnus IV | 263597 | [263597-cygnus-iv.json](./263597-cygnus-iv.json) |
+| Cygnus Racing League | 188462 | [188462-cygnus-racing-league.json](./188462-cygnus-racing-league.json) |
 | Cylinder: Puzzles Returned | 63898 | [63898-cylinder-puzzles-returned.json](./63898-cylinder-puzzles-returned.json) |
 | Cylindrix | 73318 | [73318-cylindrix.json](./73318-cylindrix.json) |
 | Cylon Attack | 261992 | [261992-cylon-attack.json](./261992-cylon-attack.json) |
