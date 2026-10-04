@@ -1582,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO City Fire Hose Frenzy | 61624 | [61624-lego-city-fire-hose-frenzy.json](./61624-lego-city-fire-hose-frenzy.json) |
 | LEGO City Spotlight Robbery | 61623 | [61623-lego-city-spotlight-robbery.json](./61623-lego-city-spotlight-robbery.json) |
 | LEGO City Undercover | 343450 | [343450-lego-city-undercover.json](./343450-lego-city-undercover.json) |
+| LEGO City: My City 2 | 193832 | [193832-lego-city-my-city-2.json](./193832-lego-city-my-city-2.json) |
 | LEGO Creator: Harry Potter | 66631 | [66631-lego-creator-harry-potter.json](./66631-lego-creator-harry-potter.json) |
 | LEGO DC Super-Villains: Aquaman Bundle Pack | 214483 | [214483-lego-dc-super-villains-aquaman-bundle-pack.json](./214483-lego-dc-super-villains-aquaman-bundle-pack.json) |
 | LEGO DC Super-Villains: Aquaman Movie Level Pack 1 | 207224 | [207224-lego-dc-super-villains-aquaman-movie-level-pack-1.json](./207224-lego-dc-super-villains-aquaman-movie-level-pack-1.json) |
