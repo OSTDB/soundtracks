@@ -2942,6 +2942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delirium | 320553 | [320553-delirium.json](./320553-delirium.json) |
 | Delirium: Bad Trip Edition | 86570 | [86570-delirium-bad-trip-edition.json](./86570-delirium-bad-trip-edition.json) |
 | Delirium: Echoes of the Domino | 360654 | [360654-delirium-echoes-of-the-domino.json](./360654-delirium-echoes-of-the-domino.json) |
+| Delisoba Deluxe | 213864 | [213864-delisoba-deluxe.json](./213864-delisoba-deluxe.json) |
 | DeliSpace | 291441 | [291441-delispace.json](./291441-delispace.json) |
 | Deliver This! | 365152 | [365152-deliver-this.json](./365152-deliver-this.json) |
 | Deliver Together | 406324 | [406324-deliver-together.json](./406324-deliver-together.json) |
@@ -3281,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Denev | 108465 | [108465-denev.json](./108465-denev.json) |
 | Dengeki Bunko: Fighting Climax | 11448 | [11448-dengeki-bunko-fighting-climax.json](./11448-dengeki-bunko-fighting-climax.json) |
 | Dengeki Bunko: Fighting Climax Ignition - Mobile Version | 52139 | [52139-dengeki-bunko-fighting-climax-ignition-mobile-version.json](./52139-dengeki-bunko-fighting-climax-ignition-mobile-version.json) |
+| Dengeki no Pilot: Tenkuu no Kizuna | 213835 | [213835-dengeki-no-pilot-tenkuu-no-kizuna.json](./213835-dengeki-no-pilot-tenkuu-no-kizuna.json) |
 | Dengeki Nurse | 412440 | [412440-dengeki-nurse.json](./412440-dengeki-nurse.json) |
 | Dengeki Nurse | 67241 | [67241-dengeki-nurse.json](./67241-dengeki-nurse.json) |
 | Dengeki Nurse 2: More Sexy | 67233 | [67233-dengeki-nurse-2-more-sexy.json](./67233-dengeki-nurse-2-more-sexy.json) |
@@ -4181,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Lady | 81359 | [81359-diamond-lady.json](./81359-diamond-lady.json) |
 | Diamond love | 111496 | [111496-diamond-love.json](./111496-diamond-love.json) |
 | Diamond Mind Baseball 8.0 | 94249 | [94249-diamond-mind-baseball-8-0.json](./94249-diamond-mind-baseball-8-0.json) |
+| Diamond no Kuni no Alice: Wonderful Mirror World | 213845 | [213845-diamond-no-kuni-no-alice-wonderful-mirror-world.json](./213845-diamond-no-kuni-no-alice-wonderful-mirror-world.json) |
 | Diamond Painting | 365872 | [365872-diamond-painting.json](./365872-diamond-painting.json) |
 | Diamond Painting ASMR: Complete Edition | 313213 | [313213-diamond-painting-asmr-complete-edition.json](./313213-diamond-painting-asmr-complete-edition.json) |
 | Diamond Painting ASMR: Cool & Festive | 309075 | [309075-diamond-painting-asmr-cool-and-festive.json](./309075-diamond-painting-asmr-cool-and-festive.json) |
