@@ -4650,6 +4650,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robocco Wars | 72649 | [72649-robocco-wars.json](./72649-robocco-wars.json) |
 | RoboCo | 121739 | [121739-roboco.json](./121739-roboco.json) |
 | RoboCock | 274454 | [274454-robocock.json](./274454-robocock.json) |
+| RoboCop | 198282 | [198282-robocop.json](./198282-robocop.json) |
+| RoboCop | 198283 | [198283-robocop.json](./198283-robocop.json) |
+| RoboCop | 198284 | [198284-robocop.json](./198284-robocop.json) |
+| RoboCop | 198285 | [198285-robocop.json](./198285-robocop.json) |
+| RoboCop | 198286 | [198286-robocop.json](./198286-robocop.json) |
+| RoboCop | 198287 | [198287-robocop.json](./198287-robocop.json) |
+| RoboCop | 198288 | [198288-robocop.json](./198288-robocop.json) |
 | RoboCop | 198876 | [198876-robocop.json](./198876-robocop.json) |
 | RoboCop | 218942 | [218942-robocop.json](./218942-robocop.json) |
 | RoboCop | 242810 | [242810-robocop.json](./242810-robocop.json) |
@@ -4973,6 +4980,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 19 Elite Pack | 366843 | [366843-rocket-league-season-19-elite-pack.json](./366843-rocket-league-season-19-elite-pack.json) |
 | Rocket League: Season 19 Rookie Pack | 366844 | [366844-rocket-league-season-19-rookie-pack.json](./366844-rocket-league-season-19-rookie-pack.json) |
 | Rocket League: Season 23 | 407432 | [407432-rocket-league-season-23.json](./407432-rocket-league-season-23.json) |
+| Rocket League: Season 5 | 198278 | [198278-rocket-league-season-5.json](./198278-rocket-league-season-5.json) |
+| Rocket League: Season 6 | 198279 | [198279-rocket-league-season-6.json](./198279-rocket-league-season-6.json) |
 | Rocket League: Season 7 | 204462 | [204462-rocket-league-season-7.json](./204462-rocket-league-season-7.json) |
 | Rocket League: Season 8 | 216200 | [216200-rocket-league-season-8.json](./216200-rocket-league-season-8.json) |
 | Rocket League: Season 9 | 228509 | [228509-rocket-league-season-9.json](./228509-rocket-league-season-9.json) |
@@ -5619,6 +5628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romantasia | 118282 | [118282-romantasia.json](./118282-romantasia.json) |
 | Romantic Emperor | 404858 | [404858-romantic-emperor.json](./404858-romantic-emperor.json) |
 | Romantic Escapades | 297207 | [297207-romantic-escapades.json](./297207-romantic-escapades.json) |
+| Romantic Holic | 198327 | [198327-romantic-holic.json](./198327-romantic-holic.json) |
 | Romantic Journey | 110979 | [110979-romantic-journey.json](./110979-romantic-journey.json) |
 | Romantic Rainbow Delights | 184064 | [184064-romantic-rainbow-delights.json](./184064-romantic-rainbow-delights.json) |
 | Romantic Shooter | 242526 | [242526-romantic-shooter.json](./242526-romantic-shooter.json) |
