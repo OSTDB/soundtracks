@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egnima | 349320 | [349320-egnima.json](./349320-egnima.json) |
 | Ego Effect | 174842 | [174842-ego-effect.json](./174842-ego-effect.json) |
 | Ego Holic | 225297 | [225297-ego-holic.json](./225297-ego-holic.json) |
+| Ego Joe the Idiot Mall Cop | 181199 | [181199-ego-joe-the-idiot-mall-cop.json](./181199-ego-joe-the-idiot-mall-cop.json) |
 | Ego League | 373768 | [373768-ego-league.json](./373768-ego-league.json) |
 | Egoboo | 47298 | [47298-egoboo.json](./47298-egoboo.json) |
 | Egregore | 139230 | [139230-egregore.json](./139230-egregore.json) |
@@ -2332,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epigenesis | 16576 | [16576-epigenesis.json](./16576-epigenesis.json) |
 | Epigraph | 287857 | [287857-epigraph.json](./287857-epigraph.json) |
 | Epimutation | 338835 | [338835-epimutation.json](./338835-epimutation.json) |
+| Epiphany | 181201 | [181201-epiphany.json](./181201-epiphany.json) |
 | Epiphany in Spaaace! | 66356 | [66356-epiphany-in-spaaace.json](./66356-epiphany-in-spaaace.json) |
 | Episode | 369114 | [369114-episode.json](./369114-episode.json) |
 | Episode 2: The 4 Seasons of Quake #2 | 309583 | [309583-episode-2-the-4-seasons-of-quake-2.json](./309583-episode-2-the-4-seasons-of-quake-2.json) |
