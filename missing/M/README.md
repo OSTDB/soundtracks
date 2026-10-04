@@ -6347,6 +6347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Bombers | 14449 | [14449-mine-bombers.json](./14449-mine-bombers.json) |
 | Mine Boss Simulator | 212892 | [212892-mine-boss-simulator.json](./212892-mine-boss-simulator.json) |
 | Mine Breaker Simulator 2026 | 386372 | [386372-mine-breaker-simulator-2026.json](./386372-mine-breaker-simulator-2026.json) |
+| Mine Cards | 182866 | [182866-mine-cards.json](./182866-mine-cards.json) |
 | Mine Click | 358288 | [358288-mine-click.json](./358288-mine-click.json) |
 | Mine Crazy: The Korean Grinder | 158678 | [158678-mine-crazy-the-korean-grinder.json](./158678-mine-crazy-the-korean-grinder.json) |
 | Mine Defense | 412313 | [412313-mine-defense.json](./412313-mine-defense.json) |
@@ -7017,6 +7018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Mysteries 2: Forgotten Kingdoms | 36333 | [36333-mirror-mysteries-2-forgotten-kingdoms.json](./36333-mirror-mysteries-2-forgotten-kingdoms.json) |
 | Mirror Quest Dog and Cat | 368566 | [368566-mirror-quest-dog-and-cat.json](./368566-mirror-quest-dog-and-cat.json) |
 | Mirror Shoot | 193478 | [193478-mirror-shoot.json](./193478-mirror-shoot.json) |
+| Mirror VR | 182887 | [182887-mirror-vr.json](./182887-mirror-vr.json) |
 | Mirror War: Reincarnation of Holiness | 215605 | [215605-mirror-war-reincarnation-of-holiness.json](./215605-mirror-war-reincarnation-of-holiness.json) |
 | Mirror World | 296985 | [296985-mirror-world.json](./296985-mirror-world.json) |
 | Mirror's Edge 2D | 77347 | [77347-mirrors-edge-2d.json](./77347-mirrors-edge-2d.json) |
@@ -10178,6 +10180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museum of Immersive Art | 341345 | [341345-museum-of-immersive-art.json](./341345-museum-of-immersive-art.json) |
 | Museum of Mechanics: Lockpicking | 139214 | [139214-museum-of-mechanics-lockpicking.json](./139214-museum-of-mechanics-lockpicking.json) |
 | Museum of Other Realities | 118168 | [118168-museum-of-other-realities.json](./118168-museum-of-other-realities.json) |
+| Museum of Parallel Art | 182871 | [182871-museum-of-parallel-art.json](./182871-museum-of-parallel-art.json) |
 | Museum of Symmetry | 104076 | [104076-museum-of-symmetry.json](./104076-museum-of-symmetry.json) |
 | Museums of History | 339921 | [339921-museums-of-history.json](./339921-museums-of-history.json) |
 | Musgro Farm | 303098 | [303098-musgro-farm.json](./303098-musgro-farm.json) |
@@ -10287,6 +10290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Must Be Feng Shui | 380659 | [380659-must-be-feng-shui.json](./380659-must-be-feng-shui.json) |
 | Must Deliver | 60241 | [60241-must-deliver.json](./60241-must-deliver.json) |
 | Must Flee | 223434 | [223434-must-flee.json](./223434-must-flee.json) |
+| Must Love Jaws | 182883 | [182883-must-love-jaws.json](./182883-must-love-jaws.json) |
 | Muster my Monsters | 259074 | [259074-muster-my-monsters.json](./259074-muster-my-monsters.json) |
 | Musuko to Oyome-sama: Wakeari Tsuma ha Jirai-kei Doronuma Story | 240229 | [240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json](./240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json) |
 | Musya: The Classic Japanese Tale of Horror | 36740 | [36740-musya-the-classic-japanese-tale-of-horror.json](./36740-musya-the-classic-japanese-tale-of-horror.json) |
