@@ -911,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vestaria Saga II: The Sacred Sword of Silvanister | 186886 | [186886-vestaria-saga-ii-the-sacred-sword-of-silvanister.json](./186886-vestaria-saga-ii-the-sacred-sword-of-silvanister.json) |
 | Vestenelon | 332625 | [332625-vestenelon.json](./332625-vestenelon.json) |
 | Vestige | 186753 | [186753-vestige.json](./186753-vestige.json) |
+| Vestige | 187882 | [187882-vestige.json](./187882-vestige.json) |
 | Vestige | 392262 | [392262-vestige.json](./392262-vestige.json) |
 | Vestige Memoria | 219519 | [219519-vestige-memoria.json](./219519-vestige-memoria.json) |
 | Vestiges: Fallen Tribes | 273566 | [273566-vestiges-fallen-tribes.json](./273566-vestiges-fallen-tribes.json) |
