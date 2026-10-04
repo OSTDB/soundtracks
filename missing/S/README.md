@@ -2657,6 +2657,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seigimatsu II: Special Attack Devil | 47535 | [47535-seigimatsu-ii-special-attack-devil.json](./47535-seigimatsu-ii-special-attack-devil.json) |
 | Seijundrop | 252176 | [252176-seijundrop.json](./252176-seijundrop.json) |
 | Seikai Kishi Lynn Knight: Chikyuu wa Mamorete mo Kimo Otoko no Inshitsu Tanezuke Seme ni wa Katenakatta yo… | 59028 | [59028-seikai-kishi-lynn-knight-chikyuu-wa-mamorete-mo-kimo-otoko-no-inshitsu-tanezuke-seme-ni-wa-katenakatta-yo.json](./59028-seikai-kishi-lynn-knight-chikyuu-wa-mamorete-mo-kimo-otoko-no-inshitsu-tanezuke-seme-ni-wa-katenakatta-yo.json) |
+| Seikai no Monshou | 214550 | [214550-seikai-no-monshou.json](./214550-seikai-no-monshou.json) |
+| Seikai no Senki | 214549 | [214549-seikai-no-senki.json](./214549-seikai-no-senki.json) |
 | Seiken Densetsu | 297610 | [297610-seiken-densetsu.json](./297610-seiken-densetsu.json) |
 | Seiken Densetsu: Final Fantasy Gaiden | 306594 | [306594-seiken-densetsu-final-fantasy-gaiden.json](./306594-seiken-densetsu-final-fantasy-gaiden.json) |
 | Seiki: Ryoujoku no Kamen | 66052 | [66052-seiki-ryoujoku-no-kamen.json](./66052-seiki-ryoujoku-no-kamen.json) |
@@ -6833,6 +6835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendrina X | 233773 | [233773-slendrina-x.json](./233773-slendrina-x.json) |
 | Slendrina's Freakish Friends and Family Night | 282801 | [282801-slendrinas-freakish-friends-and-family-night.json](./282801-slendrinas-freakish-friends-and-family-night.json) |
 | Slendyjan | 393760 | [393760-slendyjan.json](./393760-slendyjan.json) |
+| Slendytubbies II | 214423 | [214423-slendytubbies-ii.json](./214423-slendytubbies-ii.json) |
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
 | Sleuth | 94909 | [94909-sleuth.json](./94909-sleuth.json) |
 | SLG Remix | 33428 | [33428-slg-remix.json](./33428-slg-remix.json) |
@@ -8924,6 +8927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Frontiers | 150010 | [150010-sonic-frontiers.json](./150010-sonic-frontiers.json) |
 | Sonic Frontiers 2D | 336348 | [336348-sonic-frontiers-2d.json](./336348-sonic-frontiers-2d.json) |
 | Sonic Frontiers x Monster Hunter Pack | 255233 | [255233-sonic-frontiers-x-monster-hunter-pack.json](./255233-sonic-frontiers-x-monster-hunter-pack.json) |
+| Sonic Frontiers: Digital Deluxe Edition | 214559 | [214559-sonic-frontiers-digital-deluxe-edition.json](./214559-sonic-frontiers-digital-deluxe-edition.json) |
 | Sonic Frontiers: Holiday Cheer Suit | 352840 | [352840-sonic-frontiers-holiday-cheer-suit.json](./352840-sonic-frontiers-holiday-cheer-suit.json) |
 | Sonic Frontiers: Sonic’s Birthday Bash | 254487 | [254487-sonic-frontiers-sonic-s-birthday-bash.json](./254487-sonic-frontiers-sonic-s-birthday-bash.json) |
 | Sonic Fusion | 326819 | [326819-sonic-fusion.json](./326819-sonic-fusion.json) |
@@ -15746,6 +15750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bomberman R Online: Premium Pack | 150653 | [150653-super-bomberman-r-online-premium-pack.json](./150653-super-bomberman-r-online-premium-pack.json) |
 | Super Bomberman: Panic Bomber W | 42546 | [42546-super-bomberman-panic-bomber-w.json](./42546-super-bomberman-panic-bomber-w.json) |
 | Super BOO Quest | 110180 | [110180-super-boo-quest.json](./110180-super-boo-quest.json) |
+| Super Boss Collection | 214420 | [214420-super-boss-collection.json](./214420-super-boss-collection.json) |
 | Super Boss Gaiden | 20333 | [20333-super-boss-gaiden.json](./20333-super-boss-gaiden.json) |
 | Super Botte & Bamba II Turbo | 234034 | [234034-super-botte-and-bamba-ii-turbo.json](./234034-super-botte-and-bamba-ii-turbo.json) |
 | Super Bowl Trivia Challenge | 88832 | [88832-super-bowl-trivia-challenge.json](./88832-super-bowl-trivia-challenge.json) |
@@ -18023,6 +18028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Desire | 147380 | [147380-sweet-desire.json](./147380-sweet-desire.json) |
 | Sweet Dream | 172106 | [172106-sweet-dream.json](./172106-sweet-dream.json) |
 | Sweet Dream | 229597 | [229597-sweet-dream.json](./229597-sweet-dream.json) |
+| Sweet Dream Succubus: Nightmare Edition | 214407 | [214407-sweet-dream-succubus-nightmare-edition.json](./214407-sweet-dream-succubus-nightmare-edition.json) |
 | Sweet Dreams Alex | 157545 | [157545-sweet-dreams-alex.json](./157545-sweet-dreams-alex.json) |
 | Sweet Dreams Alex: Full Moon Edition | 273931 | [273931-sweet-dreams-alex-full-moon-edition.json](./273931-sweet-dreams-alex-full-moon-edition.json) |
 | Sweet Dreams Bear | 181151 | [181151-sweet-dreams-bear.json](./181151-sweet-dreams-bear.json) |
