@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1912 Titanic w/ Neptunia | 205802 | [205802-1912-titanic-w-neptunia.json](./205802-1912-titanic-w-neptunia.json) |
 | 1917: The Alien Invasion | 19749 | [19749-1917-the-alien-invasion.json](./19749-1917-the-alien-invasion.json) |
 | 1917: The Alien Invasion DX Remastered | 332592 | [332592-1917-the-alien-invasion-dx-remastered.json](./332592-1917-the-alien-invasion-dx-remastered.json) |
+| 1919 | 189015 | [189015-1919.json](./189015-1919.json) |
 | 1931: Scheherazade at the Library of Pergamum | 36136 | [36136-1931-scheherazade-at-the-library-of-pergamum.json](./36136-1931-scheherazade-at-the-library-of-pergamum.json) |
 | 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
 | 1941: Operation Barbarossa | 235717 | [235717-1941-operation-barbarossa.json](./235717-1941-operation-barbarossa.json) |
@@ -1410,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Days to Die: The Desert Armor Set | 353298 | [353298-7-days-to-die-the-desert-armor-set.json](./353298-7-days-to-die-the-desert-armor-set.json) |
 | 7 Days to Die: The Marauder Armor Set | 353299 | [353299-7-days-to-die-the-marauder-armor-set.json](./353299-7-days-to-die-the-marauder-armor-set.json) |
 | 7 Days to End with You | 189888 | [189888-7-days-to-end-with-you.json](./189888-7-days-to-end-with-you.json) |
+| 7 Days to Save the World | 189016 | [189016-7-days-to-save-the-world.json](./189016-7-days-to-save-the-world.json) |
 | 7 Girls War | 160238 | [160238-7-girls-war.json](./160238-7-girls-war.json) |
 | 7 Grand Steps: What Ancients Begat | 16537 | [16537-7-grand-steps-what-ancients-begat.json](./16537-7-grand-steps-what-ancients-begat.json) |
 | 7 Gunfighters | 345137 | [345137-7-gunfighters.json](./345137-7-gunfighters.json) |
