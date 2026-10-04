@@ -6126,6 +6126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt | 147908 | [147908-hunt.json](./147908-hunt.json) |
 | Hunt | 95447 | [95447-hunt.json](./95447-hunt.json) |
 | Hunt 'n Sneak | 111193 | [111193-hunt-n-sneak.json](./111193-hunt-n-sneak.json) |
+| Hunt & Seek | 224042 | [224042-hunt-and-seek.json](./224042-hunt-and-seek.json) |
 | Hunt and Fight | 291223 | [291223-hunt-and-fight.json](./291223-hunt-and-fight.json) |
 | Hunt and Snare | 111269 | [111269-hunt-and-snare.json](./111269-hunt-and-snare.json) |
 | Hunt Arena: Fire Battle Royale | 260710 | [260710-hunt-arena-fire-battle-royale.json](./260710-hunt-arena-fire-battle-royale.json) |
