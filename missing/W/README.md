@@ -2474,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Album: Memories Like Falling Snow | 79870 | [79870-white-album-memories-like-falling-snow.json](./79870-white-album-memories-like-falling-snow.json) |
 | White Blade | 252229 | [252229-white-blade.json](./252229-white-blade.json) |
 | White Camellia | 398510 | [398510-white-camellia.json](./398510-white-camellia.json) |
+| White Carve | 182897 | [182897-white-carve.json](./182897-white-carve.json) |
 | White Cat Stories | 346230 | [346230-white-cat-stories.json](./346230-white-cat-stories.json) |
 | White Cat Town Mystery | 287704 | [287704-white-cat-town-mystery.json](./287704-white-cat-town-mystery.json) |
 | White Chamber | 247598 | [247598-white-chamber.json](./247598-white-chamber.json) |
@@ -4643,6 +4644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldShift | 21581 | [21581-worldshift.json](./21581-worldshift.json) |
 | WorldsKeeper | 216822 | [216822-worldskeeper.json](./216822-worldskeeper.json) |
 | Worldsmith | 209441 | [209441-worldsmith.json](./209441-worldsmith.json) |
+| Worldwide Arts Society | 182865 | [182865-worldwide-arts-society.json](./182865-worldwide-arts-society.json) |
 | Worldwide Battle Royale | 256907 | [256907-worldwide-battle-royale.json](./256907-worldwide-battle-royale.json) |
 | Worldwide Soccer | 259651 | [259651-worldwide-soccer.json](./259651-worldwide-soccer.json) |
 | Worldwide Soccer: Sega International Victory Goal Edition | 19755 | [19755-worldwide-soccer-sega-international-victory-goal-edition.json](./19755-worldwide-soccer-sega-international-victory-goal-edition.json) |
