@@ -2937,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Springs | 223363 | [223363-phoenix-springs.json](./223363-phoenix-springs.json) |
 | Phoenix Strike | 129743 | [129743-phoenix-strike.json](./129743-phoenix-strike.json) |
 | Phoenix Sword: The Hidden Scroll | 355195 | [355195-phoenix-sword-the-hidden-scroll.json](./355195-phoenix-sword-the-hidden-scroll.json) |
+| Phoenix Wright Ace Attorney: What, When, Where They Saw the Murder | 224449 | [224449-phoenix-wright-ace-attorney-what-when-where-they-saw-the-murder.json](./224449-phoenix-wright-ace-attorney-what-when-where-they-saw-the-murder.json) |
 | Phoenix Wright: Ace Attornauts | 310003 | [310003-phoenix-wright-ace-attornauts.json](./310003-phoenix-wright-ace-attornauts.json) |
 | Phoenix Wright: Ace Attorney | 221281 | [221281-phoenix-wright-ace-attorney.json](./221281-phoenix-wright-ace-attorney.json) |
 | Phoenix Wright: Ace Attorney | 221282 | [221282-phoenix-wright-ace-attorney.json](./221282-phoenix-wright-ace-attorney.json) |
@@ -8865,6 +8866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppet Fever | 72321 | [72321-puppet-fever.json](./72321-puppet-fever.json) |
 | Puppet Kings | 82853 | [82853-puppet-kings.json](./82853-puppet-kings.json) |
 | Puppet Master RPG | 94786 | [94786-puppet-master-rpg.json](./94786-puppet-master-rpg.json) |
+| Puppet Master: The Game | 224610 | [224610-puppet-master-the-game.json](./224610-puppet-master-the-game.json) |
 | Puppet Master: The Game - Curse of the Puppet Master Skin Pack | 255241 | [255241-puppet-master-the-game-curse-of-the-puppet-master-skin-pack.json](./255241-puppet-master-the-game-curse-of-the-puppet-master-skin-pack.json) |
 | Puppet Master: The Game - Dark Horse Skins | 310023 | [310023-puppet-master-the-game-dark-horse-skins.json](./310023-puppet-master-the-game-dark-horse-skins.json) |
 | Puppet Master: The Game - Movie Edition Blade + Execution | 278400 | [278400-puppet-master-the-game-movie-edition-blade-execution.json](./278400-puppet-master-the-game-movie-edition-blade-execution.json) |
