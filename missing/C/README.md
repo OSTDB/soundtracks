@@ -1609,9 +1609,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casio Handheld Games CG-5X emulator for ZX Spectrum | 279735 | [279735-casio-handheld-games-cg-5x-emulator-for-zx-spectrum.json](./279735-casio-handheld-games-cg-5x-emulator-for-zx-spectrum.json) |
 | Casketball Queen | 311684 | [311684-casketball-queen.json](./311684-casketball-queen.json) |
 | Casos Extravagantes Poco Complicados | 151531 | [151531-casos-extravagantes-poco-complicados.json](./151531-casos-extravagantes-poco-complicados.json) |
+| Casper | 215181 | [215181-casper.json](./215181-casper.json) |
+| Casper | 215182 | [215182-casper.json](./215182-casper.json) |
+| Casper | 215184 | [215184-casper.json](./215184-casper.json) |
+| Casper | 215185 | [215185-casper.json](./215185-casper.json) |
 | Casper and the Ghostly Trio | 83232 | [83232-casper-and-the-ghostly-trio.json](./83232-casper-and-the-ghostly-trio.json) |
 | Casper Brainy Book | 125318 | [125318-casper-brainy-book.json](./125318-casper-brainy-book.json) |
 | Casper: Friends Around the World | 44956 | [44956-casper-friends-around-the-world.json](./44956-casper-friends-around-the-world.json) |
+| Casper: The Interactive Adventure | 215183 | [215183-casper-the-interactive-adventure.json](./215183-casper-the-interactive-adventure.json) |
 | Caspers | 337837 | [337837-caspers.json](./337837-caspers.json) |
 | Cassandra's Fabulous Foray | 67931 | [67931-cassandras-fabulous-foray.json](./67931-cassandras-fabulous-foray.json) |
 | Cassette 50 | 93344 | [93344-cassette-50.json](./93344-cassette-50.json) |
@@ -2497,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CD Battle: Hikari no Yuushi-tachi | 267948 | [267948-cd-battle-hikari-no-yuushi-tachi.json](./267948-cd-battle-hikari-no-yuushi-tachi.json) |
 | CD-i Donkey Kong Game | 231479 | [231479-cd-i-donkey-kong-game.json](./231479-cd-i-donkey-kong-game.json) |
 | CD-i Golgo 13 | 218002 | [218002-cd-i-golgo-13.json](./218002-cd-i-golgo-13.json) |
+| CD-Man | 215186 | [215186-cd-man.json](./215186-cd-man.json) |
 | CD-Run | 127226 | [127226-cd-run.json](./127226-cd-run.json) |
 | CDF Ghostship | 16844 | [16844-cdf-ghostship.json](./16844-cdf-ghostship.json) |
 | CDL for a UFO | 386115 | [386115-cdl-for-a-ufo.json](./386115-cdl-for-a-ufo.json) |
@@ -7310,6 +7316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coolson’s Chocolate Alphabet | 266835 | [266835-coolson-s-chocolate-alphabet.json](./266835-coolson-s-chocolate-alphabet.json) |
 | Coolson's Pocket Pack | 41515 | [41515-coolsons-pocket-pack.json](./41515-coolsons-pocket-pack.json) |
 | Cooly Skunk | 132647 | [132647-cooly-skunk.json](./132647-cooly-skunk.json) |
+| Coonwood | 215010 | [215010-coonwood.json](./215010-coonwood.json) |
 | Coop Catacombs | 293895 | [293895-coop-catacombs.json](./293895-coop-catacombs.json) |
 | Coop Tank War | 111008 | [111008-coop-tank-war.json](./111008-coop-tank-war.json) |
 | Coop TD | 339385 | [339385-coop-td.json](./339385-coop-td.json) |
@@ -7398,6 +7405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core-Blast | 242605 | [242605-core-blast.json](./242605-core-blast.json) |
 | Core: Licht | 204969 | [204969-core-licht.json](./204969-core-licht.json) |
 | Core.Sys | 351094 | [351094-core-sys.json](./351094-core-sys.json) |
+| Coreborn | 215168 | [215168-coreborn.json](./215168-coreborn.json) |
 | Corecraft | 307107 | [307107-corecraft.json](./307107-corecraft.json) |
 | Coregrounds | 11344 | [11344-coregrounds.json](./11344-coregrounds.json) |
 | Corelith | 406237 | [406237-corelith.json](./406237-corelith.json) |
@@ -8567,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrazyHousePlanes | 99607 | [99607-crazyhouseplanes.json](./99607-crazyhouseplanes.json) |
 | CrazyKart | 117720 | [117720-crazykart.json](./117720-crazykart.json) |
 | Crazyracing Kartrider | 91272 | [91272-crazyracing-kartrider.json](./91272-crazyracing-kartrider.json) |
+| CrazySonic | 214998 | [214998-crazysonic.json](./214998-crazysonic.json) |
 | CrazyTaiji | 390797 | [390797-crazytaiji.json](./390797-crazytaiji.json) |
 | CrazyTV | 261225 | [261225-crazytv.json](./261225-crazytv.json) |
 | Crazzers | 89957 | [89957-crazzers.json](./89957-crazzers.json) |
@@ -9789,6 +9798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubium Dreams | 33381 | [33381-cubium-dreams.json](./33381-cubium-dreams.json) |
 | Cubix Classic | 67981 | [67981-cubix-classic.json](./67981-cubix-classic.json) |
 | Cubix Robots for Everyone: Showdown | 242806 | [242806-cubix-robots-for-everyone-showdown.json](./242806-cubix-robots-for-everyone-showdown.json) |
+| Cubix Worlds | 215002 | [215002-cubix-worlds.json](./215002-cubix-worlds.json) |
 | Cubix: Robots For Everyone - Race 'N Robots | 49897 | [49897-cubix-robots-for-everyone-race-n-robots.json](./49897-cubix-robots-for-everyone-race-n-robots.json) |
 | Cubixx HD | 20632 | [20632-cubixx-hd.json](./20632-cubixx-hd.json) |
 | Cubiya | 164881 | [164881-cubiya.json](./164881-cubiya.json) |
