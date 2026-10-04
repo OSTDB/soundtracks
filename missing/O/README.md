@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old School RuneScape | 79824 | [79824-old-school-runescape.json](./79824-old-school-runescape.json) |
 | Old School Vibes Bundle | 331482 | [331482-old-school-vibes-bundle.json](./331482-old-school-vibes-bundle.json) |
 | Old Shadow | 232438 | [232438-old-shadow.json](./232438-old-shadow.json) |
+| Old Site | 218535 | [218535-old-site.json](./218535-old-site.json) |
 | Old Skool Classics | 93569 | [93569-old-skool-classics.json](./93569-old-skool-classics.json) |
 | Old Skool Racer | 156609 | [156609-old-skool-racer.json](./156609-old-skool-racer.json) |
 | Old Still Life | 262552 | [262552-old-still-life.json](./262552-old-still-life.json) |
