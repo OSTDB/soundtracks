@@ -5776,6 +5776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimuLadron | 381630 | [381630-simuladron.json](./381630-simuladron.json) |
 | Simulakros | 265619 | [265619-simulakros.json](./265619-simulakros.json) |
 | Simulassword | 226440 | [226440-simulassword.json](./226440-simulassword.json) |
+| Simulation 101 | 209368 | [209368-simulation-101.json](./209368-simulation-101.json) |
 | Simulation 9 | 408733 | [408733-simulation-9.json](./408733-simulation-9.json) |
 | Simulation Pro Yakyuu | 38301 | [38301-simulation-pro-yakyuu.json](./38301-simulation-pro-yakyuu.json) |
 | Simulation RPG Tsukuuru | 209973 | [209973-simulation-rpg-tsukuuru.json](./209973-simulation-rpg-tsukuuru.json) |
@@ -13726,6 +13727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steve Davis World Snooker | 12928 | [12928-steve-davis-world-snooker.json](./12928-steve-davis-world-snooker.json) |
 | Steve Magal: Fists of Brutal Truth | 341888 | [341888-steve-magal-fists-of-brutal-truth.json](./341888-steve-magal-fists-of-brutal-truth.json) |
 | Steve Reich’s Clapping Music | 312322 | [312322-steve-reich-s-clapping-music.json](./312322-steve-reich-s-clapping-music.json) |
+| Steve RPG | 209380 | [209380-steve-rpg.json](./209380-steve-rpg.json) |
 | Steve: Operation Nuts | 295010 | [295010-steve-operation-nuts.json](./295010-steve-operation-nuts.json) |
 | Steve's HardCore WorldTour | 153973 | [153973-steves-hardcore-worldtour.json](./153973-steves-hardcore-worldtour.json) |
 | Steve's Pub - Soda on tap | 76215 | [76215-steves-pub-soda-on-tap.json](./76215-steves-pub-soda-on-tap.json) |
