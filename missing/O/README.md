@@ -1771,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenBVE | 51272 | [51272-openbve.json](./51272-openbve.json) |
 | OpenCity | 142948 | [142948-opencity.json](./142948-opencity.json) |
 | OpenFront | 333095 | [333095-openfront.json](./333095-openfront.json) |
+| OpenGoal: Jak and Daxter - The Precursor Legacy | 206008 | [206008-opengoal-jak-and-daxter-the-precursor-legacy.json](./206008-opengoal-jak-and-daxter-the-precursor-legacy.json) |
 | OpenGoal: Jak II | 275306 | [275306-opengoal-jak-ii.json](./275306-opengoal-jak-ii.json) |
 | OpenGuessr | 314022 | [314022-openguessr.json](./314022-openguessr.json) |
 | OpenHV | 184413 | [184413-openhv.json](./184413-openhv.json) |
