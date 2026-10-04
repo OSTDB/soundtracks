@@ -4203,6 +4203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Eye: Chains of Satinav | 7146 | [7146-the-dark-eye-chains-of-satinav.json](./7146-the-dark-eye-chains-of-satinav.json) |
 | The Dark Eye: Memoria | 7168 | [7168-the-dark-eye-memoria.json](./7168-the-dark-eye-memoria.json) |
 | The Dark Fables of Aesop | 254454 | [254454-the-dark-fables-of-aesop.json](./254454-the-dark-fables-of-aesop.json) |
+| The Dark Fever | 210551 | [210551-the-dark-fever.json](./210551-the-dark-fever.json) |
 | The Dark Half | 71515 | [71515-the-dark-half.json](./71515-the-dark-half.json) |
 | The Dark Heart of Balor | 199483 | [199483-the-dark-heart-of-balor.json](./199483-the-dark-heart-of-balor.json) |
 | The Dark House | 267949 | [267949-the-dark-house.json](./267949-the-dark-house.json) |
@@ -17178,6 +17179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twosheep.io | 274721 | [274721-twosheep-io.json](./274721-twosheep-io.json) |
 | Twwwr | 141761 | [141761-twwwr.json](./141761-twwwr.json) |
 | TXXX | 232706 | [232706-txxx.json](./232706-txxx.json) |
+| Ty the Tasmanian Tiger 2: Bush Rescue | 210497 | [210497-ty-the-tasmanian-tiger-2-bush-rescue.json](./210497-ty-the-tasmanian-tiger-2-bush-rescue.json) |
 | TY the Tasmanian Tiger 2: Bush Rescue HD | 147845 | [147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json](./147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json) |
 | TY the Tasmanian Tiger 4 | 12876 | [12876-ty-the-tasmanian-tiger-4.json](./12876-ty-the-tasmanian-tiger-4.json) |
 | Ty the Tasmanian Tiger 4: Gunyip! | 307671 | [307671-ty-the-tasmanian-tiger-4-gunyip.json](./307671-ty-the-tasmanian-tiger-4-gunyip.json) |
