@@ -1379,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SC2VN: The eSports Visual Novel | 19076 | [19076-sc2vn-the-esports-visual-novel.json](./19076-sc2vn-the-esports-visual-novel.json) |
 | Scab | 402285 | [402285-scab.json](./402285-scab.json) |
 | Scaffold | 400460 | [400460-scaffold.json](./400460-scaffold.json) |
+| Scaffolder | 195056 | [195056-scaffolder.json](./195056-scaffolder.json) |
 | Scale | 9042 | [9042-scale.json](./9042-scale.json) |
 | Scale Mail | 393781 | [393781-scale-mail.json](./393781-scale-mail.json) |
 | Scale Star | 97686 | [97686-scale-star.json](./97686-scale-star.json) |
@@ -9441,6 +9442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SonKnuck RPG | 330337 | [330337-sonknuck-rpg.json](./330337-sonknuck-rpg.json) |
 | Sonnet | 402478 | [402478-sonnet.json](./402478-sonnet.json) |
 | Sonny Legacy Collection | 299891 | [299891-sonny-legacy-collection.json](./299891-sonny-legacy-collection.json) |
+| Sonny X'press! | 195057 | [195057-sonny-xpress.json](./195057-sonny-xpress.json) |
 | Sono | 130184 | [130184-sono.json](./130184-sono.json) |
 | Sono Hanabira ni Kuchizuke o: Amakute Hoshikute Torokeru Chuu | 12218 | [12218-sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu.json](./12218-sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu.json) |
 | Sono Hanabira ni Kuchizuke o: Kuchibiru to Kiss de Tsubuyaite | 12217 | [12217-sono-hanabira-ni-kuchizuke-o-kuchibiru-to-kiss-de-tsubuyaite.json](./12217-sono-hanabira-ni-kuchizuke-o-kuchibiru-to-kiss-de-tsubuyaite.json) |
@@ -12208,6 +12210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SSR Wives: The Murder Of My Winter Crush | 296468 | [296468-ssr-wives-the-murder-of-my-winter-crush.json](./296468-ssr-wives-the-murder-of-my-winter-crush.json) |
 | SSS222: HyperSpace | 211177 | [211177-sss222-hyperspace.json](./211177-sss222-hyperspace.json) |
 | SSSM: In the Shadow of Jupiter | 221295 | [221295-sssm-in-the-shadow-of-jupiter.json](./221295-sssm-in-the-shadow-of-jupiter.json) |
+| Sssnake | 195058 | [195058-sssnake.json](./195058-sssnake.json) |
 | SSSnaker | 248169 | [248169-sssnaker.json](./248169-sssnaker.json) |
 | Sssnakes | 84896 | [84896-sssnakes.json](./84896-sssnakes.json) |
 | SSX | 4179 | [4179-ssx.json](./4179-ssx.json) |
@@ -12453,6 +12456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Days | 194632 | [194632-star-days.json](./194632-star-days.json) |
 | Star Defender 2 | 54396 | [54396-star-defender-2.json](./54396-star-defender-2.json) |
 | Star Defender 3 | 25478 | [25478-star-defender-3.json](./25478-star-defender-3.json) |
+| Star Defenders | 195070 | [195070-star-defenders.json](./195070-star-defenders.json) |
 | Star Diffusion | 106969 | [106969-star-diffusion.json](./106969-star-diffusion.json) |
 | Star Discord | 196621 | [196621-star-discord.json](./196621-star-discord.json) |
 | Star Drifter | 13761 | [13761-star-drifter.json](./13761-star-drifter.json) |
@@ -16962,6 +16966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pac-Man | 239191 | [239191-super-pac-man.json](./239191-super-pac-man.json) |
 | Super Pachinko | 46663 | [46663-super-pachinko.json](./46663-super-pachinko.json) |
 | Super Pads: Become a DJ | 96776 | [96776-super-pads-become-a-dj.json](./96776-super-pads-become-a-dj.json) |
+| Super Pang | 195059 | [195059-super-pang.json](./195059-super-pang.json) |
 | Super Panic Monsters | 71510 | [71510-super-panic-monsters.json](./71510-super-panic-monsters.json) |
 | Super Paper Bowser World | 323290 | [323290-super-paper-bowser-world.json](./323290-super-paper-bowser-world.json) |
 | Super Paper Mario | 231489 | [231489-super-paper-mario.json](./231489-super-paper-mario.json) |
