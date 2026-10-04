@@ -5392,6 +5392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Quarters Supremacy: The Legis | 173234 | [173234-close-quarters-supremacy-the-legis.json](./173234-close-quarters-supremacy-the-legis.json) |
 | Close Shell | 246437 | [246437-close-shell.json](./246437-close-shell.json) |
 | Close the Sky | 413907 | [413907-close-the-sky.json](./413907-close-the-sky.json) |
+| Close the Windows, Lock the Doors | 184965 | [184965-close-the-windows-lock-the-doors.json](./184965-close-the-windows-lock-the-doors.json) |
 | Close to Light | 380114 | [380114-close-to-light.json](./380114-close-to-light.json) |
 | Close to the Sun | 55027 | [55027-close-to-the-sun.json](./55027-close-to-the-sun.json) |
 | Close to You | 217874 | [217874-close-to-you.json](./217874-close-to-you.json) |
@@ -9164,6 +9165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Tantei Monogatari: Motsureta Nanatsu no Labyrinth | 122982 | [122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json](./122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json) |
 | Cross the Ages: Trading Card Game | 217807 | [217807-cross-the-ages-trading-card-game.json](./217807-cross-the-ages-trading-card-game.json) |
 | Cross The Boundaries | 334182 | [334182-cross-the-boundaries.json](./334182-cross-the-boundaries.json) |
+| Cross the Gap | 184976 | [184976-cross-the-gap.json](./184976-cross-the-gap.json) |
 | Cross the Maze World | 290471 | [290471-cross-the-maze-world.json](./290471-cross-the-maze-world.json) |
 | Cross the Red Line | 113859 | [113859-cross-the-red-line.json](./113859-cross-the-red-line.json) |
 | Cross the Road | 186057 | [186057-cross-the-road.json](./186057-cross-the-road.json) |
