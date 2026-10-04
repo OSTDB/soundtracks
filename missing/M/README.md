@@ -6599,6 +6599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Mart Survivors | 413122 | [413122-mini-mart-survivors.json](./413122-mini-mart-survivors.json) |
 | Mini Matches | 121597 | [121597-mini-matches.json](./121597-mini-matches.json) |
 | Mini Maze: Online | 298712 | [298712-mini-maze-online.json](./298712-mini-maze-online.json) |
+| Mini Mini Farm | 209934 | [209934-mini-mini-farm.json](./209934-mini-mini-farm.json) |
 | Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
 | Mini Monsters | 343907 | [343907-mini-monsters.json](./343907-mini-monsters.json) |
 | Mini Motor Racing 2 | 188394 | [188394-mini-motor-racing-2.json](./188394-mini-motor-racing-2.json) |
@@ -7178,6 +7179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Scary | 342222 | [342222-mister-scary.json](./342222-mister-scary.json) |
 | Mister Slime | 21377 | [21377-mister-slime.json](./21377-mister-slime.json) |
 | Mister Smith & His Adventures | 255039 | [255039-mister-smith-and-his-adventures.json](./255039-mister-smith-and-his-adventures.json) |
+| Mister Twister | 209957 | [209957-mister-twister.json](./209957-mister-twister.json) |
 | Mister Universe | 153428 | [153428-mister-universe.json](./153428-mister-universe.json) |
 | Mister Versatile: A Gay Superhero Visual Novel | 180251 | [180251-mister-versatile-a-gay-superhero-visual-novel.json](./180251-mister-versatile-a-gay-superhero-visual-novel.json) |
 | Misterious Thief | 321996 | [321996-misterious-thief.json](./321996-misterious-thief.json) |
@@ -8364,6 +8366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonsterMind | 304210 | [304210-monstermind.json](./304210-monstermind.json) |
 | Monsterpatch | 334706 | [334706-monsterpatch.json](./334706-monsterpatch.json) |
 | Monsterra | 235266 | [235266-monsterra.json](./235266-monsterra.json) |
+| MonsterReaver | 209913 | [209913-monsterreaver.json](./209913-monsterreaver.json) |
 | MonsterRoll | 97917 | [97917-monsterroll.json](./97917-monsterroll.json) |
 | Monsters | 13741 | [13741-monsters.json](./13741-monsters.json) |
 | Monsters | 314359 | [314359-monsters.json](./314359-monsters.json) |
