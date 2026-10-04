@@ -1924,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bakraid | 38541 | [38541-battle-bakraid.json](./38541-battle-bakraid.json) |
 | Battle Balls | 166160 | [166160-battle-balls.json](./166160-battle-balls.json) |
 | Battle Bands: Rock & Roll Deckbuilder | 155551 | [155551-battle-bands-rock-and-roll-deckbuilder.json](./155551-battle-bands-rock-and-roll-deckbuilder.json) |
+| Battle Barn: Tactics | 190054 | [190054-battle-barn-tactics.json](./190054-battle-barn-tactics.json) |
 | Battle Bean | 291239 | [291239-battle-bean.json](./291239-battle-bean.json) |
 | Battle Bears 1: Zombies | 171453 | [171453-battle-bears-1-zombies.json](./171453-battle-bears-1-zombies.json) |
 | Battle Bears Comics | 62247 | [62247-battle-bears-comics.json](./62247-battle-bears-comics.json) |
@@ -2175,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Skin Panic | 91463 | [91463-battle-skin-panic.json](./91463-battle-skin-panic.json) |
 | Battle Slugs | 261522 | [261522-battle-slugs.json](./261522-battle-slugs.json) |
 | Battle Snails | 252912 | [252912-battle-snails.json](./252912-battle-snails.json) |
+| Battle Snakes | 190031 | [190031-battle-snakes.json](./190031-battle-snakes.json) |
 | Battle Snakes Arena | 82503 | [82503-battle-snakes-arena.json](./82503-battle-snakes-arena.json) |
 | Battle Soccer: Field no Hasha | 42567 | [42567-battle-soccer-field-no-hasha.json](./42567-battle-soccer-field-no-hasha.json) |
 | Battle Space | 92278 | [92278-battle-space.json](./92278-battle-space.json) |
@@ -3967,6 +3969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigfoot Quest | 90752 | [90752-bigfoot-quest.json](./90752-bigfoot-quest.json) |
 | Bigfoot vs. Scots | 244257 | [244257-bigfoot-vs-scots.json](./244257-bigfoot-vs-scots.json) |
 | Bigfoot: Chasing Shadows | 69354 | [69354-bigfoot-chasing-shadows.json](./69354-bigfoot-chasing-shadows.json) |
+| Bigger Bikes | 190037 | [190037-bigger-bikes.json](./190037-bigger-bikes.json) |
 | Bigger Guns: Expansion Pack | 226246 | [226246-bigger-guns-expansion-pack.json](./226246-bigger-guns-expansion-pack.json) |
 | Bigger Than Me | 183431 | [183431-bigger-than-me.json](./183431-bigger-than-me.json) |
 | Bigger Than You Think | 60208 | [60208-bigger-than-you-think.json](./60208-bigger-than-you-think.json) |
@@ -4494,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Pilot | 41514 | [41514-bit-pilot.json](./41514-bit-pilot.json) |
 | Bit Pit | 176429 | [176429-bit-pit.json](./176429-bit-pit.json) |
 | Bit Shifter | 34699 | [34699-bit-shifter.json](./34699-bit-shifter.json) |
+| Bit Sword | 190032 | [190032-bit-sword.json](./190032-bit-sword.json) |
 | Bit-Cremental: Fishistry | 325629 | [325629-bit-cremental-fishistry.json](./325629-bit-cremental-fishistry.json) |
 | Bit-cremental: Fishistry Color | 387693 | [387693-bit-cremental-fishistry-color.json](./387693-bit-cremental-fishistry-color.json) |
 | Bit.Saw | 60775 | [60775-bit-saw.json](./60775-bit-saw.json) |
@@ -8967,6 +8971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulwark: Falconeer Chronicles - Medieval Houses | 408049 | [408049-bulwark-falconeer-chronicles-medieval-houses.json](./408049-bulwark-falconeer-chronicles-medieval-houses.json) |
 | Bum Bum Monsterz | 258511 | [258511-bum-bum-monsterz.json](./258511-bum-bum-monsterz.json) |
 | Bumaga | 197122 | [197122-bumaga.json](./197122-bumaga.json) |
+| Bumballon | 190027 | [190027-bumballon.json](./190027-bumballon.json) |
 | Bumbi | 289426 | [289426-bumbi.json](./289426-bumbi.json) |
 | Bumble Brawlers | 330343 | [330343-bumble-brawlers.json](./330343-bumble-brawlers.json) |
 | Bumble Games | 72171 | [72171-bumble-games.json](./72171-bumble-games.json) |
