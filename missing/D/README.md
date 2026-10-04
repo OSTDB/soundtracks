@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daikoukai Jidai V | 56530 | [56530-daikoukai-jidai-v.json](./56530-daikoukai-jidai-v.json) |
 | Daiku no Gen-san: Kachi-kachi no Tonkachi ga Kachi | 50563 | [50563-daiku-no-gen-san-kachi-kachi-no-tonkachi-ga-kachi.json](./50563-daiku-no-gen-san-kachi-kachi-no-tonkachi-ga-kachi.json) |
 | Daiku no Medium | 159106 | [159106-daiku-no-medium.json](./159106-daiku-no-medium.json) |
+| Daily Bubble | 224069 | [224069-daily-bubble.json](./224069-daily-bubble.json) |
 | Daily Chthonicle | 57103 | [57103-daily-chthonicle.json](./57103-daily-chthonicle.json) |
 | Daily Dadish | 233003 | [233003-daily-dadish.json](./233003-daily-dadish.json) |
 | Daily Driven Racer | 334474 | [334474-daily-driven-racer.json](./334474-daily-driven-racer.json) |
@@ -1945,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead World Heroes | 221185 | [221185-dead-world-heroes.json](./221185-dead-world-heroes.json) |
 | Dead Years | 19582 | [19582-dead-years.json](./19582-dead-years.json) |
 | Dead Zed | 388038 | [388038-dead-zed.json](./388038-dead-zed.json) |
+| Dead Zombie Shooter | 224070 | [224070-dead-zombie-shooter.json](./224070-dead-zombie-shooter.json) |
 | Dead Zone | 203555 | [203555-dead-zone.json](./203555-dead-zone.json) |
 | Dead Zone | 81176 | [81176-dead-zone.json](./81176-dead-zone.json) |
 | Dead Zone Defense | 304897 | [304897-dead-zone-defense.json](./304897-dead-zone-defense.json) |
@@ -2885,6 +2887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DekaBlox Arena | 104001 | [104001-dekablox-arena.json](./104001-dekablox-arena.json) |
 | DekaPari | 252075 | [252075-dekapari.json](./252075-dekapari.json) |
 | Dekaron | 60258 | [60258-dekaron.json](./60258-dekaron.json) |
+| Dekaron G | 224071 | [224071-dekaron-g.json](./224071-dekaron-g.json) |
 | Dekaron M | 165416 | [165416-dekaron-m.json](./165416-dekaron-m.json) |
 | Dekinai Watashi ga, Kurikaesu. | 402473 | [402473-dekinai-watashi-ga-kurikaesu.json](./402473-dekinai-watashi-ga-kurikaesu.json) |
 | Dekisugi Tingle Pack | 100169 | [100169-dekisugi-tingle-pack.json](./100169-dekisugi-tingle-pack.json) |
@@ -5853,6 +5856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doge and the Lost Kitten | 103409 | [103409-doge-and-the-lost-kitten.json](./103409-doge-and-the-lost-kitten.json) |
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
 | Doge Jump | 62678 | [62678-doge-jump.json](./62678-doge-jump.json) |
+| Doge Rescue | 224072 | [224072-doge-rescue.json](./224072-doge-rescue.json) |
 | Doge Simulator | 243050 | [243050-doge-simulator.json](./243050-doge-simulator.json) |
 | Doge Storm | 360698 | [360698-doge-storm.json](./360698-doge-storm.json) |
 | Doge to the Moon | 149505 | [149505-doge-to-the-moon.json](./149505-doge-to-the-moon.json) |
@@ -7943,6 +7947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Angling | 100319 | [100319-dream-angling.json](./100319-dream-angling.json) |
 | Dream Animal | 376759 | [376759-dream-animal.json](./376759-dream-animal.json) |
 | Dream Big 2 | 156992 | [156992-dream-big-2.json](./156992-dream-big-2.json) |
+| Dream Blast: Jewel Pops | 224073 | [224073-dream-blast-jewel-pops.json](./224073-dream-blast-jewel-pops.json) |
 | Dream Boundary | 347715 | [347715-dream-boundary.json](./347715-dream-boundary.json) |
 | Dream Bubblez | 103491 | [103491-dream-bubblez.json](./103491-dream-bubblez.json) |
 | Dream Builder: Amusement Park | 294200 | [294200-dream-builder-amusement-park.json](./294200-dream-builder-amusement-park.json) |
@@ -9115,6 +9120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Digger | 304001 | [304001-dungeon-digger.json](./304001-dungeon-digger.json) |
 | Dungeon Display | 159867 | [159867-dungeon-display.json](./159867-dungeon-display.json) |
 | Dungeon Divas | 381776 | [381776-dungeon-divas.json](./381776-dungeon-divas.json) |
+| Dungeon Dogs | 224059 | [224059-dungeon-dogs.json](./224059-dungeon-dogs.json) |
 | Dungeon Dominator | 408778 | [408778-dungeon-dominator.json](./408778-dungeon-dominator.json) |
 | Dungeon Done | 311484 | [311484-dungeon-done.json](./311484-dungeon-done.json) |
 | Dungeon Drafters | 133810 | [133810-dungeon-drafters.json](./133810-dungeon-drafters.json) |
@@ -9275,6 +9281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Survival | 261827 | [261827-dungeon-survival.json](./261827-dungeon-survival.json) |
 | Dungeon Survive | 232939 | [232939-dungeon-survive.json](./232939-dungeon-survive.json) |
 | Dungeon Survivor II | 126007 | [126007-dungeon-survivor-ii.json](./126007-dungeon-survivor-ii.json) |
+| Dungeon Survivor III: Dark Genesis | 224061 | [224061-dungeon-survivor-iii-dark-genesis.json](./224061-dungeon-survivor-iii-dark-genesis.json) |
 | Dungeon Survivor.io | 260706 | [260706-dungeon-survivor-io.json](./260706-dungeon-survivor-io.json) |
 | Dungeon Survivors | 257935 | [257935-dungeon-survivors.json](./257935-dungeon-survivors.json) |
 | Dungeon Sweeper KiKi | 299396 | [299396-dungeon-sweeper-kiki.json](./299396-dungeon-sweeper-kiki.json) |
@@ -9295,6 +9302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Vending Machines | 322170 | [322170-dungeon-vending-machines.json](./322170-dungeon-vending-machines.json) |
 | Dungeon Village | 19814 | [19814-dungeon-village.json](./19814-dungeon-village.json) |
 | Dungeon Vixens: A Tale of Temptation | 278985 | [278985-dungeon-vixens-a-tale-of-temptation.json](./278985-dungeon-vixens-a-tale-of-temptation.json) |
+| Dungeon vs Gunner | 224062 | [224062-dungeon-vs-gunner.json](./224062-dungeon-vs-gunner.json) |
 | Dungeon Walk: Ryuumeikyuu no Kanrisha | 236525 | [236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json](./236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json) |
 | Dungeon Ward | 193851 | [193851-dungeon-ward.json](./193851-dungeon-ward.json) |
 | Dungeon Warfare 2 | 102273 | [102273-dungeon-warfare-2.json](./102273-dungeon-warfare-2.json) |
@@ -9371,6 +9379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons and Monsters | 268751 | [268751-dungeons-and-monsters.json](./268751-dungeons-and-monsters.json) |
 | Dungeons and Myths | 226816 | [226816-dungeons-and-myths.json](./226816-dungeons-and-myths.json) |
 | Dungeons and Raids | 236516 | [236516-dungeons-and-raids.json](./236516-dungeons-and-raids.json) |
+| Dungeons and Tiles | 224060 | [224060-dungeons-and-tiles.json](./224060-dungeons-and-tiles.json) |
 | Dungeons of Aledorn | 60494 | [60494-dungeons-of-aledorn.json](./60494-dungeons-of-aledorn.json) |
 | Dungeons of Alethrion | 294384 | [294384-dungeons-of-alethrion.json](./294384-dungeons-of-alethrion.json) |
 | Dungeons of Avalon | 356864 | [356864-dungeons-of-avalon.json](./356864-dungeons-of-avalon.json) |
