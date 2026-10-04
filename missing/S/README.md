@@ -109,7 +109,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saadex: Perpetual Storm | 270933 | [270933-saadex-perpetual-storm.json](./270933-saadex-perpetual-storm.json) |
 | Saap2003 | 77319 | [77319-saap2003.json](./77319-saap2003.json) |
 | Sabak Legend | 123563 | [123563-sabak-legend.json](./123563-sabak-legend.json) |
+| Saban's Mighty Morphin Power Rangers | 217939 | [217939-sabans-mighty-morphin-power-rangers.json](./217939-sabans-mighty-morphin-power-rangers.json) |
 | Saban's Mighty Morphin Power Rangers: Mega Battle | 78258 | [78258-sabans-mighty-morphin-power-rangers-mega-battle.json](./78258-sabans-mighty-morphin-power-rangers-mega-battle.json) |
+| Saban's Power Rangers in Space | 217937 | [217937-sabans-power-rangers-in-space.json](./217937-sabans-power-rangers-in-space.json) |
+| Saban's Power Rangers Turbo | 217936 | [217936-sabans-power-rangers-turbo.json](./217936-sabans-power-rangers-turbo.json) |
 | Saban's Power Rangers Zeo Versus the Machine Empire | 73341 | [73341-sabans-power-rangers-zeo-versus-the-machine-empire.json](./73341-sabans-power-rangers-zeo-versus-the-machine-empire.json) |
 | Saban's VR Troopers | 19718 | [19718-sabans-vr-troopers.json](./19718-sabans-vr-troopers.json) |
 | Sabat Fight Arena | 116110 | [116110-sabat-fight-arena.json](./116110-sabat-fight-arena.json) |
@@ -4033,6 +4036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Who Fights Monsters: Choice Edition | 186168 | [186168-she-who-fights-monsters-choice-edition.json](./186168-she-who-fights-monsters-choice-edition.json) |
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
+| She's Got a Thing for a Spring | 217773 | [217773-shes-got-a-thing-for-a-spring.json](./217773-shes-got-a-thing-for-a-spring.json) |
 | She's My Vampire | 205816 | [205816-shes-my-vampire.json](./205816-shes-my-vampire.json) |
 | She's Outta This World | 179487 | [179487-shes-outta-this-world.json](./179487-shes-outta-this-world.json) |
 | She'sn | 267583 | [267583-shesn.json](./267583-shesn.json) |
@@ -4245,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shifting Sand Land | 308232 | [308232-shifting-sand-land.json](./308232-shifting-sand-land.json) |
 | Shifting Sands | 367543 | [367543-shifting-sands.json](./367543-shifting-sands.json) |
 | Shiftlings | 9215 | [9215-shiftlings.json](./9215-shiftlings.json) |
+| Shifty | 217777 | [217777-shifty.json](./217777-shifty.json) |
 | Shigatsu Boujitsu, Hana Kudaru Yoru | 398357 | [398357-shigatsu-boujitsu-hana-kudaru-yoru.json](./398357-shigatsu-boujitsu-hana-kudaru-yoru.json) |
 | Shigatsu Youka | 275642 | [275642-shigatsu-youka.json](./275642-shigatsu-youka.json) |
 | Shigeru Planet | 266869 | [266869-shigeru-planet.json](./266869-shigeru-planet.json) |
@@ -7234,6 +7239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Town Terrors: Pilgrim's Hook - Collector's Edition | 36314 | [36314-small-town-terrors-pilgrims-hook-collectors-edition.json](./36314-small-town-terrors-pilgrims-hook-collectors-edition.json) |
 | Small Void | 365200 | [365200-small-void.json](./365200-small-void.json) |
 | Small Wars: Mohicans | 294376 | [294376-small-wars-mohicans.json](./294376-small-wars-mohicans.json) |
+| Small World | 217779 | [217779-small-world.json](./217779-small-world.json) |
 | Small World | 272927 | [272927-small-world.json](./272927-small-world.json) |
 | Smalland: Survive the Wilds VR | 299752 | [299752-smalland-survive-the-wilds-vr.json](./299752-smalland-survive-the-wilds-vr.json) |
 | Smalls Island Woes | 177341 | [177341-smalls-island-woes.json](./177341-smalls-island-woes.json) |
@@ -14183,6 +14189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger in Utopia | 273871 | [273871-stranger-in-utopia.json](./273871-stranger-in-utopia.json) |
 | Stranger of Paradise: Final Fantasy Origin - Collector's Edition | 201028 | [201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json](./201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json) |
 | Stranger of Paradise: Final Fantasy Origin - Digital Deluxe Edition | 173775 | [173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json](./173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json) |
+| Stranger of Paradise: Final Fantasy Origin - Wanderer of the Rift | 217790 | [217790-stranger-of-paradise-final-fantasy-origin-wanderer-of-the-rift.json](./217790-stranger-of-paradise-final-fantasy-origin-wanderer-of-the-rift.json) |
 | Stranger of Sword City 2 | 19801 | [19801-stranger-of-sword-city-2.json](./19801-stranger-of-sword-city-2.json) |
 | Stranger of Sword City: Limited Edition | 42681 | [42681-stranger-of-sword-city-limited-edition.json](./42681-stranger-of-sword-city-limited-edition.json) |
 | Stranger Than Heaven | 325599 | [325599-stranger-than-heaven.json](./325599-stranger-than-heaven.json) |
@@ -14468,6 +14475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Level: Windows Edition | 101624 | [101624-street-level-windows-edition.json](./101624-street-level-windows-edition.json) |
 | Street Master | 45987 | [45987-street-master.json](./45987-street-master.json) |
 | Street Masters | 175196 | [175196-street-masters.json](./175196-street-masters.json) |
+| Street Ninja | 217946 | [217946-street-ninja.json](./217946-street-ninja.json) |
 | Street of Sanctuary VR | 30051 | [30051-street-of-sanctuary-vr.json](./30051-street-of-sanctuary-vr.json) |
 | Street of the Cats | 293631 | [293631-street-of-the-cats.json](./293631-street-of-the-cats.json) |
 | Street Outlaws 2: Winner Takes All | 162246 | [162246-street-outlaws-2-winner-takes-all.json](./162246-street-outlaws-2-winner-takes-all.json) |
