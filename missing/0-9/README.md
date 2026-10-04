@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 123 Slaughter Me Street | 19810 | [19810-123-slaughter-me-street.json](./19810-123-slaughter-me-street.json) |
 | 1234 Connect Puzzle | 357975 | [357975-1234-connect-puzzle.json](./357975-1234-connect-puzzle.json) |
 | 123Babycount | 89724 | [89724-123babycount.json](./89724-123babycount.json) |
+| 125 Monkey Games | 203204 | [203204-125-monkey-games.json](./203204-125-monkey-games.json) |
 | 128 Linedefs, 64 Things | 260890 | [260890-128-linedefs-64-things.json](./260890-128-linedefs-64-things.json) |
 | 12am | 212754 | [212754-12am.json](./212754-12am.json) |
 | 12Gems | 292786 | [292786-12gems.json](./292786-12gems.json) |
