@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth 2 | 155663 | [155663-labyrinth-2.json](./155663-labyrinth-2.json) |
 | Labyrinth 3 | 171066 | [171066-labyrinth-3.json](./171066-labyrinth-3.json) |
 | Labyrinth City: Pierre the Maze Detective | 145786 | [145786-labyrinth-city-pierre-the-maze-detective.json](./145786-labyrinth-city-pierre-the-maze-detective.json) |
+| Labyrinth DeLux: A Crusoe Quest | 192229 | [192229-labyrinth-delux-a-crusoe-quest.json](./192229-labyrinth-delux-a-crusoe-quest.json) |
 | Labyrinth Lunacy | 104694 | [104694-labyrinth-lunacy.json](./104694-labyrinth-lunacy.json) |
 | Labyrinth Master | 356672 | [356672-labyrinth-master.json](./356672-labyrinth-master.json) |
 | Labyrinth of Anxiety | 413128 | [413128-labyrinth-of-anxiety.json](./413128-labyrinth-of-anxiety.json) |
@@ -718,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Life | 253328 | [253328-last-life.json](./253328-last-life.json) |
 | Last Line VR: A Zombie Defense Game | 119588 | [119588-last-line-vr-a-zombie-defense-game.json](./119588-last-line-vr-a-zombie-defense-game.json) |
 | Last Look along Woodward Boulevard | 321171 | [321171-last-look-along-woodward-boulevard.json](./321171-last-look-along-woodward-boulevard.json) |
+| Last Lovers | 192244 | [192244-last-lovers.json](./192244-last-lovers.json) |
 | Last Mage Standing | 30008 | [30008-last-mage-standing.json](./30008-last-mage-standing.json) |
 | Last Man | 273462 | [273462-last-man.json](./273462-last-man.json) |
 | Last Man Sitting | 76091 | [76091-last-man-sitting.json](./76091-last-man-sitting.json) |
@@ -2517,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light-It Up: Complete Edition | 283170 | [283170-light-it-up-complete-edition.json](./283170-light-it-up-complete-edition.json) |
 | Light-It Up: Neon Adventure | 279862 | [279862-light-it-up-neon-adventure.json](./279862-light-it-up-neon-adventure.json) |
 | Light-Years Away | 314919 | [314919-light-years-away.json](./314919-light-years-away.json) |
+| Light, Dark or Hrak? | 192259 | [192259-light-dark-or-hrak.json](./192259-light-dark-or-hrak.json) |
 | Light: Path of the Archmage | 392136 | [392136-light-path-of-the-archmage.json](./392136-light-path-of-the-archmage.json) |
 | Light: Rebirth-The falsehood | 53274 | [53274-light-rebirth-the-falsehood.json](./53274-light-rebirth-the-falsehood.json) |
 | Light'em Up: For brainiacs only | 232495 | [232495-lightem-up-for-brainiacs-only.json](./232495-lightem-up-for-brainiacs-only.json) |
