@@ -2889,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Xavier | 232928 | [232928-finding-xavier.json](./232928-finding-xavier.json) |
 | FindIt | 303797 | [303797-findit.json](./303797-findit.json) |
 | FindIt: Bonus Maps 1 | 303798 | [303798-findit-bonus-maps-1.json](./303798-findit-bonus-maps-1.json) |
+| Findme: 30sai no Yume Ooibito | 197204 | [197204-findme-30sai-no-yume-ooibito.json](./197204-findme-30sai-no-yume-ooibito.json) |
 | Findola | 94677 | [94677-findola.json](./94677-findola.json) |
 | Fine Artist Color Pixel Number | 267412 | [267412-fine-artist-color-pixel-number.json](./267412-fine-artist-color-pixel-number.json) |
 | Fine Sweeper | 35349 | [35349-fine-sweeper.json](./35349-fine-sweeper.json) |
@@ -6338,6 +6339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggin' Around | 265777 | [265777-froggin-around.json](./265777-froggin-around.json) |
 | Froggle | 407506 | [407506-froggle.json](./407506-froggle.json) |
 | Froggo | 115678 | [115678-froggo.json](./115678-froggo.json) |
+| Froggo Swing 'n Grapple | 197194 | [197194-froggo-swing-n-grapple.json](./197194-froggo-swing-n-grapple.json) |
 | Froggo's Adventure: Drifting Sky | 326759 | [326759-froggos-adventure-drifting-sky.json](./326759-froggos-adventure-drifting-sky.json) |
 | Froggo's Quest | 418715 | [418715-froggos-quest.json](./418715-froggos-quest.json) |
 | Froggy | 227828 | [227828-froggy.json](./227828-froggy.json) |
