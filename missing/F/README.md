@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family | 394827 | [394827-family.json](./394827-family.json) |
 | Family Adventure | 255024 | [255024-family-adventure.json](./255024-family-adventure.json) |
 | Family Bash | 248052 | [248052-family-bash.json](./248052-family-bash.json) |
+| Family Basic | 220557 | [220557-family-basic.json](./220557-family-basic.json) |
 | Family Bible Quest | 335322 | [335322-family-bible-quest.json](./335322-family-bible-quest.json) |
 | Family Billiards | 161760 | [161760-family-billiards.json](./161760-family-billiards.json) |
 | Family Bundle | 370825 | [370825-family-bundle.json](./370825-family-bundle.json) |
