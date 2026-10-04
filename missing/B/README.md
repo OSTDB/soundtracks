@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babyz: Your Virtual Bundle of Joy | 70343 | [70343-babyz-your-virtual-bundle-of-joy.json](./70343-babyz-your-virtual-bundle-of-joy.json) |
 | Baccarat | 348397 | [348397-baccarat.json](./348397-baccarat.json) |
 | Bacchanalia | 227880 | [227880-bacchanalia.json](./227880-bacchanalia.json) |
+| Bacchikoi! | 224464 | [224464-bacchikoi.json](./224464-bacchikoi.json) |
 | Bacchikoi!: Expansion Pack | 224494 | [224494-bacchikoi-expansion-pack.json](./224494-bacchikoi-expansion-pack.json) |
 | Bacchus | 121626 | [121626-bacchus.json](./121626-bacchus.json) |
 | Bachelairs | 331357 | [331357-bachelairs.json](./331357-bachelairs.json) |
@@ -5515,6 +5516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks of Nature | 216754 | [216754-blocks-of-nature.json](./216754-blocks-of-nature.json) |
 | Blocks Racing | 255060 | [255060-blocks-racing.json](./255060-blocks-racing.json) |
 | Blocks Stacking | 153352 | [153352-blocks-stacking.json](./153352-blocks-stacking.json) |
+| Blocks Tracks Trains | 224594 | [224594-blocks-tracks-trains.json](./224594-blocks-tracks-trains.json) |
 | Blocks: New Tangram Puzzles | 101070 | [101070-blocks-new-tangram-puzzles.json](./101070-blocks-new-tangram-puzzles.json) |
 | Blocks! | 207281 | [207281-blocks.json](./207281-blocks.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
@@ -6128,6 +6130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boardwalk Memories | 191565 | [191565-boardwalk-memories.json](./191565-boardwalk-memories.json) |
 | Boardwalk Sea Ball | 366410 | [366410-boardwalk-sea-ball.json](./366410-boardwalk-sea-ball.json) |
 | Boat Adventure | 99635 | [99635-boat-adventure.json](./99635-boat-adventure.json) |
+| Boat Builder: Andy's Story | 224597 | [224597-boat-builder-andys-story.json](./224597-boat-builder-andys-story.json) |
 | Boat Crew | 167803 | [167803-boat-crew.json](./167803-boat-crew.json) |
 | Boat House | 313352 | [313352-boat-house.json](./313352-boat-house.json) |
 | Boat Prom | 141015 | [141015-boat-prom.json](./141015-boat-prom.json) |
