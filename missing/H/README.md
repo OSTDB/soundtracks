@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack_Me Collection | 53175 | [53175-hack-me-collection.json](./53175-hack-me-collection.json) |
 | Hack.bak | 386363 | [386363-hack-bak.json](./386363-hack-bak.json) |
 | Hack.ing | 290927 | [290927-hack-ing.json](./290927-hack-ing.json) |
+| Hack'n Dice | 184438 | [184438-hackn-dice.json](./184438-hackn-dice.json) |
 | Hacker | 12131 | [12131-hacker.json](./12131-hacker.json) |
 | Hacker | 292252 | [292252-hacker.json](./292252-hacker.json) |
 | Hacker Ball | 185128 | [185128-hacker-ball.json](./185128-hacker-ball.json) |
@@ -5163,6 +5164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoppup! | 141878 | [141878-hoppup.json](./141878-hoppup.json) |
 | Hoppy Bobby | 58494 | [58494-hoppy-bobby.json](./58494-hoppy-bobby.json) |
 | Hoppy Hop | 250884 | [250884-hoppy-hop.json](./250884-hoppy-hop.json) |
+| Hoppy Woods | 184424 | [184424-hoppy-woods.json](./184424-hoppy-woods.json) |
 | Hopscotch | 262430 | [262430-hopscotch.json](./262430-hopscotch.json) |
 | Hopscotch | 68689 | [68689-hopscotch.json](./68689-hopscotch.json) |
 | Hopshot | 331129 | [331129-hopshot.json](./331129-hopshot.json) |
@@ -5736,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Cathalon | 142442 | [142442-house-of-cathalon.json](./142442-house-of-cathalon.json) |
 | House of Dead Skin | 316078 | [316078-house-of-dead-skin.json](./316078-house-of-dead-skin.json) |
 | House of Everlast | 269004 | [269004-house-of-everlast.json](./269004-house-of-everlast.json) |
+| House of Fate | 184441 | [184441-house-of-fate.json](./184441-house-of-fate.json) |
 | House of Fear: Cursed Souls | 228686 | [228686-house-of-fear-cursed-souls.json](./228686-house-of-fear-cursed-souls.json) |
 | House of Ghosts and Cats | 329232 | [329232-house-of-ghosts-and-cats.json](./329232-house-of-ghosts-and-cats.json) |
 | House of Golf | 125252 | [125252-house-of-golf.json](./125252-house-of-golf.json) |
