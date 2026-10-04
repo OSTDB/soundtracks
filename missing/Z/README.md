@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda II: Paracosm | 305342 | [305342-zelda-ii-paracosm.json](./305342-zelda-ii-paracosm.json) |
 | Zelda II: Resurrection of Ganon | 339257 | [339257-zelda-ii-resurrection-of-ganon.json](./339257-zelda-ii-resurrection-of-ganon.json) |
 | Zelda II: The Adventure of Link SNES | 377747 | [377747-zelda-ii-the-adventure-of-link-snes.json](./377747-zelda-ii-the-adventure-of-link-snes.json) |
+| Zelda II: The Nightmare of Ganon | 215167 | [215167-zelda-ii-the-nightmare-of-ganon.json](./215167-zelda-ii-the-nightmare-of-ganon.json) |
 | Zelda III: Hyrule Explorer | 219085 | [219085-zelda-iii-hyrule-explorer.json](./219085-zelda-iii-hyrule-explorer.json) |
 | Zelda Mobile | 28864 | [28864-zelda-mobile.json](./28864-zelda-mobile.json) |
 | Zelda no Densetsu: 4-tsu no Tsurugi + | 298870 | [298870-zelda-no-densetsu-4-tsu-no-tsurugi.json](./298870-zelda-no-densetsu-4-tsu-no-tsurugi.json) |
@@ -1191,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZRoll | 33118 | [33118-zroll.json](./33118-zroll.json) |
 | Ztar Attack 3: Dimensional Panic | 294780 | [294780-ztar-attack-3-dimensional-panic.json](./294780-ztar-attack-3-dimensional-panic.json) |
 | Ztar Attack Rebooted | 135231 | [135231-ztar-attack-rebooted.json](./135231-ztar-attack-rebooted.json) |
+| Ztar Attack: Mario Escape from the Jail - Definitive Edition | 215166 | [215166-ztar-attack-mario-escape-from-the-jail-definitive-edition.json](./215166-ztar-attack-mario-escape-from-the-jail-definitive-edition.json) |
 | ZTetris | 225752 | [225752-ztetris.json](./225752-ztetris.json) |
 | Zueirama | 110641 | [110641-zueirama.json](./110641-zueirama.json) |
 | Zueirama 2077 | 323276 | [323276-zueirama-2077.json](./323276-zueirama-2077.json) |
