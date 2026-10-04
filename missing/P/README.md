@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P Diddy Songs Quiz / Trivia, Music Player, Lyrics, & News: Ultimate P Diddy Fan App | 334882 | [334882-p-diddy-songs-quiz-trivia-music-player-lyrics-and-news-ultimate-p-diddy-fan-app.json](./334882-p-diddy-songs-quiz-trivia-music-player-lyrics-and-news-ultimate-p-diddy-fan-app.json) |
 | P World | 332449 | [332449-p-world.json](./332449-p-world.json) |
 | P-3 Biotic | 36257 | [36257-p-3-biotic.json](./36257-p-3-biotic.json) |
+| P-38 Lightning | 208986 | [208986-p-38-lightning.json](./208986-p-38-lightning.json) |
 | P-Kara | 59365 | [59365-p-kara.json](./59365-p-kara.json) |
 | P-Robots | 93029 | [93029-p-robots.json](./93029-p-robots.json) |
 | P.A.W.S.: Personal Automated Wagging System | 46573 | [46573-p-a-w-s-personal-automated-wagging-system.json](./46573-p-a-w-s-personal-automated-wagging-system.json) |
@@ -234,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific General | 14451 | [14451-pacific-general.json](./14451-pacific-general.json) |
 | Pacific Gunner | 92470 | [92470-pacific-gunner.json](./92470-pacific-gunner.json) |
 | Pacific Strike | 14562 | [14562-pacific-strike.json](./14562-pacific-strike.json) |
+| Pacific Theatre | 208985 | [208985-pacific-theatre.json](./208985-pacific-theatre.json) |
 | Pacific War | 69923 | [69923-pacific-war.json](./69923-pacific-war.json) |
 | Pacific Warriors II: Dogfight! | 43448 | [43448-pacific-warriors-ii-dogfight.json](./43448-pacific-warriors-ii-dogfight.json) |
 | Pacific Warships | 254748 | [254748-pacific-warships.json](./254748-pacific-warships.json) |
@@ -2564,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Rescue Saga | 60077 | [60077-pet-rescue-saga.json](./60077-pet-rescue-saga.json) |
 | Pet Rock Duty | 278994 | [278994-pet-rock-duty.json](./278994-pet-rock-duty.json) |
 | Pet Run | 59488 | [59488-pet-run.json](./59488-pet-run.json) |
+| Pet Shop Hop | 208863 | [208863-pet-shop-hop.json](./208863-pet-shop-hop.json) |
 | Pet Shop Simulator | 248906 | [248906-pet-shop-simulator.json](./248906-pet-shop-simulator.json) |
 | Pet Shop Snacks: Expansion Pack 1 | 237981 | [237981-pet-shop-snacks-expansion-pack-1.json](./237981-pet-shop-snacks-expansion-pack-1.json) |
 | Pet Shop Snacks: Expansion Pack 2 | 237982 | [237982-pet-shop-snacks-expansion-pack-2.json](./237982-pet-shop-snacks-expansion-pack-2.json) |
@@ -2600,6 +2603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Paper | 140379 | [140379-peter-paper.json](./140379-peter-paper.json) |
 | Peter Rabbit Maze Mischief | 88192 | [88192-peter-rabbit-maze-mischief.json](./88192-peter-rabbit-maze-mischief.json) |
 | Peter Rabbit: Let's Go! | 104458 | [104458-peter-rabbit-lets-go.json](./104458-peter-rabbit-lets-go.json) |
+| Peter Rabbit's Number Garden | 208865 | [208865-peter-rabbits-number-garden.json](./208865-peter-rabbits-number-garden.json) |
 | Peter Shilton's Handball Maradona! | 73836 | [73836-peter-shiltons-handball-maradona.json](./73836-peter-shiltons-handball-maradona.json) |
 | Peter Talisman: Lord of the Harvest | 182257 | [182257-peter-talisman-lord-of-the-harvest.json](./182257-peter-talisman-lord-of-the-harvest.json) |
 | Peter's Apostles | 351609 | [351609-peters-apostles.json](./351609-peters-apostles.json) |
@@ -2863,6 +2867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharos Light | 292764 | [292764-pharos-light.json](./292764-pharos-light.json) |
 | Phase | 377172 | [377172-phase.json](./377172-phase.json) |
 | Phase | 72078 | [72078-phase.json](./72078-phase.json) |
+| Phase 10 | 208861 | [208861-phase-10.json](./208861-phase-10.json) |
 | Phase 10 Dice | 83455 | [83455-phase-10-dice.json](./83455-phase-10-dice.json) |
 | Phase 10 Online | 144843 | [144843-phase-10-online.json](./144843-phase-10-online.json) |
 | Phase Cross | 347787 | [347787-phase-cross.json](./347787-phase-cross.json) |
