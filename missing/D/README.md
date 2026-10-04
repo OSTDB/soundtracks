@@ -1291,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date Night | 179077 | [179077-date-night.json](./179077-date-night.json) |
 | Date Night Bowling | 137109 | [137109-date-night-bowling.json](./137109-date-night-bowling.json) |
 | Date Nite | 336598 | [336598-date-nite.json](./336598-date-nite.json) |
+| Date of Death: Origin | 195553 | [195553-date-of-death-origin.json](./195553-date-of-death-origin.json) |
 | Date or Destiny: Kiss or Miss | 348880 | [348880-date-or-destiny-kiss-or-miss.json](./348880-date-or-destiny-kiss-or-miss.json) |
 | Date or Die | 56508 | [56508-date-or-die.json](./56508-date-or-die.json) |
 | Date Plus | 358498 | [358498-date-plus.json](./358498-date-plus.json) |
@@ -1350,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave Winfield's Batter Up! | 111897 | [111897-dave-winfields-batter-up.json](./111897-dave-winfields-batter-up.json) |
 | Dave-Man | 126517 | [126517-dave-man.json](./126517-dave-man.json) |
 | Dave's Fun Algebra Class: Remastered | 264794 | [264794-daves-fun-algebra-class-remastered.json](./264794-daves-fun-algebra-class-remastered.json) |
+| Davey | 195580 | [195580-davey.json](./195580-davey.json) |
 | Davey Jones TD | 62810 | [62810-davey-jones-td.json](./62810-davey-jones-td.json) |
 | Davey's Mystery | 411645 | [411645-daveys-mystery.json](./411645-daveys-mystery.json) |
 | David & Keithan: The Haunted Lighthouse | 310579 | [310579-david-and-keithan-the-haunted-lighthouse.json](./310579-david-and-keithan-the-haunted-lighthouse.json) |
@@ -4899,6 +4901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaurs and Animal Friends to the Rescue | 353999 | [353999-dinosaurs-and-animal-friends-to-the-rescue.json](./353999-dinosaurs-and-animal-friends-to-the-rescue.json) |
 | Dinosaurs Are People Too | 107662 | [107662-dinosaurs-are-people-too.json](./107662-dinosaurs-are-people-too.json) |
 | Dinosaurs Outbreak | 370789 | [370789-dinosaurs-outbreak.json](./370789-dinosaurs-outbreak.json) |
+| Dinosaurs: A Prehistoric Adventure 2 | 195579 | [195579-dinosaurs-a-prehistoric-adventure-2.json](./195579-dinosaurs-a-prehistoric-adventure-2.json) |
 | Dinosaurs: Mission Dino Camp | 252172 | [252172-dinosaurs-mission-dino-camp.json](./252172-dinosaurs-mission-dino-camp.json) |
 | DinoScape | 143335 | [143335-dinoscape.json](./143335-dinoscape.json) |
 | DinoSource | 77983 | [77983-dinosource.json](./77983-dinosource.json) |
@@ -8869,6 +8872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dubstep Abasralsa | 102407 | [102407-dubstep-abasralsa.json](./102407-dubstep-abasralsa.json) |
 | Dubstep Bird | 143588 | [143588-dubstep-bird.json](./143588-dubstep-bird.json) |
 | Dubstep Sound Pack | 343860 | [343860-dubstep-sound-pack.json](./343860-dubstep-sound-pack.json) |
+| Dubu Rush | 195583 | [195583-dubu-rush.json](./195583-dubu-rush.json) |
 | DubWars | 36348 | [36348-dubwars.json](./36348-dubwars.json) |
 | Dubz.hu | 416019 | [416019-dubz-hu.json](./416019-dubz-hu.json) |
 | Ducati World Championship | 19353 | [19353-ducati-world-championship.json](./19353-ducati-world-championship.json) |
