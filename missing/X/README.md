@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: Aerosoft Seychelles XP | 168367 | [168367-x-plane-11-aerosoft-seychelles-xp.json](./168367-x-plane-11-aerosoft-seychelles-xp.json) |
 | X-Plane 11: Airfield Canada - CYHZ: Halifax Stanfield International Airport | 162790 | [162790-x-plane-11-airfield-canada-cyhz-halifax-stanfield-international-airport.json](./162790-x-plane-11-airfield-canada-cyhz-halifax-stanfield-international-airport.json) |
 | X-Plane 11: FlyLogic Airport Bern-Belp | 162768 | [162768-x-plane-11-flylogic-airport-bern-belp.json](./162768-x-plane-11-flylogic-airport-bern-belp.json) |
+| X-Plane 11: Globall Art - SBGR: São Paulo - Guarulhos International Airport | 204929 | [204929-x-plane-11-globall-art-sbgr-sao-paulo-guarulhos-international-airport.json](./204929-x-plane-11-globall-art-sbgr-sao-paulo-guarulhos-international-airport.json) |
 | X-Plane 11: Globall Art CYUL - Montreal International Airport | 162794 | [162794-x-plane-11-globall-art-cyul-montreal-international-airport.json](./162794-x-plane-11-globall-art-cyul-montreal-international-airport.json) |
 | X-Plane 11: MSK Productions - Jinnah Intl Airport | 162772 | [162772-x-plane-11-msk-productions-jinnah-intl-airport.json](./162772-x-plane-11-msk-productions-jinnah-intl-airport.json) |
 | X-Plane 11: MSK Productions - New Islamabad Intl Airport | 162771 | [162771-x-plane-11-msk-productions-new-islamabad-intl-airport.json](./162771-x-plane-11-msk-productions-new-islamabad-intl-airport.json) |
