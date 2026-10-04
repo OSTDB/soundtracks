@@ -5526,6 +5526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollercoaster Rush | 133915 | [133915-rollercoaster-rush.json](./133915-rollercoaster-rush.json) |
 | Rollercoaster Rush 3D | 133914 | [133914-rollercoaster-rush-3d.json](./133914-rollercoaster-rush-3d.json) |
 | RollerCoaster Tycoon | 254 | [254-rollercoaster-tycoon.json](./254-rollercoaster-tycoon.json) |
+| Rollercoaster Tycoon 3 | 178407 | [178407-rollercoaster-tycoon-3.json](./178407-rollercoaster-tycoon-3.json) |
 | RollerCoaster Tycoon 3: Gold | 257414 | [257414-rollercoaster-tycoon-3-gold.json](./257414-rollercoaster-tycoon-3-gold.json) |
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
 | RollerCoaster Tycoon on Nintendo Switch | 95855 | [95855-rollercoaster-tycoon-on-nintendo-switch.json](./95855-rollercoaster-tycoon-on-nintendo-switch.json) |
