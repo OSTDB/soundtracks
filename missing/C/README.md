@@ -2323,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Link | 299397 | [299397-cats-link.json](./299397-cats-link.json) |
 | Cats Logic | 334092 | [334092-cats-logic.json](./334092-cats-logic.json) |
 | Cats Love Boxes | 199459 | [199459-cats-love-boxes.json](./199459-cats-love-boxes.json) |
+| Cats Love Heat | 185490 | [185490-cats-love-heat.json](./185490-cats-love-heat.json) |
 | Cats Lover | 55281 | [55281-cats-lover.json](./55281-cats-lover.json) |
 | Cats n Wires | 177476 | [177476-cats-n-wires.json](./177476-cats-n-wires.json) |
 | Cats of the Song Dynasty | 315299 | [315299-cats-of-the-song-dynasty.json](./315299-cats-of-the-song-dynasty.json) |
@@ -4336,6 +4337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono's Arena | 126628 | [126628-chronos-arena.json](./126628-chronos-arena.json) |
 | ChronoBlade | 63877 | [63877-chronoblade.json](./63877-chronoblade.json) |
 | ChronoBreach | 117045 | [117045-chronobreach.json](./117045-chronobreach.json) |
+| Chronobreak | 185475 | [185475-chronobreak.json](./185475-chronobreak.json) |
 | Chronoclasm | 338810 | [338810-chronoclasm.json](./338810-chronoclasm.json) |
 | Chronoclasm Chronicles | 417652 | [417652-chronoclasm-chronicles.json](./417652-chronoclasm-chronicles.json) |
 | ChronoClock | 326765 | [326765-chronoclock.json](./326765-chronoclock.json) |
@@ -6474,6 +6476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combo Critters: Battle Checkers | 346263 | [346263-combo-critters-battle-checkers.json](./346263-combo-critters-battle-checkers.json) |
 | Combo Fishing | 340206 | [340206-combo-fishing.json](./340206-combo-fishing.json) |
 | Combo Haven | 287212 | [287212-combo-haven.json](./287212-combo-haven.json) |
+| Combo King | 185478 | [185478-combo-king.json](./185478-combo-king.json) |
 | Combo Master | 364711 | [364711-combo-master.json](./364711-combo-master.json) |
 | Combo Postage | 112496 | [112496-combo-postage.json](./112496-combo-postage.json) |
 | Combo Quest 2 | 102768 | [102768-combo-quest-2.json](./102768-combo-quest-2.json) |
@@ -7280,6 +7283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook Fest | 236392 | [236392-cook-fest.json](./236392-cook-fest.json) |
 | Cook for Me Grandpa! | 365276 | [365276-cook-for-me-grandpa.json](./365276-cook-for-me-grandpa.json) |
 | Cook for the Giant | 52827 | [52827-cook-for-the-giant.json](./52827-cook-for-the-giant.json) |
+| Cook It! | 185500 | [185500-cook-it.json](./185500-cook-it.json) |
 | Cook MIX | 390819 | [390819-cook-mix.json](./390819-cook-mix.json) |
 | Cook OL | 288908 | [288908-cook-ol.json](./288908-cook-ol.json) |
 | Cook or Be Cooked | 361825 | [361825-cook-or-be-cooked.json](./361825-cook-or-be-cooked.json) |
@@ -7470,6 +7474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copy Kitty | 22443 | [22443-copy-kitty.json](./22443-copy-kitty.json) |
 | Copy: Two Man Too Many | 359010 | [359010-copy-two-man-too-many.json](./359010-copy-two-man-too-many.json) |
 | Copycat | 255631 | [255631-copycat.json](./255631-copycat.json) |
+| Copycat: Cee Ann | 185480 | [185480-copycat-cee-ann.json](./185480-copycat-cee-ann.json) |
 | CopyPasta with Cheese | 282094 | [282094-copypasta-with-cheese.json](./282094-copypasta-with-cheese.json) |
 | Coquette Dragoon: Volume One | 210093 | [210093-coquette-dragoon-volume-one.json](./210093-coquette-dragoon-volume-one.json) |
 | Coqui the Game | 55982 | [55982-coqui-the-game.json](./55982-coqui-the-game.json) |
@@ -9995,6 +10000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culinary Cooking Master Simulator | 300860 | [300860-culinary-cooking-master-simulator.json](./300860-culinary-cooking-master-simulator.json) |
 | Culinary Survivors | 264676 | [264676-culinary-survivors.json](./264676-culinary-survivors.json) |
 | Culino | 174221 | [174221-culino.json](./174221-culino.json) |
+| Cull the Gods | 185487 | [185487-cull-the-gods.json](./185487-cull-the-gods.json) |
 | Cult | 68774 | [68774-cult.json](./68774-cult.json) |
 | Cult 2112 | 119553 | [119553-cult-2112.json](./119553-cult-2112.json) |
 | Cult Adorable | 276779 | [276779-cult-adorable.json](./276779-cult-adorable.json) |
@@ -10618,6 +10624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberrrevolution | 180211 | [180211-cyberrrevolution.json](./180211-cyberrrevolution.json) |
 | Cyberrunner | 212337 | [212337-cyberrunner.json](./212337-cyberrunner.json) |
 | CyberRush | 276215 | [276215-cyberrush.json](./276215-cyberrush.json) |
+| Cybersaurs: Dinosaurs in Space | 185468 | [185468-cybersaurs-dinosaurs-in-space.json](./185468-cybersaurs-dinosaurs-in-space.json) |
 | Cyberscape | 235201 | [235201-cyberscape.json](./235201-cyberscape.json) |
 | CyberScope | 196079 | [196079-cyberscope.json](./196079-cyberscope.json) |
 | CyberSeas | 324716 | [324716-cyberseas.json](./324716-cyberseas.json) |
