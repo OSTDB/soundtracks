@@ -3544,6 +3544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Morning | 381133 | [381133-good-morning.json](./381133-good-morning.json) |
 | Good Morning Cruel City | 278518 | [278518-good-morning-cruel-city.json](./278518-good-morning-cruel-city.json) |
 | Good Morning Is A Social Construct | 231393 | [231393-good-morning-is-a-social-construct.json](./231393-good-morning-is-a-social-construct.json) |
+| Good Morning, A.I. | 193259 | [193259-good-morning-a-i.json](./193259-good-morning-a-i.json) |
 | Good Morning, Radio | 203365 | [203365-good-morning-radio.json](./203365-good-morning-radio.json) |
 | Good Mourning | 148556 | [148556-good-mourning.json](./148556-good-mourning.json) |
 | Good News | 382300 | [382300-good-news.json](./382300-good-news.json) |
