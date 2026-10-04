@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Soccer Manager | 71574 | [71574-ultimate-soccer-manager.json](./71574-ultimate-soccer-manager.json) |
 | Ultimate Soccer Manager 2 | 56597 | [56597-ultimate-soccer-manager-2.json](./56597-ultimate-soccer-manager-2.json) |
 | Ultimate Solid | 31100 | [31100-ultimate-solid.json](./31100-ultimate-solid.json) |
+| Ultimate Solid: Origins | 197729 | [197729-ultimate-solid-origins.json](./197729-ultimate-solid-origins.json) |
 | Ultimate Solitaire Collection | 270091 | [270091-ultimate-solitaire-collection.json](./270091-ultimate-solitaire-collection.json) |
 | Ultimate Space Commando | 35963 | [35963-ultimate-space-commando.json](./35963-ultimate-space-commando.json) |
 | Ultimate Sparring | 334077 | [334077-ultimate-sparring.json](./334077-ultimate-sparring.json) |
