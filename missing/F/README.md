@@ -4505,6 +4505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FMV Detective | 289416 | [289416-fmv-detective.json](./289416-fmv-detective.json) |
 | FMV Horror Bundle | 236812 | [236812-fmv-horror-bundle.json](./236812-fmv-horror-bundle.json) |
 | FMV Murder Mystery Bundle | 289418 | [289418-fmv-murder-mystery-bundle.json](./289418-fmv-murder-mystery-bundle.json) |
+| FNaC Fur | 210495 | [210495-fnac-fur.json](./210495-fnac-fur.json) |
 | FNaF 2: Wii U Edition | 358328 | [358328-fnaf-2-wii-u-edition.json](./358328-fnaf-2-wii-u-edition.json) |
 | FNaF 4 Retro Edition | 275647 | [275647-fnaf-4-retro-edition.json](./275647-fnaf-4-retro-edition.json) |
 | FNAF in Psych Engine | 242611 | [242611-fnaf-in-psych-engine.json](./242611-fnaf-in-psych-engine.json) |
