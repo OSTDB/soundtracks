@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can't Beat The Beautiful Ones | 393117 | [393117-i-cant-beat-the-beautiful-ones.json](./393117-i-cant-beat-the-beautiful-ones.json) |
 | I Can't Believe It's Not Gambling: GOTY Edition | 74929 | [74929-i-cant-believe-its-not-gambling-goty-edition.json](./74929-i-cant-believe-its-not-gambling-goty-edition.json) |
 | I Can't Believe the Most Popular Girl in School is a Lesbian, Just Like Me! | 184894 | [184894-i-cant-believe-the-most-popular-girl-in-school-is-a-lesbian-just-like-me.json](./184894-i-cant-believe-the-most-popular-girl-in-school-is-a-lesbian-just-like-me.json) |
+| I Can't Cry. | 183930 | [183930-i-cant-cry.json](./183930-i-cant-cry.json) |
 | I Can't Escape: Darkness | 35861 | [35861-i-cant-escape-darkness.json](./35861-i-cant-escape-darkness.json) |
 | I Can't Hear Your Words, So I Want To Listen To Your Heart | 367519 | [367519-i-cant-hear-your-words-so-i-want-to-listen-to-your-heart.json](./367519-i-cant-hear-your-words-so-i-want-to-listen-to-your-heart.json) |
 | I Can't Reid | 386100 | [386100-i-cant-reid.json](./386100-i-cant-reid.json) |
