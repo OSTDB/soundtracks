@@ -2616,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy V Advance | 20597 | [20597-final-fantasy-v-advance.json](./20597-final-fantasy-v-advance.json) |
 | Final Fantasy V-Pixel Freemaster | 315635 | [315635-final-fantasy-v-pixel-freemaster.json](./315635-final-fantasy-v-pixel-freemaster.json) |
 | Final Fantasy VI | 158985 | [158985-final-fantasy-vi.json](./158985-final-fantasy-vi.json) |
+| Final Fantasy VI T-Edition + EX | 186095 | [186095-final-fantasy-vi-t-edition-ex.json](./186095-final-fantasy-vi-t-edition-ex.json) |
 | Final Fantasy VI: A Soldier's Contingency | 312346 | [312346-final-fantasy-vi-a-soldiers-contingency.json](./312346-final-fantasy-vi-a-soldiers-contingency.json) |
 | Final Fantasy VI: Brave New World | 148455 | [148455-final-fantasy-vi-brave-new-world.json](./148455-final-fantasy-vi-brave-new-world.json) |
 | Final Fantasy VI: Brave New World Final Frontier | 360105 | [360105-final-fantasy-vi-brave-new-world-final-frontier.json](./360105-final-fantasy-vi-brave-new-world-final-frontier.json) |
@@ -6385,6 +6386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy Drink Bar! | 329965 | [329965-froggy-drink-bar.json](./329965-froggy-drink-bar.json) |
 | Froggy Family Fort | 175963 | [175963-froggy-family-fort.json](./175963-froggy-family-fort.json) |
 | Froggy Jump | 52185 | [52185-froggy-jump.json](./52185-froggy-jump.json) |
+| Froggy Pot | 186121 | [186121-froggy-pot.json](./186121-froggy-pot.json) |
 | Froggy Revenge | 418731 | [418731-froggy-revenge.json](./418731-froggy-revenge.json) |
 | Froggy! | 418659 | [418659-froggy.json](./418659-froggy.json) |
 | Froggy's Adventures | 255654 | [255654-froggys-adventures.json](./255654-froggys-adventures.json) |
