@@ -4566,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roads of Rome 2 | 34258 | [34258-roads-of-rome-2.json](./34258-roads-of-rome-2.json) |
 | Roads of Rome 3 | 34264 | [34264-roads-of-rome-3.json](./34264-roads-of-rome-3.json) |
 | Roads of Rome: New Generation 2 | 111194 | [111194-roads-of-rome-new-generation-2.json](./111194-roads-of-rome-new-generation-2.json) |
+| Roads of Rome: Portals - Collector's Edition | 186687 | [186687-roads-of-rome-portals-collectors-edition.json](./186687-roads-of-rome-portals-collectors-edition.json) |
 | Roads of Rome: Portals 2 - Collector's Edition | 245984 | [245984-roads-of-rome-portals-2-collectors-edition.json](./245984-roads-of-rome-portals-2-collectors-edition.json) |
 | Roads Yet Traveled | 359048 | [359048-roads-yet-traveled.json](./359048-roads-yet-traveled.json) |
 | Roadside | 286079 | [286079-roadside.json](./286079-roadside.json) |
@@ -4930,6 +4931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Scissor Paper | 262927 | [262927-rock-scissor-paper.json](./262927-rock-scissor-paper.json) |
 | Rock Simulator | 127932 | [127932-rock-simulator.json](./127932-rock-simulator.json) |
 | Rock Star Life Simulator | 260409 | [260409-rock-star-life-simulator.json](./260409-rock-star-life-simulator.json) |
+| Rock Star Manager | 186680 | [186680-rock-star-manager.json](./186680-rock-star-manager.json) |
 | Rock the Goat | 239615 | [239615-rock-the-goat.json](./239615-rock-the-goat.json) |
 | Rock the Islands | 310218 | [310218-rock-the-islands.json](./310218-rock-the-islands.json) |
 | Rock the Rim | 379545 | [379545-rock-the-rim.json](./379545-rock-the-rim.json) |
