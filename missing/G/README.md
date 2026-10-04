@@ -3593,6 +3593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoodGod | 355080 | [355080-goodgod.json](./355080-goodgod.json) |
 | Goodness Gracious | 98230 | [98230-goodness-gracious.json](./98230-goodness-gracious.json) |
 | Goodness Rakes | 231607 | [231607-goodness-rakes.json](./231607-goodness-rakes.json) |
+| Goodnight | 184981 | [184981-goodnight.json](./184981-goodnight.json) |
 | Goodnight | 299122 | [299122-goodnight.json](./299122-goodnight.json) |
 | GoodNight | 193404 | [193404-goodnight.json](./193404-goodnight.json) |
 | Goodnight Rudy | 234589 | [234589-goodnight-rudy.json](./234589-goodnight-rudy.json) |
