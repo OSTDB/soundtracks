@@ -1852,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Dark | 357793 | [357793-after-dark.json](./357793-after-dark.json) |
 | After Dark: Under the Moonlight | 302631 | [302631-after-dark-under-the-moonlight.json](./302631-after-dark-under-the-moonlight.json) |
 | After Doom | 300354 | [300354-after-doom.json](./300354-after-doom.json) |
+| After Egypt | 206635 | [206635-after-egypt.json](./206635-after-egypt.json) |
 | After Exposure | 341131 | [341131-after-exposure.json](./341131-after-exposure.json) |
 | After Friday | 339803 | [339803-after-friday.json](./339803-after-friday.json) |
 | After Fright | 279068 | [279068-after-fright.json](./279068-after-fright.json) |
@@ -2145,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agony of a Dying MMO | 136415 | [136415-agony-of-a-dying-mmo.json](./136415-agony-of-a-dying-mmo.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
+| Agos | 206602 | [206602-agos.json](./206602-agos.json) |
 | AGOS: A Game of Space | 138768 | [138768-agos-a-game-of-space.json](./138768-agos-a-game-of-space.json) |
 | Agraelus, Wanna be MaN | 141737 | [141737-agraelus-wanna-be-man.json](./141737-agraelus-wanna-be-man.json) |
 | Agraria | 403059 | [403059-agraria.json](./403059-agraria.json) |
@@ -7864,6 +7866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Miner: Moons | 276946 | [276946-astro-miner-moons.json](./276946-astro-miner-moons.json) |
 | Astro Mission: Moon | 192811 | [192811-astro-mission-moon.json](./192811-astro-mission-moon.json) |
 | Astro Navigator | 15606 | [15606-astro-navigator.json](./15606-astro-navigator.json) |
+| Astro Ninja Man DX | 206600 | [206600-astro-ninja-man-dx.json](./206600-astro-ninja-man-dx.json) |
 | Astro Pig | 240751 | [240751-astro-pig.json](./240751-astro-pig.json) |
 | Astro Planes | 273355 | [273355-astro-planes.json](./273355-astro-planes.json) |
 | Astro Rabby | 7759 | [7759-astro-rabby.json](./7759-astro-rabby.json) |
