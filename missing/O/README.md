@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odens öga | 304035 | [304035-odens-oga.json](./304035-odens-oga.json) |
 | Odessa | 333649 | [333649-odessa.json](./333649-odessa.json) |
 | Odezie | 129753 | [129753-odezie.json](./129753-odezie.json) |
+| Odglos | 178486 | [178486-odglos.json](./178486-odglos.json) |
 | ODIA | 135709 | [135709-odia.json](./135709-odia.json) |
 | OdiChat | 258498 | [258498-odichat.json](./258498-odichat.json) |
 | Odile: Black Duckling Tale | 381221 | [381221-odile-black-duckling-tale.json](./381221-odile-black-duckling-tale.json) |
@@ -1310,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night at Flumpty's | 266224 | [266224-one-night-at-flumptys.json](./266224-one-night-at-flumptys.json) |
 | One Night at Flumpty's 2 | 126456 | [126456-one-night-at-flumptys-2.json](./126456-one-night-at-flumptys-2.json) |
 | One Night at Flumpty's 2 | 266226 | [266226-one-night-at-flumptys-2.json](./266226-one-night-at-flumptys-2.json) |
+| One Night at Flumpty's 3 | 178400 | [178400-one-night-at-flumptys-3.json](./178400-one-night-at-flumptys-3.json) |
 | One Night At Freddy's | 273951 | [273951-one-night-at-freddys.json](./273951-one-night-at-freddys.json) |
 | One Night At Herobrine's | 280446 | [280446-one-night-at-herobrines.json](./280446-one-night-at-herobrines.json) |
 | One Night Heaven: Aka to Kuro no Hitobito ni Sasagu Hommage | 282563 | [282563-one-night-heaven-aka-to-kuro-no-hitobito-ni-sasagu-hommage.json](./282563-one-night-heaven-aka-to-kuro-no-hitobito-ni-sasagu-hommage.json) |
