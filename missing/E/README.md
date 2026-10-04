@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Eternal | 67668 | [67668-earth-eternal.json](./67668-earth-eternal.json) |
 | Earth Forge | 405628 | [405628-earth-forge.json](./405628-earth-forge.json) |
 | Earth Impact | 99135 | [99135-earth-impact.json](./99135-earth-impact.json) |
+| Earth Inc. | 224063 | [224063-earth-inc.json](./224063-earth-inc.json) |
 | Earth Invasion | 72085 | [72085-earth-invasion.json](./72085-earth-invasion.json) |
 | Earth Invasion 99 | 354641 | [354641-earth-invasion-99.json](./354641-earth-invasion-99.json) |
 | Earth Liberation | 30301 | [30301-earth-liberation.json](./30301-earth-liberation.json) |
@@ -2369,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erase: Missing Link | 361802 | [361802-erase-missing-link.json](./361802-erase-missing-link.json) |
 | Eraser | 339263 | [339263-eraser.json](./339263-eraser.json) |
 | Eraser Advent | 247980 | [247980-eraser-advent.json](./247980-eraser-advent.json) |
+| Eraser Drop Battle Royal | 224056 | [224056-eraser-drop-battle-royal.json](./224056-eraser-drop-battle-royal.json) |
 | Eraser vs. Ruler | 323706 | [323706-eraser-vs-ruler.json](./323706-eraser-vs-ruler.json) |
 | Erasure | 125282 | [125282-erasure.json](./125282-erasure.json) |
 | Erayu | 58903 | [58903-erayu.json](./58903-erayu.json) |
@@ -2717,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Quest 8:Peace Keeper | 99171 | [99171-escape-quest-8-peace-keeper.json](./99171-escape-quest-8-peace-keeper.json) |
 | Escape Room | 76510 | [76510-escape-room.json](./76510-escape-room.json) |
 | Escape Room | 90637 | [90637-escape-room.json](./90637-escape-room.json) |
+| Escape Room Autumn | 224057 | [224057-escape-room-autumn.json](./224057-escape-room-autumn.json) |
 | Escape Room Collection C1 | 295536 | [295536-escape-room-collection-c1.json](./295536-escape-room-collection-c1.json) |
 | Escape Room Killer: Moon, flowers and the Creepy Ghost | 328530 | [328530-escape-room-killer-moon-flowers-and-the-creepy-ghost.json](./328530-escape-room-killer-moon-flowers-and-the-creepy-ghost.json) |
 | Escape Room Marathon | 410388 | [410388-escape-room-marathon.json](./410388-escape-room-marathon.json) |
@@ -2812,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape: Immersion | 391205 | [391205-escape-immersion.json](./391205-escape-immersion.json) |
 | Escape: Left to die | 236416 | [236416-escape-left-to-die.json](./236416-escape-left-to-die.json) |
 | Escape: Lia | 195173 | [195173-escape-lia.json](./195173-escape-lia.json) |
+| Escape: Small Laboratory | 224055 | [224055-escape-small-laboratory.json](./224055-escape-small-laboratory.json) |
 | Escape: Tutankhamen's Tomb | 88453 | [88453-escape-tutankhamens-tomb.json](./88453-escape-tutankhamens-tomb.json) |
 | Escape: Underground | 149490 | [149490-escape-underground.json](./149490-escape-underground.json) |
 | Escape: VR | 29157 | [29157-escape-vr.json](./29157-escape-vr.json) |
@@ -3698,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excalibur's Swordstone Idle Forge | 265105 | [265105-excaliburs-swordstone-idle-forge.json](./265105-excaliburs-swordstone-idle-forge.json) |
 | Excaliburian!! | 186153 | [186153-excaliburian.json](./186153-excaliburian.json) |
 | Excavate Diamond | 228111 | [228111-excavate-diamond.json](./228111-excavate-diamond.json) |
+| Excavator Master 3D | 224053 | [224053-excavator-master-3d.json](./224053-excavator-master-3d.json) |
 | Excavator Simulator 2018 | 100865 | [100865-excavator-simulator-2018.json](./100865-excavator-simulator-2018.json) |
 | Excavatorrr | 242574 | [242574-excavatorrr.json](./242574-excavatorrr.json) |
 | eXceed 3rd: Jade Penetrate Black Package | 10967 | [10967-exceed-3rd-jade-penetrate-black-package.json](./10967-exceed-3rd-jade-penetrate-black-package.json) |
