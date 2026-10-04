@@ -1575,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Grace of Our Malice | 292063 | [292063-in-the-grace-of-our-malice.json](./292063-in-the-grace-of-our-malice.json) |
 | In the Grass | 212289 | [212289-in-the-grass.json](./212289-in-the-grass.json) |
 | In the Grave Wood | 183599 | [183599-in-the-grave-wood.json](./183599-in-the-grave-wood.json) |
+| In the Hole | 195023 | [195023-in-the-hole.json](./195023-in-the-hole.json) |
 | In the Intrigue of the Ratings | 145694 | [145694-in-the-intrigue-of-the-ratings.json](./145694-in-the-intrigue-of-the-ratings.json) |
 | In the Keeper's Shadow | 120884 | [120884-in-the-keepers-shadow.json](./120884-in-the-keepers-shadow.json) |
 | In the Line of Duty - Firefighter | 125314 | [125314-in-the-line-of-duty-firefighter.json](./125314-in-the-line-of-duty-firefighter.json) |
