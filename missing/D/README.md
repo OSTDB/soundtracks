@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkStory Online | 122155 | [122155-darkstory-online.json](./122155-darkstory-online.json) |
 | Darksy's Adventure | 242604 | [242604-darksys-adventure.json](./242604-darksys-adventure.json) |
 | DarkTide | 204955 | [204955-darktide.json](./204955-darktide.json) |
+| Darkwaronline | 191658 | [191658-darkwaronline.json](./191658-darkwaronline.json) |
 | Darkwatch | 5808 | [5808-darkwatch.json](./5808-darkwatch.json) |
 | Darkwater | 311201 | [311201-darkwater.json](./311201-darkwater.json) |
 | DarkwebStreamer | 278604 | [278604-darkwebstreamer.json](./278604-darkwebstreamer.json) |
@@ -2944,6 +2945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delfini | 348412 | [348412-delfini.json](./348412-delfini.json) |
 | Delhanro | 131438 | [131438-delhanro.json](./131438-delhanro.json) |
 | Delia: The Traveling Witch | 252410 | [252410-delia-the-traveling-witch.json](./252410-delia-the-traveling-witch.json) |
+| Delia's Adventure | 191652 | [191652-delias-adventure.json](./191652-delias-adventure.json) |
 | Deliberate | 309956 | [309956-deliberate.json](./309956-deliberate.json) |
 | DeliCat | 256533 | [256533-delicat.json](./256533-delicat.json) |
 | Delicatte | 151575 | [151575-delicatte.json](./151575-delicatte.json) |
@@ -7167,10 +7169,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Mafia: Gang Wars | 105348 | [105348-downtown-mafia-gang-wars.json](./105348-downtown-mafia-gang-wars.json) |
 | Downtown Nekketsu Jidaigeki | 60562 | [60562-downtown-nekketsu-jidaigeki.json](./60562-downtown-nekketsu-jidaigeki.json) |
 | Downtown Nekketsu Monogatari 2 | 66084 | [66084-downtown-nekketsu-monogatari-2.json](./66084-downtown-nekketsu-monogatari-2.json) |
+| Downtown Nekketsu Monogatari EX | 191676 | [191676-downtown-nekketsu-monogatari-ex.json](./191676-downtown-nekketsu-monogatari-ex.json) |
+| Downtown Nekketsu Story | 191641 | [191641-downtown-nekketsu-story.json](./191641-downtown-nekketsu-story.json) |
 | Downtown no Gaki no Tsukai Yaarahen de!! Zettai ni Tsukamatte ha Ikenai Gas Kurobikari Land | 218525 | [218525-downtown-no-gaki-no-tsukai-yaarahen-de-zettai-ni-tsukamatte-ha-ikenai-gas-kurobikari-land.json](./218525-downtown-no-gaki-no-tsukai-yaarahen-de-zettai-ni-tsukamatte-ha-ikenai-gas-kurobikari-land.json) |
 | Downtown River City Baseball Story: Play Ball, Kunio! | 38277 | [38277-downtown-river-city-baseball-story-play-ball-kunio.json](./38277-downtown-river-city-baseball-story-play-ball-kunio.json) |
 | Downtown Run | 242783 | [242783-downtown-run.json](./242783-downtown-run.json) |
 | Downtown Special Kunio-kun's Historical Period Drama! | 48631 | [48631-downtown-special-kunio-kuns-historical-period-drama.json](./48631-downtown-special-kunio-kuns-historical-period-drama.json) |
+| Downtown Special: Kunio-kun no Jidaigeki Da yo Zenin Shuugou! | 191663 | [191663-downtown-special-kunio-kun-no-jidaigeki-da-yo-zenin-shuugou.json](./191663-downtown-special-kunio-kun-no-jidaigeki-da-yo-zenin-shuugou.json) |
 | Downward Spiral: Prologue | 29981 | [29981-downward-spiral-prologue.json](./29981-downward-spiral-prologue.json) |
 | Downward: Enhanced Edition | 301912 | [301912-downward-enhanced-edition.json](./301912-downward-enhanced-edition.json) |
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
