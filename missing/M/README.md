@@ -749,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Venue | 303647 | [303647-magic-venue.json](./303647-magic-venue.json) |
 | Magic vs. Metal | 196572 | [196572-magic-vs-metal.json](./196572-magic-vs-metal.json) |
 | Magic vs. Mind | 311601 | [311601-magic-vs-mind.json](./311601-magic-vs-mind.json) |
+| Magic Walk | 193283 | [193283-magic-walk.json](./193283-magic-walk.json) |
 | Magic Wand | 27326 | [27326-magic-wand.json](./27326-magic-wand.json) |
 | Magic Wand | 311811 | [311811-magic-wand.json](./311811-magic-wand.json) |
 | Magic War Legends | 410880 | [410880-magic-war-legends.json](./410880-magic-war-legends.json) |
@@ -1953,6 +1954,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros. | 192922 | [192922-mario-bros.json](./192922-mario-bros.json) |
 | Mario Bros. | 192923 | [192923-mario-bros.json](./192923-mario-bros.json) |
 | Mario Bros. | 192924 | [192924-mario-bros.json](./192924-mario-bros.json) |
+| Mario Bros. | 193280 | [193280-mario-bros.json](./193280-mario-bros.json) |
+| Mario Bros. | 193281 | [193281-mario-bros.json](./193281-mario-bros.json) |
 | Mario Bros. | 257638 | [257638-mario-bros.json](./257638-mario-bros.json) |
 | Mario Bros. | 3105 | [3105-mario-bros.json](./3105-mario-bros.json) |
 | Mario Bros. Mayhem | 413896 | [413896-mario-bros-mayhem.json](./413896-mario-bros-mayhem.json) |
@@ -3510,6 +3513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat Grinder: First Cut | 348384 | [348384-meat-grinder-first-cut.json](./348384-meat-grinder-first-cut.json) |
 | Meat Madness | 226171 | [226171-meat-madness.json](./226171-meat-madness.json) |
 | Meat Room | 349853 | [349853-meat-room.json](./349853-meat-room.json) |
+| Meat Saw | 193268 | [193268-meat-saw.json](./193268-meat-saw.json) |
 | Meat Shift | 181895 | [181895-meat-shift.json](./181895-meat-shift.json) |
 | Meat Train | 395789 | [395789-meat-train.json](./395789-meat-train.json) |
 | Meat Veterans | 258561 | [258561-meat-veterans.json](./258561-meat-veterans.json) |
