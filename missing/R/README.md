@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Boxing Multiplayer | 360670 | [360670-ragdoll-boxing-multiplayer.json](./360670-ragdoll-boxing-multiplayer.json) |
 | Ragdoll Cannon | 316711 | [316711-ragdoll-cannon.json](./316711-ragdoll-cannon.json) |
 | Ragdoll Destroyer | 252673 | [252673-ragdoll-destroyer.json](./252673-ragdoll-destroyer.json) |
+| Ragdoll Dismounting | 199977 | [199977-ragdoll-dismounting.json](./199977-ragdoll-dismounting.json) |
 | Ragdoll Game | 212170 | [212170-ragdoll-game.json](./212170-ragdoll-game.json) |
 | Ragdoll Kanojo | 174117 | [174117-ragdoll-kanojo.json](./174117-ragdoll-kanojo.json) |
 | Ragdoll LABS | 204069 | [204069-ragdoll-labs.json](./204069-ragdoll-labs.json) |
@@ -6390,6 +6391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run For Coins | 54512 | [54512-run-for-coins.json](./54512-run-for-coins.json) |
 | Run For Cover | 117655 | [117655-run-for-cover.json](./117655-run-for-cover.json) |
 | Run for Love | 180747 | [180747-run-for-love.json](./180747-run-for-love.json) |
+| Run For Money | 199970 | [199970-run-for-money.json](./199970-run-for-money.json) |
 | Run for Money Tousouchuu | 141123 | [141123-run-for-money-tousouchuu.json](./141123-run-for-money-tousouchuu.json) |
 | Run for the Bus | 292264 | [292264-run-for-the-bus.json](./292264-run-for-the-bus.json) |
 | Run Forrest Run | 305912 | [305912-run-forrest-run.json](./305912-run-forrest-run.json) |
