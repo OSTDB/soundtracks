@@ -3650,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logica Emotica | 203540 | [203540-logica-emotica.json](./203540-logica-emotica.json) |
 | LogicBots | 27141 | [27141-logicbots.json](./27141-logicbots.json) |
 | Logicubes | 211285 | [211285-logicubes.json](./211285-logicubes.json) |
+| Logik | 204947 | [204947-logik.json](./204947-logik.json) |
 | LogiKing | 231051 | [231051-logiking.json](./231051-logiking.json) |
 | LogIQ Boost | 373650 | [373650-logiq-boost.json](./373650-logiq-boost.json) |
 | Logistical 2: Indonesia - Bundle | 168349 | [168349-logistical-2-indonesia-bundle.json](./168349-logistical-2-indonesia-bundle.json) |
