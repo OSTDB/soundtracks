@@ -4229,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Amazing Wizard | 169313 | [169313-an-amazing-wizard.json](./169313-an-amazing-wizard.json) |
 | An Angel's Final Desire | 319005 | [319005-an-angels-final-desire.json](./319005-an-angels-final-desire.json) |
 | An Ankou | 250946 | [250946-an-ankou.json](./250946-an-ankou.json) |
+| An Annventure to End Them All | 221774 | [221774-an-annventure-to-end-them-all.json](./221774-an-annventure-to-end-them-all.json) |
 | An antidepressant | 177843 | [177843-an-antidepressant.json](./177843-an-antidepressant.json) |
 | An Aquatic Pokemon Tale | 323758 | [323758-an-aquatic-pokemon-tale.json](./323758-an-aquatic-pokemon-tale.json) |
 | An Archers Fate | 304635 | [304635-an-archers-fate.json](./304635-an-archers-fate.json) |
@@ -5087,6 +5088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annum | 286749 | [286749-annum.json](./286749-annum.json) |
 | Annunaki Clicker | 348786 | [348786-annunaki-clicker.json](./348786-annunaki-clicker.json) |
 | Annventure | 221769 | [221769-annventure.json](./221769-annventure.json) |
+| Annventure of a Lifetime | 221772 | [221772-annventure-of-a-lifetime.json](./221772-annventure-of-a-lifetime.json) |
 | Annyversaire | 283912 | [283912-annyversaire.json](./283912-annyversaire.json) |
 | Ano Hi wo Mou Ichido | 220318 | [220318-ano-hi-wo-mou-ichido.json](./220318-ano-hi-wo-mou-ichido.json) |
 | Ano Ko Doko no Ko | 314652 | [314652-ano-ko-doko-no-ko.json](./314652-ano-ko-doko-no-ko.json) |
@@ -7679,6 +7681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Etherium | 61027 | [61027-astra-etherium.json](./61027-astra-etherium.json) |
 | Astra Exodus | 111693 | [111693-astra-exodus.json](./111693-astra-exodus.json) |
 | Astra GalaxyX | 399615 | [399615-astra-galaxyx.json](./399615-astra-galaxyx.json) |
+| Astra Hunter Zosma | 221644 | [221644-astra-hunter-zosma.json](./221644-astra-hunter-zosma.json) |
 | Astra Intra | 258001 | [258001-astra-intra.json](./258001-astra-intra.json) |
 | Astra Itinera | 175262 | [175262-astra-itinera.json](./175262-astra-itinera.json) |
 | Astra Moment: Dimension | 365240 | [365240-astra-moment-dimension.json](./365240-astra-moment-dimension.json) |
@@ -8061,6 +8064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza Secret Trilogy Deluxe Pack | 354258 | [354258-atelier-ryza-secret-trilogy-deluxe-pack.json](./354258-atelier-ryza-secret-trilogy-deluxe-pack.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout | 119061 | [119061-atelier-ryza-ever-darkness-and-the-secret-hideout.json](./119061-atelier-ryza-ever-darkness-and-the-secret-hideout.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Collector's Edition | 167072 | [167072-atelier-ryza-ever-darkness-and-the-secret-hideout-collectors-edition.json](./167072-atelier-ryza-ever-darkness-and-the-secret-hideout-collectors-edition.json) |
+| Atelier Ryza: Ever Darkness & the Secret Hideout - Digital Deluxe Edition | 221777 | [221777-atelier-ryza-ever-darkness-and-the-secret-hideout-digital-deluxe-edition.json](./221777-atelier-ryza-ever-darkness-and-the-secret-hideout-digital-deluxe-edition.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Secret Solitary Island | 238227 | [238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json](./238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout DX | 359424 | [359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json](./359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json) |
 | Atelier Shallie: Alchemists of the Dusk Sea - Limited Edition | 51537 | [51537-atelier-shallie-alchemists-of-the-dusk-sea-limited-edition.json](./51537-atelier-shallie-alchemists-of-the-dusk-sea-limited-edition.json) |
@@ -8308,6 +8312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Titan: Wall Sina, Goodbye | 200587 | [200587-attack-on-titan-wall-sina-goodbye.json](./200587-attack-on-titan-wall-sina-goodbye.json) |
 | Attack Only | 410224 | [410224-attack-only.json](./410224-attack-only.json) |
 | Attack Pla Rail | 123584 | [123584-attack-pla-rail.json](./123584-attack-pla-rail.json) |
+| Attack Retrieve Capture | 221647 | [221647-attack-retrieve-capture.json](./221647-attack-retrieve-capture.json) |
 | Attack Strategy: Battle Simulator Accurate | 276947 | [276947-attack-strategy-battle-simulator-accurate.json](./276947-attack-strategy-battle-simulator-accurate.json) |
 | Attack Tactic | 226224 | [226224-attack-tactic.json](./226224-attack-tactic.json) |
 | Attack the Light! | 22555 | [22555-attack-the-light.json](./22555-attack-the-light.json) |
