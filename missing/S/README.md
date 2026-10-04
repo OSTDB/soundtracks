@@ -14651,6 +14651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stroke the Fish | 220342 | [220342-stroke-the-fish.json](./220342-stroke-the-fish.json) |
 | Stroke the Hamster | 218563 | [218563-stroke-the-hamster.json](./218563-stroke-the-hamster.json) |
 | Stroke the Hedgehog | 218564 | [218564-stroke-the-hedgehog.json](./218564-stroke-the-hedgehog.json) |
+| Stroke the Snake | 218943 | [218943-stroke-the-snake.json](./218943-stroke-the-snake.json) |
 | Stroke the Tortoise | 220344 | [220344-stroke-the-tortoise.json](./220344-stroke-the-tortoise.json) |
 | Stroker | 84315 | [84315-stroker.json](./84315-stroker.json) |
 | Stroll | 216862 | [216862-stroll.json](./216862-stroll.json) |
@@ -15018,6 +15019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudocats | 193466 | [193466-sudocats.json](./193466-sudocats.json) |
 | Sudocity | 216866 | [216866-sudocity.json](./216866-sudocity.json) |
 | SudoKats | 164995 | [164995-sudokats.json](./164995-sudokats.json) |
+| Sudoki | 219089 | [219089-sudoki.json](./219089-sudoki.json) |
 | Sudokku Elite Collection | 58256 | [58256-sudokku-elite-collection.json](./58256-sudokku-elite-collection.json) |
 | Sudoku | 131490 | [131490-sudoku.json](./131490-sudoku.json) |
 | Sudoku | 131505 | [131505-sudoku.json](./131505-sudoku.json) |
@@ -16617,6 +16619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Eris | 42209 | [42209-super-metroid-eris.json](./42209-super-metroid-eris.json) |
 | Super Metroid: Fear | 255370 | [255370-super-metroid-fear.json](./255370-super-metroid-fear.json) |
 | Super Metroid: GBA Edition | 222919 | [222919-super-metroid-gba-edition.json](./222919-super-metroid-gba-edition.json) |
+| Super Metroid: Less Linear Edition | 219087 | [219087-super-metroid-less-linear-edition.json](./219087-super-metroid-less-linear-edition.json) |
 | Super Metroid: Map Rando | 237534 | [237534-super-metroid-map-rando.json](./237534-super-metroid-map-rando.json) |
 | Super Metroid: Opposition | 255372 | [255372-super-metroid-opposition.json](./255372-super-metroid-opposition.json) |
 | Super Metroid: Redux | 188575 | [188575-super-metroid-redux.json](./188575-super-metroid-redux.json) |
@@ -17763,6 +17766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Catapult | 320746 | [320746-sushi-catapult.json](./320746-sushi-catapult.json) |
 | Sushi Clickers | 343971 | [343971-sushi-clickers.json](./343971-sushi-clickers.json) |
 | Sushi for Robots | 177320 | [177320-sushi-for-robots.json](./177320-sushi-for-robots.json) |
+| Sushi Fun | 219111 | [219111-sushi-fun.json](./219111-sushi-fun.json) |
 | Sushi girlfriend | 129718 | [129718-sushi-girlfriend.json](./129718-sushi-girlfriend.json) |
 | Sushi Gun | 181867 | [181867-sushi-gun.json](./181867-sushi-gun.json) |
 | Sushi Loop | 409770 | [409770-sushi-loop.json](./409770-sushi-loop.json) |
@@ -17927,6 +17931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SWAT Elite Troops | 76202 | [76202-swat-elite-troops.json](./76202-swat-elite-troops.json) |
 | SWAT Force | 76201 | [76201-swat-force.json](./76201-swat-force.json) |
 | SWAT God | 407444 | [407444-swat-god.json](./407444-swat-god.json) |
+| Swat Kats | 218946 | [218946-swat-kats.json](./218946-swat-kats.json) |
 | SWAT Siege | 336032 | [336032-swat-siege.json](./336032-swat-siege.json) |
 | SWAT: Target Liberty | 319 | [319-swat-target-liberty.json](./319-swat-target-liberty.json) |
 | Swat! | 60557 | [60557-swat.json](./60557-swat.json) |
