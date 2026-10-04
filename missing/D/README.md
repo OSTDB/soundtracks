@@ -4388,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Erdnussbutter | 285978 | [285978-die-erdnussbutter.json](./285978-die-erdnussbutter.json) |
 | Die Fast | 338289 | [338289-die-fast.json](./338289-die-fast.json) |
 | Die First | 414557 | [414557-die-first.json](./414557-die-first.json) |
+| Die For Metal | 197703 | [197703-die-for-metal.json](./197703-die-for-metal.json) |
 | Die for Valhalla! | 40868 | [40868-die-for-valhalla.json](./40868-die-for-valhalla.json) |
 | Die for Valhalla!: Special Edition | 122357 | [122357-die-for-valhalla-special-edition.json](./122357-die-for-valhalla-special-edition.json) |
 | Die Fugger | 86040 | [86040-die-fugger.json](./86040-die-fugger.json) |
@@ -7763,6 +7764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon: The Bruce Lee Story | 218422 | [218422-dragon-the-bruce-lee-story.json](./218422-dragon-the-bruce-lee-story.json) |
 | Dragon: The Game | 36282 | [36282-dragon-the-game.json](./36282-dragon-the-game.json) |
 | Dragon's Bane | 148541 | [148541-dragons-bane.json](./148541-dragons-bane.json) |
+| Dragon's Blade: HoL | 197723 | [197723-dragons-blade-hol.json](./197723-dragons-blade-hol.json) |
 | Dragon's Crown | 3002 | [3002-dragons-crown.json](./3002-dragons-crown.json) |
 | Dragon's Crown Pro | 68283 | [68283-dragons-crown-pro.json](./68283-dragons-crown-pro.json) |
 | Dragon's Crown Pro: Royal Package | 167136 | [167136-dragons-crown-pro-royal-package.json](./167136-dragons-crown-pro-royal-package.json) |
@@ -9388,6 +9390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Solitaire | 341127 | [341127-dungeon-solitaire.json](./341127-dungeon-solitaire.json) |
 | Dungeon Solver | 133338 | [133338-dungeon-solver.json](./133338-dungeon-solver.json) |
 | Dungeon Squad | 225764 | [225764-dungeon-squad.json](./225764-dungeon-squad.json) |
+| Dungeon Square | 197739 | [197739-dungeon-square.json](./197739-dungeon-square.json) |
 | Dungeon Stalkers | 255912 | [255912-dungeon-stalkers.json](./255912-dungeon-stalkers.json) |
 | Dungeon Striker | 63256 | [63256-dungeon-striker.json](./63256-dungeon-striker.json) |
 | Dungeon Superballs | 56132 | [56132-dungeon-superballs.json](./56132-dungeon-superballs.json) |
