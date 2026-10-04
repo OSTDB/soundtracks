@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Awakens | 342897 | [342897-undead-awakens.json](./342897-undead-awakens.json) |
 | Undead Blackout | 34425 | [34425-undead-blackout.json](./34425-undead-blackout.json) |
 | Undead Bowling | 62273 | [62273-undead-bowling.json](./62273-undead-bowling.json) |
+| Undead Breakout | 196625 | [196625-undead-breakout.json](./196625-undead-breakout.json) |
 | Undead Carnage League | 233059 | [233059-undead-carnage-league.json](./233059-undead-carnage-league.json) |
 | Undead Carnival Carnage | 180314 | [180314-undead-carnival-carnage.json](./180314-undead-carnival-carnage.json) |
 | Undead Chronicles | 394452 | [394452-undead-chronicles.json](./394452-undead-chronicles.json) |
@@ -1383,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlimited Hearts | 67243 | [67243-unlimited-hearts.json](./67243-unlimited-hearts.json) |
 | Unline | 278501 | [278501-unline.json](./278501-unline.json) |
 | Unload | 412472 | [412472-unload.json](./412472-unload.json) |
+| Unlock Kimono Cuties | 196667 | [196667-unlock-kimono-cuties.json](./196667-unlock-kimono-cuties.json) |
 | Unlock Me | 114165 | [114165-unlock-me.json](./114165-unlock-me.json) |
 | Unlock Me | 338587 | [338587-unlock-me.json](./338587-unlock-me.json) |
 | Unlock the Block | 166756 | [166756-unlock-the-block.json](./166756-unlock-the-block.json) |
