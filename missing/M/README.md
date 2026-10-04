@@ -1495,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Spark: Forgotten Crypts | 238187 | [238187-mana-spark-forgotten-crypts.json](./238187-mana-spark-forgotten-crypts.json) |
 | Mana Valley | 211189 | [211189-mana-valley.json](./211189-mana-valley.json) |
 | Mana's Manual | 248884 | [248884-manas-manual.json](./248884-manas-manual.json) |
+| Manabi Get! | 222205 | [222205-manabi-get.json](./222205-manabi-get.json) |
 | Manacle | 238453 | [238453-manacle.json](./238453-manacle.json) |
 | Manacrest Online | 133310 | [133310-manacrest-online.json](./133310-manacrest-online.json) |
 | Manafall | 244186 | [244186-manafall.json](./244186-manafall.json) |
@@ -4366,6 +4367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meitantei Holmes: Kiri no London Satsujin Jiken | 48778 | [48778-meitantei-holmes-kiri-no-london-satsujin-jiken.json](./48778-meitantei-holmes-kiri-no-london-satsujin-jiken.json) |
 | Meitantei Holmes: M kara no Chousenjou | 48777 | [48777-meitantei-holmes-m-kara-no-chousenjou.json](./48777-meitantei-holmes-m-kara-no-chousenjou.json) |
 | Meitantei no Nazotoki Suuri: Thrill to Suspence no Jiken Kaiketsu Nazotoki Game | 240223 | [240223-meitantei-no-nazotoki-suuri-thrill-to-suspence-no-jiken-kaiketsu-nazotoki-game.json](./240223-meitantei-no-nazotoki-suuri-thrill-to-suspence-no-jiken-kaiketsu-nazotoki-game.json) |
+| Meitantei Pikachu: Shin Konbi Tanjou | 222360 | [222360-meitantei-pikachu-shin-konbi-tanjou.json](./222360-meitantei-pikachu-shin-konbi-tanjou.json) |
 | Meka Sigurat | 232931 | [232931-meka-sigurat.json](./232931-meka-sigurat.json) |
 | Mekabolt | 120032 | [120032-mekabolt.json](./120032-mekabolt.json) |
 | Mekabolt+ | 192300 | [192300-mekabolt.json](./192300-mekabolt.json) |
@@ -7915,6 +7917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mononobe no Futo to Muttsu no Shiren | 206958 | [206958-mononobe-no-futo-to-muttsu-no-shiren.json](./206958-mononobe-no-futo-to-muttsu-no-shiren.json) |
 | Mononoke Chigiri | 343948 | [343948-mononoke-chigiri.json](./343948-mononoke-chigiri.json) |
 | Mononoke no Kuni | 270069 | [270069-mononoke-no-kuni.json](./270069-mononoke-no-kuni.json) |
+| Mononoke Tantei: Nobuta no Ayakashi Jikenbo | 222361 | [222361-mononoke-tantei-nobuta-no-ayakashi-jikenbo.json](./222361-mononoke-tantei-nobuta-no-ayakashi-jikenbo.json) |
 | Monopoly | 131463 | [131463-monopoly.json](./131463-monopoly.json) |
 | Monopoly | 131548 | [131548-monopoly.json](./131548-monopoly.json) |
 | Monopoly | 186723 | [186723-monopoly.json](./186723-monopoly.json) |
