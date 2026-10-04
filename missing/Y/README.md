@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshiwara Higanbana: Kuon no Chigiri | 110335 | [110335-yoshiwara-higanbana-kuon-no-chigiri.json](./110335-yoshiwara-higanbana-kuon-no-chigiri.json) |
 | Yosumin! | 9309 | [9309-yosumin.json](./9309-yosumin.json) |
 | Yots | 408062 | [408062-yots.json](./408062-yots.json) |
+| Yotsume God | 202709 | [202709-yotsume-god.json](./202709-yotsume-god.json) |
 | Yotsunoha ~A Journey of Sincerity~ | 140528 | [140528-yotsunoha-a-journey-of-sincerity.json](./140528-yotsunoha-a-journey-of-sincerity.json) |
 | You | 372568 | [372568-you.json](./372568-you.json) |
 | You All Know! Arm Tank Volley | 390269 | [390269-you-all-know-arm-tank-volley.json](./390269-you-all-know-arm-tank-volley.json) |
