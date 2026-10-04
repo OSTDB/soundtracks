@@ -1253,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eliminator | 12063 | [12063-eliminator.json](./12063-eliminator.json) |
 | Eliminator | 354648 | [354648-eliminator.json](./354648-eliminator.json) |
 | Eliminator | 81465 | [81465-eliminator.json](./81465-eliminator.json) |
+| Elin | 221102 | [221102-elin.json](./221102-elin.json) |
 | Elios VR | 171922 | [171922-elios-vr.json](./171922-elios-vr.json) |
 | Eliosi's Hunt | 32277 | [32277-eliosis-hunt.json](./32277-eliosis-hunt.json) |
 | EliosM: Red Battlefield | 174802 | [174802-eliosm-red-battlefield.json](./174802-eliosm-red-battlefield.json) |
@@ -1677,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EmyLiveShow: Hentai Puzzle Game | 264774 | [264774-emyliveshow-hentai-puzzle-game.json](./264774-emyliveshow-hentai-puzzle-game.json) |
 | Emzombed | 267473 | [267473-emzombed.json](./267473-emzombed.json) |
 | En Passant | 234059 | [234059-en-passant.json](./234059-en-passant.json) |
+| En Route 66 | 221216 | [221216-en-route-66.json](./221216-en-route-66.json) |
 | En-Fem-E No. 9: Reborn | 195780 | [195780-en-fem-e-no-9-reborn.json](./195780-en-fem-e-no-9-reborn.json) |
 | En-Fem-E No. 9: The Factory | 288226 | [288226-en-fem-e-no-9-the-factory.json](./288226-en-fem-e-no-9-the-factory.json) |
 | Enamel | 64137 | [64137-enamel.json](./64137-enamel.json) |
@@ -2828,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escapee GO! | 67059 | [67059-escapee-go.json](./67059-escapee-go.json) |
 | EscapeeZ | 117783 | [117783-escapeez.json](./117783-escapeez.json) |
 | Escapeland | 264714 | [264714-escapeland.json](./264714-escapeland.json) |
+| Escapepion | 221079 | [221079-escapepion.json](./221079-escapepion.json) |
 | Escapers | 210853 | [210853-escapers.json](./210853-escapers.json) |
 | Escapeworld Dilemma | 150526 | [150526-escapeworld-dilemma.json](./150526-escapeworld-dilemma.json) |
 | Escaping | 180577 | [180577-escaping.json](./180577-escaping.json) |
@@ -3346,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ever Planet | 67290 | [67290-ever-planet.json](./67290-ever-planet.json) |
 | Ever Seen A Cat? 3 | 211179 | [211179-ever-seen-a-cat-3.json](./211179-ever-seen-a-cat-3.json) |
 | Ever War | 349995 | [349995-ever-war.json](./349995-ever-war.json) |
+| Ever17 | 221220 | [221220-ever17.json](./221220-ever17.json) |
 | Ever17: CrossOver Impression | 231449 | [231449-ever17-crossover-impression.json](./231449-ever17-crossover-impression.json) |
 | Everbark | 397202 | [397202-everbark.json](./397202-everbark.json) |
 | Everbee | 270130 | [270130-everbee.json](./270130-everbee.json) |
