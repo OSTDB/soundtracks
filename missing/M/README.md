@@ -3112,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maui The Shapeshifter | 314425 | [314425-maui-the-shapeshifter.json](./314425-maui-the-shapeshifter.json) |
 | Mauled | 239681 | [239681-mauled.json](./239681-mauled.json) |
 | Maumau and the Labyrinth | 330860 | [330860-maumau-and-the-labyrinth.json](./330860-maumau-and-the-labyrinth.json) |
+| Mauri Mursu's Hangover | 224609 | [224609-mauri-mursus-hangover.json](./224609-mauri-mursus-hangover.json) |
 | Maurice Sendak's Little Bear: Toddler Discovery Adventures | 316781 | [316781-maurice-sendaks-little-bear-toddler-discovery-adventures.json](./316781-maurice-sendaks-little-bear-toddler-discovery-adventures.json) |
 | Maurice: In the Predator's Nest | 227770 | [227770-maurice-in-the-predators-nest.json](./227770-maurice-in-the-predators-nest.json) |
 | Mauritius Atoll | 176294 | [176294-mauritius-atoll.json](./176294-mauritius-atoll.json) |
@@ -9176,6 +9177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorcycle Racing: Hill Up Cha | 108641 | [108641-motorcycle-racing-hill-up-cha.json](./108641-motorcycle-racing-hill-up-cha.json) |
 | Motorcycle RPG | 196815 | [196815-motorcycle-rpg.json](./196815-motorcycle-rpg.json) |
 | Motorcycles: World Championship | 312113 | [312113-motorcycles-world-championship.json](./312113-motorcycles-world-championship.json) |
+| Motordoom | 224614 | [224614-motordoom.json](./224614-motordoom.json) |
 | MotorGun | 63394 | [63394-motorgun.json](./63394-motorgun.json) |
 | Motorhome: Traveling America - Collector's Edition | 356772 | [356772-motorhome-traveling-america-collectors-edition.json](./356772-motorhome-traveling-america-collectors-edition.json) |
 | Motorhome: Traveling North America 2 - Collector's Edition | 377671 | [377671-motorhome-traveling-north-america-2-collectors-edition.json](./377671-motorhome-traveling-north-america-2-collectors-edition.json) |
