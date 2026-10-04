@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M3 - Molesting the Match-3 Market | 94232 | [94232-m3-molesting-the-match-3-market.json](./94232-m3-molesting-the-match-3-market.json) |
 | M3 Sono Kuroki Hagane: Mission Memento Mori | 61663 | [61663-m3-sono-kuroki-hagane-mission-memento-mori.json](./61663-m3-sono-kuroki-hagane-mission-memento-mori.json) |
 | M3nticid3: Control Group | 393018 | [393018-m3nticid3-control-group.json](./393018-m3nticid3-control-group.json) |
+| M87 | 200511 | [200511-m87.json](./200511-m87.json) |
 | Ma première visite à la tour du sens | 345578 | [345578-ma-premiere-visite-a-la-tour-du-sens.json](./345578-ma-premiere-visite-a-la-tour-du-sens.json) |
 | Ma3 | 252667 | [252667-ma3.json](./252667-ma3.json) |
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
@@ -1917,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario + Wario Complete | 318037 | [318037-mario-wario-complete.json](./318037-mario-wario-complete.json) |
 | Mario 128 | 130354 | [130354-mario-128.json](./130354-mario-128.json) |
 | Mario 3: Vokrug Svyeta | 202673 | [202673-mario-3-vokrug-svyeta.json](./202673-mario-3-vokrug-svyeta.json) |
+| Mario 4: Kosmichyeskaya Odissyeya | 200539 | [200539-mario-4-kosmichyeskaya-odissyeya.json](./200539-mario-4-kosmichyeskaya-odissyeya.json) |
 | Mario 64 x Banjo Kazooie | 134018 | [134018-mario-64-x-banjo-kazooie.json](./134018-mario-64-x-banjo-kazooie.json) |
 | Mario 7-in-1 | 242230 | [242230-mario-7-in-1.json](./242230-mario-7-in-1.json) |
 | Mario a Plumber in Time Re-Mastered | 294773 | [294773-mario-a-plumber-in-time-re-mastered.json](./294773-mario-a-plumber-in-time-re-mastered.json) |
@@ -4441,6 +4443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melod | 235145 | [235145-melod.json](./235145-melod.json) |
 | Melodic Riddle | 75774 | [75774-melodic-riddle.json](./75774-melodic-riddle.json) |
 | Melodie | 334214 | [334214-melodie.json](./334214-melodie.json) |
+| Melodier | 200509 | [200509-melodier.json](./200509-melodier.json) |
 | Melodive | 125465 | [125465-melodive.json](./125465-melodive.json) |
 | Melodramatica | 158665 | [158665-melodramatica.json](./158665-melodramatica.json) |
 | Melody | 127902 | [127902-melody.json](./127902-melody.json) |
@@ -7418,6 +7421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mob Control: Triple Backup | 277899 | [277899-mob-control-triple-backup.json](./277899-mob-control-triple-backup.json) |
 | Mob Drop Castle | 406078 | [406078-mob-drop-castle.json](./406078-mob-drop-castle.json) |
 | Mob Enforcer | 78380 | [78380-mob-enforcer.json](./78380-mob-enforcer.json) |
+| Mob Hunter | 200493 | [200493-mob-hunter.json](./200493-mob-hunter.json) |
 | Mob Psycho 100: Psychic Battle | 120274 | [120274-mob-psycho-100-psychic-battle.json](./120274-mob-psycho-100-psychic-battle.json) |
 | Mob Stadium | 40427 | [40427-mob-stadium.json](./40427-mob-stadium.json) |
 | MOB the Robot | 330514 | [330514-mob-the-robot.json](./330514-mob-the-robot.json) |
