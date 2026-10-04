@@ -7004,6 +7004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Sex Madness | 367034 | [367034-furry-sex-madness.json](./367034-furry-sex-madness.json) |
 | Furry Sex Resort | 309687 | [309687-furry-sex-resort.json](./309687-furry-sex-resort.json) |
 | Furry Sex: GameDev Story | 220595 | [220595-furry-sex-gamedev-story.json](./220595-furry-sex-gamedev-story.json) |
+| Furry Sex: Pirates | 213993 | [213993-furry-sex-pirates.json](./213993-furry-sex-pirates.json) |
 | Furry Sex: Poker | 212192 | [212192-furry-sex-poker.json](./212192-furry-sex-poker.json) |
 | Furry Sexy Girls | 375951 | [375951-furry-sexy-girls.json](./375951-furry-sexy-girls.json) |
 | Furry Shades of Gay | 165025 | [165025-furry-shades-of-gay.json](./165025-furry-shades-of-gay.json) |
