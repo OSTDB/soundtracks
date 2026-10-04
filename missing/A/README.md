@@ -4931,6 +4931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animatronic Memories | 338945 | [338945-animatronic-memories.json](./338945-animatronic-memories.json) |
 | Animdle | 337097 | [337097-animdle.json](./337097-animdle.json) |
 | Anime and Your Life | 111778 | [111778-anime-and-your-life.json](./111778-anime-and-your-life.json) |
+| Anime Armpits | 202646 | [202646-anime-armpits.json](./202646-anime-armpits.json) |
 | Anime Artist | 280177 | [280177-anime-artist.json](./280177-anime-artist.json) |
 | Anime Artist 2: Lovely Danya | 129685 | [129685-anime-artist-2-lovely-danya.json](./129685-anime-artist-2-lovely-danya.json) |
 | Anime Artist 3: Harem | 158160 | [158160-anime-artist-3-harem.json](./158160-anime-artist-3-harem.json) |
