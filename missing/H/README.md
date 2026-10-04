@@ -4472,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Agent | 244802 | [244802-hockey-agent.json](./244802-hockey-agent.json) |
 | Hockey Allstar Shootout | 85182 | [85182-hockey-allstar-shootout.json](./85182-hockey-allstar-shootout.json) |
 | Hockey Blitz | 244800 | [244800-hockey-blitz.json](./244800-hockey-blitz.json) |
+| Hockey Classic 16 | 175252 | [175252-hockey-classic-16.json](./175252-hockey-classic-16.json) |
 | Hockey Club | 361733 | [361733-hockey-club.json](./361733-hockey-club.json) |
 | Hockey Fight Pro | 102579 | [102579-hockey-fight-pro.json](./102579-hockey-fight-pro.json) |
 | Hockey Fights | 93559 | [93559-hockey-fights.json](./93559-hockey-fights.json) |
@@ -5097,6 +5098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HooperVania | 265859 | [265859-hoopervania.json](./265859-hoopervania.json) |
 | Hooplord | 132611 | [132611-hooplord.json](./132611-hooplord.json) |
 | Hoops Madness | 140354 | [140354-hoops-madness.json](./140354-hoops-madness.json) |
+| Hoops Manager 2 | 175249 | [175249-hoops-manager-2.json](./175249-hoops-manager-2.json) |
 | Hoops Mania | 417382 | [417382-hoops-mania.json](./417382-hoops-mania.json) |
 | Hoops: Shut Up and Jam | 245294 | [245294-hoops-shut-up-and-jam.json](./245294-hoops-shut-up-and-jam.json) |
 | Hoops: Shut Up and Jam 2 | 245293 | [245293-hoops-shut-up-and-jam-2.json](./245293-hoops-shut-up-and-jam-2.json) |
