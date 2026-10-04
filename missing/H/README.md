@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Blood RPG | 163735 | [163735-half-blood-rpg.json](./163735-half-blood-rpg.json) |
 | Half Built: Casino | 211721 | [211721-half-built-casino.json](./211721-half-built-casino.json) |
 | Half Empty | 103510 | [103510-half-empty.json](./103510-half-empty.json) |
+| Half Hour Hexagon | 220027 | [220027-half-hour-hexagon.json](./220027-half-hour-hexagon.json) |
 | Half Hour RPG | 415187 | [415187-half-hour-rpg.json](./415187-half-hour-rpg.json) |
 | Half Light | 374840 | [374840-half-light.json](./374840-half-light.json) |
 | Half Moon ni Kawaru made: Ramiya Ryo no Niji-iro Tamate-bako | 198534 | [198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json](./198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json) |
@@ -412,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Stories: Written in Blood - Collector's Edition | 362850 | [362850-halloween-stories-written-in-blood-collectors-edition.json](./362850-halloween-stories-written-in-blood-collectors-edition.json) |
 | Halloween Tripeaks | 61047 | [61047-halloween-tripeaks.json](./61047-halloween-tripeaks.json) |
 | Halloween Trouble 2 | 155647 | [155647-halloween-trouble-2.json](./155647-halloween-trouble-2.json) |
+| Halloween Trouble 4 | 220029 | [220029-halloween-trouble-4.json](./220029-halloween-trouble-4.json) |
 | Halloween Trouble 5 | 270149 | [270149-halloween-trouble-5.json](./270149-halloween-trouble-5.json) |
 | Halloween Trouble 6: Pumpkin Rampage | 371900 | [371900-halloween-trouble-6-pumpkin-rampage.json](./371900-halloween-trouble-6-pumpkin-rampage.json) |
 | Halloween Trouble 7: The Apprentice | 417521 | [417521-halloween-trouble-7-the-apprentice.json](./417521-halloween-trouble-7-the-apprentice.json) |
@@ -431,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halls of Things | 23047 | [23047-halls-of-things.json](./23047-halls-of-things.json) |
 | Halls of Torment | 235846 | [235846-halls-of-torment.json](./235846-halls-of-torment.json) |
 | Hallucinations | 358287 | [358287-hallucinations.json](./358287-hallucinations.json) |
+| Hallway Defender | 220030 | [220030-hallway-defender.json](./220030-hallway-defender.json) |
 | Hallway Gunners | 363057 | [363057-hallway-gunners.json](./363057-hallway-gunners.json) |
 | Hallway of Horrors | 319804 | [319804-hallway-of-horrors.json](./319804-hallway-of-horrors.json) |
 | Hallways | 280421 | [280421-hallways.json](./280421-hallways.json) |
@@ -642,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of the Gods: Core Set Bundle | 90575 | [90575-hand-of-the-gods-core-set-bundle.json](./90575-hand-of-the-gods-core-set-bundle.json) |
 | Hand Simulator | 44143 | [44143-hand-simulator.json](./44143-hand-simulator.json) |
 | Hand Simulator: Aliens | 264579 | [264579-hand-simulator-aliens.json](./264579-hand-simulator-aliens.json) |
+| Hand Simulator: Rendezvous | 220031 | [220031-hand-simulator-rendezvous.json](./220031-hand-simulator-rendezvous.json) |
 | Hand Simulator: Shooter | 326407 | [326407-hand-simulator-shooter.json](./326407-hand-simulator-shooter.json) |
 | Hand to Hand Combat | 118004 | [118004-hand-to-hand-combat.json](./118004-hand-to-hand-combat.json) |
 | Hand to Hand Combat VR | 122984 | [122984-hand-to-hand-combat-vr.json](./122984-hand-to-hand-combat-vr.json) |
@@ -679,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HandyCopter | 89959 | [89959-handycopter.json](./89959-handycopter.json) |
 | Handyman | 216202 | [216202-handyman.json](./216202-handyman.json) |
 | Handyman Fantasy | 368078 | [368078-handyman-fantasy.json](./368078-handyman-fantasy.json) |
+| Handyman Legend | 220032 | [220032-handyman-legend.json](./220032-handyman-legend.json) |
 | Haneda Girl | 222901 | [222901-haneda-girl.json](./222901-haneda-girl.json) |
 | HaneHolo! | 372619 | [372619-haneholo.json](./372619-haneholo.json) |
 | Haneru no Tobira Wii: Kirigirisu | 266282 | [266282-haneru-no-tobira-wii-kirigirisu.json](./266282-haneru-no-tobira-wii-kirigirisu.json) |
@@ -997,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Parkour | 119765 | [119765-hardcore-parkour.json](./119765-hardcore-parkour.json) |
 | Hardcore Soldier | 406214 | [406214-hardcore-soldier.json](./406214-hardcore-soldier.json) |
 | Hardcore Trivia | 169848 | [169848-hardcore-trivia.json](./169848-hardcore-trivia.json) |
+| HardCube 2 | 220033 | [220033-hardcube-2.json](./220033-hardcube-2.json) |
 | HardDriverz | 365150 | [365150-harddriverz.json](./365150-harddriverz.json) |
 | Harder | 334707 | [334707-harder.json](./334707-harder.json) |
 | Harder Parkour | 380117 | [380117-harder-parkour.json](./380117-harder-parkour.json) |
@@ -2935,6 +2941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Hunters: Jurassic Shooting Sniper | 104069 | [104069-hero-hunters-jurassic-shooting-sniper.json](./104069-hero-hunters-jurassic-shooting-sniper.json) |
 | Hero in an All-forgiving Fantasy World RPG | 357423 | [357423-hero-in-an-all-forgiving-fantasy-world-rpg.json](./357423-hero-in-an-all-forgiving-fantasy-world-rpg.json) |
 | Hero in the Castle of Doom | 40173 | [40173-hero-in-the-castle-of-doom.json](./40173-hero-in-the-castle-of-doom.json) |
+| Hero Jumper | 220034 | [220034-hero-jumper.json](./220034-hero-jumper.json) |
 | Hero Legend | 246338 | [246338-hero-legend.json](./246338-hero-legend.json) |
 | Hero Like | 396188 | [396188-hero-like.json](./396188-hero-like.json) |
 | Hero Link | 390194 | [390194-hero-link.json](./390194-hero-link.json) |
@@ -3501,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Collection - Fun Seek and Find Hidden Object Puzzles | 90370 | [90370-hidden-collection-fun-seek-and-find-hidden-object-puzzles.json](./90370-hidden-collection-fun-seek-and-find-hidden-object-puzzles.json) |
 | Hidden Cubes | 74459 | [74459-hidden-cubes.json](./74459-hidden-cubes.json) |
 | Hidden Cursed Crypt | 323930 | [323930-hidden-cursed-crypt.json](./323930-hidden-cursed-crypt.json) |
+| Hidden Desire | 220035 | [220035-hidden-desire.json](./220035-hidden-desire.json) |
 | Hidden Dimensions 3 | 31191 | [31191-hidden-dimensions-3.json](./31191-hidden-dimensions-3.json) |
 | Hidden Dose | 184598 | [184598-hidden-dose.json](./184598-hidden-dose.json) |
 | Hidden Dragon: Legend | 45095 | [45095-hidden-dragon-legend.json](./45095-hidden-dragon-legend.json) |
@@ -3698,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Oddities | 302099 | [302099-hidden-oddities.json](./302099-hidden-oddities.json) |
 | Hidden Oddities in Everyday Life Mystery | 403715 | [403715-hidden-oddities-in-everyday-life-mystery.json](./403715-hidden-oddities-in-everyday-life-mystery.json) |
 | Hidden Office | 152739 | [152739-hidden-office.json](./152739-hidden-office.json) |
+| Hidden Office Top-Down 3D | 220036 | [220036-hidden-office-top-down-3d.json](./220036-hidden-office-top-down-3d.json) |
 | Hidden Old House Top-Down 3D | 302062 | [302062-hidden-old-house-top-down-3d.json](./302062-hidden-old-house-top-down-3d.json) |
 | Hidden Paradise: Aloha with Love - Collector's Edition | 362831 | [362831-hidden-paradise-aloha-with-love-collectors-edition.json](./362831-hidden-paradise-aloha-with-love-collectors-edition.json) |
 | Hidden Paradise: Kiwi Christmas - Collector's Edition | 399130 | [399130-hidden-paradise-kiwi-christmas-collectors-edition.json](./399130-hidden-paradise-kiwi-christmas-collectors-edition.json) |
@@ -3728,6 +3737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden SciFi City Top-Down 3D | 257110 | [257110-hidden-scifi-city-top-down-3d.json](./257110-hidden-scifi-city-top-down-3d.json) |
 | Hidden Series 1 | 258194 | [258194-hidden-series-1.json](./258194-hidden-series-1.json) |
 | Hidden Shapes: Animals + Lovely Cats | 194437 | [194437-hidden-shapes-animals-lovely-cats.json](./194437-hidden-shapes-animals-lovely-cats.json) |
+| Hidden Shapes: Cat Realm | 220037 | [220037-hidden-shapes-cat-realm.json](./220037-hidden-shapes-cat-realm.json) |
 | Hidden Shapes: Lovely Cats | 148466 | [148466-hidden-shapes-lovely-cats.json](./148466-hidden-shapes-lovely-cats.json) |
 | Hidden Sheep Puzzle | 395839 | [395839-hidden-sheep-puzzle.json](./395839-hidden-sheep-puzzle.json) |
 | Hidden Shelter | 139342 | [139342-hidden-shelter.json](./139342-hidden-shelter.json) |
@@ -5320,6 +5330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hospital Havoc | 85179 | [85179-hospital-havoc.json](./85179-hospital-havoc.json) |
 | Hospital Hustle | 52235 | [52235-hospital-hustle.json](./52235-hospital-hustle.json) |
 | Hospital Tycoon | 10133 | [10133-hospital-tycoon.json](./10133-hospital-tycoon.json) |
+| Hospital Tycoon | 220171 | [220171-hospital-tycoon.json](./220171-hospital-tycoon.json) |
 | Hospitality VR | 160135 | [160135-hospitality-vr.json](./160135-hospitality-vr.json) |
 | Hospitalize | 31983 | [31983-hospitalize.json](./31983-hospitalize.json) |
 | Host | 104007 | [104007-host.json](./104007-host.json) |
