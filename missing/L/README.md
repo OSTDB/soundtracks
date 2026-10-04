@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth City: Pierre the Maze Detective | 145786 | [145786-labyrinth-city-pierre-the-maze-detective.json](./145786-labyrinth-city-pierre-the-maze-detective.json) |
 | Labyrinth DeLux: A Crusoe Quest | 192229 | [192229-labyrinth-delux-a-crusoe-quest.json](./192229-labyrinth-delux-a-crusoe-quest.json) |
 | Labyrinth Eternal | 187898 | [187898-labyrinth-eternal.json](./187898-labyrinth-eternal.json) |
+| Labyrinth Inf | 181104 | [181104-labyrinth-inf.json](./181104-labyrinth-inf.json) |
 | Labyrinth Lunacy | 104694 | [104694-labyrinth-lunacy.json](./104694-labyrinth-lunacy.json) |
 | Labyrinth Master | 356672 | [356672-labyrinth-master.json](./356672-labyrinth-master.json) |
 | Labyrinth of Anxiety | 413128 | [413128-labyrinth-of-anxiety.json](./413128-labyrinth-of-anxiety.json) |
@@ -3740,6 +3741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loki | 19358 | [19358-loki.json](./19358-loki.json) |
 | Loki the Lynx | 364499 | [364499-loki-the-lynx.json](./364499-loki-the-lynx.json) |
 | Loki's Revenge | 312154 | [312154-lokis-revenge.json](./312154-lokis-revenge.json) |
+| LoL Sketch | 181186 | [181186-lol-sketch.json](./181186-lol-sketch.json) |
 | Lola and the Giant | 110325 | [110325-lola-and-the-giant.json](./110325-lola-and-the-giant.json) |
 | Lola: The Escape | 170930 | [170930-lola-the-escape.json](./170930-lola-the-escape.json) |
 | Lola's ABC Party - Learn to Read | 88344 | [88344-lolas-abc-party-learn-to-read.json](./88344-lolas-abc-party-learn-to-read.json) |
