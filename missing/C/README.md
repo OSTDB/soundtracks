@@ -7809,6 +7809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | County Hospital Outbreak | 405700 | [405700-county-hospital-outbreak.json](./405700-county-hospital-outbreak.json) |
 | County of Fortune | 327218 | [327218-county-of-fortune.json](./327218-county-of-fortune.json) |
 | CoupButat | 242568 | [242568-coupbutat.json](./242568-coupbutat.json) |
+| Couple Life 3D | 224066 | [224066-couple-life-3d.json](./224066-couple-life-3d.json) |
 | Couple-Cultivation Saves the World | 324669 | [324669-couple-cultivation-saves-the-world.json](./324669-couple-cultivation-saves-the-world.json) |
 | Coupling | 357425 | [357425-coupling.json](./357425-coupling.json) |
 | Courage | 207519 | [207519-courage.json](./207519-courage.json) |
@@ -9145,6 +9146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown of Arthain | 129812 | [129812-crown-of-arthain.json](./129812-crown-of-arthain.json) |
 | Crown of Ashes and Flames | 319113 | [319113-crown-of-ashes-and-flames.json](./319113-crown-of-ashes-and-flames.json) |
 | Crown Of Blight | 417413 | [417413-crown-of-blight.json](./417413-crown-of-blight.json) |
+| Crown of Empire | 224068 | [224068-crown-of-empire.json](./224068-crown-of-empire.json) |
 | Crown of Greed | 216725 | [216725-crown-of-greed.json](./216725-crown-of-greed.json) |
 | Crown of Hispania | 403203 | [403203-crown-of-hispania.json](./403203-crown-of-hispania.json) |
 | Crown of Light | 249846 | [249846-crown-of-light.json](./249846-crown-of-light.json) |
@@ -10256,6 +10258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Rage: Retribution | 116827 | [116827-cyber-rage-retribution.json](./116827-cyber-rage-retribution.json) |
 | Cyber Rail | 267468 | [267468-cyber-rail.json](./267468-cyber-rail.json) |
 | Cyber Rats | 336523 | [336523-cyber-rats.json](./336523-cyber-rats.json) |
+| Cyber Rebellion | 224065 | [224065-cyber-rebellion.json](./224065-cyber-rebellion.json) |
 | Cyber Rescue: Virus Eruption | 180573 | [180573-cyber-rescue-virus-eruption.json](./180573-cyber-rescue-virus-eruption.json) |
 | Cyber Revolution | 339357 | [339357-cyber-revolution.json](./339357-cyber-revolution.json) |
 | Cyber Rider | 155671 | [155671-cyber-rider.json](./155671-cyber-rider.json) |
