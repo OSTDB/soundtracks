@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pango Build City | 89761 | [89761-pango-build-city.json](./89761-pango-build-city.json) |
 | Pango Build Safari | 105768 | [105768-pango-build-safari.json](./105768-pango-build-safari.json) |
 | Pango Hide and seek | 90706 | [90706-pango-hide-and-seek.json](./90706-pango-hide-and-seek.json) |
+| Pango Kumo | 197731 | [197731-pango-kumo.json](./197731-pango-kumo.json) |
 | Pangolin Cassowary | 266181 | [266181-pangolin-cassowary.json](./266181-pangolin-cassowary.json) |
 | Pangolin Love: Day 1 - Ghana | 375812 | [375812-pangolin-love-day-1-ghana.json](./375812-pangolin-love-day-1-ghana.json) |
 | Pangolin Love: Day 2 - India | 375813 | [375813-pangolin-love-day-2-india.json](./375813-pangolin-love-day-2-india.json) |
@@ -3872,6 +3873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pip's Potion Shop | 391289 | [391289-pips-potion-shop.json](./391289-pips-potion-shop.json) |
 | Pip's Tale | 382449 | [382449-pips-tale.json](./382449-pips-tale.json) |
 | Pipe | 358445 | [358445-pipe.json](./358445-pipe.json) |
+| Pipe Ball | 197732 | [197732-pipe-ball.json](./197732-pipe-ball.json) |
 | Pipe by BMX Streets | 89977 | [89977-pipe-by-bmx-streets.json](./89977-pipe-by-bmx-streets.json) |
 | Pipe Connect | 290422 | [290422-pipe-connect.json](./290422-pipe-connect.json) |
 | Pipe Cube | 125964 | [125964-pipe-cube.json](./125964-pipe-cube.json) |
@@ -4235,6 +4237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Knights Online | 227375 | [227375-pixel-knights-online.json](./227375-pixel-knights-online.json) |
 | Pixel Legions | 132106 | [132106-pixel-legions.json](./132106-pixel-legions.json) |
 | Pixel Life | 119631 | [119631-pixel-life.json](./119631-pixel-life.json) |
+| Pixel Machines | 197724 | [197724-pixel-machines.json](./197724-pixel-machines.json) |
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
 | Pixel Manager: Football 2021 | 256230 | [256230-pixel-manager-football-2021.json](./256230-pixel-manager-football-2021.json) |
 | Pixel Miner | 333639 | [333639-pixel-miner.json](./333639-pixel-miner.json) |
@@ -6045,6 +6048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Superstars: Invitational Tournament | 61699 | [61699-poker-superstars-invitational-tournament.json](./61699-poker-superstars-invitational-tournament.json) |
 | Poker Supreme: Las Vegas | 174099 | [174099-poker-supreme-las-vegas.json](./174099-poker-supreme-las-vegas.json) |
 | Poker TD | 390103 | [390103-poker-td.json](./390103-poker-td.json) |
+| Poker Tower Defense | 197710 | [197710-poker-tower-defense.json](./197710-poker-tower-defense.json) |
 | Poker Train | 320148 | [320148-poker-train.json](./320148-poker-train.json) |
 | Poker World: Casino Game | 219292 | [219292-poker-world-casino-game.json](./219292-poker-world-casino-game.json) |
 | Poker: Panther Chameleon | 326154 | [326154-poker-panther-chameleon.json](./326154-poker-panther-chameleon.json) |
@@ -8153,6 +8157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hovercraft | 32181 | [32181-project-hovercraft.json](./32181-project-hovercraft.json) |
 | Project Hunt | 253516 | [253516-project-hunt.json](./253516-project-hunt.json) |
 | Project Hybrid | 269223 | [269223-project-hybrid.json](./269223-project-hybrid.json) |
+| Project Hyrax: Beyond Time | 197728 | [197728-project-hyrax-beyond-time.json](./197728-project-hyrax-beyond-time.json) |
 | Project I | 274579 | [274579-project-i.json](./274579-project-i.json) |
 | Project I.G.I. Origins (working title) | 131435 | [131435-project-i-g-i-origins-working-title.json](./131435-project-i-g-i-origins-working-title.json) |
 | Project Ictos | 286057 | [286057-project-ictos.json](./286057-project-ictos.json) |
@@ -8237,6 +8242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Phoenix | 7204 | [7204-project-phoenix.json](./7204-project-phoenix.json) |
 | Project Planet: Earth Vs. Humanity | 236394 | [236394-project-planet-earth-vs-humanity.json](./236394-project-planet-earth-vs-humanity.json) |
 | Project Playtime: Phase 3 - Forsaken | 271727 | [271727-project-playtime-phase-3-forsaken.json](./271727-project-playtime-phase-3-forsaken.json) |
+| Project Plink | 197711 | [197711-project-plink.json](./197711-project-plink.json) |
 | Project Possession | 211950 | [211950-project-possession.json](./211950-project-possession.json) |
 | Project Prison | 157190 | [157190-project-prison.json](./157190-project-prison.json) |
 | Project Progressive | 335406 | [335406-project-progressive.json](./335406-project-progressive.json) |
