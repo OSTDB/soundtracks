@@ -6854,6 +6854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Survival | 218708 | [218708-potato-survival.json](./218708-potato-survival.json) |
 | Potato Thriller | 97100 | [97100-potato-thriller.json](./97100-potato-thriller.json) |
 | Potato Vs. Potato | 341560 | [341560-potato-vs-potato.json](./341560-potato-vs-potato.json) |
+| Potatoes | 197180 | [197180-potatoes.json](./197180-potatoes.json) |
 | Potatostrike | 316140 | [316140-potatostrike.json](./316140-potatostrike.json) |
 | PotDuckRun | 364677 | [364677-potduckrun.json](./364677-potduckrun.json) |
 | Potential Man | 411102 | [411102-potential-man.json](./411102-potential-man.json) |
