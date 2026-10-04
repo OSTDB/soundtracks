@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachaverse (RPG & Anime Dress Up) | 103668 | [103668-gachaverse-rpg-and-anime-dress-up.json](./103668-gachaverse-rpg-and-anime-dress-up.json) |
 | Gachi Dash | 180005 | [180005-gachi-dash.json](./180005-gachi-dash.json) |
 | Gachi Heroes 2: Flexboll | 127191 | [127191-gachi-heroes-2-flexboll.json](./127191-gachi-heroes-2-flexboll.json) |
+| Gachi-Natsu | 222957 | [222957-gachi-natsu.json](./222957-gachi-natsu.json) |
 | Gachimuchi Reloaded | 86314 | [86314-gachimuchi-reloaded.json](./86314-gachimuchi-reloaded.json) |
 | Gachinko Pro Yakyuu | 49567 | [49567-gachinko-pro-yakyuu.json](./49567-gachinko-pro-yakyuu.json) |
 | Gadget Racers | 250446 | [250446-gadget-racers.json](./250446-gadget-racers.json) |
@@ -4702,6 +4703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimdoria | 278135 | [278135-grimdoria.json](./278135-grimdoria.json) |
 | Grime | 260887 | [260887-grime.json](./260887-grime.json) |
 | Grime House | 198452 | [198452-grime-house.json](./198452-grime-house.json) |
+| Grime: Colors of Rot | 222950 | [222950-grime-colors-of-rot.json](./222950-grime-colors-of-rot.json) |
 | Grime: Definitive Edition | 284491 | [284491-grime-definitive-edition.json](./284491-grime-definitive-edition.json) |
 | Grime: Tinge of Terror | 252363 | [252363-grime-tinge-of-terror.json](./252363-grime-tinge-of-terror.json) |
 | Grime&Gold | 345554 | [345554-grime-and-gold.json](./345554-grime-and-gold.json) |
@@ -5541,6 +5543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns & Notes | 81876 | [81876-guns-and-notes.json](./81876-guns-and-notes.json) |
 | Guns 30 | 198476 | [198476-guns-30.json](./198476-guns-30.json) |
 | Guns 4 Hire | 117728 | [117728-guns-4-hire.json](./117728-guns-4-hire.json) |
+| Guns 4 Hire | 222959 | [222959-guns-4-hire.json](./222959-guns-4-hire.json) |
 | Guns and Blood: 2D Zombie Shooter | 96025 | [96025-guns-and-blood-2d-zombie-shooter.json](./96025-guns-and-blood-2d-zombie-shooter.json) |
 | Guns and Braps | 127027 | [127027-guns-and-braps.json](./127027-guns-and-braps.json) |
 | Guns and Donuts | 260635 | [260635-guns-and-donuts.json](./260635-guns-and-donuts.json) |
