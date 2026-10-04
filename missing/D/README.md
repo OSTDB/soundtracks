@@ -8887,6 +8887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducks Ahoy! | 76603 | [76603-ducks-ahoy.json](./76603-ducks-ahoy.json) |
 | Ducks Can Drive | 255159 | [255159-ducks-can-drive.json](./255159-ducks-can-drive.json) |
 | Ducks Can Drive: Penguins Can Too | 264769 | [264769-ducks-can-drive-penguins-can-too.json](./264769-ducks-can-drive-penguins-can-too.json) |
+| Ducks in a Row | 208268 | [208268-ducks-in-a-row.json](./208268-ducks-in-a-row.json) |
 | Ducks in a Row | 288811 | [288811-ducks-in-a-row.json](./288811-ducks-in-a-row.json) |
 | Ducks in Disguise | 411621 | [411621-ducks-in-disguise.json](./411621-ducks-in-disguise.json) |
 | Ducks' Wrath | 148892 | [148892-ducks-wrath.json](./148892-ducks-wrath.json) |
