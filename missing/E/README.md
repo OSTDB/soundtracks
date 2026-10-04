@@ -2759,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room | 76510 | [76510-escape-room.json](./76510-escape-room.json) |
 | Escape Room | 90637 | [90637-escape-room.json](./90637-escape-room.json) |
 | Escape Room Autumn | 224057 | [224057-escape-room-autumn.json](./224057-escape-room-autumn.json) |
+| Escape Room Clock Tower | 193838 | [193838-escape-room-clock-tower.json](./193838-escape-room-clock-tower.json) |
 | Escape Room Collection C1 | 295536 | [295536-escape-room-collection-c1.json](./295536-escape-room-collection-c1.json) |
 | Escape Room Killer: Moon, flowers and the Creepy Ghost | 328530 | [328530-escape-room-killer-moon-flowers-and-the-creepy-ghost.json](./328530-escape-room-killer-moon-flowers-and-the-creepy-ghost.json) |
 | Escape Room Marathon | 410388 | [410388-escape-room-marathon.json](./410388-escape-room-marathon.json) |
@@ -3213,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Train Simulator 2 | 202232 | [202232-euro-train-simulator-2.json](./202232-euro-train-simulator-2.json) |
 | Euro Truck Driver Simulator | 276864 | [276864-euro-truck-driver-simulator.json](./276864-euro-truck-driver-simulator.json) |
 | Euro Truck Life & Logistics Simulators | 221709 | [221709-euro-truck-life-and-logistics-simulators.json](./221709-euro-truck-life-and-logistics-simulators.json) |
+| Euro Truck of Reality | 193803 | [193803-euro-truck-of-reality.json](./193803-euro-truck-of-reality.json) |
 | Euro Truck Simulator 2: Beyond the Baltic Sea | 125011 | [125011-euro-truck-simulator-2-beyond-the-baltic-sea.json](./125011-euro-truck-simulator-2-beyond-the-baltic-sea.json) |
 | Euro Truck Simulator 2: DAF XD | 277585 | [277585-euro-truck-simulator-2-daf-xd.json](./277585-euro-truck-simulator-2-daf-xd.json) |
 | Euro Truck Simulator 2: Farm Machinery | 356654 | [356654-euro-truck-simulator-2-farm-machinery.json](./356654-euro-truck-simulator-2-farm-machinery.json) |
@@ -3292,6 +3294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Tennis Pro | 66949 | [66949-european-tennis-pro.json](./66949-european-tennis-pro.json) |
 | European War | 100604 | [100604-european-war.json](./100604-european-war.json) |
 | European War 5: Empire | 89709 | [89709-european-war-5-empire.json](./89709-european-war-5-empire.json) |
+| European War 7: Medieval | 193821 | [193821-european-war-7-medieval.json](./193821-european-war-7-medieval.json) |
 | Eurydice Exhumed | 264122 | [264122-eurydice-exhumed.json](./264122-eurydice-exhumed.json) |
 | Eutolant Saga | 342054 | [342054-eutolant-saga.json](./342054-eutolant-saga.json) |
 | EV2: Earth Version 2 | 270893 | [270893-ev2-earth-version-2.json](./270893-ev2-earth-version-2.json) |
