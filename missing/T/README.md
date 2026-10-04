@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiwanese Dominatrixes Are the Best | 385703 | [385703-taiwanese-dominatrixes-are-the-best.json](./385703-taiwanese-dominatrixes-are-the-best.json) |
 | TaiWord: A Daily Word Game | 232039 | [232039-taiword-a-daily-word-game.json](./232039-taiword-a-daily-word-game.json) |
 | Taiyo No Miyako | 221422 | [221422-taiyo-no-miyako.json](./221422-taiyo-no-miyako.json) |
+| Taiyou no Otsuge | 209949 | [209949-taiyou-no-otsuge.json](./209949-taiyou-no-otsuge.json) |
 | Taiyou no Tenshi Marlowe: Ohanabatake ha Dai-Panic! | 331117 | [331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json](./331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json) |
 | Tajemnica statuetki | 26482 | [26482-tajemnica-statuetki.json](./26482-tajemnica-statuetki.json) |
 | Tak 2: The Staff of Dreams | 243146 | [243146-tak-2-the-staff-of-dreams.json](./243146-tak-2-the-staff-of-dreams.json) |
@@ -1221,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tao Yuan Shen Chu You Ren Jia | 283374 | [283374-tao-yuan-shen-chu-you-ren-jia.json](./283374-tao-yuan-shen-chu-you-ren-jia.json) |
 | Tao's Adventure: Curse of the Demon Seal | 20495 | [20495-taos-adventure-curse-of-the-demon-seal.json](./20495-taos-adventure-curse-of-the-demon-seal.json) |
 | Táolí Dìqiú | 158203 | [158203-taoli-diqiu.json](./158203-taoli-diqiu.json) |
+| Taolu | 209944 | [209944-taolu.json](./209944-taolu.json) |
 | Taora: Survival | 235197 | [235197-taora-survival.json](./235197-taora-survival.json) |
 | Taoyuan Adventure | 160174 | [160174-taoyuan-adventure.json](./160174-taoyuan-adventure.json) |
 | Tap 'n' Pop 3: Balloon Adventures | 88225 | [88225-tap-n-pop-3-balloon-adventures.json](./88225-tap-n-pop-3-balloon-adventures.json) |
@@ -5073,6 +5075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Football A | 216356 | [216356-the-football-a.json](./216356-the-football-a.json) |
 | The Football Playbook: Tactical Puzzles | 197247 | [197247-the-football-playbook-tactical-puzzles.json](./197247-the-football-playbook-tactical-puzzles.json) |
 | The Football Quiz | 219171 | [219171-the-football-quiz.json](./219171-the-football-quiz.json) |
+| The Football T | 209917 | [209917-the-football-t.json](./209917-the-football-t.json) |
 | The Forage | 102802 | [102802-the-forage.json](./102802-the-forage.json) |
 | The Forbidden Tomes of Olipos | 411648 | [411648-the-forbidden-tomes-of-olipos.json](./411648-the-forbidden-tomes-of-olipos.json) |
 | The Forest Adventurer | 221704 | [221704-the-forest-adventurer.json](./221704-the-forest-adventurer.json) |
@@ -6917,6 +6920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: Aragorn's Quest | 4978 | [4978-the-lord-of-the-rings-aragorns-quest.json](./4978-the-lord-of-the-rings-aragorns-quest.json) |
 | The Lord of the Rings: Gollum | 116584 | [116584-the-lord-of-the-rings-gollum.json](./116584-the-lord-of-the-rings-gollum.json) |
 | The Lord of the Rings: Gollum - Precious Edition | 248677 | [248677-the-lord-of-the-rings-gollum-precious-edition.json](./248677-the-lord-of-the-rings-gollum-precious-edition.json) |
+| The Lord of the Rings: Heroes of Middle Earth | 209924 | [209924-the-lord-of-the-rings-heroes-of-middle-earth.json](./209924-the-lord-of-the-rings-heroes-of-middle-earth.json) |
 | The Lord of the Rings: Journey to Rivendell | 46888 | [46888-the-lord-of-the-rings-journey-to-rivendell.json](./46888-the-lord-of-the-rings-journey-to-rivendell.json) |
 | The Lord of the Rings: Return to Moria - Ent-craft Pack | 336898 | [336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json](./336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json) |
 | The Lord of the Rings: Rise to War | 174867 | [174867-the-lord-of-the-rings-rise-to-war.json](./174867-the-lord-of-the-rings-rise-to-war.json) |
@@ -12337,6 +12341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny-Doc | 352347 | [352347-tiny-doc.json](./352347-tiny-doc.json) |
 | Tiny-Tasy Town | 103598 | [103598-tiny-tasy-town.json](./103598-tiny-tasy-town.json) |
 | Tiny: The Last Wayfinder | 373143 | [373143-tiny-the-last-wayfinder.json](./373143-tiny-the-last-wayfinder.json) |
+| TinyArmored | 209937 | [209937-tinyarmored.json](./209937-tinyarmored.json) |
 | TinyCrack | 169869 | [169869-tinycrack.json](./169869-tinycrack.json) |
 | Tinycraft | 303101 | [303101-tinycraft.json](./303101-tinycraft.json) |
 | TinyCraft Town | 362298 | [362298-tinycraft-town.json](./362298-tinycraft-town.json) |
@@ -13211,6 +13216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TonpaQuest | 178043 | [178043-tonpaquest.json](./178043-tonpaquest.json) |
 | Tonpuso | 37312 | [37312-tonpuso.json](./37312-tonpuso.json) |
 | Tons of Guns | 343845 | [343845-tons-of-guns.json](./343845-tons-of-guns.json) |
+| Tonsil Terror | 209945 | [209945-tonsil-terror.json](./209945-tonsil-terror.json) |
 | Tony & Friends in Kellogg's Land | 58272 | [58272-tony-and-friends-in-kelloggs-land.json](./58272-tony-and-friends-in-kelloggs-land.json) |
 | Tony and Clyde | 172753 | [172753-tony-and-clyde.json](./172753-tony-and-clyde.json) |
 | Tony and Jennie | 337166 | [337166-tony-and-jennie.json](./337166-tony-and-jennie.json) |
@@ -13826,6 +13832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Genso Wanderer Reloaded | 86645 | [86645-touhou-genso-wanderer-reloaded.json](./86645-touhou-genso-wanderer-reloaded.json) |
 | Touhou Genso Wanderer Reloaded: Alice Margatroid | 161746 | [161746-touhou-genso-wanderer-reloaded-alice-margatroid.json](./161746-touhou-genso-wanderer-reloaded-alice-margatroid.json) |
 | Touhou Genso Wanderer Reloaded: Cirno | 161749 | [161749-touhou-genso-wanderer-reloaded-cirno.json](./161749-touhou-genso-wanderer-reloaded-cirno.json) |
+| Touhou Genso Wanderer Reloaded: Complete Edition | 209953 | [209953-touhou-genso-wanderer-reloaded-complete-edition.json](./209953-touhou-genso-wanderer-reloaded-complete-edition.json) |
 | Touhou Genso Wanderer Reloaded: Daiyosei | 161742 | [161742-touhou-genso-wanderer-reloaded-daiyosei.json](./161742-touhou-genso-wanderer-reloaded-daiyosei.json) |
 | Touhou Genso Wanderer Reloaded: Kasen Ibaraki | 161744 | [161744-touhou-genso-wanderer-reloaded-kasen-ibaraki.json](./161744-touhou-genso-wanderer-reloaded-kasen-ibaraki.json) |
 | Touhou Genso Wanderer Reloaded: Kokoro Hata | 161740 | [161740-touhou-genso-wanderer-reloaded-kokoro-hata.json](./161740-touhou-genso-wanderer-reloaded-kokoro-hata.json) |
