@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keykeeper | 287197 | [287197-keykeeper.json](./287197-keykeeper.json) |
 | Keykode | 349867 | [349867-keykode.json](./349867-keykode.json) |
 | Keymash | 141630 | [141630-keymash.json](./141630-keymash.json) |
+| Keymasher Ultimate | 201113 | [201113-keymasher-ultimate.json](./201113-keymasher-ultimate.json) |
 | Keypad Simulator | 412483 | [412483-keypad-simulator.json](./412483-keypad-simulator.json) |
 | Keypress Mania | 373544 | [373544-keypress-mania.json](./373544-keypress-mania.json) |
 | Keyrin Loves You | 338737 | [338737-keyrin-loves-you.json](./338737-keyrin-loves-you.json) |
