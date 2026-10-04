@@ -2754,6 +2754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self | 118430 | [118430-self.json](./118430-self.json) |
 | Self Defense Kinda... | 258468 | [258468-self-defense-kinda.json](./258468-self-defense-kinda.json) |
 | Self Deleted | 412985 | [412985-self-deleted.json](./412985-self-deleted.json) |
+| Self Made Man: Life of an Entrepreneur | 204937 | [204937-self-made-man-life-of-an-entrepreneur.json](./204937-self-made-man-life-of-an-entrepreneur.json) |
 | Self Reflection | 178011 | [178011-self-reflection.json](./178011-self-reflection.json) |
 | Self Shot | 117806 | [117806-self-shot.json](./117806-self-shot.json) |
 | Self-Defense Training Camp | 8545 | [8545-self-defense-training-camp.json](./8545-self-defense-training-camp.json) |
@@ -3887,6 +3888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShapeNeon Chaos | 157119 | [157119-shapeneon-chaos.json](./157119-shapeneon-chaos.json) |
 | Shapeo | 327437 | [327437-shapeo.json](./327437-shapeo.json) |
 | Shaper | 240810 | [240810-shaper.json](./240810-shaper.json) |
+| ShapeR | 204936 | [204936-shaper.json](./204936-shaper.json) |
 | Shaper Runners | 231903 | [231903-shaper-runners.json](./231903-shaper-runners.json) |
 | ShapeRockets | 31196 | [31196-shaperockets.json](./31196-shaperockets.json) |
 | Shaperoid | 105503 | [105503-shaperoid.json](./105503-shaperoid.json) |
@@ -4428,6 +4430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Hearts | 66402 | [66402-shining-hearts.json](./66402-shining-hearts.json) |
 | Shining Hotel: Lost in Nowhere | 102364 | [102364-shining-hotel-lost-in-nowhere.json](./102364-shining-hotel-lost-in-nowhere.json) |
 | Shining in the Darkness | 9406 | [9406-shining-in-the-darkness.json](./9406-shining-in-the-darkness.json) |
+| Shining Jump Jump | 204935 | [204935-shining-jump-jump.json](./204935-shining-jump-jump.json) |
 | Shining Lore | 316800 | [316800-shining-lore.json](./316800-shining-lore.json) |
 | Shining Nikki | 145944 | [145944-shining-nikki.json](./145944-shining-nikki.json) |
 | Shining Orb Prequel | 109704 | [109704-shining-orb-prequel.json](./109704-shining-orb-prequel.json) |
@@ -5241,6 +5244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege of Avalon | 9382 | [9382-siege-of-avalon.json](./9382-siege-of-avalon.json) |
 | Siege of Centauri | 116002 | [116002-siege-of-centauri.json](./116002-siege-of-centauri.json) |
 | Siege of Dragonspear | 174209 | [174209-siege-of-dragonspear.json](./174209-siege-of-dragonspear.json) |
+| Siege of Dungeon | 204934 | [204934-siege-of-dungeon.json](./204934-siege-of-dungeon.json) |
 | Siege of Osaka | 239181 | [239181-siege-of-osaka.json](./239181-siege-of-osaka.json) |
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
 | Siege Saga | 77633 | [77633-siege-saga.json](./77633-siege-saga.json) |
@@ -6444,6 +6448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky High Stuntman | 279696 | [279696-sky-high-stuntman.json](./279696-sky-high-stuntman.json) |
 | Sky Hunter | 75165 | [75165-sky-hunter.json](./75165-sky-hunter.json) |
 | Sky In Flames | 398483 | [398483-sky-in-flames.json](./398483-sky-in-flames.json) |
+| Sky in your eyes | 204933 | [204933-sky-in-your-eyes.json](./204933-sky-in-your-eyes.json) |
 | Sky Invaders | 346096 | [346096-sky-invaders.json](./346096-sky-invaders.json) |
 | Sky is Arrows | 62128 | [62128-sky-is-arrows.json](./62128-sky-is-arrows.json) |
 | Sky is Arrows: Dragon Bracer Item Chest | 252231 | [252231-sky-is-arrows-dragon-bracer-item-chest.json](./252231-sky-is-arrows-dragon-bracer-item-chest.json) |
@@ -7795,6 +7800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite 5: P.1938 Suppressed Pistol | 307286 | [307286-sniper-elite-5-p-1938-suppressed-pistol.json](./307286-sniper-elite-5-p-1938-suppressed-pistol.json) |
 | Sniper Elite 5: Rough Landing - Mission and Weapon Pack | 255687 | [255687-sniper-elite-5-rough-landing-mission-and-weapon-pack.json](./255687-sniper-elite-5-rough-landing-mission-and-weapon-pack.json) |
 | Sniper Elite 5: Saboteur Weapon and Skin Pack | 307285 | [307285-sniper-elite-5-saboteur-weapon-and-skin-pack.json](./307285-sniper-elite-5-saboteur-weapon-and-skin-pack.json) |
+| Sniper Elite 5: Target Führer - Wolf Mountain | 204932 | [204932-sniper-elite-5-target-fuhrer-wolf-mountain.json](./204932-sniper-elite-5-target-fuhrer-wolf-mountain.json) |
 | Sniper Elite 5: Trench Warfare Weapon Pack | 307283 | [307283-sniper-elite-5-trench-warfare-weapon-pack.json](./307283-sniper-elite-5-trench-warfare-weapon-pack.json) |
 | Sniper Elite 5: Up Close and Personal Weapon & Skin Pack | 307282 | [307282-sniper-elite-5-up-close-and-personal-weapon-and-skin-pack.json](./307282-sniper-elite-5-up-close-and-personal-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Valentine's Weapon Skin Pack | 307279 | [307279-sniper-elite-5-valentines-weapon-skin-pack.json](./307279-sniper-elite-5-valentines-weapon-skin-pack.json) |
@@ -8031,6 +8037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Freightliner & Western Star Dual Pack | 366855 | [366855-snowrunner-freightliner-and-western-star-dual-pack.json](./366855-snowrunner-freightliner-and-western-star-dual-pack.json) |
 | SnowRunner: Jeep Dual Pack | 169995 | [169995-snowrunner-jeep-dual-pack.json](./169995-snowrunner-jeep-dual-pack.json) |
 | SnowRunner: Kenworth Dual Pack | 397798 | [397798-snowrunner-kenworth-dual-pack.json](./397798-snowrunner-kenworth-dual-pack.json) |
+| SnowRunner: Land Rover Dual Pack | 204931 | [204931-snowrunner-land-rover-dual-pack.json](./204931-snowrunner-land-rover-dual-pack.json) |
 | SnowRunner: Mack Dual Pack | 397797 | [397797-snowrunner-mack-dual-pack.json](./397797-snowrunner-mack-dual-pack.json) |
 | SnowRunner: Mercedes-Benz Trucks Dual Pack 1 | 397801 | [397801-snowrunner-mercedes-benz-trucks-dual-pack-1.json](./397801-snowrunner-mercedes-benz-trucks-dual-pack-1.json) |
 | SnowRunner: Pathfinders Vinyl Wrap Pack | 397799 | [397799-snowrunner-pathfinders-vinyl-wrap-pack.json](./397799-snowrunner-pathfinders-vinyl-wrap-pack.json) |
