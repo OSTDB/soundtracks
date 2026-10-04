@@ -5643,6 +5643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rongu | 403719 | [403719-rongu.json](./403719-rongu.json) |
 | Ronin Heart | 366393 | [366393-ronin-heart.json](./366393-ronin-heart.json) |
 | Ronin Rush | 304713 | [304713-ronin-rush.json](./304713-ronin-rush.json) |
+| Ronin Trail | 206588 | [206588-ronin-trail.json](./206588-ronin-trail.json) |
 | Ronin: Two Souls | 139474 | [139474-ronin-two-souls.json](./139474-ronin-two-souls.json) |
 | Ronin's Requiem | 305289 | [305289-ronins-requiem.json](./305289-ronins-requiem.json) |
 | Ronin's Run | 220705 | [220705-ronins-run.json](./220705-ronins-run.json) |
