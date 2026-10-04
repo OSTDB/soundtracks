@@ -9774,6 +9774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Source Control | 62734 | [62734-source-control.json](./62734-source-control.json) |
 | Sourcelight RPG | 174282 | [174282-sourcelight-rpg.json](./174282-sourcelight-rpg.json) |
 | Sous Raccoon | 366299 | [366299-sous-raccoon.json](./366299-sous-raccoon.json) |
+| Sousei no Mirage | 208240 | [208240-sousei-no-mirage.json](./208240-sousei-no-mirage.json) |
 | Sousei no Onmyouji | 122890 | [122890-sousei-no-onmyouji.json](./122890-sousei-no-onmyouji.json) |
 | Souseishi, Arui wa Doukoku no Mokushiroku: Incarnation Erased from History | 242485 | [242485-souseishi-arui-wa-doukoku-no-mokushiroku-incarnation-erased-from-history.json](./242485-souseishi-arui-wa-doukoku-no-mokushiroku-incarnation-erased-from-history.json) |
 | Soushuu Senshinkan Gakuen Bansenjin | 137082 | [137082-soushuu-senshinkan-gakuen-bansenjin.json](./137082-soushuu-senshinkan-gakuen-bansenjin.json) |
@@ -11055,6 +11056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sperma | 232698 | [232698-sperma.json](./232698-sperma.json) |
 | SpermDash | 157009 | [157009-spermdash.json](./157009-spermdash.json) |
 | Spermicide | 191083 | [191083-spermicide.json](./191083-spermicide.json) |
+| Spermination: Cream of the Crop | 208232 | [208232-spermination-cream-of-the-crop.json](./208232-spermination-cream-of-the-crop.json) |
 | Spermula 1 | 131598 | [131598-spermula-1.json](./131598-spermula-1.json) |
 | SPGP Super Polygon Grand Prix | 274542 | [274542-spgp-super-polygon-grand-prix.json](./274542-spgp-super-polygon-grand-prix.json) |
 | Sphaera | 103771 | [103771-sphaera.json](./103771-sphaera.json) |
@@ -13213,6 +13215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starters Orders 7 | 137628 | [137628-starters-orders-7.json](./137628-starters-orders-7.json) |
 | Starters Orders Touch Horse Racing | 287746 | [287746-starters-orders-touch-horse-racing.json](./287746-starters-orders-touch-horse-racing.json) |
 | Starting Blocks | 272808 | [272808-starting-blocks.json](./272808-starting-blocks.json) |
+| Starting Life In Another World Naked | 208421 | [208421-starting-life-in-another-world-naked.json](./208421-starting-life-in-another-world-naked.json) |
 | Starting the Game | 97230 | [97230-starting-the-game.json](./97230-starting-the-game.json) |
 | Startling Odyssey | 78944 | [78944-startling-odyssey.json](./78944-startling-odyssey.json) |
 | Startling Odyssey 1: Blue Evolution | 63928 | [63928-startling-odyssey-1-blue-evolution.json](./63928-startling-odyssey-1-blue-evolution.json) |
@@ -16957,6 +16960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sangokushi | 42226 | [42226-super-sangokushi.json](./42226-super-sangokushi.json) |
 | Super Sans Race Running | 221710 | [221710-super-sans-race-running.json](./221710-super-sans-race-running.json) |
 | Super Sapiens | 325522 | [325522-super-sapiens.json](./325522-super-sapiens.json) |
+| Super Sarrador | 208238 | [208238-super-sarrador.json](./208238-super-sarrador.json) |
 | Super Scary Cylinder | 390135 | [390135-super-scary-cylinder.json](./390135-super-scary-cylinder.json) |
 | Super Schwarzschild | 41996 | [41996-super-schwarzschild.json](./41996-super-schwarzschild.json) |
 | Super Science Friends | 77650 | [77650-super-science-friends.json](./77650-super-science-friends.json) |
