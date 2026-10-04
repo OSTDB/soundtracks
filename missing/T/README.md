@@ -14454,6 +14454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail Master 3D | 245266 | [245266-trail-master-3d.json](./245266-trail-master-3d.json) |
 | Trail of Ayash | 112111 | [112111-trail-of-ayash.json](./112111-trail-of-ayash.json) |
 | Trail of Destruction | 28880 | [28880-trail-of-destruction.json](./28880-trail-of-destruction.json) |
+| Trail of Nanook | 216696 | [216696-trail-of-nanook.json](./216696-trail-of-nanook.json) |
 | Trail of Stars | 329966 | [329966-trail-of-stars.json](./329966-trail-of-stars.json) |
 | Trail of the Damned | 160222 | [160222-trail-of-the-damned.json](./160222-trail-of-the-damned.json) |
 | Trail of the Wretched | 280246 | [280246-trail-of-the-wretched.json](./280246-trail-of-the-wretched.json) |
