@@ -1800,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartwood | 179158 | [179158-heartwood.json](./179158-heartwood.json) |
 | Heartwood Heroes | 236329 | [236329-heartwood-heroes.json](./236329-heartwood-heroes.json) |
 | Heat 'n Hit: The Blacksmith Simulator | 371962 | [371962-heat-n-hit-the-blacksmith-simulator.json](./371962-heat-n-hit-the-blacksmith-simulator.json) |
+| Heat Death | 191653 | [191653-heat-death.json](./191653-heat-death.json) |
 | Heat Gear: Race & Drift World | 193847 | [193847-heat-gear-race-and-drift-world.json](./193847-heat-gear-race-and-drift-world.json) |
 | Heat Incremental | 366965 | [366965-heat-incremental.json](./366965-heat-incremental.json) |
 | Heat Index | 338278 | [338278-heat-index.json](./338278-heat-index.json) |
