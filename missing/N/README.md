@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naked and Afraid: The Game | 121468 | [121468-naked-and-afraid-the-game.json](./121468-naked-and-afraid-the-game.json) |
 | Naked Little Dude | 131607 | [131607-naked-little-dude.json](./131607-naked-little-dude.json) |
 | Naked News | 129213 | [129213-naked-news.json](./129213-naked-news.json) |
+| Naked Porn Battle | 202205 | [202205-naked-porn-battle.json](./202205-naked-porn-battle.json) |
 | Naked Story | 127838 | [127838-naked-story.json](./127838-naked-story.json) |
 | Naked Warrior | 385305 | [385305-naked-warrior.json](./385305-naked-warrior.json) |
 | Naki no Ryuu: Mahjong Hishou-den | 37912 | [37912-naki-no-ryuu-mahjong-hishou-den.json](./37912-naki-no-ryuu-mahjong-hishou-den.json) |
@@ -212,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nankin no Adventure | 41401 | [41401-nankin-no-adventure.json](./41401-nankin-no-adventure.json) |
 | Nankoku Shirei!! Spy vs. Spy | 48812 | [48812-nankoku-shirei-spy-vs-spy.json](./48812-nankoku-shirei-spy-vs-spy.json) |
 | Nanny 911 | 206783 | [206783-nanny-911.json](./206783-nanny-911.json) |
+| Nanny Mania 2 | 202184 | [202184-nanny-mania-2.json](./202184-nanny-mania-2.json) |
 | Nannys Nightmare | 53397 | [53397-nannys-nightmare.json](./53397-nannys-nightmare.json) |
 | Nano Assault | 21075 | [21075-nano-assault.json](./21075-nano-assault.json) |
 | Nano Code:X | 410908 | [410908-nano-code-x.json](./410908-nano-code-x.json) |
@@ -3177,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Words to Speak With | 176782 | [176782-no-words-to-speak-with.json](./176782-no-words-to-speak-with.json) |
 | No Worries | 286065 | [286065-no-worries.json](./286065-no-worries.json) |
 | No-brainer! Heroes | 134655 | [134655-no-brainer-heroes.json](./134655-no-brainer-heroes.json) |
+| No-Go | 202195 | [202195-no-go.json](./202195-no-go.json) |
 | No-Hi | 311204 | [311204-no-hi.json](./311204-no-hi.json) |
 | No-Snake Hotel | 198375 | [198375-no-snake-hotel.json](./198375-no-snake-hotel.json) |
 | No, Birdie, No! | 128640 | [128640-no-birdie-no.json](./128640-no-birdie-no.json) |
