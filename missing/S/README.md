@@ -5971,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinisomnia | 375370 | [375370-sinisomnia.json](./375370-sinisomnia.json) |
 | Sinistar | 18693 | [18693-sinistar.json](./18693-sinistar.json) |
 | Sinistar Unleashed | 20377 | [20377-sinistar-unleashed.json](./20377-sinistar-unleashed.json) |
+| Sinister | 191050 | [191050-sinister.json](./191050-sinister.json) |
 | Sinister | 253335 | [253335-sinister.json](./253335-sinister.json) |
 | Sinister 625 | 270849 | [270849-sinister-625.json](./270849-sinister-625.json) |
 | Sinister Adventures Bundle | 199624 | [199624-sinister-adventures-bundle.json](./199624-sinister-adventures-bundle.json) |
@@ -9668,6 +9669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Elegy | 165666 | [165666-soul-elegy.json](./165666-soul-elegy.json) |
 | Soul Essence | 174827 | [174827-soul-essence.json](./174827-soul-essence.json) |
 | Soul Falchion | 271791 | [271791-soul-falchion.json](./271791-soul-falchion.json) |
+| Soul Fantasy | 191079 | [191079-soul-fantasy.json](./191079-soul-fantasy.json) |
 | Soul Fjord | 51174 | [51174-soul-fjord.json](./51174-soul-fjord.json) |
 | Soul Force | 177566 | [177566-soul-force.json](./177566-soul-force.json) |
 | Soul Gather | 372012 | [372012-soul-gather.json](./372012-soul-gather.json) |
@@ -12568,6 +12570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Melody: Yumemi Dreamer | 172717 | [172717-star-melody-yumemi-dreamer.json](./172717-star-melody-yumemi-dreamer.json) |
 | Star Melody: Yumemi Dreamer - Chapter 10 | 195782 | [195782-star-melody-yumemi-dreamer-chapter-10.json](./195782-star-melody-yumemi-dreamer-chapter-10.json) |
 | Star Melody: Yumemi Dreamer - Chapter 11 | 196156 | [196156-star-melody-yumemi-dreamer-chapter-11.json](./196156-star-melody-yumemi-dreamer-chapter-11.json) |
+| Star Melody: Yumemi Dreamer - Chapter 4 | 191052 | [191052-star-melody-yumemi-dreamer-chapter-4.json](./191052-star-melody-yumemi-dreamer-chapter-4.json) |
 | Star Melody: Yumemi Dreamer - Chapter 9 | 196149 | [196149-star-melody-yumemi-dreamer-chapter-9.json](./196149-star-melody-yumemi-dreamer-chapter-9.json) |
 | Star Melody: Yumemi Dreamer - Limited Edition | 175977 | [175977-star-melody-yumemi-dreamer-limited-edition.json](./175977-star-melody-yumemi-dreamer-limited-edition.json) |
 | Star Mercenary | 236417 | [236417-star-mercenary.json](./236417-star-mercenary.json) |
@@ -13638,6 +13641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Division 2: Nemesis #4 - Storming Toulon | 157535 | [157535-steel-division-2-nemesis-4-storming-toulon.json](./157535-steel-division-2-nemesis-4-storming-toulon.json) |
 | Steel Division 2: Reinforcement Pack #11 | 157542 | [157542-steel-division-2-reinforcement-pack-11.json](./157542-steel-division-2-reinforcement-pack-11.json) |
 | Steel Division 2: Reinforcement Pack #14 - Aces | 318438 | [318438-steel-division-2-reinforcement-pack-14-aces.json](./318438-steel-division-2-reinforcement-pack-14-aces.json) |
+| Steel Division 2: Tribute to the Liberation of Italy | 191036 | [191036-steel-division-2-tribute-to-the-liberation-of-italy.json](./191036-steel-division-2-tribute-to-the-liberation-of-italy.json) |
 | Steel Dragon Ex | 43341 | [43341-steel-dragon-ex.json](./43341-steel-dragon-ex.json) |
 | Steel Dungeon | 110162 | [110162-steel-dungeon.json](./110162-steel-dungeon.json) |
 | Steel Eagle: Cave Mission | 169287 | [169287-steel-eagle-cave-mission.json](./169287-steel-eagle-cave-mission.json) |
