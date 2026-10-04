@@ -1710,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Cubes | 129755 | [129755-dead-cubes.json](./129755-dead-cubes.json) |
 | Dead Dawn | 193958 | [193958-dead-dawn.json](./193958-dead-dawn.json) |
 | Dead Daylight | 330916 | [330916-dead-daylight.json](./330916-dead-daylight.json) |
+| Dead Days | 221787 | [221787-dead-days.json](./221787-dead-days.json) |
 | Dead District: Survival | 209479 | [209479-dead-district-survival.json](./209479-dead-district-survival.json) |
 | Dead Dock Protocol | 322186 | [322186-dead-dock-protocol.json](./322186-dead-dock-protocol.json) |
 | Dead Dolls Never Die | 395240 | [395240-dead-dolls-never-die.json](./395240-dead-dolls-never-die.json) |
@@ -2947,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deliverace | 97101 | [97101-deliverace.json](./97101-deliverace.json) |
 | Deliverage | 406212 | [406212-deliverage.json](./406212-deliverage.json) |
 | Deliverance | 195242 | [195242-deliverance.json](./195242-deliverance.json) |
+| Deliverance | 221655 | [221655-deliverance.json](./221655-deliverance.json) |
 | Deliverance | 322670 | [322670-deliverance.json](./322670-deliverance.json) |
 | Deliverance | 322990 | [322990-deliverance.json](./322990-deliverance.json) |
 | Deliverance | 377173 | [377173-deliverance.json](./377173-deliverance.json) |
