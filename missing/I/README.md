@@ -3284,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island | 346060 | [346060-island.json](./346060-island.json) |
 | Island | 58194 | [58194-island.json](./58194-island.json) |
 | Island 1979 | 119667 | [119667-island-1979.json](./119667-island-1979.json) |
+| Island Adventure | 175769 | [175769-island-adventure.json](./175769-island-adventure.json) |
 | Island Assault | 195609 | [195609-island-assault.json](./195609-island-assault.json) |
 | Island Bender | 234346 | [234346-island-bender.json](./234346-island-bender.json) |
 | Island Casino | 262406 | [262406-island-casino.json](./262406-island-casino.json) |
