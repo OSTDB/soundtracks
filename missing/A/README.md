@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hero Once More | 252918 | [252918-a-hero-once-more.json](./252918-a-hero-once-more.json) |
 | A Hero's Quest pt1 | 213430 | [213430-a-heros-quest-pt1.json](./213430-a-heros-quest-pt1.json) |
 | A Heroine Story | 249856 | [249856-a-heroine-story.json](./249856-a-heroine-story.json) |
+| A Hexagon's Adventures | 184446 | [184446-a-hexagons-adventures.json](./184446-a-hexagons-adventures.json) |
 | A Hideo Kojima Game | 178947 | [178947-a-hideo-kojima-game.json](./178947-a-hideo-kojima-game.json) |
 | A Holiday Yarn | 183952 | [183952-a-holiday-yarn.json](./183952-a-holiday-yarn.json) |
 | A Hollow Doorway | 94785 | [94785-a-hollow-doorway.json](./94785-a-hollow-doorway.json) |
@@ -555,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Step From Insanity | 260220 | [260220-a-step-from-insanity.json](./260220-a-step-from-insanity.json) |
 | A Step Into Darkness | 29815 | [29815-a-step-into-darkness.json](./29815-a-step-into-darkness.json) |
 | A Stop for the Night | 304305 | [304305-a-stop-for-the-night.json](./304305-a-stop-for-the-night.json) |
+| A storm is approaching | 184447 | [184447-a-storm-is-approaching.json](./184447-a-storm-is-approaching.json) |
 | A Story About Farting | 278747 | [278747-a-story-about-farting.json](./278747-a-story-about-farting.json) |
 | A Story of the End: Revere | 57152 | [57152-a-story-of-the-end-revere.json](./57152-a-story-of-the-end-revere.json) |
 | A Story of the Usurpers | 130204 | [130204-a-story-of-the-usurpers.json](./130204-a-story-of-the-usurpers.json) |
@@ -1390,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ADHD Arena | 276860 | [276860-adhd-arena.json](./276860-adhd-arena.json) |
 | ADHD Horror Anthology | 379556 | [379556-adhd-horror-anthology.json](./379556-adhd-horror-anthology.json) |
 | Adhere: The Good Boy | 183904 | [183904-adhere-the-good-boy.json](./183904-adhere-the-good-boy.json) |
+| Adhesion Block Puzzle | 184435 | [184435-adhesion-block-puzzle.json](./184435-adhesion-block-puzzle.json) |
 | Adhvan Chakra | 328214 | [328214-adhvan-chakra.json](./328214-adhvan-chakra.json) |
 | Adiasis | 133948 | [133948-adiasis.json](./133948-adiasis.json) |
 | Adiboo & Paziral's Secret | 98251 | [98251-adiboo-and-pazirals-secret.json](./98251-adiboo-and-pazirals-secret.json) |
