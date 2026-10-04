@@ -4757,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black River | 29661 | [29661-black-river.json](./29661-black-river.json) |
 | Black Robinia | 59420 | [59420-black-robinia.json](./59420-black-robinia.json) |
 | Black Rock Shooter: Fragment | 193806 | [193806-black-rock-shooter-fragment.json](./193806-black-rock-shooter-fragment.json) |
+| Black Room | 188989 | [188989-black-room.json](./188989-black-room.json) |
 | Black Rose | 33253 | [33253-black-rose.json](./33253-black-rose.json) |
 | Black Rose Valkyrie | 137079 | [137079-black-rose-valkyrie.json](./137079-black-rose-valkyrie.json) |
 | Black Runes | 266764 | [266764-black-runes.json](./266764-black-runes.json) |
