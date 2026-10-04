@@ -2601,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Street Story | 373691 | [373691-pet-street-story.json](./373691-pet-street-story.json) |
 | Pet That VTuber! | 403799 | [403799-pet-that-vtuber.json](./403799-pet-that-vtuber.json) |
 | Pet the Dog? | 179587 | [179587-pet-the-dog.json](./179587-pet-the-dog.json) |
+| Pet the Duck! | 180633 | [180633-pet-the-duck.json](./180633-pet-the-duck.json) |
 | Pet Tycoon | 209158 | [209158-pet-tycoon.json](./209158-pet-tycoon.json) |
 | Pet Vet 3D: Animal Hospital | 81435 | [81435-pet-vet-3d-animal-hospital.json](./81435-pet-vet-3d-animal-hospital.json) |
 | Pet Wash | 102612 | [102612-pet-wash.json](./102612-pet-wash.json) |
