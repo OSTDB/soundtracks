@@ -2685,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space | 237377 | [237377-deep-space.json](./237377-deep-space.json) |
 | Deep Space | 272554 | [272554-deep-space.json](./272554-deep-space.json) |
 | Deep Space 7 | 308881 | [308881-deep-space-7.json](./308881-deep-space-7.json) |
+| Deep Space Airships | 176322 | [176322-deep-space-airships.json](./176322-deep-space-airships.json) |
 | Deep Space Battle Simulator | 119616 | [119616-deep-space-battle-simulator.json](./119616-deep-space-battle-simulator.json) |
 | Deep Space Bellhop | 339652 | [339652-deep-space-bellhop.json](./339652-deep-space-bellhop.json) |
 | Deep Space Corridor | 350013 | [350013-deep-space-corridor.json](./350013-deep-space-corridor.json) |
@@ -8974,6 +8975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck and the Land of Flightless Birds | 189932 | [189932-duck-and-the-land-of-flightless-birds.json](./189932-duck-and-the-land-of-flightless-birds.json) |
 | Duck Attack | 180707 | [180707-duck-attack.json](./180707-duck-attack.json) |
 | Duck Bow Hunt | 88217 | [88217-duck-bow-hunt.json](./88217-duck-bow-hunt.json) |
+| Duck Build | 176329 | [176329-duck-build.json](./176329-duck-build.json) |
 | Duck City | 168131 | [168131-duck-city.json](./168131-duck-city.json) |
 | Duck Commander: Hunting Video Game | 221675 | [221675-duck-commander-hunting-video-game.json](./221675-duck-commander-hunting-video-game.json) |
 | Duck Creator 2 | 306082 | [306082-duck-creator-2.json](./306082-duck-creator-2.json) |
@@ -9029,6 +9031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duckball: Glorious Ducks | 133987 | [133987-duckball-glorious-ducks.json](./133987-duckball-glorious-ducks.json) |
 | Duckers | 232582 | [232582-duckers.json](./232582-duckers.json) |
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
+| Ducklings | 176319 | [176319-ducklings.json](./176319-ducklings.json) |
 | Ducklings IO | 150020 | [150020-ducklings-io.json](./150020-ducklings-io.json) |
 | Ducklyte | 247475 | [247475-ducklyte.json](./247475-ducklyte.json) |
 | Duckpocalypse | 31767 | [31767-duckpocalypse.json](./31767-duckpocalypse.json) |
