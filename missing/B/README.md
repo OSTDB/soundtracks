@@ -8961,6 +8961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumper | 31845 | [31845-bumper.json](./31845-bumper.json) |
 | Bumper 7 | 319574 | [319574-bumper-7.json](./319574-bumper-7.json) |
 | Bumper Ball Bash | 276229 | [276229-bumper-ball-bash.json](./276229-bumper-ball-bash.json) |
+| Bumper Boat Kids Tilt | 197705 | [197705-bumper-boat-kids-tilt.json](./197705-bumper-boat-kids-tilt.json) |
 | Bumper Brawlers | 373078 | [373078-bumper-brawlers.json](./373078-bumper-brawlers.json) |
 | Bumper Stickers Archipelago Edition | 271950 | [271950-bumper-stickers-archipelago-edition.json](./271950-bumper-stickers-archipelago-edition.json) |
 | Bumper Stickers MZX | 271949 | [271949-bumper-stickers-mzx.json](./271949-bumper-stickers-mzx.json) |
