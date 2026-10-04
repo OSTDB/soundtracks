@@ -535,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camper Van Race Driving Simulator 2018 | 107001 | [107001-camper-van-race-driving-simulator-2018.json](./107001-camper-van-race-driving-simulator-2018.json) |
 | Camper Van Simulator 2 | 226782 | [226782-camper-van-simulator-2.json](./226782-camper-van-simulator-2.json) |
 | Campfire | 177999 | [177999-campfire.json](./177999-campfire.json) |
+| Campfire | 183407 | [183407-campfire.json](./183407-campfire.json) |
 | Campfire | 275600 | [275600-campfire.json](./275600-campfire.json) |
 | Campfire Cat Cafe | 250431 | [250431-campfire-cat-cafe.json](./250431-campfire-cat-cafe.json) |
 | Campfire Harmony | 402251 | [402251-campfire-harmony.json](./402251-campfire-harmony.json) |
@@ -1703,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Defense | 182852 | [182852-castle-defense.json](./182852-castle-defense.json) |
 | Castle Demolition VR | 55260 | [55260-castle-demolition-vr.json](./55260-castle-demolition-vr.json) |
 | Castle Dice | 200035 | [200035-castle-dice.json](./200035-castle-dice.json) |
+| Castle Diorama | 183398 | [183398-castle-diorama.json](./183398-castle-diorama.json) |
 | Castle Elsinore | 146106 | [146106-castle-elsinore.json](./146106-castle-elsinore.json) |
 | Castle Evalon | 323931 | [323931-castle-evalon.json](./323931-castle-evalon.json) |
 | Castle Explorer | 79838 | [79838-castle-explorer.json](./79838-castle-explorer.json) |
@@ -2574,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrity Life | 157138 | [157138-celebrity-life.json](./157138-celebrity-life.json) |
 | Celebrity Slot Machine | 242550 | [242550-celebrity-slot-machine.json](./242550-celebrity-slot-machine.json) |
 | Celebrity Smackdown | 389039 | [389039-celebrity-smackdown.json](./389039-celebrity-smackdown.json) |
+| Celerity | 183396 | [183396-celerity.json](./183396-celerity.json) |
 | Celestarium | 226300 | [226300-celestarium.json](./226300-celestarium.json) |
 | Celeste 64: Fragments of the Mountain | 284430 | [284430-celeste-64-fragments-of-the-mountain.json](./284430-celeste-64-fragments-of-the-mountain.json) |
 | Celeste Classic | 215762 | [215762-celeste-classic.json](./215762-celeste-classic.json) |
