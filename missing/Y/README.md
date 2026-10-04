@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys: The Oath in Felghana | 15455 | [15455-ys-the-oath-in-felghana.json](./15455-ys-the-oath-in-felghana.json) |
 | Ys: The Vanished Omens | 206129 | [206129-ys-the-vanished-omens.json](./206129-ys-the-vanished-omens.json) |
 | Ys: Wanderers from Ys | 15450 | [15450-ys-wanderers-from-ys.json](./15450-ys-wanderers-from-ys.json) |
+| Ytbb | 188456 | [188456-ytbb.json](./188456-ytbb.json) |
 | YTP All-Stars | 370903 | [370903-ytp-all-stars.json](./370903-ytp-all-stars.json) |
 | Yu Crossing Animals | 219037 | [219037-yu-crossing-animals.json](./219037-yu-crossing-animals.json) |
 | Yu Hayami no American Kids: Eigo de Bikkuri | 293911 | [293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json](./293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json) |
