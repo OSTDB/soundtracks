@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radioactive | 29757 | [29757-radioactive.json](./29757-radioactive.json) |
 | Radioactive Dwarfs: Evil From the Sewers | 159731 | [159731-radioactive-dwarfs-evil-from-the-sewers.json](./159731-radioactive-dwarfs-evil-from-the-sewers.json) |
 | Radioactivity | 335502 | [335502-radioactivity.json](./335502-radioactivity.json) |
+| Radioapan: Banankalas! | 182330 | [182330-radioapan-banankalas.json](./182330-radioapan-banankalas.json) |
 | Radiolight | 170912 | [170912-radiolight.json](./170912-radiolight.json) |
 | Radiometric Dating | 193461 | [193461-radiometric-dating.json](./193461-radiometric-dating.json) |
 | Radiotelegraphist | 188940 | [188940-radiotelegraphist.json](./188940-radiotelegraphist.json) |
@@ -4100,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rings of Zilfin | 2891 | [2891-rings-of-zilfin.json](./2891-rings-of-zilfin.json) |
 | Ringworld: Revenge of the Patriarch | 46727 | [46727-ringworld-revenge-of-the-patriarch.json](./46727-ringworld-revenge-of-the-patriarch.json) |
 | Ringwyrm | 410985 | [410985-ringwyrm.json](./410985-ringwyrm.json) |
+| Rinne | 182316 | [182316-rinne.json](./182316-rinne.json) |
 | Rinne no Hate de Kimi wo Matsu | 417545 | [417545-rinne-no-hate-de-kimi-wo-matsu.json](./417545-rinne-no-hate-de-kimi-wo-matsu.json) |
 | Rinne no Lagrange: Kamogawa Match | 268741 | [268741-rinne-no-lagrange-kamogawa-match.json](./268741-rinne-no-lagrange-kamogawa-match.json) |
 | Rinne Tenshou | 356253 | [356253-rinne-tenshou.json](./356253-rinne-tenshou.json) |
@@ -6301,6 +6303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby 20 | 122704 | [122704-rugby-20.json](./122704-rugby-20.json) |
 | Rugby 2001 | 67655 | [67655-rugby-2001.json](./67655-rugby-2001.json) |
 | Rugby 2005 | 6019 | [6019-rugby-2005.json](./6019-rugby-2005.json) |
+| Rugby 22 | 182305 | [182305-rugby-22.json](./182305-rugby-22.json) |
 | Rugby Challenge 3 | 17275 | [17275-rugby-challenge-3.json](./17275-rugby-challenge-3.json) |
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
 | Rugby Leage Live 2: Game of the Year Edition | 323373 | [323373-rugby-leage-live-2-game-of-the-year-edition.json](./323373-rugby-leage-live-2-game-of-the-year-edition.json) |
