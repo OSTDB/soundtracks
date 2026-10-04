@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GearStorm | 117651 | [117651-gearstorm.json](./117651-gearstorm.json) |
 | Gearverse | 181159 | [181159-gearverse.json](./181159-gearverse.json) |
 | Gearz | 71763 | [71763-gearz.json](./71763-gearz.json) |
+| Gearzbound | 199974 | [199974-gearzbound.json](./199974-gearzbound.json) |
 | Geas | 228695 | [228695-geas.json](./228695-geas.json) |
 | Gebinden | 387616 | [387616-gebinden.json](./387616-gebinden.json) |
 | Gebub's Adventure | 31869 | [31869-gebubs-adventure.json](./31869-gebubs-adventure.json) |
@@ -2144,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gibtropolis | 299848 | [299848-gibtropolis.json](./299848-gibtropolis.json) |
 | Gibz | 20404 | [20404-gibz.json](./20404-gibz.json) |
 | Giddy 3: The Retro Eggsperience | 62144 | [62144-giddy-3-the-retro-eggsperience.json](./62144-giddy-3-the-retro-eggsperience.json) |
+| Gidget & The Mysterious Thievery of Hoppity Town | 200006 | [200006-gidget-and-the-mysterious-thievery-of-hoppity-town.json](./200006-gidget-and-the-mysterious-thievery-of-hoppity-town.json) |
 | Gido Gido: Kaiju Battle Party | 404214 | [404214-gido-gido-kaiju-battle-party.json](./404214-gido-gido-kaiju-battle-party.json) |
 | Gift | 132101 | [132101-gift.json](./132101-gift.json) |
 | Gift | 240745 | [240745-gift.json](./240745-gift.json) |
