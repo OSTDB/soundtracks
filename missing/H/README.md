@@ -3590,6 +3590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Harbor 3 Top-Down 3D | 241417 | [241417-hidden-harbor-3-top-down-3d.json](./241417-hidden-harbor-3-top-down-3d.json) |
 | Hidden Harbor Top-Down 3D | 195247 | [195247-hidden-harbor-top-down-3d.json](./195247-hidden-harbor-top-down-3d.json) |
 | Hidden Hijinks: No Cats in the Orgy, Please! | 385805 | [385805-hidden-hijinks-no-cats-in-the-orgy-please.json](./385805-hidden-hijinks-no-cats-in-the-orgy-please.json) |
+| Hidden Histories: The Principality | 189020 | [189020-hidden-histories-the-principality.json](./189020-hidden-histories-the-principality.json) |
 | Hidden Horror Photo Exhibition | 399643 | [399643-hidden-horror-photo-exhibition.json](./399643-hidden-horror-photo-exhibition.json) |
 | Hidden in my Paradise | 291242 | [291242-hidden-in-my-paradise.json](./291242-hidden-in-my-paradise.json) |
 | Hidden in my Paradise + Hidden around the World Bundle | 399810 | [399810-hidden-in-my-paradise-hidden-around-the-world-bundle.json](./399810-hidden-in-my-paradise-hidden-around-the-world-bundle.json) |
@@ -3801,6 +3802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Through Time: Road to Rome | 154515 | [154515-hidden-through-time-road-to-rome.json](./154515-hidden-through-time-road-to-rome.json) |
 | Hidden Through Time: Viking Tales | 154516 | [154516-hidden-through-time-viking-tales.json](./154516-hidden-through-time-viking-tales.json) |
 | Hidden Tomatoes | 326783 | [326783-hidden-tomatoes.json](./326783-hidden-tomatoes.json) |
+| Hidden Town | 189010 | [189010-hidden-town.json](./189010-hidden-town.json) |
 | Hidden Village Top-Down 3D | 255264 | [255264-hidden-village-top-down-3d.json](./255264-hidden-village-top-down-3d.json) |
 | Hidden Watch | 104121 | [104121-hidden-watch.json](./104121-hidden-watch.json) |
 | Hidden Water | 192712 | [192712-hidden-water.json](./192712-hidden-water.json) |
@@ -6131,6 +6133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanity: First Woman In Space | 153880 | [153880-humanity-first-woman-in-space.json](./153880-humanity-first-woman-in-space.json) |
 | Humanity's Fall | 392296 | [392296-humanitys-fall.json](./392296-humanitys-fall.json) |
 | Humanity's Last Hope | 360657 | [360657-humanitys-last-hope.json](./360657-humanitys-last-hope.json) |
+| Humankind in a nutshell | 188988 | [188988-humankind-in-a-nutshell.json](./188988-humankind-in-a-nutshell.json) |
 | Humankind: Collection | 205091 | [205091-humankind-collection.json](./205091-humankind-collection.json) |
 | Humankind: Cultures of Africa | 188046 | [188046-humankind-cultures-of-africa.json](./188046-humankind-cultures-of-africa.json) |
 | Humankind: Cultures of Latin America | 204362 | [204362-humankind-cultures-of-latin-america.json](./204362-humankind-cultures-of-latin-america.json) |
@@ -6249,6 +6252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt Hide Run | 296916 | [296916-hunt-hide-run.json](./296916-hunt-hide-run.json) |
 | Hunt Planet Bug | 133351 | [133351-hunt-planet-bug.json](./133351-hunt-planet-bug.json) |
 | Hunt Royale | 159347 | [159347-hunt-royale.json](./159347-hunt-royale.json) |
+| Hunt Souleater | 189024 | [189024-hunt-souleater.json](./189024-hunt-souleater.json) |
 | Hunt the Pale Gods | 303559 | [303559-hunt-the-pale-gods.json](./303559-hunt-the-pale-gods.json) |
 | Hunt the Thailand Hidden | 119696 | [119696-hunt-the-thailand-hidden.json](./119696-hunt-the-thailand-hidden.json) |
 | Hunt the Wumpus | 11498 | [11498-hunt-the-wumpus.json](./11498-hunt-the-wumpus.json) |
