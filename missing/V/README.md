@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VeilStalker | 406850 | [406850-veilstalker.json](./406850-veilstalker.json) |
 | Veilwalkers | 349308 | [349308-veilwalkers.json](./349308-veilwalkers.json) |
 | Veilwalkers | 377293 | [377293-veilwalkers.json](./377293-veilwalkers.json) |
+| Vein | 208250 | [208250-vein.json](./208250-vein.json) |
 | Vein Hotel | 102180 | [102180-vein-hotel.json](./102180-vein-hotel.json) |
 | Vein-X | 355021 | [355021-vein-x.json](./355021-vein-x.json) |
 | Veinless Property | 144362 | [144362-veinless-property.json](./144362-veinless-property.json) |
@@ -1816,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volt | 36350 | [36350-volt.json](./36350-volt.json) |
 | Volt Snake | 413058 | [413058-volt-snake.json](./413058-volt-snake.json) |
 | Voltage Fighter Gowcaizer | 39590 | [39590-voltage-fighter-gowcaizer.json](./39590-voltage-fighter-gowcaizer.json) |
+| Voltage High Society | 208420 | [208420-voltage-high-society.json](./208420-voltage-high-society.json) |
 | Voltage: Episode 2 | 170303 | [170303-voltage-episode-2.json](./170303-voltage-episode-2.json) |
 | Voltaire: The Vegan Vampire | 203242 | [203242-voltaire-the-vegan-vampire.json](./203242-voltaire-the-vegan-vampire.json) |
 | Volted | 97025 | [97025-volted.json](./97025-volted.json) |
