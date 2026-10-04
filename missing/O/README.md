@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oiran Survival: Edo Yokai Rush | 391304 | [391304-oiran-survival-edo-yokai-rush.json](./391304-oiran-survival-edo-yokai-rush.json) |
 | Oirbo | 118398 | [118398-oirbo.json](./118398-oirbo.json) |
 | Oishii Puzzle ha Irimasen ka | 312364 | [312364-oishii-puzzle-ha-irimasen-ka.json](./312364-oishii-puzzle-ha-irimasen-ka.json) |
+| Oita, Beppu Mystery Annai: Yuganda Tourou | 212306 | [212306-oita-beppu-mystery-annai-yuganda-tourou.json](./212306-oita-beppu-mystery-annai-yuganda-tourou.json) |
 | Ojamajo Adventure: Naisho No Mahou | 319698 | [319698-ojamajo-adventure-naisho-no-mahou.json](./319698-ojamajo-adventure-naisho-no-mahou.json) |
 | Oji-Mama | 285113 | [285113-oji-mama.json](./285113-oji-mama.json) |
 | Ojingeo Project | 393658 | [393658-ojingeo-project.json](./393658-ojingeo-project.json) |
@@ -1146,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Time in the 70s | 325545 | [325545-once-upon-a-time-in-the-70s.json](./325545-once-upon-a-time-in-the-70s.json) |
 | Once Upon a Time in the Colony | 173233 | [173233-once-upon-a-time-in-the-colony.json](./173233-once-upon-a-time-in-the-colony.json) |
 | Once Upon a Time on Halloween | 223569 | [223569-once-upon-a-time-on-halloween.json](./223569-once-upon-a-time-on-halloween.json) |
+| Once Upon a Time... Life: Origins | 212171 | [212171-once-upon-a-time-life-origins.json](./212171-once-upon-a-time-life-origins.json) |
 | Once Upon an Electric Dream | 132802 | [132802-once-upon-an-electric-dream.json](./132802-once-upon-an-electric-dream.json) |
 | Once Upon Atrocity | 271245 | [271245-once-upon-atrocity.json](./271245-once-upon-atrocity.json) |
 | Once You Understand the Meaning These Comics Become Scary | 409696 | [409696-once-you-understand-the-meaning-these-comics-become-scary.json](./409696-once-you-understand-the-meaning-these-comics-become-scary.json) |
