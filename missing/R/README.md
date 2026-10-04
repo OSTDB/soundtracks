@@ -2476,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reikon Dungeon | 185153 | [185153-reikon-dungeon.json](./185153-reikon-dungeon.json) |
 | Reikon: Reawaken | 250987 | [250987-reikon-reawaken.json](./250987-reikon-reawaken.json) |
 | Reimagine: The Game | 144271 | [144271-reimagine-the-game.json](./144271-reimagine-the-game.json) |
+| Reimei no Gakuen | 177871 | [177871-reimei-no-gakuen.json](./177871-reimei-no-gakuen.json) |
 | Reimei no Yu | 287313 | [287313-reimei-no-yu.json](./287313-reimei-no-yu.json) |
 | Reimu ha Nandaka Totemo Nemui | 214585 | [214585-reimu-ha-nandaka-totemo-nemui.json](./214585-reimu-ha-nandaka-totemo-nemui.json) |
 | Reimu's Weird little adventure | 153410 | [153410-reimus-weird-little-adventure.json](./153410-reimus-weird-little-adventure.json) |
@@ -5141,6 +5142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockmorse | 181367 | [181367-rockmorse.json](./181367-rockmorse.json) |
 | Rocko's Modern Life: Match-Master | 273876 | [273876-rockos-modern-life-match-master.json](./273876-rockos-modern-life-match-master.json) |
 | Rocko's Quest | 17345 | [17345-rockos-quest.json](./17345-rockos-quest.json) |
+| Rocks and Ravens | 177818 | [177818-rocks-and-ravens.json](./177818-rocks-and-ravens.json) |
 | Rocks N' Rockets | 84849 | [84849-rocks-n-rockets.json](./84849-rocks-n-rockets.json) |
 | Rocks Rider | 262059 | [262059-rocks-rider.json](./262059-rocks-rider.json) |
 | Rocks'n'Gems | 169451 | [169451-rocksngems.json](./169451-rocksngems.json) |
