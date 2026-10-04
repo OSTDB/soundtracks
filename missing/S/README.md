@@ -2316,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Galaxy | 120308 | [120308-second-galaxy.json](./120308-second-galaxy.json) |
 | Second Humanity | 391869 | [391869-second-humanity.json](./391869-second-humanity.json) |
 | Second Novel: Kanojo no Natsu, 15fun no Kioku | 138805 | [138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json](./138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json) |
+| Second Period Chemistry | 181660 | [181660-second-period-chemistry.json](./181660-second-period-chemistry.json) |
 | Second Person: Secret Laboratory | 158657 | [158657-second-person-secret-laboratory.json](./158657-second-person-secret-laboratory.json) |
 | Second Puberty | 176923 | [176923-second-puberty.json](./176923-second-puberty.json) |
 | Second Room | 302577 | [302577-second-room.json](./302577-second-room.json) |
@@ -4894,6 +4895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoppe Keep | 18338 | [18338-shoppe-keep.json](./18338-shoppe-keep.json) |
 | Shoppe Keep 2 | 68842 | [68842-shoppe-keep-2.json](./68842-shoppe-keep-2.json) |
 | Shopper's Paradise | 70404 | [70404-shoppers-paradise.json](./70404-shoppers-paradise.json) |
+| Shoppigeons | 181749 | [181749-shoppigeons.json](./181749-shoppigeons.json) |
 | Shopping Cart Hero 2 | 388042 | [388042-shopping-cart-hero-2.json](./388042-shopping-cart-hero-2.json) |
 | Shopping Clutter 11: Magical Garden | 284469 | [284469-shopping-clutter-11-magical-garden.json](./284469-shopping-clutter-11-magical-garden.json) |
 | Shopping Clutter 12: Halloween at the Walkers | 341872 | [341872-shopping-clutter-12-halloween-at-the-walkers.json](./341872-shopping-clutter-12-halloween-at-the-walkers.json) |
@@ -5931,6 +5933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinew | 369587 | [369587-sinew.json](./369587-sinew.json) |
 | Sinewave | 115172 | [115172-sinewave.json](./115172-sinewave.json) |
 | Sinfeld Remastered | 182338 | [182338-sinfeld-remastered.json](./182338-sinfeld-remastered.json) |
+| Sinful | 181667 | [181667-sinful.json](./181667-sinful.json) |
 | Sinful Catalyst CH1: Ethereal Camellia | 253858 | [253858-sinful-catalyst-ch1-ethereal-camellia.json](./253858-sinful-catalyst-ch1-ethereal-camellia.json) |
 | Sinful Discharge | 268459 | [268459-sinful-discharge.json](./268459-sinful-discharge.json) |
 | Sing 4: The Hits Edition | 50602 | [50602-sing-4-the-hits-edition.json](./50602-sing-4-the-hits-edition.json) |
@@ -13975,6 +13978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StepMania | 51311 | [51311-stepmania.json](./51311-stepmania.json) |
 | Steppenwolf: The X-Creatures Project | 284584 | [284584-steppenwolf-the-x-creatures-project.json](./284584-steppenwolf-the-x-creatures-project.json) |
 | Stepping Selection | 66741 | [66741-stepping-selection.json](./66741-stepping-selection.json) |
+| Steppy Dungeon | 181726 | [181726-steppy-dungeon.json](./181726-steppy-dungeon.json) |
 | Steppy Pants | 57944 | [57944-steppy-pants.json](./57944-steppy-pants.json) |
 | Stepsister Shock! | 206028 | [206028-stepsister-shock.json](./206028-stepsister-shock.json) |
 | Steptile | 287097 | [287097-steptile.json](./287097-steptile.json) |
@@ -17148,6 +17152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pitfall | 48233 | [48233-super-pitfall.json](./48233-super-pitfall.json) |
 | Super Pitfall: 30th Anniversary Edition | 48864 | [48864-super-pitfall-30th-anniversary-edition.json](./48864-super-pitfall-30th-anniversary-edition.json) |
 | Super Pixel Kid | 221706 | [221706-super-pixel-kid.json](./221706-super-pixel-kid.json) |
+| Super Pixel Maker | 181758 | [181758-super-pixel-maker.json](./181758-super-pixel-maker.json) |
 | Super Pixel Racers | 111185 | [111185-super-pixel-racers.json](./111185-super-pixel-racers.json) |
 | Super Pixelander | 124757 | [124757-super-pixelander.json](./124757-super-pixelander.json) |
 | Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
@@ -18549,6 +18554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing Fall | 359442 | [359442-swing-fall.json](./359442-swing-fall.json) |
 | Swing Fling | 317427 | [317427-swing-fling.json](./317427-swing-fling.json) |
 | Swing Game | 310143 | [310143-swing-game.json](./310143-swing-game.json) |
+| Swing High | 181719 | [181719-swing-high.json](./181719-swing-high.json) |
 | Swing Home Run | 234056 | [234056-swing-home-run.json](./234056-swing-home-run.json) |
 | Swing Into Zero-G | 296667 | [296667-swing-into-zero-g.json](./296667-swing-into-zero-g.json) |
 | Swing Lord | 141142 | [141142-swing-lord.json](./141142-swing-lord.json) |
