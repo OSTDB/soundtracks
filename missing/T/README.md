@@ -3973,6 +3973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coroner Saga | 114335 | [114335-the-coroner-saga.json](./114335-the-coroner-saga.json) |
 | The Corporation | 397161 | [397161-the-corporation.json](./397161-the-corporation.json) |
 | The Corpse | 376714 | [376714-the-corpse.json](./376714-the-corpse.json) |
+| The Corpse Crusade | 207711 | [207711-the-corpse-crusade.json](./207711-the-corpse-crusade.json) |
 | The Corral | 271787 | [271787-the-corral.json](./271787-the-corral.json) |
 | The Corridor | 148443 | [148443-the-corridor.json](./148443-the-corridor.json) |
 | The Corridors | 287913 | [287913-the-corridors.json](./287913-the-corridors.json) |
@@ -7437,6 +7438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
+| The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
 | The Nanny Affair | 313727 | [313727-the-nanny-affair.json](./313727-the-nanny-affair.json) |
 | The Nanny Affair 2 | 313728 | [313728-the-nanny-affair-2.json](./313728-the-nanny-affair-2.json) |
 | The Nanny Affair 3 | 313729 | [313729-the-nanny-affair-3.json](./313729-the-nanny-affair-3.json) |
@@ -9148,6 +9150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Onogoro | 196312 | [196312-the-tale-of-onogoro.json](./196312-the-tale-of-onogoro.json) |
 | The Tale of Relm | 333396 | [333396-the-tale-of-relm.json](./333396-the-tale-of-relm.json) |
 | The Tale of the ADHD Dinosaur | 179621 | [179621-the-tale-of-the-adhd-dinosaur.json](./179621-the-tale-of-the-adhd-dinosaur.json) |
+| The Tale of Treasonous Tom | 207752 | [207752-the-tale-of-treasonous-tom.json](./207752-the-tale-of-treasonous-tom.json) |
 | The Tale of Two Nekos | 310201 | [310201-the-tale-of-two-nekos.json](./310201-the-tale-of-two-nekos.json) |
 | The Tales of Bayun | 200111 | [200111-the-tales-of-bayun.json](./200111-the-tales-of-bayun.json) |
 | The Tales of Bearsworth Manor: Puzzling Pages | 85446 | [85446-the-tales-of-bearsworth-manor-puzzling-pages.json](./85446-the-tales-of-bearsworth-manor-puzzling-pages.json) |
@@ -10669,6 +10672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three of a Fish | 123546 | [123546-three-of-a-fish.json](./123546-three-of-a-fish.json) |
 | Three Random Archives | 265114 | [265114-three-random-archives.json](./265114-three-random-archives.json) |
 | Three Six Nine | 362985 | [362985-three-six-nine.json](./362985-three-six-nine.json) |
+| Three Skies | 207736 | [207736-three-skies.json](./207736-three-skies.json) |
 | Three Skies Ascension | 318398 | [318398-three-skies-ascension.json](./318398-three-skies-ascension.json) |
 | Three Sons | 192968 | [192968-three-sons.json](./192968-three-sons.json) |
 | Three Treason Theories | 110787 | [110787-three-treason-theories.json](./110787-three-treason-theories.json) |
@@ -14892,6 +14896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: London Subway | 103448 | [103448-train-simulator-london-subway.json](./103448-train-simulator-london-subway.json) |
 | Train Simulator: London Subway | 103488 | [103488-train-simulator-london-subway.json](./103488-train-simulator-london-subway.json) |
 | Train Simulator: Long Island Rail Road - New York: Hicksville Route | 208337 | [208337-train-simulator-long-island-rail-road-new-york-hicksville-route.json](./208337-train-simulator-long-island-rail-road-new-york-hicksville-route.json) |
+| Train Simulator: Midland Main Line: Nottingham - Lincoln Route | 207742 | [207742-train-simulator-midland-main-line-nottingham-lincoln-route.json](./207742-train-simulator-midland-main-line-nottingham-lincoln-route.json) |
 | Train Simulator: Norfolk Southern SD70ACU | 265716 | [265716-train-simulator-norfolk-southern-sd70acu.json](./265716-train-simulator-norfolk-southern-sd70acu.json) |
 | Train Simulator: ÖBB 4748 | 306074 | [306074-train-simulator-obb-4748.json](./306074-train-simulator-obb-4748.json) |
 | Train Simulator: Payerbach - Wien Hbf Route Add-On | 306073 | [306073-train-simulator-payerbach-wien-hbf-route-add-on.json](./306073-train-simulator-payerbach-wien-hbf-route-add-on.json) |
@@ -16759,6 +16764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turf | 61590 | [61590-turf.json](./61590-turf.json) |
 | Turf Hero | 37776 | [37776-turf-hero.json](./37776-turf-hero.json) |
 | Turf Memories | 37808 | [37808-turf-memories.json](./37808-turf-memories.json) |
+| Turf Wars: A Snail Escape | 207723 | [207723-turf-wars-a-snail-escape.json](./207723-turf-wars-a-snail-escape.json) |
 | Turgor Pressure | 177318 | [177318-turgor-pressure.json](./177318-turgor-pressure.json) |
 | Turing Sandbox | 400448 | [400448-turing-sandbox.json](./400448-turing-sandbox.json) |
 | Turing Trial | 183987 | [183987-turing-trial.json](./183987-turing-trial.json) |
