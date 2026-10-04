@@ -1623,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of Revenant | 221180 | [221180-empire-of-revenant.json](./221180-empire-of-revenant.json) |
 | Empire of Sin: Day One Edition | 176888 | [176888-empire-of-sin-day-one-edition.json](./176888-empire-of-sin-day-one-edition.json) |
 | Empire of Sin: Deluxe Edition | 143486 | [143486-empire-of-sin-deluxe-edition.json](./143486-empire-of-sin-deluxe-edition.json) |
+| Empire of Sin: Hunt For Aurora | 202743 | [202743-empire-of-sin-hunt-for-aurora.json](./202743-empire-of-sin-hunt-for-aurora.json) |
 | Empire of Sin: Make It Count | 193431 | [193431-empire-of-sin-make-it-count.json](./193431-empire-of-sin-make-it-count.json) |
 | Empire of Sin: Premium Edition | 143487 | [143487-empire-of-sin-premium-edition.json](./143487-empire-of-sin-premium-edition.json) |
 | Empire of the Ants | 237276 | [237276-empire-of-the-ants.json](./237276-empire-of-the-ants.json) |
@@ -2303,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epicenter VR | 212168 | [212168-epicenter-vr.json](./212168-epicenter-vr.json) |
 | Epicinium | 82124 | [82124-epicinium.json](./82124-epicinium.json) |
 | EpicMafia | 57075 | [57075-epicmafia.json](./57075-epicmafia.json) |
+| EpicRecovery | 202721 | [202721-epicrecovery.json](./202721-epicrecovery.json) |
 | Epics of Distant Realm 2: Holy Return | 189950 | [189950-epics-of-distant-realm-2-holy-return.json](./189950-epics-of-distant-realm-2-holy-return.json) |
 | Epicure | 133363 | [133363-epicure.json](./133363-epicure.json) |
 | Epicurean | 397261 | [397261-epicurean.json](./397261-epicurean.json) |
