@@ -3604,6 +3604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Islands: Curse of the Lost Soul | 13156 | [13156-evil-islands-curse-of-the-lost-soul.json](./13156-evil-islands-curse-of-the-lost-soul.json) |
 | Evil Manor | 137485 | [137485-evil-manor.json](./137485-evil-manor.json) |
 | Evil Maze 2 | 111637 | [111637-evil-maze-2.json](./111637-evil-maze-2.json) |
+| Evil Maze 2: Lava Dungeon | 193292 | [193292-evil-maze-2-lava-dungeon.json](./193292-evil-maze-2-lava-dungeon.json) |
 | Evil Next Door | 217366 | [217366-evil-next-door.json](./217366-evil-next-door.json) |
 | Evil Night | 94718 | [94718-evil-night.json](./94718-evil-night.json) |
 | Evil Nightmares | 219652 | [219652-evil-nightmares.json](./219652-evil-nightmares.json) |
