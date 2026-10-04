@@ -2715,6 +2715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repentant | 106564 | [106564-repentant.json](./106564-repentant.json) |
 | Repentless | 213640 | [213640-repentless.json](./213640-repentless.json) |
 | RePirates | 181332 | [181332-repirates.json](./181332-repirates.json) |
+| Repit 2 | 220685 | [220685-repit-2.json](./220685-repit-2.json) |
 | Replaced | 152244 | [152244-replaced.json](./152244-replaced.json) |
 | Replay Boys | 259188 | [259188-replay-boys.json](./259188-replay-boys.json) |
 | Replay Value: Second Hand Games | 347748 | [347748-replay-value-second-hand-games.json](./347748-replay-value-second-hand-games.json) |
@@ -3106,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Classix Collection #1: Data East | 147905 | [147905-retro-classix-collection-1-data-east.json](./147905-retro-classix-collection-1-data-east.json) |
 | Retro Clicker | 149603 | [149603-retro-clicker.json](./149603-retro-clicker.json) |
 | Retro Commander | 165060 | [165060-retro-commander.json](./165060-retro-commander.json) |
+| Retro Drive | 220686 | [220686-retro-drive.json](./220686-retro-drive.json) |
 | Retro Dust | 175375 | [175375-retro-dust.json](./175375-retro-dust.json) |
 | Retro First Friday Collection #3 | 186295 | [186295-retro-first-friday-collection-3.json](./186295-retro-first-friday-collection-3.json) |
 | Retro First Friday Collection #4 | 186296 | [186296-retro-first-friday-collection-4.json](./186296-retro-first-friday-collection-4.json) |
@@ -3188,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroQuest | 45332 | [45332-retroquest.json](./45332-retroquest.json) |
 | RetroRaider II: Lara's Quest Continues | 55914 | [55914-retroraider-ii-laras-quest-continues.json](./55914-retroraider-ii-laras-quest-continues.json) |
 | RetroRaider: Three Crystals | 55915 | [55915-retroraider-three-crystals.json](./55915-retroraider-three-crystals.json) |
+| RetroRange | 220687 | [220687-retrorange.json](./220687-retrorange.json) |
 | RetroRealms Arcade | 317276 | [317276-retrorealms-arcade.json](./317276-retrorealms-arcade.json) |
 | RetroRealms Double Feature: Halloween + Ash vs. Evil Dead | 320204 | [320204-retrorealms-double-feature-halloween-ash-vs-evil-dead.json](./320204-retrorealms-double-feature-halloween-ash-vs-evil-dead.json) |
 | RetroRealms Double Feature: Halloween and Ash vs. Evil Dead - Day One Edition | 331841 | [331841-retrorealms-double-feature-halloween-and-ash-vs-evil-dead-day-one-edition.json](./331841-retrorealms-double-feature-halloween-and-ash-vs-evil-dead-day-one-edition.json) |
@@ -3353,6 +3356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverend: Surf 'n Sin | 380554 | [380554-reverend-surf-n-sin.json](./380554-reverend-surf-n-sin.json) |
 | REVEREX: DX | 327457 | [327457-reverex-dx.json](./327457-reverex-dx.json) |
 | Reverie | 114417 | [114417-reverie.json](./114417-reverie.json) |
+| Reverie | 220543 | [220543-reverie.json](./220543-reverie.json) |
 | Reverie | 254161 | [254161-reverie.json](./254161-reverie.json) |
 | Reverie | 256825 | [256825-reverie.json](./256825-reverie.json) |
 | Reverie | 338839 | [338839-reverie.json](./338839-reverie.json) |
@@ -4662,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboSkate | 139437 | [139437-roboskate.json](./139437-roboskate.json) |
 | RoboSnakes: Core Wars Legacy | 113160 | [113160-robosnakes-core-wars-legacy.json](./113160-robosnakes-core-wars-legacy.json) |
 | Robosnow | 166630 | [166630-robosnow.json](./166630-robosnow.json) |
+| Robospierre | 220704 | [220704-robospierre.json](./220704-robospierre.json) |
 | Robospital | 265096 | [265096-robospital.json](./265096-robospital.json) |
 | RoboSport | 73231 | [73231-robosport.json](./73231-robosport.json) |
 | RoboSquad Revolution: Maverick Supporter Pack | 298183 | [298183-robosquad-revolution-maverick-supporter-pack.json](./298183-robosquad-revolution-maverick-supporter-pack.json) |
@@ -5607,6 +5612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronin Rush | 304713 | [304713-ronin-rush.json](./304713-ronin-rush.json) |
 | Ronin: Two Souls | 139474 | [139474-ronin-two-souls.json](./139474-ronin-two-souls.json) |
 | Ronin's Requiem | 305289 | [305289-ronins-requiem.json](./305289-ronins-requiem.json) |
+| Ronin's Run | 220705 | [220705-ronins-run.json](./220705-ronins-run.json) |
 | Ronister Adventure | 164898 | [164898-ronister-adventure.json](./164898-ronister-adventure.json) |
 | Roniu's Tale | 161178 | [161178-ronius-tale.json](./161178-ronius-tale.json) |
 | Ronnarium | 263758 | [263758-ronnarium.json](./263758-ronnarium.json) |
