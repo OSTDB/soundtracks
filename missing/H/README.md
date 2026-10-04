@@ -3365,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexle | 271821 | [271821-hexle.json](./271821-hexle.json) |
 | HexLogic - Quilts | 106381 | [106381-hexlogic-quilts.json](./106381-hexlogic-quilts.json) |
 | HexLogic: Lanterns | 216155 | [216155-hexlogic-lanterns.json](./216155-hexlogic-lanterns.json) |
+| Hexmet World | 217222 | [217222-hexmet-world.json](./217222-hexmet-world.json) |
 | HexoCity | 291590 | [291590-hexocity.json](./291590-hexocity.json) |
 | Hexodius | 16517 | [16517-hexodius.json](./16517-hexodius.json) |
 | Hexogin | 127865 | [127865-hexogin.json](./127865-hexogin.json) |
@@ -5531,6 +5532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
 | Hotel Island: Paradise Story! | 88318 | [88318-hotel-island-paradise-story.json](./88318-hotel-island-paradise-story.json) |
 | Hotel Life: A Resort Simulator | 151044 | [151044-hotel-life-a-resort-simulator.json](./151044-hotel-life-a-resort-simulator.json) |
+| Hotel Management Simulator | 217285 | [217285-hotel-management-simulator.json](./217285-hotel-management-simulator.json) |
 | Hotel Manager Simulator | 199498 | [199498-hotel-manager-simulator.json](./199498-hotel-manager-simulator.json) |
 | Hotel Mario | 8535 | [8535-hotel-mario.json](./8535-hotel-mario.json) |
 | Hotel Mario II | 269846 | [269846-hotel-mario-ii.json](./269846-hotel-mario-ii.json) |
@@ -6051,6 +6053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanelfo: Um Segredo Vai Te Libertar | 338936 | [338936-humanelfo-um-segredo-vai-te-libertar.json](./338936-humanelfo-um-segredo-vai-te-libertar.json) |
 | Humanitarian Helicopter | 85172 | [85172-humanitarian-helicopter.json](./85172-humanitarian-helicopter.json) |
 | Humanitas | 117001 | [117001-humanitas.json](./117001-humanitas.json) |
+| Humanities Legend: Dark Horizon | 217225 | [217225-humanities-legend-dark-horizon.json](./217225-humanities-legend-dark-horizon.json) |
 | Humanities Legend: Hollow Ascending | 183868 | [183868-humanities-legend-hollow-ascending.json](./183868-humanities-legend-hollow-ascending.json) |
 | Humanity Is Dead | 181302 | [181302-humanity-is-dead.json](./181302-humanity-is-dead.json) |
 | Humanity Lost | 229047 | [229047-humanity-lost.json](./229047-humanity-lost.json) |
