@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Loader | 324304 | [324304-galactic-loader.json](./324304-galactic-loader.json) |
 | Galactic Lords | 252696 | [252696-galactic-lords.json](./252696-galactic-lords.json) |
 | Galactic Lords | 75174 | [75174-galactic-lords.json](./75174-galactic-lords.json) |
+| Galactic Merchant | 201626 | [201626-galactic-merchant.json](./201626-galactic-merchant.json) |
 | Galactic Mining Corp | 132093 | [132093-galactic-mining-corp.json](./132093-galactic-mining-corp.json) |
 | Galactic Missile Defense | 34807 | [34807-galactic-missile-defense.json](./34807-galactic-missile-defense.json) |
 | Galactic Nemesis | 197252 | [197252-galactic-nemesis.json](./197252-galactic-nemesis.json) |
@@ -3073,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godkiller | 161172 | [161172-godkiller.json](./161172-godkiller.json) |
 | Godland: The Fire Quest | 202666 | [202666-godland-the-fire-quest.json](./202666-godland-the-fire-quest.json) |
 | Godland: The Fire Quest 2 | 219662 | [219662-godland-the-fire-quest-2.json](./219662-godland-the-fire-quest-2.json) |
+| Godless grove | 201609 | [201609-godless-grove.json](./201609-godless-grove.json) |
 | Godless Tactics | 132673 | [132673-godless-tactics.json](./132673-godless-tactics.json) |
 | Godlike Burger | 143010 | [143010-godlike-burger.json](./143010-godlike-burger.json) |
 | Godmode Epochs | 252688 | [252688-godmode-epochs.json](./252688-godmode-epochs.json) |
@@ -4103,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granny's House | 182449 | [182449-grannys-house.json](./182449-grannys-house.json) |
 | Granola Jumps | 297252 | [297252-granola-jumps.json](./297252-granola-jumps.json) |
 | Granser | 295855 | [295855-granser.json](./295855-granser.json) |
+| Gränsland | 201653 | [201653-gransland.json](./201653-gransland.json) |
 | Grant of God | 247180 | [247180-grant-of-god.json](./247180-grant-of-god.json) |
 | Grant Theft Mario | 315015 | [315015-grant-theft-mario.json](./315015-grant-theft-mario.json) |
 | Granular Moon | 383661 | [383661-granular-moon.json](./383661-granular-moon.json) |
