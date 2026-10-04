@@ -1216,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4-in-1 Award Winning Indie Gems | 331453 | [331453-4-in-1-award-winning-indie-gems.json](./331453-4-in-1-award-winning-indie-gems.json) |
 | 4-in-1 Fun Pak | 69787 | [69787-4-in-1-fun-pak.json](./69787-4-in-1-fun-pak.json) |
 | 4-in-1 Funpak Volume II | 93553 | [93553-4-in-1-funpak-volume-ii.json](./93553-4-in-1-funpak-volume-ii.json) |
+| 4-in-1: Hash Block/Jacky Lucky/Challenger Tank/Brain Power | 195064 | [195064-4-in-1-hash-block-jacky-lucky-challenger-tank-brain-power.json](./195064-4-in-1-hash-block-jacky-lucky-challenger-tank-brain-power.json) |
 | 4-Lung Boy | 185651 | [185651-4-lung-boy.json](./185651-4-lung-boy.json) |
 | 4-nin Uchi Mahjong | 93369 | [93369-4-nin-uchi-mahjong.json](./93369-4-nin-uchi-mahjong.json) |
 | 4-Play Action Pack (Volume 1) | 86046 | [86046-4-play-action-pack-volume-1.json](./86046-4-play-action-pack-volume-1.json) |
