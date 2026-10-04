@@ -4231,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megafortress | 71481 | [71481-megafortress.json](./71481-megafortress.json) |
 | Megafortress Collection | 244870 | [244870-megafortress-collection.json](./244870-megafortress-collection.json) |
 | MegaGum | 403810 | [403810-megagum.json](./403810-megagum.json) |
+| Megajump | 174077 | [174077-megajump.json](./174077-megajump.json) |
 | Megako Punch! | 407597 | [407597-megako-punch.json](./407597-megako-punch.json) |
 | Megalit | 19558 | [19558-megalit.json](./19558-megalit.json) |
 | Megalith | 143049 | [143049-megalith.json](./143049-megalith.json) |
