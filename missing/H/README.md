@@ -6005,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo: Magic in the Trollwoods | 48023 | [48023-hugo-magic-in-the-trollwoods.json](./48023-hugo-magic-in-the-trollwoods.json) |
 | Hugo: På Nye Eventyr | 11760 | [11760-hugo-pa-nye-eventyr.json](./11760-hugo-pa-nye-eventyr.json) |
 | Hugo: På Nye Eventyr - Del 2 | 64506 | [64506-hugo-pa-nye-eventyr-del-2.json](./64506-hugo-pa-nye-eventyr-del-2.json) |
+| Hugo: Penguin Battle | 210540 | [210540-hugo-penguin-battle.json](./210540-hugo-penguin-battle.json) |
 | Hugo: Retro Mania | 64498 | [64498-hugo-retro-mania.json](./64498-hugo-retro-mania.json) |
 | Hugo: Smakkaball | 210614 | [210614-hugo-smakkaball.json](./210614-hugo-smakkaball.json) |
 | Hugo: The Bewitched Rollercoaster | 286609 | [286609-hugo-the-bewitched-rollercoaster.json](./286609-hugo-the-bewitched-rollercoaster.json) |
