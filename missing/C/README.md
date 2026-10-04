@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.H.A.O.S Tournament | 117726 | [117726-c-h-a-o-s-tournament.json](./117726-c-h-a-o-s-tournament.json) |
 | C.I.E.B The Backrooms Project | 265402 | [265402-c-i-e-b-the-backrooms-project.json](./265402-c-i-e-b-the-backrooms-project.json) |
 | C.L.A.S.H: Colonial Life Advancing Self-sustained Hemisphere - Chapter 1 | 406245 | [406245-c-l-a-s-h-colonial-life-advancing-self-sustained-hemisphere-chapter-1.json](./406245-c-l-a-s-h-colonial-life-advancing-self-sustained-hemisphere-chapter-1.json) |
+| C.L.A.Y.: The Last Redemption | 193289 | [193289-c-l-a-y-the-last-redemption.json](./193289-c-l-a-y-the-last-redemption.json) |
 | C.L.T.: Cheguei Louco no Trabalho | 255390 | [255390-c-l-t-cheguei-louco-no-trabalho.json](./255390-c-l-t-cheguei-louco-no-trabalho.json) |
 | C.M.Y.K | 135046 | [135046-c-m-y-k.json](./135046-c-m-y-k.json) |
 | C.O.R.E. | 20977 | [20977-c-o-r-e.json](./20977-c-o-r-e.json) |
@@ -184,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cage Me Not | 372631 | [372631-cage-me-not.json](./372631-cage-me-not.json) |
 | Cage of Roses | 303720 | [303720-cage-of-roses.json](./303720-cage-of-roses.json) |
 | Cage-Face: Case 2 - The Sewer | 193432 | [193432-cage-face-case-2-the-sewer.json](./193432-cage-face-case-2-the-sewer.json) |
+| Cage: Open | 193307 | [193307-cage-open.json](./193307-cage-open.json) |
 | Cagebreak | 60568 | [60568-cagebreak.json](./60568-cagebreak.json) |
 | Caged Bird Don't Fly Caught in a Wire Sing Like a Good Canary Come When Called | 122335 | [122335-caged-bird-dont-fly-caught-in-a-wire-sing-like-a-good-canary-come-when-called.json](./122335-caged-bird-dont-fly-caught-in-a-wire-sing-like-a-good-canary-come-when-called.json) |
 | Caged Garden Cock Robin | 120259 | [120259-caged-garden-cock-robin.json](./120259-caged-garden-cock-robin.json) |
@@ -617,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canari | 51580 | [51580-canari.json](./51580-canari.json) |
 | Canasta 3D Premium | 118406 | [118406-canasta-3d-premium.json](./118406-canasta-3d-premium.json) |
 | Candance Kane's Candy Factory | 137475 | [137475-candance-kanes-candy-factory.json](./137475-candance-kanes-candy-factory.json) |
+| Candela | 193258 | [193258-candela.json](./193258-candela.json) |
 | Candelabra Estoscerro | 143077 | [143077-candelabra-estoscerro.json](./143077-candelabra-estoscerro.json) |
 | Candellum | 401706 | [401706-candellum.json](./401706-candellum.json) |
 | Candice DeBebe's Incredibly Trick Lifestyle | 33246 | [33246-candice-debebes-incredibly-trick-lifestyle.json](./33246-candice-debebes-incredibly-trick-lifestyle.json) |
@@ -3563,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Chasers | 380067 | [380067-chicken-chasers.json](./380067-chicken-chasers.json) |
 | Chicken Chicken | 390635 | [390635-chicken-chicken.json](./390635-chicken-chicken.json) |
 | Chicken Climber | 401112 | [401112-chicken-climber.json](./401112-chicken-climber.json) |
+| Chicken Coop | 193279 | [193279-chicken-coop.json](./193279-chicken-coop.json) |
 | Chicken Coop | 42165 | [42165-chicken-coop.json](./42165-chicken-coop.json) |
 | Chicken Coop Invaders | 388753 | [388753-chicken-coop-invaders.json](./388753-chicken-coop-invaders.json) |
 | Chicken Defender | 166616 | [166616-chicken-defender.json](./166616-chicken-defender.json) |
@@ -9012,6 +9016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Clicker | 169845 | [169845-critter-clicker.json](./169845-critter-clicker.json) |
 | Critter Combat | 241351 | [241351-critter-combat.json](./241351-critter-combat.json) |
 | Critter Cove | 136987 | [136987-critter-cove.json](./136987-critter-cove.json) |
+| Critter Crops | 193308 | [193308-critter-crops.json](./193308-critter-crops.json) |
 | Critter Crosser | 286620 | [286620-critter-crosser.json](./286620-critter-crosser.json) |
 | Critter Crunch | 13188 | [13188-critter-crunch.json](./13188-critter-crunch.json) |
 | Critter Crush - Hunting Game | 89282 | [89282-critter-crush-hunting-game.json](./89282-critter-crush-hunting-game.json) |
