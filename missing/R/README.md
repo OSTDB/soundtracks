@@ -6558,6 +6558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running MrBeast | 229338 | [229338-running-mrbeast.json](./229338-running-mrbeast.json) |
 | Running Naked Simulator 2019 | 110810 | [110810-running-naked-simulator-2019.json](./110810-running-naked-simulator-2019.json) |
 | Running Out of Spice | 179143 | [179143-running-out-of-spice.json](./179143-running-out-of-spice.json) |
+| Running Over Zombies | 204943 | [204943-running-over-zombies.json](./204943-running-over-zombies.json) |
 | Running Rich Racing | 234014 | [234014-running-rich-racing.json](./234014-running-rich-racing.json) |
 | Running Riot | 240743 | [240743-running-riot.json](./240743-running-riot.json) |
 | Running Rogue | 139371 | [139371-running-rogue.json](./139371-running-rogue.json) |
