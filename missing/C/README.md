@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C64anabalt | 41017 | [41017-c64anabalt.json](./41017-c64anabalt.json) |
 | Caaahr! | 405654 | [405654-caaahr.json](./405654-caaahr.json) |
 | Caapora Adventure: Ojibe's Revenge | 171379 | [171379-caapora-adventure-ojibes-revenge.json](./171379-caapora-adventure-ojibes-revenge.json) |
+| Cab Ride | 172552 | [172552-cab-ride.json](./172552-cab-ride.json) |
 | Cabal 2 | 12132 | [12132-cabal-2.json](./12132-cabal-2.json) |
 | Cabal M: Heroes of Nevareth | 174724 | [174724-cabal-m-heroes-of-nevareth.json](./174724-cabal-m-heroes-of-nevareth.json) |
 | Cabals: Magic & Battle Cards | 33107 | [33107-cabals-magic-and-battle-cards.json](./33107-cabals-magic-and-battle-cards.json) |
@@ -1498,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartapli: Fold Quest | 386834 | [386834-cartapli-fold-quest.json](./386834-cartapli-fold-quest.json) |
 | Cartas de Coisas | 325623 | [325623-cartas-de-coisas.json](./325623-cartas-de-coisas.json) |
 | Carte Blanche | 333559 | [333559-carte-blanche.json](./333559-carte-blanche.json) |
+| Carte Primus | 172453 | [172453-carte-primus.json](./172453-carte-primus.json) |
 | Carteado | 371974 | [371974-carteado.json](./371974-carteado.json) |
 | Cartefact | 403202 | [403202-cartefact.json](./403202-cartefact.json) |
 | Cartel Pilots Wanted | 412957 | [412957-cartel-pilots-wanted.json](./412957-cartel-pilots-wanted.json) |
@@ -4072,6 +4074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choro Q Park | 46095 | [46095-choro-q-park.json](./46095-choro-q-park.json) |
 | Choro Q Works | 97363 | [97363-choro-q-works.json](./97363-choro-q-works.json) |
 | Chorus | 133305 | [133305-chorus.json](./133305-chorus.json) |
+| Chorus: Day One Edition | 172575 | [172575-chorus-day-one-edition.json](./172575-chorus-day-one-edition.json) |
 | Chosen | 384064 | [384064-chosen.json](./384064-chosen.json) |
 | Chosen 2 | 30068 | [30068-chosen-2.json](./30068-chosen-2.json) |
 | Chosen Angels | 255998 | [255998-chosen-angels.json](./255998-chosen-angels.json) |
@@ -6940,6 +6943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congestion 1024 | 196247 | [196247-congestion-1024.json](./196247-congestion-1024.json) |
 | Congestion Control | 274152 | [274152-congestion-control.json](./274152-congestion-control.json) |
 | Conglomerate 451: Overloaded | 151596 | [151596-conglomerate-451-overloaded.json](./151596-conglomerate-451-overloaded.json) |
+| Congo | 172468 | [172468-congo.json](./172468-congo.json) |
 | Congo Bongo | 282063 | [282063-congo-bongo.json](./282063-congo-bongo.json) |
 | Congo Bongo | 5669 | [5669-congo-bongo.json](./5669-congo-bongo.json) |
 | Congo Merc | 31821 | [31821-congo-merc.json](./31821-congo-merc.json) |
@@ -10596,6 +10600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Tower 2048 | 357840 | [357840-cyber-tower-2048.json](./357840-cyber-tower-2048.json) |
 | Cyber Troopers Virtual-On | 46775 | [46775-cyber-troopers-virtual-on.json](./46775-cyber-troopers-virtual-on.json) |
 | Cyber Troopers Virtual-On Marz | 19252 | [19252-cyber-troopers-virtual-on-marz.json](./19252-cyber-troopers-virtual-on-marz.json) |
+| Cyber Troopers Virtual-On: Oratorio Tangram - M.S.B.S. Ver. 5.66 | 172535 | [172535-cyber-troopers-virtual-on-oratorio-tangram-m-s-b-s-ver-5-66.json](./172535-cyber-troopers-virtual-on-oratorio-tangram-m-s-b-s-ver-5-66.json) |
 | Cyber Troopers: Virtual On x Toaru Majutsu no Index - Toaru Majutsu no Dennou Senki | 144179 | [144179-cyber-troopers-virtual-on-x-toaru-majutsu-no-index-toaru-majutsu-no-dennou-senki.json](./144179-cyber-troopers-virtual-on-x-toaru-majutsu-no-index-toaru-majutsu-no-dennou-senki.json) |
 | Cyber Utopia | 43508 | [43508-cyber-utopia.json](./43508-cyber-utopia.json) |
 | Cyber VR | 51938 | [51938-cyber-vr.json](./51938-cyber-vr.json) |
