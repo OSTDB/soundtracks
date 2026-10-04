@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Your Best Shot | 69794 | [69794-take-your-best-shot.json](./69794-take-your-best-shot.json) |
 | Take Yutaka G1 Memory | 37795 | [37795-take-yutaka-g1-memory.json](./37795-take-yutaka-g1-memory.json) |
 | Take-out Weight Curling | 70949 | [70949-take-out-weight-curling.json](./70949-take-out-weight-curling.json) |
+| Take-Out Weight Curling 2 | 206617 | [206617-take-out-weight-curling-2.json](./206617-take-out-weight-curling-2.json) |
 | Takeda 2 | 67323 | [67323-takeda-2.json](./67323-takeda-2.json) |
 | Takeda 3 | 24923 | [24923-takeda-3.json](./24923-takeda-3.json) |
 | Takeda Shingen | 37729 | [37729-takeda-shingen.json](./37729-takeda-shingen.json) |
@@ -972,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tandem: A Tale of Shadows | 151134 | [151134-tandem-a-tale-of-shadows.json](./151134-tandem-a-tale-of-shadows.json) |
 | Tandis | 144176 | [144176-tandis.json](./144176-tandis.json) |
 | Tane o Maku Tori | 20174 | [20174-tane-o-maku-tori.json](./20174-tane-o-maku-tori.json) |
+| Tang Chi | 206613 | [206613-tang-chi.json](./206613-tang-chi.json) |
 | Táng Chuánqí: Shàng Yuáncháng Gān Xíng | 373703 | [373703-tang-chuanqi-shang-yuanchang-gan-xing.json](./373703-tang-chuanqi-shang-yuanchang-gan-xing.json) |
 | Tang Dynasty Architecture | 275341 | [275341-tang-dynasty-architecture.json](./275341-tang-dynasty-architecture.json) |
 | Tángdì zhī Huá | 394820 | [394820-tangdi-zhi-hua.json](./394820-tangdi-zhi-hua.json) |
@@ -1232,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap a Jam | 73290 | [73290-tap-a-jam.json](./73290-tap-a-jam.json) |
 | Tap Adventure: Time Travel | 27688 | [27688-tap-adventure-time-travel.json](./27688-tap-adventure-time-travel.json) |
 | Tap and Field | 175201 | [175201-tap-and-field.json](./175201-tap-and-field.json) |
+| Tap and Teach: The Story of Noah's Ark | 206616 | [206616-tap-and-teach-the-story-of-noahs-ark.json](./206616-tap-and-teach-the-story-of-noahs-ark.json) |
 | Tap Away | 230515 | [230515-tap-away.json](./230515-tap-away.json) |
 | Tap Beats Jazz | 86917 | [86917-tap-beats-jazz.json](./86917-tap-beats-jazz.json) |
 | Tap Bingo | 232381 | [232381-tap-bingo.json](./232381-tap-bingo.json) |
@@ -1611,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Conquest | 220053 | [220053-team-conquest.json](./220053-team-conquest.json) |
 | Team Dehdehbon | 372629 | [372629-team-dehdehbon.json](./372629-team-dehdehbon.json) |
 | Team Delusional's Dusttale | 329654 | [329654-team-delusionals-dusttale.json](./329654-team-delusionals-dusttale.json) |
+| Team DK BMX | 206612 | [206612-team-dk-bmx.json](./206612-team-dk-bmx.json) |
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
 | Team Fortress 2 Classic: Community Edition | 360756 | [360756-team-fortress-2-classic-community-edition.json](./360756-team-fortress-2-classic-community-edition.json) |
 | Team Fortress 2 Classic: Death & Taxes | 261461 | [261461-team-fortress-2-classic-death-and-taxes.json](./261461-team-fortress-2-classic-death-and-taxes.json) |
@@ -1702,11 +1706,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tearstone: Thieves of the Heart - Collector's Edition | 322791 | [322791-tearstone-thieves-of-the-heart-collectors-edition.json](./322791-tearstone-thieves-of-the-heart-collectors-edition.json) |
 | Teasing Master Takagi-san VR: 1st Semester | 160134 | [160134-teasing-master-takagi-san-vr-1st-semester.json](./160134-teasing-master-takagi-san-vr-1st-semester.json) |
 | Teatime with a Vampire | 301375 | [301375-teatime-with-a-vampire.json](./301375-teatime-with-a-vampire.json) |
+| Teazle 2 | 206609 | [206609-teazle-2.json](./206609-teazle-2.json) |
 | Tebb And The Chistorbes | 232961 | [232961-tebb-and-the-chistorbes.json](./232961-tebb-and-the-chistorbes.json) |
 | Tebeo | 215147 | [215147-tebeo.json](./215147-tebeo.json) |
 | Tech and Blood | 181864 | [181864-tech-and-blood.json](./181864-tech-and-blood.json) |
+| Tech Bike Freestyle | 206610 | [206610-tech-bike-freestyle.json](./206610-tech-bike-freestyle.json) |
 | Tech Blast | 368482 | [368482-tech-blast.json](./368482-tech-blast.json) |
 | Tech Corp. | 107992 | [107992-tech-corp.json](./107992-tech-corp.json) |
+| Tech Deck Snowboarding | 206611 | [206611-tech-deck-snowboarding.json](./206611-tech-deck-snowboarding.json) |
 | Tech Disorder | 291258 | [291258-tech-disorder.json](./291258-tech-disorder.json) |
 | Tech Executive Tycoon | 17036 | [17036-tech-executive-tycoon.json](./17036-tech-executive-tycoon.json) |
 | Tech Invaders TD | 219568 | [219568-tech-invaders-td.json](./219568-tech-invaders-td.json) |
@@ -4919,6 +4926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fast Journey | 276309 | [276309-the-fast-journey.json](./276309-the-fast-journey.json) |
 | The Fate of Baldr | 211209 | [211209-the-fate-of-baldr.json](./211209-the-fate-of-baldr.json) |
 | The Fate of the Pharaoh | 100188 | [100188-the-fate-of-the-pharaoh.json](./100188-the-fate-of-the-pharaoh.json) |
+| The Fazbear Facility | 206591 | [206591-the-fazbear-facility.json](./206591-the-fazbear-facility.json) |
 | The Fear | 94356 | [94356-the-fear.json](./94356-the-fear.json) |
 | The Fear 2: Creepy Scream House | 96745 | [96745-the-fear-2-creepy-scream-house.json](./96745-the-fear-2-creepy-scream-house.json) |
 | The Fear Island | 153866 | [153866-the-fear-island.json](./153866-the-fear-island.json) |
@@ -6801,6 +6809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Line of Defense | 370184 | [370184-the-line-of-defense.json](./370184-the-line-of-defense.json) |
 | The Line TD | 275335 | [275335-the-line-td.json](./275335-the-line-td.json) |
 | The Lingering: Last Customer | 336532 | [336532-the-lingering-last-customer.json](./336532-the-lingering-last-customer.json) |
+| The Links at Spanish Bay: PGA Tour 96 Championship Course | 206632 | [206632-the-links-at-spanish-bay-pga-tour-96-championship-course.json](./206632-the-links-at-spanish-bay-pga-tour-96-championship-course.json) |
 | The Lion King | 3166 | [3166-the-lion-king.json](./3166-the-lion-king.json) |
 | The Lion King 1½ - Timon And Pumbaa’s Virtual Safari 1.5: The Lion King Prideland Adventure | 325091 | [325091-the-lion-king-11-2-timon-and-pumbaa-s-virtual-safari-1-5-the-lion-king-prideland-adventure.json](./325091-the-lion-king-11-2-timon-and-pumbaa-s-virtual-safari-1-5-the-lion-king-prideland-adventure.json) |
 | The Lion King II: Simba's Pride: Special Edition - Timon And Pumbaa’s Virtual Safari 2.0: Prideland Pachiderm Safari | 325090 | [325090-the-lion-king-ii-simbas-pride-special-edition-timon-and-pumbaa-s-virtual-safari-2-0-prideland-pachiderm-safari.json](./325090-the-lion-king-ii-simbas-pride-special-edition-timon-and-pumbaa-s-virtual-safari-2-0-prideland-pachiderm-safari.json) |
@@ -10672,6 +10681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Men's Morris | 384169 | [384169-three-mens-morris.json](./384169-three-mens-morris.json) |
 | Three Methods to Unseat a Fairy Monarch | 360144 | [360144-three-methods-to-unseat-a-fairy-monarch.json](./360144-three-methods-to-unseat-a-fairy-monarch.json) |
 | Three Misses Confectionery | 398455 | [398455-three-misses-confectionery.json](./398455-three-misses-confectionery.json) |
+| Three Musketeers | 206631 | [206631-three-musketeers.json](./206631-three-musketeers.json) |
 | Three Nights Escape | 315589 | [315589-three-nights-escape.json](./315589-three-nights-escape.json) |
 | Three of a Fish | 123546 | [123546-three-of-a-fish.json](./123546-three-of-a-fish.json) |
 | Three Random Archives | 265114 | [265114-three-random-archives.json](./265114-three-random-archives.json) |
@@ -12627,6 +12637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Trust an Incubus | 111730 | [111730-to-trust-an-incubus.json](./111730-to-trust-an-incubus.json) |
 | To Victory | 274471 | [274471-to-victory.json](./274471-to-victory.json) |
 | To Your Stations! | 135750 | [135750-to-your-stations.json](./135750-to-your-stations.json) |
+| To-Fu Collection | 206765 | [206765-to-fu-collection.json](./206765-to-fu-collection.json) |
 | To-Fu Oh! Sushi | 252139 | [252139-to-fu-oh-sushi.json](./252139-to-fu-oh-sushi.json) |
 | To-Fu: The Trials of Chi | 364556 | [364556-to-fu-the-trials-of-chi.json](./364556-to-fu-the-trials-of-chi.json) |
 | TO: Crossfire | 272321 | [272321-to-crossfire.json](./272321-to-crossfire.json) |
@@ -16752,6 +16763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Subs | 206070 | [206070-turbo-subs.json](./206070-turbo-subs.json) |
 | Turbo Tempest | 153953 | [153953-turbo-tempest.json](./153953-turbo-tempest.json) |
 | Turbo Titans | 391883 | [391883-turbo-titans.json](./391883-turbo-titans.json) |
+| Turbo Trainz | 206637 | [206637-turbo-trainz.json](./206637-turbo-trainz.json) |
 | Turbo Trax | 12802 | [12802-turbo-trax.json](./12802-turbo-trax.json) |
 | Turbo Trio | 275216 | [275216-turbo-trio.json](./275216-turbo-trio.json) |
 | Turbo Trot | 261354 | [261354-turbo-trot.json](./261354-turbo-trot.json) |
@@ -16921,6 +16933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Sports Basketball | 8672 | [8672-tv-sports-basketball.json](./8672-tv-sports-basketball.json) |
 | TV Studio Story | 282014 | [282014-tv-studio-story.json](./282014-tv-studio-story.json) |
 | TV Thief | 190748 | [190748-tv-thief.json](./190748-tv-thief.json) |
+| TV Tycoon | 206630 | [206630-tv-tycoon.json](./206630-tv-tycoon.json) |
 | TV Vader | 250900 | [250900-tv-vader.json](./250900-tv-vader.json) |
 | TV1998 | 257354 | [257354-tv1998.json](./257354-tv1998.json) |
 | TVhead | 217506 | [217506-tvhead.json](./217506-tvhead.json) |
