@@ -1439,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Thousand Lies | 19444 | [19444-one-thousand-lies.json](./19444-one-thousand-lies.json) |
 | One Thousand Paper Cuts | 138605 | [138605-one-thousand-paper-cuts.json](./138605-one-thousand-paper-cuts.json) |
 | One Tile Man | 137488 | [137488-one-tile-man.json](./137488-one-tile-man.json) |
+| One Time In Space | 188450 | [188450-one-time-in-space.json](./188450-one-time-in-space.json) |
 | One to Nine | 272482 | [272482-one-to-nine.json](./272482-one-to-nine.json) |
 | One to Three: Sovereignty | 182998 | [182998-one-to-three-sovereignty.json](./182998-one-to-three-sovereignty.json) |
 | One Ton Bang Bang | 234722 | [234722-one-ton-bang-bang.json](./234722-one-ton-bang-bang.json) |
