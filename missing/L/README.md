@@ -4253,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Industry 2 | 228344 | [228344-lost-industry-2.json](./228344-lost-industry-2.json) |
 | Lost Infinity | 275843 | [275843-lost-infinity.json](./275843-lost-infinity.json) |
 | Lost Inside: Act 1 | 291751 | [291751-lost-inside-act-1.json](./291751-lost-inside-act-1.json) |
+| Lost Intelligence | 216704 | [216704-lost-intelligence.json](./216704-lost-intelligence.json) |
 | Lost Island | 288366 | [288366-lost-island.json](./288366-lost-island.json) |
 | Lost Island | 350508 | [350508-lost-island.json](./350508-lost-island.json) |
 | Lost Island: Eternal Storm | 295916 | [295916-lost-island-eternal-storm.json](./295916-lost-island-eternal-storm.json) |
