@@ -1634,7 +1634,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter Nights: Gold Edition | 210036 | [210036-neverwinter-nights-gold-edition.json](./210036-neverwinter-nights-gold-edition.json) |
 | Neverwinter Nights: Pirates of the Sword Coast | 124906 | [124906-neverwinter-nights-pirates-of-the-sword-coast.json](./124906-neverwinter-nights-pirates-of-the-sword-coast.json) |
 | Neverwinter Nights: Wyvern Crown of Cormyr | 124892 | [124892-neverwinter-nights-wyvern-crown-of-cormyr.json](./124892-neverwinter-nights-wyvern-crown-of-cormyr.json) |
+| Neverwinter: Curse of Icewind Dale | 224450 | [224450-neverwinter-curse-of-icewind-dale.json](./224450-neverwinter-curse-of-icewind-dale.json) |
+| Neverwinter: Elemental Evil | 224465 | [224465-neverwinter-elemental-evil.json](./224465-neverwinter-elemental-evil.json) |
+| Neverwinter: Rise of Tiamat | 224462 | [224462-neverwinter-rise-of-tiamat.json](./224462-neverwinter-rise-of-tiamat.json) |
 | Neverwinter: Storm King's Thunder | 26867 | [26867-neverwinter-storm-kings-thunder.json](./26867-neverwinter-storm-kings-thunder.json) |
+| Neverwinter: Strongholds | 224466 | [224466-neverwinter-strongholds.json](./224466-neverwinter-strongholds.json) |
+| Neverwinter: The Cloaked Ascendancy | 224469 | [224469-neverwinter-the-cloaked-ascendancy.json](./224469-neverwinter-the-cloaked-ascendancy.json) |
+| Neverwinter: The Maze Engine | 224468 | [224468-neverwinter-the-maze-engine.json](./224468-neverwinter-the-maze-engine.json) |
+| Neverwinter: Tyranny of Dragons | 224451 | [224451-neverwinter-tyranny-of-dragons.json](./224451-neverwinter-tyranny-of-dragons.json) |
+| Neverwinter: Underdark | 224467 | [224467-neverwinter-underdark.json](./224467-neverwinter-underdark.json) |
 | Neverwinter: Undermountain | 115474 | [115474-neverwinter-undermountain.json](./115474-neverwinter-undermountain.json) |
 | Neverwood | 401788 | [401788-neverwood.json](./401788-neverwood.json) |
 | Nevrosa: Escape | 68172 | [68172-nevrosa-escape.json](./68172-nevrosa-escape.json) |
