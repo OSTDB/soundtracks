@@ -1620,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jugs Bay | 304618 | [304618-jugs-bay.json](./304618-jugs-bay.json) |
 | Jugular | 179120 | [179120-jugular.json](./179120-jugular.json) |
 | Juice | 139264 | [139264-juice.json](./139264-juice.json) |
+| Juice Fresh: Fruit Elimination | 187901 | [187901-juice-fresh-fruit-elimination.json](./187901-juice-fresh-fruit-elimination.json) |
 | Juice Galaxy | 142940 | [142940-juice-galaxy.json](./142940-juice-galaxy.json) |
 | Juiced | 248738 | [248738-juiced.json](./248738-juiced.json) |
 | Juiced | 5870 | [5870-juiced.json](./5870-juiced.json) |
