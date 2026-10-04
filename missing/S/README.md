@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Solitaire: Return of the Ronin | 204103 | [204103-samurai-solitaire-return-of-the-ronin.json](./204103-samurai-solitaire-return-of-the-ronin.json) |
 | Samurai Solitaire: Threads of Fate | 195694 | [195694-samurai-solitaire-threads-of-fate.json](./195694-samurai-solitaire-threads-of-fate.json) |
 | Samurai Spirits: Kenkaku Yubinan Pack | 56455 | [56455-samurai-spirits-kenkaku-yubinan-pack.json](./56455-samurai-spirits-kenkaku-yubinan-pack.json) |
+| Samurai Story | 200495 | [200495-samurai-story.json](./200495-samurai-story.json) |
 | Samurai Stratagem | 379342 | [379342-samurai-stratagem.json](./379342-samurai-stratagem.json) |
 | Samurai Survivor: Undefeated Blade | 244358 | [244358-samurai-survivor-undefeated-blade.json](./244358-samurai-survivor-undefeated-blade.json) |
 | Samurai Survivors | 244247 | [244247-samurai-survivors.json](./244247-samurai-survivors.json) |
@@ -10409,6 +10410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Subtraction | 310971 | [310971-space-subtraction.json](./310971-space-subtraction.json) |
 | Space Survival | 171402 | [171402-space-survival.json](./171402-space-survival.json) |
 | Space Survival | 183863 | [183863-space-survival.json](./183863-space-survival.json) |
+| Space Survival | 200512 | [200512-space-survival.json](./200512-space-survival.json) |
 | Space Survival | 32932 | [32932-space-survival.json](./32932-space-survival.json) |
 | Space Survivor | 245334 | [245334-space-survivor.json](./245334-space-survivor.json) |
 | Space Survivor | 289553 | [289553-space-survivor.json](./289553-space-survivor.json) |
@@ -10730,6 +10732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spearain | 320301 | [320301-spearain.json](./320301-spearain.json) |
 | Speard | 257322 | [257322-speard.json](./257322-speard.json) |
 | Spearfishing | 51191 | [51191-spearfishing.json](./51191-spearfishing.json) |
+| Spearhead | 200494 | [200494-spearhead.json](./200494-spearhead.json) |
 | SpearHeads | 248722 | [248722-spearheads.json](./248722-spearheads.json) |
 | Spearmint Goose | 195195 | [195195-spearmint-goose.json](./195195-spearmint-goose.json) |
 | Spearrowblade | 383057 | [383057-spearrowblade.json](./383057-spearrowblade.json) |
@@ -12219,6 +12222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stadium | 371967 | [371967-stadium.json](./371967-stadium.json) |
 | Stadium Cross | 123004 | [123004-stadium-cross.json](./123004-stadium-cross.json) |
 | Stadium Games | 49384 | [49384-stadium-games.json](./49384-stadium-games.json) |
+| Stadtleben | 200508 | [200508-stadtleben.json](./200508-stadtleben.json) |
 | Staff Only | 139432 | [139432-staff-only.json](./139432-staff-only.json) |
 | Staff Runner | 273409 | [273409-staff-runner.json](./273409-staff-runner.json) |
 | Staff! | 269095 | [269095-staff.json](./269095-staff.json) |
@@ -18591,6 +18595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | symeCu8e | 90620 | [90620-symecu8e.json](./90620-symecu8e.json) |
 | Symmetrain | 123074 | [123074-symmetrain.json](./123074-symmetrain.json) |
 | Symmetry - Drawing Puzzles | 101090 | [101090-symmetry-drawing-puzzles.json](./101090-symmetry-drawing-puzzles.json) |
+| Symmetry Lines | 200507 | [200507-symmetry-lines.json](./200507-symmetry-lines.json) |
 | SymmetryPad - Doodle in Relax | 108601 | [108601-symmetrypad-doodle-in-relax.json](./108601-symmetrypad-doodle-in-relax.json) |
 | Symmodance | 263756 | [263756-symmodance.json](./263756-symmodance.json) |
 | Sympathia | 277608 | [277608-sympathia.json](./277608-sympathia.json) |
