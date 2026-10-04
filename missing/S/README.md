@@ -5986,6 +5986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sirius: Age of the Free Agents | 115075 | [115075-sirius-age-of-the-free-agents.json](./115075-sirius-age-of-the-free-agents.json) |
 | SirKwitz | 306336 | [306336-sirkwitz.json](./306336-sirkwitz.json) |
 | Sirocco | 298272 | [298272-sirocco.json](./298272-sirocco.json) |
+| Sissa's Path | 211116 | [211116-sissas-path.json](./211116-sissas-path.json) |
 | Sister Lesson | 416016 | [416016-sister-lesson.json](./416016-sister-lesson.json) |
 | Sister Location: MA | 230756 | [230756-sister-location-ma.json](./230756-sister-location-ma.json) |
 | Sister Lumina and the Hypnosis Cult | 327395 | [327395-sister-lumina-and-the-hypnosis-cult.json](./327395-sister-lumina-and-the-hypnosis-cult.json) |
@@ -8241,6 +8242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soko Spectacle | 334258 | [334258-soko-spectacle.json](./334258-soko-spectacle.json) |
 | Soko-Ban | 11763 | [11763-soko-ban.json](./11763-soko-ban.json) |
 | Soko64 | 290660 | [290660-soko64.json](./290660-soko64.json) |
+| Sokobalien | 211129 | [211129-sokobalien.json](./211129-sokobalien.json) |
 | Sokoball of Osaka | 64679 | [64679-sokoball-of-osaka.json](./64679-sokoball-of-osaka.json) |
 | Sokoban | 19573 | [19573-sokoban.json](./19573-sokoban.json) |
 | Sokoban | 306039 | [306039-sokoban.json](./306039-sokoban.json) |
@@ -13689,6 +13691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StepX | 67915 | [67915-stepx.json](./67915-stepx.json) |
 | Steredenn | 14146 | [14146-steredenn.json](./14146-steredenn.json) |
 | Stereo Aereo | 31143 | [31143-stereo-aereo.json](./31143-stereo-aereo.json) |
+| Stereo Boy | 211115 | [211115-stereo-boy.json](./211115-stereo-boy.json) |
 | Stereo Life | 97479 | [97479-stereo-life.json](./97479-stereo-life.json) |
 | StereoPaint | 192425 | [192425-stereopaint.json](./192425-stereopaint.json) |
 | Stereophyta | 185004 | [185004-stereophyta.json](./185004-stereophyta.json) |
@@ -14134,6 +14137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of the Survivor: The Escape | 156154 | [156154-story-of-the-survivor-the-escape.json](./156154-story-of-the-survivor-the-escape.json) |
 | Story of You: The Allied Kingdoms | 193477 | [193477-story-of-you-the-allied-kingdoms.json](./193477-story-of-you-the-allied-kingdoms.json) |
 | Story Teller | 119693 | [119693-story-teller.json](./119693-story-teller.json) |
+| Story Walker | 211108 | [211108-story-walker.json](./211108-story-walker.json) |
 | Storyblocks + Cat Games + Soko Games | 335100 | [335100-storyblocks-cat-games-soko-games.json](./335100-storyblocks-cat-games-soko-games.json) |
 | Storyblocks: The King | 188110 | [188110-storyblocks-the-king.json](./188110-storyblocks-the-king.json) |
 | Storybook of Tactics | 258612 | [258612-storybook-of-tactics.json](./258612-storybook-of-tactics.json) |
