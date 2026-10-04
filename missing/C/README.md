@@ -2087,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catalyst | 114333 | [114333-catalyst.json](./114333-catalyst.json) |
 | Catalyst | 352260 | [352260-catalyst.json](./352260-catalyst.json) |
 | Catalyst of Quoralis | 417643 | [417643-catalyst-of-quoralis.json](./417643-catalyst-of-quoralis.json) |
+| Catalyst: Blind Faith | 221217 | [221217-catalyst-blind-faith.json](./221217-catalyst-blind-faith.json) |
 | Catan | 175914 | [175914-catan.json](./175914-catan.json) |
 | Catan | 19435 | [19435-catan.json](./19435-catan.json) |
 | Catan | 196701 | [196701-catan.json](./196701-catan.json) |
@@ -9505,6 +9506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystalborne: Heroes of Fate | 123036 | [123036-crystalborne-heroes-of-fate.json](./123036-crystalborne-heroes-of-fate.json) |
 | Crystalis Descendant | 258643 | [258643-crystalis-descendant.json](./258643-crystalis-descendant.json) |
 | CrystalKeepers Tower Defense | 276849 | [276849-crystalkeepers-tower-defense.json](./276849-crystalkeepers-tower-defense.json) |
+| Crystalline | 221235 | [221235-crystalline.json](./221235-crystalline.json) |
 | Crystallo | 117037 | [117037-crystallo.json](./117037-crystallo.json) |
 | Crystalon | 183554 | [183554-crystalon.json](./183554-crystalon.json) |
 | Crystals | 284980 | [284980-crystals.json](./284980-crystals.json) |
@@ -9695,6 +9697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubeshift | 54542 | [54542-cubeshift.json](./54542-cubeshift.json) |
 | CubeShooter | 203967 | [203967-cubeshooter.json](./203967-cubeshooter.json) |
 | Cubesis | 36225 | [36225-cubesis.json](./36225-cubesis.json) |
+| Cubether | 221232 | [221232-cubether.json](./221232-cubether.json) |
 | Cubethon | 289542 | [289542-cubethon.json](./289542-cubethon.json) |
 | Cubetory | 340574 | [340574-cubetory.json](./340574-cubetory.json) |
 | Cubettiny | 383651 | [383651-cubettiny.json](./383651-cubettiny.json) |
