@@ -4583,6 +4583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Life and Insincere Words | 358473 | [358473-hollow-life-and-insincere-words.json](./358473-hollow-life-and-insincere-words.json) |
 | Hollow Memories | 385847 | [385847-hollow-memories.json](./385847-hollow-memories.json) |
 | Hollow Minds | 311469 | [311469-hollow-minds.json](./311469-hollow-minds.json) |
+| Hollow Park | 203184 | [203184-hollow-park.json](./203184-hollow-park.json) |
 | Hollow Seeker | 229009 | [229009-hollow-seeker.json](./229009-hollow-seeker.json) |
 | Hollow Sorrow | 355179 | [355179-hollow-sorrow.json](./355179-hollow-sorrow.json) |
 | Hollow Stem | 297792 | [297792-hollow-stem.json](./297792-hollow-stem.json) |
@@ -6458,6 +6459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hype: The Time Quest | 259642 | [259642-hype-the-time-quest.json](./259642-hype-the-time-quest.json) |
 | Hyper 2 | 319354 | [319354-hyper-2.json](./319354-hyper-2.json) |
 | Hyper Apocalypse | 303052 | [303052-hyper-apocalypse.json](./303052-hyper-apocalypse.json) |
+| Hyper Attraction Sky Games | 203182 | [203182-hyper-attraction-sky-games.json](./203182-hyper-attraction-sky-games.json) |
 | Hyper Bishi Bashi Champ | 228466 | [228466-hyper-bishi-bashi-champ.json](./228466-hyper-bishi-bashi-champ.json) |
 | Hyper Black Bass '95 | 61349 | [61349-hyper-black-bass-95.json](./61349-hyper-black-bass-95.json) |
 | Hyper Bun Buster: Rocket Hammer Action | 368624 | [368624-hyper-bun-buster-rocket-hammer-action.json](./368624-hyper-bun-buster-rocket-hammer-action.json) |
