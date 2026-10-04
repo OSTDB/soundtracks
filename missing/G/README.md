@@ -2293,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GirlJail | 97348 | [97348-girljail.json](./97348-girljail.json) |
 | Girls & Blocks | 289420 | [289420-girls-and-blocks.json](./289420-girls-and-blocks.json) |
 | Girls & Dungeons 2 | 119635 | [119635-girls-and-dungeons-2.json](./119635-girls-and-dungeons-2.json) |
+| Girls Academy | 224048 | [224048-girls-academy.json](./224048-girls-academy.json) |
 | Girls and Robots | 266761 | [266761-girls-and-robots.json](./266761-girls-and-robots.json) |
 | Girls Band Cry First Riff | 369766 | [369766-girls-band-cry-first-riff.json](./369766-girls-band-cry-first-riff.json) |
 | Girls Battlegrounds | 284340 | [284340-girls-battlegrounds.json](./284340-girls-battlegrounds.json) |
@@ -2733,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Go Wolf | 386406 | [386406-go-go-wolf.json](./386406-go-go-wolf.json) |
 | Go Go, Groove Ghoul! | 402413 | [402413-go-go-groove-ghoul.json](./402413-go-go-groove-ghoul.json) |
 | Go Go! Flambeau! | 219799 | [219799-go-go-flambeau.json](./219799-go-go-flambeau.json) |
+| Go Green! | 224050 | [224050-go-green.json](./224050-go-green.json) |
 | Go Guess | 89981 | [89981-go-guess.json](./89981-go-guess.json) |
 | Go Hell Go Gou: Tsukiotoshitego | 378910 | [378910-go-hell-go-gou-tsukiotoshitego.json](./378910-go-hell-go-gou-tsukiotoshitego.json) |
 | Go Hell Go: Tsukiotoshiteko | 268002 | [268002-go-hell-go-tsukiotoshiteko.json](./268002-go-hell-go-tsukiotoshiteko.json) |
@@ -2998,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God's Forest | 265133 | [265133-gods-forest.json](./265133-gods-forest.json) |
 | God's Gift | 236876 | [236876-gods-gift.json](./236876-gods-gift.json) |
 | God's League | 341477 | [341477-gods-league.json](./341477-gods-league.json) |
+| God's Legacy: Alchemist | 224049 | [224049-gods-legacy-alchemist.json](./224049-gods-legacy-alchemist.json) |
 | God's Miniature Garden | 263136 | [263136-gods-miniature-garden.json](./263136-gods-miniature-garden.json) |
 | God's One Day World | 90582 | [90582-gods-one-day-world.json](./90582-gods-one-day-world.json) |
 | God's Playing Field | 210663 | [210663-gods-playing-field.json](./210663-gods-playing-field.json) |
@@ -5384,6 +5387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Swinger | 386922 | [386922-gun-swinger.json](./386922-gun-swinger.json) |
 | Gun to Colonists | 189173 | [189173-gun-to-colonists.json](./189173-gun-to-colonists.json) |
 | Gun Trails | 259277 | [259277-gun-trails.json](./259277-gun-trails.json) |
+| Gun Tycoon | 224051 | [224051-gun-tycoon.json](./224051-gun-tycoon.json) |
 | Gun vs. Bottles | 233442 | [233442-gun-vs-bottles.json](./233442-gun-vs-bottles.json) |
 | Gun X Gunner | 384153 | [384153-gun-x-gunner.json](./384153-gun-x-gunner.json) |
 | Gun-A-Gang 360° | 350591 | [350591-gun-a-gang-360.json](./350591-gun-a-gang-360.json) |
