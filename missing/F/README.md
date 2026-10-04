@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Time | 382325 | [382325-factory-time.json](./382325-factory-time.json) |
 | Factory Town | 105292 | [105292-factory-town.json](./105292-factory-town.json) |
 | Factory Works Idle | 391319 | [391319-factory-works-idle.json](./391319-factory-works-idle.json) |
+| Factory512 | 212704 | [212704-factory512.json](./212704-factory512.json) |
 | FactoryCapi | 338290 | [338290-factorycapi.json](./338290-factorycapi.json) |
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
 | Factotum 90 | 21317 | [21317-factotum-90.json](./21317-factotum-90.json) |
