@@ -6858,6 +6858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Furry Futanari | 367625 | [367625-slide-furry-futanari.json](./367625-slide-furry-futanari.json) |
 | Slide Golf Mini | 234054 | [234054-slide-golf-mini.json](./234054-slide-golf-mini.json) |
 | Slide Hexagon | 358312 | [358312-slide-hexagon.json](./358312-slide-hexagon.json) |
+| Slide N' Go | 218534 | [218534-slide-n-go.json](./218534-slide-n-go.json) |
 | Slide On Ice | 243714 | [243714-slide-on-ice.json](./243714-slide-on-ice.json) |
 | Slide Princess: Dungeon Escape | 403018 | [403018-slide-princess-dungeon-escape.json](./403018-slide-princess-dungeon-escape.json) |
 | Slide Puzzle World History | 300850 | [300850-slide-puzzle-world-history.json](./300850-slide-puzzle-world-history.json) |
@@ -10078,6 +10079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Intern | 221187 | [221187-space-intern.json](./221187-space-intern.json) |
 | Space Intruder | 245403 | [245403-space-intruder.json](./245403-space-intruder.json) |
 | Space Intruders | 38923 | [38923-space-intruders.json](./38923-space-intruders.json) |
+| Space Invaders | 218361 | [218361-space-invaders.json](./218361-space-invaders.json) |
 | Space Invaders | 218440 | [218440-space-invaders.json](./218440-space-invaders.json) |
 | Space Invaders | 218445 | [218445-space-invaders.json](./218445-space-invaders.json) |
 | Space Invaders | 266956 | [266956-space-invaders.json](./266956-space-invaders.json) |
@@ -11390,6 +11392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatoon: Torrential Climb | 316713 | [316713-splatoon-torrential-climb.json](./316713-splatoon-torrential-climb.json) |
 | Splatt Curling | 261224 | [261224-splatt-curling.json](./261224-splatt-curling.json) |
 | Splatterbot | 297007 | [297007-splatterbot.json](./297007-splatterbot.json) |
+| Splatterhouse | 218366 | [218366-splatterhouse.json](./218366-splatterhouse.json) |
 | Splatterhouse | 6929 | [6929-splatterhouse.json](./6929-splatterhouse.json) |
 | Splatterhouse | 7191 | [7191-splatterhouse.json](./7191-splatterhouse.json) |
 | Splatterhouse 2 | 46248 | [46248-splatterhouse-2.json](./46248-splatterhouse-2.json) |
@@ -11479,6 +11482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob Squarepants: Idea Sponge | 307851 | [307851-spongebob-squarepants-idea-sponge.json](./307851-spongebob-squarepants-idea-sponge.json) |
 | SpongeBob SquarePants: JellyFish Dodge | 220116 | [220116-spongebob-squarepants-jellyfish-dodge.json](./220116-spongebob-squarepants-jellyfish-dodge.json) |
 | SpongeBob SquarePants: JellyFish Dodge | 220118 | [220118-spongebob-squarepants-jellyfish-dodge.json](./220118-spongebob-squarepants-jellyfish-dodge.json) |
+| SpongeBob SquarePants: Kash Dash | 218533 | [218533-spongebob-squarepants-kash-dash.json](./218533-spongebob-squarepants-kash-dash.json) |
 | SpongeBob SquarePants: Krabby Quest | 141000 | [141000-spongebob-squarepants-krabby-quest.json](./141000-spongebob-squarepants-krabby-quest.json) |
 | SpongeBob SquarePants: Lights, Camera, Pants! | 210724 | [210724-spongebob-squarepants-lights-camera-pants.json](./210724-spongebob-squarepants-lights-camera-pants.json) |
 | SpongeBob SquarePants: Model Sponge | 228488 | [228488-spongebob-squarepants-model-sponge.json](./228488-spongebob-squarepants-model-sponge.json) |
@@ -18612,6 +18616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syobon No Action Special | 369764 | [369764-syobon-no-action-special.json](./369764-syobon-no-action-special.json) |
 | Syon | 296383 | [296383-syon.json](./296383-syon.json) |
 | Syphon Filter | 4115 | [4115-syphon-filter.json](./4115-syphon-filter.json) |
+| Syphon Filter 2 | 218372 | [218372-syphon-filter-2.json](./218372-syphon-filter-2.json) |
 | Syphon Filter 2 | 4116 | [4116-syphon-filter-2.json](./4116-syphon-filter-2.json) |
 | Syphon Filter 3 | 4117 | [4117-syphon-filter-3.json](./4117-syphon-filter-3.json) |
 | Syphon Filter: Dark Mirror | 20764 | [20764-syphon-filter-dark-mirror.json](./20764-syphon-filter-dark-mirror.json) |
