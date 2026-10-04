@@ -4457,6 +4457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melone in the Dark | 177404 | [177404-melone-in-the-dark.json](./177404-melone-in-the-dark.json) |
 | Melonizard | 245362 | [245362-melonizard.json](./245362-melonizard.json) |
 | Meloveyou | 183380 | [183380-meloveyou.json](./183380-meloveyou.json) |
+| Melpool Land | 213276 | [213276-melpool-land.json](./213276-melpool-land.json) |
 | Melrose Café | 149481 | [149481-melrose-cafe.json](./149481-melrose-cafe.json) |
 | Melt Abyss | 353902 | [353902-melt-abyss.json](./353902-melt-abyss.json) |
 | Melt Away | 330896 | [330896-melt-away.json](./330896-melt-away.json) |
@@ -10860,6 +10861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sweet Herbivore High | 231421 | [231421-my-sweet-herbivore-high.json](./231421-my-sweet-herbivore-high.json) |
 | My Sweet Puppy Love | 208280 | [208280-my-sweet-puppy-love.json](./208280-my-sweet-puppy-love.json) |
 | My Sweet Roomies | 378198 | [378198-my-sweet-roomies.json](./378198-my-sweet-roomies.json) |
+| My Sweet Summer Oni | 213279 | [213279-my-sweet-summer-oni.json](./213279-my-sweet-summer-oni.json) |
 | My Sweet Waifu | 88120 | [88120-my-sweet-waifu.json](./88120-my-sweet-waifu.json) |
 | My Sweet Washing Machine! | 156654 | [156654-my-sweet-washing-machine.json](./156654-my-sweet-washing-machine.json) |
 | My Swordsman | 230899 | [230899-my-swordsman.json](./230899-my-swordsman.json) |
