@@ -1745,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techno: The Gamma Project | 331976 | [331976-techno-the-gamma-project.json](./331976-techno-the-gamma-project.json) |
 | Technobabylon: Deluxe Edition | 51929 | [51929-technobabylon-deluxe-edition.json](./51929-technobabylon-deluxe-edition.json) |
 | Technoblade The Quest Of L'Manburg | 337634 | [337634-technoblade-the-quest-of-lmanburg.json](./337634-technoblade-the-quest-of-lmanburg.json) |
+| Technobog | 199445 | [199445-technobog.json](./199445-technobog.json) |
 | Technocide | 262937 | [262937-technocide.json](./262937-technocide.json) |
 | Technolites: Episode 1 | 109616 | [109616-technolites-episode-1.json](./109616-technolites-episode-1.json) |
 | Technology Market Simulation | 344523 | [344523-technology-market-simulation.json](./344523-technology-market-simulation.json) |
@@ -6644,6 +6645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Young | 220691 | [220691-the-legend-of-young.json](./220691-the-legend-of-young.json) |
 | The Legend of Zelda Game Watch | 172501 | [172501-the-legend-of-zelda-game-watch.json](./172501-the-legend-of-zelda-game-watch.json) |
 | The Legend of Zelda Ocarina of Time 3D: First Edition | 89904 | [89904-the-legend-of-zelda-ocarina-of-time-3d-first-edition.json](./89904-the-legend-of-zelda-ocarina-of-time-3d-first-edition.json) |
+| The Legend of Zelda Redux | 199417 | [199417-the-legend-of-zelda-redux.json](./199417-the-legend-of-zelda-redux.json) |
 | The Legend of Zelda Remastered | 260748 | [260748-the-legend-of-zelda-remastered.json](./260748-the-legend-of-zelda-remastered.json) |
 | The Legend of Zelda SNES | 377748 | [377748-the-legend-of-zelda-snes.json](./377748-the-legend-of-zelda-snes.json) |
 | The Legend of Zelda XD2: Mercuris' Chess | 243666 | [243666-the-legend-of-zelda-xd2-mercuris-chess.json](./243666-the-legend-of-zelda-xd2-mercuris-chess.json) |
@@ -14158,6 +14160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Babel: No Mercy | 129190 | [129190-tower-of-babel-no-mercy.json](./129190-tower-of-babel-no-mercy.json) |
 | Tower of Babel: Survivors of Chaos | 329785 | [329785-tower-of-babel-survivors-of-chaos.json](./329785-tower-of-babel-survivors-of-chaos.json) |
 | Tower of Boom | 179144 | [179144-tower-of-boom.json](./179144-tower-of-boom.json) |
+| Tower of Cards | 199455 | [199455-tower-of-cards.json](./199455-tower-of-cards.json) |
 | Tower of Dal Gurak | 271953 | [271953-tower-of-dal-gurak.json](./271953-tower-of-dal-gurak.json) |
 | Tower of Darkness | 217990 | [217990-tower-of-darkness.json](./217990-tower-of-darkness.json) |
 | Tower of Doom | 150499 | [150499-tower-of-doom.json](./150499-tower-of-doom.json) |
