@@ -3979,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Hunter | 62695 | [62695-pirate-hunter.json](./62695-pirate-hunter.json) |
 | Pirate Hunter: Somali Trap | 309850 | [309850-pirate-hunter-somali-trap.json](./309850-pirate-hunter-somali-trap.json) |
 | Pirate Invaders | 57182 | [57182-pirate-invaders.json](./57182-pirate-invaders.json) |
+| Pirate island | 176852 | [176852-pirate-island.json](./176852-pirate-island.json) |
 | Pirate Island | 172097 | [172097-pirate-island.json](./172097-pirate-island.json) |
 | Pirate Island | 245801 | [245801-pirate-island.json](./245801-pirate-island.json) |
 | Pirate Island | 406902 | [406902-pirate-island.json](./406902-pirate-island.json) |
