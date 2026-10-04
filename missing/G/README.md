@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GalaxyWak | 282103 | [282103-galaxywak.json](./282103-galaxywak.json) |
 | Galaxyz Neo | 385777 | [385777-galaxyz-neo.json](./385777-galaxyz-neo.json) |
 | Galazer Deluxe | 358965 | [358965-galazer-deluxe.json](./358965-galazer-deluxe.json) |
+| Galbia Tales | 177380 | [177380-galbia-tales.json](./177380-galbia-tales.json) |
 | Galcon | 29041 | [29041-galcon.json](./29041-galcon.json) |
 | Galcon 2 | 36325 | [36325-galcon-2.json](./36325-galcon-2.json) |
 | Galdia | 343250 | [343250-galdia.json](./343250-galdia.json) |
@@ -2928,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobbo Goes Adventures | 251834 | [251834-gobbo-goes-adventures.json](./251834-gobbo-goes-adventures.json) |
 | Gobbo's Gambit | 253952 | [253952-gobbos-gambit.json](./253952-gobbos-gambit.json) |
 | Gobby McGobblenutz Presents: The Art of the Dad Joke - Chapter 1 | 193179 | [193179-gobby-mcgobblenutz-presents-the-art-of-the-dad-joke-chapter-1.json](./193179-gobby-mcgobblenutz-presents-the-art-of-the-dad-joke-chapter-1.json) |
+| GobelinsRPG | 177284 | [177284-gobelinsrpg.json](./177284-gobelinsrpg.json) |
 | Gobelinus: The Cursed Deck | 391718 | [391718-gobelinus-the-cursed-deck.json](./391718-gobelinus-the-cursed-deck.json) |
 | Gobernators: Parodia Política Peruana | 90570 | [90570-gobernators-parodia-politica-peruana.json](./90570-gobernators-parodia-politica-peruana.json) |
 | GoBlaster | 161898 | [161898-goblaster.json](./161898-goblaster.json) |
