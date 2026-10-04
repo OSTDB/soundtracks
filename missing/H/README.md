@@ -2290,6 +2290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty: Kids Hospital | 377696 | [377696-hello-kitty-kids-hospital.json](./377696-hello-kitty-kids-hospital.json) |
 | Hello Kitty: Picnic with Sanrio Friends | 7437 | [7437-hello-kitty-picnic-with-sanrio-friends.json](./7437-hello-kitty-picnic-with-sanrio-friends.json) |
 | Hello Kitty: School Bus | 206194 | [206194-hello-kitty-school-bus.json](./206194-hello-kitty-school-bus.json) |
+| Hello Kitty: Seaside Holiday | 218355 | [218355-hello-kitty-seaside-holiday.json](./218355-hello-kitty-seaside-holiday.json) |
 | Hello Kitty: Sweet Little Shops | 206159 | [206159-hello-kitty-sweet-little-shops.json](./206159-hello-kitty-sweet-little-shops.json) |
 | Hello Kitty: Tennis School | 205626 | [205626-hello-kitty-tennis-school.json](./205626-hello-kitty-tennis-school.json) |
 | Hello Kitty: White Present | 284433 | [284433-hello-kitty-white-present.json](./284433-hello-kitty-white-present.json) |
@@ -5316,6 +5317,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi wo Miru Hito | 25016 | [25016-hoshi-wo-miru-hito.json](./25016-hoshi-wo-miru-hito.json) |
 | Hoshi wo Miru Hito: Bad Ebuna Patch 2 | 269869 | [269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json](./269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json) |
 | Hoshigari Empusa! | 268646 | [268646-hoshigari-empusa.json](./268646-hoshigari-empusa.json) |
+| Hoshiiro no Okurimono | 218376 | [218376-hoshiiro-no-okurimono.json](./218376-hoshiiro-no-okurimono.json) |
+| Hoshiiro no Okurimono Portable | 218377 | [218377-hoshiiro-no-okurimono-portable.json](./218377-hoshiiro-no-okurimono-portable.json) |
 | Hoshimago | 236341 | [236341-hoshimago.json](./236341-hoshimago.json) |
 | Hoshiwari x Yoizanai | 396476 | [396476-hoshiwari-x-yoizanai.json](./396476-hoshiwari-x-yoizanai.json) |
 | Hoshizora e Kakaru Hashi AA | 144889 | [144889-hoshizora-e-kakaru-hashi-aa.json](./144889-hoshizora-e-kakaru-hashi-aa.json) |
