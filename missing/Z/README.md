@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhēngtiān Fēngwǔ Zhuán | 84225 | [84225-zhengtian-fengwu-zhuan.json](./84225-zhengtian-fengwu-zhuan.json) |
 | Zhèngzōng Taiwan Shíliù Zhāng Mahjong | 149591 | [149591-zhengzong-taiwan-shiliu-zhang-mahjong.json](./149591-zhengzong-taiwan-shiliu-zhang-mahjong.json) |
 | Zhēnjiǎ Hóuwáng | 321436 | [321436-zhenjia-houwang.json](./321436-zhenjia-houwang.json) |
+| Zheros: The forgotten land | 174158 | [174158-zheros-the-forgotten-land.json](./174158-zheros-the-forgotten-land.json) |
 | Zhi Huan Wang: Shou Bu Qu | 321765 | [321765-zhi-huan-wang-shou-bu-qu.json](./321765-zhi-huan-wang-shou-bu-qu.json) |
 | Zhiel's Mystery | 237390 | [237390-zhiels-mystery.json](./237390-zhiels-mystery.json) |
 | Zhǐjiān Wèndào | 344512 | [344512-zhijian-wendao.json](./344512-zhijian-wendao.json) |
