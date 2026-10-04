@@ -4106,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bimfli & His Time Travels: Japan | 328556 | [328556-bimfli-and-his-time-travels-japan.json](./328556-bimfli-and-his-time-travels-japan.json) |
 | Bimfli and His Travels In Time: Greece | 328558 | [328558-bimfli-and-his-travels-in-time-greece.json](./328558-bimfli-and-his-travels-in-time-greece.json) |
 | Bimous | 186845 | [186845-bimous.json](./186845-bimous.json) |
+| Bimsy Dreams | 183419 | [183419-bimsy-dreams.json](./183419-bimsy-dreams.json) |
 | Bin Weevils | 126020 | [126020-bin-weevils.json](./126020-bin-weevils.json) |
 | Binaries | 18207 | [18207-binaries.json](./18207-binaries.json) |
 | Binarion | 242600 | [242600-binarion.json](./242600-binarion.json) |
