@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Express | 199592 | [199592-jelly-express.json](./199592-jelly-express.json) |
 | Jelly Fruits Adventure: Magic Match 3 Puzzle | 262099 | [262099-jelly-fruits-adventure-magic-match-3-puzzle.json](./262099-jelly-fruits-adventure-magic-match-3-puzzle.json) |
 | Jelly God | 221721 | [221721-jelly-god.json](./221721-jelly-god.json) |
+| Jelly in the Dark | 215587 | [215587-jelly-in-the-dark.json](./215587-jelly-in-the-dark.json) |
 | Jelly Is Sticky | 158142 | [158142-jelly-is-sticky.json](./158142-jelly-is-sticky.json) |
 | Jelly Jam Blast | 105882 | [105882-jelly-jam-blast.json](./105882-jelly-jam-blast.json) |
 | Jelly Juice | 88438 | [88438-jelly-juice.json](./88438-jelly-juice.json) |
@@ -616,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jesus Christ RPG Trilogy | 33371 | [33371-jesus-christ-rpg-trilogy.json](./33371-jesus-christ-rpg-trilogy.json) |
 | Jesus Christ Simulator | 303590 | [303590-jesus-christ-simulator.json](./303590-jesus-christ-simulator.json) |
 | Jesus Sacred Heart | 392792 | [392792-jesus-sacred-heart.json](./392792-jesus-sacred-heart.json) |
+| Jet & Sky | 215588 | [215588-jet-and-sky.json](./215588-jet-and-sky.json) |
 | Jet Ace | 377241 | [377241-jet-ace.json](./377241-jet-ace.json) |
 | Jet Ant | 110399 | [110399-jet-ant.json](./110399-jet-ant.json) |
 | Jet Ball HD | 41525 | [41525-jet-ball-hd.json](./41525-jet-ball-hd.json) |
@@ -1682,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump If You Can! | 193227 | [193227-jump-if-you-can.json](./193227-jump-if-you-can.json) |
 | Jump Jack | 85863 | [85863-jump-jack.json](./85863-jump-jack.json) |
 | Jump Jeroba | 301442 | [301442-jump-jeroba.json](./301442-jump-jeroba.json) |
+| Jump Journey | 215589 | [215589-jump-journey.json](./215589-jump-journey.json) |
 | Jump Jump Cyberpunk | 242603 | [242603-jump-jump-cyberpunk.json](./242603-jump-jump-cyberpunk.json) |
 | Jump Jumpz | 111679 | [111679-jump-jumpz.json](./111679-jump-jumpz.json) |
 | Jump Kid | 217022 | [217022-jump-kid.json](./217022-jump-kid.json) |
@@ -2106,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Die Already | 134784 | [134784-just-die-already.json](./134784-just-die-already.json) |
 | Just Dismantle | 393137 | [393137-just-dismantle.json](./393137-just-dismantle.json) |
 | Just Drift It ! | 122412 | [122412-just-drift-it.json](./122412-just-drift-it.json) |
+| Just Drive | 215590 | [215590-just-drive.json](./215590-just-drive.json) |
 | Just Drive | 286004 | [286004-just-drive.json](./286004-just-drive.json) |
 | Just Drive a Lil: It's a Mini Racing Game! | 217516 | [217516-just-drive-a-lil-its-a-mini-racing-game.json](./217516-just-drive-a-lil-its-a-mini-racing-game.json) |
 | Just Dumb Little Dances | 184000 | [184000-just-dumb-little-dances.json](./184000-just-dumb-little-dances.json) |
