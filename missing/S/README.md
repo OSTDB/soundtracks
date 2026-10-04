@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Hell | 249329 | [249329-saint-hell.json](./249329-saint-hell.json) |
 | Saint Kotar: Digital Deluxe Edition | 246621 | [246621-saint-kotar-digital-deluxe-edition.json](./246621-saint-kotar-digital-deluxe-edition.json) |
 | Saint of Chains | 374295 | [374295-saint-of-chains.json](./374295-saint-of-chains.json) |
+| Saint Patricks Day Fun | 224990 | [224990-saint-patricks-day-fun.json](./224990-saint-patricks-day-fun.json) |
 | Saint Seiya Awakening: Knights of the Zodiac | 129144 | [129144-saint-seiya-awakening-knights-of-the-zodiac.json](./129144-saint-seiya-awakening-knights-of-the-zodiac.json) |
 | Saint Seiya EX | 377810 | [377810-saint-seiya-ex.json](./377810-saint-seiya-ex.json) |
 | Saint Seiya RPG: Asgard Chapter | 279231 | [279231-saint-seiya-rpg-asgard-chapter.json](./279231-saint-seiya-rpg-asgard-chapter.json) |
@@ -1185,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sausage Legend 2 | 193877 | [193877-sausage-legend-2.json](./193877-sausage-legend-2.json) |
 | Sausage Legend: Arena | 303800 | [303800-sausage-legend-arena.json](./303800-sausage-legend-arena.json) |
 | Sausage vs. Vegetable | 270097 | [270097-sausage-vs-vegetable.json](./270097-sausage-vs-vegetable.json) |
+| Sausage Wars | 224988 | [224988-sausage-wars.json](./224988-sausage-wars.json) |
 | Sausage Wars: Burning Death | 247591 | [247591-sausage-wars-burning-death.json](./247591-sausage-wars-burning-death.json) |
 | Sausage Wars: Complete Edition | 247593 | [247593-sausage-wars-complete-edition.json](./247593-sausage-wars-complete-edition.json) |
 | Sausage Wars: Deadly Levels | 248056 | [248056-sausage-wars-deadly-levels.json](./248056-sausage-wars-deadly-levels.json) |
@@ -17618,6 +17620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Hunter | 257108 | [257108-surviving-hunter.json](./257108-surviving-hunter.json) |
 | Surviving Isolation | 384528 | [384528-surviving-isolation.json](./384528-surviving-isolation.json) |
 | Surviving Mars: Below and Beyond | 165620 | [165620-surviving-mars-below-and-beyond.json](./165620-surviving-mars-below-and-beyond.json) |
+| Surviving Mars: Colony Design Set | 224998 | [224998-surviving-mars-colony-design-set.json](./224998-surviving-mars-colony-design-set.json) |
 | Surviving Mars: First Colony Edition | 96491 | [96491-surviving-mars-first-colony-edition.json](./96491-surviving-mars-first-colony-edition.json) |
 | Surviving Mars: Future Contemporary Cosmetic Pack | 227330 | [227330-surviving-mars-future-contemporary-cosmetic-pack.json](./227330-surviving-mars-future-contemporary-cosmetic-pack.json) |
 | Surviving Mars: In-Dome Buildings Pack | 215400 | [215400-surviving-mars-in-dome-buildings-pack.json](./215400-surviving-mars-in-dome-buildings-pack.json) |
