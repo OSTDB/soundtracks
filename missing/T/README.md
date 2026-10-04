@@ -2316,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenta Shooter | 76057 | [76057-tenta-shooter.json](./76057-tenta-shooter.json) |
 | Tentacle Prawn: (Actually) A Cthulhu Dating Sim - The Myth & Legend of Marauder Shields | 267065 | [267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json](./267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json) |
 | Tentacle Wars | 365194 | [365194-tentacle-wars.json](./365194-tentacle-wars.json) |
+| Tentacles | 179543 | [179543-tentacles.json](./179543-tentacles.json) |
 | Tentacles Growing Everywhere | 128411 | [128411-tentacles-growing-everywhere.json](./128411-tentacles-growing-everywhere.json) |
 | Tentacles Party With Nuns Chibi Stickers | 337653 | [337653-tentacles-party-with-nuns-chibi-stickers.json](./337653-tentacles-party-with-nuns-chibi-stickers.json) |
 | Tentacuddle | 294159 | [294159-tentacuddle.json](./294159-tentacuddle.json) |
@@ -3117,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Analyst | 211289 | [211289-the-analyst.json](./211289-the-analyst.json) |
 | The Anchorite | 325079 | [325079-the-anchorite.json](./325079-the-anchorite.json) |
 | The Ancient Art of War | 14600 | [14600-the-ancient-art-of-war.json](./14600-the-ancient-art-of-war.json) |
+| The Ancient Key | 179562 | [179562-the-ancient-key.json](./179562-the-ancient-key.json) |
 | The Ancient Land of Ys | 2411 | [2411-the-ancient-land-of-ys.json](./2411-the-ancient-land-of-ys.json) |
 | The Ancients AR | 103884 | [103884-the-ancients-ar.json](./103884-the-ancients-ar.json) |
 | The Andesia Project | 279100 | [279100-the-andesia-project.json](./279100-the-andesia-project.json) |
@@ -7409,6 +7411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monster | 111019 | [111019-the-monster.json](./111019-the-monster.json) |
 | The Monster Breeder | 126558 | [126558-the-monster-breeder.json](./126558-the-monster-breeder.json) |
 | The Monster War | 289980 | [289980-the-monster-war.json](./289980-the-monster-war.json) |
+| The Monster Way | 179549 | [179549-the-monster-way.json](./179549-the-monster-way.json) |
 | The Monster Within | 174346 | [174346-the-monster-within.json](./174346-the-monster-within.json) |
 | The Monsters' History Book | 102976 | [102976-the-monsters-history-book.json](./102976-the-monsters-history-book.json) |
 | The Monstrous Frontier | 187403 | [187403-the-monstrous-frontier.json](./187403-the-monstrous-frontier.json) |
@@ -8200,6 +8203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Realm of Insight Compass | 253513 | [253513-the-realm-of-insight-compass.json](./253513-the-realm-of-insight-compass.json) |
 | The Reaper Survivors | 224760 | [224760-the-reaper-survivors.json](./224760-the-reaper-survivors.json) |
 | The Reason for Your Smile | 287911 | [287911-the-reason-for-your-smile.json](./287911-the-reason-for-your-smile.json) |
+| The Reason Why Cavemen Painted on Walls | 179571 | [179571-the-reason-why-cavemen-painted-on-walls.json](./179571-the-reason-why-cavemen-painted-on-walls.json) |
 | The Reason Why Raeliana Ended up at the Duke's Mansion: Heika's Colorful Day Out | 170832 | [170832-the-reason-why-raeliana-ended-up-at-the-dukes-mansion-heikas-colorful-day-out.json](./170832-the-reason-why-raeliana-ended-up-at-the-dukes-mansion-heikas-colorful-day-out.json) |
 | The Reasons for It. | 397080 | [397080-the-reasons-for-it.json](./397080-the-reasons-for-it.json) |
 | The Rebel | 33275 | [33275-the-rebel.json](./33275-the-rebel.json) |
@@ -10035,6 +10039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Watcher | 413734 | [413734-the-watcher.json](./413734-the-watcher.json) |
 | The Watching Woods: The Louse | 385331 | [385331-the-watching-woods-the-louse.json](./385331-the-watching-woods-the-louse.json) |
 | The Watchmaker | 82091 | [82091-the-watchmaker.json](./82091-the-watchmaker.json) |
+| The Water Ghost | 179557 | [179557-the-water-ghost.json](./179557-the-water-ghost.json) |
 | The Water Horse: Legend of the Deep | 27629 | [27629-the-water-horse-legend-of-the-deep.json](./27629-the-water-horse-legend-of-the-deep.json) |
 | The Water Horse: Legend of the Deep | 43258 | [43258-the-water-horse-legend-of-the-deep.json](./43258-the-water-horse-legend-of-the-deep.json) |
 | The Water is Wide | 225702 | [225702-the-water-is-wide.json](./225702-the-water-is-wide.json) |
