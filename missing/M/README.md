@@ -5829,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Fishing | 302684 | [302684-midnight-fishing.json](./302684-midnight-fishing.json) |
 | Midnight Havoc | 258966 | [258966-midnight-havoc.json](./258966-midnight-havoc.json) |
 | Midnight Heaven | 244728 | [244728-midnight-heaven.json](./244728-midnight-heaven.json) |
+| Midnight Heist | 184953 | [184953-midnight-heist.json](./184953-midnight-heist.json) |
 | Midnight Heist | 254432 | [254432-midnight-heist.json](./254432-midnight-heist.json) |
 | Midnight Horror School | 292834 | [292834-midnight-horror-school.json](./292834-midnight-horror-school.json) |
 | Midnight Hunter | 101748 | [101748-midnight-hunter.json](./101748-midnight-hunter.json) |
@@ -7919,6 +7920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mondrian - Abstraction in Beauty | 34692 | [34692-mondrian-abstraction-in-beauty.json](./34692-mondrian-abstraction-in-beauty.json) |
 | Mondrian Squares | 192751 | [192751-mondrian-squares.json](./192751-mondrian-squares.json) |
 | Monet - The Mystery of the Orangery | 129764 | [129764-monet-the-mystery-of-the-orangery.json](./129764-monet-the-mystery-of-the-orangery.json) |
+| Monet Heist | 184948 | [184948-monet-heist.json](./184948-monet-heist.json) |
 | Money Farm | 298647 | [298647-money-farm.json](./298647-money-farm.json) |
 | Money Garden | 186269 | [186269-money-garden.json](./186269-money-garden.json) |
 | Money Go! | 246471 | [246471-money-go.json](./246471-money-go.json) |
@@ -7942,6 +7944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mônica Dentuça | 216273 | [216273-monica-dentuca.json](./216273-monica-dentuca.json) |
 | Mônica no Castelo do Dragão | 9557 | [9557-monica-no-castelo-do-dragao.json](./9557-monica-no-castelo-do-dragao.json) |
 | Monica's Paradox | 276222 | [276222-monicas-paradox.json](./276222-monicas-paradox.json) |
+| Monigote Fantasy | 184971 | [184971-monigote-fantasy.json](./184971-monigote-fantasy.json) |
 | Monishiri Quiz Taiko no Kyouryuu | 276466 | [276466-monishiri-quiz-taiko-no-kyouryuu.json](./276466-monishiri-quiz-taiko-no-kyouryuu.json) |
 | Monitor Puzzle Kineko: Kinetic Connection Vol. II | 41403 | [41403-monitor-puzzle-kineko-kinetic-connection-vol-ii.json](./41403-monitor-puzzle-kineko-kinetic-connection-vol-ii.json) |
 | Monitoring All Night | 328274 | [328274-monitoring-all-night.json](./328274-monitoring-all-night.json) |
