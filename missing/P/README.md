@@ -4877,6 +4877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlanetFriend | 133879 | [133879-planetfriend.json](./133879-planetfriend.json) |
 | Planetgore | 255139 | [255139-planetgore.json](./255139-planetgore.json) |
 | Planetiny | 351168 | [351168-planetiny.json](./351168-planetiny.json) |
+| Planetkillerz: Death of a world in five acts. | 188429 | [188429-planetkillerz-death-of-a-world-in-five-acts.json](./188429-planetkillerz-death-of-a-world-in-five-acts.json) |
 | Planetoid | 13747 | [13747-planetoid.json](./13747-planetoid.json) |
 | Planetoid | 330907 | [330907-planetoid.json](./330907-planetoid.json) |
 | Planetoid Evasion | 310141 | [310141-planetoid-evasion.json](./310141-planetoid-evasion.json) |
@@ -8198,6 +8199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Kinesis | 301954 | [301954-project-kinesis.json](./301954-project-kinesis.json) |
 | Project Kizuna | 321764 | [321764-project-kizuna.json](./321764-project-kizuna.json) |
 | Project Kolo | 187817 | [187817-project-kolo.json](./187817-project-kolo.json) |
+| Project Kunai | 188474 | [188474-project-kunai.json](./188474-project-kunai.json) |
 | Project Labyrinth | 236515 | [236515-project-labyrinth.json](./236515-project-labyrinth.json) |
 | Project Landsword | 331140 | [331140-project-landsword.json](./331140-project-landsword.json) |
 | Project Lazarus | 205275 | [205275-project-lazarus.json](./205275-project-lazarus.json) |
@@ -8319,6 +8321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project SF2 | 174833 | [174833-project-sf2.json](./174833-project-sf2.json) |
 | Project Shadow | 330291 | [330291-project-shadow.json](./330291-project-shadow.json) |
 | Project Shadow 2 | 330966 | [330966-project-shadow-2.json](./330966-project-shadow-2.json) |
+| Project Shanto Rancher | 188466 | [188466-project-shanto-rancher.json](./188466-project-shanto-rancher.json) |
 | Project Shikai | 329733 | [329733-project-shikai.json](./329733-project-shikai.json) |
 | Project Shiver Wing | 212452 | [212452-project-shiver-wing.json](./212452-project-shiver-wing.json) |
 | Project Shore | 103516 | [103516-project-shore.json](./103516-project-shore.json) |
