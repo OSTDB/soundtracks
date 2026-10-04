@@ -71,6 +71,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 213922 | [213922-pac-man.json](./213922-pac-man.json) |
 | Pac-Man | 213923 | [213923-pac-man.json](./213923-pac-man.json) |
 | Pac-Man | 213924 | [213924-pac-man.json](./213924-pac-man.json) |
+| Pac-Man | 213925 | [213925-pac-man.json](./213925-pac-man.json) |
+| Pac-Man | 213926 | [213926-pac-man.json](./213926-pac-man.json) |
 | Pac-Man | 213944 | [213944-pac-man.json](./213944-pac-man.json) |
 | Pac-Man | 218432 | [218432-pac-man.json](./218432-pac-man.json) |
 | Pac-Man | 218442 | [218442-pac-man.json](./218442-pac-man.json) |
@@ -1169,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Watcher | 335082 | [335082-paranormal-watcher.json](./335082-paranormal-watcher.json) |
 | Paranormal: Found Footage | 297176 | [297176-paranormal-found-footage.json](./297176-paranormal-found-footage.json) |
 | Paranormal: The Town | 61627 | [61627-paranormal-the-town.json](./61627-paranormal-the-town.json) |
+| Paranormalized | 213837 | [213837-paranormalized.json](./213837-paranormalized.json) |
 | Paranormasight: The Seven Mysteries of Honjo | 236694 | [236694-paranormasight-the-seven-mysteries-of-honjo.json](./236694-paranormasight-the-seven-mysteries-of-honjo.json) |
 | ParaParaParadise 2nd mix | 78946 | [78946-paraparaparadise-2nd-mix.json](./78946-paraparaparadise-2nd-mix.json) |
 | PaRappa the Rapper | 269666 | [269666-parappa-the-rapper.json](./269666-parappa-the-rapper.json) |
@@ -4219,6 +4222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Paint: Definitive Edition | 243367 | [243367-pixel-paint-definitive-edition.json](./243367-pixel-paint-definitive-edition.json) |
 | Pixel Paint: Premium Edition | 241395 | [241395-pixel-paint-premium-edition.json](./241395-pixel-paint-premium-edition.json) |
 | Pixel Petals | 269218 | [269218-pixel-petals.json](./269218-pixel-petals.json) |
+| Pixel Petkeeper | 213838 | [213838-pixel-petkeeper.json](./213838-pixel-petkeeper.json) |
 | Pixel Pileup Party | 130201 | [130201-pixel-pileup-party.json](./130201-pixel-pileup-party.json) |
 | Pixel Piracy | 5590 | [5590-pixel-piracy.json](./5590-pixel-piracy.json) |
 | Pixel Pirate | 342859 | [342859-pixel-pirate.json](./342859-pixel-pirate.json) |
@@ -5673,6 +5677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Deluge | 172745 | [172745-pokemon-deluge.json](./172745-pokemon-deluge.json) |
 | Pokémon Digimon New World | 229098 | [229098-pokemon-digimon-new-world.json](./229098-pokemon-digimon-new-world.json) |
 | Pokémon Donjon Mystère Online | 304297 | [304297-pokemon-donjon-mystere-online.json](./304297-pokemon-donjon-mystere-online.json) |
+| Pokémon Dreams | 213844 | [213844-pokemon-dreams.json](./213844-pokemon-dreams.json) |
 | Pokémon Dreary | 213962 | [213962-pokemon-dreary.json](./213962-pokemon-dreary.json) |
 | Pokémon Duelist | 359980 | [359980-pokemon-duelist.json](./359980-pokemon-duelist.json) |
 | Pokémon Dumbdumb Island | 362817 | [362817-pokemon-dumbdumb-island.json](./362817-pokemon-dumbdumb-island.json) |
@@ -5852,6 +5857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sky Stacker | 288369 | [288369-pokemon-sky-stacker.json](./288369-pokemon-sky-stacker.json) |
 | Pokémon Sleep | 123089 | [123089-pokemon-sleep.json](./123089-pokemon-sleep.json) |
 | Pokémon Smile | 135145 | [135145-pokemon-smile.json](./135145-pokemon-smile.json) |
+| Pokémon Snakewood | 213846 | [213846-pokemon-snakewood.json](./213846-pokemon-snakewood.json) |
 | Pokémon Snap 3DS | 401507 | [401507-pokemon-snap-3ds.json](./401507-pokemon-snap-3ds.json) |
 | Pokémon Sodateyasan Mini | 92306 | [92306-pokemon-sodateyasan-mini.json](./92306-pokemon-sodateyasan-mini.json) |
 | Pokémon Solar Eclipse | 399594 | [399594-pokemon-solar-eclipse.json](./399594-pokemon-solar-eclipse.json) |
@@ -9255,6 +9261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Galaxies | 32936 | [32936-puzzle-galaxies.json](./32936-puzzle-galaxies.json) |
 | Puzzle Galaxy: Beautiful Paintings - 47 new puzzles | 378863 | [378863-puzzle-galaxy-beautiful-paintings-47-new-puzzles.json](./378863-puzzle-galaxy-beautiful-paintings-47-new-puzzles.json) |
 | Puzzle Galaxy: Complete Bundle | 378866 | [378866-puzzle-galaxy-complete-bundle.json](./378866-puzzle-galaxy-complete-bundle.json) |
+| Puzzle Galaxy: Drawings Bundle | 214000 | [214000-puzzle-galaxy-drawings-bundle.json](./214000-puzzle-galaxy-drawings-bundle.json) |
 | Puzzle Galaxy: Moody Pics - 57 new puzzles | 378864 | [378864-puzzle-galaxy-moody-pics-57-new-puzzles.json](./378864-puzzle-galaxy-moody-pics-57-new-puzzles.json) |
 | Puzzle Galaxy: Pet Show - 57 new puzzles | 378865 | [378865-puzzle-galaxy-pet-show-57-new-puzzles.json](./378865-puzzle-galaxy-pet-show-57-new-puzzles.json) |
 | Puzzle Game | 263775 | [263775-puzzle-game.json](./263775-puzzle-game.json) |
