@@ -1965,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felonian Special Forces | 255161 | [255161-felonian-special-forces.json](./255161-felonian-special-forces.json) |
 | Felony! | 25860 | [25860-felony.json](./25860-felony.json) |
 | Felspire | 23660 | [23660-felspire.json](./23660-felspire.json) |
+| Felt Mansion | 187315 | [187315-felt-mansion.json](./187315-felt-mansion.json) |
 | Felt That: Boxing | 347117 | [347117-felt-that-boxing.json](./347117-felt-that-boxing.json) |
 | Feltopia | 325282 | [325282-feltopia.json](./325282-feltopia.json) |
 | Felvidek | 238782 | [238782-felvidek.json](./238782-felvidek.json) |
@@ -4732,6 +4733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Club Simulator - FCS | 36247 | [36247-football-club-simulator-fcs.json](./36247-football-club-simulator-fcs.json) |
 | Football Crazy Challenge | 84258 | [84258-football-crazy-challenge.json](./84258-football-crazy-challenge.json) |
 | Football Cup 2021 | 147253 | [147253-football-cup-2021.json](./147253-football-cup-2021.json) |
+| Football Cup 2022 | 187296 | [187296-football-cup-2022.json](./187296-football-cup-2022.json) |
 | Football Cup 2024 | 295475 | [295475-football-cup-2024.json](./295475-football-cup-2024.json) |
 | Football Director 2017 | 200160 | [200160-football-director-2017.json](./200160-football-director-2017.json) |
 | Football Director 2019 | 112986 | [112986-football-director-2019.json](./112986-football-director-2019.json) |
@@ -6059,6 +6061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeway Fury: Annihilation | 318188 | [318188-freeway-fury-annihilation.json](./318188-freeway-fury-annihilation.json) |
 | Freewheelin | 253023 | [253023-freewheelin.json](./253023-freewheelin.json) |
 | Freeze | 25884 | [25884-freeze.json](./25884-freeze.json) |
+| Freeze the Core | 187292 | [187292-freeze-the-core.json](./187292-freeze-the-core.json) |
 | Freeze the Time | 187429 | [187429-freeze-the-time.json](./187429-freeze-the-time.json) |
 | Freeze: The Escape | 79902 | [79902-freeze-the-escape.json](./79902-freeze-the-escape.json) |
 | Freeze! 2: Brothers | 59476 | [59476-freeze-2-brothers.json](./59476-freeze-2-brothers.json) |
@@ -6234,6 +6237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frightened | 216161 | [216161-frightened.json](./216161-frightened.json) |
 | Frigid | 159281 | [159281-frigid.json](./159281-frigid.json) |
 | Frigid VR | 172733 | [172733-frigid-vr.json](./172733-frigid-vr.json) |
+| Frigore | 187278 | [187278-frigore.json](./187278-frigore.json) |
 | Frigus Inferos | 114525 | [114525-frigus-inferos.json](./114525-frigus-inferos.json) |
 | Friki | 153406 | [153406-friki.json](./153406-friki.json) |
 | Frikin the Laser Shark | 158029 | [158029-frikin-the-laser-shark.json](./158029-frikin-the-laser-shark.json) |
