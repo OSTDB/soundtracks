@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Infinite: Operation Haloween | 319155 | [319155-halo-infinite-operation-haloween.json](./319155-halo-infinite-operation-haloween.json) |
 | Halo Infinite: Operation Haloween II | 381717 | [381717-halo-infinite-operation-haloween-ii.json](./381717-halo-infinite-operation-haloween-ii.json) |
 | Halo Infinite: Operation Infinite | 381718 | [381718-halo-infinite-operation-infinite.json](./381718-halo-infinite-operation-infinite.json) |
+| Halo Infinite: Season 2 - Lone Wolves | 196656 | [196656-halo-infinite-season-2-lone-wolves.json](./196656-halo-infinite-season-2-lone-wolves.json) |
 | Halo Infinite: Season 4 - Infection | 250295 | [250295-halo-infinite-season-4-infection.json](./250295-halo-infinite-season-4-infection.json) |
 | Halo Infinte: Operation - Anvil | 335852 | [335852-halo-infinte-operation-anvil.json](./335852-halo-infinte-operation-anvil.json) |
 | Halo Roll | 108485 | [108485-halo-roll.json](./108485-halo-roll.json) |
@@ -4093,6 +4094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hillbilly Apocalypse | 111709 | [111709-hillbilly-apocalypse.json](./111709-hillbilly-apocalypse.json) |
 | Hillbilly Doomsday | 205077 | [205077-hillbilly-doomsday.json](./205077-hillbilly-doomsday.json) |
 | Hillbilly Organ Grinder | 60527 | [60527-hillbilly-organ-grinder.json](./60527-hillbilly-organ-grinder.json) |
+| Hillmain Hotel | 196668 | [196668-hillmain-hotel.json](./196668-hillmain-hotel.json) |
 | Hills & Hollows | 141876 | [141876-hills-and-hollows.json](./141876-hills-and-hollows.json) |
 | Hills in the Moonlight | 307587 | [307587-hills-in-the-moonlight.json](./307587-hills-in-the-moonlight.json) |
 | Hillsea Lido | 70326 | [70326-hillsea-lido.json](./70326-hillsea-lido.json) |
