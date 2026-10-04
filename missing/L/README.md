@@ -1207,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaving L.A. | 273138 | [273138-leaving-l-a.json](./273138-leaving-l-a.json) |
 | Leaving Whisper at Night | 326283 | [326283-leaving-whisper-at-night.json](./326283-leaving-whisper-at-night.json) |
 | Lecon De Cuisine: Qu'allons-Nous Manager? | 147311 | [147311-lecon-de-cuisine-quallons-nous-manager.json](./147311-lecon-de-cuisine-quallons-nous-manager.json) |
+| Lectro | 192773 | [192773-lectro.json](./192773-lectro.json) |
 | Lecture Me Later | 348921 | [348921-lecture-me-later.json](./348921-lecture-me-later.json) |
 | Led It Rain | 32912 | [32912-led-it-rain.json](./32912-led-it-rain.json) |
 | Led It Rain VR | 120373 | [120373-led-it-rain-vr.json](./120373-led-it-rain-vr.json) |
@@ -3630,6 +3631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofi Funkin' | 198381 | [198381-lofi-funkin.json](./198381-lofi-funkin.json) |
 | Lofi Haven | 388418 | [388418-lofi-haven.json](./388418-lofi-haven.json) |
 | Lofi Hip Hop Worlds to Study in | 203207 | [203207-lofi-hip-hop-worlds-to-study-in.json](./203207-lofi-hip-hop-worlds-to-study-in.json) |
+| Lofi Hollow | 192787 | [192787-lofi-hollow.json](./192787-lofi-hollow.json) |
 | LoFi Hotel | 211117 | [211117-lofi-hotel.json](./211117-lofi-hotel.json) |
 | Lofi Kitten | 266305 | [266305-lofi-kitten.json](./266305-lofi-kitten.json) |
 | Lofi Milk Delivery | 245921 | [245921-lofi-milk-delivery.json](./245921-lofi-milk-delivery.json) |
