@@ -3636,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the School | 302385 | [302385-alone-in-the-school.json](./302385-alone-in-the-school.json) |
 | Alone in the Stars: Survivor | 334886 | [334886-alone-in-the-stars-survivor.json](./334886-alone-in-the-stars-survivor.json) |
 | Alone K.W. | 33539 | [33539-alone-k-w.json](./33539-alone-k-w.json) |
+| Alone Musc | 186700 | [186700-alone-musc.json](./186700-alone-musc.json) |
 | Alone on Mars | 165544 | [165544-alone-on-mars.json](./165544-alone-on-mars.json) |
 | Alone To Melt | 365753 | [365753-alone-to-melt.json](./365753-alone-to-melt.json) |
 | Alone With a Bunch of Robots | 115158 | [115158-alone-with-a-bunch-of-robots.json](./115158-alone-with-a-bunch-of-robots.json) |
@@ -7783,6 +7784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Sentinel | 297791 | [297791-asteroid-sentinel.json](./297791-asteroid-sentinel.json) |
 | Asteroid Smash | 73515 | [73515-asteroid-smash.json](./73515-asteroid-smash.json) |
 | Asteroid Wars | 116328 | [116328-asteroid-wars.json](./116328-asteroid-wars.json) |
+| Asteroides | 186690 | [186690-asteroides.json](./186690-asteroides.json) |
 | Asteroidiga | 126541 | [126541-asteroidiga.json](./126541-asteroidiga.json) |
 | AsteroIdle | 211410 | [211410-asteroidle.json](./211410-asteroidle.json) |
 | Asteroids | 178966 | [178966-asteroids.json](./178966-asteroids.json) |
