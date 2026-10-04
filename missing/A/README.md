@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Challenging Game About Parkour | 379464 | [379464-a-challenging-game-about-parkour.json](./379464-a-challenging-game-about-parkour.json) |
 | A Chamber of Stars | 216710 | [216710-a-chamber-of-stars.json](./216710-a-chamber-of-stars.json) |
 | A Chicken In The Office | 379463 | [379463-a-chicken-in-the-office.json](./379463-a-chicken-in-the-office.json) |
+| A Child's Courage | 184960 | [184960-a-childs-courage.json](./184960-a-childs-courage.json) |
 | A Chinese Ghost Story | 77653 | [77653-a-chinese-ghost-story.json](./77653-a-chinese-ghost-story.json) |
 | A Chocolate World | 277343 | [277343-a-chocolate-world.json](./277343-a-chocolate-world.json) |
 | A Christmas Blackout | 310535 | [310535-a-christmas-blackout.json](./310535-a-christmas-blackout.json) |
@@ -1964,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftertaste | 419845 | [419845-aftertaste.json](./419845-aftertaste.json) |
 | AfterTheDawn | 81753 | [81753-afterthedawn.json](./81753-afterthedawn.json) |
 | AfterWar | 264765 | [264765-afterwar.json](./264765-afterwar.json) |
+| Afterward | 184986 | [184986-afterward.json](./184986-afterward.json) |
 | Afterworld | 288746 | [288746-afterworld.json](./288746-afterworld.json) |
 | AftLife: Girl and Cats, and Lost World | 284326 | [284326-aftlife-girl-and-cats-and-lost-world.json](./284326-aftlife-girl-and-cats-and-lost-world.json) |
 | Aftonbuilt | 204390 | [204390-aftonbuilt.json](./204390-aftonbuilt.json) |
@@ -2206,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AHH!!! MazeZing | 158046 | [158046-ahh-mazezing.json](./158046-ahh-mazezing.json) |
 | Ahhnalog 112 | 196106 | [196106-ahhnalog-112.json](./196106-ahhnalog-112.json) |
 | Ahlgrens Bilspelet | 74070 | [74070-ahlgrens-bilspelet.json](./74070-ahlgrens-bilspelet.json) |
+| Ahmmit's Gate | 184944 | [184944-ahmmits-gate.json](./184944-ahmmits-gate.json) |
 | Ahnayro: The Dream World | 22377 | [22377-ahnayro-the-dream-world.json](./22377-ahnayro-the-dream-world.json) |
 | AHOD: All Hands on Deck! | 217244 | [217244-ahod-all-hands-on-deck.json](./217244-ahod-all-hands-on-deck.json) |
 | Ahriman's Prophecy | 10009 | [10009-ahrimans-prophecy.json](./10009-ahrimans-prophecy.json) |
@@ -3563,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlleyStrat | 342176 | [342176-alleystrat.json](./342176-alleystrat.json) |
 | Alleyway | 7751 | [7751-alleyway.json](./7751-alleyway.json) |
 | Alleyway DX | 279682 | [279682-alleyway-dx.json](./279682-alleyway-dx.json) |
+| AlleZ | 184942 | [184942-allez.json](./184942-allez.json) |
 | Allez Raconte | 269548 | [269548-allez-raconte.json](./269548-allez-raconte.json) |
 | AllFive Classic | 307277 | [307277-allfive-classic.json](./307277-allfive-classic.json) |
 | AllFive XP | 307280 | [307280-allfive-xp.json](./307280-allfive-xp.json) |
@@ -6729,6 +6733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AridFortress | 102224 | [102224-aridfortress.json](./102224-aridfortress.json) |
 | Arie: Moonprayer | 258534 | [258534-arie-moonprayer.json](./258534-arie-moonprayer.json) |
 | Ariel | 33319 | [33319-ariel.json](./33319-ariel.json) |
+| Ariel Cleanomancer and the Eldritch Sweep | 184980 | [184980-ariel-cleanomancer-and-the-eldritch-sweep.json](./184980-ariel-cleanomancer-and-the-eldritch-sweep.json) |
 | Ariel's Daily Grind | 223492 | [223492-ariels-daily-grind.json](./223492-ariels-daily-grind.json) |
 | Ariel's Story Studio | 57920 | [57920-ariels-story-studio.json](./57920-ariels-story-studio.json) |
 | Aries | 170824 | [170824-aries.json](./170824-aries.json) |
@@ -7170,6 +7175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artemishea | 150617 | [150617-artemishea.json](./150617-artemishea.json) |
 | Artery Gear: Fusion | 152111 | [152111-artery-gear-fusion.json](./152111-artery-gear-fusion.json) |
 | Arthas: The Game | 238581 | [238581-arthas-the-game.json](./238581-arthas-the-game.json) |
+| Arthur | 184975 | [184975-arthur.json](./184975-arthur.json) |
 | Arthur and the Invisibles | 200689 | [200689-arthur-and-the-invisibles.json](./200689-arthur-and-the-invisibles.json) |
 | Arthur and the Revenge of Maltazard | 51155 | [51155-arthur-and-the-revenge-of-maltazard.json](./51155-arthur-and-the-revenge-of-maltazard.json) |
 | Arthur Loves Watermelon | 333132 | [333132-arthur-loves-watermelon.json](./333132-arthur-loves-watermelon.json) |
