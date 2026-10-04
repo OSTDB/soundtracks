@@ -1183,6 +1183,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village of Origins | 210548 | [210548-village-of-origins.json](./210548-village-of-origins.json) |
 | Village of the Ages | 369042 | [369042-village-of-the-ages.json](./369042-village-of-the-ages.json) |
 | Village of the Curse | 387600 | [387600-village-of-the-curse.json](./387600-village-of-the-curse.json) |
+| Village of Zombies: Abandoned City | 192231 | [192231-village-of-zombies-abandoned-city.json](./192231-village-of-zombies-abandoned-city.json) |
+| Village of Zombies: Tropical | 192230 | [192230-village-of-zombies-tropical.json](./192230-village-of-zombies-tropical.json) |
 | Village Slut Transformation | 306433 | [306433-village-slut-transformation.json](./306433-village-slut-transformation.json) |
 | Village Supermarket Simulator: Old Times Edition | 370800 | [370800-village-supermarket-simulator-old-times-edition.json](./370800-village-supermarket-simulator-old-times-edition.json) |
 | Village Tale | 346698 | [346698-village-tale.json](./346698-village-tale.json) |
@@ -2027,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Mini Bowling | 81115 | [81115-vr-mini-bowling.json](./81115-vr-mini-bowling.json) |
 | VR Mini Bowling 2 | 202207 | [202207-vr-mini-bowling-2.json](./202207-vr-mini-bowling-2.json) |
 | VR Mini Golf | 138609 | [138609-vr-mini-golf.json](./138609-vr-mini-golf.json) |
+| VR Mini World Roller Coaster | 192238 | [192238-vr-mini-world-roller-coaster.json](./192238-vr-mini-world-roller-coaster.json) |
 | VR Monster Awakens | 30176 | [30176-vr-monster-awakens.json](./30176-vr-monster-awakens.json) |
 | VR Multi-Games | 32119 | [32119-vr-multi-games.json](./32119-vr-multi-games.json) |
 | VR New York Story | 369756 | [369756-vr-new-york-story.json](./369756-vr-new-york-story.json) |
