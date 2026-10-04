@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WCW Nitro Hollywood Hogan | 217969 | [217969-wcw-nitro-hollywood-hogan.json](./217969-wcw-nitro-hollywood-hogan.json) |
 | WCW Nitro Sting | 198960 | [198960-wcw-nitro-sting.json](./198960-wcw-nitro-sting.json) |
 | WCW nWo Thunder | 198962 | [198962-wcw-nwo-thunder.json](./198962-wcw-nwo-thunder.json) |
+| WCW Sting | 217952 | [217952-wcw-sting.json](./217952-wcw-sting.json) |
 | WCW vs. nWo: World Tour | 3635 | [3635-wcw-vs-nwo-world-tour.json](./3635-wcw-vs-nwo-world-tour.json) |
 | WCW Whiplash | 198963 | [198963-wcw-whiplash.json](./198963-wcw-whiplash.json) |
 | WCW: World Championship Wrestling | 48095 | [48095-wcw-world-championship-wrestling.json](./48095-wcw-world-championship-wrestling.json) |
@@ -4164,6 +4165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Cup Football | 130764 | [130764-world-cup-football.json](./130764-world-cup-football.json) |
 | World Cup Manager | 86221 | [86221-world-cup-manager.json](./86221-world-cup-manager.json) |
 | World Cup of Pool | 47963 | [47963-world-cup-of-pool.json](./47963-world-cup-of-pool.json) |
+| World Cup USA 94 | 217942 | [217942-world-cup-usa-94.json](./217942-world-cup-usa-94.json) |
 | World Cup USA 94 | 365668 | [365668-world-cup-usa-94.json](./365668-world-cup-usa-94.json) |
 | World Cup USA 94 | 365669 | [365669-world-cup-usa-94.json](./365669-world-cup-usa-94.json) |
 | World Cup USA 94 | 365873 | [365873-world-cup-usa-94.json](./365873-world-cup-usa-94.json) |
@@ -4185,6 +4187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Fantasista | 302701 | [302701-world-fantasista.json](./302701-world-fantasista.json) |
 | World Fantasy: DigiWar | 336125 | [336125-world-fantasy-digiwar.json](./336125-world-fantasy-digiwar.json) |
 | World Fighting | 203263 | [203263-world-fighting.json](./203263-world-fighting.json) |
+| World Football Challenge '98 | 217772 | [217772-world-football-challenge-98.json](./217772-world-football-challenge-98.json) |
 | World for Two | 147270 | [147270-world-for-two.json](./147270-world-for-two.json) |
 | World Geography | 216177 | [216177-world-geography.json](./216177-world-geography.json) |
 | World Golf | 68674 | [68674-world-golf.json](./68674-world-golf.json) |
