@@ -1631,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealFlight Evolution: Triple Tree Float Flight Line | 311082 | [311082-realflight-evolution-triple-tree-float-flight-line.json](./311082-realflight-evolution-triple-tree-float-flight-line.json) |
 | RealFlight Trainer Edition | 162755 | [162755-realflight-trainer-edition.json](./162755-realflight-trainer-edition.json) |
 | Realistic Battle Tank | 216153 | [216153-realistic-battle-tank.json](./216153-realistic-battle-tank.json) |
+| Realistic Summer Sports | 175253 | [175253-realistic-summer-sports.json](./175253-realistic-summer-sports.json) |
 | Realistic Tower Destruction | 131558 | [131558-realistic-tower-destruction.json](./131558-realistic-tower-destruction.json) |
 | Realities | 33276 | [33276-realities.json](./33276-realities.json) |
 | Realities: Death Valley | 171911 | [171911-realities-death-valley.json](./171911-realities-death-valley.json) |
@@ -3169,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Arcade: Space Invaders | 220106 | [220106-retro-arcade-space-invaders.json](./220106-retro-arcade-space-invaders.json) |
 | Retro Asylum | 409559 | [409559-retro-asylum.json](./409559-retro-asylum.json) |
 | Retro Ball | 309465 | [309465-retro-ball.json](./309465-retro-ball.json) |
+| Retro Basketball Coach 2021 | 175250 | [175250-retro-basketball-coach-2021.json](./175250-retro-basketball-coach-2021.json) |
 | Retro Basketball Coach 2022 | 187831 | [187831-retro-basketball-coach-2022.json](./187831-retro-basketball-coach-2022.json) |
 | Retro Battle | 306533 | [306533-retro-battle.json](./306533-retro-battle.json) |
 | Retro Blaster: Mech Madness 1 | 274642 | [274642-retro-blaster-mech-madness-1.json](./274642-retro-blaster-mech-madness-1.json) |
