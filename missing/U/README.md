@@ -472,6 +472,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Street Fighter IV: Challengers Vacation Pack 1 | 225157 | [225157-ultra-street-fighter-iv-challengers-vacation-pack-1.json](./225157-ultra-street-fighter-iv-challengers-vacation-pack-1.json) |
 | Ultra Street Fighter IV: Challengers Vacation Pack 2 | 225158 | [225158-ultra-street-fighter-iv-challengers-vacation-pack-2.json](./225158-ultra-street-fighter-iv-challengers-vacation-pack-2.json) |
 | Ultra Street Fighter IV: Challengers Wild Pack 1 | 225159 | [225159-ultra-street-fighter-iv-challengers-wild-pack-1.json](./225159-ultra-street-fighter-iv-challengers-wild-pack-1.json) |
+| Ultra Street Fighter IV: Challengers Wild Pack 2 | 225130 | [225130-ultra-street-fighter-iv-challengers-wild-pack-2.json](./225130-ultra-street-fighter-iv-challengers-wild-pack-2.json) |
+| Ultra Street Fighter IV: Classic Horror Pack | 225131 | [225131-ultra-street-fighter-iv-classic-horror-pack.json](./225131-ultra-street-fighter-iv-classic-horror-pack.json) |
+| Ultra Street Fighter IV: Classic Vacation Pack | 225132 | [225132-ultra-street-fighter-iv-classic-vacation-pack.json](./225132-ultra-street-fighter-iv-classic-vacation-pack.json) |
+| Ultra Street Fighter IV: Classic Wild Pack | 225133 | [225133-ultra-street-fighter-iv-classic-wild-pack.json](./225133-ultra-street-fighter-iv-classic-wild-pack.json) |
 | Ultra Street Fighter IV: Complete Brawler Pack 2011 | 225134 | [225134-ultra-street-fighter-iv-complete-brawler-pack-2011.json](./225134-ultra-street-fighter-iv-complete-brawler-pack-2011.json) |
 | Ultra Street Fighter IV: Complete Challengers 1 Pack 2011 | 225139 | [225139-ultra-street-fighter-iv-complete-challengers-1-pack-2011.json](./225139-ultra-street-fighter-iv-complete-challengers-1-pack-2011.json) |
 | Ultra Street Fighter IV: Complete Challengers 2 Pack 2011 | 225135 | [225135-ultra-street-fighter-iv-complete-challengers-2-pack-2011.json](./225135-ultra-street-fighter-iv-complete-challengers-2-pack-2011.json) |
@@ -483,6 +487,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Street Fighter IV: Femme Fatale Vacation Pack | 225141 | [225141-ultra-street-fighter-iv-femme-fatale-vacation-pack.json](./225141-ultra-street-fighter-iv-femme-fatale-vacation-pack.json) |
 | Ultra Street Fighter IV: Femme Fatale Wild Pack | 225142 | [225142-ultra-street-fighter-iv-femme-fatale-wild-pack.json](./225142-ultra-street-fighter-iv-femme-fatale-wild-pack.json) |
 | Ultra Street Fighter IV: Shadaloo Horror Pack | 225143 | [225143-ultra-street-fighter-iv-shadaloo-horror-pack.json](./225143-ultra-street-fighter-iv-shadaloo-horror-pack.json) |
+| Ultra Street Fighter IV: Shadaloo Vacation Pack | 225124 | [225124-ultra-street-fighter-iv-shadaloo-vacation-pack.json](./225124-ultra-street-fighter-iv-shadaloo-vacation-pack.json) |
+| Ultra Street Fighter IV: Shadaloo Wild Pack | 225126 | [225126-ultra-street-fighter-iv-shadaloo-wild-pack.json](./225126-ultra-street-fighter-iv-shadaloo-wild-pack.json) |
+| Ultra Street Fighter IV: Shoryuken Horror Pack | 225127 | [225127-ultra-street-fighter-iv-shoryuken-horror-pack.json](./225127-ultra-street-fighter-iv-shoryuken-horror-pack.json) |
+| Ultra Street Fighter IV: Shoryuken Vacation Pack | 225128 | [225128-ultra-street-fighter-iv-shoryuken-vacation-pack.json](./225128-ultra-street-fighter-iv-shoryuken-vacation-pack.json) |
+| Ultra Street Fighter IV: Shoryuken Wild Pack | 225129 | [225129-ultra-street-fighter-iv-shoryuken-wild-pack.json](./225129-ultra-street-fighter-iv-shoryuken-wild-pack.json) |
 | Ultra Violet | 150057 | [150057-ultra-violet.json](./150057-ultra-violet.json) |
 | Ultra Vleurette | 267356 | [267356-ultra-vleurette.json](./267356-ultra-vleurette.json) |
 | Ultra Void | 402985 | [402985-ultra-void.json](./402985-ultra-void.json) |
