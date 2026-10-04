@@ -2028,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helios Horizon | 290496 | [290496-helios-horizon.json](./290496-helios-horizon.json) |
 | Heliotropism | 153848 | [153848-heliotropism.json](./153848-heliotropism.json) |
 | Helipopper | 317433 | [317433-helipopper.json](./317433-helipopper.json) |
+| HeliSquad: Covert Operations | 204338 | [204338-helisquad-covert-operations.json](./204338-helisquad-covert-operations.json) |
 | Helium Electric | 190104 | [190104-helium-electric.json](./190104-helium-electric.json) |
 | Helium Rain | 51733 | [51733-helium-rain.json](./51733-helium-rain.json) |
 | HeliVR Simulator | 249472 | [249472-helivr-simulator.json](./249472-helivr-simulator.json) |
@@ -3330,13 +3331,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexceed: Alphard | 397883 | [397883-hexceed-alphard.json](./397883-hexceed-alphard.json) |
 | Hexceed: Aquila | 397882 | [397882-hexceed-aquila.json](./397882-hexceed-aquila.json) |
 | Hexceed: Capricornus | 397881 | [397881-hexceed-capricornus.json](./397881-hexceed-capricornus.json) |
+| Hexceed: Casus | 204299 | [204299-hexceed-casus.json](./204299-hexceed-casus.json) |
 | Hexceed: Centaurus | 397880 | [397880-hexceed-centaurus.json](./397880-hexceed-centaurus.json) |
 | Hexceed: Cetus | 397879 | [397879-hexceed-cetus.json](./397879-hexceed-cetus.json) |
 | Hexceed: Cogitare Pack | 224231 | [224231-hexceed-cogitare-pack.json](./224231-hexceed-cogitare-pack.json) |
+| hexceed: Effugium | 204298 | [204298-hexceed-effugium.json](./204298-hexceed-effugium.json) |
 | Hexceed: Exsupero Pack | 224229 | [224229-hexceed-exsupero-pack.json](./224229-hexceed-exsupero-pack.json) |
 | Hexceed: Incipiam | 224228 | [224228-hexceed-incipiam.json](./224228-hexceed-incipiam.json) |
 | Hexceed: Insulam | 201595 | [201595-hexceed-insulam.json](./201595-hexceed-insulam.json) |
 | Hexceed: Progressum | 202762 | [202762-hexceed-progressum.json](./202762-hexceed-progressum.json) |
+| Hexceed: Rimor | 204296 | [204296-hexceed-rimor.json](./204296-hexceed-rimor.json) |
 | Hexceed: Rubrum | 295865 | [295865-hexceed-rubrum.json](./295865-hexceed-rubrum.json) |
 | Hexceed: Sirius | 397878 | [397878-hexceed-sirius.json](./397878-hexceed-sirius.json) |
 | Hexceed: Viridis Pack | 323236 | [323236-hexceed-viridis-pack.json](./323236-hexceed-viridis-pack.json) |
