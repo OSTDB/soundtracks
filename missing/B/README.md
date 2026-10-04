@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldis Basics Calculator Sim | 106637 | [106637-baldis-basics-calculator-sim.json](./106637-baldis-basics-calculator-sim.json) |
 | Baldo: The Guardian Owls - The Three Fairies Edition | 200682 | [200682-baldo-the-guardian-owls-the-three-fairies-edition.json](./200682-baldo-the-guardian-owls-the-three-fairies-edition.json) |
 | Baldoo | 116822 | [116822-baldoo.json](./116822-baldoo.json) |
+| Baldr Bringer Extend Code | 180651 | [180651-baldr-bringer-extend-code.json](./180651-baldr-bringer-extend-code.json) |
 | Baldr Fist | 180241 | [180241-baldr-fist.json](./180241-baldr-fist.json) |
 | Baldr Force Exe | 44622 | [44622-baldr-force-exe.json](./44622-baldr-force-exe.json) |
 | Baldr Sky | 127153 | [127153-baldr-sky.json](./127153-baldr-sky.json) |
@@ -5297,6 +5298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blinck Island Returns | 186169 | [186169-blinck-island-returns.json](./186169-blinck-island-returns.json) |
 | Blind | 156634 | [156634-blind.json](./156634-blind.json) |
 | Blind | 216787 | [216787-blind.json](./216787-blind.json) |
+| Blind Affection | 180562 | [180562-blind-affection.json](./180562-blind-affection.json) |
 | Blind Box | 379348 | [379348-blind-box.json](./379348-blind-box.json) |
 | Blind Date Simulator | 316640 | [316640-blind-date-simulator.json](./316640-blind-date-simulator.json) |
 | Blind Deadly Love | 185537 | [185537-blind-deadly-love.json](./185537-blind-deadly-love.json) |
@@ -6029,6 +6031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blow Up! | 47556 | [47556-blow-up.json](./47556-blow-up.json) |
 | Blow-Up: Avenge Humanity | 345096 | [345096-blow-up-avenge-humanity.json](./345096-blow-up-avenge-humanity.json) |
 | Blowback | 184611 | [184611-blowback.json](./184611-blowback.json) |
+| Blower | 180664 | [180664-blower.json](./180664-blower.json) |
 | Blowfly: DungHole Wanderer | 202745 | [202745-blowfly-dunghole-wanderer.json](./202745-blowfly-dunghole-wanderer.json) |
 | Blowout & Cosmic Alphabet | 14325 | [14325-blowout-and-cosmic-alphabet.json](./14325-blowout-and-cosmic-alphabet.json) |
 | Blowup | 269109 | [269109-blowup.json](./269109-blowup.json) |
@@ -9124,6 +9127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunnyrama | 30136 | [30136-bunnyrama.json](./30136-bunnyrama.json) |
 | BunnyShot | 157514 | [157514-bunnyshot.json](./157514-bunnyshot.json) |
 | Bunnysitting | 246658 | [246658-bunnysitting.json](./246658-bunnysitting.json) |
+| Bunosphere | 180635 | [180635-bunosphere.json](./180635-bunosphere.json) |
 | Buns Out! | 351147 | [351147-buns-out.json](./351147-buns-out.json) |
 | Buns: Bunny Survivor | 215039 | [215039-buns-bunny-survivor.json](./215039-buns-bunny-survivor.json) |
 | Bunt Girl | 178669 | [178669-bunt-girl.json](./178669-bunt-girl.json) |
