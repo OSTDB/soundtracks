@@ -4011,6 +4011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill & Ted's Excellent Adventure | 175897 | [175897-bill-and-teds-excellent-adventure.json](./175897-bill-and-teds-excellent-adventure.json) |
 | Bill & Ted's Excellent Adventure: The Computer Game! | 83911 | [83911-bill-and-teds-excellent-adventure-the-computer-game.json](./83911-bill-and-teds-excellent-adventure-the-computer-game.json) |
 | Bill & Ted's Excellent Game Boy Adventure | 290651 | [290651-bill-and-teds-excellent-game-boy-adventure.json](./290651-bill-and-teds-excellent-game-boy-adventure.json) |
+| Bill and Ted's Excellent Retro Collection | 203772 | [203772-bill-and-teds-excellent-retro-collection.json](./203772-bill-and-teds-excellent-retro-collection.json) |
 | Bill Bounce | 231623 | [231623-bill-bounce.json](./231623-bill-bounce.json) |
 | Bill Killem | 343997 | [343997-bill-killem.json](./343997-bill-killem.json) |
 | Bill Laimbeer's Combat Basketball | 46002 | [46002-bill-laimbeers-combat-basketball.json](./46002-bill-laimbeers-combat-basketball.json) |
@@ -4903,6 +4904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Bouncer 2: Revolution | 317823 | [317823-blade-bouncer-2-revolution.json](./317823-blade-bouncer-2-revolution.json) |
 | Blade Bound | 174817 | [174817-blade-bound.json](./174817-blade-bound.json) |
 | Blade Breaker: Sword Taker | 394485 | [394485-blade-breaker-sword-taker.json](./394485-blade-breaker-sword-taker.json) |
+| Blade Bros Impact! | 203796 | [203796-blade-bros-impact.json](./203796-blade-bros-impact.json) |
 | Blade Buster | 48316 | [48316-blade-buster.json](./48316-blade-buster.json) |
 | Blade Crafter | 108871 | [108871-blade-crafter.json](./108871-blade-crafter.json) |
 | Blade Crafter | 248151 | [248151-blade-crafter.json](./248151-blade-crafter.json) |
