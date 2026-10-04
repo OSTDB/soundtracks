@@ -5867,6 +5867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Walls: Hardcore x2 | 166223 | [166223-bloody-walls-hardcore-x2.json](./166223-bloody-walls-hardcore-x2.json) |
 | Bloody Walls: The Darkness | 166221 | [166221-bloody-walls-the-darkness.json](./166221-bloody-walls-the-darkness.json) |
 | Bloody Zombies | 100185 | [100185-bloody-zombies.json](./100185-bloody-zombies.json) |
+| Bloodz | 217211 | [217211-bloodz.json](./217211-bloodz.json) |
 | Bloom | 110476 | [110476-bloom.json](./110476-bloom.json) |
 | Bloom | 263568 | [263568-bloom.json](./263568-bloom.json) |
 | Bloom | 380031 | [380031-bloom.json](./380031-bloom.json) |
@@ -8997,6 +8998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunt Girl | 178669 | [178669-bunt-girl.json](./178669-bunt-girl.json) |
 | Buoy Boy | 233768 | [233768-buoy-boy.json](./233768-buoy-boy.json) |
 | Buoyancy | 115347 | [115347-buoyancy.json](./115347-buoyancy.json) |
+| Bura: The Way the Wind Blows | 217361 | [217361-bura-the-way-the-wind-blows.json](./217361-bura-the-way-the-wind-blows.json) |
 | Burai Fighter Deluxe | 48960 | [48960-burai-fighter-deluxe.json](./48960-burai-fighter-deluxe.json) |
 | Buraigun: Galaxy Storm | 151561 | [151561-buraigun-galaxy-storm.json](./151561-buraigun-galaxy-storm.json) |
 | Burak Bahar's Unseen Anchor | 83594 | [83594-burak-bahars-unseen-anchor.json](./83594-burak-bahars-unseen-anchor.json) |
