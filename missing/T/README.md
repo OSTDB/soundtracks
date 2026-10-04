@@ -1336,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapes of Entities | 370204 | [370204-tapes-of-entities.json](./370204-tapes-of-entities.json) |
 | Tapestry | 216327 | [216327-tapestry.json](./216327-tapestry.json) |
 | Tapestry | 406224 | [406224-tapestry.json](./406224-tapestry.json) |
+| Tapestry of the Month Before | 180081 | [180081-tapestry-of-the-month-before.json](./180081-tapestry-of-the-month-before.json) |
 | Tapeworm | 130772 | [130772-tapeworm.json](./130772-tapeworm.json) |
 | Tapeworm Disco Puzzle | 153952 | [153952-tapeworm-disco-puzzle.json](./153952-tapeworm-disco-puzzle.json) |
 | TapGame - Knife Up | 101088 | [101088-tapgame-knife-up.json](./101088-tapgame-knife-up.json) |
@@ -3689,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bustling World | 286659 | [286659-the-bustling-world.json](./286659-the-bustling-world.json) |
 | The Butcher | 127149 | [127149-the-butcher.json](./127149-the-butcher.json) |
 | The Butcher | 203534 | [203534-the-butcher.json](./203534-the-butcher.json) |
+| The Butterbies | 180097 | [180097-the-butterbies.json](./180097-the-butterbies.json) |
 | The Butterfly Dreams | 319021 | [319021-the-butterfly-dreams.json](./319021-the-butterfly-dreams.json) |
 | The Button | 181743 | [181743-the-button.json](./181743-the-button.json) |
 | The Button Be | 213629 | [213629-the-button-be.json](./213629-the-button-be.json) |
@@ -9941,6 +9943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wake of the Wyrm | 415904 | [415904-the-wake-of-the-wyrm.json](./415904-the-wake-of-the-wyrm.json) |
 | The Wakers | 204330 | [204330-the-wakers.json](./204330-the-wakers.json) |
 | The Walk | 375939 | [375939-the-walk.json](./375939-the-walk.json) |
+| The Walk of Life | 179987 | [179987-the-walk-of-life.json](./179987-the-walk-of-life.json) |
 | The Walking Dead Match 3 Tales | 303175 | [303175-the-walking-dead-match-3-tales.json](./303175-the-walking-dead-match-3-tales.json) |
 | The Walking Dead: A New Frontier - Episode 2: Ties That Bind - Part Two | 127063 | [127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json](./127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json) |
 | The Walking Dead: A New Frontier - Episode 3: Above the Law | 127064 | [127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json](./127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json) |
@@ -12764,6 +12767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Bring Her Back | 316804 | [316804-to-bring-her-back.json](./316804-to-bring-her-back.json) |
 | To Burn in Memory: Anniversary Edition | 110371 | [110371-to-burn-in-memory-anniversary-edition.json](./110371-to-burn-in-memory-anniversary-edition.json) |
 | To Carry a Sword | 190440 | [190440-to-carry-a-sword.json](./190440-to-carry-a-sword.json) |
+| To Crime Nirvana | 180064 | [180064-to-crime-nirvana.json](./180064-to-crime-nirvana.json) |
 | To Crown or to Destroy | 373183 | [373183-to-crown-or-to-destroy.json](./373183-to-crown-or-to-destroy.json) |
 | To Cure Man | 344510 | [344510-to-cure-man.json](./344510-to-cure-man.json) |
 | To Dawn and Back | 136847 | [136847-to-dawn-and-back.json](./136847-to-dawn-and-back.json) |
