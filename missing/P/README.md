@@ -8827,6 +8827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puckdoku | 321606 | [321606-puckdoku.json](./321606-puckdoku.json) |
 | Puckit! | 380448 | [380448-puckit.json](./380448-puckit.json) |
 | Puckman | 47280 | [47280-puckman.json](./47280-puckman.json) |
+| Puckoff | 191060 | [191060-puckoff.json](./191060-puckoff.json) |
 | Puda + The Kid | 263198 | [263198-puda-the-kid.json](./263198-puda-the-kid.json) |
 | Pudding | 312022 | [312022-pudding.json](./312022-pudding.json) |
 | Pudding Frog | 334201 | [334201-pudding-frog.json](./334201-pudding-frog.json) |
