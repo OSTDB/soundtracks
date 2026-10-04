@@ -1670,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurer | 391046 | [391046-adventurer.json](./391046-adventurer.json) |
 | Adventurer Flower | 232935 | [232935-adventurer-flower.json](./232935-adventurer-flower.json) |
 | Adventurer Guild | 109882 | [109882-adventurer-guild.json](./109882-adventurer-guild.json) |
+| Adventurer Manager: Endless Tower | 174160 | [174160-adventurer-manager-endless-tower.json](./174160-adventurer-manager-endless-tower.json) |
 | Adventurers Shop | 386860 | [386860-adventurers-shop.json](./386860-adventurers-shop.json) |
 | Adventures at the North Pole | 203865 | [203865-adventures-at-the-north-pole.json](./203865-adventures-at-the-north-pole.json) |
 | Adventures in Anglonia | 276708 | [276708-adventures-in-anglonia.json](./276708-adventures-in-anglonia.json) |
@@ -4798,6 +4799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds: Dangerous Railroad | 325564 | [325564-angry-birds-dangerous-railroad.json](./325564-angry-birds-dangerous-railroad.json) |
 | Angry Birds: Flock Party | 372088 | [372088-angry-birds-flock-party.json](./372088-angry-birds-flock-party.json) |
 | Angry Brainless Bovines | 140607 | [140607-angry-brainless-bovines.json](./140607-angry-brainless-bovines.json) |
+| Angry Brides | 174079 | [174079-angry-brides.json](./174079-angry-brides.json) |
 | Angry Bulls | 209706 | [209706-angry-bulls.json](./209706-angry-bulls.json) |
 | Angry Bunnies | 62200 | [62200-angry-bunnies.json](./62200-angry-bunnies.json) |
 | Angry Bunnies: Colossal Carrot Crusade - Heroes | 238190 | [238190-angry-bunnies-colossal-carrot-crusade-heroes.json](./238190-angry-bunnies-colossal-carrot-crusade-heroes.json) |
@@ -7432,6 +7434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash of Gods: The Way | 192439 | [192439-ash-of-gods-the-way.json](./192439-ash-of-gods-the-way.json) |
 | Ash of Gods: Universe Bundle | 257096 | [257096-ash-of-gods-universe-bundle.json](./257096-ash-of-gods-universe-bundle.json) |
 | Ash of War | 109684 | [109684-ash-of-war.json](./109684-ash-of-war.json) |
+| Ash of War: Operation Sundown | 174157 | [174157-ash-of-war-operation-sundown.json](./174157-ash-of-war-operation-sundown.json) |
 | Ash Pines: The Motel | 361695 | [361695-ash-pines-the-motel.json](./361695-ash-pines-the-motel.json) |
 | Ash Warden | 361767 | [361767-ash-warden.json](./361767-ash-warden.json) |
 | Ash. | 76669 | [76669-ash.json](./76669-ash.json) |
