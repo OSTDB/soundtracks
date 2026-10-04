@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima Worlds Online: Origin | 72756 | [72756-ultima-worlds-online-origin.json](./72756-ultima-worlds-online-origin.json) |
 | Ultima: Escape from Mt. Drash | 24951 | [24951-ultima-escape-from-mt-drash.json](./24951-ultima-escape-from-mt-drash.json) |
 | Ultima: Exodus | 48049 | [48049-ultima-exodus.json](./48049-ultima-exodus.json) |
+| Ultima: Exodus Remastered | 214995 | [214995-ultima-exodus-remastered.json](./214995-ultima-exodus-remastered.json) |
 | Ultima: Quest of the Avatar | 48097 | [48097-ultima-quest-of-the-avatar.json](./48097-ultima-quest-of-the-avatar.json) |
 | Ultima: Runes of Virtue | 48920 | [48920-ultima-runes-of-virtue.json](./48920-ultima-runes-of-virtue.json) |
 | Ultima: The Savage Empire | 186734 | [186734-ultima-the-savage-empire.json](./186734-ultima-the-savage-empire.json) |
