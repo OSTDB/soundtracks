@@ -2826,6 +2826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Digger | 227816 | [227816-go-go-digger.json](./227816-go-go-digger.json) |
 | Go! Go! Gooble!! | 135136 | [135136-go-go-gooble.json](./135136-go-go-gooble.json) |
 | Go! Go! Hitchhike | 92296 | [92296-go-go-hitchhike.json](./92296-go-go-hitchhike.json) |
+| Go! Go! Kokopolo Anniversary Collection | 203793 | [203793-go-go-kokopolo-anniversary-collection.json](./203793-go-go-kokopolo-anniversary-collection.json) |
 | Go! Go! Mile Smile | 40178 | [40178-go-go-mile-smile.json](./40178-go-go-mile-smile.json) |
 | Go! Go! PogoGirl | 188125 | [188125-go-go-pogogirl.json](./188125-go-go-pogogirl.json) |
 | Go! Go! Shurihito | 181341 | [181341-go-go-shurihito.json](./181341-go-go-shurihito.json) |
@@ -3370,6 +3371,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Master | 137673 | [137673-golf-master.json](./137673-golf-master.json) |
 | Golf Monday | 287234 | [287234-golf-monday.json](./287234-golf-monday.json) |
 | Golf Monster | 156670 | [156670-golf-monster.json](./156670-golf-monster.json) |
+| Golf Navigator Vol.1 | 203767 | [203767-golf-navigator-vol-1.json](./203767-golf-navigator-vol-1.json) |
+| Golf Navigator Vol.2 | 203768 | [203768-golf-navigator-vol-2.json](./203768-golf-navigator-vol-2.json) |
+| Golf Navigator Vol.3 | 203769 | [203769-golf-navigator-vol-3.json](./203769-golf-navigator-vol-3.json) |
+| Golf Navigator Vol.4 | 203770 | [203770-golf-navigator-vol-4.json](./203770-golf-navigator-vol-4.json) |
 | Golf Odyssey | 242680 | [242680-golf-odyssey.json](./242680-golf-odyssey.json) |
 | Golf Odyssey 2 DX | 269003 | [269003-golf-odyssey-2-dx.json](./269003-golf-odyssey-2-dx.json) |
 | Golf Of America | 351647 | [351647-golf-of-america.json](./351647-golf-of-america.json) |
