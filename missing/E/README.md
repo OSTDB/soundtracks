@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Econia: Crypto Idle Tycoon! | 232376 | [232376-econia-crypto-idle-tycoon.json](./232376-econia-crypto-idle-tycoon.json) |
 | Economic War | 202701 | [202701-economic-war.json](./202701-economic-war.json) |
 | Economy Bundle | 193740 | [193740-economy-bundle.json](./193740-economy-bundle.json) |
+| Ecoplanet | 217224 | [217224-ecoplanet.json](./217224-ecoplanet.json) |
 | Ecopoiesis | 75927 | [75927-ecopoiesis.json](./75927-ecopoiesis.json) |
 | Ecopunk | 369139 | [369139-ecopunk.json](./369139-ecopunk.json) |
 | EcoQuest II: Lost Secret of the Rainforest | 7694 | [7694-ecoquest-ii-lost-secret-of-the-rainforest.json](./7694-ecoquest-ii-lost-secret-of-the-rainforest.json) |
@@ -2766,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the City | 170910 | [170910-escape-the-city.json](./170910-escape-the-city.json) |
 | Escape the Dark Tower | 260233 | [260233-escape-the-dark-tower.json](./260233-escape-the-dark-tower.json) |
 | Escape the Darkness | 95166 | [95166-escape-the-darkness.json](./95166-escape-the-darkness.json) |
+| Escape the Dead | 217212 | [217212-escape-the-dead.json](./217212-escape-the-dead.json) |
 | Escape the Dynasty | 389719 | [389719-escape-the-dynasty.json](./389719-escape-the-dynasty.json) |
 | Escape the Enterprise | 110552 | [110552-escape-the-enterprise.json](./110552-escape-the-enterprise.json) |
 | Escape The Escape Rooms | 237066 | [237066-escape-the-escape-rooms.json](./237066-escape-the-escape-rooms.json) |
