@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Squad | 364693 | [364693-karaoke-squad.json](./364693-karaoke-squad.json) |
 | Karaoke Studio | 79252 | [79252-karaoke-studio.json](./79252-karaoke-studio.json) |
 | Karate | 14253 | [14253-karate.json](./14253-karate.json) |
+| Karate Beasts | 215591 | [215591-karate-beasts.json](./215591-karate-beasts.json) |
 | Karate Blazers | 39579 | [39579-karate-blazers.json](./39579-karate-blazers.json) |
 | Karate Bros | 336067 | [336067-karate-bros.json](./336067-karate-bros.json) |
 | Karate Champ | 285600 | [285600-karate-champ.json](./285600-karate-champ.json) |
@@ -988,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kevin Keegan's Player Manager | 42618 | [42618-kevin-keegans-player-manager.json](./42618-kevin-keegans-player-manager.json) |
 | Kevin's Playing In Berlin | 383397 | [383397-kevins-playing-in-berlin.json](./383397-kevins-playing-in-berlin.json) |
 | Kevtris | 68719 | [68719-kevtris.json](./68719-kevtris.json) |
+| Kewbii | 215592 | [215592-kewbii.json](./215592-kewbii.json) |
 | Kewter’s Showroom | 340787 | [340787-kewter-s-showroom.json](./340787-kewter-s-showroom.json) |
 | Kewtia: Crystallite Hunt | 75859 | [75859-kewtia-crystallite-hunt.json](./75859-kewtia-crystallite-hunt.json) |
 | Key 2 | 369579 | [369579-key-2.json](./369579-key-2.json) |
@@ -2033,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss of Revenge | 238413 | [238413-kiss-of-revenge.json](./238413-kiss-of-revenge.json) |
 | Kiss Pinball | 43917 | [43917-kiss-pinball.json](./43917-kiss-pinball.json) |
 | Kiss Rock City: Be A Rockstar | 265419 | [265419-kiss-rock-city-be-a-rockstar.json](./265419-kiss-rock-city-be-a-rockstar.json) |
+| Kiss the Demiurge | 215593 | [215593-kiss-the-demiurge.json](./215593-kiss-the-demiurge.json) |
 | Kiss the Girl | 216174 | [216174-kiss-the-girl.json](./216174-kiss-the-girl.json) |
 | Kiss Yori... | 73766 | [73766-kiss-yori.json](./73766-kiss-yori.json) |
 | Kissa | 181891 | [181891-kissa.json](./181891-kissa.json) |
