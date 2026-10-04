@@ -2383,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator Fights | 343401 | [343401-gladiator-fights.json](./343401-gladiator-fights.json) |
 | Gladiator Manager | 278095 | [278095-gladiator-manager.json](./278095-gladiator-manager.json) |
 | Gladiator of sparta | 173275 | [173275-gladiator-of-sparta.json](./173275-gladiator-of-sparta.json) |
+| Gladiator Rising | 221218 | [221218-gladiator-rising.json](./221218-gladiator-rising.json) |
 | Gladiator Rising 2 | 297578 | [297578-gladiator-rising-2.json](./297578-gladiator-rising-2.json) |
 | Gladiator School | 284329 | [284329-gladiator-school.json](./284329-gladiator-school.json) |
 | Gladiator Trainer | 31289 | [31289-gladiator-trainer.json](./31289-gladiator-trainer.json) |
@@ -3905,6 +3906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Fantasia: Origin | 311164 | [311164-grand-fantasia-origin.json](./311164-grand-fantasia-origin.json) |
 | Grand Fantasy Heroes | 336092 | [336092-grand-fantasy-heroes.json](./336092-grand-fantasy-heroes.json) |
 | Grand Fleet | 71221 | [71221-grand-fleet.json](./71221-grand-fleet.json) |
+| Grand Foodventure | 221088 | [221088-grand-foodventure.json](./221088-grand-foodventure.json) |
 | Grand Gardens | 295497 | [295497-grand-gardens.json](./295497-grand-gardens.json) |
 | Grand Gate | 208601 | [208601-grand-gate.json](./208601-grand-gate.json) |
 | Grand Guilds | 109774 | [109774-grand-guilds.json](./109774-grand-guilds.json) |
