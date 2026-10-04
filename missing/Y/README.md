@@ -560,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are The Victim | 277542 | [277542-you-are-the-victim.json](./277542-you-are-the-victim.json) |
 | You are the Weapon | 230309 | [230309-you-are-the-weapon.json](./230309-you-are-the-weapon.json) |
 | You Are the Wormhole | 128621 | [128621-you-are-the-wormhole.json](./128621-you-are-the-wormhole.json) |
+| You Are Undead | 180665 | [180665-you-are-undead.json](./180665-you-are-undead.json) |
 | You Brought a Shield to a Tentacle Fight | 181791 | [181791-you-brought-a-shield-to-a-tentacle-fight.json](./181791-you-brought-a-shield-to-a-tentacle-fight.json) |
 | You can not be there | 229013 | [229013-you-can-not-be-there.json](./229013-you-can-not-be-there.json) |
 | You Can Only Turn Left | 298849 | [298849-you-can-only-turn-left.json](./298849-you-can-only-turn-left.json) |
