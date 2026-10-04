@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waking the Glares | 27923 | [27923-waking-the-glares.json](./27923-waking-the-glares.json) |
 | Waking the Glares - Chapter I and II | 56430 | [56430-waking-the-glares-chapter-i-and-ii.json](./56430-waking-the-glares-chapter-i-and-ii.json) |
 | Waking Up To You | 395038 | [395038-waking-up-to-you.json](./395038-waking-up-to-you.json) |
+| Waking up while the sun sets | 178490 | [178490-waking-up-while-the-sun-sets.json](./178490-waking-up-while-the-sun-sets.json) |
 | Waking Violet | 103415 | [103415-waking-violet.json](./103415-waking-violet.json) |
 | Wakka Follow the Treasure Ring | 326246 | [326246-wakka-follow-the-treasure-ring.json](./326246-wakka-follow-the-treasure-ring.json) |
 | Waktunya Kerja! | 385599 | [385599-waktunya-kerja.json](./385599-waktunya-kerja.json) |
