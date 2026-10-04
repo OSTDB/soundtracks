@@ -2152,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pengo | 270415 | [270415-pengo.json](./270415-pengo.json) |
 | Pengo | 282071 | [282071-pengo.json](./282071-pengo.json) |
 | Pengon | 79230 | [79230-pengon.json](./79230-pengon.json) |
+| PengoRoyale | 193274 | [193274-pengoroyale.json](./193274-pengoroyale.json) |
 | PengPong | 345506 | [345506-pengpong.json](./345506-pengpong.json) |
 | Pengu | 177520 | [177520-pengu.json](./177520-pengu.json) |
 | Pengu Never Left | 187399 | [187399-pengu-never-left.json](./187399-pengu-never-left.json) |
@@ -3032,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
 | Photographer's Life Simulator | 346716 | [346716-photographers-life-simulator.json](./346716-photographers-life-simulator.json) |
 | Photographic Memory Test | 308506 | [308506-photographic-memory-test.json](./308506-photographic-memory-test.json) |
+| Photography Simulator | 193309 | [193309-photography-simulator.json](./193309-photography-simulator.json) |
 | PhotoLoop | 361811 | [361811-photoloop.json](./361811-photoloop.json) |
 | Photomount | 384653 | [384653-photomount.json](./384653-photomount.json) |
 | Photon Blade | 404979 | [404979-photon-blade.json](./404979-photon-blade.json) |
@@ -3987,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate's Den Renovator | 211185 | [211185-pirates-den-renovator.json](./211185-pirates-den-renovator.json) |
 | Pirate's Dual | 390236 | [390236-pirates-dual.json](./390236-pirates-dual.json) |
 | Pirate's Gold | 187867 | [187867-pirates-gold.json](./187867-pirates-gold.json) |
+| Pirate's Gold | 193272 | [193272-pirates-gold.json](./193272-pirates-gold.json) |
 | Pirate's Solitaire | 195715 | [195715-pirates-solitaire.json](./195715-pirates-solitaire.json) |
 | Pirated Code | 179612 | [179612-pirated-code.json](./179612-pirated-code.json) |
 | Pirated Code: Admin Edition | 212187 | [212187-pirated-code-admin-edition.json](./212187-pirated-code-admin-edition.json) |
@@ -7665,6 +7668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Tycoon: Alcatraz | 14883 | [14883-prison-tycoon-alcatraz.json](./14883-prison-tycoon-alcatraz.json) |
 | Prison Tycoon: Under New Management | 152405 | [152405-prison-tycoon-under-new-management.json](./152405-prison-tycoon-under-new-management.json) |
 | Prison Tycoon: Under New Management - Maximum Security | 196298 | [196298-prison-tycoon-under-new-management-maximum-security.json](./196298-prison-tycoon-under-new-management-maximum-security.json) |
+| Prison Wars | 193267 | [193267-prison-wars.json](./193267-prison-wars.json) |
 | Prison Wars | 336725 | [336725-prison-wars.json](./336725-prison-wars.json) |
 | Prison X: Chapter 1 - The Devil and The Sun | 326220 | [326220-prison-x-chapter-1-the-devil-and-the-sun.json](./326220-prison-x-chapter-1-the-devil-and-the-sun.json) |
 | Prisonela | 218697 | [218697-prisonela.json](./218697-prisonela.json) |
