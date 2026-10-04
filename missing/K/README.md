@@ -2488,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout City: Season 2 - Fight at the Movies | 159118 | [159118-knockout-city-season-2-fight-at-the-movies.json](./159118-knockout-city-season-2-fight-at-the-movies.json) |
 | Knockout City: Season 3 - H@cked | 182499 | [182499-knockout-city-season-3-h-cked.json](./182499-knockout-city-season-3-h-cked.json) |
 | Knockout City: Season 4 - Alien Invaders | 182498 | [182498-knockout-city-season-4-alien-invaders.json](./182498-knockout-city-season-4-alien-invaders.json) |
+| Knockout City: Season 5 - Greatest Hits | 198302 | [198302-knockout-city-season-5-greatest-hits.json](./198302-knockout-city-season-5-greatest-hits.json) |
 | Knockout City: Season 6 - City of Tomorrow | 214606 | [214606-knockout-city-season-6-city-of-tomorrow.json](./214606-knockout-city-season-6-city-of-tomorrow.json) |
 | Knockout City: Season 7 - Mutant Mutiny | 214607 | [214607-knockout-city-season-7-mutant-mutiny.json](./214607-knockout-city-season-7-mutant-mutiny.json) |
 | Knockout Kings | 249156 | [249156-knockout-kings.json](./249156-knockout-kings.json) |
