@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Dash | 377133 | [377133-zombie-dash.json](./377133-zombie-dash.json) |
 | Zombie Dead Smasher Shooter: Premium Edition | 283163 | [283163-zombie-dead-smasher-shooter-premium-edition.json](./283163-zombie-dead-smasher-shooter-premium-edition.json) |
 | Zombie Deathrace Feeding Frenzy | 114185 | [114185-zombie-deathrace-feeding-frenzy.json](./114185-zombie-deathrace-feeding-frenzy.json) |
+| Zombie Defence TD | 223527 | [223527-zombie-defence-td.json](./223527-zombie-defence-td.json) |
 | Zombie Defense | 271703 | [271703-zombie-defense.json](./271703-zombie-defense.json) |
 | Zombie Defense Shelter | 130195 | [130195-zombie-defense-shelter.json](./130195-zombie-defense-shelter.json) |
 | Zombie Defense: Commando Edition | 277914 | [277914-zombie-defense-commando-edition.json](./277914-zombie-defense-commando-edition.json) |
@@ -1133,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZoomnBoom | 107876 | [107876-zoomnboom.json](./107876-zoomnboom.json) |
 | Zooms Rampage | 297754 | [297754-zooms-rampage.json](./297754-zooms-rampage.json) |
 | ZooMumba | 304277 | [304277-zoomumba.json](./304277-zoomumba.json) |
+| Zoonomaly | 223526 | [223526-zoonomaly.json](./223526-zoonomaly.json) |
 | Zooo | 265196 | [265196-zooo.json](./265196-zooo.json) |
 | Zoop | 20615 | [20615-zoop.json](./20615-zoop.json) |
 | Zoop | 301393 | [301393-zoop.json](./301393-zoop.json) |
