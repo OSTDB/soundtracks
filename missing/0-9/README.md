@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Mind Game | 104235 | [104235-100-mind-game.json](./104235-100-mind-game.json) |
 | 100 Minutes of /vr/ | 300030 | [300030-100-minutes-of-vr.json](./300030-100-minutes-of-vr.json) |
 | 100 Mushroom Cats | 393731 | [393731-100-mushroom-cats.json](./393731-100-mushroom-cats.json) |
+| 100 Mystery Buttons | 220155 | [220155-100-mystery-buttons.json](./220155-100-mystery-buttons.json) |
 | 100 Mystic Cats | 393727 | [393727-100-mystic-cats.json](./393727-100-mystic-cats.json) |
 | 100 New Year Cats | 324238 | [324238-100-new-year-cats.json](./324238-100-new-year-cats.json) |
 | 100 New Year Cats: Extra Content | 325506 | [325506-100-new-year-cats-extra-content.json](./325506-100-new-year-cats-extra-content.json) |
