@@ -6275,6 +6275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skirmish | 13756 | [13756-skirmish.json](./13756-skirmish.json) |
 | Skirmish | 257946 | [257946-skirmish.json](./257946-skirmish.json) |
 | Skirmish Line: Mad Jack | 172129 | [172129-skirmish-line-mad-jack.json](./172129-skirmish-line-mad-jack.json) |
+| Skirmishers | 223368 | [223368-skirmishers.json](./223368-skirmishers.json) |
 | Skitt | 138735 | [138735-skitt.json](./138735-skitt.json) |
 | Sknow | 118206 | [118206-sknow.json](./118206-sknow.json) |
 | Skogdal | 258565 | [258565-skogdal.json](./258565-skogdal.json) |
@@ -13589,6 +13590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Synthetic Dawn | 54528 | [54528-stellaris-synthetic-dawn.json](./54528-stellaris-synthetic-dawn.json) |
 | Stellaris: The Machine Age | 291611 | [291611-stellaris-the-machine-age.json](./291611-stellaris-the-machine-age.json) |
 | Stellaris: Toxoids | 218170 | [218170-stellaris-toxoids.json](./218170-stellaris-toxoids.json) |
+| Stellaris: Toxoids Species Pack | 223546 | [223546-stellaris-toxoids-species-pack.json](./223546-stellaris-toxoids-species-pack.json) |
 | Stellarons Superstars: Detectives of the Scarlet Horizons | 300838 | [300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json](./300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json) |
 | StellarPlans | 295334 | [295334-stellarplans.json](./295334-stellarplans.json) |
 | Stellifier | 317018 | [317018-stellifier.json](./317018-stellifier.json) |
@@ -17596,6 +17598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive | 52256 | [52256-survive.json](./52256-survive.json) |
 | Survive | 79821 | [79821-survive.json](./79821-survive.json) |
 | Survive - Wilderness Survival | 58795 | [58795-survive-wilderness-survival.json](./58795-survive-wilderness-survival.json) |
+| Survive & Craft | 223520 | [223520-survive-and-craft.json](./223520-survive-and-craft.json) |
 | Survive 10 Minutes Please | 201323 | [201323-survive-10-minutes-please.json](./201323-survive-10-minutes-please.json) |
 | Survive and Revenge | 236285 | [236285-survive-and-revenge.json](./236285-survive-and-revenge.json) |
 | Survive Avalon | 158709 | [158709-survive-avalon.json](./158709-survive-avalon.json) |
@@ -17868,6 +17871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwapTales: Leon! | 116439 | [116439-swaptales-leon.json](./116439-swaptales-leon.json) |
 | Swarm 2 | 280060 | [280060-swarm-2.json](./280060-swarm-2.json) |
 | Swarm Fortress | 294372 | [294372-swarm-fortress.json](./294372-swarm-fortress.json) |
+| Swarm Grinder | 223371 | [223371-swarm-grinder.json](./223371-swarm-grinder.json) |
 | Swarm Harvest | 417418 | [417418-swarm-harvest.json](./417418-swarm-harvest.json) |
 | Swarm Hunter | 345557 | [345557-swarm-hunter.json](./345557-swarm-hunter.json) |
 | Swarm Me | 374722 | [374722-swarm-me.json](./374722-swarm-me.json) |
