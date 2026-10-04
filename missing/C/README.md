@@ -4117,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Luge | 236521 | [236521-christmas-luge.json](./236521-christmas-luge.json) |
 | Christmas Magic | 257442 | [257442-christmas-magic.json](./257442-christmas-magic.json) |
 | Christmas Mansion | 100190 | [100190-christmas-mansion.json](./100190-christmas-mansion.json) |
+| Christmas Mansion | 196116 | [196116-christmas-mansion.json](./196116-christmas-mansion.json) |
 | Christmas Massacre | 186281 | [186281-christmas-massacre.json](./186281-christmas-massacre.json) |
 | Christmas Massacre VR | 29952 | [29952-christmas-massacre-vr.json](./29952-christmas-massacre-vr.json) |
 | Christmas Matchup | 92963 | [92963-christmas-matchup.json](./92963-christmas-matchup.json) |
@@ -5799,6 +5800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | COG: Back to the 80s | 192928 | [192928-cog-back-to-the-80s.json](./192928-cog-back-to-the-80s.json) |
 | Cog: The Rogue Machine | 270857 | [270857-cog-the-rogue-machine.json](./270857-cog-the-rogue-machine.json) |
 | Cogen: Sword of Rewind - Additional Story & Playable Character: Copen (Gunvolt Chronicles: Luminous Avenger iX 2) | 274999 | [274999-cogen-sword-of-rewind-additional-story-and-playable-character-copen-gunvolt-chronicles-luminous-avenger-ix-2.json](./274999-cogen-sword-of-rewind-additional-story-and-playable-character-copen-gunvolt-chronicles-luminous-avenger-ix-2.json) |
+| Cogen: Sword of Rewind - Additional Story ＆ Yuji Otori | 196103 | [196103-cogen-sword-of-rewind-additional-story-and-yuji-otori.json](./196103-cogen-sword-of-rewind-additional-story-and-yuji-otori.json) |
 | Cogen: Sword of Rewind: Additional Story & Playable Character - Akasha | 274997 | [274997-cogen-sword-of-rewind-additional-story-and-playable-character-akasha.json](./274997-cogen-sword-of-rewind-additional-story-and-playable-character-akasha.json) |
 | Cogito Ergo Sum | 299852 | [299852-cogito-ergo-sum.json](./299852-cogito-ergo-sum.json) |
 | Cogito: Requiem | 402434 | [402434-cogito-requiem.json](./402434-cogito-requiem.json) |
@@ -5969,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Bball Coach | 78544 | [78544-college-bball-coach.json](./78544-college-bball-coach.json) |
 | College Bound | 187242 | [187242-college-bound.json](./187242-college-bound.json) |
 | College Bound: Arctic Adventure | 237482 | [237482-college-bound-arctic-adventure.json](./237482-college-bound-arctic-adventure.json) |
+| College Bound: Episode 3 | 196091 | [196091-college-bound-episode-3.json](./196091-college-bound-episode-3.json) |
 | College Bound: Episode 4 | 207504 | [207504-college-bound-episode-4.json](./207504-college-bound-episode-4.json) |
 | College Bowl | 249183 | [249183-college-bowl.json](./249183-college-bowl.json) |
 | College Brawl 2 | 233505 | [233505-college-brawl-2.json](./233505-college-brawl-2.json) |
@@ -6540,6 +6543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command: Modern Air / Naval Operations | 79974 | [79974-command-modern-air-naval-operations.json](./79974-command-modern-air-naval-operations.json) |
 | Command: Modern Air / Naval Operations WOTY | 36237 | [36237-command-modern-air-naval-operations-woty.json](./36237-command-modern-air-naval-operations-woty.json) |
 | Command: Modern Operations - Chains of War | 167870 | [167870-command-modern-operations-chains-of-war.json](./167870-command-modern-operations-chains-of-war.json) |
+| Command: Modern Operations - Red Tide | 196083 | [196083-command-modern-operations-red-tide.json](./196083-command-modern-operations-red-tide.json) |
 | Command: Modern Operations - Shifting Sands | 167866 | [167866-command-modern-operations-shifting-sands.json](./167866-command-modern-operations-shifting-sands.json) |
 | Command: Modern Operations - Shifting Sands | 75030 | [75030-command-modern-operations-shifting-sands.json](./75030-command-modern-operations-shifting-sands.json) |
 | Command: Modern Operations - Showcase Queen Elizabeth | 213026 | [213026-command-modern-operations-showcase-queen-elizabeth.json](./213026-command-modern-operations-showcase-queen-elizabeth.json) |
@@ -7727,6 +7731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Zephyr DX | 159845 | [159845-cosmic-zephyr-dx.json](./159845-cosmic-zephyr-dx.json) |
 | Cosmic: A Journey Among Shadows | 190470 | [190470-cosmic-a-journey-among-shadows.json](./190470-cosmic-a-journey-among-shadows.json) |
 | Cosmica | 149948 | [149948-cosmica.json](./149948-cosmica.json) |
+| CosmicBreak Universal: Sylvia | 196090 | [196090-cosmicbreak-universal-sylvia.json](./196090-cosmicbreak-universal-sylvia.json) |
 | Cosmik Battle | 260883 | [260883-cosmik-battle.json](./260883-cosmik-battle.json) |
 | Cosminers | 309524 | [309524-cosminers.json](./309524-cosminers.json) |
 | Cosminomy | 357364 | [357364-cosminomy.json](./357364-cosminomy.json) |
@@ -9962,6 +9967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult: Fear Inside | 72341 | [72341-cult-fear-inside.json](./72341-cult-fear-inside.json) |
 | Cult&Card | 291765 | [291765-cult-and-card.json](./291765-cult-and-card.json) |
 | Cultist Astronaut | 203968 | [203968-cultist-astronaut.json](./203968-cultist-astronaut.json) |
+| Cultist Simulator: The Lady Afterwards | 196087 | [196087-cultist-simulator-the-lady-afterwards.json](./196087-cultist-simulator-the-lady-afterwards.json) |
 | Cultivating Happiness | 229218 | [229218-cultivating-happiness.json](./229218-cultivating-happiness.json) |
 | Cultivating Immortals | 274641 | [274641-cultivating-immortals.json](./274641-cultivating-immortals.json) |
 | Cultivation | 378388 | [378388-cultivation.json](./378388-cultivation.json) |
@@ -10553,6 +10559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberrunner | 212337 | [212337-cyberrunner.json](./212337-cyberrunner.json) |
 | CyberRush | 276215 | [276215-cyberrush.json](./276215-cyberrush.json) |
 | Cyberscape | 235201 | [235201-cyberscape.json](./235201-cyberscape.json) |
+| CyberScope | 196079 | [196079-cyberscope.json](./196079-cyberscope.json) |
 | CyberSeas | 324716 | [324716-cyberseas.json](./324716-cyberseas.json) |
 | Cybersecurity Ethics Scavenger Hunt | 257397 | [257397-cybersecurity-ethics-scavenger-hunt.json](./257397-cybersecurity-ethics-scavenger-hunt.json) |
 | Cybersex Chronicles [18+] | 368068 | [368068-cybersex-chronicles-18.json](./368068-cybersex-chronicles-18.json) |
