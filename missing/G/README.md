@@ -2497,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Maze.exe | 293074 | [293074-glitch-maze-exe.json](./293074-glitch-maze-exe.json) |
 | Glitch Party | 235455 | [235455-glitch-party.json](./235455-glitch-party.json) |
 | Glitch Pets | 104828 | [104828-glitch-pets.json](./104828-glitch-pets.json) |
+| Glitch Puzzle | 202214 | [202214-glitch-puzzle.json](./202214-glitch-puzzle.json) |
 | Glitch Racer | 383936 | [383936-glitch-racer.json](./383936-glitch-racer.json) |
 | Glitch Strike | 134611 | [134611-glitch-strike.json](./134611-glitch-strike.json) |
 | Glitch Tower | 376453 | [376453-glitch-tower.json](./376453-glitch-tower.json) |
@@ -4179,6 +4180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Gunner | 280289 | [280289-grave-gunner.json](./280289-grave-gunner.json) |
 | Grave Man | 179694 | [179694-grave-man.json](./179694-grave-man.json) |
 | Grave Prosperity: Part 1 | 96869 | [96869-grave-prosperity-part-1.json](./96869-grave-prosperity-part-1.json) |
+| Grave Prosperity: The Vestigial Princess | 202204 | [202204-grave-prosperity-the-vestigial-princess.json](./202204-grave-prosperity-the-vestigial-princess.json) |
 | Grave Robber | 249890 | [249890-grave-robber.json](./249890-grave-robber.json) |
 | Grave Rogue | 351800 | [351800-grave-rogue.json](./351800-grave-rogue.json) |
 | Grave Shadows | 185450 | [185450-grave-shadows.json](./185450-grave-shadows.json) |
@@ -4342,6 +4344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Magician | 226671 | [226671-gravity-magician.json](./226671-gravity-magician.json) |
 | Gravity Mastery | 144191 | [144191-gravity-mastery.json](./144191-gravity-mastery.json) |
 | Gravity Mike | 239624 | [239624-gravity-mike.json](./239624-gravity-mike.json) |
+| Gravity Pull | 202172 | [202172-gravity-pull.json](./202172-gravity-pull.json) |
 | Gravity Racers | 379054 | [379054-gravity-racers.json](./379054-gravity-racers.json) |
 | Gravity Range | 175333 | [175333-gravity-range.json](./175333-gravity-range.json) |
 | Gravity run | 153432 | [153432-gravity-run.json](./153432-gravity-run.json) |
