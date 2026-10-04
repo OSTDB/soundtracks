@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling with Ice Phoenix!: Cozy Version | 387625 | [387625-falling-with-ice-phoenix-cozy-version.json](./387625-falling-with-ice-phoenix-cozy-version.json) |
 | Fallingstar | 177865 | [177865-fallingstar.json](./177865-fallingstar.json) |
 | FallMan | 60560 | [60560-fallman.json](./60560-fallman.json) |
+| FallNation | 217213 | [217213-fallnation.json](./217213-fallnation.json) |
 | FallNation Lost Stories | 294941 | [294941-fallnation-lost-stories.json](./294941-fallnation-lost-stories.json) |
 | Fallout 3: Game of the Year Edition | 21892 | [21892-fallout-3-game-of-the-year-edition.json](./21892-fallout-3-game-of-the-year-edition.json) |
 | Fallout 3: Mothership Zeta | 10300 | [10300-fallout-3-mothership-zeta.json](./10300-fallout-3-mothership-zeta.json) |
@@ -1236,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farewell, Bunny Boy | 341673 | [341673-farewell-bunny-boy.json](./341673-farewell-bunny-boy.json) |
 | Farewell, My Dearest Love | 314063 | [314063-farewell-my-dearest-love.json](./314063-farewell-my-dearest-love.json) |
 | Farewell, We See Each Other for the Last Time..... | 348983 | [348983-farewell-we-see-each-other-for-the-last-time.json](./348983-farewell-we-see-each-other-for-the-last-time.json) |
+| Farewells | 217288 | [217288-farewells.json](./217288-farewells.json) |
 | Farfalla | 91442 | [91442-farfalla.json](./91442-farfalla.json) |
 | Farhoud Farmand's The Mountaineer | 249285 | [249285-farhoud-farmands-the-mountaineer.json](./249285-farhoud-farmands-the-mountaineer.json) |
 | Faria: A World of Mystery and Danger! | 48060 | [48060-faria-a-world-of-mystery-and-danger.json](./48060-faria-a-world-of-mystery-and-danger.json) |
@@ -1895,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feelin | 102931 | [102931-feelin.json](./102931-feelin.json) |
 | Feeling Arrow | 208975 | [208975-feeling-arrow.json](./208975-feeling-arrow.json) |
 | Feeling Death | 287723 | [287723-feeling-death.json](./287723-feeling-death.json) |
+| Feelings | 217215 | [217215-feelings.json](./217215-feelings.json) |
 | Feelings Adrift | 33959 | [33959-feelings-adrift.json](./33959-feelings-adrift.json) |
 | FeeSoeeD | 51556 | [51556-feesoeed.json](./51556-feesoeed.json) |
 | Feet Paradise | 301885 | [301885-feet-paradise.json](./301885-feet-paradise.json) |
@@ -4999,6 +5002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forevolution | 209709 | [209709-forevolution.json](./209709-forevolution.json) |
 | ForeVR Bowl | 148381 | [148381-forevr-bowl.json](./148381-forevr-bowl.json) |
 | ForeVR Cornhole | 214608 | [214608-forevr-cornhole.json](./214608-forevr-cornhole.json) |
+| Forfeit | 217359 | [217359-forfeit.json](./217359-forfeit.json) |
 | Forg Feast Frenzy | 291458 | [291458-forg-feast-frenzy.json](./291458-forg-feast-frenzy.json) |
 | Forge | 19937 | [19937-forge.json](./19937-forge.json) |
 | Forge & Fortune | 264701 | [264701-forge-and-fortune.json](./264701-forge-and-fortune.json) |
