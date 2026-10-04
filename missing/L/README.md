@@ -2159,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewdle | 197867 | [197867-lewdle.json](./197867-lewdle.json) |
 | LewdQuest | 149433 | [149433-lewdquest.json](./149433-lewdquest.json) |
 | Lewis & Clark Expedition | 211781 | [211781-lewis-and-clark-expedition.json](./211781-lewis-and-clark-expedition.json) |
+| Lewis Carroll's Alice | 208824 | [208824-lewis-carrolls-alice.json](./208824-lewis-carrolls-alice.json) |
 | Lewis Quest | 337085 | [337085-lewis-quest.json](./337085-lewis-quest.json) |
 | Lex Mortis | 26510 | [26510-lex-mortis.json](./26510-lex-mortis.json) |
 | Lexagrana | 174196 | [174196-lexagrana.json](./174196-lexagrana.json) |
