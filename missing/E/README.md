@@ -3460,6 +3460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlife | 175808 | [175808-everlife.json](./175808-everlife.json) |
 | Everlife | 297506 | [297506-everlife.json](./297506-everlife.json) |
 | Everlife: Chapter 2 | 195736 | [195736-everlife-chapter-2.json](./195736-everlife-chapter-2.json) |
+| Everlight | 184987 | [184987-everlight.json](./184987-everlight.json) |
 | Everlong Swansong | 257086 | [257086-everlong-swansong.json](./257086-everlong-swansong.json) |
 | Everlost | 397695 | [397695-everlost.json](./397695-everlost.json) |
 | EverMatch | 237672 | [237672-evermatch.json](./237672-evermatch.json) |
