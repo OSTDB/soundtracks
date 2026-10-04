@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Nicklaus' Greatest 18 Holes of Major Championship Golf | 18101 | [18101-jack-nicklaus-greatest-18-holes-of-major-championship-golf.json](./18101-jack-nicklaus-greatest-18-holes-of-major-championship-golf.json) |
 | Jack Nicklaus' Unlimited Golf & Course Design | 72175 | [72175-jack-nicklaus-unlimited-golf-and-course-design.json](./72175-jack-nicklaus-unlimited-golf-and-course-design.json) |
 | Jack of Clubs | 319394 | [319394-jack-of-clubs.json](./319394-jack-of-clubs.json) |
+| Jack of Spades | 182861 | [182861-jack-of-spades.json](./182861-jack-of-spades.json) |
 | Jack Pilgrim: Space Within | 195150 | [195150-jack-pilgrim-space-within.json](./195150-jack-pilgrim-space-within.json) |
 | Jack Saves Easter | 193479 | [193479-jack-saves-easter.json](./193479-jack-saves-easter.json) |
 | Jack Sprite vs. The Crimson Ghost | 45923 | [45923-jack-sprite-vs-the-crimson-ghost.json](./45923-jack-sprite-vs-the-crimson-ghost.json) |
@@ -1751,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Up Champion! | 295337 | [295337-jump-up-champion.json](./295337-jump-up-champion.json) |
 | Jump Up! Tiny Spaceman | 200121 | [200121-jump-up-tiny-spaceman.json](./200121-jump-up-tiny-spaceman.json) |
 | Jump Us | 187269 | [187269-jump-us.json](./187269-jump-us.json) |
+| Jump Warrior | 182799 | [182799-jump-warrior.json](./182799-jump-warrior.json) |
 | Jump with Friends | 118131 | [118131-jump-with-friends.json](./118131-jump-with-friends.json) |
 | Jump Without Reason | 124252 | [124252-jump-without-reason.json](./124252-jump-without-reason.json) |
 | Jump Yuusha | 222423 | [222423-jump-yuusha.json](./222423-jump-yuusha.json) |
