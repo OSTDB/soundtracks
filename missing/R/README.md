@@ -4099,6 +4099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Champions | 60495 | [60495-rise-of-champions.json](./60495-rise-of-champions.json) |
 | Rise of Chi | 384506 | [384506-rise-of-chi.json](./384506-rise-of-chi.json) |
 | Rise of Crustaceans | 102337 | [102337-rise-of-crustaceans.json](./102337-rise-of-crustaceans.json) |
+| Rise of Cultures | 222983 | [222983-rise-of-cultures.json](./222983-rise-of-cultures.json) |
 | Rise of Cyber | 237628 | [237628-rise-of-cyber.json](./237628-rise-of-cyber.json) |
 | Rise of Demons | 197326 | [197326-rise-of-demons.json](./197326-rise-of-demons.json) |
 | Rise of Dragonian Era | 19638 | [19638-rise-of-dragonian-era.json](./19638-rise-of-dragonian-era.json) |
@@ -6299,6 +6300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Away With Me, Empress! | 225270 | [225270-run-away-with-me-empress.json](./225270-run-away-with-me-empress.json) |
 | Run Ball: Jump on Helix Road | 100321 | [100321-run-ball-jump-on-helix-road.json](./100321-run-ball-jump-on-helix-road.json) |
 | Run Bird Run | 344926 | [344926-run-bird-run.json](./344926-run-bird-run.json) |
+| Run Blob Run 2 | 222956 | [222956-run-blob-run-2.json](./222956-run-blob-run-2.json) |
 | Run Box Run | 222399 | [222399-run-box-run.json](./222399-run-box-run.json) |
 | Run Buddy | 274211 | [274211-run-buddy.json](./274211-run-buddy.json) |
 | Run Build Pew! | 201572 | [201572-run-build-pew.json](./201572-run-build-pew.json) |
