@@ -1215,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
 | Acid Girls' Escape | 205568 | [205568-acid-girls-escape.json](./205568-acid-girls-escape.json) |
 | Acid Moon | 135092 | [135092-acid-moon.json](./135092-acid-moon.json) |
+| Ac󠀠id Ra󠀠in | 187886 | [187886-ac-id-ra-in.json](./187886-ac-id-ra-in.json) |
 | Acid Reflux | 274437 | [274437-acid-reflux.json](./274437-acid-reflux.json) |
 | Acid Spy | 102877 | [102877-acid-spy.json](./102877-acid-spy.json) |
 | Acid Web | 327450 | [327450-acid-web.json](./327450-acid-web.json) |
@@ -8008,6 +8009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroman | 91944 | [91944-astroman.json](./91944-astroman.json) |
 | Astromattech | 334320 | [334320-astromattech.json](./334320-astromattech.json) |
 | Astromeda | 221667 | [221667-astromeda.json](./221667-astromeda.json) |
+| AstroMenace | 187894 | [187894-astromenace.json](./187894-astromenace.json) |
 | Astrominer | 258105 | [258105-astrominer.json](./258105-astrominer.json) |
 | AstroMiner | 119546 | [119546-astrominer.json](./119546-astrominer.json) |
 | AstroN | 91912 | [91912-astron.json](./91912-astron.json) |
