@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quartal | 370145 | [370145-quartal.json](./370145-quartal.json) |
 | Quarter Back Scramble: American Football Game | 48823 | [48823-quarter-back-scramble-american-football-game.json](./48823-quarter-back-scramble-american-football-game.json) |
 | Quarter Five | 355561 | [355561-quarter-five.json](./355561-quarter-five.json) |
+| Quarter Fraction | 181190 | [181190-quarter-fraction.json](./181190-quarter-fraction.json) |
 | Quarter Monkey | 233759 | [233759-quarter-monkey.json](./233759-quarter-monkey.json) |
 | Quarter Past Curse | 185548 | [185548-quarter-past-curse.json](./185548-quarter-past-curse.json) |
 | Quarterback | 46853 | [46853-quarterback.json](./46853-quarterback.json) |
@@ -450,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest For Milkshake | 310950 | [310950-quest-for-milkshake.json](./310950-quest-for-milkshake.json) |
 | Quest for Moomoo | 233983 | [233983-quest-for-moomoo.json](./233983-quest-for-moomoo.json) |
 | Quest for Quintana Roo | 12317 | [12317-quest-for-quintana-roo.json](./12317-quest-for-quintana-roo.json) |
+| Quest for the Book of Truth | 181207 | [181207-quest-for-the-book-of-truth.json](./181207-quest-for-the-book-of-truth.json) |
 | Quest for the Code | 185633 | [185633-quest-for-the-code.json](./185633-quest-for-the-code.json) |
 | Quest for the Crystal Skulls | 268756 | [268756-quest-for-the-crystal-skulls.json](./268756-quest-for-the-crystal-skulls.json) |
 | Quest for the Golden Chalice | 306664 | [306664-quest-for-the-golden-chalice.json](./306664-quest-for-the-golden-chalice.json) |
