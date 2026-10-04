@@ -7833,6 +7833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon: The Bruce Lee Story | 218422 | [218422-dragon-the-bruce-lee-story.json](./218422-dragon-the-bruce-lee-story.json) |
 | Dragon: The Game | 36282 | [36282-dragon-the-game.json](./36282-dragon-the-game.json) |
 | Dragon's Bane | 148541 | [148541-dragons-bane.json](./148541-dragons-bane.json) |
+| Dragon's Blade: Heroes of Larkwood | 181656 | [181656-dragons-blade-heroes-of-larkwood.json](./181656-dragons-blade-heroes-of-larkwood.json) |
 | Dragon's Blade: HoL | 197723 | [197723-dragons-blade-hol.json](./197723-dragons-blade-hol.json) |
 | Dragon's Crown | 3002 | [3002-dragons-crown.json](./3002-dragons-crown.json) |
 | Dragon's Crown Pro | 68283 | [68283-dragons-crown-pro.json](./68283-dragons-crown-pro.json) |
