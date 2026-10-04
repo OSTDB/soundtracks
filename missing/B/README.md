@@ -3354,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Surface | 111630 | [111630-beneath-the-surface.json](./111630-beneath-the-surface.json) |
 | Beneath The Surface | 380012 | [380012-beneath-the-surface.json](./380012-beneath-the-surface.json) |
 | Beneath the Waves | 319393 | [319393-beneath-the-waves.json](./319393-beneath-the-waves.json) |
+| Beneath the Willows | 183923 | [183923-beneath-the-willows.json](./183923-beneath-the-willows.json) |
 | Beneath the Woods | 236290 | [236290-beneath-the-woods.json](./236290-beneath-the-woods.json) |
 | Beneath their Names | 406689 | [406689-beneath-their-names.json](./406689-beneath-their-names.json) |
 | Benefactor | 6024 | [6024-benefactor.json](./6024-benefactor.json) |
@@ -3725,6 +3726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bhop PRO | 144294 | [144294-bhop-pro.json](./144294-bhop-pro.json) |
 | Bi-Color | 176381 | [176381-bi-color.json](./176381-bi-color.json) |
 | Bi! Bi! | 40742 | [40742-bi-bi.json](./40742-bi-bi.json) |
+| Bia | 183921 | [183921-bia.json](./183921-bia.json) |
 | Bianka Lovesick | 363025 | [363025-bianka-lovesick.json](./363025-bianka-lovesick.json) |
 | Bias Quartet | 376672 | [376672-bias-quartet.json](./376672-bias-quartet.json) |
 | Biathlon 2008 | 70651 | [70651-biathlon-2008.json](./70651-biathlon-2008.json) |
@@ -8565,6 +8567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Guppies | 230344 | [230344-bubble-guppies.json](./230344-bubble-guppies.json) |
 | Bubble Hero | 246436 | [246436-bubble-hero.json](./246436-bubble-hero.json) |
 | Bubble Investor | 361727 | [361727-bubble-investor.json](./361727-bubble-investor.json) |
+| Bubble Jcat | 183950 | [183950-bubble-jcat.json](./183950-bubble-jcat.json) |
 | Bubble Jungle | 31209 | [31209-bubble-jungle.json](./31209-bubble-jungle.json) |
 | Bubble Labs VR | 31324 | [31324-bubble-labs-vr.json](./31324-bubble-labs-vr.json) |
 | Bubble Mags | 90388 | [90388-bubble-mags.json](./90388-bubble-mags.json) |
