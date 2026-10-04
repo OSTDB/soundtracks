@@ -9621,6 +9621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Golf | 57050 | [57050-mr-golf.json](./57050-mr-golf.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
 | Mr. Hoob! | 372695 | [372695-mr-hoob.json](./372695-mr-hoob.json) |
+| Mr. Hopp's Manor Escape | 196119 | [196119-mr-hopps-manor-escape.json](./196119-mr-hopps-manor-escape.json) |
 | Mr. Hopp's Playhouse 2 | 152818 | [152818-mr-hopps-playhouse-2.json](./152818-mr-hopps-playhouse-2.json) |
 | Mr. Joshua Carrot | 128354 | [128354-mr-joshua-carrot.json](./128354-mr-joshua-carrot.json) |
 | Mr. Jumpington 4 | 68743 | [68743-mr-jumpington-4.json](./68743-mr-jumpington-4.json) |
