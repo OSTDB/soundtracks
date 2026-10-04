@@ -10310,6 +10310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Redemption | 130254 | [130254-space-redemption.json](./130254-space-redemption.json) |
 | Space Reign | 173047 | [173047-space-reign.json](./173047-space-reign.json) |
 | Space Renegades: The Series | 73859 | [73859-space-renegades-the-series.json](./73859-space-renegades-the-series.json) |
+| Space Rescue | 204328 | [204328-space-rescue.json](./204328-space-rescue.json) |
 | Space Rescue: Code Pink | 169417 | [169417-space-rescue-code-pink.json](./169417-space-rescue-code-pink.json) |
 | Space Restaurant | 337722 | [337722-space-restaurant.json](./337722-space-restaurant.json) |
 | Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
