@@ -10780,6 +10780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throb of Lovegirl: A Ero Waifu TD | 175983 | [175983-throb-of-lovegirl-a-ero-waifu-td.json](./175983-throb-of-lovegirl-a-ero-waifu-td.json) |
 | Throbax TD | 35952 | [35952-throbax-td.json](./35952-throbax-td.json) |
 | Throne & Conquest: King Arthur | 414549 | [414549-throne-and-conquest-king-arthur.json](./414549-throne-and-conquest-king-arthur.json) |
+| Throne and Crown | 193277 | [193277-throne-and-crown.json](./193277-throne-and-crown.json) |
 | Throne and Liberty | 117294 | [117294-throne-and-liberty.json](./117294-throne-and-liberty.json) |
 | Throne of Belial | 299851 | [299851-throne-of-belial.json](./299851-throne-of-belial.json) |
 | Throne of Bone | 207355 | [207355-throne-of-bone.json](./207355-throne-of-bone.json) |
@@ -11993,6 +11994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Attack! RPG | 152382 | [152382-time-attack-rpg.json](./152382-time-attack-rpg.json) |
 | Time Avarice | 295267 | [295267-time-avarice.json](./295267-time-avarice.json) |
 | Time Barbarian Extreme!! | 108639 | [108639-time-barbarian-extreme.json](./108639-time-barbarian-extreme.json) |
+| Time Blazer | 193303 | [193303-time-blazer.json](./193303-time-blazer.json) |
 | Time Break 2121 | 121464 | [121464-time-break-2121.json](./121464-time-break-2121.json) |
 | Time Breaking: Dino Breach | 386427 | [386427-time-breaking-dino-breach.json](./386427-time-breaking-dino-breach.json) |
 | Time Climber | 276726 | [276726-time-climber.json](./276726-time-climber.json) |
