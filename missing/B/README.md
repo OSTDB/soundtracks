@@ -1652,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basement Dweller | 158158 | [158158-basement-dweller.json](./158158-basement-dweller.json) |
 | Basement VR | 156579 | [156579-basement-vr.json](./156579-basement-vr.json) |
 | Basemental Gangs | 259230 | [259230-basemental-gangs.json](./259230-basemental-gangs.json) |
+| Basements & Bugbears | 177888 | [177888-basements-and-bugbears.json](./177888-basements-and-bugbears.json) |
 | Bases and Bandits | 215145 | [215145-bases-and-bandits.json](./215145-bases-and-bandits.json) |
 | Bases Loaded | 242041 | [242041-bases-loaded.json](./242041-bases-loaded.json) |
 | Bases Loaded | 7764 | [7764-bases-loaded.json](./7764-bases-loaded.json) |
@@ -4426,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birth of Spring | 82172 | [82172-birth-of-spring.json](./82172-birth-of-spring.json) |
 | Birth of X | 358448 | [358448-birth-of-x.json](./358448-birth-of-x.json) |
 | Birth Order | 61071 | [61071-birth-order.json](./61071-birth-order.json) |
+| Birthday Blues | 177881 | [177881-birthday-blues.json](./177881-birthday-blues.json) |
 | Birthday Boy | 399612 | [399612-birthday-boy.json](./399612-birthday-boy.json) |
 | Birthdays the Beginning: Digital Limited Edition | 52628 | [52628-birthdays-the-beginning-digital-limited-edition.json](./52628-birthdays-the-beginning-digital-limited-edition.json) |
 | Birthplace of Ossian | 26862 | [26862-birthplace-of-ossian.json](./26862-birthplace-of-ossian.json) |
@@ -4580,6 +4582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitten! | 146235 | [146235-bitten.json](./146235-bitten.json) |
 | Bitter | 217336 | [217336-bitter.json](./217336-bitter.json) |
 | Bitter Dream | 319660 | [319660-bitter-dream.json](./319660-bitter-dream.json) |
+| Bitter Sweet Memories | 177906 | [177906-bitter-sweet-memories.json](./177906-bitter-sweet-memories.json) |
 | Bitter Tides | 106404 | [106404-bitter-tides.json](./106404-bitter-tides.json) |
 | Bitter-Sweet Cohabitation | 241372 | [241372-bitter-sweet-cohabitation.json](./241372-bitter-sweet-cohabitation.json) |
 | Bitterroot | 181857 | [181857-bitterroot.json](./181857-bitterroot.json) |
@@ -7720,6 +7723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave New Wonders | 339966 | [339966-brave-new-wonders.json](./339966-brave-new-wonders.json) |
 | Brave Nine | 112120 | [112120-brave-nine.json](./112120-brave-nine.json) |
 | Brave Odyssea | 26976 | [26976-brave-odyssea.json](./26976-brave-odyssea.json) |
+| Brave Paradise | 177898 | [177898-brave-paradise.json](./177898-brave-paradise.json) |
 | Brave Path | 48002 | [48002-brave-path.json](./48002-brave-path.json) |
 | Brave Princess Milia | 192240 | [192240-brave-princess-milia.json](./192240-brave-princess-milia.json) |
 | Brave Prove | 91891 | [91891-brave-prove.json](./91891-brave-prove.json) |
