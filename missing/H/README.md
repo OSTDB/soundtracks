@@ -5437,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Rod: Garage to Glory | 73365 | [73365-hot-rod-garage-to-glory.json](./73365-hot-rod-garage-to-glory.json) |
 | Hot Runback: VR Runner | 68656 | [68656-hot-runback-vr-runner.json](./68656-hot-runback-vr-runner.json) |
 | Hot Sauna | 368110 | [368110-hot-sauna.json](./368110-hot-sauna.json) |
+| Hot Sento Girls and love | 208869 | [208869-hot-sento-girls-and-love.json](./208869-hot-sento-girls-and-love.json) |
 | Hot Shot | 317877 | [317877-hot-shot.json](./317877-hot-shot.json) |
 | Hot Shot Burn | 121036 | [121036-hot-shot-burn.json](./121036-hot-shot-burn.json) |
 | Hot Shot Challenge - Online | 103627 | [103627-hot-shot-challenge-online.json](./103627-hot-shot-challenge-online.json) |
