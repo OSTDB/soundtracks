@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are Not Alone | 182839 | [182839-you-are-not-alone.json](./182839-you-are-not-alone.json) |
 | You Are Not Bunnygirl | 192815 | [192815-you-are-not-bunnygirl.json](./192815-you-are-not-bunnygirl.json) |
 | You Are Not the Hero | 16909 | [16909-you-are-not-the-hero.json](./16909-you-are-not-the-hero.json) |
+| You are now Possessed | 219099 | [219099-you-are-now-possessed.json](./219099-you-are-now-possessed.json) |
 | You Are Peter Shorts | 248919 | [248919-you-are-peter-shorts.json](./248919-you-are-peter-shorts.json) |
 | You Are Sick | 239671 | [239671-you-are-sick.json](./239671-you-are-sick.json) |
 | You are the Apple of My Eye | 99028 | [99028-you-are-the-apple-of-my-eye.json](./99028-you-are-the-apple-of-my-eye.json) |
