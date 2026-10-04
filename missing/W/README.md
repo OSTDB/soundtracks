@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkerman | 34830 | [34830-walkerman.json](./34830-walkerman.json) |
 | Walkerman: Act 2 - Herdchaser-girl | 171389 | [171389-walkerman-act-2-herdchaser-girl.json](./171389-walkerman-act-2-herdchaser-girl.json) |
 | Walkies | 238474 | [238474-walkies.json](./238474-walkies.json) |
+| Walking | 186108 | [186108-walking.json](./186108-walking.json) |
 | Walking Heavy | 61597 | [61597-walking-heavy.json](./61597-walking-heavy.json) |
 | Walking in the Abyss: Definitive Edition | 221175 | [221175-walking-in-the-abyss-definitive-edition.json](./221175-walking-in-the-abyss-definitive-edition.json) |
 | Walking on Ice | 343242 | [343242-walking-on-ice.json](./343242-walking-on-ice.json) |
