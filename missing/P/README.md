@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac's Revenge | 337997 | [337997-pacs-revenge.json](./337997-pacs-revenge.json) |
 | Paca Paca Passion Special | 329386 | [329386-paca-paca-passion-special.json](./329386-paca-paca-passion-special.json) |
 | PacaPomo | 310189 | [310189-pacapomo.json](./310189-pacapomo.json) |
+| Pacapong | 176335 | [176335-pacapong.json](./176335-pacapong.json) |
 | Pacebreaker: An Experiment in AI-Perfected Exercise | 208343 | [208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json](./208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json) |
 | Pacewar | 322776 | [322776-pacewar.json](./322776-pacewar.json) |
 | PachaMama | 186272 | [186272-pachamama.json](./186272-pachamama.json) |
@@ -4012,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate's Dual | 390236 | [390236-pirates-dual.json](./390236-pirates-dual.json) |
 | Pirate's Gold | 187867 | [187867-pirates-gold.json](./187867-pirates-gold.json) |
 | Pirate's Gold | 193272 | [193272-pirates-gold.json](./193272-pirates-gold.json) |
+| Pirate's Pension | 176304 | [176304-pirates-pension.json](./176304-pirates-pension.json) |
 | Pirate's Solitaire | 195715 | [195715-pirates-solitaire.json](./195715-pirates-solitaire.json) |
 | Pirated Code | 179612 | [179612-pirated-code.json](./179612-pirated-code.json) |
 | Pirated Code: Admin Edition | 212187 | [212187-pirated-code-admin-edition.json](./212187-pirated-code-admin-edition.json) |
@@ -4061,6 +4063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates! Gold | 9232 | [9232-pirates-gold.json](./9232-pirates-gold.json) |
 | Pirates! Gold Plus | 36216 | [36216-pirates-gold-plus.json](./36216-pirates-gold-plus.json) |
 | Pirates! Showdown: Enhanced Edition | 289318 | [289318-pirates-showdown-enhanced-edition.json](./289318-pirates-showdown-enhanced-edition.json) |
+| PiratesBattle | 176302 | [176302-piratesbattle.json](./176302-piratesbattle.json) |
 | PirateWar | 312156 | [312156-piratewar.json](./312156-piratewar.json) |
 | Piratiska Riba VR | 182876 | [182876-piratiska-riba-vr.json](./182876-piratiska-riba-vr.json) |
 | Piratopia: Raiders of Pirate Bay | 239585 | [239585-piratopia-raiders-of-pirate-bay.json](./239585-piratopia-raiders-of-pirate-bay.json) |
