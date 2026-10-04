@@ -7052,6 +7052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulders and Bombs | 23965 | [23965-boulders-and-bombs.json](./23965-boulders-and-bombs.json) |
 | Boule & Bill: Holiday time! | 67961 | [67961-boule-and-bill-holiday-time.json](./67961-boule-and-bill-holiday-time.json) |
 | BouleMan | 349508 | [349508-bouleman.json](./349508-bouleman.json) |
+| Boulette Hell | 223377 | [223377-boulette-hell.json](./223377-boulette-hell.json) |
 | Bounce | 172047 | [172047-bounce.json](./172047-bounce.json) |
 | Bounce | 27679 | [27679-bounce.json](./27679-bounce.json) |
 | Bounce Arcade | 306945 | [306945-bounce-arcade.json](./306945-bounce-arcade.json) |
