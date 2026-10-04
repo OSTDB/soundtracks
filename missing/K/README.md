@@ -903,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemono Mahjong | 96534 | [96534-kemono-mahjong.json](./96534-kemono-mahjong.json) |
 | Kemono Patrol | 334850 | [334850-kemono-patrol.json](./334850-kemono-patrol.json) |
 | Kemonomichi-White Moment- | 100111 | [100111-kemonomichi-white-moment.json](./100111-kemonomichi-white-moment.json) |
+| Kemonopoly | 181107 | [181107-kemonopoly.json](./181107-kemonopoly.json) |
 | Kemopop! | 309863 | [309863-kemopop.json](./309863-kemopop.json) |
 | Kemotaku | 325527 | [325527-kemotaku.json](./325527-kemotaku.json) |
 | Kemuri | 279625 | [279625-kemuri.json](./279625-kemuri.json) |
@@ -1450,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimbap Factory | 413107 | [413107-kimbap-factory.json](./413107-kimbap-factory.json) |
 | Kimbap Heaven Simulator | 390261 | [390261-kimbap-heaven-simulator.json](./390261-kimbap-heaven-simulator.json) |
 | Kimero!! Hero Gakuen: Eiyuu ni Shinjutsu Nashi | 59439 | [59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json](./59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json) |
+| Kimi ga Ita Kisetsu | 181187 | [181187-kimi-ga-ita-kisetsu.json](./181187-kimi-ga-ita-kisetsu.json) |
 | Kimi ga Mita Hikari 2 | 329968 | [329968-kimi-ga-mita-hikari-2.json](./329968-kimi-ga-mita-hikari-2.json) |
 | Kimi ga Nozomu Eien | 84324 | [84324-kimi-ga-nozomu-eien.json](./84324-kimi-ga-nozomu-eien.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
