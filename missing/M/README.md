@@ -3282,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayu: Last of the Yaksha | 197128 | [197128-mayu-last-of-the-yaksha.json](./197128-mayu-last-of-the-yaksha.json) |
 | Maza | 276241 | [276241-maza.json](./276241-maza.json) |
 | Mazaica | 304598 | [304598-mazaica.json](./304598-mazaica.json) |
+| Maze | 218529 | [218529-maze.json](./218529-maze.json) |
 | Maze | 220340 | [220340-maze.json](./220340-maze.json) |
 | Maze | 351700 | [351700-maze.json](./351700-maze.json) |
 | Maze | 360565 | [360565-maze.json](./360565-maze.json) |
@@ -5416,9 +5417,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey Mouse Murder House | 199064 | [199064-mickey-mouse-murder-house.json](./199064-mickey-mouse-murder-house.json) |
 | Mickey Mouse: Date Dash | 264244 | [264244-mickey-mouse-date-dash.json](./264244-mickey-mouse-date-dash.json) |
 | Mickey Mouse: Fantasy World | 349449 | [349449-mickey-mouse-fantasy-world.json](./349449-mickey-mouse-fantasy-world.json) |
+| Mickey Mouse: Jungle Daiboken | 218353 | [218353-mickey-mouse-jungle-daiboken.json](./218353-mickey-mouse-jungle-daiboken.json) |
 | Mickey Mouse: Magic Wands! | 48990 | [48990-mickey-mouse-magic-wands.json](./48990-mickey-mouse-magic-wands.json) |
 | Mickey Mouse: Mahou no Yakata | 349456 | [349456-mickey-mouse-mahou-no-yakata.json](./349456-mickey-mouse-mahou-no-yakata.json) |
 | Mickey Mouse: Mickey's Magical Adventure | 219096 | [219096-mickey-mouse-mickeys-magical-adventure.json](./219096-mickey-mouse-mickeys-magical-adventure.json) |
+| Mickey Mouse: Orange Express | 218352 | [218352-mickey-mouse-orange-express.json](./218352-mickey-mouse-orange-express.json) |
 | Mickey no Tokyo Disneyland Daibouken | 42543 | [42543-mickey-no-tokyo-disneyland-daibouken.json](./42543-mickey-no-tokyo-disneyland-daibouken.json) |
 | Mickey to Ooki na Furudokei | 299463 | [299463-mickey-to-ooki-na-furudokei.json](./299463-mickey-to-ooki-na-furudokei.json) |
 | Mickey: Boxing Champ | 349448 | [349448-mickey-boxing-champ.json](./349448-mickey-boxing-champ.json) |
@@ -6772,6 +6775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna no Radio Controlled GP + Variety Set | 165434 | [165434-minna-no-radio-controlled-gp-variety-set.json](./165434-minna-no-radio-controlled-gp-variety-set.json) |
 | Minna no Shogi: Shokyuu-hen | 282231 | [282231-minna-no-shogi-shokyuu-hen.json](./282231-minna-no-shogi-shokyuu-hen.json) |
 | Minna no Tabou no Nakayoshi Daisakusen | 48628 | [48628-minna-no-tabou-no-nakayoshi-daisakusen.json](./48628-minna-no-tabou-no-nakayoshi-daisakusen.json) |
+| Minna no Tetris | 218532 | [218532-minna-no-tetris.json](./218532-minna-no-tetris.json) |
 | Minna no! Shougakusei aru aru Sagashi: Kokomo mo Otona mo Tanoshimeru Irasuto Quiz no Tore Game | 222232 | [222232-minna-no-shougakusei-aru-aru-sagashi-kokomo-mo-otona-mo-tanoshimeru-irasuto-quiz-no-tore-game.json](./222232-minna-no-shougakusei-aru-aru-sagashi-kokomo-mo-otona-mo-tanoshimeru-irasuto-quiz-no-tore-game.json) |
 | Minna to Capcom All-Stars | 80494 | [80494-minna-to-capcom-all-stars.json](./80494-minna-to-capcom-all-stars.json) |
 | Minnano Gensokyo Single | 369561 | [369561-minnano-gensokyo-single.json](./369561-minnano-gensokyo-single.json) |
@@ -8787,6 +8791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortadelo y Filemón: Terror, Espanto y Pavor | 277925 | [277925-mortadelo-y-filemon-terror-espanto-y-pavor.json](./277925-mortadelo-y-filemon-terror-espanto-y-pavor.json) |
 | Mortadelo y Filemón: Una aventura de cine - Edición especial | 115607 | [115607-mortadelo-y-filemon-una-aventura-de-cine-edicion-especial.json](./115607-mortadelo-y-filemon-una-aventura-de-cine-edicion-especial.json) |
 | Mortadelo y Filemón: Una Aventura de Cine - Edición Original | 323229 | [323229-mortadelo-y-filemon-una-aventura-de-cine-edicion-original.json](./323229-mortadelo-y-filemon-una-aventura-de-cine-edicion-original.json) |
+| Mortal Blitz: Combat Arena | 218536 | [218536-mortal-blitz-combat-arena.json](./218536-mortal-blitz-combat-arena.json) |
 | Mortal Cultivation Biography | 368504 | [368504-mortal-cultivation-biography.json](./368504-mortal-cultivation-biography.json) |
 | Mortal Dark | 215069 | [215069-mortal-dark.json](./215069-mortal-dark.json) |
 | Mortal Fight: Lethal Revenge | 291175 | [291175-mortal-fight-lethal-revenge.json](./291175-mortal-fight-lethal-revenge.json) |
@@ -9563,6 +9568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Prospector Horiate-kun | 270148 | [270148-mr-prospector-horiate-kun.json](./270148-mr-prospector-horiate-kun.json) |
 | Mr. Pumpkin 2: Kowloon Walled City | 126666 | [126666-mr-pumpkin-2-kowloon-walled-city.json](./126666-mr-pumpkin-2-kowloon-walled-city.json) |
 | Mr. Pumpkin Adventure HD | 99172 | [99172-mr-pumpkin-adventure-hd.json](./99172-mr-pumpkin-adventure-hd.json) |
+| Mr. Pumpkin and a Cat Reporter: Adventure Bundle | 218512 | [218512-mr-pumpkin-and-a-cat-reporter-adventure-bundle.json](./218512-mr-pumpkin-and-a-cat-reporter-adventure-bundle.json) |
 | Mr. Pumpkin Series Bundle | 173799 | [173799-mr-pumpkin-series-bundle.json](./173799-mr-pumpkin-series-bundle.json) |
 | Mr. Rental: The Video Game | 326592 | [326592-mr-rental-the-video-game.json](./326592-mr-rental-the-video-game.json) |
 | Mr. Rescue | 51222 | [51222-mr-rescue.json](./51222-mr-rescue.json) |
