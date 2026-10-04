@@ -1245,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfenberg | 291681 | [291681-elfenberg.json](./291681-elfenberg.json) |
 | Elfengard Hunter Slayer | 302443 | [302443-elfengard-hunter-slayer.json](./302443-elfengard-hunter-slayer.json) |
 | Elfenwelt | 73243 | [73243-elfenwelt.json](./73243-elfenwelt.json) |
+| Elfheim: Chapter 1 | 207745 | [207745-elfheim-chapter-1.json](./207745-elfheim-chapter-1.json) |
 | Elfie | 304867 | [304867-elfie.json](./304867-elfie.json) |
 | Elfin National Park | 341877 | [341877-elfin-national-park.json](./341877-elfin-national-park.json) |
 | Elfland | 246394 | [246394-elfland.json](./246394-elfland.json) |
@@ -1257,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfsquad7 | 93501 | [93501-elfsquad7.json](./93501-elfsquad7.json) |
 | Elhosea | 287710 | [287710-elhosea.json](./287710-elhosea.json) |
 | Elidon | 13633 | [13633-elidon.json](./13633-elidon.json) |
+| Elimination | 207732 | [207732-elimination.json](./207732-elimination.json) |
 | Elimination Games | 220840 | [220840-elimination-games.json](./220840-elimination-games.json) |
 | Eliminato | 102826 | [102826-eliminato.json](./102826-eliminato.json) |
 | Eliminator | 12063 | [12063-eliminator.json](./12063-eliminator.json) |
