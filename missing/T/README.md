@@ -3759,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Captive | 362814 | [362814-the-captive.json](./362814-the-captive.json) |
 | The Captives: Plot of the Demiurge | 90137 | [90137-the-captives-plot-of-the-demiurge.json](./90137-the-captives-plot-of-the-demiurge.json) |
 | The Capybara P | 219049 | [219049-the-capybara-p.json](./219049-the-capybara-p.json) |
+| The Card Battle: Eternal Destiny | 173121 | [173121-the-card-battle-eternal-destiny.json](./173121-the-card-battle-eternal-destiny.json) |
 | The Card Stars: Cribbage / Solitaire | 59883 | [59883-the-card-stars-cribbage-solitaire.json](./59883-the-card-stars-cribbage-solitaire.json) |
 | THE Card: Poker, Texas hold 'em, Blackjack and Page One | 109491 | [109491-the-card-poker-texas-hold-em-blackjack-and-page-one.json](./109491-the-card-poker-texas-hold-em-blackjack-and-page-one.json) |
 | The Cardinal of the Kremlin | 14382 | [14382-the-cardinal-of-the-kremlin.json](./14382-the-cardinal-of-the-kremlin.json) |
@@ -6015,6 +6016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island of Thugs | 369698 | [369698-the-island-of-thugs.json](./369698-the-island-of-thugs.json) |
 | The Island Rescue | 236005 | [236005-the-island-rescue.json](./236005-the-island-rescue.json) |
 | The Island: Escape Room | 289992 | [289992-the-island-escape-room.json](./289992-the-island-escape-room.json) |
+| The Island: Into the Mist | 173095 | [173095-the-island-into-the-mist.json](./173095-the-island-into-the-mist.json) |
 | The Island: King's Order | 164443 | [164443-the-island-kings-order.json](./164443-the-island-kings-order.json) |
 | The Islander: Landscape Designer | 118242 | [118242-the-islander-landscape-designer.json](./118242-the-islander-landscape-designer.json) |
 | The Islands of Freedom | 320307 | [320307-the-islands-of-freedom.json](./320307-the-islands-of-freedom.json) |
@@ -9172,6 +9174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Story Goes On Chapter 5 | 337693 | [337693-the-story-goes-on-chapter-5.json](./337693-the-story-goes-on-chapter-5.json) |
 | The Story Goes On Chapter 6 | 337694 | [337694-the-story-goes-on-chapter-6.json](./337694-the-story-goes-on-chapter-6.json) |
 | The Story of a World | 216154 | [216154-the-story-of-a-world.json](./216154-the-story-of-a-world.json) |
+| The Story of Bill Bear | 173030 | [173030-the-story-of-bill-bear.json](./173030-the-story-of-bill-bear.json) |
 | The Story of King Aress | 125464 | [125464-the-story-of-king-aress.json](./125464-the-story-of-king-aress.json) |
 | The Story of Mikagoyama | 390661 | [390661-the-story-of-mikagoyama.json](./390661-the-story-of-mikagoyama.json) |
 | The Story of Miss Mouse | 306026 | [306026-the-story-of-miss-mouse.json](./306026-the-story-of-miss-mouse.json) |
@@ -12418,6 +12421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeTrain | 328629 | [328629-timetrain.json](./328629-timetrain.json) |
 | TimeWarp | 240909 | [240909-timewarp.json](./240909-timewarp.json) |
 | TimeWatch | 130909 | [130909-timewatch.json](./130909-timewatch.json) |
+| Timewreck Tales | 173037 | [173037-timewreck-tales.json](./173037-timewreck-tales.json) |
 | TimeZero | 58813 | [58813-timezero.json](./58813-timezero.json) |
 | Timing Hero | 112232 | [112232-timing-hero.json](./112232-timing-hero.json) |
 | Timing X | 402370 | [402370-timing-x.json](./402370-timing-x.json) |
@@ -14197,6 +14201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Genso Wanderer Reloaded: Tenshi Hinanawi | 161750 | [161750-touhou-genso-wanderer-reloaded-tenshi-hinanawi.json](./161750-touhou-genso-wanderer-reloaded-tenshi-hinanawi.json) |
 | Touhou Genso Wanderer Reloaded: Utsuho Reiuji | 161741 | [161741-touhou-genso-wanderer-reloaded-utsuho-reiuji.json](./161741-touhou-genso-wanderer-reloaded-utsuho-reiuji.json) |
 | Touhou Genso Wanderer: Foresight | 289024 | [289024-touhou-genso-wanderer-foresight.json](./289024-touhou-genso-wanderer-foresight.json) |
+| Touhou Genso Wanderer: Lotus Labyrinth R | 173124 | [173124-touhou-genso-wanderer-lotus-labyrinth-r.json](./173124-touhou-genso-wanderer-lotus-labyrinth-r.json) |
 | Touhou Genso Wanderer: Momiji Inubashiri | 206962 | [206962-touhou-genso-wanderer-momiji-inubashiri.json](./206962-touhou-genso-wanderer-momiji-inubashiri.json) |
 | Touhou Genso Wanderer: Mononobe no Futo to Nanatsu no Shiren - Fushigi no Gensoukyou TOD Another Story | 206960 | [206960-touhou-genso-wanderer-mononobe-no-futo-to-nanatsu-no-shiren-fushigi-no-gensoukyou-tod-another-story.json](./206960-touhou-genso-wanderer-mononobe-no-futo-to-nanatsu-no-shiren-fushigi-no-gensoukyou-tod-another-story.json) |
 | Touhou Genso Wanderer: The Bullet Reporter | 206961 | [206961-touhou-genso-wanderer-the-bullet-reporter.json](./206961-touhou-genso-wanderer-the-bullet-reporter.json) |
