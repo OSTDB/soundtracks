@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are 100k Light Years Away | 252933 | [252933-you-are-100k-light-years-away.json](./252933-you-are-100k-light-years-away.json) |
 | You Are a Failed Murderer | 338337 | [338337-you-are-a-failed-murderer.json](./338337-you-are-a-failed-murderer.json) |
 | You Are A Pilot | 189148 | [189148-you-are-a-pilot.json](./189148-you-are-a-pilot.json) |
+| You are a skeleton | 178482 | [178482-you-are-a-skeleton.json](./178482-you-are-a-skeleton.json) |
 | You Are a Torpedo AI | 75777 | [75777-you-are-a-torpedo-ai.json](./75777-you-are-a-torpedo-ai.json) |
 | You Are a Whale Part 1 | 151642 | [151642-you-are-a-whale-part-1.json](./151642-you-are-a-whale-part-1.json) |
 | You are an Ancient Chinese Poet in Exile | 326768 | [326768-you-are-an-ancient-chinese-poet-in-exile.json](./326768-you-are-an-ancient-chinese-poet-in-exile.json) |
