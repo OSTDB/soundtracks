@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hell of a Journey | 200541 | [200541-a-hell-of-a-journey.json](./200541-a-hell-of-a-journey.json) |
 | A Hero and a Garden | 137072 | [137072-a-hero-and-a-garden.json](./137072-a-hero-and-a-garden.json) |
 | A Hero Once More | 252918 | [252918-a-hero-once-more.json](./252918-a-hero-once-more.json) |
+| A Hero's Guide to Gardening | 183410 | [183410-a-heros-guide-to-gardening.json](./183410-a-heros-guide-to-gardening.json) |
 | A Hero's Quest pt1 | 213430 | [213430-a-heros-quest-pt1.json](./213430-a-heros-quest-pt1.json) |
 | A Heroine Story | 249856 | [249856-a-heroine-story.json](./249856-a-heroine-story.json) |
 | A Hexagon's Adventures | 184446 | [184446-a-hexagons-adventures.json](./184446-a-hexagons-adventures.json) |
@@ -3310,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Invaded Our Planet | 103642 | [103642-aliens-invaded-our-planet.json](./103642-aliens-invaded-our-planet.json) |
 | Aliens Invasion | 282800 | [282800-aliens-invasion.json](./282800-aliens-invasion.json) |
 | Aliens Like Milk | 200186 | [200186-aliens-like-milk.json](./200186-aliens-like-milk.json) |
+| Aliens Need Redhead | 183322 | [183322-aliens-need-redhead.json](./183322-aliens-need-redhead.json) |
 | Aliens RPG | 84303 | [84303-aliens-rpg.json](./84303-aliens-rpg.json) |
 | Aliens Tower Defense | 248037 | [248037-aliens-tower-defense.json](./248037-aliens-tower-defense.json) |
 | Aliens versus Humans: Missions | 235153 | [235153-aliens-versus-humans-missions.json](./235153-aliens-versus-humans-missions.json) |
@@ -5152,6 +5154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annabel | 92055 | [92055-annabel.json](./92055-annabel.json) |
 | Annabel Gray | 15596 | [15596-annabel-gray.json](./15596-annabel-gray.json) |
 | Annapurna Interactive Deluxe Limited Edition | 138780 | [138780-annapurna-interactive-deluxe-limited-edition.json](./138780-annapurna-interactive-deluxe-limited-edition.json) |
+| Anne in the Sky | 183329 | [183329-anne-in-the-sky.json](./183329-anne-in-the-sky.json) |
 | Anne's Zombie Odyssey | 328574 | [328574-annes-zombie-odyssey.json](./328574-annes-zombie-odyssey.json) |
 | Annelids | 57118 | [57118-annelids.json](./57118-annelids.json) |
 | Annexation | 404838 | [404838-annexation.json](./404838-annexation.json) |
@@ -5392,6 +5395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Empire | 109705 | [109705-ant-empire.json](./109705-ant-empire.json) |
 | Ant Farm Simulator | 277847 | [277847-ant-farm-simulator.json](./277847-ant-farm-simulator.json) |
 | Ant Fight | 245287 | [245287-ant-fight.json](./245287-ant-fight.json) |
+| Ant game | 183404 | [183404-ant-game.json](./183404-ant-game.json) |
 | Ant Guardians | 349395 | [349395-ant-guardians.json](./349395-ant-guardians.json) |
 | Ant Keeping Simulator | 293092 | [293092-ant-keeping-simulator.json](./293092-ant-keeping-simulator.json) |
 | Ant Man | 313899 | [313899-ant-man.json](./313899-ant-man.json) |
@@ -6586,6 +6590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are We Thawing | 241984 | [241984-are-we-thawing.json](./241984-are-we-thawing.json) |
 | Are We There Yet? | 73794 | [73794-are-we-there-yet.json](./73794-are-we-there-yet.json) |
 | Are You Afraid of the Dark | 220347 | [220347-are-you-afraid-of-the-dark.json](./220347-are-you-afraid-of-the-dark.json) |
+| Are you human? | 183394 | [183394-are-you-human.json](./183394-are-you-human.json) |
 | Are You Kidding Me? | 324922 | [324922-are-you-kidding-me.json](./324922-are-you-kidding-me.json) |
 | Are You Ok? | 179054 | [179054-are-you-ok.json](./179054-are-you-ok.json) |
 | Are You Smarter Than a 5th Grader? | 212767 | [212767-are-you-smarter-than-a-5th-grader.json](./212767-are-you-smarter-than-a-5th-grader.json) |
@@ -6834,6 +6839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arknights: Endfield - Update 1.5: Dreamscape of Wind and Snow | 415939 | [415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json](./415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json) |
 | Arknights: Release | 253344 | [253344-arknights-release.json](./253344-arknights-release.json) |
 | Arktis SCP-RP | 383554 | [383554-arktis-scp-rp.json](./383554-arktis-scp-rp.json) |
+| Arktonis 13 | 183392 | [183392-arktonis-13.json](./183392-arktonis-13.json) |
 | Arktwend: The Forgotten Realm | 319107 | [319107-arktwend-the-forgotten-realm.json](./319107-arktwend-the-forgotten-realm.json) |
 | Arkwhale | 303681 | [303681-arkwhale.json](./303681-arkwhale.json) |
 | ARL 96 | 93147 | [93147-arl-96.json](./93147-arl-96.json) |
@@ -9056,6 +9062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axegend | 131596 | [131596-axegend.json](./131596-axegend.json) |
 | Axel & Pixel | 14845 | [14845-axel-and-pixel.json](./14845-axel-and-pixel.json) |
 | Axel City | 124767 | [124767-axel-city.json](./124767-axel-city.json) |
+| Axel's Journey | 183414 | [183414-axels-journey.json](./183414-axels-journey.json) |
 | Axes and Arrows | 34355 | [34355-axes-and-arrows.json](./34355-axes-and-arrows.json) |
 | AxeSlinger | 382299 | [382299-axeslinger.json](./382299-axeslinger.json) |
 | Axet | 14497 | [14497-axet.json](./14497-axet.json) |
