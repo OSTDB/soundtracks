@@ -2441,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light in the Woods | 343849 | [343849-light-in-the-woods.json](./343849-light-in-the-woods.json) |
 | Light Infantry | 161157 | [161157-light-infantry.json](./161157-light-infantry.json) |
 | Light Instinct | 357818 | [357818-light-instinct.json](./357818-light-instinct.json) |
+| Light Kin | 219635 | [219635-light-kin.json](./219635-light-kin.json) |
 | Light Leak | 395170 | [395170-light-leak.json](./395170-light-leak.json) |
 | Light Magic 2 | 316683 | [316683-light-magic-2.json](./316683-light-magic-2.json) |
 | Light my Fear | 116435 | [116435-light-my-fear.json](./116435-light-my-fear.json) |
@@ -3359,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living the Dream | 259763 | [259763-living-the-dream.json](./259763-living-the-dream.json) |
 | Living the Nightmare | 151144 | [151144-living-the-nightmare.json](./151144-living-the-nightmare.json) |
 | Living with an Elf: A Cozy Forest Retreat | 263195 | [263195-living-with-an-elf-a-cozy-forest-retreat.json](./263195-living-with-an-elf-a-cozy-forest-retreat.json) |
+| Living With Dragons | 219638 | [219638-living-with-dragons.json](./219638-living-with-dragons.json) |
 | Living With It | 329394 | [329394-living-with-it.json](./329394-living-with-it.json) |
 | Living with My Bratty Neighbor | 408970 | [408970-living-with-my-bratty-neighbor.json](./408970-living-with-my-bratty-neighbor.json) |
 | Living with My Little Sister | 344529 | [344529-living-with-my-little-sister.json](./344529-living-with-my-little-sister.json) |
