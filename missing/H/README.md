@@ -1212,6 +1212,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Light of Hope - Special Edition: Divine Marriageable Characters Pack | 225043 | [225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json](./225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json) |
 | Harvest Moon: Magical Melody | 3386 | [3386-harvest-moon-magical-melody.json](./3386-harvest-moon-magical-melody.json) |
 | Harvest Moon: One World - Collector's Edition | 200691 | [200691-harvest-moon-one-world-collectors-edition.json](./200691-harvest-moon-one-world-collectors-edition.json) |
+| Harvest Moon: One World - Far East Adventure Pack | 174165 | [174165-harvest-moon-one-world-far-east-adventure-pack.json](./174165-harvest-moon-one-world-far-east-adventure-pack.json) |
+| Harvest Moon: One World - Precious Pets Pack | 174151 | [174151-harvest-moon-one-world-precious-pets-pack.json](./174151-harvest-moon-one-world-precious-pets-pack.json) |
 | Harvest Moon: One World Bundle | 173798 | [173798-harvest-moon-one-world-bundle.json](./173798-harvest-moon-one-world-bundle.json) |
 | Harvest Moon: Skytree Village | 19393 | [19393-harvest-moon-skytree-village.json](./19393-harvest-moon-skytree-village.json) |
 | Harvest Moon: The Tale of Two Towns | 3392 | [3392-harvest-moon-the-tale-of-two-towns.json](./3392-harvest-moon-the-tale-of-two-towns.json) |
@@ -5425,6 +5427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshizora Tensei Another Sky | 259709 | [259709-hoshizora-tensei-another-sky.json](./259709-hoshizora-tensei-another-sky.json) |
 | Hoshizora Testudou to Shiro no Tabi | 147405 | [147405-hoshizora-testudou-to-shiro-no-tabi.json](./147405-hoshizora-testudou-to-shiro-no-tabi.json) |
 | Hospice | 55161 | [55161-hospice.json](./55161-hospice.json) |
+| Hospital 9: Mai's Report | 174174 | [174174-hospital-9-mais-report.json](./174174-hospital-9-mais-report.json) |
 | Hospital 9: Puzzles | 163417 | [163417-hospital-9-puzzles.json](./163417-hospital-9-puzzles.json) |
 | Hospital Black River | 184961 | [184961-hospital-black-river.json](./184961-hospital-black-river.json) |
 | Hospital Doctor: Fix me up for Kids (Boys & Girls) | 257881 | [257881-hospital-doctor-fix-me-up-for-kids-boys-and-girls.json](./257881-hospital-doctor-fix-me-up-for-kids-boys-and-girls.json) |
@@ -6673,6 +6676,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 1 | 224216 | [224216-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-1.json](./224216-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-1.json) |
 | Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 2 | 224217 | [224217-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-2.json](./224217-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-2.json) |
 | Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 3 | 224218 | [224218-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-3.json](./224218-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-3.json) |
+| Hyperdimension Neptunia Re;Birth2: Sister's Generation - Giant Island | 174155 | [174155-hyperdimension-neptunia-re-birth2-sisters-generation-giant-island.json](./174155-hyperdimension-neptunia-re-birth2-sisters-generation-giant-island.json) |
+| Hyperdimension Neptunia Re;Birth2: Sister's Generation - Mini Island | 174150 | [174150-hyperdimension-neptunia-re-birth2-sisters-generation-mini-island.json](./174150-hyperdimension-neptunia-re-birth2-sisters-generation-mini-island.json) |
 | Hyperdimension Neptunia Re;Birth2: Sisters Generation | 9868 | [9868-hyperdimension-neptunia-re-birth2-sisters-generation.json](./9868-hyperdimension-neptunia-re-birth2-sisters-generation.json) |
 | Hyperdimension Neptunia Re;Birth2: Sisters Generation - Limited Edition | 388189 | [388189-hyperdimension-neptunia-re-birth2-sisters-generation-limited-edition.json](./388189-hyperdimension-neptunia-re-birth2-sisters-generation-limited-edition.json) |
 | Hyperdimension Neptunia Re;Birth3: V Generation | 9869 | [9869-hyperdimension-neptunia-re-birth3-v-generation.json](./9869-hyperdimension-neptunia-re-birth3-v-generation.json) |
