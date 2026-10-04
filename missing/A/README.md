@@ -2185,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Aghia | 406804 | [406804-aghia.json](./406804-aghia.json) |
 | Agile Firefighter | 207912 | [207912-agile-firefighter.json](./207912-agile-firefighter.json) |
+| Agility Dogs | 175165 | [175165-agility-dogs.json](./175165-agility-dogs.json) |
 | AGIS | 239647 | [239647-agis.json](./239647-agis.json) |
 | Aglet: The Sneaker Game | 205586 | [205586-aglet-the-sneaker-game.json](./205586-aglet-the-sneaker-game.json) |
 | Agni | 192786 | [192786-agni.json](./192786-agni.json) |
@@ -2411,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Defence | 250902 | [250902-air-defence.json](./250902-air-defence.json) |
 | Air Delivery | 285591 | [285591-air-delivery.json](./285591-air-delivery.json) |
 | Air Duel | 10445 | [10445-air-duel.json](./10445-air-duel.json) |
+| Air Field Hockey | 175157 | [175157-air-field-hockey.json](./175157-air-field-hockey.json) |
 | Air Fight: Sky Fighters | 281043 | [281043-air-fight-sky-fighters.json](./281043-air-fight-sky-fighters.json) |
 | Air Force Commander | 14231 | [14231-air-force-commander.json](./14231-air-force-commander.json) |
 | Air Force Commander: Combat Arms Fighter Shooting Attack | 88738 | [88738-air-force-commander-combat-arms-fighter-shooting-attack.json](./88738-air-force-commander-combat-arms-fighter-shooting-attack.json) |
@@ -6423,6 +6425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Sorcery | 34548 | [34548-arcane-sorcery.json](./34548-arcane-sorcery.json) |
 | Arcane Soul | 193966 | [193966-arcane-soul.json](./193966-arcane-soul.json) |
 | Arcane TD | 307297 | [307297-arcane-td.json](./307297-arcane-td.json) |
+| Arcane Tower | 175238 | [175238-arcane-tower.json](./175238-arcane-tower.json) |
 | Arcane Tower Defense | 237077 | [237077-arcane-tower-defense.json](./237077-arcane-tower-defense.json) |
 | Arcane Tower Survivors | 342641 | [342641-arcane-tower-survivors.json](./342641-arcane-tower-survivors.json) |
 | Arcane Walker | 154998 | [154998-arcane-walker.json](./154998-arcane-walker.json) |
@@ -7268,6 +7271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Girl | 70686 | [70686-artificial-girl.json](./70686-artificial-girl.json) |
 | Artificial Girl 2 | 19808 | [19808-artificial-girl-2.json](./19808-artificial-girl-2.json) |
 | Artificial Girl 3 Plus | 22465 | [22465-artificial-girl-3-plus.json](./22465-artificial-girl-3-plus.json) |
+| Artificial Life | 175221 | [175221-artificial-life.json](./175221-artificial-life.json) |
 | Artificial Life Simulator | 287719 | [287719-artificial-life-simulator.json](./287719-artificial-life-simulator.json) |
 | Artificial Superintelligence | 174353 | [174353-artificial-superintelligence.json](./174353-artificial-superintelligence.json) |
 | Artificiality | 115144 | [115144-artificiality.json](./115144-artificiality.json) |
