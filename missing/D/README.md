@@ -3847,6 +3847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detect Occult | 183064 | [183064-detect-occult.json](./183064-detect-occult.json) |
 | Detective | 379886 | [379886-detective.json](./379886-detective.json) |
 | Detective 26 | 390789 | [390789-detective-26.json](./390789-detective-26.json) |
+| Detective Agency 2 | 191046 | [191046-detective-agency-2.json](./191046-detective-agency-2.json) |
 | Detective Agency Gray Tie 2: Collector's Edition | 250940 | [250940-detective-agency-gray-tie-2-collectors-edition.json](./250940-detective-agency-gray-tie-2-collectors-edition.json) |
 | Detective Araka | 334313 | [334313-detective-araka.json](./334313-detective-araka.json) |
 | Detective Barbie 2: The Vacation Mystery | 197864 | [197864-detective-barbie-2-the-vacation-mystery.json](./197864-detective-barbie-2-the-vacation-mystery.json) |
@@ -5497,6 +5498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divadlo | 271988 | [271988-divadlo.json](./271988-divadlo.json) |
 | Divan Chronicles: Battle for Dancig - Episode 3 | 172096 | [172096-divan-chronicles-battle-for-dancig-episode-3.json](./172096-divan-chronicles-battle-for-dancig-episode-3.json) |
 | Divarr | 282151 | [282151-divarr.json](./282151-divarr.json) |
+| Dive | 191075 | [191075-dive.json](./191075-dive.json) |
 | Dive | 88462 | [88462-dive.json](./88462-dive.json) |
 | Dive Expedition: Complete Edition | 385197 | [385197-dive-expedition-complete-edition.json](./385197-dive-expedition-complete-edition.json) |
 | Dive Expedition: Plane Wreck DLC | 378971 | [378971-dive-expedition-plane-wreck-dlc.json](./378971-dive-expedition-plane-wreck-dlc.json) |
@@ -6172,6 +6174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominay | 211962 | [211962-dominay.json](./211962-dominay.json) |
 | Dominion: Adventures | 191103 | [191103-dominion-adventures.json](./191103-dominion-adventures.json) |
 | Dominion: Alchemy | 191100 | [191100-dominion-alchemy.json](./191100-dominion-alchemy.json) |
+| Dominion: Allies | 191055 | [191055-dominion-allies.json](./191055-dominion-allies.json) |
 | Dominion: Base Set - 1st Edition | 191105 | [191105-dominion-base-set-1st-edition.json](./191105-dominion-base-set-1st-edition.json) |
 | Dominion: Cornucopia | 191107 | [191107-dominion-cornucopia.json](./191107-dominion-cornucopia.json) |
 | Dominion: Dark Ages | 191101 | [191101-dominion-dark-ages.json](./191101-dominion-dark-ages.json) |
@@ -6302,6 +6305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Forget Me: Deluxe Edition | 154519 | [154519-dont-forget-me-deluxe-edition.json](./154519-dont-forget-me-deluxe-edition.json) |
 | Don't Forget the Phone | 398485 | [398485-dont-forget-the-phone.json](./398485-dont-forget-the-phone.json) |
 | Don't Fraud My Heart! | 213306 | [213306-dont-fraud-my-heart.json](./213306-dont-fraud-my-heart.json) |
+| Don't freak out | 191069 | [191069-dont-freak-out.json](./191069-dont-freak-out.json) |
 | Don't Freak Part 1 | 334875 | [334875-dont-freak-part-1.json](./334875-dont-freak-part-1.json) |
 | Don't Fret | 289433 | [289433-dont-fret.json](./289433-dont-fret.json) |
 | Don't Get a Virus | 181874 | [181874-dont-get-a-virus.json](./181874-dont-get-a-virus.json) |
@@ -8705,6 +8709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drowned Grave | 387649 | [387649-drowned-grave.json](./387649-drowned-grave.json) |
 | Drowned Helicopter | 166695 | [166695-drowned-helicopter.json](./166695-drowned-helicopter.json) |
 | Drowned Lake | 278605 | [278605-drowned-lake.json](./278605-drowned-lake.json) |
+| Drowning | 191030 | [191030-drowning.json](./191030-drowning.json) |
 | Drowning Cross | 119750 | [119750-drowning-cross.json](./119750-drowning-cross.json) |
 | Drowning In Problems | 134444 | [134444-drowning-in-problems.json](./134444-drowning-in-problems.json) |
 | Drowning Song of the Stagnant Sea | 370694 | [370694-drowning-song-of-the-stagnant-sea.json](./370694-drowning-song-of-the-stagnant-sea.json) |
@@ -9729,6 +9734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Tower | 24563 | [24563-dwarf-tower.json](./24563-dwarf-tower.json) |
 | Dwarfare: All For The Forge | 369720 | [369720-dwarfare-all-for-the-forge.json](./369720-dwarfare-all-for-the-forge.json) |
 | Dwarfender | 250894 | [250894-dwarfender.json](./250894-dwarfender.json) |
+| Dwarffarian | 191081 | [191081-dwarffarian.json](./191081-dwarffarian.json) |
 | DwarfHold: Tokens & Towers | 357836 | [357836-dwarfhold-tokens-and-towers.json](./357836-dwarfhold-tokens-and-towers.json) |
 | Dwarflings | 30341 | [30341-dwarflings.json](./30341-dwarflings.json) |
 | Dwarfs & Witch | 346088 | [346088-dwarfs-and-witch.json](./346088-dwarfs-and-witch.json) |
@@ -9866,6 +9872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 9 with Bonus | 90690 | [90690-dynasty-warriors-9-with-bonus.json](./90690-dynasty-warriors-9-with-bonus.json) |
 | Dynasty Warriors 9: Complete Edition | 199637 | [199637-dynasty-warriors-9-complete-edition.json](./199637-dynasty-warriors-9-complete-edition.json) |
 | Dynasty Warriors 9: Empires | 139126 | [139126-dynasty-warriors-9-empires.json](./139126-dynasty-warriors-9-empires.json) |
+| Dynasty Warriors 9: Empires - Idol Stage | 191040 | [191040-dynasty-warriors-9-empires-idol-stage.json](./191040-dynasty-warriors-9-empires-idol-stage.json) |
 | Dynasty Warriors 9: Guo Jia Additional Hypothetical Scenarios Set | 225913 | [225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json](./225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json) |
 | Dynasty Warriors 9: Zhou Yu Additional Hypothetical Scenarios Set | 225909 | [225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json](./225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json) |
 | Dynasty Warriors Online | 72612 | [72612-dynasty-warriors-online.json](./72612-dynasty-warriors-online.json) |
