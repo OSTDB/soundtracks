@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.B.I. Baseball 20 | 126188 | [126188-r-b-i-baseball-20.json](./126188-r-b-i-baseball-20.json) |
 | R.B.I. Baseball 4 | 46264 | [46264-r-b-i-baseball-4.json](./46264-r-b-i-baseball-4.json) |
 | R.C. Bot Inc. | 33097 | [33097-r-c-bot-inc.json](./33097-r-c-bot-inc.json) |
+| R.E.A.C.T | 195595 | [195595-r-e-a-c-t.json](./195595-r-e-a-c-t.json) |
 | R.E.E.L. | 133367 | [133367-r-e-e-l.json](./133367-r-e-e-l.json) |
 | R.E.M. scape | 178432 | [178432-r-e-m-scape.json](./178432-r-e-m-scape.json) |
 | R.I.C.A | 115013 | [115013-r-i-c-a.json](./115013-r-i-c-a.json) |
