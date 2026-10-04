@@ -3479,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nono Islands | 57111 | [57111-nono-islands.json](./57111-nono-islands.json) |
 | Nono Logix | 116436 | [116436-nono-logix.json](./116436-nono-logix.json) |
 | Nono Paint | 378367 | [378367-nono-paint.json](./378367-nono-paint.json) |
+| Nono Pixie | 175767 | [175767-nono-pixie.json](./175767-nono-pixie.json) |
 | Nonocular | 181384 | [181384-nonocular.json](./181384-nonocular.json) |
 | Nonogos | 372624 | [372624-nonogos.json](./372624-nonogos.json) |
 | Nonogram | 112360 | [112360-nonogram.json](./112360-nonogram.json) |
