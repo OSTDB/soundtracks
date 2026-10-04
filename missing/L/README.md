@@ -3365,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Livets Hopp | 277381 | [277381-livets-hopp.json](./277381-livets-hopp.json) |
 | Liveza: Death of the Earth | 32960 | [32960-liveza-death-of-the-earth.json](./32960-liveza-death-of-the-earth.json) |
 | Livid Meadow | 271209 | [271209-livid-meadow.json](./271209-livid-meadow.json) |
+| Living Art | 195555 | [195555-living-art.json](./195555-living-art.json) |
 | Living Books: D.W. the Picky Eater | 122276 | [122276-living-books-d-w-the-picky-eater.json](./122276-living-books-d-w-the-picky-eater.json) |
 | Living Books: Dr. Seuss's ABC | 134447 | [134447-living-books-dr-seusss-abc.json](./134447-living-books-dr-seusss-abc.json) |
 | Living Books: Harry and the Haunted House | 70079 | [70079-living-books-harry-and-the-haunted-house.json](./70079-living-books-harry-and-the-haunted-house.json) |
@@ -3734,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | London Racer: Destruction Madness | 15438 | [15438-london-racer-destruction-madness.json](./15438-london-racer-destruction-madness.json) |
 | London Racer: Police Madness | 15436 | [15436-london-racer-police-madness.json](./15436-london-racer-police-madness.json) |
 | London Racer: World Challenge | 15437 | [15437-london-racer-world-challenge.json](./15437-london-racer-world-challenge.json) |
+| London Ripper | 195581 | [195581-london-ripper.json](./195581-london-ripper.json) |
 | London Rush | 234602 | [234602-london-rush.json](./234602-london-rush.json) |
 | London Taxi Rush Hour | 21505 | [21505-london-taxi-rush-hour.json](./21505-london-taxi-rush-hour.json) |
 | London-Faversham High Speed | 63799 | [63799-london-faversham-high-speed.json](./63799-london-faversham-high-speed.json) |
@@ -4393,6 +4395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Soul | 250888 | [250888-lost-soul.json](./250888-lost-soul.json) |
 | Lost Soul | 50115 | [50115-lost-soul.json](./50115-lost-soul.json) |
 | Lost Soul: Escape the Doom Museum | 344347 | [344347-lost-soul-escape-the-doom-museum.json](./344347-lost-soul-escape-the-doom-museum.json) |
+| Lost Souls | 195594 | [195594-lost-souls.json](./195594-lost-souls.json) |
 | Lost Souls | 229110 | [229110-lost-souls.json](./229110-lost-souls.json) |
 | Lost Souls: Timeless Fables - Collector's Edition | 88500 | [88500-lost-souls-timeless-fables-collectors-edition.json](./88500-lost-souls-timeless-fables-collectors-edition.json) |
 | Lost Station | 250866 | [250866-lost-station.json](./250866-lost-station.json) |
