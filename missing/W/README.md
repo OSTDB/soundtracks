@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warzone World | 115186 | [115186-warzone-world.json](./115186-warzone-world.json) |
 | Warzone: Clash of Generals | 71018 | [71018-warzone-clash-of-generals.json](./71018-warzone-clash-of-generals.json) |
 | Warzoom | 263999 | [263999-warzoom.json](./263999-warzoom.json) |
+| Was it a Cat I Saw? | 207203 | [207203-was-it-a-cat-i-saw.json](./207203-was-it-a-cat-i-saw.json) |
 | Was It Worth It? | 152811 | [152811-was-it-worth-it.json](./152811-was-it-worth-it.json) |
 | Wasabi Game | 245044 | [245044-wasabi-game.json](./245044-wasabi-game.json) |
 | WASD Quartet | 216840 | [216840-wasd-quartet.json](./216840-wasd-quartet.json) |
@@ -1687,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Cat | 341108 | [341108-weird-cat.json](./341108-weird-cat.json) |
 | Weird Cinema | 189936 | [189936-weird-cinema.json](./189936-weird-cinema.json) |
 | Weird Cities | 386698 | [386698-weird-cities.json](./386698-weird-cities.json) |
+| Weird City Interloper | 207232 | [207232-weird-city-interloper.json](./207232-weird-city-interloper.json) |
 | Weird Comic Art | 374278 | [374278-weird-comic-art.json](./374278-weird-comic-art.json) |
 | Weird Comic Art: The Athletic & Museum | 374280 | [374280-weird-comic-art-the-athletic-and-museum.json](./374280-weird-comic-art-the-athletic-and-museum.json) |
 | Weird creatures | 30779 | [30779-weird-creatures.json](./30779-weird-creatures.json) |
@@ -4216,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Empire III | 79578 | [79578-world-empire-iii.json](./79578-world-empire-iii.json) |
 | World Empire IV | 73753 | [73753-world-empire-iv.json](./73753-world-empire-iv.json) |
 | World End | 40746 | [40746-world-end.json](./40746-world-end.json) |
+| World End Girlfriend | 207204 | [207204-world-end-girlfriend.json](./207204-world-end-girlfriend.json) |
 | World Ends Wednesday | 264144 | [264144-world-ends-wednesday.json](./264144-world-ends-wednesday.json) |
 | World Enduro Rally | 111671 | [111671-world-enduro-rally.json](./111671-world-enduro-rally.json) |
 | World Escape | 68667 | [68667-world-escape.json](./68667-world-escape.json) |
