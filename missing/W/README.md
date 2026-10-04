@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War-Torn | 344913 | [344913-war-torn.json](./344913-war-torn.json) |
 | War, the Game | 17838 | [17838-war-the-game.json](./17838-war-the-game.json) |
 | War: 13th Day | 75221 | [75221-war-13th-day.json](./75221-war-13th-day.json) |
+| War: The Savior's Order | 221796 | [221796-war-the-saviors-order.json](./221796-war-the-saviors-order.json) |
 | War! Age of Imperialism | 73520 | [73520-war-age-of-imperialism.json](./73520-war-age-of-imperialism.json) |
 | War7 | 31137 | [31137-war7.json](./31137-war7.json) |
 | Warage | 155500 | [155500-warage.json](./155500-warage.json) |
@@ -725,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargle | 291151 | [291151-wargle.json](./291151-wargle.json) |
 | Wargroove | 27441 | [27441-wargroove.json](./27441-wargroove.json) |
 | Wargroove 2 | 241149 | [241149-wargroove-2.json](./241149-wargroove-2.json) |
+| Wargroove: Double Trouble Bundle | 221778 | [221778-wargroove-double-trouble-bundle.json](./221778-wargroove-double-trouble-bundle.json) |
 | WarGround | 114441 | [114441-warground.json](./114441-warground.json) |
 | Warhall | 182239 | [182239-warhall.json](./182239-warhall.json) |
 | Warhalla | 100589 | [100589-warhalla.json](./100589-warhalla.json) |
@@ -3768,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wondersnake | 245383 | [245383-wondersnake.json](./245383-wondersnake.json) |
 | Wonderstries | 365059 | [365059-wonderstries.json](./365059-wonderstries.json) |
 | Wonderstructs | 414612 | [414612-wonderstructs.json](./414612-wonderstructs.json) |
+| WonderWorld | 221640 | [221640-wonderworld.json](./221640-wonderworld.json) |
 | Wonderworld Amusement Park | 47968 | [47968-wonderworld-amusement-park.json](./47968-wonderworld-amusement-park.json) |
 | Wong | 390115 | [390115-wong.json](./390115-wong.json) |
 | Wongo | 57073 | [57073-wongo.json](./57073-wongo.json) |
