@@ -1564,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Erik | 112725 | [112725-king-erik.json](./112725-king-erik.json) |
 | King Exit | 63715 | [63715-king-exit.json](./63715-king-exit.json) |
 | King Flappy | 97460 | [97460-king-flappy.json](./97460-king-flappy.json) |
+| King God Castle | 203220 | [203220-king-god-castle.json](./203220-king-god-castle.json) |
 | King God Domain | 159726 | [159726-king-god-domain.json](./159726-king-god-domain.json) |
 | King Hajwala | 153867 | [153867-king-hajwala.json](./153867-king-hajwala.json) |
 | King in the Mountain | 408930 | [408930-king-in-the-mountain.json](./408930-king-in-the-mountain.json) |
