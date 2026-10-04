@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Kings Together | 176330 | [176330-wasteland-kings-together.json](./176330-wasteland-kings-together.json) |
 | Wasteland Kitchen | 344506 | [344506-wasteland-kitchen.json](./344506-wasteland-kitchen.json) |
 | Wasteland Orchard | 387646 | [387646-wasteland-orchard.json](./387646-wasteland-orchard.json) |
+| Wasteland Punk | 175690 | [175690-wasteland-punk.json](./175690-wasteland-punk.json) |
 | Wasteland Rangers | 338392 | [338392-wasteland-rangers.json](./338392-wasteland-rangers.json) |
 | Wasteland Story | 249179 | [249179-wasteland-story.json](./249179-wasteland-story.json) |
 | Wasteland Survival | 284617 | [284617-wasteland-survival.json](./284617-wasteland-survival.json) |
@@ -3982,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worbital | 105070 | [105070-worbital.json](./105070-worbital.json) |
 | Worcle Worlds | 84965 | [84965-worcle-worlds.json](./84965-worcle-worlds.json) |
 | Word | 369619 | [369619-word.json](./369619-word.json) |
+| Word 2 | 175755 | [175755-word-2.json](./175755-word-2.json) |
 | Word Ace | 61032 | [61032-word-ace.json](./61032-word-ace.json) |
 | Word Across | 104481 | [104481-word-across.json](./104481-word-across.json) |
 | Word Addict: Word Puzzle Games | 90786 | [90786-word-addict-word-puzzle-games.json](./90786-word-addict-word-puzzle-games.json) |
@@ -4561,6 +4563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War 3: Card Battler | 216480 | [216480-world-war-3-card-battler.json](./216480-world-war-3-card-battler.json) |
 | World War Academy: Commander 1 | 170317 | [170317-world-war-academy-commander-1.json](./170317-world-war-academy-commander-1.json) |
 | World War Alpha | 261288 | [261288-world-war-alpha.json](./261288-world-war-alpha.json) |
+| World War Armies | 175684 | [175684-world-war-armies.json](./175684-world-war-armies.json) |
 | World War Battle Heroes Field Armies Call of Prison Duty Simulator | 227924 | [227924-world-war-battle-heroes-field-armies-call-of-prison-duty-simulator.json](./227924-world-war-battle-heroes-field-armies-call-of-prison-duty-simulator.json) |
 | World War Battle Simulator | 220643 | [220643-world-war-battle-simulator.json](./220643-world-war-battle-simulator.json) |
 | World War Battleship: The Hunting in Deep Sea | 212473 | [212473-world-war-battleship-the-hunting-in-deep-sea.json](./212473-world-war-battleship-the-hunting-in-deep-sea.json) |
