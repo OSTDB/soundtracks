@@ -2054,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc Incursion | 292754 | [292754-orc-incursion.json](./292754-orc-incursion.json) |
 | Orc Invasion Tower | 219266 | [219266-orc-invasion-tower.json](./219266-orc-invasion-tower.json) |
 | Orc Massage | 127920 | [127920-orc-massage.json](./127920-orc-massage.json) |
+| Orc vs. Undead | 191062 | [191062-orc-vs-undead.json](./191062-orc-vs-undead.json) |
 | Orca | 301336 | [301336-orca.json](./301336-orca.json) |
 | Orch Star | 76615 | [76615-orch-star.json](./76615-orch-star.json) |
 | Orchard | 92511 | [92511-orchard.json](./92511-orchard.json) |
