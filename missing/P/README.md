@@ -8830,6 +8830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuchiCon Big | 222292 | [222292-puchicon-big.json](./222292-puchicon-big.json) |
 | Puchicon Magazine: Soukangou | 222530 | [222530-puchicon-magazine-soukangou.json](./222530-puchicon-magazine-soukangou.json) |
 | Puchitto Cluster | 146855 | [146855-puchitto-cluster.json](./146855-puchitto-cluster.json) |
+| Puck Bash | 187266 | [187266-puck-bash.json](./187266-puck-bash.json) |
 | Puck-Man Puzzler | 289887 | [289887-puck-man-puzzler.json](./289887-puck-man-puzzler.json) |
 | Puck’s Peak | 366446 | [366446-puck-s-peak.json](./366446-puck-s-peak.json) |
 | Puckdoku | 321606 | [321606-puckdoku.json](./321606-puckdoku.json) |
@@ -9406,6 +9407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle For Peppa Pig | 100825 | [100825-puzzle-for-peppa-pig.json](./100825-puzzle-for-peppa-pig.json) |
 | Puzzle Forge Dungeon | 130197 | [130197-puzzle-forge-dungeon.json](./130197-puzzle-forge-dungeon.json) |
 | Puzzle Freak | 196795 | [196795-puzzle-freak.json](./196795-puzzle-freak.json) |
+| Puzzle Frenzy | 187276 | [187276-puzzle-frenzy.json](./187276-puzzle-frenzy.json) |
 | Puzzle Fuzzle | 312651 | [312651-puzzle-fuzzle.json](./312651-puzzle-fuzzle.json) |
 | Puzzle Galaxies | 32936 | [32936-puzzle-galaxies.json](./32936-puzzle-galaxies.json) |
 | Puzzle Galaxy: Beautiful Paintings - 47 new puzzles | 378863 | [378863-puzzle-galaxy-beautiful-paintings-47-new-puzzles.json](./378863-puzzle-galaxy-beautiful-paintings-47-new-puzzles.json) |
