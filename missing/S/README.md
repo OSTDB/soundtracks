@@ -4434,6 +4434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi no Dokutsu | 181773 | [181773-shinobi-no-dokutsu.json](./181773-shinobi-no-dokutsu.json) |
 | Shinobi no Okite | 132759 | [132759-shinobi-no-okite.json](./132759-shinobi-no-okite.json) |
 | Shinobi Origins | 389108 | [389108-shinobi-origins.json](./389108-shinobi-origins.json) |
+| Shinobi Rising | 216286 | [216286-shinobi-rising.json](./216286-shinobi-rising.json) |
 | Shinobi Saga | 285539 | [285539-shinobi-saga.json](./285539-shinobi-saga.json) |
 | Shinobi Slash | 264055 | [264055-shinobi-slash.json](./264055-shinobi-slash.json) |
 | Shinobi Spirits S: Legend of Heroes | 121046 | [121046-shinobi-spirits-s-legend-of-heroes.json](./121046-shinobi-spirits-s-legend-of-heroes.json) |
@@ -7426,7 +7427,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMOD Troopers | 312617 | [312617-smod-troopers.json](./312617-smod-troopers.json) |
 | SMOD: Outbreak | 312616 | [312616-smod-outbreak.json](./312616-smod-outbreak.json) |
 | Smogland | 44095 | [44095-smogland.json](./44095-smogland.json) |
+| Smok: Legend of the Laid-Back Heroes | 216298 | [216298-smok-legend-of-the-laid-back-heroes.json](./216298-smok-legend-of-the-laid-back-heroes.json) |
 | Smoke and Mirrors | 356784 | [356784-smoke-and-mirrors.json](./356784-smoke-and-mirrors.json) |
+| Smoke Attack | 216275 | [216275-smoke-attack.json](./216275-smoke-attack.json) |
 | Smoke Attack 2 | 229125 | [229125-smoke-attack-2.json](./229125-smoke-attack-2.json) |
 | Smoke Break! | 344359 | [344359-smoke-break.json](./344359-smoke-break.json) |
 | Smoked Fish and Cabbage 2 | 278620 | [278620-smoked-fish-and-cabbage-2.json](./278620-smoked-fish-and-cabbage-2.json) |
@@ -11743,6 +11746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint Car Challenge | 43333 | [43333-sprint-car-challenge.json](./43333-sprint-car-challenge.json) |
 | Sprint City | 384167 | [384167-sprint-city.json](./384167-sprint-city.json) |
 | Sprint Journey | 217809 | [217809-sprint-journey.json](./217809-sprint-journey.json) |
+| Sprint Journey: Nitro | 216143 | [216143-sprint-journey-nitro.json](./216143-sprint-journey-nitro.json) |
 | Sprint Master | 18423 | [18423-sprint-master.json](./18423-sprint-master.json) |
 | Sprint Star: A Running Manager | 310100 | [310100-sprint-star-a-running-manager.json](./310100-sprint-star-a-running-manager.json) |
 | SprintLine | 287909 | [287909-sprintline.json](./287909-sprintline.json) |
@@ -13742,6 +13746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Up | 319949 | [319949-stick-up.json](./319949-stick-up.json) |
 | Stick Veterans | 176360 | [176360-stick-veterans.json](./176360-stick-veterans.json) |
 | Stick War | 234161 | [234161-stick-war.json](./234161-stick-war.json) |
+| Stick War: Hero Tower Defense | 216135 | [216135-stick-war-hero-tower-defense.json](./216135-stick-war-hero-tower-defense.json) |
 | Stick War: Legacy | 239909 | [239909-stick-war-legacy.json](./239909-stick-war-legacy.json) |
 | Stick War: Saga | 233777 | [233777-stick-war-saga.json](./233777-stick-war-saga.json) |
 | StickDodgeVR | 51573 | [51573-stickdodgevr.json](./51573-stickdodgevr.json) |
@@ -15102,6 +15107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Puzzle Blast | 208354 | [208354-sudoku-puzzle-blast.json](./208354-sudoku-puzzle-blast.json) |
 | Sudoku Race | 267591 | [267591-sudoku-race.json](./267591-sudoku-race.json) |
 | Sudoku RPG | 143029 | [143029-sudoku-rpg.json](./143029-sudoku-rpg.json) |
+| Sudoku Samurai | 216127 | [216127-sudoku-samurai.json](./216127-sudoku-samurai.json) |
 | Sudoku Scapes | 105969 | [105969-sudoku-scapes.json](./105969-sudoku-scapes.json) |
 | Sudoku Starry Sky | 154574 | [154574-sudoku-starry-sky.json](./154574-sudoku-starry-sky.json) |
 | Sudoku Student | 84912 | [84912-sudoku-student.json](./84912-sudoku-student.json) |
