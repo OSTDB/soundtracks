@@ -1922,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno’s Embrace | 298902 | [298902-inferno-s-embrace.json](./298902-inferno-s-embrace.json) |
 | Infernovasion | 269663 | [269663-infernovasion.json](./269663-infernovasion.json) |
 | Infernum Bound | 337094 | [337094-infernum-bound.json](./337094-infernum-bound.json) |
+| Inferos Numine: Descent Into Darkness | 211092 | [211092-inferos-numine-descent-into-darkness.json](./211092-inferos-numine-descent-into-darkness.json) |
 | Infestation | 9119 | [9119-infestation.json](./9119-infestation.json) |
 | Infestation | 9486 | [9486-infestation.json](./9486-infestation.json) |
 | Infestation on Epsilon 13 | 365826 | [365826-infestation-on-epsilon-13.json](./365826-infestation-on-epsilon-13.json) |
