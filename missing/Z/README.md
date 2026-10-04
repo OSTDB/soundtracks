@@ -145,8 +145,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zap't'Balls | 95464 | [95464-zaptballs.json](./95464-zaptballs.json) |
 | Zapactris | 71551 | [71551-zapactris.json](./71551-zapactris.json) |
 | Zaphie 2 | 145656 | [145656-zaphie-2.json](./145656-zaphie-2.json) |
+| Zapitalism Deluxe | 202183 | [202183-zapitalism-deluxe.json](./202183-zapitalism-deluxe.json) |
 | Zapling Bygone: Deluxe Edition | 249261 | [249261-zapling-bygone-deluxe-edition.json](./249261-zapling-bygone-deluxe-edition.json) |
 | Zapp: Escape From Hollowcell | 52100 | [52100-zapp-escape-from-hollowcell.json](./52100-zapp-escape-from-hollowcell.json) |
+| Zapper | 202182 | [202182-zapper.json](./202182-zapper.json) |
 | Zapper: One Wicked Cricket! | 4583 | [4583-zapper-one-wicked-cricket.json](./4583-zapper-one-wicked-cricket.json) |
 | ZAR | 161374 | [161374-zar.json](./161374-zar.json) |
 | Zardy's Maze | 139234 | [139234-zardys-maze.json](./139234-zardys-maze.json) |
@@ -159,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zasa: An AI Story | 33399 | [33399-zasa-an-ai-story.json](./33399-zasa-an-ai-story.json) |
 | Zashiki-mawashi | 356812 | [356812-zashiki-mawashi.json](./356812-zashiki-mawashi.json) |
 | Zatch Bell! Mamodo Fury Update | 358308 | [358308-zatch-bell-mamodo-fury-update.json](./358308-zatch-bell-mamodo-fury-update.json) |
+| Zatch Bell! The Electric Arena 2 | 202177 | [202177-zatch-bell-the-electric-arena-2.json](./202177-zatch-bell-the-electric-arena-2.json) |
 | Zatikon: Crusades | 52782 | [52782-zatikon-crusades.json](./52782-zatikon-crusades.json) |
 | Zatsugaku Olympic Quiz Part II | 41419 | [41419-zatsugaku-olympic-quiz-part-ii.json](./41419-zatsugaku-olympic-quiz-part-ii.json) |
 | Zavix Tower | 25104 | [25104-zavix-tower.json](./25104-zavix-tower.json) |
@@ -183,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZDSimulator: Shevchenko-Timkove Route | 392436 | [392436-zdsimulator-shevchenko-timkove-route.json](./392436-zdsimulator-shevchenko-timkove-route.json) |
 | ZDSS: Zombie Drone Survival Show | 289336 | [289336-zdss-zombie-drone-survival-show.json](./289336-zdss-zombie-drone-survival-show.json) |
 | Zeal | 74746 | [74746-zeal.json](./74746-zeal.json) |
+| Zebco Pro Fishing 3D: Tournament Edition | 202178 | [202178-zebco-pro-fishing-3d-tournament-edition.json](./202178-zebco-pro-fishing-3d-tournament-edition.json) |
 | Zebra | 342171 | [342171-zebra.json](./342171-zebra.json) |
 | Zebra Evolution | 206734 | [206734-zebra-evolution.json](./206734-zebra-evolution.json) |
 | Zebra Logic Master | 238995 | [238995-zebra-logic-master.json](./238995-zebra-logic-master.json) |
