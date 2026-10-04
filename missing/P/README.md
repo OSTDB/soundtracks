@@ -1038,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Cleaning!: Married Woman Cosplay Life | 235479 | [235479-paradise-cleaning-married-woman-cosplay-life.json](./235479-paradise-cleaning-married-woman-cosplay-life.json) |
 | Paradise Corner | 413668 | [413668-paradise-corner.json](./413668-paradise-corner.json) |
 | Paradise Delight | 379547 | [379547-paradise-delight.json](./379547-paradise-delight.json) |
+| Paradise Duty | 185498 | [185498-paradise-duty.json](./185498-paradise-duty.json) |
 | Paradise Falls | 392417 | [392417-paradise-falls.json](./392417-paradise-falls.json) |
 | Paradise Homeland | 217242 | [217242-paradise-homeland.json](./217242-paradise-homeland.json) |
 | Paradise Inc | 368095 | [368095-paradise-inc.json](./368095-paradise-inc.json) |
@@ -3829,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinkalicious Party | 89767 | [89767-pinkalicious-party.json](./89767-pinkalicious-party.json) |
 | PinKeep | 381179 | [381179-pinkeep.json](./381179-pinkeep.json) |
 | Pinkie | 77426 | [77426-pinkie.json](./77426-pinkie.json) |
+| PinkMan Adventure | 185492 | [185492-pinkman-adventure.json](./185492-pinkman-adventure.json) |
 | Pinko Linko's School | 310675 | [310675-pinko-linkos-school.json](./310675-pinko-linkos-school.json) |
 | Pinky and the Brain: The Master Plan | 49360 | [49360-pinky-and-the-brain-the-master-plan.json](./49360-pinky-and-the-brain-the-master-plan.json) |
 | Pinky Promise Manifesto | 176440 | [176440-pinky-promise-manifesto.json](./176440-pinky-promise-manifesto.json) |
@@ -7002,6 +7004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Guy World | 339266 | [339266-power-guy-world.json](./339266-power-guy-world.json) |
 | Power Hands | 223982 | [223982-power-hands.json](./223982-power-hands.json) |
 | Power Hour | 11054 | [11054-power-hour.json](./11054-power-hour.json) |
+| Power in a Name | 185502 | [185502-power-in-a-name.json](./185502-power-in-a-name.json) |
 | Power Inc | 265747 | [265747-power-inc.json](./265747-power-inc.json) |
 | Power Instinct | 4476 | [4476-power-instinct.json](./4476-power-instinct.json) |
 | Power Instinct Legends | 39548 | [39548-power-instinct-legends.json](./39548-power-instinct-legends.json) |
@@ -7256,6 +7259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prehistorik | 10717 | [10717-prehistorik.json](./10717-prehistorik.json) |
 | Prehistorik Man | 159266 | [159266-prehistorik-man.json](./159266-prehistorik-man.json) |
 | Prehistorik Man | 85589 | [85589-prehistorik-man.json](./85589-prehistorik-man.json) |
+| PrehistorTic | 185504 | [185504-prehistortic.json](./185504-prehistortic.json) |
 | Prelogate | 36151 | [36151-prelogate.json](./36151-prelogate.json) |
 | Prelude Dark Pain | 301494 | [301494-prelude-dark-pain.json](./301494-prelude-dark-pain.json) |
 | Prelude Gardens | 395576 | [395576-prelude-gardens.json](./395576-prelude-gardens.json) |
@@ -9120,6 +9124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PureSim Baseball 2005 | 23784 | [23784-puresim-baseball-2005.json](./23784-puresim-baseball-2005.json) |
 | PureSkate | 193718 | [193718-pureskate.json](./193718-pureskate.json) |
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
+| PurgaStory | 185464 | [185464-purgastory.json](./185464-purgastory.json) |
 | Purgation Swordstorm | 413722 | [413722-purgation-swordstorm.json](./413722-purgation-swordstorm.json) |
 | Purgatory | 27773 | [27773-purgatory.json](./27773-purgatory.json) |
 | Purgatory | 383013 | [383013-purgatory.json](./383013-purgatory.json) |
