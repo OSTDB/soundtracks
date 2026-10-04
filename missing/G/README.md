@@ -1523,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geniu$: The Tech Tycoon Game | 9925 | [9925-geniu-the-tech-tycoon-game.json](./9925-geniu-the-tech-tycoon-game.json) |
 | Genius Calculator | 90265 | [90265-genius-calculator.json](./90265-genius-calculator.json) |
 | Genius Killer | 174749 | [174749-genius-killer.json](./174749-genius-killer.json) |
+| Genius Loci | 176239 | [176239-genius-loci.json](./176239-genius-loci.json) |
 | Genius Quiz | 240245 | [240245-genius-quiz.json](./240245-genius-quiz.json) |
 | Genius Quiz 1 | 240246 | [240246-genius-quiz-1.json](./240246-genius-quiz-1.json) |
 | Genius Quiz 10 | 241642 | [241642-genius-quiz-10.json](./241642-genius-quiz-10.json) |
@@ -2186,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift Shop Factory | 159360 | [159360-gift-shop-factory.json](./159360-gift-shop-factory.json) |
 | Gift to Humanity | 75163 | [75163-gift-to-humanity.json](./75163-gift-to-humanity.json) |
 | Gift Wrapped | 272556 | [272556-gift-wrapped.json](./272556-gift-wrapped.json) |
+| Gift-Exchange-Machine | 176240 | [176240-gift-exchange-machine.json](./176240-gift-exchange-machine.json) |
 | Gifted Island | 244727 | [244727-gifted-island.json](./244727-gifted-island.json) |
 | Giftpia | 3931 | [3931-giftpia.json](./3931-giftpia.json) |
 | Gifts from Arthur | 202365 | [202365-gifts-from-arthur.json](./202365-gifts-from-arthur.json) |
@@ -3061,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Pill | 217515 | [217515-god-pill.json](./217515-god-pill.json) |
 | God Please Help Me | 293861 | [293861-god-please-help-me.json](./293861-god-please-help-me.json) |
 | God Save Birmingham | 314428 | [314428-god-save-birmingham.json](./314428-god-save-birmingham.json) |
+| God Save the Queen | 176321 | [176321-god-save-the-queen.json](./176321-god-save-the-queen.json) |
 | God Shot | 399852 | [399852-god-shot.json](./399852-god-shot.json) |
 | God Simulator | 191570 | [191570-god-simulator.json](./191570-god-simulator.json) |
 | God Simulator | 31883 | [31883-god-simulator.json](./31883-god-simulator.json) |
@@ -4127,6 +4130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandia HD Remaster | 107213 | [107213-grandia-hd-remaster.json](./107213-grandia-hd-remaster.json) |
 | Grandma Green | 249353 | [249353-grandma-green.json](./249353-grandma-green.json) |
 | Grandma With A Gun | 335276 | [335276-grandma-with-a-gun.json](./335276-grandma-with-a-gun.json) |
+| Grandma's Ghosts | 176307 | [176307-grandmas-ghosts.json](./176307-grandmas-ghosts.json) |
 | Grandma's Guide to the Grand Outside | 415110 | [415110-grandmas-guide-to-the-grand-outside.json](./415110-grandmas-guide-to-the-grand-outside.json) |
 | Grandma's Kitchen | 264007 | [264007-grandmas-kitchen.json](./264007-grandmas-kitchen.json) |
 | Grandma's Little Store | 379046 | [379046-grandmas-little-store.json](./379046-grandmas-little-store.json) |
@@ -5173,6 +5177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Realms TCG | 365187 | [365187-guardian-realms-tcg.json](./365187-guardian-realms-tcg.json) |
 | Guardian Recall | 123006 | [123006-guardian-recall.json](./123006-guardian-recall.json) |
 | Guardian Rock | 286655 | [286655-guardian-rock.json](./286655-guardian-rock.json) |
+| Guardian Sphere | 176334 | [176334-guardian-sphere.json](./176334-guardian-sphere.json) |
 | Guardian Sword | 26627 | [26627-guardian-sword.json](./26627-guardian-sword.json) |
 | Guardian Tactics: Deck of the Chosen | 292543 | [292543-guardian-tactics-deck-of-the-chosen.json](./292543-guardian-tactics-deck-of-the-chosen.json) |
 | Guardian Tales | 133433 | [133433-guardian-tales.json](./133433-guardian-tales.json) |
