@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daddy Moto Racing | 255063 | [255063-daddy-moto-racing.json](./255063-daddy-moto-racing.json) |
 | Daddy Was A Thief | 103150 | [103150-daddy-was-a-thief.json](./103150-daddy-was-a-thief.json) |
 | Daddy's gone a-hunting | 76517 | [76517-daddys-gone-a-hunting.json](./76517-daddys-gone-a-hunting.json) |
+| Dadi | 200534 | [200534-dadi.json](./200534-dadi.json) |
 | Dadi Kingdom | 416622 | [416622-dadi-kingdom.json](./416622-dadi-kingdom.json) |
 | Dadish | 134427 | [134427-dadish.json](./134427-dadish.json) |
 | Dadish 3 | 199111 | [199111-dadish-3.json](./199111-dadish-3.json) |
@@ -2986,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Express | 303468 | [303468-delivery-express.json](./303468-delivery-express.json) |
 | Delivery Hot | 351125 | [351125-delivery-hot.json](./351125-delivery-hot.json) |
 | Delivery Impossible | 244191 | [244191-delivery-impossible.json](./244191-delivery-impossible.json) |
+| Delivery in Space | 200519 | [200519-delivery-in-space.json](./200519-delivery-in-space.json) |
 | Delivery INC | 211732 | [211732-delivery-inc.json](./211732-delivery-inc.json) |
 | Delivery INC: Large Cargo | 274759 | [274759-delivery-inc-large-cargo.json](./274759-delivery-inc-large-cargo.json) |
 | Delivery Issues | 369017 | [369017-delivery-issues.json](./369017-delivery-issues.json) |
@@ -4505,6 +4507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digerati Best Sellers | 147885 | [147885-digerati-best-sellers.json](./147885-digerati-best-sellers.json) |
 | Digerati Couch Co-op Vol. 2 | 166688 | [166688-digerati-couch-co-op-vol-2.json](./166688-digerati-couch-co-op-vol-2.json) |
 | Digerati Pixel Art Bundle Part 1 | 90663 | [90663-digerati-pixel-art-bundle-part-1.json](./90663-digerati-pixel-art-bundle-part-1.json) |
+| Digerati Presents: If You Don't Have Xbox Game Pass Bundle | 200513 | [200513-digerati-presents-if-you-dont-have-xbox-game-pass-bundle.json](./200513-digerati-presents-if-you-dont-have-xbox-game-pass-bundle.json) |
 | Digerati Presents: The Dungeon Crawl Vol. 1 | 147884 | [147884-digerati-presents-the-dungeon-crawl-vol-1.json](./147884-digerati-presents-the-dungeon-crawl-vol-1.json) |
 | Digfender | 109064 | [109064-digfender.json](./109064-digfender.json) |
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
@@ -5301,6 +5304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Atlantis: The Lost Empire - Trial by Fire | 78004 | [78004-disneys-atlantis-the-lost-empire-trial-by-fire.json](./78004-disneys-atlantis-the-lost-empire-trial-by-fire.json) |
 | Disney's Beauty and the Beast: A Board Game Adventure | 65583 | [65583-disneys-beauty-and-the-beast-a-board-game-adventure.json](./65583-disneys-beauty-and-the-beast-a-board-game-adventure.json) |
 | Disney's Beauty and the Beast: Belle's Quest | 46233 | [46233-disneys-beauty-and-the-beast-belles-quest.json](./46233-disneys-beauty-and-the-beast-belles-quest.json) |
+| Disney's Beauty and the Beast: LCD Wrist Game | 200503 | [200503-disneys-beauty-and-the-beast-lcd-wrist-game.json](./200503-disneys-beauty-and-the-beast-lcd-wrist-game.json) |
 | Disney's Beauty and the Beast: Magical Ballroom | 57919 | [57919-disneys-beauty-and-the-beast-magical-ballroom.json](./57919-disneys-beauty-and-the-beast-magical-ballroom.json) |
 | Disney's Bonkers | 45564 | [45564-disneys-bonkers.json](./45564-disneys-bonkers.json) |
 | Disney's Bonkers: Wax Up! | 57622 | [57622-disneys-bonkers-wax-up.json](./57622-disneys-bonkers-wax-up.json) |
@@ -6467,6 +6471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Heardle | 203817 | [203817-donkey-kong-heardle.json](./203817-donkey-kong-heardle.json) |
 | Donkey Kong II | 112423 | [112423-donkey-kong-ii.json](./112423-donkey-kong-ii.json) |
 | Donkey Kong II | 305302 | [305302-donkey-kong-ii.json](./305302-donkey-kong-ii.json) |
+| Donkey Kong Jr. | 200535 | [200535-donkey-kong-jr.json](./200535-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257639 | [257639-donkey-kong-jr.json](./257639-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257640 | [257640-donkey-kong-jr.json](./257640-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257641 | [257641-donkey-kong-jr.json](./257641-donkey-kong-jr.json) |
@@ -6483,6 +6488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Junior | 192914 | [192914-donkey-kong-junior.json](./192914-donkey-kong-junior.json) |
 | Donkey Kong Junior | 192915 | [192915-donkey-kong-junior.json](./192915-donkey-kong-junior.json) |
 | Donkey Kong Junior | 192916 | [192916-donkey-kong-junior.json](./192916-donkey-kong-junior.json) |
+| Donkey Kong Junior | 200536 | [200536-donkey-kong-junior.json](./200536-donkey-kong-junior.json) |
 | Donkey Kong Junior | 305443 | [305443-donkey-kong-junior.json](./305443-donkey-kong-junior.json) |
 | Donkey Kong Junior | 40921 | [40921-donkey-kong-junior.json](./40921-donkey-kong-junior.json) |
 | Donkey Kong Land | 1091 | [1091-donkey-kong-land.json](./1091-donkey-kong-land.json) |
@@ -6921,6 +6927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotcom (.com) | 59515 | [59515-dotcom-com.json](./59515-dotcom-com.json) |
 | Dotcraft. | 106770 | [106770-dotcraft.json](./106770-dotcraft.json) |
 | DotDot | 253971 | [253971-dotdot.json](./253971-dotdot.json) |
+| Doterminism | 200538 | [200538-doterminism.json](./200538-doterminism.json) |
 | Dotonon | 341677 | [341677-dotonon.json](./341677-dotonon.json) |
 | Dotori | 143600 | [143600-dotori.json](./143600-dotori.json) |
 | Dots | 76631 | [76631-dots.json](./76631-dots.json) |
@@ -8959,6 +8966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Draw: Katana Clash | 397862 | [397862-duel-draw-katana-clash.json](./397862-duel-draw-katana-clash.json) |
 | Duel Heroes | 249337 | [249337-duel-heroes.json](./249337-duel-heroes.json) |
 | Duel Jousting | 75770 | [75770-duel-jousting.json](./75770-duel-jousting.json) |
+| Duel Jousting VR | 200515 | [200515-duel-jousting-vr.json](./200515-duel-jousting-vr.json) |
 | Duel Legends | 369734 | [369734-duel-legends.json](./369734-duel-legends.json) |
 | Duel Masters 2 - Kirifuda Shoubu Ver. | 49583 | [49583-duel-masters-2-kirifuda-shoubu-ver.json](./49583-duel-masters-2-kirifuda-shoubu-ver.json) |
 | Duel Masters 2: Invincible Advance | 49584 | [49584-duel-masters-2-invincible-advance.json](./49584-duel-masters-2-invincible-advance.json) |
