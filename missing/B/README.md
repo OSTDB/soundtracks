@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Digger | 346673 | [346673-backyard-digger.json](./346673-backyard-digger.json) |
 | Backyard Football '99 | 366897 | [366897-backyard-football-99.json](./366897-backyard-football-99.json) |
 | Backyard Football 2006 | 72974 | [72974-backyard-football-2006.json](./72974-backyard-football-2006.json) |
+| Backyard Hockey | 206012 | [206012-backyard-hockey.json](./206012-backyard-hockey.json) |
 | Backyard Hockey ‘02 | 377817 | [377817-backyard-hockey-02.json](./377817-backyard-hockey-02.json) |
 | Backyard Hockey 2005 | 46638 | [46638-backyard-hockey-2005.json](./46638-backyard-hockey-2005.json) |
 | BackYard Hoops | 213336 | [213336-backyard-hoops.json](./213336-backyard-hoops.json) |
@@ -7233,6 +7234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bourbon Empire | 217320 | [217320-bourbon-empire.json](./217320-bourbon-empire.json) |
 | Bourbon Risky | 378414 | [378414-bourbon-risky.json](./378414-bourbon-risky.json) |
 | Bourgeois Megawad | 262987 | [262987-bourgeois-megawad.json](./262987-bourgeois-megawad.json) |
+| Boushoku no Gaburion: The Good Eater | 206038 | [206038-boushoku-no-gaburion-the-good-eater.json](./206038-boushoku-no-gaburion-the-good-eater.json) |
 | Bousou! Orient Kyuukou | 91758 | [91758-bousou-orient-kyuukou.json](./91758-bousou-orient-kyuukou.json) |
 | Boutique Boulevard | 341069 | [341069-boutique-boulevard.json](./341069-boutique-boulevard.json) |
 | Bovine Battles | 292511 | [292511-bovine-battles.json](./292511-bovine-battles.json) |
