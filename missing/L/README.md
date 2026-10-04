@@ -2286,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life & Death | 12177 | [12177-life-and-death.json](./12177-life-and-death.json) |
 | Life & Shadow: Celestial Call | 348444 | [348444-life-and-shadow-celestial-call.json](./348444-life-and-shadow-celestial-call.json) |
 | Life 2047 Escape Simulator | 376086 | [376086-life-2047-escape-simulator.json](./376086-life-2047-escape-simulator.json) |
+| Life after Death | 211110 | [211110-life-after-death.json](./211110-life-after-death.json) |
 | Life And Death Are Predetermined by Heaven | 330555 | [330555-life-and-death-are-predetermined-by-heaven.json](./330555-life-and-death-are-predetermined-by-heaven.json) |
 | Life and Death: A Journey of Star-Crossed Lovers | 314296 | [314296-life-and-death-a-journey-of-star-crossed-lovers.json](./314296-life-and-death-a-journey-of-star-crossed-lovers.json) |
 | Life and Minimalism | 202962 | [202962-life-and-minimalism.json](./202962-life-and-minimalism.json) |
@@ -3604,6 +3605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofi Ball: Wipeout | 256277 | [256277-lofi-ball-wipeout.json](./256277-lofi-ball-wipeout.json) |
 | Lofi Funkin' | 198381 | [198381-lofi-funkin.json](./198381-lofi-funkin.json) |
 | Lofi Haven | 388418 | [388418-lofi-haven.json](./388418-lofi-haven.json) |
+| LoFi Hotel | 211117 | [211117-lofi-hotel.json](./211117-lofi-hotel.json) |
 | Lofi Kitten | 266305 | [266305-lofi-kitten.json](./266305-lofi-kitten.json) |
 | Lofi Milk Delivery | 245921 | [245921-lofi-milk-delivery.json](./245921-lofi-milk-delivery.json) |
 | Lofi Ping Pong | 116187 | [116187-lofi-ping-pong.json](./116187-lofi-ping-pong.json) |
