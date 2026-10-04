@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Hours | 251843 | [251843-dark-hours.json](./251843-dark-hours.json) |
 | Dark Hours 2 | 57719 | [57719-dark-hours-2.json](./57719-dark-hours-2.json) |
 | Dark Hunter | 311784 | [311784-dark-hunter.json](./311784-dark-hunter.json) |
+| Dark Hyrule Fantasy | 199422 | [199422-dark-hyrule-fantasy.json](./199422-dark-hyrule-fantasy.json) |
 | Dark Incursion | 38958 | [38958-dark-incursion.json](./38958-dark-incursion.json) |
 | Dark Inquisition | 278162 | [278162-dark-inquisition.json](./278162-dark-inquisition.json) |
 | Dark Invasion VR: Doomsday | 204923 | [204923-dark-invasion-vr-doomsday.json](./204923-dark-invasion-vr-doomsday.json) |
@@ -1214,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashin' Desperadoes | 46247 | [46247-dashin-desperadoes.json](./46247-dashin-desperadoes.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2 | 227868 | [227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json](./227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json) |
 | Dashing Dodgems | 122932 | [122932-dashing-dodgems.json](./122932-dashing-dodgems.json) |
+| Dashing Mariachis | 199419 | [199419-dashing-mariachis.json](./199419-dashing-mariachis.json) |
 | Dashing Pixels | 136484 | [136484-dashing-pixels.json](./136484-dashing-pixels.json) |
 | Dashpunch | 319805 | [319805-dashpunch.json](./319805-dashpunch.json) |
 | Dashy Crashy 100 | 317385 | [317385-dashy-crashy-100.json](./317385-dashy-crashy-100.json) |
@@ -6066,6 +6068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doko he Iku no, Ano Hi | 408770 | [408770-doko-he-iku-no-ano-hi.json](./408770-doko-he-iku-no-ano-hi.json) |
 | Doko ni Iru? Hijouguchi no Pict-san | 251514 | [251514-doko-ni-iru-hijouguchi-no-pict-san.json](./251514-doko-ni-iru-hijouguchi-no-pict-san.json) |
 | Dokodemo Crash-kun | 210242 | [210242-dokodemo-crash-kun.json](./210242-dokodemo-crash-kun.json) |
+| Dokodemo Dorayaki Doraemon | 199449 | [199449-dokodemo-dorayaki-doraemon.json](./199449-dokodemo-dorayaki-doraemon.json) |
 | Dokodemo Mahjong | 43966 | [43966-dokodemo-mahjong.json](./43966-dokodemo-mahjong.json) |
 | Dokodemo Pop'n Music | 227745 | [227745-dokodemo-popn-music.json](./227745-dokodemo-popn-music.json) |
 | Dokodemo Taikyoku: Yakuman Advance | 49586 | [49586-dokodemo-taikyoku-yakuman-advance.json](./49586-dokodemo-taikyoku-yakuman-advance.json) |
@@ -6675,6 +6678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Warrior | 59860 | [59860-doom-warrior.json](./59860-doom-warrior.json) |
 | Doom: Bloodfall | 26558 | [26558-doom-bloodfall.json](./26558-doom-bloodfall.json) |
 | DOOM: Collector's Edition | 41614 | [41614-doom-collectors-edition.json](./41614-doom-collectors-edition.json) |
+| DOOM: Enhanced Vanilla Project | 199416 | [199416-doom-enhanced-vanilla-project.json](./199416-doom-enhanced-vanilla-project.json) |
 | Doom: Hell Followed | 25571 | [25571-doom-hell-followed.json](./25571-doom-hell-followed.json) |
 | DooM: Infernal Attack | 198352 | [198352-doom-infernal-attack.json](./198352-doom-infernal-attack.json) |
 | Doom: The Dark Ages - Revelations | 405075 | [405075-doom-the-dark-ages-revelations.json](./405075-doom-the-dark-ages-revelations.json) |
@@ -7462,6 +7466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: The Legend | 2579 | [2579-dragon-ball-z-the-legend.json](./2579-dragon-ball-z-the-legend.json) |
 | Dragon Ball Z: XKeeperZ | 98436 | [98436-dragon-ball-z-xkeeperz.json](./98436-dragon-ball-z-xkeeperz.json) |
 | Dragon Ball Z: Z-senshi Daishugyou! | 346787 | [346787-dragon-ball-z-z-senshi-daishugyou.json](./346787-dragon-ball-z-z-senshi-daishugyou.json) |
+| Dragon Ball: Kachinuke! Tenkaichi Budokai | 199448 | [199448-dragon-ball-kachinuke-tenkaichi-budokai.json](./199448-dragon-ball-kachinuke-tenkaichi-budokai.json) |
 | Dragon Ball: Origins 2 | 20412 | [20412-dragon-ball-origins-2.json](./20412-dragon-ball-origins-2.json) |
 | Dragon Ball: Pilaf no Gyakushuu | 346785 | [346785-dragon-ball-pilaf-no-gyakushuu.json](./346785-dragon-ball-pilaf-no-gyakushuu.json) |
 | Dragon Ball: Raging Blast 2 - Limited Edition | 47453 | [47453-dragon-ball-raging-blast-2-limited-edition.json](./47453-dragon-ball-raging-blast-2-limited-edition.json) |
@@ -9023,6 +9028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Mansion | 308472 | [308472-duke-mansion.json](./308472-duke-mansion.json) |
 | Duke Nukem 1+2 | 137548 | [137548-duke-nukem-1-2.json](./137548-duke-nukem-1-2.json) |
 | Duke Nukem 1+2 Remastered | 251709 | [251709-duke-nukem-1-2-remastered.json](./251709-duke-nukem-1-2-remastered.json) |
+| Duke Nukem 3D | 199425 | [199425-duke-nukem-3d.json](./199425-duke-nukem-3d.json) |
 | Duke Nukem 3D | 262569 | [262569-duke-nukem-3d.json](./262569-duke-nukem-3d.json) |
 | Duke Nukem 3D | 262573 | [262573-duke-nukem-3d.json](./262573-duke-nukem-3d.json) |
 | Duke Nukem 3D | 262575 | [262575-duke-nukem-3d.json](./262575-duke-nukem-3d.json) |
