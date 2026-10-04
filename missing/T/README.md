@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Me Home | 181890 | [181890-take-me-home.json](./181890-take-me-home.json) |
 | Take Me Home | 362292 | [362292-take-me-home.json](./362292-take-me-home.json) |
 | Take Me To The Dungeon!! | 403711 | [403711-take-me-to-the-dungeon.json](./403711-take-me-to-the-dungeon.json) |
+| Take Me to the Moon | 187294 | [187294-take-me-to-the-moon.json](./187294-take-me-to-the-moon.json) |
 | Take me, Vitaly: Sea Wolf | 394501 | [394501-take-me-vitaly-sea-wolf.json](./394501-take-me-vitaly-sea-wolf.json) |
 | Take no Prisoners | 207807 | [207807-take-no-prisoners.json](./207807-take-no-prisoners.json) |
 | Take Off: The Flight Simulator | 89683 | [89683-take-off-the-flight-simulator.json](./89683-take-off-the-flight-simulator.json) |
@@ -2897,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 8th Day | 106605 | [106605-the-8th-day.json](./106605-the-8th-day.json) |
 | The 8th Melee: Hyper State | 330720 | [330720-the-8th-melee-hyper-state.json](./330720-the-8th-melee-hyper-state.json) |
 | The 8th Son? A.R. | 243087 | [243087-the-8th-son-a-r.json](./243087-the-8th-son-a-r.json) |
+| The 9th Annual Vanilla Level Design Contest: Collaboration Hack | 187275 | [187275-the-9th-annual-vanilla-level-design-contest-collaboration-hack.json](./187275-the-9th-annual-vanilla-level-design-contest-collaboration-hack.json) |
 | The A-Team | 200146 | [200146-the-a-team.json](./200146-the-a-team.json) |
 | The A-Team | 200147 | [200147-the-a-team.json](./200147-the-a-team.json) |
 | The A500 Mini | 275245 | [275245-the-a500-mini.json](./275245-the-a500-mini.json) |
@@ -5507,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grinding of Teeth | 271852 | [271852-the-grinding-of-teeth.json](./271852-the-grinding-of-teeth.json) |
 | The Grindstone | 369169 | [369169-the-grindstone.json](./369169-the-grindstone.json) |
 | The Grip Games PS Vita Collection | 99795 | [99795-the-grip-games-ps-vita-collection.json](./99795-the-grip-games-ps-vita-collection.json) |
+| The Gristmill | 187272 | [187272-the-gristmill.json](./187272-the-gristmill.json) |
 | The Grizzled: Armistice Digital | 215744 | [215744-the-grizzled-armistice-digital.json](./215744-the-grizzled-armistice-digital.json) |
 | The Ground Division | 139398 | [139398-the-ground-division.json](./139398-the-ground-division.json) |
 | The Grounding | 140506 | [140506-the-grounding.json](./140506-the-grounding.json) |
@@ -10256,6 +10259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zombie Fortress | 327861 | [327861-the-zombie-fortress.json](./327861-the-zombie-fortress.json) |
 | The Zombie Shotgun Massacre 2 | 54705 | [54705-the-zombie-shotgun-massacre-2.json](./54705-the-zombie-shotgun-massacre-2.json) |
 | The Zombie Slayers | 329958 | [329958-the-zombie-slayers.json](./329958-the-zombie-slayers.json) |
+| The Zombie Smasher | 187260 | [187260-the-zombie-smasher.json](./187260-the-zombie-smasher.json) |
 | The Zombie Smasher | 219279 | [219279-the-zombie-smasher.json](./219279-the-zombie-smasher.json) |
 | The Zombie Wave | 294259 | [294259-the-zombie-wave.json](./294259-the-zombie-wave.json) |
 | The Zombie Wave: DLC | 298705 | [298705-the-zombie-wave-dlc.json](./298705-the-zombie-wave-dlc.json) |
@@ -12022,6 +12026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilt Frog | 286055 | [286055-tilt-frog.json](./286055-tilt-frog.json) |
 | Tilt of Fury | 56763 | [56763-tilt-of-fury.json](./56763-tilt-of-fury.json) |
 | Tilt to Live 2: Redonkulous | 194413 | [194413-tilt-to-live-2-redonkulous.json](./194413-tilt-to-live-2-redonkulous.json) |
+| Tilt'N'Turn | 187290 | [187290-tiltnturn.json](./187290-tiltnturn.json) |
 | TiltBill | 224995 | [224995-tiltbill.json](./224995-tiltbill.json) |
 | Tilted Mind | 36484 | [36484-tilted-mind.json](./36484-tilted-mind.json) |
 | Tilted: A Tale of Refraction | 51947 | [51947-tilted-a-tale-of-refraction.json](./51947-tilted-a-tale-of-refraction.json) |
@@ -13233,6 +13238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of the Endless | 323806 | [323806-tomb-of-the-endless.json](./323806-tomb-of-the-endless.json) |
 | Tomb of the Golden Relic | 411082 | [411082-tomb-of-the-golden-relic.json](./411082-tomb-of-the-golden-relic.json) |
 | Tomb of the Old Lords | 262556 | [262556-tomb-of-the-old-lords.json](./262556-tomb-of-the-old-lords.json) |
+| Tomb of the Мask | 187314 | [187314-tomb-of-the-ask.json](./187314-tomb-of-the-ask.json) |
 | Tomb of Thunder | 302617 | [302617-tomb-of-thunder.json](./302617-tomb-of-thunder.json) |
 | Tomb of Trials | 180270 | [180270-tomb-of-trials.json](./180270-tomb-of-trials.json) |
 | Tomb Offering | 340944 | [340944-tomb-offering.json](./340944-tomb-offering.json) |
@@ -15556,6 +15562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trampoline | 172661 | [172661-trampoline.json](./172661-trampoline.json) |
 | TramSim Munich | 165382 | [165382-tramsim-munich.json](./165382-tramsim-munich.json) |
 | TramSim Vienna | 140471 | [140471-tramsim-vienna.json](./140471-tramsim-vienna.json) |
+| Trance | 187267 | [187267-trance.json](./187267-trance.json) |
 | Trance-Pacific | 92860 | [92860-trance-pacific.json](./92860-trance-pacific.json) |
 | Tranquil Isle | 240790 | [240790-tranquil-isle.json](./240790-tranquil-isle.json) |
 | Trans Liberation Forever | 277409 | [277409-trans-liberation-forever.json](./277409-trans-liberation-forever.json) |
@@ -16061,6 +16068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Heroes | 108256 | [108256-trials-of-heroes.json](./108256-trials-of-heroes.json) |
 | Trials of Imorah | 258531 | [258531-trials-of-imorah.json](./258531-trials-of-imorah.json) |
 | Trials of Kokoro | 204373 | [204373-trials-of-kokoro.json](./204373-trials-of-kokoro.json) |
+| Trials of Midnight | 187268 | [187268-trials-of-midnight.json](./187268-trials-of-midnight.json) |
 | Trials of Proelium | 192661 | [192661-trials-of-proelium.json](./192661-trials-of-proelium.json) |
 | Trials of Proelium Remastered | 348891 | [348891-trials-of-proelium-remastered.json](./348891-trials-of-proelium-remastered.json) |
 | Trials of the Gauntlet | 89662 | [89662-trials-of-the-gauntlet.json](./89662-trials-of-the-gauntlet.json) |
