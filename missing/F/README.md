@@ -4866,6 +4866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Old Time's Sake | 376035 | [376035-for-old-times-sake.json](./376035-for-old-times-sake.json) |
 | For Political Lovers, a Little Utopia Sketch | 128612 | [128612-for-political-lovers-a-little-utopia-sketch.json](./128612-for-political-lovers-a-little-utopia-sketch.json) |
 | For Rent: Haunted House | 83600 | [83600-for-rent-haunted-house.json](./83600-for-rent-haunted-house.json) |
+| For Rest | 194376 | [194376-for-rest.json](./194376-for-rest.json) |
 | For Runner Night | 195720 | [195720-for-runner-night.json](./195720-for-runner-night.json) |
 | For Sale | 328269 | [328269-for-sale.json](./328269-for-sale.json) |
 | For Stella | 392276 | [392276-for-stella.json](./392276-for-stella.json) |
@@ -7197,6 +7198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futari wa Precure Max Heart: Maji? Maji!? Fight de IN Janai | 49568 | [49568-futari-wa-precure-max-heart-maji-maji-fight-de-in-janai.json](./49568-futari-wa-precure-max-heart-maji-maji-fight-de-in-janai.json) |
 | Futariuum's Gate | 310210 | [310210-futariuums-gate.json](./310210-futariuums-gate.json) |
 | Fútbol | 86007 | [86007-futbol.json](./86007-futbol.json) |
+| Futbol Break: Head to Head | 194396 | [194396-futbol-break-head-to-head.json](./194396-futbol-break-head-to-head.json) |
 | Fútbol Club Barcelona | 217959 | [217959-futbol-club-barcelona.json](./217959-futbol-club-barcelona.json) |
 | Futbol Kicks | 324992 | [324992-futbol-kicks.json](./324992-futbol-kicks.json) |
 | Futbolín Revolution | 138020 | [138020-futbolin-revolution.json](./138020-futbolin-revolution.json) |
