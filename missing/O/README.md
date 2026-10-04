@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Optional Boss | 135887 | [135887-optional-boss.json](./135887-optional-boss.json) |
 | OptoLexem | 103528 | [103528-optolexem.json](./103528-optolexem.json) |
 | Opus | 181873 | [181873-opus.json](./181873-opus.json) |
+| Opus Castle: Chapter II | 196107 | [196107-opus-castle-chapter-ii.json](./196107-opus-castle-chapter-ii.json) |
 | Opus Collection: The Day We Found Earth + Rocket of Whispers | 111912 | [111912-opus-collection-the-day-we-found-earth-rocket-of-whispers.json](./111912-opus-collection-the-day-we-found-earth-rocket-of-whispers.json) |
 | Opus Ludum | 169379 | [169379-opus-ludum.json](./169379-opus-ludum.json) |
 | Opus Magnum | 74545 | [74545-opus-magnum.json](./74545-opus-magnum.json) |
