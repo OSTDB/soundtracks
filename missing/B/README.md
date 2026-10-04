@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Chess | 339097 | [339097-balloon-chess.json](./339097-balloon-chess.json) |
 | Balloon De Fight'99 | 173077 | [173077-balloon-de-fight99.json](./173077-balloon-de-fight99.json) |
 | Balloon Fast Run | 330185 | [330185-balloon-fast-run.json](./330185-balloon-fast-run.json) |
+| Balloon Fight | 195030 | [195030-balloon-fight.json](./195030-balloon-fight.json) |
 | Balloon Fight | 269842 | [269842-balloon-fight.json](./269842-balloon-fight.json) |
 | Balloon Fight | 273083 | [273083-balloon-fight.json](./273083-balloon-fight.json) |
 | Balloon Fight | 2735 | [2735-balloon-fight.json](./2735-balloon-fight.json) |
@@ -4260,6 +4261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: Command The Toa Mahri | 343282 | [343282-bionicle-command-the-toa-mahri.json](./343282-bionicle-command-the-toa-mahri.json) |
 | Bionicle: Glatorian Arena | 343354 | [343354-bionicle-glatorian-arena.json](./343354-bionicle-glatorian-arena.json) |
 | Bionicle: Glatorian Arena 2 | 343358 | [343358-bionicle-glatorian-arena-2.json](./343358-bionicle-glatorian-arena-2.json) |
+| Bionicle: Kapura Adventures | 195049 | [195049-bionicle-kapura-adventures.json](./195049-bionicle-kapura-adventures.json) |
 | Bionicle: Masks of Power | 141873 | [141873-bionicle-masks-of-power.json](./141873-bionicle-masks-of-power.json) |
 | Bionicle: The Game | 3811 | [3811-bionicle-the-game.json](./3811-bionicle-the-game.json) |
 | Biophage | 316701 | [316701-biophage.json](./316701-biophage.json) |
@@ -8569,6 +8571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Wizard III Saga | 347318 | [347318-bubble-wizard-iii-saga.json](./347318-bubble-wizard-iii-saga.json) |
 | Bubble Woods | 116447 | [116447-bubble-woods.json](./116447-bubble-woods.json) |
 | Bubble World | 127890 | [127890-bubble-world.json](./127890-bubble-world.json) |
+| Bubble World | 195031 | [195031-bubble-world.json](./195031-bubble-world.json) |
 | Bubble Wrap DS | 215382 | [215382-bubble-wrap-ds.json](./215382-bubble-wrap-ds.json) |
 | Bubble Wrap Frenzy | 233236 | [233236-bubble-wrap-frenzy.json](./233236-bubble-wrap-frenzy.json) |
 | Bubble Xmas | 57663 | [57663-bubble-xmas.json](./57663-bubble-xmas.json) |
