@@ -2155,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agile Firefighter | 207912 | [207912-agile-firefighter.json](./207912-agile-firefighter.json) |
 | AGIS | 239647 | [239647-agis.json](./239647-agis.json) |
 | Aglet: The Sneaker Game | 205586 | [205586-aglet-the-sneaker-game.json](./205586-aglet-the-sneaker-game.json) |
+| Agni | 192786 | [192786-agni.json](./192786-agni.json) |
 | Agnostic Requiem | 273363 | [273363-agnostic-requiem.json](./273363-agnostic-requiem.json) |
 | Agnostiko Origins | 305986 | [305986-agnostiko-origins.json](./305986-agnostiko-origins.json) |
 | Agon: The Lost Sword of Toledo | 9953 | [9953-agon-the-lost-sword-of-toledo.json](./9953-agon-the-lost-sword-of-toledo.json) |
@@ -3098,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien 3 | 273018 | [273018-alien-3.json](./273018-alien-3.json) |
 | Alien 3 | 8908 | [8908-alien-3.json](./8908-alien-3.json) |
 | Alien 911 | 117523 | [117523-alien-911.json](./117523-alien-911.json) |
+| Alien Accident | 192744 | [192744-alien-accident.json](./192744-alien-accident.json) |
 | Alien Afteflife | 182807 | [182807-alien-afteflife.json](./182807-alien-afteflife.json) |
 | Alien Animals: Sandbox | 154463 | [154463-alien-animals-sandbox.json](./154463-alien-animals-sandbox.json) |
 | Alien Apocalypse | 390010 | [390010-alien-apocalypse.json](./390010-alien-apocalypse.json) |
@@ -3256,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien War Girl | 111072 | [111072-alien-war-girl.json](./111072-alien-war-girl.json) |
 | Alien Weapon Test Grounds | 310209 | [310209-alien-weapon-test-grounds.json](./310209-alien-weapon-test-grounds.json) |
 | Alien Worlds | 93075 | [93075-alien-worlds.json](./93075-alien-worlds.json) |
+| Alien Worm | 192757 | [192757-alien-worm.json](./192757-alien-worm.json) |
 | Alien Worms Invasion | 89657 | [89657-alien-worms-invasion.json](./89657-alien-worms-invasion.json) |
 | Alien X | 134562 | [134562-alien-x.json](./134562-alien-x.json) |
 | Alien X | 171579 | [171579-alien-x.json](./171579-alien-x.json) |
@@ -4936,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals | 203527 | [203527-animals.json](./203527-animals.json) |
 | Animals | 314287 | [314287-animals.json](./314287-animals.json) |
 | Animals Collision | 199375 | [199375-animals-collision.json](./199375-animals-collision.json) |
+| Animals Fight | 192764 | [192764-animals-fight.json](./192764-animals-fight.json) |
 | Animals In Buildings | 177311 | [177311-animals-in-buildings.json](./177311-animals-in-buildings.json) |
 | Animals In The City | 293219 | [293219-animals-in-the-city.json](./293219-animals-in-the-city.json) |
 | Animals Memory: Birds | 81942 | [81942-animals-memory-birds.json](./81942-animals-memory-birds.json) |
@@ -5497,6 +5501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anxiety: Lost Night | 179490 | [179490-anxiety-lost-night.json](./179490-anxiety-lost-night.json) |
 | Any Castle | 337298 | [337298-any-castle.json](./337298-any-castle.json) |
 | Any Other Color | 408133 | [408133-any-other-color.json](./408133-any-other-color.json) |
+| Any World | 192794 | [192794-any-world.json](./192794-any-world.json) |
 | AnyCircuit | 385289 | [385289-anycircuit.json](./385289-anycircuit.json) |
 | Anykey | 89671 | [89671-anykey.json](./89671-anykey.json) |
 | Anykey Simulator | 31787 | [31787-anykey-simulator.json](./31787-anykey-simulator.json) |
@@ -5675,6 +5680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypter | 378318 | [378318-apocalypter.json](./378318-apocalypter.json) |
 | Apocalyptic | 205656 | [205656-apocalyptic.json](./205656-apocalyptic.json) |
 | Apocalyptic Cars War | 334830 | [334830-apocalyptic-cars-war.json](./334830-apocalyptic-cars-war.json) |
+| Apocalyptic Slant | 192754 | [192754-apocalyptic-slant.json](./192754-apocalyptic-slant.json) |
 | Apocalyptic Vibes | 189189 | [189189-apocalyptic-vibes.json](./189189-apocalyptic-vibes.json) |
 | Apocalyptic World | 155976 | [155976-apocalyptic-world.json](./155976-apocalyptic-world.json) |
 | ApocaShift | 346614 | [346614-apocashift.json](./346614-apocashift.json) |
@@ -7178,6 +7184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial | 235361 | [235361-artificial.json](./235361-artificial.json) |
 | Artificial Academy | 22471 | [22471-artificial-academy.json](./22471-artificial-academy.json) |
 | Artificial Defense | 33511 | [33511-artificial-defense.json](./33511-artificial-defense.json) |
+| Artificial Entanglement | 192768 | [192768-artificial-entanglement.json](./192768-artificial-entanglement.json) |
 | Artificial Extinction 2 | 216470 | [216470-artificial-extinction-2.json](./216470-artificial-extinction-2.json) |
 | Artificial Fashionista: Summer Collection | 336694 | [336694-artificial-fashionista-summer-collection.json](./336694-artificial-fashionista-summer-collection.json) |
 | Artificial Fright | 253451 | [253451-artificial-fright.json](./253451-artificial-fright.json) |
@@ -7644,6 +7651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assembloids | 195065 | [195065-assembloids.json](./195065-assembloids.json) |
 | Assembloids | 41018 | [41018-assembloids.json](./41018-assembloids.json) |
 | Assembloids 2600 | 321557 | [321557-assembloids-2600.json](./321557-assembloids-2600.json) |
+| Assembly | 192749 | [192749-assembly.json](./192749-assembly.json) |
 | Assembly Line | 261450 | [261450-assembly-line.json](./261450-assembly-line.json) |
 | Assembly Line | 65756 | [65756-assembly-line.json](./65756-assembly-line.json) |
 | Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
