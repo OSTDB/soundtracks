@@ -4692,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Hatchery Island | 280801 | [280801-angry-birds-hatchery-island.json](./280801-angry-birds-hatchery-island.json) |
 | Angry Birds Hot Wheels Smashup | 195093 | [195093-angry-birds-hot-wheels-smashup.json](./195093-angry-birds-hot-wheels-smashup.json) |
 | Angry Birds Kingdom | 240247 | [240247-angry-birds-kingdom.json](./240247-angry-birds-kingdom.json) |
+| Angry Birds Legends | 199980 | [199980-angry-birds-legends.json](./199980-angry-birds-legends.json) |
 | Angry Birds Match | 56590 | [56590-angry-birds-match.json](./56590-angry-birds-match.json) |
 | Angry Birds Match World | 377794 | [377794-angry-birds-match-world.json](./377794-angry-birds-match-world.json) |
 | Angry Birds Matching | 325566 | [325566-angry-birds-matching.json](./325566-angry-birds-matching.json) |
@@ -9009,6 +9010,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aya & Naya | 260882 | [260882-aya-and-naya.json](./260882-aya-and-naya.json) |
 | Aya Go | 91740 | [91740-aya-go.json](./91740-aya-go.json) |
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
+| Ayakashi Gohan: Okawari! | 200008 | [200008-ayakashi-gohan-okawari.json](./200008-ayakashi-gohan-okawari.json) |
+| Ayakashi Gohan: Oomori! | 200007 | [200007-ayakashi-gohan-oomori.json](./200007-ayakashi-gohan-oomori.json) |
 | Ayakashi Koi Gikyoku -Forbidden Romance with Mysterious Spirit- | 106974 | [106974-ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit.json](./106974-ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit.json) |
 | Ayakashi Ninden Kunoichiban Plus | 45426 | [45426-ayakashi-ninden-kunoichiban-plus.json](./45426-ayakashi-ninden-kunoichiban-plus.json) |
 | Ayakashi Rumble | 208034 | [208034-ayakashi-rumble.json](./208034-ayakashi-rumble.json) |
