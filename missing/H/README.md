@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Dash | 267341 | [267341-happy-dash.json](./267341-happy-dash.json) |
 | Happy Day | 158165 | [158165-happy-day.json](./158165-happy-day.json) |
 | Happy Day | 388974 | [388974-happy-day.json](./388974-happy-day.json) |
+| Happy Diet | 194352 | [194352-happy-diet.json](./194352-happy-diet.json) |
 | Happy Drummer VR | 29993 | [29993-happy-drummer-vr.json](./29993-happy-drummer-vr.json) |
 | Happy Empire | 31693 | [31693-happy-empire.json](./31693-happy-empire.json) |
 | Happy Empire 2: The Lost Relic | 105989 | [105989-happy-empire-2-the-lost-relic.json](./105989-happy-empire-2-the-lost-relic.json) |
