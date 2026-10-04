@@ -2528,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Red String | 150023 | [150023-our-red-string.json](./150023-our-red-string.json) |
 | Our Story in Spring | 254471 | [254471-our-story-in-spring.json](./254471-our-story-in-spring.json) |
 | Our Summer Crush | 327990 | [327990-our-summer-crush.json](./327990-our-summer-crush.json) |
+| Our Summer Festival | 186696 | [186696-our-summer-festival.json](./186696-our-summer-festival.json) |
 | Our Summer Festival 2 | 352266 | [352266-our-summer-festival-2.json](./352266-our-summer-festival-2.json) |
 | Our Summer Sports | 208461 | [208461-our-summer-sports.json](./208461-our-summer-sports.json) |
 | Our Town Hero | 365890 | [365890-our-town-hero.json](./365890-our-town-hero.json) |
@@ -3086,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owys | 34642 | [34642-owys.json](./34642-owys.json) |
 | Oxenfree: Collector's Edition | 51536 | [51536-oxenfree-collectors-edition.json](./51536-oxenfree-collectors-edition.json) |
 | Oxide Room 208: File Josh | 392344 | [392344-oxide-room-208-file-josh.json](./392344-oxide-room-208-file-josh.json) |
+| Oxide: Room 104 | 186663 | [186663-oxide-room-104.json](./186663-oxide-room-104.json) |
 | Oxidus Tales | 350602 | [350602-oxidus-tales.json](./350602-oxidus-tales.json) |
 | OxRox | 295513 | [295513-oxrox.json](./295513-oxrox.json) |
 | Oxxo | 119208 | [119208-oxxo.json](./119208-oxxo.json) |
