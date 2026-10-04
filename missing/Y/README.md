@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ylands | 36297 | [36297-ylands.json](./36297-ylands.json) |
 | Ymir | 50092 | [50092-ymir.json](./50092-ymir.json) |
 | Yni^ | 339804 | [339804-yni.json](./339804-yni.json) |
+| YNN | 222206 | [222206-ynn.json](./222206-ynn.json) |
 | Ynth | 67673 | [67673-ynth.json](./67673-ynth.json) |
 | Yo My Yo! | 112355 | [112355-yo-my-yo.json](./112355-yo-my-yo.json) |
 | Yo-Ho Kablammo | 67690 | [67690-yo-ho-kablammo.json](./67690-yo-ho-kablammo.json) |
@@ -1069,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yurutto Manaberu Sekai no Kaiga | 251618 | [251618-yurutto-manaberu-sekai-no-kaiga.json](./251618-yurutto-manaberu-sekai-no-kaiga.json) |
 | Yurutto Manaberu Tetsugaku | 260694 | [260694-yurutto-manaberu-tetsugaku.json](./260694-yurutto-manaberu-tetsugaku.json) |
 | YuruYuri: Perfect Math | 319688 | [319688-yuruyuri-perfect-math.json](./319688-yuruyuri-perfect-math.json) |
+| Yuruyuru Gekijou: Gekijou Ban 1 | 222368 | [222368-yuruyuru-gekijou-gekijou-ban-1.json](./222368-yuruyuru-gekijou-gekijou-ban-1.json) |
 | Yury | 17823 | [17823-yury.json](./17823-yury.json) |
 | Yusetsu | 211178 | [211178-yusetsu.json](./211178-yusetsu.json) |
 | Yusha no Hanamichi | 331863 | [331863-yusha-no-hanamichi.json](./331863-yusha-no-hanamichi.json) |
