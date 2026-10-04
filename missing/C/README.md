@@ -3493,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickaboom | 314663 | [314663-chickaboom.json](./314663-chickaboom.json) |
 | Chickcharge | 413055 | [413055-chickcharge.json](./413055-chickcharge.json) |
 | Chicken | 94716 | [94716-chicken.json](./94716-chicken.json) |
+| Chicken & Egg | 224992 | [224992-chicken-and-egg.json](./224992-chicken-and-egg.json) |
 | Chicken ~Boiled Egg~ | 99769 | [99769-chicken-boiled-egg.json](./99769-chicken-boiled-egg.json) |
 | Chicken and Duck Brothers | 218699 | [218699-chicken-and-duck-brothers.json](./218699-chicken-and-duck-brothers.json) |
 | Chicken Assassin: Reloaded | 100501 | [100501-chicken-assassin-reloaded.json](./100501-chicken-assassin-reloaded.json) |
@@ -6012,6 +6013,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color of Love | 339410 | [339410-color-of-love.json](./339410-color-of-love.json) |
 | Color of My Sound: Volume 1 | 309534 | [309534-color-of-my-sound-volume-1.json](./309534-color-of-my-sound-volume-1.json) |
 | Color Patterns | 369688 | [369688-color-patterns.json](./369688-color-patterns.json) |
+| Color Pixel Heroes: Expansion Pack 1 | 225006 | [225006-color-pixel-heroes-expansion-pack-1.json](./225006-color-pixel-heroes-expansion-pack-1.json) |
+| Color Pixel Heroes: Expansion Pack 2 | 225007 | [225007-color-pixel-heroes-expansion-pack-2.json](./225007-color-pixel-heroes-expansion-pack-2.json) |
 | Color Reflex Challenge | 253018 | [253018-color-reflex-challenge.json](./253018-color-reflex-challenge.json) |
 | Color Retro Racer: Miles Challenge | 81790 | [81790-color-retro-racer-miles-challenge.json](./81790-color-retro-racer-miles-challenge.json) |
 | Color Rings Puzzle | 104652 | [104652-color-rings-puzzle.json](./104652-color-rings-puzzle.json) |
@@ -6126,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Game: Little City | 130402 | [130402-coloring-game-little-city.json](./130402-coloring-game-little-city.json) |
 | Coloring Game: Studio | 273998 | [273998-coloring-game-studio.json](./273998-coloring-game-studio.json) |
 | Coloring Games for Families+ | 415287 | [415287-coloring-games-for-families.json](./415287-coloring-games-for-families.json) |
+| Coloring Pixels: Advent 3 Pack | 225002 | [225002-coloring-pixels-advent-3-pack.json](./225002-coloring-pixels-advent-3-pack.json) |
 | Coloring Pixels: Advent 4 Pack | 227467 | [227467-coloring-pixels-advent-4-pack.json](./227467-coloring-pixels-advent-4-pack.json) |
 | Coloring Pixels: Advent 6 Pack | 351619 | [351619-coloring-pixels-advent-6-pack.json](./351619-coloring-pixels-advent-6-pack.json) |
 | Coloring Pixels: Candy Pack | 351621 | [351621-coloring-pixels-candy-pack.json](./351621-coloring-pixels-candy-pack.json) |
@@ -6141,6 +6145,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Halloween 3 Pack | 222817 | [222817-coloring-pixels-halloween-3-pack.json](./222817-coloring-pixels-halloween-3-pack.json) |
 | Coloring Pixels: Halloween 4 Pack | 222818 | [222818-coloring-pixels-halloween-4-pack.json](./222818-coloring-pixels-halloween-4-pack.json) |
 | Coloring Pixels: Halloween 6 Pack | 351620 | [351620-coloring-pixels-halloween-6-pack.json](./351620-coloring-pixels-halloween-6-pack.json) |
+| Coloring Pixels: Illusions Pack | 225003 | [225003-coloring-pixels-illusions-pack.json](./225003-coloring-pixels-illusions-pack.json) |
+| Coloring Pixels: Insects Pack | 225004 | [225004-coloring-pixels-insects-pack.json](./225004-coloring-pixels-insects-pack.json) |
 | Coloring Pixels: Isometric 3 Pack | 351618 | [351618-coloring-pixels-isometric-3-pack.json](./351618-coloring-pixels-isometric-3-pack.json) |
 | Coloring Pixels: Japan Pack | 241318 | [241318-coloring-pixels-japan-pack.json](./241318-coloring-pixels-japan-pack.json) |
 | Coloring Pixels: Magic Pack | 259861 | [259861-coloring-pixels-magic-pack.json](./259861-coloring-pixels-magic-pack.json) |
@@ -6156,6 +6162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Realistic 2 Pack | 351623 | [351623-coloring-pixels-realistic-2-pack.json](./351623-coloring-pixels-realistic-2-pack.json) |
 | Coloring Pixels: Retro Pack | 194648 | [194648-coloring-pixels-retro-pack.json](./194648-coloring-pixels-retro-pack.json) |
 | Coloring Pixels: Steampunk Pack | 231329 | [231329-coloring-pixels-steampunk-pack.json](./231329-coloring-pixels-steampunk-pack.json) |
+| Coloring Pixels: Tarot Pack | 225005 | [225005-coloring-pixels-tarot-pack.json](./225005-coloring-pixels-tarot-pack.json) |
 | Coloring Pixels: Transport Pack | 255253 | [255253-coloring-pixels-transport-pack.json](./255253-coloring-pixels-transport-pack.json) |
 | Coloring Pixels: Vistas Pack 3 | 305513 | [305513-coloring-pixels-vistas-pack-3.json](./305513-coloring-pixels-vistas-pack-3.json) |
 | Coloring Pixels: Zodiac Pack | 351625 | [351625-coloring-pixels-zodiac-pack.json](./351625-coloring-pixels-zodiac-pack.json) |
