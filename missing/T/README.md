@@ -1504,6 +1504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taurus War | 290701 | [290701-taurus-war.json](./290701-taurus-war.json) |
 | Tavenier | 81420 | [81420-tavenier.json](./81420-tavenier.json) |
 | Tavern Cards | 129098 | [129098-tavern-cards.json](./129098-tavern-cards.json) |
+| Tavern Crawl | 192234 | [192234-tavern-crawl.json](./192234-tavern-crawl.json) |
 | Tavern Deep Cauldron | 401024 | [401024-tavern-deep-cauldron.json](./401024-tavern-deep-cauldron.json) |
 | Tavern Girl | 290949 | [290949-tavern-girl.json](./290949-tavern-girl.json) |
 | Tavern Girl: Expansion Pack | 297738 | [297738-tavern-girl-expansion-pack.json](./297738-tavern-girl-expansion-pack.json) |
@@ -9572,6 +9573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treasures of Mystery Island 3: The Ghost Ship | 54295 | [54295-the-treasures-of-mystery-island-3-the-ghost-ship.json](./54295-the-treasures-of-mystery-island-3-the-ghost-ship.json) |
 | The Treasures of Mystery Island: The Ghost Ship | 53772 | [53772-the-treasures-of-mystery-island-the-ghost-ship.json](./53772-the-treasures-of-mystery-island-the-ghost-ship.json) |
 | The Tree | 156064 | [156064-the-tree.json](./156064-the-tree.json) |
+| The Tree | 192232 | [192232-the-tree.json](./192232-the-tree.json) |
 | The Tree Of Life | 295248 | [295248-the-tree-of-life.json](./295248-the-tree-of-life.json) |
 | The Treehouse Man | 102317 | [102317-the-treehouse-man.json](./102317-the-treehouse-man.json) |
 | The Treflik Family: Deluxe Edition | 246883 | [246883-the-treflik-family-deluxe-edition.json](./246883-the-treflik-family-deluxe-edition.json) |
@@ -15849,6 +15851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Seas Incorporated | 271390 | [271390-treasure-seas-incorporated.json](./271390-treasure-seas-incorporated.json) |
 | Treasure Seekers: The Time Has Come | 226208 | [226208-treasure-seekers-the-time-has-come.json](./226208-treasure-seekers-the-time-has-come.json) |
 | Treasure Seekers: Visions of Gold HD | 24285 | [24285-treasure-seekers-visions-of-gold-hd.json](./24285-treasure-seekers-visions-of-gold-hd.json) |
+| Treasure Sprinter | 192265 | [192265-treasure-sprinter.json](./192265-treasure-sprinter.json) |
 | Treasure Star | 247746 | [247746-treasure-star.json](./247746-treasure-star.json) |
 | Treasure Tech | 140468 | [140468-treasure-tech.json](./140468-treasure-tech.json) |
 | Treasure Tomb VR | 153375 | [153375-treasure-tomb-vr.json](./153375-treasure-tomb-vr.json) |
@@ -16627,6 +16630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trypan | 392263 | [392263-trypan.json](./392263-trypan.json) |
 | Tryptic | 326688 | [326688-tryptic.json](./326688-tryptic.json) |
 | Tryst | 11030 | [11030-tryst.json](./11030-tryst.json) |
+| Ts Fantasy | 192247 | [192247-ts-fantasy.json](./192247-ts-fantasy.json) |
 | TS Marketplace: 1800s Rolling Stock Pack 02 Add-On | 227296 | [227296-ts-marketplace-1800s-rolling-stock-pack-02-add-on.json](./227296-ts-marketplace-1800s-rolling-stock-pack-02-add-on.json) |
 | TS Marketplace: B&O Mountain Subdivision Scenario Pack 01 | 227287 | [227287-ts-marketplace-b-and-o-mountain-subdivision-scenario-pack-01.json](./227287-ts-marketplace-b-and-o-mountain-subdivision-scenario-pack-01.json) |
 | TS Marketplace: Baltimore & Ohio RF-16 Livery Pack | 227304 | [227304-ts-marketplace-baltimore-and-ohio-rf-16-livery-pack.json](./227304-ts-marketplace-baltimore-and-ohio-rf-16-livery-pack.json) |
