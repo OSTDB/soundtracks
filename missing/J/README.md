@@ -1714,11 +1714,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump on the Ball | 329380 | [329380-jump-on-the-ball.json](./329380-jump-on-the-ball.json) |
 | Jump or Roll Game | 246987 | [246987-jump-or-roll-game.json](./246987-jump-or-roll-game.json) |
 | Jump Out | 280310 | [280310-jump-out.json](./280310-jump-out.json) |
+| Jump Over the Age Collection | 200500 | [200500-jump-over-the-age-collection.json](./200500-jump-over-the-age-collection.json) |
 | Jump Pals | 291704 | [291704-jump-pals.json](./291704-jump-pals.json) |
 | Jump Penguin Final | 279256 | [279256-jump-penguin-final.json](./279256-jump-penguin-final.json) |
 | Jump Protocol | 411816 | [411816-jump-protocol.json](./411816-jump-protocol.json) |
 | Jump Puzzle | 244369 | [244369-jump-puzzle.json](./244369-jump-puzzle.json) |
 | Jump Race | 324998 | [324998-jump-race.json](./324998-jump-race.json) |
+| Jump Runner | 200543 | [200543-jump-runner.json](./200543-jump-runner.json) |
 | Jump Shot | 46858 | [46858-jump-shot.json](./46858-jump-shot.json) |
 | Jump Sky-High Collection | 334097 | [334097-jump-sky-high-collection.json](./334097-jump-sky-high-collection.json) |
 | Jump Squad | 218412 | [218412-jump-squad.json](./218412-jump-squad.json) |
