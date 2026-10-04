@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekoglai Simulator | 193409 | [193409-nekoglai-simulator.json](./193409-nekoglai-simulator.json) |
 | Nekograms | 187838 | [187838-nekograms.json](./187838-nekograms.json) |
 | Nekogumi | 352309 | [352309-nekogumi.json](./352309-nekogumi.json) |
+| Nekojara Monogatari | 213302 | [213302-nekojara-monogatari.json](./213302-nekojara-monogatari.json) |
 | Nekokami: The Human Restoration Project | 289424 | [289424-nekokami-the-human-restoration-project.json](./289424-nekokami-the-human-restoration-project.json) |
 | Nekoman | 97829 | [97829-nekoman.json](./97829-nekoman.json) |
 | Nekomancer of Nowhere | 325512 | [325512-nekomancer-of-nowhere.json](./325512-nekomancer-of-nowhere.json) |
