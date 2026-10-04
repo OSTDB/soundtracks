@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yabai Girls: Heavenly Homemaker | 385065 | [385065-yabai-girls-heavenly-homemaker.json](./385065-yabai-girls-heavenly-homemaker.json) |
 | Yabai Girls: Valentine Babe | 390508 | [390508-yabai-girls-valentine-babe.json](./390508-yabai-girls-valentine-babe.json) |
 | Yacht | 376676 | [376676-yacht.json](./376676-yacht.json) |
+| Yacht Dice: Global League | 187262 | [187262-yacht-dice-global-league.json](./187262-yacht-dice-global-league.json) |
 | Yacht Haven Tycoon: Marina Port Parking Simulator | 300828 | [300828-yacht-haven-tycoon-marina-port-parking-simulator.json](./300828-yacht-haven-tycoon-marina-port-parking-simulator.json) |
 | Yacht Mechanic Simulator | 133364 | [133364-yacht-mechanic-simulator.json](./133364-yacht-mechanic-simulator.json) |
 | Yacht Simulator VR | 90853 | [90853-yacht-simulator-vr.json](./90853-yacht-simulator-vr.json) |
