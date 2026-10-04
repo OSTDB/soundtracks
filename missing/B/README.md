@@ -4080,6 +4080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bindmancer | 254006 | [254006-bindmancer.json](./254006-bindmancer.json) |
 | Bing Bong Blippo | 274436 | [274436-bing-bong-blippo.json](./274436-bing-bong-blippo.json) |
 | Bing Chilling | 371333 | [371333-bing-chilling.json](./371333-bing-chilling.json) |
+| Bing in Wonderland | 216705 | [216705-bing-in-wonderland.json](./216705-bing-in-wonderland.json) |
 | Bing In Wonderland: Deluxe Edition | 291676 | [291676-bing-in-wonderland-deluxe-edition.json](./291676-bing-in-wonderland-deluxe-edition.json) |
 | Bing in Wonderland: Wings & Weapon Looks - Azure Dragon | 325436 | [325436-bing-in-wonderland-wings-and-weapon-looks-azure-dragon.json](./325436-bing-in-wonderland-wings-and-weapon-looks-azure-dragon.json) |
 | Bing in Wonderland: Wings & Weapon Looks - Black Tortoise | 325440 | [325440-bing-in-wonderland-wings-and-weapon-looks-black-tortoise.json](./325440-bing-in-wonderland-wings-and-weapon-looks-black-tortoise.json) |
@@ -7687,6 +7688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Stars: Year Of The Tiger | 318578 | [318578-brawl-stars-year-of-the-tiger.json](./318578-brawl-stars-year-of-the-tiger.json) |
 | Brawl Tactics: Origins | 258089 | [258089-brawl-tactics-origins.json](./258089-brawl-tactics-origins.json) |
 | Brawlberry | 273961 | [273961-brawlberry.json](./273961-brawlberry.json) |
+| Brawler Bro's | 216698 | [216698-brawler-bros.json](./216698-brawler-bros.json) |
 | Brawler Friends | 58185 | [58185-brawler-friends.json](./58185-brawler-friends.json) |
 | Brawler Friends | 58186 | [58186-brawler-friends.json](./58186-brawler-friends.json) |
 | Brawlers | 266240 | [266240-brawlers.json](./266240-brawlers.json) |
@@ -7918,6 +7920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brewess | 245835 | [245835-brewess.json](./245835-brewess.json) |
 | Brewgether | 406123 | [406123-brewgether.json](./406123-brewgether.json) |
 | Brewing Drawings | 184891 | [184891-brewing-drawings.json](./184891-brewing-drawings.json) |
+| Brewmastery: Tavern Simulator | 216697 | [216697-brewmastery-tavern-simulator.json](./216697-brewmastery-tavern-simulator.json) |
 | Brewpub Simulator | 213483 | [213483-brewpub-simulator.json](./213483-brewpub-simulator.json) |
 | Brews & Bastards | 265392 | [265392-brews-and-bastards.json](./265392-brews-and-bastards.json) |
 | Brewtopia | 319384 | [319384-brewtopia.json](./319384-brewtopia.json) |
@@ -9018,6 +9021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger | 302367 | [302367-burger.json](./302367-burger.json) |
 | Burger Bois | 347908 | [347908-burger-bois.json](./347908-burger-bois.json) |
 | Burger Bots Inc. | 365101 | [365101-burger-bots-inc.json](./365101-burger-bots-inc.json) |
+| Burger Butt | 216703 | [216703-burger-butt.json](./216703-burger-butt.json) |
 | Burger Chef Tycoon | 122869 | [122869-burger-chef-tycoon.json](./122869-burger-chef-tycoon.json) |
 | Burger Chef Tycoon: Co-op Edition | 250363 | [250363-burger-chef-tycoon-co-op-edition.json](./250363-burger-chef-tycoon-co-op-edition.json) |
 | Burger Chef Tycoon: Complete Edition | 199110 | [199110-burger-chef-tycoon-complete-edition.json](./199110-burger-chef-tycoon-complete-edition.json) |
