@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2-in-1 Geminim/Siamond | 338795 | [338795-2-in-1-geminim-siamond.json](./338795-2-in-1-geminim-siamond.json) |
 | 2-in-1 Kart Racing Bundle | 331455 | [331455-2-in-1-kart-racing-bundle.json](./331455-2-in-1-kart-racing-bundle.json) |
 | 2-taku de Koishite Mune-kyun | 251629 | [251629-2-taku-de-koishite-mune-kyun.json](./251629-2-taku-de-koishite-mune-kyun.json) |
+| 2: A Game About Everyone's Favourite Sorting System! | 181739 | [181739-2-a-game-about-everyones-favourite-sorting-system.json](./181739-2-a-game-about-everyones-favourite-sorting-system.json) |
 | 2/29 | 288841 | [288841-2-29.json](./288841-2-29.json) |
 | 20 All-Time Favorites | 91382 | [91382-20-all-time-favorites.json](./91382-20-all-time-favorites.json) |
 | 20 Billion Wives | 56146 | [56146-20-billion-wives.json](./56146-20-billion-wives.json) |
