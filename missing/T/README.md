@@ -3659,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bureau of Fantastical & Arcane Affairs | 347886 | [347886-the-bureau-of-fantastical-and-arcane-affairs.json](./347886-the-bureau-of-fantastical-and-arcane-affairs.json) |
 | The Bureau: XCOM Declassified | 244 | [244-the-bureau-xcom-declassified.json](./244-the-bureau-xcom-declassified.json) |
 | The Burger Quiz | 219172 | [219172-the-burger-quiz.json](./219172-the-burger-quiz.json) |
+| The Burgle Cats | 191665 | [191665-the-burgle-cats.json](./191665-the-burgle-cats.json) |
 | The Buried Pillars | 397841 | [397841-the-buried-pillars.json](./397841-the-buried-pillars.json) |
 | The Burned Ground | 115701 | [115701-the-burned-ground.json](./115701-the-burned-ground.json) |
 | The Burnt School | 147978 | [147978-the-burnt-school.json](./147978-the-burnt-school.json) |
@@ -8477,6 +8478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Maike Island | 318396 | [318396-the-secret-of-maike-island.json](./318396-the-secret-of-maike-island.json) |
 | The Secret of Manes | 364049 | [364049-the-secret-of-manes.json](./364049-the-secret-of-manes.json) |
 | The Secret of Middle City | 31133 | [31133-the-secret-of-middle-city.json](./31133-the-secret-of-middle-city.json) |
+| The Secret of Monkey Island: Recoded | 191638 | [191638-the-secret-of-monkey-island-recoded.json](./191638-the-secret-of-monkey-island-recoded.json) |
 | The Secret of Monkey Island: Special Edition | 65 | [65-the-secret-of-monkey-island-special-edition.json](./65-the-secret-of-monkey-island-special-edition.json) |
 | The Secret of NecroNancy | 283802 | [283802-the-secret-of-necronancy.json](./283802-the-secret-of-necronancy.json) |
 | The Secret of Pineview Forest | 33267 | [33267-the-secret-of-pineview-forest.json](./33267-the-secret-of-pineview-forest.json) |
@@ -9817,6 +9819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Volcano | 125463 | [125463-the-volcano.json](./125463-the-volcano.json) |
 | The Volleyball B | 214475 | [214475-the-volleyball-b.json](./214475-the-volleyball-b.json) |
 | The Voluntary Chipping | 272366 | [272366-the-voluntary-chipping.json](./272366-the-voluntary-chipping.json) |
+| The Voluptuous Demon Queen and our Shoebox Apartment Life | 191659 | [191659-the-voluptuous-demon-queen-and-our-shoebox-apartment-life.json](./191659-the-voluptuous-demon-queen-and-our-shoebox-apartment-life.json) |
 | The Vomit | 323535 | [323535-the-vomit.json](./323535-the-vomit.json) |
 | The Vorezkor Hack | 273417 | [273417-the-vorezkor-hack.json](./273417-the-vorezkor-hack.json) |
 | The Vorlec | 266289 | [266289-the-vorlec.json](./266289-the-vorlec.json) |
@@ -10117,6 +10120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Woods: VR Escape the Room | 114975 | [114975-the-woods-vr-escape-the-room.json](./114975-the-woods-vr-escape-the-room.json) |
 | The Woodsman | 225558 | [225558-the-woodsman.json](./225558-the-woodsman.json) |
 | The Word is Not the Thing | 74468 | [74468-the-word-is-not-the-thing.json](./74468-the-word-is-not-the-thing.json) |
+| The Words Within | 191657 | [191657-the-words-within.json](./191657-the-words-within.json) |
 | The World 3: Rise of Demon | 91965 | [91965-the-world-3-rise-of-demon.json](./91965-the-world-3-rise-of-demon.json) |
 | The World A Robot Girl Dream Of | 82871 | [82871-the-world-a-robot-girl-dream-of.json](./82871-the-world-a-robot-girl-dream-of.json) |
 | The World According to Girl | 192823 | [192823-the-world-according-to-girl.json](./192823-the-world-according-to-girl.json) |
