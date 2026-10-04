@@ -7929,6 +7929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courier Chief Tycoon | 237086 | [237086-courier-chief-tycoon.json](./237086-courier-chief-tycoon.json) |
 | Courier Life Simulator | 380089 | [380089-courier-life-simulator.json](./380089-courier-life-simulator.json) |
 | Courier Simulator | 349514 | [349514-courier-simulator.json](./349514-courier-simulator.json) |
+| Courier Tale | 202171 | [202171-courier-tale.json](./202171-courier-tale.json) |
 | Couroland | 223516 | [223516-couroland.json](./223516-couroland.json) |
 | Court of Ashes | 120941 | [120941-court-of-ashes.json](./120941-court-of-ashes.json) |
 | Court of Darkness: Captivation's Kiss | 399622 | [399622-court-of-darkness-captivations-kiss.json](./399622-court-of-darkness-captivations-kiss.json) |
@@ -10204,6 +10205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Town | 31597 | [31597-custom-town.json](./31597-custom-town.json) |
 | Customers From Hell: Game For Retail Workers | 148899 | [148899-customers-from-hell-game-for-retail-workers.json](./148899-customers-from-hell-game-for-retail-workers.json) |
 | Customplay Golf 2010 | 21118 | [21118-customplay-golf-2010.json](./21118-customplay-golf-2010.json) |
+| Cut | 202201 | [202201-cut.json](./202201-cut.json) |
 | Cut 2017 | 91411 | [91411-cut-2017.json](./91411-cut-2017.json) |
 | Cut Cats' Balls | 410309 | [410309-cut-cats-balls.json](./410309-cut-cats-balls.json) |
 | Cut Cut Buffet | 29753 | [29753-cut-cut-buffet.json](./29753-cut-cut-buffet.json) |
