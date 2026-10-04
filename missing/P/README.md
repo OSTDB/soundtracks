@@ -1603,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Warband | 215692 | [215692-path-to-warband.json](./215692-path-to-warband.json) |
 | Path Weaver | 296644 | [296644-path-weaver.json](./296644-path-weaver.json) |
 | Path: Through the Forest | 151598 | [151598-path-through-the-forest.json](./151598-path-through-the-forest.json) |
+| PathCraft | 204340 | [204340-pathcraft.json](./204340-pathcraft.json) |
 | Pathfinder | 282100 | [282100-pathfinder.json](./282100-pathfinder.json) |
 | Pathfinder Adventures | 36611 | [36611-pathfinder-adventures.json](./36611-pathfinder-adventures.json) |
 | Pathfinder Puzzle | 158182 | [158182-pathfinder-puzzle.json](./158182-pathfinder-puzzle.json) |
@@ -6060,6 +6061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Bear Cub: games for kids | 90028 | [90028-polar-bear-cub-games-for-kids.json](./90028-polar-bear-cub-games-for-kids.json) |
 | Polar Bear Game | 234574 | [234574-polar-bear-game.json](./234574-polar-bear-game.json) |
 | Polar Bear in Space! | 250934 | [250934-polar-bear-in-space.json](./250934-polar-bear-in-space.json) |
+| Polar Bear Riding A Ninja | 204320 | [204320-polar-bear-riding-a-ninja.json](./204320-polar-bear-riding-a-ninja.json) |
 | Polar Bear Simulator | 106147 | [106147-polar-bear-simulator.json](./106147-polar-bear-simulator.json) |
 | Polar Bowler | 44071 | [44071-polar-bowler.json](./44071-polar-bowler.json) |
 | Polar Bowler 1st Frame | 294452 | [294452-polar-bowler-1st-frame.json](./294452-polar-bowler-1st-frame.json) |
@@ -9171,6 +9173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putin Jigsaw | 343309 | [343309-putin-jigsaw.json](./343309-putin-jigsaw.json) |
 | Putin Kills: Coronavirus | 393108 | [393108-putin-kills-coronavirus.json](./393108-putin-kills-coronavirus.json) |
 | Putin Life | 130049 | [130049-putin-life.json](./130049-putin-life.json) |
+| Putin Orcs Defender | 204421 | [204421-putin-orcs-defender.json](./204421-putin-orcs-defender.json) |
 | Putin takes taxes | 86569 | [86569-putin-takes-taxes.json](./86569-putin-takes-taxes.json) |
 | Putin, Boobs and Trump | 96940 | [96940-putin-boobs-and-trump.json](./96940-putin-boobs-and-trump.json) |
 | Putinization | 102919 | [102919-putinization.json](./102919-putinization.json) |
