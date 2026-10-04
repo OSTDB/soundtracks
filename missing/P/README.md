@@ -4149,6 +4149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Art Bundle Vol. 1 | 132864 | [132864-pixel-art-bundle-vol-1.json](./132864-pixel-art-bundle-vol-1.json) |
 | Pixel Art: Color by Number | 87040 | [87040-pixel-art-color-by-number.json](./87040-pixel-art-color-by-number.json) |
 | Pixel Artist | 220876 | [220876-pixel-artist.json](./220876-pixel-artist.json) |
+| Pixel Artist Simulator | 177892 | [177892-pixel-artist-simulator.json](./177892-pixel-artist-simulator.json) |
 | Pixel Battle Royale | 113686 | [113686-pixel-battle-royale.json](./113686-pixel-battle-royale.json) |
 | Pixel Blitz - Impossible Runner | 86913 | [86913-pixel-blitz-impossible-runner.json](./86913-pixel-blitz-impossible-runner.json) |
 | Pixel Blocked! | 92491 | [92491-pixel-blocked.json](./92491-pixel-blocked.json) |
@@ -8035,6 +8036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progress Bar Deluxe | 371861 | [371861-progress-bar-deluxe.json](./371861-progress-bar-deluxe.json) |
 | Progress Bar Simulator | 130747 | [130747-progress-bar-simulator.json](./130747-progress-bar-simulator.json) |
 | Progress Bar Simulator DLC - H.O.R.S.E. 1st | 141662 | [141662-progress-bar-simulator-dlc-h-o-r-s-e-1st.json](./141662-progress-bar-simulator-dlc-h-o-r-s-e-1st.json) |
+| Progress Knight | 177814 | [177814-progress-knight.json](./177814-progress-knight.json) |
 | Progress Orders | 328491 | [328491-progress-orders.json](./328491-progress-orders.json) |
 | Progress Quest | 94363 | [94363-progress-quest.json](./94363-progress-quest.json) |
 | Progressbar Popup Fighter | 250015 | [250015-progressbar-popup-fighter.json](./250015-progressbar-popup-fighter.json) |
