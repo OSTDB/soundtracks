@@ -2020,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Flower | 230959 | [230959-red-flower.json](./230959-red-flower.json) |
 | Red Flu | 81217 | [81217-red-flu.json](./81217-red-flu.json) |
 | Red Fox and the Four Seasons | 148529 | [148529-red-fox-and-the-four-seasons.json](./148529-red-fox-and-the-four-seasons.json) |
+| Red Fox and the Four Seasons: Design My Forest | 212679 | [212679-red-fox-and-the-four-seasons-design-my-forest.json](./212679-red-fox-and-the-four-seasons-design-my-forest.json) |
 | Red Fox and the Four Seasons: Design My Forest 2 | 215895 | [215895-red-fox-and-the-four-seasons-design-my-forest-2.json](./215895-red-fox-and-the-four-seasons-design-my-forest-2.json) |
 | Red Fox: Exploration on the the Red Fox Island | 358886 | [358886-red-fox-exploration-on-the-the-red-fox-island.json](./358886-red-fox-exploration-on-the-the-red-fox-island.json) |
 | Red Galaxy | 156534 | [156534-red-galaxy.json](./156534-red-galaxy.json) |
