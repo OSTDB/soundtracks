@@ -2068,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss Pinball | 43917 | [43917-kiss-pinball.json](./43917-kiss-pinball.json) |
 | Kiss Rock City: Be A Rockstar | 265419 | [265419-kiss-rock-city-be-a-rockstar.json](./265419-kiss-rock-city-be-a-rockstar.json) |
 | Kiss the Demiurge | 215593 | [215593-kiss-the-demiurge.json](./215593-kiss-the-demiurge.json) |
+| Kiss the Ghoul | 178478 | [178478-kiss-the-ghoul.json](./178478-kiss-the-ghoul.json) |
 | Kiss the Girl | 216174 | [216174-kiss-the-girl.json](./216174-kiss-the-girl.json) |
 | Kiss Yori... | 73766 | [73766-kiss-yori.json](./73766-kiss-yori.json) |
 | Kissa | 181891 | [181891-kissa.json](./181891-kissa.json) |
@@ -2464,6 +2465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of the Round Torus | 186245 | [186245-knights-of-the-round-torus.json](./186245-knights-of-the-round-torus.json) |
 | Knights of the Temple: Infernal Crusade | 1222 | [1222-knights-of-the-temple-infernal-crusade.json](./1222-knights-of-the-temple-infernal-crusade.json) |
 | Knights of the Throne | 249927 | [249927-knights-of-the-throne.json](./249927-knights-of-the-throne.json) |
+| Knights of the Tiny Table | 178403 | [178403-knights-of-the-tiny-table.json](./178403-knights-of-the-tiny-table.json) |
 | Knights of the Zodiac: The Phoenix Returns | 224457 | [224457-knights-of-the-zodiac-the-phoenix-returns.json](./224457-knights-of-the-zodiac-the-phoenix-returns.json) |
 | Knights of Valour | 76639 | [76639-knights-of-valour.json](./76639-knights-of-valour.json) |
 | Knights of Valour | 83926 | [83926-knights-of-valour.json](./83926-knights-of-valour.json) |
