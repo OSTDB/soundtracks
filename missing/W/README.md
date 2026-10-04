@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wangan Midnight Maximum Tune 5DX | 315270 | [315270-wangan-midnight-maximum-tune-5dx.json](./315270-wangan-midnight-maximum-tune-5dx.json) |
 | Wangan Midnight Maximum Tune 5DX+ | 315271 | [315271-wangan-midnight-maximum-tune-5dx.json](./315271-wangan-midnight-maximum-tune-5dx.json) |
 | Wangan Midnight Maximum Tune 6 RR+ | 315272 | [315272-wangan-midnight-maximum-tune-6-rr.json](./315272-wangan-midnight-maximum-tune-6-rr.json) |
+| Wangan Midnight: R | 215170 | [215170-wangan-midnight-r.json](./215170-wangan-midnight-r.json) |
 | Wangan Sensen Red City | 231525 | [231525-wangan-sensen-red-city.json](./231525-wangan-sensen-red-city.json) |
 | Wangan Trial | 182444 | [182444-wangan-trial.json](./182444-wangan-trial.json) |
 | Wangan Warrior X | 81883 | [81883-wangan-warrior-x.json](./81883-wangan-warrior-x.json) |
