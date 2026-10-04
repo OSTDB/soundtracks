@@ -522,6 +522,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakuraba Ema's Intertwining Threshold | 418771 | [418771-sakuraba-emas-intertwining-threshold.json](./418771-sakuraba-emas-intertwining-threshold.json) |
 | Sakurairo Prism | 234149 | [234149-sakurairo-prism.json](./234149-sakurairo-prism.json) |
 | Sakuya Izayoi Gives You Advice and Dabs | 129389 | [129389-sakuya-izayoi-gives-you-advice-and-dabs.json](./129389-sakuya-izayoi-gives-you-advice-and-dabs.json) |
+| Sakuya-san Crisis & SakuTaku | 210549 | [210549-sakuya-san-crisis-and-sakutaku.json](./210549-sakuya-san-crisis-and-sakutaku.json) |
+| Sakuya-san Crisis 2: The Linkage Of Servant Trial | 210553 | [210553-sakuya-san-crisis-2-the-linkage-of-servant-trial.json](./210553-sakuya-san-crisis-2-the-linkage-of-servant-trial.json) |
+| Sakuya-san Crisis: The Perfect Elegant Skill | 210534 | [210534-sakuya-san-crisis-the-perfect-elegant-skill.json](./210534-sakuya-san-crisis-the-perfect-elegant-skill.json) |
 | Sal. | 266231 | [266231-sal.json](./266231-sal.json) |
 | Sala de Juegos 3D | 414507 | [414507-sala-de-juegos-3d.json](./414507-sala-de-juegos-3d.json) |
 | Salaam | 127341 | [127341-salaam.json](./127341-salaam.json) |
@@ -1147,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satori | 336391 | [336391-satori.json](./336391-satori.json) |
 | Satori no Atelier | 210610 | [210610-satori-no-atelier.json](./210610-satori-no-atelier.json) |
 | Satori no Atelier 2: Alice vs. Ikari no Death Danmaku Settai | 210613 | [210613-satori-no-atelier-2-alice-vs-ikari-no-death-danmaku-settai.json](./210613-satori-no-atelier-2-alice-vs-ikari-no-death-danmaku-settai.json) |
+| Satori no Dungeon Oukoku: The Heart Of Crossed Memory - | 210552 | [210552-satori-no-dungeon-oukoku-the-heart-of-crossed-memory.json](./210552-satori-no-dungeon-oukoku-the-heart-of-crossed-memory.json) |
 | Satori's Atelier 1+2 | 210664 | [210664-satoris-atelier-1-2.json](./210664-satoris-atelier-1-2.json) |
 | Satori's Dungeon Kingdom 2: The Heart Of Masked Memory | 210591 | [210591-satoris-dungeon-kingdom-2-the-heart-of-masked-memory.json](./210591-satoris-dungeon-kingdom-2-the-heart-of-masked-memory.json) |
 | Satoru Gojo Backshot Simulator | 320904 | [320904-satoru-gojo-backshot-simulator.json](./320904-satoru-gojo-backshot-simulator.json) |
@@ -3542,6 +3546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Tomb Raider: The Serpent's Heart | 116003 | [116003-shadow-of-the-tomb-raider-the-serpents-heart.json](./116003-shadow-of-the-tomb-raider-the-serpents-heart.json) |
 | Shadow of the Wyrm | 77656 | [77656-shadow-of-the-wyrm.json](./77656-shadow-of-the-wyrm.json) |
 | Shadow of Winter | 374067 | [374067-shadow-of-winter.json](./374067-shadow-of-winter.json) |
+| Shadow of Witch Marionette | 210516 | [210516-shadow-of-witch-marionette.json](./210516-shadow-of-witch-marionette.json) |
 | Shadow Over Isolation | 32944 | [32944-shadow-over-isolation.json](./32944-shadow-over-isolation.json) |
 | Shadow Over Normoth | 183057 | [183057-shadow-over-normoth.json](./183057-shadow-over-normoth.json) |
 | Shadow Over the Twelve Lands | 305338 | [305338-shadow-over-the-twelve-lands.json](./305338-shadow-over-the-twelve-lands.json) |
@@ -8385,6 +8390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solatorobo: Red the Hunter | 9597 | [9597-solatorobo-red-the-hunter.json](./9597-solatorobo-red-the-hunter.json) |
 | Solbot Energy Rush | 105401 | [105401-solbot-energy-rush.json](./105401-solbot-energy-rush.json) |
 | Solbreak Skirmish | 413881 | [413881-solbreak-skirmish.json](./413881-solbreak-skirmish.json) |
+| SolChicks | 210557 | [210557-solchicks.json](./210557-solchicks.json) |
 | Solcialists | 272581 | [272581-solcialists.json](./272581-solcialists.json) |
 | SolCycle | 349993 | [349993-solcycle.json](./349993-solcycle.json) |
 | Sold Out | 253337 | [253337-sold-out.json](./253337-sold-out.json) |
