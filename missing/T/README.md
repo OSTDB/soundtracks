@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarzan VR: #3 The Dead of the Night | 219569 | [219569-tarzan-vr-3-the-dead-of-the-night.json](./219569-tarzan-vr-3-the-dead-of-the-night.json) |
 | Tarzan: Lord of the Jungle | 228974 | [228974-tarzan-lord-of-the-jungle.json](./228974-tarzan-lord-of-the-jungle.json) |
 | Tasac | 48805 | [48805-tasac.json](./48805-tasac.json) |
+| Tasac 2010 | 195060 | [195060-tasac-2010.json](./195060-tasac-2010.json) |
 | Tashikani | 298155 | [298155-tashikani.json](./298155-tashikani.json) |
 | Tashio Tempo | 403579 | [403579-tashio-tempo.json](./403579-tashio-tempo.json) |
 | Task Attack | 106957 | [106957-task-attack.json](./106957-task-attack.json) |
@@ -10883,6 +10884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Ray | 201592 | [201592-thunder-ray.json](./201592-thunder-ray.json) |
 | Thunder Ray: Forgotten Duels | 288274 | [288274-thunder-ray-forgotten-duels.json](./288274-thunder-ray-forgotten-duels.json) |
 | Thunder Roar | 218121 | [218121-thunder-roar.json](./218121-thunder-roar.json) |
+| Thunder Shooting | 195061 | [195061-thunder-shooting.json](./195061-thunder-shooting.json) |
 | Thunder Spirits | 46662 | [46662-thunder-spirits.json](./46662-thunder-spirits.json) |
 | Thunder Storm LX-3 & Road Blaster | 55870 | [55870-thunder-storm-lx-3-and-road-blaster.json](./55870-thunder-storm-lx-3-and-road-blaster.json) |
 | Thunder Striker | 187478 | [187478-thunder-striker.json](./187478-thunder-striker.json) |
@@ -15789,6 +15791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunt | 246370 | [246370-treasure-hunt.json](./246370-treasure-hunt.json) |
 | Treasure Hunt | 366840 | [366840-treasure-hunt.json](./366840-treasure-hunt.json) |
 | Treasure Hunt Girl | 270114 | [270114-treasure-hunt-girl.json](./270114-treasure-hunt-girl.json) |
+| Treasure Hunter | 195062 | [195062-treasure-hunter.json](./195062-treasure-hunter.json) |
 | Treasure Hunter | 242235 | [242235-treasure-hunter.json](./242235-treasure-hunter.json) |
 | Treasure Hunter | 250307 | [250307-treasure-hunter.json](./250307-treasure-hunter.json) |
 | Treasure Hunter | 309493 | [309493-treasure-hunter.json](./309493-treasure-hunter.json) |
@@ -16569,6 +16572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trust & Safety: Armed Conflict | 401484 | [401484-trust-and-safety-armed-conflict.json](./401484-trust-and-safety-armed-conflict.json) |
 | Trust Me Bro, I Trade | 384515 | [384515-trust-me-bro-i-trade.json](./384515-trust-me-bro-i-trade.json) |
 | Trust Me, Not Her | 191176 | [191176-trust-me-not-her.json](./191176-trust-me-not-her.json) |
+| Trust No Bunny | 195028 | [195028-trust-no-bunny.json](./195028-trust-no-bunny.json) |
 | Trust the blackbird | 183986 | [183986-trust-the-blackbird.json](./183986-trust-the-blackbird.json) |
 | Trust Your Ears | 249193 | [249193-trust-your-ears.json](./249193-trust-your-ears.json) |
 | Truth | 259040 | [259040-truth.json](./259040-truth.json) |
