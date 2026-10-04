@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panel Rabbit | 253611 | [253611-panel-rabbit.json](./253611-panel-rabbit.json) |
 | Panel Room: Escape Game | 276927 | [276927-panel-room-escape-game.json](./276927-panel-room-escape-game.json) |
 | Panelka | 331522 | [331522-panelka.json](./331522-panelka.json) |
+| Panelki | 192269 | [192269-panelki.json](./192269-panelki.json) |
 | Panels | 298248 | [298248-panels.json](./298248-panels.json) |
 | Paneltia Story: Karen no Daibouken | 97339 | [97339-paneltia-story-karen-no-daibouken.json](./97339-paneltia-story-karen-no-daibouken.json) |
 | Pang & Bang | 110963 | [110963-pang-and-bang.json](./110963-pang-and-bang.json) |
@@ -4485,6 +4486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Town: Akanemachi Sideshow | 298162 | [298162-pixel-town-akanemachi-sideshow.json](./298162-pixel-town-akanemachi-sideshow.json) |
 | Pixel Traffic: Highway Racing | 102216 | [102216-pixel-traffic-highway-racing.json](./102216-pixel-traffic-highway-racing.json) |
 | Pixel Troopers | 351752 | [351752-pixel-troopers.json](./351752-pixel-troopers.json) |
+| Pixel Trouble | 192235 | [192235-pixel-trouble.json](./192235-pixel-trouble.json) |
 | Pixel Waifu: Escape From the Dark Corporation. The Telepathic Power of a Lovestruck Otaku | 398558 | [398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json](./398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json) |
 | Pixel Wars | 239600 | [239600-pixel-wars.json](./239600-pixel-wars.json) |
 | Pixel Washer | 263778 | [263778-pixel-washer.json](./263778-pixel-washer.json) |
@@ -5254,6 +5256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pluk van de Petteflet | 269556 | [269556-pluk-van-de-petteflet.json](./269556-pluk-van-de-petteflet.json) |
 | Plum Bun Reformatted | 190063 | [190063-plum-bun-reformatted.json](./190063-plum-bun-reformatted.json) |
 | Plum Road Tea Dream | 361293 | [361293-plum-road-tea-dream.json](./361293-plum-road-tea-dream.json) |
+| Plumb | 192243 | [192243-plumb.json](./192243-plumb.json) |
 | Plumber | 148446 | [148446-plumber.json](./148446-plumber.json) |
 | Plumber | 246358 | [246358-plumber.json](./246358-plumber.json) |
 | Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
@@ -6941,6 +6944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pow Pow: Dye it up! | 195728 | [195728-pow-pow-dye-it-up.json](./195728-pow-pow-dye-it-up.json) |
 | Pow Vista | 250335 | [250335-pow-vista.json](./250335-pow-vista.json) |
 | Pow: Horyo | 131376 | [131376-pow-horyo.json](./131376-pow-horyo.json) |
+| Pow! 2 | 192252 | [192252-pow-2.json](./192252-pow-2.json) |
 | Powargrid | 33257 | [33257-powargrid.json](./33257-powargrid.json) |
 | PowBall Deluxe | 412564 | [412564-powball-deluxe.json](./412564-powball-deluxe.json) |
 | PowBall Renaissance | 54508 | [54508-powball-renaissance.json](./54508-powball-renaissance.json) |
@@ -8378,6 +8382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project X Zone: Limited Edition | 89877 | [89877-project-x-zone-limited-edition.json](./89877-project-x-zone-limited-edition.json) |
 | Project X: Love Potion Disaster | 218729 | [218729-project-x-love-potion-disaster.json](./218729-project-x-love-potion-disaster.json) |
 | Project Xinatra | 31934 | [31934-project-xinatra.json](./31934-project-xinatra.json) |
+| Project Xmas | 192250 | [192250-project-xmas.json](./192250-project-xmas.json) |
 | Project Xsting | 278987 | [278987-project-xsting.json](./278987-project-xsting.json) |
 | Project XY | 178645 | [178645-project-xy.json](./178645-project-xy.json) |
 | Project Z | 126431 | [126431-project-z.json](./126431-project-z.json) |
@@ -8708,6 +8713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Storm | 280322 | [280322-psychic-storm.json](./280322-psychic-storm.json) |
 | Psychic Ward: Kill The Seven King Dragon | 370283 | [370283-psychic-ward-kill-the-seven-king-dragon.json](./370283-psychic-ward-kill-the-seven-king-dragon.json) |
 | Psycho | 179574 | [179574-psycho.json](./179574-psycho.json) |
+| Psycho | 192245 | [192245-psycho.json](./192245-psycho.json) |
 | Psycho | 320238 | [320238-psycho.json](./320238-psycho.json) |
 | Psycho | 378393 | [378393-psycho.json](./378393-psycho.json) |
 | Psycho Boy: Dasshutsu Game | 223968 | [223968-psycho-boy-dasshutsu-game.json](./223968-psycho-boy-dasshutsu-game.json) |
