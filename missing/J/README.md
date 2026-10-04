@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack's House | 88314 | [88314-jacks-house.json](./88314-jacks-house.json) |
 | Jackal | 212707 | [212707-jackal.json](./212707-jackal.json) |
 | Jackal | 25334 | [25334-jackal.json](./25334-jackal.json) |
+| Jackal Squad: Pixel World War | 199978 | [199978-jackal-squad-pixel-world-war.json](./199978-jackal-squad-pixel-world-war.json) |
 | Jackass: The Game | 2805 | [2805-jackass-the-game.json](./2805-jackass-the-game.json) |
 | Jackass: The Game DS | 79808 | [79808-jackass-the-game-ds.json](./79808-jackass-the-game-ds.json) |
 | Jacked | 124685 | [124685-jacked.json](./124685-jacked.json) |
