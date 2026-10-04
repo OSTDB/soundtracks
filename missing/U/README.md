@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uknon Jones: Portal | 390105 | [390105-uknon-jones-portal.json](./390105-uknon-jones-portal.json) |
 | Ukosz | 319181 | [319181-ukosz.json](./319181-ukosz.json) |
 | Ukraina Battle Tank!: Putin Edition | 207372 | [207372-ukraina-battle-tank-putin-edition.json](./207372-ukraina-battle-tank-putin-edition.json) |
+| Ukraine Defense Force Tactics | 204321 | [204321-ukraine-defense-force-tactics.json](./204321-ukraine-defense-force-tactics.json) |
 | Ukraine War 2022 | 287734 | [287734-ukraine-war-2022.json](./287734-ukraine-war-2022.json) |
 | Ukrainian ball in search of gas | 91409 | [91409-ukrainian-ball-in-search-of-gas.json](./91409-ukrainian-ball-in-search-of-gas.json) |
 | Ukrainian Warfare: Gostomel Heroes | 391787 | [391787-ukrainian-warfare-gostomel-heroes.json](./391787-ukrainian-warfare-gostomel-heroes.json) |
@@ -889,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Farm | 184648 | [184648-under-the-farm.json](./184648-under-the-farm.json) |
 | Under the Ghost Mountain | 156975 | [156975-under-the-ghost-mountain.json](./156975-under-the-ghost-mountain.json) |
 | Under the Island | 151501 | [151501-under-the-island.json](./151501-under-the-island.json) |
+| Under the Moon | 204327 | [204327-under-the-moon.json](./204327-under-the-moon.json) |
 | Under the Moon: Tsukiiro Ehon | 72682 | [72682-under-the-moon-tsukiiro-ehon.json](./72682-under-the-moon-tsukiiro-ehon.json) |
 | Under the Ocean | 50821 | [50821-under-the-ocean.json](./50821-under-the-ocean.json) |
 | Under the Rain | 180043 | [180043-under-the-rain.json](./180043-under-the-rain.json) |
