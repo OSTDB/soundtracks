@@ -2835,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninjas Infinity | 339842 | [339842-ninjas-infinity.json](./339842-ninjas-infinity.json) |
 | Ninjas on Trampolines | 351613 | [351613-ninjas-on-trampolines.json](./351613-ninjas-on-trampolines.json) |
 | Ninjas Stars | 344967 | [344967-ninjas-stars.json](./344967-ninjas-stars.json) |
+| Ninjas: Stolen Scrolls | 196647 | [196647-ninjas-stolen-scrolls.json](./196647-ninjas-stolen-scrolls.json) |
 | NinjaThea 2 | 341479 | [341479-ninjathea-2.json](./341479-ninjathea-2.json) |
 | Ninjatown | 2825 | [2825-ninjatown.json](./2825-ninjatown.json) |
 | Ninjatown: Trees of Doom! | 21755 | [21755-ninjatown-trees-of-doom.json](./21755-ninjatown-trees-of-doom.json) |
