@@ -3649,6 +3649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Training IQ Quiz for Kids | 401131 | [401131-logic-training-iq-quiz-for-kids.json](./401131-logic-training-iq-quiz-for-kids.json) |
 | Logic: Keypad | 235993 | [235993-logic-keypad.json](./235993-logic-keypad.json) |
 | Logica Emotica | 203540 | [203540-logica-emotica.json](./203540-logica-emotica.json) |
+| Logicality | 203762 | [203762-logicality.json](./203762-logicality.json) |
 | LogicBots | 27141 | [27141-logicbots.json](./27141-logicbots.json) |
 | Logicubes | 211285 | [211285-logicubes.json](./211285-logicubes.json) |
 | Logik | 204947 | [204947-logik.json](./204947-logik.json) |
