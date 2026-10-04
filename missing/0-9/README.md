@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16 Personalities Simulator | 397789 | [397789-16-personalities-simulator.json](./397789-16-personalities-simulator.json) |
 | 16 Shot! Shooting Watch | 85823 | [85823-16-shot-shooting-watch.json](./85823-16-shot-shooting-watch.json) |
 | 16: The Ultimate 15 Puzzle | 357974 | [357974-16-the-ultimate-15-puzzle.json](./357974-16-the-ultimate-15-puzzle.json) |
+| 16Bit Rhythm Land | 213860 | [213860-16bit-rhythm-land.json](./213860-16bit-rhythm-land.json) |
 | 16bit-Collection Athena Vol. 01 | 97891 | [97891-16bit-collection-athena-vol-01.json](./97891-16bit-collection-athena-vol-01.json) |
 | 16bit-Collection Culture Brain Vol. 02 | 97888 | [97888-16bit-collection-culture-brain-vol-02.json](./97888-16bit-collection-culture-brain-vol-02.json) |
 | 16bit-Collection Data East Vol. 02 | 97894 | [97894-16bit-collection-data-east-vol-02.json](./97894-16bit-collection-data-east-vol-02.json) |
