@@ -1464,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerl's Crazy C"rough"t! | 311598 | [311598-nerls-crazy-c-rough-t.json](./311598-nerls-crazy-c-rough-t.json) |
 | Nero | 156570 | [156570-nero.json](./156570-nero.json) |
 | NERO: Neuro-Evolving Robotic Operatives | 7616 | [7616-nero-neuro-evolving-robotic-operatives.json](./7616-nero-neuro-evolving-robotic-operatives.json) |
+| Nerraia | 192270 | [192270-nerraia.json](./192270-nerraia.json) |
 | Nerts Extreme | 107660 | [107660-nerts-extreme.json](./107660-nerts-extreme.json) |
 | Nerts!: Online | 142226 | [142226-nerts-online.json](./142226-nerts-online.json) |
 | Nertz Solitaire | 405645 | [405645-nertz-solitaire.json](./405645-nertz-solitaire.json) |
