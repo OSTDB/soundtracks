@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Battle | 156979 | [156979-ultimate-battle.json](./156979-ultimate-battle.json) |
 | Ultimate Battle Kingdom | 390507 | [390507-ultimate-battle-kingdom.json](./390507-ultimate-battle-kingdom.json) |
 | Ultimate Battle Royale PvP | 90675 | [90675-ultimate-battle-royale-pvp.json](./90675-ultimate-battle-royale-pvp.json) |
+| Ultimate Battle Simulation War | 193834 | [193834-ultimate-battle-simulation-war.json](./193834-ultimate-battle-simulation-war.json) |
 | Ultimate Beach Soccer | 248631 | [248631-ultimate-beach-soccer.json](./248631-ultimate-beach-soccer.json) |
 | Ultimate Beach Soccer | 49353 | [49353-ultimate-beach-soccer.json](./49353-ultimate-beach-soccer.json) |
 | Ultimate Blackball | 243383 | [243383-ultimate-blackball.json](./243383-ultimate-blackball.json) |
