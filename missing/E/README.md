@@ -3551,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyday House Tamagotchi | 222427 | [222427-everyday-house-tamagotchi.json](./222427-everyday-house-tamagotchi.json) |
 | Everyday Jigsaw | 87088 | [87088-everyday-jigsaw.json](./87088-everyday-jigsaw.json) |
 | Everyday Life Fragments | 344535 | [344535-everyday-life-fragments.json](./344535-everyday-life-fragments.json) |
+| Everyday Misanthrope | 176316 | [176316-everyday-misanthrope.json](./176316-everyday-misanthrope.json) |
 | Everyday Puzzles | 247087 | [247087-everyday-puzzles.json](./247087-everyday-puzzles.json) |
 | Everyday Shooter | 14911 | [14911-everyday-shooter.json](./14911-everyday-shooter.json) |
 | Everyday Soccer | 61342 | [61342-everyday-soccer.json](./61342-everyday-soccer.json) |
