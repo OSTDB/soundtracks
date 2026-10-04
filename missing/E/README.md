@@ -3089,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Supreme | 210881 | [210881-eternal-supreme.json](./210881-eternal-supreme.json) |
 | Eternal Survival | 341100 | [341100-eternal-survival.json](./341100-eternal-survival.json) |
 | Eternal Threads | 116400 | [116400-eternal-threads.json](./116400-eternal-threads.json) |
+| Eternal Tree | 199967 | [199967-eternal-tree.json](./199967-eternal-tree.json) |
 | Eternal Tree | 339116 | [339116-eternal-tree.json](./339116-eternal-tree.json) |
 | Eternal Troops | 399083 | [399083-eternal-troops.json](./399083-eternal-troops.json) |
 | Eternal Vampire | 336640 | [336640-eternal-vampire.json](./336640-eternal-vampire.json) |
