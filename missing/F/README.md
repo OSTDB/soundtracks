@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Ball 2018 | 103160 | [103160-falling-ball-2018.json](./103160-falling-ball-2018.json) |
 | Falling Ball Blue | 107128 | [107128-falling-ball-blue.json](./107128-falling-ball-blue.json) |
 | Falling Ball Ocean | 107167 | [107167-falling-ball-ocean.json](./107167-falling-ball-ocean.json) |
+| Falling Ballz | 214404 | [214404-falling-ballz.json](./214404-falling-ballz.json) |
 | Falling Blocks | 105389 | [105389-falling-blocks.json](./105389-falling-blocks.json) |
 | Falling Blocks | 237333 | [237333-falling-blocks.json](./237333-falling-blocks.json) |
 | Falling Bricks: Endless Smash | 390784 | [390784-falling-bricks-endless-smash.json](./390784-falling-bricks-endless-smash.json) |
@@ -3525,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nations: Renegades | 259059 | [259059-five-nations-renegades.json](./259059-five-nations-renegades.json) |
 | Five New-Fangled Nights | 382958 | [382958-five-new-fangled-nights.json](./382958-five-new-fangled-nights.json) |
 | Five Nighs at Fairy's | 405066 | [405066-five-nighs-at-fairys.json](./405066-five-nighs-at-fairys.json) |
+| Five Night's at Freddy's: The Silver Eyes Fangame | 214429 | [214429-five-nights-at-freddys-the-silver-eyes-fangame.json](./214429-five-nights-at-freddys-the-silver-eyes-fangame.json) |
 | Five Nights at Backrooms: Waifu Edition | 277828 | [277828-five-nights-at-backrooms-waifu-edition.json](./277828-five-nights-at-backrooms-waifu-edition.json) |
 | Five Nights At Bidens | 257665 | [257665-five-nights-at-bidens.json](./257665-five-nights-at-bidens.json) |
 | Five Nights at Candy's | 45983 | [45983-five-nights-at-candys.json](./45983-five-nights-at-candys.json) |
@@ -3666,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flag Color Number: Painting and Coloring | 147382 | [147382-flag-color-number-painting-and-coloring.json](./147382-flag-color-number-painting-and-coloring.json) |
 | Flag Defender! | 262656 | [262656-flag-defender.json](./262656-flag-defender.json) |
 | Flag Defense | 213012 | [213012-flag-defense.json](./213012-flag-defense.json) |
+| Flag Kaihi: Dasshutsu Game | 214379 | [214379-flag-kaihi-dasshutsu-game.json](./214379-flag-kaihi-dasshutsu-game.json) |
 | Flag N Frag | 33157 | [33157-flag-n-frag.json](./33157-flag-n-frag.json) |
 | Flag Solitaire + Quiz - A Brain Game | 101051 | [101051-flag-solitaire-quiz-a-brain-game.json](./101051-flag-solitaire-quiz-a-brain-game.json) |
 | Flag Trivia Quiz: Four Choices! | 378803 | [378803-flag-trivia-quiz-four-choices.json](./378803-flag-trivia-quiz-four-choices.json) |
@@ -4206,6 +4209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Florarium | 258454 | [258454-florarium.json](./258454-florarium.json) |
 | Floratic | 147334 | [147334-floratic.json](./147334-floratic.json) |
 | Flore | 204527 | [204527-flore.json](./204527-flore.json) |
+| Florealia | 214563 | [214563-florealia.json](./214563-florealia.json) |
 | Florensia | 34922 | [34922-florensia.json](./34922-florensia.json) |
 | Florescer | 159058 | [159058-florescer.json](./159058-florescer.json) |
 | Floresia I: Intemporel | 80897 | [80897-floresia-i-intemporel.json](./80897-floresia-i-intemporel.json) |
@@ -7054,6 +7058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi na Sekai no Kankou Nikki | 309359 | [309359-fushigi-na-sekai-no-kankou-nikki.json](./309359-fushigi-na-sekai-no-kankou-nikki.json) |
 | Fushigi no Daibouken: Cirno Kenzan! | 142878 | [142878-fushigi-no-daibouken-cirno-kenzan.json](./142878-fushigi-no-daibouken-cirno-kenzan.json) |
 | Fushigi no Daibouken: Cirno Kenzan! 2 | 142894 | [142894-fushigi-no-daibouken-cirno-kenzan-2.json](./142894-fushigi-no-daibouken-cirno-kenzan-2.json) |
+| Fushigi no Daibouken: Cirno Kenzan! 2+1 | 214426 | [214426-fushigi-no-daibouken-cirno-kenzan-2-1.json](./214426-fushigi-no-daibouken-cirno-kenzan-2-1.json) |
 | Fushigi no Dungeon 2: Fuurai no Shiren | 103496 | [103496-fushigi-no-dungeon-2-fuurai-no-shiren.json](./103496-fushigi-no-dungeon-2-fuurai-no-shiren.json) |
 | Fushigi no Dungeon: Fuurai no Shiren 2 - Oni Shuurai! Shiren-jou! | 67376 | [67376-fushigi-no-dungeon-fuurai-no-shiren-2-oni-shuurai-shiren-jou.json](./67376-fushigi-no-dungeon-fuurai-no-shiren-2-oni-shuurai-shiren-jou.json) |
 | Fushigi no Dungeon: Fuurai no Shiren 3 Portable | 80618 | [80618-fushigi-no-dungeon-fuurai-no-shiren-3-portable.json](./80618-fushigi-no-dungeon-fuurai-no-shiren-3-portable.json) |
