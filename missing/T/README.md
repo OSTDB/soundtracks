@@ -2638,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TetraTower | 183506 | [183506-tetratower.json](./183506-tetratower.json) |
 | Tetri-Pentix | 87930 | [87930-tetri-pentix.json](./87930-tetri-pentix.json) |
 | Tetri3D | 88285 | [88285-tetri3d.json](./88285-tetri3d.json) |
+| Tetrible | 184434 | [184434-tetrible.json](./184434-tetrible.json) |
 | Tetrigram | 195489 | [195489-tetrigram.json](./195489-tetrigram.json) |
 | Tetriller | 84247 | [84247-tetriller.json](./84247-tetriller.json) |
 | TetriMatch | 339273 | [339273-tetrimatch.json](./339273-tetrimatch.json) |
@@ -2851,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's So Raven: Psychic on the Scene | 47951 | [47951-thats-so-raven-psychic-on-the-scene.json](./47951-thats-so-raven-psychic-on-the-scene.json) |
 | That's the Spirit | 57354 | [57354-thats-the-spirit.json](./57354-thats-the-spirit.json) |
 | Thaumistry: In Charm's Way | 27280 | [27280-thaumistry-in-charms-way.json](./27280-thaumistry-in-charms-way.json) |
+| ThaumOS | 184462 | [184462-thaumos.json](./184462-thaumos.json) |
 | Thawed Waters | 260254 | [260254-thawed-waters.json](./260254-thawed-waters.json) |
 | The "Quiet, Please!" Collection | 95193 | [95193-the-quiet-please-collection.json](./95193-the-quiet-please-collection.json) |
 | The $100,000 Pyramid | 12372 | [12372-the-100-000-pyramid.json](./12372-the-100-000-pyramid.json) |
@@ -3637,6 +3639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Breach | 361308 | [361308-the-breach.json](./361308-the-breach.json) |
 | The Bread Must Rise | 245926 | [245926-the-bread-must-rise.json](./245926-the-bread-must-rise.json) |
 | The Bread Pub Brawlers | 86118 | [86118-the-bread-pub-brawlers.json](./86118-the-bread-pub-brawlers.json) |
+| The Bricksperience | 184370 | [184370-the-bricksperience.json](./184370-the-bricksperience.json) |
 | The Bride of Vampire | 271711 | [271711-the-bride-of-vampire.json](./271711-the-bride-of-vampire.json) |
 | The Bridge | 352753 | [352753-the-bridge.json](./352753-the-bridge.json) |
 | The Bridge | 8440 | [8440-the-bridge.json](./8440-the-bridge.json) |
@@ -4451,6 +4454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil's Face | 236215 | [236215-the-devils-face.json](./236215-the-devils-face.json) |
 | The Devil's Gambit | 186082 | [186082-the-devils-gambit.json](./186082-the-devils-gambit.json) |
 | The Devil's Garden | 105280 | [105280-the-devils-garden.json](./105280-the-devils-garden.json) |
+| The Devil's Gospel | 184448 | [184448-the-devils-gospel.json](./184448-the-devils-gospel.json) |
 | The Devil's Men | 7613 | [7613-the-devils-men.json](./7613-the-devils-men.json) |
 | The Devilry Reservation | 239673 | [239673-the-devilry-reservation.json](./239673-the-devilry-reservation.json) |
 | The Devilry Reservation: Сhapter II | 263036 | [263036-the-devilry-reservation-hapter-ii.json](./263036-the-devilry-reservation-hapter-ii.json) |
@@ -5384,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Mare | 364663 | [364663-the-golden-mare.json](./364663-the-golden-mare.json) |
 | The Golden Pearl | 179142 | [179142-the-golden-pearl.json](./179142-the-golden-pearl.json) |
 | The Golden Tower | 362911 | [362911-the-golden-tower.json](./362911-the-golden-tower.json) |
+| The Golden Tulip | 184460 | [184460-the-golden-tulip.json](./184460-the-golden-tulip.json) |
 | The Golem | 138674 | [138674-the-golem.json](./138674-the-golem.json) |
 | The Golf Club 2019 featuring PGA Tour | 91128 | [91128-the-golf-club-2019-featuring-pga-tour.json](./91128-the-golf-club-2019-featuring-pga-tour.json) |
 | The Golf Club VR | 27545 | [27545-the-golf-club-vr.json](./27545-the-golf-club-vr.json) |
@@ -6234,6 +6239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Knight in Pajamas | 352314 | [352314-the-knight-in-pajamas.json](./352314-the-knight-in-pajamas.json) |
 | The Knight of Nephiart | 151700 | [151700-the-knight-of-nephiart.json](./151700-the-knight-of-nephiart.json) |
 | The Knight of Niraking | 392162 | [392162-the-knight-of-niraking.json](./392162-the-knight-of-niraking.json) |
+| The Knight of the Castles | 184453 | [184453-the-knight-of-the-castles.json](./184453-the-knight-of-the-castles.json) |
 | The Knight of Turn | 192667 | [192667-the-knight-of-turn.json](./192667-the-knight-of-turn.json) |
 | The Knight's Magic War | 113045 | [113045-the-knights-magic-war.json](./113045-the-knights-magic-war.json) |
 | The Knight's Path | 258981 | [258981-the-knights-path.json](./258981-the-knights-path.json) |
@@ -11101,6 +11107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tickets, Please! | 364668 | [364668-tickets-please.json](./364668-tickets-please.json) |
 | Tickets, Please! | 406202 | [406202-tickets-please.json](./406202-tickets-please.json) |
 | Ticking Tea Time | 327184 | [327184-ticking-tea-time.json](./327184-ticking-tea-time.json) |
+| Tickle Dice | 184436 | [184436-tickle-dice.json](./184436-tickle-dice.json) |
 | Ticktock | 104010 | [104010-ticktock.json](./104010-ticktock.json) |
 | Ticky's Tower of Time | 328030 | [328030-tickys-tower-of-time.json](./328030-tickys-tower-of-time.json) |
 | TicTacToe 3D | 87605 | [87605-tictactoe-3d.json](./87605-tictactoe-3d.json) |
@@ -15939,6 +15946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure of Cutlass Reef | 261211 | [261211-treasure-of-cutlass-reef.json](./261211-treasure-of-cutlass-reef.json) |
 | Treasure Of The Giantess | 271275 | [271275-treasure-of-the-giantess.json](./271275-treasure-of-the-giantess.json) |
 | Treasure Protector | 309479 | [309479-treasure-protector.json](./309479-treasure-protector.json) |
+| Treasure Punks | 184439 | [184439-treasure-punks.json](./184439-treasure-punks.json) |
 | Treasure Quest | 100213 | [100213-treasure-quest.json](./100213-treasure-quest.json) |
 | Treasure Quest | 140498 | [140498-treasure-quest.json](./140498-treasure-quest.json) |
 | Treasure Quest | 50132 | [50132-treasure-quest.json](./50132-treasure-quest.json) |
