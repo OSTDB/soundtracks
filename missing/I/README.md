@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice-Story | 130886 | [130886-ice-story.json](./130886-ice-story.json) |
 | Ice! | 370207 | [370207-ice.json](./370207-ice.json) |
 | Iceberg Command | 256311 | [256311-iceberg-command.json](./256311-iceberg-command.json) |
+| Icebergs | 180076 | [180076-icebergs.json](./180076-icebergs.json) |
 | Iceblox | 94254 | [94254-iceblox.json](./94254-iceblox.json) |
 | Icebound | 298181 | [298181-icebound.json](./298181-icebound.json) |
 | Icebound | 36123 | [36123-icebound.json](./36123-icebound.json) |
