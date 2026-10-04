@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Griddlers | 156671 | [156671-magic-griddlers.json](./156671-magic-griddlers.json) |
 | Magic Griddlers 2 | 101555 | [101555-magic-griddlers-2.json](./101555-magic-griddlers-2.json) |
 | Magic Gun | 115171 | [115171-magic-gun.json](./115171-magic-gun.json) |
+| Magic Guqin | 197702 | [197702-magic-guqin.json](./197702-magic-guqin.json) |
 | Magic Halloween Escape | 315601 | [315601-magic-halloween-escape.json](./315601-magic-halloween-escape.json) |
 | Magic Halloween Escape 2 | 315602 | [315602-magic-halloween-escape-2.json](./315602-magic-halloween-escape-2.json) |
 | Magic Halloween Escape 3 | 315603 | [315603-magic-halloween-escape-3.json](./315603-magic-halloween-escape-3.json) |
@@ -1474,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamusphere of the Forgotten | 124621 | [124621-mamusphere-of-the-forgotten.json](./124621-mamusphere-of-the-forgotten.json) |
 | Mamzer Corp | 404991 | [404991-mamzer-corp.json](./404991-mamzer-corp.json) |
 | Man and Dog: Small Game Hunt | 337651 | [337651-man-and-dog-small-game-hunt.json](./337651-man-and-dog-small-game-hunt.json) |
+| Man at Arms TD | 197713 | [197713-man-at-arms-td.json](./197713-man-at-arms-td.json) |
 | Man Boy vs. Doctor Sock | 327272 | [327272-man-boy-vs-doctor-sock.json](./327272-man-boy-vs-doctor-sock.json) |
 | Man Face Spider I | 132773 | [132773-man-face-spider-i.json](./132773-man-face-spider-i.json) |
 | Man For Takeaway | 323844 | [323844-man-for-takeaway.json](./323844-man-for-takeaway.json) |
@@ -7914,6 +7916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Doo | 234551 | [234551-monkey-doo.json](./234551-monkey-doo.json) |
 | Monkey Doomsday | 190192 | [190192-monkey-doomsday.json](./190192-monkey-doomsday.json) |
 | Monkey Drive | 328612 | [328612-monkey-drive.json](./328612-monkey-drive.json) |
+| Monkey Drum Deluxe | 197707 | [197707-monkey-drum-deluxe.json](./197707-monkey-drum-deluxe.json) |
 | Monkey Flight 2 | 257368 | [257368-monkey-flight-2.json](./257368-monkey-flight-2.json) |
 | Monkey Forward | 295553 | [295553-monkey-forward.json](./295553-monkey-forward.json) |
 | Monkey Fright | 257405 | [257405-monkey-fright.json](./257405-monkey-fright.json) |
@@ -9171,6 +9174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Championship 26 | 385089 | [385089-moto-championship-26.json](./385089-moto-championship-26.json) |
 | Moto Extreme | 70342 | [70342-moto-extreme.json](./70342-moto-extreme.json) |
 | Moto GP: Ultimate racing technology | 8268 | [8268-moto-gp-ultimate-racing-technology.json](./8268-moto-gp-ultimate-racing-technology.json) |
+| Moto Hero | 197706 | [197706-moto-hero.json](./197706-moto-hero.json) |
 | Moto Heyalda | 175288 | [175288-moto-heyalda.json](./175288-moto-heyalda.json) |
 | Moto Knight | 287203 | [287203-moto-knight.json](./287203-moto-knight.json) |
 | Moto Mania Dirt Bike Challenge | 102829 | [102829-moto-mania-dirt-bike-challenge.json](./102829-moto-mania-dirt-bike-challenge.json) |
@@ -11153,6 +11157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery | 167267 | [167267-mystery.json](./167267-mystery.json) |
 | Mystery Adventure The Maid Did It | 402378 | [402378-mystery-adventure-the-maid-did-it.json](./402378-mystery-adventure-the-maid-did-it.json) |
 | Mystery at Rainy Night Manor: The Missing Invitation | 409657 | [409657-mystery-at-rainy-night-manor-the-missing-invitation.json](./409657-mystery-at-rainy-night-manor-the-missing-invitation.json) |
+| Mystery At Woodbrook Hall: Hidden Object Game | 197743 | [197743-mystery-at-woodbrook-hall-hidden-object-game.json](./197743-mystery-at-woodbrook-hall-hidden-object-game.json) |
 | Mystery Box 4-in-1 Bundle | 328508 | [328508-mystery-box-4-in-1-bundle.json](./328508-mystery-box-4-in-1-bundle.json) |
 | Mystery Box 5: Elements | 292251 | [292251-mystery-box-5-elements.json](./292251-mystery-box-5-elements.json) |
 | Mystery Box: Escape The Room | 259740 | [259740-mystery-box-escape-the-room.json](./259740-mystery-box-escape-the-room.json) |
