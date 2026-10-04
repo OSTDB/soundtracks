@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnar's Chinese Memory Game | 156112 | [156112-ragnars-chinese-memory-game.json](./156112-ragnars-chinese-memory-game.json) |
 | Ragnarock | 139399 | [139399-ragnarock.json](./139399-ragnarock.json) |
 | Ragnarock: Vikings On Tour | 247655 | [247655-ragnarock-vikings-on-tour.json](./247655-ragnarock-vikings-on-tour.json) |
+| Ragnarok Arena | 214383 | [214383-ragnarok-arena.json](./214383-ragnarok-arena.json) |
 | Ragnarok Battle Offline: Extra Scenario 1 | 67953 | [67953-ragnarok-battle-offline-extra-scenario-1.json](./67953-ragnarok-battle-offline-extra-scenario-1.json) |
 | Ragnarok Battle Offline: Extra Scenario 2 | 67951 | [67951-ragnarok-battle-offline-extra-scenario-2.json](./67951-ragnarok-battle-offline-extra-scenario-2.json) |
 | Ragnarok Begins | 223978 | [223978-ragnarok-begins.json](./223978-ragnarok-begins.json) |
