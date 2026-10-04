@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.O.M.A.D. | 226135 | [226135-n-o-m-a-d.json](./226135-n-o-m-a-d.json) |
 | N.O.N.E.Z. | 376062 | [376062-n-o-n-e-z.json](./376062-n-o-n-e-z.json) |
 | N.O.R.E.D: The War on Christmas | 181330 | [181330-n-o-r-e-d-the-war-on-christmas.json](./181330-n-o-r-e-d-the-war-on-christmas.json) |
+| N.O.V.A. | 210542 | [210542-n-o-v-a.json](./210542-n-o-v-a.json) |
 | N.O.V.A. 3 | 38883 | [38883-n-o-v-a-3.json](./38883-n-o-v-a-3.json) |
 | N.O.V.A. 3: Freedom Edition | 38930 | [38930-n-o-v-a-3-freedom-edition.json](./38930-n-o-v-a-3-freedom-edition.json) |
 | N.O.V.A. Legacy | 39004 | [39004-n-o-v-a-legacy.json](./39004-n-o-v-a-legacy.json) |
@@ -427,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Unleashed | 334076 | [334076-nascar-unleashed.json](./334076-nascar-unleashed.json) |
 | Nascar Web Racing | 209153 | [209153-nascar-web-racing.json](./209153-nascar-web-racing.json) |
 | NASCAR: Dirt to Daytona | 2898 | [2898-nascar-dirt-to-daytona.json](./2898-nascar-dirt-to-daytona.json) |
+| NASCAR: Rivals | 210512 | [210512-nascar-rivals.json](./210512-nascar-rivals.json) |
 | NASCAR: Superspeedway | 245430 | [245430-nascar-superspeedway.json](./245430-nascar-superspeedway.json) |
 | NASCAR: The Game 2013 | 21630 | [21630-nascar-the-game-2013.json](./21630-nascar-the-game-2013.json) |
 | Nascence | 129649 | [129649-nascence.json](./129649-nascence.json) |
@@ -2040,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL Face Off '97 | 43696 | [43696-nhl-face-off-97.json](./43696-nhl-face-off-97.json) |
 | NHL Hitz 2003 | 4047 | [4047-nhl-hitz-2003.json](./4047-nhl-hitz-2003.json) |
 | NHL Hockey | 210102 | [210102-nhl-hockey.json](./210102-nhl-hockey.json) |
+| NHL Hockey | 210499 | [210499-nhl-hockey.json](./210499-nhl-hockey.json) |
 | NHL Hockey 2000 | 299312 | [299312-nhl-hockey-2000.json](./299312-nhl-hockey-2000.json) |
 | NHL Open Ice | 209404 | [209404-nhl-open-ice.json](./209404-nhl-open-ice.json) |
 | NHL Rock the Rink | 44843 | [44843-nhl-rock-the-rink.json](./44843-nhl-rock-the-rink.json) |
@@ -3409,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nona's Game | 211925 | [211925-nonas-game.json](./211925-nonas-game.json) |
 | Nonamed | 84264 | [84264-nonamed.json](./84264-nonamed.json) |
 | None | 229652 | [229652-none.json](./229652-none.json) |
+| None Left | 210543 | [210543-none-left.json](./210543-none-left.json) |
 | None Like It Hot! | 287306 | [287306-none-like-it-hot.json](./287306-none-like-it-hot.json) |
 | None Tank Age | 239616 | [239616-none-tank-age.json](./239616-none-tank-age.json) |
 | Noneday | 387549 | [387549-noneday.json](./387549-noneday.json) |
@@ -3636,6 +3640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Alone | 184094 | [184094-not-alone.json](./184094-not-alone.json) |
 | Not Alone | 223040 | [223040-not-alone.json](./223040-not-alone.json) |
 | Not an Aim Trainer | 305776 | [305776-not-an-aim-trainer.json](./305776-not-an-aim-trainer.json) |
+| Not Another Advent Story | 210496 | [210496-not-another-advent-story.json](./210496-not-another-advent-story.json) |
 | Not Another Weekend | 140388 | [140388-not-another-weekend.json](./140388-not-another-weekend.json) |
 | Not Burned Evil | 276977 | [276977-not-burned-evil.json](./276977-not-burned-evil.json) |
 | Not Dead Yet | 143500 | [143500-not-dead-yet.json](./143500-not-dead-yet.json) |
@@ -3902,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nude and Afraid: 11 Day Challenge | 270962 | [270962-nude-and-afraid-11-day-challenge.json](./270962-nude-and-afraid-11-day-challenge.json) |
 | Nudel Tag | 270113 | [270113-nudel-tag.json](./270113-nudel-tag.json) |
 | Nudist Beach Survival Simulator 2 | 171465 | [171465-nudist-beach-survival-simulator-2.json](./171465-nudist-beach-survival-simulator-2.json) |
+| Nudo | 210560 | [210560-nudo.json](./210560-nudo.json) |
 | Nugatory | 399690 | [399690-nugatory.json](./399690-nugatory.json) |
 | Nugget & Penny: Adventure Machine | 121604 | [121604-nugget-and-penny-adventure-machine.json](./121604-nugget-and-penny-adventure-machine.json) |
 | Nuggets Slitherio | 383620 | [383620-nuggets-slitherio.json](./383620-nuggets-slitherio.json) |
