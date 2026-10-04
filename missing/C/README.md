@@ -2304,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Kill Zombies | 225183 | [225183-cats-kill-zombies.json](./225183-cats-kill-zombies.json) |
 | Cats Link | 299397 | [299397-cats-link.json](./299397-cats-link.json) |
 | Cats Logic | 334092 | [334092-cats-logic.json](./334092-cats-logic.json) |
+| Cats Love Boxes | 199459 | [199459-cats-love-boxes.json](./199459-cats-love-boxes.json) |
 | Cats Lover | 55281 | [55281-cats-lover.json](./55281-cats-lover.json) |
 | Cats n Wires | 177476 | [177476-cats-n-wires.json](./177476-cats-n-wires.json) |
 | Cats of the Song Dynasty | 315299 | [315299-cats-of-the-song-dynasty.json](./315299-cats-of-the-song-dynasty.json) |
@@ -2644,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centi-Bug | 94568 | [94568-centi-bug.json](./94568-centi-bug.json) |
 | Centifeed | 111494 | [111494-centifeed.json](./111494-centifeed.json) |
 | Centipede | 151643 | [151643-centipede.json](./151643-centipede.json) |
+| Centipede | 199424 | [199424-centipede.json](./199424-centipede.json) |
 | Centipede | 218804 | [218804-centipede.json](./218804-centipede.json) |
 | Centipede | 245541 | [245541-centipede.json](./245541-centipede.json) |
 | Centipede | 282564 | [282564-centipede.json](./282564-centipede.json) |
