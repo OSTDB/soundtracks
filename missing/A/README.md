@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cozy Classics: Color Lines | 379467 | [379467-a-cozy-classics-color-lines.json](./379467-a-cozy-classics-color-lines.json) |
 | A Crazy Guy | 251010 | [251010-a-crazy-guy.json](./251010-a-crazy-guy.json) |
 | A Crooked Heart | 142335 | [142335-a-crooked-heart.json](./142335-a-crooked-heart.json) |
+| A Crown of Thorns | 207740 | [207740-a-crown-of-thorns.json](./207740-a-crown-of-thorns.json) |
 | A Cup of Coffee | 211247 | [211247-a-cup-of-coffee.json](./211247-a-cup-of-coffee.json) |
 | A Cut Above: Mow & Grow | 379572 | [379572-a-cut-above-mow-and-grow.json](./379572-a-cut-above-mow-and-grow.json) |
 | A Cyberpunk's Dream of 2077 | 228992 | [228992-a-cyberpunks-dream-of-2077.json](./228992-a-cyberpunks-dream-of-2077.json) |
@@ -1185,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Monster | 368535 | [368535-achievement-monster.json](./368535-achievement-monster.json) |
 | Achievement Simulator | 131447 | [131447-achievement-simulator.json](./131447-achievement-simulator.json) |
 | Achievement Unlocked 2 | 165420 | [165420-achievement-unlocked-2.json](./165420-achievement-unlocked-2.json) |
+| Achikaps | 207823 | [207823-achikaps.json](./207823-achikaps.json) |
 | Achilles vs. Turtles | 183020 | [183020-achilles-vs-turtles.json](./183020-achilles-vs-turtles.json) |
 | Achilles-Sword-ll | 379036 | [379036-achilles-sword-ll.json](./379036-achilles-sword-ll.json) |
 | Achilles: Legends Untold | 160293 | [160293-achilles-legends-untold.json](./160293-achilles-legends-untold.json) |
@@ -1716,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero Racer | 42833 | [42833-aero-racer.json](./42833-aero-racer.json) |
 | Aero Striker: World Invasion | 213426 | [213426-aero-striker-world-invasion.json](./213426-aero-striker-world-invasion.json) |
 | Aero Style | 79884 | [79884-aero-style.json](./79884-aero-style.json) |
+| Aero Tales Online: The World | 207720 | [207720-aero-tales-online-the-world.json](./207720-aero-tales-online-the-world.json) |
 | Aero The Acro-Bat 2 | 312089 | [312089-aero-the-acro-bat-2.json](./312089-aero-the-acro-bat-2.json) |
 | Aero The Acro-Bat: Rascal Rival Revenge | 312090 | [312090-aero-the-acro-bat-rascal-rival-revenge.json](./312090-aero-the-acro-bat-rascal-rival-revenge.json) |
 | Aerobat | 18199 | [18199-aerobat.json](./18199-aerobat.json) |
@@ -1898,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterburn | 112424 | [112424-afterburn.json](./112424-afterburn.json) |
 | Aftercare Sessions | 322175 | [322175-aftercare-sessions.json](./322175-aftercare-sessions.json) |
 | Aftercharge | 27698 | [27698-aftercharge.json](./27698-aftercharge.json) |
+| Afterdream | 207735 | [207735-afterdream.json](./207735-afterdream.json) |
 | AfterFall: Insanity - Dirty Arena Edition | 50832 | [50832-afterfall-insanity-dirty-arena-edition.json](./50832-afterfall-insanity-dirty-arena-edition.json) |
 | Afterglitch | 189933 | [189933-afterglitch.json](./189933-afterglitch.json) |
 | Afterglow Bytes: Reverie by the Shore | 382378 | [382378-afterglow-bytes-reverie-by-the-shore.json](./382378-afterglow-bytes-reverie-by-the-shore.json) |
@@ -4387,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Cultures: Tikal's Realm | 216466 | [216466-ancient-cultures-tikals-realm.json](./216466-ancient-cultures-tikals-realm.json) |
 | Ancient Demon Shadow | 304817 | [304817-ancient-demon-shadow.json](./304817-ancient-demon-shadow.json) |
 | Ancient Egypt | 358911 | [358911-ancient-egypt.json](./358911-ancient-egypt.json) |
+| Ancient Empires Reloaded | 207866 | [207866-ancient-empires-reloaded.json](./207866-ancient-empires-reloaded.json) |
 | Ancient Enemy | 111842 | [111842-ancient-enemy.json](./111842-ancient-enemy.json) |
 | Ancient Erotic Monster in the Labyrinth | 97833 | [97833-ancient-erotic-monster-in-the-labyrinth.json](./97833-ancient-erotic-monster-in-the-labyrinth.json) |
 | Ancient Evil | 170504 | [170504-ancient-evil.json](./170504-ancient-evil.json) |
@@ -4481,6 +4486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anders: The Dark Coast | 303146 | [303146-anders-the-dark-coast.json](./303146-anders-the-dark-coast.json) |
 | Anderson | 102378 | [102378-anderson.json](./102378-anderson.json) |
 | Andi-Land | 84203 | [84203-andi-land.json](./84203-andi-land.json) |
+| Andor's Trail | 207864 | [207864-andors-trail.json](./207864-andors-trail.json) |
 | Andou: Pulse of Cup | 369572 | [369572-andou-pulse-of-cup.json](./369572-andou-pulse-of-cup.json) |
 | Andre Agassi Tennis | 369245 | [369245-andre-agassi-tennis.json](./369245-andre-agassi-tennis.json) |
 | Andreas VII | 188588 | [188588-andreas-vii.json](./188588-andreas-vii.json) |
@@ -8017,6 +8023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ata: Extracts from the American Civil War | 322053 | [322053-ata-extracts-from-the-american-civil-war.json](./322053-ata-extracts-from-the-american-civil-war.json) |
 | Atajrubah | 36426 | [36426-atajrubah.json](./36426-atajrubah.json) |
 | Atak | 226226 | [226226-atak.json](./226226-atak.json) |
+| Atama | 207724 | [207724-atama.json](./207724-atama.json) |
 | Atama ga Saeru Chou IQ | 251625 | [251625-atama-ga-saeru-chou-iq.json](./251625-atama-ga-saeru-chou-iq.json) |
 | Atama Ikuto | 344367 | [344367-atama-ikuto.json](./344367-atama-ikuto.json) |
 | Atama no Kaiten no Training: Rubik's Cube & Chou Yuumei Puzzle Tachi | 269564 | [269564-atama-no-kaiten-no-training-rubiks-cube-and-chou-yuumei-puzzle-tachi.json](./269564-atama-no-kaiten-no-training-rubiks-cube-and-chou-yuumei-puzzle-tachi.json) |
@@ -8618,6 +8625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automonopoli | 94566 | [94566-automonopoli.json](./94566-automonopoli.json) |
 | Automount | 341637 | [341637-automount.json](./341637-automount.json) |
 | Autonauts | 54736 | [54736-autonauts.json](./54736-autonauts.json) |
+| Autonauts vs Piratebots | 207729 | [207729-autonauts-vs-piratebots.json](./207729-autonauts-vs-piratebots.json) |
 | Autonomous Warfare Evolution | 401072 | [401072-autonomous-warfare-evolution.json](./401072-autonomous-warfare-evolution.json) |
 | Autopanic Zero | 236786 | [236786-autopanic-zero.json](./236786-autopanic-zero.json) |
 | AutoParts Simulator | 346163 | [346163-autoparts-simulator.json](./346163-autoparts-simulator.json) |
