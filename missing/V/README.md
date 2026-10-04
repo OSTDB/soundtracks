@@ -1186,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village of the Curse | 387600 | [387600-village-of-the-curse.json](./387600-village-of-the-curse.json) |
 | Village of Zombies: Abandoned City | 192231 | [192231-village-of-zombies-abandoned-city.json](./192231-village-of-zombies-abandoned-city.json) |
 | Village of Zombies: Tropical | 192230 | [192230-village-of-zombies-tropical.json](./192230-village-of-zombies-tropical.json) |
+| Village RPG | 188438 | [188438-village-rpg.json](./188438-village-rpg.json) |
 | Village Slut Transformation | 306433 | [306433-village-slut-transformation.json](./306433-village-slut-transformation.json) |
 | Village Supermarket Simulator: Old Times Edition | 370800 | [370800-village-supermarket-simulator-old-times-edition.json](./370800-village-supermarket-simulator-old-times-edition.json) |
 | Village Tale | 346698 | [346698-village-tale.json](./346698-village-tale.json) |
@@ -2124,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRiking | 261506 | [261506-vriking.json](./261506-vriking.json) |
 | VRIQ | 29082 | [29082-vriq.json](./29082-vriq.json) |
 | Vritra: Complete Edition | 107917 | [107917-vritra-complete-edition.json](./107917-vritra-complete-edition.json) |
+| VRkanoid | 188457 | [188457-vrkanoid.json](./188457-vrkanoid.json) |
 | VRKraft | 160143 | [160143-vrkraft.json](./160143-vrkraft.json) |
 | Vrkshop | 137621 | [137621-vrkshop.json](./137621-vrkshop.json) |
 | VRLab Academy: Anatomy VR | 115011 | [115011-vrlab-academy-anatomy-vr.json](./115011-vrlab-academy-anatomy-vr.json) |
