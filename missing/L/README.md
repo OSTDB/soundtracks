@@ -5293,6 +5293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lurk and Rouse | 217316 | [217316-lurk-and-rouse.json](./217316-lurk-and-rouse.json) |
 | Lurk in Abyss | 390141 | [390141-lurk-in-abyss.json](./390141-lurk-in-abyss.json) |
 | Lurker Legends | 162425 | [162425-lurker-legends.json](./162425-lurker-legends.json) |
+| Lurking | 176866 | [176866-lurking.json](./176866-lurking.json) |
 | Lurking Danger | 337745 | [337745-lurking-danger.json](./337745-lurking-danger.json) |
 | Lurking Darkness | 319025 | [319025-lurking-darkness.json](./319025-lurking-darkness.json) |
 | Lurking I: Immortui | 176418 | [176418-lurking-i-immortui.json](./176418-lurking-i-immortui.json) |
