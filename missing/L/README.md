@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lala the Magical | 48298 | [48298-lala-the-magical.json](./48298-lala-the-magical.json) |
 | Lalaloopsy: Sew Magical! Sew Cute! | 113888 | [113888-lalaloopsy-sew-magical-sew-cute.json](./113888-lalaloopsy-sew-magical-sew-cute.json) |
 | Lama Drama FPS | 122370 | [122370-lama-drama-fps.json](./122370-lama-drama-fps.json) |
+| Lamafox - Hide and Seek! | 200499 | [200499-lamafox-hide-and-seek.json](./200499-lamafox-hide-and-seek.json) |
 | Lamb Chop & Friends | 198796 | [198796-lamb-chop-and-friends.json](./198796-lamb-chop-and-friends.json) |
 | Lamb to the Slaughter | 323553 | [323553-lamb-to-the-slaughter.json](./323553-lamb-to-the-slaughter.json) |
 | Lambda Fortress | 345541 | [345541-lambda-fortress.json](./345541-lambda-fortress.json) |
@@ -5256,6 +5257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Girl | 241514 | [241514-lust-girl.json](./241514-lust-girl.json) |
 | Lust Goddess | 342791 | [342791-lust-goddess.json](./342791-lust-goddess.json) |
 | Lust Harem 1001 Pleasures | 384757 | [384757-lust-harem-1001-pleasures.json](./384757-lust-harem-1001-pleasures.json) |
+| Lust in Terror Manor | 200546 | [200546-lust-in-terror-manor.json](./200546-lust-in-terror-manor.json) |
 | Lust Island | 384761 | [384761-lust-island.json](./384761-lust-island.json) |
 | Lust Kingdom | 264032 | [264032-lust-kingdom.json](./264032-lust-kingdom.json) |
 | Lust Storm | 372031 | [372031-lust-storm.json](./372031-lust-storm.json) |
