@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinshin | 208100 | [208100-jinshin.json](./208100-jinshin.json) |
 | Jinx | 369191 | [369191-jinx.json](./369191-jinx.json) |
 | Jinx 3: Escape From Area Fitty-Two | 383493 | [383493-jinx-3-escape-from-area-fitty-two.json](./383493-jinx-3-escape-from-area-fitty-two.json) |
+| Jinx: A Dark and Stormy Night | 186143 | [186143-jinx-a-dark-and-stormy-night.json](./186143-jinx-a-dark-and-stormy-night.json) |
 | Jinxter | 12160 | [12160-jinxter.json](./12160-jinxter.json) |
 | Jīnyōng Qúnxiá Zhuán | 78043 | [78043-jinyong-qunxia-zhuan.json](./78043-jinyong-qunxia-zhuan.json) |
 | Jippo! Street | 234000 | [234000-jippo-street.json](./234000-jippo-street.json) |
