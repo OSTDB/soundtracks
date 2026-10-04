@@ -2041,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Haven | 218714 | [218714-red-haven.json](./218714-red-haven.json) |
 | Red Hawk | 411129 | [411129-red-hawk.json](./411129-red-hawk.json) |
 | Red Haze: Bruises Glimmer in Starlight | 325820 | [325820-red-haze-bruises-glimmer-in-starlight.json](./325820-red-haze-bruises-glimmer-in-starlight.json) |
+| Red Hell | 203210 | [203210-red-hell.json](./203210-red-hell.json) |
 | Red Hero Adventure | 193442 | [193442-red-hero-adventure.json](./193442-red-hero-adventure.json) |
 | Red Herring | 118178 | [118178-red-herring.json](./118178-red-herring.json) |
 | Red Hood Adventure | 207196 | [207196-red-hood-adventure.json](./207196-red-hood-adventure.json) |
@@ -4097,6 +4098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripple | 198510 | [198510-ripple.json](./198510-ripple.json) |
 | Ripple in Dirac Sea | 253861 | [253861-ripple-in-dirac-sea.json](./253861-ripple-in-dirac-sea.json) |
 | Ripple Island | 48791 | [48791-ripple-island.json](./48791-ripple-island.json) |
+| Ripple no Tamago: Apprentice Magician | 203282 | [203282-ripple-no-tamago-apprentice-magician.json](./203282-ripple-no-tamago-apprentice-magician.json) |
 | Ripple Park | 405513 | [405513-ripple-park.json](./405513-ripple-park.json) |
 | RippleLoop | 416045 | [416045-rippleloop.json](./416045-rippleloop.json) |
 | Ripples | 239315 | [239315-ripples.json](./239315-ripples.json) |
