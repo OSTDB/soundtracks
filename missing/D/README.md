@@ -2995,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeliSpace | 291441 | [291441-delispace.json](./291441-delispace.json) |
 | Deliver This! | 365152 | [365152-deliver-this.json](./365152-deliver-this.json) |
 | Deliver Together | 406324 | [406324-deliver-together.json](./406324-deliver-together.json) |
+| Deliver Us From Evil | 178484 | [178484-deliver-us-from-evil.json](./178484-deliver-us-from-evil.json) |
 | Deliver Us From Evil: Cadenza | 192284 | [192284-deliver-us-from-evil-cadenza.json](./192284-deliver-us-from-evil-cadenza.json) |
 | Deliver Us Home | 303467 | [303467-deliver-us-home.json](./303467-deliver-us-home.json) |
 | Deliver Us Mars: Deluxe Edition | 204468 | [204468-deliver-us-mars-deluxe-edition.json](./204468-deliver-us-mars-deluxe-edition.json) |
@@ -4139,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devolver Tumble Time | 152205 | [152205-devolver-tumble-time.json](./152205-devolver-tumble-time.json) |
 | Devorian: Left Behind | 188980 | [188980-devorian-left-behind.json](./188980-devorian-left-behind.json) |
 | Devotion | 107228 | [107228-devotion.json](./107228-devotion.json) |
+| Devotionalia | 178466 | [178466-devotionalia.json](./178466-devotionalia.json) |
 | Devour | 181916 | [181916-devour.json](./181916-devour.json) |
 | Devtheism | 134512 | [134512-devtheism.json](./134512-devtheism.json) |
 | DevTycoon | 329780 | [329780-devtycoon.json](./329780-devtycoon.json) |
@@ -5558,6 +5560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divertron | 290091 | [290091-divertron.json](./290091-divertron.json) |
 | Divi-Dead | 12420 | [12420-divi-dead.json](./12420-divi-dead.json) |
 | Divid[E]: D[E]Ad Letters | 396196 | [396196-divid-e-d-e-ad-letters.json](./396196-divid-e-d-e-ad-letters.json) |
+| Divide | 178473 | [178473-divide.json](./178473-divide.json) |
 | Divide | 18364 | [18364-divide.json](./18364-divide.json) |
 | Divide and Conquer | 356229 | [356229-divide-and-conquer.json](./356229-divide-and-conquer.json) |
 | Divide By Sheep | 15924 | [15924-divide-by-sheep.json](./15924-divide-by-sheep.json) |
@@ -8735,6 +8738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop: Save the Forest | 373087 | [373087-drop-save-the-forest.json](./373087-drop-save-the-forest.json) |
 | Drop: System Breach | 202862 | [202862-drop-system-breach.json](./202862-drop-system-breach.json) |
 | Drop7 | 29044 | [29044-drop7.json](./29044-drop7.json) |
+| Dropboy | 178492 | [178492-dropboy.json](./178492-dropboy.json) |
 | DropCast | 21458 | [21458-dropcast.json](./21458-dropcast.json) |
 | Dropfinity | 407526 | [407526-dropfinity.json](./407526-dropfinity.json) |
 | Droplet | 176483 | [176483-droplet.json](./176483-droplet.json) |
