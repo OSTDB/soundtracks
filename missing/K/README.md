@@ -2096,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen Scramble: Cooking Game | 123439 | [123439-kitchen-scramble-cooking-game.json](./123439-kitchen-scramble-cooking-game.json) |
 | Kitchen Survivors | 217794 | [217794-kitchen-survivors.json](./217794-kitchen-survivors.json) |
 | Kitchen Sync: Aloha! | 244384 | [244384-kitchen-sync-aloha.json](./244384-kitchen-sync-aloha.json) |
+| Kitchen War | 195045 | [195045-kitchen-war.json](./195045-kitchen-war.json) |
 | Kitchen War | 246464 | [246464-kitchen-war.json](./246464-kitchen-war.json) |
 | Kitchen Wars | 319205 | [319205-kitchen-wars.json](./319205-kitchen-wars.json) |
 | Kitchened | 393135 | [393135-kitchened.json](./393135-kitchened.json) |
