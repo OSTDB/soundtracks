@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unables | 212167 | [212167-unables.json](./212167-unables.json) |
 | Unaccessible | 327981 | [327981-unaccessible.json](./327981-unaccessible.json) |
 | Unaided: 1939 | 31811 | [31811-unaided-1939.json](./31811-unaided-1939.json) |
+| Unaki | 211627 | [211627-unaki.json](./211627-unaki.json) |
 | Unakiri Action!: Kiritan-hou no Nazo | 204707 | [204707-unakiri-action-kiritan-hou-no-nazo.json](./204707-unakiri-action-kiritan-hou-no-nazo.json) |
 | Unaligned | 177480 | [177480-unaligned.json](./177480-unaligned.json) |
 | Unalive | 29969 | [29969-unalive.json](./29969-unalive.json) |
@@ -724,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncanny Tales: The Watcher | 390221 | [390221-uncanny-tales-the-watcher.json](./390221-uncanny-tales-the-watcher.json) |
 | Uncanyon | 416106 | [416106-uncanyon.json](./416106-uncanyon.json) |
 | Uncarta | 57757 | [57757-uncarta.json](./57757-uncarta.json) |
+| Uncatchable Homers Master | 211772 | [211772-uncatchable-homers-master.json](./211772-uncatchable-homers-master.json) |
 | Uncensor Quest | 261773 | [261773-uncensor-quest.json](./261773-uncensor-quest.json) |
 | Unchained | 130262 | [130262-unchained.json](./130262-unchained.json) |
 | Unchained | 178075 | [178075-unchained.json](./178075-unchained.json) |
@@ -895,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Witch's Trial | 247201 | [247201-under-the-witchs-trial.json](./247201-under-the-witchs-trial.json) |
 | Under Tower Idle | 405585 | [405585-under-tower-idle.json](./405585-under-tower-idle.json) |
 | Under Walls | 289926 | [289926-under-walls.json](./289926-under-walls.json) |
+| Under Waves | 211645 | [211645-under-waves.json](./211645-under-waves.json) |
 | Under What? | 120911 | [120911-under-what.json](./120911-under-what.json) |
 | Under Zero | 33223 | [33223-under-zero.json](./33223-under-zero.json) |
 | Underboard | 245819 | [245819-underboard.json](./245819-underboard.json) |
@@ -1017,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underwater | 148361 | [148361-underwater.json](./148361-underwater.json) |
 | Underwater Affect | 113000 | [113000-underwater-affect.json](./113000-underwater-affect.json) |
 | Underwater and Seafaring Duo | 271827 | [271827-underwater-and-seafaring-duo.json](./271827-underwater-and-seafaring-duo.json) |
+| Underwater battles | 211640 | [211640-underwater-battles.json](./211640-underwater-battles.json) |
 | Underwater Cities | 249936 | [249936-underwater-cities.json](./249936-underwater-cities.json) |
 | Underwater Cycling | 368645 | [368645-underwater-cycling.json](./368645-underwater-cycling.json) |
 | Underwater Diving | 224547 | [224547-underwater-diving.json](./224547-underwater-diving.json) |
