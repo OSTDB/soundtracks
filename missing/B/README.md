@@ -3544,6 +3544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between them | 149536 | [149536-between-them.json](./149536-between-them.json) |
 | Between Time: Escape Room | 164977 | [164977-between-time-escape-room.json](./164977-between-time-escape-room.json) |
 | Between Two Castles | 125068 | [125068-between-two-castles.json](./125068-between-two-castles.json) |
+| Between Two Stars | 196672 | [196672-between-two-stars.json](./196672-between-two-stars.json) |
 | Between Two Worlds | 352826 | [352826-between-two-worlds.json](./352826-between-two-worlds.json) |
 | Between Worlds | 181388 | [181388-between-worlds.json](./181388-between-worlds.json) |
 | Between: Stardust Trail | 257554 | [257554-between-stardust-trail.json](./257554-between-stardust-trail.json) |
@@ -7830,6 +7831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break In | 70097 | [70097-break-in.json](./70097-break-in.json) |
 | Break Into Zatwor | 27775 | [27775-break-into-zatwor.json](./27775-break-into-zatwor.json) |
 | Break It Out | 99194 | [99194-break-it-out.json](./99194-break-it-out.json) |
+| Break It Out 2 | 196622 | [196622-break-it-out-2.json](./196622-break-it-out-2.json) |
 | Break It! | 298263 | [298263-break-it.json](./298263-break-it.json) |
 | Break Limit | 91945 | [91945-break-limit.json](./91945-break-limit.json) |
 | Break Liner | 57346 | [57346-break-liner.json](./57346-break-liner.json) |
