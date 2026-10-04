@@ -4504,6 +4504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Connect | 268992 | [268992-love-connect.json](./268992-love-connect.json) |
 | Love Connection! | 242789 | [242789-love-connection.json](./242789-love-connection.json) |
 | Love Cooking at Home? Turn your Hobby into a Business! | 156122 | [156122-love-cooking-at-home-turn-your-hobby-into-a-business.json](./156122-love-cooking-at-home-turn-your-hobby-into-a-business.json) |
+| Love Cupid | 199995 | [199995-love-cupid.json](./199995-love-cupid.json) |
 | Love D3ath Love | 412296 | [412296-love-d3ath-love.json](./412296-love-d3ath-love.json) |
 | Love Date | 119669 | [119669-love-date.json](./119669-love-date.json) |
 | Love Death | 259259 | [259259-love-death.json](./259259-love-death.json) |
