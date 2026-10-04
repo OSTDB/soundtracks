@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yumahorome: Toki wo Tometa Yakata de Asu wo Sagasu Maigo-tachi | 368643 | [368643-yumahorome-toki-wo-tometa-yakata-de-asu-wo-sagasu-maigo-tachi.json](./368643-yumahorome-toki-wo-tometa-yakata-de-asu-wo-sagasu-maigo-tachi.json) |
 | YuMayhem | 292861 | [292861-yumayhem.json](./292861-yumayhem.json) |
 | Yume | 142269 | [142269-yume.json](./142269-yume.json) |
+| YuMe | 207867 | [207867-yume.json](./207867-yume.json) |
 | Yume 2: Sleepless Night | 154362 | [154362-yume-2-sleepless-night.json](./154362-yume-2-sleepless-night.json) |
 | Yume 2kki | 80668 | [80668-yume-2kki.json](./80668-yume-2kki.json) |
 | Yume 3 | 258176 | [258176-yume-3.json](./258176-yume-3.json) |
