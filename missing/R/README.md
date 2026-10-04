@@ -5378,6 +5378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Role Player: Okayu Shimai no Nenmaku Portrait - Gurigucha Live | 413742 | [413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json](./413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json) |
 | Rolf | 163833 | [163833-rolf.json](./163833-rolf.json) |
 | Rolf | 407520 | [407520-rolf.json](./407520-rolf.json) |
+| Rolie Polie Olie: The Search for Spot | 209366 | [209366-rolie-polie-olie-the-search-for-spot.json](./209366-rolie-polie-olie-the-search-for-spot.json) |
 | Roll | 147455 | [147455-roll.json](./147455-roll.json) |
 | Roll a Ball With Your Friends | 150520 | [150520-roll-a-ball-with-your-friends.json](./150520-roll-a-ball-with-your-friends.json) |
 | Roll Ball | 319963 | [319963-roll-ball.json](./319963-roll-ball.json) |
