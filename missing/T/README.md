@@ -3228,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Attic: A Mystery Puzzle Game | 412363 | [412363-the-attic-a-mystery-puzzle-game.json](./412363-the-attic-a-mystery-puzzle-game.json) |
 | The Attic's a Dungeon ?! | 176431 | [176431-the-attics-a-dungeon.json](./176431-the-attics-a-dungeon.json) |
 | The Auction Game | 337199 | [337199-the-auction-game.json](./337199-the-auction-game.json) |
+| The Augury House | 188471 | [188471-the-augury-house.json](./188471-the-augury-house.json) |
 | The Austrian Painter | 179484 | [179484-the-austrian-painter.json](./179484-the-austrian-painter.json) |
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
 | The Avaunting | 15609 | [15609-the-avaunting.json](./15609-the-avaunting.json) |
@@ -8224,6 +8225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Residents: Freak Show | 74045 | [74045-the-residents-freak-show.json](./74045-the-residents-freak-show.json) |
 | The Residents' Bad Day on the Midway | 66760 | [66760-the-residents-bad-day-on-the-midway.json](./66760-the-residents-bad-day-on-the-midway.json) |
 | The Resistance | 75764 | [75764-the-resistance.json](./75764-the-resistance.json) |
+| The Resolve | 188445 | [188445-the-resolve.json](./188445-the-resolve.json) |
 | The Resonance Initiative | 405691 | [405691-the-resonance-initiative.json](./405691-the-resonance-initiative.json) |
 | The Resonant | 289971 | [289971-the-resonant.json](./289971-the-resonant.json) |
 | The Rest is Silence | 271770 | [271770-the-rest-is-silence.json](./271770-the-rest-is-silence.json) |
