@@ -2502,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glint's Trial | 356156 | [356156-glints-trial.json](./356156-glints-trial.json) |
 | Gliont Lights | 388260 | [388260-gliont-lights.json](./388260-gliont-lights.json) |
 | Glisynth | 373145 | [373145-glisynth.json](./373145-glisynth.json) |
+| Glitch | 186709 | [186709-glitch.json](./186709-glitch.json) |
 | Glitch | 232137 | [232137-glitch.json](./232137-glitch.json) |
 | Glitch | 365268 | [365268-glitch.json](./365268-glitch.json) |
 | Glitch | 92479 | [92479-glitch.json](./92479-glitch.json) |
@@ -2803,6 +2804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Karting Outdoor | 193719 | [193719-go-karting-outdoor.json](./193719-go-karting-outdoor.json) |
 | Go Long! | 136444 | [136444-go-long.json](./136444-go-long.json) |
 | Go Mecha Ball | 253102 | [253102-go-mecha-ball.json](./253102-go-mecha-ball.json) |
+| Go Minimal | 186704 | [186704-go-minimal.json](./186704-go-minimal.json) |
 | Go Mission: Space Travel | 21632 | [21632-go-mission-space-travel.json](./21632-go-mission-space-travel.json) |
 | Go Next! | 415995 | [415995-go-next.json](./415995-go-next.json) |
 | Go Noodle | 275687 | [275687-go-noodle.json](./275687-go-noodle.json) |
@@ -4258,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Shift | 329212 | [329212-graveyard-shift.json](./329212-graveyard-shift.json) |
 | Graveyard Shift 2 | 176814 | [176814-graveyard-shift-2.json](./176814-graveyard-shift-2.json) |
 | Graveyard Smash | 90583 | [90583-graveyard-smash.json](./90583-graveyard-smash.json) |
+| Graveyard Spells | 186674 | [186674-graveyard-spells.json](./186674-graveyard-spells.json) |
 | Graveyard Sprint | 245874 | [245874-graveyard-sprint.json](./245874-graveyard-sprint.json) |
 | Graveyard: The Shift | 247663 | [247663-graveyard-the-shift.json](./247663-graveyard-the-shift.json) |
 | Graveyard404 | 365260 | [365260-graveyard404.json](./365260-graveyard404.json) |
@@ -5101,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gǔ Mù Lì Yǐng | 319747 | [319747-gu-mu-li-ying.json](./319747-gu-mu-li-ying.json) |
 | Gu Zhen Ren: Reverend Insanity | 358472 | [358472-gu-zhen-ren-reverend-insanity.json](./358472-gu-zhen-ren-reverend-insanity.json) |
 | Gu-gu Ganmo: Run-run Odekake Date Da ze ii | 349414 | [349414-gu-gu-ganmo-run-run-odekake-date-da-ze-ii.json](./349414-gu-gu-ganmo-run-run-odekake-date-da-ze-ii.json) |
+| Gua-Le-Ni | 186662 | [186662-gua-le-ni.json](./186662-gua-le-ni.json) |
 | Guac' a Mole | 85170 | [85170-guac-a-mole.json](./85170-guac-a-mole.json) |
 | Guacamelee! 2 Complete | 119074 | [119074-guacamelee-2-complete.json](./119074-guacamelee-2-complete.json) |
 | Guacamelee! 2: Three Enemigos Character Pack | 155046 | [155046-guacamelee-2-three-enemigos-character-pack.json](./155046-guacamelee-2-three-enemigos-character-pack.json) |
@@ -5860,5 +5864,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyruss | 343879 | [343879-gyruss.json](./343879-gyruss.json) |
 | Gythol Granditti: The Crypt of Darkness | 120411 | [120411-gythol-granditti-the-crypt-of-darkness.json](./120411-gythol-granditti-the-crypt-of-darkness.json) |
 | Gyvolver | 248141 | [248141-gyvolver.json](./248141-gyvolver.json) |
+| GZ P.T. | 186713 | [186713-gz-p-t.json](./186713-gz-p-t.json) |
 | GZDoom SM64 | 307741 | [307741-gzdoom-sm64.json](./307741-gzdoom-sm64.json) |
 | Gzlna | 294278 | [294278-gzlna.json](./294278-gzlna.json) |
