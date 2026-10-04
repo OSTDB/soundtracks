@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Somnio | 130382 | [130382-in-somnio.json](./130382-in-somnio.json) |
 | In Sound Mind | 121084 | [121084-in-sound-mind.json](./121084-in-sound-mind.json) |
 | In Sound Mind: Deluxe Edition | 146132 | [146132-in-sound-mind-deluxe-edition.json](./146132-in-sound-mind-deluxe-edition.json) |
+| In Sound Mind: Digital Deluxe Edition | 173101 | [173101-in-sound-mind-digital-deluxe-edition.json](./173101-in-sound-mind-digital-deluxe-edition.json) |
 | In Space | 237275 | [237275-in-space.json](./237275-in-space.json) |
 | In Space We Brawl: Full Arsenal Edition | 106082 | [106082-in-space-we-brawl-full-arsenal-edition.json](./106082-in-space-we-brawl-full-arsenal-edition.json) |
 | In Style | 276243 | [276243-in-style.json](./276243-in-style.json) |
