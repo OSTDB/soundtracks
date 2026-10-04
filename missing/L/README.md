@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Llorona Wants Your Soul | 291737 | [291737-la-llorona-wants-your-soul.json](./291737-la-llorona-wants-your-soul.json) |
 | LA Machine Guns | 66785 | [66785-la-machine-guns.json](./66785-la-machine-guns.json) |
 | La maison perdue de l’oncle Ernest | 287328 | [287328-la-maison-perdue-de-l-oncle-ernest.json](./287328-la-maison-perdue-de-l-oncle-ernest.json) |
+| La makinita | 182879 | [182879-la-makinita.json](./182879-la-makinita.json) |
 | La Malédiction | 275086 | [275086-la-malediction.json](./275086-la-malediction.json) |
 | La Maledizione dell'Uccello Serpente | 191225 | [191225-la-maledizione-delluccello-serpente.json](./191225-la-maledizione-delluccello-serpente.json) |
 | La Mansion Hoover | 323328 | [323328-la-mansion-hoover.json](./323328-la-mansion-hoover.json) |
