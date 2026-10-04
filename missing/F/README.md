@@ -6212,6 +6212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fright House | 329352 | [329352-fright-house.json](./329352-fright-house.json) |
 | Fright Light | 31539 | [31539-fright-light.json](./31539-fright-light.json) |
 | Fright Night | 205031 | [205031-fright-night.json](./205031-fright-night.json) |
+| Frightence | 193299 | [193299-frightence.json](./193299-frightence.json) |
 | Frightened | 216161 | [216161-frightened.json](./216161-frightened.json) |
 | Frigid | 159281 | [159281-frigid.json](./159281-frigid.json) |
 | Frigid VR | 172733 | [172733-frigid-vr.json](./172733-frigid-vr.json) |
@@ -6352,6 +6353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggo Swing 'n Grapple | 197194 | [197194-froggo-swing-n-grapple.json](./197194-froggo-swing-n-grapple.json) |
 | Froggo's Adventure: Drifting Sky | 326759 | [326759-froggos-adventure-drifting-sky.json](./326759-froggos-adventure-drifting-sky.json) |
 | Froggo's Quest | 418715 | [418715-froggos-quest.json](./418715-froggos-quest.json) |
+| Froggy | 193290 | [193290-froggy.json](./193290-froggy.json) |
 | Froggy | 227828 | [227828-froggy.json](./227828-froggy.json) |
 | Froggy Brews | 351261 | [351261-froggy-brews.json](./351261-froggy-brews.json) |
 | Froggy Castle | 243405 | [243405-froggy-castle.json](./243405-froggy-castle.json) |
