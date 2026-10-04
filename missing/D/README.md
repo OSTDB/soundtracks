@@ -809,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Island: Faded Memories | 415312 | [415312-dark-island-faded-memories.json](./415312-dark-island-faded-memories.json) |
 | Dark Judgement | 129642 | [129642-dark-judgement.json](./129642-dark-judgement.json) |
 | Dark Jump: Endless Ascent | 339365 | [339365-dark-jump-endless-ascent.json](./339365-dark-jump-endless-ascent.json) |
+| Dark Jungle | 207194 | [207194-dark-jungle.json](./207194-dark-jungle.json) |
 | Dark Law: Meaning of Death | 15898 | [15898-dark-law-meaning-of-death.json](./15898-dark-law-meaning-of-death.json) |
 | Dark Laws | 279134 | [279134-dark-laws.json](./279134-dark-laws.json) |
 | Dark Leaches | 403792 | [403792-dark-leaches.json](./403792-dark-leaches.json) |
@@ -6008,6 +6009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Silver & Emerald | 334693 | [334693-doki-doki-silver-and-emerald.json](./334693-doki-doki-silver-and-emerald.json) |
 | Doki Doki Space | 334268 | [334268-doki-doki-space.json](./334268-doki-doki-space.json) |
 | Doki Doki Storm | 288984 | [288984-doki-doki-storm.json](./288984-doki-doki-storm.json) |
+| Doki Doki Sweets Girlfriend | 207206 | [207206-doki-doki-sweets-girlfriend.json](./207206-doki-doki-sweets-girlfriend.json) |
 | Doki Doki Switcheroo | 334832 | [334832-doki-doki-switcheroo.json](./334832-doki-doki-switcheroo.json) |
 | Doki Doki Takeover!: Bad Ending | 208412 | [208412-doki-doki-takeover-bad-ending.json](./208412-doki-doki-takeover-bad-ending.json) |
 | Doki Doki Tegami Relay | 217845 | [217845-doki-doki-tegami-relay.json](./217845-doki-doki-tegami-relay.json) |
@@ -6109,6 +6111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domefender | 410927 | [410927-domefender.json](./410927-domefender.json) |
 | Domenation | 277858 | [277858-domenation.json](./277858-domenation.json) |
 | Domestic Dog | 36006 | [36006-domestic-dog.json](./36006-domestic-dog.json) |
+| Domestic Elementalism | 207217 | [207217-domestic-elementalism.json](./207217-domestic-elementalism.json) |
 | DomiCard | 107904 | [107904-domicard.json](./107904-domicard.json) |
 | Dominacy | 109058 | [109058-dominacy.json](./109058-dominacy.json) |
 | Dominance | 116371 | [116371-dominance.json](./116371-dominance.json) |
