@@ -5386,6 +5386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitz: The League | 5753 | [5753-blitz-the-league.json](./5753-blitz-the-league.json) |
 | Blitz: The League II | 6921 | [6921-blitz-the-league-ii.json](./6921-blitz-the-league-ii.json) |
 | Blitz!: Action Football | 41991 | [41991-blitz-action-football.json](./41991-blitz-action-football.json) |
+| Blitzar | 178995 | [178995-blitzar.json](./178995-blitzar.json) |
 | BlitzBombers | 92854 | [92854-blitzbombers.json](./92854-blitzbombers.json) |
 | Blitzcrank's Poro Roundup | 59871 | [59871-blitzcranks-poro-roundup.json](./59871-blitzcranks-poro-roundup.json) |
 | BlitzKeep Unleashed | 110148 | [110148-blitzkeep-unleashed.json](./110148-blitzkeep-unleashed.json) |
