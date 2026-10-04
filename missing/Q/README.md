@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quash | 137473 | [137473-quash.json](./137473-quash.json) |
 | Quasimodo | 25091 | [25091-quasimodo.json](./25091-quasimodo.json) |
 | Quaterneo | 183535 | [183535-quaterneo.json](./183535-quaterneo.json) |
+| Quatocicople | 181665 | [181665-quatocicople.json](./181665-quatocicople.json) |
 | Quatris | 153350 | [153350-quatris.json](./153350-quatris.json) |
 | Quatro Luzes | 34203 | [34203-quatro-luzes.json](./34203-quatro-luzes.json) |
 | Quatro!: Eclipse DLC | 298254 | [298254-quatro-eclipse-dlc.json](./298254-quatro-eclipse-dlc.json) |
