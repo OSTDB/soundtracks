@@ -1858,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mare | 25933 | [25933-mare.json](./25933-mare.json) |
 | Mare Nostrvm | 137077 | [137077-mare-nostrvm.json](./137077-mare-nostrvm.json) |
 | MareDare | 348962 | [348962-maredare.json](./348962-maredare.json) |
+| Marée Noire | 179012 | [179012-maree-noire.json](./179012-maree-noire.json) |
 | MareQuest | 230240 | [230240-marequest.json](./230240-marequest.json) |
 | Margareta | 182810 | [182810-margareta.json](./182810-margareta.json) |
 | Margery | 388408 | [388408-margery.json](./388408-margery.json) |
@@ -5231,6 +5232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metanet Hunter G4 | 382955 | [382955-metanet-hunter-g4.json](./382955-metanet-hunter-g4.json) |
 | Metaneurosis | 337286 | [337286-metaneurosis.json](./337286-metaneurosis.json) |
 | Metanoia | 101326 | [101326-metanoia.json](./101326-metanoia.json) |
+| Metanoia | 179015 | [179015-metanoia.json](./179015-metanoia.json) |
 | Metanoia | 322564 | [322564-metanoia.json](./322564-metanoia.json) |
 | MetaOps | 186241 | [186241-metaops.json](./186241-metaops.json) |
 | Metapathic | 406156 | [406156-metapathic.json](./406156-metapathic.json) |
@@ -8785,6 +8787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonwakers | 293154 | [293154-moonwakers.json](./293154-moonwakers.json) |
 | Moonwalker | 13017 | [13017-moonwalker.json](./13017-moonwalker.json) |
 | Moonwalker: The Computer Game | 67952 | [67952-moonwalker-the-computer-game.json](./67952-moonwalker-the-computer-game.json) |
+| MoonWar | 178924 | [178924-moonwar.json](./178924-moonwar.json) |
 | Moony Mayhem: Cheeks Unleashed | 406818 | [406818-moony-mayhem-cheeks-unleashed.json](./406818-moony-mayhem-cheeks-unleashed.json) |
 | Moony: Black_Lotus | 326226 | [326226-moony-black-lotus.json](./326226-moony-black-lotus.json) |
 | Moonyolk | 213914 | [213914-moonyolk.json](./213914-moonyolk.json) |
