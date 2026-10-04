@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vestenelon | 332625 | [332625-vestenelon.json](./332625-vestenelon.json) |
 | Vestige | 186753 | [186753-vestige.json](./186753-vestige.json) |
 | Vestige | 392262 | [392262-vestige.json](./392262-vestige.json) |
+| Vestige Memoria | 219519 | [219519-vestige-memoria.json](./219519-vestige-memoria.json) |
 | Vestiges: Fallen Tribes | 273566 | [273566-vestiges-fallen-tribes.json](./273566-vestiges-fallen-tribes.json) |
 | Vestigia: Joust | 364706 | [364706-vestigia-joust.json](./364706-vestigia-joust.json) |
 | Vestria Story | 193940 | [193940-vestria-story.json](./193940-vestria-story.json) |
@@ -1152,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village City Island Sim Build | 104606 | [104606-village-city-island-sim-build.json](./104606-village-city-island-sim-build.json) |
 | Village Cricket | 175401 | [175401-village-cricket.json](./175401-village-cricket.json) |
 | Village Cult | 309452 | [309452-village-cult.json](./309452-village-cult.json) |
+| Village Defender | 219516 | [219516-village-defender.json](./219516-village-defender.json) |
 | Village Defenders | 348906 | [348906-village-defenders.json](./348906-village-defenders.json) |
 | Village Feud | 118795 | [118795-village-feud.json](./118795-village-feud.json) |
 | Village Heros | 235992 | [235992-village-heros.json](./235992-village-heros.json) |
@@ -1232,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violet Cycle | 81245 | [81245-violet-cycle.json](./81245-violet-cycle.json) |
 | Violet Girl | 169777 | [169777-violet-girl.json](./169777-violet-girl.json) |
 | Violet rE:-The Final reExistence- | 120781 | [120781-violet-re-the-final-reexistence.json](./120781-violet-re-the-final-reexistence.json) |
+| Violet's Party Mania | 219518 | [219518-violets-party-mania.json](./219518-violets-party-mania.json) |
 | Violett | 18734 | [18734-violett.json](./18734-violett.json) |
 | Violin Paradise | 85474 | [85474-violin-paradise.json](./85474-violin-paradise.json) |
 | Viorate no Atelier: Gramnad no Renkinjutsushi 2 | 26515 | [26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json](./26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json) |
@@ -1246,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virago World | 374738 | [374738-virago-world.json](./374738-virago-world.json) |
 | Virago: Herstory | 226184 | [226184-virago-herstory.json](./226184-virago-herstory.json) |
 | Virago: Herstory 2 | 374735 | [374735-virago-herstory-2.json](./374735-virago-herstory-2.json) |
+| Virago: Trepidation | 219517 | [219517-virago-trepidation.json](./219517-virago-trepidation.json) |
 | Virago: What If | 374745 | [374745-virago-what-if.json](./374745-virago-what-if.json) |
 | Viral | 265255 | [265255-viral.json](./265255-viral.json) |
 | Viral Firar | 166698 | [166698-viral-firar.json](./166698-viral-firar.json) |
