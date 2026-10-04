@@ -919,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magin: The Rat Project Stories - Essence Edition | 396920 | [396920-magin-the-rat-project-stories-essence-edition.json](./396920-magin-the-rat-project-stories-essence-edition.json) |
 | Magin: The Rat Project Stories - Supporter Pack | 396912 | [396912-magin-the-rat-project-stories-supporter-pack.json](./396912-magin-the-rat-project-stories-supporter-pack.json) |
 | Maginary | 129163 | [129163-maginary.json](./129163-maginary.json) |
+| Magincross | 195048 | [195048-magincross.json](./195048-magincross.json) |
 | Magiopolis | 277048 | [277048-magiopolis.json](./277048-magiopolis.json) |
 | Magirune 2 | 197178 | [197178-magirune-2.json](./197178-magirune-2.json) |
 | Magistrangers | 392793 | [392793-magistrangers.json](./392793-magistrangers.json) |
@@ -1246,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majo'ou | 218950 | [218950-majoou.json](./218950-majoou.json) |
 | Majoneko | 252398 | [252398-majoneko.json](./252398-majoneko.json) |
 | Majong | 138732 | [138732-majong.json](./138732-majong.json) |
+| Majong | 195047 | [195047-majong.json](./195047-majong.json) |
 | Majong Classic | 87991 | [87991-majong-classic.json](./87991-majong-classic.json) |
 | MaJong13 | 246419 | [246419-majong13.json](./246419-majong13.json) |
 | MaJong16 | 246420 | [246420-majong16.json](./246420-majong16.json) |
@@ -1382,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malasombra | 227820 | [227820-malasombra.json](./227820-malasombra.json) |
 | Malavision: The Origin | 31812 | [31812-malavision-the-origin.json](./31812-malavision-the-origin.json) |
 | Malcade | 366997 | [366997-malcade.json](./366997-malcade.json) |
+| Maldark: Conqueror of All Worlds | 195069 | [195069-maldark-conqueror-of-all-worlds.json](./195069-maldark-conqueror-of-all-worlds.json) |
 | Maldita Castilla EX: Collector's Edition | 182480 | [182480-maldita-castilla-ex-collectors-edition.json](./182480-maldita-castilla-ex-collectors-edition.json) |
 | MALdle | 372107 | [372107-maldle.json](./372107-maldle.json) |
 | Maldrin Journey | 123037 | [123037-maldrin-journey.json](./123037-maldrin-journey.json) |
@@ -2214,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Modules | 388945 | [388945-marios-modules.json](./388945-marios-modules.json) |
 | Mario's Modules 2 | 409702 | [409702-marios-modules-2.json](./409702-marios-modules-2.json) |
 | Mario's Mystery Meat | 174730 | [174730-marios-mystery-meat.json](./174730-marios-mystery-meat.json) |
+| Mario's New Earth | 195027 | [195027-marios-new-earth.json](./195027-marios-new-earth.json) |
 | Mario's Orange Lavaburst Adventure | 328659 | [328659-marios-orange-lavaburst-adventure.json](./328659-marios-orange-lavaburst-adventure.json) |
 | Mario's Peregrination: Kingdom Elementum Phantasia | 278632 | [278632-marios-peregrination-kingdom-elementum-phantasia.json](./278632-marios-peregrination-kingdom-elementum-phantasia.json) |
 | Mario's Picross | 71976 | [71976-marios-picross.json](./71976-marios-picross.json) |
