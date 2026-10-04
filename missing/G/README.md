@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Core | 278601 | [278601-galactic-core.json](./278601-galactic-core.json) |
 | Galactic Core: The Lost Fleet | 30100 | [30100-galactic-core-the-lost-fleet.json](./30100-galactic-core-the-lost-fleet.json) |
 | Galactic Counselors | 292245 | [292245-galactic-counselors.json](./292245-galactic-counselors.json) |
+| Galactic Crusader | 195039 | [195039-galactic-crusader.json](./195039-galactic-crusader.json) |
 | Galactic Dating: Harem in Space Station | 292635 | [292635-galactic-dating-harem-in-space-station.json](./292635-galactic-dating-harem-in-space-station.json) |
 | Galactic Deck Clash | 373680 | [373680-galactic-deck-clash.json](./373680-galactic-deck-clash.json) |
 | Galactic Defender | 261338 | [261338-galactic-defender.json](./261338-galactic-defender.json) |
@@ -3991,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Poo World | 138218 | [138218-grand-poo-world.json](./138218-grand-poo-world.json) |
 | Grand Poo World II | 138219 | [138219-grand-poo-world-ii.json](./138219-grand-poo-world-ii.json) |
 | Grand Prix | 18103 | [18103-grand-prix.json](./18103-grand-prix.json) |
+| Grand Prix | 195040 | [195040-grand-prix.json](./195040-grand-prix.json) |
 | Grand Prix | 279694 | [279694-grand-prix.json](./279694-grand-prix.json) |
 | Grand Prix | 385557 | [385557-grand-prix.json](./385557-grand-prix.json) |
 | Grand Prix 3 Season 2000 | 57640 | [57640-grand-prix-3-season-2000.json](./57640-grand-prix-3-season-2000.json) |
