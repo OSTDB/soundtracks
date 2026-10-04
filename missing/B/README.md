@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BackDoor- Door 2 | 101760 | [101760-backdoor-door-2.json](./101760-backdoor-door-2.json) |
 | Backdoors | 254016 | [254016-backdoors.json](./254016-backdoors.json) |
 | Backdraft | 255080 | [255080-backdraft.json](./255080-backdraft.json) |
+| Backer Reward | 179568 | [179568-backer-reward.json](./179568-backer-reward.json) |
 | Backfire | 28865 | [28865-backfire.json](./28865-backfire.json) |
 | Backfire Brigade | 370137 | [370137-backfire-brigade.json](./370137-backfire-brigade.json) |
 | Backfire! | 37139 | [37139-backfire.json](./37139-backfire.json) |
@@ -5954,6 +5955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Slipgates | 271180 | [271180-bloody-slipgates.json](./271180-bloody-slipgates.json) |
 | Bloody Steel | 256913 | [256913-bloody-steel.json](./256913-bloody-steel.json) |
 | Bloody Streets | 36069 | [36069-bloody-streets.json](./36069-bloody-streets.json) |
+| Bloody Tentacles | 179532 | [179532-bloody-tentacles.json](./179532-bloody-tentacles.json) |
 | Bloody Trapland 2: Curiosity | 28003 | [28003-bloody-trapland-2-curiosity.json](./28003-bloody-trapland-2-curiosity.json) |
 | Bloody Walls: Hardcore | 166222 | [166222-bloody-walls-hardcore.json](./166222-bloody-walls-hardcore.json) |
 | Bloody Walls: Hardcore x2 | 166223 | [166223-bloody-walls-hardcore-x2.json](./166223-bloody-walls-hardcore-x2.json) |
