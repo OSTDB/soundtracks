@@ -1508,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartel Tycoon: San Rafaela | 252371 | [252371-cartel-tycoon-san-rafaela.json](./252371-cartel-tycoon-san-rafaela.json) |
 | Carto | 101448 | [101448-carto.json](./101448-carto.json) |
 | Cartographer | 199611 | [199611-cartographer.json](./199611-cartographer.json) |
+| Cartographers | 175748 | [175748-cartographers.json](./175748-cartographers.json) |
 | Cartomante | 138572 | [138572-cartomante.json](./138572-cartomante.json) |
 | Cartomantic | 338717 | [338717-cartomantic.json](./338717-cartomantic.json) |
 | Carton | 31211 | [31211-carton.json](./31211-carton.json) |
@@ -3588,6 +3589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken and Duck Brothers | 218699 | [218699-chicken-and-duck-brothers.json](./218699-chicken-and-duck-brothers.json) |
 | Chicken Assassin: Reloaded | 100501 | [100501-chicken-assassin-reloaded.json](./100501-chicken-assassin-reloaded.json) |
 | Chicken Balls | 254586 | [254586-chicken-balls.json](./254586-chicken-balls.json) |
+| Chicken Blaster | 175778 | [175778-chicken-blaster.json](./175778-chicken-blaster.json) |
 | Chicken Bomb | 137595 | [137595-chicken-bomb.json](./137595-chicken-bomb.json) |
 | Chicken Boy's Counterattack | 291488 | [291488-chicken-boys-counterattack.json](./291488-chicken-boys-counterattack.json) |
 | Chicken Chasers | 380067 | [380067-chicken-chasers.json](./380067-chicken-chasers.json) |
@@ -4716,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citrus Rampage | 189073 | [189073-citrus-rampage.json](./189073-citrus-rampage.json) |
 | CitrusBall | 355162 | [355162-citrusball.json](./355162-citrusball.json) |
 | CiTV Racing | 325555 | [325555-citv-racing.json](./325555-citv-racing.json) |
+| City | 175689 | [175689-city.json](./175689-city.json) |
 | City 7: Toronto Conflict | 281410 | [281410-city-7-toronto-conflict.json](./281410-city-7-toronto-conflict.json) |
 | City Adventure Touch: Mystery of Triangle | 48315 | [48315-city-adventure-touch-mystery-of-triangle.json](./48315-city-adventure-touch-mystery-of-triangle.json) |
 | City Ambulance Car Driving | 265731 | [265731-city-ambulance-car-driving.json](./265731-city-ambulance-car-driving.json) |
@@ -4733,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Car Parking Simulator | 256336 | [256336-city-car-parking-simulator.json](./256336-city-car-parking-simulator.json) |
 | City Centurian | 73737 | [73737-city-centurian.json](./73737-city-centurian.json) |
 | City Climber | 27546 | [27546-city-climber.json](./27546-city-climber.json) |
+| City Coach Bus Simulator: Bus Games 2021 | 175685 | [175685-city-coach-bus-simulator-bus-games-2021.json](./175685-city-coach-bus-simulator-bus-games-2021.json) |
 | City Connection | 288842 | [288842-city-connection.json](./288842-city-connection.json) |
 | City Construction Simulator | 234746 | [234746-city-construction-simulator.json](./234746-city-construction-simulator.json) |
 | City Construction Simulator 2 | 310505 | [310505-city-construction-simulator-2.json](./310505-city-construction-simulator-2.json) |
@@ -5299,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb Driver | 393058 | [393058-climb-driver.json](./393058-climb-driver.json) |
 | Climb Fling | 239636 | [239636-climb-fling.json](./239636-climb-fling.json) |
 | Climb It | 273910 | [273910-climb-it.json](./273910-climb-it.json) |
+| Climb Jump | 175746 | [175746-climb-jump.json](./175746-climb-jump.json) |
 | Climb out of Hell | 343322 | [343322-climb-out-of-hell.json](./343322-climb-out-of-hell.json) |
 | Climb Quest | 315113 | [315113-climb-quest.json](./315113-climb-quest.json) |
 | Climb the Tower | 157208 | [157208-climb-the-tower.json](./157208-climb-the-tower.json) |
