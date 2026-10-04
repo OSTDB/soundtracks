@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Chronicles | 316648 | [316648-wasteland-chronicles.json](./316648-wasteland-chronicles.json) |
 | WasteLand Express | 368025 | [368025-wasteland-express.json](./368025-wasteland-express.json) |
 | Wasteland Horror Radio: Episode 1 - The Radio | 360641 | [360641-wasteland-horror-radio-episode-1-the-radio.json](./360641-wasteland-horror-radio-episode-1-the-radio.json) |
+| Wasteland Kings Together | 176330 | [176330-wasteland-kings-together.json](./176330-wasteland-kings-together.json) |
 | Wasteland Kitchen | 344506 | [344506-wasteland-kitchen.json](./344506-wasteland-kitchen.json) |
 | Wasteland Orchard | 387646 | [387646-wasteland-orchard.json](./387646-wasteland-orchard.json) |
 | Wasteland Rangers | 338392 | [338392-wasteland-rangers.json](./338392-wasteland-rangers.json) |
@@ -2651,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why Did The Chicken Cross The Road? | 310753 | [310753-why-did-the-chicken-cross-the-road.json](./310753-why-did-the-chicken-cross-the-road.json) |
 | Why Did You Leave Me Like This? | 365771 | [365771-why-did-you-leave-me-like-this.json](./365771-why-did-you-leave-me-like-this.json) |
 | Why Do Boys Play Games? | 346579 | [346579-why-do-boys-play-games.json](./346579-why-do-boys-play-games.json) |
+| Why Does He Want Me Dead | 176311 | [176311-why-does-he-want-me-dead.json](./176311-why-does-he-want-me-dead.json) |
 | Why Does the Sea Cry So Much | 362887 | [362887-why-does-the-sea-cry-so-much.json](./362887-why-does-the-sea-cry-so-much.json) |
 | Why Don't They Laugh? | 312558 | [312558-why-dont-they-laugh.json](./312558-why-dont-they-laugh.json) |
 | Why God? | 287207 | [287207-why-god.json](./287207-why-god.json) |
@@ -4660,6 +4662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds of Magic: Planar Conquest | 79925 | [79925-worlds-of-magic-planar-conquest.json](./79925-worlds-of-magic-planar-conquest.json) |
 | Worlds of the Future | 169170 | [169170-worlds-of-the-future.json](./169170-worlds-of-the-future.json) |
 | Worlds War 1 | 251649 | [251649-worlds-war-1.json](./251649-worlds-war-1.json) |
+| Worlds Within Worlds | 176312 | [176312-worlds-within-worlds.json](./176312-worlds-within-worlds.json) |
 | Worldseekers | 315630 | [315630-worldseekers.json](./315630-worldseekers.json) |
 | WorldShards | 224584 | [224584-worldshards.json](./224584-worldshards.json) |
 | WorldShift | 21581 | [21581-worldshift.json](./21581-worldshift.json) |
