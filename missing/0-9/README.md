@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 40 Sports Games in 1 | 356845 | [356845-40-sports-games-in-1.json](./356845-40-sports-games-in-1.json) |
 | 40 Winks | 249340 | [249340-40-winks.json](./249340-40-winks.json) |
 | 40 Winks | 5568 | [5568-40-winks.json](./5568-40-winks.json) |
+| 40 x Escape | 222924 | [222924-40-x-escape.json](./222924-40-x-escape.json) |
 | 400 Minutes of /vr/ | 274120 | [274120-400-minutes-of-vr.json](./274120-400-minutes-of-vr.json) |
 | 400 Years | 12383 | [12383-400-years.json](./12383-400-years.json) |
 | 4004Ripper | 342062 | [342062-4004ripper.json](./342062-4004ripper.json) |
@@ -1352,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 688 Attack Sub | 5338 | [5338-688-attack-sub.json](./5338-688-attack-sub.json) |
 | 69 | 334791 | [334791-69.json](./334791-69.json) |
 | 69 Andariel Hot | 208630 | [208630-69-andariel-hot.json](./208630-69-andariel-hot.json) |
+| 69 Ember Hot | 222961 | [222961-69-ember-hot.json](./222961-69-ember-hot.json) |
 | 69 Hitomi Love | 173837 | [173837-69-hitomi-love.json](./173837-69-hitomi-love.json) |
 | 69 Love | 337782 | [337782-69-love.json](./337782-69-love.json) |
 | 69 Moriko Love | 192686 | [192686-69-moriko-love.json](./192686-69-moriko-love.json) |
