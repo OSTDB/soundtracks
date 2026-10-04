@@ -1886,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newton's House of Forces | 163948 | [163948-newtons-house-of-forces.json](./163948-newtons-house-of-forces.json) |
 | Newton's Promise | 388246 | [388246-newtons-promise.json](./388246-newtons-promise.json) |
 | Newtonian Horror | 184486 | [184486-newtonian-horror.json](./184486-newtonian-horror.json) |
+| Newtraction | 194374 | [194374-newtraction.json](./194374-newtraction.json) |
 | NewU Fitness First Personal Trainer | 67689 | [67689-newu-fitness-first-personal-trainer.json](./67689-newu-fitness-first-personal-trainer.json) |
 | Nex Machina | 26202 | [26202-nex-machina.json](./26202-nex-machina.json) |
 | Nexa Tech Laboratory | 273636 | [273636-nexa-tech-laboratory.json](./273636-nexa-tech-laboratory.json) |
@@ -2428,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Delivery | 411670 | [411670-nightmare-delivery.json](./411670-nightmare-delivery.json) |
 | Nightmare Diary | 229703 | [229703-nightmare-diary.json](./229703-nightmare-diary.json) |
 | Nightmare Drive | 179679 | [179679-nightmare-drive.json](./179679-nightmare-drive.json) |
+| Nightmare Farm | 194343 | [194343-nightmare-farm.json](./194343-nightmare-farm.json) |
 | Nightmare Files: Stoned | 347222 | [347222-nightmare-files-stoned.json](./347222-nightmare-files-stoned.json) |
 | Nightmare Frontier | 342784 | [342784-nightmare-frontier.json](./342784-nightmare-frontier.json) |
 | Nightmare Fuel | 307216 | [307216-nightmare-fuel.json](./307216-nightmare-fuel.json) |
@@ -3663,6 +3665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Burned Evil | 276977 | [276977-not-burned-evil.json](./276977-not-burned-evil.json) |
 | Not Dead Yet | 143500 | [143500-not-dead-yet.json](./143500-not-dead-yet.json) |
 | Not Enough Time | 322943 | [322943-not-enough-time.json](./322943-not-enough-time.json) |
+| Not Escape Room | 194355 | [194355-not-escape-room.json](./194355-not-escape-room.json) |
 | Not Everything is Flammable | 223675 | [223675-not-everything-is-flammable.json](./223675-not-everything-is-flammable.json) |
 | Not Evil Sudoku | 297219 | [297219-not-evil-sudoku.json](./297219-not-evil-sudoku.json) |
 | Not Fine | 398354 | [398354-not-fine.json](./398354-not-fine.json) |
