@@ -4975,6 +4975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Battle | 69254 | [69254-the-final-battle.json](./69254-the-final-battle.json) |
 | The Final Battle: Adventure | 216224 | [216224-the-final-battle-adventure.json](./216224-the-final-battle-adventure.json) |
 | The Final Boss | 119458 | [119458-the-final-boss.json](./119458-the-final-boss.json) |
+| The Final Boss | 201115 | [201115-the-final-boss.json](./201115-the-final-boss.json) |
 | The Final Countdown | 277318 | [277318-the-final-countdown.json](./277318-the-final-countdown.json) |
 | The Final Days of Olin Earl | 399750 | [399750-the-final-days-of-olin-earl.json](./399750-the-final-days-of-olin-earl.json) |
 | The Final Days: Blood Dawn | 87959 | [87959-the-final-days-blood-dawn.json](./87959-the-final-days-blood-dawn.json) |
