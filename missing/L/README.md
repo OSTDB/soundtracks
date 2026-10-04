@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Enthusiastic Losers: Premium Edition | 241397 | [241397-league-of-enthusiastic-losers-premium-edition.json](./241397-league-of-enthusiastic-losers-premium-edition.json) |
 | League of Evil | 32856 | [32856-league-of-evil.json](./32856-league-of-evil.json) |
 | League of Evil 3 | 41508 | [41508-league-of-evil-3.json](./41508-league-of-evil-3.json) |
+| League of Felt Tanks | 173038 | [173038-league-of-felt-tanks.json](./173038-league-of-felt-tanks.json) |
 | League of Fighters | 107159 | [107159-league-of-fighters.json](./107159-league-of-fighters.json) |
 | League Of Guessing | 31381 | [31381-league-of-guessing.json](./31381-league-of-guessing.json) |
 | League of Kingdoms | 188647 | [188647-league-of-kingdoms.json](./188647-league-of-kingdoms.json) |
