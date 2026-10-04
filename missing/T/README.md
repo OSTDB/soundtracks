@@ -4700,6 +4700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Empty Desk | 333612 | [333612-the-empty-desk.json](./333612-the-empty-desk.json) |
 | The Empty Turnabout | 303252 | [303252-the-empty-turnabout.json](./303252-the-empty-turnabout.json) |
 | The Enchanted Books | 88172 | [88172-the-enchanted-books.json](./88172-the-enchanted-books.json) |
+| The Enchanted Cave | 197696 | [197696-the-enchanted-cave.json](./197696-the-enchanted-cave.json) |
 | The Enchanted Cave 2 | 13674 | [13674-the-enchanted-cave-2.json](./13674-the-enchanted-cave-2.json) |
 | The Enchanted Kingdom: Elisa's Adventure | 54440 | [54440-the-enchanted-kingdom-elisas-adventure.json](./54440-the-enchanted-kingdom-elisas-adventure.json) |
 | The Enchanted Worlds | 290020 | [290020-the-enchanted-worlds.json](./290020-the-enchanted-worlds.json) |
@@ -4759,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escape Room Chronicles ep2: The Old School Building | 324120 | [324120-the-escape-room-chronicles-ep2-the-old-school-building.json](./324120-the-escape-room-chronicles-ep2-the-old-school-building.json) |
 | The Escape Room Chronicles ep3: The Southern Resort | 324121 | [324121-the-escape-room-chronicles-ep3-the-southern-resort.json](./324121-the-escape-room-chronicles-ep3-the-southern-resort.json) |
 | The Escape: Together | 230906 | [230906-the-escape-together.json](./230906-the-escape-together.json) |
+| The Escapee | 197719 | [197719-the-escapee.json](./197719-the-escapee.json) |
 | The Escapee | 319768 | [319768-the-escapee.json](./319768-the-escapee.json) |
 | The Escaper | 129688 | [129688-the-escaper.json](./129688-the-escaper.json) |
 | The Escapist | 10794 | [10794-the-escapist.json](./10794-the-escapist.json) |
@@ -13666,6 +13668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Attila - The Last Roman Campaign Pack | 53815 | [53815-total-war-attila-the-last-roman-campaign-pack.json](./53815-total-war-attila-the-last-roman-campaign-pack.json) |
 | Total War: Attila - Viking Forefathers Culture Pack | 82027 | [82027-total-war-attila-viking-forefathers-culture-pack.json](./82027-total-war-attila-viking-forefathers-culture-pack.json) |
 | Total War: Elysium | 121439 | [121439-total-war-elysium.json](./121439-total-war-elysium.json) |
+| Total War: Medieval II | 197695 | [197695-total-war-medieval-ii.json](./197695-total-war-medieval-ii.json) |
 | Total War: New World | 356258 | [356258-total-war-new-world.json](./356258-total-war-new-world.json) |
 | Total War: Pharaoh - Dynasty Edition | 250863 | [250863-total-war-pharaoh-dynasty-edition.json](./250863-total-war-pharaoh-dynasty-edition.json) |
 | Total War: Pharaoh Dynasties | 333730 | [333730-total-war-pharaoh-dynasties.json](./333730-total-war-pharaoh-dynasties.json) |
@@ -14178,6 +14181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Evil | 25731 | [25731-tower-of-evil.json](./25731-tower-of-evil.json) |
 | Tower of Fear | 73743 | [73743-tower-of-fear.json](./73743-tower-of-fear.json) |
 | Tower of Fortune | 130751 | [130751-tower-of-fortune.json](./130751-tower-of-fortune.json) |
+| Tower of Fortune 3 | 197738 | [197738-tower-of-fortune-3.json](./197738-tower-of-fortune-3.json) |
 | Tower of God M: The Great Journey | 188404 | [188404-tower-of-god-m-the-great-journey.json](./188404-tower-of-god-m-the-great-journey.json) |
 | Tower of God: Great Journey | 231889 | [231889-tower-of-god-great-journey.json](./231889-tower-of-god-great-journey.json) |
 | Tower of Greed | 216326 | [216326-tower-of-greed.json](./216326-tower-of-greed.json) |
