@@ -1595,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Elysia | 219702 | [219702-adventure-of-elysia.json](./219702-adventure-of-elysia.json) |
 | Adventure of Great Wolf | 118813 | [118813-adventure-of-great-wolf.json](./118813-adventure-of-great-wolf.json) |
 | Adventure of Kanjiro Chapter 1 | 410401 | [410401-adventure-of-kanjiro-chapter-1.json](./410401-adventure-of-kanjiro-chapter-1.json) |
+| Adventure of Leek | 191068 | [191068-adventure-of-leek.json](./191068-adventure-of-leek.json) |
 | Adventure of Mak | 184910 | [184910-adventure-of-mak.json](./184910-adventure-of-mak.json) |
 | Adventure of Realms | 379480 | [379480-adventure-of-realms.json](./379480-adventure-of-realms.json) |
 | Adventure of Terapets: The Crazy Scientist | 133924 | [133924-adventure-of-terapets-the-crazy-scientist.json](./133924-adventure-of-terapets-the-crazy-scientist.json) |
@@ -3917,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze 3D | 43172 | [43172-amaze-3d.json](./43172-amaze-3d.json) |
 | Amaze Classic | 98686 | [98686-amaze-classic.json](./98686-amaze-classic.json) |
 | Amaze Classic: Inverted | 104079 | [104079-amaze-classic-inverted.json](./104079-amaze-classic-inverted.json) |
+| AMaze DOS | 191078 | [191078-amaze-dos.json](./191078-amaze-dos.json) |
 | Amaze Gears | 88087 | [88087-amaze-gears.json](./88087-amaze-gears.json) |
 | Amaze Gears 3 | 158660 | [158660-amaze-gears-3.json](./158660-amaze-gears-3.json) |
 | Amaze St.Patrick | 114548 | [114548-amaze-st-patrick.json](./114548-amaze-st-patrick.json) |
@@ -5017,6 +5019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls | 261367 | [261367-anime-girls.json](./261367-anime-girls.json) |
 | Anime Girls Basketball League | 309004 | [309004-anime-girls-basketball-league.json](./309004-anime-girls-basketball-league.json) |
 | Anime Girls Trample | 379535 | [379535-anime-girls-trample.json](./379535-anime-girls-trample.json) |
+| Anime Girls vs. Soldiers | 191043 | [191043-anime-girls-vs-soldiers.json](./191043-anime-girls-vs-soldiers.json) |
 | Anime Girls: Bouncy Basketball | 342214 | [342214-anime-girls-bouncy-basketball.json](./342214-anime-girls-bouncy-basketball.json) |
 | Anime Girls: College Love | 378779 | [378779-anime-girls-college-love.json](./378779-anime-girls-college-love.json) |
 | Anime Girls: Extended Edition | 277305 | [277305-anime-girls-extended-edition.json](./277305-anime-girls-extended-edition.json) |
@@ -5190,6 +5193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annoying Orange Pinball | 266517 | [266517-annoying-orange-pinball.json](./266517-annoying-orange-pinball.json) |
 | Annoying Orange: Kitchen Carnage | 266516 | [266516-annoying-orange-kitchen-carnage.json](./266516-annoying-orange-kitchen-carnage.json) |
 | Annoying Orange: Splatter Up! | 108462 | [108462-annoying-orange-splatter-up.json](./108462-annoying-orange-splatter-up.json) |
+| Annual Intruders 2.0 | 191048 | [191048-annual-intruders-2-0.json](./191048-annual-intruders-2-0.json) |
 | Annuit Coeptis | 303149 | [303149-annuit-coeptis.json](./303149-annuit-coeptis.json) |
 | Annulus | 196308 | [196308-annulus.json](./196308-annulus.json) |
 | Annum | 286749 | [286749-annum.json](./286749-annum.json) |
@@ -8019,6 +8023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronomicon | 321527 | [321527-astronomicon.json](./321527-astronomicon.json) |
 | Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
 | Astronot | 22270 | [22270-astronot.json](./22270-astronot.json) |
+| Astronots | 191038 | [191038-astronots.json](./191038-astronots.json) |
 | Astropark | 353380 | [353380-astropark.json](./353380-astropark.json) |
 | Astrophidia | 409682 | [409682-astrophidia.json](./409682-astrophidia.json) |
 | Astropocalypse | 289033 | [289033-astropocalypse.json](./289033-astropocalypse.json) |
@@ -8730,6 +8735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn Leaves | 216345 | [216345-autumn-leaves.json](./216345-autumn-leaves.json) |
 | Autumn Night 3D Shooter | 29723 | [29723-autumn-night-3d-shooter.json](./29723-autumn-night-3d-shooter.json) |
 | Autumn Park Mini Golf | 32048 | [32048-autumn-park-mini-golf.json](./32048-autumn-park-mini-golf.json) |
+| Autumn Romance | 191039 | [191039-autumn-romance.json](./191039-autumn-romance.json) |
 | Autumn Soil | 184998 | [184998-autumn-soil.json](./184998-autumn-soil.json) |
 | Autumn Walk | 63883 | [63883-autumn-walk.json](./63883-autumn-walk.json) |
 | Autumn with the Shiba Inu | 236292 | [236292-autumn-with-the-shiba-inu.json](./236292-autumn-with-the-shiba-inu.json) |
