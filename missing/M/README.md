@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Clouds | 117057 | [117057-magic-clouds.json](./117057-magic-clouds.json) |
 | Magic Code | 187863 | [187863-magic-code.json](./187863-magic-code.json) |
 | Magic Combat VR | 115181 | [115181-magic-combat-vr.json](./115181-magic-combat-vr.json) |
+| Magic Craft: The Hero of Fantasy Kingdom | 175227 | [175227-magic-craft-the-hero-of-fantasy-kingdom.json](./175227-magic-craft-the-hero-of-fantasy-kingdom.json) |
 | Magic Crayon | 57649 | [57649-magic-crayon.json](./57649-magic-crayon.json) |
 | Magic Crystals | 192810 | [192810-magic-crystals.json](./192810-magic-crystals.json) |
 | Magic Cube | 48622 | [48622-magic-cube.json](./48622-magic-cube.json) |
@@ -6758,6 +6759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini-Yonku Let's & Go!! Power WGP 2 | 37927 | [37927-mini-yonku-lets-and-go-power-wgp-2.json](./37927-mini-yonku-lets-and-go-power-wgp-2.json) |
 | Mini's Magic World | 33339 | [33339-minis-magic-world.json](./33339-minis-magic-world.json) |
 | Miniacs: Steering Madness | 382227 | [382227-miniacs-steering-madness.json](./382227-miniacs-steering-madness.json) |
+| Miniature Air Hockey | 175239 | [175239-miniature-air-hockey.json](./175239-miniature-air-hockey.json) |
 | Miniature Garden | 25710 | [25710-miniature-garden.json](./25710-miniature-garden.json) |
 | Miniature Golf | 18415 | [18415-miniature-golf.json](./18415-miniature-golf.json) |
 | Miniature Legends | 395238 | [395238-miniature-legends.json](./395238-miniature-legends.json) |
@@ -8023,6 +8025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Milk | 211124 | [211124-monkey-milk.json](./211124-monkey-milk.json) |
 | Monkey Mole Panic | 40386 | [40386-monkey-mole-panic.json](./40386-monkey-mole-panic.json) |
 | Monkey Ninja | 106146 | [106146-monkey-ninja.json](./106146-monkey-ninja.json) |
+| Monkey Preschool Lunchbox | 175161 | [175161-monkey-preschool-lunchbox.json](./175161-monkey-preschool-lunchbox.json) |
 | Monkey Puncher | 50026 | [50026-monkey-puncher.json](./50026-monkey-puncher.json) |
 | Monkey Quest | 182970 | [182970-monkey-quest.json](./182970-monkey-quest.json) |
 | Monkey Rush | 87557 | [87557-monkey-rush.json](./87557-monkey-rush.json) |
@@ -9136,6 +9139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic Chronicles DLC: Nothing Personal | 274664 | [274664-mosaic-chronicles-dlc-nothing-personal.json](./274664-mosaic-chronicles-dlc-nothing-personal.json) |
 | Mosaic Girl Savior | 272367 | [272367-mosaic-girl-savior.json](./272367-mosaic-girl-savior.json) |
 | Mosaic Hearts | 172497 | [172497-mosaic-hearts.json](./172497-mosaic-hearts.json) |
+| Mosaic Mini Golf | 175234 | [175234-mosaic-mini-golf.json](./175234-mosaic-mini-golf.json) |
 | Mosaic of the Pharaohs | 337076 | [337076-mosaic-of-the-pharaohs.json](./337076-mosaic-of-the-pharaohs.json) |
 | Mosaic of the Strange | 345024 | [345024-mosaic-of-the-strange.json](./345024-mosaic-of-the-strange.json) |
 | Mosaic Quiz | 378814 | [378814-mosaic-quiz.json](./378814-mosaic-quiz.json) |
