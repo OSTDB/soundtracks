@@ -2923,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicatte | 151575 | [151575-delicatte.json](./151575-delicatte.json) |
 | Delicious Burger | 274027 | [274027-delicious-burger.json](./274027-delicious-burger.json) |
 | Delicious Donut | 290516 | [290516-delicious-donut.json](./290516-delicious-donut.json) |
+| Delicious Dungeon | 211241 | [211241-delicious-dungeon.json](./211241-delicious-dungeon.json) |
 | Delicious Fruitworld | 173309 | [173309-delicious-fruitworld.json](./173309-delicious-fruitworld.json) |
 | Delicious Letters | 176982 | [176982-delicious-letters.json](./176982-delicious-letters.json) |
 | Delicious World | 227476 | [227476-delicious-world.json](./227476-delicious-world.json) |
@@ -3282,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Denbora | 326067 | [326067-denbora.json](./326067-denbora.json) |
 | Dendam | 262104 | [262104-dendam.json](./262104-dendam.json) |
 | Dendron 64 | 401493 | [401493-dendron-64.json](./401493-dendron-64.json) |
+| Deneb: Across the Stars | 211128 | [211128-deneb-across-the-stars.json](./211128-deneb-across-the-stars.json) |
 | Denev | 108465 | [108465-denev.json](./108465-denev.json) |
 | Dengeki Bunko: Fighting Climax | 11448 | [11448-dengeki-bunko-fighting-climax.json](./11448-dengeki-bunko-fighting-climax.json) |
 | Dengeki Bunko: Fighting Climax Ignition - Mobile Version | 52139 | [52139-dengeki-bunko-fighting-climax-ignition-mobile-version.json](./52139-dengeki-bunko-fighting-climax-ignition-mobile-version.json) |
@@ -7078,6 +7080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downhill Domination | 6340 | [6340-downhill-domination.json](./6340-downhill-domination.json) |
 | Downhill Driver: Extreme Racing Simulator | 283285 | [283285-downhill-driver-extreme-racing-simulator.json](./283285-downhill-driver-extreme-racing-simulator.json) |
 | Downhill Jam | 181303 | [181303-downhill-jam.json](./181303-downhill-jam.json) |
+| Downhill Legend | 211240 | [211240-downhill-legend.json](./211240-downhill-legend.json) |
 | Downhill Slalom | 66952 | [66952-downhill-slalom.json](./66952-downhill-slalom.json) |
 | Downhill Snow | 143643 | [143643-downhill-snow.json](./143643-downhill-snow.json) |
 | DownhillMadness | 235800 | [235800-downhillmadness.json](./235800-downhillmadness.json) |
