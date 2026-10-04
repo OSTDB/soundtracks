@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kayak VR: Mirage - Soča Valley | 305363 | [305363-kayak-vr-mirage-soca-valley.json](./305363-kayak-vr-mirage-soca-valley.json) |
 | Kayaks Don't Climb | 355550 | [355550-kayaks-dont-climb.json](./355550-kayaks-dont-climb.json) |
 | Kayden Garth | 229608 | [229608-kayden-garth.json](./229608-kayden-garth.json) |
+| Kayko & Kokosh Coloring Book: Deluxe Edition | 221082 | [221082-kayko-and-kokosh-coloring-book-deluxe-edition.json](./221082-kayko-and-kokosh-coloring-book-deluxe-edition.json) |
 | Kayra Online | 139405 | [139405-kayra-online.json](./139405-kayra-online.json) |
 | Kaz Ball | 81735 | [81735-kaz-ball.json](./81735-kaz-ball.json) |
 | Kaz's Adventure | 207768 | [207768-kazs-adventure.json](./207768-kazs-adventure.json) |
@@ -979,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keturan | 358470 | [358470-keturan.json](./358470-keturan.json) |
 | Ketzal's Corridors | 47651 | [47651-ketzals-corridors.json](./47651-ketzals-corridors.json) |
 | Ketzer | 405720 | [405720-ketzer.json](./405720-ketzer.json) |
+| Kevin Costner's Waterworld | 221224 | [221224-kevin-costners-waterworld.json](./221224-kevin-costners-waterworld.json) |
 | Kevin Keegan's Player Manager | 42618 | [42618-kevin-keegans-player-manager.json](./42618-kevin-keegans-player-manager.json) |
 | Kevin's Playing In Berlin | 383397 | [383397-kevins-playing-in-berlin.json](./383397-kevins-playing-in-berlin.json) |
 | Kevtris | 68719 | [68719-kevtris.json](./68719-kevtris.json) |
