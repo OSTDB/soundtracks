@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition | 169174 | [169174-s-t-a-l-k-e-r-2-heart-of-chornobyl-ultimate-edition.json](./169174-s-t-a-l-k-e-r-2-heart-of-chornobyl-ultimate-edition.json) |
 | S.T.A.L.K.E.R. Complete | 359016 | [359016-s-t-a-l-k-e-r-complete.json](./359016-s-t-a-l-k-e-r-complete.json) |
 | S.T.A.L.K.E.R. H.A.C.R. | 377614 | [377614-s-t-a-l-k-e-r-h-a-c-r.json](./377614-s-t-a-l-k-e-r-h-a-c-r.json) |
+| S.T.A.L.K.E.R. Mobile | 172543 | [172543-s-t-a-l-k-e-r-mobile.json](./172543-s-t-a-l-k-e-r-mobile.json) |
 | S.T.A.L.K.E.R.: Anomaly | 126153 | [126153-s-t-a-l-k-e-r-anomaly.json](./126153-s-t-a-l-k-e-r-anomaly.json) |
 | S.T.A.L.K.E.R.: Call of Chernobyl | 132011 | [132011-s-t-a-l-k-e-r-call-of-chernobyl.json](./132011-s-t-a-l-k-e-r-call-of-chernobyl.json) |
 | S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition | 343444 | [343444-s-t-a-l-k-e-r-call-of-prypiat-enhanced-edition.json](./343444-s-t-a-l-k-e-r-call-of-prypiat-enhanced-edition.json) |
@@ -416,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sainthood | 249223 | [249223-sainthood.json](./249223-sainthood.json) |
 | Sainthum | 149557 | [149557-sainthum.json](./149557-sainthum.json) |
 | Saints & Sinners Bingo | 206744 | [206744-saints-and-sinners-bingo.json](./206744-saints-and-sinners-bingo.json) |
+| Saints & Sinners Bowling | 172540 | [172540-saints-and-sinners-bowling.json](./172540-saints-and-sinners-bowling.json) |
 | Saints of Virtue | 67312 | [67312-saints-of-virtue.json](./67312-saints-of-virtue.json) |
 | Saints Row | 198113 | [198113-saints-row.json](./198113-saints-row.json) |
 | Saints Row | 825 | [825-saints-row.json](./825-saints-row.json) |
@@ -1621,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Life Simulator | 97049 | [97049-school-life-simulator.json](./97049-school-life-simulator.json) |
 | School Love Life: Anime Games | 299909 | [299909-school-love-life-anime-games.json](./299909-school-love-life-anime-games.json) |
 | School Maze | 72059 | [72059-school-maze.json](./72059-school-maze.json) |
+| School of Chaos Online MMORPG | 172545 | [172545-school-of-chaos-online-mmorpg.json](./172545-school-of-chaos-online-mmorpg.json) |
 | School of Dragons: How to Train Your Dragon | 36191 | [36191-school-of-dragons-how-to-train-your-dragon.json](./36191-school-of-dragons-how-to-train-your-dragon.json) |
 | School of Talent: Suzu-Route | 29932 | [29932-school-of-talent-suzu-route.json](./29932-school-of-talent-suzu-route.json) |
 | School Out Simulator2 | 296443 | [296443-school-out-simulator2.json](./296443-school-out-simulator2.json) |
@@ -6119,6 +6122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sirius: Age of the Free Agents | 115075 | [115075-sirius-age-of-the-free-agents.json](./115075-sirius-age-of-the-free-agents.json) |
 | SirKwitz | 306336 | [306336-sirkwitz.json](./306336-sirkwitz.json) |
 | Sirocco | 298272 | [298272-sirocco.json](./298272-sirocco.json) |
+| Sisão | 172558 | [172558-sisao.json](./172558-sisao.json) |
 | Sissa's Path | 211116 | [211116-sissas-path.json](./211116-sissas-path.json) |
 | Sister Lesson | 416016 | [416016-sister-lesson.json](./416016-sister-lesson.json) |
 | Sister Location: MA | 230756 | [230756-sister-location-ma.json](./230756-sister-location-ma.json) |
@@ -7994,6 +7998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sno Pokeler | 237532 | [237532-sno-pokeler.json](./237532-sno-pokeler.json) |
 | Snoball in Hell | 293314 | [293314-snoball-in-hell.json](./293314-snoball-in-hell.json) |
 | Snogbert | 347805 | [347805-snogbert.json](./347805-snogbert.json) |
+| Snoggle | 172458 | [172458-snoggle.json](./172458-snoggle.json) |
 | Snolf 3 & Knolf | 143734 | [143734-snolf-3-and-knolf.json](./143734-snolf-3-and-knolf.json) |
 | Snolf CD: A Snolf in Time | 143736 | [143736-snolf-cd-a-snolf-in-time.json](./143736-snolf-cd-a-snolf-in-time.json) |
 | Snolf Zero: The Prequel | 143735 | [143735-snolf-zero-the-prequel.json](./143735-snolf-zero-the-prequel.json) |
@@ -9280,6 +9285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Reshuffled | 331706 | [331706-sonic-reshuffled.json](./331706-sonic-reshuffled.json) |
 | Sonic Revolution | 331869 | [331869-sonic-revolution.json](./331869-sonic-revolution.json) |
 | Sonic Riders | 4158 | [4158-sonic-riders.json](./4158-sonic-riders.json) |
+| Sonic Riders DX | 172466 | [172466-sonic-riders-dx.json](./172466-sonic-riders-dx.json) |
 | Sonic Riders Enhanced | 417435 | [417435-sonic-riders-enhanced.json](./417435-sonic-riders-enhanced.json) |
 | Sonic Riders Future | 374698 | [374698-sonic-riders-future.json](./374698-sonic-riders-future.json) |
 | Sonic Riders Plus | 369154 | [369154-sonic-riders-plus.json](./369154-sonic-riders-plus.json) |
@@ -16220,6 +16226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chase: Criminal Termination | 40430 | [40430-super-chase-criminal-termination.json](./40430-super-chase-criminal-termination.json) |
 | Super Chibi Knight | 36438 | [36438-super-chibi-knight.json](./36438-super-chibi-knight.json) |
 | Super Chick Sisters | 140535 | [140535-super-chick-sisters.json](./140535-super-chick-sisters.json) |
+| Super Chicken Jumper | 172471 | [172471-super-chicken-jumper.json](./172471-super-chicken-jumper.json) |
 | Super Chillers: The Chat Room | 372641 | [372641-super-chillers-the-chat-room.json](./372641-super-chillers-the-chat-room.json) |
 | Super Chinese 1-2 Advance | 63963 | [63963-super-chinese-1-2-advance.json](./63963-super-chinese-1-2-advance.json) |
 | Super Chinese Fighter EX | 50557 | [50557-super-chinese-fighter-ex.json](./50557-super-chinese-fighter-ex.json) |
@@ -16815,6 +16822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. 2 Squared: Return to Subcon | 308376 | [308376-super-mario-bros-2-squared-return-to-subcon.json](./308376-super-mario-bros-2-squared-return-to-subcon.json) |
 | Super Mario Bros. 3 | 158723 | [158723-super-mario-bros-3.json](./158723-super-mario-bros-3.json) |
 | Super Mario Bros. 3 Advance | 322002 | [322002-super-mario-bros-3-advance.json](./322002-super-mario-bros-3-advance.json) |
+| Super Mario Bros. 3 Game Watch | 172539 | [172539-super-mario-bros-3-game-watch.json](./172539-super-mario-bros-3-game-watch.json) |
 | Super Mario Bros. 3: The Lost Levels | 239902 | [239902-super-mario-bros-3-the-lost-levels.json](./239902-super-mario-bros-3-the-lost-levels.json) |
 | Super Mario Bros. 3+ | 227896 | [227896-super-mario-bros-3.json](./227896-super-mario-bros-3.json) |
 | Super Mario Bros. 35 | 138235 | [138235-super-mario-bros-35.json](./138235-super-mario-bros-35.json) |
