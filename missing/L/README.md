@@ -4100,6 +4100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Los Pilarcitos | 398368 | [398368-los-pilarcitos.json](./398368-los-pilarcitos.json) |
 | Los Reinos de Aethermoor | 396577 | [396577-los-reinos-de-aethermoor.json](./396577-los-reinos-de-aethermoor.json) |
 | Los Secretos de Altura | 323849 | [323849-los-secretos-de-altura.json](./323849-los-secretos-de-altura.json) |
+| Lose 95 | 201112 | [201112-lose-95.json](./201112-lose-95.json) |
 | Lose Control | 178632 | [178632-lose-control.json](./178632-lose-control.json) |
 | Lose Control | 380642 | [380642-lose-control.json](./380642-lose-control.json) |
 | Lose Grace Tale | 358478 | [358478-lose-grace-tale.json](./358478-lose-grace-tale.json) |
