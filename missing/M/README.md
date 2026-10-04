@@ -5157,6 +5157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Torrent | 67703 | [67703-metal-torrent.json](./67703-metal-torrent.json) |
 | Metal Walker | 49872 | [49872-metal-walker.json](./49872-metal-walker.json) |
 | Metal War | 242008 | [242008-metal-war.json](./242008-metal-war.json) |
+| Metal Wars 2 | 196627 | [196627-metal-wars-2.json](./196627-metal-wars-2.json) |
 | Metal Wolf | 109171 | [109171-metal-wolf.json](./109171-metal-wolf.json) |
 | Metal World: Street Scraps | 201145 | [201145-metal-world-street-scraps.json](./201145-metal-world-street-scraps.json) |
 | Metal: Hellsinger | 134560 | [134560-metal-hellsinger.json](./134560-metal-hellsinger.json) |
@@ -7870,6 +7871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monday | 179062 | [179062-monday.json](./179062-monday.json) |
 | Monday Meltdown | 260159 | [260159-monday-meltdown.json](./260159-monday-meltdown.json) |
 | Monday Meow | 388762 | [388762-monday-meow.json](./388762-monday-meow.json) |
+| Monday Night Monsters Football | 196626 | [196626-monday-night-monsters-football.json](./196626-monday-night-monsters-football.json) |
 | Mondays: A Sisyphean Typing Game | 209491 | [209491-mondays-a-sisyphean-typing-game.json](./209491-mondays-a-sisyphean-typing-game.json) |
 | Mondealy | 189076 | [189076-mondealy.json](./189076-mondealy.json) |
 | Mondly: Learn Languages in VR | 315636 | [315636-mondly-learn-languages-in-vr.json](./315636-mondly-learn-languages-in-vr.json) |
@@ -8128,6 +8130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster evolution: hit and smash | 101955 | [101955-monster-evolution-hit-and-smash.json](./101955-monster-evolution-hit-and-smash.json) |
 | Monster Fair | 218156 | [218156-monster-fair.json](./218156-monster-fair.json) |
 | Monster Feeder | 344917 | [344917-monster-feeder.json](./344917-monster-feeder.json) |
+| Monster Fight | 196665 | [196665-monster-fight.json](./196665-monster-fight.json) |
 | Monster Fighter | 199360 | [199360-monster-fighter.json](./199360-monster-fighter.json) |
 | Monster Fishing 2018 | 102766 | [102766-monster-fishing-2018.json](./102766-monster-fishing-2018.json) |
 | Monster Fishing Legends | 108277 | [108277-monster-fishing-legends.json](./108277-monster-fishing-legends.json) |
@@ -8723,6 +8726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn Adventure: Der Fluch des Goldes | 69856 | [69856-moorhuhn-adventure-der-fluch-des-goldes.json](./69856-moorhuhn-adventure-der-fluch-des-goldes.json) |
 | Moorhuhn Adventure: Der Schatz des Pharao | 190208 | [190208-moorhuhn-adventure-der-schatz-des-pharao.json](./190208-moorhuhn-adventure-der-schatz-des-pharao.json) |
 | Moorhuhn in Südafrika | 282543 | [282543-moorhuhn-in-sudafrika.json](./282543-moorhuhn-in-sudafrika.json) |
+| Moorhuhn Jump and Run: Traps and Treasures 2 | 196642 | [196642-moorhuhn-jump-and-run-traps-and-treasures-2.json](./196642-moorhuhn-jump-and-run-traps-and-treasures-2.json) |
 | Moorhuhn: Die ersten 10 Jahre | 265946 | [265946-moorhuhn-die-ersten-10-jahre.json](./265946-moorhuhn-die-ersten-10-jahre.json) |
 | Moorhuhn: The Good, The Egg, and The Ugly Mobile | 282546 | [282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json](./282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json) |
 | Moose Boarders | 327381 | [327381-moose-boarders.json](./327381-moose-boarders.json) |
