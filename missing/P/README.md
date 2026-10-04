@@ -7054,6 +7054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerful Wind, Slicked-back Hair, But It’s a Game | 393484 | [393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json](./393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json) |
 | Powerglove | 183459 | [183459-powerglove.json](./183459-powerglove.json) |
 | PowerHits: BattleTech | 69864 | [69864-powerhits-battletech.json](./69864-powerhits-battletech.json) |
+| Powerjackers: Superhero Battle Royale | 204941 | [204941-powerjackers-superhero-battle-royale.json](./204941-powerjackers-superhero-battle-royale.json) |
 | Powerline.io | 191257 | [191257-powerline-io.json](./191257-powerline-io.json) |
 | Powerplay | 311141 | [311141-powerplay.json](./311141-powerplay.json) |
 | Powerplay Hockey | 78947 | [78947-powerplay-hockey.json](./78947-powerplay-hockey.json) |
