@@ -1724,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaper | 292115 | [292115-reaper.json](./292115-reaper.json) |
 | Reaper Actual | 352748 | [352748-reaper-actual.json](./352748-reaper-actual.json) |
 | Reaper Hunt: Survivor | 345495 | [345495-reaper-hunt-survivor.json](./345495-reaper-hunt-survivor.json) |
+| Reaper of Immortals | 200520 | [200520-reaper-of-immortals.json](./200520-reaper-of-immortals.json) |
 | Reaper Recon | 360639 | [360639-reaper-recon.json](./360639-reaper-recon.json) |
 | Reaper Rules | 331435 | [331435-reaper-rules.json](./331435-reaper-rules.json) |
 | Reaper's Awakening! | 363896 | [363896-reapers-awakening.json](./363896-reapers-awakening.json) |
@@ -5406,6 +5407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll It to the End | 244718 | [244718-roll-it-to-the-end.json](./244718-roll-it-to-the-end.json) |
 | Roll Me Home | 271381 | [271381-roll-me-home.json](./271381-roll-me-home.json) |
 | Roll or Die | 382911 | [382911-roll-or-die.json](./382911-roll-or-die.json) |
+| Roll Player | 200527 | [200527-roll-player.json](./200527-roll-player.json) |
 | Roll Prix | 120252 | [120252-roll-prix.json](./120252-roll-prix.json) |
 | Roll the Ball | 273418 | [273418-roll-the-ball.json](./273418-roll-the-ball.json) |
 | Roll The Bones | 271900 | [271900-roll-the-bones.json](./271900-roll-the-bones.json) |
@@ -5993,6 +5995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RowBot Rally | 256258 | [256258-rowbot-rally.json](./256258-rowbot-rally.json) |
 | Rowdy Wrestling | 104211 | [104211-rowdy-wrestling.json](./104211-rowdy-wrestling.json) |
 | Rowen's Grand Adventure | 366391 | [366391-rowens-grand-adventure.json](./366391-rowens-grand-adventure.json) |
+| Rowfall | 200524 | [200524-rowfall.json](./200524-rowfall.json) |
 | Rowtropia | 260628 | [260628-rowtropia.json](./260628-rowtropia.json) |
 | Rox | 50066 | [50066-rox.json](./50066-rox.json) |
 | Rox II | 315507 | [315507-rox-ii.json](./315507-rox-ii.json) |
@@ -6571,6 +6574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Education | 148459 | [148459-running-education.json](./148459-running-education.json) |
 | Running Fox | 267061 | [267061-running-fox.json](./267061-running-fox.json) |
 | Running Gods | 32231 | [32231-running-gods.json](./32231-running-gods.json) |
+| Running in the Y2K | 200506 | [200506-running-in-the-y2k.json](./200506-running-in-the-y2k.json) |
 | Running into the Cyberpunk | 219655 | [219655-running-into-the-cyberpunk.json](./219655-running-into-the-cyberpunk.json) |
 | Running King | 83559 | [83559-running-king.json](./83559-running-king.json) |
 | Running Knight | 308401 | [308401-running-knight.json](./308401-running-knight.json) |
