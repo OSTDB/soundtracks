@@ -1767,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bassline Sinker | 110157 | [110157-bassline-sinker.json](./110157-bassline-sinker.json) |
 | Bassmaster Fishing 2022 | 169996 | [169996-bassmaster-fishing-2022.json](./169996-bassmaster-fishing-2022.json) |
 | Bassmaster Fishing 2022: Classic Edition | 227354 | [227354-bassmaster-fishing-2022-classic-edition.json](./227354-bassmaster-fishing-2022-classic-edition.json) |
+| Bassmaster Fishing 2022: Deluxe Edition | 173118 | [173118-bassmaster-fishing-2022-deluxe-edition.json](./173118-bassmaster-fishing-2022-deluxe-edition.json) |
 | Bassmaster Fishing 2022: Elite Fishing Equipment Pack | 225081 | [225081-bassmaster-fishing-2022-elite-fishing-equipment-pack.json](./225081-bassmaster-fishing-2022-elite-fishing-equipment-pack.json) |
 | Bassmaster Fishing 2022: Lake Hartwell | 193438 | [193438-bassmaster-fishing-2022-lake-hartwell.json](./193438-bassmaster-fishing-2022-lake-hartwell.json) |
 | Bassmaster Fishing 2022: Predator Equipment Pack | 225082 | [225082-bassmaster-fishing-2022-predator-equipment-pack.json](./225082-bassmaster-fishing-2022-predator-equipment-pack.json) |
@@ -9148,6 +9149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Hop League: Map Pack 1 | 226275 | [226275-bunny-hop-league-map-pack-1.json](./226275-bunny-hop-league-map-pack-1.json) |
 | Bunny Hopper | 377049 | [377049-bunny-hopper.json](./377049-bunny-hopper.json) |
 | Bunny Hurling | 335286 | [335286-bunny-hurling.json](./335286-bunny-hurling.json) |
+| Bunny Jewel Match Adventure | 173034 | [173034-bunny-jewel-match-adventure.json](./173034-bunny-jewel-match-adventure.json) |
 | Bunny Love Expert | 333216 | [333216-bunny-love-expert.json](./333216-bunny-love-expert.json) |
 | Bunny Madness Anarchy | 38995 | [38995-bunny-madness-anarchy.json](./38995-bunny-madness-anarchy.json) |
 | Bunny Maid's Estrus Diary | 82777 | [82777-bunny-maids-estrus-diary.json](./82777-bunny-maids-estrus-diary.json) |
@@ -9423,6 +9425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Management | 400853 | [400853-business-management.json](./400853-business-management.json) |
 | Business Ryoku Kentei DS | 70410 | [70410-business-ryoku-kentei-ds.json](./70410-business-ryoku-kentei-ds.json) |
 | Business Superstar Idle Tycoon | 262346 | [262346-business-superstar-idle-tycoon.json](./262346-business-superstar-idle-tycoon.json) |
+| Business Tour Deluxe | 173128 | [173128-business-tour-deluxe.json](./173128-business-tour-deluxe.json) |
 | Business Tycoon | 12409 | [12409-business-tycoon.json](./12409-business-tycoon.json) |
 | BusinessMan | 52066 | [52066-businessman.json](./52066-businessman.json) |
 | Businessman Simulator | 402891 | [402891-businessman-simulator.json](./402891-businessman-simulator.json) |
