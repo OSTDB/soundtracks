@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmony | 371452 | [371452-harmony.json](./371452-harmony.json) |
 | Harmony in the Wild | 346717 | [346717-harmony-in-the-wild.json](./346717-harmony-in-the-wild.json) |
 | Harmony of Fear | 337207 | [337207-harmony-of-fear.json](./337207-harmony-of-fear.json) |
+| Harmony Overture | 199997 | [199997-harmony-overture.json](./199997-harmony-overture.json) |
 | Harmony Summer Hardpack Tape 11-in-1 | 279203 | [279203-harmony-summer-hardpack-tape-11-in-1.json](./279203-harmony-summer-hardpack-tape-11-in-1.json) |
 | HarmonyTD | 104133 | [104133-harmonytd.json](./104133-harmonytd.json) |
 | Harms Way | 47443 | [47443-harms-way.json](./47443-harms-way.json) |
@@ -4806,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeless | 277287 | [277287-homeless.json](./277287-homeless.json) |
 | Homeless | 312726 | [312726-homeless.json](./312726-homeless.json) |
 | Homeless Guy | 258733 | [258733-homeless-guy.json](./258733-homeless-guy.json) |
+| Homeless Guy: Fight in Heaven | 199962 | [199962-homeless-guy-fight-in-heaven.json](./199962-homeless-guy-fight-in-heaven.json) |
 | Homeless Life | 248162 | [248162-homeless-life.json](./248162-homeless-life.json) |
 | Homeless Pigeon | 177321 | [177321-homeless-pigeon.json](./177321-homeless-pigeon.json) |
 | Homeless Simulator 2 | 118416 | [118416-homeless-simulator-2.json](./118416-homeless-simulator-2.json) |
@@ -5731,6 +5733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Spikes | 271786 | [271786-house-of-spikes.json](./271786-house-of-spikes.json) |
 | House of Terror | 338328 | [338328-house-of-terror.json](./338328-house-of-terror.json) |
 | House of Terror VR | 23336 | [23336-house-of-terror-vr.json](./23336-house-of-terror-vr.json) |
+| House of the Dead 2 & 3 Return | 200001 | [200001-house-of-the-dead-2-and-3-return.json](./200001-house-of-the-dead-2-and-3-return.json) |
 | House of the Golden Mask | 378175 | [378175-house-of-the-golden-mask.json](./378175-house-of-the-golden-mask.json) |
 | House of the Soul | 234198 | [234198-house-of-the-soul.json](./234198-house-of-the-soul.json) |
 | House of Usher | 125339 | [125339-house-of-usher.json](./125339-house-of-usher.json) |
