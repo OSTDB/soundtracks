@@ -5661,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop | 229706 | [229706-rooftop.json](./229706-rooftop.json) |
 | Rooftop | 337768 | [337768-rooftop.json](./337768-rooftop.json) |
 | Rooftop Cop | 35696 | [35696-rooftop-cop.json](./35696-rooftop-cop.json) |
+| Rooftop Garden Simulator | 208246 | [208246-rooftop-garden-simulator.json](./208246-rooftop-garden-simulator.json) |
 | Rooftop Postgirl | 216756 | [216756-rooftop-postgirl.json](./216756-rooftop-postgirl.json) |
 | Rooftop Rascal: The Alien Cat | 393933 | [393933-rooftop-rascal-the-alien-cat.json](./393933-rooftop-rascal-the-alien-cat.json) |
 | Rooftop Rascal: The Claus Cat | 328386 | [328386-rooftop-rascal-the-claus-cat.json](./328386-rooftop-rascal-the-claus-cat.json) |
@@ -5678,6 +5679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rookie Tank | 116357 | [116357-rookie-tank.json](./116357-rookie-tank.json) |
 | Rooks Keep | 17373 | [17373-rooks-keep.json](./17373-rooks-keep.json) |
 | RookStar | 264220 | [264220-rookstar.json](./264220-rookstar.json) |
+| Rooky Moves | 208264 | [208264-rooky-moves.json](./208264-rooky-moves.json) |
 | Room | 291092 | [291092-room.json](./291092-room.json) |
 | Room | 293847 | [293847-room.json](./293847-room.json) |
 | Room 14 | 301855 | [301855-room-14.json](./301855-room-14.json) |
