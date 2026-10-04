@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall Street Tycoon | 71037 | [71037-wall-street-tycoon.json](./71037-wall-street-tycoon.json) |
 | Wall Street Wars: the Final Conflict! | 98788 | [98788-wall-street-wars-the-final-conflict.json](./98788-wall-street-wars-the-final-conflict.json) |
 | Wall to Wall | 115142 | [115142-wall-to-wall.json](./115142-wall-to-wall.json) |
+| Wall to Wall | 188997 | [188997-wall-to-wall.json](./188997-wall-to-wall.json) |
 | Wall Town Wonders | 320625 | [320625-wall-town-wonders.json](./320625-wall-town-wonders.json) |
 | Wall World | 224705 | [224705-wall-world.json](./224705-wall-world.json) |
 | Wall World Complete | 369136 | [369136-wall-world-complete.json](./369136-wall-world-complete.json) |
