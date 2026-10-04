@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabby Cat's Great Catventure | 177423 | [177423-tabby-cats-great-catventure.json](./177423-tabby-cats-great-catventure.json) |
 | Tabé-O-Ja | 150071 | [150071-tabe-o-ja.json](./150071-tabe-o-ja.json) |
 | Tabi no Yubisashi Kaiwachou DS: DS Series 1 - Thai | 383646 | [383646-tabi-no-yubisashi-kaiwachou-ds-ds-series-1-thai.json](./383646-tabi-no-yubisashi-kaiwachou-ds-ds-series-1-thai.json) |
+| Table Ball | 212844 | [212844-table-ball.json](./212844-table-ball.json) |
 | Table Ball: Amazing Extras Skin Pack | 293399 | [293399-table-ball-amazing-extras-skin-pack.json](./293399-table-ball-amazing-extras-skin-pack.json) |
 | Table Ball: Emotions Skin Pack | 293398 | [293398-table-ball-emotions-skin-pack.json](./293398-table-ball-emotions-skin-pack.json) |
 | Table Flip Simulator | 306415 | [306415-table-flip-simulator.json](./306415-table-flip-simulator.json) |
@@ -1080,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Sudoku | 190734 | [190734-tank-sudoku.json](./190734-tank-sudoku.json) |
 | Tank survival Game | 110985 | [110985-tank-survival-game.json](./110985-tank-survival-game.json) |
 | Tank Time | 177424 | [177424-tank-time.json](./177424-tank-time.json) |
+| Tank Top Tactics | 212842 | [212842-tank-top-tactics.json](./212842-tank-top-tactics.json) |
 | Tank Trouble 3D | 338701 | [338701-tank-trouble-3d.json](./338701-tank-trouble-3d.json) |
 | Tank Tyranny | 289346 | [289346-tank-tyranny.json](./289346-tank-tyranny.json) |
 | Tank Universal | 9455 | [9455-tank-universal.json](./9455-tank-universal.json) |
@@ -1878,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teikoku Kareido -Kakumei no Rondo- | 136434 | [136434-teikoku-kareido-kakumei-no-rondo.json](./136434-teikoku-kareido-kakumei-no-rondo.json) |
 | Teikoku Sensenki | 204483 | [204483-teikoku-sensenki.json](./204483-teikoku-sensenki.json) |
 | Teikyuu wo Koete | 350576 | [350576-teikyuu-wo-koete.json](./350576-teikyuu-wo-koete.json) |
+| Teimeo kiugi: deuraegon sonyeo RPG | 212847 | [212847-teimeo-kiugi-deuraegon-sonyeo-rpg.json](./212847-teimeo-kiugi-deuraegon-sonyeo-rpg.json) |
 | Teios' Journey | 347849 | [347849-teios-journey.json](./347849-teios-journey.json) |
 | Teisatsu | 196248 | [196248-teisatsu.json](./196248-teisatsu.json) |
 | Teisoukannen Zero: Yariman Kazoku to Hame Kurui Natsuyasumi | 82956 | [82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json](./82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json) |
@@ -4663,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Employment Collection | 204673 | [204673-the-employment-collection.json](./204673-the-employment-collection.json) |
 | The Empress of Aeser | 236227 | [236227-the-empress-of-aeser.json](./236227-the-empress-of-aeser.json) |
 | The Empress of Mahjong | 249471 | [249471-the-empress-of-mahjong.json](./249471-the-empress-of-mahjong.json) |
+| The Empress Quest: Full Moons Saga | 212840 | [212840-the-empress-quest-full-moons-saga.json](./212840-the-empress-quest-full-moons-saga.json) |
 | The Empress: Awakening | 255851 | [255851-the-empress-awakening.json](./255851-the-empress-awakening.json) |
 | The Emptiness | 139431 | [139431-the-emptiness.json](./139431-the-emptiness.json) |
 | The Empty Desk | 333612 | [333612-the-empty-desk.json](./333612-the-empty-desk.json) |
@@ -6003,6 +6007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Melon Rush | 330937 | [330937-the-jumping-melon-rush.json](./330937-the-jumping-melon-rush.json) |
 | The Jumping Muffin | 229166 | [229166-the-jumping-muffin.json](./229166-the-jumping-muffin.json) |
 | The Jumping Muffin: Turbo | 229167 | [229167-the-jumping-muffin-turbo.json](./229167-the-jumping-muffin-turbo.json) |
+| The Jumping Noodles | 212689 | [212689-the-jumping-noodles.json](./212689-the-jumping-noodles.json) |
 | The Jumping Noodles: Turbo | 212792 | [212792-the-jumping-noodles-turbo.json](./212792-the-jumping-noodles-turbo.json) |
 | The Jumping Onion Ring | 329575 | [329575-the-jumping-onion-ring.json](./329575-the-jumping-onion-ring.json) |
 | The Jumping Orange 3 | 373563 | [373563-the-jumping-orange-3.json](./373563-the-jumping-orange-3.json) |
@@ -6519,6 +6524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Sora no Kiseki the 3rd Kai - HD Edition | 268097 | [268097-the-legend-of-heroes-sora-no-kiseki-the-3rd-kai-hd-edition.json](./268097-the-legend-of-heroes-sora-no-kiseki-the-3rd-kai-hd-edition.json) |
 | The Legend of Heroes: Trails Beyond the Horizon | 280573 | [280573-the-legend-of-heroes-trails-beyond-the-horizon.json](./280573-the-legend-of-heroes-trails-beyond-the-horizon.json) |
 | The Legend of Heroes: Trails from Zero - Deluxe Edition | 248792 | [248792-the-legend-of-heroes-trails-from-zero-deluxe-edition.json](./248792-the-legend-of-heroes-trails-from-zero-deluxe-edition.json) |
+| The Legend of Heroes: Trails in the Dawn M | 212846 | [212846-the-legend-of-heroes-trails-in-the-dawn-m.json](./212846-the-legend-of-heroes-trails-in-the-dawn-m.json) |
 | The Legend of Heroes: Trails in the Sky | 8986 | [8986-the-legend-of-heroes-trails-in-the-sky.json](./8986-the-legend-of-heroes-trails-in-the-sky.json) |
 | The Legend of Heroes: Trails in the Sky the 3rd | 28101 | [28101-the-legend-of-heroes-trails-in-the-sky-the-3rd.json](./28101-the-legend-of-heroes-trails-in-the-sky-the-3rd.json) |
 | The Legend of Heroes: Trails into Reverie | 136673 | [136673-the-legend-of-heroes-trails-into-reverie.json](./136673-the-legend-of-heroes-trails-into-reverie.json) |
@@ -9273,6 +9279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tick of Guilt | 180703 | [180703-the-tick-of-guilt.json](./180703-the-tick-of-guilt.json) |
 | The Tickle People | 383047 | [383047-the-tickle-people.json](./383047-the-tickle-people.json) |
 | The Tide | 132786 | [132786-the-tide.json](./132786-the-tide.json) |
+| The Tides | 212724 | [212724-the-tides.json](./212724-the-tides.json) |
 | The Tides of Time | 141790 | [141790-the-tides-of-time.json](./141790-the-tides-of-time.json) |
 | The Tideshell Keeper | 211805 | [211805-the-tideshell-keeper.json](./211805-the-tideshell-keeper.json) |
 | The Tiger T | 210668 | [210668-the-tiger-t.json](./210668-the-tiger-t.json) |
@@ -16200,6 +16207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble Magnet | 272876 | [272876-trouble-magnet.json](./272876-trouble-magnet.json) |
 | Trouble of Tabu | 298050 | [298050-trouble-of-tabu.json](./298050-trouble-of-tabu.json) |
 | Trouble Score | 97720 | [97720-trouble-score.json](./97720-trouble-score.json) |
+| Trouble Town | 212702 | [212702-trouble-town.json](./212702-trouble-town.json) |
 | Troubled Waters | 187221 | [187221-troubled-waters.json](./187221-troubled-waters.json) |
 | Troubled Waters | 352254 | [352254-troubled-waters.json](./352254-troubled-waters.json) |
 | TroubleDays | 129346 | [129346-troubledays.json](./129346-troubledays.json) |
@@ -16660,6 +16668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunshi Kongming Legends | 110342 | [110342-tunshi-kongming-legends.json](./110342-tunshi-kongming-legends.json) |
 | TunTun | 310008 | [310008-tuntun.json](./310008-tuntun.json) |
 | Tuōlājī | 104116 | [104116-tuolaji.json](./104116-tuolaji.json) |
+| Tuper Tario Tros. | 212693 | [212693-tuper-tario-tros.json](./212693-tuper-tario-tros.json) |
 | Tupsu | 117761 | [117761-tupsu.json](./117761-tupsu.json) |
 | Turandot | 216328 | [216328-turandot.json](./216328-turandot.json) |
 | Turbo | 18510 | [18510-turbo.json](./18510-turbo.json) |
