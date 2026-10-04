@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Heart between Parts | 136866 | [136866-a-heart-between-parts.json](./136866-a-heart-between-parts.json) |
 | A Heart Of Iron | 397692 | [397692-a-heart-of-iron.json](./397692-a-heart-of-iron.json) |
 | A Heavy Morning | 347840 | [347840-a-heavy-morning.json](./347840-a-heavy-morning.json) |
+| A Hell of a Journey | 200541 | [200541-a-hell-of-a-journey.json](./200541-a-hell-of-a-journey.json) |
 | A Hero and a Garden | 137072 | [137072-a-hero-and-a-garden.json](./137072-a-hero-and-a-garden.json) |
 | A Hero Once More | 252918 | [252918-a-hero-once-more.json](./252918-a-hero-once-more.json) |
 | A Hero's Quest pt1 | 213430 | [213430-a-heros-quest-pt1.json](./213430-a-heros-quest-pt1.json) |
@@ -1621,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Trip: Amazing World 2 | 234683 | [234683-adventure-trip-amazing-world-2.json](./234683-adventure-trip-amazing-world-2.json) |
 | Adventure Trip: Amazing World 3 | 382908 | [382908-adventure-trip-amazing-world-3.json](./382908-adventure-trip-amazing-world-3.json) |
 | Adventure Trip: Amazing World 3 - Collector's Edition | 283900 | [283900-adventure-trip-amazing-world-3-collectors-edition.json](./283900-adventure-trip-amazing-world-3-collectors-edition.json) |
+| Adventure Trip: London - Collector's Edition | 200510 | [200510-adventure-trip-london-collectors-edition.json](./200510-adventure-trip-london-collectors-edition.json) |
 | Adventure Trip: New York | 416857 | [416857-adventure-trip-new-york.json](./416857-adventure-trip-new-york.json) |
 | Adventure Trip: New York - Collector's Edition | 212280 | [212280-adventure-trip-new-york-collectors-edition.json](./212280-adventure-trip-new-york-collectors-edition.json) |
 | Adventure Value Pack #2 | 77327 | [77327-adventure-value-pack-2.json](./77327-adventure-value-pack-2.json) |
