@@ -4598,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon World Legends | 331981 | [331981-digimon-world-legends.json](./331981-digimon-world-legends.json) |
 | Digimon World Re:Digitize Decode | 80507 | [80507-digimon-world-re-digitize-decode.json](./80507-digimon-world-re-digitize-decode.json) |
 | Digimon World Vice | 339254 | [339254-digimon-world-vice.json](./339254-digimon-world-vice.json) |
+| Digimon World: Digital Card Battle | 186116 | [186116-digimon-world-digital-card-battle.json](./186116-digimon-world-digital-card-battle.json) |
 | Digimon: Heroic Battle Spirit | 332590 | [332590-digimon-heroic-battle-spirit.json](./332590-digimon-heroic-battle-spirit.json) |
 | Digiquad | 301500 | [301500-digiquad.json](./301500-digiquad.json) |
 | Digit & Dash | 60255 | [60255-digit-and-dash.json](./60255-digit-and-dash.json) |
@@ -6761,6 +6762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Derby | 249192 | [249192-doomsday-derby.json](./249192-doomsday-derby.json) |
 | Doomsday Dispute | 192386 | [192386-doomsday-dispute.json](./192386-doomsday-dispute.json) |
 | Doomsday Draft | 408234 | [408234-doomsday-draft.json](./408234-doomsday-draft.json) |
+| Doomsday Dreamgirl | 186084 | [186084-doomsday-dreamgirl.json](./186084-doomsday-dreamgirl.json) |
 | Doomsday Hero | 156042 | [156042-doomsday-hero.json](./156042-doomsday-hero.json) |
 | Doomsday Hunters | 129042 | [129042-doomsday-hunters.json](./129042-doomsday-hunters.json) |
 | Doomsday Lonely town | 275811 | [275811-doomsday-lonely-town.json](./275811-doomsday-lonely-town.json) |
