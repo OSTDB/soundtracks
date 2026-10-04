@@ -1366,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival of Shadows | 287327 | [287327-carnival-of-shadows.json](./287327-carnival-of-shadows.json) |
 | Carnival of Souls | 309526 | [309526-carnival-of-souls.json](./309526-carnival-of-souls.json) |
 | Carnivore! | 413214 | [413214-carnivore.json](./413214-carnivore.json) |
+| Carnivores + | 208422 | [208422-carnivores.json](./208422-carnivores.json) |
 | Carnivores: Cityscape | 20568 | [20568-carnivores-cityscape.json](./20568-carnivores-cityscape.json) |
 | Carnivores: Dinosaur Hunt | 148429 | [148429-carnivores-dinosaur-hunt.json](./148429-carnivores-dinosaur-hunt.json) |
 | Carnivores: Dinosaur Hunt - Cretaceous Terror Pack | 214450 | [214450-carnivores-dinosaur-hunt-cretaceous-terror-pack.json](./214450-carnivores-dinosaur-hunt-cretaceous-terror-pack.json) |
@@ -2525,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CeeBot-A | 94574 | [94574-ceebot-a.json](./94574-ceebot-a.json) |
 | Ceiling Mounted Sprinkler | 358439 | [358439-ceiling-mounted-sprinkler.json](./358439-ceiling-mounted-sprinkler.json) |
 | Ceiling Zero | 282105 | [282105-ceiling-zero.json](./282105-ceiling-zero.json) |
+| Ceke Ceke | 208227 | [208227-ceke-ceke.json](./208227-ceke-ceke.json) |
 | Cel Damage 2 | 143110 | [143110-cel-damage-2.json](./143110-cel-damage-2.json) |
 | Celebrating Lake Xochimilco | 250299 | [250299-celebrating-lake-xochimilco.json](./250299-celebrating-lake-xochimilco.json) |
 | Celebrating Lotería! | 375816 | [375816-celebrating-loteria.json](./375816-celebrating-loteria.json) |
