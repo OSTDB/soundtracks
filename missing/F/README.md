@@ -5872,6 +5872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankenstein: Room Escape | 313761 | [313761-frankenstein-room-escape.json](./313761-frankenstein-room-escape.json) |
 | Frankenstein: The Village | 177050 | [177050-frankenstein-the-village.json](./177050-frankenstein-the-village.json) |
 | Frankenstein's Monster | 22763 | [22763-frankensteins-monster.json](./22763-frankensteins-monster.json) |
+| Frankenstein's Monsters, Inc. | 179561 | [179561-frankensteins-monsters-inc.json](./179561-frankensteins-monsters-inc.json) |
 | Frankenstories | 194289 | [194289-frankenstories.json](./194289-frankenstories.json) |
 | FrankenStorm TD | 236236 | [236236-frankenstorm-td.json](./236236-frankenstorm-td.json) |
 | Frankie and Suede Private Detectives | 310028 | [310028-frankie-and-suede-private-detectives.json](./310028-frankie-and-suede-private-detectives.json) |
