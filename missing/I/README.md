@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice and Fire | 232712 | [232712-ice-and-fire.json](./232712-ice-and-fire.json) |
 | Ice and Fire of Maiden | 111607 | [111607-ice-and-fire-of-maiden.json](./111607-ice-and-fire-of-maiden.json) |
 | Ice and Fire: The Wizards | 72610 | [72610-ice-and-fire-the-wizards.json](./72610-ice-and-fire-the-wizards.json) |
+| Ice Ball | 185466 | [185466-ice-ball.json](./185466-ice-ball.json) |
 | Ice Battle | 236933 | [236933-ice-battle.json](./236933-ice-battle.json) |
 | Ice Breaker | 280330 | [280330-ice-breaker.json](./280330-ice-breaker.json) |
 | Ice Climber | 246340 | [246340-ice-climber.json](./246340-ice-climber.json) |
@@ -3288,6 +3289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of Mine | 273959 | [273959-island-of-mine.json](./273959-island-of-mine.json) |
 | Island of Mogambo | 268986 | [268986-island-of-mogambo.json](./268986-island-of-mogambo.json) |
 | Island of the Ancients | 154368 | [154368-island-of-the-ancients.json](./154368-island-of-the-ancients.json) |
+| Island of the Damned | 185469 | [185469-island-of-the-damned.json](./185469-island-of-the-damned.json) |
 | Island Off Outer Darkness | 352349 | [352349-island-off-outer-darkness.json](./352349-island-off-outer-darkness.json) |
 | Island Paradise | 296939 | [296939-island-paradise.json](./296939-island-paradise.json) |
 | Island Party Chaos | 298232 | [298232-island-party-chaos.json](./298232-island-party-chaos.json) |
