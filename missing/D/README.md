@@ -825,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Legion | 27574 | [27574-dark-legion.json](./27574-dark-legion.json) |
 | Dark Lessons | 285002 | [285002-dark-lessons.json](./285002-dark-lessons.json) |
 | Dark Life Excalibur | 258115 | [258115-dark-life-excalibur.json](./258115-dark-life-excalibur.json) |
+| Dark Light Swap | 180639 | [180639-dark-light-swap.json](./180639-dark-light-swap.json) |
 | Dark Light: Survivor | 317334 | [317334-dark-light-survivor.json](./317334-dark-light-survivor.json) |
 | Dark Lord | 175733 | [175733-dark-lord.json](./175733-dark-lord.json) |
 | Dark Lord | 227272 | [227272-dark-lord.json](./227272-dark-lord.json) |
@@ -6426,6 +6427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Take It Personally, I Just Don't Like You | 246924 | [246924-dont-take-it-personally-i-just-dont-like-you.json](./246924-dont-take-it-personally-i-just-dont-like-you.json) |
 | Don't Take Me Away | 329074 | [329074-dont-take-me-away.json](./329074-dont-take-me-away.json) |
 | Don't Take This Risk | 75223 | [75223-dont-take-this-risk.json](./75223-dont-take-this-risk.json) |
+| Don't Talk to Strangers | 180638 | [180638-dont-talk-to-strangers.json](./180638-dont-talk-to-strangers.json) |
 | Don't Tap the White Tile | 57324 | [57324-dont-tap-the-white-tile.json](./57324-dont-tap-the-white-tile.json) |
 | Don't Tell My Wife | 396197 | [396197-dont-tell-my-wife.json](./396197-dont-tell-my-wife.json) |
 | Don't Touch Lava | 215038 | [215038-dont-touch-lava.json](./215038-dont-touch-lava.json) |
@@ -8372,6 +8374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscape Abyss | 258732 | [258732-dreamscape-abyss.json](./258732-dreamscape-abyss.json) |
 | Dreamscape Highschool | 337452 | [337452-dreamscape-highschool.json](./337452-dreamscape-highschool.json) |
 | Dreamscape Highschool: After Stories | 337451 | [337451-dreamscape-highschool-after-stories.json](./337451-dreamscape-highschool-after-stories.json) |
+| Dreamscape Journey | 180653 | [180653-dreamscape-journey.json](./180653-dreamscape-journey.json) |
 | Dreamscape Return | 290920 | [290920-dreamscape-return.json](./290920-dreamscape-return.json) |
 | Dreamscape Runners | 238503 | [238503-dreamscape-runners.json](./238503-dreamscape-runners.json) |
 | Dreamscaper | 116166 | [116166-dreamscaper.json](./116166-dreamscaper.json) |
@@ -9383,6 +9386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Mania | 252153 | [252153-dungeon-mania.json](./252153-dungeon-mania.json) |
 | Dungeon Marathon | 52295 | [52295-dungeon-marathon.json](./52295-dungeon-marathon.json) |
 | Dungeon Market Simulator | 354516 | [354516-dungeon-market-simulator.json](./354516-dungeon-market-simulator.json) |
+| Dungeon Master | 180559 | [180559-dungeon-master.json](./180559-dungeon-master.json) |
 | Dungeon Master | 220842 | [220842-dungeon-master.json](./220842-dungeon-master.json) |
 | Dungeon Master 2K | 200101 | [200101-dungeon-master-2k.json](./200101-dungeon-master-2k.json) |
 | Dungeon Master II: The Legend of Skullkeep | 2503 | [2503-dungeon-master-ii-the-legend-of-skullkeep.json](./2503-dungeon-master-ii-the-legend-of-skullkeep.json) |
