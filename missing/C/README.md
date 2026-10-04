@@ -3008,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos War | 203933 | [203933-chaos-war.json](./203933-chaos-war.json) |
 | Chaos Warrior | 415933 | [415933-chaos-warrior.json](./415933-chaos-warrior.json) |
 | Chaos Wars | 21051 | [21051-chaos-wars.json](./21051-chaos-wars.json) |
+| Chaos Wizard | 203195 | [203195-chaos-wizard.json](./203195-chaos-wizard.json) |
 | Chaos World | 7904 | [7904-chaos-world.json](./7904-chaos-world.json) |
 | Chaos Zero Nightmare | 350249 | [350249-chaos-zero-nightmare.json](./350249-chaos-zero-nightmare.json) |
 | Chaos-Alante | 260236 | [260236-chaos-alante.json](./260236-chaos-alante.json) |
@@ -3302,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheri La Bete | 246091 | [246091-cheri-la-bete.json](./246091-cheri-la-bete.json) |
 | Cheril of the bosque | 39113 | [39113-cheril-of-the-bosque.json](./39113-cheril-of-the-bosque.json) |
 | Cherish Pizza ha Ikaga Desu ka | 321467 | [321467-cherish-pizza-ha-ikaga-desu-ka.json](./321467-cherish-pizza-ha-ikaga-desu-ka.json) |
+| Chern | 203196 | [203196-chern.json](./203196-chern.json) |
 | Chernaja Metka | 37048 | [37048-chernaja-metka.json](./37048-chernaja-metka.json) |
 | Chernobots | 373748 | [373748-chernobots.json](./373748-chernobots.json) |
 | Chernobyl | 228687 | [228687-chernobyl.json](./228687-chernobyl.json) |
@@ -7971,6 +7973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid-19: Corona Clicker | 165003 | [165003-covid-19-corona-clicker.json](./165003-covid-19-corona-clicker.json) |
 | Covid19: Toilet Paper Run | 285531 | [285531-covid19-toilet-paper-run.json](./285531-covid19-toilet-paper-run.json) |
 | Cow Catcher | 124594 | [124594-cow-catcher.json](./124594-cow-catcher.json) |
+| Cow Evolution | 203205 | [203205-cow-evolution.json](./203205-cow-evolution.json) |
 | Cow Project 1986 | 401643 | [401643-cow-project-1986.json](./401643-cow-project-1986.json) |
 | Cow V: The Great Egg Quest | 71060 | [71060-cow-v-the-great-egg-quest.json](./71060-cow-v-the-great-egg-quest.json) |
 | CowaCowa: Jinmenken | 339328 | [339328-cowacowa-jinmenken.json](./339328-cowacowa-jinmenken.json) |
@@ -9203,6 +9206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosswords Classic | 97301 | [97301-crosswords-classic.json](./97301-crosswords-classic.json) |
 | Crosswords With Friends | 90063 | [90063-crosswords-with-friends.json](./90063-crosswords-with-friends.json) |
 | Crossy Crash | 98779 | [98779-crossy-crash.json](./98779-crossy-crash.json) |
+| Crossy Creeper | 203206 | [203206-crossy-creeper.json](./203206-crossy-creeper.json) |
 | Crossy Road Arcade | 228422 | [228422-crossy-road-arcade.json](./228422-crossy-road-arcade.json) |
 | Crossy Traffic: Road Rider | 240925 | [240925-crossy-traffic-road-rider.json](./240925-crossy-traffic-road-rider.json) |
 | Crossy Word | 393779 | [393779-crossy-word.json](./393779-crossy-word.json) |
