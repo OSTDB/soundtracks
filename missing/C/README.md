@@ -7231,6 +7231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra Advance: The Alien Wars EX | 49158 | [49158-contra-advance-the-alien-wars-ex.json](./49158-contra-advance-the-alien-wars-ex.json) |
 | Contra Force | 24978 | [24978-contra-force.json](./24978-contra-force.json) |
 | Contra Online | 306610 | [306610-contra-online.json](./306610-contra-online.json) |
+| Contra Returns | 174697 | [174697-contra-returns.json](./174697-contra-returns.json) |
 | Contra Run & Gun Bundle | 317236 | [317236-contra-run-and-gun-bundle.json](./317236-contra-run-and-gun-bundle.json) |
 | Contra SNES | 377741 | [377741-contra-snes.json](./377741-contra-snes.json) |
 | Contra Spirits | 242088 | [242088-contra-spirits.json](./242088-contra-spirits.json) |
@@ -8130,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowgirl Maid Milk Cafe | 417392 | [417392-cowgirl-maid-milk-cafe.json](./417392-cowgirl-maid-milk-cafe.json) |
 | Cowgirl Trainer | 331299 | [331299-cowgirl-trainer.json](./331299-cowgirl-trainer.json) |
 | Cowhop | 239631 | [239631-cowhop.json](./239631-cowhop.json) |
+| Cowlifters: Clash for Cows | 174714 | [174714-cowlifters-clash-for-cows.json](./174714-cowlifters-clash-for-cows.json) |
 | CoWorker | 192766 | [192766-coworker.json](./192766-coworker.json) |
 | Cowpocalypse | 118382 | [118382-cowpocalypse.json](./118382-cowpocalypse.json) |
 | Cowpocalypse | 274776 | [274776-cowpocalypse.json](./274776-cowpocalypse.json) |
@@ -8480,6 +8482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashland | 144349 | [144349-crashland.json](./144349-crashland.json) |
 | Crashlands | 15389 | [15389-crashlands.json](./15389-crashlands.json) |
 | Crashletics | 242217 | [242217-crashletics.json](./242217-crashletics.json) |
+| CrashMetal | 174683 | [174683-crashmetal.json](./174683-crashmetal.json) |
 | CrashMetal: Drift Racing Car Driving Simulator - Premium Edition | 283151 | [283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json](./283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json) |
 | Crashocalypse | 201656 | [201656-crashocalypse.json](./201656-crashocalypse.json) |
 | Crashout Crew | 372144 | [372144-crashout-crew.json](./372144-crashout-crew.json) |
@@ -9279,6 +9282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossLust | 235491 | [235491-crosslust.json](./235491-crosslust.json) |
 | Crossmath | 381273 | [381273-crossmath.json](./381273-crossmath.json) |
 | Crossnumber: Math Puzzle Game | 232543 | [232543-crossnumber-math-puzzle-game.json](./232543-crossnumber-math-puzzle-game.json) |
+| Crossout Mobile | 174716 | [174716-crossout-mobile.json](./174716-crossout-mobile.json) |
 | Crossout: “Phantom” | 331997 | [331997-crossout-phantom.json](./331997-crossout-phantom.json) |
 | Crossout: Arsonist Pack | 226820 | [226820-crossout-arsonist-pack.json](./226820-crossout-arsonist-pack.json) |
 | Crossout: Biter Starter Pack | 243105 | [243105-crossout-biter-starter-pack.json](./243105-crossout-biter-starter-pack.json) |
