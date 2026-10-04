@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waiting Game | 114787 | [114787-waiting-game.json](./114787-waiting-game.json) |
 | Waiting on the Finishline | 403791 | [403791-waiting-on-the-finishline.json](./403791-waiting-on-the-finishline.json) |
 | WaiWai Drive | 312353 | [312353-waiwai-drive.json](./312353-waiwai-drive.json) |
+| Waka-sama no Zasuru Sekai | 182336 | [182336-waka-sama-no-zasuru-sekai.json](./182336-waka-sama-no-zasuru-sekai.json) |
 | Wakabayashi Fumie no DS Kabu Lesson | 124127 | [124127-wakabayashi-fumie-no-ds-kabu-lesson.json](./124127-wakabayashi-fumie-no-ds-kabu-lesson.json) |
 | Wakamarina Valley, New Zealand | 134521 | [134521-wakamarina-valley-new-zealand.json](./134521-wakamarina-valley-new-zealand.json) |
 | Wakana Nikki | 229664 | [229664-wakana-nikki.json](./229664-wakana-nikki.json) |
@@ -2117,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune Cookie | 100898 | [100898-wheel-of-fortune-cookie.json](./100898-wheel-of-fortune-cookie.json) |
 | Wheel of Fortune Daily | 321140 | [321140-wheel-of-fortune-daily.json](./321140-wheel-of-fortune-daily.json) |
 | Wheel of Fortune: 2nd Edition | 43910 | [43910-wheel-of-fortune-2nd-edition.json](./43910-wheel-of-fortune-2nd-edition.json) |
+| Wheel of Fortune: Featuring Vanna White | 182279 | [182279-wheel-of-fortune-featuring-vanna-white.json](./182279-wheel-of-fortune-featuring-vanna-white.json) |
 | Wheel of Fortune: Junior Edition | 48094 | [48094-wheel-of-fortune-junior-edition.json](./48094-wheel-of-fortune-junior-edition.json) |
 | Wheel of Fortune: New Second Edition | 209617 | [209617-wheel-of-fortune-new-second-edition.json](./209617-wheel-of-fortune-new-second-edition.json) |
 | Wheel of Fortune: Pogo Edition | 355010 | [355010-wheel-of-fortune-pogo-edition.json](./355010-wheel-of-fortune-pogo-edition.json) |
