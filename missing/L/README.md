@@ -5129,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunebug | 361916 | [361916-lunebug.json](./361916-lunebug.json) |
 | Luneia the Soothsayer | 409731 | [409731-luneia-the-soothsayer.json](./409731-luneia-the-soothsayer.json) |
 | Lunera | 356673 | [356673-lunera.json](./356673-lunera.json) |
+| Lunescape | 224996 | [224996-lunescape.json](./224996-lunescape.json) |
 | Lunhowl: Co-op Horror | 348762 | [348762-lunhowl-co-op-horror.json](./348762-lunhowl-co-op-horror.json) |
 | Lúnhuí Xiūxiān Jué | 157565 | [157565-lunhui-xiuxian-jue.json](./157565-lunhui-xiuxian-jue.json) |
 | Lúnhuí Xiūxiān Zhuàn | 373688 | [373688-lunhui-xiuxian-zhuan.json](./373688-lunhui-xiuxian-zhuan.json) |
