@@ -5872,6 +5872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Knight Legacy | 275339 | [275339-mighty-knight-legacy.json](./275339-mighty-knight-legacy.json) |
 | Mighty Mahjong | 406111 | [406111-mighty-mahjong.json](./406111-mighty-mahjong.json) |
 | Mighty Marbles | 258441 | [258441-mighty-marbles.json](./258441-mighty-marbles.json) |
+| Mighty Math | 222807 | [222807-mighty-math.json](./222807-mighty-math.json) |
 | Mighty Math Carnival Countdown | 129156 | [129156-mighty-math-carnival-countdown.json](./129156-mighty-math-carnival-countdown.json) |
 | Mighty Math Zoo Zillions | 313286 | [313286-mighty-math-zoo-zillions.json](./313286-mighty-math-zoo-zillions.json) |
 | Mighty Math: Calculating Crew | 313278 | [313278-mighty-math-calculating-crew.json](./313278-mighty-math-calculating-crew.json) |
