@@ -1820,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feather of Praying | 102970 | [102970-feather-of-praying.json](./102970-feather-of-praying.json) |
 | Feather Park | 218569 | [218569-feather-park.json](./218569-feather-park.json) |
 | Featherbound | 294269 | [294269-featherbound.json](./294269-featherbound.json) |
+| Feathered Run: Worlds | 224595 | [224595-feathered-run-worlds.json](./224595-feathered-run-worlds.json) |
 | Featherfall | 125367 | [125367-featherfall.json](./125367-featherfall.json) |
 | Featherfall | 129442 | [129442-featherfall.json](./129442-featherfall.json) |
 | Featherpunk Prime | 18404 | [18404-featherpunk-prime.json](./18404-featherpunk-prime.json) |
@@ -2371,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting cop | 265346 | [265346-fighting-cop.json](./265346-fighting-cop.json) |
 | Fighting EX Layer | 41828 | [41828-fighting-ex-layer.json](./41828-fighting-ex-layer.json) |
 | Fighting Ex Layer -a | 125333 | [125333-fighting-ex-layer-a.json](./125333-fighting-ex-layer-a.json) |
+| Fighting EX Layer: Character - Terry | 224472 | [224472-fighting-ex-layer-character-terry.json](./224472-fighting-ex-layer-character-terry.json) |
 | Fighting Eyes | 45307 | [45307-fighting-eyes.json](./45307-fighting-eyes.json) |
 | Fighting Fantasy Classics | 102159 | [102159-fighting-fantasy-classics.json](./102159-fighting-fantasy-classics.json) |
 | Fighting Fantasy Classics Vol. 1 | 389081 | [389081-fighting-fantasy-classics-vol-1.json](./389081-fighting-fantasy-classics-vol-1.json) |
