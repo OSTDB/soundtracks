@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Pinball | 346043 | [346043-talking-pinball.json](./346043-talking-pinball.json) |
 | Talking Roby the Robot | 343796 | [343796-talking-roby-the-robot.json](./343796-talking-roby-the-robot.json) |
 | Talking Saban's Mighty Morphin Power Rangers: The Solar Stealers | 217938 | [217938-talking-sabans-mighty-morphin-power-rangers-the-solar-stealers.json](./217938-talking-sabans-mighty-morphin-power-rangers-the-solar-stealers.json) |
+| Talking The Simpsons: Bart vs. Homersaurus | 198889 | [198889-talking-the-simpsons-bart-vs-homersaurus.json](./198889-talking-the-simpsons-bart-vs-homersaurus.json) |
 | Talking to My Dad | 229016 | [229016-talking-to-my-dad.json](./229016-talking-to-my-dad.json) |
 | Talking Tom Candy Run | 107165 | [107165-talking-tom-candy-run.json](./107165-talking-tom-candy-run.json) |
 | Talking Tom Cat | 214349 | [214349-talking-tom-cat.json](./214349-talking-tom-cat.json) |
@@ -7928,6 +7929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Presidential Assassins | 345004 | [345004-the-presidential-assassins.json](./345004-the-presidential-assassins.json) |
 | The Pressure of Ambition | 352376 | [352376-the-pressure-of-ambition.json](./352376-the-pressure-of-ambition.json) |
 | The Price is Right | 78446 | [78446-the-price-is-right.json](./78446-the-price-is-right.json) |
+| The Price Is Right | 198872 | [198872-the-price-is-right.json](./198872-the-price-is-right.json) |
 | The Price Is Right | 220105 | [220105-the-price-is-right.json](./220105-the-price-is-right.json) |
 | The Price of Parking | 417580 | [417580-the-price-of-parking.json](./417580-the-price-of-parking.json) |
 | The Prime MoVR | 76659 | [76659-the-prime-movr.json](./76659-the-prime-movr.json) |
@@ -8325,6 +8327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Royal Heir: Book 3 | 313685 | [313685-the-royal-heir-book-3.json](./313685-the-royal-heir-book-3.json) |
 | The Royal Marines Commando | 9370 | [9370-the-royal-marines-commando.json](./9370-the-royal-marines-commando.json) |
 | The Royal Office of Magick Affairs | 315654 | [315654-the-royal-office-of-magick-affairs.json](./315654-the-royal-office-of-magick-affairs.json) |
+| The Rugrats Movie | 198879 | [198879-the-rugrats-movie.json](./198879-the-rugrats-movie.json) |
 | The Rugrats Movie | 2790 | [2790-the-rugrats-movie.json](./2790-the-rugrats-movie.json) |
 | The Ruins of Cawdor | 54682 | [54682-the-ruins-of-cawdor.json](./54682-the-ruins-of-cawdor.json) |
 | The Ruins of Machi Itcza | 182520 | [182520-the-ruins-of-machi-itcza.json](./182520-the-ruins-of-machi-itcza.json) |
@@ -8544,6 +8547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sexorcist | 211723 | [211723-the-sexorcist.json](./211723-the-sexorcist.json) |
 | The Sexy Brutale | 22783 | [22783-the-sexy-brutale.json](./22783-the-sexy-brutale.json) |
 | The Shade Forest | 319028 | [319028-the-shade-forest.json](./319028-the-shade-forest.json) |
+| The Shadow | 198882 | [198882-the-shadow.json](./198882-the-shadow.json) |
 | The Shadow Archer: Famous Stickman Series | 105524 | [105524-the-shadow-archer-famous-stickman-series.json](./105524-the-shadow-archer-famous-stickman-series.json) |
 | The Shadow Architect | 390193 | [390193-the-shadow-architect.json](./390193-the-shadow-architect.json) |
 | The Shadow Cat | 289965 | [289965-the-shadow-cat.json](./289965-the-shadow-cat.json) |
@@ -8645,6 +8649,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silver Case: Deluxe Edition | 51921 | [51921-the-silver-case-deluxe-edition.json](./51921-the-silver-case-deluxe-edition.json) |
 | The Silver Lining | 50807 | [50807-the-silver-lining.json](./50807-the-silver-lining.json) |
 | The Simen Rumors | 397220 | [397220-the-simen-rumors.json](./397220-the-simen-rumors.json) |
+| The Simpsons | 198885 | [198885-the-simpsons.json](./198885-the-simpsons.json) |
+| The Simpsons | 198887 | [198887-the-simpsons.json](./198887-the-simpsons.json) |
+| The Simpsons | 198888 | [198888-the-simpsons.json](./198888-the-simpsons.json) |
 | The Simpsons Arcade Game | 2826 | [2826-the-simpsons-arcade-game.json](./2826-the-simpsons-arcade-game.json) |
 | The Simpsons Bart-Shooter | 365246 | [365246-the-simpsons-bart-shooter.json](./365246-the-simpsons-bart-shooter.json) |
 | The Simpsons Game | 259329 | [259329-the-simpsons-game.json](./259329-the-simpsons-game.json) |
