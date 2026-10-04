@@ -6774,6 +6774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed and Gorgeous HD | 22335 | [22335-armed-and-gorgeous-hd.json](./22335-armed-and-gorgeous-hd.json) |
 | Armed Animals RPG | 365060 | [365060-armed-animals-rpg.json](./365060-armed-animals-rpg.json) |
 | Armed Decobot | 317372 | [317372-armed-decobot.json](./317372-armed-decobot.json) |
+| Armed Fantasia: To the End of the Wilderness | 214992 | [214992-armed-fantasia-to-the-end-of-the-wilderness.json](./214992-armed-fantasia-to-the-end-of-the-wilderness.json) |
 | Armed for Battle | 118849 | [118849-armed-for-battle.json](./118849-armed-for-battle.json) |
 | Armed Forces Corp: Mercenaries | 123059 | [123059-armed-forces-corp-mercenaries.json](./123059-armed-forces-corp-mercenaries.json) |
 | Armed Forces Corp. | 50488 | [50488-armed-forces-corp.json](./50488-armed-forces-corp.json) |
