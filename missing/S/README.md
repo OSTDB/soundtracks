@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safe House | 392132 | [392132-safe-house.json](./392132-safe-house.json) |
 | Safe House | 99588 | [99588-safe-house.json](./99588-safe-house.json) |
 | Safe Journey | 175941 | [175941-safe-journey.json](./175941-safe-journey.json) |
+| Safe Opening Simulator | 219496 | [219496-safe-opening-simulator.json](./219496-safe-opening-simulator.json) |
 | Safe Place for Dust | 135743 | [135743-safe-place-for-dust.json](./135743-safe-place-for-dust.json) |
 | Safe Robber | 256283 | [256283-safe-robber.json](./256283-safe-robber.json) |
 | Safe Safe Revolution | 340597 | [340597-safe-safe-revolution.json](./340597-safe-safe-revolution.json) |
@@ -570,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salt and Sacrifice | 152065 | [152065-salt-and-sacrifice.json](./152065-salt-and-sacrifice.json) |
 | Salt and Sails | 153921 | [153921-salt-and-sails.json](./153921-salt-and-sails.json) |
 | Salt and Sanctuary: Drowned Tome Edition | 136349 | [136349-salt-and-sanctuary-drowned-tome-edition.json](./136349-salt-and-sanctuary-drowned-tome-edition.json) |
+| Salt Game | 219641 | [219641-salt-game.json](./219641-salt-game.json) |
 | Salt the Earth | 118298 | [118298-salt-the-earth.json](./118298-salt-the-earth.json) |
 | SALT: Super Awesome Laser Tag | 379869 | [379869-salt-super-awesome-laser-tag.json](./379869-salt-super-awesome-laser-tag.json) |
 | Salted | 372537 | [372537-salted.json](./372537-salted.json) |
@@ -1633,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scientific Project: Optic | 258431 | [258431-scientific-project-optic.json](./258431-scientific-project-optic.json) |
 | Scientific Shutdown | 156123 | [156123-scientific-shutdown.json](./156123-scientific-shutdown.json) |
 | Scientific Terms Extreme | 107125 | [107125-scientific-terms-extreme.json](./107125-scientific-terms-extreme.json) |
+| Scientifically Accurate Dinosaur Mating Simulator 2022: American Revolution 1775 - 1786 | 219624 | [219624-scientifically-accurate-dinosaur-mating-simulator-2022-american-revolution-1775-1786.json](./219624-scientifically-accurate-dinosaur-mating-simulator-2022-american-revolution-1775-1786.json) |
 | Scientifically Accurate Dinosaur Mating Simulator 2022: American Revolution 1775 - 1786: Scientifically Accurate Dinosaur Mating Simulator 2023: French Revolution 1789 - 1799 | 254042 | [254042-scientifically-accurate-dinosaur-mating-simulator-2022-american-revolution-1775-1786-scientifically-accurate-dinosaur-mating-simulator-2023-french-revolution-1789-1799.json](./254042-scientifically-accurate-dinosaur-mating-simulator-2022-american-revolution-1775-1786-scientifically-accurate-dinosaur-mating-simulator-2023-french-revolution-1789-1799.json) |
 | Scientist and Alchemist | 413140 | [413140-scientist-and-alchemist.json](./413140-scientist-and-alchemist.json) |
 | Scientist Hunt | 248299 | [248299-scientist-hunt.json](./248299-scientist-hunt.json) |
@@ -1789,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Escape Together | 139407 | [139407-scp-escape-together.json](./139407-scp-escape-together.json) |
 | SCP: Event Classified | 199581 | [199581-scp-event-classified.json](./199581-scp-event-classified.json) |
 | SCP: Experiments | 363962 | [363962-scp-experiments.json](./363962-scp-experiments.json) |
+| SCP: Facility Manager | 219623 | [219623-scp-facility-manager.json](./219623-scp-facility-manager.json) |
 | SCP: Forgotten Facility | 151005 | [151005-scp-forgotten-facility.json](./151005-scp-forgotten-facility.json) |
 | SCP: Fragmented Minds | 137487 | [137487-scp-fragmented-minds.json](./137487-scp-fragmented-minds.json) |
 | SCP: Hellworks | 296461 | [296461-scp-hellworks.json](./296461-scp-hellworks.json) |
@@ -1843,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Dealer Simulator | 334136 | [334136-scrap-dealer-simulator.json](./334136-scrap-dealer-simulator.json) |
 | Scrap Divers | 334102 | [334102-scrap-divers.json](./334102-scrap-divers.json) |
 | Scrap Galaxy | 75021 | [75021-scrap-galaxy.json](./75021-scrap-galaxy.json) |
+| Scrap Games | 219622 | [219622-scrap-games.json](./219622-scrap-games.json) |
 | Scrap Garden | 20340 | [20340-scrap-garden.json](./20340-scrap-garden.json) |
 | Scrap Garden: The Day Before | 31926 | [31926-scrap-garden-the-day-before.json](./31926-scrap-garden-the-day-before.json) |
 | Scrap Kings | 181898 | [181898-scrap-kings.json](./181898-scrap-kings.json) |
@@ -1931,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribblenauts Mega Pack | 104660 | [104660-scribblenauts-mega-pack.json](./104660-scribblenauts-mega-pack.json) |
 | Scribblenauts Remix | 8806 | [8806-scribblenauts-remix.json](./8806-scribblenauts-remix.json) |
 | Scribblenauts Unmasked: A DC Comics Adventure | 5033 | [5033-scribblenauts-unmasked-a-dc-comics-adventure.json](./5033-scribblenauts-unmasked-a-dc-comics-adventure.json) |
+| Scribblequest | 219621 | [219621-scribblequest.json](./219621-scribblequest.json) |
 | Scribbly Walrus | 128571 | [128571-scribbly-walrus.json](./128571-scribbly-walrus.json) |
 | Scribe RPG | 339089 | [339089-scribe-rpg.json](./339089-scribe-rpg.json) |
 | Scripps Spelling Bee | 206644 | [206644-scripps-spelling-bee.json](./206644-scripps-spelling-bee.json) |
@@ -8705,6 +8711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SongPop Party | 194563 | [194563-songpop-party.json](./194563-songpop-party.json) |
 | SongRunner | 364567 | [364567-songrunner.json](./364567-songrunner.json) |
 | Songs for a Hero | 222283 | [222283-songs-for-a-hero.json](./222283-songs-for-a-hero.json) |
+| Songs for a Hero 2: March of Malachi | 219497 | [219497-songs-for-a-hero-2-march-of-malachi.json](./219497-songs-for-a-hero-2-march-of-malachi.json) |
 | Songs for a Hero: Definitive Edition | 154980 | [154980-songs-for-a-hero-definitive-edition.json](./154980-songs-for-a-hero-definitive-edition.json) |
 | Songs from the Iron Sea | 216893 | [216893-songs-from-the-iron-sea.json](./216893-songs-from-the-iron-sea.json) |
 | Songs of Conquest | 119346 | [119346-songs-of-conquest.json](./119346-songs-of-conquest.json) |
@@ -11811,6 +11818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Rumble | 204407 | [204407-spy-rumble.json](./204407-spy-rumble.json) |
 | Spy Snatcher | 73817 | [73817-spy-snatcher.json](./73817-spy-snatcher.json) |
 | Spy Story | 142350 | [142350-spy-story.json](./142350-spy-story.json) |
+| Spy Swatter 2 | 219643 | [219643-spy-swatter-2.json](./219643-spy-swatter-2.json) |
 | Spy Tactics | 120359 | [120359-spy-tactics.json](./120359-spy-tactics.json) |
 | Spy vs. Spy II: The Island Caper | 12772 | [12772-spy-vs-spy-ii-the-island-caper.json](./12772-spy-vs-spy-ii-the-island-caper.json) |
 | Spy vs. Spy: Operation - Booby Trap | 48925 | [48925-spy-vs-spy-operation-booby-trap.json](./48925-spy-vs-spy-operation-booby-trap.json) |
