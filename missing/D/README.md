@@ -1382,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn | 29216 | [29216-dawn.json](./29216-dawn.json) |
 | Dawn | 319979 | [319979-dawn.json](./319979-dawn.json) |
 | Dawn Apart | 231392 | [231392-dawn-apart.json](./231392-dawn-apart.json) |
+| Dawn Awakening | 174705 | [174705-dawn-awakening.json](./174705-dawn-awakening.json) |
 | Dawn Break -Origin- | 117629 | [117629-dawn-break-origin.json](./117629-dawn-break-origin.json) |
 | Dawn Car | 371258 | [371258-dawn-car.json](./371258-dawn-car.json) |
 | Dawn City | 81775 | [81775-dawn-city.json](./81775-dawn-city.json) |
@@ -2917,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deicide 3: Distorted Existence | 194293 | [194293-deicide-3-distorted-existence.json](./194293-deicide-3-distorted-existence.json) |
 | Deified | 381183 | [381183-deified.json](./381183-deified.json) |
 | Deiity | 371367 | [371367-deiity.json](./371367-deiity.json) |
+| Deiland | 174626 | [174626-deiland.json](./174626-deiland.json) |
 | Deiland | 74531 | [74531-deiland.json](./74531-deiland.json) |
 | Deimos Hotel | 382280 | [382280-deimos-hotel.json](./382280-deimos-hotel.json) |
 | Deios II: Deidia | 26366 | [26366-deios-ii-deidia.json](./26366-deios-ii-deidia.json) |
@@ -4604,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Fusion Fighters | 327211 | [327211-digimon-fusion-fighters.json](./327211-digimon-fusion-fighters.json) |
 | Digimon Kari and Gatomon | 203235 | [203235-digimon-kari-and-gatomon.json](./203235-digimon-kari-and-gatomon.json) |
 | Digimon Masters Online | 25791 | [25791-digimon-masters-online.json](./25791-digimon-masters-online.json) |
+| Digimon New Century | 174707 | [174707-digimon-new-century.json](./174707-digimon-new-century.json) |
 | Digimon Story Cyber Sleuth: Complete Edition | 120551 | [120551-digimon-story-cyber-sleuth-complete-edition.json](./120551-digimon-story-cyber-sleuth-complete-edition.json) |
 | Digimon Story Time Stranger: Deluxe Edition | 390528 | [390528-digimon-story-time-stranger-deluxe-edition.json](./390528-digimon-story-time-stranger-deluxe-edition.json) |
 | Digimon Story Time Stranger: Ultimate Edition | 390529 | [390529-digimon-story-time-stranger-ultimate-edition.json](./390529-digimon-story-time-stranger-ultimate-edition.json) |
@@ -7168,6 +7171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doukyuu-sei | 59997 | [59997-doukyuu-sei.json](./59997-doukyuu-sei.json) |
 | Doukyuusei Classmates | 41993 | [41993-doukyuusei-classmates.json](./41993-doukyuusei-classmates.json) |
 | Doula Continent: Awakening Soul | 193929 | [193929-doula-continent-awakening-soul.json](./193929-doula-continent-awakening-soul.json) |
+| Doula Continent: Soul Master Duel | 174708 | [174708-doula-continent-soul-master-duel.json](./174708-doula-continent-soul-master-duel.json) |
 | Dousoukai wa Koi no Hajimari | 238407 | [238407-dousoukai-wa-koi-no-hajimari.json](./238407-dousoukai-wa-koi-no-hajimari.json) |
 | Douyara Builder wo Yatteiru Oshi no V ni ha Watashi no Comment ga Hitsuyou-rashii-ken | 264119 | [264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json](./264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json) |
 | Dovez | 80607 | [80607-dovez.json](./80607-dovez.json) |
@@ -8440,6 +8444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamwrought | 387022 | [387022-dreamwrought.json](./387022-dreamwrought.json) |
 | Dreamy Beauties: Heart-Pounding Illustration Puzzle | 416066 | [416066-dreamy-beauties-heart-pounding-illustration-puzzle.json](./416066-dreamy-beauties-heart-pounding-illustration-puzzle.json) |
 | Dreamy Days in West Tokyo | 238424 | [238424-dreamy-days-in-west-tokyo.json](./238424-dreamy-days-in-west-tokyo.json) |
+| Dreamy Goat | 174618 | [174618-dreamy-goat.json](./174618-dreamy-goat.json) |
 | Dreamy Hill | 345694 | [345694-dreamy-hill.json](./345694-dreamy-hill.json) |
 | Dreamy Idea | 292065 | [292065-dreamy-idea.json](./292065-dreamy-idea.json) |
 | Dreamy Room | 337096 | [337096-dreamy-room.json](./337096-dreamy-room.json) |
