@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.L.A.Y.: The Last Redemption | 193289 | [193289-c-l-a-y-the-last-redemption.json](./193289-c-l-a-y-the-last-redemption.json) |
 | C.L.T.: Cheguei Louco no Trabalho | 255390 | [255390-c-l-t-cheguei-louco-no-trabalho.json](./255390-c-l-t-cheguei-louco-no-trabalho.json) |
 | C.M.Y.K | 135046 | [135046-c-m-y-k.json](./135046-c-m-y-k.json) |
+| C.O.D.E.R.E.D | 191034 | [191034-c-o-d-e-r-e-d.json](./191034-c-o-d-e-r-e-d.json) |
 | C.O.R.E. | 20977 | [20977-c-o-r-e.json](./20977-c-o-r-e.json) |
 | C.R.E.E.P | 358863 | [358863-c-r-e-e-p.json](./358863-c-r-e-e-p.json) |
 | C.R.E.E.P.S | 34824 | [34824-c-r-e-e-p-s.json](./34824-c-r-e-e-p-s.json) |
@@ -7725,6 +7726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Rollers: Orbital Odyssey | 278551 | [278551-cosmic-rollers-orbital-odyssey.json](./278551-cosmic-rollers-orbital-odyssey.json) |
 | Cosmic Run | 348341 | [348341-cosmic-run.json](./348341-cosmic-run.json) |
 | Cosmic Scramble | 372589 | [372589-cosmic-scramble.json](./372589-cosmic-scramble.json) |
+| Cosmic Security | 191051 | [191051-cosmic-security.json](./191051-cosmic-security.json) |
 | Cosmic Slime Defense | 287202 | [287202-cosmic-slime-defense.json](./287202-cosmic-slime-defense.json) |
 | Cosmic Soldier | 7544 | [7544-cosmic-soldier.json](./7544-cosmic-soldier.json) |
 | Cosmic Spacehead | 374682 | [374682-cosmic-spacehead.json](./374682-cosmic-spacehead.json) |
@@ -10383,6 +10385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyan's Snow House | 289446 | [289446-cyans-snow-house.json](./289446-cyans-snow-house.json) |
 | Cyanide & Happiness: Freakpocalypse - Episode 1 | 147983 | [147983-cyanide-and-happiness-freakpocalypse-episode-1.json](./147983-cyanide-and-happiness-freakpocalypse-episode-1.json) |
 | Cyanide Angel | 397162 | [397162-cyanide-angel.json](./397162-cyanide-angel.json) |
+| Cyanotype Daydream: The Girl Who Dreamed the World | 191059 | [191059-cyanotype-daydream-the-girl-who-dreamed-the-world.json](./191059-cyanotype-daydream-the-girl-who-dreamed-the-world.json) |
 | CybArena | 326244 | [326244-cybarena.json](./326244-cybarena.json) |
 | Cybel | 142887 | [142887-cybel.json](./142887-cybel.json) |
 | Cyber | 185031 | [185031-cyber.json](./185031-cyber.json) |
