@@ -1455,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Versus | 326770 | [326770-party-versus.json](./326770-party-versus.json) |
 | Party Words | 207543 | [207543-party-words.json](./207543-party-words.json) |
 | Party, Darling? | 187210 | [187210-party-darling.json](./187210-party-darling.json) |
+| Party.io | 193795 | [193795-party-io.json](./193795-party-io.json) |
 | Partygoer! | 329035 | [329035-partygoer.json](./329035-partygoer.json) |
 | Partymasters | 90769 | [90769-partymasters.json](./90769-partymasters.json) |
 | Pasajeros | 192426 | [192426-pasajeros.json](./192426-pasajeros.json) |
@@ -6303,6 +6304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygon | 130203 | [130203-polygon.json](./130203-polygon.json) |
 | Polygon Arena | 268976 | [268976-polygon-arena.json](./268976-polygon-arena.json) |
 | Polygon Base | 274207 | [274207-polygon-base.json](./274207-polygon-base.json) |
+| Polygon Fantasy | 193813 | [193813-polygon-fantasy.json](./193813-polygon-fantasy.json) |
 | Polygon Flight | 89572 | [89572-polygon-flight.json](./89572-polygon-flight.json) |
 | Polygon Hunter VR | 186843 | [186843-polygon-hunter-vr.json](./186843-polygon-hunter-vr.json) |
 | Polygon Mayhem | 411736 | [411736-polygon-mayhem.json](./411736-polygon-mayhem.json) |
