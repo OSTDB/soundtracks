@@ -3143,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Adventurer Guild | 348401 | [348401-isekai-adventurer-guild.json](./348401-isekai-adventurer-guild.json) |
 | Isekai Awakening | 296942 | [296942-isekai-awakening.json](./296942-isekai-awakening.json) |
 | Isekai Brick Breaker | 225065 | [225065-isekai-brick-breaker.json](./225065-isekai-brick-breaker.json) |
+| Isekai Demon Waifu | 219114 | [219114-isekai-demon-waifu.json](./219114-isekai-demon-waifu.json) |
 | Isekai Eternal | 157537 | [157537-isekai-eternal.json](./157537-isekai-eternal.json) |
 | Isekai Frontier | 244714 | [244714-isekai-frontier.json](./244714-isekai-frontier.json) |
 | Isekai Frontline | 273887 | [273887-isekai-frontline.json](./273887-isekai-frontline.json) |
