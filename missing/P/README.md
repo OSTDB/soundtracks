@@ -3354,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon: A Love Story | 368542 | [368542-pigeon-a-love-story.json](./368542-pigeon-a-love-story.json) |
 | Pigeon's Mission | 287762 | [287762-pigeons-mission.json](./287762-pigeons-mission.json) |
 | Pigeons Attack | 90831 | [90831-pigeons-attack.json](./90831-pigeons-attack.json) |
+| Pigface Massacre | 207719 | [207719-pigface-massacre.json](./207719-pigface-massacre.json) |
 | Pigg Life | 355167 | [355167-pigg-life.json](./355167-pigg-life.json) |
 | Pigg Party | 355157 | [355157-pigg-party.json](./355157-pigg-party.json) |
 | Piggy Go | 212489 | [212489-piggy-go.json](./212489-piggy-go.json) |
@@ -4805,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zoo 2 | 402959 | [402959-planet-zoo-2.json](./402959-planet-zoo-2.json) |
 | Planet Zoo: Aquatic Pack | 226995 | [226995-planet-zoo-aquatic-pack.json](./226995-planet-zoo-aquatic-pack.json) |
 | Planet Zoo: Barnyard Animal Pack | 308275 | [308275-planet-zoo-barnyard-animal-pack.json](./308275-planet-zoo-barnyard-animal-pack.json) |
+| Planet Zoo: Conservation Pack | 207746 | [207746-planet-zoo-conservation-pack.json](./207746-planet-zoo-conservation-pack.json) |
 | Planet Zoo: Console Edition | 284574 | [284574-planet-zoo-console-edition.json](./284574-planet-zoo-console-edition.json) |
 | Planet Zoo: Europe Pack | 191245 | [191245-planet-zoo-europe-pack.json](./191245-planet-zoo-europe-pack.json) |
 | Planet Zoo: North America Animal Pack | 174129 | [174129-planet-zoo-north-america-animal-pack.json](./174129-planet-zoo-north-america-animal-pack.json) |
@@ -4820,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Deliver | 188929 | [188929-planetary-deliver.json](./188929-planetary-deliver.json) |
 | Planetary Destruction | 238584 | [238584-planetary-destruction.json](./238584-planetary-destruction.json) |
 | Planetary Escape: An Audiogame | 181380 | [181380-planetary-escape-an-audiogame.json](./181380-planetary-escape-an-audiogame.json) |
+| Planetary Exploration Company | 207743 | [207743-planetary-exploration-company.json](./207743-planetary-exploration-company.json) |
 | Planetary Factory | 245980 | [245980-planetary-factory.json](./245980-planetary-factory.json) |
 | Planetary Field Team | 406125 | [406125-planetary-field-team.json](./406125-planetary-field-team.json) |
 | Planetary Gravity | 158174 | [158174-planetary-gravity.json](./158174-planetary-gravity.json) |
