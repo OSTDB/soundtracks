@@ -2124,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour: Yoshi Tour | 361206 | [361206-mario-kart-tour-yoshi-tour.json](./361206-mario-kart-tour-yoshi-tour.json) |
 | Mario Kart Wii Item-matching Game | 328673 | [328673-mario-kart-wii-item-matching-game.json](./328673-mario-kart-wii-item-matching-game.json) |
 | Mario Kart XXL | 146289 | [146289-mario-kart-xxl.json](./146289-mario-kart-xxl.json) |
+| Mario Kart: Blazing Wheels | 174622 | [174622-mario-kart-blazing-wheels.json](./174622-mario-kart-blazing-wheels.json) |
 | Mario Kart: Double Dash!! Matching Game | 328662 | [328662-mario-kart-double-dash-matching-game.json](./328662-mario-kart-double-dash-matching-game.json) |
 | Mario Kart: Double Dash!! Plus | 308373 | [308373-mario-kart-double-dash-plus.json](./308373-mario-kart-double-dash-plus.json) |
 | Mario Kart: Speed Strife | 250048 | [250048-mario-kart-speed-strife.json](./250048-mario-kart-speed-strife.json) |
@@ -6651,6 +6652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Crossword Puzzles | 233098 | [233098-mini-crossword-puzzles.json](./233098-mini-crossword-puzzles.json) |
 | Mini Cup | 305861 | [305861-mini-cup.json](./305861-mini-cup.json) |
 | Mini Dash | 61052 | [61052-mini-dash.json](./61052-mini-dash.json) |
+| Mini DayZ 2 | 174700 | [174700-mini-dayz-2.json](./174700-mini-dayz-2.json) |
 | Mini Doom | 241983 | [241983-mini-doom.json](./241983-mini-doom.json) |
 | Mini Doom 2 | 95994 | [95994-mini-doom-2.json](./95994-mini-doom-2.json) |
 | Mini Drift Car | 337460 | [337460-mini-drift-car.json](./337460-mini-drift-car.json) |
@@ -10237,6 +10239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushihimesama Ver 1.5 | 65500 | [65500-mushihimesama-ver-1-5.json](./65500-mushihimesama-ver-1-5.json) |
 | Mushiking: King of the Beetles | 80223 | [80223-mushiking-king-of-the-beetles.json](./80223-mushiking-king-of-the-beetles.json) |
 | Mushiverse: Online Boardgame | 309446 | [309446-mushiverse-online-boardgame.json](./309446-mushiverse-online-boardgame.json) |
+| Mushoku Tensei: Game ni Nattemo Honki Dasu | 174711 | [174711-mushoku-tensei-game-ni-nattemo-honki-dasu.json](./174711-mushoku-tensei-game-ni-nattemo-honki-dasu.json) |
 | Mushroam | 348387 | [348387-mushroam.json](./348387-mushroam.json) |
 | Mushroom Agent | 235795 | [235795-mushroom-agent.json](./235795-mushroom-agent.json) |
 | Mushroom Card RPG | 219818 | [219818-mushroom-card-rpg.json](./219818-mushroom-card-rpg.json) |
