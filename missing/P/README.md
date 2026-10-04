@@ -3825,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pingus | 146207 | [146207-pingus.json](./146207-pingus.json) |
 | Pingwinek Kelvin | 142495 | [142495-pingwinek-kelvin.json](./142495-pingwinek-kelvin.json) |
 | Pink 2048 | 211737 | [211737-pink-2048.json](./211737-pink-2048.json) |
+| Pink Birdie | 175743 | [175743-pink-birdie.json](./175743-pink-birdie.json) |
 | Pink Dot Blue Dot | 84822 | [84822-pink-dot-blue-dot.json](./84822-pink-dot-blue-dot.json) |
 | Pink Elephant | 186310 | [186310-pink-elephant.json](./186310-pink-elephant.json) |
 | Pink Explorer | 210877 | [210877-pink-explorer.json](./210877-pink-explorer.json) |
@@ -9257,6 +9258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push The Squares | 262076 | [262076-push-the-squares.json](./262076-push-the-squares.json) |
 | Push Through Hell | 373141 | [373141-push-through-hell.json](./373141-push-through-hell.json) |
 | Push to Win | 352394 | [352394-push-to-win.json](./352394-push-to-win.json) |
+| Push-Cars | 175752 | [175752-push-cars.json](./175752-push-cars.json) |
 | Push-Up T-Rex | 243709 | [243709-push-up-t-rex.json](./243709-push-up-t-rex.json) |
 | Push: Griefing Made Legal | 142935 | [142935-push-griefing-made-legal.json](./142935-push-griefing-made-legal.json) |
 | Push:Block | 118951 | [118951-push-block.json](./118951-push-block.json) |
