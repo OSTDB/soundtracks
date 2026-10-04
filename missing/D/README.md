@@ -2402,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathmatch Soccer | 74437 | [74437-deathmatch-soccer.json](./74437-deathmatch-soccer.json) |
 | Deathmatch Village | 42683 | [42683-deathmatch-village.json](./42683-deathmatch-village.json) |
 | Deathmoon | 364008 | [364008-deathmoon.json](./364008-deathmoon.json) |
+| DeathOmen | 189013 | [189013-deathomen.json](./189013-deathomen.json) |
 | Deathpuddle: Choose Violence? | 309459 | [309459-deathpuddle-choose-violence.json](./309459-deathpuddle-choose-violence.json) |
 | Deathray | 285010 | [285010-deathray.json](./285010-deathray.json) |
 | Deathrun | 276214 | [276214-deathrun.json](./276214-deathrun.json) |
@@ -3831,6 +3832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DestructoPod | 119710 | [119710-destructopod.json](./119710-destructopod.json) |
 | Destructor | 24019 | [24019-destructor.json](./24019-destructor.json) |
 | Destructor2D | 404984 | [404984-destructor2d.json](./404984-destructor2d.json) |
+| Destructure: Among Debris | 189006 | [189006-destructure-among-debris.json](./189006-destructure-among-debris.json) |
 | Desynced | 230222 | [230222-desynced.json](./230222-desynced.json) |
 | Detach Metroid | 328683 | [328683-detach-metroid.json](./328683-detach-metroid.json) |
 | Detached | 280423 | [280423-detached.json](./280423-detached.json) |
@@ -4118,6 +4120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devolution: Maken no Ou to Shimobe-tachi | 220329 | [220329-devolution-maken-no-ou-to-shimobe-tachi.json](./220329-devolution-maken-no-ou-to-shimobe-tachi.json) |
 | Devolver Bootleg | 119315 | [119315-devolver-bootleg.json](./119315-devolver-bootleg.json) |
 | Devolver Tumble Time | 152205 | [152205-devolver-tumble-time.json](./152205-devolver-tumble-time.json) |
+| Devorian: Left Behind | 188980 | [188980-devorian-left-behind.json](./188980-devorian-left-behind.json) |
 | Devotion | 107228 | [107228-devotion.json](./107228-devotion.json) |
 | Devour | 181916 | [181916-devour.json](./181916-devour.json) |
 | Devtheism | 134512 | [134512-devtheism.json](./134512-devtheism.json) |
