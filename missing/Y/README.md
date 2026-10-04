@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Got Crabs | 276817 | [276817-you-got-crabs.json](./276817-you-got-crabs.json) |
 | Yóu Guō Jīngmèng | 407317 | [407317-you-guo-jingmeng.json](./407317-you-guo-jingmeng.json) |
 | You Had a Bad Dream | 405593 | [405593-you-had-a-bad-dream.json](./405593-you-had-a-bad-dream.json) |
+| You Had, Like, So Much Going On | 181751 | [181751-you-had-like-so-much-going-on.json](./181751-you-had-like-so-much-going-on.json) |
 | You Have 1 HP | 269656 | [269656-you-have-1-hp.json](./269656-you-have-1-hp.json) |
 | You Have 10 Seconds | 31909 | [31909-you-have-10-seconds.json](./31909-you-have-10-seconds.json) |
 | You Have 10 Seconds 3 | 112366 | [112366-you-have-10-seconds-3.json](./112366-you-have-10-seconds-3.json) |
@@ -710,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your “Hidden Side” Test | 399796 | [399796-your-hidden-side-test.json](./399796-your-hidden-side-test.json) |
 | Your Android | 329644 | [329644-your-android.json](./329644-your-android.json) |
 | Your Anime Waifu | 368080 | [368080-your-anime-waifu.json](./368080-your-anime-waifu.json) |
+| Your Answers or Your Breakfast! | 181752 | [181752-your-answers-or-your-breakfast.json](./181752-your-answers-or-your-breakfast.json) |
 | Your Best Nightmare | 176909 | [176909-your-best-nightmare.json](./176909-your-best-nightmare.json) |
 | Your Blue Room | 185616 | [185616-your-blue-room.json](./185616-your-blue-room.json) |
 | Your Boss is Calling... | 214391 | [214391-your-boss-is-calling.json](./214391-your-boss-is-calling.json) |
