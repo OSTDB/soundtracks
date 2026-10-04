@@ -7147,6 +7147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Luffman Experiment | 407561 | [407561-the-luffman-experiment.json](./407561-the-luffman-experiment.json) |
 | The Luminist | 120972 | [120972-the-luminist.json](./120972-the-luminist.json) |
 | The Lunar Effect | 144746 | [144746-the-lunar-effect.json](./144746-the-lunar-effect.json) |
+| The Lunatic | 181197 | [181197-the-lunatic.json](./181197-the-lunatic.json) |
 | The Lurking Fear | 374242 | [374242-the-lurking-fear.json](./374242-the-lurking-fear.json) |
 | The Lurking Horror | 12180 | [12180-the-lurking-horror.json](./12180-the-lurking-horror.json) |
 | The Lust City | 319070 | [319070-the-lust-city.json](./319070-the-lust-city.json) |
@@ -9065,6 +9066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The SpongeBob SquarePants Movie | 2767 | [2767-the-spongebob-squarepants-movie.json](./2767-the-spongebob-squarepants-movie.json) |
 | The SpongeBob SquarePants Movie 3D | 135811 | [135811-the-spongebob-squarepants-movie-3d.json](./135811-the-spongebob-squarepants-movie-3d.json) |
 | The Spookening | 34602 | [34602-the-spookening.json](./34602-the-spookening.json) |
+| The Spooky Cave | 181194 | [181194-the-spooky-cave.json](./181194-the-spooky-cave.json) |
 | The Spooky Island | 394167 | [394167-the-spooky-island.json](./394167-the-spooky-island.json) |
 | The Spoon of Doom | 154432 | [154432-the-spoon-of-doom.json](./154432-the-spoon-of-doom.json) |
 | The Spoons | 71013 | [71013-the-spoons.json](./71013-the-spoons.json) |
@@ -9134,6 +9136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Story of Miss Mouse | 306026 | [306026-the-story-of-miss-mouse.json](./306026-the-story-of-miss-mouse.json) |
 | The Story of My Life | 114774 | [114774-the-story-of-my-life.json](./114774-the-story-of-my-life.json) |
 | The Story of Red Cloud | 361223 | [361223-the-story-of-red-cloud.json](./361223-the-story-of-red-cloud.json) |
+| The Story of the Goddess Ankhanessa: Journey to the East | 181193 | [181193-the-story-of-the-goddess-ankhanessa-journey-to-the-east.json](./181193-the-story-of-the-goddess-ankhanessa-journey-to-the-east.json) |
 | The Story of the Revolutionary Watermelon That Wanted to Live Free as a Bird and Learned How to Escape | 144241 | [144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json](./144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json) |
 | The Storyteller | 302369 | [302369-the-storyteller.json](./302369-the-storyteller.json) |
 | The Storyteller | 342841 | [342841-the-storyteller.json](./342841-the-storyteller.json) |
@@ -10353,6 +10356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheBeanstalk | 208327 | [208327-thebeanstalk.json](./208327-thebeanstalk.json) |
 | Thebes | 312201 | [312201-thebes.json](./312201-thebes.json) |
 | TheBestiary | 196894 | [196894-thebestiary.json](./196894-thebestiary.json) |
+| TheBlackHouse | 181105 | [181105-theblackhouse.json](./181105-theblackhouse.json) |
 | theBlu | 19067 | [19067-theblu.json](./19067-theblu.json) |
 | TheBoll | 345033 | [345033-theboll.json](./345033-theboll.json) |
 | TheBootCamp | 195219 | [195219-thebootcamp.json](./195219-thebootcamp.json) |
@@ -12425,6 +12429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Europe | 258033 | [258033-tiny-europe.json](./258033-tiny-europe.json) |
 | Tiny Farm | 303143 | [303143-tiny-farm.json](./303143-tiny-farm.json) |
 | Tiny Fat Hero | 232144 | [232144-tiny-fat-hero.json](./232144-tiny-fat-hero.json) |
+| Tiny Fisher | 181206 | [181206-tiny-fisher.json](./181206-tiny-fisher.json) |
 | Tiny Fishing | 165065 | [165065-tiny-fishing.json](./165065-tiny-fishing.json) |
 | Tiny Football | 191182 | [191182-tiny-football.json](./191182-tiny-football.json) |
 | Tiny Fortress | 409645 | [409645-tiny-fortress.json](./409645-tiny-fortress.json) |
@@ -13262,6 +13267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomato Jones - Episode 3 | 83542 | [83542-tomato-jones-episode-3.json](./83542-tomato-jones-episode-3.json) |
 | Tomato Jones Adventures | 53819 | [53819-tomato-jones-adventures.json](./53819-tomato-jones-adventures.json) |
 | Tomato Way 2 | 104831 | [104831-tomato-way-2.json](./104831-tomato-way-2.json) |
+| Tomato Worm | 181196 | [181196-tomato-worm.json](./181196-tomato-worm.json) |
 | Tomb Boom | 366232 | [366232-tomb-boom.json](./366232-tomb-boom.json) |
 | Tomb Cat | 363007 | [363007-tomb-cat.json](./363007-tomb-cat.json) |
 | Tomb Color: ASMR Maze Escape | 245374 | [245374-tomb-color-asmr-maze-escape.json](./245374-tomb-color-asmr-maze-escape.json) |
