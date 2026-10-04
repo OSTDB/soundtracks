@@ -2674,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remyadry | 104873 | [104873-remyadry.json](./104873-remyadry.json) |
 | Ren & Stimpy Happy, Happy, Joy, Joy Collection | 387373 | [387373-ren-and-stimpy-happy-happy-joy-joy-collection.json](./387373-ren-and-stimpy-happy-happy-joy-joy-collection.json) |
 | Ren & Stimpy: Match-Master | 273881 | [273881-ren-and-stimpy-match-master.json](./273881-ren-and-stimpy-match-master.json) |
+| Ren the Summoner and the Erotic Dungeon | 196127 | [196127-ren-the-summoner-and-the-erotic-dungeon.json](./196127-ren-the-summoner-and-the-erotic-dungeon.json) |
 | Ren Ti Tu Pu | 130972 | [130972-ren-ti-tu-pu.json](./130972-ren-ti-tu-pu.json) |
 | Ren'Py Rhythm Game | 184387 | [184387-renpy-rhythm-game.json](./184387-renpy-rhythm-game.json) |
 | Ren's Demons I | 202681 | [202681-rens-demons-i.json](./202681-rens-demons-i.json) |
