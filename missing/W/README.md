@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War After | 188397 | [188397-war-after.json](./188397-war-after.json) |
 | War Agent | 207874 | [207874-war-agent.json](./207874-war-agent.json) |
 | War Along the Mohawk | 62246 | [62246-war-along-the-mohawk.json](./62246-war-along-the-mohawk.json) |
+| War and Empires | 187264 | [187264-war-and-empires.json](./187264-war-and-empires.json) |
 | War and Magic | 125354 | [125354-war-and-magic.json](./125354-war-and-magic.json) |
 | War and Peace | 253332 | [253332-war-and-peace.json](./253332-war-and-peace.json) |
 | War and Politics | 374806 | [374806-war-and-politics.json](./374806-war-and-politics.json) |
@@ -2983,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wimmelbild-Box Mystery | 65543 | [65543-wimmelbild-box-mystery.json](./65543-wimmelbild-box-mystery.json) |
 | Wimp: Who Stole My Pants? | 36175 | [36175-wimp-who-stole-my-pants.json](./36175-wimp-who-stole-my-pants.json) |
 | Win Big or Die | 30937 | [30937-win-big-or-die.json](./30937-win-big-or-die.json) |
+| Win by Definition | 187263 | [187263-win-by-definition.json](./187263-win-by-definition.json) |
 | Win or Crash! | 287699 | [287699-win-or-crash.json](./287699-win-or-crash.json) |
 | Win or Lose | 246373 | [246373-win-or-lose.json](./246373-win-or-lose.json) |
 | Win Over the Flawed Girl | 248102 | [248102-win-over-the-flawed-girl.json](./248102-win-over-the-flawed-girl.json) |
