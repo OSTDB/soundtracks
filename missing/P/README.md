@@ -5722,6 +5722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Go: Mythical Wishes | 227940 | [227940-pokemon-go-mythical-wishes.json](./227940-pokemon-go-mythical-wishes.json) |
 | Pokémon Go: Rising Heroes | 240151 | [240151-pokemon-go-rising-heroes.json](./240151-pokemon-go-rising-heroes.json) |
 | Pokémon Go: Season of Alola | 218482 | [218482-pokemon-go-season-of-alola.json](./218482-pokemon-go-season-of-alola.json) |
+| Pokémon Go: Season of Celebration | 218507 | [218507-pokemon-go-season-of-celebration.json](./218507-pokemon-go-season-of-celebration.json) |
 | Pokémon Go: Season of Discovery | 218496 | [218496-pokemon-go-season-of-discovery.json](./218496-pokemon-go-season-of-discovery.json) |
 | Pokémon Go: Season of Go | 215758 | [215758-pokemon-go-season-of-go.json](./215758-pokemon-go-season-of-go.json) |
 | Pokémon Go: Season of Heritage | 218486 | [218486-pokemon-go-season-of-heritage.json](./218486-pokemon-go-season-of-heritage.json) |
@@ -5968,6 +5969,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokerMania | 76593 | [76593-pokermania.json](./76593-pokermania.json) |
 | Pokermon | 346016 | [346016-pokermon.json](./346016-pokermon.json) |
 | PokeRoku | 227817 | [227817-pokeroku.json](./227817-pokeroku.json) |
+| PokéROM: Mew | 218523 | [218523-pokerom-mew.json](./218523-pokerom-mew.json) |
+| PokéROM: Psyduck | 218524 | [218524-pokerom-psyduck.json](./218524-pokerom-psyduck.json) |
 | Pokerrrr 2 | 320179 | [320179-pokerrrr-2.json](./320179-pokerrrr-2.json) |
 | PokerTH | 250379 | [250379-pokerth.json](./250379-pokerth.json) |
 | PokéScape | 342832 | [342832-pokescape.json](./342832-pokescape.json) |
@@ -9212,6 +9215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli W Heyawake | 230827 | [230827-puzzle-by-nikoli-w-heyawake.json](./230827-puzzle-by-nikoli-w-heyawake.json) |
 | Puzzle by Nikoli W Hitori | 256430 | [256430-puzzle-by-nikoli-w-hitori.json](./256430-puzzle-by-nikoli-w-hitori.json) |
 | Puzzle by Nikoli W Kakuro | 262657 | [262657-puzzle-by-nikoli-w-kakuro.json](./262657-puzzle-by-nikoli-w-kakuro.json) |
+| Puzzle by Nikoli W: Sudoku | 218511 | [218511-puzzle-by-nikoli-w-sudoku.json](./218511-puzzle-by-nikoli-w-sudoku.json) |
 | Puzzle Cats | 240351 | [240351-puzzle-cats.json](./240351-puzzle-cats.json) |
 | Puzzle Chasers | 292140 | [292140-puzzle-chasers.json](./292140-puzzle-chasers.json) |
 | Puzzle Club | 218450 | [218450-puzzle-club.json](./218450-puzzle-club.json) |
