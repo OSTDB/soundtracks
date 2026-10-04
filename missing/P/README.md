@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man: Party Royale | 122320 | [122320-pac-man-party-royale.json](./122320-pac-man-party-royale.json) |
 | Pac-Man: Ralph Breaks the Maze | 112300 | [112300-pac-man-ralph-breaks-the-maze.json](./112300-pac-man-ralph-breaks-the-maze.json) |
 | Pac-Man: Ticket Mania | 146284 | [146284-pac-man-ticket-mania.json](./146284-pac-man-ticket-mania.json) |
+| Pac-Mania | 174623 | [174623-pac-mania.json](./174623-pac-mania.json) |
 | Pac-Mania | 284365 | [284365-pac-mania.json](./284365-pac-mania.json) |
 | Pac-Mania | 284465 | [284465-pac-mania.json](./284465-pac-mania.json) |
 | Pac-Mania | 284466 | [284466-pac-mania.json](./284466-pac-mania.json) |
@@ -8265,6 +8266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Luna | 220659 | [220659-project-luna.json](./220659-project-luna.json) |
 | Project Lynx | 326165 | [326165-project-lynx.json](./326165-project-lynx.json) |
 | Project M | 127155 | [127155-project-m.json](./127155-project-m.json) |
+| Project M | 174687 | [174687-project-m.json](./174687-project-m.json) |
 | Project M | 203771 | [203771-project-m.json](./203771-project-m.json) |
 | Project M | 382401 | [382401-project-m.json](./382401-project-m.json) |
 | Project M EX Remix | 202916 | [202916-project-m-ex-remix.json](./202916-project-m-ex-remix.json) |
@@ -8487,6 +8489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: One Bullet | 316136 | [316136-project-one-bullet.json](./316136-project-one-bullet.json) |
 | Project: Perfectly Normal | 177430 | [177430-project-perfectly-normal.json](./177430-project-perfectly-normal.json) |
 | Project: Pong | 241467 | [241467-project-pong.json](./241467-project-pong.json) |
+| Project: Prism | 174712 | [174712-project-prism.json](./174712-project-prism.json) |
 | Project: Purconia | 391158 | [391158-project-purconia.json](./391158-project-purconia.json) |
 | Project: Quantum Leap | 221818 | [221818-project-quantum-leap.json](./221818-project-quantum-leap.json) |
 | Project: R.E.B.O.O.T | 30758 | [30758-project-r-e-b-o-o-t.json](./30758-project-r-e-b-o-o-t.json) |
