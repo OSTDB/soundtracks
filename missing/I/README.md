@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Rage | 56929 | [56929-ice-rage.json](./56929-ice-rage.json) |
 | Ice Reverse | 240158 | [240158-ice-reverse.json](./240158-ice-reverse.json) |
 | Ice Run | 309531 | [309531-ice-run.json](./309531-ice-run.json) |
+| Ice Scream 3 | 224040 | [224040-ice-scream-3.json](./224040-ice-scream-3.json) |
 | Ice Scream 4: Rod's Factory | 275007 | [275007-ice-scream-4-rods-factory.json](./275007-ice-scream-4-rods-factory.json) |
 | Ice Scream 6 Friends: Charlie | 273947 | [273947-ice-scream-6-friends-charlie.json](./273947-ice-scream-6-friends-charlie.json) |
 | Ice Scream 7 Friends: Lis | 275009 | [275009-ice-scream-7-friends-lis.json](./275009-ice-scream-7-friends-lis.json) |
@@ -596,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icebreakers | 66963 | [66963-icebreakers.json](./66963-icebreakers.json) |
 | Icebroken | 410335 | [410335-icebroken.json](./410335-icebroken.json) |
 | Iceburg | 373525 | [373525-iceburg.json](./373525-iceburg.json) |
+| Icecream Cone Cupcake Baking | 224041 | [224041-icecream-cone-cupcake-baking.json](./224041-icecream-cone-cupcake-baking.json) |
 | Iced Fish | 402441 | [402441-iced-fish.json](./402441-iced-fish.json) |
 | Iced In | 132120 | [132120-iced-in.json](./132120-iced-in.json) |
 | Icee Maker | 159259 | [159259-icee-maker.json](./159259-icee-maker.json) |
@@ -882,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Tamers: Mini Monsters | 188369 | [188369-idle-tamers-mini-monsters.json](./188369-idle-tamers-mini-monsters.json) |
 | Idle Taoist Mage Warrior 2 | 298665 | [298665-idle-taoist-mage-warrior-2.json](./298665-idle-taoist-mage-warrior-2.json) |
 | Idle Tap Zoo: Tap, Build & Upg | 245345 | [245345-idle-tap-zoo-tap-build-and-upg.json](./245345-idle-tap-zoo-tap-build-and-upg.json) |
+| Idle Three Kingdoms | 224039 | [224039-idle-three-kingdoms.json](./224039-idle-three-kingdoms.json) |
 | Idle Tick | 274043 | [274043-idle-tick.json](./274043-idle-tick.json) |
 | Idle Tides | 409814 | [409814-idle-tides.json](./409814-idle-tides.json) |
 | Idle Tiers | 369577 | [369577-idle-tiers.json](./369577-idle-tiers.json) |
@@ -1664,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Dracula: License to Relax - Collector's Edition | 341025 | [341025-incredible-dracula-license-to-relax-collectors-edition.json](./341025-incredible-dracula-license-to-relax-collectors-edition.json) |
 | Incredible Dracula: The Last Call Collector's Edition | 53227 | [53227-incredible-dracula-the-last-call-collectors-edition.json](./53227-incredible-dracula-the-last-call-collectors-edition.json) |
 | Incredible Ink | 343924 | [343924-incredible-ink.json](./343924-incredible-ink.json) |
+| Incredible Puzzle | 224037 | [224037-incredible-puzzle.json](./224037-incredible-puzzle.json) |
 | Incredibous Shells | 328060 | [328060-incredibous-shells.json](./328060-incredibous-shells.json) |
 | IncrediBubble | 328581 | [328581-incredibubble.json](./328581-incredibubble.json) |
 | Incredibug | 361255 | [361255-incredibug.json](./361255-incredibug.json) |
@@ -1886,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernal House | 174633 | [174633-infernal-house.json](./174633-infernal-house.json) |
 | Infernal Hunt | 303580 | [303580-infernal-hunt.json](./303580-infernal-hunt.json) |
 | Infernal Racket | 72355 | [72355-infernal-racket.json](./72355-infernal-racket.json) |
+| Infernal Road | 224036 | [224036-infernal-road.json](./224036-infernal-road.json) |
 | Infernal Wave | 259645 | [259645-infernal-wave.json](./259645-infernal-wave.json) |
 | Infernal West | 415107 | [415107-infernal-west.json](./415107-infernal-west.json) |
 | Infernax | 122386 | [122386-infernax.json](./122386-infernax.json) |
@@ -2038,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity | 13729 | [13729-infinity.json](./13729-infinity.json) |
 | Infinity | 313865 | [313865-infinity.json](./313865-infinity.json) |
 | Infinity | 382380 | [382380-infinity.json](./382380-infinity.json) |
+| Infinity Angel | 224035 | [224035-infinity-angel.json](./224035-infinity-angel.json) |
 | Infinity Attackers | 120415 | [120415-infinity-attackers.json](./120415-infinity-attackers.json) |
 | Infinity BattleSoul | 188516 | [188516-infinity-battlesoul.json](./188516-infinity-battlesoul.json) |
 | Infinity Beats Song Edition | 87150 | [87150-infinity-beats-song-edition.json](./87150-infinity-beats-song-edition.json) |
