@@ -8394,6 +8394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Frog Racer | 240508 | [240508-crazy-frog-racer.json](./240508-crazy-frog-racer.json) |
 | Crazy Frog Racer | 248686 | [248686-crazy-frog-racer.json](./248686-crazy-frog-racer.json) |
 | Crazy Frog: Axel F Piano Tiles | 95870 | [95870-crazy-frog-axel-f-piano-tiles.json](./95870-crazy-frog-axel-f-piano-tiles.json) |
+| Crazy Frog's Dancing | 224454 | [224454-crazy-frogs-dancing.json](./224454-crazy-frogs-dancing.json) |
 | Crazy Fun Ball | 172151 | [172151-crazy-fun-ball.json](./172151-crazy-fun-ball.json) |
 | Crazy Gobbler | 66728 | [66728-crazy-gobbler.json](./66728-crazy-gobbler.json) |
 | Crazy Golf: World Tour | 43474 | [43474-crazy-golf-world-tour.json](./43474-crazy-golf-world-tour.json) |
@@ -8603,6 +8604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Creepy Love | 294933 | [294933-creepy-creepy-love.json](./294933-creepy-creepy-love.json) |
 | Creepy Dungeons | 355609 | [355609-creepy-dungeons.json](./355609-creepy-dungeons.json) |
 | Creepy Dungeons Heroes | 226744 | [226744-creepy-dungeons-heroes.json](./226744-creepy-dungeons-heroes.json) |
+| Creepy Forest | 224613 | [224613-creepy-forest.json](./224613-creepy-forest.json) |
 | Creepy Halloween Differences | 234172 | [234172-creepy-halloween-differences.json](./234172-creepy-halloween-differences.json) |
 | Creepy Races | 44192 | [44192-creepy-races.json](./44192-creepy-races.json) |
 | Creepy Redneck Dinosaur Mansion 1 Re-Raptored | 356682 | [356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json](./356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json) |
@@ -8844,6 +8846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Strike Shooter: SWAT Rescue Missions | 304275 | [304275-critical-strike-shooter-swat-rescue-missions.json](./304275-critical-strike-shooter-swat-rescue-missions.json) |
 | Criticality | 180788 | [180788-criticality.json](./180788-criticality.json) |
 | CriticalOrb | 290929 | [290929-criticalorb.json](./290929-criticalorb.json) |
+| Criticism Roundup 2013 | 224456 | [224456-criticism-roundup-2013.json](./224456-criticism-roundup-2013.json) |
 | Criticom | 19165 | [19165-criticom.json](./19165-criticom.json) |
 | Critter Bonk | 384795 | [384795-critter-bonk.json](./384795-critter-bonk.json) |
 | Critter Box | 397926 | [397926-critter-box.json](./397926-critter-box.json) |
