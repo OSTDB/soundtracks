@@ -5362,6 +5362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Another Legend | 267399 | [267399-metroid-another-legend.json](./267399-metroid-another-legend.json) |
 | Metroid: Confrontation | 28078 | [28078-metroid-confrontation.json](./28078-metroid-confrontation.json) |
 | Metroid: Crocomire's Last Stand | 277040 | [277040-metroid-crocomires-last-stand.json](./277040-metroid-crocomires-last-stand.json) |
+| Metroid: Deep Freeze | 173106 | [173106-metroid-deep-freeze.json](./173106-metroid-deep-freeze.json) |
 | Metroid: Desolation | 255381 | [255381-metroid-desolation.json](./255381-metroid-desolation.json) |
 | Metroid: Federation Trooper | 323874 | [323874-metroid-federation-trooper.json](./323874-metroid-federation-trooper.json) |
 | Metroid: Galactic Marine | 341143 | [341143-metroid-galactic-marine.json](./341143-metroid-galactic-marine.json) |
@@ -7476,6 +7477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMA Manager | 175306 | [175306-mma-manager.json](./175306-mma-manager.json) |
 | MMA Manager 2: Ultimate Fight | 174811 | [174811-mma-manager-2-ultimate-fight.json](./174811-mma-manager-2-ultimate-fight.json) |
 | MMA Team Manager | 111518 | [111518-mma-team-manager.json](./111518-mma-team-manager.json) |
+| MMC Kenken: The World's Most Exciting Math and Logic Puzzle | 173131 | [173131-mmc-kenken-the-worlds-most-exciting-math-and-logic-puzzle.json](./173131-mmc-kenken-the-worlds-most-exciting-math-and-logic-puzzle.json) |
 | MMI | 212154 | [212154-mmi.json](./212154-mmi.json) |
 | MMM | 343815 | [343815-mmm.json](./343815-mmm.json) |
 | Mmm Fingers | 117752 | [117752-mmm-fingers.json](./117752-mmm-fingers.json) |
@@ -9214,6 +9216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother 1+2 | 78585 | [78585-mother-1-2.json](./78585-mother-1-2.json) |
 | Mother 2: Perfect Edition | 305370 | [305370-mother-2-perfect-edition.json](./305370-mother-2-perfect-edition.json) |
 | Mother 3 | 3683 | [3683-mother-3.json](./3683-mother-3.json) |
+| Mother 3: Claus's Journey | 173093 | [173093-mother-3-clauss-journey.json](./173093-mother-3-clauss-journey.json) |
 | Mother 3.5 | 310951 | [310951-mother-3-5.json](./310951-mother-3-5.json) |
 | Mother 4 | 186042 | [186042-mother-4.json](./186042-mother-4.json) |
 | Mother 4 | 300351 | [300351-mother-4.json](./300351-mother-4.json) |
@@ -10297,6 +10300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Piano 7 | 352191 | [352191-music-piano-7.json](./352191-music-piano-7.json) |
 | Music Puzzle | 256543 | [256543-music-puzzle.json](./256543-music-puzzle.json) |
 | Music Quiz | 210110 | [210110-music-quiz.json](./210110-music-quiz.json) |
+| Music Quiz Party | 173105 | [173105-music-quiz-party.json](./173105-music-quiz-party.json) |
 | Music Racing | 220178 | [220178-music-racing.json](./220178-music-racing.json) |
 | Music Room | 143475 | [143475-music-room.json](./143475-music-room.json) |
 | Music Run: Hall of the Mountain King | 266249 | [266249-music-run-hall-of-the-mountain-king.json](./266249-music-run-hall-of-the-mountain-king.json) |
