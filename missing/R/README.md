@@ -1378,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re-Volt | 3585 | [3585-re-volt.json](./3585-re-volt.json) |
 | Re-Volt OpenGL | 257552 | [257552-re-volt-opengl.json](./257552-re-volt-opengl.json) |
 | Re-wind 2005 | 70428 | [70428-re-wind-2005.json](./70428-re-wind-2005.json) |
+| Re;flection | 191675 | [191675-re-flection.json](./191675-re-flection.json) |
 | Re;Lord 1: The Witch of Herfort and Stuffed Animals | 90256 | [90256-re-lord-1-the-witch-of-herfort-and-stuffed-animals.json](./90256-re-lord-1-the-witch-of-herfort-and-stuffed-animals.json) |
 | Re;Lord 3: The Demon Lord of Groessen and The Final Witch | 305390 | [305390-re-lord-3-the-demon-lord-of-groessen-and-the-final-witch.json](./305390-re-lord-3-the-demon-lord-of-groessen-and-the-final-witch.json) |
 | Re;member | 145461 | [145461-re-member.json](./145461-re-member.json) |
@@ -2709,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rendezvous: Shadows of the Past | 199444 | [199444-rendezvous-shadows-of-the-past.json](./199444-rendezvous-shadows-of-the-past.json) |
 | Rending Sky | 114374 | [114374-rending-sky.json](./114374-rending-sky.json) |
 | Rendition | 172498 | [172498-rendition.json](./172498-rendition.json) |
+| Renegade | 191644 | [191644-renegade.json](./191644-renegade.json) |
 | Renegade | 255243 | [255243-renegade.json](./255243-renegade.json) |
 | Renegade | 255262 | [255262-renegade.json](./255262-renegade.json) |
 | Renegade Grounds: Episode 1 | 55508 | [55508-renegade-grounds-episode-1.json](./55508-renegade-grounds-episode-1.json) |
