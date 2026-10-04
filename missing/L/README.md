@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Warriors - Epic War | 100612 | [100612-land-of-warriors-epic-war.json](./100612-land-of-warriors-epic-war.json) |
 | Land of Zombies | 302387 | [302387-land-of-zombies.json](./302387-land-of-zombies.json) |
 | Land of Zympaia | 132761 | [132761-land-of-zympaia.json](./132761-land-of-zympaia.json) |
+| Land of Zympaia: The New Light | 191047 | [191047-land-of-zympaia-the-new-light.json](./191047-land-of-zympaia-the-new-light.json) |
 | Land Snake.io | 87033 | [87033-land-snake-io.json](./87033-land-snake-io.json) |
 | Land War | 115639 | [115639-land-war.json](./115639-land-war.json) |
 | Land-io | 254444 | [254444-land-io.json](./254444-land-io.json) |
@@ -1296,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of the Wizard | 320850 | [320850-legacy-of-the-wizard.json](./320850-legacy-of-the-wizard.json) |
 | Legacy Online | 23711 | [23711-legacy-online.json](./23711-legacy-online.json) |
 | Legacy Quest 2 | 192446 | [192446-legacy-quest-2.json](./192446-legacy-quest-2.json) |
+| Legacy: The Last Pure Heart | 191045 | [191045-legacy-the-last-pure-heart.json](./191045-legacy-the-last-pure-heart.json) |
 | Legacy: Witch Island 2 | 159655 | [159655-legacy-witch-island-2.json](./159655-legacy-witch-island-2.json) |
 | Legacy's Allure | 264199 | [264199-legacys-allure.json](./264199-legacys-allure.json) |
 | LegacyShell | 325681 | [325681-legacyshell.json](./325681-legacyshell.json) |
