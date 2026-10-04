@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ggg Collection: The Olivia Saga | 170852 | [170852-ggg-collection-the-olivia-saga.json](./170852-ggg-collection-the-olivia-saga.json) |
 | GGX: Great Grandma Escape | 200124 | [200124-ggx-great-grandma-escape.json](./200124-ggx-great-grandma-escape.json) |
 | Ghaib | 117767 | [117767-ghaib.json](./117767-ghaib.json) |
+| Ghajini: The Game | 215001 | [215001-ghajini-the-game.json](./215001-ghajini-the-game.json) |
 | Ghana Bwana | 97474 | [97474-ghana-bwana.json](./97474-ghana-bwana.json) |
 | Gharp | 192438 | [192438-gharp.json](./192438-gharp.json) |
 | Ghastly Mask Shop | 391332 | [391332-ghastly-mask-shop.json](./391332-ghastly-mask-shop.json) |
@@ -4460,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Field Silver Tree | 117689 | [117689-green-field-silver-tree.json](./117689-green-field-silver-tree.json) |
 | Green Game: TimeSwapper | 33753 | [33753-green-game-timeswapper.json](./33753-green-game-timeswapper.json) |
 | Green Guy Goes Grappling 2 | 255065 | [255065-green-guy-goes-grappling-2.json](./255065-green-guy-goes-grappling-2.json) |
+| Green Hawk Platoon | 215014 | [215014-green-hawk-platoon.json](./215014-green-hawk-platoon.json) |
 | Green Heights | 322094 | [322094-green-heights.json](./322094-green-heights.json) |
 | Green Hell | 101461 | [101461-green-hell.json](./101461-green-hell.json) |
 | Green Hell VR | 152223 | [152223-green-hell-vr.json](./152223-green-hell-vr.json) |
@@ -5239,6 +5241,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Additional Character 12: A.B.A | 293843 | [293843-guilty-gear-strive-additional-character-12-a-b-a.json](./293843-guilty-gear-strive-additional-character-12-a-b-a.json) |
 | Guilty Gear: Strive - Additional Character 13: Slayer | 299722 | [299722-guilty-gear-strive-additional-character-13-slayer.json](./299722-guilty-gear-strive-additional-character-13-slayer.json) |
 | Guilty Gear: Strive - Additional Character 2: Jack-O' | 166147 | [166147-guilty-gear-strive-additional-character-2-jack-o.json](./166147-guilty-gear-strive-additional-character-2-jack-o.json) |
+| Guilty Gear: Strive - Additional Character 4: Baiken | 215017 | [215017-guilty-gear-strive-additional-character-4-baiken.json](./215017-guilty-gear-strive-additional-character-4-baiken.json) |
+| Guilty Gear: Strive - Additional Character 5: Testament | 215018 | [215018-guilty-gear-strive-additional-character-5-testament.json](./215018-guilty-gear-strive-additional-character-5-testament.json) |
 | Guilty Gear: Strive - Additional Character 6: Bridget | 213005 | [213005-guilty-gear-strive-additional-character-6-bridget.json](./213005-guilty-gear-strive-additional-character-6-bridget.json) |
 | Guilty Gear: Strive - Additional Character 7: Sin Kiske | 250308 | [250308-guilty-gear-strive-additional-character-7-sin-kiske.json](./250308-guilty-gear-strive-additional-character-7-sin-kiske.json) |
 | Guilty Gear: Strive - Additional Character 8: Bedman? | 250309 | [250309-guilty-gear-strive-additional-character-8-bedman.json](./250309-guilty-gear-strive-additional-character-8-bedman.json) |
