@@ -1775,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bat N' Ball | 237274 | [237274-bat-n-ball.json](./237274-bat-n-ball.json) |
 | Bat of Dead | 233252 | [233252-bat-of-dead.json](./233252-bat-of-dead.json) |
 | Bat Tap | 338196 | [338196-bat-tap.json](./338196-bat-tap.json) |
+| Bat to Bed | 204964 | [204964-bat-to-bed.json](./204964-bat-to-bed.json) |
 | Bat to the Heavens | 307210 | [307210-bat-to-the-heavens.json](./307210-bat-to-the-heavens.json) |
 | Bat-L-Blocks | 92616 | [92616-bat-l-blocks.json](./92616-bat-l-blocks.json) |
 | BataGacha! | 121031 | [121031-batagacha.json](./121031-batagacha.json) |
@@ -3728,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bible Word Puzzle | 103547 | [103547-bible-word-puzzle.json](./103547-bible-word-puzzle.json) |
 | BibleGirl's Big Apple | 56448 | [56448-biblegirls-big-apple.json](./56448-biblegirls-big-apple.json) |
 | Biblically Inaccurate | 374043 | [374043-biblically-inaccurate.json](./374043-biblically-inaccurate.json) |
+| BiblioMania | 204963 | [204963-bibliomania.json](./204963-bibliomania.json) |
 | Biblios Dice | 234115 | [234115-biblios-dice.json](./234115-biblios-dice.json) |
 | Biblios: Tome of Darkness | 306343 | [306343-biblios-tome-of-darkness.json](./306343-biblios-tome-of-darkness.json) |
 | Biblioteksspel | 393749 | [393749-biblioteksspel.json](./393749-biblioteksspel.json) |
@@ -4757,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Tides: The Curse of Blackbeard | 406869 | [406869-black-tides-the-curse-of-blackbeard.json](./406869-black-tides-the-curse-of-blackbeard.json) |
 | Black Touch '96 | 267981 | [267981-black-touch-96.json](./267981-black-touch-96.json) |
 | Black Tower | 58824 | [58824-black-tower.json](./58824-black-tower.json) |
+| Black Trail | 205018 | [205018-black-trail.json](./205018-black-trail.json) |
 | Black Turn: Operation Barbarossa 1941 | 22647 | [22647-black-turn-operation-barbarossa-1941.json](./22647-black-turn-operation-barbarossa-1941.json) |
 | Black Viper | 14311 | [14311-black-viper.json](./14311-black-viper.json) |
 | Black Walls | 415190 | [415190-black-walls.json](./415190-black-walls.json) |
@@ -6327,6 +6330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bog's Adventures in the Underworld | 165520 | [165520-bogs-adventures-in-the-underworld.json](./165520-bogs-adventures-in-the-underworld.json) |
 | Bogart | 243947 | [243947-bogart.json](./243947-bogart.json) |
 | Bogart 2: Return of Bogart | 243949 | [243949-bogart-2-return-of-bogart.json](./243949-bogart-2-return-of-bogart.json) |
+| Bogdan's HeartQuest: The Invader Slayer | 204962 | [204962-bogdans-heartquest-the-invader-slayer.json](./204962-bogdans-heartquest-the-invader-slayer.json) |
 | Bogdanoff vs. Wojak Simulator | 182358 | [182358-bogdanoff-vs-wojak-simulator.json](./182358-bogdanoff-vs-wojak-simulator.json) |
 | Bogey Blows Golf Simulator | 181677 | [181677-bogey-blows-golf-simulator.json](./181677-bogey-blows-golf-simulator.json) |
 | Bogey Dead 6 | 20590 | [20590-bogey-dead-6.json](./20590-bogey-dead-6.json) |
