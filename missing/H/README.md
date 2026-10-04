@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2: VR Mod - Episode Two | 243119 | [243119-half-life-2-vr-mod-episode-two.json](./243119-half-life-2-vr-mod-episode-two.json) |
 | Half-Life 3 | 28029 | [28029-half-life-3.json](./28029-half-life-3.json) |
 | Half-Life Alyx NoVR | 255791 | [255791-half-life-alyx-novr.json](./255791-half-life-alyx-novr.json) |
+| Half-Life Decay: Solo Mission | 196081 | [196081-half-life-decay-solo-mission.json](./196081-half-life-decay-solo-mission.json) |
 | Half-Life FX: Single | 323781 | [323781-half-life-fx-single.json](./323781-half-life-fx-single.json) |
 | Half-Life Randomizer | 221792 | [221792-half-life-randomizer.json](./221792-half-life-randomizer.json) |
 | Half-Life ZDoom | 255673 | [255673-half-life-zdoom.json](./255673-half-life-zdoom.json) |
@@ -1322,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haulin' Oats | 192829 | [192829-haulin-oats.json](./192829-haulin-oats.json) |
 | Hauling Away | 208276 | [208276-hauling-away.json](./208276-hauling-away.json) |
 | Hauma: A Detective Noir Story - Prologue | 271419 | [271419-hauma-a-detective-noir-story-prologue.json](./271419-hauma-a-detective-noir-story-prologue.json) |
+| Haunt | 196098 | [196098-haunt.json](./196098-haunt.json) |
 | Haunt | 20245 | [20245-haunt.json](./20245-haunt.json) |
 | Haunt | 383487 | [383487-haunt.json](./383487-haunt.json) |
 | Haunt | 384773 | [384773-haunt.json](./384773-haunt.json) |
@@ -1651,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart de Roommate | 84234 | [84234-heart-de-roommate.json](./84234-heart-de-roommate.json) |
 | Heart Fragment | 131599 | [131599-heart-fragment.json](./131599-heart-fragment.json) |
 | Heart Fragment: Book One - Fantasy Fragments | 245032 | [245032-heart-fragment-book-one-fantasy-fragments.json](./245032-heart-fragment-book-one-fantasy-fragments.json) |
+| Heart Fragment: Book Two - Belief Fragments | 196126 | [196126-heart-fragment-book-two-belief-fragments.json](./196126-heart-fragment-book-two-belief-fragments.json) |
 | Heart in the Cell: Rebirth | 157020 | [157020-heart-in-the-cell-rebirth.json](./157020-heart-in-the-cell-rebirth.json) |
 | Heart is Muscle | 181933 | [181933-heart-is-muscle.json](./181933-heart-is-muscle.json) |
 | Heart Keeper | 342634 | [342634-heart-keeper.json](./342634-heart-keeper.json) |
@@ -6238,6 +6241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt them | 113473 | [113473-hunt-them.json](./113473-hunt-them.json) |
 | Hunt Zombies Together | 413135 | [413135-hunt-zombies-together.json](./413135-hunt-zombies-together.json) |
 | Hunt: Showdown - Bayou Wraith | 166067 | [166067-hunt-showdown-bayou-wraith.json](./166067-hunt-showdown-bayou-wraith.json) |
+| Hunt: Showdown - Cold Blooded | 196100 | [196100-hunt-showdown-cold-blooded.json](./196100-hunt-showdown-cold-blooded.json) |
 | Hunt: Showdown - Deluxe Edition | 146115 | [146115-hunt-showdown-deluxe-edition.json](./146115-hunt-showdown-deluxe-edition.json) |
 | Hunt: Showdown - Fear the Reaper | 224219 | [224219-hunt-showdown-fear-the-reaper.json](./224219-hunt-showdown-fear-the-reaper.json) |
 | Hunt: Showdown - Gold Edition | 146137 | [146137-hunt-showdown-gold-edition.json](./146137-hunt-showdown-gold-edition.json) |
