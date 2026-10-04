@@ -3926,6 +3926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FleshBound | 327453 | [327453-fleshbound.json](./327453-fleshbound.json) |
 | FleshBound | 397043 | [397043-fleshbound.json](./397043-fleshbound.json) |
 | Fleshcancer | 395805 | [395805-fleshcancer.json](./395805-fleshcancer.json) |
+| Fleshgait | 188448 | [188448-fleshgait.json](./188448-fleshgait.json) |
 | Fleshgrinder | 415905 | [415905-fleshgrinder.json](./415905-fleshgrinder.json) |
 | Fleshport | 173261 | [173261-fleshport.json](./173261-fleshport.json) |
 | FleurBirdShoot | 192931 | [192931-fleurbirdshoot.json](./192931-fleurbirdshoot.json) |
