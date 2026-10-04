@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Hike | 336557 | [336557-happy-hike.json](./336557-happy-hike.json) |
 | Happy Holes | 340412 | [340412-happy-holes.json](./340412-happy-holes.json) |
 | Happy Holidays: Christmas Miracle | 337270 | [337270-happy-holidays-christmas-miracle.json](./337270-happy-holidays-christmas-miracle.json) |
+| Happy Homes | 178932 | [178932-happy-homes.json](./178932-happy-homes.json) |
 | Happy Hop | 413913 | [413913-happy-hop.json](./413913-happy-hop.json) |
 | Happy Hospital | 305846 | [305846-happy-hospital.json](./305846-happy-hospital.json) |
 | Happy Hotel | 280793 | [280793-happy-hotel.json](./280793-happy-hotel.json) |
@@ -5904,6 +5905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Be a Complete Bastard | 13882 | [13882-how-to-be-a-complete-bastard.json](./13882-how-to-be-a-complete-bastard.json) |
 | How to be a Hero | 38925 | [38925-how-to-be-a-hero.json](./38925-how-to-be-a-hero.json) |
 | How to Be a Real Dude | 117392 | [117392-how-to-be-a-real-dude.json](./117392-how-to-be-a-real-dude.json) |
+| How to Blorrble-Blobble | 179007 | [179007-how-to-blorrble-blobble.json](./179007-how-to-blorrble-blobble.json) |
 | How to Build a Flying City | 321746 | [321746-how-to-build-a-flying-city.json](./321746-how-to-build-a-flying-city.json) |
 | How To Build A Snowman | 383492 | [383492-how-to-build-a-snowman.json](./383492-how-to-build-a-snowman.json) |
 | How To Build Your Igloo | 253931 | [253931-how-to-build-your-igloo.json](./253931-how-to-build-your-igloo.json) |
@@ -6182,6 +6184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanoid Huntress | 249794 | [249794-humanoid-huntress.json](./249794-humanoid-huntress.json) |
 | Humanolve: A Human Evolution Card Saga | 303562 | [303562-humanolve-a-human-evolution-card-saga.json](./303562-humanolve-a-human-evolution-card-saga.json) |
 | Humans 3: Evolution - Lost in Time | 39031 | [39031-humans-3-evolution-lost-in-time.json](./39031-humans-3-evolution-lost-in-time.json) |
+| Humans Are Pattern Finders | 179023 | [179023-humans-are-pattern-finders.json](./179023-humans-are-pattern-finders.json) |
 | Humans Are Useless | 211626 | [211626-humans-are-useless.json](./211626-humans-are-useless.json) |
 | Humans Vs Ghouls | 153372 | [153372-humans-vs-ghouls.json](./153372-humans-vs-ghouls.json) |
 | Humans vs. Monsters | 303561 | [303561-humans-vs-monsters.json](./303561-humans-vs-monsters.json) |
