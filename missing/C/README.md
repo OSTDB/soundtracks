@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Escape | 189033 | [189033-can-you-escape.json](./189033-can-you-escape.json) |
 | Can You Escape | 88475 | [88475-can-you-escape.json](./88475-can-you-escape.json) |
 | Can You Escape Fate? A Zodiac Story | 377807 | [377807-can-you-escape-fate-a-zodiac-story.json](./377807-can-you-escape-fate-a-zodiac-story.json) |
+| Can You Escape Grand Canyon | 207207 | [207207-can-you-escape-grand-canyon.json](./207207-can-you-escape-grand-canyon.json) |
 | Can You Escape Heartbreak? A Zodiac Story | 377809 | [377809-can-you-escape-heartbreak-a-zodiac-story.json](./377809-can-you-escape-heartbreak-a-zodiac-story.json) |
 | Can You Escape Love? A Zodiac Story | 377804 | [377804-can-you-escape-love-a-zodiac-story.json](./377804-can-you-escape-love-a-zodiac-story.json) |
 | Can You Escape Modern Office | 167290 | [167290-can-you-escape-modern-office.json](./167290-can-you-escape-modern-office.json) |
@@ -1243,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards and Towers | 299139 | [299139-cards-and-towers.json](./299139-cards-and-towers.json) |
 | Cards Infinity | 187836 | [187836-cards-infinity.json](./187836-cards-infinity.json) |
 | Cards of Action | 400971 | [400971-cards-of-action.json](./400971-cards-of-action.json) |
+| Cards of Binokee | 207351 | [207351-cards-of-binokee.json](./207351-cards-of-binokee.json) |
 | Cards of Destiny | 264064 | [264064-cards-of-destiny.json](./264064-cards-of-destiny.json) |
 | Cards of Eternity: The Wheel of Time | 321147 | [321147-cards-of-eternity-the-wheel-of-time.json](./321147-cards-of-eternity-the-wheel-of-time.json) |
 | Cards of Fortune | 360676 | [360676-cards-of-fortune.json](./360676-cards-of-fortune.json) |
