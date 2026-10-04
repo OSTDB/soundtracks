@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbot | 86523 | [86523-warbot.json](./86523-warbot.json) |
 | Warbot Engineer | 337458 | [337458-warbot-engineer.json](./337458-warbot-engineer.json) |
 | Warbound | 372627 | [372627-warbound.json](./372627-warbound.json) |
+| Warbound Storm | 220161 | [220161-warbound-storm.json](./220161-warbound-storm.json) |
 | Warbox | 168647 | [168647-warbox.json](./168647-warbox.json) |
 | Warbox | 232010 | [232010-warbox.json](./232010-warbox.json) |
 | Warcana: Cat DLC | 357371 | [357371-warcana-cat-dlc.json](./357371-warcana-cat-dlc.json) |
