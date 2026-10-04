@@ -7320,6 +7320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primer | 247086 | [247086-primer.json](./247086-primer.json) |
 | Primeval | 158688 | [158688-primeval.json](./158688-primeval.json) |
 | Primeval Horizon | 295527 | [295527-primeval-horizon.json](./295527-primeval-horizon.json) |
+| Priministar | 216285 | [216285-priministar.json](./216285-priministar.json) |
 | Priministar | 294860 | [294860-priministar.json](./294860-priministar.json) |
 | Primit Shooter 2 | 270950 | [270950-primit-shooter-2.json](./270950-primit-shooter-2.json) |
 | Primitier | 140519 | [140519-primitier.json](./140519-primitier.json) |
