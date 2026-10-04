@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm | 328533 | [328533-farm.json](./328533-farm.json) |
 | Farm | 364085 | [364085-farm.json](./364085-farm.json) |
 | Farm 2+ | 412347 | [412347-farm-2.json](./412347-farm-2.json) |
+| Farm Alarm | 176327 | [176327-farm-alarm.json](./176327-farm-alarm.json) |
 | Farm and Click - Idle Hell Clicker | 95862 | [95862-farm-and-click-idle-hell-clicker.json](./95862-farm-and-click-idle-hell-clicker.json) |
 | Farm and Fix Simulator | 244785 | [244785-farm-and-fix-simulator.json](./244785-farm-and-fix-simulator.json) |
 | Farm and Girls | 367046 | [367046-farm-and-girls.json](./367046-farm-and-girls.json) |
@@ -1894,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed My Alien | 60629 | [60629-feed-my-alien.json](./60629-feed-my-alien.json) |
 | Feed My Raptor 2 | 340528 | [340528-feed-my-raptor-2.json](./340528-feed-my-raptor-2.json) |
 | Feed My Raptor VR | 391839 | [391839-feed-my-raptor-vr.json](./391839-feed-my-raptor-vr.json) |
+| Feed of Comfort | 176238 | [176238-feed-of-comfort.json](./176238-feed-of-comfort.json) |
 | Feed Sort | 246530 | [246530-feed-sort.json](./246530-feed-sort.json) |
 | Feed the AI | 398585 | [398585-feed-the-ai.json](./398585-feed-the-ai.json) |
 | Feed the Animals | 75916 | [75916-feed-the-animals.json](./75916-feed-the-animals.json) |
@@ -6731,6 +6733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruity Freddy | 347833 | [347833-fruity-freddy.json](./347833-fruity-freddy.json) |
 | Frustration Golf | 181713 | [181713-frustration-golf.json](./181713-frustration-golf.json) |
 | Frustration Nation | 335504 | [335504-frustration-nation.json](./335504-frustration-nation.json) |
+| Fruta Luta | 176323 | [176323-fruta-luta.json](./176323-fruta-luta.json) |
 | Frutakia | 299776 | [299776-frutakia.json](./299776-frutakia.json) |
 | Frutiger Aero | 354488 | [354488-frutiger-aero.json](./354488-frutiger-aero.json) |
 | Frutiger Home | 368055 | [368055-frutiger-home.json](./368055-frutiger-home.json) |
