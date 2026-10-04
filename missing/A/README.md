@@ -2631,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akatsuki no Goei Trinity: Complete Edition | 202955 | [202955-akatsuki-no-goei-trinity-complete-edition.json](./202955-akatsuki-no-goei-trinity-complete-edition.json) |
 | Akatsuki no Goei: Principal-tachi no Kyuujitsu | 202952 | [202952-akatsuki-no-goei-principal-tachi-no-kyuujitsu.json](./202952-akatsuki-no-goei-principal-tachi-no-kyuujitsu.json) |
 | Akatsuki no Goei: Tsumibukaki Shuumatsuron | 202953 | [202953-akatsuki-no-goei-tsumibukaki-shuumatsuron.json](./202953-akatsuki-no-goei-tsumibukaki-shuumatsuron.json) |
+| Akatsuki no Tenjinroku | 208850 | [208850-akatsuki-no-tenjinroku.json](./208850-akatsuki-no-tenjinroku.json) |
 | Akatsuki Yureru Koi Akari | 238101 | [238101-akatsuki-yureru-koi-akari.json](./238101-akatsuki-yureru-koi-akari.json) |
 | Akatsuki Zero | 258127 | [258127-akatsuki-zero.json](./258127-akatsuki-zero.json) |
 | Akatsuki: Shisei Ichi-go | 61628 | [61628-akatsuki-shisei-ichi-go.json](./61628-akatsuki-shisei-ichi-go.json) |
