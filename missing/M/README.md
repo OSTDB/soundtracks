@@ -1247,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maji de Watashi ni Koishinasai! A-4 | 112294 | [112294-maji-de-watashi-ni-koishinasai-a-4.json](./112294-maji-de-watashi-ni-koishinasai-a-4.json) |
 | Maji de Watashi ni Koishinasai! A-5 | 112297 | [112297-maji-de-watashi-ni-koishinasai-a-5.json](./112297-maji-de-watashi-ni-koishinasai-a-5.json) |
 | MaJiang | 160250 | [160250-majiang.json](./160250-majiang.json) |
+| Majid, Smash'Em! | 176842 | [176842-majid-smashem.json](./176842-majid-smashem.json) |
 | Majikoi! Love Me Seriously! | 65611 | [65611-majikoi-love-me-seriously.json](./65611-majikoi-love-me-seriously.json) |
 | Majin Tantei Nougami Neuro: Battle da yo! Hannin Shuugou! | 216201 | [216201-majin-tantei-nougami-neuro-battle-da-yo-hannin-shuugou.json](./216201-majin-tantei-nougami-neuro-battle-da-yo-hannin-shuugou.json) |
 | Majin Tensei: Blind Thinker | 112319 | [112319-majin-tensei-blind-thinker.json](./112319-majin-tensei-blind-thinker.json) |
@@ -4569,6 +4570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memento Dawn | 262956 | [262956-memento-dawn.json](./262956-memento-dawn.json) |
 | Memento in Marrow | 330849 | [330849-memento-in-marrow.json](./330849-memento-in-marrow.json) |
 | Memento Mori | 139373 | [139373-memento-mori.json](./139373-memento-mori.json) |
+| Memento Mori | 176839 | [176839-memento-mori.json](./176839-memento-mori.json) |
 | Memento Mori | 209527 | [209527-memento-mori.json](./209527-memento-mori.json) |
 | Memento Mori | 271182 | [271182-memento-mori.json](./271182-memento-mori.json) |
 | Memento Mori | 28231 | [28231-memento-mori.json](./28231-memento-mori.json) |
@@ -5993,6 +5995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Mike (Power Pete) | 72658 | [72658-mighty-mike-power-pete.json](./72658-mighty-mike-power-pete.json) |
 | Mighty Monkey | 40389 | [40389-mighty-monkey.json](./40389-mighty-monkey.json) |
 | Mighty Monster Mayhem | 29622 | [29622-mighty-monster-mayhem.json](./29622-mighty-monster-mayhem.json) |
+| Mighty Monsters | 176867 | [176867-mighty-monsters.json](./176867-mighty-monsters.json) |
 | Mighty Morphin Power Rangers | 198870 | [198870-mighty-morphin-power-rangers.json](./198870-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers | 3286 | [3286-mighty-morphin-power-rangers.json](./3286-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers | 3324 | [3324-mighty-morphin-power-rangers.json](./3324-mighty-morphin-power-rangers.json) |
@@ -9211,6 +9214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother Goose no Himitsu no Yakata | 218962 | [218962-mother-goose-no-himitsu-no-yakata.json](./218962-mother-goose-no-himitsu-no-yakata.json) |
 | Mother Goose no Himitsu no Yakata: Blue Label | 218963 | [218963-mother-goose-no-himitsu-no-yakata-blue-label.json](./218963-mother-goose-no-himitsu-no-yakata-blue-label.json) |
 | Mother Is Gone | 180843 | [180843-mother-is-gone.json](./180843-mother-is-gone.json) |
+| Mother Island | 176831 | [176831-mother-island.json](./176831-mother-island.json) |
 | Mother Machine | 315742 | [315742-mother-machine.json](./315742-mother-machine.json) |
 | Mother May I | 291455 | [291455-mother-may-i.json](./291455-mother-may-i.json) |
 | Mother of All Battles | 102823 | [102823-mother-of-all-battles.json](./102823-mother-of-all-battles.json) |
