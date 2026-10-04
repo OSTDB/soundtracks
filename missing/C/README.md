@@ -3131,6 +3131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Château Royale Jigsaw: Expansion Pack 1 | 357876 | [357876-chateau-royale-jigsaw-expansion-pack-1.json](./357876-chateau-royale-jigsaw-expansion-pack-1.json) |
 | Château Royale Jigsaw: Expansion Pack 2 | 357877 | [357877-chateau-royale-jigsaw-expansion-pack-2.json](./357877-chateau-royale-jigsaw-expansion-pack-2.json) |
 | Château Royale Jigsaw: Expansion Pack 3 | 357878 | [357878-chateau-royale-jigsaw-expansion-pack-3.json](./357878-chateau-royale-jigsaw-expansion-pack-3.json) |
+| ChatFight! | 220544 | [220544-chatfight.json](./220544-chatfight.json) |
 | ChatGladiators | 411104 | [411104-chatgladiators.json](./411104-chatgladiators.json) |
 | ChatTDT: Tower Defense Twitch | 306678 | [306678-chattdt-tower-defense-twitch.json](./306678-chattdt-tower-defense-twitch.json) |
 | Chatteract | 138710 | [138710-chatteract.json](./138710-chatteract.json) |
@@ -3190,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheery Party | 148977 | [148977-cheery-party.json](./148977-cheery-party.json) |
 | Cheese Banquet Advanced | 294695 | [294695-cheese-banquet-advanced.json](./294695-cheese-banquet-advanced.json) |
 | Cheese Bit | 412971 | [412971-cheese-bit.json](./412971-cheese-bit.json) |
+| Cheese Dreams | 220555 | [220555-cheese-dreams.json](./220555-cheese-dreams.json) |
 | Cheese Dreams | 378974 | [378974-cheese-dreams.json](./378974-cheese-dreams.json) |
 | Cheese Dreams New Moon | 326738 | [326738-cheese-dreams-new-moon.json](./326738-cheese-dreams-new-moon.json) |
 | Cheese Game | 202651 | [202651-cheese-game.json](./202651-cheese-game.json) |
@@ -6060,6 +6062,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
 | Color Tower | 243080 | [243080-color-tower.json](./243080-color-tower.json) |
 | Color Trigger | 400352 | [400352-color-trigger.json](./400352-color-trigger.json) |
+| Color TV-Game 15 | 220549 | [220549-color-tv-game-15.json](./220549-color-tv-game-15.json) |
+| Color TV-Game Block Kuzushi | 220551 | [220551-color-tv-game-block-kuzushi.json](./220551-color-tv-game-block-kuzushi.json) |
+| Color TV-Game Racing 112 | 220550 | [220550-color-tv-game-racing-112.json](./220550-color-tv-game-racing-112.json) |
 | Color Valley: The Lost Balloon Adventure | 360049 | [360049-color-valley-the-lost-balloon-adventure.json](./360049-color-valley-the-lost-balloon-adventure.json) |
 | Color Vision Deficiency Test | 318641 | [318641-color-vision-deficiency-test.json](./318641-color-vision-deficiency-test.json) |
 | Color Water Sort: Complete Edition | 308798 | [308798-color-water-sort-complete-edition.json](./308798-color-water-sort-complete-edition.json) |
@@ -6631,6 +6636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Space | 11245 | [11245-computer-space.json](./11245-computer-space.json) |
 | Computer Store Simulator | 382744 | [382744-computer-store-simulator.json](./382744-computer-store-simulator.json) |
 | Computer the Golf | 112164 | [112164-computer-the-golf.json](./112164-computer-the-golf.json) |
+| Computer TV Game | 220552 | [220552-computer-tv-game.json](./220552-computer-tv-game.json) |
 | Computer Tycoon | 55888 | [55888-computer-tycoon.json](./55888-computer-tycoon.json) |
 | Computer Virus Simulator | 218133 | [218133-computer-virus-simulator.json](./218133-computer-virus-simulator.json) |
 | Computer War | 42162 | [42162-computer-war.json](./42162-computer-war.json) |
