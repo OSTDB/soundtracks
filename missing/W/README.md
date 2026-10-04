@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walrus Fly | 406690 | [406690-walrus-fly.json](./406690-walrus-fly.json) |
 | Walt Disney World Quest: Magical Racing Tour | 8129 | [8129-walt-disney-world-quest-magical-racing-tour.json](./8129-walt-disney-world-quest-magical-racing-tour.json) |
 | Walt Disney's Snow White and the Seven Dwarfs | 59938 | [59938-walt-disneys-snow-white-and-the-seven-dwarfs.json](./59938-walt-disneys-snow-white-and-the-seven-dwarfs.json) |
+| Walt Disney's Snow White and the Seven Dwarves | 198896 | [198896-walt-disneys-snow-white-and-the-seven-dwarves.json](./198896-walt-disneys-snow-white-and-the-seven-dwarves.json) |
 | Walt Disney's The Jungle Book | 123599 | [123599-walt-disneys-the-jungle-book.json](./123599-walt-disneys-the-jungle-book.json) |
 | Walt Disney's The Jungle Book: Mowgli's Wild Adventure | 49922 | [49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json](./49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json) |
 | Walthros | 353366 | [353366-walthros.json](./353366-walthros.json) |
@@ -976,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warmth Of A Dying Sun | 271295 | [271295-warmth-of-a-dying-sun.json](./271295-warmth-of-a-dying-sun.json) |
 | Warna | 215667 | [215667-warna.json](./215667-warna.json) |
 | Warna | 377153 | [377153-warna.json](./377153-warna.json) |
+| Warner Bros. Space Jam | 198899 | [198899-warner-bros-space-jam.json](./198899-warner-bros-space-jam.json) |
 | Warning Forever | 50111 | [50111-warning-forever.json](./50111-warning-forever.json) |
 | Warno | 187246 | [187246-warno.json](./187246-warno.json) |
 | Warno: Expansion Pass | 312006 | [312006-warno-expansion-pass.json](./312006-warno-expansion-pass.json) |
