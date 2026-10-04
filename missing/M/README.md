@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Wars Shakedown | 65555 | [65555-mafia-wars-shakedown.json](./65555-mafia-wars-shakedown.json) |
 | Mafia Wars: Yakuza | 319171 | [319171-mafia-wars-yakuza.json](./319171-mafia-wars-yakuza.json) |
 | Mafia World: Bloody War | 214057 | [214057-mafia-world-bloody-war.json](./214057-mafia-world-bloody-war.json) |
+| Mafia: Family's Secret | 186693 | [186693-mafia-familys-secret.json](./186693-mafia-familys-secret.json) |
 | Mafia: Sex Noir | 192435 | [192435-mafia-sex-noir.json](./192435-mafia-sex-noir.json) |
 | Mafia: The Old Country - Man of Honor | 404700 | [404700-mafia-the-old-country-man-of-honor.json](./404700-mafia-the-old-country-man-of-honor.json) |
 | Mafia: The Old Country - Soldato Pack | 413630 | [413630-mafia-the-old-country-soldato-pack.json](./413630-mafia-the-old-country-soldato-pack.json) |
@@ -3066,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Genius King of Arithmetic | 233753 | [233753-math-genius-king-of-arithmetic.json](./233753-math-genius-king-of-arithmetic.json) |
 | Math Genius: Multiplication | 321483 | [321483-math-genius-multiplication.json](./321483-math-genius-multiplication.json) |
 | Math Genius: Subtraction | 333204 | [333204-math-genius-subtraction.json](./333204-math-genius-subtraction.json) |
+| Math Gym | 186703 | [186703-math-gym.json](./186703-math-gym.json) |
 | Math Invaders | 209546 | [209546-math-invaders.json](./209546-math-invaders.json) |
 | Math is Horror | 278542 | [278542-math-is-horror.json](./278542-math-is-horror.json) |
 | Math it Right 3D Adventure | 190960 | [190960-math-it-right-3d-adventure.json](./190960-math-it-right-3d-adventure.json) |
@@ -4767,6 +4769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow and the Diamond Jump | 379022 | [379022-meow-and-the-diamond-jump.json](./379022-meow-and-the-diamond-jump.json) |
 | Meow Cat Village | 314471 | [314471-meow-cat-village.json](./314471-meow-cat-village.json) |
 | Meow Defence | 214159 | [214159-meow-defence.json](./214159-meow-defence.json) |
+| Meow Express | 186685 | [186685-meow-express.json](./186685-meow-express.json) |
 | Meow Master: Battle for Catnip | 251726 | [251726-meow-master-battle-for-catnip.json](./251726-meow-master-battle-for-catnip.json) |
 | Meow Meoww | 265415 | [265415-meow-meoww.json](./265415-meow-meoww.json) |
 | Meow Moments: Celebrating Frost & Flora | 410375 | [410375-meow-moments-celebrating-frost-and-flora.json](./410375-meow-moments-celebrating-frost-and-flora.json) |
