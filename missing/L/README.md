@@ -4302,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Roots | 298235 | [298235-lost-in-the-roots.json](./298235-lost-in-the-roots.json) |
 | Lost in the Sand | 215641 | [215641-lost-in-the-sand.json](./215641-lost-in-the-sand.json) |
 | Lost In The Store | 408064 | [408064-lost-in-the-store.json](./408064-lost-in-the-store.json) |
+| Lost in the Storm | 190022 | [190022-lost-in-the-storm.json](./190022-lost-in-the-storm.json) |
 | Lost in the tomb | 74473 | [74473-lost-in-the-tomb.json](./74473-lost-in-the-tomb.json) |
 | Lost in Time | 14448 | [14448-lost-in-time.json](./14448-lost-in-time.json) |
 | Lost In Time | 171602 | [171602-lost-in-time.json](./171602-lost-in-time.json) |
