@@ -3330,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagonal Explods | 238729 | [238729-hexagonal-explods.json](./238729-hexagonal-explods.json) |
 | Hexagonal Tower | 195109 | [195109-hexagonal-tower.json](./195109-hexagonal-tower.json) |
 | Hexagoner | 286032 | [286032-hexagoner.json](./286032-hexagoner.json) |
+| Hexagourds | 182893 | [182893-hexagourds.json](./182893-hexagourds.json) |
 | Hexahedral | 314461 | [314461-hexahedral.json](./314461-hexahedral.json) |
 | Hexahedral Pathfinder | 108418 | [108418-hexahedral-pathfinder.json](./108418-hexahedral-pathfinder.json) |
 | Hexalert | 337635 | [337635-hexalert.json](./337635-hexalert.json) |
@@ -3501,6 +3502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hibikake Iro no Kiseki | 76701 | [76701-hibikake-iro-no-kiseki.json](./76701-hibikake-iro-no-kiseki.json) |
 | Hibiscus Red: Part 2 | 171933 | [171933-hibiscus-red-part-2.json](./171933-hibiscus-red-part-2.json) |
 | Hibow | 158210 | [158210-hibow.json](./158210-hibow.json) |
+| Hibow Supporter | 182873 | [182873-hibow-supporter.json](./182873-hibow-supporter.json) |
 | Hibridya | 371274 | [371274-hibridya.json](./371274-hibridya.json) |
 | Hidalgo | 314641 | [314641-hidalgo.json](./314641-hidalgo.json) |
 | Hidden | 249789 | [249789-hidden.json](./249789-hidden.json) |
@@ -4586,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday with Gwen | 213485 | [213485-holiday-with-gwen.json](./213485-holiday-with-gwen.json) |
 | Hollenburg: Hell Castle | 256259 | [256259-hollenburg-hell-castle.json](./256259-hollenburg-hell-castle.json) |
 | Höllische Nachbarn | 92979 | [92979-hollische-nachbarn.json](./92979-hollische-nachbarn.json) |
+| Hollow | 182886 | [182886-hollow.json](./182886-hollow.json) |
 | Hollow | 186257 | [186257-hollow.json](./186257-hollow.json) |
 | Hollow Ascent | 370840 | [370840-hollow-ascent.json](./370840-hollow-ascent.json) |
 | Hollow Bequest | 386714 | [386714-hollow-bequest.json](./386714-hollow-bequest.json) |
