@@ -2575,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Control | 40775 | [40775-out-of-control.json](./40775-out-of-control.json) |
 | Out of Control: Space Survival Bundle: Ctrl Alt Ego + Tin Can: Supporter Edition | 331483 | [331483-out-of-control-space-survival-bundle-ctrl-alt-ego-tin-can-supporter-edition.json](./331483-out-of-control-space-survival-bundle-ctrl-alt-ego-tin-can-supporter-edition.json) |
 | Out of Ctrl | 177519 | [177519-out-of-ctrl.json](./177519-out-of-ctrl.json) |
+| Out of Darkness | 180088 | [180088-out-of-darkness.json](./180088-out-of-darkness.json) |
 | Out of Fix | 184978 | [184978-out-of-fix.json](./184978-out-of-fix.json) |
 | Out of Frame | 141886 | [141886-out-of-frame.json](./141886-out-of-frame.json) |
 | Out of Fuel | 257358 | [257358-out-of-fuel.json](./257358-out-of-fuel.json) |
