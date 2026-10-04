@@ -4139,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binky's Trash Service | 142483 | [142483-binkys-trash-service.json](./142483-binkys-trash-service.json) |
 | Bio Block | 274518 | [274518-bio-block.json](./274518-bio-block.json) |
 | Bio Challenge | 12917 | [12917-bio-challenge.json](./12917-bio-challenge.json) |
+| Bio Evil | 217941 | [217941-bio-evil.json](./217941-bio-evil.json) |
 | Bio Fail | 410910 | [410910-bio-fail.json](./410910-bio-fail.json) |
 | Bio Fault | 397052 | [397052-bio-fault.json](./397052-bio-fault.json) |
 | Bio Force Ape | 19378 | [19378-bio-force-ape.json](./19378-bio-force-ape.json) |
