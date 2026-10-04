@@ -2819,6 +2819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChainStaff | 304750 | [304750-chainstaff.json](./304750-chainstaff.json) |
 | Chainworm Kommando | 257350 | [257350-chainworm-kommando.json](./257350-chainworm-kommando.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
+| Chairades | 179995 | [179995-chairades.json](./179995-chairades.json) |
 | Chairs | 281987 | [281987-chairs.json](./281987-chairs.json) |
 | Chakan: The Forever Man | 18091 | [18091-chakan-the-forever-man.json](./18091-chakan-the-forever-man.json) |
 | Chakana | 322805 | [322805-chakana.json](./322805-chakana.json) |
@@ -5547,6 +5548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluck Cluck'em | 183456 | [183456-cluck-cluckem.json](./183456-cluck-cluckem.json) |
 | Cluck-a-Thon | 258116 | [258116-cluck-a-thon.json](./258116-cluck-a-thon.json) |
 | Cluckmech Oasis | 275812 | [275812-cluckmech-oasis.json](./275812-cluckmech-oasis.json) |
+| Cludbugz Twisted Magic | 180059 | [180059-cludbugz-twisted-magic.json](./180059-cludbugz-twisted-magic.json) |
 | Cludbugz's Twisted Magic | 51969 | [51969-cludbugzs-twisted-magic.json](./51969-cludbugzs-twisted-magic.json) |
 | Clue | 206977 | [206977-clue.json](./206977-clue.json) |
 | Clue Kaguya-sama: Love is War | 262363 | [262363-clue-kaguya-sama-love-is-war.json](./262363-clue-kaguya-sama-love-is-war.json) |
@@ -5940,6 +5942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Heart | 138683 | [138683-cold-heart.json](./138683-cold-heart.json) |
 | Cold Hill | 153897 | [153897-cold-hill.json](./153897-cold-hill.json) |
 | Cold House | 190092 | [190092-cold-house.json](./190092-cold-house.json) |
+| Cold in the Dark | 180062 | [180062-cold-in-the-dark.json](./180062-cold-in-the-dark.json) |
 | Cold Massacre | 220585 | [220585-cold-massacre.json](./220585-cold-massacre.json) |
 | Cold Meat | 166716 | [166716-cold-meat.json](./166716-cold-meat.json) |
 | Cold Pines | 391877 | [391877-cold-pines.json](./391877-cold-pines.json) |
@@ -6691,6 +6694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Companion of Darkness | 342630 | [342630-companion-of-darkness.json](./342630-companion-of-darkness.json) |
 | Companions of Xanth | 12412 | [12412-companions-of-xanth.json](./12412-companions-of-xanth.json) |
 | Company is Watching | 401498 | [401498-company-is-watching.json](./401498-company-is-watching.json) |
+| Company Loyalty | 179986 | [179986-company-loyalty.json](./179986-company-loyalty.json) |
 | Company of Heroes | 654 | [654-company-of-heroes.json](./654-company-of-heroes.json) |
 | Company of Heroes 2: All Out War Edition | 139845 | [139845-company-of-heroes-2-all-out-war-edition.json](./139845-company-of-heroes-2-all-out-war-edition.json) |
 | Company of Heroes 2: Ardennes Assault | 8445 | [8445-company-of-heroes-2-ardennes-assault.json](./8445-company-of-heroes-2-ardennes-assault.json) |
@@ -8333,7 +8337,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crank Tower Defense | 347140 | [347140-crank-tower-defense.json](./347140-crank-tower-defense.json) |
 | Crank! Push! Tilt! | 243697 | [243697-crank-push-tilt.json](./243697-crank-push-tilt.json) |
 | CrankCore Incremental | 413211 | [413211-crankcore-incremental.json](./413211-crankcore-incremental.json) |
+| Crankies Workshop: Bozzbot Assembly | 180057 | [180057-crankies-workshop-bozzbot-assembly.json](./180057-crankies-workshop-bozzbot-assembly.json) |
+| Crankies Workshop: Grizzbot Assembly | 180067 | [180067-crankies-workshop-grizzbot-assembly.json](./180067-crankies-workshop-grizzbot-assembly.json) |
+| Crankies Workshop: Grizzbot Assembly 2 | 180068 | [180068-crankies-workshop-grizzbot-assembly-2.json](./180068-crankies-workshop-grizzbot-assembly-2.json) |
 | Crankies Workshop: Lerpbot Assembly | 180030 | [180030-crankies-workshop-lerpbot-assembly.json](./180030-crankies-workshop-lerpbot-assembly.json) |
+| Crankies Workshop: Whirlbot Assembly | 180052 | [180052-crankies-workshop-whirlbot-assembly.json](./180052-crankies-workshop-whirlbot-assembly.json) |
 | Cranknstein II | 214015 | [214015-cranknstein-ii.json](./214015-cranknstein-ii.json) |
 | Crankoids | 347141 | [347141-crankoids.json](./347141-crankoids.json) |
 | Cranks and Goggles | 26619 | [26619-cranks-and-goggles.json](./26619-cranks-and-goggles.json) |
@@ -10769,6 +10777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyra and the Beacon Path | 203962 | [203962-cyra-and-the-beacon-path.json](./203962-cyra-and-the-beacon-path.json) |
 | Cyrah's Ascent | 201558 | [201558-cyrahs-ascent.json](./201558-cyrahs-ascent.json) |
 | Cyraid | 48953 | [48953-cyraid.json](./48953-cyraid.json) |
+| Cyrcles | 180065 | [180065-cyrcles.json](./180065-cyrcles.json) |
 | Cyril Cyberpunk | 19339 | [19339-cyril-cyberpunk.json](./19339-cyril-cyberpunk.json) |
 | Cyroad | 128570 | [128570-cyroad.json](./128570-cyroad.json) |
 | Cyrtabor | 159271 | [159271-cyrtabor.json](./159271-cyrtabor.json) |
