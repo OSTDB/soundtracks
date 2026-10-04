@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Koopa's Revenge 2 | 307669 | [307669-a-koopas-revenge-2.json](./307669-a-koopas-revenge-2.json) |
 | A Kristus Story: A Night Market Holiday Tale | 322048 | [322048-a-kristus-story-a-night-market-holiday-tale.json](./322048-a-kristus-story-a-night-market-holiday-tale.json) |
 | A la Card | 331393 | [331393-a-la-card.json](./331393-a-la-card.json) |
+| A la Fenetre | 182797 | [182797-a-la-fenetre.json](./182797-a-la-fenetre.json) |
 | A Lab of One's Own | 177848 | [177848-a-lab-of-ones-own.json](./177848-a-lab-of-ones-own.json) |
 | A Lakeside Walk in the Dolomites | 341085 | [341085-a-lakeside-walk-in-the-dolomites.json](./341085-a-lakeside-walk-in-the-dolomites.json) |
 | A Last Will and Testament | 203869 | [203869-a-last-will-and-testament.json](./203869-a-last-will-and-testament.json) |
@@ -5323,6 +5324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Nightmare | 217856 | [217856-another-nightmare.json](./217856-another-nightmare.json) |
 | Another Path | 196884 | [196884-another-path.json](./196884-another-path.json) |
 | Another Perspective | 9978 | [9978-another-perspective.json](./9978-another-perspective.json) |
+| Another Piece of Candy: Sweet Fusions | 182856 | [182856-another-piece-of-candy-sweet-fusions.json](./182856-another-piece-of-candy-sweet-fusions.json) |
 | Another Pint | 361865 | [361865-another-pint.json](./361865-another-pint.json) |
 | Another Prince: A Lost Tale | 191915 | [191915-another-prince-a-lost-tale.json](./191915-another-prince-a-lost-tale.json) |
 | Another Princess is in Our Castle | 228362 | [228362-another-princess-is-in-our-castle.json](./228362-another-princess-is-in-our-castle.json) |
