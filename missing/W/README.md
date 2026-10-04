@@ -4100,6 +4100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordCrasher | 87702 | [87702-wordcrasher.json](./87702-wordcrasher.json) |
 | Worded! | 233051 | [233051-worded.json](./233051-worded.json) |
 | Worder | 116852 | [116852-worder.json](./116852-worder.json) |
+| WordFall | 186666 | [186666-wordfall.json](./186666-wordfall.json) |
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
 | Wordgraphy | 233050 | [233050-wordgraphy.json](./233050-wordgraphy.json) |
 | WordHerd | 147269 | [147269-wordherd.json](./147269-wordherd.json) |
