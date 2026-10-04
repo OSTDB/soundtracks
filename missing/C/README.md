@@ -3040,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chara Chenko | 130385 | [130385-chara-chenko.json](./130385-chara-chenko.json) |
 | Character Sheets, Please | 209941 | [209941-character-sheets-please.json](./209941-character-sheets-please.json) |
 | Charade Maniacs | 69343 | [69343-charade-maniacs.json](./69343-charade-maniacs.json) |
+| Charade Maniacs for Nintendo Switch | 201618 | [201618-charade-maniacs-for-nintendo-switch.json](./201618-charade-maniacs-for-nintendo-switch.json) |
 | Charade Maniacs: Limited Edition | 265936 | [265936-charade-maniacs-limited-edition.json](./265936-charade-maniacs-limited-edition.json) |
 | Charades Taboo Game | 100145 | [100145-charades-taboo-game.json](./100145-charades-taboo-game.json) |
 | Charem of Metropolitan | 236909 | [236909-charem-of-metropolitan.json](./236909-charem-of-metropolitan.json) |
@@ -5360,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closing Shift | 279895 | [279895-closing-shift.json](./279895-closing-shift.json) |
 | Closing Shift | 412551 | [412551-closing-shift.json](./412551-closing-shift.json) |
 | Clostrophobia: Vol 1 | 293650 | [293650-clostrophobia-vol-1.json](./293650-clostrophobia-vol-1.json) |
+| Closure | 201622 | [201622-closure.json](./201622-closure.json) |
 | Closure | 8146 | [8146-closure.json](./8146-closure.json) |
 | Clothes Forever - Styling Game | 90674 | [90674-clothes-forever-styling-game.json](./90674-clothes-forever-styling-game.json) |
 | Clothing Boutique Simulator: Store Manager | 370802 | [370802-clothing-boutique-simulator-store-manager.json](./370802-clothing-boutique-simulator-store-manager.json) |
@@ -7307,6 +7309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking: Viva la Pizza! | 362380 | [362380-cooking-viva-la-pizza.json](./362380-cooking-viva-la-pizza.json) |
 | Cookulo | 325017 | [325017-cookulo.json](./325017-cookulo.json) |
 | Cool 104 Joker & Setline | 269623 | [269623-cool-104-joker-and-setline.json](./269623-cool-104-joker-and-setline.json) |
+| Cool Animals | 201611 | [201611-cool-animals.json](./201611-cool-animals.json) |
 | Cool Boarders Arcade Jam | 39831 | [39831-cool-boarders-arcade-jam.json](./39831-cool-boarders-arcade-jam.json) |
 | Cool Brick Breaker | 235239 | [235239-cool-brick-breaker.json](./235239-cool-brick-breaker.json) |
 | Cool Bricks | 50032 | [50032-cool-bricks.json](./50032-cool-bricks.json) |
@@ -8350,7 +8353,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashlands | 15389 | [15389-crashlands.json](./15389-crashlands.json) |
 | Crashletics | 242217 | [242217-crashletics.json](./242217-crashletics.json) |
 | CrashMetal: Drift Racing Car Driving Simulator - Premium Edition | 283151 | [283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json](./283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json) |
+| Crashocalypse | 201656 | [201656-crashocalypse.json](./201656-crashocalypse.json) |
 | Crashout Crew | 372144 | [372144-crashout-crew.json](./372144-crashout-crew.json) |
+| CrashTV | 201616 | [201616-crashtv.json](./201616-crashtv.json) |
 | Crashy Cars! | 247178 | [247178-crashy-cars.json](./247178-crashy-cars.json) |
 | Crashy Cops! | 104642 | [104642-crashy-cops.json](./104642-crashy-cops.json) |
 | Crashy Laps | 244237 | [244237-crashy-laps.json](./244237-crashy-laps.json) |
