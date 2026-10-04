@@ -2218,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death end re;Quest 2 - Ultimate Weapon Set | 224513 | [224513-death-end-re-quest-2-ultimate-weapon-set.json](./224513-death-end-re-quest-2-ultimate-weapon-set.json) |
 | Death End Re;Quest 2: Complete Deluxe Edition | 186871 | [186871-death-end-re-quest-2-complete-deluxe-edition.json](./186871-death-end-re-quest-2-complete-deluxe-edition.json) |
 | Death End Re;Quest 2: Limited Edition | 166236 | [166236-death-end-re-quest-2-limited-edition.json](./166236-death-end-re-quest-2-limited-edition.json) |
+| Death End Re;Quest: Dungeon Re;Quest Pack | 223547 | [223547-death-end-re-quest-dungeon-re-quest-pack.json](./223547-death-end-re-quest-dungeon-re-quest-pack.json) |
 | Death Escape | 148495 | [148495-death-escape.json](./148495-death-escape.json) |
 | Death Everywhere, So Save Paranoiacally 2 | 397934 | [397934-death-everywhere-so-save-paranoiacally-2.json](./397934-death-everywhere-so-save-paranoiacally-2.json) |
 | Death Field: The Battle Royale of Disaster | 96234 | [96234-death-field-the-battle-royale-of-disaster.json](./96234-death-field-the-battle-royale-of-disaster.json) |
@@ -8436,6 +8437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver's Education '98 | 69331 | [69331-drivers-education-98.json](./69331-drivers-education-98.json) |
 | Driver's Work Trip | 185150 | [185150-drivers-work-trip.json](./185150-drivers-work-trip.json) |
 | Driver4VR | 152871 | [152871-driver4vr.json](./152871-driver4vr.json) |
+| Driverio 2 | 223518 | [223518-driverio-2.json](./223518-driverio-2.json) |
 | Drivers Ed Portable | 70425 | [70425-drivers-ed-portable.json](./70425-drivers-ed-portable.json) |
 | Driving Academy 2018 Simulator | 86972 | [86972-driving-academy-2018-simulator.json](./86972-driving-academy-2018-simulator.json) |
 | Driving Alone at Night | 181797 | [181797-driving-alone-at-night.json](./181797-driving-alone-at-night.json) |
