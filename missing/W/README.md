@@ -1076,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Souls | 211106 | [211106-warrior-souls.json](./211106-warrior-souls.json) |
 | Warrior's Dilemma | 360636 | [360636-warriors-dilemma.json](./360636-warriors-dilemma.json) |
 | Warrior's Reward | 370710 | [370710-warriors-reward.json](./370710-warriors-reward.json) |
+| Warriorlock | 180093 | [180093-warriorlock.json](./180093-warriorlock.json) |
 | Warriors | 377151 | [377151-warriors.json](./377151-warriors.json) |
 | Warriors & Mages | 173270 | [173270-warriors-and-mages.json](./173270-warriors-and-mages.json) |
 | Warriors All-Stars: Treasure Box | 212334 | [212334-warriors-all-stars-treasure-box.json](./212334-warriors-all-stars-treasure-box.json) |
@@ -1809,9 +1810,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to your Life | 403672 | [403672-welcome-to-your-life.json](./403672-welcome-to-your-life.json) |
 | Welcome to: Doki Doki Literature Club, Player! | 336089 | [336089-welcome-to-doki-doki-literature-club-player.json](./336089-welcome-to-doki-doki-literature-club-player.json) |
 | Welcome To... Chicheser OVN 3 : The Mysterious Affair At The Violet Hotel | 131587 | [131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json](./131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json) |
+| Welcome To... Chichester 2 : The Spy Of America And The Eager Tourist Guide | 180090 | [180090-welcome-to-chichester-2-the-spy-of-america-and-the-eager-tourist-guide.json](./180090-welcome-to-chichester-2-the-spy-of-america-and-the-eager-tourist-guide.json) |
 | Welcome to... Chichester 2: Part II - No Extra Regrets For the Future | 170400 | [170400-welcome-to-chichester-2-part-ii-no-extra-regrets-for-the-future.json](./170400-welcome-to-chichester-2-part-ii-no-extra-regrets-for-the-future.json) |
 | Welcome To... Chichester 3: Original Episode | 169960 | [169960-welcome-to-chichester-3-original-episode.json](./169960-welcome-to-chichester-3-original-episode.json) |
 | Welcome To... Chichester OVN: Omnibus Edition | 248334 | [248334-welcome-to-chichester-ovn-omnibus-edition.json](./248334-welcome-to-chichester-ovn-omnibus-edition.json) |
+| Welcome To... Chichester: The Spy of America and the Long Vacation | 180082 | [180082-welcome-to-chichester-the-spy-of-america-and-the-long-vacation.json](./180082-welcome-to-chichester-the-spy-of-america-and-the-long-vacation.json) |
 | Welcome, [Employee Name] | 402286 | [402286-welcome-employee-name.json](./402286-welcome-employee-name.json) |
 | Welcome, Get Out! | 269196 | [269196-welcome-get-out.json](./269196-welcome-get-out.json) |
 | Welcome, Sharehouse! | 347369 | [347369-welcome-sharehouse.json](./347369-welcome-sharehouse.json) |
