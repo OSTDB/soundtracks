@@ -1195,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unify | 78760 | [78760-unify.json](./78760-unify.json) |
 | Unikitty! Save the Kingdom! | 199029 | [199029-unikitty-save-the-kingdom.json](./199029-unikitty-save-the-kingdom.json) |
 | Unilateral Table Tennis | 288268 | [288268-unilateral-table-tennis.json](./288268-unilateral-table-tennis.json) |
+| Unilogue | 208226 | [208226-unilogue.json](./208226-unilogue.json) |
 | Unimersiv | 51918 | [51918-unimersiv.json](./51918-unimersiv.json) |
 | Unimime: Unicycle Madness | 251594 | [251594-unimime-unicycle-madness.json](./251594-unimime-unicycle-madness.json) |
 | Uninhabited Island Story - Another World | 127123 | [127123-uninhabited-island-story-another-world.json](./127123-uninhabited-island-story-another-world.json) |
