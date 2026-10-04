@@ -2190,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aha Link Color: Cross | 101967 | [101967-aha-link-color-cross.json](./101967-aha-link-color-cross.json) |
 | Ahegal Seasons | 203381 | [203381-ahegal-seasons.json](./203381-ahegal-seasons.json) |
 | AHH!!! MazeZing | 158046 | [158046-ahh-mazezing.json](./158046-ahh-mazezing.json) |
+| Ahhnalog 112 | 196106 | [196106-ahhnalog-112.json](./196106-ahhnalog-112.json) |
 | Ahlgrens Bilspelet | 74070 | [74070-ahlgrens-bilspelet.json](./74070-ahlgrens-bilspelet.json) |
 | Ahnayro: The Dream World | 22377 | [22377-ahnayro-the-dream-world.json](./22377-ahnayro-the-dream-world.json) |
 | AHOD: All Hands on Deck! | 217244 | [217244-ahod-all-hands-on-deck.json](./217244-ahod-all-hands-on-deck.json) |
@@ -3591,6 +3592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aloha Play | 91408 | [91408-aloha-play.json](./91408-aloha-play.json) |
 | Aloisius | 183469 | [183469-aloisius.json](./183469-aloisius.json) |
 | Alon | 311568 | [311568-alon.json](./311568-alon.json) |
+| Alone | 196110 | [196110-alone.json](./196110-alone.json) |
 | Alone but Strong | 369625 | [369625-alone-but-strong.json](./369625-alone-but-strong.json) |
 | Alone House | 419949 | [419949-alone-house.json](./419949-alone-house.json) |
 | Alone In a Dream | 156665 | [156665-alone-in-a-dream.json](./156665-alone-in-a-dream.json) |
@@ -3738,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altarays | 161165 | [161165-altarays.json](./161165-altarays.json) |
 | Altcode | 304115 | [304115-altcode.json](./304115-altcode.json) |
 | AltCoin | 334769 | [334769-altcoin.json](./334769-altcoin.json) |
+| Altdeus: Beyond Chronos - Episode Yamato | 196096 | [196096-altdeus-beyond-chronos-episode-yamato.json](./196096-altdeus-beyond-chronos-episode-yamato.json) |
 | Altdeus: Beyond Chronos - Limited Edition | 166229 | [166229-altdeus-beyond-chronos-limited-edition.json](./166229-altdeus-beyond-chronos-limited-edition.json) |
 | Alteil: Horizons | 27736 | [27736-alteil-horizons.json](./27736-alteil-horizons.json) |
 | Alteira | 260727 | [260727-alteira.json](./260727-alteira.json) |
