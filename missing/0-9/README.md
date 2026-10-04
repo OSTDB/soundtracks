@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3:33 A.M. | 318976 | [318976-3-33-a-m.json](./318976-3-33-a-m.json) |
 | 3..2..1..Grenades! | 32004 | [32004-3-2-1-grenades.json](./32004-3-2-1-grenades.json) |
 | 30 Days Another | 216778 | [216778-30-days-another.json](./216778-30-days-another.json) |
+| 30 Days in Red Army | 204425 | [204425-30-days-in-red-army.json](./204425-30-days-in-red-army.json) |
 | 30 Days of Tower | 290955 | [290955-30-days-of-tower.json](./290955-30-days-of-tower.json) |
 | 30 Floors of Madness | 308952 | [308952-30-floors-of-madness.json](./308952-30-floors-of-madness.json) |
 | 30 in 1 Family Games Mega Collection | 391259 | [391259-30-in-1-family-games-mega-collection.json](./391259-30-in-1-family-games-mega-collection.json) |
