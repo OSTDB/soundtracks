@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Boxing Multiplayer | 360670 | [360670-ragdoll-boxing-multiplayer.json](./360670-ragdoll-boxing-multiplayer.json) |
 | Ragdoll Cannon | 316711 | [316711-ragdoll-cannon.json](./316711-ragdoll-cannon.json) |
 | Ragdoll Destroyer | 252673 | [252673-ragdoll-destroyer.json](./252673-ragdoll-destroyer.json) |
+| Ragdoll Game | 212170 | [212170-ragdoll-game.json](./212170-ragdoll-game.json) |
 | Ragdoll Kanojo | 174117 | [174117-ragdoll-kanojo.json](./174117-ragdoll-kanojo.json) |
 | Ragdoll LABS | 204069 | [204069-ragdoll-labs.json](./204069-ragdoll-labs.json) |
 | Ragdoll Laser Battle | 163979 | [163979-ragdoll-laser-battle.json](./163979-ragdoll-laser-battle.json) |
@@ -526,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid on Coasts | 51574 | [51574-raid-on-coasts.json](./51574-raid-on-coasts.json) |
 | Raid Rush | 355014 | [355014-raid-rush.json](./355014-raid-rush.json) |
 | Raid: World War II | 10403 | [10403-raid-world-war-ii.json](./10403-raid-world-war-ii.json) |
+| Raidborn | 212178 | [212178-raidborn.json](./212178-raidborn.json) |
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
 | Raiden | 6841 | [6841-raiden.json](./6841-raiden.json) |
 | Raiden Fighters Aces | 7153 | [7153-raiden-fighters-aces.json](./7153-raiden-fighters-aces.json) |
@@ -657,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain's Golf | 414384 | [414384-rains-golf.json](./414384-rains-golf.json) |
 | Rain's Love Memory | 117087 | [117087-rains-love-memory.json](./117087-rains-love-memory.json) |
 | Rain98 | 339805 | [339805-rain98.json](./339805-rain98.json) |
+| Rainblocks | 212297 | [212297-rainblocks.json](./212297-rainblocks.json) |
 | Rainbow | 359417 | [359417-rainbow.json](./359417-rainbow.json) |
 | Rainbow Aliceland | 206725 | [206725-rainbow-aliceland.json](./206725-rainbow-aliceland.json) |
 | Rainbow Billy: The Book of Fears | 391844 | [391844-rainbow-billy-the-book-of-fears.json](./391844-rainbow-billy-the-book-of-fears.json) |
@@ -3465,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution Under Siege | 59501 | [59501-revolution-under-siege.json](./59501-revolution-under-siege.json) |
 | Revolution: The Spark | 143659 | [143659-revolution-the-spark.json](./143659-revolution-the-spark.json) |
 | Revolution: Virtual Playspace | 34829 | [34829-revolution-virtual-playspace.json](./34829-revolution-virtual-playspace.json) |
+| Revolution: War of Independence | 212304 | [212304-revolution-war-of-independence.json](./212304-revolution-war-of-independence.json) |
 | Revolution's Eternal Debt | 389085 | [389085-revolutions-eternal-debt.json](./389085-revolutions-eternal-debt.json) |
 | Revolutionary Quest | 292594 | [292594-revolutionary-quest.json](./292594-revolutionary-quest.json) |
 | Revolve | 26722 | [26722-revolve.json](./26722-revolve.json) |
@@ -4891,6 +4895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Brown 2 | 317342 | [317342-rocket-brown-2.json](./317342-rocket-brown-2.json) |
 | Rocket Buddies | 410356 | [410356-rocket-buddies.json](./410356-rocket-buddies.json) |
 | Rocket Bunnies | 208387 | [208387-rocket-bunnies.json](./208387-rocket-bunnies.json) |
+| Rocket Bytes | 212298 | [212298-rocket-bytes.json](./212298-rocket-bytes.json) |
 | Rocket Car: Ultimate Ball League Machines - Premium Edition | 306523 | [306523-rocket-car-ultimate-ball-league-machines-premium-edition.json](./306523-rocket-car-ultimate-ball-league-machines-premium-edition.json) |
 | Rocket Car: Wheel Rim Collection | 304815 | [304815-rocket-car-wheel-rim-collection.json](./304815-rocket-car-wheel-rim-collection.json) |
 | Rocket Cars | 265427 | [265427-rocket-cars.json](./265427-rocket-cars.json) |
@@ -6099,6 +6104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTA Run!! | 407451 | [407451-rta-run.json](./407451-rta-run.json) |
 | RTAG Rise | 88176 | [88176-rtag-rise.json](./88176-rtag-rise.json) |
 | RTC-3057 | 315564 | [315564-rtc-3057.json](./315564-rtc-3057.json) |
+| RTD: Road to Desolace | 212151 | [212151-rtd-road-to-desolace.json](./212151-rtd-road-to-desolace.json) |
 | RTE Worlds | 273127 | [273127-rte-worlds.json](./273127-rte-worlds.json) |
 | Rtisatto City Defender | 192290 | [192290-rtisatto-city-defender.json](./192290-rtisatto-city-defender.json) |
 | RTL Alarm für Cobra 11: Teil II | 144348 | [144348-rtl-alarm-fur-cobra-11-teil-ii.json](./144348-rtl-alarm-fur-cobra-11-teil-ii.json) |
