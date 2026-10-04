@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: The Pitt | 217785 | [217785-fallout-76-the-pitt.json](./217785-fallout-76-the-pitt.json) |
 | Fallout 76: The Pitt - Deluxe Edition | 218503 | [218503-fallout-76-the-pitt-deluxe-edition.json](./218503-fallout-76-the-pitt-deluxe-edition.json) |
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
+| Fallout Equestria: Remains | 177387 | [177387-fallout-equestria-remains.json](./177387-fallout-equestria-remains.json) |
 | Fallout Rancher | 352339 | [352339-fallout-rancher.json](./352339-fallout-rancher.json) |
 | Fallout Zero | 343938 | [343938-fallout-zero.json](./343938-fallout-zero.json) |
 | Fallout: Dust | 243647 | [243647-fallout-dust.json](./243647-fallout-dust.json) |
@@ -1126,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Tactics | 334923 | [334923-fantasy-tactics.json](./334923-fantasy-tactics.json) |
 | Fantasy Tavern Sextet -Vol.3 Postlude Days- | 147402 | [147402-fantasy-tavern-sextet-vol-3-postlude-days.json](./147402-fantasy-tavern-sextet-vol-3-postlude-days.json) |
 | Fantasy Tavern Simulator | 237088 | [237088-fantasy-tavern-simulator.json](./237088-fantasy-tavern-simulator.json) |
+| Fantasy Tea Generator | 177359 | [177359-fantasy-tea-generator.json](./177359-fantasy-tea-generator.json) |
 | Fantasy Temptations | 273487 | [273487-fantasy-temptations.json](./273487-fantasy-temptations.json) |
 | Fantasy Three Kingdoms: War | 304165 | [304165-fantasy-three-kingdoms-war.json](./304165-fantasy-three-kingdoms-war.json) |
 | Fantasy Tower | 304617 | [304617-fantasy-tower.json](./304617-fantasy-tower.json) |
@@ -6136,6 +6138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freya's Potion Shop | 157702 | [157702-freyas-potion-shop.json](./157702-freyas-potion-shop.json) |
 | Freyja's Demise | 299844 | [299844-freyjas-demise.json](./299844-freyjas-demise.json) |
 | Freyr's Love | 165024 | [165024-freyrs-love.json](./165024-freyrs-love.json) |
+| Friagem | 177379 | [177379-friagem.json](./177379-friagem.json) |
 | Fricassee | 267995 | [267995-fricassee.json](./267995-fricassee.json) |
 | Friction | 320250 | [320250-friction.json](./320250-friction.json) |
 | Friday | 130926 | [130926-friday.json](./130926-friday.json) |
