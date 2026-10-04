@@ -1939,12 +1939,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nextgen Sandbox | 124710 | [124710-nextgen-sandbox.json](./124710-nextgen-sandbox.json) |
 | NextNight | 252280 | [252280-nextnight.json](./252280-nextnight.json) |
 | NextRev: Care Manager Shiken | 179482 | [179482-nextrev-care-manager-shiken.json](./179482-nextrev-care-manager-shiken.json) |
+| NextRev: Chuushokigyou Shindanshi Shiken 1 | 179474 | [179474-nextrev-chuushokigyou-shindanshi-shiken-1.json](./179474-nextrev-chuushokigyou-shindanshi-shiken-1.json) |
+| NextRev: Chuushokigyou Shindanshi Shiken 2 | 179475 | [179475-nextrev-chuushokigyou-shindanshi-shiken-2.json](./179475-nextrev-chuushokigyou-shindanshi-shiken-2.json) |
 | NextRev: Eibunpou Tettei Tokkun | 64944 | [64944-nextrev-eibunpou-tettei-tokkun.json](./64944-nextrev-eibunpou-tettei-tokkun.json) |
 | NextRev: Eiken | 179523 | [179523-nextrev-eiken.json](./179523-nextrev-eiken.json) |
 | NextRev: FP Ginoukentei Shiken 2-Kyuu | 64941 | [64941-nextrev-fp-ginoukentei-shiken-2-kyuu.json](./64941-nextrev-fp-ginoukentei-shiken-2-kyuu.json) |
 | NextRev: FP Ginoukentei Shiken 3-Kyuu | 64940 | [64940-nextrev-fp-ginoukentei-shiken-3-kyuu.json](./64940-nextrev-fp-ginoukentei-shiken-3-kyuu.json) |
 | NextRev: Gyouseishoshi Shiken | 65198 | [65198-nextrev-gyouseishoshi-shiken.json](./65198-nextrev-gyouseishoshi-shiken.json) |
 | NextRev: IT Passport Shiken | 64945 | [64945-nextrev-it-passport-shiken.json](./64945-nextrev-it-passport-shiken.json) |
+| NextRev: Jouhou Security Specialist Shiken / Network Specialist Shiken | 179476 | [179476-nextrev-jouhou-security-specialist-shiken-network-specialist-shiken.json](./179476-nextrev-jouhou-security-specialist-shiken-network-specialist-shiken.json) |
 | NextRev: Kaigo Fukushishi Shiken | 179499 | [179499-nextrev-kaigo-fukushishi-shiken.json](./179499-nextrev-kaigo-fukushishi-shiken.json) |
 | NextRev: Kihonjouhou Gijutsusha Shiken | 64942 | [64942-nextrev-kihonjouhou-gijutsusha-shiken.json](./64942-nextrev-kihonjouhou-gijutsusha-shiken.json) |
 | NextRev: Ouyou Jouhougijutsusha Shiken | 64943 | [64943-nextrev-ouyou-jouhougijutsusha-shiken.json](./64943-nextrev-ouyou-jouhougijutsusha-shiken.json) |
@@ -2358,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Swarm | 343477 | [343477-night-swarm.json](./343477-night-swarm.json) |
 | Night Thoughts | 374171 | [374171-night-thoughts.json](./374171-night-thoughts.json) |
 | Night Time | 369222 | [369222-night-time.json](./369222-night-time.json) |
+| Night Trap | 179569 | [179569-night-trap.json](./179569-night-trap.json) |
 | Night Trap | 2486 | [2486-night-trap.json](./2486-night-trap.json) |
 | Night Trap | 298556 | [298556-night-trap.json](./298556-night-trap.json) |
 | Night Trap: 25th Anniversary Edition | 28249 | [28249-night-trap-25th-anniversary-edition.json](./28249-night-trap-25th-anniversary-edition.json) |
@@ -3690,6 +3694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Another Weekend | 140388 | [140388-not-another-weekend.json](./140388-not-another-weekend.json) |
 | Not Burned Evil | 276977 | [276977-not-burned-evil.json](./276977-not-burned-evil.json) |
 | Not Dead Yet | 143500 | [143500-not-dead-yet.json](./143500-not-dead-yet.json) |
+| Not Enough Souls | 179567 | [179567-not-enough-souls.json](./179567-not-enough-souls.json) |
 | Not Enough Time | 322943 | [322943-not-enough-time.json](./322943-not-enough-time.json) |
 | Not Escape Room | 194355 | [194355-not-escape-room.json](./194355-not-escape-room.json) |
 | Not Everything is Flammable | 223675 | [223675-not-everything-is-flammable.json](./223675-not-everything-is-flammable.json) |
@@ -3769,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nótt & Dagr | 135039 | [135039-nott-and-dagr.json](./135039-nott-and-dagr.json) |
 | Nottolot | 290648 | [290648-nottolot.json](./290648-nottolot.json) |
 | Notyet | 57352 | [57352-notyet.json](./57352-notyet.json) |
+| NotZilla Ice Cream Vendor | 179533 | [179533-notzilla-ice-cream-vendor.json](./179533-notzilla-ice-cream-vendor.json) |
 | Nou wo Kitaeru! Nyanko Shashin de Machigai-sagashi | 266166 | [266166-nou-wo-kitaeru-nyanko-shashin-de-machigai-sagashi.json](./266166-nou-wo-kitaeru-nyanko-shashin-de-machigai-sagashi.json) |
 | Nou wo Kitaeru! Zekkei Shashin de Machigai-sagashi | 261371 | [261371-nou-wo-kitaeru-zekkei-shashin-de-machigai-sagashi.json](./261371-nou-wo-kitaeru-zekkei-shashin-de-machigai-sagashi.json) |
 | Nouen Hokkoriina | 335107 | [335107-nouen-hokkoriina.json](./335107-nouen-hokkoriina.json) |
