@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Became a Dog | 142334 | [142334-i-became-a-dog.json](./142334-i-became-a-dog.json) |
 | I Became a Dog 2 | 142332 | [142332-i-became-a-dog-2.json](./142332-i-became-a-dog-2.json) |
 | I Became a Dog 3 | 319086 | [319086-i-became-a-dog-3.json](./319086-i-became-a-dog-3.json) |
+| I Became Gay from Translating My New Roommate's Short Story | 182306 | [182306-i-became-gay-from-translating-my-new-roommates-short-story.json](./182306-i-became-gay-from-translating-my-new-roommates-short-story.json) |
 | I Believe in Capybara Supremacy! | 250992 | [250992-i-believe-in-capybara-supremacy.json](./250992-i-believe-in-capybara-supremacy.json) |
 | I Bring The Chaos | 277934 | [277934-i-bring-the-chaos.json](./277934-i-bring-the-chaos.json) |
 | I Brought the Noble Girl Home | 293850 | [293850-i-brought-the-noble-girl-home.json](./293850-i-brought-the-noble-girl-home.json) |
@@ -905,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Strikers 1945 | 303181 | [303181-idle-strikers-1945.json](./303181-idle-strikers-1945.json) |
 | Idle Submarine | 255747 | [255747-idle-submarine.json](./255747-idle-submarine.json) |
 | Idle Summoners: Heroes VIP | 100756 | [100756-idle-summoners-heroes-vip.json](./100756-idle-summoners-heroes-vip.json) |
+| Idle Superpowers | 182300 | [182300-idle-superpowers.json](./182300-idle-superpowers.json) |
 | Idle Tamers: Mini Monsters | 188369 | [188369-idle-tamers-mini-monsters.json](./188369-idle-tamers-mini-monsters.json) |
 | Idle Taoist Mage Warrior 2 | 298665 | [298665-idle-taoist-mage-warrior-2.json](./298665-idle-taoist-mage-warrior-2.json) |
 | Idle Tap Zoo: Tap, Build & Upg | 245345 | [245345-idle-tap-zoo-tap-build-and-upg.json](./245345-idle-tap-zoo-tap-build-and-upg.json) |
@@ -3202,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Adventurer Guild | 348401 | [348401-isekai-adventurer-guild.json](./348401-isekai-adventurer-guild.json) |
 | Isekai Awakening | 296942 | [296942-isekai-awakening.json](./296942-isekai-awakening.json) |
 | Isekai Brick Breaker | 225065 | [225065-isekai-brick-breaker.json](./225065-isekai-brick-breaker.json) |
+| Isekai Cowboy | 182192 | [182192-isekai-cowboy.json](./182192-isekai-cowboy.json) |
 | Isekai Demon Waifu | 219114 | [219114-isekai-demon-waifu.json](./219114-isekai-demon-waifu.json) |
 | Isekai Eternal | 157537 | [157537-isekai-eternal.json](./157537-isekai-eternal.json) |
 | Isekai Frontier | 244714 | [244714-isekai-frontier.json](./244714-isekai-frontier.json) |
