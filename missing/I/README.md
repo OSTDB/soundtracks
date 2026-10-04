@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Play: 3D Tennis | 70090 | [70090-i-play-3d-tennis.json](./70090-i-play-3d-tennis.json) |
 | I Promise! | 224461 | [224461-i-promise.json](./224461-i-promise.json) |
 | I R Teh More Amazzzzing! | 330515 | [330515-i-r-teh-more-amazzzzing.json](./330515-i-r-teh-more-amazzzzing.json) |
+| I Rarely Go Outside | 178934 | [178934-i-rarely-go-outside.json](./178934-i-rarely-go-outside.json) |
 | I Read a Post Online about Monarch Butterflies | 247456 | [247456-i-read-a-post-online-about-monarch-butterflies.json](./247456-i-read-a-post-online-about-monarch-butterflies.json) |
 | I Remember the Light | 152864 | [152864-i-remember-the-light.json](./152864-i-remember-the-light.json) |
 | I Remember the Rain | 223669 | [223669-i-remember-the-rain.json](./223669-i-remember-the-rain.json) |
@@ -2734,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intertwined | 177921 | [177921-intertwined.json](./177921-intertwined.json) |
 | Intertwined | 397231 | [397231-intertwined.json](./397231-intertwined.json) |
 | Intertwined Fate with a Cat Demon | 202206 | [202206-intertwined-fate-with-a-cat-demon.json](./202206-intertwined-fate-with-a-cat-demon.json) |
+| Interview | 178936 | [178936-interview.json](./178936-interview.json) |
 | Interview | 80233 | [80233-interview.json](./80233-interview.json) |
 | Interweaver | 296682 | [296682-interweaver.json](./296682-interweaver.json) |
 | Interworlds Academy | 117080 | [117080-interworlds-academy.json](./117080-interworlds-academy.json) |
@@ -3162,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irotoridori no Sekai: World's End Rebirth | 61144 | [61144-irotoridori-no-sekai-worlds-end-rebirth.json](./61144-irotoridori-no-sekai-worlds-end-rebirth.json) |
 | Irradiant Skies | 385591 | [385591-irradiant-skies.json](./385591-irradiant-skies.json) |
 | Irradiate 235 | 359603 | [359603-irradiate-235.json](./359603-irradiate-235.json) |
+| Irrational | 179009 | [179009-irrational.json](./179009-irrational.json) |
 | Irrational Exuberance | 33518 | [33518-irrational-exuberance.json](./33518-irrational-exuberance.json) |
 | Irreminiscence | 392479 | [392479-irreminiscence.json](./392479-irreminiscence.json) |
 | Irresistible Love | 340764 | [340764-irresistible-love.json](./340764-irresistible-love.json) |
@@ -3193,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is This Game Trying to Kill Me? | 275128 | [275128-is-this-game-trying-to-kill-me.json](./275128-is-this-game-trying-to-kill-me.json) |
 | Is this Game Trying to Kill Me? Preface | 305196 | [305196-is-this-game-trying-to-kill-me-preface.json](./305196-is-this-game-trying-to-kill-me-preface.json) |
 | Is this potato? | 387665 | [387665-is-this-potato.json](./387665-is-this-potato.json) |
+| Is This Self Care? | 179005 | [179005-is-this-self-care.json](./179005-is-this-self-care.json) |
 | Is This Undertale | 229595 | [229595-is-this-undertale.json](./229595-is-this-undertale.json) |
 | Is This Weapon? | 245339 | [245339-is-this-weapon.json](./245339-is-this-weapon.json) |
 | Is Today Another Day? | 406797 | [406797-is-today-another-day.json](./406797-is-today-another-day.json) |
