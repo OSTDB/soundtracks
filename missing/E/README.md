@@ -1137,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Adventure | 226451 | [226451-elemental-adventure.json](./226451-elemental-adventure.json) |
 | Elemental Angel II | 192420 | [192420-elemental-angel-ii.json](./192420-elemental-angel-ii.json) |
 | Elemental Angel III | 198492 | [198492-elemental-angel-iii.json](./198492-elemental-angel-iii.json) |
+| Elemental Battlefields | 188999 | [188999-elemental-battlefields.json](./188999-elemental-battlefields.json) |
 | Elemental Empire | 297816 | [297816-elemental-empire.json](./297816-elemental-empire.json) |
 | Elemental Exiles | 295812 | [295812-elemental-exiles.json](./295812-elemental-exiles.json) |
 | Elemental Gearbolt | 9137 | [9137-elemental-gearbolt.json](./9137-elemental-gearbolt.json) |
@@ -1186,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elements and Build | 321564 | [321564-elements-and-build.json](./321564-elements-and-build.json) |
 | Elements For Money | 287243 | [287243-elements-for-money.json](./287243-elements-for-money.json) |
 | Elements II: Hearts of Light | 33352 | [33352-elements-ii-hearts-of-light.json](./33352-elements-ii-hearts-of-light.json) |
+| Elements of Dreams | 189002 | [189002-elements-of-dreams.json](./189002-elements-of-dreams.json) |
 | Elements Voice Series vol.1 Mika Kanai - Wind&Breeze | 63953 | [63953-elements-voice-series-vol-1-mika-kanai-wind-and-breeze.json](./63953-elements-voice-series-vol-1-mika-kanai-wind-and-breeze.json) |
 | Elements Voice Series vol.2 Rika Fukami - Private Step | 63955 | [63955-elements-voice-series-vol-2-rika-fukami-private-step.json](./63955-elements-voice-series-vol-2-rika-fukami-private-step.json) |
 | Elements Voice Series vol.3 Aya Hisakawa - Forest Sways | 63954 | [63954-elements-voice-series-vol-3-aya-hisakawa-forest-sways.json](./63954-elements-voice-series-vol-3-aya-hisakawa-forest-sways.json) |
@@ -1670,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires of the Undergrowth: Supporter Pack | 403593 | [403593-empires-of-the-undergrowth-supporter-pack.json](./403593-empires-of-the-undergrowth-supporter-pack.json) |
 | Empires of the Void II | 189167 | [189167-empires-of-the-void-ii.json](./189167-empires-of-the-void-ii.json) |
 | Empires: Dawn of the Modern World | 678 | [678-empires-dawn-of-the-modern-world.json](./678-empires-dawn-of-the-modern-world.json) |
+| Employee A | 188994 | [188994-employee-a.json](./188994-employee-a.json) |
 | Employee Rules of the Night Strings | 309361 | [309361-employee-rules-of-the-night-strings.json](./309361-employee-rules-of-the-night-strings.json) |
 | Empress of The Deep 2: Song of The Blue Whale | 17369 | [17369-empress-of-the-deep-2-song-of-the-blue-whale.json](./17369-empress-of-the-deep-2-song-of-the-blue-whale.json) |
 | Empress of the Deep 3: Legacy of the Phoenix | 294209 | [294209-empress-of-the-deep-3-legacy-of-the-phoenix.json](./294209-empress-of-the-deep-3-legacy-of-the-phoenix.json) |
