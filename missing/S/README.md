@@ -7018,6 +7018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide 2 Solve Puzzle | 175341 | [175341-slide-2-solve-puzzle.json](./175341-slide-2-solve-puzzle.json) |
 | Slide Circus HD | 235154 | [235154-slide-circus-hd.json](./235154-slide-circus-hd.json) |
 | Slide Defenders | 334079 | [334079-slide-defenders.json](./334079-slide-defenders.json) |
+| Slide Fall: Don't Stack High | 174719 | [174719-slide-fall-dont-stack-high.json](./174719-slide-fall-dont-stack-high.json) |
 | Slide Faster | 319795 | [319795-slide-faster.json](./319795-slide-faster.json) |
 | Slide Furry Futanari | 367625 | [367625-slide-furry-futanari.json](./367625-slide-furry-futanari.json) |
 | Slide Golf Mini | 234054 | [234054-slide-golf-mini.json](./234054-slide-golf-mini.json) |
@@ -16949,6 +16950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Sunburn | 135148 | [135148-super-mario-sunburn.json](./135148-super-mario-sunburn.json) |
 | Super Mario Sunshine | 229177 | [229177-super-mario-sunshine.json](./229177-super-mario-sunshine.json) |
 | Super Mario Sunshine 64 | 159263 | [159263-super-mario-sunshine-64.json](./159263-super-mario-sunshine-64.json) |
+| Super Mario Sunshine Arcade | 174627 | [174627-super-mario-sunshine-arcade.json](./174627-super-mario-sunshine-arcade.json) |
 | Super Mario Sunshine Arcade 2 | 213038 | [213038-super-mario-sunshine-arcade-2.json](./213038-super-mario-sunshine-arcade-2.json) |
 | Super Mario Sunshine DS | 229217 | [229217-super-mario-sunshine-ds.json](./229217-super-mario-sunshine-ds.json) |
 | Super Mario Sunshine in Super Mario 64 | 235173 | [235173-super-mario-sunshine-in-super-mario-64.json](./235173-super-mario-sunshine-in-super-mario-64.json) |
