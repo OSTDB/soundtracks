@@ -2303,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pequod | 126449 | [126449-pequod.json](./126449-pequod.json) |
 | Per Aspera Test | 289441 | [289441-per-aspera-test.json](./289441-per-aspera-test.json) |
 | Per Aspera: Deluxe Edition | 154545 | [154545-per-aspera-deluxe-edition.json](./154545-per-aspera-deluxe-edition.json) |
+| Per Aspera: Green Mars | 196114 | [196114-per-aspera-green-mars.json](./196114-per-aspera-green-mars.json) |
 | Per Aspera: Home | 232963 | [232963-per-aspera-home.json](./232963-per-aspera-home.json) |
 | Perash | 358442 | [358442-perash.json](./358442-perash.json) |
 | Perceptio | 195167 | [195167-perceptio.json](./195167-perceptio.json) |
