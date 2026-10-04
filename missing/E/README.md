@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden Gamma | 235793 | [235793-eden-gamma.json](./235793-eden-gamma.json) |
 | Eden Genesis | 280561 | [280561-eden-genesis.json](./280561-eden-genesis.json) |
 | Eden Isle: Resort Paradise | 261841 | [261841-eden-isle-resort-paradise.json](./261841-eden-isle-resort-paradise.json) |
+| Eden of Ikemen: Love in a Lost World | 206034 | [206034-eden-of-ikemen-love-in-a-lost-world.json](./206034-eden-of-ikemen-love-in-a-lost-world.json) |
 | Eden Remains: Arrival | 203944 | [203944-eden-remains-arrival.json](./203944-eden-remains-arrival.json) |
 | Eden Reverse | 125883 | [125883-eden-reverse.json](./125883-eden-reverse.json) |
 | Eden Rising | 81383 | [81383-eden-rising.json](./81383-eden-rising.json) |
