@@ -619,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Chance VR | 123552 | [123552-last-chance-vr.json](./123552-last-chance-vr.json) |
 | Last Chaos | 90316 | [90316-last-chaos.json](./90316-last-chaos.json) |
 | Last Chickenburg | 121447 | [121447-last-chickenburg.json](./121447-last-chickenburg.json) |
+| Last Christmas | 220542 | [220542-last-christmas.json](./220542-last-christmas.json) |
 | Last Command: B-Side | 376749 | [376749-last-command-b-side.json](./376749-last-command-b-side.json) |
 | Last Command: Scream Fest pack | 263039 | [263039-last-command-scream-fest-pack.json](./263039-last-command-scream-fest-pack.json) |
 | Last Contingency | 152902 | [152902-last-contingency.json](./152902-last-contingency.json) |
@@ -651,6 +652,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Epoch: Tombs of the Erased | 341008 | [341008-last-epoch-tombs-of-the-erased.json](./341008-last-epoch-tombs-of-the-erased.json) |
 | Last Epoch: Twilight Fox | 286563 | [286563-last-epoch-twilight-fox.json](./286563-last-epoch-twilight-fox.json) |
 | Last Equinox: Winds of Change | 255388 | [255388-last-equinox-winds-of-change.json](./255388-last-equinox-winds-of-change.json) |
+| Last Escort 2: Shin'ya no Amai Ibara | 220570 | [220570-last-escort-2-shinya-no-amai-ibara.json](./220570-last-escort-2-shinya-no-amai-ibara.json) |
+| Last Escort: Kokuchou Special Night | 220567 | [220567-last-escort-kokuchou-special-night.json](./220567-last-escort-kokuchou-special-night.json) |
+| Last Escort: Shin'ya no Kokuchou Monogatari | 220566 | [220566-last-escort-shinya-no-kokuchou-monogatari.json](./220566-last-escort-shinya-no-kokuchou-monogatari.json) |
 | Last Fishing: Monster Clash | 220208 | [220208-last-fishing-monster-clash.json](./220208-last-fishing-monster-clash.json) |
 | Last Flight | 72599 | [72599-last-flight.json](./72599-last-flight.json) |
 | Last Flip | 266396 | [266396-last-flip.json](./266396-last-flip.json) |
@@ -2930,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Timeless | 159151 | [159151-lisa-the-timeless.json](./159151-lisa-the-timeless.json) |
 | Lisa: The Unbreakable RPG | 215081 | [215081-lisa-the-unbreakable-rpg.json](./215081-lisa-the-unbreakable-rpg.json) |
 | Lisa: The Undone | 297621 | [297621-lisa-the-undone.json](./297621-lisa-the-undone.json) |
+| Lisa: The Wise | 220546 | [220546-lisa-the-wise.json](./220546-lisa-the-wise.json) |
 | Lisa's Memory | 114192 | [114192-lisas-memory.json](./114192-lisas-memory.json) |
 | Lisistrata | 195601 | [195601-lisistrata.json](./195601-lisistrata.json) |
 | Lisle Engle Heavy Distance | 253918 | [253918-lisle-engle-heavy-distance.json](./253918-lisle-engle-heavy-distance.json) |
