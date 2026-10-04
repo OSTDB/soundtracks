@@ -2601,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeekIt: Max Dublin's Treasure | 306021 | [306021-seekit-max-dublins-treasure.json](./306021-seekit-max-dublins-treasure.json) |
 | SeekIt: The Isle of Mem | 306011 | [306011-seekit-the-isle-of-mem.json](./306011-seekit-the-isle-of-mem.json) |
 | SeekOut | 391614 | [391614-seekout.json](./391614-seekout.json) |
+| SeekSeek: A Hide & Seek Adventure | 185471 | [185471-seekseek-a-hide-and-seek-adventure.json](./185471-seekseek-a-hide-and-seek-adventure.json) |
 | Seemly Girl Escape | 233493 | [233493-seemly-girl-escape.json](./233493-seemly-girl-escape.json) |
 | Seemonster | 40784 | [40784-seemonster.json](./40784-seemonster.json) |
 | Seen | 117641 | [117641-seen.json](./117641-seen.json) |
@@ -10881,6 +10882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Specnaz: Project Wolf | 72789 | [72789-specnaz-project-wolf.json](./72789-specnaz-project-wolf.json) |
 | Specshong | 398459 | [398459-specshong.json](./398459-specshong.json) |
 | Spectacle | 280338 | [280338-spectacle.json](./280338-spectacle.json) |
+| Spectacular Shatter Buddies | 185462 | [185462-spectacular-shatter-buddies.json](./185462-spectacular-shatter-buddies.json) |
 | Spectacular Sparky | 165613 | [165613-spectacular-sparky.json](./165613-spectacular-sparky.json) |
 | Spectacular Stride Machine | 182815 | [182815-spectacular-stride-machine.json](./182815-spectacular-stride-machine.json) |
 | Spectating Simulator the Racing | 123564 | [123564-spectating-simulator-the-racing.json](./123564-spectating-simulator-the-racing.json) |
@@ -16355,6 +16357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hammer Bros. | 381758 | [381758-super-hammer-bros.json](./381758-super-hammer-bros.json) |
 | Super Hamster Ball | 227869 | [227869-super-hamster-ball.json](./227869-super-hamster-ball.json) |
 | Super Hamster Havoc | 197197 | [197197-super-hamster-havoc.json](./197197-super-hamster-havoc.json) |
+| Super Hamsterball Racers | 185510 | [185510-super-hamsterball-racers.json](./185510-super-hamsterball-racers.json) |
 | Super Happi Quest 3 | 299733 | [299733-super-happi-quest-3.json](./299733-super-happi-quest-3.json) |
 | Super Hard Game | 360580 | [360580-super-hard-game.json](./360580-super-hard-game.json) |
 | Super Hardcore | 50749 | [50749-super-hardcore.json](./50749-super-hardcore.json) |
@@ -16942,6 +16945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Baseball 3 | 131946 | [131946-super-mega-baseball-3.json](./131946-super-mega-baseball-3.json) |
 | Super Mega Baseball 4: Castillo Arena Stadium | 266742 | [266742-super-mega-baseball-4-castillo-arena-stadium.json](./266742-super-mega-baseball-4-castillo-arena-stadium.json) |
 | Super Mega Bob | 34676 | [34676-super-mega-bob.json](./34676-super-mega-bob.json) |
+| Super Mega Bread | 185485 | [185485-super-mega-bread.json](./185485-super-mega-bread.json) |
 | Super Mega Drive 3: 12 Super Jogos | 287345 | [287345-super-mega-drive-3-12-super-jogos.json](./287345-super-mega-drive-3-12-super-jogos.json) |
 | Super Mega Drive 3: 30 Super Jogos | 287346 | [287346-super-mega-drive-3-30-super-jogos.json](./287346-super-mega-drive-3-30-super-jogos.json) |
 | Super Mega Hentai Collection! | 215248 | [215248-super-mega-hentai-collection.json](./215248-super-mega-hentai-collection.json) |
