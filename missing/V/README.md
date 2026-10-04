@@ -1515,6 +1515,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vital Signs: Emergency Department - Infections Package | 225107 | [225107-vital-signs-emergency-department-infections-package.json](./225107-vital-signs-emergency-department-infections-package.json) |
 | Vital Signs: Emergency Department - Injuries Package #1 | 225105 | [225105-vital-signs-emergency-department-injuries-package-1.json](./225105-vital-signs-emergency-department-injuries-package-1.json) |
 | Vital Signs: Emergency Department - Injuries Package #2 | 225106 | [225106-vital-signs-emergency-department-injuries-package-2.json](./225106-vital-signs-emergency-department-injuries-package-2.json) |
+| Vital Signs: Emergency Department - Older Adult Cases Package | 225109 | [225109-vital-signs-emergency-department-older-adult-cases-package.json](./225109-vital-signs-emergency-department-older-adult-cases-package.json) |
+| Vital Signs: Emergency Department - Pediatric Common Disease Package | 225110 | [225110-vital-signs-emergency-department-pediatric-common-disease-package.json](./225110-vital-signs-emergency-department-pediatric-common-disease-package.json) |
+| Vital Signs: Emergency Department - Pediatric Digestive Disease Package | 225111 | [225111-vital-signs-emergency-department-pediatric-digestive-disease-package.json](./225111-vital-signs-emergency-department-pediatric-digestive-disease-package.json) |
+| Vital Signs: Emergency Department - Pediatric Infant Cases Package | 225112 | [225112-vital-signs-emergency-department-pediatric-infant-cases-package.json](./225112-vital-signs-emergency-department-pediatric-infant-cases-package.json) |
+| Vital Signs: Emergency Department - Pediatric Rare Disease Package | 225113 | [225113-vital-signs-emergency-department-pediatric-rare-disease-package.json](./225113-vital-signs-emergency-department-pediatric-rare-disease-package.json) |
+| Vital Signs: Emergency Department - Pediatric Respiratory Disease Package | 225116 | [225116-vital-signs-emergency-department-pediatric-respiratory-disease-package.json](./225116-vital-signs-emergency-department-pediatric-respiratory-disease-package.json) |
 | Vitalis | 399000 | [399000-vitalis.json](./399000-vitalis.json) |
 | Vitality | 133369 | [133369-vitality.json](./133369-vitality.json) |
 | Vitality | 213040 | [213040-vitality.json](./213040-vitality.json) |
