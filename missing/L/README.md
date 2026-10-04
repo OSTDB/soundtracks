@@ -1485,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Elumia | 330891 | [330891-legends-of-elumia.json](./330891-legends-of-elumia.json) |
 | Legends of Fate | 50857 | [50857-legends-of-fate.json](./50857-legends-of-fate.json) |
 | Legends of Future Past | 65515 | [65515-legends-of-future-past.json](./65515-legends-of-future-past.json) |
+| Legends of Hapax | 199442 | [199442-legends-of-hapax.json](./199442-legends-of-hapax.json) |
 | Legends of Heropolis | 202851 | [202851-legends-of-heropolis.json](./202851-legends-of-heropolis.json) |
 | Legends Of Heropolis DX | 317840 | [317840-legends-of-heropolis-dx.json](./317840-legends-of-heropolis-dx.json) |
 | Legends of Horror | 209414 | [209414-legends-of-horror.json](./209414-legends-of-horror.json) |
@@ -2573,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights and Shadow | 339287 | [339287-lights-and-shadow.json](./339287-lights-and-shadow.json) |
 | Lights e Shades: Safìna | 216210 | [216210-lights-e-shades-safina.json](./216210-lights-e-shades-safina.json) |
 | Lights Off | 100159 | [100159-lights-off.json](./100159-lights-off.json) |
+| Lights Out | 199429 | [199429-lights-out.json](./199429-lights-out.json) |
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
 | Lights Out | 393161 | [393161-lights-out.json](./393161-lights-out.json) |
 | Lights Out Luigi | 323285 | [323285-lights-out-luigi.json](./323285-lights-out-luigi.json) |
@@ -3558,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked-in syndrome | 33787 | [33787-locked-in-syndrome.json](./33787-locked-in-syndrome.json) |
 | Lockes the Thief | 211793 | [211793-lockes-the-thief.json](./211793-lockes-the-thief.json) |
 | Lockey | 412471 | [412471-lockey.json](./412471-lockey.json) |
+| Locks | 199452 | [199452-locks.json](./199452-locks.json) |
 | Locksmith | 413897 | [413897-locksmith.json](./413897-locksmith.json) |
 | Locksmith | 48906 | [48906-locksmith.json](./48906-locksmith.json) |
 | Loco | 138123 | [138123-loco.json](./138123-loco.json) |
@@ -3843,6 +3846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look for Danger | 226138 | [226138-look-for-danger.json](./226138-look-for-danger.json) |
 | Look for Louis | 106383 | [106383-look-for-louis.json](./106383-look-for-louis.json) |
 | Look Inside | 291523 | [291523-look-inside.json](./291523-look-inside.json) |
+| Look Inside: Chapter 2 | 199438 | [199438-look-inside-chapter-2.json](./199438-look-inside-chapter-2.json) |
 | Look Outside | 328140 | [328140-look-outside.json](./328140-look-outside.json) |
 | Look Outside: Final Vision | 384618 | [384618-look-outside-final-vision.json](./384618-look-outside-final-vision.json) |
 | Look to the Birds | 414434 | [414434-look-to-the-birds.json](./414434-look-to-the-birds.json) |
