@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Escape: The Driving Dead | 213589 | [213589-zombie-escape-the-driving-dead.json](./213589-zombie-escape-the-driving-dead.json) |
 | Zombie Estate | 66378 | [66378-zombie-estate.json](./66378-zombie-estate.json) |
 | Zombie Exodus: Safe Haven - Part Four | 388743 | [388743-zombie-exodus-safe-haven-part-four.json](./388743-zombie-exodus-safe-haven-part-four.json) |
+| Zombie Exodus: Safe Haven - Part Three | 192242 | [192242-zombie-exodus-safe-haven-part-three.json](./192242-zombie-exodus-safe-haven-part-three.json) |
 | Zombie Exodus: Safe Haven - Side Stories 2 | 291208 | [291208-zombie-exodus-safe-haven-side-stories-2.json](./291208-zombie-exodus-safe-haven-side-stories-2.json) |
 | Zombie Farm | 267549 | [267549-zombie-farm.json](./267549-zombie-farm.json) |
 | Zombie Fish Tank | 343999 | [343999-zombie-fish-tank.json](./343999-zombie-fish-tank.json) |
