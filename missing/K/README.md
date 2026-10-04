@@ -2682,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kombat Kars | 70446 | [70446-kombat-kars.json](./70446-kombat-kars.json) |
 | Kombate Mexicano Elexiones | 261555 | [261555-kombate-mexicano-elexiones.json](./261555-kombate-mexicano-elexiones.json) |
 | Kombinera | 194249 | [194249-kombinera.json](./194249-kombinera.json) |
+| Kombo King | 188993 | [188993-kombo-king.json](./188993-kombo-king.json) |
 | Komeiji Satori no Jousou Kyouiku | 187240 | [187240-komeiji-satori-no-jousou-kyouiku.json](./187240-komeiji-satori-no-jousou-kyouiku.json) |
 | Kommersant | 180295 | [180295-kommersant.json](./180295-kommersant.json) |
 | Kommissar Kugelblitz: Der Fall Wüstenkönig | 221256 | [221256-kommissar-kugelblitz-der-fall-wustenkonig.json](./221256-kommissar-kugelblitz-der-fall-wustenkonig.json) |
@@ -2822,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korpus: Buried over the Black Soil | 129233 | [129233-korpus-buried-over-the-black-soil.json](./129233-korpus-buried-over-the-black-soil.json) |
 | Korsakovia | 182380 | [182380-korsakovia.json](./182380-korsakovia.json) |
 | Korter 1996 | 320714 | [320714-korter-1996.json](./320714-korter-1996.json) |
+| Koru | 189008 | [189008-koru.json](./189008-koru.json) |
 | Korunu Kopia: Fushigi no Sumu Machi | 135895 | [135895-korunu-kopia-fushigi-no-sumu-machi.json](./135895-korunu-kopia-fushigi-no-sumu-machi.json) |
 | Koshachʼya Lyubovʼ | 301404 | [301404-koshach-ya-lyubov.json](./301404-koshach-ya-lyubov.json) |
 | Koshari Defense | 361824 | [361824-koshari-defense.json](./361824-koshari-defense.json) |
