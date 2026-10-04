@@ -56,7 +56,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men 2: Battle | 343821 | [343821-x-men-2-battle.json](./343821-x-men-2-battle.json) |
 | X-Men Cartoon Maker | 130739 | [130739-x-men-cartoon-maker.json](./130739-x-men-cartoon-maker.json) |
 | X-Men Legends II: Rise of Apocalypse | 245310 | [245310-x-men-legends-ii-rise-of-apocalypse.json](./245310-x-men-legends-ii-rise-of-apocalypse.json) |
+| X-Men Origins: Wolverine | 209931 | [209931-x-men-origins-wolverine.json](./209931-x-men-origins-wolverine.json) |
 | X-Men Origins: Wolverine | 573 | [573-x-men-origins-wolverine.json](./573-x-men-origins-wolverine.json) |
+| X-Men Origins: Wolverine - The Mobile Game | 209932 | [209932-x-men-origins-wolverine-the-mobile-game.json](./209932-x-men-origins-wolverine-the-mobile-game.json) |
 | X-Men: 009 - Character: Cyclops | 291031 | [291031-x-men-009-character-cyclops.json](./291031-x-men-009-character-cyclops.json) |
 | X-Men: 010 - Character: Iceman | 291032 | [291032-x-men-010-character-iceman.json](./291032-x-men-010-character-iceman.json) |
 | X-Men: 011 - Character: Jean Grey/Phoenix | 291033 | [291033-x-men-011-character-jean-grey-phoenix.json](./291033-x-men-011-character-jean-grey-phoenix.json) |
