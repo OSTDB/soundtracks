@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Survivors | 212839 | [212839-galaxy-survivors.json](./212839-galaxy-survivors.json) |
 | Galaxy Trader | 175402 | [175402-galaxy-trader.json](./175402-galaxy-trader.json) |
 | Galaxy Trader | 207849 | [207849-galaxy-trader.json](./207849-galaxy-trader.json) |
+| Galaxy Trek | 197717 | [197717-galaxy-trek.json](./197717-galaxy-trek.json) |
 | Galaxy Trek | 285458 | [285458-galaxy-trek.json](./285458-galaxy-trek.json) |
 | Galaxy Trucker | 60538 | [60538-galaxy-trucker.json](./60538-galaxy-trucker.json) |
 | Galaxy Warfighter | 131984 | [131984-galaxy-warfighter.json](./131984-galaxy-warfighter.json) |
