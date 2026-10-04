@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oku dake Nou-tre Yubi Ippon | 251527 | [251527-oku-dake-nou-tre-yubi-ippon.json](./251527-oku-dake-nou-tre-yubi-ippon.json) |
 | Oku dake Study Hangul Kiso Tango | 261375 | [261375-oku-dake-study-hangul-kiso-tango.json](./261375-oku-dake-study-hangul-kiso-tango.json) |
 | Oku-sama wa Moto Yariman -Besluted- | 82982 | [82982-oku-sama-wa-moto-yariman-besluted.json](./82982-oku-sama-wa-moto-yariman-besluted.json) |
+| Okubi | 214564 | [214564-okubi.json](./214564-okubi.json) |
 | Okugafuchi Shopping Arcade | 413104 | [413104-okugafuchi-shopping-arcade.json](./413104-okugafuchi-shopping-arcade.json) |
 | Okuman Chouja II | 242520 | [242520-okuman-chouja-ii.json](./242520-okuman-chouja-ii.json) |
 | OkunoKa | 87961 | [87961-okunoka.json](./87961-okunoka.json) |
@@ -2392,7 +2393,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otome Senki | 304733 | [304733-otome-senki.json](./304733-otome-senki.json) |
 | Otome the Exorcist | 158045 | [158045-otome-the-exorcist.json](./158045-otome-the-exorcist.json) |
 | Otomedius Excellent | 1695 | [1695-otomedius-excellent.json](./1695-otomedius-excellent.json) |
+| Otometeki Koi Kakumei Love Revo! Portable | 214560 | [214560-otometeki-koi-kakumei-love-revo-portable.json](./214560-otometeki-koi-kakumei-love-revo-portable.json) |
 | Otometeki Koi Kakumei Love Revo!! | 70678 | [70678-otometeki-koi-kakumei-love-revo.json](./70678-otometeki-koi-kakumei-love-revo.json) |
+| Otometeki Koi Kakumei Love Revo!! 100kg Kara Hajimaru Koi Monogatari | 214562 | [214562-otometeki-koi-kakumei-love-revo-100kg-kara-hajimaru-koi-monogatari.json](./214562-otometeki-koi-kakumei-love-revo-100kg-kara-hajimaru-koi-monogatari.json) |
+| Otometeki Koi Kakumei Love Revo!! DS | 214553 | [214553-otometeki-koi-kakumei-love-revo-ds.json](./214553-otometeki-koi-kakumei-love-revo-ds.json) |
 | Otomon Drop: Monster Hunter Stories | 175726 | [175726-otomon-drop-monster-hunter-stories.json](./175726-otomon-drop-monster-hunter-stories.json) |
 | Otona no Gal Jan Kimi ni Hane Man | 248628 | [248628-otona-no-gal-jan-kimi-ni-hane-man.json](./248628-otona-no-gal-jan-kimi-ni-hane-man.json) |
 | Otona no Joushikiryoku Training DS | 68029 | [68029-otona-no-joushikiryoku-training-ds.json](./68029-otona-no-joushikiryoku-training-ds.json) |
