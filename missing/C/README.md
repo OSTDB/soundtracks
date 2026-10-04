@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardboard Cowboy | 398367 | [398367-cardboard-cowboy.json](./398367-cardboard-cowboy.json) |
 | Cardboard Football Club | 233206 | [233206-cardboard-football-club.json](./233206-cardboard-football-club.json) |
 | Cardboard Ground | 119730 | [119730-cardboard-ground.json](./119730-cardboard-ground.json) |
+| Cardbob | 217216 | [217216-cardbob.json](./217216-cardbob.json) |
 | Cardborne | 390144 | [390144-cardborne.json](./390144-cardborne.json) |
 | Cardbot | 159819 | [159819-cardbot.json](./159819-cardbot.json) |
 | Cardbound Heroes | 399138 | [399138-cardbound-heroes.json](./399138-cardbound-heroes.json) |
@@ -2571,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cell of Empireo: Isoi Sanemitsu no Records | 243655 | [243655-cell-of-empireo-isoi-sanemitsu-no-records.json](./243655-cell-of-empireo-isoi-sanemitsu-no-records.json) |
 | Cell of Empireo: RTC - Interlude | 301419 | [301419-cell-of-empireo-rtc-interlude.json](./301419-cell-of-empireo-rtc-interlude.json) |
 | Cell Phone Love Letter | 256330 | [256330-cell-phone-love-letter.json](./256330-cell-phone-love-letter.json) |
+| Cell Scientist: Beyond | 217345 | [217345-cell-scientist-beyond.json](./217345-cell-scientist-beyond.json) |
 | Cell to Singularity | 112925 | [112925-cell-to-singularity.json](./112925-cell-to-singularity.json) |
 | Cell to Singularity: Evolution | 259562 | [259562-cell-to-singularity-evolution.json](./259562-cell-to-singularity-evolution.json) |
 | Cell Tune | 134618 | [134618-cell-tune.json](./134618-cell-tune.json) |
@@ -3583,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickenauts | 251753 | [251753-chickenauts.json](./251753-chickenauts.json) |
 | Chickenfoot Dominoes | 108257 | [108257-chickenfoot-dominoes.json](./108257-chickenfoot-dominoes.json) |
 | Chickenhare and the Treasure of Spiking-Beard | 341670 | [341670-chickenhare-and-the-treasure-of-spiking-beard.json](./341670-chickenhare-and-the-treasure-of-spiking-beard.json) |
+| Chickenoidz Super Party | 217358 | [217358-chickenoidz-super-party.json](./217358-chickenoidz-super-party.json) |
 | ChickenPop! | 103519 | [103519-chickenpop.json](./103519-chickenpop.json) |
 | Chickens | 94352 | [94352-chickens.json](./94352-chickens.json) |
 | Chickens Can't Fly | 22341 | [22341-chickens-cant-fly.json](./22341-chickens-cant-fly.json) |
@@ -4699,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Secrets 2 | 60062 | [60062-city-of-secrets-2.json](./60062-city-of-secrets-2.json) |
 | City of Secrets 2: Episode 1 | 146872 | [146872-city-of-secrets-2-episode-1.json](./146872-city-of-secrets-2-episode-1.json) |
 | City of sky | 88013 | [88013-city-of-sky.json](./88013-city-of-sky.json) |
+| City of Springs | 217219 | [217219-city-of-springs.json](./217219-city-of-springs.json) |
 | City of Steam | 63546 | [63546-city-of-steam.json](./63546-city-of-steam.json) |
 | City of Stolen Worlds | 319210 | [319210-city-of-stolen-worlds.json](./319210-city-of-stolen-worlds.json) |
 | City of Stories: Stephan's Journey - Collector's Edition | 362835 | [362835-city-of-stories-stephans-journey-collectors-edition.json](./362835-city-of-stories-stephans-journey-collectors-edition.json) |
@@ -4760,6 +4764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citybound | 18151 | [18151-citybound.json](./18151-citybound.json) |
 | CityBuilder | 206348 | [206348-citybuilder.json](./206348-citybuilder.json) |
 | Cityconomy: Service for your City | 17494 | [17494-cityconomy-service-for-your-city.json](./17494-cityconomy-service-for-your-city.json) |
+| CityDriver | 217210 | [217210-citydriver.json](./217210-citydriver.json) |
 | CityDriver: Alvarez-Lentz Marathon 420 CTI | 252236 | [252236-citydriver-alvarez-lentz-marathon-420-cti.json](./252236-citydriver-alvarez-lentz-marathon-420-cti.json) |
 | CityDriver: Ferdinand Habanero Turbo | 252237 | [252237-citydriver-ferdinand-habanero-turbo.json](./252237-citydriver-ferdinand-habanero-turbo.json) |
 | CityDriver: Moruga Turbo | 315619 | [315619-citydriver-moruga-turbo.json](./315619-citydriver-moruga-turbo.json) |
@@ -6244,6 +6249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossal Cave | 215119 | [215119-colossal-cave.json](./215119-colossal-cave.json) |
 | Colossal Cave Adventure | 265733 | [265733-colossal-cave-adventure.json](./265733-colossal-cave-adventure.json) |
 | Colossal Cave VR | 253587 | [253587-colossal-cave-vr.json](./253587-colossal-cave-vr.json) |
+| Colossal Citadels | 217343 | [217343-colossal-citadels.json](./217343-colossal-citadels.json) |
 | Colossal Crisis | 338880 | [338880-colossal-crisis.json](./338880-colossal-crisis.json) |
 | Colossal Kaiju Combat: Kaijuland Battles | 36353 | [36353-colossal-kaiju-combat-kaijuland-battles.json](./36353-colossal-kaiju-combat-kaijuland-battles.json) |
 | Colossal Saga | 126663 | [126663-colossal-saga.json](./126663-colossal-saga.json) |
@@ -6301,6 +6307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Choro Q | 97362 | [97362-combat-choro-q.json](./97362-combat-choro-q.json) |
 | Combat Command | 139426 | [139426-combat-command.json](./139426-combat-command.json) |
 | Combat Command: Matrix Edition | 123421 | [123421-combat-command-matrix-edition.json](./123421-combat-command-matrix-edition.json) |
+| Combat Complex | 217287 | [217287-combat-complex.json](./217287-combat-complex.json) |
 | Combat Core | 26545 | [26545-combat-core.json](./26545-combat-core.json) |
 | Combat Crazy | 94179 | [94179-combat-crazy.json](./94179-combat-crazy.json) |
 | Combat Directive: Napoleonic Wars | 318048 | [318048-combat-directive-napoleonic-wars.json](./318048-combat-directive-napoleonic-wars.json) |
@@ -9939,6 +9946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curious Expedition 2: Robots of Lux | 216160 | [216160-curious-expedition-2-robots-of-lux.json](./216160-curious-expedition-2-robots-of-lux.json) |
 | Curious Fishing | 249746 | [249746-curious-fishing.json](./249746-curious-fishing.json) |
 | Curious George Early Learning Adventure | 384220 | [384220-curious-george-early-learning-adventure.json](./384220-curious-george-early-learning-adventure.json) |
+| Curl! | 217347 | [217347-curl.json](./217347-curl.json) |
 | Curley Laboratory | 196691 | [196691-curley-laboratory.json](./196691-curley-laboratory.json) |
 | Curling | 147856 | [147856-curling.json](./147856-curling.json) |
 | Curling on Line | 166769 | [166769-curling-on-line.json](./166769-curling-on-line.json) |
