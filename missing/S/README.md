@@ -2396,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Spy: Operation Love | 240249 | [240249-secret-spy-operation-love.json](./240249-secret-spy-operation-love.json) |
 | Secret Summer | 368096 | [368096-secret-summer.json](./368096-secret-summer.json) |
 | Secret Summoner | 236954 | [236954-secret-summoner.json](./236954-secret-summoner.json) |
+| Secret Tea Garden | 209942 | [209942-secret-tea-garden.json](./209942-secret-tea-garden.json) |
 | Secret Thursday | 312926 | [312926-secret-thursday.json](./312926-secret-thursday.json) |
 | Secret Tower | 186761 | [186761-secret-tower.json](./186761-secret-tower.json) |
 | Secret Trial Ground | 273625 | [273625-secret-trial-ground.json](./273625-secret-trial-ground.json) |
@@ -4472,6 +4473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinseiden Megaseed: Fukkatsu-hen | 261299 | [261299-shinseiden-megaseed-fukkatsu-hen.json](./261299-shinseiden-megaseed-fukkatsu-hen.json) |
 | Shinseiki Evangelion Mahjong Hokan Keikaku | 61676 | [61676-shinseiki-evangelion-mahjong-hokan-keikaku.json](./61676-shinseiki-evangelion-mahjong-hokan-keikaku.json) |
 | Shinseiki Evangelion: Typing E-Keikaku | 61671 | [61671-shinseiki-evangelion-typing-e-keikaku.json](./61671-shinseiki-evangelion-typing-e-keikaku.json) |
+| Shinseiki Evangelion: Typing Hokan Keikaku | 209939 | [209939-shinseiki-evangelion-typing-hokan-keikaku.json](./209939-shinseiki-evangelion-typing-hokan-keikaku.json) |
 | Shinseiki GPX Cyber Formula Sin Drei Plus | 112516 | [112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json](./112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json) |
 | Shinsen Renki | 163232 | [163232-shinsen-renki.json](./163232-shinsen-renki.json) |
 | Shinsen-den | 77406 | [77406-shinsen-den.json](./77406-shinsen-den.json) |
@@ -12072,6 +12074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squonker 3 | 260663 | [260663-squonker-3.json](./260663-squonker-3.json) |
 | Sqwark! A Nutty Adventure | 169478 | [169478-sqwark-a-nutty-adventure.json](./169478-sqwark-a-nutty-adventure.json) |
 | SRB2 Heroes | 326954 | [326954-srb2-heroes.json](./326954-srb2-heroes.json) |
+| SRG Mixtape Volume #1 | 209948 | [209948-srg-mixtape-volume-1.json](./209948-srg-mixtape-volume-1.json) |
 | SRG Mixtape Volume #2 | 194977 | [194977-srg-mixtape-volume-2.json](./194977-srg-mixtape-volume-2.json) |
 | SRG Mixtape Volume #3 | 222800 | [222800-srg-mixtape-volume-3.json](./222800-srg-mixtape-volume-3.json) |
 | SRG Mixtape Volume #4 | 261215 | [261215-srg-mixtape-volume-4.json](./261215-srg-mixtape-volume-4.json) |
@@ -13610,6 +13613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Monarch | 26493 | [26493-stellar-monarch.json](./26493-stellar-monarch.json) |
 | Stellar Monarch 2 | 192179 | [192179-stellar-monarch-2.json](./192179-stellar-monarch-2.json) |
 | Stellar Monarch: The Age of Technology | 171028 | [171028-stellar-monarch-the-age-of-technology.json](./171028-stellar-monarch-the-age-of-technology.json) |
+| Stellar Nexus | 209943 | [209943-stellar-nexus.json](./209943-stellar-nexus.json) |
 | Stellar Nursery | 413597 | [413597-stellar-nursery.json](./413597-stellar-nursery.json) |
 | Stellar Odyssey | 413089 | [413089-stellar-odyssey.json](./413089-stellar-odyssey.json) |
 | Stellar Outpost Commander | 292325 | [292325-stellar-outpost-commander.json](./292325-stellar-outpost-commander.json) |
@@ -14842,6 +14846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Teammates | 288428 | [288428-stupid-teammates.json](./288428-stupid-teammates.json) |
 | Stupid Zombies 2 | 207250 | [207250-stupid-zombies-2.json](./207250-stupid-zombies-2.json) |
 | Stupid Zombies 3 | 207251 | [207251-stupid-zombies-3.json](./207251-stupid-zombies-3.json) |
+| Stupid Zombies Xterminator | 209935 | [209935-stupid-zombies-xterminator.json](./209935-stupid-zombies-xterminator.json) |
 | SturmFront - The Mutant War | 15394 | [15394-sturmfront-the-mutant-war.json](./15394-sturmfront-the-mutant-war.json) |
 | SturmFront: The Mutant War - Farewell Edition | 215362 | [215362-sturmfront-the-mutant-war-farewell-edition.json](./215362-sturmfront-the-mutant-war-farewell-edition.json) |
 | SturmFront: The Mutant War - Übel Edition | 52764 | [52764-sturmfront-the-mutant-war-ubel-edition.json](./52764-sturmfront-the-mutant-war-ubel-edition.json) |
