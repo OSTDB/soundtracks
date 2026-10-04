@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rags to Riches | 397233 | [397233-rags-to-riches.json](./397233-rags-to-riches.json) |
 | Rags to Riches | 81174 | [81174-rags-to-riches.json](./81174-rags-to-riches.json) |
 | Ragtag Heroes | 211765 | [211765-ragtag-heroes.json](./211765-ragtag-heroes.json) |
+| Ragtag Rescue | 183914 | [183914-ragtag-rescue.json](./183914-ragtag-rescue.json) |
 | Rai-Net Access Battlers | 299721 | [299721-rai-net-access-battlers.json](./299721-rai-net-access-battlers.json) |
 | Raid 2000 | 30955 | [30955-raid-2000.json](./30955-raid-2000.json) |
 | Raid 2020 | 48211 | [48211-raid-2020.json](./48211-raid-2020.json) |
@@ -5967,6 +5968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotschwert | 333660 | [333660-rotschwert.json](./333660-rotschwert.json) |
 | Rotten Apple: New York Fallen | 211639 | [211639-rotten-apple-new-york-fallen.json](./211639-rotten-apple-new-york-fallen.json) |
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
+| Rotten Sun | 183948 | [183948-rotten-sun.json](./183948-rotten-sun.json) |
 | Rotten Tide | 157055 | [157055-rotten-tide.json](./157055-rotten-tide.json) |
 | Rotten Woods | 369710 | [369710-rotten-woods.json](./369710-rotten-woods.json) |
 | Rottenroots | 322766 | [322766-rottenroots.json](./322766-rottenroots.json) |
