@@ -5874,6 +5874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Survivors | 235365 | [235365-midnight-survivors.json](./235365-midnight-survivors.json) |
 | Midnight Swamp | 318198 | [318198-midnight-swamp.json](./318198-midnight-swamp.json) |
 | Midnight Syndrome | 304648 | [304648-midnight-syndrome.json](./304648-midnight-syndrome.json) |
+| Midnight Terror: The Beginning | 192260 | [192260-midnight-terror-the-beginning.json](./192260-midnight-terror-the-beginning.json) |
 | Midnight Terrors | 395705 | [395705-midnight-terrors.json](./395705-midnight-terrors.json) |
 | Midnight Therapy | 388938 | [388938-midnight-therapy.json](./388938-midnight-therapy.json) |
 | Midnight Thunder Drive | 258084 | [258084-midnight-thunder-drive.json](./258084-midnight-thunder-drive.json) |
@@ -9934,6 +9935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multitasking Skills Desired | 404448 | [404448-multitasking-skills-desired.json](./404448-multitasking-skills-desired.json) |
 | MultiTaskMaster | 105205 | [105205-multitaskmaster.json](./105205-multitaskmaster.json) |
 | Multiversal Affairs | 270157 | [270157-multiversal-affairs.json](./270157-multiversal-affairs.json) |
+| MultiVerse | 192255 | [192255-multiverse.json](./192255-multiverse.json) |
 | Multiverse Go | 253897 | [253897-multiverse-go.json](./253897-multiverse-go.json) |
 | Multiverse Idle | 390632 | [390632-multiverse-idle.json](./390632-multiverse-idle.json) |
 | Multiverse Loot Hunter | 292586 | [292586-multiverse-loot-hunter.json](./292586-multiverse-loot-hunter.json) |
