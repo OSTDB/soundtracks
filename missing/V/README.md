@@ -1584,6 +1584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitrail | 293172 | [293172-vitrail.json](./293172-vitrail.json) |
 | Vitreous | 179717 | [179717-vitreous.json](./179717-vitreous.json) |
 | Vitrified | 275126 | [275126-vitrified.json](./275126-vitrified.json) |
+| Vitriol | 175160 | [175160-vitriol.json](./175160-vitriol.json) |
 | Vitriol | 301258 | [301258-vitriol.json](./301258-vitriol.json) |
 | Vitriol & Valor | 412548 | [412548-vitriol-and-valor.json](./412548-vitriol-and-valor.json) |
 | Vitris | 306015 | [306015-vitris.json](./306015-vitris.json) |
