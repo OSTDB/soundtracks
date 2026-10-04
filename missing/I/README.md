@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IMG_20180226 | 176780 | [176780-img-20180226.json](./176780-img-20180226.json) |
 | Imhotep | 47248 | [47248-imhotep.json](./47248-imhotep.json) |
 | Imhotep, Pyramid Builder | 33357 | [33357-imhotep-pyramid-builder.json](./33357-imhotep-pyramid-builder.json) |
+| Imi ga Wakaru to Kowai Mystery | 222364 | [222364-imi-ga-wakaru-to-kowai-mystery.json](./222364-imi-ga-wakaru-to-kowai-mystery.json) |
 | Imi ga Wakaru to Kowai Shashin | 251604 | [251604-imi-ga-wakaru-to-kowai-shashin.json](./251604-imi-ga-wakaru-to-kowai-shashin.json) |
 | iMimic: 80's Vintage Electronic Memory Game | 232142 | [232142-imimic-80s-vintage-electronic-memory-game.json](./232142-imimic-80s-vintage-electronic-memory-game.json) |
 | Imitate | 283854 | [283854-imitate.json](./283854-imitate.json) |
