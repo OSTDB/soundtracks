@@ -8435,6 +8435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsterwolf | 156009 | [156009-monsterwolf.json](./156009-monsterwolf.json) |
 | Monsti: Special Edition | 53378 | [53378-monsti-special-edition.json](./53378-monsti-special-edition.json) |
 | Monstir Iradicator | 221121 | [221121-monstir-iradicator.json](./221121-monstir-iradicator.json) |
+| Monstopia: Chronicle of Jade's | 201076 | [201076-monstopia-chronicle-of-jades.json](./201076-monstopia-chronicle-of-jades.json) |
 | Monstre de Coiffure | 207822 | [207822-monstre-de-coiffure.json](./207822-monstre-de-coiffure.json) |
 | Monstrix TCG Card Shop | 334083 | [334083-monstrix-tcg-card-shop.json](./334083-monstrix-tcg-card-shop.json) |
 | Monstro Maestro | 382763 | [382763-monstro-maestro.json](./382763-monstro-maestro.json) |
