@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadrium 2 | 250882 | [250882-quadrium-2.json](./250882-quadrium-2.json) |
 | Quadrium 3 | 287228 | [287228-quadrium-3.json](./287228-quadrium-3.json) |
 | Quadrivium: Paths of History | 341317 | [341317-quadrivium-paths-of-history.json](./341317-quadrivium-paths-of-history.json) |
+| Quadrobat | 209950 | [209950-quadrobat.json](./209950-quadrobat.json) |
 | Quadrofriend | 347172 | [347172-quadrofriend.json](./347172-quadrofriend.json) |
 | Quadroids | 264136 | [264136-quadroids.json](./264136-quadroids.json) |
 | Quadropus Rampage | 39180 | [39180-quadropus-rampage.json](./39180-quadropus-rampage.json) |
