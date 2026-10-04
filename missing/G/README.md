@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Grumps: The Video Game | 283768 | [283768-game-grumps-the-video-game.json](./283768-game-grumps-the-video-game.json) |
 | Game Hits! 4 Games in 1 | 209593 | [209593-game-hits-4-games-in-1.json](./209593-game-hits-4-games-in-1.json) |
 | Game in Game in Game | 259511 | [259511-game-in-game-in-game.json](./259511-game-in-game-in-game.json) |
+| Game Inside a Game | 178475 | [178475-game-inside-a-game.json](./178475-game-inside-a-game.json) |
 | Game Jam Jam Game | 128607 | [128607-game-jam-jam-game.json](./128607-game-jam-jam-game.json) |
 | Game Machine 2 | 346762 | [346762-game-machine-2.json](./346762-game-machine-2.json) |
 | Game Machines: Arcade Casino | 74121 | [74121-game-machines-arcade-casino.json](./74121-game-machines-arcade-casino.json) |
@@ -902,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gapper | 57674 | [57674-gapper.json](./57674-gapper.json) |
 | Gappy's Adventure: Coinkeeper's Cantrip | 389129 | [389129-gappys-adventure-coinkeepers-cantrip.json](./389129-gappys-adventure-coinkeepers-cantrip.json) |
 | Gar-Type | 327351 | [327351-gar-type.json](./327351-gar-type.json) |
+| Gar's Den | 178462 | [178462-gars-den.json](./178462-gars-den.json) |
 | Garage Flipper | 217270 | [217270-garage-flipper.json](./217270-garage-flipper.json) |
 | Garage Mechanic Simulator | 124020 | [124020-garage-mechanic-simulator.json](./124020-garage-mechanic-simulator.json) |
 | Garage Ninja | 163764 | [163764-garage-ninja.json](./163764-garage-ninja.json) |
@@ -1309,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geisha | 12116 | [12116-geisha.json](./12116-geisha.json) |
 | Geist Force | 62131 | [62131-geist-force.json](./62131-geist-force.json) |
 | Geisterbahnhof | 362990 | [362990-geisterbahnhof.json](./362990-geisterbahnhof.json) |
+| Geki Atsu!! Pachige Damashii Vol.2: Evangelion - Shinjitsu no Tsubasa | 178404 | [178404-geki-atsu-pachige-damashii-vol-2-evangelion-shinjitsu-no-tsubasa.json](./178404-geki-atsu-pachige-damashii-vol-2-evangelion-shinjitsu-no-tsubasa.json) |
 | Geki Kuukan Pro Baseball: At the End of the Century 1999 | 302700 | [302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json](./302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json) |
 | Geki Yaba Runner Habanero | 222389 | [222389-geki-yaba-runner-habanero.json](./222389-geki-yaba-runner-habanero.json) |
 | Gekiden Youitan: Ep.1 | 83244 | [83244-gekiden-youitan-ep-1.json](./83244-gekiden-youitan-ep-1.json) |
@@ -1420,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gendai Daisenryaku: Ultimate War | 231510 | [231510-gendai-daisenryaku-ultimate-war.json](./231510-gendai-daisenryaku-ultimate-war.json) |
 | Gender Dysphoria | 177502 | [177502-gender-dysphoria.json](./177502-gender-dysphoria.json) |
 | Gender Euphoria VN | 183906 | [183906-gender-euphoria-vn.json](./183906-gender-euphoria-vn.json) |
+| Gender Lab Escape Simulator 2030 | 178469 | [178469-gender-lab-escape-simulator-2030.json](./178469-gender-lab-escape-simulator-2030.json) |
 | Gender Wars | 50141 | [50141-gender-wars.json](./50141-gender-wars.json) |
 | Genderfelt | 218526 | [218526-genderfelt.json](./218526-genderfelt.json) |
 | Genderless Haruka's Confinement & Discipline RPG | 82987 | [82987-genderless-harukas-confinement-and-discipline-rpg.json](./82987-genderless-harukas-confinement-and-discipline-rpg.json) |
