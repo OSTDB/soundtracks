@@ -1245,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Time | 351173 | [351173-one-last-time.json](./351173-one-last-time.json) |
 | One Last Try | 219627 | [219627-one-last-try.json](./219627-one-last-try.json) |
 | One Late Night: Mobile | 102625 | [102625-one-late-night-mobile.json](./102625-one-late-night-mobile.json) |
+| One Left | 184458 | [184458-one-left.json](./184458-one-left.json) |
 | One Life | 197239 | [197239-one-life.json](./197239-one-life.json) |
 | One Life to Alice | 260228 | [260228-one-life-to-alice.json](./260228-one-life-to-alice.json) |
 | One Life: Parkour Project | 318781 | [318781-one-life-parkour-project.json](./318781-one-life-parkour-project.json) |
@@ -1635,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only One | 328599 | [328599-only-one.json](./328599-only-one.json) |
 | Only One Mosquito | 181354 | [181354-only-one-mosquito.json](./181354-only-one-mosquito.json) |
 | Only One Night | 394222 | [394222-only-one-night.json](./394222-only-one-night.json) |
+| Only One Shall Pass | 184431 | [184431-only-one-shall-pass.json](./184431-only-one-shall-pass.json) |
 | Only One Way Up | 256919 | [256919-only-one-way-up.json](./256919-only-one-way-up.json) |
 | Only Pinball | 292532 | [292532-only-pinball.json](./292532-only-pinball.json) |
 | Only Shadows Left Behind | 109730 | [109730-only-shadows-left-behind.json](./109730-only-shadows-left-behind.json) |
