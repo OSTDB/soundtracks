@@ -2769,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlive | 243234 | [243234-outlive.json](./243234-outlive.json) |
 | Outliver: Redemption | 113665 | [113665-outliver-redemption.json](./113665-outliver-redemption.json) |
 | Outliver: Tribulation | 129234 | [129234-outliver-tribulation.json](./129234-outliver-tribulation.json) |
+| Outmode | 195582 | [195582-outmode.json](./195582-outmode.json) |
 | Outnumbered | 201566 | [201566-outnumbered.json](./201566-outnumbered.json) |
 | Outnumbered | 239904 | [239904-outnumbered.json](./239904-outnumbered.json) |
 | Outnumbered | 55869 | [55869-outnumbered.json](./55869-outnumbered.json) |
