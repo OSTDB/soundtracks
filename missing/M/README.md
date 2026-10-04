@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic New Year Escape 2 | 315701 | [315701-magic-new-year-escape-2.json](./315701-magic-new-year-escape-2.json) |
 | Magic Numbers 2 | 58764 | [58764-magic-numbers-2.json](./58764-magic-numbers-2.json) |
 | Magic Ocean: Multiplayer Roguelike | 141245 | [141245-magic-ocean-multiplayer-roguelike.json](./141245-magic-ocean-multiplayer-roguelike.json) |
+| Magic of Spring | 195561 | [195561-magic-of-spring.json](./195561-magic-of-spring.json) |
 | Magic Orbs | 125332 | [125332-magic-orbs.json](./125332-magic-orbs.json) |
 | Magic Paint | 88224 | [88224-magic-paint.json](./88224-magic-paint.json) |
 | Magic Paper | 250648 | [250648-magic-paper.json](./250648-magic-paper.json) |
@@ -3919,6 +3920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Knight | 288367 | [288367-mega-knight.json](./288367-mega-knight.json) |
 | Mega Knockdown: Supporter Colors | 340560 | [340560-mega-knockdown-supporter-colors.json](./340560-mega-knockdown-supporter-colors.json) |
 | Mega Mall Story 2 | 146725 | [146725-mega-mall-story-2.json](./146725-mega-mall-story-2.json) |
+| Mega Man | 195570 | [195570-mega-man.json](./195570-mega-man.json) |
 | Mega Man | 281415 | [281415-mega-man.json](./281415-mega-man.json) |
 | Mega Man & Mega Man X 5in1 Special Box | 124033 | [124033-mega-man-and-mega-man-x-5in1-special-box.json](./124033-mega-man-and-mega-man-x-5in1-special-box.json) |
 | Mega Man 11: Collector's Package | 167160 | [167160-mega-man-11-collectors-package.json](./167160-mega-man-11-collectors-package.json) |
@@ -9264,6 +9266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 15: Special Edition | 53366 | [53366-motogp-15-special-edition.json](./53366-motogp-15-special-edition.json) |
 | MotoGP 19 | 116136 | [116136-motogp-19.json](./116136-motogp-19.json) |
 | MotoGP 19: Historical Pack | 168362 | [168362-motogp-19-historical-pack.json](./168362-motogp-19-historical-pack.json) |
+| MotoGP 2 | 195571 | [195571-motogp-2.json](./195571-motogp-2.json) |
 | MotoGP 20 | 131635 | [131635-motogp-20.json](./131635-motogp-20.json) |
 | MotoGP 20: Historic Pack | 168361 | [168361-motogp-20-historic-pack.json](./168361-motogp-20-historic-pack.json) |
 | MotoGP 21: Limited Edition Liveries | 168363 | [168363-motogp-21-limited-edition-liveries.json](./168363-motogp-21-limited-edition-liveries.json) |
@@ -11191,6 +11194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Cat | 257519 | [257519-mystery-cat.json](./257519-mystery-cat.json) |
 | Mystery Chronicles: One Way Heroics | 124745 | [124745-mystery-chronicles-one-way-heroics.json](./124745-mystery-chronicles-one-way-heroics.json) |
 | Mystery Circle | 37916 | [37916-mystery-circle.json](./37916-mystery-circle.json) |
+| Mystery Coin | 195557 | [195557-mystery-coin.json](./195557-mystery-coin.json) |
 | Mystery Crypt | 261520 | [261520-mystery-crypt.json](./261520-mystery-crypt.json) |
 | Mystery Dungeon | 200184 | [200184-mystery-dungeon.json](./200184-mystery-dungeon.json) |
 | Mystery Gold | 55862 | [55862-mystery-gold.json](./55862-mystery-gold.json) |
