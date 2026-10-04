@@ -5687,6 +5687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | April Was A Fool | 199052 | [199052-april-was-a-fool.json](./199052-april-was-a-fool.json) |
 | Aptly Rolling | 165661 | [165661-aptly-rolling.json](./165661-aptly-rolling.json) |
 | Apu's Journey | 276854 | [276854-apus-journey.json](./276854-apus-journey.json) |
+| Aqi 155 | 222369 | [222369-aqi-155.json](./222369-aqi-155.json) |
 | AQRA Tenses: Learn English | 237280 | [237280-aqra-tenses-learn-english.json](./237280-aqra-tenses-learn-english.json) |
 | AQtion | 202662 | [202662-aqtion.json](./202662-aqtion.json) |
 | Aqua | 37278 | [37278-aqua.json](./37278-aqua.json) |
@@ -7334,6 +7335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asonde Igo ga Sara ni Tsuyoku Naru: Ginsei Igo DS Chuukyuu-hen | 269558 | [269558-asonde-igo-ga-sara-ni-tsuyoku-naru-ginsei-igo-ds-chuukyuu-hen.json](./269558-asonde-igo-ga-sara-ni-tsuyoku-naru-ginsei-igo-ds-chuukyuu-hen.json) |
 | Asonde Igo ga Tsuyoku Naru! Ginsei Igo DX | 136958 | [136958-asonde-igo-ga-tsuyoku-naru-ginsei-igo-dx.json](./136958-asonde-igo-ga-tsuyoku-naru-ginsei-igo-dx.json) |
 | Asonde Igo ga Tsuyoku Naru!! Ginsei Igo DS | 269651 | [269651-asonde-igo-ga-tsuyoku-naru-ginsei-igo-ds.json](./269651-asonde-igo-ga-tsuyoku-naru-ginsei-igo-ds.json) |
+| Asonde Mahjong ga Tsuyoku Naru! Ginsei Mahjong DX | 222372 | [222372-asonde-mahjong-ga-tsuyoku-naru-ginsei-mahjong-dx.json](./222372-asonde-mahjong-ga-tsuyoku-naru-ginsei-mahjong-dx.json) |
 | Asonde Poker ga Tsuyoku Naru! Texas Hold 'Em | 144998 | [144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json](./144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json) |
 | Asonde Shogi ga Tsuyoku Naru! Ginsei Shogi DX | 83460 | [83460-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-dx.json](./83460-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-dx.json) |
 | Aspect Heroes | 277331 | [277331-aspect-heroes.json](./277331-aspect-heroes.json) |
@@ -8965,6 +8967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azul Baronis | 331992 | [331992-azul-baronis.json](./331992-azul-baronis.json) |
 | Azumanga Daioh Puzzle Bobble | 39646 | [39646-azumanga-daioh-puzzle-bobble.json](./39646-azumanga-daioh-puzzle-bobble.json) |
 | Azumanga Fighter: Come Back! | 328279 | [328279-azumanga-fighter-come-back.json](./328279-azumanga-fighter-come-back.json) |
+| Azumanga RPG | 222347 | [222347-azumanga-rpg.json](./222347-azumanga-rpg.json) |
 | Azumi and the Vertical Slice | 257075 | [257075-azumi-and-the-vertical-slice.json](./257075-azumi-and-the-vertical-slice.json) |
 | Azur Lane: Crosswave | 109475 | [109475-azur-lane-crosswave.json](./109475-azur-lane-crosswave.json) |
 | Azur Lane: Crosswave - Commanders Calendar Edition | 139918 | [139918-azur-lane-crosswave-commanders-calendar-edition.json](./139918-azur-lane-crosswave-commanders-calendar-edition.json) |
