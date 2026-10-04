@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raider | 351801 | [351801-raider.json](./351801-raider.json) |
 | Raider Kid and the Ruby Chest | 130287 | [130287-raider-kid-and-the-ruby-chest.json](./130287-raider-kid-and-the-ruby-chest.json) |
 | Raider: Dark Age | 261753 | [261753-raider-dark-age.json](./261753-raider-dark-age.json) |
+| Raider: Origin | 174682 | [174682-raider-origin.json](./174682-raider-origin.json) |
 | Raiders 1941 | 406812 | [406812-raiders-1941.json](./406812-raiders-1941.json) |
 | Raiders of Blackveil | 341668 | [341668-raiders-of-blackveil.json](./341668-raiders-of-blackveil.json) |
 | Raiders of Mizburgh | 185546 | [185546-raiders-of-mizburgh.json](./185546-raiders-of-mizburgh.json) |
@@ -792,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaKoval~Nya: Escape Edition | 102164 | [102164-rakoval-nya-escape-edition.json](./102164-rakoval-nya-escape-edition.json) |
 | Rakshasa | 318411 | [318411-rakshasa.json](./318411-rakshasa.json) |
 | Rakshasa | 384678 | [384678-rakshasa.json](./384678-rakshasa.json) |
+| Rakshasa Street: Born to be King | 174709 | [174709-rakshasa-street-born-to-be-king.json](./174709-rakshasa-street-born-to-be-king.json) |
 | Rakshasa Street: Wargod | 193894 | [193894-rakshasa-street-wargod.json](./193894-rakshasa-street-wargod.json) |
 | Raku Jongg | 37356 | [37356-raku-jongg.json](./37356-raku-jongg.json) |
 | Rakuen | 28544 | [28544-rakuen.json](./28544-rakuen.json) |
@@ -5785,6 +5787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop Story | 370717 | [370717-rooftop-story.json](./370717-rooftop-story.json) |
 | Rooftops & Alleys: The Parkour Game | 279900 | [279900-rooftops-and-alleys-the-parkour-game.json](./279900-rooftops-and-alleys-the-parkour-game.json) |
 | Roogoo Twisted Towers! | 21248 | [21248-roogoo-twisted-towers.json](./21248-roogoo-twisted-towers.json) |
+| Rookfall | 174617 | [174617-rookfall.json](./174617-rookfall.json) |
 | Rookie Boxing | 319776 | [319776-rookie-boxing.json](./319776-rookie-boxing.json) |
 | Rookie Guard and the Queen | 280259 | [280259-rookie-guard-and-the-queen.json](./280259-rookie-guard-and-the-queen.json) |
 | Rookie Math Pro | 102205 | [102205-rookie-math-pro.json](./102205-rookie-math-pro.json) |
