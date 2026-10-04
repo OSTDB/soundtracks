@@ -2552,6 +2552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relaxing Time: Paradise Resort - Collector's Edition | 304591 | [304591-relaxing-time-paradise-resort-collectors-edition.json](./304591-relaxing-time-paradise-resort-collectors-edition.json) |
 | Relaxing VR Games: Mahjong | 31166 | [31166-relaxing-vr-games-mahjong.json](./31166-relaxing-vr-games-mahjong.json) |
 | Relaxjong | 368677 | [368677-relaxjong.json](./368677-relaxjong.json) |
+| Relay | 179989 | [179989-relay.json](./179989-relay.json) |
 | RelayCars | 113521 | [113521-relaycars.json](./113521-relaycars.json) |
 | Relayer | 113594 | [113594-relayer.json](./113594-relayer.json) |
 | Relayer Advanced: Definitive Edition | 370821 | [370821-relayer-advanced-definitive-edition.json](./370821-relayer-advanced-definitive-edition.json) |
