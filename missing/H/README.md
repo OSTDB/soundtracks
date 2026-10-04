@@ -1267,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatchling | 182511 | [182511-hatchling.json](./182511-hatchling.json) |
 | Hatchling's Adventure | 180785 | [180785-hatchlings-adventure.json](./180785-hatchlings-adventure.json) |
 | Hatchpunk | 143729 | [143729-hatchpunk.json](./143729-hatchpunk.json) |
+| Hatchwell | 182284 | [182284-hatchwell.json](./182284-hatchwell.json) |
 | Hate Plus | 16542 | [16542-hate-plus.json](./16542-hate-plus.json) |
 | Haters, kill them all! | 86540 | [86540-haters-kill-them-all.json](./86540-haters-kill-them-all.json) |
 | Hatland Adventures | 35818 | [35818-hatland-adventures.json](./35818-hatland-adventures.json) |
@@ -1365,10 +1366,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel: Eclipse - Collector's Edition | 114345 | [114345-haunted-hotel-eclipse-collectors-edition.json](./114345-haunted-hotel-eclipse-collectors-edition.json) |
 | Haunted Hotel: Lonely Dream | 83552 | [83552-haunted-hotel-lonely-dream.json](./83552-haunted-hotel-lonely-dream.json) |
 | Haunted Hotel: Lost Dreams | 182388 | [182388-haunted-hotel-lost-dreams.json](./182388-haunted-hotel-lost-dreams.json) |
+| Haunted Hotel: Personal Nightmare | 182282 | [182282-haunted-hotel-personal-nightmare.json](./182282-haunted-hotel-personal-nightmare.json) |
 | Haunted Hotel: Personal Nightmare - Collector's Edition | 232925 | [232925-haunted-hotel-personal-nightmare-collectors-edition.json](./232925-haunted-hotel-personal-nightmare-collectors-edition.json) |
 | Haunted Hotel: Phoenix | 99994 | [99994-haunted-hotel-phoenix.json](./99994-haunted-hotel-phoenix.json) |
 | Haunted Hotel: Phoenix - Collector's Edition | 151191 | [151191-haunted-hotel-phoenix-collectors-edition.json](./151191-haunted-hotel-phoenix-collectors-edition.json) |
+| Haunted Hotel: Silent Waters | 182280 | [182280-haunted-hotel-silent-waters.json](./182280-haunted-hotel-silent-waters.json) |
 | Haunted Hotel: Silent Waters - Collector's Edition | 186678 | [186678-haunted-hotel-silent-waters-collectors-edition.json](./186678-haunted-hotel-silent-waters-collectors-edition.json) |
+| Haunted Hotel: The Thirteenth | 182281 | [182281-haunted-hotel-the-thirteenth.json](./182281-haunted-hotel-the-thirteenth.json) |
 | Haunted Hotel: The X | 57725 | [57725-haunted-hotel-the-x.json](./57725-haunted-hotel-the-x.json) |
 | Haunted Hour | 200120 | [200120-haunted-hour.json](./200120-haunted-hour.json) |
 | Haunted House | 229763 | [229763-haunted-house.json](./229763-haunted-house.json) |
@@ -2363,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello, Lucia | 235818 | [235818-hello-lucia.json](./235818-hello-lucia.json) |
 | Hello, This Is Bear | 272344 | [272344-hello-this-is-bear.json](./272344-hello-this-is-bear.json) |
 | Hello, Vic | 258543 | [258543-hello-vic.json](./258543-hello-vic.json) |
+| Hello, World! | 182322 | [182322-hello-world.json](./182322-hello-world.json) |
 | Hello, World. | 117130 | [117130-hello-world.json](./117130-hello-world.json) |
 | Hello, Yoshi! | 378319 | [378319-hello-yoshi.json](./378319-hello-yoshi.json) |
 | Hello, your order... | 337153 | [337153-hello-your-order.json](./337153-hello-your-order.json) |
@@ -2932,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic's Lot | 158566 | [158566-heretics-lot.json](./158566-heretics-lot.json) |
 | HereWith | 236889 | [236889-herewith.json](./236889-herewith.json) |
 | Herezh: Generations of Heroes | 212183 | [212183-herezh-generations-of-heroes.json](./212183-herezh-generations-of-heroes.json) |
+| Herios | 182315 | [182315-herios.json](./182315-herios.json) |
 | Heritage | 323499 | [323499-heritage.json](./323499-heritage.json) |
 | Heritage | 376042 | [376042-heritage.json](./376042-heritage.json) |
 | Heritage Hills | 156666 | [156666-heritage-hills.json](./156666-heritage-hills.json) |
@@ -3815,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Through Time: Viking Tales | 154516 | [154516-hidden-through-time-viking-tales.json](./154516-hidden-through-time-viking-tales.json) |
 | Hidden Tomatoes | 326783 | [326783-hidden-tomatoes.json](./326783-hidden-tomatoes.json) |
 | Hidden Town | 189010 | [189010-hidden-town.json](./189010-hidden-town.json) |
+| Hidden Treasures in the Forest of Dreams | 182327 | [182327-hidden-treasures-in-the-forest-of-dreams.json](./182327-hidden-treasures-in-the-forest-of-dreams.json) |
 | Hidden Village Top-Down 3D | 255264 | [255264-hidden-village-top-down-3d.json](./255264-hidden-village-top-down-3d.json) |
 | Hidden Watch | 104121 | [104121-hidden-watch.json](./104121-hidden-watch.json) |
 | Hidden Water | 192712 | [192712-hidden-water.json](./192712-hidden-water.json) |
@@ -5599,6 +5606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
 | Hotel Anatolia | 29328 | [29328-hotel-anatolia.json](./29328-hotel-anatolia.json) |
 | Hotel Blind | 33139 | [33139-hotel-blind.json](./33139-hotel-blind.json) |
+| Hotel City | 182312 | [182312-hotel-city.json](./182312-hotel-city.json) |
 | Hotel Dash Deluxe | 96724 | [96724-hotel-dash-deluxe.json](./96724-hotel-dash-deluxe.json) |
 | Hotel Dash Suite Success | 16171 | [16171-hotel-dash-suite-success.json](./16171-hotel-dash-suite-success.json) |
 | Hotel Dash: Suite Success Deluxe | 175305 | [175305-hotel-dash-suite-success-deluxe.json](./175305-hotel-dash-suite-success-deluxe.json) |
