@@ -2516,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Blockade | 203567 | [203567-final-blockade.json](./203567-final-blockade.json) |
 | Final Blow | 12098 | [12098-final-blow.json](./12098-final-blow.json) |
 | Final Bravely | 29899 | [29899-final-bravely.json](./29899-final-bravely.json) |
+| Final Combat | 195066 | [195066-final-combat.json](./195066-final-combat.json) |
 | Final Command | 71586 | [71586-final-command.json](./71586-final-command.json) |
 | Final Conflict | 209429 | [209429-final-conflict.json](./209429-final-conflict.json) |
 | Final Crisis: Terrestrial Defense Police | 141644 | [141644-final-crisis-terrestrial-defense-police.json](./141644-final-crisis-terrestrial-defense-police.json) |
