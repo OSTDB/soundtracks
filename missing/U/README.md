@@ -317,7 +317,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Mah-Jongg | 228410 | [228410-ultimate-mah-jongg.json](./228410-ultimate-mah-jongg.json) |
 | Ultimate Mahjongg | 206058 | [206058-ultimate-mahjongg.json](./206058-ultimate-mahjongg.json) |
 | Ultimate Mahjongg 10 | 206057 | [206057-ultimate-mahjongg-10.json](./206057-ultimate-mahjongg-10.json) |
+| Ultimate Mahjongg 15 | 206056 | [206056-ultimate-mahjongg-15.json](./206056-ultimate-mahjongg-15.json) |
 | Ultimate Mahjongg 20 | 53942 | [53942-ultimate-mahjongg-20.json](./53942-ultimate-mahjongg-20.json) |
+| Ultimate MahJongg 5 | 206055 | [206055-ultimate-mahjongg-5.json](./206055-ultimate-mahjongg-5.json) |
 | Ultimate Match 3D | 282256 | [282256-ultimate-match-3d.json](./282256-ultimate-match-3d.json) |
 | Ultimate MMA | 133385 | [133385-ultimate-mma.json](./133385-ultimate-mma.json) |
 | Ultimate Monster Trucks | 53941 | [53941-ultimate-monster-trucks.json](./53941-ultimate-monster-trucks.json) |
@@ -338,6 +340,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Panzer | 216490 | [216490-ultimate-panzer.json](./216490-ultimate-panzer.json) |
 | Ultimate Pinball | 146840 | [146840-ultimate-pinball.json](./146840-ultimate-pinball.json) |
 | Ultimate Pinball | 206621 | [206621-ultimate-pinball.json](./206621-ultimate-pinball.json) |
+| Ultimate Pinball Extreme | 206053 | [206053-ultimate-pinball-extreme.json](./206053-ultimate-pinball-extreme.json) |
+| Ultimate Pinball Gold | 206054 | [206054-ultimate-pinball-gold.json](./206054-ultimate-pinball-gold.json) |
 | Ultimate Pirates | 176809 | [176809-ultimate-pirates.json](./176809-ultimate-pirates.json) |
 | Ultimate Pro Basketball GM | 228122 | [228122-ultimate-pro-basketball-gm.json](./228122-ultimate-pro-basketball-gm.json) |
 | Ultimate Protector | 215679 | [215679-ultimate-protector.json](./215679-ultimate-protector.json) |
@@ -918,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercover | 321997 | [321997-undercover.json](./321997-undercover.json) |
 | Undercover | 403189 | [403189-undercover.json](./403189-undercover.json) |
 | Undercover AD2025 Kei | 86084 | [86084-undercover-ad2025-kei.json](./86084-undercover-ad2025-kei.json) |
+| Undercover Girlfriend | 206005 | [206005-undercover-girlfriend.json](./206005-undercover-girlfriend.json) |
 | Undercover: Blood Bonds | 225303 | [225303-undercover-blood-bonds.json](./225303-undercover-blood-bonds.json) |
 | Undercover: Dual Motives | 66379 | [66379-undercover-dual-motives.json](./66379-undercover-dual-motives.json) |
 | Undercover: Operation Wintersun | 68962 | [68962-undercover-operation-wintersun.json](./68962-undercover-operation-wintersun.json) |
@@ -1259,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unity of Command II: Stalingrad | 196058 | [196058-unity-of-command-ii-stalingrad.json](./196058-unity-of-command-ii-stalingrad.json) |
 | Unity of Command: Black Turn | 171631 | [171631-unity-of-command-black-turn.json](./171631-unity-of-command-black-turn.json) |
 | Unity to Survive | 368507 | [368507-unity-to-survive.json](./368507-unity-to-survive.json) |
+| Unity-chan no Knife Nage Master | 206047 | [206047-unity-chan-no-knife-nage-master.json](./206047-unity-chan-no-knife-nage-master.json) |
 | Unity-chan the SharpShooter! | 304899 | [304899-unity-chan-the-sharpshooter.json](./304899-unity-chan-the-sharpshooter.json) |
 | Unity-Chan: Desktop Companion | 395040 | [395040-unity-chan-desktop-companion.json](./395040-unity-chan-desktop-companion.json) |
 | Unity-chan's Action Shooting | 362813 | [362813-unity-chans-action-shooting.json](./362813-unity-chans-action-shooting.json) |
