@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Around You | 149475 | [149475-dark-around-you.json](./149475-dark-around-you.json) |
 | Dark Assassin: Trial Chambers | 339363 | [339363-dark-assassin-trial-chambers.json](./339363-dark-assassin-trial-chambers.json) |
 | Dark Astral | 263042 | [263042-dark-astral.json](./263042-dark-astral.json) |
+| Dark Atlas: Infernum | 213434 | [213434-dark-atlas-infernum.json](./213434-dark-atlas-infernum.json) |
 | Dark Auction | 264359 | [264359-dark-auction.json](./264359-dark-auction.json) |
 | Dark Avenger | 38510 | [38510-dark-avenger.json](./38510-dark-avenger.json) |
 | Dark Awake: The King Has No Name | 52183 | [52183-dark-awake-the-king-has-no-name.json](./52183-dark-awake-the-king-has-no-name.json) |
@@ -5757,6 +5758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Flight Simulator | 263558 | [263558-doctor-who-flight-simulator.json](./263558-doctor-who-flight-simulator.json) |
 | Doctor Who: Into the Vortex | 235317 | [235317-doctor-who-into-the-vortex.json](./235317-doctor-who-into-the-vortex.json) |
 | Doctor Who: Jobsworth Judoon | 301942 | [301942-doctor-who-jobsworth-judoon.json](./301942-doctor-who-jobsworth-judoon.json) |
+| Doctor Who: Lost in Time | 213285 | [213285-doctor-who-lost-in-time.json](./213285-doctor-who-lost-in-time.json) |
 | Doctor Who: Monster Invasion - Dalek Supremacy | 301937 | [301937-doctor-who-monster-invasion-dalek-supremacy.json](./301937-doctor-who-monster-invasion-dalek-supremacy.json) |
 | Doctor Who: Monster Invasion - Maze of the Dead | 301940 | [301940-doctor-who-monster-invasion-maze-of-the-dead.json](./301940-doctor-who-monster-invasion-maze-of-the-dead.json) |
 | Doctor Who: Monster Invasion - The Keys of Time | 301939 | [301939-doctor-who-monster-invasion-the-keys-of-time.json](./301939-doctor-who-monster-invasion-the-keys-of-time.json) |
@@ -6235,6 +6237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Fool Me, Beauties! | 346175 | [346175-dont-fool-me-beauties.json](./346175-dont-fool-me-beauties.json) |
 | Don't Forget Me: Deluxe Edition | 154519 | [154519-dont-forget-me-deluxe-edition.json](./154519-dont-forget-me-deluxe-edition.json) |
 | Don't Forget the Phone | 398485 | [398485-dont-forget-the-phone.json](./398485-dont-forget-the-phone.json) |
+| Don't Fraud My Heart! | 213306 | [213306-dont-fraud-my-heart.json](./213306-dont-fraud-my-heart.json) |
 | Don't Freak Part 1 | 334875 | [334875-dont-freak-part-1.json](./334875-dont-freak-part-1.json) |
 | Don't Fret | 289433 | [289433-dont-fret.json](./289433-dont-fret.json) |
 | Don't Get a Virus | 181874 | [181874-dont-get-a-virus.json](./181874-dont-get-a-virus.json) |
@@ -9494,6 +9497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duo Runner 3D | 262464 | [262464-duo-runner-3d.json](./262464-duo-runner-3d.json) |
 | DuoDuo | 234057 | [234057-duoduo.json](./234057-duoduo.json) |
 | Duolingo | 321884 | [321884-duolingo.json](./321884-duolingo.json) |
+| Duotone | 213269 | [213269-duotone.json](./213269-duotone.json) |
 | Duotrigordle | 228718 | [228718-duotrigordle.json](./228718-duotrigordle.json) |
 | Duotris | 67344 | [67344-duotris.json](./67344-duotris.json) |
 | DuoTris Online | 104120 | [104120-duotris-online.json](./104120-duotris-online.json) |
