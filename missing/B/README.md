@@ -6589,6 +6589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bones | 372636 | [372636-bones.json](./372636-bones.json) |
 | Bones 'n' Bullets | 118303 | [118303-bones-n-bullets.json](./118303-bones-n-bullets.json) |
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
+| Bones of Halloween | 221096 | [221096-bones-of-halloween.json](./221096-bones-of-halloween.json) |
 | Bones of the Earth | 362880 | [362880-bones-of-the-earth.json](./362880-bones-of-the-earth.json) |
 | Bones: Lab Panic | 58811 | [58811-bones-lab-panic.json](./58811-bones-lab-panic.json) |
 | Bones: The Game of the Haunted Mansion | 229105 | [229105-bones-the-game-of-the-haunted-mansion.json](./229105-bones-the-game-of-the-haunted-mansion.json) |
