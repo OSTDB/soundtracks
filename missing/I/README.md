@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Love | 101067 | [101067-idle-love.json](./101067-idle-love.json) |
 | Idle Luca | 193999 | [193999-idle-luca.json](./193999-idle-luca.json) |
 | Idle Lust: Succubus in Training | 340515 | [340515-idle-lust-succubus-in-training.json](./340515-idle-lust-succubus-in-training.json) |
+| Idle Maden | 174720 | [174720-idle-maden.json](./174720-idle-maden.json) |
 | Idle Mafia | 245379 | [245379-idle-mafia.json](./245379-idle-mafia.json) |
 | Idle Mage Attack | 101745 | [101745-idle-mage-attack.json](./101745-idle-mage-attack.json) |
 | Idle Magic Clicker | 248165 | [248165-idle-magic-clicker.json](./248165-idle-magic-clicker.json) |
