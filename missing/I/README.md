@@ -3508,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ittle Dew no Densetsu: Ushinawareta Reta Shima to Nazo no Shiro | 222317 | [222317-ittle-dew-no-densetsu-ushinawareta-reta-shima-to-nazo-no-shiro.json](./222317-ittle-dew-no-densetsu-ushinawareta-reta-shima-to-nazo-no-shiro.json) |
 | Itty Bitty Little Kitties | 344550 | [344550-itty-bitty-little-kitties.json](./344550-itty-bitty-little-kitties.json) |
 | Itty Bitty Tiny Town | 184892 | [184892-itty-bitty-tiny-town.json](./184892-itty-bitty-tiny-town.json) |
+| ITYH: A Horror Otome | 215187 | [215187-ityh-a-horror-otome.json](./215187-ityh-a-horror-otome.json) |
 | Iubes:2 | 76559 | [76559-iubes-2.json](./76559-iubes-2.json) |
 | Ivan | 365151 | [365151-ivan.json](./365151-ivan.json) |
 | Ivan ''Ironman'' Stewart's Super Off Road | 12735 | [12735-ivan-ironman-stewarts-super-off-road.json](./12735-ivan-ironman-stewarts-super-off-road.json) |
