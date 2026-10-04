@@ -1607,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Trip: Amazing World 3 | 382908 | [382908-adventure-trip-amazing-world-3.json](./382908-adventure-trip-amazing-world-3.json) |
 | Adventure Trip: Amazing World 3 - Collector's Edition | 283900 | [283900-adventure-trip-amazing-world-3-collectors-edition.json](./283900-adventure-trip-amazing-world-3-collectors-edition.json) |
 | Adventure Trip: New York | 416857 | [416857-adventure-trip-new-york.json](./416857-adventure-trip-new-york.json) |
+| Adventure Trip: New York - Collector's Edition | 212280 | [212280-adventure-trip-new-york-collectors-edition.json](./212280-adventure-trip-new-york-collectors-edition.json) |
 | Adventure Value Pack #2 | 77327 | [77327-adventure-value-pack-2.json](./77327-adventure-value-pack-2.json) |
 | Adventure Value Pack #3 | 78679 | [78679-adventure-value-pack-3.json](./78679-adventure-value-pack-3.json) |
 | Adventure with Firefly | 220545 | [220545-adventure-with-firefly.json](./220545-adventure-with-firefly.json) |
@@ -8287,6 +8288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atria Valkyrie | 159806 | [159806-atria-valkyrie.json](./159806-atria-valkyrie.json) |
 | Atria-1 | 191222 | [191222-atria-1.json](./191222-atria-1.json) |
 | Atrio: The Dark Wild | 121637 | [121637-atrio-the-dark-wild.json](./121637-atrio-the-dark-wild.json) |
+| Atrium Malum | 212173 | [212173-atrium-malum.json](./212173-atrium-malum.json) |
 | Atrium Mortis | 372500 | [372500-atrium-mortis.json](./372500-atrium-mortis.json) |
 | Atrocity | 113011 | [113011-atrocity.json](./113011-atrocity.json) |
 | Atrocity: Field of Hands | 75137 | [75137-atrocity-field-of-hands.json](./75137-atrocity-field-of-hands.json) |
