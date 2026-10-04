@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iCarly ipinball | 374219 | [374219-icarly-ipinball.json](./374219-icarly-ipinball.json) |
 | iCarly: Groovy Foodie! | 25187 | [25187-icarly-groovy-foodie.json](./25187-icarly-groovy-foodie.json) |
 | iCarly: iDream in Toons | 210060 | [210060-icarly-idream-in-toons.json](./210060-icarly-idream-in-toons.json) |
+| ICarly: Isock it to 'Em | 210076 | [210076-icarly-isock-it-to-em.json](./210076-icarly-isock-it-to-em.json) |
 | Icarus | 245054 | [245054-icarus.json](./245054-icarus.json) |
 | Icarus | 274674 | [274674-icarus.json](./274674-icarus.json) |
 | Icarus Challenge | 210893 | [210893-icarus-challenge.json](./210893-icarus-challenge.json) |
