@@ -2153,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Levantera: Tale of The Winds | 71598 | [71598-levantera-tale-of-the-winds.json](./71598-levantera-tale-of-the-winds.json) |
 | Levedad | 176244 | [176244-levedad.json](./176244-levedad.json) |
 | Level | 326614 | [326614-level.json](./326614-level.json) |
+| Level 24 | 175232 | [175232-level-24.json](./175232-level-24.json) |
 | Level 5 | 94001 | [94001-level-5.json](./94001-level-5.json) |
 | Level Crossing | 92088 | [92088-level-crossing.json](./92088-level-crossing.json) |
 | Level Devil | 279687 | [279687-level-devil.json](./279687-level-devil.json) |
