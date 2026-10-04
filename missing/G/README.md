@@ -1997,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters | 4534 | [4534-ghostbusters.json](./4534-ghostbusters.json) |
 | Ghostbusters II | 14552 | [14552-ghostbusters-ii.json](./14552-ghostbusters-ii.json) |
 | Ghostbusters II | 14555 | [14555-ghostbusters-ii.json](./14555-ghostbusters-ii.json) |
+| Ghostbusters II | 218947 | [218947-ghostbusters-ii.json](./218947-ghostbusters-ii.json) |
 | Ghostbusters II | 266840 | [266840-ghostbusters-ii.json](./266840-ghostbusters-ii.json) |
 | Ghostbusters Puzzle Fighter | 60235 | [60235-ghostbusters-puzzle-fighter.json](./60235-ghostbusters-puzzle-fighter.json) |
 | Ghostbusters VR: Now Hiring | 27932 | [27932-ghostbusters-vr-now-hiring.json](./27932-ghostbusters-vr-now-hiring.json) |
