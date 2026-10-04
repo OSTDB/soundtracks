@@ -4715,6 +4715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MenheRafflesia | 131584 | [131584-menherafflesia.json](./131584-menherafflesia.json) |
 | Menherafflesia Flowering Abyss | 151691 | [151691-menherafflesia-flowering-abyss.json](./151691-menherafflesia-flowering-abyss.json) |
 | Menherarium | 331675 | [331675-menherarium.json](./331675-menherarium.json) |
+| Menkyo wo Torou | 198292 | [198292-menkyo-wo-torou.json](./198292-menkyo-wo-torou.json) |
 | Menos: Precursor | 204944 | [204944-menos-precursor.json](./204944-menos-precursor.json) |
 | Menos: Psi-Shatter | 147361 | [147361-menos-psi-shatter.json](./147361-menos-psi-shatter.json) |
 | Menphis | 293929 | [293929-menphis.json](./293929-menphis.json) |
@@ -7979,6 +7980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monochrome Boo & Baby Boo: Kururin Boo | 273419 | [273419-monochrome-boo-and-baby-boo-kururin-boo.json](./273419-monochrome-boo-and-baby-boo-kururin-boo.json) |
 | Monochrome Echoes: Black | 410318 | [410318-monochrome-echoes-black.json](./410318-monochrome-echoes-black.json) |
 | Monochrome Echoes: White | 331114 | [331114-monochrome-echoes-white.json](./331114-monochrome-echoes-white.json) |
+| Monochrome Heaven | 198309 | [198309-monochrome-heaven.json](./198309-monochrome-heaven.json) |
 | Monochrome Mapping Project | 313857 | [313857-monochrome-mapping-project.json](./313857-monochrome-mapping-project.json) |
 | Monochrome Mobius: Rights and Wrongs Forgotten | 198438 | [198438-monochrome-mobius-rights-and-wrongs-forgotten.json](./198438-monochrome-mobius-rights-and-wrongs-forgotten.json) |
 | Monochrome Mobius: Rights and Wrongs Forgotten - Deluxe Edition | 247196 | [247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json](./247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json) |
@@ -9397,6 +9399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Hero | 157716 | [157716-mouse-hero.json](./157716-mouse-hero.json) |
 | Mouse in Lab | 29584 | [29584-mouse-in-lab.json](./29584-mouse-in-lab.json) |
 | Mouse Knight: A hero's rising | 315628 | [315628-mouse-knight-a-heros-rising.json](./315628-mouse-knight-a-heros-rising.json) |
+| Mouse Maze | 198291 | [198291-mouse-maze.json](./198291-mouse-maze.json) |
 | Mouse Maze - Top Brain Puzzle | 89274 | [89274-mouse-maze-top-brain-puzzle.json](./89274-mouse-maze-top-brain-puzzle.json) |
 | Mouse Mind: Secrets of Pharaon | 73808 | [73808-mouse-mind-secrets-of-pharaon.json](./73808-mouse-mind-secrets-of-pharaon.json) |
 | Mouse n' Chase | 403073 | [403073-mouse-n-chase.json](./403073-mouse-n-chase.json) |
