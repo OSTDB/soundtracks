@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Fell in Love with the Mentally Unstable Depressed Goth on Campus | 410903 | [410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json](./410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json) |
 | I Fetch Rocks | 153351 | [153351-i-fetch-rocks.json](./153351-i-fetch-rocks.json) |
 | i Fishing HD | 90811 | [90811-i-fishing-hd.json](./90811-i-fishing-hd.json) |
+| I Forgot my Coffee! | 184430 | [184430-i-forgot-my-coffee.json](./184430-i-forgot-my-coffee.json) |
 | I Fought the Lawn | 223478 | [223478-i-fought-the-lawn.json](./223478-i-fought-the-lawn.json) |
 | I Found a Cat in the Rain | 383659 | [383659-i-found-a-cat-in-the-rain.json](./383659-i-found-a-cat-in-the-rain.json) |
 | I Found Myself in a Strange House and I'm Scared | 368640 | [368640-i-found-myself-in-a-strange-house-and-im-scared.json](./368640-i-found-myself-in-a-strange-house-and-im-scared.json) |
@@ -1918,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infection: Humanity's Last Gasp | 34907 | [34907-infection-humanitys-last-gasp.json](./34907-infection-humanitys-last-gasp.json) |
 | Infecto | 89934 | [89934-infecto.json](./89934-infecto.json) |
 | Infectonator | 200728 | [200728-infectonator.json](./200728-infectonator.json) |
+| Infector | 184464 | [184464-infector.json](./184464-infector.json) |
 | Infees | 152904 | [152904-infees.json](./152904-infees.json) |
 | Inferiae | 399001 | [399001-inferiae.json](./399001-inferiae.json) |
 | Inferius | 272351 | [272351-inferius.json](./272351-inferius.json) |
@@ -2901,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inventris TD | 319009 | [319009-inventris-td.json](./319009-inventris-td.json) |
 | Invercity | 199467 | [199467-invercity.json](./199467-invercity.json) |
 | Inverness Nights | 134676 | [134676-inverness-nights.json](./134676-inverness-nights.json) |
+| Inverse | 184366 | [184366-inverse.json](./184366-inverse.json) |
 | Inverse Evolver | 192711 | [192711-inverse-evolver.json](./192711-inverse-evolver.json) |
 | Inverse Ninjas vs. The Public Domain | 277593 | [277593-inverse-ninjas-vs-the-public-domain.json](./277593-inverse-ninjas-vs-the-public-domain.json) |
 | Inversed | 310575 | [310575-inversed.json](./310575-inversed.json) |
