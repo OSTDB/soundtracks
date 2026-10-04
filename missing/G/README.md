@@ -3600,6 +3600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoombaGotchi | 318523 | [318523-goombagotchi.json](./318523-goombagotchi.json) |
 | Goombario and the Adventure of the Hot Lava Rocks | 328623 | [328623-goombario-and-the-adventure-of-the-hot-lava-rocks.json](./328623-goombario-and-the-adventure-of-the-hot-lava-rocks.json) |
 | Gooncrusher | 302113 | [302113-gooncrusher.json](./302113-gooncrusher.json) |
+| Goonect | 207212 | [207212-goonect.json](./207212-goonect.json) |
 | Goonect 2 | 400382 | [400382-goonect-2.json](./400382-goonect-2.json) |
 | Goons: Legends & Mayhem | 138643 | [138643-goons-legends-and-mayhem.json](./138643-goons-legends-and-mayhem.json) |
 | Goontang Chackalaka | 322674 | [322674-goontang-chackalaka.json](./322674-goontang-chackalaka.json) |
@@ -5181,6 +5182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Commander | 36097 | [36097-guild-commander.json](./36097-guild-commander.json) |
 | Guild Hall Adventures | 152803 | [152803-guild-hall-adventures.json](./152803-guild-hall-adventures.json) |
 | Guild Loot | 120239 | [120239-guild-loot.json](./120239-guild-loot.json) |
+| Guild Master Manager | 207200 | [207200-guild-master-manager.json](./207200-guild-master-manager.json) |
 | Guild Masters | 110317 | [110317-guild-masters.json](./110317-guild-masters.json) |
 | Guild of Darksteel | 137461 | [137461-guild-of-darksteel.json](./137461-guild-of-darksteel.json) |
 | Guild of Dungeoneering | 11447 | [11447-guild-of-dungeoneering.json](./11447-guild-of-dungeoneering.json) |
