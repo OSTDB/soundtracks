@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N3Rally | 310204 | [310204-n3rally.json](./310204-n3rally.json) |
 | N64 SP Map Jam | 300421 | [300421-n64-sp-map-jam.json](./300421-n64-sp-map-jam.json) |
 | Naals Tales | 311610 | [311610-naals-tales.json](./311610-naals-tales.json) |
+| Naàra: Contos de Resistencia | 191065 | [191065-naara-contos-de-resistencia.json](./191065-naara-contos-de-resistencia.json) |
 | Naau: The Lost Eye | 121570 | [121570-naau-the-lost-eye.json](./121570-naau-the-lost-eye.json) |
 | Nabi | 320551 | [320551-nabi.json](./320551-nabi.json) |
 | Nabokos | 185140 | [185140-nabokos.json](./185140-nabokos.json) |
