@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kartofank VR | 72358 | [72358-kartofank-vr.json](./72358-kartofank-vr.json) |
 | KartRider: Drift | 125626 | [125626-kartrider-drift.json](./125626-kartrider-drift.json) |
 | Karts With Chat | 345505 | [345505-karts-with-chat.json](./345505-karts-with-chat.json) |
+| KaRu | 195552 | [195552-karu.json](./195552-karu.json) |
 | Karumaruka Circle: Limited Edition | 167036 | [167036-karumaruka-circle-limited-edition.json](./167036-karumaruka-circle-limited-edition.json) |
 | Karumaruka Circle: Limited Edition | 339404 | [339404-karumaruka-circle-limited-edition.json](./339404-karumaruka-circle-limited-edition.json) |
 | Karyuu Jyou | 62982 | [62982-karyuu-jyou.json](./62982-karyuu-jyou.json) |
