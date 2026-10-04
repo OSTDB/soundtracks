@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You are now Possessed | 219099 | [219099-you-are-now-possessed.json](./219099-you-are-now-possessed.json) |
 | You Are Peter Shorts | 248919 | [248919-you-are-peter-shorts.json](./248919-you-are-peter-shorts.json) |
 | You Are Sick | 239671 | [239671-you-are-sick.json](./239671-you-are-sick.json) |
+| You are SpamZapper 3.1 | 210535 | [210535-you-are-spamzapper-3-1.json](./210535-you-are-spamzapper-3-1.json) |
 | You are the Apple of My Eye | 99028 | [99028-you-are-the-apple-of-my-eye.json](./99028-you-are-the-apple-of-my-eye.json) |
 | You Are the Dinner | 220733 | [220733-you-are-the-dinner.json](./220733-you-are-the-dinner.json) |
 | You Are the Hero | 362877 | [362877-you-are-the-hero.json](./362877-you-are-the-hero.json) |
@@ -997,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Tenshi | 364030 | [364030-yume-tenshi.json](./364030-yume-tenshi.json) |
 | Yume Utsutsu Dreamy | 247507 | [247507-yume-utsutsu-dreamy.json](./247507-yume-utsutsu-dreamy.json) |
 | Yume Wheeky | 229687 | [229687-yume-wheeky.json](./229687-yume-wheeky.json) |
+| Yume wo Mita | 210533 | [210533-yume-wo-mita.json](./210533-yume-wo-mita.json) |
 | Yume Wo. | 150159 | [150159-yume-wo.json](./150159-yume-wo.json) |
 | Yume-Iroiro | 166153 | [166153-yume-iroiro.json](./166153-yume-iroiro.json) |
 | Yume-san | 229710 | [229710-yume-san.json](./229710-yume-san.json) |
