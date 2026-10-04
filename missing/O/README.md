@@ -2343,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ossan Kyoushi no Joshikousei Tsuma ga Yarichin Danshi ni Netorareru Hanashi | 82996 | [82996-ossan-kyoushi-no-joshikousei-tsuma-ga-yarichin-danshi-ni-netorareru-hanashi.json](./82996-ossan-kyoushi-no-joshikousei-tsuma-ga-yarichin-danshi-ni-netorareru-hanashi.json) |
 | Osseous and Swordy | 263220 | [263220-osseous-and-swordy.json](./263220-osseous-and-swordy.json) |
 | Ostalgie: Disorder in Yugoslavia | 196151 | [196151-ostalgie-disorder-in-yugoslavia.json](./196151-ostalgie-disorder-in-yugoslavia.json) |
+| Ostalgie: Fall of the Curtain | 174152 | [174152-ostalgie-fall-of-the-curtain.json](./174152-ostalgie-fall-of-the-curtain.json) |
 | Ostalgie: The Berlin Wall | 90250 | [90250-ostalgie-the-berlin-wall.json](./90250-ostalgie-the-berlin-wall.json) |
 | Ostalgie: The Berlin Wall - Legacy of Hoxha | 172165 | [172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json](./172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json) |
 | Ostallian Core | 294298 | [294298-ostallian-core.json](./294298-ostallian-core.json) |
