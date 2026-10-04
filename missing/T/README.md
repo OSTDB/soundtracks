@@ -12583,6 +12583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toast Hell | 350556 | [350556-toast-hell.json](./350556-toast-hell.json) |
 | Toast Shooter | 260199 | [260199-toast-shooter.json](./260199-toast-shooter.json) |
 | Toast the Chicken: Hard Puzzle Game Unique Brain Teaser | 232534 | [232534-toast-the-chicken-hard-puzzle-game-unique-brain-teaser.json](./232534-toast-the-chicken-hard-puzzle-game-unique-brain-teaser.json) |
+| Toast the Ghost | 220146 | [220146-toast-the-ghost.json](./220146-toast-the-ghost.json) |
 | Toast! | 23987 | [23987-toast.json](./23987-toast.json) |
 | Toasted! | 188101 | [188101-toasted.json](./188101-toasted.json) |
 | Toaster Defense | 157144 | [157144-toaster-defense.json](./157144-toaster-defense.json) |
@@ -15446,6 +15447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traumruf | 229737 | [229737-traumruf.json](./229737-traumruf.json) |
 | Travel Along | 272905 | [272905-travel-along.json](./272905-travel-along.json) |
 | Travel Bug | 86096 | [86096-travel-bug.json](./86096-travel-bug.json) |
+| Travel Center Tycoon | 220158 | [220158-travel-center-tycoon.json](./220158-travel-center-tycoon.json) |
 | Travel Cuisine 2: Sweet Life | 358405 | [358405-travel-cuisine-2-sweet-life.json](./358405-travel-cuisine-2-sweet-life.json) |
 | Travel Cuisine 2: Sweet Life - Collector's Edition | 358422 | [358422-travel-cuisine-2-sweet-life-collectors-edition.json](./358422-travel-cuisine-2-sweet-life-collectors-edition.json) |
 | Travel Cuisine 3: The Sea of Flavours - Collector's Edition | 358404 | [358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json](./358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json) |
