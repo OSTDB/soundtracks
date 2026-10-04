@@ -5533,6 +5533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | APE | 404982 | [404982-ape.json](./404982-ape.json) |
 | Ape Academy 2 | 37047 | [37047-ape-academy-2.json](./37047-ape-academy-2.json) |
 | Ape Escape | 146296 | [146296-ape-escape.json](./146296-ape-escape.json) |
+| Ape Escape | 203212 | [203212-ape-escape.json](./203212-ape-escape.json) |
 | Ape Escape 3 | 6064 | [6064-ape-escape-3.json](./6064-ape-escape-3.json) |
 | Ape Escape 4 | 511 | [511-ape-escape-4.json](./511-ape-escape-4.json) |
 | Ape Escape Academy | 272555 | [272555-ape-escape-academy.json](./272555-ape-escape-academy.json) |
@@ -7066,6 +7067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of War: Red Tides | 26735 | [26735-art-of-war-red-tides.json](./26735-art-of-war-red-tides.json) |
 | Art Puzzle | 354421 | [354421-art-puzzle.json](./354421-art-puzzle.json) |
 | Art Rally Simulator | 420675 | [420675-art-rally-simulator.json](./420675-art-rally-simulator.json) |
+| Art School Pocket | 203214 | [203214-art-school-pocket.json](./203214-art-school-pocket.json) |
 | Art Sqool | 110421 | [110421-art-sqool.json](./110421-art-sqool.json) |
 | Art Strikers | 316070 | [316070-art-strikers.json](./316070-art-strikers.json) |
 | Art Strip Poker | 96021 | [96021-art-strip-poker.json](./96021-art-strip-poker.json) |
