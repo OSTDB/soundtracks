@@ -3415,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazes of Karradash 2 | 175430 | [175430-mazes-of-karradash-2.json](./175430-mazes-of-karradash-2.json) |
 | MazeSlug | 342788 | [342788-mazeslug.json](./342788-mazeslug.json) |
 | Mazewar | 381593 | [381593-mazewar.json](./381593-mazewar.json) |
+| Mazey Village | 191032 | [191032-mazey-village.json](./191032-mazey-village.json) |
 | MazezaM: Puzzle Game | 147358 | [147358-mazezam-puzzle-game.json](./147358-mazezam-puzzle-game.json) |
 | Maziacs | 93136 | [93136-maziacs.json](./93136-maziacs.json) |
 | Mazie | 296038 | [296038-mazie.json](./296038-mazie.json) |
@@ -6597,6 +6598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Arenas | 215596 | [215596-mini-arenas.json](./215596-mini-arenas.json) |
 | Mini Attack Submarine | 57763 | [57763-mini-attack-submarine.json](./57763-mini-attack-submarine.json) |
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
+| Mini Battle Ground | 191033 | [191033-mini-battle-ground.json](./191033-mini-battle-ground.json) |
 | Mini Car Racing | 148355 | [148355-mini-car-racing.json](./148355-mini-car-racing.json) |
 | Mini City: Mayhem | 319363 | [319363-mini-city-mayhem.json](./319363-mini-city-mayhem.json) |
 | Mini Cozy Room: Lo-Fi | 338702 | [338702-mini-cozy-room-lo-fi.json](./338702-mini-cozy-room-lo-fi.json) |
@@ -8147,6 +8149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Energy Supercross: The Official Videogame 4 - 2Stroke Bikes Pack (125) | 170942 | [170942-monster-energy-supercross-the-official-videogame-4-2stroke-bikes-pack-125.json](./170942-monster-energy-supercross-the-official-videogame-4-2stroke-bikes-pack-125.json) |
 | Monster Energy Supercross: The Official Videogame 4 - Historical Monster Energy Cup 2011 | 170943 | [170943-monster-energy-supercross-the-official-videogame-4-historical-monster-energy-cup-2011.json](./170943-monster-energy-supercross-the-official-videogame-4-historical-monster-energy-cup-2011.json) |
 | Monster Evo | 154975 | [154975-monster-evo.json](./154975-monster-evo.json) |
+| Monster Evolution | 191066 | [191066-monster-evolution.json](./191066-monster-evolution.json) |
 | Monster evolution: hit and smash | 101955 | [101955-monster-evolution-hit-and-smash.json](./101955-monster-evolution-hit-and-smash.json) |
 | Monster Fair | 218156 | [218156-monster-fair.json](./218156-monster-fair.json) |
 | Monster Feeder | 344917 | [344917-monster-feeder.json](./344917-monster-feeder.json) |
@@ -9030,6 +9033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Wrestle Fight Pro | 99991 | [99991-mortal-wrestle-fight-pro.json](./99991-mortal-wrestle-fight-pro.json) |
 | Mortality Decomp. Killers | 337999 | [337999-mortality-decomp-killers.json](./337999-mortality-decomp-killers.json) |
 | Mortality... Please | 417597 | [417597-mortality-please.json](./417597-mortality-please.json) |
+| Mortals and Monsters: Blood Orc | 191049 | [191049-mortals-and-monsters-blood-orc.json](./191049-mortals-and-monsters-blood-orc.json) |
 | Mortanis Prisoners | 244846 | [244846-mortanis-prisoners.json](./244846-mortanis-prisoners.json) |
 | Mortanum | 403658 | [403658-mortanum.json](./403658-mortanum.json) |
 | Mortar | 184402 | [184402-mortar.json](./184402-mortar.json) |
