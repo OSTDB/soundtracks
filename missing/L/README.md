@@ -4306,6 +4306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Shadow | 4980 | [4980-lost-in-shadow.json](./4980-lost-in-shadow.json) |
 | Lost in Space | 167812 | [167812-lost-in-space.json](./167812-lost-in-space.json) |
 | Lost in Space | 278408 | [278408-lost-in-space.json](./278408-lost-in-space.json) |
+| Lost In Space: infinite frontier | 183387 | [183387-lost-in-space-infinite-frontier.json](./183387-lost-in-space-infinite-frontier.json) |
 | Lost In Static | 319080 | [319080-lost-in-static.json](./319080-lost-in-static.json) |
 | Lost In Sweets | 126525 | [126525-lost-in-sweets.json](./126525-lost-in-sweets.json) |
 | Lost in the Amazon | 296057 | [296057-lost-in-the-amazon.json](./296057-lost-in-the-amazon.json) |
