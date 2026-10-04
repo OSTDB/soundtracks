@@ -2954,6 +2954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herman Electro | 137471 | [137471-herman-electro.json](./137471-herman-electro.json) |
 | Hermano | 299857 | [299857-hermano.json](./299857-hermano.json) |
 | Hermes | 94255 | [94255-hermes.json](./94255-hermes.json) |
+| Hermes & Gry: A Crooked Plan | 176308 | [176308-hermes-and-gry-a-crooked-plan.json](./176308-hermes-and-gry-a-crooked-plan.json) |
 | Hermes: The Fury of Megaera | 255245 | [255245-hermes-the-fury-of-megaera.json](./255245-hermes-the-fury-of-megaera.json) |
 | Hermes: War of the Gods | 127089 | [127089-hermes-war-of-the-gods.json](./127089-hermes-war-of-the-gods.json) |
 | Hermes' Runner | 334193 | [334193-hermes-runner.json](./334193-hermes-runner.json) |
