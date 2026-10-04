@@ -3300,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noche de Reyes | 229100 | [229100-noche-de-reyes.json](./229100-noche-de-reyes.json) |
 | Nociception: Simple Outlook From Hell | 142414 | [142414-nociception-simple-outlook-from-hell.json](./142414-nociception-simple-outlook-from-hell.json) |
 | Nociception: Voltaic Marketplace | 196130 | [196130-nociception-voltaic-marketplace.json](./196130-nociception-voltaic-marketplace.json) |
+| Nock | 193297 | [193297-nock.json](./193297-nock.json) |
 | Nock & Load | 341482 | [341482-nock-and-load.json](./341482-nock-and-load.json) |
 | Nock Nock Loose | 410307 | [410307-nock-nock-loose.json](./410307-nock-nock-loose.json) |
 | Nock: Hidden Arrow | 31389 | [31389-nock-hidden-arrow.json](./31389-nock-hidden-arrow.json) |
