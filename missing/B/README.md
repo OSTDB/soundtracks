@@ -2944,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beaver Fun | 216355 | [216355-beaver-fun.json](./216355-beaver-fun.json) |
 | Beaver Fun River Run: Steam Edition | 162715 | [162715-beaver-fun-river-run-steam-edition.json](./162715-beaver-fun-river-run-steam-edition.json) |
 | Beaver Rampage | 341543 | [341543-beaver-rampage.json](./341543-beaver-rampage.json) |
+| Bebder Game: Bebder Than the Rest | 209389 | [209389-bebder-game-bebder-than-the-rest.json](./209389-bebder-game-bebder-than-the-rest.json) |
 | Bebe Miner | 416664 | [416664-bebe-miner.json](./416664-bebe-miner.json) |
 | Beberserker | 132094 | [132094-beberserker.json](./132094-beberserker.json) |
 | Bebok Invasion | 226253 | [226253-bebok-invasion.json](./226253-bebok-invasion.json) |
@@ -9296,6 +9297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust-a-Move '99 | 44958 | [44958-bust-a-move-99.json](./44958-bust-a-move-99.json) |
 | Bust-A-Move 2: Arcade Edition | 249129 | [249129-bust-a-move-2-arcade-edition.json](./249129-bust-a-move-2-arcade-edition.json) |
 | Bust-A-Move 2: Arcade Edition | 3455 | [3455-bust-a-move-2-arcade-edition.json](./3455-bust-a-move-2-arcade-edition.json) |
+| Bust-A-Move 2X | 209377 | [209377-bust-a-move-2x.json](./209377-bust-a-move-2x.json) |
 | Bust-A-Move 3000 | 50570 | [50570-bust-a-move-3000.json](./50570-bust-a-move-3000.json) |
 | Bust-A-Move Again | 146217 | [146217-bust-a-move-again.json](./146217-bust-a-move-again.json) |
 | Bust-A-Move Again | 267008 | [267008-bust-a-move-again.json](./267008-bust-a-move-again.json) |
