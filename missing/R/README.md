@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad X | 16663 | [16663-railroad-x.json](./16663-railroad-x.json) |
 | Railroad X: Trans Europ Express VT 11.5 | 171026 | [171026-railroad-x-trans-europ-express-vt-11-5.json](./171026-railroad-x-trans-europ-express-vt-11-5.json) |
 | Railroader | 197113 | [197113-railroader.json](./197113-railroader.json) |
+| Railroads of America | 197733 | [197733-railroads-of-america.json](./197733-railroads-of-america.json) |
 | Railroads Online: Explorer DLC | 332801 | [332801-railroads-online-explorer-dlc.json](./332801-railroads-online-explorer-dlc.json) |
 | Railroads Online: Extended Edition | 331852 | [331852-railroads-online-extended-edition.json](./331852-railroads-online-extended-edition.json) |
 | Railroads Online: Pioneer DLC | 332799 | [332799-railroads-online-pioneer-dlc.json](./332799-railroads-online-pioneer-dlc.json) |
@@ -3211,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrograde | 40932 | [40932-retrograde.json](./40932-retrograde.json) |
 | Retrograde Arena: Arms Race Pack | 226966 | [226966-retrograde-arena-arms-race-pack.json](./226966-retrograde-arena-arms-race-pack.json) |
 | Retrograde Arena: Deathmatch Pack | 226967 | [226967-retrograde-arena-deathmatch-pack.json](./226967-retrograde-arena-deathmatch-pack.json) |
+| Retrogram | 197742 | [197742-retrogram.json](./197742-retrogram.json) |
 | Retrojam 3 | 384214 | [384214-retrojam-3.json](./384214-retrojam-3.json) |
 | Retrojam 4 | 384216 | [384216-retrojam-4.json](./384216-retrojam-4.json) |
 | Retrojam I | 314285 | [314285-retrojam-i.json](./314285-retrojam-i.json) |
@@ -3508,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
 | Rewind 99 | 374207 | [374207-rewind-99.json](./374207-rewind-99.json) |
 | Rewind or Die | 244116 | [244116-rewind-or-die.json](./244116-rewind-or-die.json) |
+| Rewind: One Last Chance | 197736 | [197736-rewind-one-last-chance.json](./197736-rewind-one-last-chance.json) |
 | Rewindead | 382756 | [382756-rewindead.json](./382756-rewindead.json) |
 | ReWire | 348839 | [348839-rewire.json](./348839-rewire.json) |
 | Rework | 310507 | [310507-rework.json](./310507-rework.json) |
@@ -3632,6 +3635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythmy | 116315 | [116315-rhythmy.json](./116315-rhythmy.json) |
 | Rhyup | 113899 | [113899-rhyup.json](./113899-rhyup.json) |
 | Ri Ri Ye Ye | 150515 | [150515-ri-ri-ye-ye.json](./150515-ri-ri-ye-ye.json) |
+| Ria Action Adventure | 197737 | [197737-ria-action-adventure.json](./197737-ria-action-adventure.json) |
 | Ria's Hook | 95213 | [95213-rias-hook.json](./95213-rias-hook.json) |
 | Riaaf the Spider | 44114 | [44114-riaaf-the-spider.json](./44114-riaaf-the-spider.json) |
 | Riana Rouge | 3713 | [3713-riana-rouge.json](./3713-riana-rouge.json) |
@@ -6516,6 +6520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune in the Three Kingdoms | 278674 | [278674-rune-in-the-three-kingdoms.json](./278674-rune-in-the-three-kingdoms.json) |
 | Rune Legacy Idle | 377598 | [377598-rune-legacy-idle.json](./377598-rune-legacy-idle.json) |
 | Rune Raiders | 22327 | [22327-rune-raiders.json](./22327-rune-raiders.json) |
+| Rune Ranker | 197722 | [197722-rune-ranker.json](./197722-rune-ranker.json) |
 | Rune Rhetoric | 280902 | [280902-rune-rhetoric.json](./280902-rune-rhetoric.json) |
 | Rune Stones | 304656 | [304656-rune-stones.json](./304656-rune-stones.json) |
 | Rune Tavern | 407341 | [407341-rune-tavern.json](./407341-rune-tavern.json) |
