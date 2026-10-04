@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Hours | 383559 | [383559-late-hours.json](./383559-late-hours.json) |
 | Late Ming Fly Guy | 339904 | [339904-late-ming-fly-guy.json](./339904-late-ming-fly-guy.json) |
 | Late Night 1320 | 115654 | [115654-late-night-1320.json](./115654-late-night-1320.json) |
+| Late Night Breakfast | 178991 | [178991-late-night-breakfast.json](./178991-late-night-breakfast.json) |
 | Late Night Delivery: The Bewitched Collection | 260290 | [260290-late-night-delivery-the-bewitched-collection.json](./260290-late-night-delivery-the-bewitched-collection.json) |
 | Late Night Mop | 218953 | [218953-late-night-mop.json](./218953-late-night-mop.json) |
 | Late Night Mop: Minimum Wage | 376605 | [376605-late-night-mop-minimum-wage.json](./376605-late-night-mop-minimum-wage.json) |
@@ -3069,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Busters! | 7364 | [7364-little-busters.json](./7364-little-busters.json) |
 | Little Busters! Converted Edition | 127796 | [127796-little-busters-converted-edition.json](./127796-little-busters-converted-edition.json) |
 | Little Busters! Perfect Edition: TV Anime Commemorative Edition | 291075 | [291075-little-busters-perfect-edition-tv-anime-commemorative-edition.json](./291075-little-busters-perfect-edition-tv-anime-commemorative-edition.json) |
+| Little By Little By Little | 178992 | [178992-little-by-little-by-little.json](./178992-little-by-little-by-little.json) |
 | Little Caesars Fractions Pizza | 77302 | [77302-little-caesars-fractions-pizza.json](./77302-little-caesars-fractions-pizza.json) |
 | Little Cat Doctor | 300846 | [300846-little-cat-doctor.json](./300846-little-cat-doctor.json) |
 | Little Cells | 28110 | [28110-little-cells.json](./28110-little-cells.json) |
@@ -4315,6 +4317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Reefs: Antarctic | 30934 | [30934-lost-in-reefs-antarctic.json](./30934-lost-in-reefs-antarctic.json) |
 | Lost in Shadow | 4980 | [4980-lost-in-shadow.json](./4980-lost-in-shadow.json) |
 | Lost in Space | 167812 | [167812-lost-in-space.json](./167812-lost-in-space.json) |
+| Lost in Space | 179026 | [179026-lost-in-space.json](./179026-lost-in-space.json) |
 | Lost in Space | 278408 | [278408-lost-in-space.json](./278408-lost-in-space.json) |
 | Lost In Space: infinite frontier | 183387 | [183387-lost-in-space-infinite-frontier.json](./183387-lost-in-space-infinite-frontier.json) |
 | Lost In Static | 319080 | [319080-lost-in-static.json](./319080-lost-in-static.json) |
