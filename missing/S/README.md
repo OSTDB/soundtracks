@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.X.E. Slider | 298247 | [298247-s-x-e-slider.json](./298247-s-x-e-slider.json) |
 | S.X.E. Slider: Dungeons | 311617 | [311617-s-x-e-slider-dungeons.json](./311617-s-x-e-slider-dungeons.json) |
 | S&T: Medieval Wars | 239107 | [239107-s-and-t-medieval-wars.json](./239107-s-and-t-medieval-wars.json) |
+| S&T: Medieval Wars Deluxe | 197716 | [197716-s-and-t-medieval-wars-deluxe.json](./197716-s-and-t-medieval-wars-deluxe.json) |
 | S0 | 129633 | [129633-s0.json](./129633-s0.json) |
 | S2: Silent Storm | 79956 | [79956-s2-silent-storm.json](./79956-s2-silent-storm.json) |
 | S4Game | 213463 | [213463-s4game.json](./213463-s4game.json) |
@@ -1076,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarara's Little Shop | 61564 | [61564-sararas-little-shop.json](./61564-sararas-little-shop.json) |
 | Saratoga | 297605 | [297605-saratoga.json](./297605-saratoga.json) |
 | Sarawak | 132677 | [132677-sarawak.json](./132677-sarawak.json) |
+| Sarcoph | 197697 | [197697-sarcoph.json](./197697-sarcoph.json) |
 | Sarcophaser | 54719 | [54719-sarcophaser.json](./54719-sarcophaser.json) |
 | Sare Inception | 120931 | [120931-sare-inception.json](./120931-sare-inception.json) |
 | Sargasso | 261544 | [261544-sargasso.json](./261544-sargasso.json) |
@@ -1364,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara Wild Hearts | 333020 | [333020-sayonara-wild-hearts.json](./333020-sayonara-wild-hearts.json) |
 | Sayonara, Utsutsu. | 260977 | [260977-sayonara-utsutsu.json](./260977-sayonara-utsutsu.json) |
 | Sayori Shoots Up The Literature Club | 257531 | [257531-sayori-shoots-up-the-literature-club.json](./257531-sayori-shoots-up-the-literature-club.json) |
+| Sbaceball | 197700 | [197700-sbaceball.json](./197700-sbaceball.json) |
 | SBK 2011: Superbike World Championship | 41583 | [41583-sbk-2011-superbike-world-championship.json](./41583-sbk-2011-superbike-world-championship.json) |
 | SBK-08: Superbike World Championship | 264881 | [264881-sbk-08-superbike-world-championship.json](./264881-sbk-08-superbike-world-championship.json) |
 | Sblobber 64 | 145456 | [145456-sblobber-64.json](./145456-sblobber-64.json) |
@@ -1738,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorpion Overdrive | 193464 | [193464-scorpion-overdrive.json](./193464-scorpion-overdrive.json) |
 | Scorpion's Curse | 295376 | [295376-scorpions-curse.json](./295376-scorpions-curse.json) |
 | Scotch Broom | 118448 | [118448-scotch-broom.json](./118448-scotch-broom.json) |
+| Scotland Yard | 197725 | [197725-scotland-yard.json](./197725-scotland-yard.json) |
 | Scotland Yard | 209023 | [209023-scotland-yard.json](./209023-scotland-yard.json) |
 | Scotland Yard | 73862 | [73862-scotland-yard.json](./73862-scotland-yard.json) |
 | Scotland Yard Interactive | 46567 | [46567-scotland-yard-interactive.json](./46567-scotland-yard-interactive.json) |
@@ -3901,6 +3905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapeland | 366298 | [366298-shapeland.json](./366298-shapeland.json) |
 | ShapeNeon Chaos | 157119 | [157119-shapeneon-chaos.json](./157119-shapeneon-chaos.json) |
 | Shapeo | 327437 | [327437-shapeo.json](./327437-shapeo.json) |
+| ShapeOminoes | 197721 | [197721-shapeominoes.json](./197721-shapeominoes.json) |
 | Shaper | 240810 | [240810-shaper.json](./240810-shaper.json) |
 | ShapeR | 204936 | [204936-shaper.json](./204936-shaper.json) |
 | Shaper Runners | 231903 | [231903-shaper-runners.json](./231903-shaper-runners.json) |
@@ -4933,6 +4938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoujo Minority: Nagisa Another Day | 409797 | [409797-shoujo-minority-nagisa-another-day.json](./409797-shoujo-minority-nagisa-another-day.json) |
 | Shoujo Minority: Nagusame no Ai | 194607 | [194607-shoujo-minority-nagusame-no-ai.json](./194607-shoujo-minority-nagusame-no-ai.json) |
 | Should I Buy It? | 180818 | [180818-should-i-buy-it.json](./180818-should-i-buy-it.json) |
+| Should Shoot | 197714 | [197714-should-shoot.json](./197714-should-shoot.json) |
 | Shoulder-Mounted Space Program | 373533 | [373533-shoulder-mounted-space-program.json](./373533-shoulder-mounted-space-program.json) |
 | Shouldermen | 293651 | [293651-shouldermen.json](./293651-shouldermen.json) |
 | Shoulders of Giants: Ultimate | 309111 | [309111-shoulders-of-giants-ultimate.json](./309111-shoulders-of-giants-ultimate.json) |
@@ -10422,6 +10428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Station Escape | 282636 | [282636-space-station-escape.json](./282636-space-station-escape.json) |
 | Space Station Loma: Operations | 29841 | [29841-space-station-loma-operations.json](./29841-space-station-loma-operations.json) |
 | Space Station Proto Speedmap Jam | 300420 | [300420-space-station-proto-speedmap-jam.json](./300420-space-station-proto-speedmap-jam.json) |
+| Space Station Racer | 197698 | [197698-space-station-racer.json](./197698-space-station-racer.json) |
 | Space Station Sprint | 141140 | [141140-space-station-sprint.json](./141140-space-station-sprint.json) |
 | Space Stella: The Unknown Planet | 187468 | [187468-space-stella-the-unknown-planet.json](./187468-space-stella-the-unknown-planet.json) |
 | Space Stone Smashing Simulator | 396582 | [396582-space-stone-smashing-simulator.json](./396582-space-stone-smashing-simulator.json) |
@@ -14622,6 +14629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter: Duel | 142490 | [142490-street-fighter-duel.json](./142490-street-fighter-duel.json) |
 | Street Fighting Grandma | 252264 | [252264-street-fighting-grandma.json](./252264-street-fighting-grandma.json) |
 | Street Food Restaurant Owner | 327979 | [327979-street-food-restaurant-owner.json](./327979-street-food-restaurant-owner.json) |
+| Street Food South East Asia | 197699 | [197699-street-food-south-east-asia.json](./197699-street-food-south-east-asia.json) |
 | Street Football | 169301 | [169301-street-football.json](./169301-street-football.json) |
 | Street Football | 21476 | [21476-street-football.json](./21476-street-football.json) |
 | Street Football 2 | 268209 | [268209-street-football-2.json](./268209-street-football-2.json) |
@@ -15276,6 +15284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Scapes | 105969 | [105969-sudoku-scapes.json](./105969-sudoku-scapes.json) |
 | Sudoku Starry Sky | 154574 | [154574-sudoku-starry-sky.json](./154574-sudoku-starry-sky.json) |
 | Sudoku Student | 84912 | [84912-sudoku-student.json](./84912-sudoku-student.json) |
+| Sudoku Sweeper | 197720 | [197720-sudoku-sweeper.json](./197720-sudoku-sweeper.json) |
 | Sudoku to 3-Tsu no Puzzle: Nikoli no Puzzle Variety | 222313 | [222313-sudoku-to-3-tsu-no-puzzle-nikoli-no-puzzle-variety.json](./222313-sudoku-to-3-tsu-no-puzzle-nikoli-no-puzzle-variety.json) |
 | Sudoku Touch | 88415 | [88415-sudoku-touch.json](./88415-sudoku-touch.json) |
 | Sudoku Universe | 121747 | [121747-sudoku-universe.json](./121747-sudoku-universe.json) |
