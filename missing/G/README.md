@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GB Studio's 5th Anniversary | 316682 | [316682-gb-studios-5th-anniversary.json](./316682-gb-studios-5th-anniversary.json) |
 | GB Wordyl | 229081 | [229081-gb-wordyl.json](./229081-gb-wordyl.json) |
 | GBA Championship Basketball: Two-on-Two | 12114 | [12114-gba-championship-basketball-two-on-two.json](./12114-gba-championship-basketball-two-on-two.json) |
+| GbDices | 184461 | [184461-gbdices.json](./184461-gbdices.json) |
 | GBox: The Puzzle Collection | 107014 | [107014-gbox-the-puzzle-collection.json](./107014-gbox-the-puzzle-collection.json) |
 | GDO Masters | 180016 | [180016-gdo-masters.json](./180016-gdo-masters.json) |
 | Ge-Sen Love Plus Pengo! | 61571 | [61571-ge-sen-love-plus-pengo.json](./61571-ge-sen-love-plus-pengo.json) |
