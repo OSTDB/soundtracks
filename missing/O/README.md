@@ -2860,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ovation | 392461 | [392461-ovation.json](./392461-ovation.json) |
 | Oven Dodgers | 281395 | [281395-oven-dodgers.json](./281395-oven-dodgers.json) |
 | OvenBreak | 284436 | [284436-ovenbreak.json](./284436-ovenbreak.json) |
+| OvenBreak 2 | 198314 | [198314-ovenbreak-2.json](./198314-ovenbreak-2.json) |
 | Over 1000 Jigsaw Puzzles | 228409 | [228409-over-1000-jigsaw-puzzles.json](./228409-over-1000-jigsaw-puzzles.json) |
 | Over blood | 208898 | [208898-over-blood.json](./208898-over-blood.json) |
 | Over Circle | 161223 | [161223-over-circle.json](./161223-over-circle.json) |
