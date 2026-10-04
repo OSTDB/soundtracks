@@ -5153,6 +5153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gal Mahjong | 124074 | [124074-the-gal-mahjong.json](./124074-the-gal-mahjong.json) |
 | The Galactic Junkers | 204410 | [204410-the-galactic-junkers.json](./204410-the-galactic-junkers.json) |
 | The Galactic Plague | 13000 | [13000-the-galactic-plague.json](./13000-the-galactic-plague.json) |
+| The Gallagher Case | 213843 | [213843-the-gallagher-case.json](./213843-the-gallagher-case.json) |
 | The Gallery | 337081 | [337081-the-gallery.json](./337081-the-gallery.json) |
 | The Gallery: Episode 1 - Call of the Starseed | 36432 | [36432-the-gallery-episode-1-call-of-the-starseed.json](./36432-the-gallery-episode-1-call-of-the-starseed.json) |
 | The Gallery: Episode 2 - Heart of the Emberstone | 68173 | [68173-the-gallery-episode-2-heart-of-the-emberstone.json](./68173-the-gallery-episode-2-heart-of-the-emberstone.json) |
@@ -6003,6 +6004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Onion Ring | 329575 | [329575-the-jumping-onion-ring.json](./329575-the-jumping-onion-ring.json) |
 | The Jumping Orange 3 | 373563 | [373563-the-jumping-orange-3.json](./373563-the-jumping-orange-3.json) |
 | The Jumping Pasta | 214012 | [214012-the-jumping-pasta.json](./214012-the-jumping-pasta.json) |
+| The Jumping Pasta: Turbo | 214011 | [214011-the-jumping-pasta-turbo.json](./214011-the-jumping-pasta-turbo.json) |
 | The Jumping Pizza | 202771 | [202771-the-jumping-pizza.json](./202771-the-jumping-pizza.json) |
 | The Jumping Pumpkin | 218555 | [218555-the-jumping-pumpkin.json](./218555-the-jumping-pumpkin.json) |
 | The Jumping Pumpkin: Halloween Edition | 222805 | [222805-the-jumping-pumpkin-halloween-edition.json](./222805-the-jumping-pumpkin-halloween-edition.json) |
@@ -9626,6 +9628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Untouchable | 62285 | [62285-the-untouchable.json](./62285-the-untouchable.json) |
 | The Untouchable Man | 302391 | [302391-the-untouchable-man.json](./302391-the-untouchable-man.json) |
 | The Untouchables | 12807 | [12807-the-untouchables.json](./12807-the-untouchables.json) |
+| The Untouchables | 213865 | [213865-the-untouchables.json](./213865-the-untouchables.json) |
 | The Unwoven Unicorn | 410367 | [410367-the-unwoven-unicorn.json](./410367-the-unwoven-unicorn.json) |
 | The Ur-Quan Masters | 46575 | [46575-the-ur-quan-masters.json](./46575-the-ur-quan-masters.json) |
 | The Urinal Game | 60050 | [60050-the-urinal-game.json](./60050-the-urinal-game.json) |
@@ -10820,6 +10823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thy Dungeonman II | 135846 | [135846-thy-dungeonman-ii.json](./135846-thy-dungeonman-ii.json) |
 | Thy Knights of Climbalot | 109675 | [109675-thy-knights-of-climbalot.json](./109675-thy-knights-of-climbalot.json) |
 | Thymesia | 145028 | [145028-thymesia.json](./145028-thymesia.json) |
+| Thymesia: Digital Deluxe Edition | 213994 | [213994-thymesia-digital-deluxe-edition.json](./213994-thymesia-digital-deluxe-edition.json) |
 | Thyranya | 329134 | [329134-thyranya.json](./329134-thyranya.json) |
 | Thysiastery | 334695 | [334695-thysiastery.json](./334695-thysiastery.json) |
 | Tia.Sav | 113884 | [113884-tia-sav.json](./113884-tia-sav.json) |
@@ -12217,6 +12221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Kings | 344548 | [344548-tiny-kings.json](./344548-tiny-kings.json) |
 | Tiny Kitchen: Sandwich Edition | 380113 | [380113-tiny-kitchen-sandwich-edition.json](./380113-tiny-kitchen-sandwich-edition.json) |
 | Tiny Knight | 33472 | [33472-tiny-knight.json](./33472-tiny-knight.json) |
+| Tiny Landlord | 213996 | [213996-tiny-landlord.json](./213996-tiny-landlord.json) |
 | Tiny Lands: Expansion Pack 1 | 231288 | [231288-tiny-lands-expansion-pack-1.json](./231288-tiny-lands-expansion-pack-1.json) |
 | Tiny Lands: Expansion Pack 3 | 289943 | [289943-tiny-lands-expansion-pack-3.json](./289943-tiny-lands-expansion-pack-3.json) |
 | Tiny Legends | 373725 | [373725-tiny-legends.json](./373725-tiny-legends.json) |
