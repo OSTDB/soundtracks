@@ -1800,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Medieval | 71795 | [71795-get-medieval.json](./71795-get-medieval.json) |
 | Get Money | 57049 | [57049-get-money.json](./57049-get-money.json) |
 | Get Mushi Club: Minna no Konchuu Daizukan | 153816 | [153816-get-mushi-club-minna-no-konchuu-daizukan.json](./153816-get-mushi-club-minna-no-konchuu-daizukan.json) |
+| Get Off My Space! | 192233 | [192233-get-off-my-space.json](./192233-get-off-my-space.json) |
 | Get Off Work | 379031 | [379031-get-off-work.json](./379031-get-off-work.json) |
 | Get Ogre It | 141747 | [141747-get-ogre-it.json](./141747-get-ogre-it.json) |
 | Get on Slime Level | 393614 | [393614-get-on-slime-level.json](./393614-get-on-slime-level.json) |
