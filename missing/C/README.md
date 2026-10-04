@@ -5648,6 +5648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Reactors | 330142 | [330142-code-reactors.json](./330142-code-reactors.json) |
 | Code Red | 101757 | [101757-code-red.json](./101757-code-red.json) |
 | Code Red | 224083 | [224083-code-red.json](./224083-code-red.json) |
+| Code Rivals | 211126 | [211126-code-rivals.json](./211126-code-rivals.json) |
 | Code Romantic | 105104 | [105104-code-romantic.json](./105104-code-romantic.json) |
 | Code Tracer | 124227 | [124227-code-tracer.json](./124227-code-tracer.json) |
 | Code Trainer | 338871 | [338871-code-trainer.json](./338871-code-trainer.json) |
