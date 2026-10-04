@@ -3169,6 +3169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seth | 278380 | [278380-seth.json](./278380-seth.json) |
 | Seth Johnson's Sink or Skim | 82144 | [82144-seth-johnsons-sink-or-skim.json](./82144-seth-johnsons-sink-or-skim.json) |
 | Sethian | 26160 | [26160-sethian.json](./26160-sethian.json) |
+| Setr's Auto Battler | 182289 | [182289-setrs-auto-battler.json](./182289-setrs-auto-battler.json) |
 | Sets | 304222 | [304222-sets.json](./304222-sets.json) |
 | Setsugekka | 163363 | [163363-setsugekka.json](./163363-setsugekka.json) |
 | Setsuna ni Kakeru Koi Hanabi | 302683 | [302683-setsuna-ni-kakeru-koi-hanabi.json](./302683-setsuna-ni-kakeru-koi-hanabi.json) |
@@ -4083,6 +4084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatterhand | 48648 | [48648-shatterhand.json](./48648-shatterhand.json) |
 | Shatterhold | 406135 | [406135-shatterhold.json](./406135-shatterhold.json) |
 | Shatterspace | 197395 | [197395-shatterspace.json](./197395-shatterspace.json) |
+| Shattle | 182189 | [182189-shattle.json](./182189-shattle.json) |
 | Shaun Palmer's Pro Snowboarder | 248602 | [248602-shaun-palmers-pro-snowboarder.json](./248602-shaun-palmers-pro-snowboarder.json) |
 | Shaun Palmer's Pro Snowboarder | 248603 | [248603-shaun-palmers-pro-snowboarder.json](./248603-shaun-palmers-pro-snowboarder.json) |
 | Shaun Palmer's Pro Snowboarder | 3995 | [3995-shaun-palmers-pro-snowboarder.json](./3995-shaun-palmers-pro-snowboarder.json) |
@@ -18227,6 +18229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sven Rescues a Princess | 415195 | [415195-sven-rescues-a-princess.json](./415195-sven-rescues-a-princess.json) |
 | Sven-Göran Eriksson's World Manager | 136991 | [136991-sven-goran-erikssons-world-manager.json](./136991-sven-goran-erikssons-world-manager.json) |
 | Sven: Completely Screwed | 247619 | [247619-sven-completely-screwed.json](./247619-sven-completely-screwed.json) |
+| Sven's SudokuPad | 182196 | [182196-svens-sudokupad.json](./182196-svens-sudokupad.json) |
 | Sverigespelet | 300684 | [300684-sverigespelet.json](./300684-sverigespelet.json) |
 | Sveta Sky AI | 408200 | [408200-sveta-sky-ai.json](./408200-sveta-sky-ai.json) |
 | SVETIK | 394507 | [394507-svetik.json](./394507-svetik.json) |
@@ -18528,6 +18531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swifter | 346770 | [346770-swifter.json](./346770-swifter.json) |
 | Swiftle | 327426 | [327426-swiftle.json](./327426-swiftle.json) |
 | Swiggart's Last Will | 252810 | [252810-swiggarts-last-will.json](./252810-swiggarts-last-will.json) |
+| Swigridova kletba | 182294 | [182294-swigridova-kletba.json](./182294-swigridova-kletba.json) |
 | Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
 | Swimcraft | 410911 | [410911-swimcraft.json](./410911-swimcraft.json) |
 | Swimmer Away | 347354 | [347354-swimmer-away.json](./347354-swimmer-away.json) |
