@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty Boy | 40990 | [40990-naughty-boy.json](./40990-naughty-boy.json) |
 | Naughty College 18+ | 258984 | [258984-naughty-college-18.json](./258984-naughty-college-18.json) |
 | Naughty Kitties | 19593 | [19593-naughty-kitties.json](./19593-naughty-kitties.json) |
+| Naughty Monster Story | 174692 | [174692-naughty-monster-story.json](./174692-naughty-monster-story.json) |
 | Naughty Nurse | 416844 | [416844-naughty-nurse.json](./416844-naughty-nurse.json) |
 | Naughty Tales of Rabbits: A Cuckold RPG | 301986 | [301986-naughty-tales-of-rabbits-a-cuckold-rpg.json](./301986-naughty-tales-of-rabbits-a-cuckold-rpg.json) |
 | Naughty Young Wife | 97937 | [97937-naughty-young-wife.json](./97937-naughty-young-wife.json) |
@@ -1063,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekketsu Tairiku: Burning Heroes | 15935 | [15935-nekketsu-tairiku-burning-heroes.json](./15935-nekketsu-tairiku-burning-heroes.json) |
 | Nekkyuu Koushien | 46137 | [46137-nekkyuu-koushien.json](./46137-nekkyuu-koushien.json) |
 | Neko | 78965 | [78965-neko.json](./78965-neko.json) |
+| Neko Album | 174704 | [174704-neko-album.json](./174704-neko-album.json) |
 | Neko Atsume VR | 68317 | [68317-neko-atsume-vr.json](./68317-neko-atsume-vr.json) |
 | Neko Atsume: Kitty Collector+ | 240858 | [240858-neko-atsume-kitty-collector.json](./240858-neko-atsume-kitty-collector.json) |
 | Neko Bento | 324136 | [324136-neko-bento.json](./324136-neko-bento.json) |
