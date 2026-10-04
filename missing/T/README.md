@@ -7344,6 +7344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mysterious Case of Dr. Jekyll & Mr. Hyde | 197946 | [197946-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./197946-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
 | The Mysterious Case of Dr. Jekyll & Mr. Hyde | 82157 | [82157-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./82157-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
 | The Mysterious Case of Dr.Jekyll and Mr.Hyde | 147945 | [147945-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./147945-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
+| The Mysterious Mine Bouncin' Back Edition | 222344 | [222344-the-mysterious-mine-bouncin-back-edition.json](./222344-the-mysterious-mine-bouncin-back-edition.json) |
 | The Mysterious Misadventures of Mollie & Mordecai | 191120 | [191120-the-mysterious-misadventures-of-mollie-and-mordecai.json](./191120-the-mysterious-misadventures-of-mollie-and-mordecai.json) |
 | The Mystery at Greveholm | 84217 | [84217-the-mystery-at-greveholm.json](./84217-the-mystery-at-greveholm.json) |
 | The Mystery Cleaner | 204690 | [204690-the-mystery-cleaner.json](./204690-the-mystery-cleaner.json) |
@@ -12420,6 +12421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNT: Threevilution | 316174 | [316174-tnt-threevilution.json](./316174-tnt-threevilution.json) |
 | TNT! | 118978 | [118978-tnt.json](./118978-tnt.json) |
 | TNTPhobia | 311461 | [311461-tntphobia.json](./311461-tntphobia.json) |
+| To Aerthen | 222350 | [222350-to-aerthen.json](./222350-to-aerthen.json) |
 | To Akimon | 115462 | [115462-to-akimon.json](./115462-to-akimon.json) |
 | To Altare | 281418 | [281418-to-altare.json](./281418-to-altare.json) |
 | To and Fro | 312163 | [312163-to-and-fro.json](./312163-to-and-fro.json) |
@@ -12679,6 +12681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokachi Detective: The Balloon Case | 342889 | [342889-tokachi-detective-the-balloon-case.json](./342889-tokachi-detective-the-balloon-case.json) |
 | Tokage Metro GB | 349947 | [349947-tokage-metro-gb.json](./349947-tokage-metro-gb.json) |
 | Tokatonton: One-Armed Blacksmith | 368606 | [368606-tokatonton-one-armed-blacksmith.json](./368606-tokatonton-one-armed-blacksmith.json) |
+| Tokeijikake no Apocalypse | 222204 | [222204-tokeijikake-no-apocalypse.json](./222204-tokeijikake-no-apocalypse.json) |
 | Tokens | 394444 | [394444-tokens.json](./394444-tokens.json) |
 | Tokeru Fuuka to Shirousagi | 411105 | [411105-tokeru-fuuka-to-shirousagi.json](./411105-tokeru-fuuka-to-shirousagi.json) |
 | Toki | 12228 | [12228-toki.json](./12228-toki.json) |
@@ -13636,6 +13639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Battle Tank SP | 55908 | [55908-touch-battle-tank-sp.json](./55908-touch-battle-tank-sp.json) |
 | Touch Carrom: Striker Edition | 239887 | [239887-touch-carrom-striker-edition.json](./239887-touch-carrom-striker-edition.json) |
 | Touch de Zuno DS | 58164 | [58164-touch-de-zuno-ds.json](./58164-touch-de-zuno-ds.json) |
+| Touch Detective 3 | 222362 | [222362-touch-detective-3.json](./222362-touch-detective-3.json) |
 | Touch Detective 3 + The Complete Case Files | 222231 | [222231-touch-detective-3-the-complete-case-files.json](./222231-touch-detective-3-the-complete-case-files.json) |
 | Touch Down Football Solitaire | 108077 | [108077-touch-down-football-solitaire.json](./108077-touch-down-football-solitaire.json) |
 | Touch Fish | 348258 | [348258-touch-fish.json](./348258-touch-fish.json) |
