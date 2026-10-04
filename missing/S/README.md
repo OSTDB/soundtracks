@@ -7903,6 +7903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowball Go Go Go | 247208 | [247208-snowball-go-go-go.json](./247208-snowball-go-go-go.json) |
 | Snowball Run | 93156 | [93156-snowball-run.json](./93156-snowball-run.json) |
 | Snowball.io | 231898 | [231898-snowball-io.json](./231898-snowball-io.json) |
+| Snowballs | 221083 | [221083-snowballs.json](./221083-snowballs.json) |
 | Snowbird Solitaire | 354998 | [354998-snowbird-solitaire.json](./354998-snowbird-solitaire.json) |
 | Snowblind Aces | 216239 | [216239-snowblind-aces.json](./216239-snowblind-aces.json) |
 | Snowboard Champion | 280844 | [280844-snowboard-champion.json](./280844-snowboard-champion.json) |
@@ -13612,6 +13613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steno Arcade | 33369 | [33369-steno-arcade.json](./33369-steno-arcade.json) |
 | Step | 360115 | [360115-step.json](./360115-step.json) |
 | Step Away | 369037 | [369037-step-away.json](./369037-step-away.json) |
+| Step By Step Hero | 221099 | [221099-step-by-step-hero.json](./221099-step-by-step-hero.json) |
 | Step into the Abyss | 298123 | [298123-step-into-the-abyss.json](./298123-step-into-the-abyss.json) |
 | Step Into the Dark | 400365 | [400365-step-into-the-dark.json](./400365-step-into-the-dark.json) |
 | Step Journey | 215711 | [215711-step-journey.json](./215711-step-journey.json) |
@@ -18410,6 +18412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symbiotic Love | 159361 | [159361-symbiotic-love.json](./159361-symbiotic-love.json) |
 | Symbol | 229930 | [229930-symbol.json](./229930-symbol.json) |
 | Symbol Link | 264219 | [264219-symbol-link.json](./264219-symbol-link.json) |
+| Symbol Sudoku | 221101 | [221101-symbol-sudoku.json](./221101-symbol-sudoku.json) |
 | symeCu8e | 90620 | [90620-symecu8e.json](./90620-symecu8e.json) |
 | Symmetrain | 123074 | [123074-symmetrain.json](./123074-symmetrain.json) |
 | Symmetry - Drawing Puzzles | 101090 | [101090-symmetry-drawing-puzzles.json](./101090-symmetry-drawing-puzzles.json) |
