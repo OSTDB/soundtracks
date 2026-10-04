@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacksepticeye's 1 Million Subscriber YouTube Party Massacre | 252770 | [252770-jacksepticeyes-1-million-subscriber-youtube-party-massacre.json](./252770-jacksepticeyes-1-million-subscriber-youtube-party-massacre.json) |
 | Jacksmith: Weapons and Warriors | 337075 | [337075-jacksmith-weapons-and-warriors.json](./337075-jacksmith-weapons-and-warriors.json) |
 | Jackson | 40192 | [40192-jackson.json](./40192-jackson.json) |
+| Jacktus Green: The Fluffy, the Spiky and the Spicy | 208826 | [208826-jacktus-green-the-fluffy-the-spiky-and-the-spicy.json](./208826-jacktus-green-the-fluffy-the-spiky-and-the-spicy.json) |
 | Jacmena | 391789 | [391789-jacmena.json](./391789-jacmena.json) |
 | Jacob | 33314 | [33314-jacob.json](./33314-jacob.json) |
 | Jacob Jazz's Tamarindo's Freaking Dinner | 378811 | [378811-jacob-jazzs-tamarindos-freaking-dinner.json](./378811-jacob-jazzs-tamarindos-freaking-dinner.json) |
