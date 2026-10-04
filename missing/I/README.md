@@ -3424,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Came From The Orgone Chamber | 393649 | [393649-it-came-from-the-orgone-chamber.json](./393649-it-came-from-the-orgone-chamber.json) |
 | It Came From Within | 197203 | [197203-it-came-from-within.json](./197203-it-came-from-within.json) |
 | IT Clicker: Dinosaur in the Code World | 251002 | [251002-it-clicker-dinosaur-in-the-code-world.json](./251002-it-clicker-dinosaur-in-the-code-world.json) |
+| It Devours Our Souls | 184956 | [184956-it-devours-our-souls.json](./184956-it-devours-our-souls.json) |
 | It Doesn't Have to Be Like This | 299125 | [299125-it-doesnt-have-to-be-like-this.json](./299125-it-doesnt-have-to-be-like-this.json) |
 | It Feeds | 207220 | [207220-it-feeds.json](./207220-it-feeds.json) |
 | It Girl | 338731 | [338731-it-girl.json](./338731-it-girl.json) |
