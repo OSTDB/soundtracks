@@ -5966,6 +5966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquatico | 199129 | [199129-aquatico.json](./199129-aquatico.json) |
 | Aquatics Hentai Babes | 157717 | [157717-aquatics-hentai-babes.json](./157717-aquatics-hentai-babes.json) |
 | Aquatopia | 44601 | [44601-aquatopia.json](./44601-aquatopia.json) |
+| Aquatron | 172456 | [172456-aquatron.json](./172456-aquatron.json) |
 | Aquattack | 12293 | [12293-aquattack.json](./12293-aquattack.json) |
 | Aquaventura | 14263 | [14263-aquaventura.json](./14263-aquaventura.json) |
 | Aquaventure | 11117 | [11117-aquaventure.json](./11117-aquaventure.json) |
@@ -8559,6 +8560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack Strategy: Battle Simulator Accurate | 276947 | [276947-attack-strategy-battle-simulator-accurate.json](./276947-attack-strategy-battle-simulator-accurate.json) |
 | Attack Tactic | 226224 | [226224-attack-tactic.json](./226224-attack-tactic.json) |
 | Attack the Light! | 22555 | [22555-attack-the-light.json](./22555-attack-the-light.json) |
+| Attack UFO | 172546 | [172546-attack-ufo.json](./172546-attack-ufo.json) |
 | Attack UFO | 250498 | [250498-attack-ufo.json](./250498-attack-ufo.json) |
 | Attack: Helicopter Simulator 2020 | 171077 | [171077-attack-helicopter-simulator-2020.json](./171077-attack-helicopter-simulator-2020.json) |
 | Attack! | 356281 | [356281-attack.json](./356281-attack.json) |
