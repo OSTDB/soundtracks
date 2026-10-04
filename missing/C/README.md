@@ -3019,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charge | 120992 | [120992-charge.json](./120992-charge.json) |
 | Charge Cycles | 183976 | [183976-charge-cycles.json](./183976-charge-cycles.json) |
 | Charge Up | 413091 | [413091-charge-up.json](./413091-charge-up.json) |
+| Charge! | 219101 | [219101-charge.json](./219101-charge.json) |
 | Charge! | 380071 | [380071-charge.json](./380071-charge.json) |
 | Charge! Tank Squad | 59392 | [59392-charge-tank-squad.json](./59392-charge-tank-squad.json) |
 | Charged! | 258736 | [258736-charged.json](./258736-charged.json) |
@@ -4384,6 +4385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciel Nosurge | 24929 | [24929-ciel-nosurge.json](./24929-ciel-nosurge.json) |
 | Ciel Nosurge: Ushinawareta Hoshi e Sasagu Shi Agent Pack | 89869 | [89869-ciel-nosurge-ushinawareta-hoshi-e-sasagu-shi-agent-pack.json](./89869-ciel-nosurge-ushinawareta-hoshi-e-sasagu-shi-agent-pack.json) |
 | Ciel Nosurge: Ushinawareta Hoshi e Sasagu Uta DX | 139995 | [139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json](./139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json) |
+| CielClou | 219103 | [219103-cielclou.json](./219103-cielclou.json) |
 | Cielcrosia: Seal of the Lewd Curse | 82864 | [82864-cielcrosia-seal-of-the-lewd-curse.json](./82864-cielcrosia-seal-of-the-lewd-curse.json) |
 | Cielle Is Not Happy | 402277 | [402277-cielle-is-not-happy.json](./402277-cielle-is-not-happy.json) |
 | Cielo | 181292 | [181292-cielo.json](./181292-cielo.json) |
@@ -4928,6 +4930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Jigsaw Puzzles: Forest Jigsaw Puzzles | 162203 | [162203-classic-jigsaw-puzzles-forest-jigsaw-puzzles.json](./162203-classic-jigsaw-puzzles-forest-jigsaw-puzzles.json) |
 | Classic Jigsaw Puzzles: House | 162200 | [162200-classic-jigsaw-puzzles-house.json](./162200-classic-jigsaw-puzzles-house.json) |
 | Classic Jigsaw Puzzles: Puppy | 162201 | [162201-classic-jigsaw-puzzles-puppy.json](./162201-classic-jigsaw-puzzles-puppy.json) |
+| Classic Journey | 219109 | [219109-classic-journey.json](./219109-classic-journey.json) |
 | Classic Journey: Nitro | 219175 | [219175-classic-journey-nitro.json](./219175-classic-journey-nitro.json) |
 | Classic Kakuro | 206972 | [206972-classic-kakuro.json](./206972-classic-kakuro.json) |
 | Classic Mario World: The Magic Crystals | 191909 | [191909-classic-mario-world-the-magic-crystals.json](./191909-classic-mario-world-the-magic-crystals.json) |
