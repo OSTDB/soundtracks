@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain's Love Memory | 117087 | [117087-rains-love-memory.json](./117087-rains-love-memory.json) |
 | Rain98 | 339805 | [339805-rain98.json](./339805-rain98.json) |
 | Rainblocks | 212297 | [212297-rainblocks.json](./212297-rainblocks.json) |
+| Rainbow | 196629 | [196629-rainbow.json](./196629-rainbow.json) |
 | Rainbow | 359417 | [359417-rainbow.json](./359417-rainbow.json) |
 | Rainbow Aliceland | 206725 | [206725-rainbow-aliceland.json](./206725-rainbow-aliceland.json) |
 | Rainbow Billy: The Book of Fears | 391844 | [391844-rainbow-billy-the-book-of-fears.json](./391844-rainbow-billy-the-book-of-fears.json) |
@@ -5549,6 +5550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolly Rails | 345701 | [345701-rolly-rails.json](./345701-rolly-rails.json) |
 | Rolly's Adventure | 119560 | [119560-rollys-adventure.json](./119560-rollys-adventure.json) |
 | Rolo to the Rescue | 46200 | [46200-rolo-to-the-rescue.json](./46200-rolo-to-the-rescue.json) |
+| Roly Poly | 196669 | [196669-roly-poly.json](./196669-roly-poly.json) |
 | Roly Poly Putt | 251663 | [251663-roly-poly-putt.json](./251663-roly-poly-putt.json) |
 | Roly Poly Roundup | 396415 | [396415-roly-poly-roundup.json](./396415-roly-poly-roundup.json) |
 | Roly-Polo | 158575 | [158575-roly-polo.json](./158575-roly-polo.json) |
