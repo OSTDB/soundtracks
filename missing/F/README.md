@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
 | Factotum 90 | 21317 | [21317-factotum-90.json](./21317-factotum-90.json) |
 | Fade Into Darkness | 63841 | [63841-fade-into-darkness.json](./63841-fade-into-darkness.json) |
+| Fade Master 3D: Barber Shop | 224045 | [224045-fade-master-3d-barber-shop.json](./224045-fade-master-3d-barber-shop.json) |
 | Fade Out | 118292 | [118292-fade-out.json](./118292-fade-out.json) |
 | Fade: A Ghost Story | 307742 | [307742-fade-a-ghost-story.json](./307742-fade-a-ghost-story.json) |
 | Fade^2 | 279889 | [279889-fade-2.json](./279889-fade-2.json) |
@@ -2398,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Moore | 127015 | [127015-fighting-moore.json](./127015-fighting-moore.json) |
 | Fighting Network Rings | 44825 | [44825-fighting-network-rings.json](./44825-fighting-network-rings.json) |
 | Fighting of School | 306953 | [306953-fighting-of-school.json](./306953-fighting-of-school.json) |
+| Fighting Pride: The Manny Pacquiao Saga | 224047 | [224047-fighting-pride-the-manny-pacquiao-saga.json](./224047-fighting-pride-the-manny-pacquiao-saga.json) |
 | Fighting Rogue | 358487 | [358487-fighting-rogue.json](./358487-fighting-rogue.json) |
 | Fighting Simulator | 326423 | [326423-fighting-simulator.json](./326423-fighting-simulator.json) |
 | Fighting Simulator: 2 in 1 Flying Warriors | 64795 | [64795-fighting-simulator-2-in-1-flying-warriors.json](./64795-fighting-simulator-2-in-1-flying-warriors.json) |
