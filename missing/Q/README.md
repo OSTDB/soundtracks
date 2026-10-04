@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuiVr Vanguard | 111696 | [111696-quivr-vanguard.json](./111696-quivr-vanguard.json) |
 | Quixotic | 408244 | [408244-quixotic.json](./408244-quixotic.json) |
 | Quixzel Rush Halloween Party | 180048 | [180048-quixzel-rush-halloween-party.json](./180048-quixzel-rush-halloween-party.json) |
+| Quixzel Rush Pumpkin Bash | 180061 | [180061-quixzel-rush-pumpkin-bash.json](./180061-quixzel-rush-pumpkin-bash.json) |
 | Quixzel Rush: Halloween Party | 109880 | [109880-quixzel-rush-halloween-party.json](./109880-quixzel-rush-halloween-party.json) |
 | Quixzel Rush: Pumpkin Bash | 109883 | [109883-quixzel-rush-pumpkin-bash.json](./109883-quixzel-rush-pumpkin-bash.json) |
 | Quiz & Learn: Animals | 366216 | [366216-quiz-and-learn-animals.json](./366216-quiz-and-learn-animals.json) |
