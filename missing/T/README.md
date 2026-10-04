@@ -7123,6 +7123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Village: Monster Sect | 358474 | [358474-the-lost-village-monster-sect.json](./358474-the-lost-village-monster-sect.json) |
 | The Lost Village: Monster Sect Part 2 | 358475 | [358475-the-lost-village-monster-sect-part-2.json](./358475-the-lost-village-monster-sect-part-2.json) |
 | The Lost Weld | 197385 | [197385-the-lost-weld.json](./197385-the-lost-weld.json) |
+| The Lost Wild | 182290 | [182290-the-lost-wild.json](./182290-the-lost-wild.json) |
 | The Lost World | 246345 | [246345-the-lost-world.json](./246345-the-lost-world.json) |
 | The Lost World: Jurassic Park | 147441 | [147441-the-lost-world-jurassic-park.json](./147441-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 147442 | [147442-the-lost-world-jurassic-park.json](./147442-the-lost-world-jurassic-park.json) |
@@ -8293,6 +8294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rich King | 351163 | [351163-the-rich-king.json](./351163-the-rich-king.json) |
 | The Riches of Agrabah with Disney | 243818 | [243818-the-riches-of-agrabah-with-disney.json](./243818-the-riches-of-agrabah-with-disney.json) |
 | The Richmond Rut: In Search of Fenton | 252677 | [252677-the-richmond-rut-in-search-of-fenton.json](./252677-the-richmond-rut-in-search-of-fenton.json) |
+| The Riddle of Blossom Island | 182293 | [182293-the-riddle-of-blossom-island.json](./182293-the-riddle-of-blossom-island.json) |
 | The Riddle Room | 53782 | [53782-the-riddle-room.json](./53782-the-riddle-room.json) |
 | The Riddle Room 2 | 53781 | [53781-the-riddle-room-2.json](./53781-the-riddle-room-2.json) |
 | The Ridiculous Hat | 100351 | [100351-the-ridiculous-hat.json](./100351-the-ridiculous-hat.json) |
