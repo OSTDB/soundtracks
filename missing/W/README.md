@@ -1524,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Dance | 20580 | [20580-we-dance.json](./20580-we-dance.json) |
 | We Die | 169849 | [169849-we-die.json](./169849-we-die.json) |
 | We don't die here | 212281 | [212281-we-dont-die-here.json](./212281-we-dont-die-here.json) |
+| We Don't Talk About It | 177294 | [177294-we-dont-talk-about-it.json](./177294-we-dont-talk-about-it.json) |
 | We Dream Standing Up | 228097 | [228097-we-dream-standing-up.json](./228097-we-dream-standing-up.json) |
 | We Dwell in Possibility | 186633 | [186633-we-dwell-in-possibility.json](./186633-we-dwell-in-possibility.json) |
 | We Escape Together | 373719 | [373719-we-escape-together.json](./373719-we-escape-together.json) |
@@ -1989,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What a Ball | 225727 | [225727-what-a-ball.json](./225727-what-a-ball.json) |
 | What A Legend | 239306 | [239306-what-a-legend.json](./239306-what-a-legend.json) |
 | What a Shitty Job | 348869 | [348869-what-a-shitty-job.json](./348869-what-a-shitty-job.json) |
+| What Awaits Us Below | 177295 | [177295-what-awaits-us-below.json](./177295-what-awaits-us-below.json) |
 | What Beats Rock | 309019 | [309019-what-beats-rock.json](./309019-what-beats-rock.json) |
 | What Belongs?Find Hidden Words | 232057 | [232057-what-belongs-find-hidden-words.json](./232057-what-belongs-find-hidden-words.json) |
 | What Body? | 281385 | [281385-what-body.json](./281385-what-body.json) |
@@ -2416,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whismie | 394472 | [394472-whismie.json](./394472-whismie.json) |
 | Whisper | 132706 | [132706-whisper.json](./132706-whisper.json) |
 | Whisper Forest | 304611 | [304611-whisper-forest.json](./304611-whisper-forest.json) |
+| Whisper in the Dark | 177349 | [177349-whisper-in-the-dark.json](./177349-whisper-in-the-dark.json) |
 | Whisper Of The Curse | 287706 | [287706-whisper-of-the-curse.json](./287706-whisper-of-the-curse.json) |
 | Whisper of the House | 312555 | [312555-whisper-of-the-house.json](./312555-whisper-of-the-house.json) |
 | Whisper of the Shade: Gray | 338372 | [338372-whisper-of-the-shade-gray.json](./338372-whisper-of-the-shade-gray.json) |
@@ -2593,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Shot James R. Burnside? | 302493 | [302493-who-shot-james-r-burnside.json](./302493-who-shot-james-r-burnside.json) |
 | Who Stole Me? | 247168 | [247168-who-stole-me.json](./247168-who-stole-me.json) |
 | Who Stole My Beard? | 132747 | [132747-who-stole-my-beard.json](./132747-who-stole-my-beard.json) |
+| Who Stole My Bone? | 177361 | [177361-who-stole-my-bone.json](./177361-who-stole-my-bone.json) |
 | Who Tied Me to the Rocket? | 199965 | [199965-who-tied-me-to-the-rocket.json](./199965-who-tied-me-to-the-rocket.json) |
 | Who Wants to Be a Hypnoslut? | 263668 | [263668-who-wants-to-be-a-hypnoslut.json](./263668-who-wants-to-be-a-hypnoslut.json) |
 | Who Wants to Be a Millionaire | 210722 | [210722-who-wants-to-be-a-millionaire.json](./210722-who-wants-to-be-a-millionaire.json) |
@@ -4757,6 +4761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worst Shop in Town | 405073 | [405073-worst-shop-in-town.json](./405073-worst-shop-in-town.json) |
 | Worst World | 186608 | [186608-worst-world.json](./186608-worst-world.json) |
 | Worth Life | 152369 | [152369-worth-life.json](./152369-worth-life.json) |
+| Worth Waiting | 177364 | [177364-worth-waiting.json](./177364-worth-waiting.json) |
 | WortWechsel | 58232 | [58232-wortwechsel.json](./58232-wortwechsel.json) |
 | Woten DX: Traveller's Dream | 220723 | [220723-woten-dx-travellers-dream.json](./220723-woten-dx-travellers-dream.json) |
 | Would You Like to Run an Idol Café? 3 | 259531 | [259531-would-you-like-to-run-an-idol-cafe-3.json](./259531-would-you-like-to-run-an-idol-cafe-3.json) |
