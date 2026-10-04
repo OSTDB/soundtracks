@@ -780,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Gladius - Relics of War: Adepta Sororitas | 230812 | [230812-warhammer-40-000-gladius-relics-of-war-adepta-sororitas.json](./230812-warhammer-40-000-gladius-relics-of-war-adepta-sororitas.json) |
 | Warhammer 40,000: Gladius - Relics of War: Adeptus Mechanicus | 186891 | [186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json](./186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json) |
 | Warhammer 40,000: Gladius - Relics of War: Craftworld Aeldari | 148965 | [148965-warhammer-40-000-gladius-relics-of-war-craftworld-aeldari.json](./148965-warhammer-40-000-gladius-relics-of-war-craftworld-aeldari.json) |
+| Warhammer 40,000: Gladius - Relics of War: Escalation Pack | 223542 | [223542-warhammer-40-000-gladius-relics-of-war-escalation-pack.json](./223542-warhammer-40-000-gladius-relics-of-war-escalation-pack.json) |
 | Warhammer 40,000: Gladius - Relics of War: Firepower Pack | 250912 | [250912-warhammer-40-000-gladius-relics-of-war-firepower-pack.json](./250912-warhammer-40-000-gladius-relics-of-war-firepower-pack.json) |
 | Warhammer 40,000: Gladius - T'au | 148958 | [148958-warhammer-40-000-gladius-tau.json](./148958-warhammer-40-000-gladius-tau.json) |
 | Warhammer 40,000: Inquisitor - Martyr | 11364 | [11364-warhammer-40-000-inquisitor-martyr.json](./11364-warhammer-40-000-inquisitor-martyr.json) |
