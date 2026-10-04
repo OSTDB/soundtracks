@@ -1076,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electric Trains | 197741 | [197741-electric-trains.json](./197741-electric-trains.json) |
 | Electrician Simulator | 118473 | [118473-electrician-simulator.json](./118473-electrician-simulator.json) |
 | Electrician Simulator: Smart Devices | 245991 | [245991-electrician-simulator-smart-devices.json](./245991-electrician-simulator-smart-devices.json) |
+| Electricman 2: The Tournament of Voltagen | 195021 | [195021-electricman-2-the-tournament-of-voltagen.json](./195021-electricman-2-the-tournament-of-voltagen.json) |
 | ElectricScribe | 44222 | [44222-electricscribe.json](./44222-electricscribe.json) |
 | Electrified | 168238 | [168238-electrified.json](./168238-electrified.json) |
 | Electro Air Hockey | 323960 | [323960-electro-air-hockey.json](./323960-electro-air-hockey.json) |
