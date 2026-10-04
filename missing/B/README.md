@@ -4800,6 +4800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacklight: Tango Down | 8481 | [8481-blacklight-tango-down.json](./8481-blacklight-tango-down.json) |
 | Blacklist Mafia | 293098 | [293098-blacklist-mafia.json](./293098-blacklist-mafia.json) |
 | Blacklode | 416674 | [416674-blacklode.json](./416674-blacklode.json) |
+| Blackmoon Prophecy II | 222977 | [222977-blackmoon-prophecy-ii.json](./222977-blackmoon-prophecy-ii.json) |
 | Blackmoor 2: The Traitor King | 130791 | [130791-blackmoor-2-the-traitor-king.json](./130791-blackmoor-2-the-traitor-king.json) |
 | Blackout | 148342 | [148342-blackout.json](./148342-blackout.json) |
 | Blackout | 162428 | [162428-blackout.json](./162428-blackout.json) |
@@ -5955,6 +5956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Angelo | 18253 | [18253-blue-angelo.json](./18253-blue-angelo.json) |
 | Blue Angelo: Angels from the Shrine | 66051 | [66051-blue-angelo-angels-from-the-shrine.json](./66051-blue-angelo-angels-from-the-shrine.json) |
 | Blue Archive | 139391 | [139391-blue-archive.json](./139391-blue-archive.json) |
+| Blue Bird Land Ep 2. | 222953 | [222953-blue-bird-land-ep-2.json](./222953-blue-bird-land-ep-2.json) |
 | Blue Bird's Song | 275346 | [275346-blue-birds-song.json](./275346-blue-birds-song.json) |
 | Blue Blaster Fandisc: Claudia Dakkan Sakusen | 408312 | [408312-blue-blaster-fandisc-claudia-dakkan-sakusen.json](./408312-blue-blaster-fandisc-claudia-dakkan-sakusen.json) |
 | Blue Blaze Maze | 96080 | [96080-blue-blaze-maze.json](./96080-blue-blaze-maze.json) |
