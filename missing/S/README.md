@@ -1664,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scientific Project: Optic | 258431 | [258431-scientific-project-optic.json](./258431-scientific-project-optic.json) |
 | Scientific Shutdown | 156123 | [156123-scientific-shutdown.json](./156123-scientific-shutdown.json) |
 | Scientific Terms Extreme | 107125 | [107125-scientific-terms-extreme.json](./107125-scientific-terms-extreme.json) |
+| Scientifically Accurate Dinosaur Mating Simulator 2021 | 189012 | [189012-scientifically-accurate-dinosaur-mating-simulator-2021.json](./189012-scientifically-accurate-dinosaur-mating-simulator-2021.json) |
 | Scientifically Accurate Dinosaur Mating Simulator 2022: American Revolution 1775 - 1786 | 219624 | [219624-scientifically-accurate-dinosaur-mating-simulator-2022-american-revolution-1775-1786.json](./219624-scientifically-accurate-dinosaur-mating-simulator-2022-american-revolution-1775-1786.json) |
 | Scientifically Accurate Dinosaur Mating Simulator 2022: American Revolution 1775 - 1786: Scientifically Accurate Dinosaur Mating Simulator 2023: French Revolution 1789 - 1799 | 254042 | [254042-scientifically-accurate-dinosaur-mating-simulator-2022-american-revolution-1775-1786-scientifically-accurate-dinosaur-mating-simulator-2023-french-revolution-1789-1799.json](./254042-scientifically-accurate-dinosaur-mating-simulator-2022-american-revolution-1775-1786-scientifically-accurate-dinosaur-mating-simulator-2023-french-revolution-1789-1799.json) |
 | Scientist and Alchemist | 413140 | [413140-scientist-and-alchemist.json](./413140-scientist-and-alchemist.json) |
@@ -7706,6 +7707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake on Dope | 194303 | [194303-snake-on-dope.json](./194303-snake-on-dope.json) |
 | Snake Party | 29906 | [29906-snake-party.json](./29906-snake-party.json) |
 | Snake Pass | 19220 | [19220-snake-pass.json](./19220-snake-pass.json) |
+| Snake Pit | 188996 | [188996-snake-pit.json](./188996-snake-pit.json) |
 | Snake Pit | 24011 | [24011-snake-pit.json](./24011-snake-pit.json) |
 | Snake Plissken's Escape | 67295 | [67295-snake-plisskens-escape.json](./67295-snake-plisskens-escape.json) |
 | Snake Princess | 350536 | [350536-snake-princess.json](./350536-snake-princess.json) |
@@ -8868,6 +8870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Conquest: Vanir | 319147 | [319147-songs-of-conquest-vanir.json](./319147-songs-of-conquest-vanir.json) |
 | Songs of Death | 236888 | [236888-songs-of-death.json](./236888-songs-of-death.json) |
 | Songs of Everjade | 275083 | [275083-songs-of-everjade.json](./275083-songs-of-everjade.json) |
+| Songs of Glimmerwick | 189014 | [189014-songs-of-glimmerwick.json](./189014-songs-of-glimmerwick.json) |
 | Songs of Silence: Celestial Church Expansion | 383020 | [383020-songs-of-silence-celestial-church-expansion.json](./383020-songs-of-silence-celestial-church-expansion.json) |
 | Songs of Silence: Complete Edition | 403559 | [403559-songs-of-silence-complete-edition.json](./403559-songs-of-silence-complete-edition.json) |
 | Songs of Skydale | 119032 | [119032-songs-of-skydale.json](./119032-songs-of-skydale.json) |
@@ -9662,6 +9665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Calibur Mobile | 372102 | [372102-soul-calibur-mobile.json](./372102-soul-calibur-mobile.json) |
 | Soul Catcher: The Moon Coliseum | 366384 | [366384-soul-catcher-the-moon-coliseum.json](./366384-soul-catcher-the-moon-coliseum.json) |
 | Soul Chained | 348392 | [348392-soul-chained.json](./348392-soul-chained.json) |
+| Soul Climb | 189007 | [189007-soul-climb.json](./189007-soul-climb.json) |
 | Soul Delivery | 167591 | [167591-soul-delivery.json](./167591-soul-delivery.json) |
 | Soul Demon Hunters | 371977 | [371977-soul-demon-hunters.json](./371977-soul-demon-hunters.json) |
 | Soul Destiny | 125967 | [125967-soul-destiny.json](./125967-soul-destiny.json) |
@@ -10609,6 +10613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceforce: Captains | 20783 | [20783-spaceforce-captains.json](./20783-spaceforce-captains.json) |
 | SpaceFrog VR | 113844 | [113844-spacefrog-vr.json](./113844-spacefrog-vr.json) |
 | SpaceFront | 275713 | [275713-spacefront.json](./275713-spacefront.json) |
+| SpaceGaze | 188982 | [188982-spacegaze.json](./188982-spacegaze.json) |
 | Spacegirl | 147367 | [147367-spacegirl.json](./147367-spacegirl.json) |
 | Spacegirl 2038 | 159836 | [159836-spacegirl-2038.json](./159836-spacegirl-2038.json) |
 | Spacegore | 404967 | [404967-spacegore.json](./404967-spacegore.json) |
@@ -11359,6 +11364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spies & Soldiers | 132796 | [132796-spies-and-soldiers.json](./132796-spies-and-soldiers.json) |
 | Spies in the Night | 256770 | [256770-spies-in-the-night.json](./256770-spies-in-the-night.json) |
 | Spiiiders | 61596 | [61596-spiiiders.json](./61596-spiiiders.json) |
+| Spikair Volleyball | 188995 | [188995-spikair-volleyball.json](./188995-spikair-volleyball.json) |
 | Spike | 174628 | [174628-spike.json](./174628-spike.json) |
 | Spike | 70349 | [70349-spike.json](./70349-spike.json) |
 | Spike a Love Story | 391207 | [391207-spike-a-love-story.json](./391207-spike-a-love-story.json) |
@@ -17972,6 +17978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive Into Night | 155504 | [155504-survive-into-night.json](./155504-survive-into-night.json) |
 | Survive Isolation | 150503 | [150503-survive-isolation.json](./150503-survive-isolation.json) |
 | Survive It: Frozen | 285512 | [285512-survive-it-frozen.json](./285512-survive-it-frozen.json) |
+| Survive Lviv | 189009 | [189009-survive-lviv.json](./189009-survive-lviv.json) |
 | Survive Now | 240724 | [240724-survive-now.json](./240724-survive-now.json) |
 | Survive on Raft | 125851 | [125851-survive-on-raft.json](./125851-survive-on-raft.json) |
 | Survive or Thrive | 148521 | [148521-survive-or-thrive.json](./148521-survive-or-thrive.json) |
