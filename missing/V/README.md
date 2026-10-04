@@ -1052,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Videocart-26: Alien Invasion | 18604 | [18604-videocart-26-alien-invasion.json](./18604-videocart-26-alien-invasion.json) |
 | Videocart-27: Pac-Man | 245385 | [245385-videocart-27-pac-man.json](./245385-videocart-27-pac-man.json) |
 | Videoclub Simulator | 339093 | [339093-videoclub-simulator.json](./339093-videoclub-simulator.json) |
+| Videogame Heardle | 203193 | [203193-videogame-heardle.json](./203193-videogame-heardle.json) |
 | VideoHole: Episode 1 | 132757 | [132757-videohole-episode-1.json](./132757-videohole-episode-1.json) |
 | VideoHole: Episode II | 235886 | [235886-videohole-episode-ii.json](./235886-videohole-episode-ii.json) |
 | Videomation | 18309 | [18309-videomation.json](./18309-videomation.json) |
