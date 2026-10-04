@@ -6229,6 +6229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Daze | 251088 | [251088-arcade-daze.json](./251088-arcade-daze.json) |
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
 | Arcade Fusion Bundle | 300764 | [300764-arcade-fusion-bundle.json](./300764-arcade-fusion-bundle.json) |
+| Arcade Galaxy | 182311 | [182311-arcade-galaxy.json](./182311-arcade-galaxy.json) |
 | Arcade Galaxy | 346596 | [346596-arcade-galaxy.json](./346596-arcade-galaxy.json) |
 | Arcade Galaxy Builder | 263998 | [263998-arcade-galaxy-builder.json](./263998-arcade-galaxy-builder.json) |
 | Arcade Game Construction Kit | 44125 | [44125-arcade-game-construction-kit.json](./44125-arcade-game-construction-kit.json) |
@@ -8678,6 +8679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Mechanic | 167164 | [167164-auto-mechanic.json](./167164-auto-mechanic.json) |
 | Auto Modellista | 3791 | [3791-auto-modellista.json](./3791-auto-modellista.json) |
 | Auto Museum 64 | 182903 | [182903-auto-museum-64.json](./182903-auto-museum-64.json) |
+| Auto Puzzle Defense | 182292 | [182292-auto-puzzle-defense.json](./182292-auto-puzzle-defense.json) |
 | Auto Race | 245572 | [245572-auto-race.json](./245572-auto-race.json) |
 | Auto Racing | 246505 | [246505-auto-racing.json](./246505-auto-racing.json) |
 | Auto Racing | 5659 | [5659-auto-racing.json](./5659-auto-racing.json) |
