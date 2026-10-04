@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Band Space | 223432 | [223432-band-space.json](./223432-band-space.json) |
 | Band Together | 358417 | [358417-band-together.json](./358417-band-together.json) |
 | Band Wagon | 91435 | [91435-band-wagon.json](./91435-band-wagon.json) |
+| Band Yarouze! | 175680 | [175680-band-yarouze.json](./175680-band-yarouze.json) |
 | Bandage on my right cheek | 28087 | [28087-bandage-on-my-right-cheek.json](./28087-bandage-on-my-right-cheek.json) |
 | Bandana City | 93067 | [93067-bandana-city.json](./93067-bandana-city.json) |
 | Bandeirantes: The Game. | 347348 | [347348-bandeirantes-the-game.json](./347348-bandeirantes-the-game.json) |
@@ -1214,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarian Souls | 81793 | [81793-barbarian-souls.json](./81793-barbarian-souls.json) |
 | Barbarian Trash | 110827 | [110827-barbarian-trash.json](./110827-barbarian-trash.json) |
 | Barbarians & Beasts | 277971 | [277971-barbarians-and-beasts.json](./277971-barbarians-and-beasts.json) |
+| Barbarians Nations: Battle for freedom | 175749 | [175749-barbarians-nations-battle-for-freedom.json](./175749-barbarians-nations-battle-for-freedom.json) |
 | Barbarium | 200559 | [200559-barbarium.json](./200559-barbarium.json) |
 | Barbarization | 311491 | [311491-barbarization.json](./311491-barbarization.json) |
 | Barbarossa Remake | 255664 | [255664-barbarossa-remake.json](./255664-barbarossa-remake.json) |
@@ -2306,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield Hardline: Robbery | 18024 | [18024-battlefield-hardline-robbery.json](./18024-battlefield-hardline-robbery.json) |
 | Battlefield Hardline: Ultimate Edition | 52638 | [52638-battlefield-hardline-ultimate-edition.json](./52638-battlefield-hardline-ultimate-edition.json) |
 | Battlefield Mobile | 174893 | [174893-battlefield-mobile.json](./174893-battlefield-mobile.json) |
+| Battlefield of Eternal | 175681 | [175681-battlefield-of-eternal.json](./175681-battlefield-of-eternal.json) |
 | Battlefield Online | 353 | [353-battlefield-online.json](./353-battlefield-online.json) |
 | Battlefield Priest | 211427 | [211427-battlefield-priest.json](./211427-battlefield-priest.json) |
 | Battlefield REDSEC | 371393 | [371393-battlefield-redsec.json](./371393-battlefield-redsec.json) |
@@ -2722,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Mode: Night of the Werewolf Silver Bullet Edition | 273113 | [273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json](./273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json) |
 | Beast Modon | 108063 | [108063-beast-modon.json](./108063-beast-modon.json) |
 | Beast OL | 358509 | [358509-beast-ol.json](./358509-beast-ol.json) |
+| Beast Quest: Ultimate Heroes | 175761 | [175761-beast-quest-ultimate-heroes.json](./175761-beast-quest-ultimate-heroes.json) |
 | Beast Survivor | 374792 | [374792-beast-survivor.json](./374792-beast-survivor.json) |
 | Beast Unleashed | 349460 | [349460-beast-unleashed.json](./349460-beast-unleashed.json) |
 | Beast Whalers | 192685 | [192685-beast-whalers.json](./192685-beast-whalers.json) |
@@ -2776,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Demon | 364644 | [364644-beat-demon.json](./364644-beat-demon.json) |
 | Beat Down: Fists of Vengeance | 5745 | [5745-beat-down-fists-of-vengeance.json](./5745-beat-down-fists-of-vengeance.json) |
 | Beat Dungeon | 180596 | [180596-beat-dungeon.json](./180596-beat-dungeon.json) |
+| Beat Fantasy | 175758 | [175758-beat-fantasy.json](./175758-beat-fantasy.json) |
 | Beat Feet | 369635 | [369635-beat-feet.json](./369635-beat-feet.json) |
 | Beat Fever: Music Tap Rhythm Game | 82995 | [82995-beat-fever-music-tap-rhythm-game.json](./82995-beat-fever-music-tap-rhythm-game.json) |
 | Beat Hazard 3 | 199447 | [199447-beat-hazard-3.json](./199447-beat-hazard-3.json) |
@@ -4584,6 +4589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitten! | 146235 | [146235-bitten.json](./146235-bitten.json) |
 | Bitter | 217336 | [217336-bitter.json](./217336-bitter.json) |
 | Bitter Dream | 319660 | [319660-bitter-dream.json](./319660-bitter-dream.json) |
+| Bitter End | 175682 | [175682-bitter-end.json](./175682-bitter-end.json) |
 | Bitter Sweet Memories | 177906 | [177906-bitter-sweet-memories.json](./177906-bitter-sweet-memories.json) |
 | Bitter Tides | 106404 | [106404-bitter-tides.json](./106404-bitter-tides.json) |
 | Bitter-Sweet Cohabitation | 241372 | [241372-bitter-sweet-cohabitation.json](./241372-bitter-sweet-cohabitation.json) |
@@ -6023,6 +6029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloonz Toonz | 36275 | [36275-bloonz-toonz.json](./36275-bloonz-toonz.json) |
 | Bloop | 182984 | [182984-bloop.json](./182984-bloop.json) |
 | Blooper's Revenge | 237492 | [237492-bloopers-revenge.json](./237492-bloopers-revenge.json) |
+| Bloops Game | 175744 | [175744-bloops-game.json](./175744-bloops-game.json) |
 | Bloopy & Droopy | 168685 | [168685-bloopy-and-droopy.json](./168685-bloopy-and-droopy.json) |
 | Blopper | 287236 | [287236-blopper.json](./287236-blopper.json) |
 | Blorks: The Quest for Magnesium | 149561 | [149561-blorks-the-quest-for-magnesium.json](./149561-blorks-the-quest-for-magnesium.json) |
@@ -6964,6 +6971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border Reign | 142468 | [142468-border-reign.json](./142468-border-reign.json) |
 | Border Town | 199466 | [199466-border-town.json](./199466-border-town.json) |
 | Border Wars | 224091 | [224091-border-wars.json](./224091-border-wars.json) |
+| BorderCollie Blaster | 175768 | [175768-bordercollie-blaster.json](./175768-bordercollie-blaster.json) |
 | BorderCollie Game | 393011 | [393011-bordercollie-game.json](./393011-bordercollie-game.json) |
 | Borderlands 2 : Ultimate Vault Hunter Upgrade Pack | 186627 | [186627-borderlands-2-ultimate-vault-hunter-upgrade-pack.json](./186627-borderlands-2-ultimate-vault-hunter-upgrade-pack.json) |
 | Borderlands 2 : Ultimate Vault Hunter Upgrade Pack 2 | 186628 | [186628-borderlands-2-ultimate-vault-hunter-upgrade-pack-2.json](./186628-borderlands-2-ultimate-vault-hunter-upgrade-pack-2.json) |
