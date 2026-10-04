@@ -1042,14 +1042,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neil The Nail | 270742 | [270742-neil-the-nail.json](./270742-neil-the-nail.json) |
 | Nekketsu Dodgeball-bu i | 191804 | [191804-nekketsu-dodgeball-bu-i.json](./191804-nekketsu-dodgeball-bu-i.json) |
 | Nekketsu Fighting Legend | 48410 | [48410-nekketsu-fighting-legend.json](./48410-nekketsu-fighting-legend.json) |
+| Nekketsu High School Dodgeball Club: Soccer Story | 191639 | [191639-nekketsu-high-school-dodgeball-club-soccer-story.json](./191639-nekketsu-high-school-dodgeball-club-soccer-story.json) |
+| Nekketsu Kakutou Densetsu | 191679 | [191679-nekketsu-kakutou-densetsu.json](./191679-nekketsu-kakutou-densetsu.json) |
 | Nekketsu Kouha Kunio-kun | 40969 | [40969-nekketsu-kouha-kunio-kun.json](./40969-nekketsu-kouha-kunio-kun.json) |
+| Nekketsu Koukou Dodgeball-bu | 191661 | [191661-nekketsu-koukou-dodgeball-bu.json](./191661-nekketsu-koukou-dodgeball-bu.json) |
 | Nekketsu Koukou Dodgeball-bu | 191741 | [191741-nekketsu-koukou-dodgeball-bu.json](./191741-nekketsu-koukou-dodgeball-bu.json) |
 | Nekketsu Koukou Dodgeball-bu: PC Bangai-hen | 191740 | [191740-nekketsu-koukou-dodgeball-bu-pc-bangai-hen.json](./191740-nekketsu-koukou-dodgeball-bu-pc-bangai-hen.json) |
+| Nekketsu Koukou Dodgeball-bu: PC Soccer-hen | 191678 | [191678-nekketsu-koukou-dodgeball-bu-pc-soccer-hen.json](./191678-nekketsu-koukou-dodgeball-bu-pc-soccer-hen.json) |
 | Nekketsu Koukou Dodgeball-bu: Soccer-hen | 191746 | [191746-nekketsu-koukou-dodgeball-bu-soccer-hen.json](./191746-nekketsu-koukou-dodgeball-bu-soccer-hen.json) |
 | Nekketsu Koukou Online: Yamada no Fukushuu | 191805 | [191805-nekketsu-koukou-online-yamada-no-fukushuu.json](./191805-nekketsu-koukou-online-yamada-no-fukushuu.json) |
 | Nekketsu Koukou Soccer-bu: World Cup-hen | 191733 | [191733-nekketsu-koukou-soccer-bu-world-cup-hen.json](./191733-nekketsu-koukou-soccer-bu-world-cup-hen.json) |
 | Nekketsu Legend Baseballer | 364535 | [364535-nekketsu-legend-baseballer.json](./364535-nekketsu-legend-baseballer.json) |
 | Nekketsu Oyako | 61633 | [61633-nekketsu-oyako.json](./61633-nekketsu-oyako.json) |
+| Nekketsu Renegade Kunio-kun | 191643 | [191643-nekketsu-renegade-kunio-kun.json](./191643-nekketsu-renegade-kunio-kun.json) |
 | Nekketsu Tairiku: Burning Heroes | 15935 | [15935-nekketsu-tairiku-burning-heroes.json](./15935-nekketsu-tairiku-burning-heroes.json) |
 | Nekkyuu Koushien | 46137 | [46137-nekkyuu-koushien.json](./46137-nekkyuu-koushien.json) |
 | Neko | 78965 | [78965-neko.json](./78965-neko.json) |
