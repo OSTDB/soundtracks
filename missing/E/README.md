@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Light: Child of the Balance | 351795 | [351795-echoes-of-light-child-of-the-balance.json](./351795-echoes-of-light-child-of-the-balance.json) |
 | Echoes of Lyra | 418541 | [418541-echoes-of-lyra.json](./418541-echoes-of-lyra.json) |
 | Echoes of Magic | 194024 | [194024-echoes-of-magic.json](./194024-echoes-of-magic.json) |
+| Echoes of Mana | 174178 | [174178-echoes-of-mana.json](./174178-echoes-of-mana.json) |
 | Echoes of Mayhem | 197207 | [197207-echoes-of-mayhem.json](./197207-echoes-of-mayhem.json) |
 | Echoes of Mora | 361858 | [361858-echoes-of-mora.json](./361858-echoes-of-mora.json) |
 | Echoes of Mystralia | 314426 | [314426-echoes-of-mystralia.json](./314426-echoes-of-mystralia.json) |
@@ -1066,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Election Manager 2016 | 94887 | [94887-election-manager-2016.json](./94887-election-manager-2016.json) |
 | Election Train | 406206 | [406206-election-train.json](./406206-election-train.json) |
 | Election Year Knockout: Boxing | 264012 | [264012-election-year-knockout-boxing.json](./264012-election-year-knockout-boxing.json) |
+| Electioneering | 174080 | [174080-electioneering.json](./174080-electioneering.json) |
 | Electoral Carnage | 350040 | [350040-electoral-carnage.json](./350040-electoral-carnage.json) |
 | Electoral Dynasty | 276246 | [276246-electoral-dynasty.json](./276246-electoral-dynasty.json) |
 | Electra | 229640 | [229640-electra.json](./229640-electra.json) |
@@ -2577,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Covid Camp | 233568 | [233568-escape-covid-camp.json](./233568-escape-covid-camp.json) |
 | Escape Darkness | 290550 | [290550-escape-darkness.json](./290550-escape-darkness.json) |
 | Escape Dash Journey | 347876 | [347876-escape-dash-journey.json](./347876-escape-dash-journey.json) |
+| Escape Dead Island: Underwater Labs | 174149 | [174149-escape-dead-island-underwater-labs.json](./174149-escape-dead-island-underwater-labs.json) |
 | Escape Depths of Immanis | 322989 | [322989-escape-depths-of-immanis.json](./322989-escape-depths-of-immanis.json) |
 | Escape Doom | 399182 | [399182-escape-doom.json](./399182-escape-doom.json) |
 | Escape Down | 195102 | [195102-escape-down.json](./195102-escape-down.json) |
