@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wish You Rain | 23884 | [23884-i-wish-you-rain.json](./23884-i-wish-you-rain.json) |
 | I Wish... Todoke, Kono Omoi | 77940 | [77940-i-wish-todoke-kono-omoi.json](./77940-i-wish-todoke-kono-omoi.json) |
 | I Witness | 298139 | [298139-i-witness.json](./298139-i-witness.json) |
+| I woke up and now I'm a knight?! | 210519 | [210519-i-woke-up-and-now-im-a-knight.json](./210519-i-woke-up-and-now-im-a-knight.json) |
 | I Woke up in an RPG | 415871 | [415871-i-woke-up-in-an-rpg.json](./415871-i-woke-up-in-an-rpg.json) |
 | I woke up in the house of a fat man: he's over 30 years old and loves beer and games | 376469 | [376469-i-woke-up-in-the-house-of-a-fat-man-hes-over-30-years-old-and-loves-beer-and-games.json](./376469-i-woke-up-in-the-house-of-a-fat-man-hes-over-30-years-old-and-loves-beer-and-games.json) |
 | I Won’t Let You Level up in My Goblin Town | 378424 | [378424-i-won-t-let-you-level-up-in-my-goblin-town.json](./378424-i-won-t-let-you-level-up-in-my-goblin-town.json) |
@@ -2000,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Links | 194185 | [194185-infinite-links.json](./194185-infinite-links.json) |
 | Infinite Lives | 354536 | [354536-infinite-lives.json](./354536-infinite-lives.json) |
 | Infinite Loop: Backrooms | 366952 | [366952-infinite-loop-backrooms.json](./366952-infinite-loop-backrooms.json) |
+| Infinite Magicraid | 210510 | [210510-infinite-magicraid.json](./210510-infinite-magicraid.json) |
 | Infinite Mansion | 374816 | [374816-infinite-mansion.json](./374816-infinite-mansion.json) |
 | Infinite Mario 64 | 288851 | [288851-infinite-mario-64.json](./288851-infinite-mario-64.json) |
 | Infinite Mario Bros. | 212694 | [212694-infinite-mario-bros.json](./212694-infinite-mario-bros.json) |
@@ -2010,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Monkeys | 57095 | [57095-infinite-monkeys.json](./57095-infinite-monkeys.json) |
 | Infinite Pixel | 62692 | [62692-infinite-pixel.json](./62692-infinite-pixel.json) |
 | Infinite Pizza | 141819 | [141819-infinite-pizza.json](./141819-infinite-pizza.json) |
+| Infinite Prison | 210531 | [210531-infinite-prison.json](./210531-infinite-prison.json) |
 | Infinite Rails | 341032 | [341032-infinite-rails.json](./341032-infinite-rails.json) |
 | Infinite Rave | 112467 | [112467-infinite-rave.json](./112467-infinite-rave.json) |
 | Infinite Realms | 261771 | [261771-infinite-realms.json](./261771-infinite-realms.json) |
