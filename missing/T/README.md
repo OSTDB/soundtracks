@@ -4243,6 +4243,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkness | 331150 | [331150-the-darkness.json](./331150-the-darkness.json) |
 | The Darkside Detective Duology | 291586 | [291586-the-darkside-detective-duology.json](./291586-the-darkside-detective-duology.json) |
 | The Darkside Detective: A Fumble in the Dark | 109650 | [109650-the-darkside-detective-a-fumble-in-the-dark.json](./109650-the-darkside-detective-a-fumble-in-the-dark.json) |
+| The Darkside Detective: A Fumble in the Dark - Ghosts of Christmas Passed | 222965 | [222965-the-darkside-detective-a-fumble-in-the-dark-ghosts-of-christmas-passed.json](./222965-the-darkside-detective-a-fumble-in-the-dark-ghosts-of-christmas-passed.json) |
+| The Darkside Detective: A Fumble in the Dark - One Flew Into the Cuckoo's Nest | 222967 | [222967-the-darkside-detective-a-fumble-in-the-dark-one-flew-into-the-cuckoos-nest.json](./222967-the-darkside-detective-a-fumble-in-the-dark-one-flew-into-the-cuckoos-nest.json) |
+| The Darkside Detective: A Fumble in the Dark - Tales of the Darkside | 222968 | [222968-the-darkside-detective-a-fumble-in-the-dark-tales-of-the-darkside.json](./222968-the-darkside-detective-a-fumble-in-the-dark-tales-of-the-darkside.json) |
 | The Darkside Detective: Series Edition | 164793 | [164793-the-darkside-detective-series-edition.json](./164793-the-darkside-detective-series-edition.json) |
 | The Dating Game | 65534 | [65534-the-dating-game.json](./65534-the-dating-game.json) |
 | The Dawn | 284349 | [284349-the-dawn.json](./284349-the-dawn.json) |
@@ -5983,6 +5986,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Pasta | 214012 | [214012-the-jumping-pasta.json](./214012-the-jumping-pasta.json) |
 | The Jumping Pizza | 202771 | [202771-the-jumping-pizza.json](./202771-the-jumping-pizza.json) |
 | The Jumping Pumpkin | 218555 | [218555-the-jumping-pumpkin.json](./218555-the-jumping-pumpkin.json) |
+| The Jumping Pumpkin: Halloween Edition | 222805 | [222805-the-jumping-pumpkin-halloween-edition.json](./222805-the-jumping-pumpkin-halloween-edition.json) |
+| The Jumping Pumpkin: Halloween Edition - Turbo | 222806 | [222806-the-jumping-pumpkin-halloween-edition-turbo.json](./222806-the-jumping-pumpkin-halloween-edition-turbo.json) |
 | The Jumping Quesadilla | 225756 | [225756-the-jumping-quesadilla.json](./225756-the-jumping-quesadilla.json) |
 | The Jumping Quesadilla: Turbo | 225755 | [225755-the-jumping-quesadilla-turbo.json](./225755-the-jumping-quesadilla-turbo.json) |
 | The Jumping Salad | 230302 | [230302-the-jumping-salad.json](./230302-the-jumping-salad.json) |
@@ -7931,6 +7936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest for Moe's | 112977 | [112977-the-quest-for-moes.json](./112977-the-quest-for-moes.json) |
 | The Quest for One | 202970 | [202970-the-quest-for-one.json](./202970-the-quest-for-one.json) |
 | The Quest For Royal Love | 184909 | [184909-the-quest-for-royal-love.json](./184909-the-quest-for-royal-love.json) |
+| The Quest for the Candies | 222973 | [222973-the-quest-for-the-candies.json](./222973-the-quest-for-the-candies.json) |
 | The Quest for the Golden Egg Cup | 13025 | [13025-the-quest-for-the-golden-egg-cup.json](./13025-the-quest-for-the-golden-egg-cup.json) |
 | The Quest for the Holy Grail | 25967 | [25967-the-quest-for-the-holy-grail.json](./25967-the-quest-for-the-holy-grail.json) |
 | The Quest for the Rings | 41575 | [41575-the-quest-for-the-rings.json](./41575-the-quest-for-the-rings.json) |
@@ -9018,6 +9024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surge 2: Premium Edition | 154535 | [154535-the-surge-2-premium-edition.json](./154535-the-surge-2-premium-edition.json) |
 | The Surge 2: Public Enemy Weapon Pack | 223532 | [223532-the-surge-2-public-enemy-weapon-pack.json](./223532-the-surge-2-public-enemy-weapon-pack.json) |
 | The Surge: The Good, the Bad, and the Augmented | 109240 | [109240-the-surge-the-good-the-bad-and-the-augmented.json](./109240-the-surge-the-good-the-bad-and-the-augmented.json) |
+| The Surgeon | 222813 | [222813-the-surgeon.json](./222813-the-surgeon.json) |
 | The Surprisingly Short Adventure of Leopold Kettle | 232556 | [232556-the-surprisingly-short-adventure-of-leopold-kettle.json](./232556-the-surprisingly-short-adventure-of-leopold-kettle.json) |
 | The Surreal Imaginarium | 135765 | [135765-the-surreal-imaginarium.json](./135765-the-surreal-imaginarium.json) |
 | The Survivalists: Deluxe Edition | 173159 | [173159-the-survivalists-deluxe-edition.json](./173159-the-survivalists-deluxe-edition.json) |
@@ -16155,6 +16162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Driving | 362360 | [362360-truck-driving.json](./362360-truck-driving.json) |
 | Truck Go | 197670 | [197670-truck-go.json](./197670-truck-go.json) |
 | Truck Job | 292294 | [292294-truck-job.json](./292294-truck-job.json) |
+| Truck Journey | 222804 | [222804-truck-journey.json](./222804-truck-journey.json) |
 | Truck Journey: Nitro | 223142 | [223142-truck-journey-nitro.json](./223142-truck-journey-nitro.json) |
 | Truck Kyousoukyoku: Ai to Kanashimi no Rodeo | 327364 | [327364-truck-kyousoukyoku-ai-to-kanashimi-no-rodeo.json](./327364-truck-kyousoukyoku-ai-to-kanashimi-no-rodeo.json) |
 | Truck License Trainer | 391180 | [391180-truck-license-trainer.json](./391180-truck-license-trainer.json) |
