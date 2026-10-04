@@ -2298,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Cats: Whisper of the Universe - Collector's Edition | 340993 | [340993-knight-cats-whisper-of-the-universe-collectors-edition.json](./340993-knight-cats-whisper-of-the-universe-collectors-edition.json) |
 | Knight Club + | 146271 | [146271-knight-club.json](./146271-knight-club.json) |
 | Knight Crawler | 356886 | [356886-knight-crawler.json](./356886-knight-crawler.json) |
+| Knight Crawlers | 197216 | [197216-knight-crawlers.json](./197216-knight-crawlers.json) |
 | Knight Driver | 133443 | [133443-knight-driver.json](./133443-knight-driver.json) |
 | Knight Fighter | 96902 | [96902-knight-fighter.json](./96902-knight-fighter.json) |
 | Knight Foretold | 252802 | [252802-knight-foretold.json](./252802-knight-foretold.json) |
@@ -2625,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koisuru Otome to Shugo no Tate: The Shield of Aigis - Koi no Theresia Box | 413708 | [413708-koisuru-otome-to-shugo-no-tate-the-shield-of-aigis-koi-no-theresia-box.json](./413708-koisuru-otome-to-shugo-no-tate-the-shield-of-aigis-koi-no-theresia-box.json) |
 | Koisuru Purin! Koi ha Daibouken! Dr. Kanmi no Yabou!? | 269581 | [269581-koisuru-purin-koi-ha-daibouken-dr-kanmi-no-yabou.json](./269581-koisuru-purin-koi-ha-daibouken-dr-kanmi-no-yabou.json) |
 | Koitsugi: Legend of the Water Guardian | 303616 | [303616-koitsugi-legend-of-the-water-guardian.json](./303616-koitsugi-legend-of-the-water-guardian.json) |
+| Kojimachi Island | 197199 | [197199-kojimachi-island.json](./197199-kojimachi-island.json) |
 | Kojouji | 149543 | [149543-kojouji.json](./149543-kojouji.json) |
 | Koko & Kebi: Crank Harrier | 274671 | [274671-koko-and-kebi-crank-harrier.json](./274671-koko-and-kebi-crank-harrier.json) |
 | Koko kara Natsu no Innocence! | 327920 | [327920-koko-kara-natsu-no-innocence.json](./327920-koko-kara-natsu-no-innocence.json) |
