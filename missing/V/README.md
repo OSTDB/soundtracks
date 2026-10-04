@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valehona Tap! | 406679 | [406679-valehona-tap.json](./406679-valehona-tap.json) |
 | Valenium | 382294 | [382294-valenium.json](./382294-valenium.json) |
 | Valens | 33537 | [33537-valens.json](./33537-valens.json) |
+| Valentine Candy Break | 210695 | [210695-valentine-candy-break.json](./210695-valentine-candy-break.json) |
 | Valentine Candy: Break Head to Head | 214567 | [214567-valentine-candy-break-head-to-head.json](./214567-valentine-candy-break-head-to-head.json) |
 | Valentine Disaster | 184893 | [184893-valentine-disaster.json](./184893-valentine-disaster.json) |
 | Valentine Panic | 68587 | [68587-valentine-panic.json](./68587-valentine-panic.json) |
@@ -310,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampirates | 344457 | [344457-vampirates.json](./344457-vampirates.json) |
 | Vampirdzhija Vjedogonia | 130309 | [130309-vampirdzhija-vjedogonia.json](./130309-vampirdzhija-vjedogonia.json) |
 | Vampire Awakening: Elven Sword Chronicles Survival | 373020 | [373020-vampire-awakening-elven-sword-chronicles-survival.json](./373020-vampire-awakening-elven-sword-chronicles-survival.json) |
+| Vampire Boyfriend Plus | 210521 | [210521-vampire-boyfriend-plus.json](./210521-vampire-boyfriend-plus.json) |
 | Vampire Circus | 297481 | [297481-vampire-circus.json](./297481-vampire-circus.json) |
 | Vampire Clans | 216493 | [216493-vampire-clans.json](./216493-vampire-clans.json) |
 | Vampire Crawlers: The Turbo Wildcard from Vampire Survivors | 378229 | [378229-vampire-crawlers-the-turbo-wildcard-from-vampire-survivors.json](./378229-vampire-crawlers-the-turbo-wildcard-from-vampire-survivors.json) |
@@ -1164,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Meow | 327172 | [327172-village-meow.json](./327172-village-meow.json) |
 | Village Merchant | 377167 | [377167-village-merchant.json](./377167-village-merchant.json) |
 | Village of Adventurers 2 | 74290 | [74290-village-of-adventurers-2.json](./74290-village-of-adventurers-2.json) |
+| Village of Origins | 210548 | [210548-village-of-origins.json](./210548-village-of-origins.json) |
 | Village of the Ages | 369042 | [369042-village-of-the-ages.json](./369042-village-of-the-ages.json) |
 | Village of the Curse | 387600 | [387600-village-of-the-curse.json](./387600-village-of-the-curse.json) |
 | Village Slut Transformation | 306433 | [306433-village-slut-transformation.json](./306433-village-slut-transformation.json) |
