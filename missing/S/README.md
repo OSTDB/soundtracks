@@ -4894,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show da Copa com Estádio 97 | 255668 | [255668-show-da-copa-com-estadio-97.json](./255668-show-da-copa-com-estadio-97.json) |
 | Show do Milhão | 122331 | [122331-show-do-milhao.json](./122331-show-do-milhao.json) |
 | Show do Milhão | 93008 | [93008-show-do-milhao.json](./93008-show-do-milhao.json) |
+| Show do Milhão Júnior Volume 2 | 222358 | [222358-show-do-milhao-junior-volume-2.json](./222358-show-do-milhao-junior-volume-2.json) |
 | Show do Milhão Volume 2 | 122333 | [122333-show-do-milhao-volume-2.json](./122333-show-do-milhao-volume-2.json) |
 | Show do Milhão Volume 3 | 122362 | [122362-show-do-milhao-volume-3.json](./122362-show-do-milhao-volume-3.json) |
 | Show do Milho Grande | 359981 | [359981-show-do-milho-grande.json](./359981-show-do-milho-grande.json) |
@@ -11332,6 +11333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritually Unemployed | 375832 | [375832-spiritually-unemployed.json](./375832-spiritually-unemployed.json) |
 | Spiritus | 200017 | [200017-spiritus.json](./200017-spiritus.json) |
 | Spiritus 2 | 276972 | [276972-spiritus-2.json](./276972-spiritus-2.json) |
+| Spiritwell | 222348 | [222348-spiritwell.json](./222348-spiritwell.json) |
 | Spirou: The Robot Invasion | 97487 | [97487-spirou-the-robot-invasion.json](./97487-spirou-the-robot-invasion.json) |
 | Spirulena Interceptor | 291231 | [291231-spirulena-interceptor.json](./291231-spirulena-interceptor.json) |
 | Spish | 169421 | [169421-spish.json](./169421-spish.json) |
@@ -15886,6 +15888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Droid Adventure | 233622 | [233622-super-droid-adventure.json](./233622-super-droid-adventure.json) |
 | Super Drop Jam | 71198 | [71198-super-drop-jam.json](./71198-super-drop-jam.json) |
 | Super Drunken Guy | 251690 | [251690-super-drunken-guy.json](./251690-super-drunken-guy.json) |
+| Super Duck! | 222363 | [222363-super-duck.json](./222363-super-duck.json) |
 | Super Dude-Shooter: The Omni-Revenge | 140994 | [140994-super-dude-shooter-the-omni-revenge.json](./140994-super-dude-shooter-the-omni-revenge.json) |
 | Super Duelling Minivans | 71794 | [71794-super-duelling-minivans.json](./71794-super-duelling-minivans.json) |
 | Super Dungeon Boy 2 | 86576 | [86576-super-dungeon-boy-2.json](./86576-super-dungeon-boy-2.json) |
