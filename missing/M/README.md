@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic League | 99016 | [99016-magic-league.json](./99016-magic-league.json) |
 | Magic Light | 94727 | [94727-magic-light.json](./94727-magic-light.json) |
 | Magic LightHouse | 147385 | [147385-magic-lighthouse.json](./147385-magic-lighthouse.json) |
+| Magic Logic 3D | 206036 | [206036-magic-logic-3d.json](./206036-magic-logic-3d.json) |
 | Magic Machine Gun | 248684 | [248684-magic-machine-gun.json](./248684-magic-machine-gun.json) |
 | Magic Maho: Dream Runner | 374147 | [374147-magic-maho-dream-runner.json](./374147-magic-maho-dream-runner.json) |
 | Magic Market | 215609 | [215609-magic-market.json](./215609-magic-market.json) |
@@ -5984,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko Gakkou: Second Year | 36169 | [36169-miko-gakkou-second-year.json](./36169-miko-gakkou-second-year.json) |
 | Miko Kanna Noukin Taimaki | 82738 | [82738-miko-kanna-noukin-taimaki.json](./82738-miko-kanna-noukin-taimaki.json) |
 | Miko Monogatari! | 222277 | [222277-miko-monogatari.json](./222277-miko-monogatari.json) |
+| Mikone Douchuu | 206037 | [206037-mikone-douchuu.json](./206037-mikone-douchuu.json) |
 | Mikoshi | 191200 | [191200-mikoshi.json](./191200-mikoshi.json) |
 | Mikrocosmos | 232944 | [232944-mikrocosmos.json](./232944-mikrocosmos.json) |
 | Miku Chan's Robot | 277400 | [277400-miku-chans-robot.json](./277400-miku-chans-robot.json) |
@@ -10439,6 +10441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Eggduck | 403183 | [403183-my-eggduck.json](./403183-my-eggduck.json) |
 | My Eggs | 255999 | [255999-my-eggs.json](./255999-my-eggs.json) |
 | My Elemental Girlfriend | 210612 | [210612-my-elemental-girlfriend.json](./210612-my-elemental-girlfriend.json) |
+| My Elf Girlfriend | 206007 | [206007-my-elf-girlfriend.json](./206007-my-elf-girlfriend.json) |
 | My Emma :) | 86977 | [86977-my-emma.json](./86977-my-emma.json) |
 | My Empire | 149590 | [149590-my-empire.json](./149590-my-empire.json) |
 | My English Coach: Para Hispanoparlantes | 82064 | [82064-my-english-coach-para-hispanoparlantes.json](./82064-my-english-coach-para-hispanoparlantes.json) |
@@ -10895,6 +10898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Super Defender | 112965 | [112965-my-super-defender.json](./112965-my-super-defender.json) |
 | My SuperMart | 231919 | [231919-my-supermart.json](./231919-my-supermart.json) |
 | My Sweet Artificial Lover | 242652 | [242652-my-sweet-artificial-lover.json](./242652-my-sweet-artificial-lover.json) |
+| My Sweet Bully | 206027 | [206027-my-sweet-bully.json](./206027-my-sweet-bully.json) |
 | My Sweet Devil 3: Ring | 97695 | [97695-my-sweet-devil-3-ring.json](./97695-my-sweet-devil-3-ring.json) |
 | My Sweet Herbivore High | 231421 | [231421-my-sweet-herbivore-high.json](./231421-my-sweet-herbivore-high.json) |
 | My Sweet Puppy Love | 208280 | [208280-my-sweet-puppy-love.json](./208280-my-sweet-puppy-love.json) |
