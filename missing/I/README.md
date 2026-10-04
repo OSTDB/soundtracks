@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Ultimate | 368509 | [368509-idle-ultimate.json](./368509-idle-ultimate.json) |
 | Idle Universe Creator | 351606 | [351606-idle-universe-creator.json](./351606-idle-universe-creator.json) |
 | Idle Universe: Planet Miner | 231925 | [231925-idle-universe-planet-miner.json](./231925-idle-universe-planet-miner.json) |
+| Idle War Camp | 200548 | [200548-idle-war-camp.json](./200548-idle-war-camp.json) |
 | Idle Warrior | 129679 | [129679-idle-warrior.json](./129679-idle-warrior.json) |
 | Idle Wasteland | 153922 | [153922-idle-wasteland.json](./153922-idle-wasteland.json) |
 | Idle Wasteland: Pet Slot Bundle | 157546 | [157546-idle-wasteland-pet-slot-bundle.json](./157546-idle-wasteland-pet-slot-bundle.json) |
@@ -2688,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Prime | 74289 | [74289-interstellar-prime.json](./74289-interstellar-prime.json) |
 | Interstellar Rogue | 119457 | [119457-interstellar-rogue.json](./119457-interstellar-rogue.json) |
 | Interstellar Space: Genesis | 110011 | [110011-interstellar-space-genesis.json](./110011-interstellar-space-genesis.json) |
+| Interstellar Space: Genesis - Evolving Empires | 200502 | [200502-interstellar-space-genesis-evolving-empires.json](./200502-interstellar-space-genesis-evolving-empires.json) |
 | Interstellar Space: Genesis - Terrains Pack | 289473 | [289473-interstellar-space-genesis-terrains-pack.json](./289473-interstellar-space-genesis-terrains-pack.json) |
 | Interstellar Travel Package | 223552 | [223552-interstellar-travel-package.json](./223552-interstellar-travel-package.json) |
 | Intertwined | 177921 | [177921-intertwined.json](./177921-intertwined.json) |
