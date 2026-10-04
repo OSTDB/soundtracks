@@ -472,10 +472,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Cat | 300398 | [300398-office-cat.json](./300398-office-cat.json) |
 | Office Chimp | 249283 | [249283-office-chimp.json](./249283-office-chimp.json) |
 | Office Elevator | 195159 | [195159-office-elevator.json](./195159-office-elevator.json) |
+| Office Escape | 184937 | [184937-office-escape.json](./184937-office-escape.json) |
 | Office Fever | 223993 | [223993-office-fever.json](./223993-office-fever.json) |
 | Office Fight | 270963 | [270963-office-fight.json](./270963-office-fight.json) |
 | Office Hours | 403076 | [403076-office-hours.json](./403076-office-hours.json) |
 | Office Hurdles | 268019 | [268019-office-hurdles.json](./268019-office-hurdles.json) |
+| Office Hustle | 184954 | [184954-office-hustle.json](./184954-office-hustle.json) |
 | Office Is My Harem | 259035 | [259035-office-is-my-harem.json](./259035-office-is-my-harem.json) |
 | Office Jerk | 316739 | [316739-office-jerk.json](./316739-office-jerk.json) |
 | Office Jigsaw Puzzle - Work Environment | 89284 | [89284-office-jigsaw-puzzle-work-environment.json](./89284-office-jigsaw-puzzle-work-environment.json) |
@@ -2568,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Control | 40775 | [40775-out-of-control.json](./40775-out-of-control.json) |
 | Out of Control: Space Survival Bundle: Ctrl Alt Ego + Tin Can: Supporter Edition | 331483 | [331483-out-of-control-space-survival-bundle-ctrl-alt-ego-tin-can-supporter-edition.json](./331483-out-of-control-space-survival-bundle-ctrl-alt-ego-tin-can-supporter-edition.json) |
 | Out of Ctrl | 177519 | [177519-out-of-ctrl.json](./177519-out-of-ctrl.json) |
+| Out of Fix | 184978 | [184978-out-of-fix.json](./184978-out-of-fix.json) |
 | Out of Frame | 141886 | [141886-out-of-frame.json](./141886-out-of-frame.json) |
 | Out of Fuel | 257358 | [257358-out-of-fuel.json](./257358-out-of-fuel.json) |
 | Out of Galaxy: Gin no Koushika | 408871 | [408871-out-of-galaxy-gin-no-koushika.json](./408871-out-of-galaxy-gin-no-koushika.json) |
