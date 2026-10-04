@@ -2564,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikoderiko: The Magical World | 305108 | [305108-nikoderiko-the-magical-world.json](./305108-nikoderiko-the-magical-world.json) |
 | Nikoderiko: The Magical World - Director’s Cut | 340988 | [340988-nikoderiko-the-magical-world-director-s-cut.json](./340988-nikoderiko-the-magical-world-director-s-cut.json) |
 | Nikola's Fate | 329678 | [329678-nikolas-fate.json](./329678-nikolas-fate.json) |
+| Nikolai in Outer Space | 209394 | [209394-nikolai-in-outer-space.json](./209394-nikolai-in-outer-space.json) |
 | Nikolai's Knights | 205127 | [205127-nikolais-knights.json](./205127-nikolais-knights.json) |
 | Nikolai's Mysteries | 205128 | [205128-nikolais-mysteries.json](./205128-nikolais-mysteries.json) |
 | Nikoli no Puzzle 4: Hashi wo Kakero | 218989 | [218989-nikoli-no-puzzle-4-hashi-wo-kakero.json](./218989-nikoli-no-puzzle-4-hashi-wo-kakero.json) |
@@ -2634,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninety8 | 246977 | [246977-ninety8.json](./246977-ninety8.json) |
 | Ningen Maru | 178677 | [178677-ningen-maru.json](./178677-ningen-maru.json) |
 | Ningen Tower Battle | 346018 | [346018-ningen-tower-battle.json](./346018-ningen-tower-battle.json) |
+| NingPo MahJong | 209392 | [209392-ningpo-mahjong.json](./209392-ningpo-mahjong.json) |
 | Ningyo no Rakuin | 166551 | [166551-ningyo-no-rakuin.json](./166551-ningyo-no-rakuin.json) |
 | Ningyou Genkai | 239799 | [239799-ningyou-genkai.json](./239799-ningyou-genkai.json) |
 | Ningyou no Kizuato | 255112 | [255112-ningyou-no-kizuato.json](./255112-ningyou-no-kizuato.json) |
