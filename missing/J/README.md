@@ -1207,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Job Simulator: Human Relations | 413169 | [413169-job-simulator-human-relations.json](./413169-job-simulator-human-relations.json) |
 | Job Simulator: The 2050 Archives | 12596 | [12596-job-simulator-the-2050-archives.json](./12596-job-simulator-the-2050-archives.json) |
 | Job the Leprechaun | 34849 | [34849-job-the-leprechaun.json](./34849-job-the-leprechaun.json) |
+| Jobhunt | 178465 | [178465-jobhunt.json](./178465-jobhunt.json) |
 | Jobifai | 340774 | [340774-jobifai.json](./340774-jobifai.json) |
 | Jobmania: Eternal Dungeon | 176883 | [176883-jobmania-eternal-dungeon.json](./176883-jobmania-eternal-dungeon.json) |
 | Jobsworth Weekly | 290526 | [290526-jobsworth-weekly.json](./290526-jobsworth-weekly.json) |
