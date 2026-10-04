@@ -7254,6 +7254,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Run | 74416 | [74416-cookie-run.json](./74416-cookie-run.json) |
 | Cookie Run: OvenBreak | 78951 | [78951-cookie-run-ovenbreak.json](./78951-cookie-run-ovenbreak.json) |
 | Cookie Run: OvenSmash | 193973 | [193973-cookie-run-ovensmash.json](./193973-cookie-run-ovensmash.json) |
+| Cookie Run: Puzzle World | 198315 | [198315-cookie-run-puzzle-world.json](./198315-cookie-run-puzzle-world.json) |
+| Cookie Run: Tower of Adventures | 198316 | [198316-cookie-run-tower-of-adventures.json](./198316-cookie-run-tower-of-adventures.json) |
 | Cookie Run: Witch's Castle | 193964 | [193964-cookie-run-witchs-castle.json](./193964-cookie-run-witchs-castle.json) |
 | Cookie Smash: Cookie Mania | 267338 | [267338-cookie-smash-cookie-mania.json](./267338-cookie-smash-cookie-mania.json) |
 | Cookie's Bakery | 181856 | [181856-cookies-bakery.json](./181856-cookies-bakery.json) |
@@ -8511,6 +8513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Forest 2 | 111684 | [111684-crazy-forest-2.json](./111684-crazy-forest-2.json) |
 | Crazy Freekick | 233555 | [233555-crazy-freekick.json](./233555-crazy-freekick.json) |
 | Crazy Frog Collectables: Art School | 140549 | [140549-crazy-frog-collectables-art-school.json](./140549-crazy-frog-collectables-art-school.json) |
+| Crazy Frog Collectables: Faces | 198305 | [198305-crazy-frog-collectables-faces.json](./198305-crazy-frog-collectables-faces.json) |
 | Crazy Frog Racer | 20483 | [20483-crazy-frog-racer.json](./20483-crazy-frog-racer.json) |
 | Crazy Frog Racer | 240508 | [240508-crazy-frog-racer.json](./240508-crazy-frog-racer.json) |
 | Crazy Frog Racer | 248686 | [248686-crazy-frog-racer.json](./248686-crazy-frog-racer.json) |
