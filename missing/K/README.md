@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karless | 400867 | [400867-karless.json](./400867-karless.json) |
 | Karls Kavern | 348944 | [348944-karls-kavern.json](./348944-karls-kavern.json) |
 | Karlson | 129033 | [129033-karlson.json](./129033-karlson.json) |
+| Karlson 2D | 177372 | [177372-karlson-2d.json](./177372-karlson-2d.json) |
 | Karlson64 | 175900 | [175900-karlson64.json](./175900-karlson64.json) |
 | Karm: Early Access Archives | 303605 | [303605-karm-early-access-archives.json](./303605-karm-early-access-archives.json) |
 | Karma | 34965 | [34965-karma.json](./34965-karma.json) |
