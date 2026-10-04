@@ -2846,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo 3DS Sound: Soccer | 250320 | [250320-nintendo-3ds-sound-soccer.json](./250320-nintendo-3ds-sound-soccer.json) |
 | Nintendo Adventure Books 3: Monster Mix-Up | 270387 | [270387-nintendo-adventure-books-3-monster-mix-up.json](./270387-nintendo-adventure-books-3-monster-mix-up.json) |
 | Nintendo Campus Challenge 1991 | 94180 | [94180-nintendo-campus-challenge-1991.json](./94180-nintendo-campus-challenge-1991.json) |
+| Nintendo Classic Mini Double Pack | 215662 | [215662-nintendo-classic-mini-double-pack.json](./215662-nintendo-classic-mini-double-pack.json) |
 | Nintendo Classic Mini: Family Computer | 213597 | [213597-nintendo-classic-mini-family-computer.json](./213597-nintendo-classic-mini-family-computer.json) |
 | Nintendo Classic Mini: Family Computer - Weekly Shonen Jump 50th Anniversary Version | 213599 | [213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json](./213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json) |
 | Nintendo Classic Mini: Super Famicom | 213594 | [213594-nintendo-classic-mini-super-famicom.json](./213594-nintendo-classic-mini-super-famicom.json) |
