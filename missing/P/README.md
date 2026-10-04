@@ -2963,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Point: Blood and Titanium | 149580 | [149580-phoenix-point-blood-and-titanium.json](./149580-phoenix-point-blood-and-titanium.json) |
 | Phoenix Point: Corrupted Horizons | 171628 | [171628-phoenix-point-corrupted-horizons.json](./171628-phoenix-point-corrupted-horizons.json) |
 | Phoenix Point: Festering Skies | 149592 | [149592-phoenix-point-festering-skies.json](./149592-phoenix-point-festering-skies.json) |
+| Phoenix Point: Kaos Engines | 198293 | [198293-phoenix-point-kaos-engines.json](./198293-phoenix-point-kaos-engines.json) |
 | Phoenix Point: Legacy of the Ancients | 149585 | [149585-phoenix-point-legacy-of-the-ancients.json](./149585-phoenix-point-legacy-of-the-ancients.json) |
 | Phoenix Point: Year One Edition - Festering Skies | 159694 | [159694-phoenix-point-year-one-edition-festering-skies.json](./159694-phoenix-point-year-one-edition-festering-skies.json) |
 | Phoenix R/C Pro Simulator v5.5 | 125934 | [125934-phoenix-r-c-pro-simulator-v5-5.json](./125934-phoenix-r-c-pro-simulator-v5-5.json) |
