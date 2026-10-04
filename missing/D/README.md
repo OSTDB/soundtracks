@@ -2952,6 +2952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeLight: The Journey Home - Chapter 4 | 314898 | [314898-delight-the-journey-home-chapter-4.json](./314898-delight-the-journey-home-chapter-4.json) |
 | Delightful Adventure: Enhanced | 307728 | [307728-delightful-adventure-enhanced.json](./307728-delightful-adventure-enhanced.json) |
 | Delilah | 217340 | [217340-delilah.json](./217340-delilah.json) |
+| Deliria | 202748 | [202748-deliria.json](./202748-deliria.json) |
 | Delirious | 183546 | [183546-delirious.json](./183546-delirious.json) |
 | Delirium | 234755 | [234755-delirium.json](./234755-delirium.json) |
 | Delirium | 293898 | [293898-delirium.json](./293898-delirium.json) |
@@ -5395,6 +5396,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disruptive Compassion | 364496 | [364496-disruptive-compassion.json](./364496-disruptive-compassion.json) |
 | Disruptor | 20654 | [20654-disruptor.json](./20654-disruptor.json) |
 | Dissection Simulator: Dogfish Edition | 171575 | [171575-dissection-simulator-dogfish-edition.json](./171575-dissection-simulator-dogfish-edition.json) |
+| Dissension | 202720 | [202720-dissension.json](./202720-dissension.json) |
+| Dissent | 202751 | [202751-dissent.json](./202751-dissent.json) |
 | Dissidia 012 Final Fantasy | 24288 | [24288-dissidia-012-final-fantasy.json](./24288-dissidia-012-final-fantasy.json) |
 | Dissidia Duodecim Prologus: Final Fantasy | 41848 | [41848-dissidia-duodecim-prologus-final-fantasy.json](./41848-dissidia-duodecim-prologus-final-fantasy.json) |
 | Dissidia Final Fantasy NT: Special Steelbook Edition | 386253 | [386253-dissidia-final-fantasy-nt-special-steelbook-edition.json](./386253-dissidia-final-fantasy-nt-special-steelbook-edition.json) |
