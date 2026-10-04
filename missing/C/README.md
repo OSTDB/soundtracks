@@ -5794,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cognizant Protocol | 51557 | [51557-cognizant-protocol.json](./51557-cognizant-protocol.json) |
 | Cogs and Carnage | 291215 | [291215-cogs-and-carnage.json](./291215-cogs-and-carnage.json) |
 | Cogs and Cowboys | 31818 | [31818-cogs-and-cowboys.json](./31818-cogs-and-cowboys.json) |
+| Cogs of Combat | 201120 | [201120-cogs-of-combat.json](./201120-cogs-of-combat.json) |
 | CogVR | 29827 | [29827-cogvr.json](./29827-cogvr.json) |
 | Cohabitation | 217877 | [217877-cohabitation.json](./217877-cohabitation.json) |
 | Cohabitation Life | 296647 | [296647-cohabitation-life.json](./296647-cohabitation-life.json) |
@@ -6990,6 +6991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Destruction | 73748 | [73748-construction-destruction.json](./73748-construction-destruction.json) |
 | Construction Machine Simulator 2023: Hard Truck Work Job | 259233 | [259233-construction-machine-simulator-2023-hard-truck-work-job.json](./259233-construction-machine-simulator-2023-hard-truck-work-job.json) |
 | Construction Machines Sim | 201141 | [201141-construction-machines-sim.json](./201141-construction-machines-sim.json) |
+| Construction Machines SIM: Bridges, buildings and constructor trucks simulator | 201086 | [201086-construction-machines-sim-bridges-buildings-and-constructor-trucks-simulator.json](./201086-construction-machines-sim-bridges-buildings-and-constructor-trucks-simulator.json) |
 | Construction Playground | 164903 | [164903-construction-playground.json](./164903-construction-playground.json) |
 | Construction Ramp Jumping | 212358 | [212358-construction-ramp-jumping.json](./212358-construction-ramp-jumping.json) |
 | Construction Runner | 291533 | [291533-construction-runner.json](./291533-construction-runner.json) |
