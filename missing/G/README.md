@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | General Coco | 122392 | [122392-general-coco.json](./122392-general-coco.json) |
 | General Conflict | 64463 | [64463-general-conflict.json](./64463-general-conflict.json) |
 | General Knowledge Quiz | 251042 | [251042-general-knowledge-quiz.json](./251042-general-knowledge-quiz.json) |
+| General Mayhem | 179470 | [179470-general-mayhem.json](./179470-general-mayhem.json) |
 | General Room | 176979 | [176979-general-room.json](./176979-general-room.json) |
 | General Staff: Black Powder | 249226 | [249226-general-staff-black-powder.json](./249226-general-staff-black-powder.json) |
 | General's Son | 48579 | [48579-generals-son.json](./48579-generals-son.json) |
