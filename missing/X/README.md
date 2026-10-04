@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xoru | 324973 | [324973-xoru.json](./324973-xoru.json) |
 | XP Racing | 289880 | [289880-xp-racing.json](./289880-xp-racing.json) |
 | XP Slime | 369726 | [369726-xp-slime.json](./369726-xp-slime.json) |
+| XP Soccer | 207754 | [207754-xp-soccer.json](./207754-xp-soccer.json) |
 | XP8 | 15569 | [15569-xp8.json](./15569-xp8.json) |
 | Xpand Rally Xtreme | 9310 | [9310-xpand-rally-xtreme.json](./9310-xpand-rally-xtreme.json) |
 | XPilot | 142943 | [142943-xpilot.json](./142943-xpilot.json) |
