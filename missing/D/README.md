@@ -5127,6 +5127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disk Dashers | 244739 | [244739-disk-dashers.json](./244739-disk-dashers.json) |
 | Disk Jockey Boy | 46220 | [46220-disk-jockey-boy.json](./46220-disk-jockey-boy.json) |
 | Disk NG 1 | 220140 | [220140-disk-ng-1.json](./220140-disk-ng-1.json) |
+| Disk NG 2 | 220148 | [220148-disk-ng-2.json](./220148-disk-ng-2.json) |
 | Disk Station #0 | 78958 | [78958-disk-station-0.json](./78958-disk-station-0.json) |
 | Disk-0 Madness | 255074 | [255074-disk-0-madness.json](./255074-disk-0-madness.json) |
 | Dislyte | 172684 | [172684-dislyte.json](./172684-dislyte.json) |
