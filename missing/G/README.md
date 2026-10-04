@@ -3124,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goethe's Last Laugh | 376569 | [376569-goethes-last-laugh.json](./376569-goethes-last-laugh.json) |
 | Goetia: The Infinite Tower | 222511 | [222511-goetia-the-infinite-tower.json](./222511-goetia-the-infinite-tower.json) |
 | GoetiaX | 145665 | [145665-goetiax.json](./145665-goetiax.json) |
+| Goetita: Turn-based City | 215582 | [215582-goetita-turn-based-city.json](./215582-goetita-turn-based-city.json) |
 | GoGeez | 410296 | [410296-gogeez.json](./410296-gogeez.json) |
 | Gogetsuji Legends | 37341 | [37341-gogetsuji-legends.json](./37341-gogetsuji-legends.json) |
 | Gogo I-Land | 344573 | [344573-gogo-i-land.json](./344573-gogo-i-land.json) |
@@ -3200,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Mining Simulator | 39755 | [39755-gold-mining-simulator.json](./39755-gold-mining-simulator.json) |
 | Gold Mining Simulator + Mini Machines DLC | 332017 | [332017-gold-mining-simulator-mini-machines-dlc.json](./332017-gold-mining-simulator-mini-machines-dlc.json) |
 | Gold Monkey | 63280 | [63280-gold-monkey.json](./63280-gold-monkey.json) |
+| Gold of Lotusland | 215583 | [215583-gold-of-lotusland.json](./215583-gold-of-lotusland.json) |
 | Gold of Skulls | 303004 | [303004-gold-of-skulls.json](./303004-gold-of-skulls.json) |
 | Gold of the Americas: The Conquest of the New World | 12119 | [12119-gold-of-the-americas-the-conquest-of-the-new-world.json](./12119-gold-of-the-americas-the-conquest-of-the-new-world.json) |
 | Gold of the Incas Solitaire | 294741 | [294741-gold-of-the-incas-solitaire.json](./294741-gold-of-the-incas-solitaire.json) |
@@ -4105,6 +4107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrappleApp | 107002 | [107002-grappleapp.json](./107002-grappleapp.json) |
 | Grappledrome | 36453 | [36453-grappledrome.json](./36453-grappledrome.json) |
 | Grappling Bagel | 348870 | [348870-grappling-bagel.json](./348870-grappling-bagel.json) |
+| Grappling Dash | 215584 | [215584-grappling-dash.json](./215584-grappling-dash.json) |
 | Grappling Hook | 21106 | [21106-grappling-hook.json](./21106-grappling-hook.json) |
 | Grashers | 124247 | [124247-grashers.json](./124247-grashers.json) |
 | Grass Cutter: Mutated Lawns | 120257 | [120257-grass-cutter-mutated-lawns.json](./120257-grass-cutter-mutated-lawns.json) |
@@ -5436,6 +5439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunbrella | 200900 | [200900-gunbrella.json](./200900-gunbrella.json) |
 | Gunbrella: Deluxe Edition | 266822 | [266822-gunbrella-deluxe-edition.json](./266822-gunbrella-deluxe-edition.json) |
 | Gunbrick | 59838 | [59838-gunbrick.json](./59838-gunbrick.json) |
+| Guncar Arena | 215585 | [215585-guncar-arena.json](./215585-guncar-arena.json) |
 | Guncaster | 142417 | [142417-guncaster.json](./142417-guncaster.json) |
 | Guncaster | 367575 | [367575-guncaster.json](./367575-guncaster.json) |
 | Guncho | 275604 | [275604-guncho.json](./275604-guncho.json) |
