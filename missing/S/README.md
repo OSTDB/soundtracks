@@ -10913,6 +10913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpeedRunners: FortKnight's Fast Faction | 238042 | [238042-speedrunners-fortknights-fast-faction.json](./238042-speedrunners-fortknights-fast-faction.json) |
 | SpeedRunners: Mr. Quick's Speedy Bunch | 238041 | [238041-speedrunners-mr-quicks-speedy-bunch.json](./238041-speedrunners-mr-quicks-speedy-bunch.json) |
 | SpeedRunners: Salem's Sprint Squad | 238040 | [238040-speedrunners-salems-sprint-squad.json](./238040-speedrunners-salems-sprint-squad.json) |
+| SpeedRunners: Youtuber Pack 2 | 202202 | [202202-speedrunners-youtuber-pack-2.json](./202202-speedrunners-youtuber-pack-2.json) |
 | Speedrunnerz | 257438 | [257438-speedrunnerz.json](./257438-speedrunnerz.json) |
 | Speedster's Collection | 283210 | [283210-speedsters-collection.json](./283210-speedsters-collection.json) |
 | Speedtickers | 365898 | [365898-speedtickers.json](./365898-speedtickers.json) |
