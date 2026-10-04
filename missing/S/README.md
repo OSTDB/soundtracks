@@ -1792,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scout | 231533 | [231533-scout.json](./231533-scout.json) |
 | Scout | 56584 | [56584-scout.json](./56584-scout.json) |
 | Scout Search | 70098 | [70098-scout-search.json](./70098-scout-search.json) |
+| Scout: An Apocalypse Story | 177355 | [177355-scout-an-apocalypse-story.json](./177355-scout-an-apocalypse-story.json) |
 | Scouter | 316613 | [316613-scouter.json](./316613-scouter.json) |
 | Scouts Out | 413034 | [413034-scouts-out.json](./413034-scouts-out.json) |
 | SCP | 287738 | [287738-scp.json](./287738-scp.json) |
@@ -7721,6 +7722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake & Snake | 56756 | [56756-snake-and-snake.json](./56756-snake-and-snake.json) |
 | Snake 2 | 81508 | [81508-snake-2.json](./81508-snake-2.json) |
 | Snake 2 DX: Reawakening | 171624 | [171624-snake-2-dx-reawakening.json](./171624-snake-2-dx-reawakening.json) |
+| Snake 3310 | 177382 | [177382-snake-3310.json](./177382-snake-3310.json) |
 | Snake and Rhino in the Sketchbook | 360120 | [360120-snake-and-rhino-in-the-sketchbook.json](./360120-snake-and-rhino-in-the-sketchbook.json) |
 | Snake Battle | 111657 | [111657-snake-battle.json](./111657-snake-battle.json) |
 | Snake Blocks | 36025 | [36025-snake-blocks.json](./36025-snake-blocks.json) |
@@ -8123,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboarding | 230837 | [230837-snowboarding.json](./230837-snowboarding.json) |
 | Snowboarding | 358843 | [358843-snowboarding.json](./358843-snowboarding.json) |
 | Snowboarding: The Fourth Phase | 88772 | [88772-snowboarding-the-fourth-phase.json](./88772-snowboarding-the-fourth-phase.json) |
+| Snowbound Blood | 177348 | [177348-snowbound-blood.json](./177348-snowbound-blood.json) |
 | Snowbound: Dead of Winter | 310131 | [310131-snowbound-dead-of-winter.json](./310131-snowbound-dead-of-winter.json) |
 | Snowbrawll | 235461 | [235461-snowbrawll.json](./235461-snowbrawll.json) |
 | Snowcat Simulator | 9479 | [9479-snowcat-simulator.json](./9479-snowcat-simulator.json) |
@@ -10229,6 +10232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fox Kimi and the Interstellar Fortress | 171589 | [171589-space-fox-kimi-and-the-interstellar-fortress.json](./171589-space-fox-kimi-and-the-interstellar-fortress.json) |
 | Space Fox Kimi: The Battle of Mochi Prime | 171563 | [171563-space-fox-kimi-the-battle-of-mochi-prime.json](./171563-space-fox-kimi-the-battle-of-mochi-prime.json) |
 | Space Freeks | 60060 | [60060-space-freeks.json](./60060-space-freeks.json) |
+| Space Frog! | 177350 | [177350-space-frog.json](./177350-space-frog.json) |
 | Space Frontier | 386380 | [386380-space-frontier.json](./386380-space-frontier.json) |
 | Space Fun | 222966 | [222966-space-fun.json](./222966-space-fun.json) |
 | Space Funeral 2: of Rubies and Gold II - From Shadows We Rise | 360744 | [360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json](./360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json) |
@@ -15227,6 +15231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suba Pogo | 414487 | [414487-suba-pogo.json](./414487-suba-pogo.json) |
 | Subátor | 254484 | [254484-subator.json](./254484-subator.json) |
 | Subbuteo | 21457 | [21457-subbuteo.json](./21457-subbuteo.json) |
+| Subconscious | 177386 | [177386-subconscious.json](./177386-subconscious.json) |
 | Subconsciousism | 396225 | [396225-subconsciousism.json](./396225-subconsciousism.json) |
 | Subcube | 126555 | [126555-subcube.json](./126555-subcube.json) |
 | Subdivided | 132770 | [132770-subdivided.json](./132770-subdivided.json) |
@@ -17840,6 +17845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstars V8: Next Challenge | 20499 | [20499-superstars-v8-next-challenge.json](./20499-superstars-v8-next-challenge.json) |
 | Superstein | 235865 | [235865-superstein.json](./235865-superstein.json) |
 | Superstition BlackCat | 330331 | [330331-superstition-blackcat.json](./330331-superstition-blackcat.json) |
+| Superstition S2 | 177357 | [177357-superstition-s2.json](./177357-superstition-s2.json) |
 | Superstore | 328482 | [328482-superstore.json](./328482-superstore.json) |
 | SuperSuperMarket! | 302364 | [302364-supersupermarket.json](./302364-supersupermarket.json) |
 | SuperTanks | 149939 | [149939-supertanks.json](./149939-supertanks.json) |
@@ -18316,6 +18322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swan's Song | 342283 | [342283-swans-song.json](./342283-swans-song.json) |
 | Swangman | 183366 | [183366-swangman.json](./183366-swangman.json) |
 | Swans At The Welkin | 390718 | [390718-swans-at-the-welkin.json](./390718-swans-at-the-welkin.json) |
+| Swap | 177370 | [177370-swap.json](./177370-swap.json) |
 | Swap | 219556 | [219556-swap.json](./219556-swap.json) |
 | Swap | 93171 | [93171-swap.json](./93171-swap.json) |
 | Swap Blocks | 44217 | [44217-swap-blocks.json](./44217-swap-blocks.json) |
@@ -18485,6 +18492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Pet | 392913 | [392913-sweet-pet.json](./392913-sweet-pet.json) |
 | Sweet Pirate | 382397 | [382397-sweet-pirate.json](./382397-sweet-pirate.json) |
 | Sweet Princess Prom Night | 87613 | [87613-sweet-princess-prom-night.json](./87613-sweet-princess-prom-night.json) |
+| Sweet Punch | 177385 | [177385-sweet-punch.json](./177385-sweet-punch.json) |
 | Sweet Racing Girl | 339445 | [339445-sweet-racing-girl.json](./339445-sweet-racing-girl.json) |
 | Sweet Restaurant | 368561 | [368561-sweet-restaurant.json](./368561-sweet-restaurant.json) |
 | Sweet Revenge | 310549 | [310549-sweet-revenge.json](./310549-sweet-revenge.json) |
