@@ -1877,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat & Butterfly | 303725 | [303725-cat-and-butterfly.json](./303725-cat-and-butterfly.json) |
 | Cat & Friends Memory | 379975 | [379975-cat-and-friends-memory.json](./379975-cat-and-friends-memory.json) |
 | Cat & Gold | 272369 | [272369-cat-and-gold.json](./272369-cat-and-gold.json) |
+| Cat & Mice | 217774 | [217774-cat-and-mice.json](./217774-cat-and-mice.json) |
 | Cat & Potat! | 178574 | [178574-cat-and-potat.json](./178574-cat-and-potat.json) |
 | Cat & Rabbit Magic Farming | 404262 | [404262-cat-and-rabbit-magic-farming.json](./404262-cat-and-rabbit-magic-farming.json) |
 | Cat + Dog | 237061 | [237061-cat-dog.json](./237061-cat-dog.json) |
@@ -2172,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatCity: Smash | 59040 | [59040-catcity-smash.json](./59040-catcity-smash.json) |
 | CatClick | 311616 | [311616-catclick.json](./311616-catclick.json) |
 | CatClimber | 320550 | [320550-catclimber.json](./320550-catclimber.json) |
+| CatDog | 217951 | [217951-catdog.json](./217951-catdog.json) |
 | CatDog on Parade | 325082 | [325082-catdog-on-parade.json](./325082-catdog-on-parade.json) |
 | CatDog: Quest for the Golden Hydrant | 7569 | [7569-catdog-quest-for-the-golden-hydrant.json](./7569-catdog-quest-for-the-golden-hydrant.json) |
 | Catechesis | 276693 | [276693-catechesis.json](./276693-catechesis.json) |
@@ -6780,6 +6782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congo Merc | 31821 | [31821-congo-merc.json](./31821-congo-merc.json) |
 | Congo The Movie: The Lost City of Zinj | 45516 | [45516-congo-the-movie-the-lost-city-of-zinj.json](./45516-congo-the-movie-the-lost-city-of-zinj.json) |
 | Congo the Movie: The Secret of Zinj | 38289 | [38289-congo-the-movie-the-secret-of-zinj.json](./38289-congo-the-movie-the-secret-of-zinj.json) |
+| Congo: The Movie | 217940 | [217940-congo-the-movie.json](./217940-congo-the-movie.json) |
 | Conjuntalia | 91002 | [91002-conjuntalia.json](./91002-conjuntalia.json) |
 | Conjuntalia: Overcome the Death of a Loved One | 171400 | [171400-conjuntalia-overcome-the-death-of-a-loved-one.json](./171400-conjuntalia-overcome-the-death-of-a-loved-one.json) |
 | Conjuror's Eye | 88069 | [88069-conjurors-eye.json](./88069-conjurors-eye.json) |
