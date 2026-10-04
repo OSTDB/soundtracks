@@ -2542,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Assault | 39115 | [39115-final-assault.json](./39115-final-assault.json) |
 | Final Assault | 94615 | [94615-final-assault.json](./94615-final-assault.json) |
 | Final Blade | 115187 | [115187-final-blade.json](./115187-final-blade.json) |
+| Final Blade | 175765 | [175765-final-blade.json](./175765-final-blade.json) |
 | Final Blaster | 37713 | [37713-final-blaster.json](./37713-final-blaster.json) |
 | Final Blockade | 203567 | [203567-final-blockade.json](./203567-final-blockade.json) |
 | Final Blow | 12098 | [12098-final-blow.json](./12098-final-blow.json) |
@@ -4446,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Cat | 199107 | [199107-fly-cat.json](./199107-fly-cat.json) |
 | Fly Catbug Fly! | 175434 | [175434-fly-catbug-fly.json](./175434-fly-catbug-fly.json) |
 | Fly Corp | 148207 | [148207-fly-corp.json](./148207-fly-corp.json) |
+| Fly Dangerous | 175784 | [175784-fly-dangerous.json](./175784-fly-dangerous.json) |
 | Fly Destroyer | 74344 | [74344-fly-destroyer.json](./74344-fly-destroyer.json) |
 | Fly Fish | 148949 | [148949-fly-fish.json](./148949-fly-fish.json) |
 | Fly Fly | 311057 | [311057-fly-fly.json](./311057-fly-fly.json) |
