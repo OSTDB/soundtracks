@@ -5053,6 +5053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoppa | 129574 | [129574-hoppa.json](./129574-hoppa.json) |
 | Hoppe Chan: Punitto Shibotte Daibouken! | 222538 | [222538-hoppe-chan-punitto-shibotte-daibouken.json](./222538-hoppe-chan-punitto-shibotte-daibouken.json) |
 | Hoppe-chan Minna de Odekake! Waku-waku Hoppe Land!! | 222296 | [222296-hoppe-chan-minna-de-odekake-waku-waku-hoppe-land.json](./222296-hoppe-chan-minna-de-odekake-waku-waku-hoppe-land.json) |
+| Hoppe-chan: Tsukutte! Asonde! Puni-puni Town!! | 222339 | [222339-hoppe-chan-tsukutte-asonde-puni-puni-town.json](./222339-hoppe-chan-tsukutte-asonde-puni-puni-town.json) |
 | Hopper | 13726 | [13726-hopper.json](./13726-hopper.json) |
 | Hopper | 144374 | [144374-hopper.json](./144374-hopper.json) |
 | Hopper (bounce bounce bounce) | 98794 | [98794-hopper-bounce-bounce-bounce.json](./98794-hopper-bounce-bounce-bounce.json) |
@@ -6085,6 +6086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Adventurer | 248013 | [248013-hungry-adventurer.json](./248013-hungry-adventurer.json) |
 | Hungry Animals | 196675 | [196675-hungry-animals.json](./196675-hungry-animals.json) |
 | Hungry Black Hole | 28106 | [28106-hungry-black-hole.json](./28106-hungry-black-hole.json) |
+| Hungry Burger | 222354 | [222354-hungry-burger.json](./222354-hungry-burger.json) |
 | Hungry Cat | 387690 | [387690-hungry-cat.json](./387690-hungry-cat.json) |
 | Hungry Cat Nonogram | 207862 | [207862-hungry-cat-nonogram.json](./207862-hungry-cat-nonogram.json) |
 | Hungry Chicks: Battle Farm | 402265 | [402265-hungry-chicks-battle-farm.json](./402265-hungry-chicks-battle-farm.json) |
