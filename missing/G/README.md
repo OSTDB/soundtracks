@@ -3742,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gossamer Matrix | 211722 | [211722-gossamer-matrix.json](./211722-gossamer-matrix.json) |
 | Gossip | 384758 | [384758-gossip.json](./384758-gossip.json) |
 | Gossipia | 59991 | [59991-gossipia.json](./59991-gossipia.json) |
+| Got Reincarnated into a World of RPG Full of NPCs... | 192788 | [192788-got-reincarnated-into-a-world-of-rpg-full-of-npcs.json](./192788-got-reincarnated-into-a-world-of-rpg-full-of-npcs.json) |
 | Got Simulator | 291537 | [291537-got-simulator.json](./291537-got-simulator.json) |
 | GOTC: Siege on the Lightorder Citadel | 164515 | [164515-gotc-siege-on-the-lightorder-citadel.json](./164515-gotc-siege-on-the-lightorder-citadel.json) |
 | Gotcha | 250633 | [250633-gotcha.json](./250633-gotcha.json) |
