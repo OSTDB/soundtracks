@@ -1410,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task Force | 46890 | [46890-task-force.json](./46890-task-force.json) |
 | Task Force 88: Hostile Contact | 179209 | [179209-task-force-88-hostile-contact.json](./179209-task-force-88-hostile-contact.json) |
 | Task Force 9 | 261788 | [261788-task-force-9.json](./261788-task-force-9.json) |
+| Task Force Admiral: Vol.1 - American Carrier Battles | 219570 | [219570-task-force-admiral-vol-1-american-carrier-battles.json](./219570-task-force-admiral-vol-1-american-carrier-battles.json) |
 | Task Force Harrier | 40248 | [40248-task-force-harrier.json](./40248-task-force-harrier.json) |
 | Task Force Harrier EX | 46599 | [46599-task-force-harrier-ex.json](./46599-task-force-harrier-ex.json) |
 | Task Force Kampas | 117141 | [117141-task-force-kampas.json](./117141-task-force-kampas.json) |
@@ -4980,6 +4981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Explorers | 263100 | [263100-the-first-explorers.json](./263100-the-first-explorers.json) |
 | The First Funky Fighter | 63295 | [63295-the-first-funky-fighter.json](./63295-the-first-funky-fighter.json) |
 | The First Mile | 73535 | [73535-the-first-mile.json](./73535-the-first-mile.json) |
+| The First Mountain | 219634 | [219634-the-first-mountain.json](./219634-the-first-mountain.json) |
 | The First Present | 278675 | [278675-the-first-present.json](./278675-the-first-present.json) |
 | The First SMW Hack that will Ever be so Lucky as to Gain the Luxury of Leaving My PC | 278628 | [278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json](./278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json) |
 | The First Spine - Arena | 386865 | [386865-the-first-spine-arena.json](./386865-the-first-spine-arena.json) |
@@ -5170,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Unknown | 195127 | [195127-the-game-of-unknown.json](./195127-the-game-of-unknown.json) |
 | The Game Paradise: Cruisin Mix - Limited Edition | 167151 | [167151-the-game-paradise-cruisin-mix-limited-edition.json](./167151-the-game-paradise-cruisin-mix-limited-edition.json) |
 | The Game Paradise: Crusin Mix Special | 124073 | [124073-the-game-paradise-crusin-mix-special.json](./124073-the-game-paradise-crusin-mix-special.json) |
+| The Game Store | 219640 | [219640-the-game-store.json](./219640-the-game-store.json) |
 | The Game That Takes Place on a Cruise Ship | 408818 | [408818-the-game-that-takes-place-on-a-cruise-ship.json](./408818-the-game-that-takes-place-on-a-cruise-ship.json) |
 | The Game That Was Stolen From Me at Indiecade2019 | 396233 | [396233-the-game-that-was-stolen-from-me-at-indiecade2019.json](./396233-the-game-that-was-stolen-from-me-at-indiecade2019.json) |
 | The Game We All Have to Play | 129011 | [129011-the-game-we-all-have-to-play.json](./129011-the-game-we-all-have-to-play.json) |
@@ -11852,6 +11855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Crisis: Project Titan | 12899 | [12899-time-crisis-project-titan.json](./12899-time-crisis-project-titan.json) |
 | Time Crisis: Razing Storm | 20449 | [20449-time-crisis-razing-storm.json](./20449-time-crisis-razing-storm.json) |
 | Time Cruise | 66089 | [66089-time-cruise.json](./66089-time-cruise.json) |
+| Time Donkey | 219501 | [219501-time-donkey.json](./219501-time-donkey.json) |
 | Time Drive: Racing Destiny | 258029 | [258029-time-drive-racing-destiny.json](./258029-time-drive-racing-destiny.json) |
 | Time Flies Like an Arrow | 291022 | [291022-time-flies-like-an-arrow.json](./291022-time-flies-like-an-arrow.json) |
 | Time Flies Like An Arrow | 276728 | [276728-time-flies-like-an-arrow.json](./276728-time-flies-like-an-arrow.json) |
@@ -11971,6 +11975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time's Prison | 318423 | [318423-times-prison.json](./318423-times-prison.json) |
 | Time's Up in Tiny Town | 190471 | [190471-times-up-in-tiny-town.json](./190471-times-up-in-tiny-town.json) |
 | Timeball | 7791 | [7791-timeball.json](./7791-timeball.json) |
+| Timebot | 219499 | [219499-timebot.json](./219499-timebot.json) |
 | Timebound Vampire | 329064 | [329064-timebound-vampire.json](./329064-timebound-vampire.json) |
 | TimeCluster | 105295 | [105295-timecluster.json](./105295-timecluster.json) |
 | Timeflow: Financial Education Sim | 114440 | [114440-timeflow-financial-education-sim.json](./114440-timeflow-financial-education-sim.json) |
@@ -12472,6 +12477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Dust | 259824 | [259824-to-dust.json](./259824-to-dust.json) |
 | To Eat A God | 326143 | [326143-to-eat-a-god.json](./326143-to-eat-a-god.json) |
 | To End All Wars: Breaking the Deadlock | 171955 | [171955-to-end-all-wars-breaking-the-deadlock.json](./171955-to-end-all-wars-breaking-the-deadlock.json) |
+| To Eternity | 219639 | [219639-to-eternity.json](./219639-to-eternity.json) |
 | To Fight | 274116 | [274116-to-fight.json](./274116-to-fight.json) |
 | To Fight The Sea | 333704 | [333704-to-fight-the-sea.json](./333704-to-fight-the-sea.json) |
 | To Have and to Hold | 260317 | [260317-to-have-and-to-hold.json](./260317-to-have-and-to-hold.json) |
@@ -14483,6 +14489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Driver Journey 2 - Iberia Interior | 88222 | [88222-train-driver-journey-2-iberia-interior.json](./88222-train-driver-journey-2-iberia-interior.json) |
 | Train Driver Journey 3 - Waldabavale to Karrah Bay | 100617 | [100617-train-driver-journey-3-waldabavale-to-karrah-bay.json](./100617-train-driver-journey-3-waldabavale-to-karrah-bay.json) |
 | Train Driver Journey 4 - Introduction to Steam | 86881 | [86881-train-driver-journey-4-introduction-to-steam.json](./86881-train-driver-journey-4-introduction-to-steam.json) |
+| Train Empire | 219498 | [219498-train-empire.json](./219498-train-empire.json) |
 | Train Escape: Hidden Adventure | 104777 | [104777-train-escape-hidden-adventure.json](./104777-train-escape-hidden-adventure.json) |
 | Train Fever: USA | 238506 | [238506-train-fever-usa.json](./238506-train-fever-usa.json) |
 | Train Frontier Classic | 72486 | [72486-train-frontier-classic.json](./72486-train-frontier-classic.json) |
