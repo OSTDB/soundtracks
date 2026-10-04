@@ -1692,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: The Skywalker Saga - Classic Character Edition | 139937 | [139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json](./139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json) |
 | LEGO Star Wars: The Skywalker Saga - Classic Character Pack | 199517 | [199517-lego-star-wars-the-skywalker-saga-classic-character-pack.json](./199517-lego-star-wars-the-skywalker-saga-classic-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - Deluxe Edition | 138105 | [138105-lego-star-wars-the-skywalker-saga-deluxe-edition.json](./138105-lego-star-wars-the-skywalker-saga-deluxe-edition.json) |
+| LEGO Star Wars: The Skywalker Saga - Galactic Edition | 216281 | [216281-lego-star-wars-the-skywalker-saga-galactic-edition.json](./216281-lego-star-wars-the-skywalker-saga-galactic-edition.json) |
 | LEGO Star Wars: The Skywalker Saga - Solo: A Star Wars Story - Character Pack | 201138 | [201138-lego-star-wars-the-skywalker-saga-solo-a-star-wars-story-character-pack.json](./201138-lego-star-wars-the-skywalker-saga-solo-a-star-wars-story-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - The Bad Batch Character Pack | 201129 | [201129-lego-star-wars-the-skywalker-saga-the-bad-batch-character-pack.json](./201129-lego-star-wars-the-skywalker-saga-the-bad-batch-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - The Mandalorian: Season 1 - Character Pack | 201137 | [201137-lego-star-wars-the-skywalker-saga-the-mandalorian-season-1-character-pack.json](./201137-lego-star-wars-the-skywalker-saga-the-mandalorian-season-1-character-pack.json) |
@@ -2555,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightrix | 372989 | [372989-lightrix.json](./372989-lightrix.json) |
 | Lightrock | 205065 | [205065-lightrock.json](./205065-lightrock.json) |
 | Lights and Shadow | 339287 | [339287-lights-and-shadow.json](./339287-lights-and-shadow.json) |
+| Lights e Shades: Safìna | 216210 | [216210-lights-e-shades-safina.json](./216210-lights-e-shades-safina.json) |
 | Lights Off | 100159 | [100159-lights-off.json](./100159-lights-off.json) |
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
 | Lights Out | 393161 | [393161-lights-out.json](./393161-lights-out.json) |
