@@ -2305,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Raid | 195172 | [195172-girl-raid.json](./195172-girl-raid.json) |
 | Girl Rugby Dash | 110139 | [110139-girl-rugby-dash.json](./110139-girl-rugby-dash.json) |
 | Girl Terminal | 410241 | [410241-girl-terminal.json](./410241-girl-terminal.json) |
+| Girl things | 183929 | [183929-girl-things.json](./183929-girl-things.json) |
 | Girl Wars: Fantasy World Unification Battle | 270643 | [270643-girl-wars-fantasy-world-unification-battle.json](./270643-girl-wars-fantasy-world-unification-battle.json) |
 | Girl Werewolf Hamlet Saves Christmas | 376102 | [376102-girl-werewolf-hamlet-saves-christmas.json](./376102-girl-werewolf-hamlet-saves-christmas.json) |
 | Girl Who Cried Wolf | 298891 | [298891-girl-who-cried-wolf.json](./298891-girl-who-cried-wolf.json) |
