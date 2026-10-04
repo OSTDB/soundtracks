@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Mystery: Remastered | 233611 | [233611-dark-mystery-remastered.json](./233611-dark-mystery-remastered.json) |
 | Dark Nebula VR | 110506 | [110506-dark-nebula-vr.json](./110506-dark-nebula-vr.json) |
 | Dark Nebula: Episode One | 67242 | [67242-dark-nebula-episode-one.json](./67242-dark-nebula-episode-one.json) |
+| Dark Nebulae Online | 179017 | [179017-dark-nebulae-online.json](./179017-dark-nebulae-online.json) |
 | Dark Neighbors | 351612 | [351612-dark-neighbors.json](./351612-dark-neighbors.json) |
 | Dark Nest: Snake Contract | 368580 | [368580-dark-nest-snake-contract.json](./368580-dark-nest-snake-contract.json) |
 | Dark Night Maze | 232938 | [232938-dark-night-maze.json](./232938-dark-night-maze.json) |
@@ -8728,6 +8729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop That Cat | 330399 | [330399-drop-that-cat.json](./330399-drop-that-cat.json) |
 | Drop the Bomb | 99587 | [99587-drop-the-bomb.json](./99587-drop-the-bomb.json) |
 | Drop the Number | 216214 | [216214-drop-the-number.json](./216214-drop-the-number.json) |
+| Drop Up | 178935 | [178935-drop-up.json](./178935-drop-up.json) |
 | Drop Zone | 46600 | [46600-drop-zone.json](./46600-drop-zone.json) |
 | Drop Zone 4 | 109590 | [109590-drop-zone-4.json](./109590-drop-zone-4.json) |
 | Drop: Save the Forest | 373087 | [373087-drop-save-the-forest.json](./373087-drop-save-the-forest.json) |
