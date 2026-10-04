@@ -7892,6 +7892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mondo Agency | 72707 | [72707-mondo-agency.json](./72707-mondo-agency.json) |
 | Mondo Pong | 40759 | [40759-mondo-pong.json](./40759-mondo-pong.json) |
 | Mondrian - Abstraction in Beauty | 34692 | [34692-mondrian-abstraction-in-beauty.json](./34692-mondrian-abstraction-in-beauty.json) |
+| Mondrian Squares | 192751 | [192751-mondrian-squares.json](./192751-mondrian-squares.json) |
 | Monet - The Mystery of the Orangery | 129764 | [129764-monet-the-mystery-of-the-orangery.json](./129764-monet-the-mystery-of-the-orangery.json) |
 | Money Farm | 298647 | [298647-money-farm.json](./298647-money-farm.json) |
 | Money Garden | 186269 | [186269-money-garden.json](./186269-money-garden.json) |
@@ -8058,6 +8059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly: SpongeBob SquarePants Edition | 68109 | [68109-monopoly-spongebob-squarepants-edition.json](./68109-monopoly-spongebob-squarepants-edition.json) |
 | Monopong | 232374 | [232374-monopong.json](./232374-monopong.json) |
 | Monoquous 2 | 326212 | [326212-monoquous-2.json](./326212-monoquous-2.json) |
+| MonoRaceVR | 192755 | [192755-monoracevr.json](./192755-monoracevr.json) |
 | Monorail Stories | 137051 | [137051-monorail-stories.json](./137051-monorail-stories.json) |
 | Monoshiri Jiyuugaku: Ogura Hyakunin Isshu-hen | 268514 | [268514-monoshiri-jiyuugaku-ogura-hyakunin-isshu-hen.json](./268514-monoshiri-jiyuugaku-ogura-hyakunin-isshu-hen.json) |
 | Monospaced Lovers | 130844 | [130844-monospaced-lovers.json](./130844-monospaced-lovers.json) |
