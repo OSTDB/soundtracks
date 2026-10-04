@@ -2983,7 +2983,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Kidd in Miracle World 2 | 339438 | [339438-alex-kidd-in-miracle-world-2.json](./339438-alex-kidd-in-miracle-world-2.json) |
 | Alex Kidd in Mushroom World | 413221 | [413221-alex-kidd-in-mushroom-world.json](./413221-alex-kidd-in-mushroom-world.json) |
 | Alex Kidd in Pico World | 279605 | [279605-alex-kidd-in-pico-world.json](./279605-alex-kidd-in-pico-world.json) |
+| Alex Kidd in Radaxian Rumble | 173107 | [173107-alex-kidd-in-radaxian-rumble.json](./173107-alex-kidd-in-radaxian-rumble.json) |
 | Alex Kidd: BMX Trial | 37174 | [37174-alex-kidd-bmx-trial.json](./37174-alex-kidd-bmx-trial.json) |
+| Alex Kidd: Fall of Radaxian | 173113 | [173113-alex-kidd-fall-of-radaxian.json](./173113-alex-kidd-fall-of-radaxian.json) |
 | Alex Kidd: High-Tech World | 46112 | [46112-alex-kidd-high-tech-world.json](./46112-alex-kidd-high-tech-world.json) |
 | Alex Kidd: Radaxian In Turmoil | 326963 | [326963-alex-kidd-radaxian-in-turmoil.json](./326963-alex-kidd-radaxian-in-turmoil.json) |
 | Alex Kidd: The Lost Stars | 13678 | [13678-alex-kidd-the-lost-stars.json](./13678-alex-kidd-the-lost-stars.json) |
@@ -6206,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Shingen Samurai-Fighter | 153832 | [153832-arcade-archives-shingen-samurai-fighter.json](./153832-arcade-archives-shingen-samurai-fighter.json) |
 | Arcade Archives: Silk Worm | 284928 | [284928-arcade-archives-silk-worm.json](./284928-arcade-archives-silk-worm.json) |
 | Arcade Archives: Sky Kid DX | 240220 | [240220-arcade-archives-sky-kid-dx.json](./240220-arcade-archives-sky-kid-dx.json) |
+| Arcade Archives: Soldam | 173133 | [173133-arcade-archives-soldam.json](./173133-arcade-archives-soldam.json) |
 | Arcade Archives: Soldier Girl Amazon | 99540 | [99540-arcade-archives-soldier-girl-amazon.json](./99540-arcade-archives-soldier-girl-amazon.json) |
 | Arcade Archives: Solitary Fighter | 282154 | [282154-arcade-archives-solitary-fighter.json](./282154-arcade-archives-solitary-fighter.json) |
 | Arcade Archives: Solomon's Key | 99564 | [99564-arcade-archives-solomons-key.json](./99564-arcade-archives-solomons-key.json) |
@@ -6232,6 +6235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Trio the Punch | 202769 | [202769-arcade-archives-trio-the-punch.json](./202769-arcade-archives-trio-the-punch.json) |
 | Arcade Archives: Tutankham | 300732 | [300732-arcade-archives-tutankham.json](./300732-arcade-archives-tutankham.json) |
 | Arcade Archives: TX-1 | 411810 | [411810-arcade-archives-tx-1.json](./411810-arcade-archives-tx-1.json) |
+| Arcade Archives: Typhoon Gal | 173130 | [173130-arcade-archives-typhoon-gal.json](./173130-arcade-archives-typhoon-gal.json) |
 | Arcade Archives: Urban Champion | 68314 | [68314-arcade-archives-urban-champion.json](./68314-arcade-archives-urban-champion.json) |
 | Arcade Archives: Vigilante | 121716 | [121716-arcade-archives-vigilante.json](./121716-arcade-archives-vigilante.json) |
 | Arcade Archives: Violence Fight | 320312 | [320312-arcade-archives-violence-fight.json](./320312-arcade-archives-violence-fight.json) |
