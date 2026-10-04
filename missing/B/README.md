@@ -3761,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi Bunny | 337459 | [337459-bibi-bunny.json](./337459-bibi-bunny.json) |
 | Bibi und Tina auf dem Martinshof | 136370 | [136370-bibi-und-tina-auf-dem-martinshof.json](./136370-bibi-und-tina-auf-dem-martinshof.json) |
 | Bibi und Tina: Fohlen "Felix" in Gefahr | 86210 | [86210-bibi-und-tina-fohlen-felix-in-gefahr.json](./86210-bibi-und-tina-fohlen-felix-in-gefahr.json) |
+| BiBi World | 174710 | [174710-bibi-world.json](./174710-bibi-world.json) |
 | Bible Master | 299818 | [299818-bible-master.json](./299818-bible-master.json) |
 | Bible Master 2: The Chaos of Aglia | 299819 | [299819-bible-master-2-the-chaos-of-aglia.json](./299819-bible-master-2-the-chaos-of-aglia.json) |
 | Bible Puzzle | 319723 | [319723-bible-puzzle.json](./319723-bible-puzzle.json) |
@@ -6823,6 +6824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Mario | 159321 | [159321-book-of-mario.json](./159321-book-of-mario.json) |
 | Book of Mario: Thousands of Doors | 159323 | [159323-book-of-mario-thousands-of-doors.json](./159323-book-of-mario-thousands-of-doors.json) |
 | Book of Myko | 350455 | [350455-book-of-myko.json](./350455-book-of-myko.json) |
+| Book of Myths | 174616 | [174616-book-of-myths.json](./174616-book-of-myths.json) |
 | Book of Shadows | 235204 | [235204-book-of-shadows.json](./235204-book-of-shadows.json) |
 | Book of Yog | 126520 | [126520-book-of-yog.json](./126520-book-of-yog.json) |
 | Book Organizer | 405095 | [405095-book-organizer.json](./405095-book-organizer.json) |
@@ -8211,6 +8213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bright Girl | 155017 | [155017-bright-girl.json](./155017-bright-girl.json) |
 | Bright Lancer | 141881 | [141881-bright-lancer.json](./141881-bright-lancer.json) |
 | Bright Memory Collection | 193752 | [193752-bright-memory-collection.json](./193752-bright-memory-collection.json) |
+| Bright Memory Mobile | 174688 | [174688-bright-memory-mobile.json](./174688-bright-memory-mobile.json) |
 | Bright Memory: Infinite | 113739 | [113739-bright-memory-infinite.json](./113739-bright-memory-infinite.json) |
 | Bright Memory: Infinite - Platinum Edition | 212286 | [212286-bright-memory-infinite-platinum-edition.json](./212286-bright-memory-infinite-platinum-edition.json) |
 | Bright Oak | 277016 | [277016-bright-oak.json](./277016-bright-oak.json) |
