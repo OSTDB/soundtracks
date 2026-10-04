@@ -2833,6 +2833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Path | 126654 | [126654-phantom-path.json](./126654-phantom-path.json) |
 | Phantom Peak | 257985 | [257985-phantom-peak.json](./257985-phantom-peak.json) |
 | Phantom Playhouse | 331949 | [331949-phantom-playhouse.json](./331949-phantom-playhouse.json) |
+| Phantom Racing | 199443 | [199443-phantom-racing.json](./199443-phantom-racing.json) |
 | Phantom Rend | 379862 | [379862-phantom-rend.json](./379862-phantom-rend.json) |
 | Phantom Rift | 174351 | [174351-phantom-rift.json](./174351-phantom-rift.json) |
 | Phantom Rose | 117605 | [117605-phantom-rose.json](./117605-phantom-rose.json) |
@@ -2895,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phat Phrog | 30892 | [30892-phat-phrog.json](./30892-phat-phrog.json) |
 | Phat Phrog Clicker | 314308 | [314308-phat-phrog-clicker.json](./314308-phat-phrog-clicker.json) |
 | Phazika | 398520 | [398520-phazika.json](./398520-phazika.json) |
+| Phelios | 199420 | [199420-phelios.json](./199420-phelios.json) |
 | Phenocore | 194308 | [194308-phenocore.json](./194308-phenocore.json) |
 | Phenomenal Car Park Simulator | 124220 | [124220-phenomenal-car-park-simulator.json](./124220-phenomenal-car-park-simulator.json) |
 | Pheonix II | 411746 | [411746-pheonix-ii.json](./411746-pheonix-ii.json) |
