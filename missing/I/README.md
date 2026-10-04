@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Love: Stone Beauty - Collector's Edition | 130156 | [130156-immortal-love-stone-beauty-collectors-edition.json](./130156-immortal-love-stone-beauty-collectors-edition.json) |
 | Immortal Lovers | 199993 | [199993-immortal-lovers.json](./199993-immortal-lovers.json) |
 | Immortal Magus | 344360 | [344360-immortal-magus.json](./344360-immortal-magus.json) |
+| Immortal Mantis | 196671 | [196671-immortal-mantis.json](./196671-immortal-mantis.json) |
 | Immortal Quest | 106398 | [106398-immortal-quest.json](./106398-immortal-quest.json) |
 | Immortal Realms: Vampire Wars | 119258 | [119258-immortal-realms-vampire-wars.json](./119258-immortal-realms-vampire-wars.json) |
 | Immortal Realms: Vampire Wars - Fangs and Bones | 238480 | [238480-immortal-realms-vampire-wars-fangs-and-bones.json](./238480-immortal-realms-vampire-wars-fangs-and-bones.json) |
