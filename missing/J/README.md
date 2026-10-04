@@ -2242,4 +2242,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jya Jya | 251086 | [251086-jya-jya.json](./251086-jya-jya.json) |
 | Jyangokushi - Haoh No Saihai | 40217 | [40217-jyangokushi-haoh-no-saihai.json](./40217-jyangokushi-haoh-no-saihai.json) |
 | Jydge | 43501 | [43501-jydge.json](./43501-jydge.json) |
+| Jylko: Through the Song | 211654 | [211654-jylko-through-the-song.json](./211654-jylko-through-the-song.json) |
 | Jyym Pearson Adventure Tri-Pack | 100126 | [100126-jyym-pearson-adventure-tri-pack.json](./100126-jyym-pearson-adventure-tri-pack.json) |
