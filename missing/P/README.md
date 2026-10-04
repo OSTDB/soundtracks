@@ -8003,6 +8003,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Goblin | 404986 | [404986-project-goblin.json](./404986-project-goblin.json) |
 | Project Gold | 141018 | [141018-project-gold.json](./141018-project-gold.json) |
 | Project Gotham Racing 4: Recompiled | 414601 | [414601-project-gotham-racing-4-recompiled.json](./414601-project-gotham-racing-4-recompiled.json) |
+| Project Gotham Racing: Ferrari Edition | 221092 | [221092-project-gotham-racing-ferrari-edition.json](./221092-project-gotham-racing-ferrari-edition.json) |
+| Project Gotham Racing: Mobile | 221089 | [221089-project-gotham-racing-mobile.json](./221089-project-gotham-racing-mobile.json) |
 | Project GR-5LYR: Galactic Relocation | 108422 | [108422-project-gr-5lyr-galactic-relocation.json](./108422-project-gr-5lyr-galactic-relocation.json) |
 | Project Gravity | 139385 | [139385-project-gravity.json](./139385-project-gravity.json) |
 | Project Gravity | 341554 | [341554-project-gravity.json](./341554-project-gravity.json) |
