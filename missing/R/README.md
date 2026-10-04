@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R2Beat | 108993 | [108993-r2beat.json](./108993-r2beat.json) |
 | R2D Tank | 40394 | [40394-r2d-tank.json](./40394-r2d-tank.json) |
 | R2R: Rewire to Revolt | 338333 | [338333-r2r-rewire-to-revolt.json](./338333-r2r-rewire-to-revolt.json) |
+| R3wind | 183395 | [183395-r3wind.json](./183395-r3wind.json) |
 | R42 | 130900 | [130900-r42.json](./130900-r42.json) |
 | R4YL: Run for your life! | 253879 | [253879-r4yl-run-for-your-life.json](./253879-r4yl-run-for-your-life.json) |
 | R5Reloaded | 229750 | [229750-r5reloaded.json](./229750-r5reloaded.json) |
@@ -2847,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Res Arcana | 37869 | [37869-res-arcana.json](./37869-res-arcana.json) |
 | ReSail | 182938 | [182938-resail.json](./182938-resail.json) |
 | Resbs | 201565 | [201565-resbs.json](./201565-resbs.json) |
+| ReScale | 183391 | [183391-rescale.json](./183391-rescale.json) |
 | Rescape | 235981 | [235981-rescape.json](./235981-rescape.json) |
 | Rescue | 46855 | [46855-rescue.json](./46855-rescue.json) |
 | Rescue 2: Everyday Heroes | 53500 | [53500-rescue-2-everyday-heroes.json](./53500-rescue-2-everyday-heroes.json) |
@@ -6612,6 +6614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runewaker | 186803 | [186803-runewaker.json](./186803-runewaker.json) |
 | Runewatch: Age of Arcanum | 208464 | [208464-runewatch-age-of-arcanum.json](./208464-runewatch-age-of-arcanum.json) |
 | Runeyana | 32935 | [32935-runeyana.json](./32935-runeyana.json) |
+| Runflexio: Exhibition Version | 183330 | [183330-runflexio-exhibition-version.json](./183330-runflexio-exhibition-version.json) |
 | Rungore | 220488 | [220488-rungore.json](./220488-rungore.json) |
 | Runi's Math Castle | 306337 | [306337-runis-math-castle.json](./306337-runis-math-castle.json) |
 | Runic Curse | 207851 | [207851-runic-curse.json](./207851-runic-curse.json) |
