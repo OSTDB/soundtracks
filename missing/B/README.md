@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance Balls | 262438 | [262438-balance-balls.json](./262438-balance-balls.json) |
 | Balance Balls 2 | 262442 | [262442-balance-balls-2.json](./262442-balance-balls-2.json) |
 | Balance It! | 408294 | [408294-balance-it.json](./408294-balance-it.json) |
+| Balance Knight | 197220 | [197220-balance-knight.json](./197220-balance-knight.json) |
 | Balance of Kingdoms | 66144 | [66144-balance-of-kingdoms.json](./66144-balance-of-kingdoms.json) |
 | Balance of Power | 183072 | [183072-balance-of-power.json](./183072-balance-of-power.json) |
 | Balance of Power: The 1990 Edition | 14608 | [14608-balance-of-power-the-1990-edition.json](./14608-balance-of-power-the-1990-edition.json) |
@@ -2559,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Festival World Championship 1997 | 255362 | [255362-beach-festival-world-championship-1997.json](./255362-beach-festival-world-championship-1997.json) |
 | Beach Friends | 376465 | [376465-beach-friends.json](./376465-beach-friends.json) |
 | Beach Fun Summer Challenge | 50739 | [50739-beach-fun-summer-challenge.json](./50739-beach-fun-summer-challenge.json) |
+| Beach Games | 197184 | [197184-beach-games.json](./197184-beach-games.json) |
 | Beach Gas Gas | 247620 | [247620-beach-gas-gas.json](./247620-beach-gas-gas.json) |
 | Beach Girls | 75758 | [75758-beach-girls.json](./75758-beach-girls.json) |
 | Beach Girls 2: Sports in Bikini | 300774 | [300774-beach-girls-2-sports-in-bikini.json](./300774-beach-girls-2-sports-in-bikini.json) |
@@ -4523,6 +4525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitfighter | 47275 | [47275-bitfighter.json](./47275-bitfighter.json) |
 | Bitgram | 55157 | [55157-bitgram.json](./55157-bitgram.json) |
 | BitHero Survivors | 366982 | [366982-bithero-survivors.json](./366982-bithero-survivors.json) |
+| Bitlands | 197193 | [197193-bitlands.json](./197193-bitlands.json) |
 | BitLiberator | 340036 | [340036-bitliberator.json](./340036-bitliberator.json) |
 | BitLife | 140762 | [140762-bitlife.json](./140762-bitlife.json) |
 | Bitmap Bureau Collection | 287089 | [287089-bitmap-bureau-collection.json](./287089-bitmap-bureau-collection.json) |
@@ -8761,6 +8764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build and Play 3D: Rockets, Helicopters, Submarines and More | 109214 | [109214-build-and-play-3d-rockets-helicopters-submarines-and-more.json](./109214-build-and-play-3d-rockets-helicopters-submarines-and-more.json) |
 | Build Bridges | 87992 | [87992-build-bridges.json](./87992-build-bridges.json) |
 | Build buildings | 105316 | [105316-build-buildings.json](./105316-build-buildings.json) |
+| Build Cars with Edward and Arthur | 197186 | [197186-build-cars-with-edward-and-arthur.json](./197186-build-cars-with-edward-and-arthur.json) |
 | Build City | 91553 | [91553-build-city.json](./91553-build-city.json) |
 | Build For Sale Simulator | 273377 | [273377-build-for-sale-simulator.json](./273377-build-for-sale-simulator.json) |
 | Build If You Can | 23978 | [23978-build-if-you-can.json](./23978-build-if-you-can.json) |
@@ -9493,6 +9497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byte Lynx | 203889 | [203889-byte-lynx.json](./203889-byte-lynx.json) |
 | Byte Rider | 234011 | [234011-byte-rider.json](./234011-byte-rider.json) |
 | Byte Survivor | 303717 | [303717-byte-survivor.json](./303717-byte-survivor.json) |
+| Byte the Bullet | 197213 | [197213-byte-the-bullet.json](./197213-byte-the-bullet.json) |
 | Byte Wars | 360578 | [360578-byte-wars.json](./360578-byte-wars.json) |
 | Byter | 319575 | [319575-byter.json](./319575-byter.json) |
 | Bytes and Knights Adventure | 402433 | [402433-bytes-and-knights-adventure.json](./402433-bytes-and-knights-adventure.json) |
