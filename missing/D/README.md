@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangle | 274996 | [274996-dangle.json](./274996-dangle.json) |
 | Dango Dash | 228508 | [228508-dango-dash.json](./228508-dango-dash.json) |
 | Dango Thief | 242539 | [242539-dango-thief.json](./242539-dango-thief.json) |
+| Dango! | 207726 | [207726-dango.json](./207726-dango.json) |
 | DangoVerse | 284998 | [284998-dangoverse.json](./284998-dangoverse.json) |
 | Dangun Feveron | 40979 | [40979-dangun-feveron.json](./40979-dangun-feveron.json) |
 | Daniel Pintado's Land of Silence | 284999 | [284999-daniel-pintados-land-of-silence.json](./284999-daniel-pintados-land-of-silence.json) |
@@ -1627,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De:Fanastasis | 297812 | [297812-de-fanastasis.json](./297812-de-fanastasis.json) |
 | De:Void | 135813 | [135813-de-void.json](./135813-de-void.json) |
 | De'Vine World of Shadows | 99665 | [99665-devine-world-of-shadows.json](./99665-devine-world-of-shadows.json) |
+| De'Vine: Heavenly Acres | 207748 | [207748-devine-heavenly-acres.json](./207748-devine-heavenly-acres.json) |
 | De'Vot | 258497 | [258497-devot.json](./258497-devot.json) |
 | Dea | 288852 | [288852-dea.json](./288852-dea.json) |
 | Deabirth: Real | 182816 | [182816-deabirth-real.json](./182816-deabirth-real.json) |
@@ -4313,6 +4315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dichromatic | 184926 | [184926-dichromatic.json](./184926-dichromatic.json) |
 | Dick and Dom's Hoopla! | 304208 | [304208-dick-and-doms-hoopla.json](./304208-dick-and-doms-hoopla.json) |
 | Dick Hook | 287901 | [287901-dick-hook.json](./287901-dick-hook.json) |
+| Dick Ranger | 207722 | [207722-dick-ranger.json](./207722-dick-ranger.json) |
 | Dick Richards | 185410 | [185410-dick-richards.json](./185410-dick-richards.json) |
 | Dick Tracy | 13058 | [13058-dick-tracy.json](./13058-dick-tracy.json) |
 | Dick Tracy | 316832 | [316832-dick-tracy.json](./316832-dick-tracy.json) |
@@ -5984,6 +5987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki First Love Club! | 153950 | [153950-doki-doki-first-love-club.json](./153950-doki-doki-first-love-club.json) |
 | Doki Doki Grappling Hook Yuri: The Origin Arc | 334269 | [334269-doki-doki-grappling-hook-yuri-the-origin-arc.json](./334269-doki-doki-grappling-hook-yuri-the-origin-arc.json) |
 | Doki Doki Happy Thoughts | 334821 | [334821-doki-doki-happy-thoughts.json](./334821-doki-doki-happy-thoughts.json) |
+| Doki Doki House | 207712 | [207712-doki-doki-house.json](./207712-doki-doki-house.json) |
 | Doki Doki Indian Man Time | 333919 | [333919-doki-doki-indian-man-time.json](./333919-doki-doki-indian-man-time.json) |
 | Doki Doki Literature Club | 309582 | [309582-doki-doki-literature-club.json](./309582-doki-doki-literature-club.json) |
 | Doki Doki Literature Club Plus! | 152122 | [152122-doki-doki-literature-club-plus.json](./152122-doki-doki-literature-club-plus.json) |
@@ -8569,6 +8573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Warfare | 81179 | [81179-drone-warfare.json](./81179-drone-warfare.json) |
 | Drone Wars | 373546 | [373546-drone-wars.json](./373546-drone-wars.json) |
 | Drone World Tour: Flight Simulator | 322665 | [322665-drone-world-tour-flight-simulator.json](./322665-drone-world-tour-flight-simulator.json) |
+| Droned | 207738 | [207738-droned.json](./207738-droned.json) |
 | Dronelord Hyperviber | 384615 | [384615-dronelord-hyperviber.json](./384615-dronelord-hyperviber.json) |
 | Drones | 119566 | [119566-drones.json](./119566-drones.json) |
 | Drones and Ruins | 87978 | [87978-drones-and-ruins.json](./87978-drones-and-ruins.json) |
