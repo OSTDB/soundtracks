@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FactoryCapi | 338290 | [338290-factorycapi.json](./338290-factorycapi.json) |
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
 | Factotum 90 | 21317 | [21317-factotum-90.json](./21317-factotum-90.json) |
+| Factropy | 196661 | [196661-factropy.json](./196661-factropy.json) |
 | Fade Into Darkness | 63841 | [63841-fade-into-darkness.json](./63841-fade-into-darkness.json) |
 | Fade Master 3D: Barber Shop | 224045 | [224045-fade-master-3d-barber-shop.json](./224045-fade-master-3d-barber-shop.json) |
 | Fade Out | 118292 | [118292-fade-out.json](./118292-fade-out.json) |
@@ -3139,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FireJumpers | 200126 | [200126-firejumpers.json](./200126-firejumpers.json) |
 | FireJumpers Inferno | 159719 | [159719-firejumpers-inferno.json](./159719-firejumpers-inferno.json) |
 | FireJumpers Inferno: Full Version Unlock | 220864 | [220864-firejumpers-inferno-full-version-unlock.json](./220864-firejumpers-inferno-full-version-unlock.json) |
+| Firekeep | 196670 | [196670-firekeep.json](./196670-firekeep.json) |
 | FireKrackers | 264686 | [264686-firekrackers.json](./264686-firekrackers.json) |
 | Firelight Fantasy: Force Energy | 147483 | [147483-firelight-fantasy-force-energy.json](./147483-firelight-fantasy-force-energy.json) |
 | Firelight Fantasy: Phoenix Crew | 151013 | [151013-firelight-fantasy-phoenix-crew.json](./151013-firelight-fantasy-phoenix-crew.json) |
