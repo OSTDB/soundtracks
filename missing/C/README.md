@@ -2503,6 +2503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceana the Wraithress | 314951 | [314951-ceana-the-wraithress.json](./314951-ceana-the-wraithress.json) |
 | Ceaseless | 380069 | [380069-ceaseless.json](./380069-ceaseless.json) |
 | Ceasing to be Her Demise | 57908 | [57908-ceasing-to-be-her-demise.json](./57908-ceasing-to-be-her-demise.json) |
+| Cebolinha & Floquinho | 216292 | [216292-cebolinha-and-floquinho.json](./216292-cebolinha-and-floquinho.json) |
 | Cebus | 400341 | [400341-cebus.json](./400341-cebus.json) |
 | Cecco Collection | 138018 | [138018-cecco-collection.json](./138018-cecco-collection.json) |
 | Ceci and the Gnomes | 207812 | [207812-ceci-and-the-gnomes.json](./207812-ceci-and-the-gnomes.json) |
@@ -3607,6 +3608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiclana & Friends: The Game | 299387 | [299387-chiclana-and-friends-the-game.json](./299387-chiclana-and-friends-the-game.json) |
 | Chico and the Magic Orchards | 199361 | [199361-chico-and-the-magic-orchards.json](./199361-chico-and-the-magic-orchards.json) |
 | Chico and the Magic Orchards DX | 277885 | [277885-chico-and-the-magic-orchards-dx.json](./277885-chico-and-the-magic-orchards-dx.json) |
+| Chico Bento: Um Dia na Roça | 216294 | [216294-chico-bento-um-dia-na-roca.json](./216294-chico-bento-um-dia-na-roca.json) |
 | Chico's Rebound | 345050 | [345050-chicos-rebound.json](./345050-chicos-rebound.json) |
 | ChicScape | 152777 | [152777-chicscape.json](./152777-chicscape.json) |
 | Chief Bubble Officer | 413163 | [413163-chief-bubble-officer.json](./413163-chief-bubble-officer.json) |
@@ -4238,6 +4240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Ark: High Roller | 314900 | [314900-chrono-ark-high-roller.json](./314900-chrono-ark-high-roller.json) |
 | Chrono Ark: Summer Twilight | 310011 | [310011-chrono-ark-summer-twilight.json](./310011-chrono-ark-summer-twilight.json) |
 | Chrono CCG | 381788 | [381788-chrono-ccg.json](./381788-chrono-ccg.json) |
+| Chrono Circle | 216287 | [216287-chrono-circle.json](./216287-chrono-circle.json) |
 | Chrono Clues | 411086 | [411086-chrono-clues.json](./411086-chrono-clues.json) |
 | Chrono Commando 2053 | 272340 | [272340-chrono-commando-2053.json](./272340-chrono-commando-2053.json) |
 | Chrono Cross | 335488 | [335488-chrono-cross.json](./335488-chrono-cross.json) |
@@ -6516,6 +6519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commando Assault | 335476 | [335476-commando-assault.json](./335476-commando-assault.json) |
 | Commando Dog | 119550 | [119550-commando-dog.json](./119550-commando-dog.json) |
 | Commando Fodder: War Dogs | 114825 | [114825-commando-fodder-war-dogs.json](./114825-commando-fodder-war-dogs.json) |
+| Commando Gun | 216137 | [216137-commando-gun.json](./216137-commando-gun.json) |
 | Commando Hero | 229014 | [229014-commando-hero.json](./229014-commando-hero.json) |
 | Commando Jack | 9801 | [9801-commando-jack.json](./9801-commando-jack.json) |
 | Commando Jack Respawn | 136393 | [136393-commando-jack-respawn.json](./136393-commando-jack-respawn.json) |
