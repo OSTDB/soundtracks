@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterplace | 232032 | [232032-afterplace.json](./232032-afterplace.json) |
 | AfterQuest | 394314 | [394314-afterquest.json](./394314-afterquest.json) |
 | Afterschool : Reel Danger | 361913 | [361913-afterschool-reel-danger.json](./361913-afterschool-reel-danger.json) |
+| Afterschool! Survival Club | 193798 | [193798-afterschool-survival-club.json](./193798-afterschool-survival-club.json) |
 | Aftershock | 346183 | [346183-aftershock.json](./346183-aftershock.json) |
 | Aftershock for Quake | 271795 | [271795-aftershock-for-quake.json](./271795-aftershock-for-quake.json) |
 | Aftershock: Coastline | 253377 | [253377-aftershock-coastline.json](./253377-aftershock-coastline.json) |
@@ -3446,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Noobs Must Die | 264806 | [264806-all-noobs-must-die.json](./264806-all-noobs-must-die.json) |
 | All of Our Friends Are Dead | 124630 | [124630-all-of-our-friends-are-dead.json](./124630-all-of-our-friends-are-dead.json) |
 | All of Touhou Mystia's Izakaya | 209978 | [209978-all-of-touhou-mystias-izakaya.json](./209978-all-of-touhou-mystias-izakaya.json) |
+| All of Us Are Dead | 193833 | [193833-all-of-us-are-dead.json](./193833-all-of-us-are-dead.json) |
 | All of Us: Her Story | 313877 | [313877-all-of-us-her-story.json](./313877-all-of-us-her-story.json) |
 | All of Us: His Story | 313878 | [313878-all-of-us-his-story.json](./313878-all-of-us-his-story.json) |
 | All On Board! | 305146 | [305146-all-on-board.json](./305146-all-on-board.json) |
@@ -4479,6 +4481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Stars | 277014 | [277014-ancient-stars.json](./277014-ancient-stars.json) |
 | Ancient Stories: Gods of Egypt | 119684 | [119684-ancient-stories-gods-of-egypt.json](./119684-ancient-stories-gods-of-egypt.json) |
 | Ancient Swarm | 410345 | [410345-ancient-swarm.json](./410345-ancient-swarm.json) |
+| Ancient Sword Qimen Yanjia | 193824 | [193824-ancient-sword-qimen-yanjia.json](./193824-ancient-sword-qimen-yanjia.json) |
 | Ancient Taxi | 91557 | [91557-ancient-taxi.json](./91557-ancient-taxi.json) |
 | Ancient TD | 363062 | [363062-ancient-td.json](./363062-ancient-td.json) |
 | Ancient Totems | 303163 | [303163-ancient-totems.json](./303163-ancient-totems.json) |
@@ -6370,6 +6373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcBall 2 | 99424 | [99424-arcball-2.json](./99424-arcball-2.json) |
 | Arceon | 256836 | [256836-arceon.json](./256836-arceon.json) |
 | Arcflame Frontiers | 413099 | [413099-arcflame-frontiers.json](./413099-arcflame-frontiers.json) |
+| Arcforce | 193793 | [193793-arcforce.json](./193793-arcforce.json) |
 | Arch Drift | 114543 | [114543-arch-drift.json](./114543-arch-drift.json) |
 | Arch Rivals | 215083 | [215083-arch-rivals.json](./215083-arch-rivals.json) |
 | Arch Rivals | 242784 | [242784-arch-rivals.json](./242784-arch-rivals.json) |
@@ -6745,6 +6749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: The Center Ascended | 304378 | [304378-ark-the-center-ascended.json](./304378-ark-the-center-ascended.json) |
 | Ark: Ultimate Survivor Edition | 152344 | [152344-ark-ultimate-survivor-edition.json](./152344-ark-ultimate-survivor-edition.json) |
 | Ark's Wonder Dungeon | 321588 | [321588-arks-wonder-dungeon.json](./321588-arks-wonder-dungeon.json) |
+| Arkadia | 193835 | [193835-arkadia.json](./193835-arkadia.json) |
 | Arkady Survive | 117658 | [117658-arkady-survive.json](./117658-arkady-survive.json) |
 | Arkagis Revolution | 141025 | [141025-arkagis-revolution.json](./141025-arkagis-revolution.json) |
 | Arkaia: The Enigmatic Isle | 68606 | [68606-arkaia-the-enigmatic-isle.json](./68606-arkaia-the-enigmatic-isle.json) |
