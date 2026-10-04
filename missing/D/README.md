@@ -3649,6 +3649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolate Hope | 383593 | [383593-desolate-hope.json](./383593-desolate-hope.json) |
 | Desolate Realms | 276847 | [276847-desolate-realms.json](./276847-desolate-realms.json) |
 | Desolate Sands | 109697 | [109697-desolate-sands.json](./109697-desolate-sands.json) |
+| Desolate Shores | 200015 | [200015-desolate-shores.json](./200015-desolate-shores.json) |
 | Desolate Wastes: Vendor Chronicles | 30314 | [30314-desolate-wastes-vendor-chronicles.json](./30314-desolate-wastes-vendor-chronicles.json) |
 | Desolate: Clone Catastrophe | 93730 | [93730-desolate-clone-catastrophe.json](./93730-desolate-clone-catastrophe.json) |
 | Desolated District | 253356 | [253356-desolated-district.json](./253356-desolated-district.json) |
@@ -6056,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki: Chapter 0 | 304217 | [304217-doki-chapter-0.json](./304217-doki-chapter-0.json) |
 | Doki! Doki! Yuuenchi: Crazy Land Daisakusen | 48663 | [48663-doki-doki-yuuenchi-crazy-land-daisakusen.json](./48663-doki-doki-yuuenchi-crazy-land-daisakusen.json) |
 | DokiDoki Academy | 252894 | [252894-dokidoki-academy.json](./252894-dokidoki-academy.json) |
+| DokiDoki LoveUnholyc Class | 200012 | [200012-dokidoki-loveunholyc-class.json](./200012-dokidoki-loveunholyc-class.json) |
 | Dokis World | 269030 | [269030-dokis-world.json](./269030-dokis-world.json) |
 | Dokkaebi Hentai Adventures | 88073 | [88073-dokkaebi-hentai-adventures.json](./88073-dokkaebi-hentai-adventures.json) |
 | Dokkalfheim Magical University | 278526 | [278526-dokkalfheim-magical-university.json](./278526-dokkalfheim-magical-university.json) |
@@ -7983,6 +7985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread or Dead | 418508 | [418508-dread-or-dead.json](./418508-dread-or-dead.json) |
 | Dread Pilots | 252854 | [252854-dread-pilots.json](./252854-dread-pilots.json) |
 | Dread Protocol | 277315 | [277315-dread-protocol.json](./277315-dread-protocol.json) |
+| Dread Rune | 199982 | [199982-dread-rune.json](./199982-dread-rune.json) |
 | Dread the Rabbit | 183595 | [183595-dread-the-rabbit.json](./183595-dread-the-rabbit.json) |
 | Dread Weight | 249334 | [249334-dread-weight.json](./249334-dread-weight.json) |
 | Dread X Collection 3 | 140041 | [140041-dread-x-collection-3.json](./140041-dread-x-collection-3.json) |
@@ -8979,6 +8982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Toys 2 | 222860 | [222860-duel-toys-2.json](./222860-duel-toys-2.json) |
 | Duel VR | 29083 | [29083-duel-vr.json](./29083-duel-vr.json) |
 | Duelant | 311456 | [311456-duelant.json](./311456-duelant.json) |
+| Dueledged | 200013 | [200013-dueledged.json](./200013-dueledged.json) |
 | Dueling Dragons | 183566 | [183566-dueling-dragons.json](./183566-dueling-dragons.json) |
 | Dueling Drums | 341466 | [341466-dueling-drums.json](./341466-dueling-drums.json) |
 | Dueling Dungeon | 95584 | [95584-dueling-dungeon.json](./95584-dueling-dungeon.json) |
