@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okage: Shadow King | 43614 | [43614-okage-shadow-king.json](./43614-okage-shadow-king.json) |
 | Okami + Kunitsu-Gami Bundle | 331481 | [331481-okami-kunitsu-gami-bundle.json](./331481-okami-kunitsu-gami-bundle.json) |
 | Okami Sequel | 325610 | [325610-okami-sequel.json](./325610-okami-sequel.json) |
+| Okashi na Shima no Peter Pan: Sweet Never Land | 218955 | [218955-okashi-na-shima-no-peter-pan-sweet-never-land.json](./218955-okashi-na-shima-no-peter-pan-sweet-never-land.json) |
 | Okayu Nyumu! | 320166 | [320166-okayu-nyumu.json](./320166-okayu-nyumu.json) |
 | Okayu Nyumu! R | 395849 | [395849-okayu-nyumu-r.json](./395849-okayu-nyumu-r.json) |
 | Okekenuki | 280420 | [280420-okekenuki.json](./280420-okekenuki.json) |
