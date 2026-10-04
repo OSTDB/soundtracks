@@ -1474,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day on Mars | 186853 | [186853-day-on-mars.json](./186853-day-on-mars.json) |
 | Day One: Garry's Incident | 3046 | [3046-day-one-garrys-incident.json](./3046-day-one-garrys-incident.json) |
 | Day R | 82855 | [82855-day-r.json](./82855-day-r.json) |
+| Day R Survival | 175678 | [175678-day-r-survival.json](./175678-day-r-survival.json) |
 | Day Seven | 125268 | [125268-day-seven.json](./125268-day-seven.json) |
 | Day Trader Tycoon | 386890 | [386890-day-trader-tycoon.json](./386890-day-trader-tycoon.json) |
 | Day Zero | 330904 | [330904-day-zero.json](./330904-day-zero.json) |
@@ -2760,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunter II: Extended Season | 64366 | [64366-deer-hunter-ii-extended-season.json](./64366-deer-hunter-ii-extended-season.json) |
 | Deer Hunter Online | 64364 | [64364-deer-hunter-online.json](./64364-deer-hunter-online.json) |
 | Deer Hunter Reloaded | 136399 | [136399-deer-hunter-reloaded.json](./136399-deer-hunter-reloaded.json) |
+| Deer Hunter World: The Hunt | 175686 | [175686-deer-hunter-world-the-hunt.json](./175686-deer-hunter-world-the-hunt.json) |
 | Deer Hunter x Treme Focal Plane | 169420 | [169420-deer-hunter-x-treme-focal-plane.json](./169420-deer-hunter-x-treme-focal-plane.json) |
 | Deer Hunter: African Safari | 64372 | [64372-deer-hunter-african-safari.json](./64372-deer-hunter-african-safari.json) |
 | Deer Man | 19045 | [19045-deer-man.json](./19045-deer-man.json) |
@@ -3575,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Kingdoms 2 | 303473 | [303473-desert-kingdoms-2.json](./303473-desert-kingdoms-2.json) |
 | Desert Lions | 335459 | [335459-desert-lions.json](./335459-desert-lions.json) |
 | Desert Lost | 202200 | [202200-desert-lost.json](./202200-desert-lost.json) |
+| Desert Magic Adventures | 175771 | [175771-desert-magic-adventures.json](./175771-desert-magic-adventures.json) |
 | Desert of Doitjma | 128437 | [128437-desert-of-doitjma.json](./128437-desert-of-doitjma.json) |
 | Desert Of The Undead New Frontiers | 296364 | [296364-desert-of-the-undead-new-frontiers.json](./296364-desert-of-the-undead-new-frontiers.json) |
 | Desert of Vice | 95169 | [95169-desert-of-vice.json](./95169-desert-of-vice.json) |
