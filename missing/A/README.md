@@ -3238,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens After Ava | 211212 | [211212-aliens-after-ava.json](./211212-aliens-after-ava.json) |
 | Aliens and Asteroids | 296515 | [296515-aliens-and-asteroids.json](./296515-aliens-and-asteroids.json) |
 | Aliens Are Rude! | 95200 | [95200-aliens-are-rude.json](./95200-aliens-are-rude.json) |
+| Aliens Ate My Boyfriend | 212687 | [212687-aliens-ate-my-boyfriend.json](./212687-aliens-ate-my-boyfriend.json) |
 | Aliens Doom 3: Aliens vs Predator | 381150 | [381150-aliens-doom-3-aliens-vs-predator.json](./381150-aliens-doom-3-aliens-vs-predator.json) |
 | Aliens Go Home Run! | 26835 | [26835-aliens-go-home-run.json](./26835-aliens-go-home-run.json) |
 | Aliens In Chains | 233616 | [233616-aliens-in-chains.json](./233616-aliens-in-chains.json) |
@@ -5251,6 +5252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another World | 392454 | [392454-another-world.json](./392454-another-world.json) |
 | Another World Adventures | 379448 | [379448-another-world-adventures.json](./379448-another-world-adventures.json) |
 | Another World for Dreamcast | 343875 | [343875-another-world-for-dreamcast.json](./343875-another-world-for-dreamcast.json) |
+| Another World Quest | 212714 | [212714-another-world-quest.json](./212714-another-world-quest.json) |
 | Another World: Lost In Heart | 365735 | [365735-another-world-lost-in-heart.json](./365735-another-world-lost-in-heart.json) |
 | Another World: Pirates And The Great Old Gods | 379450 | [379450-another-world-pirates-and-the-great-old-gods.json](./379450-another-world-pirates-and-the-great-old-gods.json) |
 | Another World: Thought Taboo | 230911 | [230911-another-world-thought-taboo.json](./230911-another-world-thought-taboo.json) |
@@ -6176,6 +6178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Ultimate: Street of Rage - Limited Edition | 202789 | [202789-arcade-ultimate-street-of-rage-limited-edition.json](./202789-arcade-ultimate-street-of-rage-limited-edition.json) |
 | Arcade Video Games Quiz | 241355 | [241355-arcade-video-games-quiz.json](./241355-arcade-video-games-quiz.json) |
 | Arcade vs Player | 223410 | [223410-arcade-vs-player.json](./223410-arcade-vs-player.json) |
+| Arcade Waifu | 212841 | [212841-arcade-waifu.json](./212841-arcade-waifu.json) |
 | Arcade Zone | 50742 | [50742-arcade-zone.json](./50742-arcade-zone.json) |
 | Arcade ZX Collection: Anteater | 304195 | [304195-arcade-zx-collection-anteater.json](./304195-arcade-zx-collection-anteater.json) |
 | Arcade ZX Collection: Botanic | 304194 | [304194-arcade-zx-collection-botanic.json](./304194-arcade-zx-collection-botanic.json) |
