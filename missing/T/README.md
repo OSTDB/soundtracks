@@ -5022,6 +5022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Boss | 119458 | [119458-the-final-boss.json](./119458-the-final-boss.json) |
 | The Final Boss | 201115 | [201115-the-final-boss.json](./201115-the-final-boss.json) |
 | The Final Countdown | 277318 | [277318-the-final-countdown.json](./277318-the-final-countdown.json) |
+| The Final Day of Spring | 183408 | [183408-the-final-day-of-spring.json](./183408-the-final-day-of-spring.json) |
 | The Final Days of Olin Earl | 399750 | [399750-the-final-days-of-olin-earl.json](./399750-the-final-days-of-olin-earl.json) |
 | The Final Days: Blood Dawn | 87959 | [87959-the-final-days-blood-dawn.json](./87959-the-final-days-blood-dawn.json) |
 | The Final Earth | 101741 | [101741-the-final-earth.json](./101741-the-final-earth.json) |
@@ -9172,6 +9173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sun Never Sets | 38962 | [38962-the-sun-never-sets.json](./38962-the-sun-never-sets.json) |
 | The Sun Shines Over Us | 267022 | [267022-the-sun-shines-over-us.json](./267022-the-sun-shines-over-us.json) |
 | The Sun Will Rise | 31833 | [31833-the-sun-will-rise.json](./31833-the-sun-will-rise.json) |
+| The Sun Will Rise Again | 183413 | [183413-the-sun-will-rise-again.json](./183413-the-sun-will-rise-again.json) |
 | The Sun: Evaluation | 174761 | [174761-the-sun-evaluation.json](./174761-the-sun-evaluation.json) |
 | The Sun: Origin | 102763 | [102763-the-sun-origin.json](./102763-the-sun-origin.json) |
 | The Sunday | 311572 | [311572-the-sunday.json](./311572-the-sunday.json) |
@@ -12826,6 +12828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toad on Fire | 139482 | [139482-toad-on-fire.json](./139482-toad-on-fire.json) |
 | Toad Runner | 271375 | [271375-toad-runner.json](./271375-toad-runner.json) |
 | Toad Strikes Back | 134068 | [134068-toad-strikes-back.json](./134068-toad-strikes-back.json) |
+| Toad Sushi | 183416 | [183416-toad-sushi.json](./183416-toad-sushi.json) |
 | Toad Tales | 272578 | [272578-toad-tales.json](./272578-toad-tales.json) |
 | Toad Tavern | 313247 | [313247-toad-tavern.json](./313247-toad-tavern.json) |
 | Toad Turf | 391898 | [391898-toad-turf.json](./391898-toad-turf.json) |
