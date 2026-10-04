@@ -1064,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khio | 136458 | [136458-khio.json](./136458-khio.json) |
 | Khnum Fire | 370211 | [370211-khnum-fire.json](./370211-khnum-fire.json) |
 | Kholin Echo | 415311 | [415311-kholin-echo.json](./415311-kholin-echo.json) |
+| Khoros | 200516 | [200516-khoros.json](./200516-khoros.json) |
 | Khospis | 110338 | [110338-khospis.json](./110338-khospis.json) |
 | Khottabych | 251019 | [251019-khottabych.json](./251019-khottabych.json) |
 | Khufu-ou no Himitsu | 181781 | [181781-khufu-ou-no-himitsu.json](./181781-khufu-ou-no-himitsu.json) |
