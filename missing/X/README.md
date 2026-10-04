@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XeonMass | 256217 | [256217-xeonmass.json](./256217-xeonmass.json) |
 | Xerd no Densetsu | 298848 | [298848-xerd-no-densetsu.json](./298848-xerd-no-densetsu.json) |
 | Xerd no Densetsu 2: Xerd!! Gishin no Ryouiki | 298851 | [298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json](./298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json) |
+| Xermatt Redux | 196089 | [196089-xermatt-redux.json](./196089-xermatt-redux.json) |
 | Xerminus | 371897 | [371897-xerminus.json](./371897-xerminus.json) |
 | Xerxesia | 267998 | [267998-xerxesia.json](./267998-xerxesia.json) |
 | Xevious | 12346 | [12346-xevious.json](./12346-xevious.json) |
