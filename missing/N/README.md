@@ -1447,6 +1447,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptunia Riders vs. Dogoos | 317845 | [317845-neptunia-riders-vs-dogoos.json](./317845-neptunia-riders-vs-dogoos.json) |
 | Neptunia: Virtual Stars | 135338 | [135338-neptunia-virtual-stars.json](./135338-neptunia-virtual-stars.json) |
 | Neptunia: Virtual Stars - Emotional Limited Edition | 167057 | [167057-neptunia-virtual-stars-emotional-limited-edition.json](./167057-neptunia-virtual-stars-emotional-limited-edition.json) |
+| Neptunia: Virtual Stars - Kizuna AI | 196085 | [196085-neptunia-virtual-stars-kizuna-ai.json](./196085-neptunia-virtual-stars-kizuna-ai.json) |
+| Neptunia: Virtual Stars - Towa Kiseki | 196086 | [196086-neptunia-virtual-stars-towa-kiseki.json](./196086-neptunia-virtual-stars-towa-kiseki.json) |
 | Neptunia: Virtual Stars - VIP Edition | 186890 | [186890-neptunia-virtual-stars-vip-edition.json](./186890-neptunia-virtual-stars-vip-edition.json) |
 | Neratte chu | 40989 | [40989-neratte-chu.json](./40989-neratte-chu.json) |
 | Nerd Blocks | 254673 | [254673-nerd-blocks.json](./254673-nerd-blocks.json) |
