@@ -3580,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reviver: The Real-Time Adventure | 63884 | [63884-reviver-the-real-time-adventure.json](./63884-reviver-the-real-time-adventure.json) |
 | Revizor | 154593 | [154593-revizor.json](./154593-revizor.json) |
 | Revline Online | 411689 | [411689-revline-online.json](./411689-revline-online.json) |
+| Revn | 131342 | [131342-revn.json](./131342-revn.json) |
 | Revoland | 210661 | [210661-revoland.json](./210661-revoland.json) |
 | Revolgear II Ver.D Revision+Ex | 268028 | [268028-revolgear-ii-ver-d-revision-ex.json](./268028-revolgear-ii-ver-d-revision-ex.json) |
 | Revolocity | 295322 | [295322-revolocity.json](./295322-revolocity.json) |
@@ -4153,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring of Fire | 115464 | [115464-ring-of-fire.json](./115464-ring-of-fire.json) |
 | Ring of Pain | 115036 | [115036-ring-of-pain.json](./115036-ring-of-pain.json) |
 | Ring of Titans | 189162 | [189162-ring-of-titans.json](./189162-ring-of-titans.json) |
+| Ring Out 4x4 | 131317 | [131317-ring-out-4x4.json](./131317-ring-out-4x4.json) |
 | Ring Out!! | 41404 | [41404-ring-out.json](./41404-ring-out.json) |
 | Ring Racer | 147379 | [147379-ring-racer.json](./147379-ring-racer.json) |
 | Ring Racer | 259151 | [259151-ring-racer.json](./259151-ring-racer.json) |
@@ -6315,6 +6317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Tycoon: Supply & Demand | 164507 | [164507-rpg-tycoon-supply-and-demand.json](./164507-rpg-tycoon-supply-and-demand.json) |
 | RPG Workshop Max | 232708 | [232708-rpg-workshop-max.json](./232708-rpg-workshop-max.json) |
 | RPG Workshop Max 2 | 262444 | [262444-rpg-workshop-max-2.json](./262444-rpg-workshop-max-2.json) |
+| RPG World - Action RPG Maker | 131334 | [131334-rpg-world-action-rpg-maker.json](./131334-rpg-world-action-rpg-maker.json) |
 | RPG World Online | 93526 | [93526-rpg-world-online.json](./93526-rpg-world-online.json) |
 | RpgEra | 106158 | [106158-rpgera.json](./106158-rpgera.json) |
 | RPGHub | 125905 | [125905-rpghub.json](./125905-rpghub.json) |
