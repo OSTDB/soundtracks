@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uni | 145684 | [145684-uni.json](./145684-uni.json) |
 | Uni Ver Se | 185635 | [185635-uni-ver-se.json](./185635-uni-ver-se.json) |
 | Unibat | 252225 | [252225-unibat.json](./252225-unibat.json) |
+| Uniboom: War of Unicorns | 164921 | [164921-uniboom-war-of-unicorns.json](./164921-uniboom-war-of-unicorns.json) |
 | Unicellular | 185602 | [185602-unicellular.json](./185602-unicellular.json) |
 | Unichrome: A 1-Bit Unicorn Adventure | 204925 | [204925-unichrome-a-1-bit-unicorn-adventure.json](./204925-unichrome-a-1-bit-unicorn-adventure.json) |
 | Unicorn | 223672 | [223672-unicorn.json](./223672-unicorn.json) |
@@ -1667,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untouchable | 101594 | [101594-untouchable.json](./101594-untouchable.json) |
 | Untouchable | 195063 | [195063-untouchable.json](./195063-untouchable.json) |
 | Untravelled Planet | 325270 | [325270-untravelled-planet.json](./325270-untravelled-planet.json) |
+| Untrue New World | 164858 | [164858-untrue-new-world.json](./164858-untrue-new-world.json) |
 | Untrusted | 133237 | [133237-untrusted.json](./133237-untrusted.json) |
 | Unturned | 7878 | [7878-unturned.json](./7878-unturned.json) |
 | Unusual and Not Safe Experiments | 368488 | [368488-unusual-and-not-safe-experiments.json](./368488-unusual-and-not-safe-experiments.json) |
