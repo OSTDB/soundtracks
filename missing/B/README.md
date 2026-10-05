@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bathroom Chef | 101627 | [101627-bathroom-chef.json](./101627-bathroom-chef.json) |
 | Bathysphere | 415144 | [415144-bathysphere.json](./415144-bathysphere.json) |
 | Batla | 36058 | [36058-batla.json](./36058-batla.json) |
+| Batloff: Cyprus | 123391 | [123391-batloff-cyprus.json](./123391-batloff-cyprus.json) |
 | Batman | 131462 | [131462-batman.json](./131462-batman.json) |
 | Batman | 131964 | [131964-batman.json](./131964-batman.json) |
 | Batman | 200135 | [200135-batman.json](./200135-batman.json) |
@@ -2057,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for Cloud 9 | 337285 | [337285-battle-for-cloud-9.json](./337285-battle-for-cloud-9.json) |
 | Battle For Crown: Multiplayer | 405644 | [405644-battle-for-crown-multiplayer.json](./405644-battle-for-crown-multiplayer.json) |
 | Battle For Dream Island Again 5b | 138011 | [138011-battle-for-dream-island-again-5b.json](./138011-battle-for-dream-island-again-5b.json) |
+| Battle For Embolia | 123390 | [123390-battle-for-embolia.json](./123390-battle-for-embolia.json) |
 | Battle for Graxia | 50814 | [50814-battle-for-graxia.json](./50814-battle-for-graxia.json) |
 | Battle For It All | 87192 | [87192-battle-for-it-all.json](./87192-battle-for-it-all.json) |
 | Battle For Life | 63801 | [63801-battle-for-life.json](./63801-battle-for-life.json) |
@@ -7719,6 +7721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Games Mahjongg | 25011 | [25011-brain-games-mahjongg.json](./25011-brain-games-mahjongg.json) |
 | Brain Hack Squad | 350026 | [350026-brain-hack-squad.json](./350026-brain-hack-squad.json) |
 | Brain Hole Girls | 242488 | [242488-brain-hole-girls.json](./242488-brain-hole-girls.json) |
+| Brain in a Vat Lies | 123471 | [123471-brain-in-a-vat-lies.json](./123471-brain-in-a-vat-lies.json) |
 | Brain It On! | 97332 | [97332-brain-it-on.json](./97332-brain-it-on.json) |
 | Brain Marmelade | 135751 | [135751-brain-marmelade.json](./135751-brain-marmelade.json) |
 | Brain Memory 2: Cards Pack 1 | 300949 | [300949-brain-memory-2-cards-pack-1.json](./300949-brain-memory-2-cards-pack-1.json) |
