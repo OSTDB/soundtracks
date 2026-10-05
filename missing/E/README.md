@@ -1655,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Builder: Europe | 322708 | [322708-empire-builder-europe.json](./322708-empire-builder-europe.json) |
 | Empire Chronicles | 163985 | [163985-empire-chronicles.json](./163985-empire-chronicles.json) |
 | Empire Classic | 11395 | [11395-empire-classic.json](./11395-empire-classic.json) |
+| Empire Defenders | 129630 | [129630-empire-defenders.json](./129630-empire-defenders.json) |
 | Empire FactionWar | 290512 | [290512-empire-factionwar.json](./290512-empire-factionwar.json) |
 | Empire Game: Pixel Hero | 364053 | [364053-empire-game-pixel-hero.json](./364053-empire-game-pixel-hero.json) |
 | Empire Hike | 395767 | [395767-empire-hike.json](./395767-empire-hike.json) |
@@ -1911,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Fables: The Minotaur's Curse | 32003 | [32003-endless-fables-the-minotaurs-curse.json](./32003-endless-fables-the-minotaurs-curse.json) |
 | Endless Firepower | 163460 | [163460-endless-firepower.json](./163460-endless-firepower.json) |
 | Endless Forest | 386683 | [386683-endless-forest.json](./386683-endless-forest.json) |
+| Endless Forms Most Beautiful | 129540 | [129540-endless-forms-most-beautiful.json](./129540-endless-forms-most-beautiful.json) |
 | Endless Forms Most Beautiful 64 | 179659 | [179659-endless-forms-most-beautiful-64.json](./179659-endless-forms-most-beautiful-64.json) |
 | Endless Frontier Saga 2 | 99381 | [99381-endless-frontier-saga-2.json](./99381-endless-frontier-saga-2.json) |
 | Endless Fucker | 292843 | [292843-endless-fucker.json](./292843-endless-fucker.json) |
