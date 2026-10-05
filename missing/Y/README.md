@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yasumeru | 202344 | [202344-yasumeru.json](./202344-yasumeru.json) |
 | Yatagarasu | 80617 | [80617-yatagarasu.json](./80617-yatagarasu.json) |
 | Yatagarasu Enter the Eastward | 282127 | [282127-yatagarasu-enter-the-eastward.json](./282127-yatagarasu-enter-the-eastward.json) |
+| YATB: You Are the Best - Egypt Chapter | 143943 | [143943-yatb-you-are-the-best-egypt-chapter.json](./143943-yatb-you-are-the-best-egypt-chapter.json) |
 | Yatohime Zankikou Extra Kimagure Karasu to Yanchahime | 77927 | [77927-yatohime-zankikou-extra-kimagure-karasu-to-yanchahime.json](./77927-yatohime-zankikou-extra-kimagure-karasu-to-yanchahime.json) |
 | Yatsu Hakamura | 191868 | [191868-yatsu-hakamura.json](./191868-yatsu-hakamura.json) |
 | Yatsumeguri | 309055 | [309055-yatsumeguri.json](./309055-yatsumeguri.json) |
