@@ -3520,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversi | 319596 | [319596-reversi.json](./319596-reversi.json) |
 | Reversi | 395796 | [395796-reversi.json](./395796-reversi.json) |
 | Reversi 32 | 197920 | [197920-reversi-32.json](./197920-reversi-32.json) |
+| Reversi Let's Go | 150264 | [150264-reversi-lets-go.json](./150264-reversi-lets-go.json) |
 | Reversi X | 106360 | [106360-reversi-x.json](./106360-reversi-x.json) |
 | Reversi xVSx | 295564 | [295564-reversi-xvsx.json](./295564-reversi-xvsx.json) |
 | ReversiBot | 266477 | [266477-reversibot.json](./266477-reversibot.json) |
@@ -5908,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooster | 62722 | [62722-rooster.json](./62722-rooster.json) |
 | Rooster Booster 3D | 410945 | [410945-rooster-booster-3d.json](./410945-rooster-booster-3d.json) |
 | Rooster II | 62696 | [62696-rooster-ii.json](./62696-rooster-ii.json) |
+| Rooster Rampage | 150285 | [150285-rooster-rampage.json](./150285-rooster-rampage.json) |
 | Rooster: Princess Rescue | 409558 | [409558-rooster-princess-rescue.json](./409558-rooster-princess-rescue.json) |
 | Root | 139145 | [139145-root.json](./139145-root.json) |
 | Root | 24036 | [24036-root.json](./24036-root.json) |
