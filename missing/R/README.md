@@ -2761,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rengoku: The Tower of Purgatory | 38473 | [38473-rengoku-the-tower-of-purgatory.json](./38473-rengoku-the-tower-of-purgatory.json) |
 | Renny Blaster | 42008 | [42008-renny-blaster.json](./42008-renny-blaster.json) |
 | Renovation Products Collection 1 | 157521 | [157521-renovation-products-collection-1.json](./157521-renovation-products-collection-1.json) |
+| Renovators | 163882 | [163882-renovators.json](./163882-renovators.json) |
 | Renowned Explorers: Definitive Edition | 124777 | [124777-renowned-explorers-definitive-edition.json](./124777-renowned-explorers-definitive-edition.json) |
 | Renowned Explorers: International Society - More to Explore | 19387 | [19387-renowned-explorers-international-society-more-to-explore.json](./19387-renowned-explorers-international-society-more-to-explore.json) |
 | Renshin no Astral | 196601 | [196601-renshin-no-astral.json](./196601-renshin-no-astral.json) |
@@ -5956,6 +5957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
 | Rose Riddle: Fairy Tale Detective - Collector's Edition | 343359 | [343359-rose-riddle-fairy-tale-detective-collectors-edition.json](./343359-rose-riddle-fairy-tale-detective-collectors-edition.json) |
 | Roseline | 276831 | [276831-roseline.json](./276831-roseline.json) |
+| Rosemary's Fate: Chapter 1 | 163808 | [163808-rosemarys-fate-chapter-1.json](./163808-rosemarys-fate-chapter-1.json) |
 | Roses and Gems | 34359 | [34359-roses-and-gems.json](./34359-roses-and-gems.json) |
 | Roses Shoot Red, Violets Shoot Blue | 334167 | [334167-roses-shoot-red-violets-shoot-blue.json](./334167-roses-shoot-red-violets-shoot-blue.json) |
 | Roses&Heart | 104262 | [104262-roses-and-heart.json](./104262-roses-and-heart.json) |
