@@ -1189,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiǔdiàn | 109864 | [109864-jiudian.json](./109864-jiudian.json) |
 | Jiǔlóng Mófǎzhèn | 394200 | [394200-jiulong-mofazhen.json](./394200-jiulong-mofazhen.json) |
 | Jiǔměizǐ zhī Sǐ: Zhāohé Shàonǚ Xuèsè Gàobái | 374628 | [374628-jiumeizi-zhi-si-zhaohe-shaonu-xuese-gaobai.json](./374628-jiumeizi-zhi-si-zhaohe-shaonu-xuese-gaobai.json) |
+| Jiǔtiān Fēngshén | 156223 | [156223-jiutian-fengshen.json](./156223-jiutian-fengshen.json) |
 | JiuTian Idle RPG | 187845 | [187845-jiutian-idle-rpg.json](./187845-jiutian-idle-rpg.json) |
 | Jiǔxiāo Huánshén Jì | 119640 | [119640-jiuxiao-huanshen-ji.json](./119640-jiuxiao-huanshen-ji.json) |
 | Jiǔzhōu Jiàn Gē | 367405 | [367405-jiuzhou-jian-ge.json](./367405-jiuzhou-jian-ge.json) |
@@ -1662,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juicy Ass | 264114 | [264114-juicy-ass.json](./264114-juicy-ass.json) |
 | Juicy Blast | 346158 | [346158-juicy-blast.json](./346158-juicy-blast.json) |
 | Juicy Hentai | 368114 | [368114-juicy-hentai.json](./368114-juicy-hentai.json) |
+| Juicy Memory Card | 156201 | [156201-juicy-memory-card.json](./156201-juicy-memory-card.json) |
 | Juicy Retro Style!: Bloodhound | 265203 | [265203-juicy-retro-style-bloodhound.json](./265203-juicy-retro-style-bloodhound.json) |
 | Juicy Theater | 133437 | [133437-juicy-theater.json](./133437-juicy-theater.json) |
 | Juju | 17393 | [17393-juju.json](./17393-juju.json) |
