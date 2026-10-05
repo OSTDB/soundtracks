@@ -803,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Valoris: Swallow's Defenders | 330265 | [330265-tales-of-valoris-swallows-defenders.json](./330265-tales-of-valoris-swallows-defenders.json) |
 | Tales of Vengeance | 362926 | [362926-tales-of-vengeance.json](./362926-tales-of-vengeance.json) |
 | Tales of Violet Valley | 379437 | [379437-tales-of-violet-valley.json](./379437-tales-of-violet-valley.json) |
+| Tales of War | 158636 | [158636-tales-of-war.json](./158636-tales-of-war.json) |
 | Tales of Weapons | 175723 | [175723-tales-of-weapons.json](./175723-tales-of-weapons.json) |
 | Tales Of Wedding Rings VR | 110075 | [110075-tales-of-wedding-rings-vr.json](./110075-tales-of-wedding-rings-vr.json) |
 | Tales of Wild | 152376 | [152376-tales-of-wild.json](./152376-tales-of-wild.json) |
@@ -10016,6 +10017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vigilante: Single Shot Justice | 179117 | [179117-the-vigilante-single-shot-justice.json](./179117-the-vigilante-single-shot-justice.json) |
 | The Viking Game | 89704 | [89704-the-viking-game.json](./89704-the-viking-game.json) |
 | The Viking Guardsman | 409736 | [409736-the-viking-guardsman.json](./409736-the-viking-guardsman.json) |
+| The Viking Way | 158610 | [158610-the-viking-way.json](./158610-the-viking-way.json) |
 | The Vikings | 37188 | [37188-the-vikings.json](./37188-the-vikings.json) |
 | The Villa of Pain | 272925 | [272925-the-villa-of-pain.json](./272925-the-villa-of-pain.json) |
 | The Village | 168634 | [168634-the-village.json](./168634-the-village.json) |
@@ -13299,6 +13301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Management Simulator | 138586 | [138586-toilet-management-simulator.json](./138586-toilet-management-simulator.json) |
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
 | Toilet paper wants to be a basketball | 152735 | [152735-toilet-paper-wants-to-be-a-basketball.json](./152735-toilet-paper-wants-to-be-a-basketball.json) |
+| Toilet Paper War | 158601 | [158601-toilet-paper-war.json](./158601-toilet-paper-war.json) |
 | Toilet Run | 110488 | [110488-toilet-run.json](./110488-toilet-run.json) |
 | Toilet Rush Draw: Poo and Pee | 231888 | [231888-toilet-rush-draw-poo-and-pee.json](./231888-toilet-rush-draw-poo-and-pee.json) |
 | Toilet Simulator | 111715 | [111715-toilet-simulator.json](./111715-toilet-simulator.json) |
@@ -15139,6 +15142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffix 3D | 296071 | [296071-traffix-3d.json](./296071-traffix-3d.json) |
 | Trafic Road Rush | 111869 | [111869-trafic-road-rush.json](./111869-trafic-road-rush.json) |
 | Trafico | 81797 | [81797-trafico.json](./81797-trafico.json) |
+| Tragedy of Loneliness | 158614 | [158614-tragedy-of-loneliness.json](./158614-tragedy-of-loneliness.json) |
 | Tragedy of Prince Rupert | 50891 | [50891-tragedy-of-prince-rupert.json](./50891-tragedy-of-prince-rupert.json) |
 | Tragedy Theater | 260164 | [260164-tragedy-theater.json](./260164-tragedy-theater.json) |
 | Trago | 104066 | [104066-trago.json](./104066-trago.json) |
@@ -17484,6 +17488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TurboRaketti II | 94239 | [94239-turboraketti-ii.json](./94239-turboraketti-ii.json) |
 | Turboroko: Passion Fever | 142471 | [142471-turboroko-passion-fever.json](./142471-turboroko-passion-fever.json) |
 | Turboroko: Path to Passion Fever | 142470 | [142470-turboroko-path-to-passion-fever.json](./142470-turboroko-path-to-passion-fever.json) |
+| TurBot | 158607 | [158607-turbot.json](./158607-turbot.json) |
 | TurBot | 163893 | [163893-turbot.json](./163893-turbot.json) |
 | TurbOT Racing | 95204 | [95204-turbot-racing.json](./95204-turbot-racing.json) |
 | Turbotron | 184567 | [184567-turbotron.json](./184567-turbotron.json) |
