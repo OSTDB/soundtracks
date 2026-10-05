@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valehona Tap! | 406679 | [406679-valehona-tap.json](./406679-valehona-tap.json) |
 | Valenium | 382294 | [382294-valenium.json](./382294-valenium.json) |
 | Valens | 33537 | [33537-valens.json](./33537-valens.json) |
+| Valentina | 147092 | [147092-valentina.json](./147092-valentina.json) |
 | Valentine Candy Break | 210695 | [210695-valentine-candy-break.json](./210695-valentine-candy-break.json) |
 | Valentine Candy Break 2 | 194392 | [194392-valentine-candy-break-2.json](./194392-valentine-candy-break-2.json) |
 | Valentine Candy Break 2 Head to Head | 194393 | [194393-valentine-candy-break-2-head-to-head.json](./194393-valentine-candy-break-2-head-to-head.json) |
