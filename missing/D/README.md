@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daiseiou | 64492 | [64492-daiseiou.json](./64492-daiseiou.json) |
 | Daisenryaku | 194311 | [194311-daisenryaku.json](./194311-daisenryaku.json) |
 | Daisenryaku 1941: Gyakuten no Taiheiyou | 342253 | [342253-daisenryaku-1941-gyakuten-no-taiheiyou.json](./342253-daisenryaku-1941-gyakuten-no-taiheiyou.json) |
+| Daisenryaku Daitoua Kouboushi 3: Dai-ni-ji Sekai Taisen Boppatsu! - Soujikugun Tai Rengougun Zen Sekaisen | 140293 | [140293-daisenryaku-daitoua-kouboushi-3-dai-ni-ji-sekai-taisen-boppatsu-soujikugun-tai-rengougun-zen-sekaisen.json](./140293-daisenryaku-daitoua-kouboushi-3-dai-ni-ji-sekai-taisen-boppatsu-soujikugun-tai-rengougun-zen-sekaisen.json) |
 | Daisenryaku Daitoua Kouboushi DX: Dai-ni-ji Sekai Taisen | 123011 | [123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json](./123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json) |
 | Daisenryaku III '90 | 242519 | [242519-daisenryaku-iii-90.json](./242519-daisenryaku-iii-90.json) |
 | Daisenryaku III '90: Map Collection Vol. 1 | 299825 | [299825-daisenryaku-iii-90-map-collection-vol-1.json](./299825-daisenryaku-iii-90-map-collection-vol-1.json) |
@@ -8311,6 +8312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Chronicles 2: The Eternal Maze | 50502 | [50502-dream-chronicles-2-the-eternal-maze.json](./50502-dream-chronicles-2-the-eternal-maze.json) |
 | Dream Chronicles: The Book of Air | 50501 | [50501-dream-chronicles-the-book-of-air.json](./50501-dream-chronicles-the-book-of-air.json) |
 | Dream Chronicles: The Chosen Child | 16071 | [16071-dream-chronicles-the-chosen-child.json](./16071-dream-chronicles-the-chosen-child.json) |
+| Dream City Life | 140303 | [140303-dream-city-life.json](./140303-dream-city-life.json) |
 | Dream City: Metropolis | 256352 | [256352-dream-city-metropolis.json](./256352-dream-city-metropolis.json) |
 | Dream Clovers | 226152 | [226152-dream-clovers.json](./226152-dream-clovers.json) |
 | Dream Club Gogo. | 147304 | [147304-dream-club-gogo.json](./147304-dream-club-gogo.json) |
@@ -10090,6 +10092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamic Chord feat. Apple-Polisher | 142447 | [142447-dynamic-chord-feat-apple-polisher.json](./142447-dynamic-chord-feat-apple-polisher.json) |
 | Dynamic Chord feat. Kyohso | 142446 | [142446-dynamic-chord-feat-kyohso.json](./142446-dynamic-chord-feat-kyohso.json) |
 | Dynamic Chord feat. Liar-S | 142445 | [142445-dynamic-chord-feat-liar-s.json](./142445-dynamic-chord-feat-liar-s.json) |
+| Dynamic Chord feat. Rêve Parfait | 140304 | [140304-dynamic-chord-feat-reve-parfait.json](./140304-dynamic-chord-feat-reve-parfait.json) |
 | Dynamic Chord feat.Liar-s Remaster Edition | 363031 | [363031-dynamic-chord-feat-liar-s-remaster-edition.json](./363031-dynamic-chord-feat-liar-s-remaster-edition.json) |
 | Dynamic Duo | 13615 | [13615-dynamic-duo.json](./13615-dynamic-duo.json) |
 | Dynamite | 94260 | [94260-dynamite.json](./94260-dynamite.json) |
