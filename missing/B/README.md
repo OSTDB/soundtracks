@@ -8124,6 +8124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick | 356655 | [356655-brick.json](./356655-brick.json) |
 | Brick | 92294 | [92294-brick.json](./92294-brick.json) |
 | Brick Battalion | 32208 | [32208-brick-battalion.json](./32208-brick-battalion.json) |
+| Brick BiuBiu | 154924 | [154924-brick-biubiu.json](./154924-brick-biubiu.json) |
 | Brick Blast | 376107 | [376107-brick-blast.json](./376107-brick-blast.json) |
 | Brick Blaster | 133326 | [133326-brick-blaster.json](./133326-brick-blaster.json) |
 | Brick Block | 304041 | [304041-brick-block.json](./304041-brick-block.json) |
