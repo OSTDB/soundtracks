@@ -1645,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Arthouse | 117005 | [117005-lego-arthouse.json](./117005-lego-arthouse.json) |
 | LEGO Batman 2: DC Super Heroes | 6836 | [6836-lego-batman-2-dc-super-heroes.json](./6836-lego-batman-2-dc-super-heroes.json) |
 | LEGO Batman 3: Beyond Gotham - Dark Knight | 266232 | [266232-lego-batman-3-beyond-gotham-dark-knight.json](./266232-lego-batman-3-beyond-gotham-dark-knight.json) |
+| LEGO Batman 3: Beyond Gotham - Premium Edition | 118897 | [118897-lego-batman-3-beyond-gotham-premium-edition.json](./118897-lego-batman-3-beyond-gotham-premium-edition.json) |
 | LEGO Batman Trilogy | 125173 | [125173-lego-batman-trilogy.json](./125173-lego-batman-trilogy.json) |
 | LEGO Batman: Legacy of the Dark Knight - Arkham Trilogy Pack | 401703 | [401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json](./401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json) |
 | LEGO Batman: Legacy of the Dark Knight - Batman Beyond Pack | 404392 | [404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json](./404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json) |
@@ -5332,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna in Silver Shards | 271233 | [271233-luna-in-silver-shards.json](./271233-luna-in-silver-shards.json) |
 | Luna Online | 93982 | [93982-luna-online.json](./93982-luna-online.json) |
 | Luna Sanctus | 121563 | [121563-luna-sanctus.json](./121563-luna-sanctus.json) |
+| Luna Sky RDX | 118734 | [118734-luna-sky-rdx.json](./118734-luna-sky-rdx.json) |
 | Luna Sonata | 243424 | [243424-luna-sonata.json](./243424-luna-sonata.json) |
 | Luna Story II: Six Pieces of Tears | 141209 | [141209-luna-story-ii-six-pieces-of-tears.json](./141209-luna-story-ii-six-pieces-of-tears.json) |
 | Luna Story III: On Your Mark | 141211 | [141211-luna-story-iii-on-your-mark.json](./141211-luna-story-iii-on-your-mark.json) |
@@ -5547,6 +5549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LV99: Final Fortress | 140592 | [140592-lv99-final-fortress.json](./140592-lv99-final-fortress.json) |
 | LVL99: AxeRage | 125917 | [125917-lvl99-axerage.json](./125917-lvl99-axerage.json) |
 | LXD: Red Honey | 305877 | [305877-lxd-red-honey.json](./305877-lxd-red-honey.json) |
+| Lya | 118901 | [118901-lya.json](./118901-lya.json) |
 | Lyantei | 114993 | [114993-lyantei.json](./114993-lyantei.json) |
 | Lyca | 332032 | [332032-lyca.json](./332032-lyca.json) |
 | Lycah | 51739 | [51739-lycah.json](./51739-lycah.json) |
