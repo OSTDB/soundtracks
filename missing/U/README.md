@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.S.S. Stinger | 93177 | [93177-u-s-s-stinger.json](./93177-u-s-s-stinger.json) |
 | U.S.Z.I.O.K. | 376061 | [376061-u-s-z-i-o-k.json](./376061-u-s-z-i-o-k.json) |
 | U.V.S. Nirmana | 400475 | [400475-u-v-s-nirmana.json](./400475-u-v-s-nirmana.json) |
+| U27RA R3Z0NANC3 | 143334 | [143334-u27ra-r3z0nanc3.json](./143334-u27ra-r3z0nanc3.json) |
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
 | UAC Invasion: The Supply Depot | 256868 | [256868-uac-invasion-the-supply-depot.json](./256868-uac-invasion-the-supply-depot.json) |
 | UAC Ultra | 140469 | [140469-uac-ultra.json](./140469-uac-ultra.json) |
@@ -877,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undemon | 182363 | [182363-undemon.json](./182363-undemon.json) |
 | Under | 233136 | [233136-under.json](./233136-under.json) |
 | Under a Desert Sun: Seekers of the Cursed Vessel | 372637 | [372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json](./372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json) |
+| Under a Freezing Sea | 143362 | [143362-under-a-freezing-sea.json](./143362-under-a-freezing-sea.json) |
 | Under Construction: Summer City | 167582 | [167582-under-construction-summer-city.json](./167582-under-construction-summer-city.json) |
 | Under Contract | 219533 | [219533-under-contract.json](./219533-under-contract.json) |
 | Under Control | 176795 | [176795-under-control.json](./176795-under-control.json) |
