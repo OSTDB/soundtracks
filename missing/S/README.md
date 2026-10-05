@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.O.L: Search of Light | 154380 | [154380-s-o-l-search-of-light.json](./154380-s-o-l-search-of-light.json) |
 | S.O.N | 102781 | [102781-s-o-n.json](./102781-s-o-n.json) |
 | S.O.N.A.R.: Submarine Operators Not Actually Ready | 410320 | [410320-s-o-n-a-r-submarine-operators-not-actually-ready.json](./410320-s-o-n-a-r-submarine-operators-not-actually-ready.json) |
+| S.O.T.A 2 | 152976 | [152976-s-o-t-a-2.json](./152976-s-o-t-a-2.json) |
 | S.O.V. | 176785 | [176785-s-o-v.json](./176785-s-o-v.json) |
 | S.P.L.I.C.E.D. | 255847 | [255847-s-p-l-i-c-e-d.json](./255847-s-p-l-i-c-e-d.json) |
 | S.Q. Sound Qube | 230505 | [230505-s-q-sound-qube.json](./230505-s-q-sound-qube.json) |
@@ -9422,6 +9423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Scramble | 334685 | [334685-sonic-scramble.json](./334685-sonic-scramble.json) |
 | Sonic Seasons | 370301 | [370301-sonic-seasons.json](./370301-sonic-seasons.json) |
 | Sonic Shift | 330297 | [330297-sonic-shift.json](./330297-sonic-shift.json) |
+| Sonic Skateboard | 152977 | [152977-sonic-skateboard.json](./152977-sonic-skateboard.json) |
 | Sonic Sky Chase Zone | 339670 | [339670-sonic-sky-chase-zone.json](./339670-sonic-sky-chase-zone.json) |
 | Sonic Skywind: Episode II | 327000 | [327000-sonic-skywind-episode-ii.json](./327000-sonic-skywind-episode-ii.json) |
 | Sonic Slash | 350060 | [350060-sonic-slash.json](./350060-sonic-slash.json) |
@@ -11345,6 +11347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellforge | 32864 | [32864-spellforge.json](./32864-spellforge.json) |
 | Spellforged | 295357 | [295357-spellforged.json](./295357-spellforged.json) |
 | Spellgroove | 220600 | [220600-spellgroove.json](./220600-spellgroove.json) |
+| SpellHunter | 153024 | [153024-spellhunter.json](./153024-spellhunter.json) |
 | Spellic | 207345 | [207345-spellic.json](./207345-spellic.json) |
 | Spelling Bee | 206122 | [206122-spelling-bee.json](./206122-spelling-bee.json) |
 | Spelling Blizzard | 98573 | [98573-spelling-blizzard.json](./98573-spelling-blizzard.json) |
@@ -17268,6 +17271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball Stardust | 352178 | [352178-super-monkey-ball-stardust.json](./352178-super-monkey-ball-stardust.json) |
 | Super Monkey Ball: Banana Blitz HD | 120867 | [120867-super-monkey-ball-banana-blitz-hd.json](./120867-super-monkey-ball-banana-blitz-hd.json) |
 | Super Monkey Ball: Banana Mania | 152355 | [152355-super-monkey-ball-banana-mania.json](./152355-super-monkey-ball-banana-mania.json) |
+| Super Monkey Ball: Banana Mania - Anniversary Edition | 153020 | [153020-super-monkey-ball-banana-mania-anniversary-edition.json](./153020-super-monkey-ball-banana-mania-anniversary-edition.json) |
 | Super Monkey Ball: Banana Mania - Digital Deluxe Edition | 158584 | [158584-super-monkey-ball-banana-mania-digital-deluxe-edition.json](./158584-super-monkey-ball-banana-mania-digital-deluxe-edition.json) |
 | Super Monkey Ball: Banana Mania - Launch Edition | 323951 | [323951-super-monkey-ball-banana-mania-launch-edition.json](./323951-super-monkey-ball-banana-mania-launch-edition.json) |
 | Super Monkey Ball: Banana Rumble - Amy | 309079 | [309079-super-monkey-ball-banana-rumble-amy.json](./309079-super-monkey-ball-banana-rumble-amy.json) |
