@@ -1256,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Girl Army | 324699 | [324699-one-girl-army.json](./324699-one-girl-army.json) |
 | One Goal Spirit | 80493 | [80493-one-goal-spirit.json](./80493-one-goal-spirit.json) |
 | One Hand Clapping | 103408 | [103408-one-hand-clapping.json](./103408-one-hand-clapping.json) |
+| One Hand Samurai | 140893 | [140893-one-hand-samurai.json](./140893-one-hand-samurai.json) |
 | One Handed | 212205 | [212205-one-handed.json](./212205-one-handed.json) |
 | One Hell of a Ride | 218562 | [218562-one-hell-of-a-ride.json](./218562-one-hell-of-a-ride.json) |
 | One Hell of a Trip | 151553 | [151553-one-hell-of-a-trip.json](./151553-one-hell-of-a-trip.json) |
@@ -1935,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Z.E.R.O.: OutNumbuh'd! | 234540 | [234540-operation-z-e-r-o-outnumbuhd.json](./234540-operation-z-e-r-o-outnumbuhd.json) |
 | Operation Zero | 333014 | [333014-operation-zero.json](./333014-operation-zero.json) |
 | Operation: Armored Liberty | 49319 | [49319-operation-armored-liberty.json](./49319-operation-armored-liberty.json) |
+| Operation: Biowar | 140944 | [140944-operation-biowar.json](./140944-operation-biowar.json) |
 | Operation: Cheek Clapper | 123551 | [123551-operation-cheek-clapper.json](./123551-operation-cheek-clapper.json) |
 | Operation: Eronta | 236210 | [236210-operation-eronta.json](./236210-operation-eronta.json) |
 | Operation: Get Bike Back | 270705 | [270705-operation-get-bike-back.json](./270705-operation-get-bike-back.json) |
