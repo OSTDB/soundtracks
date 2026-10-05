@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damned 2 | 253375 | [253375-damned-2.json](./253375-damned-2.json) |
 | Damned Cold | 30775 | [30775-damned-cold.json](./30775-damned-cold.json) |
 | Damned Daniel | 111239 | [111239-damned-daniel.json](./111239-damned-daniel.json) |
+| Damned Hand | 158639 | [158639-damned-hand.json](./158639-damned-hand.json) |
 | Damned Hand: Arcade Mode | 171069 | [171069-damned-hand-arcade-mode.json](./171069-damned-hand-arcade-mode.json) |
 | Damned Hours | 54493 | [54493-damned-hours.json](./54493-damned-hours.json) |
 | Damnview Stories: No Vacancy | 146092 | [146092-damnview-stories-no-vacancy.json](./146092-damnview-stories-no-vacancy.json) |
@@ -3869,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy the Castle | 349843 | [349843-destroy-the-castle.json](./349843-destroy-the-castle.json) |
 | Destroy the Cubes | 156133 | [156133-destroy-the-cubes.json](./156133-destroy-the-cubes.json) |
 | Destroy the Demon Army | 370196 | [370196-destroy-the-demon-army.json](./370196-destroy-the-demon-army.json) |
+| Destroy the Dummies | 158641 | [158641-destroy-the-dummies.json](./158641-destroy-the-dummies.json) |
 | Destroy the Hexons | 156129 | [156129-destroy-the-hexons.json](./156129-destroy-the-hexons.json) |
 | Destroy the House - Smash Home Interiors | 99708 | [99708-destroy-the-house-smash-home-interiors.json](./99708-destroy-the-house-smash-home-interiors.json) |
 | Destroy The Universe: Solar Mayhem | 411813 | [411813-destroy-the-universe-solar-mayhem.json](./411813-destroy-the-universe-solar-mayhem.json) |
@@ -3980,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Sherlock: Shadow Stalker | 361844 | [361844-detective-sherlock-shadow-stalker.json](./361844-detective-sherlock-shadow-stalker.json) |
 | Detective Sherlock: Shadow Stalker | 413113 | [413113-detective-sherlock-shadow-stalker.json](./413113-detective-sherlock-shadow-stalker.json) |
 | Detective Sir Biscuit in Green Burguer Mystery | 310580 | [310580-detective-sir-biscuit-in-green-burguer-mystery.json](./310580-detective-sir-biscuit-in-green-burguer-mystery.json) |
+| Detective Solitaire Inspector Magic and the Man Without Face | 158606 | [158606-detective-solitaire-inspector-magic-and-the-man-without-face.json](./158606-detective-solitaire-inspector-magic-and-the-man-without-face.json) |
 | Detective Solitaire: Butler Story 2 | 242580 | [242580-detective-solitaire-butler-story-2.json](./242580-detective-solitaire-butler-story-2.json) |
 | Detective Solitaire: Butler Story 3 | 258947 | [258947-detective-solitaire-butler-story-3.json](./258947-detective-solitaire-butler-story-3.json) |
 | Detective Solitaire: The Ghost Agency | 168693 | [168693-detective-solitaire-the-ghost-agency.json](./168693-detective-solitaire-the-ghost-agency.json) |
@@ -8131,6 +8134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DrawBall | 289014 | [289014-drawball.json](./289014-drawball.json) |
 | Drawchemy | 410327 | [410327-drawchemy.json](./410327-drawchemy.json) |
 | Drawer | 187849 | [187849-drawer.json](./187849-drawer.json) |
+| Drawgaem | 158605 | [158605-drawgaem.json](./158605-drawgaem.json) |
 | Drawing Carnival | 276958 | [276958-drawing-carnival.json](./276958-drawing-carnival.json) |
 | Drawing Carnival: Anime Style | 276960 | [276960-drawing-carnival-anime-style.json](./276960-drawing-carnival-anime-style.json) |
 | Drawing Carnival: Horror Edition | 298570 | [298570-drawing-carnival-horror-edition.json](./298570-drawing-carnival-horror-edition.json) |
