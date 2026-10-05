@@ -1431,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waveat | 362808 | [362808-waveat.json](./362808-waveat.json) |
 | Waveat ReLight V2 | 362811 | [362811-waveat-relight-v2.json](./362811-waveat-relight-v2.json) |
 | Wavecrashers | 391751 | [391751-wavecrashers.json](./391751-wavecrashers.json) |
+| Wavelength | 140902 | [140902-wavelength.json](./140902-wavelength.json) |
 | Waven: Drhell's Bells Pack | 289458 | [289458-waven-drhells-bells-pack.json](./289458-waven-drhells-bells-pack.json) |
 | WavePlayer | 190161 | [190161-waveplayer.json](./190161-waveplayer.json) |
 | Waves | 13547 | [13547-waves.json](./13547-waves.json) |
@@ -2517,6 +2518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of Fear | 338370 | [338370-whispers-of-fear.json](./338370-whispers-of-fear.json) |
 | Whispers of Mexico: La Noche de la Casada | 356785 | [356785-whispers-of-mexico-la-noche-de-la-casada.json](./356785-whispers-of-mexico-la-noche-de-la-casada.json) |
 | Whispers of Prague: The Executioner's Last Cut | 287708 | [287708-whispers-of-prague-the-executioners-last-cut.json](./287708-whispers-of-prague-the-executioners-last-cut.json) |
+| Whispers of Satan | 140943 | [140943-whispers-of-satan.json](./140943-whispers-of-satan.json) |
 | Whispers of Silence | 296517 | [296517-whispers-of-silence.json](./296517-whispers-of-silence.json) |
 | Whispers of The Abyss | 301269 | [301269-whispers-of-the-abyss.json](./301269-whispers-of-the-abyss.json) |
 | Whispers of the Citadel | 275136 | [275136-whispers-of-the-citadel.json](./275136-whispers-of-the-citadel.json) |
@@ -2828,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Country | 151014 | [151014-wild-country.json](./151014-wild-country.json) |
 | Wild Deer Hunt Jungle Sniper | 28011 | [28011-wild-deer-hunt-jungle-sniper.json](./28011-wild-deer-hunt-jungle-sniper.json) |
 | Wild Dive | 150258 | [150258-wild-dive.json](./150258-wild-dive.json) |
+| Wild Dose | 140919 | [140919-wild-dose.json](./140919-wild-dose.json) |
 | Wild Downtown | 76704 | [76704-wild-downtown.json](./76704-wild-downtown.json) |
 | Wild Earth: Africa | 195802 | [195802-wild-earth-africa.json](./195802-wild-earth-africa.json) |
 | Wild Earth: African Safari | 50711 | [50711-wild-earth-african-safari.json](./50711-wild-earth-african-safari.json) |
@@ -5157,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE SmackDown! Shut Your Mouth | 6461 | [6461-wwe-smackdown-shut-your-mouth.json](./6461-wwe-smackdown-shut-your-mouth.json) |
 | WWE SuperCard | 79072 | [79072-wwe-supercard.json](./79072-wwe-supercard.json) |
 | WWE Tap Mania | 69501 | [69501-wwe-tap-mania.json](./69501-wwe-tap-mania.json) |
+| WWE Undefeated | 140927 | [140927-wwe-undefeated.json](./140927-wwe-undefeated.json) |
 | WWE WrestleFest | 95393 | [95393-wwe-wrestlefest.json](./95393-wwe-wrestlefest.json) |
 | WWE WrestleMania X8 | 4573 | [4573-wwe-wrestlemania-x8.json](./4573-wwe-wrestlemania-x8.json) |
 | WWE WrestleMania XIX | 4574 | [4574-wwe-wrestlemania-xix.json](./4574-wwe-wrestlemania-xix.json) |
