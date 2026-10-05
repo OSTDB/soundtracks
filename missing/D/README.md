@@ -7707,6 +7707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Masters: War of Legends | 214030 | [214030-dragon-masters-war-of-legends.json](./214030-dragon-masters-war-of-legends.json) |
 | Dragon Merge Wind | 228112 | [228112-dragon-merge-wind.json](./228112-dragon-merge-wind.json) |
 | Dragon Mine | 211204 | [211204-dragon-mine.json](./211204-dragon-mine.json) |
+| Dragon Mission | 170890 | [170890-dragon-mission.json](./170890-dragon-mission.json) |
 | Dragon Mix | 42173 | [42173-dragon-mix.json](./42173-dragon-mix.json) |
 | Dragon Must Die | 215917 | [215917-dragon-must-die.json](./215917-dragon-must-die.json) |
 | Dragon Nest 2 | 193839 | [193839-dragon-nest-2.json](./193839-dragon-nest-2.json) |
@@ -8210,6 +8211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Girlfriend: Twitch Thot | 368106 | [368106-dream-girlfriend-twitch-thot.json](./368106-dream-girlfriend-twitch-thot.json) |
 | Dream Girls VR | 111725 | [111725-dream-girls-vr.json](./111725-dream-girls-vr.json) |
 | Dream Golf VR | 74441 | [74441-dream-golf-vr.json](./74441-dream-golf-vr.json) |
+| Dream Golf VR: Infinity Towers | 170886 | [170886-dream-golf-vr-infinity-towers.json](./170886-dream-golf-vr-infinity-towers.json) |
 | Dream Golf VR: Jungle Temple | 171006 | [171006-dream-golf-vr-jungle-temple.json](./171006-dream-golf-vr-jungle-temple.json) |
 | Dream Golf VR: Lighthouse Island | 171007 | [171007-dream-golf-vr-lighthouse-island.json](./171007-dream-golf-vr-lighthouse-island.json) |
 | Dream Hacker | 191084 | [191084-dream-hacker.json](./191084-dream-hacker.json) |
