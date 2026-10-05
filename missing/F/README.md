@@ -2506,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting for Singleship: I am Chased by a Bunch of Women But I Just Want to Play Video Games | 274558 | [274558-fighting-for-singleship-i-am-chased-by-a-bunch-of-women-but-i-just-want-to-play-video-games.json](./274558-fighting-for-singleship-i-am-chased-by-a-bunch-of-women-but-i-just-want-to-play-video-games.json) |
 | Fighting Force 2 | 11615 | [11615-fighting-force-2.json](./11615-fighting-force-2.json) |
 | Fighting Force Collection | 306653 | [306653-fighting-force-collection.json](./306653-fighting-force-collection.json) |
+| Fighting Frenzy: Swole Simulator | 120709 | [120709-fighting-frenzy-swole-simulator.json](./120709-fighting-frenzy-swole-simulator.json) |
 | Fighting Fury | 44627 | [44627-fighting-fury.json](./44627-fighting-fury.json) |
 | Fighting Hero | 48582 | [48582-fighting-hero.json](./48582-fighting-hero.json) |
 | Fighting Hero III | 48581 | [48581-fighting-hero-iii.json](./48581-fighting-hero-iii.json) |
