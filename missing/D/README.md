@@ -1495,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day 11 | 263003 | [263003-day-11.json](./263003-day-11.json) |
 | Day 31 | 419946 | [419946-day-31.json](./419946-day-31.json) |
 | Day After Day | 342181 | [342181-day-after-day.json](./342181-day-after-day.json) |
+| Day and Knight | 137953 | [137953-day-and-knight.json](./137953-day-and-knight.json) |
 | Day and Night | 124009 | [124009-day-and-night.json](./124009-day-and-night.json) |
 | Day and Night | 415229 | [415229-day-and-night.json](./415229-day-and-night.json) |
 | Day at the Counter | 178596 | [178596-day-at-the-counter.json](./178596-day-at-the-counter.json) |
@@ -8956,6 +8957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropped into the Modern World: Surviving the Red-Light District | 311623 | [311623-dropped-into-the-modern-world-surviving-the-red-light-district.json](./311623-dropped-into-the-modern-world-surviving-the-red-light-district.json) |
 | Dropship: United Peace Force | 44723 | [44723-dropship-united-peace-force.json](./44723-dropship-united-peace-force.json) |
 | Dropshipping Simulator | 155993 | [155993-dropshipping-simulator.json](./155993-dropshipping-simulator.json) |
+| DropShock | 137959 | [137959-dropshock.json](./137959-dropshock.json) |
 | Dropsol | 251755 | [251755-dropsol.json](./251755-dropsol.json) |
 | Dropsy | 11488 | [11488-dropsy.json](./11488-dropsy.json) |
 | Droptch | 164920 | [164920-droptch.json](./164920-droptch.json) |
