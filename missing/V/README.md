@@ -1642,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivitter: Additional Mini-game - "Unstoppable" | 308774 | [308774-vivitter-additional-mini-game-unstoppable.json](./308774-vivitter-additional-mini-game-unstoppable.json) |
 | Vivitter: Additional Mini-game - "Vivid ViviCure" | 308773 | [308773-vivitter-additional-mini-game-vivid-vivicure.json](./308773-vivitter-additional-mini-game-vivid-vivicure.json) |
 | Vixen | 46741 | [46741-vixen.json](./46741-vixen.json) |
+| Viy | 167562 | [167562-viy.json](./167562-viy.json) |
 | Viy: Retold Story | 190142 | [190142-viy-retold-story.json](./190142-viy-retold-story.json) |
 | Viz: The Soft Floppy One | 67993 | [67993-viz-the-soft-floppy-one.json](./67993-viz-the-soft-floppy-one.json) |
 | Vizul | 301951 | [301951-vizul.json](./301951-vizul.json) |
