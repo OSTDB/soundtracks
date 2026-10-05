@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Knight | 205598 | [205598-rabbit-knight.json](./205598-rabbit-knight.json) |
 | Rabbit on Skateboard | 312206 | [312206-rabbit-on-skateboard.json](./312206-rabbit-on-skateboard.json) |
 | Rabbit Rabbit UFO | 279025 | [279025-rabbit-rabbit-ufo.json](./279025-rabbit-rabbit-ufo.json) |
+| Rabbit Riot | 149209 | [149209-rabbit-riot.json](./149209-rabbit-riot.json) |
 | Rabbit Run Away | 212466 | [212466-rabbit-run-away.json](./212466-rabbit-run-away.json) |
 | Rabbit Run Carrot Hunt | 361347 | [361347-rabbit-run-carrot-hunt.json](./361347-rabbit-run-carrot-hunt.json) |
 | Rabbit Rush | 363024 | [363024-rabbit-rush.json](./363024-rabbit-rush.json) |
@@ -2085,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Fox and the Four Seasons: Design My Forest | 212679 | [212679-red-fox-and-the-four-seasons-design-my-forest.json](./212679-red-fox-and-the-four-seasons-design-my-forest.json) |
 | Red Fox and the Four Seasons: Design My Forest 2 | 215895 | [215895-red-fox-and-the-four-seasons-design-my-forest-2.json](./215895-red-fox-and-the-four-seasons-design-my-forest-2.json) |
 | Red Fox: Exploration on the the Red Fox Island | 358886 | [358886-red-fox-exploration-on-the-the-red-fox-island.json](./358886-red-fox-exploration-on-the-the-red-fox-island.json) |
+| Red Frozen | 149207 | [149207-red-frozen.json](./149207-red-frozen.json) |
 | Red Galaxy | 156534 | [156534-red-galaxy.json](./156534-red-galaxy.json) |
 | Red Galaxy | 418869 | [418869-red-galaxy.json](./418869-red-galaxy.json) |
 | Red Gate | 118360 | [118360-red-gate.json](./118360-red-gate.json) |
@@ -3301,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retromine | 382447 | [382447-retromine.json](./382447-retromine.json) |
 | RetroMMO | 140518 | [140518-retrommo.json](./140518-retrommo.json) |
 | Retroneer | 392359 | [392359-retroneer.json](./392359-retroneer.json) |
+| Retroninjacyberassassin | 149234 | [149234-retroninjacyberassassin.json](./149234-retroninjacyberassassin.json) |
 | Retroplay Controller | 287666 | [287666-retroplay-controller.json](./287666-retroplay-controller.json) |
 | RetroQuest | 45332 | [45332-retroquest.json](./45332-retroquest.json) |
 | RetroRaider II: Lara's Quest Continues | 55914 | [55914-retroraider-ii-laras-quest-continues.json](./55914-retroraider-ii-laras-quest-continues.json) |
