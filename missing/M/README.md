@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magatsu Barai | 172730 | [172730-magatsu-barai.json](./172730-magatsu-barai.json) |
 | Magatsu Wahrheit | 194004 | [194004-magatsu-wahrheit.json](./194004-magatsu-wahrheit.json) |
 | Magazine Editor | 29433 | [29433-magazine-editor.json](./29433-magazine-editor.json) |
+| Magazine Mogul | 135642 | [135642-magazine-mogul.json](./135642-magazine-mogul.json) |
 | Magdalene | 277491 | [277491-magdalene.json](./277491-magdalene.json) |
 | Mage and Minions | 15468 | [15468-mage-and-minions.json](./15468-mage-and-minions.json) |
 | Mage and Monsters | 209682 | [209682-mage-and-monsters.json](./209682-mage-and-monsters.json) |
@@ -2726,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masketeers: Idle has Fallen | 141488 | [141488-masketeers-idle-has-fallen.json](./141488-masketeers-idle-has-fallen.json) |
 | Maskim Xul | 256870 | [256870-maskim-xul.json](./256870-maskim-xul.json) |
 | Maskless | 135267 | [135267-maskless.json](./135267-maskless.json) |
+| Masks | 135617 | [135617-masks.json](./135617-masks.json) |
 | Masks of Deception | 200705 | [200705-masks-of-deception.json](./200705-masks-of-deception.json) |
 | Masochisia | 13189 | [13189-masochisia.json](./13189-masochisia.json) |
 | Masochistic Maiden Aria and the Cavern of Blissful Agony | 252178 | [252178-masochistic-maiden-aria-and-the-cavern-of-blissful-agony.json](./252178-masochistic-maiden-aria-and-the-cavern-of-blissful-agony.json) |
@@ -10673,6 +10675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Best Friends: Cats & Dogs | 17043 | [17043-my-best-friends-cats-and-dogs.json](./17043-my-best-friends-cats-and-dogs.json) |
 | My Best Life My Pest Life | 393118 | [393118-my-best-life-my-pest-life.json](./393118-my-best-life-my-pest-life.json) |
 | My Best Nightmare | 166673 | [166673-my-best-nightmare.json](./166673-my-best-nightmare.json) |
+| My Bewitching Perfume | 135637 | [135637-my-bewitching-perfume.json](./135637-my-bewitching-perfume.json) |
 | My Big Sister: Remastered | 222871 | [222871-my-big-sister-remastered.json](./222871-my-big-sister-remastered.json) |
 | My Billionaire Girlfriend | 220335 | [220335-my-billionaire-girlfriend.json](./220335-my-billionaire-girlfriend.json) |
 | My Bimbo Dream: Season 1 | 368058 | [368058-my-bimbo-dream-season-1.json](./368058-my-bimbo-dream-season-1.json) |
