@@ -2293,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catgirl Aim Trainer | 310213 | [310213-catgirl-aim-trainer.json](./310213-catgirl-aim-trainer.json) |
 | Catgirl Lover | 127927 | [127927-catgirl-lover.json](./127927-catgirl-lover.json) |
 | Catharage | 355098 | [355098-catharage.json](./355098-catharage.json) |
+| Catharsis | 130144 | [130144-catharsis.json](./130144-catharsis.json) |
 | Catharsis | 195791 | [195791-catharsis.json](./195791-catharsis.json) |
 | Cathedral | 122001 | [122001-cathedral.json](./122001-cathedral.json) |
 | Cathedral | 301338 | [301338-cathedral.json](./301338-cathedral.json) |
@@ -2472,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Explorer | 165675 | [165675-cave-explorer.json](./165675-cave-explorer.json) |
 | Cave Fighter | 7898 | [7898-cave-fighter.json](./7898-cave-fighter.json) |
 | Cave Flying | 27878 | [27878-cave-flying.json](./27878-cave-flying.json) |
+| Cave Game | 130140 | [130140-cave-game.json](./130140-cave-game.json) |
 | Cave Ghost | 368480 | [368480-cave-ghost.json](./368480-cave-ghost.json) |
 | Cave Girl Clair | 309340 | [309340-cave-girl-clair.json](./309340-cave-girl-clair.json) |
 | Cave Guessers | 154079 | [154079-cave-guessers.json](./154079-cave-guessers.json) |
@@ -2954,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of Quortz | 249215 | [249215-champions-of-quortz.json](./249215-champions-of-quortz.json) |
 | Champions of Regnum | 16426 | [16426-champions-of-regnum.json](./16426-champions-of-regnum.json) |
 | Champions of Shond: Echoes of Faith | 333699 | [333699-champions-of-shond-echoes-of-faith.json](./333699-champions-of-shond-echoes-of-faith.json) |
+| Champions of Thora | 130125 | [130125-champions-of-thora.json](./130125-champions-of-thora.json) |
 | Champions of Titan | 105082 | [105082-champions-of-titan.json](./105082-champions-of-titan.json) |
 | Champions of Zulula | 71604 | [71604-champions-of-zulula.json](./71604-champions-of-zulula.json) |
 | Champions of Zulula: Elite Edition | 63382 | [63382-champions-of-zulula-elite-edition.json](./63382-champions-of-zulula-elite-edition.json) |
