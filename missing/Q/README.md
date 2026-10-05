@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuizCross | 58213 | [58213-quizcross.json](./58213-quizcross.json) |
 | Quizee | 171897 | [171897-quizee.json](./171897-quizee.json) |
 | QuizFizz | 255140 | [255140-quizfizz.json](./255140-quizfizz.json) |
+| QuizKnock Stadium | 153511 | [153511-quizknock-stadium.json](./153511-quizknock-stadium.json) |
 | Quizl | 225272 | [225272-quizl.json](./225272-quizl.json) |
 | QuizMania | 320156 | [320156-quizmania.json](./320156-quizmania.json) |
 | QuizMi | 318989 | [318989-quizmi.json](./318989-quizmi.json) |
