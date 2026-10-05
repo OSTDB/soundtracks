@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack Master | 358434 | [358434-pack-master.json](./358434-pack-master.json) |
 | Pack My Stuff | 197142 | [197142-pack-my-stuff.json](./197142-pack-my-stuff.json) |
 | Pack not Found 404 | 313477 | [313477-pack-not-found-404.json](./313477-pack-not-found-404.json) |
+| Pack Per Duck | 157092 | [157092-pack-per-duck.json](./157092-pack-per-duck.json) |
 | Package chaos | 411698 | [411698-package-chaos.json](./411698-package-chaos.json) |
 | Package Inspector | 195697 | [195697-package-inspector.json](./195697-package-inspector.json) |
 | Package Man | 131395 | [131395-package-man.json](./131395-package-man.json) |
@@ -6458,6 +6459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poncotsu Roman Daikatsugeki Bumpy Trot 2 | 91754 | [91754-poncotsu-roman-daikatsugeki-bumpy-trot-2.json](./91754-poncotsu-roman-daikatsugeki-bumpy-trot-2.json) |
 | Pond | 373662 | [373662-pond.json](./373662-pond.json) |
 | Pond Party | 364687 | [364687-pond-party.json](./364687-pond-party.json) |
+| Pond Scum | 157091 | [157091-pond-scum.json](./157091-pond-scum.json) |
 | Pondemonium | 372057 | [372057-pondemonium.json](./372057-pondemonium.json) |
 | Ponder Club | 394542 | [394542-ponder-club.json](./394542-ponder-club.json) |
 | Pondlife | 384543 | [384543-pondlife.json](./384543-pondlife.json) |
@@ -9338,6 +9340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pusher: Drug Tycoon | 259167 | [259167-pusher-drug-tycoon.json](./259167-pusher-drug-tycoon.json) |
 | Pushing Crates | 215037 | [215037-pushing-crates.json](./215037-pushing-crates.json) |
 | Pushing It! With Sisyphus | 298033 | [298033-pushing-it-with-sisyphus.json](./298033-pushing-it-with-sisyphus.json) |
+| Pushing the limit | 157098 | [157098-pushing-the-limit.json](./157098-pushing-the-limit.json) |
 | Pushmo World | 19925 | [19925-pushmo-world.json](./19925-pushmo-world.json) |
 | Pushover | 11627 | [11627-pushover.json](./11627-pushover.json) |
 | PushOver | 267436 | [267436-pushover.json](./267436-pushover.json) |
