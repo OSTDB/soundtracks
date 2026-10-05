@@ -1275,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidvio | 187840 | [187840-kidvio.json](./187840-kidvio.json) |
 | Kidz | 105088 | [105088-kidz.json](./105088-kidz.json) |
 | Kidz Bop Dance Party! | 208325 | [208325-kidz-bop-dance-party.json](./208325-kidz-bop-dance-party.json) |
+| Kiekko.tk | 133753 | [133753-kiekko-tk.json](./133753-kiekko-tk.json) |
 | Kiem Ma 3D | 224032 | [224032-kiem-ma-3d.json](./224032-kiem-ma-3d.json) |
 | Kieta Sekai to Tsuki to Shoujo: The World was Prayed by The Girl Living A Thousand Years | 97462 | [97462-kieta-sekai-to-tsuki-to-shoujo-the-world-was-prayed-by-the-girl-living-a-thousand-years.json](./97462-kieta-sekai-to-tsuki-to-shoujo-the-world-was-prayed-by-the-girl-living-a-thousand-years.json) |
 | Kigetsu no Yoru | 368634 | [368634-kigetsu-no-yoru.json](./368634-kigetsu-no-yoru.json) |
@@ -1486,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimbap Factory | 413107 | [413107-kimbap-factory.json](./413107-kimbap-factory.json) |
 | Kimbap Heaven Simulator | 390261 | [390261-kimbap-heaven-simulator.json](./390261-kimbap-heaven-simulator.json) |
 | Kimero!! Hero Gakuen: Eiyuu ni Shinjutsu Nashi | 59439 | [59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json](./59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json) |
+| Kimetsu no Yaiba: Keppuu Kengeki Royale | 133758 | [133758-kimetsu-no-yaiba-keppuu-kengeki-royale.json](./133758-kimetsu-no-yaiba-keppuu-kengeki-royale.json) |
 | Kimi ga Ita Kisetsu | 181187 | [181187-kimi-ga-ita-kisetsu.json](./181187-kimi-ga-ita-kisetsu.json) |
 | Kimi ga Mita Hikari 2 | 329968 | [329968-kimi-ga-mita-hikari-2.json](./329968-kimi-ga-mita-hikari-2.json) |
 | Kimi ga Nozomu Eien | 84324 | [84324-kimi-ga-nozomu-eien.json](./84324-kimi-ga-nozomu-eien.json) |
@@ -2823,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kono Subarashii Sekai ni Shukufuku o! Fantasutikku Deizu | 131568 | [131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json](./131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! In the Life! | 56133 | [56133-kono-subarashii-sekai-ni-shukufuku-wo-in-the-life.json](./56133-kono-subarashii-sekai-ni-shukufuku-wo-in-the-life.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi Plus: Complete Edition | 136787 | [136787-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-complete-edition.json](./136787-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-complete-edition.json) |
+| Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi! | 133771 | [133771-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi.json](./133771-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi! Plus: Limited Edition | 167155 | [167155-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-limited-edition.json](./167155-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-limited-edition.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi!: Limited Edition | 167152 | [167152-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-limited-edition.json](./167152-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-limited-edition.json) |
 | Kono Subarashii Sekai ni Shukufuku wo!: Attack of the Destroyer! | 145938 | [145938-kono-subarashii-sekai-ni-shukufuku-wo-attack-of-the-destroyer.json](./145938-kono-subarashii-sekai-ni-shukufuku-wo-attack-of-the-destroyer.json) |
