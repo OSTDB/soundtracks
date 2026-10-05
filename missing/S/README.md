@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saboten Bombers | 40417 | [40417-saboten-bombers.json](./40417-saboten-bombers.json) |
 | Saboteur! | 112670 | [112670-saboteur.json](./112670-saboteur.json) |
 | Sabotris | 207293 | [207293-sabotris.json](./207293-sabotris.json) |
+| Sabre VR | 122913 | [122913-sabre-vr.json](./122913-sabre-vr.json) |
 | Sabre Wulf | 6582 | [6582-sabre-wulf.json](./6582-sabre-wulf.json) |
 | Sabreman Stampede | 175948 | [175948-sabreman-stampede.json](./175948-sabreman-stampede.json) |
 | Sabres of Infinity | 33439 | [33439-sabres-of-infinity.json](./33439-sabres-of-infinity.json) |
@@ -555,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salad Bar Tycoon: Expansion Pack 1 | 237972 | [237972-salad-bar-tycoon-expansion-pack-1.json](./237972-salad-bar-tycoon-expansion-pack-1.json) |
 | Salad Bar Tycoon: Expansion Pack 2 | 237973 | [237973-salad-bar-tycoon-expansion-pack-2.json](./237973-salad-bar-tycoon-expansion-pack-2.json) |
 | Salad Bar Tycoon: Extended Edition | 201143 | [201143-salad-bar-tycoon-extended-edition.json](./201143-salad-bar-tycoon-extended-edition.json) |
+| Salad Fields | 122820 | [122820-salad-fields.json](./122820-salad-fields.json) |
 | Salagander | 181222 | [181222-salagander.json](./181222-salagander.json) |
 | Salamander | 192397 | [192397-salamander.json](./192397-salamander.json) |
 | Salamander | 261902 | [261902-salamander.json](./261902-salamander.json) |
@@ -2401,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Wing | 183916 | [183916-second-wing.json](./183916-second-wing.json) |
 | Second World | 192254 | [192254-second-world.json](./192254-second-world.json) |
 | Second World: Air War S | 113002 | [113002-second-world-air-war-s.json](./113002-second-world-air-war-s.json) |
+| Seconds from Silence | 122903 | [122903-seconds-from-silence.json](./122903-seconds-from-silence.json) |
 | Seconds in Space | 133217 | [133217-seconds-in-space.json](./133217-seconds-in-space.json) |
 | Seconds Out | 70088 | [70088-seconds-out.json](./70088-seconds-out.json) |
 | Seconds Time's the Charm | 326602 | [326602-seconds-times-the-charm.json](./326602-seconds-times-the-charm.json) |
@@ -6056,6 +6059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulacra: Pipe Dreams | 110900 | [110900-simulacra-pipe-dreams.json](./110900-simulacra-pipe-dreams.json) |
 | Simulacro | 344363 | [344363-simulacro.json](./344363-simulacro.json) |
 | Simulacrum | 201125 | [201125-simulacrum.json](./201125-simulacrum.json) |
+| Simulacrum: Chapter One | 122916 | [122916-simulacrum-chapter-one.json](./122916-simulacrum-chapter-one.json) |
 | Simulador Profesional de Fútbol | 70334 | [70334-simulador-profesional-de-futbol.json](./70334-simulador-profesional-de-futbol.json) |
 | SimuLadron | 381630 | [381630-simuladron.json](./381630-simuladron.json) |
 | Simulakros | 265619 | [265619-simulakros.json](./265619-simulakros.json) |
@@ -6899,6 +6903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyline Drift Simulator 2 | 103652 | [103652-skyline-drift-simulator-2.json](./103652-skyline-drift-simulator-2.json) |
 | Skyline Skaters | 6029 | [6029-skyline-skaters.json](./6029-skyline-skaters.json) |
 | Skyline Sprinters | 263058 | [263058-skyline-sprinters.json](./263058-skyline-sprinters.json) |
+| Skylords Reborn | 122901 | [122901-skylords-reborn.json](./122901-skylords-reborn.json) |
 | Skylost | 201710 | [201710-skylost.json](./201710-skylost.json) |
 | Skynet Rising : Portal to the Past | 25738 | [25738-skynet-rising-portal-to-the-past.json](./25738-skynet-rising-portal-to-the-past.json) |
 | Skynet Simulator | 177429 | [177429-skynet-simulator.json](./177429-skynet-simulator.json) |
@@ -12006,6 +12011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash of Color | 393631 | [393631-splash-of-color.json](./393631-splash-of-color.json) |
 | Splash Ship | 214176 | [214176-splash-ship.json](./214176-splash-ship.json) |
 | Splash Wars | 113676 | [113676-splash-wars.json](./113676-splash-wars.json) |
+| Splash: Ocean Sanctuary | 122902 | [122902-splash-ocean-sanctuary.json](./122902-splash-ocean-sanctuary.json) |
 | Splashy Cube | 147937 | [147937-splashy-cube.json](./147937-splashy-cube.json) |
 | Splashy Dots | 54679 | [54679-splashy-dots.json](./54679-splashy-dots.json) |
 | Splashy Duck | 84893 | [84893-splashy-duck.json](./84893-splashy-duck.json) |
@@ -12190,6 +12196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Spins Deluxe | 140310 | [140310-spooky-spins-deluxe.json](./140310-spooky-spins-deluxe.json) |
 | Spooky Spins Returns: Crazy Cash Edition - Slots | 276172 | [276172-spooky-spins-returns-crazy-cash-edition-slots.json](./276172-spooky-spins-returns-crazy-cash-edition-slots.json) |
 | Spooky Squad! | 318565 | [318565-spooky-squad.json](./318565-spooky-squad.json) |
+| Spooky Station | 122836 | [122836-spooky-station.json](./122836-spooky-station.json) |
 | Spooky Story | 188472 | [188472-spooky-story.json](./188472-spooky-story.json) |
 | Spooky Survivors | 333640 | [333640-spooky-survivors.json](./333640-spooky-survivors.json) |
 | Spooky Tales and Mummy Trails | 420659 | [420659-spooky-tales-and-mummy-trails.json](./420659-spooky-tales-and-mummy-trails.json) |
@@ -14890,6 +14897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of the Survivor: The Escape | 156154 | [156154-story-of-the-survivor-the-escape.json](./156154-story-of-the-survivor-the-escape.json) |
 | Story of You: The Allied Kingdoms | 193477 | [193477-story-of-you-the-allied-kingdoms.json](./193477-story-of-you-the-allied-kingdoms.json) |
 | Story Teller | 119693 | [119693-story-teller.json](./119693-story-teller.json) |
+| Story Universe | 122915 | [122915-story-universe.json](./122915-story-universe.json) |
 | Story Walker | 211108 | [211108-story-walker.json](./211108-story-walker.json) |
 | Storyblocks + Cat Games + Soko Games | 335100 | [335100-storyblocks-cat-games-soko-games.json](./335100-storyblocks-cat-games-soko-games.json) |
 | Storyblocks: The King | 188110 | [188110-storyblocks-the-king.json](./188110-storyblocks-the-king.json) |
