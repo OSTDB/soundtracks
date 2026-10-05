@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fanatical Basketball | 175725 | [175725-fanatical-basketball.json](./175725-fanatical-basketball.json) |
 | FanaticBlader | 115699 | [115699-fanaticblader.json](./115699-fanaticblader.json) |
 | Fanbots | 183980 | [183980-fanbots.json](./183980-fanbots.json) |
+| Fancade | 146543 | [146543-fancade.json](./146543-fancade.json) |
 | Fanciful Diamonds | 359398 | [359398-fanciful-diamonds.json](./359398-fanciful-diamonds.json) |
 | Fancy | 247033 | [247033-fancy.json](./247033-fancy.json) |
 | Fancy Birds | 222207 | [222207-fancy-birds.json](./222207-fancy-birds.json) |
