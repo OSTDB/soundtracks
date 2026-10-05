@@ -1807,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron 2 Complete | 27833 | [27833-hearts-of-iron-2-complete.json](./27833-hearts-of-iron-2-complete.json) |
 | Hearts of Iron II: Complete | 28993 | [28993-hearts-of-iron-ii-complete.json](./28993-hearts-of-iron-ii-complete.json) |
 | Hearts of Iron III Collection | 53177 | [53177-hearts-of-iron-iii-collection.json](./53177-hearts-of-iron-iii-collection.json) |
+| Hearts of Iron III: DLC Collection | 154613 | [154613-hearts-of-iron-iii-dlc-collection.json](./154613-hearts-of-iron-iii-dlc-collection.json) |
 | Hearts of Iron III: For the Motherland | 10400 | [10400-hearts-of-iron-iii-for-the-motherland.json](./10400-hearts-of-iron-iii-for-the-motherland.json) |
 | Hearts of Iron IV | 15894 | [15894-hearts-of-iron-iv.json](./15894-hearts-of-iron-iv.json) |
 | Hearts of Iron IV: Allied Armor Pack | 165012 | [165012-hearts-of-iron-iv-allied-armor-pack.json](./165012-hearts-of-iron-iv-allied-armor-pack.json) |
@@ -6737,6 +6738,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia | 7319 | [7319-hyperdimension-neptunia.json](./7319-hyperdimension-neptunia.json) |
 | Hyperdimension Neptunia Re;Birth 1 Plus: Limited Edition | 167043 | [167043-hyperdimension-neptunia-re-birth-1-plus-limited-edition.json](./167043-hyperdimension-neptunia-re-birth-1-plus-limited-edition.json) |
 | Hyperdimension Neptunia Re;Birth1 | 8902 | [8902-hyperdimension-neptunia-re-birth1.json](./8902-hyperdimension-neptunia-re-birth1.json) |
+| Hyperdimension Neptunia Re;Birth1 - DLC pack | 154605 | [154605-hyperdimension-neptunia-re-birth1-dlc-pack.json](./154605-hyperdimension-neptunia-re-birth1-dlc-pack.json) |
+| Hyperdimension Neptunia Re;Birth1 - DLC pack 2 | 154604 | [154604-hyperdimension-neptunia-re-birth1-dlc-pack-2.json](./154604-hyperdimension-neptunia-re-birth1-dlc-pack-2.json) |
 | Hyperdimension Neptunia Re;Birth1: Additional Content 1 | 167238 | [167238-hyperdimension-neptunia-re-birth1-additional-content-1.json](./167238-hyperdimension-neptunia-re-birth1-additional-content-1.json) |
 | Hyperdimension Neptunia Re;Birth1: Additional Content 2 | 167240 | [167240-hyperdimension-neptunia-re-birth1-additional-content-2.json](./167240-hyperdimension-neptunia-re-birth1-additional-content-2.json) |
 | Hyperdimension Neptunia Re;Birth1: Additional Content 3 | 167234 | [167234-hyperdimension-neptunia-re-birth1-additional-content-3.json](./167234-hyperdimension-neptunia-re-birth1-additional-content-3.json) |
@@ -6757,8 +6760,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia Re;Birth2: Sister's Generation - Giant Island | 174155 | [174155-hyperdimension-neptunia-re-birth2-sisters-generation-giant-island.json](./174155-hyperdimension-neptunia-re-birth2-sisters-generation-giant-island.json) |
 | Hyperdimension Neptunia Re;Birth2: Sister's Generation - Mini Island | 174150 | [174150-hyperdimension-neptunia-re-birth2-sisters-generation-mini-island.json](./174150-hyperdimension-neptunia-re-birth2-sisters-generation-mini-island.json) |
 | Hyperdimension Neptunia Re;Birth2: Sisters Generation | 9868 | [9868-hyperdimension-neptunia-re-birth2-sisters-generation.json](./9868-hyperdimension-neptunia-re-birth2-sisters-generation.json) |
+| Hyperdimension Neptunia Re;Birth2: Sisters Generation - DLC Pack | 154607 | [154607-hyperdimension-neptunia-re-birth2-sisters-generation-dlc-pack.json](./154607-hyperdimension-neptunia-re-birth2-sisters-generation-dlc-pack.json) |
+| Hyperdimension Neptunia Re;Birth2: Sisters Generation - DLC Pack 2 | 154606 | [154606-hyperdimension-neptunia-re-birth2-sisters-generation-dlc-pack-2.json](./154606-hyperdimension-neptunia-re-birth2-sisters-generation-dlc-pack-2.json) |
 | Hyperdimension Neptunia Re;Birth2: Sisters Generation - Limited Edition | 388189 | [388189-hyperdimension-neptunia-re-birth2-sisters-generation-limited-edition.json](./388189-hyperdimension-neptunia-re-birth2-sisters-generation-limited-edition.json) |
 | Hyperdimension Neptunia Re;Birth3: V Generation | 9869 | [9869-hyperdimension-neptunia-re-birth3-v-generation.json](./9869-hyperdimension-neptunia-re-birth3-v-generation.json) |
+| Hyperdimension Neptunia Re;Birth3: V Generation - DLC Pack | 154609 | [154609-hyperdimension-neptunia-re-birth3-v-generation-dlc-pack.json](./154609-hyperdimension-neptunia-re-birth3-v-generation-dlc-pack.json) |
+| Hyperdimension Neptunia Re;Birth3: V Generation - DLC Pack 2 | 154608 | [154608-hyperdimension-neptunia-re-birth3-v-generation-dlc-pack-2.json](./154608-hyperdimension-neptunia-re-birth3-v-generation-dlc-pack-2.json) |
 | Hyperdimension Neptunia Re;Birth3: V Generation - Giant Island | 171374 | [171374-hyperdimension-neptunia-re-birth3-v-generation-giant-island.json](./171374-hyperdimension-neptunia-re-birth3-v-generation-giant-island.json) |
 | Hyperdimension Neptunia Re;Birth3: V Generation - Mini Island | 170401 | [170401-hyperdimension-neptunia-re-birth3-v-generation-mini-island.json](./170401-hyperdimension-neptunia-re-birth3-v-generation-mini-island.json) |
 | Hyperdimension Neptunia U: Action Unleashed - Bonus Quest | 172172 | [172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json](./172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json) |
