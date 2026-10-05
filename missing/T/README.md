@@ -3934,6 +3934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chalice of Mostania | 122986 | [122986-the-chalice-of-mostania.json](./122986-the-chalice-of-mostania.json) |
 | The Chalk | 244775 | [244775-the-chalk.json](./244775-the-chalk.json) |
 | The Challenge | 32235 | [32235-the-challenge.json](./32235-the-challenge.json) |
+| The Chameleon | 142126 | [142126-the-chameleon.json](./142126-the-chameleon.json) |
 | The Champ | 78689 | [78689-the-champ.json](./78689-the-champ.json) |
 | The Champions of Lootheim | 382759 | [382759-the-champions-of-lootheim.json](./382759-the-champions-of-lootheim.json) |
 | The change | 103429 | [103429-the-change.json](./103429-the-change.json) |
@@ -4045,6 +4046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clown's Forest 2: Waking Shadows | 244362 | [244362-the-clowns-forest-2-waking-shadows.json](./244362-the-clowns-forest-2-waking-shadows.json) |
 | The Clown's Forest 3: Haunting Apparitions | 271906 | [271906-the-clowns-forest-3-haunting-apparitions.json](./271906-the-clowns-forest-3-haunting-apparitions.json) |
 | The Club | 6940 | [6940-the-club.json](./6940-the-club.json) |
+| The ClueFinders 6th Grade Adventures: The Empire of the Plant People | 142139 | [142139-the-cluefinders-6th-grade-adventures-the-empire-of-the-plant-people.json](./142139-the-cluefinders-6th-grade-adventures-the-empire-of-the-plant-people.json) |
 | The Clutch: Remastered | 186864 | [186864-the-clutch-remastered.json](./186864-the-clutch-remastered.json) |
 | The Coagula Contest | 271497 | [271497-the-coagula-contest.json](./271497-the-coagula-contest.json) |
 | The Cobalt Palace | 271457 | [271457-the-cobalt-palace.json](./271457-the-cobalt-palace.json) |
@@ -5232,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fishercat | 205236 | [205236-the-fishercat.json](./205236-the-fishercat.json) |
 | The Fisherman and the Sea | 175385 | [175385-the-fisherman-and-the-sea.json](./175385-the-fisherman-and-the-sea.json) |
 | The Fisherman: Fishing Planet - Blue Crab Island Expansion | 167308 | [167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json](./167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json) |
+| The Fishery | 142156 | [142156-the-fishery.json](./142156-the-fishery.json) |
 | The Fittest | 188371 | [188371-the-fittest.json](./188371-the-fittest.json) |
 | The Five Covens | 144864 | [144864-the-five-covens.json](./144864-the-five-covens.json) |
 | The Five Nights at Freddy's Mod | 366300 | [366300-the-five-nights-at-freddys-mod.json](./366300-the-five-nights-at-freddys-mod.json) |
@@ -11087,6 +11090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thousand N' Thousand: Mimico | 376665 | [376665-thousand-n-thousand-mimico.json](./376665-thousand-n-thousand-mimico.json) |
 | Thousand Week Reich | 256452 | [256452-thousand-week-reich.json](./256452-thousand-week-reich.json) |
 | Thousands Layered Blade: Reforged | 327168 | [327168-thousands-layered-blade-reforged.json](./327168-thousands-layered-blade-reforged.json) |
+| Thousands Layered Edge | 142123 | [142123-thousands-layered-edge.json](./142123-thousands-layered-edge.json) |
 | Thousands Rooms Under the Reality | 258091 | [258091-thousands-rooms-under-the-reality.json](./258091-thousands-rooms-under-the-reality.json) |
 | Thrall of the Dying Sun | 177517 | [177517-thrall-of-the-dying-sun.json](./177517-thrall-of-the-dying-sun.json) |
 | Thrasher | 279618 | [279618-thrasher.json](./279618-thrasher.json) |
@@ -14510,6 +14514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touge R | 60621 | [60621-touge-r.json](./60621-touge-r.json) |
 | Tougen Anki: Crimson Inferno | 396591 | [396591-tougen-anki-crimson-inferno.json](./396591-tougen-anki-crimson-inferno.json) |
 | Tougenkyou | 151807 | [151807-tougenkyou.json](./151807-tougenkyou.json) |
+| Tough Love Arena | 142114 | [142114-tough-love-arena.json](./142114-tough-love-arena.json) |
 | Tough Story: Big Hell | 54457 | [54457-tough-story-big-hell.json](./54457-tough-story-big-hell.json) |
 | Tough Turf | 40259 | [40259-tough-turf.json](./40259-tough-turf.json) |
 | Tough: Dark Fight | 138107 | [138107-tough-dark-fight.json](./138107-tough-dark-fight.json) |
@@ -16535,6 +16540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Drop | 373651 | [373651-treasure-drop.json](./373651-treasure-drop.json) |
 | Treasure Drop: Complete Edition | 385211 | [385211-treasure-drop-complete-edition.json](./385211-treasure-drop-complete-edition.json) |
 | Treasure Forest Clicker | 350494 | [350494-treasure-forest-clicker.json](./350494-treasure-forest-clicker.json) |
+| Treasure Galaxy! | 142146 | [142146-treasure-galaxy.json](./142146-treasure-galaxy.json) |
 | Treasure Gear | 130357 | [130357-treasure-gear.json](./130357-treasure-gear.json) |
 | Treasure Girl 3D 2 | 196099 | [196099-treasure-girl-3d-2.json](./196099-treasure-girl-3d-2.json) |
 | Treasure Guardian: Collector Shift Defender's Saga | 301536 | [301536-treasure-guardian-collector-shift-defenders-saga.json](./301536-treasure-guardian-collector-shift-defenders-saga.json) |
@@ -18139,6 +18145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Worlds: The Game of the Year Edition | 53866 | [53866-two-worlds-the-game-of-the-year-edition.json](./53866-two-worlds-the-game-of-the-year-edition.json) |
 | Two Worlds: The Temptation | 72980 | [72980-two-worlds-the-temptation.json](./72980-two-worlds-the-temptation.json) |
 | Two-Sided Runner | 333741 | [333741-two-sided-runner.json](./333741-two-sided-runner.json) |
+| Two-Timin' Towers | 142113 | [142113-two-timin-towers.json](./142113-two-timin-towers.json) |
 | Twofer Goofer | 388748 | [388748-twofer-goofer.json](./388748-twofer-goofer.json) |
 | Twofold Inc. | 80559 | [80559-twofold-inc.json](./80559-twofold-inc.json) |
 | Twofold: The Perfect Circle Collection | 410214 | [410214-twofold-the-perfect-circle-collection.json](./410214-twofold-the-perfect-circle-collection.json) |
