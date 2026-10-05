@@ -2495,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Grindea | 8436 | [8436-secrets-of-grindea.json](./8436-secrets-of-grindea.json) |
 | Secrets of Magic 2: Witches and Wizards | 68599 | [68599-secrets-of-magic-2-witches-and-wizards.json](./68599-secrets-of-magic-2-witches-and-wizards.json) |
 | Secrets of Magic: The Book of Spells | 33245 | [33245-secrets-of-magic-the-book-of-spells.json](./33245-secrets-of-magic-the-book-of-spells.json) |
+| Secrets of Magic: The Book of Spells & Secrets of Magic 2: Witches and Wizards - Double Pack | 140915 | [140915-secrets-of-magic-the-book-of-spells-and-secrets-of-magic-2-witches-and-wizards-double-pack.json](./140915-secrets-of-magic-the-book-of-spells-and-secrets-of-magic-2-witches-and-wizards-double-pack.json) |
 | Secrets of Me | 31974 | [31974-secrets-of-me.json](./31974-secrets-of-me.json) |
 | Secrets of Merveille Castle | 309967 | [309967-secrets-of-merveille-castle.json](./309967-secrets-of-merveille-castle.json) |
 | Secrets of Orion: Sword of Destiny. | 236935 | [236935-secrets-of-orion-sword-of-destiny.json](./236935-secrets-of-orion-sword-of-destiny.json) |
@@ -5655,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Wounds - The Doll | 414540 | [414540-silent-wounds-the-doll.json](./414540-silent-wounds-the-doll.json) |
 | Silentium 2D | 106578 | [106578-silentium-2d.json](./106578-silentium-2d.json) |
 | Silentium: Remastered | 240739 | [240739-silentium-remastered.json](./240739-silentium-remastered.json) |
+| Sileo: Tales of a New Dawn | 140917 | [140917-sileo-tales-of-a-new-dawn.json](./140917-sileo-tales-of-a-new-dawn.json) |
 | Silfade Gensoutan | 249769 | [249769-silfade-gensoutan.json](./249769-silfade-gensoutan.json) |
 | Silhouette | 31378 | [31378-silhouette.json](./31378-silhouette.json) |
 | Silhouette Mirage | 1356 | [1356-silhouette-mirage.json](./1356-silhouette-mirage.json) |
@@ -6433,6 +6435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelets | 140620 | [140620-skelets.json](./140620-skelets.json) |
 | Skeljump | 257377 | [257377-skeljump.json](./257377-skeljump.json) |
 | Skellboy | 113101 | [113101-skellboy.json](./113101-skellboy.json) |
+| Skellboy Refractured | 140906 | [140906-skellboy-refractured.json](./140906-skellboy-refractured.json) |
 | Skelli Tower Defense | 101390 | [101390-skelli-tower-defense.json](./101390-skelli-tower-defense.json) |
 | Skellies Ain't Scary | 199390 | [199390-skellies-aint-scary.json](./199390-skellies-aint-scary.json) |
 | Skellington | 224758 | [224758-skellington.json](./224758-skellington.json) |
@@ -6465,6 +6468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchy Individuals | 355169 | [355169-sketchy-individuals.json](./355169-sketchy-individuals.json) |
 | Sketchy Marathon | 319799 | [319799-sketchy-marathon.json](./319799-sketchy-marathon.json) |
 | Sketchy Racing | 186148 | [186148-sketchy-racing.json](./186148-sketchy-racing.json) |
+| Sketchy.Academy | 140903 | [140903-sketchy-academy.json](./140903-sketchy-academy.json) |
 | Skew Pong | 190076 | [190076-skew-pong.json](./190076-skew-pong.json) |
 | Ski Air Mix | 186129 | [186129-ski-air-mix.json](./186129-ski-air-mix.json) |
 | Ski Bunny | 193713 | [193713-ski-bunny.json](./193713-ski-bunny.json) |
@@ -6965,6 +6969,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaughter Horse 2 | 211133 | [211133-slaughter-horse-2.json](./211133-slaughter-horse-2.json) |
 | Slaughter Me Street: 1999 | 327276 | [327276-slaughter-me-street-1999.json](./327276-slaughter-me-street-1999.json) |
 | Slaughter Until Death | 274217 | [274217-slaughter-until-death.json](./274217-slaughter-until-death.json) |
+| Slaughterfest 2012 | 140891 | [140891-slaughterfest-2012.json](./140891-slaughterfest-2012.json) |
+| Slaughterfest 3 | 140892 | [140892-slaughterfest-3.json](./140892-slaughterfest-3.json) |
 | Slaughterhouse | 149596 | [149596-slaughterhouse.json](./149596-slaughterhouse.json) |
 | Slav Tiles | 198505 | [198505-slav-tiles.json](./198505-slav-tiles.json) |
 | Slava Ukraini! | 201582 | [201582-slava-ukraini.json](./201582-slava-ukraini.json) |
@@ -7033,6 +7039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Terror | 292309 | [292309-sleep-terror.json](./292309-sleep-terror.json) |
 | Sleep Tight | 144258 | [144258-sleep-tight.json](./144258-sleep-tight.json) |
 | Sleep Walker | 305471 | [305471-sleep-walker.json](./305471-sleep-walker.json) |
+| Sleep When I'm Dead | 140918 | [140918-sleep-when-im-dead.json](./140918-sleep-when-im-dead.json) |
 | Sleep: H Now | 264072 | [264072-sleep-h-now.json](./264072-sleep-h-now.json) |
 | Sleeper Cell | 139369 | [139369-sleeper-cell.json](./139369-sleeper-cell.json) |
 | Sleepfall | 175280 | [175280-sleepfall.json](./175280-sleepfall.json) |
@@ -11303,6 +11310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedonauts | 224661 | [224661-speedonauts.json](./224661-speedonauts.json) |
 | Speedpunk | 151147 | [151147-speedpunk.json](./151147-speedpunk.json) |
 | SpeedRage | 72041 | [72041-speedrage.json](./72041-speedrage.json) |
+| Speedrun | 140924 | [140924-speedrun.json](./140924-speedrun.json) |
 | Speedrun Squid | 185133 | [185133-speedrun-squid.json](./185133-speedrun-squid.json) |
 | Speedrun the Game | 159309 | [159309-speedrun-the-game.json](./159309-speedrun-the-game.json) |
 | Speedrun World | 405669 | [405669-speedrun-world.json](./405669-speedrun-world.json) |
@@ -19086,6 +19094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Hero | 346122 | [346122-sword-hero.json](./346122-sword-hero.json) |
 | Sword Maker | 191095 | [191095-sword-maker.json](./191095-sword-maker.json) |
 | Sword Master | 69900 | [69900-sword-master.json](./69900-sword-master.json) |
+| Sword Master Story | 140896 | [140896-sword-master-story.json](./140896-sword-master-story.json) |
 | Sword n' Dragons | 275703 | [275703-sword-n-dragons.json](./275703-sword-n-dragons.json) |
 | Sword of Atlas | 188565 | [188565-sword-of-atlas.json](./188565-sword-of-atlas.json) |
 | Sword of Chaos | 59467 | [59467-sword-of-chaos.json](./59467-sword-of-chaos.json) |
