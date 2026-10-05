@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Defenders: Classic TD | 359068 | [359068-galaxy-defenders-classic-td.json](./359068-galaxy-defenders-classic-td.json) |
 | Galaxy Defense War | 372018 | [372018-galaxy-defense-war.json](./372018-galaxy-defense-war.json) |
 | Galaxy Defense: Fortress TD | 344951 | [344951-galaxy-defense-fortress-td.json](./344951-galaxy-defense-fortress-td.json) |
+| Galaxy Drift | 164957 | [164957-galaxy-drift.json](./164957-galaxy-drift.json) |
 | Galaxy Dungeon | 295939 | [295939-galaxy-dungeon.json](./295939-galaxy-dungeon.json) |
 | Galaxy Dwellers | 254693 | [254693-galaxy-dwellers.json](./254693-galaxy-dwellers.json) |
 | Galaxy Express Chaldea | 339113 | [339113-galaxy-express-chaldea.json](./339113-galaxy-express-chaldea.json) |
