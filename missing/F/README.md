@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Familiar Friends: What's Your Familiar? | 340056 | [340056-familiar-friends-whats-your-familiar.json](./340056-familiar-friends-whats-your-familiar.json) |
 | Familiar Stranger | 319932 | [319932-familiar-stranger.json](./319932-familiar-stranger.json) |
 | Familiar: Battle of the Labyrinth | 367630 | [367630-familiar-battle-of-the-labyrinth.json](./367630-familiar-battle-of-the-labyrinth.json) |
+| Familiars.io | 151816 | [151816-familiars-io.json](./151816-familiars-io.json) |
 | Family | 138192 | [138192-family.json](./138192-family.json) |
 | Family | 171603 | [171603-family.json](./171603-family.json) |
 | Family | 394827 | [394827-family.json](./394827-family.json) |
