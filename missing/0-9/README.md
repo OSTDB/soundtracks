@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1953: NATO vs Warsaw Pact | 17886 | [17886-1953-nato-vs-warsaw-pact.json](./17886-1953-nato-vs-warsaw-pact.json) |
 | 1968 | 141731 | [141731-1968.json](./141731-1968.json) |
 | 1971: Indian Naval Front | 110956 | [110956-1971-indian-naval-front.json](./110956-1971-indian-naval-front.json) |
+| 1976: Back to Midway | 168708 | [168708-1976-back-to-midway.json](./168708-1976-back-to-midway.json) |
 | 1977: Radio Aut | 135236 | [135236-1977-radio-aut.json](./135236-1977-radio-aut.json) |
 | 1979 Revolution: Black Friday | 14360 | [14360-1979-revolution-black-friday.json](./14360-1979-revolution-black-friday.json) |
 | 1983, 18th Floor | 406096 | [406096-1983-18th-floor.json](./406096-1983-18th-floor.json) |
