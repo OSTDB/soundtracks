@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damn Daniel: Basket Game | 252818 | [252818-damn-daniel-basket-game.json](./252818-damn-daniel-basket-game.json) |
 | Damn Daniel: White Vans Adventure | 201236 | [201236-damn-daniel-white-vans-adventure.json](./201236-damn-daniel-white-vans-adventure.json) |
 | Damn Dog | 313198 | [313198-damn-dog.json](./313198-damn-dog.json) |
+| Damn Endless Orcs | 163903 | [163903-damn-endless-orcs.json](./163903-damn-endless-orcs.json) |
 | Damn it! | 284995 | [284995-damn-it.json](./284995-damn-it.json) |
 | Damn Little Town | 262062 | [262062-damn-little-town.json](./262062-damn-little-town.json) |
 | Damn Love | 402274 | [402274-damn-love.json](./402274-damn-love.json) |
@@ -1808,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Gears: Space of War | 401118 | [401118-dead-gears-space-of-war.json](./401118-dead-gears-space-of-war.json) |
 | Dead Girl's Notebook | 249322 | [249322-dead-girls-notebook.json](./249322-dead-girls-notebook.json) |
 | Dead Giveaway: Zombie Quiz | 232044 | [232044-dead-giveaway-zombie-quiz.json](./232044-dead-giveaway-zombie-quiz.json) |
+| Dead Grid | 163803 | [163803-dead-grid.json](./163803-dead-grid.json) |
 | Dead Ground Arcade: Ellis Island | 264768 | [264768-dead-ground-arcade-ellis-island.json](./264768-dead-ground-arcade-ellis-island.json) |
 | Dead GroundZ | 99038 | [99038-dead-groundz.json](./99038-dead-groundz.json) |
 | Dead Hearts | 156563 | [156563-dead-hearts.json](./156563-dead-hearts.json) |
@@ -3591,6 +3593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert | 18605 | [18605-desert.json](./18605-desert.json) |
 | Desert Angels | 348359 | [348359-desert-angels.json](./348359-desert-angels.json) |
 | Desert Armor | 127217 | [127217-desert-armor.json](./127217-desert-armor.json) |
+| Desert attack | 163878 | [163878-desert-attack.json](./163878-desert-attack.json) |
 | Desert Breaker | 39862 | [39862-desert-breaker.json](./39862-desert-breaker.json) |
 | Desert Bus | 251590 | [251590-desert-bus.json](./251590-desert-bus.json) |
 | Desert Bus | 277307 | [277307-desert-bus.json](./277307-desert-bus.json) |
@@ -6124,6 +6127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Fiendish | 332852 | [332852-doki-doki-fiendish.json](./332852-doki-doki-fiendish.json) |
 | Doki Doki First Love Club! | 153950 | [153950-doki-doki-first-love-club.json](./153950-doki-doki-first-love-club.json) |
 | Doki Doki Grappling Hook Yuri: The Origin Arc | 334269 | [334269-doki-doki-grappling-hook-yuri-the-origin-arc.json](./334269-doki-doki-grappling-hook-yuri-the-origin-arc.json) |
+| Doki Doki Gravity Dive | 163863 | [163863-doki-doki-gravity-dive.json](./163863-doki-doki-gravity-dive.json) |
 | Doki Doki Happy Thoughts | 334821 | [334821-doki-doki-happy-thoughts.json](./334821-doki-doki-happy-thoughts.json) |
 | Doki Doki House | 207712 | [207712-doki-doki-house.json](./207712-doki-doki-house.json) |
 | Doki Doki Indian Man Time | 333919 | [333919-doki-doki-indian-man-time.json](./333919-doki-doki-indian-man-time.json) |
@@ -8783,6 +8787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone tracks | 121699 | [121699-drone-tracks.json](./121699-drone-tracks.json) |
 | Drone Warfare | 81179 | [81179-drone-warfare.json](./81179-drone-warfare.json) |
 | Drone Wars | 373546 | [373546-drone-wars.json](./373546-drone-wars.json) |
+| Drone Wars VR | 163801 | [163801-drone-wars-vr.json](./163801-drone-wars-vr.json) |
 | Drone World Tour: Flight Simulator | 322665 | [322665-drone-world-tour-flight-simulator.json](./322665-drone-world-tour-flight-simulator.json) |
 | Droned | 207738 | [207738-droned.json](./207738-droned.json) |
 | Dronelord Hyperviber | 384615 | [384615-dronelord-hyperviber.json](./384615-dronelord-hyperviber.json) |
