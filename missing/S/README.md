@@ -5003,6 +5003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Trip | 324905 | [324905-short-trip.json](./324905-short-trip.json) |
 | Short Warp: Deep Space Bounty | 261832 | [261832-short-warp-deep-space-bounty.json](./261832-short-warp-deep-space-bounty.json) |
 | Shortest Trip to Earth | 108656 | [108656-shortest-trip-to-earth.json](./108656-shortest-trip-to-earth.json) |
+| Shortest Trip to Earth: The Old Enemies | 154610 | [154610-shortest-trip-to-earth-the-old-enemies.json](./154610-shortest-trip-to-earth-the-old-enemies.json) |
 | Shortline Railroad | 223008 | [223008-shortline-railroad.json](./223008-shortline-railroad.json) |
 | ShortStacked | 183958 | [183958-shortstacked.json](./183958-shortstacked.json) |
 | Shot & Dread Online | 293214 | [293214-shot-and-dread-online.json](./293214-shot-and-dread-online.json) |
@@ -10418,6 +10419,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hopper | 274049 | [274049-space-hopper.json](./274049-space-hopper.json) |
 | Space Hotel | 30270 | [30270-space-hotel.json](./30270-space-hotel.json) |
 | Space Hulk: Ascension | 17732 | [17732-space-hulk-ascension.json](./17732-space-hulk-ascension.json) |
+| Space Hulk: Deathwing - Enhanced Edition | 154595 | [154595-space-hulk-deathwing-enhanced-edition.json](./154595-space-hulk-deathwing-enhanced-edition.json) |
+| Space Hulk: Deathwing - Enhanced Edition: Infested Mines | 154596 | [154596-space-hulk-deathwing-enhanced-edition-infested-mines.json](./154596-space-hulk-deathwing-enhanced-edition-infested-mines.json) |
 | Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
 | Space Hunter | 271175 | [271175-space-hunter.json](./271175-space-hunter.json) |
