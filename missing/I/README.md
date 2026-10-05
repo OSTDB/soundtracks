@@ -3663,6 +3663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ivan "Ironman" Stewart's Super Off Road | 198932 | [198932-ivan-ironman-stewarts-super-off-road.json](./198932-ivan-ironman-stewarts-super-off-road.json) |
 | Ivan Poe | 367499 | [367499-ivan-poe.json](./367499-ivan-poe.json) |
 | Ivanoile ~ Christalixeur Corruption | 119023 | [119023-ivanoile-christalixeur-corruption.json](./119023-ivanoile-christalixeur-corruption.json) |
+| IVAO: International Virtual Aviation Organisation | 140908 | [140908-ivao-international-virtual-aviation-organisation.json](./140908-ivao-international-virtual-aviation-organisation.json) |
 | Ivri | 291511 | [291511-ivri.json](./291511-ivri.json) |
 | Ivy the Kiwi? Mini | 85204 | [85204-ivy-the-kiwi-mini.json](./85204-ivy-the-kiwi-mini.json) |
 | IWA Retro Adventure | 361292 | [361292-iwa-retro-adventure.json](./361292-iwa-retro-adventure.json) |
