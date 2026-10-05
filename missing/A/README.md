@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Selling Used Games | 379505 | [379505-a-game-about-selling-used-games.json](./379505-a-game-about-selling-used-games.json) |
 | A Game About You | 379504 | [379504-a-game-about-you.json](./379504-a-game-about-you.json) |
 | A Game of Concentration | 40723 | [40723-a-game-of-concentration.json](./40723-a-game-of-concentration.json) |
+| A Game of Dwarves: Pets | 156166 | [156166-a-game-of-dwarves-pets.json](./156166-a-game-of-dwarves-pets.json) |
 | A Game of Dwarves: Star Dwarves | 171034 | [171034-a-game-of-dwarves-star-dwarves.json](./171034-a-game-of-dwarves-star-dwarves.json) |
 | A Game of Tennis | 92621 | [92621-a-game-of-tennis.json](./92621-a-game-of-tennis.json) |
 | A Game of Thrones: Genesis | 15058 | [15058-a-game-of-thrones-genesis.json](./15058-a-game-of-thrones-genesis.json) |
@@ -2251,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AGX GP | 387614 | [387614-agx-gp.json](./387614-agx-gp.json) |
 | Ah Nanjarin | 284418 | [284418-ah-nanjarin.json](./284418-ah-nanjarin.json) |
 | AH-1 Viper Cobra Ops | 223959 | [223959-ah-1-viper-cobra-ops.json](./223959-ah-1-viper-cobra-ops.json) |
+| AH-3: ThunderStrike | 156159 | [156159-ah-3-thunderstrike.json](./156159-ah-3-thunderstrike.json) |
 | AH-64 Apache Air Assault | 55974 | [55974-ah-64-apache-air-assault.json](./55974-ah-64-apache-air-assault.json) |
 | AH-64D Longbow | 592 | [592-ah-64d-longbow.json](./592-ah-64d-longbow.json) |
 | Ah-Hoy! | 176293 | [176293-ah-hoy.json](./176293-ah-hoy.json) |
@@ -4545,6 +4547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Cultivatrix | 290502 | [290502-ancient-cultivatrix.json](./290502-ancient-cultivatrix.json) |
 | Ancient Cultures: Tikal's Realm | 216466 | [216466-ancient-cultures-tikals-realm.json](./216466-ancient-cultures-tikals-realm.json) |
 | Ancient Demon Shadow | 304817 | [304817-ancient-demon-shadow.json](./304817-ancient-demon-shadow.json) |
+| Ancient Dino Runner | 156227 | [156227-ancient-dino-runner.json](./156227-ancient-dino-runner.json) |
 | Ancient Egypt | 358911 | [358911-ancient-egypt.json](./358911-ancient-egypt.json) |
 | Ancient Empires Reloaded | 207866 | [207866-ancient-empires-reloaded.json](./207866-ancient-empires-reloaded.json) |
 | Ancient Enemy | 111842 | [111842-ancient-enemy.json](./111842-ancient-enemy.json) |
@@ -4712,6 +4715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Legion: Seeker of Hearts - Blue | 302573 | [302573-angel-legion-seeker-of-hearts-blue.json](./302573-angel-legion-seeker-of-hearts-blue.json) |
 | Angel Legion: Shadow Woven - Blue | 323253 | [323253-angel-legion-shadow-woven-blue.json](./323253-angel-legion-shadow-woven-blue.json) |
 | Angel Legion: Shadow Woven - Green | 302575 | [302575-angel-legion-shadow-woven-green.json](./302575-angel-legion-shadow-woven-green.json) |
+| Angel Made | 156077 | [156077-angel-made.json](./156077-angel-made.json) |
 | Angel Night | 314651 | [314651-angel-night.json](./314651-angel-night.json) |
 | Angel of Death | 269285 | [269285-angel-of-death.json](./269285-angel-of-death.json) |
 | Angel Paradise Vol. 1: Sakaki Yuko - Koi no Yokan in Hollywood | 45439 | [45439-angel-paradise-vol-1-sakaki-yuko-koi-no-yokan-in-hollywood.json](./45439-angel-paradise-vol-1-sakaki-yuko-koi-no-yokan-in-hollywood.json) |
@@ -8874,12 +8878,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automobilista 2: Hockenheimring Pack | 156164 | [156164-automobilista-2-hockenheimring-pack.json](./156164-automobilista-2-hockenheimring-pack.json) |
 | Automobilista 2: IMSA Track Pack | 352742 | [352742-automobilista-2-imsa-track-pack.json](./352742-automobilista-2-imsa-track-pack.json) |
 | Automobilista 2: Lamborghini Dream Pack Pt1 | 352740 | [352740-automobilista-2-lamborghini-dream-pack-pt1.json](./352740-automobilista-2-lamborghini-dream-pack-pt1.json) |
+| Automobilista 2: Nurburgring Pack | 156199 | [156199-automobilista-2-nurburgring-pack.json](./156199-automobilista-2-nurburgring-pack.json) |
 | Automobilista 2: Racin' USA | 169333 | [169333-automobilista-2-racin-usa.json](./169333-automobilista-2-racin-usa.json) |
 | Automobilista 2: Racin' USA Pack Pt3 | 227517 | [227517-automobilista-2-racin-usa-pack-pt3.json](./227517-automobilista-2-racin-usa-pack-pt3.json) |
 | Automobilista 2: Spa-Francorchamps | 171084 | [171084-automobilista-2-spa-francorchamps.json](./171084-automobilista-2-spa-francorchamps.json) |
 | Automobilista: Brazilian Touring Car Classics | 171086 | [171086-automobilista-brazilian-touring-car-classics.json](./171086-automobilista-brazilian-touring-car-classics.json) |
 | Automobilista: Donington Park | 171082 | [171082-automobilista-donington-park.json](./171082-automobilista-donington-park.json) |
 | Automobilista: Formula Truck | 171085 | [171085-automobilista-formula-truck.json](./171085-automobilista-formula-truck.json) |
+| Automobilista: Legendary Tracks Part 2 - Adelaide | 156078 | [156078-automobilista-legendary-tracks-part-2-adelaide.json](./156078-automobilista-legendary-tracks-part-2-adelaide.json) |
 | Automobilista: Legendary Tracks Part 3 - Hockenheim | 171372 | [171372-automobilista-legendary-tracks-part-3-hockenheim.json](./171372-automobilista-legendary-tracks-part-3-hockenheim.json) |
 | Automobilista: Snetterton | 171087 | [171087-automobilista-snetterton.json](./171087-automobilista-snetterton.json) |
 | Automon | 192226 | [192226-automon.json](./192226-automon.json) |
@@ -9281,6 +9287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azazel Gamble | 370284 | [370284-azazel-gamble.json](./370284-azazel-gamble.json) |
 | Azazel's Christmas Fable | 221174 | [221174-azazels-christmas-fable.json](./221174-azazels-christmas-fable.json) |
 | Azera Online | 76612 | [76612-azera-online.json](./76612-azera-online.json) |
+| Azimech | 156220 | [156220-azimech.json](./156220-azimech.json) |
 | Azimuth | 395550 | [395550-azimuth.json](./395550-azimuth.json) |
 | Azimuth: Head Alignment Kit | 13829 | [13829-azimuth-head-alignment-kit.json](./13829-azimuth-head-alignment-kit.json) |
 | Azito | 63270 | [63270-azito.json](./63270-azito.json) |
