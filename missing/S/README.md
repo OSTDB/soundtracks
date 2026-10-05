@@ -858,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand Seeker | 390504 | [390504-sand-seeker.json](./390504-sand-seeker.json) |
 | Sand Storm | 81422 | [81422-sand-storm.json](./81422-sand-storm.json) |
 | Sand Story | 174122 | [174122-sand-story.json](./174122-sand-story.json) |
+| Sand to Surf | 149235 | [149235-sand-to-surf.json](./149235-sand-to-surf.json) |
 | Sand Witch Adventures | 169873 | [169873-sand-witch-adventures.json](./169873-sand-witch-adventures.json) |
 | Sand: A Superfluous Game | 177946 | [177946-sand-a-superfluous-game.json](./177946-sand-a-superfluous-game.json) |
 | Sand:box | 223924 | [223924-sand-box.json](./223924-sand-box.json) |
@@ -5651,6 +5652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Dreams - The Worm in Paradise | 39155 | [39155-silicon-dreams-the-worm-in-paradise.json](./39155-silicon-dreams-the-worm-in-paradise.json) |
 | Silicon Fish | 83268 | [83268-silicon-fish.json](./83268-silicon-fish.json) |
 | Silicon Magic: Umareru Mae Kara Anata Senyou?! | 77954 | [77954-silicon-magic-umareru-mae-kara-anata-senyou.json](./77954-silicon-magic-umareru-mae-kara-anata-senyou.json) |
+| Silicon Valley Investor | 149204 | [149204-silicon-valley-investor.json](./149204-silicon-valley-investor.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
 | Silicon-Galaxy | 178994 | [178994-silicon-galaxy.json](./178994-silicon-galaxy.json) |
 | Silicone Heart | 358369 | [358369-silicone-heart.json](./358369-silicone-heart.json) |
@@ -7733,6 +7735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoothie Galaxy | 182518 | [182518-smoothie-galaxy.json](./182518-smoothie-galaxy.json) |
 | Smoothie Swipe | 248646 | [248646-smoothie-swipe.json](./248646-smoothie-swipe.json) |
 | Smoots Crazy Wave | 356841 | [356841-smoots-crazy-wave.json](./356841-smoots-crazy-wave.json) |
+| Smoots Golf | 149215 | [149215-smoots-golf.json](./149215-smoots-golf.json) |
 | Smoots Pinball | 260221 | [260221-smoots-pinball.json](./260221-smoots-pinball.json) |
 | Smoots Summer Games | 120795 | [120795-smoots-summer-games.json](./120795-smoots-summer-games.json) |
 | Smoots World Cup Tennis | 24720 | [24720-smoots-world-cup-tennis.json](./24720-smoots-world-cup-tennis.json) |
@@ -10689,6 +10692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Squadron | 160208 | [160208-space-squadron.json](./160208-space-squadron.json) |
 | Space Star: Heart of a Soldier | 292628 | [292628-space-star-heart-of-a-soldier.json](./292628-space-star-heart-of-a-soldier.json) |
 | Space Station Alpha | 35964 | [35964-space-station-alpha.json](./35964-space-station-alpha.json) |
+| Space Station Cargo Simulator | 149241 | [149241-space-station-cargo-simulator.json](./149241-space-station-cargo-simulator.json) |
 | Space Station Escape | 282636 | [282636-space-station-escape.json](./282636-space-station-escape.json) |
 | Space Station Loma: Operations | 29841 | [29841-space-station-loma-operations.json](./29841-space-station-loma-operations.json) |
 | Space Station Proto Speedmap Jam | 300420 | [300420-space-station-proto-speedmap-jam.json](./300420-space-station-proto-speedmap-jam.json) |
@@ -10771,6 +10775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Wars | 19372 | [19372-space-wars.json](./19372-space-wars.json) |
 | Space Wars: Interstellar Empires | 76586 | [76586-space-wars-interstellar-empires.json](./76586-space-wars-interstellar-empires.json) |
 | Space Wave | 181912 | [181912-space-wave.json](./181912-space-wave.json) |
+| Space Wave Race | 149216 | [149216-space-wave-race.json](./149216-space-wave-race.json) |
 | Space Waves | 189170 | [189170-space-waves.json](./189170-space-waves.json) |
 | Space Way: Echo of the Galaxy | 365867 | [365867-space-way-echo-of-the-galaxy.json](./365867-space-way-echo-of-the-galaxy.json) |
 | Space Whip | 61903 | [61903-space-whip.json](./61903-space-whip.json) |
@@ -13316,6 +13321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter 77 | 138810 | [138810-starfighter-77.json](./138810-starfighter-77.json) |
 | Starfighter Galaxy Defender VR | 175209 | [175209-starfighter-galaxy-defender-vr.json](./175209-starfighter-galaxy-defender-vr.json) |
 | StarFighter R&D HD Edition | 134689 | [134689-starfighter-r-and-d-hd-edition.json](./134689-starfighter-r-and-d-hd-edition.json) |
+| Starfighter Renegade | 149226 | [149226-starfighter-renegade.json](./149226-starfighter-renegade.json) |
 | Starfighter: Eclipse | 142958 | [142958-starfighter-eclipse.json](./142958-starfighter-eclipse.json) |
 | Starfleet Encounter | 13763 | [13763-starfleet-encounter.json](./13763-starfleet-encounter.json) |
 | Starflight 1+2 | 154450 | [154450-starflight-1-2.json](./154450-starflight-1-2.json) |
@@ -14126,6 +14132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Overload | 25570 | [25570-stellar-overload.json](./25570-stellar-overload.json) |
 | Stellar Poetry | 333954 | [333954-stellar-poetry.json](./333954-stellar-poetry.json) |
 | Stellar Propeller | 211788 | [211788-stellar-propeller.json](./211788-stellar-propeller.json) |
+| Stellar Raid | 149212 | [149212-stellar-raid.json](./149212-stellar-raid.json) |
 | Stellar Raiders | 373172 | [373172-stellar-raiders.json](./373172-stellar-raiders.json) |
 | Stellar Reflections | 292770 | [292770-stellar-reflections.json](./292770-stellar-reflections.json) |
 | Stellar Renegades | 179699 | [179699-stellar-renegades.json](./179699-stellar-renegades.json) |
@@ -16218,6 +16225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunsoft Mahjong Solitaire: Shanghai Legend | 276952 | [276952-sunsoft-mahjong-solitaire-shanghai-legend.json](./276952-sunsoft-mahjong-solitaire-shanghai-legend.json) |
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
 | Sunyata CCG | 403554 | [403554-sunyata-ccg.json](./403554-sunyata-ccg.json) |
+| Supa Birdie Boi | 149200 | [149200-supa-birdie-boi.json](./149200-supa-birdie-boi.json) |
 | Supa Nova | 100019 | [100019-supa-nova.json](./100019-supa-nova.json) |
 | Supa3 | 308470 | [308470-supa3.json](./308470-supa3.json) |
 | Supaplex | 14418 | [14418-supaplex.json](./14418-supaplex.json) |
@@ -18285,6 +18293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Sprint | 243117 | [243117-survival-sprint.json](./243117-survival-sprint.json) |
 | Survival Story | 291535 | [291535-survival-story.json](./291535-survival-story.json) |
 | Survival Tycoon | 44094 | [44094-survival-tycoon.json](./44094-survival-tycoon.json) |
+| Survival Z | 149219 | [149219-survival-z.json](./149219-survival-z.json) |
 | Survival Z The Alpha | 292304 | [292304-survival-z-the-alpha.json](./292304-survival-z-the-alpha.json) |
 | Survival Zombies: The Inverted Evolution | 33575 | [33575-survival-zombies-the-inverted-evolution.json](./33575-survival-zombies-the-inverted-evolution.json) |
 | Survival Zone: Craft, Build & Grow | 336395 | [336395-survival-zone-craft-build-and-grow.json](./336395-survival-zone-craft-build-and-grow.json) |
