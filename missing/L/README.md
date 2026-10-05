@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinths of the World: Eternal Winter | 188000 | [188000-labyrinths-of-the-world-eternal-winter.json](./188000-labyrinths-of-the-world-eternal-winter.json) |
 | Labyrinths of the World: The Wild Side - Collector's Edition | 128019 | [128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json](./128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json) |
 | Labyrinths of World: Dangerous | 108612 | [108612-labyrinths-of-world-dangerous.json](./108612-labyrinths-of-world-dangerous.json) |
+| Labyrinthus: Episode 1 | 168697 | [168697-labyrinthus-episode-1.json](./168697-labyrinthus-episode-1.json) |
 | Labyrneath | 111055 | [111055-labyrneath.json](./111055-labyrneath.json) |
 | Labyronia 2 | 137691 | [137691-labyronia-2.json](./137691-labyronia-2.json) |
 | Labyronia RPG | 34725 | [34725-labyronia-rpg.json](./34725-labyronia-rpg.json) |
@@ -916,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laurel's Day | 393486 | [393486-laurels-day.json](./393486-laurels-day.json) |
 | Laureli: Blood-Dipped Manor | 382183 | [382183-laureli-blood-dipped-manor.json](./382183-laureli-blood-dipped-manor.json) |
 | Lauren's visit | 108066 | [108066-laurens-visit.json](./108066-laurens-visit.json) |
+| Lava Escape Mine | 168712 | [168712-lava-escape-mine.json](./168712-lava-escape-mine.json) |
 | Lava Fever | 22786 | [22786-lava-fever.json](./22786-lava-fever.json) |
 | Lava Hop! | 352344 | [352344-lava-hop.json](./352344-lava-hop.json) |
 | Lava Joe | 181258 | [181258-lava-joe.json](./181258-lava-joe.json) |
@@ -3005,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquid Pinball | 30357 | [30357-liquid-pinball.json](./30357-liquid-pinball.json) |
 | Liquid Space | 127078 | [127078-liquid-space.json](./127078-liquid-space.json) |
 | Liquid War | 51250 | [51250-liquid-war.json](./51250-liquid-war.json) |
+| Liquidation | 168703 | [168703-liquidation.json](./168703-liquidation.json) |
 | Liquidator | 72446 | [72446-liquidator.json](./72446-liquidator.json) |
 | Liquidators | 147297 | [147297-liquidators.json](./147297-liquidators.json) |
 | Liquidum: Secrets of the Deep | 310387 | [310387-liquidum-secrets-of-the-deep.json](./310387-liquidum-secrets-of-the-deep.json) |
@@ -3607,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock 5 | 70429 | [70429-lock-5.json](./70429-lock-5.json) |
 | Lock Her Up: The Trump Supremacy | 81815 | [81815-lock-her-up-the-trump-supremacy.json](./81815-lock-her-up-the-trump-supremacy.json) |
 | Lock In: Final Cut | 202754 | [202754-lock-in-final-cut.json](./202754-lock-in-final-cut.json) |
+| Lock Lock: Farm | 168628 | [168628-lock-lock-farm.json](./168628-lock-lock-farm.json) |
 | Lock On | 335708 | [335708-lock-on.json](./335708-lock-on.json) |
 | Lock on: Flaming Cliffs 3 | 63815 | [63815-lock-on-flaming-cliffs-3.json](./63815-lock-on-flaming-cliffs-3.json) |
 | Lock On: Modern Air Combat | 10201 | [10201-lock-on-modern-air-combat.json](./10201-lock-on-modern-air-combat.json) |
