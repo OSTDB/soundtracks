@@ -4917,6 +4917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Farm | 264360 | [264360-lovely-farm.json](./264360-lovely-farm.json) |
 | Lovely Fox | 102918 | [102918-lovely-fox.json](./102918-lovely-fox.json) |
 | Lovely Fracture | 183363 | [183363-lovely-fracture.json](./183363-lovely-fracture.json) |
+| Lovely Girl Puzzle | 118239 | [118239-lovely-girl-puzzle.json](./118239-lovely-girl-puzzle.json) |
 | Lovely Goddess | 155019 | [155019-lovely-goddess.json](./155019-lovely-goddess.json) |
 | Lovely Hentai | 126391 | [126391-lovely-hentai.json](./126391-lovely-hentai.json) |
 | Lovely Island | 109620 | [109620-lovely-island.json](./109620-lovely-island.json) |
