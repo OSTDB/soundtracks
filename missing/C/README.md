@@ -3477,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess vs. Chat | 203930 | [203930-chess-vs-chat.json](./203930-chess-vs-chat.json) |
 | Chess With Friends | 79921 | [79921-chess-with-friends.json](./79921-chess-with-friends.json) |
 | Chess With Idiots | 371978 | [371978-chess-with-idiots.json](./371978-chess-with-idiots.json) |
+| Chess with Lasers | 159223 | [159223-chess-with-lasers.json](./159223-chess-with-lasers.json) |
 | Chess, but... | 211265 | [211265-chess-but.json](./211265-chess-but.json) |
 | Chess, Texas | 358999 | [358999-chess-texas.json](./358999-chess-texas.json) |
 | Chess: Clash of Kings | 187475 | [187475-chess-clash-of-kings.json](./187475-chess-clash-of-kings.json) |
@@ -4633,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus Caper | 48099 | [48099-circus-caper.json](./48099-circus-caper.json) |
 | Circus Convoy | 376721 | [376721-circus-convoy.json](./376721-circus-convoy.json) |
 | Circus Empire | 21490 | [21490-circus-empire.json](./21490-circus-empire.json) |
+| Circus Games | 159042 | [159042-circus-games.json](./159042-circus-games.json) |
 | Circus Lido | 37724 | [37724-circus-lido.json](./37724-circus-lido.json) |
 | Circus of Clowns | 342085 | [342085-circus-of-clowns.json](./342085-circus-of-clowns.json) |
 | Circut's Edge | 277032 | [277032-circuts-edge.json](./277032-circuts-edge.json) |
@@ -10234,6 +10236,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curling on Line | 166769 | [166769-curling-on-line.json](./166769-curling-on-line.json) |
 | Curling Super Championship | 63566 | [63566-curling-super-championship.json](./63566-curling-super-championship.json) |
 | Curling World Cup | 98983 | [98983-curling-world-cup.json](./98983-curling-world-cup.json) |
+| Curly Monkey | 159233 | [159233-curly-monkey.json](./159233-curly-monkey.json) |
+| Curly Monkey 2 | 159234 | [159234-curly-monkey-2.json](./159234-curly-monkey-2.json) |
 | Current | 358392 | [358392-current.json](./358392-current.json) |
 | Current: The Flow | 374713 | [374713-current-the-flow.json](./374713-current-the-flow.json) |
 | Currently Unstable | 260206 | [260206-currently-unstable.json](./260206-currently-unstable.json) |
