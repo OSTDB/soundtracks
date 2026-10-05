@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanako in the Abandoned School | 207766 | [207766-hanako-in-the-abandoned-school.json](./207766-hanako-in-the-abandoned-school.json) |
 | Hananezumi | 200742 | [200742-hananezumi.json](./200742-hananezumi.json) |
 | Hanano | 28828 | [28828-hanano.json](./28828-hanano.json) |
+| Hanano Puzzle | 124570 | [124570-hanano-puzzle.json](./124570-hanano-puzzle.json) |
 | Hanapon Princess | 135790 | [135790-hanapon-princess.json](./135790-hanapon-princess.json) |
 | Hanarenga: Takumi no Utage | 338309 | [338309-hanarenga-takumi-no-utage.json](./338309-hanarenga-takumi-no-utage.json) |
 | Hanasaka Tenshi Tenten-kun no Beat Breaker | 228500 | [228500-hanasaka-tenshi-tenten-kun-no-beat-breaker.json](./228500-hanasaka-tenshi-tenten-kun-no-beat-breaker.json) |
@@ -6579,6 +6580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunters Music World | 389059 | [389059-hunters-music-world.json](./389059-hunters-music-world.json) |
 | Hunters of Idlearth | 348371 | [348371-hunters-of-idlearth.json](./348371-hunters-of-idlearth.json) |
 | Hunters of Ralk | 291016 | [291016-hunters-of-ralk.json](./291016-hunters-of-ralk.json) |
+| Hunters War | 124592 | [124592-hunters-war.json](./124592-hunters-war.json) |
 | Hunters: Episode One | 63800 | [63800-hunters-episode-one.json](./63800-hunters-episode-one.json) |
 | Hunters' Moon | 214032 | [214032-hunters-moon.json](./214032-hunters-moon.json) |
 | HunterX | 196262 | [196262-hunterx.json](./196262-hunterx.json) |
