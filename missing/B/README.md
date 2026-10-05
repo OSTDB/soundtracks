@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakumatsu Ishin: Amakakeru Koi | 163234 | [163234-bakumatsu-ishin-amakakeru-koi.json](./163234-bakumatsu-ishin-amakakeru-koi.json) |
 | Bakumatsu Kourinden Oni | 15897 | [15897-bakumatsu-kourinden-oni.json](./15897-bakumatsu-kourinden-oni.json) |
 | Bakumatsu Midarezaki | 163231 | [163231-bakumatsu-midarezaki.json](./163231-bakumatsu-midarezaki.json) |
+| Bakumatsu Renka Shinsengumi | 152990 | [152990-bakumatsu-renka-shinsengumi.json](./152990-bakumatsu-renka-shinsengumi.json) |
 | Bakumatsu Renka Shinsengumi | 269779 | [269779-bakumatsu-renka-shinsengumi.json](./269779-bakumatsu-renka-shinsengumi.json) |
 | Bakumatsu Renka: Karyuu Kenshi-den | 163235 | [163235-bakumatsu-renka-karyuu-kenshi-den.json](./163235-bakumatsu-renka-karyuu-kenshi-den.json) |
 | Bakumatsu Renka: Shinsengumi DS | 122864 | [122864-bakumatsu-renka-shinsengumi-ds.json](./122864-bakumatsu-renka-shinsengumi-ds.json) |
@@ -1465,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barking Puzzle | 156224 | [156224-barking-puzzle.json](./156224-barking-puzzle.json) |
 | Barko | 413751 | [413751-barko.json](./413751-barko.json) |
 | Barman Simulator | 334465 | [334465-barman-simulator.json](./334465-barman-simulator.json) |
+| Barn & Farm Renovator | 152984 | [152984-barn-and-farm-renovator.json](./152984-barn-and-farm-renovator.json) |
 | Barn Bashers | 177009 | [177009-barn-bashers.json](./177009-barn-bashers.json) |
 | Barn Finders VR | 172184 | [172184-barn-finders-vr.json](./172184-barn-finders-vr.json) |
 | Barn Yarn: Collector's Edition | 339835 | [339835-barn-yarn-collectors-edition.json](./339835-barn-yarn-collectors-edition.json) |
@@ -3966,6 +3968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Red Hood: Halloween | 126894 | [126894-big-red-hood-halloween.json](./126894-big-red-hood-halloween.json) |
 | Big Rigs: Over the Road Racing | 7557 | [7557-big-rigs-over-the-road-racing.json](./7557-big-rigs-over-the-road-racing.json) |
 | Big Rumble Boxing: Creed Champions | 137129 | [137129-big-rumble-boxing-creed-champions.json](./137129-big-rumble-boxing-creed-champions.json) |
+| Big Rumble Boxing: Creed Champions - Day One Edition | 153022 | [153022-big-rumble-boxing-creed-champions-day-one-edition.json](./153022-big-rumble-boxing-creed-champions-day-one-edition.json) |
 | Big Scale Racing | 69842 | [69842-big-scale-racing.json](./69842-big-scale-racing.json) |
 | Big Screen Games: Pack 1 | 197383 | [197383-big-screen-games-pack-1.json](./197383-big-screen-games-pack-1.json) |
 | Big Sea | 14301 | [14301-big-sea.json](./14301-big-sea.json) |
@@ -4242,6 +4245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binky's Trash Service | 142483 | [142483-binkys-trash-service.json](./142483-binkys-trash-service.json) |
 | Bio Block | 274518 | [274518-bio-block.json](./274518-bio-block.json) |
 | Bio Challenge | 12917 | [12917-bio-challenge.json](./12917-bio-challenge.json) |
+| Bio Crisis: Evil Hazard | 152996 | [152996-bio-crisis-evil-hazard.json](./152996-bio-crisis-evil-hazard.json) |
 | Bio Evil | 217941 | [217941-bio-evil.json](./217941-bio-evil.json) |
 | Bio Fail | 410910 | [410910-bio-fail.json](./410910-bio-fail.json) |
 | Bio Fault | 397052 | [397052-bio-fault.json](./397052-bio-fault.json) |
