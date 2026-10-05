@@ -2043,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Dodge Ball 3 | 56519 | [56519-battle-dodge-ball-3.json](./56519-battle-dodge-ball-3.json) |
 | Battle Dodgeball | 38350 | [38350-battle-dodgeball.json](./38350-battle-dodgeball.json) |
 | Battle Dome | 143586 | [143586-battle-dome.json](./143586-battle-dome.json) |
+| Battle Droid T1 | 119500 | [119500-battle-droid-t1.json](./119500-battle-droid-t1.json) |
 | Battle Drones: Red Rock Resistance | 226237 | [226237-battle-drones-red-rock-resistance.json](./226237-battle-drones-red-rock-resistance.json) |
 | Battle Ducks | 38979 | [38979-battle-ducks.json](./38979-battle-ducks.json) |
 | Battle Dungeon: Risen | 175438 | [175438-battle-dungeon-risen.json](./175438-battle-dungeon-risen.json) |
@@ -6212,6 +6213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blub | 274497 | [274497-blub.json](./274497-blub.json) |
 | Blubber | 312582 | [312582-blubber.json](./312582-blubber.json) |
 | BlubBlub: Quest of the Blob | 102338 | [102338-blubblub-quest-of-the-blob.json](./102338-blubblub-quest-of-the-blob.json) |
+| Bludgeon | 119488 | [119488-bludgeon.json](./119488-bludgeon.json) |
 | Blue | 133854 | [133854-blue.json](./133854-blue.json) |
 | Blue | 176777 | [176777-blue.json](./176777-blue.json) |
 | Blue | 380034 | [380034-blue.json](./380034-blue.json) |
@@ -9143,6 +9145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Barrage Basketball | 417367 | [417367-bullet-barrage-basketball.json](./417367-bullet-barrage-basketball.json) |
 | Bullet Bash | 205246 | [205246-bullet-bash.json](./205246-bullet-bash.json) |
 | Bullet Battle | 174721 | [174721-bullet-battle.json](./174721-bullet-battle.json) |
+| Bullet Battle: Evolution | 119513 | [119513-bullet-battle-evolution.json](./119513-bullet-battle-evolution.json) |
 | Bullet Bill | 230752 | [230752-bullet-bill.json](./230752-bullet-bill.json) |
 | Bullet Bill 2 | 370096 | [370096-bullet-bill-2.json](./370096-bullet-bill-2.json) |
 | Bullet Bill 3 | 370097 | [370097-bullet-bill-3.json](./370097-bullet-bill-3.json) |
