@@ -4477,6 +4477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meian | 97673 | [97673-meian.json](./97673-meian.json) |
 | MeiaUm: Escaping the Pix | 329373 | [329373-meiaum-escaping-the-pix.json](./329373-meiaum-escaping-the-pix.json) |
 | Meiji Ishin | 48781 | [48781-meiji-ishin.json](./48781-meiji-ishin.json) |
+| Meiji Katsugeki Haikara Ryuuseigumi: Seibai Shimaseu, Yonaoshi Kagyou | 136827 | [136827-meiji-katsugeki-haikara-ryuuseigumi-seibai-shimaseu-yonaoshi-kagyou.json](./136827-meiji-katsugeki-haikara-ryuuseigumi-seibai-shimaseu-yonaoshi-kagyou.json) |
 | Meiji Tokyo Renka | 136445 | [136445-meiji-tokyo-renka.json](./136445-meiji-tokyo-renka.json) |
 | Meiji Tokyo Renka Full Moon | 136447 | [136447-meiji-tokyo-renka-full-moon.json](./136447-meiji-tokyo-renka-full-moon.json) |
 | Meiji Tokyo Renka Twilight Kiss | 136446 | [136446-meiji-tokyo-renka-twilight-kiss.json](./136446-meiji-tokyo-renka-twilight-kiss.json) |
@@ -5168,6 +5169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear GB | 181868 | [181868-metal-gear-gb.json](./181868-metal-gear-gb.json) |
 | Metal Gear Noah | 107207 | [107207-metal-gear-noah.json](./107207-metal-gear-noah.json) |
 | Metal Gear Rising: Revengeance - Limited Edition | 44557 | [44557-metal-gear-rising-revengeance-limited-edition.json](./44557-metal-gear-rising-revengeance-limited-edition.json) |
+| Metal Gear Rising: Revengeance - Special Edition | 136809 | [136809-metal-gear-rising-revengeance-special-edition.json](./136809-metal-gear-rising-revengeance-special-edition.json) |
 | Metal Gear Rising: Revengeance VR Missions | 116154 | [116154-metal-gear-rising-revengeance-vr-missions.json](./116154-metal-gear-rising-revengeance-vr-missions.json) |
 | Metal Gear Solid | 233127 | [233127-metal-gear-solid.json](./233127-metal-gear-solid.json) |
 | Metal Gear Solid | 393642 | [393642-metal-gear-solid.json](./393642-metal-gear-solid.json) |
@@ -7707,6 +7709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: EX Revue | 37332 | [37332-mobile-suit-gundam-ex-revue.json](./37332-mobile-suit-gundam-ex-revue.json) |
 | Mobile Suit Gundam: Extreme Versus 2 - Infinite Boost | 355089 | [355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json](./355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json) |
 | Mobile Suit Gundam: Extreme Vs. 2 | 86532 | [86532-mobile-suit-gundam-extreme-vs-2.json](./86532-mobile-suit-gundam-extreme-vs-2.json) |
+| Mobile Suit Gundam: Extreme Vs. Full Boost - Premium G Sound Edition | 136810 | [136810-mobile-suit-gundam-extreme-vs-full-boost-premium-g-sound-edition.json](./136810-mobile-suit-gundam-extreme-vs-full-boost-premium-g-sound-edition.json) |
 | Mobile Suit Gundam: Extreme vs. Maxi Boost | 79865 | [79865-mobile-suit-gundam-extreme-vs-maxi-boost.json](./79865-mobile-suit-gundam-extreme-vs-maxi-boost.json) |
 | Mobile Suit Gundam: Extreme vs. Maxiboost - On | 128773 | [128773-mobile-suit-gundam-extreme-vs-maxiboost-on.json](./128773-mobile-suit-gundam-extreme-vs-maxiboost-on.json) |
 | Mobile Suit Gundam: Extreme Vs.2 XBoost | 196283 | [196283-mobile-suit-gundam-extreme-vs-2-xboost.json](./196283-mobile-suit-gundam-extreme-vs-2-xboost.json) |
