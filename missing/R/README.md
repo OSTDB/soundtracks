@@ -1273,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman | 85578 | [85578-rayman.json](./85578-rayman.json) |
 | Rayman 1 & Rayman 2 Double Pack | 193342 | [193342-rayman-1-and-rayman-2-double-pack.json](./193342-rayman-1-and-rayman-2-double-pack.json) |
 | Rayman 100 Levels | 193337 | [193337-rayman-100-levels.json](./193337-rayman-100-levels.json) |
+| Rayman 10th Anniversary | 136211 | [136211-rayman-10th-anniversary.json](./136211-rayman-10th-anniversary.json) |
 | Rayman 10th Anniversary | 193353 | [193353-rayman-10th-anniversary.json](./193353-rayman-10th-anniversary.json) |
 | Rayman 10th Anniversary | 193354 | [193354-rayman-10th-anniversary.json](./193354-rayman-10th-anniversary.json) |
 | Rayman 10th Anniversary | 43339 | [43339-rayman-10th-anniversary.json](./43339-rayman-10th-anniversary.json) |
@@ -1459,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Zero - Starting Life in Another World: Death or Kiss | 26668 | [26668-re-zero-starting-life-in-another-world-death-or-kiss.json](./26668-re-zero-starting-life-in-another-world-death-or-kiss.json) |
 | Re:Zero - Starting Life in Another World: Lost in Memories | 137943 | [137943-re-zero-starting-life-in-another-world-lost-in-memories.json](./137943-re-zero-starting-life-in-another-world-lost-in-memories.json) |
 | Re:Zero - Starting Life in Another World: The Prophecy of the Throne | 134556 | [134556-re-zero-starting-life-in-another-world-the-prophecy-of-the-throne.json](./134556-re-zero-starting-life-in-another-world-the-prophecy-of-the-throne.json) |
+| Re:Zero - Starting Life in Another World: The Prophecy of the Throne - Collector's Edition | 136191 | [136191-re-zero-starting-life-in-another-world-the-prophecy-of-the-throne-collectors-edition.json](./136191-re-zero-starting-life-in-another-world-the-prophecy-of-the-throne-collectors-edition.json) |
 | Re:Zero - The Forbidden Book and the Mysterious Spirit | 144893 | [144893-re-zero-the-forbidden-book-and-the-mysterious-spirit.json](./144893-re-zero-the-forbidden-book-and-the-mysterious-spirit.json) |
 | Re:Zero -Starting Life in Another World- Death or Kiss Limited Edition | 167132 | [167132-re-zero-starting-life-in-another-world-death-or-kiss-limited-edition.json](./167132-re-zero-starting-life-in-another-world-death-or-kiss-limited-edition.json) |
 | Re:Zero Kara Hajimeru Isekai Seikatsu - Infinity | 220324 | [220324-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json](./220324-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json) |
@@ -6679,6 +6681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory 3 Special: Digital Deluxe Edition | 261329 | [261329-rune-factory-3-special-digital-deluxe-edition.json](./261329-rune-factory-3-special-digital-deluxe-edition.json) |
 | Rune Factory 3: A Fantasy Harvest Moon | 9640 | [9640-rune-factory-3-a-fantasy-harvest-moon.json](./9640-rune-factory-3-a-fantasy-harvest-moon.json) |
 | Rune Factory 4 Special | 115278 | [115278-rune-factory-4-special.json](./115278-rune-factory-4-special.json) |
+| Rune Factory 4 Special: Archival Edition | 136190 | [136190-rune-factory-4-special-archival-edition.json](./136190-rune-factory-4-special-archival-edition.json) |
 | Rune Factory 5 | 115279 | [115279-rune-factory-5.json](./115279-rune-factory-5.json) |
 | Rune Factory 5: Premium Box Limited Edition | 148156 | [148156-rune-factory-5-premium-box-limited-edition.json](./148156-rune-factory-5-premium-box-limited-edition.json) |
 | Rune Factory 6 | 250924 | [250924-rune-factory-6.json](./250924-rune-factory-6.json) |
