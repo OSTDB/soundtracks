@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4th Generation Warfare: Commando Unit | 196056 | [196056-4th-generation-warfare-commando-unit.json](./196056-4th-generation-warfare-commando-unit.json) |
 | 4th Super Industrial Revolution Wars | 129071 | [129071-4th-super-industrial-revolution-wars.json](./129071-4th-super-industrial-revolution-wars.json) |
 | 4th Time's the Charm | 362913 | [362913-4th-times-the-charm.json](./362913-4th-times-the-charm.json) |
+| 4Thewords | 137942 | [137942-4thewords.json](./137942-4thewords.json) |
 | 4Towers Onslaught | 235155 | [235155-4towers-onslaught.json](./235155-4towers-onslaught.json) |
 | 4WD Wild Rally | 300005 | [300005-4wd-wild-rally.json](./300005-4wd-wild-rally.json) |
 | 4X4 | 219513 | [219513-4x4.json](./219513-4x4.json) |
