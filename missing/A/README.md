@@ -6277,6 +6277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Phelios | 234631 | [234631-arcade-archives-phelios.json](./234631-arcade-archives-phelios.json) |
 | Arcade Archives: Pirate Pete | 152252 | [152252-arcade-archives-pirate-pete.json](./152252-arcade-archives-pirate-pete.json) |
 | Arcade Archives: Plump Pop | 394382 | [394382-arcade-archives-plump-pop.json](./394382-arcade-archives-plump-pop.json) |
+| Arcade Archives: Plus Alpha | 147626 | [147626-arcade-archives-plus-alpha.json](./147626-arcade-archives-plus-alpha.json) |
 | Arcade Archives: Pole Position II | 279875 | [279875-arcade-archives-pole-position-ii.json](./279875-arcade-archives-pole-position-ii.json) |
 | Arcade Archives: Pop Flamer | 168692 | [168692-arcade-archives-pop-flamer.json](./168692-arcade-archives-pop-flamer.json) |
 | Arcade Archives: Power Spikes | 319783 | [319783-arcade-archives-power-spikes.json](./319783-arcade-archives-power-spikes.json) |
@@ -6295,6 +6296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Rompers | 217789 | [217789-arcade-archives-rompers.json](./217789-arcade-archives-rompers.json) |
 | Arcade Archives: Route 16 | 113197 | [113197-arcade-archives-route-16.json](./113197-arcade-archives-route-16.json) |
 | Arcade Archives: Rug Rats | 304793 | [304793-arcade-archives-rug-rats.json](./304793-arcade-archives-rug-rats.json) |
+| Arcade Archives: Rush'n Attack | 147631 | [147631-arcade-archives-rushn-attack.json](./147631-arcade-archives-rushn-attack.json) |
 | Arcade Archives: Rygar | 109499 | [109499-arcade-archives-rygar.json](./109499-arcade-archives-rygar.json) |
 | Arcade Archives: Ryukyu | 345113 | [345113-arcade-archives-ryukyu.json](./345113-arcade-archives-ryukyu.json) |
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
@@ -6305,6 +6307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Shingen Samurai-Fighter | 153832 | [153832-arcade-archives-shingen-samurai-fighter.json](./153832-arcade-archives-shingen-samurai-fighter.json) |
 | Arcade Archives: Silk Worm | 284928 | [284928-arcade-archives-silk-worm.json](./284928-arcade-archives-silk-worm.json) |
 | Arcade Archives: Sky Kid DX | 240220 | [240220-arcade-archives-sky-kid-dx.json](./240220-arcade-archives-sky-kid-dx.json) |
+| Arcade Archives: Soccer | 147640 | [147640-arcade-archives-soccer.json](./147640-arcade-archives-soccer.json) |
 | Arcade Archives: Soldam | 173133 | [173133-arcade-archives-soldam.json](./173133-arcade-archives-soldam.json) |
 | Arcade Archives: Soldier Girl Amazon | 99540 | [99540-arcade-archives-soldier-girl-amazon.json](./99540-arcade-archives-soldier-girl-amazon.json) |
 | Arcade Archives: Solitary Fighter | 282154 | [282154-arcade-archives-solitary-fighter.json](./282154-arcade-archives-solitary-fighter.json) |
@@ -8255,6 +8258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astround | 342049 | [342049-astround.json](./342049-astround.json) |
 | Astrovity | 163908 | [163908-astrovity.json](./163908-astrovity.json) |
 | Astrowar | 11127 | [11127-astrowar.json](./11127-astrowar.json) |
+| AstroWings: Space War | 147656 | [147656-astrowings-space-war.json](./147656-astrowings-space-war.json) |
 | Astroworld | 199594 | [199594-astroworld.json](./199594-astroworld.json) |
 | Astrox Imperium | 115500 | [115500-astrox-imperium.json](./115500-astrox-imperium.json) |
 | Astrozombies | 138617 | [138617-astrozombies.json](./138617-astrozombies.json) |
