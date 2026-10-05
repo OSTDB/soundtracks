@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Casino Games | 137099 | [137099-video-casino-games.json](./137099-video-casino-games.json) |
 | Video Checkers | 18003 | [18003-video-checkers.json](./18003-video-checkers.json) |
 | Video Cube: Space | 130754 | [130754-video-cube-space.json](./130754-video-cube-space.json) |
+| Video Editor Tycoon | 157468 | [157468-video-editor-tycoon.json](./157468-video-editor-tycoon.json) |
 | Video Game Feminization Hypnosis | 146905 | [146905-video-game-feminization-hypnosis.json](./146905-video-game-feminization-hypnosis.json) |
 | Video Game Grid | 333195 | [333195-video-game-grid.json](./333195-video-game-grid.json) |
 | Video Game Menu: The Game | 399846 | [399846-video-game-menu-the-game.json](./399846-video-game-menu-the-game.json) |
