@@ -3436,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Barkeeper | 332847 | [332847-the-barkeeper.json](./332847-the-barkeeper.json) |
 | The Barker & Mustard Files | 224074 | [224074-the-barker-and-mustard-files.json](./224074-the-barker-and-mustard-files.json) |
 | The Baron Got You Again | 54523 | [54523-the-baron-got-you-again.json](./54523-the-baron-got-you-again.json) |
+| The Barren Babel | 151800 | [151800-the-barren-babel.json](./151800-the-barren-babel.json) |
 | The Baseball 2003 | 61401 | [61401-the-baseball-2003.json](./61401-the-baseball-2003.json) |
 | The Baseball T | 217912 | [217912-the-baseball-t.json](./217912-the-baseball-t.json) |
 | The Based Turnabout | 308419 | [308419-the-based-turnabout.json](./308419-the-based-turnabout.json) |
@@ -14069,6 +14070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toraware no Palm: Deluxe Edition | 136967 | [136967-toraware-no-palm-deluxe-edition.json](./136967-toraware-no-palm-deluxe-edition.json) |
 | Toraware no Palm: Refrain | 109603 | [109603-toraware-no-palm-refrain.json](./109603-toraware-no-palm-refrain.json) |
 | Toraware no Palm: Refrain - Deluxe Edition | 136843 | [136843-toraware-no-palm-refrain-deluxe-edition.json](./136843-toraware-no-palm-refrain-deluxe-edition.json) |
+| Toraware no Shoujo: Bluebird of Happiness | 151824 | [151824-toraware-no-shoujo-bluebird-of-happiness.json](./151824-toraware-no-shoujo-bluebird-of-happiness.json) |
 | Torawase: The Girl in the Mirror | 397911 | [397911-torawase-the-girl-in-the-mirror.json](./397911-torawase-the-girl-in-the-mirror.json) |
 | Torb | 176326 | [176326-torb.json](./176326-torb.json) |
 | Torbaci Oyunu | 274769 | [274769-torbaci-oyunu.json](./274769-torbaci-oyunu.json) |
@@ -14450,6 +14452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touge Max 2 | 66099 | [66099-touge-max-2.json](./66099-touge-max-2.json) |
 | Touge R | 60621 | [60621-touge-r.json](./60621-touge-r.json) |
 | Tougen Anki: Crimson Inferno | 396591 | [396591-tougen-anki-crimson-inferno.json](./396591-tougen-anki-crimson-inferno.json) |
+| Tougenkyou | 151807 | [151807-tougenkyou.json](./151807-tougenkyou.json) |
 | Tough Story: Big Hell | 54457 | [54457-tough-story-big-hell.json](./54457-tough-story-big-hell.json) |
 | Tough Turf | 40259 | [40259-tough-turf.json](./40259-tough-turf.json) |
 | Tough: Dark Fight | 138107 | [138107-tough-dark-fight.json](./138107-tough-dark-fight.json) |
