@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FA Tetris | 250372 | [250372-fa-tetris.json](./250372-fa-tetris.json) |
 | Faaast Penguin | 314424 | [314424-faaast-penguin.json](./314424-faaast-penguin.json) |
 | Fab 5 Soccer | 124633 | [124633-fab-5-soccer.json](./124633-fab-5-soccer.json) |
+| Fab Fashion | 142716 | [142716-fab-fashion.json](./142716-fab-fashion.json) |
 | Fabby Golf | 239324 | [239324-fabby-golf.json](./239324-fabby-golf.json) |
 | Fable Anniversary | 7658 | [7658-fable-anniversary.json](./7658-fable-anniversary.json) |
 | Fable Anniversary: Heroes and Villains Content Pack | 226844 | [226844-fable-anniversary-heroes-and-villains-content-pack.json](./226844-fable-anniversary-heroes-and-villains-content-pack.json) |
@@ -1508,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fascination | 10793 | [10793-fascination.json](./10793-fascination.json) |
 | Fascination | 205658 | [205658-fascination.json](./205658-fascination.json) |
 | Fashion AR | 116406 | [116406-fashion-ar.json](./116406-fashion-ar.json) |
+| Fashion Boutique | 142717 | [142717-fashion-boutique.json](./142717-fashion-boutique.json) |
 | Fashion Designer | 128988 | [128988-fashion-designer.json](./128988-fashion-designer.json) |
 | Fashion Diva Dress Up - Fashionista World | 103904 | [103904-fashion-diva-dress-up-fashionista-world.json](./103904-fashion-diva-dress-up-fashionista-world.json) |
 | Fashion Dream | 188115 | [188115-fashion-dream.json](./188115-fashion-dream.json) |
