@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Rendezvous | 247990 | [247990-rainbow-rendezvous.json](./247990-rainbow-rendezvous.json) |
 | Rainbow Rockets! | 259243 | [259243-rainbow-rockets.json](./259243-rainbow-rockets.json) |
 | Rainbow Runner | 384529 | [384529-rainbow-runner.json](./384529-rainbow-runner.json) |
+| Rainbow Six: Black Ops | 132046 | [132046-rainbow-six-black-ops.json](./132046-rainbow-six-black-ops.json) |
 | Rainbow Skies | 52676 | [52676-rainbow-skies.json](./52676-rainbow-skies.json) |
 | Rainbow Skies: Limited Edition | 166232 | [166232-rainbow-skies-limited-edition.json](./166232-rainbow-skies-limited-edition.json) |
 | Rainbow Slide | 233235 | [233235-rainbow-slide.json](./233235-rainbow-slide.json) |
@@ -750,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Unicorn Nail Salon | 90353 | [90353-rainbow-unicorn-nail-salon.json](./90353-rainbow-unicorn-nail-salon.json) |
 | Rainbow Warhead | 244859 | [244859-rainbow-warhead.json](./244859-rainbow-warhead.json) |
 | Rainbow Web 3 | 108642 | [108642-rainbow-web-3.json](./108642-rainbow-web-3.json) |
+| Rainbows, Toilets & Unicorns | 131975 | [131975-rainbows-toilets-and-unicorns.json](./131975-rainbows-toilets-and-unicorns.json) |
 | Rainbows, Toilets & Unicorns: Entertainment Corp. | 171607 | [171607-rainbows-toilets-and-unicorns-entertainment-corp.json](./171607-rainbows-toilets-and-unicorns-entertainment-corp.json) |
 | Rainbows, Toilets & Unicorns: Influencerama | 171407 | [171407-rainbows-toilets-and-unicorns-influencerama.json](./171407-rainbows-toilets-and-unicorns-influencerama.json) |
 | Rainbows, Toilets & Unicorns: Outraged & Offended | 171569 | [171569-rainbows-toilets-and-unicorns-outraged-and-offended.json](./171569-rainbows-toilets-and-unicorns-outraged-and-offended.json) |
@@ -4866,6 +4868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Arena 2: Design and Destroy | 8854 | [8854-robot-arena-2-design-and-destroy.json](./8854-robot-arena-2-design-and-destroy.json) |
 | Robot Arena: Design & Destroy | 79323 | [79323-robot-arena-design-and-destroy.json](./79323-robot-arena-design-and-destroy.json) |
 | Robot Auto Racing Simulator | 127950 | [127950-robot-auto-racing-simulator.json](./127950-robot-auto-racing-simulator.json) |
+| Robot Battle | 132056 | [132056-robot-battle.json](./132056-robot-battle.json) |
 | Robot Battle V | 400337 | [400337-robot-battle-v.json](./400337-robot-battle-v.json) |
 | Robot Beekeeper | 356304 | [356304-robot-beekeeper.json](./356304-robot-beekeeper.json) |
 | Robot Bros | 89240 | [89240-robot-bros.json](./89240-robot-bros.json) |
