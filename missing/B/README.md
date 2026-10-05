@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Shark | 267342 | [267342-baby-shark.json](./267342-baby-shark.json) |
 | Baby Shark Run Away | 229621 | [229621-baby-shark-run-away.json](./229621-baby-shark-run-away.json) |
 | Baby Shark RUN! | 104467 | [104467-baby-shark-run.json](./104467-baby-shark-run.json) |
+| Baby Shark VR Dancing | 132590 | [132590-baby-shark-vr-dancing.json](./132590-baby-shark-vr-dancing.json) |
 | Baby Shark: ABC Phonics | 207236 | [207236-baby-shark-abc-phonics.json](./207236-baby-shark-abc-phonics.json) |
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
 | Baby Twins Babysitter | 86772 | [86772-baby-twins-babysitter.json](./86772-baby-twins-babysitter.json) |
@@ -505,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
 | Bad Rats Show | 27510 | [27510-bad-rats-show.json](./27510-bad-rats-show.json) |
 | Bad Roads | 256432 | [256432-bad-roads.json](./256432-bad-roads.json) |
+| Bad Run: Turbo Edition | 132670 | [132670-bad-run-turbo-edition.json](./132670-bad-run-turbo-edition.json) |
 | Bad Santa | 226240 | [226240-bad-santa.json](./226240-bad-santa.json) |
 | Bad Sector 3 | 371265 | [371265-bad-sector-3.json](./371265-bad-sector-3.json) |
 | Bad Soccer Manager | 197235 | [197235-bad-soccer-manager.json](./197235-bad-soccer-manager.json) |
@@ -4066,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biggles On Mars | 267594 | [267594-biggles-on-mars.json](./267594-biggles-on-mars.json) |
 | Bighead Runner | 102379 | [102379-bighead-runner.json](./102379-bighead-runner.json) |
 | Bigroom Escape | 151727 | [151727-bigroom-escape.json](./151727-bigroom-escape.json) |
+| Bigwig Flint | 132674 | [132674-bigwig-flint.json](./132674-bigwig-flint.json) |
 | Bigwigs: 2 Minute Brawl | 100312 | [100312-bigwigs-2-minute-brawl.json](./100312-bigwigs-2-minute-brawl.json) |
 | Biida-Bash | 372471 | [372471-biida-bash.json](./372471-biida-bash.json) |
 | Bike Arena | 236266 | [236266-bike-arena.json](./236266-bike-arena.json) |
