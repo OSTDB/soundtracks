@@ -3101,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charades Taboo Game | 100145 | [100145-charades-taboo-game.json](./100145-charades-taboo-game.json) |
 | Charem of Metropolitan | 236909 | [236909-charem-of-metropolitan.json](./236909-charem-of-metropolitan.json) |
 | Charge | 120992 | [120992-charge.json](./120992-charge.json) |
+| Charge Blade Hero | 158642 | [158642-charge-blade-hero.json](./158642-charge-blade-hero.json) |
 | Charge Cycles | 183976 | [183976-charge-cycles.json](./183976-charge-cycles.json) |
 | Charge Up | 413091 | [413091-charge-up.json](./413091-charge-up.json) |
 | Charge! | 219101 | [219101-charge.json](./219101-charge.json) |
@@ -5498,6 +5499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud of Souls | 25766 | [25766-cloud-of-souls.json](./25766-cloud-of-souls.json) |
 | Cloud Piercer | 322767 | [322767-cloud-piercer.json](./322767-cloud-piercer.json) |
 | Cloud Pirates | 27687 | [27687-cloud-pirates.json](./27687-cloud-pirates.json) |
+| Cloud Rack | 158640 | [158640-cloud-rack.json](./158640-cloud-rack.json) |
 | Cloud Raiders | 59983 | [59983-cloud-raiders.json](./59983-cloud-raiders.json) |
 | Cloud Sculptor | 406126 | [406126-cloud-sculptor.json](./406126-cloud-sculptor.json) |
 | Cloud Serpent | 185658 | [185658-cloud-serpent.json](./185658-cloud-serpent.json) |
@@ -6261,6 +6263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorCode | 55481 | [55481-colorcode.json](./55481-colorcode.json) |
 | ColorCoordination | 270086 | [270086-colorcoordination.json](./270086-colorcoordination.json) |
 | ColorCube | 208378 | [208378-colorcube.json](./208378-colorcube.json) |
+| Colored Shapes | 158627 | [158627-colored-shapes.json](./158627-colored-shapes.json) |
 | ColorFold | 108273 | [108273-colorfold.json](./108273-colorfold.json) |
 | Colorful | 212229 | [212229-colorful.json](./212229-colorful.json) |
 | Colorful | 289575 | [289575-colorful.json](./289575-colorful.json) |
@@ -7553,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copter Besieged | 345649 | [345649-copter-besieged.json](./345649-copter-besieged.json) |
 | Copter Capers | 261990 | [261990-copter-capers.json](./261990-copter-capers.json) |
 | Copter Cove | 353980 | [353980-copter-cove.json](./353980-copter-cove.json) |
+| Copy Editor: A RegEx Puzzle | 158623 | [158623-copy-editor-a-regex-puzzle.json](./158623-copy-editor-a-regex-puzzle.json) |
 | Copy Kitty | 22443 | [22443-copy-kitty.json](./22443-copy-kitty.json) |
 | Copy: Two Man Too Many | 359010 | [359010-copy-two-man-too-many.json](./359010-copy-two-man-too-many.json) |
 | Copycat | 255631 | [255631-copycat.json](./255631-copycat.json) |
@@ -7987,6 +7991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Count Logica | 110135 | [110135-count-logica.json](./110135-count-logica.json) |
 | Count Masters | 305844 | [305844-count-masters.json](./305844-count-masters.json) |
 | Count Meowcula's Barbershop | 374773 | [374773-count-meowculas-barbershop.json](./374773-count-meowculas-barbershop.json) |
+| Count of Hatchet | 158634 | [158634-count-of-hatchet.json](./158634-count-of-hatchet.json) |
 | Count of Wallachia | 276403 | [276403-count-of-wallachia.json](./276403-count-of-wallachia.json) |
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
 | Count to Ten: Supporter Edition | 310385 | [310385-count-to-ten-supporter-edition.json](./310385-count-to-ten-supporter-edition.json) |
@@ -8732,6 +8737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Mom | 310550 | [310550-crazy-mom.json](./310550-crazy-mom.json) |
 | Crazy Monster Truck Smasher | 89160 | [89160-crazy-monster-truck-smasher.json](./89160-crazy-monster-truck-smasher.json) |
 | Crazy Mouse | 74410 | [74410-crazy-mouse.json](./74410-crazy-mouse.json) |
+| Crazy Music Tennis | 158611 | [158611-crazy-music-tennis.json](./158611-crazy-music-tennis.json) |
 | Crazy Neighbour | 405613 | [405613-crazy-neighbour.json](./405613-crazy-neighbour.json) |
 | Crazy One | 242791 | [242791-crazy-one.json](./242791-crazy-one.json) |
 | Crazy Otto | 208322 | [208322-crazy-otto.json](./208322-crazy-otto.json) |
@@ -9239,6 +9245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crordle | 223555 | [223555-crordle.json](./223555-crordle.json) |
 | Crosps | 125844 | [125844-crosps.json](./125844-crosps.json) |
 | Cross and Crush | 89270 | [89270-cross-and-crush.json](./89270-cross-and-crush.json) |
+| Cross Blitz | 158620 | [158620-cross-blitz.json](./158620-cross-blitz.json) |
 | Cross Channel | 78650 | [78650-cross-channel.json](./78650-cross-channel.json) |
 | Cross Chase | 293229 | [293229-cross-chase.json](./293229-cross-chase.json) |
 | Cross Country Skiing VR | 99035 | [99035-cross-country-skiing-vr.json](./99035-cross-country-skiing-vr.json) |
@@ -9840,6 +9847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu Mythos ADV Lunatic Whispers | 213033 | [213033-cthulhu-mythos-adv-lunatic-whispers.json](./213033-cthulhu-mythos-adv-lunatic-whispers.json) |
 | Cthulhu Mythos RPG -The Sleeping Girl of the Miasma Sea- | 110154 | [110154-cthulhu-mythos-rpg-the-sleeping-girl-of-the-miasma-sea.json](./110154-cthulhu-mythos-rpg-the-sleeping-girl-of-the-miasma-sea.json) |
 | Cthulhu Mythos RPG II | 82941 | [82941-cthulhu-mythos-rpg-ii.json](./82941-cthulhu-mythos-rpg-ii.json) |
+| Cthulhu Pub | 158630 | [158630-cthulhu-pub.json](./158630-cthulhu-pub.json) |
 | Cthulhu Realms | 32510 | [32510-cthulhu-realms.json](./32510-cthulhu-realms.json) |
 | Cthulhu Saves Christmas | 124286 | [124286-cthulhu-saves-christmas.json](./124286-cthulhu-saves-christmas.json) |
 | Cthulhu Saves the World | 8427 | [8427-cthulhu-saves-the-world.json](./8427-cthulhu-saves-the-world.json) |
