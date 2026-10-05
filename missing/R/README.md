@@ -5470,6 +5470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguelike Journey to the West: 100 Ways to Slay Erlang Shen | 359536 | [359536-roguelike-journey-to-the-west-100-ways-to-slay-erlang-shen.json](./359536-roguelike-journey-to-the-west-100-ways-to-slay-erlang-shen.json) |
 | Rogueline | 209659 | [209659-rogueline.json](./209659-rogueline.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
+| Roguely | 153519 | [153519-roguely.json](./153519-roguely.json) |
 | Roguemance | 27198 | [27198-roguemance.json](./27198-roguemance.json) |
 | Roguematch: The Extraplanar Invasion | 217273 | [217273-roguematch-the-extraplanar-invasion.json](./217273-roguematch-the-extraplanar-invasion.json) |
 | Roguemon | 374728 | [374728-roguemon.json](./374728-roguemon.json) |
