@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darklight Conflict | 2399 | [2399-darklight-conflict.json](./2399-darklight-conflict.json) |
 | Darklight: Origin | 157100 | [157100-darklight-origin.json](./157100-darklight-origin.json) |
 | Darklin Wars | 129769 | [129769-darklin-wars.json](./129769-darklin-wars.json) |
+| Darklord | 131419 | [131419-darklord.json](./131419-darklord.json) |
 | Darklord's Tower | 360021 | [360021-darklords-tower.json](./360021-darklords-tower.json) |
 | Darkman | 12037 | [12037-darkman.json](./12037-darkman.json) |
 | Darkman | 365688 | [365688-darkman.json](./365688-darkman.json) |
@@ -2871,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defect Process | 173029 | [173029-defect-process.json](./173029-defect-process.json) |
 | Defence Agent Gaya | 82906 | [82906-defence-agent-gaya.json](./82906-defence-agent-gaya.json) |
 | Defence of the Arcane Realms | 298679 | [298679-defence-of-the-arcane-realms.json](./298679-defence-of-the-arcane-realms.json) |
+| Defence War | 131322 | [131322-defence-war.json](./131322-defence-war.json) |
 | Defend Earth: Xenos Survivors | 320738 | [320738-defend-earth-xenos-survivors.json](./320738-defend-earth-xenos-survivors.json) |
 | Defend from Candyland! | 186675 | [186675-defend-from-candyland.json](./186675-defend-from-candyland.json) |
 | Defend Him, Not Me! | 318800 | [318800-defend-him-not-me.json](./318800-defend-him-not-me.json) |
@@ -3406,6 +3408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons and Doobins | 291760 | [291760-demons-and-doobins.json](./291760-demons-and-doobins.json) |
 | Demons are coming! | 278160 | [278160-demons-are-coming.json](./278160-demons-are-coming.json) |
 | Demons Ate My Neighbors! | 138676 | [138676-demons-ate-my-neighbors.json](./138676-demons-ate-my-neighbors.json) |
+| Demons Gate | 131425 | [131425-demons-gate.json](./131425-demons-gate.json) |
 | Demons Infernalize | 243376 | [243376-demons-infernalize.json](./243376-demons-infernalize.json) |
 | Demons of Asteborg/Astebros | 260093 | [260093-demons-of-asteborg-astebros.json](./260093-demons-of-asteborg-astebros.json) |
 | Demons of Dex | 229219 | [229219-demons-of-dex.json](./229219-demons-of-dex.json) |
@@ -6915,6 +6918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom II: Onna Shinkan Companion | 202835 | [202835-doom-ii-onna-shinkan-companion.json](./202835-doom-ii-onna-shinkan-companion.json) |
 | Doom II: The Sentinel's Lexicon | 202838 | [202838-doom-ii-the-sentinels-lexicon.json](./202838-doom-ii-the-sentinels-lexicon.json) |
 | Doom III | 319655 | [319655-doom-iii.json](./319655-doom-iii.json) |
+| DooM in the Dark 2 | 131323 | [131323-doom-in-the-dark-2.json](./131323-doom-in-the-dark-2.json) |
 | Doom Incarnate | 201183 | [201183-doom-incarnate.json](./201183-doom-incarnate.json) |
 | Doom Raider: Crypt of the Vile | 256817 | [256817-doom-raider-crypt-of-the-vile.json](./256817-doom-raider-crypt-of-the-vile.json) |
 | Doom Rails | 16116 | [16116-doom-rails.json](./16116-doom-rails.json) |
@@ -8966,6 +8970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Zone 4 | 109590 | [109590-drop-zone-4.json](./109590-drop-zone-4.json) |
 | Drop: Save the Forest | 373087 | [373087-drop-save-the-forest.json](./373087-drop-save-the-forest.json) |
 | Drop: System Breach | 202862 | [202862-drop-system-breach.json](./202862-drop-system-breach.json) |
+| Drop! | 131340 | [131340-drop.json](./131340-drop.json) |
 | Drop7 | 29044 | [29044-drop7.json](./29044-drop7.json) |
 | Dropboy | 178492 | [178492-dropboy.json](./178492-dropboy.json) |
 | DropCast | 21458 | [21458-dropcast.json](./21458-dropcast.json) |
