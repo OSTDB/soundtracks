@@ -6868,6 +6868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minibus Simulator Vietnam | 384616 | [384616-minibus-simulator-vietnam.json](./384616-minibus-simulator-vietnam.json) |
 | MiniCar Extreme: Car Driving Racing (Truck, Suv, Sedan, Cars) | 242665 | [242665-minicar-extreme-car-driving-racing-truck-suv-sedan-cars.json](./242665-minicar-extreme-car-driving-racing-truck-suv-sedan-cars.json) |
 | MiniCar Race | 104840 | [104840-minicar-race.json](./104840-minicar-race.json) |
+| Minicology | 150771 | [150771-minicology.json](./150771-minicology.json) |
 | Miniconomy | 108966 | [108966-miniconomy.json](./108966-miniconomy.json) |
 | MiniCraft Adventure | 96777 | [96777-minicraft-adventure.json](./96777-minicraft-adventure.json) |
 | Minidinos | 369729 | [369729-minidinos.json](./369729-minidinos.json) |
@@ -8461,6 +8462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Jam Steel Titans | 115477 | [115477-monster-jam-steel-titans.json](./115477-monster-jam-steel-titans.json) |
 | Monster Jam Steel Titans 2 | 142603 | [142603-monster-jam-steel-titans-2.json](./142603-monster-jam-steel-titans-2.json) |
 | Monster Jam Steel Titans 2: Inverse Truck Pack | 223548 | [223548-monster-jam-steel-titans-2-inverse-truck-pack.json](./223548-monster-jam-steel-titans-2-inverse-truck-pack.json) |
+| Monster Killer | 150762 | [150762-monster-killer.json](./150762-monster-killer.json) |
 | Monster Kingdom: Jewel Summoner | 42890 | [42890-monster-kingdom-jewel-summoner.json](./42890-monster-kingdom-jewel-summoner.json) |
 | Monster Knockout | 224755 | [224755-monster-knockout.json](./224755-monster-knockout.json) |
 | Monster Knockout: Bounce DLC | 361774 | [361774-monster-knockout-bounce-dlc.json](./361774-monster-knockout-bounce-dlc.json) |
@@ -10163,6 +10165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mumba IV: Egypt Jewels | 156636 | [156636-mumba-iv-egypt-jewels.json](./156636-mumba-iv-egypt-jewels.json) |
 | Mumbo Shuffle | 398547 | [398547-mumbo-shuffle.json](./398547-mumbo-shuffle.json) |
 | Mummification | 243063 | [243063-mummification.json](./243063-mummification.json) |
+| Mummmaster! | 150769 | [150769-mummmaster.json](./150769-mummmaster.json) |
 | Mummy Madness | 185702 | [185702-mummy-madness.json](./185702-mummy-madness.json) |
 | Mummy Sandbox | 175883 | [175883-mummy-sandbox.json](./175883-mummy-sandbox.json) |
 | Mummy, mummy, mummy! | 165692 | [165692-mummy-mummy-mummy.json](./165692-mummy-mummy-mummy.json) |
@@ -11699,6 +11702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythos Interactive Game Collection | 341355 | [341355-mythos-interactive-game-collection.json](./341355-mythos-interactive-game-collection.json) |
 | Mythos Party | 153961 | [153961-mythos-party.json](./153961-mythos-party.json) |
 | Mythos: Book One | 344543 | [344543-mythos-book-one.json](./344543-mythos-book-one.json) |
+| Mythos: Slavic Builder | 150784 | [150784-mythos-slavic-builder.json](./150784-mythos-slavic-builder.json) |
 | Mythos: The Beginning | 36206 | [36206-mythos-the-beginning.json](./36206-mythos-the-beginning.json) |
 | Myths and Legends Bundle: Tunche & Black Book | 188026 | [188026-myths-and-legends-bundle-tunche-and-black-book.json](./188026-myths-and-legends-bundle-tunche-and-black-book.json) |
 | Myths are 100% True | 307806 | [307806-myths-are-100-true.json](./307806-myths-are-100-true.json) |
