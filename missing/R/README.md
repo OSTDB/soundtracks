@@ -2305,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redumption | 236419 | [236419-redumption.json](./236419-redumption.json) |
 | Redundancy | 262311 | [262311-redundancy.json](./262311-redundancy.json) |
 | ReDungeon | 38943 | [38943-redungeon.json](./38943-redungeon.json) |
+| Redux | 171410 | [171410-redux.json](./171410-redux.json) |
 | Redux: Dark Matters | 36093 | [36093-redux-dark-matters.json](./36093-redux-dark-matters.json) |
 | Redviil | 114970 | [114970-redviil.json](./114970-redviil.json) |
 | ReEarth | 309689 | [309689-reearth.json](./309689-reearth.json) |
