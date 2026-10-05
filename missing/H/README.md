@@ -1960,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hecatomb | 398404 | [398404-hecatomb.json](./398404-hecatomb.json) |
 | Hecaton | 133231 | [133231-hecaton.json](./133231-hecaton.json) |
 | Héchéng Dà Xīguā | 296019 | [296019-hecheng-da-xigua.json](./296019-hecheng-da-xigua.json) |
+| Heck Deck | 154054 | [154054-heck-deck.json](./154054-heck-deck.json) |
 | Heckin' Slimes | 176788 | [176788-heckin-slimes.json](./176788-heckin-slimes.json) |
 | Hector The Cat: Treasure Hunter | 257437 | [257437-hector-the-cat-treasure-hunter.json](./257437-hector-the-cat-treasure-hunter.json) |
 | Hector: Badge of Carnage! - Episode 1 | 119182 | [119182-hector-badge-of-carnage-episode-1.json](./119182-hector-badge-of-carnage-episode-1.json) |
@@ -4874,6 +4875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Is Where the Haunt Is | 362881 | [362881-home-is-where-the-haunt-is.json](./362881-home-is-where-the-haunt-is.json) |
 | Home Mahjong | 6113 | [6113-home-mahjong.json](./6113-home-mahjong.json) |
 | Home Makeover: Hidden Object | 146710 | [146710-home-makeover-hidden-object.json](./146710-home-makeover-hidden-object.json) |
+| Home Office | 154062 | [154062-home-office.json](./154062-home-office.json) |
 | Home Office Simulator | 223391 | [223391-home-office-simulator.json](./223391-home-office-simulator.json) |
 | Home on Prom Night | 184968 | [184968-home-on-prom-night.json](./184968-home-on-prom-night.json) |
 | Home Path | 294940 | [294940-home-path.json](./294940-home-path.json) |
@@ -5422,6 +5424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Ville Maze Escape | 119713 | [119713-horror-ville-maze-escape.json](./119713-horror-ville-maze-escape.json) |
 | Horror: Evil Residents | 303571 | [303571-horror-evil-residents.json](./303571-horror-evil-residents.json) |
 | HorrorCore: Maze and Pools of Horror | 331974 | [331974-horrorcore-maze-and-pools-of-horror.json](./331974-horrorcore-maze-and-pools-of-horror.json) |
+| HorrorDriven: A story for the road | 154052 | [154052-horrordriven-a-story-for-the-road.json](./154052-horrordriven-a-story-for-the-road.json) |
 | Horrorfield | 124593 | [124593-horrorfield.json](./124593-horrorfield.json) |
 | HorrorMon Photography | 381670 | [381670-horrormon-photography.json](./381670-horrormon-photography.json) |
 | Horrors Above | 391185 | [391185-horrors-above.json](./391185-horrors-above.json) |
@@ -5921,6 +5924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Strike | 40812 | [40812-hover-strike.json](./40812-hover-strike.json) |
 | Hover X Souls | 96226 | [96226-hover-x-souls.json](./96226-hover-x-souls.json) |
 | Hoverbear | 296909 | [296909-hoverbear.json](./296909-hoverbear.json) |
+| Hoverboard Chase | 154081 | [154081-hoverboard-chase.json](./154081-hoverboard-chase.json) |
 | Hoverboard Hero | 237381 | [237381-hoverboard-hero.json](./237381-hoverboard-hero.json) |
 | Hovercab Station | 262994 | [262994-hovercab-station.json](./262994-hovercab-station.json) |
 | Hovercars 3077: Underground racing | 192436 | [192436-hovercars-3077-underground-racing.json](./192436-hovercars-3077-underground-racing.json) |
