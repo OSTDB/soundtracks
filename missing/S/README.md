@@ -3988,6 +3988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Shift Shawn: Episode 1 - Tale of the Transmogrified | 171567 | [171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json](./171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json) |
 | Shape Shifter | 323525 | [323525-shape-shifter.json](./323525-shape-shifter.json) |
 | Shape Shipper | 249738 | [249738-shape-shipper.json](./249738-shape-shipper.json) |
+| Shape Shooter | 141493 | [141493-shape-shooter.json](./141493-shape-shooter.json) |
 | Shape Shuffle: A Shape Saga | 262066 | [262066-shape-shuffle-a-shape-saga.json](./262066-shape-shuffle-a-shape-saga.json) |
 | Shape Sorter - Early Learning | 106371 | [106371-shape-sorter-early-learning.json](./106371-shape-sorter-early-learning.json) |
 | Shape Suitable | 165616 | [165616-shape-suitable.json](./165616-shape-suitable.json) |
@@ -6956,6 +6957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slashy Souls | 18107 | [18107-slashy-souls.json](./18107-slashy-souls.json) |
 | Slashy Sushi | 99268 | [99268-slashy-sushi.json](./99268-slashy-sushi.json) |
 | Slate | 312714 | [312714-slate.json](./312714-slate.json) |
+| Slaugher League | 141529 | [141529-slaugher-league.json](./141529-slaugher-league.json) |
 | Slaughter | 383031 | [383031-slaughter.json](./383031-slaughter.json) |
 | Slaughter Bots | 216887 | [216887-slaughter-bots.json](./216887-slaughter-bots.json) |
 | Slaughter Cannon 2 | 200566 | [200566-slaughter-cannon-2.json](./200566-slaughter-cannon-2.json) |
@@ -8445,6 +8447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Brawl | 39843 | [39843-soccer-brawl.json](./39843-soccer-brawl.json) |
 | Soccer But Different | 209666 | [209666-soccer-but-different.json](./209666-soccer-but-different.json) |
 | Soccer Championship | 108468 | [108468-soccer-championship.json](./108468-soccer-championship.json) |
+| Soccer Club Life Playing Manager | 141514 | [141514-soccer-club-life-playing-manager.json](./141514-soccer-club-life-playing-manager.json) |
 | Soccer Club Story | 92485 | [92485-soccer-club-story.json](./92485-soccer-club-story.json) |
 | Soccer Clubs | 235998 | [235998-soccer-clubs.json](./235998-soccer-clubs.json) |
 | Soccer Cup Solitaire | 87064 | [87064-soccer-cup-solitaire.json](./87064-soccer-cup-solitaire.json) |
@@ -9480,6 +9483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Robo Blast 2: Official Level Design Contest 2021- Round 1 | 287670 | [287670-sonic-robo-blast-2-official-level-design-contest-2021-round-1.json](./287670-sonic-robo-blast-2-official-level-design-contest-2021-round-1.json) |
 | Sonic Robo Blast 2: Official Level Design Contest 2021- Round 2 | 287668 | [287668-sonic-robo-blast-2-official-level-design-contest-2021-round-2.json](./287668-sonic-robo-blast-2-official-level-design-contest-2021-round-2.json) |
 | Sonic Robo Blast 2: Official Level Design Contest 2022 - Round 1 | 287658 | [287658-sonic-robo-blast-2-official-level-design-contest-2022-round-1.json](./287658-sonic-robo-blast-2-official-level-design-contest-2022-round-1.json) |
+| Sonic Robo Blast 2: Persona | 141509 | [141509-sonic-robo-blast-2-persona.json](./141509-sonic-robo-blast-2-persona.json) |
 | Sonic Robo Blast 2: Top Down | 282704 | [282704-sonic-robo-blast-2-top-down.json](./282704-sonic-robo-blast-2-top-down.json) |
 | Sonic Robo Blast! | 201071 | [201071-sonic-robo-blast.json](./201071-sonic-robo-blast.json) |
 | Sonic Robo Christmas Blast | 280224 | [280224-sonic-robo-christmas-blast.json](./280224-sonic-robo-christmas-blast.json) |
@@ -9913,6 +9917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Catcher: The Moon Coliseum | 366384 | [366384-soul-catcher-the-moon-coliseum.json](./366384-soul-catcher-the-moon-coliseum.json) |
 | Soul Chained | 348392 | [348392-soul-chained.json](./348392-soul-chained.json) |
 | Soul Climb | 189007 | [189007-soul-climb.json](./189007-soul-climb.json) |
+| Soul Dance Party | 141522 | [141522-soul-dance-party.json](./141522-soul-dance-party.json) |
 | Soul Delivery | 167591 | [167591-soul-delivery.json](./167591-soul-delivery.json) |
 | Soul Demon Hunters | 371977 | [371977-soul-demon-hunters.json](./371977-soul-demon-hunters.json) |
 | Soul Destiny | 125967 | [125967-soul-destiny.json](./125967-soul-destiny.json) |
@@ -15012,6 +15017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Boy | 220646 | [220646-street-boy.json](./220646-street-boy.json) |
 | Street Cat | 78041 | [78041-street-cat.json](./78041-street-cat.json) |
 | Street Chaser | 247088 | [247088-street-chaser.json](./247088-street-chaser.json) |
+| Street Chaves | 141519 | [141519-street-chaves.json](./141519-street-chaves.json) |
 | Street Chef: Food Seller Simulator | 326408 | [326408-street-chef-food-seller-simulator.json](./326408-street-chef-food-seller-simulator.json) |
 | Street Clean TD | 285673 | [285673-street-clean-td.json](./285673-street-clean-td.json) |
 | Street Cleaner 3 | 305382 | [305382-street-cleaner-3.json](./305382-street-cleaner-3.json) |
