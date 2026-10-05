@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backdoors | 254016 | [254016-backdoors.json](./254016-backdoors.json) |
 | Backdraft | 255080 | [255080-backdraft.json](./255080-backdraft.json) |
 | Backer Reward | 179568 | [179568-backer-reward.json](./179568-backer-reward.json) |
+| Backfire | 134391 | [134391-backfire.json](./134391-backfire.json) |
 | Backfire | 28865 | [28865-backfire.json](./28865-backfire.json) |
 | BackFire | 135073 | [135073-backfire.json](./135073-backfire.json) |
 | Backfire Brigade | 370137 | [370137-backfire-brigade.json](./370137-backfire-brigade.json) |
@@ -666,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bala na Manga | 238994 | [238994-bala-na-manga.json](./238994-bala-na-manga.json) |
 | Balaball | 373012 | [373012-balaball.json](./373012-balaball.json) |
 | Balacera Brothers | 135745 | [135745-balacera-brothers.json](./135745-balacera-brothers.json) |
+| Balade Urbaine | 134392 | [134392-balade-urbaine.json](./134392-balade-urbaine.json) |
 | Baladins | 198861 | [198861-baladins.json](./198861-baladins.json) |
 | Balala Dà Zhuǎnhuàn | 359469 | [359469-balala-da-zhuanhuan.json](./359469-balala-da-zhuanhuan.json) |
 | Balam and the Spirit Within | 201325 | [201325-balam-and-the-spirit-within.json](./201325-balam-and-the-spirit-within.json) |
@@ -2942,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania Append ClubMix | 54706 | [54706-beatmania-append-clubmix.json](./54706-beatmania-append-clubmix.json) |
 | Beatmania Append Gottamix 2: Going Global | 292855 | [292855-beatmania-append-gottamix-2-going-global.json](./292855-beatmania-append-gottamix-2-going-global.json) |
 | beatmania complete MIX | 94744 | [94744-beatmania-complete-mix.json](./94744-beatmania-complete-mix.json) |
+| beatmania DA!! | 134407 | [134407-beatmania-da.json](./134407-beatmania-da.json) |
 | Beatmania for WonderSwan | 135089 | [135089-beatmania-for-wonderswan.json](./135089-beatmania-for-wonderswan.json) |
 | Beatmania GB | 91769 | [91769-beatmania-gb.json](./91769-beatmania-gb.json) |
 | Beatmania GB2 Gotcha Mix | 92604 | [92604-beatmania-gb2-gotcha-mix.json](./92604-beatmania-gb2-gotcha-mix.json) |
@@ -3097,6 +3100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee Welcome! | 291595 | [291595-bee-welcome.json](./291595-bee-welcome.json) |
 | Bee With Gun | 411149 | [411149-bee-with-gun.json](./411149-bee-with-gun.json) |
 | Bee-Ball | 40720 | [40720-bee-ball.json](./40720-bee-ball.json) |
+| Bee: Classic Edition | 134394 | [134394-bee-classic-edition.json](./134394-bee-classic-edition.json) |
 | Bee: The Knight | 202784 | [202784-bee-the-knight.json](./202784-bee-the-knight.json) |
 | Beebmunch | 15666 | [15666-beebmunch.json](./15666-beebmunch.json) |
 | BeeBop II | 336888 | [336888-beebop-ii.json](./336888-beebop-ii.json) |
@@ -4587,6 +4591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Orchard: Animal Valley - Ultra Ultimate | 271500 | [271500-bit-orchard-animal-valley-ultra-ultimate.json](./271500-bit-orchard-animal-valley-ultra-ultimate.json) |
 | Bit Pilot | 41514 | [41514-bit-pilot.json](./41514-bit-pilot.json) |
 | Bit Pit | 176429 | [176429-bit-pit.json](./176429-bit-pit.json) |
+| Bit Rat: Singularity | 134485 | [134485-bit-rat-singularity.json](./134485-bit-rat-singularity.json) |
 | Bit Shifter | 34699 | [34699-bit-shifter.json](./34699-bit-shifter.json) |
 | Bit Sword | 190032 | [190032-bit-sword.json](./190032-bit-sword.json) |
 | Bit-Cremental: Fishistry | 325629 | [325629-bit-cremental-fishistry.json](./325629-bit-cremental-fishistry.json) |
@@ -6647,6 +6652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Threat | 77323 | [77323-bomb-threat.json](./77323-bomb-threat.json) |
 | Bomb Threat | 77324 | [77324-bomb-threat.json](./77324-bomb-threat.json) |
 | Bomb-Bomb | 101628 | [101628-bomb-bomb.json](./101628-bomb-bomb.json) |
+| Bomb: A Modern Missile Command | 134395 | [134395-bomb-a-modern-missile-command.json](./134395-bomb-a-modern-missile-command.json) |
 | Bomb: Who let the dogfight? | 17403 | [17403-bomb-who-let-the-dogfight.json](./17403-bomb-who-let-the-dogfight.json) |
 | Bomb! Tank | 199902 | [199902-bomb-tank.json](./199902-bomb-tank.json) |
 | Bomba Patch | 126442 | [126442-bomba-patch.json](./126442-bomba-patch.json) |
@@ -8995,6 +9001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build the Bridge | 286638 | [286638-build-the-bridge.json](./286638-build-the-bridge.json) |
 | Build The Sun | 328584 | [328584-build-the-sun.json](./328584-build-the-sun.json) |
 | Build Wars | 96664 | [96664-build-wars.json](./96664-build-wars.json) |
+| Build Your Palace | 134398 | [134398-build-your-palace.json](./134398-build-your-palace.json) |
 | Build Your Simspolis | 98780 | [98780-build-your-simspolis.json](./98780-build-your-simspolis.json) |
 | Build-A-Bear Workshop: Bear Valley | 104593 | [104593-build-a-bear-workshop-bear-valley.json](./104593-build-a-bear-workshop-bear-valley.json) |
 | Build-A-Bearville | 214613 | [214613-build-a-bearville.json](./214613-build-a-bearville.json) |
@@ -9606,6 +9613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busty Maid: Creampie Heaven | 127964 | [127964-busty-maid-creampie-heaven.json](./127964-busty-maid-creampie-heaven.json) |
 | BustyBiz: Anna Pack | 265252 | [265252-bustybiz-anna-pack.json](./265252-bustybiz-anna-pack.json) |
 | Busy Bea's Halftime Hustle | 349295 | [349295-busy-beas-halftime-hustle.json](./349295-busy-beas-halftime-hustle.json) |
+| Busy Busy Beaver | 134399 | [134399-busy-busy-beaver.json](./134399-busy-busy-beaver.json) |
 | Busy Scissors | 50594 | [50594-busy-scissors.json](./50594-busy-scissors.json) |
 | But That Was [Yesterday] | 203353 | [203353-but-that-was-yesterday.json](./203353-but-that-was-yesterday.json) |
 | But Why? | 391821 | [391821-but-why.json](./391821-but-why.json) |
