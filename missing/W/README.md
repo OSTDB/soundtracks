@@ -3378,6 +3378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Wonderland | 31179 | [31179-winter-wonderland.json](./31179-winter-wonderland.json) |
 | Winter Wonderland | 80461 | [80461-winter-wonderland.json](./80461-winter-wonderland.json) |
 | Winter Worm, Summer Grass | 127105 | [127105-winter-worm-summer-grass.json](./127105-winter-worm-summer-grass.json) |
+| Winter X Games SnoCross | 125782 | [125782-winter-x-games-snocross.json](./125782-winter-x-games-snocross.json) |
 | Winter X-Games Snowboarding 2002 | 47303 | [47303-winter-x-games-snowboarding-2002.json](./47303-winter-x-games-snowboarding-2002.json) |
 | Winter-Over | 352163 | [352163-winter-over.json](./352163-winter-over.json) |
 | Winter, 2001: Someone tell Luigi I love him | 177485 | [177485-winter-2001-someone-tell-luigi-i-love-him.json](./177485-winter-2001-someone-tell-luigi-i-love-him.json) |
