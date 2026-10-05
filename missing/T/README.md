@@ -2402,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentlan | 103434 | [103434-tentlan.json](./103434-tentlan.json) |
 | Tenuous:City | 230340 | [230340-tenuous-city.json](./230340-tenuous-city.json) |
 | Teocalli | 134698 | [134698-teocalli.json](./134698-teocalli.json) |
+| Teocida | 144568 | [144568-teocida.json](./144568-teocida.json) |
 | Teocida + Estigma | 265712 | [265712-teocida-estigma.json](./265712-teocida-estigma.json) |
 | Teodoro | 146555 | [146555-teodoro.json](./146555-teodoro.json) |
 | Teodoro and the Evil Machines | 153873 | [153873-teodoro-and-the-evil-machines.json](./153873-teodoro-and-the-evil-machines.json) |
@@ -5213,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Mountain | 219634 | [219634-the-first-mountain.json](./219634-the-first-mountain.json) |
 | The First Odyssey | 190006 | [190006-the-first-odyssey.json](./190006-the-first-odyssey.json) |
 | The First Present | 278675 | [278675-the-first-present.json](./278675-the-first-present.json) |
+| The First Project | 144584 | [144584-the-first-project.json](./144584-the-first-project.json) |
 | The First SMW Hack that will Ever be so Lucky as to Gain the Luxury of Leaving My PC | 278628 | [278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json](./278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json) |
 | The First Spine - Arena | 386865 | [386865-the-first-spine-arena.json](./386865-the-first-spine-arena.json) |
 | The First Step | 215745 | [215745-the-first-step.json](./215745-the-first-step.json) |
@@ -7362,6 +7364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magnet: First Night | 181299 | [181299-the-magnet-first-night.json](./181299-the-magnet-first-night.json) |
 | The Magnets | 148534 | [148534-the-magnets.json](./148534-the-magnets.json) |
 | The Magnificent Trufflepigs | 144508 | [144508-the-magnificent-trufflepigs.json](./144508-the-magnificent-trufflepigs.json) |
+| The Magnilo Case | 144589 | [144589-the-magnilo-case.json](./144589-the-magnilo-case.json) |
 | The Magpie Takes the Train | 216336 | [216336-the-magpie-takes-the-train.json](./216336-the-magpie-takes-the-train.json) |
 | The Mahjong Touhai-den | 37935 | [37935-the-mahjong-touhai-den.json](./37935-the-mahjong-touhai-den.json) |
 | The Maid | 335680 | [335680-the-maid.json](./335680-the-maid.json) |
@@ -13969,6 +13972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Tired To Die | 317301 | [317301-too-tired-to-die.json](./317301-too-tired-to-die.json) |
 | Too White Basketball | 119636 | [119636-too-white-basketball.json](./119636-too-white-basketball.json) |
 | TooBold 3 | 97102 | [97102-toobold-3.json](./97102-toobold-3.json) |
+| Toodles & Toddlers | 144570 | [144570-toodles-and-toddlers.json](./144570-toodles-and-toddlers.json) |
 | Toofan AlAqsa | 289938 | [289938-toofan-alaqsa.json](./289938-toofan-alaqsa.json) |
 | Tooi Tooi, Yakusoku: Tune of Memories | 299991 | [299991-tooi-tooi-yakusoku-tune-of-memories.json](./299991-tooi-tooi-yakusoku-tune-of-memories.json) |
 | Took: The Immortal Hero | 329365 | [329365-took-the-immortal-hero.json](./329365-took-the-immortal-hero.json) |
@@ -16392,6 +16396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Punk: Extended Edition | 298575 | [298575-trash-punk-extended-edition.json](./298575-trash-punk-extended-edition.json) |
 | Trash Sailors | 122426 | [122426-trash-sailors.json](./122426-trash-sailors.json) |
 | Trash Squad | 81157 | [81157-trash-squad.json](./81157-trash-squad.json) |
+| Trash the Planet | 144624 | [144624-trash-the-planet.json](./144624-trash-the-planet.json) |
 | Trash Time | 115155 | [115155-trash-time.json](./115155-trash-time.json) |
 | Trash Troopers: Earth Reclaim | 273933 | [273933-trash-troopers-earth-reclaim.json](./273933-trash-troopers-earth-reclaim.json) |
 | Trash Tycoon | 204416 | [204416-trash-tycoon.json](./204416-trash-tycoon.json) |
@@ -17439,6 +17444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuki wa Kirisaku: Tantei Sagara Kyouichirou | 215191 | [215191-tsuki-wa-kirisaku-tantei-sagara-kyouichirou.json](./215191-tsuki-wa-kirisaku-tantei-sagara-kyouichirou.json) |
 | Tsukiakari no Kan kara no Dasshutsu | 251607 | [251607-tsukiakari-no-kan-kara-no-dasshutsu.json](./251607-tsukiakari-no-kan-kara-no-dasshutsu.json) |
 | Tsukibito | 59402 | [59402-tsukibito.json](./59402-tsukibito.json) |
+| Tsukihime Plus-Disc | 144565 | [144565-tsukihime-plus-disc.json](./144565-tsukihime-plus-disc.json) |
 | Tsukihime Typing Online | 255840 | [255840-tsukihime-typing-online.json](./255840-tsukihime-typing-online.json) |
 | Tsukihime: A Piece of Blue Glass Moon | 142105 | [142105-tsukihime-a-piece-of-blue-glass-moon.json](./142105-tsukihime-a-piece-of-blue-glass-moon.json) |
 | Tsukihime: Fool's Errand | 254127 | [254127-tsukihime-fools-errand.json](./254127-tsukihime-fools-errand.json) |
@@ -18186,6 +18192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Ninja | 290943 | [290943-typing-ninja.json](./290943-typing-ninja.json) |
 | Typing of the Date | 138656 | [138656-typing-of-the-date.json](./138656-typing-of-the-date.json) |
 | Typing of Ys | 252843 | [252843-typing-of-ys.json](./252843-typing-of-ys.json) |
+| Typing Quest | 144571 | [144571-typing-quest.json](./144571-typing-quest.json) |
 | Typing Stars | 322387 | [322387-typing-stars.json](./322387-typing-stars.json) |
 | Typing Tales | 373004 | [373004-typing-tales.json](./373004-typing-tales.json) |
 | Typing Warrior | 134563 | [134563-typing-warrior.json](./134563-typing-warrior.json) |
