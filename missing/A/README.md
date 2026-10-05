@@ -976,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abstracto | 283874 | [283874-abstracto.json](./283874-abstracto.json) |
 | Abstrrkt Explorers | 143607 | [143607-abstrrkt-explorers.json](./143607-abstrrkt-explorers.json) |
 | Absum | 366999 | [366999-absum.json](./366999-absum.json) |
+| Absurbia: A Trashy Satire of Suburban Outcries | 159858 | [159858-absurbia-a-trashy-satire-of-suburban-outcries.json](./159858-absurbia-a-trashy-satire-of-suburban-outcries.json) |
 | Absurd | 240208 | [240208-absurd.json](./240208-absurd.json) |
 | Absurd Trolley Problems | 267592 | [267592-absurd-trolley-problems.json](./267592-absurd-trolley-problems.json) |
 | Absurdika: Rebuild | 342800 | [342800-absurdika-rebuild.json](./342800-absurdika-rebuild.json) |
@@ -2219,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
 | Agoraphobia | 179011 | [179011-agoraphobia.json](./179011-agoraphobia.json) |
+| Agoraphobia: Knock Knock | 159759 | [159759-agoraphobia-knock-knock.json](./159759-agoraphobia-knock-knock.json) |
 | Agos | 206602 | [206602-agos.json](./206602-agos.json) |
 | AGOS: A Game of Space | 138768 | [138768-agos-a-game-of-space.json](./138768-agos-a-game-of-space.json) |
 | Agraelus, Wanna be MaN | 141737 | [141737-agraelus-wanna-be-man.json](./141737-agraelus-wanna-be-man.json) |
@@ -6494,6 +6496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanist Revival | 110181 | [110181-arcanist-revival.json](./110181-arcanist-revival.json) |
 | Arcanists | 62268 | [62268-arcanists.json](./62268-arcanists.json) |
 | Arcanists 2 | 245802 | [245802-arcanists-2.json](./245802-arcanists-2.json) |
+| Arcano: The Trickery | 159638 | [159638-arcano-the-trickery.json](./159638-arcano-the-trickery.json) |
 | Arcanoid Breakout | 147468 | [147468-arcanoid-breakout.json](./147468-arcanoid-breakout.json) |
 | Arcanora | 272789 | [272789-arcanora.json](./272789-arcanora.json) |
 | Arcanorum 231 | 359601 | [359601-arcanorum-231.json](./359601-arcanorum-231.json) |
@@ -6740,6 +6743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Master | 30802 | [30802-arena-master.json](./30802-arena-master.json) |
 | Arena of Block Puzzle | 302437 | [302437-arena-of-block-puzzle.json](./302437-arena-of-block-puzzle.json) |
 | Arena of Dreams | 305266 | [305266-arena-of-dreams.json](./305266-arena-of-dreams.json) |
+| Arena of Ruins | 159787 | [159787-arena-of-ruins.json](./159787-arena-of-ruins.json) |
 | Arena of Speed: Fast and Furious | 174832 | [174832-arena-of-speed-fast-and-furious.json](./174832-arena-of-speed-fast-and-furious.json) |
 | Arena of Taryon | 278609 | [278609-arena-of-taryon.json](./278609-arena-of-taryon.json) |
 | Arena of the Mad King | 234142 | [234142-arena-of-the-mad-king.json](./234142-arena-of-the-mad-king.json) |
