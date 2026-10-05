@@ -6360,6 +6360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polychromia | 177867 | [177867-polychromia.json](./177867-polychromia.json) |
 | Polycity | 404978 | [404978-polycity.json](./404978-polycity.json) |
 | PolyCity Stories: The Affair | 263125 | [263125-polycity-stories-the-affair.json](./263125-polycity-stories-the-affair.json) |
+| PolyClassic: Wild | 163897 | [163897-polyclassic-wild.json](./163897-polyclassic-wild.json) |
 | Polycore | 369742 | [369742-polycore.json](./369742-polycore.json) |
 | PolyCube | 88232 | [88232-polycube.json](./88232-polycube.json) |
 | Polydangerous | 392468 | [392468-polydangerous.json](./392468-polydangerous.json) |
@@ -8533,6 +8534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: R.E.B.O.O.T | 30758 | [30758-project-r-e-b-o-o-t.json](./30758-project-r-e-b-o-o-t.json) |
 | Project: R.E.B.O.O.T 2 | 29868 | [29868-project-r-e-b-o-o-t-2.json](./29868-project-r-e-b-o-o-t-2.json) |
 | Project: Run | 393466 | [393466-project-run.json](./393466-project-run.json) |
+| Project: Special Forces | 163864 | [163864-project-special-forces.json](./163864-project-special-forces.json) |
 | Project: Starfighter | 62147 | [62147-project-starfighter.json](./62147-project-starfighter.json) |
 | Project: Station | 380434 | [380434-project-station.json](./380434-project-station.json) |
 | Project: Stellar Girls | 337827 | [337827-project-stellar-girls.json](./337827-project-stellar-girls.json) |
