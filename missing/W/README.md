@@ -3732,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WizardWare | 400983 | [400983-wizardware.json](./400983-wizardware.json) |
 | Wizavior | 255392 | [255392-wizavior.json](./255392-wizavior.json) |
 | WizBall | 415127 | [415127-wizball.json](./415127-wizball.json) |
+| Wizbirds Online | 145943 | [145943-wizbirds-online.json](./145943-wizbirds-online.json) |
 | Wizcave | 211683 | [211683-wizcave.json](./211683-wizcave.json) |
 | Wizdom | 174082 | [174082-wizdom.json](./174082-wizdom.json) |
 | Wizdom | 85500 | [85500-wizdom.json](./85500-wizdom.json) |
@@ -3799,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Pack: Howling Spirits | 395665 | [395665-wolf-pack-howling-spirits.json](./395665-wolf-pack-howling-spirits.json) |
 | Wolf Riot | 193491 | [193491-wolf-riot.json](./193491-wolf-riot.json) |
 | Wolf Souls: Arena | 324331 | [324331-wolf-souls-arena.json](./324331-wolf-souls-arena.json) |
+| Wolf Tales: Online RPG Sim | 145950 | [145950-wolf-tales-online-rpg-sim.json](./145950-wolf-tales-online-rpg-sim.json) |
 | Wolf West | 261826 | [261826-wolf-west.json](./261826-wolf-west.json) |
 | Wolf's Gang | 142430 | [142430-wolfs-gang.json](./142430-wolfs-gang.json) |
 | Wolfenstein 3D | 262516 | [262516-wolfenstein-3d.json](./262516-wolfenstein-3d.json) |
@@ -3938,6 +3940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderland | 354010 | [354010-wonderland.json](./354010-wonderland.json) |
 | Wonderland | 377143 | [377143-wonderland.json](./377143-wonderland.json) |
 | Wonderland | 95460 | [95460-wonderland.json](./95460-wonderland.json) |
+| Wonderland Adventures | 145906 | [145906-wonderland-adventures.json](./145906-wonderland-adventures.json) |
 | Wonderland Mahjong | 415957 | [415957-wonderland-mahjong.json](./415957-wonderland-mahjong.json) |
 | Wonderland Nights: White Rabbit's Diary | 151705 | [151705-wonderland-nights-white-rabbits-diary.json](./151705-wonderland-nights-white-rabbits-diary.json) |
 | Wonderland Online | 158149 | [158149-wonderland-online.json](./158149-wonderland-online.json) |
