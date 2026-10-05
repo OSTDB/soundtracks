@@ -2792,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wii Fit | 2186 | [2186-wii-fit.json](./2186-wii-fit.json) |
 | Wii Karaoke U by Joysound | 3107 | [3107-wii-karaoke-u-by-joysound.json](./3107-wii-karaoke-u-by-joysound.json) |
 | Wii Party U | 3106 | [3106-wii-party-u.json](./3106-wii-party-u.json) |
+| Wii Party: World Edition | 136208 | [136208-wii-party-world-edition.json](./136208-wii-party-world-edition.json) |
 | Wii Sports + Wii Sports Resort | 130310 | [130310-wii-sports-wii-sports-resort.json](./130310-wii-sports-wii-sports-resort.json) |
 | Wii Sports Club | 23518 | [23518-wii-sports-club.json](./23518-wii-sports-club.json) |
 | Wii Sports Resort | 2182 | [2182-wii-sports-resort.json](./2182-wii-sports-resort.json) |
@@ -3843,6 +3844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein: Alt History Collection | 139958 | [139958-wolfenstein-alt-history-collection.json](./139958-wolfenstein-alt-history-collection.json) |
 | Wolfenstein: Cyberpilot | 103302 | [103302-wolfenstein-cyberpilot.json](./103302-wolfenstein-cyberpilot.json) |
 | Wolfenstein: Enemy Territory | 2987 | [2987-wolfenstein-enemy-territory.json](./2987-wolfenstein-enemy-territory.json) |
+| Wolfenstein: The Two-Pack | 136205 | [136205-wolfenstein-the-two-pack.json](./136205-wolfenstein-the-two-pack.json) |
 | Wolfenstein: Triple Pack | 152339 | [152339-wolfenstein-triple-pack.json](./152339-wolfenstein-triple-pack.json) |
 | Wolfenstein: Youngblood - Digital Limited Edition | 121640 | [121640-wolfenstein-youngblood-digital-limited-edition.json](./121640-wolfenstein-youngblood-digital-limited-edition.json) |
 | Wolfgun | 180777 | [180777-wolfgun.json](./180777-wolfgun.json) |
@@ -4588,6 +4590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warships: Legends - Dawn's Guardian | 332046 | [332046-world-of-warships-legends-dawns-guardian.json](./332046-world-of-warships-legends-dawns-guardian.json) |
 | World of Warships: Legends - Eagle Union's Power | 332047 | [332047-world-of-warships-legends-eagle-unions-power.json](./332047-world-of-warships-legends-eagle-unions-power.json) |
 | World of Warships: Legends - European Strength | 332535 | [332535-world-of-warships-legends-european-strength.json](./332535-world-of-warships-legends-european-strength.json) |
+| World of Warships: Legends - Firepower Deluxe Edition | 136204 | [136204-world-of-warships-legends-firepower-deluxe-edition.json](./136204-world-of-warships-legends-firepower-deluxe-edition.json) |
 | World of Warships: Legends - Heavy Hitter | 332052 | [332052-world-of-warships-legends-heavy-hitter.json](./332052-world-of-warships-legends-heavy-hitter.json) |
 | World of Warships: Legends - Iron Will | 332048 | [332048-world-of-warships-legends-iron-will.json](./332048-world-of-warships-legends-iron-will.json) |
 | World of Warships: Legends - Italian Autumn | 332049 | [332049-world-of-warships-legends-italian-autumn.json](./332049-world-of-warships-legends-italian-autumn.json) |
