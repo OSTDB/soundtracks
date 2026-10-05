@@ -3853,6 +3853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 3: Free Pack 9 | 165965 | [165965-ride-3-free-pack-9.json](./165965-ride-3-free-pack-9.json) |
 | Ride 3: Japan Pack | 165972 | [165972-ride-3-japan-pack.json](./165972-ride-3-japan-pack.json) |
 | Ride 3: Limited Models Pack | 156106 | [156106-ride-3-limited-models-pack.json](./156106-ride-3-limited-models-pack.json) |
+| Ride 3: Naked Bikes Pack | 160299 | [160299-ride-3-naked-bikes-pack.json](./160299-ride-3-naked-bikes-pack.json) |
 | Ride 3: Racing Pack | 165980 | [165980-ride-3-racing-pack.json](./165980-ride-3-racing-pack.json) |
 | Ride 3: Sport Bikes Pack | 165970 | [165970-ride-3-sport-bikes-pack.json](./165970-ride-3-sport-bikes-pack.json) |
 | Ride 3: Street Racing Pack | 165976 | [165976-ride-3-street-racing-pack.json](./165976-ride-3-street-racing-pack.json) |
