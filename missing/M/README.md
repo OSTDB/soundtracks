@@ -1846,6 +1846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | March to the Heart | 349313 | [349313-march-to-the-heart.json](./349313-march-to-the-heart.json) |
 | March! Offworld Recon | 92318 | [92318-march-offworld-recon.json](./92318-march-offworld-recon.json) |
 | Märchen Forest | 181313 | [181313-marchen-forest.json](./181313-marchen-forest.json) |
+| Märchen Forest: Mylne and the Forest Gift - Limited Edition | 167095 | [167095-marchen-forest-mylne-and-the-forest-gift-limited-edition.json](./167095-marchen-forest-mylne-and-the-forest-gift-limited-edition.json) |
 | Märchen Line | 318499 | [318499-marchen-line.json](./318499-marchen-line.json) |
 | Märchen Maze | 212861 | [212861-marchen-maze.json](./212861-marchen-maze.json) |
 | Marchen Veil | 41337 | [41337-marchen-veil.json](./41337-marchen-veil.json) |
@@ -5143,6 +5144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Hunter | 189202 | [189202-metal-hunter.json](./189202-metal-hunter.json) |
 | Metal Hunter | 392783 | [392783-metal-hunter.json](./392783-metal-hunter.json) |
 | Metal Knight | 132753 | [132753-metal-knight.json](./132753-metal-knight.json) |
+| Metal Knight: Mission - Terminate Resistance | 167188 | [167188-metal-knight-mission-terminate-resistance.json](./167188-metal-knight-mission-terminate-resistance.json) |
 | Metal Knights | 237344 | [237344-metal-knights.json](./237344-metal-knights.json) |
 | Metal Law | 92078 | [92078-metal-law.json](./92078-metal-law.json) |
 | Metal Man Reloaded | 125273 | [125273-metal-man-reloaded.json](./125273-metal-man-reloaded.json) |
@@ -10352,6 +10354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musketeer | 365793 | [365793-musketeer.json](./365793-musketeer.json) |
 | Musketeer Growth | 208967 | [208967-musketeer-growth.json](./208967-musketeer-growth.json) |
 | Musketeer of the hell | 164281 | [164281-musketeer-of-the-hell.json](./164281-musketeer-of-the-hell.json) |
+| Musou Yuugi | 167126 | [167126-musou-yuugi.json](./167126-musou-yuugi.json) |
 | MuSquare | 61315 | [61315-musquare.json](./61315-musquare.json) |
 | Mussoumano 3D Run | 223530 | [223530-mussoumano-3d-run.json](./223530-mussoumano-3d-run.json) |
 | Mussoumano: Saving Latifas | 223529 | [223529-mussoumano-saving-latifas.json](./223529-mussoumano-saving-latifas.json) |
