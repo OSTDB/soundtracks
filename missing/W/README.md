@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall Force | 123509 | [123509-wall-force.json](./123509-wall-force.json) |
 | Wall Gai | 312917 | [312917-wall-gai.json](./312917-wall-gai.json) |
 | Wall Jump Ninja | 195603 | [195603-wall-jump-ninja.json](./195603-wall-jump-ninja.json) |
+| Wall Jump Stuff | 143953 | [143953-wall-jump-stuff.json](./143953-wall-jump-stuff.json) |
 | Wall Kickers | 107245 | [107245-wall-kickers.json](./107245-wall-kickers.json) |
 | Wall Ninja | 139434 | [139434-wall-ninja.json](./139434-wall-ninja.json) |
 | Wall of Insanity | 165541 | [165541-wall-of-insanity.json](./165541-wall-of-insanity.json) |
@@ -4838,6 +4839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms: Ultimate Mayhem | 9333 | [9333-worms-ultimate-mayhem.json](./9333-worms-ultimate-mayhem.json) |
 | Worms: Ultimate Mayhem - Customization Pack | 225090 | [225090-worms-ultimate-mayhem-customization-pack.json](./225090-worms-ultimate-mayhem-customization-pack.json) |
 | Worms: Ultimate Mayhem - Deluxe Edition | 52112 | [52112-worms-ultimate-mayhem-deluxe-edition.json](./52112-worms-ultimate-mayhem-deluxe-edition.json) |
+| Wormskull | 143952 | [143952-wormskull.json](./143952-wormskull.json) |
 | Wormspell | 317981 | [317981-wormspell.json](./317981-wormspell.json) |
 | Wormswarm | 275344 | [275344-wormswarm.json](./275344-wormswarm.json) |
 | WormsZone.io | 174615 | [174615-wormszone-io.json](./174615-wormszone-io.json) |
