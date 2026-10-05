@@ -3463,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live or Die | 191091 | [191091-live-or-die.json](./191091-live-or-die.json) |
 | Live or Die | 213850 | [213850-live-or-die.json](./213850-live-or-die.json) |
 | Live or Die: Survival | 106527 | [106527-live-or-die-survival.json](./106527-live-or-die-survival.json) |
+| Live Penalty | 140913 | [140913-live-penalty.json](./140913-live-penalty.json) |
 | LIve Pict | 278724 | [278724-live-pict.json](./278724-live-pict.json) |
 | Live Portrait Maker | 101497 | [101497-live-portrait-maker.json](./101497-live-portrait-maker.json) |
 | Live Portrait Maker: Guys | 103167 | [103167-live-portrait-maker-guys.json](./103167-live-portrait-maker-guys.json) |
