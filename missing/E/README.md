@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecco the Dolphin: Defender of the Future | 9188 | [9188-ecco-the-dolphin-defender-of-the-future.json](./9188-ecco-the-dolphin-defender-of-the-future.json) |
 | Ecco: The Tides of Time | 237314 | [237314-ecco-the-tides-of-time.json](./237314-ecco-the-tides-of-time.json) |
 | ECH8 | 395554 | [395554-ech8.json](./395554-ech8.json) |
+| eCheese Zone | 128332 | [128332-echeese-zone.json](./128332-echeese-zone.json) |
 | Echelon | 269106 | [269106-echelon.json](./269106-echelon.json) |
 | Echelon | 277845 | [277845-echelon.json](./277845-echelon.json) |
 | Echelon | 377781 | [377781-echelon.json](./377781-echelon.json) |
@@ -1966,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Shift | 374831 | [374831-endless-shift.json](./374831-endless-shift.json) |
 | Endless Siege Online | 218696 | [218696-endless-siege-online.json](./218696-endless-siege-online.json) |
 | Endless Silent Night | 404330 | [404330-endless-silent-night.json](./404330-endless-silent-night.json) |
+| Endless Sky | 128413 | [128413-endless-sky.json](./128413-endless-sky.json) |
 | Endless Snake | 401789 | [401789-endless-snake.json](./401789-endless-snake.json) |
 | Endless Soul Light Solitaire | 169867 | [169867-endless-soul-light-solitaire.json](./169867-endless-soul-light-solitaire.json) |
 | Endless Space 2: Deluxe Edition | 187986 | [187986-endless-space-2-deluxe-edition.json](./187986-endless-space-2-deluxe-edition.json) |
@@ -2855,6 +2857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room Six Games Pack | 332011 | [332011-escape-room-six-games-pack.json](./332011-escape-room-six-games-pack.json) |
 | Escape Room Super Bundle | 295471 | [295471-escape-room-super-bundle.json](./295471-escape-room-super-bundle.json) |
 | Escape Room Ultimate Bundle | 306493 | [306493-escape-room-ultimate-bundle.json](./306493-escape-room-ultimate-bundle.json) |
+| Escape Room VR | 128340 | [128340-escape-room-vr.json](./128340-escape-room-vr.json) |
 | Escape Room: Bank Robbery Gone Wrong | 244246 | [244246-escape-room-bank-robbery-gone-wrong.json](./244246-escape-room-bank-robbery-gone-wrong.json) |
 | Escape Room: Beyond Mystery | 315265 | [315265-escape-room-beyond-mystery.json](./315265-escape-room-beyond-mystery.json) |
 | Escape Room: Christmas Quest | 241345 | [241345-escape-room-christmas-quest.json](./241345-escape-room-christmas-quest.json) |
