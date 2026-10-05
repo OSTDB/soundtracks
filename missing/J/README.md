@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jak and Daxter: The Precursor Legacy | 325261 | [325261-jak-and-daxter-the-precursor-legacy.json](./325261-jak-and-daxter-the-precursor-legacy.json) |
 | Jak II | 1529 | [1529-jak-ii.json](./1529-jak-ii.json) |
 | Jak X: Combat Racing | 1532 | [1532-jak-x-combat-racing.json](./1532-jak-x-combat-racing.json) |
+| Jake and the Never Land Pirates | 137417 | [137417-jake-and-the-never-land-pirates.json](./137417-jake-and-the-never-land-pirates.json) |
 | Jake and the Never Land Pirates | 230381 | [230381-jake-and-the-never-land-pirates.json](./230381-jake-and-the-never-land-pirates.json) |
 | Jake Hunter Detective Story: Ghost of the Dusk | 55863 | [55863-jake-hunter-detective-story-ghost-of-the-dusk.json](./55863-jake-hunter-detective-story-ghost-of-the-dusk.json) |
 | Jake Hunter Detective Story: Memories of the Past | 47772 | [47772-jake-hunter-detective-story-memories-of-the-past.json](./47772-jake-hunter-detective-story-memories-of-the-past.json) |
@@ -524,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeff's No. 1 Bass Fishing | 215763 | [215763-jeffs-no-1-bass-fishing.json](./215763-jeffs-no-1-bass-fishing.json) |
 | JEFN | 256529 | [256529-jefn.json](./256529-jefn.json) |
 | Jeklynn Heights | 30247 | [30247-jeklynn-heights.json](./30247-jeklynn-heights.json) |
+| Jekoos Ware | 137431 | [137431-jekoos-ware.json](./137431-jekoos-ware.json) |
 | Jekyll Hakase no Houma ga Toki | 275067 | [275067-jekyll-hakase-no-houma-ga-toki.json](./275067-jekyll-hakase-no-houma-ga-toki.json) |
 | Jelda II | 78705 | [78705-jelda-ii.json](./78705-jelda-ii.json) |
 | Jeller Fellers | 337654 | [337654-jeller-fellers.json](./337654-jeller-fellers.json) |
