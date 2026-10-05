@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narc | 4010 | [4010-narc.json](./4010-narc.json) |
 | Narcis Crosswords | 304028 | [304028-narcis-crosswords.json](./304028-narcis-crosswords.json) |
 | Narcissu | 95463 | [95463-narcissu.json](./95463-narcissu.json) |
+| Narcissu 0 | 122223 | [122223-narcissu-0.json](./122223-narcissu-0.json) |
 | Narcissu 3rd -Die Dritte Welt- | 93513 | [93513-narcissu-3rd-die-dritte-welt.json](./93513-narcissu-3rd-die-dritte-welt.json) |
 | Narcissu Side 2nd | 78208 | [78208-narcissu-side-2nd.json](./78208-narcissu-side-2nd.json) |
 | Narcissu: A Little Iris | 127324 | [127324-narcissu-a-little-iris.json](./127324-narcissu-a-little-iris.json) |
@@ -838,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Near-Mage: Deluxe Edition | 402955 | [402955-near-mage-deluxe-edition.json](./402955-near-mage-deluxe-edition.json) |
 | NearEscape | 109685 | [109685-nearescape.json](./109685-nearescape.json) |
 | Nearly Dead: Live and Let Die | 235190 | [235190-nearly-dead-live-and-let-die.json](./235190-nearly-dead-live-and-let-die.json) |
+| NearPrime VR | 122141 | [122141-nearprime-vr.json](./122141-nearprime-vr.json) |
 | Neat | 396576 | [396576-neat.json](./396576-neat.json) |
 | Neaten Up! | 385592 | [385592-neaten-up.json](./385592-neaten-up.json) |
 | Neath | 380409 | [380409-neath.json](./380409-neath.json) |
@@ -2086,6 +2088,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NGT: Next Generation Tennis | 49320 | [49320-ngt-next-generation-tennis.json](./49320-ngt-next-generation-tennis.json) |
 | NGU Idle | 124926 | [124926-ngu-idle.json](./124926-ngu-idle.json) |
 | Nhero2 | 225723 | [225723-nhero2.json](./225723-nhero2.json) |
+| NHK Academy: Space School - Math 4th Grade Part 1 | 122110 | [122110-nhk-academy-space-school-math-4th-grade-part-1.json](./122110-nhk-academy-space-school-math-4th-grade-part-1.json) |
+| NHK Academy: Space School - Math 4th Grade Part 2 | 122111 | [122111-nhk-academy-space-school-math-4th-grade-part-2.json](./122111-nhk-academy-space-school-math-4th-grade-part-2.json) |
+| NHK Academy: Space School - Math 5th Grade Part 1 | 122112 | [122112-nhk-academy-space-school-math-5th-grade-part-1.json](./122112-nhk-academy-space-school-math-5th-grade-part-1.json) |
+| NHK Academy: Space School - Math 5th Grade Part 2 | 122113 | [122113-nhk-academy-space-school-math-5th-grade-part-2.json](./122113-nhk-academy-space-school-math-5th-grade-part-2.json) |
+| NHK Academy: Space School - Math 6th Grade Part 1 | 122114 | [122114-nhk-academy-space-school-math-6th-grade-part-1.json](./122114-nhk-academy-space-school-math-6th-grade-part-1.json) |
+| NHK Academy: Space School - Math 6th Grade Part 2 | 122115 | [122115-nhk-academy-space-school-math-6th-grade-part-2.json](./122115-nhk-academy-space-school-math-6th-grade-part-2.json) |
 | NHK Kouhaku Quiz Kassen | 67280 | [67280-nhk-kouhaku-quiz-kassen.json](./67280-nhk-kouhaku-quiz-kassen.json) |
 | NHL 06 | 4044 | [4044-nhl-06.json](./4044-nhl-06.json) |
 | NHL 07 | 5964 | [5964-nhl-07.json](./5964-nhl-07.json) |
