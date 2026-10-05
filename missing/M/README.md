@@ -4789,6 +4789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mendel Palace | 48052 | [48052-mendel-palace.json](./48052-mendel-palace.json) |
 | Mendel's Garden | 121691 | [121691-mendels-garden.json](./121691-mendels-garden.json) |
 | Méng Chǒng Xīyóu | 367432 | [367432-meng-chong-xiyou.json](./367432-meng-chong-xiyou.json) |
+| Mèng Huí Sānguó | 154921 | [154921-meng-hui-sanguo.json](./154921-meng-hui-sanguo.json) |
 | Mènghuàn Shuǐguǒ Pán: 777 Casino | 86066 | [86066-menghuan-shuiguo-pan-777-casino.json](./86066-menghuan-shuiguo-pan-777-casino.json) |
 | Menhera Kanojo to Boku: Uwaki shitara Jinsei Shuuryou yo | 208936 | [208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json](./208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json) |
 | Menhera Ota-hime Circle: Needy Princess Nerd Club | 305286 | [305286-menhera-ota-hime-circle-needy-princess-nerd-club.json](./305286-menhera-ota-hime-circle-needy-princess-nerd-club.json) |
@@ -6362,6 +6363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Loop | 322063 | [322063-mind-loop.json](./322063-mind-loop.json) |
 | Mind Lure | 373667 | [373667-mind-lure.json](./373667-mind-lure.json) |
 | Mind Maze | 100308 | [100308-mind-maze.json](./100308-mind-maze.json) |
+| Mind Maze | 154978 | [154978-mind-maze.json](./154978-mind-maze.json) |
 | Mind Medley | 209509 | [209509-mind-medley.json](./209509-mind-medley.json) |
 | Mind Muscle VR | 150531 | [150531-mind-muscle-vr.json](./150531-mind-muscle-vr.json) |
 | Mind Over Magic | 211357 | [211357-mind-over-magic.json](./211357-mind-over-magic.json) |
