@@ -1702,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incarnation: Flame | 174823 | [174823-incarnation-flame.json](./174823-incarnation-flame.json) |
 | Incaved | 217356 | [217356-incaved.json](./217356-incaved.json) |
 | Incel Simulator | 315286 | [315286-incel-simulator.json](./315286-incel-simulator.json) |
+| Incel Syndrome | 156721 | [156721-incel-syndrome.json](./156721-incel-syndrome.json) |
 | InCell | 12302 | [12302-incell.json](./12302-incell.json) |
 | InCell VR | 34595 | [34595-incell-vr.json](./34595-incell-vr.json) |
 | Incessant | 235832 | [235832-incessant.json](./235832-incessant.json) |
