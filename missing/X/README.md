@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenosphere | 301956 | [301956-xenosphere.json](./301956-xenosphere.json) |
 | XenoTown | 192884 | [192884-xenotown.json](./192884-xenotown.json) |
 | XenoTrigger | 183336 | [183336-xenotrigger.json](./183336-xenotrigger.json) |
+| Xenotype | 156966 | [156966-xenotype.json](./156966-xenotype.json) |
 | XenovaderS | 133355 | [133355-xenovaders.json](./133355-xenovaders.json) |
 | Xenowar | 70390 | [70390-xenowar.json](./70390-xenowar.json) |
 | XenoWorld: The Rondeau of Astra | 236951 | [236951-xenoworld-the-rondeau-of-astra.json](./236951-xenoworld-the-rondeau-of-astra.json) |
