@@ -1995,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost on the Shore | 129064 | [129064-ghost-on-the-shore.json](./129064-ghost-on-the-shore.json) |
 | Ghost Online | 112299 | [112299-ghost-online.json](./112299-ghost-online.json) |
 | Ghost Opera House | 156695 | [156695-ghost-opera-house.json](./156695-ghost-opera-house.json) |
+| Ghost or Trick | 167560 | [167560-ghost-or-trick.json](./167560-ghost-or-trick.json) |
 | Ghost Parade | 104987 | [104987-ghost-parade.json](./104987-ghost-parade.json) |
 | Ghost Party | 304863 | [304863-ghost-party.json](./304863-ghost-party.json) |
 | Ghost Party Nyanbaba | 187846 | [187846-ghost-party-nyanbaba.json](./187846-ghost-party-nyanbaba.json) |
