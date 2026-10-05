@@ -4580,6 +4580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Whirled | 66640 | [66640-pixel-whirled.json](./66640-pixel-whirled.json) |
 | Pixel Z Hunter 3D | 282685 | [282685-pixel-z-hunter-3d.json](./282685-pixel-z-hunter-3d.json) |
 | Pixel: Are You Squared? | 35701 | [35701-pixel-are-you-squared.json](./35701-pixel-are-you-squared.json) |
+| Pixel's Hallows Eve | 139209 | [139209-pixels-hallows-eve.json](./139209-pixels-hallows-eve.json) |
 | Pixelance | 382883 | [382883-pixelance.json](./382883-pixelance.json) |
 | Pixelarium | 117853 | [117853-pixelarium.json](./117853-pixelarium.json) |
 | PixelBot Extreme! | 96229 | [96229-pixelbot-extreme.json](./96229-pixelbot-extreme.json) |
@@ -6954,6 +6955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post-Future Vagabond | 139809 | [139809-post-future-vagabond.json](./139809-post-future-vagabond.json) |
 | Post-Shift | 186177 | [186177-post-shift.json](./186177-post-shift.json) |
 | Post-Soviet Yandere | 159838 | [159838-post-soviet-yandere.json](./159838-post-soviet-yandere.json) |
+| Post/Capitalism | 139165 | [139165-post-capitalism.json](./139165-post-capitalism.json) |
 | Postal 2 Redux | 349433 | [349433-postal-2-redux.json](./349433-postal-2-redux.json) |
 | Postal 2: A Very Postal Christmas | 129788 | [129788-postal-2-a-very-postal-christmas.json](./129788-postal-2-a-very-postal-christmas.json) |
 | Postal 2: A Week in Paradise | 129789 | [129789-postal-2-a-week-in-paradise.json](./129789-postal-2-a-week-in-paradise.json) |
@@ -8078,6 +8080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Procuring Estrogen for Your Toxic Slime Girlfriend | 397074 | [397074-procuring-estrogen-for-your-toxic-slime-girlfriend.json](./397074-procuring-estrogen-for-your-toxic-slime-girlfriend.json) |
 | Procyon | 16884 | [16884-procyon.json](./16884-procyon.json) |
 | Procyon | 218130 | [218130-procyon.json](./218130-procyon.json) |
+| Prodigal | 139196 | [139196-prodigal.json](./139196-prodigal.json) |
 | Prodigal | 304099 | [304099-prodigal.json](./304099-prodigal.json) |
 | Prodigy | 85588 | [85588-prodigy.json](./85588-prodigy.json) |
 | Prodigy Racing | 311287 | [311287-prodigy-racing.json](./311287-prodigy-racing.json) |
