@@ -1564,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Estate Tycoon | 207375 | [207375-real-estate-tycoon.json](./207375-real-estate-tycoon.json) |
 | Real Estate Tycoon | 89224 | [89224-real-estate-tycoon.json](./89224-real-estate-tycoon.json) |
 | Real Farm | 227480 | [227480-real-farm.json](./227480-real-farm.json) |
+| Real Farm: Gold Edition | 152495 | [152495-real-farm-gold-edition.json](./152495-real-farm-gold-edition.json) |
 | Real Farm: Potato Pack | 225571 | [225571-real-farm-potato-pack.json](./225571-real-farm-potato-pack.json) |
 | Real Farm: Premium Edition | 155097 | [155097-real-farm-premium-edition.json](./155097-real-farm-premium-edition.json) |
 | Real Fast Race - Furious Sports | 96006 | [96006-real-fast-race-furious-sports.json](./96006-real-fast-race-furious-sports.json) |
@@ -2209,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red's Revenge | 273980 | [273980-reds-revenge.json](./273980-reds-revenge.json) |
 | Redacted | 212214 | [212214-redacted.json](./212214-redacted.json) |
 | Redacted by the Sadistic Princess from Another World?! | 402250 | [402250-redacted-by-the-sadistic-princess-from-another-world.json](./402250-redacted-by-the-sadistic-princess-from-another-world.json) |
+| Redacted Epilogue | 152505 | [152505-redacted-epilogue.json](./152505-redacted-epilogue.json) |
 | Redacted Life | 124679 | [124679-redacted-life.json](./124679-redacted-life.json) |
 | Redacted: Genome | 287196 | [287196-redacted-genome.json](./287196-redacted-genome.json) |
 | Redactem | 27470 | [27470-redactem.json](./27470-redactem.json) |
@@ -6433,6 +6435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruin: Chapter 0 | 400981 | [400981-ruin-chapter-0.json](./400981-ruin-chapter-0.json) |
 | Ruina | 373073 | [373073-ruina.json](./373073-ruina.json) |
 | Ruina Remake | 234152 | [234152-ruina-remake.json](./234152-ruina-remake.json) |
+| Ruina: Haito no Monogatari | 152475 | [152475-ruina-haito-no-monogatari.json](./152475-ruina-haito-no-monogatari.json) |
 | Ruinas de Maimará | 326145 | [326145-ruinas-de-maimara.json](./326145-ruinas-de-maimara.json) |
 | Ruination | 114854 | [114854-ruination.json](./114854-ruination.json) |
 | Ruindrift | 371883 | [371883-ruindrift.json](./371883-ruindrift.json) |
@@ -6491,6 +6494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble League | 126042 | [126042-rumble-league.json](./126042-rumble-league.json) |
 | Rumble Racing | 43280 | [43280-rumble-racing.json](./43280-rumble-racing.json) |
 | Rumble Roses XX | 7167 | [7167-rumble-roses-xx.json](./7167-rumble-roses-xx.json) |
+| Rumble Runners | 152458 | [152458-rumble-runners.json](./152458-rumble-runners.json) |
 | Rumble Sus | 238437 | [238437-rumble-sus.json](./238437-rumble-sus.json) |
 | Rumble Trucks | 44515 | [44515-rumble-trucks.json](./44515-rumble-trucks.json) |
 | Rumbral | 344465 | [344465-rumbral.json](./344465-rumbral.json) |
@@ -6706,6 +6710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runic Winds | 386384 | [386384-runic-winds.json](./386384-runic-winds.json) |
 | Runic: Eternal Sunrise | 244781 | [244781-runic-eternal-sunrise.json](./244781-runic-eternal-sunrise.json) |
 | Runick | 193715 | [193715-runick.json](./193715-runick.json) |
+| Runika: A World of Little Legends | 152467 | [152467-runika-a-world-of-little-legends.json](./152467-runika-a-world-of-little-legends.json) |
 | Runimals | 361309 | [361309-runimals.json](./361309-runimals.json) |
 | Runion | 25735 | [25735-runion.json](./25735-runion.json) |
 | RunNCrush | 259044 | [259044-runncrush.json](./259044-runncrush.json) |
