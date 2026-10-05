@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekrotronic VR | 121547 | [121547-nekrotronic-vr.json](./121547-nekrotronic-vr.json) |
 | Nekurogahara: Psycho Ronins | 359067 | [359067-nekurogahara-psycho-ronins.json](./359067-nekurogahara-psycho-ronins.json) |
 | Nelda Nockbladder's Anatomy Lesson | 73284 | [73284-nelda-nockbladders-anatomy-lesson.json](./73284-nelda-nockbladders-anatomy-lesson.json) |
+| Nelke & the Legendary Alchemists: Ateliers of a New World - Premium Box | 136794 | [136794-nelke-and-the-legendary-alchemists-ateliers-of-a-new-world-premium-box.json](./136794-nelke-and-the-legendary-alchemists-ateliers-of-a-new-world-premium-box.json) |
 | Nell & the Festival of Spooks | 178569 | [178569-nell-and-the-festival-of-spooks.json](./178569-nell-and-the-festival-of-spooks.json) |
 | Nelli the Seer | 353898 | [353898-nelli-the-seer.json](./353898-nelli-the-seer.json) |
 | Nellie's Nonograms | 263996 | [263996-nellies-nonograms.json](./263996-nellies-nonograms.json) |
@@ -1761,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Frontier | 120855 | [120855-new-frontier.json](./120855-new-frontier.json) |
 | New Ganymede | 266783 | [266783-new-ganymede.json](./266783-new-ganymede.json) |
 | New Ghostbusters II | 3658 | [3658-new-ghostbusters-ii.json](./3658-new-ghostbusters-ii.json) |
+| New Gundam Breaker: Build G Sound Edition | 136768 | [136768-new-gundam-breaker-build-g-sound-edition.json](./136768-new-gundam-breaker-build-g-sound-edition.json) |
 | New Gundam Breaker: Gunpla Figure Premium Edition | 167159 | [167159-new-gundam-breaker-gunpla-figure-premium-edition.json](./167159-new-gundam-breaker-gunpla-figure-premium-edition.json) |
 | New Hire | 226132 | [226132-new-hire.json](./226132-new-hire.json) |
 | New Home | 339391 | [339391-new-home.json](./339391-new-home.json) |
@@ -2659,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikoli no Puzzle V: Heyawake | 64937 | [64937-nikoli-no-puzzle-v-heyawake.json](./64937-nikoli-no-puzzle-v-heyawake.json) |
 | Nikoli no Puzzle V: Hitori ni Shitekure | 64935 | [64935-nikoli-no-puzzle-v-hitori-ni-shitekure.json](./64935-nikoli-no-puzzle-v-hitori-ni-shitekure.json) |
 | Nikoli no Puzzle V: Masyu | 64933 | [64933-nikoli-no-puzzle-v-masyu.json](./64933-nikoli-no-puzzle-v-masyu.json) |
+| Nil Admirari no Tenbin: Irodori Nadeshiko | 136831 | [136831-nil-admirari-no-tenbin-irodori-nadeshiko.json](./136831-nil-admirari-no-tenbin-irodori-nadeshiko.json) |
 | Nil Admirari no Tenbin: Twin Pack | 200560 | [200560-nil-admirari-no-tenbin-twin-pack.json](./200560-nil-admirari-no-tenbin-twin-pack.json) |
 | Nil-Ninjahtic: Ronin | 33435 | [33435-nil-ninjahtic-ronin.json](./33435-nil-ninjahtic-ronin.json) |
 | Nila Dhuma | 57184 | [57184-nila-dhuma.json](./57184-nila-dhuma.json) |
