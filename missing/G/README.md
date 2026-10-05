@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gang Nations | 60592 | [60592-gang-nations.json](./60592-gang-nations.json) |
 | Gang of Dragon | 381227 | [381227-gang-of-dragon.json](./381227-gang-of-dragon.json) |
 | Gang of Four | 127053 | [127053-gang-of-four.json](./127053-gang-of-four.json) |
+| Gang Wars | 150778 | [150778-gang-wars.json](./150778-gang-wars.json) |
 | GangBusters | 46773 | [46773-gangbusters.json](./46773-gangbusters.json) |
 | Gangnam City Deluxe | 242207 | [242207-gangnam-city-deluxe.json](./242207-gangnam-city-deluxe.json) |
 | Gangnam Dance School | 218531 | [218531-gangnam-dance-school.json](./218531-gangnam-dance-school.json) |
