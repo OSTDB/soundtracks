@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K18: Legend Edition | 53408 | [53408-nba-2k18-legend-edition.json](./53408-nba-2k18-legend-edition.json) |
 | NBA 2K18: Legend Gold Edition | 53407 | [53407-nba-2k18-legend-gold-edition.json](./53407-nba-2k18-legend-gold-edition.json) |
 | NBA 2K19 | 103218 | [103218-nba-2k19.json](./103218-nba-2k19.json) |
+| NBA 2K19: 20th Anniversary Edition | 118731 | [118731-nba-2k19-20th-anniversary-edition.json](./118731-nba-2k19-20th-anniversary-edition.json) |
 | NBA 2K19: The Prelude | 110326 | [110326-nba-2k19-the-prelude.json](./110326-nba-2k19-the-prelude.json) |
 | NBA 2K2 | 4029 | [4029-nba-2k2.json](./4029-nba-2k2.json) |
 | NBA 2K20 | 114285 | [114285-nba-2k20.json](./114285-nba-2k20.json) |
@@ -990,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Hot Pursuit | 248208 | [248208-need-for-speed-hot-pursuit.json](./248208-need-for-speed-hot-pursuit.json) |
 | Need for Speed: Hot Pursuit | 248209 | [248209-need-for-speed-hot-pursuit.json](./248209-need-for-speed-hot-pursuit.json) |
 | Need for Speed: Hot Pursuit | 264364 | [264364-need-for-speed-hot-pursuit.json](./264364-need-for-speed-hot-pursuit.json) |
+| Need for Speed: Hot Pursuit - Super Bundle | 118857 | [118857-need-for-speed-hot-pursuit-super-bundle.json](./118857-need-for-speed-hot-pursuit-super-bundle.json) |
 | Need for speed: Mobile | 322164 | [322164-need-for-speed-mobile.json](./322164-need-for-speed-mobile.json) |
 | Need for Speed: Most Wanted | 210161 | [210161-need-for-speed-most-wanted.json](./210161-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted | 243048 | [243048-need-for-speed-most-wanted.json](./243048-need-for-speed-most-wanted.json) |
@@ -2926,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja War: Super Ninja Showdown | 199937 | [199937-ninja-war-super-ninja-showdown.json](./199937-ninja-war-super-ninja-showdown.json) |
 | Ninja Warrior Princess | 229334 | [229334-ninja-warrior-princess.json](./229334-ninja-warrior-princess.json) |
 | Ninja Warriors | 42654 | [42654-ninja-warriors.json](./42654-ninja-warriors.json) |
+| Ninja Wars | 118880 | [118880-ninja-wars.json](./118880-ninja-wars.json) |
 | Ninja Wars: Battle Simulator | 320526 | [320526-ninja-wars-battle-simulator.json](./320526-ninja-wars-battle-simulator.json) |
 | Ninja Warz | 314669 | [314669-ninja-warz.json](./314669-ninja-warz.json) |
 | Ninja World | 268104 | [268104-ninja-world.json](./268104-ninja-world.json) |
@@ -3351,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noble Fates | 183602 | [183602-noble-fates.json](./183602-noble-fates.json) |
 | Noble Knight | 263191 | [263191-noble-knight.json](./263191-noble-knight.json) |
 | Noble Legacy | 347284 | [347284-noble-legacy.json](./347284-noble-legacy.json) |
+| Noble Racing | 118870 | [118870-noble-racing.json](./118870-noble-racing.json) |
 | Noble Steed | 379039 | [379039-noble-steed.json](./379039-noble-steed.json) |
 | Noble Works | 132082 | [132082-noble-works.json](./132082-noble-works.json) |
 | Noble's Land | 137542 | [137542-nobles-land.json](./137542-nobles-land.json) |
