@@ -3070,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wincars Racer | 33292 | [33292-wincars-racer.json](./33292-wincars-racer.json) |
 | Winch it Out | 300387 | [300387-winch-it-out.json](./300387-winch-it-out.json) |
 | Wind and Mist | 253007 | [253007-wind-and-mist.json](./253007-wind-and-mist.json) |
+| Wind Angel | 150741 | [150741-wind-angel.json](./150741-wind-angel.json) |
 | Wind Angel Challenge | 195253 | [195253-wind-angel-challenge.json](./195253-wind-angel-challenge.json) |
 | Wind Angel III | 195186 | [195186-wind-angel-iii.json](./195186-wind-angel-iii.json) |
 | Wind Breaker: Furyou-tachi no Eiyuutan | 326789 | [326789-wind-breaker-furyou-tachi-no-eiyuutan.json](./326789-wind-breaker-furyou-tachi-no-eiyuutan.json) |
