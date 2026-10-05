@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LainTSX | 248784 | [248784-laintsx.json](./248784-laintsx.json) |
 | Lair | 7362 | [7362-lair.json](./7362-lair.json) |
 | Lair Defense: Dungeon | 127893 | [127893-lair-defense-dungeon.json](./127893-lair-defense-dungeon.json) |
+| Lair Hockey | 156595 | [156595-lair-hockey.json](./156595-lair-hockey.json) |
 | Lair Land Story 2: Mist of Sea | 217214 | [217214-lair-land-story-2-mist-of-sea.json](./217214-lair-land-story-2-mist-of-sea.json) |
 | Lair Land Story: Remake Edition | 119030 | [119030-lair-land-story-remake-edition.json](./119030-lair-land-story-remake-edition.json) |
 | Lair of Anubis | 236303 | [236303-lair-of-anubis.json](./236303-lair-of-anubis.json) |
