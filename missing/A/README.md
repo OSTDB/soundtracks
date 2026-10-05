@@ -1777,6 +1777,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero The Acro-Bat: Rascal Rival Revenge | 312090 | [312090-aero-the-acro-bat-rascal-rival-revenge.json](./312090-aero-the-acro-bat-rascal-rival-revenge.json) |
 | Aerobat | 18199 | [18199-aerobat.json](./18199-aerobat.json) |
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
+| Aerofly FS 2 Flight Simulator: Just Flight - Cessna 152 | 162744 | [162744-aerofly-fs-2-flight-simulator-just-flight-cessna-152.json](./162744-aerofly-fs-2-flight-simulator-just-flight-cessna-152.json) |
+| Aerofly FS 2 Flight Simulator: Just Flight - Duchess | 162742 | [162742-aerofly-fs-2-flight-simulator-just-flight-duchess.json](./162742-aerofly-fs-2-flight-simulator-just-flight-duchess.json) |
+| Aerofly FS 2 Flight Simulator: Just Flight - Turbo Arrow III / IV | 162743 | [162743-aerofly-fs-2-flight-simulator-just-flight-turbo-arrow-iii-iv.json](./162743-aerofly-fs-2-flight-simulator-just-flight-turbo-arrow-iii-iv.json) |
 | Aerofly FS 2 Flight Simulator: Orbx - Eagle County Colorado | 167724 | [167724-aerofly-fs-2-flight-simulator-orbx-eagle-county-colorado.json](./167724-aerofly-fs-2-flight-simulator-orbx-eagle-county-colorado.json) |
 | Aerofly FS 2 Flight Simulator: Orbx - Monterey Regional Airport | 167720 | [167720-aerofly-fs-2-flight-simulator-orbx-monterey-regional-airport.json](./167720-aerofly-fs-2-flight-simulator-orbx-monterey-regional-airport.json) |
 | Aerofly FS 2 Flight Simulator: Switzerland | 167721 | [167721-aerofly-fs-2-flight-simulator-switzerland.json](./167721-aerofly-fs-2-flight-simulator-switzerland.json) |
