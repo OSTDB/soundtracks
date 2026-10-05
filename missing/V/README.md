@@ -1759,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Authority | 355041 | [355041-void-authority.json](./355041-void-authority.json) |
 | Void Bastards | 111846 | [111846-void-bastards.json](./111846-void-bastards.json) |
 | Void Blitzing | 236505 | [236505-void-blitzing.json](./236505-void-blitzing.json) |
+| Void Breach | 127708 | [127708-void-breach.json](./127708-void-breach.json) |
 | Void Captains | 410395 | [410395-void-captains.json](./410395-void-captains.json) |
 | Void Carrier | 304698 | [304698-void-carrier.json](./304698-void-carrier.json) |
 | Void Climber | 316062 | [316062-void-climber.json](./316062-void-climber.json) |
