@@ -2251,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entwined Challenge | 174226 | [174226-entwined-challenge.json](./174226-entwined-challenge.json) |
 | Entwined: The Perfect Murder | 112489 | [112489-entwined-the-perfect-murder.json](./112489-entwined-the-perfect-murder.json) |
 | Envido | 418535 | [418535-envido.json](./418535-envido.json) |
+| EnviroGolf | 126377 | [126377-envirogolf.json](./126377-envirogolf.json) |
 | Environment Protection Ambassador | 385287 | [385287-environment-protection-ambassador.json](./385287-environment-protection-ambassador.json) |
 | EnvironmentZ | 374724 | [374724-environmentz.json](./374724-environmentz.json) |
 | Envoy | 33413 | [33413-envoy.json](./33413-envoy.json) |
@@ -3140,6 +3141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Empires | 74388 | [74388-eternal-empires.json](./74388-eternal-empires.json) |
 | Eternal End | 295369 | [295369-eternal-end.json](./295369-eternal-end.json) |
 | Eternal Escape: Castle of Shadows | 307108 | [307108-eternal-escape-castle-of-shadows.json](./307108-eternal-escape-castle-of-shadows.json) |
+| Eternal Essence | 126383 | [126383-eternal-essence.json](./126383-eternal-essence.json) |
 | Eternal Evolution | 197358 | [197358-eternal-evolution.json](./197358-eternal-evolution.json) |
 | Eternal Fate | 15424 | [15424-eternal-fate.json](./15424-eternal-fate.json) |
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
