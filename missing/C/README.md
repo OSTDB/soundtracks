@@ -4106,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Jikuu Yousai Macross: Ai Oboete Imasuka | 46094 | [46094-chou-jikuu-yousai-macross-ai-oboete-imasuka.json](./46094-chou-jikuu-yousai-macross-ai-oboete-imasuka.json) |
 | Chou Jinrou Senki Warwolf | 48590 | [48590-chou-jinrou-senki-warwolf.json](./48590-chou-jinrou-senki-warwolf.json) |
 | Chou Jinsei Enjoi! Tamagotchi Plus | 229952 | [229952-chou-jinsei-enjoi-tamagotchi-plus.json](./229952-chou-jinsei-enjoi-tamagotchi-plus.json) |
+| Chou Jiryoku Senshi Microman Generation 2000 | 166590 | [166590-chou-jiryoku-senshi-microman-generation-2000.json](./166590-chou-jiryoku-senshi-microman-generation-2000.json) |
 | Chou Manin: Joshi Seido Shanai Choukyou | 97389 | [97389-chou-manin-joshi-seido-shanai-choukyou.json](./97389-chou-manin-joshi-seido-shanai-choukyou.json) |
 | Chou Mashin Eiyuuden Wataru: Another Step | 37726 | [37726-chou-mashin-eiyuuden-wataru-another-step.json](./37726-chou-mashin-eiyuuden-wataru-another-step.json) |
 | Chou Mashin Eiyuuden Wataru: Mazekko Monster | 66064 | [66064-chou-mashin-eiyuuden-wataru-mazekko-monster.json](./66064-chou-mashin-eiyuuden-wataru-mazekko-monster.json) |
@@ -4557,6 +4558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cipheur | 330901 | [330901-cipheur.json](./330901-cipheur.json) |
 | Circa | 94170 | [94170-circa.json](./94170-circa.json) |
 | Circa Infinity | 16312 | [16312-circa-infinity.json](./16312-circa-infinity.json) |
+| Circadia | 166567 | [166567-circadia.json](./166567-circadia.json) |
 | Circadial | 328645 | [328645-circadial.json](./328645-circadial.json) |
 | Circadian City | 116815 | [116815-circadian-city.json](./116815-circadian-city.json) |
 | CircL | 185080 | [185080-circl.json](./185080-circl.json) |
@@ -4961,6 +4963,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clannad | 262494 | [262494-clannad.json](./262494-clannad.json) |
 | Clannad | 9607 | [9607-clannad.json](./9607-clannad.json) |
 | Clannad Full Voice | 262489 | [262489-clannad-full-voice.json](./262489-clannad-full-voice.json) |
+| Clannad Key Trilogy Premium Box | 166663 | [166663-clannad-key-trilogy-premium-box.json](./166663-clannad-key-trilogy-premium-box.json) |
+| Clannad: Lost Winter | 166664 | [166664-clannad-lost-winter.json](./166664-clannad-lost-winter.json) |
 | Clannad: The Past Path | 138157 | [138157-clannad-the-past-path.json](./138157-clannad-the-past-path.json) |
 | ClanRivals: Vikings | 159876 | [159876-clanrivals-vikings.json](./159876-clanrivals-vikings.json) |
 | Clans | 17121 | [17121-clans.json](./17121-clans.json) |
@@ -10757,6 +10761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberVerse | 345103 | [345103-cyberverse.json](./345103-cyberverse.json) |
 | CyberVirus | 153842 | [153842-cybervirus.json](./153842-cybervirus.json) |
 | Cybervoid | 339999 | [339999-cybervoid.json](./339999-cybervoid.json) |
+| Cyberwar | 166595 | [166595-cyberwar.json](./166595-cyberwar.json) |
 | Cyberwar: Neon City | 231308 | [231308-cyberwar-neon-city.json](./231308-cyberwar-neon-city.json) |
 | Cyberwave | 310571 | [310571-cyberwave.json](./310571-cyberwave.json) |
 | CyberWave Survivor | 254173 | [254173-cyberwave-survivor.json](./254173-cyberwave-survivor.json) |
