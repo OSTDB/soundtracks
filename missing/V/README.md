@@ -1079,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Strip Poker HD | 109636 | [109636-video-strip-poker-hd.json](./109636-video-strip-poker-hd.json) |
 | Video Tennis but the Computer Asks About Your Ex-Girlfriend | 177413 | [177413-video-tennis-but-the-computer-asks-about-your-ex-girlfriend.json](./177413-video-tennis-but-the-computer-asks-about-your-ex-girlfriend.json) |
 | Video Time Machine | 40770 | [40770-video-time-machine.json](./40770-video-time-machine.json) |
+| Video World | 142746 | [142746-video-world.json](./142746-video-world.json) |
 | Video's Revenge | 178065 | [178065-videos-revenge.json](./178065-videos-revenge.json) |
 | Videocart 20 - Schach | 18586 | [18586-videocart-20-schach.json](./18586-videocart-20-schach.json) |
 | Videocart-2: Desert Fox & Shooting Gallery | 41221 | [41221-videocart-2-desert-fox-and-shooting-gallery.json](./41221-videocart-2-desert-fox-and-shooting-gallery.json) |
