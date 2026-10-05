@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Bloody Snack | 256553 | [256553-last-bloody-snack.json](./256553-last-bloody-snack.json) |
 | Last Blossom | 148337 | [148337-last-blossom.json](./148337-last-blossom.json) |
 | Last Bone | 406785 | [406785-last-bone.json](./406785-last-bone.json) |
+| Last Boss -9x9 Action Battle- | 150252 | [150252-last-boss-9x9-action-battle.json](./150252-last-boss-9x9-action-battle.json) |
 | Last Box Standing May Go On | 336625 | [336625-last-box-standing-may-go-on.json](./336625-last-box-standing-may-go-on.json) |
 | Last Breath | 373619 | [373619-last-breath.json](./373619-last-breath.json) |
 | Last Breath | 413756 | [413756-last-breath.json](./413756-last-breath.json) |
@@ -1487,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Fishing | 110788 | [110788-legendary-fishing.json](./110788-legendary-fishing.json) |
 | Legendary Heroes Unchained | 324106 | [324106-legendary-heroes-unchained.json](./324106-legendary-heroes-unchained.json) |
 | Legendary Hoplite | 216738 | [216738-legendary-hoplite.json](./216738-legendary-hoplite.json) |
+| Legendary Journeys | 150281 | [150281-legendary-journeys.json](./150281-legendary-journeys.json) |
 | Legendary Larry | 224022 | [224022-legendary-larry.json](./224022-legendary-larry.json) |
 | Legendary Mahjong | 53269 | [53269-legendary-mahjong.json](./53269-legendary-mahjong.json) |
 | Legendary Master Idle | 251233 | [251233-legendary-master-idle.json](./251233-legendary-master-idle.json) |
@@ -4158,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Other World | 174815 | [174815-lord-of-the-other-world.json](./174815-lord-of-the-other-world.json) |
 | Lord of the Race | 260656 | [260656-lord-of-the-race.json](./260656-lord-of-the-race.json) |
 | Lord of the Rings: Warrior of Middle Earth | 190102 | [190102-lord-of-the-rings-warrior-of-middle-earth.json](./190102-lord-of-the-rings-warrior-of-middle-earth.json) |
+| Lord of the Sea | 150253 | [150253-lord-of-the-sea.json](./150253-lord-of-the-sea.json) |
 | Lord of the Shades | 72031 | [72031-lord-of-the-shades.json](./72031-lord-of-the-shades.json) |
 | Lord of the Sword | 46671 | [46671-lord-of-the-sword.json](./46671-lord-of-the-sword.json) |
 | Lord of the Сlick | 207815 | [207815-lord-of-the-lick.json](./207815-lord-of-the-lick.json) |
