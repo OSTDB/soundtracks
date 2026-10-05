@@ -2974,6 +2974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chance at Life | 203530 | [203530-chance-at-life.json](./203530-chance-at-life.json) |
 | Chance of the Dead | 166691 | [166691-chance-of-the-dead.json](./166691-chance-of-the-dead.json) |
 | Chance's Lucky Escape 2 | 417426 | [417426-chances-lucky-escape-2.json](./417426-chances-lucky-escape-2.json) |
+| Chandrayaan VR | 149213 | [149213-chandrayaan-vr.json](./149213-chandrayaan-vr.json) |
 | Chang'an: The capital of Tang Dynasty | 147403 | [147403-changan-the-capital-of-tang-dynasty.json](./147403-changan-the-capital-of-tang-dynasty.json) |
 | Changa | 196713 | [196713-changa.json](./196713-changa.json) |
 | Change | 229674 | [229674-change.json](./229674-change.json) |
@@ -5892,6 +5893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cody's Nightmare Vacation | 310548 | [310548-codys-nightmare-vacation.json](./310548-codys-nightmare-vacation.json) |
 | CodyCross: Crossword Puzzles | 86994 | [86994-codycross-crossword-puzzles.json](./86994-codycross-crossword-puzzles.json) |
 | Coelhos Construtores | 290095 | [290095-coelhos-construtores.json](./290095-coelhos-construtores.json) |
+| Coeus Plan | 149217 | [149217-coeus-plan.json](./149217-coeus-plan.json) |
 | Coffee & Boobs | 347219 | [347219-coffee-and-boobs.json](./347219-coffee-and-boobs.json) |
 | Coffee Addict | 62808 | [62808-coffee-addict.json](./62808-coffee-addict.json) |
 | Coffee At Night | 339351 | [339351-coffee-at-night.json](./339351-coffee-at-night.json) |
@@ -8874,6 +8876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cream War | 239746 | [239746-cream-war.json](./239746-cream-war.json) |
 | Creamare: The Game | 339338 | [339338-creamare-the-game.json](./339338-creamare-the-game.json) |
 | Creamy Mami: Futari no Rondo | 184477 | [184477-creamy-mami-futari-no-rondo.json](./184477-creamy-mami-futari-no-rondo.json) |
+| Creas | 149202 | [149202-creas.json](./149202-creas.json) |
 | Create | 4778 | [4778-create.json](./4778-create.json) |
 | Create & Conquer | 305771 | [305771-create-and-conquer.json](./305771-create-and-conquer.json) |
 | Create a Pop Sensation | 369695 | [369695-create-a-pop-sensation.json](./369695-create-a-pop-sensation.json) |
