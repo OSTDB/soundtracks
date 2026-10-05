@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Lamb | 75001 | [75001-save-the-lamb.json](./75001-save-the-lamb.json) |
 | Save the Ninja Clan | 27299 | [27299-save-the-ninja-clan.json](./27299-save-the-ninja-clan.json) |
 | Save the Ninja! | 410969 | [410969-save-the-ninja.json](./410969-save-the-ninja.json) |
+| Save the Octo | 156225 | [156225-save-the-octo.json](./156225-save-the-octo.json) |
 | Save the Pet: Draw to Save | 223921 | [223921-save-the-pet-draw-to-save.json](./223921-save-the-pet-draw-to-save.json) |
 | Save the Pirate: Sea Story | 166764 | [166764-save-the-pirate-sea-story.json](./166764-save-the-pirate-sea-story.json) |
 | Save the Pirate: Sea Story - Tribal Legacy | 168157 | [168157-save-the-pirate-sea-story-tribal-legacy.json](./168157-save-the-pirate-sea-story-tribal-legacy.json) |
@@ -2237,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaman | 9130 | [9130-seaman.json](./9130-seaman.json) |
 | Seaman 2 | 11446 | [11446-seaman-2.json](./11446-seaman-2.json) |
 | Seamongrel | 342269 | [342269-seamongrel.json](./342269-seamongrel.json) |
+| Seance | 156198 | [156198-seance.json](./156198-seance.json) |
 | Seance | 358955 | [358955-seance.json](./358955-seance.json) |
 | Seaport - Build & Prosper! | 88374 | [88374-seaport-build-and-prosper.json](./88374-seaport-build-and-prosper.json) |
 | Seaport Tycoon | 245956 | [245956-seaport-tycoon.json](./245956-seaport-tycoon.json) |
@@ -3108,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Series: Your Story Universe | 144197 | [144197-series-your-story-universe.json](./144197-series-your-story-universe.json) |
 | Serious Breakdown | 191223 | [191223-serious-breakdown.json](./191223-serious-breakdown.json) |
 | Serious Carnage: Adrenaline Shooter | 403731 | [403731-serious-carnage-adrenaline-shooter.json](./403731-serious-carnage-adrenaline-shooter.json) |
+| Serious Fun Football | 156202 | [156202-serious-fun-football.json](./156202-serious-fun-football.json) |
 | Serious Sam | 291050 | [291050-serious-sam.json](./291050-serious-sam.json) |
 | Serious Sam 3: BFE | 527 | [527-serious-sam-3-bfe.json](./527-serious-sam-3-bfe.json) |
 | Serious Sam 3: Jewel of the Nile | 10817 | [10817-serious-sam-3-jewel-of-the-nile.json](./10817-serious-sam-3-jewel-of-the-nile.json) |
@@ -6077,6 +6080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singularity Runner | 219678 | [219678-singularity-runner.json](./219678-singularity-runner.json) |
 | Singularity Shooter | 112728 | [112728-singularity-shooter.json](./112728-singularity-shooter.json) |
 | Singularity Survivors | 298245 | [298245-singularity-survivors.json](./298245-singularity-survivors.json) |
+| Singularity World | 156216 | [156216-singularity-world.json](./156216-singularity-world.json) |
 | Singularium | 270124 | [270124-singularium.json](./270124-singularium.json) |
 | Singulier | 413634 | [413634-singulier.json](./413634-singulier.json) |
 | Sinij Parovoz | 301402 | [301402-sinij-parovoz.json](./301402-sinij-parovoz.json) |
@@ -7637,6 +7641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smelter | 119191 | [119191-smelter.json](./119191-smelter.json) |
 | Smelter: Collector's Edition | 205263 | [205263-smelter-collectors-edition.json](./205263-smelter-collectors-edition.json) |
 | Smerch Battle Arena | 158638 | [158638-smerch-battle-arena.json](./158638-smerch-battle-arena.json) |
+| Smetanka | 156213 | [156213-smetanka.json](./156213-smetanka.json) |
 | SMH | 277393 | [277393-smh.json](./277393-smh.json) |
 | Smile | 129706 | [129706-smile.json](./129706-smile.json) |
 | Smile For Me: Collector's Edition | 229691 | [229691-smile-for-me-collectors-edition.json](./229691-smile-for-me-collectors-edition.json) |
@@ -14473,6 +14478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stones of Harlath | 152747 | [152747-stones-of-harlath.json](./152747-stones-of-harlath.json) |
 | Stones of Solace | 120284 | [120284-stones-of-solace.json](./120284-stones-of-solace.json) |
 | Stones of Yalmrith | 102944 | [102944-stones-of-yalmrith.json](./102944-stones-of-yalmrith.json) |
+| Stonescape | 156221 | [156221-stonescape.json](./156221-stonescape.json) |
 | StoneSpace | 376436 | [376436-stonespace.json](./376436-stonespace.json) |
 | StoneStory | 339662 | [339662-stonestory.json](./339662-stonestory.json) |
 | Stonetowers | 96868 | [96868-stonetowers.json](./96868-stonetowers.json) |
@@ -17650,6 +17656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Space Serpent: Secondary Edition | 117529 | [117529-super-space-serpent-secondary-edition.json](./117529-super-space-serpent-secondary-edition.json) |
 | Super Space Shooter Arena | 127204 | [127204-super-space-shooter-arena.json](./127204-super-space-shooter-arena.json) |
 | Super Space Slayer 2 | 26946 | [26946-super-space-slayer-2.json](./26946-super-space-slayer-2.json) |
+| Super Space Towers | 156076 | [156076-super-space-towers.json](./156076-super-space-towers.json) |
 | Super SpaceMail | 190009 | [190009-super-spacemail.json](./190009-super-spacemail.json) |
 | Super Spamton 64 | 389025 | [389025-super-spamton-64.json](./389025-super-spamton-64.json) |
 | Super Spatial | 225738 | [225738-super-spatial.json](./225738-super-spatial.json) |
