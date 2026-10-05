@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogre Chambers DX | 239795 | [239795-ogre-chambers-dx.json](./239795-ogre-chambers-dx.json) |
 | Ogre's Ambition 2 | 82775 | [82775-ogres-ambition-2.json](./82775-ogres-ambition-2.json) |
 | Ogriesh Flower | 247079 | [247079-ogriesh-flower.json](./247079-ogriesh-flower.json) |
+| OGSR Mod | 139745 | [139745-ogsr-mod.json](./139745-ogsr-mod.json) |
 | Ogu and the Secret Forest | 200923 | [200923-ogu-and-the-secret-forest.json](./200923-ogu-and-the-secret-forest.json) |
 | Ogu and the Secret Forest: Winter Festival Blast | 376697 | [376697-ogu-and-the-secret-forest-winter-festival-blast.json](./376697-ogu-and-the-secret-forest-winter-festival-blast.json) |
 | Ogura Hyakunin Isshu | 268520 | [268520-ogura-hyakunin-isshu.json](./268520-ogura-hyakunin-isshu.json) |
