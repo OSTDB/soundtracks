@@ -5436,6 +5436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Garden of Hades | 231464 | [231464-the-garden-of-hades.json](./231464-the-garden-of-hades.json) |
 | The Garden of Hermeneus | 347349 | [347349-the-garden-of-hermeneus.json](./347349-the-garden-of-hermeneus.json) |
 | The Gardener | 389404 | [389404-the-gardener.json](./389404-the-gardener.json) |
+| The Gardener and the Wild Vines | 141524 | [141524-the-gardener-and-the-wild-vines.json](./141524-the-gardener-and-the-wild-vines.json) |
 | The Gardener Simulator: Plant, Grow, Decorate, Build Sim | 283234 | [283234-the-gardener-simulator-plant-grow-decorate-build-sim.json](./283234-the-gardener-simulator-plant-grow-decorate-build-sim.json) |
 | The Gas Station: Graveyard Shift | 379883 | [379883-the-gas-station-graveyard-shift.json](./379883-the-gas-station-graveyard-shift.json) |
 | The Gate | 323315 | [323315-the-gate.json](./323315-the-gate.json) |
@@ -6506,6 +6507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Chronomancer | 146352 | [146352-the-last-chronomancer.json](./146352-the-last-chronomancer.json) |
 | The Last City | 202724 | [202724-the-last-city.json](./202724-the-last-city.json) |
 | The Last City | 202725 | [202725-the-last-city.json](./202725-the-last-city.json) |
+| The Last Cohort | 141528 | [141528-the-last-cohort.json](./141528-the-last-cohort.json) |
 | The Last Contact | 112776 | [112776-the-last-contact.json](./112776-the-last-contact.json) |
 | The Last Corpse Forge: Survivor | 342186 | [342186-the-last-corpse-forge-survivor.json](./342186-the-last-corpse-forge-survivor.json) |
 | The Last Cosmonaut | 413594 | [413594-the-last-cosmonaut.json](./413594-the-last-cosmonaut.json) |
@@ -6990,6 +6992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legendary Axe | 42121 | [42121-the-legendary-axe.json](./42121-the-legendary-axe.json) |
 | The Legendary Boy Run | 103913 | [103913-the-legendary-boy-run.json](./103913-the-legendary-boy-run.json) |
 | The Legendary Player - Make Your Reputation | 68612 | [68612-the-legendary-player-make-your-reputation.json](./68612-the-legendary-player-make-your-reputation.json) |
+| The Legendary Prophecy Of Light And Darkness: The Power To Save The World | 141494 | [141494-the-legendary-prophecy-of-light-and-darkness-the-power-to-save-the-world.json](./141494-the-legendary-prophecy-of-light-and-darkness-the-power-to-save-the-world.json) |
 | The Legendary Starfy | 20280 | [20280-the-legendary-starfy.json](./20280-the-legendary-starfy.json) |
 | The Legends of Maui | 289990 | [289990-the-legends-of-maui.json](./289990-the-legends-of-maui.json) |
 | The Legends of Owlia | 30059 | [30059-the-legends-of-owlia.json](./30059-the-legends-of-owlia.json) |
@@ -8768,6 +8771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seduction of Shaqeera VR | 344438 | [344438-the-seduction-of-shaqeera-vr.json](./344438-the-seduction-of-shaqeera-vr.json) |
 | The SeethingSwarm Collection | 385848 | [385848-the-seethingswarm-collection.json](./385848-the-seethingswarm-collection.json) |
 | The Segment Twins | 239782 | [239782-the-segment-twins.json](./239782-the-segment-twins.json) |
+| The Sekimeiya: Spun Glass | 141500 | [141500-the-sekimeiya-spun-glass.json](./141500-the-sekimeiya-spun-glass.json) |
 | The Seller | 84956 | [84956-the-seller.json](./84956-the-seller.json) |
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
 | The Sensha | 59418 | [59418-the-sensha.json](./59418-the-sensha.json) |
@@ -10937,6 +10941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirayan | 201551 | [201551-thirayan.json](./201551-thirayan.json) |
 | Third | 233784 | [233784-third.json](./233784-third.json) |
 | Third Age: Total War | 356233 | [356233-third-age-total-war.json](./356233-third-age-total-war.json) |
+| Third Bridge | 141552 | [141552-third-bridge.json](./141552-third-bridge.json) |
 | Third Crisis | 187542 | [187542-third-crisis.json](./187542-third-crisis.json) |
 | Third Crisis: Neon Nights | 397168 | [397168-third-crisis-neon-nights.json](./397168-third-crisis-neon-nights.json) |
 | Third Eye | 261963 | [261963-third-eye.json](./261963-third-eye.json) |
