@@ -3844,6 +3844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Celestial Tales | 275689 | [275689-the-celestial-tales.json](./275689-the-celestial-tales.json) |
 | The Celestra | 191090 | [191090-the-celestra.json](./191090-the-celestra.json) |
 | The Cell | 131348 | [131348-the-cell.json](./131348-the-cell.json) |
+| The Cell | 165488 | [165488-the-cell.json](./165488-the-cell.json) |
 | The Cell | 307965 | [307965-the-cell.json](./307965-the-cell.json) |
 | The Cell | 326947 | [326947-the-cell.json](./326947-the-cell.json) |
 | The Cellar Door | 62708 | [62708-the-cellar-door.json](./62708-the-cellar-door.json) |
@@ -12848,6 +12849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic: The Recovery Mission | 12962 | [12962-titanic-the-recovery-mission.json](./12962-titanic-the-recovery-mission.json) |
 | Titanigods | 328469 | [328469-titanigods.json](./328469-titanigods.json) |
 | Titanium Hound | 217386 | [217386-titanium-hound.json](./217386-titanium-hound.json) |
+| Titans Black Ops | 165596 | [165596-titans-black-ops.json](./165596-titans-black-ops.json) |
 | Titans Clinic | 329062 | [329062-titans-clinic.json](./329062-titans-clinic.json) |
 | Titans Clinic VR | 252105 | [252105-titans-clinic-vr.json](./252105-titans-clinic-vr.json) |
 | Titans of Steel: Warring Suns | 69841 | [69841-titans-of-steel-warring-suns.json](./69841-titans-of-steel-warring-suns.json) |
@@ -14818,6 +14820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Soldiers: War Chest - Hall of Fame Edition | 44532 | [44532-toy-soldiers-war-chest-hall-of-fame-edition.json](./44532-toy-soldiers-war-chest-hall-of-fame-edition.json) |
 | Toy Soldiers: War Chest - Masters of the Universe Pack | 410326 | [410326-toy-soldiers-war-chest-masters-of-the-universe-pack.json](./410326-toy-soldiers-war-chest-masters-of-the-universe-pack.json) |
 | Toy Story | 220099 | [220099-toy-story.json](./220099-toy-story.json) |
+| Toy Story 2 | 165581 | [165581-toy-story-2.json](./165581-toy-story-2.json) |
 | Toy Story 2: Buzz Lightyear to the Rescue! | 305791 | [305791-toy-story-2-buzz-lightyear-to-the-rescue.json](./305791-toy-story-2-buzz-lightyear-to-the-rescue.json) |
 | Toy Story 2: Operation Rescue Woody | 77330 | [77330-toy-story-2-operation-rescue-woody.json](./77330-toy-story-2-operation-rescue-woody.json) |
 | Toy Story 2: Woody Sousaku Daisakusen!! | 58850 | [58850-toy-story-2-woody-sousaku-daisakusen.json](./58850-toy-story-2-woody-sousaku-daisakusen.json) |
@@ -15923,6 +15926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: War for Cybertron - Autobots | 159310 | [159310-transformers-war-for-cybertron-autobots.json](./159310-transformers-war-for-cybertron-autobots.json) |
 | Transformers: War for Cybertron - Decepticons | 47945 | [47945-transformers-war-for-cybertron-decepticons.json](./47945-transformers-war-for-cybertron-decepticons.json) |
 | Transformice Adventures | 117824 | [117824-transformice-adventures.json](./117824-transformice-adventures.json) |
+| Transfusion | 165576 | [165576-transfusion.json](./165576-transfusion.json) |
 | Transfusion | 356761 | [356761-transfusion.json](./356761-transfusion.json) |
 | TransGenDeer | 327847 | [327847-transgendeer.json](./327847-transgendeer.json) |
 | Transgression | 93511 | [93511-transgression.json](./93511-transgression.json) |
@@ -17086,6 +17090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsugunohi: Supernatural Supermarket | 234297 | [234297-tsugunohi-supernatural-supermarket.json](./234297-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: The Chamber of Phantom Name | 340941 | [340941-tsugunohi-the-chamber-of-phantom-name.json](./340941-tsugunohi-the-chamber-of-phantom-name.json) |
 | Tsuki Adventure | 182457 | [182457-tsuki-adventure.json](./182457-tsuki-adventure.json) |
+| Tsuki ha Higashi ni Hi ha Nishi ni: Operation Sanctuary | 165566 | [165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json](./165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json) |
 | Tsuki no Kanata de Aimashou | 150037 | [150037-tsuki-no-kanata-de-aimashou.json](./150037-tsuki-no-kanata-de-aimashou.json) |
 | Tsuki no Kanata de Aimashou: Sweet Summer Rainbow | 150038 | [150038-tsuki-no-kanata-de-aimashou-sweet-summer-rainbow.json](./150038-tsuki-no-kanata-de-aimashou-sweet-summer-rainbow.json) |
 | Tsuki no Namida | 277953 | [277953-tsuki-no-namida.json](./277953-tsuki-no-namida.json) |
