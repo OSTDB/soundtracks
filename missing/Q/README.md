@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Drive | 278395 | [278395-quantum-drive.json](./278395-quantum-drive.json) |
 | Quantum Era | 407392 | [407392-quantum-era.json](./407392-quantum-era.json) |
 | Quantum Error | 132226 | [132226-quantum-error.json](./132226-quantum-error.json) |
+| Quantum Eternity | 169237 | [169237-quantum-eternity.json](./169237-quantum-eternity.json) |
 | Quantum Eye | 391737 | [391737-quantum-eye.json](./391737-quantum-eye.json) |
 | Quantum Flux | 34608 | [34608-quantum-flux.json](./34608-quantum-flux.json) |
 | Quantum Hell | 413862 | [413862-quantum-hell.json](./413862-quantum-hell.json) |
