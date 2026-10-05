@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eBall 2 | 238523 | [238523-eball-2.json](./238523-eball-2.json) |
 | Ebanashi: Kaiwa | 195216 | [195216-ebanashi-kaiwa.json](./195216-ebanashi-kaiwa.json) |
 | EBaseball MLB Pro Spirit | 321590 | [321590-ebaseball-mlb-pro-spirit.json](./321590-ebaseball-mlb-pro-spirit.json) |
+| eBaseball Pawafuru Puroyakyu 2020 | 136798 | [136798-ebaseball-pawafuru-puroyakyu-2020.json](./136798-ebaseball-pawafuru-puroyakyu-2020.json) |
 | eBaseball Professional Yakyuu Spirits 2021: Grand Slam | 143624 | [143624-ebaseball-professional-yakyuu-spirits-2021-grand-slam.json](./143624-ebaseball-professional-yakyuu-spirits-2021-grand-slam.json) |
 | EBaseball: Pro Spirit | 393762 | [393762-ebaseball-pro-spirit.json](./393762-ebaseball-pro-spirit.json) |
 | eBaseball: Pro Spirit 2026 | 410262 | [410262-ebaseball-pro-spirit-2026.json](./410262-ebaseball-pro-spirit-2026.json) |
@@ -620,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edentopia | 245882 | [245882-edentopia.json](./245882-edentopia.json) |
 | Edenya | 281659 | [281659-edenya.json](./281659-edenya.json) |
 | Edepth Angel: Pinocchio's Murder | 83609 | [83609-edepth-angel-pinocchios-murder.json](./83609-edepth-angel-pinocchios-murder.json) |
+| Ederon Online | 136767 | [136767-ederon-online.json](./136767-ederon-online.json) |
 | EDF Secret Base | 270698 | [270698-edf-secret-base.json](./270698-edf-secret-base.json) |
 | Edgar A. Poe: The Oval Portrait | 205109 | [205109-edgar-a-poe-the-oval-portrait.json](./205109-edgar-a-poe-the-oval-portrait.json) |
 | Edgar Torronteras Extreme Biker | 24112 | [24112-edgar-torronteras-extreme-biker.json](./24112-edgar-torronteras-extreme-biker.json) |
@@ -905,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EightMan | 40976 | [40976-eightman.json](./40976-eightman.json) |
 | Eightrun | 242523 | [242523-eightrun.json](./242523-eightrun.json) |
 | Eights | 354652 | [354652-eights.json](./354652-eights.json) |
+| Eigo de Tabi Suru: Little Charo | 136804 | [136804-eigo-de-tabi-suru-little-charo.json](./136804-eigo-de-tabi-suru-little-charo.json) |
 | Eigo wo Taberu Fushigi na Ikimono | 338715 | [338715-eigo-wo-taberu-fushigi-na-ikimono.json](./338715-eigo-wo-taberu-fushigi-na-ikimono.json) |
 | Eijukugo Target 1000 DS | 317397 | [317397-eijukugo-target-1000-ds.json](./317397-eijukugo-target-1000-ds.json) |
 | Eikan ha Kimi ni: Koukou Yakyuu Zenkoku Taikai | 210578 | [210578-eikan-ha-kimi-ni-koukou-yakyuu-zenkoku-taikai.json](./210578-eikan-ha-kimi-ni-koukou-yakyuu-zenkoku-taikai.json) |
