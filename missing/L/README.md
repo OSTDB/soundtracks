@@ -4376,6 +4376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Dream Chronicle | 316632 | [316632-lost-dream-chronicle.json](./316632-lost-dream-chronicle.json) |
 | Lost Dream: Darkness | 240799 | [240799-lost-dream-darkness.json](./240799-lost-dream-darkness.json) |
 | Lost Dreams | 194364 | [194364-lost-dreams.json](./194364-lost-dreams.json) |
+| Lost Dungeon | 120734 | [120734-lost-dungeon.json](./120734-lost-dungeon.json) |
 | Lost Dutchman's Gold | 25133 | [25133-lost-dutchmans-gold.json](./25133-lost-dutchmans-gold.json) |
 | Lost Earth | 138529 | [138529-lost-earth.json](./138529-lost-earth.json) |
 | Lost Echo | 39007 | [39007-lost-echo.json](./39007-lost-echo.json) |
