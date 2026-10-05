@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pact with a Demon EP01 | 378993 | [378993-pact-with-a-demon-ep01.json](./378993-pact-with-a-demon-ep01.json) |
 | Pact With a Witch | 118350 | [118350-pact-with-a-witch.json](./118350-pact-with-a-witch.json) |
 | PacWorm | 25140 | [25140-pacworm.json](./25140-pacworm.json) |
+| Pacybits | 124662 | [124662-pacybits.json](./124662-pacybits.json) |
 | Pacz!: Pacmanworlds 2 | 141732 | [141732-pacz-pacmanworlds-2.json](./141732-pacz-pacmanworlds-2.json) |
 | Pad of Time | 194983 | [194983-pad-of-time.json](./194983-pad-of-time.json) |
 | Pad Quad | 376144 | [376144-pad-quad.json](./376144-pad-quad.json) |
@@ -7382,6 +7383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prebillian | 40398 | [40398-prebillian.json](./40398-prebillian.json) |
 | Precept | 328001 | [328001-precept.json](./328001-precept.json) |
 | Prechara! Daifugo | 283757 | [283757-prechara-daifugo.json](./283757-prechara-daifugo.json) |
+| Precious Star | 124577 | [124577-precious-star.json](./124577-precious-star.json) |
 | Precious: Naze Shou ha Kami ni Idonda no ka? | 345543 | [345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json](./345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json) |
 | Precipice | 111937 | [111937-precipice.json](./111937-precipice.json) |
 | Precipice Pain | 308245 | [308245-precipice-pain.json](./308245-precipice-pain.json) |
@@ -8227,6 +8229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project A10 | 297191 | [297191-project-a10.json](./297191-project-a10.json) |
 | Project Abyss | 26204 | [26204-project-abyss.json](./26204-project-abyss.json) |
 | Project Adder | 266433 | [266433-project-adder.json](./266433-project-adder.json) |
+| Project Adventure Game: The Cycle of the Cave | 124578 | [124578-project-adventure-game-the-cycle-of-the-cave.json](./124578-project-adventure-game-the-cycle-of-the-cave.json) |
 | Project Aeroes | 330342 | [330342-project-aeroes.json](./330342-project-aeroes.json) |
 | Project Aftershock | 94753 | [94753-project-aftershock.json](./94753-project-aftershock.json) |
 | Project Agora | 140326 | [140326-project-agora.json](./140326-project-agora.json) |
@@ -8903,6 +8906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pseudoku | 337638 | [337638-pseudoku.json](./337638-pseudoku.json) |
 | PseudoSanity | 372635 | [372635-pseudosanity.json](./372635-pseudosanity.json) |
 | Psi Chess | 58251 | [58251-psi-chess.json](./58251-psi-chess.json) |
+| Psi Knuckle | 124579 | [124579-psi-knuckle.json](./124579-psi-knuckle.json) |
 | PSI Masquerade | 204064 | [204064-psi-masquerade.json](./204064-psi-masquerade.json) |
 | Psi Project 2 | 26965 | [26965-psi-project-2.json](./26965-psi-project-2.json) |
 | Psi Project: Legacy | 75907 | [75907-psi-project-legacy.json](./75907-psi-project-legacy.json) |
@@ -9972,6 +9976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyro Jump Rescue | 293149 | [293149-pyro-jump-rescue.json](./293149-pyro-jump-rescue.json) |
 | Pyro VR | 29602 | [29602-pyro-vr.json](./29602-pyro-vr.json) |
 | Pyrocast | 288762 | [288762-pyrocast.json](./288762-pyrocast.json) |
+| Pyromancer | 124580 | [124580-pyromancer.json](./124580-pyromancer.json) |
 | Pyromania | 325671 | [325671-pyromania.json](./325671-pyromania.json) |
 | Pyrosynchist | 370690 | [370690-pyrosynchist.json](./370690-pyrosynchist.json) |
 | Pyrrhic Paradise: Dissemble | 303085 | [303085-pyrrhic-paradise-dissemble.json](./303085-pyrrhic-paradise-dissemble.json) |
