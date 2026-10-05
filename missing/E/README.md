@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle's Rider | 13627 | [13627-eagles-rider.json](./13627-eagles-rider.json) |
 | EagleRoad: WorldRise | 406297 | [406297-eagleroad-worldrise.json](./406297-eagleroad-worldrise.json) |
 | Eagles | 13842 | [13842-eagles.json](./13842-eagles.json) |
+| Eagles Expedition | 143933 | [143933-eagles-expedition.json](./143933-eagles-expedition.json) |
 | Ealam Arib | 90600 | [90600-ealam-arib.json](./90600-ealam-arib.json) |
 | Ear Hockey, a Microsoft Garage Project | 210740 | [210740-ear-hockey-a-microsoft-garage-project.json](./210740-ear-hockey-a-microsoft-garage-project.json) |
 | Eared Hero | 68194 | [68194-eared-hero.json](./68194-eared-hero.json) |
@@ -1460,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysium Skies | 285711 | [285711-elysium-skies.json](./285711-elysium-skies.json) |
 | Elysium's Curse | 257352 | [257352-elysiums-curse.json](./257352-elysiums-curse.json) |
 | Em-A-Li | 127793 | [127793-em-a-li.json](./127793-em-a-li.json) |
+| Em-A-Zurvival | 143970 | [143970-em-a-zurvival.json](./143970-em-a-zurvival.json) |
 | EM: Shader Attack | 31354 | [31354-em-shader-attack.json](./31354-em-shader-attack.json) |
 | EmagineWorld | 213402 | [213402-emagineworld.json](./213402-emagineworld.json) |
 | Emagon | 60783 | [60783-emagon.json](./60783-emagon.json) |
@@ -3770,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution Battle Simulator | 126610 | [126610-evolution-battle-simulator.json](./126610-evolution-battle-simulator.json) |
 | Evolution Board Game: Climate Expansion | 238214 | [238214-evolution-board-game-climate-expansion.json](./238214-evolution-board-game-climate-expansion.json) |
 | Evolution Climate: Ultimate Bundle | 287181 | [287181-evolution-climate-ultimate-bundle.json](./287181-evolution-climate-ultimate-bundle.json) |
+| Evolution for Beginners | 143928 | [143928-evolution-for-beginners.json](./143928-evolution-for-beginners.json) |
 | Evolution Merge: Eat and Grow | 221378 | [221378-evolution-merge-eat-and-grow.json](./221378-evolution-merge-eat-and-grow.json) |
 | Evolution of a Mini World: Physics Wonderland | 153429 | [153429-evolution-of-a-mini-world-physics-wonderland.json](./153429-evolution-of-a-mini-world-physics-wonderland.json) |
 | Evolution of War | 173023 | [173023-evolution-of-war.json](./173023-evolution-of-war.json) |
