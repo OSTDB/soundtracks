@@ -1705,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team USA Basketball | 46260 | [46260-team-usa-basketball.json](./46260-team-usa-basketball.json) |
 | Team Xtreme: Operation Weather Disaster | 70983 | [70983-team-xtreme-operation-weather-disaster.json](./70983-team-xtreme-operation-weather-disaster.json) |
 | Team Yankee | 15382 | [15382-team-yankee.json](./15382-team-yankee.json) |
+| Team-Z | 167566 | [167566-team-z.json](./167566-team-z.json) |
 | Team:Cars | 138238 | [138238-team-cars.json](./138238-team-cars.json) |
 | Team17 Collection 1 | 241979 | [241979-team17-collection-1.json](./241979-team17-collection-1.json) |
 | Teamchef | 93006 | [93006-teamchef.json](./93006-teamchef.json) |
@@ -4613,6 +4614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreamwalkers | 127221 | [127221-the-dreamwalkers.json](./127221-the-dreamwalkers.json) |
 | The Dreamwell Enigma: Barlington Estate | 276376 | [276376-the-dreamwell-enigma-barlington-estate.json](./276376-the-dreamwell-enigma-barlington-estate.json) |
 | The Dresden Files Cooperative Card Game: Expansion 6 - Faithful Friends | 316217 | [316217-the-dresden-files-cooperative-card-game-expansion-6-faithful-friends.json](./316217-the-dresden-files-cooperative-card-game-expansion-6-faithful-friends.json) |
+| The Drift Challenge | 167570 | [167570-the-drift-challenge.json](./167570-the-drift-challenge.json) |
 | The Drone Zone | 244905 | [244905-the-drone-zone.json](./244905-the-drone-zone.json) |
 | The Dropper 2 | 200144 | [200144-the-dropper-2.json](./200144-the-dropper-2.json) |
 | The Drowning | 20917 | [20917-the-drowning.json](./20917-the-drowning.json) |
@@ -13979,6 +13981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War Battles: Shogun | 15318 | [15318-total-war-battles-shogun.json](./15318-total-war-battles-shogun.json) |
 | Total War Grand Master Collection | 53814 | [53814-total-war-grand-master-collection.json](./53814-total-war-grand-master-collection.json) |
 | Total War Master Collection | 53813 | [53813-total-war-master-collection.json](./53813-total-war-master-collection.json) |
+| Total War Saga: Thrones of Britannia - Blood, Sweat and Spears | 167639 | [167639-total-war-saga-thrones-of-britannia-blood-sweat-and-spears.json](./167639-total-war-saga-thrones-of-britannia-blood-sweat-and-spears.json) |
 | Total War: Attila | 8200 | [8200-total-war-attila.json](./8200-total-war-attila.json) |
 | Total War: Attila - Age of Charlemagne Campaign Pack | 82023 | [82023-total-war-attila-age-of-charlemagne-campaign-pack.json](./82023-total-war-attila-age-of-charlemagne-campaign-pack.json) |
 | Total War: Attila - Blood & Burning | 82024 | [82024-total-war-attila-blood-and-burning.json](./82024-total-war-attila-blood-and-burning.json) |
@@ -13996,25 +13999,39 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Rome II | 2359 | [2359-total-war-rome-ii.json](./2359-total-war-rome-ii.json) |
 | Total War: Rome II - Black Sea Colonies | 53824 | [53824-total-war-rome-ii-black-sea-colonies.json](./53824-total-war-rome-ii-black-sea-colonies.json) |
 | Total War: Rome II - Blood & Gore | 53826 | [53826-total-war-rome-ii-blood-and-gore.json](./53826-total-war-rome-ii-blood-and-gore.json) |
+| Total War: Rome II - Campaign Pack: Rise of the Republic | 167651 | [167651-total-war-rome-ii-campaign-pack-rise-of-the-republic.json](./167651-total-war-rome-ii-campaign-pack-rise-of-the-republic.json) |
 | Total War: Rome II - Campaign Pack: Wrath of Sparta | 53830 | [53830-total-war-rome-ii-campaign-pack-wrath-of-sparta.json](./53830-total-war-rome-ii-campaign-pack-wrath-of-sparta.json) |
 | Total War: Rome II - Culture Pack: Black Seas Colonies | 53831 | [53831-total-war-rome-ii-culture-pack-black-seas-colonies.json](./53831-total-war-rome-ii-culture-pack-black-seas-colonies.json) |
+| Total War: Rome II - Culture Pack: Desert Kingdoms | 167634 | [167634-total-war-rome-ii-culture-pack-desert-kingdoms.json](./167634-total-war-rome-ii-culture-pack-desert-kingdoms.json) |
 | Total War: Rome II - Culture Pack: Greek States | 53825 | [53825-total-war-rome-ii-culture-pack-greek-states.json](./53825-total-war-rome-ii-culture-pack-greek-states.json) |
+| Total War: Rome II - Culture Pack: Nomadic Tribes | 167637 | [167637-total-war-rome-ii-culture-pack-nomadic-tribes.json](./167637-total-war-rome-ii-culture-pack-nomadic-tribes.json) |
 | Total War: Rome II - Culture Pack: Pirates and Raiders | 53829 | [53829-total-war-rome-ii-culture-pack-pirates-and-raiders.json](./53829-total-war-rome-ii-culture-pack-pirates-and-raiders.json) |
 | Total War: Rome II - Hannibal at the Gates Campaign Pack | 167824 | [167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json](./167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json) |
 | Total War: Rome II - Imperator Augustus Campaign Pack | 167822 | [167822-total-war-rome-ii-imperator-augustus-campaign-pack.json](./167822-total-war-rome-ii-imperator-augustus-campaign-pack.json) |
 | Total War: Rome II - Ultimate Edition | 391794 | [391794-total-war-rome-ii-ultimate-edition.json](./391794-total-war-rome-ii-ultimate-edition.json) |
+| Total War: Rome II - Unit Pack: Beasts of War | 167635 | [167635-total-war-rome-ii-unit-pack-beasts-of-war.json](./167635-total-war-rome-ii-unit-pack-beasts-of-war.json) |
 | Total War: Rome II - Unit Pack: Daughters of Mars | 53827 | [53827-total-war-rome-ii-unit-pack-daughters-of-mars.json](./53827-total-war-rome-ii-unit-pack-daughters-of-mars.json) |
 | Total War: Shogun 2 | 432 | [432-total-war-shogun-2.json](./432-total-war-shogun-2.json) |
 | Total War: Shogun 2 - Blood Pack DLC | 83513 | [83513-total-war-shogun-2-blood-pack-dlc.json](./83513-total-war-shogun-2-blood-pack-dlc.json) |
 | Total War: Shogun 2 - Collection | 53812 | [53812-total-war-shogun-2-collection.json](./53812-total-war-shogun-2-collection.json) |
 | Total War: Shogun 2 - Dragon War Battle Pack | 83517 | [83517-total-war-shogun-2-dragon-war-battle-pack.json](./83517-total-war-shogun-2-dragon-war-battle-pack.json) |
+| Total War: Shogun 2 - Fall of the Samurai: The Obama Faction Pack | 167648 | [167648-total-war-shogun-2-fall-of-the-samurai-the-obama-faction-pack.json](./167648-total-war-shogun-2-fall-of-the-samurai-the-obama-faction-pack.json) |
+| Total War: Shogun 2 - Fall of the Samurai: The Saga Faction Pack | 167649 | [167649-total-war-shogun-2-fall-of-the-samurai-the-saga-faction-pack.json](./167649-total-war-shogun-2-fall-of-the-samurai-the-saga-faction-pack.json) |
+| Total War: Shogun 2 - Fall of the Samurai: The Sendai Faction Pack | 167652 | [167652-total-war-shogun-2-fall-of-the-samurai-the-sendai-faction-pack.json](./167652-total-war-shogun-2-fall-of-the-samurai-the-sendai-faction-pack.json) |
+| Total War: Shogun 2 - Fall of the Samurai: The Tsu Faction Pack | 167638 | [167638-total-war-shogun-2-fall-of-the-samurai-the-tsu-faction-pack.json](./167638-total-war-shogun-2-fall-of-the-samurai-the-tsu-faction-pack.json) |
 | Total War: Shogun 2 - Otomo Clan Pack DLC | 83512 | [83512-total-war-shogun-2-otomo-clan-pack-dlc.json](./83512-total-war-shogun-2-otomo-clan-pack-dlc.json) |
 | Total War: Shogun 2 - Saints and Heroes Unit Pack | 83518 | [83518-total-war-shogun-2-saints-and-heroes-unit-pack.json](./83518-total-war-shogun-2-saints-and-heroes-unit-pack.json) |
 | Total War: Shogun 2 - Sengoku Jidai Unit Pack | 83515 | [83515-total-war-shogun-2-sengoku-jidai-unit-pack.json](./83515-total-war-shogun-2-sengoku-jidai-unit-pack.json) |
 | Total War: Shogun 2 - The Hattori Clan Pack | 83514 | [83514-total-war-shogun-2-the-hattori-clan-pack.json](./83514-total-war-shogun-2-the-hattori-clan-pack.json) |
 | Total War: Shogun 2 - The Ikko Ikki Clan Pack | 83516 | [83516-total-war-shogun-2-the-ikko-ikki-clan-pack.json](./83516-total-war-shogun-2-the-ikko-ikki-clan-pack.json) |
+| Total War: Three Kingdoms - A World Betrayed | 167647 | [167647-total-war-three-kingdoms-a-world-betrayed.json](./167647-total-war-three-kingdoms-a-world-betrayed.json) |
+| Total War: Three Kingdoms - Eight Princes | 167640 | [167640-total-war-three-kingdoms-eight-princes.json](./167640-total-war-three-kingdoms-eight-princes.json) |
+| Total War: Three Kingdoms - Reign of Blood | 167645 | [167645-total-war-three-kingdoms-reign-of-blood.json](./167645-total-war-three-kingdoms-reign-of-blood.json) |
 | Total War: Three Kingdoms - Royal Edition | 139841 | [139841-total-war-three-kingdoms-royal-edition.json](./139841-total-war-three-kingdoms-royal-edition.json) |
+| Total War: Three Kingdoms - Shi Xie | 167644 | [167644-total-war-three-kingdoms-shi-xie.json](./167644-total-war-three-kingdoms-shi-xie.json) |
+| Total War: Three Kingdoms - Tao Qian | 167642 | [167642-total-war-three-kingdoms-tao-qian.json](./167642-total-war-three-kingdoms-tao-qian.json) |
 | Total War: Three Kingdoms - The Furious Wild | 201149 | [201149-total-war-three-kingdoms-the-furious-wild.json](./201149-total-war-three-kingdoms-the-furious-wild.json) |
+| Total War: Three Kingdoms - Yellow Turban Rebellion | 167646 | [167646-total-war-three-kingdoms-yellow-turban-rebellion.json](./167646-total-war-three-kingdoms-yellow-turban-rebellion.json) |
 | Total War: Warhammer - Blood For the Blood God | 25660 | [25660-total-war-warhammer-blood-for-the-blood-god.json](./25660-total-war-warhammer-blood-for-the-blood-god.json) |
 | Total War: Warhammer - Bretonnia | 81293 | [81293-total-war-warhammer-bretonnia.json](./81293-total-war-warhammer-bretonnia.json) |
 | Total War: Warhammer - Chaos Warriors | 53832 | [53832-total-war-warhammer-chaos-warriors.json](./53832-total-war-warhammer-chaos-warriors.json) |
@@ -14041,12 +14058,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer II - Rise of the Tomb Kings | 81191 | [81191-total-war-warhammer-ii-rise-of-the-tomb-kings.json](./81191-total-war-warhammer-ii-rise-of-the-tomb-kings.json) |
 | Total War: Warhammer II - Serpent God Edition | 9759 | [9759-total-war-warhammer-ii-serpent-god-edition.json](./9759-total-war-warhammer-ii-serpent-god-edition.json) |
 | Total War: Warhammer II - The Hunter & The Beast | 167627 | [167627-total-war-warhammer-ii-the-hunter-and-the-beast.json](./167627-total-war-warhammer-ii-the-hunter-and-the-beast.json) |
+| Total War: Warhammer II - The Queen & The Crone | 167632 | [167632-total-war-warhammer-ii-the-queen-and-the-crone.json](./167632-total-war-warhammer-ii-the-queen-and-the-crone.json) |
+| Total War: Warhammer II - The Shadow & The Blade | 167630 | [167630-total-war-warhammer-ii-the-shadow-and-the-blade.json](./167630-total-war-warhammer-ii-the-shadow-and-the-blade.json) |
 | Total War: Warhammer II - The Silence & The Fury | 154996 | [154996-total-war-warhammer-ii-the-silence-and-the-fury.json](./154996-total-war-warhammer-ii-the-silence-and-the-fury.json) |
 | Total War: Warhammer II - The Twisted & The Twilight | 167626 | [167626-total-war-warhammer-ii-the-twisted-and-the-twilight.json](./167626-total-war-warhammer-ii-the-twisted-and-the-twilight.json) |
 | Total War: Warhammer II - The Warden & The Paunch | 167629 | [167629-total-war-warhammer-ii-the-warden-and-the-paunch.json](./167629-total-war-warhammer-ii-the-warden-and-the-paunch.json) |
 | Total War: Warhammer II - Thorek Ironbrow | 157543 | [157543-total-war-warhammer-ii-thorek-ironbrow.json](./157543-total-war-warhammer-ii-thorek-ironbrow.json) |
 | Total War: Warhammer II - Tiktaq'to | 167622 | [167622-total-war-warhammer-ii-tiktaqto.json](./167622-total-war-warhammer-ii-tiktaqto.json) |
 | Total War: Warhammer II - Tretch Craventail | 167825 | [167825-total-war-warhammer-ii-tretch-craventail.json](./167825-total-war-warhammer-ii-tretch-craventail.json) |
+| Total War: Warhammer II: Steps of Isha | 167631 | [167631-total-war-warhammer-ii-steps-of-isha.json](./167631-total-war-warhammer-ii-steps-of-isha.json) |
 | Total War: Warhammer III - Bhashiva | 402510 | [402510-total-war-warhammer-iii-bhashiva.json](./402510-total-war-warhammer-iii-bhashiva.json) |
 | Total War: Warhammer III - Blood for the Blood God III | 227239 | [227239-total-war-warhammer-iii-blood-for-the-blood-god-iii.json](./227239-total-war-warhammer-iii-blood-for-the-blood-god-iii.json) |
 | Total War: Warhammer III - Immortal Empires | 203268 | [203268-total-war-warhammer-iii-immortal-empires.json](./203268-total-war-warhammer-iii-immortal-empires.json) |
