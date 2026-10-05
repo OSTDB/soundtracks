@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jellies of the Deep | 309895 | [309895-jellies-of-the-deep.json](./309895-jellies-of-the-deep.json) |
 | Jellies! | 221430 | [221430-jellies.json](./221430-jellies.json) |
 | Jellitito | 340770 | [340770-jellitito.json](./340770-jellitito.json) |
+| Jelly | 163886 | [163886-jelly.json](./163886-jelly.json) |
 | Jelly Allstars | 64134 | [64134-jelly-allstars.json](./64134-jelly-allstars.json) |
 | Jelly Battle | 237305 | [237305-jelly-battle.json](./237305-jelly-battle.json) |
 | Jelly Blocks | 117165 | [117165-jelly-blocks.json](./117165-jelly-blocks.json) |
