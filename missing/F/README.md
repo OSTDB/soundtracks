@@ -1308,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Chores | 304901 | [304901-farm-chores.json](./304901-farm-chores.json) |
 | Farm Day 2023 | 241393 | [241393-farm-day-2023.json](./241393-farm-day-2023.json) |
 | Farm Day Simulator 2024 | 283728 | [283728-farm-day-simulator-2024.json](./283728-farm-day-simulator-2024.json) |
+| Farm Doggie | 131346 | [131346-farm-doggie.json](./131346-farm-doggie.json) |
 | Farm Dream Village Harvest Sim | 101585 | [101585-farm-dream-village-harvest-sim.json](./101585-farm-dream-village-harvest-sim.json) |
 | Farm Dungeons | 158135 | [158135-farm-dungeons.json](./158135-farm-dungeons.json) |
 | Farm Expert 2016: Farm Machines Pack | 263190 | [263190-farm-expert-2016-farm-machines-pack.json](./263190-farm-expert-2016-farm-machines-pack.json) |
@@ -5539,6 +5540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Yellowjacket Pack | 360189 | [360189-fortnite-yellowjacket-pack.json](./360189-fortnite-yellowjacket-pack.json) |
 | FortOfTheNight | 105341 | [105341-fortofthenight.json](./105341-fortofthenight.json) |
 | Fortoresse | 149922 | [149922-fortoresse.json](./149922-fortoresse.json) |
+| Fortress | 131426 | [131426-fortress.json](./131426-fortress.json) |
 | Fortress | 13715 | [13715-fortress.json](./13715-fortress.json) |
 | Fortress | 313492 | [313492-fortress.json](./313492-fortress.json) |
 | Fortress | 319195 | [319195-fortress.json](./319195-fortress.json) |
