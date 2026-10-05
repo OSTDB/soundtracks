@@ -2310,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlecon: Online - Season 2 | 174141 | [174141-battlecon-online-season-2.json](./174141-battlecon-online-season-2.json) |
 | BattleCore Arena | 65825 | [65825-battlecore-arena.json](./65825-battlecore-arena.json) |
 | BattleCourt | 132219 | [132219-battlecourt.json](./132219-battlecourt.json) |
+| Battlecraft | 128947 | [128947-battlecraft.json](./128947-battlecraft.json) |
 | BattleCrew: Space Pirates | 26807 | [26807-battlecrew-space-pirates.json](./26807-battlecrew-space-pirates.json) |
 | BattleCross | 266827 | [266827-battlecross.json](./266827-battlecross.json) |
 | Battlecruiser 3000AD | 77288 | [77288-battlecruiser-3000ad.json](./77288-battlecruiser-3000ad.json) |
@@ -3209,6 +3210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beggar's Road | 406195 | [406195-beggars-road.json](./406195-beggars-road.json) |
 | Begie Ade: A lyric of Lie and Retribution | 153533 | [153533-begie-ade-a-lyric-of-lie-and-retribution.json](./153533-begie-ade-a-lyric-of-lie-and-retribution.json) |
 | Beginning Grammer | 42195 | [42195-beginning-grammer.json](./42195-beginning-grammer.json) |
+| Beglov Style | 129060 | [129060-beglov-style.json](./129060-beglov-style.json) |
 | BeGone | 109038 | [109038-begone.json](./109038-begone.json) |
 | Behemoth | 274122 | [274122-behemoth.json](./274122-behemoth.json) |
 | Behemoth | 320724 | [320724-behemoth.json](./320724-behemoth.json) |
@@ -6448,6 +6450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobby is Going Home | 11140 | [11140-bobby-is-going-home.json](./11140-bobby-is-going-home.json) |
 | Bobby Says: Dance with me! | 67984 | [67984-bobby-says-dance-with-me.json](./67984-bobby-says-dance-with-me.json) |
 | Bobby Six Seven: Time Traveling Detective | 313143 | [313143-bobby-six-seven-time-traveling-detective.json](./313143-bobby-six-seven-time-traveling-detective.json) |
+| Bobby the Gnome | 128979 | [128979-bobby-the-gnome.json](./128979-bobby-the-gnome.json) |
 | Bobby's World | 256298 | [256298-bobbys-world.json](./256298-bobbys-world.json) |
 | Bobby's World | 42566 | [42566-bobbys-world.json](./42566-bobbys-world.json) |
 | Bobcos | 368479 | [368479-bobcos.json](./368479-bobcos.json) |
@@ -8712,6 +8715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubba Yuga | 383523 | [383523-bubba-yuga.json](./383523-bubba-yuga.json) |
 | Bubbaruka! | 149483 | [149483-bubbaruka.json](./149483-bubbaruka.json) |
 | Bubbelsche Deluxe | 322062 | [322062-bubbelsche-deluxe.json](./322062-bubbelsche-deluxe.json) |
+| Bubberknuckles | 129044 | [129044-bubberknuckles.json](./129044-bubberknuckles.json) |
 | Bubbits | 319971 | [319971-bubbits.json](./319971-bubbits.json) |
 | Bubblbrst | 24081 | [24081-bubblbrst.json](./24081-bubblbrst.json) |
 | Bubble | 287650 | [287650-bubble.json](./287650-bubble.json) |
