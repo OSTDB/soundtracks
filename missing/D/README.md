@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dànzhàrén 2222 | 81758 | [81758-danzharen-2222.json](./81758-danzharen-2222.json) |
 | Dāo Qūqū | 374621 | [374621-dao-ququ.json](./374621-dao-ququ.json) |
 | Dào zhī Zhàn | 367570 | [367570-dao-zhi-zhan.json](./367570-dao-zhi-zhan.json) |
+| Dap | 143326 | [143326-dap.json](./143326-dap.json) |
 | Dapithapon | 341088 | [341088-dapithapon.json](./341088-dapithapon.json) |
 | Darco: Reign of Elements | 90092 | [90092-darco-reign-of-elements.json](./90092-darco-reign-of-elements.json) |
 | Dardeep | 232967 | [232967-dardeep.json](./232967-dardeep.json) |
@@ -1236,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Dash Delivery | 160264 | [160264-dash-dash-delivery.json](./160264-dash-dash-delivery.json) |
 | Dash Dash Run! | 54505 | [54505-dash-dash-run.json](./54505-dash-dash-run.json) |
 | Dash For Your Life | 257911 | [257911-dash-for-your-life.json](./257911-dash-for-your-life.json) |
+| Dash Hale | 143377 | [143377-dash-hale.json](./143377-dash-hale.json) |
 | Dash Lamb | 154064 | [154064-dash-lamb.json](./154064-dash-lamb.json) |
 | Dash or Die | 285441 | [285441-dash-or-die.json](./285441-dash-or-die.json) |
 | Dash Out | 217308 | [217308-dash-out.json](./217308-dash-out.json) |
