@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānguózhì: Chìbì zhī Zhàn | 48289 | [48289-sanguozhi-chibi-zhi-zhan.json](./48289-sanguozhi-chibi-zhi-zhan.json) |
 | Sangwich | 186069 | [186069-sangwich.json](./186069-sangwich.json) |
 | Sani Yang's Laboratory | 330229 | [330229-sani-yangs-laboratory.json](./330229-sani-yangs-laboratory.json) |
+| Sanic Ball | 136820 | [136820-sanic-ball.json](./136820-sanic-ball.json) |
 | Sanitarium Massacre | 62684 | [62684-sanitarium-massacre.json](./62684-sanitarium-massacre.json) |
 | Sanity Break | 369013 | [369013-sanity-break.json](./369013-sanity-break.json) |
 | Sanity of Morris | 137638 | [137638-sanity-of-morris.json](./137638-sanity-of-morris.json) |
@@ -4372,6 +4373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shí zhī Fēi | 119565 | [119565-shi-zhi-fei.json](./119565-shi-zhi-fei.json) |
 | Shi's Summer Battle | 360683 | [360683-shis-summer-battle.json](./360683-shis-summer-battle.json) |
 | Shia LaBeouf: Meme Master Dating Simulator | 12076 | [12076-shia-labeouf-meme-master-dating-simulator.json](./12076-shia-labeouf-meme-master-dating-simulator.json) |
+| Shiawase Shou no Kanrinin-san | 136792 | [136792-shiawase-shou-no-kanrinin-san.json](./136792-shiawase-shou-no-kanrinin-san.json) |
 | Shiba Cafe | 177516 | [177516-shiba-cafe.json](./177516-shiba-cafe.json) |
 | Shiba Eternity | 221385 | [221385-shiba-eternity.json](./221385-shiba-eternity.json) |
 | Shiba Inu Rescue | 147381 | [147381-shiba-inu-rescue.json](./147381-shiba-inu-rescue.json) |
@@ -4760,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shirogane no Cal to Soukuu no Joou Genteiban | 408268 | [408268-shirogane-no-cal-to-soukuu-no-joou-genteiban.json](./408268-shirogane-no-cal-to-soukuu-no-joou-genteiban.json) |
 | Shirogane no Torikago: The Angels with Strange Wings | 77921 | [77921-shirogane-no-torikago-the-angels-with-strange-wings.json](./77921-shirogane-no-torikago-the-angels-with-strange-wings.json) |
 | Shirogane x Spirits | 216352 | [216352-shirogane-x-spirits.json](./216352-shirogane-x-spirits.json) |
+| Shiroki Koutetsu no X: The Out of Gunvolt | 136781 | [136781-shiroki-koutetsu-no-x-the-out-of-gunvolt.json](./136781-shiroki-koutetsu-no-x-the-out-of-gunvolt.json) |
 | Shirokoi Sakura Gram | 370245 | [370245-shirokoi-sakura-gram.json](./370245-shirokoi-sakura-gram.json) |
 | ShiroKuro Iede Gyaru: Tomete Kuretara Nandemo Suru yo | 82999 | [82999-shirokuro-iede-gyaru-tomete-kuretara-nandemo-suru-yo.json](./82999-shirokuro-iede-gyaru-tomete-kuretara-nandemo-suru-yo.json) |
 | Shirokuro: Shikijoushou no Osananajimi wo Sewa suru koto ni natta, Kanojo ni naisho de | 323855 | [323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json](./323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json) |
@@ -9281,6 +9284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Celerity | 336344 | [336344-sonic-celerity.json](./336344-sonic-celerity.json) |
 | Sonic Champions | 330527 | [330527-sonic-champions.json](./330527-sonic-champions.json) |
 | Sonic Chances | 318514 | [318514-sonic-chances.json](./318514-sonic-chances.json) |
+| Sonic Chaos | 136816 | [136816-sonic-chaos.json](./136816-sonic-chaos.json) |
 | Sonic Chaos Planet | 330711 | [330711-sonic-chaos-planet.json](./330711-sonic-chaos-planet.json) |
 | Sonic Chaos Remake | 321992 | [321992-sonic-chaos-remake.json](./321992-sonic-chaos-remake.json) |
 | Sonic Chaos Revolution | 329946 | [329946-sonic-chaos-revolution.json](./329946-sonic-chaos-revolution.json) |
@@ -9559,6 +9563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Stars | 331865 | [331865-sonic-stars.json](./331865-sonic-stars.json) |
 | Sonic Streak 2 | 330867 | [330867-sonic-streak-2.json](./330867-sonic-streak-2.json) |
 | Sonic StrikerZ | 316424 | [316424-sonic-strikerz.json](./316424-sonic-strikerz.json) |
+| Sonic Suggests | 136822 | [136822-sonic-suggests.json](./136822-sonic-suggests.json) |
 | Sonic Sundown | 321395 | [321395-sonic-sundown.json](./321395-sonic-sundown.json) |
 | Sonic Sunventure | 270221 | [270221-sonic-sunventure.json](./270221-sonic-sunventure.json) |
 | Sonic Superstars: Digital Deluxe Edition featuring LEGO | 263550 | [263550-sonic-superstars-digital-deluxe-edition-featuring-lego.json](./263550-sonic-superstars-digital-deluxe-edition-featuring-lego.json) |
@@ -9648,6 +9653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog's Gameworld | 52188 | [52188-sonic-the-hedgehogs-gameworld.json](./52188-sonic-the-hedgehogs-gameworld.json) |
 | Sonic ThirdScape | 330821 | [330821-sonic-thirdscape.json](./330821-sonic-thirdscape.json) |
 | Sonic Triple Link | 330522 | [330522-sonic-triple-link.json](./330522-sonic-triple-link.json) |
+| Sonic Triple Trouble 16-Bit | 136814 | [136814-sonic-triple-trouble-16-bit.json](./136814-sonic-triple-trouble-16-bit.json) |
 | Sonic Turbo 2 | 331707 | [331707-sonic-turbo-2.json](./331707-sonic-turbo-2.json) |
 | Sonic Tweet | 63904 | [63904-sonic-tweet.json](./63904-sonic-tweet.json) |
 | Sonic Ultimate: New Beginnings | 330310 | [330310-sonic-ultimate-new-beginnings.json](./330310-sonic-ultimate-new-beginnings.json) |
