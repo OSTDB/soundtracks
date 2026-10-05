@@ -2243,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vulcan Sacrifice | 53880 | [53880-vulcan-sacrifice.json](./53880-vulcan-sacrifice.json) |
 | Vulcan Tower Defence | 234759 | [234759-vulcan-tower-defence.json](./234759-vulcan-tower-defence.json) |
 | Vulcard | 351715 | [351715-vulcard.json](./351715-vulcard.json) |
+| Vulgord's Tower | 151292 | [151292-vulgords-tower.json](./151292-vulgords-tower.json) |
 | Vulgus | 25886 | [25886-vulgus.json](./25886-vulgus.json) |
 | Vulpine | 82477 | [82477-vulpine.json](./82477-vulpine.json) |
 | Vulpis | 253501 | [253501-vulpis.json](./253501-vulpis.json) |
