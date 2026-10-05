@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabauken: Spirit Resort | 400394 | [400394-rabauken-spirit-resort.json](./400394-rabauken-spirit-resort.json) |
 | Rabbi-T | 240780 | [240780-rabbi-t.json](./240780-rabbi-t.json) |
 | Rabbids Big Bang | 61635 | [61635-rabbids-big-bang.json](./61635-rabbids-big-bang.json) |
+| Rabbids Coding! | 125162 | [125162-rabbids-coding.json](./125162-rabbids-coding.json) |
 | Rabbids Crazy Rush | 90356 | [90356-rabbids-crazy-rush.json](./90356-rabbids-crazy-rush.json) |
 | Rabbids Go Home | 193295 | [193295-rabbids-go-home.json](./193295-rabbids-go-home.json) |
 | Rabbids Go Home | 2190 | [2190-rabbids-go-home.json](./2190-rabbids-go-home.json) |
@@ -3825,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricky Raccoon | 34666 | [34666-ricky-raccoon.json](./34666-ricky-raccoon.json) |
 | Ricky Recharge | 121593 | [121593-ricky-recharge.json](./121593-ricky-recharge.json) |
 | Ricky's Furry Duck Hunt | 255265 | [255265-rickys-furry-duck-hunt.json](./255265-rickys-furry-duck-hunt.json) |
+| Rico: A Tale of Two Brothers | 125184 | [125184-rico-a-tale-of-two-brothers.json](./125184-rico-a-tale-of-two-brothers.json) |
 | Ricochet | 209166 | [209166-ricochet.json](./209166-ricochet.json) |
 | Ricochet | 368008 | [368008-ricochet.json](./368008-ricochet.json) |
 | Ricochet | 7589 | [7589-ricochet.json](./7589-ricochet.json) |
@@ -5217,6 +5219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 3: Burst Chaser | 304132 | [304132-rockman-3-burst-chaser.json](./304132-rockman-3-burst-chaser.json) |
 | Rockman 3: Claw | 269880 | [269880-rockman-3-claw.json](./269880-rockman-3-claw.json) |
 | Rockman 3: The Last of Mushroom Kingdom?! | 245360 | [245360-rockman-3-the-last-of-mushroom-kingdom.json](./245360-rockman-3-the-last-of-mushroom-kingdom.json) |
+| Rockman 4 Minus Infinity | 125157 | [125157-rockman-4-minus-infinity.json](./125157-rockman-4-minus-infinity.json) |
 | Rockman 4: Burst Chaser X Air Sliding | 245380 | [245380-rockman-4-burst-chaser-x-air-sliding.json](./245380-rockman-4-burst-chaser-x-air-sliding.json) |
 | Rockman 5: Double Jumper | 322118 | [322118-rockman-5-double-jumper.json](./322118-rockman-5-double-jumper.json) |
 | Rockman 7 EP | 212782 | [212782-rockman-7-ep.json](./212782-rockman-7-ep.json) |
@@ -6912,6 +6915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusl | 211651 | [211651-rusl.json](./211651-rusl.json) |
 | Ruslicstan Invades | 238497 | [238497-ruslicstan-invades.json](./238497-ruslicstan-invades.json) |
 | Russi.a Simulator | 105148 | [105148-russi-a-simulator.json](./105148-russi-a-simulator.json) |
+| Russia 2055 | 125293 | [125293-russia-2055.json](./125293-russia-2055.json) |
 | Russia Horror 20!8 | 90212 | [90212-russia-horror-20-8.json](./90212-russia-horror-20-8.json) |
 | Russia Inside Out: New Year | 368072 | [368072-russia-inside-out-new-year.json](./368072-russia-inside-out-new-year.json) |
 | Russia Roguelike | 116117 | [116117-russia-roguelike.json](./116117-russia-roguelike.json) |
