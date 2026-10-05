@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jarokn Cricket 2 | 62176 | [62176-jarokn-cricket-2.json](./62176-jarokn-cricket-2.json) |
 | Jarpug | 259012 | [259012-jarpug.json](./259012-jarpug.json) |
 | Jarrett & Labonte Stock Car Racing | 80496 | [80496-jarrett-and-labonte-stock-car-racing.json](./80496-jarrett-and-labonte-stock-car-racing.json) |
+| Jars | 167184 | [167184-jars.json](./167184-jars.json) |
 | Jartycuck's Basics in Coal and Goonin 2 'p | 400943 | [400943-jartycucks-basics-in-coal-and-goonin-2-p.json](./400943-jartycucks-basics-in-coal-and-goonin-2-p.json) |
 | Jarvis | 59383 | [59383-jarvis.json](./59383-jarvis.json) |
 | JASBIAC | 302619 | [302619-jasbiac.json](./302619-jasbiac.json) |
@@ -925,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle | 359084 | [359084-jigsaw-puzzle.json](./359084-jigsaw-puzzle.json) |
 | Jigsaw Puzzle Bug | 167672 | [167672-jigsaw-puzzle-bug.json](./167672-jigsaw-puzzle-bug.json) |
 | Jigsaw Puzzle Cats Kitten | 202765 | [202765-jigsaw-puzzle-cats-kitten.json](./202765-jigsaw-puzzle-cats-kitten.json) |
+| Jigsaw Puzzle Dreams | 167128 | [167128-jigsaw-puzzle-dreams.json](./167128-jigsaw-puzzle-dreams.json) |
 | Jigsaw Puzzle Dreams: Idyllic Pack | 226855 | [226855-jigsaw-puzzle-dreams-idyllic-pack.json](./226855-jigsaw-puzzle-dreams-idyllic-pack.json) |
 | Jigsaw Puzzle Dreams: Radiant Pack | 226856 | [226856-jigsaw-puzzle-dreams-radiant-pack.json](./226856-jigsaw-puzzle-dreams-radiant-pack.json) |
 | Jigsaw Puzzle Dreams: Scenic Pack | 226857 | [226857-jigsaw-puzzle-dreams-scenic-pack.json](./226857-jigsaw-puzzle-dreams-scenic-pack.json) |
