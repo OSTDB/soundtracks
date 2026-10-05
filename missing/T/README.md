@@ -2581,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terres: Supporter Pack | 323240 | [323240-terres-supporter-pack.json](./323240-terres-supporter-pack.json) |
 | Terrestial | 250929 | [250929-terrestial.json](./250929-terrestial.json) |
 | Terrestrial | 311826 | [311826-terrestrial.json](./311826-terrestrial.json) |
+| Terri-Fried | 135074 | [135074-terri-fried.json](./135074-terri-fried.json) |
 | Terrianis | 269759 | [269759-terrianis.json](./269759-terrianis.json) |
 | Terrible Beast from the East | 111602 | [111602-terrible-beast-from-the-east.json](./111602-terrible-beast-from-the-east.json) |
 | Terrible Clicking Game | 215391 | [215391-terrible-clicking-game.json](./215391-terrible-clicking-game.json) |
@@ -7624,6 +7625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moroccan Castle 3: Behind The Secrets | 242229 | [242229-the-moroccan-castle-3-behind-the-secrets.json](./242229-the-moroccan-castle-3-behind-the-secrets.json) |
 | The Moron Test | 117757 | [117757-the-moron-test.json](./117757-the-moron-test.json) |
 | The Morphine Western Revenge | 185622 | [185622-the-morphine-western-revenge.json](./185622-the-morphine-western-revenge.json) |
+| The Morrison Survival Game | 135070 | [135070-the-morrison-survival-game.json](./135070-the-morrison-survival-game.json) |
 | The Mortimer Paradox | 390616 | [390616-the-mortimer-paradox.json](./390616-the-mortimer-paradox.json) |
 | The Mortuary Assistant | 133131 | [133131-the-mortuary-assistant.json](./133131-the-mortuary-assistant.json) |
 | The Mortuary Assistant: Definitive Edition | 312284 | [312284-the-mortuary-assistant-definitive-edition.json](./312284-the-mortuary-assistant-definitive-edition.json) |
@@ -8177,6 +8179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Polar Explorer: Hokkyoku he no VR Soriasobi | 308903 | [308903-the-polar-explorer-hokkyoku-he-no-vr-soriasobi.json](./308903-the-polar-explorer-hokkyoku-he-no-vr-soriasobi.json) |
 | The Polar Express | 210732 | [210732-the-polar-express.json](./210732-the-polar-express.json) |
 | The Police Interceptors Simulator: War Against Racers | 263111 | [263111-the-police-interceptors-simulator-war-against-racers.json](./263111-the-police-interceptors-simulator-war-against-racers.json) |
+| The Political Compass: Devil's Labyrinth | 135063 | [135063-the-political-compass-devils-labyrinth.json](./135063-the-political-compass-devils-labyrinth.json) |
 | The Political Machine 2008 | 50866 | [50866-the-political-machine-2008.json](./50866-the-political-machine-2008.json) |
 | The Political Machine 2020 | 129073 | [129073-the-political-machine-2020.json](./129073-the-political-machine-2020.json) |
 | The Political Machine 2024 | 275696 | [275696-the-political-machine-2024.json](./275696-the-political-machine-2024.json) |
@@ -9274,6 +9277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Space Between | 378418 | [378418-the-space-between.json](./378418-the-space-between.json) |
 | The Space Opera "Dragon Eyes" | 125954 | [125954-the-space-opera-dragon-eyes.json](./125954-the-space-opera-dragon-eyes.json) |
 | The Space Sim | 179057 | [179057-the-space-sim.json](./179057-the-space-sim.json) |
+| The Spark of One | 135064 | [135064-the-spark-of-one.json](./135064-the-spark-of-one.json) |
 | The Spatials | 51520 | [51520-the-spatials.json](./51520-the-spatials.json) |
 | The Spatials Collection | 53775 | [53775-the-spatials-collection.json](./53775-the-spatials-collection.json) |
 | The Speaker | 59676 | [59676-the-speaker.json](./59676-the-speaker.json) |
@@ -9981,6 +9985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trivial Dead | 145649 | [145649-the-trivial-dead.json](./145649-the-trivial-dead.json) |
 | The Troll | 265623 | [265623-the-troll.json](./265623-the-troll.json) |
 | The Troll & The Witch's House | 350437 | [350437-the-troll-and-the-witchs-house.json](./350437-the-troll-and-the-witchs-house.json) |
+| The Trolley | 134996 | [134996-the-trolley.json](./134996-the-trolley.json) |
 | The Trolley Problem Game | 172138 | [172138-the-trolley-problem-game.json](./172138-the-trolley-problem-game.json) |
 | The Trolls in Crazyland | 48706 | [48706-the-trolls-in-crazyland.json](./48706-the-trolls-in-crazyland.json) |
 | The True Arena | 271412 | [271412-the-true-arena.json](./271412-the-true-arena.json) |
@@ -16446,6 +16451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Time | 115155 | [115155-trash-time.json](./115155-trash-time.json) |
 | Trash Troopers: Earth Reclaim | 273933 | [273933-trash-troopers-earth-reclaim.json](./273933-trash-troopers-earth-reclaim.json) |
 | Trash Tycoon | 204416 | [204416-trash-tycoon.json](./204416-trash-tycoon.json) |
+| Trash Wars | 134974 | [134974-trash-wars.json](./134974-trash-wars.json) |
 | Trash Wars | 356708 | [356708-trash-wars.json](./356708-trash-wars.json) |
 | Trashcan Simulator | 329594 | [329594-trashcan-simulator.json](./329594-trashcan-simulator.json) |
 | Trashed | 143592 | [143592-trashed.json](./143592-trashed.json) |
