@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Live! | 78327 | [78327-mafia-live.json](./78327-mafia-live.json) |
 | Mafia Online | 266991 | [266991-mafia-online.json](./266991-mafia-online.json) |
 | Mafia Online | 403813 | [403813-mafia-online.json](./403813-mafia-online.json) |
+| Mafia Online: Wild West | 145258 | [145258-mafia-online-wild-west.json](./145258-mafia-online-wild-west.json) |
 | Mafia Pinball | 97149 | [97149-mafia-pinball.json](./97149-mafia-pinball.json) |
 | Mafia Pizza: Family Business | 416666 | [416666-mafia-pizza-family-business.json](./416666-mafia-pizza-family-business.json) |
 | Mafia Reigns: Power And Blood | 318405 | [318405-mafia-reigns-power-and-blood.json](./318405-mafia-reigns-power-and-blood.json) |
@@ -6817,6 +6818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Murder Mysteries | 405019 | [405019-mini-murder-mysteries.json](./405019-mini-murder-mysteries.json) |
 | Mini Pipes | 195147 | [195147-mini-pipes.json](./195147-mini-pipes.json) |
 | Mini Pocket Racers | 238394 | [238394-mini-pocket-racers.json](./238394-mini-pocket-racers.json) |
+| Mini Prince | 145286 | [145286-mini-prince.json](./145286-mini-prince.json) |
 | Mini Puzzle Balls | 147784 | [147784-mini-puzzle-balls.json](./147784-mini-puzzle-balls.json) |
 | mini PVP | 118088 | [118088-mini-pvp.json](./118088-mini-pvp.json) |
 | Mini Quests | 207852 | [207852-mini-quests.json](./207852-mini-quests.json) |
