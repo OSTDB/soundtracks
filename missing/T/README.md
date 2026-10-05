@@ -17738,6 +17738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Faced | 300719 | [300719-two-faced.json](./300719-two-faced.json) |
 | Two For One | 118299 | [118299-two-for-one.json](./118299-two-for-one.json) |
 | Two Girls Make a Game | 178536 | [178536-two-girls-make-a-game.json](./178536-two-girls-make-a-game.json) |
+| Two girls punch me repeatedly | 162746 | [162746-two-girls-punch-me-repeatedly.json](./162746-two-girls-punch-me-repeatedly.json) |
 | Two Guns | 117680 | [117680-two-guns.json](./117680-two-guns.json) |
 | Two Handed Mage | 187223 | [187223-two-handed-mage.json](./187223-two-handed-mage.json) |
 | Two Heads of the Coin | 86082 | [86082-two-heads-of-the-coin.json](./86082-two-heads-of-the-coin.json) |
