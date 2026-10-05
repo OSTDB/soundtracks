@@ -1454,6 +1454,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kilubu Magic Potions 2 | 213397 | [213397-kilubu-magic-potions-2.json](./213397-kilubu-magic-potions-2.json) |
 | Kim | 25225 | [25225-kim.json](./25225-kim.json) |
 | Kim and Prostitute | 102410 | [102410-kim-and-prostitute.json](./102410-kim-and-prostitute.json) |
+| Kim Possible: A Sitch in Time - Episode 1: Present | 159199 | [159199-kim-possible-a-sitch-in-time-episode-1-present.json](./159199-kim-possible-a-sitch-in-time-episode-1-present.json) |
+| Kim Possible: A Sitch in Time - Episode 2: Past | 159200 | [159200-kim-possible-a-sitch-in-time-episode-2-past.json](./159200-kim-possible-a-sitch-in-time-episode-2-past.json) |
+| Kim Possible: A Sitch in Time - Episode 3: Future | 159201 | [159201-kim-possible-a-sitch-in-time-episode-3-future.json](./159201-kim-possible-a-sitch-in-time-episode-3-future.json) |
+| Kim Possible: Bueno Rufus | 159203 | [159203-kim-possible-bueno-rufus.json](./159203-kim-possible-bueno-rufus.json) |
 | Kim Shooter | 116319 | [116319-kim-shooter.json](./116319-kim-shooter.json) |
 | Kimagure Orange Road: Natsu no Mirage | 91765 | [91765-kimagure-orange-road-natsu-no-mirage.json](./91765-kimagure-orange-road-natsu-no-mirage.json) |
 | Kimagure Strawberry Café | 203323 | [203323-kimagure-strawberry-cafe.json](./203323-kimagure-strawberry-cafe.json) |
