@@ -2985,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fine Artist Color Pixel Number | 267412 | [267412-fine-artist-color-pixel-number.json](./267412-fine-artist-color-pixel-number.json) |
 | Fine Sweeper | 35349 | [35349-fine-sweeper.json](./35349-fine-sweeper.json) |
 | Fine Work Act I | 285980 | [285980-fine-work-act-i.json](./285980-fine-work-act-i.json) |
+| Finely Crafted Fetish Film | 140921 | [140921-finely-crafted-fetish-film.json](./140921-finely-crafted-fetish-film.json) |
 | Finesse | 248599 | [248599-finesse.json](./248599-finesse.json) |
 | Finest Hour | 40331 | [40331-finest-hour.json](./40331-finest-hour.json) |
 | Finger Balance | 175215 | [175215-finger-balance.json](./175215-finger-balance.json) |
@@ -3812,6 +3813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flail | 402415 | [402415-flail.json](./402415-flail.json) |
 | Flail Faster | 211823 | [211823-flail-faster.json](./211823-flail-faster.json) |
 | Flailing Limbs Bundle | 107266 | [107266-flailing-limbs-bundle.json](./107266-flailing-limbs-bundle.json) |
+| Flailure | 140904 | [140904-flailure.json](./140904-flailure.json) |
 | Flain: Tao force & Cubes | 153433 | [153433-flain-tao-force-and-cubes.json](./153433-flain-tao-force-and-cubes.json) |
 | Flair | 391197 | [391197-flair.json](./391197-flair.json) |
 | Flairtender | 29635 | [29635-flairtender.json](./29635-flairtender.json) |
@@ -7455,6 +7457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzoku Frame | 368118 | [368118-fuzoku-frame.json](./368118-fuzoku-frame.json) |
 | Fuzz | 240718 | [240718-fuzz.json](./240718-fuzz.json) |
 | Fuzzball | 69573 | [69573-fuzzball.json](./69573-fuzzball.json) |
+| FuzzBall | 140938 | [140938-fuzzball.json](./140938-fuzzball.json) |
 | Fuzzy | 331489 | [331489-fuzzy.json](./331489-fuzzy.json) |
 | Fuzzy Critters | 104644 | [104644-fuzzy-critters.json](./104644-fuzzy-critters.json) |
 | Fuzzy McFluffenstein | 337205 | [337205-fuzzy-mcfluffenstein.json](./337205-fuzzy-mcfluffenstein.json) |
