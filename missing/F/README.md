@@ -5893,6 +5893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frag Ops | 272322 | [272322-frag-ops.json](./272322-frag-ops.json) |
 | Frag the Tanks | 55261 | [55261-frag-the-tanks.json](./55261-frag-the-tanks.json) |
 | Frag-A-Friend | 408165 | [408165-frag-a-friend.json](./408165-frag-a-friend.json) |
+| Frag: Pro Shooter | 125868 | [125868-frag-pro-shooter.json](./125868-frag-pro-shooter.json) |
 | Frag: Pro Shooter - Arena 11-13 Pro Player Pack | 324409 | [324409-frag-pro-shooter-arena-11-13-pro-player-pack.json](./324409-frag-pro-shooter-arena-11-13-pro-player-pack.json) |
 | Frag: Pro Shooter - Arena 2-4 Exclusive Character Pack | 324412 | [324412-frag-pro-shooter-arena-2-4-exclusive-character-pack.json](./324412-frag-pro-shooter-arena-2-4-exclusive-character-pack.json) |
 | Frag: Pro Shooter - Arena 5-7 Power Warriors Pack | 324410 | [324410-frag-pro-shooter-arena-5-7-power-warriors-pack.json](./324410-frag-pro-shooter-arena-5-7-power-warriors-pack.json) |
@@ -7415,6 +7416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari's Sex World! | 382314 | [382314-futanaris-sex-world.json](./382314-futanaris-sex-world.json) |
 | Futari ha Haipuri | 97718 | [97718-futari-ha-haipuri.json](./97718-futari-ha-haipuri.json) |
 | Futari ha Precure: Arienai! Yume no Sono ha Daimeikyuu | 49569 | [49569-futari-ha-precure-arienai-yume-no-sono-ha-daimeikyuu.json](./49569-futari-ha-precure-arienai-yume-no-sono-ha-daimeikyuu.json) |
+| Futari ha Pretty Cure Max Heart | 125788 | [125788-futari-ha-pretty-cure-max-heart.json](./125788-futari-ha-pretty-cure-max-heart.json) |
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
 | Futari ha Pretty Cure Splash Star: Panpaka Game de Zekkou-chou! | 168329 | [168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json](./168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json) |
 | Futari wa Precure Max Heart: Maji? Maji!? Fight de IN Janai | 49568 | [49568-futari-wa-precure-max-heart-maji-maji-fight-de-in-janai.json](./49568-futari-wa-precure-max-heart-maji-maji-fight-de-in-janai.json) |
