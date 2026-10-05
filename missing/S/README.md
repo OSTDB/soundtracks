@@ -2075,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scurvy Dogs | 224761 | [224761-scurvy-dogs.json](./224761-scurvy-dogs.json) |
 | Scuttle | 285697 | [285697-scuttle.json](./285697-scuttle.json) |
 | Scuttle's Thingamubobs | 246533 | [246533-scuttles-thingamubobs.json](./246533-scuttles-thingamubobs.json) |
+| Scythe | 133255 | [133255-scythe.json](./133255-scythe.json) |
 | Scythe Shepard | 276717 | [276717-scythe-shepard.json](./276717-scythe-shepard.json) |
 | Scythe X | 137667 | [137667-scythe-x.json](./137667-scythe-x.json) |
 | Scythe: Digital Edition - Invaders from Afar | 154948 | [154948-scythe-digital-edition-invaders-from-afar.json](./154948-scythe-digital-edition-invaders-from-afar.json) |
@@ -2382,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Second | 110776 | [110776-second-second.json](./110776-second-second.json) |
 | Second Sight Dilemma | 383073 | [383073-second-sight-dilemma.json](./383073-second-sight-dilemma.json) |
 | Second Soul | 202407 | [202407-second-soul.json](./202407-second-soul.json) |
+| Second Star | 133181 | [133181-second-star.json](./133181-second-star.json) |
 | Second Stone | 216314 | [216314-second-stone.json](./216314-second-stone.json) |
 | Second Story | 59688 | [59688-second-story.json](./59688-second-story.json) |
 | Second Sun | 244915 | [244915-second-sun.json](./244915-second-sun.json) |
@@ -8302,6 +8304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowball Go Go Go | 247208 | [247208-snowball-go-go-go.json](./247208-snowball-go-go-go.json) |
 | Snowball Run | 93156 | [93156-snowball-run.json](./93156-snowball-run.json) |
 | Snowball.io | 231898 | [231898-snowball-io.json](./231898-snowball-io.json) |
+| Snowballer | 133186 | [133186-snowballer.json](./133186-snowballer.json) |
 | Snowballs | 221083 | [221083-snowballs.json](./221083-snowballs.json) |
 | Snowbird Solitaire | 354998 | [354998-snowbird-solitaire.json](./354998-snowbird-solitaire.json) |
 | Snowblind Aces | 216239 | [216239-snowblind-aces.json](./216239-snowblind-aces.json) |
@@ -8824,6 +8827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solebon Solitaire | 87541 | [87541-solebon-solitaire.json](./87541-solebon-solitaire.json) |
 | Solemn Knights: Entirely Ours | 254421 | [254421-solemn-knights-entirely-ours.json](./254421-solemn-knights-entirely-ours.json) |
 | Solemn Warriors | 330187 | [330187-solemn-warriors.json](./330187-solemn-warriors.json) |
+| Solenars Edge II: Aurora of The Seventh Dawn | 133182 | [133182-solenars-edge-ii-aurora-of-the-seventh-dawn.json](./133182-solenars-edge-ii-aurora-of-the-seventh-dawn.json) |
 | Solenars Edge Rebirth: After Story | 174173 | [174173-solenars-edge-rebirth-after-story.json](./174173-solenars-edge-rebirth-after-story.json) |
 | Soletrando: Nova Ortografia | 181940 | [181940-soletrando-nova-ortografia.json](./181940-soletrando-nova-ortografia.json) |
 | SolForge | 16487 | [16487-solforge.json](./16487-solforge.json) |
@@ -10328,6 +10332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ashes | 109899 | [109899-space-ashes.json](./109899-space-ashes.json) |
 | Space Assault | 42134 | [42134-space-assault.json](./42134-space-assault.json) |
 | Space Attack | 38573 | [38573-space-attack.json](./38573-space-attack.json) |
+| Space Avenger: Empire of Nexx | 133185 | [133185-space-avenger-empire-of-nexx.json](./133185-space-avenger-empire-of-nexx.json) |
 | Space Badminton VR | 29853 | [29853-space-badminton-vr.json](./29853-space-badminton-vr.json) |
 | Space Ball VR | 258602 | [258602-space-ball-vr.json](./258602-space-ball-vr.json) |
 | Space Baller | 133431 | [133431-space-baller.json](./133431-space-baller.json) |
