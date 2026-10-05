@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caduceus | 186190 | [186190-caduceus.json](./186190-caduceus.json) |
 | Cadwallon: City of Thieves | 87615 | [87615-cadwallon-city-of-thieves.json](./87615-cadwallon-city-of-thieves.json) |
 | Caelum's Crux | 389619 | [389619-caelums-crux.json](./389619-caelums-crux.json) |
+| Caesar Empire War | 150263 | [150263-caesar-empire-war.json](./150263-caesar-empire-war.json) |
 | Caesar Palace Slots | 200504 | [200504-caesar-palace-slots.json](./200504-caesar-palace-slots.json) |
 | Caesar's Palace VIP Series: BlackJack | 206699 | [206699-caesars-palace-vip-series-blackjack.json](./206699-caesars-palace-vip-series-blackjack.json) |
 | Caesar's Travels | 73307 | [73307-caesars-travels.json](./73307-caesars-travels.json) |
@@ -4824,6 +4825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Night Rider | 101505 | [101505-city-night-rider.json](./101505-city-night-rider.json) |
 | City of Atlantis | 153911 | [153911-city-of-atlantis.json](./153911-city-of-atlantis.json) |
 | City of Brass | 44122 | [44122-city-of-brass.json](./44122-city-of-brass.json) |
+| City of Brave | 150248 | [150248-city-of-brave.json](./150248-city-of-brave.json) |
 | City of Broken Dreamers: Book One | 172514 | [172514-city-of-broken-dreamers-book-one.json](./172514-city-of-broken-dreamers-book-one.json) |
 | City of Cards | 171555 | [171555-city-of-cards.json](./171555-city-of-cards.json) |
 | City of Cats | 380073 | [380073-city-of-cats.json](./380073-city-of-cats.json) |
@@ -7440,6 +7442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Run: Witch's Castle | 193964 | [193964-cookie-run-witchs-castle.json](./193964-cookie-run-witchs-castle.json) |
 | Cookie Shop: Create Your Dream Shop | 151253 | [151253-cookie-shop-create-your-dream-shop.json](./151253-cookie-shop-create-your-dream-shop.json) |
 | Cookie Smash: Cookie Mania | 267338 | [267338-cookie-smash-cookie-mania.json](./267338-cookie-smash-cookie-mania.json) |
+| Cookie Store | 150282 | [150282-cookie-store.json](./150282-cookie-store.json) |
 | Cookie's Bakery | 181856 | [181856-cookies-bakery.json](./181856-cookies-bakery.json) |
 | Cookie's Bustle | 122887 | [122887-cookies-bustle.json](./122887-cookies-bustle.json) |
 | Cookies | 146702 | [146702-cookies.json](./146702-cookies.json) |
@@ -8473,6 +8476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crappy Game | 283808 | [283808-crappy-game.json](./283808-crappy-game.json) |
 | Craps | 386682 | [386682-craps.json](./386682-craps.json) |
 | Craps | 88483 | [88483-craps.json](./88483-craps.json) |
+| Craps at Aces Casino | 150260 | [150260-craps-at-aces-casino.json](./150260-craps-at-aces-casino.json) |
 | Craps HD | 89674 | [89674-craps-hd.json](./89674-craps-hd.json) |
 | Crapshoot | 380095 | [380095-crapshoot.json](./380095-crapshoot.json) |
 | CrapShoot | 319239 | [319239-crapshoot.json](./319239-crapshoot.json) |
