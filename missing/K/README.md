@@ -3261,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KunKunPrison | 384772 | [384772-kunkunprison.json](./384772-kunkunprison.json) |
 | Kunlun Fight | 30180 | [30180-kunlun-fight.json](./30180-kunlun-fight.json) |
 | Kunoichi Beat | 369589 | [369589-kunoichi-beat.json](./369589-kunoichi-beat.json) |
+| Kunoichi Ninja | 122218 | [122218-kunoichi-ninja.json](./122218-kunoichi-ninja.json) |
 | Kunoichi Torimonocho | 123577 | [123577-kunoichi-torimonocho.json](./123577-kunoichi-torimonocho.json) |
 | Kunoichi Trainer | 343453 | [343453-kunoichi-trainer.json](./343453-kunoichi-trainer.json) |
 | KunSpace | 365816 | [365816-kunspace.json](./365816-kunspace.json) |
