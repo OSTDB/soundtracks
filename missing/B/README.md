@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldy Land | 45420 | [45420-baldy-land.json](./45420-baldy-land.json) |
 | Bales of Amber | 206732 | [206732-bales-of-amber.json](./206732-bales-of-amber.json) |
 | Balikaw | 390132 | [390132-balikaw.json](./390132-balikaw.json) |
+| Balkadia | 129618 | [129618-balkadia.json](./129618-balkadia.json) |
 | Balkan Bloodbath | 310726 | [310726-balkan-bloodbath.json](./310726-balkan-bloodbath.json) |
 | Balkan Horror Tales | 330542 | [330542-balkan-horror-tales.json](./330542-balkan-horror-tales.json) |
 | Ball | 231388 | [231388-ball.json](./231388-ball.json) |
@@ -6778,6 +6779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombox | 293339 | [293339-bombox.json](./293339-bombox.json) |
 | BombParty | 186047 | [186047-bombparty.json](./186047-bombparty.json) |
 | Bombproof Bob | 241612 | [241612-bombproof-bob.json](./241612-bombproof-bob.json) |
+| Bombrigade: Battlegrounds | 129526 | [129526-bombrigade-battlegrounds.json](./129526-bombrigade-battlegrounds.json) |
 | Bombs Away on Barrels | 240839 | [240839-bombs-away-on-barrels.json](./240839-bombs-away-on-barrels.json) |
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
