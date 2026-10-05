@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanasaki Work Spring! | 143355 | [143355-hanasaki-work-spring.json](./143355-hanasaki-work-spring.json) |
 | Hanata-Kadaka!? | 59993 | [59993-hanata-kadaka.json](./59993-hanata-kadaka.json) |
 | Hanayaka Nari, Waga Ichizoku | 61640 | [61640-hanayaka-nari-waga-ichizoku.json](./61640-hanayaka-nari-waga-ichizoku.json) |
+| Hanayaka Nari, Waga Ichizoku Modern Nostalgie | 136796 | [136796-hanayaka-nari-waga-ichizoku-modern-nostalgie.json](./136796-hanayaka-nari-waga-ichizoku-modern-nostalgie.json) |
 | Hanayaka Nari, Waga Ichizoku Tasogare Polar Star | 224448 | [224448-hanayaka-nari-waga-ichizoku-tasogare-polar-star.json](./224448-hanayaka-nari-waga-ichizoku-tasogare-polar-star.json) |
 | Hanayome: The Sacrificial Bride | 284611 | [284611-hanayome-the-sacrificial-bride.json](./284611-hanayome-the-sacrificial-bride.json) |
 | Hanctt Origins | 253455 | [253455-hanctt-origins.json](./253455-hanctt-origins.json) |
@@ -1200,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukanaru Toki no Naka de 4 | 70656 | [70656-harukanaru-toki-no-naka-de-4.json](./70656-harukanaru-toki-no-naka-de-4.json) |
 | Harukanaru Toki no Naka de 5 | 60503 | [60503-harukanaru-toki-no-naka-de-5.json](./60503-harukanaru-toki-no-naka-de-5.json) |
 | Harukanaru Toki no Naka De 7: Ransei no Sadame wo Koeru Box | 136842 | [136842-harukanaru-toki-no-naka-de-7-ransei-no-sadame-wo-koeru-box.json](./136842-harukanaru-toki-no-naka-de-7-ransei-no-sadame-wo-koeru-box.json) |
+| Harukanaru Toki no Naka de 7: Treasure Box Edition | 136775 | [136775-harukanaru-toki-no-naka-de-7-treasure-box-edition.json](./136775-harukanaru-toki-no-naka-de-7-treasure-box-edition.json) |
 | Harukanaru Toki no Naka de: Banjyou Yuugi | 137002 | [137002-harukanaru-toki-no-naka-de-banjyou-yuugi.json](./137002-harukanaru-toki-no-naka-de-banjyou-yuugi.json) |
 | Harukanaru Toki no Naka de: Hachiyoushou | 137003 | [137003-harukanaru-toki-no-naka-de-hachiyoushou.json](./137003-harukanaru-toki-no-naka-de-hachiyoushou.json) |
 | Harukanaru Toki no Naka de: Yume no Ukihashi | 70661 | [70661-harukanaru-toki-no-naka-de-yume-no-ukihashi.json](./70661-harukanaru-toki-no-naka-de-yume-no-ukihashi.json) |
@@ -4146,10 +4148,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Wars | 88041 | [88041-highway-wars.json](./88041-highway-wars.json) |
 | Higurashi Daybreak Portable | 38477 | [38477-higurashi-daybreak-portable.json](./38477-higurashi-daybreak-portable.json) |
 | Higurashi Daybreak Portable: Mega Edition | 38478 | [38478-higurashi-daybreak-portable-mega-edition.json](./38478-higurashi-daybreak-portable-mega-edition.json) |
+| Higurashi no Naku Koro ni Hou: Complete Edition | 136817 | [136817-higurashi-no-naku-koro-ni-hou-complete-edition.json](./136817-higurashi-no-naku-koro-ni-hou-complete-edition.json) |
+| Higurashi no Naku Koro ni Hou: EG The Best | 136779 | [136779-higurashi-no-naku-koro-ni-hou-eg-the-best.json](./136779-higurashi-no-naku-koro-ni-hou-eg-the-best.json) |
 | Higurashi no Naku Koro ni Hou: Hinamizawa Teiryuujo | 263492 | [263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json](./263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json) |
 | Higurashi no Naku Koro ni Hou: Kamikashimashi-hen | 263493 | [263493-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json](./263493-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json) |
 | Higurashi no Naku Koro ni Hou: Outbreak | 263490 | [263490-higurashi-no-naku-koro-ni-hou-outbreak.json](./263490-higurashi-no-naku-koro-ni-hou-outbreak.json) |
 | Higurashi no Naku Koro ni Hou+: Mehagashi-hen | 263660 | [263660-higurashi-no-naku-koro-ni-hou-mehagashi-hen.json](./263660-higurashi-no-naku-koro-ni-hou-mehagashi-hen.json) |
+| Higurashi no Naku Koro ni Iki | 136769 | [136769-higurashi-no-naku-koro-ni-iki.json](./136769-higurashi-no-naku-koro-ni-iki.json) |
 | Higurashi no Naku Koro ni Jan | 229816 | [229816-higurashi-no-naku-koro-ni-jan.json](./229816-higurashi-no-naku-koro-ni-jan.json) |
 | Higurashi no Naku Koro ni Jan: Gouka Genteiban na no desu yo Box | 352787 | [352787-higurashi-no-naku-koro-ni-jan-gouka-genteiban-na-no-desu-yo-box.json](./352787-higurashi-no-naku-koro-ni-jan-gouka-genteiban-na-no-desu-yo-box.json) |
 | Higurashi no Naku Koro ni Kizuna Volume II: Sou | 111749 | [111749-higurashi-no-naku-koro-ni-kizuna-volume-ii-sou.json](./111749-higurashi-no-naku-koro-ni-kizuna-volume-ii-sou.json) |
@@ -5535,6 +5540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi no Natchan | 285452 | [285452-hoshi-no-natchan.json](./285452-hoshi-no-natchan.json) |
 | Hoshi no Ouji-sama | 368555 | [368555-hoshi-no-ouji-sama.json](./368555-hoshi-no-ouji-sama.json) |
 | Hoshi no Shirusu Shinjitsu | 394495 | [394495-hoshi-no-shirusu-shinjitsu.json](./394495-hoshi-no-shirusu-shinjitsu.json) |
+| Hoshi Ori Yume Mirai: Converted Edition | 136791 | [136791-hoshi-ori-yume-mirai-converted-edition.json](./136791-hoshi-ori-yume-mirai-converted-edition.json) |
 | Hoshi Ori Yume Mirai: Perfect Edition | 150036 | [150036-hoshi-ori-yume-mirai-perfect-edition.json](./150036-hoshi-ori-yume-mirai-perfect-edition.json) |
 | Hoshi Ori Yume Mirai: Rikka to Anata no 1-Shuunen Kinen, Icha Love Birthday | 408145 | [408145-hoshi-ori-yume-mirai-rikka-to-anata-no-1-shuunen-kinen-icha-love-birthday.json](./408145-hoshi-ori-yume-mirai-rikka-to-anata-no-1-shuunen-kinen-icha-love-birthday.json) |
 | Hoshi Saga 3 | 377220 | [377220-hoshi-saga-3.json](./377220-hoshi-saga-3.json) |
