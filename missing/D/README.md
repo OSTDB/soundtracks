@@ -2732,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Snow Delivery | 320396 | [320396-deep-snow-delivery.json](./320396-deep-snow-delivery.json) |
 | Deep Soup | 406707 | [406707-deep-soup.json](./406707-deep-soup.json) |
 | Deep Space | 108405 | [108405-deep-space.json](./108405-deep-space.json) |
+| Deep Space | 149190 | [149190-deep-space.json](./149190-deep-space.json) |
 | Deep Space | 237377 | [237377-deep-space.json](./237377-deep-space.json) |
 | Deep Space | 272554 | [272554-deep-space.json](./272554-deep-space.json) |
 | Deep Space 7 | 308881 | [308881-deep-space-7.json](./308881-deep-space-7.json) |
@@ -3666,6 +3667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert War 1940-1942 | 129593 | [129593-desert-war-1940-1942.json](./129593-desert-war-1940-1942.json) |
 | Desert War: Military Combat Shooter | 376711 | [376711-desert-war-military-combat-shooter.json](./376711-desert-war-military-combat-shooter.json) |
 | Desert Witch | 291693 | [291693-desert-witch.json](./291693-desert-witch.json) |
+| Deserted | 149203 | [149203-deserted.json](./149203-deserted.json) |
 | Deserted Island | 138823 | [138823-deserted-island.json](./138823-deserted-island.json) |
 | Deserter | 323940 | [323940-deserter.json](./323940-deserter.json) |
 | Deserter Simulator | 34791 | [34791-deserter-simulator.json](./34791-deserter-simulator.json) |
@@ -6432,6 +6434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Fall | 266312 | [266312-dont-fall.json](./266312-dont-fall.json) |
 | Don't Fall | 348942 | [348942-dont-fall.json](./348942-dont-fall.json) |
 | Don't Fall | 365196 | [365196-dont-fall.json](./365196-dont-fall.json) |
+| Don't Fall Asleep | 149192 | [149192-dont-fall-asleep.json](./149192-dont-fall-asleep.json) |
 | Don't Fall: Aleph | 209919 | [209919-dont-fall-aleph.json](./209919-dont-fall-aleph.json) |
 | Don't Fear the Sweeper | 68638 | [68638-dont-fear-the-sweeper.json](./68638-dont-fear-the-sweeper.json) |
 | Don't Feed It | 341896 | [341896-dont-feed-it.json](./341896-dont-feed-it.json) |
@@ -9694,6 +9697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonlike | 183574 | [183574-dungeonlike.json](./183574-dungeonlike.json) |
 | Dungeonlite Duelers | 175836 | [175836-dungeonlite-duelers.json](./175836-dungeonlite-duelers.json) |
 | Dungeonloop | 401092 | [401092-dungeonloop.json](./401092-dungeonloop.json) |
+| Dungeonman | 149223 | [149223-dungeonman.json](./149223-dungeonman.json) |
 | Dungeonmans: Pay2Lose | 168162 | [168162-dungeonmans-pay2lose.json](./168162-dungeonmans-pay2lose.json) |
 | Dungeonoid 2: Awakening | 282152 | [282152-dungeonoid-2-awakening.json](./282152-dungeonoid-2-awakening.json) |
 | Dungeonpreneur | 274033 | [274033-dungeonpreneur.json](./274033-dungeonpreneur.json) |
