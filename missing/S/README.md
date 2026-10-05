@@ -2532,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector 666 | 308256 | [308256-sector-666.json](./308256-sector-666.json) |
 | Sector 666: The Forgotten Zone | 235824 | [235824-sector-666-the-forgotten-zone.json](./235824-sector-666-the-forgotten-zone.json) |
 | Sector 724 | 76967 | [76967-sector-724.json](./76967-sector-724.json) |
+| Sector 781 | 147096 | [147096-sector-781.json](./147096-sector-781.json) |
 | Sector 82 | 181149 | [181149-sector-82.json](./181149-sector-82.json) |
 | Sector 86 | 413152 | [413152-sector-86.json](./413152-sector-86.json) |
 | Sector a Training Facilitea | 253029 | [253029-sector-a-training-facilitea.json](./253029-sector-a-training-facilitea.json) |
@@ -8227,6 +8228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowball | 147827 | [147827-snowball.json](./147827-snowball.json) |
 | Snowball Bustout | 146737 | [146737-snowball-bustout.json](./146737-snowball-bustout.json) |
 | SnowBall Champions | 239632 | [239632-snowball-champions.json](./239632-snowball-champions.json) |
+| Snowball Collections Bubble | 147079 | [147079-snowball-collections-bubble.json](./147079-snowball-collections-bubble.json) |
 | Snowball Fall Down | 208622 | [208622-snowball-fall-down.json](./208622-snowball-fall-down.json) |
 | Snowball Fight | 296001 | [296001-snowball-fight.json](./296001-snowball-fight.json) |
 | Snowball Fight | 397795 | [397795-snowball-fight.json](./397795-snowball-fight.json) |
@@ -8587,6 +8589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokocat: Combo | 203267 | [203267-sokocat-combo.json](./203267-sokocat-combo.json) |
 | SokoChess White | 232960 | [232960-sokochess-white.json](./232960-sokochess-white.json) |
 | SokoCode | 322593 | [322593-sokocode.json](./322593-sokocode.json) |
+| Sokodice | 147080 | [147080-sokodice.json](./147080-sokodice.json) |
 | SokoFarm | 292237 | [292237-sokofarm.json](./292237-sokofarm.json) |
 | SokoFrog | 219593 | [219593-sokofrog.json](./219593-sokofrog.json) |
 | SokoMage | 235205 | [235205-sokomage.json](./235205-sokomage.json) |
@@ -14423,6 +14426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Date | 373164 | [373164-sticky-date.json](./373164-sticky-date.json) |
 | Sticky Friends | 184368 | [184368-sticky-friends.json](./184368-sticky-friends.json) |
 | Sticky Keys | 178986 | [178986-sticky-keys.json](./178986-sticky-keys.json) |
+| Sticky Monsters | 147082 | [147082-sticky-monsters.json](./147082-sticky-monsters.json) |
 | Sticky Ninja Academy | 286647 | [286647-sticky-ninja-academy.json](./286647-sticky-ninja-academy.json) |
 | Sticky Pigeons | 177023 | [177023-sticky-pigeons.json](./177023-sticky-pigeons.json) |
 | Sticky Sheep | 20726 | [20726-sticky-sheep.json](./20726-sticky-sheep.json) |
@@ -18854,6 +18858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweets Drop | 283721 | [283721-sweets-drop.json](./283721-sweets-drop.json) |
 | Sweets Inc | 290531 | [290531-sweets-inc.json](./290531-sweets-inc.json) |
 | Sweets Mania: Candy Sugar Rush Match 3 Games | 256435 | [256435-sweets-mania-candy-sugar-rush-match-3-games.json](./256435-sweets-mania-candy-sugar-rush-match-3-games.json) |
+| Sweets Swap | 147097 | [147097-sweets-swap.json](./147097-sweets-swap.json) |
 | Sweets Swap Classic | 175821 | [175821-sweets-swap-classic.json](./175821-sweets-swap-classic.json) |
 | Sweets' Devil | 398596 | [398596-sweets-devil.json](./398596-sweets-devil.json) |
 | Sweety Kitty | 219560 | [219560-sweety-kitty.json](./219560-sweety-kitty.json) |
