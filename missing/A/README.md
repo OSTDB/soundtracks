@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hunter's Day | 181198 | [181198-a-hunters-day.json](./181198-a-hunters-day.json) |
 | A Ilha Perdida da Babitonga | 352367 | [352367-a-ilha-perdida-da-babitonga.json](./352367-a-ilha-perdida-da-babitonga.json) |
 | A is for Aardvark | 334281 | [334281-a-is-for-aardvark.json](./334281-a-is-for-aardvark.json) |
+| A Journey Into Xanth | 135643 | [135643-a-journey-into-xanth.json](./135643-a-journey-into-xanth.json) |
 | A Journey Through Valhalla | 165677 | [165677-a-journey-through-valhalla.json](./165677-a-journey-through-valhalla.json) |
 | A Journey Together | 261810 | [261810-a-journey-together.json](./261810-a-journey-together.json) |
 | A Journey's End | 291182 | [291182-a-journeys-end.json](./291182-a-journeys-end.json) |
@@ -796,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.V.A: Guns on Fire | 55245 | [55245-a-v-a-guns-on-fire.json](./55245-a-v-a-guns-on-fire.json) |
 | A.W.O.L. | 193214 | [193214-a-w-o-l.json](./193214-a-w-o-l.json) |
 | A'Jatt | 372556 | [372556-ajatt.json](./372556-ajatt.json) |
+| A(s)century | 135625 | [135625-a-s-century.json](./135625-a-s-century.json) |
 | A/X-101 | 5360 | [5360-a-x-101.json](./5360-a-x-101.json) |
 | A&E Crime Scene: AR | 95872 | [95872-a-and-e-crime-scene-ar.json](./95872-a-and-e-crime-scene-ar.json) |
 | A2 Racer III: Europa Tour | 44841 | [44841-a2-racer-iii-europa-tour.json](./44841-a2-racer-iii-europa-tour.json) |
@@ -4240,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Diesel Trains | 96053 | [96053-american-diesel-trains.json](./96053-american-diesel-trains.json) |
 | American Dream | 137017 | [137017-american-dream.json](./137017-american-dream.json) |
 | American Dream | 48634 | [48634-american-dream.json](./48634-american-dream.json) |
+| American Election | 135610 | [135610-american-election.json](./135610-american-election.json) |
 | American Eristics | 255697 | [255697-american-eristics.json](./255697-american-eristics.json) |
 | American FKN Election | 329103 | [329103-american-fkn-election.json](./329103-american-fkn-election.json) |
 | American Football | 58278 | [58278-american-football.json](./58278-american-football.json) |
