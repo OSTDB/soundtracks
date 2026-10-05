@@ -1837,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scout: An Apocalypse Story | 177355 | [177355-scout-an-apocalypse-story.json](./177355-scout-an-apocalypse-story.json) |
 | Scouter | 316613 | [316613-scouter.json](./316613-scouter.json) |
 | Scouts Out | 413034 | [413034-scouts-out.json](./413034-scouts-out.json) |
+| SCP | 131429 | [131429-scp.json](./131429-scp.json) |
 | SCP | 287738 | [287738-scp.json](./287738-scp.json) |
 | SCP 087 B | 241913 | [241913-scp-087-b.json](./241913-scp-087-b.json) |
 | SCP 173 - Nightshift Survival Breach Containment | 102739 | [102739-scp-173-nightshift-survival-breach-containment.json](./102739-scp-173-nightshift-survival-breach-containment.json) |
@@ -2748,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Splash! Golf | 136872 | [136872-sega-splash-golf.json](./136872-sega-splash-golf.json) |
 | Sega Strike Fighter | 112506 | [112506-sega-strike-fighter.json](./112506-sega-strike-fighter.json) |
 | Sega Superstars Tennis | 255326 | [255326-sega-superstars-tennis.json](./255326-sega-superstars-tennis.json) |
+| Sega Tetris | 131318 | [131318-sega-tetris.json](./131318-sega-tetris.json) |
 | Sega Top Five | 78759 | [78759-sega-top-five.json](./78759-sega-top-five.json) |
 | Sega Top Ten | 78756 | [78756-sega-top-ten.json](./78756-sega-top-ten.json) |
 | Sega Touring Car Championship | 39795 | [39795-sega-touring-car-championship.json](./39795-sega-touring-car-championship.json) |
@@ -6701,6 +6703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Dunk | 304265 | [304265-sky-dunk.json](./304265-sky-dunk.json) |
 | Sky Escort | 259158 | [259158-sky-escort.json](./259158-sky-escort.json) |
 | Sky Fields | 337770 | [337770-sky-fields.json](./337770-sky-fields.json) |
+| Sky Fighter | 131416 | [131416-sky-fighter.json](./131416-sky-fighter.json) |
 | Sky Fighter Legends | 81195 | [81195-sky-fighter-legends.json](./81195-sky-fighter-legends.json) |
 | Sky Fighters | 275664 | [275664-sky-fighters.json](./275664-sky-fighters.json) |
 | Sky Fleet | 144190 | [144190-sky-fleet.json](./144190-sky-fleet.json) |
@@ -7744,6 +7747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile Guide: The Apple Escape | 56136 | [56136-smile-guide-the-apple-escape.json](./56136-smile-guide-the-apple-escape.json) |
 | Smile Inc. | 25178 | [25178-smile-inc.json](./25178-smile-inc.json) |
 | Smile More | 395023 | [395023-smile-more.json](./395023-smile-more.json) |
+| Smile Poker | 131315 | [131315-smile-poker.json](./131315-smile-poker.json) |
 | Smile Simulation | 303078 | [303078-smile-simulation.json](./303078-smile-simulation.json) |
 | Smile Town | 338191 | [338191-smile-town.json](./338191-smile-town.json) |
 | Smile Town | 397229 | [397229-smile-town.json](./397229-smile-town.json) |
@@ -15081,6 +15085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamer Mini Games Collection | 324508 | [324508-streamer-mini-games-collection.json](./324508-streamer-mini-games-collection.json) |
 | Streamer Party | 384105 | [384105-streamer-party.json](./384105-streamer-party.json) |
 | Streamer Screamer | 375937 | [375937-streamer-screamer.json](./375937-streamer-screamer.json) |
+| Streamer Shall Not Pass! | 131321 | [131321-streamer-shall-not-pass.json](./131321-streamer-shall-not-pass.json) |
 | Streamer Simulator | 175762 | [175762-streamer-simulator.json](./175762-streamer-simulator.json) |
 | Streamer Top | 370843 | [370843-streamer-top.json](./370843-streamer-top.json) |
 | Streamer vs. Chat | 414605 | [414605-streamer-vs-chat.json](./414605-streamer-vs-chat.json) |
@@ -15628,6 +15633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subdivision Infinity DX | 110798 | [110798-subdivision-infinity-dx.json](./110798-subdivision-infinity-dx.json) |
 | Sube | 264149 | [264149-sube.json](./264149-sube.json) |
 | Suber Driver | 189079 | [189079-suber-driver.json](./189079-suber-driver.json) |
+| Subject | 131341 | [131341-subject.json](./131341-subject.json) |
 | Subject 26 | 178497 | [178497-subject-26.json](./178497-subject-26.json) |
 | Subject 264 | 30959 | [30959-subject-264.json](./30959-subject-264.json) |
 | Subject: Dinha | 413857 | [413857-subject-dinha.json](./413857-subject-dinha.json) |
