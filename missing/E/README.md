@@ -1664,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of the Fallen Steel | 37388 | [37388-empire-of-the-fallen-steel.json](./37388-empire-of-the-fallen-steel.json) |
 | Empire of the Insects | 350011 | [350011-empire-of-the-insects.json](./350011-empire-of-the-insects.json) |
 | Empire of the Over-Mind | 18470 | [18470-empire-of-the-over-mind.json](./18470-empire-of-the-over-mind.json) |
+| Empire of the Wicked | 157982 | [157982-empire-of-the-wicked.json](./157982-empire-of-the-wicked.json) |
 | Empire of Vice: Chicago | 388258 | [388258-empire-of-vice-chicago.json](./388258-empire-of-vice-chicago.json) |
 | Empire Origin: Rise | 258204 | [258204-empire-origin-rise.json](./258204-empire-origin-rise.json) |
 | Empire Run | 248648 | [248648-empire-run.json](./248648-empire-run.json) |
@@ -4259,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of Bain | 298804 | [298804-eye-of-bain.json](./298804-eye-of-bain.json) |
 | Eye of Horus | 12069 | [12069-eye-of-horus.json](./12069-eye-of-horus.json) |
 | Eye of Nollyn | 276193 | [276193-eye-of-nollyn.json](./276193-eye-of-nollyn.json) |
+| Eye of Ouroboros | 158130 | [158130-eye-of-ouroboros.json](./158130-eye-of-ouroboros.json) |
 | Eye of Ra | 133992 | [133992-eye-of-ra.json](./133992-eye-of-ra.json) |
 | Eye of Saccharine | 249187 | [249187-eye-of-saccharine.json](./249187-eye-of-saccharine.json) |
 | Eye of the Beholder | 292686 | [292686-eye-of-the-beholder.json](./292686-eye-of-the-beholder.json) |
