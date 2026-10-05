@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D+Vine[Luv] | 283301 | [283301-d-vine-luv.json](./283301-d-vine-luv.json) |
 | D+Vine[Luv] | 283302 | [283302-d-vine-luv.json](./283302-d-vine-luv.json) |
 | D1 Grand Prix | 20551 | [20551-d1-grand-prix.json](./20551-d1-grand-prix.json) |
+| D1896 | 126365 | [126365-d1896.json](./126365-d1896.json) |
 | D2 | 36736 | [36736-d2.json](./36736-d2.json) |
 | D20 Dungeons | 126975 | [126975-d20-dungeons.json](./126975-d20-dungeons.json) |
 | D2048 | 125915 | [125915-d2048.json](./125915-d2048.json) |
@@ -1276,11 +1277,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash'n'Drops | 389587 | [389587-dashndrops.json](./389587-dashndrops.json) |
 | Dashball | 135644 | [135644-dashball.json](./135644-dashball.json) |
 | DashBored | 32847 | [32847-dashbored.json](./32847-dashbored.json) |
+| Dashbot Ninja | 126375 | [126375-dashbot-ninja.json](./126375-dashbot-ninja.json) |
 | Dashbounce | 264801 | [264801-dashbounce.json](./264801-dashbounce.json) |
 | Dasher | 158205 | [158205-dasher.json](./158205-dasher.json) |
 | Dashes & Squares | 272377 | [272377-dashes-and-squares.json](./272377-dashes-and-squares.json) |
 | DashFire | 339367 | [339367-dashfire.json](./339367-dashfire.json) |
 | Dashin' Desperadoes | 46247 | [46247-dashin-desperadoes.json](./46247-dashin-desperadoes.json) |
+| Dashing Dinosaurs & Sexy Centaurs: Winter's Tale | 126404 | [126404-dashing-dinosaurs-and-sexy-centaurs-winters-tale.json](./126404-dashing-dinosaurs-and-sexy-centaurs-winters-tale.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2 | 227868 | [227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json](./227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json) |
 | Dashing Dodgems | 122932 | [122932-dashing-dodgems.json](./122932-dashing-dodgems.json) |
 | Dashing Mariachis | 199419 | [199419-dashing-mariachis.json](./199419-dashing-mariachis.json) |
@@ -2503,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathmatch Village | 42683 | [42683-deathmatch-village.json](./42683-deathmatch-village.json) |
 | Deathmoon | 364008 | [364008-deathmoon.json](./364008-deathmoon.json) |
 | DeathOmen | 189013 | [189013-deathomen.json](./189013-deathomen.json) |
+| Deathopolis | 126481 | [126481-deathopolis.json](./126481-deathopolis.json) |
 | Deathpuddle: Choose Violence? | 309459 | [309459-deathpuddle-choose-violence.json](./309459-deathpuddle-choose-violence.json) |
 | Deathray | 285010 | [285010-deathray.json](./285010-deathray.json) |
 | Deathrun | 276214 | [276214-deathrun.json](./276214-deathrun.json) |
@@ -4436,6 +4440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dib's Nanochase | 191879 | [191879-dibs-nanochase.json](./191879-dibs-nanochase.json) |
 | Dice | 288365 | [288365-dice.json](./288365-dice.json) |
 | Dice | 309457 | [309457-dice.json](./309457-dice.json) |
+| Dice & Fighter | 126388 | [126388-dice-and-fighter.json](./126388-dice-and-fighter.json) |
 | Dice & Fold | 276684 | [276684-dice-and-fold.json](./276684-dice-and-fold.json) |
 | Dice & Sword | 286063 | [286063-dice-and-sword.json](./286063-dice-and-sword.json) |
 | Dice 1000 online | 184463 | [184463-dice-1000-online.json](./184463-dice-1000-online.json) |
@@ -8185,6 +8190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drain | 179560 | [179560-drain.json](./179560-drain.json) |
 | Drain Mania | 57166 | [57166-drain-mania.json](./57166-drain-mania.json) |
 | Drain Runner | 210885 | [210885-drain-runner.json](./210885-drain-runner.json) |
+| DrainLive | 126368 | [126368-drainlive.json](./126368-drainlive.json) |
 | Drains | 62662 | [62662-drains.json](./62662-drains.json) |
 | DrainSim | 303490 | [303490-drainsim.json](./303490-drainsim.json) |
 | Drainus | 202389 | [202389-drainus.json](./202389-drainus.json) |
@@ -8396,6 +8402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Day: True Love | 88458 | [88458-dream-day-true-love.json](./88458-dream-day-true-love.json) |
 | Dream Day: Viva Las Vegas | 87284 | [87284-dream-day-viva-las-vegas.json](./87284-dream-day-viva-las-vegas.json) |
 | Dream Day: Wedding | 209173 | [209173-dream-day-wedding.json](./209173-dream-day-wedding.json) |
+| Dream Detective | 126379 | [126379-dream-detective.json](./126379-dream-detective.json) |
 | Dream Distortion | 375830 | [375830-dream-distortion.json](./375830-dream-distortion.json) |
 | Dream Divers 2 | 303014 | [303014-dream-divers-2.json](./303014-dream-divers-2.json) |
 | Dream Doctor | 401819 | [401819-dream-doctor.json](./401819-dream-doctor.json) |
