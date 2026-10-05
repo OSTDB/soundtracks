@@ -1524,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtuále: Heist Simulations | 338567 | [338567-virtuale-heist-simulations.json](./338567-virtuale-heist-simulations.json) |
 | Virtualis Galeria | 383505 | [383505-virtualis-galeria.json](./383505-virtualis-galeria.json) |
 | Virtually Board Snowboarding 2 | 202947 | [202947-virtually-board-snowboarding-2.json](./202947-virtually-board-snowboarding-2.json) |
+| Virtually Real Life | 128316 | [128316-virtually-real-life.json](./128316-virtually-real-life.json) |
 | VirtualSociety | 413192 | [413192-virtualsociety.json](./413192-virtualsociety.json) |
 | VirtualSociety Online | 142328 | [142328-virtualsociety-online.json](./142328-virtualsociety-online.json) |
 | Virtuar Z | 270869 | [270869-virtuar-z.json](./270869-virtuar-z.json) |
