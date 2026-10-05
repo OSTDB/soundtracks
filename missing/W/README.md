@@ -1115,16 +1115,29 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars Across the World: Bulgaria 1913 | 350611 | [350611-wars-across-the-world-bulgaria-1913.json](./350611-wars-across-the-world-bulgaria-1913.json) |
 | Wars across the World: Bulge 1944 | 150510 | [150510-wars-across-the-world-bulge-1944.json](./150510-wars-across-the-world-bulge-1944.json) |
 | Wars Across the World: Carrhae 53 | 156096 | [156096-wars-across-the-world-carrhae-53.json](./156096-wars-across-the-world-carrhae-53.json) |
+| Wars Across the World: Columbus 1492 | 155185 | [155185-wars-across-the-world-columbus-1492.json](./155185-wars-across-the-world-columbus-1492.json) |
 | Wars Across the World: Cortenuova 1237 | 193188 | [193188-wars-across-the-world-cortenuova-1237.json](./193188-wars-across-the-world-cortenuova-1237.json) |
 | Wars Across the World: Curupayti 1866 | 203922 | [203922-wars-across-the-world-curupayti-1866.json](./203922-wars-across-the-world-curupayti-1866.json) |
 | Wars Across The World: Dacia 101 | 276416 | [276416-wars-across-the-world-dacia-101.json](./276416-wars-across-the-world-dacia-101.json) |
 | Wars Across the World: Dublin 1916 | 193189 | [193189-wars-across-the-world-dublin-1916.json](./193189-wars-across-the-world-dublin-1916.json) |
 | Wars Across the World: Expanded Collection | 53922 | [53922-wars-across-the-world-expanded-collection.json](./53922-wars-across-the-world-expanded-collection.json) |
+| Wars Across the World: Franche-Comté 1636 | 155180 | [155180-wars-across-the-world-franche-comte-1636.json](./155180-wars-across-the-world-franche-comte-1636.json) |
+| Wars Across the World: Galicia 1914 | 155184 | [155184-wars-across-the-world-galicia-1914.json](./155184-wars-across-the-world-galicia-1914.json) |
 | Wars Across the World: Gulf 1990 | 159633 | [159633-wars-across-the-world-gulf-1990.json](./159633-wars-across-the-world-gulf-1990.json) |
+| Wars Across the World: Illyria 229 | 155181 | [155181-wars-across-the-world-illyria-229.json](./155181-wars-across-the-world-illyria-229.json) |
+| Wars Across the World: Kippur 1973 | 155190 | [155190-wars-across-the-world-kippur-1973.json](./155190-wars-across-the-world-kippur-1973.json) |
+| Wars Across the World: Korea 1592 | 155186 | [155186-wars-across-the-world-korea-1592.json](./155186-wars-across-the-world-korea-1592.json) |
+| Wars Across The World: Levant 1941 | 155174 | [155174-wars-across-the-world-levant-1941.json](./155174-wars-across-the-world-levant-1941.json) |
 | Wars Across the World: Manchuria 1945 | 193191 | [193191-wars-across-the-world-manchuria-1945.json](./193191-wars-across-the-world-manchuria-1945.json) |
+| Wars Across the World: Mexico 1519 | 155179 | [155179-wars-across-the-world-mexico-1519.json](./155179-wars-across-the-world-mexico-1519.json) |
 | Wars Across The World: Namibia 1915 | 292644 | [292644-wars-across-the-world-namibia-1915.json](./292644-wars-across-the-world-namibia-1915.json) |
+| Wars Across the World: Nordwind 1945 | 155183 | [155183-wars-across-the-world-nordwind-1945.json](./155183-wars-across-the-world-nordwind-1945.json) |
 | Wars Across the World: Sepoy 1857 | 212228 | [212228-wars-across-the-world-sepoy-1857.json](./212228-wars-across-the-world-sepoy-1857.json) |
+| Wars Across the World: Serbia 1914 | 155178 | [155178-wars-across-the-world-serbia-1914.json](./155178-wars-across-the-world-serbia-1914.json) |
+| Wars Across the World: Soccer 1969 | 155189 | [155189-wars-across-the-world-soccer-1969.json](./155189-wars-across-the-world-soccer-1969.json) |
+| Wars Across the World: Switzerland 1937 | 155182 | [155182-wars-across-the-world-switzerland-1937.json](./155182-wars-across-the-world-switzerland-1937.json) |
 | Wars Across The World: Tryphon 104 | 350610 | [350610-wars-across-the-world-tryphon-104.json](./350610-wars-across-the-world-tryphon-104.json) |
+| Wars Across the World: Uganda 1979 | 155187 | [155187-wars-across-the-world-uganda-1979.json](./155187-wars-across-the-world-uganda-1979.json) |
 | Wars Across the World: Zulu 1879 | 242623 | [242623-wars-across-the-world-zulu-1879.json](./242623-wars-across-the-world-zulu-1879.json) |
 | Wars of Napoleon | 33092 | [33092-wars-of-napoleon.json](./33092-wars-of-napoleon.json) |
 | Wars of Prasia | 188381 | [188381-wars-of-prasia.json](./188381-wars-of-prasia.json) |
