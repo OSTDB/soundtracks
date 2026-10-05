@@ -1737,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manus Dei | 269226 | [269226-manus-dei.json](./269226-manus-dei.json) |
 | Manx TT Super Bike | 36572 | [36572-manx-tt-super-bike.json](./36572-manx-tt-super-bike.json) |
 | Many Crimes of Serenity Falls | 301917 | [301917-many-crimes-of-serenity-falls.json](./301917-many-crimes-of-serenity-falls.json) |
+| Many Faces | 127823 | [127823-many-faces.json](./127823-many-faces.json) |
 | Manygolf | 54740 | [54740-manygolf.json](./54740-manygolf.json) |
 | Manyland | 35940 | [35940-manyland.json](./35940-manyland.json) |
 | Manzaka | 288757 | [288757-manzaka.json](./288757-manzaka.json) |
@@ -3875,6 +3876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Fantasy: Jigsaw Puzzle - Great Warriors | 313151 | [313151-medieval-fantasy-jigsaw-puzzle-great-warriors.json](./313151-medieval-fantasy-jigsaw-puzzle-great-warriors.json) |
 | Medieval Fantasy: Jigsaw Puzzle - King Edition | 313793 | [313793-medieval-fantasy-jigsaw-puzzle-king-edition.json](./313793-medieval-fantasy-jigsaw-puzzle-king-edition.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Knight Edition | 313794 | [313794-medieval-fantasy-jigsaw-puzzle-knight-edition.json](./313794-medieval-fantasy-jigsaw-puzzle-knight-edition.json) |
+| Medieval Frontiers | 127709 | [127709-medieval-frontiers.json](./127709-medieval-frontiers.json) |
 | Medieval Grandmaster: Tavern Board Battle | 319778 | [319778-medieval-grandmaster-tavern-board-battle.json](./319778-medieval-grandmaster-tavern-board-battle.json) |
 | Medieval HD | 249265 | [249265-medieval-hd.json](./249265-medieval-hd.json) |
 | Medieval Hero | 153367 | [153367-medieval-hero.json](./153367-medieval-hero.json) |
@@ -7163,6 +7165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage In Darkness | 211810 | [211810-mirage-in-darkness.json](./211810-mirage-in-darkness.json) |
 | Mirage Motel | 183061 | [183061-mirage-motel.json](./183061-mirage-motel.json) |
 | Mirage Noir | 309655 | [309655-mirage-noir.json](./309655-mirage-noir.json) |
+| Mirage Online Classic | 127807 | [127807-mirage-online-classic.json](./127807-mirage-online-classic.json) |
 | Mirage: Beyond the Screen | 278530 | [278530-mirage-beyond-the-screen.json](./278530-mirage-beyond-the-screen.json) |
 | Mirage: Illusions | 326977 | [326977-mirage-illusions.json](./326977-mirage-illusions.json) |
 | Mirage: Perfect Skyline | 303194 | [303194-mirage-perfect-skyline.json](./303194-mirage-perfect-skyline.json) |
@@ -7817,6 +7820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model Melissa | 286521 | [286521-model-melissa.json](./286521-model-melissa.json) |
 | Model Oshare Audition Dream Girl | 222499 | [222499-model-oshare-audition-dream-girl.json](./222499-model-oshare-audition-dream-girl.json) |
 | Model Railway Easily 2 | 189957 | [189957-model-railway-easily-2.json](./189957-model-railway-easily-2.json) |
+| Model Railway Easily Christmas | 127718 | [127718-model-railway-easily-christmas.json](./127718-model-railway-easily-christmas.json) |
 | Model Sisters | 414310 | [414310-model-sisters.json](./414310-model-sisters.json) |
 | Model Style: Dress Up! | 314878 | [314878-model-style-dress-up.json](./314878-model-style-dress-up.json) |
 | ModelMaker | 258946 | [258946-modelmaker.json](./258946-modelmaker.json) |
@@ -8249,6 +8253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mono Trail | 127317 | [127317-mono-trail.json](./127317-mono-trail.json) |
 | Monobehevo | 196678 | [196678-monobehevo.json](./196678-monobehevo.json) |
 | Monobeno: Happy End | 396370 | [396370-monobeno-happy-end.json](./396370-monobeno-happy-end.json) |
+| Monobot | 127817 | [127817-monobot.json](./127817-monobot.json) |
 | Monoch Room | 315600 | [315600-monoch-room.json](./315600-monoch-room.json) |
 | Monochro | 150164 | [150164-monochro.json](./150164-monochro.json) |
 | Monochromality | 346170 | [346170-monochromality.json](./346170-monochromality.json) |
@@ -11144,6 +11149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Name is Sarah | 129221 | [129221-my-name-is-sarah.json](./129221-my-name-is-sarah.json) |
 | My Name is Uncle Groucho You Win a Fat Cigar | 253895 | [253895-my-name-is-uncle-groucho-you-win-a-fat-cigar.json](./253895-my-name-is-uncle-groucho-you-win-a-fat-cigar.json) |
 | My name is Uter | 210559 | [210559-my-name-is-uter.json](./210559-my-name-is-uter.json) |
+| My Name is You and it's the only unusual thing in my life | 127707 | [127707-my-name-is-you-and-its-the-only-unusual-thing-in-my-life.json](./127707-my-name-is-you-and-its-the-only-unusual-thing-in-my-life.json) |
 | My Naughty Shotgun | 197400 | [197400-my-naughty-shotgun.json](./197400-my-naughty-shotgun.json) |
 | My Neighbor Alice | 157044 | [157044-my-neighbor-alice.json](./157044-my-neighbor-alice.json) |
 | My Neighbor is a Yandere?! | 143062 | [143062-my-neighbor-is-a-yandere.json](./143062-my-neighbor-is-a-yandere.json) |
