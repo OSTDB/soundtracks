@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Flash | 93078 | [93078-jack-flash.json](./93078-jack-flash.json) |
 | Jack Horror | 63859 | [63859-jack-horror.json](./63859-jack-horror.json) |
 | Jack In Space | 409664 | [409664-jack-in-space.json](./409664-jack-in-space.json) |
+| Jack In Town | 129041 | [129041-jack-in-town.json](./129041-jack-in-town.json) |
 | Jack Is Missing | 108374 | [108374-jack-is-missing.json](./108374-jack-is-missing.json) |
 | Jack Keane 2: The Fire Within | 10464 | [10464-jack-keane-2-the-fire-within.json](./10464-jack-keane-2-the-fire-within.json) |
 | Jack Mason: Ace Attorney | 303777 | [303777-jack-mason-ace-attorney.json](./303777-jack-mason-ace-attorney.json) |
@@ -1525,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to Kreisia | 68977 | [68977-journey-to-kreisia.json](./68977-journey-to-kreisia.json) |
 | Journey to Luonto | 75943 | [75943-journey-to-luonto.json](./75943-journey-to-luonto.json) |
 | Journey to Moonray | 158049 | [158049-journey-to-moonray.json](./158049-journey-to-moonray.json) |
+| Journey to Planet Earth | 128950 | [128950-journey-to-planet-earth.json](./128950-journey-to-planet-earth.json) |
 | Journey to Silius | 9159 | [9159-journey-to-silius.json](./9159-journey-to-silius.json) |
 | Journey to Stonehenge | 69812 | [69812-journey-to-stonehenge.json](./69812-journey-to-stonehenge.json) |
 | Journey to the Blue Mountain | 231083 | [231083-journey-to-the-blue-mountain.json](./231083-journey-to-the-blue-mountain.json) |
@@ -1882,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpJumpJump! | 335086 | [335086-jumpjumpjump.json](./335086-jumpjumpjump.json) |
 | Jumplats | 295889 | [295889-jumplats.json](./295889-jumplats.json) |
 | Jumplight Odyssey | 229965 | [229965-jumplight-odyssey.json](./229965-jumplight-odyssey.json) |
+| Jumplord | 129052 | [129052-jumplord.json](./129052-jumplord.json) |
 | Jumpman Lives! | 69868 | [69868-jumpman-lives.json](./69868-jumpman-lives.json) |
 | Jumpng Disable | 329193 | [329193-jumpng-disable.json](./329193-jumpng-disable.json) |
 | Jumpo Joe | 103423 | [103423-jumpo-joe.json](./103423-jumpo-joe.json) |
