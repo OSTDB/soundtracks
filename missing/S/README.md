@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Pizza Cats: Blast from the Past! | 332394 | [332394-samurai-pizza-cats-blast-from-the-past.json](./332394-samurai-pizza-cats-blast-from-the-past.json) |
 | Samurai Poodle | 60768 | [60768-samurai-poodle.json](./60768-samurai-poodle.json) |
 | Samurai Reflexion | 187980 | [187980-samurai-reflexion.json](./187980-samurai-reflexion.json) |
+| Samurai Revenge | 161219 | [161219-samurai-revenge.json](./161219-samurai-revenge.json) |
 | Samurai Revenge | 307606 | [307606-samurai-revenge.json](./307606-samurai-revenge.json) |
 | Samurai Revenge 2 | 241509 | [241509-samurai-revenge-2.json](./241509-samurai-revenge-2.json) |
 | Samurai Riot: Definitive Edition | 227189 | [227189-samurai-riot-definitive-edition.json](./227189-samurai-riot-definitive-edition.json) |
@@ -17838,6 +17839,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperDucks | 357363 | [357363-superducks.json](./357363-superducks.json) |
 | SuperDungeon MegaCorp | 190995 | [190995-superdungeon-megacorp.json](./190995-superdungeon-megacorp.json) |
 | Superfetch Dog | 263656 | [263656-superfetch-dog.json](./263656-superfetch-dog.json) |
+| Superfight: The Digital Deck | 161215 | [161215-superfight-the-digital-deck.json](./161215-superfight-the-digital-deck.json) |
+| Superfight: The History Deck | 161216 | [161216-superfight-the-history-deck.json](./161216-superfight-the-history-deck.json) |
+| Superfight: The Horror Deck | 161217 | [161217-superfight-the-horror-deck.json](./161217-superfight-the-horror-deck.json) |
+| Superfight: The Mindcrack Deck | 161218 | [161218-superfight-the-mindcrack-deck.json](./161218-superfight-the-mindcrack-deck.json) |
 | Superfighter | 325272 | [325272-superfighter.json](./325272-superfighter.json) |
 | Superfighters Deluxe | 10039 | [10039-superfighters-deluxe.json](./10039-superfighters-deluxe.json) |
 | Superfighters of Survival | 338292 | [338292-superfighters-of-survival.json](./338292-superfighters-of-survival.json) |
