@@ -2856,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sen no Hana, Sakihokoru Shiawase: La Vie en Bouquet Coloré | 395122 | [395122-sen-no-hana-sakihokoru-shiawase-la-vie-en-bouquet-colore.json](./395122-sen-no-hana-sakihokoru-shiawase-la-vie-en-bouquet-colore.json) |
 | Sen no Hatou, Tsukisome no Kouki: Hana Akari | 374662 | [374662-sen-no-hatou-tsukisome-no-kouki-hana-akari.json](./374662-sen-no-hatou-tsukisome-no-kouki-hana-akari.json) |
 | Sen no Inori no Paradox | 295928 | [295928-sen-no-inori-no-paradox.json](./295928-sen-no-inori-no-paradox.json) |
+| Sen.Tur. | 166043 | [166043-sen-tur.json](./166043-sen-tur.json) |
 | Senalux: Level Pack 3 | 168755 | [168755-senalux-level-pack-3.json](./168755-senalux-level-pack-3.json) |
 | Senalux: Level Pack 4 | 168756 | [168756-senalux-level-pack-4.json](./168756-senalux-level-pack-4.json) |
 | Send In The Vampires | 386344 | [386344-send-in-the-vampires.json](./386344-send-in-the-vampires.json) |
@@ -3248,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Seasonings | 184449 | [184449-seven-seasonings.json](./184449-seven-seasonings.json) |
 | Seven Sins: Academic Version | 112933 | [112933-seven-sins-academic-version.json](./112933-seven-sins-academic-version.json) |
 | Seven Skies to Paradise | 219601 | [219601-seven-skies-to-paradise.json](./219601-seven-skies-to-paradise.json) |
+| Seven Souls Online | 166033 | [166033-seven-souls-online.json](./166033-seven-souls-online.json) |
 | Seven Stars 3D | 381261 | [381261-seven-stars-3d.json](./381261-seven-stars-3d.json) |
 | Seven Stars 3D 2 | 381262 | [381262-seven-stars-3d-2.json](./381262-seven-stars-3d-2.json) |
 | Seven Suns of Orion | 418732 | [418732-seven-suns-of-orion.json](./418732-seven-suns-of-orion.json) |
@@ -11202,6 +11204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellarium 3 | 290122 | [290122-spellarium-3.json](./290122-spellarium-3.json) |
 | Spellarium 4 | 293703 | [293703-spellarium-4.json](./293703-spellarium-4.json) |
 | Spellarium 5 | 295476 | [295476-spellarium-5.json](./295476-spellarium-5.json) |
+| Spellarium 7: Match 3 Puzzle | 166038 | [166038-spellarium-7-match-3-puzzle.json](./166038-spellarium-7-match-3-puzzle.json) |
 | Spellarium 8 Match 3 Puzzle | 202665 | [202665-spellarium-8-match-3-puzzle.json](./202665-spellarium-8-match-3-puzzle.json) |
 | Spellbearers | 138670 | [138670-spellbearers.json](./138670-spellbearers.json) |
 | Spellbind | 18183 | [18183-spellbind.json](./18183-spellbind.json) |
@@ -12086,6 +12089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
 | Sprite Sequence Volume 1 | 180129 | [180129-sprite-sequence-volume-1.json](./180129-sprite-sequence-volume-1.json) |
 | Sprite Sequence: Chapter 1 - The Creation | 154425 | [154425-sprite-sequence-chapter-1-the-creation.json](./154425-sprite-sequence-chapter-1-the-creation.json) |
+| Sprite Sequence: Chapter 2 - New Life | 166047 | [166047-sprite-sequence-chapter-2-new-life.json](./166047-sprite-sequence-chapter-2-new-life.json) |
 | Sprite Wars | 297006 | [297006-sprite-wars.json](./297006-sprite-wars.json) |
 | Sprite's Honor! | 291491 | [291491-sprites-honor.json](./291491-sprites-honor.json) |
 | Spriters, Hopes Blooming Dawn | 248042 | [248042-spriters-hopes-blooming-dawn.json](./248042-spriters-hopes-blooming-dawn.json) |
