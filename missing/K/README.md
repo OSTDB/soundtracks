@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kare Kano Trial: Toki wo Kakeru Toki-meki Daisakusen | 339124 | [339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json](./339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json) |
 | Karen Ready！ | 326095 | [326095-karen-ready.json](./326095-karen-ready.json) |
 | Karen Sees | 186681 | [186681-karen-sees.json](./186681-karen-sees.json) |
+| Karen: An Outrage Simulator | 138555 | [138555-karen-an-outrage-simulator.json](./138555-karen-an-outrage-simulator.json) |
 | Karen's Fault | 265101 | [265101-karens-fault.json](./265101-karens-fault.json) |
 | Kareshi no Mawari ni itara Iya na Onna Tomodachi wo Kobushi de Wakaraseru Game | 373699 | [373699-kareshi-no-mawari-ni-itara-iya-na-onna-tomodachi-wo-kobushi-de-wakaraseru-game.json](./373699-kareshi-no-mawari-ni-itara-iya-na-onna-tomodachi-wo-kobushi-de-wakaraseru-game.json) |
 | Karga | 296458 | [296458-karga.json](./296458-karga.json) |
@@ -1826,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Fallen: The Last Stand | 270161 | [270161-kingdom-of-fallen-the-last-stand.json](./270161-kingdom-of-fallen-the-last-stand.json) |
 | Kingdom of Force | 164430 | [164430-kingdom-of-force.json](./164430-kingdom-of-force.json) |
 | Kingdom of Hamil | 13734 | [13734-kingdom-of-hamil.json](./13734-kingdom-of-hamil.json) |
+| Kingdom of Heroes: Tactics War | 138552 | [138552-kingdom-of-heroes-tactics-war.json](./138552-kingdom-of-heroes-tactics-war.json) |
 | Kingdom of Kroz | 73796 | [73796-kingdom-of-kroz.json](./73796-kingdom-of-kroz.json) |
 | Kingdom of Marionettes | 399754 | [399754-kingdom-of-marionettes.json](./399754-kingdom-of-marionettes.json) |
 | Kingdom of Night | 117531 | [117531-kingdom-of-night.json](./117531-kingdom-of-night.json) |
