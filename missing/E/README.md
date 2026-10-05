@@ -3543,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergreen: Pines Expansion | 298325 | [298325-evergreen-pines-expansion.json](./298325-evergreen-pines-expansion.json) |
 | Evergrow: Shards of Tomorrow | 337998 | [337998-evergrow-shards-of-tomorrow.json](./337998-evergrow-shards-of-tomorrow.json) |
 | Everhaven | 311063 | [311063-everhaven.json](./311063-everhaven.json) |
+| EverHero: Wings of the Ever Hero | 125299 | [125299-everhero-wings-of-the-ever-hero.json](./125299-everhero-wings-of-the-ever-hero.json) |
 | Everhold | 413879 | [413879-everhold.json](./413879-everhold.json) |
 | Everhood | 132083 | [132083-everhood.json](./132083-everhood.json) |
 | Everhood 2 | 253100 | [253100-everhood-2.json](./253100-everhood-2.json) |
@@ -3947,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exigent | 257000 | [257000-exigent.json](./257000-exigent.json) |
 | Exil | 318607 | [318607-exil.json](./318607-exil.json) |
 | Exile | 12068 | [12068-exile.json](./12068-exile.json) |
+| Exile | 125295 | [125295-exile.json](./125295-exile.json) |
 | Exile | 176919 | [176919-exile.json](./176919-exile.json) |
 | Exile | 342777 | [342777-exile.json](./342777-exile.json) |
 | Exile II: Crystal Souls | 7781 | [7781-exile-ii-crystal-souls.json](./7781-exile-ii-crystal-souls.json) |
