@@ -1016,7 +1016,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Leveling Warrior | 382444 | [382444-hardcore-leveling-warrior.json](./382444-hardcore-leveling-warrior.json) |
 | Hardcore Mecha: Fighter Edition | 136927 | [136927-hardcore-mecha-fighter-edition.json](./136927-hardcore-mecha-fighter-edition.json) |
 | Hardcore Mecha: Graeme | 168211 | [168211-hardcore-mecha-graeme.json](./168211-hardcore-mecha-graeme.json) |
+| Hardcore Mecha: Pilot Pack 1 | 168209 | [168209-hardcore-mecha-pilot-pack-1.json](./168209-hardcore-mecha-pilot-pack-1.json) |
+| Hardcore Mecha: Round Hammer Particle Cannon | 168208 | [168208-hardcore-mecha-round-hammer-particle-cannon.json](./168208-hardcore-mecha-round-hammer-particle-cannon.json) |
 | Hardcore Mecha: Shepherd Jaeger | 168212 | [168212-hardcore-mecha-shepherd-jaeger.json](./168212-hardcore-mecha-shepherd-jaeger.json) |
+| Hardcore Mecha: Thunderbolt Otome | 168210 | [168210-hardcore-mecha-thunderbolt-otome.json](./168210-hardcore-mecha-thunderbolt-otome.json) |
 | Hardcore Parkour | 119765 | [119765-hardcore-parkour.json](./119765-hardcore-parkour.json) |
 | Hardcore Soldier | 406214 | [406214-hardcore-soldier.json](./406214-hardcore-soldier.json) |
 | Hardcore Trivia | 169848 | [169848-hardcore-trivia.json](./169848-hardcore-trivia.json) |
@@ -2945,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic II | 20752 | [20752-heretic-ii.json](./20752-heretic-ii.json) |
 | Heretic Invades Doom | 316984 | [316984-heretic-invades-doom.json](./316984-heretic-invades-doom.json) |
 | Heretic Operative | 113792 | [113792-heretic-operative.json](./113792-heretic-operative.json) |
+| Heretic Operative: Blood Cult | 168188 | [168188-heretic-operative-blood-cult.json](./168188-heretic-operative-blood-cult.json) |
 | Heretic Red | 335279 | [335279-heretic-red.json](./335279-heretic-red.json) |
 | Heretic Speedmapping 1 | 268627 | [268627-heretic-speedmapping-1.json](./268627-heretic-speedmapping-1.json) |
 | Heretic Speedmapping 2 | 268628 | [268628-heretic-speedmapping-2.json](./268628-heretic-speedmapping-2.json) |
