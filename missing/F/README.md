@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Down | 95432 | [95432-fall-down.json](./95432-fall-down.json) |
 | Fall Down | 96230 | [96230-fall-down.json](./96230-fall-down.json) |
 | Fall Dudes 3D | 136946 | [136946-fall-dudes-3d.json](./136946-fall-dudes-3d.json) |
+| Fall for Greed | 145255 | [145255-fall-for-greed.json](./145255-fall-for-greed.json) |
 | Fall From Eden | 340053 | [340053-fall-from-eden.json](./340053-fall-from-eden.json) |
 | Fall Gummies | 146796 | [146796-fall-gummies.json](./146796-fall-gummies.json) |
 | Fall Guy | 40927 | [40927-fall-guy.json](./40927-fall-guy.json) |
@@ -2180,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fibonacci's Final Sequence | 287209 | [287209-fibonaccis-final-sequence.json](./287209-fibonaccis-final-sequence.json) |
 | Fibras | 378446 | [378446-fibras.json](./378446-fibras.json) |
 | Fibula | 253945 | [253945-fibula.json](./253945-fibula.json) |
+| Fibula Wars | 145293 | [145293-fibula-wars.json](./145293-fibula-wars.json) |
 | Fickle Allies | 417495 | [417495-fickle-allies.json](./417495-fickle-allies.json) |
 | FickleFlame | 367472 | [367472-fickleflame.json](./367472-fickleflame.json) |
 | Fiction Fixers: The Curse of Oz & Adventures in Wonderland | 209421 | [209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json](./209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json) |
