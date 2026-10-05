@@ -7055,6 +7055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lobster Game | 204980 | [204980-the-lobster-game.json](./204980-the-lobster-game.json) |
 | The Locked Room | 365221 | [365221-the-locked-room.json](./365221-the-locked-room.json) |
 | The Lodge | 158190 | [158190-the-lodge.json](./158190-the-lodge.json) |
+| The logic inside | 160265 | [160265-the-logic-inside.json](./160265-the-logic-inside.json) |
 | The Lone Alien | 237079 | [237079-the-lone-alien.json](./237079-the-lone-alien.json) |
 | The Lone Chameleon | 87994 | [87994-the-lone-chameleon.json](./87994-the-lone-chameleon.json) |
 | The Lone Hero | 387522 | [387522-the-lone-hero.json](./387522-the-lone-hero.json) |
@@ -9161,6 +9162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Soul Ring of Soro: Divine Realm | 301603 | [301603-the-soul-ring-of-soro-divine-realm.json](./301603-the-soul-ring-of-soro-divine-realm.json) |
 | The SoulKeeper VR | 27193 | [27193-the-soulkeeper-vr.json](./27193-the-soulkeeper-vr.json) |
 | The Soulwalkers | 252796 | [252796-the-soulwalkers.json](./252796-the-soulwalkers.json) |
+| The Sound of Fireworks: The Haiku | 160266 | [160266-the-sound-of-fireworks-the-haiku.json](./160266-the-sound-of-fireworks-the-haiku.json) |
 | The Source | 249923 | [249923-the-source.json](./249923-the-source.json) |
 | The source of evil | 29790 | [29790-the-source-of-evil.json](./29790-the-source-of-evil.json) |
 | The Source of the Nightmare Storms | 126625 | [126625-the-source-of-the-nightmare-storms.json](./126625-the-source-of-the-nightmare-storms.json) |
@@ -11762,7 +11764,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Striker: MP081 | 189719 | [189719-tiger-striker-mp081.json](./189719-tiger-striker-mp081.json) |
 | Tiger Striker: MP094 | 189722 | [189722-tiger-striker-mp094.json](./189722-tiger-striker-mp094.json) |
 | Tiger Striker: MP100 | 189723 | [189723-tiger-striker-mp100.json](./189723-tiger-striker-mp100.json) |
+| Tiger Tank | 160284 | [160284-tiger-tank.json](./160284-tiger-tank.json) |
 | Tiger Tank | 365706 | [365706-tiger-tank.json](./365706-tiger-tank.json) |
+| Tiger Tank 59 I A-Gun MP013 | 160307 | [160307-tiger-tank-59-i-a-gun-mp013.json](./160307-tiger-tank-59-i-a-gun-mp013.json) |
 | Tiger Tank 59 I Air Strike | 119047 | [119047-tiger-tank-59-i-air-strike.json](./119047-tiger-tank-59-i-air-strike.json) |
 | Tiger Tank 59 I Battleship | 119672 | [119672-tiger-tank-59-i-battleship.json](./119672-tiger-tank-59-i-battleship.json) |
 | Tiger Tank 59 I Rainstorm | 118371 | [118371-tiger-tank-59-i-rainstorm.json](./118371-tiger-tank-59-i-rainstorm.json) |
@@ -11871,6 +11875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Battleship MP058 | 160323 | [160323-tiger-tank-59-i-battleship-mp058.json](./160323-tiger-tank-59-i-battleship-mp058.json) |
 | Tiger Tank 59 I: Battleship MP061 | 161150 | [161150-tiger-tank-59-i-battleship-mp061.json](./161150-tiger-tank-59-i-battleship-mp061.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP001 | 160345 | [160345-tiger-tank-59-i-black-hill-fortress-mp001.json](./160345-tiger-tank-59-i-black-hill-fortress-mp001.json) |
+| Tiger Tank 59 I: Black Hill Fortress MP017 | 160304 | [160304-tiger-tank-59-i-black-hill-fortress-mp017.json](./160304-tiger-tank-59-i-black-hill-fortress-mp017.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP022 | 160353 | [160353-tiger-tank-59-i-black-hill-fortress-mp022.json](./160353-tiger-tank-59-i-black-hill-fortress-mp022.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP033 | 160341 | [160341-tiger-tank-59-i-black-hill-fortress-mp033.json](./160341-tiger-tank-59-i-black-hill-fortress-mp033.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP035 | 160330 | [160330-tiger-tank-59-i-black-hill-fortress-mp035.json](./160330-tiger-tank-59-i-black-hill-fortress-mp035.json) |
@@ -11999,6 +12004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Mission Pack 056 | 161139 | [161139-tiger-tank-59-i-mission-pack-056.json](./161139-tiger-tank-59-i-mission-pack-056.json) |
 | Tiger Tank 59 I: Mission Pack 059 | 161145 | [161145-tiger-tank-59-i-mission-pack-059.json](./161145-tiger-tank-59-i-mission-pack-059.json) |
 | Tiger Tank 59 I: Mission Pack 062 | 160320 | [160320-tiger-tank-59-i-mission-pack-062.json](./160320-tiger-tank-59-i-mission-pack-062.json) |
+| Tiger Tank 59 I: Mission Pack 063 | 160308 | [160308-tiger-tank-59-i-mission-pack-063.json](./160308-tiger-tank-59-i-mission-pack-063.json) |
 | Tiger Tank 59 I: Mission Pack 066 | 161144 | [161144-tiger-tank-59-i-mission-pack-066.json](./161144-tiger-tank-59-i-mission-pack-066.json) |
 | Tiger Tank 59 I: Mission Pack 069 | 161140 | [161140-tiger-tank-59-i-mission-pack-069.json](./161140-tiger-tank-59-i-mission-pack-069.json) |
 | Tiger Tank 59 I: Mission Pack 073 | 161138 | [161138-tiger-tank-59-i-mission-pack-073.json](./161138-tiger-tank-59-i-mission-pack-073.json) |
