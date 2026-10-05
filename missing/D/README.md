@@ -3725,6 +3725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Storm with Coalition Command | 122274 | [122274-desert-storm-with-coalition-command.json](./122274-desert-storm-with-coalition-command.json) |
 | Desert Strike: Return to the Gulf | 228494 | [228494-desert-strike-return-to-the-gulf.json](./228494-desert-strike-return-to-the-gulf.json) |
 | Desert Strike: Return to the Gulf | 6798 | [6798-desert-strike-return-to-the-gulf.json](./6798-desert-strike-return-to-the-gulf.json) |
+| Desert Tank | 125802 | [125802-desert-tank.json](./125802-desert-tank.json) |
 | Desert Things | 203954 | [203954-desert-things.json](./203954-desert-things.json) |
 | Desert Thunder | 358380 | [358380-desert-thunder.json](./358380-desert-thunder.json) |
 | Desert Thunder | 9820 | [9820-desert-thunder.json](./9820-desert-thunder.json) |
@@ -6150,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Wash! | 225656 | [225656-dog-wash.json](./225656-dog-wash.json) |
 | Dog Years | 266800 | [266800-dog-years.json](./266800-dog-years.json) |
 | Dog-a-Boo | 90623 | [90623-dog-a-boo.json](./90623-dog-a-boo.json) |
+| Dog-O | 125798 | [125798-dog-o.json](./125798-dog-o.json) |
 | Dog! | 183362 | [183362-dog.json](./183362-dog.json) |
 | Dog's Garden | 188009 | [188009-dogs-garden.json](./188009-dogs-garden.json) |
 | Dog's Muck Island | 203216 | [203216-dogs-muck-island.json](./203216-dogs-muck-island.json) |
