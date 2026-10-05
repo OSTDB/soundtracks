@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Heat 5: Ultimate Edition+ | 187308 | [187308-nascar-heat-5-ultimate-edition.json](./187308-nascar-heat-5-ultimate-edition.json) |
 | NASCAR Heat Bundle | 273941 | [273941-nascar-heat-bundle.json](./273941-nascar-heat-bundle.json) |
 | NASCAR Heat Evolution: Toyota Challenge Pack 1 | 157553 | [157553-nascar-heat-evolution-toyota-challenge-pack-1.json](./157553-nascar-heat-evolution-toyota-challenge-pack-1.json) |
+| NASCAR Heat Evolution: Toyota Challenge Pack 4 | 156195 | [156195-nascar-heat-evolution-toyota-challenge-pack-4.json](./156195-nascar-heat-evolution-toyota-challenge-pack-4.json) |
 | NASCAR Racers | 26815 | [26815-nascar-racers.json](./26815-nascar-racers.json) |
 | Nascar Racing | 199011 | [199011-nascar-racing.json](./199011-nascar-racing.json) |
 | NASCAR Racing | 45224 | [45224-nascar-racing.json](./45224-nascar-racing.json) |
