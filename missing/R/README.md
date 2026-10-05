@@ -5448,6 +5448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Rhythm | 312747 | [312747-rogue-rhythm.json](./312747-rogue-rhythm.json) |
 | Rogue Rising | 171504 | [171504-rogue-rising.json](./171504-rogue-rising.json) |
 | Rogue Robot: Escape Protocol | 304616 | [304616-rogue-robot-escape-protocol.json](./304616-rogue-robot-escape-protocol.json) |
+| Rogue Robots | 135653 | [135653-rogue-robots.json](./135653-rogue-robots.json) |
 | Rogue Run | 407304 | [407304-rogue-run.json](./407304-rogue-run.json) |
 | Rogue Samurai | 266278 | [266278-rogue-samurai.json](./266278-rogue-samurai.json) |
 | Rogue Seas | 176830 | [176830-rogue-seas.json](./176830-rogue-seas.json) |
