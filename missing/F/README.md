@@ -6038,6 +6038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fraud Camp: Survival Escape | 372455 | [372455-fraud-camp-survival-escape.json](./372455-fraud-camp-survival-escape.json) |
 | Fraudster | 340245 | [340245-fraudster.json](./340245-fraudster.json) |
 | Fraxinus Decay | 188373 | [188373-fraxinus-decay.json](./188373-fraxinus-decay.json) |
+| Fraxy | 124574 | [124574-fraxy.json](./124574-fraxy.json) |
 | Fray | 305518 | [305518-fray.json](./305518-fray.json) |
 | Fray | 381038 | [381038-fray.json](./381038-fray.json) |
 | Fray: Reloaded Edition | 16364 | [16364-fray-reloaded-edition.json](./16364-fray-reloaded-edition.json) |
