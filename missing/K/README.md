@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji Wars | 346014 | [346014-kanji-wars.json](./346014-kanji-wars.json) |
 | KanjiFlash | 367056 | [367056-kanjiflash.json](./367056-kanjiflash.json) |
 | Kanjozoku Game: Car Racing & Highway Driving Simulator Remaster | 399798 | [399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json](./399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json) |
+| Kanna | 127735 | [127735-kanna.json](./127735-kanna.json) |
 | Kanna Maze | 300967 | [300967-kanna-maze.json](./300967-kanna-maze.json) |
 | Kanna School | 336662 | [336662-kanna-school.json](./336662-kanna-school.json) |
 | Kannagi no Mori Samidare Tsuzuri | 136476 | [136476-kannagi-no-mori-samidare-tsuzuri.json](./136476-kannagi-no-mori-samidare-tsuzuri.json) |
@@ -2379,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Club + | 146271 | [146271-knight-club.json](./146271-knight-club.json) |
 | Knight Crawler | 356886 | [356886-knight-crawler.json](./356886-knight-crawler.json) |
 | Knight Crawlers | 197216 | [197216-knight-crawlers.json](./197216-knight-crawlers.json) |
+| Knight Dice | 127813 | [127813-knight-dice.json](./127813-knight-dice.json) |
 | Knight Driver | 133443 | [133443-knight-driver.json](./133443-knight-driver.json) |
 | Knight Empire Online | 130719 | [130719-knight-empire-online.json](./130719-knight-empire-online.json) |
 | Knight Fighter | 96902 | [96902-knight-fighter.json](./96902-knight-fighter.json) |
