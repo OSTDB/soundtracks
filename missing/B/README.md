@@ -2392,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleMore | 111689 | [111689-battlemore.json](./111689-battlemore.json) |
 | Battlenauts | 323727 | [323727-battlenauts.json](./323727-battlenauts.json) |
 | BattleOps | 224097 | [224097-battleops.json](./224097-battleops.json) |
+| BattleParty | 143937 | [143937-battleparty.json](./143937-battleparty.json) |
 | Battlepaths | 9779 | [9779-battlepaths.json](./9779-battlepaths.json) |
 | BattlePets | 300983 | [300983-battlepets.json](./300983-battlepets.json) |
 | Battlepillars: Gold Edition | 36411 | [36411-battlepillars-gold-edition.json](./36411-battlepillars-gold-edition.json) |
@@ -7570,6 +7571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxville: Collector's Edition | 230807 | [230807-boxville-collectors-edition.json](./230807-boxville-collectors-edition.json) |
 | BoxVR | 91208 | [91208-boxvr.json](./91208-boxvr.json) |
 | Boxworld | 287649 | [287649-boxworld.json](./287649-boxworld.json) |
+| BoxxyQuest: The Gathering Storm | 143929 | [143929-boxxyquest-the-gathering-storm.json](./143929-boxxyquest-the-gathering-storm.json) |
 | Boxy Boy | 277524 | [277524-boxy-boy.json](./277524-boxy-boy.json) |
 | Boxy Trial | 122334 | [122334-boxy-trial.json](./122334-boxy-trial.json) |
 | Boxyboy | 94912 | [94912-boxyboy.json](./94912-boxyboy.json) |
@@ -9246,6 +9248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny on Rails | 298831 | [298831-bunny-on-rails.json](./298831-bunny-on-rails.json) |
 | Bunny Pop 2: Beat the Wolf | 103890 | [103890-bunny-pop-2-beat-the-wolf.json](./103890-bunny-pop-2-beat-the-wolf.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
+| Bunny Quest | 143942 | [143942-bunny-quest.json](./143942-bunny-quest.json) |
 | Bunny Reversi | 119535 | [119535-bunny-reversi.json](./119535-bunny-reversi.json) |
 | Bunny Roulette | 335518 | [335518-bunny-roulette.json](./335518-bunny-roulette.json) |
 | Bunny Sword Master | 109043 | [109043-bunny-sword-master.json](./109043-bunny-sword-master.json) |
