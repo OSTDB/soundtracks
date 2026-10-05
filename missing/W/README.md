@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War in Space | 111010 | [111010-war-in-space.json](./111010-war-in-space.json) |
 | War in Spain 1936-39 | 388197 | [388197-war-in-spain-1936-39.json](./388197-war-in-spain-1936-39.json) |
 | War in the Pacific | 27643 | [27643-war-in-the-pacific.json](./27643-war-in-the-pacific.json) |
+| War in the Pacific: Admiral's Edition | 129538 | [129538-war-in-the-pacific-admirals-edition.json](./129538-war-in-the-pacific-admirals-edition.json) |
 | War In Zone | 408053 | [408053-war-in-zone.json](./408053-war-in-zone.json) |
 | War Inc InfantryZone | 125841 | [125841-war-inc-infantryzone.json](./125841-war-inc-infantryzone.json) |
 | War is Hare | 274523 | [274523-war-is-hare.json](./274523-war-is-hare.json) |
@@ -1784,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird RPG | 219144 | [219144-weird-rpg.json](./219144-weird-rpg.json) |
 | Weird RPG 2 | 286042 | [286042-weird-rpg-2.json](./286042-weird-rpg-2.json) |
 | Weird Store | 252135 | [252135-weird-store.json](./252135-weird-store.json) |
+| Weird War: The Unknown Episode of World War II | 129543 | [129543-weird-war-the-unknown-episode-of-world-war-ii.json](./129543-weird-war-the-unknown-episode-of-world-war-ii.json) |
 | Weird Water World | 409629 | [409629-weird-water-world.json](./409629-weird-water-world.json) |
 | Weird West: Definitive Edition | 250504 | [250504-weird-west-definitive-edition.json](./250504-weird-west-definitive-edition.json) |
 | Weird: Truth is Stranger than Fiction | 69217 | [69217-weird-truth-is-stranger-than-fiction.json](./69217-weird-truth-is-stranger-than-fiction.json) |
