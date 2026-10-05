@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zootto Mahjong!: Event Version | 178929 | [178929-zootto-mahjong-event-version.json](./178929-zootto-mahjong-event-version.json) |
 | ZooZooGo! | 64396 | [64396-zoozoogo.json](./64396-zoozoogo.json) |
 | Zopa | 303168 | [303168-zopa.json](./303168-zopa.json) |
+| Zor: Pilgrimage of the Slorfs | 123962 | [123962-zor-pilgrimage-of-the-slorfs.json](./123962-zor-pilgrimage-of-the-slorfs.json) |
 | Zorakk: The Conqueror | 57154 | [57154-zorakk-the-conqueror.json](./57154-zorakk-the-conqueror.json) |
 | Zorax | 221227 | [221227-zorax.json](./221227-zorax.json) |
 | Zordak | 140297 | [140297-zordak.json](./140297-zordak.json) |
