@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash x Survivors | 266276 | [266276-dash-x-survivors.json](./266276-dash-x-survivors.json) |
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
 | Dash'n'Drops | 389587 | [389587-dashndrops.json](./389587-dashndrops.json) |
+| Dashball | 135644 | [135644-dashball.json](./135644-dashball.json) |
 | DashBored | 32847 | [32847-dashbored.json](./32847-dashbored.json) |
 | Dashbounce | 264801 | [264801-dashbounce.json](./264801-dashbounce.json) |
 | Dasher | 158205 | [158205-dasher.json](./158205-dasher.json) |
@@ -3245,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Democracy 4 | 109483 | [109483-democracy-4.json](./109483-democracy-4.json) |
 | Democracy 4: Event Pack | 242020 | [242020-democracy-4-event-pack.json](./242020-democracy-4-event-pack.json) |
 | Democracy: The Board Game | 232492 | [232492-democracy-the-board-game.json](./232492-democracy-the-board-game.json) |
+| Demolish & Build | 135607 | [135607-demolish-and-build.json](./135607-demolish-and-build.json) |
 | Demolish & Build 2017 | 24941 | [24941-demolish-and-build-2017.json](./24941-demolish-and-build-2017.json) |
 | Demolish & Build 2018 | 90102 | [90102-demolish-and-build-2018.json](./90102-demolish-and-build-2018.json) |
 | Demolition | 125341 | [125341-demolition.json](./125341-demolition.json) |
@@ -3762,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Fishing | 344545 | [344545-desktop-fishing.json](./344545-desktop-fishing.json) |
 | Desktop Football | 196831 | [196831-desktop-football.json](./196831-desktop-football.json) |
 | Desktop Garden | 177478 | [177478-desktop-garden.json](./177478-desktop-garden.json) |
+| Desktop Goose | 135622 | [135622-desktop-goose.json](./135622-desktop-goose.json) |
 | Desktop Hacker | 203953 | [203953-desktop-hacker.json](./203953-desktop-hacker.json) |
 | Desktop Heroes | 361291 | [361291-desktop-heroes.json](./361291-desktop-heroes.json) |
 | Desktop Island: Idle Together! | 412456 | [412456-desktop-island-idle-together.json](./412456-desktop-island-idle-together.json) |
@@ -6164,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doghouse 3 | 374756 | [374756-doghouse-3.json](./374756-doghouse-3.json) |
 | Dogimegi Inryoku-chan: Love & Peace | 336177 | [336177-dogimegi-inryoku-chan-love-and-peace.json](./336177-dogimegi-inryoku-chan-love-and-peace.json) |
 | Dogistry | 58799 | [58799-dogistry.json](./58799-dogistry.json) |
+| Dogma | 135646 | [135646-dogma.json](./135646-dogma.json) |
 | Dogma | 74466 | [74466-dogma.json](./74466-dogma.json) |
 | Dogma no Hakoniwa | 394543 | [394543-dogma-no-hakoniwa.json](./394543-dogma-no-hakoniwa.json) |
 | Dogma: Eternal Night | 110306 | [110306-dogma-eternal-night.json](./110306-dogma-eternal-night.json) |
@@ -7316,6 +7320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoudingMan | 264015 | [264015-doudingman.json](./264015-doudingman.json) |
 | DoudingMan: Expansion Packs | 288899 | [288899-doudingman-expansion-packs.json](./288899-doudingman-expansion-packs.json) |
 | Dòudìzhǔ VR | 89423 | [89423-doudizhu-vr.json](./89423-doudizhu-vr.json) |
+| Doug Hates His Job | 135606 | [135606-doug-hates-his-job.json](./135606-doug-hates-his-job.json) |
 | Doug Huggem | 294809 | [294809-doug-huggem.json](./294809-doug-huggem.json) |
 | Doug's Nightmare | 236397 | [236397-dougs-nightmare.json](./236397-dougs-nightmare.json) |
 | Douga de Kiku Ano Kyoku no Rhythm Game | 301980 | [301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json](./301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json) |
@@ -8215,6 +8220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw it | 415304 | [415304-draw-it.json](./415304-draw-it.json) |
 | Draw Mania | 200155 | [200155-draw-mania.json](./200155-draw-mania.json) |
 | Draw Near | 95600 | [95600-draw-near.json](./95600-draw-near.json) |
+| Draw Nine | 135613 | [135613-draw-nine.json](./135613-draw-nine.json) |
 | Draw No More | 177523 | [177523-draw-no-more.json](./177523-draw-no-more.json) |
 | Draw Puzzle | 46479 | [46479-draw-puzzle.json](./46479-draw-puzzle.json) |
 | Draw Rider | 33349 | [33349-draw-rider.json](./33349-draw-rider.json) |
