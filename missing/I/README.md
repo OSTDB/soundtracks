@@ -1770,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Independent Games | 210063 | [210063-independent-games.json](./210063-independent-games.json) |
 | Indestructotank | 9682 | [9682-indestructotank.json](./9682-indestructotank.json) |
 | Indestructotank Anniversary Edition | 279748 | [279748-indestructotank-anniversary-edition.json](./279748-indestructotank-anniversary-edition.json) |
+| IndestructoTank! | 144588 | [144588-indestructotank.json](./144588-indestructotank.json) |
 | Indian Army: Mission Pok | 171399 | [171399-indian-army-mission-pok.json](./171399-indian-army-mission-pok.json) |
 | Indian Bus Simulator: Game | 384620 | [384620-indian-bus-simulator-game.json](./384620-indian-bus-simulator-game.json) |
 | Indian Mutiny: Little Sepoy | 101351 | [101351-indian-mutiny-little-sepoy.json](./101351-indian-mutiny-little-sepoy.json) |
@@ -2466,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside | 266747 | [266747-inside.json](./266747-inside.json) |
 | Inside | 80481 | [80481-inside.json](./80481-inside.json) |
 | Inside a Dead Skyscraper | 316687 | [316687-inside-a-dead-skyscraper.json](./316687-inside-a-dead-skyscraper.json) |
+| Inside Depth 6 | 144581 | [144581-inside-depth-6.json](./144581-inside-depth-6.json) |
 | Inside Explorer | 148966 | [148966-inside-explorer.json](./148966-inside-explorer.json) |
 | Inside Explorer: Mummy with figurines | 168709 | [168709-inside-explorer-mummy-with-figurines.json](./168709-inside-explorer-mummy-with-figurines.json) |
 | Inside Explorer: The Gilded Lady | 168710 | [168710-inside-explorer-the-gilded-lady.json](./168710-inside-explorer-the-gilded-lady.json) |
