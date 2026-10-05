@@ -1568,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oni no Yakata | 286759 | [286759-oni-no-yakata.json](./286759-oni-no-yakata.json) |
 | Oni Oneesan | 253887 | [253887-oni-oneesan.json](./253887-oni-oneesan.json) |
 | Oni V: Innin no Tsugumono | 63369 | [63369-oni-v-innin-no-tsugumono.json](./63369-oni-v-innin-no-tsugumono.json) |
+| Oni Zero: Fukkatsu | 166563 | [166563-oni-zero-fukkatsu.json](./166563-oni-zero-fukkatsu.json) |
 | Oni: Road to be the Mightiest Oni | 194944 | [194944-oni-road-to-be-the-mightiest-oni.json](./194944-oni-road-to-be-the-mightiest-oni.json) |
 | Onigami | 184562 | [184562-onigami.json](./184562-onigami.json) |
 | Onigashima: Awakening | 406103 | [406103-onigashima-awakening.json](./406103-onigashima-awakening.json) |
