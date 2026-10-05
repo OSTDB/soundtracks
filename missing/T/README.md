@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Wars | 85827 | [85827-tank-wars.json](./85827-tank-wars.json) |
 | Tank Warz! | 61609 | [61609-tank-warz.json](./61609-tank-warz.json) |
 | Tank Zero | 372050 | [372050-tank-zero.json](./372050-tank-zero.json) |
+| Tank Zombie Smasher | 156209 | [156209-tank-zombie-smasher.json](./156209-tank-zombie-smasher.json) |
 | Tank-O-Box | 78682 | [78682-tank-o-box.json](./78682-tank-o-box.json) |
 | Tank: The M1A1 Abrams Battle Tank Simulation | 90602 | [90602-tank-the-m1a1-abrams-battle-tank-simulation.json](./90602-tank-the-m1a1-abrams-battle-tank-simulation.json) |
 | Tank! Tank! Tank! | 5323 | [5323-tank-tank-tank.json](./5323-tank-tank-tank.json) |
@@ -3529,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Best Play Baseball II | 267637 | [267637-the-best-play-baseball-ii.json](./267637-the-best-play-baseball-ii.json) |
 | The Best Text Adventure | 308410 | [308410-the-best-text-adventure.json](./308410-the-best-text-adventure.json) |
 | The Better Angels | 281370 | [281370-the-better-angels.json](./281370-the-better-angels.json) |
+| The Better Dead Ratification | 156190 | [156190-the-better-dead-ratification.json](./156190-the-better-dead-ratification.json) |
 | The Better Place | 229707 | [229707-the-better-place.json](./229707-the-better-place.json) |
 | The Beyond Of Fears: New House | 304876 | [304876-the-beyond-of-fears-new-house.json](./304876-the-beyond-of-fears-new-house.json) |
 | The Beziér Game | 138840 | [138840-the-bezier-game.json](./138840-the-bezier-game.json) |
@@ -8653,6 +8655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Second Reproduction: Reunion | 383596 | [383596-the-second-reproduction-reunion.json](./383596-the-second-reproduction-reunion.json) |
 | The Second Sight: Dead Reckoning | 331138 | [331138-the-second-sight-dead-reckoning.json](./331138-the-second-sight-dead-reckoning.json) |
 | The Secret Atelier | 288991 | [288991-the-secret-atelier.json](./288991-the-secret-atelier.json) |
+| The Secret Blue Forest | 155971 | [155971-the-secret-blue-forest.json](./155971-the-secret-blue-forest.json) |
 | The Secret Chronicles of Dr. M. | 134077 | [134077-the-secret-chronicles-of-dr-m.json](./134077-the-secret-chronicles-of-dr-m.json) |
 | The Secret Codes of C.Y.P.H.E.R.: Operation Wildlife | 68739 | [68739-the-secret-codes-of-c-y-p-h-e-r-operation-wildlife.json](./68739-the-secret-codes-of-c-y-p-h-e-r-operation-wildlife.json) |
 | The Secret Fake Ring | 352327 | [352327-the-secret-fake-ring.json](./352327-the-secret-fake-ring.json) |
@@ -9757,6 +9760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of TigerQiuQiu: Guardian | 157610 | [157610-the-tower-of-tigerqiuqiu-guardian.json](./157610-the-tower-of-tigerqiuqiu-guardian.json) |
 | The Tower of TigerQiuQiu: Hit Balls | 157617 | [157617-the-tower-of-tigerqiuqiu-hit-balls.json](./157617-the-tower-of-tigerqiuqiu-hit-balls.json) |
 | The Tower of TigerQiuQiu: Image Breaker | 157588 | [157588-the-tower-of-tigerqiuqiu-image-breaker.json](./157588-the-tower-of-tigerqiuqiu-image-breaker.json) |
+| The Tower of TigerQiuQiu: Insect Invade | 156203 | [156203-the-tower-of-tigerqiuqiu-insect-invade.json](./156203-the-tower-of-tigerqiuqiu-insect-invade.json) |
 | The Tower of TigerQiuQiu: Insect Invade 2 | 157591 | [157591-the-tower-of-tigerqiuqiu-insect-invade-2.json](./157591-the-tower-of-tigerqiuqiu-insect-invade-2.json) |
 | The Tower of TigerQiuQiu: Into The Blue | 157631 | [157631-the-tower-of-tigerqiuqiu-into-the-blue.json](./157631-the-tower-of-tigerqiuqiu-into-the-blue.json) |
 | The Tower of TigerQiuQiu: Kamov Kv-51 | 157593 | [157593-the-tower-of-tigerqiuqiu-kamov-kv-51.json](./157593-the-tower-of-tigerqiuqiu-kamov-kv-51.json) |
@@ -10661,6 +10665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Is Nothing Here | 179174 | [179174-there-is-nothing-here.json](./179174-there-is-nothing-here.json) |
 | There is nothing here. | 176789 | [176789-there-is-nothing-here.json](./176789-there-is-nothing-here.json) |
 | There is Still Hope | 211669 | [211669-there-is-still-hope.json](./211669-there-is-still-hope.json) |
+| There May be Ninety-Nine of Us, but We Have to Win in Ninety-Nine Turns! | 156211 | [156211-there-may-be-ninety-nine-of-us-but-we-have-to-win-in-ninety-nine-turns.json](./156211-there-may-be-ninety-nine-of-us-but-we-have-to-win-in-ninety-nine-turns.json) |
 | There Shall Be Lancing | 144231 | [144231-there-shall-be-lancing.json](./144231-there-shall-be-lancing.json) |
 | There Swings a Skull: Grim Tidings | 200528 | [200528-there-swings-a-skull-grim-tidings.json](./200528-there-swings-a-skull-grim-tidings.json) |
 | There the Light | 117846 | [117846-there-the-light.json](./117846-there-the-light.json) |
@@ -15468,6 +15473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator 2021: CSX C30-7 Loco | 162376 | [162376-train-simulator-2021-csx-c30-7-loco.json](./162376-train-simulator-2021-csx-c30-7-loco.json) |
 | Train Simulator 2021: CSX NRE 3GS-21B 'Genset' Loco | 162335 | [162335-train-simulator-2021-csx-nre-3gs-21b-genset-loco.json](./162335-train-simulator-2021-csx-nre-3gs-21b-genset-loco.json) |
 | Train Simulator 2021: D&RGW SW1200 Loco | 162369 | [162369-train-simulator-2021-d-and-rgw-sw1200-loco.json](./162369-train-simulator-2021-d-and-rgw-sw1200-loco.json) |
+| Train Simulator 2021: DB BR 114 Loco Add-On | 156197 | [156197-train-simulator-2021-db-br-114-loco-add-on.json](./156197-train-simulator-2021-db-br-114-loco-add-on.json) |
 | Train Simulator 2021: DB BR 120 Loco | 162396 | [162396-train-simulator-2021-db-br-120-loco.json](./162396-train-simulator-2021-db-br-120-loco.json) |
 | Train Simulator 2021: DB BR 18 Steam Loco | 162318 | [162318-train-simulator-2021-db-br-18-steam-loco.json](./162318-train-simulator-2021-db-br-18-steam-loco.json) |
 | Train Simulator 2021: DB BR 204 Loco | 162355 | [162355-train-simulator-2021-db-br-204-loco.json](./162355-train-simulator-2021-db-br-204-loco.json) |
