@@ -2179,6 +2179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Run: Oz | 63613 | [63613-temple-run-oz.json](./63613-temple-run-oz.json) |
 | Temple Run: Treasure Hunters | 233503 | [233503-temple-run-treasure-hunters.json](./233503-temple-run-treasure-hunters.json) |
 | Temple with Traps | 167166 | [167166-temple-with-traps.json](./167166-temple-with-traps.json) |
+| TempleFight | 148113 | [148113-templefight.json](./148113-templefight.json) |
 | Temples vs. Buildings | 296353 | [296353-temples-vs-buildings.json](./296353-temples-vs-buildings.json) |
 | Templum de Malum | 118399 | [118399-templum-de-malum.json](./118399-templum-de-malum.json) |
 | Templum Dormiens Dei | 268460 | [268460-templum-dormiens-dei.json](./268460-templum-dormiens-dei.json) |
@@ -2403,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teodoro and the Evil Machines | 153873 | [153873-teodoro-and-the-evil-machines.json](./153873-teodoro-and-the-evil-machines.json) |
 | Teodoro no sabe volar | 360124 | [360124-teodoro-no-sabe-volar.json](./360124-teodoro-no-sabe-volar.json) |
 | TEOM | 236013 | [236013-teom.json](./236013-teom.json) |
+| Teomim Island | 148134 | [148134-teomim-island.json](./148134-teomim-island.json) |
 | Teon: All Fair Hardcore ARPG | 83271 | [83271-teon-all-fair-hardcore-arpg.json](./83271-teon-all-fair-hardcore-arpg.json) |
 | Tep the Destroyer | 180000 | [180000-tep-the-destroyer.json](./180000-tep-the-destroyer.json) |
 | Teppen Banchou Take 1: Saikou no Yankee Ikusei Game | 220305 | [220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json](./220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json) |
@@ -2957,6 +2959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 2048 | 48015 | [48015-the-2048.json](./48015-the-2048.json) |
 | The 22nd is Serda. F0a178 | 219566 | [219566-the-22nd-is-serda-f0a178.json](./219566-the-22nd-is-serda-f0a178.json) |
 | The 257th Element | 289570 | [289570-the-257th-element.json](./289570-the-257th-element.json) |
+| The 2k Sports Collection | 148124 | [148124-the-2k-sports-collection.json](./148124-the-2k-sports-collection.json) |
 | The 3 Little Princesses | 357253 | [357253-the-3-little-princesses.json](./357253-the-3-little-princesses.json) |
 | The 3 Lost Challenges | 309018 | [309018-the-3-lost-challenges.json](./309018-the-3-lost-challenges.json) |
 | The 37th Week | 75823 | [75823-the-37th-week.json](./75823-the-37th-week.json) |
@@ -13939,6 +13942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Human | 292152 | [292152-too-human.json](./292152-too-human.json) |
 | Too Many Bots | 366889 | [366889-too-many-bots.json](./366889-too-many-bots.json) |
 | Too Many Cooks | 375838 | [375838-too-many-cooks.json](./375838-too-many-cooks.json) |
+| Too many Geckos! | 148127 | [148127-too-many-geckos.json](./148127-too-many-geckos.json) |
 | Too Many Kittens | 269839 | [269839-too-many-kittens.json](./269839-too-many-kittens.json) |
 | Too Many Me | 11011 | [11011-too-many-me.json](./11011-too-many-me.json) |
 | Too Many Nights | 315475 | [315475-too-many-nights.json](./315475-too-many-nights.json) |
@@ -16599,6 +16603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tremors: The Game | 127959 | [127959-tremors-the-game.json](./127959-tremors-the-game.json) |
 | Tren | 344455 | [344455-tren.json](./344455-tren.json) |
 | Trench Face | 365220 | [365220-trench-face.json](./365220-trench-face.json) |
+| Trench Foot | 148157 | [148157-trench-foot.json](./148157-trench-foot.json) |
 | Trench Lord: Eastern Front | 369049 | [369049-trench-lord-eastern-front.json](./369049-trench-lord-eastern-front.json) |
 | Trench Rats: The First March | 360147 | [360147-trench-rats-the-first-march.json](./360147-trench-rats-the-first-march.json) |
 | Trench Run | 30370 | [30370-trench-run.json](./30370-trench-run.json) |
@@ -17607,6 +17612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Kid | 212164 | [212164-turbo-kid.json](./212164-turbo-kid.json) |
 | Turbo Kids | 240348 | [240348-turbo-kids.json](./240348-turbo-kids.json) |
 | Turbo Leaper | 266204 | [266204-turbo-leaper.json](./266204-turbo-leaper.json) |
+| Turbo Learning: Mega Math | 148128 | [148128-turbo-learning-mega-math.json](./148128-turbo-learning-mega-math.json) |
 | Turbo Live | 318765 | [318765-turbo-live.json](./318765-turbo-live.json) |
 | Turbo Loop | 406952 | [406952-turbo-loop.json](./406952-turbo-loop.json) |
 | Turbo OutRun | 2053 | [2053-turbo-outrun.json](./2053-turbo-outrun.json) |
