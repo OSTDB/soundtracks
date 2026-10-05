@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddada | 204518 | [204518-oddada.json](./204518-oddada.json) |
 | OddBallers | 119089 | [119089-oddballers.json](./119089-oddballers.json) |
 | Oddballz: Your Wacky Computer Petz | 78013 | [78013-oddballz-your-wacky-computer-petz.json](./78013-oddballz-your-wacky-computer-petz.json) |
+| Oddest Sea | 133171 | [133171-oddest-sea.json](./133171-oddest-sea.json) |
 | OddFauna: Secret of the Terrabeast | 192830 | [192830-oddfauna-secret-of-the-terrabeast.json](./192830-oddfauna-secret-of-the-terrabeast.json) |
 | Oddhop | 174368 | [174368-oddhop.json](./174368-oddhop.json) |
 | Oddinary Farm | 392291 | [392291-oddinary-farm.json](./392291-oddinary-farm.json) |
