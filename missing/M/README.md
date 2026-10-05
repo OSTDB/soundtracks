@@ -9134,6 +9134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morganica | 258963 | [258963-morganica.json](./258963-morganica.json) |
 | Morgue Rot: The Coroner's Quest | 217384 | [217384-morgue-rot-the-coroners-quest.json](./217384-morgue-rot-the-coroners-quest.json) |
 | Mori Adventures | 407351 | [407351-mori-adventures.json](./407351-mori-adventures.json) |
+| Mori and the Whisper | 118753 | [118753-mori-and-the-whisper.json](./118753-mori-and-the-whisper.json) |
 | Mori no Fantasy: Sekaiju no Densetsu | 220321 | [220321-mori-no-fantasy-sekaiju-no-densetsu.json](./220321-mori-no-fantasy-sekaiju-no-densetsu.json) |
 | Mori no Naka de Mayoi Ie kara no Dasshutsu | 358494 | [358494-mori-no-naka-de-mayoi-ie-kara-no-dasshutsu.json](./358494-mori-no-naka-de-mayoi-ie-kara-no-dasshutsu.json) |
 | Mòrì Zhàn Jī | 367585 | [367585-mori-zhan-ji.json](./367585-mori-zhan-ji.json) |
@@ -9269,6 +9270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: Mileena | 139442 | [139442-mortal-kombat-11-mileena.json](./139442-mortal-kombat-11-mileena.json) |
 | Mortal Kombat 11: Nightwolf | 133274 | [133274-mortal-kombat-11-nightwolf.json](./133274-mortal-kombat-11-nightwolf.json) |
 | Mortal Kombat 11: Ninja Mime Johnny Cage | 406880 | [406880-mortal-kombat-11-ninja-mime-johnny-cage.json](./406880-mortal-kombat-11-ninja-mime-johnny-cage.json) |
+| Mortal Kombat 11: Premium Edition | 118730 | [118730-mortal-kombat-11-premium-edition.json](./118730-mortal-kombat-11-premium-edition.json) |
 | Mortal Kombat 11: Rain | 139443 | [139443-mortal-kombat-11-rain.json](./139443-mortal-kombat-11-rain.json) |
 | Mortal Kombat 11: Rambo | 139444 | [139444-mortal-kombat-11-rambo.json](./139444-mortal-kombat-11-rambo.json) |
 | Mortal Kombat 11: RoboCop | 139440 | [139440-mortal-kombat-11-robocop.json](./139440-mortal-kombat-11-robocop.json) |
