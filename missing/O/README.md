@@ -2105,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbs Match | 88157 | [88157-orbs-match.json](./88157-orbs-match.json) |
 | Orbs Orbs Orbs | 342160 | [342160-orbs-orbs-orbs.json](./342160-orbs-orbs-orbs.json) |
 | Orbtangle | 221119 | [221119-orbtangle.json](./221119-orbtangle.json) |
+| OrbWars | 154051 | [154051-orbwars.json](./154051-orbwars.json) |
 | Orbyss | 343264 | [343264-orbyss.json](./343264-orbyss.json) |
 | Orc Hunt | 186277 | [186277-orc-hunt.json](./186277-orc-hunt.json) |
 | Orc Incursion | 292754 | [292754-orc-incursion.json](./292754-orc-incursion.json) |
