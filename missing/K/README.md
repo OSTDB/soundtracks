@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju-A-GoGo | 36155 | [36155-kaiju-a-gogo.json](./36155-kaiju-a-gogo.json) |
 | Kaiju-A-GoGo: Grey Goop | 159650 | [159650-kaiju-a-gogo-grey-goop.json](./159650-kaiju-a-gogo-grey-goop.json) |
 | Kaijuu Kitan Oboro: Jyuuya Kuuko Mangekyou | 114546 | [114546-kaijuu-kitan-oboro-jyuuya-kuuko-mangekyou.json](./114546-kaijuu-kitan-oboro-jyuuya-kuuko-mangekyou.json) |
+| Kaijuu Senki | 166658 | [166658-kaijuu-senki.json](./166658-kaijuu-senki.json) |
 | Kaikan Phrase: Datenshi Kourin | 269753 | [269753-kaikan-phrase-datenshi-kourin.json](./269753-kaikan-phrase-datenshi-kourin.json) |
 | Kaiketsu Yanchamaru | 40216 | [40216-kaiketsu-yanchamaru.json](./40216-kaiketsu-yanchamaru.json) |
 | Kaiketsu Yanchamaru 3: Taiketsu! Zouringen | 66050 | [66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json](./66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json) |
@@ -3253,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kusok | 261533 | [261533-kusok.json](./261533-kusok.json) |
 | Kutar's Athletic World | 340040 | [340040-kutars-athletic-world.json](./340040-kutars-athletic-world.json) |
 | Kutsushita Nyanko: Kutsushita o Haita Neko to Kurashi Hajime Mashita | 130723 | [130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json](./130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json) |
+| Kuubo Senki | 166657 | [166657-kuubo-senki.json](./166657-kuubo-senki.json) |
 | Kuudere Funk | 287742 | [287742-kuudere-funk.json](./287742-kuudere-funk.json) |
 | Kuukiyomi 4: Consider It - Nintendo Switch 2 Edition | 378813 | [378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json](./378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json) |
 | Kuukiyomi: Consider It! Online | 187529 | [187529-kuukiyomi-consider-it-online.json](./187529-kuukiyomi-consider-it-online.json) |
