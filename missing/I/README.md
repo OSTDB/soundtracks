@@ -1829,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indigo | 257441 | [257441-indigo.json](./257441-indigo.json) |
 | Indigo | 25945 | [25945-indigo.json](./25945-indigo.json) |
 | Indigo | 388713 | [388713-indigo.json](./388713-indigo.json) |
+| Indigo 7 | 153509 | [153509-indigo-7.json](./153509-indigo-7.json) |
 | Indigo Horizon | 336528 | [336528-indigo-horizon.json](./336528-indigo-horizon.json) |
 | Indigo Prohecy: 15th Anniversary Edition | 139933 | [139933-indigo-prohecy-15th-anniversary-edition.json](./139933-indigo-prohecy-15th-anniversary-edition.json) |
 | Indigo Prophecy | 410247 | [410247-indigo-prophecy.json](./410247-indigo-prophecy.json) |
@@ -3079,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iris Odyssey | 345070 | [345070-iris-odyssey.json](./345070-iris-odyssey.json) |
 | Iris School of Wizardry: Vinculum Hearts | 110982 | [110982-iris-school-of-wizardry-vinculum-hearts.json](./110982-iris-school-of-wizardry-vinculum-hearts.json) |
 | Iris to Id: Ghosts in the Machine | 319161 | [319161-iris-to-id-ghosts-in-the-machine.json](./319161-iris-to-id-ghosts-in-the-machine.json) |
+| Iris: A Colorful Dream | 153518 | [153518-iris-a-colorful-dream.json](./153518-iris-a-colorful-dream.json) |
 | Iris: I'm Reflecting in the Silence | 413771 | [413771-iris-im-reflecting-in-the-silence.json](./413771-iris-im-reflecting-in-the-silence.json) |
 | Iris.Fall | 109129 | [109129-iris-fall.json](./109129-iris-fall.json) |
 | Iris's Adventure: Time Travel | 231941 | [231941-iriss-adventure-time-travel.json](./231941-iriss-adventure-time-travel.json) |
