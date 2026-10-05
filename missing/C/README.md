@@ -3029,6 +3029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chao Adventure | 331473 | [331473-chao-adventure.json](./331473-chao-adventure.json) |
 | Chao Adventure 2 | 225624 | [225624-chao-adventure-2.json](./225624-chao-adventure-2.json) |
 | Chao Dream Touch! Happy Anniversary | 122870 | [122870-chao-dream-touch-happy-anniversary.json](./122870-chao-dream-touch-happy-anniversary.json) |
+| Chao Illust Club | 130714 | [130714-chao-illust-club.json](./130714-chao-illust-club.json) |
 | Chao Internet Pet | 331475 | [331475-chao-internet-pet.json](./331475-chao-internet-pet.json) |
 | Chao Life | 326835 | [326835-chao-life.json](./326835-chao-life.json) |
 | Chao RPG | 326958 | [326958-chao-rpg.json](./326958-chao-rpg.json) |
@@ -3511,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Pro 3D | 88419 | [88419-chess-pro-3d.json](./88419-chess-pro-3d.json) |
 | Chess Pro with Coach - Learn,Play & Online Friends | 90792 | [90792-chess-pro-with-coach-learn-play-and-online-friends.json](./90792-chess-pro-with-coach-learn-play-and-online-friends.json) |
 | Chess Puzzle Adventure | 174290 | [174290-chess-puzzle-adventure.json](./174290-chess-puzzle-adventure.json) |
+| Chess Puzzle Blitz | 130670 | [130670-chess-puzzle-blitz.json](./130670-chess-puzzle-blitz.json) |
 | Chess Puzzles | 103644 | [103644-chess-puzzles.json](./103644-chess-puzzles.json) |
 | Chess Puzzles: 100 by Emma | 163412 | [163412-chess-puzzles-100-by-emma.json](./163412-chess-puzzles-100-by-emma.json) |
 | Chess Puzzles: 100 by Liam | 163414 | [163414-chess-puzzles-100-by-liam.json](./163414-chess-puzzles-100-by-liam.json) |
@@ -8049,6 +8051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmosa | 117548 | [117548-cosmosa.json](./117548-cosmosa.json) |
 | Cosmoscope | 158200 | [158200-cosmoscope.json](./158200-cosmoscope.json) |
 | Cosmotroid | 263041 | [263041-cosmotroid.json](./263041-cosmotroid.json) |
+| Cosmotrons | 130675 | [130675-cosmotrons.json](./130675-cosmotrons.json) |
 | CosmoWarrior Zero | 43875 | [43875-cosmowarrior-zero.json](./43875-cosmowarrior-zero.json) |
 | Cosmula | 306348 | [306348-cosmula.json](./306348-cosmula.json) |
 | Cosplay Convention Crisis | 102330 | [102330-cosplay-convention-crisis.json](./102330-cosplay-convention-crisis.json) |
@@ -9473,6 +9476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossing Souls | 11176 | [11176-crossing-souls.json](./11176-crossing-souls.json) |
 | Crossing the Line | 61690 | [61690-crossing-the-line.json](./61690-crossing-the-line.json) |
 | Crossing the Sands | 261842 | [261842-crossing-the-sands.json](./261842-crossing-the-sands.json) |
+| Crossing Void - Global | 130700 | [130700-crossing-void-global.json](./130700-crossing-void-global.json) |
 | Crosslogic Ultimate | 66716 | [66716-crosslogic-ultimate.json](./66716-crosslogic-ultimate.json) |
 | CrossLust | 235491 | [235491-crosslust.json](./235491-crosslust.json) |
 | Crossmath | 381273 | [381273-crossmath.json](./381273-crossmath.json) |
@@ -11060,3 +11064,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cytus Lambda | 80227 | [80227-cytus-lambda.json](./80227-cytus-lambda.json) |
 | Cyvern | 39835 | [39835-cyvern.json](./39835-cyvern.json) |
 | Cyyer | 298698 | [298698-cyyer.json](./298698-cyyer.json) |
+| Czarny Orzel | 130680 | [130680-czarny-orzel.json](./130680-czarny-orzel.json) |
