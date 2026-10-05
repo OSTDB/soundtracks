@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way To Fall | 282247 | [282247-way-to-fall.json](./282247-way-to-fall.json) |
 | Way to Town | 358466 | [358466-way-to-town.json](./358466-way-to-town.json) |
 | Way to Yaatra | 140604 | [140604-way-to-yaatra.json](./140604-way-to-yaatra.json) |
+| Way Walkers: University | 168695 | [168695-way-walkers-university.json](./168695-way-walkers-university.json) |
 | WAyE | 105378 | [105378-waye.json](./105378-waye.json) |
 | Wayfarer | 178450 | [178450-wayfarer.json](./178450-wayfarer.json) |
 | Wayfarer | 310721 | [310721-wayfarer.json](./310721-wayfarer.json) |
@@ -2066,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Pho: restaurant startup stories | 132799 | [132799-what-the-pho-restaurant-startup-stories.json](./132799-what-the-pho-restaurant-startup-stories.json) |
 | What the Stars Forgot | 375983 | [375983-what-the-stars-forgot.json](./375983-what-the-stars-forgot.json) |
 | What They Gave Us | 407391 | [407391-what-they-gave-us.json](./407391-what-they-gave-us.json) |
+| What Time Is It | 168715 | [168715-what-time-is-it.json](./168715-what-time-is-it.json) |
 | What Trash? | 158684 | [158684-what-trash.json](./158684-what-trash.json) |
 | What Was Here? 1-Minute Memory Quiz!! | 420687 | [420687-what-was-here-1-minute-memory-quiz.json](./420687-what-was-here-1-minute-memory-quiz.json) |
 | What Was Home | 374148 | [374148-what-was-home.json](./374148-what-was-home.json) |
@@ -3297,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter's Fall | 177488 | [177488-winters-fall.json](./177488-winters-fall.json) |
 | Winter's Fury | 196250 | [196250-winters-fury.json](./196250-winters-fury.json) |
 | Winter's Tail: How One Little Dolphin Learned to Swim Again | 63866 | [63866-winters-tail-how-one-little-dolphin-learned-to-swim-again.json](./63866-winters-tail-how-one-little-dolphin-learned-to-swim-again.json) |
+| Winter's Trumpet | 168700 | [168700-winters-trumpet.json](./168700-winters-trumpet.json) |
 | Winter's Wish: Spirits of Edo | 195090 | [195090-winters-wish-spirits-of-edo.json](./195090-winters-wish-spirits-of-edo.json) |
 | Winterclaw | 291095 | [291095-winterclaw.json](./291095-winterclaw.json) |
 | Winterfall | 118453 | [118453-winterfall.json](./118453-winterfall.json) |
