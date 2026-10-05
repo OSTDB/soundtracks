@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campfire Legends: The Last Act | 62832 | [62832-campfire-legends-the-last-act.json](./62832-campfire-legends-the-last-act.json) |
 | Campfire Legends: The Last Act - Premium Edition | 341083 | [341083-campfire-legends-the-last-act-premium-edition.json](./341083-campfire-legends-the-last-act-premium-edition.json) |
 | Campfire Stories : Episode 1 | 265400 | [265400-campfire-stories-episode-1.json](./265400-campfire-stories-episode-1.json) |
+| Campfire Tales | 165585 | [165585-campfire-tales.json](./165585-campfire-tales.json) |
 | Campground Owner | 192692 | [192692-campground-owner.json](./192692-campground-owner.json) |
 | Campground Simulator | 379355 | [379355-campground-simulator.json](./379355-campground-simulator.json) |
 | Campgrounds Adventures | 311605 | [311605-campgrounds-adventures.json](./311605-campgrounds-adventures.json) |
