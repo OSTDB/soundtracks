@@ -8193,6 +8193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkeround | 326219 | [326219-monkeround.json](./326219-monkeround.json) |
 | Monkey | 305464 | [305464-monkey.json](./305464-monkey.json) |
 | Monkey Bananza | 146349 | [146349-monkey-bananza.json](./146349-monkey-bananza.json) |
+| Monkey Barrels | 125160 | [125160-monkey-barrels.json](./125160-monkey-barrels.json) |
 | Monkey Boxing | 61063 | [61063-monkey-boxing.json](./61063-monkey-boxing.json) |
 | Monkey Business | 147895 | [147895-monkey-business.json](./147895-monkey-business.json) |
 | Monkey Catapult | 323162 | [323162-monkey-catapult.json](./323162-monkey-catapult.json) |
