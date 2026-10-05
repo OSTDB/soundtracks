@@ -1638,7 +1638,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Delivery | 323530 | [323530-fatal-delivery.json](./323530-fatal-delivery.json) |
 | Fatal Escape | 60485 | [60485-fatal-escape.json](./60485-fatal-escape.json) |
 | Fatal Evidence: Art of Murder | 323847 | [323847-fatal-evidence-art-of-murder.json](./323847-fatal-evidence-art-of-murder.json) |
+| Fatal Evidence: Cursed Island | 139773 | [139773-fatal-evidence-cursed-island.json](./139773-fatal-evidence-cursed-island.json) |
 | Fatal Evidence: Cursed Island - Collector's Edition | 119038 | [119038-fatal-evidence-cursed-island-collectors-edition.json](./119038-fatal-evidence-cursed-island-collectors-edition.json) |
+| Fatal Evidence: The Missing | 139774 | [139774-fatal-evidence-the-missing.json](./139774-fatal-evidence-the-missing.json) |
 | Fatal Fight | 33318 | [33318-fatal-fight.json](./33318-fatal-fight.json) |
 | Fatal Flash | 98227 | [98227-fatal-flash.json](./98227-fatal-flash.json) |
 | Fatal Force: Earth Assault | 306000 | [306000-fatal-force-earth-assault.json](./306000-fatal-force-earth-assault.json) |
@@ -1668,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Heritage | 75150 | [75150-fatal-heritage.json](./75150-fatal-heritage.json) |
 | Fatal Inertia EX | 80458 | [80458-fatal-inertia-ex.json](./80458-fatal-inertia-ex.json) |
 | Fatal Labyrinth | 4496 | [4496-fatal-labyrinth.json](./4496-fatal-labyrinth.json) |
+| Fatal Passion: Art Prison | 139775 | [139775-fatal-passion-art-prison.json](./139775-fatal-passion-art-prison.json) |
 | Fatal Pursuit | 362996 | [362996-fatal-pursuit.json](./362996-fatal-pursuit.json) |
 | Fatal Run | 12323 | [12323-fatal-run.json](./12323-fatal-run.json) |
 | Fatal Seduction | 63871 | [63871-fatal-seduction.json](./63871-fatal-seduction.json) |
@@ -2263,6 +2266,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fierce Soldier | 306016 | [306016-fierce-soldier.json](./306016-fierce-soldier.json) |
 | Fierce Tales: Feline Sight | 123637 | [123637-fierce-tales-feline-sight.json](./123637-fierce-tales-feline-sight.json) |
 | Fierce Tales: Feline Sight - Collector's Edition | 88198 | [88198-fierce-tales-feline-sight-collectors-edition.json](./88198-fierce-tales-feline-sight-collectors-edition.json) |
+| Fierce Tales: Marcus' Memory | 139776 | [139776-fierce-tales-marcus-memory.json](./139776-fierce-tales-marcus-memory.json) |
+| Fierce Tales: The Dog's Heart | 139777 | [139777-fierce-tales-the-dogs-heart.json](./139777-fierce-tales-the-dogs-heart.json) |
 | Fierce Tide | 188405 | [188405-fierce-tide.json](./188405-fierce-tide.json) |
 | Fiery Melody | 180094 | [180094-fiery-melody.json](./180094-fiery-melody.json) |
 | Fiesta | 51217 | [51217-fiesta.json](./51217-fiesta.json) |
