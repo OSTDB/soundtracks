@@ -3169,6 +3169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retimed | 76921 | [76921-retimed.json](./76921-retimed.json) |
 | Retired Men's Nude Beach Volleyball League | 163452 | [163452-retired-mens-nude-beach-volleyball-league.json](./163452-retired-mens-nude-beach-volleyball-league.json) |
 | Retirement Home Tower Defense | 340569 | [340569-retirement-home-tower-defense.json](./340569-retirement-home-tower-defense.json) |
+| Retis Tormentum | 157084 | [157084-retis-tormentum.json](./157084-retis-tormentum.json) |
 | Retne | 54526 | [54526-retne.json](./54526-retne.json) |
 | Retool | 32974 | [32974-retool.json](./32974-retool.json) |
 | Retooled | 204071 | [204071-retooled.json](./204071-retooled.json) |
@@ -5269,6 +5270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky & Bullwinkle | 20780 | [20780-rocky-and-bullwinkle.json](./20780-rocky-and-bullwinkle.json) |
 | Rocky Climb | 96085 | [96085-rocky-climb.json](./96085-rocky-climb.json) |
 | Rocky Legends | 6016 | [6016-rocky-legends.json](./6016-rocky-legends.json) |
+| Rocky Mayhem | 157103 | [157103-rocky-mayhem.json](./157103-rocky-mayhem.json) |
 | Rocky Memphis and the Temple of Ophuxoff | 65773 | [65773-rocky-memphis-and-the-temple-of-ophuxoff.json](./65773-rocky-memphis-and-the-temple-of-ophuxoff.json) |
 | Rocky Mountain Trophy Hunter 2003 | 51362 | [51362-rocky-mountain-trophy-hunter-2003.json](./51362-rocky-mountain-trophy-hunter-2003.json) |
 | Rocky Mountain Trophy Hunter: Alaskan Expedition | 69084 | [69084-rocky-mountain-trophy-hunter-alaskan-expedition.json](./69084-rocky-mountain-trophy-hunter-alaskan-expedition.json) |
