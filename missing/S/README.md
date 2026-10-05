@@ -1084,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapphire Lung | 181685 | [181685-sapphire-lung.json](./181685-sapphire-lung.json) |
 | Sapphire Moon: Forever Memories | 215669 | [215669-sapphire-moon-forever-memories.json](./215669-sapphire-moon-forever-memories.json) |
 | Sapphire Moon: Your Best Wishes | 111230 | [111230-sapphire-moon-your-best-wishes.json](./111230-sapphire-moon-your-best-wishes.json) |
+| Sapphire Safari | 171997 | [171997-sapphire-safari.json](./171997-sapphire-safari.json) |
 | Sapphire Tempest | 401724 | [401724-sapphire-tempest.json](./401724-sapphire-tempest.json) |
 | SAR: Search and Rescue | 40187 | [40187-sar-search-and-rescue.json](./40187-sar-search-and-rescue.json) |
 | Saraab | 386723 | [386723-saraab.json](./386723-saraab.json) |
@@ -6003,6 +6004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Vasco | 45302 | [45302-singstar-vasco.json](./45302-singstar-vasco.json) |
 | Singstar: Wakacyjna Impreza | 15441 | [15441-singstar-wakacyjna-impreza.json](./15441-singstar-wakacyjna-impreza.json) |
 | Singular Stone | 182230 | [182230-singular-stone.json](./182230-singular-stone.json) |
+| Singularity | 171896 | [171896-singularity.json](./171896-singularity.json) |
 | Singularity | 302486 | [302486-singularity.json](./302486-singularity.json) |
 | Singularity | 401639 | [401639-singularity.json](./401639-singularity.json) |
 | Singularity | 77285 | [77285-singularity.json](./77285-singularity.json) |
@@ -6816,6 +6818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash of Bullet | 151675 | [151675-slash-of-bullet.json](./151675-slash-of-bullet.json) |
 | Slash of Sword 2 | 254157 | [254157-slash-of-sword-2.json](./254157-slash-of-sword-2.json) |
 | Slash Quest: The King Kabbage Mystery | 400405 | [400405-slash-quest-the-king-kabbage-mystery.json](./400405-slash-quest-the-king-kabbage-mystery.json) |
+| Slash Quest! | 171982 | [171982-slash-quest.json](./171982-slash-quest.json) |
 | Slash Roll | 132081 | [132081-slash-roll.json](./132081-slash-roll.json) |
 | Slash Them All | 239626 | [239626-slash-them-all.json](./239626-slash-them-all.json) |
 | Slash'EM Extended | 351135 | [351135-slashem-extended.json](./351135-slashem-extended.json) |
@@ -11159,6 +11162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Spiral | 321343 | [321343-spell-spiral.json](./321343-spell-spiral.json) |
 | Spell Tonaeru | 319150 | [319150-spell-tonaeru.json](./319150-spell-tonaeru.json) |
 | Spell Welders | 199501 | [199501-spell-welders.json](./199501-spell-welders.json) |
+| Spellario | 171993 | [171993-spellario.json](./171993-spellario.json) |
 | Spellarium 11 | 311594 | [311594-spellarium-11.json](./311594-spellarium-11.json) |
 | Spellarium 14: Collector's Edition | 416771 | [416771-spellarium-14-collectors-edition.json](./416771-spellarium-14-collectors-edition.json) |
 | Spellarium 2 | 298089 | [298089-spellarium-2.json](./298089-spellarium-2.json) |
@@ -13993,6 +13997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellarcraft | 314392 | [314392-stellarcraft.json](./314392-stellarcraft.json) |
 | StellarEchoes: Terrain Explorer | 264619 | [264619-stellarechoes-terrain-explorer.json](./264619-stellarechoes-terrain-explorer.json) |
 | Stellaren | 132202 | [132202-stellaren.json](./132202-stellaren.json) |
+| Stellaren II | 171999 | [171999-stellaren-ii.json](./171999-stellaren-ii.json) |
 | Stellaren: Acrux | 132223 | [132223-stellaren-acrux.json](./132223-stellaren-acrux.json) |
 | StellarFish | 349312 | [349312-stellarfish.json](./349312-stellarfish.json) |
 | Stellario | 265150 | [265150-stellario.json](./265150-stellario.json) |
@@ -17740,6 +17745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superfighters Deluxe | 10039 | [10039-superfighters-deluxe.json](./10039-superfighters-deluxe.json) |
 | Superfighters of Survival | 338292 | [338292-superfighters-of-survival.json](./338292-superfighters-of-survival.json) |
 | Superfluous Returnz | 173055 | [173055-superfluous-returnz.json](./173055-superfluous-returnz.json) |
+| Superfly | 171966 | [171966-superfly.json](./171966-superfly.json) |
 | Superfly Santa Claus | 62212 | [62212-superfly-santa-claus.json](./62212-superfly-santa-claus.json) |
 | Superguy and Megaboy | 316615 | [316615-superguy-and-megaboy.json](./316615-superguy-and-megaboy.json) |
 | SuperHero | 161259 | [161259-superhero.json](./161259-superhero.json) |
