@@ -7757,6 +7757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisseceal, the Dazzling-and-Flaring Peach Princess | 236277 | [236277-prisseceal-the-dazzling-and-flaring-peach-princess.json](./236277-prisseceal-the-dazzling-and-flaring-peach-princess.json) |
 | Pristine world | 32978 | [32978-pristine-world.json](./32978-pristine-world.json) |
 | Pristine World: Deluxe Edition | 53474 | [53474-pristine-world-deluxe-edition.json](./53474-pristine-world-deluxe-edition.json) |
+| Pristiq: Tash's Trilogy | 169260 | [169260-pristiq-tashs-trilogy.json](./169260-pristiq-tashs-trilogy.json) |
 | Pristontale II: The 2nd Enigma | 72657 | [72657-pristontale-ii-the-2nd-enigma.json](./72657-pristontale-ii-the-2nd-enigma.json) |
 | Priton | 91948 | [91948-priton.json](./91948-priton.json) |
 | Pritto Prisoner: Character Stamp Collection | 381810 | [381810-pritto-prisoner-character-stamp-collection.json](./381810-pritto-prisoner-character-stamp-collection.json) |
