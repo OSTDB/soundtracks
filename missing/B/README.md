@@ -8750,6 +8750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BubbleTT: Oh! My Fart | 256528 | [256528-bubblett-oh-my-fart.json](./256528-bubblett-oh-my-fart.json) |
 | BubbleXRush | 61089 | [61089-bubblexrush.json](./61089-bubblexrush.json) |
 | Bubbly Letters | 292058 | [292058-bubbly-letters.json](./292058-bubbly-letters.json) |
+| Bubbo: The Lost Hat | 148121 | [148121-bubbo-the-lost-hat.json](./148121-bubbo-the-lost-hat.json) |
 | Bubbu School | 224077 | [224077-bubbu-school.json](./224077-bubbu-school.json) |
 | BUBG Single on the Ground | 269039 | [269039-bubg-single-on-the-ground.json](./269039-bubg-single-on-the-ground.json) |
 | Bubli | 112717 | [112717-bubli.json](./112717-bubli.json) |
