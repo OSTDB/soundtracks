@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge | 8392 | [8392-edge.json](./8392-edge.json) |
 | Edge Case | 208266 | [208266-edge-case.json](./208266-edge-case.json) |
 | Edge of Atlantis | 28946 | [28946-edge-of-atlantis.json](./28946-edge-of-atlantis.json) |
+| Edge of Book | 130229 | [130229-edge-of-book.json](./130229-edge-of-book.json) |
 | Edge of Collapse | 214387 | [214387-edge-of-collapse.json](./214387-edge-of-collapse.json) |
 | Edge of Dawn | 135799 | [135799-edge-of-dawn.json](./135799-edge-of-dawn.json) |
 | Edge of Dead: Under a Uranium Sky | 150597 | [150597-edge-of-dead-under-a-uranium-sky.json](./150597-edge-of-dead-under-a-uranium-sky.json) |
