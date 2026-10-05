@@ -2655,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terry The Turtle's Big Adventure | 315502 | [315502-terry-the-turtles-big-adventure.json](./315502-terry-the-turtles-big-adventure.json) |
 | Terry's Other Games | 327820 | [327820-terrys-other-games.json](./327820-terrys-other-games.json) |
 | Terry's Treasure Trouble! | 265934 | [265934-terrys-treasure-trouble.json](./265934-terrys-treasure-trouble.json) |
+| TerTD | 120731 | [120731-tertd.json](./120731-tertd.json) |
 | Terunyan to Amanoiwato | 298100 | [298100-terunyan-to-amanoiwato.json](./298100-terunyan-to-amanoiwato.json) |
 | Tescaris | 339274 | [339274-tescaris.json](./339274-tescaris.json) |
 | Tesco: Delivery Dash | 274994 | [274994-tesco-delivery-dash.json](./274994-tesco-delivery-dash.json) |
@@ -6543,6 +6544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last 66 Days | 278107 | [278107-the-last-66-days.json](./278107-the-last-66-days.json) |
 | The Last Airbender | 7983 | [7983-the-last-airbender.json](./7983-the-last-airbender.json) |
 | The Last Among The Dead | 351762 | [351762-the-last-among-the-dead.json](./351762-the-last-among-the-dead.json) |
+| The Last AntLion | 120753 | [120753-the-last-antlion.json](./120753-the-last-antlion.json) |
 | The Last Aura | 120871 | [120871-the-last-aura.json](./120871-the-last-aura.json) |
 | The Last Ball | 410474 | [410474-the-last-ball.json](./410474-the-last-ball.json) |
 | The last Baron's stunt | 89652 | [89652-the-last-barons-stunt.json](./89652-the-last-barons-stunt.json) |
@@ -14085,6 +14087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Hot to Handle: Love is a Game | 204449 | [204449-too-hot-to-handle-love-is-a-game.json](./204449-too-hot-to-handle-love-is-a-game.json) |
 | Too Hot to Hold | 416739 | [416739-too-hot-to-hold.json](./416739-too-hot-to-hold.json) |
 | Too Human | 292152 | [292152-too-human.json](./292152-too-human.json) |
+| Too Loud | 120694 | [120694-too-loud.json](./120694-too-loud.json) |
 | Too Many Bots | 366889 | [366889-too-many-bots.json](./366889-too-many-bots.json) |
 | Too Many Cooks | 375838 | [375838-too-many-cooks.json](./375838-too-many-cooks.json) |
 | Too many Geckos! | 148127 | [148127-too-many-geckos.json](./148127-too-many-geckos.json) |
@@ -17423,6 +17426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Abstraction: Plus | 265598 | [265598-true-abstraction-plus.json](./265598-true-abstraction-plus.json) |
 | True Backgammon HD | 87922 | [87922-true-backgammon-hd.json](./87922-true-backgammon-hd.json) |
 | True Beauty | 242019 | [242019-true-beauty.json](./242019-true-beauty.json) |
+| True Colors | 120714 | [120714-true-colors.json](./120714-true-colors.json) |
 | True Colors | 228991 | [228991-true-colors.json](./228991-true-colors.json) |
 | True Colors | 388238 | [388238-true-colors.json](./388238-true-colors.json) |
 | True Crime: New York City | 4215 | [4215-true-crime-new-york-city.json](./4215-true-crime-new-york-city.json) |
