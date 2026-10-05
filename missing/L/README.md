@@ -1237,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leave! | 169795 | [169795-leave.json](./169795-leave.json) |
 | Leaves 3 | 394892 | [394892-leaves-3.json](./394892-leaves-3.json) |
 | Leaves: The Journey | 30063 | [30063-leaves-the-journey.json](./30063-leaves-the-journey.json) |
+| Leaving | 154622 | [154622-leaving.json](./154622-leaving.json) |
 | Leaving | 195532 | [195532-leaving.json](./195532-leaving.json) |
 | Leaving L.A. | 273138 | [273138-leaving-l-a.json](./273138-leaving-l-a.json) |
 | Leaving Whisper at Night | 326283 | [326283-leaving-whisper-at-night.json](./326283-leaving-whisper-at-night.json) |
