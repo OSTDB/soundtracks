@@ -1985,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Doom | 251544 | [251544-voxel-doom.json](./251544-voxel-doom.json) |
 | Voxel Doom II | 260124 | [260124-voxel-doom-ii.json](./260124-voxel-doom-ii.json) |
 | Voxel Eras | 360712 | [360712-voxel-eras.json](./360712-voxel-eras.json) |
+| Voxel Fly | 120135 | [120135-voxel-fly.json](./120135-voxel-fly.json) |
 | Voxel Galaxy | 126482 | [126482-voxel-galaxy.json](./126482-voxel-galaxy.json) |
 | Voxel Girl | 188042 | [188042-voxel-girl.json](./188042-voxel-girl.json) |
 | Voxel Horizon | 188631 | [188631-voxel-horizon.json](./188631-voxel-horizon.json) |
@@ -2078,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Fishtank | 244772 | [244772-vr-fishtank.json](./244772-vr-fishtank.json) |
 | VR Fitness | 52093 | [52093-vr-fitness.json](./52093-vr-fitness.json) |
 | VR Fitness: R18 DLC | 275820 | [275820-vr-fitness-r18-dlc.json](./275820-vr-fitness-r18-dlc.json) |
+| VR FlyMaster | 120226 | [120226-vr-flymaster.json](./120226-vr-flymaster.json) |
 | VR Formula | 51517 | [51517-vr-formula.json](./51517-vr-formula.json) |
 | VR Fun World | 31140 | [31140-vr-fun-world.json](./31140-vr-fun-world.json) |
 | VR Funhouse: Christmas Edition | 216848 | [216848-vr-funhouse-christmas-edition.json](./216848-vr-funhouse-christmas-edition.json) |
