@@ -1970,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Chaser | 81429 | [81429-ghost-chaser.json](./81429-ghost-chaser.json) |
 | Ghost College | 150640 | [150640-ghost-college.json](./150640-ghost-college.json) |
 | Ghost College: Hotel Fright - Chapter 1 | 193427 | [193427-ghost-college-hotel-fright-chapter-1.json](./193427-ghost-college-hotel-fright-chapter-1.json) |
+| Ghost Dimension | 126403 | [126403-ghost-dimension.json](./126403-ghost-dimension.json) |
 | Ghost Eater | 278997 | [278997-ghost-eater.json](./278997-ghost-eater.json) |
 | Ghost Encounters | 59453 | [59453-ghost-encounters.json](./59453-ghost-encounters.json) |
 | Ghost Files: The Face of Guilt | 28781 | [28781-ghost-files-the-face-of-guilt.json](./28781-ghost-files-the-face-of-guilt.json) |
@@ -2900,6 +2901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go West! A Lucky Luke Adventure | 110321 | [110321-go-west-a-lucky-luke-adventure.json](./110321-go-west-a-lucky-luke-adventure.json) |
 | Go West! A Lucky Luke Adventure | 345551 | [345551-go-west-a-lucky-luke-adventure.json](./345551-go-west-a-lucky-luke-adventure.json) |
 | Go with the Flow | 192165 | [192165-go-with-the-flow.json](./192165-go-with-the-flow.json) |
+| GO-4-Soldier-1 | 126400 | [126400-go-4-soldier-1.json](./126400-go-4-soldier-1.json) |
 | Go-Go! Nekketsu Hockey Club Slip-and-Slide Madness | 48630 | [48630-go-go-nekketsu-hockey-club-slip-and-slide-madness.json](./48630-go-go-nekketsu-hockey-club-slip-and-slide-madness.json) |
 | Go-Jin Senki | 80525 | [80525-go-jin-senki.json](./80525-go-jin-senki.json) |
 | Go-Kart | 246489 | [246489-go-kart.json](./246489-go-kart.json) |
@@ -3496,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Odyssey 2 DX | 269003 | [269003-golf-odyssey-2-dx.json](./269003-golf-odyssey-2-dx.json) |
 | Golf Of America | 351647 | [351647-golf-of-america.json](./351647-golf-of-america.json) |
 | Golf of the Dead | 181705 | [181705-golf-of-the-dead.json](./181705-golf-of-the-dead.json) |
+| Golf on the Moon | 126397 | [126397-golf-on-the-moon.json](./126397-golf-on-the-moon.json) |
 | Golf Party | 141741 | [141741-golf-party.json](./141741-golf-party.json) |
 | Golf Peaks | 107329 | [107329-golf-peaks.json](./107329-golf-peaks.json) |
 | Golf Pro | 247062 | [247062-golf-pro.json](./247062-golf-pro.json) |
@@ -5065,12 +5068,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster + Undertale DLC Bundle | 362273 | [362273-groove-coaster-undertale-dlc-bundle.json](./362273-groove-coaster-undertale-dlc-bundle.json) |
 | Groove Coaster 2 Heavenly Festival | 126464 | [126464-groove-coaster-2-heavenly-festival.json](./126464-groove-coaster-2-heavenly-festival.json) |
 | Groove Coaster 3 Link Fever | 126465 | [126465-groove-coaster-3-link-fever.json](./126465-groove-coaster-3-link-fever.json) |
+| Groove Coaster 4 Starlight Road | 126466 | [126466-groove-coaster-4-starlight-road.json](./126466-groove-coaster-4-starlight-road.json) |
 | Groove Coaster 4EX Infinity Highway | 383978 | [383978-groove-coaster-4ex-infinity-highway.json](./383978-groove-coaster-4ex-infinity-highway.json) |
 | Groove Coaster AC | 126462 | [126462-groove-coaster-ac.json](./126462-groove-coaster-ac.json) |
 | Groove Coaster EX | 126463 | [126463-groove-coaster-ex.json](./126463-groove-coaster-ex.json) |
 | Groove Coaster for Steam | 104523 | [104523-groove-coaster-for-steam.json](./104523-groove-coaster-for-steam.json) |
 | Groove Coaster Wai Wai Party!!!!: Chunithm Pack | 316220 | [316220-groove-coaster-wai-wai-party-chunithm-pack.json](./316220-groove-coaster-wai-wai-party-chunithm-pack.json) |
 | Groove Coaster Wai Wai Party!!!!: Touhou Project Arrangements Pack 9 | 324384 | [324384-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-9.json](./324384-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-9.json) |
+| Groove Coaster Zero | 126467 | [126467-groove-coaster-zero.json](./126467-groove-coaster-zero.json) |
 | Groove Coaster: Arcaea Pack | 361671 | [361671-groove-coaster-arcaea-pack.json](./361671-groove-coaster-arcaea-pack.json) |
 | Groove Coaster: Bad Apple!! feat. nomico | 358959 | [358959-groove-coaster-bad-apple-feat-nomico.json](./358959-groove-coaster-bad-apple-feat-nomico.json) |
 | Groove Coaster: Darius Cozmic Collection Pack | 361704 | [361704-groove-coaster-darius-cozmic-collection-pack.json](./361704-groove-coaster-darius-cozmic-collection-pack.json) |
