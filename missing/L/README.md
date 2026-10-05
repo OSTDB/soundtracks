@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Keepers: Complete Edition | 225547 | [225547-legend-of-keepers-complete-edition.json](./225547-legend-of-keepers-complete-edition.json) |
 | Legend of Keepers: Feed the Troll | 188528 | [188528-legend-of-keepers-feed-the-troll.json](./188528-legend-of-keepers-feed-the-troll.json) |
 | Legend of Kingdoms | 224020 | [224020-legend-of-kingdoms.json](./224020-legend-of-kingdoms.json) |
+| Legend of Krannia: Cursed Fate | 144626 | [144626-legend-of-krannia-cursed-fate.json](./144626-legend-of-krannia-cursed-fate.json) |
 | Legend of Krilona | 180021 | [180021-legend-of-krilona.json](./180021-legend-of-krilona.json) |
 | Legend of Kunoichi | 59368 | [59368-legend-of-kunoichi.json](./59368-legend-of-kunoichi.json) |
 | Legend of Labot: The Golden Pearl | 173280 | [173280-legend-of-labot-the-golden-pearl.json](./173280-legend-of-labot-the-golden-pearl.json) |
