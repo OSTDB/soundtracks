@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Story of Seasons | 117535 | [117535-new-story-of-seasons.json](./117535-new-story-of-seasons.json) |
 | New Supaplex | 94895 | [94895-new-supaplex.json](./94895-new-supaplex.json) |
 | New Super Abandoned: Discovery Island | 242480 | [242480-new-super-abandoned-discovery-island.json](./242480-new-super-abandoned-discovery-island.json) |
+| New Super Chick Sisters | 165580 | [165580-new-super-chick-sisters.json](./165580-new-super-chick-sisters.json) |
 | New Super Kaizo Bros. | 214777 | [214777-new-super-kaizo-bros.json](./214777-new-super-kaizo-bros.json) |
 | New Super Luigi U Remastered Edition | 322777 | [322777-new-super-luigi-u-remastered-edition.json](./322777-new-super-luigi-u-remastered-edition.json) |
 | New Super Mario Bros. 2 | 1080 | [1080-new-super-mario-bros-2.json](./1080-new-super-mario-bros-2.json) |
