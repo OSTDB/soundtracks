@@ -1947,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feeding the Monster | 69237 | [69237-feeding-the-monster.json](./69237-feeding-the-monster.json) |
 | Feedn' Chloe | 206051 | [206051-feedn-chloe.json](./206051-feedn-chloe.json) |
 | FeedVid Live | 214433 | [214433-feedvid-live.json](./214433-feedvid-live.json) |
+| Feeet | 150242 | [150242-feeet.json](./150242-feeet.json) |
 | Feel For You | 98053 | [98053-feel-for-you.json](./98053-feel-for-you.json) |
 | Feel the Fear Around | 310737 | [310737-feel-the-fear-around.json](./310737-feel-the-fear-around.json) |
 | Feelin | 102931 | [102931-feelin.json](./102931-feelin.json) |
@@ -2834,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finck | 79571 | [79571-finck.json](./79571-finck.json) |
 | FinCrementalOS | 400314 | [400314-fincrementalos.json](./400314-fincrementalos.json) |
 | Find | 201078 | [201078-find.json](./201078-find.json) |
+| Find 10 Differences | 150261 | [150261-find-10-differences.json](./150261-find-10-differences.json) |
 | Find 100 Cats! | 363018 | [363018-find-100-cats.json](./363018-find-100-cats.json) |
 | Find 100 Ducks and Blast Them! | 333916 | [333916-find-100-ducks-and-blast-them.json](./333916-find-100-ducks-and-blast-them.json) |
 | Find 100 Ducks and Blast Them...in Space!!! | 391317 | [391317-find-100-ducks-and-blast-them-in-space.json](./391317-find-100-ducks-and-blast-them-in-space.json) |
