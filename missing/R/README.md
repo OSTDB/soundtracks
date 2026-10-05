@@ -3206,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Commander | 165060 | [165060-retro-commander.json](./165060-retro-commander.json) |
 | Retro Drive | 220686 | [220686-retro-drive.json](./220686-retro-drive.json) |
 | Retro Dust | 175375 | [175375-retro-dust.json](./175375-retro-dust.json) |
+| Retro First Friday Collection #1 | 154616 | [154616-retro-first-friday-collection-1.json](./154616-retro-first-friday-collection-1.json) |
 | Retro First Friday Collection #3 | 186295 | [186295-retro-first-friday-collection-3.json](./186295-retro-first-friday-collection-3.json) |
 | Retro First Friday Collection #4 | 186296 | [186296-retro-first-friday-collection-4.json](./186296-retro-first-friday-collection-4.json) |
 | Retro Fit - Zordak's Revenge | 105756 | [105756-retro-fit-zordaks-revenge.json](./105756-retro-fit-zordaks-revenge.json) |
@@ -3541,6 +3542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revived Witch | 170356 | [170356-revived-witch.json](./170356-revived-witch.json) |
 | Reviver | 292583 | [292583-reviver.json](./292583-reviver.json) |
 | Reviver: The Real-Time Adventure | 63884 | [63884-reviver-the-real-time-adventure.json](./63884-reviver-the-real-time-adventure.json) |
+| Revizor | 154593 | [154593-revizor.json](./154593-revizor.json) |
 | Revline Online | 411689 | [411689-revline-online.json](./411689-revline-online.json) |
 | Revoland | 210661 | [210661-revoland.json](./210661-revoland.json) |
 | Revolgear II Ver.D Revision+Ex | 268028 | [268028-revolgear-ii-ver-d-revision-ex.json](./268028-revolgear-ii-ver-d-revision-ex.json) |
