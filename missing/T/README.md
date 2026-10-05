@@ -4865,6 +4865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Endless Wyrd | 133353 | [133353-the-endless-wyrd.json](./133353-the-endless-wyrd.json) |
 | The Enemy Approached the Walls | 224536 | [224536-the-enemy-approached-the-walls.json](./224536-the-enemy-approached-the-walls.json) |
 | The Enemy Below | 151010 | [151010-the-enemy-below.json](./151010-the-enemy-below.json) |
+| The Enforcer | 154344 | [154344-the-enforcer.json](./154344-the-enforcer.json) |
 | The Enforcer | 60493 | [60493-the-enforcer.json](./60493-the-enforcer.json) |
 | The Engraved Dispatch | 181366 | [181366-the-engraved-dispatch.json](./181366-the-engraved-dispatch.json) |
 | The Enigma Lounge | 380439 | [380439-the-enigma-lounge.json](./380439-the-enigma-lounge.json) |
@@ -10580,22 +10581,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Backpacks | 206820 | [206820-thehunter-call-of-the-wild-backpacks.json](./206820-thehunter-call-of-the-wild-backpacks.json) |
 | TheHunter: Call of the Wild - Bearclaw Lite Compound Bow | 206823 | [206823-thehunter-call-of-the-wild-bearclaw-lite-compound-bow.json](./206823-thehunter-call-of-the-wild-bearclaw-lite-compound-bow.json) |
 | TheHunter: Call of the Wild - Bloodhound | 206795 | [206795-thehunter-call-of-the-wild-bloodhound.json](./206795-thehunter-call-of-the-wild-bloodhound.json) |
+| TheHunter: Call of the Wild - Cuatro Colinas Game Reserve | 154340 | [154340-thehunter-call-of-the-wild-cuatro-colinas-game-reserve.json](./154340-thehunter-call-of-the-wild-cuatro-colinas-game-reserve.json) |
 | TheHunter: Call of the Wild - Duck and Cover Pack | 206814 | [206814-thehunter-call-of-the-wild-duck-and-cover-pack.json](./206814-thehunter-call-of-the-wild-duck-and-cover-pack.json) |
 | TheHunter: Call of the Wild - Facing the Wild 1 | 206822 | [206822-thehunter-call-of-the-wild-facing-the-wild-1.json](./206822-thehunter-call-of-the-wild-facing-the-wild-1.json) |
 | TheHunter: Call of the Wild - Free Species: European Rabbit | 206796 | [206796-thehunter-call-of-the-wild-free-species-european-rabbit.json](./206796-thehunter-call-of-the-wild-free-species-european-rabbit.json) |
 | TheHunter: Call of the Wild - High-Tech Hunting Pack | 206799 | [206799-thehunter-call-of-the-wild-high-tech-hunting-pack.json](./206799-thehunter-call-of-the-wild-high-tech-hunting-pack.json) |
 | TheHunter: Call of the Wild - Hirschfelden Veteran Cosmetic Pack | 266392 | [266392-thehunter-call-of-the-wild-hirschfelden-veteran-cosmetic-pack.json](./266392-thehunter-call-of-the-wild-hirschfelden-veteran-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Hunter Power Pack | 266390 | [266390-thehunter-call-of-the-wild-hunter-power-pack.json](./266390-thehunter-call-of-the-wild-hunter-power-pack.json) |
+| TheHunter: Call of the Wild - Medved-Taiga | 154341 | [154341-thehunter-call-of-the-wild-medved-taiga.json](./154341-thehunter-call-of-the-wild-medved-taiga.json) |
 | TheHunter: Call of the Wild - Modern Rifle Pack | 206793 | [206793-thehunter-call-of-the-wild-modern-rifle-pack.json](./206793-thehunter-call-of-the-wild-modern-rifle-pack.json) |
 | TheHunter: Call of the Wild - New England Mountains | 227336 | [227336-thehunter-call-of-the-wild-new-england-mountains.json](./227336-thehunter-call-of-the-wild-new-england-mountains.json) |
 | TheHunter: Call of the Wild - New Species 2018 | 206824 | [206824-thehunter-call-of-the-wild-new-species-2018.json](./206824-thehunter-call-of-the-wild-new-species-2018.json) |
 | TheHunter: Call of the Wild - New Species 2019 | 206825 | [206825-thehunter-call-of-the-wild-new-species-2019.json](./206825-thehunter-call-of-the-wild-new-species-2019.json) |
+| TheHunter: Call of the Wild - Remi Warren | 154342 | [154342-thehunter-call-of-the-wild-remi-warren.json](./154342-thehunter-call-of-the-wild-remi-warren.json) |
 | TheHunter: Call of the Wild - Reserve Cosmetics Bundle 1 | 271466 | [271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json](./271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json) |
 | TheHunter: Call of the Wild - Saseka Safari Trophy Lodge | 206798 | [206798-thehunter-call-of-the-wild-saseka-safari-trophy-lodge.json](./206798-thehunter-call-of-the-wild-saseka-safari-trophy-lodge.json) |
 | TheHunter: Call of the Wild - Shooting Range | 206821 | [206821-thehunter-call-of-the-wild-shooting-range.json](./206821-thehunter-call-of-the-wild-shooting-range.json) |
+| TheHunter: Call of the Wild - Silver Ridge Peaks | 154339 | [154339-thehunter-call-of-the-wild-silver-ridge-peaks.json](./154339-thehunter-call-of-the-wild-silver-ridge-peaks.json) |
 | TheHunter: Call of the Wild - Smoking Barrels Weapon Pack | 206797 | [206797-thehunter-call-of-the-wild-smoking-barrels-weapon-pack.json](./206797-thehunter-call-of-the-wild-smoking-barrels-weapon-pack.json) |
 | TheHunter: Call of the Wild - Sundarpatan Cosmetic Pack | 318441 | [318441-thehunter-call-of-the-wild-sundarpatan-cosmetic-pack.json](./318441-thehunter-call-of-the-wild-sundarpatan-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Sundarpatan Nepal Hunting Reserve | 305517 | [305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json](./305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json) |
+| TheHunter: Call of the Wild - Te Awaroa National Park | 154338 | [154338-thehunter-call-of-the-wild-te-awaroa-national-park.json](./154338-thehunter-call-of-the-wild-te-awaroa-national-park.json) |
 | TheHunter: Call of the Wild - Tents & Ground Blinds | 53793 | [53793-thehunter-call-of-the-wild-tents-and-ground-blinds.json](./53793-thehunter-call-of-the-wild-tents-and-ground-blinds.json) |
 | TheHunter: Call of the Wild - Traveler's Cosmetic Bundle | 280231 | [280231-thehunter-call-of-the-wild-travelers-cosmetic-bundle.json](./280231-thehunter-call-of-the-wild-travelers-cosmetic-bundle.json) |
 | TheHunter: Call of the Wild - Treestand & Tripod Pack | 206801 | [206801-thehunter-call-of-the-wild-treestand-and-tripod-pack.json](./206801-thehunter-call-of-the-wild-treestand-and-tripod-pack.json) |
