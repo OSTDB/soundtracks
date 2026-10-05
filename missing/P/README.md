@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painting Mel-chan | 237505 | [237505-painting-mel-chan.json](./237505-painting-mel-chan.json) |
 | Painting VR | 159090 | [159090-painting-vr.json](./159090-painting-vr.json) |
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
+| Painting Werther | 156725 | [156725-painting-werther.json](./156725-painting-werther.json) |
 | Paintings Restoration | 329576 | [329576-paintings-restoration.json](./329576-paintings-restoration.json) |
 | PaintPool | 334754 | [334754-paintpool.json](./334754-paintpool.json) |
 | Painturio | 188609 | [188609-painturio.json](./188609-painturio.json) |
@@ -2032,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peasant Dream: Ascension | 377782 | [377782-peasant-dream-ascension.json](./377782-peasant-dream-ascension.json) |
 | Peasant Nightmare | 364012 | [364012-peasant-nightmare.json](./364012-peasant-nightmare.json) |
 | Peasant TD | 195158 | [195158-peasant-td.json](./195158-peasant-td.json) |
+| Peasants | 156594 | [156594-peasants.json](./156594-peasants.json) |
 | Pebble | 188610 | [188610-pebble.json](./188610-pebble.json) |
 | Pebble Knights | 347758 | [347758-pebble-knights.json](./347758-pebble-knights.json) |
 | Pebble Witch | 151022 | [151022-pebble-witch.json](./151022-pebble-witch.json) |
@@ -6806,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Knights: Elves, Rogues, and Rifts | 170872 | [170872-portal-knights-elves-rogues-and-rifts.json](./170872-portal-knights-elves-rogues-and-rifts.json) |
 | Portal Knights: Legendary Edition | 166156 | [166156-portal-knights-legendary-edition.json](./166156-portal-knights-legendary-edition.json) |
 | Portal Knights: Portal Pioneer Pack | 170873 | [170873-portal-knights-portal-pioneer-pack.json](./170873-portal-knights-portal-pioneer-pack.json) |
+| Portal Mortal | 156713 | [156713-portal-mortal.json](./156713-portal-mortal.json) |
 | Portal Panic | 268001 | [268001-portal-panic.json](./268001-portal-panic.json) |
 | Portal Pro | 284358 | [284358-portal-pro.json](./284358-portal-pro.json) |
 | Portal Puzzle | 270111 | [270111-portal-puzzle.json](./270111-portal-puzzle.json) |
