@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamikaze Bros. 3 | 214771 | [214771-kamikaze-bros-3.json](./214771-kamikaze-bros-3.json) |
 | Kamikaze cabbie | 39813 | [39813-kamikaze-cabbie.json](./39813-kamikaze-cabbie.json) |
 | Kamikaze Empire | 411652 | [411652-kamikaze-empire.json](./411652-kamikaze-empire.json) |
+| Kamikaze Kommittee Ouka 2 | 153536 | [153536-kamikaze-kommittee-ouka-2.json](./153536-kamikaze-kommittee-ouka-2.json) |
 | Kamikaze Lassplanes | 250011 | [250011-kamikaze-lassplanes.json](./250011-kamikaze-lassplanes.json) |
 | Kamikaze Saucers | 40733 | [40733-kamikaze-saucers.json](./40733-kamikaze-saucers.json) |
 | Kamikaze Tactics | 333772 | [333772-kamikaze-tactics.json](./333772-kamikaze-tactics.json) |
@@ -422,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanojo, Amai Kanojo | 413838 | [413838-kanojo-amai-kanojo.json](./413838-kanojo-amai-kanojo.json) |
 | Kanoso | 301523 | [301523-kanoso.json](./301523-kanoso.json) |
 | Kansensei Nightmare | 151532 | [151532-kansensei-nightmare.json](./151532-kansensei-nightmare.json) |
+| Kanso | 153520 | [153520-kanso.json](./153520-kanso.json) |
 | Kantai Collection | 12737 | [12737-kantai-collection.json](./12737-kantai-collection.json) |
 | Kanto Expansion Pak | 282044 | [282044-kanto-expansion-pak.json](./282044-kanto-expansion-pak.json) |
 | Kanuchi: Futatsu No Tsubasa | 56765 | [56765-kanuchi-futatsu-no-tsubasa.json](./56765-kanuchi-futatsu-no-tsubasa.json) |
