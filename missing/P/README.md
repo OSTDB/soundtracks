@@ -897,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Pilgrim | 140629 | [140629-paper-pilgrim.json](./140629-paper-pilgrim.json) |
 | Paper Pilot | 369706 | [369706-paper-pilot.json](./369706-paper-pilot.json) |
 | Paper Pinball | 65588 | [65588-paper-pinball.json](./65588-paper-pinball.json) |
+| Paper Pirates | 130114 | [130114-paper-pirates.json](./130114-paper-pirates.json) |
 | Paper Plane Arena: Shamans | 288222 | [288222-paper-plane-arena-shamans.json](./288222-paper-plane-arena-shamans.json) |
 | Paper Planes | 238636 | [238636-paper-planes.json](./238636-paper-planes.json) |
 | Paper Planes Plus | 261765 | [261765-paper-planes-plus.json](./261765-paper-planes-plus.json) |
@@ -1970,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Futbol 8 | 298143 | [298143-pc-futbol-8.json](./298143-pc-futbol-8.json) |
 | PC Fútbol Edición Oro | 86018 | [86018-pc-futbol-edicion-oro.json](./86018-pc-futbol-edicion-oro.json) |
 | PC Fútbol Selección Española Europa 2000 | 98953 | [98953-pc-futbol-seleccion-espanola-europa-2000.json](./98953-pc-futbol-seleccion-espanola-europa-2000.json) |
+| PC Futbol Stars | 130122 | [130122-pc-futbol-stars.json](./130122-pc-futbol-stars.json) |
 | PC Install Girl | 337177 | [337177-pc-install-girl.json](./337177-pc-install-girl.json) |
 | PC Jumps | 341587 | [341587-pc-jumps.json](./341587-pc-jumps.json) |
 | PC Kid 3 | 37721 | [37721-pc-kid-3.json](./37721-pc-kid-3.json) |
@@ -2808,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PhaigeX: Hyperspace Survivors | 242602 | [242602-phaigex-hyperspace-survivors.json](./242602-phaigex-hyperspace-survivors.json) |
 | Phalanstery | 74286 | [74286-phalanstery.json](./74286-phalanstery.json) |
 | Phalanx | 6532 | [6532-phalanx.json](./6532-phalanx.json) |
+| Phalanx of Resistance | 130143 | [130143-phalanx-of-resistance.json](./130143-phalanx-of-resistance.json) |
 | Phantaruk | 20788 | [20788-phantaruk.json](./20788-phantaruk.json) |
 | Phantasia | 192152 | [192152-phantasia.json](./192152-phantasia.json) |
 | Phantasie 3: The Wrath of Nikademus | 5562 | [5562-phantasie-3-the-wrath-of-nikademus.json](./5562-phantasie-3-the-wrath-of-nikademus.json) |
@@ -4608,6 +4611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelCraft VR | 126542 | [126542-pixelcraft-vr.json](./126542-pixelcraft-vr.json) |
 | Pixelegend | 346615 | [346615-pixelegend.json](./346615-pixelegend.json) |
 | Pixelfence | 128982 | [128982-pixelfence.json](./128982-pixelfence.json) |
+| PixelForces.io | 130211 | [130211-pixelforces-io.json](./130211-pixelforces-io.json) |
 | PixelGround | 191848 | [191848-pixelground.json](./191848-pixelground.json) |
 | Pixeline and the Jungle Treasure | 64502 | [64502-pixeline-and-the-jungle-treasure.json](./64502-pixeline-and-the-jungle-treasure.json) |
 | Pixeline Skolebøger: Dansk | 64501 | [64501-pixeline-skoleb-ger-dansk.json](./64501-pixeline-skoleb-ger-dansk.json) |
