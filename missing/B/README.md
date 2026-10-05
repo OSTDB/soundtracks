@@ -2820,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beasts of Merit | 211091 | [211091-beasts-of-merit.json](./211091-beasts-of-merit.json) |
 | Beasts of Mystery | 371447 | [371447-beasts-of-mystery.json](./371447-beasts-of-mystery.json) |
 | Beasts of Steel | 265411 | [265411-beasts-of-steel.json](./265411-beasts-of-steel.json) |
+| Beasts Shall Rise | 118138 | [118138-beasts-shall-rise.json](./118138-beasts-shall-rise.json) |
 | Beastwatch: Meat & Mayhem | 270202 | [270202-beastwatch-meat-and-mayhem.json](./270202-beastwatch-meat-and-mayhem.json) |
 | Beat 'Em & Eat 'Em | 11139 | [11139-beat-em-and-eat-em.json](./11139-beat-em-and-eat-em.json) |
 | Beat 'Em & Eat 'Em/Lady in Wading | 79193 | [79193-beat-em-and-eat-em-lady-in-wading.json](./79193-beat-em-and-eat-em-lady-in-wading.json) |
@@ -4720,6 +4721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitzee | 340219 | [340219-bitzee.json](./340219-bitzee.json) |
 | Bitzee Disney | 340222 | [340222-bitzee-disney.json](./340222-bitzee-disney.json) |
 | Bitzee Magicals | 340221 | [340221-bitzee-magicals.json](./340221-bitzee-magicals.json) |
+| BiuBiu Jungle | 118209 | [118209-biubiu-jungle.json](./118209-biubiu-jungle.json) |
 | Biwar: Legend of Dragon Slayer | 204713 | [204713-biwar-legend-of-dragon-slayer.json](./204713-biwar-legend-of-dragon-slayer.json) |
 | Biz Taiken Series: Kigyoudou | 59393 | [59393-biz-taiken-series-kigyoudou.json](./59393-biz-taiken-series-kigyoudou.json) |
 | Bizarre | 313139 | [313139-bizarre.json](./313139-bizarre.json) |
@@ -5030,6 +5032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksea Odyssey: Limited Edition | 166202 | [166202-blacksea-odyssey-limited-edition.json](./166202-blacksea-odyssey-limited-edition.json) |
 | BlackShadows | 34561 | [34561-blackshadows.json](./34561-blackshadows.json) |
 | BlackShield: Upora Story | 81066 | [81066-blackshield-upora-story.json](./81066-blackshield-upora-story.json) |
+| Blackshift | 118147 | [118147-blackshift.json](./118147-blackshift.json) |
 | BlackShot | 33760 | [33760-blackshot.json](./33760-blackshot.json) |
 | BlackSky | 199446 | [199446-blacksky.json](./199446-blacksky.json) |
 | Blacksmith Bay | 150604 | [150604-blacksmith-bay.json](./150604-blacksmith-bay.json) |
@@ -5765,6 +5768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockships | 27999 | [27999-blockships.json](./27999-blockships.json) |
 | Blockshock | 83482 | [83482-blockshock.json](./83482-blockshock.json) |
 | BlockShot Champion | 56783 | [56783-blockshot-champion.json](./56783-blockshot-champion.json) |
+| Blocksplode | 118250 | [118250-blocksplode.json](./118250-blocksplode.json) |
 | BlockStarPlanet | 55168 | [55168-blockstarplanet.json](./55168-blockstarplanet.json) |
 | Blockstory | 137030 | [137030-blockstory.json](./137030-blockstory.json) |
 | Blocksworld | 68685 | [68685-blocksworld.json](./68685-blocksworld.json) |
