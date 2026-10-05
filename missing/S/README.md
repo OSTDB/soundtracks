@@ -2912,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senalux: Level Pack 4 | 168756 | [168756-senalux-level-pack-4.json](./168756-senalux-level-pack-4.json) |
 | Send In The Vampires | 386344 | [386344-send-in-the-vampires.json](./386344-send-in-the-vampires.json) |
 | Send It: The Game | 277833 | [277833-send-it-the-game.json](./277833-send-it-the-game.json) |
+| Send them to the sky | 130227 | [130227-send-them-to-the-sky.json](./130227-send-them-to-the-sky.json) |
 | Send You a Link | 229654 | [229654-send-you-a-link.json](./229654-send-you-a-link.json) |
 | Senda Salvaje | 272301 | [272301-senda-salvaje.json](./272301-senda-salvaje.json) |
 | Sender Unknown: The Woods | 74404 | [74404-sender-unknown-the-woods.json](./74404-sender-unknown-the-woods.json) |
@@ -6589,6 +6590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skinny Girls | 259023 | [259023-skinny-girls.json](./259023-skinny-girls.json) |
 | Skins Game | 91433 | [91433-skins-game.json](./91433-skins-game.json) |
 | Skinscape | 102358 | [102358-skinscape.json](./102358-skinscape.json) |
+| Skinwalker Hunt | 130126 | [130126-skinwalker-hunt.json](./130126-skinwalker-hunt.json) |
 | Skinwalkers | 150625 | [150625-skinwalkers.json](./150625-skinwalkers.json) |
 | Skinwalkers Valley | 379339 | [379339-skinwalkers-valley.json](./379339-skinwalkers-valley.json) |
 | Skinwoods: The Full Cut | 390737 | [390737-skinwoods-the-full-cut.json](./390737-skinwoods-the-full-cut.json) |
@@ -8988,6 +8990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo Flight | 25037 | [25037-solo-flight.json](./25037-solo-flight.json) |
 | Solo Flight | 289550 | [289550-solo-flight.json](./289550-solo-flight.json) |
 | Solo Fox | 143369 | [143369-solo-fox.json](./143369-solo-fox.json) |
+| Solo King: Single Player - Texas Hold'em Poker | 130130 | [130130-solo-king-single-player-texas-holdem-poker.json](./130130-solo-king-single-player-texas-holdem-poker.json) |
 | Solo Leveling: Arise Overdrive | 349302 | [349302-solo-leveling-arise-overdrive.json](./349302-solo-leveling-arise-overdrive.json) |
 | Solo Noble | 175374 | [175374-solo-noble.json](./175374-solo-noble.json) |
 | Solo Records | 177936 | [177936-solo-records.json](./177936-solo-records.json) |
@@ -10758,6 +10761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Raiders in Space | 138622 | [138622-space-raiders-in-space.json](./138622-space-raiders-in-space.json) |
 | Space Raiders in Space + Clumsy Rush | 230406 | [230406-space-raiders-in-space-clumsy-rush.json](./230406-space-raiders-in-space-clumsy-rush.json) |
 | Space Ranger ASK | 33316 | [33316-space-ranger-ask.json](./33316-space-ranger-ask.json) |
+| Space Ranger VR | 130231 | [130231-space-ranger-vr.json](./130231-space-ranger-vr.json) |
 | Space Ranger: Return to Earth | 45907 | [45907-space-ranger-return-to-earth.json](./45907-space-ranger-return-to-earth.json) |
 | Space Rangers | 7592 | [7592-space-rangers.json](./7592-space-rangers.json) |
 | Space Rangers 2: Dominators | 7593 | [7593-space-rangers-2-dominators.json](./7593-space-rangers-2-dominators.json) |
@@ -16198,6 +16202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon | 263754 | [263754-summon.json](./263754-summon.json) |
 | Summon Elemental | 223402 | [223402-summon-elemental.json](./223402-summon-elemental.json) |
 | Summon Legion | 317988 | [317988-summon-legion.json](./317988-summon-legion.json) |
+| Summon Masks | 130221 | [130221-summon-masks.json](./130221-summon-masks.json) |
 | Summon My Girl | 278702 | [278702-summon-my-girl.json](./278702-summon-my-girl.json) |
 | Summon Night 3 | 13108 | [13108-summon-night-3.json](./13108-summon-night-3.json) |
 | Summon Night 4 | 13109 | [13109-summon-night-4.json](./13109-summon-night-4.json) |
