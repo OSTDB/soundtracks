@@ -2033,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Bloom | 370275 | [370275-infinite-bloom.json](./370275-infinite-bloom.json) |
 | Infinite Blue | 337650 | [337650-infinite-blue.json](./337650-infinite-blue.json) |
 | Infinite Borders | 264030 | [264030-infinite-borders.json](./264030-infinite-borders.json) |
+| Infinite Brick Breaker | 152989 | [152989-infinite-brick-breaker.json](./152989-infinite-brick-breaker.json) |
 | Infinite Canyon | 360646 | [360646-infinite-canyon.json](./360646-infinite-canyon.json) |
 | Infinite Chef | 300411 | [300411-infinite-chef.json](./300411-infinite-chef.json) |
 | Infinite Chump | 287750 | [287750-infinite-chump.json](./287750-infinite-chump.json) |
