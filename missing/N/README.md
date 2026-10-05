@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanovoid | 244908 | [244908-nanovoid.json](./244908-nanovoid.json) |
 | Nanovor | 234177 | [234177-nanovor.json](./234177-nanovor.json) |
 | Nanowar | 181902 | [181902-nanowar.json](./181902-nanowar.json) |
+| Nanoworld | 126369 | [126369-nanoworld.json](./126369-nanoworld.json) |
 | Nanpure 10000 + Puzzle no Mado | 136971 | [136971-nanpure-10000-puzzle-no-mado.json](./136971-nanpure-10000-puzzle-no-mado.json) |
 | Nanpure VOW | 191866 | [191866-nanpure-vow.json](./191866-nanpure-vow.json) |
 | Nantara Adventures | 259001 | [259001-nantara-adventures.json](./259001-nantara-adventures.json) |
@@ -3742,6 +3743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoSeq | 152270 | [152270-noseq.json](./152270-noseq.json) |
 | NoserLand | 51960 | [51960-noserland.json](./51960-noserland.json) |
 | Nosferatu | 11125 | [11125-nosferatu.json](./11125-nosferatu.json) |
+| Nosferatu Lilinor | 126389 | [126389-nosferatu-lilinor.json](./126389-nosferatu-lilinor.json) |
 | Nosferatu: The Wrath of Malachi | 8960 | [8960-nosferatu-the-wrath-of-malachi.json](./8960-nosferatu-the-wrath-of-malachi.json) |
 | Nosfereatyou | 179579 | [179579-nosfereatyou.json](./179579-nosfereatyou.json) |
 | NoSlack Pets: Lo-Fi Paws | 365249 | [365249-noslack-pets-lo-fi-paws.json](./365249-noslack-pets-lo-fi-paws.json) |
