@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maison Ikkoku: Omoide no Photograph | 160301 | [160301-maison-ikkoku-omoide-no-photograph.json](./160301-maison-ikkoku-omoide-no-photograph.json) |
 | Maison Kanraku: The Second Climax | 59992 | [59992-maison-kanraku-the-second-climax.json](./59992-maison-kanraku-the-second-climax.json) |
 | Maisons de repos | 333714 | [333714-maisons-de-repos.json](./333714-maisons-de-repos.json) |
+| Maitetsu: Pure Station | 126483 | [126483-maitetsu-pure-station.json](./126483-maitetsu-pure-station.json) |
 | Maitetsu: Pure Station - Special Luxury Version with Triple Suede Tapestry Limited Edition | 167158 | [167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json](./167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json) |
 | Maitetsu: Pure Station: Hachiroku Figure - Limited Edition | 212325 | [212325-maitetsu-pure-station-hachiroku-figure-limited-edition.json](./212325-maitetsu-pure-station-hachiroku-figure-limited-edition.json) |
 | Maize | 19518 | [19518-maize.json](./19518-maize.json) |
@@ -3830,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot Parts Collection | 92533 | [92533-medarot-parts-collection.json](./92533-medarot-parts-collection.json) |
 | Medarot Parts Collection 2 | 92534 | [92534-medarot-parts-collection-2.json](./92534-medarot-parts-collection-2.json) |
 | Medarot R Parts Collection | 92537 | [92537-medarot-r-parts-collection.json](./92537-medarot-r-parts-collection.json) |
+| Medarots S: Unlimited Nova | 126475 | [126475-medarots-s-unlimited-nova.json](./126475-medarots-s-unlimited-nova.json) |
 | Medchess | 240781 | [240781-medchess.json](./240781-medchess.json) |
 | MedCorps | 58758 | [58758-medcorps.json](./58758-medcorps.json) |
 | MedEvil | 262289 | [262289-medevil.json](./262289-medevil.json) |
