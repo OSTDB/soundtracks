@@ -2716,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PetWorld 3D | 131405 | [131405-petworld-3d.json](./131405-petworld-3d.json) |
 | PetWorld 3D: Premium | 86845 | [86845-petworld-3d-premium.json](./86845-petworld-3d-premium.json) |
 | PetWorld: Animal Shelter | 97334 | [97334-petworld-animal-shelter.json](./97334-petworld-animal-shelter.json) |
+| Petz 4 | 159039 | [159039-petz-4.json](./159039-petz-4.json) |
 | Petz Bunnyz Bunch | 210002 | [210002-petz-bunnyz-bunch.json](./210002-petz-bunnyz-bunch.json) |
 | Petz Dogz Family | 42888 | [42888-petz-dogz-family.json](./42888-petz-dogz-family.json) |
 | Petz Dogz Talent Show | 44067 | [44067-petz-dogz-talent-show.json](./44067-petz-dogz-talent-show.json) |
@@ -5342,6 +5343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumo At The Zoo | 312632 | [312632-plumo-at-the-zoo.json](./312632-plumo-at-the-zoo.json) |
 | Plumo On The Farm | 312635 | [312635-plumo-on-the-farm.json](./312635-plumo-on-the-farm.json) |
 | Plunder | 113748 | [113748-plunder.json](./113748-plunder.json) |
+| Plunder & Pillage | 159212 | [159212-plunder-and-pillage.json](./159212-plunder-and-pillage.json) |
 | Plunder Ball | 275838 | [275838-plunder-ball.json](./275838-plunder-ball.json) |
 | Plunder Kings | 114149 | [114149-plunder-kings.json](./114149-plunder-kings.json) |
 | Plunder Squad | 107797 | [107797-plunder-squad.json](./107797-plunder-squad.json) |
