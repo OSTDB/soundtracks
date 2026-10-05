@@ -1606,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genomon: Genetic Monsters | 142842 | [142842-genomon-genetic-monsters.json](./142842-genomon-genetic-monsters.json) |
 | Genpei Kassen | 183870 | [183870-genpei-kassen.json](./183870-genpei-kassen.json) |
 | Genre Hopper | 182532 | [182532-genre-hopper.json](./182532-genre-hopper.json) |
+| Genry's parables: Scientist Story | 164419 | [164419-genrys-parables-scientist-story.json](./164419-genrys-parables-scientist-story.json) |
 | Gensei Fukyo Den | 263673 | [263673-gensei-fukyo-den.json](./263673-gensei-fukyo-den.json) |
 | Gensei Haiyuuki | 263682 | [263682-gensei-haiyuuki.json](./263682-gensei-haiyuuki.json) |
 | Gensei Kaishingeki | 263681 | [263681-gensei-kaishingeki.json](./263681-gensei-kaishingeki.json) |
