@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannibal Island: Survival | 266780 | [266780-cannibal-island-survival.json](./266780-cannibal-island-survival.json) |
 | Cannibal Tales | 254001 | [254001-cannibal-tales.json](./254001-cannibal-tales.json) |
 | Cannibals and Missionaries | 355524 | [355524-cannibals-and-missionaries.json](./355524-cannibals-and-missionaries.json) |
+| Cannon | 166034 | [166034-cannon.json](./166034-cannon.json) |
 | Cannon | 178038 | [178038-cannon.json](./178038-cannon.json) |
 | Cannon | 210539 | [210539-cannon.json](./210539-cannon.json) |
 | Cannon Army | 152349 | [152349-cannon-army.json](./152349-cannon-army.json) |
