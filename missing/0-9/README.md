@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1848 | 76205 | [76205-1848.json](./76205-1848.json) |
 | 1849: Gold Edition | 21656 | [21656-1849-gold-edition.json](./21656-1849-gold-edition.json) |
 | 187 Ride or Die | 3978 | [3978-187-ride-or-die.json](./3978-187-ride-or-die.json) |
+| 1870: Cyberpunk Forever | 145279 | [145279-1870-cyberpunk-forever.json](./145279-1870-cyberpunk-forever.json) |
 | 1873 | 316846 | [316846-1873.json](./316846-1873.json) |
 | 1893: A World's Fair Mystery | 12374 | [12374-1893-a-worlds-fair-mystery.json](./12374-1893-a-worlds-fair-mystery.json) |
 | 18Korea | 192177 | [192177-18korea.json](./192177-18korea.json) |
