@@ -4053,6 +4053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Colorado Cactus Curcuit | 364680 | [364680-the-colorado-cactus-curcuit.json](./364680-the-colorado-cactus-curcuit.json) |
 | The Colored Moth | 184070 | [184070-the-colored-moth.json](./184070-the-colored-moth.json) |
 | The Colorful Biplane | 377719 | [377719-the-colorful-biplane.json](./377719-the-colorful-biplane.json) |
+| The Colorful Creature | 152468 | [152468-the-colorful-creature.json](./152468-the-colorful-creature.json) |
 | The Colors of Love: Re-Colored | 410442 | [410442-the-colors-of-love-re-colored.json](./410442-the-colors-of-love-re-colored.json) |
 | The Colors of the Artifacts | 91528 | [91528-the-colors-of-the-artifacts.json](./91528-the-colors-of-the-artifacts.json) |
 | The Colossus Is Coming: The Interactive Experience | 180287 | [180287-the-colossus-is-coming-the-interactive-experience.json](./180287-the-colossus-is-coming-the-interactive-experience.json) |
@@ -4428,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkside Detective: A Fumble in the Dark - Tales of the Darkside | 222968 | [222968-the-darkside-detective-a-fumble-in-the-dark-tales-of-the-darkside.json](./222968-the-darkside-detective-a-fumble-in-the-dark-tales-of-the-darkside.json) |
 | The Darkside Detective: Series Edition | 164793 | [164793-the-darkside-detective-series-edition.json](./164793-the-darkside-detective-series-edition.json) |
 | The Dating Game | 65534 | [65534-the-dating-game.json](./65534-the-dating-game.json) |
+| The Daunting House | 152469 | [152469-the-daunting-house.json](./152469-the-daunting-house.json) |
 | The Dawn | 284349 | [284349-the-dawn.json](./284349-the-dawn.json) |
 | The Dawn is Inevitable | 249461 | [249461-the-dawn-is-inevitable.json](./249461-the-dawn-is-inevitable.json) |
 | The Dawn Obscura | 341494 | [341494-the-dawn-obscura.json](./341494-the-dawn-obscura.json) |
@@ -8133,6 +8135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Potion Master | 232549 | [232549-the-potion-master.json](./232549-the-potion-master.json) |
 | The Potion Shop | 225741 | [225741-the-potion-shop.json](./225741-the-potion-shop.json) |
 | The Power | 137071 | [137071-the-power.json](./137071-the-power.json) |
+| The Power Latch Kid | 152493 | [152493-the-power-latch-kid.json](./152493-the-power-latch-kid.json) |
 | The power of chaos | 118369 | [118369-the-power-of-chaos.json](./118369-the-power-of-chaos.json) |
 | The Power of Fish | 382321 | [382321-the-power-of-fish.json](./382321-the-power-of-fish.json) |
 | The Power of Love | 101934 | [101934-the-power-of-love.json](./101934-the-power-of-love.json) |
@@ -12690,6 +12693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeScape: Journey to Pompeii | 73819 | [73819-timescape-journey-to-pompeii.json](./73819-timescape-journey-to-pompeii.json) |
 | TimeScar: Hyperion | 110769 | [110769-timescar-hyperion.json](./110769-timescar-hyperion.json) |
 | TimeShift | 2030 | [2030-timeshift.json](./2030-timeshift.json) |
+| TimeShifters | 152456 | [152456-timeshifters.json](./152456-timeshifters.json) |
 | Timeslip | 77974 | [77974-timeslip.json](./77974-timeslip.json) |
 | Timespinner 2: Unwoven Dream | 268677 | [268677-timespinner-2-unwoven-dream.json](./268677-timespinner-2-unwoven-dream.json) |
 | TimeSplitters | 2142 | [2142-timesplitters.json](./2142-timesplitters.json) |
@@ -16625,6 +16629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial of Greed | 353971 | [353971-trial-of-greed.json](./353971-trial-of-greed.json) |
 | Trial of Sacrifice | 306418 | [306418-trial-of-sacrifice.json](./306418-trial-of-sacrifice.json) |
 | Trial of the Gods: Siralim CCG | 133195 | [133195-trial-of-the-gods-siralim-ccg.json](./133195-trial-of-the-gods-siralim-ccg.json) |
+| Trial of Two | 152452 | [152452-trial-of-two.json](./152452-trial-of-two.json) |
 | Trial Xtreme 3 | 117763 | [117763-trial-xtreme-3.json](./117763-trial-xtreme-3.json) |
 | Trial Xtreme 4 Remastered | 208035 | [208035-trial-xtreme-4-remastered.json](./208035-trial-xtreme-4-remastered.json) |
 | Trial Xtreme Freedom | 199975 | [199975-trial-xtreme-freedom.json](./199975-trial-xtreme-freedom.json) |
@@ -17791,6 +17796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twerps | 24935 | [24935-twerps.json](./24935-twerps.json) |
 | Twhols | 377717 | [377717-twhols.json](./377717-twhols.json) |
 | Twice Go! Go! Fightin' | 115763 | [115763-twice-go-go-fightin.json](./115763-twice-go-go-fightin.json) |
+| Twig & Flipper | 152453 | [152453-twig-and-flipper.json](./152453-twig-and-flipper.json) |
 | Twilight Apartment | 331887 | [331887-twilight-apartment.json](./331887-twilight-apartment.json) |
 | Twilight Blood | 227898 | [227898-twilight-blood.json](./227898-twilight-blood.json) |
 | Twilight Canyon | 306421 | [306421-twilight-canyon.json](./306421-twilight-canyon.json) |
