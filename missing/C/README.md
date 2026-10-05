@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carbox | 317997 | [317997-carbox.json](./317997-carbox.json) |
 | Carcassonne | 370250 | [370250-carcassonne.json](./370250-carcassonne.json) |
 | Carcassonne: The Official Board Game - Inns & Cathedrals | 171018 | [171018-carcassonne-the-official-board-game-inns-and-cathedrals.json](./171018-carcassonne-the-official-board-game-inns-and-cathedrals.json) |
+| Carcassonne: The Official Board Game - The Princess & the Dragon | 155175 | [155175-carcassonne-the-official-board-game-the-princess-and-the-dragon.json](./155175-carcassonne-the-official-board-game-the-princess-and-the-dragon.json) |
 | Carcassonne: The Official Board Game - The River | 157564 | [157564-carcassonne-the-official-board-game-the-river.json](./157564-carcassonne-the-official-board-game-the-river.json) |
 | Carcassonne: The Official Board Game - Traders & Builders | 227359 | [227359-carcassonne-the-official-board-game-traders-and-builders.json](./227359-carcassonne-the-official-board-game-traders-and-builders.json) |
 | Carcassonne: The Official Board Game - Winter and Gingerbread Man | 171017 | [171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json](./171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json) |
