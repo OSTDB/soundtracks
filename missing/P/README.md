@@ -1247,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parchisi Star Online | 138606 | [138606-parchisi-star-online.json](./138606-parchisi-star-online.json) |
 | Pardon My French Toast | 206041 | [206041-pardon-my-french-toast.json](./206041-pardon-my-french-toast.json) |
 | Pardus | 327913 | [327913-pardus.json](./327913-pardus.json) |
+| Pareidolia (or, Why I Saw Pac-Man Everywhere In 2020) | 143343 | [143343-pareidolia-or-why-i-saw-pac-man-everywhere-in-2020.json](./143343-pareidolia-or-why-i-saw-pac-man-everywhere-in-2020.json) |
 | pareidolia in █▄██▄▄ | 280796 | [280796-pareidolia-in.json](./280796-pareidolia-in.json) |
 | Parents vs. Kids | 226320 | [226320-parents-vs-kids.json](./226320-parents-vs-kids.json) |
 | Parfait Fan Box | 332428 | [332428-parfait-fan-box.json](./332428-parfait-fan-box.json) |
@@ -2579,6 +2580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perverts | 385257 | [385257-perverts.json](./385257-perverts.json) |
 | Perverts Society | 110357 | [110357-perverts-society.json](./110357-perverts-society.json) |
 | Perypetie Boba | 232023 | [232023-perypetie-boba.json](./232023-perypetie-boba.json) |
+| Peryton University | 143373 | [143373-peryton-university.json](./143373-peryton-university.json) |
 | PES 2018 Mobile | 240469 | [240469-pes-2018-mobile.json](./240469-pes-2018-mobile.json) |
 | Pesadelo: O Início | 187383 | [187383-pesadelo-o-inicio.json](./187383-pesadelo-o-inicio.json) |
 | Pesadelo: Regressão | 90611 | [90611-pesadelo-regressao.json](./90611-pesadelo-regressao.json) |
