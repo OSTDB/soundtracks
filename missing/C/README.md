@@ -7939,6 +7939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cottonville | 346242 | [346242-cottonville.json](./346242-cottonville.json) |
 | Couch Co-Op Bundle Vol. 2 | 147796 | [147796-couch-co-op-bundle-vol-2.json](./147796-couch-co-op-bundle-vol-2.json) |
 | Couch Co-Op: Urban Flow + Knights & Guns | 243795 | [243795-couch-co-op-urban-flow-knights-and-guns.json](./243795-couch-co-op-urban-flow-knights-and-guns.json) |
+| Couch Combat | 171420 | [171420-couch-combat.json](./171420-couch-combat.json) |
 | Couch Detective | 372676 | [372676-couch-detective.json](./372676-couch-detective.json) |
 | Couch Installation Service | 158679 | [158679-couch-installation-service.json](./158679-couch-installation-service.json) |
 | Couch Kittens | 272368 | [272368-couch-kittens.json](./272368-couch-kittens.json) |
