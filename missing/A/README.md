@@ -1608,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
 | Adventure Bar Story | 279048 | [279048-adventure-bar-story.json](./279048-adventure-bar-story.json) |
 | Adventure Boss | 181154 | [181154-adventure-boss.json](./181154-adventure-boss.json) |
+| Adventure Boy Jailbreak | 127824 | [127824-adventure-boy-jailbreak.json](./127824-adventure-boy-jailbreak.json) |
 | Adventure C: The Ship of Doom | 72641 | [72641-adventure-c-the-ship-of-doom.json](./72641-adventure-c-the-ship-of-doom.json) |
 | AdVenture Capitalist | 9591 | [9591-adventure-capitalist.json](./9591-adventure-capitalist.json) |
 | Adventure Climb VR | 116821 | [116821-adventure-climb-vr.json](./116821-adventure-climb-vr.json) |
@@ -2386,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aidyn Chronicles: The First Mage | 2850 | [2850-aidyn-chronicles-the-first-mage.json](./2850-aidyn-chronicles-the-first-mage.json) |
 | Aierlon | 203866 | [203866-aierlon.json](./203866-aierlon.json) |
 | Aigiina no Yogen: From the Legend of Balubalouk | 73806 | [73806-aigiina-no-yogen-from-the-legend-of-balubalouk.json](./73806-aigiina-no-yogen-from-the-legend-of-balubalouk.json) |
+| Aigor Escape from Bishop | 127825 | [127825-aigor-escape-from-bishop.json](./127825-aigor-escape-from-bishop.json) |
 | Aikagi | 127116 | [127116-aikagi.json](./127116-aikagi.json) |
 | Aikagi 2 | 127934 | [127934-aikagi-2.json](./127934-aikagi-2.json) |
 | Aikagi 2: Limited Edition | 166226 | [166226-aikagi-2-limited-edition.json](./166226-aikagi-2-limited-edition.json) |
@@ -7014,6 +7016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ariborne: Trials | 127106 | [127106-ariborne-trials.json](./127106-ariborne-trials.json) |
 | Arid Arnold | 318202 | [318202-arid-arnold.json](./318202-arid-arnold.json) |
 | Arid Jared | 217268 | [217268-arid-jared.json](./217268-arid-jared.json) |
+| Arida 2: Rise of the Brave | 127734 | [127734-arida-2-rise-of-the-brave.json](./127734-arida-2-rise-of-the-brave.json) |
 | Arida: Backland's Awakening | 106433 | [106433-arida-backlands-awakening.json](./106433-arida-backlands-awakening.json) |
 | Arida: Backland's Awakening - Definitive Edition | 322655 | [322655-arida-backlands-awakening-definitive-edition.json](./322655-arida-backlands-awakening-definitive-edition.json) |
 | AridFortress | 102224 | [102224-aridfortress.json](./102224-aridfortress.json) |
@@ -7416,6 +7419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Detective: Hidden Through Ancient China | 320327 | [320327-art-detective-hidden-through-ancient-china.json](./320327-art-detective-hidden-through-ancient-china.json) |
 | Art Diff | 303677 | [303677-art-diff.json](./303677-art-diff.json) |
 | Art for Snakes | 315704 | [315704-art-for-snakes.json](./315704-art-for-snakes.json) |
+| Art Heist | 127812 | [127812-art-heist.json](./127812-art-heist.json) |
 | Art Heist | 267006 | [267006-art-heist.json](./267006-art-heist.json) |
 | Art House | 367950 | [367950-art-house.json](./367950-art-house.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
