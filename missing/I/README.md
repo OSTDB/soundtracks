@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Saw A Strange Little Man | 301368 | [301368-i-saw-a-strange-little-man.json](./301368-i-saw-a-strange-little-man.json) |
 | I Scream Ice Cream | 358298 | [358298-i-scream-ice-cream.json](./358298-i-scream-ice-cream.json) |
 | I See You | 113642 | [113642-i-see-you.json](./113642-i-see-you.json) |
+| I See You | 135609 | [135609-i-see-you.json](./135609-i-see-you.json) |
 | I See You | 259630 | [259630-i-see-you.json](./259630-i-see-you.json) |
 | I Shall Remain | 17234 | [17234-i-shall-remain.json](./17234-i-shall-remain.json) |
 | I Slay Zombies: VR Shooter | 174343 | [174343-i-slay-zombies-vr-shooter.json](./174343-i-slay-zombies-vr-shooter.json) |
@@ -2519,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspector Douglas's Diary | 316634 | [316634-inspector-douglass-diary.json](./316634-inspector-douglass-diary.json) |
 | Inspector Gadget | 4859 | [4859-inspector-gadget.json](./4859-inspector-gadget.json) |
 | Inspector Gadget: Mad Time Party | 247190 | [247190-inspector-gadget-mad-time-party.json](./247190-inspector-gadget-mad-time-party.json) |
+| Inspector Javert and the Oath of Blood | 135626 | [135626-inspector-javert-and-the-oath-of-blood.json](./135626-inspector-javert-and-the-oath-of-blood.json) |
 | Inspector Ooh: The Great Monkey Detective | 98470 | [98470-inspector-ooh-the-great-monkey-detective.json](./98470-inspector-ooh-the-great-monkey-detective.json) |
 | Inspector Parker | 73549 | [73549-inspector-parker.json](./73549-inspector-parker.json) |
 | Inspector Parker Unsolved | 50858 | [50858-inspector-parker-unsolved.json](./50858-inspector-parker-unsolved.json) |
@@ -2873,6 +2875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intravenous 3 | 397241 | [397241-intravenous-3.json](./397241-intravenous-3.json) |
 | Intravenous Collection | 357454 | [357454-intravenous-collection.json](./357454-intravenous-collection.json) |
 | Intrepid | 112999 | [112999-intrepid.json](./112999-intrepid.json) |
+| Intrepid | 135616 | [135616-intrepid.json](./135616-intrepid.json) |
 | Intrepid | 297485 | [297485-intrepid.json](./297485-intrepid.json) |
 | Intrepid Izzy | 135822 | [135822-intrepid-izzy.json](./135822-intrepid-izzy.json) |
 | Intrepid Lepid | 179041 | [179041-intrepid-lepid.json](./179041-intrepid-lepid.json) |
