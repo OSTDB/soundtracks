@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeddytron 2081 | 293360 | [293360-zeddytron-2081.json](./293360-zeddytron-2081.json) |
 | Zedipede | 279732 | [279732-zedipede.json](./279732-zedipede.json) |
 | Zee Artillery | 93068 | [93068-zee-artillery.json](./93068-zee-artillery.json) |
+| Zee.End | 170280 | [170280-zee-end.json](./170280-zee-end.json) |
 | Zeebo F.C. Foot Camp | 91898 | [91898-zeebo-f-c-foot-camp.json](./91898-zeebo-f-c-foot-camp.json) |
 | Zeebo F.C. Super League | 91899 | [91899-zeebo-f-c-super-league.json](./91899-zeebo-f-c-super-league.json) |
 | Zeebo Sports Peteca | 91902 | [91902-zeebo-sports-peteca.json](./91902-zeebo-sports-peteca.json) |
