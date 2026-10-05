@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zany Kong | 98231 | [98231-zany-kong.json](./98231-zany-kong.json) |
 | Zany Kong Junior | 98232 | [98232-zany-kong-junior.json](./98232-zany-kong-junior.json) |
 | Zany's Hospital | 367623 | [367623-zanys-hospital.json](./367623-zanys-hospital.json) |
+| ZanZan | 163343 | [163343-zanzan.json](./163343-zanzan.json) |
 | Zanzibart | 278105 | [278105-zanzibart.json](./278105-zanzibart.json) |
 | Zǎojiào Lèyuán: Wǒ de Tónghuà Huìběn - Xiǎo Hǎitù de Gùshì | 260973 | [260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json](./260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json) |
 | Zap 21 | 78067 | [78067-zap-21.json](./78067-zap-21.json) |
@@ -724,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Army 4: Dead War - Mission 2: Blood Count | 133936 | [133936-zombie-army-4-dead-war-mission-2-blood-count.json](./133936-zombie-army-4-dead-war-mission-2-blood-count.json) |
 | Zombie Army 4: Dead War - Mission 5: Alpine Blitz | 143684 | [143684-zombie-army-4-dead-war-mission-5-alpine-blitz.json](./143684-zombie-army-4-dead-war-mission-5-alpine-blitz.json) |
 | Zombie Army 4: Dead War - Mission 6: Dead Zeppelin | 143685 | [143685-zombie-army-4-dead-war-mission-6-dead-zeppelin.json](./143685-zombie-army-4-dead-war-mission-6-dead-zeppelin.json) |
+| Zombie Army 4: Dead War - Mission 9: Return to Hell | 163352 | [163352-zombie-army-4-dead-war-mission-9-return-to-hell.json](./163352-zombie-army-4-dead-war-mission-9-return-to-hell.json) |
 | Zombie Army 4: Dead War - Ragnarök | 200437 | [200437-zombie-army-4-dead-war-ragnarok.json](./200437-zombie-army-4-dead-war-ragnarok.json) |
 | Zombie Army 4: Dead War - Ragnarök Campaign & Character Pack | 201579 | [201579-zombie-army-4-dead-war-ragnarok-campaign-and-character-pack.json](./201579-zombie-army-4-dead-war-ragnarok-campaign-and-character-pack.json) |
 | Zombie Army 4: Dead War - Super Deluxe Edition | 129783 | [129783-zombie-army-4-dead-war-super-deluxe-edition.json](./129783-zombie-army-4-dead-war-super-deluxe-edition.json) |
