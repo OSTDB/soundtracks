@@ -4055,6 +4055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix | 195040 | [195040-grand-prix.json](./195040-grand-prix.json) |
 | Grand Prix | 279694 | [279694-grand-prix.json](./279694-grand-prix.json) |
 | Grand Prix | 385557 | [385557-grand-prix.json](./385557-grand-prix.json) |
+| Grand Prix / Demolition Derby | 169270 | [169270-grand-prix-demolition-derby.json](./169270-grand-prix-demolition-derby.json) |
 | Grand Prix 3 Season 2000 | 57640 | [57640-grand-prix-3-season-2000.json](./57640-grand-prix-3-season-2000.json) |
 | Grand Prix 500 2 | 80645 | [80645-grand-prix-500-2.json](./80645-grand-prix-500-2.json) |
 | Grand Prix Championship 2 | 54064 | [54064-grand-prix-championship-2.json](./54064-grand-prix-championship-2.json) |
