@@ -4921,6 +4921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home trip | 262103 | [262103-home-trip.json](./262103-home-trip.json) |
 | Home Wars | 43334 | [43334-home-wars.json](./43334-home-wars.json) |
 | Home_0 | 325661 | [325661-home-0.json](./325661-home-0.json) |
+| Home: A Quarantine Story | 149210 | [149210-home-a-quarantine-story.json](./149210-home-a-quarantine-story.json) |
 | Home: Boov Pop! | 344931 | [344931-home-boov-pop.json](./344931-home-boov-pop.json) |
 | Home: Mother | 305762 | [305762-home-mother.json](./305762-home-mother.json) |
 | Home: Postmortem Edition | 146776 | [146776-home-postmortem-edition.json](./146776-home-postmortem-edition.json) |
