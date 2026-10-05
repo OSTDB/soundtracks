@@ -1081,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abysswalkers | 260646 | [260646-abysswalkers.json](./260646-abysswalkers.json) |
 | AC-130 Gunship Operator | 216779 | [216779-ac-130-gunship-operator.json](./216779-ac-130-gunship-operator.json) |
 | AC/DC Live: Rock Band - Track Pack | 6467 | [6467-ac-dc-live-rock-band-track-pack.json](./6467-ac-dc-live-rock-band-track-pack.json) |
+| ACA Neo Geo: Aggressors of Dark Kombat | 118215 | [118215-aca-neo-geo-aggressors-of-dark-kombat.json](./118215-aca-neo-geo-aggressors-of-dark-kombat.json) |
 | ACA Neo Geo: Art of Fighting 3 | 118916 | [118916-aca-neo-geo-art-of-fighting-3.json](./118916-aca-neo-geo-art-of-fighting-3.json) |
 | ACA Neo Geo: Baseball Stars Professional | 102345 | [102345-aca-neo-geo-baseball-stars-professional.json](./102345-aca-neo-geo-baseball-stars-professional.json) |
 | ACA Neo Geo: Big Tournament Golf | 147093 | [147093-aca-neo-geo-big-tournament-golf.json](./147093-aca-neo-geo-big-tournament-golf.json) |
@@ -1094,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Sengoku 3 | 104269 | [104269-aca-neo-geo-sengoku-3.json](./104269-aca-neo-geo-sengoku-3.json) |
 | ACA Neo Geo: Shock Troopers | 28412 | [28412-aca-neo-geo-shock-troopers.json](./28412-aca-neo-geo-shock-troopers.json) |
 | ACA Neo Geo: Stakes Winner | 99167 | [99167-aca-neo-geo-stakes-winner.json](./99167-aca-neo-geo-stakes-winner.json) |
+| ACA Neo Geo: Stakes Winner 2 | 118216 | [118216-aca-neo-geo-stakes-winner-2.json](./118216-aca-neo-geo-stakes-winner-2.json) |
 | ACA Neo Geo: Super Baseball 2020 | 85561 | [85561-aca-neo-geo-super-baseball-2020.json](./85561-aca-neo-geo-super-baseball-2020.json) |
 | ACA Neo Geo: The King of Fighters '98 | 88907 | [88907-aca-neo-geo-the-king-of-fighters-98.json](./88907-aca-neo-geo-the-king-of-fighters-98.json) |
 | ACA Neo Geo: The King of Fighters 2003 | 115445 | [115445-aca-neo-geo-the-king-of-fighters-2003.json](./115445-aca-neo-geo-the-king-of-fighters-2003.json) |
@@ -1114,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acai cOrner | 297558 | [297558-acai-corner.json](./297558-acai-corner.json) |
 | Acan's Call: Act 1 | 32084 | [32084-acans-call-act-1.json](./32084-acans-call-act-1.json) |
 | Acanthoceras | 208272 | [208272-acanthoceras.json](./208272-acanthoceras.json) |
+| ACardShooter | 118233 | [118233-acardshooter.json](./118233-acardshooter.json) |
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
 | Accel World vs. Sword Art Online: Deluxe Edition | 65842 | [65842-accel-world-vs-sword-art-online-deluxe-edition.json](./65842-accel-world-vs-sword-art-online-deluxe-edition.json) |
 | Accel World vs. Sword Art Online: Millennium Twilight | 36796 | [36796-accel-world-vs-sword-art-online-millennium-twilight.json](./36796-accel-world-vs-sword-art-online-millennium-twilight.json) |
@@ -2955,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albatross | 280200 | [280200-albatross.json](./280200-albatross.json) |
 | Albatross Koukairoku | 156033 | [156033-albatross-koukairoku.json](./156033-albatross-koukairoku.json) |
 | Albatroz | 255084 | [255084-albatroz.json](./255084-albatroz.json) |
+| Albedon Wars | 118222 | [118222-albedon-wars.json](./118222-albedon-wars.json) |
 | Albert | 185094 | [185094-albert.json](./185094-albert.json) |
 | Albert and Camille's Little Lille Adventure | 192708 | [192708-albert-and-camilles-little-lille-adventure.json](./192708-albert-and-camilles-little-lille-adventure.json) |
 | Albert and Otto: The Adventure Begins | 13223 | [13223-albert-and-otto-the-adventure-begins.json](./13223-albert-and-otto-the-adventure-begins.json) |
@@ -7506,6 +7510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artemis Cosmos | 254019 | [254019-artemis-cosmos.json](./254019-artemis-cosmos.json) |
 | Artemis Lutea: District Defender | 318766 | [318766-artemis-lutea-district-defender.json](./318766-artemis-lutea-district-defender.json) |
 | Artemis: Book One | 239288 | [239288-artemis-book-one.json](./239288-artemis-book-one.json) |
+| Artemis: God-Queen of the Hunt | 118245 | [118245-artemis-god-queen-of-the-hunt.json](./118245-artemis-god-queen-of-the-hunt.json) |
 | Artemis' Minesweeper | 177378 | [177378-artemis-minesweeper.json](./177378-artemis-minesweeper.json) |
 | Artemishea | 150617 | [150617-artemishea.json](./150617-artemishea.json) |
 | Artery Gear: Fusion | 152111 | [152111-artery-gear-fusion.json](./152111-artery-gear-fusion.json) |
