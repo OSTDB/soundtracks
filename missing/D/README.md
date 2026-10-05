@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Fellows | 133817 | [133817-dangerous-fellows.json](./133817-dangerous-fellows.json) |
 | Dangerous Fight | 284997 | [284997-dangerous-fight.json](./284997-dangerous-fight.json) |
 | Dangerous Fists | 219673 | [219673-dangerous-fists.json](./219673-dangerous-fists.json) |
+| Dangerous Games: Prisoners of Destiny | 139751 | [139751-dangerous-games-prisoners-of-destiny.json](./139751-dangerous-games-prisoners-of-destiny.json) |
 | Dangerous Golf | 18985 | [18985-dangerous-golf.json](./18985-dangerous-golf.json) |
 | Dangerous Ground | 111219 | [111219-dangerous-ground.json](./111219-dangerous-ground.json) |
 | Dangerous Ivan | 262462 | [262462-dangerous-ivan.json](./262462-dangerous-ivan.json) |
@@ -624,6 +625,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danny's Mirror Magic | 159272 | [159272-dannys-mirror-magic.json](./159272-dannys-mirror-magic.json) |
 | Danse Macabre: Crimson Cabaret HD | 101580 | [101580-danse-macabre-crimson-cabaret-hd.json](./101580-danse-macabre-crimson-cabaret-hd.json) |
 | Danse Macabre: Deadly Deception | 108461 | [108461-danse-macabre-deadly-deception.json](./108461-danse-macabre-deadly-deception.json) |
+| Danse Macabre: The Last Adagio | 139753 | [139753-danse-macabre-the-last-adagio.json](./139753-danse-macabre-the-last-adagio.json) |
+| Danse Macabre: Thin Ice | 139754 | [139754-danse-macabre-thin-ice.json](./139754-danse-macabre-thin-ice.json) |
 | Dānshēngǒu de Zuìhòu Jīhuì | 130962 | [130962-danshengou-de-zuihou-jihui.json](./130962-danshengou-de-zuihou-jihui.json) |
 | Dante's Cowboy | 258456 | [258456-dantes-cowboy.json](./258456-dantes-cowboy.json) |
 | Dante's Hotel | 152821 | [152821-dantes-hotel.json](./152821-dantes-hotel.json) |
@@ -694,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Ages | 72251 | [72251-dark-ages.json](./72251-dark-ages.json) |
 | Dark Ages: Volume I - Prince of Destiny | 70337 | [70337-dark-ages-volume-i-prince-of-destiny.json](./70337-dark-ages-volume-i-prince-of-destiny.json) |
 | Dark Alley Escape | 315671 | [315671-dark-alley-escape.json](./315671-dark-alley-escape.json) |
+| Dark Alleys: Penumbra Motel | 139755 | [139755-dark-alleys-penumbra-motel.json](./139755-dark-alleys-penumbra-motel.json) |
 | Dark and Bright | 51552 | [51552-dark-and-bright.json](./51552-dark-and-bright.json) |
 | Dark and Forgotten | 262599 | [262599-dark-and-forgotten.json](./262599-dark-and-forgotten.json) |
 | Dark and Light | 251093 | [251093-dark-and-light.json](./251093-dark-and-light.json) |
@@ -719,9 +723,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Bunny | 258609 | [258609-dark-bunny.json](./258609-dark-bunny.json) |
 | Dark Burial: Enhanced Edition | 238617 | [238617-dark-burial-enhanced-edition.json](./238617-dark-burial-enhanced-edition.json) |
 | Dark Canvas Collection | 146305 | [146305-dark-canvas-collection.json](./146305-dark-canvas-collection.json) |
+| Dark Canvas: A Brush With Death | 139756 | [139756-dark-canvas-a-brush-with-death.json](./139756-dark-canvas-a-brush-with-death.json) |
+| Dark Canvas: A Murder Exposed | 139757 | [139757-dark-canvas-a-murder-exposed.json](./139757-dark-canvas-a-murder-exposed.json) |
 | Dark Canvas: A Murder Exposed - Collector's Edition | 95240 | [95240-dark-canvas-a-murder-exposed-collectors-edition.json](./95240-dark-canvas-a-murder-exposed-collectors-edition.json) |
+| Dark Canvas: Blood and Stone | 139758 | [139758-dark-canvas-blood-and-stone.json](./139758-dark-canvas-blood-and-stone.json) |
 | Dark Card | 297557 | [297557-dark-card.json](./297557-dark-card.json) |
 | Dark Cards | 149492 | [149492-dark-cards.json](./149492-dark-cards.json) |
+| Dark Cases: The Blood Ruby | 139759 | [139759-dark-cases-the-blood-ruby.json](./139759-dark-cases-the-blood-ruby.json) |
 | Dark Cases: The Blood Ruby - Collector's Edition | 30042 | [30042-dark-cases-the-blood-ruby-collectors-edition.json](./30042-dark-cases-the-blood-ruby-collectors-edition.json) |
 | Dark Castle | 12034 | [12034-dark-castle.json](./12034-dark-castle.json) |
 | Dark Castle | 334682 | [334682-dark-castle.json](./334682-dark-castle.json) |
@@ -734,12 +742,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark City: Barcelona Collector's Edition | 362832 | [362832-dark-city-barcelona-collectors-edition.json](./362832-dark-city-barcelona-collectors-edition.json) |
 | Dark City: Budapest | 397157 | [397157-dark-city-budapest.json](./397157-dark-city-budapest.json) |
 | Dark City: Budapest - Collector's Edition | 397158 | [397158-dark-city-budapest-collectors-edition.json](./397158-dark-city-budapest-collectors-edition.json) |
+| Dark City: Dublin | 139760 | [139760-dark-city-dublin.json](./139760-dark-city-dublin.json) |
 | Dark City: International Intrigue | 244198 | [244198-dark-city-international-intrigue.json](./244198-dark-city-international-intrigue.json) |
 | Dark City: Kyiv | 397180 | [397180-dark-city-kyiv.json](./397180-dark-city-kyiv.json) |
 | Dark City: London | 376568 | [376568-dark-city-london.json](./376568-dark-city-london.json) |
 | Dark City: Munich - Collector's Edition | 376578 | [376578-dark-city-munich-collectors-edition.json](./376578-dark-city-munich-collectors-edition.json) |
 | Dark City: Paris | 397179 | [397179-dark-city-paris.json](./397179-dark-city-paris.json) |
 | Dark City: Paris Collector's Edition | 190743 | [190743-dark-city-paris-collectors-edition.json](./190743-dark-city-paris-collectors-edition.json) |
+| Dark City: Vienna | 139784 | [139784-dark-city-vienna.json](./139784-dark-city-vienna.json) |
 | Dark Color | 289543 | [289543-dark-color.json](./289543-dark-color.json) |
 | Dark Colors | 190235 | [190235-dark-colors.json](./190235-dark-colors.json) |
 | Dark Communion | 314283 | [314283-dark-communion.json](./314283-dark-communion.json) |
@@ -775,8 +785,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Desire Mute 6 | 260412 | [260412-dark-desire-mute-6.json](./260412-dark-desire-mute-6.json) |
 | Dark DieMansion | 405687 | [405687-dark-diemansion.json](./405687-dark-diemansion.json) |
 | Dark Dimensions: Blade Master | 187913 | [187913-dark-dimensions-blade-master.json](./187913-dark-dimensions-blade-master.json) |
+| Dark Dimensions: City of Ash | 139785 | [139785-dark-dimensions-city-of-ash.json](./139785-dark-dimensions-city-of-ash.json) |
 | Dark Dimensions: City of Ash - Collector's Edition | 74352 | [74352-dark-dimensions-city-of-ash-collectors-edition.json](./74352-dark-dimensions-city-of-ash-collectors-edition.json) |
+| Dark Dimensions: City of Fog | 139786 | [139786-dark-dimensions-city-of-fog.json](./139786-dark-dimensions-city-of-fog.json) |
 | Dark Dimensions: City of Fog - Collector's Edition | 29811 | [29811-dark-dimensions-city-of-fog-collectors-edition.json](./29811-dark-dimensions-city-of-fog-collectors-edition.json) |
+| Dark Dimensions: Homecoming | 139787 | [139787-dark-dimensions-homecoming.json](./139787-dark-dimensions-homecoming.json) |
+| Dark Dimensions: Somber Song | 139788 | [139788-dark-dimensions-somber-song.json](./139788-dark-dimensions-somber-song.json) |
 | Dark Dimensions: Somber Song - Collector's Edition | 96884 | [96884-dark-dimensions-somber-song-collectors-edition.json](./96884-dark-dimensions-somber-song-collectors-edition.json) |
 | Dark Dimensions: Wax Beauty | 139789 | [139789-dark-dimensions-wax-beauty.json](./139789-dark-dimensions-wax-beauty.json) |
 | Dark Disciples | 233470 | [233470-dark-disciples.json](./233470-dark-disciples.json) |
@@ -4093,6 +4107,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Transcended | 276277 | [276277-deus-ex-transcended.json](./276277-deus-ex-transcended.json) |
 | Deus Ex: Zodiac | 230249 | [230249-deus-ex-zodiac.json](./230249-deus-ex-zodiac.json) |
 | Deus Proxy | 291536 | [291536-deus-proxy.json](./291536-deus-proxy.json) |
+| Deus Vult | 139763 | [139763-deus-vult.json](./139763-deus-vult.json) |
+| Deus Vult II | 139765 | [139765-deus-vult-ii.json](./139765-deus-vult-ii.json) |
 | Deus Vult VR | 107634 | [107634-deus-vult-vr.json](./107634-deus-vult-vr.json) |
 | Deuteros: The Next Millennium | 9575 | [9575-deuteros-the-next-millennium.json](./9575-deuteros-the-next-millennium.json) |
 | Deutsch 1.-4: Klasse - Fit fuers Gymnasium | 269746 | [269746-deutsch-1-4-klasse-fit-fuers-gymnasium.json](./269746-deutsch-1-4-klasse-fit-fuers-gymnasium.json) |
@@ -4380,6 +4396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diary of a Witch | 196329 | [196329-diary-of-a-witch.json](./196329-diary-of-a-witch.json) |
 | Diary of Broken Dreams | 193327 | [193327-diary-of-broken-dreams.json](./193327-diary-of-broken-dreams.json) |
 | Diary of Defender | 104800 | [104800-diary-of-defender.json](./104800-diary-of-defender.json) |
+| Diaspora | 139764 | [139764-diaspora.json](./139764-diaspora.json) |
 | Diaspora | 191125 | [191125-diaspora.json](./191125-diaspora.json) |
 | Diatomic | 301531 | [301531-diatomic.json](./301531-diatomic.json) |
 | Diatris | 183524 | [183524-diatris.json](./183524-diatris.json) |
