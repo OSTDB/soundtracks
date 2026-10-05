@@ -5307,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumb | 192243 | [192243-plumb.json](./192243-plumb.json) |
 | Plumber | 148446 | [148446-plumber.json](./148446-plumber.json) |
 | Plumber | 246358 | [246358-plumber.json](./246358-plumber.json) |
+| Plumber 3 | 168113 | [168113-plumber-3.json](./168113-plumber-3.json) |
 | Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
 | Plumber Game: Water Pipe Line Connecting | 96002 | [96002-plumber-game-water-pipe-line-connecting.json](./96002-plumber-game-water-pipe-line-connecting.json) |
 | Plumber No More | 184109 | [184109-plumber-no-more.json](./184109-plumber-no-more.json) |
@@ -7012,6 +7013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power | 164447 | [164447-power.json](./164447-power.json) |
 | Power | 368681 | [368681-power.json](./368681-power.json) |
 | Power (of) Metal | 199599 | [199599-power-of-metal.json](./199599-power-of-metal.json) |
+| Power & Revolution 2020 Edition: 2019 Scenarios | 168109 | [168109-power-and-revolution-2020-edition-2019-scenarios.json](./168109-power-and-revolution-2020-edition-2019-scenarios.json) |
 | Power & Revolution: 2021 Edition | 162429 | [162429-power-and-revolution-2021-edition.json](./162429-power-and-revolution-2021-edition.json) |
 | Power & Revolution: Geo-Political Simulator 4 | 53469 | [53469-power-and-revolution-geo-political-simulator-4.json](./53469-power-and-revolution-geo-political-simulator-4.json) |
 | Power at Sea | 55151 | [55151-power-at-sea.json](./55151-power-at-sea.json) |
@@ -8103,6 +8105,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Atlas | 387321 | [387321-project-atlas.json](./387321-project-atlas.json) |
 | Project Atno | 272947 | [272947-project-atno.json](./272947-project-atno.json) |
 | Project Aura | 17519 | [17519-project-aura.json](./17519-project-aura.json) |
+| Project Aura: Junior Colonist | 168207 | [168207-project-aura-junior-colonist.json](./168207-project-aura-junior-colonist.json) |
+| Project Aura: Master Colonist | 168204 | [168204-project-aura-master-colonist.json](./168204-project-aura-master-colonist.json) |
+| Project Aura: Senior Colonist | 168206 | [168206-project-aura-senior-colonist.json](./168206-project-aura-senior-colonist.json) |
+| Project Aura: Super Engineer Colonist | 168205 | [168205-project-aura-super-engineer-colonist.json](./168205-project-aura-super-engineer-colonist.json) |
 | Project Awakening | 22790 | [22790-project-awakening.json](./22790-project-awakening.json) |
 | Project B-Fer | 257651 | [257651-project-b-fer.json](./257651-project-b-fer.json) |
 | Project Backrooms | 236529 | [236529-project-backrooms.json](./236529-project-backrooms.json) |
