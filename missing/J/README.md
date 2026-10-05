@@ -1154,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jingle Strike VR | 381764 | [381764-jingle-strike-vr.json](./381764-jingle-strike-vr.json) |
 | Jingoku | 175829 | [175829-jingoku.json](./175829-jingoku.json) |
 | Jinja | 313500 | [313500-jinja.json](./313500-jinja.json) |
+| Jìnjì | 129614 | [129614-jinji.json](./129614-jinji.json) |
 | Jinkaku Omotegu: Inei Menseki | 288439 | [288439-jinkaku-omotegu-inei-menseki.json](./288439-jinkaku-omotegu-inei-menseki.json) |
 | Jinki Resurrection | 141177 | [141177-jinki-resurrection.json](./141177-jinki-resurrection.json) |
 | Jinki Resurrection: Limited Edition | 141189 | [141189-jinki-resurrection-limited-edition.json](./141189-jinki-resurrection-limited-edition.json) |
@@ -1315,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Madden Football | 13240 | [13240-john-madden-football.json](./13240-john-madden-football.json) |
 | John Madden Football | 295034 | [295034-john-madden-football.json](./295034-john-madden-football.json) |
 | John Madden Football | 295035 | [295035-john-madden-football.json](./295035-john-madden-football.json) |
+| John Tiller's Campaign Series | 129544 | [129544-john-tillers-campaign-series.json](./129544-john-tillers-campaign-series.json) |
 | John Wheel Memorial | 269568 | [269568-john-wheel-memorial.json](./269568-john-wheel-memorial.json) |
 | John Wick | 143750 | [143750-john-wick.json](./143750-john-wick.json) |
 | John Wick Chronicles | 27096 | [27096-john-wick-chronicles.json](./27096-john-wick-chronicles.json) |
