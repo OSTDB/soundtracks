@@ -4485,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anachroma | 211404 | [211404-anachroma.json](./211404-anachroma.json) |
 | Anachron | 377084 | [377084-anachron.json](./377084-anachron.json) |
 | Anachronic | 265576 | [265576-anachronic.json](./265576-anachronic.json) |
+| Anachronism\> | 151304 | [151304-anachronism.json](./151304-anachronism.json) |
 | Anacreon: Reconstruction 4021 | 74083 | [74083-anacreon-reconstruction-4021.json](./74083-anacreon-reconstruction-4021.json) |
 | Anagrammatic | 323710 | [323710-anagrammatic.json](./323710-anagrammatic.json) |
 | Anagramme Duel | 96037 | [96037-anagramme-duel.json](./96037-anagramme-duel.json) |
@@ -5293,6 +5294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Complete Edition Year 4 | 197663 | [197663-anno-1800-complete-edition-year-4.json](./197663-anno-1800-complete-edition-year-4.json) |
 | Anno 1800: Cosmetic Pack Bundle | 227937 | [227937-anno-1800-cosmetic-pack-bundle.json](./227937-anno-1800-cosmetic-pack-bundle.json) |
 | Anno 1800: Deluxe Edition | 117155 | [117155-anno-1800-deluxe-edition.json](./117155-anno-1800-deluxe-edition.json) |
+| Anno 1800: Deluxe Pack | 151258 | [151258-anno-1800-deluxe-pack.json](./151258-anno-1800-deluxe-pack.json) |
 | Anno 1800: Docklands | 151113 | [151113-anno-1800-docklands.json](./151113-anno-1800-docklands.json) |
 | Anno 1800: Dragon Garden Pack | 232405 | [232405-anno-1800-dragon-garden-pack.json](./232405-anno-1800-dragon-garden-pack.json) |
 | Anno 1800: Efficiency Masters Bundle | 317368 | [317368-anno-1800-efficiency-masters-bundle.json](./317368-anno-1800-efficiency-masters-bundle.json) |
@@ -7165,6 +7167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army of Darkness Doom 2 Total Conversion | 381149 | [381149-army-of-darkness-doom-2-total-conversion.json](./381149-army-of-darkness-doom-2-total-conversion.json) |
 | Army of Frogs HD | 254670 | [254670-army-of-frogs-hd.json](./254670-army-of-frogs-hd.json) |
 | Army of Ninjas | 240195 | [240195-army-of-ninjas.json](./240195-army-of-ninjas.json) |
+| Army of Numbers | 151298 | [151298-army-of-numbers.json](./151298-army-of-numbers.json) |
 | Army of One | 199494 | [199494-army-of-one.json](./199494-army-of-one.json) |
 | Army of Pixels | 34757 | [34757-army-of-pixels.json](./34757-army-of-pixels.json) |
 | Army of Ruin | 219057 | [219057-army-of-ruin.json](./219057-army-of-ruin.json) |
