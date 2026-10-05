@@ -7891,6 +7891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Origin Mission | 174655 | [174655-the-origin-mission.json](./174655-the-origin-mission.json) |
 | The Origin of Hope | 241504 | [241504-the-origin-of-hope.json](./241504-the-origin-of-hope.json) |
 | The Origin Theory: Episode One | 304589 | [304589-the-origin-theory-episode-one.json](./304589-the-origin-theory-episode-one.json) |
+| The Origin: Blind Maid | 151271 | [151271-the-origin-blind-maid.json](./151271-the-origin-blind-maid.json) |
 | The Original Island | 215735 | [215735-the-original-island.json](./215735-the-original-island.json) |
 | The Original Mobile Games | 130882 | [130882-the-original-mobile-games.json](./130882-the-original-mobile-games.json) |
 | The Orion Conspiracy | 23862 | [23862-the-orion-conspiracy.json](./23862-the-orion-conspiracy.json) |
@@ -8022,6 +8023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pellar | 247603 | [247603-the-pellar.json](./247603-the-pellar.json) |
 | The Penguin Game: Antarctic Savior | 242482 | [242482-the-penguin-game-antarctic-savior.json](./242482-the-penguin-game-antarctic-savior.json) |
 | The Penguin Horror: Legacy of The Pengcasso | 285475 | [285475-the-penguin-horror-legacy-of-the-pengcasso.json](./285475-the-penguin-horror-legacy-of-the-pengcasso.json) |
+| The Penguin IQ Test | 151282 | [151282-the-penguin-iq-test.json](./151282-the-penguin-iq-test.json) |
 | The Penguin P | 215107 | [215107-the-penguin-p.json](./215107-the-penguin-p.json) |
 | The Penguins of Madagascar | 18273 | [18273-the-penguins-of-madagascar.json](./18273-the-penguins-of-madagascar.json) |
 | The Penguins of Madagascar: Mission Madness | 231385 | [231385-the-penguins-of-madagascar-mission-madness.json](./231385-the-penguins-of-madagascar-mission-madness.json) |
@@ -9088,6 +9090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slasher Camp Massacre | 218738 | [218738-the-slasher-camp-massacre.json](./218738-the-slasher-camp-massacre.json) |
 | The Slater | 104815 | [104815-the-slater.json](./104815-the-slater.json) |
 | The Slaughter: Act One | 16995 | [16995-the-slaughter-act-one.json](./16995-the-slaughter-act-one.json) |
+| The Slaughter: Magdalene | 151272 | [151272-the-slaughter-magdalene.json](./151272-the-slaughter-magdalene.json) |
 | The Slaughtering Grounds | 13374 | [13374-the-slaughtering-grounds.json](./13374-the-slaughtering-grounds.json) |
 | The Slaverian Trucker | 185636 | [185636-the-slaverian-trucker.json](./185636-the-slaverian-trucker.json) |
 | The Slime Plague | 244203 | [244203-the-slime-plague.json](./244203-the-slime-plague.json) |
