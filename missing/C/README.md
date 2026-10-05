@@ -1663,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cast Away: The Oddysee | 311061 | [311061-cast-away-the-oddysee.json](./311061-cast-away-the-oddysee.json) |
 | Cast Cats | 312755 | [312755-cast-cats.json](./312755-cast-cats.json) |
 | Cast Dice Away | 324901 | [324901-cast-dice-away.json](./324901-cast-dice-away.json) |
+| Cast Piercer | 170879 | [170879-cast-piercer.json](./170879-cast-piercer.json) |
 | Cast VR | 132206 | [132206-cast-vr.json](./132206-cast-vr.json) |
 | Castan | 197116 | [197116-castan.json](./197116-castan.json) |
 | Castaside | 348270 | [348270-castaside.json](./348270-castaside.json) |
@@ -10708,6 +10709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberScope | 196079 | [196079-cyberscope.json](./196079-cyberscope.json) |
 | CyberSeas | 324716 | [324716-cyberseas.json](./324716-cyberseas.json) |
 | Cybersecurity Ethics Scavenger Hunt | 257397 | [257397-cybersecurity-ethics-scavenger-hunt.json](./257397-cybersecurity-ethics-scavenger-hunt.json) |
+| CyberSex 2069 | 170891 | [170891-cybersex-2069.json](./170891-cybersex-2069.json) |
 | Cybersex Chronicles [18+] | 368068 | [368068-cybersex-chronicles-18.json](./368068-cybersex-chronicles-18.json) |
 | Cybersex: Lust Story | 295356 | [295356-cybersex-lust-story.json](./295356-cybersex-lust-story.json) |
 | Cybershow | 141762 | [141762-cybershow.json](./141762-cybershow.json) |
