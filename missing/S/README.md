@@ -4645,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Graveyard Simulator 3 | 397763 | [397763-ship-graveyard-simulator-3.json](./397763-ship-graveyard-simulator-3.json) |
 | Ship Graveyard Simulator Collection | 331407 | [331407-ship-graveyard-simulator-collection.json](./331407-ship-graveyard-simulator-collection.json) |
 | Ship Graveyard Simulator: Submarines | 197405 | [197405-ship-graveyard-simulator-submarines.json](./197405-ship-graveyard-simulator-submarines.json) |
+| Ship Handling Simulator | 149714 | [149714-ship-handling-simulator.json](./149714-ship-handling-simulator.json) |
 | Ship Happens | 378432 | [378432-ship-happens.json](./378432-ship-happens.json) |
 | Ship Happens | 404389 | [404389-ship-happens.json](./404389-ship-happens.json) |
 | Ship It | 31747 | [31747-ship-it.json](./31747-ship-it.json) |
@@ -8511,6 +8512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Softball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 213633 | [213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
 | Softly Placed | 379978 | [379978-softly-placed.json](./379978-softly-placed.json) |
 | Softnauts the Game | 23908 | [23908-softnauts-the-game.json](./23908-softnauts-the-game.json) |
+| Software House Simulator | 149728 | [149728-software-house-simulator.json](./149728-software-house-simulator.json) |
 | Software Manager | 78597 | [78597-software-manager.json](./78597-software-manager.json) |
 | Software Tycoon: Der Spielemanager | 243953 | [243953-software-tycoon-der-spielemanager.json](./243953-software-tycoon-der-spielemanager.json) |
 | SOG: Vietnam | 345606 | [345606-sog-vietnam.json](./345606-sog-vietnam.json) |
@@ -15374,6 +15376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Quest | 116814 | [116814-stupid-quest.json](./116814-stupid-quest.json) |
 | Stupid Space Shooter | 310759 | [310759-stupid-space-shooter.json](./310759-stupid-space-shooter.json) |
 | Stupid Spaceships | 390622 | [390622-stupid-spaceships.json](./390622-stupid-spaceships.json) |
+| Stupid Stories | 149689 | [149689-stupid-stories.json](./149689-stupid-stories.json) |
 | Stupid Teammates | 288428 | [288428-stupid-teammates.json](./288428-stupid-teammates.json) |
 | Stupid Zombies 2 | 207250 | [207250-stupid-zombies-2.json](./207250-stupid-zombies-2.json) |
 | Stupid Zombies 3 | 207251 | [207251-stupid-zombies-3.json](./207251-stupid-zombies-3.json) |
