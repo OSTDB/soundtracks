@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daedalus Versus Minotaur | 250345 | [250345-daedalus-versus-minotaur.json](./250345-daedalus-versus-minotaur.json) |
 | Daedalus: Alien Defense | 140561 | [140561-daedalus-alien-defense.json](./140561-daedalus-alien-defense.json) |
 | Daegeonmulju: Geonmulju Kiugi | 239012 | [239012-daegeonmulju-geonmulju-kiugi.json](./239012-daegeonmulju-geonmulju-kiugi.json) |
+| Daemmerlicht | 123987 | [123987-daemmerlicht.json](./123987-daemmerlicht.json) |
 | Daemon | 360053 | [360053-daemon.json](./360053-daemon.json) |
 | Daemon | 361679 | [361679-daemon.json](./361679-daemon.json) |
 | Daemon 9 | 110904 | [110904-daemon-9.json](./110904-daemon-9.json) |
@@ -2361,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Gaze | 184962 | [184962-death-gaze.json](./184962-death-gaze.json) |
 | Death Goat | 19873 | [19873-death-goat.json](./19873-death-goat.json) |
 | Death Hall | 116377 | [116377-death-hall.json](./116377-death-hall.json) |
+| Death Horizon Reloaded | 123988 | [123988-death-horizon-reloaded.json](./123988-death-horizon-reloaded.json) |
 | Death Howl: Deluxe Edition | 401737 | [401737-death-howl-deluxe-edition.json](./401737-death-howl-deluxe-edition.json) |
 | Death Imminent | 379014 | [379014-death-imminent.json](./379014-death-imminent.json) |
 | Death in a Party | 381738 | [381738-death-in-a-party.json](./381738-death-in-a-party.json) |
@@ -4078,6 +4080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Sherlock: Shadow Stalker | 413113 | [413113-detective-sherlock-shadow-stalker.json](./413113-detective-sherlock-shadow-stalker.json) |
 | Detective Sir Biscuit in Green Burguer Mystery | 310580 | [310580-detective-sir-biscuit-in-green-burguer-mystery.json](./310580-detective-sir-biscuit-in-green-burguer-mystery.json) |
 | Detective Solitaire Inspector Magic and the Man Without Face | 158606 | [158606-detective-solitaire-inspector-magic-and-the-man-without-face.json](./158606-detective-solitaire-inspector-magic-and-the-man-without-face.json) |
+| Detective Solitaire: Butler Story | 123981 | [123981-detective-solitaire-butler-story.json](./123981-detective-solitaire-butler-story.json) |
 | Detective Solitaire: Butler Story 2 | 242580 | [242580-detective-solitaire-butler-story-2.json](./242580-detective-solitaire-butler-story-2.json) |
 | Detective Solitaire: Butler Story 3 | 258947 | [258947-detective-solitaire-butler-story-3.json](./258947-detective-solitaire-butler-story-3.json) |
 | Detective Solitaire: The Ghost Agency | 168693 | [168693-detective-solitaire-the-ghost-agency.json](./168693-detective-solitaire-the-ghost-agency.json) |
