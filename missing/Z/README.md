@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhōngguó Xiàngqí Zàixiàn | 88208 | [88208-zhongguo-xiangqi-zaixian.json](./88208-zhongguo-xiangqi-zaixian.json) |
 | Zhōnghuá Fùjiǎ Sānguó | 161903 | [161903-zhonghua-fujia-sanguo.json](./161903-zhonghua-fujia-sanguo.json) |
 | Zhouyi Six Lines Divination Game | 337753 | [337753-zhouyi-six-lines-divination-game.json](./337753-zhouyi-six-lines-divination-game.json) |
+| Zhù Mèng Sānguó | 157219 | [157219-zhu-meng-sanguo.json](./157219-zhu-meng-sanguo.json) |
 | Zhu Zhu Pets | 9168 | [9168-zhu-zhu-pets.json](./9168-zhu-zhu-pets.json) |
 | Zhulik.exe | 81770 | [81770-zhulik-exe.json](./81770-zhulik-exe.json) |
 | Zhúlù Hàn Mò | 373690 | [373690-zhulu-han-mo.json](./373690-zhulu-han-mo.json) |
