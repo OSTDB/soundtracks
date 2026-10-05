@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Coven | 177943 | [177943-candy-coven.json](./177943-candy-coven.json) |
 | Candy Creeps | 227814 | [227814-candy-creeps.json](./227814-candy-creeps.json) |
 | Candy Crisis | 265261 | [265261-candy-crisis.json](./265261-candy-crisis.json) |
+| Candy Crush Friends Saga | 125288 | [125288-candy-crush-friends-saga.json](./125288-candy-crush-friends-saga.json) |
 | Candy Crush Jelly Saga | 46503 | [46503-candy-crush-jelly-saga.json](./46503-candy-crush-jelly-saga.json) |
 | Candy Crush Saga Ticket Model | 229352 | [229352-candy-crush-saga-ticket-model.json](./229352-candy-crush-saga-ticket-model.json) |
 | Candy Crush Solitaire | 350067 | [350067-candy-crush-solitaire.json](./350067-candy-crush-solitaire.json) |
@@ -5084,6 +5085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
 | Clarisse | 56425 | [56425-clarisse.json](./56425-clarisse.json) |
 | Clark: Hoova VR | 82067 | [82067-clark-hoova-vr.json](./82067-clark-hoova-vr.json) |
+| Clash | 125302 | [125302-clash.json](./125302-clash.json) |
 | Clash | 213861 | [213861-clash.json](./213861-clash.json) |
 | Clash | 55033 | [55033-clash.json](./55033-clash.json) |
 | Clash Bro's! | 330962 | [330962-clash-bros.json](./330962-clash-bros.json) |
@@ -10568,6 +10570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curved Space | 137680 | [137680-curved-space.json](./137680-curved-space.json) |
 | Curving Over It with Evgeny Podoynikov | 173179 | [173179-curving-over-it-with-evgeny-podoynikov.json](./173179-curving-over-it-with-evgeny-podoynikov.json) |
 | Curvy | 7497 | [7497-curvy.json](./7497-curvy.json) |
+| Curzon Line | 125292 | [125292-curzon-line.json](./125292-curzon-line.json) |
 | Custer's Revenge | 8529 | [8529-custers-revenge.json](./8529-custers-revenge.json) |
 | Custer's Revenge in Gensoukyou | 98448 | [98448-custers-revenge-in-gensoukyou.json](./98448-custers-revenge-in-gensoukyou.json) |
 | Custerd's Quest | 60635 | [60635-custerds-quest.json](./60635-custerds-quest.json) |
