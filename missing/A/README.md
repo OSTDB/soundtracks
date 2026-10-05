@@ -4393,6 +4393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amy's Fun-2-3 Adventure | 14255 | [14255-amys-fun-2-3-adventure.json](./14255-amys-fun-2-3-adventure.json) |
 | Amygdala | 268142 | [268142-amygdala.json](./268142-amygdala.json) |
 | Amygdala: Prelude | 269284 | [269284-amygdala-prelude.json](./269284-amygdala-prelude.json) |
+| An Absolutely Not Suspicious Cabin in the Woods | 160212 | [160212-an-absolutely-not-suspicious-cabin-in-the-woods.json](./160212-an-absolutely-not-suspicious-cabin-in-the-woods.json) |
 | An Action Roguelite For When You Have 20 Minutes to Spare | 244828 | [244828-an-action-roguelite-for-when-you-have-20-minutes-to-spare.json](./244828-an-action-roguelite-for-when-you-have-20-minutes-to-spare.json) |
 | An Adventurer's Gallantry | 238518 | [238518-an-adventurers-gallantry.json](./238518-an-adventurers-gallantry.json) |
 | An Adventurer's Tale | 112604 | [112604-an-adventurers-tale.json](./112604-an-adventurers-tale.json) |
@@ -6592,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Architect of the Union | 286669 | [286669-architect-of-the-union.json](./286669-architect-of-the-union.json) |
 | Architects of Shangri-La | 167839 | [167839-architects-of-shangri-la.json](./167839-architects-of-shangri-la.json) |
 | Architecture Zeitgeist | 249770 | [249770-architecture-zeitgeist.json](./249770-architecture-zeitgeist.json) |
+| Architectus | 160270 | [160270-architectus.json](./160270-architectus.json) |
 | Archive 1985 | 276249 | [276249-archive-1985.json](./276249-archive-1985.json) |
 | Archiver | 362909 | [362909-archiver.json](./362909-archiver.json) |
 | Archivist: Tidy Up & Sort | 403093 | [403093-archivist-tidy-up-and-sort.json](./403093-archivist-tidy-up-and-sort.json) |
