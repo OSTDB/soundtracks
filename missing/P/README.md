@@ -2370,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Dark Zero | 1465 | [1465-perfect-dark-zero.json](./1465-perfect-dark-zero.json) |
 | Perfect Dark Zero | 292158 | [292158-perfect-dark-zero.json](./292158-perfect-dark-zero.json) |
 | Perfect Dark Zero: Collector's Edition | 41596 | [41596-perfect-dark-zero-collectors-edition.json](./41596-perfect-dark-zero-collectors-edition.json) |
+| Perfect Decision | 168704 | [168704-perfect-decision.json](./168704-perfect-decision.json) |
 | Perfect Fit | 243698 | [243698-perfect-fit.json](./243698-perfect-fit.json) |
 | Perfect Fit - Totemland | 31114 | [31114-perfect-fit-totemland.json](./31114-perfect-fit-totemland.json) |
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
@@ -3854,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinkie | 77426 | [77426-pinkie.json](./77426-pinkie.json) |
 | PinkMan Adventure | 185492 | [185492-pinkman-adventure.json](./185492-pinkman-adventure.json) |
 | Pinko Linko's School | 310675 | [310675-pinko-linkos-school.json](./310675-pinko-linkos-school.json) |
+| Pinku Kult: Hex Mortis | 168696 | [168696-pinku-kult-hex-mortis.json](./168696-pinku-kult-hex-mortis.json) |
 | Pinky and the Brain: The Master Plan | 49360 | [49360-pinky-and-the-brain-the-master-plan.json](./49360-pinky-and-the-brain-the-master-plan.json) |
 | Pinky Promise Manifesto | 176440 | [176440-pinky-promise-manifesto.json](./176440-pinky-promise-manifesto.json) |
 | Pinky Spots Leg Massage | 64467 | [64467-pinky-spots-leg-massage.json](./64467-pinky-spots-leg-massage.json) |
@@ -5345,6 +5347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plush Shop Simulator | 349852 | [349852-plush-shop-simulator.json](./349852-plush-shop-simulator.json) |
 | Plush Wars | 88753 | [88753-plush-wars.json](./88753-plush-wars.json) |
 | Plushie Bomber | 237083 | [237083-plushie-bomber.json](./237083-plushie-bomber.json) |
+| Plushie from the Sky | 168705 | [168705-plushie-from-the-sky.json](./168705-plushie-from-the-sky.json) |
 | Plushiemon | 344009 | [344009-plushiemon.json](./344009-plushiemon.json) |
 | Plushy's Playground: Into the Slide | 413207 | [413207-plushys-playground-into-the-slide.json](./413207-plushys-playground-into-the-slide.json) |
 | Plusris | 316074 | [316074-plusris.json](./316074-plusris.json) |
