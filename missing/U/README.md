@@ -1278,8 +1278,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unity Heroes | 297635 | [297635-unity-heroes.json](./297635-unity-heroes.json) |
 | Unity of Command | 22645 | [22645-unity-of-command.json](./22645-unity-of-command.json) |
 | Unity of Command II: Barbarossa | 150609 | [150609-unity-of-command-ii-barbarossa.json](./150609-unity-of-command-ii-barbarossa.json) |
+| Unity of Command II: Blitzkrieg | 166052 | [166052-unity-of-command-ii-blitzkrieg.json](./166052-unity-of-command-ii-blitzkrieg.json) |
 | Unity of Command II: Desert Fox | 235798 | [235798-unity-of-command-ii-desert-fox.json](./235798-unity-of-command-ii-desert-fox.json) |
 | Unity of Command II: Desert Rats | 207363 | [207363-unity-of-command-ii-desert-rats.json](./207363-unity-of-command-ii-desert-rats.json) |
+| Unity of Command II: Moscow 41 | 166051 | [166051-unity-of-command-ii-moscow-41.json](./166051-unity-of-command-ii-moscow-41.json) |
 | Unity of Command II: Stalingrad | 196058 | [196058-unity-of-command-ii-stalingrad.json](./196058-unity-of-command-ii-stalingrad.json) |
 | Unity of Command: Black Turn | 171631 | [171631-unity-of-command-black-turn.json](./171631-unity-of-command-black-turn.json) |
 | Unity to Survive | 368507 | [368507-unity-to-survive.json](./368507-unity-to-survive.json) |
