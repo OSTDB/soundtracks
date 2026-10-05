@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taddle Quest | 224608 | [224608-taddle-quest.json](./224608-taddle-quest.json) |
 | Tadeo Jones y el Manuscrito Perdido | 82043 | [82043-tadeo-jones-y-el-manuscrito-perdido.json](./82043-tadeo-jones-y-el-manuscrito-perdido.json) |
 | Tadpole Swimmer | 110822 | [110822-tadpole-swimmer.json](./110822-tadpole-swimmer.json) |
+| Tadpole Treble Encore | 142698 | [142698-tadpole-treble-encore.json](./142698-tadpole-treble-encore.json) |
 | TaekwonGirl | 329087 | [329087-taekwongirl.json](./329087-taekwongirl.json) |
 | Taern | 55929 | [55929-taern.json](./55929-taern.json) |
 | Tafl PTK | 296997 | [296997-tafl-ptk.json](./296997-tafl-ptk.json) |
@@ -5348,6 +5349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frenetic Five vs. Sturm und Drang | 217771 | [217771-the-frenetic-five-vs-sturm-und-drang.json](./217771-the-frenetic-five-vs-sturm-und-drang.json) |
 | The Fridge is Red | 141660 | [141660-the-fridge-is-red.json](./141660-the-fridge-is-red.json) |
 | The friends of Ringo Ishikawa | 98898 | [98898-the-friends-of-ringo-ishikawa.json](./98898-the-friends-of-ringo-ishikawa.json) |
+| The Friends of Ringo Ishikawa & Arrest of a Stone Buddha | 142757 | [142757-the-friends-of-ringo-ishikawa-and-arrest-of-a-stone-buddha.json](./142757-the-friends-of-ringo-ishikawa-and-arrest-of-a-stone-buddha.json) |
 | The Friends of Ringo Ishikawa: Special Edition | 406100 | [406100-the-friends-of-ringo-ishikawa-special-edition.json](./406100-the-friends-of-ringo-ishikawa-special-edition.json) |
 | The Frightening Nightmare of Little Eddy | 184996 | [184996-the-frightening-nightmare-of-little-eddy.json](./184996-the-frightening-nightmare-of-little-eddy.json) |
 | The Frog Festival | 382987 | [382987-the-frog-festival.json](./382987-the-frog-festival.json) |
@@ -10226,6 +10228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Season Two - Episode 3: In Harm's Way | 127059 | [127059-the-walking-dead-season-two-episode-3-in-harms-way.json](./127059-the-walking-dead-season-two-episode-3-in-harms-way.json) |
 | The Walking Dead: Season Two - Episode 4: Amid the Ruins | 127060 | [127060-the-walking-dead-season-two-episode-4-amid-the-ruins.json](./127060-the-walking-dead-season-two-episode-4-amid-the-ruins.json) |
 | The Walking Dead: Season Two - Episode 5: No Going Back | 127061 | [127061-the-walking-dead-season-two-episode-5-no-going-back.json](./127061-the-walking-dead-season-two-episode-5-no-going-back.json) |
+| The Walking Dead: Survivors | 142749 | [142749-the-walking-dead-survivors.json](./142749-the-walking-dead-survivors.json) |
 | The Walking Dead: The Complete First Season | 41623 | [41623-the-walking-dead-the-complete-first-season.json](./41623-the-walking-dead-the-complete-first-season.json) |
 | The Walking Dead: The Final Season - Episode 2: Suffer the Children | 110328 | [110328-the-walking-dead-the-final-season-episode-2-suffer-the-children.json](./110328-the-walking-dead-the-final-season-episode-2-suffer-the-children.json) |
 | The Walking Dead: The Telltale Definitive Series | 117514 | [117514-the-walking-dead-the-telltale-definitive-series.json](./117514-the-walking-dead-the-telltale-definitive-series.json) |
@@ -10529,6 +10532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wreck That Should Not Be | 403016 | [403016-the-wreck-that-should-not-be.json](./403016-the-wreck-that-should-not-be.json) |
 | The Wrestling Code | 159104 | [159104-the-wrestling-code.json](./159104-the-wrestling-code.json) |
 | The Wrestling Game | 368474 | [368474-the-wrestling-game.json](./368474-the-wrestling-game.json) |
+| The Writer Is Anxious | 142713 | [142713-the-writer-is-anxious.json](./142713-the-writer-is-anxious.json) |
 | The Writer: A Change of Identity | 31087 | [31087-the-writer-a-change-of-identity.json](./31087-the-writer-a-change-of-identity.json) |
 | The Wrong Floor | 391069 | [391069-the-wrong-floor.json](./391069-the-wrong-floor.json) |
 | The Wylde | 23875 | [23875-the-wylde.json](./23875-the-wylde.json) |
@@ -12624,6 +12628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Parallax: The Burial Vault | 262291 | [262291-time-parallax-the-burial-vault.json](./262291-time-parallax-the-burial-vault.json) |
 | Time Pilot | 246402 | [246402-time-pilot.json](./246402-time-pilot.json) |
 | Time Pilot Demake | 303780 | [303780-time-pilot-demake.json](./303780-time-pilot-demake.json) |
+| Time Princess | 142715 | [142715-time-princess.json](./142715-time-princess.json) |
 | Time Raiders | 208321 | [208321-time-raiders.json](./208321-time-raiders.json) |
 | Time Raiders | 252232 | [252232-time-raiders.json](./252232-time-raiders.json) |
 | Time Ramesside | 9050 | [9050-time-ramesside.json](./9050-time-ramesside.json) |
@@ -15232,6 +15237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tractor Journey | 223154 | [223154-tractor-journey.json](./223154-tractor-journey.json) |
 | Tractor Racers | 392288 | [392288-tractor-racers.json](./392288-tractor-racers.json) |
 | Tractor Racing ( 3D Heavy Monster Truck Race Game on Dirt Track ) | 102577 | [102577-tractor-racing-3d-heavy-monster-truck-race-game-on-dirt-track.json](./102577-tractor-racing-3d-heavy-monster-truck-race-game-on-dirt-track.json) |
+| Tractor Racing Simulation | 142748 | [142748-tractor-racing-simulation.json](./142748-tractor-racing-simulation.json) |
 | Tractorball | 55233 | [55233-tractorball.json](./55233-tractorball.json) |
 | Trade And Fight | 306366 | [306366-trade-and-fight.json](./306366-trade-and-fight.json) |
 | Trade Bots: A Technical Analysis Simulation | 233664 | [233664-trade-bots-a-technical-analysis-simulation.json](./233664-trade-bots-a-technical-analysis-simulation.json) |
