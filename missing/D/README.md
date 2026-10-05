@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.I.M. | 372105 | [372105-d-i-m.json](./372105-d-i-m.json) |
 | D.I.P.R.I.P. Warm Up | 29120 | [29120-d-i-p-r-i-p-warm-up.json](./29120-d-i-p-r-i-p-warm-up.json) |
 | D.I.R: Death is Random | 186604 | [186604-d-i-r-death-is-random.json](./186604-d-i-r-death-is-random.json) |
+| D.M.T | 135004 | [135004-d-m-t.json](./135004-d-m-t.json) |
 | D.N. Angel: Crimson Wings | 67374 | [67374-d-n-angel-crimson-wings.json](./67374-d-n-angel-crimson-wings.json) |
 | D.N.A. | 137022 | [137022-d-n-a.json](./137022-d-n-a.json) |
 | D.N.A.: Dark Native Apostle | 56134 | [56134-d-n-a-dark-native-apostle.json](./56134-d-n-a-dark-native-apostle.json) |
@@ -2650,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deduce Together | 308884 | [308884-deduce-together.json](./308884-deduce-together.json) |
 | Deductum | 355531 | [355531-deductum.json](./355531-deductum.json) |
 | Dedz0ne | 256970 | [256970-dedz0ne.json](./256970-dedz0ne.json) |
+| Dee Dum | 134992 | [134992-dee-dum.json](./134992-dee-dum.json) |
 | Dee-6: Dice Defenders | 145562 | [145562-dee-6-dice-defenders.json](./145562-dee-6-dice-defenders.json) |
 | Deed: Sustainable Business | 240201 | [240201-deed-sustainable-business.json](./240201-deed-sustainable-business.json) |
 | Deeds Were Done 2: Project Ascend | 414425 | [414425-deeds-were-done-2-project-ascend.json](./414425-deeds-were-done-2-project-ascend.json) |
@@ -3625,6 +3627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dervish | 13589 | [13589-dervish.json](./13589-dervish.json) |
 | Des Blood VR | 81472 | [81472-des-blood-vr.json](./81472-des-blood-vr.json) |
 | Desafio Quiz | 357376 | [357376-desafio-quiz.json](./357376-desafio-quiz.json) |
+| Desastre Colectivo | 135077 | [135077-desastre-colectivo.json](./135077-desastre-colectivo.json) |
 | Descend | 264044 | [264044-descend.json](./264044-descend.json) |
 | Descend into Madness | 162837 | [162837-descend-into-madness.json](./162837-descend-into-madness.json) |
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
@@ -7374,6 +7377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down With Fear | 236345 | [236345-down-with-fear.json](./236345-down-with-fear.json) |
 | Down With Hell: Crystal | 385863 | [385863-down-with-hell-crystal.json](./385863-down-with-hell-crystal.json) |
 | Down with the Ship | 365205 | [365205-down-with-the-ship.json](./365205-down-with-the-ship.json) |
+| Down. | 134994 | [134994-down.json](./134994-down.json) |
 | Downbreak | 95578 | [95578-downbreak.json](./95578-downbreak.json) |
 | Downer Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Yonpaku Itsuka no Tabi | 396931 | [396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json](./396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json) |
 | Downfall | 100346 | [100346-downfall.json](./100346-downfall.json) |
