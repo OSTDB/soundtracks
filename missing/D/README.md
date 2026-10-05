@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Ride Escape | 310577 | [310577-dark-ride-escape.json](./310577-dark-ride-escape.json) |
 | Dark Rift | 3468 | [3468-dark-rift.json](./3468-dark-rift.json) |
 | Dark Romance: Ashville | 139798 | [139798-dark-romance-ashville.json](./139798-dark-romance-ashville.json) |
+| Dark Romance: Curse of Bluebeard - Collector's Edition | 146516 | [146516-dark-romance-curse-of-bluebeard-collectors-edition.json](./146516-dark-romance-curse-of-bluebeard-collectors-edition.json) |
 | Dark Romance: Heart of the Beast HD | 88814 | [88814-dark-romance-heart-of-the-beast-hd.json](./88814-dark-romance-heart-of-the-beast-hd.json) |
 | Dark Romance: Hunchback of Notre-Dame - Collector's Edition | 116108 | [116108-dark-romance-hunchback-of-notre-dame-collectors-edition.json](./116108-dark-romance-hunchback-of-notre-dame-collectors-edition.json) |
 | Dark Romance: Kingdom of Death HD | 88810 | [88810-dark-romance-kingdom-of-death-hd.json](./88810-dark-romance-kingdom-of-death-hd.json) |
@@ -1334,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date Senbei | 412450 | [412450-date-senbei.json](./412450-date-senbei.json) |
 | Date Teacher | 397193 | [397193-date-teacher.json](./397193-date-teacher.json) |
 | Date the Difference | 392299 | [392299-date-the-difference.json](./392299-date-the-difference.json) |
+| Date Treat | 146520 | [146520-date-treat.json](./146520-date-treat.json) |
 | Date Us, You Won't | 215229 | [215229-date-us-you-wont.json](./215229-date-us-you-wont.json) |
 | Date Warp | 17400 | [17400-date-warp.json](./17400-date-warp.json) |
 | Date with Detective Wolf | 303276 | [303276-date-with-detective-wolf.json](./303276-date-with-detective-wolf.json) |
@@ -3442,8 +3444,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de D: Shining Stage | 137560 | [137560-densha-de-d-shining-stage.json](./137560-densha-de-d-shining-stage.json) |
 | Densha de GO! | 146907 | [146907-densha-de-go.json](./146907-densha-de-go.json) |
 | Densha de Go! 2 | 37286 | [37286-densha-de-go-2.json](./37286-densha-de-go-2.json) |
+| Densha de Go! 3 Tsuukinhen: Daiyakaisei | 146532 | [146532-densha-de-go-3-tsuukinhen-daiyakaisei.json](./146532-densha-de-go-3-tsuukinhen-daiyakaisei.json) |
 | Densha de GO! 64 | 3469 | [3469-densha-de-go-64.json](./3469-densha-de-go-64.json) |
 | Densha de GO! EX | 94351 | [94351-densha-de-go-ex.json](./94351-densha-de-go-ex.json) |
+| Densha de Go! Plug & Play | 146557 | [146557-densha-de-go-plug-and-play.json](./146557-densha-de-go-plug-and-play.json) |
+| Densha de Go! Pocket: Chuuousen-hen | 146558 | [146558-densha-de-go-pocket-chuuousen-hen.json](./146558-densha-de-go-pocket-chuuousen-hen.json) |
+| Densha de Go! Pocket: Osakakanjousen-hen | 146559 | [146559-densha-de-go-pocket-osakakanjousen-hen.json](./146559-densha-de-go-pocket-osakakanjousen-hen.json) |
+| Densha de Go! Pocket: Toukaidousen-hen | 146560 | [146560-densha-de-go-pocket-toukaidousen-hen.json](./146560-densha-de-go-pocket-toukaidousen-hen.json) |
+| Densha de Go! Shinkansen EX: Sanyou Shinkansen-hen | 146542 | [146542-densha-de-go-shinkansen-ex-sanyou-shinkansen-hen.json](./146542-densha-de-go-shinkansen-ex-sanyou-shinkansen-hen.json) |
 | Densha de GO! Tokubetsu-hen: Fukkatsu Shouwa no Yamanotesen | 66660 | [66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json](./66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json) |
 | Densha Unten Shirei! Tokaido-hen | 221739 | [221739-densha-unten-shirei-tokaido-hen.json](./221739-densha-unten-shirei-tokaido-hen.json) |
 | Densha Unten Shirei! Tokyo-wan-hen | 221738 | [221738-densha-unten-shirei-tokyo-wan-hen.json](./221738-densha-unten-shirei-tokyo-wan-hen.json) |
@@ -8464,6 +8472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming Rainbow | 191824 | [191824-dreaming-rainbow.json](./191824-dreaming-rainbow.json) |
 | Dreaming Sarah | 8702 | [8702-dreaming-sarah.json](./8702-dreaming-sarah.json) |
 | Dreaming Seal Simulator | 325288 | [325288-dreaming-seal-simulator.json](./325288-dreaming-seal-simulator.json) |
+| Dreaming Treat | 146517 | [146517-dreaming-treat.json](./146517-dreaming-treat.json) |
 | Dreaming with You | 267474 | [267474-dreaming-with-you.json](./267474-dreaming-with-you.json) |
 | DreamIsland | 207357 | [207357-dreamisland.json](./207357-dreamisland.json) |
 | Dreamjob: Programmer | 132801 | [132801-dreamjob-programmer.json](./132801-dreamjob-programmer.json) |
@@ -8600,6 +8609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dresden Files Cooperative Card Game: Winter Schemes | 266503 | [266503-dresden-files-cooperative-card-game-winter-schemes.json](./266503-dresden-files-cooperative-card-game-winter-schemes.json) |
 | Dress | 94748 | [94748-dress.json](./94748-dress.json) |
 | Dress Me | 101049 | [101049-dress-me.json](./101049-dress-me.json) |
+| Dress Treat! | 146521 | [146521-dress-treat.json](./146521-dress-treat.json) |
 | Dress Up Bear | 96029 | [96029-dress-up-bear.json](./96029-dress-up-bear.json) |
 | Dress-up | 103672 | [103672-dress-up.json](./103672-dress-up.json) |
 | Dress-Up With Helene: Deluxe! | 358860 | [358860-dress-up-with-helene-deluxe.json](./358860-dress-up-with-helene-deluxe.json) |
@@ -8814,6 +8824,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droid404 | 159741 | [159741-droid404.json](./159741-droid404.json) |
 | Droids | 84276 | [84276-droids.json](./84276-droids.json) |
 | Droids & Wizards | 124769 | [124769-droids-and-wizards.json](./124769-droids-and-wizards.json) |
+| Droiyan | 146529 | [146529-droiyan.json](./146529-droiyan.json) |
+| Droiyan 2: Absolute Monarch | 146531 | [146531-droiyan-2-absolute-monarch.json](./146531-droiyan-2-absolute-monarch.json) |
+| Droiyan Next | 146530 | [146530-droiyan-next.json](./146530-droiyan-next.json) |
 | Drol | 6098 | [6098-drol.json](./6098-drol.json) |
 | Drome Racers | 3901 | [3901-drome-racers.json](./3901-drome-racers.json) |
 | Dromedary | 80244 | [80244-dromedary.json](./80244-dromedary.json) |
