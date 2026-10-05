@@ -6167,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blub | 274497 | [274497-blub.json](./274497-blub.json) |
 | Blubber | 312582 | [312582-blubber.json](./312582-blubber.json) |
 | BlubBlub: Quest of the Blob | 102338 | [102338-blubblub-quest-of-the-blob.json](./102338-blubblub-quest-of-the-blob.json) |
+| Blue | 133854 | [133854-blue.json](./133854-blue.json) |
 | Blue | 176777 | [176777-blue.json](./176777-blue.json) |
 | Blue | 380034 | [380034-blue.json](./380034-blue.json) |
 | Blue Angelo | 18253 | [18253-blue-angelo.json](./18253-blue-angelo.json) |
