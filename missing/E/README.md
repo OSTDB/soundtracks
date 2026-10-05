@@ -327,6 +327,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EBaseball: Pro Spirit | 393762 | [393762-ebaseball-pro-spirit.json](./393762-ebaseball-pro-spirit.json) |
 | eBaseball: Pro Spirit 2026 | 410262 | [410262-ebaseball-pro-spirit-2026.json](./410262-ebaseball-pro-spirit-2026.json) |
 | Eberouge | 97318 | [97318-eberouge.json](./97318-eberouge.json) |
+| Eberouge 2 | 171968 | [171968-eberouge-2.json](./171968-eberouge-2.json) |
+| Eberouge Special: Koi to Mahou no Gakuen Seikatsu | 171967 | [171967-eberouge-special-koi-to-mahou-no-gakuen-seikatsu.json](./171967-eberouge-special-koi-to-mahou-no-gakuen-seikatsu.json) |
 | EbiTapes | 238731 | [238731-ebitapes.json](./238731-ebitapes.json) |
 | Ebola | 119556 | [119556-ebola.json](./119556-ebola.json) |
 | Ebola 3 | 216312 | [216312-ebola-3.json](./216312-ebola-3.json) |
@@ -1339,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ella's Nightmare | 384173 | [384173-ellas-nightmare.json](./384173-ellas-nightmare.json) |
 | Ellada Games RPG Bundle | 187500 | [187500-ellada-games-rpg-bundle.json](./187500-ellada-games-rpg-bundle.json) |
 | Ellan: The Lost Soul | 261768 | [261768-ellan-the-lost-soul.json](./261768-ellan-the-lost-soul.json) |
+| Elle | 171973 | [171973-elle.json](./171973-elle.json) |
 | Ellen and the Degenerates RPG | 114542 | [114542-ellen-and-the-degenerates-rpg.json](./114542-ellen-and-the-degenerates-rpg.json) |
 | Ellentis | 370178 | [370178-ellentis.json](./370178-ellentis.json) |
 | Ellie | 113681 | [113681-ellie.json](./113681-ellie.json) |
@@ -1849,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Asphalt | 382950 | [382950-endless-asphalt.json](./382950-endless-asphalt.json) |
 | Endless Battle | 109664 | [109664-endless-battle.json](./109664-endless-battle.json) |
 | Endless Battlefield | 186317 | [186317-endless-battlefield.json](./186317-endless-battlefield.json) |
+| Endless Blue | 171901 | [171901-endless-blue.json](./171901-endless-blue.json) |
 | Endless Boss Fight | 163762 | [163762-endless-boss-fight.json](./163762-endless-boss-fight.json) |
 | Endless Bounce | 414571 | [414571-endless-bounce.json](./414571-endless-bounce.json) |
 | Endless Casual Drive | 301276 | [301276-endless-casual-drive.json](./301276-endless-casual-drive.json) |
