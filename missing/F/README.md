@@ -3483,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing | 209435 | [209435-fishing.json](./209435-fishing.json) |
 | Fishing | 246456 | [246456-fishing.json](./246456-fishing.json) |
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
+| FIshing Adventure VR | 127004 | [127004-fishing-adventure-vr.json](./127004-fishing-adventure-vr.json) |
 | Fishing Clash 2020: Fish Catching Games | 135263 | [135263-fishing-clash-2020-fish-catching-games.json](./135263-fishing-clash-2020-fish-catching-games.json) |
 | Fishing Clash: Catching Fish Game. Bass Hunting 3D | 99389 | [99389-fishing-clash-catching-fish-game-bass-hunting-3d.json](./99389-fishing-clash-catching-fish-game-bass-hunting-3d.json) |
 | Fishing Craze | 294739 | [294739-fishing-craze.json](./294739-fishing-craze.json) |
@@ -4820,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foodie Yama | 344439 | [344439-foodie-yama.json](./344439-foodie-yama.json) |
 | Foodies | 174619 | [174619-foodies.json](./174619-foodies.json) |
 | Foodo Kitchen | 23419 | [23419-foodo-kitchen.json](./23419-foodo-kitchen.json) |
+| Foodtruck Arena | 126982 | [126982-foodtruck-arena.json](./126982-foodtruck-arena.json) |
 | FooFee | 277423 | [277423-foofee.json](./277423-foofee.json) |
 | Fool King | 356724 | [356724-fool-king.json](./356724-fool-king.json) |
 | Fool! | 118345 | [118345-fool.json](./118345-fool.json) |
