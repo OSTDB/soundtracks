@@ -1816,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Executive Tycoon | 17036 | [17036-tech-executive-tycoon.json](./17036-tech-executive-tycoon.json) |
 | Tech Invaders TD | 219568 | [219568-tech-invaders-td.json](./219568-tech-invaders-td.json) |
 | Tech Romancer | 227751 | [227751-tech-romancer.json](./227751-tech-romancer.json) |
+| Tech Support 2077 | 123957 | [123957-tech-support-2077.json](./123957-tech-support-2077.json) |
 | Tech vs Magic | 126480 | [126480-tech-vs-magic.json](./126480-tech-vs-magic.json) |
 | Tech Warriors Giga Fighters | 218015 | [218015-tech-warriors-giga-fighters.json](./218015-tech-warriors-giga-fighters.json) |
 | Tech-Heresy | 272497 | [272497-tech-heresy.json](./272497-tech-heresy.json) |
@@ -2524,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Maega | 217265 | [217265-terra-maega.json](./217265-terra-maega.json) |
 | Terra Militaris | 66367 | [66367-terra-militaris.json](./66367-terra-militaris.json) |
 | Terra Nil | 152424 | [152424-terra-nil.json](./152424-terra-nil.json) |
+| Terra Nil Prototype | 123998 | [123998-terra-nil-prototype.json](./123998-terra-nil-prototype.json) |
 | Terra Nil: Deluxe Edition | 243138 | [243138-terra-nil-deluxe-edition.json](./243138-terra-nil-deluxe-edition.json) |
 | Terra Nova Pinball | 289034 | [289034-terra-nova-pinball.json](./289034-terra-nova-pinball.json) |
 | Terra Omega | 238975 | [238975-terra-omega.json](./238975-terra-omega.json) |
@@ -12709,6 +12711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time of Heroes | 341087 | [341087-time-of-heroes.json](./341087-time-of-heroes.json) |
 | Time of Shadows | 90468 | [90468-time-of-shadows.json](./90468-time-of-shadows.json) |
 | Time of Sorrow | 316606 | [316606-time-of-sorrow.json](./316606-time-of-sorrow.json) |
+| Time of the Moon | 123964 | [123964-time-of-the-moon.json](./123964-time-of-the-moon.json) |
 | Time of the Wizard | 260308 | [260308-time-of-the-wizard.json](./260308-time-of-the-wizard.json) |
 | Time of the Zombies | 113657 | [113657-time-of-the-zombies.json](./113657-time-of-the-zombies.json) |
 | Time of War | 27638 | [27638-time-of-war.json](./27638-time-of-war.json) |
@@ -15118,6 +15121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers of Aghasba | 250636 | [250636-towers-of-aghasba.json](./250636-towers-of-aghasba.json) |
 | Towers of Altrac | 36165 | [36165-towers-of-altrac.json](./36165-towers-of-altrac.json) |
 | Towers of Mergethorne | 362818 | [362818-towers-of-mergethorne.json](./362818-towers-of-mergethorne.json) |
+| Towers of Minimalism | 123986 | [123986-towers-of-minimalism.json](./123986-towers-of-minimalism.json) |
 | Towers of Scale | 381624 | [381624-towers-of-scale.json](./381624-towers-of-scale.json) |
 | Towers of Thana | 238595 | [238595-towers-of-thana.json](./238595-towers-of-thana.json) |
 | Towers of Twilight | 53835 | [53835-towers-of-twilight.json](./53835-towers-of-twilight.json) |
@@ -15451,6 +15455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trails of Illusion | 197951 | [197951-trails-of-illusion.json](./197951-trails-of-illusion.json) |
 | Trails of Sunder | 241077 | [241077-trails-of-sunder.json](./241077-trails-of-sunder.json) |
 | Trails of the Ancestors | 212828 | [212828-trails-of-the-ancestors.json](./212828-trails-of-the-ancestors.json) |
+| Trails of the Black Sun | 123953 | [123953-trails-of-the-black-sun.json](./123953-trails-of-the-black-sun.json) |
 | Train and Rail Yard Simulator | 266252 | [266252-train-and-rail-yard-simulator.json](./266252-train-and-rail-yard-simulator.json) |
 | Train Bandit | 68514 | [68514-train-bandit.json](./68514-train-bandit.json) |
 | Train Cargo: Nightshift | 374159 | [374159-train-cargo-nightshift.json](./374159-train-cargo-nightshift.json) |
