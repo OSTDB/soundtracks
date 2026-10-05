@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Making History: The First World War | 132316 | [132316-making-history-the-first-world-war.json](./132316-making-history-the-first-world-war.json) |
 | Making History: The Great War | 17085 | [17085-making-history-the-great-war.json](./17085-making-history-the-great-war.json) |
 | Making History: The Great War - The Red Army | 170808 | [170808-making-history-the-great-war-the-red-army.json](./170808-making-history-the-great-war-the-red-army.json) |
+| Making it Home | 123463 | [123463-making-it-home.json](./123463-making-it-home.json) |
 | Making Lovely | 387501 | [387501-making-lovely.json](./387501-making-lovely.json) |
 | Making Lovers: First Blush | 397802 | [397802-making-lovers-first-blush.json](./397802-making-lovers-first-blush.json) |
 | Making Lovers: Geki Icha After Story Vol.01 | 108975 | [108975-making-lovers-geki-icha-after-story-vol-01.json](./108975-making-lovers-geki-icha-after-story-vol-01.json) |
@@ -11760,6 +11761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyTavern | 295328 | [295328-mytavern.json](./295328-mytavern.json) |
 | MyTeardrop | 319097 | [319097-myteardrop.json](./319097-myteardrop.json) |
 | Myth | 12186 | [12186-myth.json](./12186-myth.json) |
+| Myth | 123394 | [123394-myth.json](./123394-myth.json) |
 | Myth | 252374 | [252374-myth.json](./252374-myth.json) |
 | Myth & Mirage | 310727 | [310727-myth-and-mirage.json](./310727-myth-and-mirage.json) |
 | Myth Finders | 364510 | [364510-myth-finders.json](./364510-myth-finders.json) |
