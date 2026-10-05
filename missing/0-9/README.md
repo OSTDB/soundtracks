@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12-sai: Koi Suru Diary | 98417 | [98417-12-sai-koi-suru-diary.json](./98417-12-sai-koi-suru-diary.json) |
 | 1201 | 252993 | [252993-1201.json](./252993-1201.json) |
 | 1213: Episode 1 | 69821 | [69821-1213-episode-1.json](./69821-1213-episode-1.json) |
+| 1213: Special Edition | 144628 | [144628-1213-special-edition.json](./144628-1213-special-edition.json) |
 | 123 Animal Second Grade Math for Kids | 58477 | [58477-123-animal-second-grade-math-for-kids.json](./58477-123-animal-second-grade-math-for-kids.json) |
 | 123 Kids Fun Connect the Dots Games for Smart Kids | 232183 | [232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json](./232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json) |
 | 123 Kids Fun Puzzle Red | 89166 | [89166-123-kids-fun-puzzle-red.json](./89166-123-kids-fun-puzzle-red.json) |
