@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Gaze: Curse of the Black Nazar | 279853 | [279853-dark-gaze-curse-of-the-black-nazar.json](./279853-dark-gaze-curse-of-the-black-nazar.json) |
 | Dark Ghost RPG | 96879 | [96879-dark-ghost-rpg.json](./96879-dark-ghost-rpg.json) |
 | Dark Goddess of Destruction | 339364 | [339364-dark-goddess-of-destruction.json](./339364-dark-goddess-of-destruction.json) |
+| Dark Gravity | 128311 | [128311-dark-gravity.json](./128311-dark-gravity.json) |
 | Dark Grid | 373014 | [373014-dark-grid.json](./373014-dark-grid.json) |
 | Dark Half | 42562 | [42562-dark-half.json](./42562-dark-half.json) |
 | Dark Harvest: Ascension | 224577 | [224577-dark-harvest-ascension.json](./224577-dark-harvest-ascension.json) |
@@ -2807,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeper | 104650 | [104650-deeper.json](./104650-deeper.json) |
 | Deeper | 223440 | [223440-deeper.json](./223440-deeper.json) |
 | Deeper | 343279 | [343279-deeper.json](./343279-deeper.json) |
+| Deeper Red 2028: We Are Escape | 128345 | [128345-deeper-red-2028-we-are-escape.json](./128345-deeper-red-2028-we-are-escape.json) |
 | Deeper Than Hell | 295792 | [295792-deeper-than-hell.json](./295792-deeper-than-hell.json) |
 | Deeper You Go | 346746 | [346746-deeper-you-go.json](./346746-deeper-you-go.json) |
 | Deepest Depth | 320186 | [320186-deepest-depth.json](./320186-deepest-depth.json) |
@@ -6162,6 +6164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogfight: Battle in the Skies | 65464 | [65464-dogfight-battle-in-the-skies.json](./65464-dogfight-battle-in-the-skies.json) |
 | Dogfight! | 109451 | [109451-dogfight.json](./109451-dogfight.json) |
 | Dogfighter: WW2 | 219033 | [219033-dogfighter-ww2.json](./219033-dogfighter-ww2.json) |
+| Dogforce | 128421 | [128421-dogforce.json](./128421-dogforce.json) |
 | Dogforce: Seasons | 179161 | [179161-dogforce-seasons.json](./179161-dogforce-seasons.json) |
 | Doggerfall | 236883 | [236883-doggerfall.json](./236883-doggerfall.json) |
 | Doggie Ninja: The Burning Strikers | 147785 | [147785-doggie-ninja-the-burning-strikers.json](./147785-doggie-ninja-the-burning-strikers.json) |
