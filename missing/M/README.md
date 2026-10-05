@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Garden | 317579 | [317579-magic-garden.json](./317579-magic-garden.json) |
 | Magic Garden Escape | 315471 | [315471-magic-garden-escape.json](./315471-magic-garden-escape.json) |
 | Magic Gear | 377601 | [377601-magic-gear.json](./377601-magic-gear.json) |
+| Magic Gems | 156226 | [156226-magic-gems.json](./156226-magic-gems.json) |
 | Magic Golf | 251731 | [251731-magic-golf.json](./251731-magic-golf.json) |
 | Magic gravity | 76636 | [76636-magic-gravity.json](./76636-magic-gravity.json) |
 | Magic Griddlers | 156671 | [156671-magic-griddlers.json](./156671-magic-griddlers.json) |
