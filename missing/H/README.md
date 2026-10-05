@@ -1996,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heise Biji | 330272 | [330272-heise-biji.json](./330272-heise-biji.json) |
 | Heisei Kyouiku Iinkai Jr. Mezase Yuutousei | 303758 | [303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json](./303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json) |
 | Heisei Pistol Show | 176864 | [176864-heisei-pistol-show.json](./176864-heisei-pistol-show.json) |
+| Heisei Shin Onigashima | 170336 | [170336-heisei-shin-onigashima.json](./170336-heisei-shin-onigashima.json) |
 | Heisei Tensai Bakabon | 249763 | [249763-heisei-tensai-bakabon.json](./249763-heisei-tensai-bakabon.json) |
 | Heisei Tensai Bakabon Minna de Family Resturant ni Iku no da! | 249764 | [249764-heisei-tensai-bakabon-minna-de-family-resturant-ni-iku-no-da.json](./249764-heisei-tensai-bakabon-minna-de-family-resturant-ni-iku-no-da.json) |
 | Heisen-Bro Hustler | 419898 | [419898-heisen-bro-hustler.json](./419898-heisen-bro-hustler.json) |
@@ -3145,6 +3146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Destiny | 63384 | [63384-heroes-of-destiny.json](./63384-heroes-of-destiny.json) |
 | Heroes of Dragon Age | 22258 | [22258-heroes-of-dragon-age.json](./22258-heroes-of-dragon-age.json) |
 | Heroes of Drakerealm | 235485 | [235485-heroes-of-drakerealm.json](./235485-heroes-of-drakerealm.json) |
+| Heroes of Dungeon | 170372 | [170372-heroes-of-dungeon.json](./170372-heroes-of-dungeon.json) |
 | Heroes of Egypt: The Curse of Sethos | 191119 | [191119-heroes-of-egypt-the-curse-of-sethos.json](./191119-heroes-of-egypt-the-curse-of-sethos.json) |
 | Heroes of Egypt: The Curse of Sethos - Collector's Edition | 259757 | [259757-heroes-of-egypt-the-curse-of-sethos-collectors-edition.json](./259757-heroes-of-egypt-the-curse-of-sethos-collectors-edition.json) |
 | Heroes of Eldemor | 150544 | [150544-heroes-of-eldemor.json](./150544-heroes-of-eldemor.json) |
@@ -3888,6 +3890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Seek: Toilet Monster | 273949 | [273949-hide-and-seek-toilet-monster.json](./273949-hide-and-seek-toilet-monster.json) |
 | Hide and Sink | 410928 | [410928-hide-and-sink.json](./410928-hide-and-sink.json) |
 | Hide or Die | 74910 | [74910-hide-or-die.json](./74910-hide-or-die.json) |
+| Hide Seek Survive | 170358 | [170358-hide-seek-survive.json](./170358-hide-seek-survive.json) |
 | Hide The Corpse | 306936 | [306936-hide-the-corpse.json](./306936-hide-the-corpse.json) |
 | Hide The Corpse: Gusimir Mansion | 380564 | [380564-hide-the-corpse-gusimir-mansion.json](./380564-hide-the-corpse-gusimir-mansion.json) |
 | Hide Time | 235713 | [235713-hide-time.json](./235713-hide-time.json) |
