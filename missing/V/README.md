@@ -237,7 +237,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkkryes: Ashes of War | 221230 | [221230-valkkryes-ashes-of-war.json](./221230-valkkryes-ashes-of-war.json) |
 | Valknut | 74367 | [74367-valknut.json](./74367-valknut.json) |
 | Valkyria Chronicles 2 | 14674 | [14674-valkyria-chronicles-2.json](./14674-valkyria-chronicles-2.json) |
+| Valkyria Chronicles 2: Banquet of Ghosts | 140338 | [140338-valkyria-chronicles-2-banquet-of-ghosts.json](./140338-valkyria-chronicles-2-banquet-of-ghosts.json) |
+| Valkyria Chronicles 2: Battle at Doeffein EX | 140330 | [140330-valkyria-chronicles-2-battle-at-doeffein-ex.json](./140330-valkyria-chronicles-2-battle-at-doeffein-ex.json) |
+| Valkyria Chronicles 2: Battle at Lanseal EX | 140332 | [140332-valkyria-chronicles-2-battle-at-lanseal-ex.json](./140332-valkyria-chronicles-2-battle-at-lanseal-ex.json) |
+| Valkyria Chronicles 2: Battle at Mellvere EX | 140331 | [140331-valkyria-chronicles-2-battle-at-mellvere-ex.json](./140331-valkyria-chronicles-2-battle-at-mellvere-ex.json) |
+| Valkyria Chronicles 2: Battle at Roendahl EX | 140329 | [140329-valkyria-chronicles-2-battle-at-roendahl-ex.json](./140329-valkyria-chronicles-2-battle-at-roendahl-ex.json) |
+| Valkyria Chronicles 2: Cerculean Catastrophe | 140339 | [140339-valkyria-chronicles-2-cerculean-catastrophe.json](./140339-valkyria-chronicles-2-cerculean-catastrophe.json) |
 | Valkyria Chronicles 2: DLC Pack 2 | 138838 | [138838-valkyria-chronicles-2-dlc-pack-2.json](./138838-valkyria-chronicles-2-dlc-pack-2.json) |
+| Valkyria Chronicles 2: Final Lancer Exam | 140343 | [140343-valkyria-chronicles-2-final-lancer-exam.json](./140343-valkyria-chronicles-2-final-lancer-exam.json) |
+| Valkyria Chronicles 2: Final Scout Exam | 140342 | [140342-valkyria-chronicles-2-final-scout-exam.json](./140342-valkyria-chronicles-2-final-scout-exam.json) |
+| Valkyria Chronicles 2: Final Tech Exam | 140344 | [140344-valkyria-chronicles-2-final-tech-exam.json](./140344-valkyria-chronicles-2-final-tech-exam.json) |
+| Valkyria Chronicles 2: Mellvere Crisis | 140340 | [140340-valkyria-chronicles-2-mellvere-crisis.json](./140340-valkyria-chronicles-2-mellvere-crisis.json) |
+| Valkyria Chronicles 2: Mine Offensive | 140341 | [140341-valkyria-chronicles-2-mine-offensive.json](./140341-valkyria-chronicles-2-mine-offensive.json) |
+| Valkyria Chronicles 2: Race Against Time | 140336 | [140336-valkyria-chronicles-2-race-against-time.json](./140336-valkyria-chronicles-2-race-against-time.json) |
+| Valkyria Chronicles 2: Seven Secrets | 140333 | [140333-valkyria-chronicles-2-seven-secrets.json](./140333-valkyria-chronicles-2-seven-secrets.json) |
+| Valkyria Chronicles 2: Two-Pronged Assault | 140337 | [140337-valkyria-chronicles-2-two-pronged-assault.json](./140337-valkyria-chronicles-2-two-pronged-assault.json) |
+| Valkyria Chronicles 2: Ultimate Challenge | 140335 | [140335-valkyria-chronicles-2-ultimate-challenge.json](./140335-valkyria-chronicles-2-ultimate-challenge.json) |
+| Valkyria Chronicles 2: Warship Showdown | 140334 | [140334-valkyria-chronicles-2-warship-showdown.json](./140334-valkyria-chronicles-2-warship-showdown.json) |
 | Valkyria Chronicles 3: Extra Edition | 38466 | [38466-valkyria-chronicles-3-extra-edition.json](./38466-valkyria-chronicles-3-extra-edition.json) |
 | Valkyria Chronicles 3: Unrecorded Chronicles | 14675 | [14675-valkyria-chronicles-3-unrecorded-chronicles.json](./14675-valkyria-chronicles-3-unrecorded-chronicles.json) |
 | Valkyria Chronicles 4 | 75848 | [75848-valkyria-chronicles-4.json](./75848-valkyria-chronicles-4.json) |
