@@ -1958,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Brothers: Blazing Deserts | 155069 | [155069-battle-brothers-blazing-deserts.json](./155069-battle-brothers-blazing-deserts.json) |
 | Battle Bruise | 28320 | [28320-battle-bruise.json](./28320-battle-bruise.json) |
 | Battle Bugs | 12402 | [12402-battle-bugs.json](./12402-battle-bugs.json) |
+| Battle Calculator | 165562 | [165562-battle-calculator.json](./165562-battle-calculator.json) |
 | Battle Capacity | 332815 | [332815-battle-capacity.json](./332815-battle-capacity.json) |
 | Battle Cars | 224095 | [224095-battle-cars.json](./224095-battle-cars.json) |
 | Battle Cars | 332256 | [332256-battle-cars.json](./332256-battle-cars.json) |
@@ -3873,6 +3874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Burger | 256294 | [256294-big-burger.json](./256294-big-burger.json) |
 | Big Burger Store | 333004 | [333004-big-burger-store.json](./333004-big-burger-store.json) |
 | Big Business | 14300 | [14300-big-business.json](./14300-big-business.json) |
+| Big Cat from Hell | 165586 | [165586-big-cat-from-hell.json](./165586-big-cat-from-hell.json) |
 | Big Cat Rescue VR | 157142 | [157142-big-cat-rescue-vr.json](./157142-big-cat-rescue-vr.json) |
 | Big Catch Bass Fishing | 197944 | [197944-big-catch-bass-fishing.json](./197944-big-catch-bass-fishing.json) |
 | Big Challenge Golf: Tokyo Yomiuri Country Club-hen | 286049 | [286049-big-challenge-golf-tokyo-yomiuri-country-club-hen.json](./286049-big-challenge-golf-tokyo-yomiuri-country-club-hen.json) |
