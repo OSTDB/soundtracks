@@ -2078,6 +2078,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2002 | 248585 | [248585-nhl-2002.json](./248585-nhl-2002.json) |
 | NHL 2002 | 815 | [815-nhl-2002.json](./815-nhl-2002.json) |
 | NHL 2005 | 4043 | [4043-nhl-2005.json](./4043-nhl-2005.json) |
+| NHL 21: Deluxe Edition | 140900 | [140900-nhl-21-deluxe-edition.json](./140900-nhl-21-deluxe-edition.json) |
+| NHL 21: Great Eight Edition | 140901 | [140901-nhl-21-great-eight-edition.json](./140901-nhl-21-great-eight-edition.json) |
 | NHL 22 | 165197 | [165197-nhl-22.json](./165197-nhl-22.json) |
 | NHL 22: X-Factor Edition | 172557 | [172557-nhl-22-x-factor-edition.json](./172557-nhl-22-x-factor-edition.json) |
 | NHL 23 | 214675 | [214675-nhl-23.json](./214675-nhl-23.json) |
