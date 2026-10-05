@@ -5027,6 +5027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Paper Scissors Party | 391732 | [391732-rock-paper-scissors-party.json](./391732-rock-paper-scissors-party.json) |
 | Rock Paper Scissors: The Final Match | 369705 | [369705-rock-paper-scissors-the-final-match.json](./369705-rock-paper-scissors-the-final-match.json) |
 | Rock Paper Scissors: The Roguelike Puzzle Game | 410207 | [410207-rock-paper-scissors-the-roguelike-puzzle-game.json](./410207-rock-paper-scissors-the-roguelike-puzzle-game.json) |
+| Rock Paper Shift | 137433 | [137433-rock-paper-shift.json](./137433-rock-paper-shift.json) |
 | Rock Paper Smash | 213464 | [213464-rock-paper-smash.json](./213464-rock-paper-smash.json) |
 | Rock Quest: A Rhythm Adventure | 346173 | [346173-rock-quest-a-rhythm-adventure.json](./346173-rock-quest-a-rhythm-adventure.json) |
 | Rock Scissor Paper | 262927 | [262927-rock-scissor-paper.json](./262927-rock-scissor-paper.json) |
