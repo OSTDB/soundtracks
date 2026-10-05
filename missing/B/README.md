@@ -2235,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Snakes | 190031 | [190031-battle-snakes.json](./190031-battle-snakes.json) |
 | Battle Snakes Arena | 82503 | [82503-battle-snakes-arena.json](./82503-battle-snakes-arena.json) |
 | Battle Soccer: Field no Hasha | 42567 | [42567-battle-soccer-field-no-hasha.json](./42567-battle-soccer-field-no-hasha.json) |
+| Battle Sorcerer | 126959 | [126959-battle-sorcerer.json](./126959-battle-sorcerer.json) |
 | Battle Space | 92278 | [92278-battle-space.json](./92278-battle-space.json) |
 | Battle Species | 110339 | [110339-battle-species.json](./110339-battle-species.json) |
 | Battle Spirit CrossOver: [BSC41] Greatest Record 2023 Rare Card Set | 359602 | [359602-battle-spirit-crossover-bsc41-greatest-record-2023-rare-card-set.json](./359602-battle-spirit-crossover-bsc41-greatest-record-2023-rare-card-set.json) |
