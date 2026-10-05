@@ -2022,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ENEFN | 132620 | [132620-enefn.json](./132620-enefn.json) |
 | Enemies: Gone Suburban | 239649 | [239649-enemies-gone-suburban.json](./239649-enemies-gone-suburban.json) |
 | Enemy | 36034 | [36034-enemy.json](./36034-enemy.json) |
+| Enemy 2: Missing in Action | 145895 | [145895-enemy-2-missing-in-action.json](./145895-enemy-2-missing-in-action.json) |
 | Enemy Engaged 2 | 20372 | [20372-enemy-engaged-2.json](./20372-enemy-engaged-2.json) |
 | Enemy Engaged: Apache vs Havoc | 20373 | [20373-enemy-engaged-apache-vs-havoc.json](./20373-enemy-engaged-apache-vs-havoc.json) |
 | Enemy Engaged: Comanche vs Hokum | 20374 | [20374-enemy-engaged-comanche-vs-hokum.json](./20374-enemy-engaged-comanche-vs-hokum.json) |
@@ -2940,6 +2941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escapeworld Dilemma | 150526 | [150526-escapeworld-dilemma.json](./150526-escapeworld-dilemma.json) |
 | Escaping | 180577 | [180577-escaping.json](./180577-escaping.json) |
 | Escaping a Fireworks Factory: Nyanzou & Kumakichi - Escape Game | 240225 | [240225-escaping-a-fireworks-factory-nyanzou-and-kumakichi-escape-game.json](./240225-escaping-a-fireworks-factory-nyanzou-and-kumakichi-escape-game.json) |
+| Escaping a Kid's Room: The Adventures of Nyanzou & Kumakichi - Escape Game Series | 145957 | [145957-escaping-a-kids-room-the-adventures-of-nyanzou-and-kumakichi-escape-game-series.json](./145957-escaping-a-kids-room-the-adventures-of-nyanzou-and-kumakichi-escape-game-series.json) |
 | Escaping Agent | 322131 | [322131-escaping-agent.json](./322131-escaping-agent.json) |
 | Escaping Atlantis | 249877 | [249877-escaping-atlantis.json](./249877-escaping-atlantis.json) |
 | Escaping Darkness | 320531 | [320531-escaping-darkness.json](./320531-escaping-darkness.json) |
@@ -4268,6 +4270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye | 280425 | [280425-eye.json](./280425-eye.json) |
 | Eye 4 Eye | 249358 | [249358-eye-4-eye.json](./249358-eye-4-eye.json) |
 | Eye Can See You | 208475 | [208475-eye-can-see-you.json](./208475-eye-can-see-you.json) |
+| Eye Contact | 145920 | [145920-eye-contact.json](./145920-eye-contact.json) |
 | Eye For Blood | 217327 | [217327-eye-for-blood.json](./217327-eye-for-blood.json) |
 | Eye Juice | 403205 | [403205-eye-juice.json](./403205-eye-juice.json) |
 | Eye of Bain | 298804 | [298804-eye-of-bain.json](./298804-eye-of-bain.json) |
