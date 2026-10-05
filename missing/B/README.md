@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball at Work: A Fun and Unique Game of Skill and Patience! | 139870 | [139870-ball-at-work-a-fun-and-unique-game-of-skill-and-patience.json](./139870-ball-at-work-a-fun-and-unique-game-of-skill-and-patience.json) |
 | Ball at Work: The Ultimate Speedrun Platformer! | 171570 | [171570-ball-at-work-the-ultimate-speedrun-platformer.json](./171570-ball-at-work-the-ultimate-speedrun-platformer.json) |
 | Ball Attack | 78984 | [78984-ball-attack.json](./78984-ball-attack.json) |
+| Ball Attraction | 123989 | [123989-ball-attraction.json](./123989-ball-attraction.json) |
 | Ball Blast: Dreamland DLC | 356814 | [356814-ball-blast-dreamland-dlc.json](./356814-ball-blast-dreamland-dlc.json) |
 | Ball Blast: Platinum Edition | 395674 | [395674-ball-blast-platinum-edition.json](./395674-ball-blast-platinum-edition.json) |
 | Ball Blast: Space DLC | 356815 | [356815-ball-blast-space-dlc.json](./356815-ball-blast-space-dlc.json) |
@@ -2987,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beats Fever | 30173 | [30173-beats-fever.json](./30173-beats-fever.json) |
 | Beats of Fury | 127181 | [127181-beats-of-fury.json](./127181-beats-of-fury.json) |
 | Beats of Rage | 46623 | [46623-beats-of-rage.json](./46623-beats-of-rage.json) |
+| Beats Runner | 123990 | [123990-beats-runner.json](./123990-beats-runner.json) |
 | Beats Warrior: Nian | 118266 | [118266-beats-warrior-nian.json](./118266-beats-warrior-nian.json) |
 | Beats&Boss | 338202 | [338202-beats-and-boss.json](./338202-beats-and-boss.json) |
 | Beatus Creation Solitaire | 201004 | [201004-beatus-creation-solitaire.json](./201004-beatus-creation-solitaire.json) |
@@ -4943,6 +4945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackBay Asylum | 10048 | [10048-blackbay-asylum.json](./10048-blackbay-asylum.json) |
 | Blackbeard the Cursed Jungle | 123526 | [123526-blackbeard-the-cursed-jungle.json](./123526-blackbeard-the-cursed-jungle.json) |
 | Blackbeard's Cove | 86577 | [86577-blackbeards-cove.json](./86577-blackbeards-cove.json) |
+| Blackberry | 123952 | [123952-blackberry.json](./123952-blackberry.json) |
 | BlackberryNova | 126436 | [126436-blackberrynova.json](./126436-blackberrynova.json) |
 | BlackberryNova: Sports Club | 221759 | [221759-blackberrynova-sports-club.json](./221759-blackberrynova-sports-club.json) |
 | Blackblade Revenant | 327178 | [327178-blackblade-revenant.json](./327178-blackblade-revenant.json) |
@@ -6714,6 +6717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Barn | 113497 | [113497-bomber-barn.json](./113497-bomber-barn.json) |
 | Bomber Baron | 15683 | [15683-bomber-baron.json](./15683-bomber-baron.json) |
 | Bomber Bob | 14331 | [14331-bomber-bob.json](./14331-bomber-bob.json) |
+| Bomber Bother | 123950 | [123950-bomber-bother.json](./123950-bomber-bother.json) |
 | Bomber Cat Run | 317860 | [317860-bomber-cat-run.json](./317860-bomber-cat-run.json) |
 | Bomber Command | 221687 | [221687-bomber-command.json](./221687-bomber-command.json) |
 | Bomber Crew: American Edition | 116147 | [116147-bomber-crew-american-edition.json](./116147-bomber-crew-american-edition.json) |
