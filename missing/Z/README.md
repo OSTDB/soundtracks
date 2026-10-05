@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zest & Goop | 183512 | [183512-zest-and-goop.json](./183512-zest-and-goop.json) |
 | Zest to Fantasy | 257655 | [257655-zest-to-fantasy.json](./257655-zest-to-fantasy.json) |
 | Zest Treasure Hunting | 342640 | [342640-zest-treasure-hunting.json](./342640-zest-treasure-hunting.json) |
+| ZET | 126477 | [126477-zet.json](./126477-zet.json) |
 | Zet Zillions | 280184 | [280184-zet-zillions.json](./280184-zet-zillions.json) |
 | Zeta | 250525 | [250525-zeta.json](./250525-zeta.json) |
 | Zeta Complex | 117164 | [117164-zeta-complex.json](./117164-zeta-complex.json) |
