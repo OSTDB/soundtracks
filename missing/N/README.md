@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.O.V.A. Legacy | 39004 | [39004-n-o-v-a-legacy.json](./39004-n-o-v-a-legacy.json) |
 | N.Ukeme | 418519 | [418519-n-ukeme.json](./418519-n-ukeme.json) |
 | N.Y.Zombies 2 | 86907 | [86907-n-y-zombies-2.json](./86907-n-y-zombies-2.json) |
+| N'Oubliez Jamais | 166578 | [166578-noubliez-jamais.json](./166578-noubliez-jamais.json) |
 | N+ | 8749 | [8749-n.json](./8749-n.json) |
 | N++: Ultimate Edition | 81203 | [81203-n-ultimate-edition.json](./81203-n-ultimate-edition.json) |
 | N+1: New Life For Unemployed Youth! | 290518 | [290518-n-1-new-life-for-unemployed-youth.json](./290518-n-1-new-life-for-unemployed-youth.json) |
