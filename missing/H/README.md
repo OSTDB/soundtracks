@@ -1170,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harrys Restaurant | 66388 | [66388-harrys-restaurant.json](./66388-harrys-restaurant.json) |
 | Harsh. | 294363 | [294363-harsh.json](./294363-harsh.json) |
 | Harts | 80920 | [80920-harts.json](./80920-harts.json) |
+| Harts Island | 153492 | [153492-harts-island.json](./153492-harts-island.json) |
 | Haru he to Tsuzuku Oka | 388003 | [388003-haru-he-to-tsuzuku-oka.json](./388003-haru-he-to-tsuzuku-oka.json) |
 | Haru Ichiban | 209708 | [209708-haru-ichiban.json](./209708-haru-ichiban.json) |
 | Haru no Oto ha Marude Kimi ni Nitete | 323821 | [323821-haru-no-oto-ha-marude-kimi-ni-nitete.json](./323821-haru-no-oto-ha-marude-kimi-ni-nitete.json) |
@@ -2315,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Cruel World | 272839 | [272839-hello-cruel-world.json](./272839-hello-cruel-world.json) |
 | Hello Duck | 408154 | [408154-hello-duck.json](./408154-hello-duck.json) |
 | Hello Emoji: Drawing to Solve Puzzles | 229798 | [229798-hello-emoji-drawing-to-solve-puzzles.json](./229798-hello-emoji-drawing-to-solve-puzzles.json) |
+| Hello Engineer | 153521 | [153521-hello-engineer.json](./153521-hello-engineer.json) |
 | Hello Fangaming Collection | 320231 | [320231-hello-fangaming-collection.json](./320231-hello-fangaming-collection.json) |
 | Hello Games Neighbor | 101101 | [101101-hello-games-neighbor.json](./101101-hello-games-neighbor.json) |
 | Hello Girl | 257343 | [257343-hello-girl.json](./257343-hello-girl.json) |
