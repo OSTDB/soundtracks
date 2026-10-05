@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarossa Remake | 255664 | [255664-barbarossa-remake.json](./255664-barbarossa-remake.json) |
 | Barbarous 2: Tavern Wars | 192944 | [192944-barbarous-2-tavern-wars.json](./192944-barbarous-2-tavern-wars.json) |
 | Barbarous: Survivor's Quest | 401104 | [401104-barbarous-survivors-quest.json](./401104-barbarous-survivors-quest.json) |
+| Barbarous: Tavern of Emyr | 126471 | [126471-barbarous-tavern-of-emyr.json](./126471-barbarous-tavern-of-emyr.json) |
 | BarBarQ | 82149 | [82149-barbarq.json](./82149-barbarq.json) |
 | Barbearian | 90157 | [90157-barbearian.json](./90157-barbearian.json) |
 | Barbecue | 408222 | [408222-barbecue.json](./408222-barbecue.json) |
@@ -2259,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Support | 197261 | [197261-battle-support.json](./197261-battle-support.json) |
 | Battle Support | 336727 | [336727-battle-support.json](./336727-battle-support.json) |
 | Battle Supremacy | 26895 | [26895-battle-supremacy.json](./26895-battle-supremacy.json) |
+| Battle Survive Hentai | 126399 | [126399-battle-survive-hentai.json](./126399-battle-survive-hentai.json) |
 | Battle Sweeper | 139250 | [139250-battle-sweeper.json](./139250-battle-sweeper.json) |
 | Battle Talent | 163454 | [163454-battle-talent.json](./163454-battle-talent.json) |
 | Battle Talent: Multiplayer Update | 306952 | [306952-battle-talent-multiplayer-update.json](./306952-battle-talent-multiplayer-update.json) |
