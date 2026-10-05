@@ -1256,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RayForce | 22349 | [22349-rayforce.json](./22349-rayforce.json) |
 | Raygraze | 196323 | [196323-raygraze.json](./196323-raygraze.json) |
 | RaylaX | 97848 | [97848-raylax.json](./97848-raylax.json) |
+| Rayman | 165558 | [165558-rayman.json](./165558-rayman.json) |
 | Rayman | 193322 | [193322-rayman.json](./193322-rayman.json) |
 | Rayman | 193324 | [193324-rayman.json](./193324-rayman.json) |
 | Rayman | 1963 | [1963-rayman.json](./1963-rayman.json) |
@@ -5117,6 +5118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockford: The Arcade Game | 44082 | [44082-rockford-the-arcade-game.json](./44082-rockford-the-arcade-game.json) |
 | Rockford: The Arcade Game + Crystal Raider | 98225 | [98225-rockford-the-arcade-game-crystal-raider.json](./98225-rockford-the-arcade-game-crystal-raider.json) |
 | Rockford: The Arcade Game + Rockman | 98224 | [98224-rockford-the-arcade-game-rockman.json](./98224-rockford-the-arcade-game-rockman.json) |
+| RockFree | 165487 | [165487-rockfree.json](./165487-rockfree.json) |
 | Rockin' Rabbit | 317444 | [317444-rockin-rabbit.json](./317444-rockin-rabbit.json) |
 | Rockin'Space | 178633 | [178633-rockinspace.json](./178633-rockinspace.json) |
 | Rocking Legend | 132357 | [132357-rocking-legend.json](./132357-rocking-legend.json) |
