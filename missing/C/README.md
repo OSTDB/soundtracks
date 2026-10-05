@@ -2084,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Simulator 2 | 306469 | [306469-cat-simulator-2.json](./306469-cat-simulator-2.json) |
 | Cat Simulator 2015 | 87780 | [87780-cat-simulator-2015.json](./87780-cat-simulator-2015.json) |
 | Cat Simulator: Animals on Farm | 168135 | [168135-cat-simulator-animals-on-farm.json](./168135-cat-simulator-animals-on-farm.json) |
+| Cat Simulator: Meow | 152473 | [152473-cat-simulator-meow.json](./152473-cat-simulator-meow.json) |
 | Cat Slaps | 332976 | [332976-cat-slaps.json](./332976-cat-slaps.json) |
 | Cat Slide Tiles | 152774 | [152774-cat-slide-tiles.json](./152774-cat-slide-tiles.json) |
 | Cat Sokoban | 135868 | [135868-cat-sokoban.json](./135868-cat-sokoban.json) |
@@ -4660,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus of Clowns | 342085 | [342085-circus-of-clowns.json](./342085-circus-of-clowns.json) |
 | Circut's Edge | 277032 | [277032-circuts-edge.json](./277032-circuts-edge.json) |
 | Cirno! Lifts a Boulder | 386967 | [386967-cirno-lifts-a-boulder.json](./386967-cirno-lifts-a-boulder.json) |
+| Cirno's Battle of Faith | 152500 | [152500-cirnos-battle-of-faith.json](./152500-cirnos-battle-of-faith.json) |
 | Cirno's Lost Chirumiru | 264097 | [264097-cirnos-lost-chirumiru.json](./264097-cirnos-lost-chirumiru.json) |
 | Cirno's Not So Ice Day | 362896 | [362896-cirnos-not-so-ice-day.json](./362896-cirnos-not-so-ice-day.json) |
 | Cirno's Perfect Punchout!! | 219035 | [219035-cirnos-perfect-punchout.json](./219035-cirnos-perfect-punchout.json) |
@@ -9815,6 +9817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Math | 257428 | [257428-crystal-math.json](./257428-crystal-math.json) |
 | Crystal of Atlantis | 247981 | [247981-crystal-of-atlantis.json](./247981-crystal-of-atlantis.json) |
 | Crystal Path | 107821 | [107821-crystal-path.json](./107821-crystal-path.json) |
+| Crystal Plague | 152454 | [152454-crystal-plague.json](./152454-crystal-plague.json) |
 | Crystal Project: Mod Pack 1 - Quality Fun | 300934 | [300934-crystal-project-mod-pack-1-quality-fun.json](./300934-crystal-project-mod-pack-1-quality-fun.json) |
 | Crystal Project: Mod Pack 2 - New Challenges | 314886 | [314886-crystal-project-mod-pack-2-new-challenges.json](./314886-crystal-project-mod-pack-2-new-challenges.json) |
 | Crystal Quest Classic | 32182 | [32182-crystal-quest-classic.json](./32182-crystal-quest-classic.json) |
@@ -10727,6 +10730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberemo 2007 | 380620 | [380620-cyberemo-2007.json](./380620-cyberemo-2007.json) |
 | Cyberference | 244490 | [244490-cyberference.json](./244490-cyberference.json) |
 | Cyberfield | 258614 | [258614-cyberfield.json](./258614-cyberfield.json) |
+| Cyberflight | 152497 | [152497-cyberflight.json](./152497-cyberflight.json) |
 | Cyberflow | 61679 | [61679-cyberflow.json](./61679-cyberflow.json) |
 | Cybergeist | 156537 | [156537-cybergeist.json](./156537-cybergeist.json) |
 | CyberGladiators | 50149 | [50149-cybergladiators.json](./50149-cybergladiators.json) |
