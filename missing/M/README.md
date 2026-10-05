@@ -1664,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manly Men Fighting | 58796 | [58796-manly-men-fighting.json](./58796-manly-men-fighting.json) |
 | MannaRites | 140566 | [140566-mannarites.json](./140566-mannarites.json) |
 | MannaRites Gold | 265328 | [265328-mannarites-gold.json](./265328-mannarites-gold.json) |
+| MannaWars | 166045 | [166045-mannawars.json](./166045-mannawars.json) |
 | ManneKin: Hessler Storage | 215611 | [215611-mannekin-hessler-storage.json](./215611-mannekin-hessler-storage.json) |
 | Mannequin Academy | 183037 | [183037-mannequin-academy.json](./183037-mannequin-academy.json) |
 | Mannequin House | 171535 | [171535-mannequin-house.json](./171535-mannequin-house.json) |
