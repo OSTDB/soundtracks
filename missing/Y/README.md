@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yacht Simulator VR | 90853 | [90853-yacht-simulator-vr.json](./90853-yacht-simulator-vr.json) |
 | Yachu Dice | 151017 | [151017-yachu-dice.json](./151017-yachu-dice.json) |
 | Yadamon: Wonderland Dream | 37762 | [37762-yadamon-wonderland-dream.json](./37762-yadamon-wonderland-dream.json) |
+| Yaengard | 155676 | [155676-yaengard.json](./155676-yaengard.json) |
 | Yafti | 93760 | [93760-yafti.json](./93760-yafti.json) |
 | Yag | 114196 | [114196-yag.json](./114196-yag.json) |
 | Yaga: Roots of Evil | 186902 | [186902-yaga-roots-of-evil.json](./186902-yaga-roots-of-evil.json) |
@@ -704,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yōulì: Yasashii Lìxiǎn | 394186 | [394186-youli-yasashii-lixian.json](./394186-youli-yasashii-lixian.json) |
 | Youma Kourin | 219152 | [219152-youma-kourin.json](./219152-youma-kourin.json) |
 | Youmais | 64341 | [64341-youmais.json](./64341-youmais.json) |
+| Youmu Konpaku & Dungeon of Lewd Creatures | 155460 | [155460-youmu-konpaku-and-dungeon-of-lewd-creatures.json](./155460-youmu-konpaku-and-dungeon-of-lewd-creatures.json) |
 | Youmu's Cube Adventure | 365153 | [365153-youmus-cube-adventure.json](./365153-youmus-cube-adventure.json) |
 | Young Bird Endless Flight | 333526 | [333526-young-bird-endless-flight.json](./333526-young-bird-endless-flight.json) |
 | Young Detective | 196304 | [196304-young-detective.json](./196304-young-detective.json) |
