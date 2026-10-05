@@ -3000,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Becca | 265104 | [265104-becca.json](./265104-becca.json) |
 | Beckett | 89504 | [89504-beckett.json](./89504-beckett.json) |
 | Beckoned | 159847 | [159847-beckoned.json](./159847-beckoned.json) |
+| Becloudead | 169806 | [169806-becloudead.json](./169806-becloudead.json) |
 | Become a Great Artist in Just 10 Seconds | 139817 | [139817-become-a-great-artist-in-just-10-seconds.json](./139817-become-a-great-artist-in-just-10-seconds.json) |
 | Become a pig | 205244 | [205244-become-a-pig.json](./205244-become-a-pig.json) |
 | Become Barista! | 349520 | [349520-become-barista.json](./349520-become-barista.json) |
@@ -4042,6 +4043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikini Girls | 169418 | [169418-bikini-girls.json](./169418-bikini-girls.json) |
 | Bikini Hunter Attack on Bikini Army | 297807 | [297807-bikini-hunter-attack-on-bikini-army.json](./297807-bikini-hunter-attack-on-bikini-army.json) |
 | Bikini Island | 385819 | [385819-bikini-island.json](./385819-bikini-island.json) |
+| Bikini Island Challenge | 169817 | [169817-bikini-island-challenge.json](./169817-bikini-island-challenge.json) |
 | Bikini Karate Babes | 51236 | [51236-bikini-karate-babes.json](./51236-bikini-karate-babes.json) |
 | Bikini Tits | 192765 | [192765-bikini-tits.json](./192765-bikini-tits.json) |
 | Bikkuri Pachinko: Ashita no Joe Kyoraku Collection Vol. 1 | 65561 | [65561-bikkuri-pachinko-ashita-no-joe-kyoraku-collection-vol-1.json](./65561-bikkuri-pachinko-ashita-no-joe-kyoraku-collection-vol-1.json) |
