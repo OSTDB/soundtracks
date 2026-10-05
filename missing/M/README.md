@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnet Effect | 214010 | [214010-magnet-effect.json](./214010-magnet-effect.json) |
 | Magnet Mania 3D | 262580 | [262580-magnet-mania-3d.json](./262580-magnet-mania-3d.json) |
 | Magneta Box | 190007 | [190007-magneta-box.json](./190007-magneta-box.json) |
+| Magnetic | 136214 | [136214-magnetic.json](./136214-magnetic.json) |
 | Magnetic Billiards | 47276 | [47276-magnetic-billiards.json](./47276-magnetic-billiards.json) |
 | Magnetic Billiards: Blueprint | 22314 | [22314-magnetic-billiards-blueprint.json](./22314-magnetic-billiards-blueprint.json) |
 | Magnetic By Nature | 17322 | [17322-magnetic-by-nature.json](./17322-magnetic-by-nature.json) |
@@ -3298,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Football | 304344 | [304344-maximum-football.json](./304344-maximum-football.json) |
 | Maximum Football | 66690 | [66690-maximum-football.json](./66690-maximum-football.json) |
 | Maximum Football 2019 | 124703 | [124703-maximum-football-2019.json](./124703-maximum-football-2019.json) |
+| Maximum Football 2019: Championship Edition | 136216 | [136216-maximum-football-2019-championship-edition.json](./136216-maximum-football-2019-championship-edition.json) |
 | Maximum Football 2020 | 139233 | [139233-maximum-football-2020.json](./139233-maximum-football-2020.json) |
 | Maximum Football: Legend Edition | 331536 | [331536-maximum-football-legend-edition.json](./331536-maximum-football-legend-edition.json) |
 | Maximum Force | 36573 | [36573-maximum-force.json](./36573-maximum-force.json) |
@@ -5186,6 +5188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid Touch | 12212 | [12212-metal-gear-solid-touch.json](./12212-metal-gear-solid-touch.json) |
 | Metal Gear Solid V: The Definitive Experience | 25637 | [25637-metal-gear-solid-v-the-definitive-experience.json](./25637-metal-gear-solid-v-the-definitive-experience.json) |
 | Metal Gear Solid V: The Definitive Subsistence Update | 377209 | [377209-metal-gear-solid-v-the-definitive-subsistence-update.json](./377209-metal-gear-solid-v-the-definitive-subsistence-update.json) |
+| Metal Gear Solid V: The Phantom Pain - Day One Edition | 136221 | [136221-metal-gear-solid-v-the-phantom-pain-day-one-edition.json](./136221-metal-gear-solid-v-the-phantom-pain-day-one-edition.json) |
 | Metal Gear Solid V: The Phantom Pain - Special Edition | 298021 | [298021-metal-gear-solid-v-the-phantom-pain-special-edition.json](./298021-metal-gear-solid-v-the-phantom-pain-special-edition.json) |
 | Metal Gear Solid: Fight of the Metal Gears | 331973 | [331973-metal-gear-solid-fight-of-the-metal-gears.json](./331973-metal-gear-solid-fight-of-the-metal-gears.json) |
 | Metal Gear Solid: Lunacy of Legion | 351216 | [351216-metal-gear-solid-lunacy-of-legion.json](./351216-metal-gear-solid-lunacy-of-legion.json) |
@@ -7599,6 +7602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 18: Digital Deluxe Edition | 118909 | [118909-mlb-the-show-18-digital-deluxe-edition.json](./118909-mlb-the-show-18-digital-deluxe-edition.json) |
 | MLB The Show 19: MVP Edition | 119070 | [119070-mlb-the-show-19-mvp-edition.json](./119070-mlb-the-show-19-mvp-edition.json) |
 | MLB The Show 20 | 125013 | [125013-mlb-the-show-20.json](./125013-mlb-the-show-20.json) |
+| MLB The Show 20: MVP Edition | 136218 | [136218-mlb-the-show-20-mvp-edition.json](./136218-mlb-the-show-20-mvp-edition.json) |
 | MLB The Show 21 | 143260 | [143260-mlb-the-show-21.json](./143260-mlb-the-show-21.json) |
 | MLB The Show 22: MVP Edition | 196516 | [196516-mlb-the-show-22-mvp-edition.json](./196516-mlb-the-show-22-mvp-edition.json) |
 | MLB The Show 24: Digital Deluxe Edition | 286200 | [286200-mlb-the-show-24-digital-deluxe-edition.json](./286200-mlb-the-show-24-digital-deluxe-edition.json) |
@@ -9182,6 +9186,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: T-1000 | 312340 | [312340-mortal-kombat-1-t-1000.json](./312340-mortal-kombat-1-t-1000.json) |
 | Mortal Kombat 1: Takahashi Takeda | 266223 | [266223-mortal-kombat-1-takahashi-takeda.json](./266223-mortal-kombat-1-takahashi-takeda.json) |
 | Mortal Kombat 1+2+3 | 154416 | [154416-mortal-kombat-1-2-3.json](./154416-mortal-kombat-1-2-3.json) |
+| Mortal Kombat 11 + The Joker DLC | 136213 | [136213-mortal-kombat-11-the-joker-dlc.json](./136213-mortal-kombat-11-the-joker-dlc.json) |
+| Mortal Kombat 11: Aftermath + Kombat Pack Bundle | 136198 | [136198-mortal-kombat-11-aftermath-kombat-pack-bundle.json](./136198-mortal-kombat-11-aftermath-kombat-pack-bundle.json) |
 | Mortal Kombat 11: Aftermath Kollection | 133955 | [133955-mortal-kombat-11-aftermath-kollection.json](./133955-mortal-kombat-11-aftermath-kollection.json) |
 | Mortal Kombat 11: DC Elseworlds Skin Pack | 298557 | [298557-mortal-kombat-11-dc-elseworlds-skin-pack.json](./298557-mortal-kombat-11-dc-elseworlds-skin-pack.json) |
 | Mortal Kombat 11: Double Feature Skin Pack | 305856 | [305856-mortal-kombat-11-double-feature-skin-pack.json](./305856-mortal-kombat-11-double-feature-skin-pack.json) |
