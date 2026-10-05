@@ -4478,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Time | 171602 | [171602-lost-in-time.json](./171602-lost-in-time.json) |
 | Lost in Time: Parts 1 & 2 | 80536 | [80536-lost-in-time-parts-1-and-2.json](./80536-lost-in-time-parts-1-and-2.json) |
 | Lost in Time: The Clockwork Tower | 65186 | [65186-lost-in-time-the-clockwork-tower.json](./65186-lost-in-time-the-clockwork-tower.json) |
+| Lost in Transit | 123983 | [123983-lost-in-transit.json](./123983-lost-in-transit.json) |
 | Lost in Transit | 409724 | [409724-lost-in-transit.json](./409724-lost-in-transit.json) |
 | Lost In Transit | 375867 | [375867-lost-in-transit.json](./375867-lost-in-transit.json) |
 | Lost In Winter | 258172 | [258172-lost-in-winter.json](./258172-lost-in-winter.json) |
@@ -5100,6 +5101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Luke: Wanted! | 49331 | [49331-lucky-luke-wanted.json](./49331-lucky-luke-wanted.json) |
 | Lucky Luke: Western Fever | 43886 | [43886-lucky-luke-western-fever.json](./43886-lucky-luke-western-fever.json) |
 | Lucky Luna | 204452 | [204452-lucky-luna.json](./204452-lucky-luna.json) |
+| Lucky Me Lucky You | 123996 | [123996-lucky-me-lucky-you.json](./123996-lucky-me-lucky-you.json) |
 | Lucky Morolian | 259827 | [259827-lucky-morolian.json](./259827-lucky-morolian.json) |
 | Lucky Night: Poker Games | 131357 | [131357-lucky-night-poker-games.json](./131357-lucky-night-poker-games.json) |
 | Lucky Night: Texas Hold'em VR | 51503 | [51503-lucky-night-texas-holdem-vr.json](./51503-lucky-night-texas-holdem-vr.json) |
