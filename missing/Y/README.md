@@ -994,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuldigard's Fate | 133463 | [133463-yuldigards-fate.json](./133463-yuldigards-fate.json) |
 | Yule Sock | 178610 | [178610-yule-sock.json](./178610-yule-sock.json) |
 | Yuletide Legends: Frozen Hearts | 415949 | [415949-yuletide-legends-frozen-hearts.json](./415949-yuletide-legends-frozen-hearts.json) |
+| Yuletide Legends: Who Framed Santa Claus | 127738 | [127738-yuletide-legends-who-framed-santa-claus.json](./127738-yuletide-legends-who-framed-santa-claus.json) |
 | Yuletide Regicide | 381113 | [381113-yuletide-regicide.json](./381113-yuletide-regicide.json) |
 | Yulgang 2 | 23593 | [23593-yulgang-2.json](./23593-yulgang-2.json) |
 | Yulgang Mobile | 174698 | [174698-yulgang-mobile.json](./174698-yulgang-mobile.json) |
