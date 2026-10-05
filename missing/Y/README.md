@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yupitergrad | 142438 | [142438-yupitergrad.json](./142438-yupitergrad.json) |
 | Yupitergrad 2: The Lost Station | 202106 | [202106-yupitergrad-2-the-lost-station.json](./202106-yupitergrad-2-the-lost-station.json) |
 | Yuppie Psycho | 26565 | [26565-yuppie-psycho.json](./26565-yuppie-psycho.json) |
+| Yuppy's Adventure | 148694 | [148694-yuppys-adventure.json](./148694-yuppys-adventure.json) |
 | Yuque | 166571 | [166571-yuque.json](./166571-yuque.json) |
 | Yura | 382326 | [382326-yura.json](./382326-yura.json) |
 | YuraYura!: Tidying up the Tilting Tower! | 180778 | [180778-yurayura-tidying-up-the-tilting-tower.json](./180778-yurayura-tidying-up-the-tilting-tower.json) |
