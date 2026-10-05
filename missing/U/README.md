@@ -1284,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unistar | 178508 | [178508-unistar.json](./178508-unistar.json) |
 | Unit 13 | 19251 | [19251-unit-13.json](./19251-unit-13.json) |
 | Unit 4: Clash of Agents | 170561 | [170561-unit-4-clash-of-agents.json](./170561-unit-4-clash-of-agents.json) |
+| Unit 404 | 142747 | [142747-unit-404.json](./142747-unit-404.json) |
 | Unit 42: Adrift in Space | 395043 | [395043-unit-42-adrift-in-space.json](./395043-unit-42-adrift-in-space.json) |
 | Unit Zero: Operation Black Veil | 371968 | [371968-unit-zero-operation-black-veil.json](./371968-unit-zero-operation-black-veil.json) |
 | Unite | 168631 | [168631-unite.json](./168631-unite.json) |
