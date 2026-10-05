@@ -9333,6 +9333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moth-Kubit Grimes | 202777 | [202777-moth-kubit-grimes.json](./202777-moth-kubit-grimes.json) |
 | Mothballs | 179701 | [179701-mothballs.json](./179701-mothballs.json) |
 | Mothdude | 184126 | [184126-mothdude.json](./184126-mothdude.json) |
+| Mother | 150274 | [150274-mother.json](./150274-mother.json) |
 | Mother 1+2 | 78585 | [78585-mother-1-2.json](./78585-mother-1-2.json) |
 | Mother 2: Perfect Edition | 305370 | [305370-mother-2-perfect-edition.json](./305370-mother-2-perfect-edition.json) |
 | Mother 3 | 3683 | [3683-mother-3.json](./3683-mother-3.json) |
@@ -10530,6 +10531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muv-Luv VR | 33162 | [33162-muv-luv-vr.json](./33162-muv-luv-vr.json) |
 | Muzan: Chiniku no Ikenie | 67230 | [67230-muzan-chiniku-no-ikenie.json](./67230-muzan-chiniku-no-ikenie.json) |
 | Muzzle Velocity | 70947 | [70947-muzzle-velocity.json](./70947-muzzle-velocity.json) |
+| MV Mazes | 150272 | [150272-mv-mazes.json](./150272-mv-mazes.json) |
 | MVP 06: NCAA Baseball | 5937 | [5937-mvp-06-ncaa-baseball.json](./5937-mvp-06-ncaa-baseball.json) |
 | MVP Baseball | 71443 | [71443-mvp-baseball.json](./71443-mvp-baseball.json) |
 | MVP Baseball 2004 | 10627 | [10627-mvp-baseball-2004.json](./10627-mvp-baseball-2004.json) |
