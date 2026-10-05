@@ -2437,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightly Trash | 236238 | [236238-nightly-trash.json](./236238-nightly-trash.json) |
 | NightmAR Protocol | 158074 | [158074-nightmar-protocol.json](./158074-nightmar-protocol.json) |
 | Nightmare | 118819 | [118819-nightmare.json](./118819-nightmare.json) |
+| Nightmare | 166042 | [166042-nightmare.json](./166042-nightmare.json) |
 | Nightmare | 192775 | [192775-nightmare.json](./192775-nightmare.json) |
 | Nightmare | 216987 | [216987-nightmare.json](./216987-nightmare.json) |
 | Nightmare | 252735 | [252735-nightmare.json](./252735-nightmare.json) |
