@@ -1605,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FastFWD | 183388 | [183388-fastfwd.json](./183388-fastfwd.json) |
 | FastGo Running | 104021 | [104021-fastgo-running.json](./104021-fastgo-running.json) |
 | Fasthand | 360734 | [360734-fasthand.json](./360734-fasthand.json) |
+| Fastidious | 130142 | [130142-fastidious.json](./130142-fastidious.json) |
 | Fastidious | 381013 | [381013-fastidious.json](./381013-fastidious.json) |
 | Fastigium: Dead End | 29089 | [29089-fastigium-dead-end.json](./29089-fastigium-dead-end.json) |
 | Fastival | 302123 | [302123-fastival.json](./302123-fastival.json) |
@@ -5422,6 +5423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Ones | 360008 | [360008-forsaken-ones.json](./360008-forsaken-ones.json) |
 | Forsaken Overlook | 256823 | [256823-forsaken-overlook.json](./256823-forsaken-overlook.json) |
 | Forsaken Portals | 164258 | [164258-forsaken-portals.json](./164258-forsaken-portals.json) |
+| Forsaken Realm | 130124 | [130124-forsaken-realm.json](./130124-forsaken-realm.json) |
 | Forsaken Shadows | 306419 | [306419-forsaken-shadows.json](./306419-forsaken-shadows.json) |
 | Forsaken Struggle | 372139 | [372139-forsaken-struggle.json](./372139-forsaken-struggle.json) |
 | Forsaken Universe | 166771 | [166771-forsaken-universe.json](./166771-forsaken-universe.json) |
@@ -5940,6 +5942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragrant Story and Papaya's Path | 315832 | [315832-fragrant-story-and-papayas-path.json](./315832-fragrant-story-and-papayas-path.json) |
 | Fragrant Story: Papaya's Path | 280862 | [280862-fragrant-story-papayas-path.json](./280862-fragrant-story-papayas-path.json) |
 | Fragroom: Defenders | 190094 | [190094-fragroom-defenders.json](./190094-fragroom-defenders.json) |
+| Fragsurf | 130123 | [130123-fragsurf.json](./130123-fragsurf.json) |
 | Frail Faces | 154586 | [154586-frail-faces.json](./154586-frail-faces.json) |
 | Frak | 257472 | [257472-frak.json](./257472-frak.json) |
 | Frak | 350484 | [350484-frak.json](./350484-frak.json) |
@@ -6163,6 +6166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Fighter | 202852 | [202852-freedom-fighter.json](./202852-freedom-fighter.json) |
 | Freedom Fighter | 77299 | [77299-freedom-fighter.json](./77299-freedom-fighter.json) |
 | Freedom Fighters | 719 | [719-freedom-fighters.json](./719-freedom-fighters.json) |
+| Freedom Isn't Free | 130119 | [130119-freedom-isnt-free.json](./130119-freedom-isnt-free.json) |
 | Freedom Maker | 327825 | [327825-freedom-maker.json](./327825-freedom-maker.json) |
 | Freedom Planet | 7116 | [7116-freedom-planet.json](./7116-freedom-planet.json) |
 | Freedom Tower | 260334 | [260334-freedom-tower.json](./260334-freedom-tower.json) |
