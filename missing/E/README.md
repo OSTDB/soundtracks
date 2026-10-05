@@ -2398,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epido: Second Move | 127946 | [127946-epido-second-move.json](./127946-epido-second-move.json) |
 | Epigenesis | 16576 | [16576-epigenesis.json](./16576-epigenesis.json) |
 | Epigraph | 287857 | [287857-epigraph.json](./287857-epigraph.json) |
+| Epikos | 124585 | [124585-epikos.json](./124585-epikos.json) |
 | Epimutation | 338835 | [338835-epimutation.json](./338835-epimutation.json) |
 | Epiphany | 181201 | [181201-epiphany.json](./181201-epiphany.json) |
 | Epiphany in Spaaace! | 66356 | [66356-epiphany-in-spaaace.json](./66356-epiphany-in-spaaace.json) |
@@ -3560,6 +3561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlife | 297506 | [297506-everlife.json](./297506-everlife.json) |
 | Everlife: Chapter 2 | 195736 | [195736-everlife-chapter-2.json](./195736-everlife-chapter-2.json) |
 | Everlight | 184987 | [184987-everlight.json](./184987-everlight.json) |
+| Everlong | 124650 | [124650-everlong.json](./124650-everlong.json) |
 | Everlong Swansong | 257086 | [257086-everlong-swansong.json](./257086-everlong-swansong.json) |
 | Everlost | 397695 | [397695-everlost.json](./397695-everlost.json) |
 | EverMatch | 237672 | [237672-evermatch.json](./237672-evermatch.json) |
