@@ -1538,6 +1538,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
 | 8AM | 288739 | [288739-8am.json](./288739-8am.json) |
 | 8bit Doves | 262348 | [262348-8bit-doves.json](./262348-8bit-doves.json) |
+| 8Bit Fiesta: Game Pack 1 | 167670 | [167670-8bit-fiesta-game-pack-1.json](./167670-8bit-fiesta-game-pack-1.json) |
+| 8Bit Fiesta: Game Pack 2 | 167671 | [167671-8bit-fiesta-game-pack-2.json](./167671-8bit-fiesta-game-pack-2.json) |
 | 8bit Killer | 65522 | [65522-8bit-killer.json](./65522-8bit-killer.json) |
 | 8Bit Music Power | 150566 | [150566-8bit-music-power.json](./150566-8bit-music-power.json) |
 | 8Bit Music Power Encore | 206584 | [206584-8bit-music-power-encore.json](./206584-8bit-music-power-encore.json) |
