@@ -5158,6 +5158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook Champ | 67249 | [67249-hook-champ.json](./67249-hook-champ.json) |
 | Hook Line and Sniper | 319365 | [319365-hook-line-and-sniper.json](./319365-hook-line-and-sniper.json) |
 | Hook Master | 152939 | [152939-hook-master.json](./152939-hook-master.json) |
+| Hook Only | 144607 | [144607-hook-only.json](./144607-hook-only.json) |
 | Hook Up: The Game | 223037 | [223037-hook-up-the-game.json](./223037-hook-up-the-game.json) |
 | Hook Worlds | 91941 | [91941-hook-worlds.json](./91941-hook-worlds.json) |
 | Hook-a-Duck VR | 312148 | [312148-hook-a-duck-vr.json](./312148-hook-a-duck-vr.json) |
