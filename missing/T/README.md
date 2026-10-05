@@ -2577,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrawars: NY Invasion | 70467 | [70467-terrawars-ny-invasion.json](./70467-terrawars-ny-invasion.json) |
 | Terre Scramble! | 260427 | [260427-terre-scramble.json](./260427-terre-scramble.json) |
 | Terrela | 27672 | [27672-terrela.json](./27672-terrela.json) |
+| Terrene | 133845 | [133845-terrene.json](./133845-terrene.json) |
 | Terrene: An Evidence of Life Game | 169429 | [169429-terrene-an-evidence-of-life-game.json](./169429-terrene-an-evidence-of-life-game.json) |
 | Terres: Supporter Pack | 323240 | [323240-terres-supporter-pack.json](./323240-terres-supporter-pack.json) |
 | Terrestial | 250929 | [250929-terrestial.json](./250929-terrestial.json) |
@@ -8313,6 +8314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Queen's Footsteps | 304181 | [304181-the-queens-footsteps.json](./304181-the-queens-footsteps.json) |
 | The Queen's Gambit Chess | 204451 | [204451-the-queens-gambit-chess.json](./204451-the-queens-gambit-chess.json) |
 | The Queens Gondola | 404841 | [404841-the-queens-gondola.json](./404841-the-queens-gondola.json) |
+| The Queens Number | 133750 | [133750-the-queens-number.json](./133750-the-queens-number.json) |
 | The Quest | 23962 | [23962-the-quest.json](./23962-the-quest.json) |
 | The Quest - Hero of Lukomorye III | 105770 | [105770-the-quest-hero-of-lukomorye-iii.json](./105770-the-quest-hero-of-lukomorye-iii.json) |
 | The Quest Classic: Asteroids | 205603 | [205603-the-quest-classic-asteroids.json](./205603-the-quest-classic-asteroids.json) |
@@ -8554,6 +8556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rising of the Rose Ocelot | 82000 | [82000-the-rising-of-the-rose-ocelot.json](./82000-the-rising-of-the-rose-ocelot.json) |
 | The Rite of Ammon | 177306 | [177306-the-rite-of-ammon.json](./177306-the-rite-of-ammon.json) |
 | The Ritual | 118327 | [118327-the-ritual.json](./118327-the-ritual.json) |
+| The Ritual | 133852 | [133852-the-ritual.json](./133852-the-ritual.json) |
 | The Ritual | 184031 | [184031-the-ritual.json](./184031-the-ritual.json) |
 | The Ritual on Weylyn Island | 26531 | [26531-the-ritual-on-weylyn-island.json](./26531-the-ritual-on-weylyn-island.json) |
 | The River | 348932 | [348932-the-river.json](./348932-the-river.json) |
@@ -12793,6 +12796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeWarp | 240909 | [240909-timewarp.json](./240909-timewarp.json) |
 | TimeWatch | 130909 | [130909-timewatch.json](./130909-timewatch.json) |
 | Timewreck Tales | 173037 | [173037-timewreck-tales.json](./173037-timewreck-tales.json) |
+| Timez Attack | 133752 | [133752-timez-attack.json](./133752-timez-attack.json) |
 | TimeZero | 58813 | [58813-timezero.json](./58813-timezero.json) |
 | Timing Hero | 112232 | [112232-timing-hero.json](./112232-timing-hero.json) |
 | Timing X | 402370 | [402370-timing-x.json](./402370-timing-x.json) |
@@ -14776,6 +14780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2014 | 80876 | [80876-tour-de-france-2014.json](./80876-tour-de-france-2014.json) |
 | Tour de France 2015 | 60198 | [60198-tour-de-france-2015.json](./60198-tour-de-france-2015.json) |
 | Tour de France 2018 | 188594 | [188594-tour-de-france-2018.json](./188594-tour-de-france-2018.json) |
+| Tour de France 2020 | 133775 | [133775-tour-de-france-2020.json](./133775-tour-de-france-2020.json) |
 | Tour de France 2024 | 288855 | [288855-tour-de-france-2024.json](./288855-tour-de-france-2024.json) |
 | Tour de France 2025 | 336720 | [336720-tour-de-france-2025.json](./336720-tour-de-france-2025.json) |
 | Tour of Neverland | 146886 | [146886-tour-of-neverland.json](./146886-tour-of-neverland.json) |
