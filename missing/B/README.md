@@ -8028,6 +8028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakers Revenge | 39558 | [39558-breakers-revenge.json](./39558-breakers-revenge.json) |
 | Breakfall: Nuclear Winter | 342616 | [342616-breakfall-nuclear-winter.json](./342616-breakfall-nuclear-winter.json) |
 | Breakfast at Twilight | 271771 | [271771-breakfast-at-twilight.json](./271771-breakfast-at-twilight.json) |
+| Breakfast Bar Tycoon | 144578 | [144578-breakfast-bar-tycoon.json](./144578-breakfast-bar-tycoon.json) |
 | Breakfast Bar Tycoon + Expansion pack | 238015 | [238015-breakfast-bar-tycoon-expansion-pack.json](./238015-breakfast-bar-tycoon-expansion-pack.json) |
 | Breakfast Bar Tycoon: Complete Edition | 199897 | [199897-breakfast-bar-tycoon-complete-edition.json](./199897-breakfast-bar-tycoon-complete-edition.json) |
 | Breakfast Bar Tycoon: Definitive Edition | 333719 | [333719-breakfast-bar-tycoon-definitive-edition.json](./333719-breakfast-bar-tycoon-definitive-edition.json) |
