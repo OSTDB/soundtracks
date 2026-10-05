@@ -5248,6 +5248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopfall | 370126 | [370126-hopfall.json](./370126-hopfall.json) |
 | Hoping Forest | 236896 | [236896-hoping-forest.json](./236896-hoping-forest.json) |
 | Hopkins FBI | 93389 | [93389-hopkins-fbi.json](./93389-hopkins-fbi.json) |
+| Hoples | 152504 | [152504-hoples.json](./152504-hoples.json) |
 | Hoplichess | 156013 | [156013-hoplichess.json](./156013-hoplichess.json) |
 | Hopmon | 91546 | [91546-hopmon.json](./91546-hopmon.json) |
 | Hoppa | 129574 | [129574-hoppa.json](./129574-hoppa.json) |
@@ -5351,6 +5352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Massage Clinic | 411063 | [411063-horny-massage-clinic.json](./411063-horny-massage-clinic.json) |
 | Horny Punishment | 212182 | [212182-horny-punishment.json](./212182-horny-punishment.json) |
 | Horny Recruiter | 368046 | [368046-horny-recruiter.json](./368046-horny-recruiter.json) |
+| Horny Sekai | 152494 | [152494-horny-sekai.json](./152494-horny-sekai.json) |
 | Horny Spell | 226189 | [226189-horny-spell.json](./226189-horny-spell.json) |
 | Horny Spy: Secret Mission | 262001 | [262001-horny-spy-secret-mission.json](./262001-horny-spy-secret-mission.json) |
 | Horny Suika: Wet Watermelon | 296614 | [296614-horny-suika-wet-watermelon.json](./296614-horny-suika-wet-watermelon.json) |
@@ -6717,6 +6719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Wars: The Mega Firestorm | 109046 | [109046-hyper-wars-the-mega-firestorm.json](./109046-hyper-wars-the-mega-firestorm.json) |
 | Hyper-Galactic Spiders from Mars | 109180 | [109180-hyper-galactic-spiders-from-mars.json](./109180-hyper-galactic-spiders-from-mars.json) |
 | Hyper! Danganronpa H20: Abandon All Hope | 267987 | [267987-hyper-danganronpa-h20-abandon-all-hope.json](./267987-hyper-danganronpa-h20-abandon-all-hope.json) |
+| Hyperaction | 152478 | [152478-hyperaction.json](./152478-hyperaction.json) |
 | Hyperballoid Deluxe: Survival Pack | 130846 | [130846-hyperballoid-deluxe-survival-pack.json](./130846-hyperballoid-deluxe-survival-pack.json) |
 | Hyperbaroque | 186759 | [186759-hyperbaroque.json](./186759-hyperbaroque.json) |
 | Hyperbeat | 295876 | [295876-hyperbeat.json](./295876-hyperbeat.json) |
