@@ -3954,6 +3954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Warfare: Sci-Fi FPS | 100366 | [100366-destiny-warfare-sci-fi-fps.json](./100366-destiny-warfare-sci-fi-fps.json) |
 | Destiny: Rising | 319758 | [319758-destiny-rising.json](./319758-destiny-rising.json) |
 | Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
+| Destiny: The Taken King - Digital Collector's Edition | 118881 | [118881-destiny-the-taken-king-digital-collectors-edition.json](./118881-destiny-the-taken-king-digital-collectors-edition.json) |
 | Destiny: World Domination From Stone Age to Space Age | 51363 | [51363-destiny-world-domination-from-stone-age-to-space-age.json](./51363-destiny-world-domination-from-stone-age-to-space-age.json) |
 | Destiny's Divide | 160170 | [160170-destinys-divide.json](./160170-destinys-divide.json) |
 | Destiny's Plan | 182355 | [182355-destinys-plan.json](./182355-destinys-plan.json) |
@@ -4096,6 +4097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Solitaire: Butler Story 3 | 258947 | [258947-detective-solitaire-butler-story-3.json](./258947-detective-solitaire-butler-story-3.json) |
 | Detective Solitaire: The Ghost Agency | 168693 | [168693-detective-solitaire-the-ghost-agency.json](./168693-detective-solitaire-the-ghost-agency.json) |
 | Detective Solitaire: The Ghost Agency 2 | 222280 | [222280-detective-solitaire-the-ghost-agency-2.json](./222280-detective-solitaire-the-ghost-agency-2.json) |
+| Detective Stories Bundle | 118885 | [118885-detective-stories-bundle.json](./118885-detective-stories-bundle.json) |
 | Detective Story | 148553 | [148553-detective-story.json](./148553-detective-story.json) |
 | Detective Time | 180035 | [180035-detective-time.json](./180035-detective-time.json) |
 | Detective Turner: If Looks Could Kill | 404825 | [404825-detective-turner-if-looks-could-kill.json](./404825-detective-turner-if-looks-could-kill.json) |
@@ -4135,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detrita Battlegrounds | 54494 | [54494-detrita-battlegrounds.json](./54494-detrita-battlegrounds.json) |
 | Detritus | 192392 | [192392-detritus.json](./192392-detritus.json) |
 | Detroit | 71813 | [71813-detroit.json](./71813-detroit.json) |
+| Detroit: Become Human - Digital Deluxe Edition | 118902 | [118902-detroit-become-human-digital-deluxe-edition.json](./118902-detroit-become-human-digital-deluxe-edition.json) |
 | Detuned | 239317 | [239317-detuned.json](./239317-detuned.json) |
 | Deuces Wild: Video Poker | 147833 | [147833-deuces-wild-video-poker.json](./147833-deuces-wild-video-poker.json) |
 | Deul | 38507 | [38507-deul.json](./38507-deul.json) |
@@ -4146,6 +4149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Collection | 52883 | [52883-deus-ex-collection.json](./52883-deus-ex-collection.json) |
 | Deus Ex: Game of the Year Edition | 25358 | [25358-deus-ex-game-of-the-year-edition.json](./25358-deus-ex-game-of-the-year-edition.json) |
 | Deus Ex: Human Revolution - Augmented Edition | 47412 | [47412-deus-ex-human-revolution-augmented-edition.json](./47412-deus-ex-human-revolution-augmented-edition.json) |
+| Deus Ex: Human Revolution - Complete Edition | 118891 | [118891-deus-ex-human-revolution-complete-edition.json](./118891-deus-ex-human-revolution-complete-edition.json) |
 | Deus Ex: Human Revolution - Director's Cut | 9740 | [9740-deus-ex-human-revolution-directors-cut.json](./9740-deus-ex-human-revolution-directors-cut.json) |
 | Deus Ex: Invisible War | 42 | [42-deus-ex-invisible-war.json](./42-deus-ex-invisible-war.json) |
 | Deus Ex: Mankind Divided - Assault Pack | 374695 | [374695-deus-ex-mankind-divided-assault-pack.json](./374695-deus-ex-mankind-divided-assault-pack.json) |
@@ -7031,6 +7035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Tower Defense | 357838 | [357838-doomsday-tower-defense.json](./357838-doomsday-tower-defense.json) |
 | Doomsday Vault | 117012 | [117012-doomsday-vault.json](./117012-doomsday-vault.json) |
 | Doomsday Warrior | 42599 | [42599-doomsday-warrior.json](./42599-doomsday-warrior.json) |
+| Doomtank | 118762 | [118762-doomtank.json](./118762-doomtank.json) |
 | Doomtrain | 386910 | [386910-doomtrain.json](./386910-doomtrain.json) |
 | Doomtrooper CCG | 71196 | [71196-doomtrooper-ccg.json](./71196-doomtrooper-ccg.json) |
 | DoomWall | 323830 | [323830-doomwall.json](./323830-doomwall.json) |
@@ -7799,6 +7804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse | 7408 | [7408-dragon-ball-xenoverse.json](./7408-dragon-ball-xenoverse.json) |
 | Dragon Ball: Xenoverse - Day One Edition | 363936 | [363936-dragon-ball-xenoverse-day-one-edition.json](./363936-dragon-ball-xenoverse-day-one-edition.json) |
 | Dragon Ball: Xenoverse - Season Pass | 269071 | [269071-dragon-ball-xenoverse-season-pass.json](./269071-dragon-ball-xenoverse-season-pass.json) |
+| Dragon Ball: Xenoverse - Time Travel Edition | 118894 | [118894-dragon-ball-xenoverse-time-travel-edition.json](./118894-dragon-ball-xenoverse-time-travel-edition.json) |
 | Dragon Ball: Xenoverse + GT Pack 1 Bundle | 99784 | [99784-dragon-ball-xenoverse-gt-pack-1-bundle.json](./99784-dragon-ball-xenoverse-gt-pack-1-bundle.json) |
 | Dragon Ball: Xenoverse 2 - Conton City Vote Pack | 223592 | [223592-dragon-ball-xenoverse-2-conton-city-vote-pack.json](./223592-dragon-ball-xenoverse-2-conton-city-vote-pack.json) |
 | Dragon Ball: Xenoverse 2 - Day One Edition | 362979 | [362979-dragon-ball-xenoverse-2-day-one-edition.json](./362979-dragon-ball-xenoverse-2-day-one-edition.json) |
@@ -9004,6 +9010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Flip | 96538 | [96538-drop-flip.json](./96538-drop-flip.json) |
 | Drop Flip Seasons | 96284 | [96284-drop-flip-seasons.json](./96284-drop-flip-seasons.json) |
 | Drop It | 285127 | [285127-drop-it.json](./285127-drop-it.json) |
+| Drop Kick Zombie! | 118763 | [118763-drop-kick-zombie.json](./118763-drop-kick-zombie.json) |
 | Drop Loot | 411029 | [411029-drop-loot.json](./411029-drop-loot.json) |
 | Drop Mahjong Tiles | 287314 | [287314-drop-mahjong-tiles.json](./287314-drop-mahjong-tiles.json) |
 | Drop Pane: Not Only Match-3 | 290480 | [290480-drop-pane-not-only-match-3.json](./290480-drop-pane-not-only-match-3.json) |
@@ -9247,6 +9254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dubu Rush | 195583 | [195583-dubu-rush.json](./195583-dubu-rush.json) |
 | DubWars | 36348 | [36348-dubwars.json](./36348-dubwars.json) |
 | Dubz.hu | 416019 | [416019-dubz-hu.json](./416019-dubz-hu.json) |
+| Ducati Challenge | 118892 | [118892-ducati-challenge.json](./118892-ducati-challenge.json) |
 | Ducati World Championship | 19353 | [19353-ducati-world-championship.json](./19353-ducati-world-championship.json) |
 | Duck 'n' Cover | 75869 | [75869-duck-n-cover.json](./75869-duck-n-cover.json) |
 | Duck Adventure | 210646 | [210646-duck-adventure.json](./210646-duck-adventure.json) |
@@ -9769,6 +9777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Scroll | 174314 | [174314-dungeon-scroll.json](./174314-dungeon-scroll.json) |
 | Dungeon Scroll | 70458 | [70458-dungeon-scroll.json](./70458-dungeon-scroll.json) |
 | Dungeon Seekers | 249873 | [249873-dungeon-seekers.json](./249873-dungeon-seekers.json) |
+| Dungeon Service | 118749 | [118749-dungeon-service.json](./118749-dungeon-service.json) |
 | Dungeon Settlers | 288782 | [288782-dungeon-settlers.json](./288782-dungeon-settlers.json) |
 | Dungeon Shifters | 364507 | [364507-dungeon-shifters.json](./364507-dungeon-shifters.json) |
 | Dungeon Shooter: Dark Temple | 234580 | [234580-dungeon-shooter-dark-temple.json](./234580-dungeon-shooter-dark-temple.json) |
