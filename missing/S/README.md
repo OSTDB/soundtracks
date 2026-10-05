@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanity Protocol | 355029 | [355029-sanity-protocol.json](./355029-sanity-protocol.json) |
 | Sanity: Aiken's Artifact | 90142 | [90142-sanity-aikens-artifact.json](./90142-sanity-aikens-artifact.json) |
 | Sankai: Another World | 193868 | [193868-sankai-another-world.json](./193868-sankai-another-world.json) |
+| Sankaku Renai: Love Triangle Trouble - Limited Edition | 167094 | [167094-sankaku-renai-love-triangle-trouble-limited-edition.json](./167094-sankaku-renai-love-triangle-trouble-limited-edition.json) |
 | Sankhara | 156130 | [156130-sankhara.json](./156130-sankhara.json) |
 | Sanki | 178517 | [178517-sanki.json](./178517-sanki.json) |
 | Sankokushi Blast: Shounen Heroes | 220322 | [220322-sankokushi-blast-shounen-heroes.json](./220322-sankokushi-blast-shounen-heroes.json) |
@@ -4471,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Pokémon: Blue Version | 275103 | [275103-shin-pokemon-blue-version.json](./275103-shin-pokemon-blue-version.json) |
 | Shin Pokemon: Green Version | 275105 | [275105-shin-pokemon-green-version.json](./275105-shin-pokemon-green-version.json) |
 | Shin Pokemon: Red Version | 275104 | [275104-shin-pokemon-red-version.json](./275104-shin-pokemon-red-version.json) |
+| Shin Ruriiro no Yuki: Furimukeba Tonari ni | 167097 | [167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json](./167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json) |
 | Shin SD Sengokuden: Chijou Saikyou-hen - Ryuuko Daigekitotsu! | 385789 | [385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json](./385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json) |
 | Shin Super Robot Taisen | 43908 | [43908-shin-super-robot-taisen.json](./43908-shin-super-robot-taisen.json) |
 | Shin Tennis no Ouji-sama: Let's Go!! Daily Life from RisingBeat | 222249 | [222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json](./222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json) |
@@ -5006,6 +5008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoujo Gidan | 167130 | [167130-shoujo-gidan.json](./167130-shoujo-gidan.json) |
 | Shoujo Houkai: Oniichan no Catharsis | 97702 | [97702-shoujo-houkai-oniichan-no-catharsis.json](./97702-shoujo-houkai-oniichan-no-catharsis.json) |
 | Shoujo Kaisen | 174837 | [174837-shoujo-kaisen.json](./174837-shoujo-kaisen.json) |
+| Shoujo Kidan | 167129 | [167129-shoujo-kidan.json](./167129-shoujo-kidan.json) |
 | Shoujo Mahou Gaku Little Witch Romanesque Bangai Hen "Sayonara, Mauresumo" | 332429 | [332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json](./332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json) |
 | Shoujo Minority: Nagisa Another Day | 409797 | [409797-shoujo-minority-nagisa-another-day.json](./409797-shoujo-minority-nagisa-another-day.json) |
 | Shoujo Minority: Nagusame no Ai | 194607 | [194607-shoujo-minority-nagusame-no-ai.json](./194607-shoujo-minority-nagusame-no-ai.json) |
@@ -15869,6 +15872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon My Girl | 278702 | [278702-summon-my-girl.json](./278702-summon-my-girl.json) |
 | Summon Night 3 | 13108 | [13108-summon-night-3.json](./13108-summon-night-3.json) |
 | Summon Night 4 | 13109 | [13109-summon-night-4.json](./13109-summon-night-4.json) |
+| Summon Night 6: Lost Borders - Amu Edition | 167110 | [167110-summon-night-6-lost-borders-amu-edition.json](./167110-summon-night-6-lost-borders-amu-edition.json) |
 | Summon Night Ex-These: Yoake no Tsubasa | 69844 | [69844-summon-night-ex-these-yoake-no-tsubasa.json](./69844-summon-night-ex-these-yoake-no-tsubasa.json) |
 | Summon Night Gran-These: Horobi no Tsurugi to Yakusoku no Kishi | 43267 | [43267-summon-night-gran-these-horobi-no-tsurugi-to-yakusoku-no-kishi.json](./43267-summon-night-gran-these-horobi-no-tsurugi-to-yakusoku-no-kishi.json) |
 | Summon Night: Swordcraft Story | 6615 | [6615-summon-night-swordcraft-story.json](./6615-summon-night-swordcraft-story.json) |
@@ -17359,6 +17363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen T | 112431 | [112431-super-robot-taisen-t.json](./112431-super-robot-taisen-t.json) |
 | Super Robot Taisen T: Bonus Scenario Full Pack | 275061 | [275061-super-robot-taisen-t-bonus-scenario-full-pack.json](./275061-super-robot-taisen-t-bonus-scenario-full-pack.json) |
 | Super Robot Taisen T: Expansion Pack | 275062 | [275062-super-robot-taisen-t-expansion-pack.json](./275062-super-robot-taisen-t-expansion-pack.json) |
+| Super Robot Taisen T: Premium Anime Song & Sound Edition | 167089 | [167089-super-robot-taisen-t-premium-anime-song-and-sound-edition.json](./167089-super-robot-taisen-t-premium-anime-song-and-sound-edition.json) |
 | Super Robot Taisen W | 21405 | [21405-super-robot-taisen-w.json](./21405-super-robot-taisen-w.json) |
 | Super Robot Taisen Z | 79342 | [79342-super-robot-taisen-z.json](./79342-super-robot-taisen-z.json) |
 | Super Robot Taisen Z: Special Disc | 182490 | [182490-super-robot-taisen-z-special-disc.json](./182490-super-robot-taisen-z-special-disc.json) |
