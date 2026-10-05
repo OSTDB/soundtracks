@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Cafe: Idle Bird Collector | 393813 | [393813-cafe-cafe-idle-bird-collector.json](./393813-cafe-cafe-idle-bird-collector.json) |
 | Cafe Crawlers | 184885 | [184885-cafe-crawlers.json](./184885-cafe-crawlers.json) |
 | Cafe Cuillere | 141888 | [141888-cafe-cuillere.json](./141888-cafe-cuillere.json) |
+| Cafe Deux Femmes | 139210 | [139210-cafe-deux-femmes.json](./139210-cafe-deux-femmes.json) |
 | Cafe Dreamland | 333109 | [333109-cafe-dreamland.json](./333109-cafe-dreamland.json) |
 | Café Enchanté: Limited Edition | 254787 | [254787-cafe-enchante-limited-edition.json](./254787-cafe-enchante-limited-edition.json) |
 | Café Guile | 364495 | [364495-cafe-guile.json](./364495-cafe-guile.json) |
@@ -1722,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Capture Topkapi | 232447 | [232447-castle-capture-topkapi.json](./232447-castle-capture-topkapi.json) |
 | Castle Cat 3 | 356074 | [356074-castle-cat-3.json](./356074-castle-cat-3.json) |
 | Castle Champion | 154390 | [154390-castle-champion.json](./154390-castle-champion.json) |
+| Castle Chaos | 139156 | [139156-castle-chaos.json](./139156-castle-chaos.json) |
 | Castle Clash | 38890 | [38890-castle-clash.json](./38890-castle-clash.json) |
 | Castle Combat | 342194 | [342194-castle-combat.json](./342194-castle-combat.json) |
 | Castle Combat | 47551 | [47551-castle-combat.json](./47551-castle-combat.json) |
@@ -8611,6 +8613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash-San | 238482 | [238482-crash-san.json](./238482-crash-san.json) |
 | Crash: Mind Over Mutant | 1191 | [1191-crash-mind-over-mutant.json](./1191-crash-mind-over-mutant.json) |
 | Crash: Mind Over Mutant | 210229 | [210229-crash-mind-over-mutant.json](./210229-crash-mind-over-mutant.json) |
+| Crash'em Derby | 139207 | [139207-crashem-derby.json](./139207-crashem-derby.json) |
 | Crashawk | 336162 | [336162-crashawk.json](./336162-crashawk.json) |
 | Crashbots | 109627 | [109627-crashbots.json](./109627-crashbots.json) |
 | Crashday: Redline Edition | 50093 | [50093-crashday-redline-edition.json](./50093-crashday-redline-edition.json) |
