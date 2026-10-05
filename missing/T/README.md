@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisen Reversi Cross | 198210 | [198210-taisen-reversi-cross.json](./198210-taisen-reversi-cross.json) |
 | Taisen Tokkae Dama | 283394 | [283394-taisen-tokkae-dama.json](./283394-taisen-tokkae-dama.json) |
 | Taisen! Koori Oni | 227366 | [227366-taisen-koori-oni.json](./227366-taisen-koori-oni.json) |
+| Taisho x Alice Epilogue | 153498 | [153498-taisho-x-alice-epilogue.json](./153498-taisho-x-alice-epilogue.json) |
 | Taisho x Alice: Episode 3 | 150505 | [150505-taisho-x-alice-episode-3.json](./150505-taisho-x-alice-episode-3.json) |
 | Taisho x Alice: Heads & Tails! | 201613 | [201613-taisho-x-alice-heads-and-tails.json](./201613-taisho-x-alice-heads-and-tails.json) |
 | Taisho Zombi Roman (Plus) | 150657 | [150657-taisho-zombi-roman-plus.json](./150657-taisho-zombi-roman-plus.json) |
@@ -1502,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task Force Kampas | 117141 | [117141-task-force-kampas.json](./117141-task-force-kampas.json) |
 | Task III | 55150 | [55150-task-iii.json](./55150-task-iii.json) |
 | Task: 312 | 144861 | [144861-task-312.json](./144861-task-312.json) |
+| Taskforce: The Mutants of October Morgane | 153493 | [153493-taskforce-the-mutants-of-october-morgane.json](./153493-taskforce-the-mutants-of-october-morgane.json) |
 | Tasking | 261973 | [261973-tasking.json](./261973-tasking.json) |
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
 | Tasogare Sakaba: Uwabami Breakers | 123588 | [123588-tasogare-sakaba-uwabami-breakers.json](./123588-tasogare-sakaba-uwabami-breakers.json) |
@@ -1647,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TBH: Task Bar Hero | 372510 | [372510-tbh-task-bar-hero.json](./372510-tbh-task-bar-hero.json) |
 | TBS Mini-Golf | 246098 | [246098-tbs-mini-golf.json](./246098-tbs-mini-golf.json) |
 | TC Strikers 1 | 169805 | [169805-tc-strikers-1.json](./169805-tc-strikers-1.json) |
+| TC Strikers 2 | 153499 | [153499-tc-strikers-2.json](./153499-tc-strikers-2.json) |
 | TC Strikers 3 | 169782 | [169782-tc-strikers-3.json](./169782-tc-strikers-3.json) |
 | TC Strikers 4 | 191093 | [191093-tc-strikers-4.json](./191093-tc-strikers-4.json) |
 | TC!Underfell | 306682 | [306682-tc-underfell.json](./306682-tc-underfell.json) |
@@ -4333,6 +4336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dance of Maple Leaves | 346670 | [346670-the-dance-of-maple-leaves.json](./346670-the-dance-of-maple-leaves.json) |
 | The Dance of the Little Water Drops | 104669 | [104669-the-dance-of-the-little-water-drops.json](./104669-the-dance-of-the-little-water-drops.json) |
 | The Dancer: Definitive Edition | 211666 | [211666-the-dancer-definitive-edition.json](./211666-the-dancer-definitive-edition.json) |
+| The DangerZone | 153526 | [153526-the-dangerzone.json](./153526-the-dangerzone.json) |
 | The Daring Entrepreneur | 185516 | [185516-the-daring-entrepreneur.json](./185516-the-daring-entrepreneur.json) |
 | The Daring Mermaid Expedition | 33519 | [33519-the-daring-mermaid-expedition.json](./33519-the-daring-mermaid-expedition.json) |
 | The Dark | 140576 | [140576-the-dark.json](./140576-the-dark.json) |
@@ -8625,6 +8629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scientist Battles | 359559 | [359559-the-scientist-battles.json](./359559-the-scientist-battles.json) |
 | The Scientists' Secret: Hidden Object Game | 259542 | [259542-the-scientists-secret-hidden-object-game.json](./259542-the-scientists-secret-hidden-object-game.json) |
 | The Scoop | 73816 | [73816-the-scoop.json](./73816-the-scoop.json) |
+| The Scorchfarer | 153535 | [153535-the-scorchfarer.json](./153535-the-scorchfarer.json) |
 | The Scottish Open: Carnoustie Virtual Golf | 68706 | [68706-the-scottish-open-carnoustie-virtual-golf.json](./68706-the-scottish-open-carnoustie-virtual-golf.json) |
 | The Scourge | 267072 | [267072-the-scourge.json](./267072-the-scourge.json) |
 | The Scourge Project: Episodes 1 and 2 | 51294 | [51294-the-scourge-project-episodes-1-and-2.json](./51294-the-scourge-project-episodes-1-and-2.json) |
@@ -11105,6 +11110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threshold of Judgement | 378159 | [378159-threshold-of-judgement.json](./378159-threshold-of-judgement.json) |
 | Threshold of Pain | 274219 | [274219-threshold-of-pain.json](./274219-threshold-of-pain.json) |
 | Thrice Doomed | 294769 | [294769-thrice-doomed.json](./294769-thrice-doomed.json) |
+| Thrice in a row: A new adventure | 153529 | [153529-thrice-in-a-row-a-new-adventure.json](./153529-thrice-in-a-row-a-new-adventure.json) |
 | Thrice in a row: Last Adventure | 213419 | [213419-thrice-in-a-row-last-adventure.json](./213419-thrice-in-a-row-last-adventure.json) |
 | Thrift Store Treasure: Hidden Objects | 417510 | [417510-thrift-store-treasure-hidden-objects.json](./417510-thrift-store-treasure-hidden-objects.json) |
 | Thrill Penguin | 204332 | [204332-thrill-penguin.json](./204332-thrill-penguin.json) |
@@ -11321,6 +11327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic Tac Toe: The Ultimate Board Game | 193804 | [193804-tic-tac-toe-the-ultimate-board-game.json](./193804-tic-tac-toe-the-ultimate-board-game.json) |
 | Tic Toc Shoc for Playdate | 276727 | [276727-tic-toc-shoc-for-playdate.json](./276727-tic-toc-shoc-for-playdate.json) |
 | Tic-a-Tac Royale | 206787 | [206787-tic-a-tac-royale.json](./206787-tic-a-tac-royale.json) |
+| Tic-Tac-Crow | 153517 | [153517-tic-tac-crow.json](./153517-tic-tac-crow.json) |
 | Tic-Tac-Letters by POWGI | 124091 | [124091-tic-tac-letters-by-powgi.json](./124091-tic-tac-letters-by-powgi.json) |
 | Tic-Tac-Matrix | 180748 | [180748-tic-tac-matrix.json](./180748-tic-tac-matrix.json) |
 | Tic-Tac-Tanks | 195214 | [195214-tic-tac-tanks.json](./195214-tic-tac-tanks.json) |
@@ -14439,6 +14446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhai Densetsu Akagi: Yami ni Maiorita Tensai | 74767 | [74767-touhai-densetsu-akagi-yami-ni-maiorita-tensai.json](./74767-touhai-densetsu-akagi-yami-ni-maiorita-tensai.json) |
 | Touhai Densetsu: Akagi DS - Yami ni Maiorita Tensai | 124104 | [124104-touhai-densetsu-akagi-ds-yami-ni-maiorita-tensai.json](./124104-touhai-densetsu-akagi-ds-yami-ni-maiorita-tensai.json) |
 | Touhou Baisyunyado: Soap of Royal Road | 138029 | [138029-touhou-baisyunyado-soap-of-royal-road.json](./138029-touhou-baisyunyado-soap-of-royal-road.json) |
+| Touhou Blooming Chaos 2 | 153523 | [153523-touhou-blooming-chaos-2.json](./153523-touhou-blooming-chaos-2.json) |
 | Touhou Blooming Chaos 2: Chara Pack 3 | 170959 | [170959-touhou-blooming-chaos-2-chara-pack-3.json](./170959-touhou-blooming-chaos-2-chara-pack-3.json) |
 | Touhou Blooming Chaos 2: Chara Pack Special - Mystia Lorelei | 169324 | [169324-touhou-blooming-chaos-2-chara-pack-special-mystia-lorelei.json](./169324-touhou-blooming-chaos-2-chara-pack-special-mystia-lorelei.json) |
 | Touhou Blooming Soul | 203848 | [203848-touhou-blooming-soul.json](./203848-touhou-blooming-soul.json) |
