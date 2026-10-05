@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Making History: The Calm & the Storm - Gold Edition | 25516 | [25516-making-history-the-calm-and-the-storm-gold-edition.json](./25516-making-history-the-calm-and-the-storm-gold-edition.json) |
 | Making History: The First World War | 132316 | [132316-making-history-the-first-world-war.json](./132316-making-history-the-first-world-war.json) |
 | Making History: The Great War | 17085 | [17085-making-history-the-great-war.json](./17085-making-history-the-great-war.json) |
+| Making History: The Great War - The Red Army | 170808 | [170808-making-history-the-great-war-the-red-army.json](./170808-making-history-the-great-war-the-red-army.json) |
 | Making Lovely | 387501 | [387501-making-lovely.json](./387501-making-lovely.json) |
 | Making Lovers: First Blush | 397802 | [397802-making-lovers-first-blush.json](./397802-making-lovers-first-blush.json) |
 | Making Lovers: Geki Icha After Story Vol.01 | 108975 | [108975-making-lovers-geki-icha-after-story-vol-01.json](./108975-making-lovers-geki-icha-after-story-vol-01.json) |
@@ -10818,6 +10819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lewd OS | 297150 | [297150-my-lewd-os.json](./297150-my-lewd-os.json) |
 | My Liege | 289317 | [289317-my-liege.json](./289317-my-liege.json) |
 | My Life As An Alchemist | 289430 | [289430-my-life-as-an-alchemist.json](./289430-my-life-as-an-alchemist.json) |
+| My Life As An Archeologist | 170889 | [170889-my-life-as-an-archeologist.json](./170889-my-life-as-an-archeologist.json) |
 | My Life Changed | 165708 | [165708-my-life-changed.json](./165708-my-life-changed.json) |
 | My Life Coach | 240942 | [240942-my-life-coach.json](./240942-my-life-coach.json) |
 | My Life in a Monster Girl Paradise | 403025 | [403025-my-life-in-a-monster-girl-paradise.json](./403025-my-life-in-a-monster-girl-paradise.json) |
