@@ -2448,6 +2448,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside | 80481 | [80481-inside.json](./80481-inside.json) |
 | Inside a Dead Skyscraper | 316687 | [316687-inside-a-dead-skyscraper.json](./316687-inside-a-dead-skyscraper.json) |
 | Inside Explorer | 148966 | [148966-inside-explorer.json](./148966-inside-explorer.json) |
+| Inside Explorer: Mummy with figurines | 168709 | [168709-inside-explorer-mummy-with-figurines.json](./168709-inside-explorer-mummy-with-figurines.json) |
+| Inside Explorer: The Gilded Lady | 168710 | [168710-inside-explorer-the-gilded-lady.json](./168710-inside-explorer-the-gilded-lady.json) |
 | Inside Her Bedroom | 391827 | [391827-inside-her-bedroom.json](./391827-inside-her-bedroom.json) |
 | Inside Intruder | 329564 | [329564-inside-intruder.json](./329564-inside-intruder.json) |
 | Inside Lacrosse's CL2010 | 91420 | [91420-inside-lacrosses-cl2010.json](./91420-inside-lacrosses-cl2010.json) |
