@@ -7004,8 +7004,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed Zone | 203880 | [203880-armed-zone.json](./203880-armed-zone.json) |
 | Armello: Collector's Edition | 52599 | [52599-armello-collectors-edition.json](./52599-armello-collectors-edition.json) |
 | Armello: Deluxe Bundle | 173787 | [173787-armello-deluxe-bundle.json](./173787-armello-deluxe-bundle.json) |
+| Armello: Rivals Hero Pack | 163271 | [163271-armello-rivals-hero-pack.json](./163271-armello-rivals-hero-pack.json) |
 | Armello: Special Edition | 166228 | [166228-armello-special-edition.json](./166228-armello-special-edition.json) |
+| Armello: The Bandit Clan | 163270 | [163270-armello-the-bandit-clan.json](./163270-armello-the-bandit-clan.json) |
+| Armello: The Dragon Clan | 163268 | [163268-armello-the-dragon-clan.json](./163268-armello-the-dragon-clan.json) |
 | Armello: The Usurpers Hero | 24026 | [24026-armello-the-usurpers-hero.json](./24026-armello-the-usurpers-hero.json) |
+| Armello: Usurpers Hero Pack | 163269 | [163269-armello-usurpers-hero-pack.json](./163269-armello-usurpers-hero-pack.json) |
 | Armen Noir | 56525 | [56525-armen-noir.json](./56525-armen-noir.json) |
 | Armeria In Bloom | 409801 | [409801-armeria-in-bloom.json](./409801-armeria-in-bloom.json) |
 | Armies of Exigo | 18855 | [18855-armies-of-exigo.json](./18855-armies-of-exigo.json) |
