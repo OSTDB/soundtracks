@@ -5013,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fantasy Village | 108268 | [108268-the-fantasy-village.json](./108268-the-fantasy-village.json) |
 | The Far Kingdoms: Forgotten Relics | 149927 | [149927-the-far-kingdoms-forgotten-relics.json](./149927-the-far-kingdoms-forgotten-relics.json) |
 | The Far Kingdoms: Garden Mosaics | 415906 | [415906-the-far-kingdoms-garden-mosaics.json](./415906-the-far-kingdoms-garden-mosaics.json) |
+| The Far Kingdoms: Hidden Magic | 163889 | [163889-the-far-kingdoms-hidden-magic.json](./163889-the-far-kingdoms-hidden-magic.json) |
 | The Far Kingdoms: Magic Mosaics | 164876 | [164876-the-far-kingdoms-magic-mosaics.json](./164876-the-far-kingdoms-magic-mosaics.json) |
 | The Far Kingdoms: Magic Mosaics II | 337616 | [337616-the-far-kingdoms-magic-mosaics-ii.json](./337616-the-far-kingdoms-magic-mosaics-ii.json) |
 | The Far Kingdoms: Spooky Mosiacs | 337605 | [337605-the-far-kingdoms-spooky-mosiacs.json](./337605-the-far-kingdoms-spooky-mosiacs.json) |
@@ -5510,6 +5511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Book of Mario | 227972 | [227972-the-great-book-of-mario.json](./227972-the-great-book-of-mario.json) |
 | The Great Cave Offensive | 271262 | [271262-the-great-cave-offensive.json](./271262-the-great-cave-offensive.json) |
 | The Great Cave Offensive | 271405 | [271405-the-great-cave-offensive.json](./271405-the-great-cave-offensive.json) |
+| The Great Chicken Thief | 163876 | [163876-the-great-chicken-thief.json](./163876-the-great-chicken-thief.json) |
 | The Great Chocolate Chase: A Chocolatier Twist | 19557 | [19557-the-great-chocolate-chase-a-chocolatier-twist.json](./19557-the-great-chocolate-chase-a-chocolatier-twist.json) |
 | The Great Coffee Caper | 338210 | [338210-the-great-coffee-caper.json](./338210-the-great-coffee-caper.json) |
 | The Great Couturier | 290013 | [290013-the-great-couturier.json](./290013-the-great-couturier.json) |
@@ -17333,6 +17335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TurboRaketti II | 94239 | [94239-turboraketti-ii.json](./94239-turboraketti-ii.json) |
 | Turboroko: Passion Fever | 142471 | [142471-turboroko-passion-fever.json](./142471-turboroko-passion-fever.json) |
 | Turboroko: Path to Passion Fever | 142470 | [142470-turboroko-path-to-passion-fever.json](./142470-turboroko-path-to-passion-fever.json) |
+| TurBot | 163893 | [163893-turbot.json](./163893-turbot.json) |
 | TurbOT Racing | 95204 | [95204-turbot-racing.json](./95204-turbot-racing.json) |
 | Turbotron | 184567 | [184567-turbotron.json](./184567-turbotron.json) |
 | Turbulence: Airplane Survival Simulator | 161754 | [161754-turbulence-airplane-survival-simulator.json](./161754-turbulence-airplane-survival-simulator.json) |
@@ -17463,6 +17466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtles | 346135 | [346135-turtles.json](./346135-turtles.json) |
 | Turtles! | 194455 | [194455-turtles.json](./194455-turtles.json) |
 | TurtleSkate | 398572 | [398572-turtleskate.json](./398572-turtleskate.json) |
+| Turtoa: Global Rhythm | 163884 | [163884-turtoa-global-rhythm.json](./163884-turtoa-global-rhythm.json) |
 | Tuscany Hotel | 106759 | [106759-tuscany-hotel.json](./106759-tuscany-hotel.json) |
 | Tut's Tomb | 282107 | [282107-tuts-tomb.json](./282107-tuts-tomb.json) |
 | Tutankham | 385836 | [385836-tutankham.json](./385836-tutankham.json) |
