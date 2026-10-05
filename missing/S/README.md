@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturday Night Racing | 372134 | [372134-saturday-night-racing.json](./372134-saturday-night-racing.json) |
 | Saturday Night Slam Masters | 4504 | [4504-saturday-night-slam-masters.json](./4504-saturday-night-slam-masters.json) |
 | Saturday School | 171557 | [171557-saturday-school.json](./171557-saturday-school.json) |
+| Saturday: Arthur's Odyssey | 165496 | [165496-saturday-arthurs-odyssey.json](./165496-saturday-arthurs-odyssey.json) |
 | Sature | 183450 | [183450-sature.json](./183450-sature.json) |
 | Saturn | 285121 | [285121-saturn.json](./285121-saturn.json) |
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
@@ -1362,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savior | 121034 | [121034-savior.json](./121034-savior.json) |
 | Savior | 155016 | [155016-savior.json](./155016-savior.json) |
 | Savior of Light | 189961 | [189961-savior-of-light.json](./189961-savior-of-light.json) |
+| Savior of the Abyss | 165560 | [165560-savior-of-the-abyss.json](./165560-savior-of-the-abyss.json) |
 | Saviors | 36264 | [36264-saviors.json](./36264-saviors.json) |
 | Saviors of Sapphire Wings | 117732 | [117732-saviors-of-sapphire-wings.json](./117732-saviors-of-sapphire-wings.json) |
 | Saviour of the Wasteland | 258959 | [258959-saviour-of-the-wasteland.json](./258959-saviour-of-the-wasteland.json) |
@@ -1784,6 +1786,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scott Adams' Graphic Adventure #6: Strange Odyssey | 71451 | [71451-scott-adams-graphic-adventure-6-strange-odyssey.json](./71451-scott-adams-graphic-adventure-6-strange-odyssey.json) |
 | Scott I Project | 331870 | [331870-scott-i-project.json](./331870-scott-i-project.json) |
 | Scott Pilgrim vs. the World: The Game | 7448 | [7448-scott-pilgrim-vs-the-world-the-game.json](./7448-scott-pilgrim-vs-the-world-the-game.json) |
+| Scott Pilgrim vs. the World: The Game - Knives Chau Add-on Pack | 165490 | [165490-scott-pilgrim-vs-the-world-the-game-knives-chau-add-on-pack.json](./165490-scott-pilgrim-vs-the-world-the-game-knives-chau-add-on-pack.json) |
+| Scott Pilgrim vs. the World. The Game - Wallace Wells Pack | 165492 | [165492-scott-pilgrim-vs-the-world-the-game-wallace-wells-pack.json](./165492-scott-pilgrim-vs-the-world-the-game-wallace-wells-pack.json) |
 | Scott Whiskers in: The Search for Mr. Fumbleclaw | 244704 | [244704-scott-whiskers-in-the-search-for-mr-fumbleclaw.json](./244704-scott-whiskers-in-the-search-for-mr-fumbleclaw.json) |
 | Scott Whiskers: The Search for the Golden Cat | 346236 | [346236-scott-whiskers-the-search-for-the-golden-cat.json](./346236-scott-whiskers-the-search-for-the-golden-cat.json) |
 | Scotty Goes to Centrelink | 202350 | [202350-scotty-goes-to-centrelink.json](./202350-scotty-goes-to-centrelink.json) |
