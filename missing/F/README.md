@@ -1186,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Away Train | 150527 | [150527-far-away-train.json](./150527-far-away-train.json) |
 | Far Cry 2 | 317303 | [317303-far-cry-2.json](./317303-far-cry-2.json) |
 | Far Cry 3: High Tides | 284318 | [284318-far-cry-3-high-tides.json](./284318-far-cry-3-high-tides.json) |
+| Far Cry 3: The Lost Expeditions Edition | 142159 | [142159-far-cry-3-the-lost-expeditions-edition.json](./142159-far-cry-3-the-lost-expeditions-edition.json) |
 | Far Cry 3: Wish You Were Here Edition | 51544 | [51544-far-cry-3-wish-you-were-here-edition.json](./51544-far-cry-3-wish-you-were-here-edition.json) |
 | Far Cry 4 + Far Cry: Primal Bundle | 164801 | [164801-far-cry-4-far-cry-primal-bundle.json](./164801-far-cry-4-far-cry-primal-bundle.json) |
 | Far Cry 4: Gold Edition | 53019 | [53019-far-cry-4-gold-edition.json](./53019-far-cry-4-gold-edition.json) |
@@ -4264,6 +4265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floating Life in Other-World | 156531 | [156531-floating-life-in-other-world.json](./156531-floating-life-in-other-world.json) |
 | Floating Life Record | 264663 | [264663-floating-life-record.json](./264663-floating-life-record.json) |
 | Floating Material -The Hill Where the Star Born.- | 208278 | [208278-floating-material-the-hill-where-the-star-born.json](./208278-floating-material-the-hill-where-the-star-born.json) |
+| Floating Point Leviathan | 142152 | [142152-floating-point-leviathan.json](./142152-floating-point-leviathan.json) |
 | Floating Sandbox | 167707 | [167707-floating-sandbox.json](./167707-floating-sandbox.json) |
 | Floating with Spirits | 383368 | [383368-floating-with-spirits.json](./383368-floating-with-spirits.json) |
 | Floating World | 311166 | [311166-floating-world.json](./311166-floating-world.json) |
