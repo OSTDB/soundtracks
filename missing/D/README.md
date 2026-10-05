@@ -3784,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deskape | 371304 | [371304-deskape.json](./371304-deskape.json) |
 | Deskeroes | 348424 | [348424-deskeroes.json](./348424-deskeroes.json) |
 | Desktop Aquarium | 348834 | [348834-desktop-aquarium.json](./348834-desktop-aquarium.json) |
+| Desktop Baseball | 119525 | [119525-desktop-baseball.json](./119525-desktop-baseball.json) |
 | Desktop Basketball | 147851 | [147851-desktop-basketball.json](./147851-desktop-basketball.json) |
 | Desktop Blocks | 368549 | [368549-desktop-blocks.json](./368549-desktop-blocks.json) |
 | Desktop Bouncer | 416030 | [416030-desktop-bouncer.json](./416030-desktop-bouncer.json) |
@@ -3817,6 +3818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Soccer | 112128 | [112128-desktop-soccer.json](./112128-desktop-soccer.json) |
 | Desktop Standing Card Plates | 394346 | [394346-desktop-standing-card-plates.json](./394346-desktop-standing-card-plates.json) |
 | Desktop Survivors 98 | 325702 | [325702-desktop-survivors-98.json](./325702-desktop-survivors-98.json) |
+| Desktop Table Tennis | 119524 | [119524-desktop-table-tennis.json](./119524-desktop-table-tennis.json) |
 | Desktop Tourney World | 282011 | [282011-desktop-tourney-world.json](./282011-desktop-tourney-world.json) |
 | Desktop Town | 372681 | [372681-desktop-town.json](./372681-desktop-town.json) |
 | Desktop Volleyball | 147834 | [147834-desktop-volleyball.json](./147834-desktop-volleyball.json) |
@@ -10284,6 +10286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dystofarm | 275347 | [275347-dystofarm.json](./275347-dystofarm.json) |
 | Dystopia | 108428 | [108428-dystopia.json](./108428-dystopia.json) |
 | Dystopia RPG | 376132 | [376132-dystopia-rpg.json](./376132-dystopia-rpg.json) |
+| Dystopian Nights | 119610 | [119610-dystopian-nights.json](./119610-dystopian-nights.json) |
 | Dystoria | 27387 | [27387-dystoria.json](./27387-dystoria.json) |
 | DZ & Riggy Vs. the Fantasy World | 320412 | [320412-dz-and-riggy-vs-the-fantasy-world.json](./320412-dz-and-riggy-vs-the-fantasy-world.json) |
 | DZ & Riggy vs. the Worlds II | 252079 | [252079-dz-and-riggy-vs-the-worlds-ii.json](./252079-dz-and-riggy-vs-the-worlds-ii.json) |
