@@ -5656,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Breaker 4: Story Mission DLC 4 - Battle Fiercely | 361234 | [361234-gundam-breaker-4-story-mission-dlc-4-battle-fiercely.json](./361234-gundam-breaker-4-story-mission-dlc-4-battle-fiercely.json) |
 | Gundam Breaker 4: Story Mission DLC 5 - Beyond Borders | 361235 | [361235-gundam-breaker-4-story-mission-dlc-5-beyond-borders.json](./361235-gundam-breaker-4-story-mission-dlc-5-beyond-borders.json) |
 | Gundam Conquest | 223958 | [223958-gundam-conquest.json](./223958-gundam-conquest.json) |
+| Gundam Conquest V | 139752 | [139752-gundam-conquest-v.json](./139752-gundam-conquest-v.json) |
 | Gundam Fights for Human Rights | 183567 | [183567-gundam-fights-for-human-rights.json](./183567-gundam-fights-for-human-rights.json) |
 | Gundam Heroes | 98560 | [98560-gundam-heroes.json](./98560-gundam-heroes.json) |
 | Gundam Memories: Tatakai no Kioku | 80467 | [80467-gundam-memories-tatakai-no-kioku.json](./80467-gundam-memories-tatakai-no-kioku.json) |
