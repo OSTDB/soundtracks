@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Hours Before Christmas | 113483 | [113483-12-hours-before-christmas.json](./113483-12-hours-before-christmas.json) |
 | 12 Hours Museum | 308938 | [308938-12-hours-museum.json](./308938-12-hours-museum.json) |
 | 12 Hours to Die | 146790 | [146790-12-hours-to-die.json](./146790-12-hours-to-die.json) |
+| 12 Labors | 134998 | [134998-12-labors.json](./134998-12-labors.json) |
 | 12 Labours of Hercules II: The Cretan Bull | 35493 | [35493-12-labours-of-hercules-ii-the-cretan-bull.json](./35493-12-labours-of-hercules-ii-the-cretan-bull.json) |
 | 12 Labours of Hercules III: Girl Power | 35494 | [35494-12-labours-of-hercules-iii-girl-power.json](./35494-12-labours-of-hercules-iii-girl-power.json) |
 | 12 Labours of Hercules IV: Mother Nature | 26601 | [26601-12-labours-of-hercules-iv-mother-nature.json](./26601-12-labours-of-hercules-iv-mother-nature.json) |
@@ -918,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Dogfight: Secret Project | 297055 | [297055-2d-dogfight-secret-project.json](./297055-2d-dogfight-secret-project.json) |
 | 2D Dogfight: Sunset and Sunrise | 308943 | [308943-2d-dogfight-sunset-and-sunrise.json](./308943-2d-dogfight-sunset-and-sunrise.json) |
 | 2D Dogfight: World War II - Eastern Front and Pacific | 276268 | [276268-2d-dogfight-world-war-ii-eastern-front-and-pacific.json](./276268-2d-dogfight-world-war-ii-eastern-front-and-pacific.json) |
+| 2D Flight Simulator | 135061 | [135061-2d-flight-simulator.json](./135061-2d-flight-simulator.json) |
 | 2D Heroes | 59646 | [59646-2d-heroes.json](./59646-2d-heroes.json) |
 | 2D Indie Bundle | 301007 | [301007-2d-indie-bundle.json](./301007-2d-indie-bundle.json) |
 | 2D Knock-Out | 326747 | [326747-2d-knock-out.json](./326747-2d-knock-out.json) |
@@ -1252,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4-in-1 Fun Pak | 69787 | [69787-4-in-1-fun-pak.json](./69787-4-in-1-fun-pak.json) |
 | 4-in-1 Funpak Volume II | 93553 | [93553-4-in-1-funpak-volume-ii.json](./93553-4-in-1-funpak-volume-ii.json) |
 | 4-in-1: Hash Block/Jacky Lucky/Challenger Tank/Brain Power | 195064 | [195064-4-in-1-hash-block-jacky-lucky-challenger-tank-brain-power.json](./195064-4-in-1-hash-block-jacky-lucky-challenger-tank-brain-power.json) |
+| 4-Legged Heroine | 135072 | [135072-4-legged-heroine.json](./135072-4-legged-heroine.json) |
 | 4-Lung Boy | 185651 | [185651-4-lung-boy.json](./185651-4-lung-boy.json) |
 | 4-nin Uchi Mahjong | 93369 | [93369-4-nin-uchi-mahjong.json](./93369-4-nin-uchi-mahjong.json) |
 | 4-Play Action Pack (Volume 1) | 86046 | [86046-4-play-action-pack-volume-1.json](./86046-4-play-action-pack-volume-1.json) |
