@@ -360,7 +360,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100% Orange Juice: Breaker Pack | 164464 | [164464-100-orange-juice-breaker-pack.json](./164464-100-orange-juice-breaker-pack.json) |
 | 100% Orange Juice: Chris & Kyupita | 164476 | [164476-100-orange-juice-chris-and-kyupita.json](./164476-100-orange-juice-chris-and-kyupita.json) |
 | 100% Orange Juice: Extracurricular Pack | 359565 | [359565-100-orange-juice-extracurricular-pack.json](./359565-100-orange-juice-extracurricular-pack.json) |
+| 100% Orange Juice: Halena & Cook Character Pack | 160290 | [160290-100-orange-juice-halena-and-cook-character-pack.json](./160290-100-orange-juice-halena-and-cook-character-pack.json) |
 | 100% Orange Juice: Haruka & Kanata Character Pack | 359564 | [359564-100-orange-juice-haruka-and-kanata-character-pack.json](./359564-100-orange-juice-haruka-and-kanata-character-pack.json) |
+| 100% Orange Juice: Iru & Mira Character Pack | 160296 | [160296-100-orange-juice-iru-and-mira-character-pack.json](./160296-100-orange-juice-iru-and-mira-character-pack.json) |
 | 100% Orange Juice: Krila & Kae | 164482 | [164482-100-orange-juice-krila-and-kae.json](./164482-100-orange-juice-krila-and-kae.json) |
 | 100% Orange Juice: Malt & Mescal Character Pack | 193209 | [193209-100-orange-juice-malt-and-mescal-character-pack.json](./193209-100-orange-juice-malt-and-mescal-character-pack.json) |
 | 100% Orange Juice: Nath & Tomato+Mimyuu | 164472 | [164472-100-orange-juice-nath-and-tomato-mimyuu.json](./164472-100-orange-juice-nath-and-tomato-mimyuu.json) |
