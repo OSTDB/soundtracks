@@ -1880,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to... Chichester 2: Part II - No Extra Regrets For the Future | 170400 | [170400-welcome-to-chichester-2-part-ii-no-extra-regrets-for-the-future.json](./170400-welcome-to-chichester-2-part-ii-no-extra-regrets-for-the-future.json) |
 | Welcome To... Chichester 2: Part III - NightFall | 130712 | [130712-welcome-to-chichester-2-part-iii-nightfall.json](./130712-welcome-to-chichester-2-part-iii-nightfall.json) |
 | Welcome To... Chichester 3: Original Episode | 169960 | [169960-welcome-to-chichester-3-original-episode.json](./169960-welcome-to-chichester-3-original-episode.json) |
+| Welcome To... Chichester OVN 2 : Master Tormenter Grendel Jinx !? | 123961 | [123961-welcome-to-chichester-ovn-2-master-tormenter-grendel-jinx.json](./123961-welcome-to-chichester-ovn-2-master-tormenter-grendel-jinx.json) |
 | Welcome To... Chichester OVN: Omnibus Edition | 248334 | [248334-welcome-to-chichester-ovn-omnibus-edition.json](./248334-welcome-to-chichester-ovn-omnibus-edition.json) |
 | Welcome To... Chichester: The Spy of America and the Long Vacation | 180082 | [180082-welcome-to-chichester-the-spy-of-america-and-the-long-vacation.json](./180082-welcome-to-chichester-the-spy-of-america-and-the-long-vacation.json) |
 | Welcome, [Employee Name] | 402286 | [402286-welcome-employee-name.json](./402286-welcome-employee-name.json) |
@@ -2802,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wigged Out | 126584 | [126584-wigged-out.json](./126584-wigged-out.json) |
 | Wiggly Boy | 139424 | [139424-wiggly-boy.json](./139424-wiggly-boy.json) |
 | Wiggly Pig | 181757 | [181757-wiggly-pig.json](./181757-wiggly-pig.json) |
+| Wigmund | 123970 | [123970-wigmund.json](./123970-wigmund.json) |
 | Wii Chess | 5280 | [5280-wii-chess.json](./5280-wii-chess.json) |
 | Wii Fit | 2186 | [2186-wii-fit.json](./2186-wii-fit.json) |
 | Wii Karaoke U by Joysound | 3107 | [3107-wii-karaoke-u-by-joysound.json](./3107-wii-karaoke-u-by-joysound.json) |
