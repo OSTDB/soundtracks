@@ -1858,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Asphalt | 382950 | [382950-endless-asphalt.json](./382950-endless-asphalt.json) |
 | Endless Battle | 109664 | [109664-endless-battle.json](./109664-endless-battle.json) |
 | Endless Battlefield | 186317 | [186317-endless-battlefield.json](./186317-endless-battlefield.json) |
+| Endless Becoming: Apartment | 166040 | [166040-endless-becoming-apartment.json](./166040-endless-becoming-apartment.json) |
 | Endless Blue | 171901 | [171901-endless-blue.json](./171901-endless-blue.json) |
 | Endless Boss Fight | 163762 | [163762-endless-boss-fight.json](./163762-endless-boss-fight.json) |
 | Endless Bounce | 414571 | [414571-endless-bounce.json](./414571-endless-bounce.json) |
