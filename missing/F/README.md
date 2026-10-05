@@ -1284,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farlight Explorers | 35681 | [35681-farlight-explorers.json](./35681-farlight-explorers.json) |
 | Farm | 328533 | [328533-farm.json](./328533-farm.json) |
 | Farm | 364085 | [364085-farm.json](./364085-farm.json) |
+| Farm & Puzzle | 148687 | [148687-farm-and-puzzle.json](./148687-farm-and-puzzle.json) |
 | Farm 2+ | 412347 | [412347-farm-2.json](./412347-farm-2.json) |
 | Farm Alarm | 176327 | [176327-farm-alarm.json](./176327-farm-alarm.json) |
 | Farm and Click - Idle Hell Clicker | 95862 | [95862-farm-and-click-idle-hell-clicker.json](./95862-farm-and-click-idle-hell-clicker.json) |
@@ -1828,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear for Sale: Endless Voyage HD | 102204 | [102204-fear-for-sale-endless-voyage-hd.json](./102204-fear-for-sale-endless-voyage-hd.json) |
 | Fear For Sale: Hidden in the Darkness | 187899 | [187899-fear-for-sale-hidden-in-the-darkness.json](./187899-fear-for-sale-hidden-in-the-darkness.json) |
 | Fear For Sale: Nightmare Cinema - Collector’s Edition | 104216 | [104216-fear-for-sale-nightmare-cinema-collector-s-edition.json](./104216-fear-for-sale-nightmare-cinema-collector-s-edition.json) |
+| Fear in the Modern House: Ch.2 | 148670 | [148670-fear-in-the-modern-house-ch-2.json](./148670-fear-in-the-modern-house-ch-2.json) |
 | Fear Is in the Mind | 179168 | [179168-fear-is-in-the-mind.json](./179168-fear-is-in-the-mind.json) |
 | Fear Is In The Mind | 302943 | [302943-fear-is-in-the-mind.json](./302943-fear-is-in-the-mind.json) |
 | Fear Less! | 60552 | [60552-fear-less.json](./60552-fear-less.json) |
@@ -2050,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fēngshén Yīngjié Zhuán | 93061 | [93061-fengshen-yingjie-zhuan.json](./93061-fengshen-yingjie-zhuan.json) |
 | Fēngshénbǎng 2020 | 157078 | [157078-fengshenbang-2020.json](./157078-fengshenbang-2020.json) |
 | Fēngxìnlóu | 130187 | [130187-fengxinlou.json](./130187-fengxinlou.json) |
+| Fénhún zhī Mèng | 148684 | [148684-fenhun-zhi-meng.json](./148684-fenhun-zhi-meng.json) |
 | Fenimore Fillmore: The Westerner | 27496 | [27496-fenimore-fillmore-the-westerner.json](./27496-fenimore-fillmore-the-westerner.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
 | Fenix Rage | 17295 | [17295-fenix-rage.json](./17295-fenix-rage.json) |
@@ -5642,6 +5645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossil Quest | 386729 | [386729-fossil-quest.json](./386729-fossil-quest.json) |
 | Fossil Skater | 318214 | [318214-fossil-skater.json](./318214-fossil-skater.json) |
 | Fossil Sweeper | 247462 | [247462-fossil-sweeper.json](./247462-fossil-sweeper.json) |
+| Fossilfuel | 148665 | [148665-fossilfuel.json](./148665-fossilfuel.json) |
 | Fossilfuel VR: Raptor Isolation | 192777 | [192777-fossilfuel-vr-raptor-isolation.json](./192777-fossilfuel-vr-raptor-isolation.json) |
 | Fossilpunk | 327189 | [327189-fossilpunk.json](./327189-fossilpunk.json) |
 | Foster's Home for Imaginary Friends | 230313 | [230313-fosters-home-for-imaginary-friends.json](./230313-fosters-home-for-imaginary-friends.json) |
