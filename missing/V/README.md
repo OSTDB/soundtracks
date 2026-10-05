@@ -1587,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vispire | 275574 | [275574-vispire.json](./275574-vispire.json) |
 | Vispo: Video Spot the Difference | 369185 | [369185-vispo-video-spot-the-difference.json](./369185-vispo-video-spot-the-difference.json) |
 | Vissekom | 142427 | [142427-vissekom.json](./142427-vissekom.json) |
+| Visser | 129520 | [129520-visser.json](./129520-visser.json) |
 | Vista Golf Rivals | 106982 | [106982-vista-golf-rivals.json](./106982-vista-golf-rivals.json) |
 | Vista World | 244372 | [244372-vista-world.json](./244372-vista-world.json) |
 | Vistascapes VR | 32891 | [32891-vistascapes-vr.json](./32891-vistascapes-vr.json) |
