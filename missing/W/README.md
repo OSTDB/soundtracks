@@ -2483,15 +2483,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispered Promises: 14 Days of Love with Anna | 260320 | [260320-whispered-promises-14-days-of-love-with-anna.json](./260320-whispered-promises-14-days-of-love-with-anna.json) |
 | Whispered Secrets: Cruise of Misfortune - Collector's Edition | 338697 | [338697-whispered-secrets-cruise-of-misfortune-collectors-edition.json](./338697-whispered-secrets-cruise-of-misfortune-collectors-edition.json) |
 | Whispered Secrets: Cursed Wealth - Collector's Edition | 351714 | [351714-whispered-secrets-cursed-wealth-collectors-edition.json](./351714-whispered-secrets-cursed-wealth-collectors-edition.json) |
+| Whispered Secrets: Dreadful Beauty | 139778 | [139778-whispered-secrets-dreadful-beauty.json](./139778-whispered-secrets-dreadful-beauty.json) |
 | Whispered Secrets: Everburning Candle | 100344 | [100344-whispered-secrets-everburning-candle.json](./100344-whispered-secrets-everburning-candle.json) |
 | Whispered Secrets: Everburning Candle - Collector's Edition | 316694 | [316694-whispered-secrets-everburning-candle-collectors-edition.json](./316694-whispered-secrets-everburning-candle-collectors-edition.json) |
 | Whispered Secrets: Forgotten Sins - Collector's Edition | 362843 | [362843-whispered-secrets-forgotten-sins-collectors-edition.json](./362843-whispered-secrets-forgotten-sins-collectors-edition.json) |
+| Whispered Secrets: Golden Silence | 139779 | [139779-whispered-secrets-golden-silence.json](./139779-whispered-secrets-golden-silence.json) |
 | Whispered Secrets: In the Cards - Collector's Edition | 362836 | [362836-whispered-secrets-in-the-cards-collectors-edition.json](./362836-whispered-secrets-in-the-cards-collectors-edition.json) |
+| Whispered Secrets: Into the Beyond | 139780 | [139780-whispered-secrets-into-the-beyond.json](./139780-whispered-secrets-into-the-beyond.json) |
+| Whispered Secrets: Into the Wind | 139781 | [139781-whispered-secrets-into-the-wind.json](./139781-whispered-secrets-into-the-wind.json) |
 | Whispered Secrets: Morbid Obsession - Collector's Edition | 362837 | [362837-whispered-secrets-morbid-obsession-collectors-edition.json](./362837-whispered-secrets-morbid-obsession-collectors-edition.json) |
 | Whispered Secrets: Poisoner's Masquerade | 416626 | [416626-whispered-secrets-poisoners-masquerade.json](./416626-whispered-secrets-poisoners-masquerade.json) |
 | Whispered Secrets: Poisoner's Masquerade - Collector's Edition | 409717 | [409717-whispered-secrets-poisoners-masquerade-collectors-edition.json](./409717-whispered-secrets-poisoners-masquerade-collectors-edition.json) |
 | Whispered Secrets: Ripple of the Heart | 187972 | [187972-whispered-secrets-ripple-of-the-heart.json](./187972-whispered-secrets-ripple-of-the-heart.json) |
 | Whispered Secrets: Song of Sorrow - Collector's Edition | 361251 | [361251-whispered-secrets-song-of-sorrow-collectors-edition.json](./361251-whispered-secrets-song-of-sorrow-collectors-edition.json) |
+| Whispered Secrets: The Story of Tideville | 139782 | [139782-whispered-secrets-the-story-of-tideville.json](./139782-whispered-secrets-the-story-of-tideville.json) |
 | Whispered Stories: Sandman | 175803 | [175803-whispered-stories-sandman.json](./175803-whispered-stories-sandman.json) |
 | Whispering Abyss | 216829 | [216829-whispering-abyss.json](./216829-whispering-abyss.json) |
 | Whispering Death | 312551 | [312551-whispering-death.json](./312551-whispering-death.json) |
