@@ -4686,6 +4686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Alt Delete | 419911 | [419911-love-alt-delete.json](./419911-love-alt-delete.json) |
 | Love Always Runs Away | 362885 | [362885-love-always-runs-away.json](./362885-love-always-runs-away.json) |
 | Love Amidst the Timeless Rift | 284398 | [284398-love-amidst-the-timeless-rift.json](./284398-love-amidst-the-timeless-rift.json) |
+| Love and Berry: Dress Up and Dance! | 123372 | [123372-love-and-berry-dress-up-and-dance.json](./123372-love-and-berry-dress-up-and-dance.json) |
 | Love and Betrayal | 195639 | [195639-love-and-betrayal.json](./195639-love-and-betrayal.json) |
 | Love And Death | 414568 | [414568-love-and-death.json](./414568-love-and-death.json) |
 | Love and Demons | 252074 | [252074-love-and-demons.json](./252074-love-and-demons.json) |
