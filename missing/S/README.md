@@ -3874,6 +3874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaman Odyssey: Tropic Adventure | 10821 | [10821-shaman-odyssey-tropic-adventure.json](./10821-shaman-odyssey-tropic-adventure.json) |
 | Shaman: Spirithunter | 110281 | [110281-shaman-spirithunter.json](./110281-shaman-spirithunter.json) |
 | Shamania | 310495 | [310495-shamania.json](./310495-shamania.json) |
+| Shambled Spiral | 168112 | [168112-shambled-spiral.json](./168112-shambled-spiral.json) |
 | Shambles | 139259 | [139259-shambles.json](./139259-shambles.json) |
 | Shame Legacy | 241959 | [241959-shame-legacy.json](./241959-shame-legacy.json) |
 | Shameless Afterparty | 340382 | [340382-shameless-afterparty.json](./340382-shameless-afterparty.json) |
