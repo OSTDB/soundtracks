@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babylon 5 | 218435 | [218435-babylon-5.json](./218435-babylon-5.json) |
 | Babylon 5: I've Found Her - Danger and Opportunity | 78731 | [78731-babylon-5-ive-found-her-danger-and-opportunity.json](./78731-babylon-5-ive-found-her-danger-and-opportunity.json) |
 | Babylon X | 307136 | [307136-babylon-x.json](./307136-babylon-x.json) |
+| Babylonia | 120695 | [120695-babylonia.json](./120695-babylonia.json) |
 | BabyRace | 255122 | [255122-babyrace.json](./255122-babyrace.json) |
 | Babysitter Simulator | 203902 | [203902-babysitter-simulator.json](./203902-babysitter-simulator.json) |
 | Babysitting Fun | 310540 | [310540-babysitting-fun.json](./310540-babysitting-fun.json) |
@@ -898,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Fight GB | 50061 | [50061-balloon-fight-gb.json](./50061-balloon-fight-gb.json) |
 | Balloon Fight-e | 170004 | [170004-balloon-fight-e.json](./170004-balloon-fight-e.json) |
 | Balloon Fighter | 122196 | [122196-balloon-fighter.json](./122196-balloon-fighter.json) |
+| Balloon Girl | 120700 | [120700-balloon-girl.json](./120700-balloon-girl.json) |
 | Balloon Gun | 63847 | [63847-balloon-gun.json](./63847-balloon-gun.json) |
 | Balloon guy | 89368 | [89368-balloon-guy.json](./89368-balloon-guy.json) |
 | Balloon Head | 317296 | [317296-balloon-head.json](./317296-balloon-head.json) |
@@ -5938,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood on the Clocktower | 256090 | [256090-blood-on-the-clocktower.json](./256090-blood-on-the-clocktower.json) |
 | Blood On The Streets | 284012 | [284012-blood-on-the-streets.json](./284012-blood-on-the-streets.json) |
 | Blood On The Thames | 293105 | [293105-blood-on-the-thames.json](./293105-blood-on-the-thames.json) |
+| Blood Opera Crescendo | 120693 | [120693-blood-opera-crescendo.json](./120693-blood-opera-crescendo.json) |
 | Blood Orange: Definitive Edition | 273369 | [273369-blood-orange-definitive-edition.json](./273369-blood-orange-definitive-edition.json) |
 | Blood Pact | 239873 | [239873-blood-pact.json](./239873-blood-pact.json) |
 | Blood Pact: Premium Edition | 239876 | [239876-blood-pact-premium-edition.json](./239876-blood-pact-premium-edition.json) |
@@ -6816,6 +6819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombunter | 368617 | [368617-bombunter.json](./368617-bombunter.json) |
 | Bombyx | 123639 | [123639-bombyx.json](./123639-bombyx.json) |
 | Bomcat | 362329 | [362329-bomcat.json](./362329-bomcat.json) |
+| BomjMan | 120746 | [120746-bomjman.json](./120746-bomjman.json) |
 | Bon Appecheese | 352379 | [352379-bon-appecheese.json](./352379-bon-appecheese.json) |
 | Bon Bon Paradise | 109481 | [109481-bon-bon-paradise.json](./109481-bon-bon-paradise.json) |
 | Bon Voyage | 415295 | [415295-bon-voyage.json](./415295-bon-voyage.json) |
