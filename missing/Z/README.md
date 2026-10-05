@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zopa | 303168 | [303168-zopa.json](./303168-zopa.json) |
 | Zorakk: The Conqueror | 57154 | [57154-zorakk-the-conqueror.json](./57154-zorakk-the-conqueror.json) |
 | Zorax | 221227 | [221227-zorax.json](./221227-zorax.json) |
+| Zordak | 140297 | [140297-zordak.json](./140297-zordak.json) |
 | Zoria and the Cursed Land | 152227 | [152227-zoria-and-the-cursed-land.json](./152227-zoria-and-the-cursed-land.json) |
 | Zoria: Age of Shattering - Ancestors' Weapon Pack | 402944 | [402944-zoria-age-of-shattering-ancestors-weapon-pack.json](./402944-zoria-age-of-shattering-ancestors-weapon-pack.json) |
 | Zork | 1944 | [1944-zork.json](./1944-zork.json) |
