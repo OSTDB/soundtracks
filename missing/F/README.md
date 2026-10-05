@@ -1779,6 +1779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faul! | 194659 | [194659-faul.json](./194659-faul.json) |
 | Fault Milestone Two Side: Above | 35883 | [35883-fault-milestone-two-side-above.json](./35883-fault-milestone-two-side-above.json) |
 | Fault: Broken Promises | 336619 | [336619-fault-broken-promises.json](./336619-fault-broken-promises.json) |
+| Faun Air | 151279 | [151279-faun-air.json](./151279-faun-air.json) |
 | Faunamorph | 257965 | [257965-faunamorph.json](./257965-faunamorph.json) |
 | Faust Duel | 373112 | [373112-faust-duel.json](./373112-faust-duel.json) |
 | Faustian Bargain | 209669 | [209669-faustian-bargain.json](./209669-faustian-bargain.json) |
@@ -2559,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIM Speedway Grand Prix | 67678 | [67678-fim-speedway-grand-prix.json](./67678-fim-speedway-grand-prix.json) |
 | FIM Speedway Grand Prix 2 | 67677 | [67677-fim-speedway-grand-prix-2.json](./67677-fim-speedway-grand-prix-2.json) |
 | FIM Speedway Grand Prix 3 | 67676 | [67676-fim-speedway-grand-prix-3.json](./67676-fim-speedway-grand-prix-3.json) |
+| Fimbul Winter VR | 151264 | [151264-fimbul-winter-vr.json](./151264-fimbul-winter-vr.json) |
 | Fin Fin: On Teo, the Magic Planet | 172775 | [172775-fin-fin-on-teo-the-magic-planet.json](./172775-fin-fin-on-teo-the-magic-planet.json) |
 | Fin-Tastic Battle | 392415 | [392415-fin-tastic-battle.json](./392415-fin-tastic-battle.json) |
 | FIN: The Way Home | 302127 | [302127-fin-the-way-home.json](./302127-fin-the-way-home.json) |
@@ -3997,6 +3999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FleshBound | 327453 | [327453-fleshbound.json](./327453-fleshbound.json) |
 | FleshBound | 397043 | [397043-fleshbound.json](./397043-fleshbound.json) |
 | Fleshcancer | 395805 | [395805-fleshcancer.json](./395805-fleshcancer.json) |
+| Fleshcult | 151287 | [151287-fleshcult.json](./151287-fleshcult.json) |
 | Fleshgait | 188448 | [188448-fleshgait.json](./188448-fleshgait.json) |
 | Fleshgrinder | 415905 | [415905-fleshgrinder.json](./415905-fleshgrinder.json) |
 | Fleshport | 173261 | [173261-fleshport.json](./173261-fleshport.json) |
@@ -5186,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forget-Me-Not | 47269 | [47269-forget-me-not.json](./47269-forget-me-not.json) |
 | Forget-Me-Not of the Tetragon | 335696 | [335696-forget-me-not-of-the-tetragon.json](./335696-forget-me-not-of-the-tetragon.json) |
 | Forget-Me-Not R | 210561 | [210561-forget-me-not-r.json](./210561-forget-me-not-r.json) |
+| Forgetter | 151280 | [151280-forgetter.json](./151280-forgetter.json) |
 | Forgetting | 183960 | [183960-forgetting.json](./183960-forgetting.json) |
 | Forgetting Emily | 309680 | [309680-forgetting-emily.json](./309680-forgetting-emily.json) |
 | Forging Ahead | 244740 | [244740-forging-ahead.json](./244740-forging-ahead.json) |
