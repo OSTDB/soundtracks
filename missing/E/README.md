@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth and Sky 3: Luminous Horizon | 9505 | [9505-earth-and-sky-3-luminous-horizon.json](./9505-earth-and-sky-3-luminous-horizon.json) |
 | Earth Atlantis 2 | 352842 | [352842-earth-atlantis-2.json](./352842-earth-atlantis-2.json) |
 | Earth Atlantis: Limited Edition | 167041 | [167041-earth-atlantis-limited-edition.json](./167041-earth-atlantis-limited-edition.json) |
+| Earth Attack | 171343 | [171343-earth-attack.json](./171343-earth-attack.json) |
 | Earth Brigades | 204085 | [204085-earth-brigades.json](./204085-earth-brigades.json) |
 | Earth Command | 45933 | [45933-earth-command.json](./45933-earth-command.json) |
 | Earth Craft | 299893 | [299893-earth-craft.json](./299893-earth-craft.json) |
@@ -2825,6 +2826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Ayurok | 125254 | [125254-escape-the-ayurok.json](./125254-escape-the-ayurok.json) |
 | Escape the Ayuwoki Demake | 201146 | [201146-escape-the-ayuwoki-demake.json](./201146-escape-the-ayuwoki-demake.json) |
 | Escape The Ayuwoki Horror Fort | 242011 | [242011-escape-the-ayuwoki-horror-fort.json](./242011-escape-the-ayuwoki-horror-fort.json) |
+| Escape the Ayuwoki: The Summoning | 171347 | [171347-escape-the-ayuwoki-the-summoning.json](./171347-escape-the-ayuwoki-the-summoning.json) |
 | Escape the Backrooms Bodycam | 360006 | [360006-escape-the-backrooms-bodycam.json](./360006-escape-the-backrooms-bodycam.json) |
 | Escape the Boardgame | 336719 | [336719-escape-the-boardgame.json](./336719-escape-the-boardgame.json) |
 | Escape the Bunker | 30086 | [30086-escape-the-bunker.json](./30086-escape-the-bunker.json) |
