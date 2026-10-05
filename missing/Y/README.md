@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Y-Tiles | 58248 | [58248-y-tiles.json](./58248-y-tiles.json) |
 | Y. Village: The Visitors | 272873 | [272873-y-village-the-visitors.json](./272873-y-village-the-visitors.json) |
 | Y.A.S.G | 84935 | [84935-y-a-s-g.json](./84935-y-a-s-g.json) |
+| Y.A.W: You Are Weaponized | 140939 | [140939-y-a-w-you-are-weaponized.json](./140939-y-a-w-you-are-weaponized.json) |
 | Y.M.C.A. | 333632 | [333632-y-m-c-a.json](./333632-y-m-c-a.json) |
 | Y2K: The Game | 84208 | [84208-y2k-the-game.json](./84208-y2k-the-game.json) |
 | Y2Kthulhu | 185072 | [185072-y2kthulhu.json](./185072-y2kthulhu.json) |
