@@ -797,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.T.O.M. | 164426 | [164426-a-t-o-m.json](./164426-a-t-o-m.json) |
 | A.V.A Global: Masters Pack | 298709 | [298709-a-v-a-global-masters-pack.json](./298709-a-v-a-global-masters-pack.json) |
 | A.V.A: Guns on Fire | 55245 | [55245-a-v-a-guns-on-fire.json](./55245-a-v-a-guns-on-fire.json) |
+| A.void | 128428 | [128428-a-void.json](./128428-a-void.json) |
 | A.W.O.L. | 193214 | [193214-a-w-o-l.json](./193214-a-w-o-l.json) |
 | A'Jatt | 372556 | [372556-ajatt.json](./372556-ajatt.json) |
 | A(s)century | 135625 | [135625-a-s-century.json](./135625-a-s-century.json) |
@@ -1191,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat: Northern Wings | 175783 | [175783-ace-combat-northern-wings.json](./175783-ace-combat-northern-wings.json) |
 | Ace Force | 121736 | [121736-ace-force.json](./121736-ace-force.json) |
 | Ace Gals Tennis | 61059 | [61059-ace-gals-tennis.json](./61059-ace-gals-tennis.json) |
+| Ace In Space | 128339 | [128339-ace-in-space.json](./128339-ace-in-space.json) |
 | Ace Invaders | 147460 | [147460-ace-invaders.json](./147460-ace-invaders.json) |
 | Ace Lightning | 248736 | [248736-ace-lightning.json](./248736-ace-lightning.json) |
 | Ace No.1 Fishing | 137416 | [137416-ace-no-1-fishing.json](./137416-ace-no-1-fishing.json) |
@@ -1701,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Time: The Secret of the Nameless Kingdom | 8620 | [8620-adventure-time-the-secret-of-the-nameless-kingdom.json](./8620-adventure-time-the-secret-of-the-nameless-kingdom.json) |
 | Adventure To Fate: Dungeons | 397826 | [397826-adventure-to-fate-dungeons.json](./397826-adventure-to-fate-dungeons.json) |
 | Adventure to Fate: Quest to the Future JRPG | 134376 | [134376-adventure-to-fate-quest-to-the-future-jrpg.json](./134376-adventure-to-fate-quest-to-the-future-jrpg.json) |
+| Adventure Trip | 128344 | [128344-adventure-trip.json](./128344-adventure-trip.json) |
 | Adventure Trip: Amazing World 2 | 234683 | [234683-adventure-trip-amazing-world-2.json](./234683-adventure-trip-amazing-world-2.json) |
 | Adventure Trip: Amazing World 3 | 382908 | [382908-adventure-trip-amazing-world-3.json](./382908-adventure-trip-amazing-world-3.json) |
 | Adventure Trip: Amazing World 3 - Collector's Edition | 283900 | [283900-adventure-trip-amazing-world-3-collectors-edition.json](./283900-adventure-trip-amazing-world-3-collectors-edition.json) |
@@ -2964,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alcazar: The Forgotten Fortress | 12248 | [12248-alcazar-the-forgotten-fortress.json](./12248-alcazar-the-forgotten-fortress.json) |
 | Alchademy | 186612 | [186612-alchademy.json](./186612-alchademy.json) |
 | Alchem It | 211268 | [211268-alchem-it.json](./211268-alchem-it.json) |
+| Alchemelee | 128333 | [128333-alchemelee.json](./128333-alchemelee.json) |
 | Alchementalist | 157082 | [157082-alchementalist.json](./157082-alchementalist.json) |
 | Alchemia | 117032 | [117032-alchemia.json](./117032-alchemia.json) |
 | Alchemia Story | 109917 | [109917-alchemia-story.json](./109917-alchemia-story.json) |
@@ -4028,6 +4032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amairo Chocolate 3 | 381003 | [381003-amairo-chocolate-3.json](./381003-amairo-chocolate-3.json) |
 | Amakano | 374832 | [374832-amakano.json](./374832-amakano.json) |
 | Amakano: Second Season | 128405 | [128405-amakano-second-season.json](./128405-amakano-second-season.json) |
+| Amakano: Second Season + | 128415 | [128415-amakano-second-season.json](./128415-amakano-second-season.json) |
 | Amakano+ | 128378 | [128378-amakano.json](./128378-amakano.json) |
 | Amakta | 358989 | [358989-amakta.json](./358989-amakta.json) |
 | Amakuchi! Dairoujou | 67368 | [67368-amakuchi-dairoujou.json](./67368-amakuchi-dairoujou.json) |
@@ -7551,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artists of the World Bundle | 164792 | [164792-artists-of-the-world-bundle.json](./164792-artists-of-the-world-bundle.json) |
 | Artizens | 36032 | [36032-artizens.json](./36032-artizens.json) |
 | Arto | 199454 | [199454-arto.json](./199454-arto.json) |
+| Artpartment | 128425 | [128425-artpartment.json](./128425-artpartment.json) |
 | ArtPulse | 129123 | [129123-artpulse.json](./129123-artpulse.json) |
 | Arts & Hearts Academy | 275098 | [275098-arts-and-hearts-academy.json](./275098-arts-and-hearts-academy.json) |
 | Artsec | 398333 | [398333-artsec.json](./398333-artsec.json) |
