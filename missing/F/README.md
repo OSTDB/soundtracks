@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fame City | 325530 | [325530-fame-city.json](./325530-fame-city.json) |
 | Fame or Folly | 394181 | [394181-fame-or-folly.json](./394181-fame-or-folly.json) |
 | Famicom Bunko: Hajimari no Mori | 42245 | [42245-famicom-bunko-hajimari-no-mori.json](./42245-famicom-bunko-hajimari-no-mori.json) |
+| Famicom Detective Club: The Girl Who Stands Behind | 122245 | [122245-famicom-detective-club-the-girl-who-stands-behind.json](./122245-famicom-detective-club-the-girl-who-stands-behind.json) |
 | Famicom Fighters | 307666 | [307666-famicom-fighters.json](./307666-famicom-fighters.json) |
 | Famicom Hinshi Tai | 328619 | [328619-famicom-hinshi-tai.json](./328619-famicom-hinshi-tai.json) |
 | Famicom Igo Nyuumon | 48331 | [48331-famicom-igo-nyuumon.json](./48331-famicom-igo-nyuumon.json) |
@@ -1445,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 19: Platinum Expansion | 227361 | [227361-farming-simulator-19-platinum-expansion.json](./227361-farming-simulator-19-platinum-expansion.json) |
 | Farming Simulator 19: Premium Edition | 139999 | [139999-farming-simulator-19-premium-edition.json](./139999-farming-simulator-19-premium-edition.json) |
 | Farming Simulator 19: Rottne DLC | 166104 | [166104-farming-simulator-19-rottne-dlc.json](./166104-farming-simulator-19-rottne-dlc.json) |
+| Farming Simulator 20 | 122237 | [122237-farming-simulator-20.json](./122237-farming-simulator-20.json) |
 | Farming Simulator 2008 2 | 183965 | [183965-farming-simulator-2008-2.json](./183965-farming-simulator-2008-2.json) |
 | Farming Simulator 2011 | 3176 | [3176-farming-simulator-2011.json](./3176-farming-simulator-2011.json) |
 | Farming Simulator 2011: Classics | 166086 | [166086-farming-simulator-2011-classics.json](./166086-farming-simulator-2011-classics.json) |
