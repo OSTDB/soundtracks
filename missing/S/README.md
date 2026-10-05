@@ -2531,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Security 51 | 386228 | [386228-security-51.json](./386228-security-51.json) |
 | Security Booth | 159045 | [159045-security-booth.json](./159045-security-booth.json) |
 | Security Booth: Director's Cut | 205075 | [205075-security-booth-directors-cut.json](./205075-security-booth-directors-cut.json) |
+| Security Guard | 167565 | [167565-security-guard.json](./167565-security-guard.json) |
 | Security Guard Sex: Episode 3 | 312000 | [312000-security-guard-sex-episode-3.json](./312000-security-guard-sex-episode-3.json) |
 | Security: The Horrible Nights | 298319 | [298319-security-the-horrible-nights.json](./298319-security-the-horrible-nights.json) |
 | Sedap! A Culinary Adventure | 273429 | [273429-sedap-a-culinary-adventure.json](./273429-sedap-a-culinary-adventure.json) |
@@ -6695,6 +6696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyfish Rising | 340366 | [340366-skyfish-rising.json](./340366-skyfish-rising.json) |
 | Skyforce | 174856 | [174856-skyforce.json](./174856-skyforce.json) |
 | Skyforge Trails | 401097 | [401097-skyforge-trails.json](./401097-skyforge-trails.json) |
+| Skyforge: Bounty Hunter Collector's Edition | 167666 | [167666-skyforge-bounty-hunter-collectors-edition.json](./167666-skyforge-bounty-hunter-collectors-edition.json) |
 | Skyformer | 257013 | [257013-skyformer.json](./257013-skyformer.json) |
 | Skyfort | 310170 | [310170-skyfort.json](./310170-skyfort.json) |
 | Skyfox II: The Cygnus Conflict | 55086 | [55086-skyfox-ii-the-cygnus-conflict.json](./55086-skyfox-ii-the-cygnus-conflict.json) |
@@ -18097,6 +18099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Dead Poly: Bow | 274637 | [274637-survival-dead-poly-bow.json](./274637-survival-dead-poly-bow.json) |
 | Survival Denied | 132228 | [132228-survival-denied.json](./132228-survival-denied.json) |
 | Survival driver 2: Heavy vehicles | 55277 | [55277-survival-driver-2-heavy-vehicles.json](./55277-survival-driver-2-heavy-vehicles.json) |
+| Survival Engine | 167561 | [167561-survival-engine.json](./167561-survival-engine.json) |
 | Survival Epoch | 215704 | [215704-survival-epoch.json](./215704-survival-epoch.json) |
 | Survival Escape Room | 156180 | [156180-survival-escape-room.json](./156180-survival-escape-room.json) |
 | Survival Express | 232154 | [232154-survival-express.json](./232154-survival-express.json) |
