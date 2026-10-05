@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous! Too Sweet!! | 148460 | [148460-dangerous-too-sweet.json](./148460-dangerous-too-sweet.json) |
 | DangerousPath | 369640 | [369640-dangerouspath.json](./369640-dangerouspath.json) |
 | Dangers Afloat | 176459 | [176459-dangers-afloat.json](./176459-dangers-afloat.json) |
+| DangerZone VR | 166049 | [166049-dangerzone-vr.json](./166049-dangerzone-vr.json) |
 | Danghost | 216741 | [216741-danghost.json](./216741-danghost.json) |
 | Dangle | 274996 | [274996-dangle.json](./274996-dangle.json) |
 | Dango Dash | 228508 | [228508-dango-dash.json](./228508-dango-dash.json) |
@@ -3800,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Shadowkeep - Season of the Worthy | 135147 | [135147-destiny-2-shadowkeep-season-of-the-worthy.json](./135147-destiny-2-shadowkeep-season-of-the-worthy.json) |
 | Destiny 2: The Witch Queen - Season of Plunder | 214424 | [214424-destiny-2-the-witch-queen-season-of-plunder.json](./214424-destiny-2-the-witch-queen-season-of-plunder.json) |
 | Destiny 2: The Witch Queen - Season of the Seraph | 228435 | [228435-destiny-2-the-witch-queen-season-of-the-seraph.json](./228435-destiny-2-the-witch-queen-season-of-the-seraph.json) |
+| Destiny 2: The Witch Queen Deluxe + Bungie 30th Anniversary Bundle | 166036 | [166036-destiny-2-the-witch-queen-deluxe-bungie-30th-anniversary-bundle.json](./166036-destiny-2-the-witch-queen-deluxe-bungie-30th-anniversary-bundle.json) |
 | Destiny 2: Warmind | 97258 | [97258-destiny-2-warmind.json](./97258-destiny-2-warmind.json) |
 | Destiny Chaser | 114413 | [114413-destiny-chaser.json](./114413-destiny-chaser.json) |
 | Destiny Code | 358379 | [358379-destiny-code.json](./358379-destiny-code.json) |
