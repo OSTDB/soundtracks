@@ -4299,6 +4299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmasdius | 63887 | [63887-christmasdius.json](./63887-christmasdius.json) |
 | Christmasville: The Missing Santa Adventures | 89195 | [89195-christmasville-the-missing-santa-adventures.json](./89195-christmasville-the-missing-santa-adventures.json) |
 | Christminster | 60021 | [60021-christminster.json](./60021-christminster.json) |
+| Chrith: Ai no Tabidachi | 137980 | [137980-chrith-ai-no-tabidachi.json](./137980-chrith-ai-no-tabidachi.json) |
 | Chroam | 349858 | [349858-chroam.json](./349858-chroam.json) |
 | Chroisen 2 | 188388 | [188388-chroisen-2.json](./188388-chroisen-2.json) |
 | Chroma | 172046 | [172046-chroma.json](./172046-chroma.json) |
@@ -5554,6 +5555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Heart | 211822 | [211822-cloud-heart.json](./211822-cloud-heart.json) |
 | Cloud House | 236497 | [236497-cloud-house.json](./236497-cloud-house.json) |
 | Cloud Master | 386335 | [386335-cloud-master.json](./386335-cloud-master.json) |
+| Cloud Meadow | 137958 | [137958-cloud-meadow.json](./137958-cloud-meadow.json) |
 | Cloud of Souls | 25766 | [25766-cloud-of-souls.json](./25766-cloud-of-souls.json) |
 | Cloud Piercer | 322767 | [322767-cloud-piercer.json](./322767-cloud-piercer.json) |
 | Cloud Pirates | 27687 | [27687-cloud-pirates.json](./27687-cloud-pirates.json) |
@@ -6683,6 +6685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comixxx Strip | 392936 | [392936-comixxx-strip.json](./392936-comixxx-strip.json) |
 | Comixxx Swap | 195741 | [195741-comixxx-swap.json](./195741-comixxx-swap.json) |
 | Commanager Tycoon | 98992 | [98992-commanager-tycoon.json](./98992-commanager-tycoon.json) |
+| Command | 137940 | [137940-command.json](./137940-command.json) |
 | Command & Colours: The Great War | 175382 | [175382-command-and-colours-the-great-war.json](./175382-command-and-colours-the-great-war.json) |
 | Command & Conquer | 1901 | [1901-command-and-conquer.json](./1901-command-and-conquer.json) |
 | Command & Conquer 3: Kane's Wrath | 395863 | [395863-command-and-conquer-3-kanes-wrath.json](./395863-command-and-conquer-3-kanes-wrath.json) |
@@ -7735,6 +7738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coronarun | 156704 | [156704-coronarun.json](./156704-coronarun.json) |
 | Coronation | 91381 | [91381-coronation.json](./91381-coronation.json) |
 | Coronaviral | 181764 | [181764-coronaviral.json](./181764-coronaviral.json) |
+| Coronavirus Quarantine Simulator | 137996 | [137996-coronavirus-quarantine-simulator.json](./137996-coronavirus-quarantine-simulator.json) |
 | Coronavirus: Nano Force | 165002 | [165002-coronavirus-nano-force.json](./165002-coronavirus-nano-force.json) |
 | CoronaViruses | 151556 | [151556-coronaviruses.json](./151556-coronaviruses.json) |
 | Coropata | 80582 | [80582-coropata.json](./80582-coropata.json) |
