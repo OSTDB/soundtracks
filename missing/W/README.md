@@ -3207,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WingNuts: Temporal Navigator | 201073 | [201073-wingnuts-temporal-navigator.json](./201073-wingnuts-temporal-navigator.json) |
 | Wings | 282664 | [282664-wings.json](./282664-wings.json) |
 | Wings | 5450 | [5450-wings.json](./5450-wings.json) |
+| Wings - sim | 141502 | [141502-wings-sim.json](./141502-wings-sim.json) |
 | Wings 1941 | 203571 | [203571-wings-1941.json](./203571-wings-1941.json) |
 | Wings 2 | 95474 | [95474-wings-2.json](./95474-wings-2.json) |
 | Wings 2: Aces High | 42577 | [42577-wings-2-aces-high.json](./42577-wings-2-aces-high.json) |
