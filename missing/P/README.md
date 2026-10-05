@@ -2205,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin no Mondai: The Wars | 141147 | [141147-penguin-no-mondai-the-wars.json](./141147-penguin-no-mondai-the-wars.json) |
 | Penguin Noir | 247764 | [247764-penguin-noir.json](./247764-penguin-noir.json) |
 | Penguin Pairs | 239109 | [239109-penguin-pairs.json](./239109-penguin-pairs.json) |
+| Penguin Panic | 162838 | [162838-penguin-panic.json](./162838-penguin-panic.json) |
 | Penguin Panic! | 311564 | [311564-penguin-panic.json](./311564-penguin-panic.json) |
 | Penguin Push | 146894 | [146894-penguin-push.json](./146894-penguin-push.json) |
 | Penguin Puzzle | 208883 | [208883-penguin-puzzle.json](./208883-penguin-puzzle.json) |
