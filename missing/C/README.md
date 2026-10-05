@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops Cold War - Season Four | 152117 | [152117-call-of-duty-black-ops-cold-war-season-four.json](./152117-call-of-duty-black-ops-cold-war-season-four.json) |
 | Call of Duty: Black Ops Cold War - Season Six | 172674 | [172674-call-of-duty-black-ops-cold-war-season-six.json](./172674-call-of-duty-black-ops-cold-war-season-six.json) |
 | Call of Duty: Black Ops Cold War - Ultimate Edition | 139887 | [139887-call-of-duty-black-ops-cold-war-ultimate-edition.json](./139887-call-of-duty-black-ops-cold-war-ultimate-edition.json) |
+| Call of Duty: Black Ops Collection | 136183 | [136183-call-of-duty-black-ops-collection.json](./136183-call-of-duty-black-ops-collection.json) |
 | Call of Duty: Black Ops II | 21865 | [21865-call-of-duty-black-ops-ii.json](./21865-call-of-duty-black-ops-ii.json) |
 | Call of Duty: Black Ops II - Care Package | 18352 | [18352-call-of-duty-black-ops-ii-care-package.json](./18352-call-of-duty-black-ops-ii-care-package.json) |
 | Call of Duty: Black Ops II - Nuketown 2025 | 295256 | [295256-call-of-duty-black-ops-ii-nuketown-2025.json](./295256-call-of-duty-black-ops-ii-nuketown-2025.json) |
@@ -378,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare 3 - Collection 4: Final Assault | 194417 | [194417-call-of-duty-modern-warfare-3-collection-4-final-assault.json](./194417-call-of-duty-modern-warfare-3-collection-4-final-assault.json) |
 | Call of Duty: Modern Warfare 3 - Defiance | 134652 | [134652-call-of-duty-modern-warfare-3-defiance.json](./134652-call-of-duty-modern-warfare-3-defiance.json) |
 | Call of Duty: Modern Warfare 3 - Hardened Edition | 47425 | [47425-call-of-duty-modern-warfare-3-hardened-edition.json](./47425-call-of-duty-modern-warfare-3-hardened-edition.json) |
+| Call of Duty: Modern Warfare Collection | 136209 | [136209-call-of-duty-modern-warfare-collection.json](./136209-call-of-duty-modern-warfare-collection.json) |
 | Call of Duty: Modern Warfare II - Graffiti Tactical: Pro Pack | 257325 | [257325-call-of-duty-modern-warfare-ii-graffiti-tactical-pro-pack.json](./257325-call-of-duty-modern-warfare-ii-graffiti-tactical-pro-pack.json) |
 | Call of Duty: Modern Warfare II - Griffin: Pro Pack | 254759 | [254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json](./254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json) |
 | Call of Duty: Modern Warfare II - Season 03 | 243777 | [243777-call-of-duty-modern-warfare-ii-season-03.json](./243777-call-of-duty-modern-warfare-ii-season-03.json) |
@@ -6114,6 +6116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collapsus | 99413 | [99413-collapsus.json](./99413-collapsus.json) |
 | Collar x Malice: The V-Day Incident! | 384664 | [384664-collar-x-malice-the-v-day-incident.json](./384664-collar-x-malice-the-v-day-incident.json) |
 | Collar x Malice: Unlimited | 69344 | [69344-collar-x-malice-unlimited.json](./69344-collar-x-malice-unlimited.json) |
+| Collar X Malice: Unlimited - Limited Edition | 136207 | [136207-collar-x-malice-unlimited-limited-edition.json](./136207-collar-x-malice-unlimited-limited-edition.json) |
 | Collared | 133984 | [133984-collared.json](./133984-collared.json) |
 | Collateral | 380080 | [380080-collateral.json](./380080-collateral.json) |
 | Collateral Dungeon | 290958 | [290958-collateral-dungeon.json](./290958-collateral-dungeon.json) |
