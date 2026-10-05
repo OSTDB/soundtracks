@@ -3056,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Eater: Off Shot - Twin Pack Vol. 2 | 216265 | [216265-god-eater-off-shot-twin-pack-vol-2.json](./216265-god-eater-off-shot-twin-pack-vol-2.json) |
 | God Eater: Off Shot - Twin Pack Vol. 3 | 216266 | [216266-god-eater-off-shot-twin-pack-vol-3.json](./216266-god-eater-off-shot-twin-pack-vol-3.json) |
 | God Eater: Off Shot - Twin Pack Vol. 4 | 216267 | [216267-god-eater-off-shot-twin-pack-vol-4.json](./216267-god-eater-off-shot-twin-pack-vol-4.json) |
+| God Eater: Off Shot - Twin Pack Vol. 5 | 148159 | [148159-god-eater-off-shot-twin-pack-vol-5.json](./148159-god-eater-off-shot-twin-pack-vol-5.json) |
 | God Eater: Off Shot - Twin Pack Vol. 6 | 216268 | [216268-god-eater-off-shot-twin-pack-vol-6.json](./216268-god-eater-off-shot-twin-pack-vol-6.json) |
 | God Eater: Off Shot - Twin Pack Vol. 7 | 216269 | [216269-god-eater-off-shot-twin-pack-vol-7.json](./216269-god-eater-off-shot-twin-pack-vol-7.json) |
 | God Fishing | 358872 | [358872-god-fishing.json](./358872-god-fishing.json) |
