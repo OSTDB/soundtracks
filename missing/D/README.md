@@ -658,10 +658,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darius: Cozmic Revelation - Collector's Edition | 139993 | [139993-darius-cozmic-revelation-collectors-edition.json](./139993-darius-cozmic-revelation-collectors-edition.json) |
 | Dariusburst | 18193 | [18193-dariusburst.json](./18193-dariusburst.json) |
 | Dariusburst: Another Chronicle EX | 138014 | [138014-dariusburst-another-chronicle-ex.json](./138014-dariusburst-another-chronicle-ex.json) |
+| Dariusburst: Chronicle Saviours - Battle Garegga | 168180 | [168180-dariusburst-chronicle-saviours-battle-garegga.json](./168180-dariusburst-chronicle-saviours-battle-garegga.json) |
 | Dariusburst: Chronicle Saviours - Core + Taito & Sega Packs | 222397 | [222397-dariusburst-chronicle-saviours-core-taito-and-sega-packs.json](./222397-dariusburst-chronicle-saviours-core-taito-and-sega-packs.json) |
+| Dariusburst: Chronicle Saviours - Deathsmiles | 168182 | [168182-dariusburst-chronicle-saviours-deathsmiles.json](./168182-dariusburst-chronicle-saviours-deathsmiles.json) |
+| Dariusburst: Chronicle Saviours - DoDonPachi Resurrection | 168179 | [168179-dariusburst-chronicle-saviours-dodonpachi-resurrection.json](./168179-dariusburst-chronicle-saviours-dodonpachi-resurrection.json) |
+| Dariusburst: Chronicle Saviours - Fantasy Zone | 168175 | [168175-dariusburst-chronicle-saviours-fantasy-zone.json](./168175-dariusburst-chronicle-saviours-fantasy-zone.json) |
 | Dariusburst: Chronicle Saviours - Galaxy Force II | 168171 | [168171-dariusburst-chronicle-saviours-galaxy-force-ii.json](./168171-dariusburst-chronicle-saviours-galaxy-force-ii.json) |
+| Dariusburst: Chronicle Saviours - Ketsui | 168177 | [168177-dariusburst-chronicle-saviours-ketsui.json](./168177-dariusburst-chronicle-saviours-ketsui.json) |
 | Dariusburst: Chronicle Saviours - Limited Edition | 44536 | [44536-dariusburst-chronicle-saviours-limited-edition.json](./44536-dariusburst-chronicle-saviours-limited-edition.json) |
+| Dariusburst: Chronicle Saviours - Mahoudaisakusen | 168172 | [168172-dariusburst-chronicle-saviours-mahoudaisakusen.json](./168172-dariusburst-chronicle-saviours-mahoudaisakusen.json) |
+| Dariusburst: Chronicle Saviours - Metal Black | 168181 | [168181-dariusburst-chronicle-saviours-metal-black.json](./168181-dariusburst-chronicle-saviours-metal-black.json) |
 | Dariusburst: Chronicle Saviours - Night Striker | 168170 | [168170-dariusburst-chronicle-saviours-night-striker.json](./168170-dariusburst-chronicle-saviours-night-striker.json) |
+| Dariusburst: Chronicle Saviours - RayForce | 168176 | [168176-dariusburst-chronicle-saviours-rayforce.json](./168176-dariusburst-chronicle-saviours-rayforce.json) |
+| Dariusburst: Chronicle Saviours - Side Arms Hyper Dyne | 168178 | [168178-dariusburst-chronicle-saviours-side-arms-hyper-dyne.json](./168178-dariusburst-chronicle-saviours-side-arms-hyper-dyne.json) |
+| Dariusburst: Chronicle Saviours - Soukyuugurentai | 168173 | [168173-dariusburst-chronicle-saviours-soukyuugurentai.json](./168173-dariusburst-chronicle-saviours-soukyuugurentai.json) |
+| Dariusburst: Chronicle Saviours - Space Harrier | 168174 | [168174-dariusburst-chronicle-saviours-space-harrier.json](./168174-dariusburst-chronicle-saviours-space-harrier.json) |
+| Dariusburst: Chronicle Saviours - Varth: Operation Thunderstorm | 168183 | [168183-dariusburst-chronicle-saviours-varth-operation-thunderstorm.json](./168183-dariusburst-chronicle-saviours-varth-operation-thunderstorm.json) |
 | Dariusburst: Second Prologue | 22340 | [22340-dariusburst-second-prologue.json](./22340-dariusburst-second-prologue.json) |
 | Dark & Under | 144371 | [144371-dark-and-under.json](./144371-dark-and-under.json) |
 | Dark 7 | 310528 | [310528-dark-7.json](./310528-dark-7.json) |
@@ -3956,6 +3968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Time | 180035 | [180035-detective-time.json](./180035-detective-time.json) |
 | Detective Turner: If Looks Could Kill | 404825 | [404825-detective-turner-if-looks-could-kill.json](./404825-detective-turner-if-looks-could-kill.json) |
 | Detective VR | 360772 | [360772-detective-vr.json](./360772-detective-vr.json) |
+| Detective VR: NFT Secret Files | 168114 | [168114-detective-vr-nft-secret-files.json](./168114-detective-vr-nft-secret-files.json) |
 | Detective Worden | 358876 | [358876-detective-worden.json](./358876-detective-worden.json) |
 | Detective Zhuge | 267422 | [267422-detective-zhuge.json](./267422-detective-zhuge.json) |
 | Detective_Psychic | 103182 | [103182-detective-psychic.json](./103182-detective-psychic.json) |
