@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naval Action: Santa Ana | 155568 | [155568-naval-action-santa-ana.json](./155568-naval-action-santa-ana.json) |
 | Naval Action: Travel Balloon | 155567 | [155567-naval-action-travel-balloon.json](./155567-naval-action-travel-balloon.json) |
 | Naval Action: Trincomalee | 155565 | [155565-naval-action-trincomalee.json](./155565-naval-action-trincomalee.json) |
+| Naval Armada | 127732 | [127732-naval-armada.json](./127732-naval-armada.json) |
 | Naval Assault: The Killing Tide | 47403 | [47403-naval-assault-the-killing-tide.json](./47403-naval-assault-the-killing-tide.json) |
 | Naval Battle Online | 224533 | [224533-naval-battle-online.json](./224533-naval-battle-online.json) |
 | Naval Battles Simulator | 130705 | [130705-naval-battles-simulator.json](./130705-naval-battles-simulator.json) |
