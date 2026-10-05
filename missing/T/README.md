@@ -11019,6 +11019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne of Fate: Tiger Roar | 171904 | [171904-throne-of-fate-tiger-roar.json](./171904-throne-of-fate-tiger-roar.json) |
 | Throne of Gods | 124692 | [124692-throne-of-gods.json](./124692-throne-of-gods.json) |
 | Throne of Magic | 108502 | [108502-throne-of-magic.json](./108502-throne-of-magic.json) |
+| Throne of the Dead VR: Halloween | 161726 | [161726-throne-of-the-dead-vr-halloween.json](./161726-throne-of-the-dead-vr-halloween.json) |
 | Throne of Valoria | 323194 | [323194-throne-of-valoria.json](./323194-throne-of-valoria.json) |
 | Throne Quest | 112953 | [112953-throne-quest.json](./112953-throne-quest.json) |
 | Throne Quest Deluxe | 122298 | [122298-throne-quest-deluxe.json](./122298-throne-quest-deluxe.json) |
