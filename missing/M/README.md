@@ -6327,6 +6327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind the Pipes! | 234708 | [234708-mind-the-pipes.json](./234708-mind-the-pipes.json) |
 | Mind the Vikings | 81714 | [81714-mind-the-vikings.json](./81714-mind-the-vikings.json) |
 | Mind Trap | 98378 | [98378-mind-trap.json](./98378-mind-trap.json) |
+| Mind VR Exploration | 168110 | [168110-mind-vr-exploration.json](./168110-mind-vr-exploration.json) |
 | Mind Within | 344384 | [344384-mind-within.json](./344384-mind-within.json) |
 | Mind Your Manas | 118447 | [118447-mind-your-manas.json](./118447-mind-your-manas.json) |
 | Mind-Blowing Girls | 158148 | [158148-mind-blowing-girls.json](./158148-mind-blowing-girls.json) |
