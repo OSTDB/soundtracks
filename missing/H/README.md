@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacking Simulator | 256363 | [256363-hacking-simulator.json](./256363-hacking-simulator.json) |
 | HackLab | 185142 | [185142-hacklab.json](./185142-hacklab.json) |
 | Hacknet | 11707 | [11707-hacknet.json](./11707-hacknet.json) |
+| HackOS | 145923 | [145923-hackos.json](./145923-hackos.json) |
 | Hackshot | 173263 | [173263-hackshot.json](./173263-hackshot.json) |
 | HackSlash | 361894 | [361894-hackslash.json](./361894-hackslash.json) |
 | HackStack | 200442 | [200442-hackstack.json](./200442-hackstack.json) |
