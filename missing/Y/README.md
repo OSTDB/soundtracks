@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yaroze Rally | 296014 | [296014-yaroze-rally.json](./296014-yaroze-rally.json) |
 | Yarozians | 296015 | [296015-yarozians.json](./296015-yarozians.json) |
 | Yars: Recharged | 211321 | [211321-yars-recharged.json](./211321-yars-recharged.json) |
+| Yars' Revenge | 151837 | [151837-yars-revenge.json](./151837-yars-revenge.json) |
 | Yart | 274124 | [274124-yart.json](./274124-yart.json) |
 | Yarudora Portable: Blood the Last Vampire | 65025 | [65025-yarudora-portable-blood-the-last-vampire.json](./65025-yarudora-portable-blood-the-last-vampire.json) |
 | Yarudora Series Vol. 1: Double Cast | 79353 | [79353-yarudora-series-vol-1-double-cast.json](./79353-yarudora-series-vol-1-double-cast.json) |
