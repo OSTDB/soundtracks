@@ -3241,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing Bottaflies | 286567 | [286567-chasing-bottaflies.json](./286567-chasing-bottaflies.json) |
 | Chasing Demons | 150553 | [150553-chasing-demons.json](./150553-chasing-demons.json) |
 | Chasing Kaleidorider | 343321 | [343321-chasing-kaleidorider.json](./343321-chasing-kaleidorider.json) |
+| Chasing Light | 132582 | [132582-chasing-light.json](./132582-chasing-light.json) |
 | Chasing Sunsets | 323816 | [323816-chasing-sunsets.json](./323816-chasing-sunsets.json) |
 | Chasing Tail | 160240 | [160240-chasing-tail.json](./160240-chasing-tail.json) |
 | Chasing the Universe | 367524 | [367524-chasing-the-universe.json](./367524-chasing-the-universe.json) |
@@ -5441,6 +5442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CLINK | 345549 | [345549-clink.json](./345549-clink.json) |
 | Clinton vs. Trump: Head Soccer Challenge | 261526 | [261526-clinton-vs-trump-head-soccer-challenge.json](./261526-clinton-vs-trump-head-soccer-challenge.json) |
 | Clione's Bomb-Bomb Sweeper | 369050 | [369050-cliones-bomb-bomb-sweeper.json](./369050-cliones-bomb-bomb-sweeper.json) |
+| Clipped | 132588 | [132588-clipped.json](./132588-clipped.json) |
 | Clippyworld: An Unexpected Journey | 260787 | [260787-clippyworld-an-unexpected-journey.json](./260787-clippyworld-an-unexpected-journey.json) |
 | Clive 'N' Wrench | 59598 | [59598-clive-n-wrench.json](./59598-clive-n-wrench.json) |
 | Clive 'N' Wrench: Collector's Edition | 222955 | [222955-clive-n-wrench-collectors-edition.json](./222955-clive-n-wrench-collectors-edition.json) |
@@ -5572,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud House | 236497 | [236497-cloud-house.json](./236497-cloud-house.json) |
 | Cloud Master | 386335 | [386335-cloud-master.json](./386335-cloud-master.json) |
 | Cloud Meadow | 137958 | [137958-cloud-meadow.json](./137958-cloud-meadow.json) |
+| Cloud Miners | 132589 | [132589-cloud-miners.json](./132589-cloud-miners.json) |
 | Cloud of Souls | 25766 | [25766-cloud-of-souls.json](./25766-cloud-of-souls.json) |
 | Cloud Piercer | 322767 | [322767-cloud-piercer.json](./322767-cloud-piercer.json) |
 | Cloud Pirates | 27687 | [27687-cloud-pirates.json](./27687-cloud-pirates.json) |
