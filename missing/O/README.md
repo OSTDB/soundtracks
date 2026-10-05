@@ -1909,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Flashpoint: Red Hammer | 449 | [449-operation-flashpoint-red-hammer.json](./449-operation-flashpoint-red-hammer.json) |
 | Operation Flashpoint: Resistance | 448 | [448-operation-flashpoint-resistance.json](./448-operation-flashpoint-resistance.json) |
 | Operation Food to Gold | 278385 | [278385-operation-food-to-gold.json](./278385-operation-food-to-gold.json) |
+| Operation Fungus | 124576 | [124576-operation-fungus.json](./124576-operation-fungus.json) |
 | Operation Gekkou | 210688 | [210688-operation-gekkou.json](./210688-operation-gekkou.json) |
 | Operation H.O.P.E. | 392784 | [392784-operation-h-o-p-e.json](./392784-operation-h-o-p-e.json) |
 | Operation HuntingHawk : Breakthrough | 367938 | [367938-operation-huntinghawk-breakthrough.json](./367938-operation-huntinghawk-breakthrough.json) |
@@ -2025,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oracle | 366368 | [366368-oracle.json](./366368-oracle.json) |
 | Oracle 5000 | 360715 | [360715-oracle-5000.json](./360715-oracle-5000.json) |
 | Oracle Chain | 181241 | [181241-oracle-chain.json](./181241-oracle-chain.json) |
+| Oracle of Askigaga | 124648 | [124648-oracle-of-askigaga.json](./124648-oracle-of-askigaga.json) |
 | Oracle of Meles | 304382 | [304382-oracle-of-meles.json](./304382-oracle-of-meles.json) |
 | Oracle Pine | 181674 | [181674-oracle-pine.json](./181674-oracle-pine.json) |
 | Oracle Trials | 157011 | [157011-oracle-trials.json](./157011-oracle-trials.json) |
