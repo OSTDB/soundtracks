@@ -5230,6 +5230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaltech: Battledrome | 73516 | [73516-metaltech-battledrome.json](./73516-metaltech-battledrome.json) |
 | Metaltech: Earthsiege - Expansion Pack | 73554 | [73554-metaltech-earthsiege-expansion-pack.json](./73554-metaltech-earthsiege-expansion-pack.json) |
 | Metaltech: Earthsiege Speech Pack | 98937 | [98937-metaltech-earthsiege-speech-pack.json](./98937-metaltech-earthsiege-speech-pack.json) |
+| Metalworking | 168632 | [168632-metalworking.json](./168632-metalworking.json) |
 | Metalyx | 354579 | [354579-metalyx.json](./354579-metalyx.json) |
 | Metamaze | 178491 | [178491-metamaze.json](./178491-metamaze.json) |
 | Metamon | 227835 | [227835-metamon.json](./227835-metamon.json) |
