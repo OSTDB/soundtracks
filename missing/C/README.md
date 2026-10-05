@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canal Control | 243702 | [243702-canal-control.json](./243702-canal-control.json) |
 | Canal Towns | 197335 | [197335-canal-towns.json](./197335-canal-towns.json) |
 | Canari | 51580 | [51580-canari.json](./51580-canari.json) |
+| Canary in a Crater | 148138 | [148138-canary-in-a-crater.json](./148138-canary-in-a-crater.json) |
 | Canasta 3D Premium | 118406 | [118406-canasta-3d-premium.json](./118406-canasta-3d-premium.json) |
 | Candance Kane's Candy Factory | 137475 | [137475-candance-kanes-candy-factory.json](./137475-candance-kanes-candy-factory.json) |
 | Candela | 193258 | [193258-candela.json](./193258-candela.json) |
@@ -3465,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess in the Park | 254438 | [254438-chess-in-the-park.json](./254438-chess-in-the-park.json) |
 | Chess Infinity | 324987 | [324987-chess-infinity.json](./324987-chess-infinity.json) |
 | Chess Knights: Eldritch Hunter | 160166 | [160166-chess-knights-eldritch-hunter.json](./160166-chess-knights-eldritch-hunter.json) |
+| Chess Knights: Shinobi | 148133 | [148133-chess-knights-shinobi.json](./148133-chess-knights-shinobi.json) |
 | Chess Knights: Viking Lands | 135662 | [135662-chess-knights-viking-lands.json](./135662-chess-knights-viking-lands.json) |
 | Chess Master | 245540 | [245540-chess-master.json](./245540-chess-master.json) |
 | Chess Master | 247054 | [247054-chess-master.json](./247054-chess-master.json) |
@@ -8542,6 +8544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Nitro Kart | 210237 | [210237-crash-nitro-kart.json](./210237-crash-nitro-kart.json) |
 | Crash Nitro Kart | 210238 | [210238-crash-nitro-kart.json](./210238-crash-nitro-kart.json) |
 | Crash Nitro Kart | 222884 | [222884-crash-nitro-kart.json](./222884-crash-nitro-kart.json) |
+| Crash Nitro Kart 2 | 148164 | [148164-crash-nitro-kart-2.json](./148164-crash-nitro-kart-2.json) |
 | Crash Nitro Mini Golf | 336385 | [336385-crash-nitro-mini-golf.json](./336385-crash-nitro-mini-golf.json) |
 | Crash of Magic | 180150 | [180150-crash-of-magic.json](./180150-crash-of-magic.json) |
 | Crash of the Titans | 1190 | [1190-crash-of-the-titans.json](./1190-crash-of-the-titans.json) |
