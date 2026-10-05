@@ -1723,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mantra | 125900 | [125900-mantra.json](./125900-mantra.json) |
 | Mantra | 223438 | [223438-mantra.json](./223438-mantra.json) |
 | Mantras 3D | 100114 | [100114-mantras-3d.json](./100114-mantras-3d.json) |
+| Manual Intervention | 135060 | [135060-manual-intervention.json](./135060-manual-intervention.json) |
 | Manual Intervention VR | 154089 | [154089-manual-intervention-vr.json](./154089-manual-intervention-vr.json) |
 | Manufactoria 2022 | 150616 | [150616-manufactoria-2022.json](./150616-manufactoria-2022.json) |
 | Manufactory | 184414 | [184414-manufactory.json](./184414-manufactory.json) |
@@ -1996,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Artist: Talent Studio | 44059 | [44059-mario-artist-talent-studio.json](./44059-mario-artist-talent-studio.json) |
 | Mario Artist: Video Jockey Maker | 175954 | [175954-mario-artist-video-jockey-maker.json](./175954-mario-artist-video-jockey-maker.json) |
 | Mario Bobble | 41363 | [41363-mario-bobble.json](./41363-mario-bobble.json) |
+| Mario Bros: Just For Fun (Super Battle Bros) | 135071 | [135071-mario-bros-just-for-fun-super-battle-bros.json](./135071-mario-bros-just-for-fun-super-battle-bros.json) |
 | Mario Bros. | 172201 | [172201-mario-bros.json](./172201-mario-bros.json) |
 | Mario Bros. | 192918 | [192918-mario-bros.json](./192918-mario-bros.json) |
 | Mario Bros. | 192919 | [192919-mario-bros.json](./192919-mario-bros.json) |
@@ -2766,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Mayhem 4 | 337228 | [337228-mass-mayhem-4.json](./337228-mass-mayhem-4.json) |
 | Mass Plus | 126576 | [126576-mass-plus.json](./126576-mass-plus.json) |
 | Mass Vector | 34260 | [34260-mass-vector.json](./34260-mass-vector.json) |
+| Mass Warfare | 135068 | [135068-mass-warfare.json](./135068-mass-warfare.json) |
 | Massacre at the Mirage | 288987 | [288987-massacre-at-the-mirage.json](./288987-massacre-at-the-mirage.json) |
 | Massacre Tower | 161359 | [161359-massacre-tower.json](./161359-massacre-tower.json) |
 | MassEve | 350003 | [350003-masseve.json](./350003-masseve.json) |
@@ -2940,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MasterCube | 59901 | [59901-mastercube.json](./59901-mastercube.json) |
 | Mastermind | 95406 | [95406-mastermind.json](./95406-mastermind.json) |
 | Mastermind - Cows and Bulls Free Word Game | 89711 | [89711-mastermind-cows-and-bulls-free-word-game.json](./89711-mastermind-cows-and-bulls-free-word-game.json) |
+| Mastermind Classic | 135001 | [135001-mastermind-classic.json](./135001-mastermind-classic.json) |
 | Masterpack for Doom II | 300701 | [300701-masterpack-for-doom-ii.json](./300701-masterpack-for-doom-ii.json) |
 | Masterpiece | 351033 | [351033-masterpiece.json](./351033-masterpiece.json) |
 | Masterpiece Mansion | 209553 | [209553-masterpiece-mansion.json](./209553-masterpiece-mansion.json) |
@@ -3982,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet'N'Fuck: Star Mission | 219163 | [219163-meetnfuck-star-mission.json](./219163-meetnfuck-star-mission.json) |
 | Meet'N'Fuck: The Plumber | 221725 | [221725-meetnfuck-the-plumber.json](./221725-meetnfuck-the-plumber.json) |
 | Meeting Her | 253909 | [253909-meeting-her.json](./253909-meeting-her.json) |
+| Meeting in the Flesh | 135008 | [135008-meeting-in-the-flesh.json](./135008-meeting-in-the-flesh.json) |
 | Meeting Myself | 275919 | [275919-meeting-myself.json](./275919-meeting-myself.json) |
 | Meeuw | 135829 | [135829-meeuw.json](./135829-meeuw.json) |
 | MEFB | 130736 | [130736-mefb.json](./130736-mefb.json) |
