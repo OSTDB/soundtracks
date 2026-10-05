@@ -3292,6 +3292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Axolotl Project | 60022 | [60022-the-axolotl-project.json](./60022-the-axolotl-project.json) |
 | The Aztec Ruins | 308328 | [308328-the-aztec-ruins.json](./308328-the-aztec-ruins.json) |
 | The Azure One | 402373 | [402373-the-azure-one.json](./402373-the-azure-one.json) |
+| The Babysitter | 166037 | [166037-the-babysitter.json](./166037-the-babysitter.json) |
 | The Babysitter | 231454 | [231454-the-babysitter.json](./231454-the-babysitter.json) |
 | The Backroom: Lost and Found | 207763 | [207763-the-backroom-lost-and-found.json](./207763-the-backroom-lost-and-found.json) |
 | The Backrooms | 221748 | [221748-the-backrooms.json](./221748-the-backrooms.json) |
@@ -9693,6 +9694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of TigerQiuQiu: Sneak | 157656 | [157656-the-tower-of-tigerqiuqiu-sneak.json](./157656-the-tower-of-tigerqiuqiu-sneak.json) |
 | The Tower of TigerQiuQiu: Sniper | 157643 | [157643-the-tower-of-tigerqiuqiu-sniper.json](./157643-the-tower-of-tigerqiuqiu-sniper.json) |
 | The Tower of TigerQiuQiu: Space Force | 157641 | [157641-the-tower-of-tigerqiuqiu-space-force.json](./157641-the-tower-of-tigerqiuqiu-space-force.json) |
+| The Tower of TigerQiuQiu: Square Snake | 166136 | [166136-the-tower-of-tigerqiuqiu-square-snake.json](./166136-the-tower-of-tigerqiuqiu-square-snake.json) |
 | The Tower of TigerQiuQiu: Super Tigerio | 157666 | [157666-the-tower-of-tigerqiuqiu-super-tigerio.json](./157666-the-tower-of-tigerqiuqiu-super-tigerio.json) |
 | The Tower Of TigerQiuQiu: The Deep The Hill | 156111 | [156111-the-tower-of-tigerqiuqiu-the-deep-the-hill.json](./156111-the-tower-of-tigerqiuqiu-the-deep-the-hill.json) |
 | The Tower of TigerQiuQiu: Thief Mouse | 157637 | [157637-the-tower-of-tigerqiuqiu-thief-mouse.json](./157637-the-tower-of-tigerqiuqiu-thief-mouse.json) |
@@ -11156,6 +11158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tialucy and the Underground Labyrinth | 82845 | [82845-tialucy-and-the-underground-labyrinth.json](./82845-tialucy-and-the-underground-labyrinth.json) |
 | Tiamat X | 35900 | [35900-tiamat-x.json](./35900-tiamat-x.json) |
 | Tiamat's Drink | 127198 | [127198-tiamats-drink.json](./127198-tiamats-drink.json) |
+| Tian Hong Bookstore | 166035 | [166035-tian-hong-bookstore.json](./166035-tian-hong-bookstore.json) |
 | Tian Wang Xiang Mo Zhuan | 266286 | [266286-tian-wang-xiang-mo-zhuan.json](./266286-tian-wang-xiang-mo-zhuan.json) |
 | Tiān Yuán Chuánshuō | 407320 | [407320-tian-yuan-chuanshuo.json](./407320-tian-yuan-chuanshuo.json) |
 | Tiana Saves Xmas | 233077 | [233077-tiana-saves-xmas.json](./233077-tiana-saves-xmas.json) |
@@ -11324,6 +11327,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Fighter 1931: MP033 | 161666 | [161666-tiger-fighter-1931-mp033.json](./161666-tiger-fighter-1931-mp033.json) |
 | Tiger Fighter 1931: MP034 | 161651 | [161651-tiger-fighter-1931-mp034.json](./161651-tiger-fighter-1931-mp034.json) |
 | Tiger Fighter 1931: MP035 | 161654 | [161654-tiger-fighter-1931-mp035.json](./161654-tiger-fighter-1931-mp035.json) |
+| Tiger Fighter 1931: MP051 | 166130 | [166130-tiger-fighter-1931-mp051.json](./166130-tiger-fighter-1931-mp051.json) |
+| Tiger Fighter 1931: MP052 | 166131 | [166131-tiger-fighter-1931-mp052.json](./166131-tiger-fighter-1931-mp052.json) |
+| Tiger Fighter 1931: MP053 | 166128 | [166128-tiger-fighter-1931-mp053.json](./166128-tiger-fighter-1931-mp053.json) |
+| Tiger Fighter 1931: MP054 | 166134 | [166134-tiger-fighter-1931-mp054.json](./166134-tiger-fighter-1931-mp054.json) |
+| Tiger Fighter 1931: MP055 | 166129 | [166129-tiger-fighter-1931-mp055.json](./166129-tiger-fighter-1931-mp055.json) |
+| Tiger Fighter 1931: MP056 | 166127 | [166127-tiger-fighter-1931-mp056.json](./166127-tiger-fighter-1931-mp056.json) |
+| Tiger Fighter 1931: MP057 | 166126 | [166126-tiger-fighter-1931-mp057.json](./166126-tiger-fighter-1931-mp057.json) |
+| Tiger Fighter 1931: MP058 | 166133 | [166133-tiger-fighter-1931-mp058.json](./166133-tiger-fighter-1931-mp058.json) |
+| Tiger Fighter 1931: MP059 | 166132 | [166132-tiger-fighter-1931-mp059.json](./166132-tiger-fighter-1931-mp059.json) |
+| Tiger Fighter 1931: MP060 | 166135 | [166135-tiger-fighter-1931-mp060.json](./166135-tiger-fighter-1931-mp060.json) |
 | Tiger Fighter 1931: MP061 | 173757 | [173757-tiger-fighter-1931-mp061.json](./173757-tiger-fighter-1931-mp061.json) |
 | Tiger Fighter 1931: MP062 | 173742 | [173742-tiger-fighter-1931-mp062.json](./173742-tiger-fighter-1931-mp062.json) |
 | Tiger Fighter 1931: MP065 | 173746 | [173746-tiger-fighter-1931-mp065.json](./173746-tiger-fighter-1931-mp065.json) |
@@ -12052,6 +12065,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Volcano MP048 | 163933 | [163933-tiger-tank-59-i-volcano-mp048.json](./163933-tiger-tank-59-i-volcano-mp048.json) |
 | Tiger Tank 59 I: Volcano MP049 | 163937 | [163937-tiger-tank-59-i-volcano-mp049.json](./163937-tiger-tank-59-i-volcano-mp049.json) |
 | Tiger Tank 59 I: Volcano MP050 | 163927 | [163927-tiger-tank-59-i-volcano-mp050.json](./163927-tiger-tank-59-i-volcano-mp050.json) |
+| Tiger Tank 59 I: Volcano MP051 | 166125 | [166125-tiger-tank-59-i-volcano-mp051.json](./166125-tiger-tank-59-i-volcano-mp051.json) |
+| Tiger Tank 59 I: Volcano MP052 | 166121 | [166121-tiger-tank-59-i-volcano-mp052.json](./166121-tiger-tank-59-i-volcano-mp052.json) |
+| Tiger Tank 59 I: Volcano MP053 | 166122 | [166122-tiger-tank-59-i-volcano-mp053.json](./166122-tiger-tank-59-i-volcano-mp053.json) |
+| Tiger Tank 59 I: Volcano MP054 | 166119 | [166119-tiger-tank-59-i-volcano-mp054.json](./166119-tiger-tank-59-i-volcano-mp054.json) |
+| Tiger Tank 59 I: Volcano MP055 | 166124 | [166124-tiger-tank-59-i-volcano-mp055.json](./166124-tiger-tank-59-i-volcano-mp055.json) |
+| Tiger Tank 59 I: Volcano MP056 | 166118 | [166118-tiger-tank-59-i-volcano-mp056.json](./166118-tiger-tank-59-i-volcano-mp056.json) |
+| Tiger Tank 59 I: Volcano MP057 | 166116 | [166116-tiger-tank-59-i-volcano-mp057.json](./166116-tiger-tank-59-i-volcano-mp057.json) |
+| Tiger Tank 59 I: Volcano MP058 | 166117 | [166117-tiger-tank-59-i-volcano-mp058.json](./166117-tiger-tank-59-i-volcano-mp058.json) |
+| Tiger Tank 59 I: Volcano MP059 | 166123 | [166123-tiger-tank-59-i-volcano-mp059.json](./166123-tiger-tank-59-i-volcano-mp059.json) |
+| Tiger Tank 59 I: Volcano MP060 | 166120 | [166120-tiger-tank-59-i-volcano-mp060.json](./166120-tiger-tank-59-i-volcano-mp060.json) |
 | Tiger Tank 59 I: Volcano MP061 | 173567 | [173567-tiger-tank-59-i-volcano-mp061.json](./173567-tiger-tank-59-i-volcano-mp061.json) |
 | Tiger Tank 59 I: Volcano MP062 | 189451 | [189451-tiger-tank-59-i-volcano-mp062.json](./189451-tiger-tank-59-i-volcano-mp062.json) |
 | Tiger Tank 59 I: Volcano MP063 | 173561 | [173561-tiger-tank-59-i-volcano-mp063.json](./173561-tiger-tank-59-i-volcano-mp063.json) |
@@ -12113,7 +12136,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Winter Assault MP051 | 166108 | [166108-tiger-tank-59-i-winter-assault-mp051.json](./166108-tiger-tank-59-i-winter-assault-mp051.json) |
 | Tiger Tank 59 I: Winter Assault MP052 | 166106 | [166106-tiger-tank-59-i-winter-assault-mp052.json](./166106-tiger-tank-59-i-winter-assault-mp052.json) |
 | Tiger Tank 59 I: Winter Assault MP053 | 166107 | [166107-tiger-tank-59-i-winter-assault-mp053.json](./166107-tiger-tank-59-i-winter-assault-mp053.json) |
+| Tiger Tank 59 I: Winter Assault MP054 | 166115 | [166115-tiger-tank-59-i-winter-assault-mp054.json](./166115-tiger-tank-59-i-winter-assault-mp054.json) |
+| Tiger Tank 59 I: Winter Assault MP055 | 166111 | [166111-tiger-tank-59-i-winter-assault-mp055.json](./166111-tiger-tank-59-i-winter-assault-mp055.json) |
+| Tiger Tank 59 I: Winter Assault MP056 | 166114 | [166114-tiger-tank-59-i-winter-assault-mp056.json](./166114-tiger-tank-59-i-winter-assault-mp056.json) |
+| Tiger Tank 59 I: Winter Assault MP057 | 166113 | [166113-tiger-tank-59-i-winter-assault-mp057.json](./166113-tiger-tank-59-i-winter-assault-mp057.json) |
 | Tiger Tank 59 I: Winter Assault MP058 | 166109 | [166109-tiger-tank-59-i-winter-assault-mp058.json](./166109-tiger-tank-59-i-winter-assault-mp058.json) |
+| Tiger Tank 59 I: Winter Assault MP059 | 166110 | [166110-tiger-tank-59-i-winter-assault-mp059.json](./166110-tiger-tank-59-i-winter-assault-mp059.json) |
+| Tiger Tank 59 I: Winter Assault MP060 | 166112 | [166112-tiger-tank-59-i-winter-assault-mp060.json](./166112-tiger-tank-59-i-winter-assault-mp060.json) |
 | Tiger Tank 59 I: Winter Assault MP061 | 189468 | [189468-tiger-tank-59-i-winter-assault-mp061.json](./189468-tiger-tank-59-i-winter-assault-mp061.json) |
 | Tiger Tank 59 I: Winter Assault MP062 | 173761 | [173761-tiger-tank-59-i-winter-assault-mp062.json](./173761-tiger-tank-59-i-winter-assault-mp062.json) |
 | Tiger Tank 59 I: Winter Assault MP065 | 189463 | [189463-tiger-tank-59-i-winter-assault-mp065.json](./189463-tiger-tank-59-i-winter-assault-mp065.json) |
