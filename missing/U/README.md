@@ -1920,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | URU: Complete Chronicles | 16202 | [16202-uru-complete-chronicles.json](./16202-uru-complete-chronicles.json) |
 | Urubu | 199464 | [199464-urubu.json](./199464-urubu.json) |
 | Ururun Quest: Koiyuuki | 203392 | [203392-ururun-quest-koiyuuki.json](./203392-ururun-quest-koiyuuki.json) |
+| Urusei Yatsura CG Puzzle | 138521 | [138521-urusei-yatsura-cg-puzzle.json](./138521-urusei-yatsura-cg-puzzle.json) |
 | Urusei Yatsura: Endless Summer | 72697 | [72697-urusei-yatsura-endless-summer.json](./72697-urusei-yatsura-endless-summer.json) |
 | Urusei Yatsura: Koi no Survival Party | 66194 | [66194-urusei-yatsura-koi-no-survival-party.json](./66194-urusei-yatsura-koi-no-survival-party.json) |
 | Urusei Yatsura: Miss Tomobiki wo Sagase! | 66195 | [66195-urusei-yatsura-miss-tomobiki-wo-sagase.json](./66195-urusei-yatsura-miss-tomobiki-wo-sagase.json) |
