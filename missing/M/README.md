@@ -1794,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marathon: Durandal | 299291 | [299291-marathon-durandal.json](./299291-marathon-durandal.json) |
 | Marathon: Eternal X | 228484 | [228484-marathon-eternal-x.json](./228484-marathon-eternal-x.json) |
 | Marathon: Istoria | 252087 | [252087-marathon-istoria.json](./252087-marathon-istoria.json) |
+| Marathon: Rubicon X | 140942 | [140942-marathon-rubicon-x.json](./140942-marathon-rubicon-x.json) |
 | Maratoma do Faustão | 242648 | [242648-maratoma-do-faustao.json](./242648-maratoma-do-faustao.json) |
 | Maratón | 268120 | [268120-maraton.json](./268120-maraton.json) |
 | Marauder | 55054 | [55054-marauder.json](./55054-marauder.json) |
