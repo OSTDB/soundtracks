@@ -7260,6 +7260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missileman Spy Strike 2 | 131603 | [131603-missileman-spy-strike-2.json](./131603-missileman-spy-strike-2.json) |
 | Missileman's Christmas Calamity | 392478 | [392478-missilemans-christmas-calamity.json](./392478-missilemans-christmas-calamity.json) |
 | Missiles Away | 254149 | [254149-missiles-away.json](./254149-missiles-away.json) |
+| Missing | 153537 | [153537-missing.json](./153537-missing.json) |
 | Missing | 207870 | [207870-missing.json](./207870-missing.json) |
 | Missing | 213634 | [213634-missing.json](./213634-missing.json) |
 | Missing | 260677 | [260677-missing.json](./260677-missing.json) |
@@ -11021,6 +11022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Neighbor Alice | 157044 | [157044-my-neighbor-alice.json](./157044-my-neighbor-alice.json) |
 | My Neighbor is a Yandere?! | 143062 | [143062-my-neighbor-is-a-yandere.json](./143062-my-neighbor-is-a-yandere.json) |
 | My Neighbor's Lonely Wife 2 | 379889 | [379889-my-neighbors-lonely-wife-2.json](./379889-my-neighbors-lonely-wife-2.json) |
+| My Neighborhood Arcade | 153503 | [153503-my-neighborhood-arcade.json](./153503-my-neighborhood-arcade.json) |
 | My Neighbour Mr.Ghost | 265591 | [265591-my-neighbour-mr-ghost.json](./265591-my-neighbour-mr-ghost.json) |
 | My Nemesis and Hero | 186849 | [186849-my-nemesis-and-hero.json](./186849-my-nemesis-and-hero.json) |
 | My New Memories: The Beginning | 311191 | [311191-my-new-memories-the-beginning.json](./311191-my-new-memories-the-beginning.json) |
@@ -11484,6 +11486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Society 2: Hidden Puzzles | 250954 | [250954-mystery-society-2-hidden-puzzles.json](./250954-mystery-society-2-hidden-puzzles.json) |
 | Mystery Solitaire: Cthulhu Mythos 2 | 251852 | [251852-mystery-solitaire-cthulhu-mythos-2.json](./251852-mystery-solitaire-cthulhu-mythos-2.json) |
 | Mystery Solitaire: Cthulhu Mythos 3 | 270966 | [270966-mystery-solitaire-cthulhu-mythos-3.json](./270966-mystery-solitaire-cthulhu-mythos-3.json) |
+| Mystery Solitaire: Dreamcatcher | 153531 | [153531-mystery-solitaire-dreamcatcher.json](./153531-mystery-solitaire-dreamcatcher.json) |
 | Mystery Solitaire: Dreamcatcher 2 | 213317 | [213317-mystery-solitaire-dreamcatcher-2.json](./213317-mystery-solitaire-dreamcatcher-2.json) |
 | Mystery Solitaire: Grimm's Tales 2 | 122367 | [122367-mystery-solitaire-grimms-tales-2.json](./122367-mystery-solitaire-grimms-tales-2.json) |
 | Mystery Solitaire: Grimm's Tales 9 | 262586 | [262586-mystery-solitaire-grimms-tales-9.json](./262586-mystery-solitaire-grimms-tales-9.json) |
