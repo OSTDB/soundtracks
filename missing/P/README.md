@@ -6772,6 +6772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port Royale: Gold, Power and Pirates | 834 | [834-port-royale-gold-power-and-pirates.json](./834-port-royale-gold-power-and-pirates.json) |
 | Port Shipping Tycoon | 351718 | [351718-port-shipping-tycoon.json](./351718-port-shipping-tycoon.json) |
 | Portabellows | 247780 | [247780-portabellows.json](./247780-portabellows.json) |
+| Portability | 159769 | [159769-portability.json](./159769-portability.json) |
 | Portable Ops | 226174 | [226174-portable-ops.json](./226174-portable-ops.json) |
 | Portable VR | 244232 | [244232-portable-vr.json](./244232-portable-vr.json) |
 | Portal | 14546 | [14546-portal.json](./14546-portal.json) |
@@ -9490,6 +9491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli W Hitori | 256430 | [256430-puzzle-by-nikoli-w-hitori.json](./256430-puzzle-by-nikoli-w-hitori.json) |
 | Puzzle by Nikoli W Kakuro | 262657 | [262657-puzzle-by-nikoli-w-kakuro.json](./262657-puzzle-by-nikoli-w-kakuro.json) |
 | Puzzle by Nikoli W: Sudoku | 218511 | [218511-puzzle-by-nikoli-w-sudoku.json](./218511-puzzle-by-nikoli-w-sudoku.json) |
+| Puzzle Cafe VR | 159780 | [159780-puzzle-cafe-vr.json](./159780-puzzle-cafe-vr.json) |
 | Puzzle Castle | 209373 | [209373-puzzle-castle.json](./209373-puzzle-castle.json) |
 | Puzzle Cats | 240351 | [240351-puzzle-cats.json](./240351-puzzle-cats.json) |
 | Puzzle Champions | 213271 | [213271-puzzle-champions.json](./213271-puzzle-champions.json) |
