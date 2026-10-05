@@ -2795,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Exodus | 384511 | [384511-deep-space-exodus.json](./384511-deep-space-exodus.json) |
 | Deep Space Reflections | 116398 | [116398-deep-space-reflections.json](./116398-deep-space-reflections.json) |
 | Deep Space RPG: Origins | 110502 | [110502-deep-space-rpg-origins.json](./110502-deep-space-rpg-origins.json) |
+| Deep Space Rush | 125189 | [125189-deep-space-rush.json](./125189-deep-space-rush.json) |
 | Deep Space Scoundrel | 241936 | [241936-deep-space-scoundrel.json](./241936-deep-space-scoundrel.json) |
 | Deep Space Shooter | 111731 | [111731-deep-space-shooter.json](./111731-deep-space-shooter.json) |
 | Deep Space Solitude | 369692 | [369692-deep-space-solitude.json](./369692-deep-space-solitude.json) |
@@ -9414,6 +9415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem Trilogy: Chain Reaction | 69326 | [69326-duke-nukem-trilogy-chain-reaction.json](./69326-duke-nukem-trilogy-chain-reaction.json) |
 | Duke Nukem Trilogy: Proving Grounds | 69263 | [69263-duke-nukem-trilogy-proving-grounds.json](./69263-duke-nukem-trilogy-proving-grounds.json) |
 | Duke Nukem Xmas 2014 | 291979 | [291979-duke-nukem-xmas-2014.json](./291979-duke-nukem-xmas-2014.json) |
+| Duke Nukem: Alien Armageddon | 125287 | [125287-duke-nukem-alien-armageddon.json](./125287-duke-nukem-alien-armageddon.json) |
 | Duke Nukem: D-Day | 348367 | [348367-duke-nukem-d-day.json](./348367-duke-nukem-d-day.json) |
 | Duke Nukem: Land of the Babes | 8504 | [8504-duke-nukem-land-of-the-babes.json](./8504-duke-nukem-land-of-the-babes.json) |
 | Duke Nukem: Total Meltdown | 44885 | [44885-duke-nukem-total-meltdown.json](./44885-duke-nukem-total-meltdown.json) |
