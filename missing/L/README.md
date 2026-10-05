@@ -4901,6 +4901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Fox | 102918 | [102918-lovely-fox.json](./102918-lovely-fox.json) |
 | Lovely Fracture | 183363 | [183363-lovely-fracture.json](./183363-lovely-fracture.json) |
 | Lovely Goddess | 155019 | [155019-lovely-goddess.json](./155019-lovely-goddess.json) |
+| Lovely Hentai | 126391 | [126391-lovely-hentai.json](./126391-lovely-hentai.json) |
 | Lovely Island | 109620 | [109620-lovely-island.json](./109620-lovely-island.json) |
 | Lovely Koala | 325612 | [325612-lovely-koala.json](./325612-lovely-koala.json) |
 | Lovely Lady RPG | 316163 | [316163-lovely-lady-rpg.json](./316163-lovely-lady-rpg.json) |
