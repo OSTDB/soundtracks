@@ -3355,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroish | 207215 | [207215-heroish.json](./207215-heroish.json) |
 | Heroism | 155055 | [155055-heroism.json](./155055-heroism.json) |
 | Heroki | 96612 | [96612-heroki.json](./96612-heroki.json) |
+| Heroland: Knowble Edition | 136194 | [136194-heroland-knowble-edition.json](./136194-heroland-knowble-edition.json) |
 | Herolike | 26785 | [26785-herolike.json](./26785-herolike.json) |
 | Heron: Steam Machine | 67239 | [67239-heron-steam-machine.json](./67239-heron-steam-machine.json) |
 | HeroQuest: Return of the Witch Lord | 47226 | [47226-heroquest-return-of-the-witch-lord.json](./47226-heroquest-return-of-the-witch-lord.json) |
