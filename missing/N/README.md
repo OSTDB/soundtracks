@@ -3552,6 +3552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NOMBZ: Night of a Million Billion Zombies | 209408 | [209408-nombz-night-of-a-million-billion-zombies.json](./209408-nombz-night-of-a-million-billion-zombies.json) |
 | Nomia | 338730 | [338730-nomia.json](./338730-nomia.json) |
 | Nominal | 163312 | [163312-nominal.json](./163312-nominal.json) |
+| NomNom Sugar Game | 120216 | [120216-nomnom-sugar-game.json](./120216-nomnom-sugar-game.json) |
 | NomNomNom | 340580 | [340580-nomnomnom.json](./340580-nomnomnom.json) |
 | NomNomNom! | 239613 | [239613-nomnomnom.json](./239613-nomnomnom.json) |
 | Nomolos: Storming the Catsle | 48699 | [48699-nomolos-storming-the-catsle.json](./48699-nomolos-storming-the-catsle.json) |
