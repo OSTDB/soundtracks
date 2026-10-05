@@ -5404,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidewinder Max | 322940 | [322940-sidewinder-max.json](./322940-sidewinder-max.json) |
 | Sidius Nova | 413813 | [413813-sidius-nova.json](./413813-sidius-nova.json) |
 | Siebenpolis | 308458 | [308458-siebenpolis.json](./308458-siebenpolis.json) |
+| Siebenstreich's Nerdventure | 150270 | [150270-siebenstreichs-nerdventure.json](./150270-siebenstreichs-nerdventure.json) |
 | Siege | 78612 | [78612-siege.json](./78612-siege.json) |
 | Siege and Destroy | 29802 | [29802-siege-and-destroy.json](./29802-siege-and-destroy.json) |
 | Siege Hammer | 31105 | [31105-siege-hammer.json](./31105-siege-hammer.json) |
@@ -8684,6 +8685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sold Out | 253337 | [253337-sold-out.json](./253337-sold-out.json) |
 | Sold Soul | 261437 | [261437-sold-soul.json](./261437-sold-soul.json) |
 | Soldat | 8722 | [8722-soldat.json](./8722-soldat.json) |
+| Soldier | 150243 | [150243-soldier.json](./150243-soldier.json) |
 | Soldier Blade Special: Caravan Stage | 42024 | [42024-soldier-blade-special-caravan-stage.json](./42024-soldier-blade-special-caravan-stage.json) |
 | Soldier Blaster | 412972 | [412972-soldier-blaster.json](./412972-soldier-blaster.json) |
 | Soldier Boyz | 69225 | [69225-soldier-boyz.json](./69225-soldier-boyz.json) |
@@ -13271,6 +13273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardeus | 139453 | [139453-stardeus.json](./139453-stardeus.json) |
 | Stardew Valley Expanded | 210537 | [210537-stardew-valley-expanded.json](./210537-stardew-valley-expanded.json) |
 | Stardew Valley: Collector's Edition | 42895 | [42895-stardew-valley-collectors-edition.json](./42895-stardew-valley-collectors-edition.json) |
+| Stardiver | 150279 | [150279-stardiver.json](./150279-stardiver.json) |
 | Stardoll Dress Up Blog Stars | 357220 | [357220-stardoll-dress-up-blog-stars.json](./357220-stardoll-dress-up-blog-stars.json) |
 | Stardom 2000 | 380431 | [380431-stardom-2000.json](./380431-stardom-2000.json) |
 | Stardom Warriors: LaSalle Ishii's Childs Quest | 340027 | [340027-stardom-warriors-lasalle-ishiis-childs-quest.json](./340027-stardom-warriors-lasalle-ishiis-childs-quest.json) |
@@ -18637,6 +18640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Baby Girl Doll House | 104487 | [104487-sweet-baby-girl-doll-house.json](./104487-sweet-baby-girl-doll-house.json) |
 | Sweet Baby Girl Mermaid Life | 108852 | [108852-sweet-baby-girl-mermaid-life.json](./108852-sweet-baby-girl-mermaid-life.json) |
 | Sweet Baby Girl Summer Camp | 104489 | [104489-sweet-baby-girl-summer-camp.json](./104489-sweet-baby-girl-summer-camp.json) |
+| Sweet Bakery Tycoon | 150268 | [150268-sweet-bakery-tycoon.json](./150268-sweet-bakery-tycoon.json) |
 | Sweet Bakery Tycoon: Complete Edition | 284931 | [284931-sweet-bakery-tycoon-complete-edition.json](./284931-sweet-bakery-tycoon-complete-edition.json) |
 | Sweet Bakery Tycoon: Expansion Pack 1 | 237913 | [237913-sweet-bakery-tycoon-expansion-pack-1.json](./237913-sweet-bakery-tycoon-expansion-pack-1.json) |
 | Sweet Bakery Tycoon: Expansion Pack 2 | 237914 | [237914-sweet-bakery-tycoon-expansion-pack-2.json](./237914-sweet-bakery-tycoon-expansion-pack-2.json) |
