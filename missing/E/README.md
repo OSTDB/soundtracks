@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EarthWorms | 51952 | [51952-earthworms.json](./51952-earthworms.json) |
 | EarthX | 119461 | [119461-earthx.json](./119461-earthx.json) |
 | EarWorm | 340931 | [340931-earworm.json](./340931-earworm.json) |
+| Earyh-Quake | 138523 | [138523-earyh-quake.json](./138523-earyh-quake.json) |
 | Ease Out | 224544 | [224544-ease-out.json](./224544-ease-out.json) |
 | Eason | 192695 | [192695-eason.json](./192695-eason.json) |
 | East | 182314 | [182314-east.json](./182314-east.json) |
