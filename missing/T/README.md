@@ -1124,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Hero: Awesome Tank War g | 231885 | [231885-tank-hero-awesome-tank-war-g.json](./231885-tank-hero-awesome-tank-war-g.json) |
 | Tank Hero: Laser Wars | 101491 | [101491-tank-hero-laser-wars.json](./101491-tank-hero-laser-wars.json) |
 | Tank Hunter | 311167 | [311167-tank-hunter.json](./311167-tank-hunter.json) |
+| Tank Hurricane | 131326 | [131326-tank-hurricane.json](./131326-tank-hurricane.json) |
 | Tank It | 233483 | [233483-tank-it.json](./233483-tank-it.json) |
 | Tank it! | 30834 | [30834-tank-it.json](./30834-tank-it.json) |
 | Tank Kingdoms | 238525 | [238525-tank-kingdoms.json](./238525-tank-kingdoms.json) |
@@ -7200,6 +7201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Parties x Kokonoe Yukari | 235733 | [235733-the-lord-of-the-parties-x-kokonoe-yukari.json](./235733-the-lord-of-the-parties-x-kokonoe-yukari.json) |
 | The Lord of the Parties: AmamaNia | 225185 | [225185-the-lord-of-the-parties-amamania.json](./225185-the-lord-of-the-parties-amamania.json) |
 | The Lord of the Parties: Byakko Akine | 225186 | [225186-the-lord-of-the-parties-byakko-akine.json](./225186-the-lord-of-the-parties-byakko-akine.json) |
+| The Lord of the Rings Online Trading Card Game | 131347 | [131347-the-lord-of-the-rings-online-trading-card-game.json](./131347-the-lord-of-the-rings-online-trading-card-game.json) |
 | The Lord of the Rings Online: Before the Shadow | 275927 | [275927-the-lord-of-the-rings-online-before-the-shadow.json](./275927-the-lord-of-the-rings-online-before-the-shadow.json) |
 | The Lord of the Rings Online: Corsairs of Umbar | 275928 | [275928-the-lord-of-the-rings-online-corsairs-of-umbar.json](./275928-the-lord-of-the-rings-online-corsairs-of-umbar.json) |
 | The Lord of the Rings Online: Fate of Gundabad | 275926 | [275926-the-lord-of-the-rings-online-fate-of-gundabad.json](./275926-the-lord-of-the-rings-online-fate-of-gundabad.json) |
@@ -16265,6 +16267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trance | 187267 | [187267-trance.json](./187267-trance.json) |
 | Trance-Pacific | 92860 | [92860-trance-pacific.json](./92860-trance-pacific.json) |
 | Tranquil Isle | 240790 | [240790-tranquil-isle.json](./240790-tranquil-isle.json) |
+| Tranquility I | 131336 | [131336-tranquility-i.json](./131336-tranquility-i.json) |
 | Trans Liberation Forever | 277409 | [277409-trans-liberation-forever.json](./277409-trans-liberation-forever.json) |
 | Trans Theft Horso | 258563 | [258563-trans-theft-horso.json](./258563-trans-theft-horso.json) |
 | Trans-Galactic Tournament | 77963 | [77963-trans-galactic-tournament.json](./77963-trans-galactic-tournament.json) |
