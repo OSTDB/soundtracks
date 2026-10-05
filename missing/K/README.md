@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Family Fun | 210018 | [210018-karaoke-family-fun.json](./210018-karaoke-family-fun.json) |
 | Karaoke Joysound for Nintendo Switch | 146313 | [146313-karaoke-joysound-for-nintendo-switch.json](./146313-karaoke-joysound-for-nintendo-switch.json) |
 | Karaoke Klassics: Family Favorites | 45922 | [45922-karaoke-klassics-family-favorites.json](./45922-karaoke-klassics-family-favorites.json) |
+| Karaoke Mugen | 125793 | [125793-karaoke-mugen.json](./125793-karaoke-mugen.json) |
 | Karaoke Party | 137687 | [137687-karaoke-party.json](./137687-karaoke-party.json) |
 | Karaoke Revolution Anime Song Selection | 194435 | [194435-karaoke-revolution-anime-song-selection.json](./194435-karaoke-revolution-anime-song-selection.json) |
 | Karaoke Revolution Glee: Volume 2 | 50617 | [50617-karaoke-revolution-glee-volume-2.json](./50617-karaoke-revolution-glee-volume-2.json) |
@@ -630,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katalyst | 163959 | [163959-katalyst.json](./163959-katalyst.json) |
 | Katamari Damacy Mobile | 243426 | [243426-katamari-damacy-mobile.json](./243426-katamari-damacy-mobile.json) |
 | Katamari Forever | 6459 | [6459-katamari-forever.json](./6459-katamari-forever.json) |
+| Katan.io | 125869 | [125869-katan-io.json](./125869-katan-io.json) |
 | Katana | 216338 | [216338-katana.json](./216338-katana.json) |
 | Katana | 358917 | [358917-katana.json](./358917-katana.json) |
 | Katana Action | 57132 | [57132-katana-action.json](./57132-katana-action.json) |
@@ -2969,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kouchuu Ouja Mushiking: Nebu-Hakase to Kazu Katachi ni Challenge! | 125809 | [125809-kouchuu-ouja-mushiking-nebu-hakase-to-kazu-katachi-ni-challenge.json](./125809-kouchuu-ouja-mushiking-nebu-hakase-to-kazu-katachi-ni-challenge.json) |
 | Kouchuuouja Mushiking Super Collection | 125810 | [125810-kouchuuouja-mushiking-super-collection.json](./125810-kouchuuouja-mushiking-super-collection.json) |
 | Kouchuuouja Mushiking: Atsumete Asobou Kabutomushi Zukan | 125806 | [125806-kouchuuouja-mushiking-atsumete-asobou-kabutomushi-zukan.json](./125806-kouchuuouja-mushiking-atsumete-asobou-kabutomushi-zukan.json) |
+| Kouchuuouja Mushiking: Greatest Champion e no Michi 2 | 125804 | [125804-kouchuuouja-mushiking-greatest-champion-e-no-michi-2.json](./125804-kouchuuouja-mushiking-greatest-champion-e-no-michi-2.json) |
 | Kouei no Tou | 206373 | [206373-kouei-no-tou.json](./206373-kouei-no-tou.json) |
 | Kouenji Joshi Soccer | 229201 | [229201-kouenji-joshi-soccer.json](./229201-kouenji-joshi-soccer.json) |
 | Kouenji Joshi Soccer 2: Koi wa Nebagiba Kouenji | 115443 | [115443-kouenji-joshi-soccer-2-koi-wa-nebagiba-kouenji.json](./115443-kouenji-joshi-soccer-2-koi-wa-nebagiba-kouenji.json) |
@@ -3100,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kruger | 202773 | [202773-kruger.json](./202773-kruger.json) |
 | Krull | 292096 | [292096-krull.json](./292096-krull.json) |
 | Krum: Battle Arena | 157562 | [157562-krum-battle-arena.json](./157562-krum-battle-arena.json) |
+| Krunt.io | 125871 | [125871-krunt-io.json](./125871-krunt-io.json) |
 | Krusenstern: A Stellar Sail | 226730 | [226730-krusenstern-a-stellar-sail.json](./226730-krusenstern-a-stellar-sail.json) |
 | Krusty Zombies | 180312 | [180312-krusty-zombies.json](./180312-krusty-zombies.json) |
 | Krusty's Fun House | 307105 | [307105-krustys-fun-house.json](./307105-krustys-fun-house.json) |
@@ -3162,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kukoo Kitchen | 112349 | [112349-kukoo-kitchen.json](./112349-kukoo-kitchen.json) |
 | Kukuevo | 280764 | [280764-kukuevo.json](./280764-kukuevo.json) |
 | Kukui 2 | 140011 | [140011-kukui-2.json](./140011-kukui-2.json) |
+| Kukulcan | 125862 | [125862-kukulcan.json](./125862-kukulcan.json) |
 | Kukulu | 385281 | [385281-kukulu.json](./385281-kukulu.json) |
 | Kukumushi Virtual Pet | 189134 | [189134-kukumushi-virtual-pet.json](./189134-kukumushi-virtual-pet.json) |
 | Kuky Adventure | 388286 | [388286-kuky-adventure.json](./388286-kuky-adventure.json) |
