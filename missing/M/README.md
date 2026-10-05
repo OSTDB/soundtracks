@@ -499,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
 | Mage Noir | 199439 | [199439-mage-noir.json](./199439-mage-noir.json) |
 | Mage of Tempest Castle | 371352 | [371352-mage-of-tempest-castle.json](./371352-mage-of-tempest-castle.json) |
+| Mage of the Olekta Desert | 159760 | [159760-mage-of-the-olekta-desert.json](./159760-mage-of-the-olekta-desert.json) |
 | Mage Outbreak | 355615 | [355615-mage-outbreak.json](./355615-mage-outbreak.json) |
 | Mage Recall | 402284 | [402284-mage-recall.json](./402284-mage-recall.json) |
 | Mage Rumble | 173050 | [173050-mage-rumble.json](./173050-mage-rumble.json) |
@@ -2367,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Dragons the Return | 26798 | [26798-mars-dragons-the-return.json](./26798-mars-dragons-the-return.json) |
 | Mars Farce | 322067 | [322067-mars-farce.json](./322067-mars-farce.json) |
 | Mars Farming 2034 | 300845 | [300845-mars-farming-2034.json](./300845-mars-farming-2034.json) |
+| Mars First Logistics | 159753 | [159753-mars-first-logistics.json](./159753-mars-first-logistics.json) |
 | Mars for the Rich | 202382 | [202382-mars-for-the-rich.json](./202382-mars-for-the-rich.json) |
 | Mars Hopper | 341652 | [341652-mars-hopper.json](./341652-mars-hopper.json) |
 | Mars Horizon | 101183 | [101183-mars-horizon.json](./101183-mars-horizon.json) |
@@ -5301,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Mission | 13736 | [13736-meteor-mission.json](./13736-meteor-mission.json) |
 | Meteor Rain | 179053 | [179053-meteor-rain.json](./179053-meteor-rain.json) |
 | Meteor Shower | 306668 | [306668-meteor-shower.json](./306668-meteor-shower.json) |
+| Meteor Storm | 159754 | [159754-meteor-storm.json](./159754-meteor-storm.json) |
 | Meteor Storm | 319587 | [319587-meteor-storm.json](./319587-meteor-storm.json) |
 | Meteor Storm | 379900 | [379900-meteor-storm.json](./379900-meteor-storm.json) |
 | Meteor Tensei | 141029 | [141029-meteor-tensei.json](./141029-meteor-tensei.json) |
@@ -6669,6 +6672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Arena | 395161 | [395161-minesweeper-arena.json](./395161-minesweeper-arena.json) |
 | Minesweeper But the First Tile is Always a Mine | 327378 | [327378-minesweeper-but-the-first-tile-is-always-a-mine.json](./327378-minesweeper-but-the-first-tile-is-always-a-mine.json) |
 | Minesweeper Challenge | 96705 | [96705-minesweeper-challenge.json](./96705-minesweeper-challenge.json) |
+| Minesweeper Classy | 159756 | [159756-minesweeper-classy.json](./159756-minesweeper-classy.json) |
 | Minesweeper Collector 2 | 275090 | [275090-minesweeper-collector-2.json](./275090-minesweeper-collector-2.json) |
 | Minesweeper Deluxe | 88430 | [88430-minesweeper-deluxe.json](./88430-minesweeper-deluxe.json) |
 | Minesweeper Flags | 74419 | [74419-minesweeper-flags.json](./74419-minesweeper-flags.json) |
@@ -7280,6 +7284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Against Terror 2 | 213474 | [213474-mission-against-terror-2.json](./213474-mission-against-terror-2.json) |
 | Mission Angel Angelic Pink | 82908 | [82908-mission-angel-angelic-pink.json](./82908-mission-angel-angelic-pink.json) |
 | Mission Attack | 42136 | [42136-mission-attack.json](./42136-mission-attack.json) |
+| Mission Biotech | 159792 | [159792-mission-biotech.json](./159792-mission-biotech.json) |
 | Mission Bravo | 295040 | [295040-mission-bravo.json](./295040-mission-bravo.json) |
 | Mission Craft | 283402 | [283402-mission-craft.json](./283402-mission-craft.json) |
 | Mission Critical: Foresight | 186328 | [186328-mission-critical-foresight.json](./186328-mission-critical-foresight.json) |
