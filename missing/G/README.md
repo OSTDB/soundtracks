@@ -3939,6 +3939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gourmania | 50837 | [50837-gourmania.json](./50837-gourmania.json) |
 | Gourmania 2: Great Expectations | 54068 | [54068-gourmania-2-great-expectations.json](./54068-gourmania-2-great-expectations.json) |
 | Gourmania 3: Zoo Zoom | 54067 | [54067-gourmania-3-zoo-zoom.json](./54067-gourmania-3-zoo-zoom.json) |
+| GourMelee | 118764 | [118764-gourmelee.json](./118764-gourmelee.json) |
 | Gourmet | 314492 | [314492-gourmet.json](./314492-gourmet.json) |
 | Gourmet | 93359 | [93359-gourmet.json](./93359-gourmet.json) |
 | Gourmet Chef | 67336 | [67336-gourmet-chef.json](./67336-gourmet-chef.json) |
@@ -4588,6 +4589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Again: 3D Shooter | 330230 | [330230-great-again-3d-shooter.json](./330230-great-again-3d-shooter.json) |
 | Great Alhcemist | 129227 | [129227-great-alhcemist.json](./129227-great-alhcemist.json) |
 | Great American Golf | 45926 | [45926-great-american-golf.json](./45926-great-american-golf.json) |
+| Great Artists Steal | 118751 | [118751-great-artists-steal.json](./118751-great-artists-steal.json) |
 | Great Basketball | 46672 | [46672-great-basketball.json](./46672-great-basketball.json) |
 | Great Battle Full Blast | 65516 | [65516-great-battle-full-blast.json](./65516-great-battle-full-blast.json) |
 | Great Battles: Battle of Tobruk | 11109 | [11109-great-battles-battle-of-tobruk.json](./11109-great-battles-battle-of-tobruk.json) |
