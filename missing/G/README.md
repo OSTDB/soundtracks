@@ -3285,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoKart: New Mexico | 193449 | [193449-gokart-new-mexico.json](./193449-gokart-new-mexico.json) |
 | Gokudou Simulation Teppoudama Jingi | 376131 | [376131-gokudou-simulation-teppoudama-jingi.json](./376131-gokudou-simulation-teppoudama-jingi.json) |
 | Gokujou Parodius: Kako no Eikou wo Motomete | 186142 | [186142-gokujou-parodius-kako-no-eikou-wo-motomete.json](./186142-gokujou-parodius-kako-no-eikou-wo-motomete.json) |
+| Gokujou!! Mecha Mote Iinchou: Girls Motekawa Box | 130713 | [130713-gokujou-mecha-mote-iinchou-girls-motekawa-box.json](./130713-gokujou-mecha-mote-iinchou-girls-motekawa-box.json) |
 | Gokujou!! Mecha Mote Iinchou: MM My Best Friend! | 130390 | [130390-gokujou-mecha-mote-iinchou-mm-my-best-friend.json](./130390-gokujou-mecha-mote-iinchou-mm-my-best-friend.json) |
 | Gokuraku Chuka Taisen | 37711 | [37711-gokuraku-chuka-taisen.json](./37711-gokuraku-chuka-taisen.json) |
 | Gokuraku Yuugi: Game Tengoku | 41376 | [41376-gokuraku-yuugi-game-tengoku.json](./41376-gokuraku-yuugi-game-tengoku.json) |
