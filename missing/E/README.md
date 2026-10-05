@@ -2047,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ener-G: Modern Dance | 201272 | [201272-ener-g-modern-dance.json](./201272-ener-g-modern-dance.json) |
 | Energy | 230354 | [230354-energy.json](./230354-energy.json) |
 | Energy | 63332 | [63332-energy.json](./63332-energy.json) |
+| Energy Airforce: aimStrike! | 142143 | [142143-energy-airforce-aimstrike.json](./142143-energy-airforce-aimstrike.json) |
 | Energy Breaker | 38377 | [38377-energy-breaker.json](./38377-energy-breaker.json) |
 | Energy Collector | 207503 | [207503-energy-collector.json](./207503-energy-collector.json) |
 | Energy Crush | 325445 | [325445-energy-crush.json](./325445-energy-crush.json) |
@@ -2095,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | English of the Dead | 73014 | [73014-english-of-the-dead.json](./73014-english-of-the-dead.json) |
 | English Tracing Book | 290463 | [290463-english-tracing-book.json](./290463-english-tracing-book.json) |
 | English with Rayman | 193344 | [193344-english-with-rayman.json](./193344-english-with-rayman.json) |
+| Engolasters January 2021 | 142111 | [142111-engolasters-january-2021.json](./142111-engolasters-january-2021.json) |
 | Engraven | 309460 | [309460-engraven.json](./309460-engraven.json) |
 | Engraving | 269025 | [269025-engraving.json](./269025-engraving.json) |
 | Enhanced Militarized Zone | 362474 | [362474-enhanced-militarized-zone.json](./362474-enhanced-militarized-zone.json) |
@@ -3151,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal of Swordsman | 194033 | [194033-eternal-of-swordsman.json](./194033-eternal-of-swordsman.json) |
 | Eternal One | 369096 | [369096-eternal-one.json](./369096-eternal-one.json) |
 | Eternal One: Memories of Kumo Island | 369760 | [369760-eternal-one-memories-of-kumo-island.json](./369760-eternal-one-memories-of-kumo-island.json) |
+| Eternal Perk | 142133 | [142133-eternal-perk.json](./142133-eternal-perk.json) |
 | Eternal Poison | 21334 | [21334-eternal-poison.json](./21334-eternal-poison.json) |
 | Eternal Quest | 43353 | [43353-eternal-quest.json](./43353-eternal-quest.json) |
 | Eternal Reckoning | 287733 | [287733-eternal-reckoning.json](./287733-eternal-reckoning.json) |
