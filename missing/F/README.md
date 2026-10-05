@@ -5922,6 +5922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragments | 74490 | [74490-fragments.json](./74490-fragments.json) |
 | Fragments Blue | 380603 | [380603-fragments-blue.json](./380603-fragments-blue.json) |
 | Fragments of Dread: Late Lines FM | 390228 | [390228-fragments-of-dread-late-lines-fm.json](./390228-fragments-of-dread-late-lines-fm.json) |
+| Fragments of Euclid | 133851 | [133851-fragments-of-euclid.json](./133851-fragments-of-euclid.json) |
 | Fragments of Fear | 406703 | [406703-fragments-of-fear.json](./406703-fragments-of-fear.json) |
 | Fragments of Him | 12518 | [12518-fragments-of-him.json](./12518-fragments-of-him.json) |
 | Fragments of Truth: An MCF Story | 416703 | [416703-fragments-of-truth-an-mcf-story.json](./416703-fragments-of-truth-an-mcf-story.json) |
