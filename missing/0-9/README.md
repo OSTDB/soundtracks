@@ -1447,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 69 Samantha Love | 195723 | [195723-69-samantha-love.json](./195723-69-samantha-love.json) |
 | 69 Yuki Love | 167167 | [167167-69-yuki-love.json](./167167-69-yuki-love.json) |
 | 6N23 | 276230 | [276230-6n23.json](./276230-6n23.json) |
+| 6Souls | 123954 | [123954-6souls.json](./123954-6souls.json) |
 | 6th Dimension | 148532 | [148532-6th-dimension.json](./148532-6th-dimension.json) |
 | 7 | 34297 | [34297-7.json](./34297-7.json) |
 | 7 Ate 9 | 316435 | [316435-7-ate-9.json](./316435-7-ate-9.json) |
