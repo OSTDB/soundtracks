@@ -3694,6 +3694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | North Atlantic '86 | 23999 | [23999-north-atlantic-86.json](./23999-north-atlantic-86.json) |
 | North Atlantic Convoy Raider | 23997 | [23997-north-atlantic-convoy-raider.json](./23997-north-atlantic-convoy-raider.json) |
 | North Modding Company: Bergsbruk | 143689 | [143689-north-modding-company-bergsbruk.json](./143689-north-modding-company-bergsbruk.json) |
+| North of Iraq Part 1 | 128318 | [128318-north-of-iraq-part-1.json](./128318-north-of-iraq-part-1.json) |
 | North Pole Workshop | 411062 | [411062-north-pole-workshop.json](./411062-north-pole-workshop.json) |
 | North Salvation | 246475 | [246475-north-salvation.json](./246475-north-salvation.json) |
 | North Stars | 102143 | [102143-north-stars.json](./102143-north-stars.json) |
