@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jade Spring | 349863 | [349863-jade-spring.json](./349863-jade-spring.json) |
 | Jade Wolf | 197899 | [197899-jade-wolf.json](./197899-jade-wolf.json) |
 | Jade Wolf 2 | 197900 | [197900-jade-wolf-2.json](./197900-jade-wolf-2.json) |
+| Jade's Ascension | 120741 | [120741-jades-ascension.json](./120741-jades-ascension.json) |
 | Jade's Journey 2 | 29166 | [29166-jades-journey-2.json](./29166-jades-journey-2.json) |
 | Jaded | 197962 | [197962-jaded.json](./197962-jaded.json) |
 | Jaded | 280912 | [280912-jaded.json](./280912-jaded.json) |
@@ -861,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiàndào Xiānyǔ | 147387 | [147387-jiandao-xianyu.json](./147387-jiandao-xianyu.json) |
 | Jiang Yao Shen Bing | 158502 | [158502-jiang-yao-shen-bing.json](./158502-jiang-yao-shen-bing.json) |
 | Jianghu Chronicles | 303591 | [303591-jianghu-chronicles.json](./303591-jianghu-chronicles.json) |
+| JiangHu Record of Another World | 120707 | [120707-jianghu-record-of-another-world.json](./120707-jianghu-record-of-another-world.json) |
 | Jiangshi x Daoshi | 135880 | [135880-jiangshi-x-daoshi.json](./135880-jiangshi-x-daoshi.json) |
 | Jiànxí Sǐshén | 374622 | [374622-jianxi-sishen.json](./374622-jianxi-sishen.json) |
 | Jiànxiá Qíngyuán Èr | 350553 | [350553-jianxia-qingyuan-er.json](./350553-jianxia-qingyuan-er.json) |
