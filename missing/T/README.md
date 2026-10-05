@@ -2499,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Nova Pinball | 289034 | [289034-terra-nova-pinball.json](./289034-terra-nova-pinball.json) |
 | Terra Omega | 238975 | [238975-terra-omega.json](./238975-terra-omega.json) |
 | Terra Pulse | 142433 | [142433-terra-pulse.json](./142433-terra-pulse.json) |
+| Terra Ventura | 154074 | [154074-terra-ventura.json](./154074-terra-ventura.json) |
 | TerraBlocks | 291777 | [291777-terrablocks.json](./291777-terrablocks.json) |
 | Terracards | 258426 | [258426-terracards.json](./258426-terracards.json) |
 | Terracide | 77393 | [77393-terracide.json](./77393-terracide.json) |
@@ -5098,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Federal Rescue | 102967 | [102967-the-federal-rescue.json](./102967-the-federal-rescue.json) |
 | The Feeble Files | 12428 | [12428-the-feeble-files.json](./12428-the-feeble-files.json) |
 | The Feral Child | 112304 | [112304-the-feral-child.json](./112304-the-feral-child.json) |
+| The Fermi Paradox | 154094 | [154094-the-fermi-paradox.json](./154094-the-fermi-paradox.json) |
 | The Ferry | 319378 | [319378-the-ferry.json](./319378-the-ferry.json) |
 | The Ferryman | 201760 | [201760-the-ferryman.json](./201760-the-ferryman.json) |
 | The Fever | 141745 | [141745-the-fever.json](./141745-the-fever.json) |
@@ -7030,6 +7032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lion's Song: Episode 4 - Closure | 168344 | [168344-the-lions-song-episode-4-closure.json](./168344-the-lions-song-episode-4-closure.json) |
 | The Lions Knight | 242556 | [242556-the-lions-knight.json](./242556-the-lions-knight.json) |
 | The Lisa Joyful in Hopeful Christmas Special | 360020 | [360020-the-lisa-joyful-in-hopeful-christmas-special.json](./360020-the-lisa-joyful-in-hopeful-christmas-special.json) |
+| The List | 154092 | [154092-the-list.json](./154092-the-list.json) |
 | The Lists VR | 373173 | [373173-the-lists-vr.json](./373173-the-lists-vr.json) |
 | The Lithium Moon Incident | 286060 | [286060-the-lithium-moon-incident.json](./286060-the-lithium-moon-incident.json) |
 | The Litter: Trigo | 339970 | [339970-the-litter-trigo.json](./339970-the-litter-trigo.json) |
@@ -8820,6 +8823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shell Part I: Inferno | 252084 | [252084-the-shell-part-i-inferno.json](./252084-the-shell-part-i-inferno.json) |
 | The Shell Part III: Paradiso | 141751 | [141751-the-shell-part-iii-paradiso.json](./141751-the-shell-part-iii-paradiso.json) |
 | The Shenanigans of Cherry and Trix | 127374 | [127374-the-shenanigans-of-cherry-and-trix.json](./127374-the-shenanigans-of-cherry-and-trix.json) |
+| The Shepherd | 154070 | [154070-the-shepherd.json](./154070-the-shepherd.json) |
 | The Sheriff's Town | 264206 | [264206-the-sheriffs-town.json](./264206-the-sheriffs-town.json) |
 | The Shifting Cavern | 258424 | [258424-the-shifting-cavern.json](./258424-the-shifting-cavern.json) |
 | The Shinri Game 2: Magical Trip | 58790 | [58790-the-shinri-game-2-magical-trip.json](./58790-the-shinri-game-2-magical-trip.json) |
@@ -10408,6 +10412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wolf Among Us: Episode 3 - A Crooked Mile | 127109 | [127109-the-wolf-among-us-episode-3-a-crooked-mile.json](./127109-the-wolf-among-us-episode-3-a-crooked-mile.json) |
 | The Wolf: Online RPG Simulator | 86796 | [86796-the-wolf-online-rpg-simulator.json](./86796-the-wolf-online-rpg-simulator.json) |
 | The Wolf's Bite | 28215 | [28215-the-wolfs-bite.json](./28215-the-wolfs-bite.json) |
+| The Wolf's Den | 154082 | [154082-the-wolfs-den.json](./154082-the-wolfs-den.json) |
 | The Woman Above | 398476 | [398476-the-woman-above.json](./398476-the-woman-above.json) |
 | The Wonder Pets!: Save the Animals! | 124088 | [124088-the-wonder-pets-save-the-animals.json](./124088-the-wonder-pets-save-the-animals.json) |
 | The Wonder Sword | 327585 | [327585-the-wonder-sword.json](./327585-the-wonder-sword.json) |
@@ -11194,6 +11199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thukothea Defender | 159855 | [159855-thukothea-defender.json](./159855-thukothea-defender.json) |
 | Thumb Buggy | 243086 | [243086-thumb-buggy.json](./243086-thumb-buggy.json) |
 | Thumb Drift | 58840 | [58840-thumb-drift.json](./58840-thumb-drift.json) |
+| Thumb Fighter | 154095 | [154095-thumb-fighter.json](./154095-thumb-fighter.json) |
 | Thumb Tanks | 236200 | [236200-thumb-tanks.json](./236200-thumb-tanks.json) |
 | Thumb War | 180652 | [180652-thumb-war.json](./180652-thumb-war.json) |
 | ThumBeat | 124623 | [124623-thumbeat.json](./124623-thumbeat.json) |
@@ -12820,6 +12826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Hill | 192940 | [192940-tiny-hill.json](./192940-tiny-hill.json) |
 | Tiny House | 182858 | [182858-tiny-house.json](./182858-tiny-house.json) |
 | Tiny House Simulator | 318617 | [318617-tiny-house-simulator.json](./318617-tiny-house-simulator.json) |
+| Tiny Hunter | 154080 | [154080-tiny-hunter.json](./154080-tiny-hunter.json) |
 | Tiny Hunters | 199939 | [199939-tiny-hunters.json](./199939-tiny-hunters.json) |
 | Tiny industry | 415275 | [415275-tiny-industry.json](./415275-tiny-industry.json) |
 | Tiny Invaders | 92501 | [92501-tiny-invaders.json](./92501-tiny-invaders.json) |
