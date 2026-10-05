@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backdraft | 255080 | [255080-backdraft.json](./255080-backdraft.json) |
 | Backer Reward | 179568 | [179568-backer-reward.json](./179568-backer-reward.json) |
 | Backfire | 28865 | [28865-backfire.json](./28865-backfire.json) |
+| BackFire | 135073 | [135073-backfire.json](./135073-backfire.json) |
 | Backfire Brigade | 370137 | [370137-backfire-brigade.json](./370137-backfire-brigade.json) |
 | Backfire! | 37139 | [37139-backfire.json](./37139-backfire.json) |
 | Backflip | 293630 | [293630-backflip.json](./293630-backflip.json) |
@@ -756,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Brawl 3D | 154620 | [154620-ball-brawl-3d.json](./154620-ball-brawl-3d.json) |
 | Ball Breaker 3D | 78036 | [78036-ball-breaker-3d.json](./78036-ball-breaker-3d.json) |
 | Ball Bulét | 304632 | [304632-ball-bulet.json](./304632-ball-bulet.json) |
+| Ball Buster | 134976 | [134976-ball-buster.json](./134976-ball-buster.json) |
 | Ball Buster Breakout | 404372 | [404372-ball-buster-breakout.json](./404372-ball-buster-breakout.json) |
 | Ball Cannon | 327984 | [327984-ball-cannon.json](./327984-ball-cannon.json) |
 | Ball Challenge | 164952 | [164952-ball-challenge.json](./164952-ball-challenge.json) |
@@ -4190,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary Distortion | 142724 | [142724-binary-distortion.json](./142724-binary-distortion.json) |
 | Binary Domain | 6913 | [6913-binary-domain.json](./6913-binary-domain.json) |
 | Binary Domain Collection | 52629 | [52629-binary-domain-collection.json](./52629-binary-domain-collection.json) |
+| Binary Heresy | 134983 | [134983-binary-heresy.json](./134983-binary-heresy.json) |
 | Binary Land | 366925 | [366925-binary-land.json](./366925-binary-land.json) |
 | Binary Monsters III: School Fighter | 247452 | [247452-binary-monsters-iii-school-fighter.json](./247452-binary-monsters-iii-school-fighter.json) |
 | Binary Pot | 247575 | [247575-binary-pot.json](./247575-binary-pot.json) |
@@ -5818,6 +5821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bros. | 39612 | [39612-blood-bros.json](./39612-blood-bros.json) |
 | Blood Brothers | 127892 | [127892-blood-brothers.json](./127892-blood-brothers.json) |
 | Blood Brothers 2 | 59504 | [59504-blood-brothers-2.json](./59504-blood-brothers-2.json) |
+| Blood Bullets & Ballet | 135075 | [135075-blood-bullets-and-ballet.json](./135075-blood-bullets-and-ballet.json) |
 | Blood Card | 109850 | [109850-blood-card.json](./109850-blood-card.json) |
 | Blood Cleaner | 322804 | [322804-blood-cleaner.json](./322804-blood-cleaner.json) |
 | Blood Code | 34853 | [34853-blood-code.json](./34853-blood-code.json) |
@@ -9189,6 +9193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumper 7 | 319574 | [319574-bumper-7.json](./319574-bumper-7.json) |
 | Bumper Ball Bash | 276229 | [276229-bumper-ball-bash.json](./276229-bumper-ball-bash.json) |
 | Bumper Boat Kids Tilt | 197705 | [197705-bumper-boat-kids-tilt.json](./197705-bumper-boat-kids-tilt.json) |
+| Bumper Boss | 134975 | [134975-bumper-boss.json](./134975-bumper-boss.json) |
 | Bumper Brawlers | 373078 | [373078-bumper-brawlers.json](./373078-bumper-brawlers.json) |
 | Bumper Stickers Archipelago Edition | 271950 | [271950-bumper-stickers-archipelago-edition.json](./271950-bumper-stickers-archipelago-edition.json) |
 | Bumper Stickers MZX | 271949 | [271949-bumper-stickers-mzx.json](./271949-bumper-stickers-mzx.json) |
