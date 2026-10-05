@@ -1505,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generic Fighter Maybe | 358350 | [358350-generic-fighter-maybe.json](./358350-generic-fighter-maybe.json) |
 | Generic nonbinary game | 176926 | [176926-generic-nonbinary-game.json](./176926-generic-nonbinary-game.json) |
 | Genesis | 127265 | [127265-genesis.json](./127265-genesis.json) |
+| Genesis | 144583 | [144583-genesis.json](./144583-genesis.json) |
 | Genesis | 381046 | [381046-genesis.json](./381046-genesis.json) |
 | Genesis | 381047 | [381047-genesis.json](./381047-genesis.json) |
 | Genesis Alpha One: Deluxe Edition | 154543 | [154543-genesis-alpha-one-deluxe-edition.json](./154543-genesis-alpha-one-deluxe-edition.json) |
