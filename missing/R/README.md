@@ -6758,6 +6758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rurouni Kenshin: Meiji Kenkaku Roman-tan - Ishin Gekitou-hen | 44771 | [44771-rurouni-kenshin-meiji-kenkaku-roman-tan-ishin-gekitou-hen.json](./44771-rurouni-kenshin-meiji-kenkaku-roman-tan-ishin-gekitou-hen.json) |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Saisen | 42838 | [42838-rurouni-kenshin-meiji-kenkaku-romantan-saisen.json](./42838-rurouni-kenshin-meiji-kenkaku-romantan-saisen.json) |
 | Ruruli Ra Rura | 45950 | [45950-ruruli-ra-rura.json](./45950-ruruli-ra-rura.json) |
+| Rusa Odyssey | 159783 | [159783-rusa-odyssey.json](./159783-rusa-odyssey.json) |
 | Rush | 131541 | [131541-rush.json](./131541-rush.json) |
 | Rush | 200584 | [200584-rush.json](./200584-rush.json) |
 | Rush | 272586 | [272586-rush.json](./272586-rush.json) |
