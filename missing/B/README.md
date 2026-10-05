@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrier | 346049 | [346049-barrier.json](./346049-barrier.json) |
 | Barrier | 38546 | [38546-barrier.json](./38546-barrier.json) |
 | Barro 2020 | 123866 | [123866-barro-2020.json](./123866-barro-2020.json) |
+| Barro F | 130225 | [130225-barro-f.json](./130225-barro-f.json) |
 | Barro F22: Pack #2 | 322730 | [322730-barro-f22-pack-2.json](./322730-barro-f22-pack-2.json) |
 | Barro F25 | 339931 | [339931-barro-f25.json](./339931-barro-f25.json) |
 | Barro GT: Pack #1 | 298338 | [298338-barro-gt-pack-1.json](./298338-barro-gt-pack-1.json) |
@@ -3604,6 +3605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betroyal | 245839 | [245839-betroyal.json](./245839-betroyal.json) |
 | Bets on Pets | 278170 | [278170-bets-on-pets.json](./278170-bets-on-pets.json) |
 | Betsy's Hospital | 159067 | [159067-betsys-hospital.json](./159067-betsys-hospital.json) |
+| Better Boyfriend | 130234 | [130234-better-boyfriend.json](./130234-better-boyfriend.json) |
 | Better Call Saul | 221831 | [221831-better-call-saul.json](./221831-better-call-saul.json) |
 | Better Days | 341862 | [341862-better-days.json](./341862-better-days.json) |
 | Better End | 285678 | [285678-better-end.json](./285678-better-end.json) |
@@ -3860,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BicycleSim | 211100 | [211100-bicyclesim.json](./211100-bicyclesim.json) |
 | Bicyclism EP | 31950 | [31950-bicyclism-ep.json](./31950-bicyclism-ep.json) |
 | Bienvenue à la cosy académie | 129135 | [129135-bienvenue-a-la-cosy-academie.json](./129135-bienvenue-a-la-cosy-academie.json) |
+| Bierwagen Rush | 130121 | [130121-bierwagen-rush.json](./130121-bierwagen-rush.json) |
 | Bifrost | 262983 | [262983-bifrost.json](./262983-bifrost.json) |
 | Bifrost: Heroes of Midgard | 197340 | [197340-bifrost-heroes-of-midgard.json](./197340-bifrost-heroes-of-midgard.json) |
 | Bifröst: Through the Realms | 247975 | [247975-bifrost-through-the-realms.json](./247975-bifrost-through-the-realms.json) |
