@@ -603,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Cube in Strange World! | 306367 | [306367-magic-cube-in-strange-world.json](./306367-magic-cube-in-strange-world.json) |
 | Magic Cubes | 246346 | [246346-magic-cubes.json](./246346-magic-cubes.json) |
 | Magic Darts | 48182 | [48182-magic-darts.json](./48182-magic-darts.json) |
+| Magic Defense | 155571 | [155571-magic-defense.json](./155571-magic-defense.json) |
 | Magic Dodgeball: Homeless Edition | 361875 | [361875-magic-dodgeball-homeless-edition.json](./361875-magic-dodgeball-homeless-edition.json) |
 | Magic Duck | 287787 | [287787-magic-duck.json](./287787-magic-duck.json) |
 | Magic Dungeon Hero: Freedom or Death | 328102 | [328102-magic-dungeon-hero-freedom-or-death.json](./328102-magic-dungeon-hero-freedom-or-death.json) |
@@ -9888,6 +9889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Tiny Adventures | 231848 | [231848-mr-tiny-adventures.json](./231848-mr-tiny-adventures.json) |
 | Mr. Transporter - Truck Driving Simulator | 88735 | [88735-mr-transporter-truck-driving-simulator.json](./88735-mr-transporter-truck-driving-simulator.json) |
 | Mr. Triangle Mania 2 | 265857 | [265857-mr-triangle-mania-2.json](./265857-mr-triangle-mania-2.json) |
+| Mr. Walker's Basement | 155688 | [155688-mr-walkers-basement.json](./155688-mr-walkers-basement.json) |
 | Mr. Whiskers Bubbles | 385088 | [385088-mr-whiskers-bubbles.json](./385088-mr-whiskers-bubbles.json) |
 | Mr. Wimpy | 46079 | [46079-mr-wimpy.json](./46079-mr-wimpy.json) |
 | Mr. Wings | 255714 | [255714-mr-wings.json](./255714-mr-wings.json) |
@@ -10708,6 +10710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Exotic Farm | 66391 | [66391-my-exotic-farm.json](./66391-my-exotic-farm.json) |
 | My Exotic Farm Australia | 65751 | [65751-my-exotic-farm-australia.json](./65751-my-exotic-farm-australia.json) |
 | My Extraordinary Girlfriend | 238097 | [238097-my-extraordinary-girlfriend.json](./238097-my-extraordinary-girlfriend.json) |
+| My Eyes | 155683 | [155683-my-eyes.json](./155683-my-eyes.json) |
 | My Eyes on You | 57694 | [57694-my-eyes-on-you.json](./57694-my-eyes-on-you.json) |
 | My Fair Cat: Snow | 298649 | [298649-my-fair-cat-snow.json](./298649-my-fair-cat-snow.json) |
 | My Fairy Girlfriend | 231424 | [231424-my-fairy-girlfriend.json](./231424-my-fairy-girlfriend.json) |
