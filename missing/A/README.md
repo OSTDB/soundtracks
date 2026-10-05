@@ -4008,6 +4008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Crime Rope Stickman | 296072 | [296072-amazing-crime-rope-stickman.json](./296072-amazing-crime-rope-stickman.json) |
 | Amazing Cultivation Simulator | 127939 | [127939-amazing-cultivation-simulator.json](./127939-amazing-cultivation-simulator.json) |
 | Amazing Cultivation Simulator: Deep in the bamboo Forest | 166058 | [166058-amazing-cultivation-simulator-deep-in-the-bamboo-forest.json](./166058-amazing-cultivation-simulator-deep-in-the-bamboo-forest.json) |
+| Amazing Cultivation Simulator: Immortal Tales of WuDang | 166053 | [166053-amazing-cultivation-simulator-immortal-tales-of-wudang.json](./166053-amazing-cultivation-simulator-immortal-tales-of-wudang.json) |
 | Amazing Digital Game 2D | 393115 | [393115-amazing-digital-game-2d.json](./393115-amazing-digital-game-2d.json) |
 | Amazing Drawing: Coloring Book Simulator | 312092 | [312092-amazing-drawing-coloring-book-simulator.json](./312092-amazing-drawing-coloring-book-simulator.json) |
 | Amazing Drones | 76619 | [76619-amazing-drones.json](./76619-amazing-drones.json) |
@@ -4495,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancestory | 13193 | [13193-ancestory.json](./13193-ancestory.json) |
 | Ancestral | 318397 | [318397-ancestral.json](./318397-ancestral.json) |
 | Anchor | 375444 | [375444-anchor.json](./375444-anchor.json) |
+| Anchor Up | 166050 | [166050-anchor-up.json](./166050-anchor-up.json) |
 | Anchor-13 | 408047 | [408047-anchor-13.json](./408047-anchor-13.json) |
 | Anchored Alone | 408269 | [408269-anchored-alone.json](./408269-anchored-alone.json) |
 | Anchorhead | 138147 | [138147-anchorhead.json](./138147-anchorhead.json) |
@@ -4712,6 +4714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel's Lullaby | 330360 | [330360-angels-lullaby.json](./330360-angels-lullaby.json) |
 | Angel's Present: A Marl Kingdom Story | 76591 | [76591-angels-present-a-marl-kingdom-story.json](./76591-angels-present-a-marl-kingdom-story.json) |
 | Angel's Return | 401524 | [401524-angels-return.json](./401524-angels-return.json) |
+| Angel's Tale: An extraordinary love story | 166054 | [166054-angels-tale-an-extraordinary-love-story.json](./166054-angels-tale-an-extraordinary-love-story.json) |
 | Angela Knife | 198325 | [198325-angela-knife.json](./198325-angela-knife.json) |
 | Angela Light: Ace Attorney | 309996 | [309996-angela-light-ace-attorney.json](./309996-angela-light-ace-attorney.json) |
 | Angela's Love | 385059 | [385059-angelas-love.json](./385059-angelas-love.json) |
