@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C64 & Amiga Classix Remakes Sixpack 3 | 120817 | [120817-c64-and-amiga-classix-remakes-sixpack-3.json](./120817-c64-and-amiga-classix-remakes-sixpack-3.json) |
 | C64 & AMIGA Classix Remakes Sixpack 4 | 377574 | [377574-c64-and-amiga-classix-remakes-sixpack-4.json](./377574-c64-and-amiga-classix-remakes-sixpack-4.json) |
 | C64 Direct-to-TV | 281683 | [281683-c64-direct-to-tv.json](./281683-c64-direct-to-tv.json) |
+| C64 Quiz | 134400 | [134400-c64-quiz.json](./134400-c64-quiz.json) |
 | C64anabalt | 41017 | [41017-c64anabalt.json](./41017-c64anabalt.json) |
 | Caaahr! | 405654 | [405654-caaahr.json](./405654-caaahr.json) |
 | Caapora Adventure: Ojibe's Revenge | 171379 | [171379-caapora-adventure-ojibes-revenge.json](./171379-caapora-adventure-ojibes-revenge.json) |
@@ -229,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cajun Cop: The French Quarter Caper | 417496 | [417496-cajun-cop-the-french-quarter-caper.json](./417496-cajun-cop-the-french-quarter-caper.json) |
 | Cake Bash | 113826 | [113826-cake-bash.json](./113826-cake-bash.json) |
 | Cake Bites Make & Bake: Cooking Dessert Kids Game | 109012 | [109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json](./109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json) |
+| Cake Duel | 134401 | [134401-cake-duel.json](./134401-cake-duel.json) |
 | Cake Invaders | 151611 | [151611-cake-invaders.json](./151611-cake-invaders.json) |
 | Cake Kills Candy | 184988 | [184988-cake-kills-candy.json](./184988-cake-kills-candy.json) |
 | Cake Laboratory | 114184 | [114184-cake-laboratory.json](./114184-cake-laboratory.json) |
@@ -1259,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardinal Chains | 96221 | [96221-cardinal-chains.json](./96221-cardinal-chains.json) |
 | Cardinal Cross | 90169 | [90169-cardinal-cross.json](./90169-cardinal-cross.json) |
 | Cardinal Fall | 407576 | [407576-cardinal-fall.json](./407576-cardinal-fall.json) |
+| Cardinal Land | 134403 | [134403-cardinal-land.json](./134403-cardinal-land.json) |
 | Cardinal Land: Jigsaw & Tangram Puzzle Blend | 87213 | [87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json](./87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json) |
 | Cardinal Quest | 46744 | [46744-cardinal-quest.json](./46744-cardinal-quest.json) |
 | Cardinal Ramship Pirate | 176295 | [176295-cardinal-ramship-pirate.json](./176295-cardinal-ramship-pirate.json) |
@@ -2133,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat's Request | 237043 | [237043-cats-request.json](./237043-cats-request.json) |
 | Cat's Vote | 274509 | [274509-cats-vote.json](./274509-cats-vote.json) |
 | Cat's Wars | 369097 | [369097-cats-wars.json](./369097-cats-wars.json) |
+| Cat&Line | 134405 | [134405-cat-and-line.json](./134405-cat-and-line.json) |
 | Cat&rooms | 119711 | [119711-cat-and-rooms.json](./119711-cat-and-rooms.json) |
 | Cata-Bomb | 412437 | [412437-cata-bomb.json](./412437-cata-bomb.json) |
 | Cataclismo | 250162 | [250162-cataclismo.json](./250162-cataclismo.json) |
@@ -3865,6 +3869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimeras: Wailing Waters | 187915 | [187915-chimeras-wailing-waters.json](./187915-chimeras-wailing-waters.json) |
 | Chimeras: What Wishes May Come | 187906 | [187906-chimeras-what-wishes-may-come.json](./187906-chimeras-what-wishes-may-come.json) |
 | Chimes: A Kinetic Novel | 184102 | [184102-chimes-a-kinetic-novel.json](./184102-chimes-a-kinetic-novel.json) |
+| Chimney Presents | 134406 | [134406-chimney-presents.json](./134406-chimney-presents.json) |
 | Chimp Memory | 319391 | [319391-chimp-memory.json](./319391-chimp-memory.json) |
 | Chimp Quest: Spirit Isle | 277335 | [277335-chimp-quest-spirit-isle.json](./277335-chimp-quest-spirit-isle.json) |
 | Chimpact | 63851 | [63851-chimpact.json](./63851-chimpact.json) |
@@ -4065,6 +4070,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
 | Choo Choo Survivor | 242622 | [242622-choo-choo-survivor.json](./242622-choo-choo-survivor.json) |
 | Chooche | 175163 | [175163-chooche.json](./175163-chooche.json) |
+| Chook & Sosig | 134410 | [134410-chook-and-sosig.json](./134410-chook-and-sosig.json) |
+| Chook & Sosig: A Case of Murder | 134411 | [134411-chook-and-sosig-a-case-of-murder.json](./134411-chook-and-sosig-a-case-of-murder.json) |
+| Chook & Sosig: Hit the Club | 134413 | [134413-chook-and-sosig-hit-the-club.json](./134413-chook-and-sosig-hit-the-club.json) |
+| Chook & Sosig: Long Weekend | 134412 | [134412-chook-and-sosig-long-weekend.json](./134412-chook-and-sosig-long-weekend.json) |
 | Chook & Sosig: Walk the Plank | 113014 | [113014-chook-and-sosig-walk-the-plank.json](./113014-chook-and-sosig-walk-the-plank.json) |
 | Choose a Mech | 395896 | [395896-choose-a-mech.json](./395896-choose-a-mech.json) |
 | Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
