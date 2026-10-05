@@ -579,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Cards Duel | 409793 | [409793-magic-cards-duel.json](./409793-magic-cards-duel.json) |
 | Magic Carpet Plus | 72026 | [72026-magic-carpet-plus.json](./72026-magic-carpet-plus.json) |
 | Magic Caster | 291716 | [291716-magic-caster.json](./291716-magic-caster.json) |
+| Magic Castle | 142128 | [142128-magic-castle.json](./142128-magic-castle.json) |
 | Magic Castle | 317812 | [317812-magic-castle.json](./317812-magic-castle.json) |
 | Magic Cat | 89412 | [89412-magic-cat.json](./89412-magic-cat.json) |
 | Magic Cat Academy | 165413 | [165413-magic-cat-academy.json](./165413-magic-cat-academy.json) |
@@ -5341,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Genocide | 153994 | [153994-meteor-genocide.json](./153994-meteor-genocide.json) |
 | Meteor Hunt Idle | 248096 | [248096-meteor-hunt-idle.json](./248096-meteor-hunt-idle.json) |
 | Meteor Mess | 220554 | [220554-meteor-mess.json](./220554-meteor-mess.json) |
+| Meteor Missiles | 142158 | [142158-meteor-missiles.json](./142158-meteor-missiles.json) |
 | Meteor Mission | 13736 | [13736-meteor-mission.json](./13736-meteor-mission.json) |
 | Meteor Rain | 179053 | [179053-meteor-rain.json](./179053-meteor-rain.json) |
 | Meteor Shower | 306668 | [306668-meteor-shower.json](./306668-meteor-shower.json) |
@@ -5638,6 +5640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Olympics on Mars | 261456 | [261456-micro-olympics-on-mars.json](./261456-micro-olympics-on-mars.json) |
 | Micro Overdrive: Home Tour | 383068 | [383068-micro-overdrive-home-tour.json](./383068-micro-overdrive-home-tour.json) |
 | Micro Pico Racers | 96665 | [96665-micro-pico-racers.json](./96665-micro-pico-racers.json) |
+| Micro Platformer | 142136 | [142136-micro-platformer.json](./142136-micro-platformer.json) |
 | Micro Plutonia | 312898 | [312898-micro-plutonia.json](./312898-micro-plutonia.json) |
 | Micro Quest | 307593 | [307593-micro-quest.json](./307593-micro-quest.json) |
 | Micro Rogue | 265326 | [265326-micro-rogue.json](./265326-micro-rogue.json) |
@@ -6145,6 +6148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike and the Zombies | 243676 | [243676-mike-and-the-zombies.json](./243676-mike-and-the-zombies.json) |
 | Mike Builds a Shelter | 174793 | [174793-mike-builds-a-shelter.json](./174793-mike-builds-a-shelter.json) |
 | Mike Goes on Hike | 110125 | [110125-mike-goes-on-hike.json](./110125-mike-goes-on-hike.json) |
+| Mike Gunner | 142137 | [142137-mike-gunner.json](./142137-mike-gunner.json) |
 | Mike Piazza's Strike Zone | 3410 | [3410-mike-piazzas-strike-zone.json](./3410-mike-piazzas-strike-zone.json) |
 | Mike Tyson Boxing | 209511 | [209511-mike-tyson-boxing.json](./209511-mike-tyson-boxing.json) |
 | Mike Tyson Boxing | 23452 | [23452-mike-tyson-boxing.json](./23452-mike-tyson-boxing.json) |
@@ -6520,6 +6524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Blast | 377668 | [377668-minecraft-blast.json](./377668-minecraft-blast.json) |
 | Minecraft Create: Above and Beyond | 326827 | [326827-minecraft-create-above-and-beyond.json](./326827-minecraft-create-above-and-beyond.json) |
 | Minecraft Dungeons: Hero Edition | 132145 | [132145-minecraft-dungeons-hero-edition.json](./132145-minecraft-dungeons-hero-edition.json) |
+| Minecraft Dungeons: Howling Peaks | 142160 | [142160-minecraft-dungeons-howling-peaks.json](./142160-minecraft-dungeons-howling-peaks.json) |
 | Minecraft Dungeons: Ultimate Edition | 164776 | [164776-minecraft-dungeons-ultimate-edition.json](./164776-minecraft-dungeons-ultimate-edition.json) |
 | Minecraft Earth | 118711 | [118711-minecraft-earth.json](./118711-minecraft-earth.json) |
 | Minecraft Education | 28407 | [28407-minecraft-education.json](./28407-minecraft-education.json) |
@@ -9782,6 +9787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mpirimpa | 341339 | [341339-mpirimpa.json](./341339-mpirimpa.json) |
 | Mr Anchry's Day of Twilight | 132076 | [132076-mr-anchrys-day-of-twilight.json](./132076-mr-anchrys-day-of-twilight.json) |
 | Mr Anchry's Divine Intervention | 124271 | [124271-mr-anchrys-divine-intervention.json](./124271-mr-anchrys-divine-intervention.json) |
+| Mr Autofire | 142112 | [142112-mr-autofire.json](./142112-mr-autofire.json) |
 | Mr Bea Boy Kart Dash Race | 247206 | [247206-mr-bea-boy-kart-dash-race.json](./247206-mr-bea-boy-kart-dash-race.json) |
 | Mr Bean | 299837 | [299837-mr-bean.json](./299837-mr-bean.json) |
 | Mr Bean - Risky Ropes | 112132 | [112132-mr-bean-risky-ropes.json](./112132-mr-bean-risky-ropes.json) |
