@@ -891,10 +891,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Vermintide 2 | 55189 | [55189-warhammer-vermintide-2.json](./55189-warhammer-vermintide-2.json) |
 | Warhammer: Vermintide 2 - A Treacherous Adventure | 321734 | [321734-warhammer-vermintide-2-a-treacherous-adventure.json](./321734-warhammer-vermintide-2-a-treacherous-adventure.json) |
 | Warhammer: Vermintide 2 - Deluxe Edition | 202218 | [202218-warhammer-vermintide-2-deluxe-edition.json](./202218-warhammer-vermintide-2-deluxe-edition.json) |
+| Warhammer: Vermintide 2 - Forgotten Relics Pack | 155705 | [155705-warhammer-vermintide-2-forgotten-relics-pack.json](./155705-warhammer-vermintide-2-forgotten-relics-pack.json) |
+| Warhammer: Vermintide 2 - Grail Knight Career | 155703 | [155703-warhammer-vermintide-2-grail-knight-career.json](./155703-warhammer-vermintide-2-grail-knight-career.json) |
 | Warhammer: Vermintide 2 - Karak Azgaraz | 250914 | [250914-warhammer-vermintide-2-karak-azgaraz.json](./250914-warhammer-vermintide-2-karak-azgaraz.json) |
 | Warhammer: Vermintide 2 - Necromancer | 262658 | [262658-warhammer-vermintide-2-necromancer.json](./262658-warhammer-vermintide-2-necromancer.json) |
+| Warhammer: Vermintide 2 - Outcast Engineer Career | 155704 | [155704-warhammer-vermintide-2-outcast-engineer-career.json](./155704-warhammer-vermintide-2-outcast-engineer-career.json) |
 | Warhammer: Vermintide 2 - Premium Edition | 119075 | [119075-warhammer-vermintide-2-premium-edition.json](./119075-warhammer-vermintide-2-premium-edition.json) |
 | Warhammer: Vermintide 2 - Shadows over Bögenhafen | 116130 | [116130-warhammer-vermintide-2-shadows-over-bogenhafen.json](./116130-warhammer-vermintide-2-shadows-over-bogenhafen.json) |
+| Warhammer: Vermintide 2 - Sister of the Thorn | 155702 | [155702-warhammer-vermintide-2-sister-of-the-thorn.json](./155702-warhammer-vermintide-2-sister-of-the-thorn.json) |
 | Warhammer: Vermintide 2 - Versus | 314400 | [314400-warhammer-vermintide-2-versus.json](./314400-warhammer-vermintide-2-versus.json) |
 | Warhammer: Vermintide 2 - Winds of Magic | 115671 | [115671-warhammer-vermintide-2-winds-of-magic.json](./115671-warhammer-vermintide-2-winds-of-magic.json) |
 | Warhaos | 161406 | [161406-warhaos.json](./161406-warhaos.json) |
@@ -3022,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willy's Horrorland | 233565 | [233565-willys-horrorland.json](./233565-willys-horrorland.json) |
 | Willy's Wonderland | 233044 | [233044-willys-wonderland.json](./233044-willys-wonderland.json) |
 | Willy's Wonderland: The Game | 287697 | [287697-willys-wonderland-the-game.json](./287697-willys-wonderland-the-game.json) |
+| Wilma's Dreams | 155700 | [155700-wilmas-dreams.json](./155700-wilmas-dreams.json) |
 | Wilmot Works It Out | 314431 | [314431-wilmot-works-it-out.json](./314431-wilmot-works-it-out.json) |
 | Wilmot's Warehouse | 77494 | [77494-wilmots-warehouse.json](./77494-wilmots-warehouse.json) |
 | Wiloo | 50533 | [50533-wiloo.json](./50533-wiloo.json) |
@@ -4435,6 +4440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Slavic Glasses | 327363 | [327363-world-of-slavic-glasses.json](./327363-world-of-slavic-glasses.json) |
 | World of Slime | 415114 | [415114-world-of-slime.json](./415114-world-of-slime.json) |
 | World of Soccer Online | 34704 | [34704-world-of-soccer-online.json](./34704-world-of-soccer-online.json) |
+| World of Soccer Reloaded | 155684 | [155684-world-of-soccer-reloaded.json](./155684-world-of-soccer-reloaded.json) |
 | World of Solitaire | 139966 | [139966-world-of-solitaire.json](./139966-world-of-solitaire.json) |
 | World Of Sports | 370756 | [370756-world-of-sports.json](./370756-world-of-sports.json) |
 | World of Submarines | 255764 | [255764-world-of-submarines.json](./255764-world-of-submarines.json) |
@@ -4664,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's Greatest Places Mosaics 4 | 415861 | [415861-worlds-greatest-places-mosaics-4.json](./415861-worlds-greatest-places-mosaics-4.json) |
 | World's Greatest Temples 2 | 415932 | [415932-worlds-greatest-temples-2.json](./415932-worlds-greatest-temples-2.json) |
 | World's Largest Pac-Man | 175992 | [175992-worlds-largest-pac-man.json](./175992-worlds-largest-pac-man.json) |
+| World's Worst Handyman | 155675 | [155675-worlds-worst-handyman.json](./155675-worlds-worst-handyman.json) |
 | World2D Re | 262282 | [262282-world2d-re.json](./262282-world2d-re.json) |
 | WorldCraft: mini sandbox world | 89247 | [89247-worldcraft-mini-sandbox-world.json](./89247-worldcraft-mini-sandbox-world.json) |
 | WorldCup Super Stadium | 268526 | [268526-worldcup-super-stadium.json](./268526-worldcup-super-stadium.json) |
@@ -4808,6 +4815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worth Waiting | 177364 | [177364-worth-waiting.json](./177364-worth-waiting.json) |
 | WortWechsel | 58232 | [58232-wortwechsel.json](./58232-wortwechsel.json) |
 | Woten DX: Traveller's Dream | 220723 | [220723-woten-dx-travellers-dream.json](./220723-woten-dx-travellers-dream.json) |
+| Wotheguel | 155680 | [155680-wotheguel.json](./155680-wotheguel.json) |
 | Would You Like to Run an Idol Café? 3 | 259531 | [259531-would-you-like-to-run-an-idol-cafe-3.json](./259531-would-you-like-to-run-an-idol-cafe-3.json) |
 | Would You Love Me If I Was a Snake? | 400346 | [400346-would-you-love-me-if-i-was-a-snake.json](./400346-would-you-love-me-if-i-was-a-snake.json) |
 | Would You Rather | 326718 | [326718-would-you-rather.json](./326718-would-you-rather.json) |
