@@ -5105,6 +5105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasmatic | 253338 | [253338-plasmatic.json](./253338-plasmatic.json) |
 | Plasmatron | 53165 | [53165-plasmatron.json](./53165-plasmatron.json) |
 | Plasmaworm | 93052 | [93052-plasmaworm.json](./93052-plasmaworm.json) |
+| Plasmoid | 126980 | [126980-plasmoid.json](./126980-plasmoid.json) |
 | Plaster World | 57067 | [57067-plaster-world.json](./57067-plaster-world.json) |
 | Plastic Battlegrounds | 363959 | [363959-plastic-battlegrounds.json](./363959-plastic-battlegrounds.json) |
 | Plastic Beach | 285599 | [285599-plastic-beach.json](./285599-plastic-beach.json) |
@@ -8235,6 +8236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Ants | 398506 | [398506-project-ants.json](./398506-project-ants.json) |
 | Project Apparatus | 297192 | [297192-project-apparatus.json](./297192-project-apparatus.json) |
 | Project Apparition | 259100 | [259100-project-apparition.json](./259100-project-apparition.json) |
+| Project Ara - Crucible | 126992 | [126992-project-ara-crucible.json](./126992-project-ara-crucible.json) |
 | Project Arena | 197374 | [197374-project-arena.json](./197374-project-arena.json) |
 | Project Arms | 138043 | [138043-project-arms.json](./138043-project-arms.json) |
 | Project Astra Dominium | 228506 | [228506-project-astra-dominium.json](./228506-project-astra-dominium.json) |
@@ -9112,6 +9114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pull Ball | 114361 | [114361-pull-ball.json](./114361-pull-ball.json) |
 | Pull Him Up: Pull the Pin Out | 227952 | [227952-pull-him-up-pull-the-pin-out.json](./227952-pull-him-up-pull-the-pin-out.json) |
 | Pull My Finger | 416656 | [416656-pull-my-finger.json](./416656-pull-my-finger.json) |
+| Pull Stay | 126994 | [126994-pull-stay.json](./126994-pull-stay.json) |
 | Pull the Beer | 406109 | [406109-pull-the-beer.json](./406109-pull-the-beer.json) |
 | Pull the Pin | 227513 | [227513-pull-the-pin.json](./227513-pull-the-pin.json) |
 | Pull The Pin: Ball Physic Puzzle | 289378 | [289378-pull-the-pin-ball-physic-puzzle.json](./289378-pull-the-pin-ball-physic-puzzle.json) |
@@ -9276,6 +9279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pup Boy Cowboy: Infinite Desert Edition | 410443 | [410443-pup-boy-cowboy-infinite-desert-edition.json](./410443-pup-boy-cowboy-infinite-desert-edition.json) |
 | Pup Breeder | 165411 | [165411-pup-breeder.json](./165411-pup-breeder.json) |
 | Pupa | 310221 | [310221-pupa.json](./310221-pupa.json) |
+| PuPaiPo Space Deluxe | 126969 | [126969-pupaipo-space-deluxe.json](./126969-pupaipo-space-deluxe.json) |
 | Pupil: Wandering VR | 117834 | [117834-pupil-wandering-vr.json](./117834-pupil-wandering-vr.json) |
 | Pupillary | 408296 | [408296-pupillary.json](./408296-pupillary.json) |
 | Puppers Delivers | 183430 | [183430-puppers-delivers.json](./183430-puppers-delivers.json) |
