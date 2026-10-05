@@ -6509,6 +6509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong | 171954 | [171954-donkey-kong.json](./171954-donkey-kong.json) |
 | Donkey Kong | 171956 | [171956-donkey-kong.json](./171956-donkey-kong.json) |
 | Donkey Kong | 171961 | [171961-donkey-kong.json](./171961-donkey-kong.json) |
+| Donkey Kong | 171964 | [171964-donkey-kong.json](./171964-donkey-kong.json) |
 | Donkey Kong | 172013 | [172013-donkey-kong.json](./172013-donkey-kong.json) |
 | Donkey Kong | 172014 | [172014-donkey-kong.json](./172014-donkey-kong.json) |
 | Donkey Kong | 172015 | [172015-donkey-kong.json](./172015-donkey-kong.json) |
@@ -9788,6 +9789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusttale: The Murderous Comedy | 320339 | [320339-dusttale-the-murderous-comedy.json](./320339-dusttale-the-murderous-comedy.json) |
 | Dusttrust X | 329675 | [329675-dusttrust-x.json](./329675-dusttrust-x.json) |
 | Dustwind | 76127 | [76127-dustwind.json](./76127-dustwind.json) |
+| Dustwind: The Last Resort | 171988 | [171988-dustwind-the-last-resort.json](./171988-dustwind-the-last-resort.json) |
 | Dustwun | 83561 | [83561-dustwun.json](./83561-dustwun.json) |
 | Dusty Crib | 272996 | [272996-dusty-crib.json](./272996-dusty-crib.json) |
 | Dusty Raging Fist | 63798 | [63798-dusty-raging-fist.json](./63798-dusty-raging-fist.json) |
