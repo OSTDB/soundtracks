@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | _Turing | 306086 | [306086-turing.json](./306086-turing.json) |
 | -256 | 245917 | [245917-256.json](./245917-256.json) |
 | -Sprout- | 170321 | [170321-sprout.json](./170321-sprout.json) |
+| -Top Bear- | 133863 | [133863-top-bear.json](./133863-top-bear.json) |
 | :) | 139909 | [139909-.json](./139909-.json) |
 | ! | 165498 | [165498-.json](./165498-.json) |
 | !BurnToDie! | 109760 | [109760-burntodie.json](./109760-burntodie.json) |
@@ -1419,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 600 | 249254 | [249254-600.json](./249254-600.json) |
 | 6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 2 | 45576 | [45576-6000-nin-no-sensei-tachi-ga-tsukutta-tanoshii-shougakkou-tanken-2.json](./45576-6000-nin-no-sensei-tachi-ga-tsukutta-tanoshii-shougakkou-tanken-2.json) |
 | 6180 The Moon | 11435 | [11435-6180-the-moon.json](./11435-6180-the-moon.json) |
+| 625 Sandwich Stacker | 133765 | [133765-625-sandwich-stacker.json](./133765-625-sandwich-stacker.json) |
 | 63 Days: The Home Army Edition | 323899 | [323899-63-days-the-home-army-edition.json](./323899-63-days-the-home-army-edition.json) |
 | 64 GB: Not 2048 | 232493 | [232493-64-gb-not-2048.json](./232493-64-gb-not-2048.json) |
 | 64 Oozumou | 3433 | [3433-64-oozumou.json](./3433-64-oozumou.json) |
