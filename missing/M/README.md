@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack Two | 362466 | [362466-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-two.json](./362466-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-two.json) |
 | Magica Memoria | 289019 | [289019-magica-memoria.json](./289019-magica-memoria.json) |
 | Magica X Magica | 200018 | [200018-magica-x-magica.json](./200018-magica-x-magica.json) |
+| Magicademia | 148677 | [148677-magicademia.json](./148677-magicademia.json) |
 | Magicafe | 299127 | [299127-magicafe.json](./299127-magicafe.json) |
 | Magical Animal Farm | 366423 | [366423-magical-animal-farm.json](./366423-magical-animal-farm.json) |
 | Magical Battle Arena | 145447 | [145447-magical-battle-arena.json](./145447-magical-battle-arena.json) |
@@ -4616,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memento | 33176 | [33176-memento.json](./33176-memento.json) |
 | Memento Dawn | 262956 | [262956-memento-dawn.json](./262956-memento-dawn.json) |
 | Memento in Marrow | 330849 | [330849-memento-in-marrow.json](./330849-memento-in-marrow.json) |
+| Memento Infernum | 148685 | [148685-memento-infernum.json](./148685-memento-infernum.json) |
 | Memento Mori | 139373 | [139373-memento-mori.json](./139373-memento-mori.json) |
 | Memento Mori | 176839 | [176839-memento-mori.json](./176839-memento-mori.json) |
 | Memento Mori | 209527 | [209527-memento-mori.json](./209527-memento-mori.json) |
