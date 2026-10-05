@@ -1191,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Squad | 24837 | [24837-viking-squad.json](./24837-viking-squad.json) |
 | Viking Story | 158512 | [158512-viking-story.json](./158512-viking-story.json) |
 | Viking Survivors | 243623 | [243623-viking-survivors.json](./243623-viking-survivors.json) |
+| Viking Vengeance | 118779 | [118779-viking-vengeance.json](./118779-viking-vengeance.json) |
 | Viking Village | 88823 | [88823-viking-village.json](./88823-viking-village.json) |
 | Viking: Sigurd's Adventure | 115000 | [115000-viking-sigurds-adventure.json](./115000-viking-sigurds-adventure.json) |
 | Viking's Drakkars | 95235 | [95235-vikings-drakkars.json](./95235-vikings-drakkars.json) |
