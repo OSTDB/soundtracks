@@ -2534,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SectorA23 | 182552 | [182552-sectora23.json](./182552-sectora23.json) |
 | Sectron | 401629 | [401629-sectron.json](./401629-sectron.json) |
 | Secure | 176815 | [176815-secure.json](./176815-secure.json) |
+| Secure the Skies | 164927 | [164927-secure-the-skies.json](./164927-secure-the-skies.json) |
 | Security 51 | 386228 | [386228-security-51.json](./386228-security-51.json) |
 | Security Booth | 159045 | [159045-security-booth.json](./159045-security-booth.json) |
 | Security Booth: Director's Cut | 205075 | [205075-security-booth-directors-cut.json](./205075-security-booth-directors-cut.json) |
@@ -4808,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shokuo Shoujo | 158152 | [158152-shokuo-shoujo.json](./158152-shokuo-shoujo.json) |
 | Shokutama | 97828 | [97828-shokutama.json](./97828-shokutama.json) |
 | Shokutte Night | 97844 | [97844-shokutte-night.json](./97844-shokutte-night.json) |
+| Shonen Adventure: The Dual Blades Hero | 164859 | [164859-shonen-adventure-the-dual-blades-hero.json](./164859-shonen-adventure-the-dual-blades-hero.json) |
 | Shonen Jump's One Piece | 75755 | [75755-shonen-jumps-one-piece.json](./75755-shonen-jumps-one-piece.json) |
 | Shoni Island | 306422 | [306422-shoni-island.json](./306422-shoni-island.json) |
 | ShooMachi | 142937 | [142937-shoomachi.json](./142937-shoomachi.json) |
@@ -6437,6 +6439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skill Up! | 289445 | [289445-skill-up.json](./289445-skill-up.json) |
 | SkillGrid | 392785 | [392785-skillgrid.json](./392785-skillgrid.json) |
 | Skills and Slimes | 340367 | [340367-skills-and-slimes.json](./340367-skills-and-slimes.json) |
+| Skillsworn | 164954 | [164954-skillsworn.json](./164954-skillsworn.json) |
 | SkillTeam | 344019 | [344019-skillteam.json](./344019-skillteam.json) |
 | Skilltree Saga | 10834 | [10834-skilltree-saga.json](./10834-skilltree-saga.json) |
 | Skillwarz | 109186 | [109186-skillwarz.json](./109186-skillwarz.json) |
@@ -7108,6 +7111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Buddy Time | 390626 | [390626-slime-buddy-time.json](./390626-slime-buddy-time.json) |
 | Slime Castle | 314634 | [314634-slime-castle.json](./314634-slime-castle.json) |
 | Slime Clicker | 298090 | [298090-slime-clicker.json](./298090-slime-clicker.json) |
+| Slime Climb | 164934 | [164934-slime-climb.json](./164934-slime-climb.json) |
 | Slime Climber | 292626 | [292626-slime-climber.json](./292626-slime-climber.json) |
 | Slime Coming | 301812 | [301812-slime-coming.json](./301812-slime-coming.json) |
 | Slime Cores | 298056 | [298056-slime-cores.json](./298056-slime-cores.json) |
@@ -11343,6 +11347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere | 313887 | [313887-sphere.json](./313887-sphere.json) |
 | Sphere Arena | 166762 | [166762-sphere-arena.json](./166762-sphere-arena.json) |
 | Sphere Game | 377582 | [377582-sphere-game.json](./377582-sphere-game.json) |
+| Sphere Game Epic | 164956 | [164956-sphere-game-epic.json](./164956-sphere-game-epic.json) |
 | Sphere Game Extreme | 187909 | [187909-sphere-game-extreme.json](./187909-sphere-game-extreme.json) |
 | Sphere Game Legendary | 207820 | [207820-sphere-game-legendary.json](./207820-sphere-game-legendary.json) |
 | Sphere Guider | 250423 | [250423-sphere-guider.json](./250423-sphere-guider.json) |
@@ -16156,6 +16161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Astro Cat | 331521 | [331521-super-astro-cat.json](./331521-super-astro-cat.json) |
 | Super Astro Fighter | 60200 | [60200-super-astro-fighter.json](./60200-super-astro-fighter.json) |
 | Super Astro Space Blast | 387542 | [387542-super-astro-space-blast.json](./387542-super-astro-space-blast.json) |
+| Super Astrovade | 164950 | [164950-super-astrovade.json](./164950-super-astrovade.json) |
 | Super Ate in Wonderland | 195192 | [195192-super-ate-in-wonderland.json](./195192-super-ate-in-wonderland.json) |
 | Super Auto Pets | 146641 | [146641-super-auto-pets.json](./146641-super-auto-pets.json) |
 | Super Auto Racing | 245581 | [245581-super-auto-racing.json](./245581-super-auto-racing.json) |
