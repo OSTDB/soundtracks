@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Chronicles: Behind the Door | 187938 | [187938-halloween-chronicles-behind-the-door.json](./187938-halloween-chronicles-behind-the-door.json) |
 | Halloween Chronicles: Cursed Family | 186014 | [186014-halloween-chronicles-cursed-family.json](./186014-halloween-chronicles-cursed-family.json) |
 | Halloween Chronicles: Cursed Family - Collector's Edition | 186015 | [186015-halloween-chronicles-cursed-family-collectors-edition.json](./186015-halloween-chronicles-cursed-family-collectors-edition.json) |
+| Halloween Chronicles: Evil Behind a Mask | 139197 | [139197-halloween-chronicles-evil-behind-a-mask.json](./139197-halloween-chronicles-evil-behind-a-mask.json) |
 | Halloween Chronicles: Evil Behind a Mask - Collector's Edition | 126665 | [126665-halloween-chronicles-evil-behind-a-mask-collectors-edition.json](./126665-halloween-chronicles-evil-behind-a-mask-collectors-edition.json) |
 | Halloween Decoration Sandbox | 148548 | [148548-halloween-decoration-sandbox.json](./148548-halloween-decoration-sandbox.json) |
 | Halloween Defense | 269008 | [269008-halloween-defense.json](./269008-halloween-defense.json) |
@@ -1134,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harrier Attack! | 13004 | [13004-harrier-attack.json](./13004-harrier-attack.json) |
 | Harrier Strike Mission | 44080 | [44080-harrier-strike-mission.json](./44080-harrier-strike-mission.json) |
 | Harrow | 265698 | [265698-harrow.json](./265698-harrow.json) |
+| Harrowed Halls: Lakeview Lane | 139198 | [139198-harrowed-halls-lakeview-lane.json](./139198-harrowed-halls-lakeview-lane.json) |
 | Harrowed World: Portents In Red | 264020 | [264020-harrowed-world-portents-in-red.json](./264020-harrowed-world-portents-in-red.json) |
 | Harrowing Gate: Ghost Dimension | 199104 | [199104-harrowing-gate-ghost-dimension.json](./199104-harrowing-gate-ghost-dimension.json) |
 | Harrowlight | 358869 | [358869-harrowlight.json](./358869-harrowlight.json) |
@@ -1397,9 +1399,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel: Ancient Bane | 180306 | [180306-haunted-hotel-ancient-bane.json](./180306-haunted-hotel-ancient-bane.json) |
 | Haunted Hotel: Ancient Bane - Collector's Edition | 180302 | [180302-haunted-hotel-ancient-bane-collectors-edition.json](./180302-haunted-hotel-ancient-bane-collectors-edition.json) |
 | Haunted Hotel: Beyond the Page | 182398 | [182398-haunted-hotel-beyond-the-page.json](./182398-haunted-hotel-beyond-the-page.json) |
+| Haunted Hotel: Charles Dexter Ward | 139199 | [139199-haunted-hotel-charles-dexter-ward.json](./139199-haunted-hotel-charles-dexter-ward.json) |
 | Haunted Hotel: Charles Dexter Ward - Collector's Edition | 102188 | [102188-haunted-hotel-charles-dexter-ward-collectors-edition.json](./102188-haunted-hotel-charles-dexter-ward-collectors-edition.json) |
 | Haunted Hotel: Death Sentence | 182387 | [182387-haunted-hotel-death-sentence.json](./182387-haunted-hotel-death-sentence.json) |
 | Haunted Hotel: Death Sentence & Eternity | 201825 | [201825-haunted-hotel-death-sentence-and-eternity.json](./201825-haunted-hotel-death-sentence-and-eternity.json) |
+| Haunted Hotel: Eclipse | 139200 | [139200-haunted-hotel-eclipse.json](./139200-haunted-hotel-eclipse.json) |
 | Haunted Hotel: Eclipse - Collector's Edition | 114345 | [114345-haunted-hotel-eclipse-collectors-edition.json](./114345-haunted-hotel-eclipse-collectors-edition.json) |
 | Haunted Hotel: Lonely Dream | 83552 | [83552-haunted-hotel-lonely-dream.json](./83552-haunted-hotel-lonely-dream.json) |
 | Haunted Hotel: Lost Dreams | 182388 | [182388-haunted-hotel-lost-dreams.json](./182388-haunted-hotel-lost-dreams.json) |
@@ -1407,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel: Personal Nightmare - Collector's Edition | 232925 | [232925-haunted-hotel-personal-nightmare-collectors-edition.json](./232925-haunted-hotel-personal-nightmare-collectors-edition.json) |
 | Haunted Hotel: Phoenix | 99994 | [99994-haunted-hotel-phoenix.json](./99994-haunted-hotel-phoenix.json) |
 | Haunted Hotel: Phoenix - Collector's Edition | 151191 | [151191-haunted-hotel-phoenix-collectors-edition.json](./151191-haunted-hotel-phoenix-collectors-edition.json) |
+| Haunted Hotel: Room 18 | 139201 | [139201-haunted-hotel-room-18.json](./139201-haunted-hotel-room-18.json) |
 | Haunted Hotel: Silent Waters | 182280 | [182280-haunted-hotel-silent-waters.json](./182280-haunted-hotel-silent-waters.json) |
 | Haunted Hotel: Silent Waters - Collector's Edition | 186678 | [186678-haunted-hotel-silent-waters-collectors-edition.json](./186678-haunted-hotel-silent-waters-collectors-edition.json) |
 | Haunted Hotel: The Thirteenth | 182281 | [182281-haunted-hotel-the-thirteenth.json](./182281-haunted-hotel-the-thirteenth.json) |
@@ -1427,7 +1432,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Lands: Burial Grounds | 240502 | [240502-haunted-lands-burial-grounds.json](./240502-haunted-lands-burial-grounds.json) |
 | Haunted Legends: Cursed Gift | 107115 | [107115-haunted-legends-cursed-gift.json](./107115-haunted-legends-cursed-gift.json) |
 | Haunted Legends: The Black Hawk | 187920 | [187920-haunted-legends-the-black-hawk.json](./187920-haunted-legends-the-black-hawk.json) |
+| Haunted Legends: The Bronze Horseman | 139202 | [139202-haunted-legends-the-bronze-horseman.json](./139202-haunted-legends-the-bronze-horseman.json) |
+| Haunted Legends: The Dark Wishes | 139203 | [139203-haunted-legends-the-dark-wishes.json](./139203-haunted-legends-the-dark-wishes.json) |
+| Haunted Legends: The Queen of Spades | 139204 | [139204-haunted-legends-the-queen-of-spades.json](./139204-haunted-legends-the-queen-of-spades.json) |
 | Haunted Legends: The Queen of Spades - Collector's Edition | 31067 | [31067-haunted-legends-the-queen-of-spades-collectors-edition.json](./31067-haunted-legends-the-queen-of-spades-collectors-edition.json) |
+| Haunted Legends: The Scars of Lamia | 139205 | [139205-haunted-legends-the-scars-of-lamia.json](./139205-haunted-legends-the-scars-of-lamia.json) |
 | Haunted Legends: The Secret of Life | 100007 | [100007-haunted-legends-the-secret-of-life.json](./100007-haunted-legends-the-secret-of-life.json) |
 | Haunted Legends: The Stone Guest - Collector's Edition | 99621 | [99621-haunted-legends-the-stone-guest-collectors-edition.json](./99621-haunted-legends-the-stone-guest-collectors-edition.json) |
 | Haunted Legends: The Stone Guest HD | 103907 | [103907-haunted-legends-the-stone-guest-hd.json](./103907-haunted-legends-the-stone-guest-hd.json) |
@@ -1898,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Jump | 293184 | [293184-heaven-jump.json](./293184-heaven-jump.json) |
 | Heaven Keepers | 192941 | [192941-heaven-keepers.json](./192941-heaven-keepers.json) |
 | Heaven Knows You | 208395 | [208395-heaven-knows-you.json](./208395-heaven-knows-you.json) |
+| Heaven on Earth | 139152 | [139152-heaven-on-earth.json](./139152-heaven-on-earth.json) |
 | Heaven On Jupiter | 327384 | [327384-heaven-on-jupiter.json](./327384-heaven-on-jupiter.json) |
 | Heaven Over It | 304029 | [304029-heaven-over-it.json](./304029-heaven-over-it.json) |
 | Heaven Slash | 139372 | [139372-heaven-slash.json](./139372-heaven-slash.json) |
@@ -3160,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeroClix TabApp ASM | 64099 | [64099-heroclix-tabapp-asm.json](./64099-heroclix-tabapp-asm.json) |
 | Herodes | 203244 | [203244-herodes.json](./203244-herodes.json) |
 | Heroes & Dice | 348833 | [348833-heroes-and-dice.json](./348833-heroes-and-dice.json) |
+| Heroes & Generals WWII | 139195 | [139195-heroes-and-generals-wwii.json](./139195-heroes-and-generals-wwii.json) |
 | Heroes & Generals: GE Giga Pack | 161911 | [161911-heroes-and-generals-ge-giga-pack.json](./161911-heroes-and-generals-ge-giga-pack.json) |
 | Heroes & Generals: GE Mega Pack | 161916 | [161916-heroes-and-generals-ge-mega-pack.json](./161916-heroes-and-generals-ge-mega-pack.json) |
 | Heroes & Generals: GE Soldier Pack - Heavy Tanker | 161720 | [161720-heroes-and-generals-ge-soldier-pack-heavy-tanker.json](./161720-heroes-and-generals-ge-soldier-pack-heavy-tanker.json) |
@@ -3983,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiden Inyou Kikouhou: Ca Da | 286595 | [286595-hiden-inyou-kikouhou-ca-da.json](./286595-hiden-inyou-kikouhou-ca-da.json) |
 | HideNSeek | 201079 | [201079-hidenseek.json](./201079-hidenseek.json) |
 | Hideous | 348801 | [348801-hideous.json](./348801-hideous.json) |
+| Hideous Destructor | 139191 | [139191-hideous-destructor.json](./139191-hideous-destructor.json) |
 | Hideout: Face your fears | 159278 | [159278-hideout-face-your-fears.json](./159278-hideout-face-your-fears.json) |
 | Hiding Out | 84518 | [84518-hiding-out.json](./84518-hiding-out.json) |
 | Hieroglyph | 218003 | [218003-hieroglyph.json](./218003-hieroglyph.json) |
