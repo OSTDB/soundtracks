@@ -1958,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rectifier: In Bloom | 351807 | [351807-rectifier-in-bloom.json](./351807-rectifier-in-bloom.json) |
 | Rectitude | 173224 | [173224-rectitude.json](./173224-rectitude.json) |
 | Recur | 325277 | [325277-recur.json](./325277-recur.json) |
+| Recurring Dreams | 156719 | [156719-recurring-dreams.json](./156719-recurring-dreams.json) |
 | Recursed | 32191 | [32191-recursed.json](./32191-recursed.json) |
 | Recursion | 379376 | [379376-recursion.json](./379376-recursion.json) |
 | Recursive Dragon | 103648 | [103648-recursive-dragon.json](./103648-recursive-dragon.json) |
@@ -4701,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Army | 46786 | [46786-robo-army.json](./46786-robo-army.json) |
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
 | Robo Dome | 320243 | [320243-robo-dome.json](./320243-robo-dome.json) |
+| Robo Gauntlet | 156720 | [156720-robo-gauntlet.json](./156720-robo-gauntlet.json) |
 | Robo Go | 165715 | [165715-robo-go.json](./165715-robo-go.json) |
 | Robo Hop | 399787 | [399787-robo-hop.json](./399787-robo-hop.json) |
 | Robo Miner 2 | 117175 | [117175-robo-miner-2.json](./117175-robo-miner-2.json) |
