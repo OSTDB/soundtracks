@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Ice Princess | 271272 | [271272-jigsaw-ice-princess.json](./271272-jigsaw-ice-princess.json) |
 | Jigsaw Industry | 357888 | [357888-jigsaw-industry.json](./357888-jigsaw-industry.json) |
 | Jigsaw Island | 308922 | [308922-jigsaw-island.json](./308922-jigsaw-island.json) |
+| Jigsaw Island: Japan Graffiti | 123396 | [123396-jigsaw-island-japan-graffiti.json](./123396-jigsaw-island-japan-graffiti.json) |
 | Jigsaw Jab | 390678 | [390678-jigsaw-jab.json](./390678-jigsaw-jab.json) |
 | Jigsaw Kids 1 | 289370 | [289370-jigsaw-kids-1.json](./289370-jigsaw-kids-1.json) |
 | Jigsaw Madness | 43918 | [43918-jigsaw-madness.json](./43918-jigsaw-madness.json) |
