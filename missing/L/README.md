@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakehouse | 191189 | [191189-lakehouse.json](./191189-lakehouse.json) |
 | LakeQueen | 394130 | [394130-lakequeen.json](./394130-lakequeen.json) |
 | Lakeside | 269563 | [269563-lakeside.json](./269563-lakeside.json) |
+| LakeSide | 149236 | [149236-lakeside.json](./149236-lakeside.json) |
 | Lakeside Bar | 346701 | [346701-lakeside-bar.json](./346701-lakeside-bar.json) |
 | Lakeside Has No Lake!! | 355614 | [355614-lakeside-has-no-lake.json](./355614-lakeside-has-no-lake.json) |
 | Lakesider: Above and Below | 285477 | [285477-lakesider-above-and-below.json](./285477-lakesider-above-and-below.json) |
@@ -2872,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Color World | 287168 | [287168-line-color-world.json](./287168-line-color-world.json) |
 | Line Crossing | 128580 | [128580-line-crossing.json](./128580-line-crossing.json) |
 | Line Crossing | 181386 | [181386-line-crossing.json](./181386-line-crossing.json) |
+| Line Dots | 149205 | [149205-line-dots.json](./149205-line-dots.json) |
 | Line GoGo! TwinBee | 282827 | [282827-line-gogo-twinbee.json](./282827-line-gogo-twinbee.json) |
 | Line Hopper | 349875 | [349875-line-hopper.json](./349875-line-hopper.json) |
 | Line Monster: Escape Dark | 252931 | [252931-line-monster-escape-dark.json](./252931-line-monster-escape-dark.json) |
