@@ -4527,6 +4527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravytX The Gravytoid | 265734 | [265734-gravytx-the-gravytoid.json](./265734-gravytx-the-gravytoid.json) |
 | Gray Dawn | 100367 | [100367-gray-dawn.json](./100367-gray-dawn.json) |
 | Gray Death | 151853 | [151853-gray-death.json](./151853-gray-death.json) |
+| Gray Desert | 128424 | [128424-gray-desert.json](./128424-gray-desert.json) |
 | Gray Matter | 264873 | [264873-gray-matter.json](./264873-gray-matter.json) |
 | Gray Matter | 3117 | [3117-gray-matter.json](./3117-gray-matter.json) |
 | Gray platformer | 142420 | [142420-gray-platformer.json](./142420-gray-platformer.json) |
