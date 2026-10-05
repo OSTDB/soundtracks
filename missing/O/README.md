@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OdiChat | 258498 | [258498-odichat.json](./258498-odichat.json) |
 | Odile: Black Duckling Tale | 381221 | [381221-odile-black-duckling-tale.json](./381221-odile-black-duckling-tale.json) |
 | Odin Sphere | 9110 | [9110-odin-sphere.json](./9110-odin-sphere.json) |
+| Odin: Valhalla Rising | 137939 | [137939-odin-valhalla-rising.json](./137939-odin-valhalla-rising.json) |
 | Odin's Ring | 213443 | [213443-odins-ring.json](./213443-odins-ring.json) |
 | Odin's Tea Party | 226131 | [226131-odins-tea-party.json](./226131-odins-tea-party.json) |
 | Odo Odo Oddity | 143676 | [143676-odo-odo-oddity.json](./143676-odo-odo-oddity.json) |
