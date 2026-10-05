@@ -5510,6 +5510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gold of the Aztecs | 12120 | [12120-the-gold-of-the-aztecs.json](./12120-the-gold-of-the-aztecs.json) |
 | The Golden Age | 213586 | [213586-the-golden-age.json](./213586-the-golden-age.json) |
 | The Golden Compass | 4892 | [4892-the-golden-compass.json](./4892-the-golden-compass.json) |
+| The Golden Cross | 150752 | [150752-the-golden-cross.json](./150752-the-golden-cross.json) |
 | The Golden Eyed Ghosts | 200521 | [200521-the-golden-eyed-ghosts.json](./200521-the-golden-eyed-ghosts.json) |
 | The Golden Harp | 176784 | [176784-the-golden-harp.json](./176784-the-golden-harp.json) |
 | The Golden Horde | 21482 | [21482-the-golden-horde.json](./21482-the-golden-horde.json) |
@@ -7549,6 +7550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monkey's Paw | 415911 | [415911-the-monkeys-paw.json](./415911-the-monkeys-paw.json) |
 | The Monster | 111019 | [111019-the-monster.json](./111019-the-monster.json) |
 | The Monster Breeder | 126558 | [126558-the-monster-breeder.json](./126558-the-monster-breeder.json) |
+| The Monster of Memory: Destiny | 150765 | [150765-the-monster-of-memory-destiny.json](./150765-the-monster-of-memory-destiny.json) |
 | The Monster War | 289980 | [289980-the-monster-war.json](./289980-the-monster-war.json) |
 | The Monster Way | 179549 | [179549-the-monster-way.json](./179549-the-monster-way.json) |
 | The Monster Within | 174346 | [174346-the-monster-within.json](./174346-the-monster-within.json) |
@@ -7584,6 +7586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Most Annoying Game Ever | 378887 | [378887-the-most-annoying-game-ever.json](./378887-the-most-annoying-game-ever.json) |
 | The Most Awesome Game Ever Made | 221758 | [221758-the-most-awesome-game-ever-made.json](./221758-the-most-awesome-game-ever-made.json) |
 | The Most Beautiful Room in the World | 273413 | [273413-the-most-beautiful-room-in-the-world.json](./273413-the-most-beautiful-room-in-the-world.json) |
+| The Most Boring Game Ever | 150751 | [150751-the-most-boring-game-ever.json](./150751-the-most-boring-game-ever.json) |
 | The Most Boring Life Ever | 161758 | [161758-the-most-boring-life-ever.json](./161758-the-most-boring-life-ever.json) |
 | The Most Desperate Angel | 205672 | [205672-the-most-desperate-angel.json](./205672-the-most-desperate-angel.json) |
 | The Most Difficult Ball Game | 387617 | [387617-the-most-difficult-ball-game.json](./387617-the-most-difficult-ball-game.json) |
@@ -14652,6 +14655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TouHou: Legend of Fairy Souls | 244730 | [244730-touhou-legend-of-fairy-souls.json](./244730-touhou-legend-of-fairy-souls.json) |
 | Touhou: Lost Children at the Bamboo Forest | 234776 | [234776-touhou-lost-children-at-the-bamboo-forest.json](./234776-touhou-lost-children-at-the-bamboo-forest.json) |
 | Touhou: Red Empress Devil | 225180 | [225180-touhou-red-empress-devil.json](./225180-touhou-red-empress-devil.json) |
+| Touhou: Shooting Star | 150753 | [150753-touhou-shooting-star.json](./150753-touhou-shooting-star.json) |
 | Touhou: Sougetsu-tou | 284603 | [284603-touhou-sougetsu-tou.json](./284603-touhou-sougetsu-tou.json) |
 | Touhou: Tales of the Scarlet | 379443 | [379443-touhou-tales-of-the-scarlet.json](./379443-touhou-tales-of-the-scarlet.json) |
 | Touhou: The Unreachable Oneiroborder | 260319 | [260319-touhou-the-unreachable-oneiroborder.json](./260319-touhou-the-unreachable-oneiroborder.json) |
