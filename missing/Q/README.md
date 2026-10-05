@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarterstaff | 300963 | [300963-quarterstaff.json](./300963-quarterstaff.json) |
 | Quarterstaff | 70924 | [70924-quarterstaff.json](./70924-quarterstaff.json) |
 | Quarterstaff: The Tomb of Setmoth | 47300 | [47300-quarterstaff-the-tomb-of-setmoth.json](./47300-quarterstaff-the-tomb-of-setmoth.json) |
+| Quartet | 165575 | [165575-quartet.json](./165575-quartet.json) |
 | Quartet | 314674 | [314674-quartet.json](./314674-quartet.json) |
 | Quartet | 36677 | [36677-quartet.json](./36677-quartet.json) |
 | Quartett!: The Stage of Love - First Press Limited Edition | 389653 | [389653-quartett-the-stage-of-love-first-press-limited-edition.json](./389653-quartett-the-stage-of-love-first-press-limited-edition.json) |
