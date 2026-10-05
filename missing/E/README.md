@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat and Evolve | 227957 | [227957-eat-and-evolve.json](./227957-eat-and-evolve.json) |
 | Eat Bananas | 213399 | [213399-eat-bananas.json](./213399-eat-bananas.json) |
 | Eat It | 414313 | [414313-eat-it.json](./414313-eat-it.json) |
+| Eat Me | 125878 | [125878-eat-me.json](./125878-eat-me.json) |
 | Eat Me Alive | 218584 | [218584-eat-me-alive.json](./218584-eat-me-alive.json) |
 | Eat Me! | 301896 | [301896-eat-me.json](./301896-eat-me.json) |
 | Eat More Vegetables! | 157206 | [157206-eat-more-vegetables.json](./157206-eat-more-vegetables.json) |
