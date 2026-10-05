@@ -1588,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schedule I: Mafia Empire | 350050 | [350050-schedule-i-mafia-empire.json](./350050-schedule-i-mafia-empire.json) |
 | Schedule Store Simulator | 406767 | [406767-schedule-store-simulator.json](./406767-schedule-store-simulator.json) |
 | Schemata | 90059 | [90059-schemata.json](./90059-schemata.json) |
+| Schematic | 152499 | [152499-schematic.json](./152499-schematic.json) |
 | Scheming Through the Zombie Apocalypse: Episode 2 - Caged | 110542 | [110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json](./110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json) |
 | Schiffbruch | 76251 | [76251-schiffbruch.json](./76251-schiffbruch.json) |
 | SCHiM | 140799 | [140799-schim.json](./140799-schim.json) |
@@ -7063,6 +7064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender: The Arrival VR | 302594 | [302594-slender-the-arrival-vr.json](./302594-slender-the-arrival-vr.json) |
 | Slender: The Eight Pages | 12938 | [12938-slender-the-eight-pages.json](./12938-slender-the-eight-pages.json) |
 | Slender: Visit into the Woods | 236922 | [236922-slender-visit-into-the-woods.json](./236922-slender-visit-into-the-woods.json) |
+| Slenderman | 152491 | [152491-slenderman.json](./152491-slenderman.json) |
 | Slenderman History: WWII Faceless Horror | 321165 | [321165-slenderman-history-wwii-faceless-horror.json](./321165-slenderman-history-wwii-faceless-horror.json) |
 | Slenderman Must Die: Survivors | 321122 | [321122-slenderman-must-die-survivors.json](./321122-slenderman-must-die-survivors.json) |
 | Slenderman Saw Game | 385596 | [385596-slenderman-saw-game.json](./385596-slenderman-saw-game.json) |
@@ -8405,6 +8407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Manager 2015 | 35594 | [35594-soccer-manager-2015.json](./35594-soccer-manager-2015.json) |
 | Soccer Manager 2016 | 34335 | [34335-soccer-manager-2016.json](./34335-soccer-manager-2016.json) |
 | Soccer Manager 2017 | 31824 | [31824-soccer-manager-2017.json](./31824-soccer-manager-2017.json) |
+| Soccer Manager 2021 | 152486 | [152486-soccer-manager-2021.json](./152486-soccer-manager-2021.json) |
 | Soccer Manager Crypto | 109908 | [109908-soccer-manager-crypto.json](./109908-soccer-manager-crypto.json) |
 | Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
 | Soccer Nations Battle | 100368 | [100368-soccer-nations-battle.json](./100368-soccer-nations-battle.json) |
@@ -8967,6 +8970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somni | 172738 | [172738-somni.json](./172738-somni.json) |
 | Somnicoda | 323296 | [323296-somnicoda.json](./323296-somnicoda.json) |
 | Somnifuge | 330702 | [330702-somnifuge.json](./330702-somnifuge.json) |
+| Somniphobia | 152472 | [152472-somniphobia.json](./152472-somniphobia.json) |
 | Somniphobia | 340940 | [340940-somniphobia.json](./340940-somniphobia.json) |
 | Somnis: Rumble Rush | 332441 | [332441-somnis-rumble-rush.json](./332441-somnis-rumble-rush.json) |
 | Somnium | 166502 | [166502-somnium.json](./166502-somnium.json) |
@@ -18448,6 +18452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspended in Dusk | 256814 | [256814-suspended-in-dusk.json](./256814-suspended-in-dusk.json) |
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
 | Suspension Railroad Simulator | 85414 | [85414-suspension-railroad-simulator.json](./85414-suspension-railroad-simulator.json) |
+| Suspicious Downpour | 152462 | [152462-suspicious-downpour.json](./152462-suspicious-downpour.json) |
 | Suspicious Person Information | 275904 | [275904-suspicious-person-information.json](./275904-suspicious-person-information.json) |
 | Suspicious Shuffle | 219557 | [219557-suspicious-shuffle.json](./219557-suspicious-shuffle.json) |
 | Sussy Cat | 401075 | [401075-sussy-cat.json](./401075-sussy-cat.json) |
