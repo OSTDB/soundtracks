@@ -2527,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of Satan | 140943 | [140943-whispers-of-satan.json](./140943-whispers-of-satan.json) |
 | Whispers of Silence | 296517 | [296517-whispers-of-silence.json](./296517-whispers-of-silence.json) |
 | Whispers of The Abyss | 301269 | [301269-whispers-of-the-abyss.json](./301269-whispers-of-the-abyss.json) |
+| Whispers of the Ancients | 137973 | [137973-whispers-of-the-ancients.json](./137973-whispers-of-the-ancients.json) |
 | Whispers of the Citadel | 275136 | [275136-whispers-of-the-citadel.json](./275136-whispers-of-the-citadel.json) |
 | Whispers of the Hourglass | 346744 | [346744-whispers-of-the-hourglass.json](./346744-whispers-of-the-hourglass.json) |
 | Whispers of the Requiem | 408115 | [408115-whispers-of-the-requiem.json](./408115-whispers-of-the-requiem.json) |
@@ -4499,6 +4500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Simulators: Ultimate Edition | 136355 | [136355-world-of-simulators-ultimate-edition.json](./136355-world-of-simulators-ultimate-edition.json) |
 | World of Slavic Glasses | 327363 | [327363-world-of-slavic-glasses.json](./327363-world-of-slavic-glasses.json) |
 | World of Slime | 415114 | [415114-world-of-slime.json](./415114-world-of-slime.json) |
+| World of Soccer | 137970 | [137970-world-of-soccer.json](./137970-world-of-soccer.json) |
 | World of Soccer Online | 34704 | [34704-world-of-soccer-online.json](./34704-world-of-soccer-online.json) |
 | World of Soccer Reloaded | 155684 | [155684-world-of-soccer-reloaded.json](./155684-world-of-soccer-reloaded.json) |
 | World of Solitaire | 139966 | [139966-world-of-solitaire.json](./139966-world-of-solitaire.json) |
