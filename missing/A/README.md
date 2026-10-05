@@ -1950,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After School Girlfriend | 206197 | [206197-after-school-girlfriend.json](./206197-after-school-girlfriend.json) |
 | After School Girlfriend: Performing Arts Club | 210608 | [210608-after-school-girlfriend-performing-arts-club.json](./210608-after-school-girlfriend-performing-arts-club.json) |
 | After School Grounds | 379498 | [379498-after-school-grounds.json](./379498-after-school-grounds.json) |
+| After School Murder Club!! | 150251 | [150251-after-school-murder-club.json](./150251-after-school-murder-club.json) |
 | After School: Full Horror Game | 233469 | [233469-after-school-full-horror-game.json](./233469-after-school-full-horror-game.json) |
 | After Stream | 235465 | [235465-after-stream.json](./235465-after-stream.json) |
 | After Sun | 180815 | [180815-after-sun.json](./180815-after-sun.json) |
@@ -6480,6 +6481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Angler | 400238 | [400238-arcane-angler.json](./400238-arcane-angler.json) |
 | Arcane Arena | 263102 | [263102-arcane-arena.json](./263102-arcane-arena.json) |
 | Arcane Array Arena | 296524 | [296524-arcane-array-arena.json](./296524-arcane-array-arena.json) |
+| Arcane Arts Academy | 150269 | [150269-arcane-arts-academy.json](./150269-arcane-arts-academy.json) |
 | Arcane Arts Academy 2 | 217989 | [217989-arcane-arts-academy-2.json](./217989-arcane-arts-academy-2.json) |
 | Arcane Arts: Sorcerer's Quest | 385316 | [385316-arcane-arts-sorcerers-quest.json](./385316-arcane-arts-sorcerers-quest.json) |
 | Arcane Assembly | 244492 | [244492-arcane-assembly.json](./244492-arcane-assembly.json) |
@@ -6657,6 +6659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archon | 375399 | [375399-archon.json](./375399-archon.json) |
 | Archon | 5539 | [5539-archon.json](./5539-archon.json) |
 | Archon Classic | 16208 | [16208-archon-classic.json](./16208-archon-classic.json) |
+| Archon-9: Alien Defense | 150249 | [150249-archon-9-alien-defense.json](./150249-archon-9-alien-defense.json) |
 | Archon: Initiator | 339920 | [339920-archon-initiator.json](./339920-archon-initiator.json) |
 | Archons: Arena | 264897 | [264897-archons-arena.json](./264897-archons-arena.json) |
 | Archquest | 154056 | [154056-archquest.json](./154056-archquest.json) |
