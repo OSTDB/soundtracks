@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Ninja Destiny II - European Version | 64486 | [64486-naruto-ninja-destiny-ii-european-version.json](./64486-naruto-ninja-destiny-ii-european-version.json) |
 | Naruto: Path of the Ninja 2 | 21375 | [21375-naruto-path-of-the-ninja-2.json](./21375-naruto-path-of-the-ninja-2.json) |
 | Naruto: Powerful Shippuden | 20846 | [20846-naruto-powerful-shippuden.json](./20846-naruto-powerful-shippuden.json) |
+| Naruto: Shinobi Collection Shippuranbu | 139193 | [139193-naruto-shinobi-collection-shippuranbu.json](./139193-naruto-shinobi-collection-shippuranbu.json) |
 | Naruto: Slugfest | 130874 | [130874-naruto-slugfest.json](./130874-naruto-slugfest.json) |
 | Naruto: The Broken Bond | 7102 | [7102-naruto-the-broken-bond.json](./7102-naruto-the-broken-bond.json) |
 | Naruto: Ultimate Ninja 3 | 19626 | [19626-naruto-ultimate-ninja-3.json](./19626-naruto-ultimate-ninja-3.json) |
@@ -2243,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niflheim Academy | 225672 | [225672-niflheim-academy.json](./225672-niflheim-academy.json) |
 | Nifty Drifty | 197701 | [197701-nifty-drifty.json](./197701-nifty-drifty.json) |
 | Nifty Island | 282824 | [282824-nifty-island.json](./282824-nifty-island.json) |
+| Nigate Tale | 139175 | [139175-nigate-tale.json](./139175-nigate-tale.json) |
 | Nige-ron-pa | 43961 | [43961-nige-ron-pa.json](./43961-nige-ron-pa.json) |
 | Nigel: The Minuscule Adventure | 121456 | [121456-nigel-the-minuscule-adventure.json](./121456-nigel-the-minuscule-adventure.json) |
 | Nigel's Journey: A Working Day | 133378 | [133378-nigels-journey-a-working-day.json](./133378-nigels-journey-a-working-day.json) |
@@ -3383,6 +3385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Tenshouki with Power-Up Kit HD Version | 90610 | [90610-nobunagas-ambition-tenshouki-with-power-up-kit-hd-version.json](./90610-nobunagas-ambition-tenshouki-with-power-up-kit-hd-version.json) |
 | NoCanNoTap | 254158 | [254158-nocannotap.json](./254158-nocannotap.json) |
 | Noce | 111848 | [111848-noce.json](./111848-noce.json) |
+| Noch | 139173 | [139173-noch.json](./139173-noch.json) |
 | Noche de Reyes | 229100 | [229100-noche-de-reyes.json](./229100-noche-de-reyes.json) |
 | Nociception: Simple Outlook From Hell | 142414 | [142414-nociception-simple-outlook-from-hell.json](./142414-nociception-simple-outlook-from-hell.json) |
 | Nociception: Voltaic Marketplace | 196130 | [196130-nociception-voltaic-marketplace.json](./196130-nociception-voltaic-marketplace.json) |
