@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Formentera | 414437 | [414437-tales-of-formentera.json](./414437-tales-of-formentera.json) |
 | Tales of Fortune | 312121 | [312121-tales-of-fortune.json](./312121-tales-of-fortune.json) |
 | Tales of Glacier VR | 57036 | [57036-tales-of-glacier-vr.json](./57036-tales-of-glacier-vr.json) |
+| Tales of Glory 2: Retaliation | 170367 | [170367-tales-of-glory-2-retaliation.json](./170367-tales-of-glory-2-retaliation.json) |
 | Tales of Graces | 1211 | [1211-tales-of-graces.json](./1211-tales-of-graces.json) |
 | Tales of Graces f | 20444 | [20444-tales-of-graces-f.json](./20444-tales-of-graces-f.json) |
 | Tales of Graces F Remastered | 314945 | [314945-tales-of-graces-f-remastered.json](./314945-tales-of-graces-f-remastered.json) |
@@ -4806,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enthralling Realms: An Alchemist's Tale | 114544 | [114544-the-enthralling-realms-an-alchemists-tale.json](./114544-the-enthralling-realms-an-alchemists-tale.json) |
 | The Enthralling Realms: Curse of Darkness | 104806 | [104806-the-enthralling-realms-curse-of-darkness.json](./104806-the-enthralling-realms-curse-of-darkness.json) |
 | The Entity | 101331 | [101331-the-entity.json](./101331-the-entity.json) |
+| The Entity: Returning Home | 170366 | [170366-the-entity-returning-home.json](./170366-the-entity-returning-home.json) |
 | The Envolution of Wandaland | 254137 | [254137-the-envolution-of-wandaland.json](./254137-the-envolution-of-wandaland.json) |
 | The Epic | 153869 | [153869-the-epic.json](./153869-the-epic.json) |
 | The Epic and Amazing Adventure of GleepglorrpgilliandoohiggintilliousMMDCCXXXIX the Adventure Where GleepglorrpgilliandoohiggintilliousMMDCCXXXIX Lives and Becomes King GleepglorrpgilliandoohiggintilliousMMDCCXXXIX | 410947 | [410947-the-epic-and-amazing-adventure-of-gleepglorrpgilliandoohiggintilliousmmdccxxxix-the-adventure-where-gleepglorrpgilliandoohiggintilliousmmdccxxxix-lives-and-becomes-king-gleepglorrpgilliandoohiggintilliousmmdccxxxix.json](./410947-the-epic-and-amazing-adventure-of-gleepglorrpgilliandoohiggintilliousmmdccxxxix-the-adventure-where-gleepglorrpgilliandoohiggintilliousmmdccxxxix-lives-and-becomes-king-gleepglorrpgilliandoohiggintilliousmmdccxxxix.json) |
@@ -12256,6 +12258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Flight | 60550 | [60550-time-flight.json](./60550-time-flight.json) |
 | Time for Teletubbies | 326581 | [326581-time-for-teletubbies.json](./326581-time-for-teletubbies.json) |
 | Time For You: Chapter 01 | 168860 | [168860-time-for-you-chapter-01.json](./168860-time-for-you-chapter-01.json) |
+| Time for You: Chapter 02 - Dirty Thoughts and Corporate Bots | 170373 | [170373-time-for-you-chapter-02-dirty-thoughts-and-corporate-bots.json](./170373-time-for-you-chapter-02-dirty-thoughts-and-corporate-bots.json) |
 | Time From Earth | 212299 | [212299-time-from-earth.json](./212299-time-from-earth.json) |
 | Time Gal & Ninja Hayate | 55871 | [55871-time-gal-and-ninja-hayate.json](./55871-time-gal-and-ninja-hayate.json) |
 | Time Gal HD Remaster | 255872 | [255872-time-gal-hd-remaster.json](./255872-time-gal-hd-remaster.json) |
@@ -14486,6 +14489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Hanoi | 188579 | [188579-tower-of-hanoi.json](./188579-tower-of-hanoi.json) |
 | Tower of Heresy | 127799 | [127799-tower-of-heresy.json](./127799-tower-of-heresy.json) |
 | Tower Of Lies | 291520 | [291520-tower-of-lies.json](./291520-tower-of-lies.json) |
+| Tower of Magic | 170275 | [170275-tower-of-magic.json](./170275-tower-of-magic.json) |
 | Tower of Minak | 299842 | [299842-tower-of-minak.json](./299842-tower-of-minak.json) |
 | Tower of Modula | 340542 | [340542-tower-of-modula.json](./340542-tower-of-modula.json) |
 | Tower of Myraglen | 57381 | [57381-tower-of-myraglen.json](./57381-tower-of-myraglen.json) |
