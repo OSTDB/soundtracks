@@ -5696,6 +5696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Color Puzzle | 232022 | [232022-four-color-puzzle.json](./232022-four-color-puzzle.json) |
 | Four Course Combat | 149535 | [149535-four-course-combat.json](./149535-four-course-combat.json) |
 | Four Divine Abidings | 352265 | [352265-four-divine-abidings.json](./352265-four-divine-abidings.json) |
+| Four Elements Trainer | 141562 | [141562-four-elements-trainer.json](./141562-four-elements-trainer.json) |
 | Four Eyes | 179600 | [179600-four-eyes.json](./179600-four-eyes.json) |
 | Four Flush | 67269 | [67269-four-flush.json](./67269-four-flush.json) |
 | Four Gods M | 200749 | [200749-four-gods-m.json](./200749-four-gods-m.json) |
@@ -5947,6 +5948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franchise Hockey Manager 3 | 25655 | [25655-franchise-hockey-manager-3.json](./25655-franchise-hockey-manager-3.json) |
 | Franchise Hockey Manager 5 | 110453 | [110453-franchise-hockey-manager-5.json](./110453-franchise-hockey-manager-5.json) |
 | Franchise Hockey Manager 6 | 122838 | [122838-franchise-hockey-manager-6.json](./122838-franchise-hockey-manager-6.json) |
+| Franchise Hockey Manager 7 | 141510 | [141510-franchise-hockey-manager-7.json](./141510-franchise-hockey-manager-7.json) |
 | Franchise Hockey Manager 9 | 220867 | [220867-franchise-hockey-manager-9.json](./220867-franchise-hockey-manager-9.json) |
 | Franchise Wars | 117179 | [117179-franchise-wars.json](./117179-franchise-wars.json) |
 | Francisca | 32062 | [32062-francisca.json](./32062-francisca.json) |
