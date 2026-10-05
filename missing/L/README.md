@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap of Fate | 50227 | [50227-leap-of-fate.json](./50227-leap-of-fate.json) |
 | Leap of Love | 149436 | [149436-leap-of-love.json](./149436-leap-of-love.json) |
 | Leap of Love: Dark Princesses | 273587 | [273587-leap-of-love-dark-princesses.json](./273587-leap-of-love-dark-princesses.json) |
+| Leap of Love: Safe Edition | 171450 | [171450-leap-of-love-safe-edition.json](./171450-leap-of-love-safe-edition.json) |
 | Leap of Phase: Samantha | 204323 | [204323-leap-of-phase-samantha.json](./204323-leap-of-phase-samantha.json) |
 | Leap of Sins | 319763 | [319763-leap-of-sins.json](./319763-leap-of-sins.json) |
 | Leap On! | 309590 | [309590-leap-on.json](./309590-leap-on.json) |
