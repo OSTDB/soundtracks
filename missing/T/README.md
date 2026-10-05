@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Defender | 187895 | [187895-tank-defender.json](./187895-tank-defender.json) |
 | Tank Domination | 343877 | [343877-tank-domination.json](./343877-tank-domination.json) |
 | Tank Elite | 82130 | [82130-tank-elite.json](./82130-tank-elite.json) |
+| Tank Fantastic | 153000 | [153000-tank-fantastic.json](./153000-tank-fantastic.json) |
 | Tank Force | 81329 | [81329-tank-force.json](./81329-tank-force.json) |
 | Tank Frenzy | 288374 | [288374-tank-frenzy.json](./288374-tank-frenzy.json) |
 | Tank Frenzy Survivor | 339419 | [339419-tank-frenzy-survivor.json](./339419-tank-frenzy-survivor.json) |
@@ -2910,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles: Digital Deluxe Edition | 313133 | [313133-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-digital-deluxe-edition.json](./313133-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-digital-deluxe-edition.json) |
 | That Time I Got Reincarnated as a Slime: The Saga of How the Demon Lord and Dragon Founded a Nation | 174820 | [174820-that-time-i-got-reincarnated-as-a-slime-the-saga-of-how-the-demon-lord-and-dragon-founded-a-nation.json](./174820-that-time-i-got-reincarnated-as-a-slime-the-saga-of-how-the-demon-lord-and-dragon-founded-a-nation.json) |
 | That Time I Got Reincarnated as a Succubus | 266307 | [266307-that-time-i-got-reincarnated-as-a-succubus.json](./266307-that-time-i-got-reincarnated-as-a-succubus.json) |
+| That Time I Got Reincarnated as an Orc | 152987 | [152987-that-time-i-got-reincarnated-as-an-orc.json](./152987-that-time-i-got-reincarnated-as-an-orc.json) |
 | That Time I Got Trapped in an Office Dungeon | 346246 | [346246-that-time-i-got-trapped-in-an-office-dungeon.json](./346246-that-time-i-got-trapped-in-an-office-dungeon.json) |
 | That time I was about to do something important but a god zipped me to another world full of people with masks and I needed to make them fall in love with me to go back | 228990 | [228990-that-time-i-was-about-to-do-something-important-but-a-god-zipped-me-to-another-world-full-of-people-with-masks-and-i-needed-to-make-them-fall-in-love-with-me-to-go-back.json](./228990-that-time-i-was-about-to-do-something-important-but-a-god-zipped-me-to-another-world-full-of-people-with-masks-and-i-needed-to-make-them-fall-in-love-with-me-to-go-back.json) |
 | That Time I Was Reincarnated as a Box that can Draw Various Lines that Interact with the Environment | 407564 | [407564-that-time-i-was-reincarnated-as-a-box-that-can-draw-various-lines-that-interact-with-the-environment.json](./407564-that-time-i-was-reincarnated-as-a-box-that-can-draw-various-lines-that-interact-with-the-environment.json) |
@@ -3712,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boundary Condition | 219549 | [219549-the-boundary-condition.json](./219549-the-boundary-condition.json) |
 | The Bounty | 86113 | [86113-the-bounty.json](./86113-the-bounty.json) |
 | The Bounty Hunter | 145558 | [145558-the-bounty-hunter.json](./145558-the-bounty-hunter.json) |
+| The Bounty Huntress | 153025 | [153025-the-bounty-huntress.json](./153025-the-bounty-huntress.json) |
 | The Bounty V2 | 75832 | [75832-the-bounty-v2.json](./75832-the-bounty-v2.json) |
 | The Bow | 60602 | [60602-the-bow.json](./60602-the-bow.json) |
 | The Bowling Tournament | 277418 | [277418-the-bowling-tournament.json](./277418-the-bowling-tournament.json) |
@@ -4936,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ever-Beginning Tale | 171981 | [171981-the-ever-beginning-tale.json](./171981-the-ever-beginning-tale.json) |
 | The Evidence | 209567 | [209567-the-evidence.json](./209567-the-evidence.json) |
 | The Evil Dead | 25832 | [25832-the-evil-dead.json](./25832-the-evil-dead.json) |
+| The Evil King | 152997 | [152997-the-evil-king.json](./152997-the-evil-king.json) |
 | The Evil Resides | 180636 | [180636-the-evil-resides.json](./180636-the-evil-resides.json) |
 | The Evil Sect | 296473 | [296473-the-evil-sect.json](./296473-the-evil-sect.json) |
 | The Evil Unleashed | 313836 | [313836-the-evil-unleashed.json](./313836-the-evil-unleashed.json) |
@@ -5365,6 +5369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game Creation Recipe | 178449 | [178449-the-game-creation-recipe.json](./178449-the-game-creation-recipe.json) |
 | The Game For Skippers | 368077 | [368077-the-game-for-skippers.json](./368077-the-game-for-skippers.json) |
 | The Game Has Started | 387007 | [387007-the-game-has-started.json](./387007-the-game-has-started.json) |
+| The Game is ON | 153026 | [153026-the-game-is-on.json](./153026-the-game-is-on.json) |
 | The Game Maker | 64485 | [64485-the-game-maker.json](./64485-the-game-maker.json) |
 | The Game of Annie | 246003 | [246003-the-game-of-annie.json](./246003-the-game-of-annie.json) |
 | The Game of Bionic Goat | 339099 | [339099-the-game-of-bionic-goat.json](./339099-the-game-of-bionic-goat.json) |
@@ -6343,6 +6348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Triads | 175211 | [175211-the-king-of-triads.json](./175211-the-king-of-triads.json) |
 | The King's Bird | 11840 | [11840-the-kings-bird.json](./11840-the-kings-bird.json) |
 | The King's Campaign | 243770 | [243770-the-kings-campaign.json](./243770-the-kings-campaign.json) |
+| The King's Cards | 153005 | [153005-the-kings-cards.json](./153005-the-kings-cards.json) |
 | The King's Carriage | 184470 | [184470-the-kings-carriage.json](./184470-the-kings-carriage.json) |
 | The King's Castle | 215739 | [215739-the-kings-castle.json](./215739-the-kings-castle.json) |
 | The King's Courier | 335242 | [335242-the-kings-courier.json](./335242-the-kings-courier.json) |
@@ -10017,6 +10023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unlit Sun | 336737 | [336737-the-unlit-sun.json](./336737-the-unlit-sun.json) |
 | The UnMaking | 191722 | [191722-the-unmaking.json](./191722-the-unmaking.json) |
 | The Unmarked | 153353 | [153353-the-unmarked.json](./153353-the-unmarked.json) |
+| The Unnamed Game | 152983 | [152983-the-unnamed-game.json](./152983-the-unnamed-game.json) |
 | The Unofficial Squaresoft MUD | 228483 | [228483-the-unofficial-squaresoft-mud.json](./228483-the-unofficial-squaresoft-mud.json) |
 | The Unplace | 373191 | [373191-the-unplace.json](./373191-the-unplace.json) |
 | The Unrest Age | 197852 | [197852-the-unrest-age.json](./197852-the-unrest-age.json) |
@@ -14445,6 +14452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toughman Contest | 19760 | [19760-toughman-contest.json](./19760-toughman-contest.json) |
 | Touhai Densetsu Akagi: Yami ni Maiorita Tensai | 74767 | [74767-touhai-densetsu-akagi-yami-ni-maiorita-tensai.json](./74767-touhai-densetsu-akagi-yami-ni-maiorita-tensai.json) |
 | Touhai Densetsu: Akagi DS - Yami ni Maiorita Tensai | 124104 | [124104-touhai-densetsu-akagi-ds-yami-ni-maiorita-tensai.json](./124104-touhai-densetsu-akagi-ds-yami-ni-maiorita-tensai.json) |
+| Touhou 3D Dungeon | 152988 | [152988-touhou-3d-dungeon.json](./152988-touhou-3d-dungeon.json) |
 | Touhou Baisyunyado: Soap of Royal Road | 138029 | [138029-touhou-baisyunyado-soap-of-royal-road.json](./138029-touhou-baisyunyado-soap-of-royal-road.json) |
 | Touhou Blooming Chaos 2 | 153523 | [153523-touhou-blooming-chaos-2.json](./153523-touhou-blooming-chaos-2.json) |
 | Touhou Blooming Chaos 2: Chara Pack 3 | 170959 | [170959-touhou-blooming-chaos-2-chara-pack-3.json](./170959-touhou-blooming-chaos-2-chara-pack-3.json) |
