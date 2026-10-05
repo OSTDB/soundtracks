@@ -4807,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid | 118871 | [118871-grid.json](./118871-grid.json) |
 | Grid 2 | 2138 | [2138-grid-2.json](./2138-grid-2.json) |
 | Grid 32 | 274128 | [274128-grid-32.json](./274128-grid-32.json) |
+| Grid Creeps | 122813 | [122813-grid-creeps.json](./122813-grid-creeps.json) |
 | Grid Crypt | 398466 | [398466-grid-crypt.json](./398466-grid-crypt.json) |
 | Grid Empire | 347843 | [347843-grid-empire.json](./347843-grid-empire.json) |
 | Grid Gladiators | 343310 | [343310-grid-gladiators.json](./343310-grid-gladiators.json) |
