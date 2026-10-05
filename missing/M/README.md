@@ -7322,6 +7322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss It! | 283707 | [283707-miss-it.json](./283707-miss-it.json) |
 | Miss Kawaii | 215606 | [215606-miss-kawaii.json](./215606-miss-kawaii.json) |
 | Miss Kawaii 2 | 222941 | [222941-miss-kawaii-2.json](./222941-miss-kawaii-2.json) |
+| Miss Lisette's Assassin Maid | 118255 | [118255-miss-lisettes-assassin-maid.json](./118255-miss-lisettes-assassin-maid.json) |
 | Miss Management | 141760 | [141760-miss-management.json](./141760-miss-management.json) |
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
 | Miss Moonlight | 305354 | [305354-miss-moonlight.json](./305354-miss-moonlight.json) |
@@ -11817,6 +11818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythargia | 216993 | [216993-mythargia.json](./216993-mythargia.json) |
 | Mythborne | 23642 | [23642-mythborne.json](./23642-mythborne.json) |
 | MythBusters: The First Experiment | 199095 | [199095-mythbusters-the-first-experiment.json](./199095-mythbusters-the-first-experiment.json) |
+| MythBusters: The Game | 118232 | [118232-mythbusters-the-game.json](./118232-mythbusters-the-game.json) |
 | Mythfall | 304752 | [304752-mythfall.json](./304752-mythfall.json) |
 | MythForce | 197712 | [197712-mythforce.json](./197712-mythforce.json) |
 | Mythia | 299866 | [299866-mythia.json](./299866-mythia.json) |
