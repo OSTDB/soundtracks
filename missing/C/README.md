@@ -4496,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chukgwi | 369102 | [369102-chukgwi.json](./369102-chukgwi.json) |
 | Chulip | 20657 | [20657-chulip.json](./20657-chulip.json) |
 | Chumbo.Zone | 133899 | [133899-chumbo-zone.json](./133899-chumbo-zone.json) |
+| Chumlee's Adventure: The Quest for Pinky | 142116 | [142116-chumlees-adventure-the-quest-for-pinky.json](./142116-chumlees-adventure-the-quest-for-pinky.json) |
 | Chungo's Gauntlet | 256900 | [256900-chungos-gauntlet.json](./256900-chungos-gauntlet.json) |
 | Chungus Rampage in Big Forest | 143068 | [143068-chungus-rampage-in-big-forest.json](./143068-chungus-rampage-in-big-forest.json) |
 | Chunithm Luminous | 281381 | [281381-chunithm-luminous.json](./281381-chunithm-luminous.json) |
@@ -4759,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Rail Hawk Radio | 149991 | [149991-cities-skylines-rail-hawk-radio.json](./149991-cities-skylines-rail-hawk-radio.json) |
 | Cities: Skylines - Remastered | 237966 | [237966-cities-skylines-remastered.json](./237966-cities-skylines-remastered.json) |
 | Cities: Skylines - Sunny Breeze Radio | 149997 | [149997-cities-skylines-sunny-breeze-radio.json](./149997-cities-skylines-sunny-breeze-radio.json) |
+| Cities: Skylines - Sunset Harbor | 142107 | [142107-cities-skylines-sunset-harbor.json](./142107-cities-skylines-sunset-harbor.json) |
 | Cities: Skylines - World Tour Bundle | 240904 | [240904-cities-skylines-world-tour-bundle.json](./240904-cities-skylines-world-tour-bundle.json) |
 | Cities: Skylines - World Tour Bundle 2 | 243292 | [243292-cities-skylines-world-tour-bundle-2.json](./243292-cities-skylines-world-tour-bundle-2.json) |
 | Cities: Skylines II | 240902 | [240902-cities-skylines-ii.json](./240902-cities-skylines-ii.json) |
@@ -8931,6 +8933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creators | 284985 | [284985-creators.json](./284985-creators.json) |
 | Creatorverse | 64497 | [64497-creatorverse.json](./64497-creatorverse.json) |
 | Creature Battle Simulator | 265388 | [265388-creature-battle-simulator.json](./265388-creature-battle-simulator.json) |
+| Creature Chess | 142103 | [142103-creature-chess.json](./142103-creature-chess.json) |
 | Creature Containment | 345035 | [345035-creature-containment.json](./345035-creature-containment.json) |
 | Creature Crawl | 415903 | [415903-creature-crawl.json](./415903-creature-crawl.json) |
 | Creature Create | 80541 | [80541-creature-create.json](./80541-creature-create.json) |
@@ -9546,6 +9549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Champion: Legends of the Arena | 31349 | [31349-crown-champion-legends-of-the-arena.json](./31349-crown-champion-legends-of-the-arena.json) |
 | Crown Chase | 412268 | [412268-crown-chase.json](./412268-crown-chase.json) |
 | Crown Claimer | 187528 | [187528-crown-claimer.json](./187528-crown-claimer.json) |
+| Crown Clicker | 142145 | [142145-crown-clicker.json](./142145-crown-clicker.json) |
 | Crown Code Chronicles | 294285 | [294285-crown-code-chronicles.json](./294285-crown-code-chronicles.json) |
 | Crown Land | 159844 | [159844-crown-land.json](./159844-crown-land.json) |
 | Crown of Arthain | 129812 | [129812-crown-of-arthain.json](./129812-crown-of-arthain.json) |
