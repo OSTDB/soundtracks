@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarter Dollar | 132678 | [132678-quarter-dollar.json](./132678-quarter-dollar.json) |
 | Quarter Five | 355561 | [355561-quarter-five.json](./355561-quarter-five.json) |
 | Quarter Fraction | 181190 | [181190-quarter-fraction.json](./181190-quarter-fraction.json) |
+| Quarter Horse Racing | 130223 | [130223-quarter-horse-racing.json](./130223-quarter-horse-racing.json) |
 | Quarter Monkey | 233759 | [233759-quarter-monkey.json](./233759-quarter-monkey.json) |
 | Quarter Past Curse | 185548 | [185548-quarter-past-curse.json](./185548-quarter-past-curse.json) |
 | Quarterback | 46853 | [46853-quarterback.json](./46853-quarterback.json) |
