@@ -5028,6 +5028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dioramos | 333556 | [333556-dioramos.json](./333556-dioramos.json) |
 | Diortem | 300797 | [300797-diortem.json](./300797-diortem.json) |
 | Dioxide | 403807 | [403807-dioxide.json](./403807-dioxide.json) |
+| Dip the Frog | 159220 | [159220-dip-the-frog.json](./159220-dip-the-frog.json) |
 | Dipets | 327300 | [327300-dipets.json](./327300-dipets.json) |
 | Diplomacy | 92082 | [92082-diplomacy.json](./92082-diplomacy.json) |
 | Diplomacy is Not an Option | 132334 | [132334-diplomacy-is-not-an-option.json](./132334-diplomacy-is-not-an-option.json) |
@@ -7838,6 +7839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest X: Mezameshi Itsutsu no Shuzoku Offline | 149989 | [149989-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-offline.json](./149989-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-offline.json) |
 | Dragon Quest X: Mezameshi Itsutsu no Shuzoku Online | 80597 | [80597-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-online.json](./80597-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-online.json) |
 | Dragon Quest X: Mirai he no Tobira to Madoromi no Shoujo Online | 260191 | [260191-dragon-quest-x-mirai-he-no-tobira-to-madoromi-no-shoujo-online.json](./260191-dragon-quest-x-mirai-he-no-tobira-to-madoromi-no-shoujo-online.json) |
+| Dragon Quest X: Tensei no Eiyuu-tachi Online | 159205 | [159205-dragon-quest-x-tensei-no-eiyuu-tachi-online.json](./159205-dragon-quest-x-tensei-no-eiyuu-tachi-online.json) |
 | Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition | 110069 | [110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json](./110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json) |
 | Dragon Quest XII: Beyond Dreams | 149978 | [149978-dragon-quest-xii-beyond-dreams.json](./149978-dragon-quest-xii-beyond-dreams.json) |
 | Dragon Quest: Legacy of the Lost | 300697 | [300697-dragon-quest-legacy-of-the-lost.json](./300697-dragon-quest-legacy-of-the-lost.json) |
