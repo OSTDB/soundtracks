@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Bird Day | 275726 | [275726-happy-bird-day.json](./275726-happy-bird-day.json) |
 | Happy Birthday | 151574 | [151574-happy-birthday.json](./151574-happy-birthday.json) |
 | Happy Birthday Pavera | 268011 | [268011-happy-birthday-pavera.json](./268011-happy-birthday-pavera.json) |
+| Happy Birthday, Adolf! | 132593 | [132593-happy-birthday-adolf.json](./132593-happy-birthday-adolf.json) |
 | Happy Birthday, Csonicgo! | 262558 | [262558-happy-birthday-csonicgo.json](./262558-happy-birthday-csonicgo.json) |
 | Happy Birthday: With Sergio Spellbound | 319682 | [319682-happy-birthday-with-sergio-spellbound.json](./319682-happy-birthday-with-sergio-spellbound.json) |
 | Happy Birthdays | 86771 | [86771-happy-birthdays.json](./86771-happy-birthdays.json) |
@@ -4088,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Stakes | 141081 | [141081-high-stakes.json](./141081-high-stakes.json) |
 | High Stakes | 299750 | [299750-high-stakes.json](./299750-high-stakes.json) |
 | High Stakes on the Vegas Strip: Poker Edition | 52236 | [52236-high-stakes-on-the-vegas-strip-poker-edition.json](./52236-high-stakes-on-the-vegas-strip-poker-edition.json) |
+| High Strategy: Urukon | 132585 | [132585-high-strategy-urukon.json](./132585-high-strategy-urukon.json) |
 | High Up | 309440 | [309440-high-up.json](./309440-high-up.json) |
 | High Velocity: Mountain Racing Challenge | 45519 | [45519-high-velocity-mountain-racing-challenge.json](./45519-high-velocity-mountain-racing-challenge.json) |
 | Highball | 119731 | [119731-highball.json](./119731-highball.json) |
