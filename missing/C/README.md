@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Beeble | 294722 | [294722-captain-beeble.json](./294722-captain-beeble.json) |
 | Captain Blacksword | 235729 | [235729-captain-blacksword.json](./235729-captain-blacksword.json) |
 | Captain Blood | 73030 | [73030-captain-blood.json](./73030-captain-blood.json) |
+| Captain Bones | 123464 | [123464-captain-bones.json](./123464-captain-bones.json) |
 | Captain Bumper | 71779 | [71779-captain-bumper.json](./71779-captain-bumper.json) |
 | Captain Buttface | 258093 | [258093-captain-buttface.json](./258093-captain-buttface.json) |
 | Captain Coffer 2D | 157474 | [157474-captain-coffer-2d.json](./157474-captain-coffer-2d.json) |
@@ -2300,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catharsis | 195791 | [195791-catharsis.json](./195791-catharsis.json) |
 | Cathedral | 122001 | [122001-cathedral.json](./122001-cathedral.json) |
 | Cathedral | 301338 | [301338-cathedral.json](./301338-cathedral.json) |
+| Cathedral 3-D | 123364 | [123364-cathedral-3-d.json](./123364-cathedral-3-d.json) |
 | Cathedral: Crow's Curse | 352757 | [352757-cathedral-crows-curse.json](./352757-cathedral-crows-curse.json) |
 | Catherine | 2151 | [2151-catherine.json](./2151-catherine.json) |
 | Catherine and the Spirit World | 315106 | [315106-catherine-and-the-spirit-world.json](./315106-catherine-and-the-spirit-world.json) |
