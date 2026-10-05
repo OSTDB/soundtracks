@@ -2236,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orestorm Factory | 224780 | [224780-orestorm-factory.json](./224780-orestorm-factory.json) |
 | Oretachi ni Tsubasa wa Nai -Prelude- | 60572 | [60572-oretachi-ni-tsubasa-wa-nai-prelude.json](./60572-oretachi-ni-tsubasa-wa-nai-prelude.json) |
 | Oretachi no Sabage Versus | 59374 | [59374-oretachi-no-sabage-versus.json](./59374-oretachi-no-sabage-versus.json) |
+| Orf Ski Challange 2016 | 125880 | [125880-orf-ski-challange-2016.json](./125880-orf-ski-challange-2016.json) |
 | Organ Failure | 383385 | [383385-organ-failure.json](./383385-organ-failure.json) |
 | Organ of Eden | 263002 | [263002-organ-of-eden.json](./263002-organ-of-eden.json) |
 | Organ Quarter Pre-Alpha Demo | 30909 | [30909-organ-quarter-pre-alpha-demo.json](./30909-organ-quarter-pre-alpha-demo.json) |
