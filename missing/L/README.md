@@ -3763,6 +3763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Puzzle Collection: Sudoku, Permudoku, Nonodoku | 147949 | [147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json](./147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json) |
 | Logic Town: Santa's Grotto | 279131 | [279131-logic-town-santas-grotto.json](./279131-logic-town-santas-grotto.json) |
 | Logic Training IQ Quiz for Kids | 401131 | [401131-logic-training-iq-quiz-for-kids.json](./401131-logic-training-iq-quiz-for-kids.json) |
+| Logic: Electrons Connect | 153491 | [153491-logic-electrons-connect.json](./153491-logic-electrons-connect.json) |
 | Logic: Keypad | 235993 | [235993-logic-keypad.json](./235993-logic-keypad.json) |
 | Logica Emotica | 203540 | [203540-logica-emotica.json](./203540-logica-emotica.json) |
 | Logicality | 203762 | [203762-logicality.json](./203762-logicality.json) |
@@ -4957,6 +4958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid Dream | 202933 | [202933-lucid-dream.json](./202933-lucid-dream.json) |
 | Lucid Nightmares | 355126 | [355126-lucid-nightmares.json](./355126-lucid-nightmares.json) |
 | Lucid Path | 108065 | [108065-lucid-path.json](./108065-lucid-path.json) |
+| Lucid Soul | 153488 | [153488-lucid-soul.json](./153488-lucid-soul.json) |
 | Lucid Steam | 158599 | [158599-lucid-steam.json](./158599-lucid-steam.json) |
 | Lucid Trips | 26803 | [26803-lucid-trips.json](./26803-lucid-trips.json) |
 | Lucid9: Inciting Incident | 80553 | [80553-lucid9-inciting-incident.json](./80553-lucid9-inciting-incident.json) |
