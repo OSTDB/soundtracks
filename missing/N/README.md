@@ -943,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need For Race: Street King | 328511 | [328511-need-for-race-street-king.json](./328511-need-for-race-street-king.json) |
 | Need For Scream | 345550 | [345550-need-for-scream.json](./345550-need-for-scream.json) |
 | Need For Seed: Undergrowth | 185512 | [185512-need-for-seed-undergrowth.json](./185512-need-for-seed-undergrowth.json) |
+| Need for sharp | 163880 | [163880-need-for-sharp.json](./163880-need-for-sharp.json) |
 | Need for Speed Deluxe Bundle | 331479 | [331479-need-for-speed-deluxe-bundle.json](./331479-need-for-speed-deluxe-bundle.json) |
 | Need for Speed II | 91 | [91-need-for-speed-ii.json](./91-need-for-speed-ii.json) |
 | Need For Speed Pro Street Pepega Edition | 257349 | [257349-need-for-speed-pro-street-pepega-edition.json](./257349-need-for-speed-pro-street-pepega-edition.json) |
@@ -1472,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerdtastic Norman & The Soul Fragments | 295400 | [295400-nerdtastic-norman-and-the-soul-fragments.json](./295400-nerdtastic-norman-and-the-soul-fragments.json) |
 | Nerf Arena Blast | 68701 | [68701-nerf-arena-blast.json](./68701-nerf-arena-blast.json) |
 | Nerf Jr. Foam Balster: Attack of The Kleptons | 210037 | [210037-nerf-jr-foam-balster-attack-of-the-kleptons.json](./210037-nerf-jr-foam-balster-attack-of-the-kleptons.json) |
+| Nerf Legends | 163875 | [163875-nerf-legends.json](./163875-nerf-legends.json) |
 | NERF Legends: Elite Blaster Combo Pack | 262314 | [262314-nerf-legends-elite-blaster-combo-pack.json](./262314-nerf-legends-elite-blaster-combo-pack.json) |
 | Nerf N-Strike | 2665 | [2665-nerf-n-strike.json](./2665-nerf-n-strike.json) |
 | Nerf Ultimate Championship | 152224 | [152224-nerf-ultimate-championship.json](./152224-nerf-ultimate-championship.json) |
@@ -1767,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New LovePlus+: Nene Artbook Limited Edition | 89888 | [89888-new-loveplus-nene-artbook-limited-edition.json](./89888-new-loveplus-nene-artbook-limited-edition.json) |
 | New LovePlus+: Rinko Artbook Limited Edition | 89881 | [89881-new-loveplus-rinko-artbook-limited-edition.json](./89881-new-loveplus-rinko-artbook-limited-edition.json) |
 | New Ludo | 232365 | [232365-new-ludo.json](./232365-new-ludo.json) |
+| New Magic Sword | 163906 | [163906-new-magic-sword.json](./163906-new-magic-sword.json) |
 | New Meat | 329030 | [329030-new-meat.json](./329030-new-meat.json) |
 | New Nintendo 3DS Internet Browser: Breakout | 251587 | [251587-new-nintendo-3ds-internet-browser-breakout.json](./251587-new-nintendo-3ds-internet-browser-breakout.json) |
 | New Path 1: Adventure or Normality? | 124237 | [124237-new-path-1-adventure-or-normality.json](./124237-new-path-1-adventure-or-normality.json) |
