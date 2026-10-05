@@ -1720,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castellan | 411700 | [411700-castellan.json](./411700-castellan.json) |
 | Castelo Rá-Tim-Bum | 84302 | [84302-castelo-ra-tim-bum.json](./84302-castelo-ra-tim-bum.json) |
 | Caster's Trap | 130339 | [130339-casters-trap.json](./130339-casters-trap.json) |
+| CasterLords | 120116 | [120116-casterlords.json](./120116-casterlords.json) |
 | Castillon | 332247 | [332247-castillon.json](./332247-castillon.json) |
 | CastingPlz | 289540 | [289540-castingplz.json](./289540-castingplz.json) |
 | Castle | 166672 | [166672-castle.json](./166672-castle.json) |
@@ -2811,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerkio | 176382 | [176382-cerkio.json](./176382-cerkio.json) |
 | Certain Death | 311466 | [311466-certain-death.json](./311466-certain-death.json) |
 | Cerulean Days | 258996 | [258996-cerulean-days.json](./258996-cerulean-days.json) |
+| Cerulean Moon | 120220 | [120220-cerulean-moon.json](./120220-cerulean-moon.json) |
 | Cerulean Tears | 323929 | [323929-cerulean-tears.json](./323929-cerulean-tears.json) |
 | Cesar Millan's Dog Whisperer | 70646 | [70646-cesar-millans-dog-whisperer.json](./70646-cesar-millans-dog-whisperer.json) |
 | Cessate il Fuoco | 305462 | [305462-cessate-il-fuoco.json](./305462-cessate-il-fuoco.json) |
@@ -3025,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Changelog | 360569 | [360569-changelog.json](./360569-changelog.json) |
 | Changeover: Decisions | 96244 | [96244-changeover-decisions.json](./96244-changeover-decisions.json) |
 | Changer Seven | 240757 | [240757-changer-seven.json](./240757-changer-seven.json) |
+| Changes | 120147 | [120147-changes.json](./120147-changes.json) |
 | Changes | 152903 | [152903-changes.json](./152903-changes.json) |
 | changeType() | 201128 | [201128-changetype.json](./201128-changetype.json) |
 | Chánggē Xíng | 129094 | [129094-changge-xing.json](./129094-changge-xing.json) |
@@ -5362,6 +5365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Quest 3D | 169824 | [169824-click-quest-3d.json](./169824-click-quest-3d.json) |
 | Click Quest 3D 2: Plus | 379551 | [379551-click-quest-3d-2-plus.json](./379551-click-quest-3d-2-plus.json) |
 | Click Space Miner | 31714 | [31714-click-space-miner.json](./31714-click-space-miner.json) |
+| Click Space Miner 2 | 120121 | [120121-click-space-miner-2.json](./120121-click-space-miner-2.json) |
 | Click the Ball! | 365716 | [365716-click-the-ball.json](./365716-click-the-ball.json) |
 | Click the Business | 111007 | [111007-click-the-business.json](./111007-click-the-business.json) |
 | Click the Button | 407167 | [407167-click-the-button.json](./407167-click-the-button.json) |
@@ -5381,6 +5385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click: Commute Control | 199036 | [199036-click-commute-control.json](./199036-click-commute-control.json) |
 | Click: Control Your Game | 199037 | [199037-click-control-your-game.json](./199037-click-control-your-game.json) |
 | Click! | 94731 | [94731-click.json](./94731-click.json) |
+| Clickable Coffee Shop | 120127 | [120127-clickable-coffee-shop.json](./120127-clickable-coffee-shop.json) |
 | Clickart | 255146 | [255146-clickart.json](./255146-clickart.json) |
 | ClickBit | 76644 | [76644-clickbit.json](./76644-clickbit.json) |
 | Clickbox | 132022 | [132022-clickbox.json](./132022-clickbox.json) |
