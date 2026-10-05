@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elastic Fantastic | 167575 | [167575-elastic-fantastic.json](./167575-elastic-fantastic.json) |
 | Elastic Soccer | 323950 | [323950-elastic-soccer.json](./323950-elastic-soccer.json) |
 | Elasto Mania | 9103 | [9103-elasto-mania.json](./9103-elasto-mania.json) |
+| Elasto Mania II | 143383 | [143383-elasto-mania-ii.json](./143383-elasto-mania-ii.json) |
 | Elasto Mania Trilogy Pack | 193754 | [193754-elasto-mania-trilogy-pack.json](./193754-elasto-mania-trilogy-pack.json) |
 | Elasto Mania: Remastered | 187473 | [187473-elasto-mania-remastered.json](./187473-elasto-mania-remastered.json) |
 | Elastrix | 36087 | [36087-elastrix.json](./36087-elastrix.json) |
@@ -1589,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emily's Bizarre Dreams | 343344 | [343344-emilys-bizarre-dreams.json](./343344-emilys-bizarre-dreams.json) |
 | Emily's Hotel Solitaire | 227854 | [227854-emilys-hotel-solitaire.json](./227854-emilys-hotel-solitaire.json) |
 | Emin's Journey | 291754 | [291754-emins-journey.json](./291754-emins-journey.json) |
+| Eminus | 143380 | [143380-eminus.json](./143380-eminus.json) |
 | Emio: The Smiling Man - Famicom Detective Club | 308052 | [308052-emio-the-smiling-man-famicom-detective-club.json](./308052-emio-the-smiling-man-famicom-detective-club.json) |
 | Emirati Tales | 349378 | [349378-emirati-tales.json](./349378-emirati-tales.json) |
 | Emiru Game | 315718 | [315718-emiru-game.json](./315718-emiru-game.json) |
@@ -1988,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endline | 144984 | [144984-endline.json](./144984-endline.json) |
 | Endling: Extinction is Forever | 105623 | [105623-endling-extinction-is-forever.json](./105623-endling-extinction-is-forever.json) |
 | Endo | 158503 | [158503-endo.json](./158503-endo.json) |
+| Endocrisis | 143368 | [143368-endocrisis.json](./143368-endocrisis.json) |
 | Endocrisis Hyperactive | 173294 | [173294-endocrisis-hyperactive.json](./173294-endocrisis-hyperactive.json) |
 | Endometric Void | 213307 | [213307-endometric-void.json](./213307-endometric-void.json) |
 | Endoom Mapping Contest 2024 | 299767 | [299767-endoom-mapping-contest-2024.json](./299767-endoom-mapping-contest-2024.json) |
