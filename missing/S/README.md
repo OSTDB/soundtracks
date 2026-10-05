@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctum: Map Pack 2 | 225076 | [225076-sanctum-map-pack-2.json](./225076-sanctum-map-pack-2.json) |
 | Sanctus | 235775 | [235775-sanctus.json](./235775-sanctus.json) |
 | Sanctus Mortem | 102912 | [102912-sanctus-mortem.json](./102912-sanctus-mortem.json) |
+| Sand and Rust | 124582 | [124582-sand-and-rust.json](./124582-sand-and-rust.json) |
 | Sand Castles | 161387 | [161387-sand-castles.json](./161387-sand-castles.json) |
 | Sand In a Box | 306434 | [306434-sand-in-a-box.json](./306434-sand-in-a-box.json) |
 | Sand Legends | 335078 | [335078-sand-legends.json](./335078-sand-legends.json) |
@@ -2472,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of Lost Pyramid | 103876 | [103876-secret-of-lost-pyramid.json](./103876-secret-of-lost-pyramid.json) |
 | Secret of Mana | 3216 | [3216-secret-of-mana.json](./3216-secret-of-mana.json) |
 | Secret of Mana: Relocalized | 249276 | [249276-secret-of-mana-relocalized.json](./249276-secret-of-mana-relocalized.json) |
+| Secret of Qwerty | 124581 | [124581-secret-of-qwerty.json](./124581-secret-of-qwerty.json) |
 | Secret of Super Seducer | 297753 | [297753-secret-of-super-seducer.json](./297753-secret-of-super-seducer.json) |
 | Secret of the Corral | 252124 | [252124-secret-of-the-corral.json](./252124-secret-of-the-corral.json) |
 | Secret of the Lost Cavern | 107393 | [107393-secret-of-the-lost-cavern.json](./107393-secret-of-the-lost-cavern.json) |
@@ -5895,6 +5897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 42: The Igo 2 | 82129 | [82129-simple-1500-series-vol-42-the-igo-2.json](./82129-simple-1500-series-vol-42-the-igo-2.json) |
 | Simple 1500 Series Vol. 52: The Pro Wrestling 2 | 44754 | [44754-simple-1500-series-vol-52-the-pro-wrestling-2.json](./44754-simple-1500-series-vol-52-the-pro-wrestling-2.json) |
 | Simple 1500 Series Vol. 56: The Sniper | 57130 | [57130-simple-1500-series-vol-56-the-sniper.json](./57130-simple-1500-series-vol-56-the-sniper.json) |
+| Simple 1500 Series Vol. 58: The Sumo | 124665 | [124665-simple-1500-series-vol-58-the-sumo.json](./124665-simple-1500-series-vol-58-the-sumo.json) |
 | Simple 1500 Series Vol. 65: The Golf | 130774 | [130774-simple-1500-series-vol-65-the-golf.json](./130774-simple-1500-series-vol-65-the-golf.json) |
 | Simple 1500 Series Vol. 77: The Suiei | 209500 | [209500-simple-1500-series-vol-77-the-suiei.json](./209500-simple-1500-series-vol-77-the-suiei.json) |
 | Simple 2000 Hello Kitty Series Vol. 1: Starlight Puzzle | 64651 | [64651-simple-2000-hello-kitty-series-vol-1-starlight-puzzle.json](./64651-simple-2000-hello-kitty-series-vol-1-starlight-puzzle.json) |
@@ -7513,6 +7516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sly Cooper and the Thievius Raccoonus | 222125 | [222125-sly-cooper-and-the-thievius-raccoonus.json](./222125-sly-cooper-and-the-thievius-raccoonus.json) |
 | Sly Cooper and the Thievius Raccoonus | 304144 | [304144-sly-cooper-and-the-thievius-raccoonus.json](./304144-sly-cooper-and-the-thievius-raccoonus.json) |
 | Sly Panda | 198514 | [198514-sly-panda.json](./198514-sly-panda.json) |
+| Sly Pitch | 124583 | [124583-sly-pitch.json](./124583-sly-pitch.json) |
 | Sly Slime | 156697 | [156697-sly-slime.json](./156697-sly-slime.json) |
 | Sly Spy | 12852 | [12852-sly-spy.json](./12852-sly-spy.json) |
 | Slyder | 69912 | [69912-slyder.json](./69912-slyder.json) |
@@ -12350,6 +12354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Vacations 2018 | 101084 | [101084-spring-vacations-2018.json](./101084-spring-vacations-2018.json) |
 | Spring: 1944 | 142500 | [142500-spring-1944.json](./142500-spring-1944.json) |
 | Spring's Finale: Tales of Love | 347352 | [347352-springs-finale-tales-of-love.json](./347352-springs-finale-tales-of-love.json) |
+| SpringBack | 124647 | [124647-springback.json](./124647-springback.json) |
 | Springblades | 227857 | [227857-springblades.json](./227857-springblades.json) |
 | Springbot: The Last Spark | 403726 | [403726-springbot-the-last-spark.json](./403726-springbot-the-last-spark.json) |
 | Springcar | 391155 | [391155-springcar.json](./391155-springcar.json) |
@@ -15837,6 +15842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Such a guy | 374236 | [374236-such-a-guy.json](./374236-such-a-guy.json) |
 | Such Ninja | 254154 | [254154-such-ninja.json](./254154-such-ninja.json) |
 | Such, Such Were the Joys | 264352 | [264352-such-such-were-the-joys.json](./264352-such-such-were-the-joys.json) |
+| Suchawira World Traveler | 124563 | [124563-suchawira-world-traveler.json](./124563-suchawira-world-traveler.json) |
 | Suck It Up | 391318 | [391318-suck-it-up.json](./391318-suck-it-up.json) |
 | Suck It Up! | 403775 | [403775-suck-it-up.json](./403775-suck-it-up.json) |
 | Suck It! | 266236 | [266236-suck-it.json](./266236-suck-it.json) |
@@ -16434,6 +16440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Mall | 138549 | [138549-sunset-mall.json](./138549-sunset-mall.json) |
 | Sunset Mall: Classic | 201244 | [201244-sunset-mall-classic.json](./201244-sunset-mall-classic.json) |
 | Sunset of Ate | 264611 | [264611-sunset-of-ate.json](./264611-sunset-of-ate.json) |
+| Sunset Over Imdahl | 124652 | [124652-sunset-over-imdahl.json](./124652-sunset-over-imdahl.json) |
 | Sunset Overdrive | 3247 | [3247-sunset-overdrive.json](./3247-sunset-overdrive.json) |
 | Sunset Overdrive: Deluxe Edition | 164800 | [164800-sunset-overdrive-deluxe-edition.json](./164800-sunset-overdrive-deluxe-edition.json) |
 | Sunset Racer | 284485 | [284485-sunset-racer.json](./284485-sunset-racer.json) |
