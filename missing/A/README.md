@@ -1697,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Time: Rockstars of Ooo | 59923 | [59923-adventure-time-rockstars-of-ooo.json](./59923-adventure-time-rockstars-of-ooo.json) |
 | Adventure Time: The Secret of the Nameless Kingdom | 8620 | [8620-adventure-time-the-secret-of-the-nameless-kingdom.json](./8620-adventure-time-the-secret-of-the-nameless-kingdom.json) |
 | Adventure To Fate: Dungeons | 397826 | [397826-adventure-to-fate-dungeons.json](./397826-adventure-to-fate-dungeons.json) |
+| Adventure to Fate: Quest to the Future JRPG | 134376 | [134376-adventure-to-fate-quest-to-the-future-jrpg.json](./134376-adventure-to-fate-quest-to-the-future-jrpg.json) |
 | Adventure Trip: Amazing World 2 | 234683 | [234683-adventure-trip-amazing-world-2.json](./234683-adventure-trip-amazing-world-2.json) |
 | Adventure Trip: Amazing World 3 | 382908 | [382908-adventure-trip-amazing-world-3.json](./382908-adventure-trip-amazing-world-3.json) |
 | Adventure Trip: Amazing World 3 - Collector's Edition | 283900 | [283900-adventure-trip-amazing-world-3-collectors-edition.json](./283900-adventure-trip-amazing-world-3-collectors-edition.json) |
@@ -1765,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurous Hearts | 231426 | [231426-adventurous-hearts.json](./231426-adventurous-hearts.json) |
 | Adventurous Mind | 259670 | [259670-adventurous-mind.json](./259670-adventurous-mind.json) |
 | Adversary Tower | 257398 | [257398-adversary-tower.json](./257398-adversary-tower.json) |
+| Advertising Agency | 134377 | [134377-advertising-agency.json](./134377-advertising-agency.json) |
 | Advisor: Elderly Paradigm | 383081 | [383081-advisor-elderly-paradigm.json](./383081-advisor-elderly-paradigm.json) |
 | Advisors at the End of the Universe | 122184 | [122184-advisors-at-the-end-of-the-universe.json](./122184-advisors-at-the-end-of-the-universe.json) |
 | Aebal | 167174 | [167174-aebal.json](./167174-aebal.json) |
@@ -1807,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero Dancing F: Todoroki Tsubasa no Hatsu Hikou | 267381 | [267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json](./267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json) |
 | Aero Dancing I | 267380 | [267380-aero-dancing-i.json](./267380-aero-dancing-i.json) |
 | Aero Dancing I: Jikai Saku made Matemasen | 267382 | [267382-aero-dancing-i-jikai-saku-made-matemasen.json](./267382-aero-dancing-i-jikai-saku-made-matemasen.json) |
+| Aero Effect | 134378 | [134378-aero-effect.json](./134378-aero-effect.json) |
 | Aero Elite: Combat Academy | 19711 | [19711-aero-elite-combat-academy.json](./19711-aero-elite-combat-academy.json) |
 | Aero Porter | 21017 | [21017-aero-porter.json](./21017-aero-porter.json) |
 | Aero Racer | 42833 | [42833-aero-racer.json](./42833-aero-racer.json) |
@@ -2606,6 +2609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airheart: Tales of Broken Wings | 26422 | [26422-airheart-tales-of-broken-wings.json](./26422-airheart-tales-of-broken-wings.json) |
 | Airheart: The Deluxe Edition | 52570 | [52570-airheart-the-deluxe-edition.json](./52570-airheart-the-deluxe-edition.json) |
 | Airi's World | 51430 | [51430-airis-world.json](./51430-airis-world.json) |
+| Airia | 134380 | [134380-airia.json](./134380-airia.json) |
 | AirJet Fighter Sky Dominators: Aerial Assault | 268480 | [268480-airjet-fighter-sky-dominators-aerial-assault.json](./268480-airjet-fighter-sky-dominators-aerial-assault.json) |
 | AirJet Fighter Sky Dominators: Aerial Assault & World War II - Airplanes Battle | 393766 | [393766-airjet-fighter-sky-dominators-aerial-assault-and-world-war-ii-airplanes-battle.json](./393766-airjet-fighter-sky-dominators-aerial-assault-and-world-war-ii-airplanes-battle.json) |
 | Airlift | 15591 | [15591-airlift.json](./15591-airlift.json) |
@@ -2902,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ALaLa: Wake Mi Up! | 36424 | [36424-alala-wake-mi-up.json](./36424-alala-wake-mi-up.json) |
 | Alaloth: Champions of the Four Kingdoms | 27406 | [27406-alaloth-champions-of-the-four-kingdoms.json](./27406-alaloth-champions-of-the-four-kingdoms.json) |
 | Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
+| Alan Sharp | 134486 | [134486-alan-sharp.json](./134486-alan-sharp.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
 | Alan Wake: Limited Collector's Edition | 47474 | [47474-alan-wake-limited-collectors-edition.json](./47474-alan-wake-limited-collectors-edition.json) |
 | Alan Wake: The Signal | 20316 | [20316-alan-wake-the-signal.json](./20316-alan-wake-the-signal.json) |
@@ -2983,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemists' Garden | 199908 | [199908-alchemists-garden.json](./199908-alchemists-garden.json) |
 | Alchemos | 190041 | [190041-alchemos.json](./190041-alchemos.json) |
 | Alchemy | 337805 | [337805-alchemy.json](./337805-alchemy.json) |
+| Alchemy 1000 | 134383 | [134383-alchemy-1000.json](./134383-alchemy-1000.json) |
 | Alchemy Academy | 337810 | [337810-alchemy-academy.json](./337810-alchemy-academy.json) |
 | Alchemy Classic | 111035 | [111035-alchemy-classic.json](./111035-alchemy-classic.json) |
 | Alchemy Deluxe | 93157 | [93157-alchemy-deluxe.json](./93157-alchemy-deluxe.json) |
@@ -3642,6 +3648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All You Have to Do Is Click the Button | 352323 | [352323-all-you-have-to-do-is-click-the-button.json](./352323-all-you-have-to-do-is-click-the-button.json) |
 | All You Want Bundle | 231294 | [231294-all-you-want-bundle.json](./231294-all-you-want-bundle.json) |
 | All Your Creeps | 65438 | [65438-all-your-creeps.json](./65438-all-your-creeps.json) |
+| All Your Time-Tossed Selves | 134379 | [134379-all-your-time-tossed-selves.json](./134379-all-your-time-tossed-selves.json) |
 | All Zombies Must Die! | 9971 | [9971-all-zombies-must-die.json](./9971-all-zombies-must-die.json) |
 | All-American College Football | 205116 | [205116-all-american-college-football.json](./205116-all-american-college-football.json) |
 | All-front Assault | 344498 | [344498-all-front-assault.json](./344498-all-front-assault.json) |
@@ -3861,6 +3868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlphaNatix: Urban Legends | 308347 | [308347-alphanatix-urban-legends.json](./308347-alphanatix-urban-legends.json) |
 | AlphaPit | 58299 | [58299-alphapit.json](./58299-alphapit.json) |
 | Alphapoint | 244329 | [244329-alphapoint.json](./244329-alphapoint.json) |
+| Alphaputt | 134386 | [134386-alphaputt.json](./134386-alphaputt.json) |
 | AlphaSwap | 234071 | [234071-alphaswap.json](./234071-alphaswap.json) |
 | Alpine Alpaca | 181218 | [181218-alpine-alpaca.json](./181218-alpine-alpaca.json) |
 | Alpine Crawler Wild | 174199 | [174199-alpine-crawler-wild.json](./174199-alpine-crawler-wild.json) |
@@ -3937,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alternative Girls 2 | 216215 | [216215-alternative-girls-2.json](./216215-alternative-girls-2.json) |
 | Alternative Shemevolution | 404836 | [404836-alternative-shemevolution.json](./404836-alternative-shemevolution.json) |
 | Alternity | 59974 | [59974-alternity.json](./59974-alternity.json) |
+| Alternoidz | 134388 | [134388-alternoidz.json](./134388-alternoidz.json) |
 | Altero | 81253 | [81253-altero.json](./81253-altero.json) |
 | AlterSpace | 250458 | [250458-alterspace.json](./250458-alterspace.json) |
 | AlterVerse: Disruption | 70394 | [70394-alterverse-disruption.json](./70394-alterverse-disruption.json) |
@@ -4122,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMazing TD | 130181 | [130181-amazing-td.json](./130181-amazing-td.json) |
 | Amazing Tetris | 74306 | [74306-amazing-tetris.json](./74306-amazing-tetris.json) |
 | Amazing Thailand VR Experience | 48003 | [48003-amazing-thailand-vr-experience.json](./48003-amazing-thailand-vr-experience.json) |
+| Amazing Thief | 134389 | [134389-amazing-thief.json](./134389-amazing-thief.json) |
 | Amazing Trip to Europe | 241300 | [241300-amazing-trip-to-europe.json](./241300-amazing-trip-to-europe.json) |
 | Amazing Trivia | 81846 | [81846-amazing-trivia.json](./81846-amazing-trivia.json) |
 | Amazing Vacation: Chicago | 337253 | [337253-amazing-vacation-chicago.json](./337253-amazing-vacation-chicago.json) |
@@ -7308,6 +7318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the World in 80 Days | 80445 | [80445-around-the-world-in-80-days.json](./80445-around-the-world-in-80-days.json) |
 | Around the World in 80 Days | 86235 | [86235-around-the-world-in-80-days.json](./86235-around-the-world-in-80-days.json) |
 | Around the World in 80 Days | 88496 | [88496-around-the-world-in-80-days.json](./88496-around-the-world-in-80-days.json) |
+| Around the World in 80d 2019 | 134390 | [134390-around-the-world-in-80d-2019.json](./134390-around-the-world-in-80d-2019.json) |
 | Around the World: Travel to Brazil | 269287 | [269287-around-the-world-travel-to-brazil.json](./269287-around-the-world-travel-to-brazil.json) |
 | Around Us | 226230 | [226230-around-us.json](./226230-around-us.json) |
 | Aroya Knight | 389681 | [389681-aroya-knight.json](./389681-aroya-knight.json) |
@@ -7720,6 +7731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashland: Rebellion of Gods | 194013 | [194013-ashland-rebellion-of-gods.json](./194013-ashland-rebellion-of-gods.json) |
 | Ashlands | 333597 | [333597-ashlands.json](./333597-ashlands.json) |
 | Ashley Clark: Secret of the Ruby | 52422 | [52422-ashley-clark-secret-of-the-ruby.json](./52422-ashley-clark-secret-of-the-ruby.json) |
+| Ashley: The Emptiness Inside | 134397 | [134397-ashley-the-emptiness-inside.json](./134397-ashley-the-emptiness-inside.json) |
 | Ashley: The One-Spell Mage | 318622 | [318622-ashley-the-one-spell-mage.json](./318622-ashley-the-one-spell-mage.json) |
 | Ashley's Adventure: Get a Job or Die Trying | 378209 | [378209-ashleys-adventure-get-a-job-or-die-trying.json](./378209-ashleys-adventure-get-a-job-or-die-trying.json) |
 | Ashrun Survivors | 410416 | [410416-ashrun-survivors.json](./410416-ashrun-survivors.json) |
