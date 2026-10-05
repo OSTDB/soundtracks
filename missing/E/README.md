@@ -2275,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Battle Fantasy Collection | 199653 | [199653-epic-battle-fantasy-collection.json](./199653-epic-battle-fantasy-collection.json) |
 | Epic Battle Fantasy: Adventure Story | 143725 | [143725-epic-battle-fantasy-adventure-story.json](./143725-epic-battle-fantasy-adventure-story.json) |
 | Epic Battle Simulator 2 | 75046 | [75046-epic-battle-simulator-2.json](./75046-epic-battle-simulator-2.json) |
+| Epic Battles of History | 158613 | [158613-epic-battles-of-history.json](./158613-epic-battles-of-history.json) |
 | Epic Blood Quest | 180185 | [180185-epic-blood-quest.json](./180185-epic-blood-quest.json) |
 | Epic Boss Fighter | 242592 | [242592-epic-boss-fighter.json](./242592-epic-boss-fighter.json) |
 | Epic Car Factory | 97568 | [97568-epic-car-factory.json](./97568-epic-car-factory.json) |
@@ -3460,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ever War | 349995 | [349995-ever-war.json](./349995-ever-war.json) |
 | Ever17 | 221220 | [221220-ever17.json](./221220-ever17.json) |
 | Ever17: CrossOver Impression | 231449 | [231449-ever17-crossover-impression.json](./231449-ever17-crossover-impression.json) |
+| Everafter Falls | 158629 | [158629-everafter-falls.json](./158629-everafter-falls.json) |
 | Everbark | 397202 | [397202-everbark.json](./397202-everbark.json) |
 | Everbee | 270130 | [270130-everbee.json](./270130-everbee.json) |
 | Everblade | 192806 | [192806-everblade.json](./192806-everblade.json) |
