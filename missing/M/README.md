@@ -11699,6 +11699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystik Belle: Enchanted Edition | 187501 | [187501-mystik-belle-enchanted-edition.json](./187501-mystik-belle-enchanted-edition.json) |
 | Mystillion | 245910 | [245910-mystillion.json](./245910-mystillion.json) |
 | Mystina: Remaster Online | 403159 | [403159-mystina-remaster-online.json](./403159-mystina-remaster-online.json) |
+| Mystiqa | 134476 | [134476-mystiqa.json](./134476-mystiqa.json) |
 | Mystragedy | 97475 | [97475-mystragedy.json](./97475-mystragedy.json) |
 | MyStylist | 68303 | [68303-mystylist.json](./68303-mystylist.json) |
 | mySudoku | 87571 | [87571-mysudoku.json](./87571-mysudoku.json) |
