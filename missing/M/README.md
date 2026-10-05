@@ -6831,6 +6831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Cup | 305861 | [305861-mini-cup.json](./305861-mini-cup.json) |
 | Mini Dash | 61052 | [61052-mini-dash.json](./61052-mini-dash.json) |
 | Mini DayZ 2 | 174700 | [174700-mini-dayz-2.json](./174700-mini-dayz-2.json) |
+| Mini Dogfight | 120217 | [120217-mini-dogfight.json](./120217-mini-dogfight.json) |
 | Mini Doom | 241983 | [241983-mini-doom.json](./241983-mini-doom.json) |
 | Mini Doom 2 | 95994 | [95994-mini-doom-2.json](./95994-mini-doom-2.json) |
 | Mini Drift Car | 337460 | [337460-mini-drift-car.json](./337460-mini-drift-car.json) |
@@ -7562,6 +7563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixed Guns | 216737 | [216737-mixed-guns.json](./216737-mixed-guns.json) |
 | Mixed Spirits | 366957 | [366957-mixed-spirits.json](./366957-mixed-spirits.json) |
 | Mixed Unit Tactics | 252983 | [252983-mixed-unit-tactics.json](./252983-mixed-unit-tactics.json) |
+| Mixee Labs | 120221 | [120221-mixee-labs.json](./120221-mixee-labs.json) |
 | Mixels Rush | 214029 | [214029-mixels-rush.json](./214029-mixels-rush.json) |
 | MixiM | 202360 | [202360-mixim.json](./202360-mixim.json) |
 | Mixing Suns | 183389 | [183389-mixing-suns.json](./183389-mixing-suns.json) |
