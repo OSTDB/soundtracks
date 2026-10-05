@@ -3036,8 +3036,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OverRapid | 75133 | [75133-overrapid.json](./75133-overrapid.json) |
 | Override | 210538 | [210538-override.json](./210538-override.json) |
 | Override 2: Super Mech League | 137296 | [137296-override-2-super-mech-league.json](./137296-override-2-super-mech-league.json) |
+| Override 2: Super Mech League - Bemular Fighter | 161782 | [161782-override-2-super-mech-league-bemular-fighter.json](./161782-override-2-super-mech-league-bemular-fighter.json) |
+| Override 2: Super Mech League - Black King Fighter | 161785 | [161785-override-2-super-mech-league-black-king-fighter.json](./161785-override-2-super-mech-league-black-king-fighter.json) |
+| Override 2: Super Mech League - Dan Moroboshi Fighter | 161783 | [161783-override-2-super-mech-league-dan-moroboshi-fighter.json](./161783-override-2-super-mech-league-dan-moroboshi-fighter.json) |
+| Override 2: Super Mech League - Ultraman | 161784 | [161784-override-2-super-mech-league-ultraman.json](./161784-override-2-super-mech-league-ultraman.json) |
 | Override 2: Super Mech League - Ultraman Deluxe Edition | 139888 | [139888-override-2-super-mech-league-ultraman-deluxe-edition.json](./139888-override-2-super-mech-league-ultraman-deluxe-edition.json) |
 | Override: Mech City Brawl | 105028 | [105028-override-mech-city-brawl.json](./105028-override-mech-city-brawl.json) |
+| Override: Mech City Brawl - Bellona | 161792 | [161792-override-mech-city-brawl-bellona.json](./161792-override-mech-city-brawl-bellona.json) |
+| Override: Mech City Brawl - Maestro | 161790 | [161790-override-mech-city-brawl-maestro.json](./161790-override-mech-city-brawl-maestro.json) |
+| Override: Mech City Brawl - Mirai | 161793 | [161793-override-mech-city-brawl-mirai.json](./161793-override-mech-city-brawl-mirai.json) |
+| Override: Mech City Brawl - Stardust | 161791 | [161791-override-mech-city-brawl-stardust.json](./161791-override-mech-city-brawl-stardust.json) |
 | Override: Mech City Brawl - Super Charged Mega Edition | 118568 | [118568-override-mech-city-brawl-super-charged-mega-edition.json](./118568-override-mech-city-brawl-super-charged-mega-edition.json) |
 | Overrider | 236375 | [236375-overrider.json](./236375-overrider.json) |
 | Overrun | 184083 | [184083-overrun.json](./184083-overrun.json) |
