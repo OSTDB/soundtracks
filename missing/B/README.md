@@ -2978,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty or the Beast | 165517 | [165517-beauty-or-the-beast.json](./165517-beauty-or-the-beast.json) |
 | Beauty Rental Shop | 203286 | [203286-beauty-rental-shop.json](./203286-beauty-rental-shop.json) |
 | Beauty Showdown: Awakening | 273088 | [273088-beauty-showdown-awakening.json](./273088-beauty-showdown-awakening.json) |
+| Beauty vs. Robot | 170279 | [170279-beauty-vs-robot.json](./170279-beauty-vs-robot.json) |
 | Beauty vs. Zombie | 309844 | [309844-beauty-vs-zombie.json](./309844-beauty-vs-zombie.json) |
 | Beaux-Arts | 372623 | [372623-beaux-arts.json](./372623-beaux-arts.json) |
 | Beaver Clicker | 211097 | [211097-beaver-clicker.json](./211097-beaver-clicker.json) |
