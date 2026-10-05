@@ -3511,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexenHold | 340469 | [340469-hexenhold.json](./340469-hexenhold.json) |
 | Hexepta: Logic Hack | 302600 | [302600-hexepta-logic-hack.json](./302600-hexepta-logic-hack.json) |
 | Hexepta: Mayor Attack | 302598 | [302598-hexepta-mayor-attack.json](./302598-hexepta-mayor-attack.json) |
+| Hexeptional Picture Puzzle | 134385 | [134385-hexeptional-picture-puzzle.json](./134385-hexeptional-picture-puzzle.json) |
 | Hexer | 148683 | [148683-hexer.json](./148683-hexer.json) |
 | Hexes | 147416 | [147416-hexes.json](./147416-hexes.json) |
 | Hexes | 243780 | [243780-hexes.json](./243780-hexes.json) |
