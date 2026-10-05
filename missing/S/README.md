@@ -6593,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Maze: Tiny Roguelike | 200709 | [200709-skull-maze-tiny-roguelike.json](./200709-skull-maze-tiny-roguelike.json) |
 | Skull Skull Skull | 333215 | [333215-skull-skull-skull.json](./333215-skull-skull-skull.json) |
 | Skull Survivor | 224603 | [224603-skull-survivor.json](./224603-skull-survivor.json) |
+| Skull's Impossible Quest | 143376 | [143376-skulls-impossible-quest.json](./143376-skulls-impossible-quest.json) |
 | Skull8 | 362873 | [362873-skull8.json](./362873-skull8.json) |
 | Skullbreaker | 370341 | [370341-skullbreaker.json](./370341-skullbreaker.json) |
 | Skullchef | 408786 | [408786-skullchef.json](./408786-skullchef.json) |
@@ -8914,6 +8915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo Defender | 333110 | [333110-solo-defender.json](./333110-solo-defender.json) |
 | Solo Flight | 25037 | [25037-solo-flight.json](./25037-solo-flight.json) |
 | Solo Flight | 289550 | [289550-solo-flight.json](./289550-solo-flight.json) |
+| Solo Fox | 143369 | [143369-solo-fox.json](./143369-solo-fox.json) |
 | Solo Leveling: Arise Overdrive | 349302 | [349302-solo-leveling-arise-overdrive.json](./349302-solo-leveling-arise-overdrive.json) |
 | Solo Noble | 175374 | [175374-solo-noble.json](./175374-solo-noble.json) |
 | Solo Records | 177936 | [177936-solo-records.json](./177936-solo-records.json) |
@@ -16647,6 +16649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Famicom Wars BS Ban | 150173 | [150173-super-famicom-wars-bs-ban.json](./150173-super-famicom-wars-bs-ban.json) |
 | Super Famista | 218386 | [218386-super-famista.json](./218386-super-famista.json) |
 | Super Fancy Pants Adventure | 51485 | [51485-super-fancy-pants-adventure.json](./51485-super-fancy-pants-adventure.json) |
+| Super Fancy Pants Adventure: Chapter 2 | 143367 | [143367-super-fancy-pants-adventure-chapter-2.json](./143367-super-fancy-pants-adventure-chapter-2.json) |
 | Super Fangame Maker | 322607 | [322607-super-fangame-maker.json](./322607-super-fangame-maker.json) |
 | Super Fantasy Kingdom | 235823 | [235823-super-fantasy-kingdom.json](./235823-super-fantasy-kingdom.json) |
 | Super Farm | 43290 | [43290-super-farm.json](./43290-super-farm.json) |
