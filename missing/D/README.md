@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Line | 327827 | [327827-dangerous-line.json](./327827-dangerous-line.json) |
 | Dangerous Plane | 149682 | [149682-dangerous-plane.json](./149682-dangerous-plane.json) |
 | Dangerous Roads Ahead | 194284 | [194284-dangerous-roads-ahead.json](./194284-dangerous-roads-ahead.json) |
+| Dangerous Shelter | 142138 | [142138-dangerous-shelter.json](./142138-dangerous-shelter.json) |
 | Dangerous Solitaire: Zombie Fever | 148931 | [148931-dangerous-solitaire-zombie-fever.json](./148931-dangerous-solitaire-zombie-fever.json) |
 | Dangerous Street | 391810 | [391810-dangerous-street.json](./391810-dangerous-street.json) |
 | Dangerous Streets / Wing Commander | 82504 | [82504-dangerous-streets-wing-commander.json](./82504-dangerous-streets-wing-commander.json) |
@@ -9419,6 +9420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon & Doggies | 303499 | [303499-dungeon-and-doggies.json](./303499-dungeon-and-doggies.json) |
 | Dungeon & Evil | 174847 | [174847-dungeon-and-evil.json](./174847-dungeon-and-evil.json) |
 | Dungeon & Fighter: Arad | 325603 | [325603-dungeon-and-fighter-arad.json](./325603-dungeon-and-fighter-arad.json) |
+| Dungeon & Fighter: Spirit | 142154 | [142154-dungeon-and-fighter-spirit.json](./142154-dungeon-and-fighter-spirit.json) |
 | Dungeon & Guarder | 92312 | [92312-dungeon-and-guarder.json](./92312-dungeon-and-guarder.json) |
 | Dungeon & Heros | 168125 | [168125-dungeon-and-heros.json](./168125-dungeon-and-heros.json) |
 | Dungeon 100 | 192663 | [192663-dungeon-100.json](./192663-dungeon-100.json) |
