@@ -2228,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Me If You Can | 143716 | [143716-catch-me-if-you-can.json](./143716-catch-me-if-you-can.json) |
 | Catch Me If You Can | 289386 | [289386-catch-me-if-you-can.json](./289386-catch-me-if-you-can.json) |
 | Catch Me If You Can | 351088 | [351088-catch-me-if-you-can.json](./351088-catch-me-if-you-can.json) |
+| Catch Mind | 125870 | [125870-catch-mind.json](./125870-catch-mind.json) |
 | Catch My Color | 295275 | [295275-catch-my-color.json](./295275-catch-my-color.json) |
 | Catch of the day | 302072 | [302072-catch-of-the-day.json](./302072-catch-of-the-day.json) |
 | Catch Pokémon | 341322 | [341322-catch-pokemon.json](./341322-catch-pokemon.json) |
@@ -5880,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code of Princess EX | 90104 | [90104-code-of-princess-ex.json](./90104-code-of-princess-ex.json) |
 | Code Of Superheroes | 301809 | [301809-code-of-superheroes.json](./301809-code-of-superheroes.json) |
 | Code of the Savage | 173310 | [173310-code-of-the-savage.json](./173310-code-of-the-savage.json) |
+| Code R | 125786 | [125786-code-r.json](./125786-code-r.json) |
 | Code R | 193858 | [193858-code-r.json](./193858-code-r.json) |
 | Code Reactors | 330142 | [330142-code-reactors.json](./330142-code-reactors.json) |
 | Code Red | 101757 | [101757-code-red.json](./101757-code-red.json) |
