@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EdelSuche | 265233 | [265233-edelsuche.json](./265233-edelsuche.json) |
 | Edelweiss Knights | 386867 | [386867-edelweiss-knights.json](./386867-edelweiss-knights.json) |
 | Edemn: Cyborg Skeleton | 249718 | [249718-edemn-cyborg-skeleton.json](./249718-edemn-cyborg-skeleton.json) |
+| Eden | 170276 | [170276-eden.json](./170276-eden.json) |
 | Eden | 85855 | [85855-eden.json](./85855-eden.json) |
 | Eden Eternal | 46995 | [46995-eden-eternal.json](./46995-eden-eternal.json) |
 | Eden Gamma | 235793 | [235793-eden-gamma.json](./235793-eden-gamma.json) |
@@ -2455,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eric and the Floaters | 45324 | [45324-eric-and-the-floaters.json](./45324-eric-and-the-floaters.json) |
 | Eric the Unready | 12426 | [12426-eric-the-unready.json](./12426-eric-the-unready.json) |
 | Eric's All-in-1 Solitaire | 86728 | [86728-erics-all-in-1-solitaire.json](./86728-erics-all-in-1-solitaire.json) |
+| Eric's Ultimate Solitaire | 170342 | [170342-erics-ultimate-solitaire.json](./170342-erics-ultimate-solitaire.json) |
 | Erich Sann | 227248 | [227248-erich-sann.json](./227248-erich-sann.json) |
 | Eridu | 180684 | [180684-eridu.json](./180684-eridu.json) |
 | Erie | 63380 | [63380-erie.json](./63380-erie.json) |
@@ -3158,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity Breaker | 376662 | [376662-eternity-breaker.json](./376662-eternity-breaker.json) |
 | Eternity Convergence | 156135 | [156135-eternity-convergence.json](./156135-eternity-convergence.json) |
 | Eternity Guards | 148488 | [148488-eternity-guards.json](./148488-eternity-guards.json) |
+| Eternity Inn | 170343 | [170343-eternity-inn.json](./170343-eternity-inn.json) |
 | Eternity Lost: Mystery of Aurum - Collector's Edition | 416770 | [416770-eternity-lost-mystery-of-aurum-collectors-edition.json](./416770-eternity-lost-mystery-of-aurum-collectors-edition.json) |
 | Eternity Warriors | 38502 | [38502-eternity-warriors.json](./38502-eternity-warriors.json) |
 | Eternity Warriors VR | 54652 | [54652-eternity-warriors-vr.json](./54652-eternity-warriors-vr.json) |
@@ -3351,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evade 2 | 227469 | [227469-evade-2.json](./227469-evade-2.json) |
 | Evade the Light | 151157 | [151157-evade-the-light.json](./151157-evade-the-light.json) |
 | Evader | 290693 | [290693-evader.json](./290693-evader.json) |
+| Evan Quest | 170357 | [170357-evan-quest.json](./170357-evan-quest.json) |
 | Evan Quest 2 | 192929 | [192929-evan-quest-2.json](./192929-evan-quest-2.json) |
 | Evander Holyfield's Real Deal Boxing | 45557 | [45557-evander-holyfields-real-deal-boxing.json](./45557-evander-holyfields-real-deal-boxing.json) |
 | Evanesce Theory | 399738 | [399738-evanesce-theory.json](./399738-evanesce-theory.json) |
