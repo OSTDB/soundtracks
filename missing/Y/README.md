@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza Kiss | 104130 | [104130-yakuza-kiss.json](./104130-yakuza-kiss.json) |
 | Yakuza Kiwami & Yakuza Kiwami 2 Bundle | 370796 | [370796-yakuza-kiwami-and-yakuza-kiwami-2-bundle.json](./370796-yakuza-kiwami-and-yakuza-kiwami-2-bundle.json) |
 | Yakuza Kiwami 2 | 55090 | [55090-yakuza-kiwami-2.json](./55090-yakuza-kiwami-2.json) |
+| Yakuza Kiwami 2: Limited Edition | 167091 | [167091-yakuza-kiwami-2-limited-edition.json](./167091-yakuza-kiwami-2-limited-edition.json) |
 | Yakuza Kiwami 3 & Dark Ties: Deluxe Edition | 370826 | [370826-yakuza-kiwami-3-and-dark-ties-deluxe-edition.json](./370826-yakuza-kiwami-3-and-dark-ties-deluxe-edition.json) |
 | Yakuza Kiwami 3 & Dark Ties: Flip Phone Customization Pack | 375193 | [375193-yakuza-kiwami-3-and-dark-ties-flip-phone-customization-pack.json](./375193-yakuza-kiwami-3-and-dark-ties-flip-phone-customization-pack.json) |
 | Yakuza Kiwami 3 & Dark Ties: Legendary BGM CD Pack | 375194 | [375194-yakuza-kiwami-3-and-dark-ties-legendary-bgm-cd-pack.json](./375194-yakuza-kiwami-3-and-dark-ties-legendary-bgm-cd-pack.json) |
@@ -955,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yukigatari | 268663 | [268663-yukigatari.json](./268663-yukigatari.json) |
 | Yukigatari Renewal | 268664 | [268664-yukigatari-renewal.json](./268664-yukigatari-renewal.json) |
 | Yukiguni no Shoujo | 164514 | [164514-yukiguni-no-shoujo.json](./164514-yukiguni-no-shoujo.json) |
+| Yukinko Burning | 167122 | [167122-yukinko-burning.json](./167122-yukinko-burning.json) |
 | Yukiusa | 277270 | [277270-yukiusa.json](./277270-yukiusa.json) |
 | Yukkuri Diary | 373010 | [373010-yukkuri-diary.json](./373010-yukkuri-diary.json) |
 | Yukkuri Labo: Touhou Yukkuri no Ragdoll Simulator Game | 220302 | [220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json](./220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json) |
