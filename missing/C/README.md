@@ -1017,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car and Driver | 72042 | [72042-car-and-driver.json](./72042-car-and-driver.json) |
 | Car Challenge | 410240 | [410240-car-challenge.json](./410240-car-challenge.json) |
 | Car Combine Mania | 342280 | [342280-car-combine-mania.json](./342280-car-combine-mania.json) |
+| Car Constructor | 169834 | [169834-car-constructor.json](./169834-car-constructor.json) |
 | Car Cops | 247218 | [247218-car-cops.json](./247218-car-cops.json) |
 | Car Crash Couch Party | 83586 | [83586-car-crash-couch-party.json](./83586-car-crash-couch-party.json) |
 | Car Crash Racing: Stunt Master | 231977 | [231977-car-crash-racing-stunt-master.json](./231977-car-crash-racing-stunt-master.json) |
@@ -5186,6 +5187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleaning up the Puzzle Gallery | 412359 | [412359-cleaning-up-the-puzzle-gallery.json](./412359-cleaning-up-the-puzzle-gallery.json) |
 | Cleaning Up! | 360587 | [360587-cleaning-up.json](./360587-cleaning-up.json) |
 | CleanSheet 2 | 404382 | [404382-cleansheet-2.json](./404382-cleansheet-2.json) |
+| Cleanup Crew | 169823 | [169823-cleanup-crew.json](./169823-cleanup-crew.json) |
 | Cleanup Crew | 286088 | [286088-cleanup-crew.json](./286088-cleanup-crew.json) |
 | Cleanup On Aisle 3 | 414428 | [414428-cleanup-on-aisle-3.json](./414428-cleanup-on-aisle-3.json) |
 | Cleanup Project | 255256 | [255256-cleanup-project.json](./255256-cleanup-project.json) |
@@ -5238,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click On Staplers Together | 306024 | [306024-click-on-staplers-together.json](./306024-click-on-staplers-together.json) |
 | Click on their Heads | 158189 | [158189-click-on-their-heads.json](./158189-click-on-their-heads.json) |
 | Click Painter | 309852 | [309852-click-painter.json](./309852-click-painter.json) |
+| Click Quest 3D | 169824 | [169824-click-quest-3d.json](./169824-click-quest-3d.json) |
 | Click Quest 3D 2: Plus | 379551 | [379551-click-quest-3d-2-plus.json](./379551-click-quest-3d-2-plus.json) |
 | Click Space Miner | 31714 | [31714-click-space-miner.json](./31714-click-space-miner.json) |
 | Click the Ball! | 365716 | [365716-click-the-ball.json](./365716-click-the-ball.json) |
@@ -6550,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet | 91155 | [91155-comet.json](./91155-comet.json) |
 | Comet Clash | 253460 | [253460-comet-clash.json](./253460-comet-clash.json) |
 | Comet Crash | 21246 | [21246-comet-crash.json](./21246-comet-crash.json) |
+| Comet Crusher: Block Breaker | 169829 | [169829-comet-crusher-block-breaker.json](./169829-comet-crusher-block-breaker.json) |
 | Comet Culling | 249779 | [249779-comet-culling.json](./249779-comet-culling.json) |
 | Comet Cutter | 417680 | [417680-comet-cutter.json](./417680-comet-cutter.json) |
 | Comet Force | 324877 | [324877-comet-force.json](./324877-comet-force.json) |
@@ -8689,6 +8693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Machines 2: Time Travel Add-On | 164374 | [164374-crazy-machines-2-time-travel-add-on.json](./164374-crazy-machines-2-time-travel-add-on.json) |
 | Crazy Machines VR | 111042 | [111042-crazy-machines-vr.json](./111042-crazy-machines-vr.json) |
 | Crazy Machines: Golden Gears | 16865 | [16865-crazy-machines-golden-gears.json](./16865-crazy-machines-golden-gears.json) |
+| Crazy Mafioso | 169839 | [169839-crazy-mafioso.json](./169839-crazy-mafioso.json) |
 | Crazy Manager | 378353 | [378353-crazy-manager.json](./378353-crazy-manager.json) |
 | Crazy Market | 62750 | [62750-crazy-market.json](./62750-crazy-market.json) |
 | Crazy Max VR | 30078 | [30078-crazy-max-vr.json](./30078-crazy-max-vr.json) |
@@ -10497,6 +10502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CV: Casting Voice | 62450 | [62450-cv-casting-voice.json](./62450-cv-casting-voice.json) |
 | Cy: Cyberpunk Survivors | 248908 | [248908-cy-cyberpunk-survivors.json](./248908-cy-cyberpunk-survivors.json) |
 | Cyadonia | 99658 | [99658-cyadonia.json](./99658-cyadonia.json) |
+| Cyan | 169808 | [169808-cyan.json](./169808-cyan.json) |
 | Cyan Avenger | 278999 | [278999-cyan-avenger.json](./278999-cyan-avenger.json) |
 | Cyan Breach | 349975 | [349975-cyan-breach.json](./349975-cyan-breach.json) |
 | Cyan Heart | 374245 | [374245-cyan-heart.json](./374245-cyan-heart.json) |
@@ -10662,6 +10668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberman | 369239 | [369239-cyberman.json](./369239-cyberman.json) |
 | CyberMedic Simulator | 118365 | [118365-cybermedic-simulator.json](./118365-cybermedic-simulator.json) |
 | Cybermercs: The Soldiers of the 22nd Century | 70386 | [70386-cybermercs-the-soldiers-of-the-22nd-century.json](./70386-cybermercs-the-soldiers-of-the-22nd-century.json) |
+| Cybermere | 169811 | [169811-cybermere.json](./169811-cybermere.json) |
 | Cybermorph | 40803 | [40803-cybermorph.json](./40803-cybermorph.json) |
 | Cybermotion | 51492 | [51492-cybermotion.json](./51492-cybermotion.json) |
 | Cybernated | 313681 | [313681-cybernated.json](./313681-cybernated.json) |
@@ -10691,6 +10698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk Inquisitor | 306065 | [306065-cyberpunk-inquisitor.json](./306065-cyberpunk-inquisitor.json) |
 | Cyberpunk Men for Cyberpunk Sex | 288882 | [288882-cyberpunk-men-for-cyberpunk-sex.json](./288882-cyberpunk-men-for-cyberpunk-sex.json) |
 | Cyberpunk Men for Sex Motel | 288895 | [288895-cyberpunk-men-for-sex-motel.json](./288895-cyberpunk-men-for-sex-motel.json) |
+| Cyberpunk Messenger | 169830 | [169830-cyberpunk-messenger.json](./169830-cyberpunk-messenger.json) |
 | Cyberpunk Samurai | 309006 | [309006-cyberpunk-samurai.json](./309006-cyberpunk-samurai.json) |
 | Cyberpunk Sex | 277366 | [277366-cyberpunk-sex.json](./277366-cyberpunk-sex.json) |
 | CyberPunk Sex Tower | 171604 | [171604-cyberpunk-sex-tower.json](./171604-cyberpunk-sex-tower.json) |
