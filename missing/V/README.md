@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil of Clay | 262951 | [262951-veil-of-clay.json](./262951-veil-of-clay.json) |
 | Veil of Darkness | 14450 | [14450-veil-of-darkness.json](./14450-veil-of-darkness.json) |
 | Veil of Darkness | 272498 | [272498-veil-of-darkness.json](./272498-veil-of-darkness.json) |
+| Veil of Dust: A Homesteading Game | 157104 | [157104-veil-of-dust-a-homesteading-game.json](./157104-veil-of-dust-a-homesteading-game.json) |
 | Veil of Secrets | 313817 | [313817-veil-of-secrets.json](./313817-veil-of-secrets.json) |
 | Veil of Torment | 351686 | [351686-veil-of-torment.json](./351686-veil-of-torment.json) |
 | Veil Runners | 310932 | [310932-veil-runners.json](./310932-veil-runners.json) |
@@ -1495,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtuoso GP Race: On | 373077 | [373077-virtuoso-gp-race-on.json](./373077-virtuoso-gp-race-on.json) |
 | Virtuoso Skins Game | 391886 | [391886-virtuoso-skins-game.json](./391886-virtuoso-skins-game.json) |
 | Virtuous Western | 156056 | [156056-virtuous-western.json](./156056-virtuous-western.json) |
+| Virtuxy | 157109 | [157109-virtuxy.json](./157109-virtuxy.json) |
 | Virulent Vessels: The Legend of Gobbledygunk | 317985 | [317985-virulent-vessels-the-legend-of-gobbledygunk.json](./317985-virulent-vessels-the-legend-of-gobbledygunk.json) |
 | Virus | 12812 | [12812-virus.json](./12812-virus.json) |
 | Virus | 289578 | [289578-virus.json](./289578-virus.json) |
@@ -1669,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VMX | 334205 | [334205-vmx.json](./334205-vmx.json) |
 | VN Dating Sims: Masa SMA | 214623 | [214623-vn-dating-sims-masa-sma.json](./214623-vn-dating-sims-masa-sma.json) |
 | Vnm | 307292 | [307292-vnm.json](./307292-vnm.json) |
+| Vocabrawlary | 157089 | [157089-vocabrawlary.json](./157089-vocabrawlary.json) |
 | VocabVan | 338565 | [338565-vocabvan.json](./338565-vocabvan.json) |
 | Vocadol | 198280 | [198280-vocadol.json](./198280-vocadol.json) |
 | Vocal Space Shooter | 156110 | [156110-vocal-space-shooter.json](./156110-vocal-space-shooter.json) |
@@ -1765,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Sols | 223109 | [223109-void-sols.json](./223109-void-sols.json) |
 | Void Stealer: Bodycam Horror | 317975 | [317975-void-stealer-bodycam-horror.json](./317975-void-stealer-bodycam-horror.json) |
 | Void Strife | 244209 | [244209-void-strife.json](./244209-void-strife.json) |
+| Void Surfer | 157096 | [157096-void-surfer.json](./157096-void-surfer.json) |
 | Void Terrarium: Limited Edition | 167108 | [167108-void-terrarium-limited-edition.json](./167108-void-terrarium-limited-edition.json) |
 | Void Titan | 220644 | [220644-void-titan.json](./220644-void-titan.json) |
 | Void War | 291212 | [291212-void-war.json](./291212-void-war.json) |
@@ -2247,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VxVigilantes | 141022 | [141022-vxvigilantes.json](./141022-vxvigilantes.json) |
 | Vy Worlds | 192896 | [192896-vy-worlds.json](./192896-vy-worlds.json) |
 | Vyanka's Memories | 307943 | [307943-vyankas-memories.json](./307943-vyankas-memories.json) |
+| Vylan | 157088 | [157088-vylan.json](./157088-vylan.json) |
 | Vyper | 130799 | [130799-vyper.json](./130799-vyper.json) |
 | Vyperspace | 181231 | [181231-vyperspace.json](./181231-vyperspace.json) |
 | Vysions | 290957 | [290957-vysions.json](./290957-vysions.json) |
