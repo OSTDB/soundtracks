@@ -2456,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Brawlers | 82034 | [82034-cave-brawlers.json](./82034-cave-brawlers.json) |
 | Cave Chaos | 250612 | [250612-cave-chaos.json](./250612-cave-chaos.json) |
 | Cave Command | 292609 | [292609-cave-command.json](./292609-cave-command.json) |
+| Cave Confectioner | 126987 | [126987-cave-confectioner.json](./126987-cave-confectioner.json) |
 | Cave Crave: Tham Luang Cave VR | 406192 | [406192-cave-crave-tham-luang-cave-vr.json](./406192-cave-crave-tham-luang-cave-vr.json) |
 | Cave Crawler | 247083 | [247083-cave-crawler.json](./247083-cave-crawler.json) |
 | Cave Crawler 2 | 318216 | [318216-cave-crawler-2.json](./318216-cave-crawler-2.json) |
@@ -3074,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Field: New Order | 43458 | [43458-chaos-field-new-order.json](./43458-chaos-field-new-order.json) |
 | Chaos Frenzy | 295347 | [295347-chaos-frenzy.json](./295347-chaos-frenzy.json) |
 | Chaos Front | 291490 | [291490-chaos-front.json](./291490-chaos-front.json) |
+| Chaos Galaxy | 126953 | [126953-chaos-galaxy.json](./126953-chaos-galaxy.json) |
 | Chaos Galaxy 2 | 148997 | [148997-chaos-galaxy-2.json](./148997-chaos-galaxy-2.json) |
 | Chaos Heat | 122943 | [122943-chaos-heat.json](./122943-chaos-heat.json) |
 | Chaos Hero | 335328 | [335328-chaos-hero.json](./335328-chaos-hero.json) |
@@ -8180,6 +8182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countries of the World | 137489 | [137489-countries-of-the-world.json](./137489-countries-of-the-world.json) |
 | Countrified | 126423 | [126423-countrified.json](./126423-countrified.json) |
 | Country Architect | 376445 | [376445-country-architect.json](./376445-country-architect.json) |
+| Country Clubbing | 126968 | [126968-country-clubbing.json](./126968-country-clubbing.json) |
 | Country Dance: 30 Chart-topping Hits!!! | 268115 | [268115-country-dance-30-chart-topping-hits.json](./268115-country-dance-30-chart-topping-hits.json) |
 | Country Discoverer | 144842 | [144842-country-discoverer.json](./144842-country-discoverer.json) |
 | Country Girl Keiko | 117867 | [117867-country-girl-keiko.json](./117867-country-girl-keiko.json) |
@@ -10840,6 +10843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber-ART | 377689 | [377689-cyber-art.json](./377689-cyber-art.json) |
 | Cyber-Assassin | 269272 | [269272-cyber-assassin.json](./269272-cyber-assassin.json) |
 | Cyber-Cop | 80869 | [80869-cyber-cop.json](./80869-cyber-cop.json) |
+| Cyber.one: Trans Car Racing | 126985 | [126985-cyber-one-trans-car-racing.json](./126985-cyber-one-trans-car-racing.json) |
 | Cyber92 Datawar | 398491 | [398491-cyber92-datawar.json](./398491-cyber92-datawar.json) |
 | CyberArena | 338211 | [338211-cyberarena.json](./338211-cyberarena.json) |
 | Cyberball | 12022 | [12022-cyberball.json](./12022-cyberball.json) |
