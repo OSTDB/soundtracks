@@ -7193,6 +7193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers Time Force | 248622 | [248622-power-rangers-time-force.json](./248622-power-rangers-time-force.json) |
 | Power Rangers Time Force | 248623 | [248623-power-rangers-time-force.json](./248623-power-rangers-time-force.json) |
 | Power Rangers Time Force | 3293 | [3293-power-rangers-time-force.json](./3293-power-rangers-time-force.json) |
+| Power Rangers Time Force and Power Rangers Ninja Storm | 136206 | [136206-power-rangers-time-force-and-power-rangers-ninja-storm.json](./136206-power-rangers-time-force-and-power-rangers-ninja-storm.json) |
 | Power Rangers Zeo: Battle Racers | 3295 | [3295-power-rangers-zeo-battle-racers.json](./3295-power-rangers-zeo-battle-racers.json) |
 | Power Rangers: Battle for the Grid - Adam Park | 326725 | [326725-power-rangers-battle-for-the-grid-adam-park.json](./326725-power-rangers-battle-for-the-grid-adam-park.json) |
 | Power Rangers: Battle for the Grid - Anubis Cruger SPD Shadow Ranger | 167794 | [167794-power-rangers-battle-for-the-grid-anubis-cruger-spd-shadow-ranger.json](./167794-power-rangers-battle-for-the-grid-anubis-cruger-spd-shadow-ranger.json) |
@@ -7750,6 +7751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pringles | 45559 | [45559-pringles.json](./45559-pringles.json) |
 | Pringles Chip Racer | 335431 | [335431-pringles-chip-racer.json](./335431-pringles-chip-racer.json) |
 | Prinny 1 & 2: Exploded and Reloaded | 133809 | [133809-prinny-1-and-2-exploded-and-reloaded.json](./133809-prinny-1-and-2-exploded-and-reloaded.json) |
+| Prinny 1•2: Exploded and Reloaded - Just Desserts Edition | 136215 | [136215-prinny-1-2-exploded-and-reloaded-just-desserts-edition.json](./136215-prinny-1-2-exploded-and-reloaded-just-desserts-edition.json) |
 | Prinny Party: Going Overboard! | 394548 | [394548-prinny-party-going-overboard.json](./394548-prinny-party-going-overboard.json) |
 | Prinny Presents NIS Classics Volumes 1-3 Bundle | 234638 | [234638-prinny-presents-nis-classics-volumes-1-3-bundle.json](./234638-prinny-presents-nis-classics-volumes-1-3-bundle.json) |
 | Prinny Presents: NIS Classics Vol 1 - Deluxe Edition | 148545 | [148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json](./148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json) |
