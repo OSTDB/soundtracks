@@ -1812,9 +1812,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron III Collection | 53177 | [53177-hearts-of-iron-iii-collection.json](./53177-hearts-of-iron-iii-collection.json) |
 | Hearts of Iron III: DLC Collection | 154613 | [154613-hearts-of-iron-iii-dlc-collection.json](./154613-hearts-of-iron-iii-dlc-collection.json) |
 | Hearts of Iron III: For the Motherland | 10400 | [10400-hearts-of-iron-iii-for-the-motherland.json](./10400-hearts-of-iron-iii-for-the-motherland.json) |
+| Hearts of Iron III: Semper Fi - Dies Irae Götterdämmerung | 151256 | [151256-hearts-of-iron-iii-semper-fi-dies-irae-gotterdammerung.json](./151256-hearts-of-iron-iii-semper-fi-dies-irae-gotterdammerung.json) |
 | Hearts of Iron IV | 15894 | [15894-hearts-of-iron-iv.json](./15894-hearts-of-iron-iv.json) |
 | Hearts of Iron IV: Allied Armor Pack | 165012 | [165012-hearts-of-iron-iv-allied-armor-pack.json](./165012-hearts-of-iron-iv-allied-armor-pack.json) |
 | Hearts of Iron IV: Arms Against Tyranny | 253959 | [253959-hearts-of-iron-iv-arms-against-tyranny.json](./253959-hearts-of-iron-iv-arms-against-tyranny.json) |
+| Hearts of Iron IV: Battle for the Bosporus | 151257 | [151257-hearts-of-iron-iv-battle-for-the-bosporus.json](./151257-hearts-of-iron-iv-battle-for-the-bosporus.json) |
 | Hearts of Iron IV: By Blood Alone | 206963 | [206963-hearts-of-iron-iv-by-blood-alone.json](./206963-hearts-of-iron-iv-by-blood-alone.json) |
 | Hearts of Iron IV: Cadet Edition | 53178 | [53178-hearts-of-iron-iv-cadet-edition.json](./53178-hearts-of-iron-iv-cadet-edition.json) |
 | Hearts of Iron IV: Colonel Edition | 53179 | [53179-hearts-of-iron-iv-colonel-edition.json](./53179-hearts-of-iron-iv-colonel-edition.json) |
@@ -1823,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron IV: Field Marshal Edition | 53181 | [53181-hearts-of-iron-iv-field-marshal-edition.json](./53181-hearts-of-iron-iv-field-marshal-edition.json) |
 | Hearts of Iron IV: Götterdämmerung | 322161 | [322161-hearts-of-iron-iv-gotterdammerung.json](./322161-hearts-of-iron-iv-gotterdammerung.json) |
 | Hearts of Iron IV: Hero Edition | 47308 | [47308-hearts-of-iron-iv-hero-edition.json](./47308-hearts-of-iron-iv-hero-edition.json) |
+| Hearts of Iron IV: La Résistance | 151254 | [151254-hearts-of-iron-iv-la-resistance.json](./151254-hearts-of-iron-iv-la-resistance.json) |
 | Hearts of Iron IV: Man the Guns | 115063 | [115063-hearts-of-iron-iv-man-the-guns.json](./115063-hearts-of-iron-iv-man-the-guns.json) |
 | Hearts of Iron IV: Peace for Our Time | 399142 | [399142-hearts-of-iron-iv-peace-for-our-time.json](./399142-hearts-of-iron-iv-peace-for-our-time.json) |
 | Hearts of Iron IV: Together for Victory | 53182 | [53182-hearts-of-iron-iv-together-for-victory.json](./53182-hearts-of-iron-iv-together-for-victory.json) |
