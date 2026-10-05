@@ -3726,6 +3726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: Star Wars Pinball - Balance of the Force | 20005 | [20005-pinball-fx3-star-wars-pinball-balance-of-the-force.json](./20005-pinball-fx3-star-wars-pinball-balance-of-the-force.json) |
 | Pinball FX3: Star Wars Pinball - Heroes Within | 52877 | [52877-pinball-fx3-star-wars-pinball-heroes-within.json](./52877-pinball-fx3-star-wars-pinball-heroes-within.json) |
 | Pinball FX3: Star Wars Pinball - Rogue One | 26928 | [26928-pinball-fx3-star-wars-pinball-rogue-one.json](./26928-pinball-fx3-star-wars-pinball-rogue-one.json) |
+| Pinball FX3: Star Wars Pinball - Solo | 160300 | [160300-pinball-fx3-star-wars-pinball-solo.json](./160300-pinball-fx3-star-wars-pinball-solo.json) |
 | Pinball FX3: Star Wars Pinball Season 1 Bundle | 265254 | [265254-pinball-fx3-star-wars-pinball-season-1-bundle.json](./265254-pinball-fx3-star-wars-pinball-season-1-bundle.json) |
 | Pinball FX3: The Walking Dead Pinball | 164001 | [164001-pinball-fx3-the-walking-dead-pinball.json](./164001-pinball-fx3-the-walking-dead-pinball.json) |
 | Pinball FX3: Williams Pinball - Season 1 Bundle | 354048 | [354048-pinball-fx3-williams-pinball-season-1-bundle.json](./354048-pinball-fx3-williams-pinball-season-1-bundle.json) |
@@ -4808,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Coaster: Deluxe Rides Collection | 173162 | [173162-planet-coaster-deluxe-rides-collection.json](./173162-planet-coaster-deluxe-rides-collection.json) |
 | Planet Coaster: Ghostbusters | 118924 | [118924-planet-coaster-ghostbusters.json](./118924-planet-coaster-ghostbusters.json) |
 | Planet Coaster: Knight Rider K.I.T.T. Construction Kit | 168239 | [168239-planet-coaster-knight-rider-k-i-t-t-construction-kit.json](./168239-planet-coaster-knight-rider-k-i-t-t-construction-kit.json) |
+| Planet Coaster: Magnificent Rides Collection | 160289 | [160289-planet-coaster-magnificent-rides-collection.json](./160289-planet-coaster-magnificent-rides-collection.json) |
 | Planet Coaster: Quick Draw Interactive Shooting Ride | 168241 | [168241-planet-coaster-quick-draw-interactive-shooting-ride.json](./168241-planet-coaster-quick-draw-interactive-shooting-ride.json) |
 | Planet Coaster: The Munsters Munster Koach Construction Kit | 168242 | [168242-planet-coaster-the-munsters-munster-koach-construction-kit.json](./168242-planet-coaster-the-munsters-munster-koach-construction-kit.json) |
 | Planet Collectors: Episode Earth | 193423 | [193423-planet-collectors-episode-earth.json](./193423-planet-collectors-episode-earth.json) |
@@ -9675,6 +9677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzled Knight | 125819 | [125819-puzzled-knight.json](./125819-puzzled-knight.json) |
 | Puzzled Love | 180813 | [180813-puzzled-love.json](./180813-puzzled-love.json) |
 | Puzzledom - classic puzzles all in one | 99221 | [99221-puzzledom-classic-puzzles-all-in-one.json](./99221-puzzledom-classic-puzzles-all-in-one.json) |
+| Puzzledorf | 160209 | [160209-puzzledorf.json](./160209-puzzledorf.json) |
 | Puzzledrome | 200061 | [200061-puzzledrome.json](./200061-puzzledrome.json) |
 | Puzzlefall | 58177 | [58177-puzzlefall.json](./58177-puzzlefall.json) |
 | Puzzlefun | 88304 | [88304-puzzlefun.json](./88304-puzzlefun.json) |
