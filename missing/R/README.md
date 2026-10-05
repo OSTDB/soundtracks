@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Vessel | 202321 | [202321-re-vessel.json](./202321-re-vessel.json) |
 | Re:Zero - Infinity | 193944 | [193944-re-zero-infinity.json](./193944-re-zero-infinity.json) |
 | Re:Zero - Starting Life in Another World: Death or Kiss | 26668 | [26668-re-zero-starting-life-in-another-world-death-or-kiss.json](./26668-re-zero-starting-life-in-another-world-death-or-kiss.json) |
+| Re:Zero - Starting Life in Another World: Lost in Memories | 137943 | [137943-re-zero-starting-life-in-another-world-lost-in-memories.json](./137943-re-zero-starting-life-in-another-world-lost-in-memories.json) |
 | Re:Zero - Starting Life in Another World: The Prophecy of the Throne | 134556 | [134556-re-zero-starting-life-in-another-world-the-prophecy-of-the-throne.json](./134556-re-zero-starting-life-in-another-world-the-prophecy-of-the-throne.json) |
 | Re:Zero - The Forbidden Book and the Mysterious Spirit | 144893 | [144893-re-zero-the-forbidden-book-and-the-mysterious-spirit.json](./144893-re-zero-the-forbidden-book-and-the-mysterious-spirit.json) |
 | Re:Zero -Starting Life in Another World- Death or Kiss Limited Edition | 167132 | [167132-re-zero-starting-life-in-another-world-death-or-kiss-limited-edition.json](./167132-re-zero-starting-life-in-another-world-death-or-kiss-limited-edition.json) |
@@ -4527,6 +4528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riverflow | 252267 | [252267-riverflow.json](./252267-riverflow.json) |
 | Riverside | 84838 | [84838-riverside.json](./84838-riverside.json) |
 | Riversiders | 253418 | [253418-riversiders.json](./253418-riversiders.json) |
+| Rivet | 137987 | [137987-rivet.json](./137987-rivet.json) |
 | Riviera: The Promised Land | 304131 | [304131-riviera-the-promised-land.json](./304131-riviera-the-promised-land.json) |
 | Riviera: The Promised Land | 6559 | [6559-riviera-the-promised-land.json](./6559-riviera-the-promised-land.json) |
 | Riviera: Yakusoku no Chi Riviera | 37281 | [37281-riviera-yakusoku-no-chi-riviera.json](./37281-riviera-yakusoku-no-chi-riviera.json) |
@@ -5222,6 +5224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman X3: New Year 2022 | 282078 | [282078-rockman-x3-new-year-2022.json](./282078-rockman-x3-new-year-2022.json) |
 | Rockman Xover | 64138 | [64138-rockman-xover.json](./64138-rockman-xover.json) |
 | Rockmen R: Dr. Wily no Gyakushuu | 80225 | [80225-rockmen-r-dr-wily-no-gyakushuu.json](./80225-rockmen-r-dr-wily-no-gyakushuu.json) |
+| Rockmen R2: Dr. W*ly no Saiki!! | 137941 | [137941-rockmen-r2-dr-w-ly-no-saiki.json](./137941-rockmen-r2-dr-w-ly-no-saiki.json) |
 | Rockmorse | 181367 | [181367-rockmorse.json](./181367-rockmorse.json) |
 | Rocko's Modern Life: Match-Master | 273876 | [273876-rockos-modern-life-match-master.json](./273876-rockos-modern-life-match-master.json) |
 | Rocko's Quest | 17345 | [17345-rockos-quest.json](./17345-rockos-quest.json) |
