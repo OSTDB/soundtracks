@@ -3013,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermitage: Strange Case Files | 130256 | [130256-hermitage-strange-case-files.json](./130256-hermitage-strange-case-files.json) |
 | Hero | 313746 | [313746-hero.json](./313746-hero.json) |
 | Hero | 46879 | [46879-hero.json](./46879-hero.json) |
+| Hero Allstars: Void Invasion | 158120 | [158120-hero-allstars-void-invasion.json](./158120-hero-allstars-void-invasion.json) |
 | Hero Among Us | 143686 | [143686-hero-among-us.json](./143686-hero-among-us.json) |
 | Hero and Daughter | 58887 | [58887-hero-and-daughter.json](./58887-hero-and-daughter.json) |
 | Hero Barrier | 29747 | [29747-hero-barrier.json](./29747-hero-barrier.json) |
@@ -3358,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Pool | 40172 | [40172-hex-pool.json](./40172-hex-pool.json) |
 | Hex Racer | 259061 | [259061-hex-racer.json](./259061-hex-racer.json) |
 | Hex Rally Racers | 201251 | [201251-hex-rally-racers.json](./201251-hex-rally-racers.json) |
+| Hex Slayer | 158115 | [158115-hex-slayer.json](./158115-hex-slayer.json) |
 | Hex Tetris | 61331 | [61331-hex-tetris.json](./61331-hex-tetris.json) |
 | Hex Tunnel Touch | 100602 | [100602-hex-tunnel-touch.json](./100602-hex-tunnel-touch.json) |
 | Hex Two | 102218 | [102218-hex-two.json](./102218-hex-two.json) |
@@ -3395,6 +3397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexahedral | 314461 | [314461-hexahedral.json](./314461-hexahedral.json) |
 | Hexahedral Pathfinder | 108418 | [108418-hexahedral-pathfinder.json](./108418-hexahedral-pathfinder.json) |
 | Hexalert | 337635 | [337635-hexalert.json](./337635-hexalert.json) |
+| HexaLife | 158117 | [158117-hexalife.json](./158117-hexalife.json) |
 | Hexalot | 53215 | [53215-hexalot.json](./53215-hexalot.json) |
 | Hexaluga: Weapon and Shield | 96475 | [96475-hexaluga-weapon-and-shield.json](./96475-hexaluga-weapon-and-shield.json) |
 | Hexamania | 145441 | [145441-hexamania.json](./145441-hexamania.json) |
