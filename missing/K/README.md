@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Station: Soreike! Anpanman | 302606 | [302606-kids-station-soreike-anpanman.json](./302606-kids-station-soreike-anpanman.json) |
 | Kids Train Sim | 100614 | [100614-kids-train-sim.json](./100614-kids-train-sim.json) |
 | Kids Vehicles Fire Truck games | 107649 | [107649-kids-vehicles-fire-truck-games.json](./107649-kids-vehicles-fire-truck-games.json) |
+| Kids: Farm Puzzle | 154590 | [154590-kids-farm-puzzle.json](./154590-kids-farm-puzzle.json) |
 | Kids: Zoo Puzzle | 215395 | [215395-kids-zoo-puzzle.json](./215395-kids-zoo-puzzle.json) |
 | Kids' WB Turkey Day Food Fling | 313270 | [313270-kids-wb-turkey-day-food-fling.json](./313270-kids-wb-turkey-day-food-fling.json) |
 | Kids' World History: Which Side Are You On!? | 420671 | [420671-kids-world-history-which-side-are-you-on.json](./420671-kids-world-history-which-side-are-you-on.json) |
