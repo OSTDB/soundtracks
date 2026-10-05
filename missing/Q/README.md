@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qdice | 232975 | [232975-qdice.json](./232975-qdice.json) |
 | QED Refine/Succeed | 125392 | [125392-qed-refine-succeed.json](./125392-qed-refine-succeed.json) |
 | Qelochia | 384498 | [384498-qelochia.json](./384498-qelochia.json) |
+| QField | 171989 | [171989-qfield.json](./171989-qfield.json) |
 | Qi Shen Nong Gui | 277960 | [277960-qi-shen-nong-gui.json](./277960-qi-shen-nong-gui.json) |
 | Qian-Shan Village | 119626 | [119626-qian-shan-village.json](./119626-qian-shan-village.json) |
 | Qiángjūn | 98982 | [98982-qiangjun.json](./98982-qiangjun.json) |
@@ -660,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quizarium | 232569 | [232569-quizarium.json](./232569-quizarium.json) |
 | Quizball Goal | 94167 | [94167-quizball-goal.json](./94167-quizball-goal.json) |
 | QuizCross | 58213 | [58213-quizcross.json](./58213-quizcross.json) |
+| Quizee | 171897 | [171897-quizee.json](./171897-quizee.json) |
 | QuizFizz | 255140 | [255140-quizfizz.json](./255140-quizfizz.json) |
 | Quizl | 225272 | [225272-quizl.json](./225272-quizl.json) |
 | QuizMania | 320156 | [320156-quizmania.json](./320156-quizmania.json) |
