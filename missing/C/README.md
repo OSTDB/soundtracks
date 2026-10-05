@@ -7304,6 +7304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control the Ball | 312198 | [312198-control-the-ball.json](./312198-control-the-ball.json) |
 | Control the Body | 287303 | [287303-control-the-body.json](./287303-control-the-body.json) |
 | Control: Expeditions | 298854 | [298854-control-expeditions.json](./298854-control-expeditions.json) |
+| Control: Ultimate Asia Limited Edition | 167088 | [167088-control-ultimate-asia-limited-edition.json](./167088-control-ultimate-asia-limited-edition.json) |
 | Control: Ultimate Edition | 136604 | [136604-control-ultimate-edition.json](./136604-control-ultimate-edition.json) |
 | Control: Ultimate Edition - Cloud Version | 140503 | [140503-control-ultimate-edition-cloud-version.json](./140503-control-ultimate-edition-cloud-version.json) |
 | Controlled Climate Chaos | 282130 | [282130-controlled-climate-chaos.json](./282130-controlled-climate-chaos.json) |
