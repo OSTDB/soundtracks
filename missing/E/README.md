@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Light: Luna Strike | 42247 | [42247-earth-light-luna-strike.json](./42247-earth-light-luna-strike.json) |
 | Earth Marines | 153862 | [153862-earth-marines.json](./153862-earth-marines.json) |
 | Earth Mechanica | 336163 | [336163-earth-mechanica.json](./336163-earth-mechanica.json) |
+| Earth Missile Defense System | 118246 | [118246-earth-missile-defense-system.json](./118246-earth-missile-defense-system.json) |
 | Earth Muncher | 95178 | [95178-earth-muncher.json](./95178-earth-muncher.json) |
 | Earth New Fall | 408252 | [408252-earth-new-fall.json](./408252-earth-new-fall.json) |
 | Earth on Stream | 403773 | [403773-earth-on-stream.json](./403773-earth-on-stream.json) |
@@ -1529,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embrace | 177866 | [177866-embrace.json](./177866-embrace.json) |
 | Embrace of Ocean: Story of Hope | 51956 | [51956-embrace-of-ocean-story-of-hope.json](./51956-embrace-of-ocean-story-of-hope.json) |
 | Embrace the Fear | 29773 | [29773-embrace-the-fear.json](./29773-embrace-the-fear.json) |
+| Embrace the Three Kingdoms | 118229 | [118229-embrace-the-three-kingdoms.json](./118229-embrace-the-three-kingdoms.json) |
 | Embraced | 299429 | [299429-embraced.json](./299429-embraced.json) |
 | Embraced by Autumn | 154032 | [154032-embraced-by-autumn.json](./154032-embraced-by-autumn.json) |
 | Embracelet | 136409 | [136409-embracelet.json](./136409-embracelet.json) |
@@ -3247,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eterspire | 143526 | [143526-eterspire.json](./143526-eterspire.json) |
 | Ethan: Meteor Hunter | 10279 | [10279-ethan-meteor-hunter.json](./10279-ethan-meteor-hunter.json) |
 | Ethan's Watch | 390613 | [390613-ethans-watch.json](./390613-ethans-watch.json) |
+| Ethanol in dungeon | 118253 | [118253-ethanol-in-dungeon.json](./118253-ethanol-in-dungeon.json) |
 | Ether | 311502 | [311502-ether.json](./311502-ether.json) |
 | Ether Awakening | 44229 | [44229-ether-awakening.json](./44229-ether-awakening.json) |
 | Ether Loop | 126735 | [126735-ether-loop.json](./126735-ether-loop.json) |
