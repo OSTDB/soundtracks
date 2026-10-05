@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victim's Tongue | 397765 | [397765-victims-tongue.json](./397765-victims-tongue.json) |
 | Victor Banana | 171478 | [171478-victor-banana.json](./171478-victor-banana.json) |
 | Victor Vran | 9180 | [9180-victor-vran.json](./9180-victor-vran.json) |
+| Victor Vran: Cauldron of Chaos Dungeon | 171348 | [171348-victor-vran-cauldron-of-chaos-dungeon.json](./171348-victor-vran-cauldron-of-chaos-dungeon.json) |
 | Victor's Test Night: Reves | 346224 | [346224-victors-test-night-reves.json](./346224-victors-test-night-reves.json) |
 | Victor's Video Vault | 399194 | [399194-victors-video-vault.json](./399194-victors-video-vault.json) |
 | Victordle | 388749 | [388749-victordle.json](./388749-victordle.json) |
@@ -1027,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victorious: Time to Shine | 9751 | [9751-victorious-time-to-shine.json](./9751-victorious-time-to-shine.json) |
 | Victory | 95445 | [95445-victory.json](./95445-victory.json) |
 | Victory and Glory: Napoleon | 33552 | [33552-victory-and-glory-napoleon.json](./33552-victory-and-glory-napoleon.json) |
+| Victory At Sea Ironclad | 171417 | [171417-victory-at-sea-ironclad.json](./171417-victory-at-sea-ironclad.json) |
 | Victory At Sea Pacific | 104004 | [104004-victory-at-sea-pacific.json](./104004-victory-at-sea-pacific.json) |
 | Victory Banner | 361819 | [361819-victory-banner.json](./361819-victory-banner.json) |
 | Victory Day | 226742 | [226742-victory-day.json](./226742-victory-day.json) |
