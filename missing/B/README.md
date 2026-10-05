@@ -9371,6 +9371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burrito Bison: Launcha Libre | 80360 | [80360-burrito-bison-launcha-libre.json](./80360-burrito-bison-launcha-libre.json) |
 | Burrito Galaxy 65 | 61875 | [61875-burrito-galaxy-65.json](./61875-burrito-galaxy-65.json) |
 | Burrow | 158717 | [158717-burrow.json](./158717-burrow.json) |
+| Burrow burrow | 159784 | [159784-burrow-burrow.json](./159784-burrow-burrow.json) |
 | Burrows | 178397 | [178397-burrows.json](./178397-burrows.json) |
 | Burrows | 377195 | [377195-burrows.json](./377195-burrows.json) |
 | Burrows | 380045 | [380045-burrows.json](./380045-burrows.json) |
