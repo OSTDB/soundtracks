@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faith of Life: Survive Edition | 340052 | [340052-faith-of-life-survive-edition.json](./340052-faith-of-life-survive-edition.json) |
 | Faith of the Guardians | 65743 | [65743-faith-of-the-guardians.json](./65743-faith-of-the-guardians.json) |
 | Faith Update v1.4: Good Christian Boy | 275258 | [275258-faith-update-v1-4-good-christian-boy.json](./275258-faith-update-v1-4-good-christian-boy.json) |
+| Faith: Chapter III | 125170 | [125170-faith-chapter-iii.json](./125170-faith-chapter-iii.json) |
 | Faith: The Unholy Trinity | 125171 | [125171-faith-the-unholy-trinity.json](./125171-faith-the-unholy-trinity.json) |
 | FaithEater | 301372 | [301372-faitheater.json](./301372-faitheater.json) |
 | Faithfall | 401662 | [401662-faithfall.json](./401662-faithfall.json) |
@@ -3554,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Universe Simulator | 114416 | [114416-fishing-universe-simulator.json](./114416-fishing-universe-simulator.json) |
 | Fishing Up | 346129 | [346129-fishing-up.json](./346129-fishing-up.json) |
 | Fishing Valley | 328534 | [328534-fishing-valley.json](./328534-fishing-valley.json) |
+| Fishing: Barents Sea - Complete Edition | 125188 | [125188-fishing-barents-sea-complete-edition.json](./125188-fishing-barents-sea-complete-edition.json) |
 | Fishing: Barents Sea - King Crab | 111647 | [111647-fishing-barents-sea-king-crab.json](./111647-fishing-barents-sea-king-crab.json) |
 | Fishing: North Atlantic - A.F. Theriault | 261868 | [261868-fishing-north-atlantic-a-f-theriault.json](./261868-fishing-north-atlantic-a-f-theriault.json) |
 | Fishing: North Atlantic - Complete Edition | 207385 | [207385-fishing-north-atlantic-complete-edition.json](./207385-fishing-north-atlantic-complete-edition.json) |
