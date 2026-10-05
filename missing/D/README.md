@@ -2376,6 +2376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Kid | 331663 | [331663-death-kid.json](./331663-death-kid.json) |
 | Death Knight | 343460 | [343460-death-knight.json](./343460-death-knight.json) |
 | Death Life: Beyond Purgatory | 264019 | [264019-death-life-beyond-purgatory.json](./264019-death-life-beyond-purgatory.json) |
+| Death Live | 123472 | [123472-death-live.json](./123472-death-live.json) |
 | Death Machine | 285004 | [285004-death-machine.json](./285004-death-machine.json) |
 | Death March | 365791 | [365791-death-march.json](./365791-death-march.json) |
 | Death Mark: Experience Selection | 167142 | [167142-death-mark-experience-selection.json](./167142-death-mark-experience-selection.json) |
@@ -5449,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Dreamlight Valley: Wonderland Whimsy | 341581 | [341581-disney-dreamlight-valley-wonderland-whimsy.json](./341581-disney-dreamlight-valley-wonderland-whimsy.json) |
 | Disney DVD Game World: Disney Dogs Edition | 228445 | [228445-disney-dvd-game-world-disney-dogs-edition.json](./228445-disney-dvd-game-world-disney-dogs-edition.json) |
 | Disney Emoji Blitz | 89817 | [89817-disney-emoji-blitz.json](./89817-disney-emoji-blitz.json) |
+| Disney Epic Quest | 123397 | [123397-disney-epic-quest.json](./123397-disney-epic-quest.json) |
 | Disney Face Chase | 243813 | [243813-disney-face-chase.json](./243813-disney-face-chase.json) |
 | Disney Fairies | 131394 | [131394-disney-fairies.json](./131394-disney-fairies.json) |
 | Disney Fairies: Tinker Bell | 78718 | [78718-disney-fairies-tinker-bell.json](./78718-disney-fairies-tinker-bell.json) |
