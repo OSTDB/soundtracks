@@ -6806,6 +6806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Thabor: Rise of the Mages | 329045 | [329045-the-legend-of-thabor-rise-of-the-mages.json](./329045-the-legend-of-thabor-rise-of-the-mages.json) |
 | The Legend of The Artifact | 59847 | [59847-the-legend-of-the-artifact.json](./59847-the-legend-of-the-artifact.json) |
 | The Legend of the Astera Stone | 300020 | [300020-the-legend-of-the-astera-stone.json](./300020-the-legend-of-the-astera-stone.json) |
+| The Legend of The Black Wizard | 157471 | [157471-the-legend-of-the-black-wizard.json](./157471-the-legend-of-the-black-wizard.json) |
 | The Legend of The Duck Knite | 117507 | [117507-the-legend-of-the-duck-knite.json](./117507-the-legend-of-the-duck-knite.json) |
 | The Legend of the Radient Mask | 135094 | [135094-the-legend-of-the-radient-mask.json](./135094-the-legend-of-the-radient-mask.json) |
 | The Legend of The Sacred Stone EX | 371336 | [371336-the-legend-of-the-sacred-stone-ex.json](./371336-the-legend-of-the-sacred-stone-ex.json) |
@@ -9613,6 +9614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of the Elephant | 146199 | [146199-the-tower-of-the-elephant.json](./146199-the-tower-of-the-elephant.json) |
 | The Tower of the Spells | 257456 | [257456-the-tower-of-the-spells.json](./257456-the-tower-of-the-spells.json) |
 | The Tower of TigerQiuQiu | 121579 | [121579-the-tower-of-tigerqiuqiu.json](./121579-the-tower-of-tigerqiuqiu.json) |
+| The Tower of TigerQiuQiu 2 | 157594 | [157594-the-tower-of-tigerqiuqiu-2.json](./157594-the-tower-of-tigerqiuqiu-2.json) |
 | The Tower of TigerQiuQiu 2: 1942-J20 | 157690 | [157690-the-tower-of-tigerqiuqiu-2-1942-j20.json](./157690-the-tower-of-tigerqiuqiu-2-1942-j20.json) |
 | The Tower of TigerQiuQiu 2: 1952 M0 | 173714 | [173714-the-tower-of-tigerqiuqiu-2-1952-m0.json](./173714-the-tower-of-tigerqiuqiu-2-1952-m0.json) |
 | The Tower of TigerQiuQiu 2: 1952 M1 | 173734 | [173734-the-tower-of-tigerqiuqiu-2-1952-m1.json](./173734-the-tower-of-tigerqiuqiu-2-1952-m1.json) |
@@ -9712,12 +9714,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of TigerQiuQiu 2: Warp Tiger M14 | 189530 | [189530-the-tower-of-tigerqiuqiu-2-warp-tiger-m14.json](./189530-the-tower-of-tigerqiuqiu-2-warp-tiger-m14.json) |
 | The Tower of TigerQiuQiu: 4-way Dodge the ball | 157625 | [157625-the-tower-of-tigerqiuqiu-4-way-dodge-the-ball.json](./157625-the-tower-of-tigerqiuqiu-4-way-dodge-the-ball.json) |
 | The Tower of TigerQiuQiu: Armored Fighter Arena | 157665 | [157665-the-tower-of-tigerqiuqiu-armored-fighter-arena.json](./157665-the-tower-of-tigerqiuqiu-armored-fighter-arena.json) |
+| The Tower of TigerQiuQiu: Ball War | 157613 | [157613-the-tower-of-tigerqiuqiu-ball-war.json](./157613-the-tower-of-tigerqiuqiu-ball-war.json) |
+| The Tower of TigerQiuQiu: Battleship Defense | 157581 | [157581-the-tower-of-tigerqiuqiu-battleship-defense.json](./157581-the-tower-of-tigerqiuqiu-battleship-defense.json) |
+| The Tower of TigerQiuQiu: Birds Cave | 157619 | [157619-the-tower-of-tigerqiuqiu-birds-cave.json](./157619-the-tower-of-tigerqiuqiu-birds-cave.json) |
+| The Tower of TigerQiuQiu: Bomber Level Up | 157584 | [157584-the-tower-of-tigerqiuqiu-bomber-level-up.json](./157584-the-tower-of-tigerqiuqiu-bomber-level-up.json) |
 | The Tower of TigerQiuQiu: Bomber the Falling Stone | 166138 | [166138-the-tower-of-tigerqiuqiu-bomber-the-falling-stone.json](./166138-the-tower-of-tigerqiuqiu-bomber-the-falling-stone.json) |
 | The Tower of TigerQiuQiu: Bomber the Rolling Stone | 157624 | [157624-the-tower-of-tigerqiuqiu-bomber-the-rolling-stone.json](./157624-the-tower-of-tigerqiuqiu-bomber-the-rolling-stone.json) |
 | The Tower of TigerQiuQiu: Bomber the Ruby Magic | 166137 | [166137-the-tower-of-tigerqiuqiu-bomber-the-ruby-magic.json](./166137-the-tower-of-tigerqiuqiu-bomber-the-ruby-magic.json) |
 | The Tower of TigerQiuQiu: Bomber the Ruby Sword | 157661 | [157661-the-tower-of-tigerqiuqiu-bomber-the-ruby-sword.json](./157661-the-tower-of-tigerqiuqiu-bomber-the-ruby-sword.json) |
 | The Tower of TigerQiuQiu: Bomber Tiger | 157654 | [157654-the-tower-of-tigerqiuqiu-bomber-tiger.json](./157654-the-tower-of-tigerqiuqiu-bomber-tiger.json) |
+| The Tower of TigerQiuQiu: Bomber Treasure | 157618 | [157618-the-tower-of-tigerqiuqiu-bomber-treasure.json](./157618-the-tower-of-tigerqiuqiu-bomber-treasure.json) |
+| The Tower of TigerQiuQiu: Brick Breaker | 157602 | [157602-the-tower-of-tigerqiuqiu-brick-breaker.json](./157602-the-tower-of-tigerqiuqiu-brick-breaker.json) |
+| The Tower of TigerQiuQiu: Bubble Gun | 157600 | [157600-the-tower-of-tigerqiuqiu-bubble-gun.json](./157600-the-tower-of-tigerqiuqiu-bubble-gun.json) |
 | The Tower of TigerQiuQiu: Deepwater Bomb | 157669 | [157669-the-tower-of-tigerqiuqiu-deepwater-bomb.json](./157669-the-tower-of-tigerqiuqiu-deepwater-bomb.json) |
+| The Tower of TigerQiuQiu: Desktop Ball | 157596 | [157596-the-tower-of-tigerqiuqiu-desktop-ball.json](./157596-the-tower-of-tigerqiuqiu-desktop-ball.json) |
+| The Tower of TigerQiuQiu: Dodge the Ball | 157590 | [157590-the-tower-of-tigerqiuqiu-dodge-the-ball.json](./157590-the-tower-of-tigerqiuqiu-dodge-the-ball.json) |
 | The Tower of TigerQiuQiu: Down to Hole | 157627 | [157627-the-tower-of-tigerqiuqiu-down-to-hole.json](./157627-the-tower-of-tigerqiuqiu-down-to-hole.json) |
 | The Tower of TigerQiuQiu: Drop Balls | 157639 | [157639-the-tower-of-tigerqiuqiu-drop-balls.json](./157639-the-tower-of-tigerqiuqiu-drop-balls.json) |
 | The Tower of TigerQiuQiu: Duck War | 157652 | [157652-the-tower-of-tigerqiuqiu-duck-war.json](./157652-the-tower-of-tigerqiuqiu-duck-war.json) |
@@ -9728,41 +9739,73 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of TigerQiuQiu: Girl Breaker Ava | 157660 | [157660-the-tower-of-tigerqiuqiu-girl-breaker-ava.json](./157660-the-tower-of-tigerqiuqiu-girl-breaker-ava.json) |
 | The Tower of TigerQiuQiu: Girl Breaker Chloe | 157634 | [157634-the-tower-of-tigerqiuqiu-girl-breaker-chloe.json](./157634-the-tower-of-tigerqiuqiu-girl-breaker-chloe.json) |
 | The Tower of TigerQiuQiu: Girl Breaker Elizabeth | 157628 | [157628-the-tower-of-tigerqiuqiu-girl-breaker-elizabeth.json](./157628-the-tower-of-tigerqiuqiu-girl-breaker-elizabeth.json) |
+| The Tower of TigerQiuQiu: Girl Breaker Emily | 157607 | [157607-the-tower-of-tigerqiuqiu-girl-breaker-emily.json](./157607-the-tower-of-tigerqiuqiu-girl-breaker-emily.json) |
 | The Tower of TigerQiuQiu: Girl Breaker Emma | 157651 | [157651-the-tower-of-tigerqiuqiu-girl-breaker-emma.json](./157651-the-tower-of-tigerqiuqiu-girl-breaker-emma.json) |
+| The Tower of TigerQiuQiu: Girl Breaker Fang | 157606 | [157606-the-tower-of-tigerqiuqiu-girl-breaker-fang.json](./157606-the-tower-of-tigerqiuqiu-girl-breaker-fang.json) |
 | The Tower of TigerQiuQiu: Girl Breaker Grace | 157644 | [157644-the-tower-of-tigerqiuqiu-girl-breaker-grace.json](./157644-the-tower-of-tigerqiuqiu-girl-breaker-grace.json) |
 | The Tower of TigerQiuQiu: Girl Breaker Hannah | 157640 | [157640-the-tower-of-tigerqiuqiu-girl-breaker-hannah.json](./157640-the-tower-of-tigerqiuqiu-girl-breaker-hannah.json) |
 | The Tower of TigerQiuQiu: Girl Breaker Isabella | 157667 | [157667-the-tower-of-tigerqiuqiu-girl-breaker-isabella.json](./157667-the-tower-of-tigerqiuqiu-girl-breaker-isabella.json) |
+| The Tower of TigerQiuQiu: Girl Breaker Lily | 157612 | [157612-the-tower-of-tigerqiuqiu-girl-breaker-lily.json](./157612-the-tower-of-tigerqiuqiu-girl-breaker-lily.json) |
 | The Tower of TigerQiuQiu: Girl Breaker Lucy | 157655 | [157655-the-tower-of-tigerqiuqiu-girl-breaker-lucy.json](./157655-the-tower-of-tigerqiuqiu-girl-breaker-lucy.json) |
 | The Tower of TigerQiuQiu: Girl Breaker Madison | 157647 | [157647-the-tower-of-tigerqiuqiu-girl-breaker-madison.json](./157647-the-tower-of-tigerqiuqiu-girl-breaker-madison.json) |
+| The Tower of TigerQiuQiu: Girl Breaker Mairy | 157589 | [157589-the-tower-of-tigerqiuqiu-girl-breaker-mairy.json](./157589-the-tower-of-tigerqiuqiu-girl-breaker-mairy.json) |
+| The Tower of TigerQiuQiu: Girl Breaker NaNa | 157621 | [157621-the-tower-of-tigerqiuqiu-girl-breaker-nana.json](./157621-the-tower-of-tigerqiuqiu-girl-breaker-nana.json) |
 | The Tower of TigerQiuQiu: Girl Breaker Olivia | 157636 | [157636-the-tower-of-tigerqiuqiu-girl-breaker-olivia.json](./157636-the-tower-of-tigerqiuqiu-girl-breaker-olivia.json) |
 | The Tower of TigerQiuQiu: Girl Breaker Sophia | 157648 | [157648-the-tower-of-tigerqiuqiu-girl-breaker-sophia.json](./157648-the-tower-of-tigerqiuqiu-girl-breaker-sophia.json) |
+| The Tower of TigerQiuQiu: Guardian | 157610 | [157610-the-tower-of-tigerqiuqiu-guardian.json](./157610-the-tower-of-tigerqiuqiu-guardian.json) |
+| The Tower of TigerQiuQiu: Hit Balls | 157617 | [157617-the-tower-of-tigerqiuqiu-hit-balls.json](./157617-the-tower-of-tigerqiuqiu-hit-balls.json) |
+| The Tower of TigerQiuQiu: Image Breaker | 157588 | [157588-the-tower-of-tigerqiuqiu-image-breaker.json](./157588-the-tower-of-tigerqiuqiu-image-breaker.json) |
+| The Tower of TigerQiuQiu: Insect Invade 2 | 157591 | [157591-the-tower-of-tigerqiuqiu-insect-invade-2.json](./157591-the-tower-of-tigerqiuqiu-insect-invade-2.json) |
 | The Tower of TigerQiuQiu: Into The Blue | 157631 | [157631-the-tower-of-tigerqiuqiu-into-the-blue.json](./157631-the-tower-of-tigerqiuqiu-into-the-blue.json) |
+| The Tower of TigerQiuQiu: Kamov Kv-51 | 157593 | [157593-the-tower-of-tigerqiuqiu-kamov-kv-51.json](./157593-the-tower-of-tigerqiuqiu-kamov-kv-51.json) |
+| The Tower of TigerQiuQiu: Knife Darts | 157611 | [157611-the-tower-of-tigerqiuqiu-knife-darts.json](./157611-the-tower-of-tigerqiuqiu-knife-darts.json) |
+| The Tower of TigerQiuQiu: Ladder | 157592 | [157592-the-tower-of-tigerqiuqiu-ladder.json](./157592-the-tower-of-tigerqiuqiu-ladder.json) |
 | The Tower of TigerQiuQiu: Match 3 | 157635 | [157635-the-tower-of-tigerqiuqiu-match-3.json](./157635-the-tower-of-tigerqiuqiu-match-3.json) |
+| The Tower of TigerQiuQiu: Moth Snake | 157601 | [157601-the-tower-of-tigerqiuqiu-moth-snake.json](./157601-the-tower-of-tigerqiuqiu-moth-snake.json) |
+| The Tower of TigerQiuQiu: Ninja Alpha | 157620 | [157620-the-tower-of-tigerqiuqiu-ninja-alpha.json](./157620-the-tower-of-tigerqiuqiu-ninja-alpha.json) |
 | The Tower of TigerQiuQiu: Ninja Delta | 157664 | [157664-the-tower-of-tigerqiuqiu-ninja-delta.json](./157664-the-tower-of-tigerqiuqiu-ninja-delta.json) |
 | The Tower of TigerQiuQiu: Ninja Epsilon | 157623 | [157623-the-tower-of-tigerqiuqiu-ninja-epsilon.json](./157623-the-tower-of-tigerqiuqiu-ninja-epsilon.json) |
+| The Tower of TigerQiuQiu: Ninja Eta | 157609 | [157609-the-tower-of-tigerqiuqiu-ninja-eta.json](./157609-the-tower-of-tigerqiuqiu-ninja-eta.json) |
+| The Tower of TigerQiuQiu: Ninja Gamma | 157587 | [157587-the-tower-of-tigerqiuqiu-ninja-gamma.json](./157587-the-tower-of-tigerqiuqiu-ninja-gamma.json) |
+| The Tower of TigerQiuQiu: Ninja One | 157604 | [157604-the-tower-of-tigerqiuqiu-ninja-one.json](./157604-the-tower-of-tigerqiuqiu-ninja-one.json) |
 | The Tower of TigerQiuQiu: Ninja Plus | 157630 | [157630-the-tower-of-tigerqiuqiu-ninja-plus.json](./157630-the-tower-of-tigerqiuqiu-ninja-plus.json) |
 | The Tower of TigerQiuQiu: Ninja S | 157663 | [157663-the-tower-of-tigerqiuqiu-ninja-s.json](./157663-the-tower-of-tigerqiuqiu-ninja-s.json) |
+| The Tower of TigerQiuQiu: Ninja the Wind | 157598 | [157598-the-tower-of-tigerqiuqiu-ninja-the-wind.json](./157598-the-tower-of-tigerqiuqiu-ninja-the-wind.json) |
 | The Tower of TigerQiuQiu: Ninja Thet | 157668 | [157668-the-tower-of-tigerqiuqiu-ninja-thet.json](./157668-the-tower-of-tigerqiuqiu-ninja-thet.json) |
 | The Tower of TigerQiuQiu: Ninja Tiger - QiuQiu | 157659 | [157659-the-tower-of-tigerqiuqiu-ninja-tiger-qiuqiu.json](./157659-the-tower-of-tigerqiuqiu-ninja-tiger-qiuqiu.json) |
 | The Tower of TigerQiuQiu: Ninja W | 157649 | [157649-the-tower-of-tigerqiuqiu-ninja-w.json](./157649-the-tower-of-tigerqiuqiu-ninja-w.json) |
 | The Tower of TigerQiuQiu: Ninja Zeta | 157670 | [157670-the-tower-of-tigerqiuqiu-ninja-zeta.json](./157670-the-tower-of-tigerqiuqiu-ninja-zeta.json) |
 | The Tower of TigerQiuQiu: Nyaa Invaders 2 | 157657 | [157657-the-tower-of-tigerqiuqiu-nyaa-invaders-2.json](./157657-the-tower-of-tigerqiuqiu-nyaa-invaders-2.json) |
 | The Tower of TigerQiuQiu: Nyaa Invaders 3 | 157650 | [157650-the-tower-of-tigerqiuqiu-nyaa-invaders-3.json](./157650-the-tower-of-tigerqiuqiu-nyaa-invaders-3.json) |
+| The Tower of TigerQiuQiu: Nyaa Invaders 4 | 157608 | [157608-the-tower-of-tigerqiuqiu-nyaa-invaders-4.json](./157608-the-tower-of-tigerqiuqiu-nyaa-invaders-4.json) |
 | The Tower of TigerQiuQiu: Pinball Killer | 166139 | [166139-the-tower-of-tigerqiuqiu-pinball-killer.json](./166139-the-tower-of-tigerqiuqiu-pinball-killer.json) |
+| The Tower of TigerQiuQiu: Police Cat | 157599 | [157599-the-tower-of-tigerqiuqiu-police-cat.json](./157599-the-tower-of-tigerqiuqiu-police-cat.json) |
+| The Tower of TigerQiuQiu: Raid on Sea | 157614 | [157614-the-tower-of-tigerqiuqiu-raid-on-sea.json](./157614-the-tower-of-tigerqiuqiu-raid-on-sea.json) |
+| The Tower of TigerQiuQiu: Road Race | 157583 | [157583-the-tower-of-tigerqiuqiu-road-race.json](./157583-the-tower-of-tigerqiuqiu-road-race.json) |
 | The Tower of TigerQiuQiu: Sneak | 157656 | [157656-the-tower-of-tigerqiuqiu-sneak.json](./157656-the-tower-of-tigerqiuqiu-sneak.json) |
 | The Tower of TigerQiuQiu: Sniper | 157643 | [157643-the-tower-of-tigerqiuqiu-sniper.json](./157643-the-tower-of-tigerqiuqiu-sniper.json) |
+| The Tower of TigerQiuQiu: Soapbubble | 157582 | [157582-the-tower-of-tigerqiuqiu-soapbubble.json](./157582-the-tower-of-tigerqiuqiu-soapbubble.json) |
+| The Tower of TigerQiuQiu: Space Bubble and Bricks | 157595 | [157595-the-tower-of-tigerqiuqiu-space-bubble-and-bricks.json](./157595-the-tower-of-tigerqiuqiu-space-bubble-and-bricks.json) |
 | The Tower of TigerQiuQiu: Space Force | 157641 | [157641-the-tower-of-tigerqiuqiu-space-force.json](./157641-the-tower-of-tigerqiuqiu-space-force.json) |
+| The Tower of TigerQiuQiu: Spot the Difference | 157585 | [157585-the-tower-of-tigerqiuqiu-spot-the-difference.json](./157585-the-tower-of-tigerqiuqiu-spot-the-difference.json) |
 | The Tower of TigerQiuQiu: Square Snake | 166136 | [166136-the-tower-of-tigerqiuqiu-square-snake.json](./166136-the-tower-of-tigerqiuqiu-square-snake.json) |
 | The Tower of TigerQiuQiu: Super Tigerio | 157666 | [157666-the-tower-of-tigerqiuqiu-super-tigerio.json](./157666-the-tower-of-tigerqiuqiu-super-tigerio.json) |
 | The Tower Of TigerQiuQiu: The Deep The Hill | 156111 | [156111-the-tower-of-tigerqiuqiu-the-deep-the-hill.json](./156111-the-tower-of-tigerqiuqiu-the-deep-the-hill.json) |
+| The Tower Of TigerQiuQiu: The Grenadier | 157597 | [157597-the-tower-of-tigerqiuqiu-the-grenadier.json](./157597-the-tower-of-tigerqiuqiu-the-grenadier.json) |
+| The Tower Of TigerQiuQiu: The Wind | 157615 | [157615-the-tower-of-tigerqiuqiu-the-wind.json](./157615-the-tower-of-tigerqiuqiu-the-wind.json) |
 | The Tower of TigerQiuQiu: Thief Mouse | 157637 | [157637-the-tower-of-tigerqiuqiu-thief-mouse.json](./157637-the-tower-of-tigerqiuqiu-thief-mouse.json) |
 | The Tower of TigerQiuQiu: Tiger 1952 | 157638 | [157638-the-tower-of-tigerqiuqiu-tiger-1952.json](./157638-the-tower-of-tigerqiuqiu-tiger-1952.json) |
+| The Tower of TigerQiuQiu: Tiger Bomber | 157586 | [157586-the-tower-of-tigerqiuqiu-tiger-bomber.json](./157586-the-tower-of-tigerqiuqiu-tiger-bomber.json) |
 | The Tower of TigerQiuQiu: Tiger Tank 60 | 157662 | [157662-the-tower-of-tigerqiuqiu-tiger-tank-60.json](./157662-the-tower-of-tigerqiuqiu-tiger-tank-60.json) |
+| The Tower of TigerQiuQiu: Tiger Tank 61 | 157616 | [157616-the-tower-of-tigerqiuqiu-tiger-tank-61.json](./157616-the-tower-of-tigerqiuqiu-tiger-tank-61.json) |
 | The Tower of TigerQiuQiu: Tiger Tank 62 | 157642 | [157642-the-tower-of-tigerqiuqiu-tiger-tank-62.json](./157642-the-tower-of-tigerqiuqiu-tiger-tank-62.json) |
 | The Tower of TigerQiuQiu: Tiger Tank 64 | 157622 | [157622-the-tower-of-tigerqiuqiu-tiger-tank-64.json](./157622-the-tower-of-tigerqiuqiu-tiger-tank-64.json) |
 | The Tower of TigerQiuQiu: Tiger Tank 65 | 157626 | [157626-the-tower-of-tigerqiuqiu-tiger-tank-65.json](./157626-the-tower-of-tigerqiuqiu-tiger-tank-65.json) |
+| The Tower of TigerQiuQiu: Tiger Tank Defense | 157605 | [157605-the-tower-of-tigerqiuqiu-tiger-tank-defense.json](./157605-the-tower-of-tigerqiuqiu-tiger-tank-defense.json) |
 | The Tower of TigerQiuQiu: Tiger Tank Defense S | 157653 | [157653-the-tower-of-tigerqiuqiu-tiger-tank-defense-s.json](./157653-the-tower-of-tigerqiuqiu-tiger-tank-defense-s.json) |
 | The Tower of TigerQiuQiu: Tiger Tank G | 157646 | [157646-the-tower-of-tigerqiuqiu-tiger-tank-g.json](./157646-the-tower-of-tigerqiuqiu-tiger-tank-g.json) |
+| The Tower of TigerQiuQiu: Tigscores | 157603 | [157603-the-tower-of-tigerqiuqiu-tigscores.json](./157603-the-tower-of-tigerqiuqiu-tigscores.json) |
+| The Tower of TigerQiuQiu: War Combat | 157579 | [157579-the-tower-of-tigerqiuqiu-war-combat.json](./157579-the-tower-of-tigerqiuqiu-war-combat.json) |
 | The Tower of TigerQiuQiu: Warp Tiger | 157633 | [157633-the-tower-of-tigerqiuqiu-warp-tiger.json](./157633-the-tower-of-tigerqiuqiu-warp-tiger.json) |
 | The Tower of Turmoil | 195519 | [195519-the-tower-of-turmoil.json](./195519-the-tower-of-turmoil.json) |
 | The Tower of Wowers | 150068 | [150068-the-tower-of-wowers.json](./150068-the-tower-of-wowers.json) |
@@ -16310,6 +16353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travelogue 360: Paris | 65182 | [65182-travelogue-360-paris.json](./65182-travelogue-360-paris.json) |
 | Traveloot | 392163 | [392163-traveloot.json](./392163-traveloot.json) |
 | Travelrama USA | 206078 | [206078-travelrama-usa.json](./206078-travelrama-usa.json) |
+| Traverse the Void | 157473 | [157473-traverse-the-void.json](./157473-traverse-the-void.json) |
 | Traverse: Starlight & Prairie | 37782 | [37782-traverse-starlight-and-prairie.json](./37782-traverse-starlight-and-prairie.json) |
 | Traversing Traveler | 148463 | [148463-traversing-traveler.json](./148463-traversing-traveler.json) |
 | Traversion | 274527 | [274527-traversion.json](./274527-traversion.json) |
