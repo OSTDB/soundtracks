@@ -1593,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onenellemoo | 239638 | [239638-onenellemoo.json](./239638-onenellemoo.json) |
 | Oneone | 348907 | [348907-oneone.json](./348907-oneone.json) |
 | Oneons: Prisoners | 159643 | [159643-oneons-prisoners.json](./159643-oneons-prisoners.json) |
+| OnePiece Puzzles | 118887 | [118887-onepiece-puzzles.json](./118887-onepiece-puzzles.json) |
 | Ones and Zeroes | 104813 | [104813-ones-and-zeroes.json](./104813-ones-and-zeroes.json) |
 | Ones! | 232385 | [232385-ones.json](./232385-ones.json) |
 | onEscapee | 93044 | [93044-onescapee.json](./93044-onescapee.json) |
@@ -2352,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orpheus: Tale of a Lover | 258095 | [258095-orpheus-tale-of-a-lover.json](./258095-orpheus-tale-of-a-lover.json) |
 | Orpheus's Dream | 119766 | [119766-orpheuss-dream.json](./119766-orpheuss-dream.json) |
 | Orqa FPV SkyDive | 196854 | [196854-orqa-fpv-skydive.json](./196854-orqa-fpv-skydive.json) |
+| Orr | 118773 | [118773-orr.json](./118773-orr.json) |
 | Orrb | 188916 | [188916-orrb.json](./188916-orrb.json) |
 | Orrery | 317811 | [317811-orrery.json](./317811-orrery.json) |
 | Orrin's Chessboard | 377758 | [377758-orrins-chessboard.json](./377758-orrins-chessboard.json) |
