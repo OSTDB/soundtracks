@@ -2940,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finders Reapers: Legends & Sports Character Pack | 155507 | [155507-finders-reapers-legends-and-sports-character-pack.json](./155507-finders-reapers-legends-and-sports-character-pack.json) |
 | Finders Reapers: Super Crazy Character Pack | 155508 | [155508-finders-reapers-super-crazy-character-pack.json](./155508-finders-reapers-super-crazy-character-pack.json) |
 | Finders, Keepers | 139457 | [139457-finders-keepers.json](./139457-finders-keepers.json) |
+| Finding 21 | 148136 | [148136-finding-21.json](./148136-finding-21.json) |
 | Finding A Prince: The Game | 156189 | [156189-finding-a-prince-the-game.json](./156189-finding-a-prince-the-game.json) |
 | Finding Alex | 344379 | [344379-finding-alex.json](./344379-finding-alex.json) |
 | Finding Alina | 149708 | [149708-finding-alina.json](./149708-finding-alina.json) |
