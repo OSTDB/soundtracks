@@ -2071,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbion | 370331 | [370331-orbion.json](./370331-orbion.json) |
 | Orbis - Throw them all! | 134980 | [134980-orbis-throw-them-all.json](./134980-orbis-throw-them-all.json) |
 | Orbis Fractura | 368587 | [368587-orbis-fractura.json](./368587-orbis-fractura.json) |
+| Orbis Fugae | 129613 | [129613-orbis-fugae.json](./129613-orbis-fugae.json) |
 | Orbisia | 197129 | [197129-orbisia.json](./197129-orbisia.json) |
 | Orbit | 315019 | [315019-orbit.json](./315019-orbit.json) |
 | Orbit | 85597 | [85597-orbit.json](./85597-orbit.json) |
