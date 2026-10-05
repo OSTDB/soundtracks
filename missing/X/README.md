@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xordle | 197903 | [197903-xordle.json](./197903-xordle.json) |
 | Xorple | 86555 | [86555-xorple.json](./86555-xorple.json) |
 | Xoru | 324973 | [324973-xoru.json](./324973-xoru.json) |
+| XOXO Droplets: Full Version Extension | 168203 | [168203-xoxo-droplets-full-version-extension.json](./168203-xoxo-droplets-full-version-extension.json) |
 | XP Racing | 289880 | [289880-xp-racing.json](./289880-xp-racing.json) |
 | XP Slime | 369726 | [369726-xp-slime.json](./369726-xp-slime.json) |
 | XP Soccer | 207754 | [207754-xp-soccer.json](./207754-xp-soccer.json) |
