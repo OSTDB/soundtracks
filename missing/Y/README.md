@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza Shadows of New York | 322399 | [322399-yakuza-shadows-of-new-york.json](./322399-yakuza-shadows-of-new-york.json) |
 | Yakuza: Dead Souls | 7489 | [7489-yakuza-dead-souls.json](./7489-yakuza-dead-souls.json) |
 | Yakuza: Like a Dragon | 36550 | [36550-yakuza-like-a-dragon.json](./36550-yakuza-like-a-dragon.json) |
+| Yakuza: Like a Dragon - Job Set | 156200 | [156200-yakuza-like-a-dragon-job-set.json](./156200-yakuza-like-a-dragon-job-set.json) |
 | Yakuza: Like a Dragon - Karaoke Set | 259523 | [259523-yakuza-like-a-dragon-karaoke-set.json](./259523-yakuza-like-a-dragon-karaoke-set.json) |
 | Yakuza: Like a Dragon - Legends Costume Set | 318035 | [318035-yakuza-like-a-dragon-legends-costume-set.json](./318035-yakuza-like-a-dragon-legends-costume-set.json) |
 | Yakuza: Like a Dragon - Limited Edition | 386271 | [386271-yakuza-like-a-dragon-limited-edition.json](./386271-yakuza-like-a-dragon-limited-edition.json) |
