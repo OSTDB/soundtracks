@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vendrán las aves | 329630 | [329630-vendran-las-aves.json](./329630-vendran-las-aves.json) |
 | Venetian Blinds | 40748 | [40748-venetian-blinds.json](./40748-venetian-blinds.json) |
 | Venetica: Gold Edition | 53932 | [53932-venetica-gold-edition.json](./53932-venetica-gold-edition.json) |
+| Venge | 143958 | [143958-venge.json](./143958-venge.json) |
 | Venge.io | 137531 | [137531-venge-io.json](./137531-venge-io.json) |
 | Vengeance | 368470 | [368470-vengeance.json](./368470-vengeance.json) |
 | Vengeance | 55019 | [55019-vengeance.json](./55019-vengeance.json) |
@@ -999,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vicera | 321521 | [321521-vicera.json](./321521-vicera.json) |
 | Vicewave | 141839 | [141839-vicewave.json](./141839-vicewave.json) |
 | Vicious Attack Llama Apocalypse | 44289 | [44289-vicious-attack-llama-apocalypse.json](./44289-vicious-attack-llama-apocalypse.json) |
+| Vicious Gambling Agreement | 143951 | [143951-vicious-gambling-agreement.json](./143951-vicious-gambling-agreement.json) |
 | Vicious Growth | 203924 | [203924-vicious-growth.json](./203924-vicious-growth.json) |
 | Vicious Red | 249793 | [249793-vicious-red.json](./249793-vicious-red.json) |
 | Vicious Vine | 216707 | [216707-vicious-vine.json](./216707-vicious-vine.json) |
