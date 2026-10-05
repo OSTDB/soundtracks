@@ -4445,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Analog Party Sim | 160246 | [160246-analog-party-sim.json](./160246-analog-party-sim.json) |
 | Anamnesis | 254026 | [254026-anamnesis.json](./254026-anamnesis.json) |
 | Anamorphine | 27873 | [27873-anamorphine.json](./27873-anamorphine.json) |
+| Anamorphosis | 167125 | [167125-anamorphosis.json](./167125-anamorphosis.json) |
 | Anan Kanshuu: Onna-jikara Kinkyuu Up! DS | 269549 | [269549-anan-kanshuu-onna-jikara-kinkyuu-up-ds.json](./269549-anan-kanshuu-onna-jikara-kinkyuu-up-ds.json) |
 | Ananas: Pineapple Idle Game | 337815 | [337815-ananas-pineapple-idle-game.json](./337815-ananas-pineapple-idle-game.json) |
 | Anandala | 303159 | [303159-anandala.json](./303159-anandala.json) |
@@ -6847,6 +6848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark Odyssey | 319366 | [319366-ark-odyssey.json](./319366-ark-odyssey.json) |
 | Ark of Artemis | 148564 | [148564-ark-of-artemis.json](./148564-ark-of-artemis.json) |
 | Ark of Isolation | 373550 | [373550-ark-of-isolation.json](./373550-ark-of-isolation.json) |
+| Ark of Loif | 167189 | [167189-ark-of-loif.json](./167189-ark-of-loif.json) |
 | Ark of Trisolar | 360692 | [360692-ark-of-trisolar.json](./360692-ark-of-trisolar.json) |
 | Ark of War | 133399 | [133399-ark-of-war.json](./133399-ark-of-war.json) |
 | Ark Re:Code | 367393 | [367393-ark-re-code.json](./367393-ark-re-code.json) |
