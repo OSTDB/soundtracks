@@ -1065,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AC/DC Live: Rock Band - Track Pack | 6467 | [6467-ac-dc-live-rock-band-track-pack.json](./6467-ac-dc-live-rock-band-track-pack.json) |
 | ACA Neo Geo: Art of Fighting 3 | 118916 | [118916-aca-neo-geo-art-of-fighting-3.json](./118916-aca-neo-geo-art-of-fighting-3.json) |
 | ACA Neo Geo: Baseball Stars Professional | 102345 | [102345-aca-neo-geo-baseball-stars-professional.json](./102345-aca-neo-geo-baseball-stars-professional.json) |
+| ACA Neo Geo: Big Tournament Golf | 147093 | [147093-aca-neo-geo-big-tournament-golf.json](./147093-aca-neo-geo-big-tournament-golf.json) |
 | ACA Neo Geo: Blazing Star | 90518 | [90518-aca-neo-geo-blazing-star.json](./90518-aca-neo-geo-blazing-star.json) |
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
 | ACA Neo Geo: Kizuna Encounter | 113906 | [113906-aca-neo-geo-kizuna-encounter.json](./113906-aca-neo-geo-kizuna-encounter.json) |
@@ -6216,6 +6217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: City Connection | 99558 | [99558-arcade-archives-city-connection.json](./99558-arcade-archives-city-connection.json) |
 | Arcade Archives: Cosmo Police Galivan | 99566 | [99566-arcade-archives-cosmo-police-galivan.json](./99566-arcade-archives-cosmo-police-galivan.json) |
 | Arcade Archives: Crazy Balloon | 351223 | [351223-arcade-archives-crazy-balloon.json](./351223-arcade-archives-crazy-balloon.json) |
+| Arcade Archives: Crime Fighters | 147106 | [147106-arcade-archives-crime-fighters.json](./147106-arcade-archives-crime-fighters.json) |
 | Arcade Archives: Dacholer | 370269 | [370269-arcade-archives-dacholer.json](./370269-arcade-archives-dacholer.json) |
 | Arcade Archives: Darius | 121426 | [121426-arcade-archives-darius.json](./121426-arcade-archives-darius.json) |
 | Arcade Archives: Dead Connection | 334087 | [334087-arcade-archives-dead-connection.json](./334087-arcade-archives-dead-connection.json) |
@@ -6234,30 +6236,39 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Finalizer Super Transformation | 315828 | [315828-arcade-archives-finalizer-super-transformation.json](./315828-arcade-archives-finalizer-super-transformation.json) |
 | Arcade Archives: Flipull | 202800 | [202800-arcade-archives-flipull.json](./202800-arcade-archives-flipull.json) |
 | Arcade Archives: Football Champ | 309045 | [309045-arcade-archives-football-champ.json](./309045-arcade-archives-football-champ.json) |
+| Arcade Archives: Formation Z | 147105 | [147105-arcade-archives-formation-z.json](./147105-arcade-archives-formation-z.json) |
 | Arcade Archives: Galactic Warriors | 378778 | [378778-arcade-archives-galactic-warriors.json](./378778-arcade-archives-galactic-warriors.json) |
 | Arcade Archives: Galaga | 230364 | [230364-arcade-archives-galaga.json](./230364-arcade-archives-galaga.json) |
 | Arcade Archives: Gangbusters | 340530 | [340530-arcade-archives-gangbusters.json](./340530-arcade-archives-gangbusters.json) |
 | Arcade Archives: Gee Bee | 371413 | [371413-arcade-archives-gee-bee.json](./371413-arcade-archives-gee-bee.json) |
 | Arcade Archives: Gemini Wing | 146343 | [146343-arcade-archives-gemini-wing.json](./146343-arcade-archives-gemini-wing.json) |
 | Arcade Archives: Gradius II | 99541 | [99541-arcade-archives-gradius-ii.json](./99541-arcade-archives-gradius-ii.json) |
+| Arcade Archives: Gradius III | 147110 | [147110-arcade-archives-gradius-iii.json](./147110-arcade-archives-gradius-iii.json) |
 | Arcade Archives: Grobda | 238098 | [238098-arcade-archives-grobda.json](./238098-arcade-archives-grobda.json) |
 | Arcade Archives: Growl | 259232 | [259232-arcade-archives-growl.json](./259232-arcade-archives-growl.json) |
+| Arcade Archives: Guerrilla War | 147109 | [147109-arcade-archives-guerrilla-war.json](./147109-arcade-archives-guerrilla-war.json) |
 | Arcade Archives: Gun & Frontier | 213342 | [213342-arcade-archives-gun-and-frontier.json](./213342-arcade-archives-gun-and-frontier.json) |
 | Arcade Archives: GunNail | 187463 | [187463-arcade-archives-gunnail.json](./187463-arcade-archives-gunnail.json) |
 | Arcade Archives: Guttang Gottong | 271477 | [271477-arcade-archives-guttang-gottong.json](./271477-arcade-archives-guttang-gottong.json) |
 | Arcade Archives: Hacha Mecha Fighter | 151164 | [151164-arcade-archives-hacha-mecha-fighter.json](./151164-arcade-archives-hacha-mecha-fighter.json) |
+| Arcade Archives: Halley's Comet | 147111 | [147111-arcade-archives-halleys-comet.json](./147111-arcade-archives-halleys-comet.json) |
 | Arcade Archives: Hyper Crash | 409673 | [409673-arcade-archives-hyper-crash.json](./409673-arcade-archives-hyper-crash.json) |
 | Arcade Archives: Hyper Sports | 126493 | [126493-arcade-archives-hyper-sports.json](./126493-arcade-archives-hyper-sports.json) |
 | Arcade Archives: Ice Climber | 68333 | [68333-arcade-archives-ice-climber.json](./68333-arcade-archives-ice-climber.json) |
 | Arcade Archives: Ikki | 99567 | [99567-arcade-archives-ikki.json](./99567-arcade-archives-ikki.json) |
 | Arcade Archives: Image Fight | 119087 | [119087-arcade-archives-image-fight.json](./119087-arcade-archives-image-fight.json) |
+| Arcade Archives: Kangaroo | 147108 | [147108-arcade-archives-kangaroo.json](./147108-arcade-archives-kangaroo.json) |
 | Arcade Archives: Karate Blazers | 378998 | [378998-arcade-archives-karate-blazers.json](./378998-arcade-archives-karate-blazers.json) |
 | Arcade Archives: Kid's Horehore Daisakusen | 99544 | [99544-arcade-archives-kids-horehore-daisakusen.json](./99544-arcade-archives-kids-horehore-daisakusen.json) |
 | Arcade Archives: King & Balloon | 257326 | [257326-arcade-archives-king-and-balloon.json](./257326-arcade-archives-king-and-balloon.json) |
 | Arcade Archives: Knuckle Heads | 314877 | [314877-arcade-archives-knuckle-heads.json](./314877-arcade-archives-knuckle-heads.json) |
+| Arcade Archives: Koutetsu Yousai Strahl | 147107 | [147107-arcade-archives-koutetsu-yousai-strahl.json](./147107-arcade-archives-koutetsu-yousai-strahl.json) |
+| Arcade Archives: Legend of Makai | 147085 | [147085-arcade-archives-legend-of-makai.json](./147085-arcade-archives-legend-of-makai.json) |
+| Arcade Archives: Lightning Fighters | 147112 | [147112-arcade-archives-lightning-fighters.json](./147112-arcade-archives-lightning-fighters.json) |
 | Arcade Archives: Magical Speed | 237356 | [237356-arcade-archives-magical-speed.json](./237356-arcade-archives-magical-speed.json) |
 | Arcade Archives: MagMax | 99562 | [99562-arcade-archives-magmax.json](./99562-arcade-archives-magmax.json) |
 | Arcade Archives: Märchen Maze | 330745 | [330745-arcade-archives-marchen-maze.json](./330745-arcade-archives-marchen-maze.json) |
+| Arcade Archives: Markham | 147084 | [147084-arcade-archives-markham.json](./147084-arcade-archives-markham.json) |
 | Arcade Archives: Master of Weapon | 287109 | [287109-arcade-archives-master-of-weapon.json](./287109-arcade-archives-master-of-weapon.json) |
 | Arcade Archives: Mat Mania Exciting Hour | 99793 | [99793-arcade-archives-mat-mania-exciting-hour.json](./99793-arcade-archives-mat-mania-exciting-hour.json) |
 | Arcade Archives: Mazinger Z | 249490 | [249490-arcade-archives-mazinger-z.json](./249490-arcade-archives-mazinger-z.json) |
@@ -6268,12 +6279,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Mr. Goemon | 99763 | [99763-arcade-archives-mr-goemon.json](./99763-arcade-archives-mr-goemon.json) |
 | Arcade Archives: Mutant Night | 121427 | [121427-arcade-archives-mutant-night.json](./121427-arcade-archives-mutant-night.json) |
 | Arcade Archives: Mystic Warriors | 282155 | [282155-arcade-archives-mystic-warriors.json](./282155-arcade-archives-mystic-warriors.json) |
+| Arcade Archives: Naughty Boy | 147113 | [147113-arcade-archives-naughty-boy.json](./147113-arcade-archives-naughty-boy.json) |
 | Arcade Archives: Navarone | 243167 | [243167-arcade-archives-navarone.json](./243167-arcade-archives-navarone.json) |
 | Arcade Archives: Ninja Gaiden | 118286 | [118286-arcade-archives-ninja-gaiden.json](./118286-arcade-archives-ninja-gaiden.json) |
+| Arcade Archives: Ninja Kazan | 147114 | [147114-arcade-archives-ninja-kazan.json](./147114-arcade-archives-ninja-kazan.json) |
 | Arcade Archives: Ninja Spirit | 120330 | [120330-arcade-archives-ninja-spirit.json](./120330-arcade-archives-ninja-spirit.json) |
 | Arcade Archives: Ninja-Kid II | 111458 | [111458-arcade-archives-ninja-kid-ii.json](./111458-arcade-archives-ninja-kid-ii.json) |
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
 | Arcade Archives: Pac & Pal | 215109 | [215109-arcade-archives-pac-and-pal.json](./215109-arcade-archives-pac-and-pal.json) |
+| Arcade Archives: Pettan Pyuu | 147115 | [147115-arcade-archives-pettan-pyuu.json](./147115-arcade-archives-pettan-pyuu.json) |
 | Arcade Archives: Phelios | 234631 | [234631-arcade-archives-phelios.json](./234631-arcade-archives-phelios.json) |
 | Arcade Archives: Pirate Pete | 152252 | [152252-arcade-archives-pirate-pete.json](./152252-arcade-archives-pirate-pete.json) |
 | Arcade Archives: Plump Pop | 394382 | [394382-arcade-archives-plump-pop.json](./394382-arcade-archives-plump-pop.json) |
@@ -6299,6 +6313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Rush'n Attack | 147631 | [147631-arcade-archives-rushn-attack.json](./147631-arcade-archives-rushn-attack.json) |
 | Arcade Archives: Rygar | 109499 | [109499-arcade-archives-rygar.json](./109499-arcade-archives-rygar.json) |
 | Arcade Archives: Ryukyu | 345113 | [345113-arcade-archives-ryukyu.json](./345113-arcade-archives-ryukyu.json) |
+| Arcade Archives: Saboten Bombers | 147120 | [147120-arcade-archives-saboten-bombers.json](./147120-arcade-archives-saboten-bombers.json) |
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
 | Arcade Archives: Satan of Saturn | 416064 | [416064-arcade-archives-satan-of-saturn.json](./416064-arcade-archives-satan-of-saturn.json) |
 | Arcade Archives: Scrambled Egg | 364072 | [364072-arcade-archives-scrambled-egg.json](./364072-arcade-archives-scrambled-egg.json) |
@@ -6313,22 +6328,30 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Solitary Fighter | 282154 | [282154-arcade-archives-solitary-fighter.json](./282154-arcade-archives-solitary-fighter.json) |
 | Arcade Archives: Solomon's Key | 99564 | [99564-arcade-archives-solomons-key.json](./99564-arcade-archives-solomons-key.json) |
 | Arcade Archives: Space Cruiser | 165601 | [165601-arcade-archives-space-cruiser.json](./165601-arcade-archives-space-cruiser.json) |
+| Arcade Archives: Super Cobra | 147119 | [147119-arcade-archives-super-cobra.json](./147119-arcade-archives-super-cobra.json) |
 | Arcade Archives: Super Pac-Man | 187461 | [187461-arcade-archives-super-pac-man.json](./187461-arcade-archives-super-pac-man.json) |
+| Arcade Archives: Super Punch-Out!! | 147118 | [147118-arcade-archives-super-punch-out.json](./147118-arcade-archives-super-punch-out.json) |
 | Arcade Archives: Super Xevious | 342799 | [342799-arcade-archives-super-xevious.json](./342799-arcade-archives-super-xevious.json) |
+| Arcade Archives: Swimmer | 147116 | [147116-arcade-archives-swimmer.json](./147116-arcade-archives-swimmer.json) |
 | Arcade Archives: Syvalion | 410362 | [410362-arcade-archives-syvalion.json](./410362-arcade-archives-syvalion.json) |
 | Arcade Archives: Tank Battalion | 290419 | [290419-arcade-archives-tank-battalion.json](./290419-arcade-archives-tank-battalion.json) |
 | Arcade Archives: Tank Force | 232461 | [232461-arcade-archives-tank-force.json](./232461-arcade-archives-tank-force.json) |
+| Arcade Archives: Tecmo Bowl | 147117 | [147117-arcade-archives-tecmo-bowl.json](./147117-arcade-archives-tecmo-bowl.json) |
 | Arcade Archives: Tecmo Stackers | 313224 | [313224-arcade-archives-tecmo-stackers.json](./313224-arcade-archives-tecmo-stackers.json) |
 | Arcade Archives: Terra Cresta | 99786 | [99786-arcade-archives-terra-cresta.json](./99786-arcade-archives-terra-cresta.json) |
 | Arcade Archives: Tetris - The Absolute: The Grand Master 2 Plus | 251538 | [251538-arcade-archives-tetris-the-absolute-the-grand-master-2-plus.json](./251538-arcade-archives-tetris-the-absolute-the-grand-master-2-plus.json) |
 | Arcade Archives: The Astyanax | 146827 | [146827-arcade-archives-the-astyanax.json](./146827-arcade-archives-the-astyanax.json) |
+| Arcade Archives: The Fairyland Story | 147103 | [147103-arcade-archives-the-fairyland-story.json](./147103-arcade-archives-the-fairyland-story.json) |
 | Arcade Archives: The Final Round | 312019 | [312019-arcade-archives-the-final-round.json](./312019-arcade-archives-the-final-round.json) |
 | Arcade Archives: The Genji and the Heike Clans | 175819 | [175819-arcade-archives-the-genji-and-the-heike-clans.json](./175819-arcade-archives-the-genji-and-the-heike-clans.json) |
 | Arcade Archives: The Legend of Kage | 99569 | [99569-arcade-archives-the-legend-of-kage.json](./99569-arcade-archives-the-legend-of-kage.json) |
 | Arcade Archives: The Legend Of Valkyrie | 197892 | [197892-arcade-archives-the-legend-of-valkyrie.json](./197892-arcade-archives-the-legend-of-valkyrie.json) |
 | Arcade Archives: The Ninja Kids | 314869 | [314869-arcade-archives-the-ninja-kids.json](./314869-arcade-archives-the-ninja-kids.json) |
 | Arcade Archives: The Return of Ishtar | 218552 | [218552-arcade-archives-the-return-of-ishtar.json](./218552-arcade-archives-the-return-of-ishtar.json) |
+| Arcade Archives: The Tin Star | 147102 | [147102-arcade-archives-the-tin-star.json](./147102-arcade-archives-the-tin-star.json) |
 | Arcade Archives: Thunder Ceptor II | 242052 | [242052-arcade-archives-thunder-ceptor-ii.json](./242052-arcade-archives-thunder-ceptor-ii.json) |
+| Arcade Archives: Thunder Cross | 147101 | [147101-arcade-archives-thunder-cross.json](./147101-arcade-archives-thunder-cross.json) |
+| Arcade Archives: Thunder Dragon | 147104 | [147104-arcade-archives-thunder-dragon.json](./147104-arcade-archives-thunder-dragon.json) |
 | Arcade Archives: Time Pilot '84 | 149990 | [149990-arcade-archives-time-pilot-84.json](./149990-arcade-archives-time-pilot-84.json) |
 | Arcade Archives: Top Speed | 389060 | [389060-arcade-archives-top-speed.json](./389060-arcade-archives-top-speed.json) |
 | Arcade Archives: Touchdown Fever | 384202 | [384202-arcade-archives-touchdown-fever.json](./384202-arcade-archives-touchdown-fever.json) |
@@ -6345,12 +6368,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Vs. Balloon Fight | 68332 | [68332-arcade-archives-vs-balloon-fight.json](./68332-arcade-archives-vs-balloon-fight.json) |
 | Arcade Archives: vs. Battle City | 317219 | [317219-arcade-archives-vs-battle-city.json](./317219-arcade-archives-vs-battle-city.json) |
 | Arcade Archives: vs. Family Tennis | 328093 | [328093-arcade-archives-vs-family-tennis.json](./328093-arcade-archives-vs-family-tennis.json) |
+| Arcade Archives: Vs. Mahjong | 147100 | [147100-arcade-archives-vs-mahjong.json](./147100-arcade-archives-vs-mahjong.json) |
 | Arcade Archives: vs. Mystery Tower | 335093 | [335093-arcade-archives-vs-mystery-tower.json](./335093-arcade-archives-vs-mystery-tower.json) |
 | Arcade Archives: Vs. Super Mario Bros. | 67198 | [67198-arcade-archives-vs-super-mario-bros.json](./67198-arcade-archives-vs-super-mario-bros.json) |
+| Arcade Archives: vs. Tennis | 147099 | [147099-arcade-archives-vs-tennis.json](./147099-arcade-archives-vs-tennis.json) |
 | Arcade Archives: Vs. Wrecking Crew | 68313 | [68313-arcade-archives-vs-wrecking-crew.json](./68313-arcade-archives-vs-wrecking-crew.json) |
 | Arcade Archives: Warp & Warp | 277578 | [277578-arcade-archives-warp-and-warp.json](./277578-arcade-archives-warp-and-warp.json) |
 | Arcade Archives: Wonder Boy | 141885 | [141885-arcade-archives-wonder-boy.json](./141885-arcade-archives-wonder-boy.json) |
 | Arcade Archives: XX Mission | 129194 | [129194-arcade-archives-xx-mission.json](./129194-arcade-archives-xx-mission.json) |
+| Arcade Archives: Zero Team | 147098 | [147098-arcade-archives-zero-team.json](./147098-arcade-archives-zero-team.json) |
 | Arcade Archives: Zing Zing Zip | 265707 | [265707-arcade-archives-zing-zing-zip.json](./265707-arcade-archives-zing-zing-zip.json) |
 | Arcade Asylum | 276711 | [276711-arcade-asylum.json](./276711-arcade-asylum.json) |
 | Arcade Audience | 417501 | [417501-arcade-audience.json](./417501-arcade-audience.json) |
