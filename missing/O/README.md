@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogre Chambers 2222 | 369740 | [369740-ogre-chambers-2222.json](./369740-ogre-chambers-2222.json) |
 | Ogre Chambers DX | 239795 | [239795-ogre-chambers-dx.json](./239795-ogre-chambers-dx.json) |
 | Ogre's Ambition 2 | 82775 | [82775-ogres-ambition-2.json](./82775-ogres-ambition-2.json) |
+| Ogrez | 119605 | [119605-ogrez.json](./119605-ogrez.json) |
 | Ogriesh Flower | 247079 | [247079-ogriesh-flower.json](./247079-ogriesh-flower.json) |
 | OGSR Mod | 139745 | [139745-ogsr-mod.json](./139745-ogsr-mod.json) |
 | Ogu and the Secret Forest | 200923 | [200923-ogu-and-the-secret-forest.json](./200923-ogu-and-the-secret-forest.json) |
@@ -2912,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost Kaloki X | 20508 | [20508-outpost-kaloki-x.json](./20508-outpost-kaloki-x.json) |
 | Outpost L5 | 50509 | [50509-outpost-l5.json](./50509-outpost-l5.json) |
 | Outpost Luna | 174363 | [174363-outpost-luna.json](./174363-outpost-luna.json) |
+| Outpost on Syrinx | 119602 | [119602-outpost-on-syrinx.json](./119602-outpost-on-syrinx.json) |
 | Outpost: Save Yourselves | 61697 | [61697-outpost-save-yourselves.json](./61697-outpost-save-yourselves.json) |
 | Outpost: Vikings | 158616 | [158616-outpost-vikings.json](./158616-outpost-vikings.json) |
 | Outpour | 366406 | [366406-outpour.json](./366406-outpour.json) |
