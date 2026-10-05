@@ -1998,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hector The Cat: Treasure Hunter | 257437 | [257437-hector-the-cat-treasure-hunter.json](./257437-hector-the-cat-treasure-hunter.json) |
 | Hector: Badge of Carnage! - Episode 1 | 119182 | [119182-hector-badge-of-carnage-episode-1.json](./119182-hector-badge-of-carnage-episode-1.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
+| Hedera | 135605 | [135605-hedera.json](./135605-hedera.json) |
 | Hedge Fund Tycoon | 239779 | [239779-hedge-fund-tycoon.json](./239779-hedge-fund-tycoon.json) |
 | Hedgehog Launch | 234939 | [234939-hedgehog-launch.json](./234939-hedgehog-launch.json) |
 | Hedgehog Launch 2 | 234940 | [234940-hedgehog-launch-2.json](./234940-hedgehog-launch-2.json) |
@@ -4266,6 +4267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hilomi | 116441 | [116441-hilomi.json](./116441-hilomi.json) |
 | Him | 171979 | [171979-him.json](./171979-him.json) |
 | Him | 258482 | [258482-him.json](./258482-him.json) |
+| Him & Her | 135652 | [135652-him-and-her.json](./135652-him-and-her.json) |
 | Him & Her: Her Challenges | 238195 | [238195-him-and-her-her-challenges.json](./238195-him-and-her-her-challenges.json) |
 | Him & I | 123545 | [123545-him-and-i.json](./123545-him-and-i.json) |
 | HimaNatsu: Of Churches, Sunflowers, and Long Summers | 410423 | [410423-himanatsu-of-churches-sunflowers-and-long-summers.json](./410423-himanatsu-of-churches-sunflowers-and-long-summers.json) |
@@ -6188,6 +6190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huaxia: Warring States | 314435 | [314435-huaxia-warring-states.json](./314435-huaxia-warring-states.json) |
 | Hubert Catching | 411109 | [411109-hubert-catching.json](./411109-hubert-catching.json) |
 | Hubert the Teddy Bear: Holiday Island | 68089 | [68089-hubert-the-teddy-bear-holiday-island.json](./68089-hubert-the-teddy-bear-holiday-island.json) |
+| HubWorld | 135608 | [135608-hubworld.json](./135608-hubworld.json) |
 | Huckleberry Hound in Hollywood Capers | 73530 | [73530-huckleberry-hound-in-hollywood-capers.json](./73530-huckleberry-hound-in-hollywood-capers.json) |
 | Huddam 2 Berzah | 307770 | [307770-huddam-2-berzah.json](./307770-huddam-2-berzah.json) |
 | Hudson 3D Golf | 97679 | [97679-hudson-3d-golf.json](./97679-hudson-3d-golf.json) |
