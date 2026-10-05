@@ -1282,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Wilds | 238739 | [238739-across-the-wilds.json](./238739-across-the-wilds.json) |
 | Acrostics on Stream | 261264 | [261264-acrostics-on-stream.json](./261264-acrostics-on-stream.json) |
 | Acryptia | 226397 | [226397-acryptia.json](./226397-acryptia.json) |
+| ACT | 169818 | [169818-act.json](./169818-act.json) |
 | Act of Aggression | 8920 | [8920-act-of-aggression.json](./8920-act-of-aggression.json) |
 | Act of Aggression: Reboot Edition | 52552 | [52552-act-of-aggression-reboot-edition.json](./52552-act-of-aggression-reboot-edition.json) |
 | Act-Fancer: Cybernetick Hyper Weapon | 12270 | [12270-act-fancer-cybernetick-hyper-weapon.json](./12270-act-fancer-cybernetick-hyper-weapon.json) |
@@ -5265,6 +5266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annoying Orange Pinball | 266517 | [266517-annoying-orange-pinball.json](./266517-annoying-orange-pinball.json) |
 | Annoying Orange: Kitchen Carnage | 266516 | [266516-annoying-orange-kitchen-carnage.json](./266516-annoying-orange-kitchen-carnage.json) |
 | Annoying Orange: Splatter Up! | 108462 | [108462-annoying-orange-splatter-up.json](./108462-annoying-orange-splatter-up.json) |
+| Annual Intruders | 169813 | [169813-annual-intruders.json](./169813-annual-intruders.json) |
 | Annual Intruders 2.0 | 191048 | [191048-annual-intruders-2-0.json](./191048-annual-intruders-2-0.json) |
 | Annuit Coeptis | 303149 | [303149-annuit-coeptis.json](./303149-annuit-coeptis.json) |
 | Annulus | 196308 | [196308-annulus.json](./196308-annulus.json) |
