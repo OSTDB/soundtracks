@@ -1344,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite: Dangerous - Horizons | 15442 | [15442-elite-dangerous-horizons.json](./15442-elite-dangerous-horizons.json) |
 | Elithian Races Mod | 280270 | [280270-elithian-races-mod.json](./280270-elithian-races-mod.json) |
 | Elitserien 96 | 45560 | [45560-elitserien-96.json](./45560-elitserien-96.json) |
+| Elixia | 133757 | [133757-elixia.json](./133757-elixia.json) |
 | Elixir | 145607 | [145607-elixir.json](./145607-elixir.json) |
 | Elixir Emporium | 317297 | [317297-elixir-emporium.json](./317297-elixir-emporium.json) |
 | Elixir of Life | 151098 | [151098-elixir-of-life.json](./151098-elixir-of-life.json) |
@@ -4195,6 +4196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extinction 1306 | 337164 | [337164-extinction-1306.json](./337164-extinction-1306.json) |
 | Extinction Day | 325552 | [325552-extinction-day.json](./325552-extinction-day.json) |
 | Extinction Eclipse | 201687 | [201687-extinction-eclipse.json](./201687-extinction-eclipse.json) |
+| Extinction Level Event | 133760 | [133760-extinction-level-event.json](./133760-extinction-level-event.json) |
 | Extinction-MiniJeux | 394883 | [394883-extinction-minijeux.json](./394883-extinction-minijeux.json) |
 | Extinction: Deluxe Edition | 85473 | [85473-extinction-deluxe-edition.json](./85473-extinction-deluxe-edition.json) |
 | Extirpate | 291532 | [291532-extirpate.json](./291532-extirpate.json) |
