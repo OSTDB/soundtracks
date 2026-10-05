@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tankiro | 346179 | [346179-tankiro.json](./346179-tankiro.json) |
 | Tankitos | 201788 | [201788-tankitos.json](./201788-tankitos.json) |
 | TankLab | 234217 | [234217-tanklab.json](./234217-tanklab.json) |
+| Tanklike | 163349 | [163349-tanklike.json](./163349-tanklike.json) |
 | Tankman | 121635 | [121635-tankman.json](./121635-tankman.json) |
 | Tankomatron War Robots: Transform Tanks into Bots | 104634 | [104634-tankomatron-war-robots-transform-tanks-into-bots.json](./104634-tankomatron-war-robots-transform-tanks-into-bots.json) |
 | TankRat | 381208 | [381208-tankrat.json](./381208-tankrat.json) |
@@ -1951,20 +1952,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 6 | 1247 | [1247-tekken-6.json](./1247-tekken-6.json) |
 | Tekken 6 | 195868 | [195868-tekken-6.json](./195868-tekken-6.json) |
 | Tekken 6 | 272551 | [272551-tekken-6.json](./272551-tekken-6.json) |
+| Tekken 7: Cave of Enlightenment | 163266 | [163266-tekken-7-cave-of-enlightenment.json](./163266-tekken-7-cave-of-enlightenment.json) |
 | Tekken 7: Craig Marduk | 173152 | [173152-tekken-7-craig-marduk.json](./173152-tekken-7-craig-marduk.json) |
 | Tekken 7: Definitive Edition | 188048 | [188048-tekken-7-definitive-edition.json](./188048-tekken-7-definitive-edition.json) |
 | Tekken 7: Eliza | 173151 | [173151-tekken-7-eliza.json](./173151-tekken-7-eliza.json) |
+| Tekken 7: Fahkumram | 163263 | [163263-tekken-7-fahkumram.json](./163263-tekken-7-fahkumram.json) |
 | Tekken 7: Fated Retribution | 19555 | [19555-tekken-7-fated-retribution.json](./19555-tekken-7-fated-retribution.json) |
 | Tekken 7: Fated Retribution Round 2 | 326735 | [326735-tekken-7-fated-retribution-round-2.json](./326735-tekken-7-fated-retribution-round-2.json) |
+| Tekken 7: Frame Data Display | 163264 | [163264-tekken-7-frame-data-display.json](./163264-tekken-7-frame-data-display.json) |
 | Tekken 7: Ganryu | 173155 | [173155-tekken-7-ganryu.json](./173155-tekken-7-ganryu.json) |
 | Tekken 7: Island Paradise | 173150 | [173150-tekken-7-island-paradise.json](./173150-tekken-7-island-paradise.json) |
 | Tekken 7: Kunimitsu | 173148 | [173148-tekken-7-kunimitsu.json](./173148-tekken-7-kunimitsu.json) |
 | Tekken 7: Legendary Edition | 200681 | [200681-tekken-7-legendary-edition.json](./200681-tekken-7-legendary-edition.json) |
 | Tekken 7: Lei Wulong | 173147 | [173147-tekken-7-lei-wulong.json](./173147-tekken-7-lei-wulong.json) |
+| Tekken 7: Leroy Smith | 163262 | [163262-tekken-7-leroy-smith.json](./163262-tekken-7-leroy-smith.json) |
+| Tekken 7: Lidia Sobieska | 163267 | [163267-tekken-7-lidia-sobieska.json](./163267-tekken-7-lidia-sobieska.json) |
 | Tekken 7: Originals Edition | 218481 | [218481-tekken-7-originals-edition.json](./218481-tekken-7-originals-edition.json) |
 | Tekken 7: Season Pass | 385588 | [385588-tekken-7-season-pass.json](./385588-tekken-7-season-pass.json) |
 | Tekken 7: Ultimate Tekken Bowl & Additional Costumes | 118958 | [118958-tekken-7-ultimate-tekken-bowl-and-additional-costumes.json](./118958-tekken-7-ultimate-tekken-bowl-and-additional-costumes.json) |
 | Tekken 7: Vermilion Gates | 173154 | [173154-tekken-7-vermilion-gates.json](./173154-tekken-7-vermilion-gates.json) |
+| Tekken 7: Zafina | 163260 | [163260-tekken-7-zafina.json](./163260-tekken-7-zafina.json) |
 | Tekken 8: Armor King | 374182 | [374182-tekken-8-armor-king.json](./374182-tekken-8-armor-king.json) |
 | Tekken 8: Character Costume - Aurora Outfit Pack | 414330 | [414330-tekken-8-character-costume-aurora-outfit-pack.json](./414330-tekken-8-character-costume-aurora-outfit-pack.json) |
 | Tekken 8: Clive Rosfield | 325597 | [325597-tekken-8-clive-rosfield.json](./325597-tekken-8-clive-rosfield.json) |
@@ -2883,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thaumistry: In Charm's Way | 27280 | [27280-thaumistry-in-charms-way.json](./27280-thaumistry-in-charms-way.json) |
 | ThaumOS | 184462 | [184462-thaumos.json](./184462-thaumos.json) |
 | Thawed Waters | 260254 | [260254-thawed-waters.json](./260254-thawed-waters.json) |
+| THC: Alien Abduction | 163339 | [163339-thc-alien-abduction.json](./163339-thc-alien-abduction.json) |
 | The "Quiet, Please!" Collection | 95193 | [95193-the-quiet-please-collection.json](./95193-the-quiet-please-collection.json) |
 | The $100,000 Pyramid | 12372 | [12372-the-100-000-pyramid.json](./12372-the-100-000-pyramid.json) |
 | The 10th Planet | 200421 | [200421-the-10th-planet.json](./200421-the-10th-planet.json) |
@@ -7664,6 +7672,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Next Stop | 364026 | [364026-the-next-stop.json](./364026-the-next-stop.json) |
 | The Next Tetris | 51179 | [51179-the-next-tetris.json](./51179-the-next-tetris.json) |
 | The Next World | 344422 | [344422-the-next-world.json](./344422-the-next-world.json) |
+| The Next World: Planetary Exploration | 163251 | [163251-the-next-world-planetary-exploration.json](./163251-the-next-world-planetary-exploration.json) |
+| The Next World: Rocketship DLC | 163250 | [163250-the-next-world-rocketship-dlc.json](./163250-the-next-world-rocketship-dlc.json) |
 | The Night Before Star Wars | 233653 | [233653-the-night-before-star-wars.json](./233653-the-night-before-star-wars.json) |
 | The Night Guard | 295385 | [295385-the-night-guard.json](./295385-the-night-guard.json) |
 | The Night Is Long | 350010 | [350010-the-night-is-long.json](./350010-the-night-is-long.json) |
