@@ -2512,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Flame | 197265 | [197265-terra-flame.json](./197265-terra-flame.json) |
 | Terra Foliata | 296631 | [296631-terra-foliata.json](./296631-terra-foliata.json) |
 | Terra Incognita | 129119 | [129119-terra-incognita.json](./129119-terra-incognita.json) |
+| Terra Lander II: Rockslide Rescue | 130136 | [130136-terra-lander-ii-rockslide-rescue.json](./130136-terra-lander-ii-rockslide-rescue.json) |
 | Terra Maega | 217265 | [217265-terra-maega.json](./217265-terra-maega.json) |
 | Terra Militaris | 66367 | [66367-terra-militaris.json](./66367-terra-militaris.json) |
 | Terra Nil | 152424 | [152424-terra-nil.json](./152424-terra-nil.json) |
@@ -3731,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boss Baby: Get That Baby! | 256853 | [256853-the-boss-baby-get-that-baby.json](./256853-the-boss-baby-get-that-baby.json) |
 | The Boss Gangster: Criminal Empire - From the Streets | 400956 | [400956-the-boss-gangster-criminal-empire-from-the-streets.json](./400956-the-boss-gangster-criminal-empire-from-the-streets.json) |
 | The Bot Squad: Puzzle Battles | 344452 | [344452-the-bot-squad-puzzle-battles.json](./344452-the-bot-squad-puzzle-battles.json) |
+| The Botanist | 130113 | [130113-the-botanist.json](./130113-the-botanist.json) |
 | The Botanist | 26425 | [26425-the-botanist.json](./26425-the-botanist.json) |
 | The Bou: Special Edition | 278745 | [278745-the-bou-special-edition.json](./278745-the-bou-special-edition.json) |
 | The Bouncer | 1349 | [1349-the-bouncer.json](./1349-the-bouncer.json) |
@@ -5769,6 +5771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Harmony Chronicles: Chaos Realms - Collector's Edition | 319771 | [319771-the-harmony-chronicles-chaos-realms-collectors-edition.json](./319771-the-harmony-chronicles-chaos-realms-collectors-edition.json) |
 | The Harmony Chronicles: Demon of the Void - Collector’s Edition | 332532 | [332532-the-harmony-chronicles-demon-of-the-void-collector-s-edition.json](./332532-the-harmony-chronicles-demon-of-the-void-collector-s-edition.json) |
 | The Harmony of Buku | 55921 | [55921-the-harmony-of-buku.json](./55921-the-harmony-of-buku.json) |
+| The Harvest | 130220 | [130220-the-harvest.json](./130220-the-harvest.json) |
 | The Harvest 3D | 233095 | [233095-the-harvest-3d.json](./233095-the-harvest-3d.json) |
 | The Hat Man: Shadow Ward | 36355 | [36355-the-hat-man-shadow-ward.json](./36355-the-hat-man-shadow-ward.json) |
 | The Hate Flow | 261454 | [261454-the-hate-flow.json](./261454-the-hate-flow.json) |
@@ -5807,6 +5810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hedgehogs | 99405 | [99405-the-hedgehogs.json](./99405-the-hedgehogs.json) |
 | The Heights | 244504 | [244504-the-heights.json](./244504-the-heights.json) |
 | The Heiress | 51604 | [51604-the-heiress.json](./51604-the-heiress.json) |
+| The Heiress of Sorcery | 130210 | [130210-the-heiress-of-sorcery.json](./130210-the-heiress-of-sorcery.json) |
 | The Heirloom | 292604 | [292604-the-heirloom.json](./292604-the-heirloom.json) |
 | The Heist | 120316 | [120316-the-heist.json](./120316-the-heist.json) |
 | The Heist | 24018 | [24018-the-heist.json](./24018-the-heist.json) |
@@ -10374,6 +10378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way We ALL GO | 35683 | [35683-the-way-we-all-go.json](./35683-the-way-we-all-go.json) |
 | The Wayfarer | 144261 | [144261-the-wayfarer.json](./144261-the-wayfarer.json) |
 | The Wayhaven Chronicles: Book Three | 224639 | [224639-the-wayhaven-chronicles-book-three.json](./224639-the-wayhaven-chronicles-book-three.json) |
+| The Wayhaven Chronicles: Book Two | 130146 | [130146-the-wayhaven-chronicles-book-two.json](./130146-the-wayhaven-chronicles-book-two.json) |
 | The Waystone's Toll: A Diorama Mini-Dungeon | 139873 | [139873-the-waystones-toll-a-diorama-mini-dungeon.json](./139873-the-waystones-toll-a-diorama-mini-dungeon.json) |
 | The Wayward Tower | 329031 | [329031-the-wayward-tower.json](./329031-the-wayward-tower.json) |
 | The Weakened Demon Lord and His Servant's Business: Please Give Me Your White Fluid | 82769 | [82769-the-weakened-demon-lord-and-his-servants-business-please-give-me-your-white-fluid.json](./82769-the-weakened-demon-lord-and-his-servants-business-please-give-me-your-white-fluid.json) |
@@ -14326,6 +14331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Fucking Psychopath | 346639 | [346639-total-fucking-psychopath.json](./346639-total-fucking-psychopath.json) |
 | Total Immersion Racing | 6212 | [6212-total-immersion-racing.json](./6212-total-immersion-racing.json) |
 | Total Incremental Battle | 390134 | [390134-total-incremental-battle.json](./390134-total-incremental-battle.json) |
+| Total Madness | 130219 | [130219-total-madness.json](./130219-total-madness.json) |
 | Total Miner | 77339 | [77339-total-miner.json](./77339-total-miner.json) |
 | Total Overdose | 6213 | [6213-total-overdose.json](./6213-total-overdose.json) |
 | Total Party Kill | 119272 | [119272-total-party-kill.json](./119272-total-party-kill.json) |
