@@ -4022,6 +4022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaginu Kanojo: Side A | 369142 | [369142-amaginu-kanojo-side-a.json](./369142-amaginu-kanojo-side-a.json) |
 | Amaginu Kanojo: Side B | 369143 | [369143-amaginu-kanojo-side-b.json](./369143-amaginu-kanojo-side-b.json) |
 | Amagon | 8916 | [8916-amagon.json](./8916-amagon.json) |
+| Amairo Chocolate | 130138 | [130138-amairo-chocolate.json](./130138-amairo-chocolate.json) |
 | Amairo Chocolate 3 | 381003 | [381003-amairo-chocolate-3.json](./381003-amairo-chocolate-3.json) |
 | Amakano | 374832 | [374832-amakano.json](./374832-amakano.json) |
 | Amakano: Second Season | 128405 | [128405-amakano-second-season.json](./128405-amakano-second-season.json) |
@@ -6872,6 +6873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Area 51: Running Ninja Raid | 184087 | [184087-area-51-running-ninja-raid.json](./184087-area-51-running-ninja-raid.json) |
 | Area 51: Site 4 | 39836 | [39836-area-51-site-4.json](./39836-area-51-site-4.json) |
 | Area 51/Maximum Force Duo | 39597 | [39597-area-51-maximum-force-duo.json](./39597-area-51-maximum-force-duo.json) |
+| Area Man Lives | 130141 | [130141-area-man-lives.json](./130141-area-man-lives.json) |
 | Area Radar Controller | 15600 | [15600-area-radar-controller.json](./15600-area-radar-controller.json) |
 | Area Zero | 360739 | [360739-area-zero.json](./360739-area-zero.json) |
 | Area-X | 35734 | [35734-area-x.json](./35734-area-x.json) |
