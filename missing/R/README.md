@@ -7015,6 +7015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RXC | 192185 | [192185-rxc.json](./192185-rxc.json) |
 | RXN: Raijin | 77386 | [77386-rxn-raijin.json](./77386-rxn-raijin.json) |
 | Ryan Black | 30123 | [30123-ryan-black.json](./30123-ryan-black.json) |
+| Ryan Marks Revenge Mission | 136821 | [136821-ryan-marks-revenge-mission.json](./136821-ryan-marks-revenge-mission.json) |
 | Ryan Veeder's Authentic Fly Fishing | 216330 | [216330-ryan-veeders-authentic-fly-fishing.json](./216330-ryan-veeders-authentic-fly-fishing.json) |
 | Ryan's Apparition Wandering Restaurant | 336065 | [336065-ryans-apparition-wandering-restaurant.json](./336065-ryans-apparition-wandering-restaurant.json) |
 | Ryan's Pack | 131602 | [131602-ryans-pack.json](./131602-ryans-pack.json) |
