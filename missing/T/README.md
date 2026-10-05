@@ -2228,6 +2228,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenkaichi: Sengoku Lovers DS | 206023 | [206023-tenkaichi-sengoku-lovers-ds.json](./206023-tenkaichi-sengoku-lovers-ds.json) |
 | Tenko's Magical Sword Quest | 194991 | [194991-tenkos-magical-sword-quest.json](./194991-tenkos-magical-sword-quest.json) |
 | Tenkomori Shooting | 59909 | [59909-tenkomori-shooting.json](./59909-tenkomori-shooting.json) |
+| Tenkuu No Restaurant | 167109 | [167109-tenkuu-no-restaurant.json](./167109-tenkuu-no-restaurant.json) |
+| Tenkuu No Restaurant: Hello! Project Version | 167113 | [167113-tenkuu-no-restaurant-hello-project-version.json](./167113-tenkuu-no-restaurant-hello-project-version.json) |
 | Tenkyu | 93737 | [93737-tenkyu.json](./93737-tenkyu.json) |
 | TenMinions | 113904 | [113904-tenminions.json](./113904-tenminions.json) |
 | Tennis | 131451 | [131451-tennis.json](./131451-tennis.json) |
@@ -2313,7 +2315,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tensei Shitara Slime Datta Ken: Lord of Tempest | 90112 | [90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json](./90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json) |
 | Tensen Nyannyan: Gekigyouban | 166149 | [166149-tensen-nyannyan-gekigyouban.json](./166149-tensen-nyannyan-gekigyouban.json) |
 | Tenshi Doumei | 63390 | [63390-tenshi-doumei.json](./63390-tenshi-doumei.json) |
+| Tenshi Na Konamaiki | 167121 | [167121-tenshi-na-konamaiki.json](./167121-tenshi-na-konamaiki.json) |
 | Tenshi no Inai 12-gatsu | 148442 | [148442-tenshi-no-inai-12-gatsu.json](./148442-tenshi-no-inai-12-gatsu.json) |
+| Tenshi no Shippo | 167118 | [167118-tenshi-no-shippo.json](./167118-tenshi-no-shippo.json) |
 | Tenshi no Solitaire | 409079 | [409079-tenshi-no-solitaire.json](./409079-tenshi-no-solitaire.json) |
 | Tenshi no Uta: The Angel Verse II - The Fallen Angel | 385074 | [385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json](./385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json) |
 | Tenshi no uta: The Angel's Verse | 385075 | [385075-tenshi-no-uta-the-angels-verse.json](./385075-tenshi-no-uta-the-angels-verse.json) |
@@ -6694,6 +6698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel - Lionheart Edition | 89911 | [89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json](./89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel II | 13558 | [13558-the-legend-of-heroes-trails-of-cold-steel-ii.json](./13558-the-legend-of-heroes-trails-of-cold-steel-ii.json) |
 | The Legend of Heroes: Trails of Cold Steel II - All Ride-Alongs | 124812 | [124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json](./124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json) |
+| The Legend of Heroes: Trails of Cold Steel II - Relentless Edition | 167087 | [167087-the-legend-of-heroes-trails-of-cold-steel-ii-relentless-edition.json](./167087-the-legend-of-heroes-trails-of-cold-steel-ii-relentless-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Digital Limited Edition | 169217 | [169217-the-legend-of-heroes-trails-of-cold-steel-iii-digital-limited-edition.json](./169217-the-legend-of-heroes-trails-of-cold-steel-iii-digital-limited-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Limited Kiseki Box | 167067 | [167067-the-legend-of-heroes-trails-of-cold-steel-iii-limited-kiseki-box.json](./167067-the-legend-of-heroes-trails-of-cold-steel-iii-limited-kiseki-box.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Digital Deluxe Edition | 169218 | [169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json](./169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json) |
@@ -6743,6 +6748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Sword and Fairy 4: Remake | 383008 | [383008-the-legend-of-sword-and-fairy-4-remake.json](./383008-the-legend-of-sword-and-fairy-4-remake.json) |
 | The Legend of Sword and Fairy 5 | 57033 | [57033-the-legend-of-sword-and-fairy-5.json](./57033-the-legend-of-sword-and-fairy-5.json) |
 | The Legend of Sword and Fairy 6 | 57034 | [57034-the-legend-of-sword-and-fairy-6.json](./57034-the-legend-of-sword-and-fairy-6.json) |
+| The Legend of Sword and Fairy 6: Limited Edition | 167085 | [167085-the-legend-of-sword-and-fairy-6-limited-edition.json](./167085-the-legend-of-sword-and-fairy-6-limited-edition.json) |
 | The Legend of Sword and Fairy 7: Dreamlike World | 235192 | [235192-the-legend-of-sword-and-fairy-7-dreamlike-world.json](./235192-the-legend-of-sword-and-fairy-7-dreamlike-world.json) |
 | The Legend of Tango | 34641 | [34641-the-legend-of-tango.json](./34641-the-legend-of-tango.json) |
 | The Legend of Thabor: Rise of the Mages | 329045 | [329045-the-legend-of-thabor-rise-of-the-mages.json](./329045-the-legend-of-thabor-rise-of-the-mages.json) |
@@ -14405,6 +14411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touken Ranbu Warriors: Uchiban Outfit 16-piece Set | 224518 | [224518-touken-ranbu-warriors-uchiban-outfit-16-piece-set.json](./224518-touken-ranbu-warriors-uchiban-outfit-16-piece-set.json) |
 | Touken Ranbu: Online Pocket | 194031 | [194031-touken-ranbu-online-pocket.json](./194031-touken-ranbu-online-pocket.json) |
 | Touki Kyouka | 82490 | [82490-touki-kyouka.json](./82490-touki-kyouka.json) |
+| Toukiden 2: Limited Edition | 167086 | [167086-toukiden-2-limited-edition.json](./167086-toukiden-2-limited-edition.json) |
 | Toukiden: Kiwami - Mission Collection 1-3 | 171916 | [171916-toukiden-kiwami-mission-collection-1-3.json](./171916-toukiden-kiwami-mission-collection-1-3.json) |
 | Toukiden: Kiwami - Mission Collection 4-7 | 171917 | [171917-toukiden-kiwami-mission-collection-4-7.json](./171917-toukiden-kiwami-mission-collection-4-7.json) |
 | Toukiden: Kiwami - Mission Collection 8-11 | 171918 | [171918-toukiden-kiwami-mission-collection-8-11.json](./171918-toukiden-kiwami-mission-collection-8-11.json) |
