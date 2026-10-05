@@ -1841,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts by Dodofox | 100334 | [100334-hearts-by-dodofox.json](./100334-hearts-by-dodofox.json) |
 | Hearts by Webfoot | 108286 | [108286-hearts-by-webfoot.json](./108286-hearts-by-webfoot.json) |
 | Hearts Cards | 86724 | [86724-hearts-cards.json](./86724-hearts-cards.json) |
+| Hearts Deluxe | 118736 | [118736-hearts-deluxe.json](./118736-hearts-deluxe.json) |
 | Hearts in Orbit: When Stars Align | 295860 | [295860-hearts-in-orbit-when-stars-align.json](./295860-hearts-in-orbit-when-stars-align.json) |
 | Hearts Lite | 91330 | [91330-hearts-lite.json](./91330-hearts-lite.json) |
 | Hearts of Demons: Baron | 196029 | [196029-hearts-of-demons-baron.json](./196029-hearts-of-demons-baron.json) |
@@ -5396,6 +5397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hordes.io | 125365 | [125365-hordes-io.json](./125365-hordes-io.json) |
 | Hordound | 207764 | [207764-hordound.json](./207764-hordound.json) |
 | Horg's Brewery | 333608 | [333608-horgs-brewery.json](./333608-horgs-brewery.json) |
+| Horgihugh | 118727 | [118727-horgihugh.json](./118727-horgihugh.json) |
 | Horgihugh and Friends | 193534 | [193534-horgihugh-and-friends.json](./193534-horgihugh-and-friends.json) |
 | Horizon | 16513 | [16513-horizon.json](./16513-horizon.json) |
 | Horizon | 350058 | [350058-horizon.json](./350058-horizon.json) |
