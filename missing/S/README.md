@@ -10845,6 +10845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkling Memory | 246546 | [246546-sparkling-memory.json](./246546-sparkling-memory.json) |
 | SparkMutts | 211214 | [211214-sparkmutts.json](./211214-sparkmutts.json) |
 | Sparkour | 34852 | [34852-sparkour.json](./34852-sparkour.json) |
+| Sparks: Episode One | 170803 | [170803-sparks-episode-one.json](./170803-sparks-episode-one.json) |
 | Sparkster PC | 265220 | [265220-sparkster-pc.json](./265220-sparkster-pc.json) |
 | Sparkster: Rocket Knight Adventures 2 | 1264 | [1264-sparkster-rocket-knight-adventures-2.json](./1264-sparkster-rocket-knight-adventures-2.json) |
 | Sparky | 258970 | [258970-sparky.json](./258970-sparky.json) |
@@ -11551,6 +11552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiral Dystopia | 235857 | [235857-spiral-dystopia.json](./235857-spiral-dystopia.json) |
 | Spiral Helix: Jump down the tower | 104445 | [104445-spiral-helix-jump-down-the-tower.json](./104445-spiral-helix-jump-down-the-tower.json) |
 | Spiral House | 178015 | [178015-spiral-house.json](./178015-spiral-house.json) |
+| Spiral Knights: Operation Crimson Hammer | 170877 | [170877-spiral-knights-operation-crimson-hammer.json](./170877-spiral-knights-operation-crimson-hammer.json) |
 | Spiral of War | 270785 | [270785-spiral-of-war.json](./270785-spiral-of-war.json) |
 | Spiral Smash | 244871 | [244871-spiral-smash.json](./244871-spiral-smash.json) |
 | Spiral Wave | 42045 | [42045-spiral-wave.json](./42045-spiral-wave.json) |
@@ -12622,6 +12624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Exodus | 217306 | [217306-star-exodus.json](./217306-star-exodus.json) |
 | Star Fetchers: Escape from Pork Belly | 298240 | [298240-star-fetchers-escape-from-pork-belly.json](./298240-star-fetchers-escape-from-pork-belly.json) |
 | Star Fiction | 348276 | [348276-star-fiction.json](./348276-star-fiction.json) |
+| Star Fighter | 170804 | [170804-star-fighter.json](./170804-star-fighter.json) |
 | Star Fire | 408210 | [408210-star-fire.json](./408210-star-fire.json) |
 | Star Fire: Eternal Cycle | 316656 | [316656-star-fire-eternal-cycle.json](./316656-star-fire-eternal-cycle.json) |
 | Star Firebirds | 30215 | [30215-star-firebirds.json](./30215-star-firebirds.json) |
@@ -14541,8 +14544,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strainge | 151703 | [151703-strainge.json](./151703-strainge.json) |
 | Strand | 320715 | [320715-strand.json](./320715-strand.json) |
 | Strand Boy | 228478 | [228478-strand-boy.json](./228478-strand-boy.json) |
+| Stranded | 170908 | [170908-stranded.json](./170908-stranded.json) |
 | Stranded | 308327 | [308327-stranded.json](./308327-stranded.json) |
 | Stranded | 337676 | [337676-stranded.json](./337676-stranded.json) |
+| Stranded 2 | 170896 | [170896-stranded-2.json](./170896-stranded-2.json) |
 | Stranded at Sea | 365737 | [365737-stranded-at-sea.json](./365737-stranded-at-sea.json) |
 | Stranded B | 162257 | [162257-stranded-b.json](./162257-stranded-b.json) |
 | Stranded Deep | 8751 | [8751-stranded-deep.json](./8751-stranded-deep.json) |
