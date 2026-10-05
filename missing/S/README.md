@@ -2312,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasons of War | 58746 | [58746-seasons-of-war.json](./58746-seasons-of-war.json) |
 | Seasons Pairs | 96030 | [96030-seasons-pairs.json](./96030-seasons-pairs.json) |
 | Seasons Turning | 374617 | [374617-seasons-turning.json](./374617-seasons-turning.json) |
+| Seasons With Furry | 156722 | [156722-seasons-with-furry.json](./156722-seasons-with-furry.json) |
 | Seasonspree | 152195 | [152195-seasonspree.json](./152195-seasonspree.json) |
 | Seat of War | 104832 | [104832-seat-of-war.json](./104832-seat-of-war.json) |
 | Seaward | 361870 | [361870-seaward.json](./361870-seaward.json) |
@@ -5002,6 +5003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShortStacked | 183958 | [183958-shortstacked.json](./183958-shortstacked.json) |
 | Shot & Dread Online | 293214 | [293214-shot-and-dread-online.json](./293214-shot-and-dread-online.json) |
 | Shot Dawn | 197355 | [197355-shot-dawn.json](./197355-shot-dawn.json) |
+| Shot of Rhythm | 156703 | [156703-shot-of-rhythm.json](./156703-shot-of-rhythm.json) |
 | Shot One | 130767 | [130767-shot-one.json](./130767-shot-one.json) |
 | Shot Online | 20574 | [20574-shot-online.json](./20574-shot-online.json) |
 | Shot Online Golf: World Championship | 70858 | [70858-shot-online-golf-world-championship.json](./70858-shot-online-golf-world-championship.json) |
@@ -5230,6 +5232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutter Story | 358396 | [358396-shutter-story.json](./358396-shutter-story.json) |
 | Shutter Stroll | 134671 | [134671-shutter-stroll.json](./134671-shutter-stroll.json) |
 | Shutterbuds | 341475 | [341475-shutterbuds.json](./341475-shutterbuds.json) |
+| Shutterbug Stud | 156599 | [156599-shutterbug-stud.json](./156599-shutterbug-stud.json) |
 | Shuttle Commander | 153326 | [153326-shuttle-commander.json](./153326-shuttle-commander.json) |
 | Shuttle Scuttle | 213931 | [213931-shuttle-scuttle.json](./213931-shuttle-scuttle.json) |
 | Shuttle World | 242541 | [242541-shuttle-world.json](./242541-shuttle-world.json) |
@@ -16561,6 +16564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Glitch Dash | 146221 | [146221-super-glitch-dash.json](./146221-super-glitch-dash.json) |
 | Super Glove Ball | 48234 | [48234-super-glove-ball.json](./48234-super-glove-ball.json) |
 | Super Glovekid | 317352 | [317352-super-glovekid.json](./317352-super-glovekid.json) |
+| Super Gloves Hero | 156597 | [156597-super-gloves-hero.json](./156597-super-gloves-hero.json) |
 | Super Goal! | 76999 | [76999-super-goal.json](./76999-super-goal.json) |
 | Super Gobang | 152782 | [152782-super-gobang.json](./152782-super-gobang.json) |
 | Super Godzilla | 38418 | [38418-super-godzilla.json](./38418-super-godzilla.json) |
