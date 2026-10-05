@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeover | 405600 | [405600-takeover.json](./405600-takeover.json) |
 | Takeover Trail | 395577 | [395577-takeover-trail.json](./395577-takeover-trail.json) |
 | Takepoint.io | 194571 | [194571-takepoint-io.json](./194571-takepoint-io.json) |
+| Takeshi and Hiroshi | 130698 | [130698-takeshi-and-hiroshi.json](./130698-takeshi-and-hiroshi.json) |
 | Takeshi no Sengoku Fuuunko | 48887 | [48887-takeshi-no-sengoku-fuuunko.json](./48887-takeshi-no-sengoku-fuuunko.json) |
 | Takeyariman | 222300 | [222300-takeyariman.json](./222300-takeyariman.json) |
 | Taking Root | 263045 | [263045-taking-root.json](./263045-taking-root.json) |
@@ -625,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Two Sides | 309133 | [309133-tale-of-two-sides.json](./309133-tale-of-two-sides.json) |
 | Tale of Wuxia | 90481 | [90481-tale-of-wuxia.json](./90481-tale-of-wuxia.json) |
 | Tale of Wuxia: The Pre-Sequel - The Way to Nether | 168201 | [168201-tale-of-wuxia-the-pre-sequel-the-way-to-nether.json](./168201-tale-of-wuxia-the-pre-sequel-the-way-to-nether.json) |
+| Tale's Casino Escape | 130711 | [130711-tales-casino-escape.json](./130711-tales-casino-escape.json) |
 | Taleans Hansel and Gretel story | 98575 | [98575-taleans-hansel-and-gretel-story.json](./98575-taleans-hansel-and-gretel-story.json) |
 | Talebuilder | 382305 | [382305-talebuilder.json](./382305-talebuilder.json) |
 | Talented | 260636 | [260636-talented.json](./260636-talented.json) |
@@ -10416,6 +10418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wickie | 157131 | [157131-the-wickie.json](./157131-the-wickie.json) |
 | The Widow's Shadow | 271212 | [271212-the-widows-shadow.json](./271212-the-widows-shadow.json) |
 | The Wiggles: Wiggle Bay | 206228 | [206228-the-wiggles-wiggle-bay.json](./206228-the-wiggles-wiggle-bay.json) |
+| The Wiki Game | 130699 | [130699-the-wiki-game.json](./130699-the-wiki-game.json) |
 | The Wild | 64971 | [64971-the-wild.json](./64971-the-wild.json) |
 | The Wild at Heart | 116522 | [116522-the-wild-at-heart.json](./116522-the-wild-at-heart.json) |
 | The Wild Case | 126639 | [126639-the-wild-case.json](./126639-the-wild-case.json) |
