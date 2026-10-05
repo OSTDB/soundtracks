@@ -3236,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being John | 283989 | [283989-being-john.json](./283989-being-john.json) |
 | Being Mindful | 168641 | [168641-being-mindful.json](./168641-being-mindful.json) |
 | Being One: Episode 1 | 184076 | [184076-being-one-episode-1.json](./184076-being-one-episode-1.json) |
+| Being Stronger While Playing! SilverStar Go DX | 135635 | [135635-being-stronger-while-playing-silverstar-go-dx.json](./135635-being-stronger-while-playing-silverstar-go-dx.json) |
 | Being Struck By Lightning is Probably the Best Way That You Could Die On Account of All of Its Awesomeness | 242647 | [242647-being-struck-by-lightning-is-probably-the-best-way-that-you-could-die-on-account-of-all-of-its-awesomeness.json](./242647-being-struck-by-lightning-is-probably-the-best-way-that-you-could-die-on-account-of-all-of-its-awesomeness.json) |
 | Bejeweled | 121723 | [121723-bejeweled.json](./121723-bejeweled.json) |
 | Bejeweled | 8318 | [8318-bejeweled.json](./8318-bejeweled.json) |
@@ -3883,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bird's Special Delivery | 362422 | [362422-big-birds-special-delivery.json](./362422-big-birds-special-delivery.json) |
 | Big Blind | 326193 | [326193-big-blind.json](./326193-big-blind.json) |
 | Big Blue | 272857 | [272857-big-blue.json](./272857-big-blue.json) |
+| Big Blue Disk #54 | 135641 | [135641-big-blue-disk-54.json](./135641-big-blue-disk-54.json) |
 | Big Blue World Domination | 165518 | [165518-big-blue-world-domination.json](./165518-big-blue-world-domination.json) |
 | Big Blue: Memory | 89379 | [89379-big-blue-memory.json](./89379-big-blue-memory.json) |
 | Big Bobby Car: The Big Race | 139861 | [139861-big-bobby-car-the-big-race.json](./139861-big-bobby-car-the-big-race.json) |
@@ -8102,6 +8104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout in Space | 70977 | [70977-breakout-in-space.json](./70977-breakout-in-space.json) |
 | Breakout Money | 108624 | [108624-breakout-money.json](./108624-breakout-money.json) |
 | Breakout Planet | 153368 | [153368-breakout-planet.json](./153368-breakout-planet.json) |
+| Breakout Poetry | 135611 | [135611-breakout-poetry.json](./135611-breakout-poetry.json) |
 | Breakout: Boost | 64400 | [64400-breakout-boost.json](./64400-breakout-boost.json) |
 | BreakQuest | 20548 | [20548-breakquest.json](./20548-breakquest.json) |
 | Breakthrough | 15686 | [15686-breakthrough.json](./15686-breakthrough.json) |
@@ -9699,6 +9702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | By Bait or By Bullet | 369238 | [369238-by-bait-or-by-bullet.json](./369238-by-bait-or-by-bullet.json) |
 | By God Your Anger is Beautiful | 182881 | [182881-by-god-your-anger-is-beautiful.json](./182881-by-god-your-anger-is-beautiful.json) |
 | By Grit Alone | 306947 | [306947-by-grit-alone.json](./306947-by-grit-alone.json) |
+| By Lamplight | 135612 | [135612-by-lamplight.json](./135612-by-lamplight.json) |
 | By Moonlight | 114968 | [114968-by-moonlight.json](./114968-by-moonlight.json) |
 | By Myself | 390185 | [390185-by-myself.json](./390185-by-myself.json) |
 | By Sword & Road | 394371 | [394371-by-sword-and-road.json](./394371-by-sword-and-road.json) |
