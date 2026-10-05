@@ -1713,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Indiana Jones 2: The Adventure Continues | 138 | [138-lego-indiana-jones-2-the-adventure-continues.json](./138-lego-indiana-jones-2-the-adventure-continues.json) |
 | LEGO Indiana Jones Adventures | 235340 | [235340-lego-indiana-jones-adventures.json](./235340-lego-indiana-jones-adventures.json) |
 | LEGO Indiana Jones: The Original Adventures | 189 | [189-lego-indiana-jones-the-original-adventures.json](./189-lego-indiana-jones-the-original-adventures.json) |
+| LEGO Indiana Jones: The Original Adventures / Kung Fu Panda | 142110 | [142110-lego-indiana-jones-the-original-adventures-kung-fu-panda.json](./142110-lego-indiana-jones-the-original-adventures-kung-fu-panda.json) |
 | LEGO Island | 5612 | [5612-lego-island.json](./5612-lego-island.json) |
 | LEGO Island 2: The Brickster's Revenge | 229925 | [229925-lego-island-2-the-bricksters-revenge.json](./229925-lego-island-2-the-bricksters-revenge.json) |
 | LEGO Juniors | 88873 | [88873-lego-juniors.json](./88873-lego-juniors.json) |
@@ -2362,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lidar Exploration Program | 291468 | [291468-lidar-exploration-program.json](./291468-lidar-exploration-program.json) |
 | Lidar Survival | 253917 | [253917-lidar-survival.json](./253917-lidar-survival.json) |
 | Lidar.exe | 213883 | [213883-lidar-exe.json](./213883-lidar-exe.json) |
+| LiDiA | 142147 | [142147-lidia.json](./142147-lidia.json) |
 | Lie or Die | 176798 | [176798-lie-or-die.json](./176798-lie-or-die.json) |
 | LiEat: The Lie-Eating Dragon & the Vermilion Vampire | 115202 | [115202-lieat-the-lie-eating-dragon-and-the-vermilion-vampire.json](./115202-lieat-the-lie-eating-dragon-and-the-vermilion-vampire.json) |
 | Liebt Mich Nicht | 126021 | [126021-liebt-mich-nicht.json](./126021-liebt-mich-nicht.json) |
@@ -2605,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light-It Up: Neon Adventure | 279862 | [279862-light-it-up-neon-adventure.json](./279862-light-it-up-neon-adventure.json) |
 | Light-Years Away | 314919 | [314919-light-years-away.json](./314919-light-years-away.json) |
 | Light, Dark or Hrak? | 192259 | [192259-light-dark-or-hrak.json](./192259-light-dark-or-hrak.json) |
+| Light, Wax, Shadow, Wick | 142148 | [142148-light-wax-shadow-wick.json](./142148-light-wax-shadow-wick.json) |
 | Light: Black Cat & Amnesia Girl | 188465 | [188465-light-black-cat-and-amnesia-girl.json](./188465-light-black-cat-and-amnesia-girl.json) |
 | Light: Path of the Archmage | 392136 | [392136-light-path-of-the-archmage.json](./392136-light-path-of-the-archmage.json) |
 | Light: Rebirth-The falsehood | 53274 | [53274-light-rebirth-the-falsehood.json](./53274-light-rebirth-the-falsehood.json) |
@@ -5350,6 +5353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunch Box | 221734 | [221734-lunch-box.json](./221734-lunch-box.json) |
 | Lunch Box Ready | 212458 | [212458-lunch-box-ready.json](./212458-lunch-box-ready.json) |
 | Lunch Break | 113892 | [113892-lunch-break.json](./113892-lunch-break.json) |
+| Lunch Hero | 142155 | [142155-lunch-hero.json](./142155-lunch-hero.json) |
 | Lunch Lady | 145855 | [145855-lunch-lady.json](./145855-lunch-lady.json) |
 | Lunch Lord: The Doom of Black Philip | 184634 | [184634-lunch-lord-the-doom-of-black-philip.json](./184634-lunch-lord-the-doom-of-black-philip.json) |
 | Lunch Rush HD | 87903 | [87903-lunch-rush-hd.json](./87903-lunch-rush-hd.json) |
