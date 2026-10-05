@@ -1710,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mantra | 125900 | [125900-mantra.json](./125900-mantra.json) |
 | Mantra | 223438 | [223438-mantra.json](./223438-mantra.json) |
 | Mantras 3D | 100114 | [100114-mantras-3d.json](./100114-mantras-3d.json) |
+| Manual Intervention VR | 154089 | [154089-manual-intervention-vr.json](./154089-manual-intervention-vr.json) |
 | Manufactoria 2022 | 150616 | [150616-manufactoria-2022.json](./150616-manufactoria-2022.json) |
 | Manufactory | 184414 | [184414-manufactory.json](./184414-manufactory.json) |
 | Manufactur'inc. | 265956 | [265956-manufacturinc.json](./265956-manufacturinc.json) |
@@ -2460,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martian Threat | 41568 | [41568-martian-threat.json](./41568-martian-threat.json) |
 | Martian Wars | 137692 | [137692-martian-wars.json](./137692-martian-wars.json) |
 | Martianoids | 39774 | [39774-martianoids.json](./39774-martianoids.json) |
+| Martin Goes on the Attack | 154088 | [154088-martin-goes-on-the-attack.json](./154088-martin-goes-on-the-attack.json) |
 | Martin Mystère: Operation Dorian Gray | 9102 | [9102-martin-mystere-operation-dorian-gray.json](./9102-martin-mystere-operation-dorian-gray.json) |
 | Martin Mystery: Monster Invasion | 194613 | [194613-martin-mystery-monster-invasion.json](./194613-martin-mystery-monster-invasion.json) |
 | Martin The Let's Player | 257083 | [257083-martin-the-lets-player.json](./257083-martin-the-lets-player.json) |
@@ -3842,6 +3844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Life | 280299 | [280299-medieval-life.json](./280299-medieval-life.json) |
 | Medieval Life Simulator | 384222 | [384222-medieval-life-simulator.json](./384222-medieval-life-simulator.json) |
 | Medieval Lords: Soldier Kings of Europe | 69876 | [69876-medieval-lords-soldier-kings-of-europe.json](./69876-medieval-lords-soldier-kings-of-europe.json) |
+| Medieval Machines Builder | 154071 | [154071-medieval-machines-builder.json](./154071-medieval-machines-builder.json) |
 | Medieval Market | 387027 | [387027-medieval-market.json](./387027-medieval-market.json) |
 | Medieval Masters Collection | 131581 | [131581-medieval-masters-collection.json](./131581-medieval-masters-collection.json) |
 | Medieval Match Master | 323307 | [323307-medieval-match-master.json](./323307-medieval-match-master.json) |
@@ -7171,6 +7174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misdie: Into the Game | 351238 | [351238-misdie-into-the-game.json](./351238-misdie-into-the-game.json) |
 | Misericorde Volume Two: White Wool and Snow | 305383 | [305383-misericorde-volume-two-white-wool-and-snow.json](./305383-misericorde-volume-two-white-wool-and-snow.json) |
 | Misery Dungeon | 417471 | [417471-misery-dungeon.json](./417471-misery-dungeon.json) |
+| Misery Street | 154063 | [154063-misery-street.json](./154063-misery-street.json) |
 | Misfiction | 177905 | [177905-misfiction.json](./177905-misfiction.json) |
 | Misfit | 108062 | [108062-misfit.json](./108062-misfit.json) |
 | Misfit Company | 400409 | [400409-misfit-company.json](./400409-misfit-company.json) |
@@ -8486,6 +8490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Ops 3 | 341334 | [341334-monster-ops-3.json](./341334-monster-ops-3.json) |
 | Monster Ops 4 | 341335 | [341335-monster-ops-4.json](./341335-monster-ops-4.json) |
 | Monster Ops 5 | 370276 | [370276-monster-ops-5.json](./370276-monster-ops-5.json) |
+| Monster Outbreak | 154046 | [154046-monster-outbreak.json](./154046-monster-outbreak.json) |
 | Monster Pack Volume 1 | 78937 | [78937-monster-pack-volume-1.json](./78937-monster-pack-volume-1.json) |
 | Monster Pack Volume 2 | 98947 | [98947-monster-pack-volume-2.json](./98947-monster-pack-volume-2.json) |
 | Monster Panic | 289379 | [289379-monster-panic.json](./289379-monster-panic.json) |
