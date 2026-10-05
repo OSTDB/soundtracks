@@ -5048,6 +5048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Whom the Stars Shine | 305918 | [305918-for-whom-the-stars-shine.json](./305918-for-whom-the-stars-shine.json) |
 | For Your Tranquility | 228503 | [228503-for-your-tranquility.json](./228503-for-your-tranquility.json) |
 | Forays into Norrendrin | 148391 | [148391-forays-into-norrendrin.json](./148391-forays-into-norrendrin.json) |
+| Forbidden Art | 123978 | [123978-forbidden-art.json](./123978-forbidden-art.json) |
 | Forbidden City Journey | 240778 | [240778-forbidden-city-journey.json](./240778-forbidden-city-journey.json) |
 | Forbidden Compass | 404206 | [404206-forbidden-compass.json](./404206-forbidden-compass.json) |
 | Forbidden Dojo | 239737 | [239737-forbidden-dojo.json](./239737-forbidden-dojo.json) |
