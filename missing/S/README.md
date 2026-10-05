@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanyo Pachinko Paradise 2: Umi Monogatari Special | 55942 | [55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json](./55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json) |
 | Sanyo Pachinko Paradise 3 | 55927 | [55927-sanyo-pachinko-paradise-3.json](./55927-sanyo-pachinko-paradise-3.json) |
 | Sanyo Pachinko Paradise 4 | 55954 | [55954-sanyo-pachinko-paradise-4.json](./55954-sanyo-pachinko-paradise-4.json) |
+| Sanyo Pachinko Paradise 7: Edokko Gen-san | 138539 | [138539-sanyo-pachinko-paradise-7-edokko-gen-san.json](./138539-sanyo-pachinko-paradise-7-edokko-gen-san.json) |
 | Sanyou Pachinko Paradise 5: Ukiuki Tairyouki | 138685 | [138685-sanyou-pachinko-paradise-5-ukiuki-tairyouki.json](./138685-sanyou-pachinko-paradise-5-ukiuki-tairyouki.json) |
 | Sanzen Sekai Yuugi: Re Multi Universe Myself | 103175 | [103175-sanzen-sekai-yuugi-re-multi-universe-myself.json](./103175-sanzen-sekai-yuugi-re-multi-universe-myself.json) |
 | Sanzensekai no Ko wo Koroshi | 399061 | [399061-sanzensekai-no-ko-wo-koroshi.json](./399061-sanzensekai-no-ko-wo-koroshi.json) |
@@ -1377,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savior of the Abyss | 165560 | [165560-savior-of-the-abyss.json](./165560-savior-of-the-abyss.json) |
 | Saviors | 36264 | [36264-saviors.json](./36264-saviors.json) |
 | Saviors of Sapphire Wings | 117732 | [117732-saviors-of-sapphire-wings.json](./117732-saviors-of-sapphire-wings.json) |
+| Saviors of Sapphire Wings/Stranger of Sword City Revisited: Limited Edition | 138565 | [138565-saviors-of-sapphire-wings-stranger-of-sword-city-revisited-limited-edition.json](./138565-saviors-of-sapphire-wings-stranger-of-sword-city-revisited-limited-edition.json) |
 | Saviour of the Wasteland | 258959 | [258959-saviour-of-the-wasteland.json](./258959-saviour-of-the-wasteland.json) |
 | Savvy | 410904 | [410904-savvy.json](./410904-savvy.json) |
 | Saw Counter | 347112 | [347112-saw-counter.json](./347112-saw-counter.json) |
@@ -7608,6 +7610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash + Grab | 23178 | [23178-smash-grab.json](./23178-smash-grab.json) |
 | Smash and Bash Monsters | 277346 | [277346-smash-and-bash-monsters.json](./277346-smash-and-bash-monsters.json) |
 | Smash Arrow | 56421 | [56421-smash-arrow.json](./56421-smash-arrow.json) |
+| Smash Ball | 138530 | [138530-smash-ball.json](./138530-smash-ball.json) |
 | Smash Ball | 193808 | [193808-smash-ball.json](./193808-smash-ball.json) |
 | Smash Balls | 275898 | [275898-smash-balls.json](./275898-smash-balls.json) |
 | Smash Balls 2 | 395770 | [395770-smash-balls-2.json](./395770-smash-balls-2.json) |
@@ -16311,6 +16314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Humanity | 273898 | [273898-sunset-humanity.json](./273898-sunset-humanity.json) |
 | Sunset Irreligion | 325252 | [325252-sunset-irreligion.json](./325252-sunset-irreligion.json) |
 | Sunset Kingdom | 129027 | [129027-sunset-kingdom.json](./129027-sunset-kingdom.json) |
+| Sunset Mall | 138549 | [138549-sunset-mall.json](./138549-sunset-mall.json) |
 | Sunset Mall: Classic | 201244 | [201244-sunset-mall-classic.json](./201244-sunset-mall-classic.json) |
 | Sunset of Ate | 264611 | [264611-sunset-of-ate.json](./264611-sunset-of-ate.json) |
 | Sunset Overdrive | 3247 | [3247-sunset-overdrive.json](./3247-sunset-overdrive.json) |
