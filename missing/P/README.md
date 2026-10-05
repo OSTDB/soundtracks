@@ -3482,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigsaw: Human Abattoir | 272381 | [272381-pigsaw-human-abattoir.json](./272381-pigsaw-human-abattoir.json) |
 | Pigskin | 399120 | [399120-pigskin.json](./399120-pigskin.json) |
 | Pigskin Punter! | 234336 | [234336-pigskin-punter.json](./234336-pigskin-punter.json) |
+| Pigu Wang 7 Hab | 130685 | [130685-pigu-wang-7-hab.json](./130685-pigu-wang-7-hab.json) |
 | PigUp | 348902 | [348902-pigup.json](./348902-pigup.json) |
 | Pih | 375457 | [375457-pih.json](./375457-pih.json) |
 | PiiSim | 125931 | [125931-piisim.json](./125931-piisim.json) |
@@ -3887,6 +3888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PingPong Kings VR | 89256 | [89256-pingpong-kings-vr.json](./89256-pingpong-kings-vr.json) |
 | Pingu and Friends | 130803 | [130803-pingu-and-friends.json](./130803-pingu-and-friends.json) |
 | Pingu no Waku-waku Carnival | 72786 | [72786-pingu-no-waku-waku-carnival.json](./72786-pingu-no-waku-waku-carnival.json) |
+| Pingu: A Barrel of Fun! | 130681 | [130681-pingu-a-barrel-of-fun.json](./130681-pingu-a-barrel-of-fun.json) |
 | Pingus | 146207 | [146207-pingus.json](./146207-pingus.json) |
 | Pingwinek Kelvin | 142495 | [142495-pingwinek-kelvin.json](./142495-pingwinek-kelvin.json) |
 | Pink 2048 | 211737 | [211737-pink-2048.json](./211737-pink-2048.json) |
@@ -3987,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Puzzle | 68929 | [68929-pipe-puzzle.json](./68929-pipe-puzzle.json) |
 | Pipe Skull | 185127 | [185127-pipe-skull.json](./185127-pipe-skull.json) |
 | PipeLand Roll HD | 108860 | [108860-pipeland-roll-hd.json](./108860-pipeland-roll-hd.json) |
+| Pipeline of Emperor Yu | 130785 | [130785-pipeline-of-emperor-yu.json](./130785-pipeline-of-emperor-yu.json) |
 | Pipeline RTX | 192980 | [192980-pipeline-rtx.json](./192980-pipeline-rtx.json) |
 | Pipeline Tycoon | 388304 | [388304-pipeline-tycoon.json](./388304-pipeline-tycoon.json) |
 | Pipeline VR | 173253 | [173253-pipeline-vr.json](./173253-pipeline-vr.json) |
