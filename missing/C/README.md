@@ -6663,6 +6663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command Ant Conquer | 176357 | [176357-command-ant-conquer.json](./176357-command-ant-conquer.json) |
 | Command Center Earth | 273634 | [273634-command-center-earth.json](./273634-command-center-earth.json) |
 | Command Doctrine | 416109 | [416109-command-doctrine.json](./416109-command-doctrine.json) |
+| Command Heroes | 151845 | [151845-command-heroes.json](./151845-command-heroes.json) |
 | Command Line Mazer | 203972 | [203972-command-line-mazer.json](./203972-command-line-mazer.json) |
 | Command Line Pilot | 146783 | [146783-command-line-pilot.json](./146783-command-line-pilot.json) |
 | Command Monster | 413763 | [413763-command-monster.json](./413763-command-monster.json) |
@@ -7718,6 +7719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Party: Blood Drive | 11000 | [11000-corpse-party-blood-drive.json](./11000-corpse-party-blood-drive.json) |
 | Corpse Party: Book of Shadows | 11318 | [11318-corpse-party-book-of-shadows.json](./11318-corpse-party-book-of-shadows.json) |
 | Corpse Party: Cross Fear | 135889 | [135889-corpse-party-cross-fear.json](./135889-corpse-party-cross-fear.json) |
+| Corpse Party: Rebuilt | 151849 | [151849-corpse-party-rebuilt.json](./151849-corpse-party-rebuilt.json) |
 | Corpse-Party: if | 413925 | [413925-corpse-party-if.json](./413925-corpse-party-if.json) |
 | Corpse-Party: if - Past End | 135890 | [135890-corpse-party-if-past-end.json](./135890-corpse-party-if-past-end.json) |
 | Corpsênia | 190745 | [190745-corpsenia.json](./190745-corpsenia.json) |
