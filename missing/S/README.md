@@ -9697,6 +9697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: Time Attacked | 228594 | [228594-sonic-the-hedgehog-time-attacked.json](./228594-sonic-the-hedgehog-time-attacked.json) |
 | Sonic the Hedgehog's Gameworld | 52188 | [52188-sonic-the-hedgehogs-gameworld.json](./52188-sonic-the-hedgehogs-gameworld.json) |
 | Sonic ThirdScape | 330821 | [330821-sonic-thirdscape.json](./330821-sonic-thirdscape.json) |
+| Sonic Time Twisted | 125154 | [125154-sonic-time-twisted.json](./125154-sonic-time-twisted.json) |
 | Sonic Triple Link | 330522 | [330522-sonic-triple-link.json](./330522-sonic-triple-link.json) |
 | Sonic Triple Trouble 16-Bit | 136814 | [136814-sonic-triple-trouble-16-bit.json](./136814-sonic-triple-trouble-16-bit.json) |
 | Sonic Turbo 2 | 331707 | [331707-sonic-turbo-2.json](./331707-sonic-turbo-2.json) |
@@ -13051,6 +13052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Post | 47253 | [47253-star-post.json](./47253-star-post.json) |
 | Star Prince Dress up game | 184061 | [184061-star-prince-dress-up-game.json](./184061-star-prince-dress-up-game.json) |
 | Star Project | 32068 | [32068-star-project.json](./32068-star-project.json) |
+| Star Prospector | 125178 | [125178-star-prospector.json](./125178-star-prospector.json) |
 | Star Quest | 249861 | [249861-star-quest.json](./249861-star-quest.json) |
 | Star Quest 1 in the 27th Century | 14511 | [14511-star-quest-1-in-the-27th-century.json](./14511-star-quest-1-in-the-27th-century.json) |
 | Star Quiz Airline Two-Choice Universe | 386376 | [386376-star-quiz-airline-two-choice-universe.json](./386376-star-quiz-airline-two-choice-universe.json) |
@@ -15625,6 +15627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stylist | 255632 | [255632-stylist.json](./255632-stylist.json) |
 | Stylist Girl: Complete Edition | 313214 | [313214-stylist-girl-complete-edition.json](./313214-stylist-girl-complete-edition.json) |
 | Stylist Girl: Sunny Edition | 317242 | [317242-stylist-girl-sunny-edition.json](./317242-stylist-girl-sunny-edition.json) |
+| Styrateg | 125182 | [125182-styrateg.json](./125182-styrateg.json) |
 | Styria | 304631 | [304631-styria.json](./304631-styria.json) |
 | Styrlitz 3: Agent USSR | 281656 | [281656-styrlitz-3-agent-ussr.json](./281656-styrlitz-3-agent-ussr.json) |
 | Styrlitz 4: The Matrix - A Step to Death | 281658 | [281658-styrlitz-4-the-matrix-a-step-to-death.json](./281658-styrlitz-4-the-matrix-a-step-to-death.json) |
