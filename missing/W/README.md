@@ -3127,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Fighter | 193955 | [193955-wing-fighter.json](./193955-wing-fighter.json) |
 | Wing Haven | 310926 | [310926-wing-haven.json](./310926-wing-haven.json) |
 | Wing Nuts: Battle in the Sky | 61725 | [61725-wing-nuts-battle-in-the-sky.json](./61725-wing-nuts-battle-in-the-sky.json) |
+| Wing of Alnam: Shouchiri no Sora no Achira he | 167100 | [167100-wing-of-alnam-shouchiri-no-sora-no-achira-he.json](./167100-wing-of-alnam-shouchiri-no-sora-no-achira-he.json) |
 | Wing of Darkness | 114756 | [114756-wing-of-darkness.json](./114756-wing-of-darkness.json) |
 | Wing of Darkness: Limited Edition | 140005 | [140005-wing-of-darkness-limited-edition.json](./140005-wing-of-darkness-limited-edition.json) |
 | Wing Over | 67674 | [67674-wing-over.json](./67674-wing-over.json) |
@@ -4384,6 +4385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Legends | 115461 | [115461-world-of-legends.json](./115461-world-of-legends.json) |
 | World of Mana | 239710 | [239710-world-of-mana.json](./239710-world-of-mana.json) |
 | World of Mines: Creators Edition | 235206 | [235206-world-of-mines-creators-edition.json](./235206-world-of-mines-creators-edition.json) |
+| World of MiniMonsters | 167190 | [167190-world-of-minimonsters.json](./167190-world-of-minimonsters.json) |
 | World of Mixed Martial Arts 4 | 58187 | [58187-world-of-mixed-martial-arts-4.json](./58187-world-of-mixed-martial-arts-4.json) |
 | World of Mixed Martial Arts 5 | 125436 | [125436-world-of-mixed-martial-arts-5.json](./125436-world-of-mixed-martial-arts-5.json) |
 | World Of Modern Warfare | 89190 | [89190-world-of-modern-warfare.json](./89190-world-of-modern-warfare.json) |
