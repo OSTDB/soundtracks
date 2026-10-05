@@ -1067,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanyou Pachinko Paradise 5: Ukiuki Tairyouki | 138685 | [138685-sanyou-pachinko-paradise-5-ukiuki-tairyouki.json](./138685-sanyou-pachinko-paradise-5-ukiuki-tairyouki.json) |
 | Sanzen Sekai Yuugi: Re Multi Universe Myself | 103175 | [103175-sanzen-sekai-yuugi-re-multi-universe-myself.json](./103175-sanzen-sekai-yuugi-re-multi-universe-myself.json) |
 | Sanzensekai no Ko wo Koroshi | 399061 | [399061-sanzensekai-no-ko-wo-koroshi.json](./399061-sanzensekai-no-ko-wo-koroshi.json) |
+| Sǎoléi Màoxiǎn Tán 2: Lùlùmǔ de Màoxiǎn | 163896 | [163896-saolei-maoxian-tan-2-lulumu-de-maoxian.json](./163896-saolei-maoxian-tan-2-lulumu-de-maoxian.json) |
 | Saomi | 199379 | [199379-saomi.json](./199379-saomi.json) |
 | Sapan | 104477 | [104477-sapan.json](./104477-sapan.json) |
 | Saphyro | 164978 | [164978-saphyro.json](./164978-saphyro.json) |
@@ -2470,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Ailzylia | 234680 | [234680-secrets-of-ailzylia.json](./234680-secrets-of-ailzylia.json) |
 | Secrets of Blinck Island | 397077 | [397077-secrets-of-blinck-island.json](./397077-secrets-of-blinck-island.json) |
 | Secrets of Deep Earth Shrine | 33282 | [33282-secrets-of-deep-earth-shrine.json](./33282-secrets-of-deep-earth-shrine.json) |
+| Secrets of Egypt | 163866 | [163866-secrets-of-egypt.json](./163866-secrets-of-egypt.json) |
 | Secrets of Great Art | 206627 | [206627-secrets-of-great-art.json](./206627-secrets-of-great-art.json) |
 | Secrets of Grindea | 8436 | [8436-secrets-of-grindea.json](./8436-secrets-of-grindea.json) |
 | Secrets of Magic 2: Witches and Wizards | 68599 | [68599-secrets-of-magic-2-witches-and-wizards.json](./68599-secrets-of-magic-2-witches-and-wizards.json) |
@@ -8269,6 +8271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowy: Space Trip | 69835 | [69835-snowy-space-trip.json](./69835-snowy-space-trip.json) |
 | Snowy: The Bear's Adventures | 73857 | [73857-snowy-the-bears-adventures.json](./73857-snowy-the-bears-adventures.json) |
 | Snowy: Treasure Hunter | 52855 | [52855-snowy-treasure-hunter.json](./52855-snowy-treasure-hunter.json) |
+| SNS | 163881 | [163881-sns.json](./163881-sns.json) |
 | Snuff | 399121 | [399121-snuff.json](./399121-snuff.json) |
 | Snufkin: Melody of Moominvalley | 180149 | [180149-snufkin-melody-of-moominvalley.json](./180149-snufkin-melody-of-moominvalley.json) |
 | Snufkin: Melody of Moominvalley - Cherished Keepsakes | 288289 | [288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json](./288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json) |
@@ -15427,6 +15430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subtension | 239670 | [239670-subtension.json](./239670-subtension.json) |
 | Subtera Puzlo | 300803 | [300803-subtera-puzlo.json](./300803-subtera-puzlo.json) |
 | SubterAlien Rescue | 157504 | [157504-subteralien-rescue.json](./157504-subteralien-rescue.json) |
+| Subterene | 163901 | [163901-subterene.json](./163901-subterene.json) |
 | Subterrain: Mines of Titan | 155497 | [155497-subterrain-mines-of-titan.json](./155497-subterrain-mines-of-titan.json) |
 | Subterranea | 55205 | [55205-subterranea.json](./55205-subterranea.json) |
 | Subterranean | 180637 | [180637-subterranean.json](./180637-subterranean.json) |
@@ -19098,6 +19102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SyntaxBomb | 183012 | [183012-syntaxbomb.json](./183012-syntaxbomb.json) |
 | Synth Ark | 317234 | [317234-synth-ark.json](./317234-synth-ark.json) |
 | Synth Beasts | 250479 | [250479-synth-beasts.json](./250479-synth-beasts.json) |
+| Synth Drift | 163887 | [163887-synth-drift.json](./163887-synth-drift.json) |
 | Synth Et Sis | 228511 | [228511-synth-et-sis.json](./228511-synth-et-sis.json) |
 | Synth Laser | 373201 | [373201-synth-laser.json](./373201-synth-laser.json) |
 | Synth Pong | 235759 | [235759-synth-pong.json](./235759-synth-pong.json) |
