@@ -5660,6 +5660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point Gakushuu: 10-masu Keisan | 327621 | [327621-point-gakushuu-10-masu-keisan.json](./327621-point-gakushuu-10-masu-keisan.json) |
 | Point Gakushuu: Kakijun | 327620 | [327620-point-gakushuu-kakijun.json](./327620-point-gakushuu-kakijun.json) |
 | Point Gakushuu: Tokei | 327619 | [327619-point-gakushuu-tokei.json](./327619-point-gakushuu-tokei.json) |
+| Point of Attack 2.5 | 133269 | [133269-point-of-attack-2-5.json](./133269-point-of-attack-2-5.json) |
 | Point of Light | 186752 | [186752-point-of-light.json](./186752-point-of-light.json) |
 | Point of No Return | 86815 | [86815-point-of-no-return.json](./86815-point-of-no-return.json) |
 | Point of View | 140512 | [140512-point-of-view.json](./140512-point-of-view.json) |
@@ -6260,6 +6261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polaria | 374601 | [374601-polaria.json](./374601-polaria.json) |
 | Polariball | 356205 | [356205-polariball.json](./356205-polariball.json) |
 | Polaris | 380125 | [380125-polaris.json](./380125-polaris.json) |
+| Polarities | 133177 | [133177-polarities.json](./133177-polarities.json) |
 | Polarity Switch | 176342 | [176342-polarity-switch.json](./176342-polarity-switch.json) |
 | Polarity Warthog | 323225 | [323225-polarity-warthog.json](./323225-polarity-warthog.json) |
 | Polarize | 228582 | [228582-polarize.json](./228582-polarize.json) |
@@ -7792,6 +7794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prismatic Solid | 66305 | [66305-prismatic-solid.json](./66305-prismatic-solid.json) |
 | Prismatic: Nox's Gate | 337481 | [337481-prismatic-noxs-gate.json](./337481-prismatic-noxs-gate.json) |
 | Prismaticallization | 108832 | [108832-prismaticallization.json](./108832-prismaticallization.json) |
+| Prisme 7 | 133179 | [133179-prisme-7.json](./133179-prisme-7.json) |
 | Prisnhax | 319777 | [319777-prisnhax.json](./319777-prisnhax.json) |
 | Prison Adventure 3 | 224058 | [224058-prison-adventure-3.json](./224058-prison-adventure-3.json) |
 | Prison Amok | 330841 | [330841-prison-amok.json](./330841-prison-amok.json) |
@@ -9793,6 +9796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlefall | 58177 | [58177-puzzlefall.json](./58177-puzzlefall.json) |
 | Puzzlefun | 88304 | [88304-puzzlefun.json](./88304-puzzlefun.json) |
 | Puzzlejuice | 22682 | [22682-puzzlejuice.json](./22682-puzzlejuice.json) |
+| PuzzleKid | 133164 | [133164-puzzlekid.json](./133164-puzzlekid.json) |
 | PuzzleLand | 261997 | [261997-puzzleland.json](./261997-puzzleland.json) |
 | Puzzlelicious | 88260 | [88260-puzzlelicious.json](./88260-puzzlelicious.json) |
 | Puzzler | 104252 | [104252-puzzler.json](./104252-puzzler.json) |
