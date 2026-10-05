@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katekyou Hitman Reborn! DS: Flame Rumble Hyper - Moeyo Mirai | 78713 | [78713-katekyou-hitman-reborn-ds-flame-rumble-hyper-moeyo-mirai.json](./78713-katekyou-hitman-reborn-ds-flame-rumble-hyper-moeyo-mirai.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble X - Mirai Chou Bakuhatsu!! | 64379 | [64379-katekyou-hitman-reborn-ds-flame-rumble-x-mirai-chou-bakuhatsu.json](./64379-katekyou-hitman-reborn-ds-flame-rumble-x-mirai-chou-bakuhatsu.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble XX - Kessen! Real 6 Chouka | 64381 | [64381-katekyou-hitman-reborn-ds-flame-rumble-xx-kessen-real-6-chouka.json](./64381-katekyou-hitman-reborn-ds-flame-rumble-xx-kessen-real-6-chouka.json) |
+| Katekyou Hitman Reborn!: Kizuna no Tag Battle | 137395 | [137395-katekyou-hitman-reborn-kizuna-no-tag-battle.json](./137395-katekyou-hitman-reborn-kizuna-no-tag-battle.json) |
 | Katekyou Hitman Reborn!: Nerae!? Ring x Vongola Trainers | 305271 | [305271-katekyou-hitman-reborn-nerae-ring-x-vongola-trainers.json](./305271-katekyou-hitman-reborn-nerae-ring-x-vongola-trainers.json) |
 | Katekyou Hitman Reborn!: Ore ga Boss! Saikyou Family Taisen | 269823 | [269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json](./269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json) |
 | Kathana | 349446 | [349446-kathana.json](./349446-kathana.json) |
@@ -2774,6 +2775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami GB Collection Vol. 4 | 50043 | [50043-konami-gb-collection-vol-4.json](./50043-konami-gb-collection-vol-4.json) |
 | Konami Hyper Soccer | 48284 | [48284-konami-hyper-soccer.json](./48284-konami-hyper-soccer.json) |
 | Konami Krazy Racers | 6495 | [6495-konami-krazy-racers.json](./6495-konami-krazy-racers.json) |
+| Konami's Open Golf Championship | 137407 | [137407-konamis-open-golf-championship.json](./137407-konamis-open-golf-championship.json) |
 | Konami's Ping Pong | 46832 | [46832-konamis-ping-pong.json](./46832-konamis-ping-pong.json) |
 | Konamic Tennis | 41322 | [41322-konamic-tennis.json](./41322-konamic-tennis.json) |
 | Konbini Baito to Stalker | 322117 | [322117-konbini-baito-to-stalker.json](./322117-konbini-baito-to-stalker.json) |
