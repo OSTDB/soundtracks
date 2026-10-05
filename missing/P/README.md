@@ -3415,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piggy Run Escape | 226746 | [226746-piggy-run-escape.json](./226746-piggy-run-escape.json) |
 | Piggy Wiggy | 267335 | [267335-piggy-wiggy.json](./267335-piggy-wiggy.json) |
 | Piggy: Chapter 1 | 246093 | [246093-piggy-chapter-1.json](./246093-piggy-chapter-1.json) |
+| Piggy: Hunt | 170361 | [170361-piggy-hunt.json](./170361-piggy-hunt.json) |
 | Piggy's Farm | 401723 | [401723-piggys-farm.json](./401723-piggys-farm.json) |
 | Pight | 275839 | [275839-pight.json](./275839-pight.json) |
 | Pigillionaire | 327256 | [327256-pigillionaire.json](./327256-pigillionaire.json) |
