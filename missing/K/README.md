@@ -374,6 +374,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kandra the Moonwalker | 186842 | [186842-kandra-the-moonwalker.json](./186842-kandra-the-moonwalker.json) |
 | Kandume Monsters | 228571 | [228571-kandume-monsters.json](./228571-kandume-monsters.json) |
 | Kandume Monsters Parfait | 228572 | [228572-kandume-monsters-parfait.json](./228572-kandume-monsters-parfait.json) |
+| Kane & Lynch 2: Dog Days - Multiplayer Masks Pack | 164424 | [164424-kane-and-lynch-2-dog-days-multiplayer-masks-pack.json](./164424-kane-and-lynch-2-dog-days-multiplayer-masks-pack.json) |
+| Kane & Lynch 2: Dog Days - The Doggie Bag | 164410 | [164410-kane-and-lynch-2-dog-days-the-doggie-bag.json](./164410-kane-and-lynch-2-dog-days-the-doggie-bag.json) |
 | Kane & Lynch Collection | 53243 | [53243-kane-and-lynch-collection.json](./53243-kane-and-lynch-collection.json) |
 | Kane & Lynch: Dead Men | 76714 | [76714-kane-and-lynch-dead-men.json](./76714-kane-and-lynch-dead-men.json) |
 | Kanenone Dynatic: Green Green | 294727 | [294727-kanenone-dynatic-green-green.json](./294727-kanenone-dynatic-green-green.json) |
@@ -1579,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur Is Dead | 385299 | [385299-king-arthur-is-dead.json](./385299-king-arthur-is-dead.json) |
 | King Arthur: Fallen Champions | 10484 | [10484-king-arthur-fallen-champions.json](./10484-king-arthur-fallen-champions.json) |
 | King Arthur: Knight's Tale | 139883 | [139883-king-arthur-knights-tale.json](./139883-king-arthur-knights-tale.json) |
+| King Arthur: Knights and Vassals | 164421 | [164421-king-arthur-knights-and-vassals.json](./164421-king-arthur-knights-and-vassals.json) |
 | King Arthur: Legends Rise | 244483 | [244483-king-arthur-legends-rise.json](./244483-king-arthur-legends-rise.json) |
 | King Arthur: Legion IX | 285440 | [285440-king-arthur-legion-ix.json](./285440-king-arthur-legion-ix.json) |
 | King Arthur's Heir | 23970 | [23970-king-arthurs-heir.json](./23970-king-arthurs-heir.json) |
