@@ -5710,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance after dark | 385873 | [385873-romance-after-dark.json](./385873-romance-after-dark.json) |
 | Romance Choice | 301949 | [301949-romance-choice.json](./301949-romance-choice.json) |
 | Romance Club: Stories I Play | 270927 | [270927-romance-club-stories-i-play.json](./270927-romance-club-stories-i-play.json) |
+| Romance Detective 2 | 146524 | [146524-romance-detective-2.json](./146524-romance-detective-2.json) |
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
 | Romance is Dead | 273098 | [273098-romance-is-dead.json](./273098-romance-is-dead.json) |
 | Romance MD: Always on Call | 239207 | [239207-romance-md-always-on-call.json](./239207-romance-md-always-on-call.json) |
@@ -6269,6 +6270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Maker II | 43556 | [43556-rpg-maker-ii.json](./43556-rpg-maker-ii.json) |
 | RPG Maker With | 291538 | [291538-rpg-maker-with.json](./291538-rpg-maker-with.json) |
 | RPG Merchant | 86335 | [86335-rpg-merchant.json](./86335-rpg-merchant.json) |
+| RPG Mix | 146565 | [146565-rpg-mix.json](./146565-rpg-mix.json) |
 | RPG MO | 35161 | [35161-rpg-mo.json](./35161-rpg-mo.json) |
 | RPG Plus: Virtual Tabletop | 404364 | [404364-rpg-plus-virtual-tabletop.json](./404364-rpg-plus-virtual-tabletop.json) |
 | RPG Quest: Minimae | 104595 | [104595-rpg-quest-minimae.json](./104595-rpg-quest-minimae.json) |
