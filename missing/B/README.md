@@ -2781,6 +2781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat 'Em & Eat 'Em | 11139 | [11139-beat-em-and-eat-em.json](./11139-beat-em-and-eat-em.json) |
 | Beat 'Em & Eat 'Em/Lady in Wading | 79193 | [79193-beat-em-and-eat-em-lady-in-wading.json](./79193-beat-em-and-eat-em-lady-in-wading.json) |
 | Beat 'Em All | 265924 | [265924-beat-em-all.json](./265924-beat-em-all.json) |
+| Beat 'Em Down | 151301 | [151301-beat-em-down.json](./151301-beat-em-down.json) |
 | Beat 'Em Up | 160294 | [160294-beat-em-up.json](./160294-beat-em-up.json) |
 | Beat & Beasties | 406225 | [406225-beat-and-beasties.json](./406225-beat-and-beasties.json) |
 | Beat Aimer! | 213971 | [213971-beat-aimer.json](./213971-beat-aimer.json) |
@@ -4785,6 +4786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Magic | 300790 | [300790-black-magic.json](./300790-black-magic.json) |
 | Black Magic Gamebox | 192798 | [192798-black-magic-gamebox.json](./192798-black-magic-gamebox.json) |
 | Black Magnetic | 262560 | [262560-black-magnetic.json](./262560-black-magnetic.json) |
+| Black Maou & Rainbow Kingdom | 151285 | [151285-black-maou-and-rainbow-kingdom.json](./151285-black-maou-and-rainbow-kingdom.json) |
 | Black Market Bowling | 57643 | [57643-black-market-bowling.json](./57643-black-market-bowling.json) |
 | Black Market of Bulletphilia: 100th Black Market | 210247 | [210247-black-market-of-bulletphilia-100th-black-market.json](./210247-black-market-of-bulletphilia-100th-black-market.json) |
 | Black Mesa Inbound | 253030 | [253030-black-mesa-inbound.json](./253030-black-mesa-inbound.json) |
@@ -5013,6 +5015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Crusade | 190210 | [190210-blade-crusade.json](./190210-blade-crusade.json) |
 | Blade Dancer: Lineage of Light | 269079 | [269079-blade-dancer-lineage-of-light.json](./269079-blade-dancer-lineage-of-light.json) |
 | Blade Exload | 231872 | [231872-blade-exload.json](./231872-blade-exload.json) |
+| Blade Flash Death | 151278 | [151278-blade-flash-death.json](./151278-blade-flash-death.json) |
 | Blade Kitten | 14847 | [14847-blade-kitten.json](./14847-blade-kitten.json) |
 | Blade Master | 10458 | [10458-blade-master.json](./10458-blade-master.json) |
 | Blade Master | 414470 | [414470-blade-master.json](./414470-blade-master.json) |
@@ -5543,6 +5546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Dodge Challenge | 121584 | [121584-block-dodge-challenge.json](./121584-block-dodge-challenge.json) |
 | Block Droppin Blitz | 362335 | [362335-block-droppin-blitz.json](./362335-block-droppin-blitz.json) |
 | Block Dude Deluxe | 338247 | [338247-block-dude-deluxe.json](./338247-block-dude-deluxe.json) |
+| Block Dungeon | 151305 | [151305-block-dungeon.json](./151305-block-dungeon.json) |
 | Block Factory | 79670 | [79670-block-factory.json](./79670-block-factory.json) |
 | Block Fight | 201553 | [201553-block-fight.json](./201553-block-fight.json) |
 | Block Five | 71613 | [71613-block-five.json](./71613-block-five.json) |
