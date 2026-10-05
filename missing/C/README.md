@@ -9860,6 +9860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Battlefield: 2048 | 267071 | [267071-cube-battlefield-2048.json](./267071-cube-battlefield-2048.json) |
 | Cube Chase | 129202 | [129202-cube-chase.json](./129202-cube-chase.json) |
 | Cube Clones | 151681 | [151681-cube-clones.json](./151681-cube-clones.json) |
+| Cube Conflict | 167569 | [167569-cube-conflict.json](./167569-cube-conflict.json) |
 | Cube Course | 130245 | [130245-cube-course.json](./130245-cube-course.json) |
 | Cube Crawler | 193939 | [193939-cube-crawler.json](./193939-cube-crawler.json) |
 | Cube Crawler | 328260 | [328260-cube-crawler.json](./328260-cube-crawler.json) |
