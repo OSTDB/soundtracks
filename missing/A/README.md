@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Gals Tennis | 61059 | [61059-ace-gals-tennis.json](./61059-ace-gals-tennis.json) |
 | Ace Invaders | 147460 | [147460-ace-invaders.json](./147460-ace-invaders.json) |
 | Ace Lightning | 248736 | [248736-ace-lightning.json](./248736-ace-lightning.json) |
+| Ace No.1 Fishing | 137416 | [137416-ace-no-1-fishing.json](./137416-ace-no-1-fishing.json) |
 | Ace of Aces | 11863 | [11863-ace-of-aces.json](./11863-ace-of-aces.json) |
 | Ace of Aces | 85860 | [85860-ace-of-aces.json](./85860-ace-of-aces.json) |
 | Ace of Gifts | 310537 | [310537-ace-of-gifts.json](./310537-ace-of-gifts.json) |
@@ -4953,6 +4954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anicon: Animal Complex | 249274 | [249274-anicon-animal-complex.json](./249274-anicon-animal-complex.json) |
 | Anicon: Animal Complex - Cat's Path | 32031 | [32031-anicon-animal-complex-cats-path.json](./32031-anicon-animal-complex-cats-path.json) |
 | Anicon: Animal Complex - Party | 249284 | [249284-anicon-animal-complex-party.json](./249284-anicon-animal-complex-party.json) |
+| Anicon: Animal Complex - Rabbit's Path | 137410 | [137410-anicon-animal-complex-rabbits-path.json](./137410-anicon-animal-complex-rabbits-path.json) |
 | Anicon: Animal Complex - Sheep's Path | 106607 | [106607-anicon-animal-complex-sheeps-path.json](./106607-anicon-animal-complex-sheeps-path.json) |
 | ANIDU: Animal Dust Puppet’s Adventure | 258549 | [258549-anidu-animal-dust-puppet-s-adventure.json](./258549-anidu-animal-dust-puppet-s-adventure.json) |
 | Anigma Byte | 384215 | [384215-anigma-byte.json](./384215-anigma-byte.json) |
