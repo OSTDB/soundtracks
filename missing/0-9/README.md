@@ -1281,6 +1281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4in1: Bomb Disposer/Armour Force/Black Forest Tale/2nd Space | 77296 | [77296-4in1-bomb-disposer-armour-force-black-forest-tale-2nd-space.json](./77296-4in1-bomb-disposer-armour-force-black-forest-tale-2nd-space.json) |
 | 4Islands | 124190 | [124190-4islands.json](./124190-4islands.json) |
 | 4K Adventure | 140624 | [140624-4k-adventure.json](./140624-4k-adventure.json) |
+| 4Line | 158609 | [158609-4line.json](./158609-4line.json) |
 | 4Mecheros | 405042 | [405042-4mecheros.json](./405042-4mecheros.json) |
 | 4NR | 55975 | [55975-4nr.json](./55975-4nr.json) |
 | 4RC4N01D 3: Cold Space | 89410 | [89410-4rc4n01d-3-cold-space.json](./89410-4rc4n01d-3-cold-space.json) |
