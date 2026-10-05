@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeitgeist | 178539 | [178539-zeitgeist.json](./178539-zeitgeist.json) |
 | Zeitz Machz: Rhapsody | 293142 | [293142-zeitz-machz-rhapsody.json](./293142-zeitz-machz-rhapsody.json) |
 | Zekkyo Senshi Sakebrain | 72648 | [72648-zekkyo-senshi-sakebrain.json](./72648-zekkyo-senshi-sakebrain.json) |
+| Zeko | 150287 | [150287-zeko.json](./150287-zeko.json) |
 | Zelda | 152362 | [152362-zelda.json](./152362-zelda.json) |
 | Zelda 1 / Metroid 1 Combo Randomizer | 152749 | [152749-zelda-1-metroid-1-combo-randomizer.json](./152749-zelda-1-metroid-1-combo-randomizer.json) |
 | Zelda 64 1996 | 315033 | [315033-zelda-64-1996.json](./315033-zelda-64-1996.json) |
@@ -931,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Shot | 285581 | [285581-zombie-shot.json](./285581-zombie-shot.json) |
 | Zombie Siege | 420653 | [420653-zombie-siege.json](./420653-zombie-siege.json) |
 | Zombie Siege City | 337750 | [337750-zombie-siege-city.json](./337750-zombie-siege-city.json) |
+| Zombie Simulator | 150278 | [150278-zombie-simulator.json](./150278-zombie-simulator.json) |
 | Zombie Skape | 84968 | [84968-zombie-skape.json](./84968-zombie-skape.json) |
 | Zombie Slapper | 220648 | [220648-zombie-slapper.json](./220648-zombie-slapper.json) |
 | Zombie Slayer | 166713 | [166713-zombie-slayer.json](./166713-zombie-slayer.json) |
