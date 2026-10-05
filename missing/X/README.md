@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XS Moto | 205811 | [205811-xs-moto.json](./205811-xs-moto.json) |
 | XS Moto | 49350 | [49350-xs-moto.json](./49350-xs-moto.json) |
 | Xscorch | 63240 | [63240-xscorch.json](./63240-xscorch.json) |
+| XSection | 163350 | [163350-xsection.json](./163350-xsection.json) |
 | XSpeed | 211773 | [211773-xspeed.json](./211773-xspeed.json) |
 | XSpelunker | 360106 | [360106-xspelunker.json](./360106-xspelunker.json) |
 | Xsyon: Prelude | 17342 | [17342-xsyon-prelude.json](./17342-xsyon-prelude.json) |
