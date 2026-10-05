@@ -2886,6 +2886,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Hitchhike | 92296 | [92296-go-go-hitchhike.json](./92296-go-go-hitchhike.json) |
 | Go! Go! Kokopolo Anniversary Collection | 203793 | [203793-go-go-kokopolo-anniversary-collection.json](./203793-go-go-kokopolo-anniversary-collection.json) |
 | Go! Go! Mile Smile | 40178 | [40178-go-go-mile-smile.json](./40178-go-go-mile-smile.json) |
+| Go! Go! Nippon! 2015 | 166656 | [166656-go-go-nippon-2015.json](./166656-go-go-nippon-2015.json) |
+| Go! Go! Nippon! 2016 | 166659 | [166659-go-go-nippon-2016.json](./166659-go-go-nippon-2016.json) |
 | Go! Go! PogoGirl | 188125 | [188125-go-go-pogogirl.json](./188125-go-go-pogogirl.json) |
 | Go! Go! Shurihito | 181341 | [181341-go-go-shurihito.json](./181341-go-go-shurihito.json) |
 | Go! Princess PreCure: Sugar Oukoku to 6-nin no Princess! | 222540 | [222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json](./222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json) |
