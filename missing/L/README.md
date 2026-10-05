@@ -1474,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Time Sword: Episode 1 | 303814 | [303814-legend-of-the-time-sword-episode-1.json](./303814-legend-of-the-time-sword-episode-1.json) |
 | Legend of the wizard | 120856 | [120856-legend-of-the-wizard.json](./120856-legend-of-the-wizard.json) |
 | Legend of the Wonderfish | 383961 | [383961-legend-of-the-wonderfish.json](./383961-legend-of-the-wonderfish.json) |
+| Legend of Towercraft | 133174 | [133174-legend-of-towercraft.json](./133174-legend-of-towercraft.json) |
 | Legend of Traveller | 116307 | [116307-legend-of-traveller.json](./116307-legend-of-traveller.json) |
 | Legend of Vengeancev | 156685 | [156685-legend-of-vengeancev.json](./156685-legend-of-vengeancev.json) |
 | Legend of Wukong | 360656 | [360656-legend-of-wukong.json](./360656-legend-of-wukong.json) |
@@ -4324,6 +4325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Chronicles: Fall of Caesar | 137437 | [137437-lost-chronicles-fall-of-caesar.json](./137437-lost-chronicles-fall-of-caesar.json) |
 | Lost Chronology | 413638 | [413638-lost-chronology.json](./413638-lost-chronology.json) |
 | Lost Circus | 175363 | [175363-lost-circus.json](./175363-lost-circus.json) |
+| Lost Circus VR | 133168 | [133168-lost-circus-vr.json](./133168-lost-circus-vr.json) |
 | Lost Cities | 37376 | [37376-lost-cities.json](./37376-lost-cities.json) |
 | Lost City | 403010 | [403010-lost-city.json](./403010-lost-city.json) |
 | Lost City of Vampires | 113169 | [113169-lost-city-of-vampires.json](./113169-lost-city-of-vampires.json) |
