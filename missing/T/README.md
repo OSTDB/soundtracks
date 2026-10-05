@@ -3762,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bugs Bunny Crazy Castle | 153450 | [153450-the-bugs-bunny-crazy-castle.json](./153450-the-bugs-bunny-crazy-castle.json) |
 | The Bugs Bunny Crazy Castle | 3051 | [3051-the-bugs-bunny-crazy-castle.json](./3051-the-bugs-bunny-crazy-castle.json) |
 | The Bugs Bunny Crazy Castle Atarisized | 289885 | [289885-the-bugs-bunny-crazy-castle-atarisized.json](./289885-the-bugs-bunny-crazy-castle-atarisized.json) |
+| The Build and Race Hotrod Game | 150283 | [150283-the-build-and-race-hotrod-game.json](./150283-the-build-and-race-hotrod-game.json) |
 | The Building 71 Incident | 176513 | [176513-the-building-71-incident.json](./176513-the-building-71-incident.json) |
 | The BuildSphere: Rise of the Anomalbots | 193504 | [193504-the-buildsphere-rise-of-the-anomalbots.json](./193504-the-buildsphere-rise-of-the-anomalbots.json) |
 | The Bullet Hopper | 268229 | [268229-the-bullet-hopper.json](./268229-the-bullet-hopper.json) |
@@ -5801,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hidden Art of Innkeeping | 269192 | [269192-the-hidden-art-of-innkeeping.json](./269192-the-hidden-art-of-innkeeping.json) |
 | The Hidden Below | 9357 | [9357-the-hidden-below.json](./9357-the-hidden-below.json) |
 | The Hidden Dragon | 32157 | [32157-the-hidden-dragon.json](./32157-the-hidden-dragon.json) |
+| The Hidden Game Society | 150254 | [150254-the-hidden-game-society.json](./150254-the-hidden-game-society.json) |
 | The Hidden Ghost | 195483 | [195483-the-hidden-ghost.json](./195483-the-hidden-ghost.json) |
 | The Hidden Object Collection | 146730 | [146730-the-hidden-object-collection.json](./146730-the-hidden-object-collection.json) |
 | The Hidden Room: Pyramid | 244383 | [244383-the-hidden-room-pyramid.json](./244383-the-hidden-room-pyramid.json) |
@@ -10664,6 +10666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Themis | 327856 | [327856-themis.json](./327856-themis.json) |
 | TheMist | 116335 | [116335-themist.json](./116335-themist.json) |
 | Theo Space Miner | 248818 | [248818-theo-space-miner.json](./248818-theo-space-miner.json) |
+| Theo's World | 150276 | [150276-theos-world.json](./150276-theos-world.json) |
 | Theocracy | 226158 | [226158-theocracy.json](./226158-theocracy.json) |
 | Theomachiae | 172159 | [172159-theomachiae.json](./172159-theomachiae.json) |
 | Theory | 288813 | [288813-theory.json](./288813-theory.json) |
@@ -14715,6 +14718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toushin Gent | 319209 | [319209-toushin-gent.json](./319209-toushin-gent.json) |
 | Toushin Toshi Girls Gift RPG | 175943 | [175943-toushin-toshi-girls-gift-rpg.json](./175943-toushin-toshi-girls-gift-rpg.json) |
 | Tousui Kitan | 97698 | [97698-tousui-kitan.json](./97698-tousui-kitan.json) |
+| Tout Savoir: 3E | 150237 | [150237-tout-savoir-3e.json](./150237-tout-savoir-3e.json) |
 | Tout Savoir: CM1 | 147346 | [147346-tout-savoir-cm1.json](./147346-tout-savoir-cm1.json) |
 | Tout Savoir: CM2 | 124105 | [124105-tout-savoir-cm2.json](./124105-tout-savoir-cm2.json) |
 | Touzoku to 1000-biki no Pokémon | 61693 | [61693-touzoku-to-1000-biki-no-pokemon.json](./61693-touzoku-to-1000-biki-no-pokemon.json) |
@@ -14985,6 +14989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town of Salem 2: Mafia Pack | 370314 | [370314-town-of-salem-2-mafia-pack.json](./370314-town-of-salem-2-mafia-pack.json) |
 | Town of Salem: The Coven | 139332 | [139332-town-of-salem-the-coven.json](./139332-town-of-salem-the-coven.json) |
 | Town of Sin | 175994 | [175994-town-of-sin.json](./175994-town-of-sin.json) |
+| Town of the Dead Life | 150277 | [150277-town-of-the-dead-life.json](./150277-town-of-the-dead-life.json) |
 | Town of Tides | 198540 | [198540-town-of-tides.json](./198540-town-of-tides.json) |
 | Town of Tinysville | 413049 | [413049-town-of-tinysville.json](./413049-town-of-tinysville.json) |
 | Town of Zoz | 335295 | [335295-town-of-zoz.json](./335295-town-of-zoz.json) |
