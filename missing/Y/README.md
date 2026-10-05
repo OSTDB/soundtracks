@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza Shadows of New York | 322399 | [322399-yakuza-shadows-of-new-york.json](./322399-yakuza-shadows-of-new-york.json) |
 | Yakuza: Dead Souls | 7489 | [7489-yakuza-dead-souls.json](./7489-yakuza-dead-souls.json) |
 | Yakuza: Like a Dragon | 36550 | [36550-yakuza-like-a-dragon.json](./36550-yakuza-like-a-dragon.json) |
+| Yakuza: Like a Dragon - Day One Edition | 136196 | [136196-yakuza-like-a-dragon-day-one-edition.json](./136196-yakuza-like-a-dragon-day-one-edition.json) |
 | Yakuza: Like a Dragon - Job Set | 156200 | [156200-yakuza-like-a-dragon-job-set.json](./156200-yakuza-like-a-dragon-job-set.json) |
 | Yakuza: Like a Dragon - Karaoke Set | 259523 | [259523-yakuza-like-a-dragon-karaoke-set.json](./259523-yakuza-like-a-dragon-karaoke-set.json) |
 | Yakuza: Like a Dragon - Legends Costume Set | 318035 | [318035-yakuza-like-a-dragon-legends-costume-set.json](./318035-yakuza-like-a-dragon-legends-costume-set.json) |
@@ -849,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys IX: Monstrum Nox - Launch Edition | 237908 | [237908-ys-ix-monstrum-nox-launch-edition.json](./237908-ys-ix-monstrum-nox-launch-edition.json) |
 | Ys IX: Monstrum Nox - Monstrum Musings Set | 411017 | [411017-ys-ix-monstrum-nox-monstrum-musings-set.json](./411017-ys-ix-monstrum-nox-monstrum-musings-set.json) |
 | Ys IX: Monstrum Nox - Monstrum Troupe Costume Bundle | 411018 | [411018-ys-ix-monstrum-nox-monstrum-troupe-costume-bundle.json](./411018-ys-ix-monstrum-nox-monstrum-troupe-costume-bundle.json) |
+| Ys IX: Monstrum Nox - Pact Edition | 136189 | [136189-ys-ix-monstrum-nox-pact-edition.json](./136189-ys-ix-monstrum-nox-pact-edition.json) |
 | Ys IX: Monstrum Nox - Renegade's "Monstrum Troupe" Costume | 411019 | [411019-ys-ix-monstrum-nox-renegades-monstrum-troupe-costume.json](./411019-ys-ix-monstrum-nox-renegades-monstrum-troupe-costume.json) |
 | Ys IX: Monstrum Nox - Ride-Along Aprilis | 411020 | [411020-ys-ix-monstrum-nox-ride-along-aprilis.json](./411020-ys-ix-monstrum-nox-ride-along-aprilis.json) |
 | Ys IX: Monstrum Nox - Ride-Along Geis | 411021 | [411021-ys-ix-monstrum-nox-ride-along-geis.json](./411021-ys-ix-monstrum-nox-ride-along-geis.json) |
@@ -934,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh!: Duelingbook | 202358 | [202358-yu-gi-oh-duelingbook.json](./202358-yu-gi-oh-duelingbook.json) |
 | Yu-Nama: The Puzzle | 63364 | [63364-yu-nama-the-puzzle.json](./63364-yu-nama-the-puzzle.json) |
 | YU-NO: A Girl Who Chants Love at the Bound of This World | 201228 | [201228-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world.json](./201228-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world.json) |
+| YU-NO: A Girl Who Chants Love at the Bound of this World - Day One Edition | 136220 | [136220-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world-day-one-edition.json](./136220-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world-day-one-edition.json) |
 | Yu'N'Mi | 175745 | [175745-yunmi.json](./175745-yunmi.json) |
 | Yuánshǐ Bùluò | 120857 | [120857-yuanshi-buluo.json](./120857-yuanshi-buluo.json) |
 | Yubisaki Connection | 333578 | [333578-yubisaki-connection.json](./333578-yubisaki-connection.json) |
