@@ -3897,6 +3897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Path | 250006 | [250006-lonely-path.json](./250006-lonely-path.json) |
 | Lonely People Potion Shop | 152279 | [152279-lonely-people-potion-shop.json](./152279-lonely-people-potion-shop.json) |
 | Lonely Planet | 374174 | [374174-lonely-planet.json](./374174-lonely-planet.json) |
+| Lonely Red Night | 149700 | [149700-lonely-red-night.json](./149700-lonely-red-night.json) |
 | Lonely shooter | 111680 | [111680-lonely-shooter.json](./111680-lonely-shooter.json) |
 | Lonely Skies | 117811 | [117811-lonely-skies.json](./117811-lonely-skies.json) |
 | Lonely Sun | 25266 | [25266-lonely-sun.json](./25266-lonely-sun.json) |
@@ -4577,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lottery Center Simulator | 369723 | [369723-lottery-center-simulator.json](./369723-lottery-center-simulator.json) |
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
 | Lotus | 105745 | [105745-lotus.json](./105745-lotus.json) |
+| Lotus Bloom | 149724 | [149724-lotus-bloom.json](./149724-lotus-bloom.json) |
 | Lotus Digital | 90973 | [90973-lotus-digital.json](./90973-lotus-digital.json) |
 | Lotus F3 | 373025 | [373025-lotus-f3.json](./373025-lotus-f3.json) |
 | Lotus III: The Ultimate Challenge | 12672 | [12672-lotus-iii-the-ultimate-challenge.json](./12672-lotus-iii-the-ultimate-challenge.json) |
@@ -5469,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyantei | 114993 | [114993-lyantei.json](./114993-lyantei.json) |
 | Lyca | 332032 | [332032-lyca.json](./332032-lyca.json) |
 | Lycah | 51739 | [51739-lycah.json](./51739-lycah.json) |
+| Lycanthorn II: Rain of Beasts | 149688 | [149688-lycanthorn-ii-rain-of-beasts.json](./149688-lycanthorn-ii-rain-of-beasts.json) |
 | Lycanthorn III | 239592 | [239592-lycanthorn-iii.json](./239592-lycanthorn-iii.json) |
 | Lychnis | 125923 | [125923-lychnis.json](./125923-lychnis.json) |
 | Lycoris;Lastwords | 319732 | [319732-lycoris-lastwords.json](./319732-lycoris-lastwords.json) |
