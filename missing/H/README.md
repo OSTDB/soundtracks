@@ -5028,6 +5028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeworld: Vast Reaches | 301250 | [301250-homeworld-vast-reaches.json](./301250-homeworld-vast-reaches.json) |
 | Homicide Squad | 180153 | [180153-homicide-squad.json](./180153-homicide-squad.json) |
 | Homicipher | 247905 | [247905-homicipher.json](./247905-homicipher.json) |
+| Homing | 134979 | [134979-homing.json](./134979-homing.json) |
 | Homing Instinct | 296913 | [296913-homing-instinct.json](./296913-homing-instinct.json) |
 | Homing Missiles! | 25786 | [25786-homing-missiles.json](./25786-homing-missiles.json) |
 | Homing Shapes | 114820 | [114820-homing-shapes.json](./114820-homing-shapes.json) |
@@ -5293,6 +5294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope: The Other Side of Adventure | 192900 | [192900-hope-the-other-side-of-adventure.json](./192900-hope-the-other-side-of-adventure.json) |
 | Hope's End | 238519 | [238519-hopes-end.json](./238519-hopes-end.json) |
 | Hope's Journey: A Therapeutic Experience | 158570 | [158570-hopes-journey-a-therapeutic-experience.json](./158570-hopes-journey-a-therapeutic-experience.json) |
+| Hope's Peak | 134985 | [134985-hopes-peak.json](./134985-hopes-peak.json) |
 | Hopeguard | 340480 | [340480-hopeguard.json](./340480-hopeguard.json) |
 | HopeLand | 211205 | [211205-hopeland.json](./211205-hopeland.json) |
 | Hopeless Dregs | 156658 | [156658-hopeless-dregs.json](./156658-hopeless-dregs.json) |
