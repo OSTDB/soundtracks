@@ -75,13 +75,48 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabletop Gods | 111985 | [111985-tabletop-gods.json](./111985-tabletop-gods.json) |
 | Tabletop idle | 101742 | [101742-tabletop-idle.json](./101742-tabletop-idle.json) |
 | Tabletop Simulator | 8351 | [8351-tabletop-simulator.json](./8351-tabletop-simulator.json) |
+| Tabletop Simulator: Abraca...What? | 161282 | [161282-tabletop-simulator-abraca-what.json](./161282-tabletop-simulator-abraca-what.json) |
+| Tabletop Simulator: Adventure Mart | 161291 | [161291-tabletop-simulator-adventure-mart.json](./161291-tabletop-simulator-adventure-mart.json) |
+| Tabletop Simulator: Battle For Souls | 161295 | [161295-tabletop-simulator-battle-for-souls.json](./161295-tabletop-simulator-battle-for-souls.json) |
+| Tabletop Simulator: Blood Rage | 161276 | [161276-tabletop-simulator-blood-rage.json](./161276-tabletop-simulator-blood-rage.json) |
+| Tabletop Simulator: Boss Monster | 161275 | [161275-tabletop-simulator-boss-monster.json](./161275-tabletop-simulator-boss-monster.json) |
+| Tabletop Simulator: Cavern Tavern | 161273 | [161273-tabletop-simulator-cavern-tavern.json](./161273-tabletop-simulator-cavern-tavern.json) |
+| Tabletop Simulator: Cosmic Encounter Connector | 161285 | [161285-tabletop-simulator-cosmic-encounter-connector.json](./161285-tabletop-simulator-cosmic-encounter-connector.json) |
+| Tabletop Simulator: Darkest Night | 161280 | [161280-tabletop-simulator-darkest-night.json](./161280-tabletop-simulator-darkest-night.json) |
+| Tabletop Simulator: Darkrock Ventures | 161305 | [161305-tabletop-simulator-darkrock-ventures.json](./161305-tabletop-simulator-darkrock-ventures.json) |
+| Tabletop Simulator: Dawn of the Zeds | 161289 | [161289-tabletop-simulator-dawn-of-the-zeds.json](./161289-tabletop-simulator-dawn-of-the-zeds.json) |
+| Tabletop Simulator: Deck Quest | 161281 | [161281-tabletop-simulator-deck-quest.json](./161281-tabletop-simulator-deck-quest.json) |
 | Tabletop Simulator: Down in Flames - Locked-On | 161264 | [161264-tabletop-simulator-down-in-flames-locked-on.json](./161264-tabletop-simulator-down-in-flames-locked-on.json) |
 | Tabletop Simulator: Draco Magi | 161270 | [161270-tabletop-simulator-draco-magi.json](./161270-tabletop-simulator-draco-magi.json) |
+| Tabletop Simulator: Dungeon Drop | 161286 | [161286-tabletop-simulator-dungeon-drop.json](./161286-tabletop-simulator-dungeon-drop.json) |
+| Tabletop Simulator: Euphoria - Build a Better Dystopia | 161297 | [161297-tabletop-simulator-euphoria-build-a-better-dystopia.json](./161297-tabletop-simulator-euphoria-build-a-better-dystopia.json) |
+| Tabletop Simulator: In the Name of Odin | 161300 | [161300-tabletop-simulator-in-the-name-of-odin.json](./161300-tabletop-simulator-in-the-name-of-odin.json) |
+| Tabletop Simulator: Indonesia | 161299 | [161299-tabletop-simulator-indonesia.json](./161299-tabletop-simulator-indonesia.json) |
+| Tabletop Simulator: Khronos Hunter | 161301 | [161301-tabletop-simulator-khronos-hunter.json](./161301-tabletop-simulator-khronos-hunter.json) |
+| Tabletop Simulator: Mistfall | 161298 | [161298-tabletop-simulator-mistfall.json](./161298-tabletop-simulator-mistfall.json) |
+| Tabletop Simulator: Mr. Game! | 161279 | [161279-tabletop-simulator-mr-game.json](./161279-tabletop-simulator-mr-game.json) |
+| Tabletop Simulator: One Night Ultimate Werewolf | 161303 | [161303-tabletop-simulator-one-night-ultimate-werewolf.json](./161303-tabletop-simulator-one-night-ultimate-werewolf.json) |
+| Tabletop Simulator: Pillars of Eternity - Lords of the Eastern Reach | 161302 | [161302-tabletop-simulator-pillars-of-eternity-lords-of-the-eastern-reach.json](./161302-tabletop-simulator-pillars-of-eternity-lords-of-the-eastern-reach.json) |
+| Tabletop Simulator: Rarrr!! | 161278 | [161278-tabletop-simulator-rarrr.json](./161278-tabletop-simulator-rarrr.json) |
+| Tabletop Simulator: Rise of Tribes | 161292 | [161292-tabletop-simulator-rise-of-tribes.json](./161292-tabletop-simulator-rise-of-tribes.json) |
+| Tabletop Simulator: Scuttle! | 161293 | [161293-tabletop-simulator-scuttle.json](./161293-tabletop-simulator-scuttle.json) |
 | Tabletop Simulator: Scythe | 161271 | [161271-tabletop-simulator-scythe.json](./161271-tabletop-simulator-scythe.json) |
+| Tabletop Simulator: Simurgh | 161287 | [161287-tabletop-simulator-simurgh.json](./161287-tabletop-simulator-simurgh.json) |
+| Tabletop Simulator: Spirits of the Rice Paddy | 161288 | [161288-tabletop-simulator-spirits-of-the-rice-paddy.json](./161288-tabletop-simulator-spirits-of-the-rice-paddy.json) |
 | Tabletop Simulator: Superfight | 161266 | [161266-tabletop-simulator-superfight.json](./161266-tabletop-simulator-superfight.json) |
+| Tabletop Simulator: The Great Dinosaur Rush | 161272 | [161272-tabletop-simulator-the-great-dinosaur-rush.json](./161272-tabletop-simulator-the-great-dinosaur-rush.json) |
 | Tabletop Simulator: The Red Dragon Inn - Battle For Greyport | 161268 | [161268-tabletop-simulator-the-red-dragon-inn-battle-for-greyport.json](./161268-tabletop-simulator-the-red-dragon-inn-battle-for-greyport.json) |
+| Tabletop Simulator: Three Cheers For Master | 161290 | [161290-tabletop-simulator-three-cheers-for-master.json](./161290-tabletop-simulator-three-cheers-for-master.json) |
+| Tabletop Simulator: Three Kingdoms Redux | 161304 | [161304-tabletop-simulator-three-kingdoms-redux.json](./161304-tabletop-simulator-three-kingdoms-redux.json) |
 | Tabletop Simulator: Tiny Epic Galaxies | 161269 | [161269-tabletop-simulator-tiny-epic-galaxies.json](./161269-tabletop-simulator-tiny-epic-galaxies.json) |
+| Tabletop Simulator: Tiny Epic Quest | 161284 | [161284-tabletop-simulator-tiny-epic-quest.json](./161284-tabletop-simulator-tiny-epic-quest.json) |
+| Tabletop Simulator: Tiny Epic Western | 161306 | [161306-tabletop-simulator-tiny-epic-western.json](./161306-tabletop-simulator-tiny-epic-western.json) |
 | Tabletop Simulator: Tortuga 1667 | 161263 | [161263-tabletop-simulator-tortuga-1667.json](./161263-tabletop-simulator-tortuga-1667.json) |
+| Tabletop Simulator: Unearth | 161274 | [161274-tabletop-simulator-unearth.json](./161274-tabletop-simulator-unearth.json) |
+| Tabletop Simulator: Viticulture | 161277 | [161277-tabletop-simulator-viticulture.json](./161277-tabletop-simulator-viticulture.json) |
+| Tabletop Simulator: Warfighter | 161296 | [161296-tabletop-simulator-warfighter.json](./161296-tabletop-simulator-warfighter.json) |
+| Tabletop Simulator: Wingspan | 161294 | [161294-tabletop-simulator-wingspan.json](./161294-tabletop-simulator-wingspan.json) |
+| Tabletop Simulator: Wizard's Academy | 161283 | [161283-tabletop-simulator-wizards-academy.json](./161283-tabletop-simulator-wizards-academy.json) |
 | Tabletop Simulator: Xia - Legends of a Drift System | 161265 | [161265-tabletop-simulator-xia-legends-of-a-drift-system.json](./161265-tabletop-simulator-xia-legends-of-a-drift-system.json) |
 | Tabletop Simulator: Zombicide | 161267 | [161267-tabletop-simulator-zombicide.json](./161267-tabletop-simulator-zombicide.json) |
 | TableTop Soccer | 33239 | [33239-tabletop-soccer.json](./33239-tabletop-soccer.json) |
@@ -14716,14 +14751,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower!3D Pro: WSSS Airport | 162291 | [162291-tower-3d-pro-wsss-airport.json](./162291-tower-3d-pro-wsss-airport.json) |
 | Tower!3D Pro: YMML Airport | 162296 | [162296-tower-3d-pro-ymml-airport.json](./162296-tower-3d-pro-ymml-airport.json) |
 | Tower!3D Pro: ZBAD Airport | 162279 | [162279-tower-3d-pro-zbad-airport.json](./162279-tower-3d-pro-zbad-airport.json) |
+| Tower!3D: EDDF Airport | 161311 | [161311-tower-3d-eddf-airport.json](./161311-tower-3d-eddf-airport.json) |
 | Tower!3D: EDDS Airport | 174144 | [174144-tower-3d-edds-airport.json](./174144-tower-3d-edds-airport.json) |
 | Tower!3D: EGLL Airport | 161314 | [161314-tower-3d-egll-airport.json](./161314-tower-3d-egll-airport.json) |
 | Tower!3D: KBOS Airport | 174145 | [174145-tower-3d-kbos-airport.json](./174145-tower-3d-kbos-airport.json) |
 | Tower!3D: KDFW Airport | 174147 | [174147-tower-3d-kdfw-airport.json](./174147-tower-3d-kdfw-airport.json) |
+| Tower!3D: KIAD Airport | 161312 | [161312-tower-3d-kiad-airport.json](./161312-tower-3d-kiad-airport.json) |
 | Tower!3D: KSEA Airport | 161316 | [161316-tower-3d-ksea-airport.json](./161316-tower-3d-ksea-airport.json) |
 | Tower!3D: OMDB Airport | 161315 | [161315-tower-3d-omdb-airport.json](./161315-tower-3d-omdb-airport.json) |
 | Tower!3D: PHNL Airport | 161313 | [161313-tower-3d-phnl-airport.json](./161313-tower-3d-phnl-airport.json) |
+| Tower!3D: RJTT Airport | 161310 | [161310-tower-3d-rjtt-airport.json](./161310-tower-3d-rjtt-airport.json) |
 | Tower!3D: YMML Airport | 174146 | [174146-tower-3d-ymml-airport.json](./174146-tower-3d-ymml-airport.json) |
+| Tower!3D: ZBAD Airport | 161309 | [161309-tower-3d-zbad-airport.json](./161309-tower-3d-zbad-airport.json) |
 | Tower.Defense(): Program the Fight | 406215 | [406215-tower-defense-program-the-fight.json](./406215-tower-defense-program-the-fight.json) |
 | Towerborne | 252839 | [252839-towerborne.json](./252839-towerborne.json) |
 | TowerClimb | 34609 | [34609-towerclimb.json](./34609-towerclimb.json) |
