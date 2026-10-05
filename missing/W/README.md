@@ -4159,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Salad | 362970 | [362970-word-salad.json](./362970-word-salad.json) |
 | Word Scores | 344355 | [344355-word-scores.json](./344355-word-scores.json) |
 | Word Scramble | 87551 | [87551-word-scramble.json](./87551-word-scramble.json) |
+| Word Search | 133777 | [133777-word-search.json](./133777-word-search.json) |
 | Word Search - Puzzle Game For Kids | 108507 | [108507-word-search-puzzle-game-for-kids.json](./108507-word-search-puzzle-game-for-kids.json) |
 | Word Search & Learn | 233741 | [233741-word-search-and-learn.json](./233741-word-search-and-learn.json) |
 | Word Search 10K | 84964 | [84964-word-search-10k.json](./84964-word-search-10k.json) |
