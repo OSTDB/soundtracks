@@ -4722,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Match Saga: Expansion Pack 7 | 167326 | [167326-memory-match-saga-expansion-pack-7.json](./167326-memory-match-saga-expansion-pack-7.json) |
 | Memory Match Saga: Expansion Pack 8 | 167327 | [167327-memory-match-saga-expansion-pack-8.json](./167327-memory-match-saga-expansion-pack-8.json) |
 | Memory Match Saga: Expansion Pack 9 | 167328 | [167328-memory-match-saga-expansion-pack-9.json](./167328-memory-match-saga-expansion-pack-9.json) |
+| Memory Maze | 156710 | [156710-memory-maze.json](./156710-memory-maze.json) |
 | Memory Mosaic | 243792 | [243792-memory-mosaic.json](./243792-memory-mosaic.json) |
 | Memory Novel: Mile High Club | 196146 | [196146-memory-novel-mile-high-club.json](./196146-memory-novel-mile-high-club.json) |
 | Memory Oblivion: CnGalGirl | 393824 | [393824-memory-oblivion-cngalgirl.json](./393824-memory-oblivion-cngalgirl.json) |
