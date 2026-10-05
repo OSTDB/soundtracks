@@ -5047,6 +5047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honki de Manabu LEC de Goukakuru: Hishou Boki 3-Kyuu Portable | 67324 | [67324-honki-de-manabu-lec-de-goukakuru-hishou-boki-3-kyuu-portable.json](./67324-honki-de-manabu-lec-de-goukakuru-hishou-boki-3-kyuu-portable.json) |
 | Honki de Manabu LEC de Goukakuru: Takuchi Tatemono Torihiki Shuninsha Portable | 67325 | [67325-honki-de-manabu-lec-de-goukakuru-takuchi-tatemono-torihiki-shuninsha-portable.json](./67325-honki-de-manabu-lec-de-goukakuru-takuchi-tatemono-torihiki-shuninsha-portable.json) |
 | Honko's World | 304153 | [304153-honkos-world.json](./304153-honkos-world.json) |
+| Honkstory 2: There was No 1 | 168702 | [168702-honkstory-2-there-was-no-1.json](./168702-honkstory-2-there-was-no-1.json) |
 | Honoo no Ryourijin: Cooking Fighter Hao | 70338 | [70338-honoo-no-ryourijin-cooking-fighter-hao.json](./70338-honoo-no-ryourijin-cooking-fighter-hao.json) |
 | Honoo no Takkyubin | 138839 | [138839-honoo-no-takkyubin.json](./138839-honoo-no-takkyubin.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 267660 | [267660-honoo-no-toukyuuji-dodge-danpei.json](./267660-honoo-no-toukyuuji-dodge-danpei.json) |
@@ -5790,6 +5791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Fate | 184441 | [184441-house-of-fate.json](./184441-house-of-fate.json) |
 | House of Fear: Cursed Souls | 228686 | [228686-house-of-fear-cursed-souls.json](./228686-house-of-fear-cursed-souls.json) |
 | House of Ghosts and Cats | 329232 | [329232-house-of-ghosts-and-cats.json](./329232-house-of-ghosts-and-cats.json) |
+| House of God | 168713 | [168713-house-of-god.json](./168713-house-of-god.json) |
 | House of Golf | 125252 | [125252-house-of-golf.json](./125252-house-of-golf.json) |
 | House of Golf 2 | 303573 | [303573-house-of-golf-2.json](./303573-house-of-golf-2.json) |
 | House of Heists | 398406 | [398406-house-of-heists.json](./398406-house-of-heists.json) |
@@ -6769,6 +6771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HypnoCuck: The Arrogant Rich Bitch Till She Falls | 82761 | [82761-hypnocuck-the-arrogant-rich-bitch-till-she-falls.json](./82761-hypnocuck-the-arrogant-rich-bitch-till-she-falls.json) |
 | HypnoFamily Game | 109198 | [109198-hypnofamily-game.json](./109198-hypnofamily-game.json) |
 | Hypnofantasis | 276228 | [276228-hypnofantasis.json](./276228-hypnofantasis.json) |
+| Hypnolab VR | 168626 | [168626-hypnolab-vr.json](./168626-hypnolab-vr.json) |
 | HypnoQuest: Do as you please with MC Power | 82779 | [82779-hypnoquest-do-as-you-please-with-mc-power.json](./82779-hypnoquest-do-as-you-please-with-mc-power.json) |
 | Hypnorynth | 323294 | [323294-hypnorynth.json](./323294-hypnorynth.json) |
 | Hypnos | 385283 | [385283-hypnos.json](./385283-hypnos.json) |
