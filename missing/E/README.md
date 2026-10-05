@@ -3094,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estium Online | 417541 | [417541-estium-online.json](./417541-estium-online.json) |
 | Estra | 13711 | [13711-estra.json](./13711-estra.json) |
 | EstradaBus HD | 148951 | [148951-estradabus-hd.json](./148951-estradabus-hd.json) |
+| Estranged | 131418 | [131418-estranged.json](./131418-estranged.json) |
 | Estranged | 313832 | [313832-estranged.json](./313832-estranged.json) |
 | Estranged: The Departure | 147260 | [147260-estranged-the-departure.json](./147260-estranged-the-departure.json) |
 | ESWAT: Cyber Police | 39869 | [39869-eswat-cyber-police.json](./39869-eswat-cyber-police.json) |
