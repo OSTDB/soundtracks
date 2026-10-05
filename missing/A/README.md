@@ -1485,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adlib | 112303 | [112303-adlib.json](./112303-adlib.json) |
 | Admeowture | 195118 | [195118-admeowture.json](./195118-admeowture.json) |
 | Admin | 179622 | [179622-admin.json](./179622-admin.json) |
+| Admin Simulator | 119597 | [119597-admin-simulator.json](./119597-admin-simulator.json) |
 | Administrators | 196569 | [196569-administrators.json](./196569-administrators.json) |
 | Admiral: Battle for Uranium | 261859 | [261859-admiral-battle-for-uranium.json](./261859-admiral-battle-for-uranium.json) |
 | Admirals of Ophiuchus | 379559 | [379559-admirals-of-ophiuchus.json](./379559-admirals-of-ophiuchus.json) |
@@ -2621,6 +2622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airforce Delta | 47285 | [47285-airforce-delta.json](./47285-airforce-delta.json) |
 | AirForce Delta Storm | 5718 | [5718-airforce-delta-storm.json](./5718-airforce-delta-storm.json) |
 | Airframe Ultra | 257450 | [257450-airframe-ultra.json](./257450-airframe-ultra.json) |
+| Airglow | 119496 | [119496-airglow.json](./119496-airglow.json) |
 | AirHead Adam | 261325 | [261325-airhead-adam.json](./261325-airhead-adam.json) |
 | Airheads Jump | 344007 | [344007-airheads-jump.json](./344007-airheads-jump.json) |
 | Airheart: Tales of Broken Wings | 26422 | [26422-airheart-tales-of-broken-wings.json](./26422-airheart-tales-of-broken-wings.json) |
@@ -5191,6 +5193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animatch | 194296 | [194296-animatch.json](./194296-animatch.json) |
 | AniMatch: Animal Matching Game | 86874 | [86874-animatch-animal-matching-game.json](./86874-animatch-animal-matching-game.json) |
 | Animated Jigsaw Puzzles | 269286 | [269286-animated-jigsaw-puzzles.json](./269286-animated-jigsaw-puzzles.json) |
+| Animated Jigsaws Collection | 119512 | [119512-animated-jigsaws-collection.json](./119512-animated-jigsaws-collection.json) |
 | Animated Puzzles: Spooky Pack | 163420 | [163420-animated-puzzles-spooky-pack.json](./163420-animated-puzzles-spooky-pack.json) |
 | Animated StoryBook: Winnie the Pooh and the Honey Tree | 342669 | [342669-animated-storybook-winnie-the-pooh-and-the-honey-tree.json](./342669-animated-storybook-winnie-the-pooh-and-the-honey-tree.json) |
 | AniMates | 93977 | [93977-animates.json](./93977-animates.json) |
@@ -8999,6 +9002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Australian Cricket Captain | 74080 | [74080-australian-cricket-captain.json](./74080-australian-cricket-captain.json) |
 | Australian Idol Sing | 71766 | [71766-australian-idol-sing.json](./71766-australian-idol-sing.json) |
 | Australian Maze | 273356 | [273356-australian-maze.json](./273356-australian-maze.json) |
+| Australian Road Trains | 119596 | [119596-australian-road-trains.json](./119596-australian-road-trains.json) |
 | Australiove | 181795 | [181795-australiove.json](./181795-australiove.json) |
 | Australo Piticus Mechanicus | 14277 | [14277-australo-piticus-mechanicus.json](./14277-australo-piticus-mechanicus.json) |
 | Austrian Avian Association | 251181 | [251181-austrian-avian-association.json](./251181-austrian-avian-association.json) |
