@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Acorns | 365117 | [365117-idle-acorns.json](./365117-idle-acorns.json) |
 | Idle Adventure | 75814 | [75814-idle-adventure.json](./75814-idle-adventure.json) |
 | Idle Airport CEO | 340518 | [340518-idle-airport-ceo.json](./340518-idle-airport-ceo.json) |
+| Idle Angels | 171895 | [171895-idle-angels.json](./171895-idle-angels.json) |
 | Idle Angels: Realm of Goddess | 260112 | [260112-idle-angels-realm-of-goddess.json](./260112-idle-angels-realm-of-goddess.json) |
 | Idle Animal Anatomy | 290515 | [290515-idle-animal-anatomy.json](./290515-idle-animal-anatomy.json) |
 | Idle Anomaly: Alien Control | 244998 | [244998-idle-anomaly-alien-control.json](./244998-idle-anomaly-alien-control.json) |
@@ -1963,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernitos: Fiery Dishes | 353957 | [353957-infernitos-fiery-dishes.json](./353957-infernitos-fiery-dishes.json) |
 | Infernium | 86337 | [86337-infernium.json](./86337-infernium.json) |
 | Inferno | 121614 | [121614-inferno.json](./121614-inferno.json) |
+| Inferno | 171962 | [171962-inferno.json](./171962-inferno.json) |
 | Inferno | 274190 | [274190-inferno.json](./274190-inferno.json) |
 | Inferno | 346092 | [346092-inferno.json](./346092-inferno.json) |
 | Inferno 2 | 34822 | [34822-inferno-2.json](./34822-inferno-2.json) |
