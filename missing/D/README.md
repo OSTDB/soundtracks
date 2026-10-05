@@ -5025,8 +5025,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Hunting Patrol 3D Jurassic VR | 160142 | [160142-dinosaur-hunting-patrol-3d-jurassic-vr.json](./160142-dinosaur-hunting-patrol-3d-jurassic-vr.json) |
 | Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
 | Dinosaur Jigsaw Puzzles - Kids Games for Toddlers | 86831 | [86831-dinosaur-jigsaw-puzzles-kids-games-for-toddlers.json](./86831-dinosaur-jigsaw-puzzles-kids-games-for-toddlers.json) |
+| Dinosaur King | 140907 | [140907-dinosaur-king.json](./140907-dinosaur-king.json) |
 | Dinosaur King | 48042 | [48042-dinosaur-king.json](./48042-dinosaur-king.json) |
 | Dinosaur King: Fierce Battle! Zanjark! | 270763 | [270763-dinosaur-king-fierce-battle-zanjark.json](./270763-dinosaur-king-fierce-battle-zanjark.json) |
+| Dinosaur King: Operation Dinosaur Rescue | 140909 | [140909-dinosaur-king-operation-dinosaur-rescue.json](./140909-dinosaur-king-operation-dinosaur-rescue.json) |
 | Dinosaur King: Wake Up! New Power! | 271800 | [271800-dinosaur-king-wake-up-new-power.json](./271800-dinosaur-king-wake-up-new-power.json) |
 | Dinosaur Multiplayer | 240922 | [240922-dinosaur-multiplayer.json](./240922-dinosaur-multiplayer.json) |
 | Dinosaur Museum | 378176 | [378176-dinosaur-museum.json](./378176-dinosaur-museum.json) |
@@ -7381,6 +7383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downward Spiral: Prologue | 29981 | [29981-downward-spiral-prologue.json](./29981-downward-spiral-prologue.json) |
 | Downward: Enhanced Edition | 301912 | [301912-downward-enhanced-edition.json](./301912-downward-enhanced-edition.json) |
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
+| DP.T: Dr Pepper Terror | 140916 | [140916-dp-t-dr-pepper-terror.json](./140916-dp-t-dr-pepper-terror.json) |
 | Dps Idle | 161333 | [161333-dps-idle.json](./161333-dps-idle.json) |
 | DPS Idle 2 | 253970 | [253970-dps-idle-2.json](./253970-dps-idle-2.json) |
 | DQ Girls Colosseum | 97699 | [97699-dq-girls-colosseum.json](./97699-dq-girls-colosseum.json) |
