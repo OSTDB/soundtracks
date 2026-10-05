@@ -2207,6 +2207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inglorious Aztecs | 151039 | [151039-inglorious-aztecs.json](./151039-inglorious-aztecs.json) |
 | Inglorious Waifu VS Nazi Zombies | 156163 | [156163-inglorious-waifu-vs-nazi-zombies.json](./156163-inglorious-waifu-vs-nazi-zombies.json) |
 | Ingot Rush | 174220 | [174220-ingot-rush.json](./174220-ingot-rush.json) |
+| Ingredienta | 169809 | [169809-ingredienta.json](./169809-ingredienta.json) |
 | Ingression | 207244 | [207244-ingression.json](./207244-ingression.json) |
 | Ingrid's Back! | 15493 | [15493-ingrids-back.json](./15493-ingrids-back.json) |
 | Ingrids Back | 40964 | [40964-ingrids-back.json](./40964-ingrids-back.json) |
