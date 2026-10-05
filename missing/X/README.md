@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | X | 37764 | [37764-x.json](./37764-x.json) |
+| X Air Combat | 158625 | [158625-x-air-combat.json](./158625-x-air-combat.json) |
 | X Defense: Timing TD | 288436 | [288436-x-defense-timing-td.json](./288436-x-defense-timing-td.json) |
 | X Japan - Virtual Shock 001 | 94710 | [94710-x-japan-virtual-shock-001.json](./94710-x-japan-virtual-shock-001.json) |
 | X Multiply | 12271 | [12271-x-multiply.json](./12271-x-multiply.json) |
