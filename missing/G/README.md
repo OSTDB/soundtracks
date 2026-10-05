@@ -1454,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | General Conflict | 64463 | [64463-general-conflict.json](./64463-general-conflict.json) |
 | General Knowledge Quiz | 251042 | [251042-general-knowledge-quiz.json](./251042-general-knowledge-quiz.json) |
 | General Mayhem | 179470 | [179470-general-mayhem.json](./179470-general-mayhem.json) |
+| General Population | 169820 | [169820-general-population.json](./169820-general-population.json) |
 | General Room | 176979 | [176979-general-room.json](./176979-general-room.json) |
 | General Staff: Black Powder | 249226 | [249226-general-staff-black-powder.json](./249226-general-staff-black-powder.json) |
 | General's Son | 48579 | [48579-generals-son.json](./48579-generals-son.json) |
@@ -2061,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters: Spirits Unleashed - Ecto Edition | 269357 | [269357-ghostbusters-spirits-unleashed-ecto-edition.json](./269357-ghostbusters-spirits-unleashed-ecto-edition.json) |
 | Ghostbusters: The Video Game | 566 | [566-ghostbusters-the-video-game.json](./566-ghostbusters-the-video-game.json) |
 | Ghostbusters: The Video Game | 77275 | [77275-ghostbusters-the-video-game.json](./77275-ghostbusters-the-video-game.json) |
+| GhostCast | 169840 | [169840-ghostcast.json](./169840-ghostcast.json) |
 | GhostCatcher | 257961 | [257961-ghostcatcher.json](./257961-ghostcatcher.json) |
 | Ghostcon: Elementals | 247773 | [247773-ghostcon-elementals.json](./247773-ghostcon-elementals.json) |
 | Ghosted | 418760 | [418760-ghosted.json](./418760-ghosted.json) |
@@ -3133,6 +3135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godlike Burger | 143010 | [143010-godlike-burger.json](./143010-godlike-burger.json) |
 | Godmode Epochs | 252688 | [252688-godmode-epochs.json](./252688-godmode-epochs.json) |
 | Godmorgon: Spooky Ride | 187227 | [187227-godmorgon-spooky-ride.json](./187227-godmorgon-spooky-ride.json) |
+| Godo | 169812 | [169812-godo.json](./169812-godo.json) |
 | Gododo | 148902 | [148902-gododo.json](./148902-gododo.json) |
 | GodPey | 84328 | [84328-godpey.json](./84328-godpey.json) |
 | Godproof | 357429 | [357429-godproof.json](./357429-godproof.json) |
@@ -3818,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic Classic | 260799 | [260799-gothic-classic.json](./260799-gothic-classic.json) |
 | Gothic Classic Khorinis Saga | 300389 | [300389-gothic-classic-khorinis-saga.json](./300389-gothic-classic-khorinis-saga.json) |
 | Gothic Clicker | 345011 | [345011-gothic-clicker.json](./345011-gothic-clicker.json) |
+| Gothic Girls | 169815 | [169815-gothic-girls.json](./169815-gothic-girls.json) |
 | Gothic II: Complete Classic | 270397 | [270397-gothic-ii-complete-classic.json](./270397-gothic-ii-complete-classic.json) |
 | Gothic II: Gold Edition | 29207 | [29207-gothic-ii-gold-edition.json](./29207-gothic-ii-gold-edition.json) |
 | Gothic II: Odyssey | 272459 | [272459-gothic-ii-odyssey.json](./272459-gothic-ii-odyssey.json) |
@@ -4611,6 +4615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green vs Tan | 416834 | [416834-green-vs-tan.json](./416834-green-vs-tan.json) |
 | Green Wave | 397088 | [397088-green-wave.json](./397088-green-wave.json) |
 | Green Wind | 209638 | [209638-green-wind.json](./209638-green-wind.json) |
+| Green World: Catharsis | 169744 | [169744-green-world-catharsis.json](./169744-green-world-catharsis.json) |
 | Green Wounds | 197190 | [197190-green-wounds.json](./197190-green-wounds.json) |
 | Green Zone | 254768 | [254768-green-zone.json](./254768-green-zone.json) |
 | Green: The Life Algorithm | 120863 | [120863-green-the-life-algorithm.json](./120863-green-the-life-algorithm.json) |
