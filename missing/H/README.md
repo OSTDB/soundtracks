@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana | 369565 | [369565-hana.json](./369565-hana.json) |
 | Hana | 381136 | [381136-hana.json](./381136-hana.json) |
 | Hana Feels | 139306 | [139306-hana-feels.json](./139306-hana-feels.json) |
+| Hana no Chiruramu | 166579 | [166579-hana-no-chiruramu.json](./166579-hana-no-chiruramu.json) |
 | Hana no Ibara: Yuurei Kitan | 181657 | [181657-hana-no-ibara-yuurei-kitan.json](./181657-hana-no-ibara-yuurei-kitan.json) |
 | Hana Oboro: Sengoku-den Ranki | 136480 | [136480-hana-oboro-sengoku-den-ranki.json](./136480-hana-oboro-sengoku-den-ranki.json) |
 | Hana Saki Work Spring! | 111649 | [111649-hana-saki-work-spring.json](./111649-hana-saki-work-spring.json) |
