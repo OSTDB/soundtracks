@@ -2009,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost of the Fireflies | 68729 | [68729-ghost-of-the-fireflies.json](./68729-ghost-of-the-fireflies.json) |
 | Ghost of Tokyo | 406790 | [406790-ghost-of-tokyo.json](./406790-ghost-of-tokyo.json) |
 | Ghost of Tomorrow: Chapter 1 | 168861 | [168861-ghost-of-tomorrow-chapter-1.json](./168861-ghost-of-tomorrow-chapter-1.json) |
+| Ghost of Tsushima: Launch Edition | 136178 | [136178-ghost-of-tsushima-launch-edition.json](./136178-ghost-of-tsushima-launch-edition.json) |
 | Ghost of Viyk | 295846 | [295846-ghost-of-viyk.json](./295846-ghost-of-viyk.json) |
 | Ghost on the Shore | 129064 | [129064-ghost-on-the-shore.json](./129064-ghost-on-the-shore.json) |
 | Ghost Online | 112299 | [112299-ghost-online.json](./112299-ghost-online.json) |
@@ -4784,6 +4785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Wars II | 51233 | [51233-grid-wars-ii.json](./51233-grid-wars-ii.json) |
 | Grid-M | 257921 | [257921-grid-m.json](./257921-grid-m.json) |
 | Grid: Autosport - Drag Pack | 365684 | [365684-grid-autosport-drag-pack.json](./365684-grid-autosport-drag-pack.json) |
+| Grid: Day One Edition | 136177 | [136177-grid-day-one-edition.json](./136177-grid-day-one-edition.json) |
 | Grid16 | 270637 | [270637-grid16.json](./270637-grid16.json) |
 | Gridblocked | 204719 | [204719-gridblocked.json](./204719-gridblocked.json) |
 | Gridbug | 67680 | [67680-gridbug.json](./67680-gridbug.json) |
@@ -5647,6 +5649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Breaker | 45290 | [45290-gundam-breaker.json](./45290-gundam-breaker.json) |
 | Gundam Breaker 2 | 44552 | [44552-gundam-breaker-2.json](./44552-gundam-breaker-2.json) |
 | Gundam Breaker 3 | 19858 | [19858-gundam-breaker-3.json](./19858-gundam-breaker-3.json) |
+| Gundam Breaker 3: Break Edition | 136193 | [136193-gundam-breaker-3-break-edition.json](./136193-gundam-breaker-3-break-edition.json) |
 | Gundam Breaker 4: Diorama Pack 1 - Colony Set | 324396 | [324396-gundam-breaker-4-diorama-pack-1-colony-set.json](./324396-gundam-breaker-4-diorama-pack-1-colony-set.json) |
 | Gundam Breaker 4: Diorama Pack 2 - Mobile Weapon & Colony Laser Inner Wall | 324397 | [324397-gundam-breaker-4-diorama-pack-2-mobile-weapon-and-colony-laser-inner-wall.json](./324397-gundam-breaker-4-diorama-pack-2-mobile-weapon-and-colony-laser-inner-wall.json) |
 | Gundam Breaker 4: Diorama Pack 3 - Class Room Set & Haro | 324398 | [324398-gundam-breaker-4-diorama-pack-3-class-room-set-and-haro.json](./324398-gundam-breaker-4-diorama-pack-3-class-room-set-and-haro.json) |
