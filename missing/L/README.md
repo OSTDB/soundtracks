@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lapland Solitaire | 34626 | [34626-lapland-solitaire.json](./34626-lapland-solitaire.json) |
 | Lappelduvide | 304639 | [304639-lappelduvide.json](./304639-lappelduvide.json) |
 | Lapse | 111699 | [111699-lapse.json](./111699-lapse.json) |
+| Lapse 2: Before Zero | 134477 | [134477-lapse-2-before-zero.json](./134477-lapse-2-before-zero.json) |
 | Lapse: A Forgotten Future | 77471 | [77471-lapse-a-forgotten-future.json](./77471-lapse-a-forgotten-future.json) |
 | Lapsi | 120337 | [120337-lapsi.json](./120337-lapsi.json) |
 | Lapso | 126618 | [126618-lapso.json](./126618-lapso.json) |
