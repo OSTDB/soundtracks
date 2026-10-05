@@ -6315,6 +6315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Response VR: Disturbance | 130319 | [130319-police-response-vr-disturbance.json](./130319-police-response-vr-disturbance.json) |
 | Police Scanner Radio | 212750 | [212750-police-scanner-radio.json](./212750-police-scanner-radio.json) |
 | Police Sentri | 165649 | [165649-police-sentri.json](./165649-police-sentri.json) |
+| Police Shootout | 132579 | [132579-police-shootout.json](./132579-police-shootout.json) |
 | Police Simulator | 415170 | [415170-police-simulator.json](./415170-police-simulator.json) |
 | Police Simulator: Patrol Officers - Complete Edition | 399824 | [399824-police-simulator-patrol-officers-complete-edition.json](./399824-police-simulator-patrol-officers-complete-edition.json) |
 | Police Simulator: Patrol Officers - Extended Edition | 292618 | [292618-police-simulator-patrol-officers-extended-edition.json](./292618-police-simulator-patrol-officers-extended-edition.json) |
