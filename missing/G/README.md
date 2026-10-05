@@ -3148,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Egypt: Secrets of the Lost Kingdom | 174747 | [174747-gods-of-egypt-secrets-of-the-lost-kingdom.json](./174747-gods-of-egypt-secrets-of-the-lost-kingdom.json) |
 | Gods of Fire | 309483 | [309483-gods-of-fire.json](./309483-gods-of-fire.json) |
 | Gods of Havoc: Fall to Earth | 120967 | [120967-gods-of-havoc-fall-to-earth.json](./120967-gods-of-havoc-fall-to-earth.json) |
+| Gods of Havoc: Into the Void - Rise of the AI | 171412 | [171412-gods-of-havoc-into-the-void-rise-of-the-ai.json](./171412-gods-of-havoc-into-the-void-rise-of-the-ai.json) |
 | Gods of Hellas VR | 190168 | [190168-gods-of-hellas-vr.json](./190168-gods-of-hellas-vr.json) |
 | Gods of the Arena Dungeon | 295852 | [295852-gods-of-the-arena-dungeon.json](./295852-gods-of-the-arena-dungeon.json) |
 | Gods Play Dice | 409766 | [409766-gods-play-dice.json](./409766-gods-play-dice.json) |
