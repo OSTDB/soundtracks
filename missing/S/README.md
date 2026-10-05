@@ -4102,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatter Keep | 146826 | [146826-shatter-keep.json](./146826-shatter-keep.json) |
 | Shatter Point | 343988 | [343988-shatter-point.json](./343988-shatter-point.json) |
 | Shatter Remastered Deluxe | 202146 | [202146-shatter-remastered-deluxe.json](./202146-shatter-remastered-deluxe.json) |
+| Shatter Sky | 148676 | [148676-shatter-sky.json](./148676-shatter-sky.json) |
 | Shatterbound | 291053 | [291053-shatterbound.json](./291053-shatterbound.json) |
 | Shatterbrain | 96977 | [96977-shatterbrain.json](./96977-shatterbrain.json) |
 | Shattered | 325043 | [325043-shattered.json](./325043-shattered.json) |
