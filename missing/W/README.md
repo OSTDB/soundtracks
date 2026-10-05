@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way in the stars | 156593 | [156593-way-in-the-stars.json](./156593-way-in-the-stars.json) |
 | Way In The Stars: The Threat | 235721 | [235721-way-in-the-stars-the-threat.json](./235721-way-in-the-stars-the-threat.json) |
 | Way Nd Choice | 288468 | [288468-way-nd-choice.json](./288468-way-nd-choice.json) |
+| Way of Boy: Another Way | 132672 | [132672-way-of-boy-another-way.json](./132672-way-of-boy-another-way.json) |
 | Way of Hero | 29722 | [29722-way-of-hero.json](./29722-way-of-hero.json) |
 | Way of Heroes | 159839 | [159839-way-of-heroes.json](./159839-way-of-heroes.json) |
 | Way of Madness | 371261 | [371261-way-of-madness.json](./371261-way-of-madness.json) |
@@ -3816,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf of the Mountain | 196571 | [196571-wolf-of-the-mountain.json](./196571-wolf-of-the-mountain.json) |
 | Wolf or Boy | 117709 | [117709-wolf-or-boy.json](./117709-wolf-or-boy.json) |
 | Wolf Pack: Howling Spirits | 395665 | [395665-wolf-pack-howling-spirits.json](./395665-wolf-pack-howling-spirits.json) |
+| Wolf Ridge | 132578 | [132578-wolf-ridge.json](./132578-wolf-ridge.json) |
 | Wolf Riot | 193491 | [193491-wolf-riot.json](./193491-wolf-riot.json) |
 | Wolf Souls: Arena | 324331 | [324331-wolf-souls-arena.json](./324331-wolf-souls-arena.json) |
 | Wolf Tales: Online RPG Sim | 145950 | [145950-wolf-tales-online-rpg-sim.json](./145950-wolf-tales-online-rpg-sim.json) |
