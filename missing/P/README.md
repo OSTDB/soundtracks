@@ -4131,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates Pinball | 115058 | [115058-pirates-pinball.json](./115058-pirates-pinball.json) |
 | Pirates Plundarrr | 50728 | [50728-pirates-plundarrr.json](./50728-pirates-plundarrr.json) |
 | Pirates Slayer | 336666 | [336666-pirates-slayer.json](./336666-pirates-slayer.json) |
+| Pirates Treasure II | 128312 | [128312-pirates-treasure-ii.json](./128312-pirates-treasure-ii.json) |
 | Pirates vs Corsairs: Davy Jones's Gold | 35613 | [35613-pirates-vs-corsairs-davy-joness-gold.json](./35613-pirates-vs-corsairs-davy-joness-gold.json) |
 | Pirates vs monkeys | 162851 | [162851-pirates-vs-monkeys.json](./162851-pirates-vs-monkeys.json) |
 | Pirates: Captain's Quest | 145521 | [145521-pirates-captains-quest.json](./145521-pirates-captains-quest.json) |
