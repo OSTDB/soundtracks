@@ -2211,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Informe Zenteno | 322947 | [322947-informe-zenteno.json](./322947-informe-zenteno.json) |
 | Infra | 382369 | [382369-infra.json](./382369-infra.json) |
 | Infra: Underground | 255360 | [255360-infra-underground.json](./255360-infra-underground.json) |
+| Infraspace | 149691 | [149691-infraspace.json](./149691-infraspace.json) |
 | Infraworld: Coma Moonlight | 256832 | [256832-infraworld-coma-moonlight.json](./256832-infraworld-coma-moonlight.json) |
 | Infraworld: The Hatehammer | 261457 | [261457-infraworld-the-hatehammer.json](./261457-infraworld-the-hatehammer.json) |
 | Ingenious | 210038 | [210038-ingenious.json](./210038-ingenious.json) |
