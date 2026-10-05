@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bahari | 201306 | [201306-bahari.json](./201306-bahari.json) |
 | Bahnfrei | 398409 | [398409-bahnfrei.json](./398409-bahnfrei.json) |
 | Bahnsen Knights | 210566 | [210566-bahnsen-knights.json](./210566-bahnsen-knights.json) |
+| Bahnsim Pro | 145284 | [145284-bahnsim-pro.json](./145284-bahnsim-pro.json) |
 | Bái Xiǎo | 195266 | [195266-bai-xiao.json](./195266-bai-xiao.json) |
 | Baia | 334498 | [334498-baia.json](./334498-baia.json) |
 | Baikinman wo Yattsukero! | 300006 | [300006-baikinman-wo-yattsukero.json](./300006-baikinman-wo-yattsukero.json) |
@@ -637,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakumatsu Midarezaki | 163231 | [163231-bakumatsu-midarezaki.json](./163231-bakumatsu-midarezaki.json) |
 | Bakumatsu Renka Shinsengumi | 152990 | [152990-bakumatsu-renka-shinsengumi.json](./152990-bakumatsu-renka-shinsengumi.json) |
 | Bakumatsu Renka Shinsengumi | 269779 | [269779-bakumatsu-renka-shinsengumi.json](./269779-bakumatsu-renka-shinsengumi.json) |
+| Bakumatsu Renka Shinsengumi: Jinchuu Houkoku no Shi | 145281 | [145281-bakumatsu-renka-shinsengumi-jinchuu-houkoku-no-shi.json](./145281-bakumatsu-renka-shinsengumi-jinchuu-houkoku-no-shi.json) |
 | Bakumatsu Renka: Karyuu Kenshi-den | 163235 | [163235-bakumatsu-renka-karyuu-kenshi-den.json](./163235-bakumatsu-renka-karyuu-kenshi-den.json) |
 | Bakumatsu Renka: Shinsengumi DS | 122864 | [122864-bakumatsu-renka-shinsengumi-ds.json](./122864-bakumatsu-renka-shinsengumi-ds.json) |
 | Bakumatsu Roman: Gekka no Kenshi 1+2 | 84253 | [84253-bakumatsu-roman-gekka-no-kenshi-1-2.json](./84253-bakumatsu-roman-gekka-no-kenshi-1-2.json) |
@@ -1756,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baspetball | 346584 | [346584-baspetball.json](./346584-baspetball.json) |
 | Bass Avenger | 130845 | [130845-bass-avenger.json](./130845-bass-avenger.json) |
 | Bass Cat: Learn to Read Music | 90382 | [90382-bass-cat-learn-to-read-music.json](./90382-bass-cat-learn-to-read-music.json) |
+| Bass Class | 145246 | [145246-bass-class.json](./145246-bass-class.json) |
 | Bass Defense | 309538 | [309538-bass-defense.json](./309538-bass-defense.json) |
 | Bass Fisherman | 298859 | [298859-bass-fisherman.json](./298859-bass-fisherman.json) |
 | Bass Fishing Tatsujin Techou | 282823 | [282823-bass-fishing-tatsujin-techou.json](./282823-bass-fishing-tatsujin-techou.json) |
@@ -1816,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bat to the Heavens | 307210 | [307210-bat-to-the-heavens.json](./307210-bat-to-the-heavens.json) |
 | Bat-L-Blocks | 92616 | [92616-bat-l-blocks.json](./92616-bat-l-blocks.json) |
 | BataGacha! | 121031 | [121031-batagacha.json](./121031-batagacha.json) |
+| Batalia | 145247 | [145247-batalia.json](./145247-batalia.json) |
 | Batalla de Arquitectos | 353307 | [353307-batalla-de-arquitectos.json](./353307-batalla-de-arquitectos.json) |
 | Batbarian: Testament of the Primordials | 139177 | [139177-batbarian-testament-of-the-primordials.json](./139177-batbarian-testament-of-the-primordials.json) |
 | Batch 17 | 75187 | [75187-batch-17.json](./75187-batch-17.json) |
@@ -3140,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetle Junior DS | 92471 | [92471-beetle-junior-ds.json](./92471-beetle-junior-ds.json) |
 | Beetle King | 18540 | [18540-beetle-king.json](./18540-beetle-king.json) |
 | Beetle Nest | 283987 | [283987-beetle-nest.json](./283987-beetle-nest.json) |
+| Beetle Ninja | 145265 | [145265-beetle-ninja.json](./145265-beetle-ninja.json) |
 | Beetle.io | 240338 | [240338-beetle-io.json](./240338-beetle-io.json) |
 | Beetlejuice: Bad as Can | 55287 | [55287-beetlejuice-bad-as-can.json](./55287-beetlejuice-bad-as-can.json) |
 | Beetlejuice: Horrific Hijinx from the Neitherworld! | 80889 | [80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json](./80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json) |
@@ -7524,6 +7529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxhead: A Halloween Special | 373637 | [373637-boxhead-a-halloween-special.json](./373637-boxhead-a-halloween-special.json) |
 | Boxhead: Immortal | 291083 | [291083-boxhead-immortal.json](./291083-boxhead-immortal.json) |
 | Boxigon! | 109656 | [109656-boxigon.json](./109656-boxigon.json) |
+| Boxing | 145238 | [145238-boxing.json](./145238-boxing.json) |
 | Boxing | 230841 | [230841-boxing.json](./230841-boxing.json) |
 | Boxing | 55103 | [55103-boxing.json](./55103-boxing.json) |
 | Boxing | 5663 | [5663-boxing.json](./5663-boxing.json) |
@@ -8134,6 +8140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brewess | 245835 | [245835-brewess.json](./245835-brewess.json) |
 | Brewgether | 406123 | [406123-brewgether.json](./406123-brewgether.json) |
 | Brewing Drawings | 184891 | [184891-brewing-drawings.json](./184891-brewing-drawings.json) |
+| Brewmaster | 145287 | [145287-brewmaster.json](./145287-brewmaster.json) |
 | Brewmastery: Tavern Simulator | 216697 | [216697-brewmastery-tavern-simulator.json](./216697-brewmastery-tavern-simulator.json) |
 | Brewpub Simulator | 213483 | [213483-brewpub-simulator.json](./213483-brewpub-simulator.json) |
 | Brews & Bastards | 265392 | [265392-brews-and-bastards.json](./265392-brews-and-bastards.json) |
