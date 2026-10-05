@@ -3879,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Wolf Saga | 273956 | [273956-lone-wolf-saga.json](./273956-lone-wolf-saga.json) |
 | Lone Wolf: World War 2 | 142264 | [142264-lone-wolf-world-war-2.json](./142264-lone-wolf-world-war-2.json) |
 | lone.AI | 295404 | [295404-lone-ai.json](./295404-lone-ai.json) |
+| Lonefarm | 145916 | [145916-lonefarm.json](./145916-lonefarm.json) |
 | Loneliest Depths | 300391 | [300391-loneliest-depths.json](./300391-loneliest-depths.json) |
 | Loneliness | 139344 | [139344-loneliness.json](./139344-loneliness.json) |
 | Loneliness After: Chapter 1 | 88464 | [88464-loneliness-after-chapter-1.json](./88464-loneliness-after-chapter-1.json) |
@@ -5205,6 +5206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumexa | 151115 | [151115-lumexa.json](./151115-lumexa.json) |
 | Lumi Master | 410215 | [410215-lumi-master.json](./410215-lumi-master.json) |
 | Lumi: Starbound Adventure | 296523 | [296523-lumi-starbound-adventure.json](./296523-lumi-starbound-adventure.json) |
+| Lumia Saga | 145942 | [145942-lumia-saga.json](./145942-lumia-saga.json) |
 | Lumiel the Awakening | 260165 | [260165-lumiel-the-awakening.json](./260165-lumiel-the-awakening.json) |
 | Lumien | 236409 | [236409-lumien.json](./236409-lumien.json) |
 | Lumiere | 415100 | [415100-lumiere.json](./415100-lumiere.json) |
