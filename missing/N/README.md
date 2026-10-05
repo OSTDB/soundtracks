@@ -1752,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Chaos Code (tentative title) | 131549 | [131549-new-chaos-code-tentative-title.json](./131549-new-chaos-code-tentative-title.json) |
 | New Christmas House Hidden Objects | 108450 | [108450-new-christmas-house-hidden-objects.json](./108450-new-christmas-house-hidden-objects.json) |
 | New Club Penguin | 246088 | [246088-new-club-penguin.json](./246088-new-club-penguin.json) |
+| New Colony | 129521 | [129521-new-colony.json](./129521-new-colony.json) |
 | New Dawn | 25819 | [25819-new-dawn.json](./25819-new-dawn.json) |
 | New Day | 244352 | [244352-new-day.json](./244352-new-day.json) |
 | New Dungeons | 268777 | [268777-new-dungeons.json](./268777-new-dungeons.json) |
