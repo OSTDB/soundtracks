@@ -3780,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flambo's Inferno | 196164 | [196164-flambos-inferno.json](./196164-flambos-inferno.json) |
 | Flame Glow | 104805 | [104805-flame-glow.json](./104805-flame-glow.json) |
 | Flame Gunner | 267397 | [267397-flame-gunner.json](./267397-flame-gunner.json) |
+| Flame Keeper | 168698 | [168698-flame-keeper.json](./168698-flame-keeper.json) |
 | Flame Land | 310017 | [310017-flame-land.json](./310017-flame-land.json) |
 | Flame Man | 96014 | [96014-flame-man.json](./96014-flame-man.json) |
 | Flame of Mirrors | 51567 | [51567-flame-of-mirrors.json](./51567-flame-of-mirrors.json) |
@@ -6291,6 +6292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fright Chasers: Director's Cut | 312212 | [312212-fright-chasers-directors-cut.json](./312212-fright-chasers-directors-cut.json) |
 | Fright Chasers: Soul Reaper | 312213 | [312213-fright-chasers-soul-reaper.json](./312213-fright-chasers-soul-reaper.json) |
 | Fright Chasers: Thrills, Chills and Kills | 187905 | [187905-fright-chasers-thrills-chills-and-kills.json](./187905-fright-chasers-thrills-chills-and-kills.json) |
+| Fright Chasers: Thrills, Chills and Kills - Collector's Edition | 168719 | [168719-fright-chasers-thrills-chills-and-kills-collectors-edition.json](./168719-fright-chasers-thrills-chills-and-kills-collectors-edition.json) |
 | Fright Cops | 216459 | [216459-fright-cops.json](./216459-fright-cops.json) |
 | Fright Fight | 61901 | [61901-fright-fight.json](./61901-fright-fight.json) |
 | Fright House | 329352 | [329352-fright-house.json](./329352-fright-house.json) |
