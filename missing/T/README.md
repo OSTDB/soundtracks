@@ -1325,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Zap - Endless game | 44100 | [44100-tap-zap-endless-game.json](./44100-tap-zap-endless-game.json) |
 | Tap Zoo | 343458 | [343458-tap-zoo.json](./343458-tap-zoo.json) |
 | Tap-A-Zombie | 149448 | [149448-tap-a-zombie.json](./149448-tap-a-zombie.json) |
+| Tap-Tap Adventure | 169825 | [169825-tap-tap-adventure.json](./169825-tap-tap-adventure.json) |
 | Tap-Tap Shots | 287090 | [287090-tap-tap-shots.json](./287090-tap-tap-shots.json) |
 | Tap! Dig! My Museum! | 197353 | [197353-tap-dig-my-museum.json](./197353-tap-dig-my-museum.json) |
 | Tap! Tap! Faraway Kingdom | 199936 | [199936-tap-tap-faraway-kingdom.json](./199936-tap-tap-faraway-kingdom.json) |
@@ -4084,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cracks of Fire | 12948 | [12948-the-cracks-of-fire.json](./12948-the-cracks-of-fire.json) |
 | The Cradle | 379018 | [379018-the-cradle.json](./379018-the-cradle.json) |
 | The Craft of the Samurai | 159809 | [159809-the-craft-of-the-samurai.json](./159809-the-craft-of-the-samurai.json) |
+| The Crafter's Defense | 169831 | [169831-the-crafters-defense.json](./169831-the-crafters-defense.json) |
 | The Crafting Dead | 97133 | [97133-the-crafting-dead.json](./97133-the-crafting-dead.json) |
 | The Crane Rider's Tale | 400355 | [400355-the-crane-riders-tale.json](./400355-the-crane-riders-tale.json) |
 | The Crawler | 304159 | [304159-the-crawler.json](./304159-the-crawler.json) |
@@ -4375,6 +4377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day That Changed My Life | 224642 | [224642-the-day-that-changed-my-life.json](./224642-the-day-that-changed-my-life.json) |
 | The Day the World Broke | 7721 | [7721-the-day-the-world-broke.json](./7721-the-day-the-world-broke.json) |
 | The Day the World Changed | 97713 | [97713-the-day-the-world-changed.json](./97713-the-day-the-world-changed.json) |
+| The Day They Came | 169832 | [169832-the-day-they-came.json](./169832-the-day-they-came.json) |
 | The Day We Met was a Regular Day in the Infinitely Looping Highschool, is That Normal? | 192953 | [192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json](./192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json) |
 | The Days Without Gods | 356826 | [356826-the-days-without-gods.json](./356826-the-days-without-gods.json) |
 | The DBK Holiday Special | 261465 | [261465-the-dbk-holiday-special.json](./261465-the-dbk-holiday-special.json) |
@@ -5742,6 +5745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
 | The Hollow Road: Prologue | 399769 | [399769-the-hollow-road-prologue.json](./399769-the-hollow-road-prologue.json) |
 | The Holoween collection | 206123 | [206123-the-holoween-collection.json](./206123-the-holoween-collection.json) |
+| The Holy Silence | 169746 | [169746-the-holy-silence.json](./169746-the-holy-silence.json) |
 | The Homecoming Exhibition | 393019 | [393019-the-homecoming-exhibition.json](./393019-the-homecoming-exhibition.json) |
 | The Homestead | 119567 | [119567-the-homestead.json](./119567-the-homestead.json) |
 | The Homestead Invasion | 81667 | [81667-the-homestead-invasion.json](./81667-the-homestead-invasion.json) |
@@ -5942,6 +5946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredibles: Rise of the Underminer | 3955 | [3955-the-incredibles-rise-of-the-underminer.json](./3955-the-incredibles-rise-of-the-underminer.json) |
 | The Incredibles: When Danger Calls | 18261 | [18261-the-incredibles-when-danger-calls.json](./18261-the-incredibles-when-danger-calls.json) |
 | The Indespensible T_DUNNxx.WAD Series : For Heretic | 268625 | [268625-the-indespensible-t-dunnxx-wad-series-for-heretic.json](./268625-the-indespensible-t-dunnxx-wad-series-for-heretic.json) |
+| The Indestructible Moxy Boxy | 169807 | [169807-the-indestructible-moxy-boxy.json](./169807-the-indestructible-moxy-boxy.json) |
 | The Indian in the Cupboard | 74044 | [74044-the-indian-in-the-cupboard.json](./74044-the-indian-in-the-cupboard.json) |
 | The Indie Dev | 296474 | [296474-the-indie-dev.json](./296474-the-indie-dev.json) |
 | The Indie Mixtape | 35685 | [35685-the-indie-mixtape.json](./35685-the-indie-mixtape.json) |
@@ -6271,6 +6276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King's Side Castle | 418590 | [418590-the-kings-side-castle.json](./418590-the-kings-side-castle.json) |
 | The King's Wish | 270852 | [270852-the-kings-wish.json](./270852-the-kings-wish.json) |
 | The Kingdom of Christmas: Santa's Elves | 328474 | [328474-the-kingdom-of-christmas-santas-elves.json](./328474-the-kingdom-of-christmas-santas-elves.json) |
+| The Kingdom of Galanor | 169837 | [169837-the-kingdom-of-galanor.json](./169837-the-kingdom-of-galanor.json) |
 | The Kingdom of God | 371479 | [371479-the-kingdom-of-god.json](./371479-the-kingdom-of-god.json) |
 | The Kingdoms of Ædloran | 389674 | [389674-the-kingdoms-of-dloran.json](./389674-the-kingdoms-of-dloran.json) |
 | The Kings Crusade: Arabian Nights | 10975 | [10975-the-kings-crusade-arabian-nights.json](./10975-the-kings-crusade-arabian-nights.json) |
@@ -6498,6 +6504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Photon | 33050 | [33050-the-last-photon.json](./33050-the-last-photon.json) |
 | The Last Pirate Adventure: Drake's Treasure | 169404 | [169404-the-last-pirate-adventure-drakes-treasure.json](./169404-the-last-pirate-adventure-drakes-treasure.json) |
 | The Last Pixel | 126408 | [126408-the-last-pixel.json](./126408-the-last-pixel.json) |
+| The Last Place | 169747 | [169747-the-last-place.json](./169747-the-last-place.json) |
 | The Last Plague: Blight | 151579 | [151579-the-last-plague-blight.json](./151579-the-last-plague-blight.json) |
 | The Last Plast | 302126 | [302126-the-last-plast.json](./302126-the-last-plast.json) |
 | The Last Player | 115469 | [115469-the-last-player.json](./115469-the-last-player.json) |
@@ -7036,6 +7043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Loopler | 377087 | [377087-the-loopler.json](./377087-the-loopler.json) |
 | The Lord of Hexa | 288839 | [288839-the-lord-of-hexa.json](./288839-the-lord-of-hexa.json) |
 | The Lord of the Creatures | 137641 | [137641-the-lord-of-the-creatures.json](./137641-the-lord-of-the-creatures.json) |
+| The Lord of the Parties | 169751 | [169751-the-lord-of-the-parties.json](./169751-the-lord-of-the-parties.json) |
 | The Lord of the Parties x Amane Momo | 220627 | [220627-the-lord-of-the-parties-x-amane-momo.json](./220627-the-lord-of-the-parties-x-amane-momo.json) |
 | The Lord of the Parties x Kokonoe Yukari | 235733 | [235733-the-lord-of-the-parties-x-kokonoe-yukari.json](./235733-the-lord-of-the-parties-x-kokonoe-yukari.json) |
 | The Lord of the Parties: AmamaNia | 225185 | [225185-the-lord-of-the-parties-amamania.json](./225185-the-lord-of-the-parties-amamania.json) |
@@ -13135,6 +13143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokage Metro GB | 349947 | [349947-tokage-metro-gb.json](./349947-tokage-metro-gb.json) |
 | Tokatonton: One-Armed Blacksmith | 368606 | [368606-tokatonton-one-armed-blacksmith.json](./368606-tokatonton-one-armed-blacksmith.json) |
 | Tokeijikake no Apocalypse | 222204 | [222204-tokeijikake-no-apocalypse.json](./222204-tokeijikake-no-apocalypse.json) |
+| Token Game | 169753 | [169753-token-game.json](./169753-token-game.json) |
 | Tokens | 394444 | [394444-tokens.json](./394444-tokens.json) |
 | Tokeru Fuuka to Shirousagi | 411105 | [411105-tokeru-fuuka-to-shirousagi.json](./411105-tokeru-fuuka-to-shirousagi.json) |
 | Toki | 12228 | [12228-toki.json](./12228-toki.json) |
@@ -14676,6 +14685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townville, the Show | 132178 | [132178-townville-the-show.json](./132178-townville-the-show.json) |
 | Towny Bar | 325516 | [325516-towny-bar.json](./325516-towny-bar.json) |
 | TowOrbs | 413726 | [413726-toworbs.json](./413726-toworbs.json) |
+| Toxa | 169822 | [169822-toxa.json](./169822-toxa.json) |
 | Toxastra | 132699 | [132699-toxastra.json](./132699-toxastra.json) |
 | Toxic 2 | 97685 | [97685-toxic-2.json](./97685-toxic-2.json) |
 | Toxic Bubbles | 23730 | [23730-toxic-bubbles.json](./23730-toxic-bubbles.json) |
