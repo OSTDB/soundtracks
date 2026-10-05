@@ -3522,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revived | 181728 | [181728-revived.json](./181728-revived.json) |
 | Revived Forest | 203806 | [203806-revived-forest.json](./203806-revived-forest.json) |
 | Revived Souls | 163912 | [163912-revived-souls.json](./163912-revived-souls.json) |
+| Revived Witch | 170356 | [170356-revived-witch.json](./170356-revived-witch.json) |
 | Reviver | 292583 | [292583-reviver.json](./292583-reviver.json) |
 | Reviver: The Real-Time Adventure | 63884 | [63884-reviver-the-real-time-adventure.json](./63884-reviver-the-real-time-adventure.json) |
 | Revline Online | 411689 | [411689-revline-online.json](./411689-revline-online.json) |
