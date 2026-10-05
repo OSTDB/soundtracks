@@ -1556,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CarX Drift Racing 2 | 129793 | [129793-carx-drift-racing-2.json](./129793-carx-drift-racing-2.json) |
 | CarX Drift Racing Online | 51443 | [51443-carx-drift-racing-online.json](./51443-carx-drift-racing-online.json) |
 | CarX Drift Racing Online: Hit the Wall | 199667 | [199667-carx-drift-racing-online-hit-the-wall.json](./199667-carx-drift-racing-online-hit-the-wall.json) |
+| CarX Drift Racing Online: Midnight | 160292 | [160292-carx-drift-racing-online-midnight.json](./160292-carx-drift-racing-online-midnight.json) |
 | CarX Rally | 174851 | [174851-carx-rally.json](./174851-carx-rally.json) |
 | CarX Street | 227960 | [227960-carx-street.json](./227960-carx-street.json) |
 | Casablanca ni Ai wo: Satsujinsha wa Jikuu o Koete | 97461 | [97461-casablanca-ni-ai-wo-satsujinsha-wa-jikuu-o-koete.json](./97461-casablanca-ni-ai-wo-satsujinsha-wa-jikuu-o-koete.json) |
@@ -3734,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Child of Abyss | 167293 | [167293-child-of-abyss.json](./167293-child-of-abyss.json) |
 | Child of Ault | 30196 | [30196-child-of-ault.json](./30196-child-of-ault.json) |
 | Child of Hope | 190228 | [190228-child-of-hope.json](./190228-child-of-hope.json) |
+| Child of Light: Dark Aurora Pack | 160279 | [160279-child-of-light-dark-aurora-pack.json](./160279-child-of-light-dark-aurora-pack.json) |
 | Child of Light: Limited Edition | 166238 | [166238-child-of-light-limited-edition.json](./166238-child-of-light-limited-edition.json) |
 | Child of Light: The Golem's Plight Pack | 170390 | [170390-child-of-light-the-golems-plight-pack.json](./170390-child-of-light-the-golems-plight-pack.json) |
 | Child of Light: Ultimate Edition | 99781 | [99781-child-of-light-ultimate-edition.json](./99781-child-of-light-ultimate-edition.json) |
@@ -5290,6 +5292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Conquest | 331989 | [331989-clicker-conquest.json](./331989-clicker-conquest.json) |
 | Clicker Guild | 30457 | [30457-clicker-guild.json](./30457-clicker-guild.json) |
 | Clicker Heroes | 15563 | [15563-clicker-heroes.json](./15563-clicker-heroes.json) |
+| Clicker Planet: Bluestone Project | 160297 | [160297-clicker-planet-bluestone-project.json](./160297-clicker-planet-bluestone-project.json) |
 | Clicker: Glad Valakas | 112479 | [112479-clicker-glad-valakas.json](./112479-clicker-glad-valakas.json) |
 | Clicker! | 177851 | [177851-clicker.json](./177851-clicker.json) |
 | ClickeRogue | 242547 | [242547-clickerogue.json](./242547-clickerogue.json) |
@@ -9342,6 +9345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossout: Electric beetle | 293760 | [293760-crossout-electric-beetle.json](./293760-crossout-electric-beetle.json) |
 | Crossout: Family Holiday Pack | 226825 | [226825-crossout-family-holiday-pack.json](./226825-crossout-family-holiday-pack.json) |
 | Crossout: Horsemen of Apocalypse - Famine | 331996 | [331996-crossout-horsemen-of-apocalypse-famine.json](./331996-crossout-horsemen-of-apocalypse-famine.json) |
+| Crossout: Horsemen of Apocalypse - War | 160291 | [160291-crossout-horsemen-of-apocalypse-war.json](./160291-crossout-horsemen-of-apocalypse-war.json) |
 | Crossout: Insomnia Pack | 226826 | [226826-crossout-insomnia-pack.json](./226826-crossout-insomnia-pack.json) |
 | Crossout: Iron Shield Pack | 226827 | [226827-crossout-iron-shield-pack.json](./226827-crossout-iron-shield-pack.json) |
 | Crossout: Menace of the Machines | 280454 | [280454-crossout-menace-of-the-machines.json](./280454-crossout-menace-of-the-machines.json) |
@@ -9772,6 +9776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Quest Classic | 32182 | [32182-crystal-quest-classic.json](./32182-crystal-quest-classic.json) |
 | Crystal Raider | 55188 | [55188-crystal-raider.json](./55188-crystal-raider.json) |
 | Crystal Raiders VR | 144178 | [144178-crystal-raiders-vr.json](./144178-crystal-raiders-vr.json) |
+| Crystal Rider | 160210 | [160210-crystal-rider.json](./160210-crystal-rider.json) |
 | Crystal Riders VR | 236393 | [236393-crystal-riders-vr.json](./236393-crystal-riders-vr.json) |
 | Crystal Sequence | 151015 | [151015-crystal-sequence.json](./151015-crystal-sequence.json) |
 | Crystal Soul Chambers | 132257 | [132257-crystal-soul-chambers.json](./132257-crystal-soul-chambers.json) |
