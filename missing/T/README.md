@@ -4613,6 +4613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dive | 166192 | [166192-the-dive.json](./166192-the-dive.json) |
 | The Divide | 190207 | [190207-the-divide.json](./190207-the-divide.json) |
 | The Dividing Line | 308546 | [308546-the-dividing-line.json](./308546-the-dividing-line.json) |
+| The Divine Invasion | 148689 | [148689-the-divine-invasion.json](./148689-the-divine-invasion.json) |
 | The Divine Paradox | 32258 | [32258-the-divine-paradox.json](./32258-the-divine-paradox.json) |
 | The Divine Speaker | 169155 | [169155-the-divine-speaker.json](./169155-the-divine-speaker.json) |
 | The Divine Speaker: The Sun and the Moon | 199563 | [199563-the-divine-speaker-the-sun-and-the-moon.json](./199563-the-divine-speaker-the-sun-and-the-moon.json) |
@@ -14730,6 +14731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toushin Toshi Girls Gift RPG | 175943 | [175943-toushin-toshi-girls-gift-rpg.json](./175943-toushin-toshi-girls-gift-rpg.json) |
 | Tousui Kitan | 97698 | [97698-tousui-kitan.json](./97698-tousui-kitan.json) |
 | Tout Savoir: 3E | 150237 | [150237-tout-savoir-3e.json](./150237-tout-savoir-3e.json) |
+| Tout Savoir: 5E | 148663 | [148663-tout-savoir-5e.json](./148663-tout-savoir-5e.json) |
 | Tout Savoir: CM1 | 147346 | [147346-tout-savoir-cm1.json](./147346-tout-savoir-cm1.json) |
 | Tout Savoir: CM2 | 124105 | [124105-tout-savoir-cm2.json](./124105-tout-savoir-cm2.json) |
 | Touzoku to 1000-biki no Pokémon | 61693 | [61693-touzoku-to-1000-biki-no-pokemon.json](./61693-touzoku-to-1000-biki-no-pokemon.json) |
