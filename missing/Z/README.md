@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zettavolt Trigger | 108051 | [108051-zettavolt-trigger.json](./108051-zettavolt-trigger.json) |
 | Zetton's One Trillion Degree Derby | 395895 | [395895-zettons-one-trillion-degree-derby.json](./395895-zettons-one-trillion-degree-derby.json) |
 | Zeus + Poseidon | 90554 | [90554-zeus-poseidon.json](./90554-zeus-poseidon.json) |
+| Zeus Begins | 120726 | [120726-zeus-begins.json](./120726-zeus-begins.json) |
 | Zeus II: Carnage Heart | 66187 | [66187-zeus-ii-carnage-heart.json](./66187-zeus-ii-carnage-heart.json) |
 | Zeus Quest Remastered | 147435 | [147435-zeus-quest-remastered.json](./147435-zeus-quest-remastered.json) |
 | Zeus Quest Remastered | 32893 | [32893-zeus-quest-remastered.json](./32893-zeus-quest-remastered.json) |
