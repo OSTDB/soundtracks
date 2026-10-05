@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Drift Taxi Car Simulator Ultimate | 251046 | [251046-racing-drift-taxi-car-simulator-ultimate.json](./251046-racing-drift-taxi-car-simulator-ultimate.json) |
 | Racing Empires | 245016 | [245016-racing-empires.json](./245016-racing-empires.json) |
 | Racing Fever | 49352 | [49352-racing-fever.json](./49352-racing-fever.json) |
+| Racing Fighters | 118249 | [118249-racing-fighters.json](./118249-racing-fighters.json) |
 | Racing Game Bundle | 379006 | [379006-racing-game-bundle.json](./379006-racing-game-bundle.json) |
 | Racing Glider | 90681 | [90681-racing-glider.json](./90681-racing-glider.json) |
 | Racing Go | 262380 | [262380-racing-go.json](./262380-racing-go.json) |
@@ -955,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampancy | 408131 | [408131-rampancy.json](./408131-rampancy.json) |
 | Rampart | 341655 | [341655-rampart.json](./341655-rampart.json) |
 | Rampart | 9684 | [9684-rampart.json](./9684-rampart.json) |
+| Rampart Tactics | 118240 | [118240-rampart-tactics.json](./118240-rampart-tactics.json) |
 | Ramparts | 40942 | [40942-ramparts.json](./40942-ramparts.json) |
 | Ramped Up! | 234604 | [234604-ramped-up.json](./234604-ramped-up.json) |
 | Ramsak | 25139 | [25139-ramsak.json](./25139-ramsak.json) |
@@ -3153,6 +3155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Empire II | 16015 | [16015-restaurant-empire-ii.json](./16015-restaurant-empire-ii.json) |
 | Restaurant Island: The Fun Family Game! Manage your staff & expand your gourmet paradise! | 88206 | [88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json](./88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json) |
 | Restaurant Manager Simulator | 211696 | [211696-restaurant-manager-simulator.json](./211696-restaurant-manager-simulator.json) |
+| Restaurant Renovation | 118248 | [118248-restaurant-renovation.json](./118248-restaurant-renovation.json) |
 | Restaurant Simulator | 204072 | [204072-restaurant-simulator.json](./204072-restaurant-simulator.json) |
 | Restaurant Simulator 2023 | 252272 | [252272-restaurant-simulator-2023.json](./252272-restaurant-simulator-2023.json) |
 | Restaurant Solitaire: Delicious Lunch | 188923 | [188923-restaurant-solitaire-delicious-lunch.json](./188923-restaurant-solitaire-delicious-lunch.json) |
@@ -3501,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenggie | 412308 | [412308-revenggie.json](./412308-revenggie.json) |
 | Revenis Prologue 01 | 116336 | [116336-revenis-prologue-01.json](./116336-revenis-prologue-01.json) |
 | Revenot | 144225 | [144225-revenot.json](./144225-revenot.json) |
+| Rever dun Manege | 118211 | [118211-rever-dun-manege.json](./118211-rever-dun-manege.json) |
 | Reverberant | 128619 | [128619-reverberant.json](./128619-reverberant.json) |
 | Reverence | 193732 | [193732-reverence.json](./193732-reverence.json) |
 | Reverend | 339622 | [339622-reverend.json](./339622-reverend.json) |
@@ -6580,6 +6584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rum N' Gold Royale | 306376 | [306376-rum-n-gold-royale.json](./306376-rum-n-gold-royale.json) |
 | Ruma | 274210 | [274210-ruma.json](./274210-ruma.json) |
 | Rumblade | 109269 | [109269-rumblade.json](./109269-rumblade.json) |
+| Rumble Arena | 118228 | [118228-rumble-arena.json](./118228-rumble-arena.json) |
 | Rumble Avenue | 408757 | [408757-rumble-avenue.json](./408757-rumble-avenue.json) |
 | Rumble Box | 71498 | [71498-rumble-box.json](./71498-rumble-box.json) |
 | Rumble City | 60213 | [60213-rumble-city.json](./60213-rumble-city.json) |
