@@ -1069,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gargoyles Remastered | 216282 | [216282-gargoyles-remastered.json](./216282-gargoyles-remastered.json) |
 | Garin Game: Curse of Revival Ceremony | 214747 | [214747-garin-game-curse-of-revival-ceremony.json](./214747-garin-game-curse-of-revival-ceremony.json) |
 | Garland Boy | 327187 | [327187-garland-boy.json](./327187-garland-boy.json) |
+| Garlic | 132685 | [132685-garlic.json](./132685-garlic.json) |
 | Garlock Online | 34785 | [34785-garlock-online.json](./34785-garlock-online.json) |
 | Garmm Adventurer Vol.1 | 276259 | [276259-garmm-adventurer-vol-1.json](./276259-garmm-adventurer-vol-1.json) |
 | Garn47 | 300792 | [300792-garn47.json](./300792-garn47.json) |
@@ -1370,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Jam | 291604 | [291604-gem-jam.json](./291604-gem-jam.json) |
 | Gem Jam | 333732 | [333732-gem-jam.json](./333732-gem-jam.json) |
 | Gem King | 254589 | [254589-gem-king.json](./254589-gem-king.json) |
+| Gem Master | 132581 | [132581-gem-master.json](./132581-gem-master.json) |
 | Gem Miner: Dig Deeper | 296070 | [296070-gem-miner-dig-deeper.json](./296070-gem-miner-dig-deeper.json) |
 | Gem Mining | 223944 | [223944-gem-mining.json](./223944-gem-mining.json) |
 | Gem Monster | 30261 | [30261-gem-monster.json](./30261-gem-monster.json) |
@@ -3355,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Dungeons | 88193 | [88193-golden-dungeons.json](./88193-golden-dungeons.json) |
 | Golden Egg | 219800 | [219800-golden-egg.json](./219800-golden-egg.json) |
 | Golden Eggs | 103158 | [103158-golden-eggs.json](./103158-golden-eggs.json) |
+| Golden Fall 2 | 132600 | [132600-golden-fall-2.json](./132600-golden-fall-2.json) |
 | Golden Farm | 233620 | [233620-golden-farm.json](./233620-golden-farm.json) |
 | Golden Fever | 48009 | [48009-golden-fever.json](./48009-golden-fever.json) |
 | Golden Force | 139960 | [139960-golden-force.json](./139960-golden-force.json) |
@@ -3658,6 +3661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye | 178455 | [178455-goodbye.json](./178455-goodbye.json) |
 | Goodbye Cendrillon | 285991 | [285991-goodbye-cendrillon.json](./285991-goodbye-cendrillon.json) |
 | Goodbye Deponia: Premium Edition | 54069 | [54069-goodbye-deponia-premium-edition.json](./54069-goodbye-deponia-premium-edition.json) |
+| Goodbye Dreaming | 132666 | [132666-goodbye-dreaming.json](./132666-goodbye-dreaming.json) |
 | Goodbye World | 376046 | [376046-goodbye-world.json](./376046-goodbye-world.json) |
 | Goodbye, Doggy | 135905 | [135905-goodbye-doggy.json](./135905-goodbye-doggy.json) |
 | Goodbye, New World | 282642 | [282642-goodbye-new-world.json](./282642-goodbye-new-world.json) |
@@ -5132,6 +5136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groupel | 374057 | [374057-groupel.json](./374057-groupel.json) |
 | Grouphack | 258096 | [258096-grouphack.json](./258096-grouphack.json) |
 | Groups of Seven | 335861 | [335861-groups-of-seven.json](./335861-groups-of-seven.json) |
+| Groupthink | 132576 | [132576-groupthink.json](./132576-groupthink.json) |
 | Grove Island | 219162 | [219162-grove-island.json](./219162-grove-island.json) |
 | Grove: Nostalgia's End | 192952 | [192952-grove-nostalgias-end.json](./192952-grove-nostalgias-end.json) |
 | Grover's Travels | 333206 | [333206-grovers-travels.json](./333206-grovers-travels.json) |
