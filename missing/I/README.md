@@ -2044,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InfiniPicross 2.0: 100 Medium Puzzles | 163425 | [163425-infinipicross-2-0-100-medium-puzzles.json](./163425-infinipicross-2-0-100-medium-puzzles.json) |
 | InfiniPicross 2.0: Halloween | 220028 | [220028-infinipicross-2-0-halloween.json](./220028-infinipicross-2-0-halloween.json) |
 | InfiniPicross 3 | 251807 | [251807-infinipicross-3.json](./251807-infinipicross-3.json) |
+| Infiniroom | 120229 | [120229-infiniroom.json](./120229-infiniroom.json) |
 | Infinita Strada | 61682 | [61682-infinita-strada.json](./61682-infinita-strada.json) |
 | Infinite Backrooms | 405531 | [405531-infinite-backrooms.json](./405531-infinite-backrooms.json) |
 | Infinite Ball Well | 384513 | [384513-infinite-ball-well.json](./384513-infinite-ball-well.json) |
