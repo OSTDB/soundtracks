@@ -2492,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Grotto | 34661 | [34661-nightmare-grotto.json](./34661-nightmare-grotto.json) |
 | Nightmare Halls | 335438 | [335438-nightmare-halls.json](./335438-nightmare-halls.json) |
 | Nightmare Hospital | 405728 | [405728-nightmare-hospital.json](./405728-nightmare-hospital.json) |
+| Nightmare House | 144610 | [144610-nightmare-house.json](./144610-nightmare-house.json) |
 | Nightmare House | 290474 | [290474-nightmare-house.json](./290474-nightmare-house.json) |
 | Nightmare House: Reimagined | 314427 | [314427-nightmare-house-reimagined.json](./314427-nightmare-house-reimagined.json) |
 | Nightmare House: The Original Mod | 321582 | [321582-nightmare-house-the-original-mod.json](./321582-nightmare-house-the-original-mod.json) |
