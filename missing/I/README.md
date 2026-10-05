@@ -2388,6 +2388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ino | 27691 | [27691-ino.json](./27691-ino.json) |
 | Inokan | 179525 | [179525-inokan.json](./179525-inokan.json) |
 | InoLab Trials | 320326 | [320326-inolab-trials.json](./320326-inolab-trials.json) |
+| Inomushi Goro Goro | 138520 | [138520-inomushi-goro-goro.json](./138520-inomushi-goro-goro.json) |
 | Inops | 114177 | [114177-inops.json](./114177-inops.json) |
 | Inorikaze | 113724 | [113724-inorikaze.json](./113724-inorikaze.json) |
 | Inoue Mami: Kono Hoshi ni Tatta Hitori no Kimi | 222333 | [222333-inoue-mami-kono-hoshi-ni-tatta-hitori-no-kimi.json](./222333-inoue-mami-kono-hoshi-ni-tatta-hitori-no-kimi.json) |
@@ -3324,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iskelonia | 290489 | [290489-iskelonia.json](./290489-iskelonia.json) |
 | iSketch | 143375 | [143375-isketch.json](./143375-isketch.json) |
 | Iskhaar3D | 285524 | [285524-iskhaar3d.json](./285524-iskhaar3d.json) |
+| Iskib | 138526 | [138526-iskib.json](./138526-iskib.json) |
 | Isla de la Muerte | 399734 | [399734-isla-de-la-muerte.json](./399734-isla-de-la-muerte.json) |
 | Isla Dorada: Episode 1 - The Sands of Ephranis | 210046 | [210046-isla-dorada-episode-1-the-sands-of-ephranis.json](./210046-isla-dorada-episode-1-the-sands-of-ephranis.json) |
 | Isla Mosa Adventure: The Secret of the Southern Capital | 265606 | [265606-isla-mosa-adventure-the-secret-of-the-southern-capital.json](./265606-isla-mosa-adventure-the-secret-of-the-southern-capital.json) |
