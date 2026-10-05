@@ -9795,6 +9795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk Diver: Special Limited Edition | 167119 | [167119-dusk-diver-special-limited-edition.json](./167119-dusk-diver-special-limited-edition.json) |
 | Dusk Golem's Anthology of Horror | 124193 | [124193-dusk-golems-anthology-of-horror.json](./124193-dusk-golems-anthology-of-horror.json) |
 | Dusk of the Cage | 237949 | [237949-dusk-of-the-cage.json](./237949-dusk-of-the-cage.json) |
+| Dusk of the wasteland age | 163351 | [163351-dusk-of-the-wasteland-age.json](./163351-dusk-of-the-wasteland-age.json) |
 | Dusk Park | 400854 | [400854-dusk-park.json](./400854-dusk-park.json) |
 | Dusk Pub | 224771 | [224771-dusk-pub.json](./224771-dusk-pub.json) |
 | Dusk Shrouded | 295491 | [295491-dusk-shrouded.json](./295491-dusk-shrouded.json) |
