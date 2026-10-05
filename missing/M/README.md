@@ -3254,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Payne: Kung Fu Edition v3 | 24085 | [24085-max-payne-kung-fu-edition-v3.json](./24085-max-payne-kung-fu-edition-v3.json) |
 | Max Raider | 171423 | [171423-max-raider.json](./171423-max-raider.json) |
 | Max Reloaded II | 146798 | [146798-max-reloaded-ii.json](./146798-max-reloaded-ii.json) |
+| Max Resistance | 146545 | [146545-max-resistance.json](./146545-max-resistance.json) |
 | Max Savage | 398489 | [398489-max-savage.json](./398489-max-savage.json) |
 | Max Speed | 409543 | [409543-max-speed.json](./409543-max-speed.json) |
 | Max Steel: Laptop Bilíngue Power | 294463 | [294463-max-steel-laptop-bilingue-power.json](./294463-max-steel-laptop-bilingue-power.json) |
@@ -5030,6 +5031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Secrets10-First Crush in high school | 95877 | [95877-mermaid-secrets10-first-crush-in-high-school.json](./95877-mermaid-secrets10-first-crush-in-high-school.json) |
 | Mermaid Secrets14 - Prison Escape | 104465 | [104465-mermaid-secrets14-prison-escape.json](./104465-mermaid-secrets14-prison-escape.json) |
 | Mermaid Spa & Makeover | 90733 | [90733-mermaid-spa-and-makeover.json](./90733-mermaid-spa-and-makeover.json) |
+| Mermaid Splash! | 146522 | [146522-mermaid-splash.json](./146522-mermaid-splash.json) |
 | Mermaid Stories: Book 1 - The Lost Gift | 339377 | [339377-mermaid-stories-book-1-the-lost-gift.json](./339377-mermaid-stories-book-1-the-lost-gift.json) |
 | Mermaid Story | 219289 | [219289-mermaid-story.json](./219289-mermaid-story.json) |
 | Mermaid Swamp | 287635 | [287635-mermaid-swamp.json](./287635-mermaid-swamp.json) |
@@ -7726,6 +7728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mocaverse | 244773 | [244773-mocaverse.json](./244773-mocaverse.json) |
 | Moccoletti | 302381 | [302381-moccoletti.json](./302381-moccoletti.json) |
 | Mochi Conquest | 376004 | [376004-mochi-conquest.json](./376004-mochi-conquest.json) |
+| Mochi in Frosting | 146518 | [146518-mochi-in-frosting.json](./146518-mochi-in-frosting.json) |
 | Mochi Mochi Boy | 112709 | [112709-mochi-mochi-boy.json](./112709-mochi-mochi-boy.json) |
 | Mochi Word Puzzles | 100881 | [100881-mochi-word-puzzles.json](./100881-mochi-word-puzzles.json) |
 | Mochi-O | 339988 | [339988-mochi-o.json](./339988-mochi-o.json) |
@@ -10522,6 +10525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutants Of Mist | 285964 | [285964-mutants-of-mist.json](./285964-mutants-of-mist.json) |
 | Mutants: Genesis | 220144 | [220144-mutants-genesis.json](./220144-mutants-genesis.json) |
 | Mutate! Fight! Purr! | 381640 | [381640-mutate-fight-purr.json](./381640-mutate-fight-purr.json) |
+| Mutation | 146539 | [146539-mutation.json](./146539-mutation.json) |
 | Mutation Madness | 264690 | [264690-mutation-madness.json](./264690-mutation-madness.json) |
 | Mutation Mayhem | 102914 | [102914-mutation-mayhem.json](./102914-mutation-mayhem.json) |
 | Mutation Nation | 39522 | [39522-mutation-nation.json](./39522-mutation-nation.json) |
@@ -10609,6 +10613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Arctic Farm 2018 | 114523 | [114523-my-arctic-farm-2018.json](./114523-my-arctic-farm-2018.json) |
 | My Array is Too Sacred to Be Useful!? | 194595 | [194595-my-array-is-too-sacred-to-be-useful.json](./194595-my-array-is-too-sacred-to-be-useful.json) |
 | My Assassin High School | 208284 | [208284-my-assassin-high-school.json](./208284-my-assassin-high-school.json) |
+| My Aunt is a Witch | 146548 | [146548-my-aunt-is-a-witch.json](./146548-my-aunt-is-a-witch.json) |
 | My Baby 3 & Friends | 48041 | [48041-my-baby-3-and-friends.json](./48041-my-baby-3-and-friends.json) |
 | My Baby Girl | 47976 | [47976-my-baby-girl.json](./47976-my-baby-girl.json) |
 | My Baby Unicorn | 243752 | [243752-my-baby-unicorn.json](./243752-my-baby-unicorn.json) |
