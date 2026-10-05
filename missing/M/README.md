@@ -3217,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Payne 2 | 196252 | [196252-max-payne-2.json](./196252-max-payne-2.json) |
 | Max Payne 2: Mona the Assassin | 320154 | [320154-max-payne-2-mona-the-assassin.json](./320154-max-payne-2-mona-the-assassin.json) |
 | Max Payne: Kung Fu Edition v3 | 24085 | [24085-max-payne-kung-fu-edition-v3.json](./24085-max-payne-kung-fu-edition-v3.json) |
+| Max Raider | 171423 | [171423-max-raider.json](./171423-max-raider.json) |
 | Max Reloaded II | 146798 | [146798-max-reloaded-ii.json](./146798-max-reloaded-ii.json) |
 | Max Savage | 398489 | [398489-max-savage.json](./398489-max-savage.json) |
 | Max Speed | 409543 | [409543-max-speed.json](./409543-max-speed.json) |
@@ -3765,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Adventure | 366264 | [366264-medieval-adventure.json](./366264-medieval-adventure.json) |
 | Medieval and Secrets | 232439 | [232439-medieval-and-secrets.json](./232439-medieval-and-secrets.json) |
 | Medieval Archer Simulator | 348240 | [348240-medieval-archer-simulator.json](./348240-medieval-archer-simulator.json) |
+| Medieval Archery Simulator | 171443 | [171443-medieval-archery-simulator.json](./171443-medieval-archery-simulator.json) |
 | Medieval Battlefields: Black Edition | 33081 | [33081-medieval-battlefields-black-edition.json](./33081-medieval-battlefields-black-edition.json) |
 | Medieval Battlegrounds | 188669 | [188669-medieval-battlegrounds.json](./188669-medieval-battlegrounds.json) |
 | Medieval Builders: Strongholds & Castles | 236908 | [236908-medieval-builders-strongholds-and-castles.json](./236908-medieval-builders-strongholds-and-castles.json) |
@@ -6632,6 +6634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Ultimate | 167815 | [167815-minesweeper-ultimate.json](./167815-minesweeper-ultimate.json) |
 | MineSweeper VR | 31617 | [31617-minesweeper-vr.json](./31617-minesweeper-vr.json) |
 | Minesweeper X | 87547 | [87547-minesweeper-x.json](./87547-minesweeper-x.json) |
+| Minesweeper: Collector | 171440 | [171440-minesweeper-collector.json](./171440-minesweeper-collector.json) |
 | Minesweeper: The Clean One | 180245 | [180245-minesweeper-the-clean-one.json](./180245-minesweeper-the-clean-one.json) |
 | Mineswifter | 138189 | [138189-mineswifter.json](./138189-mineswifter.json) |
 | Míngjiào Fēngyún zhī Jiǔ Yīn Jiǔ Yáng | 155014 | [155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json](./155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json) |
@@ -7497,6 +7500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mó Xiān Cǎihóng Qiú | 359473 | [359473-mo-xian-caihong-qiu.json](./359473-mo-xian-caihong-qiu.json) |
 | Mó Xiān Duì Duì Pèng | 359472 | [359472-mo-xian-dui-dui-peng.json](./359472-mo-xian-dui-dui-peng.json) |
 | Moadra | 190169 | [190169-moadra.json](./190169-moadra.json) |
+| Moai 7: Mystery Coast | 171437 | [171437-moai-7-mystery-coast.json](./171437-moai-7-mystery-coast.json) |
 | Moai Alley | 332802 | [332802-moai-alley.json](./332802-moai-alley.json) |
 | Moai III: Trade Mission - Collector's Edition | 53382 | [53382-moai-iii-trade-mission-collectors-edition.json](./53382-moai-iii-trade-mission-collectors-edition.json) |
 | Moai IV: Terra Incognita | 53381 | [53381-moai-iv-terra-incognita.json](./53381-moai-iv-terra-incognita.json) |
@@ -7989,6 +7993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monigote Fantasy | 184971 | [184971-monigote-fantasy.json](./184971-monigote-fantasy.json) |
 | Monishiri Quiz Taiko no Kyouryuu | 276466 | [276466-monishiri-quiz-taiko-no-kyouryuu.json](./276466-monishiri-quiz-taiko-no-kyouryuu.json) |
 | Monitor Puzzle Kineko: Kinetic Connection Vol. II | 41403 | [41403-monitor-puzzle-kineko-kinetic-connection-vol-ii.json](./41403-monitor-puzzle-kineko-kinetic-connection-vol-ii.json) |
+| Monitor: The Game - Alix: A Monitor Story | 171352 | [171352-monitor-the-game-alix-a-monitor-story.json](./171352-monitor-the-game-alix-a-monitor-story.json) |
 | Monitoring All Night | 328274 | [328274-monitoring-all-night.json](./328274-monitoring-all-night.json) |
 | Monji | 407448 | [407448-monji.json](./407448-monji.json) |
 | Monk & The Misfit Monsters | 413622 | [413622-monk-and-the-misfit-monsters.json](./413622-monk-and-the-misfit-monsters.json) |
@@ -11558,6 +11563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythlands: Dragon Flight VR | 214178 | [214178-mythlands-dragon-flight-vr.json](./214178-mythlands-dragon-flight-vr.json) |
 | Mythlink | 28881 | [28881-mythlink.json](./28881-mythlink.json) |
 | Mython Island | 141840 | [141840-mython-island.json](./141840-mython-island.json) |
+| Mythos Ever After: A Cthulhu Dating Sim | 171431 | [171431-mythos-ever-after-a-cthulhu-dating-sim.json](./171431-mythos-ever-after-a-cthulhu-dating-sim.json) |
 | Mythos Interactive Game Collection | 341355 | [341355-mythos-interactive-game-collection.json](./341355-mythos-interactive-game-collection.json) |
 | Mythos Party | 153961 | [153961-mythos-party.json](./153961-mythos-party.json) |
 | Mythos: Book One | 344543 | [344543-mythos-book-one.json](./344543-mythos-book-one.json) |
