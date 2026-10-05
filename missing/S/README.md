@@ -6162,6 +6162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Lovelot | 132982 | [132982-sir-lovelot.json](./132982-sir-lovelot.json) |
 | Sir Noggin | 376556 | [376556-sir-noggin.json](./376556-sir-noggin.json) |
 | Sir Stretchalot: The Plight of the Elves | 216227 | [216227-sir-stretchalot-the-plight-of-the-elves.json](./216227-sir-stretchalot-the-plight-of-the-elves.json) |
+| Sir War-A-Lot | 158093 | [158093-sir-war-a-lot.json](./158093-sir-war-a-lot.json) |
 | Sir Whoopass & Switchball HD Bundle | 244792 | [244792-sir-whoopass-and-switchball-hd-bundle.json](./244792-sir-whoopass-and-switchball-hd-bundle.json) |
 | Sir! I'd Like to Report a Bug! | 34702 | [34702-sir-id-like-to-report-a-bug.json](./34702-sir-id-like-to-report-a-bug.json) |
 | Sir'Haxxx | 385709 | [385709-sirhaxxx.json](./385709-sirhaxxx.json) |
@@ -13897,6 +13898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | STED: Iseki Wakusei no Yabou | 48703 | [48703-sted-iseki-wakusei-no-yabou.json](./48703-sted-iseki-wakusei-no-yabou.json) |
 | Steel | 329915 | [329915-steel.json](./329915-steel.json) |
 | Steel | 74310 | [74310-steel.json](./74310-steel.json) |
+| Steel & Bone | 157984 | [157984-steel-and-bone.json](./157984-steel-and-bone.json) |
 | Steel & Steam: Episode 1 | 10927 | [10927-steel-and-steam-episode-1.json](./10927-steel-and-steam-episode-1.json) |
 | Steel and Flesh | 174850 | [174850-steel-and-flesh.json](./174850-steel-and-flesh.json) |
 | Steel Arena: Robot War | 90080 | [90080-steel-arena-robot-war.json](./90080-steel-arena-robot-war.json) |
@@ -18808,6 +18810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swiper | 240190 | [240190-swiper.json](./240190-swiper.json) |
 | Swiper's Big Adventure | 299289 | [299289-swipers-big-adventure.json](./299289-swipers-big-adventure.json) |
 | Swipey Maze | 233085 | [233085-swipey-maze.json](./233085-swipey-maze.json) |
+| Swire Future | 158125 | [158125-swire-future.json](./158125-swire-future.json) |
 | Swish Ball Clicker | 405591 | [405591-swish-ball-clicker.json](./405591-swish-ball-clicker.json) |
 | Swiss Alps Jigsaw Puzzles | 158529 | [158529-swiss-alps-jigsaw-puzzles.json](./158529-swiss-alps-jigsaw-puzzles.json) |
 | Swiss Family Robinson | 7732 | [7732-swiss-family-robinson.json](./7732-swiss-family-robinson.json) |
