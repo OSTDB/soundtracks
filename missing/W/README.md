@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wardens of Chaos | 288477 | [288477-wardens-of-chaos.json](./288477-wardens-of-chaos.json) |
 | Wardens of the Amber Cage | 103477 | [103477-wardens-of-the-amber-cage.json](./103477-wardens-of-the-amber-cage.json) |
 | WarDevil: Unleash the Beast Within | 72988 | [72988-wardevil-unleash-the-beast-within.json](./72988-wardevil-unleash-the-beast-within.json) |
+| Wardialler | 118141 | [118141-wardialler.json](./118141-wardialler.json) |
 | Warding Witches | 335253 | [335253-warding-witches.json](./335253-warding-witches.json) |
 | Wardogs | 388285 | [388285-wardogs.json](./388285-wardogs.json) |
 | Wardogz | 215668 | [215668-wardogz.json](./215668-wardogz.json) |
@@ -1822,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Amsoft Side B | 39129 | [39129-welcome-to-amsoft-side-b.json](./39129-welcome-to-amsoft-side-b.json) |
 | Welcome to Bulletheck | 298784 | [298784-welcome-to-bulletheck.json](./298784-welcome-to-bulletheck.json) |
 | Welcome to Bunny Farm | 338385 | [338385-welcome-to-bunny-farm.json](./338385-welcome-to-bunny-farm.json) |
+| Welcome to Cathouse | 118236 | [118236-welcome-to-cathouse.json](./118236-welcome-to-cathouse.json) |
 | Welcome To Chichester OVN 3: The Mysterious Affair at the Violet Hotel | 132264 | [132264-welcome-to-chichester-ovn-3-the-mysterious-affair-at-the-violet-hotel.json](./132264-welcome-to-chichester-ovn-3-the-mysterious-affair-at-the-violet-hotel.json) |
 | Welcome to Chornobayivka VR | 211275 | [211275-welcome-to-chornobayivka-vr.json](./211275-welcome-to-chornobayivka-vr.json) |
 | Welcome to Elderfield | 319629 | [319629-welcome-to-elderfield.json](./319629-welcome-to-elderfield.json) |
@@ -2923,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Times | 149221 | [149221-wild-times.json](./149221-wild-times.json) |
 | Wild Tower | 373740 | [373740-wild-tower.json](./373740-wild-tower.json) |
 | Wild Turkey Hunt | 95453 | [95453-wild-turkey-hunt.json](./95453-wild-turkey-hunt.json) |
+| Wild Varmint Bounty Hunter | 118220 | [118220-wild-varmint-bounty-hunter.json](./118220-wild-varmint-bounty-hunter.json) |
 | Wild Warfare | 17598 | [17598-wild-warfare.json](./17598-wild-warfare.json) |
 | Wild Web | 359553 | [359553-wild-web.json](./359553-wild-web.json) |
 | Wild West | 215648 | [215648-wild-west.json](./215648-wild-west.json) |
@@ -4040,6 +4043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood Puzzle | 208942 | [208942-wood-puzzle.json](./208942-wood-puzzle.json) |
 | Wood Walker | 395874 | [395874-wood-walker.json](./395874-wood-walker.json) |
 | Wood'N'Destroy | 396367 | [396367-woodndestroy.json](./396367-woodndestroy.json) |
+| Woodboy | 118241 | [118241-woodboy.json](./118241-woodboy.json) |
 | Woodclicker | 101929 | [101929-woodclicker.json](./101929-woodclicker.json) |
 | Woodcutter Simulator 2011 | 52132 | [52132-woodcutter-simulator-2011.json](./52132-woodcutter-simulator-2011.json) |
 | Woodcutter Simulator 2012 | 52131 | [52131-woodcutter-simulator-2012.json](./52131-woodcutter-simulator-2012.json) |
