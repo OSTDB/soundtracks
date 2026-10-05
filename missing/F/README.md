@@ -2529,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Vipers | 39471 | [39471-fighting-vipers.json](./39471-fighting-vipers.json) |
 | Fighting Zombie | 196558 | [196558-fighting-zombie.json](./196558-fighting-zombie.json) |
 | FightingChicken | 309675 | [309675-fightingchicken.json](./309675-fightingchicken.json) |
+| Fightmons | 120224 | [120224-fightmons.json](./120224-fightmons.json) |
 | Fights in Tight Spaces: Complete Edition | 270309 | [270309-fights-in-tight-spaces-complete-edition.json](./270309-fights-in-tight-spaces-complete-edition.json) |
 | Fights in Tight Spaces: K9 Division | 370251 | [370251-fights-in-tight-spaces-k9-division.json](./370251-fights-in-tight-spaces-k9-division.json) |
 | Fights in Tight Spaces: Weapon of Choice | 261775 | [261775-fights-in-tight-spaces-weapon-of-choice.json](./261775-fights-in-tight-spaces-weapon-of-choice.json) |
@@ -3598,6 +3599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist Hell | 318602 | [318602-fist-hell.json](./318602-fist-hell.json) |
 | Fist of Awesome | 17501 | [17501-fist-of-awesome.json](./17501-fist-of-awesome.json) |
 | Fist of Brave | 86231 | [86231-fist-of-brave.json](./86231-fist-of-brave.json) |
+| Fist of Heaven & Hell | 120117 | [120117-fist-of-heaven-and-hell.json](./120117-fist-of-heaven-and-hell.json) |
 | Fist of the North Star | 172517 | [172517-fist-of-the-north-star.json](./172517-fist-of-the-north-star.json) |
 | Fist of the North Star | 215174 | [215174-fist-of-the-north-star.json](./215174-fist-of-the-north-star.json) |
 | Fist of the North Star Legends Revive | 120171 | [120171-fist-of-the-north-star-legends-revive.json](./120171-fist-of-the-north-star-legends-revive.json) |
@@ -4638,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Saucer | 358845 | [358845-flying-saucer.json](./358845-flying-saucer.json) |
 | Flying Saucer | 73751 | [73751-flying-saucer.json](./73751-flying-saucer.json) |
 | Flying Shot | 127766 | [127766-flying-shot.json](./127766-flying-shot.json) |
+| Flying Slime! | 120137 | [120137-flying-slime.json](./120137-flying-slime.json) |
 | Flying Soldiers | 146863 | [146863-flying-soldiers.json](./146863-flying-soldiers.json) |
 | Flying Squadron | 43889 | [43889-flying-squadron.json](./43889-flying-squadron.json) |
 | Flying Stunt Simulator | 278156 | [278156-flying-stunt-simulator.json](./278156-flying-stunt-simulator.json) |
@@ -5231,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forge of Empires | 62923 | [62923-forge-of-empires.json](./62923-forge-of-empires.json) |
 | Forge of Freedom: The American Civil War 1861-1865 | 230545 | [230545-forge-of-freedom-the-american-civil-war-1861-1865.json](./230545-forge-of-freedom-the-american-civil-war-1861-1865.json) |
 | Forge of Neon 3D | 90350 | [90350-forge-of-neon-3d.json](./90350-forge-of-neon-3d.json) |
+| Forge of Titans | 120223 | [120223-forge-of-titans.json](./120223-forge-of-titans.json) |
 | Forge Quest | 16652 | [16652-forge-quest.json](./16652-forge-quest.json) |
 | Forge the Fates | 361765 | [361765-forge-the-fates.json](./361765-forge-the-fates.json) |
 | Forgebeast | 244506 | [244506-forgebeast.json](./244506-forgebeast.json) |
@@ -5450,6 +5454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsan El Majd | 316820 | [316820-forsan-el-majd.json](./316820-forsan-el-majd.json) |
 | Forsisted: The Sacred Souls | 274569 | [274569-forsisted-the-sacred-souls.json](./274569-forsisted-the-sacred-souls.json) |
 | Forsworn | 334316 | [334316-forsworn.json](./334316-forsworn.json) |
+| Fort | 120142 | [120142-fort.json](./120142-fort.json) |
 | Fort Apache | 132816 | [132816-fort-apache.json](./132816-fort-apache.json) |
 | Fort Apocalypse | 13850 | [13850-fort-apocalypse.json](./13850-fort-apocalypse.json) |
 | Fort Apocalypse II | 47202 | [47202-fort-apocalypse-ii.json](./47202-fort-apocalypse-ii.json) |
