@@ -5694,6 +5694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blok Shot VR | 309608 | [309608-blok-shot-vr.json](./309608-blok-shot-vr.json) |
 | Blokdodge | 68327 | [68327-blokdodge.json](./68327-blokdodge.json) |
 | Blokdoku | 315827 | [315827-blokdoku.json](./315827-blokdoku.json) |
+| Blokers | 159192 | [159192-blokers.json](./159192-blokers.json) |
 | Bloki | 276965 | [276965-bloki.json](./276965-bloki.json) |
 | Blokin | 111633 | [111633-blokin.json](./111633-blokin.json) |
 | Blokker | 156585 | [156585-blokker.json](./156585-blokker.json) |
@@ -8942,6 +8943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buissons | 123543 | [123543-buissons.json](./123543-buissons.json) |
 | Bujingai: The Forsaken City | 19413 | [19413-bujingai-the-forsaken-city.json](./19413-bujingai-the-forsaken-city.json) |
 | Buka | 96028 | [96028-buka.json](./96028-buka.json) |
+| Bukkaku | 159186 | [159186-bukkaku.json](./159186-bukkaku.json) |
 | Buku Sudoku | 74407 | [74407-buku-sudoku.json](./74407-buku-sudoku.json) |
 | Buku Sudoku Mahjongg Kakuro | 206693 | [206693-buku-sudoku-mahjongg-kakuro.json](./206693-buku-sudoku-mahjongg-kakuro.json) |
 | Bul Bakalım | 241468 | [241468-bul-bakal-m.json](./241468-bul-bakal-m.json) |
