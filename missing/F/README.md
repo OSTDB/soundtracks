@@ -1663,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Slash | 390785 | [390785-fatal-slash.json](./390785-fatal-slash.json) |
 | Fatal Theory | 34681 | [34681-fatal-theory.json](./34681-fatal-theory.json) |
 | Fatal Twelve | 28801 | [28801-fatal-twelve.json](./28801-fatal-twelve.json) |
+| Fatal Twelve: Complete Collection | 154617 | [154617-fatal-twelve-complete-collection.json](./154617-fatal-twelve-complete-collection.json) |
 | Fatal Velocity: Physics Combat | 74439 | [74439-fatal-velocity-physics-combat.json](./74439-fatal-velocity-physics-combat.json) |
 | Fatal: Unleashed Darkness | 348261 | [348261-fatal-unleashed-darkness.json](./348261-fatal-unleashed-darkness.json) |
 | Fatberg | 382298 | [382298-fatberg.json](./382298-fatberg.json) |
@@ -5883,6 +5884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragrant Story and Papaya's Path | 315832 | [315832-fragrant-story-and-papayas-path.json](./315832-fragrant-story-and-papayas-path.json) |
 | Fragrant Story: Papaya's Path | 280862 | [280862-fragrant-story-papayas-path.json](./280862-fragrant-story-papayas-path.json) |
 | Fragroom: Defenders | 190094 | [190094-fragroom-defenders.json](./190094-fragroom-defenders.json) |
+| Frail Faces | 154586 | [154586-frail-faces.json](./154586-frail-faces.json) |
 | Frak | 257472 | [257472-frak.json](./257472-frak.json) |
 | Frak | 350484 | [350484-frak.json](./350484-frak.json) |
 | Frak! | 91894 | [91894-frak.json](./91894-frak.json) |
