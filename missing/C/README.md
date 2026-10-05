@@ -9598,6 +9598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crownfall: Young Hero | 373649 | [373649-crownfall-young-hero.json](./373649-crownfall-young-hero.json) |
 | Crowning Calamity | 284332 | [284332-crowning-calamity.json](./284332-crowning-calamity.json) |
 | Crownrats | 410243 | [410243-crownrats.json](./410243-crownrats.json) |
+| Crowns of Power | 138544 | [138544-crowns-of-power.json](./138544-crowns-of-power.json) |
 | Crowntakers | 10070 | [10070-crowntakers.json](./10070-crowntakers.json) |
 | Crows | 103426 | [103426-crows.json](./103426-crows.json) |
 | Crows Coming | 245018 | [245018-crows-coming.json](./245018-crows-coming.json) |
@@ -10365,6 +10366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Currents | 305316 | [305316-currents.json](./305316-currents.json) |
 | Curro | 200468 | [200468-curro.json](./200468-curro.json) |
 | Curro Jimenez | 272298 | [272298-curro-jimenez.json](./272298-curro-jimenez.json) |
+| Curry House CoCo Ichibanya: Kyou mo Genki da! Curry ga Umai!! | 138550 | [138550-curry-house-coco-ichibanya-kyou-mo-genki-da-curry-ga-umai.json](./138550-curry-house-coco-ichibanya-kyou-mo-genki-da-curry-ga-umai.json) |
 | CurryKitten FPV Simulator | 169443 | [169443-currykitten-fpv-simulator.json](./169443-currykitten-fpv-simulator.json) |
 | Curse Ahoy! | 176305 | [176305-curse-ahoy.json](./176305-curse-ahoy.json) |
 | Curse Chapter: Dawnthief | 382365 | [382365-curse-chapter-dawnthief.json](./382365-curse-chapter-dawnthief.json) |
