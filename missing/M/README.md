@@ -3638,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Party | 286043 | [286043-mecha-party.json](./286043-mecha-party.json) |
 | Mecha Ritz: Steel Rondo 2.0 | 229042 | [229042-mecha-ritz-steel-rondo-2-0.json](./229042-mecha-ritz-steel-rondo-2-0.json) |
 | Mecha Royale Online | 104212 | [104212-mecha-royale-online.json](./104212-mecha-royale-online.json) |
+| Mecha Snake | 148130 | [148130-mecha-snake.json](./148130-mecha-snake.json) |
 | Mecha Storm | 102747 | [102747-mecha-storm.json](./102747-mecha-storm.json) |
 | Mecha Tactics | 154392 | [154392-mecha-tactics.json](./154392-mecha-tactics.json) |
 | Mecha's Negotiations | 363915 | [363915-mechas-negotiations.json](./363915-mechas-negotiations.json) |
@@ -6561,6 +6562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: James Web Space Telescope | 322959 | [322959-minecraft-james-web-space-telescope.json](./322959-minecraft-james-web-space-telescope.json) |
 | Minecraft: Java & Bedrock Edition | 204910 | [204910-minecraft-java-and-bedrock-edition.json](./204910-minecraft-java-and-bedrock-edition.json) |
 | MInecraft: Journey to the Great Shiai | 332583 | [332583-minecraft-journey-to-the-great-shiai.json](./332583-minecraft-journey-to-the-great-shiai.json) |
+| Minecraft: Jurassic World | 148125 | [148125-minecraft-jurassic-world.json](./148125-minecraft-jurassic-world.json) |
 | Minecraft: Jurassic World Adventures | 285053 | [285053-minecraft-jurassic-world-adventures.json](./285053-minecraft-jurassic-world-adventures.json) |
 | Minecraft: Kung Fu Panda | 299203 | [299203-minecraft-kung-fu-panda.json](./299203-minecraft-kung-fu-panda.json) |
 | Minecraft: Legends | 204621 | [204621-minecraft-legends.json](./204621-minecraft-legends.json) |
@@ -8590,6 +8592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster TD | 405047 | [405047-monster-td.json](./405047-monster-td.json) |
 | Monster Tower | 348775 | [348775-monster-tower.json](./348775-monster-tower.json) |
 | Monster Tower | 388363 | [388363-monster-tower.json](./388363-monster-tower.json) |
+| Monster Train: The Last Divinity | 148116 | [148116-monster-train-the-last-divinity.json](./148116-monster-train-the-last-divinity.json) |
 | Monster Trampoline | 113477 | [113477-monster-trampoline.json](./113477-monster-trampoline.json) |
 | Monster Trivia | 100119 | [100119-monster-trivia.json](./100119-monster-trivia.json) |
 | Monster Truck Championship | 132220 | [132220-monster-truck-championship.json](./132220-monster-truck-championship.json) |
@@ -8799,6 +8802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Rider | 215171 | [215171-moon-rider.json](./215171-moon-rider.json) |
 | Moon Rider | 295026 | [295026-moon-rider.json](./295026-moon-rider.json) |
 | Moon River | 298303 | [298303-moon-river.json](./298303-moon-river.json) |
+| Moon Rover | 148126 | [148126-moon-rover.json](./148126-moon-rover.json) |
 | Moon Runner | 199125 | [199125-moon-runner.json](./199125-moon-runner.json) |
 | Moon Samurai | 298238 | [298238-moon-samurai.json](./298238-moon-samurai.json) |
 | Moon Shuttle | 18701 | [18701-moon-shuttle.json](./18701-moon-shuttle.json) |
