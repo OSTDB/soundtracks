@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Pen & Paper 3 | 240898 | [240898-knights-of-pen-and-paper-3.json](./240898-knights-of-pen-and-paper-3.json) |
 | Knights of Pen & Paper: +1 Deluxier Edition | 53259 | [53259-knights-of-pen-and-paper-1-deluxier-edition.json](./53259-knights-of-pen-and-paper-1-deluxier-edition.json) |
 | Knights of Pen and Paper +1 Edition | 2934 | [2934-knights-of-pen-and-paper-1-edition.json](./2934-knights-of-pen-and-paper-1-edition.json) |
+| Knights of Pen and Paper Bundle | 147620 | [147620-knights-of-pen-and-paper-bundle.json](./147620-knights-of-pen-and-paper-bundle.json) |
 | Knights of Pen and Paper II | 10126 | [10126-knights-of-pen-and-paper-ii.json](./10126-knights-of-pen-and-paper-ii.json) |
 | Knights of Pen and Paper II: Here Be Dragons | 53260 | [53260-knights-of-pen-and-paper-ii-here-be-dragons.json](./53260-knights-of-pen-and-paper-ii-here-be-dragons.json) |
 | Knights of Pen and Paper: Haunted Fall | 171459 | [171459-knights-of-pen-and-paper-haunted-fall.json](./171459-knights-of-pen-and-paper-haunted-fall.json) |
