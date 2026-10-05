@@ -1027,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 300 Miles to Pigsland | 286646 | [286646-300-miles-to-pigsland.json](./286646-300-miles-to-pigsland.json) |
 | 300 Minutes of /vr/ | 274121 | [274121-300-minutes-of-vr.json](./274121-300-minutes-of-vr.json) |
 | 300 Spartans | 351773 | [351773-300-spartans.json](./351773-300-spartans.json) |
+| 300: Seize Your Glory | 118756 | [118756-300-seize-your-glory.json](./118756-300-seize-your-glory.json) |
 | 3000m to Whatever’s up There | 373133 | [373133-3000m-to-whatever-s-up-there.json](./373133-3000m-to-whatever-s-up-there.json) |
 | 3000th Duel: The Wise Ones | 174161 | [174161-3000th-duel-the-wise-ones.json](./174161-3000th-duel-the-wise-ones.json) |
 | 303 Game Collection | 273918 | [273918-303-game-collection.json](./273918-303-game-collection.json) |
@@ -1230,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 hours | 271481 | [271481-4-hours.json](./271481-4-hours.json) |
 | 4 in 1 | 80870 | [80870-4-in-1.json](./80870-4-in-1.json) |
 | 4 in 1 | 80871 | [80871-4-in-1.json](./80871-4-in-1.json) |
+| 4 In 1 Indie Bundle | 118738 | [118738-4-in-1-indie-bundle.json](./118738-4-in-1-indie-bundle.json) |
 | 4 in 1 Row | 41534 | [41534-4-in-1-row.json](./41534-4-in-1-row.json) |
 | 4 in 1 Sports Bundle Vol. 3 | 395222 | [395222-4-in-1-sports-bundle-vol-3.json](./395222-4-in-1-sports-bundle-vol-3.json) |
 | 4 in 1 Vol.17 | 138695 | [138695-4-in-1-vol-17.json](./138695-4-in-1-vol-17.json) |
