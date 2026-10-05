@@ -2508,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InSpheration | 53234 | [53234-inspheration.json](./53234-inspheration.json) |
 | Inspiral: Echoes of Gravity | 372462 | [372462-inspiral-echoes-of-gravity.json](./372462-inspiral-echoes-of-gravity.json) |
 | Inspire | 298302 | [298302-inspire.json](./298302-inspire.json) |
+| Inspire Footprints | 157101 | [157101-inspire-footprints.json](./157101-inspire-footprints.json) |
 | Inspired You | 413037 | [413037-inspired-you.json](./413037-inspired-you.json) |
 | Inspiring Dreams | 295500 | [295500-inspiring-dreams.json](./295500-inspiring-dreams.json) |
 | Inspirit Online | 59870 | [59870-inspirit-online.json](./59870-inspirit-online.json) |
