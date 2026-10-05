@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab Boom | 290087 | [290087-lab-boom.json](./290087-lab-boom.json) |
 | Lab BreakOut | 158533 | [158533-lab-breakout.json](./158533-lab-breakout.json) |
 | Lab Cat | 298782 | [298782-lab-cat.json](./298782-lab-cat.json) |
+| Lab Craft Survival | 150786 | [150786-lab-craft-survival.json](./150786-lab-craft-survival.json) |
 | Lab Crisis | 205580 | [205580-lab-crisis.json](./205580-lab-crisis.json) |
 | Lab Eject | 368595 | [368595-lab-eject.json](./368595-lab-eject.json) |
 | Lab Escape | 160273 | [160273-lab-escape.json](./160273-lab-escape.json) |
@@ -2190,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Levantera: Tale of The Winds | 71598 | [71598-levantera-tale-of-the-winds.json](./71598-levantera-tale-of-the-winds.json) |
 | Levedad | 176244 | [176244-levedad.json](./176244-levedad.json) |
 | Level | 326614 | [326614-level.json](./326614-level.json) |
+| Level 20 | 150739 | [150739-level-20.json](./150739-level-20.json) |
 | Level 24 | 175232 | [175232-level-24.json](./175232-level-24.json) |
 | Level 5 | 94001 | [94001-level-5.json](./94001-level-5.json) |
 | Level Crossing | 92088 | [92088-level-crossing.json](./92088-level-crossing.json) |
