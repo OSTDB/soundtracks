@@ -1378,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Overdrive | 361857 | [361857-neon-overdrive.json](./361857-neon-overdrive.json) |
 | Neon Paddles: Revenge of the Ball | 372140 | [372140-neon-paddles-revenge-of-the-ball.json](./372140-neon-paddles-revenge-of-the-ball.json) |
 | Neon Parasite | 139347 | [139347-neon-parasite.json](./139347-neon-parasite.json) |
+| Neon Parkour | 154919 | [154919-neon-parkour.json](./154919-neon-parkour.json) |
 | Neon Parkour 2 | 253614 | [253614-neon-parkour-2.json](./253614-neon-parkour-2.json) |
 | Neon Prism | 30501 | [30501-neon-prism.json](./30501-neon-prism.json) |
 | Neon Race | 182946 | [182946-neon-race.json](./182946-neon-race.json) |
