@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vapor Tanks | 261786 | [261786-vapor-tanks.json](./261786-vapor-tanks.json) |
 | Vapor Up! With Man with Apple | 260622 | [260622-vapor-up-with-man-with-apple.json](./260622-vapor-up-with-man-with-apple.json) |
 | Vapor World: Over the Mind | 172712 | [172712-vapor-world-over-the-mind.json](./172712-vapor-world-over-the-mind.json) |
+| VaporFly | 121402 | [121402-vaporfly.json](./121402-vaporfly.json) |
 | VaporLight: Drifter | 186267 | [186267-vaporlight-drifter.json](./186267-vaporlight-drifter.json) |
 | VaporPunk | 334309 | [334309-vaporpunk.json](./334309-vaporpunk.json) |
 | Vaporum | 56969 | [56969-vaporum.json](./56969-vaporum.json) |
@@ -1689,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivitter: Additional Mini-game - "United Robot" | 308779 | [308779-vivitter-additional-mini-game-united-robot.json](./308779-vivitter-additional-mini-game-united-robot.json) |
 | Vivitter: Additional Mini-game - "Unstoppable" | 308774 | [308774-vivitter-additional-mini-game-unstoppable.json](./308774-vivitter-additional-mini-game-unstoppable.json) |
 | Vivitter: Additional Mini-game - "Vivid ViviCure" | 308773 | [308773-vivitter-additional-mini-game-vivid-vivicure.json](./308773-vivitter-additional-mini-game-vivid-vivicure.json) |
+| ViVO | 121409 | [121409-vivo.json](./121409-vivo.json) |
 | Vixen | 46741 | [46741-vixen.json](./46741-vixen.json) |
 | Viy | 167562 | [167562-viy.json](./167562-viy.json) |
 | Viy: Retold Story | 190142 | [190142-viy-retold-story.json](./190142-viy-retold-story.json) |
