@@ -3012,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix 2 | 275718 | [275718-phoenix-2.json](./275718-phoenix-2.json) |
 | Phoenix Assault | 209970 | [209970-phoenix-assault.json](./209970-phoenix-assault.json) |
 | Phoenix Contract | 322588 | [322588-phoenix-contract.json](./322588-phoenix-contract.json) |
+| Phoenix Dust | 148671 | [148671-phoenix-dust.json](./148671-phoenix-dust.json) |
 | Phoenix HD | 343984 | [343984-phoenix-hd.json](./343984-phoenix-hd.json) |
 | Phoenix Hope | 192679 | [192679-phoenix-hope.json](./192679-phoenix-hope.json) |
 | Phoenix Nightmare | 235314 | [235314-phoenix-nightmare.json](./235314-phoenix-nightmare.json) |
@@ -5207,6 +5208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playground VR | 143690 | [143690-playground-vr.json](./143690-playground-vr.json) |
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
 | Playhead | 195719 | [195719-playhead.json](./195719-playhead.json) |
+| Playhear : Square Paper City | 148678 | [148678-playhear-square-paper-city.json](./148678-playhear-square-paper-city.json) |
 | Playhouse Strip Poker | 55990 | [55990-playhouse-strip-poker.json](./55990-playhouse-strip-poker.json) |
 | Playing Field 2 | 410419 | [410419-playing-field-2.json](./410419-playing-field-2.json) |
 | Playing History - The Plague | 34628 | [34628-playing-history-the-plague.json](./34628-playing-history-the-plague.json) |
@@ -7530,6 +7532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Carnage: Genesis | 80564 | [80564-primal-carnage-genesis.json](./80564-primal-carnage-genesis.json) |
 | Primal Chronicles | 336618 | [336618-primal-chronicles.json](./336618-primal-chronicles.json) |
 | Primal Dinosaur Shooter: Dino Killer | 374672 | [374672-primal-dinosaur-shooter-dino-killer.json](./374672-primal-dinosaur-shooter-dino-killer.json) |
+| Primal Dominion | 148664 | [148664-primal-dominion.json](./148664-primal-dominion.json) |
 | Primal Dungeon | 158008 | [158008-primal-dungeon.json](./158008-primal-dungeon.json) |
 | Primal Echo | 374822 | [374822-primal-echo.json](./374822-primal-echo.json) |
 | Primal Force Arena | 317842 | [317842-primal-force-arena.json](./317842-primal-force-arena.json) |
