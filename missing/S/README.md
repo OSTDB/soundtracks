@@ -8131,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow | 6749 | [6749-snow.json](./6749-snow.json) |
 | Snow Aces League | 371428 | [371428-snow-aces-league.json](./371428-snow-aces-league.json) |
 | Snow Angel | 264127 | [264127-snow-angel.json](./264127-snow-angel.json) |
+| Snow Apocalypse | 155686 | [155686-snow-apocalypse.json](./155686-snow-apocalypse.json) |
 | Snow Ash | 325064 | [325064-snow-ash.json](./325064-snow-ash.json) |
 | Snow Ash Land | 112347 | [112347-snow-ash-land.json](./112347-snow-ash-land.json) |
 | Snow Ash Land | 180040 | [180040-snow-ash-land.json](./180040-snow-ash-land.json) |
@@ -11922,6 +11923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob’s Idle Adventures | 266907 | [266907-spongebob-s-idle-adventures.json](./266907-spongebob-s-idle-adventures.json) |
 | SpongeBob's Pizza Toss | 326710 | [326710-spongebobs-pizza-toss.json](./326710-spongebobs-pizza-toss.json) |
 | Spongiorno: Schwammfred Moving Company | 373082 | [373082-spongiorno-schwammfred-moving-company.json](./373082-spongiorno-schwammfred-moving-company.json) |
+| Sponsor-A-Planet | 155710 | [155710-sponsor-a-planet.json](./155710-sponsor-a-planet.json) |
 | Spooble: A Search Engine Story | 177484 | [177484-spooble-a-search-engine-story.json](./177484-spooble-a-search-engine-story.json) |
 | Spoockey | 189071 | [189071-spoockey.json](./189071-spoockey.json) |
 | Spoofs Playland | 373552 | [373552-spoofs-playland.json](./373552-spoofs-playland.json) |
@@ -12686,6 +12688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Conflict: Salamander | 298040 | [298040-star-conflict-salamander.json](./298040-star-conflict-salamander.json) |
 | Star Conflict: Salamander. Weapon of Victory | 292641 | [292641-star-conflict-salamander-weapon-of-victory.json](./292641-star-conflict-salamander-weapon-of-victory.json) |
 | Star Conflict: Sawtooth | 196152 | [196152-star-conflict-sawtooth.json](./196152-star-conflict-sawtooth.json) |
+| Star Conflict: Scylla. Deluxe Version | 155459 | [155459-star-conflict-scylla-deluxe-version.json](./155459-star-conflict-scylla-deluxe-version.json) |
 | Star Conflict: Shrike | 310394 | [310394-star-conflict-shrike.json](./310394-star-conflict-shrike.json) |
 | Star Conflict: Shrike - Deluxe Edition | 310395 | [310395-star-conflict-shrike-deluxe-edition.json](./310395-star-conflict-shrike-deluxe-edition.json) |
 | Star Conflict: Shrike. Weapon of Victory | 355163 | [355163-star-conflict-shrike-weapon-of-victory.json](./355163-star-conflict-shrike-weapon-of-victory.json) |
@@ -18974,6 +18977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordfight | 40794 | [40794-swordfight.json](./40794-swordfight.json) |
 | Swordhaven: Iron Conspiracy | 290620 | [290620-swordhaven-iron-conspiracy.json](./290620-swordhaven-iron-conspiracy.json) |
 | Swordia | 309882 | [309882-swordia.json](./309882-swordia.json) |
+| Swordian Hero | 155679 | [155679-swordian-hero.json](./155679-swordian-hero.json) |
 | Swordless | 410220 | [410220-swordless.json](./410220-swordless.json) |
 | Swordlord | 31763 | [31763-swordlord.json](./31763-swordlord.json) |
 | Swordmancy | 373562 | [373562-swordmancy.json](./373562-swordmancy.json) |
