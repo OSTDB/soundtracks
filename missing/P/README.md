@@ -1350,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Obby: Ice Escape | 415064 | [415064-parkour-obby-ice-escape.json](./415064-parkour-obby-ice-escape.json) |
 | Parkour Obby: Magma Run | 414438 | [414438-parkour-obby-magma-run.json](./414438-parkour-obby-magma-run.json) |
 | Parkour Obby: Toxic Escape | 402301 | [402301-parkour-obby-toxic-escape.json](./402301-parkour-obby-toxic-escape.json) |
+| Parkour Posse | 154049 | [154049-parkour-posse.json](./154049-parkour-posse.json) |
 | Parkour Simulator | 377589 | [377589-parkour-simulator.json](./377589-parkour-simulator.json) |
 | Parkour Simulator | 89265 | [89265-parkour-simulator.json](./89265-parkour-simulator.json) |
 | Parkour Tag | 163991 | [163991-parkour-tag.json](./163991-parkour-tag.json) |
