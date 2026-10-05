@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Place for the Unwilling | 18653 | [18653-a-place-for-the-unwilling.json](./18653-a-place-for-the-unwilling.json) |
 | A Place in the Sun | 305424 | [305424-a-place-in-the-sun.json](./305424-a-place-in-the-sun.json) |
 | A Plague Tale Bundle | 230801 | [230801-a-plague-tale-bundle.json](./230801-a-plague-tale-bundle.json) |
+| A Plague Tale: Innocence - Cloud Version | 152484 | [152484-a-plague-tale-innocence-cloud-version.json](./152484-a-plague-tale-innocence-cloud-version.json) |
 | A Plague Tale: Innocence - Coats of Arms | 118201 | [118201-a-plague-tale-innocence-coats-of-arms.json](./118201-a-plague-tale-innocence-coats-of-arms.json) |
 | A Plague Tale: Requiem - Cloud Version | 206817 | [206817-a-plague-tale-requiem-cloud-version.json](./206817-a-plague-tale-requiem-cloud-version.json) |
 | A Plague Tale: Requiem - Protector Pack | 223447 | [223447-a-plague-tale-requiem-protector-pack.json](./223447-a-plague-tale-requiem-protector-pack.json) |
@@ -834,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned | 184599 | [184599-abandoned.json](./184599-abandoned.json) |
 | Abandoned | 295781 | [295781-abandoned.json](./295781-abandoned.json) |
 | Abandoned Archive | 190083 | [190083-abandoned-archive.json](./190083-abandoned-archive.json) |
+| Abandoned Croxon Mansion | 152496 | [152496-abandoned-croxon-mansion.json](./152496-abandoned-croxon-mansion.json) |
 | Abandoned Dark | 270865 | [270865-abandoned-dark.json](./270865-abandoned-dark.json) |
 | Abandoned Drive-in | 234018 | [234018-abandoned-drive-in.json](./234018-abandoned-drive-in.json) |
 | Abandoned Hospital VR | 31878 | [31878-abandoned-hospital-vr.json](./31878-abandoned-hospital-vr.json) |
@@ -2580,6 +2582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Empire: Stewardess Simulator | 370786 | [370786-airline-empire-stewardess-simulator.json](./370786-airline-empire-stewardess-simulator.json) |
 | Airline Flight Attendant Simulator VR | 236016 | [236016-airline-flight-attendant-simulator-vr.json](./236016-airline-flight-attendant-simulator-vr.json) |
 | Airline Manager | 206104 | [206104-airline-manager.json](./206104-airline-manager.json) |
+| Airline Manager 4 | 152471 | [152471-airline-manager-4.json](./152471-airline-manager-4.json) |
 | Airline Tycoon 2: Falcon Airlines | 9956 | [9956-airline-tycoon-2-falcon-airlines.json](./9956-airline-tycoon-2-falcon-airlines.json) |
 | Airline Tycoon 2: Falcon Lines | 52568 | [52568-airline-tycoon-2-falcon-lines.json](./52568-airline-tycoon-2-falcon-lines.json) |
 | Airline Tycoon 2: Gold | 379524 | [379524-airline-tycoon-2-gold.json](./379524-airline-tycoon-2-gold.json) |
@@ -3555,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All on Board!: The Hunger | 374701 | [374701-all-on-board-the-hunger.json](./374701-all-on-board-the-hunger.json) |
 | All One | 41370 | [41370-all-one.json](./41370-all-one.json) |
 | All one click | 267086 | [267086-all-one-click.json](./267086-all-one-click.json) |
+| All or Nothing | 152482 | [152482-all-or-nothing.json](./152482-all-or-nothing.json) |
 | All Our Asias | 68216 | [68216-all-our-asias.json](./68216-all-our-asias.json) |
 | All Pro Basketball | 217823 | [217823-all-pro-basketball.json](./217823-all-pro-basketball.json) |
 | All Quiet in the Trenches | 245905 | [245905-all-quiet-in-the-trenches.json](./245905-all-quiet-in-the-trenches.json) |
