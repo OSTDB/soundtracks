@@ -5521,6 +5521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguelike Hero | 107898 | [107898-roguelike-hero.json](./107898-roguelike-hero.json) |
 | Roguelike Journey to the West: 100 Ways to Slay Erlang Shen | 359536 | [359536-roguelike-journey-to-the-west-100-ways-to-slay-erlang-shen.json](./359536-roguelike-journey-to-the-west-100-ways-to-slay-erlang-shen.json) |
 | Rogueline | 209659 | [209659-rogueline.json](./209659-rogueline.json) |
+| Roguelite 2 | 128967 | [128967-roguelite-2.json](./128967-roguelite-2.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
 | Roguely | 153519 | [153519-roguely.json](./153519-roguely.json) |
 | Roguemance | 27198 | [27198-roguemance.json](./27198-roguemance.json) |
