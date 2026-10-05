@@ -1907,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Meets Lead | 65444 | [65444-dead-meets-lead.json](./65444-dead-meets-lead.json) |
 | Dead Mire | 249199 | [249199-dead-mire.json](./249199-dead-mire.json) |
 | Dead Moon: Revenge on Phobos | 51509 | [51509-dead-moon-revenge-on-phobos.json](./51509-dead-moon-revenge-on-phobos.json) |
+| Dead Motherland: Zombie Co-op | 127731 | [127731-dead-motherland-zombie-co-op.json](./127731-dead-motherland-zombie-co-op.json) |
 | Dead Mountaineer's Hotel | 14851 | [14851-dead-mountaineers-hotel.json](./14851-dead-mountaineers-hotel.json) |
 | Dead Nation | 2134 | [2134-dead-nation.json](./2134-dead-nation.json) |
 | Dead Nation: Road to Devastation | 20336 | [20336-dead-nation-road-to-devastation.json](./20336-dead-nation-road-to-devastation.json) |
@@ -9114,6 +9115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunken Superhero | 289561 | [289561-drunken-superhero.json](./289561-drunken-superhero.json) |
 | Drunken Way to Home | 266795 | [266795-drunken-way-to-home.json](./266795-drunken-way-to-home.json) |
 | Drunken Wolf | 358880 | [358880-drunken-wolf.json](./358880-drunken-wolf.json) |
+| Drunken Wrestlers | 127803 | [127803-drunken-wrestlers.json](./127803-drunken-wrestlers.json) |
 | Drunkenpants | 80934 | [80934-drunkenpants.json](./80934-drunkenpants.json) |
 | DrunKing | 378399 | [378399-drunking.json](./378399-drunking.json) |
 | Drunkknight | 195689 | [195689-drunkknight.json](./195689-drunkknight.json) |
