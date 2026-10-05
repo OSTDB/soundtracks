@@ -3204,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godspeed: A Flame for Winter | 321741 | [321741-godspeed-a-flame-for-winter.json](./321741-godspeed-a-flame-for-winter.json) |
 | Godspell Defender | 201667 | [201667-godspell-defender.json](./201667-godspell-defender.json) |
 | Godstone | 187822 | [187822-godstone.json](./187822-godstone.json) |
+| Godstrike | 141527 | [141527-godstrike.json](./141527-godstrike.json) |
 | Godsworn | 213612 | [213612-godsworn.json](./213612-godsworn.json) |
 | Godtail | 207755 | [207755-godtail.json](./207755-godtail.json) |
 | Godus | 3115 | [3115-godus.json](./3115-godus.json) |
