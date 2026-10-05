@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Thalia and the Rose of Rocroi | 290395 | [290395-lady-thalia-and-the-rose-of-rocroi.json](./290395-lady-thalia-and-the-rose-of-rocroi.json) |
 | Lady Tut | 23961 | [23961-lady-tut.json](./23961-lady-tut.json) |
 | Lady's Hentai Mosaic | 112981 | [112981-ladys-hentai-mosaic.json](./112981-ladys-hentai-mosaic.json) |
+| LadyBug | 141525 | [141525-ladybug.json](./141525-ladybug.json) |
 | Ladybug dress up | 101588 | [101588-ladybug-dress-up.json](./101588-ladybug-dress-up.json) |
 | Ladybug Quest | 113753 | [113753-ladybug-quest.json](./113753-ladybug-quest.json) |
 | Ladylike | 152769 | [152769-ladylike.json](./152769-ladylike.json) |
@@ -741,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Line VR: A Zombie Defense Game | 119588 | [119588-last-line-vr-a-zombie-defense-game.json](./119588-last-line-vr-a-zombie-defense-game.json) |
 | Last Look along Woodward Boulevard | 321171 | [321171-last-look-along-woodward-boulevard.json](./321171-last-look-along-woodward-boulevard.json) |
 | Last Lovers | 192244 | [192244-last-lovers.json](./192244-last-lovers.json) |
+| Last Mage Standing | 141498 | [141498-last-mage-standing.json](./141498-last-mage-standing.json) |
 | Last Mage Standing | 30008 | [30008-last-mage-standing.json](./30008-last-mage-standing.json) |
 | Last Man | 273462 | [273462-last-man.json](./273462-last-man.json) |
 | Last Man Sitting | 76091 | [76091-last-man-sitting.json](./76091-last-man-sitting.json) |
