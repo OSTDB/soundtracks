@@ -1213,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Intuitive Ranch Master | 219076 | [219076-harvest-moon-intuitive-ranch-master.json](./219076-harvest-moon-intuitive-ranch-master.json) |
 | Harvest Moon: Light of Hope | 28843 | [28843-harvest-moon-light-of-hope.json](./28843-harvest-moon-light-of-hope.json) |
 | Harvest Moon: Light of Hope - Special Edition: Divine Marriageable Characters Pack | 225043 | [225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json](./225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json) |
+| Harvest Moon: Light of Hope - Special Edition: New Marriageable Characters Pack | 171415 | [171415-harvest-moon-light-of-hope-special-edition-new-marriageable-characters-pack.json](./171415-harvest-moon-light-of-hope-special-edition-new-marriageable-characters-pack.json) |
 | Harvest Moon: Magical Melody | 3386 | [3386-harvest-moon-magical-melody.json](./3386-harvest-moon-magical-melody.json) |
 | Harvest Moon: One World - Collector's Edition | 200691 | [200691-harvest-moon-one-world-collectors-edition.json](./200691-harvest-moon-one-world-collectors-edition.json) |
 | Harvest Moon: One World - Far East Adventure Pack | 174165 | [174165-harvest-moon-one-world-far-east-adventure-pack.json](./174165-harvest-moon-one-world-far-east-adventure-pack.json) |
@@ -1391,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House | 4909 | [4909-haunted-house.json](./4909-haunted-house.json) |
 | Haunted House Renovator | 211941 | [211941-haunted-house-renovator.json](./211941-haunted-house-renovator.json) |
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
+| Haunted House: The Murder | 171419 | [171419-haunted-house-the-murder.json](./171419-haunted-house-the-murder.json) |
 | Haunted Ice Cream | 375940 | [375940-haunted-ice-cream.json](./375940-haunted-ice-cream.json) |
 | Haunted Jail: Alcatas | 116980 | [116980-haunted-jail-alcatas.json](./116980-haunted-jail-alcatas.json) |
 | Haunted Laia | 193881 | [193881-haunted-laia.json](./193881-haunted-laia.json) |
@@ -3648,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Map | 187369 | [187369-hidden-map.json](./187369-hidden-map.json) |
 | Hidden Memories | 345564 | [345564-hidden-memories.json](./345564-hidden-memories.json) |
 | Hidden Memories of a Bright Summer | 100608 | [100608-hidden-memories-of-a-bright-summer.json](./100608-hidden-memories-of-a-bright-summer.json) |
+| Hidden Memory: Neko's Life | 171447 | [171447-hidden-memory-nekos-life.json](./171447-hidden-memory-nekos-life.json) |
 | Hidden Motives: The Diamond Rush - Collector's Edition | 186720 | [186720-hidden-motives-the-diamond-rush-collectors-edition.json](./186720-hidden-motives-the-diamond-rush-collectors-edition.json) |
 | Hidden Mysteries: Civil War | 34842 | [34842-hidden-mysteries-civil-war.json](./34842-hidden-mysteries-civil-war.json) |
 | Hidden Mysteries: Gates of Graceland | 54092 | [54092-hidden-mysteries-gates-of-graceland.json](./54092-hidden-mysteries-gates-of-graceland.json) |
