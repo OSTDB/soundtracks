@@ -9440,6 +9440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pushed a 'Bot! | 369026 | [369026-pushed-a-bot.json](./369026-pushed-a-bot.json) |
 | Pusher | 193439 | [193439-pusher.json](./193439-pusher.json) |
 | Pusher: Drug Tycoon | 259167 | [259167-pusher-drug-tycoon.json](./259167-pusher-drug-tycoon.json) |
+| PushieBlocks | 132047 | [132047-pushieblocks.json](./132047-pushieblocks.json) |
 | Pushing Crates | 215037 | [215037-pushing-crates.json](./215037-pushing-crates.json) |
 | Pushing It! With Sisyphus | 298033 | [298033-pushing-it-with-sisyphus.json](./298033-pushing-it-with-sisyphus.json) |
 | Pushing the limit | 157098 | [157098-pushing-the-limit.json](./157098-pushing-the-limit.json) |
