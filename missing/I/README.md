@@ -2866,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Timeverse | 172180 | [172180-into-the-timeverse.json](./172180-into-the-timeverse.json) |
 | Into The Unknown | 288814 | [288814-into-the-unknown.json](./288814-into-the-unknown.json) |
 | Into the V.O.I.D. | 298666 | [298666-into-the-v-o-i-d.json](./298666-into-the-v-o-i-d.json) |
+| Into the Valley | 129056 | [129056-into-the-valley.json](./129056-into-the-valley.json) |
 | Into the War | 35825 | [35825-into-the-war.json](./35825-into-the-war.json) |
 | Into the Waves | 190163 | [190163-into-the-waves.json](./190163-into-the-waves.json) |
 | Into the Wild | 304610 | [304610-into-the-wild.json](./304610-into-the-wild.json) |
