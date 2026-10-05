@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faircroft's Antiques: The Heir of Glen Kinnoch | 148993 | [148993-faircrofts-antiques-the-heir-of-glen-kinnoch.json](./148993-faircrofts-antiques-the-heir-of-glen-kinnoch.json) |
 | Faircroft's Antiques: The Mountaineer's Legacy | 197413 | [197413-faircrofts-antiques-the-mountaineers-legacy.json](./197413-faircrofts-antiques-the-mountaineers-legacy.json) |
 | Faircroft's Antiques: The Mountaineer's Legacy - Collector's Edition | 212359 | [212359-faircrofts-antiques-the-mountaineers-legacy-collectors-edition.json](./212359-faircrofts-antiques-the-mountaineers-legacy-collectors-edition.json) |
+| Faircroft's Antiques: Treasures of Treffenburg | 170874 | [170874-faircrofts-antiques-treasures-of-treffenburg.json](./170874-faircrofts-antiques-treasures-of-treffenburg.json) |
 | Faire Trade | 336519 | [336519-faire-trade.json](./336519-faire-trade.json) |
 | Fairealm | 340050 | [340050-fairealm.json](./340050-fairealm.json) |
 | Fairealm: Treasure Raids | 340051 | [340051-fairealm-treasure-raids.json](./340051-fairealm-treasure-raids.json) |
@@ -3761,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flair | 391197 | [391197-flair.json](./391197-flair.json) |
 | Flairtender | 29635 | [29635-flairtender.json](./29635-flairtender.json) |
 | Flaiser | 183449 | [183449-flaiser.json](./183449-flaiser.json) |
+| Flak | 170893 | [170893-flak.json](./170893-flak.json) |
 | Flake: The Legend of Snowblind | 287195 | [287195-flake-the-legend-of-snowblind.json](./287195-flake-the-legend-of-snowblind.json) |
 | Flaky Bakery | 117790 | [117790-flaky-bakery.json](./117790-flaky-bakery.json) |
 | Flaky Love | 310039 | [310039-flaky-love.json](./310039-flaky-love.json) |
@@ -5500,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune's Favor | 347323 | [347323-fortunes-favor.json](./347323-fortunes-favor.json) |
 | Fortune's Run | 165071 | [165071-fortunes-run.json](./165071-fortunes-run.json) |
 | Fortune's Tavern: Fantasy Tavern Simulation Remastered | 55292 | [55292-fortunes-tavern-fantasy-tavern-simulation-remastered.json](./55292-fortunes-tavern-fantasy-tavern-simulation-remastered.json) |
+| Fortune's Tavern: The Fantasy Tavern Simulator - Guns and Goblins | 170812 | [170812-fortunes-tavern-the-fantasy-tavern-simulator-guns-and-goblins.json](./170812-fortunes-tavern-the-fantasy-tavern-simulator-guns-and-goblins.json) |
 | Fortune's Tavern: The Fantasy Tavern Simulator - Miniature Gods | 170311 | [170311-fortunes-tavern-the-fantasy-tavern-simulator-miniature-gods.json](./170311-fortunes-tavern-the-fantasy-tavern-simulator-miniature-gods.json) |
 | Forty Thieves Solitaire Collection | 166679 | [166679-forty-thieves-solitaire-collection.json](./166679-forty-thieves-solitaire-collection.json) |
 | Forward | 178014 | [178014-forward.json](./178014-forward.json) |
@@ -5634,6 +5637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Hunters Survivor | 277584 | [277584-four-hunters-survivor.json](./277584-four-hunters-survivor.json) |
 | Four in a Row | 146688 | [146688-four-in-a-row.json](./146688-four-in-a-row.json) |
 | Four in One | 210647 | [210647-four-in-one.json](./210647-four-in-one.json) |
+| Four Kings One War: Virtual Reality | 170899 | [170899-four-kings-one-war-virtual-reality.json](./170899-four-kings-one-war-virtual-reality.json) |
 | Four Lights | 406727 | [406727-four-lights.json](./406727-four-lights.json) |
 | Four Lights: Erie Ever route | 278131 | [278131-four-lights-erie-ever-route.json](./278131-four-lights-erie-ever-route.json) |
 | Four Lights: The 1st World - Iruka Route | 253437 | [253437-four-lights-the-1st-world-iruka-route.json](./253437-four-lights-the-1st-world-iruka-route.json) |
@@ -6583,6 +6587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Crisis | 312168 | [312168-frontline-crisis.json](./312168-frontline-crisis.json) |
 | Frontline Defense | 234934 | [234934-frontline-defense.json](./234934-frontline-defense.json) |
 | Frontline Defense 2 | 234935 | [234935-frontline-defense-2.json](./234935-frontline-defense-2.json) |
+| Frontline Heroes VR: 2017 Edition | 170878 | [170878-frontline-heroes-vr-2017-edition.json](./170878-frontline-heroes-vr-2017-edition.json) |
 | Frontline Protocol | 352361 | [352361-frontline-protocol.json](./352361-frontline-protocol.json) |
 | Frontline Steel | 363921 | [363921-frontline-steel.json](./363921-frontline-steel.json) |
 | Frontline Survivors | 239777 | [239777-frontline-survivors.json](./239777-frontline-survivors.json) |
