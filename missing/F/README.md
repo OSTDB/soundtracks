@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Overlord | 272922 | [272922-fallen-overlord.json](./272922-fallen-overlord.json) |
 | Fallen Priestess: My Sister's Demonic Bloodline | 385846 | [385846-fallen-priestess-my-sisters-demonic-bloodline.json](./385846-fallen-priestess-my-sisters-demonic-bloodline.json) |
 | Fallen Princess | 55909 | [55909-fallen-princess.json](./55909-fallen-princess.json) |
+| Fallen Rebellion | 158114 | [158114-fallen-rebellion.json](./158114-fallen-rebellion.json) |
 | Fallen Region | 130253 | [130253-fallen-region.json](./130253-fallen-region.json) |
 | Fallen Relics | 360570 | [360570-fallen-relics.json](./360570-fallen-relics.json) |
 | Fallen Saint Yhoundeh | 295405 | [295405-fallen-saint-yhoundeh.json](./295405-fallen-saint-yhoundeh.json) |
@@ -4314,6 +4315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floral Flowlove: Limited Edition | 212319 | [212319-floral-flowlove-limited-edition.json](./212319-floral-flowlove-limited-edition.json) |
 | Floral Gate | 255271 | [255271-floral-gate.json](./255271-floral-gate.json) |
 | Floral Gutter | 350619 | [350619-floral-gutter.json](./350619-floral-gutter.json) |
+| Floral Town | 158098 | [158098-floral-town.json](./158098-floral-town.json) |
 | Floralgraphic Memory | 265620 | [265620-floralgraphic-memory.json](./265620-floralgraphic-memory.json) |
 | FloraMancer: Seeds and Spells | 235982 | [235982-floramancer-seeds-and-spells.json](./235982-floramancer-seeds-and-spells.json) |
 | Florani Match | 392295 | [392295-florani-match.json](./392295-florani-match.json) |
