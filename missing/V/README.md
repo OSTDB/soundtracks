@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vektor Tank 3D+ | 85468 | [85468-vektor-tank-3d.json](./85468-vektor-tank-3d.json) |
 | Vektor Z | 186672 | [186672-vektor-z.json](./186672-vektor-z.json) |
 | Vektron Revenge | 33100 | [33100-vektron-revenge.json](./33100-vektron-revenge.json) |
+| VekWars | 135009 | [135009-vekwars.json](./135009-vekwars.json) |
 | Velana Adventures: Chapter I | 335348 | [335348-velana-adventures-chapter-i.json](./335348-velana-adventures-chapter-i.json) |
 | Velanit: The Forgotten Cottage | 403019 | [403019-velanit-the-forgotten-cottage.json](./403019-velanit-the-forgotten-cottage.json) |
 | Velaster | 212213 | [212213-velaster.json](./212213-velaster.json) |
@@ -1792,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Reaver | 390730 | [390730-void-reaver.json](./390730-void-reaver.json) |
 | Void Red | 376001 | [376001-void-red.json](./376001-void-red.json) |
 | Void Rifter XR | 232920 | [232920-void-rifter-xr.json](./232920-void-rifter-xr.json) |
+| Void Runner | 134982 | [134982-void-runner.json](./134982-void-runner.json) |
 | Void Runner | 259593 | [259593-void-runner.json](./259593-void-runner.json) |
 | Void Sails | 325647 | [325647-void-sails.json](./325647-void-sails.json) |
 | Void Salvage | 388936 | [388936-void-salvage.json](./388936-void-salvage.json) |
