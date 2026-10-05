@@ -1622,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Sin: Greed | 107734 | [107734-path-of-sin-greed.json](./107734-path-of-sin-greed.json) |
 | Path of Survival | 412274 | [412274-path-of-survival.json](./412274-path-of-survival.json) |
 | Path of Tengri | 202716 | [202716-path-of-tengri.json](./202716-path-of-tengri.json) |
+| Path of the Martyrs | 138561 | [138561-path-of-the-martyrs.json](./138561-path-of-the-martyrs.json) |
 | Path of the Midnight Sun | 126443 | [126443-path-of-the-midnight-sun.json](./126443-path-of-the-midnight-sun.json) |
 | Path of The Runecaster | 399839 | [399839-path-of-the-runecaster.json](./399839-path-of-the-runecaster.json) |
 | Path of the Warrior | 127351 | [127351-path-of-the-warrior.json](./127351-path-of-the-warrior.json) |
@@ -1710,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pato Box | 56344 | [56344-pato-box.json](./56344-pato-box.json) |
 | Pato Martinez | 238599 | [238599-pato-martinez.json](./238599-pato-martinez.json) |
 | Patou | 253376 | [253376-patou.json](./253376-patou.json) |
+| Patricia | 138541 | [138541-patricia.json](./138541-patricia.json) |
 | Patrician II: Quest for Power | 7409 | [7409-patrician-ii-quest-for-power.json](./7409-patrician-ii-quest-for-power.json) |
 | Patrician III | 287 | [287-patrician-iii.json](./287-patrician-iii.json) |
 | Patrician IV | 7506 | [7506-patrician-iv.json](./7506-patrician-iv.json) |
@@ -2176,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pencil Sharpening Simulator | 57172 | [57172-pencil-sharpening-simulator.json](./57172-pencil-sharpening-simulator.json) |
 | Pencil Story - Free Logic Game | 36487 | [36487-pencil-story-free-logic-game.json](./36487-pencil-story-free-logic-game.json) |
 | Pencilvania | 292755 | [292755-pencilvania.json](./292755-pencilvania.json) |
+| Pendelum | 138540 | [138540-pendelum.json](./138540-pendelum.json) |
 | Pendragon | 132903 | [132903-pendragon.json](./132903-pendragon.json) |
 | Pendragon Rising | 34210 | [34210-pendragon-rising.json](./34210-pendragon-rising.json) |
 | Penduline Village | 275654 | [275654-penduline-village.json](./275654-penduline-village.json) |
@@ -5305,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please, Don't Touch Anything | 9327 | [9327-please-dont-touch-anything.json](./9327-please-dont-touch-anything.json) |
 | Please, Don't Touch Anything: Classic | 151565 | [151565-please-dont-touch-anything-classic.json](./151565-please-dont-touch-anything-classic.json) |
 | Please, Forgive Me | 256995 | [256995-please-forgive-me.json](./256995-please-forgive-me.json) |
+| Please, Visit Grandma | 138545 | [138545-please-visit-grandma.json](./138545-please-visit-grandma.json) |
 | Please!! I want to Beg the Voluptuous Koume-chan into Consent! | 82824 | [82824-please-i-want-to-beg-the-voluptuous-koume-chan-into-consent.json](./82824-please-i-want-to-beg-the-voluptuous-koume-chan-into-consent.json) |
 | Pleased Aliens | 281648 | [281648-pleased-aliens.json](./281648-pleased-aliens.json) |
 | Pleasure Airlines | 202209 | [202209-pleasure-airlines.json](./202209-pleasure-airlines.json) |
@@ -6260,6 +6264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polestar | 220145 | [220145-polestar.json](./220145-polestar.json) |
 | Polgar: Magic Detective | 191175 | [191175-polgar-magic-detective.json](./191175-polgar-magic-detective.json) |
 | Poliana Cake Crush | 248801 | [248801-poliana-cake-crush.json](./248801-poliana-cake-crush.json) |
+| Polic.io | 138559 | [138559-polic-io.json](./138559-polic-io.json) |
 | Police & Gang | 385740 | [385740-police-and-gang.json](./385740-police-and-gang.json) |
 | Police 911 | 77016 | [77016-police-911.json](./77016-police-911.json) |
 | Police 911 2 | 97483 | [97483-police-911-2.json](./97483-police-911-2.json) |
@@ -9108,6 +9113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsonic Baseball II | 245419 | [245419-pulsonic-baseball-ii.json](./245419-pulsonic-baseball-ii.json) |
 | Pulsonic Electronic Baseball | 245418 | [245418-pulsonic-electronic-baseball.json](./245418-pulsonic-electronic-baseball.json) |
 | Pulstar | 7255 | [7255-pulstar.json](./7255-pulstar.json) |
+| Pulsus | 138524 | [138524-pulsus.json](./138524-pulsus.json) |
 | Pulzar | 304294 | [304294-pulzar.json](./304294-pulzar.json) |
 | PulzAR | 93544 | [93544-pulzar.json](./93544-pulzar.json) |
 | Pum | 119053 | [119053-pum.json](./119053-pum.json) |
