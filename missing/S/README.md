@@ -3696,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Tactics: Blades of the Shogun - Ultimate Bundle | 331516 | [331516-shadow-tactics-blades-of-the-shogun-ultimate-bundle.json](./331516-shadow-tactics-blades-of-the-shogun-ultimate-bundle.json) |
 | Shadow the Hedgehog | 4105 | [4105-shadow-the-hedgehog.json](./4105-shadow-the-hedgehog.json) |
 | Shadow the Hedgehog 2 | 326833 | [326833-shadow-the-hedgehog-2.json](./326833-shadow-the-hedgehog-2.json) |
+| Shadow the Hedgehog in Sonic the Hedgehog | 148165 | [148165-shadow-the-hedgehog-in-sonic-the-hedgehog.json](./148165-shadow-the-hedgehog-in-sonic-the-hedgehog.json) |
 | Shadow the Plumber | 357447 | [357447-shadow-the-plumber.json](./357447-shadow-the-plumber.json) |
 | Shadow Touched | 294136 | [294136-shadow-touched.json](./294136-shadow-touched.json) |
 | Shadow Tower | 9502 | [9502-shadow-tower.json](./9502-shadow-tower.json) |
@@ -6542,6 +6543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skirmish Line: Mad Jack | 172129 | [172129-skirmish-line-mad-jack.json](./172129-skirmish-line-mad-jack.json) |
 | Skirmishers | 223368 | [223368-skirmishers.json](./223368-skirmishers.json) |
 | Skitt | 138735 | [138735-skitt.json](./138735-skitt.json) |
+| Skittles | 148170 | [148170-skittles.json](./148170-skittles.json) |
 | Sknow | 118206 | [118206-sknow.json](./118206-sknow.json) |
 | Skogdal | 258565 | [258565-skogdal.json](./258565-skogdal.json) |
 | Skolios | 243784 | [243784-skolios.json](./243784-skolios.json) |
@@ -8075,6 +8077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Ghost Warrior Contracts: Skins Pack | 370320 | [370320-sniper-ghost-warrior-contracts-skins-pack.json](./370320-sniper-ghost-warrior-contracts-skins-pack.json) |
 | Sniper Ghost Warrior Contracts: Steam Mist Weapon Skin | 370321 | [370321-sniper-ghost-warrior-contracts-steam-mist-weapon-skin.json](./370321-sniper-ghost-warrior-contracts-steam-mist-weapon-skin.json) |
 | Sniper Ghost Warrior Contracts: World Flags Skin Pack | 370319 | [370319-sniper-ghost-warrior-contracts-world-flags-skin-pack.json](./370319-sniper-ghost-warrior-contracts-world-flags-skin-pack.json) |
+| Sniper Ghost Warrior Unlimited Edition | 148158 | [148158-sniper-ghost-warrior-unlimited-edition.json](./148158-sniper-ghost-warrior-unlimited-edition.json) |
 | Sniper Honor: 3D Shooting Game | 223914 | [223914-sniper-honor-3d-shooting-game.json](./223914-sniper-honor-3d-shooting-game.json) |
 | Sniper Hunter Shooter | 264581 | [264581-sniper-hunter-shooter.json](./264581-sniper-hunter-shooter.json) |
 | Sniper Killer | 249933 | [249933-sniper-killer.json](./249933-sniper-killer.json) |
@@ -8285,19 +8288,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner + RoadCraft Loyalty Bundle | 398396 | [398396-snowrunner-roadcraft-loyalty-bundle.json](./398396-snowrunner-roadcraft-loyalty-bundle.json) |
 | SnowRunner: 3-Year Anniversary Edition | 230833 | [230833-snowrunner-3-year-anniversary-edition.json](./230833-snowrunner-3-year-anniversary-edition.json) |
 | SnowRunner: 5-Year Anniversary Edition | 397767 | [397767-snowrunner-5-year-anniversary-edition.json](./397767-snowrunner-5-year-anniversary-edition.json) |
+| SnowRunner: Anniversary DLC | 148146 | [148146-snowrunner-anniversary-dlc.json](./148146-snowrunner-anniversary-dlc.json) |
+| SnowRunner: Burning Bright Vinyl Wrap Pack | 148155 | [148155-snowrunner-burning-bright-vinyl-wrap-pack.json](./148155-snowrunner-burning-bright-vinyl-wrap-pack.json) |
+| SnowRunner: Clasico Pack | 148148 | [148148-snowrunner-clasico-pack.json](./148148-snowrunner-clasico-pack.json) |
 | SnowRunner: Crocodile Pack | 223574 | [223574-snowrunner-crocodile-pack.json](./223574-snowrunner-crocodile-pack.json) |
 | SnowRunner: Dragon Wagons Dual Pack | 397800 | [397800-snowrunner-dragon-wagons-dual-pack.json](./397800-snowrunner-dragon-wagons-dual-pack.json) |
 | SnowRunner: Freightliner & Western Star Dual Pack | 366855 | [366855-snowrunner-freightliner-and-western-star-dual-pack.json](./366855-snowrunner-freightliner-and-western-star-dual-pack.json) |
+| SnowRunner: GMC Brigadier | 148154 | [148154-snowrunner-gmc-brigadier.json](./148154-snowrunner-gmc-brigadier.json) |
+| SnowRunner: High Roller Pack | 148150 | [148150-snowrunner-high-roller-pack.json](./148150-snowrunner-high-roller-pack.json) |
 | SnowRunner: Jeep Dual Pack | 169995 | [169995-snowrunner-jeep-dual-pack.json](./169995-snowrunner-jeep-dual-pack.json) |
 | SnowRunner: Kenworth Dual Pack | 397798 | [397798-snowrunner-kenworth-dual-pack.json](./397798-snowrunner-kenworth-dual-pack.json) |
 | SnowRunner: Land Rover Dual Pack | 204931 | [204931-snowrunner-land-rover-dual-pack.json](./204931-snowrunner-land-rover-dual-pack.json) |
+| SnowRunner: Loaded Dice Vinyl Wrap | 148151 | [148151-snowrunner-loaded-dice-vinyl-wrap.json](./148151-snowrunner-loaded-dice-vinyl-wrap.json) |
 | SnowRunner: Mack Dual Pack | 397797 | [397797-snowrunner-mack-dual-pack.json](./397797-snowrunner-mack-dual-pack.json) |
 | SnowRunner: Mercedes-Benz Trucks Dual Pack 1 | 397801 | [397801-snowrunner-mercedes-benz-trucks-dual-pack-1.json](./397801-snowrunner-mercedes-benz-trucks-dual-pack-1.json) |
+| SnowRunner: Navistar 5000-MV Tractor | 148149 | [148149-snowrunner-navistar-5000-mv-tractor.json](./148149-snowrunner-navistar-5000-mv-tractor.json) |
 | SnowRunner: Pathfinders Vinyl Wrap Pack | 397799 | [397799-snowrunner-pathfinders-vinyl-wrap-pack.json](./397799-snowrunner-pathfinders-vinyl-wrap-pack.json) |
 | SnowRunner: Premium Edition | 130266 | [130266-snowrunner-premium-edition.json](./130266-snowrunner-premium-edition.json) |
 | SnowRunner: Rezvani Hercules | 221694 | [221694-snowrunner-rezvani-hercules.json](./221694-snowrunner-rezvani-hercules.json) |
 | SnowRunner: Rezvani Tank | 361882 | [361882-snowrunner-rezvani-tank.json](./361882-snowrunner-rezvani-tank.json) |
 | SnowRunner: Save the Day Vinyl Wrap Pack | 230830 | [230830-snowrunner-save-the-day-vinyl-wrap-pack.json](./230830-snowrunner-save-the-day-vinyl-wrap-pack.json) |
+| SnowRunner: Scorched Vinyl Wrap | 148152 | [148152-snowrunner-scorched-vinyl-wrap.json](./148152-snowrunner-scorched-vinyl-wrap.json) |
 | SnowRunner: Season 1 - Search & Recover | 145485 | [145485-snowrunner-season-1-search-and-recover.json](./145485-snowrunner-season-1-search-and-recover.json) |
 | SnowRunner: Season 14 - Reap and Sow | 336931 | [336931-snowrunner-season-14-reap-and-sow.json](./336931-snowrunner-season-14-reap-and-sow.json) |
 | SnowRunner: Season 15 - Oil & Dirt | 361784 | [361784-snowrunner-season-15-oil-and-dirt.json](./361784-snowrunner-season-15-oil-and-dirt.json) |
@@ -8308,7 +8319,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Season 2 - Explore & Expand | 145486 | [145486-snowrunner-season-2-explore-and-expand.json](./145486-snowrunner-season-2-explore-and-expand.json) |
 | SnowRunner: Season 20 | 397684 | [397684-snowrunner-season-20.json](./397684-snowrunner-season-20.json) |
 | SnowRunner: Season 3 - Locate & Deliver | 145487 | [145487-snowrunner-season-3-locate-and-deliver.json](./145487-snowrunner-season-3-locate-and-deliver.json) |
+| SnowRunner: Season 4 - New Frontier | 148140 | [148140-snowrunner-season-4-new-frontier.json](./148140-snowrunner-season-4-new-frontier.json) |
+| SnowRunner: Season 5 - Build & Dispatch | 148142 | [148142-snowrunner-season-5-build-and-dispatch.json](./148142-snowrunner-season-5-build-and-dispatch.json) |
+| SnowRunner: Season 6 - Haul & Hustle | 148143 | [148143-snowrunner-season-6-haul-and-hustle.json](./148143-snowrunner-season-6-haul-and-hustle.json) |
+| SnowRunner: Season 7 - Compete & Conquer | 148144 | [148144-snowrunner-season-7-compete-and-conquer.json](./148144-snowrunner-season-7-compete-and-conquer.json) |
+| SnowRunner: Season 8 - Grand Harvest | 148145 | [148145-snowrunner-season-8-grand-harvest.json](./148145-snowrunner-season-8-grand-harvest.json) |
 | SnowRunner: Tatra Dual Pack | 214469 | [214469-snowrunner-tatra-dual-pack.json](./214469-snowrunner-tatra-dual-pack.json) |
+| SnowRunner: True Colors Vinyl Wrap | 148153 | [148153-snowrunner-true-colors-vinyl-wrap.json](./148153-snowrunner-true-colors-vinyl-wrap.json) |
+| SnowRunner: Western Star 49X | 148147 | [148147-snowrunner-western-star-49x.json](./148147-snowrunner-western-star-49x.json) |
 | SnowRunner: Year 1 Pass + Year 2 Pass + Year 3 Pass + Year 4 Pass | 284962 | [284962-snowrunner-year-1-pass-year-2-pass-year-3-pass-year-4-pass.json](./284962-snowrunner-year-1-pass-year-2-pass-year-3-pass-year-4-pass.json) |
 | SnowRunner: Year 3 Pass | 230832 | [230832-snowrunner-year-3-pass.json](./230832-snowrunner-year-3-pass.json) |
 | SnowRunner: Year 4 Pass | 284961 | [284961-snowrunner-year-4-pass.json](./284961-snowrunner-year-4-pass.json) |
@@ -16682,6 +16700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hoops 2 | 378784 | [378784-super-hoops-2.json](./378784-super-hoops-2.json) |
 | Super Horoscope Kanji Version | 112158 | [112158-super-horoscope-kanji-version.json](./112158-super-horoscope-kanji-version.json) |
 | Super Hot Pellet Muncher 2000 | 178613 | [178613-super-hot-pellet-muncher-2000.json](./178613-super-hot-pellet-muncher-2000.json) |
+| Super Hot Potato | 148168 | [148168-super-hot-potato.json](./148168-super-hot-potato.json) |
 | Super House of Dead Ninjas: True Ninja Pack | 263128 | [263128-super-house-of-dead-ninjas-true-ninja-pack.json](./263128-super-house-of-dead-ninjas-true-ninja-pack.json) |
 | Super Huey 1 & 2 Airdrop | 171909 | [171909-super-huey-1-and-2-airdrop.json](./171909-super-huey-1-and-2-airdrop.json) |
 | Super Huggie Bros | 272806 | [272806-super-huggie-bros.json](./272806-super-huggie-bros.json) |
@@ -18196,6 +18215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surge Generations | 334687 | [334687-surge-generations.json](./334687-surge-generations.json) |
 | Surge Radio | 124172 | [124172-surge-radio.json](./124172-surge-radio.json) |
 | Surge Unlimited | 417669 | [417669-surge-unlimited.json](./417669-surge-unlimited.json) |
+| Surgeball | 148167 | [148167-surgeball.json](./148167-surgeball.json) |
 | Surgeon Simulator 2 | 127355 | [127355-surgeon-simulator-2.json](./127355-surgeon-simulator-2.json) |
 | Surgeon Simulator 2 Launch Bundle | 166689 | [166689-surgeon-simulator-2-launch-bundle.json](./166689-surgeon-simulator-2-launch-bundle.json) |
 | Surgeon Simulator 2: Deluxe Edition | 227355 | [227355-surgeon-simulator-2-deluxe-edition.json](./227355-surgeon-simulator-2-deluxe-edition.json) |
