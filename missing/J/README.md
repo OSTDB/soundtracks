@@ -1193,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiǔxiāo Huánshén Jì | 119640 | [119640-jiuxiao-huanshen-ji.json](./119640-jiuxiao-huanshen-ji.json) |
 | Jiǔzhōu Jiàn Gē | 367405 | [367405-jiuzhou-jian-ge.json](./367405-jiuzhou-jian-ge.json) |
 | Jive Blocks | 222993 | [222993-jive-blocks.json](./222993-jive-blocks.json) |
+| Jivitam | 156717 | [156717-jivitam.json](./156717-jivitam.json) |
 | Jiwa: The Damned Soul | 327169 | [327169-jiwa-the-damned-soul.json](./327169-jiwa-the-damned-soul.json) |
 | Jíxiàn Qiúshēng | 156566 | [156566-jixian-qiusheng.json](./156566-jixian-qiusheng.json) |
 | Jīxiè Xīnghé | 119592 | [119592-jixie-xinghe.json](./119592-jixie-xinghe.json) |
