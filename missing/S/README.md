@@ -1601,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schizophrenic Rooms | 230857 | [230857-schizophrenic-rooms.json](./230857-schizophrenic-rooms.json) |
 | Schlag den Raab: Das 2. Spiel | 81447 | [81447-schlag-den-raab-das-2-spiel.json](./81447-schlag-den-raab-das-2-spiel.json) |
 | Schlag den Raab: Das 3. Spiel | 86078 | [86078-schlag-den-raab-das-3-spiel.json](./86078-schlag-den-raab-das-3-spiel.json) |
+| Schlag den Star: Das 2. Spiel | 144617 | [144617-schlag-den-star-das-2-spiel.json](./144617-schlag-den-star-das-2-spiel.json) |
 | Schlag den Star: Das 3. Spiel | 256216 | [256216-schlag-den-star-das-3-spiel.json](./256216-schlag-den-star-das-3-spiel.json) |
 | Schlag den Star: Das Spiel | 78045 | [78045-schlag-den-star-das-spiel.json](./78045-schlag-den-star-das-spiel.json) |
 | Schlo Complications | 298792 | [298792-schlo-complications.json](./298792-schlo-complications.json) |
@@ -6304,6 +6305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixtar Gate: Startrail - Yomoha's Planet | 274638 | [274638-sixtar-gate-startrail-yomohas-planet.json](./274638-sixtar-gate-startrail-yomohas-planet.json) |
 | Sixteen | 193213 | [193213-sixteen.json](./193213-sixteen.json) |
 | Sixteen Undead | 340368 | [340368-sixteen-undead.json](./340368-sixteen-undead.json) |
+| Sixth Extinction | 144616 | [144616-sixth-extinction.json](./144616-sixth-extinction.json) |
 | Sixth Grade Detective | 33911 | [33911-sixth-grade-detective.json](./33911-sixth-grade-detective.json) |
 | Sixth Night | 129710 | [129710-sixth-night.json](./129710-sixth-night.json) |
 | Sixtieth Kilometer: Eightieth Kilometer | 171910 | [171910-sixtieth-kilometer-eightieth-kilometer.json](./171910-sixtieth-kilometer-eightieth-kilometer.json) |
@@ -12181,6 +12183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spray | 5192 | [5192-spray.json](./5192-spray.json) |
 | Spray N' Pray | 369125 | [369125-spray-n-pray.json](./369125-spray-n-pray.json) |
 | Spray Paint Simulator | 322702 | [322702-spray-paint-simulator.json](./322702-spray-paint-simulator.json) |
+| Spread Eagle Cross the Block! | 144611 | [144611-spread-eagle-cross-the-block.json](./144611-spread-eagle-cross-the-block.json) |
 | Spread Out! Hold Naar' Havok | 273632 | [273632-spread-out-hold-naar-havok.json](./273632-spread-out-hold-naar-havok.json) |
 | Spread: Transmission | 241387 | [241387-spread-transmission.json](./241387-spread-transmission.json) |
 | SpreadCheat | 322905 | [322905-spreadcheat.json](./322905-spreadcheat.json) |
@@ -14627,6 +14630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storefront | 376481 | [376481-storefront.json](./376481-storefront.json) |
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
 | Stories | 292753 | [292753-stories.json](./292753-stories.json) |
+| Stories of Liane | 144603 | [144603-stories-of-liane.json](./144603-stories-of-liane.json) |
 | Stories of Somnia | 353378 | [353378-stories-of-somnia.json](./353378-stories-of-somnia.json) |
 | Stories of Submission: Enter the Cuck | 163943 | [163943-stories-of-submission-enter-the-cuck.json](./163943-stories-of-submission-enter-the-cuck.json) |
 | Stories of the Dreaming World | 303009 | [303009-stories-of-the-dreaming-world.json](./303009-stories-of-the-dreaming-world.json) |
