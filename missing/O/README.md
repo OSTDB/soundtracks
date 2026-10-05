@@ -2902,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutRunners | 39574 | [39574-outrunners.json](./39574-outrunners.json) |
 | Outscore | 182529 | [182529-outscore.json](./182529-outscore.json) |
 | Outscratched | 404375 | [404375-outscratched.json](./404375-outscratched.json) |
+| Outset | 143949 | [143949-outset.json](./143949-outset.json) |
 | Outshine | 192359 | [192359-outshine.json](./192359-outshine.json) |
 | Outside | 339895 | [339895-outside.json](./339895-outside.json) |
 | Outside | 385260 | [385260-outside.json](./385260-outside.json) |
