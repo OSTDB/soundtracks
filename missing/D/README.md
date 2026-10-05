@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dalmatians 3 | 43473 | [43473-dalmatians-3.json](./43473-dalmatians-3.json) |
 | Dalo | 207514 | [207514-dalo.json](./207514-dalo.json) |
 | Daloman Depths | 159139 | [159139-daloman-depths.json](./159139-daloman-depths.json) |
+| Dalruan: World of Magic | 169254 | [169254-dalruan-world-of-magic.json](./169254-dalruan-world-of-magic.json) |
 | Dalton: The Awesome! | 263577 | [263577-dalton-the-awesome.json](./263577-dalton-the-awesome.json) |
 | Dam Dam Stompland | 92317 | [92317-dam-dam-stompland.json](./92317-dam-dam-stompland.json) |
 | Dam Panic | 346038 | [346038-dam-panic.json](./346038-dam-panic.json) |
@@ -7211,6 +7212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down the Hole | 133813 | [133813-down-the-hole.json](./133813-down-the-hole.json) |
 | Down the Ratbit Hole | 271371 | [271371-down-the-ratbit-hole.json](./271371-down-the-ratbit-hole.json) |
 | Down the Shaft | 305176 | [305176-down-the-shaft.json](./305176-down-the-shaft.json) |
+| Down the Trench | 169269 | [169269-down-the-trench.json](./169269-down-the-trench.json) |
 | Down There Somewhere | 269031 | [269031-down-there-somewhere.json](./269031-down-there-somewhere.json) |
 | Down Under | 252397 | [252397-down-under.json](./252397-down-under.json) |
 | Down Ward | 126429 | [126429-down-ward.json](./126429-down-ward.json) |
@@ -9910,6 +9912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light: The Beast - Fire Lotus Weapon Pack | 406281 | [406281-dying-light-the-beast-fire-lotus-weapon-pack.json](./406281-dying-light-the-beast-fire-lotus-weapon-pack.json) |
 | Dying Light: The Beast - Hero of Harran Bundle | 406276 | [406276-dying-light-the-beast-hero-of-harran-bundle.json](./406276-dying-light-the-beast-hero-of-harran-bundle.json) |
 | Dying Light: The Beast - Hunter Essentials | 406278 | [406278-dying-light-the-beast-hunter-essentials.json](./406278-dying-light-the-beast-hunter-essentials.json) |
+| Dying Light: The Following - Astronaut Bundle | 169250 | [169250-dying-light-the-following-astronaut-bundle.json](./169250-dying-light-the-following-astronaut-bundle.json) |
 | Dying Night Sex with Zombi | 375952 | [375952-dying-night-sex-with-zombi.json](./375952-dying-night-sex-with-zombi.json) |
 | Dying of Thirst | 177298 | [177298-dying-of-thirst.json](./177298-dying-of-thirst.json) |
 | Dying Reign | 355560 | [355560-dying-reign.json](./355560-dying-reign.json) |
