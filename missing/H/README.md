@@ -218,9 +218,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuga | 280179 | [280179-hakuga.json](./280179-hakuga.json) |
 | Hakuisei Renai Shoukougun | 115480 | [115480-hakuisei-renai-shoukougun.json](./115480-hakuisei-renai-shoukougun.json) |
 | Hakuoki Ibun: Berezinskii no Majo | 287896 | [287896-hakuoki-ibun-berezinskii-no-majo.json](./287896-hakuoki-ibun-berezinskii-no-majo.json) |
+| Hakuoki Kaikoroku | 163340 | [163340-hakuoki-kaikoroku.json](./163340-hakuoki-kaikoroku.json) |
 | Hakuoki Shinkai: Ginsei no Shou | 136838 | [136838-hakuoki-shinkai-ginsei-no-shou.json](./136838-hakuoki-shinkai-ginsei-no-shou.json) |
 | Hakuoki Shinkai: Ten'un no Shou | 221222 | [221222-hakuoki-shinkai-tenun-no-shou.json](./221222-hakuoki-shinkai-tenun-no-shou.json) |
 | Hakuoki SSL: Sweet School Life for Nintendo Switch | 243921 | [243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json](./243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json) |
+| Hakuoki Yuugiroku | 163342 | [163342-hakuoki-yuugiroku.json](./163342-hakuoki-yuugiroku.json) |
 | Hakuoki Yuugiroku 2: Matsuribayashi to Taishi-tachi | 221221 | [221221-hakuoki-yuugiroku-2-matsuribayashi-to-taishi-tachi.json](./221221-hakuoki-yuugiroku-2-matsuribayashi-to-taishi-tachi.json) |
 | Hakuoki Yuugiroku DS | 221219 | [221219-hakuoki-yuugiroku-ds.json](./221219-hakuoki-yuugiroku-ds.json) |
 | Hakuoki Yuugiroku Taishitachi no Daienkai | 124016 | [124016-hakuoki-yuugiroku-taishitachi-no-daienkai.json](./124016-hakuoki-yuugiroku-taishitachi-no-daienkai.json) |
