@@ -1410,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elsword | 115692 | [115692-elsword.json](./115692-elsword.json) |
 | Elta 7 | 192684 | [192684-elta-7.json](./192684-elta-7.json) |
 | Elthlead Senshi | 92072 | [92072-elthlead-senshi.json](./92072-elthlead-senshi.json) |
+| Elude | 152474 | [152474-elude.json](./152474-elude.json) |
 | Elumin | 295811 | [295811-elumin.json](./295811-elumin.json) |
 | Elune | 125832 | [125832-elune.json](./125832-elune.json) |
 | Elusive | 336540 | [336540-elusive.json](./336540-elusive.json) |
@@ -4136,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Express 404 | 415326 | [415326-express-404.json](./415326-express-404.json) |
 | Express Courier Pro: Urban Bike Delivery Simulator 2024! | 300862 | [300862-express-courier-pro-urban-bike-delivery-simulator-2024.json](./300862-express-courier-pro-urban-bike-delivery-simulator-2024.json) |
 | Express Raider | 13654 | [13654-express-raider.json](./13654-express-raider.json) |
+| Express Simulator | 152463 | [152463-express-simulator.json](./152463-express-simulator.json) |
 | Exquisite Corpse | 273568 | [273568-exquisite-corpse.json](./273568-exquisite-corpse.json) |
 | Exquisite Fishing | 235874 | [235874-exquisite-fishing.json](./235874-exquisite-fishing.json) |
 | Exquisite Girls | 372121 | [372121-exquisite-girls.json](./372121-exquisite-girls.json) |
