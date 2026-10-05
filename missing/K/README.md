@@ -2377,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Crawler | 356886 | [356886-knight-crawler.json](./356886-knight-crawler.json) |
 | Knight Crawlers | 197216 | [197216-knight-crawlers.json](./197216-knight-crawlers.json) |
 | Knight Driver | 133443 | [133443-knight-driver.json](./133443-knight-driver.json) |
+| Knight Empire Online | 130719 | [130719-knight-empire-online.json](./130719-knight-empire-online.json) |
 | Knight Fighter | 96902 | [96902-knight-fighter.json](./96902-knight-fighter.json) |
 | Knight Foretold | 252802 | [252802-knight-foretold.json](./252802-knight-foretold.json) |
 | Knight Fortix 2 | 42770 | [42770-knight-fortix-2.json](./42770-knight-fortix-2.json) |
@@ -2441,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightess | 262943 | [262943-knightess.json](./262943-knightess.json) |
 | Knightfall 2 | 128659 | [128659-knightfall-2.json](./128659-knightfall-2.json) |
 | Knightfall Showdown | 322969 | [322969-knightfall-showdown.json](./322969-knightfall-showdown.json) |
+| Knighthood | 130678 | [130678-knighthood.json](./130678-knighthood.json) |
 | Knightly Gnomes | 309508 | [309508-knightly-gnomes.json](./309508-knightly-gnomes.json) |
 | KnightMan | 257387 | [257387-knightman.json](./257387-knightman.json) |
 | Knightmare | 12166 | [12166-knightmare.json](./12166-knightmare.json) |
