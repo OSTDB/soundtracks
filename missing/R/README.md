@@ -1164,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratomon | 151041 | [151041-ratomon.json](./151041-ratomon.json) |
 | RatPark | 206355 | [206355-ratpark.json](./206355-ratpark.json) |
 | Ratropolis | 121270 | [121270-ratropolis.json](./121270-ratropolis.json) |
+| Rats for Breakfast | 126999 | [126999-rats-for-breakfast.json](./126999-rats-for-breakfast.json) |
 | Rats Invasion | 96673 | [96673-rats-invasion.json](./96673-rats-invasion.json) |
 | Rats Invasion 2 | 86889 | [86889-rats-invasion-2.json](./86889-rats-invasion-2.json) |
 | Ratshaker: Rat-Chan Pack | 395801 | [395801-ratshaker-rat-chan-pack.json](./395801-ratshaker-rat-chan-pack.json) |
@@ -3994,6 +3995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer: Turbo Mode | 297592 | [297592-ridge-racer-turbo-mode.json](./297592-ridge-racer-turbo-mode.json) |
 | Ridge Runner | 233250 | [233250-ridge-runner.json](./233250-ridge-runner.json) |
 | Ridgewood Road | 177397 | [177397-ridgewood-road.json](./177397-ridgewood-road.json) |
+| Ridiculous Bombing Game | 126950 | [126950-ridiculous-bombing-game.json](./126950-ridiculous-bombing-game.json) |
 | Ridiculous Fishing | 5635 | [5635-ridiculous-fishing.json](./5635-ridiculous-fishing.json) |
 | Ridiculous Glitching | 332639 | [332639-ridiculous-glitching.json](./332639-ridiculous-glitching.json) |
 | Ridiculous RPG | 232041 | [232041-ridiculous-rpg.json](./232041-ridiculous-rpg.json) |
@@ -6787,6 +6789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runner | 84538 | [84538-runner.json](./84538-runner.json) |
 | Runner Bear | 307074 | [307074-runner-bear.json](./307074-runner-bear.json) |
 | Runner Coaster | 220055 | [220055-runner-coaster.json](./220055-runner-coaster.json) |
+| Runner Heroes: The Curse of Night and Day | 127001 | [127001-runner-heroes-the-curse-of-night-and-day.json](./127001-runner-heroes-the-curse-of-night-and-day.json) |
 | Runner Party | 193306 | [193306-runner-party.json](./193306-runner-party.json) |
 | Runner Roy | 250396 | [250396-runner-roy.json](./250396-runner-roy.json) |
 | Runner's High | 266281 | [266281-runners-high.json](./266281-runners-high.json) |
