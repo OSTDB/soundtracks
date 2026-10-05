@@ -990,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Billiards: Blueprint | 22314 | [22314-magnetic-billiards-blueprint.json](./22314-magnetic-billiards-blueprint.json) |
 | Magnetic By Nature | 17322 | [17322-magnetic-by-nature.json](./17322-magnetic-by-nature.json) |
 | Magnetic Crane | 70952 | [70952-magnetic-crane.json](./70952-magnetic-crane.json) |
+| Magnetic Daydream | 120756 | [120756-magnetic-daydream.json](./120756-magnetic-daydream.json) |
 | Magnetic Monopole Mayhem | 181137 | [181137-magnetic-monopole-mayhem.json](./181137-magnetic-monopole-mayhem.json) |
 | Magnetic Projectiles | 211668 | [211668-magnetic-projectiles.json](./211668-magnetic-projectiles.json) |
 | Magnetic Pull | 118324 | [118324-magnetic-pull.json](./118324-magnetic-pull.json) |
@@ -8450,6 +8451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Dreams | 138832 | [138832-monster-girl-dreams.json](./138832-monster-girl-dreams.json) |
 | Monster Girl Dungeon | 166214 | [166214-monster-girl-dungeon.json](./166214-monster-girl-dungeon.json) |
 | Monster Girl Fantasy | 116339 | [116339-monster-girl-fantasy.json](./116339-monster-girl-fantasy.json) |
+| Monster Girl Fantasy 2: Exposed | 120738 | [120738-monster-girl-fantasy-2-exposed.json](./120738-monster-girl-fantasy-2-exposed.json) |
 | Monster Girl Incursion | 169154 | [169154-monster-girl-incursion.json](./169154-monster-girl-incursion.json) |
 | Monster Girl Jungle | 375969 | [375969-monster-girl-jungle.json](./375969-monster-girl-jungle.json) |
 | Monster Girl Maker 2 | 362265 | [362265-monster-girl-maker-2.json](./362265-monster-girl-maker-2.json) |
@@ -9351,6 +9353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortgage Nightmares | 341336 | [341336-mortgage-nightmares.json](./341336-mortgage-nightmares.json) |
 | Morth | 149587 | [149587-morth.json](./149587-morth.json) |
 | Mortician Inc.: Idle Empire | 245377 | [245377-mortician-inc-idle-empire.json](./245377-mortician-inc-idle-empire.json) |
+| Mortido | 120744 | [120744-mortido.json](./120744-mortido.json) |
 | Mortie College | 370714 | [370714-mortie-college.json](./370714-mortie-college.json) |
 | Mortificare | 201003 | [201003-mortificare.json](./201003-mortificare.json) |
 | Mortified | 249780 | [249780-mortified.json](./249780-mortified.json) |
@@ -11215,6 +11218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pirate Husbandos | 320766 | [320766-my-pirate-husbandos.json](./320766-my-pirate-husbandos.json) |
 | My Pizza Story | 248101 | [248101-my-pizza-story.json](./248101-my-pizza-story.json) |
 | My Place Diary | 405652 | [405652-my-place-diary.json](./405652-my-place-diary.json) |
+| My Planet [RTS] | 120717 | [120717-my-planet-rts.json](./120717-my-planet-rts.json) |
 | My Pleasure: Season 3 | 270975 | [270975-my-pleasure-season-3.json](./270975-my-pleasure-season-3.json) |
 | My Plushy Shift | 324875 | [324875-my-plushy-shift.json](./324875-my-plushy-shift.json) |
 | My Pokémon Ranch | 4563 | [4563-my-pokemon-ranch.json](./4563-my-pokemon-ranch.json) |
