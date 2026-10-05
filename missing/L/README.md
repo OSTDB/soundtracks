@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Divina Commedia | 361884 | [361884-la-divina-commedia.json](./361884-la-divina-commedia.json) |
 | La Espada Sagrada | 141821 | [141821-la-espada-sagrada.json](./141821-la-espada-sagrada.json) |
 | La Foret | 176779 | [176779-la-foret.json](./176779-la-foret.json) |
+| La Foret De Pago 2: Souvenir de Glace | 163800 | [163800-la-foret-de-pago-2-souvenir-de-glace.json](./163800-la-foret-de-pago-2-souvenir-de-glace.json) |
 | La Fuga | 115603 | [115603-la-fuga.json](./115603-la-fuga.json) |
 | La Historia De | 129078 | [129078-la-historia-de.json](./129078-la-historia-de.json) |
 | LA Hollywood Zombies | 273633 | [273633-la-hollywood-zombies.json](./273633-la-hollywood-zombies.json) |
@@ -5309,6 +5310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunhowl: Co-op Horror | 348762 | [348762-lunhowl-co-op-horror.json](./348762-lunhowl-co-op-horror.json) |
 | Lúnhuí Xiūxiān Jué | 157565 | [157565-lunhui-xiuxian-jue.json](./157565-lunhui-xiuxian-jue.json) |
 | Lúnhuí Xiūxiān Zhuàn | 373688 | [373688-lunhui-xiuxian-zhuan.json](./373688-lunhui-xiuxian-zhuan.json) |
+| Lúnhuí Xiūzhēn OL | 163890 | [163890-lunhui-xiuzhen-ol.json](./163890-lunhui-xiuzhen-ol.json) |
 | Lunia Z:Revival | 259020 | [259020-lunia-z-revival.json](./259020-lunia-z-revival.json) |
 | Lunicus | 79597 | [79597-lunicus.json](./79597-lunicus.json) |
 | Lunium | 282674 | [282674-lunium.json](./282674-lunium.json) |
