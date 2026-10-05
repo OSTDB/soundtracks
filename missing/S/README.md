@@ -7040,6 +7040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slave Zero X: Digital Deluxe Edition | 277028 | [277028-slave-zero-x-digital-deluxe-edition.json](./277028-slave-zero-x-digital-deluxe-edition.json) |
 | Slave's Sword 2 ~Imperial Revolution~ | 113818 | [113818-slaves-sword-2-imperial-revolution.json](./113818-slaves-sword-2-imperial-revolution.json) |
 | Slaveblade | 121774 | [121774-slaveblade.json](./121774-slaveblade.json) |
+| SlaveHack 2 | 125791 | [125791-slavehack-2.json](./125791-slavehack-2.json) |
 | Slaves | 220688 | [220688-slaves.json](./220688-slaves.json) |
 | Slaves to Armok: God of Blood | 60084 | [60084-slaves-to-armok-god-of-blood.json](./60084-slaves-to-armok-god-of-blood.json) |
 | Slavic Gods Rodnoverie | 298304 | [298304-slavic-gods-rodnoverie.json](./298304-slavic-gods-rodnoverie.json) |
@@ -7583,6 +7584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small People Defense | 236325 | [236325-small-people-defense.json](./236325-small-people-defense.json) |
 | Small Pixel | 105094 | [105094-small-pixel.json](./105094-small-pixel.json) |
 | Small Press Tycoon | 157102 | [157102-small-press-tycoon.json](./157102-small-press-tycoon.json) |
+| Small Rage | 125789 | [125789-small-rage.json](./125789-small-rage.json) |
 | Small Rockets Mahjongg | 208956 | [208956-small-rockets-mahjongg.json](./208956-small-rockets-mahjongg.json) |
 | Small Soldiers | 166528 | [166528-small-soldiers.json](./166528-small-soldiers.json) |
 | Small Soldiers | 71671 | [71671-small-soldiers.json](./71671-small-soldiers.json) |
@@ -8029,6 +8031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snaky Snakes | 321505 | [321505-snaky-snakes.json](./321505-snaky-snakes.json) |
 | Snaky Squares | 240341 | [240341-snaky-squares.json](./240341-snaky-squares.json) |
 | Snaky Survivor | 264624 | [264624-snaky-survivor.json](./264624-snaky-survivor.json) |
+| Snaky Tickets | 125785 | [125785-snaky-tickets.json](./125785-snaky-tickets.json) |
 | Snaliens | 128346 | [128346-snaliens.json](./128346-snaliens.json) |
 | Snap & Grab | 347669 | [347669-snap-and-grab.json](./347669-snap-and-grab.json) |
 | Snap Flex | 334169 | [334169-snap-flex.json](./334169-snap-flex.json) |
@@ -13130,6 +13133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Stealing Prince: Definitive | 183962 | [183962-star-stealing-prince-definitive.json](./183962-star-stealing-prince-definitive.json) |
 | Star Steel | 159837 | [159837-star-steel.json](./159837-star-steel.json) |
 | Star Stone Splash | 274491 | [274491-star-stone-splash.json](./274491-star-stone-splash.json) |
+| Star Storm | 125790 | [125790-star-storm.json](./125790-star-storm.json) |
 | Star Story: The Horizon Escape | 27005 | [27005-star-story-the-horizon-escape.json](./27005-star-story-the-horizon-escape.json) |
 | Star Strike | 85878 | [85878-star-strike.json](./85878-star-strike.json) |
 | Star Striker | 13762 | [13762-star-striker.json](./13762-star-striker.json) |
