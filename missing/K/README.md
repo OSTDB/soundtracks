@@ -1777,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Birth by Sleep Final Mix | 221997 | [221997-kingdom-hearts-birth-by-sleep-final-mix.json](./221997-kingdom-hearts-birth-by-sleep-final-mix.json) |
 | Kingdom Hearts coded | 20285 | [20285-kingdom-hearts-coded.json](./20285-kingdom-hearts-coded.json) |
 | Kingdom Hearts Dream Drop Distance HD | 117525 | [117525-kingdom-hearts-dream-drop-distance-hd.json](./117525-kingdom-hearts-dream-drop-distance-hd.json) |
+| Kingdom Hearts Final Mix: Platinum Limited Edition | 151255 | [151255-kingdom-hearts-final-mix-platinum-limited-edition.json](./151255-kingdom-hearts-final-mix-platinum-limited-edition.json) |
 | Kingdom Hearts HD 1.5 + 2.5 Remix | 27979 | [27979-kingdom-hearts-hd-1-5-2-5-remix.json](./27979-kingdom-hearts-hd-1-5-2-5-remix.json) |
 | Kingdom Hearts HD 1.5 Remix | 7356 | [7356-kingdom-hearts-hd-1-5-remix.json](./7356-kingdom-hearts-hd-1-5-remix.json) |
 | Kingdom Hearts HD 1.5 Remix: Limited Edition | 81206 | [81206-kingdom-hearts-hd-1-5-remix-limited-edition.json](./81206-kingdom-hearts-hd-1-5-remix-limited-edition.json) |
