@@ -3117,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Many | 17339 | [17339-hero-of-many.json](./17339-hero-of-many.json) |
 | Hero of Not Our Time | 144818 | [144818-hero-of-not-our-time.json](./144818-hero-of-not-our-time.json) |
 | Hero of Sparta | 21690 | [21690-hero-of-sparta.json](./21690-hero-of-sparta.json) |
+| Hero of the Forest | 122818 | [122818-hero-of-the-forest.json](./122818-hero-of-the-forest.json) |
 | Hero of the Galactic Core | 55512 | [55512-hero-of-the-galactic-core.json](./55512-hero-of-the-galactic-core.json) |
 | Hero of the Hive | 311600 | [311600-hero-of-the-hive.json](./311600-hero-of-the-hive.json) |
 | Hero of the Kingdom | 9638 | [9638-hero-of-the-kingdom.json](./9638-hero-of-the-kingdom.json) |
@@ -3573,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hextalia | 353966 | [353966-hextalia.json](./353966-hextalia.json) |
 | HexTD | 212834 | [212834-hextd.json](./212834-hextd.json) |
 | Hexteria | 153889 | [153889-hexteria.json](./153889-hexteria.json) |
+| Hexterio | 122834 | [122834-hexterio.json](./122834-hexterio.json) |
 | Hexterminate | 133411 | [133411-hexterminate.json](./133411-hexterminate.json) |
 | Hexters | 81393 | [81393-hexters.json](./81393-hexters.json) |
 | Hexton | 298243 | [298243-hexton.json](./298243-hexton.json) |
@@ -3588,6 +3590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexxagon - Board Game | 147988 | [147988-hexxagon-board-game.json](./147988-hexxagon-board-game.json) |
 | Hexxaris | 301817 | [301817-hexxaris.json](./301817-hexxaris.json) |
 | Hexxen: Hunters | 262676 | [262676-hexxen-hunters.json](./262676-hexxen-hunters.json) |
+| Hexxon | 122839 | [122839-hexxon.json](./122839-hexxon.json) |
 | Hexyz Force | 42884 | [42884-hexyz-force.json](./42884-hexyz-force.json) |
 | Hexzen | 408950 | [408950-hexzen.json](./408950-hexzen.json) |
 | Hey Arnold!: Match-Master | 273883 | [273883-hey-arnold-match-master.json](./273883-hey-arnold-match-master.json) |
@@ -5697,6 +5700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Rider Racing Simulator | 290428 | [290428-hot-rider-racing-simulator.json](./290428-hot-rider-racing-simulator.json) |
 | Hot Rod Racer | 85180 | [85180-hot-rod-racer.json](./85180-hot-rod-racer.json) |
 | Hot Rod: Garage to Glory | 73365 | [73365-hot-rod-garage-to-glory.json](./73365-hot-rod-garage-to-glory.json) |
+| Hot Routes: VR Football | 122843 | [122843-hot-routes-vr-football.json](./122843-hot-routes-vr-football.json) |
 | Hot Runback: VR Runner | 68656 | [68656-hot-runback-vr-runner.json](./68656-hot-runback-vr-runner.json) |
 | Hot Sauna | 368110 | [368110-hot-sauna.json](./368110-hot-sauna.json) |
 | Hot Sento Girls and love | 208869 | [208869-hot-sento-girls-and-love.json](./208869-hot-sento-girls-and-love.json) |
