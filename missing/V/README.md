@@ -1135,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viki Spotter: Sports | 99088 | [99088-viki-spotter-sports.json](./99088-viki-spotter-sports.json) |
 | Vikindor | 207305 | [207305-vikindor.json](./207305-vikindor.json) |
 | Viking Age: Odin’s Warrior | 103414 | [103414-viking-age-odin-s-warrior.json](./103414-viking-age-odin-s-warrior.json) |
+| Viking Berserker | 154050 | [154050-viking-berserker.json](./154050-viking-berserker.json) |
 | Viking Breaker | 346586 | [346586-viking-breaker.json](./346586-viking-breaker.json) |
 | Viking Brothers | 36372 | [36372-viking-brothers.json](./36372-viking-brothers.json) |
 | Viking Brothers 2 | 53872 | [53872-viking-brothers-2.json](./53872-viking-brothers-2.json) |
