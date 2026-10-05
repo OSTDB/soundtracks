@@ -2271,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ahmmit's Gate | 184944 | [184944-ahmmits-gate.json](./184944-ahmmits-gate.json) |
 | Ahnayro: The Dream World | 22377 | [22377-ahnayro-the-dream-world.json](./22377-ahnayro-the-dream-world.json) |
 | AHOD: All Hands on Deck! | 217244 | [217244-ahod-all-hands-on-deck.json](./217244-ahod-all-hands-on-deck.json) |
+| Ahoy | 153516 | [153516-ahoy.json](./153516-ahoy.json) |
 | Ahriman's Prophecy | 10009 | [10009-ahrimans-prophecy.json](./10009-ahrimans-prophecy.json) |
 | Ahro | 190479 | [190479-ahro.json](./190479-ahro.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
@@ -5168,6 +5169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Memes | 405608 | [405608-anime-memes.json](./405608-anime-memes.json) |
 | Anime Minesweeper | 392464 | [392464-anime-minesweeper.json](./392464-anime-minesweeper.json) |
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
+| Anime Play Life: Unlimited | 153494 | [153494-anime-play-life-unlimited.json](./153494-anime-play-life-unlimited.json) |
 | Anime Poly Puzzle: Sci-Fi Maidens | 266164 | [266164-anime-poly-puzzle-sci-fi-maidens.json](./266164-anime-poly-puzzle-sci-fi-maidens.json) |
 | Anime puzzle | 152764 | [152764-anime-puzzle.json](./152764-anime-puzzle.json) |
 | Anime Puzzle Quest: 32 Animal Girls in Puzzle /2 | 317953 | [317953-anime-puzzle-quest-32-animal-girls-in-puzzle-2.json](./317953-anime-puzzle-quest-32-animal-girls-in-puzzle-2.json) |
