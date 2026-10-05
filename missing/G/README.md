@@ -1590,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genkai Shikisai Kankaku Test Hard | 266168 | [266168-genkai-shikisai-kankaku-test-hard.json](./266168-genkai-shikisai-kankaku-test-hard.json) |
 | Genkai Tokki Moero Crystal | 60222 | [60222-genkai-tokki-moero-crystal.json](./60222-genkai-tokki-moero-crystal.json) |
 | Genkai Tokki: Castle Panzers | 27761 | [27761-genkai-tokki-castle-panzers.json](./27761-genkai-tokki-castle-panzers.json) |
+| Genkai Tokki: Castle Panzers - Limited Edition | 167090 | [167090-genkai-tokki-castle-panzers-limited-edition.json](./167090-genkai-tokki-castle-panzers-limited-edition.json) |
 | Genkai! Yamazumi Battle | 222374 | [222374-genkai-yamazumi-battle.json](./222374-genkai-yamazumi-battle.json) |
 | Genki Village | 143036 | [143036-genki-village.json](./143036-genki-village.json) |
 | GenMobile | 202810 | [202810-genmobile.json](./202810-genmobile.json) |
@@ -4484,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GRE Words Puzzle | 110300 | [110300-gre-words-puzzle.json](./110300-gre-words-puzzle.json) |
 | Greak 2: Alliance of the Storms | 415149 | [415149-greak-2-alliance-of-the-storms.json](./415149-greak-2-alliance-of-the-storms.json) |
 | Greak: Memories of Azur | 122126 | [122126-greak-memories-of-azur.json](./122126-greak-memories-of-azur.json) |
+| Greak: Memories of Azur - Deluxe Edition | 167185 | [167185-greak-memories-of-azur-deluxe-edition.json](./167185-greak-memories-of-azur-deluxe-edition.json) |
 | Grease Dance | 20218 | [20218-grease-dance.json](./20218-grease-dance.json) |
 | Grease Monkey Grand Prix | 343238 | [343238-grease-monkey-grand-prix.json](./343238-grease-monkey-grand-prix.json) |
 | Greasemnk++ | 347290 | [347290-greasemnk.json](./347290-greasemnk.json) |
