@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasia: Surreal Cosmic Progeny | 133391 | [133391-fantasia-surreal-cosmic-progeny.json](./133391-fantasia-surreal-cosmic-progeny.json) |
 | Fantasia: The Realm of Thanos | 243964 | [243964-fantasia-the-realm-of-thanos.json](./243964-fantasia-the-realm-of-thanos.json) |
 | Fantasic Cube | 129763 | [129763-fantasic-cube.json](./129763-fantasic-cube.json) |
+| Fantasic Tambourine | 129537 | [129537-fantasic-tambourine.json](./129537-fantasic-tambourine.json) |
 | Fantasization | 68593 | [68593-fantasization.json](./68593-fantasization.json) |
 | Fantasma | 153915 | [153915-fantasma.json](./153915-fantasma.json) |
 | Fantasteroids | 218588 | [218588-fantasteroids.json](./218588-fantasteroids.json) |
@@ -2467,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter's Fury | 72082 | [72082-fighters-fury.json](./72082-fighters-fury.json) |
 | Fighter's History 2 | 58791 | [58791-fighters-history-2.json](./58791-fighters-history-2.json) |
 | Fighter's Rampage | 235309 | [235309-fighters-rampage.json](./235309-fighters-rampage.json) |
+| Fighters Kyodotai | 129612 | [129612-fighters-kyodotai.json](./129612-fighters-kyodotai.json) |
 | Fighters of Capcom | 280849 | [280849-fighters-of-capcom.json](./280849-fighters-of-capcom.json) |
 | Fighters Unleashed | 30166 | [30166-fighters-unleashed.json](./30166-fighters-unleashed.json) |
 | Fighters Wizards | 131595 | [131595-fighters-wizards.json](./131595-fighters-wizards.json) |
