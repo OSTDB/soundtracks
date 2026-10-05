@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makka Pakka 2 | 375322 | [375322-makka-pakka-2.json](./375322-makka-pakka-2.json) |
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
+| Makoto Wakaido's Case Files: Phantom's Foot | 151811 | [151811-makoto-wakaidos-case-files-phantoms-foot.json](./151811-makoto-wakaidos-case-files-phantoms-foot.json) |
 | Makutsu no Liliane | 310120 | [310120-makutsu-no-liliane.json](./310120-makutsu-no-liliane.json) |
 | Mala Petaka | 224535 | [224535-mala-petaka.json](./224535-mala-petaka.json) |
 | Malacadabra | 229037 | [229037-malacadabra.json](./229037-malacadabra.json) |
@@ -2055,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Arcade GP | 45160 | [45160-mario-kart-arcade-gp.json](./45160-mario-kart-arcade-gp.json) |
 | Mario Kart Arcade GP VR | 48711 | [48711-mario-kart-arcade-gp-vr.json](./48711-mario-kart-arcade-gp-vr.json) |
 | Mario Kart Black | 358436 | [358436-mario-kart-black.json](./358436-mario-kart-black.json) |
+| Mario Kart CW | 151835 | [151835-mario-kart-cw.json](./151835-mario-kart-cw.json) |
 | Mario Kart DS: GameCube Grand Prix | 313347 | [313347-mario-kart-ds-gamecube-grand-prix.json](./313347-mario-kart-ds-gamecube-grand-prix.json) |
 | Mario Kart PC | 294712 | [294712-mario-kart-pc.json](./294712-mario-kart-pc.json) |
 | Mario Kart R | 42204 | [42204-mario-kart-r.json](./42204-mario-kart-r.json) |
@@ -4495,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mekanin | 172511 | [172511-mekanin.json](./172511-mekanin.json) |
 | Mekanizm | 72332 | [72332-mekanizm.json](./72332-mekanizm.json) |
 | Mekazoo | 19203 | [19203-mekazoo.json](./19203-mekazoo.json) |
+| Mekururi Witch | 151803 | [151803-mekururi-witch.json](./151803-mekururi-witch.json) |
 | Mel The Cat | 375433 | [375433-mel-the-cat.json](./375433-mel-the-cat.json) |
 | Mel The Pyramid Cat | 401742 | [401742-mel-the-pyramid-cat.json](./401742-mel-the-pyramid-cat.json) |
 | Mel-Practice | 402481 | [402481-mel-practice.json](./402481-mel-practice.json) |
@@ -6961,6 +6964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniopolis | 418518 | [418518-miniopolis.json](./418518-miniopolis.json) |
 | MiniPix Jump | 255049 | [255049-minipix-jump.json](./255049-minipix-jump.json) |
 | MiniPoly.io | 223531 | [223531-minipoly-io.json](./223531-minipoly-io.json) |
+| MiniRacingOnline | 151834 | [151834-miniracingonline.json](./151834-miniracingonline.json) |
 | MiniSquadron | 52583 | [52583-minisquadron.json](./52583-minisquadron.json) |
 | MiniState | 129683 | [129683-ministate.json](./129683-ministate.json) |
 | Ministry of Order | 334893 | [334893-ministry-of-order.json](./334893-ministry-of-order.json) |
@@ -8615,6 +8619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonsterReaver | 209913 | [209913-monsterreaver.json](./209913-monsterreaver.json) |
 | MonsterRoll | 97917 | [97917-monsterroll.json](./97917-monsterroll.json) |
 | Monsters | 13741 | [13741-monsters.json](./13741-monsters.json) |
+| Monsters | 151819 | [151819-monsters.json](./151819-monsters.json) |
 | Monsters | 314359 | [314359-monsters.json](./314359-monsters.json) |
 | Monsters 'til Midnight | 236220 | [236220-monsters-til-midnight.json](./236220-monsters-til-midnight.json) |
 | Monsters & Munitions | 16720 | [16720-monsters-and-munitions.json](./16720-monsters-and-munitions.json) |
