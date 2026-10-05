@@ -5841,6 +5841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The HinterLands | 33427 | [33427-the-hinterlands.json](./33427-the-hinterlands.json) |
 | The History Channel: Civil War - Secret Missions | 47404 | [47404-the-history-channel-civil-war-secret-missions.json](./47404-the-history-channel-civil-war-secret-missions.json) |
 | The History Channel: Crusades - Quest for Power | 69799 | [69799-the-history-channel-crusades-quest-for-power.json](./69799-the-history-channel-crusades-quest-for-power.json) |
+| The History Channel: Great Battles of Rome | 143345 | [143345-the-history-channel-great-battles-of-rome.json](./143345-the-history-channel-great-battles-of-rome.json) |
 | The History Channel: Great Battles of Rome | 20375 | [20375-the-history-channel-great-battles-of-rome.json](./20375-the-history-channel-great-battles-of-rome.json) |
 | The History Channel: The Civil War Experience | 200675 | [200675-the-history-channel-the-civil-war-experience.json](./200675-the-history-channel-the-civil-war-experience.json) |
 | The History of Everything | 415205 | [415205-the-history-of-everything.json](./415205-the-history-of-everything.json) |
@@ -13399,6 +13400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tofu Dream | 358734 | [358734-tofu-dream.json](./358734-tofu-dream.json) |
 | Tofu Drifter | 234600 | [234600-tofu-drifter.json](./234600-tofu-drifter.json) |
 | Tofu Go! 2: The Onsen Adventure | 242206 | [242206-tofu-go-2-the-onsen-adventure.json](./242206-tofu-go-2-the-onsen-adventure.json) |
+| Tofu Topple | 143379 | [143379-tofu-topple.json](./143379-tofu-topple.json) |
 | Tofu'Drift | 242629 | [242629-tofudrift.json](./242629-tofudrift.json) |
 | Toga | 256987 | [256987-toga.json](./256987-toga.json) |
 | Togainu no Chi: True Blood | 145289 | [145289-togainu-no-chi-true-blood.json](./145289-togainu-no-chi-true-blood.json) |
