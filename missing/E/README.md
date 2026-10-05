@@ -1105,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electric RC Sim | 101044 | [101044-electric-rc-sim.json](./101044-electric-rc-sim.json) |
 | Electric Road | 366422 | [366422-electric-road.json](./366422-electric-road.json) |
 | Electric Sheep | 406705 | [406705-electric-sheep.json](./406705-electric-sheep.json) |
+| Electric Sheep: A Cyberpunk Dystopia | 121496 | [121496-electric-sheep-a-cyberpunk-dystopia.json](./121496-electric-sheep-a-cyberpunk-dystopia.json) |
 | Electric Tortoise | 128613 | [128613-electric-tortoise.json](./128613-electric-tortoise.json) |
 | Electric Trains | 197741 | [197741-electric-trains.json](./197741-electric-trains.json) |
 | Electrician Simulator | 118473 | [118473-electrician-simulator.json](./118473-electrician-simulator.json) |
@@ -1836,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Life Care | 181886 | [181886-end-of-life-care.json](./181886-end-of-life-care.json) |
 | End of Line | 330158 | [330158-end-of-line.json](./330158-end-of-line.json) |
 | End of Lines | 188903 | [188903-end-of-lines.json](./188903-end-of-lines.json) |
+| End of Realms | 121413 | [121413-end-of-realms.json](./121413-end-of-realms.json) |
 | End of Sonic Inflation | 140540 | [140540-end-of-sonic-inflation.json](./140540-end-of-sonic-inflation.json) |
 | End of Space Project | 264651 | [264651-end-of-space-project.json](./264651-end-of-space-project.json) |
 | End of Starchild | 400374 | [400374-end-of-starchild.json](./400374-end-of-starchild.json) |
