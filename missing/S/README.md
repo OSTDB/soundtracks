@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctity | 282551 | [282551-sanctity.json](./282551-sanctity.json) |
 | Sanctuaries | 404390 | [404390-sanctuaries.json](./404390-sanctuaries.json) |
 | Sanctuarium Online | 191858 | [191858-sanctuarium-online.json](./191858-sanctuarium-online.json) |
+| Sanctuary Island | 150772 | [150772-sanctuary-island.json](./150772-sanctuary-island.json) |
 | Sanctuary Saga | 233575 | [233575-sanctuary-saga.json](./233575-sanctuary-saga.json) |
 | Sanctuary VR | 30182 | [30182-sanctuary-vr.json](./30182-sanctuary-vr.json) |
 | Sanctum 2: Road to Elysion | 10806 | [10806-sanctum-2-road-to-elysion.json](./10806-sanctum-2-road-to-elysion.json) |
@@ -7652,6 +7653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smelly Bubbles | 411679 | [411679-smelly-bubbles.json](./411679-smelly-bubbles.json) |
 | Smelogs Playground | 182270 | [182270-smelogs-playground.json](./182270-smelogs-playground.json) |
 | Smelter | 119191 | [119191-smelter.json](./119191-smelter.json) |
+| Smelter | 150757 | [150757-smelter.json](./150757-smelter.json) |
 | Smelter: Collector's Edition | 205263 | [205263-smelter-collectors-edition.json](./205263-smelter-collectors-edition.json) |
 | Smerch Battle Arena | 158638 | [158638-smerch-battle-arena.json](./158638-smerch-battle-arena.json) |
 | Smetanka | 156213 | [156213-smetanka.json](./156213-smetanka.json) |
@@ -8198,6 +8200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Town - Ice Village World | 108477 | [108477-snow-town-ice-village-world.json](./108477-snow-town-ice-village-world.json) |
 | Snow Vale | 220599 | [220599-snow-vale.json](./220599-snow-vale.json) |
 | Snow War | 211160 | [211160-snow-war.json](./211160-snow-war.json) |
+| Snow Wars | 150785 | [150785-snow-wars.json](./150785-snow-wars.json) |
 | Snow Wave | 91551 | [91551-snow-wave.json](./91551-snow-wave.json) |
 | Snow White and the Seven Dwarfs | 77396 | [77396-snow-white-and-the-seven-dwarfs.json](./77396-snow-white-and-the-seven-dwarfs.json) |
 | Snow White in Happily Ever After | 42582 | [42582-snow-white-in-happily-ever-after.json](./42582-snow-white-in-happily-ever-after.json) |
@@ -8688,6 +8691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier Elite | 208901 | [208901-soldier-elite.json](./208901-soldier-elite.json) |
 | Soldier Front 2 | 63308 | [63308-soldier-front-2.json](./63308-soldier-front-2.json) |
 | Soldier Girl Amazon | 40170 | [40170-soldier-girl-amazon.json](./40170-soldier-girl-amazon.json) |
+| Soldier in the darkness | 150773 | [150773-soldier-in-the-darkness.json](./150773-soldier-in-the-darkness.json) |
 | Soldier Killer | 54501 | [54501-soldier-killer.json](./54501-soldier-killer.json) |
 | Soldier of Failure 2 | 74356 | [74356-soldier-of-failure-2.json](./74356-soldier-of-failure-2.json) |
 | Soldier of Fortune | 135691 | [135691-soldier-of-fortune.json](./135691-soldier-of-fortune.json) |
