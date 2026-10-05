@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Escape 2 | 315577 | [315577-vampire-escape-2.json](./315577-vampire-escape-2.json) |
 | Vampire Escape 3 | 315579 | [315579-vampire-escape-3.json](./315579-vampire-escape-3.json) |
 | Vampire Family | 236837 | [236837-vampire-family.json](./236837-vampire-family.json) |
+| Vampire Garden | 145928 | [145928-vampire-garden.json](./145928-vampire-garden.json) |
 | Vampire Girls | 243152 | [243152-vampire-girls.json](./243152-vampire-girls.json) |
 | Vampire Hunter D | 126469 | [126469-vampire-hunter-d.json](./126469-vampire-hunter-d.json) |
 | Vampire Hunters | 244759 | [244759-vampire-hunters.json](./244759-vampire-hunters.json) |
