@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Rider | 43457 | [43457-taxi-rider.json](./43457-taxi-rider.json) |
 | Taxi Run | 254752 | [254752-taxi-run.json](./254752-taxi-run.json) |
 | Taxi Sim 2016 | 262382 | [262382-taxi-sim-2016.json](./262382-taxi-sim-2016.json) |
+| Taxi Sim 2020 | 147629 | [147629-taxi-sim-2020.json](./147629-taxi-sim-2020.json) |
 | Taxi Simulator | 343327 | [343327-taxi-simulator.json](./343327-taxi-simulator.json) |
 | Taxi Simulator in City | 263702 | [263702-taxi-simulator-in-city.json](./263702-taxi-simulator-in-city.json) |
 | Taxi Xtreme Urban Racer | 320368 | [320368-taxi-xtreme-urban-racer.json](./320368-taxi-xtreme-urban-racer.json) |
@@ -1746,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Six | 255240 | [255240-team-six.json](./255240-team-six.json) |
 | Team Slay-Bells | 279727 | [279727-team-slay-bells.json](./279727-team-slay-bells.json) |
 | Team Sonic Racing | 103018 | [103018-team-sonic-racing.json](./103018-team-sonic-racing.json) |
+| Team Troopers | 147625 | [147625-team-troopers.json](./147625-team-troopers.json) |
 | Team Umizoomi | 47958 | [47958-team-umizoomi.json](./47958-team-umizoomi.json) |
 | Team Umizoomi & Dora's Fantastic Flight | 7980 | [7980-team-umizoomi-and-doras-fantastic-flight.json](./7980-team-umizoomi-and-doras-fantastic-flight.json) |
 | Team Umizoomi: Umi City Heroes! | 230405 | [230405-team-umizoomi-umi-city-heroes.json](./230405-team-umizoomi-umi-city-heroes.json) |
