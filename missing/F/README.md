@@ -795,8 +795,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Igo Nyuumon | 48331 | [48331-famicom-igo-nyuumon.json](./48331-famicom-igo-nyuumon.json) |
 | Famicom Meijinsen | 48330 | [48330-famicom-meijinsen.json](./48330-famicom-meijinsen.json) |
 | Famicom Mini: Dai-2-ji Super Robot Taisen | 170948 | [170948-famicom-mini-dai-2-ji-super-robot-taisen.json](./170948-famicom-mini-dai-2-ji-super-robot-taisen.json) |
+| Famicom Mini: Famicom Mukashibanashi - Shin Onigashima | 170333 | [170333-famicom-mini-famicom-mukashibanashi-shin-onigashima.json](./170333-famicom-mini-famicom-mukashibanashi-shin-onigashima.json) |
+| Famicom Mini: Ganbare Goemon! - Karakuri Douchuu | 170271 | [170271-famicom-mini-ganbare-goemon-karakuri-douchuu.json](./170271-famicom-mini-ganbare-goemon-karakuri-douchuu.json) |
 | Famicom Mini: Kidou Senshi Z Gundam - Hot Scramble | 170947 | [170947-famicom-mini-kidou-senshi-z-gundam-hot-scramble.json](./170947-famicom-mini-kidou-senshi-z-gundam-hot-scramble.json) |
+| Famicom Mini: Mappy | 170277 | [170277-famicom-mini-mappy.json](./170277-famicom-mini-mappy.json) |
 | Famicom Mini: Mario Bros. | 170287 | [170287-famicom-mini-mario-bros.json](./170287-famicom-mini-mario-bros.json) |
+| Famicom Mini: Nazo no Murasame-jou | 170269 | [170269-famicom-mini-nazo-no-murasame-jou.json](./170269-famicom-mini-nazo-no-murasame-jou.json) |
 | Famicom Mini: SD Gundam World - Gachapon Senshi: Scramble Wars | 170283 | [170283-famicom-mini-sd-gundam-world-gachapon-senshi-scramble-wars.json](./170283-famicom-mini-sd-gundam-world-gachapon-senshi-scramble-wars.json) |
 | Famicom Mini: Star Soldier | 170295 | [170295-famicom-mini-star-soldier.json](./170295-famicom-mini-star-soldier.json) |
 | Famicom Mini: TwinBee | 170309 | [170309-famicom-mini-twinbee.json](./170309-famicom-mini-twinbee.json) |
@@ -3608,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Dream's​ | 387340 | [387340-five-nights-at-dreams.json](./387340-five-nights-at-dreams.json) |
 | Five Nights At Dungeon | 240161 | [240161-five-nights-at-dungeon.json](./240161-five-nights-at-dungeon.json) |
 | Five Nights at Ethans | 194614 | [194614-five-nights-at-ethans.json](./194614-five-nights-at-ethans.json) |
+| Five Nights at F***boy's 2: Final Mix | 170335 | [170335-five-nights-at-f-boys-2-final-mix.json](./170335-five-nights-at-f-boys-2-final-mix.json) |
 | Five Nights at F***boy's 3: Final Mix | 171894 | [171894-five-nights-at-f-boys-3-final-mix.json](./171894-five-nights-at-f-boys-3-final-mix.json) |
 | Five Nights at Floppa 0 | 207759 | [207759-five-nights-at-floppa-0.json](./207759-five-nights-at-floppa-0.json) |
 | Five Nights at Flow's | 377841 | [377841-five-nights-at-flows.json](./377841-five-nights-at-flows.json) |
