@@ -4445,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Wars | 60604 | [60604-chrono-wars.json](./60604-chrono-wars.json) |
 | Chrono's Arena | 126628 | [126628-chronos-arena.json](./126628-chronos-arena.json) |
 | ChronoBlade | 63877 | [63877-chronoblade.json](./63877-chronoblade.json) |
+| Chronoblast Maximum Force | 129532 | [129532-chronoblast-maximum-force.json](./129532-chronoblast-maximum-force.json) |
 | ChronoBreach | 117045 | [117045-chronobreach.json](./117045-chronobreach.json) |
 | Chronobreak | 185475 | [185475-chronobreak.json](./185475-chronobreak.json) |
 | Chronoclasm | 338810 | [338810-chronoclasm.json](./338810-chronoclasm.json) |
@@ -9571,6 +9572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crow | 17848 | [17848-crow.json](./17848-crow.json) |
 | Crow Boss | 351271 | [351271-crow-boss.json](./351271-crow-boss.json) |
 | Crow Country | 273522 | [273522-crow-country.json](./273522-crow-country.json) |
+| Crow Crime: A Murder Mystery | 129534 | [129534-crow-crime-a-murder-mystery.json](./129534-crow-crime-a-murder-mystery.json) |
 | Crow Heist | 401039 | [401039-crow-heist.json](./401039-crow-heist.json) |
 | Crow Story | 189147 | [189147-crow-story.json](./189147-crow-story.json) |
 | Crow's Cry | 211726 | [211726-crows-cry.json](./211726-crows-cry.json) |
@@ -10137,6 +10139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeGate | 266178 | [266178-cubegate.json](./266178-cubegate.json) |
 | CubeGun | 17372 | [17372-cubegun.json](./17372-cubegun.json) |
 | Cubeism 2: Baroque Edition | 218149 | [218149-cubeism-2-baroque-edition.json](./218149-cubeism-2-baroque-edition.json) |
+| Cubeka | 129626 | [129626-cubeka.json](./129626-cubeka.json) |
 | CubeLines | 191251 | [191251-cubelines.json](./191251-cubelines.json) |
 | Cubelz | 101357 | [101357-cubelz.json](./101357-cubelz.json) |
 | Cubelz: Cars | 168714 | [168714-cubelz-cars.json](./168714-cubelz-cars.json) |
