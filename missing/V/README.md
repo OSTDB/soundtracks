@@ -2285,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vtubers Network | 321465 | [321465-vtubers-network.json](./321465-vtubers-network.json) |
 | VTumbler | 319718 | [319718-vtumbler.json](./319718-vtumbler.json) |
 | Vubu | 175754 | [175754-vubu.json](./175754-vubu.json) |
+| Vugluskr: Zombie Rampage | 122830 | [122830-vugluskr-zombie-rampage.json](./122830-vugluskr-zombie-rampage.json) |
 | Vulcan 3055 | 110331 | [110331-vulcan-3055.json](./110331-vulcan-3055.json) |
 | Vulcan Sacrifice | 53880 | [53880-vulcan-sacrifice.json](./53880-vulcan-sacrifice.json) |
 | Vulcan Tower Defence | 234759 | [234759-vulcan-tower-defence.json](./234759-vulcan-tower-defence.json) |
