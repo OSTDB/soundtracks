@@ -907,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | About Emma | 179038 | [179038-about-emma.json](./179038-about-emma.json) |
 | About Face | 307085 | [307085-about-face.json](./307085-about-face.json) |
 | About Frontlines | 411697 | [411697-about-frontlines.json](./411697-about-frontlines.json) |
+| About Gretel | 156672 | [156672-about-gretel.json](./156672-about-gretel.json) |
 | About Love, Hate and the other ones | 3080 | [3080-about-love-hate-and-the-other-ones.json](./3080-about-love-hate-and-the-other-ones.json) |
 | About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
 | Above | 406287 | [406287-above.json](./406287-above.json) |
@@ -3263,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Maker | 409730 | [409730-alien-maker.json](./409730-alien-maker.json) |
 | Alien Marauder | 163835 | [163835-alien-marauder.json](./163835-alien-marauder.json) |
 | Alien Mayhem | 76951 | [76951-alien-mayhem.json](./76951-alien-mayhem.json) |
+| Alien Maze | 156596 | [156596-alien-maze.json](./156596-alien-maze.json) |
 | Alien Mind | 72153 | [72153-alien-mind.json](./72153-alien-mind.json) |
 | Alien Monopoly | 122177 | [122177-alien-monopoly.json](./122177-alien-monopoly.json) |
 | Alien Nah'Topsy | 289888 | [289888-alien-nahtopsy.json](./289888-alien-nahtopsy.json) |
