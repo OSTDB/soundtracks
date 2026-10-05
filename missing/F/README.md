@@ -3325,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Sexy Night 2: Second Date | 235760 | [235760-first-sexy-night-2-second-date.json](./235760-first-sexy-night-2-second-date.json) |
 | First Snow | 132765 | [132765-first-snow.json](./132765-first-snow.json) |
 | First South Beer Pong | 59653 | [59653-first-south-beer-pong.json](./59653-first-south-beer-pong.json) |
+| First Star Online 3 | 145946 | [145946-first-star-online-3.json](./145946-first-star-online-3.json) |
 | First Step: Fighting Souls | 196328 | [196328-first-step-fighting-souls.json](./196328-first-step-fighting-souls.json) |
 | First Steps | 263217 | [263217-first-steps.json](./263217-first-steps.json) |
 | First Steps in Learning About Pregnancy | 367040 | [367040-first-steps-in-learning-about-pregnancy.json](./367040-first-steps-in-learning-about-pregnancy.json) |
