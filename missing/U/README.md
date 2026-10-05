@@ -1899,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Terror | 9532 | [9532-urban-terror.json](./9532-urban-terror.json) |
 | Urban Trial Freestyle | 196841 | [196841-urban-trial-freestyle.json](./196841-urban-trial-freestyle.json) |
 | Urban Trial Freestyle 2 | 57841 | [57841-urban-trial-freestyle-2.json](./57841-urban-trial-freestyle-2.json) |
+| Urban Trial Playground: Deluxe Edition | 121510 | [121510-urban-trial-playground-deluxe-edition.json](./121510-urban-trial-playground-deluxe-edition.json) |
 | Urban Trial Pocket | 213642 | [213642-urban-trial-pocket.json](./213642-urban-trial-pocket.json) |
 | Urban Trial Tricky | 134783 | [134783-urban-trial-tricky.json](./134783-urban-trial-tricky.json) |
 | Urban Trial Tricky: Deluxe Edition | 152345 | [152345-urban-trial-tricky-deluxe-edition.json](./152345-urban-trial-tricky-deluxe-edition.json) |
