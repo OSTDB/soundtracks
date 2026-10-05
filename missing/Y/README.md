@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Last Xmas | 280186 | [280186-your-last-xmas.json](./280186-your-last-xmas.json) |
 | Your Life Simulator | 174753 | [174753-your-life-simulator.json](./174753-your-life-simulator.json) |
 | Your little story: Valentine's Day | 128353 | [128353-your-little-story-valentines-day.json](./128353-your-little-story-valentines-day.json) |
+| Your little story: Winter | 126370 | [126370-your-little-story-winter.json](./126370-your-little-story-winter.json) |
 | Your Lucky Charm | 264048 | [264048-your-lucky-charm.json](./264048-your-lucky-charm.json) |
 | Your Majesty | 186280 | [186280-your-majesty.json](./186280-your-majesty.json) |
 | Your Majesty | 292166 | [292166-your-majesty.json](./292166-your-majesty.json) |
