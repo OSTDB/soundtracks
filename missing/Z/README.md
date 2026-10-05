@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Busters | 127864 | [127864-zombie-busters.json](./127864-zombie-busters.json) |
 | Zombie Call: Trigger 3D | 187311 | [187311-zombie-call-trigger-3d.json](./187311-zombie-call-trigger-3d.json) |
 | Zombie Camp | 31985 | [31985-zombie-camp.json](./31985-zombie-camp.json) |
+| Zombie Camping | 155972 | [155972-zombie-camping.json](./155972-zombie-camping.json) |
 | Zombie Carnage 2 | 184476 | [184476-zombie-carnage-2.json](./184476-zombie-carnage-2.json) |
 | Zombie Catchers | 102689 | [102689-zombie-catchers.json](./102689-zombie-catchers.json) |
 | Zombie City | 192275 | [192275-zombie-city.json](./192275-zombie-city.json) |
@@ -801,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Dice | 252134 | [252134-zombie-dice.json](./252134-zombie-dice.json) |
 | Zombie Disaster Drill | 376765 | [376765-zombie-disaster-drill.json](./376765-zombie-disaster-drill.json) |
 | Zombie Drift | 149521 | [149521-zombie-drift.json](./149521-zombie-drift.json) |
+| Zombie Driver HD: Burning Garden of Slaughter | 156206 | [156206-zombie-driver-hd-burning-garden-of-slaughter.json](./156206-zombie-driver-hd-burning-garden-of-slaughter.json) |
 | Zombie Driver: Immortal Edition | 120268 | [120268-zombie-driver-immortal-edition.json](./120268-zombie-driver-immortal-edition.json) |
 | Zombie Driver: Ultimate Edition | 20229 | [20229-zombie-driver-ultimate-edition.json](./20229-zombie-driver-ultimate-edition.json) |
 | Zombie Dungeon | 158051 | [158051-zombie-dungeon.json](./158051-zombie-dungeon.json) |
