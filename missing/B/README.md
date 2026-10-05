@@ -2845,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Fantasy | 175758 | [175758-beat-fantasy.json](./175758-beat-fantasy.json) |
 | Beat Feet | 369635 | [369635-beat-feet.json](./369635-beat-feet.json) |
 | Beat Fever: Music Tap Rhythm Game | 82995 | [82995-beat-fever-music-tap-rhythm-game.json](./82995-beat-fever-music-tap-rhythm-game.json) |
+| Beat Guru | 121488 | [121488-beat-guru.json](./121488-beat-guru.json) |
 | Beat Hazard 3 | 199447 | [199447-beat-hazard-3.json](./199447-beat-hazard-3.json) |
 | Beat Hazard Arcade | 368084 | [368084-beat-hazard-arcade.json](./368084-beat-hazard-arcade.json) |
 | Beat Hopper | 96049 | [96049-beat-hopper.json](./96049-beat-hopper.json) |
@@ -9191,6 +9192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BulletHell Planes | 135045 | [135045-bullethell-planes.json](./135045-bullethell-planes.json) |
 | Bulletline | 101365 | [101365-bulletline.json](./101365-bulletline.json) |
 | Bulletnico | 334497 | [334497-bulletnico.json](./334497-bulletnico.json) |
+| Bulletorium | 121401 | [121401-bulletorium.json](./121401-bulletorium.json) |
 | Bulletproof | 235697 | [235697-bulletproof.json](./235697-bulletproof.json) |
 | Bulletreign: Survivors | 406200 | [406200-bulletreign-survivors.json](./406200-bulletreign-survivors.json) |
 | Bulletrooms | 309692 | [309692-bulletrooms.json](./309692-bulletrooms.json) |
