@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nasty Neighbors: No Country for Curmudgeon | 250519 | [250519-nasty-neighbors-no-country-for-curmudgeon.json](./250519-nasty-neighbors-no-country-for-curmudgeon.json) |
 | Nasty Rogue 2 | 264695 | [264695-nasty-rogue-2.json](./264695-nasty-rogue-2.json) |
 | Nat Geo Traveler: Sudoku China | 67262 | [67262-nat-geo-traveler-sudoku-china.json](./67262-nat-geo-traveler-sudoku-china.json) |
+| Natalie Brooks Treasures of the Lost Kingdom | 143378 | [143378-natalie-brooks-treasures-of-the-lost-kingdom.json](./143378-natalie-brooks-treasures-of-the-lost-kingdom.json) |
 | Natari at the Bubble Planet | 75759 | [75759-natari-at-the-bubble-planet.json](./75759-natari-at-the-bubble-planet.json) |
 | NatGeo Adventures: Ghost Fleet | 209151 | [209151-natgeo-adventures-ghost-fleet.json](./209151-natgeo-adventures-ghost-fleet.json) |
 | NatGeo Adventures: Mystery of Cleopatra | 209150 | [209150-natgeo-adventures-mystery-of-cleopatra.json](./209150-natgeo-adventures-mystery-of-cleopatra.json) |
@@ -1026,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negative Time | 390131 | [390131-negative-time.json](./390131-negative-time.json) |
 | Negative Type | 107910 | [107910-negative-type.json](./107910-negative-type.json) |
 | Negative_Space | 114547 | [114547-negative-space.json](./114547-negative-space.json) |
+| Negative: The Way of Shinobi | 143331 | [143331-negative-the-way-of-shinobi.json](./143331-negative-the-way-of-shinobi.json) |
 | Negi Sho-gi: Negi Massigura | 311286 | [311286-negi-sho-gi-negi-massigura.json](./311286-negi-sho-gi-negi-massigura.json) |
 | Negima!? Magister Negi Magi: Neo-Pactio Fight!! | 72653 | [72653-negima-magister-negi-magi-neo-pactio-fight.json](./72653-negima-magister-negi-magi-neo-pactio-fight.json) |
 | Neglected: Trust test | 170904 | [170904-neglected-trust-test.json](./170904-neglected-trust-test.json) |
@@ -2983,11 +2985,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendogs: Labrador & Friends | 47944 | [47944-nintendogs-labrador-and-friends.json](./47944-nintendogs-labrador-and-friends.json) |
 | Ninza | 209419 | [209419-ninza.json](./209419-ninza.json) |
 | Nioh 2 | 103330 | [103330-nioh-2.json](./103330-nioh-2.json) |
+| Nioh 2 Remastered: The Complete Edition | 143350 | [143350-nioh-2-remastered-the-complete-edition.json](./143350-nioh-2-remastered-the-complete-edition.json) |
 | Nioh 2: The Complete Edition | 140972 | [140972-nioh-2-the-complete-edition.json](./140972-nioh-2-the-complete-edition.json) |
 | Nioh 2: The First Samurai | 140054 | [140054-nioh-2-the-first-samurai.json](./140054-nioh-2-the-first-samurai.json) |
 | Nioh 3 Season Pass | 411636 | [411636-nioh-3-season-pass.json](./411636-nioh-3-season-pass.json) |
 | Nioh 3: Bloody Insurrection | 411562 | [411562-nioh-3-bloody-insurrection.json](./411562-nioh-3-bloody-insurrection.json) |
 | Nioh 3: Hell Rising | 411561 | [411561-nioh-3-hell-rising.json](./411561-nioh-3-hell-rising.json) |
+| Nioh Remastered: Complete Edition | 143349 | [143349-nioh-remastered-complete-edition.json](./143349-nioh-remastered-complete-edition.json) |
 | Nioh: Bloodshed's End | 59591 | [59591-nioh-bloodsheds-end.json](./59591-nioh-bloodsheds-end.json) |
 | Nioh: Complete Edition | 68461 | [68461-nioh-complete-edition.json](./68461-nioh-complete-edition.json) |
 | Nioh: Complete Edition - First-Press Limited Edition | 167111 | [167111-nioh-complete-edition-first-press-limited-edition.json](./167111-nioh-complete-edition-first-press-limited-edition.json) |
@@ -3600,6 +3604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nora | 82741 | [82741-nora.json](./82741-nora.json) |
 | Nora & Magic That Does Not Turn Back Time | 348882 | [348882-nora-and-magic-that-does-not-turn-back-time.json](./348882-nora-and-magic-that-does-not-turn-back-time.json) |
 | Nora and Frank | 358925 | [358925-nora-and-frank.json](./358925-nora-and-frank.json) |
+| Nora Roberts: Vision in White | 143330 | [143330-nora-roberts-vision-in-white.json](./143330-nora-roberts-vision-in-white.json) |
 | Nora to Oujo to Noraneko Heart 2 | 205267 | [205267-nora-to-oujo-to-noraneko-heart-2.json](./205267-nora-to-oujo-to-noraneko-heart-2.json) |
 | Nora to Oujo to Noraneko Heart 2: Dakimakura Cover Set | 136972 | [136972-nora-to-oujo-to-noraneko-heart-2-dakimakura-cover-set.json](./136972-nora-to-oujo-to-noraneko-heart-2-dakimakura-cover-set.json) |
 | Nora Wanna Rise | 291709 | [291709-nora-wanna-rise.json](./291709-nora-wanna-rise.json) |
@@ -3739,6 +3744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not a Customer | 406711 | [406711-not-a-customer.json](./406711-not-a-customer.json) |
 | Not A Donut | 185423 | [185423-not-a-donut.json](./185423-not-a-donut.json) |
 | Not A Fake Game | 366868 | [366868-not-a-fake-game.json](./366868-not-a-fake-game.json) |
+| Not a Happy Family | 143342 | [143342-not-a-happy-family.json](./143342-not-a-happy-family.json) |
 | Not a Hero | 6045 | [6045-not-a-hero.json](./6045-not-a-hero.json) |
 | Not a Hero - Me, Myself & Bunnylord | 140548 | [140548-not-a-hero-me-myself-and-bunnylord.json](./140548-not-a-hero-me-myself-and-bunnylord.json) |
 | Not a Hero: Super Snazzy Edition | 32038 | [32038-not-a-hero-super-snazzy-edition.json](./32038-not-a-hero-super-snazzy-edition.json) |
