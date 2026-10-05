@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamikomori | 358504 | [358504-kamikomori.json](./358504-kamikomori.json) |
 | Kamikuishiki-mura Monogatari | 130768 | [130768-kamikuishiki-mura-monogatari.json](./130768-kamikuishiki-mura-monogatari.json) |
 | Kamikura Hina no Himitsu: Gohoubi ha Watashi no Karada | 396484 | [396484-kamikura-hina-no-himitsu-gohoubi-ha-watashi-no-karada.json](./396484-kamikura-hina-no-himitsu-gohoubi-ha-watashi-no-karada.json) |
+| Kamile VR | 121527 | [121527-kamile-vr.json](./121527-kamile-vr.json) |
 | Kamilia | 336672 | [336672-kamilia.json](./336672-kamilia.json) |
 | Kamimachi Site - Dating story | 118287 | [118287-kamimachi-site-dating-story.json](./118287-kamimachi-site-dating-story.json) |
 | Kaminariko Konpeki no Akira | 221246 | [221246-kaminariko-konpeki-no-akira.json](./221246-kaminariko-konpeki-no-akira.json) |
