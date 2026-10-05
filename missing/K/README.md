@@ -1987,6 +1987,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kipi Oppi | 403043 | [403043-kipi-oppi.json](./403043-kipi-oppi.json) |
 | Kipidon: We Will Always Love You | 337455 | [337455-kipidon-we-will-always-love-you.json](./337455-kipidon-we-will-always-love-you.json) |
 | KIPP: Untouched | 225632 | [225632-kipp-untouched.json](./225632-kipp-untouched.json) |
+| Kipper no Eigo Kyoushitsu: Floppy's Phonics Vol. 1 - Kipper-Hen | 140933 | [140933-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-1-kipper-hen.json](./140933-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-1-kipper-hen.json) |
+| Kipper no Eigo Kyoushitsu: Floppy's Phonics Vol. 3 - Chip-Hen | 140932 | [140932-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-3-chip-hen.json](./140932-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-3-chip-hen.json) |
 | Kira | 29151 | [29151-kira.json](./29151-kira.json) |
 | Kira and the Life Stone | 170901 | [170901-kira-and-the-life-stone.json](./170901-kira-and-the-life-stone.json) |
 | Kira Kira | 140523 | [140523-kira-kira.json](./140523-kira-kira.json) |
