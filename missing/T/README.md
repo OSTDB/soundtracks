@@ -7789,6 +7789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystic Well | 232518 | [232518-the-mystic-well.json](./232518-the-mystic-well.json) |
 | The Mystical Traveler | 342735 | [342735-the-mystical-traveler.json](./342735-the-mystical-traveler.json) |
 | The Mystifying Trial | 163455 | [163455-the-mystifying-trial.json](./163455-the-mystifying-trial.json) |
+| The Myth Seekers 2: The Sunken City | 119615 | [119615-the-myth-seekers-2-the-sunken-city.json](./119615-the-myth-seekers-2-the-sunken-city.json) |
 | The Mythical City | 264232 | [264232-the-mythical-city.json](./264232-the-mythical-city.json) |
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
@@ -14862,6 +14863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2014 | 80876 | [80876-tour-de-france-2014.json](./80876-tour-de-france-2014.json) |
 | Tour de France 2015 | 60198 | [60198-tour-de-france-2015.json](./60198-tour-de-france-2015.json) |
 | Tour de France 2018 | 188594 | [188594-tour-de-france-2018.json](./188594-tour-de-france-2018.json) |
+| Tour de France 2019 | 119526 | [119526-tour-de-france-2019.json](./119526-tour-de-france-2019.json) |
 | Tour de France 2020 | 133775 | [133775-tour-de-france-2020.json](./133775-tour-de-france-2020.json) |
 | Tour de France 2024 | 288855 | [288855-tour-de-france-2024.json](./288855-tour-de-france-2024.json) |
 | Tour de France 2025 | 336720 | [336720-tour-de-france-2025.json](./336720-tour-de-france-2025.json) |
