@@ -5477,6 +5477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blob Command: New Attack | 265669 | [265669-blob-command-new-attack.json](./265669-blob-command-new-attack.json) |
 | Blob Dash | 205619 | [205619-blob-dash.json](./205619-blob-dash.json) |
 | Blob King | 124762 | [124762-blob-king.json](./124762-blob-king.json) |
+| Blob Person | 149715 | [149715-blob-person.json](./149715-blob-person.json) |
 | Blob Quest | 213391 | [213391-blob-quest.json](./213391-blob-quest.json) |
 | Blob Wars | 294472 | [294472-blob-wars.json](./294472-blob-wars.json) |
 | Blob Wars: Attrition | 144887 | [144887-blob-wars-attrition.json](./144887-blob-wars-attrition.json) |
@@ -6582,6 +6583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Craft Tnt | 88319 | [88319-bomb-craft-tnt.json](./88319-bomb-craft-tnt.json) |
 | Bomb Disposal Expert | 68644 | [68644-bomb-disposal-expert.json](./68644-bomb-disposal-expert.json) |
 | Bomb Disposer | 210638 | [210638-bomb-disposer.json](./210638-bomb-disposer.json) |
+| Bomb Escape | 149694 | [149694-bomb-escape.json](./149694-bomb-escape.json) |
 | Bomb Farm | 413917 | [413917-bomb-farm.json](./413917-bomb-farm.json) |
 | Bomb Fight | 305297 | [305297-bomb-fight.json](./305297-bomb-fight.json) |
 | Bomb Fight | 305460 | [305460-bomb-fight.json](./305460-bomb-fight.json) |
@@ -8472,6 +8474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brother | 340545 | [340545-brother.json](./340545-brother.json) |
 | Brother Against Brother | 59494 | [59494-brother-against-brother.json](./59494-brother-against-brother.json) |
 | Brother Perro | 96867 | [96867-brother-perro.json](./96867-brother-perro.json) |
+| Brother Wake Up | 149696 | [149696-brother-wake-up.json](./149696-brother-wake-up.json) |
 | Brother Wings | 29912 | [29912-brother-wings.json](./29912-brother-wings.json) |
 | Brotherhood | 275114 | [275114-brotherhood.json](./275114-brotherhood.json) |
 | Brotherhood of Pain | 388937 | [388937-brotherhood-of-pain.json](./388937-brotherhood-of-pain.json) |
