@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Night II | 209448 | [209448-halloween-night-ii.json](./209448-halloween-night-ii.json) |
 | Halloween Online Horror Night | 274764 | [274764-halloween-online-horror-night.json](./274764-halloween-online-horror-night.json) |
 | Halloween Panic! | 359458 | [359458-halloween-panic.json](./359458-halloween-panic.json) |
+| Halloween Patchwork Trick or Treat | 159782 | [159782-halloween-patchwork-trick-or-treat.json](./159782-halloween-patchwork-trick-or-treat.json) |
 | Halloween Pinball | 89159 | [89159-halloween-pinball.json](./89159-halloween-pinball.json) |
 | Halloween Pumpkin Brawl | 317447 | [317447-halloween-pumpkin-brawl.json](./317447-halloween-pumpkin-brawl.json) |
 | Halloween Pumpkin Story | 74380 | [74380-halloween-pumpkin-story.json](./74380-halloween-pumpkin-story.json) |
@@ -2591,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Fantasy | 219041 | [219041-hentai-fantasy.json](./219041-hentai-fantasy.json) |
 | Hentai Fantasy | 371380 | [371380-hentai-fantasy.json](./371380-hentai-fantasy.json) |
 | Hentai Fantasy Chicks | 253935 | [253935-hentai-fantasy-chicks.json](./253935-hentai-fantasy-chicks.json) |
+| Hentai Femdom Sim: Femdom University | 159772 | [159772-hentai-femdom-sim-femdom-university.json](./159772-hentai-femdom-sim-femdom-university.json) |
 | Hentai Fetishes: Yuri | 379548 | [379548-hentai-fetishes-yuri.json](./379548-hentai-fetishes-yuri.json) |
 | Hentai Foot Fetish | 404940 | [404940-hentai-foot-fetish.json](./404940-hentai-foot-fetish.json) |
 | Hentai Forever | 149425 | [149425-hentai-forever.json](./149425-hentai-forever.json) |
@@ -3283,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroglobin: Monster Hospital | 311122 | [311122-heroglobin-monster-hospital.json](./311122-heroglobin-monster-hospital.json) |
 | Herogrinder: Tactical Combat Arenas | 122397 | [122397-herogrinder-tactical-combat-arenas.json](./122397-herogrinder-tactical-combat-arenas.json) |
 | Herogue | 224633 | [224633-herogue.json](./224633-herogue.json) |
+| Heroic Armored Company | 159771 | [159771-heroic-armored-company.json](./159771-heroic-armored-company.json) |
 | Heroic Battle | 89178 | [89178-heroic-battle.json](./89178-heroic-battle.json) |
 | Heroic City | 235776 | [235776-heroic-city.json](./235776-heroic-city.json) |
 | Heroic Defender GoFalcon | 363913 | [363913-heroic-defender-gofalcon.json](./363913-heroic-defender-gofalcon.json) |
