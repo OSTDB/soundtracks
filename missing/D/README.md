@@ -3558,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Des Blood VR | 81472 | [81472-des-blood-vr.json](./81472-des-blood-vr.json) |
 | Desafio Quiz | 357376 | [357376-desafio-quiz.json](./357376-desafio-quiz.json) |
 | Descend | 264044 | [264044-descend.json](./264044-descend.json) |
+| Descend into Madness | 162837 | [162837-descend-into-madness.json](./162837-descend-into-madness.json) |
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
 | Descended | 265589 | [265589-descended.json](./265589-descended.json) |
 | Descending: House of Nightmares | 171614 | [171614-descending-house-of-nightmares.json](./171614-descending-house-of-nightmares.json) |
@@ -5762,6 +5763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DK: King of Swing - Hurling for Distance | 231633 | [231633-dk-king-of-swing-hurling-for-distance.json](./231633-dk-king-of-swing-hurling-for-distance.json) |
 | DK64 Randomizer | 206186 | [206186-dk64-randomizer.json](./206186-dk64-randomizer.json) |
 | DKC New Competition Cartridge | 219079 | [219079-dkc-new-competition-cartridge.json](./219079-dkc-new-competition-cartridge.json) |
+| DKDC: Donkey Kong Distortion Country | 162830 | [162830-dkdc-donkey-kong-distortion-country.json](./162830-dkdc-donkey-kong-distortion-country.json) |
 | Dkls | 173276 | [173276-dkls.json](./173276-dkls.json) |
 | DKO: Divine Knockout - Starter Edition | 231338 | [231338-dko-divine-knockout-starter-edition.json](./231338-dko-divine-knockout-starter-edition.json) |
 | DLC Quest | 3004 | [3004-dlc-quest.json](./3004-dlc-quest.json) |
@@ -6592,13 +6594,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Country | 234084 | [234084-donkey-kong-country.json](./234084-donkey-kong-country.json) |
 | Donkey Kong Country 2 | 178237 | [178237-donkey-kong-country-2.json](./178237-donkey-kong-country-2.json) |
 | Donkey Kong Country 2 Unveiled | 269773 | [269773-donkey-kong-country-2-unveiled.json](./269773-donkey-kong-country-2-unveiled.json) |
+| Donkey Kong Country 2: Brigand Barrage | 162833 | [162833-donkey-kong-country-2-brigand-barrage.json](./162833-donkey-kong-country-2-brigand-barrage.json) |
 | Donkey Kong Country 2: The Lost Levels | 162766 | [162766-donkey-kong-country-2-the-lost-levels.json](./162766-donkey-kong-country-2-the-lost-levels.json) |
 | Donkey Kong Country 3 | 132723 | [132723-donkey-kong-country-3.json](./132723-donkey-kong-country-3.json) |
 | Donkey Kong Country 3: Dixie Kong's Double Trouble! | 1094 | [1094-donkey-kong-country-3-dixie-kongs-double-trouble.json](./1094-donkey-kong-country-3-dixie-kongs-double-trouble.json) |
+| Donkey Kong Country 3: Tag Team Trouble | 162834 | [162834-donkey-kong-country-3-tag-team-trouble.json](./162834-donkey-kong-country-3-tag-team-trouble.json) |
 | Donkey Kong Country 4 | 186648 | [186648-donkey-kong-country-4.json](./186648-donkey-kong-country-4.json) |
+| Donkey Kong Country Mania | 162831 | [162831-donkey-kong-country-mania.json](./162831-donkey-kong-country-mania.json) |
 | Donkey Kong Country NES Edition | 338803 | [338803-donkey-kong-country-nes-edition.json](./338803-donkey-kong-country-nes-edition.json) |
 | Donkey Kong Country Returns HD: Version 1.1.0 | 386852 | [386852-donkey-kong-country-returns-hd-version-1-1-0.json](./386852-donkey-kong-country-returns-hd-version-1-1-0.json) |
 | Donkey Kong Country: Barrel Maze | 231637 | [231637-donkey-kong-country-barrel-maze.json](./231637-donkey-kong-country-barrel-maze.json) |
+| Donkey Kong Country: Boss Blitz | 162832 | [162832-donkey-kong-country-boss-blitz.json](./162832-donkey-kong-country-boss-blitz.json) |
+| Donkey Kong Country: Competition Cartridge | 162835 | [162835-donkey-kong-country-competition-cartridge.json](./162835-donkey-kong-country-competition-cartridge.json) |
 | Donkey Kong Country: Pacifist Mode | 361715 | [361715-donkey-kong-country-pacifist-mode.json](./361715-donkey-kong-country-pacifist-mode.json) |
 | Donkey Kong Country: The Trilogy | 172504 | [172504-donkey-kong-country-the-trilogy.json](./172504-donkey-kong-country-the-trilogy.json) |
 | Donkey Kong Country: Tropical Freeze | 2923 | [2923-donkey-kong-country-tropical-freeze.json](./2923-donkey-kong-country-tropical-freeze.json) |
