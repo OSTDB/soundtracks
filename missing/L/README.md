@@ -2647,6 +2647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightning: D-Day | 47984 | [47984-lightning-d-day.json](./47984-lightning-d-day.json) |
 | Lightomania | 120265 | [120265-lightomania.json](./120265-lightomania.json) |
 | Lighton | 148895 | [148895-lighton.json](./148895-lighton.json) |
+| Lighton: Duo | 151276 | [151276-lighton-duo.json](./151276-lighton-duo.json) |
 | Lightopus | 22316 | [22316-lightopus.json](./22316-lightopus.json) |
 | Lightout | 175388 | [175388-lightout.json](./175388-lightout.json) |
 | LightPoint | 350601 | [350601-lightpoint.json](./350601-lightpoint.json) |
