@@ -2831,6 +2831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape of The Hammer Princess | 312767 | [312767-escape-of-the-hammer-princess.json](./312767-escape-of-the-hammer-princess.json) |
 | Escape or Imprison | 227253 | [227253-escape-or-imprison.json](./227253-escape-or-imprison.json) |
 | Escape Party | 278419 | [278419-escape-party.json](./278419-escape-party.json) |
+| Escape Point | 132683 | [132683-escape-point.json](./132683-escape-point.json) |
 | Escape Prison | 163898 | [163898-escape-prison.json](./163898-escape-prison.json) |
 | Escape Prison Obby: Getaway | 389054 | [389054-escape-prison-obby-getaway.json](./389054-escape-prison-obby-getaway.json) |
 | Escape Protocol: Hospital | 369754 | [369754-escape-protocol-hospital.json](./369754-escape-protocol-hospital.json) |
