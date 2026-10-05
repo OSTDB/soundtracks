@@ -4317,6 +4317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Chapter | 244229 | [244229-lost-chapter.json](./244229-lost-chapter.json) |
 | Lost Child | 348223 | [348223-lost-child.json](./348223-lost-child.json) |
 | Lost Chronicles of Zerzura | 17559 | [17559-lost-chronicles-of-zerzura.json](./17559-lost-chronicles-of-zerzura.json) |
+| Lost Chronicles: Fall of Caesar | 137437 | [137437-lost-chronicles-fall-of-caesar.json](./137437-lost-chronicles-fall-of-caesar.json) |
 | Lost Chronology | 413638 | [413638-lost-chronology.json](./413638-lost-chronology.json) |
 | Lost Circus | 175363 | [175363-lost-circus.json](./175363-lost-circus.json) |
 | Lost Cities | 37376 | [37376-lost-cities.json](./37376-lost-cities.json) |
