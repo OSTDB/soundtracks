@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caillou: Ready to Read | 206700 | [206700-caillou-ready-to-read.json](./206700-caillou-ready-to-read.json) |
 | Cain | 380049 | [380049-cain.json](./380049-cain.json) |
 | Cain & Iddo: Break Week | 316138 | [316138-cain-and-iddo-break-week.json](./316138-cain-and-iddo-break-week.json) |
+| Cain in the 3rd Earth | 146534 | [146534-cain-in-the-3rd-earth.json](./146534-cain-in-the-3rd-earth.json) |
 | Cain x Nica | 304609 | [304609-cain-x-nica.json](./304609-cain-x-nica.json) |
 | Caiobá | 287337 | [287337-caioba.json](./287337-caioba.json) |
 | Cairn | 178665 | [178665-cairn.json](./178665-cairn.json) |
@@ -2391,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catsbridge Stories: Detective in Time | 116360 | [116360-catsbridge-stories-detective-in-time.json](./116360-catsbridge-stories-detective-in-time.json) |
 | CatsPots | 267561 | [267561-catspots.json](./267561-catspots.json) |
 | Cattails: Wildwood Story | 189143 | [189143-cattails-wildwood-story.json](./189143-cattails-wildwood-story.json) |
+| Cattch | 146549 | [146549-cattch.json](./146549-cattch.json) |
 | Cattenburg | 187234 | [187234-cattenburg.json](./187234-cattenburg.json) |
 | CatTerror: The Abandoned House | 347316 | [347316-catterror-the-abandoned-house.json](./347316-catterror-the-abandoned-house.json) |
 | Cattle Call: Hollywood Talent Manager | 110525 | [110525-cattle-call-hollywood-talent-manager.json](./110525-cattle-call-hollywood-talent-manager.json) |
@@ -3273,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkered Flag | 40815 | [40815-checkered-flag.json](./40815-checkered-flag.json) |
 | Checkers | 131515 | [131515-checkers.json](./131515-checkers.json) |
 | Checkers | 88367 | [88367-checkers.json](./88367-checkers.json) |
+| Checkers 3D | 146515 | [146515-checkers-3d.json](./146515-checkers-3d.json) |
 | Checkers Board Game | 88432 | [88432-checkers-board-game.json](./88432-checkers-board-game.json) |
 | Checkers Challenge | 88173 | [88173-checkers-challenge.json](./88173-checkers-challenge.json) |
 | Checkers Gold | 100162 | [100162-checkers-gold.json](./100162-checkers-gold.json) |
@@ -10167,6 +10170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuckold Life Simulator | 375972 | [375972-cuckold-life-simulator.json](./375972-cuckold-life-simulator.json) |
 | Cuckold Sex: Episode 3 | 316392 | [316392-cuckold-sex-episode-3.json](./316392-cuckold-sex-episode-3.json) |
 | Cuckold Sex: Episode 5 | 339353 | [339353-cuckold-sex-episode-5.json](./339353-cuckold-sex-episode-5.json) |
+| Cuckold Simulator | 146562 | [146562-cuckold-simulator.json](./146562-cuckold-simulator.json) |
 | Cuckoo Castle | 135241 | [135241-cuckoo-castle.json](./135241-cuckoo-castle.json) |
 | Cuckoo Mask | 253983 | [253983-cuckoo-mask.json](./253983-cuckoo-mask.json) |
 | CuckTales | 309448 | [309448-cucktales.json](./309448-cucktales.json) |
