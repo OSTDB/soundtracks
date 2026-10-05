@@ -4604,6 +4604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War: D-Day Part One | 275042 | [275042-world-war-d-day-part-one.json](./275042-world-war-d-day-part-one.json) |
 | World War: D-Day Part Two | 278663 | [278663-world-war-d-day-part-two.json](./278663-world-war-d-day-part-two.json) |
 | World War: Fury Wave | 316236 | [316236-world-war-fury-wave.json](./316236-world-war-fury-wave.json) |
+| World Warfare & Economic | 171427 | [171427-world-warfare-and-economic.json](./171427-world-warfare-and-economic.json) |
 | World Wars | 40244 | [40244-world-wars.json](./40244-world-wars.json) |
 | World Wide Love!: Sekai Seifuku Kanojo Fandisc | 375364 | [375364-world-wide-love-sekai-seifuku-kanojo-fandisc.json](./375364-world-wide-love-sekai-seifuku-kanojo-fandisc.json) |
 | World Without Reason | 284410 | [284410-world-without-reason.json](./284410-world-without-reason.json) |
