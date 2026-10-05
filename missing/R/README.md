@@ -1263,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RayForce | 22349 | [22349-rayforce.json](./22349-rayforce.json) |
 | Raygraze | 196323 | [196323-raygraze.json](./196323-raygraze.json) |
 | RaylaX | 97848 | [97848-raylax.json](./97848-raylax.json) |
+| Rayman | 142129 | [142129-rayman.json](./142129-rayman.json) |
 | Rayman | 165558 | [165558-rayman.json](./165558-rayman.json) |
 | Rayman | 193322 | [193322-rayman.json](./193322-rayman.json) |
 | Rayman | 193324 | [193324-rayman.json](./193324-rayman.json) |
