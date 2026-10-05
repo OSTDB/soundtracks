@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Mini Golf | 50744 | [50744-family-mini-golf.json](./50744-family-mini-golf.json) |
 | Family Mysteries 2: Echoes of Tomorrow | 132610 | [132610-family-mysteries-2-echoes-of-tomorrow.json](./132610-family-mysteries-2-echoes-of-tomorrow.json) |
 | Family Mysteries 3: Criminal Mindset | 135764 | [135764-family-mysteries-3-criminal-mindset.json](./135764-family-mysteries-3-criminal-mindset.json) |
+| Family Mysteries: Poisonous Promises | 131986 | [131986-family-mysteries-poisonous-promises.json](./131986-family-mysteries-poisonous-promises.json) |
 | Family Party: 30 Great Games Obstacle Arcade | 5312 | [5312-family-party-30-great-games-obstacle-arcade.json](./5312-family-party-30-great-games-obstacle-arcade.json) |
 | Family Party: 30 Great Games Winter Fun | 23360 | [23360-family-party-30-great-games-winter-fun.json](./23360-family-party-30-great-games-winter-fun.json) |
 | Family Pirate Party | 50700 | [50700-family-pirate-party.json](./50700-family-pirate-party.json) |
@@ -2991,6 +2992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Nemo: Nemo's Underwater World of Fun | 18258 | [18258-finding-nemo-nemos-underwater-world-of-fun.json](./18258-finding-nemo-nemos-underwater-world-of-fun.json) |
 | Finding Santa Christmas Special | 175440 | [175440-finding-santa-christmas-special.json](./175440-finding-santa-christmas-special.json) |
 | Finding summer | 114396 | [114396-finding-summer.json](./114396-finding-summer.json) |
+| Finding Teddy 2: Definitive Edition | 132059 | [132059-finding-teddy-2-definitive-edition.json](./132059-finding-teddy-2-definitive-edition.json) |
 | Finding Xavier | 232928 | [232928-finding-xavier.json](./232928-finding-xavier.json) |
 | FindIt | 303797 | [303797-findit.json](./303797-findit.json) |
 | FindIt: Bonus Maps 1 | 303798 | [303798-findit-bonus-maps-1.json](./303798-findit-bonus-maps-1.json) |
@@ -4505,6 +4507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluid-Kha | 138681 | [138681-fluid-kha.json](./138681-fluid-kha.json) |
 | Fluidity | 21169 | [21169-fluidity.json](./21169-fluidity.json) |
 | Fluidity: Spin Cycle | 20088 | [20088-fluidity-spin-cycle.json](./20088-fluidity-spin-cycle.json) |
+| Flunkerne: Superskurke | 132064 | [132064-flunkerne-superskurke.json](./132064-flunkerne-superskurke.json) |
 | Flunky Farm | 224250 | [224250-flunky-farm.json](./224250-flunky-farm.json) |
 | Flupp the Fish | 264040 | [264040-flupp-the-fish.json](./264040-flupp-the-fish.json) |
 | Flurry Words | 233100 | [233100-flurry-words.json](./233100-flurry-words.json) |
@@ -6228,6 +6231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freight Tycoon Inc. | 10335 | [10335-freight-tycoon-inc.json](./10335-freight-tycoon-inc.json) |
 | Freiwillig | 151072 | [151072-freiwillig.json](./151072-freiwillig.json) |
 | Fremdganger: The Cheating Demon | 240297 | [240297-fremdganger-the-cheating-demon.json](./240297-fremdganger-the-cheating-demon.json) |
+| French Crime | 132048 | [132048-french-crime.json](./132048-french-crime.json) |
 | French with Rayman | 193346 | [193346-french-with-rayman.json](./193346-french-with-rayman.json) |
 | Frenetika | 372083 | [372083-frenetika.json](./372083-frenetika.json) |
 | FrenQuest | 307604 | [307604-frenquest.json](./307604-frenquest.json) |
