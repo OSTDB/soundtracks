@@ -4205,6 +4205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Defence | 112774 | [112774-christmas-defence.json](./112774-christmas-defence.json) |
 | Christmas Dropini | 352341 | [352341-christmas-dropini.json](./352341-christmas-dropini.json) |
 | Christmas Escape | 314046 | [314046-christmas-escape.json](./314046-christmas-escape.json) |
+| Christmas Eve: Midnight's Call | 139767 | [139767-christmas-eve-midnights-call.json](./139767-christmas-eve-midnights-call.json) |
 | Christmas Eve: Midnight's Call - Collector's Edition | 30201 | [30201-christmas-eve-midnights-call-collectors-edition.json](./30201-christmas-eve-midnights-call-collectors-edition.json) |
 | Christmas Fables: Holiday Guardians | 417586 | [417586-christmas-fables-holiday-guardians.json](./417586-christmas-fables-holiday-guardians.json) |
 | Christmas Fables: Holiday Guardians - Collector's Edition | 234738 | [234738-christmas-fables-holiday-guardians-collectors-edition.json](./234738-christmas-fables-holiday-guardians-collectors-edition.json) |
@@ -4252,9 +4253,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Shooter | 213309 | [213309-christmas-shooter.json](./213309-christmas-shooter.json) |
 | Christmas Shopper Simulator | 137466 | [137466-christmas-shopper-simulator.json](./137466-christmas-shopper-simulator.json) |
 | Christmas Smash | 400469 | [400469-christmas-smash.json](./400469-christmas-smash.json) |
+| Christmas Stories: A Christmas Carol | 139768 | [139768-christmas-stories-a-christmas-carol.json](./139768-christmas-stories-a-christmas-carol.json) |
 | Christmas Stories: A Little Prince | 187911 | [187911-christmas-stories-a-little-prince.json](./187911-christmas-stories-a-little-prince.json) |
 | Christmas Stories: A Little Prince - Collector's Edition | 417587 | [417587-christmas-stories-a-little-prince-collectors-edition.json](./417587-christmas-stories-a-little-prince-collectors-edition.json) |
 | Christmas Stories: Alice's Adventures | 187978 | [187978-christmas-stories-alices-adventures.json](./187978-christmas-stories-alices-adventures.json) |
+| Christmas Stories: Enchanted Express | 139769 | [139769-christmas-stories-enchanted-express.json](./139769-christmas-stories-enchanted-express.json) |
+| Christmas Stories: Hans Christian Andersen's Tin Soldier | 139770 | [139770-christmas-stories-hans-christian-andersens-tin-soldier.json](./139770-christmas-stories-hans-christian-andersens-tin-soldier.json) |
+| Christmas Stories: Nutcracker | 139771 | [139771-christmas-stories-nutcracker.json](./139771-christmas-stories-nutcracker.json) |
 | Christmas Stories: Nutcracker - Collector's Edition | 30202 | [30202-christmas-stories-nutcracker-collectors-edition.json](./30202-christmas-stories-nutcracker-collectors-edition.json) |
 | Christmas Stories: Puss in Boots | 187916 | [187916-christmas-stories-puss-in-boots.json](./187916-christmas-stories-puss-in-boots.json) |
 | Christmas Stories: The Adventures of Santa Claus | 328539 | [328539-christmas-stories-the-adventures-of-santa-claus.json](./328539-christmas-stories-the-adventures-of-santa-claus.json) |
@@ -6937,6 +6942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conbunn Cardboard | 204099 | [204099-conbunn-cardboard.json](./204099-conbunn-cardboard.json) |
 | Conc Jump | 132852 | [132852-conc-jump.json](./132852-conc-jump.json) |
 | Concave Shooter | 186166 | [186166-concave-shooter.json](./186166-concave-shooter.json) |
+| Concealed | 139783 | [139783-concealed.json](./139783-concealed.json) |
 | Concentration | 217829 | [217829-concentration.json](./217829-concentration.json) |
 | Concentration | 319797 | [319797-concentration.json](./319797-concentration.json) |
 | Concentration Required | 338882 | [338882-concentration-required.json](./338882-concentration-required.json) |
@@ -10468,6 +10474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Weekend | 153374 | [153374-cursed-weekend.json](./153374-cursed-weekend.json) |
 | Cursed Words | 360064 | [360064-cursed-words.json](./360064-cursed-words.json) |
 | CursedSword | 235195 | [235195-cursedsword.json](./235195-cursedsword.json) |
+| Cursery: The Crooked Man and the Crooked Cat | 139772 | [139772-cursery-the-crooked-man-and-the-crooked-cat.json](./139772-cursery-the-crooked-man-and-the-crooked-cat.json) |
 | Curses 'N Chaos | 16470 | [16470-curses-n-chaos.json](./16470-curses-n-chaos.json) |
 | Cursewarden | 348233 | [348233-cursewarden.json](./348233-cursewarden.json) |
 | Cursflip | 380630 | [380630-cursflip.json](./380630-cursflip.json) |
