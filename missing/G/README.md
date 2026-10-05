@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getaway Entertainment 6 Pack | 201851 | [201851-getaway-entertainment-6-pack.json](./201851-getaway-entertainment-6-pack.json) |
 | Getaway Girls | 313876 | [313876-getaway-girls.json](./313876-getaway-girls.json) |
 | Getaway Golf | 414298 | [414298-getaway-golf.json](./414298-getaway-golf.json) |
+| Getaway Mayhem | 128965 | [128965-getaway-mayhem.json](./128965-getaway-mayhem.json) |
 | Getaway! | 78981 | [78981-getaway.json](./78981-getaway.json) |
 | GetBackers Dakkanya: Dakkan da yo! Zenin Shuugou!! | 252071 | [252071-getbackers-dakkanya-dakkan-da-yo-zenin-shuugou.json](./252071-getbackers-dakkanya-dakkan-da-yo-zenin-shuugou.json) |
 | GetBackers Dakkanya: Jagan Fuuin! | 49602 | [49602-getbackers-dakkanya-jagan-fuuin.json](./49602-getbackers-dakkanya-jagan-fuuin.json) |
