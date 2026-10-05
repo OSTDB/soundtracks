@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Y2K: The Game | 84208 | [84208-y2k-the-game.json](./84208-y2k-the-game.json) |
 | Y2Kthulhu | 185072 | [185072-y2kthulhu.json](./185072-y2kthulhu.json) |
 | Y2Roll | 329783 | [329783-y2roll.json](./329783-y2roll.json) |
+| Ya Budu Kosmonavtom | 171969 | [171969-ya-budu-kosmonavtom.json](./171969-ya-budu-kosmonavtom.json) |
 | Ya Gotta, Piñata! | 58513 | [58513-ya-gotta-pinata.json](./58513-ya-gotta-pinata.json) |
 | Yaad | 289879 | [289879-yaad.json](./289879-yaad.json) |
 | Yabai Girls: Fairy Love | 395213 | [395213-yabai-girls-fairy-love.json](./395213-yabai-girls-fairy-love.json) |
@@ -227,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yelling At Cats: The Game | 395727 | [395727-yelling-at-cats-the-game.json](./395727-yelling-at-cats-the-game.json) |
 | Yello Adventures | 242571 | [242571-yello-adventures.json](./242571-yello-adventures.json) |
 | Yellow Ballman | 153920 | [153920-yellow-ballman.json](./153920-yellow-ballman.json) |
+| Yellow Brick Road | 171898 | [171898-yellow-brick-road.json](./171898-yellow-brick-road.json) |
 | Yellow Brick Road II | 144851 | [144851-yellow-brick-road-ii.json](./144851-yellow-brick-road-ii.json) |
 | Yellow Brick Road: Harapeko Tsuki to Hoshi Atsume | 144852 | [144852-yellow-brick-road-harapeko-tsuki-to-hoshi-atsume.json](./144852-yellow-brick-road-harapeko-tsuki-to-hoshi-atsume.json) |
 | Yellow Fins | 147815 | [147815-yellow-fins.json](./147815-yellow-fins.json) |
