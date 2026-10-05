@@ -4497,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuǎngguān Yóuxì | 406094 | [406094-chuangguan-youxi.json](./406094-chuangguan-youxi.json) |
 | Chuàngshì: Xiūzhēn Lù | 75019 | [75019-chuangshi-xiuzhen-lu.json](./75019-chuangshi-xiuzhen-lu.json) |
 | Chuánqí Shìjiè zhī Zhàng Jiàn Tiānyá H5 | 156638 | [156638-chuanqi-shijie-zhi-zhang-jian-tianya-h5.json](./156638-chuanqi-shijie-zhi-zhang-jian-tianya-h5.json) |
+| Chubaw Desuyo! Kyoushou Recipe Shuu | 122911 | [122911-chubaw-desuyo-kyoushou-recipe-shuu.json](./122911-chubaw-desuyo-kyoushou-recipe-shuu.json) |
 | Chubby & Flubby | 176471 | [176471-chubby-and-flubby.json](./176471-chubby-and-flubby.json) |
 | Chubby Cat | 194984 | [194984-chubby-cat.json](./194984-chubby-cat.json) |
 | Chubby Cat 2 | 231050 | [231050-chubby-cat-2.json](./231050-chubby-cat-2.json) |
@@ -5332,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clever Frog | 340209 | [340209-clever-frog.json](./340209-clever-frog.json) |
 | Clever Girl | 184639 | [184639-clever-girl.json](./184639-clever-girl.json) |
 | Clever Kids: Creepy Crawlies | 268113 | [268113-clever-kids-creepy-crawlies.json](./268113-clever-kids-creepy-crawlies.json) |
+| Clever Kids: Pirates | 122904 | [122904-clever-kids-pirates.json](./122904-clever-kids-pirates.json) |
 | Cliax Codec | 404970 | [404970-cliax-codec.json](./404970-cliax-codec.json) |
 | Cliché Adventure | 159712 | [159712-cliche-adventure.json](./159712-cliche-adventure.json) |
 | Click and Relax | 153420 | [153420-click-and-relax.json](./153420-click-and-relax.json) |
@@ -6235,6 +6237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colonial Combat | 332651 | [332651-colonial-combat.json](./332651-colonial-combat.json) |
 | Colonial Conquest | 97307 | [97307-colonial-conquest.json](./97307-colonial-conquest.json) |
 | Colonies | 118353 | [118353-colonies.json](./118353-colonies.json) |
+| Colonies End | 122829 | [122829-colonies-end.json](./122829-colonies-end.json) |
 | Colonies: Neociv | 311707 | [311707-colonies-neociv.json](./311707-colonies-neociv.json) |
 | Colonisator | 336634 | [336634-colonisator.json](./336634-colonisator.json) |
 | Colonist | 130901 | [130901-colonist.json](./130901-colonist.json) |
@@ -7678,6 +7681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copper Dreams | 59674 | [59674-copper-dreams.json](./59674-copper-dreams.json) |
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
 | Copper Odyssey | 161375 | [161375-copper-odyssey.json](./161375-copper-odyssey.json) |
+| Copperbell | 122841 | [122841-copperbell.json](./122841-copperbell.json) |
 | Copperfell | 373737 | [373737-copperfell.json](./373737-copperfell.json) |
 | Copperfields | 264588 | [264588-copperfields.json](./264588-copperfields.json) |
 | Coppy Tour | 369693 | [369693-coppy-tour.json](./369693-coppy-tour.json) |
@@ -9968,6 +9972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Rider | 160210 | [160210-crystal-rider.json](./160210-crystal-rider.json) |
 | Crystal Riders VR | 236393 | [236393-crystal-riders-vr.json](./236393-crystal-riders-vr.json) |
 | Crystal Sequence | 151015 | [151015-crystal-sequence.json](./151015-crystal-sequence.json) |
+| Crystal Soul Arena | 122899 | [122899-crystal-soul-arena.json](./122899-crystal-soul-arena.json) |
 | Crystal Soul Chambers | 132257 | [132257-crystal-soul-chambers.json](./132257-crystal-soul-chambers.json) |
 | Crystal Squad | 236503 | [236503-crystal-squad.json](./236503-crystal-squad.json) |
 | Crystal Storm | 235194 | [235194-crystal-storm.json](./235194-crystal-storm.json) |
