@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Time! | 245015 | [245015-race-time.json](./245015-race-time.json) |
 | Race to Kyiv | 392804 | [392804-race-to-kyiv.json](./392804-race-to-kyiv.json) |
 | Race to Mars | 16737 | [16737-race-to-mars.json](./16737-race-to-mars.json) |
+| Race to Sanity | 150746 | [150746-race-to-sanity.json](./150746-race-to-sanity.json) |
 | Race To The Sea | 372479 | [372479-race-to-the-sea.json](./372479-race-to-the-sea.json) |
 | Race Track Maniacs | 333527 | [333527-race-track-maniacs.json](./333527-race-track-maniacs.json) |
 | Race With Ryan: Adventure Track Pack | 168140 | [168140-race-with-ryan-adventure-track-pack.json](./168140-race-with-ryan-adventure-track-pack.json) |
@@ -1815,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebeloid | 368668 | [368668-rebeloid.json](./368668-rebeloid.json) |
 | Rebels & Redcoats | 122394 | [122394-rebels-and-redcoats.json](./122394-rebels-and-redcoats.json) |
 | Rebels Prison Escape | 71233 | [71233-rebels-prison-escape.json](./71233-rebels-prison-escape.json) |
+| Rebels: Under the Spell of Magic | 150777 | [150777-rebels-under-the-spell-of-magic.json](./150777-rebels-under-the-spell-of-magic.json) |
 | Rebels: Under the Spell of Magic - Chapter 5 | 384218 | [384218-rebels-under-the-spell-of-magic-chapter-5.json](./384218-rebels-under-the-spell-of-magic-chapter-5.json) |
 | Rebelstar II: Alien Encounter | 104242 | [104242-rebelstar-ii-alien-encounter.json](./104242-rebelstar-ii-alien-encounter.json) |
 | Rebelstar: Tactical Command | 6554 | [6554-rebelstar-tactical-command.json](./6554-rebelstar-tactical-command.json) |
@@ -4614,6 +4616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Trip Games App (Classics) | 102741 | [102741-road-trip-games-app-classics.json](./102741-road-trip-games-app-classics.json) |
 | Road Trip to the End of the World | 350446 | [350446-road-trip-to-the-end-of-the-world.json](./350446-road-trip-to-the-end-of-the-world.json) |
 | Road Trip: Arcade Edition | 78292 | [78292-road-trip-arcade-edition.json](./78292-road-trip-arcade-edition.json) |
+| Road Tripper | 150776 | [150776-road-tripper.json](./150776-road-tripper.json) |
 | Road Warrior | 223974 | [223974-road-warrior.json](./223974-road-warrior.json) |
 | Road Warrior | 364536 | [364536-road-warrior.json](./364536-road-warrior.json) |
 | Road Wars | 265943 | [265943-road-wars.json](./265943-road-wars.json) |
