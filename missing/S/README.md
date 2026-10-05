@@ -1238,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sausage Bundle: Till the last drop of ketchup | 227774 | [227774-sausage-bundle-till-the-last-drop-of-ketchup.json](./227774-sausage-bundle-till-the-last-drop-of-ketchup.json) |
 | Sausage Cat | 320774 | [320774-sausage-cat.json](./320774-sausage-cat.json) |
 | Sausage Dog Tends to Infinity | 168629 | [168629-sausage-dog-tends-to-infinity.json](./168629-sausage-dog-tends-to-infinity.json) |
+| Sausage Fest | 137988 | [137988-sausage-fest.json](./137988-sausage-fest.json) |
 | Sausage Fiesta | 153363 | [153363-sausage-fiesta.json](./153363-sausage-fiesta.json) |
 | Sausage Legend 2 | 193877 | [193877-sausage-legend-2.json](./193877-sausage-legend-2.json) |
 | Sausage Legend: Arena | 303800 | [303800-sausage-legend-arena.json](./303800-sausage-legend-arena.json) |
@@ -2634,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek Girl Ⅵ | 171394 | [171394-seek-girl-vi.json](./171394-seek-girl-vi.json) |
 | Seek Girl VII | 171392 | [171392-seek-girl-vii.json](./171392-seek-girl-vii.json) |
 | Seek Girl: Charming Girl | 171014 | [171014-seek-girl-charming-girl.json](./171014-seek-girl-charming-girl.json) |
+| Seek Girl:Fog I | 137981 | [137981-seek-girl-fog-i.json](./137981-seek-girl-fog-i.json) |
 | Seek Magician | 144924 | [144924-seek-magician.json](./144924-seek-magician.json) |
 | Seek the Resources | 246365 | [246365-seek-the-resources.json](./246365-seek-the-resources.json) |
 | Seek Wife | 154402 | [154402-seek-wife.json](./154402-seek-wife.json) |
@@ -8169,6 +8171,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snood Adventure | 99174 | [99174-snood-adventure.json](./99174-snood-adventure.json) |
 | Snood Poppers | 137656 | [137656-snood-poppers.json](./137656-snood-poppers.json) |
 | Snood Slide | 138016 | [138016-snood-slide.json](./138016-snood-slide.json) |
+| Snood Swap | 137969 | [137969-snood-swap.json](./137969-snood-swap.json) |
+| Snood Towers | 137952 | [137952-snood-towers.json](./137952-snood-towers.json) |
 | Snood Towers | 246389 | [246389-snood-towers.json](./246389-snood-towers.json) |
 | Snoody: One of the Ayrie | 252262 | [252262-snoody-one-of-the-ayrie.json](./252262-snoody-one-of-the-ayrie.json) |
 | Snooker 19 | 111153 | [111153-snooker-19.json](./111153-snooker-19.json) |
@@ -10174,6 +10178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soup: The Game | 58899 | [58899-soup-the-game.json](./58899-soup-the-game.json) |
 | Soup: The Vibe Explorer | 406710 | [406710-soup-the-vibe-explorer.json](./406710-soup-the-vibe-explorer.json) |
 | Souper Bloody | 397651 | [397651-souper-bloody.json](./397651-souper-bloody.json) |
+| Souper Man | 137965 | [137965-souper-man.json](./137965-souper-man.json) |
 | Soups Christmas | 310606 | [310606-soups-christmas.json](./310606-soups-christmas.json) |
 | Soupsoup | 265948 | [265948-soupsoup.json](./265948-soupsoup.json) |
 | Souptown Matty | 304709 | [304709-souptown-matty.json](./304709-souptown-matty.json) |
@@ -12595,6 +12600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squishmallows FIFA World Cup Happy Meal | 406244 | [406244-squishmallows-fifa-world-cup-happy-meal.json](./406244-squishmallows-fifa-world-cup-happy-meal.json) |
 | Squishy Tank | 68088 | [68088-squishy-tank.json](./68088-squishy-tank.json) |
 | Squishy the Suicidal Pig | 9874 | [9874-squishy-the-suicidal-pig.json](./9874-squishy-the-suicidal-pig.json) |
+| sQuiz | 137967 | [137967-squiz.json](./137967-squiz.json) |
 | Squonker 3 | 260663 | [260663-squonker-3.json](./260663-squonker-3.json) |
 | Sqwark! A Nutty Adventure | 169478 | [169478-sqwark-a-nutty-adventure.json](./169478-sqwark-a-nutty-adventure.json) |
 | SRB2 Heroes | 326954 | [326954-srb2-heroes.json](./326954-srb2-heroes.json) |
@@ -14870,6 +14876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Zoo | 415139 | [415139-strange-zoo.json](./415139-strange-zoo.json) |
 | Strangeland | 103219 | [103219-strangeland.json](./103219-strangeland.json) |
 | Strangeland: The Last Colony | 401618 | [401618-strangeland-the-last-colony.json](./401618-strangeland-the-last-colony.json) |
+| Strangelets | 137986 | [137986-strangelets.json](./137986-strangelets.json) |
 | Strangeloop | 39138 | [39138-strangeloop.json](./39138-strangeloop.json) |
 | Stranger | 21543 | [21543-stranger.json](./21543-stranger.json) |
 | Stranger by Night | 73558 | [73558-stranger-by-night.json](./73558-stranger-by-night.json) |
