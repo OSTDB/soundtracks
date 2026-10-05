@@ -10360,6 +10360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murmurs | 380643 | [380643-murmurs.json](./380643-murmurs.json) |
 | Murnatan | 62718 | [62718-murnatan.json](./62718-murnatan.json) |
 | Murphy's Minerals | 330157 | [330157-murphys-minerals.json](./330157-murphys-minerals.json) |
+| Murphy's Street | 137998 | [137998-murphys-street.json](./137998-murphys-street.json) |
 | Musa | 298186 | [298186-musa.json](./298186-musa.json) |
 | Musasabi | 122375 | [122375-musasabi.json](./122375-musasabi.json) |
 | Musashi no Bouken | 48688 | [48688-musashi-no-bouken.json](./48688-musashi-no-bouken.json) |
