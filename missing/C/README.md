@@ -3866,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chillquarium | 236572 | [236572-chillquarium.json](./236572-chillquarium.json) |
 | Chime Candy | 281994 | [281994-chime-candy.json](./281994-chime-candy.json) |
 | Chime Sharp | 17907 | [17907-chime-sharp.json](./17907-chime-sharp.json) |
+| Chime Sharp Game Composer Edition | 122147 | [122147-chime-sharp-game-composer-edition.json](./122147-chime-sharp-game-composer-edition.json) |
 | Chimera | 195033 | [195033-chimera.json](./195033-chimera.json) |
 | Chimera | 312718 | [312718-chimera.json](./312718-chimera.json) |
 | Chimera | 380063 | [380063-chimera.json](./380063-chimera.json) |
@@ -9337,6 +9338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Crunch | 13188 | [13188-critter-crunch.json](./13188-critter-crunch.json) |
 | Critter Crush - Hunting Game | 89282 | [89282-critter-crush-hunting-game.json](./89282-critter-crush-hunting-game.json) |
 | Critter Isle | 334301 | [334301-critter-isle.json](./334301-critter-isle.json) |
+| Critter Kart | 122216 | [122216-critter-kart.json](./122216-critter-kart.json) |
 | Critter Loop | 412267 | [412267-critter-loop.json](./412267-critter-loop.json) |
 | Critter Switcher | 394880 | [394880-critter-switcher.json](./394880-critter-switcher.json) |
 | Critters for Sale | 123420 | [123420-critters-for-sale.json](./123420-critters-for-sale.json) |
@@ -10058,6 +10060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuana | 227879 | [227879-cuana.json](./227879-cuana.json) |
 | Cub Gym | 150701 | [150701-cub-gym.json](./150701-cub-gym.json) |
 | Cuban Missile Crisis: Ice Crusade | 24721 | [24721-cuban-missile-crisis-ice-crusade.json](./24721-cuban-missile-crisis-ice-crusade.json) |
+| CuBB | 122142 | [122142-cubb.json](./122142-cubb.json) |
 | CubbetyCuby | 388735 | [388735-cubbetycuby.json](./388735-cubbetycuby.json) |
 | Cube | 208470 | [208470-cube.json](./208470-cube.json) |
 | Cube | 229157 | [229157-cube.json](./229157-cube.json) |
