@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacob Jones and the Bigfoot Mystery: Episode 2 | 12378 | [12378-jacob-jones-and-the-bigfoot-mystery-episode-2.json](./12378-jacob-jones-and-the-bigfoot-mystery-episode-2.json) |
 | Jacob Jones and the Bigfoot Mystery: Episode 2 | 36289 | [36289-jacob-jones-and-the-bigfoot-mystery-episode-2.json](./36289-jacob-jones-and-the-bigfoot-mystery-episode-2.json) |
 | Jacob Jones and the Bigfoot Mystery: Episode One - A Bump in the Night | 84153 | [84153-jacob-jones-and-the-bigfoot-mystery-episode-one-a-bump-in-the-night.json](./84153-jacob-jones-and-the-bigfoot-mystery-episode-one-a-bump-in-the-night.json) |
+| Jacob The Farmer | 148669 | [148669-jacob-the-farmer.json](./148669-jacob-the-farmer.json) |
 | Jacob's Quest | 226731 | [226731-jacobs-quest.json](./226731-jacobs-quest.json) |
 | Jacob's Quest: Voyage | 265341 | [265341-jacobs-quest-voyage.json](./265341-jacobs-quest-voyage.json) |
 | Jacob's Room | 228988 | [228988-jacobs-room.json](./228988-jacobs-room.json) |
@@ -212,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jailbreak: The Ultimate Escape | 256260 | [256260-jailbreak-the-ultimate-escape.json](./256260-jailbreak-the-ultimate-escape.json) |
 | JailBreaker | 274775 | [274775-jailbreaker.json](./274775-jailbreaker.json) |
 | JailBreaker | 98478 | [98478-jailbreaker.json](./98478-jailbreaker.json) |
+| Jajazinho e as Delicias de Cristais | 148668 | [148668-jajazinho-e-as-delicias-de-cristais.json](./148668-jajazinho-e-as-delicias-de-cristais.json) |
 | Jak & Daxter: The Lost Levels | 319202 | [319202-jak-and-daxter-the-lost-levels.json](./319202-jak-and-daxter-the-lost-levels.json) |
 | Jak 3 | 1530 | [1530-jak-3.json](./1530-jak-3.json) |
 | Jak 3: The Journey Back Gold Edition | 237431 | [237431-jak-3-the-journey-back-gold-edition.json](./237431-jak-3-the-journey-back-gold-edition.json) |
@@ -836,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JFCBP1 | 273114 | [273114-jfcbp1.json](./273114-jfcbp1.json) |
 | JFCBP2 | 273115 | [273115-jfcbp2.json](./273115-jfcbp2.json) |
 | JFK Reloaded | 71814 | [71814-jfk-reloaded.json](./71814-jfk-reloaded.json) |
+| Jgsw | 148666 | [148666-jgsw.json](./148666-jgsw.json) |
 | JGTC: All-Japan Grand Touring Car Championship | 381781 | [381781-jgtc-all-japan-grand-touring-car-championship.json](./381781-jgtc-all-japan-grand-touring-car-championship.json) |
 | Ji Tan Nohua | 121648 | [121648-ji-tan-nohua.json](./121648-ji-tan-nohua.json) |
 | Jí Xiàn Zhēn Tàn | 368143 | [368143-ji-xian-zhen-tan.json](./368143-ji-xian-zhen-tan.json) |
