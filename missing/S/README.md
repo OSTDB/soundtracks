@@ -4867,6 +4867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot! | 188437 | [188437-shoot.json](./188437-shoot.json) |
 | Shoot! & Ahhhhh | 385816 | [385816-shoot-and-ahhhhh.json](./385816-shoot-and-ahhhhh.json) |
 | Shoot! VR | 230948 | [230948-shoot-vr.json](./230948-shoot-vr.json) |
+| Shoot. Push. Repeat. | 157081 | [157081-shoot-push-repeat.json](./157081-shoot-push-repeat.json) |
 | Shoot'n'Scroll 3D | 109875 | [109875-shootnscroll-3d.json](./109875-shootnscroll-3d.json) |
 | Shootball Arena | 196641 | [196641-shootball-arena.json](./196641-shootball-arena.json) |
 | Shooter Bundle: Ghost Assassin, Hotline, Water Blast, Shadowblade, Yori's Journey | 356823 | [356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json](./356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json) |
@@ -4969,6 +4970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Clutter 7: Food Detectives | 249371 | [249371-shopping-clutter-7-food-detectives.json](./249371-shopping-clutter-7-food-detectives.json) |
 | Shopping Clutter 8: From Gloom to Bloom | 249372 | [249372-shopping-clutter-8-from-gloom-to-bloom.json](./249372-shopping-clutter-8-from-gloom-to-bloom.json) |
 | Shopping Clutter: The Best Playground | 200580 | [200580-shopping-clutter-the-best-playground.json](./200580-shopping-clutter-the-best-playground.json) |
+| Shopping Empire Tycoon | 157083 | [157083-shopping-empire-tycoon.json](./157083-shopping-empire-tycoon.json) |
 | Shopping Fever | 330812 | [330812-shopping-fever.json](./330812-shopping-fever.json) |
 | Shopping in a Winter Zombieland | 276174 | [276174-shopping-in-a-winter-zombieland.json](./276174-shopping-in-a-winter-zombieland.json) |
 | Shopping Mall Girl | 86826 | [86826-shopping-mall-girl.json](./86826-shopping-mall-girl.json) |
@@ -7465,6 +7467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Nights | 253397 | [253397-small-nights.json](./253397-small-nights.json) |
 | Small People Defense | 236325 | [236325-small-people-defense.json](./236325-small-people-defense.json) |
 | Small Pixel | 105094 | [105094-small-pixel.json](./105094-small-pixel.json) |
+| Small Press Tycoon | 157102 | [157102-small-press-tycoon.json](./157102-small-press-tycoon.json) |
 | Small Rockets Mahjongg | 208956 | [208956-small-rockets-mahjongg.json](./208956-small-rockets-mahjongg.json) |
 | Small Soldiers | 166528 | [166528-small-soldiers.json](./166528-small-soldiers.json) |
 | Small Soldiers | 71671 | [71671-small-soldiers.json](./71671-small-soldiers.json) |
@@ -9678,6 +9681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sora: Songs of the Stone | 403724 | [403724-sora-songs-of-the-stone.json](./403724-sora-songs-of-the-stone.json) |
 | Sorades - Die Befreiung | 91547 | [91547-sorades-die-befreiung.json](./91547-sorades-die-befreiung.json) |
 | Soraja Towers | 300721 | [300721-soraja-towers.json](./300721-soraja-towers.json) |
+| Soralio: Cooperation mystery solving game | 157087 | [157087-soralio-cooperation-mystery-solving-game.json](./157087-soralio-cooperation-mystery-solving-game.json) |
 | Sorbetta: Gravely in Debt | 129733 | [129733-sorbetta-gravely-in-debt.json](./129733-sorbetta-gravely-in-debt.json) |
 | Sorcerer | 23856 | [23856-sorcerer.json](./23856-sorcerer.json) |
 | Sorcerer King: Rivals | 24922 | [24922-sorcerer-king-rivals.json](./24922-sorcerer-king-rivals.json) |
@@ -13673,6 +13677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starve.io | 79268 | [79268-starve-io.json](./79268-starve-io.json) |
 | Starvedge | 349454 | [349454-starvedge.json](./349454-starvedge.json) |
 | Starving Merchant | 390760 | [390760-starving-merchant.json](./390760-starving-merchant.json) |
+| Starvoly | 157106 | [157106-starvoly.json](./157106-starvoly.json) |
 | Starward Rogue: Complete Edition | 283159 | [283159-starward-rogue-complete-edition.json](./283159-starward-rogue-complete-edition.json) |
 | Starwatchers: The Search for Cosmic Jam | 178923 | [178923-starwatchers-the-search-for-cosmic-jam.json](./178923-starwatchers-the-search-for-cosmic-jam.json) |
 | Starwave | 306943 | [306943-starwave.json](./306943-starwave.json) |
@@ -15519,6 +15524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Puttel | 385845 | [385845-succubus-puttel.json](./385845-succubus-puttel.json) |
 | Succubus Quest | 97486 | [97486-succubus-quest.json](./97486-succubus-quest.json) |
 | Succubus Rem | 74452 | [74452-succubus-rem.json](./74452-succubus-rem.json) |
+| Succubus Research Diary | 157107 | [157107-succubus-research-diary.json](./157107-succubus-research-diary.json) |
 | Succubus Runa and the Erotic Dungeon | 192693 | [192693-succubus-runa-and-the-erotic-dungeon.json](./192693-succubus-runa-and-the-erotic-dungeon.json) |
 | Succubus Runa and the Erotic Dungeon: Additional All-Ages Story & Graphics | 256997 | [256997-succubus-runa-and-the-erotic-dungeon-additional-all-ages-story-and-graphics.json](./256997-succubus-runa-and-the-erotic-dungeon-additional-all-ages-story-and-graphics.json) |
 | Succubus Sessions: Mami Mamiya's Sweet Slice of Hell | 371233 | [371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json](./371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json) |
@@ -15676,6 +15682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sue Shi Survival | 219584 | [219584-sue-shi-survival.json](./219584-sue-shi-survival.json) |
 | Sue's Chocolate Candy Maker | 293211 | [293211-sues-chocolate-candy-maker.json](./293211-sues-chocolate-candy-maker.json) |
 | Sue's Potato Farm | 293210 | [293210-sues-potato-farm.json](./293210-sues-potato-farm.json) |
+| Sue's Story | 157113 | [157113-sues-story.json](./157113-sues-story.json) |
 | Sue's Witch Magic Makeover | 293206 | [293206-sues-witch-magic-makeover.json](./293206-sues-witch-magic-makeover.json) |
 | Suero Zeus | 272912 | [272912-suero-zeus.json](./272912-suero-zeus.json) |
 | Suez Canal Bulldozer | 181865 | [181865-suez-canal-bulldozer.json](./181865-suez-canal-bulldozer.json) |
