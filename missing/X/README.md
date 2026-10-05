@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenogunner | 98587 | [98587-xenogunner.json](./98587-xenogunner.json) |
 | Xenogunner Returns: Rule of Chaos | 316693 | [316693-xenogunner-returns-rule-of-chaos.json](./316693-xenogunner-returns-rule-of-chaos.json) |
 | Xenoids | 191203 | [191203-xenoids.json](./191203-xenoids.json) |
+| Xenomare | 168624 | [168624-xenomare.json](./168624-xenomare.json) |
 | Xenomarine | 74260 | [74260-xenomarine.json](./74260-xenomarine.json) |
 | XenoMiner | 62728 | [62728-xenominer.json](./62728-xenominer.json) |
 | XenoMoon | 216359 | [216359-xenomoon.json](./216359-xenomoon.json) |
