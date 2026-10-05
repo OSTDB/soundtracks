@@ -1017,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Win | 246535 | [246535-hard-win.json](./246535-hard-win.json) |
 | Hard Winter | 25769 | [25769-hard-winter.json](./25769-hard-winter.json) |
 | Hard Work | 102327 | [102327-hard-work.json](./102327-hard-work.json) |
+| Hard Work | 133262 | [133262-hard-work.json](./133262-hard-work.json) |
 | Hard-Life | 219809 | [219809-hard-life.json](./219809-hard-life.json) |
 | Hard2Fly | 133778 | [133778-hard2fly.json](./133778-hard2fly.json) |
 | HardAF | 276839 | [276839-hardaf.json](./276839-hardaf.json) |
@@ -5912,6 +5913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Detention | 137405 | [137405-house-of-detention.json](./137405-house-of-detention.json) |
 | House of Everlast | 269004 | [269004-house-of-everlast.json](./269004-house-of-everlast.json) |
 | House of Fate | 184441 | [184441-house-of-fate.json](./184441-house-of-fate.json) |
+| House of Fear | 133178 | [133178-house-of-fear.json](./133178-house-of-fear.json) |
 | House of Fear: Cursed Souls | 228686 | [228686-house-of-fear-cursed-souls.json](./228686-house-of-fear-cursed-souls.json) |
 | House of Ghosts and Cats | 329232 | [329232-house-of-ghosts-and-cats.json](./329232-house-of-ghosts-and-cats.json) |
 | House of God | 168713 | [168713-house-of-god.json](./168713-house-of-god.json) |
@@ -6103,6 +6105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Volley Ball | 170933 | [170933-how-to-volley-ball.json](./170933-how-to-volley-ball.json) |
 | How to Win | 136400 | [136400-how-to-win.json](./136400-how-to-win.json) |
 | How Was Your Day? | 334902 | [334902-how-was-your-day.json](./334902-how-was-your-day.json) |
+| How We Die | 133191 | [133191-how-we-die.json](./133191-how-we-die.json) |
 | How Would You Survive? | 305381 | [305381-how-would-you-survive.json](./305381-how-would-you-survive.json) |
 | How Your Package Gets Delivered | 363437 | [363437-how-your-package-gets-delivered.json](./363437-how-your-package-gets-delivered.json) |
 | How!? | 258192 | [258192-how.json](./258192-how.json) |
