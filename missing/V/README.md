@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Version Three: Invisible Raid | 258035 | [258035-version-three-invisible-raid.json](./258035-version-three-invisible-raid.json) |
 | Versus in the Dark | 325021 | [325021-versus-in-the-dark.json](./325021-versus-in-the-dark.json) |
 | Versus One | 391755 | [391755-versus-one.json](./391755-versus-one.json) |
+| Versus Umbra | 165493 | [165493-versus-umbra.json](./165493-versus-umbra.json) |
 | Versus Vampire | 257923 | [257923-versus-vampire.json](./257923-versus-vampire.json) |
 | Versus: Boys and Girls | 233062 | [233062-versus-boys-and-girls.json](./233062-versus-boys-and-girls.json) |
 | Versus: The Lost Ones | 34598 | [34598-versus-the-lost-ones.json](./34598-versus-the-lost-ones.json) |
