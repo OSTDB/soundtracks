@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Blades: HD Upgrade | 322140 | [322140-x-blades-hd-upgrade.json](./322140-x-blades-hd-upgrade.json) |
 | X-Blades: Platinum Edition | 52115 | [52115-x-blades-platinum-edition.json](./52115-x-blades-platinum-edition.json) |
 | X-Bladez: Inline Skater | 43941 | [43941-x-bladez-inline-skater.json](./43941-x-bladez-inline-skater.json) |
+| X-Booster | 137950 | [137950-x-booster.json](./137950-x-booster.json) |
 | X-Bundle: Windows and Xbox games bundle | 331507 | [331507-x-bundle-windows-and-xbox-games-bundle.json](./331507-x-bundle-windows-and-xbox-games-bundle.json) |
 | X-Car Stunts | 102156 | [102156-x-car-stunts.json](./102156-x-car-stunts.json) |
 | X-COM Alliance | 85869 | [85869-x-com-alliance.json](./85869-x-com-alliance.json) |
