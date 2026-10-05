@@ -397,14 +397,28 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Sudoku Collection | 100576 | [100576-ultimate-sudoku-collection.json](./100576-ultimate-sudoku-collection.json) |
 | Ultimate Sudoku Collection: Basic Diagonal Pack | 163324 | [163324-ultimate-sudoku-collection-basic-diagonal-pack.json](./163324-ultimate-sudoku-collection-basic-diagonal-pack.json) |
 | Ultimate Sudoku Collection: Basic Pack | 163316 | [163316-ultimate-sudoku-collection-basic-pack.json](./163316-ultimate-sudoku-collection-basic-pack.json) |
+| Ultimate Sudoku Collection: Butterfly Pack | 163329 | [163329-ultimate-sudoku-collection-butterfly-pack.json](./163329-ultimate-sudoku-collection-butterfly-pack.json) |
 | Ultimate Sudoku Collection: Cross Pack | 163320 | [163320-ultimate-sudoku-collection-cross-pack.json](./163320-ultimate-sudoku-collection-cross-pack.json) |
+| Ultimate Sudoku Collection: Even Odd Pack | 163335 | [163335-ultimate-sudoku-collection-even-odd-pack.json](./163335-ultimate-sudoku-collection-even-odd-pack.json) |
+| Ultimate Sudoku Collection: Flower Pack | 163330 | [163330-ultimate-sudoku-collection-flower-pack.json](./163330-ultimate-sudoku-collection-flower-pack.json) |
+| Ultimate Sudoku Collection: Gattai-3 Anti Diagonal Pack | 163328 | [163328-ultimate-sudoku-collection-gattai-3-anti-diagonal-pack.json](./163328-ultimate-sudoku-collection-gattai-3-anti-diagonal-pack.json) |
 | Ultimate Sudoku Collection: Gattai-3 Diagonal Pack | 163315 | [163315-ultimate-sudoku-collection-gattai-3-diagonal-pack.json](./163315-ultimate-sudoku-collection-gattai-3-diagonal-pack.json) |
+| Ultimate Sudoku Collection: Gattai-3 Pack | 163336 | [163336-ultimate-sudoku-collection-gattai-3-pack.json](./163336-ultimate-sudoku-collection-gattai-3-pack.json) |
+| Ultimate Sudoku Collection: Hyper Pack | 163332 | [163332-ultimate-sudoku-collection-hyper-pack.json](./163332-ultimate-sudoku-collection-hyper-pack.json) |
+| Ultimate Sudoku Collection: Parquet Pack | 163334 | [163334-ultimate-sudoku-collection-parquet-pack.json](./163334-ultimate-sudoku-collection-parquet-pack.json) |
 | Ultimate Sudoku Collection: Samurai Advanced Pack | 163318 | [163318-ultimate-sudoku-collection-samurai-advanced-pack.json](./163318-ultimate-sudoku-collection-samurai-advanced-pack.json) |
 | Ultimate Sudoku Collection: Samurai Anti Diagonal Pack | 163317 | [163317-ultimate-sudoku-collection-samurai-anti-diagonal-pack.json](./163317-ultimate-sudoku-collection-samurai-anti-diagonal-pack.json) |
 | Ultimate Sudoku Collection: Samurai Beginner Pack | 163322 | [163322-ultimate-sudoku-collection-samurai-beginner-pack.json](./163322-ultimate-sudoku-collection-samurai-beginner-pack.json) |
+| Ultimate Sudoku Collection: Samurai Diagonal Pack | 163325 | [163325-ultimate-sudoku-collection-samurai-diagonal-pack.json](./163325-ultimate-sudoku-collection-samurai-diagonal-pack.json) |
 | Ultimate Sudoku Collection: Samurai Expert Pack | 163323 | [163323-ultimate-sudoku-collection-samurai-expert-pack.json](./163323-ultimate-sudoku-collection-samurai-expert-pack.json) |
+| Ultimate Sudoku Collection: Samurai Median Pack | 163331 | [163331-ultimate-sudoku-collection-samurai-median-pack.json](./163331-ultimate-sudoku-collection-samurai-median-pack.json) |
+| Ultimate Sudoku Collection: Samurai Mixed Pack | 163337 | [163337-ultimate-sudoku-collection-samurai-mixed-pack.json](./163337-ultimate-sudoku-collection-samurai-mixed-pack.json) |
 | Ultimate Sudoku Collection: Sohei Pack | 163321 | [163321-ultimate-sudoku-collection-sohei-pack.json](./163321-ultimate-sudoku-collection-sohei-pack.json) |
+| Ultimate Sudoku Collection: Star Sudoku Pack | 163338 | [163338-ultimate-sudoku-collection-star-sudoku-pack.json](./163338-ultimate-sudoku-collection-star-sudoku-pack.json) |
 | Ultimate Sudoku Collection: Tight-Fit-6 Pack | 163319 | [163319-ultimate-sudoku-collection-tight-fit-6-pack.json](./163319-ultimate-sudoku-collection-tight-fit-6-pack.json) |
+| Ultimate Sudoku Collection: Tight-Fit-8 Pack | 163333 | [163333-ultimate-sudoku-collection-tight-fit-8-pack.json](./163333-ultimate-sudoku-collection-tight-fit-8-pack.json) |
+| Ultimate Sudoku Collection: Tight-Fit-9 Pack | 163327 | [163327-ultimate-sudoku-collection-tight-fit-9-pack.json](./163327-ultimate-sudoku-collection-tight-fit-9-pack.json) |
+| Ultimate Sudoku Collection: Tridoku Pack | 163326 | [163326-ultimate-sudoku-collection-tridoku-pack.json](./163326-ultimate-sudoku-collection-tridoku-pack.json) |
 | Ultimate Summer | 142268 | [142268-ultimate-summer.json](./142268-ultimate-summer.json) |
 | Ultimate Summer Boat | 51982 | [51982-ultimate-summer-boat.json](./51982-ultimate-summer-boat.json) |
 | Ultimate Super Bean | 414299 | [414299-ultimate-super-bean.json](./414299-ultimate-super-bean.json) |
