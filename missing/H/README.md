@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmonia | 138141 | [138141-harmonia.json](./138141-harmonia.json) |
 | Harmonia Heart | 206181 | [206181-harmonia-heart.json](./206181-harmonia-heart.json) |
 | Harmonia: Full HD Edition | 289587 | [289587-harmonia-full-hd-edition.json](./289587-harmonia-full-hd-edition.json) |
+| Harmonian Tales | 146535 | [146535-harmonian-tales.json](./146535-harmonian-tales.json) |
 | Harmonis: The Hand-Made Kingdoms | 287073 | [287073-harmonis-the-hand-made-kingdoms.json](./287073-harmonis-the-hand-made-kingdoms.json) |
 | Harmonium: The Musical | 279616 | [279616-harmonium-the-musical.json](./279616-harmonium-the-musical.json) |
 | Harmony | 260660 | [260660-harmony.json](./260660-harmony.json) |
@@ -1518,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawaiian Explorer: Pearl Harbor | 53171 | [53171-hawaiian-explorer-pearl-harbor.json](./53171-hawaiian-explorer-pearl-harbor.json) |
 | Hawaiian Solitaire | 386142 | [386142-hawaiian-solitaire.json](./386142-hawaiian-solitaire.json) |
 | Hawk F-123 | 128362 | [128362-hawk-f-123.json](./128362-hawk-f-123.json) |
+| Hawk Kawasaki Racing | 146546 | [146546-hawk-kawasaki-racing.json](./146546-hawk-kawasaki-racing.json) |
 | Hawk Tuah Run | 321782 | [321782-hawk-tuah-run.json](./321782-hawk-tuah-run.json) |
 | Hawk: Freedom Squadron | 56572 | [56572-hawk-freedom-squadron.json](./56572-hawk-freedom-squadron.json) |
 | Hawked | 227636 | [227636-hawked.json](./227636-hawked.json) |
