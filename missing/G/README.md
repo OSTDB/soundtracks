@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gall Force: Sousei no Jokyoku | 107627 | [107627-gall-force-sousei-no-jokyoku.json](./107627-gall-force-sousei-no-jokyoku.json) |
 | Gallag | 232392 | [232392-gallag.json](./232392-gallag.json) |
 | Gallagant | 287652 | [287652-gallagant.json](./287652-gallagant.json) |
+| Gallantry | 145914 | [145914-gallantry.json](./145914-gallantry.json) |
 | Galleon | 5843 | [5843-galleon.json](./5843-galleon.json) |
 | Gallerie | 392169 | [392169-gallerie.json](./392169-gallerie.json) |
 | Gallery Fake | 197660 | [197660-gallery-fake.json](./197660-gallery-fake.json) |
