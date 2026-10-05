@@ -684,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warden of the Coast | 243124 | [243124-warden-of-the-coast.json](./243124-warden-of-the-coast.json) |
 | Warden of the Isles | 129264 | [129264-warden-of-the-isles.json](./129264-warden-of-the-isles.json) |
 | Warden's Will | 190730 | [190730-wardens-will.json](./190730-wardens-will.json) |
+| Wardens | 122900 | [122900-wardens.json](./122900-wardens.json) |
 | Wardens of Chaos | 288477 | [288477-wardens-of-chaos.json](./288477-wardens-of-chaos.json) |
 | Wardens of the Amber Cage | 103477 | [103477-wardens-of-the-amber-cage.json](./103477-wardens-of-the-amber-cage.json) |
 | WarDevil: Unleash the Beast Within | 72988 | [72988-wardevil-unleash-the-beast-within.json](./72988-wardevil-unleash-the-beast-within.json) |
