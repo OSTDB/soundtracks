@@ -2191,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIA European Truck Racing Championship | 117855 | [117855-fia-european-truck-racing-championship.json](./117855-fia-european-truck-racing-championship.json) |
 | Fianna | 410425 | [410425-fianna.json](./410425-fianna.json) |
 | Fibbage XL | 33374 | [33374-fibbage-xl.json](./33374-fibbage-xl.json) |
+| Fibber Kit | 122833 | [122833-fibber-kit.json](./122833-fibber-kit.json) |
 | Fibble | 228714 | [228714-fibble.json](./228714-fibble.json) |
 | Fibble: Flick 'n' Roll | 65220 | [65220-fibble-flick-n-roll.json](./65220-fibble-flick-n-roll.json) |
 | Fibbler.io | 282568 | [282568-fibbler-io.json](./282568-fibbler-io.json) |
@@ -2536,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Figure Fantasy | 182491 | [182491-figure-fantasy.json](./182491-figure-fantasy.json) |
 | Figure of Eight | 402927 | [402927-figure-of-eight.json](./402927-figure-of-eight.json) |
 | Figure Shop Simulator | 343263 | [343263-figure-shop-simulator.json](./343263-figure-shop-simulator.json) |
+| Figure Simulator War | 122828 | [122828-figure-simulator-war.json](./122828-figure-simulator-war.json) |
 | Figure Skater | 99187 | [99187-figure-skater.json](./99187-figure-skater.json) |
 | Figureheads | 24931 | [24931-figureheads.json](./24931-figureheads.json) |
 | Figures of Happiness | 73886 | [73886-figures-of-happiness.json](./73886-figures-of-happiness.json) |
