@@ -5906,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fraga | 397270 | [397270-fraga.json](./397270-fraga.json) |
 | Fragger | 94183 | [94183-fragger.json](./94183-fragger.json) |
 | Fragging Free | 327339 | [327339-fragging-free.json](./327339-fragging-free.json) |
+| Fragile | 126396 | [126396-fragile.json](./126396-fragile.json) |
 | Fragile Allegiance | 2619 | [2619-fragile-allegiance.json](./2619-fragile-allegiance.json) |
 | Fragile Ascent | 292010 | [292010-fragile-ascent.json](./292010-fragile-ascent.json) |
 | Fragile Box | 129681 | [129681-fragile-box.json](./129681-fragile-box.json) |
@@ -6213,6 +6214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeride | 204514 | [204514-freeride.json](./204514-freeride.json) |
 | Freerunners | 220025 | [220025-freerunners.json](./220025-freerunners.json) |
 | FreeRunners | 156617 | [156617-freerunners.json](./156617-freerunners.json) |
+| FreeSO | 126490 | [126490-freeso.json](./126490-freeso.json) |
 | Freespace 2 | 722 | [722-freespace-2.json](./722-freespace-2.json) |
 | Freestead Castle Defense | 292553 | [292553-freestead-castle-defense.json](./292553-freestead-castle-defense.json) |
 | Freestyle Baseball 2 | 239890 | [239890-freestyle-baseball-2.json](./239890-freestyle-baseball-2.json) |
@@ -7458,6 +7460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Reality: Racing League | 217364 | [217364-future-reality-racing-league.json](./217364-future-reality-racing-league.json) |
 | Future Sense | 242202 | [242202-future-sense.json](./242202-future-sense.json) |
 | Future Shock | 13718 | [13718-future-shock.json](./13718-future-shock.json) |
+| Future Snooker | 126386 | [126386-future-snooker.json](./126386-future-snooker.json) |
 | Future Swashbuckler | 305945 | [305945-future-swashbuckler.json](./305945-future-swashbuckler.json) |
 | Future Tank | 68346 | [68346-future-tank.json](./68346-future-tank.json) |
 | Future Tanks Area | 193507 | [193507-future-tanks-area.json](./193507-future-tanks-area.json) |
