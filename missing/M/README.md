@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maiden Voyage | 299770 | [299770-maiden-voyage.json](./299770-maiden-voyage.json) |
 | Maiden's Extreme Fist 'Bun-ga-rua' | 360112 | [360112-maidens-extreme-fist-bun-ga-rua.json](./360112-maidens-extreme-fist-bun-ga-rua.json) |
 | Maidens of a Hollow Dream | 90257 | [90257-maidens-of-a-hollow-dream.json](./90257-maidens-of-a-hollow-dream.json) |
+| Maidens of the Ocean Solitaire | 164926 | [164926-maidens-of-the-ocean-solitaire.json](./164926-maidens-of-the-ocean-solitaire.json) |
 | MaidGardener | 253904 | [253904-maidgardener.json](./253904-maidgardener.json) |
 | Maidnight | 373733 | [373733-maidnight.json](./373733-maidnight.json) |
 | Maigo no Koneko-chan | 276472 | [276472-maigo-no-koneko-chan.json](./276472-maigo-no-koneko-chan.json) |
