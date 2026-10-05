@@ -2432,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightmare Tales | 292746 | [292746-knightmare-tales.json](./292746-knightmare-tales.json) |
 | Knightphone | 118267 | [118267-knightphone.json](./118267-knightphone.json) |
 | KnightQuest | 95427 | [95427-knightquest.json](./95427-knightquest.json) |
+| KnightRoyale | 143948 | [143948-knightroyale.json](./143948-knightroyale.json) |
 | Knights | 32575 | [32575-knights.json](./32575-knights.json) |
 | Knights | 399122 | [399122-knights.json](./399122-knights.json) |
 | Knights & Dragons | 59980 | [59980-knights-and-dragons.json](./59980-knights-and-dragons.json) |
