@@ -4829,6 +4829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Defense Z | 284974 | [284974-city-defense-z.json](./284974-city-defense-z.json) |
 | City Destructor | 132442 | [132442-city-destructor.json](./132442-city-destructor.json) |
 | City Driver: Police Parking Simulator | 316196 | [316196-city-driver-police-parking-simulator.json](./316196-city-driver-police-parking-simulator.json) |
+| City Driving Simulator | 135634 | [135634-city-driving-simulator.json](./135634-city-driving-simulator.json) |
 | City Dunk 2 | 220298 | [220298-city-dunk-2.json](./220298-city-dunk-2.json) |
 | City Explorer: Seattle | 88166 | [88166-city-explorer-seattle.json](./88166-city-explorer-seattle.json) |
 | City Extreme Driving Collection | 328538 | [328538-city-extreme-driving-collection.json](./328538-city-extreme-driving-collection.json) |
@@ -5531,6 +5532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closers | 55076 | [55076-closers.json](./55076-closers.json) |
 | CloserTo | 396374 | [396374-closerto.json](./396374-closerto.json) |
 | Closet Organizer | 208913 | [208913-closet-organizer.json](./208913-closet-organizer.json) |
+| Closets | 135621 | [135621-closets.json](./135621-closets.json) |
 | Closing at 2 | 280283 | [280283-closing-at-2.json](./280283-closing-at-2.json) |
 | Closing Doors | 368632 | [368632-closing-doors.json](./368632-closing-doors.json) |
 | Closing Shift | 279895 | [279895-closing-shift.json](./279895-closing-shift.json) |
@@ -7061,6 +7063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congo: The Movie | 217940 | [217940-congo-the-movie.json](./217940-congo-the-movie.json) |
 | Conjuntalia | 91002 | [91002-conjuntalia.json](./91002-conjuntalia.json) |
 | Conjuntalia: Overcome the Death of a Loved One | 171400 | [171400-conjuntalia-overcome-the-death-of-a-loved-one.json](./171400-conjuntalia-overcome-the-death-of-a-loved-one.json) |
+| Conjurer Andy's Repeatable Dungeon | 135633 | [135633-conjurer-andys-repeatable-dungeon.json](./135633-conjurer-andys-repeatable-dungeon.json) |
 | Conjuror's Eye | 88069 | [88069-conjurors-eye.json](./88069-conjurors-eye.json) |
 | Conker's High Rule Tail | 42207 | [42207-conkers-high-rule-tail.json](./42207-conkers-high-rule-tail.json) |
 | Conker's Other Bad Fur Day | 77970 | [77970-conkers-other-bad-fur-day.json](./77970-conkers-other-bad-fur-day.json) |
