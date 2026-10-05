@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maelstrom Legacy: The Tesla Mystery | 207714 | [207714-maelstrom-legacy-the-tesla-mystery.json](./207714-maelstrom-legacy-the-tesla-mystery.json) |
 | Maelstrom: The Battle for Earth Begins | 10134 | [10134-maelstrom-the-battle-for-earth-begins.json](./10134-maelstrom-the-battle-for-earth-begins.json) |
 | Maelstrom: The Battle for Earth Begins Enhanced | 385595 | [385595-maelstrom-the-battle-for-earth-begins-enhanced.json](./385595-maelstrom-the-battle-for-earth-begins-enhanced.json) |
+| Maenhir | 163885 | [163885-maenhir.json](./163885-maenhir.json) |
 | Maenovan | 168123 | [168123-maenovan.json](./168123-maenovan.json) |
 | Maerl Bay | 248578 | [248578-maerl-bay.json](./248578-maerl-bay.json) |
 | Maestria | 207841 | [207841-maestria.json](./207841-maestria.json) |
@@ -553,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Adventures | 155025 | [155025-magic-adventures.json](./155025-magic-adventures.json) |
 | Magic and Elements | 205581 | [205581-magic-and-elements.json](./205581-magic-and-elements.json) |
 | Magic Archery | 318318 | [318318-magic-archery.json](./318318-magic-archery.json) |
+| Magic Balls | 163868 | [163868-magic-balls.json](./163868-magic-balls.json) |
 | Magic Balls | 263474 | [263474-magic-balls.json](./263474-magic-balls.json) |
 | Magic Barrage - Bitferno | 36142 | [36142-magic-barrage-bitferno.json](./36142-magic-barrage-bitferno.json) |
 | Magic Block | 48282 | [48282-magic-block.json](./48282-magic-block.json) |
@@ -10923,6 +10925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovely Noblewomen | 148339 | [148339-my-lovely-noblewomen.json](./148339-my-lovely-noblewomen.json) |
 | My Lovely Wife: Deluxe Edition | 227184 | [227184-my-lovely-wife-deluxe-edition.json](./227184-my-lovely-wife-deluxe-edition.json) |
 | My Lovey-Dovey Angel Is a Total Deadbeat: Seriously Scary! | 411717 | [411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json](./411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json) |
+| My Low Poly City | 163892 | [163892-my-low-poly-city.json](./163892-my-low-poly-city.json) |
 | My Mafia Girlfriend | 229111 | [229111-my-mafia-girlfriend.json](./229111-my-mafia-girlfriend.json) |
 | My Magic Florist | 146773 | [146773-my-magic-florist.json](./146773-my-magic-florist.json) |
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
