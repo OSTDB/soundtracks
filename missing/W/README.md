@@ -883,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Chaosbane - Deluxe Edition | 115064 | [115064-warhammer-chaosbane-deluxe-edition.json](./115064-warhammer-chaosbane-deluxe-edition.json) |
 | Warhammer: Chaosbane - Magnus Edition | 115065 | [115065-warhammer-chaosbane-magnus-edition.json](./115065-warhammer-chaosbane-magnus-edition.json) |
 | Warhammer: Chaosbane - Slayer Edition | 139948 | [139948-warhammer-chaosbane-slayer-edition.json](./139948-warhammer-chaosbane-slayer-edition.json) |
+| Warhammer: Chaosbane - Tomb Kings | 154602 | [154602-warhammer-chaosbane-tomb-kings.json](./154602-warhammer-chaosbane-tomb-kings.json) |
 | Warhammer: Doomwheel | 98025 | [98025-warhammer-doomwheel.json](./98025-warhammer-doomwheel.json) |
 | Warhammer: Mark of Chaos - Gold Edition | 154551 | [154551-warhammer-mark-of-chaos-gold-edition.json](./154551-warhammer-mark-of-chaos-gold-edition.json) |
 | Warhammer: Odyssey | 130881 | [130881-warhammer-odyssey.json](./130881-warhammer-odyssey.json) |
@@ -4613,6 +4614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War | 78611 | [78611-world-war.json](./78611-world-war.json) |
 | World War 1: Ruined - Part 2 | 265118 | [265118-world-war-1-ruined-part-2.json](./265118-world-war-1-ruined-part-2.json) |
 | World War 2 | 206615 | [206615-world-war-2.json](./206615-world-war-2.json) |
+| World War 2: Operation Husky | 154592 | [154592-world-war-2-operation-husky.json](./154592-world-war-2-operation-husky.json) |
 | World War 3 | 102868 | [102868-world-war-3.json](./102868-world-war-3.json) |
 | World War 3: Card Battler | 216480 | [216480-world-war-3-card-battler.json](./216480-world-war-3-card-battler.json) |
 | World War Academy: Commander 1 | 170317 | [170317-world-war-academy-commander-1.json](./170317-world-war-academy-commander-1.json) |
