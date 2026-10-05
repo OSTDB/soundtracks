@@ -3919,6 +3919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Hun Shi Ke | 90619 | [90619-long-hun-shi-ke.json](./90619-long-hun-shi-ke.json) |
 | Long in the Tooth | 376130 | [376130-long-in-the-tooth.json](./376130-long-in-the-tooth.json) |
 | Long Journey | 200571 | [200571-long-journey.json](./200571-long-journey.json) |
+| Long Journey Home | 151838 | [151838-long-journey-home.json](./151838-long-journey-home.json) |
 | Long Journey of Life | 139299 | [139299-long-journey-of-life.json](./139299-long-journey-of-life.json) |
 | Long Jump | 247049 | [247049-long-jump.json](./247049-long-jump.json) |
 | Long Legged Larry | 247445 | [247445-long-legged-larry.json](./247445-long-legged-larry.json) |
