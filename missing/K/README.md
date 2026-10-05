@@ -2697,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kollywood: The Game | 340030 | [340030-kollywood-the-game.json](./340030-kollywood-the-game.json) |
 | Kolo | 169771 | [169771-kolo.json](./169771-kolo.json) |
 | Kolobok Piramida | 266283 | [266283-kolobok-piramida.json](./266283-kolobok-piramida.json) |
+| Kolobok: The Return | 169841 | [169841-kolobok-the-return.json](./169841-kolobok-the-return.json) |
 | Koloni | 244252 | [244252-koloni.json](./244252-koloni.json) |
 | Kolt Penny's Symmetris | 296387 | [296387-kolt-pennys-symmetris.json](./296387-kolt-pennys-symmetris.json) |
 | Kolumno | 111641 | [111641-kolumno.json](./111641-kolumno.json) |
