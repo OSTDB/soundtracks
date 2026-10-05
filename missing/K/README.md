@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Dog | 135814 | [135814-killer-dog.json](./135814-killer-dog.json) |
 | Killer Escape 4 | 386945 | [386945-killer-escape-4.json](./386945-killer-escape-4.json) |
 | Killer Escape III | 386938 | [386938-killer-escape-iii.json](./386938-killer-escape-iii.json) |
+| Killer Freaks From Outer Space | 132063 | [132063-killer-freaks-from-outer-space.json](./132063-killer-freaks-from-outer-space.json) |
 | Killer Gorilla | 13733 | [13733-killer-gorilla.json](./13733-killer-gorilla.json) |
 | Killer Inside Us | 157189 | [157189-killer-inside-us.json](./157189-killer-inside-us.json) |
 | Killer Instinct | 254517 | [254517-killer-instinct.json](./254517-killer-instinct.json) |
@@ -1757,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Quest 4+5+6 | 154935 | [154935-kings-quest-4-5-6.json](./154935-kings-quest-4-5-6.json) |
 | King's Quest Collection | 27852 | [27852-kings-quest-collection.json](./27852-kings-quest-collection.json) |
 | King's Quest II: Romancing the Stones | 77309 | [77309-kings-quest-ii-romancing-the-stones.json](./77309-kings-quest-ii-romancing-the-stones.json) |
+| King's Quest III Redux: To Heir is Human | 132066 | [132066-kings-quest-iii-redux-to-heir-is-human.json](./132066-kings-quest-iii-redux-to-heir-is-human.json) |
 | King's Quest IV: The Perils of Rosella Retold | 230506 | [230506-kings-quest-iv-the-perils-of-rosella-retold.json](./230506-kings-quest-iv-the-perils-of-rosella-retold.json) |
 | King's Quest V: Absence Makes the Heart Go Yonder! | 2238 | [2238-kings-quest-v-absence-makes-the-heart-go-yonder.json](./2238-kings-quest-v-absence-makes-the-heart-go-yonder.json) |
 | King's Quest V: Absence Makes The Heart Go Yonder! | 322088 | [322088-kings-quest-v-absence-makes-the-heart-go-yonder.json](./322088-kings-quest-v-absence-makes-the-heart-go-yonder.json) |
