@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Javel-ein | 133300 | [133300-javel-ein.json](./133300-javel-ein.json) |
 | Javelin | 247047 | [247047-javelin.json](./247047-javelin.json) |
 | Javelin Masters 2 | 344451 | [344451-javelin-masters-2.json](./344451-javelin-masters-2.json) |
+| Javols VR | 149220 | [149220-javols-vr.json](./149220-javols-vr.json) |
 | Jawaker | 315697 | [315697-jawaker.json](./315697-jawaker.json) |
 | Jawbreak | 271803 | [271803-jawbreak.json](./271803-jawbreak.json) |
 | Jawbreaker | 177551 | [177551-jawbreaker.json](./177551-jawbreaker.json) |
@@ -1957,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungledyret | 286115 | [286115-jungledyret.json](./286115-jungledyret.json) |
 | Jungledyret Hugo: Frikadellekrigen | 286117 | [286117-jungledyret-hugo-frikadellekrigen.json](./286117-jungledyret-hugo-frikadellekrigen.json) |
 | Jungledyret Hugo: Frugtkampen Med Zik Og Zak | 286116 | [286116-jungledyret-hugo-frugtkampen-med-zik-og-zak.json](./286116-jungledyret-hugo-frugtkampen-med-zik-og-zak.json) |
+| JungleKnight | 149206 | [149206-jungleknight.json](./149206-jungleknight.json) |
 | Jungler | 245460 | [245460-jungler.json](./245460-jungler.json) |
 | Jungler | 297490 | [297490-jungler.json](./297490-jungler.json) |
 | Junglex | 115616 | [115616-junglex.json](./115616-junglex.json) |
@@ -1974,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juniper: A Scrapbooking Adventure | 386722 | [386722-juniper-a-scrapbooking-adventure.json](./386722-juniper-a-scrapbooking-adventure.json) |
 | Junjou Gal to Shiawase no Katachi: Shape of Happiness | 221201 | [221201-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json](./221201-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json) |
 | Junk | 122251 | [122251-junk.json](./122251-junk.json) |
+| Junk Architect | 149189 | [149189-junk-architect.json](./149189-junk-architect.json) |
 | Junk Race | 246988 | [246988-junk-race.json](./246988-junk-race.json) |
 | Junk Runner 64 | 396416 | [396416-junk-runner-64.json](./396416-junk-runner-64.json) |
 | Junk Sec | 394901 | [394901-junk-sec.json](./394901-junk-sec.json) |
@@ -2234,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Push the Button | 224117 | [224117-just-push-the-button.json](./224117-just-push-the-button.json) |
 | Just Puzzles: Water | 417715 | [417715-just-puzzles-water.json](./417715-just-puzzles-water.json) |
 | Just Random Squares | 120394 | [120394-just-random-squares.json](./120394-just-random-squares.json) |
+| Just Read the Instructions | 149208 | [149208-just-read-the-instructions.json](./149208-just-read-the-instructions.json) |
 | Just Roll | 285689 | [285689-just-roll.json](./285689-just-roll.json) |
 | Just Roll With It | 112763 | [112763-just-roll-with-it.json](./112763-just-roll-with-it.json) |
 | Just Run! | 102141 | [102141-just-run.json](./102141-just-run.json) |
