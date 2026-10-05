@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yrkkey's Paradise | 279712 | [279712-yrkkeys-paradise.json](./279712-yrkkeys-paradise.json) |
 | Ys | 206128 | [206128-ys.json](./206128-ys.json) |
 | Ys | 206826 | [206826-ys.json](./206826-ys.json) |
+| Ys 2 Special | 146536 | [146536-ys-2-special.json](./146536-ys-2-special.json) |
 | Ys Altago | 111847 | [111847-ys-altago.json](./111847-ys-altago.json) |
 | Ys Foliage Ocean in Celceta: Kai | 288377 | [288377-ys-foliage-ocean-in-celceta-kai.json](./288377-ys-foliage-ocean-in-celceta-kai.json) |
 | Ys I & II Chronicles | 21020 | [21020-ys-i-and-ii-chronicles.json](./21020-ys-i-and-ii-chronicles.json) |
