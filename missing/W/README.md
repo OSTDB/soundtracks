@@ -2562,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Album 2: Shiawase no Mukougawa | 79871 | [79871-white-album-2-shiawase-no-mukougawa.json](./79871-white-album-2-shiawase-no-mukougawa.json) |
 | White Album: Memories Like Falling Snow | 79870 | [79870-white-album-memories-like-falling-snow.json](./79870-white-album-memories-like-falling-snow.json) |
 | White Blade | 252229 | [252229-white-blade.json](./252229-white-blade.json) |
+| White Breath: Perfect Edition | 125290 | [125290-white-breath-perfect-edition.json](./125290-white-breath-perfect-edition.json) |
 | White Camellia | 398510 | [398510-white-camellia.json](./398510-white-camellia.json) |
 | White Carve | 182897 | [182897-white-carve.json](./182897-white-carve.json) |
 | White Cat Stories | 346230 | [346230-white-cat-stories.json](./346230-white-cat-stories.json) |
@@ -4800,6 +4801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds of the Future | 169170 | [169170-worlds-of-the-future.json](./169170-worlds-of-the-future.json) |
 | Worlds War 1 | 251649 | [251649-worlds-war-1.json](./251649-worlds-war-1.json) |
 | Worlds Within Worlds | 176312 | [176312-worlds-within-worlds.json](./176312-worlds-within-worlds.json) |
+| Worlds: History Simulator | 125297 | [125297-worlds-history-simulator.json](./125297-worlds-history-simulator.json) |
 | Worldseekers | 315630 | [315630-worldseekers.json](./315630-worldseekers.json) |
 | WorldShards | 224584 | [224584-worldshards.json](./224584-worldshards.json) |
 | WorldShift | 21581 | [21581-worldshift.json](./21581-worldshift.json) |
