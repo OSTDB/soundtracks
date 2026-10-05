@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab Cat | 298782 | [298782-lab-cat.json](./298782-lab-cat.json) |
 | Lab Crisis | 205580 | [205580-lab-crisis.json](./205580-lab-crisis.json) |
 | Lab Eject | 368595 | [368595-lab-eject.json](./368595-lab-eject.json) |
+| Lab Escape | 160273 | [160273-lab-escape.json](./160273-lab-escape.json) |
 | Lab Escape! | 299450 | [299450-lab-escape.json](./299450-lab-escape.json) |
 | Lab Inspect | 226141 | [226141-lab-inspect.json](./226141-lab-inspect.json) |
 | Lab Rat | 94244 | [94244-lab-rat.json](./94244-lab-rat.json) |
@@ -783,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Shinobi | 377055 | [377055-last-shinobi.json](./377055-last-shinobi.json) |
 | Last Ship Sailing | 403707 | [403707-last-ship-sailing.json](./403707-last-ship-sailing.json) |
 | Last Shooter: Apocalypse | 227266 | [227266-last-shooter-apocalypse.json](./227266-last-shooter-apocalypse.json) |
+| Last Shot | 160278 | [160278-last-shot.json](./160278-last-shot.json) |
 | Last Signal | 257982 | [257982-last-signal.json](./257982-last-signal.json) |
 | Last Signal | 395151 | [395151-last-signal.json](./395151-last-signal.json) |
 | Last Soldier | 52270 | [52270-last-soldier.json](./52270-last-soldier.json) |
