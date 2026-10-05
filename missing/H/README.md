@@ -1520,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawks of Bruyland | 329961 | [329961-hawks-of-bruyland.json](./329961-hawks-of-bruyland.json) |
 | Hawks Tactical | 30095 | [30095-hawks-tactical.json](./30095-hawks-tactical.json) |
 | Hawthorn | 319345 | [319345-hawthorn.json](./319345-hawthorn.json) |
+| Hawthorn Park | 157218 | [157218-hawthorn-park.json](./157218-hawthorn-park.json) |
 | Haxrail | 347367 | [347367-haxrail.json](./347367-haxrail.json) |
 | Haxware Comgam | 219816 | [219816-haxware-comgam.json](./219816-haxware-comgam.json) |
 | Hay Bales | 246507 | [246507-hay-bales.json](./246507-hay-bales.json) |
@@ -6366,6 +6367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt Planet Bug | 133351 | [133351-hunt-planet-bug.json](./133351-hunt-planet-bug.json) |
 | Hunt Royale | 159347 | [159347-hunt-royale.json](./159347-hunt-royale.json) |
 | Hunt Souleater | 189024 | [189024-hunt-souleater.json](./189024-hunt-souleater.json) |
+| Hunt the Lights | 157076 | [157076-hunt-the-lights.json](./157076-hunt-the-lights.json) |
 | Hunt the Pale Gods | 303559 | [303559-hunt-the-pale-gods.json](./303559-hunt-the-pale-gods.json) |
 | Hunt the Thailand Hidden | 119696 | [119696-hunt-the-thailand-hidden.json](./119696-hunt-the-thailand-hidden.json) |
 | Hunt the Wumpus | 11498 | [11498-hunt-the-wumpus.json](./11498-hunt-the-wumpus.json) |
