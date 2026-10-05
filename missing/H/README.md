@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack 0 2 | 320292 | [320292-hack-0-2.json](./320292-hack-0-2.json) |
 | Hack 1 2 | 269774 | [269774-hack-1-2.json](./269774-hack-1-2.json) |
 | Hack 2 | 171891 | [171891-hack-2.json](./171891-hack-2.json) |
+| Hack 3 | 160276 | [160276-hack-3.json](./160276-hack-3.json) |
 | Hack 4 | 171892 | [171892-hack-4.json](./171892-hack-4.json) |
 | Hack 42: Typing Incremental | 407601 | [407601-hack-42-typing-incremental.json](./407601-hack-42-typing-incremental.json) |
 | Hack 5 | 171893 | [171893-hack-5.json](./171893-hack-5.json) |
@@ -1052,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hare | 83584 | [83584-hare.json](./83584-hare.json) |
 | Hare 136 | 340414 | [340414-hare-136.json](./340414-hare-136.json) |
 | Hare Apparent | 194994 | [194994-hare-apparent.json](./194994-hare-apparent.json) |
+| Hare In The Hat: The Abyss | 160283 | [160283-hare-in-the-hat-the-abyss.json](./160283-hare-in-the-hat-the-abyss.json) |
 | Hare Nochi Oosawagi! | 257668 | [257668-hare-nochi-oosawagi.json](./257668-hare-nochi-oosawagi.json) |
 | Hare Trigger | 302444 | [302444-hare-trigger.json](./302444-hare-trigger.json) |
 | Hare's Hollow | 184607 | [184607-hares-hollow.json](./184607-hares-hollow.json) |
@@ -3636,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Fears | 86916 | [86916-hidden-fears.json](./86916-hidden-fears.json) |
 | Hidden Folks | 26809 | [26809-hidden-folks.json](./26809-hidden-folks.json) |
 | Hidden Folks 2 | 404849 | [404849-hidden-folks-2.json](./404849-hidden-folks-2.json) |
+| Hidden Forest | 160272 | [160272-hidden-forest.json](./160272-hidden-forest.json) |
 | Hidden Foxes | 391340 | [391340-hidden-foxes.json](./391340-hidden-foxes.json) |
 | Hidden Futa | 236287 | [236287-hidden-futa.json](./236287-hidden-futa.json) |
 | Hidden Garden | 63885 | [63885-hidden-garden.json](./63885-hidden-garden.json) |
