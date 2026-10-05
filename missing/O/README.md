@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octagonis | 177856 | [177856-octagonis.json](./177856-octagonis.json) |
 | Octane100 | 359571 | [359571-octane100.json](./359571-octane100.json) |
 | Octapolis | 55030 | [55030-octapolis.json](./55030-octapolis.json) |
+| Octarina | 150760 | [150760-octarina.json](./150760-octarina.json) |
 | Octave | 180675 | [180675-octave.json](./180675-octave.json) |
 | Octavian | 169153 | [169153-octavian.json](./169153-octavian.json) |
 | Octavio Camacho | 247537 | [247537-octavio-camacho.json](./247537-octavio-camacho.json) |
