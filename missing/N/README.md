@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Tennis Smash Court | 74301 | [74301-namco-tennis-smash-court.json](./74301-namco-tennis-smash-court.json) |
 | Namco Vintage | 206782 | [206782-namco-vintage.json](./206782-namco-vintage.json) |
 | namCollection | 94721 | [94721-namcollection.json](./94721-namcollection.json) |
+| Namcot Collection | 133762 | [133762-namcot-collection.json](./133762-namcot-collection.json) |
 | Namcot Mahjong III: Mahjong Tengoku | 48813 | [48813-namcot-mahjong-iii-mahjong-tengoku.json](./48813-namcot-mahjong-iii-mahjong-tengoku.json) |
 | Namcot Open | 37911 | [37911-namcot-open.json](./37911-namcot-open.json) |
 | Name of the Will | 212175 | [212175-name-of-the-will.json](./212175-name-of-the-will.json) |
