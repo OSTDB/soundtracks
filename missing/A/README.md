@@ -1374,6 +1374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Active Defense | 257357 | [257357-active-defense.json](./257357-active-defense.json) |
 | Active Lancer | 401836 | [401836-active-lancer.json](./401836-active-lancer.json) |
 | Active Matter | 322158 | [322158-active-matter.json](./322158-active-matter.json) |
+| Active Neurons 2 | 133167 | [133167-active-neurons-2.json](./133167-active-neurons-2.json) |
 | Active Neurons 3: Wonders of the World | 143595 | [143595-active-neurons-3-wonders-of-the-world.json](./143595-active-neurons-3-wonders-of-the-world.json) |
 | Active Soccer 2 | 197234 | [197234-active-soccer-2.json](./197234-active-soccer-2.json) |
 | Active Soccer 2019 | 117537 | [117537-active-soccer-2019.json](./117537-active-soccer-2019.json) |
@@ -4475,6 +4476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amy Rose in Sonic the Hedgehog 2 | 129177 | [129177-amy-rose-in-sonic-the-hedgehog-2.json](./129177-amy-rose-in-sonic-the-hedgehog-2.json) |
 | Amy's American Page One | 261277 | [261277-amys-american-page-one.json](./261277-amys-american-page-one.json) |
 | Amy's Fun-2-3 Adventure | 14255 | [14255-amys-fun-2-3-adventure.json](./14255-amys-fun-2-3-adventure.json) |
+| Amy's Greenmart | 133183 | [133183-amys-greenmart.json](./133183-amys-greenmart.json) |
 | Amygdala | 268142 | [268142-amygdala.json](./268142-amygdala.json) |
 | Amygdala: Prelude | 269284 | [269284-amygdala-prelude.json](./269284-amygdala-prelude.json) |
 | An Absolutely Not Suspicious Cabin in the Woods | 160212 | [160212-an-absolutely-not-suspicious-cabin-in-the-woods.json](./160212-an-absolutely-not-suspicious-cabin-in-the-woods.json) |
@@ -5852,6 +5854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: PlayStation Plus Play Pack | 316623 | [316623-apex-legends-playstation-plus-play-pack.json](./316623-apex-legends-playstation-plus-play-pack.json) |
 | Apex Legends: PlayStation Plus Play Pack | 325861 | [325861-apex-legends-playstation-plus-play-pack.json](./325861-apex-legends-playstation-plus-play-pack.json) |
 | Apex Legends: Prodigy | 342775 | [342775-apex-legends-prodigy.json](./342775-apex-legends-prodigy.json) |
+| Apex Legends: Season 5 | 133259 | [133259-apex-legends-season-5.json](./133259-apex-legends-season-5.json) |
 | Apex Legends: Season 7 | 140448 | [140448-apex-legends-season-7.json](./140448-apex-legends-season-7.json) |
 | Apex Legends: Shockwave | 314909 | [314909-apex-legends-shockwave.json](./314909-apex-legends-shockwave.json) |
 | Apex Legends: Takeover | 333785 | [333785-apex-legends-takeover.json](./333785-apex-legends-takeover.json) |
@@ -5983,6 +5986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Jack | 91905 | [91905-apple-jack.json](./91905-apple-jack.json) |
 | Apple Jack 1&2 | 35716 | [35716-apple-jack-1-and-2.json](./35716-apple-jack-1-and-2.json) |
 | Apple Panic | 12255 | [12255-apple-panic.json](./12255-apple-panic.json) |
+| Apple Pie | 133257 | [133257-apple-pie.json](./133257-apple-pie.json) |
 | Apple Pie | 13692 | [13692-apple-pie.json](./13692-apple-pie.json) |
 | Apple Pop | 121460 | [121460-apple-pop.json](./121460-apple-pop.json) |
 | Apple Quest Monsters DX | 249740 | [249740-apple-quest-monsters-dx.json](./249740-apple-quest-monsters-dx.json) |
@@ -6772,6 +6776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcobaleno! | 59394 | [59394-arcobaleno.json](./59394-arcobaleno.json) |
 | Arcostate | 412355 | [412355-arcostate.json](./412355-arcostate.json) |
 | ArcPinball | 13242 | [13242-arcpinball.json](./13242-arcpinball.json) |
+| Arcsaber VR | 133188 | [133188-arcsaber-vr.json](./133188-arcsaber-vr.json) |
 | Arcshu: Kagerou no Jidai wo Koete | 314659 | [314659-arcshu-kagerou-no-jidai-wo-koete.json](./314659-arcshu-kagerou-no-jidai-wo-koete.json) |
 | ArcSine | 234681 | [234681-arcsine.json](./234681-arcsine.json) |
 | Arctic | 56479 | [56479-arctic.json](./56479-arctic.json) |
@@ -8142,6 +8147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra: Fading Stars | 143124 | [143124-astra-fading-stars.json](./143124-astra-fading-stars.json) |
 | Astra's Garden | 234543 | [234543-astras-garden.json](./234543-astras-garden.json) |
 | Astra's Moon | 179671 | [179671-astras-moon.json](./179671-astras-moon.json) |
+| Astraaal | 133270 | [133270-astraaal.json](./133270-astraaal.json) |
 | Astraea | 302349 | [302349-astraea.json](./302349-astraea.json) |
 | Astraeus | 101636 | [101636-astraeus.json](./101636-astraeus.json) |
 | Astraeus Odyssey | 365307 | [365307-astraeus-odyssey.json](./365307-astraeus-odyssey.json) |
