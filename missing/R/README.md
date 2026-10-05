@@ -2678,6 +2678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remedium: Sentinels | 233658 | [233658-remedium-sentinels.json](./233658-remedium-sentinels.json) |
 | Remedy | 150516 | [150516-remedy.json](./150516-remedy.json) |
 | Remedy | 202325 | [202325-remedy.json](./202325-remedy.json) |
+| Remember | 128320 | [128320-remember.json](./128320-remember.json) |
 | Remember Places? | 177346 | [177346-remember-places.json](./177346-remember-places.json) |
 | Remember Saint Patrick | 335079 | [335079-remember-saint-patrick.json](./335079-remember-saint-patrick.json) |
 | Remember the Flowers | 181297 | [181297-remember-the-flowers.json](./181297-remember-the-flowers.json) |
@@ -6282,6 +6283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royale Island Showdown | 167590 | [167590-royale-island-showdown.json](./167590-royale-island-showdown.json) |
 | Royale King | 270928 | [270928-royale-king.json](./270928-royale-king.json) |
 | Royalevia | 254764 | [254764-royalevia.json](./254764-royalevia.json) |
+| Royals | 128422 | [128422-royals.json](./128422-royals.json) |
 | Royalty Free-For-All | 321417 | [321417-royalty-free-for-all.json](./321417-royalty-free-for-all.json) |
 | Royelles - Gaming For Girls | 255629 | [255629-royelles-gaming-for-girls.json](./255629-royelles-gaming-for-girls.json) |
 | Rozalin and the Palace of Flowers | 150669 | [150669-rozalin-and-the-palace-of-flowers.json](./150669-rozalin-and-the-palace-of-flowers.json) |
