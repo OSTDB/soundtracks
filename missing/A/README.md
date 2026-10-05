@@ -2567,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Tycoon 2: Gold Edition | 52569 | [52569-airline-tycoon-2-gold-edition.json](./52569-airline-tycoon-2-gold-edition.json) |
 | Airline Tycoon 2: Honey Airlines | 9959 | [9959-airline-tycoon-2-honey-airlines.json](./9959-airline-tycoon-2-honey-airlines.json) |
 | Airline Tycoon Deluxe | 11086 | [11086-airline-tycoon-deluxe.json](./11086-airline-tycoon-deluxe.json) |
+| Airlines Deluxe | 159217 | [159217-airlines-deluxe.json](./159217-airlines-deluxe.json) |
 | Airlines Manager | 116437 | [116437-airlines-manager.json](./116437-airlines-manager.json) |
 | Airlock Arena: Profit or Perish | 149453 | [149453-airlock-arena-profit-or-perish.json](./149453-airlock-arena-profit-or-perish.json) |
 | AirMech | 1365 | [1365-airmech.json](./1365-airmech.json) |
@@ -3982,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amarillo's Butt Slapper | 319679 | [319679-amarillos-butt-slapper.json](./319679-amarillos-butt-slapper.json) |
 | Amateur League Golf | 202188 | [202188-amateur-league-golf.json](./202188-amateur-league-golf.json) |
 | Amateur Surgeon 2 | 182501 | [182501-amateur-surgeon-2.json](./182501-amateur-surgeon-2.json) |
+| Amateur Surgeon 3: Tag Team Trauma | 159224 | [159224-amateur-surgeon-3-tag-team-trauma.json](./159224-amateur-surgeon-3-tag-team-trauma.json) |
 | Amateur Surgeon 4: Re-Generations | 57116 | [57116-amateur-surgeon-4-re-generations.json](./57116-amateur-surgeon-4-re-generations.json) |
 | Amateur Surgeon Hospital | 304207 | [304207-amateur-surgeon-hospital.json](./304207-amateur-surgeon-hospital.json) |
 | Amato | 391273 | [391273-amato.json](./391273-amato.json) |
@@ -6081,6 +6083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arbe10: Base 10 | 101096 | [101096-arbe10-base-10.json](./101096-arbe10-base-10.json) |
 | Arbeit Man in another world | 151610 | [151610-arbeit-man-in-another-world.json](./151610-arbeit-man-in-another-world.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
+| Arbor | 159038 | [159038-arbor.json](./159038-arbor.json) |
 | Arborea: Magnicidio en la Corte | 316835 | [316835-arborea-magnicidio-en-la-corte.json](./316835-arborea-magnicidio-en-la-corte.json) |
 | Arboreal | 190052 | [190052-arboreal.json](./190052-arboreal.json) |
 | Arboretum | 122919 | [122919-arboretum.json](./122919-arboretum.json) |
@@ -7870,6 +7873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Obelix: Cesar's Challenge | 262663 | [262663-asterix-and-obelix-cesars-challenge.json](./262663-asterix-and-obelix-cesars-challenge.json) |
 | Asterix & Obelix: Heroes | 267001 | [267001-asterix-and-obelix-heroes.json](./267001-asterix-and-obelix-heroes.json) |
 | Asterix & Obelix: Kick Buttix | 3789 | [3789-asterix-and-obelix-kick-buttix.json](./3789-asterix-and-obelix-kick-buttix.json) |
+| Asterix & Obelix: Slap Them All! - Collector's Edition | 159208 | [159208-asterix-and-obelix-slap-them-all-collectors-edition.json](./159208-asterix-and-obelix-slap-them-all-collectors-edition.json) |
 | Astérix and the Great Rescue | 8501 | [8501-asterix-and-the-great-rescue.json](./8501-asterix-and-the-great-rescue.json) |
 | Asterix and the Magic Carpet | 14272 | [14272-asterix-and-the-magic-carpet.json](./14272-asterix-and-the-magic-carpet.json) |
 | Astérix and the Secret Mission | 12888 | [12888-asterix-and-the-secret-mission.json](./12888-asterix-and-the-secret-mission.json) |
@@ -8035,6 +8039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astria | 292588 | [292588-astria.json](./292588-astria.json) |
 | Astria Ascending | 145107 | [145107-astria-ascending.json](./145107-astria-ascending.json) |
 | Astria Ascending: Collector's Edition | 173776 | [173776-astria-ascending-collectors-edition.json](./173776-astria-ascending-collectors-edition.json) |
+| Astria Ascending: Special Edition | 159027 | [159027-astria-ascending-special-edition.json](./159027-astria-ascending-special-edition.json) |
 | Astrid | 207304 | [207304-astrid.json](./207304-astrid.json) |
 | Astrid & the Witch | 177941 | [177941-astrid-and-the-witch.json](./177941-astrid-and-the-witch.json) |
 | Astrid: Reverie | 223493 | [223493-astrid-reverie.json](./223493-astrid-reverie.json) |
