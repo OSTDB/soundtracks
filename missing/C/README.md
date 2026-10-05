@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy | 104011 | [104011-candy.json](./104011-candy.json) |
 | Candy Adventure HD | 232046 | [232046-candy-adventure-hd.json](./232046-candy-adventure-hd.json) |
 | Candy Arkanoid | 232919 | [232919-candy-arkanoid.json](./232919-candy-arkanoid.json) |
+| Candy Bandit | 154579 | [154579-candy-bandit.json](./154579-candy-bandit.json) |
 | Candy Bandit | 19697 | [19697-candy-bandit.json](./19697-candy-bandit.json) |
 | Candy Blitz Deluxe | 59469 | [59469-candy-blitz-deluxe.json](./59469-candy-blitz-deluxe.json) |
 | Candy Box | 3269 | [3269-candy-box.json](./3269-candy-box.json) |
@@ -1259,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardmare: Descent | 398444 | [398444-cardmare-descent.json](./398444-cardmare-descent.json) |
 | Cardnarok: Raid with Gods | 132232 | [132232-cardnarok-raid-with-gods.json](./132232-cardnarok-raid-with-gods.json) |
 | Cardoom | 386985 | [386985-cardoom.json](./386985-cardoom.json) |
+| Cardpocalypse: Out of Time | 154597 | [154597-cardpocalypse-out-of-time.json](./154597-cardpocalypse-out-of-time.json) |
 | Cardpocalypse: Time Warp Edition | 154554 | [154554-cardpocalypse-time-warp-edition.json](./154554-cardpocalypse-time-warp-edition.json) |
 | Cards | 12918 | [12918-cards.json](./12918-cards.json) |
 | Cards & Crystals | 156007 | [156007-cards-and-crystals.json](./156007-cards-and-crystals.json) |
@@ -6785,6 +6787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 3: Hammer & Shield | 277019 | [277019-company-of-heroes-3-hammer-and-shield.json](./277019-company-of-heroes-3-hammer-and-shield.json) |
 | Company of Heroes 3: Hammer & Shield Battlegroup Pack | 400401 | [400401-company-of-heroes-3-hammer-and-shield-battlegroup-pack.json](./400401-company-of-heroes-3-hammer-and-shield-battlegroup-pack.json) |
 | Company of Heroes Online | 77294 | [77294-company-of-heroes-online.json](./77294-company-of-heroes-online.json) |
+| Company of Heroes: Back to Basics | 154580 | [154580-company-of-heroes-back-to-basics.json](./154580-company-of-heroes-back-to-basics.json) |
 | Company of Heroes: Battle of Crete | 127909 | [127909-company-of-heroes-battle-of-crete.json](./127909-company-of-heroes-battle-of-crete.json) |
 | Company of Heroes: Blitzkrieg Mod | 127910 | [127910-company-of-heroes-blitzkrieg-mod.json](./127910-company-of-heroes-blitzkrieg-mod.json) |
 | Company of Heroes: Collector's Edition | 47410 | [47410-company-of-heroes-collectors-edition.json](./47410-company-of-heroes-collectors-edition.json) |
@@ -10606,6 +10609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
 | Cyber Factories | 156006 | [156006-cyber-factories.json](./156006-cyber-factories.json) |
 | Cyber Flyer | 180580 | [180580-cyber-flyer.json](./180580-cyber-flyer.json) |
+| Cyber Girl 1.0: Booting | 154585 | [154585-cyber-girl-1-0-booting.json](./154585-cyber-girl-1-0-booting.json) |
 | Cyber Girls | 376754 | [376754-cyber-girls.json](./376754-cyber-girls.json) |
 | Cyber Hamster Tilt | 186049 | [186049-cyber-hamster-tilt.json](./186049-cyber-hamster-tilt.json) |
 | Cyber Heart | 247977 | [247977-cyber-heart.json](./247977-cyber-heart.json) |
