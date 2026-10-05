@@ -5771,6 +5771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator X: Steam Edition - Natural Tree Environment X | 161888 | [161888-microsoft-flight-simulator-x-steam-edition-natural-tree-environment-x.json](./161888-microsoft-flight-simulator-x-steam-edition-natural-tree-environment-x.json) |
 | Microsoft Flight Simulator X: Steam Edition - Night Environment Italy | 157988 | [157988-microsoft-flight-simulator-x-steam-edition-night-environment-italy.json](./157988-microsoft-flight-simulator-x-steam-edition-night-environment-italy.json) |
 | Microsoft Flight Simulator X: Steam Edition - Night Environment: Connecticut | 157993 | [157993-microsoft-flight-simulator-x-steam-edition-night-environment-connecticut.json](./157993-microsoft-flight-simulator-x-steam-edition-night-environment-connecticut.json) |
+| Microsoft Flight Simulator X: Steam Edition - Night Environment: Rhode Island | 157578 | [157578-microsoft-flight-simulator-x-steam-edition-night-environment-rhode-island.json](./157578-microsoft-flight-simulator-x-steam-edition-night-environment-rhode-island.json) |
 | Microsoft Flight Simulator X: Steam Edition - Night Environment: Spain | 157999 | [157999-microsoft-flight-simulator-x-steam-edition-night-environment-spain.json](./157999-microsoft-flight-simulator-x-steam-edition-night-environment-spain.json) |
 | Microsoft Flight Simulator X: Steam Edition - Night Environment: Sweden | 158020 | [158020-microsoft-flight-simulator-x-steam-edition-night-environment-sweden.json](./158020-microsoft-flight-simulator-x-steam-edition-night-environment-sweden.json) |
 | Microsoft Flight Simulator X: Steam Edition - North American F-86F-1 Sabre | 158021 | [158021-microsoft-flight-simulator-x-steam-edition-north-american-f-86f-1-sabre.json](./158021-microsoft-flight-simulator-x-steam-edition-north-american-f-86f-1-sabre.json) |
@@ -6947,6 +6948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniSquadron | 52583 | [52583-minisquadron.json](./52583-minisquadron.json) |
 | MiniState | 129683 | [129683-ministate.json](./129683-ministate.json) |
 | Ministry of Order | 334893 | [334893-ministry-of-order.json](./334893-ministry-of-order.json) |
+| Ministry of Pandemic | 157469 | [157469-ministry-of-pandemic.json](./157469-ministry-of-pandemic.json) |
 | Ministry of Sound: Club Manager | 57933 | [57933-ministry-of-sound-club-manager.json](./57933-ministry-of-sound-club-manager.json) |
 | Ministry of Truth: False Memory | 346204 | [346204-ministry-of-truth-false-memory.json](./346204-ministry-of-truth-false-memory.json) |
 | Minitechno | 278529 | [278529-minitechno.json](./278529-minitechno.json) |
