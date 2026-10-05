@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle Eye Mysteries in London | 73270 | [73270-eagle-eye-mysteries-in-london.json](./73270-eagle-eye-mysteries-in-london.json) |
 | Eagle Eye: Find the Difference | 251740 | [251740-eagle-eye-find-the-difference.json](./251740-eagle-eye-find-the-difference.json) |
 | Eagle Island | 28774 | [28774-eagle-island.json](./28774-eagle-island.json) |
+| Eagle Island Twist | 150781 | [150781-eagle-island-twist.json](./150781-eagle-island-twist.json) |
 | Eagle Knight Paradox | 217549 | [217549-eagle-knight-paradox.json](./217549-eagle-knight-paradox.json) |
 | Eagle Legacy: Zero | 373186 | [373186-eagle-legacy-zero.json](./373186-eagle-legacy-zero.json) |
 | Eagle Rising | 356154 | [356154-eagle-rising.json](./356154-eagle-rising.json) |
@@ -3756,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolits | 145453 | [145453-evolits.json](./145453-evolits.json) |
 | Evolized | 353371 | [353371-evolized.json](./353371-evolized.json) |
 | Evolo.The Sun | 335447 | [335447-evolo-the-sun.json](./335447-evolo-the-sun.json) |
+| Evolution | 150743 | [150743-evolution.json](./150743-evolution.json) |
 | Evolution | 178006 | [178006-evolution.json](./178006-evolution.json) |
 | Evolution | 34674 | [34674-evolution.json](./34674-evolution.json) |
 | Evolution | 370144 | [370144-evolution.json](./370144-evolution.json) |
