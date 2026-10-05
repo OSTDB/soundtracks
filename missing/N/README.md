@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerts!: Online | 142226 | [142226-nerts-online.json](./142226-nerts-online.json) |
 | Nertz Solitaire | 405645 | [405645-nertz-solitaire.json](./405645-nertz-solitaire.json) |
 | Nerus | 141125 | [141125-nerus.json](./141125-nerus.json) |
+| Nerve - Do You Dare? | 122914 | [122914-nerve-do-you-dare.json](./122914-nerve-do-you-dare.json) |
 | Nerve Me | 125833 | [125833-nerve-me.json](./125833-nerve-me.json) |
 | Nervous Brickdown | 9507 | [9507-nervous-brickdown.json](./9507-nervous-brickdown.json) |
 | Nervous Pinguin | 96034 | [96034-nervous-pinguin.json](./96034-nervous-pinguin.json) |
@@ -1577,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetMaze: A Funnyman Game | 242782 | [242782-netmaze-a-funnyman-game.json](./242782-netmaze-a-funnyman-game.json) |
 | Netoo | 391063 | [391063-netoo.json](./391063-netoo.json) |
 | Netorare Osananajimi: Haruka to Chika | 82970 | [82970-netorare-osananajimi-haruka-to-chika.json](./82970-netorare-osananajimi-haruka-to-chika.json) |
+| NetPanzer | 122805 | [122805-netpanzer.json](./122805-netpanzer.json) |
 | Netrek | 79932 | [79932-netrek.json](./79932-netrek.json) |
 | Netronian Chaos | 198355 | [198355-netronian-chaos.json](./198355-netronian-chaos.json) |
 | NetSpace Saga Ep.1 | 174076 | [174076-netspace-saga-ep-1.json](./174076-netspace-saga-ep-1.json) |
