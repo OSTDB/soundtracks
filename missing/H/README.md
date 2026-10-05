@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Geography Fun | 129652 | [129652-happy-geography-fun.json](./129652-happy-geography-fun.json) |
 | Happy Girls | 338263 | [338263-happy-girls.json](./338263-happy-girls.json) |
 | Happy Grumps | 121000 | [121000-happy-grumps.json](./121000-happy-grumps.json) |
+| Happy Halloween | 158604 | [158604-happy-halloween.json](./158604-happy-halloween.json) |
 | Happy Hammerin' | 50708 | [50708-happy-hammerin.json](./50708-happy-hammerin.json) |
 | Happy Hangover | 272005 | [272005-happy-hangover.json](./272005-happy-hangover.json) |
 | Happy Happy Clover | 70635 | [70635-happy-happy-clover.json](./70635-happy-happy-clover.json) |
@@ -2063,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter Shooter: Hot Ace Heli War Borne | 403741 | [403741-helicopter-shooter-hot-ace-heli-war-borne.json](./403741-helicopter-shooter-hot-ace-heli-war-borne.json) |
 | Helicopter Sim - Hellfire Squadron | 88439 | [88439-helicopter-sim-hellfire-squadron.json](./88439-helicopter-sim-hellfire-squadron.json) |
 | Helicopter Sim Pro Hellfire | 101537 | [101537-helicopter-sim-pro-hellfire.json](./101537-helicopter-sim-pro-hellfire.json) |
+| Helicopter Simulator | 158621 | [158621-helicopter-simulator.json](./158621-helicopter-simulator.json) |
 | Helicopter Simulator 2017 Premium | 87538 | [87538-helicopter-simulator-2017-premium.json](./87538-helicopter-simulator-2017-premium.json) |
 | Helicopter Simulator: Rescue Sim | 288302 | [288302-helicopter-simulator-rescue-sim.json](./288302-helicopter-simulator-rescue-sim.json) |
 | Helicopter Simulator: Search and Rescue 2014 | 53186 | [53186-helicopter-simulator-search-and-rescue-2014.json](./53186-helicopter-simulator-search-and-rescue-2014.json) |
@@ -4830,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Construction Sim | 294965 | [294965-home-construction-sim.json](./294965-home-construction-sim.json) |
 | Home Darkness: Escape | 76710 | [76710-home-darkness-escape.json](./76710-home-darkness-escape.json) |
 | Home Deco Builder | 334096 | [334096-home-deco-builder.json](./334096-home-deco-builder.json) |
+| Home Defender | 158635 | [158635-home-defender.json](./158635-home-defender.json) |
 | Home Defender | 278538 | [278538-home-defender.json](./278538-home-defender.json) |
 | Home Design 3D | 34050 | [34050-home-design-3d.json](./34050-home-design-3d.json) |
 | Home Design Makeover! | 90416 | [90416-home-design-makeover.json](./90416-home-design-makeover.json) |
@@ -6826,6 +6829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypogean Descent | 266791 | [266791-hypogean-descent.json](./266791-hypogean-descent.json) |
 | Hyposphere | 33020 | [33020-hyposphere.json](./33020-hyposphere.json) |
 | Hyposphere 2 | 187918 | [187918-hyposphere-2.json](./187918-hyposphere-2.json) |
+| Hyposphere Z | 158632 | [158632-hyposphere-z.json](./158632-hyposphere-z.json) |
 | Hypotheses on the Symmetry between Vision and Hands | 294157 | [294157-hypotheses-on-the-symmetry-between-vision-and-hands.json](./294157-hypotheses-on-the-symmetry-between-vision-and-hands.json) |
 | Hypotheticards: a nature collection mystery!! | 182848 | [182848-hypotheticards-a-nature-collection-mystery.json](./182848-hypotheticards-a-nature-collection-mystery.json) |
 | Hypothetimania | 278405 | [278405-hypothetimania.json](./278405-hypothetimania.json) |
