@@ -3019,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nirvana Pilot Yume | 75518 | [75518-nirvana-pilot-yume.json](./75518-nirvana-pilot-yume.json) |
 | Nirvana Pilot Yume: Deluxe Edition | 208045 | [208045-nirvana-pilot-yume-deluxe-edition.json](./208045-nirvana-pilot-yume-deluxe-edition.json) |
 | Nirvana Revenge | 66044 | [66044-nirvana-revenge.json](./66044-nirvana-revenge.json) |
+| Nirvana X-ROM | 142144 | [142144-nirvana-x-rom.json](./142144-nirvana-x-rom.json) |
 | Nirvana: Game of Life | 191261 | [191261-nirvana-game-of-life.json](./191261-nirvana-game-of-life.json) |
 | Nirvana: Origin of Fate | 360628 | [360628-nirvana-origin-of-fate.json](./360628-nirvana-origin-of-fate.json) |
 | Nisekoi Majikore!? | 60795 | [60795-nisekoi-majikore.json](./60795-nisekoi-majikore.json) |
