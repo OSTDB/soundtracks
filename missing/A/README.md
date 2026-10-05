@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Phone Found in Tall Grass | 245025 | [245025-a-phone-found-in-tall-grass.json](./245025-a-phone-found-in-tall-grass.json) |
 | A Piano Tale | 201677 | [201677-a-piano-tale.json](./201677-a-piano-tale.json) |
 | A Piece of Wish upon the Stars | 106410 | [106410-a-piece-of-wish-upon-the-stars.json](./106410-a-piece-of-wish-upon-the-stars.json) |
+| A Pirate Quartermaster | 120698 | [120698-a-pirate-quartermaster.json](./120698-a-pirate-quartermaster.json) |
 | A Pirate's End | 176276 | [176276-a-pirates-end.json](./176276-a-pirates-end.json) |
 | A Pixel Story | 27210 | [27210-a-pixel-story.json](./27210-a-pixel-story.json) |
 | A Place Far Away | 367479 | [367479-a-place-far-away.json](./367479-a-place-far-away.json) |
@@ -5954,6 +5955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apokalypsis | 30817 | [30817-apokalypsis.json](./30817-apokalypsis.json) |
 | Apollo 11 VR | 33145 | [33145-apollo-11-vr.json](./33145-apollo-11-vr.json) |
 | Apollo 11 VR HD | 111144 | [111144-apollo-11-vr-hd.json](./111144-apollo-11-vr-hd.json) |
+| Apollo 11 VR HD: First Steps | 120713 | [120713-apollo-11-vr-hd-first-steps.json](./120713-apollo-11-vr-hd-first-steps.json) |
 | Apollo 13 | 199021 | [199021-apollo-13.json](./199021-apollo-13.json) |
 | Apollo 13 | 257578 | [257578-apollo-13.json](./257578-apollo-13.json) |
 | Apollo 13: The Lost Tapes VR | 297538 | [297538-apollo-13-the-lost-tapes-vr.json](./297538-apollo-13-the-lost-tapes-vr.json) |
@@ -6580,6 +6582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadia VI | 267928 | [267928-arcadia-vi.json](./267928-arcadia-vi.json) |
 | Arcadia: Arcade Watch Games | 254603 | [254603-arcadia-arcade-watch-games.json](./254603-arcadia-arcade-watch-games.json) |
 | Arcadia: Cloudbound | 348454 | [348454-arcadia-cloudbound.json](./348454-arcadia-cloudbound.json) |
+| Arcadia: The Crystal Wars | 120703 | [120703-arcadia-the-crystal-wars.json](./120703-arcadia-the-crystal-wars.json) |
 | Arcadian Atlas | 18868 | [18868-arcadian-atlas.json](./18868-arcadian-atlas.json) |
 | Arcadian Rift | 162245 | [162245-arcadian-rift.json](./162245-arcadian-rift.json) |
 | Arcadium | 137562 | [137562-arcadium.json](./137562-arcadium.json) |
@@ -7447,6 +7450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Mahjongg | 91524 | [91524-art-mahjongg.json](./91524-art-mahjongg.json) |
 | Art Master 2 | 227374 | [227374-art-master-2.json](./227374-art-master-2.json) |
 | Art na Esagashi Adventure | 251529 | [251529-art-na-esagashi-adventure.json](./251529-art-na-esagashi-adventure.json) |
+| Art of Air War | 120755 | [120755-art-of-air-war.json](./120755-art-of-air-war.json) |
 | Art of Balance Touch! | 47654 | [47654-art-of-balance-touch.json](./47654-art-of-balance-touch.json) |
 | Art of Battle | 411747 | [411747-art-of-battle.json](./411747-art-of-battle.json) |
 | Art of Beauties | 385791 | [385791-art-of-beauties.json](./385791-art-of-beauties.json) |
@@ -9342,6 +9346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awareness Test: The Robot Bar | 179572 | [179572-awareness-test-the-robot-bar.json](./179572-awareness-test-the-robot-bar.json) |
 | Away from beauty | 115077 | [115077-away-from-beauty.json](./115077-away-from-beauty.json) |
 | Away From Earth: Titan | 117437 | [117437-away-from-earth-titan.json](./117437-away-from-earth-titan.json) |
+| Away From Earth: Titan 2 | 120750 | [120750-away-from-earth-titan-2.json](./120750-away-from-earth-titan-2.json) |
 | Away From Life | 207301 | [207301-away-from-life.json](./207301-away-from-life.json) |
 | Away from the light | 287732 | [287732-away-from-the-light.json](./287732-away-from-the-light.json) |
 | Away in the Woods | 225765 | [225765-away-in-the-woods.json](./225765-away-in-the-woods.json) |
