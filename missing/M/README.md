@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madcoaster | 22324 | [22324-madcoaster.json](./22324-madcoaster.json) |
 | MaDD Bomber | 91545 | [91545-madd-bomber.json](./91545-madd-bomber.json) |
 | Madden 95 | 198807 | [198807-madden-95.json](./198807-madden-95.json) |
+| Madden Football | 131420 | [131420-madden-football.json](./131420-madden-football.json) |
 | Madden genesis | 178024 | [178024-madden-genesis.json](./178024-madden-genesis.json) |
 | Madden NFL 06 | 5906 | [5906-madden-nfl-06.json](./5906-madden-nfl-06.json) |
 | Madden NFL 07 | 243011 | [243011-madden-nfl-07.json](./243011-madden-nfl-07.json) |
@@ -1030,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mah~Jomino Deluxe | 146197 | [146197-mah-jomino-deluxe.json](./146197-mah-jomino-deluxe.json) |
 | MahJah | 232542 | [232542-mahjah.json](./232542-mahjah.json) |
 | Mahjick: The Realm Taker | 265129 | [265129-mahjick-the-realm-taker.json](./265129-mahjick-the-realm-taker.json) |
+| Mahjong | 131431 | [131431-mahjong.json](./131431-mahjong.json) |
 | Mahjong | 306028 | [306028-mahjong.json](./306028-mahjong.json) |
 | Mahjong | 90692 | [90692-mahjong.json](./90692-mahjong.json) |
 | Mahjong 16 TW | 334339 | [334339-mahjong-16-tw.json](./334339-mahjong-16-tw.json) |
@@ -1669,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manic Troll | 246468 | [246468-manic-troll.json](./246468-manic-troll.json) |
 | Manic you and depressed me | 357816 | [357816-manic-you-and-depressed-me.json](./357816-manic-you-and-depressed-me.json) |
 | Manifest | 128581 | [128581-manifest.json](./128581-manifest.json) |
+| Manifest | 131337 | [131337-manifest.json](./131337-manifest.json) |
 | Manifest | 215923 | [215923-manifest.json](./215923-manifest.json) |
 | Manifest No | 352162 | [352162-manifest-no.json](./352162-manifest-no.json) |
 | Manifesto | 388347 | [388347-manifesto.json](./388347-manifesto.json) |
