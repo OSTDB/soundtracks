@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Blocks | 117165 | [117165-jelly-blocks.json](./117165-jelly-blocks.json) |
 | Jelly Boy | 365693 | [365693-jelly-boy.json](./365693-jelly-boy.json) |
 | Jelly Boy 2 | 38364 | [38364-jelly-boy-2.json](./38364-jelly-boy-2.json) |
+| Jelly Brawl | 132591 | [132591-jelly-brawl.json](./132591-jelly-brawl.json) |
 | Jelly Bubble | 359055 | [359055-jelly-bubble.json](./359055-jelly-bubble.json) |
 | Jelly Defense | 22206 | [22206-jelly-defense.json](./22206-jelly-defense.json) |
 | Jelly Escape | 286641 | [286641-jelly-escape.json](./286641-jelly-escape.json) |
