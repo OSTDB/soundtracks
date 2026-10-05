@@ -3611,6 +3611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Defense War | 380065 | [380065-chicken-defense-war.json](./380065-chicken-defense-war.json) |
 | Chicken Derby | 391882 | [391882-chicken-derby.json](./391882-chicken-derby.json) |
 | Chicken Done | 273374 | [273374-chicken-done.json](./273374-chicken-done.json) |
+| Chicken Duty | 170359 | [170359-chicken-duty.json](./170359-chicken-duty.json) |
 | Chicken Empire: Weasel in Shadows | 189027 | [189027-chicken-empire-weasel-in-shadows.json](./189027-chicken-empire-weasel-in-shadows.json) |
 | Chicken Evolution | 377251 | [377251-chicken-evolution.json](./377251-chicken-evolution.json) |
 | Chicken Fall | 202648 | [202648-chicken-fall.json](./202648-chicken-fall.json) |
@@ -6475,6 +6476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission Fortress Italy: Gustav Line | 266386 | [266386-combat-mission-fortress-italy-gustav-line.json](./266386-combat-mission-fortress-italy-gustav-line.json) |
 | Combat Mission Fortress Italy: Rome to Victory | 266384 | [266384-combat-mission-fortress-italy-rome-to-victory.json](./266384-combat-mission-fortress-italy-rome-to-victory.json) |
 | Combat Mission Shock Force 2 | 138217 | [138217-combat-mission-shock-force-2.json](./138217-combat-mission-shock-force-2.json) |
+| Combat Mission Shock Force 2: NATO Forces | 170371 | [170371-combat-mission-shock-force-2-nato-forces.json](./170371-combat-mission-shock-force-2-nato-forces.json) |
 | Combat Mission Shock Force: Marines | 21263 | [21263-combat-mission-shock-force-marines.json](./21263-combat-mission-shock-force-marines.json) |
 | Combat Mission: Battle for Normandy - Battle Pack 1 | 242618 | [242618-combat-mission-battle-for-normandy-battle-pack-1.json](./242618-combat-mission-battle-for-normandy-battle-pack-1.json) |
 | Combat Mission: Battle for Normandy - Commonwealth Forces | 242616 | [242616-combat-mission-battle-for-normandy-commonwealth-forces.json](./242616-combat-mission-battle-for-normandy-commonwealth-forces.json) |
