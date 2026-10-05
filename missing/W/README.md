@@ -4364,6 +4364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Art: Learn with Jigsaw Puzzles - Pixel Art by Numbers | 254652 | [254652-world-of-art-learn-with-jigsaw-puzzles-pixel-art-by-numbers.json](./254652-world-of-art-learn-with-jigsaw-puzzles-pixel-art-by-numbers.json) |
 | World of Blade: Zombie Slasher | 245324 | [245324-world-of-blade-zombie-slasher.json](./245324-world-of-blade-zombie-slasher.json) |
 | World of Blocks | 273388 | [273388-world-of-blocks.json](./273388-world-of-blocks.json) |
+| World of bombs | 163802 | [163802-world-of-bombs.json](./163802-world-of-bombs.json) |
 | World of Buh | 216821 | [216821-world-of-buh.json](./216821-world-of-buh.json) |
 | World of Busking | 197130 | [197130-world-of-busking.json](./197130-world-of-busking.json) |
 | World of Claudecraft | 408050 | [408050-world-of-claudecraft.json](./408050-world-of-claudecraft.json) |
