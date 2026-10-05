@@ -2206,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aggression | 174670 | [174670-aggression.json](./174670-aggression.json) |
 | Aggressive Alpine Skiing | 216767 | [216767-aggressive-alpine-skiing.json](./216767-aggressive-alpine-skiing.json) |
 | Aggressive Inline | 3783 | [3783-aggressive-inline.json](./3783-aggressive-inline.json) |
+| Aggressive Robot Vacuum | 155687 | [155687-aggressive-robot-vacuum.json](./155687-aggressive-robot-vacuum.json) |
 | Aggressor | 13241 | [13241-aggressor.json](./13241-aggressor.json) |
 | Aggressors of Dark Kombat | 39336 | [39336-aggressors-of-dark-kombat.json](./39336-aggressors-of-dark-kombat.json) |
 | Aggretsuko Office Rush | 311666 | [311666-aggretsuko-office-rush.json](./311666-aggretsuko-office-rush.json) |
