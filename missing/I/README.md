@@ -2520,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspiring Dreams | 295500 | [295500-inspiring-dreams.json](./295500-inspiring-dreams.json) |
 | Inspirit Online | 59870 | [59870-inspirit-online.json](./59870-inspirit-online.json) |
 | Instability | 156522 | [156522-instability.json](./156522-instability.json) |
+| Instacalm VR | 150747 | [150747-instacalm-vr.json](./150747-instacalm-vr.json) |
 | InstaDoom WAD Of The Year Edition | 217803 | [217803-instadoom-wad-of-the-year-edition.json](./217803-instadoom-wad-of-the-year-edition.json) |
 | Install Fee Tycoon | 269006 | [269006-install-fee-tycoon.json](./269006-install-fee-tycoon.json) |
 | Install Wizard | 147353 | [147353-install-wizard.json](./147353-install-wizard.json) |
