@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm on a Watcher Duty: Anniversary Special | 259725 | [259725-im-on-a-watcher-duty-anniversary-special.json](./259725-im-on-a-watcher-duty-anniversary-special.json) |
 | I'm on Cirno Duty | 206931 | [206931-im-on-cirno-duty.json](./206931-im-on-cirno-duty.json) |
 | I'm on Merrymaking Watch | 237948 | [237948-im-on-merrymaking-watch.json](./237948-im-on-merrymaking-watch.json) |
+| I'm on Observation Duty 2 | 132583 | [132583-im-on-observation-duty-2.json](./132583-im-on-observation-duty-2.json) |
 | I'm on Observation Duty 3 | 141126 | [141126-im-on-observation-duty-3.json](./141126-im-on-observation-duty-3.json) |
 | I'm on Observation Duty 4 | 184481 | [184481-im-on-observation-duty-4.json](./184481-im-on-observation-duty-4.json) |
 | I'm on Observation Duty 6 | 254443 | [254443-im-on-observation-duty-6.json](./254443-im-on-observation-duty-6.json) |
@@ -2118,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Word Search Puzzles | 87658 | [87658-infinite-word-search-puzzles.json](./87658-infinite-word-search-puzzles.json) |
 | Infinite World | 102936 | [102936-infinite-world.json](./102936-infinite-world.json) |
 | Infinite Zombie: VIP | 95863 | [95863-infinite-zombie-vip.json](./95863-infinite-zombie-vip.json) |
+| InfiniteCorp | 132688 | [132688-infinitecorp.json](./132688-infinitecorp.json) |
 | Infinitely Up | 335340 | [335340-infinitely-up.json](./335340-infinitely-up.json) |
 | Infinitely Up 2 | 335339 | [335339-infinitely-up-2.json](./335339-infinitely-up-2.json) |
 | Infinitely Up 3 | 335338 | [335338-infinitely-up-3.json](./335338-infinitely-up-3.json) |
