@@ -4479,6 +4479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Island | 288366 | [288366-lost-island.json](./288366-lost-island.json) |
 | Lost Island | 350508 | [350508-lost-island.json](./350508-lost-island.json) |
 | Lost Island: Eternal Storm | 295916 | [295916-lost-island-eternal-storm.json](./295916-lost-island-eternal-storm.json) |
+| Lost Island:Battle Royale | 126960 | [126960-lost-island-battle-royale.json](./126960-lost-island-battle-royale.json) |
 | Lost Islands: Legend Pack | 326265 | [326265-lost-islands-legend-pack.json](./326265-lost-islands-legend-pack.json) |
 | Lost Islands: Pioneer Pack | 326266 | [326266-lost-islands-pioneer-pack.json](./326266-lost-islands-pioneer-pack.json) |
 | Lost Isle | 269320 | [269320-lost-isle.json](./269320-lost-isle.json) |
