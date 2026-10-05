@@ -930,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abra-cooking-dabra | 345039 | [345039-abra-cooking-dabra.json](./345039-abra-cooking-dabra.json) |
 | Abraca | 267482 | [267482-abraca.json](./267482-abraca.json) |
 | Abracablabla | 400403 | [400403-abracablabla.json](./400403-abracablabla.json) |
+| Abracadabra | 145900 | [145900-abracadabra.json](./145900-abracadabra.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
 | Abracademia | 383053 | [383053-abracademia.json](./383053-abracademia.json) |
 | Abraham Link Coln on Dessert Island | 398541 | [398541-abraham-link-coln-on-dessert-island.json](./398541-abraham-link-coln-on-dessert-island.json) |
@@ -1951,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After School | 182819 | [182819-after-school.json](./182819-after-school.json) |
 | After School | 252719 | [252719-after-school.json](./252719-after-school.json) |
 | After School | 253348 | [253348-after-school.json](./253348-after-school.json) |
+| After School Afterlife | 145913 | [145913-after-school-afterlife.json](./145913-after-school-afterlife.json) |
 | After School Cure | 379497 | [379497-after-school-cure.json](./379497-after-school-cure.json) |
 | After School Girlfriend | 206197 | [206197-after-school-girlfriend.json](./206197-after-school-girlfriend.json) |
 | After School Girlfriend: Performing Arts Club | 210608 | [210608-after-school-girlfriend-performing-arts-club.json](./210608-after-school-girlfriend-performing-arts-club.json) |
@@ -8785,6 +8787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audubon Whales: Wildlife Adventure | 240150 | [240150-audubon-whales-wildlife-adventure.json](./240150-audubon-whales-wildlife-adventure.json) |
 | Auf Wiedersehen Monty | 13350 | [13350-auf-wiedersehen-monty.json](./13350-auf-wiedersehen-monty.json) |
 | Aufschwung Ost | 12395 | [12395-aufschwung-ost.json](./12395-aufschwung-ost.json) |
+| AUGG | 145902 | [145902-augg.json](./145902-augg.json) |
 | Augie Doggie and Doggie Daddy | 67274 | [67274-augie-doggie-and-doggie-daddy.json](./67274-augie-doggie-and-doggie-daddy.json) |
 | Augment Anthem | 365733 | [365733-augment-anthem.json](./365733-augment-anthem.json) |
 | Augmental Puzzles | 398544 | [398544-augmental-puzzles.json](./398544-augmental-puzzles.json) |
