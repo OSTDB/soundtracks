@@ -1683,6 +1683,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate of the Elder Gods | 125454 | [125454-fate-of-the-elder-gods.json](./125454-fate-of-the-elder-gods.json) |
 | Fate of the Seventh Scholar | 366260 | [366260-fate-of-the-seventh-scholar.json](./366260-fate-of-the-seventh-scholar.json) |
 | Fate of the World | 15079 | [15079-fate-of-the-world.json](./15079-fate-of-the-world.json) |
+| Fate of the World: Denial | 159640 | [159640-fate-of-the-world-denial.json](./159640-fate-of-the-world-denial.json) |
+| Fate of the World: Migration | 159639 | [159639-fate-of-the-world-migration.json](./159639-fate-of-the-world-migration.json) |
 | Fate Seeker II | 182359 | [182359-fate-seeker-ii.json](./182359-fate-seeker-ii.json) |
 | Fate Seeker: Mission | 304162 | [304162-fate-seeker-mission.json](./304162-fate-seeker-mission.json) |
 | Fate U.C.P | 42868 | [42868-fate-u-c-p.json](./42868-fate-u-c-p.json) |
@@ -2214,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Screams | 375279 | [375279-field-of-screams.json](./375279-field-of-screams.json) |
 | Field of the Dead | 309370 | [309370-field-of-the-dead.json](./309370-field-of-the-dead.json) |
 | Field Pong: Gamesforfarm | 388968 | [388968-field-pong-gamesforfarm.json](./388968-field-pong-gamesforfarm.json) |
+| Field Survivor | 159761 | [159761-field-survivor.json](./159761-field-survivor.json) |
 | Fieldrunners | 9839 | [9839-fieldrunners.json](./9839-fieldrunners.json) |
 | Fieldrunners Attack! | 106966 | [106966-fieldrunners-attack.json](./106966-fieldrunners-attack.json) |
 | Fields - Soldier of Time | 77278 | [77278-fields-soldier-of-time.json](./77278-fields-soldier-of-time.json) |
@@ -4667,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folk Tales: Alageyik | 360768 | [360768-folk-tales-alageyik.json](./360768-folk-tales-alageyik.json) |
 | Folklore | 7307 | [7307-folklore.json](./7307-folklore.json) |
 | Folklore Hunter | 128474 | [128474-folklore-hunter.json](./128474-folklore-hunter.json) |
+| Folkloric Excursion | 159790 | [159790-folkloric-excursion.json](./159790-folkloric-excursion.json) |
 | Follow Dalian | 377070 | [377070-follow-dalian.json](./377070-follow-dalian.json) |
 | Follow Dream | 296591 | [296591-follow-dream.json](./296591-follow-dream.json) |
 | Follow My Voice | 179194 | [179194-follow-my-voice.json](./179194-follow-my-voice.json) |
