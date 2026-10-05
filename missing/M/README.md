@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaguMagu Pro | 165074 | [165074-magumagu-pro.json](./165074-magumagu-pro.json) |
 | Maguntsche: Chapter One Remastered | 168859 | [168859-maguntsche-chapter-one-remastered.json](./168859-maguntsche-chapter-one-remastered.json) |
 | Maguntsche: Chapter Two | 371971 | [371971-maguntsche-chapter-two.json](./371971-maguntsche-chapter-two.json) |
+| Magus | 170346 | [170346-magus.json](./170346-magus.json) |
 | Magus in Mystic Geometries. | 123591 | [123591-magus-in-mystic-geometries.json](./123591-magus-in-mystic-geometries.json) |
 | Magus Tower | 304721 | [304721-magus-tower.json](./304721-magus-tower.json) |
 | Magusian | 392390 | [392390-magusian.json](./392390-magusian.json) |
@@ -3187,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maveldor: Saga of the Twin Mirrors | 250941 | [250941-maveldor-saga-of-the-twin-mirrors.json](./250941-maveldor-saga-of-the-twin-mirrors.json) |
 | Maven | 92856 | [92856-maven.json](./92856-maven.json) |
 | Maverick Bird | 62172 | [62172-maverick-bird.json](./62172-maverick-bird.json) |
+| Maverick Gunn and the Eye of Oggun | 170347 | [170347-maverick-gunn-and-the-eye-of-oggun.json](./170347-maverick-gunn-and-the-eye-of-oggun.json) |
 | Maverta Island | 186844 | [186844-maverta-island.json](./186844-maverta-island.json) |
 | Mavis Beacon Teaches Typing Version 8 | 209541 | [209541-mavis-beacon-teaches-typing-version-8.json](./209541-mavis-beacon-teaches-typing-version-8.json) |
 | Maw | 353975 | [353975-maw.json](./353975-maw.json) |
@@ -4620,6 +4622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories | 174752 | [174752-memories.json](./174752-memories.json) |
 | Memories | 234107 | [234107-memories.json](./234107-memories.json) |
 | Memories | 269566 | [269566-memories.json](./269566-memories.json) |
+| Memories Fade | 170348 | [170348-memories-fade.json](./170348-memories-fade.json) |
 | Memories From Beyond a Coral Sea | 243382 | [243382-memories-from-beyond-a-coral-sea.json](./243382-memories-from-beyond-a-coral-sea.json) |
 | Memories in Late Summer | 109688 | [109688-memories-in-late-summer.json](./109688-memories-in-late-summer.json) |
 | Memories of a Broken Dimension | 137569 | [137569-memories-of-a-broken-dimension.json](./137569-memories-of-a-broken-dimension.json) |
@@ -6784,6 +6787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniCraft Adventure | 96777 | [96777-minicraft-adventure.json](./96777-minicraft-adventure.json) |
 | Minidinos | 369729 | [369729-minidinos.json](./369729-minidinos.json) |
 | MiniDrivers | 34867 | [34867-minidrivers.json](./34867-minidrivers.json) |
+| Minifeg: The Search | 170349 | [170349-minifeg-the-search.json](./170349-minifeg-the-search.json) |
 | Minifiend | 253034 | [253034-minifiend.json](./253034-minifiend.json) |
 | Minigame 3-hon Pack | 227750 | [227750-minigame-3-hon-pack.json](./227750-minigame-3-hon-pack.json) |
 | Minigame Game | 231333 | [231333-minigame-game.json](./231333-minigame-game.json) |
@@ -7975,6 +7979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Laundering Simulator | 358344 | [358344-money-laundering-simulator.json](./358344-money-laundering-simulator.json) |
 | Money Loves Silence | 126608 | [126608-money-loves-silence.json](./126608-money-loves-silence.json) |
 | Money Maker | 111872 | [111872-money-maker.json](./111872-money-maker.json) |
+| Money Mansion | 170350 | [170350-money-mansion.json](./170350-money-mansion.json) |
 | Money Money | 38582 | [38582-money-money.json](./38582-money-money.json) |
 | Money Mouse in Full Barn House | 281535 | [281535-money-mouse-in-full-barn-house.json](./281535-money-mouse-in-full-barn-house.json) |
 | Money Munchers | 59890 | [59890-money-munchers.json](./59890-money-munchers.json) |
@@ -9281,6 +9286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motionrec | 275847 | [275847-motionrec.json](./275847-motionrec.json) |
 | Motionrec | 290075 | [290075-motionrec.json](./290075-motionrec.json) |
 | MotionSports: Adrenaline | 20215 | [20215-motionsports-adrenaline.json](./20215-motionsports-adrenaline.json) |
+| Motivational Hero | 170272 | [170272-motivational-hero.json](./170272-motivational-hero.json) |
 | Motivo | 39759 | [39759-motivo.json](./39759-motivo.json) |
 | Moto Championship 26 | 385089 | [385089-moto-championship-26.json](./385089-moto-championship-26.json) |
 | Moto Extreme | 70342 | [70342-moto-extreme.json](./70342-moto-extreme.json) |
@@ -10635,6 +10641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Farm Life | 53391 | [53391-my-farm-life.json](./53391-my-farm-life.json) |
 | My Father My Son | 188684 | [188684-my-father-my-son.json](./188684-my-father-my-son.json) |
 | My Father's House | 265318 | [265318-my-fathers-house.json](./265318-my-fathers-house.json) |
+| My Father's Secret | 170351 | [170351-my-fathers-secret.json](./170351-my-fathers-secret.json) |
 | My Favorite Dream Girls | 401695 | [401695-my-favorite-dream-girls.json](./401695-my-favorite-dream-girls.json) |
 | My Favorite Match | 179510 | [179510-my-favorite-match.json](./179510-my-favorite-match.json) |
 | My Favorite Monster | 261305 | [261305-my-favorite-monster.json](./261305-my-favorite-monster.json) |
@@ -11280,6 +11287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Puzzles Collection: Nemezis, Schizm, Reah | 159686 | [159686-mysterious-puzzles-collection-nemezis-schizm-reah.json](./159686-mysterious-puzzles-collection-nemezis-schizm-reah.json) |
 | Mysterious Retro Games Bundle | 231076 | [231076-mysterious-retro-games-bundle.json](./231076-mysterious-retro-games-bundle.json) |
 | Mysterious School | 212812 | [212812-mysterious-school.json](./212812-mysterious-school.json) |
+| Mysterious Song | 170352 | [170352-mysterious-song.json](./170352-mysterious-song.json) |
 | Mysterious Stars 3D: A Fairy Tale | 85609 | [85609-mysterious-stars-3d-a-fairy-tale.json](./85609-mysterious-stars-3d-a-fairy-tale.json) |
 | Mysterious Unnamed Space Game | 184092 | [184092-mysterious-unnamed-space-game.json](./184092-mysterious-unnamed-space-game.json) |
 | Mysterious Voyage: Set sail | 303069 | [303069-mysterious-voyage-set-sail.json](./303069-mysterious-voyage-set-sail.json) |
