@@ -1902,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Combat Dungeon | 184621 | [184621-endless-combat-dungeon.json](./184621-endless-combat-dungeon.json) |
 | Endless Crusade | 99015 | [99015-endless-crusade.json](./99015-endless-crusade.json) |
 | Endless Dark | 236912 | [236912-endless-dark.json](./236912-endless-dark.json) |
+| Endless Defence 2 | 120728 | [120728-endless-defence-2.json](./120728-endless-defence-2.json) |
 | Endless Depths | 354510 | [354510-endless-depths.json](./354510-endless-depths.json) |
 | Endless Depths 2 RPG | 197784 | [197784-endless-depths-2-rpg.json](./197784-endless-depths-2-rpg.json) |
 | Endless Desert TD | 275340 | [275340-endless-desert-td.json](./275340-endless-desert-td.json) |
@@ -2630,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Academy: Escape From Anti-Escape Island | 222336 | [222336-escape-academy-escape-from-anti-escape-island.json](./222336-escape-academy-escape-from-anti-escape-island.json) |
 | Escape Academy: Escape From the Past | 252683 | [252683-escape-academy-escape-from-the-past.json](./252683-escape-academy-escape-from-the-past.json) |
 | Escape Academy: The Complete Edition | 246408 | [246408-escape-academy-the-complete-edition.json](./246408-escape-academy-the-complete-edition.json) |
+| Escape again | 120721 | [120721-escape-again.json](./120721-escape-again.json) |
 | Escape Architect VR | 121477 | [121477-escape-architect-vr.json](./121477-escape-architect-vr.json) |
 | Escape Artist | 386136 | [386136-escape-artist.json](./386136-escape-artist.json) |
 | Escape Basement | 261206 | [261206-escape-basement.json](./261206-escape-basement.json) |
@@ -3985,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Lab Beginner Level | 390494 | [390494-exit-lab-beginner-level.json](./390494-exit-lab-beginner-level.json) |
 | Exit Lab Expert Level | 390493 | [390493-exit-lab-expert-level.json](./390493-exit-lab-expert-level.json) |
 | Exit Lab Intermediate Level | 390492 | [390492-exit-lab-intermediate-level.json](./390492-exit-lab-intermediate-level.json) |
+| Exit Limbo: Opening | 120725 | [120725-exit-limbo-opening.json](./120725-exit-limbo-opening.json) |
 | Exit Mask | 183354 | [183354-exit-mask.json](./183354-exit-mask.json) |
 | Exit Path | 98228 | [98228-exit-path.json](./98228-exit-path.json) |
 | Exit Path 2 | 213282 | [213282-exit-path-2.json](./213282-exit-path-2.json) |
