@@ -6803,6 +6803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | mini PVP | 118088 | [118088-mini-pvp.json](./118088-mini-pvp.json) |
 | Mini Quests | 207852 | [207852-mini-quests.json](./207852-mini-quests.json) |
 | Mini Racer Car Shop Simulator | 326386 | [326386-mini-racer-car-shop-simulator.json](./326386-mini-racer-car-shop-simulator.json) |
+| Mini Racing World | 152461 | [152461-mini-racing-world.json](./152461-mini-racing-world.json) |
 | Mini Racing: Mini Cars Curling | 233755 | [233755-mini-racing-mini-cars-curling.json](./233755-mini-racing-mini-cars-curling.json) |
 | Mini Raid Leader | 398999 | [398999-mini-raid-leader.json](./398999-mini-raid-leader.json) |
 | Mini Ranger | 255127 | [255127-mini-ranger.json](./255127-mini-ranger.json) |
@@ -7119,6 +7120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miriel's Enchanted Mystery | 53386 | [53386-miriels-enchanted-mystery.json](./53386-miriels-enchanted-mystery.json) |
 | Mirk | 179584 | [179584-mirk.json](./179584-mirk.json) |
 | Mirko Polo | 298564 | [298564-mirko-polo.json](./298564-mirko-polo.json) |
+| Mirlo Above the Sun | 152460 | [152460-mirlo-above-the-sun.json](./152460-mirlo-above-the-sun.json) |
 | Miro | 291051 | [291051-miro.json](./291051-miro.json) |
 | Mirror Broken | 215600 | [215600-mirror-broken.json](./215600-mirror-broken.json) |
 | Mirror Drop | 99153 | [99153-mirror-drop.json](./99153-mirror-drop.json) |
@@ -7954,6 +7956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momentum | 183386 | [183386-momentum.json](./183386-momentum.json) |
 | Momentum | 199918 | [199918-momentum.json](./199918-momentum.json) |
 | Momibosu | 151726 | [151726-momibosu.json](./151726-momibosu.json) |
+| Momiji From Purgatory | 152490 | [152490-momiji-from-purgatory.json](./152490-momiji-from-purgatory.json) |
 | Mominesweeper | 224005 | [224005-mominesweeper.json](./224005-mominesweeper.json) |
 | Momma Can I Mow the Lawn? | 72602 | [72602-momma-can-i-mow-the-lawn.json](./72602-momma-can-i-mow-the-lawn.json) |
 | Mommy Don't Hurt Me Mommy Don't Hurt Me Mommy Don't Hurt Me | 398327 | [398327-mommy-dont-hurt-me-mommy-dont-hurt-me-mommy-dont-hurt-me.json](./398327-mommy-dont-hurt-me-mommy-dont-hurt-me-mommy-dont-hurt-me.json) |
@@ -8829,6 +8832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Cradle | 404334 | [404334-moonlight-cradle.json](./404334-moonlight-cradle.json) |
 | Moonlight Express: Fortnight | 193726 | [193726-moonlight-express-fortnight.json](./193726-moonlight-express-fortnight.json) |
 | Moonlight Frog Inn | 320346 | [320346-moonlight-frog-inn.json](./320346-moonlight-frog-inn.json) |
+| Moonlight In Garland | 152459 | [152459-moonlight-in-garland.json](./152459-moonlight-in-garland.json) |
 | Moonlight Knight | 252665 | [252665-moonlight-knight.json](./252665-moonlight-knight.json) |
 | Moonlight Lovers | 186764 | [186764-moonlight-lovers.json](./186764-moonlight-lovers.json) |
 | Moonlight Mayhem | 257993 | [257993-moonlight-mayhem.json](./257993-moonlight-mayhem.json) |
@@ -11460,6 +11464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Museum | 146858 | [146858-mystery-museum.json](./146858-mystery-museum.json) |
 | Mystery of Ancients: Dagger | 106989 | [106989-mystery-of-ancients-dagger.json](./106989-mystery-of-ancients-dagger.json) |
 | Mystery of Camp Enigma | 147447 | [147447-mystery-of-camp-enigma.json](./147447-mystery-of-camp-enigma.json) |
+| Mystery of Camp Enigma 2 | 152503 | [152503-mystery-of-camp-enigma-2.json](./152503-mystery-of-camp-enigma-2.json) |
 | Mystery of Fortune 2 Refine | 187850 | [187850-mystery-of-fortune-2-refine.json](./187850-mystery-of-fortune-2-refine.json) |
 | Mystery of Fortune 3 | 175263 | [175263-mystery-of-fortune-3.json](./175263-mystery-of-fortune-3.json) |
 | Mystery of Gevaudan | 332448 | [332448-mystery-of-gevaudan.json](./332448-mystery-of-gevaudan.json) |
