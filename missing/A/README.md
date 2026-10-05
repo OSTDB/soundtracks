@@ -2309,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aha Hit tile 3D | 101321 | [101321-aha-hit-tile-3d.json](./101321-aha-hit-tile-3d.json) |
 | Aha Link Color: Cross | 101967 | [101967-aha-link-color-cross.json](./101967-aha-link-color-cross.json) |
 | Ahegal Seasons | 203381 | [203381-ahegal-seasons.json](./203381-ahegal-seasons.json) |
+| Ahegao Academy | 123609 | [123609-ahegao-academy.json](./123609-ahegao-academy.json) |
 | AHH!!! MazeZing | 158046 | [158046-ahh-mazezing.json](./158046-ahh-mazezing.json) |
 | Ahhnalog 112 | 196106 | [196106-ahhnalog-112.json](./196106-ahhnalog-112.json) |
 | Ahlgrens Bilspelet | 74070 | [74070-ahlgrens-bilspelet.json](./74070-ahlgrens-bilspelet.json) |
@@ -4751,6 +4752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Android Amazones | 120987 | [120987-android-amazones.json](./120987-android-amazones.json) |
 | Android Assault: The Revenge of Bari-Arm | 5358 | [5358-android-assault-the-revenge-of-bari-arm.json](./5358-android-assault-the-revenge-of-bari-arm.json) |
 | Android Attack | 13691 | [13691-android-attack.json](./13691-android-attack.json) |
+| Android Helipad | 123465 | [123465-android-helipad.json](./123465-android-helipad.json) |
 | Android Runner | 100820 | [100820-android-runner.json](./100820-android-runner.json) |
 | Andromalius | 110880 | [110880-andromalius.json](./110880-andromalius.json) |
 | AndroMan on the Moon | 268573 | [268573-androman-on-the-moon.json](./268573-androman-on-the-moon.json) |
