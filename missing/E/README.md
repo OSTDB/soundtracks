@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Maker | 317361 | [317361-egg-maker.json](./317361-egg-maker.json) |
 | Egg Meister | 344483 | [344483-egg-meister.json](./344483-egg-meister.json) |
 | Egg Monster Hero | 67364 | [67364-egg-monster-hero.json](./67364-egg-monster-hero.json) |
+| Egg of Empire | 156210 | [156210-egg-of-empire.json](./156210-egg-of-empire.json) |
 | Egg Over It: Fall Flat From the Top | 201560 | [201560-egg-over-it-fall-flat-from-the-top.json](./201560-egg-over-it-fall-flat-from-the-top.json) |
 | Egg Run | 320731 | [320731-egg-run.json](./320731-egg-run.json) |
 | Egg Squeeze | 318509 | [318509-egg-squeeze.json](./318509-egg-squeeze.json) |
