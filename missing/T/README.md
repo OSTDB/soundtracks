@@ -10775,6 +10775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Was a Mixup at the Factory! | 227810 | [227810-there-was-a-mixup-at-the-factory.json](./227810-there-was-a-mixup-at-the-factory.json) |
 | There was something here | 183873 | [183873-there-was-something-here.json](./183873-there-was-something-here.json) |
 | There Was Something In That Room | 338273 | [338273-there-was-something-in-that-room.json](./338273-there-was-something-in-that-room.json) |
+| There Was the Moon | 135628 | [135628-there-was-the-moon.json](./135628-there-was-the-moon.json) |
 | There's a Bear Outside | 177358 | [177358-theres-a-bear-outside.json](./177358-theres-a-bear-outside.json) |
 | There's a Butcher Around | 118016 | [118016-theres-a-butcher-around.json](./118016-theres-a-butcher-around.json) |
 | There's a Rikishi in my House | 199613 | [199613-theres-a-rikishi-in-my-house.json](./199613-theres-a-rikishi-in-my-house.json) |
