@@ -1173,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiří Kára Simulátor | 384219 | [384219-jiri-kara-simulator.json](./384219-jiri-kara-simulator.json) |
 | Jisatsu | 278971 | [278971-jisatsu.json](./278971-jisatsu.json) |
 | Jishogi | 199614 | [199614-jishogi.json](./199614-jishogi.json) |
+| Jishou no Chihei Mendako | 150238 | [150238-jishou-no-chihei-mendako.json](./150238-jishou-no-chihei-mendako.json) |
 | Jissen Billiards | 92297 | [92297-jissen-billiards.json](./92297-jissen-billiards.json) |
 | Jissen Kyoutei | 42643 | [42643-jissen-kyoutei.json](./42643-jissen-kyoutei.json) |
 | Jissen Pachi-Slot Hisshouhou! DS: Aladdin II Evolution | 269825 | [269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json](./269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json) |
@@ -2024,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Differences | 397780 | [397780-jurassic-differences.json](./397780-jurassic-differences.json) |
 | Jurassic Dinosaur | 252148 | [252148-jurassic-dinosaur.json](./252148-jurassic-dinosaur.json) |
 | Jurassic Excite | 146779 | [146779-jurassic-excite.json](./146779-jurassic-excite.json) |
+| Jurassic Extinction | 150250 | [150250-jurassic-extinction.json](./150250-jurassic-extinction.json) |
 | Jurassic Fossil & Mine Exploration Bundle | 401122 | [401122-jurassic-fossil-and-mine-exploration-bundle.json](./401122-jurassic-fossil-and-mine-exploration-bundle.json) |
 | Jurassic Free Fall - Match 3 | 87102 | [87102-jurassic-free-fall-match-3.json](./87102-jurassic-free-fall-match-3.json) |
 | Jurassic Genesis: We Are Aliens | 411586 | [411586-jurassic-genesis-we-are-aliens.json](./411586-jurassic-genesis-we-are-aliens.json) |
