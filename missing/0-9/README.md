@@ -746,6 +746,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Sectors | 260785 | [260785-2-sectors.json](./260785-2-sectors.json) |
 | 2 Spicy | 66967 | [66967-2-spicy.json](./66967-2-spicy.json) |
 | 2 Synchro Hedgehogs | 167831 | [167831-2-synchro-hedgehogs.json](./167831-2-synchro-hedgehogs.json) |
+| 2 Tasty | 143382 | [143382-2-tasty.json](./143382-2-tasty.json) |
+| 2 Tasty Too: l'Amour à Paris | 143384 | [143384-2-tasty-too-lamour-a-paris.json](./143384-2-tasty-too-lamour-a-paris.json) |
 | 2 Volt | 246918 | [246918-2-volt.json](./246918-2-volt.json) |
 | 2-3-5-7 | 186187 | [186187-2-3-5-7.json](./186187-2-3-5-7.json) |
 | 2-bit Cowboy | 39234 | [39234-2-bit-cowboy.json](./39234-2-bit-cowboy.json) |
@@ -1594,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Years of Dreaming | 337786 | [337786-9-years-of-dreaming.json](./337786-9-years-of-dreaming.json) |
 | 9-Bit Armies: A Bit Too Far | 273041 | [273041-9-bit-armies-a-bit-too-far.json](./273041-9-bit-armies-a-bit-too-far.json) |
 | 9-nine-: Episode 1 | 114814 | [114814-9-nine-episode-1.json](./114814-9-nine-episode-1.json) |
+| 9-nine-: Episode 3 | 143365 | [143365-9-nine-episode-3.json](./143365-9-nine-episode-3.json) |
 | 9-nine-: Episode 4 | 144885 | [144885-9-nine-episode-4.json](./144885-9-nine-episode-4.json) |
 | 9: The Dark Side of Notre Dame - Collector's Edition | 416852 | [416852-9-the-dark-side-of-notre-dame-collectors-edition.json](./416852-9-the-dark-side-of-notre-dame-collectors-edition.json) |
 | 9:22 | 178657 | [178657-9-22.json](./178657-9-22.json) |
