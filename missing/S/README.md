@@ -1608,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schism | 260885 | [260885-schism.json](./260885-schism.json) |
 | Schism | 266227 | [266227-schism.json](./266227-schism.json) |
 | Schizo Dark | 368481 | [368481-schizo-dark.json](./368481-schizo-dark.json) |
+| Schizo Simulator | 133761 | [133761-schizo-simulator.json](./133761-schizo-simulator.json) |
 | Schizophrenia | 133203 | [133203-schizophrenia.json](./133203-schizophrenia.json) |
 | Schizophrenic Rooms | 230857 | [230857-schizophrenic-rooms.json](./230857-schizophrenic-rooms.json) |
 | Schlag den Raab: Das 2. Spiel | 81447 | [81447-schlag-den-raab-das-2-spiel.json](./81447-schlag-den-raab-das-2-spiel.json) |
@@ -1878,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Facility Manager | 219623 | [219623-scp-facility-manager.json](./219623-scp-facility-manager.json) |
 | SCP: Forgotten Facility | 151005 | [151005-scp-forgotten-facility.json](./151005-scp-forgotten-facility.json) |
 | SCP: Fragmented Minds | 137487 | [137487-scp-fragmented-minds.json](./137487-scp-fragmented-minds.json) |
+| SCP: Ground Zero | 133853 | [133853-scp-ground-zero.json](./133853-scp-ground-zero.json) |
 | SCP: Hellworks | 296461 | [296461-scp-hellworks.json](./296461-scp-hellworks.json) |
 | SCP: Hours to Go | 296462 | [296462-scp-hours-to-go.json](./296462-scp-hours-to-go.json) |
 | SCP: Josie | 260410 | [260410-scp-josie.json](./260410-scp-josie.json) |
@@ -8939,6 +8941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire, Spider & Freecell | 88427 | [88427-solitaire-spider-and-freecell.json](./88427-solitaire-spider-and-freecell.json) |
 | Solitaire: Beautiful Garden Season | 199579 | [199579-solitaire-beautiful-garden-season.json](./199579-solitaire-beautiful-garden-season.json) |
 | Solitaire: Classic Klondike Card Game | 88289 | [88289-solitaire-classic-klondike-card-game.json](./88289-solitaire-classic-klondike-card-game.json) |
+| Solitaire: Decked Out | 133855 | [133855-solitaire-decked-out.json](./133855-solitaire-decked-out.json) |
 | Solitaire: Jack Frost Winter Adventures | 99984 | [99984-solitaire-jack-frost-winter-adventures.json](./99984-solitaire-jack-frost-winter-adventures.json) |
 | Solitaire: Klondike Card Game | 88833 | [88833-solitaire-klondike-card-game.json](./88833-solitaire-klondike-card-game.json) |
 | Solitaire: Match 2 Cards - Valentine's Day | 286520 | [286520-solitaire-match-2-cards-valentines-day.json](./286520-solitaire-match-2-cards-valentines-day.json) |
@@ -12765,6 +12768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalker: Spatial Trap | 321516 | [321516-stalker-spatial-trap.json](./321516-stalker-spatial-trap.json) |
 | Stalker: The Way of Survival | 314373 | [314373-stalker-the-way-of-survival.json](./314373-stalker-the-way-of-survival.json) |
 | Stall | 372618 | [372618-stall.json](./372618-stall.json) |
+| Stallion Squad | 133779 | [133779-stallion-squad.json](./133779-stallion-squad.json) |
 | Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
 | Stamp Smash | 82184 | [82184-stamp-smash.json](./82184-stamp-smash.json) |
 | Stampede | 5704 | [5704-stampede.json](./5704-stampede.json) |
@@ -13381,6 +13385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starborn Survivor | 306711 | [306711-starborn-survivor.json](./306711-starborn-survivor.json) |
 | Starborne: Frontiers | 242221 | [242221-starborne-frontiers.json](./242221-starborne-frontiers.json) |
 | Starborne: Sovereign Space | 75220 | [75220-starborne-sovereign-space.json](./75220-starborne-sovereign-space.json) |
+| Starbot | 133848 | [133848-starbot.json](./133848-starbot.json) |
 | Starbound | 3019 | [3019-starbound.json](./3019-starbound.json) |
 | Starboy Adventures | 153532 | [153532-starboy-adventures.json](./153532-starboy-adventures.json) |
 | StarBreak | 19174 | [19174-starbreak.json](./19174-starbreak.json) |
@@ -14591,6 +14596,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stíny noci | 397831 | [397831-stiny-noci.json](./397831-stiny-noci.json) |
 | Stirge Hunters | 389600 | [389600-stirge-hunters.json](./389600-stirge-hunters.json) |
 | Stitch Head | 388232 | [388232-stitch-head.json](./388232-stitch-head.json) |
+| Stitch Laser Blast | 133749 | [133749-stitch-laser-blast.json](./133749-stitch-laser-blast.json) |
+| Stitch Master of Disguise | 133747 | [133747-stitch-master-of-disguise.json](./133747-stitch-master-of-disguise.json) |
 | Stitch: Hoop Pack 1 | 333196 | [333196-stitch-hoop-pack-1.json](./333196-stitch-hoop-pack-1.json) |
 | Stitch. | 225655 | [225655-stitch.json](./225655-stitch.json) |
 | Stitch's Blazing Lasers | 342673 | [342673-stitchs-blazing-lasers.json](./342673-stitchs-blazing-lasers.json) |
@@ -17799,13 +17806,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Akaza Moveset | 395017 | [395017-super-smash-bros-ultimate-akaza-moveset.json](./395017-super-smash-bros-ultimate-akaza-moveset.json) |
 | Super Smash Bros. Ultimate: Animdude Moveset | 395034 | [395034-super-smash-bros-ultimate-animdude-moveset.json](./395034-super-smash-bros-ultimate-animdude-moveset.json) |
 | Super Smash Bros. Ultimate: Blood Falcon Moveset | 375986 | [375986-super-smash-bros-ultimate-blood-falcon-moveset.json](./375986-super-smash-bros-ultimate-blood-falcon-moveset.json) |
+| Super Smash Bros. Ultimate: Challenger Pack 10 | 133840 | [133840-super-smash-bros-ultimate-challenger-pack-10.json](./133840-super-smash-bros-ultimate-challenger-pack-10.json) |
+| Super Smash Bros. Ultimate: Challenger Pack 11 | 133841 | [133841-super-smash-bros-ultimate-challenger-pack-11.json](./133841-super-smash-bros-ultimate-challenger-pack-11.json) |
 | Super Smash Bros. Ultimate: Challenger Pack 3 | 122260 | [122260-super-smash-bros-ultimate-challenger-pack-3.json](./122260-super-smash-bros-ultimate-challenger-pack-3.json) |
 | Super Smash Bros. Ultimate: Challenger Pack 4 | 122261 | [122261-super-smash-bros-ultimate-challenger-pack-4.json](./122261-super-smash-bros-ultimate-challenger-pack-4.json) |
+| Super Smash Bros. Ultimate: Challenger Pack 6 | 133835 | [133835-super-smash-bros-ultimate-challenger-pack-6.json](./133835-super-smash-bros-ultimate-challenger-pack-6.json) |
+| Super Smash Bros. Ultimate: Challenger Pack 7 | 133837 | [133837-super-smash-bros-ultimate-challenger-pack-7.json](./133837-super-smash-bros-ultimate-challenger-pack-7.json) |
+| Super Smash Bros. Ultimate: Challenger Pack 8 | 133838 | [133838-super-smash-bros-ultimate-challenger-pack-8.json](./133838-super-smash-bros-ultimate-challenger-pack-8.json) |
+| Super Smash Bros. Ultimate: Challenger Pack 9 | 133839 | [133839-super-smash-bros-ultimate-challenger-pack-9.json](./133839-super-smash-bros-ultimate-challenger-pack-9.json) |
 | Super Smash Bros. Ultimate: Competitive Playable Bosses | 280797 | [280797-super-smash-bros-ultimate-competitive-playable-bosses.json](./280797-super-smash-bros-ultimate-competitive-playable-bosses.json) |
 | Super Smash Bros. Ultimate: Conker Moveset | 395143 | [395143-super-smash-bros-ultimate-conker-moveset.json](./395143-super-smash-bros-ultimate-conker-moveset.json) |
 | Super Smash Bros. Ultimate: Expanding Donkey Kong | 343413 | [343413-super-smash-bros-ultimate-expanding-donkey-kong.json](./343413-super-smash-bros-ultimate-expanding-donkey-kong.json) |
 | Super Smash Bros. Ultimate: Fall Damage | 343408 | [343408-super-smash-bros-ultimate-fall-damage.json](./343408-super-smash-bros-ultimate-fall-damage.json) |
 | Super Smash Bros. Ultimate: Fall Guy Moveset | 395031 | [395031-super-smash-bros-ultimate-fall-guy-moveset.json](./395031-super-smash-bros-ultimate-fall-guy-moveset.json) |
+| Super Smash Bros. Ultimate: Fighters Pass Vol. 2 | 133834 | [133834-super-smash-bros-ultimate-fighters-pass-vol-2.json](./133834-super-smash-bros-ultimate-fighters-pass-vol-2.json) |
 | Super Smash Bros. Ultimate: Geno Hat + Outfit | 325078 | [325078-super-smash-bros-ultimate-geno-hat-outfit.json](./325078-super-smash-bros-ultimate-geno-hat-outfit.json) |
 | Super Smash Bros. Ultimate: Gil's Armor and Helmet | 306452 | [306452-super-smash-bros-ultimate-gils-armor-and-helmet.json](./306452-super-smash-bros-ultimate-gils-armor-and-helmet.json) |
 | Super Smash Bros. Ultimate: Gogeta Moveset | 376026 | [376026-super-smash-bros-ultimate-gogeta-moveset.json](./376026-super-smash-bros-ultimate-gogeta-moveset.json) |
