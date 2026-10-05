@@ -4843,6 +4843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Menyr | 260638 | [260638-menyr.json](./260638-menyr.json) |
 | Meo+ | 249363 | [249363-meo.json](./249363-meo.json) |
 | Meongnyang Animal Hospital Companion Animal Health Guardian! | 234554 | [234554-meongnyang-animal-hospital-companion-animal-health-guardian.json](./234554-meongnyang-animal-hospital-companion-animal-health-guardian.json) |
+| Meor | 144609 | [144609-meor.json](./144609-meor.json) |
 | Meow | 183951 | [183951-meow.json](./183951-meow.json) |
 | Meow | 334677 | [334677-meow.json](./334677-meow.json) |
 | Meow and the Diamond Jump | 379022 | [379022-meow-and-the-diamond-jump.json](./379022-meow-and-the-diamond-jump.json) |
@@ -8954,8 +8955,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhen Seasons | 282544 | [282544-moorhen-seasons.json](./282544-moorhen-seasons.json) |
 | Moorhuhn Adventure: Der Fluch des Goldes | 69856 | [69856-moorhuhn-adventure-der-fluch-des-goldes.json](./69856-moorhuhn-adventure-der-fluch-des-goldes.json) |
 | Moorhuhn Adventure: Der Schatz des Pharao | 190208 | [190208-moorhuhn-adventure-der-schatz-des-pharao.json](./190208-moorhuhn-adventure-der-schatz-des-pharao.json) |
+| Moorhuhn Combat | 144596 | [144596-moorhuhn-combat.json](./144596-moorhuhn-combat.json) |
+| Moorhuhn Deluxe | 144593 | [144593-moorhuhn-deluxe.json](./144593-moorhuhn-deluxe.json) |
 | Moorhuhn in Südafrika | 282543 | [282543-moorhuhn-in-sudafrika.json](./282543-moorhuhn-in-sudafrika.json) |
 | Moorhuhn Jump and Run: Traps and Treasures 2 | 196642 | [196642-moorhuhn-jump-and-run-traps-and-treasures-2.json](./196642-moorhuhn-jump-and-run-traps-and-treasures-2.json) |
+| Moorhuhn UnfairPlay | 144599 | [144599-moorhuhn-unfairplay.json](./144599-moorhuhn-unfairplay.json) |
+| Moorhuhn VR | 144598 | [144598-moorhuhn-vr.json](./144598-moorhuhn-vr.json) |
 | Moorhuhn: Die ersten 10 Jahre | 265946 | [265946-moorhuhn-die-ersten-10-jahre.json](./265946-moorhuhn-die-ersten-10-jahre.json) |
 | Moorhuhn: The Good, The Egg, and The Ugly Mobile | 282546 | [282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json](./282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json) |
 | Moose Boarders | 327381 | [327381-moose-boarders.json](./327381-moose-boarders.json) |
@@ -10421,6 +10426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MushroomJump | 311273 | [311273-mushroomjump.json](./311273-mushroomjump.json) |
 | Mushy | 191660 | [191660-mushy.json](./191660-mushy.json) |
 | Mushy Score | 257694 | [257694-mushy-score.json](./257694-mushy-score.json) |
+| Music 2002: Club Edition | 144600 | [144600-music-2002-club-edition.json](./144600-music-2002-club-edition.json) |
 | Music Box | 309035 | [309035-music-box.json](./309035-music-box.json) |
 | Music Box: Electro Pop | 316232 | [316232-music-box-electro-pop.json](./316232-music-box-electro-pop.json) |
 | Music Box: Ethnic | 316268 | [316268-music-box-ethnic.json](./316268-music-box-ethnic.json) |
