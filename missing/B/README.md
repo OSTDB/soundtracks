@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bail or Jail: Character DLC Bundle 3 | 274651 | [274651-bail-or-jail-character-dlc-bundle-3.json](./274651-bail-or-jail-character-dlc-bundle-3.json) |
 | Bailout Wars | 41518 | [41518-bailout-wars.json](./41518-bailout-wars.json) |
 | Baimason's Thing Finder Puzzle | 293612 | [293612-baimasons-thing-finder-puzzle.json](./293612-baimasons-thing-finder-puzzle.json) |
+| Báipiáo Sānguó | 150245 | [150245-baipiao-sanguo.json](./150245-baipiao-sanguo.json) |
 | Baise Lesbienne! | 206731 | [206731-baise-lesbienne.json](./206731-baise-lesbienne.json) |
 | Baitcore | 415189 | [415189-baitcore.json](./415189-baitcore.json) |
 | Bàito | 312125 | [312125-baito.json](./312125-baito.json) |
@@ -1718,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Baby | 186838 | [186838-basketball-baby.json](./186838-basketball-baby.json) |
 | Basketball Battle | 89288 | [89288-basketball-battle.json](./89288-basketball-battle.json) |
 | Basketball Challenge | 14498 | [14498-basketball-challenge.json](./14498-basketball-challenge.json) |
+| Basketball Club Story | 150265 | [150265-basketball-club-story.json](./150265-basketball-club-story.json) |
 | Basketball Court VR | 32166 | [32166-basketball-court-vr.json](./32166-basketball-court-vr.json) |
 | Basketball Dunk Tournament | 197336 | [197336-basketball-dunk-tournament.json](./197336-basketball-dunk-tournament.json) |
 | Basketball Dynasty Manager 16 | 99175 | [99175-basketball-dynasty-manager-16.json](./99175-basketball-dynasty-manager-16.json) |
@@ -4803,6 +4805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Myth: Zhong Kui | 361900 | [361900-black-myth-zhong-kui.json](./361900-black-myth-zhong-kui.json) |
 | Black Ocean | 290645 | [290645-black-ocean.json](./290645-black-ocean.json) |
 | Black Omens: House of Crimson Silk | 387539 | [387539-black-omens-house-of-crimson-silk.json](./387539-black-omens-house-of-crimson-silk.json) |
+| Black One Blood Brothers | 150255 | [150255-black-one-blood-brothers.json](./150255-black-one-blood-brothers.json) |
 | Black Ops SWAT | 216136 | [216136-black-ops-swat.json](./216136-black-ops-swat.json) |
 | Black Otaku 2: Taekwondo is in my Blood | 261770 | [261770-black-otaku-2-taekwondo-is-in-my-blood.json](./261770-black-otaku-2-taekwondo-is-in-my-blood.json) |
 | Black Otaku: SOS HD | 69352 | [69352-black-otaku-sos-hd.json](./69352-black-otaku-sos-hd.json) |
@@ -5361,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Box | 379348 | [379348-blind-box.json](./379348-blind-box.json) |
 | Blind Date Simulator | 316640 | [316640-blind-date-simulator.json](./316640-blind-date-simulator.json) |
 | Blind Deadly Love | 185537 | [185537-blind-deadly-love.json](./185537-blind-deadly-love.json) |
+| Blind Descent | 150271 | [150271-blind-descent.json](./150271-blind-descent.json) |
 | Blind Dreams | 192831 | [192831-blind-dreams.json](./192831-blind-dreams.json) |
 | Blind Exposure | 320736 | [320736-blind-exposure.json](./320736-blind-exposure.json) |
 | Blind Fate: Edo no Yami | 138812 | [138812-blind-fate-edo-no-yami.json](./138812-blind-fate-edo-no-yami.json) |
