@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machinegun Geometry | 68756 | [68756-machinegun-geometry.json](./68756-machinegun-geometry.json) |
 | Machinegun Geometry: The Right Angle | 68757 | [68757-machinegun-geometry-the-right-angle.json](./68757-machinegun-geometry-the-right-angle.json) |
 | MachineGunner2: Bullet Transcending | 365270 | [365270-machinegunner2-bullet-transcending.json](./365270-machinegunner2-bullet-transcending.json) |
+| MachineryWorld | 158118 | [158118-machineryworld.json](./158118-machineryworld.json) |
 | Machines of Madness | 263032 | [263032-machines-of-madness.json](./263032-machines-of-madness.json) |
 | Machinicide | 196962 | [196962-machinicide.json](./196962-machinicide.json) |
 | Machinika Museum | 163777 | [163777-machinika-museum.json](./163777-machinika-museum.json) |
@@ -211,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Merchant | 408875 | [408875-mad-merchant.json](./408875-mad-merchant.json) |
 | Mad Miner 2 | 318982 | [318982-mad-miner-2.json](./318982-mad-miner-2.json) |
 | Mad Moles | 58753 | [58753-mad-moles.json](./58753-mad-moles.json) |
+| Mad Mosh | 158091 | [158091-mad-mosh.json](./158091-mad-mosh.json) |
 | Mad Murder's Mystery Pie Shop | 196891 | [196891-mad-murders-mystery-pie-shop.json](./196891-mad-murders-mystery-pie-shop.json) |
 | Mad Mustache | 152789 | [152789-mad-mustache.json](./152789-mad-mustache.json) |
 | Mad Muzzles | 41925 | [41925-mad-muzzles.json](./41925-mad-muzzles.json) |
@@ -3344,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
 | Mayhem Motorsports Collection | 283208 | [283208-mayhem-motorsports-collection.json](./283208-mayhem-motorsports-collection.json) |
 | Mayhem Pantera | 271807 | [271807-mayhem-pantera.json](./271807-mayhem-pantera.json) |
+| Mayhem Space Cinema | 158103 | [158103-mayhem-space-cinema.json](./158103-mayhem-space-cinema.json) |
 | Mayhem Survivors: Animals | 261312 | [261312-mayhem-survivors-animals.json](./261312-mayhem-survivors-animals.json) |
 | Mayhem Triple | 34731 | [34731-mayhem-triple.json](./34731-mayhem-triple.json) |
 | Mayhem ZX | 74755 | [74755-mayhem-zx.json](./74755-mayhem-zx.json) |
@@ -5747,6 +5750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator X: Steam Edition - Grumman E-2C Hawkeye | 161875 | [161875-microsoft-flight-simulator-x-steam-edition-grumman-e-2c-hawkeye.json](./161875-microsoft-flight-simulator-x-steam-edition-grumman-e-2c-hawkeye.json) |
 | Microsoft Flight Simulator X: Steam Edition - Grumman EA-6B Prowler | 161804 | [161804-microsoft-flight-simulator-x-steam-edition-grumman-ea-6b-prowler.json](./161804-microsoft-flight-simulator-x-steam-edition-grumman-ea-6b-prowler.json) |
 | Microsoft Flight Simulator X: Steam Edition - Grumman F11F-1 Tiger | 161824 | [161824-microsoft-flight-simulator-x-steam-edition-grumman-f11f-1-tiger.json](./161824-microsoft-flight-simulator-x-steam-edition-grumman-f11f-1-tiger.json) |
+| Microsoft Flight Simulator X: Steam Edition - Grumman F4F Wildcat & Martlet | 157987 | [157987-microsoft-flight-simulator-x-steam-edition-grumman-f4f-wildcat-and-martlet.json](./157987-microsoft-flight-simulator-x-steam-edition-grumman-f4f-wildcat-and-martlet.json) |
 | Microsoft Flight Simulator X: Steam Edition - Grumman Gulfhawk II | 158022 | [158022-microsoft-flight-simulator-x-steam-edition-grumman-gulfhawk-ii.json](./158022-microsoft-flight-simulator-x-steam-edition-grumman-gulfhawk-ii.json) |
 | Microsoft Flight Simulator X: Steam Edition - Grumman HU-16B Albatross | 161873 | [161873-microsoft-flight-simulator-x-steam-edition-grumman-hu-16b-albatross.json](./161873-microsoft-flight-simulator-x-steam-edition-grumman-hu-16b-albatross.json) |
 | Microsoft Flight Simulator X: Steam Edition - HD Airport Graphics | 161885 | [161885-microsoft-flight-simulator-x-steam-edition-hd-airport-graphics.json](./161885-microsoft-flight-simulator-x-steam-edition-hd-airport-graphics.json) |
@@ -5765,10 +5769,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator X: Steam Edition - Meigs Field (KCGX) | 161809 | [161809-microsoft-flight-simulator-x-steam-edition-meigs-field-kcgx.json](./161809-microsoft-flight-simulator-x-steam-edition-meigs-field-kcgx.json) |
 | Microsoft Flight Simulator X: Steam Edition - Messerschmitt Bf 109 | 161846 | [161846-microsoft-flight-simulator-x-steam-edition-messerschmitt-bf-109.json](./161846-microsoft-flight-simulator-x-steam-edition-messerschmitt-bf-109.json) |
 | Microsoft Flight Simulator X: Steam Edition - Natural Tree Environment X | 161888 | [161888-microsoft-flight-simulator-x-steam-edition-natural-tree-environment-x.json](./161888-microsoft-flight-simulator-x-steam-edition-natural-tree-environment-x.json) |
+| Microsoft Flight Simulator X: Steam Edition - Night Environment Italy | 157988 | [157988-microsoft-flight-simulator-x-steam-edition-night-environment-italy.json](./157988-microsoft-flight-simulator-x-steam-edition-night-environment-italy.json) |
 | Microsoft Flight Simulator X: Steam Edition - Night Environment: Connecticut | 157993 | [157993-microsoft-flight-simulator-x-steam-edition-night-environment-connecticut.json](./157993-microsoft-flight-simulator-x-steam-edition-night-environment-connecticut.json) |
 | Microsoft Flight Simulator X: Steam Edition - Night Environment: Spain | 157999 | [157999-microsoft-flight-simulator-x-steam-edition-night-environment-spain.json](./157999-microsoft-flight-simulator-x-steam-edition-night-environment-spain.json) |
 | Microsoft Flight Simulator X: Steam Edition - Night Environment: Sweden | 158020 | [158020-microsoft-flight-simulator-x-steam-edition-night-environment-sweden.json](./158020-microsoft-flight-simulator-x-steam-edition-night-environment-sweden.json) |
 | Microsoft Flight Simulator X: Steam Edition - North American F-86F-1 Sabre | 158021 | [158021-microsoft-flight-simulator-x-steam-edition-north-american-f-86f-1-sabre.json](./158021-microsoft-flight-simulator-x-steam-edition-north-american-f-86f-1-sabre.json) |
+| Microsoft Flight Simulator X: Steam Edition - North American T-6 Texan | 157986 | [157986-microsoft-flight-simulator-x-steam-edition-north-american-t-6-texan.json](./157986-microsoft-flight-simulator-x-steam-edition-north-american-t-6-texan.json) |
 | Microsoft Flight Simulator X: Steam Edition - Northrop F-5E Tiger II | 161843 | [161843-microsoft-flight-simulator-x-steam-edition-northrop-f-5e-tiger-ii.json](./161843-microsoft-flight-simulator-x-steam-edition-northrop-f-5e-tiger-ii.json) |
 | Microsoft Flight Simulator X: Steam Edition - Oban Airport (EGEO) | 161860 | [161860-microsoft-flight-simulator-x-steam-edition-oban-airport-egeo.json](./161860-microsoft-flight-simulator-x-steam-edition-oban-airport-egeo.json) |
 | Microsoft Flight Simulator X: Steam Edition - Palo Alto Airport | 161859 | [161859-microsoft-flight-simulator-x-steam-edition-palo-alto-airport.json](./161859-microsoft-flight-simulator-x-steam-edition-palo-alto-airport.json) |
@@ -9569,6 +9575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Trap 2: Under the Cloak of Fear | 30309 | [30309-mountain-trap-2-under-the-cloak-of-fear.json](./30309-mountain-trap-2-under-the-cloak-of-fear.json) |
 | Mountain Trap: The Manor of Memories | 26576 | [26576-mountain-trap-the-manor-of-memories.json](./26576-mountain-trap-the-manor-of-memories.json) |
 | Mountaincore | 245932 | [245932-mountaincore.json](./245932-mountaincore.json) |
+| Mountains and Rivers scroll | 158100 | [158100-mountains-and-rivers-scroll.json](./158100-mountains-and-rivers-scroll.json) |
 | Mounted War | 336691 | [336691-mounted-war.json](./336691-mounted-war.json) |
 | Mountinuum | 285047 | [285047-mountinuum.json](./285047-mountinuum.json) |
 | Mountris | 341639 | [341639-mountris.json](./341639-mountris.json) |
