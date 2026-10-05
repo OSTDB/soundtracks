@@ -744,6 +744,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jettatura | 207502 | [207502-jettatura.json](./207502-jettatura.json) |
 | JettFuel | 316277 | [316277-jettfuel.json](./316277-jettfuel.json) |
 | JettFuel+ | 416848 | [416848-jettfuel.json](./416848-jettfuel.json) |
+| Jettomero Deluxe Bundle | 118860 | [118860-jettomero-deluxe-bundle.json](./118860-jettomero-deluxe-bundle.json) |
+| Jettomero Ultimate Bundle | 118855 | [118855-jettomero-ultimate-bundle.json](./118855-jettomero-ultimate-bundle.json) |
 | JetTurbo | 261865 | [261865-jetturbo.json](./261865-jetturbo.json) |
 | JetWireClimber | 312166 | [312166-jetwireclimber.json](./312166-jetwireclimber.json) |
 | JetX Racing | 115476 | [115476-jetx-racing.json](./115476-jetx-racing.json) |
@@ -1102,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 2012: Kettei-ban | 44583 | [44583-jikkyou-pawafuru-puroyakyu-2012-kettei-ban.json](./44583-jikkyou-pawafuru-puroyakyu-2012-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 2014 | 78583 | [78583-jikkyou-pawafuru-puroyakyu-2014.json](./78583-jikkyou-pawafuru-puroyakyu-2014.json) |
 | Jikkyou Pawafuru Puroyakyu 2016 | 78582 | [78582-jikkyou-pawafuru-puroyakyu-2016.json](./78582-jikkyou-pawafuru-puroyakyu-2016.json) |
+| Jikkyou Pawafuru Puroyakyu 2018: Digital Deluxe Edition | 118877 | [118877-jikkyou-pawafuru-puroyakyu-2018-digital-deluxe-edition.json](./118877-jikkyou-pawafuru-puroyakyu-2018-digital-deluxe-edition.json) |
 | Jikkyou Pawafuru Puroyakyu 3 | 42642 | [42642-jikkyou-pawafuru-puroyakyu-3.json](./42642-jikkyou-pawafuru-puroyakyu-3.json) |
 | Jikkyou Pawafuru Puroyakyu 5 | 3526 | [3526-jikkyou-pawafuru-puroyakyu-5.json](./3526-jikkyou-pawafuru-puroyakyu-5.json) |
 | Jikkyou Pawafuru Puroyakyu Portable 3 | 229584 | [229584-jikkyou-pawafuru-puroyakyu-portable-3.json](./229584-jikkyou-pawafuru-puroyakyu-portable-3.json) |
