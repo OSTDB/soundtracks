@@ -4702,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greg LeMond's Bicycle Adventure | 15475 | [15475-greg-lemonds-bicycle-adventure.json](./15475-greg-lemonds-bicycle-adventure.json) |
 | Greg Norman's Golf Power | 48701 | [48701-greg-normans-golf-power.json](./48701-greg-normans-golf-power.json) |
 | Greg Norman's Ultimate Golf | 98979 | [98979-greg-normans-ultimate-golf.json](./98979-greg-normans-ultimate-golf.json) |
+| Greg the Clumsy Ghost | 134977 | [134977-greg-the-clumsy-ghost.json](./134977-greg-the-clumsy-ghost.json) |
 | Gregg: Tower Defence | 295858 | [295858-gregg-tower-defence.json](./295858-gregg-tower-defence.json) |
 | Grégoire Lefèbvre Investigations: The Vow of Hate | 390670 | [390670-gregoire-lefebvre-investigations-the-vow-of-hate.json](./390670-gregoire-lefebvre-investigations-the-vow-of-hate.json) |
 | Gregor | 244330 | [244330-gregor.json](./244330-gregor.json) |
