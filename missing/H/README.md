@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of Seasons | 298687 | [298687-hand-of-seasons.json](./298687-hand-of-seasons.json) |
 | Hand of the Goddess | 273919 | [273919-hand-of-the-goddess.json](./273919-hand-of-the-goddess.json) |
 | Hand of the Gods: Core Set Bundle | 90575 | [90575-hand-of-the-gods-core-set-bundle.json](./90575-hand-of-the-gods-core-set-bundle.json) |
+| Hand Physics Lab | 148704 | [148704-hand-physics-lab.json](./148704-hand-physics-lab.json) |
 | Hand Simulator | 44143 | [44143-hand-simulator.json](./44143-hand-simulator.json) |
 | Hand Simulator: Aliens | 264579 | [264579-hand-simulator-aliens.json](./264579-hand-simulator-aliens.json) |
 | Hand Simulator: Rendezvous | 220031 | [220031-hand-simulator-rendezvous.json](./220031-hand-simulator-rendezvous.json) |
@@ -1177,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haru he to Tsuzuku Oka | 388003 | [388003-haru-he-to-tsuzuku-oka.json](./388003-haru-he-to-tsuzuku-oka.json) |
 | Haru Ichiban | 209708 | [209708-haru-ichiban.json](./209708-haru-ichiban.json) |
 | Haru no Oto ha Marude Kimi ni Nitete | 323821 | [323821-haru-no-oto-ha-marude-kimi-ni-nitete.json](./323821-haru-no-oto-ha-marude-kimi-ni-nitete.json) |
+| Haru to Shura | 148699 | [148699-haru-to-shura.json](./148699-haru-to-shura.json) |
 | Haruka no Kuni | 341606 | [341606-haruka-no-kuni.json](./341606-haruka-no-kuni.json) |
 | Haruka, Winter Dreams | 57185 | [57185-haruka-winter-dreams.json](./57185-haruka-winter-dreams.json) |
 | Haruka: Beyond the Stars | 251065 | [251065-haruka-beyond-the-stars.json](./251065-haruka-beyond-the-stars.json) |
@@ -2897,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World: Ultra Special | 316270 | [316270-hentai-world-ultra-special.json](./316270-hentai-world-ultra-special.json) |
 | Hentai World: Ultra Ultimate | 309050 | [309050-hentai-world-ultra-ultimate.json](./309050-hentai-world-ultra-ultimate.json) |
 | Hentai XXX Plus: Jigsaws Vol 1 | 288317 | [288317-hentai-xxx-plus-jigsaws-vol-1.json](./288317-hentai-xxx-plus-jigsaws-vol-1.json) |
+| Hentai: Area 51 | 148703 | [148703-hentai-area-51.json](./148703-hentai-area-51.json) |
 | Hentai: Beach Day | 296905 | [296905-hentai-beach-day.json](./296905-hentai-beach-day.json) |
 | Hentai: Color by Number | 368515 | [368515-hentai-color-by-number.json](./368515-hentai-color-by-number.json) |
 | Hentai: Devil Girls | 296906 | [296906-hentai-devil-girls.json](./296906-hentai-devil-girls.json) |
@@ -3479,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexenHold | 340469 | [340469-hexenhold.json](./340469-hexenhold.json) |
 | Hexepta: Logic Hack | 302600 | [302600-hexepta-logic-hack.json](./302600-hexepta-logic-hack.json) |
 | Hexepta: Mayor Attack | 302598 | [302598-hexepta-mayor-attack.json](./302598-hexepta-mayor-attack.json) |
+| Hexer | 148683 | [148683-hexer.json](./148683-hexer.json) |
 | Hexes | 147416 | [147416-hexes.json](./147416-hexes.json) |
 | Hexes | 243780 | [243780-hexes.json](./243780-hexes.json) |
 | Hexforger | 295866 | [295866-hexforger.json](./295866-hexforger.json) |
