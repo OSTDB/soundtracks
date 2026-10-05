@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D3ad Hand | 277528 | [277528-d3ad-hand.json](./277528-d3ad-hand.json) |
 | D3ad Hand | 315098 | [315098-d3ad-hand.json](./315098-d3ad-hand.json) |
 | D3d Inside | 126659 | [126659-d3d-inside.json](./126659-d3d-inside.json) |
+| D3d Inside 2: Hell | 143938 | [143938-d3d-inside-2-hell.json](./143938-d3d-inside-2-hell.json) |
 | D3L3T3.exe | 264331 | [264331-d3l3t3-exe.json](./264331-d3l3t3-exe.json) |
 | D4 Complete Edition | 52846 | [52846-d4-complete-edition.json](./52846-d4-complete-edition.json) |
 | D8gn | 184433 | [184433-d8gn.json](./184433-d8gn.json) |
@@ -1051,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Zone | 128983 | [128983-dark-zone.json](./128983-dark-zone.json) |
 | Dark Zone Defense | 125439 | [125439-dark-zone-defense.json](./125439-dark-zone-defense.json) |
 | DarkAndLight | 280362 | [280362-darkandlight.json](./280362-darkandlight.json) |
+| Darkanoid | 143961 | [143961-darkanoid.json](./143961-darkanoid.json) |
 | DarkBase 01 | 255667 | [255667-darkbase-01.json](./255667-darkbase-01.json) |
 | DarkBazaar | 393654 | [393654-darkbazaar.json](./393654-darkbazaar.json) |
 | DarkBind | 197330 | [197330-darkbind.json](./197330-darkbind.json) |
@@ -2916,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Grid: The Awakening - Resurgence Map Pack 3 | 156026 | [156026-defense-grid-the-awakening-resurgence-map-pack-3.json](./156026-defense-grid-the-awakening-resurgence-map-pack-3.json) |
 | Defense Grid: The Awakening - Resurgence Map Pack 4 | 164416 | [164416-defense-grid-the-awakening-resurgence-map-pack-4.json](./164416-defense-grid-the-awakening-resurgence-map-pack-4.json) |
 | Defense Grid: The Awakening - You Monster DLC | 164418 | [164418-defense-grid-the-awakening-you-monster-dlc.json](./164418-defense-grid-the-awakening-you-monster-dlc.json) |
+| Defense High | 143925 | [143925-defense-high.json](./143925-defense-high.json) |
 | Defense Keeper | 24020 | [24020-defense-keeper.json](./24020-defense-keeper.json) |
 | Defense Master | 284486 | [284486-defense-master.json](./284486-defense-master.json) |
 | Defense of Egypt: Cleopatra Mission | 31097 | [31097-defense-of-egypt-cleopatra-mission.json](./31097-defense-of-egypt-cleopatra-mission.json) |
@@ -5931,6 +5934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Gallagher's Residence | 374842 | [374842-doctor-gallaghers-residence.json](./374842-doctor-gallaghers-residence.json) |
 | Doctor Goo and the Samorons | 78736 | [78736-doctor-goo-and-the-samorons.json](./78736-doctor-goo-and-the-samorons.json) |
 | Doctor Kairokos | 416828 | [416828-doctor-kairokos.json](./416828-doctor-kairokos.json) |
+| Doctor Klyvinski | 143940 | [143940-doctor-klyvinski.json](./143940-doctor-klyvinski.json) |
 | Doctor Ku: The Alien Room | 315120 | [315120-doctor-ku-the-alien-room.json](./315120-doctor-ku-the-alien-room.json) |
 | Doctor Ku: The Cellar | 315097 | [315097-doctor-ku-the-cellar.json](./315097-doctor-ku-the-cellar.json) |
 | Doctor Ku: The Kitchen | 315099 | [315099-doctor-ku-the-kitchen.json](./315099-doctor-ku-the-kitchen.json) |
