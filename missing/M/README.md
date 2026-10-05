@@ -1664,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maniac Path 3 | 327824 | [327824-maniac-path-3.json](./327824-maniac-path-3.json) |
 | Maniac Pro-Wrestling: Ashita e no Tatakai | 59032 | [59032-maniac-pro-wrestling-ashita-e-no-tatakai.json](./59032-maniac-pro-wrestling-ashita-e-no-tatakai.json) |
 | Maniac Sports | 69249 | [69249-maniac-sports.json](./69249-maniac-sports.json) |
+| Manic | 126951 | [126951-manic.json](./126951-manic.json) |
 | Manic Archers | 153382 | [153382-manic-archers.json](./153382-manic-archers.json) |
 | Manic Miner | 10161 | [10161-manic-miner.json](./10161-manic-miner.json) |
 | Manic Miner | 248054 | [248054-manic-miner.json](./248054-manic-miner.json) |
@@ -3590,6 +3591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mean Girls | 150035 | [150035-mean-girls.json](./150035-mean-girls.json) |
 | Meander | 108986 | [108986-meander.json](./108986-meander.json) |
 | Meander Land | 265703 | [265703-meander-land.json](./265703-meander-land.json) |
+| Meandering Fiend | 126988 | [126988-meandering-fiend.json](./126988-meandering-fiend.json) |
 | Méandres | 257430 | [257430-meandres.json](./257430-meandres.json) |
 | Meaning | 297554 | [297554-meaning.json](./297554-meaning.json) |
 | Meaning | 82891 | [82891-meaning.json](./82891-meaning.json) |
