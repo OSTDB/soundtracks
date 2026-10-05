@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janggi for Kakao | 126002 | [126002-janggi-for-kakao.json](./126002-janggi-for-kakao.json) |
 | Janggun | 145638 | [145638-janggun.json](./145638-janggun.json) |
 | Jangou | 123078 | [123078-jangou.json](./123078-jangou.json) |
+| Jangou | 131433 | [131433-jangou.json](./131433-jangou.json) |
 | Jangou 1 | 123077 | [123077-jangou-1.json](./123077-jangou-1.json) |
 | Jangou 2 | 123076 | [123076-jangou-2.json](./123076-jangou-2.json) |
 | Jangou World Cup | 123075 | [123075-jangou-world-cup.json](./123075-jangou-world-cup.json) |
