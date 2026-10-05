@@ -6839,6 +6839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Fishing 4: Amber Lake | 161308 | [161308-russian-fishing-4-amber-lake.json](./161308-russian-fishing-4-amber-lake.json) |
 | Russian Fishing 4: Lower Tunguska River | 161307 | [161307-russian-fishing-4-lower-tunguska-river.json](./161307-russian-fishing-4-lower-tunguska-river.json) |
 | Russian Gangsta in Hell | 99063 | [99063-russian-gangsta-in-hell.json](./99063-russian-gangsta-in-hell.json) |
+| Russian Hentai 3 | 155461 | [155461-russian-hentai-3.json](./155461-russian-hentai-3.json) |
 | Russian Life Simulator | 118022 | [118022-russian-life-simulator.json](./118022-russian-life-simulator.json) |
 | Russian Mailman Simulator | 157496 | [157496-russian-mailman-simulator.json](./157496-russian-mailman-simulator.json) |
 | Russian Overkill | 134501 | [134501-russian-overkill.json](./134501-russian-overkill.json) |
