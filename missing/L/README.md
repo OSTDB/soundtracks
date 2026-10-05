@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Enforcers | 4501 | [4501-lethal-enforcers.json](./4501-lethal-enforcers.json) |
 | Lethal Enforcers 3 | 5399 | [5399-lethal-enforcers-3.json](./5399-lethal-enforcers-3.json) |
 | Lethal Enforcers I & II | 77250 | [77250-lethal-enforcers-i-and-ii.json](./77250-lethal-enforcers-i-and-ii.json) |
+| Lethal Gamble 1 Werewolf Puzzle | 170278 | [170278-lethal-gamble-1-werewolf-puzzle.json](./170278-lethal-gamble-1-werewolf-puzzle.json) |
 | Lethal Infiltration: Ghost Reconnaissance | 296932 | [296932-lethal-infiltration-ghost-reconnaissance.json](./296932-lethal-infiltration-ghost-reconnaissance.json) |
 | Lethal Justice | 40334 | [40334-lethal-justice.json](./40334-lethal-justice.json) |
 | Lethal Laser | 55489 | [55489-lethal-laser.json](./55489-lethal-laser.json) |
@@ -2960,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links: Championship Course - Troon North | 73319 | [73319-links-championship-course-troon-north.json](./73319-links-championship-course-troon-north.json) |
 | Linkz | 92995 | [92995-linkz.json](./92995-linkz.json) |
 | Linley Henzell's Dungeon Crawl | 84198 | [84198-linley-henzells-dungeon-crawl.json](./84198-linley-henzells-dungeon-crawl.json) |
+| Linn the Protector and the Seven Daughters of Ran | 170270 | [170270-linn-the-protector-and-the-seven-daughters-of-ran.json](./170270-linn-the-protector-and-the-seven-daughters-of-ran.json) |
 | Linq! | 200445 | [200445-linq.json](./200445-linq.json) |
 | Linsips | 395725 | [395725-linsips.json](./395725-linsips.json) |
 | Lint | 55972 | [55972-lint.json](./55972-lint.json) |
@@ -4495,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Traces: Unsolved Cases - Genesis | 329387 | [329387-lost-traces-unsolved-cases-genesis.json](./329387-lost-traces-unsolved-cases-genesis.json) |
 | Lost Tribe | 309517 | [309517-lost-tribe.json](./309517-lost-tribe.json) |
 | Lost Twins 2 | 173308 | [173308-lost-twins-2.json](./173308-lost-twins-2.json) |
+| Lost Valley | 170337 | [170337-lost-valley.json](./170337-lost-valley.json) |
 | Lost Verses | 323523 | [323523-lost-verses.json](./323523-lost-verses.json) |
 | Lost Voice | 148948 | [148948-lost-voice.json](./148948-lost-voice.json) |
 | Lost Vulcan | 347851 | [347851-lost-vulcan.json](./347851-lost-vulcan.json) |
@@ -5272,6 +5275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunatic Dawn IV | 375376 | [375376-lunatic-dawn-iv.json](./375376-lunatic-dawn-iv.json) |
 | Lunatic Dawn Odyssey | 66179 | [66179-lunatic-dawn-odyssey.json](./66179-lunatic-dawn-odyssey.json) |
 | Lunatic Dawn Tempest | 66178 | [66178-lunatic-dawn-tempest.json](./66178-lunatic-dawn-tempest.json) |
+| Lunatic Dawn: Book of Futures | 170345 | [170345-lunatic-dawn-book-of-futures.json](./170345-lunatic-dawn-book-of-futures.json) |
 | Lunatic Dawn: Legend Pack | 286755 | [286755-lunatic-dawn-legend-pack.json](./286755-lunatic-dawn-legend-pack.json) |
 | Lunatic Dawn: Passage of the Book | 229141 | [229141-lunatic-dawn-passage-of-the-book.json](./229141-lunatic-dawn-passage-of-the-book.json) |
 | Lunatic Dawn: The Third Book | 375378 | [375378-lunatic-dawn-the-third-book.json](./375378-lunatic-dawn-the-third-book.json) |
