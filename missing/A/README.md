@@ -2248,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agents of Mayhem: Johnny Gat | 118271 | [118271-agents-of-mayhem-johnny-gat.json](./118271-agents-of-mayhem-johnny-gat.json) |
 | Agents of Mayhem: Lazarus | 118270 | [118270-agents-of-mayhem-lazarus.json](./118270-agents-of-mayhem-lazarus.json) |
 | Agents of SomeCompany | 253374 | [253374-agents-of-somecompany.json](./253374-agents-of-somecompany.json) |
+| Agents: Biohunters | 120225 | [120225-agents-biohunters.json](./120225-agents-biohunters.json) |
 | Ageod's American Civil War: The Blue and the Gray | 21451 | [21451-ageods-american-civil-war-the-blue-and-the-gray.json](./21451-ageods-american-civil-war-the-blue-and-the-gray.json) |
 | Agerasia | 377756 | [377756-agerasia.json](./377756-agerasia.json) |
 | Ages of Conflict: World War Simulator | 223829 | [223829-ages-of-conflict-world-war-simulator.json](./223829-ages-of-conflict-world-war-simulator.json) |
@@ -3510,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alive | 282657 | [282657-alive.json](./282657-alive.json) |
 | Alive | 287661 | [287661-alive.json](./287661-alive.json) |
 | Alive | 345645 | [345645-alive.json](./345645-alive.json) |
+| Alive 2 Survive | 120113 | [120113-alive-2-survive.json](./120113-alive-2-survive.json) |
 | Alive 4-ever Returns | 94758 | [94758-alive-4-ever-returns.json](./94758-alive-4-ever-returns.json) |
 | Alive! Jigsaw | 94344 | [94344-alive-jigsaw.json](./94344-alive-jigsaw.json) |
 | Alive? Dead? | 105514 | [105514-alive-dead.json](./105514-alive-dead.json) |
@@ -8267,6 +8269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Avenger II | 51211 | [51211-astro-avenger-ii.json](./51211-astro-avenger-ii.json) |
 | Astro Bandits | 201662 | [201662-astro-bandits.json](./201662-astro-bandits.json) |
 | Astro Battlers TD | 203241 | [203241-astro-battlers-td.json](./203241-astro-battlers-td.json) |
+| Astro Bears | 120138 | [120138-astro-bears.json](./120138-astro-bears.json) |
 | Astro Bears Party | 54774 | [54774-astro-bears-party.json](./54774-astro-bears-party.json) |
 | Astro Bears: Non-Bears | 238446 | [238446-astro-bears-non-bears.json](./238446-astro-bears-non-bears.json) |
 | Astro Blaster | 13959 | [13959-astro-blaster.json](./13959-astro-blaster.json) |
