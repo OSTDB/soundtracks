@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lair | 7362 | [7362-lair.json](./7362-lair.json) |
 | Lair Defense: Dungeon | 127893 | [127893-lair-defense-dungeon.json](./127893-lair-defense-dungeon.json) |
 | Lair Hockey | 156595 | [156595-lair-hockey.json](./156595-lair-hockey.json) |
+| Lair Land Story | 140324 | [140324-lair-land-story.json](./140324-lair-land-story.json) |
 | Lair Land Story 2: Mist of Sea | 217214 | [217214-lair-land-story-2-mist-of-sea.json](./217214-lair-land-story-2-mist-of-sea.json) |
 | Lair Land Story: Remake Edition | 119030 | [119030-lair-land-story-remake-edition.json](./119030-lair-land-story-remake-edition.json) |
 | Lair of Anubis | 236303 | [236303-lair-of-anubis.json](./236303-lair-of-anubis.json) |
@@ -2620,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightBear | 268994 | [268994-lightbear.json](./268994-lightbear.json) |
 | LightBear: Grizzelda Returns | 289008 | [289008-lightbear-grizzelda-returns.json](./289008-lightbear-grizzelda-returns.json) |
 | Lightbender | 329105 | [329105-lightbender.json](./329105-lightbender.json) |
+| LightBike | 140302 | [140302-lightbike.json](./140302-lightbike.json) |
 | LightBike 2 | 234015 | [234015-lightbike-2.json](./234015-lightbike-2.json) |
 | Lightbot: Programming Puzzles | 88528 | [88528-lightbot-programming-puzzles.json](./88528-lightbot-programming-puzzles.json) |
 | Lightbox | 153861 | [153861-lightbox.json](./153861-lightbox.json) |
