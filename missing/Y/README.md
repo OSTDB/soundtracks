@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokai Taiji | 152998 | [152998-yokai-taiji.json](./152998-yokai-taiji.json) |
 | Yokai Tamer | 193936 | [193936-yokai-tamer.json](./193936-yokai-tamer.json) |
 | Yokai Watch Go | 231875 | [231875-yokai-watch-go.json](./231875-yokai-watch-go.json) |
+| Yokai-dou | 137949 | [137949-yokai-dou.json](./137949-yokai-dou.json) |
 | Yokai: Spirits Hunt | 122961 | [122961-yokai-spirits-hunt.json](./122961-yokai-spirits-hunt.json) |
 | Yokai's Secret | 138265 | [138265-yokais-secret.json](./138265-yokais-secret.json) |
 | Yokai's Wish | 220732 | [220732-yokais-wish.json](./220732-yokais-wish.json) |
