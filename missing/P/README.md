@@ -4971,6 +4971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Therapy: Tropical Dreams | 364018 | [364018-plant-therapy-tropical-dreams.json](./364018-plant-therapy-tropical-dreams.json) |
 | Plant Trader | 269220 | [269220-plant-trader.json](./269220-plant-trader.json) |
 | Plant Tycoon | 15942 | [15942-plant-tycoon.json](./15942-plant-tycoon.json) |
+| Plant vs Undead | 166596 | [166596-plant-vs-undead.json](./166596-plant-vs-undead.json) |
 | Plantabi: Little Garden | 288871 | [288871-plantabi-little-garden.json](./288871-plantabi-little-garden.json) |
 | Plantan | 110330 | [110330-plantan.json](./110330-plantan.json) |
 | Plantasia | 333098 | [333098-plantasia.json](./333098-plantasia.json) |
