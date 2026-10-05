@@ -4016,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Legends TD | 62992 | [62992-pirate-legends-td.json](./62992-pirate-legends-td.json) |
 | Pirate Life | 395538 | [395538-pirate-life.json](./395538-pirate-life.json) |
 | Pirate Mosaic Puzzle: Caribbean Treasures | 97144 | [97144-pirate-mosaic-puzzle-caribbean-treasures.json](./97144-pirate-mosaic-puzzle-caribbean-treasures.json) |
+| Pirate of Madagascar Island | 158600 | [158600-pirate-of-madagascar-island.json](./158600-pirate-of-madagascar-island.json) |
 | Pirate Parakeet | 346777 | [346777-pirate-parakeet.json](./346777-pirate-parakeet.json) |
 | Pirate Plight | 245911 | [245911-pirate-plight.json](./245911-pirate-plight.json) |
 | Pirate Pop Mega Quiz | 232499 | [232499-pirate-pop-mega-quiz.json](./232499-pirate-pop-mega-quiz.json) |
@@ -6604,6 +6605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pooyan | 4618 | [4618-pooyan.json](./4618-pooyan.json) |
 | Pop & Chips | 83213 | [83213-pop-and-chips.json](./83213-pop-and-chips.json) |
 | Pop and Chicks | 253364 | [253364-pop-and-chicks.json](./253364-pop-and-chicks.json) |
+| Pop and Well | 158626 | [158626-pop-and-well.json](./158626-pop-and-well.json) |
 | Pop Ball | 246360 | [246360-pop-ball.json](./246360-pop-ball.json) |
 | Pop Balloons | 247069 | [247069-pop-balloons.json](./247069-pop-balloons.json) |
 | Pop Cutie! Street Fashion Simulation | 72743 | [72743-pop-cutie-street-fashion-simulation.json](./72743-pop-cutie-street-fashion-simulation.json) |
@@ -8547,6 +8549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: R.E.B.O.O.T | 30758 | [30758-project-r-e-b-o-o-t.json](./30758-project-r-e-b-o-o-t.json) |
 | Project: R.E.B.O.O.T 2 | 29868 | [29868-project-r-e-b-o-o-t-2.json](./29868-project-r-e-b-o-o-t-2.json) |
 | Project: Run | 393466 | [393466-project-run.json](./393466-project-run.json) |
+| Project: Skyscape | 158618 | [158618-project-skyscape.json](./158618-project-skyscape.json) |
 | Project: Special Forces | 163864 | [163864-project-special-forces.json](./163864-project-special-forces.json) |
 | Project: Starfighter | 62147 | [62147-project-starfighter.json](./62147-project-starfighter.json) |
 | Project: Station | 380434 | [380434-project-station.json](./380434-project-station.json) |
@@ -9055,6 +9058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumped BMX Flow | 174894 | [174894-pumped-bmx-flow.json](./174894-pumped-bmx-flow.json) |
 | Pumped BMX Pro | 114796 | [114796-pumped-bmx-pro.json](./114796-pumped-bmx-pro.json) |
 | Pumped BMX+ | 20955 | [20955-pumped-bmx.json](./20955-pumped-bmx.json) |
+| Pumping Simulator | 158617 | [158617-pumping-simulator.json](./158617-pumping-simulator.json) |
 | Pumpkin Breaker | 126609 | [126609-pumpkin-breaker.json](./126609-pumpkin-breaker.json) |
 | Pumpkin Days | 115514 | [115514-pumpkin-days.json](./115514-pumpkin-days.json) |
 | Pumpkin Delivery | 242234 | [242234-pumpkin-delivery.json](./242234-pumpkin-delivery.json) |
