@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra-Quiz | 93145 | [93145-ultra-quiz.json](./93145-ultra-quiz.json) |
 | Ultra-Ultra Doggy Trainer!! | 368599 | [368599-ultra-ultra-doggy-trainer.json](./368599-ultra-ultra-doggy-trainer.json) |
 | Ultra0 | 391033 | [391033-ultra0.json](./391033-ultra0.json) |
+| Ultraball | 170897 | [170897-ultraball.json](./170897-ultraball.json) |
 | Ultrabox | 267943 | [267943-ultrabox.json](./267943-ultrabox.json) |
 | Ultrabox No. 2 | 267942 | [267942-ultrabox-no-2.json](./267942-ultrabox-no-2.json) |
 | Ultracore | 107188 | [107188-ultracore.json](./107188-ultracore.json) |
