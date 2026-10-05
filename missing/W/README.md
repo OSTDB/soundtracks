@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WaggaSim | 312563 | [312563-waggasim.json](./312563-waggasim.json) |
 | Wagie Run | 404965 | [404965-wagie-run.json](./404965-wagie-run.json) |
 | Wagon Gloom | 288474 | [288474-wagon-gloom.json](./288474-wagon-gloom.json) |
+| Wagrrr | 129058 | [129058-wagrrr.json](./129058-wagrrr.json) |
 | Wagyan Land | 206760 | [206760-wagyan-land.json](./206760-wagyan-land.json) |
 | Wahm | 360709 | [360709-wahm.json](./360709-wahm.json) |
 | Wahm | 377286 | [377286-wahm.json](./377286-wahm.json) |
@@ -2984,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildflower: From the Embers | 178095 | [178095-wildflower-from-the-embers.json](./178095-wildflower-from-the-embers.json) |
 | WildFront | 274474 | [274474-wildfront.json](./274474-wildfront.json) |
 | Wildheart Gourmet | 356753 | [356753-wildheart-gourmet.json](./356753-wildheart-gourmet.json) |
+| WildIsland | 129038 | [129038-wildisland.json](./129038-wildisland.json) |
 | Wildkeepers Rising | 324076 | [324076-wildkeepers-rising.json](./324076-wildkeepers-rising.json) |
 | Wildland | 120831 | [120831-wildland.json](./120831-wildland.json) |
 | Wildland: Initial Attack | 185627 | [185627-wildland-initial-attack.json](./185627-wildland-initial-attack.json) |
@@ -3741,6 +3743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry: The Five Ordeals | 151699 | [151699-wizardry-the-five-ordeals.json](./151699-wizardry-the-five-ordeals.json) |
 | Wizardry: The Five Ordeals - Scenario "Prisoners of the Battles" | 242525 | [242525-wizardry-the-five-ordeals-scenario-prisoners-of-the-battles.json](./242525-wizardry-the-five-ordeals-scenario-prisoners-of-the-battles.json) |
 | Wizardry: The Return of Werdna - The Fourth Scenario | 2885 | [2885-wizardry-the-return-of-werdna-the-fourth-scenario.json](./2885-wizardry-the-return-of-werdna-the-fourth-scenario.json) |
+| Wizards | 129046 | [129046-wizards.json](./129046-wizards.json) |
 | Wizards | 131444 | [131444-wizards.json](./131444-wizards.json) |
 | Wizards & Warriors | 80498 | [80498-wizards-and-warriors.json](./80498-wizards-and-warriors.json) |
 | Wizards & Warriors III: Kuros - Visions of Power | 48092 | [48092-wizards-and-warriors-iii-kuros-visions-of-power.json](./48092-wizards-and-warriors-iii-kuros-visions-of-power.json) |
