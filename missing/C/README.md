@@ -7313,6 +7313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contenders: Arena | 255684 | [255684-contenders-arena.json](./255684-contenders-arena.json) |
 | Content Caution: The Horror Filmmaker | 335090 | [335090-content-caution-the-horror-filmmaker.json](./335090-content-caution-the-horror-filmmaker.json) |
 | Content Creator Simulator | 89367 | [89367-content-creator-simulator.json](./89367-content-creator-simulator.json) |
+| Content Creator's Internet Adventure | 141499 | [141499-content-creators-internet-adventure.json](./141499-content-creators-internet-adventure.json) |
 | Content Warning: Scary Filming | 337073 | [337073-content-warning-scary-filming.json](./337073-content-warning-scary-filming.json) |
 | Contested Space | 403105 | [403105-contested-space.json](./403105-contested-space.json) |
 | Context Insensitive | 159044 | [159044-context-insensitive.json](./159044-context-insensitive.json) |
@@ -9202,6 +9203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Brigade 2: Reloaded | 223144 | [223144-crisis-brigade-2-reloaded.json](./223144-crisis-brigade-2-reloaded.json) |
 | Crisis Bullet | 296446 | [296446-crisis-bullet.json](./296446-crisis-bullet.json) |
 | Crisis Core: Final Fantasy VII | 2407 | [2407-crisis-core-final-fantasy-vii.json](./2407-crisis-core-final-fantasy-vii.json) |
+| Crisis Core: Final Fantasy VII - Collector's Edition | 141504 | [141504-crisis-core-final-fantasy-vii-collectors-edition.json](./141504-crisis-core-final-fantasy-vii-collectors-edition.json) |
 | Crisis Heart Brawlers: Clash at Otakon | 64681 | [64681-crisis-heart-brawlers-clash-at-otakon.json](./64681-crisis-heart-brawlers-clash-at-otakon.json) |
 | Crisis in the Aegean Sea | 127320 | [127320-crisis-in-the-aegean-sea.json](./127320-crisis-in-the-aegean-sea.json) |
 | Crisis Island | 244729 | [244729-crisis-island.json](./244729-crisis-island.json) |
@@ -9625,6 +9627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crumble's Crisis | 159269 | [159269-crumbles-crisis.json](./159269-crumbles-crisis.json) |
 | Crumbling | 192499 | [192499-crumbling.json](./192499-crumbling.json) |
 | Crumbling Construction, Inc. | 184375 | [184375-crumbling-construction-inc.json](./184375-crumbling-construction-inc.json) |
+| Crumpets | 141484 | [141484-crumpets.json](./141484-crumpets.json) |
 | Crumpets 2 | 287308 | [287308-crumpets-2.json](./287308-crumpets-2.json) |
 | Crumps | 334270 | [334270-crumps.json](./334270-crumps.json) |
 | Crunch Bandicoot: Submarine Hunt | 314660 | [314660-crunch-bandicoot-submarine-hunt.json](./314660-crunch-bandicoot-submarine-hunt.json) |
