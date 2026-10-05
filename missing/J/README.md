@@ -2131,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause 2: Multiplayer Mod | 93898 | [93898-just-cause-2-multiplayer-mod.json](./93898-just-cause-2-multiplayer-mod.json) |
 | Just Cause 2: Rico's Signature Gun DLC | 288999 | [288999-just-cause-2-ricos-signature-gun-dlc.json](./288999-just-cause-2-ricos-signature-gun-dlc.json) |
 | Just Cause 3: Mech Land Assault | 19855 | [19855-just-cause-3-mech-land-assault.json](./19855-just-cause-3-mech-land-assault.json) |
+| Just Cause 3: Multiplayer Mod | 153016 | [153016-just-cause-3-multiplayer-mod.json](./153016-just-cause-3-multiplayer-mod.json) |
 | Just Cause 3: Sky Fortress | 18043 | [18043-just-cause-3-sky-fortress.json](./18043-just-cause-3-sky-fortress.json) |
 | Just Cause 3: XL Edition | 36448 | [36448-just-cause-3-xl-edition.json](./36448-just-cause-3-xl-edition.json) |
 | Just Cause 4 | 103261 | [103261-just-cause-4.json](./103261-just-cause-4.json) |
