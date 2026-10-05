@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OlliOlli: Switch Stance | 113568 | [113568-olliolli-switch-stance.json](./113568-olliolli-switch-stance.json) |
 | OlliOlli2: Welcome to Olliwood | 9523 | [9523-olliolli2-welcome-to-olliwood.json](./9523-olliolli2-welcome-to-olliwood.json) |
 | Olllo | 288313 | [288313-olllo.json](./288313-olllo.json) |
+| Ollo in the Sunny Valley Fair | 122219 | [122219-ollo-in-the-sunny-valley-fair.json](./122219-ollo-in-the-sunny-valley-fair.json) |
 | OLO game | 88816 | [88816-olo-game.json](./88816-olo-game.json) |
 | Olo Loco | 175224 | [175224-olo-loco.json](./175224-olo-loco.json) |
 | Olobollo | 156138 | [156138-olobollo.json](./156138-olobollo.json) |
@@ -1200,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Time | 376670 | [376670-once-upon-a-time.json](./376670-once-upon-a-time.json) |
 | Once Upon A Time | 51189 | [51189-once-upon-a-time.json](./51189-once-upon-a-time.json) |
 | Once Upon a Time in Morocco | 208586 | [208586-once-upon-a-time-in-morocco.json](./208586-once-upon-a-time-in-morocco.json) |
+| Once Upon A Time In Roswell | 122117 | [122117-once-upon-a-time-in-roswell.json](./122117-once-upon-a-time-in-roswell.json) |
 | Once Upon a Time in the 70s | 325545 | [325545-once-upon-a-time-in-the-70s.json](./325545-once-upon-a-time-in-the-70s.json) |
 | Once Upon a Time in the Colony | 173233 | [173233-once-upon-a-time-in-the-colony.json](./173233-once-upon-a-time-in-the-colony.json) |
 | Once Upon a Time on Halloween | 223569 | [223569-once-upon-a-time-on-halloween.json](./223569-once-upon-a-time-on-halloween.json) |
@@ -2728,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of This World | 343397 | [343397-out-of-this-world.json](./343397-out-of-this-world.json) |
 | Out of This World | 343405 | [343405-out-of-this-world.json](./343405-out-of-this-world.json) |
 | Out of This World | 343451 | [343451-out-of-this-world.json](./343451-out-of-this-world.json) |
+| Out of Time | 122135 | [122135-out-of-time.json](./122135-out-of-time.json) |
 | Out of Time | 356712 | [356712-out-of-time.json](./356712-out-of-time.json) |
 | Out of Time | 388932 | [388932-out-of-time.json](./388932-out-of-time.json) |
 | Out on a Liminal | 178940 | [178940-out-on-a-liminal.json](./178940-out-on-a-liminal.json) |
@@ -2813,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outcast on Mars | 157132 | [157132-outcast-on-mars.json](./157132-outcast-on-mars.json) |
 | Outcast: A New Beginning | 171215 | [171215-outcast-a-new-beginning.json](./171215-outcast-a-new-beginning.json) |
 | Outcast: A New Beginning - Adelpha Edition | 282049 | [282049-outcast-a-new-beginning-adelpha-edition.json](./282049-outcast-a-new-beginning-adelpha-edition.json) |
+| Outcast: Second Contact - Digital Deluxe Edition | 122224 | [122224-outcast-second-contact-digital-deluxe-edition.json](./122224-outcast-second-contact-digital-deluxe-edition.json) |
 | Outcasters | 135825 | [135825-outcasters.json](./135825-outcasters.json) |
 | Outcasts of Dungeon | 195191 | [195191-outcasts-of-dungeon.json](./195191-outcasts-of-dungeon.json) |
 | Outcasts of the Rift | 236914 | [236914-outcasts-of-the-rift.json](./236914-outcasts-of-the-rift.json) |
