@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter Crossroads | 325598 | [325598-virtua-fighter-crossroads.json](./325598-virtua-fighter-crossroads.json) |
 | Virtua Fighter Remix | 145524 | [145524-virtua-fighter-remix.json](./145524-virtua-fighter-remix.json) |
 | Virtua Fighter: Fever Combo | 61862 | [61862-virtua-fighter-fever-combo.json](./61862-virtua-fighter-fever-combo.json) |
+| Virtua Golf | 131345 | [131345-virtua-golf.json](./131345-virtua-golf.json) |
 | Virtua NBA | 39790 | [39790-virtua-nba.json](./39790-virtua-nba.json) |
 | Virtua Park the Fish 2: Sodatete Puku-puku | 230416 | [230416-virtua-park-the-fish-2-sodatete-puku-puku.json](./230416-virtua-park-the-fish-2-sodatete-puku-puku.json) |
 | Virtua Photo Studio | 250533 | [250533-virtua-photo-studio.json](./250533-virtua-photo-studio.json) |
