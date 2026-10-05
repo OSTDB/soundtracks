@@ -4881,6 +4881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack | 131529 | [131529-blackjack.json](./131529-blackjack.json) |
 | Blackjack | 204476 | [204476-blackjack.json](./204476-blackjack.json) |
 | Blackjack | 224087 | [224087-blackjack.json](./224087-blackjack.json) |
+| Blackjack / Poker / Acey-Deucey | 169265 | [169265-blackjack-poker-acey-deucey.json](./169265-blackjack-poker-acey-deucey.json) |
 | Blackjack 21 | 85514 | [85514-blackjack-21.json](./85514-blackjack-21.json) |
 | Blackjack Alchemist | 397250 | [397250-blackjack-alchemist.json](./397250-blackjack-alchemist.json) |
 | Blackjack and Pomodoro Mystery | 319015 | [319015-blackjack-and-pomodoro-mystery.json](./319015-blackjack-and-pomodoro-mystery.json) |
@@ -6475,6 +6476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku no Natsuyasumi | 44775 | [44775-boku-no-natsuyasumi.json](./44775-boku-no-natsuyasumi.json) |
 | Boku no Natsuyasumi 3: Kitaguni-hen - Chiisana Boku no Dai Sougen | 7379 | [7379-boku-no-natsuyasumi-3-kitaguni-hen-chiisana-boku-no-dai-sougen.json](./7379-boku-no-natsuyasumi-3-kitaguni-hen-chiisana-boku-no-dai-sougen.json) |
 | Boku no Saiai no | 322009 | [322009-boku-no-saiai-no.json](./322009-boku-no-saiai-no.json) |
+| Boku no Shokora | 169273 | [169273-boku-no-shokora.json](./169273-boku-no-shokora.json) |
 | Boku no Soushiki ni Youkoso: Happy Rebirthday | 335700 | [335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json](./335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json) |
 | Boku no Tennis Jinsei | 69362 | [69362-boku-no-tennis-jinsei.json](./69362-boku-no-tennis-jinsei.json) |
 | Boku no Tsuri Monogatari | 196563 | [196563-boku-no-tsuri-monogatari.json](./196563-boku-no-tsuri-monogatari.json) |
@@ -9396,6 +9398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 2015 HD: New York Route | 97148 | [97148-bus-simulator-2015-hd-new-york-route.json](./97148-bus-simulator-2015-hd-new-york-route.json) |
 | Bus Simulator 2023 | 227959 | [227959-bus-simulator-2023.json](./227959-bus-simulator-2023.json) |
 | Bus Simulator 21: Angel Shores Insider Skin Pack | 213848 | [213848-bus-simulator-21-angel-shores-insider-skin-pack.json](./213848-bus-simulator-21-angel-shores-insider-skin-pack.json) |
+| Bus Simulator 21: Extended Edition | 169245 | [169245-bus-simulator-21-extended-edition.json](./169245-bus-simulator-21-extended-edition.json) |
 | Bus Simulator 21: MAN Bus Pack | 213951 | [213951-bus-simulator-21-man-bus-pack.json](./213951-bus-simulator-21-man-bus-pack.json) |
 | Bus Simulator 21: Next Stop - Ebusco Bus Pack | 249892 | [249892-bus-simulator-21-next-stop-ebusco-bus-pack.json](./249892-bus-simulator-21-next-stop-ebusco-bus-pack.json) |
 | Bus Simulator 21: Next Stop - Halloween Skin Pack | 263040 | [263040-bus-simulator-21-next-stop-halloween-skin-pack.json](./263040-bus-simulator-21-next-stop-halloween-skin-pack.json) |
