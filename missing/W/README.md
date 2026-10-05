@@ -541,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Roses: Kingmaker | 11040 | [11040-war-of-the-roses-kingmaker.json](./11040-war-of-the-roses-kingmaker.json) |
 | War of the Seraphim | 117056 | [117056-war-of-the-seraphim.json](./117056-war-of-the-seraphim.json) |
 | War of the Three Kingdoms | 369624 | [369624-war-of-the-three-kingdoms.json](./369624-war-of-the-three-kingdoms.json) |
+| War of the Twins | 156716 | [156716-war-of-the-twins.json](./156716-war-of-the-twins.json) |
 | War of the Western Deep | 310069 | [310069-war-of-the-western-deep.json](./310069-war-of-the-western-deep.json) |
 | War of the Worlds | 333949 | [333949-war-of-the-worlds.json](./333949-war-of-the-worlds.json) |
 | War of the Zombie | 90516 | [90516-war-of-the-zombie.json](./90516-war-of-the-zombie.json) |
@@ -4539,6 +4540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Poker Tour | 23148 | [23148-world-poker-tour.json](./23148-world-poker-tour.json) |
 | World Poker Tour: Texas Hold 'Em | 85498 | [85498-world-poker-tour-texas-hold-em.json](./85498-world-poker-tour-texas-hold-em.json) |
 | World Pole Gaiden Rise! Mark of the Deck 2: Sanguine & Melancholia | 278461 | [278461-world-pole-gaiden-rise-mark-of-the-deck-2-sanguine-and-melancholia.json](./278461-world-pole-gaiden-rise-mark-of-the-deck-2-sanguine-and-melancholia.json) |
+| World Process | 156600 | [156600-world-process.json](./156600-world-process.json) |
 | World Quest | 265764 | [265764-world-quest.json](./265764-world-quest.json) |
 | World Racing '95 | 147430 | [147430-world-racing-95.json](./147430-world-racing-95.json) |
 | World Racing 2: Champion Edition | 231399 | [231399-world-racing-2-champion-edition.json](./231399-world-racing-2-champion-edition.json) |
