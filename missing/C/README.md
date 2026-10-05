@@ -1572,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cascade | 380053 | [380053-cascade.json](./380053-cascade.json) |
 | Cascade Theater | 303269 | [303269-cascade-theater.json](./303269-cascade-theater.json) |
 | Cascadia Quest | 154564 | [154564-cascadia-quest.json](./154564-cascadia-quest.json) |
+| Cascading Failure | 155690 | [155690-cascading-failure.json](./155690-cascading-failure.json) |
 | Case | 323550 | [323550-case.json](./323550-case.json) |
 | Case #8 | 18212 | [18212-case-8.json](./18212-case-8.json) |
 | Case 00: The Cannibal Boy | 150093 | [150093-case-00-the-cannibal-boy.json](./150093-case-00-the-cannibal-boy.json) |
@@ -1687,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castaway Soul | 336688 | [336688-castaway-soul.json](./336688-castaway-soul.json) |
 | Castaway Survival In Ocean: Build Your Own Raft, Craft | 409694 | [409694-castaway-survival-in-ocean-build-your-own-raft-craft.json](./409694-castaway-survival-in-ocean-build-your-own-raft-craft.json) |
 | Castaways VR | 120341 | [120341-castaways-vr.json](./120341-castaways-vr.json) |
+| Caste | 155678 | [155678-caste.json](./155678-caste.json) |
 | Caste: The Secret Of Devon | 159777 | [159777-caste-the-secret-of-devon.json](./159777-caste-the-secret-of-devon.json) |
 | Castelian | 295029 | [295029-castelian.json](./295029-castelian.json) |
 | Castellan | 411700 | [411700-castellan.json](./411700-castellan.json) |
