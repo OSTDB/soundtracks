@@ -871,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necro Wars | 127261 | [127261-necro-wars.json](./127261-necro-wars.json) |
 | NecroArcher | 199359 | [199359-necroarcher.json](./199359-necroarcher.json) |
 | Necroblade | 217282 | [217282-necroblade.json](./217282-necroblade.json) |
+| NecroBoy: Path to Evilship | 153006 | [153006-necroboy-path-to-evilship.json](./153006-necroboy-path-to-evilship.json) |
 | Necrobrood | 270845 | [270845-necrobrood.json](./270845-necrobrood.json) |
 | Necrocat | 318009 | [318009-necrocat.json](./318009-necrocat.json) |
 | Necrocrisis | 208427 | [208427-necrocrisis.json](./208427-necrocrisis.json) |
@@ -3432,6 +3433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noema | 403695 | [403695-noema.json](./403695-noema.json) |
 | Noematica: Digital Dollhouse | 409772 | [409772-noematica-digital-dollhouse.json](./409772-noematica-digital-dollhouse.json) |
 | Noesis | 220611 | [220611-noesis.json](./220611-noesis.json) |
+| Noesis II | 152993 | [152993-noesis-ii.json](./152993-noesis-ii.json) |
 | Nofland Story | 220304 | [220304-nofland-story.json](./220304-nofland-story.json) |
 | NoFlash | 367023 | [367023-noflash.json](./367023-noflash.json) |
 | Nofrills Solitaire | 169875 | [169875-nofrills-solitaire.json](./169875-nofrills-solitaire.json) |
