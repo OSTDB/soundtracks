@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld: The Oddbox | 121444 | [121444-oddworld-the-oddbox.json](./121444-oddworld-the-oddbox.json) |
 | Oddy's Lost and Found | 257071 | [257071-oddys-lost-and-found.json](./257071-oddys-lost-and-found.json) |
 | Oddyssey: Your Space, Your Way | 163736 | [163736-oddyssey-your-space-your-way.json](./163736-oddyssey-your-space-your-way.json) |
+| OddyTree | 134987 | [134987-oddytree.json](./134987-oddytree.json) |
 | Oddyverse | 307709 | [307709-oddyverse.json](./307709-oddyverse.json) |
 | Ode of Resurrection | 315489 | [315489-ode-of-resurrection.json](./315489-ode-of-resurrection.json) |
 | Ode to a Moon | 111059 | [111059-ode-to-a-moon.json](./111059-ode-to-a-moon.json) |
@@ -965,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ominous Presence | 252725 | [252725-ominous-presence.json](./252725-ominous-presence.json) |
 | Ominous Recall | 317382 | [317382-ominous-recall.json](./317382-ominous-recall.json) |
 | Ominous Tales: The Forsaken Isle - Collector's Edition | 283839 | [283839-ominous-tales-the-forsaken-isle-collectors-edition.json](./283839-ominous-tales-the-forsaken-isle-collectors-edition.json) |
+| Ominous! | 135069 | [135069-ominous.json](./135069-ominous.json) |
 | Omise de Tensyu | 138249 | [138249-omise-de-tensyu.json](./138249-omise-de-tensyu.json) |
 | Omizu no Hanamichi | 257113 | [257113-omizu-no-hanamichi.json](./257113-omizu-no-hanamichi.json) |
 | Ommatophilia | 288833 | [288833-ommatophilia.json](./288833-ommatophilia.json) |
@@ -2064,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
 | Orbifall | 379875 | [379875-orbifall.json](./379875-orbifall.json) |
 | Orbion | 370331 | [370331-orbion.json](./370331-orbion.json) |
+| Orbis - Throw them all! | 134980 | [134980-orbis-throw-them-all.json](./134980-orbis-throw-them-all.json) |
 | Orbis Fractura | 368587 | [368587-orbis-fractura.json](./368587-orbis-fractura.json) |
 | Orbisia | 197129 | [197129-orbisia.json](./197129-orbisia.json) |
 | Orbit | 315019 | [315019-orbit.json](./315019-orbit.json) |
