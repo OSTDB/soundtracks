@@ -4008,6 +4008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Runner | 233250 | [233250-ridge-runner.json](./233250-ridge-runner.json) |
 | Ridgewood Road | 177397 | [177397-ridgewood-road.json](./177397-ridgewood-road.json) |
 | Ridiculous Bombing Game | 126950 | [126950-ridiculous-bombing-game.json](./126950-ridiculous-bombing-game.json) |
+| Ridiculous Catapult Simulator | 120134 | [120134-ridiculous-catapult-simulator.json](./120134-ridiculous-catapult-simulator.json) |
 | Ridiculous Fishing | 5635 | [5635-ridiculous-fishing.json](./5635-ridiculous-fishing.json) |
 | Ridiculous Glitching | 332639 | [332639-ridiculous-glitching.json](./332639-ridiculous-glitching.json) |
 | Ridiculous RPG | 232041 | [232041-ridiculous-rpg.json](./232041-ridiculous-rpg.json) |
@@ -5975,6 +5976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooster Booster 3D | 410945 | [410945-rooster-booster-3d.json](./410945-rooster-booster-3d.json) |
 | Rooster II | 62696 | [62696-rooster-ii.json](./62696-rooster-ii.json) |
 | Rooster Rampage | 150285 | [150285-rooster-rampage.json](./150285-rooster-rampage.json) |
+| Rooster Wars Tactic | 120235 | [120235-rooster-wars-tactic.json](./120235-rooster-wars-tactic.json) |
 | Rooster: Princess Rescue | 409558 | [409558-rooster-princess-rescue.json](./409558-rooster-princess-rescue.json) |
 | Root | 139145 | [139145-root.json](./139145-root.json) |
 | Root | 24036 | [24036-root.json](./24036-root.json) |
