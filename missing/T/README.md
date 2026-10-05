@@ -13627,6 +13627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom and Jerry in House Trap | 368636 | [368636-tom-and-jerry-in-house-trap.json](./368636-tom-and-jerry-in-house-trap.json) |
 | Tom and Jerry in War of the Whiskers | 2650 | [2650-tom-and-jerry-in-war-of-the-whiskers.json](./2650-tom-and-jerry-in-war-of-the-whiskers.json) |
 | Tom and Jerry Tales | 8027 | [8027-tom-and-jerry-tales.json](./8027-tom-and-jerry-tales.json) |
+| Tom and Jerry: Chase | 137415 | [137415-tom-and-jerry-chase.json](./137415-tom-and-jerry-chase.json) |
 | Tom and Jerry: Frantic Antics! | 307061 | [307061-tom-and-jerry-frantic-antics.json](./307061-tom-and-jerry-frantic-antics.json) |
 | Tom and Jerry: Refriger-Raiders | 355622 | [355622-tom-and-jerry-refriger-raiders.json](./355622-tom-and-jerry-refriger-raiders.json) |
 | Tom and Jerry: The Movie | 8043 | [8043-tom-and-jerry-the-movie.json](./8043-tom-and-jerry-the-movie.json) |
@@ -17998,6 +17999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TwinBee Da!! | 282567 | [282567-twinbee-da.json](./282567-twinbee-da.json) |
 | TwinBee Portable | 42767 | [42767-twinbee-portable.json](./42767-twinbee-portable.json) |
 | TwinBee RPG | 149977 | [149977-twinbee-rpg.json](./149977-twinbee-rpg.json) |
+| TwinBee Yahho!: Fushigi no Kuni de Ooabare!! | 137420 | [137420-twinbee-yahho-fushigi-no-kuni-de-ooabare.json](./137420-twinbee-yahho-fushigi-no-kuni-de-ooabare.json) |
 | Twincantation | 355017 | [355017-twincantation.json](./355017-twincantation.json) |
 | TwinCop | 51594 | [51594-twincop.json](./51594-twincop.json) |
 | Twine3D | 81782 | [81782-twine3d.json](./81782-twine3d.json) |
