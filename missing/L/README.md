@@ -1612,7 +1612,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legio | 91523 | [91523-legio.json](./91523-legio.json) |
 | Legion | 18839 | [18839-legion.json](./18839-legion.json) |
 | Legion | 319203 | [319203-legion.json](./319203-legion.json) |
+| Legion Arena | 125179 | [125179-legion-arena.json](./125179-legion-arena.json) |
 | Legion Draft | 395867 | [395867-legion-draft.json](./395867-legion-draft.json) |
+| Legion Gold | 125180 | [125180-legion-gold.json](./125180-legion-gold.json) |
 | Legion Hunters | 414491 | [414491-legion-hunters.json](./414491-legion-hunters.json) |
 | Legion of Evil | 346775 | [346775-legion-of-evil.json](./346775-legion-of-evil.json) |
 | Legion of Judgment: Fallen Angel | 238755 | [238755-legion-of-judgment-fallen-angel.json](./238755-legion-of-judgment-fallen-angel.json) |
@@ -1642,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Arthouse | 117005 | [117005-lego-arthouse.json](./117005-lego-arthouse.json) |
 | LEGO Batman 2: DC Super Heroes | 6836 | [6836-lego-batman-2-dc-super-heroes.json](./6836-lego-batman-2-dc-super-heroes.json) |
 | LEGO Batman 3: Beyond Gotham - Dark Knight | 266232 | [266232-lego-batman-3-beyond-gotham-dark-knight.json](./266232-lego-batman-3-beyond-gotham-dark-knight.json) |
+| LEGO Batman Trilogy | 125173 | [125173-lego-batman-trilogy.json](./125173-lego-batman-trilogy.json) |
 | LEGO Batman: Legacy of the Dark Knight - Arkham Trilogy Pack | 401703 | [401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json](./401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json) |
 | LEGO Batman: Legacy of the Dark Knight - Batman Beyond Pack | 404392 | [404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json](./404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json) |
 | LEGO Batman: Legacy of the Dark Knight - Party Music Pack | 404395 | [404395-lego-batman-legacy-of-the-dark-knight-party-music-pack.json](./404395-lego-batman-legacy-of-the-dark-knight-party-music-pack.json) |
