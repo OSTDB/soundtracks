@@ -3386,6 +3386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Puzzle Collection: The Dutch Masters | 209964 | [209964-picture-puzzle-collection-the-dutch-masters.json](./209964-picture-puzzle-collection-the-dutch-masters.json) |
 | Picture the Link | 26828 | [26828-picture-the-link.json](./26828-picture-the-link.json) |
 | Pictureka! Museum Mayhem | 59969 | [59969-pictureka-museum-mayhem.json](./59969-pictureka-museum-mayhem.json) |
+| Pictures of Life | 120748 | [120748-pictures-of-life.json](./120748-pictures-of-life.json) |
 | Piczle Cells | 150262 | [150262-piczle-cells.json](./150262-piczle-cells.json) |
 | Piczle Colors | 114419 | [114419-piczle-colors.json](./114419-piczle-colors.json) |
 | Piczle Cross Adventure + PictoQuest: The Cursed Grids | 146140 | [146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json](./146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json) |
@@ -4712,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixiel: Dreadwager | 277424 | [277424-pixiel-dreadwager.json](./277424-pixiel-dreadwager.json) |
 | Pixiescape | 217389 | [217389-pixiescape.json](./217389-pixiescape.json) |
 | PixlCross | 58765 | [58765-pixlcross.json](./58765-pixlcross.json) |
+| PixoCities | 120718 | [120718-pixocities.json](./120718-pixocities.json) |
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
 | Pixplode | 36494 | [36494-pixplode.json](./36494-pixplode.json) |
 | Pixsaw | 279112 | [279112-pixsaw.json](./279112-pixsaw.json) |
@@ -9393,6 +9395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple Cape Man | 195514 | [195514-purple-cape-man.json](./195514-purple-cape-man.json) |
 | Purple Chicken Spaceman | 117777 | [117777-purple-chicken-spaceman.json](./117777-purple-chicken-spaceman.json) |
 | Purple Fantasy | 213610 | [213610-purple-fantasy.json](./213610-purple-fantasy.json) |
+| Purple Noise Echo | 120711 | [120711-purple-noise-echo.json](./120711-purple-noise-echo.json) |
 | Purple Pink Chinese Food | 299237 | [299237-purple-pink-chinese-food.json](./299237-purple-pink-chinese-food.json) |
 | Purple Pink Coloring Book | 299282 | [299282-purple-pink-coloring-book.json](./299282-purple-pink-coloring-book.json) |
 | Purple Pink English | 299284 | [299284-purple-pink-english.json](./299284-purple-pink-english.json) |
