@@ -4687,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holdfast: Nations At War - Napoleon's Rise | 286538 | [286538-holdfast-nations-at-war-napoleons-rise.json](./286538-holdfast-nations-at-war-napoleons-rise.json) |
 | Holding Keys | 255839 | [255839-holding-keys.json](./255839-holding-keys.json) |
 | Holding Pattern | 389591 | [389591-holding-pattern.json](./389591-holding-pattern.json) |
+| Holdover | 125864 | [125864-holdover.json](./125864-holdover.json) |
 | Hole | 310931 | [310931-hole.json](./310931-hole.json) |
 | Hole ASMR | 399641 | [399641-hole-asmr.json](./399641-hole-asmr.json) |
 | Hole Digging Game | 251719 | [251719-hole-digging-game.json](./251719-hole-digging-game.json) |
