@@ -1842,6 +1842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technōs Collection I | 130692 | [130692-technos-collection-i.json](./130692-technos-collection-i.json) |
 | TechnoSorcery | 333610 | [333610-technosorcery.json](./333610-technosorcery.json) |
 | Technosphere Reload | 116829 | [116829-technosphere-reload.json](./116829-technosphere-reload.json) |
+| TechnoTsunami | 132601 | [132601-technotsunami.json](./132601-technotsunami.json) |
 | Technuclear | 180812 | [180812-technuclear.json](./180812-technuclear.json) |
 | Techtonica | 194465 | [194465-techtonica.json](./194465-techtonica.json) |
 | TechWars | 47562 | [47562-techwars.json](./47562-techwars.json) |
@@ -3124,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Sinbad | 14226 | [14226-the-adventures-of-sinbad.json](./14226-the-adventures-of-sinbad.json) |
 | The Adventures of Sir Kicksalot | 270172 | [270172-the-adventures-of-sir-kicksalot.json](./270172-the-adventures-of-sir-kicksalot.json) |
 | The Adventures of Snacky | 225104 | [225104-the-adventures-of-snacky.json](./225104-the-adventures-of-snacky.json) |
+| The Adventures of Spunk Dodgers and Splat | 132569 | [132569-the-adventures-of-spunk-dodgers-and-splat.json](./132569-the-adventures-of-spunk-dodgers-and-splat.json) |
 | The Adventures of Square | 18284 | [18284-the-adventures-of-square.json](./18284-the-adventures-of-square.json) |
 | The Adventures of Star Saver | 7745 | [7745-the-adventures-of-star-saver.json](./7745-the-adventures-of-star-saver.json) |
 | The Adventures of Team Australia | 111171 | [111171-the-adventures-of-team-australia.json](./111171-the-adventures-of-team-australia.json) |
@@ -4146,6 +4148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Copper Age | 217913 | [217913-the-copper-age.json](./217913-the-copper-age.json) |
 | The Copper Canyon Dixie Dash | 144884 | [144884-the-copper-canyon-dixie-dash.json](./144884-the-copper-canyon-dixie-dash.json) |
 | The Copperfield Department | 326967 | [326967-the-copperfield-department.json](./326967-the-copperfield-department.json) |
+| The Core Message | 132570 | [132570-the-core-message.json](./132570-the-core-message.json) |
 | The Cork | 137954 | [137954-the-cork.json](./137954-the-cork.json) |
 | The Corn Maze: Rebirth | 362289 | [362289-the-corn-maze-rebirth.json](./362289-the-corn-maze-rebirth.json) |
 | The Corner Cafe | 390184 | [390184-the-corner-cafe.json](./390184-the-corner-cafe.json) |
@@ -16470,6 +16473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trashman | 23054 | [23054-trashman.json](./23054-trashman.json) |
 | Trashmania Trilogy | 61060 | [61060-trashmania-trilogy.json](./61060-trashmania-trilogy.json) |
 | Trashmorfers | 241986 | [241986-trashmorfers.json](./241986-trashmorfers.json) |
+| Trashpunk | 132687 | [132687-trashpunk.json](./132687-trashpunk.json) |
 | Trashville | 29546 | [29546-trashville.json](./29546-trashville.json) |
 | Trashyard | 163192 | [163192-trashyard.json](./163192-trashyard.json) |
 | Tratel64 | 75207 | [75207-tratel64.json](./75207-tratel64.json) |
@@ -18186,6 +18190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Till Midnight | 122169 | [122169-two-till-midnight.json](./122169-two-till-midnight.json) |
 | Two Torn Towers | 279717 | [279717-two-torn-towers.json](./279717-two-torn-towers.json) |
 | Two Way | 25904 | [25904-two-way.json](./25904-two-way.json) |
+| Two Weeks Game | 132571 | [132571-two-weeks-game.json](./132571-two-weeks-game.json) |
 | Two Worlds | 177549 | [177549-two-worlds.json](./177549-two-worlds.json) |
 | Two Worlds Connected | 181359 | [181359-two-worlds-connected.json](./181359-two-worlds-connected.json) |
 | Two Worlds II Castle Defense | 28986 | [28986-two-worlds-ii-castle-defense.json](./28986-two-worlds-ii-castle-defense.json) |
