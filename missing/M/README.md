@@ -4573,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meli | 381846 | [381846-meli.json](./381846-meli.json) |
 | Méli-Mélo: L'Odyssée de la Crème de Marrons | 357357 | [357357-meli-melo-lodyssee-de-la-creme-de-marrons.json](./357357-meli-melo-lodyssee-de-la-creme-de-marrons.json) |
 | Melia Keys In... Quantum Decade | 280414 | [280414-melia-keys-in-quantum-decade.json](./280414-melia-keys-in-quantum-decade.json) |
+| Meliora's Detective Simulator | 123984 | [123984-melioras-detective-simulator.json](./123984-melioras-detective-simulator.json) |
 | Melissa K. and the Heart of Gold: Collector's Edition | 36235 | [36235-melissa-k-and-the-heart-of-gold-collectors-edition.json](./36235-melissa-k-and-the-heart-of-gold-collectors-edition.json) |
 | Melkhior's Tower | 413811 | [413811-melkhiors-tower.json](./413811-melkhiors-tower.json) |
 | Melkis: Spend With You the Sweet Days Like Fairy Tales | 222241 | [222241-melkis-spend-with-you-the-sweet-days-like-fairy-tales.json](./222241-melkis-spend-with-you-the-sweet-days-like-fairy-tales.json) |
@@ -8268,6 +8269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monochromality | 346170 | [346170-monochromality.json](./346170-monochromality.json) |
 | Monochromaniacs | 124147 | [124147-monochromaniacs.json](./124147-monochromaniacs.json) |
 | Monochromatic Aberration | 417673 | [417673-monochromatic-aberration.json](./417673-monochromatic-aberration.json) |
+| Monochrome Blues | 123993 | [123993-monochrome-blues.json](./123993-monochrome-blues.json) |
 | Monochrome Boo & Baby Boo: Kururin Boo | 273419 | [273419-monochrome-boo-and-baby-boo-kururin-boo.json](./273419-monochrome-boo-and-baby-boo-kururin-boo.json) |
 | Monochrome Echoes: Black | 410318 | [410318-monochrome-echoes-black.json](./410318-monochrome-echoes-black.json) |
 | Monochrome Echoes: White | 331114 | [331114-monochrome-echoes-white.json](./331114-monochrome-echoes-white.json) |
@@ -9147,6 +9149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morningstar | 415929 | [415929-morningstar.json](./415929-morningstar.json) |
 | Morningtide Motel | 318970 | [318970-morningtide-motel.json](./318970-morningtide-motel.json) |
 | Moroi | 137050 | [137050-moroi.json](./137050-moroi.json) |
+| Morok | 123972 | [123972-morok.json](./123972-morok.json) |
 | Morph Animals | 266772 | [266772-morph-animals.json](./266772-morph-animals.json) |
 | Morph Space | 370153 | [370153-morph-space.json](./370153-morph-space.json) |
 | Morphatrons Alien | 198825 | [198825-morphatrons-alien.json](./198825-morphatrons-alien.json) |
