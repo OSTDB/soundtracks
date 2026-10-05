@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lasting Solstice | 130918 | [130918-lasting-solstice.json](./130918-lasting-solstice.json) |
 | Lastronaut | 344933 | [344933-lastronaut.json](./344933-lastronaut.json) |
 | LastSafeZone | 265131 | [265131-lastsafezone.json](./265131-lastsafezone.json) |
+| LastShot | 128338 | [128338-lastshot.json](./128338-lastshot.json) |
 | LastStanding | 413750 | [413750-laststanding.json](./413750-laststanding.json) |
 | Latale | 94907 | [94907-latale.json](./94907-latale.json) |
 | Lataman | 188495 | [188495-lataman.json](./188495-lataman.json) |
@@ -2301,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Li'l Taffer | 323377 | [323377-lil-taffer.json](./323377-lil-taffer.json) |
 | Liam FitzRoy Kills Everyone: The Game Part Zero | 278746 | [278746-liam-fitzroy-kills-everyone-the-game-part-zero.json](./278746-liam-fitzroy-kills-everyone-the-game-part-zero.json) |
 | Liam's Journey | 211686 | [211686-liams-journey.json](./211686-liams-journey.json) |
+| Lián Yīxiē Xiǎo Qīngxīn de Lièqí Gùshì | 128313 | [128313-lian-yixie-xiao-qingxin-de-lieqi-gushi.json](./128313-lian-yixie-xiao-qingxin-de-lieqi-gushi.json) |
 | Liàn yǔ wèi xiē zhī yǔ | 367448 | [367448-lian-yu-wei-xie-zhi-yu.json](./367448-lian-yu-wei-xie-zhi-yu.json) |
 | Lianhai Billiards Club | 216785 | [216785-lianhai-billiards-club.json](./216785-lianhai-billiards-club.json) |
 | Liar Game | 334328 | [334328-liar-game.json](./334328-liar-game.json) |
@@ -2757,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like x Love: Totsukawa Hikaru | 397225 | [397225-like-x-love-totsukawa-hikaru.json](./397225-like-x-love-totsukawa-hikaru.json) |
 | Lil Dungeon Wizard | 181166 | [181166-lil-dungeon-wizard.json](./181166-lil-dungeon-wizard.json) |
 | Lil Gator Game | 145796 | [145796-lil-gator-game.json](./145796-lil-gator-game.json) |
+| Lil Ghost Garden | 128426 | [128426-lil-ghost-garden.json](./128426-lil-ghost-garden.json) |
 | Lil Guy Resort | 380405 | [380405-lil-guy-resort.json](./380405-lil-guy-resort.json) |
 | Lil Guys | 322992 | [322992-lil-guys.json](./322992-lil-guys.json) |
 | Lil Johnny Goes Home | 258213 | [258213-lil-johnny-goes-home.json](./258213-lil-johnny-goes-home.json) |
@@ -4982,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LSD: The Game | 116998 | [116998-lsd-the-game.json](./116998-lsd-the-game.json) |
 | LSI Puzzle: Last One | 385752 | [385752-lsi-puzzle-last-one.json](./385752-lsi-puzzle-last-one.json) |
 | Lu Bu Maker | 104902 | [104902-lu-bu-maker.json](./104902-lu-bu-maker.json) |
+| Lu Dajishen II | 128321 | [128321-lu-dajishen-ii.json](./128321-lu-dajishen-ii.json) |
 | Lu Dreams | 376606 | [376606-lu-dreams.json](./376606-lu-dreams.json) |
 | Lu:Cid | 229649 | [229649-lu-cid.json](./229649-lu-cid.json) |
 | Lu[Idle] | 321738 | [321738-lu-idle.json](./321738-lu-idle.json) |
