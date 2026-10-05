@@ -4711,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Druid | 240759 | [240759-the-druid.json](./240759-the-druid.json) |
 | The Duchess Affair | 313886 | [313886-the-duchess-affair.json](./313886-the-duchess-affair.json) |
 | The Duck Amikaze Strikes Back | 344544 | [344544-the-duck-amikaze-strikes-back.json](./344544-the-duck-amikaze-strikes-back.json) |
+| The Duck Fell | 140941 | [140941-the-duck-fell.json](./140941-the-duck-fell.json) |
 | The Duck Pond | 310220 | [310220-the-duck-pond.json](./310220-the-duck-pond.json) |
 | The Duck Song Game | 205616 | [205616-the-duck-song-game.json](./205616-the-duck-song-game.json) |
 | The Ducksuckers | 195245 | [195245-the-ducksuckers.json](./195245-the-ducksuckers.json) |
@@ -16825,6 +16826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trickier Wii | 394343 | [394343-trickier-wii.json](./394343-trickier-wii.json) |
 | Tricking 0 | 195187 | [195187-tricking-0.json](./195187-tricking-0.json) |
 | Trickle Greenweed | 291030 | [291030-trickle-greenweed.json](./291030-trickle-greenweed.json) |
+| Tricks N Treats | 140922 | [140922-tricks-n-treats.json](./140922-tricks-n-treats.json) |
 | Trickshot | 206667 | [206667-trickshot.json](./206667-trickshot.json) |
 | TrickShot | 147406 | [147406-trickshot.json](./147406-trickshot.json) |
 | Trickshot Tactics | 382753 | [382753-trickshot-tactics.json](./382753-trickshot-tactics.json) |
