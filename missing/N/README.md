@@ -3915,6 +3915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova: Space Armada | 319812 | [319812-nova-space-armada.json](./319812-nova-space-armada.json) |
 | Nova: The Birth | 138830 | [138830-nova-the-birth.json](./138830-nova-the-birth.json) |
 | Nova's Adventure | 316397 | [316397-novas-adventure.json](./316397-novas-adventure.json) |
+| Novalance | 128954 | [128954-novalance.json](./128954-novalance.json) |
 | Novalight Tetris | 73858 | [73858-novalight-tetris.json](./73858-novalight-tetris.json) |
 | Novantica | 265312 | [265312-novantica.json](./265312-novantica.json) |
 | Novark | 290510 | [290510-novark.json](./290510-novark.json) |
