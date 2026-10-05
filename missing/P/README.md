@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Hard Tycoon | 23180 | [23180-party-hard-tycoon.json](./23180-party-hard-tycoon.json) |
 | Party Hard: High Crimes | 171630 | [171630-party-hard-high-crimes.json](./171630-party-hard-high-crimes.json) |
 | Party Harvest | 365751 | [365751-party-harvest.json](./365751-party-harvest.json) |
+| Party Host 85 | 153009 | [153009-party-host-85.json](./153009-party-host-85.json) |
 | Party Jousting | 33608 | [33608-party-jousting.json](./33608-party-jousting.json) |
 | Party Madness | 370323 | [370323-party-madness.json](./370323-party-madness.json) |
 | Party Makeover Salon | 87923 | [87923-party-makeover-salon.json](./87923-party-makeover-salon.json) |
@@ -1732,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paug | 153874 | [153874-paug.json](./153874-paug.json) |
 | Paul | 387499 | [387499-paul.json](./387499-paul.json) |
 | Paul Quest Gold Edition | 325699 | [325699-paul-quest-gold-edition.json](./325699-paul-quest-gold-edition.json) |
+| Paul: vs. The CIA Gold | 153023 | [153023-paul-vs-the-cia-gold.json](./153023-paul-vs-the-cia-gold.json) |
 | Pauli's Adventure Island | 264101 | [264101-paulis-adventure-island.json](./264101-paulis-adventure-island.json) |
 | Paulo | 86056 | [86056-paulo.json](./86056-paulo.json) |
 | PaulPaul - Act 1 | 105142 | [105142-paulpaul-act-1.json](./105142-paulpaul-act-1.json) |
@@ -4183,6 +4185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixasso | 164868 | [164868-pixasso.json](./164868-pixasso.json) |
 | Pixasso 2 | 165703 | [165703-pixasso-2.json](./165703-pixasso-2.json) |
 | Pixasso 3 | 166624 | [166624-pixasso-3.json](./166624-pixasso-3.json) |
+| Pixel Adventure | 152995 | [152995-pixel-adventure.json](./152995-pixel-adventure.json) |
 | Pixel Adventure: Exploration | 96005 | [96005-pixel-adventure-exploration.json](./96005-pixel-adventure-exploration.json) |
 | Pixel Art Academy: Learn Mode | 270752 | [270752-pixel-art-academy-learn-mode.json](./270752-pixel-art-academy-learn-mode.json) |
 | Pixel Art Bundle Vol. 1 | 132864 | [132864-pixel-art-bundle-vol-1.json](./132864-pixel-art-bundle-vol-1.json) |
@@ -8621,6 +8624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Promise | 277498 | [277498-promise.json](./277498-promise.json) |
 | Promise Me, You'll Live | 280803 | [280803-promise-me-youll-live.json](./280803-promise-me-youll-live.json) |
 | Promise of Lingyun | 255120 | [255120-promise-of-lingyun.json](./255120-promise-of-lingyun.json) |
+| Promise of Wizard | 153007 | [153007-promise-of-wizard.json](./153007-promise-of-wizard.json) |
 | Promised Harvest | 418712 | [418712-promised-harvest.json](./418712-promised-harvest.json) |
 | Promises to Keep | 309092 | [309092-promises-to-keep.json](./309092-promises-to-keep.json) |
 | Promized Land: Outer Town | 326194 | [326194-promized-land-outer-town.json](./326194-promized-land-outer-town.json) |
