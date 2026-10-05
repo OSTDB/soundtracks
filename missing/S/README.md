@@ -12038,6 +12038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Hero | 311265 | [311265-sports-hero.json](./311265-sports-hero.json) |
 | Sports Illustrated: Championship Football & Baseball | 273410 | [273410-sports-illustrated-championship-football-and-baseball.json](./273410-sports-illustrated-championship-football-and-baseball.json) |
 | Sports Pad Football | 46122 | [46122-sports-pad-football.json](./46122-sports-pad-football.json) |
+| Sports Paradise VR | 157472 | [157472-sports-paradise-vr.json](./157472-sports-paradise-vr.json) |
 | Sports Party | 110057 | [110057-sports-party.json](./110057-sports-party.json) |
 | Sports Pinball Bundle | 153837 | [153837-sports-pinball-bundle.json](./153837-sports-pinball-bundle.json) |
 | Sports Sports | 366371 | [366371-sports-sports.json](./366371-sports-sports.json) |
