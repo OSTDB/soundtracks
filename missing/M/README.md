@@ -10322,6 +10322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Puzzle | 256543 | [256543-music-puzzle.json](./256543-music-puzzle.json) |
 | Music Quiz | 210110 | [210110-music-quiz.json](./210110-music-quiz.json) |
 | Music Quiz Party | 173105 | [173105-music-quiz-party.json](./173105-music-quiz-party.json) |
+| Music Racer 2000 | 167568 | [167568-music-racer-2000.json](./167568-music-racer-2000.json) |
 | Music Racing | 220178 | [220178-music-racing.json](./220178-music-racing.json) |
 | Music Room | 143475 | [143475-music-room.json](./143475-music-room.json) |
 | Music Run: Hall of the Mountain King | 266249 | [266249-music-run-hall-of-the-mountain-king.json](./266249-music-run-hall-of-the-mountain-king.json) |
