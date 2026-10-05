@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I've Seen Everything: More Persons | 188486 | [188486-ive-seen-everything-more-persons.json](./188486-ive-seen-everything-more-persons.json) |
 | I've Seen Everything: More Singers | 188483 | [188483-ive-seen-everything-more-singers.json](./188483-ive-seen-everything-more-singers.json) |
 | I’ve Transmigrated as the Supreme Villainess... But I Have No Idea WTF I’m Supposed to Do! | 177511 | [177511-i-ve-transmigrated-as-the-supreme-villainess-but-i-have-no-idea-wtf-i-m-supposed-to-do.json](./177511-i-ve-transmigrated-as-the-supreme-villainess-but-i-have-no-idea-wtf-i-m-supposed-to-do.json) |
+| I"s Pure | 137957 | [137957-i-s-pure.json](./137957-i-s-pure.json) |
 | I*Chu: Chibi Edition | 292142 | [292142-i-chu-chibi-edition.json](./292142-i-chu-chibi-edition.json) |
 | I/O | 64950 | [64950-i-o.json](./64950-i-o.json) |
 | I`m Isekai Hero | 296935 | [296935-i-m-isekai-hero.json](./296935-i-m-isekai-hero.json) |
