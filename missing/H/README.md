@@ -4855,6 +4855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holosaga: Invasion of the HoloX | 298148 | [298148-holosaga-invasion-of-the-holox.json](./298148-holosaga-invasion-of-the-holox.json) |
 | Holoscope: Another Day Another Data | 176773 | [176773-holoscope-another-day-another-data.json](./176773-holoscope-another-day-another-data.json) |
 | HoloSona5 | 340479 | [340479-holosona5.json](./340479-holosona5.json) |
+| HoloSprint | 127706 | [127706-holosprint.json](./127706-holosprint.json) |
 | Holosseum | 40347 | [40347-holosseum.json](./40347-holosseum.json) |
 | HoloTrials: Case Covered | 409620 | [409620-holotrials-case-covered.json](./409620-holotrials-case-covered.json) |
 | Holotyping | 210245 | [210245-holotyping.json](./210245-holotyping.json) |
@@ -5274,6 +5275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop Spring Girl | 296658 | [296658-hop-spring-girl.json](./296658-hop-spring-girl.json) |
 | Hop Step Idol | 202400 | [202400-hop-step-idol.json](./202400-hop-step-idol.json) |
 | Hop Step Sing VR Live: Hop Summer Tour 2020 | 149684 | [149684-hop-step-sing-vr-live-hop-summer-tour-2020.json](./149684-hop-step-sing-vr-live-hop-summer-tour-2020.json) |
+| Hop Step Sing! Astral Piece | 127818 | [127818-hop-step-sing-astral-piece.json](./127818-hop-step-sing-astral-piece.json) |
 | Hop Step Sing! Happy People | 165713 | [165713-hop-step-sing-happy-people.json](./165713-hop-step-sing-happy-people.json) |
 | Hop Step Sing! Kiss x Kiss x Kiss | 43182 | [43182-hop-step-sing-kiss-x-kiss-x-kiss.json](./43182-hop-step-sing-kiss-x-kiss-x-kiss.json) |
 | Hop Step Sing! Summer Live 2023 | 340483 | [340483-hop-step-sing-summer-live-2023.json](./340483-hop-step-sing-summer-live-2023.json) |
