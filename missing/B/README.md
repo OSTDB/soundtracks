@@ -3477,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benny's Backrooms | 303109 | [303109-bennys-backrooms.json](./303109-bennys-backrooms.json) |
 | Bent Oak Island | 240719 | [240719-bent-oak-island.json](./240719-bent-oak-island.json) |
 | Bent on Destruction | 195648 | [195648-bent-on-destruction.json](./195648-bent-on-destruction.json) |
+| BenTen Puzzle | 118883 | [118883-benten-puzzle.json](./118883-benten-puzzle.json) |
 | Bentley Bear’s Crystal Quest | 314440 | [314440-bentley-bear-s-crystal-quest.json](./314440-bentley-bear-s-crystal-quest.json) |
 | Bento Bugs | 329354 | [329354-bento-bugs.json](./329354-bento-bugs.json) |
 | Bento no Subarashisa wo Ano 2-do 3-do: Nama-ham to Yaki-udon Hen | 336179 | [336179-bento-no-subarashisa-wo-ano-2-do-3-do-nama-ham-to-yaki-udon-hen.json](./336179-bento-no-subarashisa-wo-ano-2-do-3-do-nama-ham-to-yaki-udon-hen.json) |
@@ -5385,6 +5386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleb | 346792 | [346792-bleb.json](./346792-bleb.json) |
 | Bleed | 9706 | [9706-bleed.json](./9706-bleed.json) |
 | Bleed + Bleed 2: Limited Edition | 167059 | [167059-bleed-bleed-2-limited-edition.json](./167059-bleed-bleed-2-limited-edition.json) |
+| Bleed 2: Deluxe Edition | 118743 | [118743-bleed-2-deluxe-edition.json](./118743-bleed-2-deluxe-edition.json) |
 | Bleed Complete Bundle | 118854 | [118854-bleed-complete-bundle.json](./118854-bleed-complete-bundle.json) |
 | Bleed Runner | 276237 | [276237-bleed-runner.json](./276237-bleed-runner.json) |
 | Bleed: Deluxe Edition | 118954 | [118954-bleed-deluxe-edition.json](./118954-bleed-deluxe-edition.json) |
@@ -7141,6 +7143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 2: How Marcus Saved Mercenary Day | 13926 | [13926-borderlands-2-how-marcus-saved-mercenary-day.json](./13926-borderlands-2-how-marcus-saved-mercenary-day.json) |
 | Borderlands 2: Mad Moxxi and the Wedding Day Massacre | 13927 | [13927-borderlands-2-mad-moxxi-and-the-wedding-day-massacre.json](./13927-borderlands-2-mad-moxxi-and-the-wedding-day-massacre.json) |
 | Borderlands 2: Mr. Torgue's Campaign of Carnage | 13921 | [13921-borderlands-2-mr-torgues-campaign-of-carnage.json](./13921-borderlands-2-mr-torgues-campaign-of-carnage.json) |
+| Borderlands 2: Ultimate Edition | 118740 | [118740-borderlands-2-ultimate-edition.json](./118740-borderlands-2-ultimate-edition.json) |
 | Borderlands 3: Bounty of Blood - A Fistful of Redemption | 134100 | [134100-borderlands-3-bounty-of-blood-a-fistful-of-redemption.json](./134100-borderlands-3-bounty-of-blood-a-fistful-of-redemption.json) |
 | Borderlands 3: Deluxe Edition | 116995 | [116995-borderlands-3-deluxe-edition.json](./116995-borderlands-3-deluxe-edition.json) |
 | Borderlands 3: Designer's Cut | 259759 | [259759-borderlands-3-designers-cut.json](./259759-borderlands-3-designers-cut.json) |
@@ -8248,6 +8251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brewpub Simulator | 213483 | [213483-brewpub-simulator.json](./213483-brewpub-simulator.json) |
 | Brews & Bastards | 265392 | [265392-brews-and-bastards.json](./265392-brews-and-bastards.json) |
 | Brewtopia | 319384 | [319384-brewtopia.json](./319384-brewtopia.json) |
+| BRG's Alice in Wonderland Visual Novel | 118772 | [118772-brgs-alice-in-wonderland-visual-novel.json](./118772-brgs-alice-in-wonderland-visual-novel.json) |
 | Brian Clough's Football Fortunes | 12283 | [12283-brian-cloughs-football-fortunes.json](./12283-brian-cloughs-football-fortunes.json) |
 | Brian Lara Cricket | 94848 | [94848-brian-lara-cricket.json](./94848-brian-lara-cricket.json) |
 | Brian Lara International Cricket 2007 | 6927 | [6927-brian-lara-international-cricket-2007.json](./6927-brian-lara-international-cricket-2007.json) |
