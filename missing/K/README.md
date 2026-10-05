@@ -1134,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick it, Bunny! | 143109 | [143109-kick-it-bunny.json](./143109-kick-it-bunny.json) |
 | Kick Master | 368602 | [368602-kick-master.json](./368602-kick-master.json) |
 | Kick Me! | 293879 | [293879-kick-me.json](./293879-kick-me.json) |
+| Kick of Dungeon | 128324 | [128324-kick-of-dungeon.json](./128324-kick-of-dungeon.json) |
 | Kick Off | 15240 | [15240-kick-off.json](./15240-kick-off.json) |
 | Kick Off 2: Giants of Europe | 80644 | [80644-kick-off-2-giants-of-europe.json](./80644-kick-off-2-giants-of-europe.json) |
 | Kick Off 2: Return to Europe | 71478 | [71478-kick-off-2-return-to-europe.json](./71478-kick-off-2-return-to-europe.json) |
@@ -1872,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Under Fire: Gold | 135820 | [135820-kingdom-under-fire-gold.json](./135820-kingdom-under-fire-gold.json) |
 | Kingdom Under Fire: Heroes | 5882 | [5882-kingdom-under-fire-heroes.json](./5882-kingdom-under-fire-heroes.json) |
 | Kingdom vs Zombies | 133204 | [133204-kingdom-vs-zombies.json](./133204-kingdom-vs-zombies.json) |
+| Kingdom Warrior | 128319 | [128319-kingdom-warrior.json](./128319-kingdom-warrior.json) |
 | Kingdom Warriors | 58240 | [58240-kingdom-warriors.json](./58240-kingdom-warriors.json) |
 | Kingdom Wars | 374769 | [374769-kingdom-wars.json](./374769-kingdom-wars.json) |
 | Kingdom Wars 4: Sultans & Kings | 248821 | [248821-kingdom-wars-4-sultans-and-kings.json](./248821-kingdom-wars-4-sultans-and-kings.json) |
@@ -3388,6 +3390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyukyoku TigerHeli: Toaplan Arcade Garage | 399782 | [399782-kyukyoku-tigerheli-toaplan-arcade-garage.json](./399782-kyukyoku-tigerheli-toaplan-arcade-garage.json) |
 | Kyumori Episode1 | 175985 | [175985-kyumori-episode1.json](./175985-kyumori-episode1.json) |
 | Kyurinaga's Revenge | 25308 | [25308-kyurinagas-revenge.json](./25308-kyurinagas-revenge.json) |
+| Kyushu Jade | 128314 | [128314-kyushu-jade.json](./128314-kyushu-jade.json) |
 | Kyuuketsu Hime Yui: Senyashou | 393601 | [393601-kyuuketsu-hime-yui-senyashou.json](./393601-kyuuketsu-hime-yui-senyashou.json) |
 | Kyuuketsu Kitan Moonties | 413932 | [413932-kyuuketsu-kitan-moonties.json](./413932-kyuuketsu-kitan-moonties.json) |
 | Kyuukyoku Harikiri Stadium | 48309 | [48309-kyuukyoku-harikiri-stadium.json](./48309-kyuukyoku-harikiri-stadium.json) |
