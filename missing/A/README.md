@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Dino Riki | 8741 | [8741-adventures-of-dino-riki.json](./8741-adventures-of-dino-riki.json) |
 | Adventures of Heroes | 65783 | [65783-adventures-of-heroes.json](./65783-adventures-of-heroes.json) |
 | Adventures of Jack: Platformer | 58245 | [58245-adventures-of-jack-platformer.json](./58245-adventures-of-jack-platformer.json) |
+| Adventures of JQ Jones: "Isle of the Serpent Empress" | 132676 | [132676-adventures-of-jq-jones-isle-of-the-serpent-empress.json](./132676-adventures-of-jq-jones-isle-of-the-serpent-empress.json) |
 | Adventures of Julia | 176317 | [176317-adventures-of-julia.json](./176317-adventures-of-julia.json) |
 | Adventures of Lolo 2 | 6472 | [6472-adventures-of-lolo-2.json](./6472-adventures-of-lolo-2.json) |
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
@@ -2901,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aladdin II | 242085 | [242085-aladdin-ii.json](./242085-aladdin-ii.json) |
 | Aladdin Magic Carpet Racing | 296030 | [296030-aladdin-magic-carpet-racing.json](./296030-aladdin-magic-carpet-racing.json) |
 | Aladdin of the Forsaken Lands | 268143 | [268143-aladdin-of-the-forsaken-lands.json](./268143-aladdin-of-the-forsaken-lands.json) |
+| Aladdin: Hidden Objects Game | 132580 | [132580-aladdin-hidden-objects-game.json](./132580-aladdin-hidden-objects-game.json) |
 | Aladdin's Magic Lamp | 14235 | [14235-aladdins-magic-lamp.json](./14235-aladdins-magic-lamp.json) |
 | Aladin & the Enchanted Lamp: Extended Edition | 416859 | [416859-aladin-and-the-enchanted-lamp-extended-edition.json](./416859-aladin-and-the-enchanted-lamp-extended-edition.json) |
 | Alakenisland | 195161 | [195161-alakenisland.json](./195161-alakenisland.json) |
@@ -4872,6 +4874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angle | 396218 | [396218-angle.json](./396218-angle.json) |
 | Angle Me | 232390 | [232390-angle-me.json](./232390-angle-me.json) |
 | Angle of Attack | 16064 | [16064-angle-of-attack.json](./16064-angle-of-attack.json) |
+| Angle Wars | 132598 | [132598-angle-wars.json](./132598-angle-wars.json) |
 | Angler Dangler | 386681 | [386681-angler-dangler.json](./386681-angler-dangler.json) |
 | Angler King | 249778 | [249778-angler-king.json](./249778-angler-king.json) |
 | Angler Quest | 290711 | [290711-angler-quest.json](./290711-angler-quest.json) |
@@ -4964,6 +4967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Zombies | 88844 | [88844-angry-zombies.json](./88844-angry-zombies.json) |
 | Angst | 216203 | [216203-angst.json](./216203-angst.json) |
 | Angst: A Tale of Survival | 320716 | [320716-angst-a-tale-of-survival.json](./320716-angst-a-tale-of-survival.json) |
+| Angstrom Station VR | 132669 | [132669-angstrom-station-vr.json](./132669-angstrom-station-vr.json) |
 | Angular Momentum | 326754 | [326754-angular-momentum.json](./326754-angular-momentum.json) |
 | Anguna: Warriors of Virtue | 49509 | [49509-anguna-warriors-of-virtue.json](./49509-anguna-warriors-of-virtue.json) |
 | Angus Hates Aliens | 33165 | [33165-angus-hates-aliens.json](./33165-angus-hates-aliens.json) |
@@ -5886,6 +5890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse | 14260 | [14260-apocalypse.json](./14260-apocalypse.json) |
 | Apocalypse | 15547 | [15547-apocalypse.json](./15547-apocalypse.json) |
 | Apocalypse | 15598 | [15598-apocalypse.json](./15598-apocalypse.json) |
+| Apocalypse Age: Destruction | 132684 | [132684-apocalypse-age-destruction.json](./132684-apocalypse-age-destruction.json) |
 | Apocalypse Clash City Free: A Cyberpunk Clan War Death Race game | 351032 | [351032-apocalypse-clash-city-free-a-cyberpunk-clan-war-death-race-game.json](./351032-apocalypse-clash-city-free-a-cyberpunk-clan-war-death-race-game.json) |
 | Apocalypse Delivery Service | 304576 | [304576-apocalypse-delivery-service.json](./304576-apocalypse-delivery-service.json) |
 | Apocalypse Express | 327968 | [327968-apocalypse-express.json](./327968-apocalypse-express.json) |
@@ -6015,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appointment with Death | 316831 | [316831-appointment-with-death.json](./316831-appointment-with-death.json) |
 | Appoooh | 39845 | [39845-appoooh.json](./39845-appoooh.json) |
 | Apprentice Arriving | 167599 | [167599-apprentice-arriving.json](./167599-apprentice-arriving.json) |
+| Apprentice Knight-Iona | 132667 | [132667-apprentice-knight-iona.json](./132667-apprentice-knight-iona.json) |
 | Approach Trainer | 14261 | [14261-approach-trainer.json](./14261-approach-trainer.json) |
 | Approaches | 185093 | [185093-approaches.json](./185093-approaches.json) |
 | Approaching Cao Army | 254773 | [254773-approaching-cao-army.json](./254773-approaching-cao-army.json) |
