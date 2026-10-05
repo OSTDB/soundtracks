@@ -1802,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Roar | 408736 | [408736-rebel-roar.json](./408736-rebel-roar.json) |
 | Rebel Tank Solo-Raid | 333131 | [333131-rebel-tank-solo-raid.json](./333131-rebel-tank-solo-raid.json) |
 | Rebel! | 259138 | [259138-rebel.json](./259138-rebel.json) |
+| Rebel! Pure Love Fighters! | 153027 | [153027-rebel-pure-love-fighters.json](./153027-rebel-pure-love-fighters.json) |
 | Rebellion Anthology | 53492 | [53492-rebellion-anthology.json](./53492-rebellion-anthology.json) |
 | Rebellion Corporation | 230970 | [230970-rebellion-corporation.json](./230970-rebellion-corporation.json) |
 | Rebellion Princess | 391330 | [391330-rebellion-princess.json](./391330-rebellion-princess.json) |
@@ -2057,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Egg: High Protein Gluten Free Adventure | 256353 | [256353-red-egg-high-protein-gluten-free-adventure.json](./256353-red-egg-high-protein-gluten-free-adventure.json) |
 | Red Embrace | 86440 | [86440-red-embrace.json](./86440-red-embrace.json) |
 | Red Embrace: Hollywood | 110753 | [110753-red-embrace-hollywood.json](./110753-red-embrace-hollywood.json) |
+| Red Embrace: Mezzanine | 152999 | [152999-red-embrace-mezzanine.json](./152999-red-embrace-mezzanine.json) |
 | Red Embrace: Paradisus | 186332 | [186332-red-embrace-paradisus.json](./186332-red-embrace-paradisus.json) |
 | Red End | 292233 | [292233-red-end.json](./292233-red-end.json) |
 | Red Entity | 181917 | [181917-red-entity.json](./181917-red-entity.json) |
