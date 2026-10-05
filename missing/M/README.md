@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Business Simulator | 394480 | [394480-mafia-business-simulator.json](./394480-mafia-business-simulator.json) |
 | Mafia Clicker | 241956 | [241956-mafia-clicker.json](./241956-mafia-clicker.json) |
 | Mafia Gambling | 89266 | [89266-mafia-gambling.json](./89266-mafia-gambling.json) |
+| Mafia Gangster City | 151266 | [151266-mafia-gangster-city.json](./151266-mafia-gangster-city.json) |
 | Mafia Hotel | 416006 | [416006-mafia-hotel.json](./416006-mafia-hotel.json) |
 | Mafia II Mobile | 272451 | [272451-mafia-ii-mobile.json](./272451-mafia-ii-mobile.json) |
 | Mafia II: Director's Cut | 47385 | [47385-mafia-ii-directors-cut.json](./47385-mafia-ii-directors-cut.json) |
@@ -2940,6 +2941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Mystery: Crime of Fashion | 341071 | [341071-masters-of-mystery-crime-of-fashion.json](./341071-masters-of-mystery-crime-of-fashion.json) |
 | Masters of Puzzle | 96480 | [96480-masters-of-puzzle.json](./96480-masters-of-puzzle.json) |
 | Masters of Puzzle: Autumn Fuji | 151213 | [151213-masters-of-puzzle-autumn-fuji.json](./151213-masters-of-puzzle-autumn-fuji.json) |
+| Masters of Puzzle: Black and White - 980 | 151252 | [151252-masters-of-puzzle-black-and-white-980.json](./151252-masters-of-puzzle-black-and-white-980.json) |
 | Masters of Puzzle: Childhood | 151216 | [151216-masters-of-puzzle-childhood.json](./151216-masters-of-puzzle-childhood.json) |
 | Masters of Puzzle: Christmas Edition - Mystery Town | 151215 | [151215-masters-of-puzzle-christmas-edition-mystery-town.json](./151215-masters-of-puzzle-christmas-edition-mystery-town.json) |
 | Masters of Puzzle: Clockwork Factory | 151214 | [151214-masters-of-puzzle-clockwork-factory.json](./151214-masters-of-puzzle-clockwork-factory.json) |
@@ -4925,6 +4927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercury Hg | 20142 | [20142-mercury-hg.json](./20142-mercury-hg.json) |
 | Mercury Meltdown Remix | 20628 | [20628-mercury-meltdown-remix.json](./20628-mercury-meltdown-remix.json) |
 | Mercury no Aoi Suna | 150125 | [150125-mercury-no-aoi-suna.json](./150125-mercury-no-aoi-suna.json) |
+| Mercury Particle Sandbox | 151300 | [151300-mercury-particle-sandbox.json](./151300-mercury-particle-sandbox.json) |
 | Mercury Prime | 157675 | [157675-mercury-prime.json](./157675-mercury-prime.json) |
 | Mercury Race | 93733 | [93733-mercury-race.json](./93733-mercury-race.json) |
 | Mercury Rising | 332809 | [332809-mercury-rising.json](./332809-mercury-rising.json) |
@@ -5879,6 +5882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mid-Death Crisis | 295495 | [295495-mid-death-crisis.json](./295495-mid-death-crisis.json) |
 | Midas | 338837 | [338837-midas.json](./338837-midas.json) |
 | Midautumn | 148943 | [148943-midautumn.json](./148943-midautumn.json) |
+| Middle Age Conquest | 151289 | [151289-middle-age-conquest.json](./151289-middle-age-conquest.json) |
 | Middle Ages Hero | 115147 | [115147-middle-ages-hero.json](./115147-middle-ages-hero.json) |
 | Middle Ages: Peasants & Knights | 304662 | [304662-middle-ages-peasants-and-knights.json](./304662-middle-ages-peasants-and-knights.json) |
 | Middle Kingdom | 356658 | [356658-middle-kingdom.json](./356658-middle-kingdom.json) |
@@ -8199,6 +8203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monolith O Pesadelo | 265202 | [265202-monolith-o-pesadelo.json](./265202-monolith-o-pesadelo.json) |
 | Monolith VR | 160155 | [160155-monolith-vr.json](./160155-monolith-vr.json) |
 | Monolith's Dreamers | 343261 | [343261-monoliths-dreamers.json](./343261-monoliths-dreamers.json) |
+| Monolithic | 151269 | [151269-monolithic.json](./151269-monolithic.json) |
 | Monologue: Winter melancholy | 278145 | [278145-monologue-winter-melancholy.json](./278145-monologue-winter-melancholy.json) |
 | Monomagia Cantabile | 214539 | [214539-monomagia-cantabile.json](./214539-monomagia-cantabile.json) |
 | Monomals | 175809 | [175809-monomals.json](./175809-monomals.json) |
@@ -9270,6 +9275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaics Wall Deco | 376473 | [376473-mosaics-wall-deco.json](./376473-mosaics-wall-deco.json) |
 | Mosaique | 63393 | [63393-mosaique.json](./63393-mosaique.json) |
 | Mosaique Neko Waifus 2 | 167808 | [167808-mosaique-neko-waifus-2.json](./167808-mosaique-neko-waifus-2.json) |
+| Mosaique Neko Waifus 3 | 151283 | [151283-mosaique-neko-waifus-3.json](./151283-mosaique-neko-waifus-3.json) |
 | Mosaique Neko Waifus 4 | 167809 | [167809-mosaique-neko-waifus-4.json](./167809-mosaique-neko-waifus-4.json) |
 | Mosaique Neko Waifus 5 | 221206 | [221206-mosaique-neko-waifus-5.json](./221206-mosaique-neko-waifus-5.json) |
 | Moscow Metro Wars | 348415 | [348415-moscow-metro-wars.json](./348415-moscow-metro-wars.json) |
