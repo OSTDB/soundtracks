@@ -922,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omeganaut | 135032 | [135032-omeganaut.json](./135032-omeganaut.json) |
 | Omelet You Cook | 333100 | [333100-omelet-you-cook.json](./333100-omelet-you-cook.json) |
 | Omelet's Quest | 373522 | [373522-omelets-quest.json](./373522-omelets-quest.json) |
+| Omelettes | 145922 | [145922-omelettes.json](./145922-omelettes.json) |
 | Omen | 259144 | [259144-omen.json](./259144-omen.json) |
 | Omen Exitio: Hunger | 236941 | [236941-omen-exitio-hunger.json](./236941-omen-exitio-hunger.json) |
 | Omen Fall | 251805 | [251805-omen-fall.json](./251805-omen-fall.json) |
@@ -2040,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orb of Millean | 301440 | [301440-orb-of-millean.json](./301440-orb-of-millean.json) |
 | Orb Of The Watcher | 285969 | [285969-orb-of-the-watcher.json](./285969-orb-of-the-watcher.json) |
 | Orb Overload | 151146 | [151146-orb-overload.json](./151146-orb-overload.json) |
+| Orb Runner | 145934 | [145934-orb-runner.json](./145934-orb-runner.json) |
 | Orb Slide Dodge Danger | 369183 | [369183-orb-slide-dodge-danger.json](./369183-orb-slide-dodge-danger.json) |
 | Orb Tower | 331951 | [331951-orb-tower.json](./331951-orb-tower.json) |
 | Orb-3D | 48191 | [48191-orb-3d.json](./48191-orb-3d.json) |
@@ -3126,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OverWing | 337291 | [337291-overwing.json](./337291-overwing.json) |
 | Overworked | 408180 | [408180-overworked.json](./408180-overworked.json) |
 | Overworld | 139291 | [139291-overworld.json](./139291-overworld.json) |
+| Overwrite | 145926 | [145926-overwrite.json](./145926-overwrite.json) |
 | Overwritten: Defeat the Net | 224630 | [224630-overwritten-defeat-the-net.json](./224630-overwritten-defeat-the-net.json) |
 | OviPets | 225715 | [225715-ovipets.json](./225715-ovipets.json) |
 | Oviraptor Hazard | 361343 | [361343-oviraptor-hazard.json](./361343-oviraptor-hazard.json) |
