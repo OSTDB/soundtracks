@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost and Joker: A thing to do for you | 255886 | [255886-ghost-and-joker-a-thing-to-do-for-you.json](./255886-ghost-and-joker-a-thing-to-do-for-you.json) |
 | Ghost Ascension | 290486 | [290486-ghost-ascension.json](./290486-ghost-ascension.json) |
 | Ghost Battle | 78319 | [78319-ghost-battle.json](./78319-ghost-battle.json) |
+| Ghost Beat | 170887 | [170887-ghost-beat.json](./170887-ghost-beat.json) |
 | Ghost Blade | 23442 | [23442-ghost-blade.json](./23442-ghost-blade.json) |
 | Ghost Blood | 391320 | [391320-ghost-blood.json](./391320-ghost-blood.json) |
 | Ghost Bros | 224236 | [224236-ghost-bros.json](./224236-ghost-bros.json) |
@@ -3798,6 +3799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotcha Number for Playdate | 276716 | [276716-gotcha-number-for-playdate.json](./276716-gotcha-number-for-playdate.json) |
 | Gotcha! The Sport! | 5848 | [5848-gotcha-the-sport.json](./5848-gotcha-the-sport.json) |
 | Gotha | 92102 | [92102-gotha.json](./92102-gotha.json) |
+| Gotham City Impostors: Pretty Poison | 170876 | [170876-gotham-city-impostors-pretty-poison.json](./170876-gotham-city-impostors-pretty-poison.json) |
 | Gotham Gangsta | 29930 | [29930-gotham-gangsta.json](./29930-gotham-gangsta.json) |
 | Gotham Knights: Collector's Edition | 201777 | [201777-gotham-knights-collectors-edition.json](./201777-gotham-knights-collectors-edition.json) |
 | Gotham Knights: Deluxe Edition | 201037 | [201037-gotham-knights-deluxe-edition.json](./201037-gotham-knights-deluxe-edition.json) |
