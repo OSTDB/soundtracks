@@ -5354,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fourth Age: Total War | 356261 | [356261-the-fourth-age-total-war.json](./356261-the-fourth-age-total-war.json) |
 | The Fourth Generation | 72693 | [72693-the-fourth-generation.json](./72693-the-fourth-generation.json) |
 | The Fourth Sense Evolution: Stone Age | 270876 | [270876-the-fourth-sense-evolution-stone-age.json](./270876-the-fourth-sense-evolution-stone-age.json) |
+| The Fox Awaits Me | 131983 | [131983-the-fox-awaits-me.json](./131983-the-fox-awaits-me.json) |
 | The Fox Awaits Me Hana | 265642 | [265642-the-fox-awaits-me-hana.json](./265642-the-fox-awaits-me-hana.json) |
 | The Fox Awaits Me: Limited Edition | 188644 | [188644-the-fox-awaits-me-limited-edition.json](./188644-the-fox-awaits-me-limited-edition.json) |
 | The Fox of Capistrano | 407404 | [407404-the-fox-of-capistrano.json](./407404-the-fox-of-capistrano.json) |
@@ -8676,6 +8677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sagittarian 2 | 381772 | [381772-the-sagittarian-2.json](./381772-the-sagittarian-2.json) |
 | The Sailor’s Guide to Game Design | 263140 | [263140-the-sailor-s-guide-to-game-design.json](./263140-the-sailor-s-guide-to-game-design.json) |
 | The Saint Wife’s Newlywed Trials | 376560 | [376560-the-saint-wife-s-newlywed-trials.json](./376560-the-saint-wife-s-newlywed-trials.json) |
+| The Saint's Tomb | 132052 | [132052-the-saints-tomb.json](./132052-the-saints-tomb.json) |
 | The Salatroisk Incident | 216168 | [216168-the-salatroisk-incident.json](./216168-the-salatroisk-incident.json) |
 | The Salatroitsk Incident | 180807 | [180807-the-salatroitsk-incident.json](./180807-the-salatroitsk-incident.json) |
 | The Salt Fortress | 28860 | [28860-the-salt-fortress.json](./28860-the-salt-fortress.json) |
@@ -18195,6 +18197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Worlds Connected | 181359 | [181359-two-worlds-connected.json](./181359-two-worlds-connected.json) |
 | Two Worlds II Castle Defense | 28986 | [28986-two-worlds-ii-castle-defense.json](./28986-two-worlds-ii-castle-defense.json) |
 | Two Worlds II HD | 53865 | [53865-two-worlds-ii-hd.json](./53865-two-worlds-ii-hd.json) |
+| Two Worlds II HD: Call of the Tenebrae | 131960 | [131960-two-worlds-ii-hd-call-of-the-tenebrae.json](./131960-two-worlds-ii-hd-call-of-the-tenebrae.json) |
 | Two Worlds II: Echoes of the Dark Past | 124775 | [124775-two-worlds-ii-echoes-of-the-dark-past.json](./124775-two-worlds-ii-echoes-of-the-dark-past.json) |
 | Two Worlds II: Pirates of the Flying Fortress | 11032 | [11032-two-worlds-ii-pirates-of-the-flying-fortress.json](./11032-two-worlds-ii-pirates-of-the-flying-fortress.json) |
 | Two Worlds II: Velvet Game of the Year Edition | 47473 | [47473-two-worlds-ii-velvet-game-of-the-year-edition.json](./47473-two-worlds-ii-velvet-game-of-the-year-edition.json) |
