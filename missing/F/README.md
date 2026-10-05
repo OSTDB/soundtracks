@@ -4801,6 +4801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football | 346756 | [346756-football.json](./346756-football.json) |
 | Football 2019 | 220064 | [220064-football-2019.json](./220064-football-2019.json) |
 | Football Academy | 124015 | [124015-football-academy.json](./124015-football-academy.json) |
+| Football Academy Clicker | 152488 | [152488-football-academy-clicker.json](./152488-football-academy-clicker.json) |
 | Football Battle | 187243 | [187243-football-battle.json](./187243-football-battle.json) |
 | Football Betting | 167246 | [167246-football-betting.json](./167246-football-betting.json) |
 | Football Bus Battle 2021 | 153978 | [153978-football-bus-battle-2021.json](./153978-football-bus-battle-2021.json) |
@@ -6089,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free.ksPeak | 285999 | [285999-free-kspeak.json](./285999-free-kspeak.json) |
 | Free.Will | 180078 | [180078-free-will.json](./180078-free-will.json) |
 | Freebie | 32400 | [32400-freebie.json](./32400-freebie.json) |
+| Freebooter of Splorr!! | 152492 | [152492-freebooter-of-splorr.json](./152492-freebooter-of-splorr.json) |
 | Freebot : Battle for FreeWeb | 103640 | [103640-freebot-battle-for-freeweb.json](./103640-freebot-battle-for-freeweb.json) |
 | FreeCell | 383490 | [383490-freecell.json](./383490-freecell.json) |
 | FreeCell Solitaire - Classic Deck Card Games | 88365 | [88365-freecell-solitaire-classic-deck-card-games.json](./88365-freecell-solitaire-classic-deck-card-games.json) |
