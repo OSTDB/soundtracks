@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Inquisition | 278162 | [278162-dark-inquisition.json](./278162-dark-inquisition.json) |
 | Dark Invasion VR: Doomsday | 204923 | [204923-dark-invasion-vr-doomsday.json](./204923-dark-invasion-vr-doomsday.json) |
 | Dark is the Void | 276848 | [276848-dark-is-the-void.json](./276848-dark-is-the-void.json) |
+| Dark Island | 128953 | [128953-dark-island.json](./128953-dark-island.json) |
 | Dark Island | 147961 | [147961-dark-island.json](./147961-dark-island.json) |
 | Dark Island: Faded Memories | 415312 | [415312-dark-island-faded-memories.json](./415312-dark-island-faded-memories.json) |
 | Dark Judgement | 129642 | [129642-dark-judgement.json](./129642-dark-judgement.json) |
@@ -3024,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deirdre | 395695 | [395695-deirdre.json](./395695-deirdre.json) |
 | Deities Flush | 324113 | [324113-deities-flush.json](./324113-deities-flush.json) |
 | Deity | 93500 | [93500-deity.json](./93500-deity.json) |
+| Deity Driving | 129055 | [129055-deity-driving.json](./129055-deity-driving.json) |
 | Deity Quest: Extended | 172114 | [172114-deity-quest-extended.json](./172114-deity-quest-extended.json) |
 | Deity's Domain | 306383 | [306383-deitys-domain.json](./306383-deitys-domain.json) |
 | DeIz | 236805 | [236805-deiz.json](./236805-deiz.json) |
@@ -7595,6 +7597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: College Basketball 2022 | 191891 | [191891-draft-day-sports-college-basketball-2022.json](./191891-draft-day-sports-college-basketball-2022.json) |
 | Draft Day Sports: College Basketball 2025 | 336058 | [336058-draft-day-sports-college-basketball-2025.json](./336058-draft-day-sports-college-basketball-2025.json) |
 | Draft Day Sports: College Basketball 26 | 393740 | [393740-draft-day-sports-college-basketball-26.json](./393740-draft-day-sports-college-basketball-26.json) |
+| Draft Day Sports: College Football 2020 | 128974 | [128974-draft-day-sports-college-football-2020.json](./128974-draft-day-sports-college-football-2020.json) |
 | Draft Day Sports: College Football 2023 | 213984 | [213984-draft-day-sports-college-football-2023.json](./213984-draft-day-sports-college-football-2023.json) |
 | Draft Day Sports: College Football 2024 | 262333 | [262333-draft-day-sports-college-football-2024.json](./262333-draft-day-sports-college-football-2024.json) |
 | Draft Day Sports: College Football 2025 | 386282 | [386282-draft-day-sports-college-football-2025.json](./386282-draft-day-sports-college-football-2025.json) |
@@ -7846,6 +7849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Force | 2968 | [2968-dragon-force.json](./2968-dragon-force.json) |
 | Dragon Force II: Kamisarishi Daichi ni | 45461 | [45461-dragon-force-ii-kamisarishi-daichi-ni.json](./45461-dragon-force-ii-kamisarishi-daichi-ni.json) |
 | Dragon Force: The Day 3 | 65737 | [65737-dragon-force-the-day-3.json](./65737-dragon-force-the-day-3.json) |
+| Dragon Forge | 128975 | [128975-dragon-forge.json](./128975-dragon-forge.json) |
 | Dragon Forge | 311708 | [311708-dragon-forge.json](./311708-dragon-forge.json) |
 | Dragon Friends: The Secret of Green Witch | 212453 | [212453-dragon-friends-the-secret-of-green-witch.json](./212453-dragon-friends-the-secret-of-green-witch.json) |
 | Dragon Front | 57717 | [57717-dragon-front.json](./57717-dragon-front.json) |
@@ -10181,6 +10185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Feud | 27080 | [27080-dynasty-feud.json](./27080-dynasty-feud.json) |
 | Dynasty Feud: The Night Party | 171406 | [171406-dynasty-feud-the-night-party.json](./171406-dynasty-feud-the-night-party.json) |
 | Dynasty Legends: Warriors Unite | 240887 | [240887-dynasty-legends-warriors-unite.json](./240887-dynasty-legends-warriors-unite.json) |
+| Dynasty of the Sands | 128949 | [128949-dynasty-of-the-sands.json](./128949-dynasty-of-the-sands.json) |
 | Dynasty Origins: Conquest | 216128 | [216128-dynasty-origins-conquest.json](./216128-dynasty-origins-conquest.json) |
 | Dynasty Warriors | 2982 | [2982-dynasty-warriors.json](./2982-dynasty-warriors.json) |
 | Dynasty Warriors 3: Xtreme Legends | 45014 | [45014-dynasty-warriors-3-xtreme-legends.json](./45014-dynasty-warriors-3-xtreme-legends.json) |
