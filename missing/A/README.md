@@ -4400,6 +4400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnios | 14254 | [14254-amnios.json](./14254-amnios.json) |
 | Amnork | 62239 | [62239-amnork.json](./62239-amnork.json) |
 | Amo | 293087 | [293087-amo.json](./293087-amo.json) |
+| Amoeba Battle: Microscopic RTS Action | 131972 | [131972-amoeba-battle-microscopic-rts-action.json](./131972-amoeba-battle-microscopic-rts-action.json) |
 | Amoeba Jump | 195568 | [195568-amoeba-jump.json](./195568-amoeba-jump.json) |
 | Amoeboid | 233213 | [233213-amoeboid.json](./233213-amoeboid.json) |
 | Amogus TD | 183857 | [183857-amogus-td.json](./183857-amogus-td.json) |
@@ -6158,6 +6159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ar'Kritz the Intruder | 86028 | [86028-arkritz-the-intruder.json](./86028-arkritz-the-intruder.json) |
 | Ar3na | 257937 | [257937-ar3na.json](./257937-ar3na.json) |
 | Ara Fell & Rise of the Third Power | 272453 | [272453-ara-fell-and-rise-of-the-third-power.json](./272453-ara-fell-and-rise-of-the-third-power.json) |
+| Ara Fell: Enhanced Edition | 131981 | [131981-ara-fell-enhanced-edition.json](./131981-ara-fell-enhanced-edition.json) |
 | Ara Ngc 6397 | 206130 | [206130-ara-ngc-6397.json](./206130-ara-ngc-6397.json) |
 | Arab Drift Cars | 221746 | [221746-arab-drift-cars.json](./221746-arab-drift-cars.json) |
 | Arab Drift Cars 2 | 330192 | [330192-arab-drift-cars-2.json](./330192-arab-drift-cars-2.json) |
@@ -6324,6 +6326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Hyper Crash | 409673 | [409673-arcade-archives-hyper-crash.json](./409673-arcade-archives-hyper-crash.json) |
 | Arcade Archives: Hyper Sports | 126493 | [126493-arcade-archives-hyper-sports.json](./126493-arcade-archives-hyper-sports.json) |
 | Arcade Archives: Ice Climber | 68333 | [68333-arcade-archives-ice-climber.json](./68333-arcade-archives-ice-climber.json) |
+| Arcade Archives: Ikari III - The Rescue | 131967 | [131967-arcade-archives-ikari-iii-the-rescue.json](./131967-arcade-archives-ikari-iii-the-rescue.json) |
 | Arcade Archives: Ikki | 99567 | [99567-arcade-archives-ikki.json](./99567-arcade-archives-ikki.json) |
 | Arcade Archives: Image Fight | 119087 | [119087-arcade-archives-image-fight.json](./119087-arcade-archives-image-fight.json) |
 | Arcade Archives: Kangaroo | 147108 | [147108-arcade-archives-kangaroo.json](./147108-arcade-archives-kangaroo.json) |
