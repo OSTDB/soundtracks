@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elpis | 381140 | [381140-elpis.json](./381140-elpis.json) |
 | Elpis: Fallen Star | 362914 | [362914-elpis-fallen-star.json](./362914-elpis-fallen-star.json) |
 | Elrentaros Wanderings | 230621 | [230621-elrentaros-wanderings.json](./230621-elrentaros-wanderings.json) |
+| Elroy Goes Bugzerk | 123385 | [123385-elroy-goes-bugzerk.json](./123385-elroy-goes-bugzerk.json) |
 | Else Walker | 177947 | [177947-else-walker.json](./177947-else-walker.json) |
 | Elsewar | 415130 | [415130-elsewar.json](./415130-elsewar.json) |
 | Elsewhere Electric | 336146 | [336146-elsewhere-electric.json](./336146-elsewhere-electric.json) |
