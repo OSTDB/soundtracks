@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Ride | 296368 | [296368-last-ride.json](./296368-last-ride.json) |
 | Last Ride | 377575 | [377575-last-ride.json](./377575-last-ride.json) |
 | Last Ride | 413171 | [413171-last-ride.json](./413171-last-ride.json) |
+| Last Rose | 125800 | [125800-last-rose.json](./125800-last-rose.json) |
 | Last Salvo | 76651 | [76651-last-salvo.json](./76651-last-salvo.json) |
 | Last Sapiens | 216471 | [216471-last-sapiens.json](./216471-last-sapiens.json) |
 | Last Second Save | 382898 | [382898-last-second-save.json](./382898-last-second-save.json) |
@@ -1882,6 +1883,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemures Blue's 2 A.M. | 137068 | [137068-lemures-blues-2-a-m.json](./137068-lemures-blues-2-a-m.json) |
 | Lemuria | 344427 | [344427-lemuria.json](./344427-lemuria.json) |
 | Len'en Monochrome World | 335405 | [335405-lenen-monochrome-world.json](./335405-lenen-monochrome-world.json) |
+| Len'en Mugenri: Evanescent Existence | 125797 | [125797-lenen-mugenri-evanescent-existence.json](./125797-lenen-mugenri-evanescent-existence.json) |
+| Len'en Reiretsuden: Reactivate Majestical Imperial | 125795 | [125795-lenen-reiretsuden-reactivate-majestical-imperial.json](./125795-lenen-reiretsuden-reactivate-majestical-imperial.json) |
+| Len'en Tasouken: Earthen Miraculous Sword | 125796 | [125796-lenen-tasouken-earthen-miraculous-sword.json](./125796-lenen-tasouken-earthen-miraculous-sword.json) |
+| Len'en Ten'eisenki: Brilliant Pagoda or Haze Castle | 125794 | [125794-lenen-teneisenki-brilliant-pagoda-or-haze-castle.json](./125794-lenen-teneisenki-brilliant-pagoda-or-haze-castle.json) |
 | Lenin - The Lion | 99626 | [99626-lenin-the-lion.json](./99626-lenin-the-lion.json) |
 | Lenin Simulator | 195180 | [195180-lenin-simulator.json](./195180-lenin-simulator.json) |
 | Leningrad | 188430 | [188430-leningrad.json](./188430-leningrad.json) |
@@ -3360,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Red Riding Hood B | 225312 | [225312-little-red-riding-hood-b.json](./225312-little-red-riding-hood-b.json) |
 | Little Red Riding Hood: Wonder Animals | 288301 | [288301-little-red-riding-hood-wonder-animals.json](./288301-little-red-riding-hood-wonder-animals.json) |
 | Little Red Riding Hood: Wonder Animals Vol.2 | 288300 | [288300-little-red-riding-hood-wonder-animals-vol-2.json](./288300-little-red-riding-hood-wonder-animals-vol-2.json) |
+| Little Red Riding Hood's Wolf | 125863 | [125863-little-red-riding-hoods-wolf.json](./125863-little-red-riding-hoods-wolf.json) |
 | Little Red Rocket Ship | 190199 | [190199-little-red-rocket-ship.json](./190199-little-red-rocket-ship.json) |
 | Little Reds Forest Fun | 114958 | [114958-little-reds-forest-fun.json](./114958-little-reds-forest-fun.json) |
 | Little Retreat | 381609 | [381609-little-retreat.json](./381609-little-retreat.json) |
