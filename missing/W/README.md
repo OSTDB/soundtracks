@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Packer | 234111 | [234111-waifu-packer.json](./234111-waifu-packer.json) |
 | Waifu Pogo Club | 390750 | [390750-waifu-pogo-club.json](./390750-waifu-pogo-club.json) |
 | Waifu Quest 2 | 311813 | [311813-waifu-quest-2.json](./311813-waifu-quest-2.json) |
+| Waifu Secret | 169835 | [169835-waifu-secret.json](./169835-waifu-secret.json) |
 | Waifu Secret 2 | 149420 | [149420-waifu-secret-2.json](./149420-waifu-secret-2.json) |
 | Waifu Slumber Party | 384715 | [384715-waifu-slumber-party.json](./384715-waifu-slumber-party.json) |
 | Waifu Space Conquest | 250383 | [250383-waifu-space-conquest.json](./250383-waifu-space-conquest.json) |
