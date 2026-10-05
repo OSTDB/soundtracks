@@ -2792,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerberus | 25955 | [25955-cerberus.json](./25955-cerberus.json) |
 | Cerberus | 272016 | [272016-cerberus.json](./272016-cerberus.json) |
 | Cerberus Corporation: Red Room | 335246 | [335246-cerberus-corporation-red-room.json](./335246-cerberus-corporation-red-room.json) |
+| Cerberus: Orbital watch | 126392 | [126392-cerberus-orbital-watch.json](./126392-cerberus-orbital-watch.json) |
 | Cereal Cafe | 351799 | [351799-cereal-cafe.json](./351799-cereal-cafe.json) |
 | Cerebrawl | 70367 | [70367-cerebrawl.json](./70367-cerebrawl.json) |
 | Cerebrum Operation | 217261 | [217261-cerebrum-operation.json](./217261-cerebrum-operation.json) |
@@ -10832,6 +10833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Tower 2048 | 357840 | [357840-cyber-tower-2048.json](./357840-cyber-tower-2048.json) |
 | Cyber Troopers Virtual-On | 46775 | [46775-cyber-troopers-virtual-on.json](./46775-cyber-troopers-virtual-on.json) |
 | Cyber Troopers Virtual-On Marz | 19252 | [19252-cyber-troopers-virtual-on-marz.json](./19252-cyber-troopers-virtual-on-marz.json) |
+| Cyber Troopers Virtual-On Masterpiece 1995 - 2001 | 126474 | [126474-cyber-troopers-virtual-on-masterpiece-1995-2001.json](./126474-cyber-troopers-virtual-on-masterpiece-1995-2001.json) |
 | Cyber Troopers Virtual-On: Oratorio Tangram - M.S.B.S. Ver. 5.66 | 172535 | [172535-cyber-troopers-virtual-on-oratorio-tangram-m-s-b-s-ver-5-66.json](./172535-cyber-troopers-virtual-on-oratorio-tangram-m-s-b-s-ver-5-66.json) |
 | Cyber Troopers: Virtual On x Toaru Majutsu no Index - Toaru Majutsu no Dennou Senki | 144179 | [144179-cyber-troopers-virtual-on-x-toaru-majutsu-no-index-toaru-majutsu-no-dennou-senki.json](./144179-cyber-troopers-virtual-on-x-toaru-majutsu-no-index-toaru-majutsu-no-dennou-senki.json) |
 | Cyber Utopia | 43508 | [43508-cyber-utopia.json](./43508-cyber-utopia.json) |
