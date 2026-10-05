@@ -2892,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Remix 16 | 59986 | [59986-ninja-remix-16.json](./59986-ninja-remix-16.json) |
 | Ninja Resurrection: A tale of Kuro | 276975 | [276975-ninja-resurrection-a-tale-of-kuro.json](./276975-ninja-resurrection-a-tale-of-kuro.json) |
 | Ninja Rinseout | 323358 | [323358-ninja-rinseout.json](./323358-ninja-rinseout.json) |
+| Ninja Roquinexu | 118224 | [118224-ninja-roquinexu.json](./118224-ninja-roquinexu.json) |
 | Ninja Run | 129083 | [129083-ninja-run.json](./129083-ninja-run.json) |
 | Ninja Run | 210750 | [210750-ninja-run.json](./210750-ninja-run.json) |
 | Ninja Runner | 233234 | [233234-ninja-runner.json](./233234-ninja-runner.json) |
@@ -3557,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noman's Dungeon | 181177 | [181177-nomans-dungeon.json](./181177-nomans-dungeon.json) |
 | NOMBZ: Night of a Million Billion Zombies | 209408 | [209408-nombz-night-of-a-million-billion-zombies.json](./209408-nombz-night-of-a-million-billion-zombies.json) |
 | Nomia | 338730 | [338730-nomia.json](./338730-nomia.json) |
+| Nominader | 118244 | [118244-nominader.json](./118244-nominader.json) |
 | Nominal | 163312 | [163312-nominal.json](./163312-nominal.json) |
 | NomNom Sugar Game | 120216 | [120216-nomnom-sugar-game.json](./120216-nomnom-sugar-game.json) |
 | NomNomNom | 340580 | [340580-nomnomnom.json](./340580-nomnomnom.json) |
