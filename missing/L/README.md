@@ -5449,6 +5449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lylia's Deadline | 265856 | [265856-lylias-deadline.json](./265856-lylias-deadline.json) |
 | Lymbus | 276226 | [276226-lymbus.json](./276226-lymbus.json) |
 | Lymph City Blues | 211132 | [211132-lymph-city-blues.json](./211132-lymph-city-blues.json) |
+| Lynium | 158628 | [158628-lynium.json](./158628-lynium.json) |
 | Lynked: Banner of the Spark | 314256 | [314256-lynked-banner-of-the-spark.json](./314256-lynked-banner-of-the-spark.json) |
 | Lynne | 105107 | [105107-lynne.json](./105107-lynne.json) |
 | LyokoVR | 169337 | [169337-lyokovr.json](./169337-lyokovr.json) |
