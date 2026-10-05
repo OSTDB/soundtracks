@@ -4951,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Designer: House Makeover | 239035 | [239035-home-designer-house-makeover.json](./239035-home-designer-house-makeover.json) |
 | Home Designer: Living Room | 169947 | [169947-home-designer-living-room.json](./169947-home-designer-living-room.json) |
 | Home Domes | 277962 | [277962-home-domes.json](./277962-home-domes.json) |
+| Home Escape | 120139 | [120139-home-escape.json](./120139-home-escape.json) |
 | Home for the Holidays | 313814 | [313814-home-for-the-holidays.json](./313814-home-for-the-holidays.json) |
 | Home From Work 2 | 213371 | [213371-home-from-work-2.json](./213371-home-from-work-2.json) |
 | Home From Work 3 | 213372 | [213372-home-from-work-3.json](./213372-home-from-work-3.json) |
