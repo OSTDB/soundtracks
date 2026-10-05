@@ -1985,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
 | WFO World Football Online | 215649 | [215649-wfo-world-football-online.json](./215649-wfo-world-football-online.json) |
 | WG Mega | 270661 | [270661-wg-mega.json](./270661-wg-mega.json) |
+| WGRealms: Demon Throne | 151832 | [151832-wgrealms-demon-throne.json](./151832-wgrealms-demon-throne.json) |
 | WGT Baseball | 64370 | [64370-wgt-baseball.json](./64370-wgt-baseball.json) |
 | WGT Golf | 64369 | [64369-wgt-golf.json](./64369-wgt-golf.json) |
 | WGV: Dreamcatcher | 338380 | [338380-wgv-dreamcatcher.json](./338380-wgv-dreamcatcher.json) |
@@ -2593,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WhiteWash | 370774 | [370774-whitewash.json](./370774-whitewash.json) |
 | Whitewater Rapids | 205838 | [205838-whitewater-rapids.json](./205838-whitewater-rapids.json) |
 | Whitewater VR: Extreme Kayaking Adventure | 244388 | [244388-whitewater-vr-extreme-kayaking-adventure.json](./244388-whitewater-vr-extreme-kayaking-adventure.json) |
+| Whitewater Wipeout | 151817 | [151817-whitewater-wipeout.json](./151817-whitewater-wipeout.json) |
 | Whittingham Asylum: The Investigation | 258114 | [258114-whittingham-asylum-the-investigation.json](./258114-whittingham-asylum-the-investigation.json) |
 | Whiz Kid | 292783 | [292783-whiz-kid.json](./292783-whiz-kid.json) |
 | Whiz Racer | 180031 | [180031-whiz-racer.json](./180031-whiz-racer.json) |
