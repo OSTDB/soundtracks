@@ -1269,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parity | 124243 | [124243-parity.json](./124243-parity.json) |
 | Parity Shot Integral | 305167 | [305167-parity-shot-integral.json](./305167-parity-shot-integral.json) |
 | Park After Dark | 199061 | [199061-park-after-dark.json](./199061-park-after-dark.json) |
+| Park Alien: A ludo in the space | 153496 | [153496-park-alien-a-ludo-in-the-space.json](./153496-park-alien-a-ludo-in-the-space.json) |
 | Park Beyond | 165354 | [165354-park-beyond.json](./165354-park-beyond.json) |
 | Park Beyond: Beyond Extreme | 262670 | [262670-park-beyond-beyond-extreme.json](./262670-park-beyond-beyond-extreme.json) |
 | Park Beyond: Beyond eXtreme - Theme World | 272324 | [272324-park-beyond-beyond-extreme-theme-world.json](./272324-park-beyond-beyond-extreme-theme-world.json) |
@@ -4026,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Parakeet | 346777 | [346777-pirate-parakeet.json](./346777-pirate-parakeet.json) |
 | Pirate Plight | 245911 | [245911-pirate-plight.json](./245911-pirate-plight.json) |
 | Pirate Pop Mega Quiz | 232499 | [232499-pirate-pop-mega-quiz.json](./232499-pirate-pop-mega-quiz.json) |
+| Pirate Popper VR | 153486 | [153486-pirate-popper-vr.json](./153486-pirate-popper-vr.json) |
 | Pirate Poppers | 209955 | [209955-pirate-poppers.json](./209955-pirate-poppers.json) |
 | Pirate Raid: Caribbean Battle | 188399 | [188399-pirate-raid-caribbean-battle.json](./188399-pirate-raid-caribbean-battle.json) |
 | Pirate Royalty | 345583 | [345583-pirate-royalty.json](./345583-pirate-royalty.json) |
@@ -5062,6 +5064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plastris | 130263 | [130263-plastris.json](./130263-plastris.json) |
 | Plat Wacky Adventure Remastered | 266184 | [266184-plat-wacky-adventure-remastered.json](./266184-plat-wacky-adventure-remastered.json) |
 | Plat4mer | 112972 | [112972-plat4mer.json](./112972-plat4mer.json) |
+| Plataforma branca | 153501 | [153501-plataforma-branca.json](./153501-plataforma-branca.json) |
 | Platboarder | 253415 | [253415-platboarder.json](./253415-platboarder.json) |
 | Platdude in Swamp Golf | 61087 | [61087-platdude-in-swamp-golf.json](./61087-platdude-in-swamp-golf.json) |
 | Plate | 339280 | [339280-plate.json](./339280-plate.json) |
@@ -5646,6 +5649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Altar | 232685 | [232685-pokemon-altar.json](./232685-pokemon-altar.json) |
 | Pokémon AlteRed | 210072 | [210072-pokemon-altered.json](./210072-pokemon-altered.json) |
 | Pokémon Amethyst | 323762 | [323762-pokemon-amethyst.json](./323762-pokemon-amethyst.json) |
+| Pokémon and the Last Wish | 153510 | [153510-pokemon-and-the-last-wish.json](./153510-pokemon-and-the-last-wish.json) |
 | Pokémon Anniversary Crystal | 313100 | [313100-pokemon-anniversary-crystal.json](./313100-pokemon-anniversary-crystal.json) |
 | Pokémon Ashen Frost | 307289 | [307289-pokemon-ashen-frost.json](./307289-pokemon-ashen-frost.json) |
 | Pokémon AshGray Version | 143756 | [143756-pokemon-ashgray-version.json](./143756-pokemon-ashgray-version.json) |
