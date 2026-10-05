@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KanColle Kai | 11461 | [11461-kancolle-kai.json](./11461-kancolle-kai.json) |
 | Kandagawa Jet Girls | 121202 | [121202-kandagawa-jet-girls.json](./121202-kandagawa-jet-girls.json) |
 | Kandagawa Jet Girls: Ikaruga & Yomi Character Set | 225914 | [225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json](./225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json) |
+| Kandagawa Jet Girls: Racing Hearts Edition | 136195 | [136195-kandagawa-jet-girls-racing-hearts-edition.json](./136195-kandagawa-jet-girls-racing-hearts-edition.json) |
 | Kandidatos | 146303 | [146303-kandidatos.json](./146303-kandidatos.json) |
 | Kandinhale | 326743 | [326743-kandinhale.json](./326743-kandinhale.json) |
 | Kando Realm | 356684 | [356684-kando-realm.json](./356684-kando-realm.json) |
