@@ -7040,6 +7040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror's Blade: Battle Pass - Dragonrise | 297098 | [297098-conquerors-blade-battle-pass-dragonrise.json](./297098-conquerors-blade-battle-pass-dragonrise.json) |
 | Conqueror's Blade: Colosseum | 217526 | [217526-conquerors-blade-colosseum.json](./217526-conquerors-blade-colosseum.json) |
 | Conqueror's Blade: Helheim | 217525 | [217525-conquerors-blade-helheim.json](./217525-conquerors-blade-helheim.json) |
+| Conqueror's Blade: Hounds of War | 168184 | [168184-conquerors-blade-hounds-of-war.json](./168184-conquerors-blade-hounds-of-war.json) |
 | Conqueror's Blade: Season IV - Blood of the Empire | 158061 | [158061-conquerors-blade-season-iv-blood-of-the-empire.json](./158061-conquerors-blade-season-iv-blood-of-the-empire.json) |
 | Conqueror's Blade: Season V - Legacy of Fire | 158080 | [158080-conquerors-blade-season-v-legacy-of-fire.json](./158080-conquerors-blade-season-v-legacy-of-fire.json) |
 | Conquest | 395858 | [395858-conquest.json](./395858-conquest.json) |
@@ -8315,6 +8316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Connections | 393777 | [393777-craft-connections.json](./393777-craft-connections.json) |
 | Craft Control | 88795 | [88795-craft-control.json](./88795-craft-control.json) |
 | Craft Control HD | 107223 | [107223-craft-control-hd.json](./107223-craft-control-hd.json) |
+| Craft Craft Craft! | 168118 | [168118-craft-craft-craft.json](./168118-craft-craft-craft.json) |
 | Craft Drill | 408119 | [408119-craft-drill.json](./408119-craft-drill.json) |
 | Craft Elements | 126577 | [126577-craft-elements.json](./126577-craft-elements.json) |
 | Craft Hero | 194264 | [194264-craft-hero.json](./194264-craft-hero.json) |
