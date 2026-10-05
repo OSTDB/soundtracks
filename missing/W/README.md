@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Armageddon - Golgotha | 53891 | [53891-warhammer-40-000-armageddon-golgotha.json](./53891-warhammer-40-000-armageddon-golgotha.json) |
 | Warhammer 40,000: Armageddon - Imperium Complete | 53892 | [53892-warhammer-40-000-armageddon-imperium-complete.json](./53892-warhammer-40-000-armageddon-imperium-complete.json) |
 | Warhammer 40,000: Armageddon - Ork Hunters | 53888 | [53888-warhammer-40-000-armageddon-ork-hunters.json](./53888-warhammer-40-000-armageddon-ork-hunters.json) |
+| Warhammer 40,000: Armageddon - Untold Battles | 148716 | [148716-warhammer-40-000-armageddon-untold-battles.json](./148716-warhammer-40-000-armageddon-untold-battles.json) |
 | Warhammer 40,000: Armageddon - Vulkan's Wrath | 53893 | [53893-warhammer-40-000-armageddon-vulkans-wrath.json](./53893-warhammer-40-000-armageddon-vulkans-wrath.json) |
 | Warhammer 40,000: Assault Dice | 175183 | [175183-warhammer-40-000-assault-dice.json](./175183-warhammer-40-000-assault-dice.json) |
 | Warhammer 40,000: Battlesector - Blood Angels Elites | 196104 | [196104-warhammer-40-000-battlesector-blood-angels-elites.json](./196104-warhammer-40-000-battlesector-blood-angels-elites.json) |
@@ -887,12 +888,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Chaosbane - Slayer Edition | 139948 | [139948-warhammer-chaosbane-slayer-edition.json](./139948-warhammer-chaosbane-slayer-edition.json) |
 | Warhammer: Chaosbane - Tomb Kings | 154602 | [154602-warhammer-chaosbane-tomb-kings.json](./154602-warhammer-chaosbane-tomb-kings.json) |
 | Warhammer: Doomwheel | 98025 | [98025-warhammer-doomwheel.json](./98025-warhammer-doomwheel.json) |
+| Warhammer: End Times - Vermintide Death on the Reik | 148715 | [148715-warhammer-end-times-vermintide-death-on-the-reik.json](./148715-warhammer-end-times-vermintide-death-on-the-reik.json) |
+| Warhammer: End Times - Vermintide Drachenfels | 148709 | [148709-warhammer-end-times-vermintide-drachenfels.json](./148709-warhammer-end-times-vermintide-drachenfels.json) |
+| Warhammer: End Times - Vermintide Karak Azgaraz | 148711 | [148711-warhammer-end-times-vermintide-karak-azgaraz.json](./148711-warhammer-end-times-vermintide-karak-azgaraz.json) |
+| Warhammer: End Times - Vermintide Last Stand | 148712 | [148712-warhammer-end-times-vermintide-last-stand.json](./148712-warhammer-end-times-vermintide-last-stand.json) |
+| Warhammer: End Times - Vermintide Quests and Contracts | 148714 | [148714-warhammer-end-times-vermintide-quests-and-contracts.json](./148714-warhammer-end-times-vermintide-quests-and-contracts.json) |
+| Warhammer: End Times - Vermintide Schluesselschloss | 148708 | [148708-warhammer-end-times-vermintide-schluesselschloss.json](./148708-warhammer-end-times-vermintide-schluesselschloss.json) |
+| Warhammer: End Times - Vermintide Sigmar's Blessing | 148710 | [148710-warhammer-end-times-vermintide-sigmars-blessing.json](./148710-warhammer-end-times-vermintide-sigmars-blessing.json) |
+| Warhammer: End Times - Vermintide Stromdorf | 148713 | [148713-warhammer-end-times-vermintide-stromdorf.json](./148713-warhammer-end-times-vermintide-stromdorf.json) |
 | Warhammer: Mark of Chaos - Gold Edition | 154551 | [154551-warhammer-mark-of-chaos-gold-edition.json](./154551-warhammer-mark-of-chaos-gold-edition.json) |
 | Warhammer: Odyssey | 130881 | [130881-warhammer-odyssey.json](./130881-warhammer-odyssey.json) |
 | Warhammer: Shadow of the Horned Rat | 5527 | [5527-warhammer-shadow-of-the-horned-rat.json](./5527-warhammer-shadow-of-the-horned-rat.json) |
 | Warhammer: Snotling Fling | 34227 | [34227-warhammer-snotling-fling.json](./34227-warhammer-snotling-fling.json) |
 | Warhammer: Vermintide 2 | 55189 | [55189-warhammer-vermintide-2.json](./55189-warhammer-vermintide-2.json) |
 | Warhammer: Vermintide 2 - A Treacherous Adventure | 321734 | [321734-warhammer-vermintide-2-a-treacherous-adventure.json](./321734-warhammer-vermintide-2-a-treacherous-adventure.json) |
+| Warhammer: Vermintide 2 - Chaos Wastes | 148707 | [148707-warhammer-vermintide-2-chaos-wastes.json](./148707-warhammer-vermintide-2-chaos-wastes.json) |
 | Warhammer: Vermintide 2 - Deluxe Edition | 202218 | [202218-warhammer-vermintide-2-deluxe-edition.json](./202218-warhammer-vermintide-2-deluxe-edition.json) |
 | Warhammer: Vermintide 2 - Forgotten Relics Pack | 155705 | [155705-warhammer-vermintide-2-forgotten-relics-pack.json](./155705-warhammer-vermintide-2-forgotten-relics-pack.json) |
 | Warhammer: Vermintide 2 - Grail Knight Career | 155703 | [155703-warhammer-vermintide-2-grail-knight-career.json](./155703-warhammer-vermintide-2-grail-knight-career.json) |
