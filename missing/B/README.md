@@ -6986,6 +6986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border Reign | 142468 | [142468-border-reign.json](./142468-border-reign.json) |
 | Border Town | 199466 | [199466-border-town.json](./199466-border-town.json) |
 | Border Wars | 224091 | [224091-border-wars.json](./224091-border-wars.json) |
+| Bordercide | 168711 | [168711-bordercide.json](./168711-bordercide.json) |
 | BorderCollie Blaster | 175768 | [175768-bordercollie-blaster.json](./175768-bordercollie-blaster.json) |
 | BorderCollie Game | 393011 | [393011-bordercollie-game.json](./393011-bordercollie-game.json) |
 | Borderlands 2 : Ultimate Vault Hunter Upgrade Pack | 186627 | [186627-borderlands-2-ultimate-vault-hunter-upgrade-pack.json](./186627-borderlands-2-ultimate-vault-hunter-upgrade-pack.json) |
@@ -7930,6 +7931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Point | 257351 | [257351-break-point.json](./257351-break-point.json) |
 | Break Point | 337697 | [337697-break-point.json](./337697-break-point.json) |
 | Break Point: Brace & Breach | 405567 | [405567-break-point-brace-and-breach.json](./405567-break-point-brace-and-breach.json) |
+| Break Sky | 168717 | [168717-break-sky.json](./168717-break-sky.json) |
 | Break Space: Out of Bounds | 158694 | [158694-break-space-out-of-bounds.json](./158694-break-space-out-of-bounds.json) |
 | Break Street | 25783 | [25783-break-street.json](./25783-break-street.json) |
 | Break Tactics | 85516 | [85516-break-tactics.json](./85516-break-tactics.json) |
