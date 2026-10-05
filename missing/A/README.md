@@ -2378,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI.VI | 303258 | [303258-ai-vi.json](./303258-ai-vi.json) |
 | AI2U: With You 'Til The End | 293905 | [293905-ai2u-with-you-til-the-end.json](./293905-ai2u-with-you-til-the-end.json) |
 | Aiball | 32852 | [32852-aiball.json](./32852-aiball.json) |
+| Aibeya | 121520 | [121520-aibeya.json](./121520-aibeya.json) |
 | Aibeya 2 | 150039 | [150039-aibeya-2.json](./150039-aibeya-2.json) |
 | Aibou DS | 269543 | [269543-aibou-ds.json](./269543-aibou-ds.json) |
 | AiCaterine | 259248 | [259248-aicaterine.json](./259248-aicaterine.json) |
@@ -7539,6 +7540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Girl | 70686 | [70686-artificial-girl.json](./70686-artificial-girl.json) |
 | Artificial Girl 2 | 19808 | [19808-artificial-girl-2.json](./19808-artificial-girl-2.json) |
 | Artificial Girl 3 Plus | 22465 | [22465-artificial-girl-3-plus.json](./22465-artificial-girl-3-plus.json) |
+| Artificial Iridescence | 121514 | [121514-artificial-iridescence.json](./121514-artificial-iridescence.json) |
 | Artificial Life | 175221 | [175221-artificial-life.json](./175221-artificial-life.json) |
 | Artificial Life Simulator | 287719 | [287719-artificial-life-simulator.json](./287719-artificial-life-simulator.json) |
 | Artificial Superintelligence | 174353 | [174353-artificial-superintelligence.json](./174353-artificial-superintelligence.json) |
