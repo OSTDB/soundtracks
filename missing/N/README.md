@@ -919,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necropolis Suite | 217348 | [217348-necropolis-suite.json](./217348-necropolis-suite.json) |
 | Necropolis: Brutal Edition | 25337 | [25337-necropolis-brutal-edition.json](./25337-necropolis-brutal-edition.json) |
 | Necroscope | 58889 | [58889-necroscope.json](./58889-necroscope.json) |
+| Necrosis: Reconfigurated | 138551 | [138551-necrosis-reconfigurated.json](./138551-necrosis-reconfigurated.json) |
 | Necrosmith 2 | 244317 | [244317-necrosmith-2.json](./244317-necrosmith-2.json) |
 | Necrosphere | 36626 | [36626-necrosphere.json](./36626-necrosphere.json) |
 | Necrosphere Deluxe | 114026 | [114026-necrosphere-deluxe.json](./114026-necrosphere-deluxe.json) |
@@ -2530,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare on the Pacific | 216238 | [216238-nightmare-on-the-pacific.json](./216238-nightmare-on-the-pacific.json) |
 | Nightmare Operator | 303003 | [303003-nightmare-operator.json](./303003-nightmare-operator.json) |
 | Nightmare Pop | 89415 | [89415-nightmare-pop.json](./89415-nightmare-pop.json) |
+| Nightmare Puppeteer | 138563 | [138563-nightmare-puppeteer.json](./138563-nightmare-puppeteer.json) |
 | Nightmare Reaper: Multiplayer Update | 369777 | [369777-nightmare-reaper-multiplayer-update.json](./369777-nightmare-reaper-multiplayer-update.json) |
 | Nightmare Rooms VR | 207753 | [207753-nightmare-rooms-vr.json](./207753-nightmare-rooms-vr.json) |
 | Nightmare Shift | 179716 | [179716-nightmare-shift.json](./179716-nightmare-shift.json) |
