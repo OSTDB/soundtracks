@@ -1505,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Andor: The King's Secret | 114540 | [114540-legends-of-andor-the-kings-secret.json](./114540-legends-of-andor-the-kings-secret.json) |
 | Legends of Aria Eternal | 361910 | [361910-legends-of-aria-eternal.json](./361910-legends-of-aria-eternal.json) |
 | Legends of Aria: Classic | 298244 | [298244-legends-of-aria-classic.json](./298244-legends-of-aria-classic.json) |
+| Legends of Aria: Master Pack | 170802 | [170802-legends-of-aria-master-pack.json](./170802-legends-of-aria-master-pack.json) |
 | Legends of Atlantis: Exodus Premium | 174337 | [174337-legends-of-atlantis-exodus-premium.json](./174337-legends-of-atlantis-exodus-premium.json) |
 | Legends of Azulgar | 32013 | [32013-legends-of-azulgar.json](./32013-legends-of-azulgar.json) |
 | Legends of Boom | 319743 | [319743-legends-of-boom.json](./319743-legends-of-boom.json) |
@@ -1740,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: The Force Awakens - Jabba's Palace Character Pack | 301547 | [301547-lego-star-wars-the-force-awakens-jabbas-palace-character-pack.json](./301547-lego-star-wars-the-force-awakens-jabbas-palace-character-pack.json) |
 | LEGO Star Wars: The Force Awakens - Poe's Quest For Survival | 138161 | [138161-lego-star-wars-the-force-awakens-poes-quest-for-survival.json](./138161-lego-star-wars-the-force-awakens-poes-quest-for-survival.json) |
 | LEGO Star Wars: The Force Awakens - Prequel Trilogy Character Pack | 170323 | [170323-lego-star-wars-the-force-awakens-prequel-trilogy-character-pack.json](./170323-lego-star-wars-the-force-awakens-prequel-trilogy-character-pack.json) |
+| LEGO Star Wars: The Force Awakens - The Clone Wars Character Pack | 170869 | [170869-lego-star-wars-the-force-awakens-the-clone-wars-character-pack.json](./170869-lego-star-wars-the-force-awakens-the-clone-wars-character-pack.json) |
 | LEGO Star Wars: The Force Awakens - The Empire Strikes Back Character Pack | 169925 | [169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json](./169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json) |
 | LEGO Star Wars: The Force Awakens - The Phantom Limb | 138163 | [138163-lego-star-wars-the-force-awakens-the-phantom-limb.json](./138163-lego-star-wars-the-force-awakens-the-phantom-limb.json) |
 | LEGO Star Wars: The Skywalker Saga - Character Collection 1 | 196046 | [196046-lego-star-wars-the-skywalker-saga-character-collection-1.json](./196046-lego-star-wars-the-skywalker-saga-character-collection-1.json) |
@@ -2275,6 +2277,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
 | Liber | 163198 | [163198-liber.json](./163198-liber.json) |
 | Liberate 1024 | 312923 | [312923-liberate-1024.json](./312923-liberate-1024.json) |
+| Liberated: For the Homeland | 170885 | [170885-liberated-for-the-homeland.json](./170885-liberated-for-the-homeland.json) |
+| Liberated: Glory to the Heroes | 170884 | [170884-liberated-glory-to-the-heroes.json](./170884-liberated-glory-to-the-heroes.json) |
 | Liberation | 249813 | [249813-liberation.json](./249813-liberation.json) |
 | Liberation | 250489 | [250489-liberation.json](./250489-liberation.json) |
 | Liberation | 355236 | [355236-liberation.json](./355236-liberation.json) |
@@ -3716,6 +3720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Cubes | 381792 | [381792-logic-cubes.json](./381792-logic-cubes.json) |
 | Logic Games Bundle | 242075 | [242075-logic-games-bundle.json](./242075-logic-games-bundle.json) |
 | Logic Island | 256290 | [256290-logic-island.json](./256290-logic-island.json) |
+| Logic Light | 170898 | [170898-logic-light.json](./170898-logic-light.json) |
 | Logic Mahjong Souryuu | 326087 | [326087-logic-mahjong-souryuu.json](./326087-logic-mahjong-souryuu.json) |
 | Logic Master Detective 2 | 175188 | [175188-logic-master-detective-2.json](./175188-logic-master-detective-2.json) |
 | Logic Missile | 33382 | [33382-logic-missile.json](./33382-logic-missile.json) |
@@ -4448,6 +4453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Records: Bloom & Rage - Tape 2 | 314261 | [314261-lost-records-bloom-and-rage-tape-2.json](./314261-lost-records-bloom-and-rage-tape-2.json) |
 | Lost Region | 27107 | [27107-lost-region.json](./27107-lost-region.json) |
 | Lost Remnant: Roaches to Riches | 158056 | [158056-lost-remnant-roaches-to-riches.json](./158056-lost-remnant-roaches-to-riches.json) |
+| Lost Remnant: The End Tides | 170902 | [170902-lost-remnant-the-end-tides.json](./170902-lost-remnant-the-end-tides.json) |
 | Lost Remnant: Wherehouse | 163749 | [163749-lost-remnant-wherehouse.json](./163749-lost-remnant-wherehouse.json) |
 | Lost Resolve | 313293 | [313293-lost-resolve.json](./313293-lost-resolve.json) |
 | Lost Retrograde | 203844 | [203844-lost-retrograde.json](./203844-lost-retrograde.json) |
