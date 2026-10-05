@@ -2359,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner Riddle | 96669 | [96669-inner-riddle.json](./96669-inner-riddle.json) |
 | Inner Seasons | 258964 | [258964-inner-seasons.json](./258964-inner-seasons.json) |
 | Inner silence | 29869 | [29869-inner-silence.json](./29869-inner-silence.json) |
+| Inner Tao | 143956 | [143956-inner-tao.json](./143956-inner-tao.json) |
 | Inner Voice | 358966 | [358966-inner-voice.json](./358966-inner-voice.json) |
 | Inner Voices | 30429 | [30429-inner-voices.json](./30429-inner-voices.json) |
 | Inner Worlds | 70482 | [70482-inner-worlds.json](./70482-inner-worlds.json) |
