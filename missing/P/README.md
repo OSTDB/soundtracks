@@ -4818,6 +4818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plains of Havoc | 289306 | [289306-plains-of-havoc.json](./289306-plains-of-havoc.json) |
 | Plan B: Goddess's cards | 215700 | [215700-plan-b-goddesss-cards.json](./215700-plan-b-goddesss-cards.json) |
 | Plan B: Terraform | 226719 | [226719-plan-b-terraform.json](./226719-plan-b-terraform.json) |
+| Plana Gravatatis | 135076 | [135076-plana-gravatatis.json](./135076-plana-gravatatis.json) |
 | Planar Conquest | 33335 | [33335-planar-conquest.json](./33335-planar-conquest.json) |
 | Planarity | 246117 | [246117-planarity.json](./246117-planarity.json) |
 | Planck | 92468 | [92468-planck.json](./92468-planck.json) |
@@ -6498,6 +6499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyWar | 341564 | [341564-polywar.json](./341564-polywar.json) |
 | PolyZen Drive | 278679 | [278679-polyzen-drive.json](./278679-polyzen-drive.json) |
 | Pom Pom Purin: Koro-koro Daibouken | 222518 | [222518-pom-pom-purin-koro-koro-daibouken.json](./222518-pom-pom-purin-koro-koro-daibouken.json) |
+| Pom Simulator 9000 | 135006 | [135006-pom-simulator-9000.json](./135006-pom-simulator-9000.json) |
 | Pom-Bar: Weltenbauer | 330361 | [330361-pom-bar-weltenbauer.json](./330361-pom-bar-weltenbauer.json) |
 | Pom-Bear Interactive CD | 330358 | [330358-pom-bear-interactive-cd.json](./330358-pom-bear-interactive-cd.json) |
 | Pomberito | 286078 | [286078-pomberito.json](./286078-pomberito.json) |
