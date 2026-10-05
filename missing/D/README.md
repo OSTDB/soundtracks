@@ -7651,6 +7651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z II: Gekishin Frieza!! | 48682 | [48682-dragon-ball-z-ii-gekishin-frieza.json](./48682-dragon-ball-z-ii-gekishin-frieza.json) |
 | Dragon Ball Z III: Ressen Jinzou Ningen | 48680 | [48680-dragon-ball-z-iii-ressen-jinzou-ningen.json](./48680-dragon-ball-z-iii-ressen-jinzou-ningen.json) |
 | Dragon Ball Z Life | 328039 | [328039-dragon-ball-z-life.json](./328039-dragon-ball-z-life.json) |
+| Dragon Ball Z Tournament | 141526 | [141526-dragon-ball-z-tournament.json](./141526-dragon-ball-z-tournament.json) |
 | Dragon Ball Z: Atsumare! Goku's World | 230282 | [230282-dragon-ball-z-atsumare-gokus-world.json](./230282-dragon-ball-z-atsumare-gokus-world.json) |
 | Dragon Ball Z: Budokai 2 | 2564 | [2564-dragon-ball-z-budokai-2.json](./2564-dragon-ball-z-budokai-2.json) |
 | Dragon Ball Z: Budokai 3 - Collector's Edition | 291591 | [291591-dragon-ball-z-budokai-3-collectors-edition.json](./291591-dragon-ball-z-budokai-3-collectors-edition.json) |
