@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Injection | 10867 | [10867-race-injection.json](./10867-race-injection.json) |
 | Race Journey: Nitro | 219176 | [219176-race-journey-nitro.json](./219176-race-journey-nitro.json) |
 | Race Manager | 264630 | [264630-race-manager.json](./264630-race-manager.json) |
+| Race Maniacs | 132605 | [132605-race-maniacs.json](./132605-race-maniacs.json) |
 | Race Max Pro | 392152 | [392152-race-max-pro.json](./392152-race-max-pro.json) |
 | Race me now | 154385 | [154385-race-me-now.json](./154385-race-me-now.json) |
 | Race of the Nine Worlds | 352411 | [352411-race-of-the-nine-worlds.json](./352411-race-of-the-nine-worlds.json) |
