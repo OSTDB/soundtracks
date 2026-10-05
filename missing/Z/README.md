@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoop | 301395 | [301395-zoop.json](./301395-zoop.json) |
 | Zooparasite | 308918 | [308918-zooparasite.json](./308918-zooparasite.json) |
 | Zooplop | 278103 | [278103-zooplop.json](./278103-zooplop.json) |
+| Zooports: The Football | 145303 | [145303-zooports-the-football.json](./145303-zooports-the-football.json) |
 | Zoor: Majuu Tsukai Densetsu | 3650 | [3650-zoor-majuu-tsukai-densetsu.json](./3650-zoor-majuu-tsukai-densetsu.json) |
 | ZooRacers | 218961 | [218961-zooracers.json](./218961-zooracers.json) |
 | Zooted | 240184 | [240184-zooted.json](./240184-zooted.json) |
