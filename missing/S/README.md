@@ -1690,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolyard Sports | 206655 | [206655-schoolyard-sports.json](./206655-schoolyard-sports.json) |
 | Schrödinger no Neko: Die Katze von Schrödinger | 230513 | [230513-schrodinger-no-neko-die-katze-von-schrodinger.json](./230513-schrodinger-no-neko-die-katze-von-schrodinger.json) |
 | Schrodinger's Cat Burglar | 270929 | [270929-schrodingers-cat-burglar.json](./270929-schrodingers-cat-burglar.json) |
+| Schrodinger's cat simulator | 127819 | [127819-schrodingers-cat-simulator.json](./127819-schrodingers-cat-simulator.json) |
 | Schrodinger's Code | 224757 | [224757-schrodingers-code.json](./224757-schrodingers-code.json) |
 | Schrödinger's Dungeon | 381845 | [381845-schrodingers-dungeon.json](./381845-schrodingers-dungeon.json) |
 | Schrödinger’s Maze | 358477 | [358477-schrodinger-s-maze.json](./358477-schrodinger-s-maze.json) |
@@ -4567,6 +4568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shine: Journey of Light | 132017 | [132017-shine-journey-of-light.json](./132017-shine-journey-of-light.json) |
 | Shine's Adventures 0: Zombies Reload | 171408 | [171408-shines-adventures-0-zombies-reload.json](./171408-shines-adventures-0-zombies-reload.json) |
 | Shine's Adventures 2 (Zombie Attack) | 120372 | [120372-shines-adventures-2-zombie-attack.json](./120372-shines-adventures-2-zombie-attack.json) |
+| Shine's Adventures 3 (Sea Fight) | 127811 | [127811-shines-adventures-3-sea-fight.json](./127811-shines-adventures-3-sea-fight.json) |
 | Shine's Adventures 4 (Nightmare) | 129659 | [129659-shines-adventures-4-nightmare.json](./129659-shines-adventures-4-nightmare.json) |
 | Shine's Adventures 5: World of Box | 127318 | [127318-shines-adventures-5-world-of-box.json](./127318-shines-adventures-5-world-of-box.json) |
 | ShineG Has Nightmares | 68675 | [68675-shineg-has-nightmares.json](./68675-shineg-has-nightmares.json) |
@@ -10848,6 +10850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Station Alpha | 35964 | [35964-space-station-alpha.json](./35964-space-station-alpha.json) |
 | Space Station Cargo Simulator | 149241 | [149241-space-station-cargo-simulator.json](./149241-space-station-cargo-simulator.json) |
 | Space Station Escape | 282636 | [282636-space-station-escape.json](./282636-space-station-escape.json) |
+| Space Station Invader VR | 127711 | [127711-space-station-invader-vr.json](./127711-space-station-invader-vr.json) |
 | Space Station Loma: Operations | 29841 | [29841-space-station-loma-operations.json](./29841-space-station-loma-operations.json) |
 | Space Station Proto Speedmap Jam | 300420 | [300420-space-station-proto-speedmap-jam.json](./300420-space-station-proto-speedmap-jam.json) |
 | Space Station Racer | 197698 | [197698-space-station-racer.json](./197698-space-station-racer.json) |
@@ -16713,6 +16716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Crossfire | 65448 | [65448-super-crossfire.json](./65448-super-crossfire.json) |
 | Super Crown Land | 318548 | [318548-super-crown-land.json](./318548-super-crown-land.json) |
 | Super Crypto Kart | 138748 | [138748-super-crypto-kart.json](./138748-super-crypto-kart.json) |
+| Super Crystal Hunter | 127722 | [127722-super-crystal-hunter.json](./127722-super-crystal-hunter.json) |
 | Super Cubo | 130737 | [130737-super-cubo.json](./130737-super-cubo.json) |
 | Super Cup Finals | 40428 | [40428-super-cup-finals.json](./40428-super-cup-finals.json) |
 | Super Cup Football | 142368 | [142368-super-cup-football.json](./142368-super-cup-football.json) |
@@ -18760,6 +18764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzumiya Haruhi no Gekidou | 69295 | [69295-suzumiya-haruhi-no-gekidou.json](./69295-suzumiya-haruhi-no-gekidou.json) |
 | Suzumiya Haruhi no Houi | 97503 | [97503-suzumiya-haruhi-no-houi.json](./97503-suzumiya-haruhi-no-houi.json) |
 | Suzumiya Haruhi no Tomadoi | 72709 | [72709-suzumiya-haruhi-no-tomadoi.json](./72709-suzumiya-haruhi-no-tomadoi.json) |
+| Suzunaan on Fire | 127729 | [127729-suzunaan-on-fire.json](./127729-suzunaan-on-fire.json) |
 | Suzunone Seven! | 62265 | [62265-suzunone-seven.json](./62265-suzunone-seven.json) |
 | Suzy Burger | 151609 | [151609-suzy-burger.json](./151609-suzy-burger.json) |
 | Suzy Cube | 103247 | [103247-suzy-cube.json](./103247-suzy-cube.json) |
