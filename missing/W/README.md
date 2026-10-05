@@ -1718,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedgie Simulator | 216842 | [216842-wedgie-simulator.json](./216842-wedgie-simulator.json) |
 | Wednesday | 179022 | [179022-wednesday.json](./179022-wednesday.json) |
 | Wednesdays | 333946 | [333946-wednesdays.json](./333946-wednesdays.json) |
+| Wee Tanks! | 142708 | [142708-wee-tanks.json](./142708-wee-tanks.json) |
 | Wee Trains | 120293 | [120293-wee-trains.json](./120293-wee-trains.json) |
 | Weed & Greed | 348940 | [348940-weed-and-greed.json](./348940-weed-and-greed.json) |
 | Weed Bakery | 374631 | [374631-weed-bakery.json](./374631-weed-bakery.json) |
