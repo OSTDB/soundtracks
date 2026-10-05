@@ -12055,6 +12055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatterhouse 3 | 46194 | [46194-splatterhouse-3.json](./46194-splatterhouse-3.json) |
 | Splatterworld: Rick to Kyoufu no Daiou | 377793 | [377793-splatterworld-rick-to-kyoufu-no-daiou.json](./377793-splatterworld-rick-to-kyoufu-no-daiou.json) |
 | Spleef Game | 264025 | [264025-spleef-game.json](./264025-spleef-game.json) |
+| Spleen | 118140 | [118140-spleen.json](./118140-spleen.json) |
 | Splendor Blast | 40164 | [40164-splendor-blast.json](./40164-splendor-blast.json) |
 | Splendor: The Cities | 162870 | [162870-splendor-the-cities.json](./162870-splendor-the-cities.json) |
 | Splendor: The Strongholds | 172174 | [172174-splendor-the-strongholds.json](./172174-splendor-the-strongholds.json) |
@@ -12784,6 +12785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacks: Jungle! | 274552 | [274552-stacks-jungle.json](./274552-stacks-jungle.json) |
 | Stacks: Space! | 238520 | [238520-stacks-space.json](./238520-stacks-space.json) |
 | Stacks: Village! | 364000 | [364000-stacks-village.json](./364000-stacks-village.json) |
+| Stacksquatch | 118243 | [118243-stacksquatch.json](./118243-stacksquatch.json) |
 | Stacky Dash: Complete Edition | 333726 | [333726-stacky-dash-complete-edition.json](./333726-stacky-dash-complete-edition.json) |
 | Stacky Hero | 227866 | [227866-stacky-hero.json](./227866-stacky-hero.json) |
 | Stacky Spinners | 184386 | [184386-stacky-spinners.json](./184386-stacky-spinners.json) |
@@ -18126,6 +18128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tetris | 46116 | [46116-super-tetris.json](./46116-super-tetris.json) |
 | Super Tetris 3 | 42531 | [42531-super-tetris-3.json](./42531-super-tetris-3.json) |
 | Super Thunder Blade | 4471 | [4471-super-thunder-blade.json](./4471-super-thunder-blade.json) |
+| Super Tilt Bro. | 118213 | [118213-super-tilt-bro.json](./118213-super-tilt-bro.json) |
 | Super Time Force | 5336 | [5336-super-time-force.json](./5336-super-time-force.json) |
 | Super Tits Rush | 86752 | [86752-super-tits-rush.json](./86752-super-tits-rush.json) |
 | Super Toboggan 3D | 410883 | [410883-super-toboggan-3d.json](./410883-super-toboggan-3d.json) |
@@ -19037,6 +19040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Farm | 392907 | [392907-sweet-farm.json](./392907-sweet-farm.json) |
 | Sweet Fruitcake | 118974 | [118974-sweet-fruitcake.json](./118974-sweet-fruitcake.json) |
 | Sweet Fruits from the Magical Tree | 185104 | [185104-sweet-fruits-from-the-magical-tree.json](./185104-sweet-fruits-from-the-magical-tree.json) |
+| Sweet Galaxy Adventure! | 118227 | [118227-sweet-galaxy-adventure.json](./118227-sweet-galaxy-adventure.json) |
 | Sweet Girl Adventure 2 | 106151 | [106151-sweet-girl-adventure-2.json](./106151-sweet-girl-adventure-2.json) |
 | Sweet Girl Gurumelo | 258992 | [258992-sweet-girl-gurumelo.json](./258992-sweet-girl-gurumelo.json) |
 | Sweet Girls Collection | 352294 | [352294-sweet-girls-collection.json](./352294-sweet-girls-collection.json) |
