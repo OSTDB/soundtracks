@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Biker Starring Clumsy Colin | 45338 | [45338-action-biker-starring-clumsy-colin.json](./45338-action-biker-starring-clumsy-colin.json) |
 | Action Bowling Classic | 343475 | [343475-action-bowling-classic.json](./343475-action-bowling-classic.json) |
 | Action Card Football | 109662 | [109662-action-card-football.json](./109662-action-card-football.json) |
+| Action Commando | 171425 | [171425-action-commando.json](./171425-action-commando.json) |
 | Action Doom | 55134 | [55134-action-doom.json](./55134-action-doom.json) |
 | Action Fighter | 11885 | [11885-action-fighter.json](./11885-action-fighter.json) |
 | Action Force II: International Heroes | 73255 | [73255-action-force-ii-international-heroes.json](./73255-action-force-ii-international-heroes.json) |
@@ -1855,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affair | 279084 | [279084-affair.json](./279084-affair.json) |
 | Affairs of the Court: Choice of Romance | 32355 | [32355-affairs-of-the-court-choice-of-romance.json](./32355-affairs-of-the-court-choice-of-romance.json) |
 | Affairs of the Court: Choice of Romance - A Life Mage Child | 171383 | [171383-affairs-of-the-court-choice-of-romance-a-life-mage-child.json](./171383-affairs-of-the-court-choice-of-romance-a-life-mage-child.json) |
+| Affairs of the Court: Choice of Romance - Death to the Princess | 171426 | [171426-affairs-of-the-court-choice-of-romance-death-to-the-princess.json](./171426-affairs-of-the-court-choice-of-romance-death-to-the-princess.json) |
 | Affairs of the Court: Choice of Romance - Play as the Consort | 224490 | [224490-affairs-of-the-court-choice-of-romance-play-as-the-consort.json](./224490-affairs-of-the-court-choice-of-romance-play-as-the-consort.json) |
 | Affari Tuoi: Il Gioco Interattivo in DVD | 319739 | [319739-affari-tuoi-il-gioco-interattivo-in-dvd.json](./319739-affari-tuoi-il-gioco-interattivo-in-dvd.json) |
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
@@ -2081,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Fear 2: The Chaos Lord Gold | 180125 | [180125-age-of-fear-2-the-chaos-lord-gold.json](./180125-age-of-fear-2-the-chaos-lord-gold.json) |
 | Age of Fear 3: The Legend | 51550 | [51550-age-of-fear-3-the-legend.json](./51550-age-of-fear-3-the-legend.json) |
 | Age of Fear: The Undead King | 9952 | [9952-age-of-fear-the-undead-king.json](./9952-age-of-fear-the-undead-king.json) |
+| Age of Fear: The Undead King Gold - The Quest for Immortality | 171429 | [171429-age-of-fear-the-undead-king-gold-the-quest-for-immortality.json](./171429-age-of-fear-the-undead-king-gold-the-quest-for-immortality.json) |
 | Age of Fear: Total | 249875 | [249875-age-of-fear-total.json](./249875-age-of-fear-total.json) |
 | Age of Gladiators | 33545 | [33545-age-of-gladiators.json](./33545-age-of-gladiators.json) |
 | Age of Gladiators II | 41959 | [41959-age-of-gladiators-ii.json](./41959-age-of-gladiators-ii.json) |
@@ -4599,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AnderKant 4 | 339935 | [339935-anderkant-4.json](./339935-anderkant-4.json) |
 | Anders: The Dark Coast | 303146 | [303146-anders-the-dark-coast.json](./303146-anders-the-dark-coast.json) |
 | Anderson | 102378 | [102378-anderson.json](./102378-anderson.json) |
+| Anderson | 171444 | [171444-anderson.json](./171444-anderson.json) |
 | Andi-Land | 84203 | [84203-andi-land.json](./84203-andi-land.json) |
 | Andor's Trail | 207864 | [207864-andors-trail.json](./207864-andors-trail.json) |
 | Andou: Pulse of Cup | 369572 | [369572-andou-pulse-of-cup.json](./369572-andou-pulse-of-cup.json) |
@@ -4823,6 +4827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Peppa | 320890 | [320890-angry-peppa.json](./320890-angry-peppa.json) |
 | Angry Pigs | 194980 | [194980-angry-pigs.json](./194980-angry-pigs.json) |
 | Angry Robot Girlfriend | 290508 | [290508-angry-robot-girlfriend.json](./290508-angry-robot-girlfriend.json) |
+| Angry Rock | 171448 | [171448-angry-rock.json](./171448-angry-rock.json) |
 | Angry Rocketeer Frenzy | 190018 | [190018-angry-rocketeer-frenzy.json](./190018-angry-rocketeer-frenzy.json) |
 | Angry shapes: Clash of geometry | 52786 | [52786-angry-shapes-clash-of-geometry.json](./52786-angry-shapes-clash-of-geometry.json) |
 | Angry Shark 2016 | 106125 | [106125-angry-shark-2016.json](./106125-angry-shark-2016.json) |
@@ -5768,6 +5773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocolypse: Vel | 316830 | [316830-apocolypse-vel.json](./316830-apocolypse-vel.json) |
 | Apocripha/0 Alex Disk | 204557 | [204557-apocripha-0-alex-disk.json](./204557-apocripha-0-alex-disk.json) |
 | Apocripha/0 Platina Disk | 204560 | [204560-apocripha-0-platina-disk.json](./204560-apocripha-0-platina-disk.json) |
+| Apocrypha | 171416 | [171416-apocrypha.json](./171416-apocrypha.json) |
 | Apogee Games: Companion CD-ROM | 119059 | [119059-apogee-games-companion-cd-rom.json](./119059-apogee-games-companion-cd-rom.json) |
 | Apokalypsis | 30817 | [30817-apokalypsis.json](./30817-apokalypsis.json) |
 | Apollo 11 VR | 33145 | [33145-apollo-11-vr.json](./33145-apollo-11-vr.json) |
