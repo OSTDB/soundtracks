@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occult Chambers | 235186 | [235186-occult-chambers.json](./235186-occult-chambers.json) |
 | Occult: Scarlet Elegy | 404973 | [404973-occult-scarlet-elegy.json](./404973-occult-scarlet-elegy.json) |
 | OcculThieves | 272374 | [272374-occulthieves.json](./272374-occulthieves.json) |
+| Occultism Interrogation: The Ritual of Little Nightmares | 164922 | [164922-occultism-interrogation-the-ritual-of-little-nightmares.json](./164922-occultism-interrogation-the-ritual-of-little-nightmares.json) |
 | Occultist Girl Magatsuhi | 270188 | [270188-occultist-girl-magatsuhi.json](./270188-occultist-girl-magatsuhi.json) |
 | Occulto | 192948 | [192948-occulto.json](./192948-occulto.json) |
 | Occultus | 74512 | [74512-occultus.json](./74512-occultus.json) |
@@ -1072,12 +1073,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Board Game | 76512 | [76512-on-board-game.json](./76512-on-board-game.json) |
 | On Board Remastered | 109665 | [109665-on-board-remastered.json](./109665-on-board-remastered.json) |
 | On Christmas He Will Return Home | 281462 | [281462-on-christmas-he-will-return-home.json](./281462-on-christmas-he-will-return-home.json) |
+| On Closer Inspection | 164942 | [164942-on-closer-inspection.json](./164942-on-closer-inspection.json) |
 | On Constant Delay | 400296 | [400296-on-constant-delay.json](./400296-on-constant-delay.json) |
 | On Dark Terms | 221134 | [221134-on-dark-terms.json](./221134-on-dark-terms.json) |
 | On Duty | 130378 | [130378-on-duty.json](./130378-on-duty.json) |
 | On Earth as in Hell: Woytons Plague | 218739 | [218739-on-earth-as-in-hell-woytons-plague.json](./218739-on-earth-as-in-hell-woytons-plague.json) |
 | On Guard | 185535 | [185535-on-guard.json](./185535-on-guard.json) |
 | On Him Their Lives Depend 01 | 271996 | [271996-on-him-their-lives-depend-01.json](./271996-on-him-their-lives-depend-01.json) |
+| On Key Up: A Game for Keyboards | 164949 | [164949-on-key-up-a-game-for-keyboards.json](./164949-on-key-up-a-game-for-keyboards.json) |
 | On learning that the night will soon be over | 135860 | [135860-on-learning-that-the-night-will-soon-be-over.json](./135860-on-learning-that-the-night-will-soon-be-over.json) |
 | On Leaving the Building | 229784 | [229784-on-leaving-the-building.json](./229784-on-leaving-the-building.json) |
 | On Love, On Monsters | 413779 | [413779-on-love-on-monsters.json](./413779-on-love-on-monsters.json) |
