@@ -1229,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mais um Dia! | 278610 | [278610-mais-um-dia.json](./278610-mais-um-dia.json) |
 | Maison Ikkoku Kanketsu Hen: Sayonara, Soshite... | 91766 | [91766-maison-ikkoku-kanketsu-hen-sayonara-soshite.json](./91766-maison-ikkoku-kanketsu-hen-sayonara-soshite.json) |
 | Maison Ikkoku Kanketsu Special | 91764 | [91764-maison-ikkoku-kanketsu-special.json](./91764-maison-ikkoku-kanketsu-special.json) |
+| Maison Ikkoku: Omoide no Photograph | 160301 | [160301-maison-ikkoku-omoide-no-photograph.json](./160301-maison-ikkoku-omoide-no-photograph.json) |
 | Maison Kanraku: The Second Climax | 59992 | [59992-maison-kanraku-the-second-climax.json](./59992-maison-kanraku-the-second-climax.json) |
 | Maisons de repos | 333714 | [333714-maisons-de-repos.json](./333714-maisons-de-repos.json) |
 | Maitetsu: Pure Station - Special Luxury Version with Triple Suede Tapestry Limited Edition | 167158 | [167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json](./167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json) |
@@ -3379,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Crusher | 104827 | [104827-maze-crusher.json](./104827-maze-crusher.json) |
 | Maze Death Race | 319586 | [319586-maze-death-race.json](./319586-maze-death-race.json) |
 | Maze Defenders | 255734 | [255734-maze-defenders.json](./255734-maze-defenders.json) |
+| Maze Escape | 160303 | [160303-maze-escape.json](./160303-maze-escape.json) |
 | Maze Escape | 320813 | [320813-maze-escape.json](./320813-maze-escape.json) |
 | Maze Escape | 345524 | [345524-maze-escape.json](./345524-maze-escape.json) |
 | Maze Estate Escape | 362982 | [362982-maze-estate-escape.json](./362982-maze-estate-escape.json) |
@@ -10953,6 +10955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovely Wife: Deluxe Edition | 227184 | [227184-my-lovely-wife-deluxe-edition.json](./227184-my-lovely-wife-deluxe-edition.json) |
 | My Lovey-Dovey Angel Is a Total Deadbeat: Seriously Scary! | 411717 | [411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json](./411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json) |
 | My Low Poly City | 163892 | [163892-my-low-poly-city.json](./163892-my-low-poly-city.json) |
+| My Lust Wish | 160274 | [160274-my-lust-wish.json](./160274-my-lust-wish.json) |
 | My Mafia Girlfriend | 229111 | [229111-my-mafia-girlfriend.json](./229111-my-mafia-girlfriend.json) |
 | My Magic Florist | 146773 | [146773-my-magic-florist.json](./146773-my-magic-florist.json) |
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
