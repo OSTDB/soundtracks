@@ -5488,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Evolutions | 357853 | [357853-horse-evolutions.json](./357853-horse-evolutions.json) |
 | Horse Farm | 105275 | [105275-horse-farm.json](./105275-horse-farm.json) |
 | Horse Isle | 60048 | [60048-horse-isle.json](./60048-horse-isle.json) |
+| Horse Isle 3: Infinite Wilds | 137434 | [137434-horse-isle-3-infinite-wilds.json](./137434-horse-isle-3-infinite-wilds.json) |
 | Horse Life | 47948 | [47948-horse-life.json](./47948-horse-life.json) |
 | Horse Life 3 | 151208 | [151208-horse-life-3.json](./151208-horse-life-3.json) |
 | Horse Life Adventures | 201794 | [201794-horse-life-adventures.json](./201794-horse-life-adventures.json) |
@@ -5895,6 +5896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Cards: TD | 298128 | [298128-house-of-cards-td.json](./298128-house-of-cards-td.json) |
 | House of Cathalon | 142442 | [142442-house-of-cathalon.json](./142442-house-of-cathalon.json) |
 | House of Dead Skin | 316078 | [316078-house-of-dead-skin.json](./316078-house-of-dead-skin.json) |
+| House of Detention | 137405 | [137405-house-of-detention.json](./137405-house-of-detention.json) |
 | House of Everlast | 269004 | [269004-house-of-everlast.json](./269004-house-of-everlast.json) |
 | House of Fate | 184441 | [184441-house-of-fate.json](./184441-house-of-fate.json) |
 | House of Fear: Cursed Souls | 228686 | [228686-house-of-fear-cursed-souls.json](./228686-house-of-fear-cursed-souls.json) |
