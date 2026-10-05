@@ -2730,10 +2730,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XI: Vision of Abyssea | 255774 | [255774-final-fantasy-xi-vision-of-abyssea.json](./255774-final-fantasy-xi-vision-of-abyssea.json) |
 | Final Fantasy XI: Wings of the Goddess | 402 | [402-final-fantasy-xi-wings-of-the-goddess.json](./402-final-fantasy-xi-wings-of-the-goddess.json) |
 | Final Fantasy XII: The Zodiac Age - Collector's Edition | 136364 | [136364-final-fantasy-xii-the-zodiac-age-collectors-edition.json](./136364-final-fantasy-xii-the-zodiac-age-collectors-edition.json) |
+| Final Fantasy XII: The Zodiac Age - Limited Steelbook Edition | 136173 | [136173-final-fantasy-xii-the-zodiac-age-limited-steelbook-edition.json](./136173-final-fantasy-xii-the-zodiac-age-limited-steelbook-edition.json) |
 | Final Fantasy XIII-2: Requiem of the Goddess | 294213 | [294213-final-fantasy-xiii-2-requiem-of-the-goddess.json](./294213-final-fantasy-xiii-2-requiem-of-the-goddess.json) |
 | Final Fantasy XIV Online | 14729 | [14729-final-fantasy-xiv-online.json](./14729-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV Online | 386 | [386-final-fantasy-xiv-online.json](./386-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV Online: Complete Edition | 293775 | [293775-final-fantasy-xiv-online-complete-edition.json](./293775-final-fantasy-xiv-online-complete-edition.json) |
+| Final Fantasy XIV Online: Starter Edition | 136224 | [136224-final-fantasy-xiv-online-starter-edition.json](./136224-final-fantasy-xiv-online-starter-edition.json) |
 | Final Fantasy XIV Online: Starter Edition | 293777 | [293777-final-fantasy-xiv-online-starter-edition.json](./293777-final-fantasy-xiv-online-starter-edition.json) |
 | Final Fantasy XIV: A Realm Reborn - Collector's Edition | 41839 | [41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json](./41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json) |
 | Final Fantasy XIV: Endwalker | 143232 | [143232-final-fantasy-xiv-endwalker.json](./143232-final-fantasy-xiv-endwalker.json) |
@@ -5636,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport 4: Essentials Edition | 47395 | [47395-forza-motorsport-4-essentials-edition.json](./47395-forza-motorsport-4-essentials-edition.json) |
 | Forza Motorsport 4: Limited Collector's Edition | 41600 | [41600-forza-motorsport-4-limited-collectors-edition.json](./41600-forza-motorsport-4-limited-collectors-edition.json) |
 | Forza Motorsport 5 | 2131 | [2131-forza-motorsport-5.json](./2131-forza-motorsport-5.json) |
+| Forza Motorsport 5: Game of the Year Edition | 136175 | [136175-forza-motorsport-5-game-of-the-year-edition.json](./136175-forza-motorsport-5-game-of-the-year-edition.json) |
 | Forza Motorsport 6 | 8558 | [8558-forza-motorsport-6.json](./8558-forza-motorsport-6.json) |
 | Forza Motorsport 7 | 36872 | [36872-forza-motorsport-7.json](./36872-forza-motorsport-7.json) |
 | Forza Motorsport 7: Deluxe Edition | 84940 | [84940-forza-motorsport-7-deluxe-edition.json](./84940-forza-motorsport-7-deluxe-edition.json) |
