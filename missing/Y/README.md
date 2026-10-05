@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yīzìqiānjīn | 386966 | [386966-yiziqianjin.json](./386966-yiziqianjin.json) |
 | YKnytt | 408144 | [408144-yknytt.json](./408144-yknytt.json) |
 | Ylands | 36297 | [36297-ylands.json](./36297-ylands.json) |
+| Ylands: Exploration Pack | 164420 | [164420-ylands-exploration-pack.json](./164420-ylands-exploration-pack.json) |
 | Ymir | 50092 | [50092-ymir.json](./50092-ymir.json) |
 | Yni^ | 339804 | [339804-yni.json](./339804-yni.json) |
 | YNN | 222206 | [222206-ynn.json](./222206-ynn.json) |
