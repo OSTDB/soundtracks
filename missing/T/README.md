@@ -5335,6 +5335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frightening Nightmare of Little Eddy | 184996 | [184996-the-frightening-nightmare-of-little-eddy.json](./184996-the-frightening-nightmare-of-little-eddy.json) |
 | The Frog Festival | 382987 | [382987-the-frog-festival.json](./382987-the-frog-festival.json) |
 | The Frog Game Amazing Simulator | 100861 | [100861-the-frog-game-amazing-simulator.json](./100861-the-frog-game-amazing-simulator.json) |
+| The Frog Prince | 149224 | [149224-the-frog-prince.json](./149224-the-frog-prince.json) |
 | The Frog’s Adventure | 401538 | [401538-the-frog-s-adventure.json](./401538-the-frog-s-adventure.json) |
 | The Froglings | 338305 | [338305-the-froglings.json](./338305-the-froglings.json) |
 | The Frogman Show DS: Datte, Shouganai janai. | 287081 | [287081-the-frogman-show-ds-datte-shouganai-janai.json](./287081-the-frogman-show-ds-datte-shouganai-janai.json) |
@@ -6121,6 +6122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island of Bad Women | 360082 | [360082-the-island-of-bad-women.json](./360082-the-island-of-bad-women.json) |
 | The Island of Lost Hope | 73528 | [73528-the-island-of-lost-hope.json](./73528-the-island-of-lost-hope.json) |
 | The Island of Robot Poets | 419870 | [419870-the-island-of-robot-poets.json](./419870-the-island-of-robot-poets.json) |
+| The Island of Spirits | 149227 | [149227-the-island-of-spirits.json](./149227-the-island-of-spirits.json) |
 | The Island of Thugs | 369698 | [369698-the-island-of-thugs.json](./369698-the-island-of-thugs.json) |
 | The Island Rescue | 236005 | [236005-the-island-rescue.json](./236005-the-island-rescue.json) |
 | The Island: Escape Room | 289992 | [289992-the-island-escape-room.json](./289992-the-island-escape-room.json) |
@@ -7034,6 +7036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Liminal | 372130 | [372130-the-liminal.json](./372130-the-liminal.json) |
 | The Liminal Space | 289988 | [289988-the-liminal-space.json](./289988-the-liminal-space.json) |
 | The Liminal Theory | 312130 | [312130-the-liminal-theory.json](./312130-the-liminal-theory.json) |
+| The Line | 149233 | [149233-the-line.json](./149233-the-line.json) |
 | The Line | 315715 | [315715-the-line.json](./315715-the-line.json) |
 | The Line of Defense | 370184 | [370184-the-line-of-defense.json](./370184-the-line-of-defense.json) |
 | The Line TD | 275335 | [275335-the-line-td.json](./275335-the-line-td.json) |
@@ -12703,6 +12706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Times | 391709 | [391709-times.json](./391709-times.json) |
 | Times & Galaxy | 248316 | [248316-times-and-galaxy.json](./248316-times-and-galaxy.json) |
 | Times Dungeon | 224593 | [224593-times-dungeon.json](./224593-times-dungeon.json) |
+| Times Infinity | 149237 | [149237-times-infinity.json](./149237-times-infinity.json) |
 | Times of Lore | 12486 | [12486-times-of-lore.json](./12486-times-of-lore.json) |
 | Times Of War | 253428 | [253428-times-of-war.json](./253428-times-of-war.json) |
 | Times Trials | 244245 | [244245-times-trials.json](./244245-times-trials.json) |
@@ -14837,6 +14841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of unlife | 180831 | [180831-tower-of-unlife.json](./180831-tower-of-unlife.json) |
 | Tower of Waifus 2 | 148565 | [148565-tower-of-waifus-2.json](./148565-tower-of-waifus-2.json) |
 | Tower of Winter | 240885 | [240885-tower-of-winter.json](./240885-tower-of-winter.json) |
+| Tower of Wishes | 149230 | [149230-tower-of-wishes.json](./149230-tower-of-wishes.json) |
 | Tower Of Wishes 3: Japan | 289933 | [289933-tower-of-wishes-3-japan.json](./289933-tower-of-wishes-3-japan.json) |
 | Tower of Wishes 4: Shaka | 356769 | [356769-tower-of-wishes-4-shaka.json](./356769-tower-of-wishes-4-shaka.json) |
 | Tower Offender | 177367 | [177367-tower-offender.json](./177367-tower-offender.json) |
@@ -17240,6 +17245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Driver | 252258 | [252258-true-driver.json](./252258-true-driver.json) |
 | True Fantasy Live Online | 18106 | [18106-true-fantasy-live-online.json](./18106-true-fantasy-live-online.json) |
 | True Fear: Forsaken Souls Part 2 | 111276 | [111276-true-fear-forsaken-souls-part-2.json](./111276-true-fear-forsaken-souls-part-2.json) |
+| True Hate | 149239 | [149239-true-hate.json](./149239-true-hate.json) |
 | True Horror | 103674 | [103674-true-horror.json](./103674-true-horror.json) |
 | True Love | 76455 | [76455-true-love.json](./76455-true-love.json) |
 | True Love For Her | 297042 | [297042-true-love-for-her.json](./297042-true-love-for-her.json) |
@@ -17408,6 +17414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukikage no Simulacre: Kaihou no Hane | 120995 | [120995-tsukikage-no-simulacre-kaihou-no-hane.json](./120995-tsukikage-no-simulacre-kaihou-no-hane.json) |
 | Tsukikomori | 37781 | [37781-tsukikomori.json](./37781-tsukikomori.json) |
 | Tsukino Paradise | 44105 | [44105-tsukino-paradise.json](./44105-tsukino-paradise.json) |
+| Tsukisas Arena | 149225 | [149225-tsukisas-arena.json](./149225-tsukisas-arena.json) |
 | Tsukodome | 280469 | [280469-tsukodome.json](./280469-tsukodome.json) |
 | Tsukumo Reiko's Summer Holidays | 394163 | [394163-tsukumo-reikos-summer-holidays.json](./394163-tsukumo-reikos-summer-holidays.json) |
 | Tsukumobake | 183452 | [183452-tsukumobake.json](./183452-tsukumobake.json) |
@@ -17608,6 +17615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Racing | 215133 | [215133-turbo-racing.json](./215133-turbo-racing.json) |
 | Turbo Skiddy Racing | 146848 | [146848-turbo-skiddy-racing.json](./146848-turbo-skiddy-racing.json) |
 | Turbo Sliders Unlimited | 188595 | [188595-turbo-sliders-unlimited.json](./188595-turbo-sliders-unlimited.json) |
+| Turbo Sloths | 149199 | [149199-turbo-sloths.json](./149199-turbo-sloths.json) |
 | Turbo Soccer VR | 102131 | [102131-turbo-soccer-vr.json](./102131-turbo-soccer-vr.json) |
 | Turbo Sprint | 229785 | [229785-turbo-sprint.json](./229785-turbo-sprint.json) |
 | Turbo Stars | 352166 | [352166-turbo-stars.json](./352166-turbo-stars.json) |
