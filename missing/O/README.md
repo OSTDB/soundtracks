@@ -2107,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbs Match | 88157 | [88157-orbs-match.json](./88157-orbs-match.json) |
 | Orbs Orbs Orbs | 342160 | [342160-orbs-orbs-orbs.json](./342160-orbs-orbs-orbs.json) |
 | Orbtangle | 221119 | [221119-orbtangle.json](./221119-orbtangle.json) |
+| Orbtrain: Slot Racing | 151270 | [151270-orbtrain-slot-racing.json](./151270-orbtrain-slot-racing.json) |
 | OrbWars | 154051 | [154051-orbwars.json](./154051-orbwars.json) |
 | Orbyss | 343264 | [343264-orbyss.json](./343264-orbyss.json) |
 | Orc Hunt | 186277 | [186277-orc-hunt.json](./186277-orc-hunt.json) |
@@ -2982,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcat | 373530 | [373530-overcat.json](./373530-overcat.json) |
 | Overclocked: The Aclockalypse | 96863 | [96863-overclocked-the-aclockalypse.json](./96863-overclocked-the-aclockalypse.json) |
 | Overcooked! 2: Surf 'n' Turf | 110575 | [110575-overcooked-2-surf-n-turf.json](./110575-overcooked-2-surf-n-turf.json) |
+| Overcooked! 2: Too Many Cooks Pack | 151307 | [151307-overcooked-2-too-many-cooks-pack.json](./151307-overcooked-2-too-many-cooks-pack.json) |
 | Overcooked! All You Can Eat: The Ever Peckish Rises | 182254 | [182254-overcooked-all-you-can-eat-the-ever-peckish-rises.json](./182254-overcooked-all-you-can-eat-the-ever-peckish-rises.json) |
 | Overcooked! All You Can Eat: The Overcooked Birthday Party | 182255 | [182255-overcooked-all-you-can-eat-the-overcooked-birthday-party.json](./182255-overcooked-all-you-can-eat-the-overcooked-birthday-party.json) |
 | Overcraft | 113148 | [113148-overcraft.json](./113148-overcraft.json) |
@@ -3080,6 +3082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overshift | 196856 | [196856-overshift.json](./196856-overshift.json) |
 | Overslept | 141727 | [141727-overslept.json](./141727-overslept.json) |
 | OverSoul | 109067 | [109067-oversoul.json](./109067-oversoul.json) |
+| Overstars | 151286 | [151286-overstars.json](./151286-overstars.json) |
 | Overtake | 94193 | [94193-overtake.json](./94193-overtake.json) |
 | OverTheCloud_Global | 117100 | [117100-overthecloud-global.json](./117100-overthecloud-global.json) |
 | Overthrown | 309472 | [309472-overthrown.json](./309472-overthrown.json) |
