@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magin: The Rat Project Stories - Supporter Pack | 396912 | [396912-magin-the-rat-project-stories-supporter-pack.json](./396912-magin-the-rat-project-stories-supporter-pack.json) |
 | Maginary | 129163 | [129163-maginary.json](./129163-maginary.json) |
 | Magincross | 195048 | [195048-magincross.json](./195048-magincross.json) |
+| Magink | 125877 | [125877-magink.json](./125877-magink.json) |
 | Magiopolis | 277048 | [277048-magiopolis.json](./277048-magiopolis.json) |
 | Magirune 2 | 197178 | [197178-magirune-2.json](./197178-magirune-2.json) |
 | Magissy | 169843 | [169843-magissy.json](./169843-magissy.json) |
@@ -2937,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of the Wind | 123642 | [123642-master-of-the-wind.json](./123642-master-of-the-wind.json) |
 | Master of Vtuber | 267452 | [267452-master-of-vtuber.json](./267452-master-of-vtuber.json) |
 | Master of War: Rule of Power | 199451 | [199451-master-of-war-rule-of-power.json](./199451-master-of-war-rule-of-power.json) |
+| Master of Wills | 125873 | [125873-master-of-wills.json](./125873-master-of-wills.json) |
 | Master Pyrox Wizard Smackdown | 102924 | [102924-master-pyrox-wizard-smackdown.json](./102924-master-pyrox-wizard-smackdown.json) |
 | Master Rallye | 44707 | [44707-master-rallye.json](./44707-master-rallye.json) |
 | Master Reboot | 10541 | [10541-master-reboot.json](./10541-master-reboot.json) |
@@ -3522,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazie | 296038 | [296038-mazie.json](./296038-mazie.json) |
 | Mazin Saga: Mutant Fighter | 36947 | [36947-mazin-saga-mutant-fighter.json](./36947-mazin-saga-mutant-fighter.json) |
 | Mazinger Z | 153841 | [153841-mazinger-z.json](./153841-mazinger-z.json) |
+| MazM: The Phantom of the Opera | 125865 | [125865-mazm-the-phantom-of-the-opera.json](./125865-mazm-the-phantom-of-the-opera.json) |
 | Mazovian Adventure | 128961 | [128961-mazovian-adventure.json](./128961-mazovian-adventure.json) |
 | Mazy | 385576 | [385576-mazy.json](./385576-mazy.json) |
 | Mazzle Christmas | 329040 | [329040-mazzle-christmas.json](./329040-mazzle-christmas.json) |
@@ -3843,6 +3846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medic Mayhem | 406680 | [406680-medic-mayhem.json](./406680-medic-mayhem.json) |
 | Medical Record Sheet | 253003 | [253003-medical-record-sheet.json](./253003-medical-record-sheet.json) |
 | Medical verdict | 107913 | [107913-medical-verdict.json](./107913-medical-verdict.json) |
+| Medicalat | 125780 | [125780-medicalat.json](./125780-medicalat.json) |
 | Medicevil | 279121 | [279121-medicevil.json](./279121-medicevil.json) |
 | Medicinal Cuisine Master | 358480 | [358480-medicinal-cuisine-master.json](./358480-medicinal-cuisine-master.json) |
 | Medicinal Herbs: Cannabis Grow Simulator | 172149 | [172149-medicinal-herbs-cannabis-grow-simulator.json](./172149-medicinal-herbs-cannabis-grow-simulator.json) |
