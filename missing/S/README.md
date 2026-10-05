@@ -5541,6 +5541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sightseeing Puzzle: Echter Puzzlespass für Unterwegs | 252679 | [252679-sightseeing-puzzle-echter-puzzlespass-fur-unterwegs.json](./252679-sightseeing-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | SightWords Pro | 89157 | [89157-sightwords-pro.json](./89157-sightwords-pro.json) |
 | Sigi: A Fart for Melusina | 75066 | [75066-sigi-a-fart-for-melusina.json](./75066-sigi-a-fart-for-melusina.json) |
+| Sigil | 121415 | [121415-sigil.json](./121415-sigil.json) |
 | Sigil | 313172 | [313172-sigil.json](./313172-sigil.json) |
 | Sigil of Kings | 235722 | [235722-sigil-of-kings.json](./235722-sigil-of-kings.json) |
 | Sigil Valley | 272456 | [272456-sigil-valley.json](./272456-sigil-valley.json) |
@@ -8129,6 +8130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snezhinka: Sentinel Girls 2 | 284892 | [284892-snezhinka-sentinel-girls-2.json](./284892-snezhinka-sentinel-girls-2.json) |
 | Snezhnaja Koroleva | 197956 | [197956-snezhnaja-koroleva.json](./197956-snezhnaja-koroleva.json) |
 | Snik | 34795 | [34795-snik.json](./34795-snik.json) |
+| Sniks | 121518 | [121518-sniks.json](./121518-sniks.json) |
 | Snip It! | 292247 | [292247-snip-it.json](./292247-snip-it.json) |
 | Snipe Hunt | 198313 | [198313-snipe-hunt.json](./198313-snipe-hunt.json) |
 | Sniper 3D | 311780 | [311780-sniper-3d.json](./311780-sniper-3d.json) |
@@ -13603,6 +13605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight: Eye of the Storm | 155670 | [155670-starlight-eye-of-the-storm.json](./155670-starlight-eye-of-the-storm.json) |
 | Starlines | 305956 | [305956-starlines.json](./305956-starlines.json) |
 | Starlink: Battle for Atlas | 37066 | [37066-starlink-battle-for-atlas.json](./37066-starlink-battle-for-atlas.json) |
+| Starlink: Battle for Atlas - Deluxe Edition | 121507 | [121507-starlink-battle-for-atlas-deluxe-edition.json](./121507-starlink-battle-for-atlas-deluxe-edition.json) |
 | Starlink: Battle for Atlas - Digital Edition | 246893 | [246893-starlink-battle-for-atlas-digital-edition.json](./246893-starlink-battle-for-atlas-digital-edition.json) |
 | Starlit Adventures Golden Stars | 147627 | [147627-starlit-adventures-golden-stars.json](./147627-starlit-adventures-golden-stars.json) |
 | Starlit Kart Racing | 215153 | [215153-starlit-kart-racing.json](./215153-starlit-kart-racing.json) |
@@ -18881,6 +18884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap Fire | 336655 | [336655-swap-fire.json](./336655-swap-fire.json) |
 | Swap Heroes | 197242 | [197242-swap-heroes.json](./197242-swap-heroes.json) |
 | Swap Motion | 316134 | [316134-swap-motion.json](./316134-swap-motion.json) |
+| Swap n Merge | 121509 | [121509-swap-n-merge.json](./121509-swap-n-merge.json) |
 | Swap Swap | 110536 | [110536-swap-swap.json](./110536-swap-swap.json) |
 | Swap the Matrix | 54417 | [54417-swap-the-matrix.json](./54417-swap-the-matrix.json) |
 | Swap-Swap Panda | 336122 | [336122-swap-swap-panda.json](./336122-swap-swap-panda.json) |
