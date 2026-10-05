@@ -5479,6 +5479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress Under Siege | 89795 | [89795-fortress-under-siege.json](./89795-fortress-under-siege.json) |
 | Fortress Underground | 49515 | [49515-fortress-underground.json](./49515-fortress-underground.json) |
 | Fortress VR | 239730 | [239730-fortress-vr.json](./239730-fortress-vr.json) |
+| FortressCraft Evolved!: Adventures Pack | 168202 | [168202-fortresscraft-evolved-adventures-pack.json](./168202-fortresscraft-evolved-adventures-pack.json) |
 | FortressCraft Evolved!: Frozen Factory | 167319 | [167319-fortresscraft-evolved-frozen-factory.json](./167319-fortresscraft-evolved-frozen-factory.json) |
 | FortressCraft: Chapter 1 | 168834 | [168834-fortresscraft-chapter-1.json](./168834-fortresscraft-chapter-1.json) |
 | Forts: High Seas | 195771 | [195771-forts-high-seas.json](./195771-forts-high-seas.json) |
