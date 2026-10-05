@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TasteMaker | 143630 | [143630-tastemaker.json](./143630-tastemaker.json) |
 | Tasty Arena | 151109 | [151109-tasty-arena.json](./151109-tasty-arena.json) |
 | Tasty Defense | 236246 | [236246-tasty-defense.json](./236246-tasty-defense.json) |
+| Tasty Jigsaw Happy Hour 2 | 157086 | [157086-tasty-jigsaw-happy-hour-2.json](./157086-tasty-jigsaw-happy-hour-2.json) |
 | Tasty Jigsaw: Happy Hour 3 | 255067 | [255067-tasty-jigsaw-happy-hour-3.json](./255067-tasty-jigsaw-happy-hour-3.json) |
 | Tasty Love | 192453 | [192453-tasty-love.json](./192453-tasty-love.json) |
 | Tasty Ninja: Vegetable Invasion | 181769 | [181769-tasty-ninja-vegetable-invasion.json](./181769-tasty-ninja-vegetable-invasion.json) |
@@ -11308,6 +11309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic-Tac-Toe for Kids | 103678 | [103678-tic-tac-toe-for-kids.json](./103678-tic-tac-toe-for-kids.json) |
 | Tic-Tac-Toe Star | 240187 | [240187-tic-tac-toe-star.json](./240187-tic-tac-toe-star.json) |
 | Tic-Tac-Touch: FS5 | 72628 | [72628-tic-tac-touch-fs5.json](./72628-tic-tac-touch-fs5.json) |
+| Tic-Tac: Twelve O’Clock | 157093 | [157093-tic-tac-twelve-o-clock.json](./157093-tic-tac-twelve-o-clock.json) |
 | Tic-Tactics-Toe | 397175 | [397175-tic-tactics-toe.json](./397175-tic-tactics-toe.json) |
 | Tic-Toc-Tower | 34781 | [34781-tic-toc-tower.json](./34781-tic-toc-tower.json) |
 | Tic-Toc-Tower: Teslagrad | 171063 | [171063-tic-toc-tower-teslagrad.json](./171063-tic-toc-tower-teslagrad.json) |
@@ -12506,6 +12508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time is Solid Here | 197960 | [197960-time-is-solid-here.json](./197960-time-is-solid-here.json) |
 | Time Journey | 298122 | [298122-time-journey.json](./298122-time-journey.json) |
 | Time Jump | 347335 | [347335-time-jump.json](./347335-time-jump.json) |
+| Time Jumper | 157094 | [157094-time-jumper.json](./157094-time-jumper.json) |
 | Time Keeper | 198459 | [198459-time-keeper.json](./198459-time-keeper.json) |
 | Time Killers | 8939 | [8939-time-killers.json](./8939-time-killers.json) |
 | Time Kings: Modern War in Medieval Age | 401093 | [401093-time-kings-modern-war-in-medieval-age.json](./401093-time-kings-modern-war-in-medieval-age.json) |
@@ -17802,6 +17805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Soul | 356067 | [356067-twin-soul.json](./356067-twin-soul.json) |
 | Twin Soul | 96113 | [96113-twin-soul.json](./96113-twin-soul.json) |
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
+| Twin Stick Tanks | 157075 | [157075-twin-stick-tanks.json](./157075-twin-stick-tanks.json) |
 | Twin Tornado | 363889 | [363889-twin-tornado.json](./363889-twin-tornado.json) |
 | Twin Turbo V8 | 13042 | [13042-twin-turbo-v8.json](./13042-twin-turbo-v8.json) |
 | Twin Unconscious | 229657 | [229657-twin-unconscious.json](./229657-twin-unconscious.json) |
