@@ -2672,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellar | 188520 | [188520-cellar.json](./188520-cellar.json) |
 | Cellar | 33323 | [33323-cellar.json](./33323-cellar.json) |
 | Cellar: Rags and Knife | 171025 | [171025-cellar-rags-and-knife.json](./171025-cellar-rags-and-knife.json) |
+| Cellbit Simulator | 142723 | [142723-cellbit-simulator.json](./142723-cellbit-simulator.json) |
 | CellBreach | 176378 | [176378-cellbreach.json](./176378-cellbreach.json) |
 | Cellbreak | 383956 | [383956-cellbreak.json](./383956-cellbreak.json) |
 | Cellchemist | 389731 | [389731-cellchemist.json](./389731-cellchemist.json) |
@@ -3502,6 +3503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Puzzles: 100 by Tyrone | 163413 | [163413-chess-puzzles-100-by-tyrone.json](./163413-chess-puzzles-100-by-tyrone.json) |
 | Chess Quest: A Cozy Puzzle | 394428 | [394428-chess-quest-a-cozy-puzzle.json](./394428-chess-quest-a-cozy-puzzle.json) |
 | Chess Remix | 259293 | [259293-chess-remix.json](./259293-chess-remix.json) |
+| Chess Royal | 142699 | [142699-chess-royal.json](./142699-chess-royal.json) |
 | Chess Royale | 330918 | [330918-chess-royale.json](./330918-chess-royale.json) |
 | Chess Rush | 122963 | [122963-chess-rush.json](./122963-chess-rush.json) |
 | Chess Twist | 284967 | [284967-chess-twist.json](./284967-chess-twist.json) |
@@ -7619,6 +7621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copter Besieged | 345649 | [345649-copter-besieged.json](./345649-copter-besieged.json) |
 | Copter Capers | 261990 | [261990-copter-capers.json](./261990-copter-capers.json) |
 | Copter Cove | 353980 | [353980-copter-cove.json](./353980-copter-cove.json) |
+| Copy Editor | 142730 | [142730-copy-editor.json](./142730-copy-editor.json) |
 | Copy Editor: A RegEx Puzzle | 158623 | [158623-copy-editor-a-regex-puzzle.json](./158623-copy-editor-a-regex-puzzle.json) |
 | Copy Kitty | 22443 | [22443-copy-kitty.json](./22443-copy-kitty.json) |
 | Copy: Two Man Too Many | 359010 | [359010-copy-two-man-too-many.json](./359010-copy-two-man-too-many.json) |
