@@ -1485,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarot | 177381 | [177381-tarot.json](./177381-tarot.json) |
 | Tarot | 95371 | [95371-tarot.json](./95371-tarot.json) |
 | Tarot Mystery | 37793 | [37793-tarot-mystery.json](./37793-tarot-mystery.json) |
+| Tarot Readings Premium | 118741 | [118741-tarot-readings-premium.json](./118741-tarot-readings-premium.json) |
 | Tarot Spell | 390271 | [390271-tarot-spell.json](./390271-tarot-spell.json) |
 | Tarot Uranai | 254587 | [254587-tarot-uranai.json](./254587-tarot-uranai.json) |
 | Tarr Chronicles | 66757 | [66757-tarr-chronicles.json](./66757-tarr-chronicles.json) |
@@ -6101,6 +6102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incident | 385300 | [385300-the-incident.json](./385300-the-incident.json) |
 | The Incomplete "Wish" 01. saidohirakareruhakono | 82766 | [82766-the-incomplete-wish-01-saidohirakareruhakono.json](./82766-the-incomplete-wish-01-saidohirakareruhakono.json) |
 | The Incomplete Lunar: First Night | 284331 | [284331-the-incomplete-lunar-first-night.json](./284331-the-incomplete-lunar-first-night.json) |
+| The Incredible Adventures of Super Panda | 118783 | [118783-the-incredible-adventures-of-super-panda.json](./118783-the-incredible-adventures-of-super-panda.json) |
 | The Incredible Adventures of Van Helsing II | 6074 | [6074-the-incredible-adventures-of-van-helsing-ii.json](./6074-the-incredible-adventures-of-van-helsing-ii.json) |
 | The Incredible Adventures of Van Helsing II: Complete Pack | 223550 | [223550-the-incredible-adventures-of-van-helsing-ii-complete-pack.json](./223550-the-incredible-adventures-of-van-helsing-ii-complete-pack.json) |
 | The Incredible Adventures of Van Helsing II: Ink Hunt | 10969 | [10969-the-incredible-adventures-of-van-helsing-ii-ink-hunt.json](./10969-the-incredible-adventures-of-van-helsing-ii-ink-hunt.json) |
@@ -8129,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Peanuts Movie: Snoopy's Grand Adventure | 18993 | [18993-the-peanuts-movie-snoopys-grand-adventure.json](./18993-the-peanuts-movie-snoopys-grand-adventure.json) |
 | The Peephole's Chronicles: Weird John | 150030 | [150030-the-peepholes-chronicles-weird-john.json](./150030-the-peepholes-chronicles-weird-john.json) |
 | The Pellar | 247603 | [247603-the-pellar.json](./247603-the-pellar.json) |
+| The Penguin Factory | 118790 | [118790-the-penguin-factory.json](./118790-the-penguin-factory.json) |
 | The Penguin Game: Antarctic Savior | 242482 | [242482-the-penguin-game-antarctic-savior.json](./242482-the-penguin-game-antarctic-savior.json) |
 | The Penguin Horror: Legacy of The Pengcasso | 285475 | [285475-the-penguin-horror-legacy-of-the-pengcasso.json](./285475-the-penguin-horror-legacy-of-the-pengcasso.json) |
 | The Penguin IQ Test | 151282 | [151282-the-penguin-iq-test.json](./151282-the-penguin-iq-test.json) |
@@ -10904,6 +10907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheTravelGame | 215723 | [215723-thetravelgame.json](./215723-thetravelgame.json) |
 | TheTruth.exe | 109623 | [109623-thetruth-exe.json](./109623-thetruth-exe.json) |
 | Theurgy Architect | 333365 | [333365-theurgy-architect.json](./333365-theurgy-architect.json) |
+| TheVeteranVR | 118776 | [118776-theveteranvr.json](./118776-theveteranvr.json) |
 | theViewer | 111479 | [111479-theviewer.json](./111479-theviewer.json) |
 | TheWalkerKiller VR | 44230 | [44230-thewalkerkiller-vr.json](./44230-thewalkerkiller-vr.json) |
 | TheWaveVR | 25014 | [25014-thewavevr.json](./25014-thewavevr.json) |
@@ -13760,6 +13764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon: Wildlands - Last Rites | 412553 | [412553-tom-clancys-ghost-recon-wildlands-last-rites.json](./412553-tom-clancys-ghost-recon-wildlands-last-rites.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Narco Road | 28173 | [28173-tom-clancys-ghost-recon-wildlands-narco-road.json](./28173-tom-clancys-ghost-recon-wildlands-narco-road.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Ultimate Edition | 119071 | [119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json](./119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json) |
+| Tom Clancy's Ghost Recon: Wildlands - Year 2 Gold Edition | 118900 | [118900-tom-clancys-ghost-recon-wildlands-year-2-gold-edition.json](./118900-tom-clancys-ghost-recon-wildlands-year-2-gold-edition.json) |
 | Tom Clancy's H.A.W.X | 264874 | [264874-tom-clancys-h-a-w-x.json](./264874-tom-clancys-h-a-w-x.json) |
 | Tom Clancy's H.A.W.X 2 | 341328 | [341328-tom-clancys-h-a-w-x-2.json](./341328-tom-clancys-h-a-w-x-2.json) |
 | Tom Clancy's Origin Collection | 53803 | [53803-tom-clancys-origin-collection.json](./53803-tom-clancys-origin-collection.json) |
@@ -13776,6 +13781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Mission Pack: Eagle Watch | 1841 | [1841-tom-clancys-rainbow-six-mission-pack-eagle-watch.json](./1841-tom-clancys-rainbow-six-mission-pack-eagle-watch.json) |
 | Tom Clancy's Rainbow Six Siege X | 349484 | [349484-tom-clancys-rainbow-six-siege-x.json](./349484-tom-clancys-rainbow-six-siege-x.json) |
 | Tom Clancy's Rainbow Six Siege: Complete Edition | 53820 | [53820-tom-clancys-rainbow-six-siege-complete-edition.json](./53820-tom-clancys-rainbow-six-siege-complete-edition.json) |
+| Tom Clancy's Rainbow Six Siege: Deluxe Edition | 118882 | [118882-tom-clancys-rainbow-six-siege-deluxe-edition.json](./118882-tom-clancys-rainbow-six-siege-deluxe-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Blood Orchid | 55167 | [55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json](./55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Brutal Swarm | 217522 | [217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json](./217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Neon Dawn | 141194 | [141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json](./141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json) |
@@ -13786,6 +13792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Operation Void Edge | 135155 | [135155-tom-clancys-rainbow-six-siege-operation-void-edge.json](./135155-tom-clancys-rainbow-six-siege-operation-void-edge.json) |
 | Tom Clancy's Rainbow Six Siege: Operation White Noise | 76218 | [76218-tom-clancys-rainbow-six-siege-operation-white-noise.json](./76218-tom-clancys-rainbow-six-siege-operation-white-noise.json) |
 | Tom Clancy's Rainbow Six Siege: Operator Edition | 146125 | [146125-tom-clancys-rainbow-six-siege-operator-edition.json](./146125-tom-clancys-rainbow-six-siege-operator-edition.json) |
+| Tom Clancy's Rainbow Six Siege: Ultimate Edition | 118898 | [118898-tom-clancys-rainbow-six-siege-ultimate-edition.json](./118898-tom-clancys-rainbow-six-siege-ultimate-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Year 2 HK SDU Special Edition | 167157 | [167157-tom-clancys-rainbow-six-siege-year-2-hk-sdu-special-edition.json](./167157-tom-clancys-rainbow-six-siege-year-2-hk-sdu-special-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Year 3 Advanced Edition | 167162 | [167162-tom-clancys-rainbow-six-siege-year-3-advanced-edition.json](./167162-tom-clancys-rainbow-six-siege-year-3-advanced-edition.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear - Black Thorn | 1846 | [1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json](./1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json) |
@@ -16358,6 +16365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transcend | 94916 | [94916-transcend.json](./94916-transcend.json) |
 | Transcendence in the Poolrooms | 401031 | [401031-transcendence-in-the-poolrooms.json](./401031-transcendence-in-the-poolrooms.json) |
 | Transcender | 140484 | [140484-transcender.json](./140484-transcender.json) |
+| Transcender Starship | 118767 | [118767-transcender-starship.json](./118767-transcender-starship.json) |
 | Transcontinental | 328281 | [328281-transcontinental.json](./328281-transcontinental.json) |
 | Transfer of Essence | 156031 | [156031-transfer-of-essence.json](./156031-transfer-of-essence.json) |
 | Transformers | 241501 | [241501-transformers.json](./241501-transformers.json) |
