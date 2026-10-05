@@ -15064,6 +15064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Shortcake: Berry Rush | 259535 | [259535-strawberry-shortcake-berry-rush.json](./259535-strawberry-shortcake-berry-rush.json) |
 | Strawberry Shortcake: Summertime Adventure - Special Edition | 49501 | [49501-strawberry-shortcake-summertime-adventure-special-edition.json](./49501-strawberry-shortcake-summertime-adventure-special-edition.json) |
 | Strawberry Shortcake: Sweet Dreams | 49366 | [49366-strawberry-shortcake-sweet-dreams.json](./49366-strawberry-shortcake-sweet-dreams.json) |
+| Strawhart | 123365 | [123365-strawhart.json](./123365-strawhart.json) |
 | Stray | 177394 | [177394-stray.json](./177394-stray.json) |
 | Stray Beasts | 256324 | [256324-stray-beasts.json](./256324-stray-beasts.json) |
 | Stray Blade: Valley of Strays | 276825 | [276825-stray-blade-valley-of-strays.json](./276825-stray-blade-valley-of-strays.json) |
@@ -15629,6 +15630,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stygia | 139412 | [139412-stygia.json](./139412-stygia.json) |
 | Stygia II: The Sisters of Stygia | 139413 | [139413-stygia-ii-the-sisters-of-stygia.json](./139413-stygia-ii-the-sisters-of-stygia.json) |
 | Stygian | 141784 | [141784-stygian.json](./141784-stygian.json) |
+| Style Book: Cinnamoroll | 123453 | [123453-style-book-cinnamoroll.json](./123453-style-book-cinnamoroll.json) |
+| Style Book: Junior City | 123452 | [123452-style-book-junior-city.json](./123452-style-book-junior-city.json) |
 | Style Lab Makeover | 47980 | [47980-style-lab-makeover.json](./47980-style-lab-makeover.json) |
 | Style Lab: Fashion Design | 208358 | [208358-style-lab-fashion-design.json](./208358-style-lab-fashion-design.json) |
 | Style Lab: Jewelry Design | 208359 | [208359-style-lab-jewelry-design.json](./208359-style-lab-jewelry-design.json) |
@@ -15983,6 +15986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku3D | 113193 | [113193-sudoku3d.json](./113193-sudoku3d.json) |
 | Sudokuball Detective | 10930 | [10930-sudokuball-detective.json](./10930-sudokuball-detective.json) |
 | SudoKube | 193451 | [193451-sudokube.json](./193451-sudokube.json) |
+| Sudokuro | 123454 | [123454-sudokuro.json](./123454-sudokuro.json) |
 | Sudokuro: Sudoku & Kakuro Games | 337677 | [337677-sudokuro-sudoku-and-kakuro-games.json](./337677-sudokuro-sudoku-and-kakuro-games.json) |
 | Suds | 247656 | [247656-suds.json](./247656-suds.json) |
 | Suduce-U | 401066 | [401066-suduce-u.json](./401066-suduce-u.json) |
@@ -16588,6 +16592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Black Bass Fishing | 68071 | [68071-super-black-bass-fishing.json](./68071-super-black-bass-fishing.json) |
 | Super Black Bass Pocket 2 | 61347 | [61347-super-black-bass-pocket-2.json](./61347-super-black-bass-pocket-2.json) |
 | Super Black Bass X2 | 61344 | [61344-super-black-bass-x2.json](./61344-super-black-bass-x2.json) |
+| Super Black Bass: Dynamic Shot | 123455 | [123455-super-black-bass-dynamic-shot.json](./123455-super-black-bass-dynamic-shot.json) |
 | Super Black Bass: Real Fight | 61345 | [61345-super-black-bass-real-fight.json](./61345-super-black-bass-real-fight.json) |
 | Super Black Onyx | 48704 | [48704-super-black-onyx.json](./48704-super-black-onyx.json) |
 | Super Blasting Boy | 110977 | [110977-super-blasting-boy.json](./110977-super-blasting-boy.json) |
@@ -16624,6 +16629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Boy Commander Bros | 231881 | [231881-super-boy-commander-bros.json](./231881-super-boy-commander-bros.json) |
 | Super Boy III | 47524 | [47524-super-boy-iii.json](./47524-super-boy-iii.json) |
 | Super Brain Eat 3 | 63854 | [63854-super-brain-eat-3.json](./63854-super-brain-eat-3.json) |
+| Super Brain Tease: Football Edition | 123456 | [123456-super-brain-tease-football-edition.json](./123456-super-brain-tease-football-edition.json) |
 | Super Brawl 4 | 59042 | [59042-super-brawl-4.json](./59042-super-brawl-4.json) |
 | Super Brawl Universe | 125347 | [125347-super-brawl-universe.json](./125347-super-brawl-universe.json) |
 | Super Breakout | 239502 | [239502-super-breakout.json](./239502-super-breakout.json) |
@@ -17749,6 +17755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Real Mahjong vs. | 307701 | [307701-super-real-mahjong-vs.json](./307701-super-real-mahjong-vs.json) |
 | Super Real Tennis | 23561 | [23561-super-real-tennis.json](./23561-super-real-tennis.json) |
 | Super Realistic Autocross | 123046 | [123046-super-realistic-autocross.json](./123046-super-realistic-autocross.json) |
+| Super Realistic Autocross VR | 123474 | [123474-super-realistic-autocross-vr.json](./123474-super-realistic-autocross-vr.json) |
 | Super Recoilfight | 117814 | [117814-super-recoilfight.json](./117814-super-recoilfight.json) |
 | Super Retro Chase | 182931 | [182931-super-retro-chase.json](./182931-super-retro-chase.json) |
 | Super Retro Platformer Collection | 242770 | [242770-super-retro-platformer-collection.json](./242770-super-retro-platformer-collection.json) |
