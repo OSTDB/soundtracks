@@ -940,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vex 6 | 188039 | [188039-vex-6.json](./188039-vex-6.json) |
 | Vex Clock | 216857 | [216857-vex-clock.json](./216857-vex-clock.json) |
 | Vex Mage | 360778 | [360778-vex-mage.json](./360778-vex-mage.json) |
+| Vex: World 4 Unlock | 170883 | [170883-vex-world-4-unlock.json](./170883-vex-world-4-unlock.json) |
 | Vexbox | 351643 | [351643-vexbox.json](./351643-vexbox.json) |
 | Vexed Heroes | 261419 | [261419-vexed-heroes.json](./261419-vexed-heroes.json) |
 | Vexius | 76677 | [76677-vexius.json](./76677-vexius.json) |
