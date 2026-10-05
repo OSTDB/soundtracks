@@ -2315,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Dojo | 30913 | [30913-death-dojo.json](./30913-death-dojo.json) |
 | Death Drive | 197775 | [197775-death-drive.json](./197775-death-drive.json) |
 | Death Drive | 376056 | [376056-death-drive.json](./376056-death-drive.json) |
+| Death Drives a Bus | 138531 | [138531-death-drives-a-bus.json](./138531-death-drives-a-bus.json) |
 | Death Drome | 73755 | [73755-death-drome.json](./73755-death-drome.json) |
 | Death Duel | 46224 | [46224-death-duel.json](./46224-death-duel.json) |
 | Death Dungeon | 193995 | [193995-death-dungeon.json](./193995-death-dungeon.json) |
@@ -4949,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Genesis | 146924 | [146924-dino-genesis.json](./146924-dino-genesis.json) |
 | Dino Genesis | 336533 | [336533-dino-genesis.json](./336533-dino-genesis.json) |
 | Dino Get Out! | 279029 | [279029-dino-get-out.json](./279029-dino-get-out.json) |
+| Dino Hazard: Chronos Blackout | 138547 | [138547-dino-hazard-chronos-blackout.json](./138547-dino-hazard-chronos-blackout.json) |
 | Dino Hex Trap | 412565 | [412565-dino-hex-trap.json](./412565-dino-hex-trap.json) |
 | Dino Hunt | 150081 | [150081-dino-hunt.json](./150081-dino-hunt.json) |
 | Dino Jnr. in Canyon Capers | 57167 | [57167-dino-jnr-in-canyon-capers.json](./57167-dino-jnr-in-canyon-capers.json) |
