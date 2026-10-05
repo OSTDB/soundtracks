@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z-MMO | 55919 | [55919-z-mmo.json](./55919-z-mmo.json) |
 | Z-Rush Survival | 191818 | [191818-z-rush-survival.json](./191818-z-rush-survival.json) |
 | Z-Warp | 192278 | [192278-z-warp.json](./192278-z-warp.json) |
+| Z-Xtricator | 153505 | [153505-z-xtricator.json](./153505-z-xtricator.json) |
 | Z: Escape | 99647 | [99647-z-escape.json](./99647-z-escape.json) |
 | Z: Steel Soldiers | 3276 | [3276-z-steel-soldiers.json](./3276-z-steel-soldiers.json) |
 | Z: The End | 36400 | [36400-z-the-end.json](./36400-z-the-end.json) |
