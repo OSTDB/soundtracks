@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage of Tempest Castle | 371352 | [371352-mage-of-tempest-castle.json](./371352-mage-of-tempest-castle.json) |
 | Mage of the Olekta Desert | 159760 | [159760-mage-of-the-olekta-desert.json](./159760-mage-of-the-olekta-desert.json) |
 | Mage Outbreak | 355615 | [355615-mage-outbreak.json](./355615-mage-outbreak.json) |
+| Mage Rage | 138536 | [138536-mage-rage.json](./138536-mage-rage.json) |
 | Mage Recall | 402284 | [402284-mage-recall.json](./402284-mage-recall.json) |
 | Mage Rumble | 173050 | [173050-mage-rumble.json](./173050-mage-rumble.json) |
 | Mage Saga | 235292 | [235292-mage-saga.json](./235292-mage-saga.json) |
@@ -2496,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Avengers Alliance Tactics | 61694 | [61694-marvel-avengers-alliance-tactics.json](./61694-marvel-avengers-alliance-tactics.json) |
 | Marvel Contest of Champions | 28107 | [28107-marvel-contest-of-champions.json](./28107-marvel-contest-of-champions.json) |
 | Marvel Disk Wars: Avengers - Ultimate Heroes | 61656 | [61656-marvel-disk-wars-avengers-ultimate-heroes.json](./61656-marvel-disk-wars-avengers-ultimate-heroes.json) |
+| Marvel Duel | 138543 | [138543-marvel-duel.json](./138543-marvel-duel.json) |
 | Marvel End Time Arena | 89254 | [89254-marvel-end-time-arena.json](./89254-marvel-end-time-arena.json) |
 | Marvel First Alliance | 300380 | [300380-marvel-first-alliance.json](./300380-marvel-first-alliance.json) |
 | Marvel Heroes | 363910 | [363910-marvel-heroes.json](./363910-marvel-heroes.json) |
