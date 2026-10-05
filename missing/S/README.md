@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor Moon Fighter S | 140404 | [140404-sailor-moon-fighter-s.json](./140404-sailor-moon-fighter-s.json) |
 | Sailor Moon RevengeX | 279589 | [279589-sailor-moon-revengex.json](./279589-sailor-moon-revengex.json) |
 | Sailor Moon S: Kotaete Moon Call! | 230284 | [230284-sailor-moon-s-kotaete-moon-call.json](./230284-sailor-moon-s-kotaete-moon-call.json) |
+| Sailor Strike | 142097 | [142097-sailor-strike.json](./142097-sailor-strike.json) |
 | Sailor Zombie: AKB48 Arcade Edition | 360054 | [360054-sailor-zombie-akb48-arcade-edition.json](./360054-sailor-zombie-akb48-arcade-edition.json) |
 | Sailor's Grave: the Curse of the Cook | 118279 | [118279-sailors-grave-the-curse-of-the-cook.json](./118279-sailors-grave-the-curse-of-the-cook.json) |
 | Sailor's Stories Solitaire | 196881 | [196881-sailors-stories-solitaire.json](./196881-sailors-stories-solitaire.json) |
@@ -3944,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai: Mah-Jongg Essentials | 70483 | [70483-shanghai-mah-jongg-essentials.json](./70483-shanghai-mah-jongg-essentials.json) |
 | Shanghai: Shoryuu Sairin | 376060 | [376060-shanghai-shoryuu-sairin.json](./376060-shanghai-shoryuu-sairin.json) |
 | Shanghai: True Valor | 45304 | [45304-shanghai-true-valor.json](./45304-shanghai-true-valor.json) |
+| Shanghai.EXE: Genso Network | 142121 | [142121-shanghai-exe-genso-network.json](./142121-shanghai-exe-genso-network.json) |
 | Shanghai1920 | 169452 | [169452-shanghai1920.json](./169452-shanghai1920.json) |
 | Shanhe Remain | 375988 | [375988-shanhe-remain.json](./375988-shanhe-remain.json) |
 | Shank the Cop | 155988 | [155988-shank-the-cop.json](./155988-shank-the-cop.json) |
@@ -10665,6 +10667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Quest II: Roger Wilco in Vohaul's Revenge | 84150 | [84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json](./84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json) |
 | Space Quiz | 74456 | [74456-space-quiz.json](./74456-space-quiz.json) |
 | Space Race | 361117 | [361117-space-race.json](./361117-space-race.json) |
+| Space Raft | 142117 | [142117-space-raft.json](./142117-space-raft.json) |
 | Space Rage | 105947 | [105947-space-rage.json](./105947-space-rage.json) |
 | Space Raid | 46894 | [46894-space-raid.json](./46894-space-raid.json) |
 | Space Raiders | 295938 | [295938-space-raiders.json](./295938-space-raiders.json) |
@@ -15783,6 +15786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku RPG | 143029 | [143029-sudoku-rpg.json](./143029-sudoku-rpg.json) |
 | Sudoku Samurai | 216127 | [216127-sudoku-samurai.json](./216127-sudoku-samurai.json) |
 | Sudoku Scapes | 105969 | [105969-sudoku-scapes.json](./105969-sudoku-scapes.json) |
+| Sudoku Slam | 142153 | [142153-sudoku-slam.json](./142153-sudoku-slam.json) |
 | Sudoku Starry Sky | 154574 | [154574-sudoku-starry-sky.json](./154574-sudoku-starry-sky.json) |
 | Sudoku Student | 84912 | [84912-sudoku-student.json](./84912-sudoku-student.json) |
 | Sudoku Sweeper | 197720 | [197720-sudoku-sweeper.json](./197720-sudoku-sweeper.json) |
@@ -16493,6 +16497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Champion Baseball | 125337 | [125337-super-champion-baseball.json](./125337-super-champion-baseball.json) |
 | Super Chariot | 93661 | [93661-super-chariot.json](./93661-super-chariot.json) |
 | Super Chase: Criminal Termination | 40430 | [40430-super-chase-criminal-termination.json](./40430-super-chase-criminal-termination.json) |
+| Super Chesslike Adventure | 142141 | [142141-super-chesslike-adventure.json](./142141-super-chesslike-adventure.json) |
 | Super Chibi Knight | 36438 | [36438-super-chibi-knight.json](./36438-super-chibi-knight.json) |
 | Super Chick Sisters | 140535 | [140535-super-chick-sisters.json](./140535-super-chick-sisters.json) |
 | Super Chicken Jumper | 172471 | [172471-super-chicken-jumper.json](./172471-super-chicken-jumper.json) |
@@ -16604,6 +16609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Domino Effect 3D | 215706 | [215706-super-domino-effect-3d.json](./215706-super-domino-effect-3d.json) |
 | Super Dominoes | 208353 | [208353-super-dominoes.json](./208353-super-dominoes.json) |
 | Super Don Quix-Ote | 25969 | [25969-super-don-quix-ote.json](./25969-super-don-quix-ote.json) |
+| Super Donkey | 142130 | [142130-super-donkey.json](./142130-super-donkey.json) |
 | Super Donkey Kong 2 | 160305 | [160305-super-donkey-kong-2.json](./160305-super-donkey-kong-2.json) |
 | Super Donkey Kong 64 | 134017 | [134017-super-donkey-kong-64.json](./134017-super-donkey-kong-64.json) |
 | Super Donuts! | 175412 | [175412-super-donuts.json](./175412-super-donuts.json) |
@@ -18164,6 +18170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperStar Ebidan | 373026 | [373026-superstar-ebidan.json](./373026-superstar-ebidan.json) |
 | Superstar Hockey: Pass & Score | 227379 | [227379-superstar-hockey-pass-and-score.json](./227379-superstar-hockey-pass-and-score.json) |
 | Superstar Ice Hockey | 40998 | [40998-superstar-ice-hockey.json](./40998-superstar-ice-hockey.json) |
+| Superstar Izone | 142115 | [142115-superstar-izone.json](./142115-superstar-izone.json) |
 | SuperStar JYPNation | 105971 | [105971-superstar-jypnation.json](./105971-superstar-jypnation.json) |
 | Superstar LDH | 399056 | [399056-superstar-ldh.json](./399056-superstar-ldh.json) |
 | SuperStar Pledis | 124619 | [124619-superstar-pledis.json](./124619-superstar-pledis.json) |
