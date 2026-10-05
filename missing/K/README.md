@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Do | 239625 | [239625-karate-do.json](./239625-karate-do.json) |
 | Karate Hero | 234318 | [234318-karate-hero.json](./234318-karate-hero.json) |
 | Karate Joe | 50062 | [50062-karate-joe.json](./50062-karate-joe.json) |
+| Karate Kamil vs. Ninja Nejat | 165491 | [165491-karate-kamil-vs-ninja-nejat.json](./165491-karate-kamil-vs-ninja-nejat.json) |
 | Karate Kat Times Tables | 102608 | [102608-karate-kat-times-tables.json](./102608-karate-kat-times-tables.json) |
 | Karate King | 67651 | [67651-karate-king.json](./67651-karate-king.json) |
 | Karate Krab | 76650 | [76650-karate-krab.json](./76650-karate-krab.json) |
@@ -3091,6 +3092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuis Iseng Kaesang | 303108 | [303108-kuis-iseng-kaesang.json](./303108-kuis-iseng-kaesang.json) |
 | Kuizu! Batounea! | 411565 | [411565-kuizu-batounea.json](./411565-kuizu-batounea.json) |
 | Kujaku-ou 2 | 45550 | [45550-kujaku-ou-2.json](./45550-kujaku-ou-2.json) |
+| Kujibiki Unbalance: Kaichou Onegai Smash Fight | 165564 | [165564-kujibiki-unbalance-kaichou-onegai-smash-fight.json](./165564-kujibiki-unbalance-kaichou-onegai-smash-fight.json) |
 | KukkoroDays | 136255 | [136255-kukkorodays.json](./136255-kukkorodays.json) |
 | Kukoo Kitchen | 112349 | [112349-kukoo-kitchen.json](./112349-kukoo-kitchen.json) |
 | Kukuevo | 280764 | [280764-kukuevo.json](./280764-kukuevo.json) |
