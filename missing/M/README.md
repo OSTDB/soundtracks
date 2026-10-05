@@ -2622,6 +2622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel: Ultimate Alliance | 4999 | [4999-marvel-ultimate-alliance.json](./4999-marvel-ultimate-alliance.json) |
 | Marvel's Avengers Definitive Edition | 259466 | [259466-marvels-avengers-definitive-edition.json](./259466-marvels-avengers-definitive-edition.json) |
 | Marvel's Avengers: Black Panther - War for Wakanda | 144774 | [144774-marvels-avengers-black-panther-war-for-wakanda.json](./144774-marvels-avengers-black-panther-war-for-wakanda.json) |
+| Marvel's Avengers: Exclusive Digital Edition | 133844 | [133844-marvels-avengers-exclusive-digital-edition.json](./133844-marvels-avengers-exclusive-digital-edition.json) |
 | Marvel's Avengers: Hawkeye - Future Imperfect | 138181 | [138181-marvels-avengers-hawkeye-future-imperfect.json](./138181-marvels-avengers-hawkeye-future-imperfect.json) |
 | Marvel's Avengers: Kate Bishop - Taking AIM | 138179 | [138179-marvels-avengers-kate-bishop-taking-aim.json](./138179-marvels-avengers-kate-bishop-taking-aim.json) |
 | Marvel's Blade | 279646 | [279646-marvels-blade.json](./279646-marvels-blade.json) |
@@ -4808,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men in Black: The Game | 12898 | [12898-men-in-black-the-game.json](./12898-men-in-black-the-game.json) |
 | Men in Black: The Series | 240165 | [240165-men-in-black-the-series.json](./240165-men-in-black-the-series.json) |
 | Men of War | 9854 | [9854-men-of-war.json](./9854-men-of-war.json) |
+| Men of War II: Arena | 133767 | [133767-men-of-war-ii-arena.json](./133767-men-of-war-ii-arena.json) |
 | Men of War II: Frontline Hero Pack | 311077 | [311077-men-of-war-ii-frontline-hero-pack.json](./311077-men-of-war-ii-frontline-hero-pack.json) |
 | Men of War: Assault Squad 2 - Airborne | 168218 | [168218-men-of-war-assault-squad-2-airborne.json](./168218-men-of-war-assault-squad-2-airborne.json) |
 | Men of War: Assault Squad 2 - Ostfront Veteranen | 168217 | [168217-men-of-war-assault-squad-2-ostfront-veteranen.json](./168217-men-of-war-assault-squad-2-ostfront-veteranen.json) |
@@ -8244,6 +8246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monochrono | 57937 | [57937-monochrono.json](./57937-monochrono.json) |
 | Monocity | 220680 | [220680-monocity.json](./220680-monocity.json) |
 | Monodot | 207828 | [207828-monodot.json](./207828-monodot.json) |
+| Monogatari Series Puc Puc | 133755 | [133755-monogatari-series-puc-puc.json](./133755-monogatari-series-puc-puc.json) |
 | Monogatari: Love Letter | 297029 | [297029-monogatari-love-letter.json](./297029-monogatari-love-letter.json) |
 | Monogon: Echoes | 147366 | [147366-monogon-echoes.json](./147366-monogon-echoes.json) |
 | Monokage Quest | 222543 | [222543-monokage-quest.json](./222543-monokage-quest.json) |
@@ -10086,6 +10089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muay Thai | 349887 | [349887-muay-thai.json](./349887-muay-thai.json) |
 | Muchacho Bean | 293638 | [293638-muchacho-bean.json](./293638-muchacho-bean.json) |
 | Mucho Party | 116442 | [116442-mucho-party.json](./116442-mucho-party.json) |
+| Mucho Taco | 133856 | [133856-mucho-taco.json](./133856-mucho-taco.json) |
 | Mucho Texto | 365809 | [365809-mucho-texto.json](./365809-mucho-texto.json) |
 | Mud and Blood | 153415 | [153415-mud-and-blood.json](./153415-mud-and-blood.json) |
 | Mud Monster Up Hill Madness | 104214 | [104214-mud-monster-up-hill-madness.json](./104214-mud-monster-up-hill-madness.json) |
@@ -11633,6 +11637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Balloon | 280890 | [280890-mystic-balloon.json](./280890-mystic-balloon.json) |
 | Mystic Cards | 190058 | [190058-mystic-cards.json](./190058-mystic-cards.json) |
 | Mystic Chronicles | 10945 | [10945-mystic-chronicles.json](./10945-mystic-chronicles.json) |
+| Mystic Code | 133751 | [133751-mystic-code.json](./133751-mystic-code.json) |
 | Mystic Defender | 27989 | [27989-mystic-defender.json](./27989-mystic-defender.json) |
 | Mystic Diary: Lost Brother | 32216 | [32216-mystic-diary-lost-brother.json](./32216-mystic-diary-lost-brother.json) |
 | Mystic Duel: Heroes Realm | 299419 | [299419-mystic-duel-heroes-realm.json](./299419-mystic-duel-heroes-realm.json) |
