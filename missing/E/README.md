@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-Reader 5-Card Sample Pack | 355538 | [355538-e-reader-5-card-sample-pack.json](./355538-e-reader-5-card-sample-pack.json) |
 | E-Shop Tycoon | 293624 | [293624-e-shop-tycoon.json](./293624-e-shop-tycoon.json) |
 | E-Tech Simulator | 308960 | [308960-e-tech-simulator.json](./308960-e-tech-simulator.json) |
+| E.B. | 129049 | [129049-e-b.json](./129049-e-b.json) |
 | E.E.R.I.E2 | 221760 | [221760-e-e-r-i-e2.json](./221760-e-e-r-i-e2.json) |
 | E.R. Mania | 91748 | [91748-e-r-mania.json](./91748-e-r-mania.json) |
 | E.S.P. | 145658 | [145658-e-s-p.json](./145658-e-s-p.json) |
@@ -2633,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Covid Camp | 233568 | [233568-escape-covid-camp.json](./233568-escape-covid-camp.json) |
 | Escape Darkness | 290550 | [290550-escape-darkness.json](./290550-escape-darkness.json) |
 | Escape Dash Journey | 347876 | [347876-escape-dash-journey.json](./347876-escape-dash-journey.json) |
+| Escape Dead Earth | 129036 | [129036-escape-dead-earth.json](./129036-escape-dead-earth.json) |
 | Escape Dead Island: Underwater Labs | 174149 | [174149-escape-dead-island-underwater-labs.json](./174149-escape-dead-island-underwater-labs.json) |
 | Escape Depths of Immanis | 322989 | [322989-escape-depths-of-immanis.json](./322989-escape-depths-of-immanis.json) |
 | Escape Doom | 399182 | [399182-escape-doom.json](./399182-escape-doom.json) |
@@ -4257,6 +4259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Match | 105861 | [105861-extreme-match.json](./105861-extreme-match.json) |
 | Extreme Mining | 135035 | [135035-extreme-mining.json](./135035-extreme-mining.json) |
 | Extreme Off-Road Drive | 109206 | [109206-extreme-off-road-drive.json](./109206-extreme-off-road-drive.json) |
+| Extreme Offroad Monster Simulator | 129045 | [129045-extreme-offroad-monster-simulator.json](./129045-extreme-offroad-monster-simulator.json) |
 | Extreme Offroad Racing | 270310 | [270310-extreme-offroad-racing.json](./270310-extreme-offroad-racing.json) |
 | Extreme Offroad Racing | 320540 | [320540-extreme-offroad-racing.json](./320540-extreme-offroad-racing.json) |
 | Extreme Offroad Racing VR | 345124 | [345124-extreme-offroad-racing-vr.json](./345124-extreme-offroad-racing-vr.json) |
