@@ -2181,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Trader: Rise of Taipan | 49386 | [49386-sea-trader-rise-of-taipan.json](./49386-sea-trader-rise-of-taipan.json) |
 | Sea War | 168633 | [168633-sea-war.json](./168633-sea-war.json) |
 | Sea Warfare: Glorious | 188024 | [188024-sea-warfare-glorious.json](./188024-sea-warfare-glorious.json) |
+| Sea Wolf / Missile | 169268 | [169268-sea-wolf-missile.json](./169268-sea-wolf-missile.json) |
 | Sea Wolf Arcade | 130940 | [130940-sea-wolf-arcade.json](./130940-sea-wolf-arcade.json) |
 | Sea Wolf: Tactics | 149586 | [149586-sea-wolf-tactics.json](./149586-sea-wolf-tactics.json) |
 | Sea Wolves | 73517 | [73517-sea-wolves.json](./73517-sea-wolves.json) |
@@ -5376,6 +5377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sift Heads: Legendary Pack | 311993 | [311993-sift-heads-legendary-pack.json](./311993-sift-heads-legendary-pack.json) |
 | Sifu | 144022 | [144022-sifu.json](./144022-sifu.json) |
 | Sifu: Arenas | 240171 | [240171-sifu-arenas.json](./240171-sifu-arenas.json) |
+| Sifu: Deluxe Edition | 169165 | [169165-sifu-deluxe-edition.json](./169165-sifu-deluxe-edition.json) |
 | Sifu's Quest | 371901 | [371901-sifus-quest.json](./371901-sifus-quest.json) |
 | Sifunight Fighters | 221711 | [221711-sifunight-fighters.json](./221711-sifunight-fighters.json) |
 | Sig | 103460 | [103460-sig.json](./103460-sig.json) |
@@ -12752,6 +12754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Realms: United - Missions | 163291 | [163291-star-realms-united-missions.json](./163291-star-realms-united-missions.json) |
 | Star Renegades | 94816 | [94816-star-renegades.json](./94816-star-renegades.json) |
 | Star Renegades: Enter the Dragoon | 169276 | [169276-star-renegades-enter-the-dragoon.json](./169276-star-renegades-enter-the-dragoon.json) |
+| Star Renegades: Guardian of the Metaverse | 169275 | [169275-star-renegades-guardian-of-the-metaverse.json](./169275-star-renegades-guardian-of-the-metaverse.json) |
 | Star Renegades: Prime Dimension | 193206 | [193206-star-renegades-prime-dimension.json](./193206-star-renegades-prime-dimension.json) |
 | Star Renegades: The Imperium Strikes Back | 169277 | [169277-star-renegades-the-imperium-strikes-back.json](./169277-star-renegades-the-imperium-strikes-back.json) |
 | Star Renegades: Total Lunarcy | 166215 | [166215-star-renegades-total-lunarcy.json](./166215-star-renegades-total-lunarcy.json) |
@@ -15811,6 +15814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
 | Summer Memories: Deluxe Edition | 186897 | [186897-summer-memories-deluxe-edition.json](./186897-summer-memories-deluxe-edition.json) |
 | Summer Memory of Bell | 104811 | [104811-summer-memory-of-bell.json](./104811-summer-memory-of-bell.json) |
+| Summer Mission | 169259 | [169259-summer-mission.json](./169259-summer-mission.json) |
 | Summer Nightmare | 293682 | [293682-summer-nightmare.json](./293682-summer-nightmare.json) |
 | Summer Nightmare | 29895 | [29895-summer-nightmare.json](./29895-summer-nightmare.json) |
 | Summer of '58 | 159221 | [159221-summer-of-58.json](./159221-summer-of-58.json) |
@@ -18652,6 +18656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swimming Pool Cleaner | 219561 | [219561-swimming-pool-cleaner.json](./219561-swimming-pool-cleaner.json) |
 | Swimpossible! | 366238 | [366238-swimpossible.json](./366238-swimpossible.json) |
 | Swimsanity! | 63572 | [63572-swimsanity.json](./63572-swimsanity.json) |
+| Swinario Super Bros. Play | 169252 | [169252-swinario-super-bros-play.json](./169252-swinario-super-bros-play.json) |
 | Swindler | 51170 | [51170-swindler.json](./51170-swindler.json) |
 | Swine's Revenge | 360011 | [360011-swines-revenge.json](./360011-swines-revenge.json) |
 | Swing 2 Heli | 262356 | [262356-swing-2-heli.json](./262356-swing-2-heli.json) |
@@ -18902,6 +18907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syberia: 20th Anniversary Bundle | 202126 | [202126-syberia-20th-anniversary-bundle.json](./202126-syberia-20th-anniversary-bundle.json) |
 | Syberia: Remastered | 344050 | [344050-syberia-remastered.json](./344050-syberia-remastered.json) |
 | Syberia: The World Before | 121763 | [121763-syberia-the-world-before.json](./121763-syberia-the-world-before.json) |
+| Syberia: The World Before - Deluxe Edition | 169167 | [169167-syberia-the-world-before-deluxe-edition.json](./169167-syberia-the-world-before-deluxe-edition.json) |
 | Sybil's Tail | 179657 | [179657-sybils-tail.json](./179657-sybils-tail.json) |
 | Sycamore | 186618 | [186618-sycamore.json](./186618-sycamore.json) |
 | Sycamore | 323346 | [323346-sycamore.json](./323346-sycamore.json) |
