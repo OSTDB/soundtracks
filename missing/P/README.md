@@ -1628,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path Out | 74116 | [74116-path-out.json](./74116-path-out.json) |
 | Path to Christmas | 221279 | [221279-path-to-christmas.json](./221279-path-to-christmas.json) |
 | Path to Etinway | 161405 | [161405-path-to-etinway.json](./161405-path-to-etinway.json) |
+| Path to Light | 150280 | [150280-path-to-light.json](./150280-path-to-light.json) |
 | Path to Nowhere: Ditty Nightsong | 329175 | [329175-path-to-nowhere-ditty-nightsong.json](./329175-path-to-nowhere-ditty-nightsong.json) |
 | Path to Octavius | 243815 | [243815-path-to-octavius.json](./243815-path-to-octavius.json) |
 | Path to Prosperity | 150738 | [150738-path-to-prosperity.json](./150738-path-to-prosperity.json) |
@@ -3342,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Puzzle Collection: The Dutch Masters | 209964 | [209964-picture-puzzle-collection-the-dutch-masters.json](./209964-picture-puzzle-collection-the-dutch-masters.json) |
 | Picture the Link | 26828 | [26828-picture-the-link.json](./26828-picture-the-link.json) |
 | Pictureka! Museum Mayhem | 59969 | [59969-pictureka-museum-mayhem.json](./59969-pictureka-museum-mayhem.json) |
+| Piczle Cells | 150262 | [150262-piczle-cells.json](./150262-piczle-cells.json) |
 | Piczle Colors | 114419 | [114419-piczle-colors.json](./114419-piczle-colors.json) |
 | Piczle Cross Adventure + PictoQuest: The Cursed Grids | 146140 | [146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json](./146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json) |
 | Piczle Cross: Story of Seasons | 280465 | [280465-piczle-cross-story-of-seasons.json](./280465-piczle-cross-story-of-seasons.json) |
@@ -4795,6 +4797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planes | 262093 | [262093-planes.json](./262093-planes.json) |
 | Planes and Trains and Automobiles | 209381 | [209381-planes-and-trains-and-automobiles.json](./209381-planes-and-trains-and-automobiles.json) |
 | Planes Combat | 278150 | [278150-planes-combat.json](./278150-planes-combat.json) |
+| Planes Journey | 150256 | [150256-planes-journey.json](./150256-planes-journey.json) |
 | Planes: Interactive Storybook | 230399 | [230399-planes-interactive-storybook.json](./230399-planes-interactive-storybook.json) |
 | Planes.io | 194038 | [194038-planes-io.json](./194038-planes-io.json) |
 | Planescape Torment: Enhanced Edition - Digital Deluxe | 53462 | [53462-planescape-torment-enhanced-edition-digital-deluxe.json](./53462-planescape-torment-enhanced-edition-digital-deluxe.json) |
@@ -9593,6 +9596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle King | 46791 | [46791-puzzle-king.json](./46791-puzzle-king.json) |
 | Puzzle Kombat | 265855 | [265855-puzzle-kombat.json](./265855-puzzle-kombat.json) |
 | Puzzle Light | 149455 | [149455-puzzle-light.json](./149455-puzzle-light.json) |
+| Puzzle Light: One Move | 150257 | [150257-puzzle-light-one-move.json](./150257-puzzle-light-one-move.json) |
 | Puzzle Light: Rotate | 152763 | [152763-puzzle-light-rotate.json](./152763-puzzle-light-rotate.json) |
 | Puzzle Lights and Mushrooms 1000 | 334103 | [334103-puzzle-lights-and-mushrooms-1000.json](./334103-puzzle-lights-and-mushrooms-1000.json) |
 | Puzzle Maker | 291238 | [291238-puzzle-maker.json](./291238-puzzle-maker.json) |
