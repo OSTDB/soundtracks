@@ -7620,6 +7620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BQM: BlockQuest Maker | 102940 | [102940-bqm-blockquest-maker.json](./102940-bqm-blockquest-maker.json) |
 | BQM: BlockQuest Maker - 1st DLC: Samurai Era | 237970 | [237970-bqm-blockquest-maker-1st-dlc-samurai-era.json](./237970-bqm-blockquest-maker-1st-dlc-samurai-era.json) |
 | BQM: BlockQuest Maker - 2nd DLC: Cyber Century | 237969 | [237969-bqm-blockquest-maker-2nd-dlc-cyber-century.json](./237969-bqm-blockquest-maker-2nd-dlc-cyber-century.json) |
+| BQM: BlockQuest Maker - Complete Edition | 136780 | [136780-bqm-blockquest-maker-complete-edition.json](./136780-bqm-blockquest-maker-complete-edition.json) |
 | BQM: BlockQuest Maker - Remastered | 235208 | [235208-bqm-blockquest-maker-remastered.json](./235208-bqm-blockquest-maker-remastered.json) |
 | Br Br Patapim | 351091 | [351091-br-br-patapim.json](./351091-br-br-patapim.json) |
 | BR Logic Pack | 369233 | [369233-br-logic-pack.json](./369233-br-logic-pack.json) |
@@ -9578,6 +9579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust-A-Move Pocket | 43977 | [43977-bust-a-move-pocket.json](./43977-bust-a-move-pocket.json) |
 | Bustafellows | 114536 | [114536-bustafellows.json](./114536-bustafellows.json) |
 | Bustafellows: Collector's Edition | 147251 | [147251-bustafellows-collectors-edition.json](./147251-bustafellows-collectors-edition.json) |
+| Bustafellows: Deluxe Edition | 136828 | [136828-bustafellows-deluxe-edition.json](./136828-bustafellows-deluxe-edition.json) |
 | Busted Brakes | 101750 | [101750-busted-brakes.json](./101750-busted-brakes.json) |
 | Buster | 62831 | [62831-buster.json](./62831-buster.json) |
 | Buster Baxter: Lung Defender | 305863 | [305863-buster-baxter-lung-defender.json](./305863-buster-baxter-lung-defender.json) |
