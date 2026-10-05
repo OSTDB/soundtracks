@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanapon Princess | 135790 | [135790-hanapon-princess.json](./135790-hanapon-princess.json) |
 | Hanarenga: Takumi no Utage | 338309 | [338309-hanarenga-takumi-no-utage.json](./338309-hanarenga-takumi-no-utage.json) |
 | Hanasaka Tenshi Tenten-kun no Beat Breaker | 228500 | [228500-hanasaka-tenshi-tenten-kun-no-beat-breaker.json](./228500-hanasaka-tenshi-tenten-kun-no-beat-breaker.json) |
+| Hanasaki Work Spring! | 143355 | [143355-hanasaki-work-spring.json](./143355-hanasaki-work-spring.json) |
 | Hanata-Kadaka!? | 59993 | [59993-hanata-kadaka.json](./59993-hanata-kadaka.json) |
 | Hanayaka Nari, Waga Ichizoku | 61640 | [61640-hanayaka-nari-waga-ichizoku.json](./61640-hanayaka-nari-waga-ichizoku.json) |
 | Hanayaka Nari, Waga Ichizoku Tasogare Polar Star | 224448 | [224448-hanayaka-nari-waga-ichizoku-tasogare-polar-star.json](./224448-hanayaka-nari-waga-ichizoku-tasogare-polar-star.json) |
@@ -1726,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Mithras | 156003 | [156003-heart-of-mithras.json](./156003-heart-of-mithras.json) |
 | Heart of Mobius | 255702 | [255702-heart-of-mobius.json](./255702-heart-of-mobius.json) |
 | Heart of Moon: The Mask of Seasons | 112484 | [112484-heart-of-moon-the-mask-of-seasons.json](./112484-heart-of-moon-the-mask-of-seasons.json) |
+| Heart of Muriet | 143361 | [143361-heart-of-muriet.json](./143361-heart-of-muriet.json) |
 | Heart Of Nadia | 288236 | [288236-heart-of-nadia.json](./288236-heart-of-nadia.json) |
 | Heart of Saphilamun | 230220 | [230220-heart-of-saphilamun.json](./230220-heart-of-saphilamun.json) |
 | Heart of Summer | 158569 | [158569-heart-of-summer.json](./158569-heart-of-summer.json) |
@@ -3928,6 +3930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden World | 54089 | [54089-hidden-world.json](./54089-hidden-world.json) |
 | Hidden World 10 Top-Down 3D | 277826 | [277826-hidden-world-10-top-down-3d.json](./277826-hidden-world-10-top-down-3d.json) |
 | Hidden World 4 Top-Down 3D | 241531 | [241531-hidden-world-4-top-down-3d.json](./241531-hidden-world-4-top-down-3d.json) |
+| Hidden World of Art | 143381 | [143381-hidden-world-of-art.json](./143381-hidden-world-of-art.json) |
 | Hidden World of Art 2 | 126667 | [126667-hidden-world-of-art-2.json](./126667-hidden-world-of-art-2.json) |
 | Hidden World of Art 4 | 294848 | [294848-hidden-world-of-art-4.json](./294848-hidden-world-of-art-4.json) |
 | Hidden World Top-Down 3D | 192466 | [192466-hidden-world-top-down-3d.json](./192466-hidden-world-top-down-3d.json) |
