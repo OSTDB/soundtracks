@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamurabi | 366374 | [366374-hamurabi.json](./366374-hamurabi.json) |
 | Hàn Mò Bàyè Miǎnfèi Bǎn | 368019 | [368019-han-mo-baye-mianfei-ban.json](./368019-han-mo-baye-mianfei-ban.json) |
 | Hàn Shì Xióngfēng | 154395 | [154395-han-shi-xiongfeng.json](./154395-han-shi-xiongfeng.json) |
+| Hàn Wǔ Dàdì Zhuán | 155708 | [155708-han-wu-dadi-zhuan.json](./155708-han-wu-dadi-zhuan.json) |
 | Hana | 178033 | [178033-hana.json](./178033-hana.json) |
 | Hana | 369565 | [369565-hana.json](./369565-hana.json) |
 | Hana | 381136 | [381136-hana.json](./381136-hana.json) |
@@ -2677,6 +2678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Hospital | 371360 | [371360-hentai-hospital.json](./371360-hentai-hospital.json) |
 | Hentai House Wife | 371369 | [371369-hentai-house-wife.json](./371369-hentai-house-wife.json) |
 | Hentai House: Next Door | 403713 | [403713-hentai-house-next-door.json](./403713-hentai-house-next-door.json) |
+| Hentai in the Forest | 155689 | [155689-hentai-in-the-forest.json](./155689-hentai-in-the-forest.json) |
 | Hentai Island | 226187 | [226187-hentai-island.json](./226187-hentai-island.json) |
 | Hentai Jigsaw Girls 2 | 162840 | [162840-hentai-jigsaw-girls-2.json](./162840-hentai-jigsaw-girls-2.json) |
 | Hentai Jigsaw Photo Studio: Neko Girls | 286747 | [286747-hentai-jigsaw-photo-studio-neko-girls.json](./286747-hentai-jigsaw-photo-studio-neko-girls.json) |
@@ -3289,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroglobin: Monster Hospital | 311122 | [311122-heroglobin-monster-hospital.json](./311122-heroglobin-monster-hospital.json) |
 | Herogrinder: Tactical Combat Arenas | 122397 | [122397-herogrinder-tactical-combat-arenas.json](./122397-herogrinder-tactical-combat-arenas.json) |
 | Herogue | 224633 | [224633-herogue.json](./224633-herogue.json) |
+| Heroic Adventures | 155701 | [155701-heroic-adventures.json](./155701-heroic-adventures.json) |
 | Heroic Armored Company | 159771 | [159771-heroic-armored-company.json](./159771-heroic-armored-company.json) |
 | Heroic Battle | 89178 | [89178-heroic-battle.json](./89178-heroic-battle.json) |
 | Heroic City | 235776 | [235776-heroic-city.json](./235776-heroic-city.json) |
@@ -3423,20 +3426,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexbot Colony | 279848 | [279848-hexbot-colony.json](./279848-hexbot-colony.json) |
 | HexCasters | 181250 | [181250-hexcasters.json](./181250-hexcasters.json) |
 | Hexceed: Alphard | 397883 | [397883-hexceed-alphard.json](./397883-hexceed-alphard.json) |
+| hexceed: Animo | 155694 | [155694-hexceed-animo.json](./155694-hexceed-animo.json) |
 | Hexceed: Aquila | 397882 | [397882-hexceed-aquila.json](./397882-hexceed-aquila.json) |
 | Hexceed: Capricornus | 397881 | [397881-hexceed-capricornus.json](./397881-hexceed-capricornus.json) |
 | Hexceed: Casus | 204299 | [204299-hexceed-casus.json](./204299-hexceed-casus.json) |
 | Hexceed: Centaurus | 397880 | [397880-hexceed-centaurus.json](./397880-hexceed-centaurus.json) |
+| hexceed: Cessabit Pack | 155695 | [155695-hexceed-cessabit-pack.json](./155695-hexceed-cessabit-pack.json) |
 | Hexceed: Cetus | 397879 | [397879-hexceed-cetus.json](./397879-hexceed-cetus.json) |
+| hexceed: Clavis Pack | 155696 | [155696-hexceed-clavis-pack.json](./155696-hexceed-clavis-pack.json) |
 | Hexceed: Cogitare Pack | 224231 | [224231-hexceed-cogitare-pack.json](./224231-hexceed-cogitare-pack.json) |
 | hexceed: Effugium | 204298 | [204298-hexceed-effugium.json](./204298-hexceed-effugium.json) |
 | Hexceed: Exsupero Pack | 224229 | [224229-hexceed-exsupero-pack.json](./224229-hexceed-exsupero-pack.json) |
 | Hexceed: Incipiam | 224228 | [224228-hexceed-incipiam.json](./224228-hexceed-incipiam.json) |
 | Hexceed: Insulam | 201595 | [201595-hexceed-insulam.json](./201595-hexceed-insulam.json) |
+| hexceed: Inventa Pack | 155691 | [155691-hexceed-inventa-pack.json](./155691-hexceed-inventa-pack.json) |
+| hexceed: Iter Pack | 155697 | [155697-hexceed-iter-pack.json](./155697-hexceed-iter-pack.json) |
 | Hexceed: Progressum | 202762 | [202762-hexceed-progressum.json](./202762-hexceed-progressum.json) |
 | Hexceed: Rimor | 204296 | [204296-hexceed-rimor.json](./204296-hexceed-rimor.json) |
 | Hexceed: Rubrum | 295865 | [295865-hexceed-rubrum.json](./295865-hexceed-rubrum.json) |
 | Hexceed: Sirius | 397878 | [397878-hexceed-sirius.json](./397878-hexceed-sirius.json) |
+| Hexceed: Stella | 155692 | [155692-hexceed-stella.json](./155692-hexceed-stella.json) |
 | Hexceed: Viridis Pack | 323236 | [323236-hexceed-viridis-pack.json](./323236-hexceed-viridis-pack.json) |
 | Hexceed: Year 4 Pass | 295864 | [295864-hexceed-year-4-pass.json](./295864-hexceed-year-4-pass.json) |
 | Hexceed: Year 5 Season Pass! | 397888 | [397888-hexceed-year-5-season-pass.json](./397888-hexceed-year-5-season-pass.json) |
