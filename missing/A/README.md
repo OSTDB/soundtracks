@@ -6200,6 +6200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Pirate Pete | 152252 | [152252-arcade-archives-pirate-pete.json](./152252-arcade-archives-pirate-pete.json) |
 | Arcade Archives: Plump Pop | 394382 | [394382-arcade-archives-plump-pop.json](./394382-arcade-archives-plump-pop.json) |
 | Arcade Archives: Pole Position II | 279875 | [279875-arcade-archives-pole-position-ii.json](./279875-arcade-archives-pole-position-ii.json) |
+| Arcade Archives: Pop Flamer | 168692 | [168692-arcade-archives-pop-flamer.json](./168692-arcade-archives-pop-flamer.json) |
 | Arcade Archives: Power Spikes | 319783 | [319783-arcade-archives-power-spikes.json](./319783-arcade-archives-power-spikes.json) |
 | Arcade Archives: Qix | 194365 | [194365-arcade-archives-qix.json](./194365-arcade-archives-qix.json) |
 | Arcade Archives: Rabio Lepus | 208425 | [208425-arcade-archives-rabio-lepus.json](./208425-arcade-archives-rabio-lepus.json) |
