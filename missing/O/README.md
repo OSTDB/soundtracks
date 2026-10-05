@@ -254,6 +254,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oceanum Mortis | 120810 | [120810-oceanum-mortis.json](./120810-oceanum-mortis.json) |
 | Ocero 3D | 341497 | [341497-ocero-3d.json](./341497-ocero-3d.json) |
 | Ochakai he no Shoutaijou | 246092 | [246092-ochakai-he-no-shoutaijou.json](./246092-ochakai-he-no-shoutaijou.json) |
+| Ochaken no Heya DS | 123367 | [123367-ochaken-no-heya-ds.json](./123367-ochaken-no-heya-ds.json) |
+| Ochaken no Heya DS 2 | 123368 | [123368-ochaken-no-heya-ds-2.json](./123368-ochaken-no-heya-ds-2.json) |
+| Ochaken no Heya DS 3 | 123369 | [123369-ochaken-no-heya-ds-3.json](./123369-ochaken-no-heya-ds-3.json) |
+| Ochaken no Heya DS 4 | 123370 | [123370-ochaken-no-heya-ds-4.json](./123370-ochaken-no-heya-ds-4.json) |
 | Ochakumi | 78020 | [78020-ochakumi.json](./78020-ochakumi.json) |
 | Ochige Designer Tsukutte Pon! | 128361 | [128361-ochige-designer-tsukutte-pon.json](./128361-ochige-designer-tsukutte-pon.json) |
 | Ochin ni Toshi Puzzle Tonjan!? | 48798 | [48798-ochin-ni-toshi-puzzle-tonjan.json](./48798-ochin-ni-toshi-puzzle-tonjan.json) |
@@ -2202,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order!! | 408868 | [408868-order.json](./408868-order.json) |
 | Order's Up | 234005 | [234005-orders-up.json](./234005-orders-up.json) |
 | Orderly Havoc | 251820 | [251820-orderly-havoc.json](./251820-orderly-havoc.json) |
+| Orders of the Ruler | 123366 | [123366-orders-of-the-ruler.json](./123366-orders-of-the-ruler.json) |
 | OrderZero | 256520 | [256520-orderzero.json](./256520-orderzero.json) |
 | Ordesa | 364599 | [364599-ordesa.json](./364599-ordesa.json) |
 | Ordinary Day | 236418 | [236418-ordinary-day.json](./236418-ordinary-day.json) |
@@ -2391,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshare de Kawaii Koinu to Asobo!: Machi-hen | 141148 | [141148-oshare-de-kawaii-koinu-to-asobo-machi-hen.json](./141148-oshare-de-kawaii-koinu-to-asobo-machi-hen.json) |
 | Oshare Majo Love and Berry: Cute ni Oshare | 300423 | [300423-oshare-majo-love-and-berry-cute-ni-oshare.json](./300423-oshare-majo-love-and-berry-cute-ni-oshare.json) |
 | Oshare ni Henshin HeartCatch PreCure! | 327600 | [327600-oshare-ni-henshin-heartcatch-precure.json](./327600-oshare-ni-henshin-heartcatch-precure.json) |
+| Oshare Princess DS: Oshare ni Koi Shite 2 | 123371 | [123371-oshare-princess-ds-oshare-ni-koi-shite-2.json](./123371-oshare-princess-ds-oshare-ni-koi-shite-2.json) |
 | Oshare Princess DS: Oshare ni Koishite! 2 Plus | 214430 | [214430-oshare-princess-ds-oshare-ni-koishite-2-plus.json](./214430-oshare-princess-ds-oshare-ni-koishite-2-plus.json) |
 | Oshi no Ko Match Star | 331864 | [331864-oshi-no-ko-match-star.json](./331864-oshi-no-ko-match-star.json) |
 | Oshi to Hanaseru! Hangul Kiso Phrase | 276468 | [276468-oshi-to-hanaseru-hangul-kiso-phrase.json](./276468-oshi-to-hanaseru-hangul-kiso-phrase.json) |
@@ -2513,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otomon Drop: Monster Hunter Stories | 175726 | [175726-otomon-drop-monster-hunter-stories.json](./175726-otomon-drop-monster-hunter-stories.json) |
 | Otona no Gal Jan Kimi ni Hane Man | 248628 | [248628-otona-no-gal-jan-kimi-ni-hane-man.json](./248628-otona-no-gal-jan-kimi-ni-hane-man.json) |
 | Otona no Joushikiryoku Training DS | 68029 | [68029-otona-no-joushikiryoku-training-ds.json](./68029-otona-no-joushikiryoku-training-ds.json) |
+| Otona no Onnaryoku Kentei | 123376 | [123376-otona-no-onnaryoku-kentei.json](./123376-otona-no-onnaryoku-kentei.json) |
 | Otonano Tamu no Keisan Training DS | 78588 | [78588-otonano-tamu-no-keisan-training-ds.json](./78588-otonano-tamu-no-keisan-training-ds.json) |
 | Otonari Koi Sensou! | 194547 | [194547-otonari-koi-sensou.json](./194547-otonari-koi-sensou.json) |
 | Otonari no Kokujin Otto ni Dakarete Nakimodaeru Saiai no Tsuma. Sono Hikikae ni Ajiwau Kokujin Tsuma no Hada. Big Black Cock & Big Black Butt & My Sweet Wife | 82975 | [82975-otonari-no-kokujin-otto-ni-dakarete-nakimodaeru-saiai-no-tsuma-sono-hikikae-ni-ajiwau-kokujin-tsuma-no-hada-big-black-cock-and-big-black-butt-and-my-sweet-wife.json](./82975-otonari-no-kokujin-otto-ni-dakarete-nakimodaeru-saiai-no-tsuma-sono-hikikae-ni-ajiwau-kokujin-tsuma-no-hada-big-black-cock-and-big-black-butt-and-my-sweet-wife.json) |
@@ -2593,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Fate Forsaken | 197411 | [197411-our-fate-forsaken.json](./197411-our-fate-forsaken.json) |
 | Our Field Trip Adventure | 298582 | [298582-our-field-trip-adventure.json](./298582-our-field-trip-adventure.json) |
 | Our Field Trip Adventure + More Missions Pack Set | 304812 | [304812-our-field-trip-adventure-more-missions-pack-set.json](./304812-our-field-trip-adventure-more-missions-pack-set.json) |
+| Our Flick Erasers | 123375 | [123375-our-flick-erasers.json](./123375-our-flick-erasers.json) |
 | Our Friend Sloth | 179196 | [179196-our-friend-sloth.json](./179196-our-friend-sloth.json) |
 | Our Great Revolution! | 180133 | [180133-our-great-revolution.json](./180133-our-great-revolution.json) |
 | Our Hero! Last | 211174 | [211174-our-hero-last.json](./211174-our-hero-last.json) |
