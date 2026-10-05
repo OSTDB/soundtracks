@@ -1141,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jimmy White's 'Whirlwind' Snooker | 12159 | [12159-jimmy-whites-whirlwind-snooker.json](./12159-jimmy-whites-whirlwind-snooker.json) |
 | Jimmy White's Cue Ball | 50029 | [50029-jimmy-whites-cue-ball.json](./50029-jimmy-whites-cue-ball.json) |
 | Jimmy's Agony | 266777 | [266777-jimmys-agony.json](./266777-jimmys-agony.json) |
+| Jimmy's Journey | 121492 | [121492-jimmys-journey.json](./121492-jimmys-journey.json) |
 | Jimmy's Lost Fruits Journey 2: Veggocalypse | 265695 | [265695-jimmys-lost-fruits-journey-2-veggocalypse.json](./265695-jimmys-lost-fruits-journey-2-veggocalypse.json) |
 | Jimmy's No. 44 House | 356668 | [356668-jimmys-no-44-house.json](./356668-jimmys-no-44-house.json) |
 | Jimmy's Soccer Manager | 77377 | [77377-jimmys-soccer-manager.json](./77377-jimmys-soccer-manager.json) |
@@ -2168,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause 3: Sky Fortress | 18043 | [18043-just-cause-3-sky-fortress.json](./18043-just-cause-3-sky-fortress.json) |
 | Just Cause 3: XL Edition | 36448 | [36448-just-cause-3-xl-edition.json](./36448-just-cause-3-xl-edition.json) |
 | Just Cause 4 | 103261 | [103261-just-cause-4.json](./103261-just-cause-4.json) |
+| Just Cause 4: Danger Rising | 121529 | [121529-just-cause-4-danger-rising.json](./121529-just-cause-4-danger-rising.json) |
 | Just Cause 4: Dare Devils of Destruction | 117492 | [117492-just-cause-4-dare-devils-of-destruction.json](./117492-just-cause-4-dare-devils-of-destruction.json) |
 | Just Cause 4: Day One Edition | 201031 | [201031-just-cause-4-day-one-edition.json](./201031-just-cause-4-day-one-edition.json) |
 | Just Cause 4: Los Demonios | 118919 | [118919-just-cause-4-los-demonios.json](./118919-just-cause-4-los-demonios.json) |
