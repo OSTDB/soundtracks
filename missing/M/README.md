@@ -6634,6 +6634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Ultra Adventures 2 | 187297 | [187297-miner-ultra-adventures-2.json](./187297-miner-ultra-adventures-2.json) |
 | Miner Ultra Rag Smash | 163918 | [163918-miner-ultra-rag-smash.json](./163918-miner-ultra-rag-smash.json) |
 | Miner: Dig Deep | 23846 | [23846-miner-dig-deep.json](./23846-miner-dig-deep.json) |
+| Miner's Hell | 158619 | [158619-miners-hell.json](./158619-miners-hell.json) |
 | Mineral | 302438 | [302438-mineral.json](./302438-mineral.json) |
 | Mineral Defense | 326685 | [326685-mineral-defense.json](./326685-mineral-defense.json) |
 | Mineral Madness | 265829 | [265829-mineral-madness.json](./265829-mineral-madness.json) |
