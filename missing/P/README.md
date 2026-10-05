@@ -2440,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Victim | 355619 | [355619-perfect-victim.json](./355619-perfect-victim.json) |
 | Perfect Wedding Solitaire | 386126 | [386126-perfect-wedding-solitaire.json](./386126-perfect-wedding-solitaire.json) |
 | Perfect World | 8747 | [8747-perfect-world.json](./8747-perfect-world.json) |
+| Perfect World Mobile | 133769 | [133769-perfect-world-mobile.json](./133769-perfect-world-mobile.json) |
 | Perfect! Pool | 93181 | [93181-perfect-pool.json](./93181-perfect-pool.json) |
 | Perfectdom | 403661 | [403661-perfectdom.json](./403661-perfectdom.json) |
 | Perfection | 239906 | [239906-perfection.json](./239906-perfection.json) |
@@ -8437,6 +8438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Moonborn | 284904 | [284904-project-moonborn.json](./284904-project-moonborn.json) |
 | Project Morph | 211239 | [211239-project-morph.json](./211239-project-morph.json) |
 | Project MSfiX'D | 202415 | [202415-project-msfixd.json](./202415-project-msfixd.json) |
+| Project MSX | 133858 | [133858-project-msx.json](./133858-project-msx.json) |
 | Project MT | 363567 | [363567-project-mt.json](./363567-project-mt.json) |
 | Project N.E.X.T | 278534 | [278534-project-n-e-x-t.json](./278534-project-n-e-x-t.json) |
 | Project Nasu | 270954 | [270954-project-nasu.json](./270954-project-nasu.json) |
