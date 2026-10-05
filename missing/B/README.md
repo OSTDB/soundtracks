@@ -1978,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Copters | 348953 | [348953-battle-copters.json](./348953-battle-copters.json) |
 | Battle Craft | 257926 | [257926-battle-craft.json](./257926-battle-craft.json) |
 | Battle Crate Simulator | 192678 | [192678-battle-crate-simulator.json](./192678-battle-crate-simulator.json) |
+| Battle Craze!! | 171977 | [171977-battle-craze.json](./171977-battle-craze.json) |
 | Battle Cross | 40242 | [40242-battle-cross.json](./40242-battle-cross.json) |
 | Battle Cross | 95412 | [95412-battle-cross.json](./95412-battle-cross.json) |
 | Battle Cruiser | 39772 | [39772-battle-cruiser.json](./39772-battle-cruiser.json) |
@@ -8266,6 +8267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brinquemática: Aventura Pirata | 290099 | [290099-brinquematica-aventura-pirata.json](./290099-brinquematica-aventura-pirata.json) |
 | Brio World: Railway | 374257 | [374257-brio-world-railway.json](./374257-brio-world-railway.json) |
 | Briquette Sprite | 87105 | [87105-briquette-sprite.json](./87105-briquette-sprite.json) |
+| Bris de Glace | 171987 | [171987-bris-de-glace.json](./171987-bris-de-glace.json) |
 | Briscola | 100011 | [100011-briscola.json](./100011-briscola.json) |
 | Brisk | 327267 | [327267-brisk.json](./327267-brisk.json) |
 | Brisk Square | 151178 | [151178-brisk-square.json](./151178-brisk-square.json) |
