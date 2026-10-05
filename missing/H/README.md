@@ -1269,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hat World: New Testament | 229186 | [229186-hat-world-new-testament.json](./229186-hat-world-new-testament.json) |
 | Hataraku Otona no Renai Jijou | 329642 | [329642-hataraku-otona-no-renai-jijou.json](./329642-hataraku-otona-no-renai-jijou.json) |
 | Hatate-chan no Joshi Ryoku Training! | 403040 | [403040-hatate-chan-no-joshi-ryoku-training.json](./403040-hatate-chan-no-joshi-ryoku-training.json) |
+| Hatch | 169258 | [169258-hatch.json](./169258-hatch.json) |
 | Hatch | 314491 | [314491-hatch.json](./314491-hatch.json) |
 | Hatch Catch | 40175 | [40175-hatch-catch.json](./40175-hatch-catch.json) |
 | Hatch Dragons | 381848 | [381848-hatch-dragons.json](./381848-hatch-dragons.json) |
