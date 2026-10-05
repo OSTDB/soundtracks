@@ -2829,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Series Reference Opus | 285442 | [285442-phantasy-series-reference-opus.json](./285442-phantasy-series-reference-opus.json) |
 | Phantasy Star 0 | 21091 | [21091-phantasy-star-0.json](./21091-phantasy-star-0.json) |
 | Phantasy Star Classics | 136870 | [136870-phantasy-star-classics.json](./136870-phantasy-star-classics.json) |
+| Phantasy Star Collection | 136803 | [136803-phantasy-star-collection.json](./136803-phantasy-star-collection.json) |
 | Phantasy Star II | 1232 | [1232-phantasy-star-ii.json](./1232-phantasy-star-ii.json) |
 | Phantasy Star Nova | 42674 | [42674-phantasy-star-nova.json](./42674-phantasy-star-nova.json) |
 | Phantasy Star Online 2 -Ragol Edition- | 132155 | [132155-phantasy-star-online-2-ragol-edition.json](./132155-phantasy-star-online-2-ragol-edition.json) |
@@ -2836,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online 2 New Genesis: Limited Edition | 146336 | [146336-phantasy-star-online-2-new-genesis-limited-edition.json](./146336-phantasy-star-online-2-new-genesis-limited-edition.json) |
 | Phantasy Star Online 2 New Genesis: Start Dash Rappy Edition | 164821 | [164821-phantasy-star-online-2-new-genesis-start-dash-rappy-edition.json](./164821-phantasy-star-online-2-new-genesis-start-dash-rappy-edition.json) |
 | Phantasy Star Online 2: Episode 6 - Deluxe Package | 136922 | [136922-phantasy-star-online-2-episode-6-deluxe-package.json](./136922-phantasy-star-online-2-episode-6-deluxe-package.json) |
+| Phantasy Star Online 2: Episode 6 - Deluxe Package Limited Edition | 136795 | [136795-phantasy-star-online-2-episode-6-deluxe-package-limited-edition.json](./136795-phantasy-star-online-2-episode-6-deluxe-package-limited-edition.json) |
 | Phantasy Star Online 2: Helga Pack | 225867 | [225867-phantasy-star-online-2-helga-pack.json](./225867-phantasy-star-online-2-helga-pack.json) |
 | Phantasy Star Online 2: Howzer Pack | 225863 | [225863-phantasy-star-online-2-howzer-pack.json](./225863-phantasy-star-online-2-howzer-pack.json) |
 | Phantasy Star Online 2: Sonic Collaboration Edition | 132156 | [132156-phantasy-star-online-2-sonic-collaboration-edition.json](./132156-phantasy-star-online-2-sonic-collaboration-edition.json) |
@@ -6145,6 +6147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Legends of the Arena | 135872 | [135872-pokemon-legends-of-the-arena.json](./135872-pokemon-legends-of-the-arena.json) |
 | Pokémon: Let's Go, Eevee! GBA | 217860 | [217860-pokemon-lets-go-eevee-gba.json](./217860-pokemon-lets-go-eevee-gba.json) |
 | Pokémon: Let's Go, Pikachu! | 25877 | [25877-pokemon-lets-go-pikachu.json](./25877-pokemon-lets-go-pikachu.json) |
+| Pokémon: Let’s Go, Pikachu! + Poké Ball Plus Pack | 136786 | [136786-pokemon-let-s-go-pikachu-poke-ball-plus-pack.json](./136786-pokemon-let-s-go-pikachu-poke-ball-plus-pack.json) |
 | Pokémon: Lost and Found | 323878 | [323878-pokemon-lost-and-found.json](./323878-pokemon-lost-and-found.json) |
 | Pokémon: Magikarp Jump | 32124 | [32124-pokemon-magikarp-jump.json](./32124-pokemon-magikarp-jump.json) |
 | Pokémon: Maxie's Island | 342679 | [342679-pokemon-maxies-island.json](./342679-pokemon-maxies-island.json) |
