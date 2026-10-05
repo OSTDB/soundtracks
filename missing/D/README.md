@@ -2691,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dish Dungeon | 298680 | [298680-deep-dish-dungeon.json](./298680-deep-dish-dungeon.json) |
 | Deep Dive | 120892 | [120892-deep-dive.json](./120892-deep-dive.json) |
 | Deep Dive | 403577 | [403577-deep-dive.json](./403577-deep-dive.json) |
+| Deep Diving Adventures | 131978 | [131978-deep-diving-adventures.json](./131978-deep-diving-adventures.json) |
 | Deep Diving Simulator: Adventure Pack | 154506 | [154506-deep-diving-simulator-adventure-pack.json](./154506-deep-diving-simulator-adventure-pack.json) |
 | Deep Down | 177368 | [177368-deep-down.json](./177368-deep-down.json) |
 | Deep Down | 285011 | [285011-deep-down.json](./285011-deep-down.json) |
@@ -3332,6 +3333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Siege | 406905 | [406905-demon-siege.json](./406905-demon-siege.json) |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Gyutaro Character Pack | 226692 | [226692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-gyutaro-character-pack.json](./226692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-gyutaro-character-pack.json) |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Tengen Uzui Character Pack | 209695 | [209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json](./209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json) |
+| Demon Slayer: Kimetsu no Yaiba - Keppuu Kengeki Royale | 131963 | [131963-demon-slayer-kimetsu-no-yaiba-keppuu-kengeki-royale.json](./131963-demon-slayer-kimetsu-no-yaiba-keppuu-kengeki-royale.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2 | 337907 | [337907-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2.json](./337907-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2: Deluxe Edition | 345692 | [345692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition.json](./345692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Digital Deluxe Edition | 176791 | [176791-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-digital-deluxe-edition.json](./176791-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-digital-deluxe-edition.json) |
@@ -8520,6 +8522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamescape | 180063 | [180063-dreamescape.json](./180063-dreamescape.json) |
 | Dreamfall: The Longest Journey | 1961 | [1961-dreamfall-the-longest-journey.json](./1961-dreamfall-the-longest-journey.json) |
 | Dreamfarer | 123001 | [123001-dreamfarer.json](./123001-dreamfarer.json) |
+| DreamGallery | 131968 | [131968-dreamgallery.json](./131968-dreamgallery.json) |
 | Dreamgate | 130060 | [130060-dreamgate.json](./130060-dreamgate.json) |
 | DreamHack Beyond | 150568 | [150568-dreamhack-beyond.json](./150568-dreamhack-beyond.json) |
 | DreamHero | 373118 | [373118-dreamhero.json](./373118-dreamhero.json) |
@@ -9241,6 +9244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Shoot | 330928 | [330928-duck-shoot.json](./330928-duck-shoot.json) |
 | Duck Shoot | 385597 | [385597-duck-shoot.json](./385597-duck-shoot.json) |
 | Duck Simulator 2 | 182367 | [182367-duck-simulator-2.json](./182367-duck-simulator-2.json) |
+| Duck Souls+ | 131965 | [131965-duck-souls.json](./131965-duck-souls.json) |
 | Duck Tales SNES | 377743 | [377743-duck-tales-snes.json](./377743-duck-tales-snes.json) |
 | Duck Tales ZX: Webby to the Rescue! | 279736 | [279736-duck-tales-zx-webby-to-the-rescue.json](./279736-duck-tales-zx-webby-to-the-rescue.json) |
 | Duck vs. Evil | 350453 | [350453-duck-vs-evil.json](./350453-duck-vs-evil.json) |
