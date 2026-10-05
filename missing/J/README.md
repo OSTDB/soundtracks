@@ -1592,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jubeat Plus | 76996 | [76996-jubeat-plus.json](./76996-jubeat-plus.json) |
 | Jubeat Prop | 268568 | [268568-jubeat-prop.json](./268568-jubeat-prop.json) |
 | Jubeat Ripples | 91903 | [91903-jubeat-ripples.json](./91903-jubeat-ripples.json) |
+| Jubeez | 171441 | [171441-jubeez.json](./171441-jubeez.json) |
 | Jubilane | 165696 | [165696-jubilane.json](./165696-jubilane.json) |
 | Jubilee | 366357 | [366357-jubilee.json](./366357-jubilee.json) |
 | Jubox 2 | 334819 | [334819-jubox-2.json](./334819-jubox-2.json) |
