@@ -4369,6 +4369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Heart of Chernobyl: Survival | 314864 | [314864-lost-in-heart-of-chernobyl-survival.json](./314864-lost-in-heart-of-chernobyl-survival.json) |
 | Lost in Hell | 207786 | [207786-lost-in-hell.json](./207786-lost-in-hell.json) |
 | Lost in Hieroglyphs: A Hidden Objects Expedition | 317020 | [317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json](./317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json) |
+| Lost in Labs | 152481 | [152481-lost-in-labs.json](./152481-lost-in-labs.json) |
 | Lost in Limbo | 307932 | [307932-lost-in-limbo.json](./307932-lost-in-limbo.json) |
 | Lost in Loss | 355104 | [355104-lost-in-loss.json](./355104-lost-in-loss.json) |
 | Lost in LS | 328221 | [328221-lost-in-ls.json](./328221-lost-in-ls.json) |
@@ -4389,6 +4390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Space: infinite frontier | 183387 | [183387-lost-in-space-infinite-frontier.json](./183387-lost-in-space-infinite-frontier.json) |
 | Lost In Static | 319080 | [319080-lost-in-static.json](./319080-lost-in-static.json) |
 | Lost In Sweets | 126525 | [126525-lost-in-sweets.json](./126525-lost-in-sweets.json) |
+| Lost in Terra Mora | 152464 | [152464-lost-in-terra-mora.json](./152464-lost-in-terra-mora.json) |
 | Lost in the Amazon | 296057 | [296057-lost-in-the-amazon.json](./296057-lost-in-the-amazon.json) |
 | Lost in the Backrooms | 221756 | [221756-lost-in-the-backrooms.json](./221756-lost-in-the-backrooms.json) |
 | Lost in the Backrooms: Day 100 | 375805 | [375805-lost-in-the-backrooms-day-100.json](./375805-lost-in-the-backrooms-day-100.json) |
@@ -4673,6 +4675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Hues! | 134674 | [134674-love-hues.json](./134674-love-hues.json) |
 | Love Idol Maker | 297014 | [297014-love-idol-maker.json](./297014-love-idol-maker.json) |
 | Love In a Bottle | 202643 | [202643-love-in-a-bottle.json](./202643-love-in-a-bottle.json) |
+| Love in Belarus | 152465 | [152465-love-in-belarus.json](./152465-love-in-belarus.json) |
 | Love In Drawing | 112461 | [112461-love-in-drawing.json](./112461-love-in-drawing.json) |
 | Love in Lockdown: Eli Version | 215772 | [215772-love-in-lockdown-eli-version.json](./215772-love-in-lockdown-eli-version.json) |
 | Love in the Crimson Void | 288898 | [288898-love-in-the-crimson-void.json](./288898-love-in-the-crimson-void.json) |
@@ -5194,6 +5197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumina | 119091 | [119091-lumina.json](./119091-lumina.json) |
 | Lumina | 347889 | [347889-lumina.json](./347889-lumina.json) |
 | Luminaria: Dark Echoes | 278450 | [278450-luminaria-dark-echoes.json](./278450-luminaria-dark-echoes.json) |
+| Luminary | 152498 | [152498-luminary.json](./152498-luminary.json) |
 | Luminas: Parasite Reign | 377204 | [377204-luminas-parasite-reign.json](./377204-luminas-parasite-reign.json) |
 | Luminastadt | 295258 | [295258-luminastadt.json](./295258-luminastadt.json) |
 | Luminaya | 372640 | [372640-luminaya.json](./372640-luminaya.json) |
