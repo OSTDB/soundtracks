@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops - Gold Edition | 118925 | [118925-call-of-duty-black-ops-gold-edition.json](./118925-call-of-duty-black-ops-gold-edition.json) |
 | Call of Duty: Black Ops - Hardened Edition | 47476 | [47476-call-of-duty-black-ops-hardened-edition.json](./47476-call-of-duty-black-ops-hardened-edition.json) |
 | Call of Duty: Black Ops - Zombies | 77267 | [77267-call-of-duty-black-ops-zombies.json](./77267-call-of-duty-black-ops-zombies.json) |
+| Call of Duty: Black Ops 4 - Digital Deluxe Edition | 118732 | [118732-call-of-duty-black-ops-4-digital-deluxe-edition.json](./118732-call-of-duty-black-ops-4-digital-deluxe-edition.json) |
 | Call of Duty: Black Ops 6 - Season 1 | 324925 | [324925-call-of-duty-black-ops-6-season-1.json](./324925-call-of-duty-black-ops-6-season-1.json) |
 | Call Of Duty: Black Ops 6 - Season 2 | 330137 | [330137-call-of-duty-black-ops-6-season-2.json](./330137-call-of-duty-black-ops-6-season-2.json) |
 | Call of Duty: Black Ops 6 - Season 3 | 362953 | [362953-call-of-duty-black-ops-6-season-3.json](./362953-call-of-duty-black-ops-6-season-3.json) |
@@ -416,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: World at War | 343822 | [343822-call-of-duty-world-at-war.json](./343822-call-of-duty-world-at-war.json) |
 | Call of Duty: World at War - Spain at War | 341656 | [341656-call-of-duty-world-at-war-spain-at-war.json](./341656-call-of-duty-world-at-war-spain-at-war.json) |
 | Call of Duty: World at War - Zombies | 89115 | [89115-call-of-duty-world-at-war-zombies.json](./89115-call-of-duty-world-at-war-zombies.json) |
+| Call of Duty: WWII - Gold Edition | 118729 | [118729-call-of-duty-wwii-gold-edition.json](./118729-call-of-duty-wwii-gold-edition.json) |
 | Call of Elyndra | 321573 | [321573-call-of-elyndra.json](./321573-call-of-elyndra.json) |
 | Call of Farming | 259583 | [259583-call-of-farming.json](./259583-call-of-farming.json) |
 | Call of Farming: Together | 278741 | [278741-call-of-farming-together.json](./278741-call-of-farming-together.json) |
@@ -1278,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CardioEX | 215246 | [215246-cardioex.json](./215246-cardioex.json) |
 | Cardiophobia | 124601 | [124601-cardiophobia.json](./124601-cardiophobia.json) |
 | Cardlike | 224647 | [224647-cardlike.json](./224647-cardlike.json) |
+| Cardlings | 118787 | [118787-cardlings.json](./118787-cardlings.json) |
 | Cardlock | 184582 | [184582-cardlock.json](./184582-cardlock.json) |
 | Cardmare: Descent | 398444 | [398444-cardmare-descent.json](./398444-cardmare-descent.json) |
 | Cardnarok: Raid with Gods | 132232 | [132232-cardnarok-raid-with-gods.json](./132232-cardnarok-raid-with-gods.json) |
@@ -4359,6 +4362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromadrome | 73511 | [73511-chromadrome.json](./73511-chromadrome.json) |
 | ChromaGun | 23245 | [23245-chromagun.json](./23245-chromagun.json) |
 | ChromaGun 2: Dye Hard | 305224 | [305224-chromagun-2-dye-hard.json](./305224-chromagun-2-dye-hard.json) |
+| ChromaGun VR | 118742 | [118742-chromagun-vr.json](./118742-chromagun-vr.json) |
 | Chromahertz | 211739 | [211739-chromahertz.json](./211739-chromahertz.json) |
 | Chromancer | 63008 | [63008-chromancer.json](./63008-chromancer.json) |
 | Chromarena | 188666 | [188666-chromarena.json](./188666-chromarena.json) |
@@ -5452,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb the Tower | 268185 | [268185-climb-the-tower.json](./268185-climb-the-tower.json) |
 | Climb Up the Down | 158498 | [158498-climb-up-the-down.json](./158498-climb-up-the-down.json) |
 | Climb, Cube, Climb! | 414596 | [414596-climb-cube-climb.json](./414596-climb-cube-climb.json) |
+| Climb! | 118752 | [118752-climb.json](./118752-climb.json) |
 | Climb! A Mountain in Your Pocket | 197730 | [197730-climb-a-mountain-in-your-pocket.json](./197730-climb-a-mountain-in-your-pocket.json) |
 | Climber | 100578 | [100578-climber.json](./100578-climber.json) |
 | Climber | 125338 | [125338-climber.json](./125338-climber.json) |
@@ -9066,6 +9071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creed: Rise to Glory | 102134 | [102134-creed-rise-to-glory.json](./102134-creed-rise-to-glory.json) |
 | Creep | 133462 | [133462-creep.json](./133462-creep.json) |
 | Creep Kick | 310197 | [310197-creep-kick.json](./310197-creep-kick.json) |
+| Creep Rides | 118759 | [118759-creep-rides.json](./118759-creep-rides.json) |
 | Creep Shock | 265429 | [265429-creep-shock.json](./265429-creep-shock.json) |
 | Creeper | 179582 | [179582-creeper.json](./179582-creeper.json) |
 | Creeper Goo | 163814 | [163814-creeper-goo.json](./163814-creeper-goo.json) |
