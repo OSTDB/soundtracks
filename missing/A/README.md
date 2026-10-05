@@ -1678,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Terapets: The Crazy Scientist | 133924 | [133924-adventure-of-terapets-the-crazy-scientist.json](./133924-adventure-of-terapets-the-crazy-scientist.json) |
 | Adventure of Thieves | 31817 | [31817-adventure-of-thieves.json](./31817-adventure-of-thieves.json) |
 | Adventure of Tokyo Disney Sea | 49494 | [49494-adventure-of-tokyo-disney-sea.json](./49494-adventure-of-tokyo-disney-sea.json) |
+| Adventure Pinball | 122227 | [122227-adventure-pinball.json](./122227-adventure-pinball.json) |
 | Adventure Pinball: Forgotten Island | 7549 | [7549-adventure-pinball-forgotten-island.json](./7549-adventure-pinball-forgotten-island.json) |
 | Adventure Player | 56531 | [56531-adventure-player.json](./56531-adventure-player.json) |
 | Adventure Ponies | 146120 | [146120-adventure-ponies.json](./146120-adventure-ponies.json) |
@@ -5009,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AniGuessr | 318504 | [318504-aniguessr.json](./318504-aniguessr.json) |
 | Anika's Odyssey: Land of the Taniwha | 316761 | [316761-anikas-odyssey-land-of-the-taniwha.json](./316761-anikas-odyssey-land-of-the-taniwha.json) |
 | Anilife: An Animal Survival Adventure | 156991 | [156991-anilife-an-animal-survival-adventure.json](./156991-anilife-an-animal-survival-adventure.json) |
+| Anima | 122217 | [122217-anima.json](./122217-anima.json) |
 | Anima | 193433 | [193433-anima.json](./193433-anima.json) |
 | Anima | 337817 | [337817-anima.json](./337817-anima.json) |
 | Anima ARPG | 142331 | [142331-anima-arpg.json](./142331-anima-arpg.json) |
@@ -5431,6 +5433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annventure | 221769 | [221769-annventure.json](./221769-annventure.json) |
 | Annventure of a Lifetime | 221772 | [221772-annventure-of-a-lifetime.json](./221772-annventure-of-a-lifetime.json) |
 | Annyversaire | 283912 | [283912-annyversaire.json](./283912-annyversaire.json) |
+| Ano Hi Mita Hana no Namae wo Boku-tachi ha Mada Shiranai | 122222 | [122222-ano-hi-mita-hana-no-namae-wo-boku-tachi-ha-mada-shiranai.json](./122222-ano-hi-mita-hana-no-namae-wo-boku-tachi-ha-mada-shiranai.json) |
 | Ano Hi wo Mou Ichido | 220318 | [220318-ano-hi-wo-mou-ichido.json](./220318-ano-hi-wo-mou-ichido.json) |
 | Ano Ko Doko no Ko | 314652 | [314652-ano-ko-doko-no-ko.json](./314652-ano-ko-doko-no-ko.json) |
 | Ano Koro, Sobo wa Erokatta: Mukashi ni Modotte, Baa-chan ni Ecchi na Okaeshi o | 108870 | [108870-ano-koro-sobo-wa-erokatta-mukashi-ni-modotte-baa-chan-ni-ecchi-na-okaeshi-o.json](./108870-ano-koro-sobo-wa-erokatta-mukashi-ni-modotte-baa-chan-ni-ecchi-na-okaeshi-o.json) |
