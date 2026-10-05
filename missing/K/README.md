@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kane & Lynch 2: Dog Days - The Doggie Bag | 164410 | [164410-kane-and-lynch-2-dog-days-the-doggie-bag.json](./164410-kane-and-lynch-2-dog-days-the-doggie-bag.json) |
 | Kane & Lynch Collection | 53243 | [53243-kane-and-lynch-collection.json](./53243-kane-and-lynch-collection.json) |
 | Kane & Lynch: Dead Men | 76714 | [76714-kane-and-lynch-dead-men.json](./76714-kane-and-lynch-dead-men.json) |
+| Kane's Shadow | 133169 | [133169-kanes-shadow.json](./133169-kanes-shadow.json) |
 | Kanenone Dynatic: Green Green | 294727 | [294727-kanenone-dynatic-green-green.json](./294727-kanenone-dynatic-green-green.json) |
 | Kang | 396587 | [396587-kang.json](./396587-kang.json) |
 | Kang Fu | 37109 | [37109-kang-fu.json](./37109-kang-fu.json) |
@@ -1369,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill to Live | 187405 | [187405-kill-to-live.json](./187405-kill-to-live.json) |
 | Kill to Survive | 235167 | [235167-kill-to-survive.json](./235167-kill-to-survive.json) |
 | Kill your Darlings | 352718 | [352718-kill-your-darlings.json](./352718-kill-your-darlings.json) |
+| Kill Your Friends | 133190 | [133190-kill-your-friends.json](./133190-kill-your-friends.json) |
 | Kill Your Heart | 337624 | [337624-kill-your-heart.json](./337624-kill-your-heart.json) |
 | Kill Yourself | 132690 | [132690-kill-yourself.json](./132690-kill-yourself.json) |
 | Kill.Switch | 248588 | [248588-kill-switch.json](./248588-kill-switch.json) |
