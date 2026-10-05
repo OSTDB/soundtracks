@@ -2484,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleSweeper | 92617 | [92617-battlesweeper.json](./92617-battlesweeper.json) |
 | BattleTabs | 140591 | [140591-battletabs.json](./140591-battletabs.json) |
 | Battletank: L.O.B.A. | 52635 | [52635-battletank-l-o-b-a.json](./52635-battletank-l-o-b-a.json) |
+| BattleTanks | 125876 | [125876-battletanks.json](./125876-battletanks.json) |
 | BattleTanx | 3421 | [3421-battletanx.json](./3421-battletanx.json) |
 | BattleTanx | 47686 | [47686-battletanx.json](./47686-battletanx.json) |
 | BattleTanx: Global Assault | 47685 | [47685-battletanx-global-assault.json](./47685-battletanx-global-assault.json) |
@@ -5715,6 +5716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockhead 2D | 208274 | [208274-blockhead-2d.json](./208274-blockhead-2d.json) |
 | Blockhead II | 14324 | [14324-blockhead-ii.json](./14324-blockhead-ii.json) |
 | Blockies VR | 193204 | [193204-blockies-vr.json](./193204-blockies-vr.json) |
+| Blockiverse | 125799 | [125799-blockiverse.json](./125799-blockiverse.json) |
 | Blockiverse: Camouflage | 106144 | [106144-blockiverse-camouflage.json](./106144-blockiverse-camouflage.json) |
 | Blockman 1988 | 225722 | [225722-blockman-1988.json](./225722-blockman-1988.json) |
 | Blockman 1989 | 186646 | [186646-blockman-1989.json](./186646-blockman-1989.json) |
@@ -6195,6 +6197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Angelo | 18253 | [18253-blue-angelo.json](./18253-blue-angelo.json) |
 | Blue Angelo: Angels from the Shrine | 66051 | [66051-blue-angelo-angels-from-the-shrine.json](./66051-blue-angelo-angels-from-the-shrine.json) |
 | Blue Archive | 139391 | [139391-blue-archive.json](./139391-blue-archive.json) |
+| Blue Aurora: The G.A.I.A. Project | 125881 | [125881-blue-aurora-the-g-a-i-a-project.json](./125881-blue-aurora-the-g-a-i-a-project.json) |
 | Blue Bird Land Ep 2. | 222953 | [222953-blue-bird-land-ep-2.json](./222953-blue-bird-land-ep-2.json) |
 | Blue Bird's Song | 275346 | [275346-blue-birds-song.json](./275346-blue-birds-song.json) |
 | Blue Blaster Fandisc: Claudia Dakkan Sakusen | 408312 | [408312-blue-blaster-fandisc-claudia-dakkan-sakusen.json](./408312-blue-blaster-fandisc-claudia-dakkan-sakusen.json) |
@@ -6439,6 +6442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boba Tea Shop Simulator | 244236 | [244236-boba-tea-shop-simulator.json](./244236-boba-tea-shop-simulator.json) |
 | Bobanook! | 390788 | [390788-bobanook.json](./390788-bobanook.json) |
 | BobasQuest | 298180 | [298180-bobasquest.json](./298180-bobasquest.json) |
+| Bobber Bop | 125801 | [125801-bobber-bop.json](./125801-bobber-bop.json) |
 | Bobbi Adventure | 200574 | [200574-bobbi-adventure.json](./200574-bobbi-adventure.json) |
 | Bobbi_Cities | 68771 | [68771-bobbi-cities.json](./68771-bobbi-cities.json) |
 | Bobbin's Quest | 67985 | [67985-bobbins-quest.json](./67985-bobbins-quest.json) |
@@ -8183,6 +8187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaworlds | 125830 | [125830-breaworlds.json](./125830-breaworlds.json) |
 | BrebeMan | 329237 | [329237-brebeman.json](./329237-brebeman.json) |
 | Breed Master | 268484 | [268484-breed-master.json](./268484-breed-master.json) |
+| Breeder | 125874 | [125874-breeder.json](./125874-breeder.json) |
 | Breeder | 41329 | [41329-breeder.json](./41329-breeder.json) |
 | Breeder: Homegrown - Director's Cut | 131971 | [131971-breeder-homegrown-directors-cut.json](./131971-breeder-homegrown-directors-cut.json) |
 | Breeders of the Nephelym: Alpha | 122800 | [122800-breeders-of-the-nephelym-alpha.json](./122800-breeders-of-the-nephelym-alpha.json) |
