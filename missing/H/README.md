@@ -2033,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heidi's Legacy: Mountains Calling | 347825 | [347825-heidis-legacy-mountains-calling.json](./347825-heidis-legacy-mountains-calling.json) |
 | Heileen 1: Sail Away | 17441 | [17441-heileen-1-sail-away.json](./17441-heileen-1-sail-away.json) |
 | Heileen 3: New Horizons | 36280 | [36280-heileen-3-new-horizons.json](./36280-heileen-3-new-horizons.json) |
+| Heim | 131959 | [131959-heim.json](./131959-heim.json) |
 | Heimdall | 5393 | [5393-heimdall.json](./5393-heimdall.json) |
 | Heimdallr | 174871 | [174871-heimdallr.json](./174871-heimdallr.json) |
 | Heinz Honor and Revenge | 327279 | [327279-heinz-honor-and-revenge.json](./327279-heinz-honor-and-revenge.json) |
