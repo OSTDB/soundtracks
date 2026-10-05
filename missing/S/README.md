@@ -3900,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shake Ground | 202659 | [202659-shake-ground.json](./202659-shake-ground.json) |
 | Shake Kids | 108959 | [108959-shake-kids.json](./108959-shake-kids.json) |
 | Shake the Baby! | 337068 | [337068-shake-the-baby.json](./337068-shake-the-baby.json) |
+| Shake Your Body | 128317 | [128317-shake-your-body.json](./128317-shake-your-body.json) |
 | Shakes and Fidget Remastered | 112346 | [112346-shakes-and-fidget-remastered.json](./112346-shakes-and-fidget-remastered.json) |
 | Shaki Shaki Island | 327409 | [327409-shaki-shaki-island.json](./327409-shaki-shaki-island.json) |
 | Shakugan no Shana | 72686 | [72686-shakugan-no-shana.json](./72686-shakugan-no-shana.json) |
@@ -4321,9 +4322,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shenanigans | 216736 | [216736-shenanigans.json](./216736-shenanigans.json) |
 | Shenaniganza | 304561 | [304561-shenaniganza.json](./304561-shenaniganza.json) |
 | Shengnü Zhi Ge: Heroine Anthem - The Elect of Wassernixe | 80192 | [80192-shengnu-zhi-ge-heroine-anthem-the-elect-of-wassernixe.json](./80192-shengnu-zhi-ge-heroine-anthem-the-elect-of-wassernixe.json) |
+| Shēngwù Dàmàoxiǎn | 128326 | [128326-shengwu-damaoxian.json](./128326-shengwu-damaoxian.json) |
 | Shēngwù Zhīshì Gédòu Dàsài | 130968 | [130968-shengwu-zhishi-gedou-dasai.json](./130968-shengwu-zhishi-gedou-dasai.json) |
 | Shénhuà Zhànshì II: Shìjiè zhī Mí | 394205 | [394205-shenhua-zhanshi-ii-shijie-zhi-mi.json](./394205-shenhua-zhanshi-ii-shijie-zhi-mi.json) |
 | Shénhuà Zhànshì: Fùchóu de Qiánzòu Qǔ | 394207 | [394207-shenhua-zhanshi-fuchou-de-qianzou-qu.json](./394207-shenhua-zhanshi-fuchou-de-qianzou-qu.json) |
+| Shénjiè | 128323 | [128323-shenjie.json](./128323-shenjie.json) |
 | Shénmǎ Jiānghú | 114522 | [114522-shenma-jianghu.json](./114522-shenma-jianghu.json) |
 | Shénme Guǐ Ànhēi | 107382 | [107382-shenme-gui-anhei.json](./107382-shenme-gui-anhei.json) |
 | Shenmue I & II VR Mod | 413210 | [413210-shenmue-i-and-ii-vr-mod.json](./413210-shenmue-i-and-ii-vr-mod.json) |
@@ -14909,6 +14912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded With You | 389969 | [389969-stranded-with-you.json](./389969-stranded-with-you.json) |
 | Stranded: Alien Dawn Premium Edition | 275619 | [275619-stranded-alien-dawn-premium-edition.json](./275619-stranded-alien-dawn-premium-edition.json) |
 | Stranded: Escape the Room | 175876 | [175876-stranded-escape-the-room.json](./175876-stranded-escape-the-room.json) |
+| Stranded: Mars ONE | 128412 | [128412-stranded-mars-one.json](./128412-stranded-mars-one.json) |
 | Stranded: Mysteries of Time | 65227 | [65227-stranded-mysteries-of-time.json](./65227-stranded-mysteries-of-time.json) |
 | Strands | 293711 | [293711-strands.json](./293711-strands.json) |
 | Strandzha Adventures 3D | 311825 | [311825-strandzha-adventures-3d.json](./311825-strandzha-adventures-3d.json) |
@@ -14931,6 +14935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Night ll | 81778 | [81778-strange-night-ll.json](./81778-strange-night-ll.json) |
 | Strange Nightmares | 161895 | [161895-strange-nightmares.json](./161895-strange-nightmares.json) |
 | Strange Parallel: Sele | 291245 | [291245-strange-parallel-sele.json](./291245-strange-parallel-sele.json) |
+| Strange Passion - My Boss, My Mistress | 128417 | [128417-strange-passion-my-boss-my-mistress.json](./128417-strange-passion-my-boss-my-mistress.json) |
 | Strange Pet World | 366308 | [366308-strange-pet-world.json](./366308-strange-pet-world.json) |
 | Strange Place | 351615 | [351615-strange-place.json](./351615-strange-place.json) |
 | Strange Pong | 339659 | [339659-strange-pong.json](./339659-strange-pong.json) |
@@ -15725,6 +15730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subspace Reticulum | 367537 | [367537-subspace-reticulum.json](./367537-subspace-reticulum.json) |
 | Subspace Voyage | 365850 | [365850-subspace-voyage.json](./365850-subspace-voyage.json) |
 | Substrate: Emergence | 398531 | [398531-substrate-emergence.json](./398531-substrate-emergence.json) |
+| Substratum | 128432 | [128432-substratum.json](./128432-substratum.json) |
 | Substructure | 380408 | [380408-substructure.json](./380408-substructure.json) |
 | Subsuelo | 272035 | [272035-subsuelo.json](./272035-subsuelo.json) |
 | Subsurface | 411732 | [411732-subsurface.json](./411732-subsurface.json) |
