@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taival | 398552 | [398552-taival.json](./398552-taival.json) |
 | Taiwan 2013 | 291988 | [291988-taiwan-2013.json](./291988-taiwan-2013.json) |
 | Taiwan Coolfox | 351603 | [351603-taiwan-coolfox.json](./351603-taiwan-coolfox.json) |
+| Taiwan Mahjong | 125867 | [125867-taiwan-mahjong.json](./125867-taiwan-mahjong.json) |
 | Taiwan Mahjong | 334658 | [334658-taiwan-mahjong.json](./334658-taiwan-mahjong.json) |
 | Taiwan Monster Fruit: Prologue | 146216 | [146216-taiwan-monster-fruit-prologue.json](./146216-taiwan-monster-fruit-prologue.json) |
 | Taiwanese Dominatrixes Are the Best | 385703 | [385703-taiwanese-dominatrixes-are-the-best.json](./385703-taiwanese-dominatrixes-are-the-best.json) |
@@ -7590,6 +7591,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Miser's House | 25116 | [25116-the-misers-house.json](./25116-the-misers-house.json) |
 | The Misfits Burger Joint | 255341 | [255341-the-misfits-burger-joint.json](./255341-the-misfits-burger-joint.json) |
 | The Misfortunes of a Nekomimi Catgirl Sorceress | 82914 | [82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json](./82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json) |
+| The Misshitsu kara no Dasshutsu 2 | 125774 | [125774-the-misshitsu-kara-no-dasshutsu-2.json](./125774-the-misshitsu-kara-no-dasshutsu-2.json) |
+| The Misshitsu kara no Dasshutsu: The Suiri Bangai-hen | 125778 | [125778-the-misshitsu-kara-no-dasshutsu-the-suiri-bangai-hen.json](./125778-the-misshitsu-kara-no-dasshutsu-the-suiri-bangai-hen.json) |
 | The Misshitsu kara no Dasshutsu: Unmei wo Tsunagu 35 no Nazo | 147327 | [147327-the-misshitsu-kara-no-dasshutsu-unmei-wo-tsunagu-35-no-nazo.json](./147327-the-misshitsu-kara-no-dasshutsu-unmei-wo-tsunagu-35-no-nazo.json) |
 | The Missing Few | 110808 | [110808-the-missing-few.json](./110808-the-missing-few.json) |
 | The Missing Link | 190442 | [190442-the-missing-link.json](./190442-the-missing-link.json) |
