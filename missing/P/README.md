@@ -3256,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickle Pete: Survival RPG | 245378 | [245378-pickle-pete-survival-rpg.json](./245378-pickle-pete-survival-rpg.json) |
 | Pickle Pop | 317446 | [317446-pickle-pop.json](./317446-pickle-pop.json) |
 | Pickle Run | 212713 | [212713-pickle-run.json](./212713-pickle-run.json) |
+| Pickle's Book | 137999 | [137999-pickles-book.json](./137999-pickles-book.json) |
 | Pickleball One | 272337 | [272337-pickleball-one.json](./272337-pickleball-one.json) |
 | Pickleball Smash | 270160 | [270160-pickleball-smash.json](./270160-pickleball-smash.json) |
 | Pickmos | 395697 | [395697-pickmos.json](./395697-pickmos.json) |
@@ -4212,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixasso 3 | 166624 | [166624-pixasso-3.json](./166624-pixasso-3.json) |
 | Pixel Adventure | 152995 | [152995-pixel-adventure.json](./152995-pixel-adventure.json) |
 | Pixel Adventure: Exploration | 96005 | [96005-pixel-adventure-exploration.json](./96005-pixel-adventure-exploration.json) |
+| Pixel Anarchy Online | 137974 | [137974-pixel-anarchy-online.json](./137974-pixel-anarchy-online.json) |
 | Pixel Art Academy: Learn Mode | 270752 | [270752-pixel-art-academy-learn-mode.json](./270752-pixel-art-academy-learn-mode.json) |
 | Pixel Art Bundle Vol. 1 | 132864 | [132864-pixel-art-bundle-vol-1.json](./132864-pixel-art-bundle-vol-1.json) |
 | Pixel Art: Color by Number | 87040 | [87040-pixel-art-color-by-number.json](./87040-pixel-art-color-by-number.json) |
@@ -5469,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Chibi - Anime Dress Up | 104454 | [104454-pocket-chibi-anime-dress-up.json](./104454-pocket-chibi-anime-dress-up.json) |
 | Pocket City | 79996 | [79996-pocket-city.json](./79996-pocket-city.json) |
 | Pocket Color Billiard | 137631 | [137631-pocket-color-billiard.json](./137631-pocket-color-billiard.json) |
+| Pocket Color Trump | 137983 | [137983-pocket-color-trump.json](./137983-pocket-color-trump.json) |
 | Pocket Cowboy | 175437 | [175437-pocket-cowboy.json](./175437-pocket-cowboy.json) |
 | Pocket Crystal League | 202258 | [202258-pocket-crystal-league.json](./202258-pocket-crystal-league.json) |
 | Pocket Cuisine | 277504 | [277504-pocket-cuisine.json](./277504-pocket-cuisine.json) |
@@ -7616,6 +7619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primo | 271724 | [271724-primo.json](./271724-primo.json) |
 | Primo Richards: Case 1 | 302150 | [302150-primo-richards-case-1.json](./302150-primo-richards-case-1.json) |
 | Primordial | 158671 | [158671-primordial.json](./158671-primordial.json) |
+| Primordials: Battle of Gods | 137978 | [137978-primordials-battle-of-gods.json](./137978-primordials-battle-of-gods.json) |
 | Primordian | 81241 | [81241-primordian.json](./81241-primordian.json) |
 | Primordio | 400906 | [400906-primordio.json](./400906-primordio.json) |
 | Primordium: Eclipse | 365842 | [365842-primordium-eclipse.json](./365842-primordium-eclipse.json) |
