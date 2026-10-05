@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyren | 389086 | [389086-labyren.json](./389086-labyren.json) |
 | LabyrInk | 252287 | [252287-labyrink.json](./252287-labyrink.json) |
 | Labyrinth | 129067 | [129067-labyrinth.json](./129067-labyrinth.json) |
+| Labyrinth | 129619 | [129619-labyrinth.json](./129619-labyrinth.json) |
 | Labyrinth | 206701 | [206701-labyrinth.json](./206701-labyrinth.json) |
 | Labyrinth | 249273 | [249273-labyrinth.json](./249273-labyrinth.json) |
 | Labyrinth | 25102 | [25102-labyrinth.json](./25102-labyrinth.json) |
@@ -1362,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legally Distinct, Planetary Based, Suika Game Clone | 292091 | [292091-legally-distinct-planetary-based-suika-game-clone.json](./292091-legally-distinct-planetary-based-suika-game-clone.json) |
 | Leganda | 188675 | [188675-leganda.json](./188675-leganda.json) |
 | Legasista | 20881 | [20881-legasista.json](./20881-legasista.json) |
+| Legbreaker | 129546 | [129546-legbreaker.json](./129546-legbreaker.json) |
 | Legena: Union Tides | 34449 | [34449-legena-union-tides.json](./34449-legena-union-tides.json) |
 | Legend | 197955 | [197955-legend.json](./197955-legend.json) |
 | Legend | 81187 | [81187-legend.json](./81187-legend.json) |
@@ -3487,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Portrait Maker: Guys | 103167 | [103167-live-portrait-maker-guys.json](./103167-live-portrait-maker-guys.json) |
 | Live Rise!!: 4K Fever | 413072 | [413072-live-rise-4k-fever.json](./413072-live-rise-4k-fever.json) |
 | Live Shiver | 264709 | [264709-live-shiver.json](./264709-live-shiver.json) |
+| Live to Win | 129622 | [129622-live-to-win.json](./129622-live-to-win.json) |
 | LiveGame.Show | 131349 | [131349-livegame-show.json](./131349-livegame-show.json) |
 | Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
 | LiveMeat | 289547 | [289547-livemeat.json](./289547-livemeat.json) |
