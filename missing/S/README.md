@@ -1138,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satan's Pepper | 274183 | [274183-satans-pepper.json](./274183-satans-pepper.json) |
 | Satan's Zombies | 233230 | [233230-satans-zombies.json](./233230-satans-zombies.json) |
 | Satanic | 320733 | [320733-satanic.json](./320733-satanic.json) |
+| Satanic Panic 666 | 159779 | [159779-satanic-panic-666.json](./159779-satanic-panic-666.json) |
 | Satanislas | 250027 | [250027-satanislas.json](./250027-satanislas.json) |
 | Satawn | 405573 | [405573-satawn.json](./405573-satawn.json) |
 | Sate | 273432 | [273432-sate.json](./273432-sate.json) |
@@ -1305,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Body | 190466 | [190466-save-the-body.json](./190466-save-the-body.json) |
 | Save the City | 359440 | [359440-save-the-city.json](./359440-save-the-city.json) |
 | Save the Creatures | 34194 | [34194-save-the-creatures.json](./34194-save-the-creatures.json) |
+| Save the Date | 159770 | [159770-save-the-date.json](./159770-save-the-date.json) |
 | Save the Date | 313845 | [313845-save-the-date.json](./313845-save-the-date.json) |
 | Save the Date | 44123 | [44123-save-the-date.json](./44123-save-the-date.json) |
 | Save The Dev | 397176 | [397176-save-the-dev.json](./397176-save-the-dev.json) |
@@ -6191,6 +6193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister Square's Escape | 101098 | [101098-sister-squares-escape.json](./101098-sister-squares-escape.json) |
 | Sister Travel | 111718 | [111718-sister-travel.json](./111718-sister-travel.json) |
 | Sister's Dream | 202330 | [202330-sisters-dream.json](./202330-sisters-dream.json) |
+| Sisterhood | 159752 | [159752-sisterhood.json](./159752-sisterhood.json) |
 | Sisterly Bliss: Don't Let Mom Find Out | 415277 | [415277-sisterly-bliss-dont-let-mom-find-out.json](./415277-sisterly-bliss-dont-let-mom-find-out.json) |
 | Sisters of Silent Liberty | 154410 | [154410-sisters-of-silent-liberty.json](./154410-sisters-of-silent-liberty.json) |
 | Sisters of Solitude | 391847 | [391847-sisters-of-solitude.json](./391847-sisters-of-solitude.json) |
@@ -7917,6 +7920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snappy Chicks: Flappy Friends | 251118 | [251118-snappy-chicks-flappy-friends.json](./251118-snappy-chicks-flappy-friends.json) |
 | Snappy Elf | 261516 | [261516-snappy-elf.json](./261516-snappy-elf.json) |
 | Snaps | 310029 | [310029-snaps.json](./310029-snaps.json) |
+| Snapshot | 159776 | [159776-snapshot.json](./159776-snapshot.json) |
 | Snapshot | 406915 | [406915-snapshot.json](./406915-snapshot.json) |
 | SnapShot | 298808 | [298808-snapshot.json](./298808-snapshot.json) |
 | Snapshot Aquarium | 216889 | [216889-snapshot-aquarium.json](./216889-snapshot-aquarium.json) |
@@ -9908,6 +9912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulblaze | 325674 | [325674-soulblaze.json](./325674-soulblaze.json) |
 | Soulborn | 132183 | [132183-soulborn.json](./132183-soulborn.json) |
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
+| Soulbound Steel | 159791 | [159791-soulbound-steel.json](./159791-soulbound-steel.json) |
 | SoulCalibur II | 1565 | [1565-soulcalibur-ii.json](./1565-soulcalibur-ii.json) |
 | Soulcalibur II Plus | 384776 | [384776-soulcalibur-ii-plus.json](./384776-soulcalibur-ii-plus.json) |
 | SoulCalibur II: Recompiled | 415181 | [415181-soulcalibur-ii-recompiled.json](./415181-soulcalibur-ii-recompiled.json) |
@@ -10247,6 +10252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cowboy | 25603 | [25603-space-cowboy.json](./25603-space-cowboy.json) |
 | Space Cowboy Radio | 359049 | [359049-space-cowboy-radio.json](./359049-space-cowboy-radio.json) |
 | Space Crab VS | 270147 | [270147-space-crab-vs.json](./270147-space-crab-vs.json) |
+| Space Craft | 159764 | [159764-space-craft.json](./159764-space-craft.json) |
 | Space Crafter | 187230 | [187230-space-crafter.json](./187230-space-crafter.json) |
 | Space Crafter | 291585 | [291585-space-crafter.json](./291585-space-crafter.json) |
 | Space Crawl | 55465 | [55465-space-crawl.json](./55465-space-crawl.json) |
@@ -17148,6 +17154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Maura Bros. 3 | 267386 | [267386-super-maura-bros-3.json](./267386-super-maura-bros-3.json) |
 | Super Mayhem 17 | 269128 | [269128-super-mayhem-17.json](./269128-super-mayhem-17.json) |
 | Super Maze | 62409 | [62409-super-maze.json](./62409-super-maze.json) |
+| Super Maze Labyrinth | 159765 | [159765-super-maze-labyrinth.json](./159765-super-maze-labyrinth.json) |
 | Super Maze Wars | 66647 | [66647-super-maze-wars.json](./66647-super-maze-wars.json) |
 | Super Me-Mail GB: Me-Mail Bear no Happy Mail Town | 282662 | [282662-super-me-mail-gb-me-mail-bear-no-happy-mail-town.json](./282662-super-me-mail-gb-me-mail-bear-no-happy-mail-town.json) |
 | Super Meat Boy Handheld! | 77317 | [77317-super-meat-boy-handheld.json](./77317-super-meat-boy-handheld.json) |
@@ -18602,6 +18609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Dreams Bear | 181151 | [181151-sweet-dreams-bear.json](./181151-sweet-dreams-bear.json) |
 | Sweet Dreams on Christmas Eve | 334697 | [334697-sweet-dreams-on-christmas-eve.json](./334697-sweet-dreams-on-christmas-eve.json) |
 | Sweet Driver | 372484 | [372484-sweet-driver.json](./372484-sweet-driver.json) |
+| Sweet Dungeon | 159750 | [159750-sweet-dungeon.json](./159750-sweet-dungeon.json) |
 | Sweet Ex | 392906 | [392906-sweet-ex.json](./392906-sweet-ex.json) |
 | Sweet fantasy | 29081 | [29081-sweet-fantasy.json](./29081-sweet-fantasy.json) |
 | Sweet Fantasy | 339464 | [339464-sweet-fantasy.json](./339464-sweet-fantasy.json) |
@@ -18927,6 +18935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword World SFC 2: Inishie no Kyojin Densetsu | 37801 | [37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json](./37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json) |
 | Sword x Hime | 148961 | [148961-sword-x-hime.json](./148961-sword-x-hime.json) |
 | Sword: Depths of the Void | 216193 | [216193-sword-depths-of-the-void.json](./216193-sword-depths-of-the-void.json) |
+| Sword's Soul Duel | 159636 | [159636-swords-soul-duel.json](./159636-swords-soul-duel.json) |
 | Sword&Magic | 226153 | [226153-sword-and-magic.json](./226153-sword-and-magic.json) |
 | Swordash | 259564 | [259564-swordash.json](./259564-swordash.json) |
 | Swordbreaker the Game | 34192 | [34192-swordbreaker-the-game.json](./34192-swordbreaker-the-game.json) |
