@@ -1332,6 +1332,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva - Mega Mix Song Pack 17 | 223580 | [223580-hatsune-miku-project-diva-mega-mix-song-pack-17.json](./223580-hatsune-miku-project-diva-mega-mix-song-pack-17.json) |
 | Hatsune Miku: Project Diva - Mega Mix Song Pack 18 | 223579 | [223579-hatsune-miku-project-diva-mega-mix-song-pack-18.json](./223579-hatsune-miku-project-diva-mega-mix-song-pack-18.json) |
 | Hatsune Miku: Project Diva - Mega Mix+ Extra Song Pack | 223586 | [223586-hatsune-miku-project-diva-mega-mix-extra-song-pack.json](./223586-hatsune-miku-project-diva-mega-mix-extra-song-pack.json) |
+| Hatsune Miku: Project Diva - Miku Uta, Okawari | 142738 | [142738-hatsune-miku-project-diva-miku-uta-okawari.json](./142738-hatsune-miku-project-diva-miku-uta-okawari.json) |
+| Hatsune Miku: Project Diva - Motto Okawari, Rin, Len, Luka | 142739 | [142739-hatsune-miku-project-diva-motto-okawari-rin-len-luka.json](./142739-hatsune-miku-project-diva-motto-okawari-rin-len-luka.json) |
 | Hatsune Miku: Project Diva 2nd | 11755 | [11755-hatsune-miku-project-diva-2nd.json](./11755-hatsune-miku-project-diva-2nd.json) |
 | Hatsune Miku: Project Diva 2nd - The Idolm@ster Collaboration Pack #1 | 294733 | [294733-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-1.json](./294733-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-1.json) |
 | Hatsune Miku: Project Diva 2nd - The Idolm@ster Collaboration Pack #2 | 294734 | [294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json](./294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json) |
@@ -5438,6 +5440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Sense: Daruma-san ga Koronda | 44156 | [44156-horror-sense-daruma-san-ga-koronda.json](./44156-horror-sense-daruma-san-ga-koronda.json) |
 | Horror Simulator: Co-Op | 318059 | [318059-horror-simulator-co-op.json](./318059-horror-simulator-co-op.json) |
 | Horror Souls | 109905 | [109905-horror-souls.json](./109905-horror-souls.json) |
+| Horror Squad | 142728 | [142728-horror-squad.json](./142728-horror-squad.json) |
 | Horror Stories | 60496 | [60496-horror-stories.json](./60496-horror-stories.json) |
 | Horror Story | 42001 | [42001-horror-story.json](./42001-horror-story.json) |
 | Horror Tale 1: Kidnapper | 239049 | [239049-horror-tale-1-kidnapper.json](./239049-horror-tale-1-kidnapper.json) |
@@ -6839,6 +6842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperPortals | 195712 | [195712-hyperportals.json](./195712-hyperportals.json) |
 | Hyperscale | 410398 | [410398-hyperscale.json](./410398-hyperscale.json) |
 | Hypership Out of Control | 35659 | [35659-hypership-out-of-control.json](./35659-hypership-out-of-control.json) |
+| HyperShot | 142704 | [142704-hypershot.json](./142704-hypershot.json) |
 | Hyperslice | 303556 | [303556-hyperslice.json](./303556-hyperslice.json) |
 | Hypersomnia | 249782 | [249782-hypersomnia.json](./249782-hypersomnia.json) |
 | Hypersomnia | 286133 | [286133-hypersomnia.json](./286133-hypersomnia.json) |
