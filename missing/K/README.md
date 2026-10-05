@@ -2086,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kisekimura | 149547 | [149547-kisekimura.json](./149547-kisekimura.json) |
 | Kisekimura: ZumiIwa | 202641 | [202641-kisekimura-zumiiwa.json](./202641-kisekimura-zumiiwa.json) |
 | Kisen: Seeker of Aenjan City | 390129 | [390129-kisen-seeker-of-aenjan-city.json](./390129-kisen-seeker-of-aenjan-city.json) |
+| Kishi Fujii Souta no Shogi Training | 136830 | [136830-kishi-fujii-souta-no-shogi-training.json](./136830-kishi-fujii-souta-no-shogi-training.json) |
 | Kishin Douji Zenki FX: Vajra Fight | 45957 | [45957-kishin-douji-zenki-fx-vajra-fight.json](./45957-kishin-douji-zenki-fx-vajra-fight.json) |
 | Kishin Douji Zenki: Tenchi Meidou | 38360 | [38360-kishin-douji-zenki-tenchi-meidou.json](./38360-kishin-douji-zenki-tenchi-meidou.json) |
 | Kishin Hishou Demonbane | 72666 | [72666-kishin-hishou-demonbane.json](./72666-kishin-hishou-demonbane.json) |
@@ -2114,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss the Demiurge | 215593 | [215593-kiss-the-demiurge.json](./215593-kiss-the-demiurge.json) |
 | Kiss the Ghoul | 178478 | [178478-kiss-the-ghoul.json](./178478-kiss-the-ghoul.json) |
 | Kiss the Girl | 216174 | [216174-kiss-the-girl.json](./216174-kiss-the-girl.json) |
+| Kiss Trilogy: Premium Edition | 136826 | [136826-kiss-trilogy-premium-edition.json](./136826-kiss-trilogy-premium-edition.json) |
 | Kiss Yori... | 73766 | [73766-kiss-yori.json](./73766-kiss-yori.json) |
 | Kissa | 181891 | [181891-kissa.json](./181891-kissa.json) |
 | Kissed by a Star | 349981 | [349981-kissed-by-a-star.json](./349981-kissed-by-a-star.json) |
@@ -2817,6 +2819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kono Pawn | 355214 | [355214-kono-pawn.json](./355214-kono-pawn.json) |
 | Kono Subarashii Sekai ni Shukufuku o! Fantasutikku Deizu | 131568 | [131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json](./131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! In the Life! | 56133 | [56133-kono-subarashii-sekai-ni-shukufuku-wo-in-the-life.json](./56133-kono-subarashii-sekai-ni-shukufuku-wo-in-the-life.json) |
+| Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi Plus: Complete Edition | 136787 | [136787-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-complete-edition.json](./136787-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-complete-edition.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi! Plus: Limited Edition | 167155 | [167155-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-limited-edition.json](./167155-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-limited-edition.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi!: Limited Edition | 167152 | [167152-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-limited-edition.json](./167152-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-limited-edition.json) |
 | Kono Subarashii Sekai ni Shukufuku wo!: Attack of the Destroyer! | 145938 | [145938-kono-subarashii-sekai-ni-shukufuku-wo-attack-of-the-destroyer.json](./145938-kono-subarashii-sekai-ni-shukufuku-wo-attack-of-the-destroyer.json) |
@@ -2827,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konohana 3: Itsuwari no Kage no Mukou ni | 213868 | [213868-konohana-3-itsuwari-no-kage-no-mukou-ni.json](./213868-konohana-3-itsuwari-no-kage-no-mukou-ni.json) |
 | Konohana 4: Yami wo Harau Inori | 213933 | [213933-konohana-4-yami-wo-harau-inori.json](./213933-konohana-4-yami-wo-harau-inori.json) |
 | KonoSuba: Fantastic Days! | 138261 | [138261-konosuba-fantastic-days.json](./138261-konosuba-fantastic-days.json) |
+| Konosuba: God's Blessing on this Wonderful World! - Love for this Tempting Attire | 136771 | [136771-konosuba-gods-blessing-on-this-wonderful-world-love-for-this-tempting-attire.json](./136771-konosuba-gods-blessing-on-this-wonderful-world-love-for-this-tempting-attire.json) |
 | KonoSuba: God's Blessing on this Wonderful World! Judgment on this Greedy Game! | 34218 | [34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json](./34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json) |
 | Konosuba: God's Blessing on This Wonderful World! Love for These Clothes of Desire! | 259162 | [259162-konosuba-gods-blessing-on-this-wonderful-world-love-for-these-clothes-of-desire.json](./259162-konosuba-gods-blessing-on-this-wonderful-world-love-for-these-clothes-of-desire.json) |
 | KonoSuba: God’s Blessing on this Wonderful World! Love for this Tempting Attire - Limited Edition | 167137 | [167137-konosuba-god-s-blessing-on-this-wonderful-world-love-for-this-tempting-attire-limited-edition.json](./167137-konosuba-god-s-blessing-on-this-wonderful-world-love-for-this-tempting-attire-limited-edition.json) |
