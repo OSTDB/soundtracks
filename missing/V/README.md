@@ -2055,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Kart 360 | 309681 | [309681-vr-kart-360.json](./309681-vr-kart-360.json) |
 | VR Kayaking Game | 186255 | [186255-vr-kayaking-game.json](./186255-vr-kayaking-game.json) |
 | VR King Arthur's Sword in Romano Britania | 164422 | [164422-vr-king-arthurs-sword-in-romano-britania.json](./164422-vr-king-arthurs-sword-in-romano-britania.json) |
+| VR King of Battle Cards | 155674 | [155674-vr-king-of-battle-cards.json](./155674-vr-king-of-battle-cards.json) |
 | VR Laser Harp | 30761 | [30761-vr-laser-harp.json](./30761-vr-laser-harp.json) |
 | VR Laser Puzzle | 96685 | [96685-vr-laser-puzzle.json](./96685-vr-laser-puzzle.json) |
 | VR Masturbate | 384634 | [384634-vr-masturbate.json](./384634-vr-masturbate.json) |
