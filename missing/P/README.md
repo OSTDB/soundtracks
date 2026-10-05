@@ -7277,6 +7277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Stakes: Grade 1 | 141165 | [141165-power-stakes-grade-1.json](./141165-power-stakes-grade-1.json) |
 | Power Star Frenzy | 135090 | [135090-power-star-frenzy.json](./135090-power-star-frenzy.json) |
 | Power Star Unleashed | 315024 | [315024-power-star-unleashed.json](./315024-power-star-unleashed.json) |
+| Power Stealers | 121392 | [121392-power-stealers.json](./121392-power-stealers.json) |
 | Power Stone Mini | 227746 | [227746-power-stone-mini.json](./227746-power-stone-mini.json) |
 | Power Structure | 271318 | [271318-power-structure.json](./271318-power-structure.json) |
 | Power Struggle | 129005 | [129005-power-struggle.json](./129005-power-struggle.json) |
