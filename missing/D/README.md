@@ -2486,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decent Into Sector 32 | 165641 | [165641-decent-into-sector-32.json](./165641-decent-into-sector-32.json) |
 | Decently Bad Tower Defense | 158034 | [158034-decently-bad-tower-defense.json](./158034-decently-bad-tower-defense.json) |
 | Deceptiive Love Ballad The Blasphemer | 386840 | [386840-deceptiive-love-ballad-the-blasphemer.json](./386840-deceptiive-love-ballad-the-blasphemer.json) |
+| Deception | 171413 | [171413-deception.json](./171413-deception.json) |
 | Deception IV: The Nightmare Princess | 44650 | [44650-deception-iv-the-nightmare-princess.json](./44650-deception-iv-the-nightmare-princess.json) |
 | Deceptus Map Pack + Bonus Items | 230934 | [230934-deceptus-map-pack-bonus-items.json](./230934-deceptus-map-pack-bonus-items.json) |
 | Decide 4 God | 173046 | [173046-decide-4-god.json](./173046-decide-4-god.json) |
@@ -4035,6 +4036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deviens Miss France | 269745 | [269745-deviens-miss-france.json](./269745-deviens-miss-france.json) |
 | Devil Below | 293171 | [293171-devil-below.json](./293171-devil-below.json) |
 | Devil Book: Hand-Drawn Action MMO | 146171 | [146171-devil-book-hand-drawn-action-mmo.json](./146171-devil-book-hand-drawn-action-mmo.json) |
+| Devil Catcher | 171414 | [171414-devil-catcher.json](./171414-devil-catcher.json) |
 | Devil Cult Party | 305794 | [305794-devil-cult-party.json](./305794-devil-cult-party.json) |
 | Devil Dice | 28400 | [28400-devil-dice.json](./28400-devil-dice.json) |
 | Devil Dumper Doris | 244918 | [244918-devil-dumper-doris.json](./244918-devil-dumper-doris.json) |
@@ -7640,6 +7642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Eternity | 59981 | [59981-dragon-eternity.json](./59981-dragon-eternity.json) |
 | Dragon Expedition | 332993 | [332993-dragon-expedition.json](./332993-dragon-expedition.json) |
 | Dragon Extinction VR | 149002 | [149002-dragon-extinction-vr.json](./149002-dragon-extinction-vr.json) |
+| Dragon Fang Z: The Rose & Dungeon of Time - Extra Dungeon: Friendship's Labyrinth | 171446 | [171446-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-friendships-labyrinth.json](./171446-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-friendships-labyrinth.json) |
 | Dragon Fang Z: The Rose & Dungeon of Time - Extra Dungeon: The Cave of Fangs | 171939 | [171939-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-cave-of-fangs.json](./171939-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-cave-of-fangs.json) |
 | Dragon Fang Z: The Rose & Dungeon of Time - Extra Dungeon: The Inferno Hollow | 171938 | [171938-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-inferno-hollow.json](./171938-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-inferno-hollow.json) |
 | Dragon Fantasy | 22332 | [22332-dragon-fantasy.json](./22332-dragon-fantasy.json) |
