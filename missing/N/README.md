@@ -1696,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverless Academy | 371259 | [371259-neverless-academy.json](./371259-neverless-academy.json) |
 | Nevermind | 290939 | [290939-nevermind.json](./290939-nevermind.json) |
 | Nevermore 3 | 328005 | [328005-nevermore-3.json](./328005-nevermore-3.json) |
+| Nevermore VIII-XIII | 119498 | [119498-nevermore-viii-xiii.json](./119498-nevermore-viii-xiii.json) |
 | NeveRossa: Mille e una notte | 316644 | [316644-neverossa-mille-e-una-notte.json](./316644-neverossa-mille-e-una-notte.json) |
 | Neverputt | 51246 | [51246-neverputt.json](./51246-neverputt.json) |
 | NeverRage | 266973 | [266973-neverrage.json](./266973-neverrage.json) |
@@ -1782,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Frontier: Zombies | 130787 | [130787-new-frontier-zombies.json](./130787-new-frontier-zombies.json) |
 | New Ganymede | 266783 | [266783-new-ganymede.json](./266783-new-ganymede.json) |
 | New Ghostbusters II | 3658 | [3658-new-ghostbusters-ii.json](./3658-new-ghostbusters-ii.json) |
+| New Giant Business | 119609 | [119609-new-giant-business.json](./119609-new-giant-business.json) |
 | New Gundam Breaker: Build G Sound Edition | 136768 | [136768-new-gundam-breaker-build-g-sound-edition.json](./136768-new-gundam-breaker-build-g-sound-edition.json) |
 | New Gundam Breaker: Gunpla Figure Premium Edition | 167159 | [167159-new-gundam-breaker-gunpla-figure-premium-edition.json](./167159-new-gundam-breaker-gunpla-figure-premium-edition.json) |
 | New Hire | 226132 | [226132-new-hire.json](./226132-new-hire.json) |
