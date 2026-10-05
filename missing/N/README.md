@@ -3448,6 +3448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nohzdyve | 123624 | [123624-nohzdyve.json](./123624-nohzdyve.json) |
 | Noir Crime Bundle: Mafia, Mystery & Investigation | 402297 | [402297-noir-crime-bundle-mafia-mystery-and-investigation.json](./402297-noir-crime-bundle-mafia-mystery-and-investigation.json) |
 | Noir Detective | 185411 | [185411-noir-detective.json](./185411-noir-detective.json) |
+| Noir Punk | 150240 | [150240-noir-punk.json](./150240-noir-punk.json) |
 | Noir Storm | 216984 | [216984-noir-storm.json](./216984-noir-storm.json) |
 | Noir Total: Deadly Party | 343270 | [343270-noir-total-deadly-party.json](./343270-noir-total-deadly-party.json) |
 | Noircotics | 312185 | [312185-noircotics.json](./312185-noircotics.json) |
