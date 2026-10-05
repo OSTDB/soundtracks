@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Forest | 387527 | [387527-a-forest.json](./387527-a-forest.json) |
 | A Forest Tale: Porasy | 330330 | [330330-a-forest-tale-porasy.json](./330330-a-forest-tale-porasy.json) |
 | A Forever Solitude | 211396 | [211396-a-forever-solitude.json](./211396-a-forever-solitude.json) |
+| A Forgetful Loop | 140905 | [140905-a-forgetful-loop.json](./140905-a-forgetful-loop.json) |
 | A Fox and His Robot | 150611 | [150611-a-fox-and-his-robot.json](./150611-a-fox-and-his-robot.json) |
 | A Fox Tale | 142477 | [142477-a-fox-tale.json](./142477-a-fox-tale.json) |
 | A Fragment of Her | 60215 | [60215-a-fragment-of-her.json](./60215-a-fragment-of-her.json) |
@@ -5807,6 +5808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends Showdown | 396542 | [396542-apex-legends-showdown.json](./396542-apex-legends-showdown.json) |
 | Apex Legends: Arsenal | 249282 | [249282-apex-legends-arsenal.json](./249282-apex-legends-arsenal.json) |
 | Apex Legends: Bangalore Edition | 170286 | [170286-apex-legends-bangalore-edition.json](./170286-apex-legends-bangalore-edition.json) |
+| Apex Legends: Champions Edition | 140895 | [140895-apex-legends-champions-edition.json](./140895-apex-legends-champions-edition.json) |
 | Apex Legends: Defiance | 188649 | [188649-apex-legends-defiance.json](./188649-apex-legends-defiance.json) |
 | Apex Legends: Eclipse | 223471 | [223471-apex-legends-eclipse.json](./223471-apex-legends-eclipse.json) |
 | Apex Legends: Emergence | 159117 | [159117-apex-legends-emergence.json](./159117-apex-legends-emergence.json) |
@@ -6904,6 +6906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argo | 36607 | [36607-argo.json](./36607-argo.json) |
 | Argo Adventure | 120885 | [120885-argo-adventure.json](./120885-argo-adventure.json) |
 | Argol: Kronoss' Castle | 229807 | [229807-argol-kronoss-castle.json](./229807-argol-kronoss-castle.json) |
+| Argolis | 140940 | [140940-argolis.json](./140940-argolis.json) |
 | Argonauts Agency: Ares Games | 360665 | [360665-argonauts-agency-ares-games.json](./360665-argonauts-agency-ares-games.json) |
 | Argonauts Agency: Captive of Circe - Collectors Edition | 357334 | [357334-argonauts-agency-captive-of-circe-collectors-edition.json](./357334-argonauts-agency-captive-of-circe-collectors-edition.json) |
 | Argonauts Agency: Chair of Hephaestus | 188084 | [188084-argonauts-agency-chair-of-hephaestus.json](./188084-argonauts-agency-chair-of-hephaestus.json) |
