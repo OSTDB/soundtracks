@@ -1702,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Bounty 2 | 74329 | [74329-kings-bounty-2.json](./74329-kings-bounty-2.json) |
 | King's Bounty II: Day One Edition | 146330 | [146330-kings-bounty-ii-day-one-edition.json](./146330-kings-bounty-ii-day-one-edition.json) |
 | King's Bounty II: Duke's Edition | 169209 | [169209-kings-bounty-ii-dukes-edition.json](./169209-kings-bounty-ii-dukes-edition.json) |
+| King's Bounty II: King Collector's Edition | 153021 | [153021-kings-bounty-ii-king-collectors-edition.json](./153021-kings-bounty-ii-king-collectors-edition.json) |
 | King's Bounty II: Lord's Edition | 155100 | [155100-kings-bounty-ii-lords-edition.json](./155100-kings-bounty-ii-lords-edition.json) |
 | King's Bounty: Dark Side | 8073 | [8073-kings-bounty-dark-side.json](./8073-kings-bounty-dark-side.json) |
 | King's Bounty: Dark Side - Premium Edition | 53238 | [53238-kings-bounty-dark-side-premium-edition.json](./53238-kings-bounty-dark-side-premium-edition.json) |
@@ -2815,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konran;Zanki | 353452 | [353452-konran-zanki.json](./353452-konran-zanki.json) |
 | Konsui Fighter | 105555 | [105555-konsui-fighter.json](./105555-konsui-fighter.json) |
 | Kontra | 238396 | [238396-kontra.json](./238396-kontra.json) |
+| Konung 1 + 2 | 153008 | [153008-konung-1-2.json](./153008-konung-1-2.json) |
 | Kook | 245829 | [245829-kook.json](./245829-kook.json) |
 | Kooka Bonga | 307215 | [307215-kooka-bonga.json](./307215-kooka-bonga.json) |
 | Kooky Kids Fort Defense | 255958 | [255958-kooky-kids-fort-defense.json](./255958-kooky-kids-fort-defense.json) |
