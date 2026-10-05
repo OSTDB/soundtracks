@@ -377,7 +377,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard | 142423 | [142423-backyard.json](./142423-backyard.json) |
 | Backyard Baseball | 393033 | [393033-backyard-baseball.json](./393033-backyard-baseball.json) |
 | Backyard Baseball | 50299 | [50299-backyard-baseball.json](./50299-backyard-baseball.json) |
+| Backyard Baseball '09 | 132055 | [132055-backyard-baseball-09.json](./132055-backyard-baseball-09.json) |
 | Backyard Baseball '97 | 317717 | [317717-backyard-baseball-97.json](./317717-backyard-baseball-97.json) |
+| Backyard Baseball 2003 | 132053 | [132053-backyard-baseball-2003.json](./132053-backyard-baseball-2003.json) |
+| Backyard Baseball 2006 | 132054 | [132054-backyard-baseball-2006.json](./132054-backyard-baseball-2006.json) |
 | Backyard Basketball | 69242 | [69242-backyard-basketball.json](./69242-backyard-basketball.json) |
 | Backyard Basketball ‘01 | 377818 | [377818-backyard-basketball-01.json](./377818-backyard-basketball-01.json) |
 | Backyard Battles | 62812 | [62812-backyard-battles.json](./62812-backyard-battles.json) |
@@ -1841,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bathysphere | 415144 | [415144-bathysphere.json](./415144-bathysphere.json) |
 | Batla | 36058 | [36058-batla.json](./36058-batla.json) |
 | Batman | 131462 | [131462-batman.json](./131462-batman.json) |
+| Batman | 131964 | [131964-batman.json](./131964-batman.json) |
 | Batman | 200135 | [200135-batman.json](./200135-batman.json) |
 | Batman & Flash | 326624 | [326624-batman-and-flash.json](./326624-batman-and-flash.json) |
 | Batman & Robin | 199423 | [199423-batman-and-robin.json](./199423-batman-and-robin.json) |
@@ -3770,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Wall | 80968 | [80968-beyond-the-wall.json](./80968-beyond-the-wall.json) |
 | Beyond the Wall of Stars | 68684 | [68684-beyond-the-wall-of-stars.json](./68684-beyond-the-wall-of-stars.json) |
 | Beyond The Walls | 303548 | [303548-beyond-the-walls.json](./303548-beyond-the-walls.json) |
+| Beyond the Wire | 131957 | [131957-beyond-the-wire.json](./131957-beyond-the-wire.json) |
 | Beyond the Wizard | 119666 | [119666-beyond-the-wizard.json](./119666-beyond-the-wizard.json) |
 | Beyond These Stars | 239002 | [239002-beyond-these-stars.json](./239002-beyond-these-stars.json) |
 | Beyond Truth | 184372 | [184372-beyond-truth.json](./184372-beyond-truth.json) |
@@ -7801,6 +7806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brass | 302431 | [302431-brass.json](./302431-brass.json) |
 | Brass | 68443 | [68443-brass.json](./68443-brass.json) |
 | Brass & Bramble | 371467 | [371467-brass-and-bramble.json](./371467-brass-and-bramble.json) |
+| Brass Bellow | 131958 | [131958-brass-bellow.json](./131958-brass-bellow.json) |
 | Brass Lament | 343277 | [343277-brass-lament.json](./343277-brass-lament.json) |
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
 | Brass: Birmingham | 153870 | [153870-brass-birmingham.json](./153870-brass-birmingham.json) |
@@ -8161,6 +8167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrebeMan | 329237 | [329237-brebeman.json](./329237-brebeman.json) |
 | Breed Master | 268484 | [268484-breed-master.json](./268484-breed-master.json) |
 | Breeder | 41329 | [41329-breeder.json](./41329-breeder.json) |
+| Breeder: Homegrown - Director's Cut | 131971 | [131971-breeder-homegrown-directors-cut.json](./131971-breeder-homegrown-directors-cut.json) |
 | Breeders of the Nephelym: Alpha | 122800 | [122800-breeders-of-the-nephelym-alpha.json](./122800-breeders-of-the-nephelym-alpha.json) |
 | Breenstein | 252103 | [252103-breenstein.json](./252103-breenstein.json) |
 | Breeze Girl | 193991 | [193991-breeze-girl.json](./193991-breeze-girl.json) |
@@ -9404,6 +9411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burn Ban | 104776 | [104776-burn-ban.json](./104776-burn-ban.json) |
 | Burn Depth | 203891 | [203891-burn-depth.json](./203891-burn-depth.json) |
 | Burn It Down | 47991 | [47991-burn-it-down.json](./47991-burn-it-down.json) |
+| Burn Me Twice | 132057 | [132057-burn-me-twice.json](./132057-burn-me-twice.json) |
 | Burn the Midnight Oil | 395846 | [395846-burn-the-midnight-oil.json](./395846-burn-the-midnight-oil.json) |
 | Burn the Rope HD | 107658 | [107658-burn-the-rope-hd.json](./107658-burn-the-rope-hd.json) |
 | Burn the Witch | 212903 | [212903-burn-the-witch.json](./212903-burn-the-witch.json) |
