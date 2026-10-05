@@ -3063,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dekaron M | 165416 | [165416-dekaron-m.json](./165416-dekaron-m.json) |
 | Dekinai Watashi ga, Kurikaesu. | 402473 | [402473-dekinai-watashi-ga-kurikaesu.json](./402473-dekinai-watashi-ga-kurikaesu.json) |
 | Dekisugi Tingle Pack | 100169 | [100169-dekisugi-tingle-pack.json](./100169-dekisugi-tingle-pack.json) |
+| Dekitayo Mama! Mitsugo no Kuma-San - Onna no Ko | 124664 | [124664-dekitayo-mama-mitsugo-no-kuma-san-onna-no-ko.json](./124664-dekitayo-mama-mitsugo-no-kuma-san-onna-no-ko.json) |
 | Dekoboko Densetsu: Hashiru Wagamanma | 145674 | [145674-dekoboko-densetsu-hashiru-wagamanma.json](./145674-dekoboko-densetsu-hashiru-wagamanma.json) |
 | Dekonstrukt | 148132 | [148132-dekonstrukt.json](./148132-dekonstrukt.json) |
 | Dekorating Blues | 73332 | [73332-dekorating-blues.json](./73332-dekorating-blues.json) |
