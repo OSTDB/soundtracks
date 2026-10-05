@@ -4549,6 +4549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Survivors | 35921 | [35921-pixel-survivors.json](./35921-pixel-survivors.json) |
 | Pixel Survivors: Defense | 374632 | [374632-pixel-survivors-defense.json](./374632-pixel-survivors-defense.json) |
 | Pixel Sweepers | 259244 | [259244-pixel-sweepers.json](./259244-pixel-sweepers.json) |
+| Pixel Tactics Online | 148131 | [148131-pixel-tactics-online.json](./148131-pixel-tactics-online.json) |
 | Pixel Texas Hold'em | 407545 | [407545-pixel-texas-holdem.json](./407545-pixel-texas-holdem.json) |
 | Pixel Theory: Leviatán | 325711 | [325711-pixel-theory-leviatan.json](./325711-pixel-theory-leviatan.json) |
 | Pixel Top Down Shooter | 176345 | [176345-pixel-top-down-shooter.json](./176345-pixel-top-down-shooter.json) |
@@ -8248,6 +8249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Dukkha | 343942 | [343942-project-dukkha.json](./343942-project-dukkha.json) |
 | Project Dunk | 122328 | [122328-project-dunk.json](./122328-project-dunk.json) |
 | Project DX | 174821 | [174821-project-dx.json](./174821-project-dx.json) |
+| Project E.V.A. Remake | 148115 | [148115-project-e-v-a-remake.json](./148115-project-e-v-a-remake.json) |
 | Project Eagle | 112960 | [112960-project-eagle.json](./112960-project-eagle.json) |
 | Project Eagle | 344958 | [344958-project-eagle.json](./344958-project-eagle.json) |
 | Project Earth | 180790 | [180790-project-earth.json](./180790-project-earth.json) |
