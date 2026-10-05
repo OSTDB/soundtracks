@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Winter | 25769 | [25769-hard-winter.json](./25769-hard-winter.json) |
 | Hard Work | 102327 | [102327-hard-work.json](./102327-hard-work.json) |
 | Hard-Life | 219809 | [219809-hard-life.json](./219809-hard-life.json) |
+| Hard2Fly | 133778 | [133778-hard2fly.json](./133778-hard2fly.json) |
 | HardAF | 276839 | [276839-hardaf.json](./276839-hardaf.json) |
 | HardBall | 268448 | [268448-hardball.json](./268448-hardball.json) |
 | Hardball + Hardball 2 | 336132 | [336132-hardball-hardball-2.json](./336132-hardball-hardball-2.json) |
