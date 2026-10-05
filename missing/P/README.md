@@ -1749,6 +1749,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paug | 153874 | [153874-paug.json](./153874-paug.json) |
 | Paul | 387499 | [387499-paul.json](./387499-paul.json) |
 | Paul Quest Gold Edition | 325699 | [325699-paul-quest-gold-edition.json](./325699-paul-quest-gold-edition.json) |
+| Paul Sloane & Des MacHale's Intriguing Tales | 123377 | [123377-paul-sloane-and-des-machales-intriguing-tales.json](./123377-paul-sloane-and-des-machales-intriguing-tales.json) |
+| Paul Sloane & Des MacHale's Intriguing Tales 2 | 123378 | [123378-paul-sloane-and-des-machales-intriguing-tales-2.json](./123378-paul-sloane-and-des-machales-intriguing-tales-2.json) |
 | Paul: vs. The CIA Gold | 153023 | [153023-paul-vs-the-cia-gold.json](./153023-paul-vs-the-cia-gold.json) |
 | Pauli's Adventure Island | 264101 | [264101-paulis-adventure-island.json](./264101-paulis-adventure-island.json) |
 | Paulo | 86056 | [86056-paulo.json](./86056-paulo.json) |
@@ -1823,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws & Effect: My Dogs Are Human! | 128455 | [128455-paws-and-effect-my-dogs-are-human.json](./128455-paws-and-effect-my-dogs-are-human.json) |
 | Paws & Perils: Out Of This World | 327386 | [327386-paws-and-perils-out-of-this-world.json](./327386-paws-and-perils-out-of-this-world.json) |
 | Paws & Potions | 337301 | [337301-paws-and-potions.json](./337301-paws-and-potions.json) |
+| Paws and Claws: Pet Vet 2 | 123380 | [123380-paws-and-claws-pet-vet-2.json](./123380-paws-and-claws-pet-vet-2.json) |
 | Paws and Leaves: A Last Tale | 211234 | [211234-paws-and-leaves-a-last-tale.json](./211234-paws-and-leaves-a-last-tale.json) |
 | Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
 | Paws of Coal | 247444 | [247444-paws-of-coal.json](./247444-paws-of-coal.json) |
@@ -2652,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Run | 59488 | [59488-pet-run.json](./59488-pet-run.json) |
 | Pet Shop Hop | 208863 | [208863-pet-shop-hop.json](./208863-pet-shop-hop.json) |
 | Pet Shop Simulator | 248906 | [248906-pet-shop-simulator.json](./248906-pet-shop-simulator.json) |
+| Pet Shop Snacks | 123374 | [123374-pet-shop-snacks.json](./123374-pet-shop-snacks.json) |
 | Pet Shop Snacks: Expansion Pack 1 | 237981 | [237981-pet-shop-snacks-expansion-pack-1.json](./237981-pet-shop-snacks-expansion-pack-1.json) |
 | Pet Shop Snacks: Expansion Pack 2 | 237982 | [237982-pet-shop-snacks-expansion-pack-2.json](./237982-pet-shop-snacks-expansion-pack-2.json) |
 | Pet Shop Snacks: Extended Edition | 222233 | [222233-pet-shop-snacks-extended-edition.json](./222233-pet-shop-snacks-extended-edition.json) |
@@ -2768,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz Sports | 50714 | [50714-petz-sports.json](./50714-petz-sports.json) |
 | Petz Vet | 209989 | [209989-petz-vet.json](./209989-petz-vet.json) |
 | Petz: Catz 5 | 23770 | [23770-petz-catz-5.json](./23770-petz-catz-5.json) |
+| Petz: Dogz Fashion | 123373 | [123373-petz-dogz-fashion.json](./123373-petz-dogz-fashion.json) |
 | Petz: Hamster Superstarz | 47972 | [47972-petz-hamster-superstarz.json](./47972-petz-hamster-superstarz.json) |
 | Petz: Hamsterz Life 2 | 49474 | [49474-petz-hamsterz-life-2.json](./49474-petz-hamsterz-life-2.json) |
 | Petz: Nursery | 44062 | [44062-petz-nursery.json](./44062-petz-nursery.json) |
