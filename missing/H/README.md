@@ -1207,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukanaru Toki no Naka De 3: Unmei no Labyrinth Aizouban | 219155 | [219155-harukanaru-toki-no-naka-de-3-unmei-no-labyrinth-aizouban.json](./219155-harukanaru-toki-no-naka-de-3-unmei-no-labyrinth-aizouban.json) |
 | Harukanaru Toki no Naka de 4 | 70656 | [70656-harukanaru-toki-no-naka-de-4.json](./70656-harukanaru-toki-no-naka-de-4.json) |
 | Harukanaru Toki no Naka de 5 | 60503 | [60503-harukanaru-toki-no-naka-de-5.json](./60503-harukanaru-toki-no-naka-de-5.json) |
+| Harukanaru Toki no Naka de 7 | 121519 | [121519-harukanaru-toki-no-naka-de-7.json](./121519-harukanaru-toki-no-naka-de-7.json) |
 | Harukanaru Toki no Naka De 7: Ransei no Sadame wo Koeru Box | 136842 | [136842-harukanaru-toki-no-naka-de-7-ransei-no-sadame-wo-koeru-box.json](./136842-harukanaru-toki-no-naka-de-7-ransei-no-sadame-wo-koeru-box.json) |
 | Harukanaru Toki no Naka de 7: Treasure Box Edition | 136775 | [136775-harukanaru-toki-no-naka-de-7-treasure-box-edition.json](./136775-harukanaru-toki-no-naka-de-7-treasure-box-edition.json) |
 | Harukanaru Toki no Naka de: Banjyou Yuugi | 137002 | [137002-harukanaru-toki-no-naka-de-banjyou-yuugi.json](./137002-harukanaru-toki-no-naka-de-banjyou-yuugi.json) |
@@ -6381,6 +6382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanoid 47 | 128599 | [128599-humanoid-47.json](./128599-humanoid-47.json) |
 | Humanoid Huntress | 249794 | [249794-humanoid-huntress.json](./249794-humanoid-huntress.json) |
 | Humanolve: A Human Evolution Card Saga | 303562 | [303562-humanolve-a-human-evolution-card-saga.json](./303562-humanolve-a-human-evolution-card-saga.json) |
+| Humans 101 | 121405 | [121405-humans-101.json](./121405-humans-101.json) |
 | Humans 3: Evolution - Lost in Time | 39031 | [39031-humans-3-evolution-lost-in-time.json](./39031-humans-3-evolution-lost-in-time.json) |
 | Humans Are Pattern Finders | 179023 | [179023-humans-are-pattern-finders.json](./179023-humans-are-pattern-finders.json) |
 | Humans Are Useless | 211626 | [211626-humans-are-useless.json](./211626-humans-are-useless.json) |
