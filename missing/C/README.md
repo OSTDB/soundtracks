@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Californication | 192403 | [192403-californication.json](./192403-californication.json) |
 | Californium | 18351 | [18351-californium.json](./18351-californium.json) |
 | Caligo | 65840 | [65840-caligo.json](./65840-caligo.json) |
+| Caliper 2 | 118226 | [118226-caliper-2.json](./118226-caliper-2.json) |
 | Calipso | 39610 | [39610-calipso.json](./39610-calipso.json) |
 | Calisteo | 238981 | [238981-calisteo.json](./238981-calisteo.json) |
 | Call Center | 287208 | [287208-call-center.json](./287208-call-center.json) |
@@ -2733,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cemetery Warrior 3 | 29991 | [29991-cemetery-warrior-3.json](./29991-cemetery-warrior-3.json) |
 | Cendovia Uprising | 346664 | [346664-cendovia-uprising.json](./346664-cendovia-uprising.json) |
 | Cendric | 81045 | [81045-cendric.json](./81045-cendric.json) |
+| Cendric's Quest | 118212 | [118212-cendrics-quest.json](./118212-cendrics-quest.json) |
 | Cendrillon palikA | 69347 | [69347-cendrillon-palika.json](./69347-cendrillon-palika.json) |
 | Censored Files | 208458 | [208458-censored-files.json](./208458-censored-files.json) |
 | Centauri Dark | 275655 | [275655-centauri-dark.json](./275655-centauri-dark.json) |
@@ -5059,6 +5061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claire | 10082 | [10082-claire.json](./10082-claire.json) |
 | Claire Darksage and the Accursed Objects: Collector's Editon | 362828 | [362828-claire-darksage-and-the-accursed-objects-collectors-editon.json](./362828-claire-darksage-and-the-accursed-objects-collectors-editon.json) |
 | Claire Darksage and the Penumbra Deaths: Collector's Edition | 416780 | [416780-claire-darksage-and-the-penumbra-deaths-collectors-edition.json](./416780-claire-darksage-and-the-penumbra-deaths-collectors-edition.json) |
+| Claire de Lune | 118217 | [118217-claire-de-lune.json](./118217-claire-de-lune.json) |
 | Claire's Cruisin' Cafe: Fest Frenzy | 266310 | [266310-claires-cruisin-cafe-fest-frenzy.json](./266310-claires-cruisin-cafe-fest-frenzy.json) |
 | Claire's Cruisin' Cafe: High Seas Cuisine | 193445 | [193445-claires-cruisin-cafe-high-seas-cuisine.json](./193445-claires-cruisin-cafe-high-seas-cuisine.json) |
 | Clairvoyance | 115488 | [115488-clairvoyance.json](./115488-clairvoyance.json) |
@@ -6128,6 +6131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Meat | 166716 | [166716-cold-meat.json](./166716-cold-meat.json) |
 | Cold Pines | 391877 | [391877-cold-pines.json](./391877-cold-pines.json) |
 | Cold Scream | 172027 | [172027-cold-scream.json](./172027-cold-scream.json) |
+| Cold Shell | 118150 | [118150-cold-shell.json](./118150-cold-shell.json) |
 | Cold Shift | 302481 | [302481-cold-shift.json](./302481-cold-shift.json) |
 | Cold Snap | 401621 | [401621-cold-snap.json](./401621-cold-snap.json) |
 | Cold Steel | 314630 | [314630-cold-steel.json](./314630-cold-steel.json) |
@@ -10607,6 +10611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curve Fever | 63259 | [63259-curve-fever.json](./63259-curve-fever.json) |
 | Curve Racer | 147616 | [147616-curve-racer.json](./147616-curve-racer.json) |
 | Curved Space | 137680 | [137680-curved-space.json](./137680-curved-space.json) |
+| Curves | 118234 | [118234-curves.json](./118234-curves.json) |
 | Curving Over It with Evgeny Podoynikov | 173179 | [173179-curving-over-it-with-evgeny-podoynikov.json](./173179-curving-over-it-with-evgeny-podoynikov.json) |
 | Curvy | 7497 | [7497-curvy.json](./7497-curvy.json) |
 | Curzon Line | 125292 | [125292-curzon-line.json](./125292-curzon-line.json) |
