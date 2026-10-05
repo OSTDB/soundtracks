@@ -5454,6 +5454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plutonium Pirates | 102363 | [102363-plutonium-pirates.json](./102363-plutonium-pirates.json) |
 | Plutonium T6 Multiplayer | 315118 | [315118-plutonium-t6-multiplayer.json](./315118-plutonium-t6-multiplayer.json) |
 | Ply | 178950 | [178950-ply.json](./178950-ply.json) |
+| PM-1 Inverse Universe | 126382 | [126382-pm-1-inverse-universe.json](./126382-pm-1-inverse-universe.json) |
 | PMC: Net Zero | 377277 | [377277-pmc-net-zero.json](./377277-pmc-net-zero.json) |
 | Pmcman | 178433 | [178433-pmcman.json](./178433-pmcman.json) |
 | Pneuma: Breath of Life | 9178 | [9178-pneuma-breath-of-life.json](./9178-pneuma-breath-of-life.json) |
