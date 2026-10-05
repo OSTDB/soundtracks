@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad Racer II | 48091 | [48091-rad-racer-ii.json](./48091-rad-racer-ii.json) |
 | Rad Racket: Deluxe Tennis II | 48212 | [48212-rad-racket-deluxe-tennis-ii.json](./48212-rad-racket-deluxe-tennis-ii.json) |
 | Rad Rally | 39569 | [39569-rad-rally.json](./39569-rad-rally.json) |
+| Rad Rocket | 138516 | [138516-rad-rocket.json](./138516-rad-rocket.json) |
 | Rad Rodgers: Radical Edition | 113422 | [113422-rad-rodgers-radical-edition.json](./113422-rad-rodgers-radical-edition.json) |
 | RAD Soldiers | 64100 | [64100-rad-soldiers.json](./64100-rad-soldiers.json) |
 | Rad Venture | 215204 | [215204-rad-venture.json](./215204-rad-venture.json) |
@@ -4828,6 +4829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboMaze III: The Dome | 78029 | [78029-robomaze-iii-the-dome.json](./78029-robomaze-iii-the-dome.json) |
 | RoboMaze: The Basement | 59927 | [59927-robomaze-the-basement.json](./59927-robomaze-the-basement.json) |
 | Robonauts | 64205 | [64205-robonauts.json](./64205-robonauts.json) |
+| RoboPhobik | 138534 | [138534-robophobik.json](./138534-robophobik.json) |
 | Roboplant | 186641 | [186641-roboplant.json](./186641-roboplant.json) |
 | Robopost | 244195 | [244195-robopost.json](./244195-robopost.json) |
 | RoboQuest | 199912 | [199912-roboquest.json](./199912-roboquest.json) |
@@ -4950,6 +4952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
 | RoboWarrior | 8473 | [8473-robowarrior.json](./8473-robowarrior.json) |
 | RoboWarrior Arena | 266473 | [266473-robowarrior-arena.json](./266473-robowarrior-arena.json) |
+| Robowork | 138556 | [138556-robowork.json](./138556-robowork.json) |
 | Robox | 147916 | [147916-robox.json](./147916-robox.json) |
 | Robox | 66748 | [66748-robox.json](./66748-robox.json) |
 | Robozarro 2: Operation Atlantic | 187386 | [187386-robozarro-2-operation-atlantic.json](./187386-robozarro-2-operation-atlantic.json) |
@@ -6011,6 +6014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose of Longevity | 326822 | [326822-rose-of-longevity.json](./326822-rose-of-longevity.json) |
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
 | Rose Riddle: Fairy Tale Detective - Collector's Edition | 343359 | [343359-rose-riddle-fairy-tale-detective-collectors-edition.json](./343359-rose-riddle-fairy-tale-detective-collectors-edition.json) |
+| Roseblight | 138554 | [138554-roseblight.json](./138554-roseblight.json) |
 | Roseline | 276831 | [276831-roseline.json](./276831-roseline.json) |
 | Rosemary's Fate: Chapter 1 | 163808 | [163808-rosemarys-fate-chapter-1.json](./163808-rosemarys-fate-chapter-1.json) |
 | Roses and Gems | 34359 | [34359-roses-and-gems.json](./34359-roses-and-gems.json) |
@@ -6273,6 +6277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Driver | 126560 | [126560-rpg-driver.json](./126560-rpg-driver.json) |
 | RPG Golf with Vampires | 263759 | [263759-rpg-golf-with-vampires.json](./263759-rpg-golf-with-vampires.json) |
 | RPG Idle | 169796 | [169796-rpg-idle.json](./169796-rpg-idle.json) |
+| RPG in a Box | 138519 | [138519-rpg-in-a-box.json](./138519-rpg-in-a-box.json) |
 | RPG Maker 2003 | 53529 | [53529-rpg-maker-2003.json](./53529-rpg-maker-2003.json) |
 | RPG Maker 3 | 24144 | [24144-rpg-maker-3.json](./24144-rpg-maker-3.json) |
 | RPG Maker Coloring Book | 338946 | [338946-rpg-maker-coloring-book.json](./338946-rpg-maker-coloring-book.json) |
