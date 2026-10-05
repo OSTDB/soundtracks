@@ -1174,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkworld | 273002 | [273002-darkworld.json](./273002-darkworld.json) |
 | Darkzan Adventure | 376558 | [376558-darkzan-adventure.json](./376558-darkzan-adventure.json) |
 | Darkzan Arena | 244895 | [244895-darkzan-arena.json](./244895-darkzan-arena.json) |
+| Darkzone: Idle RPG | 150759 | [150759-darkzone-idle-rpg.json](./150759-darkzone-idle-rpg.json) |
 | Darling II: Backlash | 203328 | [203328-darling-ii-backlash.json](./203328-darling-ii-backlash.json) |
 | Darling Pet | 188590 | [188590-darling-pet.json](./188590-darling-pet.json) |
 | Darn Guy Adventures | 365183 | [365183-darn-guy-adventures.json](./365183-darn-guy-adventures.json) |
@@ -4111,6 +4112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil In My House | 311781 | [311781-devil-in-my-house.json](./311781-devil-in-my-house.json) |
 | Devil in the Details | 103959 | [103959-devil-in-the-details.json](./103959-devil-in-the-details.json) |
 | Devil in the Pines | 67598 | [67598-devil-in-the-pines.json](./67598-devil-in-the-pines.json) |
+| Devil Inside Us: Roots of Evil | 150782 | [150782-devil-inside-us-roots-of-evil.json](./150782-devil-inside-us-roots-of-evil.json) |
 | Devil Jam | 291855 | [291855-devil-jam.json](./291855-devil-jam.json) |
 | Devil Legion: Battle war | 193889 | [193889-devil-legion-battle-war.json](./193889-devil-legion-battle-war.json) |
 | Devil Mail | 318758 | [318758-devil-mail.json](./318758-devil-mail.json) |
@@ -9836,6 +9838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Durations | 5633 | [5633-durations.json](./5633-durations.json) |
 | Durga: The Lionhearted | 352203 | [352203-durga-the-lionhearted.json](./352203-durga-the-lionhearted.json) |
 | Duriano | 311483 | [311483-duriano.json](./311483-duriano.json) |
+| During Before and After Covid-19 | 150766 | [150766-during-before-and-after-covid-19.json](./150766-during-before-and-after-covid-19.json) |
 | Durka Simulator | 236402 | [236402-durka-simulator.json](./236402-durka-simulator.json) |
 | Duru: About Mole Rats and Depression | 138724 | [138724-duru-about-mole-rats-and-depression.json](./138724-duru-about-mole-rats-and-depression.json) |
 | Dūshì Kǒngbù Gùshì | 116312 | [116312-dushi-kongbu-gushi.json](./116312-dushi-kongbu-gushi.json) |
