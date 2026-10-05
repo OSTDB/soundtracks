@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Shoko | 202351 | [202351-yume-shoko.json](./202351-yume-shoko.json) |
 | Yume Slide | 243654 | [243654-yume-slide.json](./243654-yume-slide.json) |
 | Yume Smashi | 229662 | [229662-yume-smashi.json](./229662-yume-smashi.json) |
+| Yume Tagai | 166580 | [166580-yume-tagai.json](./166580-yume-tagai.json) |
 | Yume Tenshi | 364030 | [364030-yume-tenshi.json](./364030-yume-tenshi.json) |
 | Yume Utsutsu Dreamy | 247507 | [247507-yume-utsutsu-dreamy.json](./247507-yume-utsutsu-dreamy.json) |
 | Yume Wheeky | 229687 | [229687-yume-wheeky.json](./229687-yume-wheeky.json) |
@@ -1087,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yupitergrad | 142438 | [142438-yupitergrad.json](./142438-yupitergrad.json) |
 | Yupitergrad 2: The Lost Station | 202106 | [202106-yupitergrad-2-the-lost-station.json](./202106-yupitergrad-2-the-lost-station.json) |
 | Yuppie Psycho | 26565 | [26565-yuppie-psycho.json](./26565-yuppie-psycho.json) |
+| Yuque | 166571 | [166571-yuque.json](./166571-yuque.json) |
 | Yura | 382326 | [382326-yura.json](./382326-yura.json) |
 | YuraYura!: Tidying up the Tilting Tower! | 180778 | [180778-yurayura-tidying-up-the-tilting-tower.json](./180778-yurayura-tidying-up-the-tilting-tower.json) |
 | Yurei | 274461 | [274461-yurei.json](./274461-yurei.json) |
