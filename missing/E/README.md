@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Surprise | 314432 | [314432-egg-surprise.json](./314432-egg-surprise.json) |
 | Egg Tales | 58749 | [58749-egg-tales.json](./58749-egg-tales.json) |
 | Egg Time | 31213 | [31213-egg-time.json](./31213-egg-time.json) |
+| Egg Up | 154588 | [154588-egg-up.json](./154588-egg-up.json) |
 | Egg War Puzzle | 257916 | [257916-egg-war-puzzle.json](./257916-egg-war-puzzle.json) |
 | Egg Yolk Life | 129715 | [129715-egg-yolk-life.json](./129715-egg-yolk-life.json) |
 | Eggbert's Bird Bath | 404391 | [404391-eggberts-bird-bath.json](./404391-eggberts-bird-bath.json) |
