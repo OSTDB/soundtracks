@@ -3711,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allura: Curse of the Mermaid | 148114 | [148114-allura-curse-of-the-mermaid.json](./148114-allura-curse-of-the-mermaid.json) |
 | Allura: The Three Realms | 148970 | [148970-allura-the-three-realms.json](./148970-allura-the-three-realms.json) |
 | Ally Gory: The Great Mushroom Hunt | 171998 | [171998-ally-gory-the-great-mushroom-hunt.json](./171998-ally-gory-the-great-mushroom-hunt.json) |
+| Ally Racer | 138542 | [138542-ally-racer.json](./138542-ally-racer.json) |
 | Alma | 80915 | [80915-alma.json](./80915-alma.json) |
 | Almanac: Detective Agency | 399143 | [399143-almanac-detective-agency.json](./399143-almanac-detective-agency.json) |
 | Almanaque Recreio | 227215 | [227215-almanaque-recreio.json](./227215-almanaque-recreio.json) |
@@ -6665,6 +6666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archer Master | 150744 | [150744-archer-master.json](./150744-archer-master.json) |
 | Archer of God | 237646 | [237646-archer-of-god.json](./237646-archer-of-god.json) |
 | Archer Pinball | 261802 | [261802-archer-pinball.json](./261802-archer-pinball.json) |
+| Archer: Danger Phone | 138558 | [138558-archer-danger-phone.json](./138558-archer-danger-phone.json) |
 | Archer: Sheshou | 246990 | [246990-archer-sheshou.json](./246990-archer-sheshou.json) |
 | Archer's Adventure | 165706 | [165706-archers-adventure.json](./165706-archers-adventure.json) |
 | ArcherCat | 200020 | [200020-archercat.json](./200020-archercat.json) |
