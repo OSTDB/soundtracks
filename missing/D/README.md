@@ -1660,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De Blob 2 | 4796 | [4796-de-blob-2.json](./4796-de-blob-2.json) |
 | De griezelbus 1 | 98943 | [98943-de-griezelbus-1.json](./98943-de-griezelbus-1.json) |
 | De griezelbus 2 | 78322 | [78322-de-griezelbus-2.json](./78322-de-griezelbus-2.json) |
+| De I Cide | 166589 | [166589-de-i-cide.json](./166589-de-i-cide.json) |
 | De Ontdekker en het mysterie van de Diamanten Scarabee | 268124 | [268124-de-ontdekker-en-het-mysterie-van-de-diamanten-scarabee.json](./268124-de-ontdekker-en-het-mysterie-van-de-diamanten-scarabee.json) |
 | De Tres al Cuarto | 227910 | [227910-de-tres-al-cuarto.json](./227910-de-tres-al-cuarto.json) |
 | Dé_Intricate | 310534 | [310534-de-intricate.json](./310534-de-intricate.json) |
@@ -6153,7 +6154,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki x Doki Sasete!! | 202815 | [202815-doki-x-doki-sasete.json](./202815-doki-x-doki-sasete.json) |
 | Doki-doki Cooking Series 2: Gourmet Kitchen - Suteki na Obentou | 138030 | [138030-doki-doki-cooking-series-2-gourmet-kitchen-suteki-na-obentou.json](./138030-doki-doki-cooking-series-2-gourmet-kitchen-suteki-na-obentou.json) |
 | Doki-doki Majo Shinpan 2 Duo | 21456 | [21456-doki-doki-majo-shinpan-2-duo.json](./21456-doki-doki-majo-shinpan-2-duo.json) |
+| Doki-doki on Air | 166576 | [166576-doki-doki-on-air.json](./166576-doki-doki-on-air.json) |
+| Doki-doki on Air 2 | 166577 | [166577-doki-doki-on-air-2.json](./166577-doki-doki-on-air-2.json) |
 | Doki-doki Penguin Land | 6096 | [6096-doki-doki-penguin-land.json](./6096-doki-doki-penguin-land.json) |
+| Doki-doki Pretty League Lovely Star | 166575 | [166575-doki-doki-pretty-league-lovely-star.json](./166575-doki-doki-pretty-league-lovely-star.json) |
 | Doki-Doki Pretty League: Nekketsu Otome Seishunki | 306674 | [306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json](./306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json) |
 | Doki-Doki Universe | 8684 | [8684-doki-doki-universe.json](./8684-doki-doki-universe.json) |
 | Doki: Chapter 0 | 304217 | [304217-doki-chapter-0.json](./304217-doki-chapter-0.json) |
@@ -8338,6 +8342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream? | 202246 | [202246-dream.json](./202246-dream.json) |
 | Dream.exe: A Markiplier Fan Game | 159180 | [159180-dream-exe-a-markiplier-fan-game.json](./159180-dream-exe-a-markiplier-fan-game.json) |
 | Dream's Deep | 256983 | [256983-dreams-deep.json](./256983-dreams-deep.json) |
+| DreaMarbleng | 166574 | [166574-dreamarbleng.json](./166574-dreamarbleng.json) |
 | DreamBig 3 | 368104 | [368104-dreambig-3.json](./368104-dreambig-3.json) |
 | Dreamblood | 280903 | [280903-dreamblood.json](./280903-dreamblood.json) |
 | Dreamboat | 295806 | [295806-dreamboat.json](./295806-dreamboat.json) |
