@@ -2610,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pesadelo: Regressão | 90611 | [90611-pesadelo-regressao.json](./90611-pesadelo-regressao.json) |
 | Peskit | 346189 | [346189-peskit.json](./346189-peskit.json) |
 | Pest Apocalypse | 297182 | [297182-pest-apocalypse.json](./297182-pest-apocalypse.json) |
+| Pest Control | 120123 | [120123-pest-control.json](./120123-pest-control.json) |
 | Pest Control in the Crypt | 410303 | [410303-pest-control-in-the-crypt.json](./410303-pest-control-in-the-crypt.json) |
 | Pest Patrol | 85815 | [85815-pest-patrol.json](./85815-pest-patrol.json) |
 | Pesten | 94531 | [94531-pesten.json](./94531-pesten.json) |
@@ -4017,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipler | 57701 | [57701-pipler.json](./57701-pipler.json) |
 | Pipo Park | 141225 | [141225-pipo-park.json](./141225-pipo-park.json) |
 | Pipoclub | 203254 | [203254-pipoclub.json](./203254-pipoclub.json) |
+| Piposh | 120136 | [120136-piposh.json](./120136-piposh.json) |
 | Piposh 3D: The Revolution | 66750 | [66750-piposh-3d-the-revolution.json](./66750-piposh-3d-the-revolution.json) |
 | Piposh in: A Dream Come True | 66751 | [66751-piposh-in-a-dream-come-true.json](./66751-piposh-in-a-dream-come-true.json) |
 | Pippa and Your Phantasmal Problem | 322567 | [322567-pippa-and-your-phantasmal-problem.json](./322567-pippa-and-your-phantasmal-problem.json) |
