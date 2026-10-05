@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far a Night | 389617 | [389617-far-a-night.json](./389617-far-a-night.json) |
 | Far Away Train | 150527 | [150527-far-away-train.json](./150527-far-away-train.json) |
 | Far Cry 2 | 317303 | [317303-far-cry-2.json](./317303-far-cry-2.json) |
+| Far Cry 3 + 4 Double Pack | 136783 | [136783-far-cry-3-4-double-pack.json](./136783-far-cry-3-4-double-pack.json) |
 | Far Cry 3: High Tides | 284318 | [284318-far-cry-3-high-tides.json](./284318-far-cry-3-high-tides.json) |
 | Far Cry 3: The Lost Expeditions Edition | 142159 | [142159-far-cry-3-the-lost-expeditions-edition.json](./142159-far-cry-3-the-lost-expeditions-edition.json) |
 | Far Cry 3: Wish You Were Here Edition | 51544 | [51544-far-cry-3-wish-you-were-here-edition.json](./51544-far-cry-3-wish-you-were-here-edition.json) |
@@ -1713,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Empire of Dirt: Made in Heaven | 382874 | [382874-fate-empire-of-dirt-made-in-heaven.json](./382874-fate-empire-of-dirt-made-in-heaven.json) |
 | Fate/Extella Link | 55137 | [55137-fate-extella-link.json](./55137-fate-extella-link.json) |
 | Fate/Extella Link: Digital Deluxe Edition | 119067 | [119067-fate-extella-link-digital-deluxe-edition.json](./119067-fate-extella-link-digital-deluxe-edition.json) |
+| Fate/Extella Link: Premium Edition | 136766 | [136766-fate-extella-link-premium-edition.json](./136766-fate-extella-link-premium-edition.json) |
 | Fate/Extella: Celebration Box | 140007 | [140007-fate-extella-celebration-box.json](./140007-fate-extella-celebration-box.json) |
 | Fate/Extella: Regalia Box | 212318 | [212318-fate-extella-regalia-box.json](./212318-fate-extella-regalia-box.json) |
 | Fate/Extra | 12382 | [12382-fate-extra.json](./12382-fate-extra.json) |
@@ -3156,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pro Wrestling World: Fighting Road - Champion Road Beyond | 170444 | [170444-fire-pro-wrestling-world-fighting-road-champion-road-beyond.json](./170444-fire-pro-wrestling-world-fighting-road-champion-road-beyond.json) |
 | Fire Pro Wrestling World: New Japan Pro-Wrestling 2018 Wrestler Pack | 170441 | [170441-fire-pro-wrestling-world-new-japan-pro-wrestling-2018-wrestler-pack.json](./170441-fire-pro-wrestling-world-new-japan-pro-wrestling-2018-wrestler-pack.json) |
 | Fire Pro Wrestling World: New Japan Pro-Wrestling Collaboration | 170448 | [170448-fire-pro-wrestling-world-new-japan-pro-wrestling-collaboration.json](./170448-fire-pro-wrestling-world-new-japan-pro-wrestling-collaboration.json) |
+| Fire Pro Wrestling World: Premium Edition | 136824 | [136824-fire-pro-wrestling-world-premium-edition.json](./136824-fire-pro-wrestling-world-premium-edition.json) |
 | Fire Pro Wrestling World: World Wonder Ring Stardom Collaboration | 170442 | [170442-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration.json](./170442-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration.json) |
 | Fire Pro Wrestling World: World Wonder Ring Stardom Collaboration Part 2 | 170446 | [170446-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration-part-2.json](./170446-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration-part-2.json) |
 | Fire Pro Wrestling World: Yoshihiro Takayama Charity DLC Part 2 | 170443 | [170443-fire-pro-wrestling-world-yoshihiro-takayama-charity-dlc-part-2.json](./170443-fire-pro-wrestling-world-yoshihiro-takayama-charity-dlc-part-2.json) |
