@@ -2386,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Bowling | 48306 | [48306-perfect-bowling.json](./48306-perfect-bowling.json) |
 | Perfect Boyfriend | 207322 | [207322-perfect-boyfriend.json](./207322-perfect-boyfriend.json) |
 | Perfect Castle | 286052 | [286052-perfect-castle.json](./286052-perfect-castle.json) |
+| Perfect Cell | 137412 | [137412-perfect-cell.json](./137412-perfect-cell.json) |
 | Perfect Cells Project | 278388 | [278388-perfect-cells-project.json](./278388-perfect-cells-project.json) |
 | Perfect Choro Q | 63794 | [63794-perfect-choro-q.json](./63794-perfect-choro-q.json) |
 | Perfect Circle: Stand Alone | 346650 | [346650-perfect-circle-stand-alone.json](./346650-perfect-circle-stand-alone.json) |
@@ -2792,6 +2793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour Golf | 245425 | [245425-pga-tour-golf.json](./245425-pga-tour-golf.json) |
 | PGA Tour Golf 486 | 94530 | [94530-pga-tour-golf-486.json](./94530-pga-tour-golf-486.json) |
 | PGA Tour Golf II | 368635 | [368635-pga-tour-golf-ii.json](./368635-pga-tour-golf-ii.json) |
+| PGA Tour Golf Shootout | 137414 | [137414-pga-tour-golf-shootout.json](./137414-pga-tour-golf-shootout.json) |
 | PGA Tour Golf: The Monterey Courses | 206170 | [206170-pga-tour-golf-the-monterey-courses.json](./206170-pga-tour-golf-the-monterey-courses.json) |
 | PGA Tour Pro: Classic Courses Volume 1 | 209980 | [209980-pga-tour-pro-classic-courses-volume-1.json](./209980-pga-tour-pro-classic-courses-volume-1.json) |
 | Ph0b0s | 207521 | [207521-ph0b0s.json](./207521-ph0b0s.json) |
@@ -6998,6 +7000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PostScriptum | 360043 | [360043-postscriptum.json](./360043-postscriptum.json) |
 | PostZ: Zombies VR | 172148 | [172148-postz-zombies-vr.json](./172148-postz-zombies-vr.json) |
 | Pot Breaker | 223444 | [223444-pot-breaker.json](./223444-pot-breaker.json) |
+| Pot Farm | 137394 | [137394-pot-farm.json](./137394-pot-farm.json) |
 | Pot Farm - Grass Roots | 39215 | [39215-pot-farm-grass-roots.json](./39215-pot-farm-grass-roots.json) |
 | Pot Farmer | 235972 | [235972-pot-farmer.json](./235972-pot-farmer.json) |
 | Pot Man | 241452 | [241452-pot-man.json](./241452-pot-man.json) |
