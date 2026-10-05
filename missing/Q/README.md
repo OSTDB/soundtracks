@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quánmín Wángzhě | 82037 | [82037-quanmin-wangzhe.json](./82037-quanmin-wangzhe.json) |
 | Quant | 172553 | [172553-quant.json](./172553-quant.json) |
 | Quantaar | 159884 | [159884-quantaar.json](./159884-quantaar.json) |
+| Quantic Dream Collection | 136184 | [136184-quantic-dream-collection.json](./136184-quantic-dream-collection.json) |
 | Quantized | 37311 | [37311-quantized.json](./37311-quantized.json) |
 | Quantum | 19374 | [19374-quantum.json](./19374-quantum.json) |
 | Quantum Apex | 195151 | [195151-quantum-apex.json](./195151-quantum-apex.json) |
