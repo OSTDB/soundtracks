@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko-sama to Outlaws | 222371 | [222371-neko-sama-to-outlaws.json](./222371-neko-sama-to-outlaws.json) |
 | Neko: The Black Cat | 176245 | [176245-neko-the-black-cat.json](./176245-neko-the-black-cat.json) |
 | Neko's Rage | 251840 | [251840-nekos-rage.json](./251840-nekos-rage.json) |
+| Nekoba RocknRoll | 152502 | [152502-nekoba-rocknroll.json](./152502-nekoba-rocknroll.json) |
 | Nekobabaa: Melonbooks Omake Tokubetsu-hen | 212253 | [212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json](./212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json) |
 | NekoBooM! | 102334 | [102334-nekoboom.json](./102334-nekoboom.json) |
 | NekoBop | 234125 | [234125-nekobop.json](./234125-nekobop.json) |
