@@ -1180,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid-san Crisis: The Elegant Region Power | 210562 | [210562-maid-san-crisis-the-elegant-region-power.json](./210562-maid-san-crisis-the-elegant-region-power.json) |
 | Maid-san Slayer: The Soul Of Elegant Skill | 210584 | [210584-maid-san-slayer-the-soul-of-elegant-skill.json](./210584-maid-san-slayer-the-soul-of-elegant-skill.json) |
 | Maid-san wo Migi ni Mi | 111051 | [111051-maid-san-wo-migi-ni-mi.json](./111051-maid-san-wo-migi-ni-mi.json) |
+| Maiden | 142743 | [142743-maiden.json](./142743-maiden.json) |
 | Maiden Cops | 209681 | [209681-maiden-cops.json](./209681-maiden-cops.json) |
 | Maiden Maze | 147376 | [147376-maiden-maze.json](./147376-maiden-maze.json) |
 | Maiden Voyage | 299770 | [299770-maiden-voyage.json](./299770-maiden-voyage.json) |
@@ -3893,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval: Total War - Gold Edition | 35894 | [35894-medieval-total-war-gold-edition.json](./35894-medieval-total-war-gold-edition.json) |
 | Medieval: Total War - Viking Invasion | 444 | [444-medieval-total-war-viking-invasion.json](./444-medieval-total-war-viking-invasion.json) |
 | Medievalfield | 200695 | [200695-medievalfield.json](./200695-medievalfield.json) |
+| Medievalien | 142731 | [142731-medievalien.json](./142731-medievalien.json) |
 | MediEvil | 299389 | [299389-medievil.json](./299389-medievil.json) |
 | MediEvil II | 329195 | [329195-medievil-ii.json](./329195-medievil-ii.json) |
 | MediEvil II | 4002 | [4002-medievil-ii.json](./4002-medievil-ii.json) |
