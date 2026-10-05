@@ -2063,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Door Ylw Door | 308556 | [308556-red-door-ylw-door.json](./308556-red-door-ylw-door.json) |
 | Red Dreams | 418538 | [418538-red-dreams.json](./418538-red-dreams.json) |
 | Red Dungeon | 184902 | [184902-red-dungeon.json](./184902-red-dungeon.json) |
+| Red Dust | 148674 | [148674-red-dust.json](./148674-red-dust.json) |
 | Red Echo | 270941 | [270941-red-echo.json](./270941-red-echo.json) |
 | Red Egg: High Protein Gluten Free Adventure | 256353 | [256353-red-egg-high-protein-gluten-free-adventure.json](./256353-red-egg-high-protein-gluten-free-adventure.json) |
 | Red Embrace | 86440 | [86440-red-embrace.json](./86440-red-embrace.json) |
@@ -3170,6 +3171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resynth | 107388 | [107388-resynth.json](./107388-resynth.json) |
 | Retail Rivals | 402476 | [402476-retail-rivals.json](./402476-retail-rivals.json) |
 | Retail Royale | 151096 | [151096-retail-royale.json](./151096-retail-royale.json) |
+| Retailer Tycoon | 148672 | [148672-retailer-tycoon.json](./148672-retailer-tycoon.json) |
 | Retale | 307749 | [307749-retale.json](./307749-retale.json) |
 | Retaliate | 300810 | [300810-retaliate.json](./300810-retaliate.json) |
 | reTension | 92085 | [92085-retension.json](./92085-retension.json) |
@@ -5517,6 +5519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rojiura Glory Hole | 193264 | [193264-rojiura-glory-hole.json](./193264-rojiura-glory-hole.json) |
 | Rojiura Satsuki: Chapter Heroine Sanctuary | 225654 | [225654-rojiura-satsuki-chapter-heroine-sanctuary.json](./225654-rojiura-satsuki-chapter-heroine-sanctuary.json) |
 | Roka Blocks Game - Fun & Hexagon Puzzle | 57690 | [57690-roka-blocks-game-fun-and-hexagon-puzzle.json](./57690-roka-blocks-game-fun-and-hexagon-puzzle.json) |
+| Roketz | 148717 | [148717-roketz.json](./148717-roketz.json) |
 | Rokka | 157492 | [157492-rokka.json](./157492-rokka.json) |
 | Rokko Chan | 93510 | [93510-rokko-chan.json](./93510-rokko-chan.json) |
 | Roko-Loko no Castelo do Ratozinger Remix | 78042 | [78042-roko-loko-no-castelo-do-ratozinger-remix.json](./78042-roko-loko-no-castelo-do-ratozinger-remix.json) |
@@ -5627,6 +5630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Car | 156215 | [156215-rolling-car.json](./156215-rolling-car.json) |
 | Rolling Car: Deluxe Edition | 204300 | [204300-rolling-car-deluxe-edition.json](./204300-rolling-car-deluxe-edition.json) |
 | Rolling Crash | 277500 | [277500-rolling-crash.json](./277500-rolling-crash.json) |
+| Rolling Cube | 148691 | [148691-rolling-cube.json](./148691-rolling-cube.json) |
 | Rolling Cube | 246364 | [246364-rolling-cube.json](./246364-rolling-cube.json) |
 | Rolling Cube | 358942 | [358942-rolling-cube.json](./358942-rolling-cube.json) |
 | Rolling Down Bottles | 262341 | [262341-rolling-down-bottles.json](./262341-rolling-down-bottles.json) |
