@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman: The Realm of Souls | 149012 | [149012-talisman-the-realm-of-souls.json](./149012-talisman-the-realm-of-souls.json) |
 | Talisman: The Woodland | 149081 | [149081-talisman-the-woodland.json](./149081-talisman-the-woodland.json) |
 | Talismania Deluxe | 27814 | [27814-talismania-deluxe.json](./27814-talismania-deluxe.json) |
+| Talk it Out | 123458 | [123458-talk-it-out.json](./123458-talk-it-out.json) |
 | Talk To Me | 134586 | [134586-talk-to-me.json](./134586-talk-to-me.json) |
 | Talk to Strangers | 252403 | [252403-talk-to-strangers.json](./252403-talk-to-strangers.json) |
 | Talk to Yuno | 111005 | [111005-talk-to-yuno.json](./111005-talk-to-yuno.json) |
@@ -4460,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark West | 336522 | [336522-the-dark-west.json](./336522-the-dark-west.json) |
 | The Dark Whispers | 270877 | [270877-the-dark-whispers.json](./270877-the-dark-whispers.json) |
 | The Dark Wings 2 | 120345 | [120345-the-dark-wings-2.json](./120345-the-dark-wings-2.json) |
+| The Dark Wish | 123470 | [123470-the-dark-wish.json](./123470-the-dark-wish.json) |
 | The Dark World | 221234 | [221234-the-dark-world.json](./221234-the-dark-world.json) |
 | The Darked | 142227 | [142227-the-darked.json](./142227-the-darked.json) |
 | The Darkened Halls | 275701 | [275701-the-darkened-halls.json](./275701-the-darkened-halls.json) |
@@ -7407,6 +7409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic School Bus Explores the Solar System | 67659 | [67659-the-magic-school-bus-explores-the-solar-system.json](./67659-the-magic-school-bus-explores-the-solar-system.json) |
 | The Magic School Bus: Dino Shuffle | 230388 | [230388-the-magic-school-bus-dino-shuffle.json](./230388-the-magic-school-bus-dino-shuffle.json) |
 | The Magic School Bus: Dinosaurs | 230387 | [230387-the-magic-school-bus-dinosaurs.json](./230387-the-magic-school-bus-dinosaurs.json) |
+| The Magic School Bus: Oceans | 123459 | [123459-the-magic-school-bus-oceans.json](./123459-the-magic-school-bus-oceans.json) |
 | The Magic World | 367609 | [367609-the-magic-world.json](./367609-the-magic-world.json) |
 | The Magic World 2: Curse of the Ancients | 289985 | [289985-the-magic-world-2-curse-of-the-ancients.json](./289985-the-magic-world-2-curse-of-the-ancients.json) |
 | The Magical Girl Childhood Friend Lives Next Door | 411779 | [411779-the-magical-girl-childhood-friend-lives-next-door.json](./411779-the-magical-girl-childhood-friend-lives-next-door.json) |
@@ -16649,6 +16652,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Drop: Complete Edition | 385211 | [385211-treasure-drop-complete-edition.json](./385211-treasure-drop-complete-edition.json) |
 | Treasure Forest Clicker | 350494 | [350494-treasure-forest-clicker.json](./350494-treasure-forest-clicker.json) |
 | Treasure Galaxy! | 142146 | [142146-treasure-galaxy.json](./142146-treasure-galaxy.json) |
+| Treasure Gaust: Gaust Diver - Crimson Red | 123462 | [123462-treasure-gaust-gaust-diver-crimson-red.json](./123462-treasure-gaust-gaust-diver-crimson-red.json) |
+| Treasure Gaust: Gaust Diver - Deep Purple | 123461 | [123461-treasure-gaust-gaust-diver-deep-purple.json](./123461-treasure-gaust-gaust-diver-deep-purple.json) |
 | Treasure Gear | 130357 | [130357-treasure-gear.json](./130357-treasure-gear.json) |
 | Treasure Girl 3D 2 | 196099 | [196099-treasure-girl-3d-2.json](./196099-treasure-girl-3d-2.json) |
 | Treasure Guardian: Collector Shift Defender's Saga | 301536 | [301536-treasure-guardian-collector-shift-defenders-saga.json](./301536-treasure-guardian-collector-shift-defenders-saga.json) |
