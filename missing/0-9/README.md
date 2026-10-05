@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 Floors of Madness | 308952 | [308952-30-floors-of-madness.json](./308952-30-floors-of-madness.json) |
 | 30 in 1 Family Games Mega Collection | 391259 | [391259-30-in-1-family-games-mega-collection.json](./391259-30-in-1-family-games-mega-collection.json) |
 | 30 Seconds to Jail | 97110 | [97110-30-seconds-to-jail.json](./97110-30-seconds-to-jail.json) |
+| 30-in-1 Game Collection: Volume 2 | 119514 | [119514-30-in-1-game-collection-volume-2.json](./119514-30-in-1-game-collection-volume-2.json) |
 | 30,000 Games | 97119 | [97119-30-000-games.json](./97119-30-000-games.json) |
 | 300 Dwarves | 52354 | [52354-300-dwarves.json](./52354-300-dwarves.json) |
 | 300 Heroes | 75139 | [75139-300-heroes.json](./75139-300-heroes.json) |
