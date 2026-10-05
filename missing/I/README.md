@@ -2971,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Investigator and the Case of the Unconventional Weapon | 179660 | [179660-investigator-and-the-case-of-the-unconventional-weapon.json](./179660-investigator-and-the-case-of-the-unconventional-weapon.json) |
 | Investment Run | 319166 | [319166-investment-run.json](./319166-investment-run.json) |
 | Investour | 367050 | [367050-investour.json](./367050-investour.json) |
+| Invincible Cleopatra: Caesar's Dreams | 164946 | [164946-invincible-cleopatra-caesars-dreams.json](./164946-invincible-cleopatra-caesars-dreams.json) |
 | Invincible Fighter | 193965 | [193965-invincible-fighter.json](./193965-invincible-fighter.json) |
 | Invincible Fins | 157162 | [157162-invincible-fins.json](./157162-invincible-fins.json) |
 | Invincible Iron Man Gagaga-In | 234088 | [234088-invincible-iron-man-gagaga-in.json](./234088-invincible-iron-man-gagaga-in.json) |
