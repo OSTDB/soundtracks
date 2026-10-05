@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lanternium | 51447 | [51447-lanternium.json](./51447-lanternium.json) |
 | Lanterns | 89967 | [89967-lanterns.json](./89967-lanterns.json) |
 | Lanternwood | 375827 | [375827-lanternwood.json](./375827-lanternwood.json) |
+| LanthernStudio Paint | 131333 | [131333-lanthernstudio-paint.json](./131333-lanthernstudio-paint.json) |
 | Lap of the Gods | 30210 | [30210-lap-of-the-gods.json](./30210-lap-of-the-gods.json) |
 | Lapin | 161220 | [161220-lapin.json](./161220-lapin.json) |
 | Lapis Lazuli | 307049 | [307049-lapis-lazuli.json](./307049-lapis-lazuli.json) |
@@ -2299,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liàn yǔ wèi xiē zhī yǔ | 367448 | [367448-lian-yu-wei-xie-zhi-yu.json](./367448-lian-yu-wei-xie-zhi-yu.json) |
 | Lianhai Billiards Club | 216785 | [216785-lianhai-billiards-club.json](./216785-lianhai-billiards-club.json) |
 | Liar Game | 334328 | [334328-liar-game.json](./334328-liar-game.json) |
+| Liar Jeannie in Crucifix Kingdom | 131339 | [131339-liar-jeannie-in-crucifix-kingdom.json](./131339-liar-jeannie-in-crucifix-kingdom.json) |
 | Liar Liar | 124675 | [124675-liar-liar.json](./124675-liar-liar.json) |
 | Liar Liar 2 | 124677 | [124677-liar-liar-2.json](./124677-liar-liar-2.json) |
 | Liar Liar 2 | 303246 | [303246-liar-liar-2.json](./303246-liar-liar-2.json) |
@@ -2627,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light'em Up: For brainiacs only | 232495 | [232495-lightem-up-for-brainiacs-only.json](./232495-lightem-up-for-brainiacs-only.json) |
 | Light's End | 294179 | [294179-lights-end.json](./294179-lights-end.json) |
 | Light2Live | 153860 | [153860-light2live.json](./153860-light2live.json) |
+| Lightale | 131328 | [131328-lightale.json](./131328-lightale.json) |
 | Lightballs | 245833 | [245833-lightballs.json](./245833-lightballs.json) |
 | LightBear | 268994 | [268994-lightbear.json](./268994-lightbear.json) |
 | LightBear: Grizzelda Returns | 289008 | [289008-lightbear-grizzelda-returns.json](./289008-lightbear-grizzelda-returns.json) |
@@ -4656,6 +4659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love 3 | 161222 | [161222-love-3.json](./161222-love-3.json) |
 | Love 3: Love Cube | 117876 | [117876-love-3-love-cube.json](./117876-love-3-love-cube.json) |
 | Love Accident | 186829 | [186829-love-accident.json](./186829-love-accident.json) |
+| Love Across Izumi | 131327 | [131327-love-across-izumi.json](./131327-love-across-izumi.json) |
 | Love Affairs | 303785 | [303785-love-affairs.json](./303785-love-affairs.json) |
 | Love All My Girls | 406866 | [406866-love-all-my-girls.json](./406866-love-all-my-girls.json) |
 | Love Alt Delete | 419911 | [419911-love-alt-delete.json](./419911-love-alt-delete.json) |
