@@ -8668,6 +8668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Pineview Forest | 33267 | [33267-the-secret-of-pineview-forest.json](./33267-the-secret-of-pineview-forest.json) |
 | The Secret of Porta Piratica | 255863 | [255863-the-secret-of-porta-piratica.json](./255863-the-secret-of-porta-piratica.json) |
 | The Secret of Raven Rock | 89708 | [89708-the-secret-of-raven-rock.json](./89708-the-secret-of-raven-rock.json) |
+| The Secret of Retropolis | 159767 | [159767-the-secret-of-retropolis.json](./159767-the-secret-of-retropolis.json) |
 | The Secret of Rooms | 207518 | [207518-the-secret-of-rooms.json](./207518-the-secret-of-rooms.json) |
 | The Secret of St. Brides | 12965 | [12965-the-secret-of-st-brides.json](./12965-the-secret-of-st-brides.json) |
 | The Secret of the Four Winds | 388965 | [388965-the-secret-of-the-four-winds.json](./388965-the-secret-of-the-four-winds.json) |
@@ -14592,6 +14593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tournament Chess II | 206081 | [206081-tournament-chess-ii.json](./206081-tournament-chess-ii.json) |
 | Tournament of Armistice: Preliminaries | 163853 | [163853-tournament-of-armistice-preliminaries.json](./163853-tournament-of-armistice-preliminaries.json) |
 | Tournament of Tamers | 157168 | [157168-tournament-of-tamers.json](./157168-tournament-of-tamers.json) |
+| Tournament Paintball VR | 159766 | [159766-tournament-paintball-vr.json](./159766-tournament-paintball-vr.json) |
 | Tournament Pool | 396580 | [396580-tournament-pool.json](./396580-tournament-pool.json) |
 | Tournament Pool | 51162 | [51162-tournament-pool.json](./51162-tournament-pool.json) |
 | Tournament Tennis | 40904 | [40904-tournament-tennis.json](./40904-tournament-tennis.json) |
