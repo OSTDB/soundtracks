@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand Castles | 161387 | [161387-sand-castles.json](./161387-sand-castles.json) |
 | Sand In a Box | 306434 | [306434-sand-in-a-box.json](./306434-sand-in-a-box.json) |
 | Sand Legends | 335078 | [335078-sand-legends.json](./335078-sand-legends.json) |
+| Sand Painting Game | 140301 | [140301-sand-painting-game.json](./140301-sand-painting-game.json) |
 | Sand Pirates | 181129 | [181129-sand-pirates.json](./181129-sand-pirates.json) |
 | Sand Saga | 322648 | [322648-sand-saga.json](./322648-sand-saga.json) |
 | Sand Scorpion | 40184 | [40184-sand-scorpion.json](./40184-sand-scorpion.json) |
@@ -5759,6 +5760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverwood Bay: An Eleanor Grey Mystery | 291246 | [291246-silverwood-bay-an-eleanor-grey-mystery.json](./291246-silverwood-bay-an-eleanor-grey-mystery.json) |
 | Silverworld | 98770 | [98770-silverworld.json](./98770-silverworld.json) |
 | Silverybield Foss | 138778 | [138778-silverybield-foss.json](./138778-silverybield-foss.json) |
+| SIM Dispatcher | 140311 | [140311-sim-dispatcher.json](./140311-sim-dispatcher.json) |
 | Sim Empire | 116820 | [116820-sim-empire.json](./116820-sim-empire.json) |
 | Sim Junta | 34748 | [34748-sim-junta.json](./34748-sim-junta.json) |
 | Sim Sports Raid | 384213 | [384213-sim-sports-raid.json](./384213-sim-sports-raid.json) |
@@ -9113,6 +9115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs for a Hero 2: March of Malachi | 219497 | [219497-songs-for-a-hero-2-march-of-malachi.json](./219497-songs-for-a-hero-2-march-of-malachi.json) |
 | Songs for a Hero: Definitive Edition | 154980 | [154980-songs-for-a-hero-definitive-edition.json](./154980-songs-for-a-hero-definitive-edition.json) |
 | Songs from the Iron Sea | 216893 | [216893-songs-from-the-iron-sea.json](./216893-songs-from-the-iron-sea.json) |
+| Songs of Araiah | 140315 | [140315-songs-of-araiah.json](./140315-songs-of-araiah.json) |
 | Songs of Conquest | 119346 | [119346-songs-of-conquest.json](./119346-songs-of-conquest.json) |
 | Songs of Conquest: Rise Eternal | 302920 | [302920-songs-of-conquest-rise-eternal.json](./302920-songs-of-conquest-rise-eternal.json) |
 | Songs of Conquest: Roots | 366851 | [366851-songs-of-conquest-roots.json](./366851-songs-of-conquest-roots.json) |
@@ -12080,6 +12083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Shopping Tour! | 301966 | [301966-spooky-shopping-tour.json](./301966-spooky-shopping-tour.json) |
 | Spooky Solitaire: Halloween | 386149 | [386149-spooky-solitaire-halloween.json](./386149-spooky-solitaire-halloween.json) |
 | Spooky Speedrun | 157048 | [157048-spooky-speedrun.json](./157048-spooky-speedrun.json) |
+| Spooky Spins Deluxe | 140310 | [140310-spooky-spins-deluxe.json](./140310-spooky-spins-deluxe.json) |
 | Spooky Spins Returns: Crazy Cash Edition - Slots | 276172 | [276172-spooky-spins-returns-crazy-cash-edition-slots.json](./276172-spooky-spins-returns-crazy-cash-edition-slots.json) |
 | Spooky Squad! | 318565 | [318565-spooky-squad.json](./318565-spooky-squad.json) |
 | Spooky Story | 188472 | [188472-spooky-story.json](./188472-spooky-story.json) |
@@ -15551,6 +15555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subject:Love | 305850 | [305850-subject-love.json](./305850-subject-love.json) |
 | Subjectivation | 341910 | [341910-subjectivation.json](./341910-subjectivation.json) |
 | Sublight | 377057 | [377057-sublight.json](./377057-sublight.json) |
+| Subliminal Realms: The Masterpiece | 140290 | [140290-subliminal-realms-the-masterpiece.json](./140290-subliminal-realms-the-masterpiece.json) |
 | Subliminal Region | 168132 | [168132-subliminal-region.json](./168132-subliminal-region.json) |
 | Sublimity | 292528 | [292528-sublimity.json](./292528-sublimity.json) |
 | Subluminal | 189942 | [189942-subluminal.json](./189942-subluminal.json) |
