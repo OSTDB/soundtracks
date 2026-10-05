@@ -3308,6 +3308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beluga: Kamikaze Aircraft Carrier | 237512 | [237512-beluga-kamikaze-aircraft-carrier.json](./237512-beluga-kamikaze-aircraft-carrier.json) |
 | Belzerion | 122881 | [122881-belzerion.json](./122881-belzerion.json) |
 | Bem Feito | 275677 | [275677-bem-feito.json](./275677-bem-feito.json) |
+| Bem Feito: Legacy Edition | 140328 | [140328-bem-feito-legacy-edition.json](./140328-bem-feito-legacy-edition.json) |
 | Bemuddled | 101378 | [101378-bemuddled.json](./101378-bemuddled.json) |
 | Bemuzed | 135908 | [135908-bemuzed.json](./135908-bemuzed.json) |
 | Ben 10 | 247451 | [247451-ben-10.json](./247451-ben-10.json) |
@@ -4619,6 +4620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biters | 231492 | [231492-biters.json](./231492-biters.json) |
 | Biters & Bullets | 203908 | [203908-biters-and-bullets.json](./203908-biters-and-bullets.json) |
 | Bitesize Heroes: Forest Defender | 294303 | [294303-bitesize-heroes-forest-defender.json](./294303-bitesize-heroes-forest-defender.json) |
+| BiteVille | 140322 | [140322-biteville.json](./140322-biteville.json) |
 | Bitfighter | 47275 | [47275-bitfighter.json](./47275-bitfighter.json) |
 | Bitgram | 55157 | [55157-bitgram.json](./55157-bitgram.json) |
 | Bitgun | 163870 | [163870-bitgun.json](./163870-bitgun.json) |
@@ -8283,6 +8285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge to Another World: Gulliver Syndrome | 188031 | [188031-bridge-to-another-world-gulliver-syndrome.json](./188031-bridge-to-another-world-gulliver-syndrome.json) |
 | Bridge to Another World: Gulliver Syndrome - Collector's Edition | 397102 | [397102-bridge-to-another-world-gulliver-syndrome-collectors-edition.json](./397102-bridge-to-another-world-gulliver-syndrome-collectors-edition.json) |
 | Bridge to Another World: Secrets of the Nutcracker | 236819 | [236819-bridge-to-another-world-secrets-of-the-nutcracker.json](./236819-bridge-to-another-world-secrets-of-the-nutcracker.json) |
+| Bridge to Another World: The Others | 140289 | [140289-bridge-to-another-world-the-others.json](./140289-bridge-to-another-world-the-others.json) |
 | Bridge to Another World: Through the Looking Glass - Collector's Edition | 397098 | [397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json](./397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json) |
 | Bridge-It | 12983 | [12983-bridge-it.json](./12983-bridge-it.json) |
 | Bridge! | 36304 | [36304-bridge.json](./36304-bridge.json) |
