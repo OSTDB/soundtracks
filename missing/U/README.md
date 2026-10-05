@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO Ride | 294725 | [294725-ufo-ride.json](./294725-ufo-ride.json) |
 | UFO Sightings Simulator | 282255 | [282255-ufo-sightings-simulator.json](./282255-ufo-sightings-simulator.json) |
 | UFO Slide Racing | 265744 | [265744-ufo-slide-racing.json](./265744-ufo-slide-racing.json) |
+| UFO vs. Bikini | 152501 | [152501-ufo-vs-bikini.json](./152501-ufo-vs-bikini.json) |
 | UFO-Man | 320962 | [320962-ufo-man.json](./320962-ufo-man.json) |
 | UFO: A Day in the Life | 44742 | [44742-ufo-a-day-in-the-life.json](./44742-ufo-a-day-in-the-life.json) |
 | UFO: Aftershock | 9853 | [9853-ufo-aftershock.json](./9853-ufo-aftershock.json) |
@@ -956,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercover: Blood Bonds | 225303 | [225303-undercover-blood-bonds.json](./225303-undercover-blood-bonds.json) |
 | Undercover: Dual Motives | 66379 | [66379-undercover-dual-motives.json](./66379-undercover-dual-motives.json) |
 | Undercover: Operation Wintersun | 68962 | [68962-undercover-operation-wintersun.json](./68962-undercover-operation-wintersun.json) |
+| UndercoverAgent | 152487 | [152487-undercoveragent.json](./152487-undercoveragent.json) |
 | UndercoVR | 182835 | [182835-undercovr.json](./182835-undercovr.json) |
 | Undercraft | 331345 | [331345-undercraft.json](./331345-undercraft.json) |
 | Undercreator | 329717 | [329717-undercreator.json](./329717-undercreator.json) |
