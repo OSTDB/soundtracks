@@ -1897,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Federation | 257004 | [257004-federation.json](./257004-federation.json) |
 | Federation 2: Community Edition | 229756 | [229756-federation-2-community-edition.json](./229756-federation-2-community-edition.json) |
 | Federation Quest 1: BSS Jane Seymour | 65210 | [65210-federation-quest-1-bss-jane-seymour.json](./65210-federation-quest-1-bss-jane-seymour.json) |
+| Federation77 | 149231 | [149231-federation77.json](./149231-federation77.json) |
 | Fedora Spade: Prologue | 57678 | [57678-fedora-spade-prologue.json](./57678-fedora-spade-prologue.json) |
 | Fee Payment & Cigarettes | 406282 | [406282-fee-payment-and-cigarettes.json](./406282-fee-payment-and-cigarettes.json) |
 | Feeble Force | 105545 | [105545-feeble-force.json](./105545-feeble-force.json) |
