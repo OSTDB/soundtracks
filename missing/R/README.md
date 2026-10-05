@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racoonfeast | 326971 | [326971-racoonfeast.json](./326971-racoonfeast.json) |
 | Racquet Sports | 51060 | [51060-racquet-sports.json](./51060-racquet-sports.json) |
 | Rad Blaster | 130883 | [130883-rad-blaster.json](./130883-rad-blaster.json) |
+| Rad Dude | 167668 | [167668-rad-dude.json](./167668-rad-dude.json) |
 | Rad Mobile | 39570 | [39570-rad-mobile.json](./39570-rad-mobile.json) |
 | Rad Racer II | 48091 | [48091-rad-racer-ii.json](./48091-rad-racer-ii.json) |
 | Rad Racket: Deluxe Tennis II | 48212 | [48212-rad-racket-deluxe-tennis-ii.json](./48212-rad-racket-deluxe-tennis-ii.json) |
