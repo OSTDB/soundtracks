@@ -2312,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Crown: Era of Human | 171920 | [171920-death-crown-era-of-human.json](./171920-death-crown-era-of-human.json) |
 | Death Cube | 199096 | [199096-death-cube.json](./199096-death-cube.json) |
 | Death Damnation | 192253 | [192253-death-damnation.json](./192253-death-damnation.json) |
+| Death Dealers | 137403 | [137403-death-dealers.json](./137403-death-dealers.json) |
 | Death Delivery | 371237 | [371237-death-delivery.json](./371237-death-delivery.json) |
 | Death Dojo | 30913 | [30913-death-dojo.json](./30913-death-dojo.json) |
 | Death Drive | 197775 | [197775-death-drive.json](./197775-death-drive.json) |
@@ -4557,6 +4558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die for Valhalla! | 40868 | [40868-die-for-valhalla.json](./40868-die-for-valhalla.json) |
 | Die for Valhalla!: Special Edition | 122357 | [122357-die-for-valhalla-special-edition.json](./122357-die-for-valhalla-special-edition.json) |
 | Die Fugger | 86040 | [86040-die-fugger.json](./86040-die-fugger.json) |
+| Die Gekirin | 137419 | [137419-die-gekirin.json](./137419-die-gekirin.json) |
 | Die Gekirin & Die Dekirin II Pack | 137457 | [137457-die-gekirin-and-die-dekirin-ii-pack.json](./137457-die-gekirin-and-die-dekirin-ii-pack.json) |
 | Die Gekirin II | 137463 | [137463-die-gekirin-ii.json](./137463-die-gekirin-ii.json) |
 | Die Gekirin III | 137458 | [137458-die-gekirin-iii.json](./137458-die-gekirin-iii.json) |
@@ -9296,6 +9298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel School Infinite | 210524 | [210524-duel-school-infinite.json](./210524-duel-school-infinite.json) |
 | Duel Toys 2 | 222860 | [222860-duel-toys-2.json](./222860-duel-toys-2.json) |
 | Duel VR | 29083 | [29083-duel-vr.json](./29083-duel-vr.json) |
+| Duel! | 137429 | [137429-duel.json](./137429-duel.json) |
 | Duelant | 311456 | [311456-duelant.json](./311456-duelant.json) |
 | Dueledged | 200013 | [200013-dueledged.json](./200013-dueledged.json) |
 | Dueling Dragons | 183566 | [183566-dueling-dragons.json](./183566-dueling-dragons.json) |
