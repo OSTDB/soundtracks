@@ -3123,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restless Soul | 192398 | [192398-restless-soul.json](./192398-restless-soul.json) |
 | Restless Voronezh | 267058 | [267058-restless-voronezh.json](./267058-restless-voronezh.json) |
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
+| Restoration Master | 158095 | [158095-restoration-master.json](./158095-restoration-master.json) |
 | Restore | 305314 | [305314-restore.json](./305314-restore.json) |
 | Restore | 397658 | [397658-restore.json](./397658-restore.json) |
 | Restore the Luminous | 413935 | [413935-restore-the-luminous.json](./413935-restore-the-luminous.json) |
@@ -4717,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Runner | 186157 | [186157-robo-runner.json](./186157-robo-runner.json) |
 | Robo Runners | 107377 | [107377-robo-runners.json](./107377-robo-runners.json) |
 | Robo Rush | 273430 | [273430-robo-rush.json](./273430-robo-rush.json) |
+| Robo Terror | 158116 | [158116-robo-terror.json](./158116-robo-terror.json) |
 | Robo Wars | 196316 | [196316-robo-wars.json](./196316-robo-wars.json) |
 | Robo Wrestle 2001 | 40422 | [40422-robo-wrestle-2001.json](./40422-robo-wrestle-2001.json) |
 | Robo-Key | 181803 | [181803-robo-key.json](./181803-robo-key.json) |
@@ -6553,6 +6555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Pharaoh Run! | 181329 | [181329-run-pharaoh-run.json](./181329-run-pharaoh-run.json) |
 | Run Pizza Run | 275705 | [275705-run-pizza-run.json](./275705-run-pizza-run.json) |
 | Run Pizza Run 2 | 332988 | [332988-run-pizza-run-2.json](./332988-run-pizza-run-2.json) |
+| Run Ralph Run | 158112 | [158112-run-ralph-run.json](./158112-run-ralph-run.json) |
 | Run Roll Rumble | 120936 | [120936-run-roll-rumble.json](./120936-run-roll-rumble.json) |
 | Run Ronaldo Run | 252823 | [252823-run-ronaldo-run.json](./252823-run-ronaldo-run.json) |
 | RUN ROOMS: VR | 75403 | [75403-run-rooms-vr.json](./75403-run-rooms-vr.json) |
