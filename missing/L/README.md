@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laundry Boss Simulator | 360045 | [360045-laundry-boss-simulator.json](./360045-laundry-boss-simulator.json) |
 | Laundry Night | 304166 | [304166-laundry-night.json](./304166-laundry-night.json) |
 | Laundry Service Simulator | 326395 | [326395-laundry-service-simulator.json](./326395-laundry-service-simulator.json) |
+| Laundry Simulator | 154059 | [154059-laundry-simulator.json](./154059-laundry-simulator.json) |
 | Laundry Simulator | 326396 | [326396-laundry-simulator.json](./326396-laundry-simulator.json) |
 | Laundry++ | 183943 | [183943-laundry.json](./183943-laundry.json) |
 | Laura | 210115 | [210115-laura.json](./210115-laura.json) |
@@ -4960,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid Trips | 26803 | [26803-lucid-trips.json](./26803-lucid-trips.json) |
 | Lucid9: Inciting Incident | 80553 | [80553-lucid9-inciting-incident.json](./80553-lucid9-inciting-incident.json) |
 | Lucido Cancels Everything | 295309 | [295309-lucido-cancels-everything.json](./295309-lucido-cancels-everything.json) |
+| Lucidus Mortem | 154075 | [154075-lucidus-mortem.json](./154075-lucidus-mortem.json) |
 | Lucie | 90834 | [90834-lucie.json](./90834-lucie.json) |
 | Lucie's Bistro | 215787 | [215787-lucies-bistro.json](./215787-lucies-bistro.json) |
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
