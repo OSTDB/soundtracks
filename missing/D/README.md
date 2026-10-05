@@ -3679,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent II: The Vertigo Series | 82175 | [82175-descent-ii-the-vertigo-series.json](./82175-descent-ii-the-vertigo-series.json) |
 | Descent into Hades | 272017 | [272017-descent-into-hades.json](./272017-descent-into-hades.json) |
 | Descent Of Lunaris | 375453 | [375453-descent-of-lunaris.json](./375453-descent-of-lunaris.json) |
+| Descent of Man | 120120 | [120120-descent-of-man.json](./120120-descent-of-man.json) |
 | Descent the Abyss | 303474 | [303474-descent-the-abyss.json](./303474-descent-the-abyss.json) |
 | Descent Vector: Space Runner | 153431 | [153431-descent-vector-space-runner.json](./153431-descent-vector-space-runner.json) |
 | Descent X | 311474 | [311474-descent-x.json](./311474-descent-x.json) |
@@ -9232,6 +9233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dub Dash | 19977 | [19977-dub-dash.json](./19977-dub-dash.json) |
 | Dub Together | 413849 | [413849-dub-together.json](./413849-dub-together.json) |
 | Dubai Builder | 272247 | [272247-dubai-builder.json](./272247-dubai-builder.json) |
+| Dubai Drift 2 | 120236 | [120236-dubai-drift-2.json](./120236-dubai-drift-2.json) |
 | Dubbed | 416687 | [416687-dubbed.json](./416687-dubbed.json) |
 | Dubbelmoral | 72606 | [72606-dubbelmoral.json](./72606-dubbelmoral.json) |
 | Dubbing Time | 156623 | [156623-dubbing-time.json](./156623-dubbing-time.json) |
