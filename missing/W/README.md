@@ -4105,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wooo | 260979 | [260979-wooo.json](./260979-wooo.json) |
 | Wooo 2 | 260978 | [260978-wooo-2.json](./260978-wooo-2.json) |
 | Woorld | 25867 | [25867-woorld.json](./25867-woorld.json) |
+| WoozyHero | 120739 | [120739-woozyhero.json](./120739-woozyhero.json) |
 | Wor Games | 335847 | [335847-wor-games.json](./335847-wor-games.json) |
 | Worbital | 105070 | [105070-worbital.json](./105070-worbital.json) |
 | Worcle Worlds | 84965 | [84965-worcle-worlds.json](./84965-worcle-worlds.json) |
