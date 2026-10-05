@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jailbreak: The Ultimate Escape | 256260 | [256260-jailbreak-the-ultimate-escape.json](./256260-jailbreak-the-ultimate-escape.json) |
 | JailBreaker | 274775 | [274775-jailbreaker.json](./274775-jailbreaker.json) |
 | JailBreaker | 98478 | [98478-jailbreaker.json](./98478-jailbreaker.json) |
+| JaJaMaru Jr: Denshouki Jaleco Memorial | 122912 | [122912-jajamaru-jr-denshouki-jaleco-memorial.json](./122912-jajamaru-jr-denshouki-jaleco-memorial.json) |
 | Jajazinho e as Delicias de Cristais | 148668 | [148668-jajazinho-e-as-delicias-de-cristais.json](./148668-jajazinho-e-as-delicias-de-cristais.json) |
 | Jak & Daxter: The Lost Levels | 319202 | [319202-jak-and-daxter-the-lost-levels.json](./319202-jak-and-daxter-the-lost-levels.json) |
 | Jak 3 | 1530 | [1530-jak-3.json](./1530-jak-3.json) |
@@ -1221,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jixo 4: Magical Nights - Collector’s Edition | 416784 | [416784-jixo-4-magical-nights-collector-s-edition.json](./416784-jixo-4-magical-nights-collector-s-edition.json) |
 | Jixo: The Season of Joy - Collector's Edition | 337282 | [337282-jixo-the-season-of-joy-collectors-edition.json](./337282-jixo-the-season-of-joy-collectors-edition.json) |
 | Jìyì de Zhǔrén | 373718 | [373718-jiyi-de-zhuren.json](./373718-jiyi-de-zhuren.json) |
+| Jjat | 122897 | [122897-jjat.json](./122897-jjat.json) |
 | JJJ | 266790 | [266790-jjj.json](./266790-jjj.json) |
 | JK Assassins | 178648 | [178648-jk-assassins.json](./178648-jk-assassins.json) |
 | JK Resistance: Dark Side | 82781 | [82781-jk-resistance-dark-side.json](./82781-jk-resistance-dark-side.json) |
