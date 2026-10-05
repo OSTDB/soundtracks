@@ -5955,6 +5955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Tennis | 306018 | [306018-simple-tennis.json](./306018-simple-tennis.json) |
 | Simple Tower Defense | 259287 | [259287-simple-tower-defense.json](./259287-simple-tower-defense.json) |
 | Simple Zombie Survival | 368594 | [368594-simple-zombie-survival.json](./368594-simple-zombie-survival.json) |
+| SimpleMMO | 145898 | [145898-simplemmo.json](./145898-simplemmo.json) |
 | SimplePlanes 2 | 304696 | [304696-simpleplanes-2.json](./304696-simpleplanes-2.json) |
 | Simpler Times | 308240 | [308240-simpler-times.json](./308240-simpler-times.json) |
 | SimpleRoad | 370872 | [370872-simpleroad.json](./370872-simpleroad.json) |
@@ -7046,6 +7047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepless in the Sapphire City | 299864 | [299864-sleepless-in-the-sapphire-city.json](./299864-sleepless-in-the-sapphire-city.json) |
 | Sleepless Night | 172485 | [172485-sleepless-night.json](./172485-sleepless-night.json) |
 | Sleepover | 113709 | [113709-sleepover.json](./113709-sleepover.json) |
+| Sleepover | 145908 | [145908-sleepover.json](./145908-sleepover.json) |
 | Sleepover | 401631 | [401631-sleepover.json](./401631-sleepover.json) |
 | Sleepover Rules | 177815 | [177815-sleepover-rules.json](./177815-sleepover-rules.json) |
 | Sleepover: Rewake | 374808 | [374808-sleepover-rewake.json](./374808-sleepover-rewake.json) |
@@ -7853,6 +7855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake 3310 | 177382 | [177382-snake-3310.json](./177382-snake-3310.json) |
 | Snake and Rhino in the Sketchbook | 360120 | [360120-snake-and-rhino-in-the-sketchbook.json](./360120-snake-and-rhino-in-the-sketchbook.json) |
 | Snake Battle | 111657 | [111657-snake-battle.json](./111657-snake-battle.json) |
+| Snake Blocks | 145918 | [145918-snake-blocks.json](./145918-snake-blocks.json) |
 | Snake Blocks | 36025 | [36025-snake-blocks.json](./36025-snake-blocks.json) |
 | Snake Break | 275610 | [275610-snake-break.json](./275610-snake-break.json) |
 | Snake Bricks-Bounce Balls | 106569 | [106569-snake-bricks-bounce-balls.json](./106569-snake-bricks-bounce-balls.json) |
@@ -8767,6 +8770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solid Void: Nonogram Triple Pack | 410389 | [410389-solid-void-nonogram-triple-pack.json](./410389-solid-void-nonogram-triple-pack.json) |
 | Solidarność | 318229 | [318229-solidarnosc.json](./318229-solidarnosc.json) |
 | Solider AutoChess | 412490 | [412490-solider-autochess.json](./412490-solider-autochess.json) |
+| Solidify | 145921 | [145921-solidify.json](./145921-solidify.json) |
 | Solidus | 100745 | [100745-solidus.json](./100745-solidus.json) |
 | Soliopop | 288985 | [288985-soliopop.json](./288985-soliopop.json) |
 | Solipsis | 391885 | [391885-solipsis.json](./391885-solipsis.json) |
@@ -10176,6 +10180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Southern Lights: Broken Frequency | 410943 | [410943-southern-lights-broken-frequency.json](./410943-southern-lights-broken-frequency.json) |
 | Southern Monsters | 139315 | [139315-southern-monsters.json](./139315-southern-monsters.json) |
 | Southern Princesses | 212801 | [212801-southern-princesses.json](./212801-southern-princesses.json) |
+| SouthernCross | 145955 | [145955-southerncross.json](./145955-southerncross.json) |
 | Southside Racing | 329202 | [329202-southside-racing.json](./329202-southside-racing.json) |
 | Souvenir | 295509 | [295509-souvenir.json](./295509-souvenir.json) |
 | Souzou Cliff | 181400 | [181400-souzou-cliff.json](./181400-souzou-cliff.json) |
@@ -18790,6 +18795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Pensiveness Christmas | 176257 | [176257-sweet-pensiveness-christmas.json](./176257-sweet-pensiveness-christmas.json) |
 | Sweet Pet | 392913 | [392913-sweet-pet.json](./392913-sweet-pet.json) |
 | Sweet Pirate | 382397 | [382397-sweet-pirate.json](./382397-sweet-pirate.json) |
+| Sweet Pool | 145909 | [145909-sweet-pool.json](./145909-sweet-pool.json) |
 | Sweet Princess Prom Night | 87613 | [87613-sweet-princess-prom-night.json](./87613-sweet-princess-prom-night.json) |
 | Sweet Punch | 177385 | [177385-sweet-punch.json](./177385-sweet-punch.json) |
 | Sweet Racing Girl | 339445 | [339445-sweet-racing-girl.json](./339445-sweet-racing-girl.json) |
@@ -18963,6 +18969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switchblade | 68106 | [68106-switchblade.json](./68106-switchblade.json) |
 | Switchblade II | 126452 | [126452-switchblade-ii.json](./126452-switchblade-ii.json) |
 | Switchboard | 234052 | [234052-switchboard.json](./234052-switchboard.json) |
+| Switchboard Heights | 145917 | [145917-switchboard-heights.json](./145917-switchboard-heights.json) |
 | Switchcars | 33541 | [33541-switchcars.json](./33541-switchcars.json) |
 | Switchcraft | 191802 | [191802-switchcraft.json](./191802-switchcraft.json) |
 | Switchcraft: Magical Match 3 | 219829 | [219829-switchcraft-magical-match-3.json](./219829-switchcraft-magical-match-3.json) |
