@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Purple | 251706 | [251706-magic-purple.json](./251706-magic-purple.json) |
 | Magic Pussy: Chapter 1 | 244719 | [244719-magic-pussy-chapter-1.json](./244719-magic-pussy-chapter-1.json) |
 | Magic Pussy: Chapter 3 | 365670 | [365670-magic-pussy-chapter-3.json](./365670-magic-pussy-chapter-3.json) |
+| Magic Quest: TCG | 121394 | [121394-magic-quest-tcg.json](./121394-magic-quest-tcg.json) |
 | Magic Realm | 182943 | [182943-magic-realm.json](./182943-magic-realm.json) |
 | Magic Realm | 316636 | [316636-magic-realm.json](./316636-magic-realm.json) |
 | Magic Realm Obby | 391250 | [391250-magic-realm-obby.json](./391250-magic-realm-obby.json) |
@@ -1384,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Them Stop | 240791 | [240791-make-them-stop.json](./240791-make-them-stop.json) |
 | Make Them Walk | 258552 | [258552-make-them-walk.json](./258552-make-them-walk.json) |
 | Make Tracks Great Again | 367551 | [367551-make-tracks-great-again.json](./367551-make-tracks-great-again.json) |
+| Make War | 121410 | [121410-make-war.json](./121410-make-war.json) |
 | Make War Not Love 5 | 88234 | [88234-make-war-not-love-5.json](./88234-make-war-not-love-5.json) |
 | Make Way: Legends Pack | 399141 | [399141-make-way-legends-pack.json](./399141-make-way-legends-pack.json) |
 | Make Words or Die | 174317 | [174317-make-words-or-die.json](./174317-make-words-or-die.json) |
@@ -1978,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Sonic at the Sochi 2014 Olympic Winter Games | 3990 | [3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json](./3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json) |
 | Mario + Rabbids Kingdom Battle | 28414 | [28414-mario-rabbids-kingdom-battle.json](./28414-mario-rabbids-kingdom-battle.json) |
 | Mario + Rabbids Kingdom Battle: Donkey Kong Adventure | 103317 | [103317-mario-rabbids-kingdom-battle-donkey-kong-adventure.json](./103317-mario-rabbids-kingdom-battle-donkey-kong-adventure.json) |
+| Mario + Rabbids Kingdom Battle: Gold Edition | 121506 | [121506-mario-rabbids-kingdom-battle-gold-edition.json](./121506-mario-rabbids-kingdom-battle-gold-edition.json) |
 | Mario + Rabbids Kingdom Battle: Ultra Challenge Pack | 237938 | [237938-mario-rabbids-kingdom-battle-ultra-challenge-pack.json](./237938-mario-rabbids-kingdom-battle-ultra-challenge-pack.json) |
 | Mario + Rabbids Sparks of Hope | 152201 | [152201-mario-rabbids-sparks-of-hope.json](./152201-mario-rabbids-sparks-of-hope.json) |
 | Mario + Rabbids Sparks of Hope: + Rayman Edition | 268551 | [268551-mario-rabbids-sparks-of-hope-rayman-edition.json](./268551-mario-rabbids-sparks-of-hope-rayman-edition.json) |
@@ -3659,6 +3662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Knight Chronicles | 63570 | [63570-mech-knight-chronicles.json](./63570-mech-knight-chronicles.json) |
 | Mech League Hunting | 87952 | [87952-mech-league-hunting.json](./87952-mech-league-hunting.json) |
 | Mech Marines: Steel March | 36112 | [36112-mech-marines-steel-march.json](./36112-mech-marines-steel-march.json) |
+| Mech Merc Company | 121498 | [121498-mech-merc-company.json](./121498-mech-merc-company.json) |
 | Mech n' Parcel | 135831 | [135831-mech-n-parcel.json](./135831-mech-n-parcel.json) |
 | Mech Ops 2092 | 401622 | [401622-mech-ops-2092.json](./401622-mech-ops-2092.json) |
 | Mech Punk | 211792 | [211792-mech-punk.json](./211792-mech-punk.json) |
@@ -3739,6 +3743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechCom 2 | 105984 | [105984-mechcom-2.json](./105984-mechcom-2.json) |
 | MechCorp | 102886 | [102886-mechcorp.json](./102886-mechcorp.json) |
 | MechCube: Dark Stories | 174283 | [174283-mechcube-dark-stories.json](./174283-mechcube-dark-stories.json) |
+| MechCube: Escape | 121387 | [121387-mechcube-escape.json](./121387-mechcube-escape.json) |
 | Mechenosets | 311065 | [311065-mechenosets.json](./311065-mechenosets.json) |
 | Mechjestic | 293653 | [293653-mechjestic.json](./293653-mechjestic.json) |
 | Mecho Wars | 52567 | [52567-mecho-wars.json](./52567-mecho-wars.json) |
@@ -5248,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gunner | 137655 | [137655-metal-gunner.json](./137655-metal-gunner.json) |
 | Metal Hawk | 40354 | [40354-metal-hawk.json](./40354-metal-hawk.json) |
 | Metal Head | 19780 | [19780-metal-head.json](./19780-metal-head.json) |
+| Metal Heads | 121494 | [121494-metal-heads.json](./121494-metal-heads.json) |
 | Metal Hunter | 189202 | [189202-metal-hunter.json](./189202-metal-hunter.json) |
 | Metal Hunter | 392783 | [392783-metal-hunter.json](./392783-metal-hunter.json) |
 | Metal Knight | 132753 | [132753-metal-knight.json](./132753-metal-knight.json) |
@@ -7083,6 +7089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna no Radio Controlled GP | 165435 | [165435-minna-no-radio-controlled-gp.json](./165435-minna-no-radio-controlled-gp.json) |
 | Minna no Radio Controlled GP + Variety Set | 165434 | [165434-minna-no-radio-controlled-gp-variety-set.json](./165434-minna-no-radio-controlled-gp-variety-set.json) |
 | Minna no Shogi: Shokyuu-hen | 282231 | [282231-minna-no-shogi-shokyuu-hen.json](./282231-minna-no-shogi-shokyuu-hen.json) |
+| Minna no Sokoban | 121416 | [121416-minna-no-sokoban.json](./121416-minna-no-sokoban.json) |
 | Minna no Tabou no Nakayoshi Daisakusen | 48628 | [48628-minna-no-tabou-no-nakayoshi-daisakusen.json](./48628-minna-no-tabou-no-nakayoshi-daisakusen.json) |
 | Minna no Tetris | 218532 | [218532-minna-no-tetris.json](./218532-minna-no-tetris.json) |
 | Minna no! Shougakusei aru aru Sagashi: Kokomo mo Otona mo Tanoshimeru Irasuto Quiz no Tore Game | 222232 | [222232-minna-no-shougakusei-aru-aru-sagashi-kokomo-mo-otona-mo-tanoshimeru-irasuto-quiz-no-tore-game.json](./222232-minna-no-shougakusei-aru-aru-sagashi-kokomo-mo-otona-mo-tanoshimeru-irasuto-quiz-no-tore-game.json) |
@@ -7592,6 +7599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizu no Senritsu | 220576 | [220576-mizu-no-senritsu.json](./220576-mizu-no-senritsu.json) |
 | Mizu no Senritsu 2: Hi no Kioku | 67305 | [67305-mizu-no-senritsu-2-hi-no-kioku.json](./67305-mizu-no-senritsu-2-hi-no-kioku.json) |
 | Mizu no Senritsu: Kyousoukyoku | 220578 | [220578-mizu-no-senritsu-kyousoukyoku.json](./220578-mizu-no-senritsu-kyousoukyoku.json) |
+| Mizuchi | 121406 | [121406-mizuchi.json](./121406-mizuchi.json) |
 | Mizuiro no Chizu | 77680 | [77680-mizuiro-no-chizu.json](./77680-mizuiro-no-chizu.json) |
 | Mizuki and the Crimson Moon | 307212 | [307212-mizuki-and-the-crimson-moon.json](./307212-mizuki-and-the-crimson-moon.json) |
 | Mizuki Shigeru no Shin Youkai-den | 282235 | [282235-mizuki-shigeru-no-shin-youkai-den.json](./282235-mizuki-shigeru-no-shin-youkai-den.json) |
@@ -11711,6 +11719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Land: The search for Maphaldo | 270967 | [270967-mystic-land-the-search-for-maphaldo.json](./270967-mystic-land-the-search-for-maphaldo.json) |
 | Mystic Marathon | 38579 | [38579-mystic-marathon.json](./38579-mystic-marathon.json) |
 | Mystic Mayhem | 64647 | [64647-mystic-mayhem.json](./64647-mystic-mayhem.json) |
+| Mystic Mayhem Unleashed | 121398 | [121398-mystic-mayhem-unleashed.json](./121398-mystic-mayhem-unleashed.json) |
 | Mystic Melee | 33218 | [33218-mystic-melee.json](./33218-mystic-melee.json) |
 | Mystic Messenger | 27259 | [27259-mystic-messenger.json](./27259-mystic-messenger.json) |
 | Mystic Midway: Phantom Express | 45911 | [45911-mystic-midway-phantom-express.json](./45911-mystic-midway-phantom-express.json) |
