@@ -2400,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epoch Reset | 380414 | [380414-epoch-reset.json](./380414-epoch-reset.json) |
 | Epochs of Enmity | 196012 | [196012-epochs-of-enmity.json](./196012-epochs-of-enmity.json) |
 | Epochs of Fire | 333009 | [333009-epochs-of-fire.json](./333009-epochs-of-fire.json) |
+| Epocria | 137409 | [137409-epocria.json](./137409-epocria.json) |
 | Epolevne | 176355 | [176355-epolevne.json](./176355-epolevne.json) |
 | Eponymous | 74257 | [74257-eponymous.json](./74257-eponymous.json) |
 | Epos 11 | 355525 | [355525-epos-11.json](./355525-epos-11.json) |
@@ -3729,6 +3730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil World Hopsca | 336001 | [336001-evil-world-hopsca.json](./336001-evil-world-hopsca.json) |
 | Evil Zombies: Death on the Road | 232158 | [232158-evil-zombies-death-on-the-road.json](./232158-evil-zombies-death-on-the-road.json) |
 | Evil, My Friend | 185547 | [185547-evil-my-friend.json](./185547-evil-my-friend.json) |
+| EvilBane: Rise of Ravens | 137390 | [137390-evilbane-rise-of-ravens.json](./137390-evilbane-rise-of-ravens.json) |
 | EvilCraft | 232678 | [232678-evilcraft.json](./232678-evilcraft.json) |
 | EvilHack | 351130 | [351130-evilhack.json](./351130-evilhack.json) |
 | Evilibrium: Soul Hunters | 125384 | [125384-evilibrium-soul-hunters.json](./125384-evilibrium-soul-hunters.json) |
