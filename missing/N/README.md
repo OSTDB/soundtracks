@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrofane | 347211 | [347211-necrofane.json](./347211-necrofane.json) |
 | Necroffense | 220711 | [220711-necroffense.json](./220711-necroffense.json) |
 | Necroflora | 333542 | [333542-necroflora.json](./333542-necroflora.json) |
+| Necrojacks | 160207 | [160207-necrojacks.json](./160207-necrojacks.json) |
 | NecroLand: Undead Corps | 127361 | [127361-necroland-undead-corps.json](./127361-necroland-undead-corps.json) |
 | Necromancer | 377196 | [377196-necromancer.json](./377196-necromancer.json) |
 | NecRomancer | 176838 | [176838-necromancer.json](./176838-necromancer.json) |
@@ -1241,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo-Now! | 31986 | [31986-neo-now.json](./31986-neo-now.json) |
 | Neo-Programs | 186067 | [186067-neo-programs.json](./186067-neo-programs.json) |
 | Neo-Sonic: Godspeed | 330286 | [330286-neo-sonic-godspeed.json](./330286-neo-sonic-godspeed.json) |
+| Neo-Zero | 160271 | [160271-neo-zero.json](./160271-neo-zero.json) |
 | Neo: The Rainbow Sorcerer | 357308 | [357308-neo-the-rainbow-sorcerer.json](./357308-neo-the-rainbow-sorcerer.json) |
 | NEO: The World Ends with You | 141192 | [141192-neo-the-world-ends-with-you.json](./141192-neo-the-world-ends-with-you.json) |
 | Neo: The World Ends with You x Field Walk RPG | 362436 | [362436-neo-the-world-ends-with-you-x-field-walk-rpg.json](./362436-neo-the-world-ends-with-you-x-field-walk-rpg.json) |
@@ -1347,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Impact | 233464 | [233464-neon-impact.json](./233464-neon-impact.json) |
 | Neon Inferno | 322701 | [322701-neon-inferno.json](./322701-neon-inferno.json) |
 | Neon Junctions | 118352 | [118352-neon-junctions.json](./118352-neon-junctions.json) |
+| Neon Knight | 160295 | [160295-neon-knight.json](./160295-neon-knight.json) |
 | Neon Knights: Humanity Erased | 190484 | [190484-neon-knights-humanity-erased.json](./190484-neon-knights-humanity-erased.json) |
 | Neon Ladder | 311803 | [311803-neon-ladder.json](./311803-neon-ladder.json) |
 | Neon Life | 279859 | [279859-neon-life.json](./279859-neon-life.json) |
