@@ -1667,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maniac Path 3 | 327824 | [327824-maniac-path-3.json](./327824-maniac-path-3.json) |
 | Maniac Pro-Wrestling: Ashita e no Tatakai | 59032 | [59032-maniac-pro-wrestling-ashita-e-no-tatakai.json](./59032-maniac-pro-wrestling-ashita-e-no-tatakai.json) |
 | Maniac Sports | 69249 | [69249-maniac-sports.json](./69249-maniac-sports.json) |
+| Maniac Square | 122239 | [122239-maniac-square.json](./122239-maniac-square.json) |
 | Manic | 126951 | [126951-manic.json](./126951-manic.json) |
 | Manic Archers | 153382 | [153382-manic-archers.json](./153382-manic-archers.json) |
 | Manic Miner | 10161 | [10161-manic-miner.json](./10161-manic-miner.json) |
@@ -8155,6 +8156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mondo Pong | 40759 | [40759-mondo-pong.json](./40759-mondo-pong.json) |
 | Mondrian - Abstraction in Beauty | 34692 | [34692-mondrian-abstraction-in-beauty.json](./34692-mondrian-abstraction-in-beauty.json) |
 | Mondrian Squares | 192751 | [192751-mondrian-squares.json](./192751-mondrian-squares.json) |
+| Mondschein | 122220 | [122220-mondschein.json](./122220-mondschein.json) |
 | Monet - The Mystery of the Orangery | 129764 | [129764-monet-the-mystery-of-the-orangery.json](./129764-monet-the-mystery-of-the-orangery.json) |
 | Monet Heist | 184948 | [184948-monet-heist.json](./184948-monet-heist.json) |
 | Money Farm | 298647 | [298647-money-farm.json](./298647-money-farm.json) |
@@ -8981,6 +8983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonrot | 391818 | [391818-moonrot.json](./391818-moonrot.json) |
 | MoonRun | 148888 | [148888-moonrun.json](./148888-moonrun.json) |
 | Moons of True Magic | 263204 | [263204-moons-of-true-magic.json](./263204-moons-of-true-magic.json) |
+| Moons of Ventocia | 122137 | [122137-moons-of-ventocia.json](./122137-moons-of-ventocia.json) |
 | Moons That Belong | 318066 | [318066-moons-that-belong.json](./318066-moons-that-belong.json) |
 | Moonscape | 203252 | [203252-moonscape.json](./203252-moonscape.json) |
 | Moonscars | 194507 | [194507-moonscars.json](./194507-moonscars.json) |
@@ -11184,6 +11187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Nonogram Waifu: Forbidden Love | 262367 | [262367-my-nonogram-waifu-forbidden-love.json](./262367-my-nonogram-waifu-forbidden-love.json) |
 | My Oil Empire | 212480 | [212480-my-oil-empire.json](./212480-my-oil-empire.json) |
 | My Only | 375859 | [375859-my-only.json](./375859-my-only.json) |
+| My Only Sunshine | 122152 | [122152-my-only-sunshine.json](./122152-my-only-sunshine.json) |
 | My Otter Friends | 403809 | [403809-my-otter-friends.json](./403809-my-otter-friends.json) |
 | My Own Hero Party | 412980 | [412980-my-own-hero-party.json](./412980-my-own-hero-party.json) |
 | My Own Murder | 345049 | [345049-my-own-murder.json](./345049-my-own-murder.json) |
