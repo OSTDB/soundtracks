@@ -3480,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolationist Nightclub Simulator | 148523 | [148523-isolationist-nightclub-simulator.json](./148523-isolationist-nightclub-simulator.json) |
 | Isolomus | 141814 | [141814-isolomus.json](./141814-isolomus.json) |
 | Isometria | 266430 | [266430-isometria.json](./266430-isometria.json) |
+| Isometric & Karate Exercise: Wii de Kotsuban Fitness | 134478 | [134478-isometric-and-karate-exercise-wii-de-kotsuban-fitness.json](./134478-isometric-and-karate-exercise-wii-de-kotsuban-fitness.json) |
 | Isometric Squares | 175356 | [175356-isometric-squares.json](./175356-isometric-squares.json) |
 | Isonzo | 158603 | [158603-isonzo.json](./158603-isonzo.json) |
 | Isonzo: Collector's Edition | 218548 | [218548-isonzo-collectors-edition.json](./218548-isonzo-collectors-edition.json) |
