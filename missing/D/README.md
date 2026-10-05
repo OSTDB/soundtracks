@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D+Vine[Luv] | 283302 | [283302-d-vine-luv.json](./283302-d-vine-luv.json) |
 | D1 Grand Prix | 20551 | [20551-d1-grand-prix.json](./20551-d1-grand-prix.json) |
 | D2 | 36736 | [36736-d2.json](./36736-d2.json) |
+| D20 Dungeons | 126975 | [126975-d20-dungeons.json](./126975-d20-dungeons.json) |
 | D2048 | 125915 | [125915-d2048.json](./125915-d2048.json) |
 | D3ad Hand | 277528 | [277528-d3ad-hand.json](./277528-d3ad-hand.json) |
 | D3ad Hand | 315098 | [315098-d3ad-hand.json](./315098-d3ad-hand.json) |
@@ -992,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Side of War | 150599 | [150599-dark-side-of-war.json](./150599-dark-side-of-war.json) |
 | Dark Siege: The First Knight | 192677 | [192677-dark-siege-the-first-knight.json](./192677-dark-siege-the-first-knight.json) |
 | Dark Skies 2: Keepers of Nemansk | 296689 | [296689-dark-skies-2-keepers-of-nemansk.json](./296689-dark-skies-2-keepers-of-nemansk.json) |
+| Dark Skies: The Nemansk Incident | 126971 | [126971-dark-skies-the-nemansk-incident.json](./126971-dark-skies-the-nemansk-incident.json) |
 | Dark Sky | 290393 | [290393-dark-sky.json](./290393-dark-sky.json) |
 | Dark Slayer | 297015 | [297015-dark-slayer.json](./297015-dark-slayer.json) |
 | Dark Solid | 141736 | [141736-dark-solid.json](./141736-dark-solid.json) |
@@ -7606,6 +7608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: College Football 2024 | 262333 | [262333-draft-day-sports-college-football-2024.json](./262333-draft-day-sports-college-football-2024.json) |
 | Draft Day Sports: College Football 2025 | 386282 | [386282-draft-day-sports-college-football-2025.json](./386282-draft-day-sports-college-football-2025.json) |
 | Draft Day Sports: Pro Basketball 2016 | 58891 | [58891-draft-day-sports-pro-basketball-2016.json](./58891-draft-day-sports-pro-basketball-2016.json) |
+| Draft Day Sports: Pro Basketball 2020 | 126983 | [126983-draft-day-sports-pro-basketball-2020.json](./126983-draft-day-sports-pro-basketball-2020.json) |
 | Draft Day Sports: Pro Basketball 2023 | 226201 | [226201-draft-day-sports-pro-basketball-2023.json](./226201-draft-day-sports-pro-basketball-2023.json) |
 | Draft Day Sports: Pro Football 2016 | 102142 | [102142-draft-day-sports-pro-football-2016.json](./102142-draft-day-sports-pro-football-2016.json) |
 | Draft Day Sports: Pro Golf | 105388 | [105388-draft-day-sports-pro-golf.json](./105388-draft-day-sports-pro-golf.json) |
@@ -8022,6 +8025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Spot | 345046 | [345046-dragon-spot.json](./345046-dragon-spot.json) |
 | Dragon Star Varnir: Complete Deluxe Edition | 186884 | [186884-dragon-star-varnir-complete-deluxe-edition.json](./186884-dragon-star-varnir-complete-deluxe-edition.json) |
 | Dragon Star Varnir: DLC Bundle | 227383 | [227383-dragon-star-varnir-dlc-bundle.json](./227383-dragon-star-varnir-dlc-bundle.json) |
+| Dragon Stone: Legendary Archer | 126991 | [126991-dragon-stone-legendary-archer.json](./126991-dragon-stone-legendary-archer.json) |
 | Dragon Storm Fantasy | 193979 | [193979-dragon-storm-fantasy.json](./193979-dragon-storm-fantasy.json) |
 | Dragon Story | 38899 | [38899-dragon-story.json](./38899-dragon-story.json) |
 | Dragon Survival | 373180 | [373180-dragon-survival.json](./373180-dragon-survival.json) |
@@ -9952,6 +9956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuoZuplixo | 369025 | [369025-duozuplixo.json](./369025-duozuplixo.json) |
 | Duped | 65789 | [65789-duped.json](./65789-duped.json) |
 | Duplex | 273554 | [273554-duplex.json](./273554-duplex.json) |
+| Dupli_City | 126966 | [126966-dupli-city.json](./126966-dupli-city.json) |
 | dUpLicity ~Beyond the Lies~ | 36104 | [36104-duplicity-beyond-the-lies.json](./36104-duplicity-beyond-the-lies.json) |
 | Duplicity Loop | 278525 | [278525-duplicity-loop.json](./278525-duplicity-loop.json) |
 | Duppy Detective Tashia | 215885 | [215885-duppy-detective-tashia.json](./215885-duppy-detective-tashia.json) |
