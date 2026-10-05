@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abide With Me | 179614 | [179614-abide-with-me.json](./179614-abide-with-me.json) |
 | Abigail Fortune and the Scarlet Fairy | 181205 | [181205-abigail-fortune-and-the-scarlet-fairy.json](./181205-abigail-fortune-and-the-scarlet-fairy.json) |
 | Abiko the Miko | 158042 | [158042-abiko-the-miko.json](./158042-abiko-the-miko.json) |
+| Abiko the Miko 2 | 161360 | [161360-abiko-the-miko-2.json](./161360-abiko-the-miko-2.json) |
 | Ability Draft | 109031 | [109031-ability-draft.json](./109031-ability-draft.json) |
 | Abiotic Factor | 219126 | [219126-abiotic-factor.json](./219126-abiotic-factor.json) |
 | Abiotic Factor - Supporter's Pack | 384765 | [384765-abiotic-factor-supporters-pack.json](./384765-abiotic-factor-supporters-pack.json) |
@@ -952,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute X | 92602 | [92602-absolute-x.json](./92602-absolute-x.json) |
 | Absolute: Asse raus! | 92288 | [92288-absolute-asse-raus.json](./92288-absolute-asse-raus.json) |
 | Absolute: Blazing Infinity | 78616 | [78616-absolute-blazing-infinity.json](./78616-absolute-blazing-infinity.json) |
+| Absolutely Goode Championship | 161358 | [161358-absolutely-goode-championship.json](./161358-absolutely-goode-championship.json) |
 | Absolutely Killed | 262547 | [262547-absolutely-killed.json](./262547-absolutely-killed.json) |
 | Absolutely Nothing Good | 414420 | [414420-absolutely-nothing-good.json](./414420-absolutely-nothing-good.json) |
 | Absolutely Perfect Specimen | 257098 | [257098-absolutely-perfect-specimen.json](./257098-absolutely-perfect-specimen.json) |
