@@ -1777,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Fairy Friends: Secret of the Fairy Queen | 68031 | [68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json](./68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json) |
 | Enchanted Hearts | 298901 | [298901-enchanted-hearts.json](./298901-enchanted-hearts.json) |
 | Enchanted in the Moonlight | 238427 | [238427-enchanted-in-the-moonlight.json](./238427-enchanted-in-the-moonlight.json) |
+| Enchanted in the Moonlight: Kiryu, Chikage & Yukinojo | 119510 | [119510-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo.json](./119510-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo.json) |
 | Enchanted in the Moonlight: Kiryu, Chikage & Yukinojo DLC Pack | 238188 | [238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json](./238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json) |
 | Enchanted in the Moonlight: Miyabi, Kyoga & Samon - Luck in Love: The Key to Happiness | 238068 | [238068-enchanted-in-the-moonlight-miyabi-kyoga-and-samon-luck-in-love-the-key-to-happiness.json](./238068-enchanted-in-the-moonlight-miyabi-kyoga-and-samon-luck-in-love-the-key-to-happiness.json) |
 | Enchanted Kingdom: A Stranger's Venom | 188003 | [188003-enchanted-kingdom-a-strangers-venom.json](./188003-enchanted-kingdom-a-strangers-venom.json) |
@@ -1859,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End Them, Soldier! | 347690 | [347690-end-them-soldier.json](./347690-end-them-soldier.json) |
 | End War RTS 2 | 160234 | [160234-end-war-rts-2.json](./160234-end-war-rts-2.json) |
 | Endangered | 32077 | [32077-endangered.json](./32077-endangered.json) |
+| Endangered Proposition | 119599 | [119599-endangered-proposition.json](./119599-endangered-proposition.json) |
 | Endarchy | 327340 | [327340-endarchy.json](./327340-endarchy.json) |
 | Endciv | 33502 | [33502-endciv.json](./33502-endciv.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
