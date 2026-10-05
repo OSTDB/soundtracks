@@ -6108,6 +6108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold War: Frontline | 339101 | [339101-cold-war-frontline.json](./339101-cold-war-frontline.json) |
 | Cold War: The Iron Curtain | 256451 | [256451-cold-war-the-iron-curtain.json](./256451-cold-war-the-iron-curtain.json) |
 | Cold Wind | 151128 | [151128-cold-wind.json](./151128-cold-wind.json) |
+| Cold Winter Morning | 129050 | [129050-cold-winter-morning.json](./129050-cold-winter-morning.json) |
 | Cold Wires | 127315 | [127315-cold-wires.json](./127315-cold-wires.json) |
 | Coldblooded | 403007 | [403007-coldblooded.json](./403007-coldblooded.json) |
 | Colddigger | 118996 | [118996-colddigger.json](./118996-colddigger.json) |
@@ -7236,6 +7237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constellations: Beyond the Edges | 167256 | [167256-constellations-beyond-the-edges.json](./167256-constellations-beyond-the-edges.json) |
 | Constitution | 83491 | [83491-constitution.json](./83491-constitution.json) |
 | Constriction: 1024 | 315484 | [315484-constriction-1024.json](./315484-constriction-1024.json) |
+| Construct | 129059 | [129059-construct.json](./129059-construct.json) |
 | Construct Conspiracy | 252096 | [252096-construct-conspiracy.json](./252096-construct-conspiracy.json) |
 | Construct Farm / Cat Simulator | 381715 | [381715-construct-farm-cat-simulator.json](./381715-construct-farm-cat-simulator.json) |
 | Construct: Embers of Life | 54530 | [54530-construct-embers-of-life.json](./54530-construct-embers-of-life.json) |
