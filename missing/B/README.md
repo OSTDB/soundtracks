@@ -8010,6 +8010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakage | 165521 | [165521-breakage.json](./165521-breakage.json) |
 | Breakaway Hockey League | 415167 | [415167-breakaway-hockey-league.json](./415167-breakaway-hockey-league.json) |
 | BreakBall | 304651 | [304651-breakball.json](./304651-breakball.json) |
+| Breakball Lost In Space | 146514 | [146514-breakball-lost-in-space.json](./146514-breakball-lost-in-space.json) |
 | BreakBall: Time Travel | 146890 | [146890-breakball-time-travel.json](./146890-breakball-time-travel.json) |
 | Breakbeat Alley | 200048 | [200048-breakbeat-alley.json](./200048-breakbeat-alley.json) |
 | BreakBlast | 153330 | [153330-breakblast.json](./153330-breakblast.json) |
@@ -9086,6 +9087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullets & Brains | 261552 | [261552-bullets-and-brains.json](./261552-bullets-and-brains.json) |
 | Bullets and More VR: BAM VR | 31401 | [31401-bullets-and-more-vr-bam-vr.json](./31401-bullets-and-more-vr-bam-vr.json) |
 | Bullets in the Space | 106626 | [106626-bullets-in-the-space.json](./106626-bullets-in-the-space.json) |
+| Bullets Squared | 146527 | [146527-bullets-squared.json](./146527-bullets-squared.json) |
 | Bullets Tracks: Son Of | 363574 | [363574-bullets-tracks-son-of.json](./363574-bullets-tracks-son-of.json) |
 | Bulletstorm VR | 251567 | [251567-bulletstorm-vr.json](./251567-bulletstorm-vr.json) |
 | Bulletstorm: Limited Edition | 46640 | [46640-bulletstorm-limited-edition.json](./46640-bulletstorm-limited-edition.json) |
