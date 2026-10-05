@@ -4202,6 +4202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordJong Arcade | 65492 | [65492-wordjong-arcade.json](./65492-wordjong-arcade.json) |
 | WordKiller: Revolution | 180122 | [180122-wordkiller-revolution.json](./180122-wordkiller-revolution.json) |
 | Wordkour | 307730 | [307730-wordkour.json](./307730-wordkour.json) |
+| Wordland 2 | 151265 | [151265-wordland-2.json](./151265-wordland-2.json) |
 | Wordland: Let's Travel | 204928 | [204928-wordland-lets-travel.json](./204928-wordland-lets-travel.json) |
 | Wordle | 265847 | [265847-wordle.json](./265847-wordle.json) |
 | Wordle DS | 265142 | [265142-wordle-ds.json](./265142-wordle-ds.json) |
