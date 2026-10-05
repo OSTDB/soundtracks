@@ -5816,6 +5816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood of Patriots | 86318 | [86318-blood-of-patriots.json](./86318-blood-of-patriots.json) |
 | Blood of Rations | 408031 | [408031-blood-of-rations.json](./408031-blood-of-rations.json) |
 | Blood of Steel | 128481 | [128481-blood-of-steel.json](./128481-blood-of-steel.json) |
+| Blood of the Alchemists | 162839 | [162839-blood-of-the-alchemists.json](./162839-blood-of-the-alchemists.json) |
 | Blood of the Covenant | 217864 | [217864-blood-of-the-covenant.json](./217864-blood-of-the-covenant.json) |
 | Blood of the Elves | 290560 | [290560-blood-of-the-elves.json](./290560-blood-of-the-elves.json) |
 | Blood of the Killer | 178572 | [178572-blood-of-the-killer.json](./178572-blood-of-the-killer.json) |
@@ -6658,6 +6659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Reprint | 198212 | [198212-bomberman-reprint.json](./198212-bomberman-reprint.json) |
 | Bomberman Selection | 56467 | [56467-bomberman-selection.json](./56467-bomberman-selection.json) |
 | Bomberman Story DS | 66613 | [66613-bomberman-story-ds.json](./66613-bomberman-story-ds.json) |
+| Bomberman Touch 2: Volcano Party | 162747 | [162747-bomberman-touch-2-volcano-party.json](./162747-bomberman-touch-2-volcano-party.json) |
 | Bomberman Tournament | 6334 | [6334-bomberman-tournament.json](./6334-bomberman-tournament.json) |
 | Bomberman Tower | 260870 | [260870-bomberman-tower.json](./260870-bomberman-tower.json) |
 | Bomberman Ultra | 44572 | [44572-bomberman-ultra.json](./44572-bomberman-ultra.json) |
