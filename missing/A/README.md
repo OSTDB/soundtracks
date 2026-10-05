@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.S.S. (Amazing Slot Survivor) | 412463 | [412463-a-s-s-amazing-slot-survivor.json](./412463-a-s-s-amazing-slot-survivor.json) |
 | A.S.S.: Awesome Street Skaters | 245907 | [245907-a-s-s-awesome-street-skaters.json](./245907-a-s-s-awesome-street-skaters.json) |
 | A.S.T.R.A. | 175770 | [175770-a-s-t-r-a.json](./175770-a-s-t-r-a.json) |
+| A.T.O.M. | 164426 | [164426-a-t-o-m.json](./164426-a-t-o-m.json) |
 | A.V.A Global: Masters Pack | 298709 | [298709-a-v-a-global-masters-pack.json](./298709-a-v-a-global-masters-pack.json) |
 | A.V.A: Guns on Fire | 55245 | [55245-a-v-a-guns-on-fire.json](./55245-a-v-a-guns-on-fire.json) |
 | A.W.O.L. | 193214 | [193214-a-w-o-l.json](./193214-a-w-o-l.json) |
@@ -790,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aa! Megami-sama | 78087 | [78087-aa-megami-sama.json](./78087-aa-megami-sama.json) |
 | AAA Clock: Extreme Premium | 304762 | [304762-aaa-clock-extreme-premium.json](./304762-aaa-clock-extreme-premium.json) |
 | Aaaaaaaaaaaaaaaaaaaaaaaa!!! Remastered | 219696 | [219696-aaaaaaaaaaaaaaaaaaaaaaaa-remastered.json](./219696-aaaaaaaaaaaaaaaaaaaaaaaa-remastered.json) |
+| AaaaaAAaaaAAAaaAAAAaAAAAA!!!: Brutal Concussion | 164411 | [164411-aaaaaaaaaaaaaaaaaaaaaaaaa-brutal-concussion.json](./164411-aaaaaaaaaaaaaaaaaaaaaaaaa-brutal-concussion.json) |
 | AaaaaAAaaaAAAaaAAAAaAAAAA!!!: Force = Mass x Acceleration | 39233 | [39233-aaaaaaaaaaaaaaaaaaaaaaaaa-force-mass-x-acceleration.json](./39233-aaaaaaaaaaaaaaaaaaaaaaaaa-force-mass-x-acceleration.json) |
 | Aaaarrrrgggghhhh! | 176278 | [176278-aaaarrrrgggghhhh.json](./176278-aaaarrrrgggghhhh.json) |
 | Aaaaxy | 249319 | [249319-aaaaxy.json](./249319-aaaaxy.json) |
