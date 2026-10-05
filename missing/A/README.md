@@ -4816,6 +4816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angie Magica | 391291 | [391291-angie-magica.json](./391291-angie-magica.json) |
 | Angira Online | 235715 | [235715-angira-online.json](./235715-angira-online.json) |
 | Angkor: Beginnings | 209699 | [209699-angkor-beginnings.json](./209699-angkor-beginnings.json) |
+| Angkor: Runefall | 149229 | [149229-angkor-runefall.json](./149229-angkor-runefall.json) |
 | Angkot d Game | 214753 | [214753-angkot-d-game.json](./214753-angkot-d-game.json) |
 | Angle | 396218 | [396218-angle.json](./396218-angle.json) |
 | Angle Me | 232390 | [232390-angle-me.json](./232390-angle-me.json) |
@@ -8009,6 +8010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aston Villa Club Football | 267891 | [267891-aston-villa-club-football.json](./267891-aston-villa-club-football.json) |
 | Aston Villa Club Football 2005 | 267895 | [267895-aston-villa-club-football-2005.json](./267895-aston-villa-club-football-2005.json) |
 | Astonia 3 | 57661 | [57661-astonia-3.json](./57661-astonia-3.json) |
+| Astonia Resurgence | 149222 | [149222-astonia-resurgence.json](./149222-astonia-resurgence.json) |
 | Astonia: The Return of Yendor | 129670 | [129670-astonia-the-return-of-yendor.json](./129670-astonia-the-return-of-yendor.json) |
 | Astonishia VS | 61577 | [61577-astonishia-vs.json](./61577-astonishia-vs.json) |
 | Astonishing | 384171 | [384171-astonishing.json](./384171-astonishing.json) |
