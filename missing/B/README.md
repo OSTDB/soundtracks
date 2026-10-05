@@ -3787,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi & Tina: New Adventures with Horses | 194979 | [194979-bibi-and-tina-new-adventures-with-horses.json](./194979-bibi-and-tina-new-adventures-with-horses.json) |
 | Bibi & Tina: Ready, Set, Ride! | 417439 | [417439-bibi-and-tina-ready-set-ride.json](./417439-bibi-and-tina-ready-set-ride.json) |
 | Bibi Blocksberg: Big Broom Race 4 | 375406 | [375406-bibi-blocksberg-big-broom-race-4.json](./375406-bibi-blocksberg-big-broom-race-4.json) |
+| Bibi Blocksberg: Das große Hexenbesen-Rennen! | 145936 | [145936-bibi-blocksberg-das-gro-e-hexenbesen-rennen.json](./145936-bibi-blocksberg-das-gro-e-hexenbesen-rennen.json) |
 | Bibi Blocksberg: Der Magische Hexenkreis | 199069 | [199069-bibi-blocksberg-der-magische-hexenkreis.json](./199069-bibi-blocksberg-der-magische-hexenkreis.json) |
 | Bibi Blocksberg: Der verhexte Schloss-Schatz | 148498 | [148498-bibi-blocksberg-der-verhexte-schloss-schatz.json](./148498-bibi-blocksberg-der-verhexte-schloss-schatz.json) |
 | Bibi Blocksberg: Im Bann der Hexenkugel | 81452 | [81452-bibi-blocksberg-im-bann-der-hexenkugel.json](./81452-bibi-blocksberg-im-bann-der-hexenkugel.json) |
