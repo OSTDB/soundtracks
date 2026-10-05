@@ -3190,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kungfu | 274525 | [274525-kungfu.json](./274525-kungfu.json) |
 | Kungfu 2 | 344993 | [344993-kungfu-2.json](./344993-kungfu-2.json) |
 | Kungfu Beggar | 75795 | [75795-kungfu-beggar.json](./75795-kungfu-beggar.json) |
+| Kungfu Cowboy | 145262 | [145262-kungfu-cowboy.json](./145262-kungfu-cowboy.json) |
 | Kungfu Football Captain | 153931 | [153931-kungfu-football-captain.json](./153931-kungfu-football-captain.json) |
 | KungFu Kickball | 121713 | [121713-kungfu-kickball.json](./121713-kungfu-kickball.json) |
 | Kungfu Ragdoll | 214061 | [214061-kungfu-ragdoll.json](./214061-kungfu-ragdoll.json) |
