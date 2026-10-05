@@ -1002,11 +1002,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Berlin BRT | 155146 | [155146-omsi-2-berlin-brt.json](./155146-omsi-2-berlin-brt.json) |
 | OMSI 2: Berlin X10 | 155132 | [155132-omsi-2-berlin-x10.json](./155132-omsi-2-berlin-x10.json) |
 | OMSI 2: Bolloré-Bluebus-Pack Elektro-Bus | 193182 | [193182-omsi-2-bollore-bluebus-pack-elektro-bus.json](./193182-omsi-2-bollore-bluebus-pack-elektro-bus.json) |
+| OMSI 2: Bremen-Nord | 155156 | [155156-omsi-2-bremen-nord.json](./155156-omsi-2-bremen-nord.json) |
 | OMSI 2: Busbetrieb-Simulator | 155140 | [155140-omsi-2-busbetrieb-simulator.json](./155140-omsi-2-busbetrieb-simulator.json) |
 | OMSI 2: C2-Stadtbus-Familie Vol.1 | 155109 | [155109-omsi-2-c2-stadtbus-familie-vol-1.json](./155109-omsi-2-c2-stadtbus-familie-vol-1.json) |
+| OMSI 2: Chicago Downtown | 155154 | [155154-omsi-2-chicago-downtown.json](./155154-omsi-2-chicago-downtown.json) |
 | OMSI 2: City Bus O305 | 155116 | [155116-omsi-2-city-bus-o305.json](./155116-omsi-2-city-bus-o305.json) |
+| OMSI 2: Citybus 628c & 628g LF | 155158 | [155158-omsi-2-citybus-628c-and-628g-lf.json](./155158-omsi-2-citybus-628c-and-628g-lf.json) |
 | OMSI 2: Citybus i260 Series | 155127 | [155127-omsi-2-citybus-i260-series.json](./155127-omsi-2-citybus-i260-series.json) |
 | OMSI 2: Citybus M301 | 193183 | [193183-omsi-2-citybus-m301.json](./193183-omsi-2-citybus-m301.json) |
+| OMSI 2: Citybus O305G | 155153 | [155153-omsi-2-citybus-o305g.json](./155153-omsi-2-citybus-o305g.json) |
 | OMSI 2: Citybus o530 | 286545 | [286545-omsi-2-citybus-o530.json](./286545-omsi-2-citybus-o530.json) |
 | OMSI 2: Citybus S31X | 213326 | [213326-omsi-2-citybus-s31x.json](./213326-omsi-2-citybus-s31x.json) |
 | OMSI 2: Coachbus 250Next | 174139 | [174139-omsi-2-coachbus-250next.json](./174139-omsi-2-coachbus-250next.json) |
@@ -1022,12 +1026,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Downloadpack Vol.4 - KI-Fahrzeuge | 155128 | [155128-omsi-2-downloadpack-vol-4-ki-fahrzeuge.json](./155128-omsi-2-downloadpack-vol-4-ki-fahrzeuge.json) |
 | OMSI 2: Downloadpack Vol.5 - KI-Menschen | 155133 | [155133-omsi-2-downloadpack-vol-5-ki-menschen.json](./155133-omsi-2-downloadpack-vol-5-ki-menschen.json) |
 | OMSI 2: Downloadpack Vol.6 - KI-Menschen | 155136 | [155136-omsi-2-downloadpack-vol-6-ki-menschen.json](./155136-omsi-2-downloadpack-vol-6-ki-menschen.json) |
+| OMSI 2: Downloadpack Vol.8 - KI-Menschen | 155151 | [155151-omsi-2-downloadpack-vol-8-ki-menschen.json](./155151-omsi-2-downloadpack-vol-8-ki-menschen.json) |
 | OMSI 2: Downloadpack Vol.9 - KI-Luxusautos | 155120 | [155120-omsi-2-downloadpack-vol-9-ki-luxusautos.json](./155120-omsi-2-downloadpack-vol-9-ki-luxusautos.json) |
+| OMSI 2: Düsseldorf | 155165 | [155165-omsi-2-dusseldorf.json](./155165-omsi-2-dusseldorf.json) |
 | OMSI 2: Düsseldorf - Linie 721 | 155142 | [155142-omsi-2-dusseldorf-linie-721.json](./155142-omsi-2-dusseldorf-linie-721.json) |
 | OMSI 2: Düsseldorf M2 | 155141 | [155141-omsi-2-dusseldorf-m2.json](./155141-omsi-2-dusseldorf-m2.json) |
+| OMSI 2: E-Bus Hamburg | 155161 | [155161-omsi-2-e-bus-hamburg.json](./155161-omsi-2-e-bus-hamburg.json) |
 | OMSI 2: Express 91.06 | 155129 | [155129-omsi-2-express-91-06.json](./155129-omsi-2-express-91-06.json) |
+| OMSI 2: Grand Paris-Moulon | 155166 | [155166-omsi-2-grand-paris-moulon.json](./155166-omsi-2-grand-paris-moulon.json) |
+| OMSI 2: HafenCity - Hamburg Modern | 155163 | [155163-omsi-2-hafencity-hamburg-modern.json](./155163-omsi-2-hafencity-hamburg-modern.json) |
+| OMSI 2: Hamburg | 155160 | [155160-omsi-2-hamburg.json](./155160-omsi-2-hamburg.json) |
 | OMSI 2: Hamburg Linie 20 | 195764 | [195764-omsi-2-hamburg-linie-20.json](./195764-omsi-2-hamburg-linie-20.json) |
+| OMSI 2: Hamburger Buspaket | 155152 | [155152-omsi-2-hamburger-buspaket.json](./155152-omsi-2-hamburger-buspaket.json) |
 | OMSI 2: Heuliez Bus Pack - GX x37: Diesel Edition | 237624 | [237624-omsi-2-heuliez-bus-pack-gx-x37-diesel-edition.json](./237624-omsi-2-heuliez-bus-pack-gx-x37-diesel-edition.json) |
+| OMSI 2: Heuliez Bus-Pack Access Bus GX327 | 155162 | [155162-omsi-2-heuliez-bus-pack-access-bus-gx327.json](./155162-omsi-2-heuliez-bus-pack-access-bus-gx327.json) |
 | OMSI 2: Heuliez Bus-Pack Generation X17 | 226123 | [226123-omsi-2-heuliez-bus-pack-generation-x17.json](./226123-omsi-2-heuliez-bus-pack-generation-x17.json) |
 | OMSI 2: Irisbus Familie - Citybus Pack | 227196 | [227196-omsi-2-irisbus-familie-citybus-pack.json](./227196-omsi-2-irisbus-familie-citybus-pack.json) |
 | OMSI 2: Irisbus Familie - Low-Entry-Busse | 193181 | [193181-omsi-2-irisbus-familie-low-entry-busse.json](./193181-omsi-2-irisbus-familie-low-entry-busse.json) |
@@ -1043,6 +1055,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Masterbus Gen 3 Pack | 155138 | [155138-omsi-2-masterbus-gen-3-pack.json](./155138-omsi-2-masterbus-gen-3-pack.json) |
 | OMSI 2: Masterbus Veiling Pack | 227198 | [227198-omsi-2-masterbus-veiling-pack.json](./227198-omsi-2-masterbus-veiling-pack.json) |
 | OMSI 2: Metropole Ruhr | 155121 | [155121-omsi-2-metropole-ruhr.json](./155121-omsi-2-metropole-ruhr.json) |
+| OMSI 2: München City | 155155 | [155155-omsi-2-munchen-city.json](./155155-omsi-2-munchen-city.json) |
+| OMSI 2: OmniNavigation | 155159 | [155159-omsi-2-omninavigation.json](./155159-omsi-2-omninavigation.json) |
 | OMSI 2: Projekt Gladbeck | 155148 | [155148-omsi-2-projekt-gladbeck.json](./155148-omsi-2-projekt-gladbeck.json) |
 | OMSI 2: Rheinhausen | 155143 | [155143-omsi-2-rheinhausen.json](./155143-omsi-2-rheinhausen.json) |
 | OMSI 2: Saint-Servan | 155137 | [155137-omsi-2-saint-servan.json](./155137-omsi-2-saint-servan.json) |
@@ -1053,9 +1067,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Studio Polygon Lite Pack | 155149 | [155149-omsi-2-studio-polygon-lite-pack.json](./155149-omsi-2-studio-polygon-lite-pack.json) |
 | OMSI 2: Three Generations | 155112 | [155112-omsi-2-three-generations.json](./155112-omsi-2-three-generations.json) |
 | OMSI 2: Urbino Stadtbusfamilie | 155134 | [155134-omsi-2-urbino-stadtbusfamilie.json](./155134-omsi-2-urbino-stadtbusfamilie.json) |
+| OMSI 2: VanHool Generationen Reihe | 155157 | [155157-omsi-2-vanhool-generationen-reihe.json](./155157-omsi-2-vanhool-generationen-reihe.json) |
 | OMSI 2: Velbert | 155110 | [155110-omsi-2-velbert.json](./155110-omsi-2-velbert.json) |
 | OMSI 2: Vienna | 155119 | [155119-omsi-2-vienna.json](./155119-omsi-2-vienna.json) |
 | OMSI 2: Vienna 1 - Line 24A | 155122 | [155122-omsi-2-vienna-1-line-24a.json](./155122-omsi-2-vienna-1-line-24a.json) |
+| OMSI 2: Vienna 2 - Line 23A | 155164 | [155164-omsi-2-vienna-2-line-23a.json](./155164-omsi-2-vienna-2-line-23a.json) |
+| OMSI 2: Wuppertal | 155167 | [155167-omsi-2-wuppertal.json](./155167-omsi-2-wuppertal.json) |
 | OMSI 2: Wuppertal Buslinie 639 | 155144 | [155144-omsi-2-wuppertal-buslinie-639.json](./155144-omsi-2-wuppertal-buslinie-639.json) |
 | OMSI 2: Yorkshire Counties | 155108 | [155108-omsi-2-yorkshire-counties.json](./155108-omsi-2-yorkshire-counties.json) |
 | Omusubi | 304818 | [304818-omusubi.json](./304818-omusubi.json) |
