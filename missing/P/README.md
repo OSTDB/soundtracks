@@ -2510,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perrengue de escritor | 341894 | [341894-perrengue-de-escritor.json](./341894-perrengue-de-escritor.json) |
 | Perry Rhodan: Operation Eastside | 72100 | [72100-perry-rhodan-operation-eastside.json](./72100-perry-rhodan-operation-eastside.json) |
 | Perry the Pumpkin | 224763 | [224763-perry-the-pumpkin.json](./224763-perry-the-pumpkin.json) |
+| Persephone | 122151 | [122151-persephone.json](./122151-persephone.json) |
 | Perseus | 274767 | [274767-perseus.json](./274767-perseus.json) |
 | Persevera | 264685 | [264685-persevera.json](./264685-persevera.json) |
 | Perseverance | 149218 | [149218-perseverance.json](./149218-perseverance.json) |
@@ -6471,6 +6472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyemisokos | 205572 | [205572-polyemisokos.json](./205572-polyemisokos.json) |
 | Polyfield WW2 | 102148 | [102148-polyfield-ww2.json](./102148-polyfield-ww2.json) |
 | PolyFight | 316278 | [316278-polyfight.json](./316278-polyfight.json) |
+| Polyfuru feat. Asano Ruri | 122215 | [122215-polyfuru-feat-asano-ruri.json](./122215-polyfuru-feat-asano-ruri.json) |
 | Polyfuru feat. Marinasu β | 127179 | [127179-polyfuru-feat-marinasu.json](./127179-polyfuru-feat-marinasu.json) |
 | Polyfuru feat. Miya Kamino | 118290 | [118290-polyfuru-feat-miya-kamino.json](./118290-polyfuru-feat-miya-kamino.json) |
 | Polygeddon: Survive | 248035 | [248035-polygeddon-survive.json](./248035-polygeddon-survive.json) |
@@ -7903,6 +7905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisoner | 81185 | [81185-prisoner.json](./81185-prisoner.json) |
 | Prisoner 17 | 150044 | [150044-prisoner-17.json](./150044-prisoner-17.json) |
 | Prisoner Breaker | 372485 | [372485-prisoner-breaker.json](./372485-prisoner-breaker.json) |
+| Prisoner: The Mystery Complex | 122243 | [122243-prisoner-the-mystery-complex.json](./122243-prisoner-the-mystery-complex.json) |
 | Prisoners | 285470 | [285470-prisoners.json](./285470-prisoners.json) |
 | Prisoners Chess | 416713 | [416713-prisoners-chess.json](./416713-prisoners-chess.json) |
 | Prisoners of Ulag'Bol | 333358 | [333358-prisoners-of-ulagbol.json](./333358-prisoners-of-ulagbol.json) |
