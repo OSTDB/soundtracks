@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragtag Heroes | 211765 | [211765-ragtag-heroes.json](./211765-ragtag-heroes.json) |
 | Ragtag Rescue | 183914 | [183914-ragtag-rescue.json](./183914-ragtag-rescue.json) |
 | Rai-Net Access Battlers | 299721 | [299721-rai-net-access-battlers.json](./299721-rai-net-access-battlers.json) |
+| Raid | 170805 | [170805-raid.json](./170805-raid.json) |
 | Raid 2000 | 30955 | [30955-raid-2000.json](./30955-raid-2000.json) |
 | Raid 2020 | 48211 | [48211-raid-2020.json](./48211-raid-2020.json) |
 | Raid Arena | 313305 | [313305-raid-arena.json](./313305-raid-arena.json) |
@@ -3265,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrojam 3 | 384214 | [384214-retrojam-3.json](./384214-retrojam-3.json) |
 | Retrojam 4 | 384216 | [384216-retrojam-4.json](./384216-retrojam-4.json) |
 | Retrojam I | 314285 | [314285-retrojam-i.json](./314285-retrojam-i.json) |
+| Retrold | 170813 | [170813-retrold.json](./170813-retrold.json) |
 | RetroMania Wrestling | 131604 | [131604-retromania-wrestling.json](./131604-retromania-wrestling.json) |
 | RetroMaze | 99060 | [99060-retromaze.json](./99060-retromaze.json) |
 | Retromine | 382447 | [382447-retromine.json](./382447-retromine.json) |
@@ -4917,6 +4919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock 'N Racing Off Road | 86249 | [86249-rock-n-racing-off-road.json](./86249-rock-n-racing-off-road.json) |
 | Rock 'N Racing Off Road DX | 20959 | [20959-rock-n-racing-off-road-dx.json](./20959-rock-n-racing-off-road-dx.json) |
 | Rock 'N Roll | 90647 | [90647-rock-n-roll.json](./90647-rock-n-roll.json) |
+| Rock 'N Roll: G.E.O.S. Wars | 170880 | [170880-rock-n-roll-g-e-o-s-wars.json](./170880-rock-n-roll-g-e-o-s-wars.json) |
 | Rock 'N' Roll Defense | 33583 | [33583-rock-n-roll-defense.json](./33583-rock-n-roll-defense.json) |
 | Rock 'n' Roll Will Never Die! | 199358 | [199358-rock-n-roll-will-never-die.json](./199358-rock-n-roll-will-never-die.json) |
 | Rock Band | 2685 | [2685-rock-band.json](./2685-rock-band.json) |
