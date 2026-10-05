@@ -1278,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Hit KO | 29218 | [29218-one-hit-ko.json](./29218-one-hit-ko.json) |
 | One Hop Ahead | 390764 | [390764-one-hop-ahead.json](./390764-one-hop-ahead.json) |
 | One Hour And A Straight Line | 278986 | [278986-one-hour-and-a-straight-line.json](./278986-one-hour-and-a-straight-line.json) |
+| One Hour Left | 123951 | [123951-one-hour-left.json](./123951-one-hour-left.json) |
 | One Humanity | 261964 | [261964-one-humanity.json](./261964-one-humanity.json) |
 | One Hundred Times Me | 114818 | [114818-one-hundred-times-me.json](./114818-one-hundred-times-me.json) |
 | One Hundred Ways | 13218 | [13218-one-hundred-ways.json](./13218-one-hundred-ways.json) |
