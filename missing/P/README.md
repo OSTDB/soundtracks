@@ -825,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Angel | 247522 | [247522-paper-angel.json](./247522-paper-angel.json) |
 | Paper Animal Adventure | 204515 | [204515-paper-animal-adventure.json](./204515-paper-animal-adventure.json) |
 | Paper Beast | 117293 | [117293-paper-beast.json](./117293-paper-beast.json) |
+| Paper Beast: Folded Edition | 140295 | [140295-paper-beast-folded-edition.json](./140295-paper-beast-folded-edition.json) |
 | Paper Beast: VR Upgrade for Folded Edition | 381754 | [381754-paper-beast-vr-upgrade-for-folded-edition.json](./381754-paper-beast-vr-upgrade-for-folded-edition.json) |
 | Paper Bleed | 350019 | [350019-paper-bleed.json](./350019-paper-bleed.json) |
 | Paper Boats | 161155 | [161155-paper-boats.json](./161155-paper-boats.json) |
@@ -2809,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmagoria | 221 | [221-phantasmagoria.json](./221-phantasmagoria.json) |
 | Phantasmal Exosteel | 377814 | [377814-phantasmal-exosteel.json](./377814-phantasmal-exosteel.json) |
 | Phantasmal: City of Darkness | 18793 | [18793-phantasmal-city-of-darkness.json](./18793-phantasmal-city-of-darkness.json) |
+| Phantasmat: Crucible Peak | 140316 | [140316-phantasmat-crucible-peak.json](./140316-phantasmat-crucible-peak.json) |
 | Phantasmat: Crucible Peak - Collector's Edition | 31066 | [31066-phantasmat-crucible-peak-collectors-edition.json](./31066-phantasmat-crucible-peak-collectors-edition.json) |
 | Phantasmat: Death in Hardcover | 187924 | [187924-phantasmat-death-in-hardcover.json](./187924-phantasmat-death-in-hardcover.json) |
 | Phantasmat: Death in Hardcover - Collector’s Edition | 234556 | [234556-phantasmat-death-in-hardcover-collector-s-edition.json](./234556-phantasmat-death-in-hardcover-collector-s-edition.json) |
@@ -2816,6 +2818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmat: Remains of Buried Memories - Collector's Edition | 234557 | [234557-phantasmat-remains-of-buried-memories-collectors-edition.json](./234557-phantasmat-remains-of-buried-memories-collectors-edition.json) |
 | Phantasmat: The Dread of Oakville | 101551 | [101551-phantasmat-the-dread-of-oakville.json](./101551-phantasmat-the-dread-of-oakville.json) |
 | Phantasmat: The Dread of Oakville - Collector's Edition | 110156 | [110156-phantasmat-the-dread-of-oakville-collectors-edition.json](./110156-phantasmat-the-dread-of-oakville-collectors-edition.json) |
+| Phantasmat: The Endless Night | 140317 | [140317-phantasmat-the-endless-night.json](./140317-phantasmat-the-endless-night.json) |
 | Phantasmat: The Endless Night HD | 108258 | [108258-phantasmat-the-endless-night-hd.json](./108258-phantasmat-the-endless-night-hd.json) |
 | Phantasos Now | 363059 | [363059-phantasos-now.json](./363059-phantasos-now.json) |
 | Phantasy Series Reference Opus | 285442 | [285442-phantasy-series-reference-opus.json](./285442-phantasy-series-reference-opus.json) |
@@ -5657,6 +5660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poke Mission 97 | 322761 | [322761-poke-mission-97.json](./322761-poke-mission-97.json) |
 | Poke the Stray Cat | 221703 | [221703-poke-the-stray-cat.json](./221703-poke-the-stray-cat.json) |
 | Poke-Man | 25149 | [25149-poke-man.json](./25149-poke-man.json) |
+| Poke646 | 140318 | [140318-poke646.json](./140318-poke646.json) |
 | Poke646: Anniversary Edition | 136386 | [136386-poke646-anniversary-edition.json](./136386-poke646-anniversary-edition.json) |
 | Pokecolo | 269069 | [269069-pokecolo.json](./269069-pokecolo.json) |
 | Poked | 76965 | [76965-poked.json](./76965-poked.json) |
@@ -6732,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popgoes | 186033 | [186033-popgoes.json](./186033-popgoes.json) |
 | Popgoes and the Machinist | 231093 | [231093-popgoes-and-the-machinist.json](./231093-popgoes-and-the-machinist.json) |
 | Popgoes Arcade | 136256 | [136256-popgoes-arcade.json](./136256-popgoes-arcade.json) |
+| Popgoes Arcade | 140319 | [140319-popgoes-arcade.json](./140319-popgoes-arcade.json) |
 | Popgoes Arcade: Fighting Chance | 306983 | [306983-popgoes-arcade-fighting-chance.json](./306983-popgoes-arcade-fighting-chance.json) |
 | Popgoes Evergreen | 234342 | [234342-popgoes-evergreen.json](./234342-popgoes-evergreen.json) |
 | Popgoes: Lost Dreams | 250606 | [250606-popgoes-lost-dreams.json](./250606-popgoes-lost-dreams.json) |
@@ -7691,6 +7696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Nom Nom | 261999 | [261999-princess-nom-nom.json](./261999-princess-nom-nom.json) |
 | Princess of Mekana | 245816 | [245816-princess-of-mekana.json](./245816-princess-of-mekana.json) |
 | Princess of Seas | 201702 | [201702-princess-of-seas.json](./201702-princess-of-seas.json) |
+| Princess of Tavern | 140320 | [140320-princess-of-tavern.json](./140320-princess-of-tavern.json) |
 | Princess of the Moon Ultimate | 200547 | [200547-princess-of-the-moon-ultimate.json](./200547-princess-of-the-moon-ultimate.json) |
 | Princess of the Tomb | 353862 | [353862-princess-of-the-tomb.json](./353862-princess-of-the-tomb.json) |
 | Princess of Zeven | 116165 | [116165-princess-of-zeven.json](./116165-princess-of-zeven.json) |
@@ -8172,6 +8178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Adder | 266433 | [266433-project-adder.json](./266433-project-adder.json) |
 | Project Aeroes | 330342 | [330342-project-aeroes.json](./330342-project-aeroes.json) |
 | Project Aftershock | 94753 | [94753-project-aftershock.json](./94753-project-aftershock.json) |
+| Project Agora | 140326 | [140326-project-agora.json](./140326-project-agora.json) |
 | Project Alpha 002 | 30943 | [30943-project-alpha-002.json](./30943-project-alpha-002.json) |
 | Project Angels | 203310 | [203310-project-angels.json](./203310-project-angels.json) |
 | Project Anomaly | 193952 | [193952-project-anomaly.json](./193952-project-anomaly.json) |
@@ -8207,6 +8214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Blur | 372086 | [372086-project-blur.json](./372086-project-blur.json) |
 | Project Breach Online | 208965 | [208965-project-breach-online.json](./208965-project-breach-online.json) |
 | Project Bridge | 187432 | [187432-project-bridge.json](./187432-project-bridge.json) |
+| Project Brutality | 140298 | [140298-project-brutality.json](./140298-project-brutality.json) |
 | Project Bubblegum | 290607 | [290607-project-bubblegum.json](./290607-project-bubblegum.json) |
 | Project Cairo | 297475 | [297475-project-cairo.json](./297475-project-cairo.json) |
 | Project Canopy | 144090 | [144090-project-canopy.json](./144090-project-canopy.json) |
