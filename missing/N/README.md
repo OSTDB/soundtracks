@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Navy | 29482 | [29482-neko-navy.json](./29482-neko-navy.json) |
 | Neko Navy: Daydream Edition | 110318 | [110318-neko-navy-daydream-edition.json](./110318-neko-navy-daydream-edition.json) |
 | Neko Neko | 219036 | [219036-neko-neko.json](./219036-neko-neko.json) |
+| Neko Neko Bakery DS | 130697 | [130697-neko-neko-bakery-ds.json](./130697-neko-neko-bakery-ds.json) |
 | Neko Neko Nihonshi: Rekishi Hakken Puzzle! | 222536 | [222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json](./222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json) |
 | Neko Neko Rampage | 231304 | [231304-neko-neko-rampage.json](./231304-neko-neko-rampage.json) |
 | Neko Night | 222912 | [222912-neko-night.json](./222912-neko-night.json) |
@@ -1765,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Fortress | 130875 | [130875-new-fortress.json](./130875-new-fortress.json) |
 | New FreeCell Solitaire HD | 232369 | [232369-new-freecell-solitaire-hd.json](./232369-new-freecell-solitaire-hd.json) |
 | New Frontier | 120855 | [120855-new-frontier.json](./120855-new-frontier.json) |
+| New Frontier: Zombies | 130787 | [130787-new-frontier-zombies.json](./130787-new-frontier-zombies.json) |
 | New Ganymede | 266783 | [266783-new-ganymede.json](./266783-new-ganymede.json) |
 | New Ghostbusters II | 3658 | [3658-new-ghostbusters-ii.json](./3658-new-ghostbusters-ii.json) |
 | New Gundam Breaker: Build G Sound Edition | 136768 | [136768-new-gundam-breaker-build-g-sound-edition.json](./136768-new-gundam-breaker-build-g-sound-edition.json) |
