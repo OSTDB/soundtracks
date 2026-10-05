@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Wars: So Long, My Love | 5136 | [5136-sakura-wars-so-long-my-love.json](./5136-sakura-wars-so-long-my-love.json) |
 | Sakura X Clash: Last Millennial Spring | 213603 | [213603-sakura-x-clash-last-millennial-spring.json](./213603-sakura-x-clash-last-millennial-spring.json) |
 | Sakura-iro Tetra Prism | 325451 | [325451-sakura-iro-tetra-prism.json](./325451-sakura-iro-tetra-prism.json) |
+| Sakura-sou no Pet na Kanojo | 139742 | [139742-sakura-sou-no-pet-na-kanojo.json](./139742-sakura-sou-no-pet-na-kanojo.json) |
 | Sakura, Moyu.: As the Night's, Reincarnation | 137106 | [137106-sakura-moyu-as-the-nights-reincarnation.json](./137106-sakura-moyu-as-the-nights-reincarnation.json) |
 | Sakuraba Ema's Intertwining Threshold | 418771 | [418771-sakuraba-emas-intertwining-threshold.json](./418771-sakuraba-emas-intertwining-threshold.json) |
 | Sakurairo Prism | 234149 | [234149-sakurairo-prism.json](./234149-sakurairo-prism.json) |
@@ -3732,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Wolf Mysteries: Cursed Wedding - Collector's Edition | 99620 | [99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json](./99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json) |
 | Shadow Wolf Mysteries: Cursed Wedding & Shadow Wolf Mysteries: Under the Crimson Moon | 201811 | [201811-shadow-wolf-mysteries-cursed-wedding-and-shadow-wolf-mysteries-under-the-crimson-moon.json](./201811-shadow-wolf-mysteries-cursed-wedding-and-shadow-wolf-mysteries-under-the-crimson-moon.json) |
 | Shadow Wolf Mysteries: Tracks of Terror | 101966 | [101966-shadow-wolf-mysteries-tracks-of-terror.json](./101966-shadow-wolf-mysteries-tracks-of-terror.json) |
+| Shadow Wolf Mysteries: Under the Crimson Moon | 139738 | [139738-shadow-wolf-mysteries-under-the-crimson-moon.json](./139738-shadow-wolf-mysteries-under-the-crimson-moon.json) |
 | Shadow Wolf Mysteries: Under the Crimson Moon - Collector's Edition | 112471 | [112471-shadow-wolf-mysteries-under-the-crimson-moon-collectors-edition.json](./112471-shadow-wolf-mysteries-under-the-crimson-moon-collectors-edition.json) |
 | Shadow Wrangler | 180613 | [180613-shadow-wrangler.json](./180613-shadow-wrangler.json) |
 | Shadow X Dash: Ring Collector | 104461 | [104461-shadow-x-dash-ring-collector.json](./104461-shadow-x-dash-ring-collector.json) |
@@ -4494,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: 20XX Devil's Colosseum | 137685 | [137685-shin-megami-tensei-20xx-devils-colosseum.json](./137685-shin-megami-tensei-20xx-devils-colosseum.json) |
 | Shin Megami Tensei: Devil Children - Black/Red Book | 77958 | [77958-shin-megami-tensei-devil-children-black-red-book.json](./77958-shin-megami-tensei-devil-children-black-red-book.json) |
 | Shin Megami Tensei: Devil Children - Koori no Sho | 92475 | [92475-shin-megami-tensei-devil-children-koori-no-sho.json](./92475-shin-megami-tensei-devil-children-koori-no-sho.json) |
+| Shin Megami Tensei: Devil Hunter Zero | 139762 | [139762-shin-megami-tensei-devil-hunter-zero.json](./139762-shin-megami-tensei-devil-hunter-zero.json) |
 | Shin Megami Tensei: Devil Summoner | 357453 | [357453-shin-megami-tensei-devil-summoner.json](./357453-shin-megami-tensei-devil-summoner.json) |
 | Shin Megami Tensei: Devil Summoner - Soul Hackers | 281414 | [281414-shin-megami-tensei-devil-summoner-soul-hackers.json](./281414-shin-megami-tensei-devil-summoner-soul-hackers.json) |
 | Shin Megami Tensei: Devil Summoner Digital Collection | 146785 | [146785-shin-megami-tensei-devil-summoner-digital-collection.json](./146785-shin-megami-tensei-devil-summoner-digital-collection.json) |
@@ -4771,7 +4774,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shitsuji ga Aruji wo Erabu Toki | 216245 | [216245-shitsuji-ga-aruji-wo-erabu-toki.json](./216245-shitsuji-ga-aruji-wo-erabu-toki.json) |
 | Shivah | 7418 | [7418-shivah.json](./7418-shivah.json) |
 | Shiver 3D | 152771 | [152771-shiver-3d.json](./152771-shiver-3d.json) |
+| Shiver: Poltergeist | 139739 | [139739-shiver-poltergeist.json](./139739-shiver-poltergeist.json) |
 | Shiver: Poltergeist - Collector's Edition | 30895 | [30895-shiver-poltergeist-collectors-edition.json](./30895-shiver-poltergeist-collectors-edition.json) |
+| Shiver: The Lily's Requiem | 139740 | [139740-shiver-the-lilys-requiem.json](./139740-shiver-the-lilys-requiem.json) |
 | Shivering Hearts | 135786 | [135786-shivering-hearts.json](./135786-shivering-hearts.json) |
 | Shivering Stone | 274484 | [274484-shivering-stone.json](./274484-shivering-stone.json) |
 | Shiya | 178600 | [178600-shiya.json](./178600-shiya.json) |
@@ -5205,6 +5210,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrouded Aspect | 345146 | [345146-shrouded-aspect.json](./345146-shrouded-aspect.json) |
 | Shrouded Siege | 374052 | [374052-shrouded-siege.json](./374052-shrouded-siege.json) |
 | Shrouded Space | 300335 | [300335-shrouded-space.json](./300335-shrouded-space.json) |
+| Shrouded Tales: Revenge of Shadows | 139741 | [139741-shrouded-tales-revenge-of-shadows.json](./139741-shrouded-tales-revenge-of-shadows.json) |
+| Shrouded Tales: The Spellbound Land | 139743 | [139743-shrouded-tales-the-spellbound-land.json](./139743-shrouded-tales-the-spellbound-land.json) |
 | Shtdn | 202225 | [202225-shtdn.json](./202225-shtdn.json) |
 | SHTF | 55980 | [55980-shtf.json](./55980-shtf.json) |
 | Shtriga: Summer Camp | 30381 | [30381-shtriga-summer-camp.json](./30381-shtriga-summer-camp.json) |
@@ -9795,6 +9802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer Smackdown | 310099 | [310099-sorcerer-smackdown.json](./310099-sorcerer-smackdown.json) |
 | Sorcerer Standoff | 219590 | [219590-sorcerer-standoff.json](./219590-sorcerer-standoff.json) |
 | Sorcerer's Bane | 356842 | [356842-sorcerers-bane.json](./356842-sorcerers-bane.json) |
+| Sorcerer's Cave | 139761 | [139761-sorcerers-cave.json](./139761-sorcerers-cave.json) |
 | Sorcerer's Choice: Angel or Demon? | 237537 | [237537-sorcerers-choice-angel-or-demon.json](./237537-sorcerers-choice-angel-or-demon.json) |
 | Sorcerer's Choice: Angel or Demon? Steam Version | 246657 | [246657-sorcerers-choice-angel-or-demon-steam-version.json](./246657-sorcerers-choice-angel-or-demon-steam-version.json) |
 | Sorcerer's Kingdom | 46197 | [46197-sorcerers-kingdom.json](./46197-sorcerers-kingdom.json) |
@@ -18282,9 +18290,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface Tension | 92822 | [92822-surface-tension.json](./92822-surface-tension.json) |
 | Surface: Alone in the Mist | 26712 | [26712-surface-alone-in-the-mist.json](./26712-surface-alone-in-the-mist.json) |
 | Surface: Alone in the Mist - Collector's Edition | 89943 | [89943-surface-alone-in-the-mist-collectors-edition.json](./89943-surface-alone-in-the-mist-collectors-edition.json) |
+| Surface: Game of Gods | 139746 | [139746-surface-game-of-gods.json](./139746-surface-game-of-gods.json) |
 | Surface: Project Dawn | 102812 | [102812-surface-project-dawn.json](./102812-surface-project-dawn.json) |
+| Surface: Reel Life | 139747 | [139747-surface-reel-life.json](./139747-surface-reel-life.json) |
 | Surface: Return to Another World | 91346 | [91346-surface-return-to-another-world.json](./91346-surface-return-to-another-world.json) |
 | Surface: The Noise She Couldn't Make | 139919 | [139919-surface-the-noise-she-couldnt-make.json](./139919-surface-the-noise-she-couldnt-make.json) |
+| Surface: The Pantheon | 139748 | [139748-surface-the-pantheon.json](./139748-surface-the-pantheon.json) |
+| Surface: The Soaring City | 139749 | [139749-surface-the-soaring-city.json](./139749-surface-the-soaring-city.json) |
 | Surface: Virtual Detective | 187925 | [187925-surface-virtual-detective.json](./187925-surface-virtual-detective.json) |
 | Surface: Virtual Detective - Collector's Edition | 166076 | [166076-surface-virtual-detective-collectors-edition.json](./166076-surface-virtual-detective-collectors-edition.json) |
 | Surfacer+ | 85529 | [85529-surfacer.json](./85529-surfacer.json) |
