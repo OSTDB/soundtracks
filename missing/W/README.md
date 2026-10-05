@@ -1105,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors: Legends of Troy | 7244 | [7244-warriors-legends-of-troy.json](./7244-warriors-legends-of-troy.json) |
 | Wars Across the World | 35987 | [35987-wars-across-the-world.json](./35987-wars-across-the-world.json) |
 | Wars Across the World: Agathocles 312 | 193190 | [193190-wars-across-the-world-agathocles-312.json](./193190-wars-across-the-world-agathocles-312.json) |
+| Wars Across the World: Berlin 1945 | 159634 | [159634-wars-across-the-world-berlin-1945.json](./159634-wars-across-the-world-berlin-1945.json) |
 | Wars Across the World: Bulgaria 1913 | 350611 | [350611-wars-across-the-world-bulgaria-1913.json](./350611-wars-across-the-world-bulgaria-1913.json) |
 | Wars across the World: Bulge 1944 | 150510 | [150510-wars-across-the-world-bulge-1944.json](./150510-wars-across-the-world-bulge-1944.json) |
 | Wars Across the World: Carrhae 53 | 156096 | [156096-wars-across-the-world-carrhae-53.json](./156096-wars-across-the-world-carrhae-53.json) |
@@ -1113,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars Across The World: Dacia 101 | 276416 | [276416-wars-across-the-world-dacia-101.json](./276416-wars-across-the-world-dacia-101.json) |
 | Wars Across the World: Dublin 1916 | 193189 | [193189-wars-across-the-world-dublin-1916.json](./193189-wars-across-the-world-dublin-1916.json) |
 | Wars Across the World: Expanded Collection | 53922 | [53922-wars-across-the-world-expanded-collection.json](./53922-wars-across-the-world-expanded-collection.json) |
+| Wars Across the World: Gulf 1990 | 159633 | [159633-wars-across-the-world-gulf-1990.json](./159633-wars-across-the-world-gulf-1990.json) |
 | Wars Across the World: Manchuria 1945 | 193191 | [193191-wars-across-the-world-manchuria-1945.json](./193191-wars-across-the-world-manchuria-1945.json) |
 | Wars Across The World: Namibia 1915 | 292644 | [292644-wars-across-the-world-namibia-1915.json](./292644-wars-across-the-world-namibia-1915.json) |
 | Wars Across the World: Sepoy 1857 | 212228 | [212228-wars-across-the-world-sepoy-1857.json](./212228-wars-across-the-world-sepoy-1857.json) |
@@ -1399,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waves ! | 104097 | [104097-waves.json](./104097-waves.json) |
 | Waves of Chess | 383496 | [383496-waves-of-chess.json](./383496-waves-of-chess.json) |
 | Waves of Death VR | 132229 | [132229-waves-of-death-vr.json](./132229-waves-of-death-vr.json) |
+| Waves of Rotting Flesh | 159785 | [159785-waves-of-rotting-flesh.json](./159785-waves-of-rotting-flesh.json) |
 | Waves of Steel | 146091 | [146091-waves-of-steel.json](./146091-waves-of-steel.json) |
 | Waves of the Imperial Garden | 343810 | [343810-waves-of-the-imperial-garden.json](./343810-waves-of-the-imperial-garden.json) |
 | Waves Out! | 142855 | [142855-waves-out.json](./142855-waves-out.json) |
@@ -4319,6 +4322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Empire III | 79578 | [79578-world-empire-iii.json](./79578-world-empire-iii.json) |
 | World Empire IV | 73753 | [73753-world-empire-iv.json](./73753-world-empire-iv.json) |
 | World End | 40746 | [40746-world-end.json](./40746-world-end.json) |
+| World End Coed | 159763 | [159763-world-end-coed.json](./159763-world-end-coed.json) |
 | World End Girlfriend | 207204 | [207204-world-end-girlfriend.json](./207204-world-end-girlfriend.json) |
 | World Ends Wednesday | 264144 | [264144-world-ends-wednesday.json](./264144-world-ends-wednesday.json) |
 | World Enduro Rally | 111671 | [111671-world-enduro-rally.json](./111671-world-enduro-rally.json) |
