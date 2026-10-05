@@ -1813,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pax Imperia | 95439 | [95439-pax-imperia.json](./95439-pax-imperia.json) |
 | Pax Imperia: Eminent Domain | 24261 | [24261-pax-imperia-eminent-domain.json](./24261-pax-imperia-eminent-domain.json) |
 | Pax Nova | 111043 | [111043-pax-nova.json](./111043-pax-nova.json) |
+| Pax Nova: Beyond the Rift | 170907 | [170907-pax-nova-beyond-the-rift.json](./170907-pax-nova-beyond-the-rift.json) |
 | Pax Nova: Tech Supremacy | 193223 | [193223-pax-nova-tech-supremacy.json](./193223-pax-nova-tech-supremacy.json) |
 | Pax Romana | 115512 | [115512-pax-romana.json](./115512-pax-romana.json) |
 | Pax Romana: Romulus | 70076 | [70076-pax-romana-romulus.json](./70076-pax-romana-romulus.json) |
@@ -6768,7 +6769,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Hunter | 373623 | [373623-portal-hunter.json](./373623-portal-hunter.json) |
 | Portal Knights | 20392 | [20392-portal-knights.json](./20392-portal-knights.json) |
 | Portal Knights: Druids, Furfolk, and Relic Defense | 164772 | [164772-portal-knights-druids-furfolk-and-relic-defense.json](./164772-portal-knights-druids-furfolk-and-relic-defense.json) |
+| Portal Knights: Elves, Rogues, and Rifts | 170872 | [170872-portal-knights-elves-rogues-and-rifts.json](./170872-portal-knights-elves-rogues-and-rifts.json) |
 | Portal Knights: Legendary Edition | 166156 | [166156-portal-knights-legendary-edition.json](./166156-portal-knights-legendary-edition.json) |
+| Portal Knights: Portal Pioneer Pack | 170873 | [170873-portal-knights-portal-pioneer-pack.json](./170873-portal-knights-portal-pioneer-pack.json) |
 | Portal Panic | 268001 | [268001-portal-panic.json](./268001-portal-panic.json) |
 | Portal Pro | 284358 | [284358-portal-pro.json](./284358-portal-pro.json) |
 | Portal Puzzle | 270111 | [270111-portal-puzzle.json](./270111-portal-puzzle.json) |
@@ -8736,6 +8739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSI: Pressure Climbing | 276964 | [276964-psi-pressure-climbing.json](./276964-psi-pressure-climbing.json) |
 | Psichodelya | 17406 | [17406-psichodelya.json](./17406-psichodelya.json) |
 | Psicose? | 129235 | [129235-psicose.json](./129235-psicose.json) |
+| Psikodelya: The Mansion of Madness | 170895 | [170895-psikodelya-the-mansion-of-madness.json](./170895-psikodelya-the-mansion-of-madness.json) |
 | Psikyo Collection Vol. 2 | 112290 | [112290-psikyo-collection-vol-2.json](./112290-psikyo-collection-vol-2.json) |
 | Psikyo Shooting Library Vol. 1 | 136837 | [136837-psikyo-shooting-library-vol-1.json](./136837-psikyo-shooting-library-vol-1.json) |
 | Psikyo Shooting Stars Alpha: Limited Edition | 136264 | [136264-psikyo-shooting-stars-alpha-limited-edition.json](./136264-psikyo-shooting-stars-alpha-limited-edition.json) |
@@ -9127,6 +9131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pupple Pop | 390192 | [390192-pupple-pop.json](./390192-pupple-pop.json) |
 | Puppy Balloon Ride | 213392 | [213392-puppy-balloon-ride.json](./213392-puppy-balloon-ride.json) |
 | Puppy Cars: Games for Kids Edition, Animal adventure | 309039 | [309039-puppy-cars-games-for-kids-edition-animal-adventure.json](./309039-puppy-cars-games-for-kids-edition-animal-adventure.json) |
+| Puppy Cross: Kitty Cross | 170875 | [170875-puppy-cross-kitty-cross.json](./170875-puppy-cross-kitty-cross.json) |
 | Puppy Dentist | 106357 | [106357-puppy-dentist.json](./106357-puppy-dentist.json) |
 | Puppy Drome | 260669 | [260669-puppy-drome.json](./260669-puppy-drome.json) |
 | Puppy Link: Tile Connect | 379023 | [379023-puppy-link-tile-connect.json](./379023-puppy-link-tile-connect.json) |
