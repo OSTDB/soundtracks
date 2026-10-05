@@ -1754,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ontranto | 277955 | [277955-ontranto.json](./277955-ontranto.json) |
 | Onward and Upward! DX | 279852 | [279852-onward-and-upward-dx.json](./279852-onward-and-upward-dx.json) |
 | Onward to walls! | 176268 | [176268-onward-to-walls.json](./176268-onward-to-walls.json) |
+| Onyx | 131338 | [131338-onyx.json](./131338-onyx.json) |
 | oO | 35316 | [35316-oo.json](./35316-oo.json) |
 | Oo-Topos | 25611 | [25611-oo-topos.json](./25611-oo-topos.json) |
 | OOG: The Object Orientation Game | 69545 | [69545-oog-the-object-orientation-game.json](./69545-oog-the-object-orientation-game.json) |
