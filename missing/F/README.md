@@ -6593,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontera | 253568 | [253568-frontera.json](./253568-frontera.json) |
 | Frontier | 162905 | [162905-frontier.json](./162905-frontier.json) |
 | Frontier | 345638 | [345638-frontier.json](./345638-frontier.json) |
+| Frontier Army 1644 | 154060 | [154060-frontier-army-1644.json](./154060-frontier-army-1644.json) |
 | Frontier Brain | 376129 | [376129-frontier-brain.json](./376129-frontier-brain.json) |
 | Frontier Days: Founding Pioneers | 85165 | [85165-frontier-days-founding-pioneers.json](./85165-frontier-days-founding-pioneers.json) |
 | Frontier Diver Progenexis | 177342 | [177342-frontier-diver-progenexis.json](./177342-frontier-diver-progenexis.json) |
