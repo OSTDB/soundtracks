@@ -2979,6 +2979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her3 : The Light of Paradise Regained | 393461 | [393461-her3-the-light-of-paradise-regained.json](./393461-her3-the-light-of-paradise-regained.json) |
 | Heracles - Battle of the Gods | 54098 | [54098-heracles-battle-of-the-gods.json](./54098-heracles-battle-of-the-gods.json) |
 | Heracles no Eikou II: Titan no Metsubou | 48619 | [48619-heracles-no-eikou-ii-titan-no-metsubou.json](./48619-heracles-no-eikou-ii-titan-no-metsubou.json) |
+| Heracles no Eikou: Ugokidashita Kamigami | 129545 | [129545-heracles-no-eikou-ugokidashita-kamigami.json](./129545-heracles-no-eikou-ugokidashita-kamigami.json) |
 | Herakles and The Princess of Troy | 119090 | [119090-herakles-and-the-princess-of-troy.json](./119090-herakles-and-the-princess-of-troy.json) |
 | Herald of Havoc | 211276 | [211276-herald-of-havoc.json](./211276-herald-of-havoc.json) |
 | Herald of the Mists | 310501 | [310501-herald-of-the-mists.json](./310501-herald-of-the-mists.json) |
@@ -3142,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Staff | 113655 | [113655-hero-staff.json](./113655-hero-staff.json) |
 | Hero Stickman | 346653 | [346653-hero-stickman.json](./346653-hero-stickman.json) |
 | Hero Sword | 299399 | [299399-hero-sword.json](./299399-hero-sword.json) |
+| Hero Syndrome | 129522 | [129522-hero-syndrome.json](./129522-hero-syndrome.json) |
 | Hero Tactics | 181921 | [181921-hero-tactics.json](./181921-hero-tactics.json) |
 | Hero Tower | 132746 | [132746-hero-tower.json](./132746-hero-tower.json) |
 | Hero Tower Wars | 340537 | [340537-hero-tower-wars.json](./340537-hero-tower-wars.json) |
