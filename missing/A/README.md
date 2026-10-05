@@ -2315,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ahro | 190479 | [190479-ahro.json](./190479-ahro.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
 | AHTS Ship Simulator | 44207 | [44207-ahts-ship-simulator.json](./44207-ahts-ship-simulator.json) |
+| AI Alpha Cat | 129524 | [129524-ai-alpha-cat.json](./129524-ai-alpha-cat.json) |
 | AI Battle Royale Generator | 148364 | [148364-ai-battle-royale-generator.json](./148364-ai-battle-royale-generator.json) |
 | AI Confidential | 304595 | [304595-ai-confidential.json](./304595-ai-confidential.json) |
 | Ai Dawn | 368678 | [368678-ai-dawn.json](./368678-ai-dawn.json) |
@@ -8749,6 +8750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack Force | 250497 | [250497-attack-force.json](./250497-attack-force.json) |
 | Attack from Mars | 217825 | [217825-attack-from-mars.json](./217825-attack-from-mars.json) |
 | Attack From Mars | 91434 | [91434-attack-from-mars.json](./91434-attack-from-mars.json) |
+| Attack of the alien thingies from lava! | 129617 | [129617-attack-of-the-alien-thingies-from-lava.json](./129617-attack-of-the-alien-thingies-from-lava.json) |
 | Attack of the Creeps | 72054 | [72054-attack-of-the-creeps.json](./72054-attack-of-the-creeps.json) |
 | Attack of The Dead | 379986 | [379986-attack-of-the-dead.json](./379986-attack-of-the-dead.json) |
 | Attack of the Earthlings | 36972 | [36972-attack-of-the-earthlings.json](./36972-attack-of-the-earthlings.json) |
