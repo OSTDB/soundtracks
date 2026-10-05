@@ -2691,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remembrance | 181889 | [181889-remembrance.json](./181889-remembrance.json) |
 | Remembrance | 82917 | [82917-remembrance.json](./82917-remembrance.json) |
 | Rememento: White Shadow | 371316 | [371316-rememento-white-shadow.json](./371316-rememento-white-shadow.json) |
+| Rememory | 126380 | [126380-rememory.json](./126380-rememory.json) |
 | Rememory | 205102 | [205102-rememory.json](./205102-rememory.json) |
 | RememPair | 349304 | [349304-remempair.json](./349304-remempair.json) |
 | Remi | 388700 | [388700-remi.json](./388700-remi.json) |
@@ -2951,6 +2952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Rover 2 | 72110 | [72110-rescue-rover-2.json](./72110-rescue-rover-2.json) |
 | Rescue Rover Collection | 150692 | [150692-rescue-rover-collection.json](./150692-rescue-rover-collection.json) |
 | Rescue Squad | 24006 | [24006-rescue-squad.json](./24006-rescue-squad.json) |
+| Rescue Tale | 126485 | [126485-rescue-tale.json](./126485-rescue-tale.json) |
 | Rescue Team | 36019 | [36019-rescue-team.json](./36019-rescue-team.json) |
 | Rescue Team 4 | 53502 | [53502-rescue-team-4.json](./53502-rescue-team-4.json) |
 | Rescue Team 6 | 53503 | [53503-rescue-team-6.json](./53503-rescue-team-6.json) |
@@ -5373,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roger Rabbit | 153448 | [153448-roger-rabbit.json](./153448-roger-rabbit.json) |
 | Rogo | 112922 | [112922-rogo.json](./112922-rogo.json) |
 | Rogolf | 358468 | [358468-rogolf.json](./358468-rogolf.json) |
+| Rogue | 126478 | [126478-rogue.json](./126478-rogue.json) |
 | Rogue | 183032 | [183032-rogue.json](./183032-rogue.json) |
 | Rogue 'n' Roll: Dice of Fate | 400466 | [400466-rogue-n-roll-dice-of-fate.json](./400466-rogue-n-roll-dice-of-fate.json) |
 | Rogue Aces | 84848 | [84848-rogue-aces.json](./84848-rogue-aces.json) |
