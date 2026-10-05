@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshimoto Mahjong Club | 382990 | [382990-yoshimoto-mahjong-club.json](./382990-yoshimoto-mahjong-club.json) |
 | Yoshinoya | 43426 | [43426-yoshinoya.json](./43426-yoshinoya.json) |
 | Yoshiwara | 328615 | [328615-yoshiwara.json](./328615-yoshiwara.json) |
+| Yoshiwara Higanbana | 153489 | [153489-yoshiwara-higanbana.json](./153489-yoshiwara-higanbana.json) |
 | Yoshiwara Higanbana: Kuon no Chigiri | 110335 | [110335-yoshiwara-higanbana-kuon-no-chigiri.json](./110335-yoshiwara-higanbana-kuon-no-chigiri.json) |
 | Yosumin! | 9309 | [9309-yosumin.json](./9309-yosumin.json) |
 | Yots | 408062 | [408062-yots.json](./408062-yots.json) |
