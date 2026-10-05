@@ -7581,6 +7581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Drain | 210268 | [210268-brain-drain.json](./210268-brain-drain.json) |
 | Brain Escape | 267488 | [267488-brain-escape.json](./267488-brain-escape.json) |
 | Brain Exercises With Dr. Kawashima | 20278 | [20278-brain-exercises-with-dr-kawashima.json](./20278-brain-exercises-with-dr-kawashima.json) |
+| Brain Games | 167193 | [167193-brain-games.json](./167193-brain-games.json) |
 | Brain Games Mahjongg | 25011 | [25011-brain-games-mahjongg.json](./25011-brain-games-mahjongg.json) |
 | Brain Hack Squad | 350026 | [350026-brain-hack-squad.json](./350026-brain-hack-squad.json) |
 | Brain Hole Girls | 242488 | [242488-brain-hole-girls.json](./242488-brain-hole-girls.json) |
@@ -8973,6 +8974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Express | 185477 | [185477-bullet-express.json](./185477-bullet-express.json) |
 | Bullet Fractals | 181894 | [181894-bullet-fractals.json](./181894-bullet-fractals.json) |
 | Bullet Frenzy | 269041 | [269041-bullet-frenzy.json](./269041-bullet-frenzy.json) |
+| Bullet Girls Phantasia: Limited Edition | 167120 | [167120-bullet-girls-phantasia-limited-edition.json](./167120-bullet-girls-phantasia-limited-edition.json) |
 | Bullet Grinder | 190952 | [190952-bullet-grinder.json](./190952-bullet-grinder.json) |
 | Bullet Heck | 245790 | [245790-bullet-heck.json](./245790-bullet-heck.json) |
 | Bullet Heli | 176463 | [176463-bullet-heli.json](./176463-bullet-heli.json) |
