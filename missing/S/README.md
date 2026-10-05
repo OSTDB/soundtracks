@@ -1663,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolgirl Card Pull Simulator | 394559 | [394559-schoolgirl-card-pull-simulator.json](./394559-schoolgirl-card-pull-simulator.json) |
 | Schoolgirl Tournament Fighting | 60086 | [60086-schoolgirl-tournament-fighting.json](./60086-schoolgirl-tournament-fighting.json) |
 | Schoolhouse Rock!: America Rock | 113469 | [113469-schoolhouse-rock-america-rock.json](./113469-schoolhouse-rock-america-rock.json) |
+| Schoolhouse Rock!: Math Rock | 142707 | [142707-schoolhouse-rock-math-rock.json](./142707-schoolhouse-rock-math-rock.json) |
 | SchoolMate | 22464 | [22464-schoolmate.json](./22464-schoolmate.json) |
 | SchoolMate Sweets! | 22466 | [22466-schoolmate-sweets.json](./22466-schoolmate-sweets.json) |
 | Schoolmates - The Mystery of the Magic Bracelet | 54347 | [54347-schoolmates-the-mystery-of-the-magic-bracelet.json](./54347-schoolmates-the-mystery-of-the-magic-bracelet.json) |
@@ -3430,6 +3431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SEX VR Horny Nurses | 147875 | [147875-sex-vr-horny-nurses.json](./147875-sex-vr-horny-nurses.json) |
 | Sex With Friends | 367048 | [367048-sex-with-friends.json](./367048-sex-with-friends.json) |
 | Sex with Maids | 248669 | [248669-sex-with-maids.json](./248669-sex-with-maids.json) |
+| Sex with Stalin | 142719 | [142719-sex-with-stalin.json](./142719-sex-with-stalin.json) |
 | Sex with Teachers | 234110 | [234110-sex-with-teachers.json](./234110-sex-with-teachers.json) |
 | Sex with the Devil | 165543 | [165543-sex-with-the-devil.json](./165543-sex-with-the-devil.json) |
 | Sex With Toys | 267686 | [267686-sex-with-toys.json](./267686-sex-with-toys.json) |
@@ -8654,6 +8656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sola | 173223 | [173223-sola.json](./173223-sola.json) |
 | Sola Rola: The Gravity Maze | 269855 | [269855-sola-rola-the-gravity-maze.json](./269855-sola-rola-the-gravity-maze.json) |
 | Solace Creek | 314920 | [314920-solace-creek.json](./314920-solace-creek.json) |
+| Solace Dreams | 142721 | [142721-solace-dreams.json](./142721-solace-dreams.json) |
 | Solana and Sunny's Atelier | 216783 | [216783-solana-and-sunnys-atelier.json](./216783-solana-and-sunnys-atelier.json) |
 | Solar 2 | 6342 | [6342-solar-2.json](./6342-solar-2.json) |
 | Solar Battalion | 99600 | [99600-solar-battalion.json](./99600-solar-battalion.json) |
@@ -9952,6 +9955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of Butterflies: The Lobby | 284889 | [284889-soul-of-butterflies-the-lobby.json](./284889-soul-of-butterflies-the-lobby.json) |
 | Soul of Darkness | 47798 | [47798-soul-of-darkness.json](./47798-soul-of-darkness.json) |
 | Soul of Deva | 38955 | [38955-soul-of-deva.json](./38955-soul-of-deva.json) |
+| Soul of Giga | 142720 | [142720-soul-of-giga.json](./142720-soul-of-giga.json) |
 | Soul of Heroes: Empire Wars | 247175 | [247175-soul-of-heroes-empire-wars.json](./247175-soul-of-heroes-empire-wars.json) |
 | Soul of Hometown | 216782 | [216782-soul-of-hometown.json](./216782-soul-of-hometown.json) |
 | Soul of Mask | 75179 | [75179-soul-of-mask.json](./75179-soul-of-mask.json) |
@@ -14072,6 +14076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Panthers: World War 2 | 14467 | [14467-steel-panthers-world-war-2.json](./14467-steel-panthers-world-war-2.json) |
 | Steel Paws | 325584 | [325584-steel-paws.json](./325584-steel-paws.json) |
 | Steel Racer | 250952 | [250952-steel-racer.json](./250952-steel-racer.json) |
+| Steel Rain | 142711 | [142711-steel-rain.json](./142711-steel-rain.json) |
 | Steel Rain | 34833 | [34833-steel-rain.json](./34833-steel-rain.json) |
 | Steel Rampart | 245951 | [245951-steel-rampart.json](./245951-steel-rampart.json) |
 | Steel Ranger | 179658 | [179658-steel-ranger.json](./179658-steel-ranger.json) |
@@ -14400,6 +14405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Football | 94775 | [94775-stickman-football.json](./94775-stickman-football.json) |
 | Stickman Hero | 227944 | [227944-stickman-hero.json](./227944-stickman-hero.json) |
 | Stickman Hero Fighting Game | 254749 | [254749-stickman-hero-fighting-game.json](./254749-stickman-hero-fighting-game.json) |
+| Stickman Ice Hockey | 142741 | [142741-stickman-ice-hockey.json](./142741-stickman-ice-hockey.json) |
 | Stickman Insane Bullet | 324976 | [324976-stickman-insane-bullet.json](./324976-stickman-insane-bullet.json) |
 | Stickman Jailbreak 2024 | 292160 | [292160-stickman-jailbreak-2024.json](./292160-stickman-jailbreak-2024.json) |
 | Stickman Kill Sergeant | 220222 | [220222-stickman-kill-sergeant.json](./220222-stickman-kill-sergeant.json) |
@@ -16970,6 +16976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario /v/orld: New Vegas | 234146 | [234146-super-mario-v-orld-new-vegas.json](./234146-super-mario-v-orld-new-vegas.json) |
 | Super Mario & Sonic | 262087 | [262087-super-mario-and-sonic.json](./262087-super-mario-and-sonic.json) |
 | Super Mario & The Rainbow Stars | 307658 | [307658-super-mario-and-the-rainbow-stars.json](./307658-super-mario-and-the-rainbow-stars.json) |
+| Super Mario 127 | 142753 | [142753-super-mario-127.json](./142753-super-mario-127.json) |
 | Super Mario 14 | 134517 | [134517-super-mario-14.json](./134517-super-mario-14.json) |
 | Super Mario 16: Land of Crisis | 296050 | [296050-super-mario-16-land-of-crisis.json](./296050-super-mario-16-land-of-crisis.json) |
 | Super Mario 256 | 270377 | [270377-super-mario-256.json](./270377-super-mario-256.json) |
