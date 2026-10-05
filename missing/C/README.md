@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capital | 164431 | [164431-capital.json](./164431-capital.json) |
 | Capital | 311489 | [311489-capital.json](./311489-capital.json) |
 | Capital Cities Trivia | 365874 | [365874-capital-cities-trivia.json](./365874-capital-cities-trivia.json) |
+| Capital Command | 153495 | [153495-capital-command.json](./153495-capital-command.json) |
 | Capital Dilemma | 283800 | [283800-capital-dilemma.json](./283800-capital-dilemma.json) |
 | Capital Fire | 284885 | [284885-capital-fire.json](./284885-capital-fire.json) |
 | Capital Kings | 342635 | [342635-capital-kings.json](./342635-capital-kings.json) |
@@ -1669,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassette Beasts: Wing Pack | 365833 | [365833-cassette-beasts-wing-pack.json](./365833-cassette-beasts-wing-pack.json) |
 | Cassette Boy | 248898 | [248898-cassette-boy.json](./248898-cassette-boy.json) |
 | Cassette Five | 153853 | [153853-cassette-five.json](./153853-cassette-five.json) |
+| Cassette Four | 153513 | [153513-cassette-four.json](./153513-cassette-four.json) |
 | Cassidy | 145032 | [145032-cassidy.json](./145032-cassidy.json) |
 | Cassiel | 276262 | [276262-cassiel.json](./276262-cassiel.json) |
 | Cassius | 172197 | [172197-cassius.json](./172197-cassius.json) |
@@ -4840,6 +4842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Mist 2 | 123536 | [123536-city-of-mist-2.json](./123536-city-of-mist-2.json) |
 | City of Nightmares | 317980 | [317980-city-of-nightmares.json](./317980-city-of-nightmares.json) |
 | City of None | 329226 | [329226-city-of-none.json](./329226-city-of-none.json) |
+| City of Ragdolls | 153497 | [153497-city-of-ragdolls.json](./153497-city-of-ragdolls.json) |
 | City of Rampage | 217025 | [217025-city-of-rampage.json](./217025-city-of-rampage.json) |
 | City of Robots | 169804 | [169804-city-of-robots.json](./169804-city-of-robots.json) |
 | City of Rott: Streets of Rott | 29766 | [29766-city-of-rott-streets-of-rott.json](./29766-city-of-rott-streets-of-rott.json) |
@@ -8283,6 +8286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CP3D | 109581 | [109581-cp3d.json](./109581-cp3d.json) |
 | CPA: Reports Bousy | 311123 | [311123-cpa-reports-bousy.json](./311123-cpa-reports-bousy.json) |
 | CPD | 262550 | [262550-cpd.json](./262550-cpd.json) |
+| Cpt. Balloney: Painful days at home | 153502 | [153502-cpt-balloney-painful-days-at-home.json](./153502-cpt-balloney-painful-days-at-home.json) |
 | CPU Invaders: Aim Hero | 413665 | [413665-cpu-invaders-aim-hero.json](./413665-cpu-invaders-aim-hero.json) |
 | CPU Invaders: Cyber Arcade | 413136 | [413136-cpu-invaders-cyber-arcade.json](./413136-cpu-invaders-cyber-arcade.json) |
 | CPU Invaders: Micro Spheres | 413658 | [413658-cpu-invaders-micro-spheres.json](./413658-cpu-invaders-micro-spheres.json) |
