@@ -3092,6 +3092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Listen to the Wind | 172709 | [172709-listen-to-the-wind.json](./172709-listen-to-the-wind.json) |
 | Listen, Think, Meow! | 304596 | [304596-listen-think-meow.json](./304596-listen-think-meow.json) |
 | Listenbourg | 264697 | [264697-listenbourg.json](./264697-listenbourg.json) |
+| Listhère | 137982 | [137982-listhere.json](./137982-listhere.json) |
 | Lit | 97106 | [97106-lit.json](./97106-lit.json) |
 | LIT: Bend the Light | 126621 | [126621-lit-bend-the-light.json](./126621-lit-bend-the-light.json) |
 | Lita's Dream | 252286 | [252286-litas-dream.json](./252286-litas-dream.json) |
@@ -3693,6 +3694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked In VR | 30342 | [30342-locked-in-vr.json](./30342-locked-in-vr.json) |
 | Locked Inside: Rebirth | 177396 | [177396-locked-inside-rebirth.json](./177396-locked-inside-rebirth.json) |
 | Locked Together | 405617 | [405617-locked-together.json](./405617-locked-together.json) |
+| Locked Up | 137990 | [137990-locked-up.json](./137990-locked-up.json) |
 | Locked-In | 146138 | [146138-locked-in.json](./146138-locked-in.json) |
 | Locked-in syndrome | 33787 | [33787-locked-in-syndrome.json](./33787-locked-in-syndrome.json) |
 | Lockes the Thief | 211793 | [211793-lockes-the-thief.json](./211793-lockes-the-thief.json) |
