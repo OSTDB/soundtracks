@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbids Crazy Rush | 90356 | [90356-rabbids-crazy-rush.json](./90356-rabbids-crazy-rush.json) |
 | Rabbids Go Home | 193295 | [193295-rabbids-go-home.json](./193295-rabbids-go-home.json) |
 | Rabbids Go Home | 2190 | [2190-rabbids-go-home.json](./2190-rabbids-go-home.json) |
+| Rabbids Hollywood | 125784 | [125784-rabbids-hollywood.json](./125784-rabbids-hollywood.json) |
 | Rabbids Invasion | 131366 | [131366-rabbids-invasion.json](./131366-rabbids-invasion.json) |
 | Rabbids Lab | 50699 | [50699-rabbids-lab.json](./50699-rabbids-lab.json) |
 | Rabbids: Legends of the Multiverse | 300343 | [300343-rabbids-legends-of-the-multiverse.json](./300343-rabbids-legends-of-the-multiverse.json) |
@@ -3861,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle Transfer 2 | 180142 | [180142-riddle-transfer-2.json](./180142-riddle-transfer-2.json) |
 | Riddle Transfer 2: Legacy Edition | 180143 | [180143-riddle-transfer-2-legacy-edition.json](./180143-riddle-transfer-2-legacy-edition.json) |
 | Riddle Transfer: Legacy Edition | 180141 | [180141-riddle-transfer-legacy-edition.json](./180141-riddle-transfer-legacy-edition.json) |
+| Riddle Wired | 125775 | [125775-riddle-wired.json](./125775-riddle-wired.json) |
 | Riddle! | 102136 | [102136-riddle.json](./102136-riddle.json) |
 | Riddledale | 223174 | [223174-riddledale.json](./223174-riddledale.json) |
 | Riddles of the Owls Kingdom | 105370 | [105370-riddles-of-the-owls-kingdom.json](./105370-riddles-of-the-owls-kingdom.json) |
@@ -6183,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Routine | 8948 | [8948-routine.json](./8948-routine.json) |
 | Routine Checkup | 245357 | [245357-routine-checkup.json](./245357-routine-checkup.json) |
 | Routine Feat | 125052 | [125052-routine-feat.json](./125052-routine-feat.json) |
+| Routz | 125875 | [125875-routz.json](./125875-routz.json) |
 | Rouvy | 319175 | [319175-rouvy.json](./319175-rouvy.json) |
 | Rova | 297209 | [297209-rova.json](./297209-rova.json) |
 | Rover Builder | 65829 | [65829-rover-builder.json](./65829-rover-builder.json) |
