@@ -5877,6 +5877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code UltraViolet | 406864 | [406864-code-ultraviolet.json](./406864-code-ultraviolet.json) |
 | Code Vein: Collector's Edition | 103212 | [103212-code-vein-collectors-edition.json](./103212-code-vein-collectors-edition.json) |
 | Code Vein: Hellfire Knight | 129134 | [129134-code-vein-hellfire-knight.json](./129134-code-vein-hellfire-knight.json) |
+| Code Vein: Season Pass | 131955 | [131955-code-vein-season-pass.json](./131955-code-vein-season-pass.json) |
 | Code Zero | 161896 | [161896-code-zero.json](./161896-code-zero.json) |
 | Code Zero | 174081 | [174081-code-zero.json](./174081-code-zero.json) |
 | Code Zodiac | 251853 | [251853-code-zodiac.json](./251853-code-zodiac.json) |
@@ -8626,6 +8627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Test Billy | 51473 | [51473-crash-test-billy.json](./51473-crash-test-billy.json) |
 | Crash Test Idiot | 193419 | [193419-crash-test-idiot.json](./193419-crash-test-idiot.json) |
 | Crash Test Idiots 2: Multiplayer | 278692 | [278692-crash-test-idiots-2-multiplayer.json](./278692-crash-test-idiots-2-multiplayer.json) |
+| Crash Test Launcher | 132074 | [132074-crash-test-launcher.json](./132074-crash-test-launcher.json) |
 | Crash The Car Death Race | 364074 | [364074-crash-the-car-death-race.json](./364074-crash-the-car-death-race.json) |
 | Crash the Comet | 102595 | [102595-crash-the-comet.json](./102595-crash-the-comet.json) |
 | Crash the Game | 129703 | [129703-crash-the-game.json](./129703-crash-the-game.json) |
