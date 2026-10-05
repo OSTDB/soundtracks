@@ -3088,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Kidd: Radaxian In Turmoil | 326963 | [326963-alex-kidd-radaxian-in-turmoil.json](./326963-alex-kidd-radaxian-in-turmoil.json) |
 | Alex Kidd: The Lost Stars | 13678 | [13678-alex-kidd-the-lost-stars.json](./13678-alex-kidd-the-lost-stars.json) |
 | Alex the Allegator 2 | 306995 | [306995-alex-the-allegator-2.json](./306995-alex-the-allegator-2.json) |
+| AleX-World | 125285 | [125285-alex-world.json](./125285-alex-world.json) |
 | Alex's Caves | 316145 | [316145-alexs-caves.json](./316145-alexs-caves.json) |
 | Alex's Journey to the Grave | 319226 | [319226-alexs-journey-to-the-grave.json](./319226-alexs-journey-to-the-grave.json) |
 | Alex's Sketchbook World | 359618 | [359618-alexs-sketchbook-world.json](./359618-alexs-sketchbook-world.json) |
@@ -3180,6 +3181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in the Nightmare Land | 267097 | [267097-alice-in-the-nightmare-land.json](./267097-alice-in-the-nightmare-land.json) |
 | Alice In VR | 102565 | [102565-alice-in-vr.json](./102565-alice-in-vr.json) |
 | Alice in Windowland | 218120 | [218120-alice-in-windowland.json](./218120-alice-in-windowland.json) |
+| Alice in Wonderland | 125307 | [125307-alice-in-wonderland.json](./125307-alice-in-wonderland.json) |
 | Alice in Wonderland | 140323 | [140323-alice-in-wonderland.json](./140323-alice-in-wonderland.json) |
 | Alice in Wonderland | 175929 | [175929-alice-in-wonderland.json](./175929-alice-in-wonderland.json) |
 | Alice in Wonderland | 196846 | [196846-alice-in-wonderland.json](./196846-alice-in-wonderland.json) |
@@ -5307,6 +5309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animorphs: Shattered Reality | 43927 | [43927-animorphs-shattered-reality.json](./43927-animorphs-shattered-reality.json) |
 | Animosity's Duel | 133800 | [133800-animositys-duel.json](./133800-animositys-duel.json) |
 | AnimuJump | 238628 | [238628-animujump.json](./238628-animujump.json) |
+| Animus: Harbinger | 125190 | [125190-animus-harbinger.json](./125190-animus-harbinger.json) |
 | Animus: Revenant | 151601 | [151601-animus-revenant.json](./151601-animus-revenant.json) |
 | Aniquilation | 132152 | [132152-aniquilation.json](./132152-aniquilation.json) |
 | Aniquiz | 409619 | [409619-aniquiz.json](./409619-aniquiz.json) |
@@ -6900,6 +6903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena | 366956 | [366956-arena.json](./366956-arena.json) |
 | Arena 2000 | 14265 | [14265-arena-2000.json](./14265-arena-2000.json) |
 | Arena 54: Visual Novel Action Adventure | 163237 | [163237-arena-54-visual-novel-action-adventure.json](./163237-arena-54-visual-novel-action-adventure.json) |
+| Arena Allstars | 125172 | [125172-arena-allstars.json](./125172-arena-allstars.json) |
 | Arena an Age of Barbarians story | 30077 | [30077-arena-an-age-of-barbarians-story.json](./30077-arena-an-age-of-barbarians-story.json) |
 | Arena Battle | 230960 | [230960-arena-battle.json](./230960-arena-battle.json) |
 | Arena Blues: Requiem for 35 | 416113 | [416113-arena-blues-requiem-for-35.json](./416113-arena-blues-requiem-for-35.json) |
