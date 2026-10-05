@@ -2131,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataclysm Upon Us | 274771 | [274771-cataclysm-upon-us.json](./274771-cataclysm-upon-us.json) |
 | Cataclysm: Bright Nights | 194968 | [194968-cataclysm-bright-nights.json](./194968-cataclysm-bright-nights.json) |
 | Cataclysm: Even Angels Sin | 307238 | [307238-cataclysm-even-angels-sin.json](./307238-cataclysm-even-angels-sin.json) |
+| Cataclysms and Catastrophes | 148682 | [148682-cataclysms-and-catastrophes.json](./148682-cataclysms-and-catastrophes.json) |
 | Catacomb | 11042 | [11042-catacomb.json](./11042-catacomb.json) |
 | Catacomb | 380060 | [380060-catacomb.json](./380060-catacomb.json) |
 | Catacomb Abyss 3D | 11044 | [11044-catacomb-abyss-3d.json](./11044-catacomb-abyss-3d.json) |
@@ -3123,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charge Blade Hero | 158642 | [158642-charge-blade-hero.json](./158642-charge-blade-hero.json) |
 | Charge Cycles | 183976 | [183976-charge-cycles.json](./183976-charge-cycles.json) |
 | Charge Up | 413091 | [413091-charge-up.json](./413091-charge-up.json) |
+| Charge! | 148692 | [148692-charge.json](./148692-charge.json) |
 | Charge! | 219101 | [219101-charge.json](./219101-charge.json) |
 | Charge! | 380071 | [380071-charge.json](./380071-charge.json) |
 | Charge! Tank Squad | 59392 | [59392-charge-tank-squad.json](./59392-charge-tank-squad.json) |
@@ -9204,6 +9206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Slash | 197798 | [197798-critical-slash.json](./197798-critical-slash.json) |
 | Critical Strike | 345571 | [345571-critical-strike.json](./345571-critical-strike.json) |
 | Critical Strike Shooter: SWAT Rescue Missions | 304275 | [304275-critical-strike-shooter-swat-rescue-missions.json](./304275-critical-strike-shooter-swat-rescue-missions.json) |
+| Critical Zone | 148695 | [148695-critical-zone.json](./148695-critical-zone.json) |
 | Criticality | 180788 | [180788-criticality.json](./180788-criticality.json) |
 | CriticalOrb | 290929 | [290929-criticalorb.json](./290929-criticalorb.json) |
 | Criticism Roundup 2013 | 224456 | [224456-criticism-roundup-2013.json](./224456-criticism-roundup-2013.json) |
