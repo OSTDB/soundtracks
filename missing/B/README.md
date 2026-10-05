@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baffle Ball | 92639 | [92639-baffle-ball.json](./92639-baffle-ball.json) |
 | Baffle My Mind | 88211 | [88211-baffle-my-mind.json](./88211-baffle-my-mind.json) |
 | BAFL: Brakes Are For Losers | 44740 | [44740-bafl-brakes-are-for-losers.json](./44740-bafl-brakes-are-for-losers.json) |
+| Bag Closure | 137975 | [137975-bag-closure.json](./137975-bag-closure.json) |
 | Bag Fight | 402299 | [402299-bag-fight.json](./402299-bag-fight.json) |
 | Bag Game | 411696 | [411696-bag-game.json](./411696-bag-game.json) |
 | Bagarre | 386970 | [386970-bagarre.json](./386970-bagarre.json) |
@@ -3571,6 +3572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beta Runner | 47989 | [47989-beta-runner.json](./47989-beta-runner.json) |
 | Betaman 2000: Special Edition | 330521 | [330521-betaman-2000-special-edition.json](./330521-betaman-2000-special-edition.json) |
 | Betasuppe | 68968 | [68968-betasuppe.json](./68968-betasuppe.json) |
+| Betelgeuse | 137946 | [137946-betelgeuse.json](./137946-betelgeuse.json) |
 | Beth the Exhibitionist | 154582 | [154582-beth-the-exhibitionist.json](./154582-beth-the-exhibitionist.json) |
 | Bethesda Pinball | 297501 | [297501-bethesda-pinball.json](./297501-bethesda-pinball.json) |
 | Betia Pera-pera English Adventure | 194976 | [194976-betia-pera-pera-english-adventure.json](./194976-betia-pera-pera-english-adventure.json) |
@@ -3605,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betty & Earl | 163977 | [163977-betty-and-earl.json](./163977-betty-and-earl.json) |
 | Betty Bad | 23449 | [23449-betty-bad.json](./23449-betty-bad.json) |
 | Betty's Beer Bar | 70365 | [70365-bettys-beer-bar.json](./70365-bettys-beer-bar.json) |
+| Betű Kereső | 137966 | [137966-betu-kereso.json](./137966-betu-kereso.json) |
 | Between | 398980 | [398980-between.json](./398980-between.json) |
 | Between | 95369 | [95369-between.json](./95369-between.json) |
 | Between Adventures Idle | 365079 | [365079-between-adventures-idle.json](./365079-between-adventures-idle.json) |
@@ -4402,6 +4405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Alone | 135897 | [135897-bird-alone.json](./135897-bird-alone.json) |
 | Bird Bakery | 135239 | [135239-bird-bakery.json](./135239-bird-bakery.json) |
 | Bird Ball | 257378 | [257378-bird-ball.json](./257378-bird-ball.json) |
+| Bird BnB | 137971 | [137971-bird-bnb.json](./137971-bird-bnb.json) |
 | Bird Brawl | 250530 | [250530-bird-brawl.json](./250530-bird-brawl.json) |
 | Bird Brigade | 385221 | [385221-bird-brigade.json](./385221-bird-brigade.json) |
 | Bird Builder | 177474 | [177474-bird-builder.json](./177474-bird-builder.json) |
