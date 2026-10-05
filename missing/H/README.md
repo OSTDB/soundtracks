@@ -5177,6 +5177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hookeye | 417465 | [417465-hookeye.json](./417465-hookeye.json) |
 | Hooking Season | 211192 | [211192-hooking-season.json](./211192-hooking-season.json) |
 | Hookshot Runner | 341615 | [341615-hookshot-runner.json](./341615-hookshot-runner.json) |
+| HookShotVR | 143934 | [143934-hookshotvr.json](./143934-hookshotvr.json) |
 | Hooligan Crusoe | 283841 | [283841-hooligan-crusoe.json](./283841-hooligan-crusoe.json) |
 | Hooligan Simulator 2023: You vs. System | 277917 | [277917-hooligan-simulator-2023-you-vs-system.json](./277917-hooligan-simulator-2023-you-vs-system.json) |
 | Hooligan Simulator: Survive in Urban Jungle | 250891 | [250891-hooligan-simulator-survive-in-urban-jungle.json](./250891-hooligan-simulator-survive-in-urban-jungle.json) |
