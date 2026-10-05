@@ -2021,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle For Life | 63801 | [63801-battle-for-life.json](./63801-battle-for-life.json) |
 | Battle for Orion 2 | 30279 | [30279-battle-for-orion-2.json](./30279-battle-for-orion-2.json) |
 | Battle For Presidency | 64653 | [64653-battle-for-presidency.json](./64653-battle-for-presidency.json) |
+| Battle for Sea 3D | 163895 | [163895-battle-for-sea-3d.json](./163895-battle-for-sea-3d.json) |
 | Battle for the Ashes | 14290 | [14290-battle-for-the-ashes.json](./14290-battle-for-the-ashes.json) |
 | Battle for the Board | 259091 | [259091-battle-for-the-board.json](./259091-battle-for-the-board.json) |
 | Battle for the Kingdom | 156631 | [156631-battle-for-the-kingdom.json](./156631-battle-for-the-kingdom.json) |
@@ -3010,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Become Deity | 359544 | [359544-become-deity.json](./359544-become-deity.json) |
 | Become Prey 2: Of Everlasting Sin | 181298 | [181298-become-prey-2-of-everlasting-sin.json](./181298-become-prey-2-of-everlasting-sin.json) |
 | Become The Moon | 290104 | [290104-become-the-moon.json](./290104-become-the-moon.json) |
+| Becoming | 163804 | [163804-becoming.json](./163804-becoming.json) |
 | Becoming a King | 348457 | [348457-becoming-a-king.json](./348457-becoming-a-king.json) |
 | Becoming a Legend: New Advent | 403671 | [403671-becoming-a-legend-new-advent.json](./403671-becoming-a-legend-new-advent.json) |
 | Becoming Captain | 296497 | [296497-becoming-captain.json](./296497-becoming-captain.json) |
@@ -4579,6 +4581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitesize Heroes: Forest Defender | 294303 | [294303-bitesize-heroes-forest-defender.json](./294303-bitesize-heroes-forest-defender.json) |
 | Bitfighter | 47275 | [47275-bitfighter.json](./47275-bitfighter.json) |
 | Bitgram | 55157 | [55157-bitgram.json](./55157-bitgram.json) |
+| Bitgun | 163870 | [163870-bitgun.json](./163870-bitgun.json) |
 | BitHero Survivors | 366982 | [366982-bithero-survivors.json](./366982-bithero-survivors.json) |
 | Bitlands | 197193 | [197193-bitlands.json](./197193-bitlands.json) |
 | BitLiberator | 340036 | [340036-bitliberator.json](./340036-bitliberator.json) |
