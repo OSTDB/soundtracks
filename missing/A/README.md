@@ -2441,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AIR Battlefront | 117477 | [117477-air-battlefront.json](./117477-air-battlefront.json) |
 | Air Blitz | 379521 | [379521-air-blitz.json](./379521-air-blitz.json) |
 | Air Blocks | 206101 | [206101-air-blocks.json](./206101-air-blocks.json) |
+| Air Bounce: The Jump 'n' Run Challenge | 142697 | [142697-air-bounce-the-jump-n-run-challenge.json](./142697-air-bounce-the-jump-n-run-challenge.json) |
 | Air Brawl | 35081 | [35081-air-brawl.json](./35081-air-brawl.json) |
 | Air Bucks | 14230 | [14230-air-bucks.json](./14230-air-bucks.json) |
 | Air Cavalry PRO | 88128 | [88128-air-cavalry-pro.json](./88128-air-cavalry-pro.json) |
@@ -4802,6 +4803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angeline Era | 252768 | [252768-angeline-era.json](./252768-angeline-era.json) |
 | Angelique Duet | 45437 | [45437-angelique-duet.json](./45437-angelique-duet.json) |
 | Angelique Etoile | 72680 | [72680-angelique-etoile.json](./72680-angelique-etoile.json) |
+| Angelique Luminarise | 142754 | [142754-angelique-luminarise.json](./142754-angelique-luminarise.json) |
 | Angelique Premium Box | 355133 | [355133-angelique-premium-box.json](./355133-angelique-premium-box.json) |
 | Angelique Retour | 59958 | [59958-angelique-retour.json](./59958-angelique-retour.json) |
 | Angelique Special | 45436 | [45436-angelique-special.json](./45436-angelique-special.json) |
