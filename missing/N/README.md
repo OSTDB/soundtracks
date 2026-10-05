@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Code:X | 410908 | [410908-nano-code-x.json](./410908-nano-code-x.json) |
 | Nano Dash | 103163 | [103163-nano-dash.json](./103163-nano-dash.json) |
 | Nano Driller | 115587 | [115587-nano-driller.json](./115587-nano-driller.json) |
+| Nano Fighter Anti Disease | 149191 | [149191-nano-fighter-anti-disease.json](./149191-nano-fighter-anti-disease.json) |
 | Nano Flat Owner | 391032 | [391032-nano-flat-owner.json](./391032-nano-flat-owner.json) |
 | Nano Force | 250483 | [250483-nano-force.json](./250483-nano-force.json) |
 | Nano Neighbors | 347838 | [347838-nano-neighbors.json](./347838-nano-neighbors.json) |
