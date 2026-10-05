@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canyon Miner: Minecart Rush | 233110 | [233110-canyon-miner-minecart-rush.json](./233110-canyon-miner-minecart-rush.json) |
 | Canyon of Outlaws | 343402 | [343402-canyon-of-outlaws.json](./343402-canyon-of-outlaws.json) |
 | Canyon Rush | 291619 | [291619-canyon-rush.json](./291619-canyon-rush.json) |
+| Canyon Shooter | 158099 | [158099-canyon-shooter.json](./158099-canyon-shooter.json) |
 | Canyon Watch | 266264 | [266264-canyon-watch.json](./266264-canyon-watch.json) |
 | CanYouTilt | 41488 | [41488-canyoutilt.json](./41488-canyoutilt.json) |
 | Cap'n Carnage | 14374 | [14374-capn-carnage.json](./14374-capn-carnage.json) |
@@ -941,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Pegleg | 137452 | [137452-captain-pegleg.json](./137452-captain-pegleg.json) |
 | Captain Planet | 69790 | [69790-captain-planet.json](./69790-captain-planet.json) |
 | Captain Power and the Soldiers of the Future | 84294 | [84294-captain-power-and-the-soldiers-of-the-future.json](./84294-captain-power-and-the-soldiers-of-the-future.json) |
+| Captain Prosper | 158122 | [158122-captain-prosper.json](./158122-captain-prosper.json) |
 | Captain Puff MacFly | 361728 | [361728-captain-puff-macfly.json](./361728-captain-puff-macfly.json) |
 | Captain Quazar | 39015 | [39015-captain-quazar.json](./39015-captain-quazar.json) |
 | Captain Rocket | 344959 | [344959-captain-rocket.json](./344959-captain-rocket.json) |
@@ -2275,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cathode's Journey | 232029 | [232029-cathodes-journey.json](./232029-cathodes-journey.json) |
 | CatHotel | 256531 | [256531-cathotel.json](./256531-cathotel.json) |
 | Cathulhu Detective | 193978 | [193978-cathulhu-detective.json](./193978-cathulhu-detective.json) |
+| Catie in MeowmeowLand | 158105 | [158105-catie-in-meowmeowland.json](./158105-catie-in-meowmeowland.json) |
 | Catify VR | 104799 | [104799-catify-vr.json](./104799-catify-vr.json) |
 | Catjong 3: Purrl of the East | 393825 | [393825-catjong-3-purrl-of-the-east.json](./393825-catjong-3-purrl-of-the-east.json) |
 | Catlateral Damage | 17966 | [17966-catlateral-damage.json](./17966-catlateral-damage.json) |
@@ -3404,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherry's Joi | 307209 | [307209-cherrys-joi.json](./307209-cherrys-joi.json) |
 | Cherrywitched! | 246070 | [246070-cherrywitched.json](./246070-cherrywitched.json) |
 | Chesh | 15551 | [15551-chesh.json](./15551-chesh.json) |
+| Chesnakisnak | 158127 | [158127-chesnakisnak.json](./158127-chesnakisnak.json) |
 | Chess | 128646 | [128646-chess.json](./128646-chess.json) |
 | Chess | 131469 | [131469-chess.json](./131469-chess.json) |
 | Chess | 237288 | [237288-chess.json](./237288-chess.json) |
@@ -3946,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChocChocPop | 66191 | [66191-chocchocpop.json](./66191-chocchocpop.json) |
 | Choco Clicker World | 344547 | [344547-choco-clicker-world.json](./344547-choco-clicker-world.json) |
 | Choco Kiosk Simulator | 363019 | [363019-choco-kiosk-simulator.json](./363019-choco-kiosk-simulator.json) |
+| Choco Pixel 5 | 158104 | [158104-choco-pixel-5.json](./158104-choco-pixel-5.json) |
 | Choco Pixel 6 | 158060 | [158060-choco-pixel-6.json](./158060-choco-pixel-6.json) |
 | Choco Pixel 7 | 158591 | [158591-choco-pixel-7.json](./158591-choco-pixel-7.json) |
 | Choco Puzzle | 357980 | [357980-choco-puzzle.json](./357980-choco-puzzle.json) |
@@ -7065,6 +7070,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror's Blade: Hounds of War | 168184 | [168184-conquerors-blade-hounds-of-war.json](./168184-conquerors-blade-hounds-of-war.json) |
 | Conqueror's Blade: Season IV - Blood of the Empire | 158061 | [158061-conquerors-blade-season-iv-blood-of-the-empire.json](./158061-conquerors-blade-season-iv-blood-of-the-empire.json) |
 | Conqueror's Blade: Season V - Legacy of Fire | 158080 | [158080-conquerors-blade-season-v-legacy-of-fire.json](./158080-conquerors-blade-season-v-legacy-of-fire.json) |
+| Conqueror's Blade: Season VI - Scourge of Winter | 158101 | [158101-conquerors-blade-season-vi-scourge-of-winter.json](./158101-conquerors-blade-season-vi-scourge-of-winter.json) |
+| Conqueror's Blade: Season VII - Wolves of Ragnarok | 158108 | [158108-conquerors-blade-season-vii-wolves-of-ragnarok.json](./158108-conquerors-blade-season-vii-wolves-of-ragnarok.json) |
+| Conqueror's Blade: Season VIII - Dynasty | 158110 | [158110-conquerors-blade-season-viii-dynasty.json](./158110-conquerors-blade-season-viii-dynasty.json) |
 | Conquest | 395858 | [395858-conquest.json](./395858-conquest.json) |
 | Conquest | 86011 | [86011-conquest.json](./86011-conquest.json) |
 | Conquest Age | 62235 | [62235-conquest-age.json](./62235-conquest-age.json) |
@@ -8707,6 +8715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Insane Monster Invaders | 152387 | [152387-crazy-insane-monster-invaders.json](./152387-crazy-insane-monster-invaders.json) |
 | Crazy Jack | 301496 | [301496-crazy-jack.json](./301496-crazy-jack.json) |
 | Crazy Jetpack | 205576 | [205576-crazy-jetpack.json](./205576-crazy-jetpack.json) |
+| Crazy Jump | 158121 | [158121-crazy-jump.json](./158121-crazy-jump.json) |
 | Crazy Justice | 56548 | [56548-crazy-justice.json](./56548-crazy-justice.json) |
 | Crazy Kickers | 57615 | [57615-crazy-kickers.json](./57615-crazy-kickers.json) |
 | Crazy Kitchen | 265675 | [265675-crazy-kitchen.json](./265675-crazy-kitchen.json) |
