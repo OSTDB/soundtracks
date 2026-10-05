@@ -4874,6 +4874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City: Battle Ground | 345012 | [345012-city-battle-ground.json](./345012-city-battle-ground.json) |
 | City’s Hero Collection | 328537 | [328537-city-s-hero-collection.json](./328537-city-s-hero-collection.json) |
 | CityBattle: Virtual Earth | 78358 | [78358-citybattle-virtual-earth.json](./78358-citybattle-virtual-earth.json) |
+| CityBeat: The Sorority Shuffle | 171990 | [171990-citybeat-the-sorority-shuffle.json](./171990-citybeat-the-sorority-shuffle.json) |
 | Citybound | 18151 | [18151-citybound.json](./18151-citybound.json) |
 | CityBuilder | 206348 | [206348-citybuilder.json](./206348-citybuilder.json) |
 | Cityconomy: Service for your City | 17494 | [17494-cityconomy-service-for-your-city.json](./17494-cityconomy-service-for-your-city.json) |
@@ -5440,6 +5441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closed World | 312202 | [312202-closed-world.json](./312202-closed-world.json) |
 | Closer Than You Know | 199654 | [199654-closer-than-you-know.json](./199654-closer-than-you-know.json) |
 | Closer to Home | 221122 | [221122-closer-to-home.json](./221122-closer-to-home.json) |
+| Closer: Anagnorisis | 171992 | [171992-closer-anagnorisis.json](./171992-closer-anagnorisis.json) |
 | CloserLook VR: Oldways | 325838 | [325838-closerlook-vr-oldways.json](./325838-closerlook-vr-oldways.json) |
 | Closers | 55076 | [55076-closers.json](./55076-closers.json) |
 | CloserTo | 396374 | [396374-closerto.json](./396374-closerto.json) |
