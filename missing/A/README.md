@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Brief Tale | 411683 | [411683-a-brief-tale.json](./411683-a-brief-tale.json) |
 | A Broken Halo | 216776 | [216776-a-broken-halo.json](./216776-a-broken-halo.json) |
 | A Bug's Life: Active Play | 311677 | [311677-a-bugs-life-active-play.json](./311677-a-bugs-life-active-play.json) |
+| A buggy Adventure | 143353 | [143353-a-buggy-adventure.json](./143353-a-buggy-adventure.json) |
 | A Building Full of Cats 2 | 301592 | [301592-a-building-full-of-cats-2.json](./301592-a-building-full-of-cats-2.json) |
 | A Bumpy Ride | 312660 | [312660-a-bumpy-ride.json](./312660-a-bumpy-ride.json) |
 | A Bunch of you in a Crowded Room | 177363 | [177363-a-bunch-of-you-in-a-crowded-room.json](./177363-a-bunch-of-you-in-a-crowded-room.json) |
@@ -2203,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent MOO: Maximum Overdeath | 66387 | [66387-agent-moo-maximum-overdeath.json](./66387-agent-moo-maximum-overdeath.json) |
 | Agent Murphy | 164260 | [164260-agent-murphy.json](./164260-agent-murphy.json) |
 | Agent of Chaos | 157170 | [157170-agent-of-chaos.json](./157170-agent-of-chaos.json) |
+| Agent P: Rebel Spy | 143328 | [143328-agent-p-rebel-spy.json](./143328-agent-p-rebel-spy.json) |
 | Agent Reverb | 235149 | [235149-agent-reverb.json](./235149-agent-reverb.json) |
 | Agent Roy: Zombie Hunt | 232449 | [232449-agent-roy-zombie-hunt.json](./232449-agent-roy-zombie-hunt.json) |
 | Agent USA | 12247 | [12247-agent-usa.json](./12247-agent-usa.json) |
@@ -5283,6 +5285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annabel | 92055 | [92055-annabel.json](./92055-annabel.json) |
 | Annabel Gray | 15596 | [15596-annabel-gray.json](./15596-annabel-gray.json) |
 | Annapurna Interactive Deluxe Limited Edition | 138780 | [138780-annapurna-interactive-deluxe-limited-edition.json](./138780-annapurna-interactive-deluxe-limited-edition.json) |
+| Anne Frank House VR | 143341 | [143341-anne-frank-house-vr.json](./143341-anne-frank-house-vr.json) |
 | Anne in the Sky | 183329 | [183329-anne-in-the-sky.json](./183329-anne-in-the-sky.json) |
 | Anne's Zombie Odyssey | 328574 | [328574-annes-zombie-odyssey.json](./328574-annes-zombie-odyssey.json) |
 | Annelids | 57118 | [57118-annelids.json](./57118-annelids.json) |
@@ -8666,6 +8669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atsumete! Banki-chan | 216353 | [216353-atsumete-banki-chan.json](./216353-atsumete-banki-chan.json) |
 | Attachment Not Found | 256787 | [256787-attachment-not-found.json](./256787-attachment-not-found.json) |
 | Attack Animal Gakuen | 48601 | [48601-attack-animal-gakuen.json](./48601-attack-animal-gakuen.json) |
+| Attack at Dawn: North Africa | 143327 | [143327-attack-at-dawn-north-africa.json](./143327-attack-at-dawn-north-africa.json) |
 | Attack at EP-CYG-4 | 292837 | [292837-attack-at-ep-cyg-4.json](./292837-attack-at-ep-cyg-4.json) |
 | Attack Force | 143056 | [143056-attack-force.json](./143056-attack-force.json) |
 | Attack Force | 250497 | [250497-attack-force.json](./250497-attack-force.json) |
