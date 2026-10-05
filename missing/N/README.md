@@ -580,12 +580,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naval Action: L'Hermione | 155557 | [155557-naval-action-lhermione.json](./155557-naval-action-lhermione.json) |
 | Naval Action: Le Requin | 155555 | [155555-naval-action-le-requin.json](./155555-naval-action-le-requin.json) |
 | Naval Action: Leopard | 155558 | [155558-naval-action-leopard.json](./155558-naval-action-leopard.json) |
+| Naval Action: Navy Connection | 155566 | [155566-naval-action-navy-connection.json](./155566-naval-action-navy-connection.json) |
 | Naval Action: Painter | 155561 | [155561-naval-action-painter.json](./155561-naval-action-painter.json) |
 | Naval Action: Prolific Forger | 155563 | [155563-naval-action-prolific-forger.json](./155563-naval-action-prolific-forger.json) |
 | Naval Action: Rättvisan | 155564 | [155564-naval-action-rattvisan.json](./155564-naval-action-rattvisan.json) |
 | Naval Action: Redoutable | 155556 | [155556-naval-action-redoutable.json](./155556-naval-action-redoutable.json) |
 | Naval Action: Rotterdam | 249722 | [249722-naval-action-rotterdam.json](./249722-naval-action-rotterdam.json) |
 | Naval Action: San Pedro | 344426 | [344426-naval-action-san-pedro.json](./344426-naval-action-san-pedro.json) |
+| Naval Action: Santa Ana | 155568 | [155568-naval-action-santa-ana.json](./155568-naval-action-santa-ana.json) |
+| Naval Action: Travel Balloon | 155567 | [155567-naval-action-travel-balloon.json](./155567-naval-action-travel-balloon.json) |
 | Naval Action: Trincomalee | 155565 | [155565-naval-action-trincomalee.json](./155565-naval-action-trincomalee.json) |
 | Naval Assault: The Killing Tide | 47403 | [47403-naval-assault-the-killing-tide.json](./47403-naval-assault-the-killing-tide.json) |
 | Naval Battle Online | 224533 | [224533-naval-battle-online.json](./224533-naval-battle-online.json) |
@@ -3574,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nope Nope Nope Nope Nurses | 261755 | [261755-nope-nope-nope-nope-nurses.json](./261755-nope-nope-nope-nope-nurses.json) |
 | Nope Nope Nurses | 215754 | [215754-nope-nope-nurses.json](./215754-nope-nope-nurses.json) |
 | Nophenia | 369651 | [369651-nophenia.json](./369651-nophenia.json) |
+| Nopperabou | 155698 | [155698-nopperabou.json](./155698-nopperabou.json) |
 | Nor'Easter | 119754 | [119754-noreaster.json](./119754-noreaster.json) |
 | Nora | 82741 | [82741-nora.json](./82741-nora.json) |
 | Nora & Magic That Does Not Turn Back Time | 348882 | [348882-nora-and-magic-that-does-not-turn-back-time.json](./348882-nora-and-magic-that-does-not-turn-back-time.json) |
