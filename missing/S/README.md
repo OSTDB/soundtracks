@@ -1826,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP Observer | 188680 | [188680-scp-observer.json](./188680-scp-observer.json) |
 | SCP Operations | 244720 | [244720-scp-operations.json](./244720-scp-operations.json) |
 | SCP RP | 405031 | [405031-scp-rp.json](./405031-scp-rp.json) |
+| SCP Strategy | 154925 | [154925-scp-strategy.json](./154925-scp-strategy.json) |
 | SCP-002 | 316791 | [316791-scp-002.json](./316791-scp-002.json) |
 | SCP-015 | 352346 | [352346-scp-015.json](./352346-scp-015.json) |
 | SCP-087 | 241908 | [241908-scp-087.json](./241908-scp-087.json) |
@@ -10631,6 +10632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ship Commander | 68761 | [68761-space-ship-commander.json](./68761-space-ship-commander.json) |
 | Space ships | 104696 | [104696-space-ships.json](./104696-space-ships.json) |
 | Space Shoot | 346126 | [346126-space-shoot.json](./346126-space-shoot.json) |
+| Space Shooter | 155173 | [155173-space-shooter.json](./155173-space-shooter.json) |
 | Space Shooter | 186184 | [186184-space-shooter.json](./186184-space-shooter.json) |
 | Space Shooter | 336670 | [336670-space-shooter.json](./336670-space-shooter.json) |
 | Space Shooter 3D | 96756 | [96756-space-shooter-3d.json](./96756-space-shooter-3d.json) |
@@ -15072,6 +15074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Rage 2: Syndicate Wars | 256300 | [256300-streets-of-rage-2-syndicate-wars.json](./256300-streets-of-rage-2-syndicate-wars.json) |
 | Streets of Rage 2X | 257340 | [257340-streets-of-rage-2x.json](./257340-streets-of-rage-2x.json) |
 | Streets of Rage 4 | 107262 | [107262-streets-of-rage-4.json](./107262-streets-of-rage-4.json) |
+| Streets of Rage 4: Anniversary Edition | 155168 | [155168-streets-of-rage-4-anniversary-edition.json](./155168-streets-of-rage-4-anniversary-edition.json) |
 | Streets of Rage 4: Special Edition | 167055 | [167055-streets-of-rage-4-special-edition.json](./167055-streets-of-rage-4-special-edition.json) |
 | Streets of Rage Remake | 72327 | [72327-streets-of-rage-remake.json](./72327-streets-of-rage-remake.json) |
 | Streets of Rage Zombies | 272336 | [272336-streets-of-rage-zombies.json](./272336-streets-of-rage-zombies.json) |
@@ -16033,6 +16036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Haven: Trick or Treat Pack | 272917 | [272917-sun-haven-trick-or-treat-pack.json](./272917-sun-haven-trick-or-treat-pack.json) |
 | Sun Is Dead | 294274 | [294274-sun-is-dead.json](./294274-sun-is-dead.json) |
 | Sun Meadow | 385076 | [385076-sun-meadow.json](./385076-sun-meadow.json) |
+| Sun Meiqi Mystery: Yuer Hutong | 154922 | [154922-sun-meiqi-mystery-yuer-hutong.json](./154922-sun-meiqi-mystery-yuer-hutong.json) |
 | Sūn Měiqí Yí'àn: Dì-sān Jì | 149468 | [149468-sun-meiqi-yian-di-san-ji.json](./149468-sun-meiqi-yian-di-san-ji.json) |
 | Sun Rush | 244517 | [244517-sun-rush.json](./244517-sun-rush.json) |
 | Sun Scorcher | 356781 | [356781-sun-scorcher.json](./356781-sun-scorcher.json) |
@@ -17908,6 +17912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superheroes Fast Highway Racing Challenges | 100869 | [100869-superheroes-fast-highway-racing-challenges.json](./100869-superheroes-fast-highway-racing-challenges.json) |
 | Superheroes: Power of New Horizons Legacy | 324124 | [324124-superheroes-power-of-new-horizons-legacy.json](./324124-superheroes-power-of-new-horizons-legacy.json) |
 | Superhot Prototype | 18119 | [18119-superhot-prototype.json](./18119-superhot-prototype.json) |
+| Superhot: One of Us Bundle | 155188 | [155188-superhot-one-of-us-bundle.json](./155188-superhot-one-of-us-bundle.json) |
 | Superhuman | 330798 | [330798-superhuman.json](./330798-superhuman.json) |
 | SuperHyperCube | 20332 | [20332-superhypercube.json](./20332-superhypercube.json) |
 | SuperHyperHappyGame | 311186 | [311186-superhyperhappygame.json](./311186-superhyperhappygame.json) |
@@ -18070,6 +18075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme | 80546 | [80546-supreme.json](./80546-supreme.json) |
 | Supreme Candy: Oudou ni wa Oudoutaru Riyuu ga Arun Desu! | 137107 | [137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json](./137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json) |
 | Supreme Commander 2 | 7201 | [7201-supreme-commander-2.json](./7201-supreme-commander-2.json) |
+| Supreme Commander 2: Infinite War Battle Pack | 155169 | [155169-supreme-commander-2-infinite-war-battle-pack.json](./155169-supreme-commander-2-infinite-war-battle-pack.json) |
 | Supreme Duelist Stickman | 198310 | [198310-supreme-duelist-stickman.json](./198310-supreme-duelist-stickman.json) |
 | Supreme Duo | 227269 | [227269-supreme-duo.json](./227269-supreme-duo.json) |
 | Supreme Earth Champion | 73257 | [73257-supreme-earth-champion.json](./73257-supreme-earth-champion.json) |
