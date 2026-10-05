@@ -1069,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Jamboree | 40232 | [40232-car-jamboree.json](./40232-car-jamboree.json) |
 | Car Jump | 164912 | [164912-car-jump.json](./164912-car-jump.json) |
 | Car Looper | 150533 | [150533-car-looper.json](./150533-car-looper.json) |
+| Car Mayhem | 119511 | [119511-car-mayhem.json](./119511-car-mayhem.json) |
 | Car Mechanic Flipper | 113661 | [113661-car-mechanic-flipper.json](./113661-car-mechanic-flipper.json) |
 | Car Mechanic Manager | 34569 | [34569-car-mechanic-manager.json](./34569-car-mechanic-manager.json) |
 | Car Mechanic Pinball | 219301 | [219301-car-mechanic-pinball.json](./219301-car-mechanic-pinball.json) |
@@ -2243,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch the Donut | 164276 | [164276-catch-the-donut.json](./164276-catch-the-donut.json) |
 | Catch the Dustling | 329077 | [329077-catch-the-dustling.json](./329077-catch-the-dustling.json) |
 | Catch The Fox | 247499 | [247499-catch-the-fox.json](./247499-catch-the-fox.json) |
+| Catch the Head | 119601 | [119601-catch-the-head.json](./119601-catch-the-head.json) |
 | Catch the Moths | 359429 | [359429-catch-the-moths.json](./359429-catch-the-moths.json) |
 | Catch The Rabbit | 348244 | [348244-catch-the-rabbit.json](./348244-catch-the-rabbit.json) |
 | Catch the Rhythm | 339790 | [339790-catch-the-rhythm.json](./339790-catch-the-rhythm.json) |
@@ -6004,6 +6006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Roaster | 249918 | [249918-coffee-roaster.json](./249918-coffee-roaster.json) |
 | Coffee Run | 210667 | [210667-coffee-run.json](./210667-coffee-run.json) |
 | Coffee Run | 74470 | [74470-coffee-run.json](./74470-coffee-run.json) |
+| Coffee Runner Black and Mocha | 119490 | [119490-coffee-runner-black-and-mocha.json](./119490-coffee-runner-black-and-mocha.json) |
 | Coffee Shop Tycoon | 35274 | [35274-coffee-shop-tycoon.json](./35274-coffee-shop-tycoon.json) |
 | Coffee Talk | 106847 | [106847-coffee-talk.json](./106847-coffee-talk.json) |
 | Coffee Talk: Episode 2 - Hibiscus & Butterfly | 186528 | [186528-coffee-talk-episode-2-hibiscus-and-butterfly.json](./186528-coffee-talk-episode-2-hibiscus-and-butterfly.json) |
@@ -9012,6 +9015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CreateTech | 127359 | [127359-createtech.json](./127359-createtech.json) |
 | Creatio Ex Nihilo II: Deus Otiosus | 81762 | [81762-creatio-ex-nihilo-ii-deus-otiosus.json](./81762-creatio-ex-nihilo-ii-deus-otiosus.json) |
 | Creation & Magic | 174663 | [174663-creation-and-magic.json](./174663-creation-and-magic.json) |
+| Creation and Conquest: The Future War | 119499 | [119499-creation-and-conquest-the-future-war.json](./119499-creation-and-conquest-the-future-war.json) |
 | Creation of a God | 291701 | [291701-creation-of-a-god.json](./291701-creation-of-a-god.json) |
 | Creative Console | 211705 | [211705-creative-console.json](./211705-creative-console.json) |
 | Creative Kill Chamber | 235240 | [235240-creative-kill-chamber.json](./235240-creative-kill-chamber.json) |
@@ -9578,6 +9582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroad of Worlds: Magic Stars - Collector's Edition | 255708 | [255708-crossroad-of-worlds-magic-stars-collectors-edition.json](./255708-crossroad-of-worlds-magic-stars-collectors-edition.json) |
 | Crossroad OS | 259007 | [259007-crossroad-os.json](./259007-crossroad-os.json) |
 | Crossroads | 377570 | [377570-crossroads.json](./377570-crossroads.json) |
+| Crossroads Extreme | 119620 | [119620-crossroads-extreme.json](./119620-crossroads-extreme.json) |
 | Crossroads Farming Co. | 377056 | [377056-crossroads-farming-co.json](./377056-crossroads-farming-co.json) |
 | Crossroads Inn | 107255 | [107255-crossroads-inn.json](./107255-crossroads-inn.json) |
 | Crossroads Inn: Anniversary Edition | 154549 | [154549-crossroads-inn-anniversary-edition.json](./154549-crossroads-inn-anniversary-edition.json) |
