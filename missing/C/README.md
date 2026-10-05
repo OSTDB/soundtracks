@@ -5566,6 +5566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closed World | 312202 | [312202-closed-world.json](./312202-closed-world.json) |
 | Closer Than You Know | 199654 | [199654-closer-than-you-know.json](./199654-closer-than-you-know.json) |
 | Closer to Home | 221122 | [221122-closer-to-home.json](./221122-closer-to-home.json) |
+| Closer to Me | 121525 | [121525-closer-to-me.json](./121525-closer-to-me.json) |
 | Closer: Anagnorisis | 171992 | [171992-closer-anagnorisis.json](./171992-closer-anagnorisis.json) |
 | CloserLook VR: Oldways | 325838 | [325838-closerlook-vr-oldways.json](./325838-closerlook-vr-oldways.json) |
 | Closers | 55076 | [55076-closers.json](./55076-closers.json) |
@@ -5938,6 +5939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coded Black | 347784 | [347784-coded-black.json](./347784-coded-black.json) |
 | Codedoor | 281997 | [281997-codedoor.json](./281997-codedoor.json) |
 | Codemakers | 193411 | [193411-codemakers.json](./193411-codemakers.json) |
+| Codemancer | 121400 | [121400-codemancer.json](./121400-codemancer.json) |
 | Codemount | 301436 | [301436-codemount.json](./301436-codemount.json) |
 | Codename Cure | 35653 | [35653-codename-cure.json](./35653-codename-cure.json) |
 | Codename Cygnus | 63001 | [63001-codename-cygnus.json](./63001-codename-cygnus.json) |
@@ -6807,6 +6809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander: Zombie Wars | 258969 | [258969-commander-zombie-wars.json](./258969-commander-zombie-wars.json) |
 | Commander.io | 208914 | [208914-commander-io.json](./208914-commander-io.json) |
 | Commanders of the Void | 379872 | [379872-commanders-of-the-void.json](./379872-commanders-of-the-void.json) |
+| Commanders of Valor | 121508 | [121508-commanders-of-valor.json](./121508-commanders-of-valor.json) |
 | Commanders: Attack of the Genos | 20775 | [20775-commanders-attack-of-the-genos.json](./20775-commanders-attack-of-the-genos.json) |
 | CommanderTux | 320161 | [320161-commandertux.json](./320161-commandertux.json) |
 | Commanding Nations | 173035 | [173035-commanding-nations.json](./173035-commanding-nations.json) |
@@ -8561,6 +8564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crank Tower Defense | 347140 | [347140-crank-tower-defense.json](./347140-crank-tower-defense.json) |
 | Crank! Push! Tilt! | 243697 | [243697-crank-push-tilt.json](./243697-crank-push-tilt.json) |
 | CrankCore Incremental | 413211 | [413211-crankcore-incremental.json](./413211-crankcore-incremental.json) |
+| Cranked Up | 121490 | [121490-cranked-up.json](./121490-cranked-up.json) |
 | Crankies Workshop: Bozzbot Assembly | 180057 | [180057-crankies-workshop-bozzbot-assembly.json](./180057-crankies-workshop-bozzbot-assembly.json) |
 | Crankies Workshop: Grizzbot Assembly | 180067 | [180067-crankies-workshop-grizzbot-assembly.json](./180067-crankies-workshop-grizzbot-assembly.json) |
 | Crankies Workshop: Grizzbot Assembly 2 | 180068 | [180068-crankies-workshop-grizzbot-assembly-2.json](./180068-crankies-workshop-grizzbot-assembly-2.json) |
