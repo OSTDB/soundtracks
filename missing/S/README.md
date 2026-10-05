@@ -7315,6 +7315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Sexy Party | 358339 | [358339-slime-sexy-party.json](./358339-slime-sexy-party.json) |
 | Slime Shoot | 312329 | [312329-slime-shoot.json](./312329-slime-shoot.json) |
 | Slime Simulator Games | 286786 | [286786-slime-simulator-games.json](./286786-slime-simulator-games.json) |
+| Slime Slam | 126967 | [126967-slime-slam.json](./126967-slime-slam.json) |
 | Slime Slayer | 147607 | [147607-slime-slayer.json](./147607-slime-slayer.json) |
 | Slime Slayer: Endless Loot | 412954 | [412954-slime-slayer-endless-loot.json](./412954-slime-slayer-endless-loot.json) |
 | Slime Smasher EX | 213645 | [213645-slime-smasher-ex.json](./213645-slime-smasher-ex.json) |
@@ -10428,6 +10429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space City: Build Your Empire | 199662 | [199662-space-city-build-your-empire.json](./199662-space-city-build-your-empire.json) |
 | Space Clash: The Last Frontier | 111446 | [111446-space-clash-the-last-frontier.json](./111446-space-clash-the-last-frontier.json) |
 | Space CleanUp: Cosmic Robot Disinfector | 315663 | [315663-space-cleanup-cosmic-robot-disinfector.json](./315663-space-cleanup-cosmic-robot-disinfector.json) |
+| Space Climber | 127006 | [127006-space-climber.json](./127006-space-climber.json) |
 | Space Cobra Professional | 75733 | [75733-space-cobra-professional.json](./75733-space-cobra-professional.json) |
 | Space Cobra RetPixMod | 178647 | [178647-space-cobra-retpixmod.json](./178647-space-cobra-retpixmod.json) |
 | Space Cobra the Psychogun | 75734 | [75734-space-cobra-the-psychogun.json](./75734-space-cobra-the-psychogun.json) |
@@ -13040,6 +13042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Pixie | 153938 | [153938-star-pixie.json](./153938-star-pixie.json) |
 | Star Platinum | 234564 | [234564-star-platinum.json](./234564-star-platinum.json) |
 | Star Point Explorer | 150563 | [150563-star-point-explorer.json](./150563-star-point-explorer.json) |
+| Star Police | 126962 | [126962-star-police.json](./126962-star-police.json) |
 | Star Post | 47253 | [47253-star-post.json](./47253-star-post.json) |
 | Star Prince Dress up game | 184061 | [184061-star-prince-dress-up-game.json](./184061-star-prince-dress-up-game.json) |
 | Star Project | 32068 | [32068-star-project.json](./32068-star-project.json) |
@@ -13843,6 +13846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship EVO | 138009 | [138009-starship-evo.json](./138009-starship-evo.json) |
 | Starship Fighters: Galactic Warfare | 360155 | [360155-starship-fighters-galactic-warfare.json](./360155-starship-fighters-galactic-warfare.json) |
 | Starship Home | 293377 | [293377-starship-home.json](./293377-starship-home.json) |
+| Starship Horizons Bridge Simulator | 126963 | [126963-starship-horizons-bridge-simulator.json](./126963-starship-horizons-bridge-simulator.json) |
 | Starship Inspector | 127867 | [127867-starship-inspector.json](./127867-starship-inspector.json) |
 | Starship Pegasus | 42166 | [42166-starship-pegasus.json](./42166-starship-pegasus.json) |
 | Starship Saboteur Prototype | 133249 | [133249-starship-saboteur-prototype.json](./133249-starship-saboteur-prototype.json) |
@@ -17085,6 +17089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Life: Franchise Lord | 195188 | [195188-super-life-franchise-lord.json](./195188-super-life-franchise-lord.json) |
 | Super Little Acorns 3D Turbo | 23523 | [23523-super-little-acorns-3d-turbo.json](./23523-super-little-acorns-3d-turbo.json) |
 | Super Live Stadium | 301384 | [301384-super-live-stadium.json](./301384-super-live-stadium.json) |
+| Super Lobster Run | 126984 | [126984-super-lobster-run.json](./126984-super-lobster-run.json) |
 | Super Loco World | 313806 | [313806-super-loco-world.json](./313806-super-loco-world.json) |
 | Super Locomotive | 215748 | [215748-super-locomotive.json](./215748-super-locomotive.json) |
 | Super Lode Runner | 41320 | [41320-super-lode-runner.json](./41320-super-lode-runner.json) |
