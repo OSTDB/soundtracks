@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | General Population | 169820 | [169820-general-population.json](./169820-general-population.json) |
 | General Room | 176979 | [176979-general-room.json](./176979-general-room.json) |
 | General Staff: Black Powder | 249226 | [249226-general-staff-black-powder.json](./249226-general-staff-black-powder.json) |
+| General War Memories | 168623 | [168623-general-war-memories.json](./168623-general-war-memories.json) |
 | General's Son | 48579 | [48579-generals-son.json](./48579-generals-son.json) |
 | Generality | 205068 | [205068-generality.json](./205068-generality.json) |
 | GeneRally | 19280 | [19280-generally.json](./19280-generally.json) |
@@ -4198,6 +4199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GraphSpacer | 68637 | [68637-graphspacer.json](./68637-graphspacer.json) |
 | GraphSpacer Black | 80243 | [80243-graphspacer-black.json](./80243-graphspacer-black.json) |
 | Grapixo Arte em Guerra | 407522 | [407522-grapixo-arte-em-guerra.json](./407522-grapixo-arte-em-guerra.json) |
+| Grappin | 168699 | [168699-grappin.json](./168699-grappin.json) |
 | Grapple Bear | 114538 | [114538-grapple-bear.json](./114538-grapple-bear.json) |
 | Grapple Boy | 62425 | [62425-grapple-boy.json](./62425-grapple-boy.json) |
 | Grapple Car | 346704 | [346704-grapple-car.json](./346704-grapple-car.json) |
