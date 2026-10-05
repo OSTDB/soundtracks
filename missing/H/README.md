@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Skies: Crop Dusting Simulator | 395693 | [395693-harvest-skies-crop-dusting-simulator.json](./395693-harvest-skies-crop-dusting-simulator.json) |
 | Harvest Them | 239295 | [239295-harvest-them.json](./239295-harvest-them.json) |
 | Harvest Time | 69539 | [69539-harvest-time.json](./69539-harvest-time.json) |
+| Harvest Town | 125155 | [125155-harvest-town.json](./125155-harvest-town.json) |
 | Harvest Uranus | 244514 | [244514-harvest-uranus.json](./244514-harvest-uranus.json) |
 | Harvest Village | 340417 | [340417-harvest-village.json](./340417-harvest-village.json) |
 | Harvested | 118393 | [118393-harvested.json](./118393-harvested.json) |
@@ -3093,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero in an All-forgiving Fantasy World RPG | 357423 | [357423-hero-in-an-all-forgiving-fantasy-world-rpg.json](./357423-hero-in-an-all-forgiving-fantasy-world-rpg.json) |
 | Hero in the Castle of Doom | 40173 | [40173-hero-in-the-castle-of-doom.json](./40173-hero-in-the-castle-of-doom.json) |
 | Hero Jumper | 220034 | [220034-hero-jumper.json](./220034-hero-jumper.json) |
+| Hero Keeper | 125183 | [125183-hero-keeper.json](./125183-hero-keeper.json) |
 | Hero Legend | 246338 | [246338-hero-legend.json](./246338-hero-legend.json) |
 | Hero Like | 396188 | [396188-hero-like.json](./396188-hero-like.json) |
 | Hero Link | 390194 | [390194-hero-link.json](./390194-hero-link.json) |
@@ -4504,6 +4506,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman World of Assassination: VR Access | 317632 | [317632-hitman-world-of-assassination-vr-access.json](./317632-hitman-world-of-assassination-vr-access.json) |
 | Hitman: Absolution HD | 218974 | [218974-hitman-absolution-hd.json](./218974-hitman-absolution-hd.json) |
 | Hitman: Blood Money HD | 99816 | [99816-hitman-blood-money-hd.json](./99816-hitman-blood-money-hd.json) |
+| Hitman: Blood Money L.A. | 125151 | [125151-hitman-blood-money-l-a.json](./125151-hitman-blood-money-l-a.json) |
+| Hitman: Blood Money Vegas | 125150 | [125150-hitman-blood-money-vegas.json](./125150-hitman-blood-money-vegas.json) |
 | Hitman: Collector's Edition | 41619 | [41619-hitman-collectors-edition.json](./41619-hitman-collectors-edition.json) |
 | Hitman: Episode 5 - Colorado | 91024 | [91024-hitman-episode-5-colorado.json](./91024-hitman-episode-5-colorado.json) |
 | Hitman: Freelancer | 323712 | [323712-hitman-freelancer.json](./323712-hitman-freelancer.json) |
