@@ -1895,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble Plus | 209005 | [209005-scrabble-plus.json](./209005-scrabble-plus.json) |
 | Scrabble Slam! | 66694 | [66694-scrabble-slam.json](./66694-scrabble-slam.json) |
 | Scrabble: Champion Edition | 209016 | [209016-scrabble-champion-edition.json](./209016-scrabble-champion-edition.json) |
+| Scrabble: Deluxe Edition | 145290 | [145290-scrabble-deluxe-edition.json](./145290-scrabble-deluxe-edition.json) |
 | Scrabdackle | 141167 | [141167-scrabdackle.json](./141167-scrabdackle.json) |
 | ScrabWordle | 228716 | [228716-scrabwordle.json](./228716-scrabwordle.json) |
 | Scraftion | 152851 | [152851-scraftion.json](./152851-scraftion.json) |
@@ -3510,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaberu! DS Cooking Navi | 345570 | [345570-shaberu-ds-cooking-navi.json](./345570-shaberu-ds-cooking-navi.json) |
 | Shachibato! President, It's Time for Battle! Maju Wars | 145520 | [145520-shachibato-president-its-time-for-battle-maju-wars.json](./145520-shachibato-president-its-time-for-battle-maju-wars.json) |
 | Shachou Eiyuuden: The Eagle Shooting Heroes | 78343 | [78343-shachou-eiyuuden-the-eagle-shooting-heroes.json](./78343-shachou-eiyuuden-the-eagle-shooting-heroes.json) |
+| Shackle | 145273 | [145273-shackle.json](./145273-shackle.json) |
 | Shackled | 148354 | [148354-shackled.json](./148354-shackled.json) |
 | Shackles of Ellswyn | 203776 | [203776-shackles-of-ellswyn.json](./203776-shackles-of-ellswyn.json) |
 | Shad'O | 80331 | [80331-shado.json](./80331-shado.json) |
@@ -5423,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
 | Siege Saga | 77633 | [77633-siege-saga.json](./77633-siege-saga.json) |
 | Siege Showdown | 270072 | [270072-siege-showdown.json](./270072-siege-showdown.json) |
+| Siege Survival: Gloria Victis | 145242 | [145242-siege-survival-gloria-victis.json](./145242-siege-survival-gloria-victis.json) |
 | Siegebreaker | 276967 | [276967-siegebreaker.json](./276967-siegebreaker.json) |
 | Siegecraft TD | 39212 | [39212-siegecraft-td.json](./39212-siegecraft-td.json) |
 | Siegelord | 23633 | [23633-siegelord.json](./23633-siegelord.json) |
@@ -9261,6 +9264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Digitalized | 326152 | [326152-sonic-digitalized.json](./326152-sonic-digitalized.json) |
 | Sonic DL Adventure | 318512 | [318512-sonic-dl-adventure.json](./318512-sonic-dl-adventure.json) |
 | Sonic Doom 2: 'Bots on Mobius | 374276 | [374276-sonic-doom-2-bots-on-mobius.json](./374276-sonic-doom-2-bots-on-mobius.json) |
+| Sonic Double Pack: Sonic Mania Plus & Sonic Forces | 145254 | [145254-sonic-double-pack-sonic-mania-plus-and-sonic-forces.json](./145254-sonic-double-pack-sonic-mania-plus-and-sonic-forces.json) |
 | Sonic Dream Team | 274840 | [274840-sonic-dream-team.json](./274840-sonic-dream-team.json) |
 | Sonic Dreams Collection | 11656 | [11656-sonic-dreams-collection.json](./11656-sonic-dreams-collection.json) |
 | Sonic Drift | 45798 | [45798-sonic-drift.json](./45798-sonic-drift.json) |
@@ -11845,6 +11849,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirou: The Robot Invasion | 97487 | [97487-spirou-the-robot-invasion.json](./97487-spirou-the-robot-invasion.json) |
 | Spirulena Interceptor | 291231 | [291231-spirulena-interceptor.json](./291231-spirulena-interceptor.json) |
 | Spish | 169421 | [169421-spish.json](./169421-spish.json) |
+| Spitball Sparky | 145236 | [145236-spitball-sparky.json](./145236-spitball-sparky.json) |
+| Spite and Malice | 145282 | [145282-spite-and-malice.json](./145282-spite-and-malice.json) |
 | Spiteful Lovers in a Perfect World | 308539 | [308539-spiteful-lovers-in-a-perfect-world.json](./308539-spiteful-lovers-in-a-perfect-world.json) |
 | Spitfire | 282629 | [282629-spitfire.json](./282629-spitfire.json) |
 | Spitfire | 85829 | [85829-spitfire.json](./85829-spitfire.json) |
@@ -13398,6 +13404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
 | StarGazers | 245873 | [245873-stargazers.json](./245873-stargazers.json) |
 | Stargazing | 261426 | [261426-stargazing.json](./261426-stargazing.json) |
+| StarGazing | 145288 | [145288-stargazing.json](./145288-stargazing.json) |
 | Stargazing 64 | 350523 | [350523-stargazing-64.json](./350523-stargazing-64.json) |
 | Stargazing: Genesis | 195705 | [195705-stargazing-genesis.json](./195705-stargazing-genesis.json) |
 | Stargoose Warrior | 51285 | [51285-stargoose-warrior.json](./51285-stargoose-warrior.json) |
@@ -16223,6 +16230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrise Down | 312730 | [312730-sunrise-down.json](./312730-sunrise-down.json) |
 | Sunrise of the Time: End of Blue | 375944 | [375944-sunrise-of-the-time-end-of-blue.json](./375944-sunrise-of-the-time-end-of-blue.json) |
 | Sunrise Village: Farm Game | 248100 | [248100-sunrise-village-farm-game.json](./248100-sunrise-village-farm-game.json) |
+| Sunrise World War | 145271 | [145271-sunrise-world-war.json](./145271-sunrise-world-war.json) |
 | Sunrise's Order | 216727 | [216727-sunrises-order.json](./216727-sunrises-order.json) |
 | Sunrock Lake | 395774 | [395774-sunrock-lake.json](./395774-sunrock-lake.json) |
 | Sunrose.p8 | 179488 | [179488-sunrose-p8.json](./179488-sunrose-p8.json) |
@@ -19369,6 +19377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthrome | 316614 | [316614-synthrome.json](./316614-synthrome.json) |
 | Synthroute 82 | 304649 | [304649-synthroute-82.json](./304649-synthroute-82.json) |
 | SynthRunner | 233630 | [233630-synthrunner.json](./233630-synthrunner.json) |
+| SynthVR | 145267 | [145267-synthvr.json](./145267-synthvr.json) |
 | Synthwave Ascension | 265117 | [265117-synthwave-ascension.json](./265117-synthwave-ascension.json) |
 | Synthwave Driver | 344387 | [344387-synthwave-driver.json](./344387-synthwave-driver.json) |
 | Synthwave Glider | 224604 | [224604-synthwave-glider.json](./224604-synthwave-glider.json) |
