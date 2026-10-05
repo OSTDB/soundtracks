@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Fairy Fantasy | 122432 | [122432-dark-fairy-fantasy.json](./122432-dark-fairy-fantasy.json) |
 | Dark Fairy Tale | 348332 | [348332-dark-fairy-tale.json](./348332-dark-fairy-tale.json) |
 | Dark Fall | 9817 | [9817-dark-fall.json](./9817-dark-fall.json) |
+| Dark Fantasy 2: Jigsaw Puzzle | 118146 | [118146-dark-fantasy-2-jigsaw-puzzle.json](./118146-dark-fantasy-2-jigsaw-puzzle.json) |
 | Dark Fantasy Godhood | 385319 | [385319-dark-fantasy-godhood.json](./385319-dark-fantasy-godhood.json) |
 | Dark Fantasy: Epic Jigsaw Puzzle | 137441 | [137441-dark-fantasy-epic-jigsaw-puzzle.json](./137441-dark-fantasy-epic-jigsaw-puzzle.json) |
 | Dark Fantasy: Jigsaw Puzzle | 111774 | [111774-dark-fantasy-jigsaw-puzzle.json](./111774-dark-fantasy-jigsaw-puzzle.json) |
@@ -6411,6 +6412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domestic Dog | 36006 | [36006-domestic-dog.json](./36006-domestic-dog.json) |
 | Domestic Elementalism | 207217 | [207217-domestic-elementalism.json](./207217-domestic-elementalism.json) |
 | DomiCard | 107904 | [107904-domicard.json](./107904-domicard.json) |
+| DomiDo | 118144 | [118144-domido.json](./118144-domido.json) |
 | Dominacy | 109058 | [109058-dominacy.json](./109058-dominacy.json) |
 | Dominance | 116371 | [116371-dominance.json](./116371-dominance.json) |
 | Dominance Chess-like | 311195 | [311195-dominance-chess-like.json](./311195-dominance-chess-like.json) |
@@ -8446,6 +8448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Fallen: Vila do Chaves | 188082 | [188082-dream-fallen-vila-do-chaves.json](./188082-dream-fallen-vila-do-chaves.json) |
 | Dream Fight Will | 216735 | [216735-dream-fight-will.json](./216735-dream-fight-will.json) |
 | Dream Fire | 241951 | [241951-dream-fire.json](./241951-dream-fire.json) |
+| Dream Flash | 118251 | [118251-dream-flash.json](./118251-dream-flash.json) |
 | Dream Football Club | 220843 | [220843-dream-football-club.json](./220843-dream-football-club.json) |
 | Dream Frontier | 301902 | [301902-dream-frontier.json](./301902-dream-frontier.json) |
 | Dream Garden | 339968 | [339968-dream-garden.json](./339968-dream-garden.json) |
@@ -9576,6 +9579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Bomber | 390258 | [390258-dungeon-bomber.json](./390258-dungeon-bomber.json) |
 | Dungeon Boss | 59836 | [59836-dungeon-boss.json](./59836-dungeon-boss.json) |
 | Dungeon Boss: Respawned | 251660 | [251660-dungeon-boss-respawned.json](./251660-dungeon-boss-respawned.json) |
+| Dungeon Bosses | 118225 | [118225-dungeon-bosses.json](./118225-dungeon-bosses.json) |
 | Dungeon Brawl | 373095 | [373095-dungeon-brawl.json](./373095-dungeon-brawl.json) |
 | Dungeon Brewmaster | 98734 | [98734-dungeon-brewmaster.json](./98734-dungeon-brewmaster.json) |
 | Dungeon Builder S | 44199 | [44199-dungeon-builder-s.json](./44199-dungeon-builder-s.json) |
