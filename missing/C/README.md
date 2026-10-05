@@ -1683,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castaway Soul | 336688 | [336688-castaway-soul.json](./336688-castaway-soul.json) |
 | Castaway Survival In Ocean: Build Your Own Raft, Craft | 409694 | [409694-castaway-survival-in-ocean-build-your-own-raft-craft.json](./409694-castaway-survival-in-ocean-build-your-own-raft-craft.json) |
 | Castaways VR | 120341 | [120341-castaways-vr.json](./120341-castaways-vr.json) |
+| Caste: The Secret Of Devon | 159777 | [159777-caste-the-secret-of-devon.json](./159777-caste-the-secret-of-devon.json) |
 | Castelian | 295029 | [295029-castelian.json](./295029-castelian.json) |
 | Castellan | 411700 | [411700-castellan.json](./411700-castellan.json) |
 | Castelo Rá-Tim-Bum | 84302 | [84302-castelo-ra-tim-bum.json](./84302-castelo-ra-tim-bum.json) |
@@ -6906,6 +6907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condemned 2: Bloodshot | 6943 | [6943-condemned-2-bloodshot.json](./6943-condemned-2-bloodshot.json) |
 | Condemned To Be Free | 345538 | [345538-condemned-to-be-free.json](./345538-condemned-to-be-free.json) |
 | Condemned: Criminal Origins | 6942 | [6942-condemned-criminal-origins.json](./6942-condemned-criminal-origins.json) |
+| Condition 24 | 159774 | [159774-condition-24.json](./159774-condition-24.json) |
 | Condo | 349936 | [349936-condo.json](./349936-condo.json) |
 | Condom Commander | 411628 | [411628-condom-commander.json](./411628-condom-commander.json) |
 | Condominium | 333356 | [333356-condominium.json](./333356-condominium.json) |
