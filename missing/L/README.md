@@ -2965,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines Lines | 232500 | [232500-lines-lines.json](./232500-lines-lines.json) |
 | Lines on Sides | 174224 | [174224-lines-on-sides.json](./174224-lines-on-sides.json) |
 | Lines Splitter | 142876 | [142876-lines-splitter.json](./142876-lines-splitter.json) |
+| Lines X | 119522 | [119522-lines-x.json](./119522-lines-x.json) |
 | Lines X Free | 107263 | [107263-lines-x-free.json](./107263-lines-x-free.json) |
 | Linesgo | 326092 | [326092-linesgo.json](./326092-linesgo.json) |
 | LineWars II | 69230 | [69230-linewars-ii.json](./69230-linewars-ii.json) |
@@ -5233,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lullaby | 256805 | [256805-lullaby.json](./256805-lullaby.json) |
 | Lullaby Data | 311639 | [311639-lullaby-data.json](./311639-lullaby-data.json) |
 | Lullaby Days | 166703 | [166703-lullaby-days.json](./166703-lullaby-days.json) |
+| Lulu & Ennoi: Sacred Suit Girls | 119621 | [119621-lulu-and-ennoi-sacred-suit-girls.json](./119621-lulu-and-ennoi-sacred-suit-girls.json) |
 | Lulu Fighter for LOL | 243096 | [243096-lulu-fighter-for-lol.json](./243096-lulu-fighter-for-lol.json) |
 | Lulu's Temple | 195696 | [195696-lulus-temple.json](./195696-lulus-temple.json) |
 | Lum: Hide from Nightmares | 211180 | [211180-lum-hide-from-nightmares.json](./211180-lum-hide-from-nightmares.json) |
