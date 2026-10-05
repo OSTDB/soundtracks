@@ -3123,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes & Dice | 348833 | [348833-heroes-and-dice.json](./348833-heroes-and-dice.json) |
 | Heroes & Generals: GE Giga Pack | 161911 | [161911-heroes-and-generals-ge-giga-pack.json](./161911-heroes-and-generals-ge-giga-pack.json) |
 | Heroes & Generals: GE Mega Pack | 161916 | [161916-heroes-and-generals-ge-mega-pack.json](./161916-heroes-and-generals-ge-mega-pack.json) |
+| Heroes & Generals: GE Soldier Pack - Heavy Tanker | 161720 | [161720-heroes-and-generals-ge-soldier-pack-heavy-tanker.json](./161720-heroes-and-generals-ge-soldier-pack-heavy-tanker.json) |
 | Heroes & Generals: GE Soldier Pack - Light Tanker | 161910 | [161910-heroes-and-generals-ge-soldier-pack-light-tanker.json](./161910-heroes-and-generals-ge-soldier-pack-light-tanker.json) |
 | Heroes & Generals: GE Soldier Pack - Medium Tanker | 161919 | [161919-heroes-and-generals-ge-soldier-pack-medium-tanker.json](./161919-heroes-and-generals-ge-soldier-pack-medium-tanker.json) |
 | Heroes & Generals: GE Super Pack | 156172 | [156172-heroes-and-generals-ge-super-pack.json](./156172-heroes-and-generals-ge-super-pack.json) |
@@ -4237,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HIND: The Russian Combat Helicopter Simulation | 747 | [747-hind-the-russian-combat-helicopter-simulation.json](./747-hind-the-russian-combat-helicopter-simulation.json) |
 | Hinekuremono no Gakuen Seishun Monogatari: Ore to Kanojo no Reversible | 194557 | [194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json](./194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json) |
 | Hinge VR | 141170 | [141170-hinge-vr.json](./141170-hinge-vr.json) |
+| Hinge VR | 161722 | [161722-hinge-vr.json](./161722-hinge-vr.json) |
 | Hinokakera the Fragments of Innocent Sinner | 64642 | [64642-hinokakera-the-fragments-of-innocent-sinner.json](./64642-hinokakera-the-fragments-of-innocent-sinner.json) |
 | Hinomaruko | 122404 | [122404-hinomaruko.json](./122404-hinomaruko.json) |
 | Hinter Gittern Vol. II | 100143 | [100143-hinter-gittern-vol-ii.json](./100143-hinter-gittern-vol-ii.json) |
