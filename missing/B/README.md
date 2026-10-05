@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Pop | 187361 | [187361-balloon-pop.json](./187361-balloon-pop.json) |
 | Balloon Pop for Toddlers & Kids: Learn Numbers, Letters, Colors & Animals | 147925 | [147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json](./147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json) |
 | Balloon Rescue | 67699 | [67699-balloon-rescue.json](./67699-balloon-rescue.json) |
+| Balloon Smash | 130693 | [130693-balloon-smash.json](./130693-balloon-smash.json) |
 | Balloon to the Moon 2 | 316083 | [316083-balloon-to-the-moon-2.json](./316083-balloon-to-the-moon-2.json) |
 | Balloonacy 2 | 97324 | [97324-balloonacy-2.json](./97324-balloonacy-2.json) |
 | Balloonacy! | 39043 | [39043-balloonacy.json](./39043-balloonacy.json) |
@@ -7666,6 +7667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brahma Force: The Assault on Beltlogger 9 | 20816 | [20816-brahma-force-the-assault-on-beltlogger-9.json](./20816-brahma-force-the-assault-on-beltlogger-9.json) |
 | Brahman: The Gate of Salvation | 236327 | [236327-brahman-the-gate-of-salvation.json](./236327-brahman-the-gate-of-salvation.json) |
 | Braid: Anniversary Edition | 136511 | [136511-braid-anniversary-edition.json](./136511-braid-anniversary-edition.json) |
+| Brain | 130707 | [130707-brain.json](./130707-brain.json) |
 | Brain 43°C | 104051 | [104051-brain-43-c.json](./104051-brain-43-c.json) |
 | Brain Age 2: More Training in Minutes a Day! | 2711 | [2711-brain-age-2-more-training-in-minutes-a-day.json](./2711-brain-age-2-more-training-in-minutes-a-day.json) |
 | Brain Age Express: Arts & Letters | 67792 | [67792-brain-age-express-arts-and-letters.json](./67792-brain-age-express-arts-and-letters.json) |
@@ -8982,6 +8984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs! | 119679 | [119679-bugs.json](./119679-bugs.json) |
 | BugsBoxVR | 111454 | [111454-bugsboxvr.json](./111454-bugsboxvr.json) |
 | Bugscraper | 230797 | [230797-bugscraper.json](./230797-bugscraper.json) |
+| Bugtris | 130674 | [130674-bugtris.json](./130674-bugtris.json) |
 | BugWorld | 254003 | [254003-bugworld.json](./254003-bugworld.json) |
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
 | Bugz Bows & Curses | 214192 | [214192-bugz-bows-and-curses.json](./214192-bugz-bows-and-curses.json) |
