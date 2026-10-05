@@ -4939,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock 'N Racing Off Road DX | 20959 | [20959-rock-n-racing-off-road-dx.json](./20959-rock-n-racing-off-road-dx.json) |
 | Rock 'N Roll | 90647 | [90647-rock-n-roll.json](./90647-rock-n-roll.json) |
 | Rock 'N Roll: G.E.O.S. Wars | 170880 | [170880-rock-n-roll-g-e-o-s-wars.json](./170880-rock-n-roll-g-e-o-s-wars.json) |
+| Rock 'n Shaolin: Legend of the Seven Paladins 3D | 159188 | [159188-rock-n-shaolin-legend-of-the-seven-paladins-3d.json](./159188-rock-n-shaolin-legend-of-the-seven-paladins-3d.json) |
 | Rock 'N' Roll Defense | 33583 | [33583-rock-n-roll-defense.json](./33583-rock-n-roll-defense.json) |
 | Rock 'n' Roll Will Never Die! | 199358 | [199358-rock-n-roll-will-never-die.json](./199358-rock-n-roll-will-never-die.json) |
 | Rock Band | 2685 | [2685-rock-band.json](./2685-rock-band.json) |
@@ -5071,6 +5072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 19 Elite Pack | 366843 | [366843-rocket-league-season-19-elite-pack.json](./366843-rocket-league-season-19-elite-pack.json) |
 | Rocket League: Season 19 Rookie Pack | 366844 | [366844-rocket-league-season-19-rookie-pack.json](./366844-rocket-league-season-19-rookie-pack.json) |
 | Rocket League: Season 23 | 407432 | [407432-rocket-league-season-23.json](./407432-rocket-league-season-23.json) |
+| Rocket League: Season 3 | 159225 | [159225-rocket-league-season-3.json](./159225-rocket-league-season-3.json) |
 | Rocket League: Season 5 | 198278 | [198278-rocket-league-season-5.json](./198278-rocket-league-season-5.json) |
 | Rocket League: Season 6 | 198279 | [198279-rocket-league-season-6.json](./198279-rocket-league-season-6.json) |
 | Rocket League: Season 7 | 204462 | [204462-rocket-league-season-7.json](./204462-rocket-league-season-7.json) |
