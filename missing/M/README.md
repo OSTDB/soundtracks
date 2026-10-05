@@ -1623,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mangaka Dream | 229734 | [229734-mangaka-dream.json](./229734-mangaka-dream.json) |
 | Mangan Shisen-sho | 206357 | [206357-mangan-shisen-sho.json](./206357-mangan-shisen-sho.json) |
 | Mangata | 184048 | [184048-mangata.json](./184048-mangata.json) |
+| Mangavania | 141492 | [141492-mangavania.json](./141492-mangavania.json) |
 | Mangchi | 39591 | [39591-mangchi.json](./39591-mangchi.json) |
 | Mangchi the Hammer Boy | 240178 | [240178-mangchi-the-hammer-boy.json](./240178-mangchi-the-hammer-boy.json) |
 | Mango | 393833 | [393833-mango.json](./393833-mango.json) |
@@ -2718,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masked Shooters Single-player | 240489 | [240489-masked-shooters-single-player.json](./240489-masked-shooters-single-player.json) |
 | Masked Wolf: Astronaut Tiles Hop Beat | 182442 | [182442-masked-wolf-astronaut-tiles-hop-beat.json](./182442-masked-wolf-astronaut-tiles-hop-beat.json) |
 | Maskerade: The Deadpan Cry | 304100 | [304100-maskerade-the-deadpan-cry.json](./304100-maskerade-the-deadpan-cry.json) |
+| Masketeers: Idle has Fallen | 141488 | [141488-masketeers-idle-has-fallen.json](./141488-masketeers-idle-has-fallen.json) |
 | Maskim Xul | 256870 | [256870-maskim-xul.json](./256870-maskim-xul.json) |
 | Maskless | 135267 | [135267-maskless.json](./135267-maskless.json) |
 | Masks of Deception | 200705 | [200705-masks-of-deception.json](./200705-masks-of-deception.json) |
@@ -5148,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Exile | 264691 | [264691-metal-exile.json](./264691-metal-exile.json) |
 | Metal Eye | 308246 | [308246-metal-eye.json](./308246-metal-eye.json) |
 | Metal Eye 2 | 308247 | [308247-metal-eye-2.json](./308247-metal-eye-2.json) |
+| Metal Factions | 141558 | [141558-metal-factions.json](./141558-metal-factions.json) |
 | Metal Faith | 161166 | [161166-metal-faith.json](./161166-metal-faith.json) |
 | Metal Fight Beyblade Portable: Chouzetsu Tensei! Vulcan Horuseus | 65197 | [65197-metal-fight-beyblade-portable-chouzetsu-tensei-vulcan-horuseus.json](./65197-metal-fight-beyblade-portable-chouzetsu-tensei-vulcan-horuseus.json) |
 | Metal Fight Beyblade: Bakushin Susanow Attacks! | 394193 | [394193-metal-fight-beyblade-bakushin-susanow-attacks.json](./394193-metal-fight-beyblade-bakushin-susanow-attacks.json) |
@@ -5251,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug Collection | 51223 | [51223-metal-slug-collection.json](./51223-metal-slug-collection.json) |
 | Metal Slug Defense | 35593 | [35593-metal-slug-defense.json](./35593-metal-slug-defense.json) |
 | Metal Slug Defense: "KOF Pack" Vol.1 | 405013 | [405013-metal-slug-defense-kof-pack-vol-1.json](./405013-metal-slug-defense-kof-pack-vol-1.json) |
+| Metal Slug Mobile 3 | 141517 | [141517-metal-slug-mobile-3.json](./141517-metal-slug-mobile-3.json) |
 | Metal Slug Revolution | 98432 | [98432-metal-slug-revolution.json](./98432-metal-slug-revolution.json) |
 | Metal Slug Rush | 409737 | [409737-metal-slug-rush.json](./409737-metal-slug-rush.json) |
 | Metal Slug SB Fanthology | 324895 | [324895-metal-slug-sb-fanthology.json](./324895-metal-slug-sb-fanthology.json) |
