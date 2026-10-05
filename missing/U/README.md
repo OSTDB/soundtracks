@@ -916,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Brine | 233135 | [233135-under-the-brine.json](./233135-under-the-brine.json) |
 | Under the Castle | 275663 | [275663-under-the-castle.json](./275663-under-the-castle.json) |
 | Under The Concrete Wave | 306068 | [306068-under-the-concrete-wave.json](./306068-under-the-concrete-wave.json) |
+| Under the Counter | 149686 | [149686-under-the-counter.json](./149686-under-the-counter.json) |
 | Under the Farm | 184648 | [184648-under-the-farm.json](./184648-under-the-farm.json) |
 | Under the Ghost Mountain | 156975 | [156975-under-the-ghost-mountain.json](./156975-under-the-ghost-mountain.json) |
 | Under the Island | 151501 | [151501-under-the-island.json](./151501-under-the-island.json) |
@@ -1099,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld: Allied Expedition | 358515 | [358515-underworld-allied-expedition.json](./358515-underworld-allied-expedition.json) |
 | Underwurlde | 14588 | [14588-underwurlde.json](./14588-underwurlde.json) |
 | Undetected | 193334 | [193334-undetected.json](./193334-undetected.json) |
+| Undiscovered House | 149698 | [149698-undiscovered-house.json](./149698-undiscovered-house.json) |
 | Undisputed | 146957 | [146957-undisputed.json](./146957-undisputed.json) |
 | Undisputed Champ | 112735 | [112735-undisputed-champ.json](./112735-undisputed-champ.json) |
 | Undisputed: Deluxe WBC Edition | 325656 | [325656-undisputed-deluxe-wbc-edition.json](./325656-undisputed-deluxe-wbc-edition.json) |
