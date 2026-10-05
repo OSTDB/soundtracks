@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octo Curse | 251015 | [251015-octo-curse.json](./251015-octo-curse.json) |
 | Octo Vinctum: Saga of the Galactic Stardom War | 197124 | [197124-octo-vinctum-saga-of-the-galactic-stardom-war.json](./197124-octo-vinctum-saga-of-the-galactic-stardom-war.json) |
 | Octo's Balloon Challenge | 301022 | [301022-octos-balloon-challenge.json](./301022-octos-balloon-challenge.json) |
+| October Night Games | 138514 | [138514-october-night-games.json](./138514-october-night-games.json) |
 | October Nightmares | 272341 | [272341-october-nightmares.json](./272341-october-nightmares.json) |
 | October Ordeal | 318511 | [318511-october-ordeal.json](./318511-october-ordeal.json) |
 | OctoCraps | 365169 | [365169-octocraps.json](./365169-octocraps.json) |
