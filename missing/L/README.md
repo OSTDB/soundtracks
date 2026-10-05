@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Fortress | 318757 | [318757-laser-fortress.json](./318757-laser-fortress.json) |
 | Laser Grid | 52252 | [52252-laser-grid.json](./52252-laser-grid.json) |
 | Laser Harp VR | 357218 | [357218-laser-harp-vr.json](./357218-laser-harp-vr.json) |
+| Laser Heck | 132679 | [132679-laser-heck.json](./132679-laser-heck.json) |
 | Laser Hell | 384183 | [384183-laser-hell.json](./384183-laser-hell.json) |
 | Laser Lab | 214028 | [214028-laser-lab.json](./214028-laser-lab.json) |
 | Laser Light | 14462 | [14462-laser-light.json](./14462-laser-light.json) |
@@ -2453,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of A Commenter | 183917 | [183917-life-of-a-commenter.json](./183917-life-of-a-commenter.json) |
 | Life of a Goldfish | 364670 | [364670-life-of-a-goldfish.json](./364670-life-of-a-goldfish.json) |
 | Life of a Lonely Indie Game Developer | 324888 | [324888-life-of-a-lonely-indie-game-developer.json](./324888-life-of-a-lonely-indie-game-developer.json) |
+| Life of a Mercenary | 132606 | [132606-life-of-a-mercenary.json](./132606-life-of-a-mercenary.json) |
 | Life of a Space Force Captain | 190947 | [190947-life-of-a-space-force-captain.json](./190947-life-of-a-space-force-captain.json) |
 | Life of a Thug | 306341 | [306341-life-of-a-thug.json](./306341-life-of-a-thug.json) |
 | Life of an NPC | 381128 | [381128-life-of-an-npc.json](./381128-life-of-an-npc.json) |
@@ -3911,6 +3913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loneliness Butterfly | 314074 | [314074-loneliness-butterfly.json](./314074-loneliness-butterfly.json) |
 | Lonely | 229677 | [229677-lonely.json](./229677-lonely.json) |
 | Lonely Adventure | 115183 | [115183-lonely-adventure.json](./115183-lonely-adventure.json) |
+| Lonely Arts | 132577 | [132577-lonely-arts.json](./132577-lonely-arts.json) |
 | Lonely Astronaut | 76303 | [76303-lonely-astronaut.json](./76303-lonely-astronaut.json) |
 | Lonely Catgirl is the Purrfect Pussy | 156629 | [156629-lonely-catgirl-is-the-purrfect-pussy.json](./156629-lonely-catgirl-is-the-purrfect-pussy.json) |
 | Lonely Christmas | 326140 | [326140-lonely-christmas.json](./326140-lonely-christmas.json) |
