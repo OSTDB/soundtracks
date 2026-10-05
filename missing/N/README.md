@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Hagakure | 215621 | [215621-ninja-hagakure.json](./215621-ninja-hagakure.json) |
 | Ninja Hamster | 39150 | [39150-ninja-hamster.json](./39150-ninja-hamster.json) |
 | Ninja Hands | 266254 | [266254-ninja-hands.json](./266254-ninja-hands.json) |
+| Ninja Hanrei | 172000 | [172000-ninja-hanrei.json](./172000-ninja-hanrei.json) |
 | Ninja Hattori-kun | 346042 | [346042-ninja-hattori-kun.json](./346042-ninja-hattori-kun.json) |
 | Ninja Hattori-kun | 58882 | [58882-ninja-hattori-kun.json](./58882-ninja-hattori-kun.json) |
 | Ninja Hayate HD Remaster | 341094 | [341094-ninja-hayate-hd-remaster.json](./341094-ninja-hayate-hd-remaster.json) |
