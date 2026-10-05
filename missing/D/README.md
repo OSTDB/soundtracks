@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dào zhī Zhàn | 367570 | [367570-dao-zhi-zhan.json](./367570-dao-zhi-zhan.json) |
 | Dap | 143326 | [143326-dap.json](./143326-dap.json) |
 | Dapithapon | 341088 | [341088-dapithapon.json](./341088-dapithapon.json) |
+| Dappervolk | 130667 | [130667-dappervolk.json](./130667-dappervolk.json) |
 | Darco: Reign of Elements | 90092 | [90092-darco-reign-of-elements.json](./90092-darco-reign-of-elements.json) |
 | Dardeep | 232967 | [232967-dardeep.json](./232967-dardeep.json) |
 | Dare | 130352 | [130352-dare.json](./130352-dare.json) |
@@ -2308,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death By Hamster | 262666 | [262666-death-by-hamster.json](./262666-death-by-hamster.json) |
 | Death By Taxes | 414473 | [414473-death-by-taxes.json](./414473-death-by-taxes.json) |
 | Death Cargo | 55130 | [55130-death-cargo.json](./55130-death-cargo.json) |
+| Death Carnival | 130677 | [130677-death-carnival.json](./130677-death-carnival.json) |
 | Death Climbing | 332981 | [332981-death-climbing.json](./332981-death-climbing.json) |
 | Death Comes Skiing | 362888 | [362888-death-comes-skiing.json](./362888-death-comes-skiing.json) |
 | Death Connection Portable | 203266 | [203266-death-connection-portable.json](./203266-death-connection-portable.json) |
@@ -3703,6 +3705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Rats | 12419 | [12419-desert-rats.json](./12419-desert-rats.json) |
 | Desert Rider | 42149 | [42149-desert-rider.json](./42149-desert-rider.json) |
 | Desert Rigs | 134060 | [134060-desert-rigs.json](./134060-desert-rigs.json) |
+| Desert Runners | 130679 | [130679-desert-runners.json](./130679-desert-runners.json) |
 | Desert Rush | 265430 | [265430-desert-rush.json](./265430-desert-rush.json) |
 | Desert Spirit Grave | 253978 | [253978-desert-spirit-grave.json](./253978-desert-spirit-grave.json) |
 | Desert Storm | 270687 | [270687-desert-storm.json](./270687-desert-storm.json) |
@@ -4204,6 +4207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Slayer | 171461 | [171461-devil-slayer.json](./171461-devil-slayer.json) |
 | Devil Slayer: Raksasi - Incarnation of Darkness | 242023 | [242023-devil-slayer-raksasi-incarnation-of-darkness.json](./242023-devil-slayer-raksasi-incarnation-of-darkness.json) |
 | Devil Spire Falls | 341018 | [341018-devil-spire-falls.json](./341018-devil-spire-falls.json) |
+| Devil Station | 130676 | [130676-devil-station.json](./130676-devil-station.json) |
 | Devil Stone | 110329 | [110329-devil-stone.json](./110329-devil-stone.json) |
 | Devil Tears | 175789 | [175789-devil-tears.json](./175789-devil-tears.json) |
 | Devil Under Sun | 113653 | [113653-devil-under-sun.json](./113653-devil-under-sun.json) |
@@ -8205,6 +8209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakomon | 283248 | [283248-drakomon.json](./283248-drakomon.json) |
 | Drakula | 192758 | [192758-drakula.json](./192758-drakula.json) |
 | Dramaqueen | 158230 | [158230-dramaqueen.json](./158230-dramaqueen.json) |
+| Dramatic Past | 130672 | [130672-dramatic-past.json](./130672-dramatic-past.json) |
 | Dramatic RPG Kamitsuri | 25679 | [25679-dramatic-rpg-kamitsuri.json](./25679-dramatic-rpg-kamitsuri.json) |
 | Dramatical Murder Re:connect | 22493 | [22493-dramatical-murder-re-connect.json](./22493-dramatical-murder-re-connect.json) |
 | Drapline | 333105 | [333105-drapline.json](./333105-drapline.json) |
