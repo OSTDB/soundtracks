@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanokai Chapter 1 | 178571 | [178571-tanokai-chapter-1.json](./178571-tanokai-chapter-1.json) |
 | Tanoth | 52019 | [52019-tanoth.json](./52019-tanoth.json) |
 | Tansaikigou: Sec Life, Monochrome Cube | 376603 | [376603-tansaikigou-sec-life-monochrome-cube.json](./376603-tansaikigou-sec-life-monochrome-cube.json) |
+| Tǎnshuài de Xiǎohóngmào hé Ài Shuōhuǎng de Láng | 128330 | [128330-tanshuai-de-xiaohongmao-he-ai-shuohuang-de-lang.json](./128330-tanshuai-de-xiaohongmao-he-ai-shuohuang-de-lang.json) |
 | Tantal | 159801 | [159801-tantal.json](./159801-tantal.json) |
 | Tantalus | 377197 | [377197-tantalus.json](./377197-tantalus.json) |
 | Tantei Gakuen Q: Kioukan no Satsui | 359064 | [359064-tantei-gakuen-q-kioukan-no-satsui.json](./359064-tantei-gakuen-q-kioukan-no-satsui.json) |
@@ -9556,6 +9557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tartarus Loop | 410449 | [410449-the-tartarus-loop.json](./410449-the-tartarus-loop.json) |
 | The Tartine's Show | 263657 | [263657-the-tartines-show.json](./263657-the-tartines-show.json) |
 | The Tavern Online. | 214767 | [214767-the-tavern-online.json](./214767-the-tavern-online.json) |
+| The Tawashi | 128416 | [128416-the-tawashi.json](./128416-the-tawashi.json) |
 | The Tear | 115005 | [115005-the-tear.json](./115005-the-tear.json) |
 | The Technomancer | 9919 | [9919-the-technomancer.json](./9919-the-technomancer.json) |
 | The Teeth | 210650 | [210650-the-teeth.json](./210650-the-teeth.json) |
@@ -10578,6 +10580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Worlds Best Board Games | 51208 | [51208-the-worlds-best-board-games.json](./51208-the-worlds-best-board-games.json) |
 | The Worlds of Billy | 65042 | [65042-the-worlds-of-billy.json](./65042-the-worlds-of-billy.json) |
 | The Worm | 34419 | [34419-the-worm.json](./34419-the-worm.json) |
+| The Worm - A Lean Short | 128431 | [128431-the-worm-a-lean-short.json](./128431-the-worm-a-lean-short.json) |
 | The Worm Room | 139263 | [139263-the-worm-room.json](./139263-the-worm-room.json) |
 | The Worst-Case Scenario Survival Trivia Challenge | 69914 | [69914-the-worst-case-scenario-survival-trivia-challenge.json](./69914-the-worst-case-scenario-survival-trivia-challenge.json) |
 | The Wraith of the Galaxy | 207350 | [207350-the-wraith-of-the-galaxy.json](./207350-the-wraith-of-the-galaxy.json) |
@@ -10586,6 +10589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wrestling Code | 159104 | [159104-the-wrestling-code.json](./159104-the-wrestling-code.json) |
 | The Wrestling Game | 368474 | [368474-the-wrestling-game.json](./368474-the-wrestling-game.json) |
 | The Writer Is Anxious | 142713 | [142713-the-writer-is-anxious.json](./142713-the-writer-is-anxious.json) |
+| The Writer Will Do Something | 128420 | [128420-the-writer-will-do-something.json](./128420-the-writer-will-do-something.json) |
 | The Writer: A Change of Identity | 31087 | [31087-the-writer-a-change-of-identity.json](./31087-the-writer-a-change-of-identity.json) |
 | The Wrong Floor | 391069 | [391069-the-wrong-floor.json](./391069-the-wrong-floor.json) |
 | The Wylde | 23875 | [23875-the-wylde.json](./23875-the-wylde.json) |
@@ -10795,6 +10799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There is nothing here. | 176789 | [176789-there-is-nothing-here.json](./176789-there-is-nothing-here.json) |
 | There is Still Hope | 211669 | [211669-there-is-still-hope.json](./211669-there-is-still-hope.json) |
 | There May be Ninety-Nine of Us, but We Have to Win in Ninety-Nine Turns! | 156211 | [156211-there-may-be-ninety-nine-of-us-but-we-have-to-win-in-ninety-nine-turns.json](./156211-there-may-be-ninety-nine-of-us-but-we-have-to-win-in-ninety-nine-turns.json) |
+| There Ought to Be A Word | 128414 | [128414-there-ought-to-be-a-word.json](./128414-there-ought-to-be-a-word.json) |
 | There Shall Be Lancing | 144231 | [144231-there-shall-be-lancing.json](./144231-there-shall-be-lancing.json) |
 | There Swings a Skull: Grim Tidings | 200528 | [200528-there-swings-a-skull-grim-tidings.json](./200528-there-swings-a-skull-grim-tidings.json) |
 | There the Light | 117846 | [117846-there-the-light.json](./117846-there-the-light.json) |
@@ -11177,6 +11182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms 2025 | 368017 | [368017-three-kingdoms-2025.json](./368017-three-kingdoms-2025.json) |
 | Three Kingdoms 21 | 149094 | [149094-three-kingdoms-21.json](./149094-three-kingdoms-21.json) |
 | Three Kingdoms Battle Chess | 288441 | [288441-three-kingdoms-battle-chess.json](./288441-three-kingdoms-battle-chess.json) |
+| Three Kingdoms Fantasy: Miss Meng and the Explosive Boy | 128328 | [128328-three-kingdoms-fantasy-miss-meng-and-the-explosive-boy.json](./128328-three-kingdoms-fantasy-miss-meng-and-the-explosive-boy.json) |
 | Three Kingdoms Front | 339098 | [339098-three-kingdoms-front.json](./339098-three-kingdoms-front.json) |
 | Three Kingdoms Heroes | 324871 | [324871-three-kingdoms-heroes.json](./324871-three-kingdoms-heroes.json) |
 | Three Kingdoms Origin | 245821 | [245821-three-kingdoms-origin.json](./245821-three-kingdoms-origin.json) |
@@ -12553,6 +12559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiles Hop: Forever Dancing Ball | 108439 | [108439-tiles-hop-forever-dancing-ball.json](./108439-tiles-hop-forever-dancing-ball.json) |
 | Tiles in Time | 336547 | [336547-tiles-in-time.json](./336547-tiles-in-time.json) |
 | Tiles Match | 314876 | [314876-tiles-match.json](./314876-tiles-match.json) |
+| Tiles Shooter Puzzle Cube | 128315 | [128315-tiles-shooter-puzzle-cube.json](./128315-tiles-shooter-puzzle-cube.json) |
 | Tilescapes | 350518 | [350518-tilescapes.json](./350518-tilescapes.json) |
 | Tileshire | 413042 | [413042-tileshire.json](./413042-tileshire.json) |
 | Tilesweeper | 104139 | [104139-tilesweeper.json](./104139-tilesweeper.json) |
