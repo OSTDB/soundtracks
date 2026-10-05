@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lateral Thinking Together | 372493 | [372493-lateral-thinking-together.json](./372493-lateral-thinking-together.json) |
 | Latest Issue | 329097 | [329097-latest-issue.json](./329097-latest-issue.json) |
 | Latin America Empire 2027 | 219664 | [219664-latin-america-empire-2027.json](./219664-latin-america-empire-2027.json) |
+| Latte Stand Tycoon + | 130214 | [130214-latte-stand-tycoon.json](./130214-latte-stand-tycoon.json) |
 | Lattice 200EC7 | 143664 | [143664-lattice-200ec7.json](./143664-lattice-200ec7.json) |
 | Latto-Latto Simulator | 233453 | [233453-latto-latto-simulator.json](./233453-latto-latto-simulator.json) |
 | Laugh & Learn: Animal Sounds | 101577 | [101577-laugh-and-learn-animal-sounds.json](./101577-laugh-and-learn-animal-sounds.json) |
@@ -5532,6 +5533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lymph City Blues | 211132 | [211132-lymph-city-blues.json](./211132-lymph-city-blues.json) |
 | Lynium | 158628 | [158628-lynium.json](./158628-lynium.json) |
 | Lynked: Banner of the Spark | 314256 | [314256-lynked-banner-of-the-spark.json](./314256-lynked-banner-of-the-spark.json) |
+| Lynn: The Girl Drawn on Puzzles | 130233 | [130233-lynn-the-girl-drawn-on-puzzles.json](./130233-lynn-the-girl-drawn-on-puzzles.json) |
 | Lynne | 105107 | [105107-lynne.json](./105107-lynne.json) |
 | LyokoVR | 169337 | [169337-lyokovr.json](./169337-lyokovr.json) |
 | Lyra and the Echo of the Abyss | 345696 | [345696-lyra-and-the-echo-of-the-abyss.json](./345696-lyra-and-the-echo-of-the-abyss.json) |
