@@ -1459,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day Island | 135747 | [135747-day-island.json](./135747-day-island.json) |
 | Day of Defeat | 7551 | [7551-day-of-defeat.json](./7551-day-of-defeat.json) |
 | Day of Destruction | 81328 | [81328-day-of-destruction.json](./81328-day-of-destruction.json) |
+| Day of Dragons: Acid Spitter Drake | 170364 | [170364-day-of-dragons-acid-spitter-drake.json](./170364-day-of-dragons-acid-spitter-drake.json) |
 | Day of Judgment | 272394 | [272394-day-of-judgment.json](./272394-day-of-judgment.json) |
 | Day of Light | 383383 | [383383-day-of-light.json](./383383-day-of-light.json) |
 | Day of Love | 72663 | [72663-day-of-love.json](./72663-day-of-love.json) |
@@ -2226,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Becomes You: Yuri Onsen Vacation | 339370 | [339370-death-becomes-you-yuri-onsen-vacation.json](./339370-death-becomes-you-yuri-onsen-vacation.json) |
 | Death Below | 212744 | [212744-death-below.json](./212744-death-below.json) |
 | Death Bind | 207782 | [207782-death-bind.json](./207782-death-bind.json) |
+| Death Blade | 170338 | [170338-death-blade.json](./170338-death-blade.json) |
 | Death Bowl | 208598 | [208598-death-bowl.json](./208598-death-bowl.json) |
 | Death Burger | 364506 | [364506-death-burger.json](./364506-death-burger.json) |
 | Death by AI | 275250 | [275250-death-by-ai.json](./275250-death-by-ai.json) |
@@ -2820,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender of Falyndor | 311604 | [311604-defender-of-falyndor.json](./311604-defender-of-falyndor.json) |
 | Defender of Freedom | 65734 | [65734-defender-of-freedom.json](./65734-defender-of-freedom.json) |
 | Defender of the Crown | 1873 | [1873-defender-of-the-crown.json](./1873-defender-of-the-crown.json) |
+| Defender of the Crown: Digitally Remastered Edition | 170339 | [170339-defender-of-the-crown-digitally-remastered-edition.json](./170339-defender-of-the-crown-digitally-remastered-edition.json) |
 | Defender of the Favicon | 201095 | [201095-defender-of-the-favicon.json](./201095-defender-of-the-favicon.json) |
 | Defender of the Turrets: Warp Attack | 171593 | [171593-defender-of-the-turrets-warp-attack.json](./171593-defender-of-the-turrets-warp-attack.json) |
 | Defender of Zorgaba | 67976 | [67976-defender-of-zorgaba.json](./67976-defender-of-zorgaba.json) |
@@ -3603,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Things | 203954 | [203954-desert-things.json](./203954-desert-things.json) |
 | Desert Thunder | 358380 | [358380-desert-thunder.json](./358380-desert-thunder.json) |
 | Desert Thunder | 9820 | [9820-desert-thunder.json](./9820-desert-thunder.json) |
+| Desert Trek | 170340 | [170340-desert-trek.json](./170340-desert-trek.json) |
 | Desert Tycoon | 256251 | [256251-desert-tycoon.json](./256251-desert-tycoon.json) |
 | Desert War | 167163 | [167163-desert-war.json](./167163-desert-war.json) |
 | Desert War 1940-1942 | 129593 | [129593-desert-war-1940-1942.json](./129593-desert-war-1940-1942.json) |
@@ -4996,6 +5000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dire Destiny: Time Travel | 217227 | [217227-dire-destiny-time-travel.json](./217227-dire-destiny-time-travel.json) |
 | Dire Echo | 376541 | [376541-dire-echo.json](./376541-dire-echo.json) |
 | Dire Island | 290482 | [290482-dire-island.json](./290482-dire-island.json) |
+| Dire Vengeance | 170344 | [170344-dire-vengeance.json](./170344-dire-vengeance.json) |
 | Dire Vengeance: Deluxe | 223570 | [223570-dire-vengeance-deluxe.json](./223570-dire-vengeance-deluxe.json) |
 | Direct | 70706 | [70706-direct.json](./70706-direct.json) |
 | Direct-X | 292146 | [292146-direct-x.json](./292146-direct-x.json) |
@@ -7400,6 +7405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula: Restless Legs Syndrome | 411611 | [411611-dracula-restless-legs-syndrome.json](./411611-dracula-restless-legs-syndrome.json) |
 | Dracula: Undead Awakening | 42858 | [42858-dracula-undead-awakening.json](./42858-dracula-undead-awakening.json) |
 | Dracula: Vampires vs. Zombies | 43169 | [43169-dracula-vampires-vs-zombies.json](./43169-dracula-vampires-vs-zombies.json) |
+| Dracula's Castle | 170341 | [170341-draculas-castle.json](./170341-draculas-castle.json) |
 | Dracula's Castle | 277490 | [277490-draculas-castle.json](./277490-draculas-castle.json) |
 | Dracula's Legacy | 34613 | [34613-draculas-legacy.json](./34613-draculas-legacy.json) |
 | Dracula's Library | 43142 | [43142-draculas-library.json](./43142-draculas-library.json) |
