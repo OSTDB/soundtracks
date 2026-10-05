@@ -1889,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 6 Last Round | 389425 | [389425-dead-or-alive-6-last-round.json](./389425-dead-or-alive-6-last-round.json) |
 | Dead or Alive 6: Energy Up! Training Wear Set | 225904 | [225904-dead-or-alive-6-energy-up-training-wear-set.json](./225904-dead-or-alive-6-energy-up-training-wear-set.json) |
 | Dead or Alive 6: Nyotengu | 341667 | [341667-dead-or-alive-6-nyotengu.json](./341667-dead-or-alive-6-nyotengu.json) |
+| Dead or Alive 6: Strongest Package - Limited Edition | 167104 | [167104-dead-or-alive-6-strongest-package-limited-edition.json](./167104-dead-or-alive-6-strongest-package-limited-edition.json) |
 | Dead or Alive New Project | 389426 | [389426-dead-or-alive-new-project.json](./389426-dead-or-alive-new-project.json) |
 | Dead or Alive Online | 66770 | [66770-dead-or-alive-online.json](./66770-dead-or-alive-online.json) |
 | Dead or Alive Ultimate | 318500 | [318500-dead-or-alive-ultimate.json](./318500-dead-or-alive-ultimate.json) |
@@ -3505,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Owners Club 2000 | 68117 | [68117-derby-owners-club-2000.json](./68117-derby-owners-club-2000.json) |
 | Derby Owners Club: World Edition-EX | 68103 | [68103-derby-owners-club-world-edition-ex.json](./68103-derby-owners-club-world-edition-ex.json) |
 | Derby Quest: Horse Manager HD | 246429 | [246429-derby-quest-horse-manager-hd.json](./246429-derby-quest-horse-manager-hd.json) |
+| Derby Quiz: My Dream Horse | 167093 | [167093-derby-quiz-my-dream-horse.json](./167093-derby-quiz-my-dream-horse.json) |
 | Derby Stallion | 137021 | [137021-derby-stallion.json](./137021-derby-stallion.json) |
 | Derby Stallion (Tentative Title) | 85565 | [85565-derby-stallion-tentative-title.json](./85565-derby-stallion-tentative-title.json) |
 | Derby Stallion 04 | 123048 | [123048-derby-stallion-04.json](./123048-derby-stallion-04.json) |
@@ -6463,6 +6465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Starve Together: Console Edition | 99751 | [99751-dont-starve-together-console-edition.json](./99751-dont-starve-together-console-edition.json) |
 | Don't Starve Together: Starter Pack 2025 | 374238 | [374238-dont-starve-together-starter-pack-2025.json](./374238-dont-starve-together-starter-pack-2025.json) |
 | Don't Starve: Console Edition | 154347 | [154347-dont-starve-console-edition.json](./154347-dont-starve-console-edition.json) |
+| Don't Starve: Mega Pack | 167117 | [167117-dont-starve-mega-pack.json](./167117-dont-starve-mega-pack.json) |
 | Don't Starve: Pocket Edition | 86925 | [86925-dont-starve-pocket-edition.json](./86925-dont-starve-pocket-edition.json) |
 | Don't Steal My Christmas! | 235271 | [235271-dont-steal-my-christmas.json](./235271-dont-steal-my-christmas.json) |
 | Don't Stop | 106139 | [106139-dont-stop.json](./106139-dont-stop.json) |
@@ -8178,6 +8181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Animal | 376759 | [376759-dream-animal.json](./376759-dream-animal.json) |
 | Dream Big 2 | 156992 | [156992-dream-big-2.json](./156992-dream-big-2.json) |
 | Dream Blast: Jewel Pops | 224073 | [224073-dream-blast-jewel-pops.json](./224073-dream-blast-jewel-pops.json) |
+| Dream Book | 167124 | [167124-dream-book.json](./167124-dream-book.json) |
 | Dream Boundary | 347715 | [347715-dream-boundary.json](./347715-dream-boundary.json) |
 | Dream Bubblez | 103491 | [103491-dream-bubblez.json](./103491-dream-bubblez.json) |
 | Dream Builder: Amusement Park | 294200 | [294200-dream-builder-amusement-park.json](./294200-dream-builder-amusement-park.json) |
@@ -9763,6 +9767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk | 25260 | [25260-dusk.json](./25260-dusk.json) |
 | Dusk '82 | 152265 | [152265-dusk-82.json](./152265-dusk-82.json) |
 | Dusk 12: Deadly Zone | 17738 | [17738-dusk-12-deadly-zone.json](./17738-dusk-12-deadly-zone.json) |
+| Dusk Diver: Special Limited Edition | 167119 | [167119-dusk-diver-special-limited-edition.json](./167119-dusk-diver-special-limited-edition.json) |
 | Dusk Golem's Anthology of Horror | 124193 | [124193-dusk-golems-anthology-of-horror.json](./124193-dusk-golems-anthology-of-horror.json) |
 | Dusk of the Cage | 237949 | [237949-dusk-of-the-cage.json](./237949-dusk-of-the-cage.json) |
 | Dusk Park | 400854 | [400854-dusk-park.json](./400854-dusk-park.json) |
