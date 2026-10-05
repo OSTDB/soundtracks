@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuizWitz | 57119 | [57119-quizwitz.json](./57119-quizwitz.json) |
 | Quizz | 277976 | [277976-quizz.json](./277976-quizz.json) |
 | Quizzitive | 90287 | [90287-quizzitive.json](./90287-quizzitive.json) |
+| Qūlíngshī | 128957 | [128957-qulingshi.json](./128957-qulingshi.json) |
 | Qullusrent3 | 307758 | [307758-qullusrent3.json](./307758-qullusrent3.json) |
 | Quo | 206237 | [206237-quo.json](./206237-quo.json) |
 | Quo Vadis | 25828 | [25828-quo-vadis.json](./25828-quo-vadis.json) |
