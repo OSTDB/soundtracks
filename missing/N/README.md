@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namae no Nai Yoru | 201077 | [201077-namae-no-nai-yoru.json](./201077-namae-no-nai-yoru.json) |
 | Namaiki Dark Elf 3 Shimai ga Boku ni Nakadashi o Motomeru. | 108976 | [108976-namaiki-dark-elf-3-shimai-ga-boku-ni-nakadashi-o-motomeru.json](./108976-namaiki-dark-elf-3-shimai-ga-boku-ni-nakadashi-o-motomeru.json) |
 | Namakorium | 363010 | [363010-namakorium.json](./363010-namakorium.json) |
+| Namariel Legends: Iron Lord | 140314 | [140314-namariel-legends-iron-lord.json](./140314-namariel-legends-iron-lord.json) |
 | Namariel Legends: Iron Lord - Premium Edition | 36273 | [36273-namariel-legends-iron-lord-premium-edition.json](./36273-namariel-legends-iron-lord-premium-edition.json) |
 | Namco All-Stars: Dig Dug | 284372 | [284372-namco-all-stars-dig-dug.json](./284372-namco-all-stars-dig-dug.json) |
 | Namco All-Stars: Pac-Man | 284371 | [284371-namco-all-stars-pac-man.json](./284371-namco-all-stars-pac-man.json) |
