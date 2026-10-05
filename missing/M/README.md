@@ -2726,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masquaradious | 266291 | [266291-masquaradious.json](./266291-masquaradious.json) |
 | Masque | 37298 | [37298-masque.json](./37298-masque.json) |
 | Masque Mahjongg | 209554 | [209554-masque-mahjongg.json](./209554-masque-mahjongg.json) |
+| Masquerade | 143364 | [143364-masquerade.json](./143364-masquerade.json) |
 | Masquerade Kiss | 239206 | [239206-masquerade-kiss.json](./239206-masquerade-kiss.json) |
 | Masquerade of Miasma | 150621 | [150621-masquerade-of-miasma.json](./150621-masquerade-of-miasma.json) |
 | Masquerade: Hell Academy | 322194 | [322194-masquerade-hell-academy.json](./322194-masquerade-hell-academy.json) |
@@ -10554,7 +10555,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutual Secret | 107386 | [107386-mutual-secret.json](./107386-mutual-secret.json) |
 | Muumit ja Taikalamppu | 178047 | [178047-muumit-ja-taikalamppu.json](./178047-muumit-ja-taikalamppu.json) |
 | Muv-Luv | 11778 | [11778-muv-luv.json](./11778-muv-luv.json) |
+| Muv-Luv Unlimited: The Day After - Episode 00 | 143336 | [143336-muv-luv-unlimited-the-day-after-episode-00.json](./143336-muv-luv-unlimited-the-day-after-episode-00.json) |
 | Muv-Luv Unlimited: The Day After - Episode 00 Remastered | 164423 | [164423-muv-luv-unlimited-the-day-after-episode-00-remastered.json](./164423-muv-luv-unlimited-the-day-after-episode-00-remastered.json) |
+| Muv-Luv Unlimited: The Day After - Episode 01 | 143337 | [143337-muv-luv-unlimited-the-day-after-episode-01.json](./143337-muv-luv-unlimited-the-day-after-episode-01.json) |
+| Muv-Luv Unlimited: The Day After - Episode 02 | 143338 | [143338-muv-luv-unlimited-the-day-after-episode-02.json](./143338-muv-luv-unlimited-the-day-after-episode-02.json) |
+| Muv-Luv Unlimited: The Day After - Episode 03 | 143339 | [143339-muv-luv-unlimited-the-day-after-episode-03.json](./143339-muv-luv-unlimited-the-day-after-episode-03.json) |
 | Muv-Luv Unlimited: The Day After Ultimate Collection | 399799 | [399799-muv-luv-unlimited-the-day-after-ultimate-collection.json](./399799-muv-luv-unlimited-the-day-after-ultimate-collection.json) |
 | Muv-Luv VR | 33162 | [33162-muv-luv-vr.json](./33162-muv-luv-vr.json) |
 | Muzan: Chiniku no Ikenie | 67230 | [67230-muzan-chiniku-no-ikenie.json](./67230-muzan-chiniku-no-ikenie.json) |
