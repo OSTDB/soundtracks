@@ -3543,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golfme | 390748 | [390748-golfme.json](./390748-golfme.json) |
 | Golfslinger | 330943 | [330943-golfslinger.json](./330943-golfslinger.json) |
 | Golftacular! | 351646 | [351646-golftacular.json](./351646-golftacular.json) |
+| GolfTopia | 126952 | [126952-golftopia.json](./126952-golftopia.json) |
 | Golftroidvania | 360012 | [360012-golftroidvania.json](./360012-golftroidvania.json) |
 | Golful | 257991 | [257991-golful.json](./257991-golful.json) |
 | Golgo 13 | 6107 | [6107-golgo-13.json](./6107-golgo-13.json) |
@@ -3978,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius ReBirth | 1489 | [1489-gradius-rebirth.json](./1489-gradius-rebirth.json) |
 | Gradius V | 1488 | [1488-gradius-v.json](./1488-gradius-v.json) |
 | Graduate Battle | 358511 | [358511-graduate-battle.json](./358511-graduate-battle.json) |
+| Graffiti Bombing | 126973 | [126973-graffiti-bombing.json](./126973-graffiti-bombing.json) |
 | Graffiti Cozy | 189061 | [189061-graffiti-cozy.json](./189061-graffiti-cozy.json) |
 | Graffiti Groovin' | 228465 | [228465-graffiti-groovin.json](./228465-graffiti-groovin.json) |
 | Graffiti Kingdom | 11358 | [11358-graffiti-kingdom.json](./11358-graffiti-kingdom.json) |
