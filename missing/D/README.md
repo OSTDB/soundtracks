@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Dungeon II: Infernal Supporter Pack | 370241 | [370241-darkest-dungeon-ii-infernal-supporter-pack.json](./370241-darkest-dungeon-ii-infernal-supporter-pack.json) |
 | Darkest Dungeon II: Kingdoms | 296837 | [296837-darkest-dungeon-ii-kingdoms.json](./296837-darkest-dungeon-ii-kingdoms.json) |
 | Darkest Dungeon II: Oblivion Edition | 298850 | [298850-darkest-dungeon-ii-oblivion-edition.json](./298850-darkest-dungeon-ii-oblivion-edition.json) |
+| Darkest Dungeon: Collector's Edition | 136203 | [136203-darkest-dungeon-collectors-edition.json](./136203-darkest-dungeon-collectors-edition.json) |
 | Darkest Dungeon: The Butcher's Circus | 172134 | [172134-darkest-dungeon-the-butchers-circus.json](./172134-darkest-dungeon-the-butchers-circus.json) |
 | Darkest Dungeon: The Shieldbreaker | 111167 | [111167-darkest-dungeon-the-shieldbreaker.json](./111167-darkest-dungeon-the-shieldbreaker.json) |
 | Darkest Fear | 223004 | [223004-darkest-fear.json](./223004-darkest-fear.json) |
@@ -1747,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Castlevania Chapter | 300809 | [300809-dead-by-daylight-castlevania-chapter.json](./300809-dead-by-daylight-castlevania-chapter.json) |
 | Dead by Daylight: Chains of Hate Chapter | 154343 | [154343-dead-by-daylight-chains-of-hate-chapter.json](./154343-dead-by-daylight-chains-of-hate-chapter.json) |
 | Dead by Daylight: Chucky Chapter | 278424 | [278424-dead-by-daylight-chucky-chapter.json](./278424-dead-by-daylight-chucky-chapter.json) |
+| Dead by Daylight: Definitive Edition | 136185 | [136185-dead-by-daylight-definitive-edition.json](./136185-dead-by-daylight-definitive-edition.json) |
 | Dead by Daylight: Descend Beyond Chapter | 154345 | [154345-dead-by-daylight-descend-beyond-chapter.json](./154345-dead-by-daylight-descend-beyond-chapter.json) |
 | Dead by Daylight: Dungeons & Dragons | 300798 | [300798-dead-by-daylight-dungeons-and-dragons.json](./300798-dead-by-daylight-dungeons-and-dragons.json) |
 | Dead by Daylight: Five Nights at Freddy's | 350030 | [350030-dead-by-daylight-five-nights-at-freddys.json](./350030-dead-by-daylight-five-nights-at-freddys.json) |
@@ -3884,6 +3886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Chaser | 114413 | [114413-destiny-chaser.json](./114413-destiny-chaser.json) |
 | Destiny Code | 358379 | [358379-destiny-code.json](./358379-destiny-code.json) |
 | Destiny Connect: Tick-Tock Travelers | 112082 | [112082-destiny-connect-tick-tock-travelers.json](./112082-destiny-connect-tick-tock-travelers.json) |
+| Destiny Connect: Tick-Tock Travelers - Capsule Edition | 136200 | [136200-destiny-connect-tick-tock-travelers-capsule-edition.json](./136200-destiny-connect-tick-tock-travelers-capsule-edition.json) |
 | Destiny Contract | 101081 | [101081-destiny-contract.json](./101081-destiny-contract.json) |
 | Destiny Duel | 236546 | [236546-destiny-duel.json](./236546-destiny-duel.json) |
 | Destiny Encore | 311687 | [311687-destiny-encore.json](./311687-destiny-encore.json) |
@@ -5154,6 +5157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Racing Bundle Off Road & Truck | 409667 | [409667-dirt-racing-bundle-off-road-and-truck.json](./409667-dirt-racing-bundle-off-road-and-truck.json) |
 | Dirt Racing Mobile 3D | 101493 | [101493-dirt-racing-mobile-3d.json](./101493-dirt-racing-mobile-3d.json) |
 | Dirt Rally Driver HD | 116383 | [116383-dirt-rally-driver-hd.json](./116383-dirt-rally-driver-hd.json) |
+| DiRT Rally: VR Edition | 136176 | [136176-dirt-rally-vr-edition.json](./136176-dirt-rally-vr-edition.json) |
 | Dirt Reborn | 200054 | [200054-dirt-reborn.json](./200054-dirt-reborn.json) |
 | Dirt Showdown | 7966 | [7966-dirt-showdown.json](./7966-dirt-showdown.json) |
 | Dirt Track Racing | 73269 | [73269-dirt-track-racing.json](./73269-dirt-track-racing.json) |
@@ -7894,6 +7898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Builders | 24069 | [24069-dragon-quest-builders.json](./24069-dragon-quest-builders.json) |
 | Dragon Quest Builders 2 | 54548 | [54548-dragon-quest-builders-2.json](./54548-dragon-quest-builders-2.json) |
 | Dragon Quest Heroes I & II | 26771 | [26771-dragon-quest-heroes-i-and-ii.json](./26771-dragon-quest-heroes-i-and-ii.json) |
+| Dragon Quest Heroes II: Explorer's Edition | 136197 | [136197-dragon-quest-heroes-ii-explorers-edition.json](./136197-dragon-quest-heroes-ii-explorers-edition.json) |
 | Dragon Quest I & II HD-2D Remake | 306144 | [306144-dragon-quest-i-and-ii-hd-2d-remake.json](./306144-dragon-quest-i-and-ii-hd-2d-remake.json) |
 | Dragon Quest II: Luminaries of the Legendary Line | 287153 | [287153-dragon-quest-ii-luminaries-of-the-legendary-line.json](./287153-dragon-quest-ii-luminaries-of-the-legendary-line.json) |
 | Dragon Quest III HD-2D Remake | 149980 | [149980-dragon-quest-iii-hd-2d-remake.json](./149980-dragon-quest-iii-hd-2d-remake.json) |
@@ -9305,6 +9310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dueling Dragons | 183566 | [183566-dueling-dragons.json](./183566-dueling-dragons.json) |
 | Dueling Drums | 341466 | [341466-dueling-drums.json](./341466-dueling-drums.json) |
 | Dueling Dungeon | 95584 | [95584-dueling-dungeon.json](./95584-dueling-dungeon.json) |
+| Dueling Network | 136180 | [136180-dueling-network.json](./136180-dueling-network.json) |
 | Duelist | 154349 | [154349-duelist.json](./154349-duelist.json) |
 | Duelite | 303496 | [303496-duelite.json](./303496-duelite.json) |
 | Duels Kings | 227834 | [227834-duels-kings.json](./227834-duels-kings.json) |
