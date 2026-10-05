@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wachenröder | 93007 | [93007-wachenroder.json](./93007-wachenroder.json) |
 | Wack Track Pack | 358318 | [358318-wack-track-pack.json](./358318-wack-track-pack.json) |
 | Wacktory | 121609 | [121609-wacktory.json](./121609-wacktory.json) |
+| Wacky Cartoon Racers | 138562 | [138562-wacky-cartoon-racers.json](./138562-wacky-cartoon-racers.json) |
 | Wacky Chariots | 196887 | [196887-wacky-chariots.json](./196887-wacky-chariots.json) |
 | Wacky Coursers | 389748 | [389748-wacky-coursers.json](./389748-wacky-coursers.json) |
 | Wacky Darts | 93352 | [93352-wacky-darts.json](./93352-wacky-darts.json) |
@@ -5000,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestling Revolution 3D | 44186 | [44186-wrestling-revolution-3d.json](./44186-wrestling-revolution-3d.json) |
 | Wrestling Revolution Pro | 91987 | [91987-wrestling-revolution-pro.json](./91987-wrestling-revolution-pro.json) |
 | Wrestling Spirit 3 | 24755 | [24755-wrestling-spirit-3.json](./24755-wrestling-spirit-3.json) |
+| Wrestling With Emotions | 138546 | [138546-wrestling-with-emotions.json](./138546-wrestling-with-emotions.json) |
 | Wret | 352871 | [352871-wret.json](./352871-wret.json) |
 | Wretch | 366985 | [366985-wretch.json](./366985-wretch.json) |
 | Wretch: Divine Ascent | 352750 | [352750-wretch-divine-ascent.json](./352750-wretch-divine-ascent.json) |
