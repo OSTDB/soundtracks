@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Outbreak 1943 | 362390 | [362390-zombie-outbreak-1943.json](./362390-zombie-outbreak-1943.json) |
 | Zombie Outbreak: Survival in Ancient Egyptian | 262326 | [262326-zombie-outbreak-survival-in-ancient-egyptian.json](./262326-zombie-outbreak-survival-in-ancient-egyptian.json) |
 | Zombie Panic in Wonderland Plus | 22320 | [22320-zombie-panic-in-wonderland-plus.json](./22320-zombie-panic-in-wonderland-plus.json) |
+| Zombie Panic in Zombieland Plus | 120219 | [120219-zombie-panic-in-zombieland-plus.json](./120219-zombie-panic-in-zombieland-plus.json) |
 | Zombie Panic! Source | 29119 | [29119-zombie-panic-source.json](./29119-zombie-panic-source.json) |
 | Zombie Parking | 33324 | [33324-zombie-parking.json](./33324-zombie-parking.json) |
 | Zombie Parkour Runner | 363938 | [363938-zombie-parkour-runner.json](./363938-zombie-parkour-runner.json) |
