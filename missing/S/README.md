@@ -8082,6 +8082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapto | 352945 | [352945-snapto.json](./352945-snapto.json) |
 | Snare | 40938 | [40938-snare.json](./40938-snare.json) |
 | Snares of Ruin | 81750 | [81750-snares-of-ruin.json](./81750-snares-of-ruin.json) |
+| Snares of Ruin 2 | 120737 | [120737-snares-of-ruin-2.json](./120737-snares-of-ruin-2.json) |
 | Snares of Ruin Zero | 112352 | [112352-snares-of-ruin-zero.json](./112352-snares-of-ruin-zero.json) |
 | Snarewaves' Shooting Challenge | 329162 | [329162-snarewaves-shooting-challenge.json](./329162-snarewaves-shooting-challenge.json) |
 | Snarf | 94686 | [94686-snarf.json](./94686-snarf.json) |
@@ -8507,6 +8508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soar | 236803 | [236803-soar.json](./236803-soar.json) |
 | Soar | 306951 | [306951-soar.json](./306951-soar.json) |
 | Soar Up The Charts | 310068 | [310068-soar-up-the-charts.json](./310068-soar-up-the-charts.json) |
+| Soaring Perl Tom | 120752 | [120752-soaring-perl-tom.json](./120752-soaring-perl-tom.json) |
 | Soarocity | 169838 | [169838-soarocity.json](./169838-soarocity.json) |
 | Sobreviva Ziggy! | 329012 | [329012-sobreviva-ziggy.json](./329012-sobreviva-ziggy.json) |
 | Soccer | 172594 | [172594-soccer.json](./172594-soccer.json) |
@@ -9946,6 +9948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry, Wrong Door | 215931 | [215931-sorry-wrong-door.json](./215931-sorry-wrong-door.json) |
 | Sorry! I surrounded beauty! | 366288 | [366288-sorry-i-surrounded-beauty.json](./366288-sorry-i-surrounded-beauty.json) |
 | Sort and Stack | 108295 | [108295-sort-and-stack.json](./108295-sort-and-stack.json) |
+| Sort Battle: Dungeon | 120716 | [120716-sort-battle-dungeon.json](./120716-sort-battle-dungeon.json) |
 | Sort Hexa Tiles | 364022 | [364022-sort-hexa-tiles.json](./364022-sort-hexa-tiles.json) |
 | Sort It! | 268528 | [268528-sort-it.json](./268528-sort-it.json) |
 | Sort Items | 364024 | [364024-sort-items.json](./364024-sort-items.json) |
@@ -10918,6 +10921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Travel | 11303 | [11303-space-travel.json](./11303-space-travel.json) |
 | Space Travel Idle | 148480 | [148480-space-travel-idle.json](./148480-space-travel-idle.json) |
 | Space Traveler's Brain Creator | 285504 | [285504-space-travelers-brain-creator.json](./285504-space-travelers-brain-creator.json) |
+| Space Travelling | 120715 | [120715-space-travelling.json](./120715-space-travelling.json) |
 | Space Treasure Hunters | 372489 | [372489-space-treasure-hunters.json](./372489-space-treasure-hunters.json) |
 | Space Treasure Hunters part 2 | 372491 | [372491-space-treasure-hunters-part-2.json](./372491-space-treasure-hunters-part-2.json) |
 | Space Treat Deluxe | 40752 | [40752-space-treat-deluxe.json](./40752-space-treat-deluxe.json) |
@@ -12198,6 +12202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Spins Deluxe | 140310 | [140310-spooky-spins-deluxe.json](./140310-spooky-spins-deluxe.json) |
 | Spooky Spins Returns: Crazy Cash Edition - Slots | 276172 | [276172-spooky-spins-returns-crazy-cash-edition-slots.json](./276172-spooky-spins-returns-crazy-cash-edition-slots.json) |
 | Spooky Squad! | 318565 | [318565-spooky-squad.json](./318565-spooky-squad.json) |
+| Spooky Starlets | 120692 | [120692-spooky-starlets.json](./120692-spooky-starlets.json) |
 | Spooky Station | 122836 | [122836-spooky-station.json](./122836-spooky-station.json) |
 | Spooky Story | 188472 | [188472-spooky-story.json](./188472-spooky-story.json) |
 | Spooky Survivors | 333640 | [333640-spooky-survivors.json](./333640-spooky-survivors.json) |
@@ -15004,6 +15009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger Things VR | 225668 | [225668-stranger-things-vr.json](./225668-stranger-things-vr.json) |
 | Stranger Things: 1984 | 72765 | [72765-stranger-things-1984.json](./72765-stranger-things-1984.json) |
 | Stranger Things: Puzzle Tales | 197248 | [197248-stranger-things-puzzle-tales.json](./197248-stranger-things-puzzle-tales.json) |
+| Stranger Things: Will's Side Quest | 120708 | [120708-stranger-things-wills-side-quest.json](./120708-stranger-things-wills-side-quest.json) |
 | Strangers at Night | 178511 | [178511-strangers-at-night.json](./178511-strangers-at-night.json) |
 | Strangers Awaken | 262377 | [262377-strangers-awaken.json](./262377-strangers-awaken.json) |
 | Strangers in a Strange Land | 44202 | [44202-strangers-in-a-strange-land.json](./44202-strangers-in-a-strange-land.json) |
