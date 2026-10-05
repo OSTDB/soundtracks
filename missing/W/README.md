@@ -2513,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Desert | 256973 | [256973-white-desert.json](./256973-white-desert.json) |
 | White Eternal | 314870 | [314870-white-eternal.json](./314870-white-eternal.json) |
 | White Eyes | 166719 | [166719-white-eyes.json](./166719-white-eyes.json) |
+| White Girl | 165598 | [165598-white-girl.json](./165598-white-girl.json) |
 | White Haven Mysteries | 17201 | [17201-white-haven-mysteries.json](./17201-white-haven-mysteries.json) |
 | White Hell | 162256 | [162256-white-hell.json](./162256-white-hell.json) |
 | White Iris | 419851 | [419851-white-iris.json](./419851-white-iris.json) |
@@ -3090,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winds Up Kitesurfing | 288462 | [288462-winds-up-kitesurfing.json](./288462-winds-up-kitesurfing.json) |
 | WindShift | 116362 | [116362-windshift.json](./116362-windshift.json) |
 | Windsor | 209701 | [209701-windsor.json](./209701-windsor.json) |
+| Windsor Road | 165584 | [165584-windsor-road.json](./165584-windsor-road.json) |
 | WindSoul | 38951 | [38951-windsoul.json](./38951-windsoul.json) |
 | Windsquire: Race From Dragon Castle | 241054 | [241054-windsquire-race-from-dragon-castle.json](./241054-windsquire-race-from-dragon-castle.json) |
 | WindStop Strategy | 385567 | [385567-windstop-strategy.json](./385567-windstop-strategy.json) |
@@ -4288,6 +4290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Court Tennis | 37732 | [37732-world-court-tennis.json](./37732-world-court-tennis.json) |
 | World Craft Epic Dream Island | 86953 | [86953-world-craft-epic-dream-island.json](./86953-world-craft-epic-dream-island.json) |
 | World Cricket Championship 2 | 165526 | [165526-world-cricket-championship-2.json](./165526-world-cricket-championship-2.json) |
+| World Cricket Championship 3 | 165559 | [165559-world-cricket-championship-3.json](./165559-world-cricket-championship-3.json) |
 | World Cruise Story | 65518 | [65518-world-cruise-story.json](./65518-world-cruise-story.json) |
 | World Cup | 130762 | [130762-world-cup.json](./130762-world-cup.json) |
 | World Cup | 174657 | [174657-world-cup.json](./174657-world-cup.json) |
@@ -4815,6 +4818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrain | 302348 | [302348-wrain.json](./302348-wrain.json) |
 | Wraith | 125994 | [125994-wraith.json](./125994-wraith.json) |
 | Wraith | 288450 | [288450-wraith.json](./288450-wraith.json) |
+| Wraith Ops | 165574 | [165574-wraith-ops.json](./165574-wraith-ops.json) |
 | Wraith VR | 187515 | [187515-wraith-vr.json](./187515-wraith-vr.json) |
 | Wraith: The Oblivion - Afterlife | 135110 | [135110-wraith-the-oblivion-afterlife.json](./135110-wraith-the-oblivion-afterlife.json) |
 | Wraithborn | 258647 | [258647-wraithborn.json](./258647-wraithborn.json) |
