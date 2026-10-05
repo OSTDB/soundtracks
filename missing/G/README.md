@@ -3665,6 +3665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Night Mr. Snoozleberg | 321456 | [321456-good-night-mr-snoozleberg.json](./321456-good-night-mr-snoozleberg.json) |
 | Good Night, Egg | 181727 | [181727-good-night-egg.json](./181727-good-night-egg.json) |
 | Good Night, Every Night | 244197 | [244197-good-night-every-night.json](./244197-good-night-every-night.json) |
+| Good Night, Knight | 122122 | [122122-good-night-knight.json](./122122-good-night-knight.json) |
 | Good Night, Peregrine | 222936 | [222936-good-night-peregrine.json](./222936-good-night-peregrine.json) |
 | Good Night, Rowan | 178564 | [178564-good-night-rowan.json](./178564-good-night-rowan.json) |
 | Good Pizza, Great Pizza | 87367 | [87367-good-pizza-great-pizza.json](./87367-good-pizza-great-pizza.json) |
