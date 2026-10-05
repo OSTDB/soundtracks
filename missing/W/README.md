@@ -1012,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warno: Southag | 302064 | [302064-warno-southag.json](./302064-warno-southag.json) |
 | WarOfGods 2 | 329068 | [329068-warofgods-2.json](./329068-warofgods-2.json) |
 | WarOFuture | 301615 | [301615-warofuture.json](./301615-warofuture.json) |
+| Waronoi | 149194 | [149194-waronoi.json](./149194-waronoi.json) |
 | Warp | 74327 | [74327-warp.json](./74327-warp.json) |
 | Warp 7 | 231062 | [231062-warp-7.json](./231062-warp-7.json) |
 | Warp Bot | 347879 | [347879-warp-bot.json](./347879-warp-bot.json) |
@@ -1431,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waves Running Simulator | 246882 | [246882-waves-running-simulator.json](./246882-waves-running-simulator.json) |
 | Waves: Arena Tactics | 93630 | [93630-waves-arena-tactics.json](./93630-waves-arena-tactics.json) |
 | Wavetale | 165309 | [165309-wavetale.json](./165309-wavetale.json) |
+| WaveTiles | 149240 | [149240-wavetiles.json](./149240-wavetiles.json) |
 | Wavey the Rocket | 112513 | [112513-wavey-the-rocket.json](./112513-wavey-the-rocket.json) |
 | Waving Around | 347174 | [347174-waving-around.json](./347174-waving-around.json) |
 | Wavy trip | 89364 | [89364-wavy-trip.json](./89364-wavy-trip.json) |
@@ -2871,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Thing | 382411 | [382411-wild-thing.json](./382411-wild-thing.json) |
 | Wild Things: Animal Adventures | 109496 | [109496-wild-things-animal-adventures.json](./109496-wild-things-animal-adventures.json) |
 | Wild Thornberrys Australian Wildlife Rescue | 225704 | [225704-wild-thornberrys-australian-wildlife-rescue.json](./225704-wild-thornberrys-australian-wildlife-rescue.json) |
+| Wild Times | 149221 | [149221-wild-times.json](./149221-wild-times.json) |
 | Wild Tower | 373740 | [373740-wild-tower.json](./373740-wild-tower.json) |
 | Wild Turkey Hunt | 95453 | [95453-wild-turkey-hunt.json](./95453-wild-turkey-hunt.json) |
 | Wild Warfare | 17598 | [17598-wild-warfare.json](./17598-wild-warfare.json) |
@@ -3395,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wireframe Warfare | 340989 | [340989-wireframe-warfare.json](./340989-wireframe-warfare.json) |
 | Wirehead | 5462 | [5462-wirehead.json](./5462-wirehead.json) |
 | Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
+| Wisdom | 149196 | [149196-wisdom.json](./149196-wisdom.json) |
 | WisdomGems | 310091 | [310091-wisdomgems.json](./310091-wisdomgems.json) |
 | Wise Escape From Prison | 368022 | [368022-wise-escape-from-prison.json](./368022-wise-escape-from-prison.json) |
 | Wise in the Heights | 358330 | [358330-wise-in-the-heights.json](./358330-wise-in-the-heights.json) |
