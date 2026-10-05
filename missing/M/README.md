@@ -828,6 +828,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl Noble Rose | 173817 | [173817-magical-girl-noble-rose.json](./173817-magical-girl-noble-rose.json) |
 | Magical Girl Opal | 354444 | [354444-magical-girl-opal.json](./354444-magical-girl-opal.json) |
 | Magical Girl Paranoids | 297746 | [297746-magical-girl-paranoids.json](./297746-magical-girl-paranoids.json) |
+| Magical Girl Pretty Samy Part 1: In the Earth | 165589 | [165589-magical-girl-pretty-samy-part-1-in-the-earth.json](./165589-magical-girl-pretty-samy-part-1-in-the-earth.json) |
+| Magical Girl Pretty Samy Part 2: In the Julyhelm | 165590 | [165590-magical-girl-pretty-samy-part-2-in-the-julyhelm.json](./165590-magical-girl-pretty-samy-part-2-in-the-julyhelm.json) |
 | Magical Girl Sarah: Her Dark Skin Clouded White With Cum | 82794 | [82794-magical-girl-sarah-her-dark-skin-clouded-white-with-cum.json](./82794-magical-girl-sarah-her-dark-skin-clouded-white-with-cum.json) |
 | Magical girl story | 193811 | [193811-magical-girl-story.json](./193811-magical-girl-story.json) |
 | Magical Girl Witch Trials: Famitsu DX Pack | 403787 | [403787-magical-girl-witch-trials-famitsu-dx-pack.json](./403787-magical-girl-witch-trials-famitsu-dx-pack.json) |
@@ -835,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl: Final Pink Star | 389715 | [389715-magical-girl-final-pink-star.json](./389715-magical-girl-final-pink-star.json) |
 | Magical girl's labyrinth | 105332 | [105332-magical-girls-labyrinth.json](./105332-magical-girls-labyrinth.json) |
 | Magical Girls | 378775 | [378775-magical-girls.json](./378775-magical-girls.json) |
+| Magical Girls Second Magic | 165607 | [165607-magical-girls-second-magic.json](./165607-magical-girls-second-magic.json) |
 | Magical Girls vs. Cat Aliens | 325847 | [325847-magical-girls-vs-cat-aliens.json](./325847-magical-girls-vs-cat-aliens.json) |
 | Magical Harvest | 197156 | [197156-magical-harvest.json](./197156-magical-harvest.json) |
 | Magical Hike | 264592 | [264592-magical-hike.json](./264592-magical-hike.json) |
@@ -2316,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MarksmanVR | 28878 | [28878-marksmanvr.json](./28878-marksmanvr.json) |
 | Marktopia | 365154 | [365154-marktopia.json](./365154-marktopia.json) |
 | Marl de Jigsaw | 165610 | [165610-marl-de-jigsaw.json](./165610-marl-de-jigsaw.json) |
+| Marl Jong!! | 165594 | [165594-marl-jong.json](./165594-marl-jong.json) |
 | Marlboro Go! | 253027 | [253027-marlboro-go.json](./253027-marlboro-go.json) |
 | Marlene | 25634 | [25634-marlene.json](./25634-marlene.json) |
 | Marlene Betwixt | 56537 | [56537-marlene-betwixt.json](./56537-marlene-betwixt.json) |
@@ -4553,6 +4557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melty Amethyst | 307869 | [307869-melty-amethyst.json](./307869-melty-amethyst.json) |
 | Melty Blood Actress Again Current Code | 19943 | [19943-melty-blood-actress-again-current-code.json](./19943-melty-blood-actress-again-current-code.json) |
 | Melty Blood: Type Lumina | 145017 | [145017-melty-blood-type-lumina.json](./145017-melty-blood-type-lumina.json) |
+| Melty Blood: Type Lumina - Deluxe Edition | 165597 | [165597-melty-blood-type-lumina-deluxe-edition.json](./165597-melty-blood-type-lumina-deluxe-edition.json) |
 | MeltyFlow: A Cozy Desktop Lava Lamp | 406676 | [406676-meltyflow-a-cozy-desktop-lava-lamp.json](./406676-meltyflow-a-cozy-desktop-lava-lamp.json) |
 | Meltylancer Re-inforce | 340415 | [340415-meltylancer-re-inforce.json](./340415-meltylancer-re-inforce.json) |
 | Meltylancer Re-inforce: Special Edition | 340482 | [340482-meltylancer-re-inforce-special-edition.json](./340482-meltylancer-re-inforce-special-edition.json) |
@@ -6814,6 +6819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniGolf Island | 235156 | [235156-minigolf-island.json](./235156-minigolf-island.json) |
 | MiniGolf Mania | 33237 | [33237-minigolf-mania.json](./33237-minigolf-mania.json) |
 | Minigolf Party | 182200 | [182200-minigolf-party.json](./182200-minigolf-party.json) |
+| MiniGolf Tour | 165603 | [165603-minigolf-tour.json](./165603-minigolf-tour.json) |
 | Minigolf VR | 34356 | [34356-minigolf-vr.json](./34356-minigolf-vr.json) |
 | Minigore | 76624 | [76624-minigore.json](./76624-minigore.json) |
 | Minigun vs. Swarms of the Zombie Apocalypse Simulator | 171466 | [171466-minigun-vs-swarms-of-the-zombie-apocalypse-simulator.json](./171466-minigun-vs-swarms-of-the-zombie-apocalypse-simulator.json) |
