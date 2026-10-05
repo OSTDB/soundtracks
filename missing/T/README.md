@@ -6926,6 +6926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Line | 315715 | [315715-the-line.json](./315715-the-line.json) |
 | The Line of Defense | 370184 | [370184-the-line-of-defense.json](./370184-the-line-of-defense.json) |
 | The Line TD | 275335 | [275335-the-line-td.json](./275335-the-line-td.json) |
+| The Line: The Other Path | 171345 | [171345-the-line-the-other-path.json](./171345-the-line-the-other-path.json) |
 | The Lingering: Last Customer | 336532 | [336532-the-lingering-last-customer.json](./336532-the-lingering-last-customer.json) |
 | The Links at Spanish Bay: PGA Tour 96 Championship Course | 206632 | [206632-the-links-at-spanish-bay-pga-tour-96-championship-course.json](./206632-the-links-at-spanish-bay-pga-tour-96-championship-course.json) |
 | The Lion King | 3166 | [3166-the-lion-king.json](./3166-the-lion-king.json) |
@@ -7984,6 +7985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pizza Delivery Boy Who Saved the World | 100595 | [100595-the-pizza-delivery-boy-who-saved-the-world.json](./100595-the-pizza-delivery-boy-who-saved-the-world.json) |
 | The Placebos | 82478 | [82478-the-placebos.json](./82478-the-placebos.json) |
 | The Plague | 26707 | [26707-the-plague.json](./26707-the-plague.json) |
+| The Plague: Kingdom Wars - Dead Rising | 171356 | [171356-the-plague-kingdom-wars-dead-rising.json](./171356-the-plague-kingdom-wars-dead-rising.json) |
 | The Plane Game | 185483 | [185483-the-plane-game.json](./185483-the-plane-game.json) |
 | The Planet Crafter: Planet Humble | 317867 | [317867-the-planet-crafter-planet-humble.json](./317867-the-planet-crafter-planet-humble.json) |
 | The Plant | 105135 | [105135-the-plant.json](./105135-the-plant.json) |
@@ -12630,6 +12632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Striker | 23408 | [23408-tiny-striker.json](./23408-tiny-striker.json) |
 | Tiny Striker: World Football | 86939 | [86939-tiny-striker-world-football.json](./86939-tiny-striker-world-football.json) |
 | Tiny Survivors | 413902 | [413902-tiny-survivors.json](./413902-tiny-survivors.json) |
+| Tiny T | 171445 | [171445-tiny-t.json](./171445-tiny-t.json) |
 | Tiny Tactics | 210879 | [210879-tiny-tactics.json](./210879-tiny-tactics.json) |
 | Tiny Tales: Hidden Objects | 285523 | [285523-tiny-tales-hidden-objects.json](./285523-tiny-tales-hidden-objects.json) |
 | Tiny Tank | 189962 | [189962-tiny-tank.json](./189962-tiny-tank.json) |
