@@ -6972,6 +6972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arigatou, Ningen-san! | 135030 | [135030-arigatou-ningen-san.json](./135030-arigatou-ningen-san.json) |
 | Arijigoku | 417489 | [417489-arijigoku.json](./417489-arijigoku.json) |
 | Arima Lodge | 326630 | [326630-arima-lodge.json](./326630-arima-lodge.json) |
+| Arimaa | 139750 | [139750-arimaa.json](./139750-arimaa.json) |
 | Arindama | 378898 | [378898-arindama.json](./378898-arindama.json) |
 | Arinn | 261787 | [261787-arinn.json](./261787-arinn.json) |
 | Ario | 293346 | [293346-ario.json](./293346-ario.json) |
