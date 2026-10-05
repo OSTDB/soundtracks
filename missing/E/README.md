@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E13ven Minute Train Ride | 340546 | [340546-e13ven-minute-train-ride.json](./340546-e13ven-minute-train-ride.json) |
 | E4C: Final Salvation | 328459 | [328459-e4c-final-salvation.json](./328459-e4c-final-salvation.json) |
 | E4M1 remake | 308277 | [308277-e4m1-remake.json](./308277-e4m1-remake.json) |
+| E6 Connect | 142714 | [142714-e6-connect.json](./142714-e6-connect.json) |
 | EA Classics: Syndicate Wars & Dark Omen | 214455 | [214455-ea-classics-syndicate-wars-and-dark-omen.json](./214455-ea-classics-syndicate-wars-and-dark-omen.json) |
 | EA Create: Snap | 331966 | [331966-ea-create-snap.json](./331966-ea-create-snap.json) |
 | EA Mahjong | 79875 | [79875-ea-mahjong.json](./79875-ea-mahjong.json) |
@@ -3376,6 +3377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European War 7: Medieval | 193821 | [193821-european-war-7-medieval.json](./193821-european-war-7-medieval.json) |
 | Eurydice Exhumed | 264122 | [264122-eurydice-exhumed.json](./264122-eurydice-exhumed.json) |
 | Eutolant Saga | 342054 | [342054-eutolant-saga.json](./342054-eutolant-saga.json) |
+| Ev.io | 142732 | [142732-ev-io.json](./142732-ev-io.json) |
 | EV2: Earth Version 2 | 270893 | [270893-ev2-earth-version-2.json](./270893-ev2-earth-version-2.json) |
 | EV3 - Drag Racing | 88251 | [88251-ev3-drag-racing.json](./88251-ev3-drag-racing.json) |
 | Eva | 185099 | [185099-eva.json](./185099-eva.json) |
