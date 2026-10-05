@@ -2403,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenuous:City | 230340 | [230340-tenuous-city.json](./230340-tenuous-city.json) |
 | Teocalli | 134698 | [134698-teocalli.json](./134698-teocalli.json) |
 | Teocida + Estigma | 265712 | [265712-teocida-estigma.json](./265712-teocida-estigma.json) |
+| Teodoro | 146555 | [146555-teodoro.json](./146555-teodoro.json) |
 | Teodoro and the Evil Machines | 153873 | [153873-teodoro-and-the-evil-machines.json](./153873-teodoro-and-the-evil-machines.json) |
 | Teodoro no sabe volar | 360124 | [360124-teodoro-no-sabe-volar.json](./360124-teodoro-no-sabe-volar.json) |
 | TEOM | 236013 | [236013-teom.json](./236013-teom.json) |
@@ -4829,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elementalists Book 3 | 408177 | [408177-the-elementalists-book-3.json](./408177-the-elementalists-book-3.json) |
 | The Elementalists: Winters Past | 313743 | [313743-the-elementalists-winters-past.json](./313743-the-elementalists-winters-past.json) |
 | The Elephant E | 229040 | [229040-the-elephant-e.json](./229040-the-elephant-e.json) |
+| The Elevator | 146563 | [146563-the-elevator.json](./146563-the-elevator.json) |
 | The Elevator | 317325 | [317325-the-elevator.json](./317325-the-elevator.json) |
 | The Elevator | 326986 | [326986-the-elevator.json](./326986-the-elevator.json) |
 | The Elevator | 57174 | [57174-the-elevator.json](./57174-the-elevator.json) |
@@ -14757,6 +14759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towards the Stars | 150689 | [150689-towards-the-stars.json](./150689-towards-the-stars.json) |
 | Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
 | Towelket: One More Time 2 (Karaage Tanpopo) | 146883 | [146883-towelket-one-more-time-2-karaage-tanpopo.json](./146883-towelket-one-more-time-2-karaage-tanpopo.json) |
+| Towelket: One More Time 3 Karaage Tanpopo | 146554 | [146554-towelket-one-more-time-3-karaage-tanpopo.json](./146554-towelket-one-more-time-3-karaage-tanpopo.json) |
 | Towelket: One More Time 5 - Gaugau's Bride | 147250 | [147250-towelket-one-more-time-5-gaugaus-bride.json](./147250-towelket-one-more-time-5-gaugaus-bride.json) |
 | Tower | 315714 | [315714-tower.json](./315714-tower.json) |
 | Tower 22 | 79383 | [79383-tower-22.json](./79383-tower-22.json) |
@@ -17586,6 +17589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Runner | 22757 | [22757-tunnel-runner.json](./22757-tunnel-runner.json) |
 | Tunnel Town | 106380 | [106380-tunnel-town.json](./106380-tunnel-town.json) |
 | Tunnel View | 180699 | [180699-tunnel-view.json](./180699-tunnel-view.json) |
+| Tunnel Vision | 146523 | [146523-tunnel-vision.json](./146523-tunnel-vision.json) |
 | Tunnel Vision | 271425 | [271425-tunnel-vision.json](./271425-tunnel-vision.json) |
 | Tunnel Vision | 273873 | [273873-tunnel-vision.json](./273873-tunnel-vision.json) |
 | Tunneler | 14439 | [14439-tunneler.json](./14439-tunneler.json) |
