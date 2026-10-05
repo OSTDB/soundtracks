@@ -3213,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase: Hollywood Stunt Driver | 5774 | [5774-chase-hollywood-stunt-driver.json](./5774-chase-hollywood-stunt-driver.json) |
 | Chased | 221684 | [221684-chased.json](./221684-chased.json) |
 | Chased Around the World | 211963 | [211963-chased-around-the-world.json](./211963-chased-around-the-world.json) |
+| Chased by Darkness | 147622 | [147622-chased-by-darkness.json](./147622-chased-by-darkness.json) |
 | Chaser | 242694 | [242694-chaser.json](./242694-chaser.json) |
 | Chaser | 380072 | [380072-chaser.json](./380072-chaser.json) |
 | Chaseway | 179586 | [179586-chaseway.json](./179586-chaseway.json) |
@@ -4786,6 +4787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Builder | 101595 | [101595-city-builder.json](./101595-city-builder.json) |
 | City Bus Driver Simulator | 279864 | [279864-city-bus-driver-simulator.json](./279864-city-bus-driver-simulator.json) |
 | City Bus Driver Simulator 2 | 311632 | [311632-city-bus-driver-simulator-2.json](./311632-city-bus-driver-simulator-2.json) |
+| City Bus Driving Simulator | 147606 | [147606-city-bus-driving-simulator.json](./147606-city-bus-driving-simulator.json) |
 | City Bus Simulator 2010 | 67299 | [67299-city-bus-simulator-2010.json](./67299-city-bus-simulator-2010.json) |
 | City Bus Simulator 2018 | 96501 | [96501-city-bus-simulator-2018.json](./96501-city-bus-simulator-2018.json) |
 | City Bus Tycoon | 89810 | [89810-city-bus-tycoon.json](./89810-city-bus-tycoon.json) |
@@ -6307,6 +6309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorful | 212229 | [212229-colorful.json](./212229-colorful.json) |
 | Colorful | 289575 | [289575-colorful.json](./289575-colorful.json) |
 | Colorful Adventures Bundle | 283190 | [283190-colorful-adventures-bundle.json](./283190-colorful-adventures-bundle.json) |
+| Colorful Colore | 147609 | [147609-colorful-colore.json](./147609-colorful-colore.json) |
 | Colorful Critter | 218144 | [218144-colorful-critter.json](./218144-colorful-critter.json) |
 | Colorful Ghost | 311165 | [311165-colorful-ghost.json](./311165-colorful-ghost.json) |
 | Colorful Life | 30178 | [30178-colorful-life.json](./30178-colorful-life.json) |
@@ -7484,6 +7487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Craze | 88770 | [88770-cooking-craze.json](./88770-cooking-craze.json) |
 | Cooking Crew | 262954 | [262954-cooking-crew.json](./262954-cooking-crew.json) |
 | Cooking Diary: Welcome to Tasty Hills | 106991 | [106991-cooking-diary-welcome-to-tasty-hills.json](./106991-cooking-diary-welcome-to-tasty-hills.json) |
+| Cooking Festival | 147632 | [147632-cooking-festival.json](./147632-cooking-festival.json) |
 | Cooking Fever | 87046 | [87046-cooking-fever.json](./87046-cooking-fever.json) |
 | Cooking Fist | 417414 | [417414-cooking-fist.json](./417414-cooking-fist.json) |
 | Cooking For Ma! | 404941 | [404941-cooking-for-ma.json](./404941-cooking-for-ma.json) |
@@ -8068,6 +8072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Operation Online | 169422 | [169422-counter-operation-online.json](./169422-counter-operation-online.json) |
 | Counter Ops: Blackout Assault | 269036 | [269036-counter-ops-blackout-assault.json](./269036-counter-ops-blackout-assault.json) |
 | Counter Protocol: Origins | 420682 | [420682-counter-protocol-origins.json](./420682-counter-protocol-origins.json) |
+| Counter Recon: The First Mission | 147636 | [147636-counter-recon-the-first-mission.json](./147636-counter-recon-the-first-mission.json) |
 | Counter Shooter Strike Zone | 283283 | [283283-counter-shooter-strike-zone.json](./283283-counter-shooter-strike-zone.json) |
 | Counter Shot: Source | 277387 | [277387-counter-shot-source.json](./277387-counter-shot-source.json) |
 | Counter Snipe | 265672 | [265672-counter-snipe.json](./265672-counter-snipe.json) |
@@ -9507,6 +9512,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowded Dungeon Crawler | 182993 | [182993-crowded-dungeon-crawler.json](./182993-crowded-dungeon-crawler.json) |
 | Crowded Mysteries 2: Winter Romance | 320334 | [320334-crowded-mysteries-2-winter-romance.json](./320334-crowded-mysteries-2-winter-romance.json) |
 | Crowded. Followed. | 311200 | [311200-crowded-followed.json](./311200-crowded-followed.json) |
+| Crowdy Farm Puzzle | 147612 | [147612-crowdy-farm-puzzle.json](./147612-crowdy-farm-puzzle.json) |
+| Crowdy Farm Rush | 147614 | [147614-crowdy-farm-rush.json](./147614-crowdy-farm-rush.json) |
 | Crowfall | 1126 | [1126-crowfall.json](./1126-crowfall.json) |
 | Crowhille: Detective Case Files VR | 151064 | [151064-crowhille-detective-case-files-vr.json](./151064-crowhille-detective-case-files-vr.json) |
 | CrowKart | 165443 | [165443-crowkart.json](./165443-crowkart.json) |
@@ -10452,6 +10459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curve Digital Triple Features - Action Pack | 99806 | [99806-curve-digital-triple-features-action-pack.json](./99806-curve-digital-triple-features-action-pack.json) |
 | Curve Digital Triple Features - Adventure Pack | 99805 | [99805-curve-digital-triple-features-adventure-pack.json](./99805-curve-digital-triple-features-adventure-pack.json) |
 | Curve Fever | 63259 | [63259-curve-fever.json](./63259-curve-fever.json) |
+| Curve Racer | 147616 | [147616-curve-racer.json](./147616-curve-racer.json) |
 | Curved Space | 137680 | [137680-curved-space.json](./137680-curved-space.json) |
 | Curving Over It with Evgeny Podoynikov | 173179 | [173179-curving-over-it-with-evgeny-podoynikov.json](./173179-curving-over-it-with-evgeny-podoynikov.json) |
 | Curvy | 7497 | [7497-curvy.json](./7497-curvy.json) |
