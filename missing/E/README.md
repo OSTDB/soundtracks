@@ -2655,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Exit 7 of the Theater | 315281 | [315281-escape-from-exit-7-of-the-theater.json](./315281-escape-from-exit-7-of-the-theater.json) |
 | Escape From Flea Market Montgomery | 276930 | [276930-escape-from-flea-market-montgomery.json](./276930-escape-from-flea-market-montgomery.json) |
 | Escape from Fools | 112968 | [112968-escape-from-fools.json](./112968-escape-from-fools.json) |
+| Escape From Forest | 147633 | [147633-escape-from-forest.json](./147633-escape-from-forest.json) |
 | Escape from Frankenstein's Castle | 213598 | [213598-escape-from-frankensteins-castle.json](./213598-escape-from-frankensteins-castle.json) |
 | Escape from Garbage House | 249894 | [249894-escape-from-garbage-house.json](./249894-escape-from-garbage-house.json) |
 | Escape from Ghosts | 385314 | [385314-escape-from-ghosts.json](./385314-escape-from-ghosts.json) |
