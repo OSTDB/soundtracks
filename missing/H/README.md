@@ -1397,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel: Silent Waters - Collector's Edition | 186678 | [186678-haunted-hotel-silent-waters-collectors-edition.json](./186678-haunted-hotel-silent-waters-collectors-edition.json) |
 | Haunted Hotel: The Thirteenth | 182281 | [182281-haunted-hotel-the-thirteenth.json](./182281-haunted-hotel-the-thirteenth.json) |
 | Haunted Hotel: The X | 57725 | [57725-haunted-hotel-the-x.json](./57725-haunted-hotel-the-x.json) |
+| Haunted Hotel: The X - Collector's Edition | 154920 | [154920-haunted-hotel-the-x-collectors-edition.json](./154920-haunted-hotel-the-x-collectors-edition.json) |
 | Haunted Hour | 200120 | [200120-haunted-hour.json](./200120-haunted-hour.json) |
 | Haunted House | 229763 | [229763-haunted-house.json](./229763-haunted-house.json) |
 | Haunted House | 25196 | [25196-haunted-house.json](./25196-haunted-house.json) |
