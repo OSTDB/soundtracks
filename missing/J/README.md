@@ -777,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match: Dracula - Collector's Edition | 337273 | [337273-jewel-match-dracula-collectors-edition.json](./337273-jewel-match-dracula-collectors-edition.json) |
 | Jewel Match: Snowscapes | 337274 | [337274-jewel-match-snowscapes.json](./337274-jewel-match-snowscapes.json) |
 | Jewel Match: Solitaire Seasons - Collector's Edition | 309503 | [309503-jewel-match-solitaire-seasons-collectors-edition.json](./309503-jewel-match-solitaire-seasons-collectors-edition.json) |
+| Jewel Match: Twilight 3 - Collector's Edition | 159026 | [159026-jewel-match-twilight-3-collectors-edition.json](./159026-jewel-match-twilight-3-collectors-edition.json) |
 | Jewel of Clementia | 248668 | [248668-jewel-of-clementia.json](./248668-jewel-of-clementia.json) |
 | Jewel of Kuru | 158087 | [158087-jewel-of-kuru.json](./158087-jewel-of-kuru.json) |
 | Jewel of Live | 151629 | [151629-jewel-of-live.json](./151629-jewel-of-live.json) |
@@ -1875,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Kindergarten | 212881 | [212881-jumpstart-kindergarten.json](./212881-jumpstart-kindergarten.json) |
 | JumpStart Math for Kindergarteners | 300415 | [300415-jumpstart-math-for-kindergarteners.json](./300415-jumpstart-math-for-kindergarteners.json) |
 | JumpStart Math for Second Graders | 129147 | [129147-jumpstart-math-for-second-graders.json](./129147-jumpstart-math-for-second-graders.json) |
+| JumpStart Numbers | 159196 | [159196-jumpstart-numbers.json](./159196-jumpstart-numbers.json) |
 | JumpStart Phonics | 358412 | [358412-jumpstart-phonics.json](./358412-jumpstart-phonics.json) |
 | JumpStart Pre-K | 407433 | [407433-jumpstart-pre-k.json](./407433-jumpstart-pre-k.json) |
 | JumpStart Preschool | 129104 | [129104-jumpstart-preschool.json](./129104-jumpstart-preschool.json) |
