@@ -1772,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Disciple | 413885 | [413885-void-disciple.json](./413885-void-disciple.json) |
 | Void Dungeon | 322694 | [322694-void-dungeon.json](./322694-void-dungeon.json) |
 | Void Eagle | 215671 | [215671-void-eagle.json](./215671-void-eagle.json) |
+| Void Eclipse | 126372 | [126372-void-eclipse.json](./126372-void-eclipse.json) |
 | Void Encounter | 172185 | [172185-void-encounter.json](./172185-void-encounter.json) |
 | Void Fighters | 403667 | [403667-void-fighters.json](./403667-void-fighters.json) |
 | Void Game | 394338 | [394338-void-game.json](./394338-void-game.json) |
@@ -1981,6 +1982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Doom | 251544 | [251544-voxel-doom.json](./251544-voxel-doom.json) |
 | Voxel Doom II | 260124 | [260124-voxel-doom-ii.json](./260124-voxel-doom-ii.json) |
 | Voxel Eras | 360712 | [360712-voxel-eras.json](./360712-voxel-eras.json) |
+| Voxel Galaxy | 126482 | [126482-voxel-galaxy.json](./126482-voxel-galaxy.json) |
 | Voxel Girl | 188042 | [188042-voxel-girl.json](./188042-voxel-girl.json) |
 | Voxel Horizon | 188631 | [188631-voxel-horizon.json](./188631-voxel-horizon.json) |
 | Voxel Panic | 386379 | [386379-voxel-panic.json](./386379-voxel-panic.json) |
