@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks: The Crusades | 154405 | [154405-tanks-the-crusades.json](./154405-tanks-the-crusades.json) |
 | Tanks! | 353523 | [353523-tanks.json](./353523-tanks.json) |
 | Tanks2.DE | 115764 | [115764-tanks2-de.json](./115764-tanks2-de.json) |
+| TankTrouble | 122909 | [122909-tanktrouble.json](./122909-tanktrouble.json) |
 | TankTrouble - Mobile Mayhem | 88514 | [88514-tanktrouble-mobile-mayhem.json](./88514-tanktrouble-mobile-mayhem.json) |
 | TankTrouble Classic | 200540 | [200540-tanktrouble-classic.json](./200540-tanktrouble-classic.json) |
 | Tankura: Tango Crush - Kotoba Keshi Tango Puzzle Game | 208938 | [208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json](./208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json) |
@@ -5047,7 +5048,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Experimental Turnabout | 308421 | [308421-the-experimental-turnabout.json](./308421-the-experimental-turnabout.json) |
 | The Explorator | 211172 | [211172-the-explorator.json](./211172-the-explorator.json) |
 | The Explorers | 177416 | [177416-the-explorers.json](./177416-the-explorers.json) |
+| The Explors: Pyramid Explorers | 122917 | [122917-the-explors-pyramid-explorers.json](./122917-the-explors-pyramid-explorers.json) |
 | The Eye | 141836 | [141836-the-eye.json](./141836-the-eye.json) |
+| The Eye of Borrack | 122823 | [122823-the-eye-of-borrack.json](./122823-the-eye-of-borrack.json) |
 | The Eye of Judgment: Legends | 46020 | [46020-the-eye-of-judgment-legends.json](./46020-the-eye-of-judgment-legends.json) |
 | The Eye of Modern Mali | 103185 | [103185-the-eye-of-modern-mali.json](./103185-the-eye-of-modern-mali.json) |
 | The Eye of the Goddess | 196649 | [196649-the-eye-of-the-goddess.json](./196649-the-eye-of-the-goddess.json) |
@@ -10442,6 +10445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whispering Woods | 335361 | [335361-the-whispering-woods.json](./335361-the-whispering-woods.json) |
 | The Whistle | 270168 | [270168-the-whistle.json](./270168-the-whistle.json) |
 | The Whistle | 342837 | [342837-the-whistle.json](./342837-the-whistle.json) |
+| The White Butcher | 122799 | [122799-the-white-butcher.json](./122799-the-white-butcher.json) |
 | The White Day | 305343 | [305343-the-white-day.json](./305343-the-white-day.json) |
 | The White Flower | 392801 | [392801-the-white-flower.json](./392801-the-white-flower.json) |
 | The White Hell | 390545 | [390545-the-white-hell.json](./390545-the-white-hell.json) |
@@ -14384,6 +14388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Rendition | 172522 | [172522-total-rendition.json](./172522-total-rendition.json) |
 | TotAL RPG (Tower of the Ancient Legion) | 111168 | [111168-total-rpg-tower-of-the-ancient-legion.json](./111168-total-rpg-tower-of-the-ancient-legion.json) |
 | Total Rush | 289939 | [289939-total-rush.json](./289939-total-rush.json) |
+| Total Seclusion | 122810 | [122810-total-seclusion.json](./122810-total-seclusion.json) |
 | Total Singu | 102954 | [102954-total-singu.json](./102954-total-singu.json) |
 | Total Ski Jump | 122159 | [122159-total-ski-jump.json](./122159-total-ski-jump.json) |
 | Total Soccer 2000 | 73353 | [73353-total-soccer-2000.json](./73353-total-soccer-2000.json) |
@@ -16844,6 +16849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Dash | 415889 | [415889-trials-of-dash.json](./415889-trials-of-dash.json) |
 | Trials of Fire | 116992 | [116992-trials-of-fire.json](./116992-trials-of-fire.json) |
 | Trials of Guinevere | 127611 | [127611-trials-of-guinevere.json](./127611-trials-of-guinevere.json) |
+| Trials of Harmony ~ Experimental Visual Novel | 122816 | [122816-trials-of-harmony-experimental-visual-novel.json](./122816-trials-of-harmony-experimental-visual-novel.json) |
 | Trials of Heroes | 108256 | [108256-trials-of-heroes.json](./108256-trials-of-heroes.json) |
 | Trials of Imorah | 258531 | [258531-trials-of-imorah.json](./258531-trials-of-imorah.json) |
 | Trials of Kokoro | 204373 | [204373-trials-of-kokoro.json](./204373-trials-of-kokoro.json) |
