@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakuga Fantasy | 183436 | [183436-rakuga-fantasy.json](./183436-rakuga-fantasy.json) |
 | Rakugaki Kingdom | 221245 | [221245-rakugaki-kingdom.json](./221245-rakugaki-kingdom.json) |
 | Rakugaki Showtime | 46082 | [46082-rakugaki-showtime.json](./46082-rakugaki-showtime.json) |
+| Ralf's Adventure: Aztec Mystery | 140910 | [140910-ralfs-adventure-aztec-mystery.json](./140910-ralfs-adventure-aztec-mystery.json) |
 | Rally | 197381 | [197381-rally.json](./197381-rally.json) |
 | Rally Ar | 266843 | [266843-rally-ar.json](./266843-rally-ar.json) |
 | Rally Arcade Classics | 319408 | [319408-rally-arcade-classics.json](./319408-rally-arcade-classics.json) |
@@ -3678,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhymo's Falling Star | 306032 | [306032-rhymos-falling-star.json](./306032-rhymos-falling-star.json) |
 | Rhyolite | 335351 | [335351-rhyolite.json](./335351-rhyolite.json) |
 | Rhythia | 234769 | [234769-rhythia.json](./234769-rhythia.json) |
+| Rhythm 'n Bullets | 140928 | [140928-rhythm-n-bullets.json](./140928-rhythm-n-bullets.json) |
 | Rhythm 'n Notes: Improve Your Music Skills | 79176 | [79176-rhythm-n-notes-improve-your-music-skills.json](./79176-rhythm-n-notes-improve-your-music-skills.json) |
 | Rhythm & Beats | 292282 | [292282-rhythm-and-beats.json](./292282-rhythm-and-beats.json) |
 | Rhythm Any Music | 220709 | [220709-rhythm-any-music.json](./220709-rhythm-any-music.json) |
