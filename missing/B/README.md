@@ -7956,6 +7956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breadieval | 361683 | [361683-breadieval.json](./361683-breadieval.json) |
 | BreadKnight Adventures | 355568 | [355568-breadknight-adventures.json](./355568-breadknight-adventures.json) |
 | Breadleg | 344496 | [344496-breadleg.json](./344496-breadleg.json) |
+| Breadly's Grandma Rescue | 148705 | [148705-breadlys-grandma-rescue.json](./148705-breadlys-grandma-rescue.json) |
 | Breadman | 273591 | [273591-breadman.json](./273591-breadman.json) |
 | Breadskate | 192780 | [192780-breadskate.json](./192780-breadskate.json) |
 | Breadskate Forever | 350543 | [350543-breadskate-forever.json](./350543-breadskate-forever.json) |
