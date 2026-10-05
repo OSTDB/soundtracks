@@ -2032,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Fun World | 31140 | [31140-vr-fun-world.json](./31140-vr-fun-world.json) |
 | VR Funhouse: Christmas Edition | 216848 | [216848-vr-funhouse-christmas-edition.json](./216848-vr-funhouse-christmas-edition.json) |
 | VR Furballs: Demolition | 81062 | [81062-vr-furballs-demolition.json](./81062-vr-furballs-demolition.json) |
+| VR Galactic Roller Coaster | 156196 | [156196-vr-galactic-roller-coaster.json](./156196-vr-galactic-roller-coaster.json) |
 | VR Giants | 107183 | [107183-vr-giants.json](./107183-vr-giants.json) |
 | VR GirlFriend | 30291 | [30291-vr-girlfriend.json](./30291-vr-girlfriend.json) |
 | VR Girls' Room in Darkness | 160139 | [160139-vr-girls-room-in-darkness.json](./160139-vr-girls-room-in-darkness.json) |
