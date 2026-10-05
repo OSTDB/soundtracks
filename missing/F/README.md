@@ -6113,6 +6113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Lives Collection | 300781 | [300781-free-lives-collection.json](./300781-free-lives-collection.json) |
 | Free Ninja | 317635 | [317635-free-ninja.json](./317635-free-ninja.json) |
 | Free Realms: Sunrise | 141650 | [141650-free-realms-sunrise.json](./141650-free-realms-sunrise.json) |
+| Free Royale | 137976 | [137976-free-royale.json](./137976-free-royale.json) |
 | Free Skies | 316175 | [316175-free-skies.json](./316175-free-skies.json) |
 | Free Solitaire | 340250 | [340250-free-solitaire.json](./340250-free-solitaire.json) |
 | Free Solitaire: Cats | 340251 | [340251-free-solitaire-cats.json](./340251-free-solitaire-cats.json) |
