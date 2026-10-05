@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once in my Head | 192966 | [192966-once-in-my-head.json](./192966-once-in-my-head.json) |
 | Once in Yaissor 2 | 81763 | [81763-once-in-yaissor-2.json](./81763-once-in-yaissor-2.json) |
 | Once Inside | 181368 | [181368-once-inside.json](./181368-once-inside.json) |
+| Once More | 127806 | [127806-once-more.json](./127806-once-more.json) |
 | Once On a Windswept Night | 29631 | [29631-once-on-a-windswept-night.json](./29631-once-on-a-windswept-night.json) |
 | Once Up | 345005 | [345005-once-up.json](./345005-once-up.json) |
 | Once Upon a Breeze | 163989 | [163989-once-upon-a-breeze.json](./163989-once-upon-a-breeze.json) |
