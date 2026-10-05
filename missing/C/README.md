@@ -1488,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars Toon | 36249 | [36249-cars-toon.json](./36249-cars-toon.json) |
 | Cars Toon: Tokyo Mater | 230550 | [230550-cars-toon-tokyo-mater.json](./230550-cars-toon-tokyo-mater.json) |
 | Cars vs Train | 230939 | [230939-cars-vs-train.json](./230939-cars-vs-train.json) |
+| Cars vs Zombies | 157090 | [157090-cars-vs-zombies.json](./157090-cars-vs-zombies.json) |
 | Cars vs. TNT | 179154 | [179154-cars-vs-tnt.json](./179154-cars-vs-tnt.json) |
 | Cars: Radiator Springs Adventures | 18251 | [18251-cars-radiator-springs-adventures.json](./18251-cars-radiator-springs-adventures.json) |
 | Cars: Rev It Up In Radiator Springs | 220100 | [220100-cars-rev-it-up-in-radiator-springs.json](./220100-cars-rev-it-up-in-radiator-springs.json) |
@@ -4310,6 +4311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronautical | 253598 | [253598-chronautical.json](./253598-chronautical.json) |
 | Chronescher | 203929 | [203929-chronescher.json](./203929-chronescher.json) |
 | Chronical | 276695 | [276695-chronical.json](./276695-chronical.json) |
+| Chronicle of Daneya | 156969 | [156969-chronicle-of-daneya.json](./156969-chronicle-of-daneya.json) |
 | Chronicle of Ekan | 169980 | [169980-chronicle-of-ekan.json](./169980-chronicle-of-ekan.json) |
 | Chronicle of Forgotten Times: Pawn of the Gods | 202642 | [202642-chronicle-of-forgotten-times-pawn-of-the-gods.json](./202642-chronicle-of-forgotten-times-pawn-of-the-gods.json) |
 | Chronicle Survivors | 287198 | [287198-chronicle-survivors.json](./287198-chronicle-survivors.json) |
@@ -5577,6 +5579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Goblin | 184642 | [184642-club-goblin.json](./184642-club-goblin.json) |
 | Club Hentai: Girls, Love, Sex | 149426 | [149426-club-hentai-girls-love-sex.json](./149426-club-hentai-girls-love-sex.json) |
 | Club Life Visual Novel | 197767 | [197767-club-life-visual-novel.json](./197767-club-life-visual-novel.json) |
+| Club Lipstick VR | 157217 | [157217-club-lipstick-vr.json](./157217-club-lipstick-vr.json) |
 | Club Manager 2016 | 34337 | [34337-club-manager-2016.json](./34337-club-manager-2016.json) |
 | Club Manager 2017 | 31957 | [31957-club-manager-2017.json](./31957-club-manager-2017.json) |
 | Club Naughty | 30427 | [30427-club-naughty.json](./30427-club-naughty.json) |
@@ -7532,6 +7535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooped Up | 242071 | [242071-cooped-up.json](./242071-cooped-up.json) |
 | Cooperacing | 207910 | [207910-cooperacing.json](./207910-cooperacing.json) |
 | Cooperate with Yourself | 371338 | [371338-cooperate-with-yourself.json](./371338-cooperate-with-yourself.json) |
+| Cooperative Chess | 157105 | [157105-cooperative-chess.json](./157105-cooperative-chess.json) |
 | Cooporationation | 326823 | [326823-cooporationation.json](./326823-cooporationation.json) |
 | CoopRooms | 347156 | [347156-cooprooms.json](./347156-cooprooms.json) |
 | CoopValor 2056: Ukraine WW3 | 256292 | [256292-coopvalor-2056-ukraine-ww3.json](./256292-coopvalor-2056-ukraine-ww3.json) |
@@ -8155,6 +8159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid 23: Test Labs | 255975 | [255975-covid-23-test-labs.json](./255975-covid-23-test-labs.json) |
 | Covid Chaos | 163821 | [163821-covid-chaos.json](./163821-covid-chaos.json) |
 | Covid Quest 2077 | 367600 | [367600-covid-quest-2077.json](./367600-covid-quest-2077.json) |
+| Covid-19 Epidemic Prevention | 157108 | [157108-covid-19-epidemic-prevention.json](./157108-covid-19-epidemic-prevention.json) |
 | Covid-19: Corona Clicker | 165003 | [165003-covid-19-corona-clicker.json](./165003-covid-19-corona-clicker.json) |
 | Covid19: Toilet Paper Run | 285531 | [285531-covid19-toilet-paper-run.json](./285531-covid19-toilet-paper-run.json) |
 | Cow Catcher | 124594 | [124594-cow-catcher.json](./124594-cow-catcher.json) |
@@ -9245,6 +9250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CropBytes | 235307 | [235307-cropbytes.json](./235307-cropbytes.json) |
 | Cropia | 374198 | [374198-cropia.json](./374198-cropia.json) |
 | Cropple | 243963 | [243963-cropple.json](./243963-cropple.json) |
+| Croppy Boy | 157110 | [157110-croppy-boy.json](./157110-croppy-boy.json) |
 | Crops and Conveyors | 189126 | [189126-crops-and-conveyors.json](./189126-crops-and-conveyors.json) |
 | Cropshots | 185009 | [185009-cropshots.json](./185009-cropshots.json) |
 | Croquet Conundrum | 319662 | [319662-croquet-conundrum.json](./319662-croquet-conundrum.json) |
