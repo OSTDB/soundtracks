@@ -2110,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peg Solitaire | 171493 | [171493-peg-solitaire.json](./171493-peg-solitaire.json) |
 | Peg Solitaire | 57062 | [57062-peg-solitaire.json](./57062-peg-solitaire.json) |
 | Peg Solitaire | 85594 | [85594-peg-solitaire.json](./85594-peg-solitaire.json) |
+| Peg Solitaire Adventure | 129627 | [129627-peg-solitaire-adventure.json](./129627-peg-solitaire-adventure.json) |
 | Peg Solitaire Pro | 391343 | [391343-peg-solitaire-pro.json](./391343-peg-solitaire-pro.json) |
 | Pega Game | 333614 | [333614-pega-game.json](./333614-pega-game.json) |
 | Pegafuerte el Terrible | 249479 | [249479-pegafuerte-el-terrible.json](./249479-pegafuerte-el-terrible.json) |
