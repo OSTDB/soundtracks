@@ -4044,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exotic Matter | 75107 | [75107-exotic-matter.json](./75107-exotic-matter.json) |
 | Exotica 2: Pet Shop Simulator | 285680 | [285680-exotica-2-pet-shop-simulator.json](./285680-exotica-2-pet-shop-simulator.json) |
 | Exotica: Petshop Simulator | 215795 | [215795-exotica-petshop-simulator.json](./215795-exotica-petshop-simulator.json) |
+| Exotium: Episode 8 | 148680 | [148680-exotium-episode-8.json](./148680-exotium-episode-8.json) |
 | ExoTrain | 391157 | [391157-exotrain.json](./391157-exotrain.json) |
 | Exovia | 342824 | [342824-exovia.json](./342824-exovia.json) |
 | Exovoid | 292238 | [292238-exovoid.json](./292238-exovoid.json) |
