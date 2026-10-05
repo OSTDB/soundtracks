@@ -3734,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bowling Tournament | 277418 | [277418-the-bowling-tournament.json](./277418-the-bowling-tournament.json) |
 | The Bowyage | 265208 | [265208-the-bowyage.json](./265208-the-bowyage.json) |
 | The Box | 289568 | [289568-the-box.json](./289568-the-box.json) |
+| The Box Code | 139188 | [139188-the-box-code.json](./139188-the-box-code.json) |
 | The Box Game | 203550 | [203550-the-box-game.json](./203550-the-box-game.json) |
 | The Boy With Bombs | 61122 | [61122-the-boy-with-bombs.json](./61122-the-boy-with-bombs.json) |
 | The Boyd File | 58826 | [58826-the-boyd-file.json](./58826-the-boyd-file.json) |
@@ -5953,6 +5954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hungry House | 179502 | [179502-the-hungry-house.json](./179502-the-hungry-house.json) |
 | The Hungry Witch and the Gourmet Dish | 185157 | [185157-the-hungry-witch-and-the-gourmet-dish.json](./185157-the-hungry-witch-and-the-gourmet-dish.json) |
 | The Hunsa Magic | 199366 | [199366-the-hunsa-magic.json](./199366-the-hunsa-magic.json) |
+| The Hunt | 139172 | [139172-the-hunt.json](./139172-the-hunt.json) |
 | The Hunt | 171472 | [171472-the-hunt.json](./171472-the-hunt.json) |
 | The Hunt | 220689 | [220689-the-hunt.json](./220689-the-hunt.json) |
 | The Hunt | 265841 | [265841-the-hunt.json](./265841-the-hunt.json) |
@@ -10161,6 +10163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Virtual Museum of Dead-Wifery | 188617 | [188617-the-virtual-museum-of-dead-wifery.json](./188617-the-virtual-museum-of-dead-wifery.json) |
 | The Virus | 156541 | [156541-the-virus.json](./156541-the-virus.json) |
 | The Virus Game | 375853 | [375853-the-virus-game.json](./375853-the-virus-game.json) |
+| The Visible City | 139166 | [139166-the-visible-city.json](./139166-the-visible-city.json) |
 | The Vision of the Ant | 186682 | [186682-the-vision-of-the-ant.json](./186682-the-vision-of-the-ant.json) |
 | The Visit | 128660 | [128660-the-visit.json](./128660-the-visit.json) |
 | The Visit | 201289 | [201289-the-visit.json](./201289-the-visit.json) |
@@ -17458,6 +17461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TsucnenT's Treasures | 369225 | [369225-tsucnents-treasures.json](./369225-tsucnents-treasures.json) |
 | TsucnenT's Treasures II | 369226 | [369226-tsucnents-treasures-ii.json](./369226-tsucnents-treasures-ii.json) |
 | Tsugi no Giseisha wo Oshirase Shimasu: Kimi to Ko no Hateru Kotonai Kurayami wo | 340532 | [340532-tsugi-no-giseisha-wo-oshirase-shimasu-kimi-to-ko-no-hateru-kotonai-kurayami-wo.json](./340532-tsugi-no-giseisha-wo-oshirase-shimasu-kimi-to-ko-no-hateru-kotonai-kurayami-wo.json) |
+| Tsugunohi | 139179 | [139179-tsugunohi.json](./139179-tsugunohi.json) |
 | Tsugunohi: A Voice from Yesteryear | 270873 | [270873-tsugunohi-a-voice-from-yesteryear.json](./270873-tsugunohi-a-voice-from-yesteryear.json) |
 | Tsugunohi: Supernatural Supermarket | 234297 | [234297-tsugunohi-supernatural-supermarket.json](./234297-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: The Chamber of Phantom Name | 340941 | [340941-tsugunohi-the-chamber-of-phantom-name.json](./340941-tsugunohi-the-chamber-of-phantom-name.json) |
