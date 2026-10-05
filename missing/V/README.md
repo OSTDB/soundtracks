@@ -2014,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxorp | 178628 | [178628-voxorp.json](./178628-voxorp.json) |
 | Voxrush | 211138 | [211138-voxrush.json](./211138-voxrush.json) |
 | Voya Nui Online Game | 155023 | [155023-voya-nui-online-game.json](./155023-voya-nui-online-game.json) |
+| Voyage | 119617 | [119617-voyage.json](./119617-voyage.json) |
 | Voyage | 232012 | [232012-voyage.json](./232012-voyage.json) |
 | Voyage of the Starship Lexicon | 60486 | [60486-voyage-of-the-starship-lexicon.json](./60486-voyage-of-the-starship-lexicon.json) |
 | Voyage of the Valkyrie | 24882 | [24882-voyage-of-the-valkyrie.json](./24882-voyage-of-the-valkyrie.json) |
