@@ -5950,6 +5950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodline Champions: Huntress Pack | 27657 | [27657-bloodline-champions-huntress-pack.json](./27657-bloodline-champions-huntress-pack.json) |
 | Bloodline Champions: Warchief Pack | 27655 | [27655-bloodline-champions-warchief-pack.json](./27655-bloodline-champions-warchief-pack.json) |
 | Bloodline Champions: Warrior Pack | 27656 | [27656-bloodline-champions-warrior-pack.json](./27656-bloodline-champions-warrior-pack.json) |
+| BloodLines | 143363 | [143363-bloodlines.json](./143363-bloodlines.json) |
 | Bloodlines: The Alexa Holmes Chronicles | 65529 | [65529-bloodlines-the-alexa-holmes-chronicles.json](./65529-bloodlines-the-alexa-holmes-chronicles.json) |
 | Bloodlust | 338255 | [338255-bloodlust.json](./338255-bloodlust.json) |
 | Bloodlust Online | 157015 | [157015-bloodlust-online.json](./157015-bloodlust-online.json) |
