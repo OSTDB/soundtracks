@@ -2999,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invincible Iron Man Gagaga-In | 234088 | [234088-invincible-iron-man-gagaga-in.json](./234088-invincible-iron-man-gagaga-in.json) |
 | Invincible Medusa | 231359 | [231359-invincible-medusa.json](./231359-invincible-medusa.json) |
 | Invincible: Guarding the Globe | 257102 | [257102-invincible-guarding-the-globe.json](./257102-invincible-guarding-the-globe.json) |
+| Invirium | 143346 | [143346-invirium.json](./143346-invirium.json) |
 | Invisible | 131556 | [131556-invisible.json](./131556-invisible.json) |
 | Invisible | 178671 | [178671-invisible.json](./178671-invisible.json) |
 | Invisible | 377175 | [377175-invisible.json](./377175-invisible.json) |
@@ -3317,6 +3318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isida | 382755 | [382755-isida.json](./382755-isida.json) |
 | Isis: The Fall | 255100 | [255100-isis-the-fall.json](./255100-isis-the-fall.json) |
 | Iskelonia | 290489 | [290489-iskelonia.json](./290489-iskelonia.json) |
+| iSketch | 143375 | [143375-isketch.json](./143375-isketch.json) |
 | Iskhaar3D | 285524 | [285524-iskhaar3d.json](./285524-iskhaar3d.json) |
 | Isla de la Muerte | 399734 | [399734-isla-de-la-muerte.json](./399734-isla-de-la-muerte.json) |
 | Isla Dorada: Episode 1 - The Sands of Ephranis | 210046 | [210046-isla-dorada-episode-1-the-sands-of-ephranis.json](./210046-isla-dorada-episode-1-the-sands-of-ephranis.json) |
