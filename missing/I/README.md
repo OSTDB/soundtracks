@@ -2460,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insectum: Epic Battles of Bugs | 303585 | [303585-insectum-epic-battles-of-bugs.json](./303585-insectum-epic-battles-of-bugs.json) |
 | Inselnova | 405707 | [405707-inselnova.json](./405707-inselnova.json) |
 | Insensato | 215196 | [215196-insensato.json](./215196-insensato.json) |
+| Inseparable | 140291 | [140291-inseparable.json](./140291-inseparable.json) |
 | Insert Coin | 300763 | [300763-insert-coin.json](./300763-insert-coin.json) |
 | Insert Coin | 401482 | [401482-insert-coin.json](./401482-insert-coin.json) |
 | Insert Coin: Arcade Party | 391272 | [391272-insert-coin-arcade-party.json](./391272-insert-coin-arcade-party.json) |
