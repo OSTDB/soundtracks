@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reapers | 267448 | [267448-reapers.json](./267448-reapers.json) |
 | Reapers Reception | 406923 | [406923-reapers-reception.json](./406923-reapers-reception.json) |
 | Reaprieve | 347907 | [347907-reaprieve.json](./347907-reaprieve.json) |
+| Rear of Business | 151275 | [151275-rear-of-business.json](./151275-rear-of-business.json) |
 | Rear Pheles: Red of Another | 59446 | [59446-rear-pheles-red-of-another.json](./59446-rear-pheles-red-of-another.json) |
 | Rearmed Trials | 231994 | [231994-rearmed-trials.json](./231994-rearmed-trials.json) |
 | Reason: Casual Puzzle | 148000 | [148000-reason-casual-puzzle.json](./148000-reason-casual-puzzle.json) |
@@ -6821,6 +6822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush'n Attack | 287587 | [287587-rushn-attack.json](./287587-rushn-attack.json) |
 | Rush'n Attack | 90990 | [90990-rushn-attack.json](./90990-rushn-attack.json) |
 | Rush'N Attack Ex-Patriot | 41584 | [41584-rushn-attack-ex-patriot.json](./41584-rushn-attack-ex-patriot.json) |
+| Rushaug: Feline Warfare | 151293 | [151293-rushaug-feline-warfare.json](./151293-rushaug-feline-warfare.json) |
 | Rushaway | 211790 | [211790-rushaway.json](./211790-rushaway.json) |
 | Rushcremental | 381635 | [381635-rushcremental.json](./381635-rushcremental.json) |
 | Rushdown Revolt | 138604 | [138604-rushdown-revolt.json](./138604-rushdown-revolt.json) |
