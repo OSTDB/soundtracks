@@ -2511,6 +2511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Omega | 238975 | [238975-terra-omega.json](./238975-terra-omega.json) |
 | Terra Pulse | 142433 | [142433-terra-pulse.json](./142433-terra-pulse.json) |
 | Terra Ventura | 154074 | [154074-terra-ventura.json](./154074-terra-ventura.json) |
+| Terra: Battle for the Outland | 145949 | [145949-terra-battle-for-the-outland.json](./145949-terra-battle-for-the-outland.json) |
 | TerraBlocks | 291777 | [291777-terrablocks.json](./291777-terrablocks.json) |
 | Terracards | 258426 | [258426-terracards.json](./258426-terracards.json) |
 | Terracide | 77393 | [77393-terracide.json](./77393-terracide.json) |
@@ -3033,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Act | 64990 | [64990-the-act.json](./64990-the-act.json) |
 | The Addams Family | 14207 | [14207-the-addams-family.json](./14207-the-addams-family.json) |
 | The Addams Family | 14208 | [14208-the-addams-family.json](./14208-the-addams-family.json) |
+| The Addams Family | 145932 | [145932-the-addams-family.json](./145932-the-addams-family.json) |
 | The Addams Family: Mansion Mayhem | 150006 | [150006-the-addams-family-mansion-mayhem.json](./150006-the-addams-family-mansion-mayhem.json) |
 | The Adjudicator | 145697 | [145697-the-adjudicator.json](./145697-the-adjudicator.json) |
 | The Adjudicator | 164906 | [164906-the-adjudicator.json](./164906-the-adjudicator.json) |
@@ -5705,6 +5707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hamburger Isles | 356292 | [356292-the-hamburger-isles.json](./356292-the-hamburger-isles.json) |
 | The Hamiltonian Circuit | 297612 | [297612-the-hamiltonian-circuit.json](./297612-the-hamiltonian-circuit.json) |
 | The Hamlet | 326991 | [326991-the-hamlet.json](./326991-the-hamlet.json) |
+| The Hammer's End: A Fae's Journey | 145954 | [145954-the-hammers-end-a-faes-journey.json](./145954-the-hammers-end-a-faes-journey.json) |
 | The Hamster | 314361 | [314361-the-hamster.json](./314361-the-hamster.json) |
 | The Hand | 40351 | [40351-the-hand.json](./40351-the-hand.json) |
 | The Hand is Faster than the Eye | 318227 | [318227-the-hand-is-faster-than-the-eye.json](./318227-the-hand-is-faster-than-the-eye.json) |
@@ -9623,6 +9626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tides | 212724 | [212724-the-tides.json](./212724-the-tides.json) |
 | The Tides of Time | 141790 | [141790-the-tides-of-time.json](./141790-the-tides-of-time.json) |
 | The Tideshell Keeper | 211805 | [211805-the-tideshell-keeper.json](./211805-the-tideshell-keeper.json) |
+| The Tiger Online Simulator | 145948 | [145948-the-tiger-online-simulator.json](./145948-the-tiger-online-simulator.json) |
 | The Tiger T | 210668 | [210668-the-tiger-t.json](./210668-the-tiger-t.json) |
 | The Time Game | 310054 | [310054-the-time-game.json](./310054-the-time-game.json) |
 | The Time Has Come | 177873 | [177873-the-time-has-come.json](./177873-the-time-has-come.json) |
@@ -12438,6 +12442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tikus Tales | 211167 | [211167-tikus-tales.json](./211167-tikus-tales.json) |
 | Tikutaku Concert | 148936 | [148936-tikutaku-concert.json](./148936-tikutaku-concert.json) |
 | Til Morning's Light | 18996 | [18996-til-mornings-light.json](./18996-til-mornings-light.json) |
+| Til Nord | 145905 | [145905-til-nord.json](./145905-til-nord.json) |
 | Tilde and the 9 Mystical Glorbos | 394834 | [394834-tilde-and-the-9-mystical-glorbos.json](./394834-tilde-and-the-9-mystical-glorbos.json) |
 | Tile | 30139 | [30139-tile.json](./30139-tile.json) |
 | Tile & Error | 103896 | [103896-tile-and-error.json](./103896-tile-and-error.json) |
@@ -17034,6 +17039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troll Face Clicker Quest | 105860 | [105860-troll-face-clicker-quest.json](./105860-troll-face-clicker-quest.json) |
 | Troll Face Quest Horror | 351627 | [351627-troll-face-quest-horror.json](./351627-troll-face-quest-horror.json) |
 | Troll Face Quest: Game of Trolls | 306703 | [306703-troll-face-quest-game-of-trolls.json](./306703-troll-face-quest-game-of-trolls.json) |
+| Troll Quest | 145930 | [145930-troll-quest.json](./145930-troll-quest.json) |
 | Trollboarder | 85458 | [85458-trollboarder.json](./85458-trollboarder.json) |
 | Trollbound | 233131 | [233131-trollbound.json](./233131-trollbound.json) |
 | Trolley Folly | 248327 | [248327-trolley-folly.json](./248327-trolley-folly.json) |
