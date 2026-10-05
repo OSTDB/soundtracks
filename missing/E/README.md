@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Dumpster Bear 2: He Who Bears Wins | 135146 | [135146-epic-dumpster-bear-2-he-who-bears-wins.json](./135146-epic-dumpster-bear-2-he-who-bears-wins.json) |
 | Epic Eon | 280337 | [280337-epic-eon.json](./280337-epic-eon.json) |
 | Epic Escapes Dark Seas, Mysteries of Ancient Inventors Atlantis, Elementary My Dear Majesty | 201273 | [201273-epic-escapes-dark-seas-mysteries-of-ancient-inventors-atlantis-elementary-my-dear-majesty.json](./201273-epic-escapes-dark-seas-mysteries-of-ancient-inventors-atlantis-elementary-my-dear-majesty.json) |
+| Epic Fantasy | 165570 | [165570-epic-fantasy.json](./165570-epic-fantasy.json) |
 | Epic Flail | 32113 | [32113-epic-flail.json](./32113-epic-flail.json) |
 | Epic Fly | 22346 | [22346-epic-fly.json](./22346-epic-fly.json) |
 | Epic Food Fight | 114402 | [114402-epic-food-fight.json](./114402-epic-food-fight.json) |
@@ -4178,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Basketball | 86104 | [86104-extreme-basketball.json](./86104-extreme-basketball.json) |
 | Extreme Bus Driver Simulator | 261763 | [261763-extreme-bus-driver-simulator.json](./261763-extreme-bus-driver-simulator.json) |
 | Extreme Car Drift Simulator | 234197 | [234197-extreme-car-drift-simulator.json](./234197-extreme-car-drift-simulator.json) |
+| Extreme Car Driver | 165608 | [165608-extreme-car-driver.json](./165608-extreme-car-driver.json) |
 | Extreme Car Driving Sim 3D | 104222 | [104222-extreme-car-driving-sim-3d.json](./104222-extreme-car-driving-sim-3d.json) |
 | Extreme Car Parking! | 310196 | [310196-extreme-car-parking.json](./310196-extreme-car-parking.json) |
 | Extreme Custom Night | 277965 | [277965-extreme-custom-night.json](./277965-extreme-custom-night.json) |
