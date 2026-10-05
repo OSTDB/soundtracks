@@ -2117,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat's Cosmic Atlas: Premium Edition | 286212 | [286212-cats-cosmic-atlas-premium-edition.json](./286212-cats-cosmic-atlas-premium-edition.json) |
 | Cat's Cosmic Atlas: Ultimate Edition | 278649 | [278649-cats-cosmic-atlas-ultimate-edition.json](./278649-cats-cosmic-atlas-ultimate-edition.json) |
 | Cat's Kiss | 152296 | [152296-cats-kiss.json](./152296-cats-kiss.json) |
+| Cat's Princess | 150770 | [150770-cats-princess.json](./150770-cats-princess.json) |
 | Cat's Request | 237043 | [237043-cats-request.json](./237043-cats-request.json) |
 | Cat's Vote | 274509 | [274509-cats-vote.json](./274509-cats-vote.json) |
 | Cat's Wars | 369097 | [369097-cats-wars.json](./369097-cats-wars.json) |
@@ -4983,6 +4984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clairvoyance | 115488 | [115488-clairvoyance.json](./115488-clairvoyance.json) |
 | Clairvoyant: The Magician Mystery | 417685 | [417685-clairvoyant-the-magician-mystery.json](./417685-clairvoyant-the-magician-mystery.json) |
 | Clam Man | 114921 | [114921-clam-man.json](./114921-clam-man.json) |
+| Clam Man 2: Open Mic | 150779 | [150779-clam-man-2-open-mic.json](./150779-clam-man-2-open-mic.json) |
 | Clamb | 278553 | [278553-clamb.json](./278553-clamb.json) |
 | Clan and Crown | 402939 | [402939-clan-and-crown.json](./402939-clan-and-crown.json) |
 | Clan Fantasy Adventures | 373156 | [373156-clan-fantasy-adventures.json](./373156-clan-fantasy-adventures.json) |
@@ -6745,6 +6747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commands & Colors: The Great War | 33342 | [33342-commands-and-colors-the-great-war.json](./33342-commands-and-colors-the-great-war.json) |
 | Comme Tu Veux | 327181 | [327181-comme-tu-veux.json](./327181-comme-tu-veux.json) |
 | Commie Block | 390246 | [390246-commie-block.json](./390246-commie-block.json) |
+| Commie Killer 2069 | 150745 | [150745-commie-killer-2069.json](./150745-commie-killer-2069.json) |
 | Commissar's Contrapasso | 126018 | [126018-commissars-contrapasso.json](./126018-commissars-contrapasso.json) |
 | Committed: Mystery at Shady Pines - Premium Edition | 417687 | [417687-committed-mystery-at-shady-pines-premium-edition.json](./417687-committed-mystery-at-shady-pines-premium-edition.json) |
 | Common Ground | 60070 | [60070-common-ground.json](./60070-common-ground.json) |
@@ -10529,6 +10532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Cock Clicker | 218151 | [218151-cute-cock-clicker.json](./218151-cute-cock-clicker.json) |
 | Cute Critters Pet Kitty | 278488 | [278488-cute-critters-pet-kitty.json](./278488-cute-critters-pet-kitty.json) |
 | Cute Cute Cuties | 368065 | [368065-cute-cute-cuties.json](./368065-cute-cute-cuties.json) |
+| Cute Dark Elves | 150740 | [150740-cute-dark-elves.json](./150740-cute-dark-elves.json) |
 | Cute Demon Crashers! | 58801 | [58801-cute-demon-crashers.json](./58801-cute-demon-crashers.json) |
 | Cute Diana | 402493 | [402493-cute-diana.json](./402493-cute-diana.json) |
 | Cute Dogs Slide | 305936 | [305936-cute-dogs-slide.json](./305936-cute-dogs-slide.json) |
@@ -10648,6 +10652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Knights: Flashpoint | 129596 | [129596-cyber-knights-flashpoint.json](./129596-cyber-knights-flashpoint.json) |
 | Cyber Lab | 379029 | [379029-cyber-lab.json](./379029-cyber-lab.json) |
 | Cyber Lancer | 210572 | [210572-cyber-lancer.json](./210572-cyber-lancer.json) |
+| Cyber Lemur | 150749 | [150749-cyber-lemur.json](./150749-cyber-lemur.json) |
 | Cyber Lust | 241988 | [241988-cyber-lust.json](./241988-cyber-lust.json) |
 | Cyber Manhunt: Hello World | 188493 | [188493-cyber-manhunt-hello-world.json](./188493-cyber-manhunt-hello-world.json) |
 | Cyber Neon Bundle | 246880 | [246880-cyber-neon-bundle.json](./246880-cyber-neon-bundle.json) |
@@ -10859,6 +10864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyborg-Prototype | 309646 | [309646-cyborg-prototype.json](./309646-cyborg-prototype.json) |
 | Cyborg: Rise | 311492 | [311492-cyborg-rise.json](./311492-cyborg-rise.json) |
 | Cyborg3003 | 261760 | [261760-cyborg3003.json](./261760-cyborg3003.json) |
+| Cyborgs Attack | 150783 | [150783-cyborgs-attack.json](./150783-cyborgs-attack.json) |
 | Cybotron | 13835 | [13835-cybotron.json](./13835-cybotron.json) |
 | Cybrid | 154359 | [154359-cybrid.json](./154359-cybrid.json) |
 | Cybrix | 261213 | [261213-cybrix.json](./261213-cybrix.json) |
