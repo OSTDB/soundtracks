@@ -3912,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 3: Free Pack 7 | 165966 | [165966-ride-3-free-pack-7.json](./165966-ride-3-free-pack-7.json) |
 | Ride 3: Free Pack 8 | 165984 | [165984-ride-3-free-pack-8.json](./165984-ride-3-free-pack-8.json) |
 | Ride 3: Free Pack 9 | 165965 | [165965-ride-3-free-pack-9.json](./165965-ride-3-free-pack-9.json) |
+| Ride 3: Gold Edition | 118750 | [118750-ride-3-gold-edition.json](./118750-ride-3-gold-edition.json) |
 | Ride 3: Japan Pack | 165972 | [165972-ride-3-japan-pack.json](./165972-ride-3-japan-pack.json) |
 | Ride 3: Limited Models Pack | 156106 | [156106-ride-3-limited-models-pack.json](./156106-ride-3-limited-models-pack.json) |
 | Ride 3: Naked Bikes Pack | 160299 | [160299-ride-3-naked-bikes-pack.json](./160299-ride-3-naked-bikes-pack.json) |
@@ -4458,6 +4459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | risTroyka | 142890 | [142890-ristroyka.json](./142890-ristroyka.json) |
 | Rita | 302037 | [302037-rita.json](./302037-rita.json) |
 | Rita Hayworth Isn't In This Game | 112269 | [112269-rita-hayworth-isnt-in-this-game.json](./112269-rita-hayworth-isnt-in-this-game.json) |
+| Ritbone | 118780 | [118780-ritbone.json](./118780-ritbone.json) |
 | Rite as Rain | 249851 | [249851-rite-as-rain.json](./249851-rite-as-rain.json) |
 | Rite of Eris | 295392 | [295392-rite-of-eris.json](./295392-rite-of-eris.json) |
 | Rite of Ilk | 55066 | [55066-rite-of-ilk.json](./55066-rite-of-ilk.json) |
@@ -5196,6 +5198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RocketBallZ | 188454 | [188454-rocketballz.json](./188454-rocketballz.json) |
 | Rocketbirds 2: Mind Control | 170517 | [170517-rocketbirds-2-mind-control.json](./170517-rocketbirds-2-mind-control.json) |
 | Rocketbirds 2: Rescue Bundle | 170516 | [170516-rocketbirds-2-rescue-bundle.json](./170516-rocketbirds-2-rescue-bundle.json) |
+| Rocketboarder | 118793 | [118793-rocketboarder.json](./118793-rocketboarder.json) |
 | RocketBoy 2 | 400455 | [400455-rocketboy-2.json](./400455-rocketboy-2.json) |
 | RocketBoy 3 | 400456 | [400456-rocketboy-3.json](./400456-rocketboy-3.json) |
 | RocketBoy! | 400454 | [400454-rocketboy.json](./400454-rocketboy.json) |
@@ -5654,6 +5657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerBaller | 158511 | [158511-rollerballer.json](./158511-rollerballer.json) |
 | Rollerblade Racer | 48204 | [48204-rollerblade-racer.json](./48204-rollerblade-racer.json) |
 | Rollerboy 2 | 293644 | [293644-rollerboy-2.json](./293644-rollerboy-2.json) |
+| RollerCoaster Arcade VR Bundle | 118862 | [118862-rollercoaster-arcade-vr-bundle.json](./118862-rollercoaster-arcade-vr-bundle.json) |
 | Rollercoaster Creator | 337202 | [337202-rollercoaster-creator.json](./337202-rollercoaster-creator.json) |
 | Rollercoaster Dash | 104460 | [104460-rollercoaster-dash.json](./104460-rollercoaster-dash.json) |
 | Rollercoaster Dreams | 26784 | [26784-rollercoaster-dreams.json](./26784-rollercoaster-dreams.json) |
