@@ -1761,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incubus: A ghost-hunters tale | 221683 | [221683-incubus-a-ghost-hunters-tale.json](./221683-incubus-a-ghost-hunters-tale.json) |
 | Incursion2D | 284887 | [284887-incursion2d.json](./284887-incursion2d.json) |
 | Indecision. | 83969 | [83969-indecision.json](./83969-indecision.json) |
+| Indect | 135062 | [135062-indect.json](./135062-indect.json) |
 | Indeep | 55503 | [55503-indeep.json](./55503-indeep.json) |
 | Indekos | 328613 | [328613-indekos.json](./328613-indekos.json) |
 | Indenture | 212208 | [212208-indenture.json](./212208-indenture.json) |
@@ -2623,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interactive Empathy | 392802 | [392802-interactive-empathy.json](./392802-interactive-empathy.json) |
 | Interactive Manual For Employees of Pippi-integrated Companies | 392442 | [392442-interactive-manual-for-employees-of-pippi-integrated-companies.json](./392442-interactive-manual-for-employees-of-pippi-integrated-companies.json) |
 | Interactive meadow 64 | 178022 | [178022-interactive-meadow-64.json](./178022-interactive-meadow-64.json) |
+| Interactive Portraits: Trans People in Japan | 134988 | [134988-interactive-portraits-trans-people-in-japan.json](./134988-interactive-portraits-trans-people-in-japan.json) |
 | Interactive Sex: BDSM | 371354 | [371354-interactive-sex-bdsm.json](./371354-interactive-sex-bdsm.json) |
 | Interactive Storybook DS: Series 3 | 269833 | [269833-interactive-storybook-ds-series-3.json](./269833-interactive-storybook-ds-series-3.json) |
 | Interalia | 354567 | [354567-interalia.json](./354567-interalia.json) |
