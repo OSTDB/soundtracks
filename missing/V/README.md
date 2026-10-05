@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verticality | 306971 | [306971-verticality.json](./306971-verticality.json) |
 | Vertig8 | 303071 | [303071-vertig8.json](./303071-vertig8.json) |
 | VertiGhoul | 344537 | [344537-vertighoul.json](./344537-vertighoul.json) |
+| Vertigo | 167195 | [167195-vertigo.json](./167195-vertigo.json) |
 | Vertigo | 171501 | [171501-vertigo.json](./171501-vertigo.json) |
 | Vertigo | 248174 | [248174-vertigo.json](./248174-vertigo.json) |
 | Vertigo | 26620 | [26620-vertigo.json](./26620-vertigo.json) |
@@ -1760,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Sols | 223109 | [223109-void-sols.json](./223109-void-sols.json) |
 | Void Stealer: Bodycam Horror | 317975 | [317975-void-stealer-bodycam-horror.json](./317975-void-stealer-bodycam-horror.json) |
 | Void Strife | 244209 | [244209-void-strife.json](./244209-void-strife.json) |
+| Void Terrarium: Limited Edition | 167108 | [167108-void-terrarium-limited-edition.json](./167108-void-terrarium-limited-edition.json) |
 | Void Titan | 220644 | [220644-void-titan.json](./220644-void-titan.json) |
 | Void War | 291212 | [291212-void-war.json](./291212-void-war.json) |
 | Void Warfare | 148889 | [148889-void-warfare.json](./148889-void-warfare.json) |
