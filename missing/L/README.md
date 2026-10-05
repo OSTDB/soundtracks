@@ -1813,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leisure Town | 108424 | [108424-leisure-town.json](./108424-leisure-town.json) |
 | Leisure Yacht | 238580 | [238580-leisure-yacht.json](./238580-leisure-yacht.json) |
 | Leisurely Brick | 267656 | [267656-leisurely-brick.json](./267656-leisurely-brick.json) |
+| Leitstellensimulator | 145257 | [145257-leitstellensimulator.json](./145257-leitstellensimulator.json) |
 | Lek gjemsel med Mummitrollet | 404209 | [404209-lek-gjemsel-med-mummitrollet.json](./404209-lek-gjemsel-med-mummitrollet.json) |
 | Lekano World Online | 330856 | [330856-lekano-world-online.json](./330856-lekano-world-online.json) |
 | Lekker Weertje Koekepeertje: Lente | 350014 | [350014-lekker-weertje-koekepeertje-lente.json](./350014-lekker-weertje-koekepeertje-lente.json) |
@@ -2864,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lina: Witches of the Moon | 411578 | [411578-lina-witches-of-the-moon.json](./411578-lina-witches-of-the-moon.json) |
 | Linch | 80978 | [80978-linch.json](./80978-linch.json) |
 | Lincity | 46721 | [46721-lincity.json](./46721-lincity.json) |
+| LinCity-NG | 145269 | [145269-lincity-ng.json](./145269-lincity-ng.json) |
 | Lincoln Green | 231086 | [231086-lincoln-green.json](./231086-lincoln-green.json) |
 | Linda Crenshaw: The Dream Apartment | 181687 | [181687-linda-crenshaw-the-dream-apartment.json](./181687-linda-crenshaw-the-dream-apartment.json) |
 | Linda Cube | 94898 | [94898-linda-cube.json](./94898-linda-cube.json) |
