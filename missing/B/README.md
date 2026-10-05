@@ -2731,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Mode: Night of the Werewolf | 43541 | [43541-beast-mode-night-of-the-werewolf.json](./43541-beast-mode-night-of-the-werewolf.json) |
 | Beast Mode: Night of the Werewolf Silver Bullet Edition | 273113 | [273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json](./273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json) |
 | Beast Modon | 108063 | [108063-beast-modon.json](./108063-beast-modon.json) |
+| Beast Nature | 158094 | [158094-beast-nature.json](./158094-beast-nature.json) |
 | Beast OL | 358509 | [358509-beast-ol.json](./358509-beast-ol.json) |
 | Beast Quest: Ultimate Heroes | 175761 | [175761-beast-quest-ultimate-heroes.json](./175761-beast-quest-ultimate-heroes.json) |
 | Beast Survivor | 374792 | [374792-beast-survivor.json](./374792-beast-survivor.json) |
@@ -4384,6 +4385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird of Light | 33458 | [33458-bird-of-light.json](./33458-bird-of-light.json) |
 | Bird of Paradise | 265728 | [265728-bird-of-paradise.json](./265728-bird-of-paradise.json) |
 | Bird of Passage | 120249 | [120249-bird-of-passage.json](./120249-bird-of-passage.json) |
+| Bird Path | 158124 | [158124-bird-path.json](./158124-bird-path.json) |
 | Bird Pro Skater | 159641 | [159641-bird-pro-skater.json](./159641-bird-pro-skater.json) |
 | Bird Problems | 152178 | [152178-bird-problems.json](./152178-bird-problems.json) |
 | Bird Shooter | 229974 | [229974-bird-shooter.json](./229974-bird-shooter.json) |
@@ -4742,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black ICE/White Noise | 341681 | [341681-black-ice-white-noise.json](./341681-black-ice-white-noise.json) |
 | Black Idea | 370880 | [370880-black-idea.json](./370880-black-idea.json) |
 | Black Inc.: Go to Work | 320809 | [320809-black-inc-go-to-work.json](./320809-black-inc-go-to-work.json) |
+| Black Infinity | 158126 | [158126-black-infinity.json](./158126-black-infinity.json) |
 | Black Ink | 199495 | [199495-black-ink.json](./199495-black-ink.json) |
 | Black Jack | 246377 | [246377-black-jack.json](./246377-black-jack.json) |
 | Black Jack | 366927 | [366927-black-jack.json](./366927-black-jack.json) |
@@ -4947,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackstead | 217828 | [217828-blackstead.json](./217828-blackstead.json) |
 | BlackSteel | 105301 | [105301-blacksteel.json](./105301-blacksteel.json) |
 | Blackstone | 83927 | [83927-blackstone.json](./83927-blackstone.json) |
+| Blackstorm | 158132 | [158132-blackstorm.json](./158132-blackstorm.json) |
 | Blacksword Games | 109166 | [109166-blacksword-games.json](./109166-blacksword-games.json) |
 | Blacktail | 152129 | [152129-blacktail.json](./152129-blacktail.json) |
 | Blackthorn Arena | 127233 | [127233-blackthorn-arena.json](./127233-blackthorn-arena.json) |
@@ -8591,6 +8595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BTS Island: In the Seom | 206740 | [206740-bts-island-in-the-seom.json](./206740-bts-island-in-the-seom.json) |
 | BTS Universe Story | 139294 | [139294-bts-universe-story.json](./139294-bts-universe-story.json) |
 | Bù Shàngàn Bù Liànài | 373701 | [373701-bu-shangan-bu-lianai.json](./373701-bu-shangan-bu-lianai.json) |
+| Bub Block | 157985 | [157985-bub-block.json](./157985-bub-block.json) |
 | Bub-O Burst | 319075 | [319075-bub-o-burst.json](./319075-bub-o-burst.json) |
 | Buba | 120348 | [120348-buba.json](./120348-buba.json) |
 | Bubba Yuga | 383523 | [383523-bubba-yuga.json](./383523-bubba-yuga.json) |
@@ -8769,6 +8774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy Simulator 1984 | 132333 | [132333-buddy-simulator-1984.json](./132333-buddy-simulator-1984.json) |
 | Buddy Toss | 106736 | [106736-buddy-toss.json](./106736-buddy-toss.json) |
 | Buddy, No! | 234191 | [234191-buddy-no.json](./234191-buddy-no.json) |
+| Buddy's Creative Quest! | 157983 | [157983-buddys-creative-quest.json](./157983-buddys-creative-quest.json) |
 | Budget Backrooms | 266290 | [266290-budget-backrooms.json](./266290-budget-backrooms.json) |
 | Budget Cuts 2: Mission Insolvency | 119340 | [119340-budget-cuts-2-mission-insolvency.json](./119340-budget-cuts-2-mission-insolvency.json) |
 | Budget Rate Stigmata | 362855 | [362855-budget-rate-stigmata.json](./362855-budget-rate-stigmata.json) |
