@@ -5597,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Pot | 182817 | [182817-hot-pot.json](./182817-hot-pot.json) |
 | Hot Pot For One | 139811 | [139811-hot-pot-for-one.json](./139811-hot-pot-for-one.json) |
 | Hot Pot Panic | 134550 | [134550-hot-pot-panic.json](./134550-hot-pot-panic.json) |
+| Hot Pot VR | 153004 | [153004-hot-pot-vr.json](./153004-hot-pot-vr.json) |
 | Hot Pussy College 2 | 240737 | [240737-hot-pussy-college-2.json](./240737-hot-pussy-college-2.json) |
 | Hot Racing | 246461 | [246461-hot-racing.json](./246461-hot-racing.json) |
 | Hot Rider | 252257 | [252257-hot-rider.json](./252257-hot-rider.json) |
