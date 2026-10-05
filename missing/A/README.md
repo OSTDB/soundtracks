@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lucky Hunt With: Ione | 392956 | [392956-a-lucky-hunt-with-ione.json](./392956-a-lucky-hunt-with-ione.json) |
 | A Mage Reborn | 207342 | [207342-a-mage-reborn.json](./207342-a-mage-reborn.json) |
 | A Magical Girl's Duty | 181692 | [181692-a-magical-girls-duty.json](./181692-a-magical-girls-duty.json) |
+| A Magical Tale: Cavern Crawler | 134995 | [134995-a-magical-tale-cavern-crawler.json](./134995-a-magical-tale-cavern-crawler.json) |
 | A Magical Tale: Revoke DX | 381603 | [381603-a-magical-tale-revoke-dx.json](./381603-a-magical-tale-revoke-dx.json) |
 | A Male Me Dressed up and Was Loved | 82878 | [82878-a-male-me-dressed-up-and-was-loved.json](./82878-a-male-me-dressed-up-and-was-loved.json) |
 | A Mallard's Song | 282087 | [282087-a-mallards-song.json](./282087-a-mallards-song.json) |
@@ -1816,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero The Acro-Bat: Rascal Rival Revenge | 312090 | [312090-aero-the-acro-bat-rascal-rival-revenge.json](./312090-aero-the-acro-bat-rascal-rival-revenge.json) |
 | Aerobat | 18199 | [18199-aerobat.json](./18199-aerobat.json) |
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
+| Aerocraft | 134973 | [134973-aerocraft.json](./134973-aerocraft.json) |
 | Aerofly FS 2 Flight Simulator: Just Flight - Cessna 152 | 162744 | [162744-aerofly-fs-2-flight-simulator-just-flight-cessna-152.json](./162744-aerofly-fs-2-flight-simulator-just-flight-cessna-152.json) |
 | Aerofly FS 2 Flight Simulator: Just Flight - Duchess | 162742 | [162742-aerofly-fs-2-flight-simulator-just-flight-duchess.json](./162742-aerofly-fs-2-flight-simulator-just-flight-duchess.json) |
 | Aerofly FS 2 Flight Simulator: Just Flight - Turbo Arrow III / IV | 162743 | [162743-aerofly-fs-2-flight-simulator-just-flight-turbo-arrow-iii-iv.json](./162743-aerofly-fs-2-flight-simulator-just-flight-turbo-arrow-iii-iv.json) |
