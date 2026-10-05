@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare! Dodge Fighters | 49610 | [49610-ganbare-dodge-fighters.json](./49610-ganbare-dodge-fighters.json) |
 | Ganbare! Inu-chan: Rock'n Roll-hen | 280460 | [280460-ganbare-inu-chan-rockn-roll-hen.json](./280460-ganbare-inu-chan-rockn-roll-hen.json) |
 | Ganbaru Kimi to no Futari Gurashi: Iede Gal Icha Love Seikatsu SLG | 408962 | [408962-ganbaru-kimi-to-no-futari-gurashi-iede-gal-icha-love-seikatsu-slg.json](./408962-ganbaru-kimi-to-no-futari-gurashi-iede-gal-icha-love-seikatsu-slg.json) |
+| Ganbaru Watashi no Kakei Diary | 124591 | [124591-ganbaru-watashi-no-kakei-diary.json](./124591-ganbaru-watashi-no-kakei-diary.json) |
 | Ganbatte | 77402 | [77402-ganbatte.json](./77402-ganbatte.json) |
 | Gancho Bond | 372673 | [372673-gancho-bond.json](./372673-gancho-bond.json) |
 | Gander National Park | 148681 | [148681-gander-national-park.json](./148681-gander-national-park.json) |
@@ -1317,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gedda Cake | 180286 | [180286-gedda-cake.json](./180286-gedda-cake.json) |
 | Gee Bee Air Rally | 12115 | [12115-gee-bee-air-rally.json](./12115-gee-bee-air-rally.json) |
 | Geek Fighter | 90816 | [90816-geek-fighter.json](./90816-geek-fighter.json) |
+| Geek Mind | 124663 | [124663-geek-mind.json](./124663-geek-mind.json) |
 | Geekwords: Game of Words | 156971 | [156971-geekwords-game-of-words.json](./156971-geekwords-game-of-words.json) |
 | Geenius: Cupid Dough | 395196 | [395196-geenius-cupid-dough.json](./395196-geenius-cupid-dough.json) |
 | Geeste | 99667 | [99667-geeste.json](./99667-geeste.json) |
@@ -1400,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GemCraft Chapter One: The Forgotten | 79289 | [79289-gemcraft-chapter-one-the-forgotten.json](./79289-gemcraft-chapter-one-the-forgotten.json) |
 | GemCraft Lost Chapter: Labyrinth | 79288 | [79288-gemcraft-lost-chapter-labyrinth.json](./79288-gemcraft-lost-chapter-labyrinth.json) |
 | Gemcraft: Legacy Collection | 408202 | [408202-gemcraft-legacy-collection.json](./408202-gemcraft-legacy-collection.json) |
+| Gemdance | 124575 | [124575-gemdance.json](./124575-gemdance.json) |
 | Gemfire | 14501 | [14501-gemfire.json](./14501-gemfire.json) |
 | Gemibears | 233997 | [233997-gemibears.json](./233997-gemibears.json) |
 | Gemini | 139404 | [139404-gemini.json](./139404-gemini.json) |
@@ -2181,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant and Me | 174757 | [174757-giant-and-me.json](./174757-giant-and-me.json) |
 | Giant Bundle | 193741 | [193741-giant-bundle.json](./193741-giant-bundle.json) |
 | Giant Chase | 272446 | [272446-giant-chase.json](./272446-giant-chase.json) |
+| Giant Cutter | 124571 | [124571-giant-cutter.json](./124571-giant-cutter.json) |
 | Giant Defense | 249912 | [249912-giant-defense.json](./249912-giant-defense.json) |
 | Giant Life | 118342 | [118342-giant-life.json](./118342-giant-life.json) |
 | Giant Machines 2017 | 24684 | [24684-giant-machines-2017.json](./24684-giant-machines-2017.json) |
@@ -2317,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginsei Table Games Wii | 83448 | [83448-ginsei-table-games-wii.json](./83448-ginsei-table-games-wii.json) |
 | Ginseng King | 116356 | [116356-ginseng-king.json](./116356-ginseng-king.json) |
 | Ginsha | 249208 | [249208-ginsha.json](./249208-ginsha.json) |
+| Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai-soudatsusen!! | 124566 | [124566-gintama-gintoki-vs-hijikata-kabukichou-gintama-dai-soudatsusen.json](./124566-gintama-gintoki-vs-hijikata-kabukichou-gintama-dai-soudatsusen.json) |
 | Gioventù Ribelle | 316757 | [316757-gioventu-ribelle.json](./316757-gioventu-ribelle.json) |
 | Gipsy King | 175423 | [175423-gipsy-king.json](./175423-gipsy-king.json) |
 | Girabox | 138621 | [138621-girabox.json](./138621-girabox.json) |
@@ -2836,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Bananas! | 365801 | [365801-go-bananas.json](./365801-go-bananas.json) |
 | Go Bang | 246335 | [246335-go-bang.json](./246335-go-bang.json) |
 | Go Bear Go! | 327830 | [327830-go-bear-go.json](./327830-go-bear-go.json) |
+| Go Beryllium! | 124658 | [124658-go-beryllium.json](./124658-go-beryllium.json) |
 | Go Bhop | 174751 | [174751-go-bhop.json](./174751-go-bhop.json) |
 | Go Big | 394220 | [394220-go-big.json](./394220-go-big.json) |
 | Go Cabbies!GB | 114189 | [114189-go-cabbies-gb.json](./114189-go-cabbies-gb.json) |
@@ -5559,6 +5565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gum Droppers | 140608 | [140608-gum-droppers.json](./140608-gum-droppers.json) |
 | Gum Flesh | 311990 | [311990-gum-flesh.json](./311990-gum-flesh.json) |
 | Gum Girl | 181847 | [181847-gum-girl.json](./181847-gum-girl.json) |
+| Gum+ | 124590 | [124590-gum.json](./124590-gum.json) |
 | Gumball | 25612 | [25612-gumball.json](./25612-gumball.json) |
 | Gumball 3000 | 300795 | [300795-gumball-3000.json](./300795-gumball-3000.json) |
 | Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
