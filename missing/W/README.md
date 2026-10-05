@@ -3799,6 +3799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Boot Camp | 232052 | [232052-wolf-boot-camp.json](./232052-wolf-boot-camp.json) |
 | Wolf Bride | 313856 | [313856-wolf-bride.json](./313856-wolf-bride.json) |
 | Wolf Gang | 76507 | [76507-wolf-gang.json](./76507-wolf-gang.json) |
+| Wolf Girl With You | 140307 | [140307-wolf-girl-with-you.json](./140307-wolf-girl-with-you.json) |
 | Wolf Hero: Animals vs. Robots | 312541 | [312541-wolf-hero-animals-vs-robots.json](./312541-wolf-hero-animals-vs-robots.json) |
 | Wolf Knight Memoir | 278982 | [278982-wolf-knight-memoir.json](./278982-wolf-knight-memoir.json) |
 | Wolf Night Evening | 228512 | [228512-wolf-night-evening.json](./228512-wolf-night-evening.json) |
