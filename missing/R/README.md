@@ -2861,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiem: Memento Mori | 80593 | [80593-requiem-memento-mori.json](./80593-requiem-memento-mori.json) |
 | Requiem: Rise of the Reaver | 36343 | [36343-requiem-rise-of-the-reaver.json](./36343-requiem-rise-of-the-reaver.json) |
 | Requiem: Unleashed | 341093 | [341093-requiem-unleashed.json](./341093-requiem-unleashed.json) |
+| Requiescat | 164933 | [164933-requiescat.json](./164933-requiescat.json) |
 | Requisition VR | 193293 | [193293-requisition-vr.json](./193293-requisition-vr.json) |
 | ReRave | 41506 | [41506-rerave.json](./41506-rerave.json) |
 | ReRise | 293862 | [293862-rerise.json](./293862-rerise.json) |
