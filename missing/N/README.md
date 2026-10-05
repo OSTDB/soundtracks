@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Heat 4 | 120487 | [120487-nascar-heat-4.json](./120487-nascar-heat-4.json) |
 | NASCAR Heat 4: Gold Edition | 187900 | [187900-nascar-heat-4-gold-edition.json](./187900-nascar-heat-4-gold-edition.json) |
 | NASCAR Heat 5 | 134370 | [134370-nascar-heat-5.json](./134370-nascar-heat-5.json) |
+| NASCAR Heat 5: Gold Edition | 136186 | [136186-nascar-heat-5-gold-edition.json](./136186-nascar-heat-5-gold-edition.json) |
 | NASCAR Heat 5: Ultimate Edition | 164815 | [164815-nascar-heat-5-ultimate-edition.json](./164815-nascar-heat-5-ultimate-edition.json) |
 | NASCAR Heat 5: Ultimate Edition+ | 187308 | [187308-nascar-heat-5-ultimate-edition.json](./187308-nascar-heat-5-ultimate-edition.json) |
 | NASCAR Heat Bundle | 273941 | [273941-nascar-heat-bundle.json](./273941-nascar-heat-bundle.json) |
@@ -684,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K17: Legend Gold | 53406 | [53406-nba-2k17-legend-gold.json](./53406-nba-2k17-legend-gold.json) |
 | NBA 2K17: The Prelude | 83763 | [83763-nba-2k17-the-prelude.json](./83763-nba-2k17-the-prelude.json) |
 | NBA 2K18 | 26772 | [26772-nba-2k18.json](./26772-nba-2k18.json) |
+| NBA 2K18: Early Tip-Off Edition | 136210 | [136210-nba-2k18-early-tip-off-edition.json](./136210-nba-2k18-early-tip-off-edition.json) |
 | NBA 2K18: Legend Edition | 53408 | [53408-nba-2k18-legend-edition.json](./53408-nba-2k18-legend-edition.json) |
 | NBA 2K18: Legend Gold Edition | 53407 | [53407-nba-2k18-legend-gold-edition.json](./53407-nba-2k18-legend-gold-edition.json) |
 | NBA 2K19 | 103218 | [103218-nba-2k19.json](./103218-nba-2k19.json) |
