@@ -2329,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Maze | 109613 | [109613-death-maze.json](./109613-death-maze.json) |
 | Death Merchant | 293228 | [293228-death-merchant.json](./293228-death-merchant.json) |
 | Death Mile | 259241 | [259241-death-mile.json](./259241-death-mile.json) |
+| Death Moon | 156712 | [156712-death-moon.json](./156712-death-moon.json) |
 | Death Motel | 283281 | [283281-death-motel.json](./283281-death-motel.json) |
 | Death Moto | 242001 | [242001-death-moto.json](./242001-death-moto.json) |
 | Death Moto 3 | 237964 | [237964-death-moto-3.json](./237964-death-moto-3.json) |
@@ -2373,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death School | 210523 | [210523-death-school.json](./210523-death-school.json) |
 | Death Shooter 4 : Mission Impossible | 104614 | [104614-death-shooter-4-mission-impossible.json](./104614-death-shooter-4-mission-impossible.json) |
 | Death Sketchbook | 393134 | [393134-death-sketchbook.json](./393134-death-sketchbook.json) |
+| Death Ski | 156707 | [156707-death-ski.json](./156707-death-ski.json) |
 | Death Skid Marks | 17897 | [17897-death-skid-marks.json](./17897-death-skid-marks.json) |
 | Death Slave | 209698 | [209698-death-slave.json](./209698-death-slave.json) |
 | Death Slayer V | 180013 | [180013-death-slayer-v.json](./180013-death-slayer-v.json) |
@@ -6450,6 +6452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Let Me Down | 204417 | [204417-dont-let-me-down.json](./204417-dont-let-me-down.json) |
 | Don't Let Me Fade | 352220 | [352220-dont-let-me-fade.json](./352220-dont-let-me-fade.json) |
 | Don't Let Me Rot | 365209 | [365209-dont-let-me-rot.json](./365209-dont-let-me-rot.json) |
+| Don't Look | 156708 | [156708-dont-look.json](./156708-dont-look.json) |
 | Don't Look | 177547 | [177547-dont-look.json](./177547-dont-look.json) |
 | Don't Look at Grandma | 375820 | [375820-dont-look-at-grandma.json](./375820-dont-look-at-grandma.json) |
 | Don't Look At Me | 184952 | [184952-dont-look-at-me.json](./184952-dont-look-at-me.json) |
@@ -8702,6 +8705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Me to Hell | 253969 | [253969-drive-me-to-hell.json](./253969-drive-me-to-hell.json) |
 | Drive Megapolis | 31659 | [31659-drive-megapolis.json](./31659-drive-megapolis.json) |
 | Drive On Lucy | 323299 | [323299-drive-on-lucy.json](./323299-drive-on-lucy.json) |
+| Drive or Die | 156706 | [156706-drive-or-die.json](./156706-drive-or-die.json) |
 | Drive Real Truck SImulator | 409625 | [409625-drive-real-truck-simulator.json](./409625-drive-real-truck-simulator.json) |
 | Drive Simulator 2016 | 90673 | [90673-drive-simulator-2016.json](./90673-drive-simulator-2016.json) |
 | Drive Thru | 365860 | [365860-drive-thru.json](./365860-drive-thru.json) |
@@ -9020,6 +9024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Brain Vol.1: Calculation | 127170 | [127170-dual-brain-vol-1-calculation.json](./127170-dual-brain-vol-1-calculation.json) |
 | Dual Brain: Complete Edition | 196178 | [196178-dual-brain-complete-edition.json](./196178-dual-brain-complete-edition.json) |
 | Dual Bus Simulator | 269028 | [269028-dual-bus-simulator.json](./269028-dual-bus-simulator.json) |
+| Dual Cars | 156598 | [156598-dual-cars.json](./156598-dual-cars.json) |
 | Dual Chroma | 255266 | [255266-dual-chroma.json](./255266-dual-chroma.json) |
 | Dual Chroma: Academy Carols | 238546 | [238546-dual-chroma-academy-carols.json](./238546-dual-chroma-academy-carols.json) |
 | Dual Chroma: Far Shore | 196699 | [196699-dual-chroma-far-shore.json](./196699-dual-chroma-far-shore.json) |
