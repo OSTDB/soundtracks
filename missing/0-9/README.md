@@ -1446,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Soccer: a sci-fi soccer tale | 88178 | [88178-7-soccer-a-sci-fi-soccer-tale.json](./88178-7-soccer-a-sci-fi-soccer-tale.json) |
 | 7 Souls | 147320 | [147320-7-souls.json](./147320-7-souls.json) |
 | 7 Stories | 147319 | [147319-7-stories.json](./147319-7-stories.json) |
+| 7 Summer Days: Youth sky | 171422 | [171422-7-summer-days-youth-sky.json](./171422-7-summer-days-youth-sky.json) |
 | 7 Wonders | 89128 | [89128-7-wonders.json](./89128-7-wonders.json) |
 | 7 Wonders of the Ancient World | 4629 | [4629-7-wonders-of-the-ancient-world.json](./4629-7-wonders-of-the-ancient-world.json) |
 | 7 Years From Now | 115856 | [115856-7-years-from-now.json](./115856-7-years-from-now.json) |
