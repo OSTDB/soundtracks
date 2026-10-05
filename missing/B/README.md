@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Blitz! | 296615 | [296615-ball-blitz.json](./296615-ball-blitz.json) |
 | Ball Bounce Maze | 166611 | [166611-ball-bounce-maze.json](./166611-ball-bounce-maze.json) |
 | Ball Boy Simulator | 412511 | [412511-ball-boy-simulator.json](./412511-ball-boy-simulator.json) |
+| Ball Brawl 3D | 154620 | [154620-ball-brawl-3d.json](./154620-ball-brawl-3d.json) |
 | Ball Breaker 3D | 78036 | [78036-ball-breaker-3d.json](./78036-ball-breaker-3d.json) |
 | Ball Bulét | 304632 | [304632-ball-bulet.json](./304632-ball-bulet.json) |
 | Ball Buster Breakout | 404372 | [404372-ball-buster-breakout.json](./404372-ball-buster-breakout.json) |
@@ -3547,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beta Runner | 47989 | [47989-beta-runner.json](./47989-beta-runner.json) |
 | Betaman 2000: Special Edition | 330521 | [330521-betaman-2000-special-edition.json](./330521-betaman-2000-special-edition.json) |
 | Betasuppe | 68968 | [68968-betasuppe.json](./68968-betasuppe.json) |
+| Beth the Exhibitionist | 154582 | [154582-beth-the-exhibitionist.json](./154582-beth-the-exhibitionist.json) |
 | Bethesda Pinball | 297501 | [297501-bethesda-pinball.json](./297501-bethesda-pinball.json) |
 | Betia Pera-pera English Adventure | 194976 | [194976-betia-pera-pera-english-adventure.json](./194976-betia-pera-pera-english-adventure.json) |
 | BeTrapped! | 71522 | [71522-betrapped.json](./71522-betrapped.json) |
