@@ -5260,6 +5260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach: Versus Crusade | 3822 | [3822-bleach-versus-crusade.json](./3822-bleach-versus-crusade.json) |
 | Bleak | 106641 | [106641-bleak.json](./106641-bleak.json) |
 | Bleak Dystopia | 226314 | [226314-bleak-dystopia.json](./226314-bleak-dystopia.json) |
+| Bleak End | 167571 | [167571-bleak-end.json](./167571-bleak-end.json) |
 | Bleak Frontier | 258707 | [258707-bleak-frontier.json](./258707-bleak-frontier.json) |
 | Bleak Haven | 350435 | [350435-bleak-haven.json](./350435-bleak-haven.json) |
 | Bleak House | 311468 | [311468-bleak-house.json](./311468-bleak-house.json) |
@@ -7099,6 +7100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bosses | 235821 | [235821-bosses.json](./235821-bosses.json) |
 | Bossfight Tactics | 346141 | [346141-bossfight-tactics.json](./346141-bossfight-tactics.json) |
 | Bossleft | 408913 | [408913-bossleft.json](./408913-bossleft.json) |
+| Bosslords | 167563 | [167563-bosslords.json](./167563-bosslords.json) |
 | Bostilda | 39882 | [39882-bostilda.json](./39882-bostilda.json) |
 | Boston Bomb Club | 10865 | [10865-boston-bomb-club.json](./10865-boston-bomb-club.json) |
 | Boston Nursing Home | 157174 | [157174-boston-nursing-home.json](./157174-boston-nursing-home.json) |
