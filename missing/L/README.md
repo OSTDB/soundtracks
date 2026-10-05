@@ -1622,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legionbound | 387609 | [387609-legionbound.json](./387609-legionbound.json) |
 | Legionnaire | 23968 | [23968-legionnaire.json](./23968-legionnaire.json) |
 | Legionnaire | 81453 | [81453-legionnaire.json](./81453-legionnaire.json) |
+| Legions Masters | 130671 | [130671-legions-masters.json](./130671-legions-masters.json) |
 | Legions of Chaos | 220180 | [220180-legions-of-chaos.json](./220180-legions-of-chaos.json) |
 | Legions of Dawn | 124722 | [124722-legions-of-dawn.json](./124722-legions-of-dawn.json) |
 | Legions of Death | 37085 | [37085-legions-of-death.json](./37085-legions-of-death.json) |
