@@ -5710,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluster Buster | 292831 | [292831-cluster-buster.json](./292831-cluster-buster.json) |
 | Cluster Dust | 89653 | [89653-cluster-dust.json](./89653-cluster-dust.json) |
 | Cluster Fly | 226305 | [226305-cluster-fly.json](./226305-cluster-fly.json) |
+| Cluster Gun | 134997 | [134997-cluster-gun.json](./134997-cluster-gun.json) |
 | Cluster Six | 58756 | [58756-cluster-six.json](./58756-cluster-six.json) |
 | Cluster Tumble | 118156 | [118156-cluster-tumble.json](./118156-cluster-tumble.json) |
 | Clusterball | 10349 | [10349-clusterball.json](./10349-clusterball.json) |
@@ -7437,6 +7438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conversation With a Rock | 297099 | [297099-conversation-with-a-rock.json](./297099-conversation-with-a-rock.json) |
 | ConversationalRumblings | 300340 | [300340-conversationalrumblings.json](./300340-conversationalrumblings.json) |
 | Conversations We Have In My Head | 181750 | [181750-conversations-we-have-in-my-head.json](./181750-conversations-we-have-in-my-head.json) |
+| Conversations With My Anxiety | 134993 | [134993-conversations-with-my-anxiety.json](./134993-conversations-with-my-anxiety.json) |
 | Convertible Wop | 104442 | [104442-convertible-wop.json](./104442-convertible-wop.json) |
 | Conveyor Belt Sushi Simulator | 334129 | [334129-conveyor-belt-sushi-simulator.json](./334129-conveyor-belt-sushi-simulator.json) |
 | Conveyor VR | 112970 | [112970-conveyor-vr.json](./112970-conveyor-vr.json) |
