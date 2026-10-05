@@ -2979,6 +2979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura: Estival Versus - Splash Pack | 226793 | [226793-senran-kagura-estival-versus-splash-pack.json](./226793-senran-kagura-estival-versus-splash-pack.json) |
 | Senran Kagura: New Link | 54520 | [54520-senran-kagura-new-link.json](./54520-senran-kagura-new-link.json) |
 | Senran Kagura: Peach and Reflexions Limited Double Pack | 136928 | [136928-senran-kagura-peach-and-reflexions-limited-double-pack.json](./136928-senran-kagura-peach-and-reflexions-limited-double-pack.json) |
+| Senran Kagura: Peach Beach Splash - No Shirt, No Shoes, All Service Edition | 136217 | [136217-senran-kagura-peach-beach-splash-no-shirt-no-shoes-all-service-edition.json](./136217-senran-kagura-peach-beach-splash-no-shirt-no-shoes-all-service-edition.json) |
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
 | Sensations | 252733 | [252733-sensations.json](./252733-sensations.json) |
@@ -5386,6 +5387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: Mudrock Pack | 278635 | [278635-sid-meiers-civilization-vi-mudrock-pack.json](./278635-sid-meiers-civilization-vi-mudrock-pack.json) |
 | Sid Meier's Civilization VI: Nubia Civilization & Scenario Pack | 164403 | [164403-sid-meiers-civilization-vi-nubia-civilization-and-scenario-pack.json](./164403-sid-meiers-civilization-vi-nubia-civilization-and-scenario-pack.json) |
 | Sid Meier's Civilization VI: Persia and Macedon Civilization & Scenario Pack | 164405 | [164405-sid-meiers-civilization-vi-persia-and-macedon-civilization-and-scenario-pack.json](./164405-sid-meiers-civilization-vi-persia-and-macedon-civilization-and-scenario-pack.json) |
+| Sid Meier's Civilization VI: Platinum Edition | 136199 | [136199-sid-meiers-civilization-vi-platinum-edition.json](./136199-sid-meiers-civilization-vi-platinum-edition.json) |
 | Sid Meier's Civilization VI: Poland Civilization & Scenario Pack | 164399 | [164399-sid-meiers-civilization-vi-poland-civilization-and-scenario-pack.json](./164399-sid-meiers-civilization-vi-poland-civilization-and-scenario-pack.json) |
 | Sid Meier's Civilization VI: Shinra Pack | 276934 | [276934-sid-meiers-civilization-vi-shinra-pack.json](./276934-sid-meiers-civilization-vi-shinra-pack.json) |
 | Sid Meier's Civilization VI: Sun and Moon of Teyvat Pack | 278052 | [278052-sid-meiers-civilization-vi-sun-and-moon-of-teyvat-pack.json](./278052-sid-meiers-civilization-vi-sun-and-moon-of-teyvat-pack.json) |
@@ -8121,6 +8123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite V2 | 3078 | [3078-sniper-elite-v2.json](./3078-sniper-elite-v2.json) |
 | Sniper Elite V2: Game of the Year Edition | 44654 | [44654-sniper-elite-v2-game-of-the-year-edition.json](./44654-sniper-elite-v2-game-of-the-year-edition.json) |
 | Sniper Elite V2: Kill Hitler | 10878 | [10878-sniper-elite-v2-kill-hitler.json](./10878-sniper-elite-v2-kill-hitler.json) |
+| Sniper Elite V2: Silver Star Edition | 136223 | [136223-sniper-elite-v2-silver-star-edition.json](./136223-sniper-elite-v2-silver-star-edition.json) |
 | Sniper Elite V2: The Landwehr Canal | 10879 | [10879-sniper-elite-v2-the-landwehr-canal.json](./10879-sniper-elite-v2-the-landwehr-canal.json) |
 | Sniper Elite VR | 116466 | [116466-sniper-elite-vr.json](./116466-sniper-elite-vr.json) |
 | Sniper Elite: Nazi Zombie Army 2 | 10877 | [10877-sniper-elite-nazi-zombie-army-2.json](./10877-sniper-elite-nazi-zombie-army-2.json) |
@@ -12917,6 +12920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox NES | 323905 | [323905-star-fox-nes.json](./323905-star-fox-nes.json) |
 | Star Fox Wii | 279750 | [279750-star-fox-wii.json](./279750-star-fox-wii.json) |
 | Star Fox Zero | 11196 | [11196-star-fox-zero.json](./11196-star-fox-zero.json) |
+| Star Fox Zero + Star Fox Guard | 136202 | [136202-star-fox-zero-star-fox-guard.json](./136202-star-fox-zero-star-fox-guard.json) |
 | Star Fox Zero and Star Fox Guard: First Print Edition | 51144 | [51144-star-fox-zero-and-star-fox-guard-first-print-edition.json](./51144-star-fox-zero-and-star-fox-guard-first-print-edition.json) |
 | Star Fox Zero: Limited First Print Edition | 23382 | [23382-star-fox-zero-limited-first-print-edition.json](./23382-star-fox-zero-limited-first-print-edition.json) |
 | Star Fox: Assault | 3243 | [3243-star-fox-assault.json](./3243-star-fox-assault.json) |
