@@ -2444,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fightin' Spirit | 12096 | [12096-fightin-spirit.json](./12096-fightin-spirit.json) |
 | Fightin' Words | 297074 | [297074-fightin-words.json](./297074-fightin-words.json) |
 | Fighting | 280316 | [280316-fighting.json](./280316-fighting.json) |
+| Fighting Block | 156218 | [156218-fighting-block.json](./156218-fighting-block.json) |
 | Fighting Box | 68657 | [68657-fighting-box.json](./68657-fighting-box.json) |
 | Fighting breakthrough | 287779 | [287779-fighting-breakthrough.json](./287779-fighting-breakthrough.json) |
 | Fighting Clans | 130224 | [130224-fighting-clans.json](./130224-fighting-clans.json) |
@@ -2926,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finders Reapers: Legends & Sports Character Pack | 155507 | [155507-finders-reapers-legends-and-sports-character-pack.json](./155507-finders-reapers-legends-and-sports-character-pack.json) |
 | Finders Reapers: Super Crazy Character Pack | 155508 | [155508-finders-reapers-super-crazy-character-pack.json](./155508-finders-reapers-super-crazy-character-pack.json) |
 | Finders, Keepers | 139457 | [139457-finders-keepers.json](./139457-finders-keepers.json) |
+| Finding A Prince: The Game | 156189 | [156189-finding-a-prince-the-game.json](./156189-finding-a-prince-the-game.json) |
 | Finding Alex | 344379 | [344379-finding-alex.json](./344379-finding-alex.json) |
 | Finding America: New England | 273665 | [273665-finding-america-new-england.json](./273665-finding-america-new-england.json) |
 | Finding America: The Great Lakes | 260396 | [260396-finding-america-the-great-lakes.json](./260396-finding-america-the-great-lakes.json) |
