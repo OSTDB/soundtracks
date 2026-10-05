@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Loco | 372021 | [372021-banana-loco.json](./372021-banana-loco.json) |
 | Banana Man | 15658 | [15658-banana-man.json](./15658-banana-man.json) |
 | Banana Massacre | 338193 | [338193-banana-massacre.json](./338193-banana-massacre.json) |
+| Banana Nababa | 124565 | [124565-banana-nababa.json](./124565-banana-nababa.json) |
 | Banana Ninja vs. 100 Mann | 359568 | [359568-banana-ninja-vs-100-mann.json](./359568-banana-ninja-vs-100-mann.json) |
 | Banana Party | 390008 | [390008-banana-party.json](./390008-banana-party.json) |
 | Banana Quest | 222847 | [222847-banana-quest.json](./222847-banana-quest.json) |
@@ -5997,6 +5998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodia | 118394 | [118394-bloodia.json](./118394-bloodia.json) |
 | BloodKeeper | 143037 | [143037-bloodkeeper.json](./143037-bloodkeeper.json) |
 | Bloodkill: Goreblast Overkill | 332642 | [332642-bloodkill-goreblast-overkill.json](./332642-bloodkill-goreblast-overkill.json) |
+| Bloodland Battle Royale | 124564 | [124564-bloodland-battle-royale.json](./124564-bloodland-battle-royale.json) |
 | Bloodless Heart | 366879 | [366879-bloodless-heart.json](./366879-bloodless-heart.json) |
 | Bloodletter | 337717 | [337717-bloodletter.json](./337717-bloodletter.json) |
 | BloodLight | 319696 | [319696-bloodlight.json](./319696-bloodlight.json) |
@@ -8192,6 +8194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breed Master | 268484 | [268484-breed-master.json](./268484-breed-master.json) |
 | Breeder | 125874 | [125874-breeder.json](./125874-breeder.json) |
 | Breeder | 41329 | [41329-breeder.json](./41329-breeder.json) |
+| Breeder: Homegrown | 124569 | [124569-breeder-homegrown.json](./124569-breeder-homegrown.json) |
 | Breeder: Homegrown - Director's Cut | 131971 | [131971-breeder-homegrown-directors-cut.json](./131971-breeder-homegrown-directors-cut.json) |
 | Breeders of the Nephelym: Alpha | 122800 | [122800-breeders-of-the-nephelym-alpha.json](./122800-breeders-of-the-nephelym-alpha.json) |
 | Breenstein | 252103 | [252103-breenstein.json](./252103-breenstein.json) |
@@ -8471,6 +8474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Colors | 250302 | [250302-broken-colors.json](./250302-broken-colors.json) |
 | Broken Covenant | 282699 | [282699-broken-covenant.json](./282699-broken-covenant.json) |
 | Broken Crescent | 356248 | [356248-broken-crescent.json](./356248-broken-crescent.json) |
+| Broken Darwin | 124659 | [124659-broken-darwin.json](./124659-broken-darwin.json) |
 | Broken Dimensions | 350640 | [350640-broken-dimensions.json](./350640-broken-dimensions.json) |
 | Broken Dreams | 33495 | [33495-broken-dreams.json](./33495-broken-dreams.json) |
 | Broken Ecchi Gallery | 280748 | [280748-broken-ecchi-gallery.json](./280748-broken-ecchi-gallery.json) |
