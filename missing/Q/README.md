@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q*bert's Qubes | 281667 | [281667-q-berts-qubes.json](./281667-q-berts-qubes.json) |
 | Q*bert's Qubes | 281668 | [281668-q-berts-qubes.json](./281668-q-berts-qubes.json) |
 | Q&Q Answers | 130889 | [130889-q-and-q-answers.json](./130889-q-and-q-answers.json) |
+| Q1K3 | 170355 | [170355-q1k3.json](./170355-q1k3.json) |
 | Q4Max | 252081 | [252081-q4max.json](./252081-q4max.json) |
 | Qabara the Artist | 207717 | [207717-qabara-the-artist.json](./207717-qabara-the-artist.json) |
 | QAD: Quintessential Art of Destruction | 72102 | [72102-qad-quintessential-art-of-destruction.json](./72102-qad-quintessential-art-of-destruction.json) |
