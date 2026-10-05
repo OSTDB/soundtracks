@@ -2265,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiwame Mahjong Deluxe: Mirai Senshi 21 | 128365 | [128365-kiwame-mahjong-deluxe-mirai-senshi-21.json](./128365-kiwame-mahjong-deluxe-mirai-senshi-21.json) |
 | Kiwame Mahjong DX II | 97872 | [97872-kiwame-mahjong-dx-ii.json](./97872-kiwame-mahjong-dx-ii.json) |
 | Kiwanuka | 61305 | [61305-kiwanuka.json](./61305-kiwanuka.json) |
+| Kiwaya | 128962 | [128962-kiwaya.json](./128962-kiwaya.json) |
 | Kiwi | 186256 | [186256-kiwi.json](./186256-kiwi.json) |
 | Kiwi | 306688 | [306688-kiwi.json](./306688-kiwi.json) |
 | Kiwi 64 | 128579 | [128579-kiwi-64.json](./128579-kiwi-64.json) |
@@ -2577,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout City: Season 5 - Greatest Hits | 198302 | [198302-knockout-city-season-5-greatest-hits.json](./198302-knockout-city-season-5-greatest-hits.json) |
 | Knockout City: Season 6 - City of Tomorrow | 214606 | [214606-knockout-city-season-6-city-of-tomorrow.json](./214606-knockout-city-season-6-city-of-tomorrow.json) |
 | Knockout City: Season 7 - Mutant Mutiny | 214607 | [214607-knockout-city-season-7-mutant-mutiny.json](./214607-knockout-city-season-7-mutant-mutiny.json) |
+| Knockout Daddy | 128958 | [128958-knockout-daddy.json](./128958-knockout-daddy.json) |
 | Knockout Kings | 249156 | [249156-knockout-kings.json](./249156-knockout-kings.json) |
 | Knockout Kings 2000 | 10687 | [10687-knockout-kings-2000.json](./10687-knockout-kings-2000.json) |
 | Knockout Kings 2001 | 44747 | [44747-knockout-kings-2001.json](./44747-knockout-kings-2001.json) |
@@ -3221,6 +3223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung-Fu Taikun | 40220 | [40220-kung-fu-taikun.json](./40220-kung-fu-taikun.json) |
 | Kungen | 192690 | [192690-kungen.json](./192690-kungen.json) |
 | Kungfu | 274525 | [274525-kungfu.json](./274525-kungfu.json) |
+| Kungfu & Monster | 128951 | [128951-kungfu-and-monster.json](./128951-kungfu-and-monster.json) |
 | Kungfu 2 | 344993 | [344993-kungfu-2.json](./344993-kungfu-2.json) |
 | Kungfu Beggar | 75795 | [75795-kungfu-beggar.json](./75795-kungfu-beggar.json) |
 | Kungfu Cowboy | 145262 | [145262-kungfu-cowboy.json](./145262-kungfu-cowboy.json) |
