@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Ivan | 262462 | [262462-dangerous-ivan.json](./262462-dangerous-ivan.json) |
 | Dangerous Land | 303096 | [303096-dangerous-land.json](./303096-dangerous-land.json) |
 | Dangerous Line | 327827 | [327827-dangerous-line.json](./327827-dangerous-line.json) |
+| Dangerous Plane | 149682 | [149682-dangerous-plane.json](./149682-dangerous-plane.json) |
 | Dangerous Roads Ahead | 194284 | [194284-dangerous-roads-ahead.json](./194284-dangerous-roads-ahead.json) |
 | Dangerous Solitaire: Zombie Fever | 148931 | [148931-dangerous-solitaire-zombie-fever.json](./148931-dangerous-solitaire-zombie-fever.json) |
 | Dangerous Street | 391810 | [391810-dangerous-street.json](./391810-dangerous-street.json) |
@@ -2360,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death of the Reprobate | 217250 | [217250-death-of-the-reprobate.json](./217250-death-of-the-reprobate.json) |
 | Death or Treat | 215539 | [215539-death-or-treat.json](./215539-death-or-treat.json) |
 | Death Orb | 72629 | [72629-death-orb.json](./72629-death-orb.json) |
+| Death Park 2 | 149730 | [149730-death-park-2.json](./149730-death-park-2.json) |
 | Death Park 2: Horror Clown | 251232 | [251232-death-park-2-horror-clown.json](./251232-death-park-2-horror-clown.json) |
 | Death Penalty | 401555 | [401555-death-penalty.json](./401555-death-penalty.json) |
 | Death Penalty Hero | 285008 | [285008-death-penalty-hero.json](./285008-death-penalty-hero.json) |
@@ -2519,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decayed Evil | 368032 | [368032-decayed-evil.json](./368032-decayed-evil.json) |
 | Decaying Flowers | 98459 | [98459-decaying-flowers.json](./98459-decaying-flowers.json) |
 | Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
+| Deceased | 149711 | [149711-deceased.json](./149711-deceased.json) |
 | Deceit 2 | 239561 | [239561-deceit-2.json](./239561-deceit-2.json) |
 | Deceitful Devotions | 227945 | [227945-deceitful-devotions.json](./227945-deceitful-devotions.json) |
 | Deceive Inc.: Neon Nights | 257432 | [257432-deceive-inc-neon-nights.json](./257432-deceive-inc-neon-nights.json) |
@@ -2663,6 +2666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dungeons of Doom | 17876 | [17876-deep-dungeons-of-doom.json](./17876-deep-dungeons-of-doom.json) |
 | Deep Echo | 25762 | [25762-deep-echo.json](./25762-deep-echo.json) |
 | Deep Eclipse | 36213 | [36213-deep-eclipse.json](./36213-deep-eclipse.json) |
+| Deep Enigma | 149722 | [149722-deep-enigma.json](./149722-deep-enigma.json) |
 | Deep Fear | 46057 | [46057-deep-fear.json](./46057-deep-fear.json) |
 | Deep Fishing | 188091 | [188091-deep-fishing.json](./188091-deep-fishing.json) |
 | Deep Forest Chapter 2 | 362931 | [362931-deep-forest-chapter-2.json](./362931-deep-forest-chapter-2.json) |
@@ -9639,6 +9643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Survivor III: Dark Genesis | 224061 | [224061-dungeon-survivor-iii-dark-genesis.json](./224061-dungeon-survivor-iii-dark-genesis.json) |
 | Dungeon Survivor.io | 260706 | [260706-dungeon-survivor-io.json](./260706-dungeon-survivor-io.json) |
 | Dungeon Survivors | 257935 | [257935-dungeon-survivors.json](./257935-dungeon-survivors.json) |
+| Dungeon Swappers | 149702 | [149702-dungeon-swappers.json](./149702-dungeon-swappers.json) |
 | Dungeon Sweeper KiKi | 299396 | [299396-dungeon-sweeper-kiki.json](./299396-dungeon-sweeper-kiki.json) |
 | Dungeon Sweeper Plus | 401058 | [401058-dungeon-sweeper-plus.json](./401058-dungeon-sweeper-plus.json) |
 | Dungeon Synths | 261464 | [261464-dungeon-synths.json](./261464-dungeon-synths.json) |
