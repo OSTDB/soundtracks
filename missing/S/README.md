@@ -8011,6 +8011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite III: Save Churchill Part 2 - Belly of the Beast | 10874 | [10874-sniper-elite-iii-save-churchill-part-2-belly-of-the-beast.json](./10874-sniper-elite-iii-save-churchill-part-2-belly-of-the-beast.json) |
 | Sniper Elite III: Save Churchill Part 3 - Confrontation | 10875 | [10875-sniper-elite-iii-save-churchill-part-3-confrontation.json](./10875-sniper-elite-iii-save-churchill-part-3-confrontation.json) |
 | Sniper Elite III: Target Hitler - Hunt the Grey Wolf | 10876 | [10876-sniper-elite-iii-target-hitler-hunt-the-grey-wolf.json](./10876-sniper-elite-iii-target-hitler-hunt-the-grey-wolf.json) |
+| Sniper Elite III: U.S. Camouflage Rifles Pack | 161727 | [161727-sniper-elite-iii-u-s-camouflage-rifles-pack.json](./161727-sniper-elite-iii-u-s-camouflage-rifles-pack.json) |
 | Sniper Elite V2 | 3078 | [3078-sniper-elite-v2.json](./3078-sniper-elite-v2.json) |
 | Sniper Elite V2: Game of the Year Edition | 44654 | [44654-sniper-elite-v2-game-of-the-year-edition.json](./44654-sniper-elite-v2-game-of-the-year-edition.json) |
 | Sniper Elite V2: Kill Hitler | 10878 | [10878-sniper-elite-v2-kill-hitler.json](./10878-sniper-elite-v2-kill-hitler.json) |
@@ -12127,6 +12128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint Star: A Running Manager | 310100 | [310100-sprint-star-a-running-manager.json](./310100-sprint-star-a-running-manager.json) |
 | SprintLine | 287909 | [287909-sprintline.json](./287909-sprintline.json) |
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
+| Sprite Man Adventures | 161717 | [161717-sprite-man-adventures.json](./161717-sprite-man-adventures.json) |
 | Sprite Sequence Volume 1 | 180129 | [180129-sprite-sequence-volume-1.json](./180129-sprite-sequence-volume-1.json) |
 | Sprite Sequence: Chapter 1 - The Creation | 154425 | [154425-sprite-sequence-chapter-1-the-creation.json](./154425-sprite-sequence-chapter-1-the-creation.json) |
 | Sprite Sequence: Chapter 2 - New Life | 166047 | [166047-sprite-sequence-chapter-2-new-life.json](./166047-sprite-sequence-chapter-2-new-life.json) |
