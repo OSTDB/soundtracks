@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Work | 102327 | [102327-hard-work.json](./102327-hard-work.json) |
 | Hard Work | 133262 | [133262-hard-work.json](./133262-hard-work.json) |
 | Hard-Life | 219809 | [219809-hard-life.json](./219809-hard-life.json) |
+| Hard, Fast, & Flashy | 128963 | [128963-hard-fast-and-flashy.json](./128963-hard-fast-and-flashy.json) |
 | Hard2Fly | 133778 | [133778-hard2fly.json](./133778-hard2fly.json) |
 | HardAF | 276839 | [276839-hardaf.json](./276839-hardaf.json) |
 | HardBall | 268448 | [268448-hardball.json](./268448-hardball.json) |
@@ -4621,6 +4622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Space | 44174 | [44174-hockey-space.json](./44174-hockey-space.json) |
 | Hockey Super Squad | 321537 | [321537-hockey-super-squad.json](./321537-hockey-super-squad.json) |
 | Hockey: Strategy of Success | 115690 | [115690-hockey-strategy-of-success.json](./115690-hockey-strategy-of-success.json) |
+| Hockeysplit | 128976 | [128976-hockeysplit.json](./128976-hockeysplit.json) |
 | Hoco Poco | 129577 | [129577-hoco-poco.json](./129577-hoco-poco.json) |
 | Hocus 2 | 149537 | [149537-hocus-2.json](./149537-hocus-2.json) |
 | Hocus Pocus | 8476 | [8476-hocus-pocus.json](./8476-hocus-pocus.json) |
