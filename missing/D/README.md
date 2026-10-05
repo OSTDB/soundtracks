@@ -5226,6 +5226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discordia | 55960 | [55960-discordia.json](./55960-discordia.json) |
 | Discordia by Iron Games | 262343 | [262343-discordia-by-iron-games.json](./262343-discordia-by-iron-games.json) |
 | Discount Nightmares: The Gulch | 391164 | [391164-discount-nightmares-the-gulch.json](./391164-discount-nightmares-the-gulch.json) |
+| Discount Paranormal | 151299 | [151299-discount-paranormal.json](./151299-discount-paranormal.json) |
 | Discounty | 239800 | [239800-discounty.json](./239800-discounty.json) |
 | Discounty: People or Profit? | 404848 | [404848-discounty-people-or-profit.json](./404848-discounty-people-or-profit.json) |
 | Discover My Body | 153577 | [153577-discover-my-body.json](./153577-discover-my-body.json) |
