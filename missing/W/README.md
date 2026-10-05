@@ -3140,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Rider | 294258 | [294258-wind-rider.json](./294258-wind-rider.json) |
 | Wind Rider: Hero Outfit | 312001 | [312001-wind-rider-hero-outfit.json](./312001-wind-rider-hero-outfit.json) |
 | Wind Runner Adventure | 38960 | [38960-wind-runner-adventure.json](./38960-wind-runner-adventure.json) |
+| Wind Runners | 121395 | [121395-wind-runners.json](./121395-wind-runners.json) |
 | Wind Slayer | 92641 | [92641-wind-slayer.json](./92641-wind-slayer.json) |
 | Wind Story | 312540 | [312540-wind-story.json](./312540-wind-story.json) |
 | Wind Surf Willy | 10850 | [10850-wind-surf-willy.json](./10850-wind-surf-willy.json) |
@@ -3351,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Lord | 329133 | [329133-winter-lord.json](./329133-winter-lord.json) |
 | Winter Magic | 182929 | [182929-winter-magic.json](./182929-winter-magic.json) |
 | Winter Magic | 246548 | [246548-winter-magic.json](./246548-winter-magic.json) |
+| Winter Magic Factory | 121389 | [121389-winter-magic-factory.json](./121389-winter-magic-factory.json) |
 | Winter Mahjong | 415978 | [415978-winter-mahjong.json](./415978-winter-mahjong.json) |
 | Winter Mosaics | 415908 | [415908-winter-mosaics.json](./415908-winter-mosaics.json) |
 | Winter Night | 287700 | [287700-winter-night.json](./287700-winter-night.json) |
