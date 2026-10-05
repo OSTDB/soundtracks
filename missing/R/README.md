@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Multiplayer | 212734 | [212734-rage-multiplayer.json](./212734-rage-multiplayer.json) |
 | Rage Night | 224764 | [224764-rage-night.json](./224764-rage-night.json) |
 | Rage of Bahamut | 28007 | [28007-rage-of-bahamut.json](./28007-rage-of-bahamut.json) |
+| Rage of Destiny | 162836 | [162836-rage-of-destiny.json](./162836-rage-of-destiny.json) |
 | Rage of Mages | 13154 | [13154-rage-of-mages.json](./13154-rage-of-mages.json) |
 | Rage of the Battlemage | 32135 | [32135-rage-of-the-battlemage.json](./32135-rage-of-the-battlemage.json) |
 | Rage of the Dragons NEO | 296483 | [296483-rage-of-the-dragons-neo.json](./296483-rage-of-the-dragons-neo.json) |
@@ -1352,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Airplane: Flight Simulator | 261352 | [261352-rc-airplane-flight-simulator.json](./261352-rc-airplane-flight-simulator.json) |
 | RC Cars | 36386 | [36386-rc-cars.json](./36386-rc-cars.json) |
 | RC Death Race: Multiplayer | 392941 | [392941-rc-death-race-multiplayer.json](./392941-rc-death-race-multiplayer.json) |
+| RC Flight Simulator 2020 VR | 162748 | [162748-rc-flight-simulator-2020-vr.json](./162748-rc-flight-simulator-2020-vr.json) |
 | RC Fun City | 80975 | [80975-rc-fun-city.json](./80975-rc-fun-city.json) |
 | RC Heli 3 | 240862 | [240862-rc-heli-3.json](./240862-rc-heli-3.json) |
 | RC Overdrive | 393799 | [393799-rc-overdrive.json](./393799-rc-overdrive.json) |
@@ -1630,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealDoom | 291986 | [291986-realdoom.json](./291986-realdoom.json) |
 | RealFighter | 370887 | [370887-realfighter.json](./370887-realfighter.json) |
 | RealFlight 8 | 90068 | [90068-realflight-8.json](./90068-realflight-8.json) |
+| RealFlight 8 Horizon: Hobby Edition | 162745 | [162745-realflight-8-horizon-hobby-edition.json](./162745-realflight-8-horizon-hobby-edition.json) |
 | RealFlight Evolution: 2024 Year Content Pass | 297729 | [297729-realflight-evolution-2024-year-content-pass.json](./297729-realflight-evolution-2024-year-content-pass.json) |
 | RealFlight Evolution: Blade Eclipse 360 | 311080 | [311080-realflight-evolution-blade-eclipse-360.json](./311080-realflight-evolution-blade-eclipse-360.json) |
 | RealFlight Evolution: E-flite Beechcraft D18 1.5m | 356713 | [356713-realflight-evolution-e-flite-beechcraft-d18-1-5m.json](./356713-realflight-evolution-e-flite-beechcraft-d18-1-5m.json) |
@@ -4229,7 +4232,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Enigmas | 286780 | [286780-rise-of-enigmas.json](./286780-rise-of-enigmas.json) |
 | Rise of Flight United | 16573 | [16573-rise-of-flight-united.json](./16573-rise-of-flight-united.json) |
 | Rise of Flight United: Battle of Saint-Mihiel | 162751 | [162751-rise-of-flight-united-battle-of-saint-mihiel.json](./162751-rise-of-flight-united-battle-of-saint-mihiel.json) |
+| Rise of Flight United: Birth of Warbirds | 162750 | [162750-rise-of-flight-united-birth-of-warbirds.json](./162750-rise-of-flight-united-birth-of-warbirds.json) |
 | Rise of Flight United: ILYA Muromets | 162752 | [162752-rise-of-flight-united-ilya-muromets.json](./162752-rise-of-flight-united-ilya-muromets.json) |
+| Rise of Flight United: Intrepid Flyers | 162749 | [162749-rise-of-flight-united-intrepid-flyers.json](./162749-rise-of-flight-united-intrepid-flyers.json) |
 | Rise of Flight United: Legendary Bombers | 162753 | [162753-rise-of-flight-united-legendary-bombers.json](./162753-rise-of-flight-united-legendary-bombers.json) |
 | Rise of Flight: Furious Wings | 156173 | [156173-rise-of-flight-furious-wings.json](./156173-rise-of-flight-furious-wings.json) |
 | Rise of Flight: The First Great Air War | 21108 | [21108-rise-of-flight-the-first-great-air-war.json](./21108-rise-of-flight-the-first-great-air-war.json) |
