@@ -1259,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sausage Wars: Laser Massacre | 248062 | [248062-sausage-wars-laser-massacre.json](./248062-sausage-wars-laser-massacre.json) |
 | Sausage Wars: Trapdoor Hell | 248061 | [248061-sausage-wars-trapdoor-hell.json](./248061-sausage-wars-trapdoor-hell.json) |
 | Saut | 242578 | [242578-saut.json](./242578-saut.json) |
+| Savage | 129527 | [129527-savage.json](./129527-savage.json) |
 | Savage Age | 294839 | [294839-savage-age.json](./294839-savage-age.json) |
 | Savage Bliss | 23919 | [23919-savage-bliss.json](./23919-savage-bliss.json) |
 | Savage Gears | 319685 | [319685-savage-gears.json](./319685-savage-gears.json) |
@@ -6553,6 +6554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skid Island: Asphalt Mayhem | 291745 | [291745-skid-island-asphalt-mayhem.json](./291745-skid-island-asphalt-mayhem.json) |
 | Skidaddle Skidoodle | 311641 | [311641-skidaddle-skidoodle.json](./311641-skidaddle-skidoodle.json) |
 | Skiddy | 281528 | [281528-skiddy.json](./281528-skiddy.json) |
+| Skidlocked | 129519 | [129519-skidlocked.json](./129519-skidlocked.json) |
 | Skidmarks | 65506 | [65506-skidmarks.json](./65506-skidmarks.json) |
 | Skies Above | 272931 | [272931-skies-above.json](./272931-skies-above.json) |
 | Skies Above the Great War | 244876 | [244876-skies-above-the-great-war.json](./244876-skies-above-the-great-war.json) |
@@ -13250,6 +13252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Zero Company | 340113 | [340113-star-wars-zero-company.json](./340113-star-wars-zero-company.json) |
 | Star Wars: Battle of the Sith Lords | 75088 | [75088-star-wars-battle-of-the-sith-lords.json](./75088-star-wars-battle-of-the-sith-lords.json) |
 | Star Wars: Battle Pod | 75086 | [75086-star-wars-battle-pod.json](./75086-star-wars-battle-pod.json) |
+| Star Wars: Battlefront - Deluxe Edition | 129535 | [129535-star-wars-battlefront-deluxe-edition.json](./129535-star-wars-battlefront-deluxe-edition.json) |
 | Star Wars: Battlefront - Elite Squadron | 192925 | [192925-star-wars-battlefront-elite-squadron.json](./192925-star-wars-battlefront-elite-squadron.json) |
 | Star Wars: Bounty Hunter | 307040 | [307040-star-wars-bounty-hunter.json](./307040-star-wars-bounty-hunter.json) |
 | Star Wars: Clone Wars Adventures | 21739 | [21739-star-wars-clone-wars-adventures.json](./21739-star-wars-clone-wars-adventures.json) |
@@ -15653,12 +15656,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sublimity | 292528 | [292528-sublimity.json](./292528-sublimity.json) |
 | Subluminal | 189942 | [189942-subluminal.json](./189942-subluminal.json) |
 | Submachine 1: the Basement | 127877 | [127877-submachine-1-the-basement.json](./127877-submachine-1-the-basement.json) |
+| Submachine 10: The Exit | 129555 | [129555-submachine-10-the-exit.json](./129555-submachine-10-the-exit.json) |
 | Submachine 10: The Exit | 260768 | [260768-submachine-10-the-exit.json](./260768-submachine-10-the-exit.json) |
+| Submachine 2: The Lighthouse | 129547 | [129547-submachine-2-the-lighthouse.json](./129547-submachine-2-the-lighthouse.json) |
+| Submachine 3: The Loop | 129548 | [129548-submachine-3-the-loop.json](./129548-submachine-3-the-loop.json) |
+| Submachine 4: The Lab | 129549 | [129549-submachine-4-the-lab.json](./129549-submachine-4-the-lab.json) |
+| Submachine 5: The Root | 129550 | [129550-submachine-5-the-root.json](./129550-submachine-5-the-root.json) |
+| Submachine 6: The Edge | 129551 | [129551-submachine-6-the-edge.json](./129551-submachine-6-the-edge.json) |
 | Submachine 6: The Edge | 260728 | [260728-submachine-6-the-edge.json](./260728-submachine-6-the-edge.json) |
+| Submachine 7: The Core | 129552 | [129552-submachine-7-the-core.json](./129552-submachine-7-the-core.json) |
 | Submachine 7: The Core | 260741 | [260741-submachine-7-the-core.json](./260741-submachine-7-the-core.json) |
+| Submachine 8: The Plan | 129553 | [129553-submachine-8-the-plan.json](./129553-submachine-8-the-plan.json) |
 | Submachine 8: The Plan | 260752 | [260752-submachine-8-the-plan.json](./260752-submachine-8-the-plan.json) |
+| Submachine 9: The Temple | 129554 | [129554-submachine-9-the-temple.json](./129554-submachine-9-the-temple.json) |
 | Submachine 9: The Temple | 260760 | [260760-submachine-9-the-temple.json](./260760-submachine-9-the-temple.json) |
 | Submachine Extended Version | 259844 | [259844-submachine-extended-version.json](./259844-submachine-extended-version.json) |
+| Submachine Universe | 129556 | [129556-submachine-universe.json](./129556-submachine-universe.json) |
 | Submachine Zero: Ancient Adventure | 19295 | [19295-submachine-zero-ancient-adventure.json](./19295-submachine-zero-ancient-adventure.json) |
 | Submachine: 32 Chambers | 19324 | [19324-submachine-32-chambers.json](./19324-submachine-32-chambers.json) |
 | Submachine: 32 Chambers | 260730 | [260730-submachine-32-chambers.json](./260730-submachine-32-chambers.json) |
@@ -18548,6 +18561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive Game | 310095 | [310095-survive-game.json](./310095-survive-game.json) |
 | Survive in a little bit | 117698 | [117698-survive-in-a-little-bit.json](./117698-survive-in-a-little-bit.json) |
 | Survive in Angaria | 90125 | [90125-survive-in-angaria.json](./90125-survive-in-angaria.json) |
+| Survive In Russia | 129631 | [129631-survive-in-russia.json](./129631-survive-in-russia.json) |
 | Survive In Strange World | 288810 | [288810-survive-in-strange-world.json](./288810-survive-in-strange-world.json) |
 | Survive Into Night | 155504 | [155504-survive-into-night.json](./155504-survive-into-night.json) |
 | Survive Isolation | 150503 | [150503-survive-isolation.json](./150503-survive-isolation.json) |
@@ -19527,6 +19541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synther | 99008 | [99008-synther.json](./99008-synther.json) |
 | Syntherapy | 139473 | [139473-syntherapy.json](./139473-syntherapy.json) |
 | Synthesia | 50109 | [50109-synthesia.json](./50109-synthesia.json) |
+| Synthesis: Mind, Body and Soul | 129632 | [129632-synthesis-mind-body-and-soul.json](./129632-synthesis-mind-body-and-soul.json) |
 | Synthetic | 302048 | [302048-synthetic.json](./302048-synthetic.json) |
 | Synthetic Blood: Mind Shift | 129678 | [129678-synthetic-blood-mind-shift.json](./129678-synthetic-blood-mind-shift.json) |
 | Synthetic Days | 232918 | [232918-synthetic-days.json](./232918-synthetic-days.json) |
