@@ -8279,6 +8279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Destroyers | 346131 | [346131-astro-destroyers.json](./346131-astro-destroyers.json) |
 | Astro Duel | 33856 | [33856-astro-duel.json](./33856-astro-duel.json) |
 | Astro Duel Deluxe + Astro Duel 2 | 386215 | [386215-astro-duel-deluxe-astro-duel-2.json](./386215-astro-duel-deluxe-astro-duel-2.json) |
+| Astro Empires | 124660 | [124660-astro-empires.json](./124660-astro-empires.json) |
 | Astro Engineers | 249798 | [249798-astro-engineers.json](./249798-astro-engineers.json) |
 | Astro Fang: Super Machine | 48608 | [48608-astro-fang-super-machine.json](./48608-astro-fang-super-machine.json) |
 | Astro Fighter | 23049 | [23049-astro-fighter.json](./23049-astro-fighter.json) |
@@ -9433,6 +9434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axom: Conquest | 333357 | [333357-axom-conquest.json](./333357-axom-conquest.json) |
 | Axon Hero | 217278 | [217278-axon-hero.json](./217278-axon-hero.json) |
 | Axona | 283969 | [283969-axona.json](./283969-axona.json) |
+| Axria Retro World | 124568 | [124568-axria-retro-world.json](./124568-axria-retro-world.json) |
 | Axxx: Taught and Fucked | 375949 | [375949-axxx-taught-and-fucked.json](./375949-axxx-taught-and-fucked.json) |
 | AxySnake | 93184 | [93184-axysnake.json](./93184-axysnake.json) |
 | Axyz | 293648 | [293648-axyz.json](./293648-axyz.json) |
