@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daigasso! Band Brothers | 28559 | [28559-daigasso-band-brothers.json](./28559-daigasso-band-brothers.json) |
 | Daigasso! Band Brothers P | 64394 | [64394-daigasso-band-brothers-p.json](./64394-daigasso-band-brothers-p.json) |
 | Daigasso! Band Brothers Request Selection | 69240 | [69240-daigasso-band-brothers-request-selection.json](./69240-daigasso-band-brothers-request-selection.json) |
+| Daiichi Dash | 132671 | [132671-daiichi-dash.json](./132671-daiichi-dash.json) |
 | Daikaiju | 179539 | [179539-daikaiju.json](./179539-daikaiju.json) |
 | Daikaiju Daikessen: Versus | 173188 | [173188-daikaiju-daikessen-versus.json](./173188-daikaiju-daikessen-versus.json) |
 | Daikaijuu Deburas | 48313 | [48313-daikaijuu-deburas.json](./48313-daikaijuu-deburas.json) |
@@ -7652,6 +7653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age: Origins - Warden's Keep | 17466 | [17466-dragon-age-origins-wardens-keep.json](./17466-dragon-age-origins-wardens-keep.json) |
 | Dragon Age: Origins Collector's Edition | 21765 | [21765-dragon-age-origins-collectors-edition.json](./21765-dragon-age-origins-collectors-edition.json) |
 | Dragon and Mahjong | 402371 | [402371-dragon-and-mahjong.json](./402371-dragon-and-mahjong.json) |
+| Dragon and Weed: Origins OB - Dual Edges | 132686 | [132686-dragon-and-weed-origins-ob-dual-edges.json](./132686-dragon-and-weed-origins-ob-dual-edges.json) |
 | Dragon Arena | 392911 | [392911-dragon-arena.json](./392911-dragon-arena.json) |
 | Dragon Assault | 360148 | [360148-dragon-assault.json](./360148-dragon-assault.json) |
 | Dragon Atlas | 23635 | [23635-dragon-atlas.json](./23635-dragon-atlas.json) |
