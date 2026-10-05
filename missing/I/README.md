@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Monkey Theorem | 386843 | [386843-idle-monkey-theorem.json](./386843-idle-monkey-theorem.json) |
 | Idle Monkeylogy | 165637 | [165637-idle-monkeylogy.json](./165637-idle-monkeylogy.json) |
 | Idle Monster: Tower Defense | 138787 | [138787-idle-monster-tower-defense.json](./138787-idle-monster-tower-defense.json) |
+| Idle Monsters | 151815 | [151815-idle-monsters.json](./151815-idle-monsters.json) |
 | Idle Moon Rabbit: AFK RPG | 204487 | [204487-idle-moon-rabbit-afk-rpg.json](./204487-idle-moon-rabbit-afk-rpg.json) |
 | Idle Muscle Up | 389714 | [389714-idle-muscle-up.json](./389714-idle-muscle-up.json) |
 | Idle Mythical Beasts | 387327 | [387327-idle-mythical-beasts.json](./387327-idle-mythical-beasts.json) |
@@ -962,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IdleTowerDefense | 357843 | [357843-idletowerdefense.json](./357843-idletowerdefense.json) |
 | Idling Gears | 237081 | [237081-idling-gears.json](./237081-idling-gears.json) |
 | Idly God | 209637 | [209637-idly-god.json](./209637-idly-god.json) |
+| Ido no Akai | 151851 | [151851-ido-no-akai.json](./151851-ido-no-akai.json) |
 | Idol Connect -AsteriskLive- | 56164 | [56164-idol-connect-asterisklive.json](./56164-idol-connect-asterisklive.json) |
 | Idol Days | 151599 | [151599-idol-days.json](./151599-idol-days.json) |
 | Idol Days Sim Date | 198242 | [198242-idol-days-sim-date.json](./198242-idol-days-sim-date.json) |
