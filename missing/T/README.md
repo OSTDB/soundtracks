@@ -8485,6 +8485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Runemaster's Diary | 167588 | [167588-the-runemasters-diary.json](./167588-the-runemasters-diary.json) |
 | The Runesmith | 376438 | [376438-the-runesmith.json](./376438-the-runesmith.json) |
 | The Running Dead | 183333 | [183333-the-running-dead.json](./183333-the-running-dead.json) |
+| The Running Man | 168630 | [168630-the-running-man.json](./168630-the-running-man.json) |
 | The Rush: The Veronica Story | 145577 | [145577-the-rush-the-veronica-story.json](./145577-the-rush-the-veronica-story.json) |
 | The Russian Roulette Game: PR | 292522 | [292522-the-russian-roulette-game-pr.json](./292522-the-russian-roulette-game-pr.json) |
 | The Rusted | 379377 | [379377-the-rusted.json](./379377-the-rusted.json) |
@@ -13076,6 +13077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TOCA World Touring Cars | 8002 | [8002-toca-world-touring-cars.json](./8002-toca-world-touring-cars.json) |
 | Tochi II: Senshi | 207289 | [207289-tochi-ii-senshi.json](./207289-tochi-ii-senshi.json) |
 | Tochi T.U.N.R | 251100 | [251100-tochi-t-u-n-r.json](./251100-tochi-t-u-n-r.json) |
+| Tocovix | 168707 | [168707-tocovix.json](./168707-tocovix.json) |
 | Today I Die | 55978 | [55978-today-i-die.json](./55978-today-i-die.json) |
 | Today is my Birthday | 112266 | [112266-today-is-my-birthday.json](./112266-today-is-my-birthday.json) |
 | Today, I'll Be The Hero | 409044 | [409044-today-ill-be-the-hero.json](./409044-today-ill-be-the-hero.json) |
@@ -17491,6 +17493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Coves | 169315 | [169315-twin-coves.json](./169315-twin-coves.json) |
 | Twin Dragons | 159356 | [159356-twin-dragons.json](./159356-twin-dragons.json) |
 | Twin Eagle II | 70389 | [70389-twin-eagle-ii.json](./70389-twin-eagle-ii.json) |
+| Twin Jump | 168621 | [168621-twin-jump.json](./168621-twin-jump.json) |
 | Twin Kingdom Valley | 12971 | [12971-twin-kingdom-valley.json](./12971-twin-kingdom-valley.json) |
 | Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
 | Twin Mind: The Deathly Trick - Collector's Edition | 337223 | [337223-twin-mind-the-deathly-trick-collectors-edition.json](./337223-twin-mind-the-deathly-trick-collectors-edition.json) |
