@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 000000052573743 | 216229 | [216229-000000052573743.json](./216229-000000052573743.json) |
 | 005 | 38521 | [38521-005.json](./38521-005.json) |
 | 007 Legends: Skyfall | 110398 | [110398-007-legends-skyfall.json](./110398-007-legends-skyfall.json) |
+| 007: Quantum of Solace | 156079 | [156079-007-quantum-of-solace.json](./156079-007-quantum-of-solace.json) |
 | 007: Quantum of Solace - Collector's Edition | 47468 | [47468-007-quantum-of-solace-collectors-edition.json](./47468-007-quantum-of-solace-collectors-edition.json) |
 | 01's Blackhole | 200635 | [200635-01s-blackhole.json](./200635-01s-blackhole.json) |
 | 0101: Classic Bonus Levels 3 | 325453 | [325453-0101-classic-bonus-levels-3.json](./325453-0101-classic-bonus-levels-3.json) |
