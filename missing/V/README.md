@@ -1941,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voodoo Whisperer Curse of a Legend | 17202 | [17202-voodoo-whisperer-curse-of-a-legend.json](./17202-voodoo-whisperer-curse-of-a-legend.json) |
 | Voodoom | 312561 | [312561-voodoom.json](./312561-voodoom.json) |
 | Voody Hex | 391326 | [391326-voody-hex.json](./391326-voody-hex.json) |
+| Voracious | 118148 | [118148-voracious.json](./118148-voracious.json) |
 | Voracious | 351770 | [351770-voracious.json](./351770-voracious.json) |
 | Vorago | 312560 | [312560-vorago.json](./312560-vorago.json) |
 | Voraxis | 387350 | [387350-voraxis.json](./387350-voraxis.json) |
