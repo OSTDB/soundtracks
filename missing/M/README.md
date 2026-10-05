@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Lords of Brams | 215608 | [215608-mage-lords-of-brams.json](./215608-mage-lords-of-brams.json) |
 | Mage Mania | 120408 | [120408-mage-mania.json](./120408-mage-mania.json) |
 | Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
+| Mage Mountain | 149726 | [149726-mage-mountain.json](./149726-mage-mountain.json) |
 | Mage Noir | 199439 | [199439-mage-noir.json](./199439-mage-noir.json) |
 | Mage of Tempest Castle | 371352 | [371352-mage-of-tempest-castle.json](./371352-mage-of-tempest-castle.json) |
 | Mage of the Olekta Desert | 159760 | [159760-mage-of-the-olekta-desert.json](./159760-mage-of-the-olekta-desert.json) |
@@ -5250,6 +5251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Surge | 369218 | [369218-metal-surge.json](./369218-metal-surge.json) |
 | Metal Survivor | 224520 | [224520-metal-survivor.json](./224520-metal-survivor.json) |
 | Metal Swarm Infinity | 167680 | [167680-metal-swarm-infinity.json](./167680-metal-swarm-infinity.json) |
+| Metal Tales: Overkill | 149692 | [149692-metal-tales-overkill.json](./149692-metal-tales-overkill.json) |
 | Metal Torrent | 67703 | [67703-metal-torrent.json](./67703-metal-torrent.json) |
 | Metal Walker | 49872 | [49872-metal-walker.json](./49872-metal-walker.json) |
 | Metal War | 242008 | [242008-metal-war.json](./242008-metal-war.json) |
