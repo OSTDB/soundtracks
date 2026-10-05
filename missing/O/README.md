@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okthryssia and Saturnia's Bureaucratic Adventures | 323245 | [323245-okthryssia-and-saturnias-bureaucratic-adventures.json](./323245-okthryssia-and-saturnias-bureaucratic-adventures.json) |
 | Oktoberfest | 318471 | [318471-oktoberfest.json](./318471-oktoberfest.json) |
 | Oktoberfest Break: Head to Head | 214518 | [214518-oktoberfest-break-head-to-head.json](./214518-oktoberfest-break-head-to-head.json) |
+| Oktoberfest Wiesn-Gaudi | 125168 | [125168-oktoberfest-wiesn-gaudi.json](./125168-oktoberfest-wiesn-gaudi.json) |
 | Oktoberfest: The Official Game | 67682 | [67682-oktoberfest-the-official-game.json](./67682-oktoberfest-the-official-game.json) |
 | Oku | 345536 | [345536-oku.json](./345536-oku.json) |
 | Oku dake Drill Shougaku 6-nensei Kanji | 276467 | [276467-oku-dake-drill-shougaku-6-nensei-kanji.json](./276467-oku-dake-drill-shougaku-6-nensei-kanji.json) |
