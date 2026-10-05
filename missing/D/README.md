@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daardoa | 151190 | [151190-daardoa.json](./151190-daardoa.json) |
 | Dab on 'em Haterz | 81781 | [81781-dab-on-em-haterz.json](./81781-dab-on-em-haterz.json) |
 | Dabado | 109431 | [109431-dabado.json](./109431-dabado.json) |
+| Dabado Puzzles | 154093 | [154093-dabado-puzzles.json](./154093-dabado-puzzles.json) |
 | Dabda | 90615 | [90615-dabda.json](./90615-dabda.json) |
 | Dabman: When the Haters Dab Back | 104936 | [104936-dabman-when-the-haters-dab-back.json](./104936-dabman-when-the-haters-dab-back.json) |
 | DAC 20 | 273556 | [273556-dac-20.json](./273556-dac-20.json) |
@@ -1228,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Dash Delivery | 160264 | [160264-dash-dash-delivery.json](./160264-dash-dash-delivery.json) |
 | Dash Dash Run! | 54505 | [54505-dash-dash-run.json](./54505-dash-dash-run.json) |
 | Dash For Your Life | 257911 | [257911-dash-for-your-life.json](./257911-dash-for-your-life.json) |
+| Dash Lamb | 154064 | [154064-dash-lamb.json](./154064-dash-lamb.json) |
 | Dash or Die | 285441 | [285441-dash-or-die.json](./285441-dash-or-die.json) |
 | Dash Out | 217308 | [217308-dash-out.json](./217308-dash-out.json) |
 | Dash Quest | 99402 | [99402-dash-quest.json](./99402-dash-quest.json) |
@@ -2365,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Race Outer Space | 239676 | [239676-death-race-outer-space.json](./239676-death-race-outer-space.json) |
 | Death Rally | 18121 | [18121-death-rally.json](./18121-death-rally.json) |
 | Death Rally | 665 | [665-death-rally.json](./665-death-rally.json) |
+| Death Realm | 154053 | [154053-death-realm.json](./154053-death-realm.json) |
 | Death Relives | 220010 | [220010-death-relives.json](./220010-death-relives.json) |
 | Death Remains | 333380 | [333380-death-remains.json](./333380-death-remains.json) |
 | Death Report | 336708 | [336708-death-report.json](./336708-death-report.json) |
@@ -7982,6 +7985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Prophet | 3264 | [3264-dragons-prophet.json](./3264-dragons-prophet.json) |
 | Dragon's Revenge | 46219 | [46219-dragons-revenge.json](./46219-dragons-revenge.json) |
 | Dragon's Valkyrie: Wings of Fire | 337667 | [337667-dragons-valkyrie-wings-of-fire.json](./337667-dragons-valkyrie-wings-of-fire.json) |
+| Dragon's Vengeance | 154047 | [154047-dragons-vengeance.json](./154047-dragons-vengeance.json) |
 | Dragon's Wake | 34533 | [34533-dragons-wake.json](./34533-dragons-wake.json) |
 | Dragon's Wandering Tavern | 153985 | [153985-dragons-wandering-tavern.json](./153985-dragons-wandering-tavern.json) |
 | Dragona: Fireborne | 289010 | [289010-dragona-fireborne.json](./289010-dragona-fireborne.json) |
@@ -8389,6 +8393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream? | 202246 | [202246-dream.json](./202246-dream.json) |
 | Dream.exe: A Markiplier Fan Game | 159180 | [159180-dream-exe-a-markiplier-fan-game.json](./159180-dream-exe-a-markiplier-fan-game.json) |
 | Dream's Deep | 256983 | [256983-dreams-deep.json](./256983-dreams-deep.json) |
+| Dream's Reach: Village of the Gods | 154078 | [154078-dreams-reach-village-of-the-gods.json](./154078-dreams-reach-village-of-the-gods.json) |
 | DreaMarbleng | 166574 | [166574-dreamarbleng.json](./166574-dreamarbleng.json) |
 | DreamBig 3 | 368104 | [368104-dreambig-3.json](./368104-dreambig-3.json) |
 | Dreamblood | 280903 | [280903-dreamblood.json](./280903-dreamblood.json) |
@@ -8798,6 +8803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Crash Course | 190171 | [190171-drone-crash-course.json](./190171-drone-crash-course.json) |
 | Drone Delivery Express: City Simulator | 389052 | [389052-drone-delivery-express-city-simulator.json](./389052-drone-delivery-express-city-simulator.json) |
 | Drone Delivery Simulator | 286211 | [286211-drone-delivery-simulator.json](./286211-drone-delivery-simulator.json) |
+| Drone Gladiator | 154057 | [154057-drone-gladiator.json](./154057-drone-gladiator.json) |
 | Drone Investigations | 127866 | [127866-drone-investigations.json](./127866-drone-investigations.json) |
 | Drone Lander | 23859 | [23859-drone-lander.json](./23859-drone-lander.json) |
 | Drone Race Simulator Pilot Flight School Airplane Games Jet 2023 | 227515 | [227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json](./227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json) |
