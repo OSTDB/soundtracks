@@ -2330,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Manager Mobile | 234016 | [234016-tennis-manager-mobile.json](./234016-tennis-manager-mobile.json) |
 | Tennis Masters Series | 18334 | [18334-tennis-masters-series.json](./18334-tennis-masters-series.json) |
 | Tennis Menace | 47262 | [47262-tennis-menace.json](./47262-tennis-menace.json) |
+| Tennis no Ouji-sama Gyutto! Doki-doki Survival Umi to Yama no Love Passion | 136806 | [136806-tennis-no-ouji-sama-gyutto-doki-doki-survival-umi-to-yama-no-love-passion.json](./136806-tennis-no-ouji-sama-gyutto-doki-doki-survival-umi-to-yama-no-love-passion.json) |
 | Tennis no Ouji-sama Motto Gakuensai no Ouji-sama: More Sweet Edition | 205063 | [205063-tennis-no-ouji-sama-motto-gakuensai-no-ouji-sama-more-sweet-edition.json](./205063-tennis-no-ouji-sama-motto-gakuensai-no-ouji-sama-more-sweet-edition.json) |
 | Tennis no Ouji-sama: Gakuensai no Ouji-sama | 205062 | [205062-tennis-no-ouji-sama-gakuensai-no-ouji-sama.json](./205062-tennis-no-ouji-sama-gakuensai-no-ouji-sama.json) |
 | Tennis no Ouji-sama: Saikyou Team wo Kessei seyo! | 61127 | [61127-tennis-no-ouji-sama-saikyou-team-wo-kessei-seyo.json](./61127-tennis-no-ouji-sama-saikyou-team-wo-kessei-seyo.json) |
@@ -6792,6 +6793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: A Tear of Vermillion | 10943 | [10943-the-legend-of-heroes-a-tear-of-vermillion.json](./10943-the-legend-of-heroes-a-tear-of-vermillion.json) |
 | The Legend of Heroes: Akatsuki no Kiseki Mobile | 199963 | [199963-the-legend-of-heroes-akatsuki-no-kiseki-mobile.json](./199963-the-legend-of-heroes-akatsuki-no-kiseki-mobile.json) |
 | The Legend of Heroes: Ao no Kiseki Evolution | 202822 | [202822-the-legend-of-heroes-ao-no-kiseki-evolution.json](./202822-the-legend-of-heroes-ao-no-kiseki-evolution.json) |
+| The Legend of Heroes: Hajimari no Kiseki - Platinum Master Box | 136782 | [136782-the-legend-of-heroes-hajimari-no-kiseki-platinum-master-box.json](./136782-the-legend-of-heroes-hajimari-no-kiseki-platinum-master-box.json) |
 | The Legend of Heroes: Kuro no Kiseki II: Crimson Sin - Limited Edition | 205272 | [205272-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-limited-edition.json](./205272-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-limited-edition.json) |
 | The Legend of Heroes: Kuro no Kiseki II: Crimson Sin - Scenario Book Limited Edition | 205256 | [205256-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-scenario-book-limited-edition.json](./205256-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-scenario-book-limited-edition.json) |
 | The Legend of Heroes: Sora no Kiseki FC Evolution | 136287 | [136287-the-legend-of-heroes-sora-no-kiseki-fc-evolution.json](./136287-the-legend-of-heroes-sora-no-kiseki-fc-evolution.json) |
@@ -8085,6 +8087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pepper Prince: Episode 4 - Lover's Peak | 302137 | [302137-the-pepper-prince-episode-4-lovers-peak.json](./302137-the-pepper-prince-episode-4-lovers-peak.json) |
 | The Pepper Prince: Prologue | 302135 | [302135-the-pepper-prince-prologue.json](./302135-the-pepper-prince-prologue.json) |
 | The Pepper Prince: Seasoning Pass (Episode 2-5) | 302467 | [302467-the-pepper-prince-seasoning-pass-episode-2-5.json](./302467-the-pepper-prince-seasoning-pass-episode-2-5.json) |
+| The Peresmeshnik | 136800 | [136800-the-peresmeshnik.json](./136800-the-peresmeshnik.json) |
 | The Perfect Garden | 211923 | [211923-the-perfect-garden.json](./211923-the-perfect-garden.json) |
 | The Perfect Shape | 158713 | [158713-the-perfect-shape.json](./158713-the-perfect-shape.json) |
 | The Perfect Sniper | 81012 | [81012-the-perfect-sniper.json](./81012-the-perfect-sniper.json) |
@@ -9162,6 +9165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smiling Man | 194452 | [194452-the-smiling-man.json](./194452-the-smiling-man.json) |
 | The Smiling Man: Remake | 275143 | [275143-the-smiling-man-remake.json](./275143-the-smiling-man-remake.json) |
 | The Smiling, Proud Wanderer 2 | 62442 | [62442-the-smiling-proud-wanderer-2.json](./62442-the-smiling-proud-wanderer-2.json) |
+| The Smoke Room | 136774 | [136774-the-smoke-room.json](./136774-the-smoke-room.json) |
 | The Smugglers | 191187 | [191187-the-smugglers.json](./191187-the-smugglers.json) |
 | The Smurfs | 106272 | [106272-the-smurfs.json](./106272-the-smurfs.json) |
 | The Smurfs | 23482 | [23482-the-smurfs.json](./23482-the-smurfs.json) |
@@ -13690,6 +13694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Year 2 HK SDU Special Edition | 167157 | [167157-tom-clancys-rainbow-six-siege-year-2-hk-sdu-special-edition.json](./167157-tom-clancys-rainbow-six-siege-year-2-hk-sdu-special-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Year 3 Advanced Edition | 167162 | [167162-tom-clancys-rainbow-six-siege-year-3-advanced-edition.json](./167162-tom-clancys-rainbow-six-siege-year-3-advanced-edition.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear - Black Thorn | 1846 | [1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json](./1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json) |
+| Tom Clancy's Rainbow Six: Siege - Year 5 Deluxe Edition | 136815 | [136815-tom-clancys-rainbow-six-siege-year-5-deluxe-edition.json](./136815-tom-clancys-rainbow-six-siege-year-5-deluxe-edition.json) |
 | Tom Clancy's Rainbow Six: Vegas | 314292 | [314292-tom-clancys-rainbow-six-vegas.json](./314292-tom-clancys-rainbow-six-vegas.json) |
 | Tom Clancy's Rainbow Six: Vegas 2 / Tom Clancy's Ghost Recon: Advanced Warfighter 2 | 130809 | [130809-tom-clancys-rainbow-six-vegas-2-tom-clancys-ghost-recon-advanced-warfighter-2.json](./130809-tom-clancys-rainbow-six-vegas-2-tom-clancys-ghost-recon-advanced-warfighter-2.json) |
 | Tom Clancy's Rainbow Six: Vegas Collection | 295251 | [295251-tom-clancys-rainbow-six-vegas-collection.json](./295251-tom-clancys-rainbow-six-vegas-collection.json) |
