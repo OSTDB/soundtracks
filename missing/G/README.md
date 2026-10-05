@@ -2468,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GlaiveBound | 290719 | [290719-glaivebound.json](./290719-glaivebound.json) |
 | Glam the Rocker | 413712 | [413712-glam-the-rocker.json](./413712-glam-the-rocker.json) |
 | Glass | 125924 | [125924-glass.json](./125924-glass.json) |
+| Glass | 171995 | [171995-glass.json](./171995-glass.json) |
 | Glass Beads | 342752 | [342752-glass-beads.json](./342752-glass-beads.json) |
 | Glass Cannons | 181772 | [181772-glass-cannons.json](./181772-glass-cannons.json) |
 | Glass Fort: Smash It | 88313 | [88313-glass-fort-smash-it.json](./88313-glass-fort-smash-it.json) |
@@ -4458,6 +4459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gray Matter | 3117 | [3117-gray-matter.json](./3117-gray-matter.json) |
 | Gray platformer | 142420 | [142420-gray-platformer.json](./142420-gray-platformer.json) |
 | Gray Zone Warfare | 275070 | [275070-gray-zone-warfare.json](./275070-gray-zone-warfare.json) |
+| Grayland | 171899 | [171899-grayland.json](./171899-grayland.json) |
 | Grayscale | 217502 | [217502-grayscale.json](./217502-grayscale.json) |
 | Grayscale | 225742 | [225742-grayscale.json](./225742-grayscale.json) |
 | GrayScale | 120921 | [120921-grayscale.json](./120921-grayscale.json) |
