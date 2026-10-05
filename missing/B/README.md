@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bamboo Panda | 355121 | [355121-bamboo-panda.json](./355121-bamboo-panda.json) |
 | Bamboozle | 302650 | [302650-bamboozle.json](./302650-bamboozle.json) |
 | Bamerang | 132199 | [132199-bamerang.json](./132199-bamerang.json) |
+| Bamse i Egypten | 154045 | [154045-bamse-i-egypten.json](./154045-bamse-i-egypten.json) |
 | Ban: The Prologue of Gucha Gucha | 302961 | [302961-ban-the-prologue-of-gucha-gucha.json](./302961-ban-the-prologue-of-gucha-gucha.json) |
 | Bana Simulator | 252984 | [252984-bana-simulator.json](./252984-bana-simulator.json) |
 | Banan Abanan | 417658 | [417658-banan-abanan.json](./417658-banan-abanan.json) |
