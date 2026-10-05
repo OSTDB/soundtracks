@@ -6715,6 +6715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bond | 302388 | [302388-bond.json](./302388-bond.json) |
 | Bond Blues | 293107 | [293107-bond-blues.json](./293107-bond-blues.json) |
 | Bondage Black Jack | 151621 | [151621-bondage-black-jack.json](./151621-bondage-black-jack.json) |
+| Bondage Girl | 156715 | [156715-bondage-girl.json](./156715-bondage-girl.json) |
 | Bonded in Darkness | 320893 | [320893-bonded-in-darkness.json](./320893-bonded-in-darkness.json) |
 | Bonded Realities | 66109 | [66109-bonded-realities.json](./66109-bonded-realities.json) |
 | Bondee's Barnyard: Safety Violation | 231434 | [231434-bondees-barnyard-safety-violation.json](./231434-bondees-barnyard-safety-violation.json) |
@@ -7287,6 +7288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Cars | 186178 | [186178-bouncy-cars.json](./186178-bouncy-cars.json) |
 | Bouncy Cat | 158169 | [158169-bouncy-cat.json](./158169-bouncy-cat.json) |
 | Bouncy Chicken | 306529 | [306529-bouncy-chicken.json](./306529-bouncy-chicken.json) |
+| Bouncy Cloud | 156724 | [156724-bouncy-cloud.json](./156724-bouncy-cloud.json) |
 | Bouncy Egg | 96287 | [96287-bouncy-egg.json](./96287-bouncy-egg.json) |
 | Bouncy Goal | 242219 | [242219-bouncy-goal.json](./242219-bouncy-goal.json) |
 | Bouncy Goat Climb | 186688 | [186688-bouncy-goat-climb.json](./186688-bouncy-goat-climb.json) |
@@ -7518,6 +7520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxman in the World of the Wuuza Wizards | 318481 | [318481-boxman-in-the-world-of-the-wuuza-wizards.json](./318481-boxman-in-the-world-of-the-wuuza-wizards.json) |
 | Boxman's Struggle | 129366 | [129366-boxmans-struggle.json](./129366-boxmans-struggle.json) |
 | Boxocost | 144962 | [144962-boxocost.json](./144962-boxocost.json) |
+| Boxoku! | 156711 | [156711-boxoku.json](./156711-boxoku.json) |
 | Boxpast Lov3you | 392301 | [392301-boxpast-lov3you.json](./392301-boxpast-lov3you.json) |
 | Boxplosion | 29054 | [29054-boxplosion.json](./29054-boxplosion.json) |
 | Boxroom | 396520 | [396520-boxroom.json](./396520-boxroom.json) |
