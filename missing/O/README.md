@@ -1675,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OnlySociety: Dawn | 223381 | [223381-onlysociety-dawn.json](./223381-onlysociety-dawn.json) |
 | Onmitsu Kiritan | 204729 | [204729-onmitsu-kiritan.json](./204729-onmitsu-kiritan.json) |
 | Onmyoji Chess | 194010 | [194010-onmyoji-chess.json](./194010-onmyoji-chess.json) |
+| Onmyoji in the Otherworld: Sayaka's Story | 172005 | [172005-onmyoji-in-the-otherworld-sayakas-story.json](./172005-onmyoji-in-the-otherworld-sayakas-story.json) |
 | Onmyoudou Origins | 277944 | [277944-onmyoudou-origins.json](./277944-onmyoudou-origins.json) |
 | Onmyouji Emaki | 335701 | [335701-onmyouji-emaki.json](./335701-onmyouji-emaki.json) |
 | Onna Sansirou: Typhoon Gal | 40378 | [40378-onna-sansirou-typhoon-gal.json](./40378-onna-sansirou-typhoon-gal.json) |
