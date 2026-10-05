@@ -3950,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Sir Biscuit in Green Burguer Mystery | 310580 | [310580-detective-sir-biscuit-in-green-burguer-mystery.json](./310580-detective-sir-biscuit-in-green-burguer-mystery.json) |
 | Detective Solitaire: Butler Story 2 | 242580 | [242580-detective-solitaire-butler-story-2.json](./242580-detective-solitaire-butler-story-2.json) |
 | Detective Solitaire: Butler Story 3 | 258947 | [258947-detective-solitaire-butler-story-3.json](./258947-detective-solitaire-butler-story-3.json) |
+| Detective Solitaire: The Ghost Agency | 168693 | [168693-detective-solitaire-the-ghost-agency.json](./168693-detective-solitaire-the-ghost-agency.json) |
 | Detective Solitaire: The Ghost Agency 2 | 222280 | [222280-detective-solitaire-the-ghost-agency-2.json](./222280-detective-solitaire-the-ghost-agency-2.json) |
 | Detective Story | 148553 | [148553-detective-story.json](./148553-detective-story.json) |
 | Detective Time | 180035 | [180035-detective-time.json](./180035-detective-time.json) |
@@ -8024,6 +8025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakheir | 279389 | [279389-drakheir.json](./279389-drakheir.json) |
 | Drakkar | 13611 | [13611-drakkar.json](./13611-drakkar.json) |
 | Drakkar Crew | 107886 | [107886-drakkar-crew.json](./107886-drakkar-crew.json) |
+| Draknek and Friends Puzzle Bundle | 168691 | [168691-draknek-and-friends-puzzle-bundle.json](./168691-draknek-and-friends-puzzle-bundle.json) |
 | DraKoI | 60505 | [60505-drakoi.json](./60505-drakoi.json) |
 | Drakomon | 283248 | [283248-drakomon.json](./283248-drakomon.json) |
 | Drakula | 192758 | [192758-drakula.json](./192758-drakula.json) |
