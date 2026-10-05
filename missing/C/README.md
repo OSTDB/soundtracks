@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Care of Gongon | 350048 | [350048-care-of-gongon.json](./350048-care-of-gongon.json) |
 | Carebotz | 159730 | [159730-carebotz.json](./159730-carebotz.json) |
 | Career Fantasy | 318515 | [318515-career-fantasy.json](./318515-career-fantasy.json) |
+| Career of the President | 164860 | [164860-career-of-the-president.json](./164860-career-of-the-president.json) |
 | Carena | 135830 | [135830-carena.json](./135830-carena.json) |
 | Caretaker Retribution | 34236 | [34236-caretaker-retribution.json](./34236-caretaker-retribution.json) |
 | Cargame | 143727 | [143727-cargame.json](./143727-cargame.json) |
@@ -4543,6 +4544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinematrix | 319218 | [319218-cinematrix.json](./319218-cinematrix.json) |
 | Cinemax Complete | 52735 | [52735-cinemax-complete.json](./52735-cinemax-complete.json) |
 | Cineminha | 290096 | [290096-cineminha.json](./290096-cineminha.json) |
+| Cinemoji | 164959 | [164959-cinemoji.json](./164959-cinemoji.json) |
 | CineNerdle | 231638 | [231638-cinenerdle.json](./231638-cinenerdle.json) |
 | CineNerdle | 231639 | [231639-cinenerdle.json](./231639-cinenerdle.json) |
 | Cinnabar Nights | 314682 | [314682-cinnabar-nights.json](./314682-cinnabar-nights.json) |
@@ -4875,6 +4877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Turbo Race | 345630 | [345630-city-turbo-race.json](./345630-city-turbo-race.json) |
 | City Turn | 311472 | [311472-city-turn.json](./311472-city-turn.json) |
 | City Tycoon | 138127 | [138127-city-tycoon.json](./138127-city-tycoon.json) |
+| City Wars: Tokyo Reign | 164943 | [164943-city-wars-tokyo-reign.json](./164943-city-wars-tokyo-reign.json) |
 | City Worker Simulator | 405735 | [405735-city-worker-simulator.json](./405735-city-worker-simulator.json) |
 | City Worlds | 216700 | [216700-city-worlds.json](./216700-city-worlds.json) |
 | City Z | 34682 | [34682-city-z.json](./34682-city-z.json) |
@@ -6907,6 +6910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condor | 305435 | [305435-condor.json](./305435-condor.json) |
 | Condor | 47268 | [47268-condor.json](./47268-condor.json) |
 | Condor 3 | 327922 | [327922-condor-3.json](./327922-condor-3.json) |
+| Condors vs. Ocelots | 164932 | [164932-condors-vs-ocelots.json](./164932-condors-vs-ocelots.json) |
 | Conduct Together!: Track Pack | 307246 | [307246-conduct-together-track-pack.json](./307246-conduct-together-track-pack.json) |
 | Conduct Together!: Track Pack 2 | 307247 | [307247-conduct-together-track-pack-2.json](./307247-conduct-together-track-pack-2.json) |
 | Conductor | 179599 | [179599-conductor.json](./179599-conductor.json) |
@@ -6939,6 +6943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflicks - Revolutionary Space Battles | 17195 | [17195-conflicks-revolutionary-space-battles.json](./17195-conflicks-revolutionary-space-battles.json) |
 | Conflict / Resolution | 201123 | [201123-conflict-resolution.json](./201123-conflict-resolution.json) |
 | Conflict 3048 | 193406 | [193406-conflict-3048.json](./193406-conflict-3048.json) |
+| Conflict Area | 164953 | [164953-conflict-area.json](./164953-conflict-area.json) |
 | Conflict of the Universe | 157049 | [157049-conflict-of-the-universe.json](./157049-conflict-of-the-universe.json) |
 | Conflict Resolution | 342747 | [342747-conflict-resolution.json](./342747-conflict-resolution.json) |
 | Conflict: Desert Storm | 3863 | [3863-conflict-desert-storm.json](./3863-conflict-desert-storm.json) |
@@ -8293,6 +8298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackdown 2 | 2897 | [2897-crackdown-2.json](./2897-crackdown-2.json) |
 | Cracked | 261769 | [261769-cracked.json](./261769-cracked.json) |
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
+| Cracked Up | 164961 | [164961-cracked-up.json](./164961-cracked-up.json) |
 | Cracking Sands | 64481 | [64481-cracking-sands.json](./64481-cracking-sands.json) |
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
 | Cracking the Cryptic: GAS Volume #1 | 280875 | [280875-cracking-the-cryptic-gas-volume-1.json](./280875-cracking-the-cryptic-gas-volume-1.json) |
@@ -8677,6 +8683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Goose Simulator | 288304 | [288304-crazy-goose-simulator.json](./288304-crazy-goose-simulator.json) |
 | Crazy Guy | 238061 | [238061-crazy-guy.json](./238061-crazy-guy.json) |
 | Crazy Halloween | 310554 | [310554-crazy-halloween.json](./310554-crazy-halloween.json) |
+| Crazy Hands | 164865 | [164865-crazy-hands.json](./164865-crazy-hands.json) |
 | Crazy Hill Racing | 235200 | [235200-crazy-hill-racing.json](./235200-crazy-hill-racing.json) |
 | Crazy Hit 2 | 275261 | [275261-crazy-hit-2.json](./275261-crazy-hit-2.json) |
 | Crazy Hospital | 220209 | [220209-crazy-hospital.json](./220209-crazy-hospital.json) |
