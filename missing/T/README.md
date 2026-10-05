@@ -2455,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Hacker | 30854 | [30854-terminal-hacker.json](./30854-terminal-hacker.json) |
 | Terminal Hacker - Into the Deep | 35935 | [35935-terminal-hacker-into-the-deep.json](./35935-terminal-hacker-into-the-deep.json) |
 | Terminal Interface for Models RCM301-303 | 364625 | [364625-terminal-interface-for-models-rcm301-303.json](./364625-terminal-interface-for-models-rcm301-303.json) |
+| Terminal Land | 138515 | [138515-terminal-land.json](./138515-terminal-land.json) |
 | Terminal Machine | 54427 | [54427-terminal-machine.json](./54427-terminal-machine.json) |
 | Terminal Reign | 416003 | [416003-terminal-reign.json](./416003-terminal-reign.json) |
 | Terminal Shift | 355074 | [355074-terminal-shift.json](./355074-terminal-shift.json) |
@@ -6403,6 +6404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King's Wish | 270852 | [270852-the-kings-wish.json](./270852-the-kings-wish.json) |
 | The Kingdom of Christmas: Santa's Elves | 328474 | [328474-the-kingdom-of-christmas-santas-elves.json](./328474-the-kingdom-of-christmas-santas-elves.json) |
 | The Kingdom of Galanor | 169837 | [169837-the-kingdom-of-galanor.json](./169837-the-kingdom-of-galanor.json) |
+| The Kingdom of Gardenia | 138517 | [138517-the-kingdom-of-gardenia.json](./138517-the-kingdom-of-gardenia.json) |
 | The Kingdom of God | 371479 | [371479-the-kingdom-of-god.json](./371479-the-kingdom-of-god.json) |
 | The Kingdoms of Ædloran | 389674 | [389674-the-kingdoms-of-dloran.json](./389674-the-kingdoms-of-dloran.json) |
 | The Kings Crusade: Arabian Nights | 10975 | [10975-the-kings-crusade-arabian-nights.json](./10975-the-kings-crusade-arabian-nights.json) |
@@ -8046,6 +8048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Patashnik Parable | 176434 | [176434-the-patashnik-parable.json](./176434-the-patashnik-parable.json) |
 | The Path | 10199 | [10199-the-path.json](./10199-the-path.json) |
 | The Path of Blades | 367484 | [367484-the-path-of-blades.json](./367484-the-path-of-blades.json) |
+| The Path of Calydra | 138527 | [138527-the-path-of-calydra.json](./138527-the-path-of-calydra.json) |
 | The Path of Hercules | 356230 | [356230-the-path-of-hercules.json](./356230-the-path-of-hercules.json) |
 | The Path to Die | 115638 | [115638-the-path-to-die.json](./115638-the-path-to-die.json) |
 | The Pathless | 113118 | [113118-the-pathless.json](./113118-the-pathless.json) |
@@ -9369,6 +9372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Strange Story of Brian Fisher: Chapter 2 | 168841 | [168841-the-strange-story-of-brian-fisher-chapter-2.json](./168841-the-strange-story-of-brian-fisher-chapter-2.json) |
 | The Stranger | 57143 | [57143-the-stranger.json](./57143-the-stranger.json) |
 | The Stranger From the Bus Stop | 332396 | [332396-the-stranger-from-the-bus-stop.json](./332396-the-stranger-from-the-bus-stop.json) |
+| The Stranger VR | 138537 | [138537-the-stranger-vr.json](./138537-the-stranger-vr.json) |
 | The Strangers | 206646 | [206646-the-strangers.json](./206646-the-strangers.json) |
 | The Strangers | 71053 | [71053-the-strangers.json](./71053-the-strangers.json) |
 | The Strawman Augment | 314464 | [314464-the-strawman-augment.json](./314464-the-strawman-augment.json) |
@@ -9514,6 +9518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Talosian Incident | 313839 | [313839-the-talosian-incident.json](./313839-the-talosian-incident.json) |
 | The Tangled Tapestry | 364681 | [364681-the-tangled-tapestry.json](./364681-the-tangled-tapestry.json) |
 | The Tarkiff Transfer Incident | 231370 | [231370-the-tarkiff-transfer-incident.json](./231370-the-tarkiff-transfer-incident.json) |
+| The Tarnishing of Juxtia | 138535 | [138535-the-tarnishing-of-juxtia.json](./138535-the-tarnishing-of-juxtia.json) |
 | The Tarot Experience VR | 257684 | [257684-the-tarot-experience-vr.json](./257684-the-tarot-experience-vr.json) |
 | The Tartarus Loop | 410449 | [410449-the-tartarus-loop.json](./410449-the-tartarus-loop.json) |
 | The Tartine's Show | 263657 | [263657-the-tartines-show.json](./263657-the-tartines-show.json) |
