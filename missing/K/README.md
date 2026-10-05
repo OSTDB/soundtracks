@@ -3182,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kumi-Daiko Beatoff 64 | 145458 | [145458-kumi-daiko-beatoff-64.json](./145458-kumi-daiko-beatoff-64.json) |
 | Kumitate Battle: Kuttu Ketto | 70995 | [70995-kumitate-battle-kuttu-ketto.json](./70995-kumitate-battle-kuttu-ketto.json) |
 | Kumo | 120930 | [120930-kumo.json](./120930-kumo.json) |
+| Kumo: The Little Robot | 126986 | [126986-kumo-the-little-robot.json](./126986-kumo-the-little-robot.json) |
 | Kumoon: Ballistic Physics Puzzle | 19029 | [19029-kumoon-ballistic-physics-puzzle.json](./19029-kumoon-ballistic-physics-puzzle.json) |
 | Kun’tewiktuk: A Mi’kmaw Adventure | 303620 | [303620-kun-tewiktuk-a-mi-kmaw-adventure.json](./303620-kun-tewiktuk-a-mi-kmaw-adventure.json) |
 | Kunai Master | 224024 | [224024-kunai-master.json](./224024-kunai-master.json) |
