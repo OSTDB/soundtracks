@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1989 QianShanMen | 259288 | [259288-1989-qianshanmen.json](./259288-1989-qianshanmen.json) |
 | 198X | 100562 | [100562-198x.json](./100562-198x.json) |
 | 1990 | 219506 | [219506-1990.json](./219506-1990.json) |
+| 1993 Shenandoah | 137426 | [137426-1993-shenandoah.json](./137426-1993-shenandoah.json) |
 | 1993 Space Machine | 19390 | [19390-1993-space-machine.json](./19390-1993-space-machine.json) |
 | 1995Card+ | 295238 | [295238-1995card.json](./295238-1995card.json) |
 | 1997 Reloaded | 405044 | [405044-1997-reloaded.json](./405044-1997-reloaded.json) |
@@ -1175,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Twist & Match | 65551 | [65551-3d-twist-and-match.json](./65551-3d-twist-and-match.json) |
 | 3D Ultra Minigolf Adventures | 9899 | [9899-3d-ultra-minigolf-adventures.json](./9899-3d-ultra-minigolf-adventures.json) |
 | 3D Ultra Minigolf Adventures: Carnival | 73260 | [73260-3d-ultra-minigolf-adventures-carnival.json](./73260-3d-ultra-minigolf-adventures-carnival.json) |
+| 3D Ultra Minigolf Adventures: Space | 137378 | [137378-3d-ultra-minigolf-adventures-space.json](./137378-3d-ultra-minigolf-adventures-space.json) |
 | 3D Water Bike | 255033 | [255033-3d-water-bike.json](./255033-3d-water-bike.json) |
 | 3D Water Driver | 47561 | [47561-3d-water-driver.json](./47561-3d-water-driver.json) |
 | 3D Watermelon Game | 277950 | [277950-3d-watermelon-game.json](./277950-3d-watermelon-game.json) |
@@ -1361,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50 flags and seals of the United States HD | 109013 | [109013-50-flags-and-seals-of-the-united-states-hd.json](./109013-50-flags-and-seals-of-the-united-states-hd.json) |
 | 50 Floors: The Paranormal Investigators Prologue | 306699 | [306699-50-floors-the-paranormal-investigators-prologue.json](./306699-50-floors-the-paranormal-investigators-prologue.json) |
 | 50 Minutes 'Til Impact | 369730 | [369730-50-minutes-til-impact.json](./369730-50-minutes-til-impact.json) |
+| 50 More Classic Games | 137413 | [137413-50-more-classic-games.json](./137413-50-more-classic-games.json) |
 | 50 Pinch Barrage!! | 21670 | [21670-50-pinch-barrage.json](./21670-50-pinch-barrage.json) |
 | 50 Shades of Graytall | 141084 | [141084-50-shades-of-graytall.json](./141084-50-shades-of-graytall.json) |
 | 50 Tiny Room Escape | 297545 | [297545-50-tiny-room-escape.json](./297545-50-tiny-room-escape.json) |
