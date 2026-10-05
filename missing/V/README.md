@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vae Victus 2 | 256862 | [256862-vae-victus-2.json](./256862-vae-victus-2.json) |
 | Vaewolf | 415294 | [415294-vaewolf.json](./415294-vaewolf.json) |
 | Vagabond Inn | 284346 | [284346-vagabond-inn.json](./284346-vagabond-inn.json) |
+| Vagabond Starship | 150761 | [150761-vagabond-starship.json](./150761-vagabond-starship.json) |
 | Vagabond's Quest | 312379 | [312379-vagabonds-quest.json](./312379-vagabonds-quest.json) |
 | Vagabond's Quest 2 | 312380 | [312380-vagabonds-quest-2.json](./312380-vagabonds-quest-2.json) |
 | Vagabones | 363949 | [363949-vagabones.json](./363949-vagabones.json) |
@@ -1449,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Reality Vol. 2 | 100128 | [100128-virtual-reality-vol-2.json](./100128-virtual-reality-vol-2.json) |
 | Virtual Rehab Art 4 Health | 172181 | [172181-virtual-rehab-art-4-health.json](./172181-virtual-rehab-art-4-health.json) |
 | Virtual Resort: Spring Break | 205978 | [205978-virtual-resort-spring-break.json](./205978-virtual-resort-spring-break.json) |
+| Virtual Ricochet | 150756 | [150756-virtual-ricochet.json](./150756-virtual-ricochet.json) |
 | Virtual Rides 3: Astronaut | 273583 | [273583-virtual-rides-3-astronaut.json](./273583-virtual-rides-3-astronaut.json) |
 | Virtual Rides 3: Bounce Machine | 273580 | [273580-virtual-rides-3-bounce-machine.json](./273580-virtual-rides-3-bounce-machine.json) |
 | Virtual Rides 3: Flipping Disc | 273582 | [273582-virtual-rides-3-flipping-disc.json](./273582-virtual-rides-3-flipping-disc.json) |
