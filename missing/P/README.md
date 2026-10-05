@@ -1630,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Etinway | 161405 | [161405-path-to-etinway.json](./161405-path-to-etinway.json) |
 | Path to Nowhere: Ditty Nightsong | 329175 | [329175-path-to-nowhere-ditty-nightsong.json](./329175-path-to-nowhere-ditty-nightsong.json) |
 | Path to Octavius | 243815 | [243815-path-to-octavius.json](./243815-path-to-octavius.json) |
+| Path to Prosperity | 150738 | [150738-path-to-prosperity.json](./150738-path-to-prosperity.json) |
 | Path to Serenity | 350497 | [350497-path-to-serenity.json](./350497-path-to-serenity.json) |
 | Path to the Devil | 257359 | [257359-path-to-the-devil.json](./257359-path-to-the-devil.json) |
 | Path to the Unknown | 253325 | [253325-path-to-the-unknown.json](./253325-path-to-the-unknown.json) |
@@ -5295,6 +5296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleasurepunk: Drug Dealer | 202193 | [202193-pleasurepunk-drug-dealer.json](./202193-pleasurepunk-drug-dealer.json) |
 | Plebby Quest: The Promised Land | 174132 | [174132-plebby-quest-the-promised-land.json](./174132-plebby-quest-the-promised-land.json) |
 | Plebs | 261766 | [261766-plebs.json](./261766-plebs.json) |
+| Pleiades: A Subversion Saga Game | 150754 | [150754-pleiades-a-subversion-saga-game.json](./150754-pleiades-a-subversion-saga-game.json) |
 | Plekos | 255032 | [255032-plekos.json](./255032-plekos.json) |
 | Plentiful | 341567 | [341567-plentiful.json](./341567-plentiful.json) |
 | Plenty of Fish in the Sea | 337492 | [337492-plenty-of-fish-in-the-sea.json](./337492-plenty-of-fish-in-the-sea.json) |
@@ -6893,6 +6895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Possess Quest | 266186 | [266186-possess-quest.json](./266186-possess-quest.json) |
 | Possessed Bloody Asylum | 157570 | [157570-possessed-bloody-asylum.json](./157570-possessed-bloody-asylum.json) |
 | Possession | 90649 | [90649-possession.json](./90649-possession.json) |
+| Possession 1881 | 150750 | [150750-possession-1881.json](./150750-possession-1881.json) |
 | Possession Game | 354523 | [354523-possession-game.json](./354523-possession-game.json) |
 | Possessioner | 213296 | [213296-possessioner.json](./213296-possessioner.json) |
 | Posshexor | 323810 | [323810-posshexor.json](./323810-posshexor.json) |
@@ -8605,6 +8608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project0 | 297190 | [297190-project0.json](./297190-project0.json) |
 | Projectile Fighter | 109490 | [109490-projectile-fighter.json](./109490-projectile-fighter.json) |
 | Projection Remains | 182514 | [182514-projection-remains.json](./182514-projection-remains.json) |
+| Projections | 150775 | [150775-projections.json](./150775-projections.json) |
 | ProjectL | 63241 | [63241-projectl.json](./63241-projectl.json) |
 | ProjectNimbus | 100205 | [100205-projectnimbus.json](./100205-projectnimbus.json) |
 | Projector | 202937 | [202937-projector.json](./202937-projector.json) |
