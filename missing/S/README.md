@@ -16674,6 +16674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Mexico Puzzles | 155642 | [155642-super-jigsaw-puzzle-generations-mexico-puzzles.json](./155642-super-jigsaw-puzzle-generations-mexico-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Monkeys & Apes Puzzles | 353462 | [353462-super-jigsaw-puzzle-generations-monkeys-and-apes-puzzles.json](./353462-super-jigsaw-puzzle-generations-monkeys-and-apes-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Motorbikes Puzzles | 155622 | [155622-super-jigsaw-puzzle-generations-motorbikes-puzzles.json](./155622-super-jigsaw-puzzle-generations-motorbikes-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Mushrooms | 162229 | [162229-super-jigsaw-puzzle-generations-mushrooms.json](./162229-super-jigsaw-puzzle-generations-mushrooms.json) |
 | Super Jigsaw Puzzle: Generations - New York Puzzles | 155602 | [155602-super-jigsaw-puzzle-generations-new-york-puzzles.json](./155602-super-jigsaw-puzzle-generations-new-york-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - New Zealand | 155578 | [155578-super-jigsaw-puzzle-generations-new-zealand.json](./155578-super-jigsaw-puzzle-generations-new-zealand.json) |
 | Super Jigsaw Puzzle: Generations - Original SJP | 155618 | [155618-super-jigsaw-puzzle-generations-original-sjp.json](./155618-super-jigsaw-puzzle-generations-original-sjp.json) |
