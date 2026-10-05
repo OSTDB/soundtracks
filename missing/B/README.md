@@ -2108,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Empires: 1914-1918 - Honor of the Empire | 168297 | [168297-battle-of-empires-1914-1918-honor-of-the-empire.json](./168297-battle-of-empires-1914-1918-honor-of-the-empire.json) |
 | Battle of Empires: 1914-1918 - MP Pack 1 | 168298 | [168298-battle-of-empires-1914-1918-mp-pack-1.json](./168298-battle-of-empires-1914-1918-mp-pack-1.json) |
 | Battle of Empires: 1914-1918 - MP Pack 2 | 168295 | [168295-battle-of-empires-1914-1918-mp-pack-2.json](./168295-battle-of-empires-1914-1918-mp-pack-2.json) |
+| Battle of Empires: 1914-1918 - Ottoman Empire | 161728 | [161728-battle-of-empires-1914-1918-ottoman-empire.json](./161728-battle-of-empires-1914-1918-ottoman-empire.json) |
 | Battle of Empires: 1914-1918 - Real War | 168299 | [168299-battle-of-empires-1914-1918-real-war.json](./168299-battle-of-empires-1914-1918-real-war.json) |
 | Battle of Empires: 1914-1918 - Russian Empire | 168304 | [168304-battle-of-empires-1914-1918-russian-empire.json](./168304-battle-of-empires-1914-1918-russian-empire.json) |
 | Battle of Empires: 1914-1918 - Skirmish Pack | 168296 | [168296-battle-of-empires-1914-1918-skirmish-pack.json](./168296-battle-of-empires-1914-1918-skirmish-pack.json) |
