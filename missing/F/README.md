@@ -2040,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fēngsè Huànxiǎng III: Zuì Yǔ Fá de Zhènhúngē | 350519 | [350519-fengse-huanxiang-iii-zui-yu-fa-de-zhenhunge.json](./350519-fengse-huanxiang-iii-zui-yu-fa-de-zhenhunge.json) |
 | Fēngshén Ràng Wǒ Lái | 375428 | [375428-fengshen-rang-wo-lai.json](./375428-fengshen-rang-wo-lai.json) |
 | Fēngshén Yīngjié Zhuán | 93061 | [93061-fengshen-yingjie-zhuan.json](./93061-fengshen-yingjie-zhuan.json) |
+| Fēngshénbǎng 2020 | 157078 | [157078-fengshenbang-2020.json](./157078-fengshenbang-2020.json) |
 | Fēngxìnlóu | 130187 | [130187-fengxinlou.json](./130187-fengxinlou.json) |
 | Fenimore Fillmore: The Westerner | 27496 | [27496-fenimore-fillmore-the-westerner.json](./27496-fenimore-fillmore-the-westerner.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
@@ -3827,6 +3828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy | 195527 | [195527-flappy.json](./195527-flappy.json) |
 | Flappy 2: The Resurrection of Blue Star | 62199 | [62199-flappy-2-the-resurrection-of-blue-star.json](./62199-flappy-2-the-resurrection-of-blue-star.json) |
 | Flappy Arms | 81698 | [81698-flappy-arms.json](./81698-flappy-arms.json) |
+| Flappy Bat | 156970 | [156970-flappy-bat.json](./156970-flappy-bat.json) |
 | Flappy Bat 3 | 347231 | [347231-flappy-bat-3.json](./347231-flappy-bat-3.json) |
 | Flappy Bee | 169471 | [169471-flappy-bee.json](./169471-flappy-bee.json) |
 | Flappy Bird | 195491 | [195491-flappy-bird.json](./195491-flappy-bird.json) |
@@ -5239,6 +5241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Spirit | 327923 | [327923-forgotten-spirit.json](./327923-forgotten-spirit.json) |
 | Forgotten Symphony | 266420 | [266420-forgotten-symphony.json](./266420-forgotten-symphony.json) |
 | Forgotten Tales: Day of the Dead | 33244 | [33244-forgotten-tales-day-of-the-dead.json](./33244-forgotten-tales-day-of-the-dead.json) |
+| Forgotten Trace: Thanatos in Nostalgia | 156967 | [156967-forgotten-trace-thanatos-in-nostalgia.json](./156967-forgotten-trace-thanatos-in-nostalgia.json) |
 | Forgotten Trails | 406697 | [406697-forgotten-trails.json](./406697-forgotten-trails.json) |
 | Forgotten Tunnels: Episode 1 | 178418 | [178418-forgotten-tunnels-episode-1.json](./178418-forgotten-tunnels-episode-1.json) |
 | Forgotten Tunnels: Episode 2 | 178428 | [178428-forgotten-tunnels-episode-2.json](./178428-forgotten-tunnels-episode-2.json) |
@@ -6281,6 +6284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friend Sighting | 129662 | [129662-friend-sighting.json](./129662-friend-sighting.json) |
 | Friendly | 202253 | [202253-friendly.json](./202253-friendly.json) |
 | Friendly Facade | 232528 | [232528-friendly-facade.json](./232528-friendly-facade.json) |
+| Friendly Fire | 157099 | [157099-friendly-fire.json](./157099-friendly-fire.json) |
 | Friendly Fire: Arena | 158653 | [158653-friendly-fire-arena.json](./158653-friendly-fire-arena.json) |
 | Friendly Premonition | 242811 | [242811-friendly-premonition.json](./242811-friendly-premonition.json) |
 | Friendly Sheeps: A Cozy Simulator | 326430 | [326430-friendly-sheeps-a-cozy-simulator.json](./326430-friendly-sheeps-a-cozy-simulator.json) |
