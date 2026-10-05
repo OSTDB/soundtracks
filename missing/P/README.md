@@ -3319,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictionary: The Game of Video Quick Draw | 48224 | [48224-pictionary-the-game-of-video-quick-draw.json](./48224-pictionary-the-game-of-video-quick-draw.json) |
 | Pictlogica Final Fantasy: Nearly Equal | 343426 | [343426-pictlogica-final-fantasy-nearly-equal.json](./343426-pictlogica-final-fantasy-nearly-equal.json) |
 | PictoImage | 84824 | [84824-pictoimage.json](./84824-pictoimage.json) |
+| Pictooi | 154591 | [154591-pictooi.json](./154591-pictooi.json) |
 | PictoParty | 58457 | [58457-pictoparty.json](./58457-pictoparty.json) |
 | PictoPull | 212811 | [212811-pictopull.json](./212811-pictopull.json) |
 | Pictorbit | 414358 | [414358-pictorbit.json](./414358-pictorbit.json) |
@@ -8294,6 +8295,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Horror Tales | 240174 | [240174-project-horror-tales.json](./240174-project-horror-tales.json) |
 | Project Hortus | 302073 | [302073-project-hortus.json](./302073-project-hortus.json) |
 | Project Hospital | 75855 | [75855-project-hospital.json](./75855-project-hospital.json) |
+| Project Hospital: Department of Infectious Diseases | 154600 | [154600-project-hospital-department-of-infectious-diseases.json](./154600-project-hospital-department-of-infectious-diseases.json) |
+| Project Hospital: Doctor Mode | 154601 | [154601-project-hospital-doctor-mode.json](./154601-project-hospital-doctor-mode.json) |
+| Project Hospital: Hospital Services | 154599 | [154599-project-hospital-hospital-services.json](./154599-project-hospital-hospital-services.json) |
+| Project Hospital: Traumatology Department | 154598 | [154598-project-hospital-traumatology-department.json](./154598-project-hospital-traumatology-department.json) |
 | Project Hovercraft | 32181 | [32181-project-hovercraft.json](./32181-project-hovercraft.json) |
 | Project Hunt | 253516 | [253516-project-hunt.json](./253516-project-hunt.json) |
 | Project Hybrid | 269223 | [269223-project-hybrid.json](./269223-project-hybrid.json) |
