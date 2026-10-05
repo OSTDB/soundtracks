@@ -3166,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Sacrifice | 273964 | [273964-eternal-sacrifice.json](./273964-eternal-sacrifice.json) |
 | Eternal Saga | 62762 | [62762-eternal-saga.json](./62762-eternal-saga.json) |
 | Eternal Seas | 236509 | [236509-eternal-seas.json](./236509-eternal-seas.json) |
+| Eternal Senia: Hydrangea After the Rain | 139189 | [139189-eternal-senia-hydrangea-after-the-rain.json](./139189-eternal-senia-hydrangea-after-the-rain.json) |
 | Eternal Silence | 29121 | [29121-eternal-silence.json](./29121-eternal-silence.json) |
 | Eternal Slumber Party | 224582 | [224582-eternal-slumber-party.json](./224582-eternal-slumber-party.json) |
 | Eternal Slumber Party II | 261960 | [261960-eternal-slumber-party-ii.json](./261960-eternal-slumber-party-ii.json) |
