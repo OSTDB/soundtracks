@@ -3146,6 +3146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owari no Kane ga Naru mae ni: Chapter 1 - Plus Edition | 259721 | [259721-owari-no-kane-ga-naru-mae-ni-chapter-1-plus-edition.json](./259721-owari-no-kane-ga-naru-mae-ni-chapter-1-plus-edition.json) |
 | Owari no Kane ga Naru mae ni: Chapter 2 | 263135 | [263135-owari-no-kane-ga-naru-mae-ni-chapter-2.json](./263135-owari-no-kane-ga-naru-mae-ni-chapter-2.json) |
 | Owarinaki Natsu, Towa Naru Shirabe | 202383 | [202383-owarinaki-natsu-towa-naru-shirabe.json](./202383-owarinaki-natsu-towa-naru-shirabe.json) |
+| Owaru Sekai to Birthday | 144629 | [144629-owaru-sekai-to-birthday.json](./144629-owaru-sekai-to-birthday.json) |
 | Owe Money Pay Money | 301251 | [301251-owe-money-pay-money.json](./301251-owe-money-pay-money.json) |
 | Owen to have fun! | 101363 | [101363-owen-to-have-fun.json](./101363-owen-to-have-fun.json) |
 | Owl Bounce | 378912 | [378912-owl-bounce.json](./378912-owl-bounce.json) |
