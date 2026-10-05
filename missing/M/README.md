@@ -5543,6 +5543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey's Typing Adventure | 56004 | [56004-mickeys-typing-adventure.json](./56004-mickeys-typing-adventure.json) |
 | Mickey's Ultimate Challenge | 307073 | [307073-mickeys-ultimate-challenge.json](./307073-mickeys-ultimate-challenge.json) |
 | Mickey's Ultimate Challenge | 307076 | [307076-mickeys-ultimate-challenge.json](./307076-mickeys-ultimate-challenge.json) |
+| Micky's adventure | 169271 | [169271-mickys-adventure.json](./169271-mickys-adventure.json) |
 | miCoach by adidas | 78638 | [78638-micoach-by-adidas.json](./78638-micoach-by-adidas.json) |
 | Micom Slayer | 98238 | [98238-micom-slayer.json](./98238-micom-slayer.json) |
 | Micro Abyss | 166768 | [166768-micro-abyss.json](./166768-micro-abyss.json) |
@@ -6654,6 +6655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
 | Mini Battle Ground | 191033 | [191033-mini-battle-ground.json](./191033-mini-battle-ground.json) |
 | Mini Car Racing | 148355 | [148355-mini-car-racing.json](./148355-mini-car-racing.json) |
+| Mini Car Racing: Tiny Split Screen Tournament | 169157 | [169157-mini-car-racing-tiny-split-screen-tournament.json](./169157-mini-car-racing-tiny-split-screen-tournament.json) |
 | Mini City: Mayhem | 319363 | [319363-mini-city-mayhem.json](./319363-mini-city-mayhem.json) |
 | Mini Cozy Room: Lo-Fi | 338702 | [338702-mini-cozy-room-lo-fi.json](./338702-mini-cozy-room-lo-fi.json) |
 | Mini craft story | 98783 | [98783-mini-craft-story.json](./98783-mini-craft-story.json) |
@@ -8250,6 +8252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Dreams | 138832 | [138832-monster-girl-dreams.json](./138832-monster-girl-dreams.json) |
 | Monster Girl Dungeon | 166214 | [166214-monster-girl-dungeon.json](./166214-monster-girl-dungeon.json) |
 | Monster Girl Fantasy | 116339 | [116339-monster-girl-fantasy.json](./116339-monster-girl-fantasy.json) |
+| Monster Girl Incursion | 169154 | [169154-monster-girl-incursion.json](./169154-monster-girl-incursion.json) |
 | Monster Girl Jungle | 375969 | [375969-monster-girl-jungle.json](./375969-monster-girl-jungle.json) |
 | Monster Girl Maker 2 | 362265 | [362265-monster-girl-maker-2.json](./362265-monster-girl-maker-2.json) |
 | Monster Girl Manager | 190438 | [190438-monster-girl-manager.json](./190438-monster-girl-manager.json) |
@@ -11145,11 +11148,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Universe Discovery Collection | 214002 | [214002-my-universe-discovery-collection.json](./214002-my-universe-discovery-collection.json) |
 | My Universe Discovery Collection 2 | 301535 | [301535-my-universe-discovery-collection-2.json](./301535-my-universe-discovery-collection-2.json) |
 | My Universe: Cooking Star Restaurant | 139863 | [139863-my-universe-cooking-star-restaurant.json](./139863-my-universe-cooking-star-restaurant.json) |
+| My Universe: Doctors & Nurses | 169234 | [169234-my-universe-doctors-and-nurses.json](./169234-my-universe-doctors-and-nurses.json) |
 | My Universe: Fashion Boutique | 139215 | [139215-my-universe-fashion-boutique.json](./139215-my-universe-fashion-boutique.json) |
+| My Universe: Interior Designer | 169235 | [169235-my-universe-interior-designer.json](./169235-my-universe-interior-designer.json) |
 | My Universe: My Baby - New Edition | 170028 | [170028-my-universe-my-baby-new-edition.json](./170028-my-universe-my-baby-new-edition.json) |
 | My Universe: Pet Clinic - Cats & Dogs | 139835 | [139835-my-universe-pet-clinic-cats-and-dogs.json](./139835-my-universe-pet-clinic-cats-and-dogs.json) |
 | My Universe: Pet Clinic - Cats & Dogs: Panda Edition | 210513 | [210513-my-universe-pet-clinic-cats-and-dogs-panda-edition.json](./210513-my-universe-pet-clinic-cats-and-dogs-panda-edition.json) |
 | My Universe: Pets Edition | 221949 | [221949-my-universe-pets-edition.json](./221949-my-universe-pets-edition.json) |
+| My Universe: Puppies and Kittens | 169236 | [169236-my-universe-puppies-and-kittens.json](./169236-my-universe-puppies-and-kittens.json) |
 | My Universe: School Teacher | 139216 | [139216-my-universe-school-teacher.json](./139216-my-universe-school-teacher.json) |
 | My UnReal Pet | 158705 | [158705-my-unreal-pet.json](./158705-my-unreal-pet.json) |
 | My Unusual Feline Friend | 259014 | [259014-my-unusual-feline-friend.json](./259014-my-unusual-feline-friend.json) |
