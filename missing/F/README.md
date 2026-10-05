@@ -1485,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Tractor Simulator 2021: Farmer Life | 174084 | [174084-farming-tractor-simulator-2021-farmer-life.json](./174084-farming-tractor-simulator-2021-farmer-life.json) |
 | Farming Tractor Simulator 2023: Drive Combine & Trucks | 263497 | [263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json](./263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json) |
 | Farming Tractor Simulator 2024: Drive Combine & Trucks - Premium Edition | 309044 | [309044-farming-tractor-simulator-2024-drive-combine-and-trucks-premium-edition.json](./309044-farming-tractor-simulator-2024-drive-combine-and-trucks-premium-edition.json) |
+| Farming Village | 121491 | [121491-farming-village.json](./121491-farming-village.json) |
 | Farming World: Jam Factory | 238724 | [238724-farming-world-jam-factory.json](./238724-farming-world-jam-factory.json) |
 | FarmingCat | 204369 | [204369-farmingcat.json](./204369-farmingcat.json) |
 | Farmington Tales | 44093 | [44093-farmington-tales.json](./44093-farmington-tales.json) |
@@ -3977,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaskoman | 153852 | [153852-flaskoman.json](./153852-flaskoman.json) |
 | Flat & Fluffy | 297075 | [297075-flat-and-fluffy.json](./297075-flat-and-fluffy.json) |
 | Flat Affect | 233563 | [233563-flat-affect.json](./233563-flat-affect.json) |
+| Flat Earths! | 121414 | [121414-flat-earths.json](./121414-flat-earths.json) |
 | Flat Galaxy: An Idlemare | 387623 | [387623-flat-galaxy-an-idlemare.json](./387623-flat-galaxy-an-idlemare.json) |
 | Flat Heroes | 31898 | [31898-flat-heroes.json](./31898-flat-heroes.json) |
 | Flat Kingdom | 18795 | [18795-flat-kingdom.json](./18795-flat-kingdom.json) |
@@ -6427,6 +6429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frigus Inferos | 114525 | [114525-frigus-inferos.json](./114525-frigus-inferos.json) |
 | Friki | 153406 | [153406-friki.json](./153406-friki.json) |
 | Frikin the Laser Shark | 158029 | [158029-frikin-the-laser-shark.json](./158029-frikin-the-laser-shark.json) |
+| Fringe Planet | 121393 | [121393-fringe-planet.json](./121393-fringe-planet.json) |
 | Fringes of the Empire | 34426 | [34426-fringes-of-the-empire.json](./34426-fringes-of-the-empire.json) |
 | Frio2 - Memory of my sister | 90004 | [90004-frio2-memory-of-my-sister.json](./90004-frio2-memory-of-my-sister.json) |
 | Frip and Froop's Logical Labyrinth | 56509 | [56509-frip-and-froops-logical-labyrinth.json](./56509-frip-and-froops-logical-labyrinth.json) |
