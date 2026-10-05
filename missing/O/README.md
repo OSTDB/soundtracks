@@ -1201,6 +1201,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Day in London | 32931 | [32931-one-day-in-london.json](./32931-one-day-in-london.json) |
 | One Day More | 150535 | [150535-one-day-more.json](./150535-one-day-more.json) |
 | One Day of Mr. Potato | 246383 | [246383-one-day-of-mr-potato.json](./246383-one-day-of-mr-potato.json) |
+| One Deck Dungeon: Abyssal Depths | 163255 | [163255-one-deck-dungeon-abyssal-depths.json](./163255-one-deck-dungeon-abyssal-depths.json) |
+| One Deck Dungeon: Caliana | 163257 | [163257-one-deck-dungeon-caliana.json](./163257-one-deck-dungeon-caliana.json) |
+| One Deck Dungeon: Cinder Plains | 163258 | [163258-one-deck-dungeon-cinder-plains.json](./163258-one-deck-dungeon-cinder-plains.json) |
+| One Deck Dungeon: Fanatic | 163253 | [163253-one-deck-dungeon-fanatic.json](./163253-one-deck-dungeon-fanatic.json) |
+| One Deck Dungeon: Forest of Shadows | 163256 | [163256-one-deck-dungeon-forest-of-shadows.json](./163256-one-deck-dungeon-forest-of-shadows.json) |
+| One Deck Dungeon: Phoenix's Den | 163252 | [163252-one-deck-dungeon-phoenixs-den.json](./163252-one-deck-dungeon-phoenixs-den.json) |
+| One Deck Dungeon: Phoenix's Den | 163254 | [163254-one-deck-dungeon-phoenixs-den.json](./163254-one-deck-dungeon-phoenixs-den.json) |
+| One Deck Dungeon: Witch | 163259 | [163259-one-deck-dungeon-witch.json](./163259-one-deck-dungeon-witch.json) |
 | One Deck Galaxy | 257458 | [257458-one-deck-galaxy.json](./257458-one-deck-galaxy.json) |
 | One Dimension | 89984 | [89984-one-dimension.json](./89984-one-dimension.json) |
 | One Direction | 263602 | [263602-one-direction.json](./263602-one-direction.json) |
