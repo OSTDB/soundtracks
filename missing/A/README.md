@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abunka | 216777 | [216777-abunka.json](./216777-abunka.json) |
 | Abuse | 383503 | [383503-abuse.json](./383503-abuse.json) |
 | Abuzittin'in Maceraları II: İz Peşinde | 330333 | [330333-abuzittinin-maceralar-ii-iz-pesinde.json](./330333-abuzittinin-maceralar-ii-iz-pesinde.json) |
+| Abuzittin'in Maceraları: Yüzük Arkadaşlığı | 142120 | [142120-abuzittinin-maceralar-yuzuk-arkadasl-g.json](./142120-abuzittinin-maceralar-yuzuk-arkadasl-g.json) |
 | Aby Escape | 242004 | [242004-aby-escape.json](./242004-aby-escape.json) |
 | ABYA: Paint Ball | 312664 | [312664-abya-paint-ball.json](./312664-abya-paint-ball.json) |
 | Abysm 2: Spirit Falcon | 201230 | [201230-abysm-2-spirit-falcon.json](./201230-abysm-2-spirit-falcon.json) |
@@ -2446,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Bucks | 14230 | [14230-air-bucks.json](./14230-air-bucks.json) |
 | Air Cavalry PRO | 88128 | [88128-air-cavalry-pro.json](./88128-air-cavalry-pro.json) |
 | Air Cavalry: Flight Simulator | 246427 | [246427-air-cavalry-flight-simulator.json](./246427-air-cavalry-flight-simulator.json) |
+| Air Combat | 142102 | [142102-air-combat.json](./142102-air-combat.json) |
 | Air Combat | 14691 | [14691-air-combat.json](./14691-air-combat.json) |
 | Air Combat | 333953 | [333953-air-combat.json](./333953-air-combat.json) |
 | Air Combat 2015 | 227208 | [227208-air-combat-2015.json](./227208-air-combat-2015.json) |
@@ -4515,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anamorphine | 27873 | [27873-anamorphine.json](./27873-anamorphine.json) |
 | Anamorphosis | 167125 | [167125-anamorphosis.json](./167125-anamorphosis.json) |
 | Anan Kanshuu: Onna-jikara Kinkyuu Up! DS | 269549 | [269549-anan-kanshuu-onna-jikara-kinkyuu-up-ds.json](./269549-anan-kanshuu-onna-jikara-kinkyuu-up-ds.json) |
+| Ananas | 142134 | [142134-ananas.json](./142134-ananas.json) |
 | Ananas: Pineapple Idle Game | 337815 | [337815-ananas-pineapple-idle-game.json](./337815-ananas-pineapple-idle-game.json) |
 | Anandala | 303159 | [303159-anandala.json](./303159-anandala.json) |
 | Ananke | 221293 | [221293-ananke.json](./221293-ananke.json) |
@@ -6113,6 +6116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arab Drift Cars | 221746 | [221746-arab-drift-cars.json](./221746-arab-drift-cars.json) |
 | Arab Drift Cars 2 | 330192 | [330192-arab-drift-cars-2.json](./330192-arab-drift-cars-2.json) |
 | Arab Drift Cars 3 | 362967 | [362967-arab-drift-cars-3.json](./362967-arab-drift-cars-3.json) |
+| Arabel | 142140 | [142140-arabel.json](./142140-arabel.json) |
 | Arabian | 13682 | [13682-arabian.json](./13682-arabian.json) |
 | Arabian Magic | 13684 | [13684-arabian-magic.json](./13684-arabian-magic.json) |
 | Arabian Nights | 10861 | [10861-arabian-nights.json](./10861-arabian-nights.json) |
@@ -6681,6 +6685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archetype Arcadia | 155082 | [155082-archetype-arcadia.json](./155082-archetype-arcadia.json) |
 | Archetypes: The Rite of Passage | 211439 | [211439-archetypes-the-rite-of-passage.json](./211439-archetypes-the-rite-of-passage.json) |
 | ArcheWorld | 217002 | [217002-archeworld.json](./217002-archeworld.json) |
+| Archgate: Pride & Accomplishment | 142106 | [142106-archgate-pride-and-accomplishment.json](./142106-archgate-pride-and-accomplishment.json) |
 | Archi-Tek | 262551 | [262551-archi-tek.json](./262551-archi-tek.json) |
 | Archibald 2 | 116985 | [116985-archibald-2.json](./116985-archibald-2.json) |
 | Archibald's Adventures | 33046 | [33046-archibalds-adventures.json](./33046-archibalds-adventures.json) |
