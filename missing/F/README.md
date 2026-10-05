@@ -6978,6 +6978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | fullybroKen#4 | 115640 | [115640-fullybroken-4.json](./115640-fullybroken-4.json) |
 | Fúlóng: Tiānyuán Jìnglèi | 124214 | [124214-fulong-tianyuan-jinglei.json](./124214-fulong-tianyuan-jinglei.json) |
 | Fuman Ghoul | 399007 | [399007-fuman-ghoul.json](./399007-fuman-ghoul.json) |
+| FUMBBL Fantasy Football | 143348 | [143348-fumbbl-fantasy-football.json](./143348-fumbbl-fantasy-football.json) |
 | Fumble Fiesta | 292557 | [292557-fumble-fiesta.json](./292557-fumble-fiesta.json) |
 | Fumble Freaks | 337295 | [337295-fumble-freaks.json](./337295-fumble-freaks.json) |
 | Fumiko! | 27194 | [27194-fumiko.json](./27194-fumiko.json) |
