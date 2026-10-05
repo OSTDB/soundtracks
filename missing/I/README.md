@@ -1287,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagine: Sweet 16 | 5989 | [5989-imagine-sweet-16.json](./5989-imagine-sweet-16.json) |
 | Imagine: Teacher | 7914 | [7914-imagine-teacher.json](./7914-imagine-teacher.json) |
 | Imagine: Zookeeper | 7943 | [7943-imagine-zookeeper.json](./7943-imagine-zookeeper.json) |
+| Imagined Leviathans | 156204 | [156204-imagined-leviathans.json](./156204-imagined-leviathans.json) |
 | Imaginext: Battle Castle | 209431 | [209431-imaginext-battle-castle.json](./209431-imaginext-battle-castle.json) |
 | Imaginytes | 327950 | [327950-imaginytes.json](./327950-imaginytes.json) |
 | Imago | 97864 | [97864-imago.json](./97864-imago.json) |
