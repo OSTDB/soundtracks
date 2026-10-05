@@ -1662,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Defense 2: Epic TD | 227512 | [227512-king-of-defense-2-epic-td.json](./227512-king-of-defense-2-epic-td.json) |
 | King of Defense: Merge TD | 239046 | [239046-king-of-defense-merge-td.json](./239046-king-of-defense-merge-td.json) |
 | King of Dirt | 29574 | [29574-king-of-dirt.json](./29574-king-of-dirt.json) |
+| King of Dragon Balls | 120735 | [120735-king-of-dragon-balls.json](./120735-king-of-dragon-balls.json) |
 | King of Drop | 245052 | [245052-king-of-drop.json](./245052-king-of-drop.json) |
 | King of Fighters 2002: 3rd Strike of the Orochi | 205791 | [205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json](./205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json) |
 | King of Fighters XV: Garou MotW Terry Costume | 320249 | [320249-king-of-fighters-xv-garou-motw-terry-costume.json](./320249-king-of-fighters-xv-garou-motw-terry-costume.json) |
@@ -2462,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightmare Gold | 259255 | [259255-knightmare-gold.json](./259255-knightmare-gold.json) |
 | Knightmare II: The Maze of Galious | 361716 | [361716-knightmare-ii-the-maze-of-galious.json](./361716-knightmare-ii-the-maze-of-galious.json) |
 | Knightmare II: The Maze of Galious | 36671 | [36671-knightmare-ii-the-maze-of-galious.json](./36671-knightmare-ii-the-maze-of-galious.json) |
+| Knightmare Lands | 120702 | [120702-knightmare-lands.json](./120702-knightmare-lands.json) |
 | Knightmare Tales | 292746 | [292746-knightmare-tales.json](./292746-knightmare-tales.json) |
 | Knightphone | 118267 | [118267-knightphone.json](./118267-knightphone.json) |
 | KnightQuest | 95427 | [95427-knightquest.json](./95427-knightquest.json) |
