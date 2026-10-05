@@ -1853,6 +1853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping! | 209655 | [209655-jumping.json](./209655-jumping.json) |
 | JumpingBoy | 111868 | [111868-jumpingboy.json](./111868-jumpingboy.json) |
 | Jumpix Jump | 33487 | [33487-jumpix-jump.json](./33487-jumpix-jump.json) |
+| JumpJumpBall | 158622 | [158622-jumpjumpball.json](./158622-jumpjumpball.json) |
 | JumpJumpJump! | 335086 | [335086-jumpjumpjump.json](./335086-jumpjumpjump.json) |
 | Jumplats | 295889 | [295889-jumplats.json](./295889-jumplats.json) |
 | Jumplight Odyssey | 229965 | [229965-jumplight-odyssey.json](./229965-jumplight-odyssey.json) |
