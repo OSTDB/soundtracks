@@ -2464,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perry the Pumpkin | 224763 | [224763-perry-the-pumpkin.json](./224763-perry-the-pumpkin.json) |
 | Perseus | 274767 | [274767-perseus.json](./274767-perseus.json) |
 | Persevera | 264685 | [264685-persevera.json](./264685-persevera.json) |
+| Perseverance: Part 2 | 171991 | [171991-perseverance-part-2.json](./171991-perseverance-part-2.json) |
 | Persevere | 350006 | [350006-persevere.json](./350006-persevere.json) |
 | Persha and the Magic Labyrinth: Arabian Nyaights | 264901 | [264901-persha-and-the-magic-labyrinth-arabian-nyaights.json](./264901-persha-and-the-magic-labyrinth-arabian-nyaights.json) |
 | Persha and the Magic Puzzle: Arabian Nyaights | 235210 | [235210-persha-and-the-magic-puzzle-arabian-nyaights.json](./235210-persha-and-the-magic-puzzle-arabian-nyaights.json) |
@@ -2867,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Rift | 174351 | [174351-phantom-rift.json](./174351-phantom-rift.json) |
 | Phantom Rose | 117605 | [117605-phantom-rose.json](./117605-phantom-rose.json) |
 | Phantom Rose Scarlet | 144106 | [144106-phantom-rose-scarlet.json](./144106-phantom-rose-scarlet.json) |
+| Phantom Sense VR | 171994 | [171994-phantom-sense-vr.json](./171994-phantom-sense-vr.json) |
 | Phantom Shift | 307598 | [307598-phantom-shift.json](./307598-phantom-shift.json) |
 | Phantom Signal | 81703 | [81703-phantom-signal.json](./81703-phantom-signal.json) |
 | Phantom Sol | 125437 | [125437-phantom-sol.json](./125437-phantom-sol.json) |
