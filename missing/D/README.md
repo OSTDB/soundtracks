@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's Speaking with the Dead | 187932 | [187932-dark-tales-edgar-allan-poes-speaking-with-the-dead.json](./187932-dark-tales-edgar-allan-poes-speaking-with-the-dead.json) |
 | Dark Tales: Edgar Allan Poe's The Bells | 187928 | [187928-dark-tales-edgar-allan-poes-the-bells.json](./187928-dark-tales-edgar-allan-poes-the-bells.json) |
 | Dark Tales: Edgar Allan Poe's The Black Cat - Collector's Edition | 201826 | [201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json](./201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json) |
+| Dark Tales: Edgar Allan Poe's The Devil in the Belfry | 153506 | [153506-dark-tales-edgar-allan-poes-the-devil-in-the-belfry.json](./153506-dark-tales-edgar-allan-poes-the-devil-in-the-belfry.json) |
 | Dark Tales: Edgar Allan Poe's The Mystery of Marie Roget - Collector's Edition | 88477 | [88477-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-collectors-edition.json](./88477-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Mystery of Marie Roget HD | 108964 | [108964-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-hd.json](./108964-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-hd.json) |
 | Dark Tales: Edgar Allan Poe's The Oval Portrait - Collector's Edition | 370681 | [370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json](./370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json) |
@@ -1344,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DateBoy | 376656 | [376656-dateboy.json](./376656-dateboy.json) |
 | Datenshi Kyouko Part 1 | 230207 | [230207-datenshi-kyouko-part-1.json](./230207-datenshi-kyouko-part-1.json) |
 | Datenshi no Amai Yuuwaku x Kaikan Phrase | 67350 | [67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json](./67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json) |
+| Dates & Wires | 153522 | [153522-dates-and-wires.json](./153522-dates-and-wires.json) |
 | Dating 4 Girls | 400931 | [400931-dating-4-girls.json](./400931-dating-4-girls.json) |
 | Dating and Dragons: A Love Quest | 351272 | [351272-dating-and-dragons-a-love-quest.json](./351272-dating-and-dragons-a-love-quest.json) |
 | Dating Maze | 401694 | [401694-dating-maze.json](./401694-dating-maze.json) |
@@ -2836,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend the Keep | 118091 | [118091-defend-the-keep.json](./118091-defend-the-keep.json) |
 | Defend the Rook | 152300 | [152300-defend-the-rook.json](./152300-defend-the-rook.json) |
 | Defend the Tower: Castle Defence Element | 109486 | [109486-defend-the-tower-castle-defence-element.json](./109486-defend-the-tower-castle-defence-element.json) |
+| Defend the Village From Goblins | 153534 | [153534-defend-the-village-from-goblins.json](./153534-defend-the-village-from-goblins.json) |
 | Defend Tower: TD strategy | 130908 | [130908-defend-tower-td-strategy.json](./130908-defend-tower-td-strategy.json) |
 | Defend Your Crypt | 33130 | [33130-defend-your-crypt.json](./33130-defend-your-crypt.json) |
 | Defend Your Kingdom | 41972 | [41972-defend-your-kingdom.json](./41972-defend-your-kingdom.json) |
