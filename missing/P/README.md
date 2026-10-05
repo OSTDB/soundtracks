@@ -5869,6 +5869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Emerald BR Deluxe | 335433 | [335433-pokemon-emerald-br-deluxe.json](./335433-pokemon-emerald-br-deluxe.json) |
 | Pokémon Emerald Crest | 267421 | [267421-pokemon-emerald-crest.json](./267421-pokemon-emerald-crest.json) |
 | Pokémon Emerald Cross | 301933 | [301933-pokemon-emerald-cross.json](./301933-pokemon-emerald-cross.json) |
+| Pokémon Emerald Enhanced | 144566 | [144566-pokemon-emerald-enhanced.json](./144566-pokemon-emerald-enhanced.json) |
 | Pokémon Emerald Final | 149964 | [149964-pokemon-emerald-final.json](./149964-pokemon-emerald-final.json) |
 | Pokémon Emerald Horizons | 339967 | [339967-pokemon-emerald-horizons.json](./339967-pokemon-emerald-horizons.json) |
 | Pokémon Emerald Imperium | 329650 | [329650-pokemon-emerald-imperium.json](./329650-pokemon-emerald-imperium.json) |
@@ -8906,6 +8907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychocat: The Answer | 33811 | [33811-psychocat-the-answer.json](./33811-psychocat-the-answer.json) |
 | PsychoCudgel | 316641 | [316641-psychocudgel.json](./316641-psychocudgel.json) |
 | Psychofinger | 273436 | [273436-psychofinger.json](./273436-psychofinger.json) |
+| Psychoflesh | 144575 | [144575-psychoflesh.json](./144575-psychoflesh.json) |
 | Psychofunk | 161776 | [161776-psychofunk.json](./161776-psychofunk.json) |
 | Psycholog | 264707 | [264707-psycholog.json](./264707-psycholog.json) |
 | Psycholytic | 348235 | [348235-psycholytic.json](./348235-psycholytic.json) |
