@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbaru Kimi to no Futari Gurashi: Iede Gal Icha Love Seikatsu SLG | 408962 | [408962-ganbaru-kimi-to-no-futari-gurashi-iede-gal-icha-love-seikatsu-slg.json](./408962-ganbaru-kimi-to-no-futari-gurashi-iede-gal-icha-love-seikatsu-slg.json) |
 | Ganbatte | 77402 | [77402-ganbatte.json](./77402-ganbatte.json) |
 | Gancho Bond | 372673 | [372673-gancho-bond.json](./372673-gancho-bond.json) |
+| Gander National Park | 148681 | [148681-gander-national-park.json](./148681-gander-national-park.json) |
 | Gandhi III | 323801 | [323801-gandhi-iii.json](./323801-gandhi-iii.json) |
 | Gang Beasts | 11177 | [11177-gang-beasts.json](./11177-gang-beasts.json) |
 | Gang Blast | 283265 | [283265-gang-blast.json](./283265-gang-blast.json) |
@@ -3075,6 +3076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Light | 23415 | [23415-god-of-light.json](./23415-god-of-light.json) |
 | God of Light: Remastered | 75048 | [75048-god-of-light-remastered.json](./75048-god-of-light-remastered.json) |
 | God of Math: Train Your Brain | 232061 | [232061-god-of-math-train-your-brain.json](./232061-god-of-math-train-your-brain.json) |
+| God of Riffs | 148697 | [148697-god-of-riffs.json](./148697-god-of-riffs.json) |
 | God of Stocks | 412963 | [412963-god-of-stocks.json](./412963-god-of-stocks.json) |
 | God of the Arena Dungeon | 163196 | [163196-god-of-the-arena-dungeon.json](./163196-god-of-the-arena-dungeon.json) |
 | God of Track | 243076 | [243076-god-of-track.json](./243076-god-of-track.json) |
