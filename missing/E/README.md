@@ -1416,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elumin | 295811 | [295811-elumin.json](./295811-elumin.json) |
 | Elune | 125832 | [125832-elune.json](./125832-elune.json) |
 | Elusive | 336540 | [336540-elusive.json](./336540-elusive.json) |
+| Elusive Verge | 144587 | [144587-elusive-verge.json](./144587-elusive-verge.json) |
 | Eluxia Enigma | 153847 | [153847-eluxia-enigma.json](./153847-eluxia-enigma.json) |
 | Elva the Eco Dragon | 187503 | [187503-elva-the-eco-dragon.json](./187503-elva-the-eco-dragon.json) |
 | Elvandia Story | 43276 | [43276-elvandia-story.json](./43276-elvandia-story.json) |
@@ -3739,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evo Explores | 32731 | [32731-evo-explores.json](./32731-evo-explores.json) |
 | Evo Island | 290415 | [290415-evo-island.json](./290415-evo-island.json) |
 | Evo Pop: Sweet Edition | 395677 | [395677-evo-pop-sweet-edition.json](./395677-evo-pop-sweet-edition.json) |
+| Evo\Wave | 144614 | [144614-evo-wave.json](./144614-evo-wave.json) |
 | EvoBots | 315713 | [315713-evobots.json](./315713-evobots.json) |
 | Evocation | 107817 | [107817-evocation.json](./107817-evocation.json) |
 | Evocation | 270116 | [270116-evocation.json](./270116-evocation.json) |
