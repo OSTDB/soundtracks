@@ -1554,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onegai Twin(s) | 98037 | [98037-onegai-twin-s.json](./98037-onegai-twin-s.json) |
 | OneHit | 75104 | [75104-onehit.json](./75104-onehit.json) |
 | Oneiric | 285509 | [285509-oneiric.json](./285509-oneiric.json) |
+| Oneiric Gardens | 146541 | [146541-oneiric-gardens.json](./146541-oneiric-gardens.json) |
 | Oneiro | 226668 | [226668-oneiro.json](./226668-oneiro.json) |
 | Oneiro Man | 299779 | [299779-oneiro-man.json](./299779-oneiro-man.json) |
 | Oneirology Online | 276922 | [276922-oneirology-online.json](./276922-oneirology-online.json) |
