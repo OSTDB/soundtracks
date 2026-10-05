@@ -1124,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Xiāoxiāolè | 117683 | [117683-mahjong-xiaoxiaole.json](./117683-mahjong-xiaoxiaole.json) |
 | Mahjong: Dream C Club | 47431 | [47431-mahjong-dream-c-club.json](./47431-mahjong-dream-c-club.json) |
 | Mahjong: Magic Casual Puzzle | 200461 | [200461-mahjong-magic-casual-puzzle.json](./200461-mahjong-magic-casual-puzzle.json) |
+| Mahjong: Magic Chips | 119619 | [119619-mahjong-magic-chips.json](./119619-mahjong-magic-chips.json) |
 | Mahjong: Wolf's Stories | 177045 | [177045-mahjong-wolfs-stories.json](./177045-mahjong-wolfs-stories.json) |
 | Mahjongg Master 3 | 93140 | [93140-mahjongg-master-3.json](./93140-mahjongg-master-3.json) |
 | Mahjongg Platinum Evolution Edition | 96762 | [96762-mahjongg-platinum-evolution-edition.json](./96762-mahjongg-platinum-evolution-edition.json) |
@@ -7419,6 +7420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Craft | 283402 | [283402-mission-craft.json](./283402-mission-craft.json) |
 | Mission Critical: Foresight | 186328 | [186328-mission-critical-foresight.json](./186328-mission-critical-foresight.json) |
 | Mission Europa | 66072 | [66072-mission-europa.json](./66072-mission-europa.json) |
+| Mission Evilguy | 119613 | [119613-mission-evilguy.json](./119613-mission-evilguy.json) |
 | Mission Genocide | 58868 | [58868-mission-genocide.json](./58868-mission-genocide.json) |
 | Mission Idle | 172193 | [172193-mission-idle.json](./172193-mission-idle.json) |
 | Mission Impossible III | 264084 | [264084-mission-impossible-iii.json](./264084-mission-impossible-iii.json) |
@@ -10952,6 +10954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Giant Sexy Sensei Bullies Me 7 | 384729 | [384729-my-giant-sexy-sensei-bullies-me-7.json](./384729-my-giant-sexy-sensei-bullies-me-7.json) |
 | My Giant Sexy Sensei Bullies Me 8 | 384732 | [384732-my-giant-sexy-sensei-bullies-me-8.json](./384732-my-giant-sexy-sensei-bullies-me-8.json) |
 | My Giant Sexy Sensei Bullies Me 9 | 384735 | [384735-my-giant-sexy-sensei-bullies-me-9.json](./384735-my-giant-sexy-sensei-bullies-me-9.json) |
+| My Girl: Love Story | 119603 | [119603-my-girl-love-story.json](./119603-my-girl-love-story.json) |
 | My Girlfriend | 81184 | [81184-my-girlfriend.json](./81184-my-girlfriend.json) |
 | My Girlfriend is a Mermaid!? | 212712 | [212712-my-girlfriend-is-a-mermaid.json](./212712-my-girlfriend-is-a-mermaid.json) |
 | My Girlfriend is a Mermaid!? Refine | 188642 | [188642-my-girlfriend-is-a-mermaid-refine.json](./188642-my-girlfriend-is-a-mermaid-refine.json) |
