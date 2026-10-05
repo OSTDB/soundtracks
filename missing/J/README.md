@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Javelin | 247047 | [247047-javelin.json](./247047-javelin.json) |
 | Javelin Masters 2 | 344451 | [344451-javelin-masters-2.json](./344451-javelin-masters-2.json) |
 | Javols VR | 149220 | [149220-javols-vr.json](./149220-javols-vr.json) |
+| Jaw Breakers & The Confection Connection | 133165 | [133165-jaw-breakers-and-the-confection-connection.json](./133165-jaw-breakers-and-the-confection-connection.json) |
 | Jawaker | 315697 | [315697-jawaker.json](./315697-jawaker.json) |
 | Jawbreak | 271803 | [271803-jawbreak.json](./271803-jawbreak.json) |
 | Jawbreaker | 177551 | [177551-jawbreaker.json](./177551-jawbreaker.json) |
