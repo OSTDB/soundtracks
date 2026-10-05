@@ -2440,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AimJJang | 379517 | [379517-aimjjang.json](./379517-aimjjang.json) |
 | Aimlabs | 67902 | [67902-aimlabs.json](./67902-aimlabs.json) |
 | AimRogue | 288747 | [288747-aimrogue.json](./288747-aimrogue.json) |
+| Aimstar.gg | 125882 | [125882-aimstar-gg.json](./125882-aimstar-gg.json) |
 | AimX | 212901 | [212901-aimx.json](./212901-aimx.json) |
 | Ain't No Surprise | 379518 | [379518-aint-no-surprise.json](./379518-aint-no-surprise.json) |
 | AInder | 239682 | [239682-ainder.json](./239682-ainder.json) |
@@ -7061,6 +7062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark of Loif | 167189 | [167189-ark-of-loif.json](./167189-ark-of-loif.json) |
 | Ark of Trisolar | 360692 | [360692-ark-of-trisolar.json](./360692-ark-of-trisolar.json) |
 | Ark of War | 133399 | [133399-ark-of-war.json](./133399-ark-of-war.json) |
+| Ark Order | 125776 | [125776-ark-order.json](./125776-ark-order.json) |
 | Ark Re:Code | 367393 | [367393-ark-re-code.json](./367393-ark-re-code.json) |
 | Ark Saver | 256225 | [256225-ark-saver.json](./256225-ark-saver.json) |
 | Ark: Aberration Ascended | 316101 | [316101-ark-aberration-ascended.json](./316101-ark-aberration-ascended.json) |
@@ -7324,6 +7326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arnaud Thion's Dragons | 185115 | [185115-arnaud-thions-dragons.json](./185115-arnaud-thions-dragons.json) |
 | Arnie | 13797 | [13797-arnie.json](./13797-arnie.json) |
 | Arnie | 14268 | [14268-arnie.json](./14268-arnie.json) |
+| Arnmoire | 125803 | [125803-arnmoire.json](./125803-arnmoire.json) |
 | Arnold Palmer Tournament Golf | 12869 | [12869-arnold-palmer-tournament-golf.json](./12869-arnold-palmer-tournament-golf.json) |
 | Arnold the Adventurer | 58862 | [58862-arnold-the-adventurer.json](./58862-arnold-the-adventurer.json) |
 | Arnold the Adventurer II | 58861 | [58861-arnold-the-adventurer-ii.json](./58861-arnold-the-adventurer-ii.json) |
