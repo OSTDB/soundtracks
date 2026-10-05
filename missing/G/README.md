@@ -2725,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glukhovo | 270184 | [270184-glukhovo.json](./270184-glukhovo.json) |
 | Glusiverse | 304599 | [304599-glusiverse.json](./304599-glusiverse.json) |
 | Glutto, the Eater of Worlds | 185507 | [185507-glutto-the-eater-of-worlds.json](./185507-glutto-the-eater-of-worlds.json) |
+| Glutton | 154068 | [154068-glutton.json](./154068-glutton.json) |
 | Gluttony | 353979 | [353979-gluttony.json](./353979-gluttony.json) |
 | Gluua | 235698 | [235698-gluua.json](./235698-gluua.json) |
 | Glyde the Dragon | 217234 | [217234-glyde-the-dragon.json](./217234-glyde-the-dragon.json) |
@@ -4713,6 +4714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Heritage: Noble Duty | 266425 | [266425-grey-heritage-noble-duty.json](./266425-grey-heritage-noble-duty.json) |
 | Grey Instinct | 159305 | [159305-grey-instinct.json](./159305-grey-instinct.json) |
 | Grey Instinct: Part 2 | 235774 | [235774-grey-instinct-part-2.json](./235774-grey-instinct-part-2.json) |
+| Grey Lucidity | 154055 | [154055-grey-lucidity.json](./154055-grey-lucidity.json) |
 | Grey Phobia | 32925 | [32925-grey-phobia.json](./32925-grey-phobia.json) |
 | Grey Scout | 139213 | [139213-grey-scout.json](./139213-grey-scout.json) |
 | Grey Skies: A War of the Worlds Story | 140628 | [140628-grey-skies-a-war-of-the-worlds-story.json](./140628-grey-skies-a-war-of-the-worlds-story.json) |
