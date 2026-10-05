@@ -6083,6 +6083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Fate | 38992 | [38992-sinister-fate.json](./38992-sinister-fate.json) |
 | Sinister Games | 254649 | [254649-sinister-games.json](./254649-sinister-games.json) |
 | Sinister Halloween | 110762 | [110762-sinister-halloween.json](./110762-sinister-halloween.json) |
+| Sinister Halloween: Asylum | 160282 | [160282-sinister-halloween-asylum.json](./160282-sinister-halloween-asylum.json) |
 | Sinister Hospital | 296384 | [296384-sinister-hospital.json](./296384-sinister-hospital.json) |
 | Sinister Mansion | 297798 | [297798-sinister-mansion.json](./297798-sinister-mansion.json) |
 | Sinister Night | 200670 | [200670-sinister-night.json](./200670-sinister-night.json) |
@@ -6960,6 +6961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sled Riders | 301003 | [301003-sled-riders.json](./301003-sled-riders.json) |
 | Sled Storm | 8264 | [8264-sled-storm.json](./8264-sled-storm.json) |
 | Sleembo | 262490 | [262490-sleembo.json](./262490-sleembo.json) |
+| Sleep | 160280 | [160280-sleep.json](./160280-sleep.json) |
 | Sleep Aid | 414413 | [414413-sleep-aid.json](./414413-sleep-aid.json) |
 | Sleep and Girls | 365272 | [365272-sleep-and-girls.json](./365272-sleep-and-girls.json) |
 | Sleep Clock: Record and Analyse Your Sleep Patterns | 84883 | [84883-sleep-clock-record-and-analyse-your-sleep-patterns.json](./84883-sleep-clock-record-and-analyse-your-sleep-patterns.json) |
@@ -8901,6 +8903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something Dark Beyond The Light | 353871 | [353871-something-dark-beyond-the-light.json](./353871-something-dark-beyond-the-light.json) |
 | Something Else | 283310 | [283310-something-else.json](./283310-something-else.json) |
 | Something in the mist | 177838 | [177838-something-in-the-mist.json](./177838-something-in-the-mist.json) |
+| Something in the Water | 160285 | [160285-something-in-the-water.json](./160285-something-in-the-water.json) |
 | Something In The Well | 266749 | [266749-something-in-the-well.json](./266749-something-in-the-well.json) |
 | Something in the Woods | 261263 | [261263-something-in-the-woods.json](./261263-something-in-the-woods.json) |
 | Something is Wrong | 132000 | [132000-something-is-wrong.json](./132000-something-is-wrong.json) |
@@ -10630,6 +10633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Spider | 201568 | [201568-space-spider.json](./201568-space-spider.json) |
 | Space Sprint | 38903 | [38903-space-sprint.json](./38903-space-sprint.json) |
 | Space Squad Survival | 346725 | [346725-space-squad-survival.json](./346725-space-squad-survival.json) |
+| Space Squadron | 160208 | [160208-space-squadron.json](./160208-space-squadron.json) |
 | Space Star: Heart of a Soldier | 292628 | [292628-space-star-heart-of-a-soldier.json](./292628-space-star-heart-of-a-soldier.json) |
 | Space Station Alpha | 35964 | [35964-space-station-alpha.json](./35964-space-station-alpha.json) |
 | Space Station Escape | 282636 | [282636-space-station-escape.json](./282636-space-station-escape.json) |
@@ -15339,6 +15343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Chase | 245579 | [245579-sub-chase.json](./245579-sub-chase.json) |
 | Sub Chase Online | 211200 | [211200-sub-chase-online.json](./211200-sub-chase-online.json) |
 | Sub Command: Akula Seawolf 688(I) | 68732 | [68732-sub-command-akula-seawolf-688-i.json](./68732-sub-command-akula-seawolf-688-i.json) |
+| Sub Commander | 160306 | [160306-sub-commander.json](./160306-sub-commander.json) |
 | Sub Commander | 263472 | [263472-sub-commander.json](./263472-sub-commander.json) |
 | Sub Culture | 50135 | [50135-sub-culture.json](./50135-sub-culture.json) |
 | Sub Duel | 97352 | [97352-sub-duel.json](./97352-sub-duel.json) |
@@ -16435,6 +16440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Domino Effect 3D | 215706 | [215706-super-domino-effect-3d.json](./215706-super-domino-effect-3d.json) |
 | Super Dominoes | 208353 | [208353-super-dominoes.json](./208353-super-dominoes.json) |
 | Super Don Quix-Ote | 25969 | [25969-super-don-quix-ote.json](./25969-super-don-quix-ote.json) |
+| Super Donkey Kong 2 | 160305 | [160305-super-donkey-kong-2.json](./160305-super-donkey-kong-2.json) |
 | Super Donkey Kong 64 | 134017 | [134017-super-donkey-kong-64.json](./134017-super-donkey-kong-64.json) |
 | Super Donuts! | 175412 | [175412-super-donuts.json](./175412-super-donuts.json) |
 | Super Doom TV | 299449 | [299449-super-doom-tv.json](./299449-super-doom-tv.json) |
@@ -16809,6 +16815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 3D Kart Deluxe | 265843 | [265843-super-mario-3d-kart-deluxe.json](./265843-super-mario-3d-kart-deluxe.json) |
 | Super Mario 3D World | 229339 | [229339-super-mario-3d-world.json](./229339-super-mario-3d-world.json) |
 | Super Mario 3D World + Bowser's Fury | 138227 | [138227-super-mario-3d-world-bowsers-fury.json](./138227-super-mario-3d-world-bowsers-fury.json) |
+| Super Mario 4 | 160277 | [160277-super-mario-4.json](./160277-super-mario-4.json) |
 | Super Mario 63 | 137008 | [137008-super-mario-63.json](./137008-super-mario-63.json) |
 | Super Mario 64 1.5 Ztar Attack! | 135230 | [135230-super-mario-64-1-5-ztar-attack.json](./135230-super-mario-64-1-5-ztar-attack.json) |
 | Super Mario 64 2 | 175964 | [175964-super-mario-64-2.json](./175964-super-mario-64-2.json) |
