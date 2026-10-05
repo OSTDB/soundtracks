@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 2001 | 43861 | [43861-nba-live-2001.json](./43861-nba-live-2001.json) |
 | NBA Live 2003 | 808 | [808-nba-live-2003.json](./808-nba-live-2003.json) |
 | NBA Live 2005 | 4033 | [4033-nba-live-2005.json](./4033-nba-live-2005.json) |
+| NBA Live 21 | 125191 | [125191-nba-live-21.json](./125191-nba-live-21.json) |
 | NBA Live 96 | 809 | [809-nba-live-96.json](./809-nba-live-96.json) |
 | NBA Maximum Hangtime | 39596 | [39596-nba-maximum-hangtime.json](./39596-nba-maximum-hangtime.json) |
 | NBA Now | 303807 | [303807-nba-now.json](./303807-nba-now.json) |
@@ -1462,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neoproxima | 290545 | [290545-neoproxima.json](./290545-neoproxima.json) |
 | NeoQuest | 229025 | [229025-neoquest.json](./229025-neoquest.json) |
 | NeoQuest II | 229026 | [229026-neoquest-ii.json](./229026-neoquest-ii.json) |
+| Neos VR | 125161 | [125161-neos-vr.json](./125161-neos-vr.json) |
 | Neosaurs | 197659 | [197659-neosaurs.json](./197659-neosaurs.json) |
 | Neospace | 230945 | [230945-neospace.json](./230945-neospace.json) |
 | NeoSprint | 295286 | [295286-neosprint.json](./295286-neosprint.json) |
@@ -1714,6 +1716,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter Nights: Enhanced Edition - Doom of Icewind Dale | 332626 | [332626-neverwinter-nights-enhanced-edition-doom-of-icewind-dale.json](./332626-neverwinter-nights-enhanced-edition-doom-of-icewind-dale.json) |
 | Neverwinter Nights: Gold Edition | 210036 | [210036-neverwinter-nights-gold-edition.json](./210036-neverwinter-nights-gold-edition.json) |
 | Neverwinter Nights: Pirates of the Sword Coast | 124906 | [124906-neverwinter-nights-pirates-of-the-sword-coast.json](./124906-neverwinter-nights-pirates-of-the-sword-coast.json) |
+| Neverwinter Nights: ShadowGuard | 125300 | [125300-neverwinter-nights-shadowguard.json](./125300-neverwinter-nights-shadowguard.json) |
+| Neverwinter Nights: Witch's Wake | 125301 | [125301-neverwinter-nights-witchs-wake.json](./125301-neverwinter-nights-witchs-wake.json) |
 | Neverwinter Nights: Wyvern Crown of Cormyr | 124892 | [124892-neverwinter-nights-wyvern-crown-of-cormyr.json](./124892-neverwinter-nights-wyvern-crown-of-cormyr.json) |
 | Neverwinter: Curse of Icewind Dale | 224450 | [224450-neverwinter-curse-of-icewind-dale.json](./224450-neverwinter-curse-of-icewind-dale.json) |
 | Neverwinter: Elemental Evil | 224465 | [224465-neverwinter-elemental-evil.json](./224465-neverwinter-elemental-evil.json) |
@@ -2457,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightfall Empress | 402896 | [402896-nightfall-empress.json](./402896-nightfall-empress.json) |
 | NightFall Hollow | 235310 | [235310-nightfall-hollow.json](./235310-nightfall-hollow.json) |
 | Nightfall Main Game Plus VR | 53418 | [53418-nightfall-main-game-plus-vr.json](./53418-nightfall-main-game-plus-vr.json) |
+| Nightfall Mysteries: Asylum Conspiracy | 125304 | [125304-nightfall-mysteries-asylum-conspiracy.json](./125304-nightfall-mysteries-asylum-conspiracy.json) |
 | Nightfall Mysteries: Curse of the Opera | 125308 | [125308-nightfall-mysteries-curse-of-the-opera.json](./125308-nightfall-mysteries-curse-of-the-opera.json) |
 | Nightfall Terror: Trails of the Dead | 318558 | [318558-nightfall-terror-trails-of-the-dead.json](./318558-nightfall-terror-trails-of-the-dead.json) |
 | Nightfall Village | 386374 | [386374-nightfall-village.json](./386374-nightfall-village.json) |
@@ -3327,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noalone | 250317 | [250317-noalone.json](./250317-noalone.json) |
 | NoAmmo | 210882 | [210882-noammo.json](./210882-noammo.json) |
 | Nob War: The Elves | 235243 | [235243-nob-war-the-elves.json](./235243-nob-war-the-elves.json) |
+| Nobby the Aardvark | 125181 | [125181-nobby-the-aardvark.json](./125181-nobby-the-aardvark.json) |
 | Noble | 176975 | [176975-noble.json](./176975-noble.json) |
 | Noble Armada: Lost Worlds | 107897 | [107897-noble-armada-lost-worlds.json](./107897-noble-armada-lost-worlds.json) |
 | Noble Fates | 183602 | [183602-noble-fates.json](./183602-noble-fates.json) |
