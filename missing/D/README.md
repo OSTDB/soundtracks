@@ -9901,6 +9901,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarfs Delight | 287714 | [287714-dwarfs-delight.json](./287714-dwarfs-delight.json) |
 | Dwarfs Descent | 350420 | [350420-dwarfs-descent.json](./350420-dwarfs-descent.json) |
 | Dwarfs F2P | 90631 | [90631-dwarfs-f2p.json](./90631-dwarfs-f2p.json) |
+| Dwarfs F2P: Base Defend Pack | 161781 | [161781-dwarfs-f2p-base-defend-pack.json](./161781-dwarfs-f2p-base-defend-pack.json) |
+| Dwarfs F2P: Difficulty Pack | 161780 | [161780-dwarfs-f2p-difficulty-pack.json](./161780-dwarfs-f2p-difficulty-pack.json) |
 | Dwarfs F2P: Skirmish Pack | 161779 | [161779-dwarfs-f2p-skirmish-pack.json](./161779-dwarfs-f2p-skirmish-pack.json) |
 | Dwarfs Fight | 224663 | [224663-dwarfs-fight.json](./224663-dwarfs-fight.json) |
 | Dwarrows | 25229 | [25229-dwarrows.json](./25229-dwarrows.json) |
