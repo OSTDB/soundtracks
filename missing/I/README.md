@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can Transform | 265740 | [265740-i-can-transform.json](./265740-i-can-transform.json) |
 | I Can't Be Human | 332813 | [332813-i-cant-be-human.json](./332813-i-cant-be-human.json) |
 | I Can't Beat The Beautiful Ones | 393117 | [393117-i-cant-beat-the-beautiful-ones.json](./393117-i-cant-beat-the-beautiful-ones.json) |
+| I Can't Believe It's Not Gambling 2(k) | 130716 | [130716-i-cant-believe-its-not-gambling-2-k.json](./130716-i-cant-believe-its-not-gambling-2-k.json) |
 | I Can't Believe It's Not Gambling: GOTY Edition | 74929 | [74929-i-cant-believe-its-not-gambling-goty-edition.json](./74929-i-cant-believe-its-not-gambling-goty-edition.json) |
 | I Can't Believe the Most Popular Girl in School is a Lesbian, Just Like Me! | 184894 | [184894-i-cant-believe-the-most-popular-girl-in-school-is-a-lesbian-just-like-me.json](./184894-i-cant-believe-the-most-popular-girl-in-school-is-a-lesbian-just-like-me.json) |
 | I Can't Cry. | 183930 | [183930-i-cant-cry.json](./183930-i-cant-cry.json) |
@@ -2904,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inu Dai Suki! | 46604 | [46604-inu-dai-suki.json](./46604-inu-dai-suki.json) |
 | Inu no Osanpo | 169323 | [169323-inu-no-osanpo.json](./169323-inu-no-osanpo.json) |
 | Inua: A Story in Ice and Time | 159773 | [159773-inua-a-story-in-ice-and-time.json](./159773-inua-a-story-in-ice-and-time.json) |
+| Inugamike no Ichizoku | 130701 | [130701-inugamike-no-ichizoku.json](./130701-inugamike-no-ichizoku.json) |
 | Inuit Uppirijatuqangit | 293689 | [293689-inuit-uppirijatuqangit.json](./293689-inuit-uppirijatuqangit.json) |
 | Inumeda | 263113 | [263113-inumeda.json](./263113-inumeda.json) |
 | Inunaki Tunnel | 126348 | [126348-inunaki-tunnel.json](./126348-inunaki-tunnel.json) |
