@@ -1211,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acedior | 70432 | [70432-acedior.json](./70432-acedior.json) |
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
 | Aceonline: DuelX | 95871 | [95871-aceonline-duelx.json](./95871-aceonline-duelx.json) |
+| Acephalus | 139167 | [139167-acephalus.json](./139167-acephalus.json) |
 | Aces of the Air | 43938 | [43938-aces-of-the-air.json](./43938-aces-of-the-air.json) |
 | Aces of the Deep | 12384 | [12384-aces-of-the-deep.json](./12384-aces-of-the-deep.json) |
 | Aces of the Galaxy | 15766 | [15766-aces-of-the-galaxy.json](./15766-aces-of-the-galaxy.json) |
@@ -1360,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action-Strategy Baseball | 72966 | [72966-action-strategy-baseball.json](./72966-action-strategy-baseball.json) |
 | ActionCam: Supernatural Case | 333529 | [333529-actioncam-supernatural-case.json](./333529-actioncam-supernatural-case.json) |
 | Actionpaint VR | 107931 | [107931-actionpaint-vr.json](./107931-actionpaint-vr.json) |
+| Activate the Three Artefacts and then Leave | 139153 | [139153-activate-the-three-artefacts-and-then-leave.json](./139153-activate-the-three-artefacts-and-then-leave.json) |
 | Active 2048 Body Control | 379473 | [379473-active-2048-body-control.json](./379473-active-2048-body-control.json) |
 | Active Color | 241354 | [241354-active-color.json](./241354-active-color.json) |
 | Active DBG: Brave's Rage | 233008 | [233008-active-dbg-braves-rage.json](./233008-active-dbg-braves-rage.json) |
