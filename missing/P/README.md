@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantheon | 128470 | [128470-pantheon.json](./128470-pantheon.json) |
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
 | Panther Family Sim | 101550 | [101550-panther-family-sim.json](./101550-panther-family-sim.json) |
+| Panther Online | 145951 | [145951-panther-online.json](./145951-panther-online.json) |
 | Panther Simulator | 104625 | [104625-panther-simulator.json](./104625-panther-simulator.json) |
 | Panther Superhero City Battle | 86802 | [86802-panther-superhero-city-battle.json](./86802-panther-superhero-city-battle.json) |
 | Panthera Frontier | 193725 | [193725-panthera-frontier.json](./193725-panthera-frontier.json) |
@@ -1966,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Kid 3 | 37721 | [37721-pc-kid-3.json](./37721-pc-kid-3.json) |
 | PC Mus | 327335 | [327335-pc-mus.json](./327335-pc-mus.json) |
 | PC Pool | 86039 | [86039-pc-pool.json](./86039-pc-pool.json) |
+| PC Reciclator | 145894 | [145894-pc-reciclator.json](./145894-pc-reciclator.json) |
 | PC Selección Española de Fútbol Eurocopa '96 | 84224 | [84224-pc-seleccion-espanola-de-futbol-eurocopa-96.json](./84224-pc-seleccion-espanola-de-futbol-eurocopa-96.json) |
 | PC Store Simulator | 346167 | [346167-pc-store-simulator.json](./346167-pc-store-simulator.json) |
 | PC Versus | 391571 | [391571-pc-versus.json](./391571-pc-versus.json) |
@@ -2469,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Permafrost | 302147 | [302147-permafrost.json](./302147-permafrost.json) |
 | Perman | 346037 | [346037-perman.json](./346037-perman.json) |
 | Perman World | 346040 | [346040-perman-world.json](./346040-perman-world.json) |
+| Permanence | 145927 | [145927-permanence.json](./145927-permanence.json) |
 | Permanence TD | 195256 | [195256-permanence-td.json](./195256-permanence-td.json) |
 | Permanent Daylight | 62194 | [62194-permanent-daylight.json](./62194-permanent-daylight.json) |
 | Permanent Sleep | 220742 | [220742-permanent-sleep.json](./220742-permanent-sleep.json) |
@@ -5658,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon 2000 Adventure Game | 254167 | [254167-pokemon-2000-adventure-game.json](./254167-pokemon-2000-adventure-game.json) |
 | Pokémon 3D | 240935 | [240935-pokemon-3d.json](./240935-pokemon-3d.json) |
 | Pokémon Advanced: Cyber Poké Ball 2 | 245422 | [245422-pokemon-advanced-cyber-poke-ball-2.json](./245422-pokemon-advanced-cyber-poke-ball-2.json) |
+| Pokémon Adventures: Red Chapter | 145931 | [145931-pokemon-adventures-red-chapter.json](./145931-pokemon-adventures-red-chapter.json) |
 | Pokémon Ageless | 360182 | [360182-pokemon-ageless.json](./360182-pokemon-ageless.json) |
 | Pokémon Alpha Sapphire | 6898 | [6898-pokemon-alpha-sapphire.json](./6898-pokemon-alpha-sapphire.json) |
 | Pokémon Altair | 129807 | [129807-pokemon-altair.json](./129807-pokemon-altair.json) |
@@ -7344,6 +7348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predecessor | 115078 | [115078-predecessor.json](./115078-predecessor.json) |
 | Predefined | 253585 | [253585-predefined.json](./253585-predefined.json) |
 | Predestination | 35997 | [35997-predestination.json](./35997-predestination.json) |
+| Predetermined | 145924 | [145924-predetermined.json](./145924-predetermined.json) |
 | Predictile | 304890 | [304890-predictile.json](./304890-predictile.json) |
 | Prediction Game | 255019 | [255019-prediction-game.json](./255019-prediction-game.json) |
 | Predictors | 219666 | [219666-predictors.json](./219666-predictors.json) |
