@@ -2443,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshmallow Melee | 67600 | [67600-marshmallow-melee.json](./67600-marshmallow-melee.json) |
 | Marshmallow Nights | 177833 | [177833-marshmallow-nights.json](./177833-marshmallow-nights.json) |
 | Marshmallow Penguins VR | 185433 | [185433-marshmallow-penguins-vr.json](./185433-marshmallow-penguins-vr.json) |
+| Marshmallow Tank | 132572 | [132572-marshmallow-tank.json](./132572-marshmallow-tank.json) |
 | Marshmellow Day Spa | 114153 | [114153-marshmellow-day-spa.json](./114153-marshmellow-day-spa.json) |
 | Marsi's Adventures | 228375 | [228375-marsis-adventures.json](./228375-marsis-adventures.json) |
 | Marsport | 45327 | [45327-marsport.json](./45327-marsport.json) |
@@ -3416,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Ball Neon | 176367 | [176367-maze-ball-neon.json](./176367-maze-ball-neon.json) |
 | Maze Bandit | 43177 | [43177-maze-bandit.json](./43177-maze-bandit.json) |
 | Maze Blaze | 219287 | [219287-maze-blaze.json](./219287-maze-blaze.json) |
+| Maze Burrow | 132586 | [132586-maze-burrow.json](./132586-maze-burrow.json) |
 | Maze City: A Cyberpunk Lost and Found Centre | 217241 | [217241-maze-city-a-cyberpunk-lost-and-found-centre.json](./217241-maze-city-a-cyberpunk-lost-and-found-centre.json) |
 | Maze Company | 326093 | [326093-maze-company.json](./326093-maze-company.json) |
 | Maze Crusher | 104827 | [104827-maze-crusher.json](./104827-maze-crusher.json) |
@@ -6923,6 +6925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minifeg: The Search | 170349 | [170349-minifeg-the-search.json](./170349-minifeg-the-search.json) |
 | Minifiend | 253034 | [253034-minifiend.json](./253034-minifiend.json) |
 | Minigame 3-hon Pack | 227750 | [227750-minigame-3-hon-pack.json](./227750-minigame-3-hon-pack.json) |
+| Minigame Blast | 132597 | [132597-minigame-blast.json](./132597-minigame-blast.json) |
 | Minigame Game | 231333 | [231333-minigame-game.json](./231333-minigame-game.json) |
 | Minigame Madness | 142964 | [142964-minigame-madness.json](./142964-minigame-madness.json) |
 | Minigame Party | 257648 | [257648-minigame-party.json](./257648-minigame-party.json) |
@@ -11088,6 +11091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovely Family Bundle | 223563 | [223563-my-lovely-family-bundle.json](./223563-my-lovely-family-bundle.json) |
 | My Lovely Flower | 373659 | [373659-my-lovely-flower.json](./373659-my-lovely-flower.json) |
 | My Lovely Noblewomen | 148339 | [148339-my-lovely-noblewomen.json](./148339-my-lovely-noblewomen.json) |
+| My Lovely Wife | 132573 | [132573-my-lovely-wife.json](./132573-my-lovely-wife.json) |
 | My Lovely Wife: Deluxe Edition | 227184 | [227184-my-lovely-wife-deluxe-edition.json](./227184-my-lovely-wife-deluxe-edition.json) |
 | My Lovey-Dovey Angel Is a Total Deadbeat: Seriously Scary! | 411717 | [411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json](./411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json) |
 | My Low Poly City | 163892 | [163892-my-low-poly-city.json](./163892-my-low-poly-city.json) |
