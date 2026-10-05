@@ -708,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Whittle Tale | 384174 | [384174-a-whittle-tale.json](./384174-a-whittle-tale.json) |
 | A Whole Wolfrush | 329682 | [329682-a-whole-wolfrush.json](./329682-a-whole-wolfrush.json) |
 | A Wild Heist | 390106 | [390106-a-wild-heist.json](./390106-a-wild-heist.json) |
+| A Wild Time Travelling Clone Dancing | 128952 | [128952-a-wild-time-travelling-clone-dancing.json](./128952-a-wild-time-travelling-clone-dancing.json) |
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
 | A Winter's Daydream | 110460 | [110460-a-winters-daydream.json](./110460-a-winters-daydream.json) |
 | A Wish Star | 308887 | [308887-a-wish-star.json](./308887-a-wish-star.json) |
@@ -8873,6 +8874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audioshield | 18981 | [18981-audioshield.json](./18981-audioshield.json) |
 | Audiospeed | 415896 | [415896-audiospeed.json](./415896-audiospeed.json) |
 | Audiosurf 2 | 9707 | [9707-audiosurf-2.json](./9707-audiosurf-2.json) |
+| AudioWizards | 129054 | [129054-audiowizards.json](./129054-audiowizards.json) |
 | Audition 2 | 135805 | [135805-audition-2.json](./135805-audition-2.json) |
 | Audition Portable | 56520 | [56520-audition-portable.json](./56520-audition-portable.json) |
 | Auditorium | 15282 | [15282-auditorium.json](./15282-auditorium.json) |
@@ -9356,6 +9358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axe And Claw | 400457 | [400457-axe-and-claw.json](./400457-axe-and-claw.json) |
 | Axe Champ Shoot Out | 322659 | [322659-axe-champ-shoot-out.json](./322659-axe-champ-shoot-out.json) |
 | Axe Champ! | 107663 | [107663-axe-champ.json](./107663-axe-champ.json) |
+| Axe Cop | 128955 | [128955-axe-cop.json](./128955-axe-cop.json) |
 | Axe Ghost | 295353 | [295353-axe-ghost.json](./295353-axe-ghost.json) |
 | Axe Girl | 149556 | [149556-axe-girl.json](./149556-axe-girl.json) |
 | Axe of Janissary | 233619 | [233619-axe-of-janissary.json](./233619-axe-of-janissary.json) |
