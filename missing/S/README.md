@@ -1685,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schwarzerblitz | 118188 | [118188-schwarzerblitz.json](./118188-schwarzerblitz.json) |
 | Schwarzesmarken Kouketsu no Monshou / Junkyousha-tachi | 86089 | [86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json](./86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json) |
 | Schwebebahn Simulator 2013 | 241490 | [241490-schwebebahn-simulator-2013.json](./241490-schwebebahn-simulator-2013.json) |
+| Schwerkraftprojektionsgerät | 139155 | [139155-schwerkraftprojektionsgerat.json](./139155-schwerkraftprojektionsgerat.json) |
 | Sci-Fi Channel Trivia Game | 98802 | [98802-sci-fi-channel-trivia-game.json](./98802-sci-fi-channel-trivia-game.json) |
 | Sci-Fi Racer Simulator | 283245 | [283245-sci-fi-racer-simulator.json](./283245-sci-fi-racer-simulator.json) |
 | Scicry | 390206 | [390206-scicry.json](./390206-scicry.json) |
@@ -4174,6 +4175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shawarma Wars | 385562 | [385562-shawarma-wars.json](./385562-shawarma-wars.json) |
 | Shawl | 56527 | [56527-shawl.json](./56527-shawl.json) |
 | Shaylushay Treasure Expedition | 275715 | [275715-shaylushay-treasure-expedition.json](./275715-shaylushay-treasure-expedition.json) |
+| Shaype | 139158 | [139158-shaype.json](./139158-shaype.json) |
 | Shazabi and the Cantina Catacombs | 230542 | [230542-shazabi-and-the-cantina-catacombs.json](./230542-shazabi-and-the-cantina-catacombs.json) |
 | She Couldn't Do Anything | 401048 | [401048-she-couldnt-do-anything.json](./401048-she-couldnt-do-anything.json) |
 | She Danced in the Wind Like a Holographic Dream Before the World Died | 390004 | [390004-she-danced-in-the-wind-like-a-holographic-dream-before-the-world-died.json](./390004-she-danced-in-the-wind-like-a-holographic-dream-before-the-world-died.json) |
@@ -5438,6 +5440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege Hammer | 31105 | [31105-siege-hammer.json](./31105-siege-hammer.json) |
 | Siege of Avalon | 9382 | [9382-siege-of-avalon.json](./9382-siege-of-avalon.json) |
 | Siege of Centauri | 116002 | [116002-siege-of-centauri.json](./116002-siege-of-centauri.json) |
+| Siege of Darkwood | 139162 | [139162-siege-of-darkwood.json](./139162-siege-of-darkwood.json) |
 | Siege of Dragonspear | 174209 | [174209-siege-of-dragonspear.json](./174209-siege-of-dragonspear.json) |
 | Siege of Dungeon | 204934 | [204934-siege-of-dungeon.json](./204934-siege-of-dungeon.json) |
 | Siege of Osaka | 239181 | [239181-siege-of-osaka.json](./239181-siege-of-osaka.json) |
@@ -5767,6 +5770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverwood Bay: An Eleanor Grey Mystery | 291246 | [291246-silverwood-bay-an-eleanor-grey-mystery.json](./291246-silverwood-bay-an-eleanor-grey-mystery.json) |
 | Silverworld | 98770 | [98770-silverworld.json](./98770-silverworld.json) |
 | Silverybield Foss | 138778 | [138778-silverybield-foss.json](./138778-silverybield-foss.json) |
+| Sim Cinema Deluxe | 139154 | [139154-sim-cinema-deluxe.json](./139154-sim-cinema-deluxe.json) |
 | SIM Dispatcher | 140311 | [140311-sim-dispatcher.json](./140311-sim-dispatcher.json) |
 | Sim Empire | 116820 | [116820-sim-empire.json](./116820-sim-empire.json) |
 | Sim Junta | 34748 | [34748-sim-junta.json](./34748-sim-junta.json) |
@@ -8457,6 +8461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer 3 | 346767 | [346767-soccer-3.json](./346767-soccer-3.json) |
 | Soccer 86 | 98233 | [98233-soccer-86.json](./98233-soccer-86.json) |
 | Soccer Academy Simulator | 240841 | [240841-soccer-academy-simulator.json](./240841-soccer-academy-simulator.json) |
+| Soccer Adventures | 139187 | [139187-soccer-adventures.json](./139187-soccer-adventures.json) |
 | Soccer America International Cup | 43307 | [43307-soccer-america-international-cup.json](./43307-soccer-america-international-cup.json) |
 | Soccer Battle Royale | 108973 | [108973-soccer-battle-royale.json](./108973-soccer-battle-royale.json) |
 | Soccer Boss | 190209 | [190209-soccer-boss.json](./190209-soccer-boss.json) |
@@ -8741,6 +8746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solarpunk | 194950 | [194950-solarpunk.json](./194950-solarpunk.json) |
 | Solarpunk: Failed States | 187288 | [187288-solarpunk-failed-states.json](./187288-solarpunk-failed-states.json) |
 | Solarys The Witch of Fire | 301392 | [301392-solarys-the-witch-of-fire.json](./301392-solarys-the-witch-of-fire.json) |
+| Solas 128 | 139176 | [139176-solas-128.json](./139176-solas-128.json) |
 | Solas and the White Winter | 90830 | [90830-solas-and-the-white-winter.json](./90830-solas-and-the-white-winter.json) |
 | Solasta II | 325589 | [325589-solasta-ii.json](./325589-solasta-ii.json) |
 | Solasta: Crown of the Magister - Inner Strength | 219594 | [219594-solasta-crown-of-the-magister-inner-strength.json](./219594-solasta-crown-of-the-magister-inner-strength.json) |
@@ -9682,6 +9688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Zoom | 270223 | [270223-sonic-zoom.json](./270223-sonic-zoom.json) |
 | Sonic: After the Sequel | 19722 | [19722-sonic-after-the-sequel.json](./19722-sonic-after-the-sequel.json) |
 | Sonic: Before the Sequel | 19723 | [19723-sonic-before-the-sequel.json](./19723-sonic-before-the-sequel.json) |
+| Sonic: Before the Sequel - Aftermath | 139181 | [139181-sonic-before-the-sequel-aftermath.json](./139181-sonic-before-the-sequel-aftermath.json) |
 | Sonic: Before the Sequel - Redux | 266508 | [266508-sonic-before-the-sequel-redux.json](./266508-sonic-before-the-sequel-redux.json) |
 | Sonic: Between Worlds | 326163 | [326163-sonic-between-worlds.json](./326163-sonic-between-worlds.json) |
 | Sonic: Dark Abyss | 333709 | [333709-sonic-dark-abyss.json](./333709-sonic-dark-abyss.json) |
