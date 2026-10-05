@@ -2341,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is Mrs Peregrine? | 318772 | [318772-where-is-mrs-peregrine.json](./318772-where-is-mrs-peregrine.json) |
 | Where is my Brain!? | 29888 | [29888-where-is-my-brain.json](./29888-where-is-my-brain.json) |
 | Where Is My Cat | 302421 | [302421-where-is-my-cat.json](./302421-where-is-my-cat.json) |
+| Where Is My Family | 118792 | [118792-where-is-my-family.json](./118792-where-is-my-family.json) |
 | Where Is My Hat? | 345652 | [345652-where-is-my-hat.json](./345652-where-is-my-hat.json) |
 | Where is My Home? | 410996 | [410996-where-is-my-home.json](./410996-where-is-my-home.json) |
 | Where is my mind | 25764 | [25764-where-is-my-mind.json](./25764-where-is-my-mind.json) |
@@ -4632,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warships: Legends - Jump-Start 7 | 332050 | [332050-world-of-warships-legends-jump-start-7.json](./332050-world-of-warships-legends-jump-start-7.json) |
 | World of Warships: Legends - Lead the Way | 332051 | [332051-world-of-warships-legends-lead-the-way.json](./332051-world-of-warships-legends-lead-the-way.json) |
 | World of Warships: Legends - Pilgrim From Devon | 332053 | [332053-world-of-warships-legends-pilgrim-from-devon.json](./332053-world-of-warships-legends-pilgrim-from-devon.json) |
+| World of Warships: Legends - Ultimate Edition | 118739 | [118739-world-of-warships-legends-ultimate-edition.json](./118739-world-of-warships-legends-ultimate-edition.json) |
 | World of Warships: Legends - United Force | 332054 | [332054-world-of-warships-legends-united-force.json](./332054-world-of-warships-legends-united-force.json) |
 | World of Warships: Starter Pack - Ishizuchi | 223475 | [223475-world-of-warships-starter-pack-ishizuchi.json](./223475-world-of-warships-starter-pack-ishizuchi.json) |
 | World of Wimmelbild | 92610 | [92610-world-of-wimmelbild.json](./92610-world-of-wimmelbild.json) |
@@ -4643,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World on Fire | 117171 | [117171-world-on-fire.json](./117171-world-on-fire.json) |
 | World on Paper | 307572 | [307572-world-on-paper.json](./307572-world-on-paper.json) |
 | World Peace Simulator 2019 | 115170 | [115170-world-peace-simulator-2019.json](./115170-world-peace-simulator-2019.json) |
+| World Ping Pong Championship | 118890 | [118890-world-ping-pong-championship.json](./118890-world-ping-pong-championship.json) |
 | World Poker Championship | 68635 | [68635-world-poker-championship.json](./68635-world-poker-championship.json) |
 | World Poker Tour | 220133 | [220133-world-poker-tour.json](./220133-world-poker-tour.json) |
 | World Poker Tour | 23148 | [23148-world-poker-tour.json](./23148-world-poker-tour.json) |
