@@ -2017,6 +2017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infested: Space Colony | 148929 | [148929-infested-space-colony.json](./148929-infested-space-colony.json) |
 | Infestor | 146841 | [146841-infestor.json](./146841-infestor.json) |
 | Infestus | 235456 | [235456-infestus.json](./235456-infestus.json) |
+| Infferno | 127724 | [127724-infferno.json](./127724-infferno.json) |
 | Infidel | 12157 | [12157-infidel.json](./12157-infidel.json) |
 | Infierno Rubí | 294232 | [294232-infierno-rubi.json](./294232-infierno-rubi.json) |
 | Infiltrate | 22413 | [22413-infiltrate.json](./22413-infiltrate.json) |
@@ -3158,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Frontier | 224787 | [224787-iron-frontier.json](./224787-iron-frontier.json) |
 | Iron Grip: Marauders | 50831 | [50831-iron-grip-marauders.json](./50831-iron-grip-marauders.json) |
 | Iron Guard | 226148 | [226148-iron-guard.json](./226148-iron-guard.json) |
+| Iron Guard VR | 127726 | [127726-iron-guard-vr.json](./127726-iron-guard-vr.json) |
 | Iron Hammer | 210601 | [210601-iron-hammer.json](./210601-iron-hammer.json) |
 | Iron Helix | 5394 | [5394-iron-helix.json](./5394-iron-helix.json) |
 | Iron Hunters | 296943 | [296943-iron-hunters.json](./296943-iron-hunters.json) |
