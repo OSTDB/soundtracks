@@ -6928,3 +6928,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyspherical | 128546 | [128546-hyspherical.json](./128546-hyspherical.json) |
 | Hysteria Project 2 | 20623 | [20623-hysteria-project-2.json](./20623-hysteria-project-2.json) |
 | Hysteric Mama | 385329 | [385329-hysteric-mama.json](./385329-hysteric-mama.json) |
+| Hyzer Sky | 138566 | [138566-hyzer-sky.json](./138566-hyzer-sky.json) |
