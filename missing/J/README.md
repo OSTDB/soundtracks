@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeam's Big Day | 185606 | [185606-jeams-big-day.json](./185606-jeams-big-day.json) |
 | Jean's Club | 197845 | [197845-jeans-club.json](./197845-jeans-club.json) |
 | Jected: Rivals | 206966 | [206966-jected-rivals.json](./206966-jected-rivals.json) |
+| Jeebo & Jerbo vs. Life | 171985 | [171985-jeebo-and-jerbo-vs-life.json](./171985-jeebo-and-jerbo-vs-life.json) |
 | Jeeboman | 34688 | [34688-jeeboman.json](./34688-jeeboman.json) |
 | Jeep Jamboree: Off Road Adventure | 48979 | [48979-jeep-jamboree-off-road-adventure.json](./48979-jeep-jamboree-off-road-adventure.json) |
 | Jeepney Frenzy | 176468 | [176468-jeepney-frenzy.json](./176468-jeepney-frenzy.json) |
