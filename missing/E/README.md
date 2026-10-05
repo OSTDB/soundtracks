@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Ring: Launch Edition | 180259 | [180259-elden-ring-launch-edition.json](./180259-elden-ring-launch-edition.json) |
 | Elden Ring: Nightreign - Seeker's Edition | 375852 | [375852-elden-ring-nightreign-seekers-edition.json](./375852-elden-ring-nightreign-seekers-edition.json) |
 | Elden Ring: Shadow of the Erdtree Edition | 287975 | [287975-elden-ring-shadow-of-the-erdtree-edition.json](./287975-elden-ring-shadow-of-the-erdtree-edition.json) |
+| Elder Gate | 166660 | [166660-elder-gate.json](./166660-elder-gate.json) |
 | Elder Kings II | 225709 | [225709-elder-kings-ii.json](./225709-elder-kings-ii.json) |
 | Elder Lich | 325514 | [325514-elder-lich.json](./325514-elder-lich.json) |
 | Elder Ring | 351154 | [351154-elder-ring.json](./351154-elder-ring.json) |
@@ -1934,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Rush | 261857 | [261857-endless-rush.json](./261857-endless-rush.json) |
 | Endless Salvation | 333168 | [333168-endless-salvation.json](./333168-endless-salvation.json) |
 | Endless Samurai | 235740 | [235740-endless-samurai.json](./235740-endless-samurai.json) |
+| Endless Season | 166583 | [166583-endless-season.json](./166583-endless-season.json) |
 | Endless Shift | 374831 | [374831-endless-shift.json](./374831-endless-shift.json) |
 | Endless Siege Online | 218696 | [218696-endless-siege-online.json](./218696-endless-siege-online.json) |
 | Endless Silent Night | 404330 | [404330-endless-silent-night.json](./404330-endless-silent-night.json) |
@@ -2255,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ephemeral Legend | 274979 | [274979-ephemeral-legend.json](./274979-ephemeral-legend.json) |
 | Ephemeral Tale | 127247 | [127247-ephemeral-tale.json](./127247-ephemeral-tale.json) |
 | Ephemeral: Miniature Garden | 222866 | [222866-ephemeral-miniature-garden.json](./222866-ephemeral-miniature-garden.json) |
+| Ephemreal | 166572 | [166572-ephemreal.json](./166572-ephemreal.json) |
 | Epi-Derick | 372481 | [372481-epi-derick.json](./372481-epi-derick.json) |
 | Epic | 12066 | [12066-epic.json](./12066-epic.json) |
 | Epic | 342746 | [342746-epic.json](./342746-epic.json) |
@@ -2314,14 +2317,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Roller Coasters: Antarctica | 255133 | [255133-epic-roller-coasters-antarctica.json](./255133-epic-roller-coasters-antarctica.json) |
 | Epic Roller Coasters: Armageddon | 166647 | [166647-epic-roller-coasters-armageddon.json](./166647-epic-roller-coasters-armageddon.json) |
 | Epic Roller Coasters: Candyland | 243695 | [243695-epic-roller-coasters-candyland.json](./243695-epic-roller-coasters-candyland.json) |
+| Epic Roller Coasters: Dread Blood | 166654 | [166654-epic-roller-coasters-dread-blood.json](./166654-epic-roller-coasters-dread-blood.json) |
 | Epic Roller Coasters: Dynasty Dash | 310053 | [310053-epic-roller-coasters-dynasty-dash.json](./310053-epic-roller-coasters-dynasty-dash.json) |
 | Epic Roller Coasters: Great Canyon | 166642 | [166642-epic-roller-coasters-great-canyon.json](./166642-epic-roller-coasters-great-canyon.json) |
+| Epic Roller Coasters: Halloween | 166653 | [166653-epic-roller-coasters-halloween.json](./166653-epic-roller-coasters-halloween.json) |
 | Epic Roller Coasters: Haunted Castle | 166645 | [166645-epic-roller-coasters-haunted-castle.json](./166645-epic-roller-coasters-haunted-castle.json) |
 | Epic Roller Coasters: Kelimutu | 253960 | [253960-epic-roller-coasters-kelimutu.json](./253960-epic-roller-coasters-kelimutu.json) |
+| Epic Roller Coasters: Lost Forest | 166651 | [166651-epic-roller-coasters-lost-forest.json](./166651-epic-roller-coasters-lost-forest.json) |
 | Epic Roller Coasters: Neon Rider | 166648 | [166648-epic-roller-coasters-neon-rider.json](./166648-epic-roller-coasters-neon-rider.json) |
+| Epic Roller Coasters: North Pole | 166652 | [166652-epic-roller-coasters-north-pole.json](./166652-epic-roller-coasters-north-pole.json) |
+| Epic Roller Coasters: Oasis | 166650 | [166650-epic-roller-coasters-oasis.json](./166650-epic-roller-coasters-oasis.json) |
 | Epic Roller Coasters: Snow Land | 166643 | [166643-epic-roller-coasters-snow-land.json](./166643-epic-roller-coasters-snow-land.json) |
+| Epic Roller Coasters: Space Station | 166655 | [166655-epic-roller-coasters-space-station.json](./166655-epic-roller-coasters-space-station.json) |
 | Epic Roller Coasters: T-Rex Kingdom | 166646 | [166646-epic-roller-coasters-t-rex-kingdom.json](./166646-epic-roller-coasters-t-rex-kingdom.json) |
 | Epic Roller Coasters: Tuwhena Volcano | 166641 | [166641-epic-roller-coasters-tuwhena-volcano.json](./166641-epic-roller-coasters-tuwhena-volcano.json) |
+| Epic Roller Coasters: Twilight | 166649 | [166649-epic-roller-coasters-twilight.json](./166649-epic-roller-coasters-twilight.json) |
 | Epic Roller Coasters: Wyvern Siege | 166644 | [166644-epic-roller-coasters-wyvern-siege.json](./166644-epic-roller-coasters-wyvern-siege.json) |
 | Epic Sax Game | 414339 | [414339-epic-sax-game.json](./414339-epic-sax-game.json) |
 | Epic Showdown | 34365 | [34365-epic-showdown.json](./34365-epic-showdown.json) |
