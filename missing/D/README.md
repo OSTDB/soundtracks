@@ -1435,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | David Leadbetter's Greens | 71545 | [71545-david-leadbetters-greens.json](./71545-david-leadbetters-greens.json) |
 | David: Dawn of a King | 335480 | [335480-david-dawn-of-a-king.json](./335480-david-dawn-of-a-king.json) |
 | Davidic Matchup | 84178 | [84178-davidic-matchup.json](./84178-davidic-matchup.json) |
+| Davigo | 121403 | [121403-davigo.json](./121403-davigo.json) |
 | Davis Cup | 172597 | [172597-davis-cup.json](./172597-davis-cup.json) |
 | Davis Haunted House | 340942 | [340942-davis-haunted-house.json](./340942-davis-haunted-house.json) |
 | Davy Jones Dating Simulator | 282710 | [282710-davy-jones-dating-simulator.json](./282710-davy-jones-dating-simulator.json) |
@@ -3529,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dentist kids Hospital Simulation Teeth Surgery | 101950 | [101950-dentist-kids-hospital-simulation-teeth-surgery.json](./101950-dentist-kids-hospital-simulation-teeth-surgery.json) |
 | Dentures and Demons 2 | 145008 | [145008-dentures-and-demons-2.json](./145008-dentures-and-demons-2.json) |
 | Deodar | 360742 | [360742-deodar.json](./360742-deodar.json) |
+| Deorum Online | 121412 | [121412-deorum-online.json](./121412-deorum-online.json) |
 | Deosurge | 183080 | [183080-deosurge.json](./183080-deosurge.json) |
 | Departed Away | 265112 | [265112-departed-away.json](./265112-departed-away.json) |
 | Department of Collections | 306029 | [306029-department-of-collections.json](./306029-department-of-collections.json) |
