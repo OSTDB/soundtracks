@@ -3313,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Winter Sports 1986 | 197241 | [197241-retro-winter-sports-1986.json](./197241-retro-winter-sports-1986.json) |
 | Retro World | 3229 | [3229-retro-world.json](./3229-retro-world.json) |
 | Retro-Bit Generations | 275244 | [275244-retro-bit-generations.json](./275244-retro-bit-generations.json) |
+| Retro/Grade + Soundtrack | 121420 | [121420-retro-grade-soundtrack.json](./121420-retro-grade-soundtrack.json) |
 | Retro64 | 198234 | [198234-retro64.json](./198234-retro64.json) |
 | RetroBlazer | 322198 | [322198-retroblazer.json](./322198-retroblazer.json) |
 | Retrobound | 149506 | [149506-retrobound.json](./149506-retrobound.json) |
