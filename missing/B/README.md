@@ -7509,6 +7509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowser's Valley | 268009 | [268009-bowsers-valley.json](./268009-bowsers-valley.json) |
 | Bowslinger | 33088 | [33088-bowslinger.json](./33088-bowslinger.json) |
 | Box | 130782 | [130782-box.json](./130782-box.json) |
+| Box | 131332 | [131332-box.json](./131332-box.json) |
 | Box #341 | 333631 | [333631-box-341.json](./333631-box-341.json) |
 | Box A Chocolate | 112285 | [112285-box-a-chocolate.json](./112285-box-a-chocolate.json) |
 | Box Align | 86312 | [86312-box-align.json](./86312-box-align.json) |
