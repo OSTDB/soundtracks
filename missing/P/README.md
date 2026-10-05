@@ -6287,6 +6287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polku! | 366380 | [366380-polku.json](./366380-polku.json) |
 | Pollinate or Die | 381615 | [381615-pollinate-or-die.json](./381615-pollinate-or-die.json) |
 | Pollucean | 347792 | [347792-pollucean.json](./347792-pollucean.json) |
+| Pollute & Conquer | 161221 | [161221-pollute-and-conquer.json](./161221-pollute-and-conquer.json) |
 | Polluted Flesh | 416117 | [416117-polluted-flesh.json](./416117-polluted-flesh.json) |
 | Pollution | 316416 | [316416-pollution.json](./316416-pollution.json) |
 | Pollux | 40255 | [40255-pollux.json](./40255-pollux.json) |
