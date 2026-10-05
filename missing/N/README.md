@@ -3038,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nixxsz Maids Blazing | 292303 | [292303-nixxsz-maids-blazing.json](./292303-nixxsz-maids-blazing.json) |
 | Nixy and the Seeds of Doom | 363459 | [363459-nixy-and-the-seeds-of-doom.json](./363459-nixy-and-the-seeds-of-doom.json) |
 | Njuma | 287740 | [287740-njuma.json](./287740-njuma.json) |
+| NKCell | 169816 | [169816-nkcell.json](./169816-nkcell.json) |
 | Nkodice | 150587 | [150587-nkodice.json](./150587-nkodice.json) |
 | Nl | 178434 | [178434-nl.json](./178434-nl.json) |
 | NLdle | 342051 | [342051-nldle.json](./342051-nldle.json) |
@@ -3349,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocko | 157004 | [157004-nocko.json](./157004-nocko.json) |
 | Nocky el Armadillo | 372048 | [372048-nocky-el-armadillo.json](./372048-nocky-el-armadillo.json) |
 | Noct | 12978 | [12978-noct.json](./12978-noct.json) |
+| Noctem | 169754 | [169754-noctem.json](./169754-noctem.json) |
 | Noctiria | 409759 | [409759-noctiria.json](./409759-noctiria.json) |
 | Noctropolis | 243766 | [243766-noctropolis.json](./243766-noctropolis.json) |
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
