@@ -4385,6 +4385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitee Wars | 245575 | [245575-gravitee-wars.json](./245575-gravitee-wars.json) |
 | Graviton | 122382 | [122382-graviton.json](./122382-graviton.json) |
 | Graviton Flux | 371957 | [371957-graviton-flux.json](./371957-graviton-flux.json) |
+| GravitreX Arcade | 159635 | [159635-gravitrex-arcade.json](./159635-gravitrex-arcade.json) |
 | Gravitrex Plus | 63811 | [63811-gravitrex-plus.json](./63811-gravitrex-plus.json) |
 | Gravitrix | 365770 | [365770-gravitrix.json](./365770-gravitrix.json) |
 | Gravitron | 69925 | [69925-gravitron.json](./69925-gravitron.json) |
@@ -5637,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundemonium Collection | 138096 | [138096-gundemonium-collection.json](./138096-gundemonium-collection.json) |
 | Gundemonium Recollection | 27949 | [27949-gundemonium-recollection.json](./27949-gundemonium-recollection.json) |
 | Gundemoniums | 187858 | [187858-gundemoniums.json](./187858-gundemoniums.json) |
+| Gunderdome | 159758 | [159758-gunderdome.json](./159758-gunderdome.json) |
 | Gundertale | 336351 | [336351-gundertale.json](./336351-gundertale.json) |
 | Gundham's Calamitous Quest for Coochie | 227212 | [227212-gundhams-calamitous-quest-for-coochie.json](./227212-gundhams-calamitous-quest-for-coochie.json) |
 | Gundhara: Juudan Arashi | 37336 | [37336-gundhara-juudan-arashi.json](./37336-gundhara-juudan-arashi.json) |
