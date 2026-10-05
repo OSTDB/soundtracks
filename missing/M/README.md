@@ -1638,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mango's Wonderland | 252283 | [252283-mangos-wonderland.json](./252283-mangos-wonderland.json) |
 | MangoMan | 183471 | [183471-mangoman.json](./183471-mangoman.json) |
 | MangueBoy | 279241 | [279241-mangueboy.json](./279241-mangueboy.json) |
+| ManGuin: Penguin Apocalypse | 130704 | [130704-manguin-penguin-apocalypse.json](./130704-manguin-penguin-apocalypse.json) |
 | ManHandler | 243689 | [243689-manhandler.json](./243689-manhandler.json) |
 | Manhattan Dealers | 10846 | [10846-manhattan-dealers.json](./10846-manhattan-dealers.json) |
 | Manhattan Dolls | 265329 | [265329-manhattan-dolls.json](./265329-manhattan-dolls.json) |
@@ -1818,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Champions | 276739 | [276739-marble-champions.json](./276739-marble-champions.json) |
 | Marble Drop | 360629 | [360629-marble-drop.json](./360629-marble-drop.json) |
 | Marble Evolution | 419960 | [419960-marble-evolution.json](./419960-marble-evolution.json) |
+| Marble It Up: Mayhem! | 130696 | [130696-marble-it-up-mayhem.json](./130696-marble-it-up-mayhem.json) |
 | Marble Jetpack | 26720 | [26720-marble-jetpack.json](./26720-marble-jetpack.json) |
 | Marble Knights | 141143 | [141143-marble-knights.json](./141143-marble-knights.json) |
 | Marble Machine | 58221 | [58221-marble-machine.json](./58221-marble-machine.json) |
@@ -2303,6 +2305,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MarioKart 64: Recompiled | 378347 | [378347-mariokart-64-recompiled.json](./378347-mariokart-64-recompiled.json) |
 | Marion Surgical Robot Game | 336905 | [336905-marion-surgical-robot-game.json](./336905-marion-surgical-robot-game.json) |
 | Marionette | 257518 | [257518-marionette.json](./257518-marionette.json) |
+| Marionette Company | 130709 | [130709-marionette-company.json](./130709-marionette-company.json) |
+| Marionette Company 2 Chu! | 130710 | [130710-marionette-company-2-chu.json](./130710-marionette-company-2-chu.json) |
 | Marionette lab | 152979 | [152979-marionette-lab.json](./152979-marionette-lab.json) |
 | MarionetteAI | 41970 | [41970-marionetteai.json](./41970-marionetteai.json) |
 | MarioQuest 2: Sonic Returns | 381729 | [381729-marioquest-2-sonic-returns.json](./381729-marioquest-2-sonic-returns.json) |
@@ -3422,6 +3426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Ball Neon | 176367 | [176367-maze-ball-neon.json](./176367-maze-ball-neon.json) |
 | Maze Bandit | 43177 | [43177-maze-bandit.json](./43177-maze-bandit.json) |
 | Maze Blaze | 219287 | [219287-maze-blaze.json](./219287-maze-blaze.json) |
+| Maze Breaker | 130695 | [130695-maze-breaker.json](./130695-maze-breaker.json) |
 | Maze Burrow | 132586 | [132586-maze-burrow.json](./132586-maze-burrow.json) |
 | Maze City: A Cyberpunk Lost and Found Centre | 217241 | [217241-maze-city-a-cyberpunk-lost-and-found-centre.json](./217241-maze-city-a-cyberpunk-lost-and-found-centre.json) |
 | Maze Company | 326093 | [326093-maze-company.json](./326093-maze-company.json) |
@@ -4620,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melting Hearts: Our Love Will Grow 2 | 33080 | [33080-melting-hearts-our-love-will-grow-2.json](./33080-melting-hearts-our-love-will-grow-2.json) |
 | Melting Moon | 280935 | [280935-melting-moon.json](./280935-melting-moon.json) |
 | Melting Point | 219668 | [219668-melting-point.json](./219668-melting-point.json) |
+| Meltwater | 130717 | [130717-meltwater.json](./130717-meltwater.json) |
 | Melty Amethyst | 307869 | [307869-melty-amethyst.json](./307869-melty-amethyst.json) |
 | Melty Blood Actress Again Current Code | 19943 | [19943-melty-blood-actress-again-current-code.json](./19943-melty-blood-actress-again-current-code.json) |
 | Melty Blood: Type Lumina | 145017 | [145017-melty-blood-type-lumina.json](./145017-melty-blood-type-lumina.json) |
@@ -5518,6 +5524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mezase Pachi Pro: Pachio-kun | 48776 | [48776-mezase-pachi-pro-pachio-kun.json](./48776-mezase-pachi-pro-pachio-kun.json) |
 | Mezase! Kanji Ou | 43962 | [43962-mezase-kanji-ou.json](./43962-mezase-kanji-ou.json) |
 | Mezase! Senkyu Ou | 166151 | [166151-mezase-senkyu-ou.json](./166151-mezase-senkyu-ou.json) |
+| Mezase! Shoujo Mangaka! Chao Manga School | 130715 | [130715-mezase-shoujo-mangaka-chao-manga-school.json](./130715-mezase-shoujo-mangaka-chao-manga-school.json) |
 | Mezase! Top Pro Green ni Kakeru Yume | 48775 | [48775-mezase-top-pro-green-ni-kakeru-yume.json](./48775-mezase-top-pro-green-ni-kakeru-yume.json) |
 | Mezase!! Tsuri Master DS | 345136 | [345136-mezase-tsuri-master-ds.json](./345136-mezase-tsuri-master-ds.json) |
 | Mezma's Revenge | 302504 | [302504-mezmas-revenge.json](./302504-mezmas-revenge.json) |
@@ -11797,6 +11804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythos: Slavic Builder | 150784 | [150784-mythos-slavic-builder.json](./150784-mythos-slavic-builder.json) |
 | Mythos: The Beginning | 36206 | [36206-mythos-the-beginning.json](./36206-mythos-the-beginning.json) |
 | Myths and Legends Bundle: Tunche & Black Book | 188026 | [188026-myths-and-legends-bundle-tunche-and-black-book.json](./188026-myths-and-legends-bundle-tunche-and-black-book.json) |
+| Myths and Legends Online | 130686 | [130686-myths-and-legends-online.json](./130686-myths-and-legends-online.json) |
 | Myths are 100% True | 307806 | [307806-myths-are-100-true.json](./307806-myths-are-100-true.json) |
 | Myths of Moonrise | 214170 | [214170-myths-of-moonrise.json](./214170-myths-of-moonrise.json) |
 | Myths of Rules | 262452 | [262452-myths-of-rules.json](./262452-myths-of-rules.json) |
