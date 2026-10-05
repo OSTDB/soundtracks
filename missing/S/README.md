@@ -7629,6 +7629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smelogs Playground | 182270 | [182270-smelogs-playground.json](./182270-smelogs-playground.json) |
 | Smelter | 119191 | [119191-smelter.json](./119191-smelter.json) |
 | Smelter: Collector's Edition | 205263 | [205263-smelter-collectors-edition.json](./205263-smelter-collectors-edition.json) |
+| Smerch Battle Arena | 158638 | [158638-smerch-battle-arena.json](./158638-smerch-battle-arena.json) |
 | SMH | 277393 | [277393-smh.json](./277393-smh.json) |
 | Smile | 129706 | [129706-smile.json](./129706-smile.json) |
 | Smile For Me: Collector's Edition | 229691 | [229691-smile-for-me-collectors-edition.json](./229691-smile-for-me-collectors-edition.json) |
