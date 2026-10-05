@@ -1706,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geography Champion | 105933 | [105933-geography-champion.json](./105933-geography-champion.json) |
 | GeographyHelp | 316158 | [316158-geographyhelp.json](./316158-geographyhelp.json) |
 | GeoGrid | 301361 | [301361-geogrid.json](./301361-geogrid.json) |
+| GeoGuess | 142736 | [142736-geoguess.json](./142736-geoguess.json) |
 | GeoGuessr: Steam Edition | 336739 | [336739-geoguessr-steam-edition.json](./336739-geoguessr-steam-edition.json) |
 | GeoHub | 268109 | [268109-geohub.json](./268109-geohub.json) |
 | GeoJelly | 232457 | [232457-geojelly.json](./232457-geojelly.json) |
@@ -3941,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grackon's Curse | 117020 | [117020-grackons-curse.json](./117020-grackons-curse.json) |
 | Grade Sword | 245883 | [245883-grade-sword.json](./245883-grade-sword.json) |
 | Grader Simulator: Road Work | 231948 | [231948-grader-simulator-road-work.json](./231948-grader-simulator-road-work.json) |
+| Gradiently | 142702 | [142702-gradiently.json](./142702-gradiently.json) |
 | Gradius | 1476 | [1476-gradius.json](./1476-gradius.json) |
 | Gradius | 213191 | [213191-gradius.json](./213191-gradius.json) |
 | Gradius | 262393 | [262393-gradius.json](./262393-gradius.json) |
@@ -4979,11 +4981,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Griptape Backbone | 29755 | [29755-griptape-backbone.json](./29755-griptape-backbone.json) |
 | Gris: Collector's Edition | 159211 | [159211-gris-collectors-edition.json](./159211-gris-collectors-edition.json) |
 | Grisaia Phantom Trigger 01&02 | 147935 | [147935-grisaia-phantom-trigger-01-and-02.json](./147935-grisaia-phantom-trigger-01-and-02.json) |
+| Grisaia Phantom Trigger 5.5 | 142700 | [142700-grisaia-phantom-trigger-5-5.json](./142700-grisaia-phantom-trigger-5-5.json) |
 | Grisaia Phantom Trigger 5.5 to 08 | 251593 | [251593-grisaia-phantom-trigger-5-5-to-08.json](./251593-grisaia-phantom-trigger-5-5-to-08.json) |
 | Grisaia Phantom Trigger Vol.3 | 43085 | [43085-grisaia-phantom-trigger-vol-3.json](./43085-grisaia-phantom-trigger-vol-3.json) |
 | Grisaia Phantom Trigger Vol.4 | 81678 | [81678-grisaia-phantom-trigger-vol-4.json](./81678-grisaia-phantom-trigger-vol-4.json) |
 | Grisaia Phantom Trigger Vol.5 | 104391 | [104391-grisaia-phantom-trigger-vol-5.json](./104391-grisaia-phantom-trigger-vol-5.json) |
 | Grisaia Phantom Trigger Vol.7 | 135819 | [135819-grisaia-phantom-trigger-vol-7.json](./135819-grisaia-phantom-trigger-vol-7.json) |
+| Grisaia: Phantom Trigger 01 to 05 | 142752 | [142752-grisaia-phantom-trigger-01-to-05.json](./142752-grisaia-phantom-trigger-01-to-05.json) |
 | Grisaia: Phantom Trigger Vol. 8 | 191896 | [191896-grisaia-phantom-trigger-vol-8.json](./191896-grisaia-phantom-trigger-vol-8.json) |
 | Grisly Grottos | 271845 | [271845-grisly-grottos.json](./271845-grisly-grottos.json) |
 | Grit & Gold | 310506 | [310506-grit-and-gold.json](./310506-grit-and-gold.json) |
