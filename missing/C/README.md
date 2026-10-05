@@ -9502,6 +9502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruel Collections: The Any Wish Hotel | 417719 | [417719-cruel-collections-the-any-wish-hotel.json](./417719-cruel-collections-the-any-wish-hotel.json) |
 | Cruel Jewels | 261327 | [261327-cruel-jewels.json](./261327-cruel-jewels.json) |
 | Cruel Reality: A Horrible Dream | 249868 | [249868-cruel-reality-a-horrible-dream.json](./249868-cruel-reality-a-horrible-dream.json) |
+| Cruel TD | 161721 | [161721-cruel-td.json](./161721-cruel-td.json) |
 | Cruel World | 73545 | [73545-cruel-world.json](./73545-cruel-world.json) |
 | Cruellete | 335676 | [335676-cruellete.json](./335676-cruellete.json) |
 | Cruelty | 402295 | [402295-cruelty.json](./402295-cruelty.json) |
