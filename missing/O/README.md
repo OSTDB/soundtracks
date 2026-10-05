@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Times | 294169 | [294169-old-times.json](./294169-old-times.json) |
 | Old Towers | 126017 | [126017-old-towers.json](./126017-old-towers.json) |
 | Old Town Bus Simulator | 250959 | [250959-old-town-bus-simulator.json](./250959-old-town-bus-simulator.json) |
+| Old Town Stories | 127008 | [127008-old-town-stories.json](./127008-old-town-stories.json) |
 | Old Watch | 76681 | [76681-old-watch.json](./76681-old-watch.json) |
 | Old World Blues | 321740 | [321740-old-world-blues.json](./321740-old-world-blues.json) |
 | Old World: Empires of the Indus | 400418 | [400418-old-world-empires-of-the-indus.json](./400418-old-world-empires-of-the-indus.json) |
@@ -2057,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orb of Millean | 301440 | [301440-orb-of-millean.json](./301440-orb-of-millean.json) |
 | Orb Of The Watcher | 285969 | [285969-orb-of-the-watcher.json](./285969-orb-of-the-watcher.json) |
 | Orb Overload | 151146 | [151146-orb-overload.json](./151146-orb-overload.json) |
+| Orb Rivals | 126976 | [126976-orb-rivals.json](./126976-orb-rivals.json) |
 | Orb Runner | 145934 | [145934-orb-runner.json](./145934-orb-runner.json) |
 | Orb Slide Dodge Danger | 369183 | [369183-orb-slide-dodge-danger.json](./369183-orb-slide-dodge-danger.json) |
 | Orb Tower | 331951 | [331951-orb-tower.json](./331951-orb-tower.json) |
