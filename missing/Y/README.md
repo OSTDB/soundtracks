@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow Taxi Goes Vroom | 216805 | [216805-yellow-taxi-goes-vroom.json](./216805-yellow-taxi-goes-vroom.json) |
 | Yellow Trouble | 324941 | [324941-yellow-trouble.json](./324941-yellow-trouble.json) |
 | Yellow: The Yellow Artifact | 32437 | [32437-yellow-the-yellow-artifact.json](./32437-yellow-the-yellow-artifact.json) |
+| YellowDream | 134484 | [134484-yellowdream.json](./134484-yellowdream.json) |
 | YellowPips | 384185 | [384185-yellowpips.json](./384185-yellowpips.json) |
 | Yemon | 107928 | [107928-yemon.json](./107928-yemon.json) |
 | Yenemy | 248728 | [248728-yenemy.json](./248728-yenemy.json) |
