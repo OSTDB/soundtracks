@@ -1502,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey Of The Light | 370850 | [370850-journey-of-the-light.json](./370850-journey-of-the-light.json) |
 | Journey of the Sword | 72348 | [72348-journey-of-the-sword.json](./72348-journey-of-the-sword.json) |
 | Journey of the World | 119676 | [119676-journey-of-the-world.json](./119676-journey-of-the-world.json) |
+| Journey of Wrestling | 144618 | [144618-journey-of-wrestling.json](./144618-journey-of-wrestling.json) |
 | Journey On | 154023 | [154023-journey-on.json](./154023-journey-on.json) |
 | Journey Record | 265961 | [265961-journey-record.json](./265961-journey-record.json) |
 | Journey Through the Nightmare Realm II | 347683 | [347683-journey-through-the-nightmare-realm-ii.json](./347683-journey-through-the-nightmare-realm-ii.json) |
