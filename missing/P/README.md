@@ -6362,6 +6362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyBoost | 172681 | [172681-polyboost.json](./172681-polyboost.json) |
 | Polybot-7 | 97849 | [97849-polybot-7.json](./97849-polybot-7.json) |
 | PolyBoy War | 268134 | [268134-polyboy-war.json](./268134-polyboy-war.json) |
+| Polycalypse: Last Bit of Hope | 158090 | [158090-polycalypse-last-bit-of-hope.json](./158090-polycalypse-last-bit-of-hope.json) |
 | Polycar Blitz | 334266 | [334266-polycar-blitz.json](./334266-polycar-blitz.json) |
 | Polychoron | 151664 | [151664-polychoron.json](./151664-polychoron.json) |
 | Polychrome | 362975 | [362975-polychrome.json](./362975-polychrome.json) |
