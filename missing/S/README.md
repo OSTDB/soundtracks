@@ -1976,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screamdown | 265098 | [265098-screamdown.json](./265098-screamdown.json) |
 | Screamer 2 | 7141 | [7141-screamer-2.json](./7141-screamer-2.json) |
 | Screamer Rally | 7142 | [7142-screamer-rally.json](./7142-screamer-rally.json) |
+| Screaming Abdabs | 137425 | [137425-screaming-abdabs.json](./137425-screaming-abdabs.json) |
 | Screaming Eagles | 54511 | [54511-screaming-eagles.json](./54511-screaming-eagles.json) |
 | Screaming in the Basement | 329180 | [329180-screaming-in-the-basement.json](./329180-screaming-in-the-basement.json) |
 | Screaming Savage Blood Death | 311100 | [311100-screaming-savage-blood-death.json](./311100-screaming-savage-blood-death.json) |
@@ -3974,6 +3975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShantyTown | 258979 | [258979-shantytown.json](./258979-shantytown.json) |
 | Shanubis | 223459 | [223459-shanubis.json](./223459-shanubis.json) |
 | Shanye | 153524 | [153524-shanye.json](./153524-shanye.json) |
+| Shao Lin | 137383 | [137383-shao-lin.json](./137383-shao-lin.json) |
 | Shaolin | 18299 | [18299-shaolin.json](./18299-shaolin.json) |
 | Shaolin Bao | 303478 | [303478-shaolin-bao.json](./303478-shaolin-bao.json) |
 | Shaolin Master | 123063 | [123063-shaolin-master.json](./123063-shaolin-master.json) |
@@ -4528,6 +4530,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Pokemon: Red Version | 275104 | [275104-shin-pokemon-red-version.json](./275104-shin-pokemon-red-version.json) |
 | Shin Ruriiro no Yuki: Furimukeba Tonari ni | 167097 | [167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json](./167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json) |
 | Shin SD Sengokuden: Chijou Saikyou-hen - Ryuuko Daigekitotsu! | 385789 | [385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json](./385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json) |
+| Shin Sedai Robot Senki - Brave Saga | 137393 | [137393-shin-sedai-robot-senki-brave-saga.json](./137393-shin-sedai-robot-senki-brave-saga.json) |
+| Shin Sedai Robot Senki - Brave Saga 2 | 137397 | [137397-shin-sedai-robot-senki-brave-saga-2.json](./137397-shin-sedai-robot-senki-brave-saga-2.json) |
 | Shin Super Robot Taisen | 43908 | [43908-shin-super-robot-taisen.json](./43908-shin-super-robot-taisen.json) |
 | Shin Tennis no Ouji-sama: Let's Go!! Daily Life from RisingBeat | 222249 | [222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json](./222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
@@ -8501,6 +8505,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Manager Crypto | 109908 | [109908-soccer-manager-crypto.json](./109908-soccer-manager-crypto.json) |
 | Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
 | Soccer Nations Battle | 100368 | [100368-soccer-nations-battle.json](./100368-soccer-nations-battle.json) |
+| Soccer Nations: Brazil | 137399 | [137399-soccer-nations-brazil.json](./137399-soccer-nations-brazil.json) |
+| Soccer Nations: Paris | 137400 | [137400-soccer-nations-paris.json](./137400-soccer-nations-paris.json) |
 | Soccer Penalty Kick | 391354 | [391354-soccer-penalty-kick.json](./391354-soccer-penalty-kick.json) |
 | Soccer Physics | 101579 | [101579-soccer-physics.json](./101579-soccer-physics.json) |
 | Soccer Player Simulator | 116473 | [116473-soccer-player-simulator.json](./116473-soccer-player-simulator.json) |
@@ -9829,6 +9835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorceress Idle | 220218 | [220218-sorceress-idle.json](./220218-sorceress-idle.json) |
 | Sorceress of Fortune | 200063 | [200063-sorceress-of-fortune.json](./200063-sorceress-of-fortune.json) |
 | Sorceress Services | 362889 | [362889-sorceress-services.json](./362889-sorceress-services.json) |
+| Sorcerian Additional Scenario Vol. 2: Sengoku Sorcerian | 137432 | [137432-sorcerian-additional-scenario-vol-2-sengoku-sorcerian.json](./137432-sorcerian-additional-scenario-vol-2-sengoku-sorcerian.json) |
 | Sorcerian Online | 230853 | [230853-sorcerian-online.json](./230853-sorcerian-online.json) |
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
 | Sorceror's Apprentice | 94188 | [94188-sorcerors-apprentice.json](./94188-sorcerors-apprentice.json) |
@@ -10192,6 +10199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sous Raccoon | 366299 | [366299-sous-raccoon.json](./366299-sous-raccoon.json) |
 | Sousei no Mirage | 208240 | [208240-sousei-no-mirage.json](./208240-sousei-no-mirage.json) |
 | Sousei no Onmyouji | 122890 | [122890-sousei-no-onmyouji.json](./122890-sousei-no-onmyouji.json) |
+| Souseiki Gadget Robo | 137398 | [137398-souseiki-gadget-robo.json](./137398-souseiki-gadget-robo.json) |
 | Souseishi, Arui wa Doukoku no Mokushiroku: Incarnation Erased from History | 242485 | [242485-souseishi-arui-wa-doukoku-no-mokushiroku-incarnation-erased-from-history.json](./242485-souseishi-arui-wa-doukoku-no-mokushiroku-incarnation-erased-from-history.json) |
 | Soushuu Senshinkan Gakuen Bansenjin | 137082 | [137082-soushuu-senshinkan-gakuen-bansenjin.json](./137082-soushuu-senshinkan-gakuen-bansenjin.json) |
 | Soushuu Senshinkan Gakuen Hachimyoujin | 61685 | [61685-soushuu-senshinkan-gakuen-hachimyoujin.json](./61685-soushuu-senshinkan-gakuen-hachimyoujin.json) |
@@ -10931,6 +10939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacefarers! | 103675 | [103675-spacefarers.json](./103675-spacefarers.json) |
 | SpaceFire Fury | 329079 | [329079-spacefire-fury.json](./329079-spacefire-fury.json) |
 | Spaceflight Simulator | 188384 | [188384-spaceflight-simulator.json](./188384-spaceflight-simulator.json) |
+| Spaceflux | 137421 | [137421-spaceflux.json](./137421-spaceflux.json) |
 | Spaceforce Constellations | 16846 | [16846-spaceforce-constellations.json](./16846-spaceforce-constellations.json) |
 | Spaceforce: Captains | 20783 | [20783-spaceforce-captains.json](./20783-spaceforce-captains.json) |
 | SpaceFrog VR | 113844 | [113844-spacefrog-vr.json](./113844-spacefrog-vr.json) |
@@ -11172,6 +11181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Forces Pack | 100208 | [100208-special-forces-pack.json](./100208-special-forces-pack.json) |
 | Special Forces Strike: Tactical Swat Shooter | 290426 | [290426-special-forces-strike-tactical-swat-shooter.json](./290426-special-forces-strike-tactical-swat-shooter.json) |
 | Special Forces VR | 41964 | [41964-special-forces-vr.json](./41964-special-forces-vr.json) |
+| Special Forces: Operation Blood II | 137424 | [137424-special-forces-operation-blood-ii.json](./137424-special-forces-operation-blood-ii.json) |
 | Special Forces: Team X | 16403 | [16403-special-forces-team-x.json](./16403-special-forces-team-x.json) |
 | Special girls | 178512 | [178512-special-girls.json](./178512-special-girls.json) |
 | Special Meat | 411610 | [411610-special-meat.json](./411610-special-meat.json) |
@@ -16372,6 +16382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super "Mario" World 2 | 297496 | [297496-super-mario-world-2.json](./297496-super-mario-world-2.json) |
 | Super 10 Pin | 270885 | [270885-super-10-pin.json](./270885-super-10-pin.json) |
 | Super 10 VR Bundle | 300275 | [300275-super-10-vr-bundle.json](./300275-super-10-vr-bundle.json) |
+| Super 190-in-1 | 137388 | [137388-super-190-in-1.json](./137388-super-190-in-1.json) |
 | Super 2048 | 99983 | [99983-super-2048.json](./99983-super-2048.json) |
 | Super 8 Football | 267552 | [267552-super-8-football.json](./267552-super-8-football.json) |
 | Super ACiD Block Attack | 82459 | [82459-super-acid-block-attack.json](./82459-super-acid-block-attack.json) |
@@ -18107,6 +18118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperKraft | 255246 | [255246-superkraft.json](./255246-superkraft.json) |
 | Superku | 34343 | [34343-superku.json](./34343-superku.json) |
 | SuperLandlady | 237657 | [237657-superlandlady.json](./237657-superlandlady.json) |
+| Superleague Formula 2009: The Game | 137402 | [137402-superleague-formula-2009-the-game.json](./137402-superleague-formula-2009-the-game.json) |
 | Superleague Soccer | 13084 | [13084-superleague-soccer.json](./13084-superleague-soccer.json) |
 | SuperLite 1500 series: Bomb Boat | 54742 | [54742-superlite-1500-series-bomb-boat.json](./54742-superlite-1500-series-bomb-boat.json) |
 | SuperLite 1500 Series: Fishing Club - Boat no Tsuri-hen | 382977 | [382977-superlite-1500-series-fishing-club-boat-no-tsuri-hen.json](./382977-superlite-1500-series-fishing-club-boat-no-tsuri-hen.json) |
