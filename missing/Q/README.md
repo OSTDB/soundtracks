@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Wish: The Conqueror | 109539 | [109539-queens-wish-the-conqueror.json](./109539-queens-wish-the-conqueror.json) |
 | Queenchantment | 192801 | [192801-queenchantment.json](./192801-queenchantment.json) |
 | Queens | 242695 | [242695-queens.json](./242695-queens.json) |
+| Queens Blade | 137380 | [137380-queens-blade.json](./137380-queens-blade.json) |
 | Queens Climax | 385303 | [385303-queens-climax.json](./385303-queens-climax.json) |
 | Queensrÿche's Promised Land | 71465 | [71465-queensryches-promised-land.json](./71465-queensryches-promised-land.json) |
 | Queeny Army | 126565 | [126565-queeny-army.json](./126565-queeny-army.json) |
