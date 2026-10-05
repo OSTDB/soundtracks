@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Two Sardines | 219564 | [219564-tale-of-two-sardines.json](./219564-tale-of-two-sardines.json) |
 | Tale of Two Sides | 309133 | [309133-tale-of-two-sides.json](./309133-tale-of-two-sides.json) |
 | Tale of Wuxia | 90481 | [90481-tale-of-wuxia.json](./90481-tale-of-wuxia.json) |
+| Tale of Wuxia: The Pre-Sequel - The Way to Nether | 168201 | [168201-tale-of-wuxia-the-pre-sequel-the-way-to-nether.json](./168201-tale-of-wuxia-the-pre-sequel-the-way-to-nether.json) |
 | Taleans Hansel and Gretel story | 98575 | [98575-taleans-hansel-and-gretel-story.json](./98575-taleans-hansel-and-gretel-story.json) |
 | Talebuilder | 382305 | [382305-talebuilder.json](./382305-talebuilder.json) |
 | Talented | 260636 | [260636-talented.json](./260636-talented.json) |
@@ -1097,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Onslaught | 147811 | [147811-tank-onslaught.json](./147811-tank-onslaught.json) |
 | Tank Operations: Diary of the War | 342845 | [342845-tank-operations-diary-of-the-war.json](./342845-tank-operations-diary-of-the-war.json) |
 | Tank POV | 402526 | [402526-tank-pov.json](./402526-tank-pov.json) |
+| Tank Rampage | 168116 | [168116-tank-rampage.json](./168116-tank-rampage.json) |
 | Tank Riders | 61065 | [61065-tank-riders.json](./61065-tank-riders.json) |
 | Tank rush | 102151 | [102151-tank-rush.json](./102151-tank-rush.json) |
 | Tank Side Story | 156075 | [156075-tank-side-story.json](./156075-tank-side-story.json) |
@@ -7829,6 +7831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ouroboros Express | 325529 | [325529-the-ouroboros-express.json](./325529-the-ouroboros-express.json) |
 | The Ouroboros King | 215098 | [215098-the-ouroboros-king.json](./215098-the-ouroboros-king.json) |
 | The Out Door | 312723 | [312723-the-out-door.json](./312723-the-out-door.json) |
+| The Outbreak Guardian | 168185 | [168185-the-outbreak-guardian.json](./168185-the-outbreak-guardian.json) |
 | The Outcast Lovers | 135899 | [135899-the-outcast-lovers.json](./135899-the-outcast-lovers.json) |
 | The Outer Darkness | 274200 | [274200-the-outer-darkness.json](./274200-the-outer-darkness.json) |
 | The Outer Frame | 399859 | [399859-the-outer-frame.json](./399859-the-outer-frame.json) |
@@ -7997,6 +8000,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pit | 78596 | [78596-the-pit.json](./78596-the-pit.json) |
 | The Pit and the Pendulum | 32957 | [32957-the-pit-and-the-pendulum.json](./32957-the-pit-and-the-pendulum.json) |
 | The Pit Arcade | 255015 | [255015-the-pit-arcade.json](./255015-the-pit-arcade.json) |
+| The Pit: Infinity - Healer | 168187 | [168187-the-pit-infinity-healer.json](./168187-the-pit-infinity-healer.json) |
+| The Pit: Infinity - Juggernaut | 168186 | [168186-the-pit-infinity-juggernaut.json](./168186-the-pit-infinity-juggernaut.json) |
 | The Pixel has You | 327198 | [327198-the-pixel-has-you.json](./327198-the-pixel-has-you.json) |
 | The Pixotron 49 | 352392 | [352392-the-pixotron-49.json](./352392-the-pixotron-49.json) |
 | The Pizza Courier | 215733 | [215733-the-pizza-courier.json](./215733-the-pizza-courier.json) |
@@ -14587,6 +14592,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: RJTT Airport | 310044 | [310044-tower-simulator-3-rjtt-airport.json](./310044-tower-simulator-3-rjtt-airport.json) |
 | Tower! Simulator 3: WSSS Airport | 396513 | [396513-tower-simulator-3-wsss-airport.json](./396513-tower-simulator-3-wsss-airport.json) |
 | Tower! Simulator 3: ZSPD Airport | 396516 | [396516-tower-simulator-3-zspd-airport.json](./396516-tower-simulator-3-zspd-airport.json) |
+| Tower!2011:SE - Chicago KORD Airport | 168194 | [168194-tower-2011-se-chicago-kord-airport.json](./168194-tower-2011-se-chicago-kord-airport.json) |
+| Tower!2011:SE - Frankfurt EDDF Airport | 168191 | [168191-tower-2011-se-frankfurt-eddf-airport.json](./168191-tower-2011-se-frankfurt-eddf-airport.json) |
+| Tower!2011:SE - Honolulu PHNL Airport | 168198 | [168198-tower-2011-se-honolulu-phnl-airport.json](./168198-tower-2011-se-honolulu-phnl-airport.json) |
+| Tower!2011:SE - Key West KEYW Airport | 168199 | [168199-tower-2011-se-key-west-keyw-airport.json](./168199-tower-2011-se-key-west-keyw-airport.json) |
+| Tower!2011:SE - La Guardia KLGA Airport | 168192 | [168192-tower-2011-se-la-guardia-klga-airport.json](./168192-tower-2011-se-la-guardia-klga-airport.json) |
+| Tower!2011:SE - Memphis KMEM Airport | 168189 | [168189-tower-2011-se-memphis-kmem-airport.json](./168189-tower-2011-se-memphis-kmem-airport.json) |
+| Tower!2011:SE - New Orleans KMSY Airport | 168193 | [168193-tower-2011-se-new-orleans-kmsy-airport.json](./168193-tower-2011-se-new-orleans-kmsy-airport.json) |
+| Tower!2011:SE - Phoenix KPHX Airport | 168196 | [168196-tower-2011-se-phoenix-kphx-airport.json](./168196-tower-2011-se-phoenix-kphx-airport.json) |
+| Tower!2011:SE - Seattle KSEA Airport | 168190 | [168190-tower-2011-se-seattle-ksea-airport.json](./168190-tower-2011-se-seattle-ksea-airport.json) |
+| Tower!2011:SE - Toronto CYYZ Airport | 168195 | [168195-tower-2011-se-toronto-cyyz-airport.json](./168195-tower-2011-se-toronto-cyyz-airport.json) |
+| Tower!2011:SE - Washington KIAD Airport | 168197 | [168197-tower-2011-se-washington-kiad-airport.json](./168197-tower-2011-se-washington-kiad-airport.json) |
 | Tower!3D | 33091 | [33091-tower-3d.json](./33091-tower-3d.json) |
 | Tower!3D Pro | 29566 | [29566-tower-3d-pro.json](./29566-tower-3d-pro.json) |
 | Tower!3D Pro: EDDM Airport | 162284 | [162284-tower-3d-pro-eddm-airport.json](./162284-tower-3d-pro-eddm-airport.json) |
