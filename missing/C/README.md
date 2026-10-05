@@ -4569,6 +4569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cions of Vega | 149925 | [149925-cions-of-vega.json](./149925-cions-of-vega.json) |
 | Cipher | 178494 | [178494-cipher.json](./178494-cipher.json) |
 | Cipher | 274123 | [274123-cipher.json](./274123-cipher.json) |
+| Cipher 61 | 156192 | [156192-cipher-61.json](./156192-cipher-61.json) |
 | Cipher Island | 238088 | [238088-cipher-island.json](./238088-cipher-island.json) |
 | Cipher Monk | 286034 | [286034-cipher-monk.json](./286034-cipher-monk.json) |
 | Cipher Zero | 252691 | [252691-cipher-zero.json](./252691-cipher-zero.json) |
@@ -8991,6 +8992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Captain | 95430 | [95430-cricket-captain.json](./95430-cricket-captain.json) |
 | Cricket Captain 2018 | 103401 | [103401-cricket-captain-2018.json](./103401-cricket-captain-2018.json) |
 | Cricket Captain 2019 | 118777 | [118777-cricket-captain-2019.json](./118777-cricket-captain-2019.json) |
+| Cricket Captain 2021 | 156212 | [156212-cricket-captain-2021.json](./156212-cricket-captain-2021.json) |
 | Cricket Captain 2023 | 252242 | [252242-cricket-captain-2023.json](./252242-cricket-captain-2023.json) |
 | Cricket Captain 2025 | 351614 | [351614-cricket-captain-2025.json](./351614-cricket-captain-2025.json) |
 | Cricket Carlson | 125821 | [125821-cricket-carlson.json](./125821-cricket-carlson.json) |
