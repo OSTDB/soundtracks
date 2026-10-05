@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Asteria | 61863 | [61863-tales-of-asteria.json](./61863-tales-of-asteria.json) |
 | Tales of Beasteria | 127249 | [127249-tales-of-beasteria.json](./127249-tales-of-beasteria.json) |
 | Tales of Berseria Remastered: Super Growth Support Herb Set | 378867 | [378867-tales-of-berseria-remastered-super-growth-support-herb-set.json](./378867-tales-of-berseria-remastered-super-growth-support-herb-set.json) |
+| Tales of Chandar | 149681 | [149681-tales-of-chandar.json](./149681-tales-of-chandar.json) |
 | Tales of Corneria | 323906 | [323906-tales-of-corneria.json](./323906-tales-of-corneria.json) |
 | Tales of Cosmos | 27180 | [27180-tales-of-cosmos.json](./27180-tales-of-cosmos.json) |
 | Tales of Destiny | 229160 | [229160-tales-of-destiny.json](./229160-tales-of-destiny.json) |
@@ -1443,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target G | 238619 | [238619-target-g.json](./238619-target-g.json) |
 | Target of Desire: Episode 1 | 52745 | [52745-target-of-desire-episode-1.json](./52745-target-of-desire-episode-1.json) |
 | Target Practice | 167303 | [167303-target-practice.json](./167303-target-practice.json) |
+| Target Runner | 149690 | [149690-target-runner.json](./149690-target-runner.json) |
 | Target Toss Pro: Bags | 85431 | [85431-target-toss-pro-bags.json](./85431-target-toss-pro-bags.json) |
 | Target Toss Pro: Lawn Darts | 66355 | [66355-target-toss-pro-lawn-darts.json](./66355-target-toss-pro-lawn-darts.json) |
 | Target: Pheromone | 127794 | [127794-target-pheromone.json](./127794-target-pheromone.json) |
@@ -4685,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreamwell Enigma: Barlington Estate | 276376 | [276376-the-dreamwell-enigma-barlington-estate.json](./276376-the-dreamwell-enigma-barlington-estate.json) |
 | The Dresden Files Cooperative Card Game: Expansion 6 - Faithful Friends | 316217 | [316217-the-dresden-files-cooperative-card-game-expansion-6-faithful-friends.json](./316217-the-dresden-files-cooperative-card-game-expansion-6-faithful-friends.json) |
 | The Drift Challenge | 167570 | [167570-the-drift-challenge.json](./167570-the-drift-challenge.json) |
+| The Drifting Woods | 149705 | [149705-the-drifting-woods.json](./149705-the-drifting-woods.json) |
 | The Drone Zone | 244905 | [244905-the-drone-zone.json](./244905-the-drone-zone.json) |
 | The Dropper 2 | 200144 | [200144-the-dropper-2.json](./200144-the-dropper-2.json) |
 | The Drowning | 20917 | [20917-the-drowning.json](./20917-the-drowning.json) |
@@ -5600,6 +5603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Gonzo in WordRider | 65040 | [65040-the-great-gonzo-in-wordrider.json](./65040-the-great-gonzo-in-wordrider.json) |
 | The Great Hatch | 348915 | [348915-the-great-hatch.json](./348915-the-great-hatch.json) |
 | The Great Hero's Cat | 209605 | [209605-the-great-heros-cat.json](./209605-the-great-heros-cat.json) |
+| The Great Hide n Seek Expawdition | 149727 | [149727-the-great-hide-n-seek-expawdition.json](./149727-the-great-hide-n-seek-expawdition.json) |
 | The Great House Escape | 386220 | [386220-the-great-house-escape.json](./386220-the-great-house-escape.json) |
 | The Great I Am | 343419 | [343419-the-great-i-am.json](./343419-the-great-i-am.json) |
 | The Great Language Game | 58488 | [58488-the-great-language-game.json](./58488-the-great-language-game.json) |
@@ -9084,6 +9088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sixth Prison | 184077 | [184077-the-sixth-prison.json](./184077-the-sixth-prison.json) |
 | The Skeld | 182824 | [182824-the-skeld.json](./182824-the-skeld.json) |
 | The Skies | 26859 | [26859-the-skies.json](./26859-the-skies.json) |
+| The Skies: Reborn | 149710 | [149710-the-skies-reborn.json](./149710-the-skies-reborn.json) |
 | The Skinwalker Investigations | 164973 | [164973-the-skinwalker-investigations.json](./164973-the-skinwalker-investigations.json) |
 | The Skirmish | 282032 | [282032-the-skirmish.json](./282032-the-skirmish.json) |
 | The Skullkid | 230259 | [230259-the-skullkid.json](./230259-the-skullkid.json) |
@@ -10933,6 +10938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Game is Ground Breaking | 350039 | [350039-this-game-is-ground-breaking.json](./350039-this-game-is-ground-breaking.json) |
 | This Game is Self-Aware | 177324 | [177324-this-game-is-self-aware.json](./177324-this-game-is-self-aware.json) |
 | This Game is Simple | 416121 | [416121-this-game-is-simple.json](./416121-this-game-is-simple.json) |
+| This Game Might Improve Your Memory | 149695 | [149695-this-game-might-improve-your-memory.json](./149695-this-game-might-improve-your-memory.json) |
 | This Game Will End In 205 Clicks. | 359013 | [359013-this-game-will-end-in-205-clicks.json](./359013-this-game-will-end-in-205-clicks.json) |
 | This Girl Does Not Exist | 215727 | [215727-this-girl-does-not-exist.json](./215727-this-girl-does-not-exist.json) |
 | This Grand Life 2 | 253572 | [253572-this-grand-life-2.json](./253572-this-grand-life-2.json) |
@@ -10950,6 +10956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Interesting | 338943 | [338943-this-is-interesting.json](./338943-this-is-interesting.json) |
 | This is Kiko | 333202 | [333202-this-is-kiko.json](./333202-this-is-kiko.json) |
 | This Is Love | 370673 | [370673-this-is-love.json](./370673-this-is-love.json) |
+| This is My Dungeon | 149719 | [149719-this-is-my-dungeon.json](./149719-this-is-my-dungeon.json) |
 | This is My Place | 264574 | [264574-this-is-my-place.json](./264574-this-is-my-place.json) |
 | This is my story | 115151 | [115151-this-is-my-story.json](./115151-this-is-my-story.json) |
 | This Is Not a Ball Game. | 243636 | [243636-this-is-not-a-ball-game.json](./243636-this-is-not-a-ball-game.json) |
@@ -15325,6 +15332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Plus 2 | 386378 | [386378-train-plus-2.json](./386378-train-plus-2.json) |
 | Train Plus Japan: Drive Western Japan Trains! - Rapid Service Edition | 412568 | [412568-train-plus-japan-drive-western-japan-trains-rapid-service-edition.json](./412568-train-plus-japan-drive-western-japan-trains-rapid-service-edition.json) |
 | Train Plus: Kowa Dentetsu Regular Colors Train | 355228 | [355228-train-plus-kowa-dentetsu-regular-colors-train.json](./355228-train-plus-kowa-dentetsu-regular-colors-train.json) |
+| Train Ride Simulator | 149709 | [149709-train-ride-simulator.json](./149709-train-ride-simulator.json) |
 | Train Rush | 220049 | [220049-train-rush.json](./220049-train-rush.json) |
 | Train Sim World | 105877 | [105877-train-sim-world.json](./105877-train-sim-world.json) |
 | Train Sim World 2 | 136868 | [136868-train-sim-world-2.json](./136868-train-sim-world-2.json) |
@@ -16305,6 +16313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped Dead | 9443 | [9443-trapped-dead.json](./9443-trapped-dead.json) |
 | Trapped Dead: Lockdown | 17508 | [17508-trapped-dead-lockdown.json](./17508-trapped-dead-lockdown.json) |
 | Trapped Girl X | 255677 | [255677-trapped-girl-x.json](./255677-trapped-girl-x.json) |
+| Trapped Guys | 149707 | [149707-trapped-guys.json](./149707-trapped-guys.json) |
 | Trapped in a Cage | 267067 | [267067-trapped-in-a-cage.json](./267067-trapped-in-a-cage.json) |
 | Trapped In Here With Me | 263566 | [263566-trapped-in-here-with-me.json](./263566-trapped-in-here-with-me.json) |
 | Trapped in the Forest | 190055 | [190055-trapped-in-the-forest.json](./190055-trapped-in-the-forest.json) |
@@ -18054,6 +18063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Sedans Driving Simulator | 195618 | [195618-two-sedans-driving-simulator.json](./195618-two-sedans-driving-simulator.json) |
 | Two Sides of the Same Turnabout | 310420 | [310420-two-sides-of-the-same-turnabout.json](./310420-two-sides-of-the-same-turnabout.json) |
 | Two Skateboards Driving Simulator | 224566 | [224566-two-skateboards-driving-simulator.json](./224566-two-skateboards-driving-simulator.json) |
+| Two Strikes | 149693 | [149693-two-strikes.json](./149693-two-strikes.json) |
 | Two Strikes: Baki Hanma | 372085 | [372085-two-strikes-baki-hanma.json](./372085-two-strikes-baki-hanma.json) |
 | Two Tamarind Seeds | 179106 | [179106-two-tamarind-seeds.json](./179106-two-tamarind-seeds.json) |
 | Two Tigers | 25667 | [25667-two-tigers.json](./25667-two-tigers.json) |
