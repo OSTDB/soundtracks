@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Races | 81548 | [81548-wacky-races.json](./81548-wacky-races.json) |
 | Wacky Races Starring Dastardly & Muttley | 43447 | [43447-wacky-races-starring-dastardly-and-muttley.json](./43447-wacky-races-starring-dastardly-and-muttley.json) |
 | Wacky Races: Mad Motors | 56544 | [56544-wacky-races-mad-motors.json](./56544-wacky-races-mad-motors.json) |
+| Wacky Run | 147094 | [147094-wacky-run.json](./147094-wacky-run.json) |
 | Wacky Ship | 180600 | [180600-wacky-ship.json](./180600-wacky-ship.json) |
 | Wacky Soldiers | 123560 | [123560-wacky-soldiers.json](./123560-wacky-soldiers.json) |
 | Wacky Squad | 418710 | [418710-wacky-squad.json](./418710-wacky-squad.json) |
@@ -473,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Church | 271805 | [271805-war-church.json](./271805-war-church.json) |
 | War crime | 82815 | [82815-war-crime.json](./82815-war-crime.json) |
 | War Dogs: Ace Fighters of WWII | 403106 | [403106-war-dogs-ace-fighters-of-wwii.json](./403106-war-dogs-ace-fighters-of-wwii.json) |
+| War Dogs: Red's Return | 147095 | [147095-war-dogs-reds-return.json](./147095-war-dogs-reds-return.json) |
 | War Dots | 211150 | [211150-war-dots.json](./211150-war-dots.json) |
 | War Doves | 24999 | [24999-war-doves.json](./24999-war-doves.json) |
 | War Drone | 386955 | [386955-war-drone.json](./386955-war-drone.json) |
