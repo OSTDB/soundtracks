@@ -3430,6 +3430,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Witch Luana | 126647 | [126647-little-witch-luana.json](./126647-little-witch-luana.json) |
 | Little Witch Nobeta | 116781 | [116781-little-witch-nobeta.json](./116781-little-witch-nobeta.json) |
 | Little Witch Nobeta: Limited Edition | 205259 | [205259-little-witch-nobeta-limited-edition.json](./205259-little-witch-nobeta-limited-edition.json) |
+| Little Witch Parfait: Kuronekojirushi no Mahouya-san | 124645 | [124645-little-witch-parfait-kuronekojirushi-no-mahouya-san.json](./124645-little-witch-parfait-kuronekojirushi-no-mahouya-san.json) |
+| Little Witch Reinette: Swan no Namida Rhapsody | 124646 | [124646-little-witch-reinette-swan-no-namida-rhapsody.json](./124646-little-witch-reinette-swan-no-namida-rhapsody.json) |
 | Little Wizard Sally | 240867 | [240867-little-wizard-sally.json](./240867-little-wizard-sally.json) |
 | Little Wolf | 149570 | [149570-little-wolf.json](./149570-little-wolf.json) |
 | Little World | 310031 | [310031-little-world.json](./310031-little-world.json) |
@@ -5515,6 +5517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lux Sine | 149030 | [149030-lux-sine.json](./149030-lux-sine.json) |
 | Lux umbra | 56595 | [56595-lux-umbra.json](./56595-lux-umbra.json) |
 | Lux: Dream.Girl | 280928 | [280928-lux-dream-girl.json](./280928-lux-dream-girl.json) |
+| Luxaren Allure | 124653 | [124653-luxaren-allure.json](./124653-luxaren-allure.json) |
 | Luxavia | 392356 | [392356-luxavia.json](./392356-luxavia.json) |
 | Luxcustos | 322605 | [322605-luxcustos.json](./322605-luxcustos.json) |
 | Luxor | 7534 | [7534-luxor.json](./7534-luxor.json) |
