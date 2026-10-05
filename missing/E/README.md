@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
 | Eexy Life: East End X Yuri | 252198 | [252198-eexy-life-east-end-x-yuri.json](./252198-eexy-life-east-end-x-yuri.json) |
 | EF-12: Fighting Game Maker | 57074 | [57074-ef-12-fighting-game-maker.json](./57074-ef-12-fighting-game-maker.json) |
+| Ef: The First Tale. | 122811 | [122811-ef-the-first-tale.json](./122811-ef-the-first-tale.json) |
 | EF2000 TACTCOM | 77647 | [77647-ef2000-tactcom.json](./77647-ef2000-tactcom.json) |
 | EF2000 v2.0 | 677 | [677-ef2000-v2-0.json](./677-ef2000-v2-0.json) |
 | Efemeris | 234204 | [234204-efemeris.json](./234204-efemeris.json) |
@@ -3168,6 +3169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Liiivie: EP1 Liiivie - Isolated From the World | 284348 | [284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json](./284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json) |
 | Eternal Link | 345085 | [345085-eternal-link.json](./345085-eternal-link.json) |
 | Eternal Love | 164283 | [164283-eternal-love.json](./164283-eternal-love.json) |
+| Eternal Magic | 122918 | [122918-eternal-magic.json](./122918-eternal-magic.json) |
 | Eternal Magic: Keeper | 171013 | [171013-eternal-magic-keeper.json](./171013-eternal-magic-keeper.json) |
 | Eternal Man: Jump | 99605 | [99605-eternal-man-jump.json](./99605-eternal-man-jump.json) |
 | Eternal Man: Mountain | 95194 | [95194-eternal-man-mountain.json](./95194-eternal-man-mountain.json) |
