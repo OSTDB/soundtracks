@@ -7696,6 +7696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashing Healthy VR | 132248 | [132248-smashing-healthy-vr.json](./132248-smashing-healthy-vr.json) |
 | Smashing Kitty | 61056 | [61056-smashing-kitty.json](./61056-smashing-kitty.json) |
 | Smashing Simulator Idle | 311274 | [311274-smashing-simulator-idle.json](./311274-smashing-simulator-idle.json) |
+| Smashing Spirits: Brazil's First Boxer | 135713 | [135713-smashing-spirits-brazils-first-boxer.json](./135713-smashing-spirits-brazils-first-boxer.json) |
 | Smashing Star | 202855 | [202855-smashing-star.json](./202855-smashing-star.json) |
 | Smashing the Battle Ghost Soul | 165617 | [165617-smashing-the-battle-ghost-soul.json](./165617-smashing-the-battle-ghost-soul.json) |
 | Smashmak | 396422 | [396422-smashmak.json](./396422-smashmak.json) |
@@ -9100,6 +9101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son of a Glitch | 340202 | [340202-son-of-a-glitch.json](./340202-son-of-a-glitch.json) |
 | Son of a Gun | 244250 | [244250-son-of-a-gun.json](./244250-son-of-a-gun.json) |
 | Son of a Witch | 102107 | [102107-son-of-a-witch.json](./102107-son-of-a-witch.json) |
+| Son of Aral | 135711 | [135711-son-of-aral.json](./135711-son-of-aral.json) |
 | Son of Blagger | 47238 | [47238-son-of-blagger.json](./47238-son-of-blagger.json) |
 | Son of Nor | 16848 | [16848-son-of-nor.json](./16848-son-of-nor.json) |
 | Son of Perun Kharkiv | 264626 | [264626-son-of-perun-kharkiv.json](./264626-son-of-perun-kharkiv.json) |
@@ -11153,6 +11155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spear of Destiny Super CD Pack | 306973 | [306973-spear-of-destiny-super-cd-pack.json](./306973-spear-of-destiny-super-cd-pack.json) |
 | Spear of Destiny: The Final Journey | 177043 | [177043-spear-of-destiny-the-final-journey.json](./177043-spear-of-destiny-the-final-journey.json) |
 | Spear of Destiny: The Kaiseki - Director's Cut | 228098 | [228098-spear-of-destiny-the-kaiseki-directors-cut.json](./228098-spear-of-destiny-the-kaiseki-directors-cut.json) |
+| Spear Throwing Challange | 135619 | [135619-spear-throwing-challange.json](./135619-spear-throwing-challange.json) |
 | Spearain | 320301 | [320301-spearain.json](./320301-spearain.json) |
 | Speard | 257322 | [257322-speard.json](./257322-speard.json) |
 | Spearfishing | 51191 | [51191-spearfishing.json](./51191-spearfishing.json) |
@@ -11405,6 +11408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Breakers | 233104 | [233104-spell-breakers.json](./233104-spell-breakers.json) |
 | Spell Candle | 337299 | [337299-spell-candle.json](./337299-spell-candle.json) |
 | Spell Caster: Puzzle RPG | 233107 | [233107-spell-caster-puzzle-rpg.json](./233107-spell-caster-puzzle-rpg.json) |
+| Spell Casting | 135624 | [135624-spell-casting.json](./135624-spell-casting.json) |
 | Spell Casting: Purrfectly Portable Edition | 119541 | [119541-spell-casting-purrfectly-portable-edition.json](./119541-spell-casting-purrfectly-portable-edition.json) |
 | Spell Castle | 84181 | [84181-spell-castle.json](./84181-spell-castle.json) |
 | Spell Crisis | 192697 | [192697-spell-crisis.json](./192697-spell-crisis.json) |
@@ -16834,6 +16838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hiking Simulator 2020: Puzzles | 163422 | [163422-super-hiking-simulator-2020-puzzles.json](./163422-super-hiking-simulator-2020-puzzles.json) |
 | Super Hipster Lumberjack | 34800 | [34800-super-hipster-lumberjack.json](./34800-super-hipster-lumberjack.json) |
 | Super Hockey Ball | 109642 | [109642-super-hockey-ball.json](./109642-super-hockey-ball.json) |
+| Super Holobunnies: Pause Café | 135649 | [135649-super-holobunnies-pause-cafe.json](./135649-super-holobunnies-pause-cafe.json) |
 | Super Hoodie Bros | 378771 | [378771-super-hoodie-bros.json](./378771-super-hoodie-bros.json) |
 | Super Hook Girl | 307969 | [307969-super-hook-girl.json](./307969-super-hook-girl.json) |
 | Super Hoopers | 234705 | [234705-super-hoopers.json](./234705-super-hoopers.json) |
@@ -17618,6 +17623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super R.B.I. Baseball | 5332 | [5332-super-r-b-i-baseball.json](./5332-super-r-b-i-baseball.json) |
 | Super Rabbit | 246482 | [246482-super-rabbit.json](./246482-super-rabbit.json) |
 | Super Racing | 46103 | [46103-super-racing.json](./46103-super-racing.json) |
+| Super Radish Witch | 135618 | [135618-super-radish-witch.json](./135618-super-radish-witch.json) |
 | Super Raft Boat Classic | 144142 | [144142-super-raft-boat-classic.json](./144142-super-raft-boat-classic.json) |
 | Super Ramp Skater | 296006 | [296006-super-ramp-skater.json](./296006-super-ramp-skater.json) |
 | Super Ranger | 377710 | [377710-super-ranger.json](./377710-super-ranger.json) |
