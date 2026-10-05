@@ -3233,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Memories | 109741 | [109741-little-memories.json](./109741-little-memories.json) |
 | Little Memory | 93025 | [93025-little-memory.json](./93025-little-memory.json) |
 | Little Miss Lonely | 43885 | [43885-little-miss-lonely.json](./43885-little-miss-lonely.json) |
+| Little Moneybags | 157079 | [157079-little-moneybags.json](./157079-little-moneybags.json) |
 | Little Monk | 73534 | [73534-little-monk.json](./73534-little-monk.json) |
 | Little Monkey King's Big Quest | 265137 | [265137-little-monkey-kings-big-quest.json](./265137-little-monkey-kings-big-quest.json) |
 | Little Monkeys Eat Bananas | 151030 | [151030-little-monkeys-eat-bananas.json](./151030-little-monkeys-eat-bananas.json) |
@@ -3342,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Tail Story | 144320 | [144320-little-tail-story.json](./144320-little-tail-story.json) |
 | Little Tailor 4: Fashion Sewing | 233462 | [233462-little-tailor-4-fashion-sewing.json](./233462-little-tailor-4-fashion-sewing.json) |
 | Little Tank | 339942 | [339942-little-tank.json](./339942-little-tank.json) |
+| Little Terror | 157080 | [157080-little-terror.json](./157080-little-terror.json) |
 | Little Thief | 407575 | [407575-little-thief.json](./407575-little-thief.json) |
 | Little Things | 401130 | [401130-little-things.json](./401130-little-things.json) |
 | Little Things Remastered | 175935 | [175935-little-things-remastered.json](./175935-little-things-remastered.json) |
