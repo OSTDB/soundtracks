@@ -1948,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Arena: Robot Apocalypse | 148886 | [148886-battle-arena-robot-apocalypse.json](./148886-battle-arena-robot-apocalypse.json) |
 | Battle Army | 81212 | [81212-battle-army.json](./81212-battle-army.json) |
 | Battle Athletess Daiundoukai | 45419 | [45419-battle-athletess-daiundoukai.json](./45419-battle-athletess-daiundoukai.json) |
+| Battle Axe | 141511 | [141511-battle-axe.json](./141511-battle-axe.json) |
 | Battle Axe & Final Vendetta Bundle | 311110 | [311110-battle-axe-and-final-vendetta-bundle.json](./311110-battle-axe-and-final-vendetta-bundle.json) |
 | Battle B-Daman | 49365 | [49365-battle-b-daman.json](./49365-battle-b-daman.json) |
 | Battle B-Daman: Fire Spirits! | 49364 | [49364-battle-b-daman-fire-spirits.json](./49364-battle-b-daman-fire-spirits.json) |
@@ -5765,6 +5766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood & Glory: Immortals | 137572 | [137572-blood-and-glory-immortals.json](./137572-blood-and-glory-immortals.json) |
 | Blood & Gold: Caribbean! - The Zombiest Adventures | 124837 | [124837-blood-and-gold-caribbean-the-zombiest-adventures.json](./124837-blood-and-gold-caribbean-the-zombiest-adventures.json) |
 | Blood & Lace: A Gothic Novel | 69924 | [69924-blood-and-lace-a-gothic-novel.json](./69924-blood-and-lace-a-gothic-novel.json) |
+| Blood & Laurels | 141556 | [141556-blood-and-laurels.json](./141556-blood-and-laurels.json) |
 | Blood & Lust | 338256 | [338256-blood-and-lust.json](./338256-blood-and-lust.json) |
 | Blood & Truth | 75242 | [75242-blood-and-truth.json](./75242-blood-and-truth.json) |
 | Blood Accord | 338336 | [338336-blood-accord.json](./338336-blood-accord.json) |
