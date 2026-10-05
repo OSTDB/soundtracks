@@ -8993,6 +8993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Builder Simulator | 121345 | [121345-builder-simulator.json](./121345-builder-simulator.json) |
 | Builder Simulator VR | 237080 | [237080-builder-simulator-vr.json](./237080-builder-simulator-vr.json) |
 | Builder: Don't Let me Fall | 137643 | [137643-builder-dont-let-me-fall.json](./137643-builder-dont-let-me-fall.json) |
+| Builders of China | 139744 | [139744-builders-of-china.json](./139744-builders-of-china.json) |
 | Builders of Egypt | 120901 | [120901-builders-of-egypt.json](./120901-builders-of-egypt.json) |
 | Builders of Greece | 217337 | [217337-builders-of-greece.json](./217337-builders-of-greece.json) |
 | Buildest | 155709 | [155709-buildest.json](./155709-buildest.json) |
