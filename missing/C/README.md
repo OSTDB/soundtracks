@@ -4614,6 +4614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle = Circle | 293853 | [293853-circle-circle.json](./293853-circle-circle.json) |
 | Circle Breakout | 128577 | [128577-circle-breakout.json](./128577-circle-breakout.json) |
 | Circle Empires | 104937 | [104937-circle-empires.json](./104937-circle-empires.json) |
+| Circle Empires Tactics | 145295 | [145295-circle-empires-tactics.json](./145295-circle-empires-tactics.json) |
 | Circle of Blood | 616 | [616-circle-of-blood.json](./616-circle-of-blood.json) |
 | Circle of Football | 137614 | [137614-circle-of-football.json](./137614-circle-of-football.json) |
 | Circle of Nature | 327982 | [327982-circle-of-nature.json](./327982-circle-of-nature.json) |
@@ -8313,6 +8314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Trip | 264146 | [264146-cozy-trip.json](./264146-cozy-trip.json) |
 | Cozy Twinkie | 406805 | [406805-cozy-twinkie.json](./406805-cozy-twinkie.json) |
 | Cozy Twinkie | 406806 | [406806-cozy-twinkie.json](./406806-cozy-twinkie.json) |
+| Cozy Wandering in Scarlet and Amber | 145276 | [145276-cozy-wandering-in-scarlet-and-amber.json](./145276-cozy-wandering-in-scarlet-and-amber.json) |
 | CozyCat Simulator | 293133 | [293133-cozycat-simulator.json](./293133-cozycat-simulator.json) |
 | Cozycult | 364057 | [364057-cozycult.json](./364057-cozycult.json) |
 | Cozyrama | 360004 | [360004-cozyrama.json](./360004-cozyrama.json) |
@@ -8340,6 +8342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab Game 2 | 323500 | [323500-crab-game-2.json](./323500-crab-game-2.json) |
 | Crab God | 244884 | [244884-crab-god.json](./244884-crab-god.json) |
 | Crab God: Supporter Pack | 382435 | [382435-crab-god-supporter-pack.json](./382435-crab-god-supporter-pack.json) |
+| Crab Grab | 145237 | [145237-crab-grab.json](./145237-crab-grab.json) |
 | Crab Hunt | 346729 | [346729-crab-hunt.json](./346729-crab-hunt.json) |
 | Crab Island | 226775 | [226775-crab-island.json](./226775-crab-island.json) |
 | Crab My Passion | 279210 | [279210-crab-my-passion.json](./279210-crab-my-passion.json) |
@@ -9808,6 +9811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crysis Wreckage | 51292 | [51292-crysis-wreckage.json](./51292-crysis-wreckage.json) |
 | Crysmalia: Dawn of Darkness | 228485 | [228485-crysmalia-dawn-of-darkness.json](./228485-crysmalia-dawn-of-darkness.json) |
 | Cryspace | 240746 | [240746-cryspace.json](./240746-cryspace.json) |
+| Crystal | 145275 | [145275-crystal.json](./145275-crystal.json) |
 | Crystal Anomaly | 194379 | [194379-crystal-anomaly.json](./194379-crystal-anomaly.json) |
 | Crystal Breaker | 284978 | [284978-crystal-breaker.json](./284978-crystal-breaker.json) |
 | Crystal Calamity | 350496 | [350496-crystal-calamity.json](./350496-crystal-calamity.json) |
