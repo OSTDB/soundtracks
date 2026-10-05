@@ -2971,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alcazar | 86184 | [86184-alcazar.json](./86184-alcazar.json) |
 | Alcazar: The Forgotten Fortress | 12248 | [12248-alcazar-the-forgotten-fortress.json](./12248-alcazar-the-forgotten-fortress.json) |
 | Alchademy | 186612 | [186612-alchademy.json](./186612-alchademy.json) |
+| Alchedungeon | 122812 | [122812-alchedungeon.json](./122812-alchedungeon.json) |
 | Alchem It | 211268 | [211268-alchem-it.json](./211268-alchem-it.json) |
 | Alchemelee | 128333 | [128333-alchemelee.json](./128333-alchemelee.json) |
 | Alchementalist | 157082 | [157082-alchementalist.json](./157082-alchementalist.json) |
@@ -3120,6 +3121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfabet Śmierci | 14238 | [14238-alfabet-smierci.json](./14238-alfabet-smierci.json) |
 | Alfal's Grove | 132651 | [132651-alfals-grove.json](./132651-alfals-grove.json) |
 | Alfons World | 345053 | [345053-alfons-world.json](./345053-alfons-world.json) |
+| Alfonzo's Arctic Adventure | 122808 | [122808-alfonzos-arctic-adventure.json](./122808-alfonzos-arctic-adventure.json) |
 | Alfred Chicken | 118492 | [118492-alfred-chicken.json](./118492-alfred-chicken.json) |
 | Alfred Chicken | 272843 | [272843-alfred-chicken.json](./272843-alfred-chicken.json) |
 | Alfred Chicken | 7749 | [7749-alfred-chicken.json](./7749-alfred-chicken.json) |
@@ -4078,6 +4080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AmaranTime | 30172 | [30172-amarantime.json](./30172-amarantime.json) |
 | Amarantus | 201324 | [201324-amarantus.json](./201324-amarantus.json) |
 | Amarillo's Butt Slapper | 319679 | [319679-amarillos-butt-slapper.json](./319679-amarillos-butt-slapper.json) |
+| Amatarasu Riddle Star | 122796 | [122796-amatarasu-riddle-star.json](./122796-amatarasu-riddle-star.json) |
 | Amateur League Golf | 202188 | [202188-amateur-league-golf.json](./202188-amateur-league-golf.json) |
 | Amateur Surgeon 2 | 182501 | [182501-amateur-surgeon-2.json](./182501-amateur-surgeon-2.json) |
 | Amateur Surgeon 3: Tag Team Trauma | 159224 | [159224-amateur-surgeon-3-tag-team-trauma.json](./159224-amateur-surgeon-3-tag-team-trauma.json) |
@@ -4189,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambien | 254122 | [254122-ambien.json](./254122-ambien.json) |
 | Ambience | 414497 | [414497-ambience.json](./414497-ambience.json) |
 | Ambient Water | 66606 | [66606-ambient-water.json](./66606-ambient-water.json) |
+| Ambienz | 122822 | [122822-ambienz.json](./122822-ambienz.json) |
 | Ambition of caesar | 45577 | [45577-ambition-of-caesar.json](./45577-ambition-of-caesar.json) |
 | Ambition: A Minuet in Power | 76255 | [76255-ambition-a-minuet-in-power.json](./76255-ambition-a-minuet-in-power.json) |
 | Ambition: Strategy War Game | 200037 | [200037-ambition-strategy-war-game.json](./200037-ambition-strategy-war-game.json) |
@@ -6190,6 +6194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arabian Nights | 111656 | [111656-arabian-nights.json](./111656-arabian-nights.json) |
 | Arabian Nights | 271778 | [271778-arabian-nights.json](./271778-arabian-nights.json) |
 | Arabian Nights: Sabaku no Seirei-ou | 38381 | [38381-arabian-nights-sabaku-no-seirei-ou.json](./38381-arabian-nights-sabaku-no-seirei-ou.json) |
+| Arabian Stones: The VR Sudoku Game | 122817 | [122817-arabian-stones-the-vr-sudoku-game.json](./122817-arabian-stones-the-vr-sudoku-game.json) |
 | Arabian Treasures: Midnight Match | 150490 | [150490-arabian-treasures-midnight-match.json](./150490-arabian-treasures-midnight-match.json) |
 | Arabians Doubt: The Engagement on Desert | 191690 | [191690-arabians-doubt-the-engagement-on-desert.json](./191690-arabians-doubt-the-engagement-on-desert.json) |
 | Arabilis | 197787 | [197787-arabilis.json](./197787-arabilis.json) |
@@ -7088,6 +7093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkagis Revolution | 141025 | [141025-arkagis-revolution.json](./141025-arkagis-revolution.json) |
 | Arkaia: The Enigmatic Isle | 68606 | [68606-arkaia-the-enigmatic-isle.json](./68606-arkaia-the-enigmatic-isle.json) |
 | Arkaik: Tales of Sarina | 230380 | [230380-arkaik-tales-of-sarina.json](./230380-arkaik-tales-of-sarina.json) |
+| Arkan: The Dog Adventurer | 122806 | [122806-arkan-the-dog-adventurer.json](./122806-arkan-the-dog-adventurer.json) |
 | Arkana Senki Ludo | 166163 | [166163-arkana-senki-ludo.json](./166163-arkana-senki-ludo.json) |
 | ArkanDOS | 82486 | [82486-arkandos.json](./82486-arkandos.json) |
 | Arkane Rush Multiverse Mayhem | 114163 | [114163-arkane-rush-multiverse-mayhem.json](./114163-arkane-rush-multiverse-mayhem.json) |
