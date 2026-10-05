@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: The Master Chief Collection Season 7 - Elite | 205053 | [205053-halo-the-master-chief-collection-season-7-elite.json](./205053-halo-the-master-chief-collection-season-7-elite.json) |
 | Halo: The Master Chief Collection Season 8 - Mythic | 205054 | [205054-halo-the-master-chief-collection-season-8-mythic.json](./205054-halo-the-master-chief-collection-season-8-mythic.json) |
 | Halo's Mixtape | 280905 | [280905-halos-mixtape.json](./280905-halos-mixtape.json) |
+| Halodoom: Code of Silence | 140945 | [140945-halodoom-code-of-silence.json](./140945-halodoom-code-of-silence.json) |
 | HaloMD | 141820 | [141820-halomd.json](./141820-halomd.json) |
 | Haloo | 298686 | [298686-haloo.json](./298686-haloo.json) |
 | HalOpe | 281399 | [281399-halope.json](./281399-halope.json) |
@@ -803,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happiness Market | 253411 | [253411-happiness-market.json](./253411-happiness-market.json) |
 | Happiness! De:Lucks | 94724 | [94724-happiness-de-lucks.json](./94724-happiness-de-lucks.json) |
 | Happup | 130738 | [130738-happup.json](./130738-happup.json) |
+| Happy Animal Farm | 140930 | [140930-happy-animal-farm.json](./140930-happy-animal-farm.json) |
 | Happy Animal Testing | 216699 | [216699-happy-animal-testing.json](./216699-happy-animal-testing.json) |
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
 | Happy Ball Rush | 391328 | [391328-happy-ball-rush.json](./391328-happy-ball-rush.json) |
@@ -4252,6 +4254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himawari Catastrophe! | 333912 | [333912-himawari-catastrophe.json](./333912-himawari-catastrophe.json) |
 | Himawari no Kyoukai to Nagai Natsuyasumi | 137108 | [137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json](./137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json) |
 | Himawari to Koi no Kioku | 194574 | [194574-himawari-to-koi-no-kioku.json](./194574-himawari-to-koi-no-kioku.json) |
+| Hime Girl Paradise: Mechikawa! Age Sakari Sensation! | 140934 | [140934-hime-girl-paradise-mechikawa-age-sakari-sensation.json](./140934-hime-girl-paradise-mechikawa-age-sakari-sensation.json) |
 | Hime Hibi Zoku! 2 Gakki: New Princess Days!! | 59372 | [59372-hime-hibi-zoku-2-gakki-new-princess-days.json](./59372-hime-hibi-zoku-2-gakki-new-princess-days.json) |
 | Hime to Boin | 77669 | [77669-hime-to-boin.json](./77669-hime-to-boin.json) |
 | Hime to Otome no Yakimochi Love | 416692 | [416692-hime-to-otome-no-yakimochi-love.json](./416692-hime-to-otome-no-yakimochi-love.json) |
