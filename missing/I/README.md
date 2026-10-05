@@ -3324,6 +3324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Dash | 55449 | [55449-island-dash.json](./55449-island-dash.json) |
 | Island Deck | 374252 | [374252-island-deck.json](./374252-island-deck.json) |
 | Island Designer | 296652 | [296652-island-designer.json](./296652-island-designer.json) |
+| Island Diary | 154583 | [154583-island-diary.json](./154583-island-diary.json) |
 | Island Dwellers | 317874 | [317874-island-dwellers.json](./317874-island-dwellers.json) |
 | Island Escape 2 | 311583 | [311583-island-escape-2.json](./311583-island-escape-2.json) |
 | Island Experiment | 27938 | [27938-island-experiment.json](./27938-island-experiment.json) |
