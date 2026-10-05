@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam and Eve: Crossy River | 233509 | [233509-adam-and-eve-crossy-river.json](./233509-adam-and-eve-crossy-river.json) |
 | Adam and Eve: The Game - Chapter 1 | 33513 | [33513-adam-and-eve-the-game-chapter-1.json](./33513-adam-and-eve-the-game-chapter-1.json) |
 | Adam Blaster: Atomic Enforcer | 73362 | [73362-adam-blaster-atomic-enforcer.json](./73362-adam-blaster-atomic-enforcer.json) |
+| Adam: Robot World | 126385 | [126385-adam-robot-world.json](./126385-adam-robot-world.json) |
 | Adam's Venture: Origins | 16298 | [16298-adams-venture-origins.json](./16298-adams-venture-origins.json) |
 | Adamantine Cruelty | 271248 | [271248-adamantine-cruelty.json](./271248-adamantine-cruelty.json) |
 | Adanath | 219701 | [219701-adanath.json](./219701-adanath.json) |
