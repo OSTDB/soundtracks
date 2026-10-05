@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kandinhale | 326743 | [326743-kandinhale.json](./326743-kandinhale.json) |
 | Kando Realm | 356684 | [356684-kando-realm.json](./356684-kando-realm.json) |
 | Kandra the Moonwalker | 186842 | [186842-kandra-the-moonwalker.json](./186842-kandra-the-moonwalker.json) |
+| Kandria | 144622 | [144622-kandria.json](./144622-kandria.json) |
 | Kandume Monsters | 228571 | [228571-kandume-monsters.json](./228571-kandume-monsters.json) |
 | Kandume Monsters Parfait | 228572 | [228572-kandume-monsters-parfait.json](./228572-kandume-monsters-parfait.json) |
 | Kane & Lynch 2: Dog Days - Multiplayer Masks Pack | 164424 | [164424-kane-and-lynch-2-dog-days-multiplayer-masks-pack.json](./164424-kane-and-lynch-2-dog-days-multiplayer-masks-pack.json) |
@@ -689,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katzala | 296926 | [296926-katzala.json](./296926-katzala.json) |
 | Katze Stuck in the Toilet 64 | 361717 | [361717-katze-stuck-in-the-toilet-64.json](./361717-katze-stuck-in-the-toilet-64.json) |
 | Katze Stuck in the Toilet 64 PC | 378295 | [378295-katze-stuck-in-the-toilet-64-pc.json](./378295-katze-stuck-in-the-toilet-64-pc.json) |
+| Kauil's Treasure | 144567 | [144567-kauils-treasure.json](./144567-kauils-treasure.json) |
 | Kaun Banega Crorepati | 263465 | [263465-kaun-banega-crorepati.json](./263465-kaun-banega-crorepati.json) |
 | Kava Tina Story | 68020 | [68020-kava-tina-story.json](./68020-kava-tina-story.json) |
 | Kavalmaja | 128655 | [128655-kavalmaja.json](./128655-kavalmaja.json) |
@@ -922,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemopop! | 309863 | [309863-kemopop.json](./309863-kemopop.json) |
 | Kemotaku | 325527 | [325527-kemotaku.json](./325527-kemotaku.json) |
 | Kemuri | 279625 | [279625-kemuri.json](./279625-kemuri.json) |
+| Ken ga Kimi for S | 144572 | [144572-ken-ga-kimi-for-s.json](./144572-ken-ga-kimi-for-s.json) |
 | Ken Griffey Jr. Presents Major League Baseball | 299308 | [299308-ken-griffey-jr-presents-major-league-baseball.json](./299308-ken-griffey-jr-presents-major-league-baseball.json) |
 | Ken Griffey Jr.'s Horrible Tower | 382786 | [382786-ken-griffey-jr-s-horrible-tower.json](./382786-ken-griffey-jr-s-horrible-tower.json) |
 | Ken Griffey Jr.'s Slugfest | 3531 | [3531-ken-griffey-jr-s-slugfest.json](./3531-ken-griffey-jr-s-slugfest.json) |
@@ -1710,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Bounty II: Duke's Edition | 169209 | [169209-kings-bounty-ii-dukes-edition.json](./169209-kings-bounty-ii-dukes-edition.json) |
 | King's Bounty II: King Collector's Edition | 153021 | [153021-kings-bounty-ii-king-collectors-edition.json](./153021-kings-bounty-ii-king-collectors-edition.json) |
 | King's Bounty II: Lord's Edition | 155100 | [155100-kings-bounty-ii-lords-edition.json](./155100-kings-bounty-ii-lords-edition.json) |
+| King's Bounty: Collector's Pack | 144586 | [144586-kings-bounty-collectors-pack.json](./144586-kings-bounty-collectors-pack.json) |
 | King's Bounty: Dark Side | 8073 | [8073-kings-bounty-dark-side.json](./8073-kings-bounty-dark-side.json) |
 | King's Bounty: Dark Side - Premium Edition | 53238 | [53238-kings-bounty-dark-side-premium-edition.json](./53238-kings-bounty-dark-side-premium-edition.json) |
 | King's Bounty: Legions - Beast Master Pack | 169933 | [169933-kings-bounty-legions-beast-master-pack.json](./169933-kings-bounty-legions-beast-master-pack.json) |
