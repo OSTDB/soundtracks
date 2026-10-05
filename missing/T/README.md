@@ -2478,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraGenesis - Space Colony | 102762 | [102762-terragenesis-space-colony.json](./102762-terragenesis-space-colony.json) |
 | TerraGenesis - Space Settlers | 102730 | [102730-terragenesis-space-settlers.json](./102730-terragenesis-space-settlers.json) |
 | TerraGenesis: Landfall | 213339 | [213339-terragenesis-landfall.json](./213339-terragenesis-landfall.json) |
+| Terragon: Symbol Of Magic | 164941 | [164941-terragon-symbol-of-magic.json](./164941-terragon-symbol-of-magic.json) |
 | Terrahawks: The Battlehawk | 385725 | [385725-terrahawks-the-battlehawk.json](./385725-terrahawks-the-battlehawk.json) |
 | Terrain Defender | 402381 | [402381-terrain-defender.json](./402381-terrain-defender.json) |
 | Terrain of Magical Expertise | 72762 | [72762-terrain-of-magical-expertise.json](./72762-terrain-of-magical-expertise.json) |
