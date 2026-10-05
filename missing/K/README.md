@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KeepUp Survival: Mountain Map | 293873 | [293873-keepup-survival-mountain-map.json](./293873-keepup-survival-mountain-map.json) |
 | Keepy Up | 400344 | [400344-keepy-up.json](./400344-keepy-up.json) |
 | Keepy Uppy | 229353 | [229353-keepy-uppy.json](./229353-keepy-uppy.json) |
+| Keezeh: The Spector of Time | 160268 | [160268-keezeh-the-spector-of-time.json](./160268-keezeh-the-spector-of-time.json) |
 | Keg Bearer | 200127 | [200127-keg-bearer.json](./200127-keg-bearer.json) |
 | Keg War | 183444 | [183444-keg-war.json](./183444-keg-war.json) |
 | Keg Wars | 104249 | [104249-keg-wars.json](./104249-keg-wars.json) |
