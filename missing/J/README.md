@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JetmanGo | 68467 | [68467-jetmango.json](./68467-jetmango.json) |
 | Jetpac Refuelled | 7854 | [7854-jetpac-refuelled.json](./7854-jetpac-refuelled.json) |
 | Jetpac Too | 239653 | [239653-jetpac-too.json](./239653-jetpac-too.json) |
+| Jetpack 2 | 137947 | [137947-jetpack-2.json](./137947-jetpack-2.json) |
 | Jetpack Astronaut | 171564 | [171564-jetpack-astronaut.json](./171564-jetpack-astronaut.json) |
 | Jetpack Birdie | 240754 | [240754-jetpack-birdie.json](./240754-jetpack-birdie.json) |
 | Jetpack Cat | 72694 | [72694-jetpack-cat.json](./72694-jetpack-cat.json) |
@@ -1604,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jrago III Requiem of the Night | 390531 | [390531-jrago-iii-requiem-of-the-night.json](./390531-jrago-iii-requiem-of-the-night.json) |
 | Jrago The Demon Hunter | 262914 | [262914-jrago-the-demon-hunter.json](./262914-jrago-the-demon-hunter.json) |
 | JRoguePG | 346657 | [346657-jroguepg.json](./346657-jroguepg.json) |
+| Jstris | 137955 | [137955-jstris.json](./137955-jstris.json) |
 | JTAC Beats | 294960 | [294960-jtac-beats.json](./294960-jtac-beats.json) |
 | Ju | 74382 | [74382-ju.json](./74382-ju.json) |
 | Ju Ju Densetsu | 40202 | [40202-ju-ju-densetsu.json](./40202-ju-ju-densetsu.json) |
@@ -1737,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Frog | 246343 | [246343-jump-frog.json](./246343-jump-frog.json) |
 | Jump Generation | 74995 | [74995-jump-generation.json](./74995-jump-generation.json) |
 | Jump Greed | 363563 | [363563-jump-greed.json](./363563-jump-greed.json) |
+| Jump Hero | 137956 | [137956-jump-hero.json](./137956-jump-hero.json) |
 | Jump Hero II: Jinsei wa Jabuun | 137620 | [137620-jump-hero-ii-jinsei-wa-jabuun.json](./137620-jump-hero-ii-jinsei-wa-jabuun.json) |
 | Jump Heroes | 290726 | [290726-jump-heroes.json](./290726-jump-heroes.json) |
 | Jump If You Can! | 193227 | [193227-jump-if-you-can.json](./193227-jump-if-you-can.json) |
