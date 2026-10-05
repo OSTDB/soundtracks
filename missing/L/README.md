@@ -4307,6 +4307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Friends 2: Reason for Tears | 393622 | [393622-lost-friends-2-reason-for-tears.json](./393622-lost-friends-2-reason-for-tears.json) |
 | Lost Friends 3: Never Return | 393623 | [393623-lost-friends-3-never-return.json](./393623-lost-friends-3-never-return.json) |
 | Lost Galaxy: Echoes of War | 350007 | [350007-lost-galaxy-echoes-of-war.json](./350007-lost-galaxy-echoes-of-war.json) |
+| Lost Game | 166585 | [166585-lost-game.json](./166585-lost-game.json) |
 | Lost Garden | 334714 | [334714-lost-garden.json](./334714-lost-garden.json) |
 | Lost Gems | 156519 | [156519-lost-gems.json](./156519-lost-gems.json) |
 | Lost Girl | 184900 | [184900-lost-girl.json](./184900-lost-girl.json) |
