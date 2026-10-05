@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Defeat HD: Deluxe Edition | 20239 | [20239-under-defeat-hd-deluxe-edition.json](./20239-under-defeat-hd-deluxe-edition.json) |
 | Under Defeat HD+ | 21016 | [21016-under-defeat-hd.json](./21016-under-defeat-hd.json) |
 | Under Destruction | 356760 | [356760-under-destruction.json](./356760-under-destruction.json) |
+| Under Development | 131344 | [131344-under-development.json](./131344-under-development.json) |
 | Under Domain | 139190 | [139190-under-domain.json](./139190-under-domain.json) |
 | Under Fire | 46876 | [46876-under-fire.json](./46876-under-fire.json) |
 | Under Fire! | 25971 | [25971-under-fire.json](./25971-under-fire.json) |
@@ -1666,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled John Wick Game | 389438 | [389438-untitled-john-wick-game.json](./389438-untitled-john-wick-game.json) |
 | Untitled Kirby Game | 245009 | [245009-untitled-kirby-game.json](./245009-untitled-kirby-game.json) |
 | Untitled Kirby Game | 245010 | [245010-untitled-kirby-game.json](./245010-untitled-kirby-game.json) |
+| Untitled Lord of the Rings MMO | 131430 | [131430-untitled-lord-of-the-rings-mmo.json](./131430-untitled-lord-of-the-rings-mmo.json) |
 | Untitled One | 202340 | [202340-untitled-one.json](./202340-untitled-one.json) |
 | Untitled Paper Mario Fangame | 266509 | [266509-untitled-paper-mario-fangame.json](./266509-untitled-paper-mario-fangame.json) |
 | Untitled Racing Game | 219063 | [219063-untitled-racing-game.json](./219063-untitled-racing-game.json) |
