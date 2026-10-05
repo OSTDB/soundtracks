@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarrel Hill | 295330 | [295330-quarrel-hill.json](./295330-quarrel-hill.json) |
 | Quartal | 370145 | [370145-quartal.json](./370145-quartal.json) |
 | Quarter Back Scramble: American Football Game | 48823 | [48823-quarter-back-scramble-american-football-game.json](./48823-quarter-back-scramble-american-football-game.json) |
+| Quarter Dollar | 132678 | [132678-quarter-dollar.json](./132678-quarter-dollar.json) |
 | Quarter Five | 355561 | [355561-quarter-five.json](./355561-quarter-five.json) |
 | Quarter Fraction | 181190 | [181190-quarter-fraction.json](./181190-quarter-fraction.json) |
 | Quarter Monkey | 233759 | [233759-quarter-monkey.json](./233759-quarter-monkey.json) |
