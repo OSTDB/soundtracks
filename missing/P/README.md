@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Champ | 388958 | [388958-party-champ.json](./388958-party-champ.json) |
 | Party Chaos | 213446 | [213446-party-chaos.json](./213446-party-chaos.json) |
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
+| Party Crasher Simulator | 163272 | [163272-party-crasher-simulator.json](./163272-party-crasher-simulator.json) |
 | Party Demon | 238997 | [238997-party-demon.json](./238997-party-demon.json) |
 | Party Designer | 67398 | [67398-party-designer.json](./67398-party-designer.json) |
 | Party Doodles | 241338 | [241338-party-doodles.json](./241338-party-doodles.json) |
