@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Run Away | 212466 | [212466-rabbit-run-away.json](./212466-rabbit-run-away.json) |
 | Rabbit Run Carrot Hunt | 361347 | [361347-rabbit-run-carrot-hunt.json](./361347-rabbit-run-carrot-hunt.json) |
 | Rabbit Rush | 363024 | [363024-rabbit-rush.json](./363024-rabbit-rush.json) |
+| Rabbit Simulator | 143939 | [143939-rabbit-simulator.json](./143939-rabbit-simulator.json) |
 | Rabbit Trail | 42180 | [42180-rabbit-trail.json](./42180-rabbit-trail.json) |
 | Rabbit's All-Comers Mapping Project | 260958 | [260958-rabbits-all-comers-mapping-project.json](./260958-rabbits-all-comers-mapping-project.json) |
 | Rabbit's All-Comers Mapping Project 2022 | 260962 | [260962-rabbits-all-comers-mapping-project-2022.json](./260962-rabbits-all-comers-mapping-project-2022.json) |
@@ -4670,6 +4671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roar Rampage | 374282 | [374282-roar-rampage.json](./374282-roar-rampage.json) |
 | Roaring Streets! | 181293 | [181293-roaring-streets.json](./181293-roaring-streets.json) |
 | Roaring Twenties Solitaire | 213935 | [213935-roaring-twenties-solitaire.json](./213935-roaring-twenties-solitaire.json) |
+| Roark Games: Congressman | 143957 | [143957-roark-games-congressman.json](./143957-roark-games-congressman.json) |
 | Roark's Attack on Titan Fan Game | 152751 | [152751-roarks-attack-on-titan-fan-game.json](./152751-roarks-attack-on-titan-fan-game.json) |
 | Roarr! | 96870 | [96870-roarr.json](./96870-roarr.json) |
 | Roarr!: Jurassic Edition | 111909 | [111909-roarr-jurassic-edition.json](./111909-roarr-jurassic-edition.json) |
