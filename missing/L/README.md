@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Chaos | 90316 | [90316-last-chaos.json](./90316-last-chaos.json) |
 | Last Chickenburg | 121447 | [121447-last-chickenburg.json](./121447-last-chickenburg.json) |
 | Last Christmas | 220542 | [220542-last-christmas.json](./220542-last-christmas.json) |
+| Last Command | 148673 | [148673-last-command.json](./148673-last-command.json) |
 | Last Command: B-Side | 376749 | [376749-last-command-b-side.json](./376749-last-command-b-side.json) |
 | Last Command: Scream Fest pack | 263039 | [263039-last-command-scream-fest-pack.json](./263039-last-command-scream-fest-pack.json) |
 | Last Contingency | 152902 | [152902-last-contingency.json](./152902-last-contingency.json) |
