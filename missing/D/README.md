@@ -1931,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Reckoner | 406220 | [406220-dead-reckoner.json](./406220-dead-reckoner.json) |
 | Dead Reckoning | 71536 | [71536-dead-reckoning.json](./71536-dead-reckoning.json) |
 | Dead Reckoning: Knowledge | 101957 | [101957-dead-reckoning-knowledge.json](./101957-dead-reckoning-knowledge.json) |
+| Dead Reckoning: Lethal Knowledge | 145298 | [145298-dead-reckoning-lethal-knowledge.json](./145298-dead-reckoning-lethal-knowledge.json) |
 | Dead Reckoning: The Crescent Case - Collector's Edition | 89944 | [89944-dead-reckoning-the-crescent-case-collectors-edition.json](./89944-dead-reckoning-the-crescent-case-collectors-edition.json) |
 | Dead Reset | 346233 | [346233-dead-reset.json](./346233-dead-reset.json) |
 | Dead Rising | 4797 | [4797-dead-rising.json](./4797-dead-rising.json) |
@@ -5474,6 +5475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Chip 'n Dale Rescue Rangers: The Adventure in Nimnul's Castle | 78641 | [78641-disneys-chip-n-dale-rescue-rangers-the-adventure-in-nimnuls-castle.json](./78641-disneys-chip-n-dale-rescue-rangers-the-adventure-in-nimnuls-castle.json) |
 | Disney's Cinderella: Magical Dreams | 49376 | [49376-disneys-cinderella-magical-dreams.json](./49376-disneys-cinderella-magical-dreams.json) |
 | Disney's Classic Games | 205612 | [205612-disneys-classic-games.json](./205612-disneys-classic-games.json) |
+| Disney's Darkwing Duck | 145266 | [145266-disneys-darkwing-duck.json](./145266-disneys-darkwing-duck.json) |
 | Disney's Darkwing Duck | 8452 | [8452-disneys-darkwing-duck.json](./8452-disneys-darkwing-duck.json) |
 | Disney's Dinosaur | 46446 | [46446-disneys-dinosaur.json](./46446-disneys-dinosaur.json) |
 | Disney's Dinosaur Activity Center | 72123 | [72123-disneys-dinosaur-activity-center.json](./72123-disneys-dinosaur-activity-center.json) |
@@ -5483,6 +5485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Doug: Doug's Big Game | 49942 | [49942-disneys-doug-dougs-big-game.json](./49942-disneys-doug-dougs-big-game.json) |
 | Disney's DuckTales | 145268 | [145268-disneys-ducktales.json](./145268-disneys-ducktales.json) |
 | Disney's DuckTales | 6487 | [6487-disneys-ducktales.json](./6487-disneys-ducktales.json) |
+| Disney's DuckTales 2 | 145272 | [145272-disneys-ducktales-2.json](./145272-disneys-ducktales-2.json) |
 | Disney's DuckTales 2 | 6488 | [6488-disneys-ducktales-2.json](./6488-disneys-ducktales-2.json) |
 | Disney's Goofy's Fun House | 43895 | [43895-disneys-goofys-fun-house.json](./43895-disneys-goofys-fun-house.json) |
 | Disney's Herbie: Rescue Rally | 73552 | [73552-disneys-herbie-rescue-rally.json](./73552-disneys-herbie-rescue-rally.json) |
@@ -6629,6 +6632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong | 40922 | [40922-donkey-kong.json](./40922-donkey-kong.json) |
 | Donkey Kong "Special Edition" | 305301 | [305301-donkey-kong-special-edition.json](./305301-donkey-kong-special-edition.json) |
 | Donkey Kong 2: The Rise of Jumpman! | 234768 | [234768-donkey-kong-2-the-rise-of-jumpman.json](./234768-donkey-kong-2-the-rise-of-jumpman.json) |
+| Donkey Kong 3 | 145239 | [145239-donkey-kong-3.json](./145239-donkey-kong-3.json) |
 | Donkey Kong 3 | 178167 | [178167-donkey-kong-3.json](./178167-donkey-kong-3.json) |
 | Donkey Kong 3 & Samus | 323885 | [323885-donkey-kong-3-and-samus.json](./323885-donkey-kong-3-and-samus.json) |
 | Donkey Kong 3-e | 170016 | [170016-donkey-kong-3-e.json](./170016-donkey-kong-3-e.json) |
@@ -8035,6 +8039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragondell | 184943 | [184943-dragondell.json](./184943-dragondell.json) |
 | Dragondot 3 | 135010 | [135010-dragondot-3.json](./135010-dragondot-3.json) |
 | Dragonea | 326064 | [326064-dragonea.json](./326064-dragonea.json) |
+| Dragoneila | 145301 | [145301-dragoneila.json](./145301-dragoneila.json) |
 | Dragonfall | 296937 | [296937-dragonfall.json](./296937-dragonfall.json) |
 | Dragonfang - Drahn's Mystery Dungeon | 129006 | [129006-dragonfang-drahns-mystery-dungeon.json](./129006-dragonfang-drahns-mystery-dungeon.json) |
 | Dragonfire | 5671 | [5671-dragonfire.json](./5671-dragonfire.json) |
@@ -8208,6 +8213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawquarium | 374055 | [374055-drawquarium.json](./374055-drawquarium.json) |
 | Drawsome Sketch Quest | 65548 | [65548-drawsome-sketch-quest.json](./65548-drawsome-sketch-quest.json) |
 | drawwars.io | 389104 | [389104-drawwars-io.json](./389104-drawwars-io.json) |
+| Drawy | 145283 | [145283-drawy.json](./145283-drawy.json) |
 | Drayt Empire | 32032 | [32032-drayt-empire.json](./32032-drayt-empire.json) |
 | DRazor | 156084 | [156084-drazor.json](./156084-drazor.json) |
 | Dread | 130910 | [130910-dread.json](./130910-dread.json) |
