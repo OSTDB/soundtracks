@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Domains | 54078 | [54078-haunted-domains.json](./54078-haunted-domains.json) |
 | Haunted Dungeons: Hyakki Castle | 110831 | [110831-haunted-dungeons-hyakki-castle.json](./110831-haunted-dungeons-hyakki-castle.json) |
 | Haunted Escape: Wrath of Victoria | 62759 | [62759-haunted-escape-wrath-of-victoria.json](./62759-haunted-escape-wrath-of-victoria.json) |
+| Haunted Gas Station | 123976 | [123976-haunted-gas-station.json](./123976-haunted-gas-station.json) |
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
 | Haunted Heye Apartment | 245811 | [245811-haunted-heye-apartment.json](./245811-haunted-heye-apartment.json) |
 | Haunted Hill | 276390 | [276390-haunted-hill.json](./276390-haunted-hill.json) |
@@ -2004,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Héchéng Dà Xīguā | 296019 | [296019-hecheng-da-xigua.json](./296019-hecheng-da-xigua.json) |
 | Heck Deck | 154054 | [154054-heck-deck.json](./154054-heck-deck.json) |
 | Heckin' Slimes | 176788 | [176788-heckin-slimes.json](./176788-heckin-slimes.json) |
+| Heckle Dungeon | 123999 | [123999-heckle-dungeon.json](./123999-heckle-dungeon.json) |
 | Hector The Cat: Treasure Hunter | 257437 | [257437-hector-the-cat-treasure-hunter.json](./257437-hector-the-cat-treasure-hunter.json) |
 | Hector: Badge of Carnage! - Episode 1 | 119182 | [119182-hector-badge-of-carnage-episode-1.json](./119182-hector-badge-of-carnage-episode-1.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
@@ -2324,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellfire Zone | 68755 | [68755-hellfire-zone.json](./68755-hellfire-zone.json) |
 | Hellfire: Reborn | 274131 | [274131-hellfire-reborn.json](./274131-hellfire-reborn.json) |
 | HellFire: The Summoning | 27690 | [27690-hellfire-the-summoning.json](./27690-hellfire-the-summoning.json) |
+| Hellfo | 123969 | [123969-hellfo.json](./123969-hellfo.json) |
 | HellFull: The Last Hope | 192273 | [192273-hellfull-the-last-hope.json](./192273-hellfull-the-last-hope.json) |
 | HellFurnace | 237951 | [237951-hellfurnace.json](./237951-hellfurnace.json) |
 | Hellgate | 125403 | [125403-hellgate.json](./125403-hellgate.json) |
@@ -5022,6 +5025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeostasis | 389444 | [389444-homeostasis.json](./389444-homeostasis.json) |
 | Homepage | 347702 | [347702-homepage.json](./347702-homepage.json) |
 | Homer the Flanders Killer 6 | 268487 | [268487-homer-the-flanders-killer-6.json](./268487-homer-the-flanders-killer-6.json) |
+| Homer's Odyssey | 123977 | [123977-homers-odyssey.json](./123977-homers-odyssey.json) |
 | Homerun | 172462 | [172462-homerun.json](./172462-homerun.json) |
 | Homerun Bun | 209947 | [209947-homerun-bun.json](./209947-homerun-bun.json) |
 | Homerun Clash 2: Legends Derby | 312584 | [312584-homerun-clash-2-legends-derby.json](./312584-homerun-clash-2-legends-derby.json) |
@@ -5895,6 +5899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House 3D: Move and Unpack | 196680 | [196680-house-3d-move-and-unpack.json](./196680-house-3d-move-and-unpack.json) |
 | House Builder 2 | 343234 | [343234-house-builder-2.json](./343234-house-builder-2.json) |
 | House Call | 386983 | [386983-house-call.json](./386983-house-call.json) |
+| House Chores | 123994 | [123994-house-chores.json](./123994-house-chores.json) |
 | House Cleaner Flipper Game | 105916 | [105916-house-cleaner-flipper-game.json](./105916-house-cleaner-flipper-game.json) |
 | House Cleaning Simulator | 401126 | [401126-house-cleaning-simulator.json](./401126-house-cleaning-simulator.json) |
 | House Dating VR: Cute Korean Girl, Sehyun | 74506 | [74506-house-dating-vr-cute-korean-girl-sehyun.json](./74506-house-dating-vr-cute-korean-girl-sehyun.json) |
