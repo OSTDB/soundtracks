@@ -2330,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Gunner | 46078 | [46078-night-gunner.json](./46078-night-gunner.json) |
 | Night Gunner: Final Mission | 55843 | [55843-night-gunner-final-mission.json](./55843-night-gunner-final-mission.json) |
 | Night Hazard | 329110 | [329110-night-hazard.json](./329110-night-hazard.json) |
+| Night Head: The Labyrinth | 123475 | [123475-night-head-the-labyrinth.json](./123475-night-head-the-labyrinth.json) |
 | Night in the Unpleasant House | 227837 | [227837-night-in-the-unpleasant-house.json](./227837-night-in-the-unpleasant-house.json) |
 | Night in the Woods: Longest Night | 55865 | [55865-night-in-the-woods-longest-night.json](./55865-night-in-the-woods-longest-night.json) |
 | Night in the Woods: Lost Constellation | 60719 | [60719-night-in-the-woods-lost-constellation.json](./60719-night-in-the-woods-lost-constellation.json) |
