@@ -1789,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MapTap.gg | 400496 | [400496-maptap-gg.json](./400496-maptap-gg.json) |
 | Mapventure Story | 238587 | [238587-mapventure-story.json](./238587-mapventure-story.json) |
 | Maqiupai | 92993 | [92993-maqiupai.json](./92993-maqiupai.json) |
+| Maquisard | 128427 | [128427-maquisard.json](./128427-maquisard.json) |
 | Mar | 405636 | [405636-mar.json](./405636-mar.json) |
 | Mär Heaven: Arm Fight Dream | 59398 | [59398-mar-heaven-arm-fight-dream.json](./59398-mar-heaven-arm-fight-dream.json) |
 | Mär Heaven: Karudea no Akuma | 353317 | [353317-mar-heaven-karudea-no-akuma.json](./353317-mar-heaven-karudea-no-akuma.json) |
@@ -4038,6 +4039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Force | 22433 | [22433-mega-force.json](./22433-mega-force.json) |
 | Mega Force | 6139 | [6139-mega-force.json](./6139-mega-force.json) |
 | Mega Game Room 2 | 209531 | [209531-mega-game-room-2.json](./209531-mega-game-room-2.json) |
+| Mega Hasan | 128343 | [128343-mega-hasan.json](./128343-mega-hasan.json) |
 | Mega Knight | 288367 | [288367-mega-knight.json](./288367-mega-knight.json) |
 | Mega Knockdown: Supporter Colors | 340560 | [340560-mega-knockdown-supporter-colors.json](./340560-mega-knockdown-supporter-colors.json) |
 | Mega Mall Story 2 | 146725 | [146725-mega-mall-story-2.json](./146725-mega-mall-story-2.json) |
@@ -7433,6 +7435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Rift Seeker | 295539 | [295539-mission-rift-seeker.json](./295539-mission-rift-seeker.json) |
 | Mission: Scarlet Stars | 341114 | [341114-mission-scarlet-stars.json](./341114-mission-scarlet-stars.json) |
 | Mission: Space | 264028 | [264028-mission-space.json](./264028-mission-space.json) |
+| Mission:Amazing | 128341 | [128341-mission-amazing.json](./128341-mission-amazing.json) |
 | MissionForce: CyberStorm | 792 | [792-missionforce-cyberstorm.json](./792-missionforce-cyberstorm.json) |
 | Missland | 225613 | [225613-missland.json](./225613-missland.json) |
 | Missland 2 | 277427 | [277427-missland-2.json](./277427-missland-2.json) |
