@@ -2526,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insomnis | 113861 | [113861-insomnis.json](./113861-insomnis.json) |
 | Insomnis: Enhanced Edition | 198395 | [198395-insomnis-enhanced-edition.json](./198395-insomnis-enhanced-edition.json) |
 | Inspace 2980 | 109645 | [109645-inspace-2980.json](./109645-inspace-2980.json) |
+| Inspector | 123958 | [123958-inspector.json](./123958-inspector.json) |
 | Inspector Douglas's Diary | 316634 | [316634-inspector-douglass-diary.json](./316634-inspector-douglass-diary.json) |
 | Inspector Gadget | 4859 | [4859-inspector-gadget.json](./4859-inspector-gadget.json) |
 | Inspector Gadget: Mad Time Party | 247190 | [247190-inspector-gadget-mad-time-party.json](./247190-inspector-gadget-mad-time-party.json) |
