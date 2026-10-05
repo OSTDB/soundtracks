@@ -2068,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fengse Huanxiang 5: Chi Yue Zhanzheng | 68690 | [68690-fengse-huanxiang-5-chi-yue-zhanzheng.json](./68690-fengse-huanxiang-5-chi-yue-zhanzheng.json) |
 | Fengse Huanxiang 6 | 230221 | [230221-fengse-huanxiang-6.json](./230221-fengse-huanxiang-6.json) |
 | Fēngsè Huànxiǎng III: Zuì Yǔ Fá de Zhènhúngē | 350519 | [350519-fengse-huanxiang-iii-zui-yu-fa-de-zhenhunge.json](./350519-fengse-huanxiang-iii-zui-yu-fa-de-zhenhunge.json) |
+| Fēngshén Cè | 128325 | [128325-fengshen-ce.json](./128325-fengshen-ce.json) |
 | Fēngshén Ràng Wǒ Lái | 375428 | [375428-fengshen-rang-wo-lai.json](./375428-fengshen-rang-wo-lai.json) |
 | Fēngshén Yīngjié Zhuán | 93061 | [93061-fengshen-yingjie-zhuan.json](./93061-fengshen-yingjie-zhuan.json) |
 | Fēngshénbǎng 2020 | 157078 | [157078-fengshenbang-2020.json](./157078-fengshenbang-2020.json) |
@@ -3770,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Rooms | 102361 | [102361-five-rooms.json](./102361-five-rooms.json) |
 | Five Seconds of Bad Music | 109619 | [109619-five-seconds-of-bad-music.json](./109619-five-seconds-of-bad-music.json) |
 | Five Shifts at Zlata's | 385280 | [385280-five-shifts-at-zlatas.json](./385280-five-shifts-at-zlatas.json) |
+| Five Stages | 128429 | [128429-five-stages.json](./128429-five-stages.json) |
 | Five Star Games | 100129 | [100129-five-star-games.json](./100129-five-star-games.json) |
 | Five Star Games 2 | 79601 | [79601-five-star-games-2.json](./79601-five-star-games-2.json) |
 | Five Starless Rivers | 285438 | [285438-five-starless-rivers.json](./285438-five-starless-rivers.json) |
