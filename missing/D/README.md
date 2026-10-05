@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the Mexica | 143739 | [143739-dawn-of-the-mexica.json](./143739-dawn-of-the-mexica.json) |
 | Dawn of the Monsters: Arcade Edition | 252364 | [252364-dawn-of-the-monsters-arcade-edition.json](./252364-dawn-of-the-monsters-arcade-edition.json) |
 | Dawn of the Monsters: Full Game plus Arcade + Character DLC Pack Bundle | 263530 | [263530-dawn-of-the-monsters-full-game-plus-arcade-character-dlc-pack-bundle.json](./263530-dawn-of-the-monsters-full-game-plus-arcade-character-dlc-pack-bundle.json) |
+| Dawn of the Others | 158131 | [158131-dawn-of-the-others.json](./158131-dawn-of-the-others.json) |
 | Dawn of the Robot Empire | 33271 | [33271-dawn-of-the-robot-empire.json](./33271-dawn-of-the-robot-empire.json) |
 | Dawn of the Saviours | 50813 | [50813-dawn-of-the-saviours.json](./50813-dawn-of-the-saviours.json) |
 | Dawn of the Tiberium Age | 322388 | [322388-dawn-of-the-tiberium-age.json](./322388-dawn-of-the-tiberium-age.json) |
@@ -2221,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Magi: Mahou Shounen Gakka | 242043 | [242043-dear-magi-mahou-shounen-gakka.json](./242043-dear-magi-mahou-shounen-gakka.json) |
 | Dear Mariko | 124638 | [124638-dear-mariko.json](./124638-dear-mariko.json) |
 | Dear me, I was… | 351207 | [351207-dear-me-i-was.json](./351207-dear-me-i-was.json) |
+| Dear Mom | 158129 | [158129-dear-mom.json](./158129-dear-mom.json) |
 | Dear Mom: My Letter to You | 164965 | [164965-dear-mom-my-letter-to-you.json](./164965-dear-mom-my-letter-to-you.json) |
 | Dear My Bot | 405635 | [405635-dear-my-bot.json](./405635-dear-my-bot.json) |
 | Dear My Cat | 200453 | [200453-dear-my-cat.json](./200453-dear-my-cat.json) |
@@ -5138,6 +5140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Golf Rival | 221377 | [221377-disc-golf-rival.json](./221377-disc-golf-rival.json) |
 | Disc Golf to Go | 175399 | [175399-disc-golf-to-go.json](./175399-disc-golf-to-go.json) |
 | Disc Golf Valley | 146108 | [146108-disc-golf-valley.json](./146108-disc-golf-valley.json) |
+| Disc Golf Valley VR | 158107 | [158107-disc-golf-valley-vr.json](./158107-disc-golf-valley-vr.json) |
 | Disc Golf VR | 101325 | [101325-disc-golf-vr.json](./101325-disc-golf-vr.json) |
 | Disc Ninja | 164886 | [164886-disc-ninja.json](./164886-disc-ninja.json) |
 | Disc Party | 134081 | [134081-disc-party.json](./134081-disc-party.json) |
@@ -6267,6 +6270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dome-King Cabbage | 152283 | [152283-dome-king-cabbage.json](./152283-dome-king-cabbage.json) |
 | Domefender | 410927 | [410927-domefender.json](./410927-domefender.json) |
 | Domenation | 277858 | [277858-domenation.json](./277858-domenation.json) |
+| Domestic Defense | 158113 | [158113-domestic-defense.json](./158113-domestic-defense.json) |
 | Domestic Dog | 36006 | [36006-domestic-dog.json](./36006-domestic-dog.json) |
 | Domestic Elementalism | 207217 | [207217-domestic-elementalism.json](./207217-domestic-elementalism.json) |
 | DomiCard | 107904 | [107904-domicard.json](./107904-domicard.json) |
