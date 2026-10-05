@@ -3458,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishing Well Hotel | 386107 | [386107-wishing-well-hotel.json](./386107-wishing-well-hotel.json) |
 | Wishlist | 244300 | [244300-wishlist.json](./244300-wishlist.json) |
 | Wishseeker | 415089 | [415089-wishseeker.json](./415089-wishseeker.json) |
+| Wishy Washy | 133163 | [133163-wishy-washy.json](./133163-wishy-washy.json) |
 | Wisly and the Chickens! | 165508 | [165508-wisly-and-the-chickens.json](./165508-wisly-and-the-chickens.json) |
 | Wisp Child | 265257 | [265257-wisp-child.json](./265257-wisp-child.json) |
 | Wispera | 216825 | [216825-wispera.json](./216825-wispera.json) |
