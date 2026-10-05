@@ -5388,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guest Rush | 342728 | [342728-guest-rush.json](./342728-guest-rush.json) |
 | Gugong | 291720 | [291720-gugong.json](./291720-gugong.json) |
 | Gui Chu Da Mao Xian | 369566 | [369566-gui-chu-da-mao-xian.json](./369566-gui-chu-da-mao-xian.json) |
+| Guǐchù Zhànjì: Jīnkēlā Chuánshuō | 120722 | [120722-guichu-zhanji-jinkela-chuanshuo.json](./120722-guichu-zhanji-jinkela-chuanshuo.json) |
 | Guidance | 222349 | [222349-guidance.json](./222349-guidance.json) |
 | Guide To Apocalypse | 334492 | [334492-guide-to-apocalypse.json](./334492-guide-to-apocalypse.json) |
 | Guided Meditation VR | 34577 | [34577-guided-meditation-vr.json](./34577-guided-meditation-vr.json) |
