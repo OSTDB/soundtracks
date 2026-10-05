@@ -3317,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Assailant's Arrival | 254659 | [254659-the-assailants-arrival.json](./254659-the-assailants-arrival.json) |
 | The Assassins: PD Games Volume 01 | 267643 | [267643-the-assassins-pd-games-volume-01.json](./267643-the-assassins-pd-games-volume-01.json) |
 | The Assault: Survivor | 395780 | [395780-the-assault-survivor.json](./395780-the-assault-survivor.json) |
+| The Assembly / Perfect Double Pack | 145256 | [145256-the-assembly-perfect-double-pack.json](./145256-the-assembly-perfect-double-pack.json) |
 | The Assistant's Turnabout | 303261 | [303261-the-assistants-turnabout.json](./303261-the-assistants-turnabout.json) |
 | The Asskickers | 9403 | [9403-the-asskickers.json](./9403-the-asskickers.json) |
 | The Asteroid Field | 280884 | [280884-the-asteroid-field.json](./280884-the-asteroid-field.json) |
@@ -3947,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cheetah Girls: Passport to Stardom | 117498 | [117498-the-cheetah-girls-passport-to-stardom.json](./117498-the-cheetah-girls-passport-to-stardom.json) |
 | The Cheetahmen: The Creation | 63348 | [63348-the-cheetahmen-the-creation.json](./63348-the-cheetahmen-the-creation.json) |
 | The Chef | 71238 | [71238-the-chef.json](./71238-the-chef.json) |
+| The Cherry Orchard | 145302 | [145302-the-cherry-orchard.json](./145302-the-cherry-orchard.json) |
 | The Chess | 351729 | [351729-the-chess.json](./351729-the-chess.json) |
 | The Chess Player | 380106 | [380106-the-chess-player.json](./380106-the-chess-player.json) |
 | The Chessmaster 3-D | 15879 | [15879-the-chessmaster-3-d.json](./15879-the-chessmaster-3-d.json) |
@@ -5192,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Finest Spark | 408235 | [408235-the-finest-spark.json](./408235-the-finest-spark.json) |
 | The Finnish War | 195573 | [195573-the-finnish-war.json](./195573-the-finnish-war.json) |
 | The Finnish War x Sotidrokhima: Finlandsaga | 269188 | [269188-the-finnish-war-x-sotidrokhima-finlandsaga.json](./269188-the-finnish-war-x-sotidrokhima-finlandsaga.json) |
+| The Fire Chief Compilation | 145261 | [145261-the-fire-chief-compilation.json](./145261-the-fire-chief-compilation.json) |
 | The Fire Nobody Started | 332067 | [332067-the-fire-nobody-started.json](./332067-the-fire-nobody-started.json) |
 | The Fire Rises | 321742 | [321742-the-fire-rises.json](./321742-the-fire-rises.json) |
 | The Firebrand | 295246 | [295246-the-firebrand.json](./295246-the-firebrand.json) |
@@ -9662,6 +9665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower | 282089 | [282089-the-tower.json](./282089-the-tower.json) |
 | The Tower | 366928 | [366928-the-tower.json](./366928-the-tower.json) |
 | The Tower 2 | 120952 | [120952-the-tower-2.json](./120952-the-tower-2.json) |
+| The Tower Between Us | 145300 | [145300-the-tower-between-us.json](./145300-the-tower-between-us.json) |
 | The Tower Must Fall | 412489 | [412489-the-tower-must-fall.json](./412489-the-tower-must-fall.json) |
 | The Tower of Archeos | 287318 | [287318-the-tower-of-archeos.json](./287318-the-tower-of-archeos.json) |
 | The Tower of Beatrice | 90417 | [90417-the-tower-of-beatrice.json](./90417-the-tower-of-beatrice.json) |
@@ -13391,6 +13395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tofu Go! 2: The Onsen Adventure | 242206 | [242206-tofu-go-2-the-onsen-adventure.json](./242206-tofu-go-2-the-onsen-adventure.json) |
 | Tofu'Drift | 242629 | [242629-tofudrift.json](./242629-tofudrift.json) |
 | Toga | 256987 | [256987-toga.json](./256987-toga.json) |
+| Togainu no Chi: True Blood | 145289 | [145289-togainu-no-chi-true-blood.json](./145289-togainu-no-chi-true-blood.json) |
 | Together | 152248 | [152248-together.json](./152248-together.json) |
 | Together | 82054 | [82054-together.json](./82054-together.json) |
 | Together | 96269 | [96269-together.json](./96269-together.json) |
