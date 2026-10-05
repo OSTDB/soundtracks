@@ -64,7 +64,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack 0 | 272813 | [272813-hack-0.json](./272813-hack-0.json) |
 | Hack 0 2 | 320292 | [320292-hack-0-2.json](./320292-hack-0-2.json) |
 | Hack 1 2 | 269774 | [269774-hack-1-2.json](./269774-hack-1-2.json) |
+| Hack 2 | 171891 | [171891-hack-2.json](./171891-hack-2.json) |
+| Hack 4 | 171892 | [171892-hack-4.json](./171892-hack-4.json) |
 | Hack 42: Typing Incremental | 407601 | [407601-hack-42-typing-incremental.json](./407601-hack-42-typing-incremental.json) |
+| Hack 5 | 171893 | [171893-hack-5.json](./171893-hack-5.json) |
 | Hack and Slash Fury | 329207 | [329207-hack-and-slash-fury.json](./329207-hack-and-slash-fury.json) |
 | Hack And Slash Fury: Battalion Armor | 334515 | [334515-hack-and-slash-fury-battalion-armor.json](./334515-hack-and-slash-fury-battalion-armor.json) |
 | Hack And Slash Fury: Car Armor | 334514 | [334514-hack-and-slash-fury-car-armor.json](./334514-hack-and-slash-fury-car-armor.json) |
@@ -1528,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayauchi Super Igo | 48329 | [48329-hayauchi-super-igo.json](./48329-hayauchi-super-igo.json) |
 | Haydee 2 | 141257 | [141257-haydee-2.json](./141257-haydee-2.json) |
 | Haydee 3 | 333073 | [333073-haydee-3.json](./333073-haydee-3.json) |
+| Haymaker | 171900 | [171900-haymaker.json](./171900-haymaker.json) |
 | Haypi Monster 3 | 129610 | [129610-haypi-monster-3.json](./129610-haypi-monster-3.json) |
 | Haywire | 180825 | [180825-haywire.json](./180825-haywire.json) |
 | Haywire | 400380 | [400380-haywire.json](./400380-haywire.json) |
@@ -4155,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hillslide | 291015 | [291015-hillslide.json](./291015-hillslide.json) |
 | Hilltop Hotrods | 233231 | [233231-hilltop-hotrods.json](./233231-hilltop-hotrods.json) |
 | Hilomi | 116441 | [116441-hilomi.json](./116441-hilomi.json) |
+| Him | 171979 | [171979-him.json](./171979-him.json) |
 | Him | 258482 | [258482-him.json](./258482-him.json) |
 | Him & Her: Her Challenges | 238195 | [238195-him-and-her-her-challenges.json](./238195-him-and-her-her-challenges.json) |
 | Him & I | 123545 | [123545-him-and-i.json](./123545-him-and-i.json) |
@@ -5144,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop'N'Hoard | 394846 | [394846-hopnhoard.json](./394846-hopnhoard.json) |
 | Hopa: Mini test Quest | 183999 | [183999-hopa-mini-test-quest.json](./183999-hopa-mini-test-quest.json) |
 | HopDodge | 200149 | [200149-hopdodge.json](./200149-hopdodge.json) |
+| Hope | 171980 | [171980-hope.json](./171980-hope.json) |
 | Hope | 312738 | [312738-hope.json](./312738-hope.json) |
 | Hope | 377194 | [377194-hope.json](./377194-hope.json) |
 | Hope & Elpis | 347368 | [347368-hope-and-elpis.json](./347368-hope-and-elpis.json) |
