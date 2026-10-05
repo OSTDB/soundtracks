@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saving Private Sheep 2 | 54348 | [54348-saving-private-sheep-2.json](./54348-saving-private-sheep-2.json) |
 | Saving Punyville | 157032 | [157032-saving-punyville.json](./157032-saving-punyville.json) |
 | Saving Simon | 115162 | [115162-saving-simon.json](./115162-saving-simon.json) |
+| Saving Stages | 132595 | [132595-saving-stages.json](./132595-saving-stages.json) |
 | Saving You From Yourself | 133467 | [133467-saving-you-from-yourself.json](./133467-saving-you-from-yourself.json) |
 | Savior | 121034 | [121034-savior.json](./121034-savior.json) |
 | Savior | 155016 | [155016-savior.json](./155016-savior.json) |
@@ -5250,6 +5251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuffle! Episode 2: Kami ni mo Akuma ni mo Nerawareteiru Otoko | 380427 | [380427-shuffle-episode-2-kami-ni-mo-akuma-ni-mo-nerawareteiru-otoko.json](./380427-shuffle-episode-2-kami-ni-mo-akuma-ni-mo-nerawareteiru-otoko.json) |
 | Shuffleboard | 170526 | [170526-shuffleboard.json](./170526-shuffleboard.json) |
 | Shuffleboard 2023 | 231900 | [231900-shuffleboard-2023.json](./231900-shuffleboard-2023.json) |
+| Shuffled Nightmares | 132602 | [132602-shuffled-nightmares.json](./132602-shuffled-nightmares.json) |
 | Shuffled Words | 219608 | [219608-shuffled-words.json](./219608-shuffled-words.json) |
 | Shufflepuck | 282841 | [282841-shufflepuck.json](./282841-shufflepuck.json) |
 | Shuffles 'n Scuffles | 372701 | [372701-shuffles-n-scuffles.json](./372701-shuffles-n-scuffles.json) |
@@ -9109,6 +9111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somnography | 172769 | [172769-somnography.json](./172769-somnography.json) |
 | Somnokid | 201114 | [201114-somnokid.json](./201114-somnokid.json) |
 | Somnus: Nonogram | 312328 | [312328-somnus-nonogram.json](./312328-somnus-nonogram.json) |
+| Somny & Yawn: Dream Detectives | 132604 | [132604-somny-and-yawn-dream-detectives.json](./132604-somny-and-yawn-dream-detectives.json) |
 | Somos | 110494 | [110494-somos.json](./110494-somos.json) |
 | Son of a Glitch | 340202 | [340202-son-of-a-glitch.json](./340202-son-of-a-glitch.json) |
 | Son of a Gun | 244250 | [244250-son-of-a-gun.json](./244250-son-of-a-gun.json) |
@@ -16490,6 +16493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Beco World 2 | 267890 | [267890-super-beco-world-2.json](./267890-super-beco-world-2.json) |
 | Super Beco World 3 | 267892 | [267892-super-beco-world-3.json](./267892-super-beco-world-3.json) |
 | Super Bee | 41554 | [41554-super-bee.json](./41554-super-bee.json) |
+| Super Bernie World | 132574 | [132574-super-bernie-world.json](./132574-super-bernie-world.json) |
 | Super Beta Tester | 335987 | [335987-super-beta-tester.json](./335987-super-beta-tester.json) |
 | Super Big 2 | 63331 | [63331-super-big-2.json](./63331-super-big-2.json) |
 | Super Big Bro Quest | 321775 | [321775-super-big-bro-quest.json](./321775-super-big-bro-quest.json) |
@@ -16534,6 +16538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Boss Collection | 214420 | [214420-super-boss-collection.json](./214420-super-boss-collection.json) |
 | Super Boss Gaiden | 20333 | [20333-super-boss-gaiden.json](./20333-super-boss-gaiden.json) |
 | Super Botte & Bamba II Turbo | 234034 | [234034-super-botte-and-bamba-ii-turbo.json](./234034-super-botte-and-bamba-ii-turbo.json) |
+| Super Bounce Ball | 132596 | [132596-super-bounce-ball.json](./132596-super-bounce-ball.json) |
 | Super Bowl Trivia Challenge | 88832 | [88832-super-bowl-trivia-challenge.json](./88832-super-bowl-trivia-challenge.json) |
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
 | Super Box Delivery: Beyond the Horizon | 252698 | [252698-super-box-delivery-beyond-the-horizon.json](./252698-super-box-delivery-beyond-the-horizon.json) |
@@ -18742,6 +18747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp and Luig | 417555 | [417555-swamp-and-luig.json](./417555-swamp-and-luig.json) |
 | Swamp Attack | 87019 | [87019-swamp-attack.json](./87019-swamp-attack.json) |
 | Swamp Attack 2 | 194039 | [194039-swamp-attack-2.json](./194039-swamp-attack-2.json) |
+| Swamp Castle | 132682 | [132682-swamp-castle.json](./132682-swamp-castle.json) |
 | Swamp Castle | 276461 | [276461-swamp-castle.json](./276461-swamp-castle.json) |
 | Swamp Chomp | 23986 | [23986-swamp-chomp.json](./23986-swamp-chomp.json) |
 | Swamp Defense 2 | 112113 | [112113-swamp-defense-2.json](./112113-swamp-defense-2.json) |
