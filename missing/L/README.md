@@ -1269,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left Behind: Eternal Forces | 20614 | [20614-left-behind-eternal-forces.json](./20614-left-behind-eternal-forces.json) |
 | Left Brain Right Brain | 20771 | [20771-left-brain-right-brain.json](./20771-left-brain-right-brain.json) |
 | Left Brain Right Brain 2 | 21223 | [21223-left-brain-right-brain-2.json](./21223-left-brain-right-brain-2.json) |
+| Left Dex | 158109 | [158109-left-dex.json](./158109-left-dex.json) |
 | Left Drift Right Shift Orbit | 108640 | [108640-left-drift-right-shift-orbit.json](./108640-left-drift-right-shift-orbit.json) |
 | Left in the Dark: No One on Board | 17144 | [17144-left-in-the-dark-no-one-on-board.json](./17144-left-in-the-dark-no-one-on-board.json) |
 | Left on Read | 137527 | [137527-left-on-read.json](./137527-left-on-read.json) |
@@ -1992,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's go! Brave | 269184 | [269184-lets-go-brave.json](./269184-lets-go-brave.json) |
 | Let's Go! My Harem Farm | 278149 | [278149-lets-go-my-harem-farm.json](./278149-lets-go-my-harem-farm.json) |
 | Let's Golf! | 67693 | [67693-lets-golf.json](./67693-lets-golf.json) |
+| Let's Journey | 158102 | [158102-lets-journey.json](./158102-lets-journey.json) |
 | Let's Jump | 265759 | [265759-lets-jump.json](./265759-lets-jump.json) |
 | Let's Just Farm | 374846 | [374846-lets-just-farm.json](./374846-lets-just-farm.json) |
 | Let's Kill Hitler: The Game | 253914 | [253914-lets-kill-hitler-the-game.json](./253914-lets-kill-hitler-the-game.json) |
@@ -3146,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Doll Queen | 260377 | [260377-little-doll-queen.json](./260377-little-doll-queen.json) |
 | Little Dragon Adventure | 287323 | [287323-little-dragon-adventure.json](./287323-little-dragon-adventure.json) |
 | Little Dragons Café | 88887 | [88887-little-dragons-cafe.json](./88887-little-dragons-cafe.json) |
+| Little Drift | 158106 | [158106-little-drift.json](./158106-little-drift.json) |
 | Little Droid 2: Escape | 312144 | [312144-little-droid-2-escape.json](./312144-little-droid-2-escape.json) |
 | Little Duck Adventure | 303102 | [303102-little-duck-adventure.json](./303102-little-duck-adventure.json) |
 | Little Dungeon Stories | 118128 | [118128-little-dungeon-stories.json](./118128-little-dungeon-stories.json) |
