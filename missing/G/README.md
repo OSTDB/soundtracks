@@ -1357,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekko's Super Strength | 359431 | [359431-gekkos-super-strength.json](./359431-gekkos-super-strength.json) |
 | Gekkou no Carnevale | 137102 | [137102-gekkou-no-carnevale.json](./137102-gekkou-no-carnevale.json) |
 | Geko: Entering The Pipe | 239757 | [239757-geko-entering-the-pipe.json](./239757-geko-entering-the-pipe.json) |
+| Gekraxel | 120114 | [120114-gekraxel.json](./120114-gekraxel.json) |
 | Gelatinous: Humanity Lost | 260312 | [260312-gelatinous-humanity-lost.json](./260312-gelatinous-humanity-lost.json) |
 | Gelecard: Guerreiros Gelatinosos | 346216 | [346216-gelecard-guerreiros-gelatinosos.json](./346216-gelecard-guerreiros-gelatinosos.json) |
 | Gelldonia | 156648 | [156648-gelldonia.json](./156648-gelldonia.json) |
@@ -1537,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genghis Khan: Aoki Ookami to Shiroki Mejika IV | 98270 | [98270-genghis-khan-aoki-ookami-to-shiroki-mejika-iv.json](./98270-genghis-khan-aoki-ookami-to-shiroki-mejika-iv.json) |
 | Gengu Survival | 319153 | [319153-gengu-survival.json](./319153-gengu-survival.json) |
 | Genie Gym | 272370 | [272370-genie-gym.json](./272370-genie-gym.json) |
+| Genie in a Bottle | 120237 | [120237-genie-in-a-bottle.json](./120237-genie-in-a-bottle.json) |
 | Genie Reprise | 282145 | [282145-genie-reprise.json](./282145-genie-reprise.json) |
 | Genies & Gems | 86809 | [86809-genies-and-gems.json](./86809-genies-and-gems.json) |
 | Genies & Jewels - Puzzle Quest | 105940 | [105940-genies-and-jewels-puzzle-quest.json](./105940-genies-and-jewels-puzzle-quest.json) |
@@ -2305,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginga Kagekidan | 121391 | [121391-ginga-kagekidan.json](./121391-ginga-kagekidan.json) |
 | Ginga Ojousama Densetsu Collection | 62731 | [62731-ginga-ojousama-densetsu-collection.json](./62731-ginga-ojousama-densetsu-collection.json) |
 | Gingar Ail | 295847 | [295847-gingar-ail.json](./295847-gingar-ail.json) |
+| Ginger Rangers | 120233 | [120233-ginger-rangers.json](./120233-ginger-rangers.json) |
 | Ginger Shroom Journey | 307914 | [307914-ginger-shroom-journey.json](./307914-ginger-shroom-journey.json) |
 | Ginger: The Tooth Fairy | 209134 | [209134-ginger-the-tooth-fairy.json](./209134-ginger-the-tooth-fairy.json) |
 | Ginger's Letter to Santa | 326745 | [326745-gingers-letter-to-santa.json](./326745-gingers-letter-to-santa.json) |
@@ -3295,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Going Nowhere: The Dream | 74383 | [74383-going-nowhere-the-dream.json](./74383-going-nowhere-the-dream.json) |
 | Going Nuts | 70405 | [70405-going-nuts.json](./70405-going-nuts.json) |
 | Going Up | 31946 | [31946-going-up.json](./31946-going-up.json) |
+| Going Up? | 120124 | [120124-going-up.json](./120124-going-up.json) |
 | Going Up?? | 282789 | [282789-going-up.json](./282789-going-up.json) |
 | Goinund | 105095 | [105095-goinund.json](./105095-goinund.json) |
 | Gojira tai 3 Daikaijuu | 75884 | [75884-gojira-tai-3-daikaijuu.json](./75884-gojira-tai-3-daikaijuu.json) |
@@ -3378,6 +3382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Dungeons | 88193 | [88193-golden-dungeons.json](./88193-golden-dungeons.json) |
 | Golden Egg | 219800 | [219800-golden-egg.json](./219800-golden-egg.json) |
 | Golden Eggs | 103158 | [103158-golden-eggs.json](./103158-golden-eggs.json) |
+| Golden Fall | 120140 | [120140-golden-fall.json](./120140-golden-fall.json) |
 | Golden Fall 2 | 132600 | [132600-golden-fall-2.json](./132600-golden-fall-2.json) |
 | Golden Farm | 233620 | [233620-golden-farm.json](./233620-golden-farm.json) |
 | Golden Fever | 48009 | [48009-golden-fever.json](./48009-golden-fever.json) |
