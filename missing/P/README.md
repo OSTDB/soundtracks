@@ -8647,6 +8647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protagonism | 129079 | [129079-protagonism.json](./129079-protagonism.json) |
 | Protagonist Complex One | 392146 | [392146-protagonist-complex-one.json](./392146-protagonist-complex-one.json) |
 | Protean Fox | 376751 | [376751-protean-fox.json](./376751-protean-fox.json) |
+| Protect Eggs | 161718 | [161718-protect-eggs.json](./161718-protect-eggs.json) |
 | Protect Harem City | 220654 | [220654-protect-harem-city.json](./220654-protect-harem-city.json) |
 | Protect Me Knight | 22479 | [22479-protect-me-knight.json](./22479-protect-me-knight.json) |
 | Protect Mother | 241631 | [241631-protect-mother.json](./241631-protect-mother.json) |
