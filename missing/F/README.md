@@ -6230,6 +6230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freyr's Love | 165024 | [165024-freyrs-love.json](./165024-freyrs-love.json) |
 | Friagem | 177379 | [177379-friagem.json](./177379-friagem.json) |
 | Fricassee | 267995 | [267995-fricassee.json](./267995-fricassee.json) |
+| Frick Frack | 144625 | [144625-frick-frack.json](./144625-frick-frack.json) |
 | Friction | 320250 | [320250-friction.json](./320250-friction.json) |
 | Friday | 130926 | [130926-friday.json](./130926-friday.json) |
 | Friday | 248026 | [248026-friday.json](./248026-friday.json) |
