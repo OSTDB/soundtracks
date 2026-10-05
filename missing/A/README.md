@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Crooked Heart | 142335 | [142335-a-crooked-heart.json](./142335-a-crooked-heart.json) |
 | A Crown of Thorns | 207740 | [207740-a-crown-of-thorns.json](./207740-a-crown-of-thorns.json) |
 | A Cup of Coffee | 211247 | [211247-a-cup-of-coffee.json](./211247-a-cup-of-coffee.json) |
+| A Curious Pastime | 166669 | [166669-a-curious-pastime.json](./166669-a-curious-pastime.json) |
 | A Cut Above: Mow & Grow | 379572 | [379572-a-cut-above-mow-and-grow.json](./379572-a-cut-above-mow-and-grow.json) |
 | A Cyberpunk's Dream of 2077 | 228992 | [228992-a-cyberpunks-dream-of-2077.json](./228992-a-cyberpunks-dream-of-2077.json) |
 | A Dance of Fire and Ice - Neo Cosmos | 203226 | [203226-a-dance-of-fire-and-ice-neo-cosmos.json](./203226-a-dance-of-fire-and-ice-neo-cosmos.json) |
@@ -610,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Thin Line | 28030 | [28030-a-thin-line.json](./28030-a-thin-line.json) |
 | A Thousand Mouths to Scream | 338179 | [338179-a-thousand-mouths-to-scream.json](./338179-a-thousand-mouths-to-scream.json) |
 | A thousand words that I could tell you | 257539 | [257539-a-thousand-words-that-i-could-tell-you.json](./257539-a-thousand-words-that-i-could-tell-you.json) |
+| A Time of Life | 166666 | [166666-a-time-of-life.json](./166666-a-time-of-life.json) |
 | A Timeless Story | 124669 | [124669-a-timeless-story.json](./124669-a-timeless-story.json) |
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
 | A Tiny Flicker | 201110 | [201110-a-tiny-flicker.json](./201110-a-tiny-flicker.json) |
@@ -973,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absurd | 240208 | [240208-absurd.json](./240208-absurd.json) |
 | Absurd Trolley Problems | 267592 | [267592-absurd-trolley-problems.json](./267592-absurd-trolley-problems.json) |
 | Absurdika: Rebuild | 342800 | [342800-absurdika-rebuild.json](./342800-absurdika-rebuild.json) |
+| Absurdistan | 166671 | [166671-absurdistan.json](./166671-absurdistan.json) |
 | Absylon 7 | 165403 | [165403-absylon-7.json](./165403-absylon-7.json) |
 | Abunai Josei Shinrigaku Nyuumon | 269683 | [269683-abunai-josei-shinrigaku-nyuumon.json](./269683-abunai-josei-shinrigaku-nyuumon.json) |
 | Abunai Koi no Sousashitsu | 197859 | [197859-abunai-koi-no-sousashitsu.json](./197859-abunai-koi-no-sousashitsu.json) |
