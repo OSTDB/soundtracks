@@ -1211,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vila do Nevoeiro R.E.L.I.D.O | 261300 | [261300-vila-do-nevoeiro-r-e-l-i-d-o.json](./261300-vila-do-nevoeiro-r-e-l-i-d-o.json) |
 | Vile | 111386 | [111386-vile.json](./111386-vile.json) |
 | Vile | 409723 | [409723-vile.json](./409723-vile.json) |
+| Vile Matter | 126997 | [126997-vile-matter.json](./126997-vile-matter.json) |
 | Vile: Exhumed | 320741 | [320741-vile-exhumed.json](./320741-vile-exhumed.json) |
 | Villa Escape | 272874 | [272874-villa-escape.json](./272874-villa-escape.json) |
 | Villa Nocturne | 377796 | [377796-villa-nocturne.json](./377796-villa-nocturne.json) |
@@ -1789,6 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Monsters 2: The Blight | 130164 | [130164-void-monsters-2-the-blight.json](./130164-void-monsters-2-the-blight.json) |
 | Void Nomads | 240777 | [240777-void-nomads.json](./240777-void-nomads.json) |
 | Void of Darkness | 26511 | [26511-void-of-darkness.json](./26511-void-of-darkness.json) |
+| Void of Heroes | 126958 | [126958-void-of-heroes.json](./126958-void-of-heroes.json) |
 | Void of Lilly | 366284 | [366284-void-of-lilly.json](./366284-void-of-lilly.json) |
 | Void of Space | 173295 | [173295-void-of-space.json](./173295-void-of-space.json) |
 | Void Operators | 413874 | [413874-void-operators.json](./413874-void-operators.json) |
