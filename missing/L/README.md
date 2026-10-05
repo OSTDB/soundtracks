@@ -2777,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LiM Balls: Every Second Counts | 329210 | [329210-lim-balls-every-second-counts.json](./329210-lim-balls-every-second-counts.json) |
 | Lim Beyond One-on-One Basketball | 254782 | [254782-lim-beyond-one-on-one-basketball.json](./254782-lim-beyond-one-on-one-basketball.json) |
 | Limacina Open Season | 398564 | [398564-limacina-open-season.json](./398564-limacina-open-season.json) |
+| Limb Hunter | 156222 | [156222-limb-hunter.json](./156222-limb-hunter.json) |
 | Limb Lobber | 395707 | [395707-limb-lobber.json](./395707-limb-lobber.json) |
 | Limb: Origins | 337086 | [337086-limb-origins.json](./337086-limb-origins.json) |
 | Limb.Inc | 381275 | [381275-limb-inc.json](./381275-limb-inc.json) |
