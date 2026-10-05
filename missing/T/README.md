@@ -9960,6 +9960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Victor Initiative | 320732 | [320732-the-victor-initiative.json](./320732-the-victor-initiative.json) |
 | The Video Game Machine | 123066 | [123066-the-video-game-machine.json](./123066-the-video-game-machine.json) |
 | The Vigil | 271494 | [271494-the-vigil.json](./271494-the-vigil.json) |
+| The Vigilant Villa: Non-existent Mirror | 164332 | [164332-the-vigilant-villa-non-existent-mirror.json](./164332-the-vigilant-villa-non-existent-mirror.json) |
 | The Vigilante: Single Shot Justice | 179117 | [179117-the-vigilante-single-shot-justice.json](./179117-the-vigilante-single-shot-justice.json) |
 | The Viking Game | 89704 | [89704-the-viking-game.json](./89704-the-viking-game.json) |
 | The Viking Guardsman | 409736 | [409736-the-viking-guardsman.json](./409736-the-viking-guardsman.json) |
@@ -11630,6 +11631,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger SImulator | 101053 | [101053-tiger-simulator.json](./101053-tiger-simulator.json) |
 | Tiger Simulator 3D | 96013 | [96013-tiger-simulator-3d.json](./96013-tiger-simulator-3d.json) |
 | Tiger Soldier I | 113189 | [113189-tiger-soldier-i.json](./113189-tiger-soldier-i.json) |
+| Tiger Soldier I: MP001 | 164327 | [164327-tiger-soldier-i-mp001.json](./164327-tiger-soldier-i-mp001.json) |
+| Tiger Soldier I: MP002 | 164328 | [164328-tiger-soldier-i-mp002.json](./164328-tiger-soldier-i-mp002.json) |
+| Tiger Soldier I: MP003 | 164325 | [164325-tiger-soldier-i-mp003.json](./164325-tiger-soldier-i-mp003.json) |
+| Tiger Soldier I: MP004 | 164329 | [164329-tiger-soldier-i-mp004.json](./164329-tiger-soldier-i-mp004.json) |
+| Tiger Soldier I: MP005 | 164326 | [164326-tiger-soldier-i-mp005.json](./164326-tiger-soldier-i-mp005.json) |
 | Tiger Soldier I: MP007 | 173707 | [173707-tiger-soldier-i-mp007.json](./173707-tiger-soldier-i-mp007.json) |
 | Tiger Soldier I: MP008 | 189441 | [189441-tiger-soldier-i-mp008.json](./189441-tiger-soldier-i-mp008.json) |
 | Tiger Soldier I: MP009 | 173700 | [173700-tiger-soldier-i-mp009.json](./173700-tiger-soldier-i-mp009.json) |
@@ -12347,6 +12353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Keeper | 198459 | [198459-time-keeper.json](./198459-time-keeper.json) |
 | Time Killers | 8939 | [8939-time-killers.json](./8939-time-killers.json) |
 | Time Kings: Modern War in Medieval Age | 401093 | [401093-time-kings-modern-war-in-medieval-age.json](./401093-time-kings-modern-war-in-medieval-age.json) |
+| Time Knight Adventures | 164322 | [164322-time-knight-adventures.json](./164322-time-knight-adventures.json) |
 | Time Leap Paradise Super Live! | 31077 | [31077-time-leap-paradise-super-live.json](./31077-time-leap-paradise-super-live.json) |
 | Time Limit Harvest | 248045 | [248045-time-limit-harvest.json](./248045-time-limit-harvest.json) |
 | Time Loader | 140868 | [140868-time-loader.json](./140868-time-loader.json) |
