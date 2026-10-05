@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamalatale | 321442 | [321442-kamalatale.json](./321442-kamalatale.json) |
 | Kamasutra | 335320 | [335320-kamasutra.json](./335320-kamasutra.json) |
 | Kambayashi-ke Satsujin Jiken | 343980 | [343980-kambayashi-ke-satsujin-jiken.json](./343980-kambayashi-ke-satsujin-jiken.json) |
+| Kambulin | 147081 | [147081-kambulin.json](./147081-kambulin.json) |
 | Kame no Ongaeshi: Urashima Densetsu | 215130 | [215130-kame-no-ongaeshi-urashima-densetsu.json](./215130-kame-no-ongaeshi-urashima-densetsu.json) |
 | Kame Paradise 2 | 231389 | [231389-kame-paradise-2.json](./231389-kame-paradise-2.json) |
 | Kame Paradise 3 Multiversex | 231391 | [231391-kame-paradise-3-multiversex.json](./231391-kame-paradise-3-multiversex.json) |
