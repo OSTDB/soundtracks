@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Site | 218535 | [218535-old-site.json](./218535-old-site.json) |
 | Old Skool Classics | 93569 | [93569-old-skool-classics.json](./93569-old-skool-classics.json) |
 | Old Skool Racer | 156609 | [156609-old-skool-racer.json](./156609-old-skool-racer.json) |
+| Old Spice Nature Adventure | 137392 | [137392-old-spice-nature-adventure.json](./137392-old-spice-nature-adventure.json) |
 | Old Still Life | 262552 | [262552-old-still-life.json](./262552-old-still-life.json) |
 | Old Time Baseball | 94671 | [94671-old-time-baseball.json](./94671-old-time-baseball.json) |
 | Old Times | 294169 | [294169-old-times.json](./294169-old-times.json) |
@@ -2535,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oubey VR: Samurai | 292693 | [292693-oubey-vr-samurai.json](./292693-oubey-vr-samurai.json) |
 | Oubliette | 2869 | [2869-oubliette.json](./2869-oubliette.json) |
 | Oubliette Fatalis | 279078 | [279078-oubliette-fatalis.json](./279078-oubliette-fatalis.json) |
+| Oubliette Gauntlet | 137389 | [137389-oubliette-gauntlet.json](./137389-oubliette-gauntlet.json) |
 | Ouch! So Many Beauties! | 298602 | [298602-ouch-so-many-beauties.json](./298602-ouch-so-many-beauties.json) |
 | Ouchi de Amaeru Shakaijin Kanojo no Renai Moyou | 382957 | [382957-ouchi-de-amaeru-shakaijin-kanojo-no-renai-moyou.json](./382957-ouchi-de-amaeru-shakaijin-kanojo-no-renai-moyou.json) |
 | Ouchi de Mugen Puchi Puchi Wii | 408870 | [408870-ouchi-de-mugen-puchi-puchi-wii.json](./408870-ouchi-de-mugen-puchi-puchi-wii.json) |
