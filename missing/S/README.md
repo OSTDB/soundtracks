@@ -3402,6 +3402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex, Drugs, and Beer Can | 247553 | [247553-sex-drugs-and-beer-can.json](./247553-sex-drugs-and-beer-can.json) |
 | Sex, Love & Girls | 235689 | [235689-sex-love-and-girls.json](./235689-sex-love-and-girls.json) |
 | Sexbot | 277364 | [277364-sexbot.json](./277364-sexbot.json) |
+| Sexcraft: Sofiya and the Lewd Clan | 170365 | [170365-sexcraft-sofiya-and-the-lewd-clan.json](./170365-sexcraft-sofiya-and-the-lewd-clan.json) |
 | Sexdivers | 324680 | [324680-sexdivers.json](./324680-sexdivers.json) |
 | Sexorcism: Lust Confession | 396404 | [396404-sexorcism-lust-confession.json](./396404-sexorcism-lust-confession.json) |
 | Sexstellar | 379531 | [379531-sexstellar.json](./379531-sexstellar.json) |
@@ -11673,6 +11674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spitlings | 114483 | [114483-spitlings.json](./114483-spitlings.json) |
 | Spitting Image | 13081 | [13081-spitting-image.json](./13081-spitting-image.json) |
 | Spitting Z | 156517 | [156517-spitting-z.json](./156517-spitting-z.json) |
+| Splash | 170363 | [170363-splash.json](./170363-splash.json) |
 | Splash Adventure: The Maze of Morla | 83524 | [83524-splash-adventure-the-maze-of-morla.json](./83524-splash-adventure-the-maze-of-morla.json) |
 | Splash Basketball Online | 116443 | [116443-splash-basketball-online.json](./116443-splash-basketball-online.json) |
 | Splash Damage: Survive if you can | 41504 | [41504-splash-damage-survive-if-you-can.json](./41504-splash-damage-survive-if-you-can.json) |
@@ -11853,6 +11855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Manor | 62422 | [62422-spooky-manor.json](./62422-spooky-manor.json) |
 | Spooky Milk Life | 208631 | [208631-spooky-milk-life.json](./208631-spooky-milk-life.json) |
 | Spooky Murder House | 369242 | [369242-spooky-murder-house.json](./369242-spooky-murder-house.json) |
+| Spooky Night: Remastered | 170369 | [170369-spooky-night-remastered.json](./170369-spooky-night-remastered.json) |
 | Spooky Pixel Hero | 307816 | [307816-spooky-pixel-hero.json](./307816-spooky-pixel-hero.json) |
 | Spooky Season | 361696 | [361696-spooky-season.json](./361696-spooky-season.json) |
 | Spooky Shelter | 242228 | [242228-spooky-shelter.json](./242228-spooky-shelter.json) |
@@ -12195,6 +12198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Battles: Vietnam | 70966 | [70966-squad-battles-vietnam.json](./70966-squad-battles-vietnam.json) |
 | Squad Busters vs Zombies | 237637 | [237637-squad-busters-vs-zombies.json](./237637-squad-busters-vs-zombies.json) |
 | Squad Conflicts | 174906 | [174906-squad-conflicts.json](./174906-squad-conflicts.json) |
+| Squad: Canadian Armed Forces | 170368 | [170368-squad-canadian-armed-forces.json](./170368-squad-canadian-armed-forces.json) |
 | SquadBlast | 202686 | [202686-squadblast.json](./202686-squadblast.json) |
 | Squadika | 401693 | [401693-squadika.json](./401693-squadika.json) |
 | Squadron | 172523 | [172523-squadron.json](./172523-squadron.json) |
