@@ -2123,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Warfare | 107806 | [107806-cat-warfare.json](./107806-cat-warfare.json) |
 | Cat Warrior | 281983 | [281983-cat-warrior.json](./281983-cat-warrior.json) |
 | Cat With Gun | 363369 | [363369-cat-with-gun.json](./363369-cat-with-gun.json) |
+| Cat Word Poker | 131313 | [131313-cat-word-poker.json](./131313-cat-word-poker.json) |
 | Cat-aclysm | 251948 | [251948-cat-aclysm.json](./251948-cat-aclysm.json) |
 | Cat-Car Mission | 359421 | [359421-cat-car-mission.json](./359421-cat-car-mission.json) |
 | Cat-Like Concentration | 276721 | [276721-cat-like-concentration.json](./276721-cat-like-concentration.json) |
@@ -3672,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Empire: Weasel in Shadows | 189027 | [189027-chicken-empire-weasel-in-shadows.json](./189027-chicken-empire-weasel-in-shadows.json) |
 | Chicken Evolution | 377251 | [377251-chicken-evolution.json](./377251-chicken-evolution.json) |
 | Chicken Fall | 202648 | [202648-chicken-fall.json](./202648-chicken-fall.json) |
+| Chicken Farm | 131417 | [131417-chicken-farm.json](./131417-chicken-farm.json) |
 | Chicken Farm 2K17 | 75924 | [75924-chicken-farm-2k17.json](./75924-chicken-farm-2k17.json) |
 | Chicken Fight | 238625 | [238625-chicken-fight.json](./238625-chicken-fight.json) |
 | Chicken Flight | 354426 | [354426-chicken-flight.json](./354426-chicken-flight.json) |
@@ -4726,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadel | 404944 | [404944-citadel.json](./404944-citadel.json) |
 | Citadel | 75523 | [75523-citadel.json](./75523-citadel.json) |
 | Citadel | 78595 | [78595-citadel.json](./78595-citadel.json) |
+| Citadel Combat Cards | 131343 | [131343-citadel-combat-cards.json](./131343-citadel-combat-cards.json) |
 | Citadel of Fire | 271812 | [271812-citadel-of-fire.json](./271812-citadel-of-fire.json) |
 | Citadel of the Dead | 169981 | [169981-citadel-of-the-dead.json](./169981-citadel-of-the-dead.json) |
 | Citadel Siege | 360659 | [360659-citadel-siege.json](./360659-citadel-siege.json) |
@@ -8970,6 +8973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creative Kill Chamber 2 | 316092 | [316092-creative-kill-chamber-2.json](./316092-creative-kill-chamber-2.json) |
 | Creative Reader: The Jungle Book | 327870 | [327870-creative-reader-the-jungle-book.json](./327870-creative-reader-the-jungle-book.json) |
 | Creative Runner | 142870 | [142870-creative-runner.json](./142870-creative-runner.json) |
+| CreativeBuild | 131422 | [131422-creativebuild.json](./131422-creativebuild.json) |
 | Creativerse | 17112 | [17112-creativerse.json](./17112-creativerse.json) |
 | Creator of Another World | 294167 | [294167-creator-of-another-world.json](./294167-creator-of-another-world.json) |
 | Creator Shelter: DLC Cuisine | 418504 | [418504-creator-shelter-dlc-cuisine.json](./418504-creator-shelter-dlc-cuisine.json) |
