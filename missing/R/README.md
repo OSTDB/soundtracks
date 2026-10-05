@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Cross Challenge | 93365 | [93365-rally-cross-challenge.json](./93365-rally-cross-challenge.json) |
 | Rally Day | 216147 | [216147-rally-day.json](./216147-rally-day.json) |
 | Rally de Africa | 138176 | [138176-rally-de-africa.json](./138176-rally-de-africa.json) |
+| Rally del Casentino: The Game | 133194 | [133194-rally-del-casentino-the-game.json](./133194-rally-del-casentino-the-game.json) |
 | Rally Drift Cars | 123558 | [123558-rally-drift-cars.json](./123558-rally-drift-cars.json) |
 | Rally Drifters Racing Cars 3D: Ultimate Fast Car Gang Challange | 232164 | [232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json](./232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json) |
 | Rally Fury: Extreme Racing | 174848 | [174848-rally-fury-extreme-racing.json](./174848-rally-fury-extreme-racing.json) |
