@@ -1170,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratstronaut | 362912 | [362912-ratstronaut.json](./362912-ratstronaut.json) |
 | Ratten Reich: Dance of Kings | 149032 | [149032-ratten-reich-dance-of-kings.json](./149032-ratten-reich-dance-of-kings.json) |
 | Rattle Royale | 323705 | [323705-rattle-royale.json](./323705-rattle-royale.json) |
+| Rattus | 130115 | [130115-rattus.json](./130115-rattus.json) |
 | Rattus Velocitas | 351195 | [351195-rattus-velocitas.json](./351195-rattus-velocitas.json) |
 | Rattyivty Lab | 234559 | [234559-rattyivty-lab.json](./234559-rattyivty-lab.json) |
 | Ratyboy Adventures | 242657 | [242657-ratyboy-adventures.json](./242657-ratyboy-adventures.json) |
