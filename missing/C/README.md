@@ -8232,6 +8232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid 2069 | 167758 | [167758-covid-2069.json](./167758-covid-2069.json) |
 | Covid 23: Test Labs | 255975 | [255975-covid-23-test-labs.json](./255975-covid-23-test-labs.json) |
 | Covid Chaos | 163821 | [163821-covid-chaos.json](./163821-covid-chaos.json) |
+| Covid Kawaii! | 137406 | [137406-covid-kawaii.json](./137406-covid-kawaii.json) |
 | Covid Quest 2077 | 367600 | [367600-covid-quest-2077.json](./367600-covid-quest-2077.json) |
 | Covid-19 Epidemic Prevention | 157108 | [157108-covid-19-epidemic-prevention.json](./157108-covid-19-epidemic-prevention.json) |
 | Covid-19: Corona Clicker | 165003 | [165003-covid-19-corona-clicker.json](./165003-covid-19-corona-clicker.json) |
