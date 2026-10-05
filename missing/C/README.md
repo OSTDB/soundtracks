@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking Simulator 3D Game | 105929 | [105929-car-parking-simulator-3d-game.json](./105929-car-parking-simulator-3d-game.json) |
 | Car Parking: New Cars | 226296 | [226296-car-parking-new-cars.json](./226296-car-parking-new-cars.json) |
 | Car Parkour Together | 381147 | [381147-car-parkour-together.json](./381147-car-parkour-together.json) |
+| Car Physics Simulator | 154085 | [154085-car-physics-simulator.json](./154085-car-physics-simulator.json) |
 | Car Physics Simulator: Trucks + Missions DLC | 155107 | [155107-car-physics-simulator-trucks-missions-dlc.json](./155107-car-physics-simulator-trucks-missions-dlc.json) |
 | Car Polo | 19371 | [19371-car-polo.json](./19371-car-polo.json) |
 | Car Puzzle for Toddlers and Kids | 227775 | [227775-car-puzzle-for-toddlers-and-kids.json](./227775-car-puzzle-for-toddlers-and-kids.json) |
@@ -2448,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Flying | 27878 | [27878-cave-flying.json](./27878-cave-flying.json) |
 | Cave Ghost | 368480 | [368480-cave-ghost.json](./368480-cave-ghost.json) |
 | Cave Girl Clair | 309340 | [309340-cave-girl-clair.json](./309340-cave-girl-clair.json) |
+| Cave Guessers | 154079 | [154079-cave-guessers.json](./154079-cave-guessers.json) |
 | Cave Heroes | 227254 | [227254-cave-heroes.json](./227254-cave-heroes.json) |
 | Cave Hopper | 139468 | [139468-cave-hopper.json](./139468-cave-hopper.json) |
 | Cave Oasis at Shylake | 380423 | [380423-cave-oasis-at-shylake.json](./380423-cave-oasis-at-shylake.json) |
@@ -10423,6 +10425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custer's Revenge in Gensoukyou | 98448 | [98448-custers-revenge-in-gensoukyou.json](./98448-custers-revenge-in-gensoukyou.json) |
 | Custerd's Quest | 60635 | [60635-custerds-quest.json](./60635-custerds-quest.json) |
 | Custodial | 179742 | [179742-custodial.json](./179742-custodial.json) |
+| Custodian: Beginning of the End | 154069 | [154069-custodian-beginning-of-the-end.json](./154069-custodian-beginning-of-the-end.json) |
 | Custom Beat Battle: Draglade 2 | 66783 | [66783-custom-beat-battle-draglade-2.json](./66783-custom-beat-battle-draglade-2.json) |
 | Custom Maid 3D | 191694 | [191694-custom-maid-3d.json](./191694-custom-maid-3d.json) |
 | Custom Mario Maker | 294782 | [294782-custom-mario-maker.json](./294782-custom-mario-maker.json) |
@@ -10600,6 +10603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Clutch: Hot Import Nights | 302383 | [302383-cyber-clutch-hot-import-nights.json](./302383-cyber-clutch-hot-import-nights.json) |
 | Cyber Combat | 236335 | [236335-cyber-combat.json](./236335-cyber-combat.json) |
 | Cyber Courier 2088 | 233666 | [233666-cyber-courier-2088.json](./233666-cyber-courier-2088.json) |
+| Cyber Cult City | 154083 | [154083-cyber-cult-city.json](./154083-cyber-cult-city.json) |
 | Cyber Cycles | 39829 | [39829-cyber-cycles.json](./39829-cyber-cycles.json) |
 | Cyber Dodge | 42054 | [42054-cyber-dodge.json](./42054-cyber-dodge.json) |
 | Cyber Dome | 62801 | [62801-cyber-dome.json](./62801-cyber-dome.json) |
