@@ -890,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Defeat HD: Deluxe Edition | 20239 | [20239-under-defeat-hd-deluxe-edition.json](./20239-under-defeat-hd-deluxe-edition.json) |
 | Under Defeat HD+ | 21016 | [21016-under-defeat-hd.json](./21016-under-defeat-hd.json) |
 | Under Destruction | 356760 | [356760-under-destruction.json](./356760-under-destruction.json) |
+| Under Domain | 139190 | [139190-under-domain.json](./139190-under-domain.json) |
 | Under Fire | 46876 | [46876-under-fire.json](./46876-under-fire.json) |
 | Under Fire! | 25971 | [25971-under-fire.json](./25971-under-fire.json) |
 | Under His Eyes | 378428 | [378428-under-his-eyes.json](./378428-under-his-eyes.json) |
