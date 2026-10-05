@@ -2130,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggle | 95409 | [95409-peggle.json](./95409-peggle.json) |
 | Peggle 2 | 3752 | [3752-peggle-2.json](./3752-peggle-2.json) |
 | Peggle 2: Jimmy Lightning Master Pack | 339484 | [339484-peggle-2-jimmy-lightning-master-pack.json](./339484-peggle-2-jimmy-lightning-master-pack.json) |
+| Peggle 2: Magical Masters Edition | 118895 | [118895-peggle-2-magical-masters-edition.json](./118895-peggle-2-magical-masters-edition.json) |
 | Peggle 2: Windy the Fairy Master Pack | 294409 | [294409-peggle-2-windy-the-fairy-master-pack.json](./294409-peggle-2-windy-the-fairy-master-pack.json) |
 | Peggle Deluxe | 28975 | [28975-peggle-deluxe.json](./28975-peggle-deluxe.json) |
 | Peggle Extreme | 15646 | [15646-peggle-extreme.json](./15646-peggle-extreme.json) |
@@ -3841,6 +3842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball: Our Church and Halloween RPG - Machine #2 | 213631 | [213631-pinball-our-church-and-halloween-rpg-machine-2.json](./213631-pinball-our-church-and-halloween-rpg-machine-2.json) |
 | Pinball: Our Church and Halloween RPG - Machine #3 | 213632 | [213632-pinball-our-church-and-halloween-rpg-machine-3.json](./213632-pinball-our-church-and-halloween-rpg-machine-3.json) |
 | Pinballistik | 52654 | [52654-pinballistik.json](./52654-pinballistik.json) |
+| Pinballistik Alien Tycoon Bundle | 118858 | [118858-pinballistik-alien-tycoon-bundle.json](./118858-pinballistik-alien-tycoon-bundle.json) |
 | Pinballtoon | 289299 | [289299-pinballtoon.json](./289299-pinballtoon.json) |
 | Pinbomb | 417419 | [417419-pinbomb.json](./417419-pinbomb.json) |
 | Pinbot | 295908 | [295908-pinbot.json](./295908-pinbot.json) |
@@ -5434,6 +5436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunder: Scourge of the Sea | 260658 | [260658-plunder-scourge-of-the-sea.json](./260658-plunder-scourge-of-the-sea.json) |
 | Plunderball | 46570 | [46570-plunderball.json](./46570-plunderball.json) |
 | Plunderers Adventures: Sea of Whores | 147412 | [147412-plunderers-adventures-sea-of-whores.json](./147412-plunderers-adventures-sea-of-whores.json) |
+| Plunderland | 118874 | [118874-plunderland.json](./118874-plunderland.json) |
 | Plunge | 78780 | [78780-plunge.json](./78780-plunge.json) |
 | Plungeez | 309499 | [309499-plungeez.json](./309499-plungeez.json) |
 | Plunger Boyz | 190148 | [190148-plunger-boyz.json](./190148-plunger-boyz.json) |
@@ -6217,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker HD | 88440 | [88440-poker-hd.json](./88440-poker-hd.json) |
 | Poker Legends: Omaha Champions | 232560 | [232560-poker-legends-omaha-champions.json](./232560-poker-legends-omaha-champions.json) |
 | Poker Master | 167586 | [167586-poker-master.json](./167586-poker-master.json) |
+| Poker Mega Pack | 118884 | [118884-poker-mega-pack.json](./118884-poker-mega-pack.json) |
 | Poker Now | 225708 | [225708-poker-now.json](./225708-poker-now.json) |
 | Poker Patience | 83481 | [83481-poker-patience.json](./83481-poker-patience.json) |
 | Poker Poker Magic | 309027 | [309027-poker-poker-magic.json](./309027-poker-poker-magic.json) |
@@ -6965,6 +6969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portrait of Ruin: Refined Edition | 233601 | [233601-portrait-of-ruin-refined-edition.json](./233601-portrait-of-ruin-refined-edition.json) |
 | Portrait Painter | 406709 | [406709-portrait-painter.json](./406709-portrait-painter.json) |
 | Portraits of Doom | 318067 | [318067-portraits-of-doom.json](./318067-portraits-of-doom.json) |
+| Ports of Call Classic | 118769 | [118769-ports-of-call-classic.json](./118769-ports-of-call-classic.json) |
 | Portugal 1111: A Conquista de Soure | 94365 | [94365-portugal-1111-a-conquista-de-soure.json](./94365-portugal-1111-a-conquista-de-soure.json) |
 | Porzellanhaus | 367407 | [367407-porzellanhaus.json](./367407-porzellanhaus.json) |
 | Posable Heroes | 74362 | [74362-posable-heroes.json](./74362-posable-heroes.json) |
@@ -7158,6 +7163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Ball 2021 | 150620 | [150620-power-ball-2021.json](./150620-power-ball-2021.json) |
 | Power Ball 2022 | 211954 | [211954-power-ball-2022.json](./211954-power-ball-2022.json) |
 | Power Block | 130286 | [130286-power-block.json](./130286-power-block.json) |
+| Power Brain Trainer | 118760 | [118760-power-brain-trainer.json](./118760-power-brain-trainer.json) |
 | Power Champions | 250868 | [250868-power-champions.json](./250868-power-champions.json) |
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
 | Power Chips | 382344 | [382344-power-chips.json](./382344-power-chips.json) |
@@ -7837,6 +7843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Adventure 3 | 224058 | [224058-prison-adventure-3.json](./224058-prison-adventure-3.json) |
 | Prison Amok | 330841 | [330841-prison-amok.json](./330841-prison-amok.json) |
 | Prison Architect | 1338 | [1338-prison-architect.json](./1338-prison-architect.json) |
+| Prison Architect DLC Bundle | 118886 | [118886-prison-architect-dlc-bundle.json](./118886-prison-architect-dlc-bundle.json) |
 | Prison Architect: All Day and a Night | 234041 | [234041-prison-architect-all-day-and-a-night.json](./234041-prison-architect-all-day-and-a-night.json) |
 | Prison Architect: All Day and a Psych | 118834 | [118834-prison-architect-all-day-and-a-psych.json](./118834-prison-architect-all-day-and-a-psych.json) |
 | Prison Architect: Cleared for Transfer | 148528 | [148528-prison-architect-cleared-for-transfer.json](./148528-prison-architect-cleared-for-transfer.json) |
@@ -8021,6 +8028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2018 | 28862 | [28862-pro-evolution-soccer-2018.json](./28862-pro-evolution-soccer-2018.json) |
 | Pro Evolution Soccer 2019 | 240471 | [240471-pro-evolution-soccer-2019.json](./240471-pro-evolution-soccer-2019.json) |
 | Pro Evolution Soccer 2019 | 240473 | [240473-pro-evolution-soccer-2019.json](./240473-pro-evolution-soccer-2019.json) |
+| Pro Evolution Soccer 2019: Legend Edition | 118879 | [118879-pro-evolution-soccer-2019-legend-edition.json](./118879-pro-evolution-soccer-2019-legend-edition.json) |
 | Pro Evolution Soccer 6: Apertura 2008 | 237546 | [237546-pro-evolution-soccer-6-apertura-2008.json](./237546-pro-evolution-soccer-6-apertura-2008.json) |
 | Pro Evolution Soccer 6: Legends 2 | 237547 | [237547-pro-evolution-soccer-6-legends-2.json](./237547-pro-evolution-soccer-6-legends-2.json) |
 | Pro Evolution Soccer 6: The Den Patch | 278048 | [278048-pro-evolution-soccer-6-the-den-patch.json](./278048-pro-evolution-soccer-6-the-den-patch.json) |
@@ -9019,6 +9027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychotic Adventures Origins | 138795 | [138795-psychotic-adventures-origins.json](./138795-psychotic-adventures-origins.json) |
 | Psychoverse City | 158163 | [158163-psychoverse-city.json](./158163-psychoverse-city.json) |
 | Psychroma | 204534 | [204534-psychroma.json](./204534-psychroma.json) |
+| PsycoCat | 118774 | [118774-psycocat.json](./118774-psycocat.json) |
 | Psycron | 145676 | [145676-psycron.json](./145676-psycron.json) |
 | Psycutlery | 135137 | [135137-psycutlery.json](./135137-psycutlery.json) |
 | Psyhonds | 402418 | [402418-psyhonds.json](./402418-psyhonds.json) |
@@ -9068,6 +9077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUBG: Battlegrounds - Season 27 | 281550 | [281550-pubg-battlegrounds-season-27.json](./281550-pubg-battlegrounds-season-27.json) |
 | PUBG: Battlegrounds - Summer Ready Pack | 349518 | [349518-pubg-battlegrounds-summer-ready-pack.json](./349518-pubg-battlegrounds-summer-ready-pack.json) |
 | PUBG: Blindspot | 321135 | [321135-pubg-blindspot.json](./321135-pubg-blindspot.json) |
+| Public Defense Corp | 118761 | [118761-public-defense-corp.json](./118761-public-defense-corp.json) |
 | Public Defense Corp: The Ambassador of Peace | 206952 | [206952-public-defense-corp-the-ambassador-of-peace.json](./206952-public-defense-corp-the-ambassador-of-peace.json) |
 | Public Enemy: The Dark Future | 248293 | [248293-public-enemy-the-dark-future.json](./248293-public-enemy-the-dark-future.json) |
 | Public Restroom Simulator 2022 | 213321 | [213321-public-restroom-simulator-2022.json](./213321-public-restroom-simulator-2022.json) |
