@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab Boom | 290087 | [290087-lab-boom.json](./290087-lab-boom.json) |
 | Lab BreakOut | 158533 | [158533-lab-breakout.json](./158533-lab-breakout.json) |
 | Lab Cat | 298782 | [298782-lab-cat.json](./298782-lab-cat.json) |
+| Lab Chaos | 138533 | [138533-lab-chaos.json](./138533-lab-chaos.json) |
 | Lab Craft Survival | 150786 | [150786-lab-craft-survival.json](./150786-lab-craft-survival.json) |
 | Lab Crisis | 205580 | [205580-lab-crisis.json](./205580-lab-crisis.json) |
 | Lab Eject | 368595 | [368595-lab-eject.json](./368595-lab-eject.json) |
@@ -1516,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Wings | 288843 | [288843-legendary-wings.json](./288843-legendary-wings.json) |
 | Legendary Wings | 39705 | [39705-legendary-wings.json](./39705-legendary-wings.json) |
 | Legendary: Game of Heroes | 86993 | [86993-legendary-game-of-heroes.json](./86993-legendary-game-of-heroes.json) |
+| Legende im Eis | 138525 | [138525-legende-im-eis.json](./138525-legende-im-eis.json) |
 | Legendino | 224021 | [224021-legendino.json](./224021-legendino.json) |
 | Legendo's the Three Musketeers | 71533 | [71533-legendos-the-three-musketeers.json](./71533-legendos-the-three-musketeers.json) |
 | Legends Aligned | 335085 | [335085-legends-aligned.json](./335085-legends-aligned.json) |
@@ -2512,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifting Unlimited | 302109 | [302109-lifting-unlimited.json](./302109-lifting-unlimited.json) |
 | Liftlands | 284567 | [284567-liftlands.json](./284567-liftlands.json) |
 | Liftoff Inc. | 410396 | [410396-liftoff-inc.json](./410396-liftoff-inc.json) |
+| Liftoff: Drone Racing | 138528 | [138528-liftoff-drone-racing.json](./138528-liftoff-drone-racing.json) |
 | Liftoff: Drone Racing - Deluxe Edition | 139829 | [139829-liftoff-drone-racing-deluxe-edition.json](./139829-liftoff-drone-racing-deluxe-edition.json) |
 | Liga do Tempo | 290086 | [290086-liga-do-tempo.json](./290086-liga-do-tempo.json) |
 | Light | 220607 | [220607-light.json](./220607-light.json) |
@@ -3632,6 +3635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Localhost | 68110 | [68110-localhost.json](./68110-localhost.json) |
 | Locator: The Search for Abigail Lidari | 257990 | [257990-locator-the-search-for-abigail-lidari.json](./257990-locator-the-search-for-abigail-lidari.json) |
 | Loch Ness | 182506 | [182506-loch-ness.json](./182506-loch-ness.json) |
+| Locis | 138553 | [138553-locis.json](./138553-locis.json) |
 | Lock | 68655 | [68655-lock.json](./68655-lock.json) |
 | Lock 'n Load Tactical Digital: Battles to the Rhine - Battlepack | 158746 | [158746-lock-n-load-tactical-digital-battles-to-the-rhine-battlepack.json](./158746-lock-n-load-tactical-digital-battles-to-the-rhine-battlepack.json) |
 | Lock 'n Load Tactical Digital: Bear and the Jackal - Battlepack | 158741 | [158741-lock-n-load-tactical-digital-bear-and-the-jackal-battlepack.json](./158741-lock-n-load-tactical-digital-bear-and-the-jackal-battlepack.json) |
@@ -4338,6 +4342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Dream: Darkness | 240799 | [240799-lost-dream-darkness.json](./240799-lost-dream-darkness.json) |
 | Lost Dreams | 194364 | [194364-lost-dreams.json](./194364-lost-dreams.json) |
 | Lost Dutchman's Gold | 25133 | [25133-lost-dutchmans-gold.json](./25133-lost-dutchmans-gold.json) |
+| Lost Earth | 138529 | [138529-lost-earth.json](./138529-lost-earth.json) |
 | Lost Echo | 39007 | [39007-lost-echo.json](./39007-lost-echo.json) |
 | Lost Eclipse | 351153 | [351153-lost-eclipse.json](./351153-lost-eclipse.json) |
 | Lost Ed | 156062 | [156062-lost-ed.json](./156062-lost-ed.json) |
