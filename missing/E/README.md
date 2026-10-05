@@ -4085,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExorSYS | 335245 | [335245-exorsys.json](./335245-exorsys.json) |
 | Exorun | 172534 | [172534-exorun.json](./172534-exorun.json) |
 | Exorzine | 194651 | [194651-exorzine.json](./194651-exorzine.json) |
+| Exos Heroes | 122242 | [122242-exos-heroes.json](./122242-exos-heroes.json) |
 | Exosky | 287187 | [287187-exosky.json](./287187-exosky.json) |
 | ExoSoul | 257974 | [257974-exosoul.json](./257974-exosoul.json) |
 | ExoSphere | 57048 | [57048-exosphere.json](./57048-exosphere.json) |
