@@ -7018,6 +7018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lonely Architect | 333663 | [333663-the-lonely-architect.json](./333663-the-lonely-architect.json) |
 | The Lonely Gorilla | 94769 | [94769-the-lonely-gorilla.json](./94769-the-lonely-gorilla.json) |
 | The Lonely Hacker | 244180 | [244180-the-lonely-hacker.json](./244180-the-lonely-hacker.json) |
+| The Lonely Helmet | 166565 | [166565-the-lonely-helmet.json](./166565-the-lonely-helmet.json) |
 | The Lonely League | 245004 | [245004-the-lonely-league.json](./245004-the-lonely-league.json) |
 | The Lonely Logs of Lincoln Lane | 301920 | [301920-the-lonely-logs-of-lincoln-lane.json](./301920-the-lonely-logs-of-lincoln-lane.json) |
 | The Lonely Miner | 411121 | [411121-the-lonely-miner.json](./411121-the-lonely-miner.json) |
@@ -7053,6 +7054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lonker | 236919 | [236919-the-lonker.json](./236919-the-lonker.json) |
 | The Lonly Wall | 183472 | [183472-the-lonly-wall.json](./183472-the-lonly-wall.json) |
 | The Looker | 204849 | [204849-the-looker.json](./204849-the-looker.json) |
+| The Looking Glass | 166569 | [166569-the-looking-glass.json](./166569-the-looking-glass.json) |
 | The Loop | 170528 | [170528-the-loop.json](./170528-the-loop.json) |
 | The Loop VR | 97919 | [97919-the-loop-vr.json](./97919-the-loop-vr.json) |
 | The Loopholes Chronicles | 124185 | [124185-the-loopholes-chronicles.json](./124185-the-loopholes-chronicles.json) |
