@@ -5099,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Bicycle Rider Simulator | 259816 | [259816-dirt-bicycle-rider-simulator.json](./259816-dirt-bicycle-rider-simulator.json) |
 | Dirt Bike Extreme 3D | 330237 | [330237-dirt-bike-extreme-3d.json](./330237-dirt-bike-extreme-3d.json) |
 | Dirt Bike Motocross Stunts | 387009 | [387009-dirt-bike-motocross-stunts.json](./387009-dirt-bike-motocross-stunts.json) |
+| Dirt Bike Retro | 147637 | [147637-dirt-bike-retro.json](./147637-dirt-bike-retro.json) |
 | Dirt Dash | 39827 | [39827-dirt-dash.json](./39827-dirt-dash.json) |
 | Dirt Journey | 216145 | [216145-dirt-journey.json](./216145-dirt-journey.json) |
 | Dirt Journey: Nitro | 216141 | [216141-dirt-journey-nitro.json](./216141-dirt-journey-nitro.json) |
@@ -5209,6 +5210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples: Liberation - Deluxe Edition | 174188 | [174188-disciples-liberation-deluxe-edition.json](./174188-disciples-liberation-deluxe-edition.json) |
 | Disciples: Liberation - Digital Deluxe Edition | 161183 | [161183-disciples-liberation-digital-deluxe-edition.json](./161183-disciples-liberation-digital-deluxe-edition.json) |
 | Disciples: Sacred Lands Gold | 11405 | [11405-disciples-sacred-lands-gold.json](./11405-disciples-sacred-lands-gold.json) |
+| Discmaster | 147635 | [147635-discmaster.json](./147635-discmaster.json) |
 | Disco Bert and the Curse of the Evil Mummies | 55913 | [55913-disco-bert-and-the-curse-of-the-evil-mummies.json](./55913-disco-bert-and-the-curse-of-the-evil-mummies.json) |
 | Disco Bullets | 122371 | [122371-disco-bullets.json](./122371-disco-bullets.json) |
 | Disco Cannon Airlines | 194389 | [194389-disco-cannon-airlines.json](./194389-disco-cannon-airlines.json) |
@@ -5987,6 +5989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Spree X | 318526 | [318526-dodge-spree-x.json](./318526-dodge-spree-x.json) |
 | Dodge the Creeps | 344390 | [344390-dodge-the-creeps.json](./344390-dodge-the-creeps.json) |
 | Dodge These Asteroids | 353961 | [353961-dodge-these-asteroids.json](./353961-dodge-these-asteroids.json) |
+| Dodge These Balls | 147639 | [147639-dodge-these-balls.json](./147639-dodge-these-balls.json) |
 | Dodge This | 291512 | [291512-dodge-this.json](./291512-dodge-this.json) |
 | Dodge This VR | 282132 | [282132-dodge-this-vr.json](./282132-dodge-this-vr.json) |
 | Dodgeball | 165568 | [165568-dodgeball.json](./165568-dodgeball.json) |
@@ -9702,6 +9705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonloop | 401092 | [401092-dungeonloop.json](./401092-dungeonloop.json) |
 | Dungeonman | 149223 | [149223-dungeonman.json](./149223-dungeonman.json) |
 | Dungeonmans: Pay2Lose | 168162 | [168162-dungeonmans-pay2lose.json](./168162-dungeonmans-pay2lose.json) |
+| Dungeonoid | 147652 | [147652-dungeonoid.json](./147652-dungeonoid.json) |
 | Dungeonoid 2: Awakening | 282152 | [282152-dungeonoid-2-awakening.json](./282152-dungeonoid-2-awakening.json) |
 | Dungeonpreneur | 274033 | [274033-dungeonpreneur.json](./274033-dungeonpreneur.json) |
 | Dungeonrite | 203941 | [203941-dungeonrite.json](./203941-dungeonrite.json) |
