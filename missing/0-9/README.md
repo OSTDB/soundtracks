@@ -1633,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Cars: Zig Zag Racer | 240209 | [240209-99-cars-zig-zag-racer.json](./240209-99-cars-zig-zag-racer.json) |
 | 99 Dead Pirates | 240886 | [240886-99-dead-pirates.json](./240886-99-dead-pirates.json) |
 | 99 Fails | 239125 | [239125-99-fails.json](./239125-99-fails.json) |
+| 99 Nendohan: Eitango Center 1500 | 133254 | [133254-99-nendohan-eitango-center-1500.json](./133254-99-nendohan-eitango-center-1500.json) |
 | 99 Nights In The Apocalypse | 414522 | [414522-99-nights-in-the-apocalypse.json](./414522-99-nights-in-the-apocalypse.json) |
 | 99 no Namida | 66970 | [66970-99-no-namida.json](./66970-99-no-namida.json) |
 | 99 Problems | 353316 | [353316-99-problems.json](./353316-99-problems.json) |
