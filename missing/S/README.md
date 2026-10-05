@@ -11215,6 +11215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speckle: Chill Puzzle Game | 103190 | [103190-speckle-chill-puzzle-game.json](./103190-speckle-chill-puzzle-game.json) |
 | Specnaz: Project Wolf | 72789 | [72789-specnaz-project-wolf.json](./72789-specnaz-project-wolf.json) |
 | Specshong | 398459 | [398459-specshong.json](./398459-specshong.json) |
+| Spectacle | 135007 | [135007-spectacle.json](./135007-spectacle.json) |
 | Spectacle | 280338 | [280338-spectacle.json](./280338-spectacle.json) |
 | Spectacular Shatter Buddies | 185462 | [185462-spectacular-shatter-buddies.json](./185462-spectacular-shatter-buddies.json) |
 | Spectacular Sparky | 165613 | [165613-spectacular-sparky.json](./165613-spectacular-sparky.json) |
@@ -18693,6 +18694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sven-Göran Eriksson's World Manager | 136991 | [136991-sven-goran-erikssons-world-manager.json](./136991-sven-goran-erikssons-world-manager.json) |
 | Sven: Completely Screwed | 247619 | [247619-sven-completely-screwed.json](./247619-sven-completely-screwed.json) |
 | Sven's SudokuPad | 182196 | [182196-svens-sudokupad.json](./182196-svens-sudokupad.json) |
+| Sverdheim | 134986 | [134986-sverdheim.json](./134986-sverdheim.json) |
 | Sverigespelet | 300684 | [300684-sverigespelet.json](./300684-sverigespelet.json) |
 | Sveta Sky AI | 408200 | [408200-sveta-sky-ai.json](./408200-sveta-sky-ai.json) |
 | SVETIK | 394507 | [394507-svetik.json](./394507-svetik.json) |
