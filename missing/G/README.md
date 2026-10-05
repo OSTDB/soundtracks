@@ -698,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Small Squares | 105757 | [105757-game-of-small-squares.json](./105757-game-of-small-squares.json) |
 | Game of Sultans | 106526 | [106526-game-of-sultans.json](./106526-game-of-sultans.json) |
 | Game of The Forgotten Gods. Wake Up | 96864 | [96864-game-of-the-forgotten-gods-wake-up.json](./96864-game-of-the-forgotten-gods-wake-up.json) |
+| Game of the Year | 127720 | [127720-game-of-the-year.json](./127720-game-of-the-year.json) |
 | Game Of Thrall'an | 321365 | [321365-game-of-thrallan.json](./321365-game-of-thrallan.json) |
 | Game of Throne | 179199 | [179199-game-of-throne.json](./179199-game-of-throne.json) |
 | Game of Thrones Beyond the Wall | 120205 | [120205-game-of-thrones-beyond-the-wall.json](./120205-game-of-thrones-beyond-the-wall.json) |
@@ -1784,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gerbil Physics | 93524 | [93524-gerbil-physics.json](./93524-gerbil-physics.json) |
 | Gerda: A Flame in Winter - Modstand Bundle | 251114 | [251114-gerda-a-flame-in-winter-modstand-bundle.json](./251114-gerda-a-flame-in-winter-modstand-bundle.json) |
 | Geri's Chess | 50864 | [50864-geris-chess.json](./50864-geris-chess.json) |
+| Gericonia 2 | 127733 | [127733-gericonia-2.json](./127733-gericonia-2.json) |
 | Germ Blasters | 353910 | [353910-germ-blasters.json](./353910-germ-blasters.json) |
 | Germ Crazy | 94669 | [94669-germ-crazy.json](./94669-germ-crazy.json) |
 | Germ Patrol | 42147 | [42147-germ-patrol.json](./42147-germ-patrol.json) |
@@ -2464,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gizmos: Riddle of the Universe | 384676 | [384676-gizmos-riddle-of-the-universe.json](./384676-gizmos-riddle-of-the-universe.json) |
 | Gizmos: Spirit of the Christmas | 156678 | [156678-gizmos-spirit-of-the-christmas.json](./156678-gizmos-spirit-of-the-christmas.json) |
 | Gizmos: Spooky Adventures | 151296 | [151296-gizmos-spooky-adventures.json](./151296-gizmos-spooky-adventures.json) |
+| Gizmos: Steampunk Nonograms | 127716 | [127716-gizmos-steampunk-nonograms.json](./127716-gizmos-steampunk-nonograms.json) |
 | Gizoku Tantei Nosuri | 227891 | [227891-gizoku-tantei-nosuri.json](./227891-gizoku-tantei-nosuri.json) |
 | GL Golf | 88347 | [88347-gl-golf.json](./88347-gl-golf.json) |
 | GL-117 Action Flight Simulator | 51245 | [51245-gl-117-action-flight-simulator.json](./51245-gl-117-action-flight-simulator.json) |
@@ -3090,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Blades | 25045 | [25045-god-of-blades.json](./25045-god-of-blades.json) |
 | God of Chaos | 408920 | [408920-god-of-chaos.json](./408920-god-of-chaos.json) |
 | God of Destiny | 137385 | [137385-god-of-destiny.json](./137385-god-of-destiny.json) |
+| God of Gym | 127815 | [127815-god-of-gym.json](./127815-god-of-gym.json) |
 | God of Light | 23415 | [23415-god-of-light.json](./23415-god-of-light.json) |
 | God of Light: Remastered | 75048 | [75048-god-of-light-remastered.json](./75048-god-of-light-remastered.json) |
 | God of Math: Train Your Brain | 232061 | [232061-god-of-math-train-your-brain.json](./232061-god-of-math-train-your-brain.json) |
@@ -4532,6 +4536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gray Matter | 3117 | [3117-gray-matter.json](./3117-gray-matter.json) |
 | Gray platformer | 142420 | [142420-gray-platformer.json](./142420-gray-platformer.json) |
 | Gray Zone Warfare | 275070 | [275070-gray-zone-warfare.json](./275070-gray-zone-warfare.json) |
+| Grayland | 127715 | [127715-grayland.json](./127715-grayland.json) |
 | Grayland | 171899 | [171899-grayland.json](./171899-grayland.json) |
 | Grayscale | 217502 | [217502-grayscale.json](./217502-grayscale.json) |
 | Grayscale | 225742 | [225742-grayscale.json](./225742-grayscale.json) |
