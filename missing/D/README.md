@@ -2879,7 +2879,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Dome | 58896 | [58896-defense-dome.json](./58896-defense-dome.json) |
 | Defense Grid 2 | 10184 | [10184-defense-grid-2.json](./10184-defense-grid-2.json) |
 | Defense Grid 2: Enhanced VR Edition | 58745 | [58745-defense-grid-2-enhanced-vr-edition.json](./58745-defense-grid-2-enhanced-vr-edition.json) |
+| Defense Grid: The Awakening - Containment | 164417 | [164417-defense-grid-the-awakening-containment.json](./164417-defense-grid-the-awakening-containment.json) |
+| Defense Grid: The Awakening - Resurgence Map Pack 1 | 164415 | [164415-defense-grid-the-awakening-resurgence-map-pack-1.json](./164415-defense-grid-the-awakening-resurgence-map-pack-1.json) |
+| Defense Grid: The Awakening - Resurgence Map Pack 2 | 164414 | [164414-defense-grid-the-awakening-resurgence-map-pack-2.json](./164414-defense-grid-the-awakening-resurgence-map-pack-2.json) |
 | Defense Grid: The Awakening - Resurgence Map Pack 3 | 156026 | [156026-defense-grid-the-awakening-resurgence-map-pack-3.json](./156026-defense-grid-the-awakening-resurgence-map-pack-3.json) |
+| Defense Grid: The Awakening - Resurgence Map Pack 4 | 164416 | [164416-defense-grid-the-awakening-resurgence-map-pack-4.json](./164416-defense-grid-the-awakening-resurgence-map-pack-4.json) |
+| Defense Grid: The Awakening - You Monster DLC | 164418 | [164418-defense-grid-the-awakening-you-monster-dlc.json](./164418-defense-grid-the-awakening-you-monster-dlc.json) |
 | Defense Keeper | 24020 | [24020-defense-keeper.json](./24020-defense-keeper.json) |
 | Defense Master | 284486 | [284486-defense-master.json](./284486-defense-master.json) |
 | Defense of Egypt: Cleopatra Mission | 31097 | [31097-defense-of-egypt-cleopatra-mission.json](./31097-defense-of-egypt-cleopatra-mission.json) |
