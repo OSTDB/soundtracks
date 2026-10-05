@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takuyo Mix Box: First Anniversary | 268669 | [268669-takuyo-mix-box-first-anniversary.json](./268669-takuyo-mix-box-first-anniversary.json) |
 | TAL: Arctic | 104837 | [104837-tal-arctic.json](./104837-tal-arctic.json) |
 | TAL: Arctic 2 | 106625 | [106625-tal-arctic-2.json](./106625-tal-arctic-2.json) |
+| TAL: Wizard's Adventures | 126956 | [126956-tal-wizards-adventures.json](./126956-tal-wizards-adventures.json) |
 | Tale of a Hero | 63385 | [63385-tale-of-a-hero.json](./63385-tale-of-a-hero.json) |
 | Tale of an Apocalypse | 157014 | [157014-tale-of-an-apocalypse.json](./157014-tale-of-an-apocalypse.json) |
 | Tale of Avamphil | 177925 | [177925-tale-of-avamphil.json](./177925-tale-of-avamphil.json) |
@@ -4902,6 +4903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End Grows | 274580 | [274580-the-end-grows.json](./274580-the-end-grows.json) |
 | The End is Never the End | 269850 | [269850-the-end-is-never-the-end.json](./269850-the-end-is-never-the-end.json) |
 | The End o,,,o | 31847 | [31847-the-end-o-o.json](./31847-the-end-o-o.json) |
+| The End of an Actress | 126961 | [126961-the-end-of-an-actress.json](./126961-the-end-of-an-actress.json) |
 | The End of Gameplay | 343235 | [343235-the-end-of-gameplay.json](./343235-the-end-of-gameplay.json) |
 | The End of Labyronia: Nerubis | 158695 | [158695-the-end-of-labyronia-nerubis.json](./158695-the-end-of-labyronia-nerubis.json) |
 | The End of Sanity | 296452 | [296452-the-end-of-sanity.json](./296452-the-end-of-sanity.json) |
@@ -5290,6 +5292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Floor is Breathing | 229356 | [229356-the-floor-is-breathing.json](./229356-the-floor-is-breathing.json) |
 | The Floor is Lava | 88478 | [88478-the-floor-is-lava.json](./88478-the-floor-is-lava.json) |
 | The Floor Is Really Cheap Lava | 115042 | [115042-the-floor-is-really-cheap-lava.json](./115042-the-floor-is-really-cheap-lava.json) |
+| The Floor Is Still Really Cheap Lava | 126981 | [126981-the-floor-is-still-really-cheap-lava.json](./126981-the-floor-is-still-really-cheap-lava.json) |
 | The Flow | 140544 | [140544-the-flow.json](./140544-the-flow.json) |
 | The Flow Experience | 191071 | [191071-the-flow-experience.json](./191071-the-flow-experience.json) |
 | The Flower | 361747 | [361747-the-flower.json](./361747-the-flower.json) |
@@ -10052,6 +10055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Typing of the Dead: Overkill - Shakespeare DLC | 53869 | [53869-the-typing-of-the-dead-overkill-shakespeare-dlc.json](./53869-the-typing-of-the-dead-overkill-shakespeare-dlc.json) |
 | The Typing of the Dead: Overkill - Silver Screen DLC | 53868 | [53868-the-typing-of-the-dead-overkill-silver-screen-dlc.json](./53868-the-typing-of-the-dead-overkill-silver-screen-dlc.json) |
 | The Typing of The Dead: Overkill Collection | 53787 | [53787-the-typing-of-the-dead-overkill-collection.json](./53787-the-typing-of-the-dead-overkill-collection.json) |
+| The Ugly Christmas Sweater Game | 126995 | [126995-the-ugly-christmas-sweater-game.json](./126995-the-ugly-christmas-sweater-game.json) |
 | The Ugly Duckling | 206777 | [206777-the-ugly-duckling.json](./206777-the-ugly-duckling.json) |
 | The Ugly Ducling | 228078 | [228078-the-ugly-ducling.json](./228078-the-ugly-ducling.json) |
 | The Ultimate Adventure Games Pack Vol.1 | 96527 | [96527-the-ultimate-adventure-games-pack-vol-1.json](./96527-the-ultimate-adventure-games-pack-vol-1.json) |
@@ -16440,6 +16444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped Girl X | 255677 | [255677-trapped-girl-x.json](./255677-trapped-girl-x.json) |
 | Trapped Guys | 149707 | [149707-trapped-guys.json](./149707-trapped-guys.json) |
 | Trapped in a Cage | 267067 | [267067-trapped-in-a-cage.json](./267067-trapped-in-a-cage.json) |
+| Trapped in Fear | 126965 | [126965-trapped-in-fear.json](./126965-trapped-in-fear.json) |
 | Trapped In Here With Me | 263566 | [263566-trapped-in-here-with-me.json](./263566-trapped-in-here-with-me.json) |
 | Trapped in the Forest | 190055 | [190055-trapped-in-the-forest.json](./190055-trapped-in-the-forest.json) |
 | Trapped in the Kanal | 259538 | [259538-trapped-in-the-kanal.json](./259538-trapped-in-the-kanal.json) |
@@ -18225,6 +18230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Worlds II Castle Defense | 28986 | [28986-two-worlds-ii-castle-defense.json](./28986-two-worlds-ii-castle-defense.json) |
 | Two Worlds II HD | 53865 | [53865-two-worlds-ii-hd.json](./53865-two-worlds-ii-hd.json) |
 | Two Worlds II HD: Call of the Tenebrae | 131960 | [131960-two-worlds-ii-hd-call-of-the-tenebrae.json](./131960-two-worlds-ii-hd-call-of-the-tenebrae.json) |
+| Two Worlds II HD: Shattered Embrace | 126972 | [126972-two-worlds-ii-hd-shattered-embrace.json](./126972-two-worlds-ii-hd-shattered-embrace.json) |
 | Two Worlds II: Echoes of the Dark Past | 124775 | [124775-two-worlds-ii-echoes-of-the-dark-past.json](./124775-two-worlds-ii-echoes-of-the-dark-past.json) |
 | Two Worlds II: Pirates of the Flying Fortress | 11032 | [11032-two-worlds-ii-pirates-of-the-flying-fortress.json](./11032-two-worlds-ii-pirates-of-the-flying-fortress.json) |
 | Two Worlds II: Velvet Game of the Year Edition | 47473 | [47473-two-worlds-ii-velvet-game-of-the-year-edition.json](./47473-two-worlds-ii-velvet-game-of-the-year-edition.json) |
