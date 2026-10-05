@@ -2011,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros. | 257638 | [257638-mario-bros.json](./257638-mario-bros.json) |
 | Mario Bros. | 3105 | [3105-mario-bros.json](./3105-mario-bros.json) |
 | Mario Bros. Mayhem | 413896 | [413896-mario-bros-mayhem.json](./413896-mario-bros-mayhem.json) |
+| Mario Bros. Special | 132049 | [132049-mario-bros-special.json](./132049-mario-bros-special.json) |
 | Mario Bros. VB | 231513 | [231513-mario-bros-vb.json](./231513-mario-bros-vb.json) |
 | Mario Bros.-e | 170013 | [170013-mario-bros-e.json](./170013-mario-bros-e.json) |
 | Mario Bros.: Lost World | 281010 | [281010-mario-bros-lost-world.json](./281010-mario-bros-lost-world.json) |
@@ -2022,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Editor | 320233 | [320233-mario-editor.json](./320233-mario-editor.json) |
 | Mario Eisouoku: Illusionary Blossom of Cranium Prayer | 216179 | [216179-mario-eisouoku-illusionary-blossom-of-cranium-prayer.json](./216179-mario-eisouoku-illusionary-blossom-of-cranium-prayer.json) |
 | Mario FA: Vanishing Colosseum | 322772 | [322772-mario-fa-vanishing-colosseum.json](./322772-mario-fa-vanishing-colosseum.json) |
+| Mario Family | 131985 | [131985-mario-family.json](./131985-mario-family.json) |
 | Mario for the Masses | 330716 | [330716-mario-for-the-masses.json](./330716-mario-for-the-masses.json) |
 | Mario Forever | 127882 | [127882-mario-forever.json](./127882-mario-forever.json) |
 | Mario Forever Block Party | 127881 | [127881-mario-forever-block-party.json](./127881-mario-forever-block-party.json) |
@@ -5133,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaball: Red Astro Pack | 293418 | [293418-metaball-red-astro-pack.json](./293418-metaball-red-astro-pack.json) |
 | Metaball: Space Guide Pack | 409071 | [409071-metaball-space-guide-pack.json](./409071-metaball-space-guide-pack.json) |
 | Metabolis | 237277 | [237277-metabolis.json](./237277-metabolis.json) |
+| MetaChampions | 131988 | [131988-metachampions.json](./131988-metachampions.json) |
 | Metachromium | 164239 | [164239-metachromium.json](./164239-metachromium.json) |
 | MetaCity M | 220334 | [220334-metacity-m.json](./220334-metacity-m.json) |
 | Metacity Patrol | 339796 | [339796-metacity-patrol.json](./339796-metacity-patrol.json) |
