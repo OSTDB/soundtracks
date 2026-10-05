@@ -2272,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AHH!!! MazeZing | 158046 | [158046-ahh-mazezing.json](./158046-ahh-mazezing.json) |
 | Ahhnalog 112 | 196106 | [196106-ahhnalog-112.json](./196106-ahhnalog-112.json) |
 | Ahlgrens Bilspelet | 74070 | [74070-ahlgrens-bilspelet.json](./74070-ahlgrens-bilspelet.json) |
+| Ahlman Mansion 2020 | 150758 | [150758-ahlman-mansion-2020.json](./150758-ahlman-mansion-2020.json) |
 | Ahmmit's Gate | 184944 | [184944-ahmmits-gate.json](./184944-ahmmits-gate.json) |
 | Ahnayro: The Dream World | 22377 | [22377-ahnayro-the-dream-world.json](./22377-ahnayro-the-dream-world.json) |
 | AHOD: All Hands on Deck! | 217244 | [217244-ahod-all-hands-on-deck.json](./217244-ahod-all-hands-on-deck.json) |
@@ -3612,6 +3613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-front Assault | 344498 | [344498-all-front-assault.json](./344498-all-front-assault.json) |
 | All-in-One Board Games | 197708 | [197708-all-in-one-board-games.json](./197708-all-in-one-board-games.json) |
 | All-in-One Mahjong 2 | 89225 | [89225-all-in-one-mahjong-2.json](./89225-all-in-one-mahjong-2.json) |
+| All-In-One Sports VR | 150755 | [150755-all-in-one-sports-vr.json](./150755-all-in-one-sports-vr.json) |
 | All-Mountain Hucker | 283908 | [283908-all-mountain-hucker.json](./283908-all-mountain-hucker.json) |
 | All-Pro Football 2K8 | 5481 | [5481-all-pro-football-2k8.json](./5481-all-pro-football-2k8.json) |
 | All-Star Baseball '99 | 10663 | [10663-all-star-baseball-99.json](./10663-all-star-baseball-99.json) |
@@ -5045,6 +5047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Trail Girlish Square | 212799 | [212799-animal-trail-girlish-square.json](./212799-animal-trail-girlish-square.json) |
 | Animal Trail Girlish Square 2 | 268146 | [268146-animal-trail-girlish-square-2.json](./268146-animal-trail-girlish-square-2.json) |
 | Animal Trail Girlish Square Love+Plus | 268148 | [268148-animal-trail-girlish-square-love-plus.json](./268148-animal-trail-girlish-square-love-plus.json) |
+| Animal Trainer | 150748 | [150748-animal-trainer.json](./150748-animal-trainer.json) |
 | Animal Trainer Simulator | 226236 | [226236-animal-trainer-simulator.json](./226236-animal-trainer-simulator.json) |
 | Animal Unite | 212472 | [212472-animal-unite.json](./212472-animal-unite.json) |
 | Animal Up! | 121703 | [121703-animal-up.json](./121703-animal-up.json) |
@@ -5423,6 +5426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Earth | 276852 | [276852-another-earth.json](./276852-another-earth.json) |
 | Another Eye | 151613 | [151613-another-eye.json](./151613-another-eye.json) |
 | Another Farm Roguelike | 214201 | [214201-another-farm-roguelike.json](./214201-another-farm-roguelike.json) |
+| Another FPS Game | 150774 | [150774-another-fps-game.json](./150774-another-fps-game.json) |
 | Another Game About Clicking | 348859 | [348859-another-game-about-clicking.json](./348859-another-game-about-clicking.json) |
 | Another Hardcore Game | 110995 | [110995-another-hardcore-game.json](./110995-another-hardcore-game.json) |
 | Another Head | 323759 | [323759-another-head.json](./323759-another-head.json) |
@@ -6589,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archer Maclean's 3D Pool | 49315 | [49315-archer-macleans-3d-pool.json](./49315-archer-macleans-3d-pool.json) |
 | Archer Maclean's DropZone: 40th Anniversary Edition | 325012 | [325012-archer-macleans-dropzone-40th-anniversary-edition.json](./325012-archer-macleans-dropzone-40th-anniversary-edition.json) |
 | Archer Maclean's Super Dropzone | 42637 | [42637-archer-macleans-super-dropzone.json](./42637-archer-macleans-super-dropzone.json) |
+| Archer Master | 150744 | [150744-archer-master.json](./150744-archer-master.json) |
 | Archer of God | 237646 | [237646-archer-of-god.json](./237646-archer-of-god.json) |
 | Archer Pinball | 261802 | [261802-archer-pinball.json](./261802-archer-pinball.json) |
 | Archer: Sheshou | 246990 | [246990-archer-sheshou.json](./246990-archer-sheshou.json) |
