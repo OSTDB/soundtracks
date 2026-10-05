@@ -1813,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Executive Tycoon | 17036 | [17036-tech-executive-tycoon.json](./17036-tech-executive-tycoon.json) |
 | Tech Invaders TD | 219568 | [219568-tech-invaders-td.json](./219568-tech-invaders-td.json) |
 | Tech Romancer | 227751 | [227751-tech-romancer.json](./227751-tech-romancer.json) |
+| Tech vs Magic | 126480 | [126480-tech-vs-magic.json](./126480-tech-vs-magic.json) |
 | Tech Warriors Giga Fighters | 218015 | [218015-tech-warriors-giga-fighters.json](./218015-tech-warriors-giga-fighters.json) |
 | Tech-Heresy | 272497 | [272497-tech-heresy.json](./272497-tech-heresy.json) |
 | Tech48 | 92628 | [92628-tech48.json](./92628-tech48.json) |
@@ -1952,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Mutants in Manhattan | 16989 | [16989-teenage-mutant-ninja-turtles-mutants-in-manhattan.json](./16989-teenage-mutant-ninja-turtles-mutants-in-manhattan.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - Deluxe Edition | 323945 | [323945-teenage-mutant-ninja-turtles-mutants-unleashed-deluxe-edition.json](./323945-teenage-mutant-ninja-turtles-mutants-unleashed-deluxe-edition.json) |
 | Teenage Mutant Ninja Turtles: Portal Power | 59086 | [59086-teenage-mutant-ninja-turtles-portal-power.json](./59086-teenage-mutant-ninja-turtles-portal-power.json) |
+| Teenage Mutant Ninja Turtles: Rescue Palooza! | 126491 | [126491-teenage-mutant-ninja-turtles-rescue-palooza.json](./126491-teenage-mutant-ninja-turtles-rescue-palooza.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge | 144465 | [144465-teenage-mutant-ninja-turtles-shredders-revenge.json](./144465-teenage-mutant-ninja-turtles-shredders-revenge.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Limited Edition | 207919 | [207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json](./207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles | 317624 | [317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json](./317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json) |
@@ -4060,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clot Thickens | 156578 | [156578-the-clot-thickens.json](./156578-the-clot-thickens.json) |
 | The Clotted Island | 128591 | [128591-the-clotted-island.json](./128591-the-clotted-island.json) |
 | The Cloudberry Abyss | 402998 | [402998-the-cloudberry-abyss.json](./402998-the-cloudberry-abyss.json) |
+| The Clouds Travel Notes | 126376 | [126376-the-clouds-travel-notes.json](./126376-the-clouds-travel-notes.json) |
 | The Clown | 260975 | [260975-the-clown.json](./260975-the-clown.json) |
 | The Clown's Forest 2: Waking Shadows | 244362 | [244362-the-clowns-forest-2-waking-shadows.json](./244362-the-clowns-forest-2-waking-shadows.json) |
 | The Clown's Forest 3: Haunting Apparitions | 271906 | [271906-the-clowns-forest-3-haunting-apparitions.json](./271906-the-clowns-forest-3-haunting-apparitions.json) |
@@ -9318,6 +9321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Speris Legacy | 15565 | [15565-the-speris-legacy.json](./15565-the-speris-legacy.json) |
 | The Spewnicorn | 301249 | [301249-the-spewnicorn.json](./301249-the-spewnicorn.json) |
 | The Sphere | 407456 | [407456-the-sphere.json](./407456-the-sphere.json) |
+| The Sphere of Abyss | 126390 | [126390-the-sphere-of-abyss.json](./126390-the-sphere-of-abyss.json) |
 | The Spidy D | 205080 | [205080-the-spidy-d.json](./205080-the-spidy-d.json) |
 | The Spidy Quiz | 229669 | [229669-the-spidy-quiz.json](./229669-the-spidy-quiz.json) |
 | The Spiral Egg Challenge | 257527 | [257527-the-spiral-egg-challenge.json](./257527-the-spiral-egg-challenge.json) |
@@ -16550,6 +16554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Mosaics 7: Fantastic Berlin | 147125 | [147125-travel-mosaics-7-fantastic-berlin.json](./147125-travel-mosaics-7-fantastic-berlin.json) |
 | Travel Mosaics 8: Breathtaking Seoul | 147126 | [147126-travel-mosaics-8-breathtaking-seoul.json](./147126-travel-mosaics-8-breathtaking-seoul.json) |
 | Travel Mosaics 9: Mysterious Prague | 147127 | [147127-travel-mosaics-9-mysterious-prague.json](./147127-travel-mosaics-9-mysterious-prague.json) |
+| Travel Mosaics: A Paris Tour | 126487 | [126487-travel-mosaics-a-paris-tour.json](./126487-travel-mosaics-a-paris-tour.json) |
 | Travel Pack! | 361849 | [361849-travel-pack.json](./361849-travel-pack.json) |
 | Travel Riddles: Mahjong | 106588 | [106588-travel-riddles-mahjong.json](./106588-travel-riddles-mahjong.json) |
 | Travel Riddles: Trip to France | 41937 | [41937-travel-riddles-trip-to-france.json](./41937-travel-riddles-trip-to-france.json) |
@@ -17089,6 +17094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tritorn II: Road of Darkness | 67399 | [67399-tritorn-ii-road-of-darkness.json](./67399-tritorn-ii-road-of-darkness.json) |
 | TriTryst | 79189 | [79189-tritryst.json](./79189-tritryst.json) |
 | Triumph | 184041 | [184041-triumph.json](./184041-triumph.json) |
+| TriumphInTheSkies | 126401 | [126401-triumphintheskies.json](./126401-triumphintheskies.json) |
 | Triumvora | 346200 | [346200-triumvora.json](./346200-triumvora.json) |
 | Triuno Ascend | 398334 | [398334-triuno-ascend.json](./398334-triuno-ascend.json) |
 | Triversal | 143605 | [143605-triversal.json](./143605-triversal.json) |
@@ -17929,6 +17935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuya | 242053 | [242053-tuya.json](./242053-tuya.json) |
 | Tuzaq | 270874 | [270874-tuzaq.json](./270874-tuzaq.json) |
 | TV and Cinema 101: Trivia from Talkies to Trekkies | 69540 | [69540-tv-and-cinema-101-trivia-from-talkies-to-trekkies.json](./69540-tv-and-cinema-101-trivia-from-talkies-to-trekkies.json) |
+| TV Animation X - Unmei No Tatakai | 126468 | [126468-tv-animation-x-unmei-no-tatakai.json](./126468-tv-animation-x-unmei-no-tatakai.json) |
 | TV Archive: Tidy Up Together | 411668 | [411668-tv-archive-tidy-up-together.json](./411668-tv-archive-tidy-up-together.json) |
 | TV Boxing | 247010 | [247010-tv-boxing.json](./247010-tv-boxing.json) |
 | TV Calibration | 81233 | [81233-tv-calibration.json](./81233-tv-calibration.json) |
