@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Man Standing Coop: A Doom 3 Coop Mod | 301959 | [301959-last-man-standing-coop-a-doom-3-coop-mod.json](./301959-last-man-standing-coop-a-doom-3-coop-mod.json) |
 | Last Meal | 125999 | [125999-last-meal.json](./125999-last-meal.json) |
 | Last Memories | 236385 | [236385-last-memories.json](./236385-last-memories.json) |
+| Last Memory | 155693 | [155693-last-memory.json](./155693-last-memory.json) |
 | Last Message | 316160 | [316160-last-message.json](./316160-last-message.json) |
 | Last Message Plus | 316173 | [316173-last-message-plus.json](./316173-last-message-plus.json) |
 | Last Minute | 267018 | [267018-last-minute.json](./267018-last-minute.json) |
@@ -1916,6 +1917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LesbiAnts | 291593 | [291593-lesbiants.json](./291593-lesbiants.json) |
 | Leshy Prelude | 321117 | [321117-leshy-prelude.json](./321117-leshy-prelude.json) |
 | Leslie & Brianne's Galactic Rampage | 353374 | [353374-leslie-and-briannes-galactic-rampage.json](./353374-leslie-and-briannes-galactic-rampage.json) |
+| LesLove.Club: Emily and Sarah | 155569 | [155569-leslove-club-emily-and-sarah.json](./155569-leslove-club-emily-and-sarah.json) |
 | Lessaria: Fantasy Kingdom Sim | 261556 | [261556-lessaria-fantasy-kingdom-sim.json](./261556-lessaria-fantasy-kingdom-sim.json) |
 | Lesson | 111658 | [111658-lesson.json](./111658-lesson.json) |
 | Lesson Learned | 196115 | [196115-lesson-learned.json](./196115-lesson-learned.json) |
@@ -2310,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Libertine | 372694 | [372694-libertine.json](./372694-libertine.json) |
 | Liberty Castle: Home of the Free | 199666 | [199666-liberty-castle-home-of-the-free.json](./199666-liberty-castle-home-of-the-free.json) |
 | Liberty City Preservation Project | 334671 | [334671-liberty-city-preservation-project.json](./334671-liberty-city-preservation-project.json) |
+| Liberty Fighters | 155685 | [155685-liberty-fighters.json](./155685-liberty-fighters.json) |
 | Liberty Step | 222000 | [222000-liberty-step.json](./222000-liberty-step.json) |
 | Liberty Wings | 65038 | [65038-liberty-wings.json](./65038-liberty-wings.json) |
 | Liberty's Kids | 186062 | [186062-libertys-kids.json](./186062-libertys-kids.json) |
