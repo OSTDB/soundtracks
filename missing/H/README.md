@@ -2222,10 +2222,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helldivers 2: TR-117 Alpha Commander Armor Set | 325558 | [325558-helldivers-2-tr-117-alpha-commander-armor-set.json](./325558-helldivers-2-tr-117-alpha-commander-armor-set.json) |
 | Helldivers II: Super Citizen Edition | 267925 | [267925-helldivers-ii-super-citizen-edition.json](./267925-helldivers-ii-super-citizen-edition.json) |
 | Helldivers: A New Hell | 267932 | [267932-helldivers-a-new-hell.json](./267932-helldivers-a-new-hell.json) |
+| Helldivers: Commando Pack | 167658 | [167658-helldivers-commando-pack.json](./167658-helldivers-commando-pack.json) |
 | Helldivers: Defenders Pack | 267986 | [267986-helldivers-defenders-pack.json](./267986-helldivers-defenders-pack.json) |
+| Helldivers: Demolitionist Pack | 167657 | [167657-helldivers-demolitionist-pack.json](./167657-helldivers-demolitionist-pack.json) |
 | Helldivers: Dive Harder | 267938 | [267938-helldivers-dive-harder.json](./267938-helldivers-dive-harder.json) |
+| Helldivers: Entrenched Pack | 167661 | [167661-helldivers-entrenched-pack.json](./167661-helldivers-entrenched-pack.json) |
+| Helldivers: Hazard Ops Pack | 167655 | [167655-helldivers-hazard-ops-pack.json](./167655-helldivers-hazard-ops-pack.json) |
+| Helldivers: Pilot Pack | 167664 | [167664-helldivers-pilot-pack.json](./167664-helldivers-pilot-pack.json) |
+| Helldivers: Pistols Perk Pack | 167654 | [167654-helldivers-pistols-perk-pack.json](./167654-helldivers-pistols-perk-pack.json) |
+| Helldivers: Precision Expert Pack | 167660 | [167660-helldivers-precision-expert-pack.json](./167660-helldivers-precision-expert-pack.json) |
+| Helldivers: Ranger Pack | 167662 | [167662-helldivers-ranger-pack.json](./167662-helldivers-ranger-pack.json) |
+| Helldivers: Specialist Pack | 167659 | [167659-helldivers-specialist-pack.json](./167659-helldivers-specialist-pack.json) |
 | Helldivers: Support Pack | 267988 | [267988-helldivers-support-pack.json](./267988-helldivers-support-pack.json) |
+| Helldivers: Terrain Specialist Pack | 167656 | [167656-helldivers-terrain-specialist-pack.json](./167656-helldivers-terrain-specialist-pack.json) |
 | Helldivers: Turning Up the Heat | 267989 | [267989-helldivers-turning-up-the-heat.json](./267989-helldivers-turning-up-the-heat.json) |
+| Helldivers: Vehicles Pack | 167665 | [167665-helldivers-vehicles-pack.json](./167665-helldivers-vehicles-pack.json) |
+| Helldivers: Weapons Pack | 167663 | [167663-helldivers-weapons-pack.json](./167663-helldivers-weapons-pack.json) |
 | Helleidoscope | 364674 | [364674-helleidoscope.json](./364674-helleidoscope.json) |
 | Hellen's Gallery | 269290 | [269290-hellens-gallery.json](./269290-hellens-gallery.json) |
 | Hellenica | 26952 | [26952-hellenica.json](./26952-hellenica.json) |
@@ -4626,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Solitaire Easter | 173070 | [173070-holiday-solitaire-easter.json](./173070-holiday-solitaire-easter.json) |
 | Holiday Time | 191086 | [191086-holiday-time.json](./191086-holiday-time.json) |
 | Holiday with Gwen | 213485 | [213485-holiday-with-gwen.json](./213485-holiday-with-gwen.json) |
+| Holidays | 167567 | [167567-holidays.json](./167567-holidays.json) |
 | Hollenburg: Hell Castle | 256259 | [256259-hollenburg-hell-castle.json](./256259-hollenburg-hell-castle.json) |
 | Höllische Nachbarn | 92979 | [92979-hollische-nachbarn.json](./92979-hollische-nachbarn.json) |
 | Hollow | 182886 | [182886-hollow.json](./182886-hollow.json) |
@@ -6492,6 +6505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hustle Cat | 33277 | [33277-hustle-cat.json](./33277-hustle-cat.json) |
 | Hustle Quest: Historia of Urth | 299155 | [299155-hustle-quest-historia-of-urth.json](./299155-hustle-quest-historia-of-urth.json) |
 | Hustler | 92282 | [92282-hustler.json](./92282-hustler.json) |
+| Hustomten | 167564 | [167564-hustomten.json](./167564-hustomten.json) |
 | Huts | 129575 | [129575-huts.json](./129575-huts.json) |
 | Huuma Mina: The Game | 82501 | [82501-huuma-mina-the-game.json](./82501-huuma-mina-the-game.json) |
 | Huxley Pig | 67653 | [67653-huxley-pig.json](./67653-huxley-pig.json) |
