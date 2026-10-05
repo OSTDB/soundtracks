@@ -2597,6 +2597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nihilist Syndrome | 366940 | [366940-nihilist-syndrome.json](./366940-nihilist-syndrome.json) |
 | Nihility: Infinite Teeth | 256880 | [256880-nihility-infinite-teeth.json](./256880-nihility-infinite-teeth.json) |
 | Nihilore: The Mechanical Empire | 270844 | [270844-nihilore-the-mechanical-empire.json](./270844-nihilore-the-mechanical-empire.json) |
+| Nihilsearch | 146551 | [146551-nihilsearch.json](./146551-nihilsearch.json) |
 | Nihilumbra | 3026 | [3026-nihilumbra.json](./3026-nihilumbra.json) |
 | Nihmory | 211711 | [211711-nihmory.json](./211711-nihmory.json) |
 | Nihon Pro Golf Double Eagle | 143673 | [143673-nihon-pro-golf-double-eagle.json](./143673-nihon-pro-golf-double-eagle.json) |
@@ -3097,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Door Can Not be Opened with a Non-black Key | 355192 | [355192-no-door-can-not-be-opened-with-a-non-black-key.json](./355192-no-door-can-not-be-opened-with-a-non-black-key.json) |
 | No Emotions | 180569 | [180569-no-emotions.json](./180569-no-emotions.json) |
 | No Escape from Madness | 332456 | [332456-no-escape-from-madness.json](./332456-no-escape-from-madness.json) |
+| No Escape Saga | 146540 | [146540-no-escape-saga.json](./146540-no-escape-saga.json) |
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
 | No Fate! Only the Power of Will | 7123 | [7123-no-fate-only-the-power-of-will.json](./7123-no-fate-only-the-power-of-will.json) |
 | No Fear Downhill Mountain Biking | 4654 | [4654-no-fear-downhill-mountain-biking.json](./4654-no-fear-downhill-mountain-biking.json) |
