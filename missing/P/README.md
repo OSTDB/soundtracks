@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panel Attack | 167702 | [167702-panel-attack.json](./167702-panel-attack.json) |
 | Panel de Pon | 150107 | [150107-panel-de-pon.json](./150107-panel-de-pon.json) |
 | Panel de Pon | 84157 | [84157-panel-de-pon.json](./84157-panel-de-pon.json) |
+| Panel de Pon Event '98 | 134466 | [134466-panel-de-pon-event-98.json](./134466-panel-de-pon-event-98.json) |
 | Panel de Pon GB | 150108 | [150108-panel-de-pon-gb.json](./150108-panel-de-pon-gb.json) |
 | Panel de Pon: Event Version | 150105 | [150105-panel-de-pon-event-version.json](./150105-panel-de-pon-event-version.json) |
 | Panel de Pon: Event Version 2 | 150106 | [150106-panel-de-pon-event-version-2.json](./150106-panel-de-pon-event-version-2.json) |
@@ -6730,6 +6731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Music the Movie | 67316 | [67316-popn-music-the-movie.json](./67316-popn-music-the-movie.json) |
 | Pop'n Music: Mickey Tunes | 314334 | [314334-popn-music-mickey-tunes.json](./314334-popn-music-mickey-tunes.json) |
 | pop'n music: Tune Street | 98811 | [98811-popn-music-tune-street.json](./98811-popn-music-tune-street.json) |
+| Pop'n Music: Usagi to Neko to Shounen no Yume | 134404 | [134404-popn-music-usagi-to-neko-to-shounen-no-yume.json](./134404-popn-music-usagi-to-neko-to-shounen-no-yume.json) |
 | Pop'n Pop | 209956 | [209956-popn-pop.json](./209956-popn-pop.json) |
 | Pop'n pop globos | 50060 | [50060-popn-pop-globos.json](./50060-popn-pop-globos.json) |
 | Pop'n Stage EX | 314354 | [314354-popn-stage-ex.json](./314354-popn-stage-ex.json) |
