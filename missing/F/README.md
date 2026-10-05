@@ -1382,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer Fran: Running Out of Sunlight! | 185012 | [185012-farmer-fran-running-out-of-sunlight.json](./185012-farmer-fran-running-out-of-sunlight.json) |
 | Farmer Pug Dash | 129019 | [129019-farmer-pug-dash.json](./129019-farmer-pug-dash.json) |
 | Farmer Simulator | 253956 | [253956-farmer-simulator.json](./253956-farmer-simulator.json) |
+| Farmer Time: A Magical Farming Adventure | 164939 | [164939-farmer-time-a-magical-farming-adventure.json](./164939-farmer-time-a-magical-farming-adventure.json) |
 | Farmer's Delight | 232679 | [232679-farmers-delight.json](./232679-farmers-delight.json) |
 | Farmer's Diary | 285575 | [285575-farmers-diary.json](./285575-farmers-diary.json) |
 | Farmer's Dynasty | 75102 | [75102-farmers-dynasty.json](./75102-farmers-dynasty.json) |
@@ -5702,6 +5703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Hime | 90144 | [90144-fox-hime.json](./90144-fox-hime.json) |
 | Fox Hime Zero | 102325 | [102325-fox-hime-zero.json](./102325-fox-hime-zero.json) |
 | Fox Hunt Arena | 279686 | [279686-fox-hunt-arena.json](./279686-fox-hunt-arena.json) |
+| Fox in the Woods | 164936 | [164936-fox-in-the-woods.json](./164936-fox-in-the-woods.json) |
 | Fox Junction | 44726 | [44726-fox-junction.json](./44726-fox-junction.json) |
 | Fox n Forests | 21961 | [21961-fox-n-forests.json](./21961-fox-n-forests.json) |
 | Fox Runner Adventures | 237370 | [237370-fox-runner-adventures.json](./237370-fox-runner-adventures.json) |
