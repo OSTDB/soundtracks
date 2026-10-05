@@ -3520,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beast of the Rosewood | 302134 | [302134-the-beast-of-the-rosewood.json](./302134-the-beast-of-the-rosewood.json) |
 | The Beast of Torrack Moor | 58855 | [58855-the-beast-of-torrack-moor.json](./58855-the-beast-of-torrack-moor.json) |
 | The Beastmaster Princess | 219546 | [219546-the-beastmaster-princess.json](./219546-the-beastmaster-princess.json) |
+| The Beasts of 9500 | 133193 | [133193-the-beasts-of-9500.json](./133193-the-beasts-of-9500.json) |
 | The Beat Strikes Back | 364691 | [364691-the-beat-strikes-back.json](./364691-the-beat-strikes-back.json) |
 | The Beat, The Step, and the Cowboys | 59041 | [59041-the-beat-the-step-and-the-cowboys.json](./59041-the-beat-the-step-and-the-cowboys.json) |
 | The Beatles: Adventures in Pepperland | 198501 | [198501-the-beatles-adventures-in-pepperland.json](./198501-the-beatles-adventures-in-pepperland.json) |
@@ -4084,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Colors of the Artifacts | 91528 | [91528-the-colors-of-the-artifacts.json](./91528-the-colors-of-the-artifacts.json) |
 | The Colossus Is Coming: The Interactive Experience | 180287 | [180287-the-colossus-is-coming-the-interactive-experience.json](./180287-the-colossus-is-coming-the-interactive-experience.json) |
 | The Colour Beyond: A Zeroth Kind | 409590 | [409590-the-colour-beyond-a-zeroth-kind.json](./409590-the-colour-beyond-a-zeroth-kind.json) |
+| The Colour of Murder | 133253 | [133253-the-colour-of-murder.json](./133253-the-colour-of-murder.json) |
 | The Coma 2: Vicious Sisters | 121617 | [121617-the-coma-2-vicious-sisters.json](./121617-the-coma-2-vicious-sisters.json) |
 | The Coma 2: Vicious Sisters - Deluxe Edition | 154510 | [154510-the-coma-2-vicious-sisters-deluxe-edition.json](./154510-the-coma-2-vicious-sisters-deluxe-edition.json) |
 | The Coma 2B: Catacomb | 293779 | [293779-the-coma-2b-catacomb.json](./293779-the-coma-2b-catacomb.json) |
@@ -11206,6 +11208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threshold of Judgement | 378159 | [378159-threshold-of-judgement.json](./378159-threshold-of-judgement.json) |
 | Threshold of Pain | 274219 | [274219-threshold-of-pain.json](./274219-threshold-of-pain.json) |
 | Thrice Doomed | 294769 | [294769-thrice-doomed.json](./294769-thrice-doomed.json) |
+| Thrice in a row | 133176 | [133176-thrice-in-a-row.json](./133176-thrice-in-a-row.json) |
 | Thrice in a row: A new adventure | 153529 | [153529-thrice-in-a-row-a-new-adventure.json](./153529-thrice-in-a-row-a-new-adventure.json) |
 | Thrice in a row: Last Adventure | 213419 | [213419-thrice-in-a-row-last-adventure.json](./213419-thrice-in-a-row-last-adventure.json) |
 | Thrift Store Treasure: Hidden Objects | 417510 | [417510-thrift-store-treasure-hidden-objects.json](./417510-thrift-store-treasure-hidden-objects.json) |
@@ -11475,6 +11478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidal Affair: Before the Storm | 34618 | [34618-tidal-affair-before-the-storm.json](./34618-tidal-affair-before-the-storm.json) |
 | Tidal Hopper | 336026 | [336026-tidal-hopper.json](./336026-tidal-hopper.json) |
 | Tidal Nexus Online | 310002 | [310002-tidal-nexus-online.json](./310002-tidal-nexus-online.json) |
+| Tidal Shock: Off The Hook | 133258 | [133258-tidal-shock-off-the-hook.json](./133258-tidal-shock-off-the-hook.json) |
 | Tidal Towns | 341863 | [341863-tidal-towns.json](./341863-tidal-towns.json) |
 | Tidal Tribe | 116582 | [116582-tidal-tribe.json](./116582-tidal-tribe.json) |
 | Tidalis | 10991 | [10991-tidalis.json](./10991-tidalis.json) |
