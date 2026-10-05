@@ -4057,6 +4057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Codemasters 'Full Tilt' Racing Bundle | 99761 | [99761-the-codemasters-full-tilt-racing-bundle.json](./99761-the-codemasters-full-tilt-racing-bundle.json) |
 | The CodFather | 360658 | [360658-the-codfather.json](./360658-the-codfather.json) |
 | The Coffee Shop Collision | 337699 | [337699-the-coffee-shop-collision.json](./337699-the-coffee-shop-collision.json) |
+| The Coil of Possibility | 137968 | [137968-the-coil-of-possibility.json](./137968-the-coil-of-possibility.json) |
 | The Cold Case | 302140 | [302140-the-cold-case.json](./302140-the-cold-case.json) |
 | The Cold Forest | 211946 | [211946-the-cold-forest.json](./211946-the-cold-forest.json) |
 | The Cold Hand Reef | 326980 | [326980-the-cold-hand-reef.json](./326980-the-cold-hand-reef.json) |
@@ -4139,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Copper Age | 217913 | [217913-the-copper-age.json](./217913-the-copper-age.json) |
 | The Copper Canyon Dixie Dash | 144884 | [144884-the-copper-canyon-dixie-dash.json](./144884-the-copper-canyon-dixie-dash.json) |
 | The Copperfield Department | 326967 | [326967-the-copperfield-department.json](./326967-the-copperfield-department.json) |
+| The Cork | 137954 | [137954-the-cork.json](./137954-the-cork.json) |
 | The Corn Maze: Rebirth | 362289 | [362289-the-corn-maze-rebirth.json](./362289-the-corn-maze-rebirth.json) |
 | The Corner Cafe | 390184 | [390184-the-corner-cafe.json](./390184-the-corner-cafe.json) |
 | The Cornfield Road | 304161 | [304161-the-cornfield-road.json](./304161-the-cornfield-road.json) |
@@ -8634,6 +8636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Runesmith | 376438 | [376438-the-runesmith.json](./376438-the-runesmith.json) |
 | The Running Dead | 183333 | [183333-the-running-dead.json](./183333-the-running-dead.json) |
 | The Running Man | 168630 | [168630-the-running-man.json](./168630-the-running-man.json) |
+| The Rupture | 137972 | [137972-the-rupture.json](./137972-the-rupture.json) |
 | The Rush: The Veronica Story | 145577 | [145577-the-rush-the-veronica-story.json](./145577-the-rush-the-veronica-story.json) |
 | The Russian Roulette Game: PR | 292522 | [292522-the-russian-roulette-game-pr.json](./292522-the-russian-roulette-game-pr.json) |
 | The Rusted | 379377 | [379377-the-rusted.json](./379377-the-rusted.json) |
@@ -17320,6 +17323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Love | 76455 | [76455-true-love.json](./76455-true-love.json) |
 | True Love For Her | 297042 | [297042-true-love-for-her.json](./297042-true-love-for-her.json) |
 | True Love Story 3 | 138012 | [138012-true-love-story-3.json](./138012-true-love-story-3.json) |
+| True Love Story: Summer Days, and yet... | 137979 | [137979-true-love-story-summer-days-and-yet.json](./137979-true-love-story-summer-days-and-yet.json) |
 | True Nightmare: Diner Loop | 413209 | [413209-true-nightmare-diner-loop.json](./413209-true-nightmare-diner-loop.json) |
 | True Nightmare: Roadside Сafe | 319642 | [319642-true-nightmare-roadside-afe.json](./319642-true-nightmare-roadside-afe.json) |
 | True or False | 96483 | [96483-true-or-false.json](./96483-true-or-false.json) |
