@@ -6787,6 +6787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minigame Party | 257648 | [257648-minigame-party.json](./257648-minigame-party.json) |
 | Minigame Party VR | 33146 | [33146-minigame-party-vr.json](./33146-minigame-party-vr.json) |
 | MiniGame Show do Milhão | 268040 | [268040-minigame-show-do-milhao.json](./268040-minigame-show-do-milhao.json) |
+| Minigolf | 171902 | [171902-minigolf.json](./171902-minigolf.json) |
 | Minigolf | 307596 | [307596-minigolf.json](./307596-minigolf.json) |
 | MiniGolf | 101972 | [101972-minigolf.json](./101972-minigolf.json) |
 | Minigolf Adventure: Cherry Blossom Valley | 221698 | [221698-minigolf-adventure-cherry-blossom-valley.json](./221698-minigolf-adventure-cherry-blossom-valley.json) |
