@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.A.R.S: Creating A Ridiculous Shitshow | 386931 | [386931-c-a-r-s-creating-a-ridiculous-shitshow.json](./386931-c-a-r-s-creating-a-ridiculous-shitshow.json) |
 | C.A.S.T | 133187 | [133187-c-a-s-t.json](./133187-c-a-s-t.json) |
 | C.A.T.: Cyber Attack Team | 5762 | [5762-c-a-t-cyber-attack-team.json](./5762-c-a-t-cyber-attack-team.json) |
+| C.A.T.S.: Carefully Attempting Not to Screw Up | 120743 | [120743-c-a-t-s-carefully-attempting-not-to-screw-up.json](./120743-c-a-t-s-carefully-attempting-not-to-screw-up.json) |
 | C.E.O. | 19793 | [19793-c-e-o.json](./19793-c-e-o.json) |
 | C.H.A.O.S Tournament | 117726 | [117726-c-h-a-o-s-tournament.json](./117726-c-h-a-o-s-tournament.json) |
 | C.I.E.B The Backrooms Project | 265402 | [265402-c-i-e-b-the-backrooms-project.json](./265402-c-i-e-b-the-backrooms-project.json) |
@@ -3255,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing Demons | 150553 | [150553-chasing-demons.json](./150553-chasing-demons.json) |
 | Chasing Kaleidorider | 343321 | [343321-chasing-kaleidorider.json](./343321-chasing-kaleidorider.json) |
 | Chasing Light | 132582 | [132582-chasing-light.json](./132582-chasing-light.json) |
+| Chasing Nebula | 120705 | [120705-chasing-nebula.json](./120705-chasing-nebula.json) |
 | Chasing Sunsets | 323816 | [323816-chasing-sunsets.json](./323816-chasing-sunsets.json) |
 | Chasing Tail | 160240 | [160240-chasing-tail.json](./160240-chasing-tail.json) |
 | Chasing the Universe | 367524 | [367524-chasing-the-universe.json](./367524-chasing-the-universe.json) |
@@ -9036,6 +9038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Romances: Kokonoe Kokoro | 89726 | [89726-creature-romances-kokonoe-kokoro.json](./89726-creature-romances-kokonoe-kokoro.json) |
 | Creature Venture | 24846 | [24846-creature-venture.json](./24846-creature-venture.json) |
 | Creaturemin | 313355 | [313355-creaturemin.json](./313355-creaturemin.json) |
+| Creatures | 120747 | [120747-creatures.json](./120747-creatures.json) |
 | Creatures | 380097 | [380097-creatures.json](./380097-creatures.json) |
 | Creatures 2 | 11371 | [11371-creatures-2.json](./11371-creatures-2.json) |
 | Creatures 4 | 79200 | [79200-creatures-4.json](./79200-creatures-4.json) |
@@ -10886,6 +10889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybercon II | 15922 | [15922-cybercon-ii.json](./15922-cybercon-ii.json) |
 | Cybercop | 287115 | [287115-cybercop.json](./287115-cybercop.json) |
 | Cybercore Leap | 279893 | [279893-cybercore-leap.json](./279893-cybercore-leap.json) |
+| CyberCorp | 120697 | [120697-cybercorp.json](./120697-cybercorp.json) |
 | Cybercum 2069 | 305763 | [305763-cybercum-2069.json](./305763-cybercum-2069.json) |
 | Cyberdillo | 39014 | [39014-cyberdillo.json](./39014-cyberdillo.json) |
 | Cyberdimension Neptunia: 4 Goddesses Online - Royal Edition | 212313 | [212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json](./212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json) |
