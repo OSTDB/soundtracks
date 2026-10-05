@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad BalloonRider | 243172 | [243172-mad-balloonrider.json](./243172-mad-balloonrider.json) |
 | Mad Blocker Arcade | 65744 | [65744-mad-blocker-arcade.json](./65744-mad-blocker-arcade.json) |
 | Mad Blocker HD | 52558 | [52558-mad-blocker-hd.json](./52558-mad-blocker-hd.json) |
+| Mad Bulldozer | 143931 | [143931-mad-bulldozer.json](./143931-mad-bulldozer.json) |
 | Mad Bullets | 33262 | [33262-mad-bullets.json](./33262-mad-bullets.json) |
 | Mad Bus | 156101 | [156101-mad-bus.json](./156101-mad-bus.json) |
 | Mad Carnage | 86241 | [86241-mad-carnage.json](./86241-mad-carnage.json) |
@@ -3448,6 +3449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Roller | 32203 | [32203-maze-roller.json](./32203-maze-roller.json) |
 | Maze Runner | 72108 | [72108-maze-runner.json](./72108-maze-runner.json) |
 | Maze Runner II | 242690 | [242690-maze-runner-ii.json](./242690-maze-runner-ii.json) |
+| Maze Slider | 143969 | [143969-maze-slider.json](./143969-maze-slider.json) |
 | Maze Survivor | 408979 | [408979-maze-survivor.json](./408979-maze-survivor.json) |
 | Maze Tanks | 252222 | [252222-maze-tanks.json](./252222-maze-tanks.json) |
 | Maze Twister | 191820 | [191820-maze-twister.json](./191820-maze-twister.json) |
@@ -3464,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazebert TD | 207848 | [207848-mazebert-td.json](./207848-mazebert-td.json) |
 | MazeBrew | 242771 | [242771-mazebrew.json](./242771-mazebrew.json) |
 | MazeCraft | 365217 | [365217-mazecraft.json](./365217-mazecraft.json) |
+| Mazed and Bemused | 143963 | [143963-mazed-and-bemused.json](./143963-mazed-and-bemused.json) |
 | MazeFinger | 79863 | [79863-mazefinger.json](./79863-mazefinger.json) |
 | Mazeing | 306384 | [306384-mazeing.json](./306384-mazeing.json) |
 | Mazelit: Rolling With Style | 295346 | [295346-mazelit-rolling-with-style.json](./295346-mazelit-rolling-with-style.json) |
@@ -10331,6 +10334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murdle | 194471 | [194471-murdle.json](./194471-murdle.json) |
 | Murdoku | 401511 | [401511-murdoku.json](./401511-murdoku.json) |
 | Muri: Wildwoods | 324950 | [324950-muri-wildwoods.json](./324950-muri-wildwoods.json) |
+| Murk | 143924 | [143924-murk.json](./143924-murk.json) |
 | Murkon's Refuge | 65490 | [65490-murkons-refuge.json](./65490-murkons-refuge.json) |
 | Murkon's Vengeance | 65491 | [65491-murkons-vengeance.json](./65491-murkons-vengeance.json) |
 | Murky Horizon | 66622 | [66622-murky-horizon.json](./66622-murky-horizon.json) |
