@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Sunshine | 215911 | [215911-sakura-sunshine.json](./215911-sakura-sunshine.json) |
 | Sakura Sweetheart | 135893 | [135893-sakura-sweetheart.json](./135893-sakura-sweetheart.json) |
 | Sakura Swim Club | 34461 | [34461-sakura-swim-club.json](./34461-sakura-swim-club.json) |
+| Sakura Taisen | 132067 | [132067-sakura-taisen.json](./132067-sakura-taisen.json) |
 | Sakura Taisen | 71399 | [71399-sakura-taisen.json](./71399-sakura-taisen.json) |
 | Sakura Taisen 1 & 2 | 62140 | [62140-sakura-taisen-1-and-2.json](./62140-sakura-taisen-1-and-2.json) |
 | Sakura Taisen Hanagumi Tsuushin | 62123 | [62123-sakura-taisen-hanagumi-tsuushin.json](./62123-sakura-taisen-hanagumi-tsuushin.json) |
@@ -5693,6 +5694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silentium: Remastered | 240739 | [240739-silentium-remastered.json](./240739-silentium-remastered.json) |
 | Sileo: Tales of a New Dawn | 140917 | [140917-sileo-tales-of-a-new-dawn.json](./140917-sileo-tales-of-a-new-dawn.json) |
 | Silfade Gensoutan | 249769 | [249769-silfade-gensoutan.json](./249769-silfade-gensoutan.json) |
+| Silhouette | 132061 | [132061-silhouette.json](./132061-silhouette.json) |
 | Silhouette | 31378 | [31378-silhouette.json](./31378-silhouette.json) |
 | Silhouette Mirage | 1356 | [1356-silhouette-mirage.json](./1356-silhouette-mirage.json) |
 | Silhouette of Darkness | 271767 | [271767-silhouette-of-darkness.json](./271767-silhouette-of-darkness.json) |
@@ -14684,6 +14686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stones Keeper: King Aurelius | 212863 | [212863-stones-keeper-king-aurelius.json](./212863-stones-keeper-king-aurelius.json) |
 | Stones of Harlath | 152747 | [152747-stones-of-harlath.json](./152747-stones-of-harlath.json) |
 | Stones of Solace | 120284 | [120284-stones-of-solace.json](./120284-stones-of-solace.json) |
+| Stones of the Revenant | 131987 | [131987-stones-of-the-revenant.json](./131987-stones-of-the-revenant.json) |
 | Stones of Yalmrith | 102944 | [102944-stones-of-yalmrith.json](./102944-stones-of-yalmrith.json) |
 | Stonescape | 156221 | [156221-stonescape.json](./156221-stonescape.json) |
 | StoneSpace | 376436 | [376436-stonespace.json](./376436-stonespace.json) |
@@ -14755,6 +14758,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Generations | 99666 | [99666-storm-generations.json](./99666-storm-generations.json) |
 | Storm Horse Simulator | 357860 | [357860-storm-horse-simulator.json](./357860-storm-horse-simulator.json) |
 | Storm in Desert | 29174 | [29174-storm-in-desert.json](./29174-storm-in-desert.json) |
+| Storm Lover 2nd | 132071 | [132071-storm-lover-2nd.json](./132071-storm-lover-2nd.json) |
+| Storm Lover 2nd V | 132073 | [132073-storm-lover-2nd-v.json](./132073-storm-lover-2nd-v.json) |
+| Storm Lover Natsu Koi!! | 132070 | [132070-storm-lover-natsu-koi.json](./132070-storm-lover-natsu-koi.json) |
+| Storm Lover V | 132072 | [132072-storm-lover-v.json](./132072-storm-lover-v.json) |
 | Storm Master | 10853 | [10853-storm-master.json](./10853-storm-master.json) |
 | Storm of Darkness | 233500 | [233500-storm-of-darkness.json](./233500-storm-of-darkness.json) |
 | Storm of Idigidragon | 58503 | [58503-storm-of-idigidragon.json](./58503-storm-of-idigidragon.json) |
@@ -16686,6 +16693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Destronaut 2: Go Duck Yourself | 84917 | [84917-super-destronaut-2-go-duck-yourself.json](./84917-super-destronaut-2-go-duck-yourself.json) |
 | Super Destronaut 3D | 84916 | [84916-super-destronaut-3d.json](./84916-super-destronaut-3d.json) |
 | Super Destronaut DX | 104862 | [104862-super-destronaut-dx.json](./104862-super-destronaut-dx.json) |
+| Super Destronaut: Land Wars | 131977 | [131977-super-destronaut-land-wars.json](./131977-super-destronaut-land-wars.json) |
 | Super Destronaut: Landed X Loaded | 295474 | [295474-super-destronaut-landed-x-loaded.json](./295474-super-destronaut-landed-x-loaded.json) |
 | Super Destroyer | 378394 | [378394-super-destroyer.json](./378394-super-destroyer.json) |
 | Super Diagonal Mario 2: The Ultimate Meme Machine | 267944 | [267944-super-diagonal-mario-2-the-ultimate-meme-machine.json](./267944-super-diagonal-mario-2-the-ultimate-meme-machine.json) |
@@ -19313,6 +19321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syd of Valis | 247483 | [247483-syd-of-valis.json](./247483-syd-of-valis.json) |
 | Syd of Valis | 46191 | [46191-syd-of-valis.json](./46191-syd-of-valis.json) |
 | Syde Rugby League Simulator | 163837 | [163837-syde-rugby-league-simulator.json](./163837-syde-rugby-league-simulator.json) |
+| Syder Reloaded | 131976 | [131976-syder-reloaded.json](./131976-syder-reloaded.json) |
 | Sydless | 345576 | [345576-sydless.json](./345576-sydless.json) |
 | Sydney and the Cicadas in: Immanentize | 339426 | [339426-sydney-and-the-cicadas-in-immanentize.json](./339426-sydney-and-the-cicadas-in-immanentize.json) |
 | Sydney Hunter Collection | 251715 | [251715-sydney-hunter-collection.json](./251715-sydney-hunter-collection.json) |
