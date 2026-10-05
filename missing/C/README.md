@@ -4931,6 +4931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of the Evil Dead | 282129 | [282129-city-of-the-evil-dead.json](./282129-city-of-the-evil-dead.json) |
 | City of the Undead | 225557 | [225557-city-of-the-undead.json](./225557-city-of-the-undead.json) |
 | City of Thugs | 154025 | [154025-city-of-thugs.json](./154025-city-of-thugs.json) |
+| City of Titans | 124661 | [124661-city-of-titans.json](./124661-city-of-titans.json) |
 | City of Villains | 20457 | [20457-city-of-villains.json](./20457-city-of-villains.json) |
 | City of Voices | 327414 | [327414-city-of-voices.json](./327414-city-of-voices.json) |
 | City Panic! | 269756 | [269756-city-panic.json](./269756-city-panic.json) |
@@ -5160,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Dungeon Sengoku | 137013 | [137013-classic-dungeon-sengoku.json](./137013-classic-dungeon-sengoku.json) |
 | Classic FreeCell HD | 88281 | [88281-classic-freecell-hd.json](./88281-classic-freecell-hd.json) |
 | Classic Fun Collection 5 in 1 | 90588 | [90588-classic-fun-collection-5-in-1.json](./90588-classic-fun-collection-5-in-1.json) |
+| Classic Game | 124572 | [124572-classic-game.json](./124572-classic-game.json) |
 | Classic Game Trio | 206971 | [206971-classic-game-trio.json](./206971-classic-game-trio.json) |
 | Classic Games Collection Vol.1+2 Bundle | 231071 | [231071-classic-games-collection-vol-1-2-bundle.json](./231071-classic-games-collection-vol-1-2-bundle.json) |
 | Classic Hentai Logic Puzzle | 365280 | [365280-classic-hentai-logic-puzzle.json](./365280-classic-hentai-logic-puzzle.json) |
