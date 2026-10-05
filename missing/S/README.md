@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Same Room Same Day | 316610 | [316610-same-room-same-day.json](./316610-same-room-same-day.json) |
 | Same-X | 64429 | [64429-same-x.json](./64429-same-x.json) |
 | Samedi Manor | 260672 | [260672-samedi-manor.json](./260672-samedi-manor.json) |
+| SameGame | 134467 | [134467-samegame.json](./134467-samegame.json) |
 | SameGame | 339279 | [339279-samegame.json](./339279-samegame.json) |
 | SameGame | 366909 | [366909-samegame.json](./366909-samegame.json) |
 | SameGame | 64430 | [64430-samegame.json](./64430-samegame.json) |
@@ -1013,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Gift Master | 293312 | [293312-santa-gift-master.json](./293312-santa-gift-master.json) |
 | Santa in search of toys | 113691 | [113691-santa-in-search-of-toys.json](./113691-santa-in-search-of-toys.json) |
 | Santa Jump | 186840 | [186840-santa-jump.json](./186840-santa-jump.json) |
+| Santa Monica Paradise | 134482 | [134482-santa-monica-paradise.json](./134482-santa-monica-paradise.json) |
 | Santa Olympics | 175400 | [175400-santa-olympics.json](./175400-santa-olympics.json) |
 | Santa Paravia and Fiumaccio | 93011 | [93011-santa-paravia-and-fiumaccio.json](./93011-santa-paravia-and-fiumaccio.json) |
 | Santa Present Defense | 183510 | [183510-santa-present-defense.json](./183510-santa-present-defense.json) |
@@ -1154,6 +1156,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satella 2 1 | 178952 | [178952-satella-2-1.json](./178952-satella-2-1.json) |
 | Satella X | 178953 | [178953-satella-x.json](./178953-satella-x.json) |
 | Satella-Q: Nenmatsu Jumbo Takara Quiz | 234040 | [234040-satella-q-nenmatsu-jumbo-takara-quiz.json](./234040-satella-q-nenmatsu-jumbo-takara-quiz.json) |
+| SatellaWalker | 134468 | [134468-satellawalker.json](./134468-satellawalker.json) |
+| SatellaWalker 2 | 134469 | [134469-satellawalker-2.json](./134469-satellawalker-2.json) |
 | SatellaWalker 2: Bottom de Battle | 151637 | [151637-satellawalker-2-bottom-de-battle.json](./151637-satellawalker-2-bottom-de-battle.json) |
 | SatellaWalker 2: Moku-moku Kemuri Panic | 151636 | [151636-satellawalker-2-moku-moku-kemuri-panic.json](./151636-satellawalker-2-moku-moku-kemuri-panic.json) |
 | SatellaWalker: Machi no Heiwa wo Torimodose! | 151634 | [151634-satellawalker-machi-no-heiwa-wo-torimodose.json](./151634-satellawalker-machi-no-heiwa-wo-torimodose.json) |
@@ -2135,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SE3 Protocol: Last Drop | 415877 | [415877-se3-protocol-last-drop.json](./415877-se3-protocol-last-drop.json) |
 | Sea Animal Kingdom Battle Simulator: Sea Monster | 104466 | [104466-sea-animal-kingdom-battle-simulator-sea-monster.json](./104466-sea-animal-kingdom-battle-simulator-sea-monster.json) |
 | Sea Bass Fishing 2 | 299829 | [299829-sea-bass-fishing-2.json](./299829-sea-bass-fishing-2.json) |
+| Sea Battle | 134381 | [134381-sea-battle.json](./134381-sea-battle.json) |
 | Sea Battle | 86250 | [86250-sea-battle.json](./86250-sea-battle.json) |
 | Sea Battle Minimal | 192947 | [192947-sea-battle-minimal.json](./192947-sea-battle-minimal.json) |
 | Sea Battle Simulator | 104488 | [104488-sea-battle-simulator.json](./104488-sea-battle-simulator.json) |
@@ -14956,6 +14961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategy & Tactics: Dark Ages | 31923 | [31923-strategy-and-tactics-dark-ages.json](./31923-strategy-and-tactics-dark-ages.json) |
 | Strategy & Tactics: Sandbox World War II TBS | 99992 | [99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json](./99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json) |
 | Strategy Battles​ | 221753 | [221753-strategy-battles.json](./221753-strategy-battles.json) |
+| Strategy Challenges Collection 1 | 134475 | [134475-strategy-challenges-collection-1.json](./134475-strategy-challenges-collection-1.json) |
 | Strategy Games | 84213 | [84213-strategy-games.json](./84213-strategy-games.json) |
 | Strategy Master | 320832 | [320832-strategy-master.json](./320832-strategy-master.json) |
 | Strategy Six-Pack | 86034 | [86034-strategy-six-pack.json](./86034-strategy-six-pack.json) |
@@ -15382,6 +15388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip n Play with Valerie | 221205 | [221205-strip-n-play-with-valerie.json](./221205-strip-n-play-with-valerie.json) |
 | Strip Poker II | 78962 | [78962-strip-poker-ii.json](./78962-strip-poker-ii.json) |
 | Strip Poker II Plus | 39137 | [39137-strip-poker-ii-plus.json](./39137-strip-poker-ii-plus.json) |
+| Strip Poker Night at the Inventory | 134409 | [134409-strip-poker-night-at-the-inventory.json](./134409-strip-poker-night-at-the-inventory.json) |
 | Strip4 | 93182 | [93182-strip4.json](./93182-strip4.json) |
 | Striping Fruits | 147410 | [147410-striping-fruits.json](./147410-striping-fruits.json) |
 | Stripper Anya 2: X-MiGuFighters | 75168 | [75168-stripper-anya-2-x-migufighters.json](./75168-stripper-anya-2-x-migufighters.json) |
@@ -18870,6 +18877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Driver | 372484 | [372484-sweet-driver.json](./372484-sweet-driver.json) |
 | Sweet Dungeon | 159750 | [159750-sweet-dungeon.json](./159750-sweet-dungeon.json) |
 | Sweet Ex | 392906 | [392906-sweet-ex.json](./392906-sweet-ex.json) |
+| Sweet F. Cake | 134470 | [134470-sweet-f-cake.json](./134470-sweet-f-cake.json) |
 | Sweet fantasy | 29081 | [29081-sweet-fantasy.json](./29081-sweet-fantasy.json) |
 | Sweet Fantasy | 339464 | [339464-sweet-fantasy.json](./339464-sweet-fantasy.json) |
 | Sweet Fantasy World | 339463 | [339463-sweet-fantasy-world.json](./339463-sweet-fantasy-world.json) |
