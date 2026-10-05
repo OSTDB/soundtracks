@@ -1239,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farabel | 24965 | [24965-farabel.json](./24965-farabel.json) |
 | Faraday's Flaw | 310583 | [310583-faradays-flaw.json](./310583-faradays-flaw.json) |
 | Farafalla | 225285 | [225285-farafalla.json](./225285-farafalla.json) |
+| Farathan | 149703 | [149703-farathan.json](./149703-farathan.json) |
 | Faraway | 325275 | [325275-faraway.json](./325275-faraway.json) |
 | Faraway 4: Ancient Escape | 115052 | [115052-faraway-4-ancient-escape.json](./115052-faraway-4-ancient-escape.json) |
 | Faraway 5: Tropic Escape | 132015 | [132015-faraway-5-tropic-escape.json](./132015-faraway-5-tropic-escape.json) |
@@ -2937,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finders, Keepers | 139457 | [139457-finders-keepers.json](./139457-finders-keepers.json) |
 | Finding A Prince: The Game | 156189 | [156189-finding-a-prince-the-game.json](./156189-finding-a-prince-the-game.json) |
 | Finding Alex | 344379 | [344379-finding-alex.json](./344379-finding-alex.json) |
+| Finding Alina | 149708 | [149708-finding-alina.json](./149708-finding-alina.json) |
 | Finding America: New England | 273665 | [273665-finding-america-new-england.json](./273665-finding-america-new-england.json) |
 | Finding America: The Great Lakes | 260396 | [260396-finding-america-the-great-lakes.json](./260396-finding-america-the-great-lakes.json) |
 | Finding America: The Great Lakes - Collector's Edition | 321502 | [321502-finding-america-the-great-lakes-collectors-edition.json](./321502-finding-america-the-great-lakes-collectors-edition.json) |
@@ -6779,6 +6781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit of Choice | 309495 | [309495-fruit-of-choice.json](./309495-fruit-of-choice.json) |
 | Fruit Panic | 56754 | [56754-fruit-panic.json](./56754-fruit-panic.json) |
 | Fruit Postal Service | 119777 | [119777-fruit-postal-service.json](./119777-fruit-postal-service.json) |
+| Fruit Row | 149717 | [149717-fruit-row.json](./149717-fruit-row.json) |
 | Fruit Salad | 273892 | [273892-fruit-salad.json](./273892-fruit-salad.json) |
 | Fruit Salad Theory | 186807 | [186807-fruit-salad-theory.json](./186807-fruit-salad-theory.json) |
 | Fruit Search | 277379 | [277379-fruit-search.json](./277379-fruit-search.json) |
