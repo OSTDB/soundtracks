@@ -1877,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead in Time | 103453 | [103453-dead-in-time.json](./103453-dead-in-time.json) |
 | Dead In Vinland: The Battle of the Heodenings | 114430 | [114430-dead-in-vinland-the-battle-of-the-heodenings.json](./114430-dead-in-vinland-the-battle-of-the-heodenings.json) |
 | Dead In Vinland: The Vallhund | 114431 | [114431-dead-in-vinland-the-vallhund.json](./114431-dead-in-vinland-the-vallhund.json) |
+| Dead in Vinland: True Viking Edition | 122905 | [122905-dead-in-vinland-true-viking-edition.json](./122905-dead-in-vinland-true-viking-edition.json) |
 | Dead in Your TrackZ | 358913 | [358913-dead-in-your-trackz.json](./358913-dead-in-your-trackz.json) |
 | Dead Ink | 164259 | [164259-dead-ink.json](./164259-dead-ink.json) |
 | Dead Inside | 377576 | [377576-dead-inside.json](./377576-dead-inside.json) |
@@ -2140,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Edge | 52250 | [52250-deadly-edge.json](./52250-deadly-edge.json) |
 | Deadly Endgame | 384132 | [384132-deadly-endgame.json](./384132-deadly-endgame.json) |
 | Deadly Fight | 164960 | [164960-deadly-fight.json](./164960-deadly-fight.json) |
+| Deadly Fighter 2 | 122906 | [122906-deadly-fighter-2.json](./122906-deadly-fighter-2.json) |
 | Deadly Flare | 192879 | [192879-deadly-flare.json](./192879-deadly-flare.json) |
 | Deadly Footprints | 295791 | [295791-deadly-footprints.json](./295791-deadly-footprints.json) |
 | Deadly Harvest | 221107 | [221107-deadly-harvest.json](./221107-deadly-harvest.json) |
@@ -8597,6 +8599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamland Farm: House Furnitures | 324460 | [324460-dreamland-farm-house-furnitures.json](./324460-dreamland-farm-house-furnitures.json) |
 | Dreamland Farm: Kitchen Furnitures | 324461 | [324461-dreamland-farm-kitchen-furnitures.json](./324461-dreamland-farm-kitchen-furnitures.json) |
 | Dreamland Farm: Stone Fence and Tiles | 324477 | [324477-dreamland-farm-stone-fence-and-tiles.json](./324477-dreamland-farm-stone-fence-and-tiles.json) |
+| Dreamland Solitaire: Dragon's Fury | 122819 | [122819-dreamland-solitaire-dragons-fury.json](./122819-dreamland-solitaire-dragons-fury.json) |
 | Dreamland: Village Life | 208446 | [208446-dreamland-village-life.json](./208446-dreamland-village-life.json) |
 | Dreamlander | 147805 | [147805-dreamlander.json](./147805-dreamlander.json) |
 | Dreamlands: Cotton Candy Hunt | 190441 | [190441-dreamlands-cotton-candy-hunt.json](./190441-dreamlands-cotton-candy-hunt.json) |
