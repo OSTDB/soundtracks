@@ -2645,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Anthology | 423 | [423-final-fantasy-anthology.json](./423-final-fantasy-anthology.json) |
 | Final Fantasy Anthology Collector's Package | 89874 | [89874-final-fantasy-anthology-collectors-package.json](./89874-final-fantasy-anthology-collectors-package.json) |
 | Final Fantasy Blackmoon Prophecy Remake | 398468 | [398468-final-fantasy-blackmoon-prophecy-remake.json](./398468-final-fantasy-blackmoon-prophecy-remake.json) |
+| Final Fantasy Brave Exvius Chocobo Run! | 123476 | [123476-final-fantasy-brave-exvius-chocobo-run.json](./123476-final-fantasy-brave-exvius-chocobo-run.json) |
 | Final Fantasy Essence | 323350 | [323350-final-fantasy-essence.json](./323350-final-fantasy-essence.json) |
 | Final Fantasy for Android | 84188 | [84188-final-fantasy-for-android.json](./84188-final-fantasy-for-android.json) |
 | Final Fantasy Grandmasters | 84174 | [84174-final-fantasy-grandmasters.json](./84174-final-fantasy-grandmasters.json) |
@@ -7489,6 +7490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuu3: Minus3’s Lab | 316181 | [316181-fuu3-minus3-s-lab.json](./316181-fuu3-minus3-s-lab.json) |
 | Fuu3's Fuun Journey | 265927 | [265927-fuu3s-fuun-journey.json](./265927-fuu3s-fuun-journey.json) |
 | FuuGaku: Hisshuu Kamoku wa Sei Jitsugi! H na Jugyou de One Two Step | 194589 | [194589-fuugaku-hisshuu-kamoku-wa-sei-jitsugi-h-na-jugyou-de-one-two-step.json](./194589-fuugaku-hisshuu-kamoku-wa-sei-jitsugi-h-na-jugyou-de-one-two-step.json) |
+| Fuuin | 123388 | [123388-fuuin.json](./123388-fuuin.json) |
 | Fuuka σ Taisen | 294694 | [294694-fuuka-taisen.json](./294694-fuuka-taisen.json) |
 | Fuuka: A Summer Memory | 206006 | [206006-fuuka-a-summer-memory.json](./206006-fuuka-a-summer-memory.json) |
 | Fuuraiki | 64665 | [64665-fuuraiki.json](./64665-fuuraiki.json) |
