@@ -2579,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Room: Mind’s Prison | 327175 | [327175-white-room-mind-s-prison.json](./327175-white-room-mind-s-prison.json) |
 | White Rooms | 399708 | [399708-white-rooms.json](./399708-white-rooms.json) |
 | White Sands | 236228 | [236228-white-sands.json](./236228-white-sands.json) |
+| White Shirts Red Blood | 148137 | [148137-white-shirts-red-blood.json](./148137-white-shirts-red-blood.json) |
 | White Silence | 388720 | [388720-white-silence.json](./388720-white-silence.json) |
 | White Sky | 151583 | [151583-white-sky.json](./151583-white-sky.json) |
 | White Space | 60500 | [60500-white-space.json](./60500-white-space.json) |
