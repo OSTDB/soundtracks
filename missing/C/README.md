@@ -7349,6 +7349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraband Police - Crimson Fall | 381783 | [381783-contraband-police-crimson-fall.json](./381783-contraband-police-crimson-fall.json) |
 | Contract Bridge Solo | 398415 | [398415-contract-bridge-solo.json](./398415-contract-bridge-solo.json) |
 | Contract Cooks | 403578 | [403578-contract-cooks.json](./403578-contract-cooks.json) |
+| Contract Demon | 140911 | [140911-contract-demon.json](./140911-contract-demon.json) |
 | Contract J.A.C.K. | 1336 | [1336-contract-j-a-c-k.json](./1336-contract-j-a-c-k.json) |
 | Contract Killer | 162258 | [162258-contract-killer.json](./162258-contract-killer.json) |
 | Contract Killer: Sniper | 127049 | [127049-contract-killer-sniper.json](./127049-contract-killer-sniper.json) |
@@ -9849,6 +9850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Clear | 129587 | [129587-crystal-clear.json](./129587-crystal-clear.json) |
 | Crystal Compulsion | 208834 | [208834-crystal-compulsion.json](./208834-crystal-compulsion.json) |
 | Crystal Confines | 69319 | [69319-crystal-confines.json](./69319-crystal-confines.json) |
+| Crystal Control | 140923 | [140923-crystal-control.json](./140923-crystal-control.json) |
 | Crystal core | 124212 | [124212-crystal-core.json](./124212-crystal-core.json) |
 | Crystal Cosmos | 32244 | [32244-crystal-cosmos.json](./32244-crystal-cosmos.json) |
 | Crystal Crisis | 101152 | [101152-crystal-crisis.json](./101152-crystal-crisis.json) |
@@ -10821,6 +10823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybermere | 169811 | [169811-cybermere.json](./169811-cybermere.json) |
 | Cybermorph | 40803 | [40803-cybermorph.json](./40803-cybermorph.json) |
 | Cybermotion | 51492 | [51492-cybermotion.json](./51492-cybermotion.json) |
+| Cybermycha i więźniowie Drappa | 140925 | [140925-cybermycha-i-wiezniowie-drappa.json](./140925-cybermycha-i-wiezniowie-drappa.json) |
 | Cybernated | 313681 | [313681-cybernated.json](./313681-cybernated.json) |
 | CyberNet Duel | 258525 | [258525-cybernet-duel.json](./258525-cybernet-duel.json) |
 | Cybernetic Fault | 161369 | [161369-cybernetic-fault.json](./161369-cybernetic-fault.json) |
