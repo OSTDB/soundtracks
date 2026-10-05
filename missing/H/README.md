@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack Time | 51450 | [51450-hack-time.json](./51450-hack-time.json) |
 | Hack_It | 33489 | [33489-hack-it.json](./33489-hack-it.json) |
 | Hack_Me 2 | 29287 | [29287-hack-me-2.json](./29287-hack-me-2.json) |
+| Hack_Me 3 | 120751 | [120751-hack-me-3.json](./120751-hack-me-3.json) |
 | Hack_Me Collection | 53175 | [53175-hack-me-collection.json](./53175-hack-me-collection.json) |
 | Hack.bak | 386363 | [386363-hack-bak.json](./386363-hack-bak.json) |
 | Hack.ing | 290927 | [290927-hack-ing.json](./290927-hack-ing.json) |
