@@ -1926,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newton's House of Forces | 163948 | [163948-newtons-house-of-forces.json](./163948-newtons-house-of-forces.json) |
 | Newton's Promise | 388246 | [388246-newtons-promise.json](./388246-newtons-promise.json) |
 | Newtonian Horror | 184486 | [184486-newtonian-horror.json](./184486-newtonian-horror.json) |
+| Newtonian Inversion | 145260 | [145260-newtonian-inversion.json](./145260-newtonian-inversion.json) |
 | Newtraction | 194374 | [194374-newtraction.json](./194374-newtraction.json) |
 | NewU Fitness First Personal Trainer | 67689 | [67689-newu-fitness-first-personal-trainer.json](./67689-newu-fitness-first-personal-trainer.json) |
 | Nex Machina | 26202 | [26202-nex-machina.json](./26202-nex-machina.json) |
