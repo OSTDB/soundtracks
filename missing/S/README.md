@@ -5286,19 +5286,40 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization Revolution | 264865 | [264865-sid-meiers-civilization-revolution.json](./264865-sid-meiers-civilization-revolution.json) |
 | Sid Meier's Civilization Revolution | 264866 | [264866-sid-meiers-civilization-revolution.json](./264866-sid-meiers-civilization-revolution.json) |
 | Sid Meier's Civilization Revolution 2 Plus | 139435 | [139435-sid-meiers-civilization-revolution-2-plus.json](./139435-sid-meiers-civilization-revolution-2-plus.json) |
+| Sid Meier's Civilization V: Babylon (Nebuchadnezzar II) | 164393 | [164393-sid-meiers-civilization-v-babylon-nebuchadnezzar-ii.json](./164393-sid-meiers-civilization-v-babylon-nebuchadnezzar-ii.json) |
 | Sid Meier's Civilization V: Brave New World | 3272 | [3272-sid-meiers-civilization-v-brave-new-world.json](./3272-sid-meiers-civilization-v-brave-new-world.json) |
+| Sid Meier's Civilization V: Civ and Scenario Double Pack - Spain and Inca | 164392 | [164392-sid-meiers-civilization-v-civ-and-scenario-double-pack-spain-and-inca.json](./164392-sid-meiers-civilization-v-civ-and-scenario-double-pack-spain-and-inca.json) |
+| Sid Meier's Civilization V: Civ and Scenario Pack - Denmark (The Vikings) | 164404 | [164404-sid-meiers-civilization-v-civ-and-scenario-pack-denmark-the-vikings.json](./164404-sid-meiers-civilization-v-civ-and-scenario-pack-denmark-the-vikings.json) |
+| Sid Meier's Civilization V: Civ and Scenario Pack - Korea | 164391 | [164391-sid-meiers-civilization-v-civ-and-scenario-pack-korea.json](./164391-sid-meiers-civilization-v-civ-and-scenario-pack-korea.json) |
+| Sid Meier's Civilization V: Civ and Scenario Pack - Polynesia | 164389 | [164389-sid-meiers-civilization-v-civ-and-scenario-pack-polynesia.json](./164389-sid-meiers-civilization-v-civ-and-scenario-pack-polynesia.json) |
+| Sid Meier's Civilization V: Cradle of Civilization Map Pack - Americas | 164394 | [164394-sid-meiers-civilization-v-cradle-of-civilization-map-pack-americas.json](./164394-sid-meiers-civilization-v-cradle-of-civilization-map-pack-americas.json) |
+| Sid Meier's Civilization V: Cradle of Civilization Map Pack - Asia | 164395 | [164395-sid-meiers-civilization-v-cradle-of-civilization-map-pack-asia.json](./164395-sid-meiers-civilization-v-cradle-of-civilization-map-pack-asia.json) |
+| Sid Meier's Civilization V: Cradle of Civilization Map Pack - Mediterranean | 164397 | [164397-sid-meiers-civilization-v-cradle-of-civilization-map-pack-mediterranean.json](./164397-sid-meiers-civilization-v-cradle-of-civilization-map-pack-mediterranean.json) |
+| Sid Meier's Civilization V: Cradle of Civilization Map Pack - Mesopotamia | 164396 | [164396-sid-meiers-civilization-v-cradle-of-civilization-map-pack-mesopotamia.json](./164396-sid-meiers-civilization-v-cradle-of-civilization-map-pack-mesopotamia.json) |
+| Sid Meier's Civilization V: Explorer's Map Pack | 164398 | [164398-sid-meiers-civilization-v-explorers-map-pack.json](./164398-sid-meiers-civilization-v-explorers-map-pack.json) |
 | Sid Meier's Civilization V: Gold Edition | 50880 | [50880-sid-meiers-civilization-v-gold-edition.json](./50880-sid-meiers-civilization-v-gold-edition.json) |
+| Sid Meier's Civilization V: Scenario Pack - Wonders of the Ancient World | 164388 | [164388-sid-meiers-civilization-v-scenario-pack-wonders-of-the-ancient-world.json](./164388-sid-meiers-civilization-v-scenario-pack-wonders-of-the-ancient-world.json) |
+| Sid Meier's Civilization V: Scrambled Nations Map Pack | 164390 | [164390-sid-meiers-civilization-v-scrambled-nations-map-pack.json](./164390-sid-meiers-civilization-v-scrambled-nations-map-pack.json) |
 | Sid Meier's Civilization VI: Akbar Pack | 277529 | [277529-sid-meiers-civilization-vi-akbar-pack.json](./277529-sid-meiers-civilization-vi-akbar-pack.json) |
+| Sid Meier's Civilization VI: Australia Civilization & Scenario Pack | 164401 | [164401-sid-meiers-civilization-vi-australia-civilization-and-scenario-pack.json](./164401-sid-meiers-civilization-vi-australia-civilization-and-scenario-pack.json) |
 | Sid Meier's Civilization VI: Babylon Pack | 141185 | [141185-sid-meiers-civilization-vi-babylon-pack.json](./141185-sid-meiers-civilization-vi-babylon-pack.json) |
 | Sid Meier's Civilization VI: Byzantium & Gaul Pack | 139967 | [139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json](./139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json) |
+| Sid Meier's Civilization VI: Ethiopia Pack | 164402 | [164402-sid-meiers-civilization-vi-ethiopia-pack.json](./164402-sid-meiers-civilization-vi-ethiopia-pack.json) |
 | Sid Meier's Civilization VI: John Riccitiello Pack | 277374 | [277374-sid-meiers-civilization-vi-john-riccitiello-pack.json](./277374-sid-meiers-civilization-vi-john-riccitiello-pack.json) |
+| Sid Meier's Civilization VI: Khmer and Indonesia Civilization & Scenario Pack | 164407 | [164407-sid-meiers-civilization-vi-khmer-and-indonesia-civilization-and-scenario-pack.json](./164407-sid-meiers-civilization-vi-khmer-and-indonesia-civilization-and-scenario-pack.json) |
 | Sid Meier's Civilization VI: Klein Moretti Pack | 278097 | [278097-sid-meiers-civilization-vi-klein-moretti-pack.json](./278097-sid-meiers-civilization-vi-klein-moretti-pack.json) |
 | Sid Meier's Civilization VI: Liyue & Inazuma Pack | 278439 | [278439-sid-meiers-civilization-vi-liyue-and-inazuma-pack.json](./278439-sid-meiers-civilization-vi-liyue-and-inazuma-pack.json) |
+| Sid Meier's Civilization VI: Maya & Gran Colombia Pack | 164406 | [164406-sid-meiers-civilization-vi-maya-and-gran-colombia-pack.json](./164406-sid-meiers-civilization-vi-maya-and-gran-colombia-pack.json) |
 | Sid Meier's Civilization VI: Mona Megistus Pack | 278742 | [278742-sid-meiers-civilization-vi-mona-megistus-pack.json](./278742-sid-meiers-civilization-vi-mona-megistus-pack.json) |
 | Sid Meier's Civilization VI: Mudrock Pack | 278635 | [278635-sid-meiers-civilization-vi-mudrock-pack.json](./278635-sid-meiers-civilization-vi-mudrock-pack.json) |
+| Sid Meier's Civilization VI: Nubia Civilization & Scenario Pack | 164403 | [164403-sid-meiers-civilization-vi-nubia-civilization-and-scenario-pack.json](./164403-sid-meiers-civilization-vi-nubia-civilization-and-scenario-pack.json) |
+| Sid Meier's Civilization VI: Persia and Macedon Civilization & Scenario Pack | 164405 | [164405-sid-meiers-civilization-vi-persia-and-macedon-civilization-and-scenario-pack.json](./164405-sid-meiers-civilization-vi-persia-and-macedon-civilization-and-scenario-pack.json) |
+| Sid Meier's Civilization VI: Poland Civilization & Scenario Pack | 164399 | [164399-sid-meiers-civilization-vi-poland-civilization-and-scenario-pack.json](./164399-sid-meiers-civilization-vi-poland-civilization-and-scenario-pack.json) |
 | Sid Meier's Civilization VI: Shinra Pack | 276934 | [276934-sid-meiers-civilization-vi-shinra-pack.json](./276934-sid-meiers-civilization-vi-shinra-pack.json) |
 | Sid Meier's Civilization VI: Sun and Moon of Teyvat Pack | 278052 | [278052-sid-meiers-civilization-vi-sun-and-moon-of-teyvat-pack.json](./278052-sid-meiers-civilization-vi-sun-and-moon-of-teyvat-pack.json) |
 | Sid Meier's Civilization VI: Super Mario Leaders Pack | 276935 | [276935-sid-meiers-civilization-vi-super-mario-leaders-pack.json](./276935-sid-meiers-civilization-vi-super-mario-leaders-pack.json) |
+| Sid Meier's Civilization VI: Vietnam & Kublai Khan Pack | 164408 | [164408-sid-meiers-civilization-vi-vietnam-and-kublai-khan-pack.json](./164408-sid-meiers-civilization-vi-vietnam-and-kublai-khan-pack.json) |
+| Sid Meier's Civilization VI: Vikings Scenario Pack | 164400 | [164400-sid-meiers-civilization-vi-vikings-scenario-pack.json](./164400-sid-meiers-civilization-vi-vikings-scenario-pack.json) |
 | Sid Meier's Civilization VI: Yorha Squadron Pack | 276781 | [276781-sid-meiers-civilization-vi-yorha-squadron-pack.json](./276781-sid-meiers-civilization-vi-yorha-squadron-pack.json) |
 | Sid Meier's Civilization VII: Arcade Edition | 385294 | [385294-sid-meiers-civilization-vii-arcade-edition.json](./385294-sid-meiers-civilization-vii-arcade-edition.json) |
 | Sid Meier's Civilization VII: Brush and Blade Collection | 418585 | [418585-sid-meiers-civilization-vii-brush-and-blade-collection.json](./418585-sid-meiers-civilization-vii-brush-and-blade-collection.json) |
@@ -11037,6 +11058,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectro: Phantom Tower | 393791 | [393791-spectro-phantom-tower.json](./393791-spectro-phantom-tower.json) |
 | Spectrolite | 176361 | [176361-spectrolite.json](./176361-spectrolite.json) |
 | Spectromancer: Gathering of Power | 164383 | [164383-spectromancer-gathering-of-power.json](./164383-spectromancer-gathering-of-power.json) |
+| Spectromancer: League of Heroes | 164385 | [164385-spectromancer-league-of-heroes.json](./164385-spectromancer-league-of-heroes.json) |
+| Spectromancer: Truth & Beauty | 164384 | [164384-spectromancer-truth-and-beauty.json](./164384-spectromancer-truth-and-beauty.json) |
 | Spectron | 40912 | [40912-spectron.json](./40912-spectron.json) |
 | Spectrubes | 33415 | [33415-spectrubes.json](./33415-spectrubes.json) |
 | Spectrubes Infinity | 96663 | [96663-spectrubes-infinity.json](./96663-spectrubes-infinity.json) |
