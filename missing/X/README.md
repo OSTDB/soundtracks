@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiǎo Qiàn Dàmàoxiǎn | 359475 | [359475-xiao-qian-damaoxian.json](./359475-xiao-qian-damaoxian.json) |
 | Xiǎo Qiān Mófǎ Zhèng | 359474 | [359474-xiao-qian-mofa-zheng.json](./359474-xiao-qian-mofa-zheng.json) |
 | Xiǎohēihé Jiāsùqì | 147369 | [147369-xiaoheihe-jiasuqi.json](./147369-xiaoheihe-jiasuqi.json) |
+| Xiàrì de Huíyì | 163905 | [163905-xiari-de-huiyi.json](./163905-xiari-de-huiyi.json) |
 | Xibalba | 61156 | [61156-xibalba.json](./61156-xibalba.json) |
 | Xìbāo Zhànzhēng | 116112 | [116112-xibao-zhanzheng.json](./116112-xibao-zhanzheng.json) |
 | Xicon Exedra: Minor Advancement | 381786 | [381786-xicon-exedra-minor-advancement.json](./381786-xicon-exedra-minor-advancement.json) |
