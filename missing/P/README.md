@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladin Dream | 154995 | [154995-paladin-dream.json](./154995-paladin-dream.json) |
 | Paladin Duty: Knights and Blades | 89393 | [89393-paladin-duty-knights-and-blades.json](./89393-paladin-duty-knights-and-blades.json) |
 | Paladin II | 70354 | [70354-paladin-ii.json](./70354-paladin-ii.json) |
+| Paladin's Lance | 164925 | [164925-paladins-lance.json](./164925-paladins-lance.json) |
 | Paladin's Legacy | 356866 | [356866-paladins-legacy.json](./356866-paladins-legacy.json) |
 | Paladin's Oath | 190739 | [190739-paladins-oath.json](./190739-paladins-oath.json) |
 | Paladin's Quest | 166057 | [166057-paladins-quest.json](./166057-paladins-quest.json) |
@@ -4166,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixar Pals | 230398 | [230398-pixar-pals.json](./230398-pixar-pals.json) |
 | Pixar Pals Plus! | 230329 | [230329-pixar-pals-plus.json](./230329-pixar-pals-plus.json) |
 | PixArk: Jade Elegance - A Theatrical Odyssey in the East | 291059 | [291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json](./291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json) |
+| Pixasso | 164868 | [164868-pixasso.json](./164868-pixasso.json) |
 | Pixasso 2 | 165703 | [165703-pixasso-2.json](./165703-pixasso-2.json) |
 | Pixasso 3 | 166624 | [166624-pixasso-3.json](./166624-pixasso-3.json) |
 | Pixel Adventure: Exploration | 96005 | [96005-pixel-adventure-exploration.json](./96005-pixel-adventure-exploration.json) |
@@ -4901,6 +4903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet's Edge | 14422 | [14422-planets-edge.json](./14422-planets-edge.json) |
 | Planeta | 158054 | [158054-planeta.json](./158054-planeta.json) |
 | Planetary Annihilation: Titans | 18962 | [18962-planetary-annihilation-titans.json](./18962-planetary-annihilation-titans.json) |
+| Planetary Defense | 164862 | [164862-planetary-defense.json](./164862-planetary-defense.json) |
 | Planetary Defense Force | 129787 | [129787-planetary-defense-force.json](./129787-planetary-defense-force.json) |
 | Planetary Deliver | 188929 | [188929-planetary-deliver.json](./188929-planetary-deliver.json) |
 | Planetary Destruction | 238584 | [238584-planetary-destruction.json](./238584-planetary-destruction.json) |
@@ -6267,6 +6270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polish Community Project | 301971 | [301971-polish-community-project.json](./301971-polish-community-project.json) |
 | Polismos | 285476 | [285476-polismos.json](./285476-polismos.json) |
 | Political Arena | 180303 | [180303-political-arena.json](./180303-political-arena.json) |
+| Political Fight Club | 164931 | [164931-political-fight-club.json](./164931-political-fight-club.json) |
 | Political Mastery | 263053 | [263053-political-mastery.json](./263053-political-mastery.json) |
 | Political Punchers: 2024 Arena | 293701 | [293701-political-punchers-2024-arena.json](./293701-political-punchers-2024-arena.json) |
 | Politically Yours | 23798 | [23798-politically-yours.json](./23798-politically-yours.json) |
@@ -6939,6 +6943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Survival | 218708 | [218708-potato-survival.json](./218708-potato-survival.json) |
 | Potato Thriller | 97100 | [97100-potato-thriller.json](./97100-potato-thriller.json) |
 | Potato Vs. Potato | 341560 | [341560-potato-vs-potato.json](./341560-potato-vs-potato.json) |
+| Potato's Dream | 164958 | [164958-potatos-dream.json](./164958-potatos-dream.json) |
 | Potatoes | 197180 | [197180-potatoes.json](./197180-potatoes.json) |
 | Potatostrike | 316140 | [316140-potatostrike.json](./316140-potatostrike.json) |
 | PotDuckRun | 364677 | [364677-potduckrun.json](./364677-potduckrun.json) |
