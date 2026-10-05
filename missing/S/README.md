@@ -4337,6 +4337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shenmue III: Deluxe Edition | 154513 | [154513-shenmue-iii-deluxe-edition.json](./154513-shenmue-iii-deluxe-edition.json) |
 | Shennong: Taste of Illusion | 113015 | [113015-shennong-taste-of-illusion.json](./113015-shennong-taste-of-illusion.json) |
 | Shénqǐ Shénluò | 152760 | [152760-shenqi-shenluo.json](./152760-shenqi-shenluo.json) |
+| ShenShan | 126387 | [126387-shenshan.json](./126387-shenshan.json) |
 | Shényóu Kèběn | 373714 | [373714-shenyou-keben.json](./373714-shenyou-keben.json) |
 | Shēnyuān | 165700 | [165700-shenyuan.json](./165700-shenyuan.json) |
 | Shenzhen I/O | 25084 | [25084-shenzhen-i-o.json](./25084-shenzhen-i-o.json) |
@@ -12336,6 +12337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring in Summer | 291052 | [291052-spring-in-summer.json](./291052-spring-in-summer.json) |
 | Spring Is Here | 82185 | [82185-spring-is-here.json](./82185-spring-is-here.json) |
 | Spring It! | 84536 | [84536-spring-it.json](./84536-spring-it.json) |
+| Spring Leaves No Flowers | 126470 | [126470-spring-leaves-no-flowers.json](./126470-spring-leaves-no-flowers.json) |
 | Spring Mosaics | 415910 | [415910-spring-mosaics.json](./415910-spring-mosaics.json) |
 | Spring Ninja | 344936 | [344936-spring-ninja.json](./344936-spring-ninja.json) |
 | Spring of Decadence | 103478 | [103478-spring-of-decadence.json](./103478-spring-of-decadence.json) |
@@ -15380,6 +15382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force 2004 | 273012 | [273012-strike-force-2004.json](./273012-strike-force-2004.json) |
 | Strike Force Harrier | 26480 | [26480-strike-force-harrier.json](./26480-strike-force-harrier.json) |
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
+| Strike Force Kitty | 126486 | [126486-strike-force-kitty.json](./126486-strike-force-kitty.json) |
 | Strike It! | 40910 | [40910-strike-it.json](./40910-strike-it.json) |
 | Strike of Kings | 56465 | [56465-strike-of-kings.json](./56465-strike-of-kings.json) |
 | Strike Pose | 239618 | [239618-strike-pose.json](./239618-strike-pose.json) |
@@ -19637,6 +19640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Zero | 148896 | [148896-system-zero.json](./148896-system-zero.json) |
 | System32 | 167763 | [167763-system32.json](./167763-system32.json) |
 | Systematic Immunity | 34648 | [34648-systematic-immunity.json](./34648-systematic-immunity.json) |
+| Systematic Insanity | 126374 | [126374-systematic-insanity.json](./126374-systematic-insanity.json) |
 | SystemCrash92 | 249505 | [249505-systemcrash92.json](./249505-systemcrash92.json) |
 | Systemic War | 365202 | [365202-systemic-war.json](./365202-systemic-war.json) |
 | Systemic\\Rem | 269736 | [269736-systemic-rem.json](./269736-systemic-rem.json) |
