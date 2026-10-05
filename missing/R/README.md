@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing | 91357 | [91357-racing.json](./91357-racing.json) |
 | Racing 2020 | 129204 | [129204-racing-2020.json](./129204-racing-2020.json) |
 | Racing Aces | 5426 | [5426-racing-aces.json](./5426-racing-aces.json) |
+| Racing angle | 123469 | [123469-racing-angle.json](./123469-racing-angle.json) |
 | Racing Beat | 40393 | [40393-racing-beat.json](./40393-racing-beat.json) |
 | Racing Car Chaos: Extreme Stunt Showdown | 308503 | [308503-racing-car-chaos-extreme-stunt-showdown.json](./308503-racing-car-chaos-extreme-stunt-showdown.json) |
 | Racing Car Forge | 193840 | [193840-racing-car-forge.json](./193840-racing-car-forge.json) |
@@ -1541,6 +1542,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reah: Face the Unknown | 70448 | [70448-reah-face-the-unknown.json](./70448-reah-face-the-unknown.json) |
 | Reaktor | 40165 | [40165-reaktor.json](./40165-reaktor.json) |
 | Reaktron | 121706 | [121706-reaktron.json](./121706-reaktron.json) |
+| Real Adventures: Pet Vet | 123384 | [123384-real-adventures-pet-vet.json](./123384-real-adventures-pet-vet.json) |
+| Real Adventures: Wild Horses | 123383 | [123383-real-adventures-wild-horses.json](./123383-real-adventures-wild-horses.json) |
 | Real Al's Humanity Academy | 115009 | [115009-real-als-humanity-academy.json](./115009-real-als-humanity-academy.json) |
 | Real Anime Situation! DT | 314992 | [314992-real-anime-situation-dt.json](./314992-real-anime-situation-dt.json) |
 | Real Arcade Bike | 126498 | [126498-real-arcade-bike.json](./126498-real-arcade-bike.json) |
@@ -2862,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Report One: Operation Alive | 322809 | [322809-report-one-operation-alive.json](./322809-report-one-operation-alive.json) |
 | Report: Horror Haul | 345705 | [345705-report-horror-haul.json](./345705-report-horror-haul.json) |
 | Reporter | 105975 | [105975-reporter.json](./105975-reporter.json) |
+| Reporter 2 | 123393 | [123393-reporter-2.json](./123393-reporter-2.json) |
 | Repose | 272831 | [272831-repose.json](./272831-repose.json) |
 | Repossessed | 279738 | [279738-repossessed.json](./279738-repossessed.json) |
 | Repossession | 226180 | [226180-repossession.json](./226180-repossession.json) |
@@ -4916,6 +4920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Ponkottsu Star Version | 50551 | [50551-robot-ponkottsu-star-version.json](./50551-robot-ponkottsu-star-version.json) |
 | Robot Ponkottsu: Moon Version | 243919 | [243919-robot-ponkottsu-moon-version.json](./243919-robot-ponkottsu-moon-version.json) |
 | Robot Programmer | 235976 | [235976-robot-programmer.json](./235976-robot-programmer.json) |
+| Robot Rage Rearmed | 123392 | [123392-robot-rage-rearmed.json](./123392-robot-rage-rearmed.json) |
 | Robot Rampage | 343366 | [343366-robot-rampage.json](./343366-robot-rampage.json) |
 | Robot Reckoning | 406695 | [406695-robot-reckoning.json](./406695-robot-reckoning.json) |
 | Robot Rejects | 220630 | [220630-robot-rejects.json](./220630-robot-rejects.json) |
