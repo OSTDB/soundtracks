@@ -2592,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niizuma wa Sailor Fuku | 72717 | [72717-niizuma-wa-sailor-fuku.json](./72717-niizuma-wa-sailor-fuku.json) |
 | Niji Protocol | 384710 | [384710-niji-protocol.json](./384710-niji-protocol.json) |
 | Niji-iro Canvas | 109003 | [109003-niji-iro-canvas.json](./109003-niji-iro-canvas.json) |
+| Nìjiàn 2 | 164947 | [164947-nijian-2.json](./164947-nijian-2.json) |
 | Nijiiro Twinkle: Guru-guru Daisakusen | 378171 | [378171-nijiiro-twinkle-guru-guru-daisakusen.json](./378171-nijiiro-twinkle-guru-guru-daisakusen.json) |
 | Nijuu Yuumu | 167127 | [167127-nijuu-yuumu.json](./167127-nijuu-yuumu.json) |
 | Nijuuei | 204499 | [204499-nijuuei.json](./204499-nijuuei.json) |
@@ -3758,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not the Hero | 241938 | [241938-not-the-hero.json](./241938-not-the-hero.json) |
 | Not the North Pole | 247612 | [247612-not-the-north-pole.json](./247612-not-the-north-pole.json) |
 | Not the Robots | 16723 | [16723-not-the-robots.json](./16723-not-the-robots.json) |
+| Not Their Will | 164930 | [164930-not-their-will.json](./164930-not-their-will.json) |
 | Not those monsters again... | 233011 | [233011-not-those-monsters-again.json](./233011-not-those-monsters-again.json) |
 | Not Tonight | 96088 | [96088-not-tonight.json](./96088-not-tonight.json) |
 | Not Tonight: One Love | 154560 | [154560-not-tonight-one-love.json](./154560-not-tonight-one-love.json) |
