@@ -2007,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ball Escape Adventure | 218477 | [218477-red-ball-escape-adventure.json](./218477-red-ball-escape-adventure.json) |
 | Red Ball Super Run | 228711 | [228711-red-ball-super-run.json](./228711-red-ball-super-run.json) |
 | Red Ball vs Green King | 28184 | [28184-red-ball-vs-green-king.json](./28184-red-ball-vs-green-king.json) |
+| Red Baron | 148139 | [148139-red-baron.json](./148139-red-baron.json) |
 | Red Baron | 18469 | [18469-red-baron.json](./18469-red-baron.json) |
 | Red Baron / Panzer Attack | 169267 | [169267-red-baron-panzer-attack.json](./169267-red-baron-panzer-attack.json) |
 | Red Baron 3D | 50124 | [50124-red-baron-3d.json](./50124-red-baron-3d.json) |
@@ -6658,6 +6659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory 3: A Fantasy Harvest Moon | 9640 | [9640-rune-factory-3-a-fantasy-harvest-moon.json](./9640-rune-factory-3-a-fantasy-harvest-moon.json) |
 | Rune Factory 4 Special | 115278 | [115278-rune-factory-4-special.json](./115278-rune-factory-4-special.json) |
 | Rune Factory 5 | 115279 | [115279-rune-factory-5.json](./115279-rune-factory-5.json) |
+| Rune Factory 5: Premium Box Limited Edition | 148156 | [148156-rune-factory-5-premium-box-limited-edition.json](./148156-rune-factory-5-premium-box-limited-edition.json) |
 | Rune Factory 6 | 250924 | [250924-rune-factory-6.json](./250924-rune-factory-6.json) |
 | Rune Factory Frontier | 5132 | [5132-rune-factory-frontier.json](./5132-rune-factory-frontier.json) |
 | Rune Factory: Guardians of Azuma - Rune Factory 4 Bachelorette Outfit Bundle | 351193 | [351193-rune-factory-guardians-of-azuma-rune-factory-4-bachelorette-outfit-bundle.json](./351193-rune-factory-guardians-of-azuma-rune-factory-4-bachelorette-outfit-bundle.json) |
