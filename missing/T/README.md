@@ -3062,6 +3062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Addams Family | 14208 | [14208-the-addams-family.json](./14208-the-addams-family.json) |
 | The Addams Family | 145932 | [145932-the-addams-family.json](./145932-the-addams-family.json) |
 | The Addams Family: Mansion Mayhem | 150006 | [150006-the-addams-family-mansion-mayhem.json](./150006-the-addams-family-mansion-mayhem.json) |
+| The Addams Family: Mystery Mansion | 122228 | [122228-the-addams-family-mystery-mansion.json](./122228-the-addams-family-mystery-mansion.json) |
 | The Adjudicator | 145697 | [145697-the-adjudicator.json](./145697-the-adjudicator.json) |
 | The Adjudicator | 164906 | [164906-the-adjudicator.json](./164906-the-adjudicator.json) |
 | The Adliberum Engine | 55891 | [55891-the-adliberum-engine.json](./55891-the-adliberum-engine.json) |
@@ -10648,6 +10649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The You Quiz | 361757 | [361757-the-you-quiz.json](./361757-the-you-quiz.json) |
 | The You Testament | 59920 | [59920-the-you-testament.json](./59920-the-you-testament.json) |
 | The You Testament: The 2D Coming | 234312 | [234312-the-you-testament-the-2d-coming.json](./234312-the-you-testament-the-2d-coming.json) |
+| The Young Gabriel King Chronicles | 122221 | [122221-the-young-gabriel-king-chronicles.json](./122221-the-young-gabriel-king-chronicles.json) |
 | The Young Ones | 40933 | [40933-the-young-ones.json](./40933-the-young-ones.json) |
 | The Youthdrainers | 34701 | [34701-the-youthdrainers.json](./34701-the-youthdrainers.json) |
 | The Yukon Trail | 73782 | [73782-the-yukon-trail.json](./73782-the-yukon-trail.json) |
@@ -12880,6 +12882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timore Narhelma | 317381 | [317381-timore-narhelma.json](./317381-timore-narhelma.json) |
 | Timore Remake | 220547 | [220547-timore-remake.json](./220547-timore-remake.json) |
 | Timothy | 64992 | [64992-timothy.json](./64992-timothy.json) |
+| Timothy and the Mysterious Forest | 122144 | [122144-timothy-and-the-mysterious-forest.json](./122144-timothy-and-the-mysterious-forest.json) |
 | Timothy and the Tower of Mu | 169876 | [169876-timothy-and-the-tower-of-mu.json](./169876-timothy-and-the-tower-of-mu.json) |
 | Timothy: Shinpi no Mori | 189132 | [189132-timothy-shinpi-no-mori.json](./189132-timothy-shinpi-no-mori.json) |
 | Timruk | 191816 | [191816-timruk.json](./191816-timruk.json) |
@@ -13077,6 +13080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Terry's Turbo Trip | 253106 | [253106-tiny-terrys-turbo-trip.json](./253106-tiny-terrys-turbo-trip.json) |
 | Tiny Thor | 28295 | [28295-tiny-thor.json](./28295-tiny-thor.json) |
 | Tiny Tied | 244843 | [244843-tiny-tied.json](./244843-tiny-tied.json) |
+| Tiny Time Travellers | 122119 | [122119-tiny-time-travellers.json](./122119-tiny-time-travellers.json) |
 | Tiny Tina's Wonderlands | 152061 | [152061-tiny-tinas-wonderlands.json](./152061-tiny-tinas-wonderlands.json) |
 | Tiny Tina's Wonderlands: Chaotic Great Edition | 169160 | [169160-tiny-tinas-wonderlands-chaotic-great-edition.json](./169160-tiny-tinas-wonderlands-chaotic-great-edition.json) |
 | Tiny Tina's Wonderlands: Coiled Captors | 204919 | [204919-tiny-tinas-wonderlands-coiled-captors.json](./204919-tiny-tinas-wonderlands-coiled-captors.json) |
@@ -14914,6 +14918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Defender: Hero Wars | 207270 | [207270-tower-defender-hero-wars.json](./207270-tower-defender-hero-wars.json) |
 | Tower Defense King | 208379 | [208379-tower-defense-king.json](./208379-tower-defense-king.json) |
 | Tower Defense Ultimate | 32900 | [32900-tower-defense-ultimate.json](./32900-tower-defense-ultimate.json) |
+| Tower Defense: Defender of the Kingdom | 122130 | [122130-tower-defense-defender-of-the-kingdom.json](./122130-tower-defense-defender-of-the-kingdom.json) |
 | Tower Defense: Goblin Wars | 384204 | [384204-tower-defense-goblin-wars.json](./384204-tower-defense-goblin-wars.json) |
 | Tower Dominion | 328027 | [328027-tower-dominion.json](./328027-tower-dominion.json) |
 | Tower Doomer | 289934 | [289934-tower-doomer.json](./289934-tower-doomer.json) |
@@ -17047,6 +17052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinoline: Genesis | 98374 | [98374-trinoline-genesis.json](./98374-trinoline-genesis.json) |
 | Trio | 90622 | [90622-trio.json](./90622-trio.json) |
 | Trio Adventures | 111456 | [111456-trio-adventures.json](./111456-trio-adventures.json) |
+| Trio Infernale | 122138 | [122138-trio-infernale.json](./122138-trio-infernale.json) |
 | Trio the Punch | 292851 | [292851-trio-the-punch.json](./292851-trio-the-punch.json) |
 | Trios | 129220 | [129220-trios.json](./129220-trios.json) |
 | Trip | 110120 | [110120-trip.json](./110120-trip.json) |
