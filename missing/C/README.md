@@ -4465,6 +4465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunkout | 92305 | [92305-chunkout.json](./92305-chunkout.json) |
 | Chunky Jump! | 347853 | [347853-chunky-jump.json](./347853-chunky-jump.json) |
 | Chup's Quest | 243946 | [243946-chups-quest.json](./243946-chups-quest.json) |
+| Chupacabras: Night Hunt | 163904 | [163904-chupacabras-night-hunt.json](./163904-chupacabras-night-hunt.json) |
 | Chura-umi Monogatari | 292139 | [292139-chura-umi-monogatari.json](./292139-chura-umi-monogatari.json) |
 | Church Crew | 360740 | [360740-church-crew.json](./360740-church-crew.json) |
 | Church Era | 118391 | [118391-church-era.json](./118391-church-era.json) |
@@ -7101,6 +7102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console War Giant | 407313 | [407313-console-war-giant.json](./407313-console-war-giant.json) |
 | Consonance | 374596 | [374596-consonance.json](./374596-consonance.json) |
 | Conspiracy Crew | 312152 | [312152-conspiracy-crew.json](./312152-conspiracy-crew.json) |
+| Conspiracy Field: Fog Shadow | 163879 | [163879-conspiracy-field-fog-shadow.json](./163879-conspiracy-field-fog-shadow.json) |
 | Conspiracy Girls | 158534 | [158534-conspiracy-girls.json](./158534-conspiracy-girls.json) |
 | Conspiracy! | 151638 | [151638-conspiracy.json](./151638-conspiracy.json) |
 | Conspiration: Le défi des derniers rois | 386328 | [386328-conspiration-le-defi-des-derniers-rois.json](./386328-conspiration-le-defi-des-derniers-rois.json) |
