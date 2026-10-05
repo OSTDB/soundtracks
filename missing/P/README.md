@@ -6999,6 +6999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potatoes | 197180 | [197180-potatoes.json](./197180-potatoes.json) |
 | Potatostrike | 316140 | [316140-potatostrike.json](./316140-potatostrike.json) |
 | PotDuckRun | 364677 | [364677-potduckrun.json](./364677-potduckrun.json) |
+| Potentia | 142098 | [142098-potentia.json](./142098-potentia.json) |
 | Potential Man | 411102 | [411102-potential-man.json](./411102-potential-man.json) |
 | Pothead | 392362 | [392362-pothead.json](./392362-pothead.json) |
 | Potion Commotion | 130128 | [130128-potion-commotion.json](./130128-potion-commotion.json) |
@@ -7225,6 +7226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Ups that Kill! | 51165 | [51165-power-ups-that-kill.json](./51165-power-ups-that-kill.json) |
 | Power, Corruption & Lies | 57646 | [57646-power-corruption-and-lies.json](./57646-power-corruption-and-lies.json) |
 | Power: The Game | 122275 | [122275-power-the-game.json](./122275-power-the-game.json) |
+| Power's Out | 142150 | [142150-powers-out.json](./142150-powers-out.json) |
 | Powerama | 60582 | [60582-powerama.json](./60582-powerama.json) |
 | Powerball: Monster's Quest | 329697 | [329697-powerball-monsters-quest.json](./329697-powerball-monsters-quest.json) |
 | PowerBeatsVR | 113557 | [113557-powerbeatsvr.json](./113557-powerbeatsvr.json) |
