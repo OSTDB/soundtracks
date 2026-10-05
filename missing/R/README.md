@@ -1990,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ball Super Run | 228711 | [228711-red-ball-super-run.json](./228711-red-ball-super-run.json) |
 | Red Ball vs Green King | 28184 | [28184-red-ball-vs-green-king.json](./28184-red-ball-vs-green-king.json) |
 | Red Baron | 18469 | [18469-red-baron.json](./18469-red-baron.json) |
+| Red Baron / Panzer Attack | 169267 | [169267-red-baron-panzer-attack.json](./169267-red-baron-panzer-attack.json) |
 | Red Baron 3D | 50124 | [50124-red-baron-3d.json](./50124-red-baron-3d.json) |
 | Red Baron Arcade | 21266 | [21266-red-baron-arcade.json](./21266-red-baron-arcade.json) |
 | Red Baron History | 9411 | [9411-red-baron-history.json](./9411-red-baron-history.json) |
@@ -4122,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rings of Medusa | 14507 | [14507-rings-of-medusa.json](./14507-rings-of-medusa.json) |
 | Rings of Saturn | 108324 | [108324-rings-of-saturn.json](./108324-rings-of-saturn.json) |
 | Rings of Saturn: Deep Weeb | 231361 | [231361-rings-of-saturn-deep-weeb.json](./231361-rings-of-saturn-deep-weeb.json) |
+| Rings of Saturn: Tales from the Rings | 169249 | [169249-rings-of-saturn-tales-from-the-rings.json](./169249-rings-of-saturn-tales-from-the-rings.json) |
 | Rings of Saturn: Tungsten Edition | 188093 | [188093-rings-of-saturn-tungsten-edition.json](./188093-rings-of-saturn-tungsten-edition.json) |
 | Rings of Zilfin | 2891 | [2891-rings-of-zilfin.json](./2891-rings-of-zilfin.json) |
 | Ringworld: Revenge of the Patriarch | 46727 | [46727-ringworld-revenge-of-the-patriarch.json](./46727-ringworld-revenge-of-the-patriarch.json) |
@@ -4569,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road To Siren Hills: Dark Journey | 304112 | [304112-road-to-siren-hills-dark-journey.json](./304112-road-to-siren-hills-dark-journey.json) |
 | Road to Valhalla | 312077 | [312077-road-to-valhalla.json](./312077-road-to-valhalla.json) |
 | Road To Valhalla: Carola | 290537 | [290537-road-to-valhalla-carola.json](./290537-road-to-valhalla-carola.json) |
+| Road to Valor: WW2 | 169274 | [169274-road-to-valor-ww2.json](./169274-road-to-valor-ww2.json) |
 | Road to Vegas | 123402 | [123402-road-to-vegas.json](./123402-road-to-vegas.json) |
 | Road to Vostok | 217304 | [217304-road-to-vostok.json](./217304-road-to-vostok.json) |
 | Road to Wealth | 348873 | [348873-road-to-wealth.json](./348873-road-to-wealth.json) |
