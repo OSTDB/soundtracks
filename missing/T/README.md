@@ -1861,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teen Patti Octro | 169878 | [169878-teen-patti-octro.json](./169878-teen-patti-octro.json) |
 | Teen Titans Battle Blitz | 144130 | [144130-teen-titans-battle-blitz.json](./144130-teen-titans-battle-blitz.json) |
 | Teen Titans Go! Arcade | 59358 | [59358-teen-titans-go-arcade.json](./59358-teen-titans-go-arcade.json) |
+| Teenage Blob: Paperperson - The First Single | 170868 | [170868-teenage-blob-paperperson-the-first-single.json](./170868-teenage-blob-paperperson-the-first-single.json) |
 | Teenage Crush Love Story Games | 255046 | [255046-teenage-crush-love-story-games.json](./255046-teenage-crush-love-story-games.json) |
 | Teenage Demon Slayer Society | 261217 | [261217-teenage-demon-slayer-society.json](./261217-teenage-demon-slayer-society.json) |
 | Teenage Lawnmower | 308559 | [308559-teenage-lawnmower.json](./308559-teenage-lawnmower.json) |
@@ -5618,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The hardest game in the universe 2: Final DLC | 290010 | [290010-the-hardest-game-in-the-universe-2-final-dlc.json](./290010-the-hardest-game-in-the-universe-2-final-dlc.json) |
 | The hardest game in the universe 2: New DLC | 290009 | [290009-the-hardest-game-in-the-universe-2-new-dlc.json](./290009-the-hardest-game-in-the-universe-2-new-dlc.json) |
 | The Hardest Game in the Universe: DLC 3 | 306069 | [306069-the-hardest-game-in-the-universe-dlc-3.json](./306069-the-hardest-game-in-the-universe-dlc-3.json) |
+| The Hardest Game in the Universe: Kangel | 170905 | [170905-the-hardest-game-in-the-universe-kangel.json](./170905-the-hardest-game-in-the-universe-kangel.json) |
 | The Hardest Quiz - Impossible | 96054 | [96054-the-hardest-quiz-impossible.json](./96054-the-hardest-quiz-impossible.json) |
 | The Hardy Boys: Treasure on the Tracks | 21105 | [21105-the-hardy-boys-treasure-on-the-tracks.json](./21105-the-hardy-boys-treasure-on-the-tracks.json) |
 | The Harlem Shake vs. Gangnam Dance Game | 264355 | [264355-the-harlem-shake-vs-gangnam-dance-game.json](./264355-the-harlem-shake-vs-gangnam-dance-game.json) |
@@ -9704,6 +9706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Transformers | 8015 | [8015-the-transformers.json](./8015-the-transformers.json) |
 | The Trap | 196838 | [196838-the-trap.json](./196838-the-trap.json) |
 | The Trap: Remake - Winter | 351098 | [351098-the-trap-remake-winter.json](./351098-the-trap-remake-winter.json) |
+| The Trap: Remastered | 170871 | [170871-the-trap-remastered.json](./170871-the-trap-remastered.json) |
 | The Trasamire Campaigns | 213418 | [213418-the-trasamire-campaigns.json](./213418-the-trasamire-campaigns.json) |
 | The Trash Pack: The Gross Gang in Your Garbage | 9752 | [9752-the-trash-pack-the-gross-gang-in-your-garbage.json](./9752-the-trash-pack-the-gross-gang-in-your-garbage.json) |
 | The Trashcan Games | 302060 | [302060-the-trashcan-games.json](./302060-the-trashcan-games.json) |
@@ -11244,6 +11247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tied to the Beat | 391039 | [391039-tied-to-the-beat.json](./391039-tied-to-the-beat.json) |
 | Tien Len: Killer 13 | 175422 | [175422-tien-len-killer-13.json](./175422-tien-len-killer-13.json) |
 | Tier 1 | 30204 | [30204-tier-1.json](./30204-tier-1.json) |
+| Tierra | 170906 | [170906-tierra.json](./170906-tierra.json) |
 | Tierra: Adventure Mystery | 174306 | [174306-tierra-adventure-mystery.json](./174306-tierra-adventure-mystery.json) |
 | Tiestru | 36255 | [36255-tiestru.json](./36255-tiestru.json) |
 | Tiěxuè Gōngshā | 151615 | [151615-tiexue-gongsha.json](./151615-tiexue-gongsha.json) |
@@ -17484,6 +17488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Turbo V8 | 13042 | [13042-twin-turbo-v8.json](./13042-twin-turbo-v8.json) |
 | Twin Unconscious | 229657 | [229657-twin-unconscious.json](./229657-twin-unconscious.json) |
 | Twin-Stick Survivors | 319090 | [319090-twin-stick-survivors.json](./319090-twin-stick-survivors.json) |
+| Twin-Turbo Supercharged Nitro-Fueled Papamobile | 170882 | [170882-twin-turbo-supercharged-nitro-fueled-papamobile.json](./170882-twin-turbo-supercharged-nitro-fueled-papamobile.json) |
 | TwinBee | 282650 | [282650-twinbee.json](./282650-twinbee.json) |
 | TwinBee | 282651 | [282651-twinbee.json](./282651-twinbee.json) |
 | TwinBee | 282652 | [282652-twinbee.json](./282652-twinbee.json) |
