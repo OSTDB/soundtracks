@@ -4423,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Bandits | 213348 | [213348-gravity-bandits.json](./213348-gravity-bandits.json) |
 | Gravity Biker | 391325 | [391325-gravity-biker.json](./391325-gravity-biker.json) |
 | Gravity Blast | 231946 | [231946-gravity-blast.json](./231946-gravity-blast.json) |
+| Gravity Blasters | 146512 | [146512-gravity-blasters.json](./146512-gravity-blasters.json) |
 | Gravity Block | 164511 | [164511-gravity-block.json](./164511-gravity-block.json) |
 | Gravity Block | 69358 | [69358-gravity-block.json](./69358-gravity-block.json) |
 | Gravity Block 2 | 326189 | [326189-gravity-block-2.json](./326189-gravity-block-2.json) |
@@ -4863,6 +4864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Echo of the Past | 188002 | [188002-grim-tales-echo-of-the-past.json](./188002-grim-tales-echo-of-the-past.json) |
 | Grim Tales: Echo of the Past - Collector's Edition | 181113 | [181113-grim-tales-echo-of-the-past-collectors-edition.json](./181113-grim-tales-echo-of-the-past-collectors-edition.json) |
 | Grim Tales: Graywitch | 250592 | [250592-grim-tales-graywitch.json](./250592-grim-tales-graywitch.json) |
+| Grim Tales: Graywitch - Collector's Edition | 146519 | [146519-grim-tales-graywitch-collectors-edition.json](./146519-grim-tales-graywitch-collectors-edition.json) |
 | Grim Tales: Guest from the Future - Collector's Edition | 122390 | [122390-grim-tales-guest-from-the-future-collectors-edition.json](./122390-grim-tales-guest-from-the-future-collectors-edition.json) |
 | Grim Tales: Horizon of Wishes | 239219 | [239219-grim-tales-horizon-of-wishes.json](./239219-grim-tales-horizon-of-wishes.json) |
 | Grim Tales: Horizon of Wishes - Collector's Edition | 214724 | [214724-grim-tales-horizon-of-wishes-collectors-edition.json](./214724-grim-tales-horizon-of-wishes-collectors-edition.json) |
