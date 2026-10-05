@@ -2100,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Stairs | 231940 | [231940-infinite-stairs.json](./231940-infinite-stairs.json) |
 | Infinite Sunshine Dust | 96731 | [96731-infinite-sunshine-dust.json](./96731-infinite-sunshine-dust.json) |
 | Infinite Survivor | 303582 | [303582-infinite-survivor.json](./303582-infinite-survivor.json) |
+| Infinite Tanks WWII | 150266 | [150266-infinite-tanks-wwii.json](./150266-infinite-tanks-wwii.json) |
 | Infinite Turtles | 198362 | [198362-infinite-turtles.json](./198362-infinite-turtles.json) |
 | Infinite Veil | 379874 | [379874-infinite-veil.json](./379874-infinite-veil.json) |
 | Infinite Versus | 143697 | [143697-infinite-versus.json](./143697-infinite-versus.json) |
