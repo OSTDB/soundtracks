@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls! Balls! | 163395 | [163395-balls-balls.json](./163395-balls-balls.json) |
 | Balls! Virtual Reality Cricket | 31580 | [31580-balls-virtual-reality-cricket.json](./31580-balls-virtual-reality-cricket.json) |
 | Ballshit | 373219 | [373219-ballshit.json](./373219-ballshit.json) |
+| BallStrike | 142758 | [142758-ballstrike.json](./142758-ballstrike.json) |
 | Ballsvoid | 242492 | [242492-ballsvoid.json](./242492-ballsvoid.json) |
 | Bally Fears: The Introduction Game | 317403 | [317403-bally-fears-the-introduction-game.json](./317403-bally-fears-the-introduction-game.json) |
 | Bally Hoo | 91436 | [91436-bally-hoo.json](./91436-bally-hoo.json) |
@@ -3766,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyonders | 408275 | [408275-beyonders.json](./408275-beyonders.json) |
 | BeYourCat | 309851 | [309851-beyourcat.json](./309851-beyourcat.json) |
 | Bez-MX | 282097 | [282097-bez-mx.json](./282097-bez-mx.json) |
+| Bezier: Second Edition | 142701 | [142701-bezier-second-edition.json](./142701-bezier-second-edition.json) |
 | Bezirk | 109876 | [109876-bezirk.json](./109876-bezirk.json) |
 | BeZombie Anime Invasion | 261825 | [261825-bezombie-anime-invasion.json](./261825-bezombie-anime-invasion.json) |
 | BFDI: Branches | 305909 | [305909-bfdi-branches.json](./305909-bfdi-branches.json) |
@@ -3932,6 +3934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Dipper | 112798 | [112798-big-dipper.json](./112798-big-dipper.json) |
 | Big Drunk Satanic Massacre | 75067 | [75067-big-drunk-satanic-massacre.json](./75067-big-drunk-satanic-massacre.json) |
 | Big Entrepreneur | 227373 | [227373-big-entrepreneur.json](./227373-big-entrepreneur.json) |
+| Big Farm Home & Garden | 142735 | [142735-big-farm-home-and-garden.json](./142735-big-farm-home-and-garden.json) |
 | Big Farm Story | 138727 | [138727-big-farm-story.json](./138727-big-farm-story.json) |
 | Big Farm Story: Asian Package | 225069 | [225069-big-farm-story-asian-package.json](./225069-big-farm-story-asian-package.json) |
 | Big Farm Story: Peaceful Nature Pack | 225070 | [225070-big-farm-story-peaceful-nature-pack.json](./225070-big-farm-story-peaceful-nature-pack.json) |
@@ -4174,6 +4177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary Battle | 360134 | [360134-binary-battle.json](./360134-binary-battle.json) |
 | Binary Blocks | 182894 | [182894-binary-blocks.json](./182894-binary-blocks.json) |
 | Binary Boy | 125407 | [125407-binary-boy.json](./125407-binary-boy.json) |
+| Binary Distortion | 142724 | [142724-binary-distortion.json](./142724-binary-distortion.json) |
 | Binary Domain | 6913 | [6913-binary-domain.json](./6913-binary-domain.json) |
 | Binary Domain Collection | 52629 | [52629-binary-domain-collection.json](./52629-binary-domain-collection.json) |
 | Binary Land | 366925 | [366925-binary-land.json](./366925-binary-land.json) |
@@ -6962,6 +6966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomcestors | 367961 | [367961-boomcestors.json](./367961-boomcestors.json) |
 | Boomer | 214541 | [214541-boomer.json](./214541-boomer.json) |
 | Boomer Brawler | 355616 | [355616-boomer-brawler.json](./355616-boomer-brawler.json) |
+| Boomer Simulator | 142729 | [142729-boomer-simulator.json](./142729-boomer-simulator.json) |
 | Boomer Zombie | 211250 | [211250-boomer-zombie.json](./211250-boomer-zombie.json) |
 | Boomerang | 279059 | [279059-boomerang.json](./279059-boomerang.json) |
 | Boomerang Fu: Deluxe Edition | 324381 | [324381-boomerang-fu-deluxe-edition.json](./324381-boomerang-fu-deluxe-edition.json) |
@@ -8287,6 +8292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brigadoon: The Quest of Time | 204485 | [204485-brigadoon-the-quest-of-time.json](./204485-brigadoon-the-quest-of-time.json) |
 | Brigador | 13361 | [13361-brigador.json](./13361-brigador.json) |
 | Brigador Killers | 119625 | [119625-brigador-killers.json](./119625-brigador-killers.json) |
+| Brigand: Panama | 142756 | [142756-brigand-panama.json](./142756-brigand-panama.json) |
 | Brigandine | 143118 | [143118-brigandine.json](./143118-brigandine.json) |
 | Brigandine: The Legend of Runersia | 121960 | [121960-brigandine-the-legend-of-runersia.json](./121960-brigandine-the-legend-of-runersia.json) |
 | Brigandine: The Legend of Runersia - Limited Edition | 136950 | [136950-brigandine-the-legend-of-runersia-limited-edition.json](./136950-brigandine-the-legend-of-runersia-limited-edition.json) |
