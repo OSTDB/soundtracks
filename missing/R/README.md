@@ -3726,6 +3726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Knights: Double Treble | 199460 | [199460-rhythm-knights-double-treble.json](./199460-rhythm-knights-double-treble.json) |
 | Rhythm League Heroes | 276181 | [276181-rhythm-league-heroes.json](./276181-rhythm-league-heroes.json) |
 | Rhythm Lust Girl 2 | 249786 | [249786-rhythm-lust-girl-2.json](./249786-rhythm-lust-girl-2.json) |
+| Rhythm Mage VR | 122150 | [122150-rhythm-mage-vr.json](./122150-rhythm-mage-vr.json) |
 | Rhythm of Annihilation | 358373 | [358373-rhythm-of-annihilation.json](./358373-rhythm-of-annihilation.json) |
 | Rhythm of Earth | 375289 | [375289-rhythm-of-earth.json](./375289-rhythm-of-earth.json) |
 | Rhythm Overdrive | 114527 | [114527-rhythm-overdrive.json](./114527-rhythm-overdrive.json) |
