@@ -1978,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost House | 384503 | [384503-ghost-house.json](./384503-ghost-house.json) |
 | Ghost House | 45649 | [45649-ghost-house.json](./45649-ghost-house.json) |
 | Ghost HQ | 369011 | [369011-ghost-hq.json](./369011-ghost-hq.json) |
+| Ghost Hunter | 137377 | [137377-ghost-hunter.json](./137377-ghost-hunter.json) |
 | Ghost Hunter | 241382 | [241382-ghost-hunter.json](./241382-ghost-hunter.json) |
 | Ghost Hunter | 294162 | [294162-ghost-hunter.json](./294162-ghost-hunter.json) |
 | Ghost Hunter | 307685 | [307685-ghost-hunter.json](./307685-ghost-hunter.json) |
@@ -3080,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Battle | 102580 | [102580-god-of-battle.json](./102580-god-of-battle.json) |
 | God of Blades | 25045 | [25045-god-of-blades.json](./25045-god-of-blades.json) |
 | God of Chaos | 408920 | [408920-god-of-chaos.json](./408920-god-of-chaos.json) |
+| God of Destiny | 137385 | [137385-god-of-destiny.json](./137385-god-of-destiny.json) |
 | God of Light | 23415 | [23415-god-of-light.json](./23415-god-of-light.json) |
 | God of Light: Remastered | 75048 | [75048-god-of-light-remastered.json](./75048-god-of-light-remastered.json) |
 | God of Math: Train Your Brain | 232061 | [232061-god-of-math-train-your-brain.json](./232061-god-of-math-train-your-brain.json) |
@@ -5843,6 +5845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunswitch | 306373 | [306373-gunswitch.json](./306373-gunswitch.json) |
 | Guntastic | 113024 | [113024-guntastic.json](./113024-guntastic.json) |
 | Gunter Abstrauer | 322771 | [322771-gunter-abstrauer.json](./322771-gunter-abstrauer.json) |
+| Guntica | 137411 | [137411-guntica.json](./137411-guntica.json) |
 | Guntris | 311824 | [311824-guntris.json](./311824-guntris.json) |
 | Guntu Western Front June, 1944 | 62288 | [62288-guntu-western-front-june-1944.json](./62288-guntu-western-front-june-1944.json) |
 | Gunvein | 211693 | [211693-gunvein.json](./211693-gunvein.json) |
