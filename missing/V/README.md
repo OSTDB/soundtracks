@@ -1235,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vincent's Chocolate | 301923 | [301923-vincents-chocolate.json](./301923-vincents-chocolate.json) |
 | Vincent's Horror Story | 238650 | [238650-vincents-horror-story.json](./238650-vincents-horror-story.json) |
 | Vincere Totus Astrum | 36266 | [36266-vincere-totus-astrum.json](./36266-vincere-totus-astrum.json) |
+| Vincula | 150275 | [150275-vincula.json](./150275-vincula.json) |
 | Vínculo | 355077 | [355077-vinculo.json](./355077-vinculo.json) |
 | Vinculum | 417644 | [417644-vinculum.json](./417644-vinculum.json) |
 | Vind | 115721 | [115721-vind.json](./115721-vind.json) |
@@ -1467,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Skate: Winter Update | 380593 | [380593-virtual-skate-winter-update.json](./380593-virtual-skate-winter-update.json) |
 | Virtual Skydiving | 116866 | [116866-virtual-skydiving.json](./116866-virtual-skydiving.json) |
 | Virtual Soccer | 46005 | [46005-virtual-soccer.json](./46005-virtual-soccer.json) |
+| Virtual Soldiers | 150246 | [150246-virtual-soldiers.json](./150246-virtual-soldiers.json) |
 | Virtual Sports | 29569 | [29569-virtual-sports.json](./29569-virtual-sports.json) |
 | Virtual Succubus | 194447 | [194447-virtual-succubus.json](./194447-virtual-succubus.json) |
 | Virtual Surgeon: Open Heart | 69239 | [69239-virtual-surgeon-open-heart.json](./69239-virtual-surgeon-open-heart.json) |
