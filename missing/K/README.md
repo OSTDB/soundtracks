@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Champ | 285600 | [285600-karate-champ.json](./285600-karate-champ.json) |
 | Karate Combat | 13732 | [13732-karate-combat.json](./13732-karate-combat.json) |
 | Karate Do | 239625 | [239625-karate-do.json](./239625-karate-do.json) |
+| Karate Fighter | 141516 | [141516-karate-fighter.json](./141516-karate-fighter.json) |
 | Karate Hero | 234318 | [234318-karate-hero.json](./234318-karate-hero.json) |
 | Karate Joe | 50062 | [50062-karate-joe.json](./50062-karate-joe.json) |
 | Karate Kamil vs. Ninja Nejat | 165491 | [165491-karate-kamil-vs-ninja-nejat.json](./165491-karate-kamil-vs-ninja-nejat.json) |
@@ -765,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazuma Kaneko's Tsukuyomi: Digital Deluxe Edition | 390532 | [390532-kazuma-kanekos-tsukuyomi-digital-deluxe-edition.json](./390532-kazuma-kanekos-tsukuyomi-digital-deluxe-edition.json) |
 | KBlocks | 82967 | [82967-kblocks.json](./82967-kblocks.json) |
 | KBRD | 251699 | [251699-kbrd.json](./251699-kbrd.json) |
+| KBreakOut | 141550 | [141550-kbreakout.json](./141550-kbreakout.json) |
 | KC Returns! II | 208374 | [208374-kc-returns-ii.json](./208374-kc-returns-ii.json) |
 | Kcpts | 244297 | [244297-kcpts.json](./244297-kcpts.json) |
 | KDice | 56512 | [56512-kdice.json](./56512-kdice.json) |
