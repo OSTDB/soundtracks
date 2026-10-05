@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbeknown | 59682 | [59682-unbeknown.json](./59682-unbeknown.json) |
 | Unbeliever | 261438 | [261438-unbeliever.json](./261438-unbeliever.json) |
 | Unbind | 112481 | [112481-unbind.json](./112481-unbind.json) |
+| Unblade | 124586 | [124586-unblade.json](./124586-unblade.json) |
 | Unblinking | 330921 | [330921-unblinking.json](./330921-unblinking.json) |
 | Unblock Ball | 353493 | [353493-unblock-ball.json](./353493-unblock-ball.json) |
 | Unblock Car : Puzzles Game | 104629 | [104629-unblock-car-puzzles-game.json](./104629-unblock-car-puzzles-game.json) |
