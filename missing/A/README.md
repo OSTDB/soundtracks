@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aavegotchi: Gotchiverse | 195528 | [195528-aavegotchi-gotchiverse.json](./195528-aavegotchi-gotchiverse.json) |
 | Ab Aeterno | 193291 | [193291-ab-aeterno.json](./193291-ab-aeterno.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
+| Abacus Finch | 143967 | [143967-abacus-finch.json](./143967-abacus-finch.json) |
 | Abaddon | 305287 | [305287-abaddon.json](./305287-abaddon.json) |
 | Abadox: The Deadly Inner War | 7903 | [7903-abadox-the-deadly-inner-war.json](./7903-abadox-the-deadly-inner-war.json) |
 | Abalone | 9939 | [9939-abalone.json](./9939-abalone.json) |
@@ -952,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absinth | 68905 | [68905-absinth.json](./68905-absinth.json) |
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
 | Absolut deadmau5 | 58283 | [58283-absolut-deadmau5.json](./58283-absolut-deadmau5.json) |
+| Absolute | 143945 | [143945-absolute.json](./143945-absolute.json) |
 | Absolute Alchemical Potion | 158555 | [158555-absolute-alchemical-potion.json](./158555-absolute-alchemical-potion.json) |
 | Absolute Backgammon | 100605 | [100605-absolute-backgammon.json](./100605-absolute-backgammon.json) |
 | Absolute Blue | 71466 | [71466-absolute-blue.json](./71466-absolute-blue.json) |
@@ -1405,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adamantine Cruelty | 271248 | [271248-adamantine-cruelty.json](./271248-adamantine-cruelty.json) |
 | Adanath | 219701 | [219701-adanath.json](./219701-adanath.json) |
 | Adapta Solva | 283893 | [283893-adapta-solva.json](./283893-adapta-solva.json) |
+| AdaptaTank | 143930 | [143930-adaptatank.json](./143930-adaptatank.json) |
 | Adaptory | 222870 | [222870-adaptory.json](./222870-adaptory.json) |
 | Adarin Farm | 187408 | [187408-adarin-farm.json](./187408-adarin-farm.json) |
 | Adarna | 326038 | [326038-adarna.json](./326038-adarna.json) |
@@ -6784,6 +6787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are you human? | 183394 | [183394-are-you-human.json](./183394-are-you-human.json) |
 | Are You Kidding Me? | 324922 | [324922-are-you-kidding-me.json](./324922-are-you-kidding-me.json) |
 | Are You Ok? | 179054 | [179054-are-you-ok.json](./179054-are-you-ok.json) |
+| Are you Ready VR | 143955 | [143955-are-you-ready-vr.json](./143955-are-you-ready-vr.json) |
 | Are You Smarter Than a 5th Grader? | 212767 | [212767-are-you-smarter-than-a-5th-grader.json](./212767-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than A 5th Grader? | 220072 | [220072-are-you-smarter-than-a-5th-grader.json](./220072-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than a 5th Grader? Game Time | 197940 | [197940-are-you-smarter-than-a-5th-grader-game-time.json](./197940-are-you-smarter-than-a-5th-grader-game-time.json) |
@@ -7032,6 +7036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arknights: Endfield - Update 1.2: At the Wake of Spring | 398565 | [398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json](./398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json) |
 | Arknights: Endfield - Update 1.5: Dreamscape of Wind and Snow | 415939 | [415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json](./415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json) |
 | Arknights: Release | 253344 | [253344-arknights-release.json](./253344-arknights-release.json) |
+| Arko | 143972 | [143972-arko.json](./143972-arko.json) |
 | Arktis SCP-RP | 383554 | [383554-arktis-scp-rp.json](./383554-arktis-scp-rp.json) |
 | Arktonis 13 | 183392 | [183392-arktonis-13.json](./183392-arktonis-13.json) |
 | Arktwend: The Forgotten Realm | 319107 | [319107-arktwend-the-forgotten-realm.json](./319107-arktwend-the-forgotten-realm.json) |
@@ -8781,6 +8786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audio Forager | 83963 | [83963-audio-forager.json](./83963-audio-forager.json) |
 | Audio Hero | 26831 | [26831-audio-hero.json](./26831-audio-hero.json) |
 | Audio Infection | 111669 | [111669-audio-infection.json](./111669-audio-infection.json) |
+| Audio Party Pack | 143923 | [143923-audio-party-pack.json](./143923-audio-party-pack.json) |
 | Audioclash: Battle of the Bands | 211083 | [211083-audioclash-battle-of-the-bands.json](./211083-audioclash-battle-of-the-bands.json) |
 | Audioglide | 334343 | [334343-audioglide.json](./334343-audioglide.json) |
 | AudioQuake | 208927 | [208927-audioquake.json](./208927-audioquake.json) |
