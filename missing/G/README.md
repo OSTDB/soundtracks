@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gare Sapphire Mechs | 25065 | [25065-gare-sapphire-mechs.json](./25065-gare-sapphire-mechs.json) |
 | Garena Blockman Go | 220215 | [220215-garena-blockman-go.json](./220215-garena-blockman-go.json) |
 | Garena Contra Returns | 223941 | [223941-garena-contra-returns.json](./223941-garena-contra-returns.json) |
+| Garena Speed Drifters | 125872 | [125872-garena-speed-drifters.json](./125872-garena-speed-drifters.json) |
 | Garenburg Woods | 75915 | [75915-garenburg-woods.json](./75915-garenburg-woods.json) |
 | Garestia | 253345 | [253345-garestia.json](./253345-garestia.json) |
 | Garetto | 163917 | [163917-garetto.json](./163917-garetto.json) |
@@ -2533,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glassbreakers: Champions of Moss | 264018 | [264018-glassbreakers-champions-of-moss.json](./264018-glassbreakers-champions-of-moss.json) |
 | Glasses and Girls | 248930 | [248930-glasses-and-girls.json](./248930-glasses-and-girls.json) |
 | Glasses Nightmare | 133218 | [133218-glasses-nightmare.json](./133218-glasses-nightmare.json) |
+| Glasses Ops: Back Again | 125777 | [125777-glasses-ops-back-again.json](./125777-glasses-ops-back-again.json) |
 | Glassfall | 250017 | [250017-glassfall.json](./250017-glassfall.json) |
 | Glassfish Bomb | 243074 | [243074-glassfish-bomb.json](./243074-glassfish-bomb.json) |
 | Glasshouse | 236321 | [236321-glasshouse.json](./236321-glasshouse.json) |
@@ -4633,6 +4635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedy Dungeon | 153395 | [153395-greedy-dungeon.json](./153395-greedy-dungeon.json) |
 | Greedy Dungeons | 86521 | [86521-greedy-dungeons.json](./86521-greedy-dungeons.json) |
 | Greedy Frog | 55120 | [55120-greedy-frog.json](./55120-greedy-frog.json) |
+| Greedy Goblins | 125787 | [125787-greedy-goblins.json](./125787-greedy-goblins.json) |
 | Greedy Goose | 306430 | [306430-greedy-goose.json](./306430-greedy-goose.json) |
 | Greedy Guns | 40556 | [40556-greedy-guns.json](./40556-greedy-guns.json) |
 | Greedy in the Dark | 272349 | [272349-greedy-in-the-dark.json](./272349-greedy-in-the-dark.json) |
