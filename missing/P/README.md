@@ -1813,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
 | Paws of Coal | 247444 | [247444-paws-of-coal.json](./247444-paws-of-coal.json) |
 | Paws of Fury | 181342 | [181342-paws-of-fury.json](./181342-paws-of-fury.json) |
+| Paws on the Sand: Lionessy Sins | 149699 | [149699-paws-on-the-sand-lionessy-sins.json](./149699-paws-on-the-sand-lionessy-sins.json) |
 | Paws: A Shelter 2 Game | 17007 | [17007-paws-a-shelter-2-game.json](./17007-paws-a-shelter-2-game.json) |
 | Paws: A Shelter 2 Game - Pitter Patter Edition | 154943 | [154943-paws-a-shelter-2-game-pitter-patter-edition.json](./154943-paws-a-shelter-2-game-pitter-patter-edition.json) |
 | Pawsitive | 298873 | [298873-pawsitive.json](./298873-pawsitive.json) |
@@ -3546,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilgrimage | 59694 | [59694-pilgrimage.json](./59694-pilgrimage.json) |
 | PilgrimAge | 276763 | [276763-pilgrimage.json](./276763-pilgrimage.json) |
 | Pilki Filki 2 | 99987 | [99987-pilki-filki-2.json](./99987-pilki-filki-2.json) |
+| Pilko | 149701 | [149701-pilko.json](./149701-pilko.json) |
 | Pill Box | 277535 | [277535-pill-box.json](./277535-pill-box.json) |
 | Pill Cosbi | 74359 | [74359-pill-cosbi.json](./74359-pill-cosbi.json) |
 | Pill Fight | 345017 | [345017-pill-fight.json](./345017-pill-fight.json) |
@@ -7302,6 +7304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pre-Odyssey: Love at First Quack | 344552 | [344552-pre-odyssey-love-at-first-quack.json](./344552-pre-odyssey-love-at-first-quack.json) |
 | Pre-Odyssey: Odysseus, Penelope and Her Ducks | 204550 | [204550-pre-odyssey-odysseus-penelope-and-her-ducks.json](./204550-pre-odyssey-odysseus-penelope-and-her-ducks.json) |
 | Pre-RON MI5 Bob | 71007 | [71007-pre-ron-mi5-bob.json](./71007-pre-ron-mi5-bob.json) |
+| Pre-Shave | 149732 | [149732-pre-shave.json](./149732-pre-shave.json) |
 | Prebillian | 40398 | [40398-prebillian.json](./40398-prebillian.json) |
 | Precept | 328001 | [328001-precept.json](./328001-precept.json) |
 | Prechara! Daifugo | 283757 | [283757-prechara-daifugo.json](./283757-prechara-daifugo.json) |
