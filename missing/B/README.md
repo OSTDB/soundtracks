@@ -1287,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie for Girls Volleyball | 228545 | [228545-barbie-for-girls-volleyball.json](./228545-barbie-for-girls-volleyball.json) |
 | Barbie Girl | 260128 | [260128-barbie-girl.json](./260128-barbie-girl.json) |
 | Barbie Horse Adventures: Blue Ribbon Race | 3310 | [3310-barbie-horse-adventures-blue-ribbon-race.json](./3310-barbie-horse-adventures-blue-ribbon-race.json) |
+| Barbie Horse Adventures: Mystery Ride | 125306 | [125306-barbie-horse-adventures-mystery-ride.json](./125306-barbie-horse-adventures-mystery-ride.json) |
 | Barbie Horse Adventures: Wild Horse Rescue | 3311 | [3311-barbie-horse-adventures-wild-horse-rescue.json](./3311-barbie-horse-adventures-wild-horse-rescue.json) |
 | Barbie in the 12 Dancing Princesses | 200591 | [200591-barbie-in-the-12-dancing-princesses.json](./200591-barbie-in-the-12-dancing-princesses.json) |
 | Barbie in the 12 Dancing Princesses | 293194 | [293194-barbie-in-the-12-dancing-princesses.json](./293194-barbie-in-the-12-dancing-princesses.json) |
@@ -3055,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Becca | 265104 | [265104-becca.json](./265104-becca.json) |
 | Beckett | 89504 | [89504-beckett.json](./89504-beckett.json) |
 | Beckoned | 159847 | [159847-beckoned.json](./159847-beckoned.json) |
+| Becky Brogan: The Mystery of Meane Manor | 125303 | [125303-becky-brogan-the-mystery-of-meane-manor.json](./125303-becky-brogan-the-mystery-of-meane-manor.json) |
 | Becloudead | 169806 | [169806-becloudead.json](./169806-becloudead.json) |
 | Become a Gladiator VR | 153530 | [153530-become-a-gladiator-vr.json](./153530-become-a-gladiator-vr.json) |
 | Become a Great Artist in Just 10 Seconds | 139817 | [139817-become-a-great-artist-in-just-10-seconds.json](./139817-become-a-great-artist-in-just-10-seconds.json) |
@@ -5462,6 +5464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlindSide | 64386 | [64386-blindside.json](./64386-blindside.json) |
 | BlindSight Event Zero | 186760 | [186760-blindsight-event-zero.json](./186760-blindsight-event-zero.json) |
 | Blindsight: War of the Wardens | 248889 | [248889-blindsight-war-of-the-wardens.json](./248889-blindsight-war-of-the-wardens.json) |
+| Blindy | 125187 | [125187-blindy.json](./125187-blindy.json) |
 | Blinest | 228731 | [228731-blinest.json](./228731-blinest.json) |
 | Bling Bling Bankruptcy | 363943 | [363943-bling-bling-bankruptcy.json](./363943-bling-bling-bankruptcy.json) |
 | Blink | 27800 | [27800-blink.json](./27800-blink.json) |
