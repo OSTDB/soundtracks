@@ -1521,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready Set Dress! | 182936 | [182936-ready-set-dress.json](./182936-ready-set-dress.json) |
 | Ready Set Golf | 235351 | [235351-ready-set-golf.json](./235351-ready-set-golf.json) |
 | Ready Set Sumo! | 216758 | [216758-ready-set-sumo.json](./216758-ready-set-sumo.json) |
+| Ready Steady Bang | 133859 | [133859-ready-steady-bang.json](./133859-ready-steady-bang.json) |
 | Ready Steady Play | 61073 | [61073-ready-steady-play.json](./61073-ready-steady-play.json) |
 | Ready, Set, Party Collection | 335510 | [335510-ready-set-party-collection.json](./335510-ready-set-party-collection.json) |
 | Ready, Set, Plumb! | 306352 | [306352-ready-set-plumb.json](./306352-ready-set-plumb.json) |
@@ -1995,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Alert | 40391 | [40391-red-alert.json](./40391-red-alert.json) |
 | Red Alert 2: Apocalypse Rising | 376096 | [376096-red-alert-2-apocalypse-rising.json](./376096-red-alert-2-apocalypse-rising.json) |
 | Red Algorithm: Fernando | 172095 | [172095-red-algorithm-fernando.json](./172095-red-algorithm-fernando.json) |
+| Red and Blue | 133776 | [133776-red-and-blue.json](./133776-red-and-blue.json) |
 | Red and Blue Balls | 99395 | [99395-red-and-blue-balls.json](./99395-red-and-blue-balls.json) |
 | Red and Blue: Alien War | 56143 | [56143-red-and-blue-alien-war.json](./56143-red-and-blue-alien-war.json) |
 | Red and Blue: Cycles of Existence | 109739 | [109739-red-and-blue-cycles-of-existence.json](./109739-red-and-blue-cycles-of-existence.json) |
@@ -2706,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnants of Naezith | 29520 | [29520-remnants-of-naezith.json](./29520-remnants-of-naezith.json) |
 | Remnants of Skystone | 270283 | [270283-remnants-of-skystone.json](./270283-remnants-of-skystone.json) |
 | Remnants of the Arcane | 32168 | [32168-remnants-of-the-arcane.json](./32168-remnants-of-the-arcane.json) |
+| Remnants of the Precursors | 133756 | [133756-remnants-of-the-precursors.json](./133756-remnants-of-the-precursors.json) |
 | Remnants of the Rift | 154369 | [154369-remnants-of-the-rift.json](./154369-remnants-of-the-rift.json) |
 | Remnants of Yore | 342654 | [342654-remnants-of-yore.json](./342654-remnants-of-yore.json) |
 | Remont Soyuz | 181172 | [181172-remont-soyuz.json](./181172-remont-soyuz.json) |
@@ -6991,6 +6994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty's Retirement: Supporter Pack | 305770 | [305770-rustys-retirement-supporter-pack.json](./305770-rustys-retirement-supporter-pack.json) |
 | Rustyard | 322354 | [322354-rustyard.json](./322354-rustyard.json) |
 | Rutabaga Desert Storm | 275704 | [275704-rutabaga-desert-storm.json](./275704-rutabaga-desert-storm.json) |
+| Ruth's Journey | 133861 | [133861-ruths-journey.json](./133861-ruths-journey.json) |
 | Ruthless Carnage Hotline | 313225 | [313225-ruthless-carnage-hotline.json](./313225-ruthless-carnage-hotline.json) |
 | Ruthless Safari | 52777 | [52777-ruthless-safari.json](./52777-ruthless-safari.json) |
 | Ruthnar Online | 293325 | [293325-ruthnar-online.json](./293325-ruthnar-online.json) |
