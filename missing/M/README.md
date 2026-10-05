@@ -2339,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marrow | 30484 | [30484-marrow.json](./30484-marrow.json) |
 | Marrow Marrow | 369775 | [369775-marrow-marrow.json](./369775-marrow-marrow.json) |
 | Marry a Deep One | 319748 | [319748-marry-a-deep-one.json](./319748-marry-a-deep-one.json) |
+| Marry Me, Misato! | 166667 | [166667-marry-me-misato.json](./166667-marry-me-misato.json) |
 | Mars | 91393 | [91393-mars.json](./91393-mars.json) |
 | Mars 2030 | 51519 | [51519-mars-2030.json](./51519-mars-2030.json) |
 | Mars 2055 | 208437 | [208437-mars-2055.json](./208437-mars-2055.json) |
@@ -6159,6 +6160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milky Bear Rescue Rocket | 221971 | [221971-milky-bear-rescue-rocket.json](./221971-milky-bear-rescue-rocket.json) |
 | Milky Bear: Lunch Frenzy | 250296 | [250296-milky-bear-lunch-frenzy.json](./250296-milky-bear-lunch-frenzy.json) |
 | Milky Quest II | 232654 | [232654-milky-quest-ii.json](./232654-milky-quest-ii.json) |
+| Milky Season | 166582 | [166582-milky-season.json](./166582-milky-season.json) |
 | Milky Shaky Lab | 282648 | [282648-milky-shaky-lab.json](./282648-milky-shaky-lab.json) |
 | Milky Way Idle | 336018 | [336018-milky-way-idle.json](./336018-milky-way-idle.json) |
 | Milky Way Jigsaw Puzzles | 265319 | [265319-milky-way-jigsaw-puzzles.json](./265319-milky-way-jigsaw-puzzles.json) |
@@ -6955,6 +6957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mint Muse Sound Flare | 168126 | [168126-mint-muse-sound-flare.json](./168126-mint-muse-sound-flare.json) |
 | Mint Works | 159818 | [159818-mint-works.json](./159818-mint-works.json) |
 | Mint's Hints 3 | 328008 | [328008-mints-hints-3.json](./328008-mints-hints-3.json) |
+| Minton Keibu no Sousa File Doukeshi Satsujin Jiken | 166661 | [166661-minton-keibu-no-sousa-file-doukeshi-satsujin-jiken.json](./166661-minton-keibu-no-sousa-file-doukeshi-satsujin-jiken.json) |
 | Mintroid | 188619 | [188619-mintroid.json](./188619-mintroid.json) |
 | Minty Fresh Adventure | 342826 | [342826-minty-fresh-adventure.json](./342826-minty-fresh-adventure.json) |
 | Minty Monkey | 307098 | [307098-minty-monkey.json](./307098-minty-monkey.json) |
@@ -7126,6 +7129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miskatonic | 389973 | [389973-miskatonic.json](./389973-miskatonic.json) |
 | Miskatonic Diaries | 201631 | [201631-miskatonic-diaries.json](./201631-miskatonic-diaries.json) |
 | Miskatonic University | 258007 | [258007-miskatonic-university.json](./258007-miskatonic-university.json) |
+| Miso Nikki | 166586 | [166586-miso-nikki.json](./166586-miso-nikki.json) |
 | Misplaced | 172050 | [172050-misplaced.json](./172050-misplaced.json) |
 | Misplaced | 300034 | [300034-misplaced.json](./300034-misplaced.json) |
 | Misplaced | 413185 | [413185-misplaced.json](./413185-misplaced.json) |
@@ -7997,6 +8001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
 | Moneyball! | 125937 | [125937-moneyball.json](./125937-moneyball.json) |
+| Mong Jung Mong | 166568 | [166568-mong-jung-mong.json](./166568-mong-jung-mong.json) |
 | Mongol | 227967 | [227967-mongol.json](./227967-mongol.json) |
 | Mongol 2 | 370339 | [370339-mongol-2.json](./370339-mongol-2.json) |
 | Mongrel | 57197 | [57197-mongrel.json](./57197-mongrel.json) |
@@ -8739,6 +8744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonleap 2600 | 413685 | [413685-moonleap-2600.json](./413685-moonleap-2600.json) |
 | Moonless | 244863 | [244863-moonless.json](./244863-moonless.json) |
 | Moonless Moon | 302959 | [302959-moonless-moon.json](./302959-moonless-moon.json) |
+| moonLessL | 166581 | [166581-moonlessl.json](./166581-moonlessl.json) |
 | Moonlight | 229651 | [229651-moonlight.json](./229651-moonlight.json) |
 | Moonlight | 261534 | [261534-moonlight.json](./261534-moonlight.json) |
 | Moonlight Assault | 275314 | [275314-moonlight-assault.json](./275314-moonlight-assault.json) |
