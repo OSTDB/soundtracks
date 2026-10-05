@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Claus and Christmas: Happy Adventures | 328497 | [328497-santa-claus-and-christmas-happy-adventures.json](./328497-santa-claus-and-christmas-happy-adventures.json) |
 | Santa Claus Goblins Attack | 232990 | [232990-santa-claus-goblins-attack.json](./232990-santa-claus-goblins-attack.json) |
 | Santa Claus in Trouble | 71408 | [71408-santa-claus-in-trouble.json](./71408-santa-claus-in-trouble.json) |
+| Santa Claus in Trouble HD | 171346 | [171346-santa-claus-in-trouble-hd.json](./171346-santa-claus-in-trouble-hd.json) |
 | Santa Claus is Comin' to Town | 50622 | [50622-santa-claus-is-comin-to-town.json](./50622-santa-claus-is-comin-to-town.json) |
 | Santa Claus Jigsaw Puzzles | 228108 | [228108-santa-claus-jigsaw-puzzles.json](./228108-santa-claus-jigsaw-puzzles.json) |
 | Santa Claus Jr. Advance | 49338 | [49338-santa-claus-jr-advance.json](./49338-santa-claus-jr-advance.json) |
@@ -3652,6 +3653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Squadron | 19763 | [19763-shadow-squadron.json](./19763-shadow-squadron.json) |
 | Shadow Stalker | 251721 | [251721-shadow-stalker.json](./251721-shadow-stalker.json) |
 | Shadow Stalker | 264319 | [264319-shadow-stalker.json](./264319-shadow-stalker.json) |
+| Shadow Step | 171432 | [171432-shadow-step.json](./171432-shadow-step.json) |
 | Shadow Storm | 331312 | [331312-shadow-storm.json](./331312-shadow-storm.json) |
 | Shadow Strikers | 270194 | [270194-shadow-strikers.json](./270194-shadow-strikers.json) |
 | Shadow Survival | 219602 | [219602-shadow-survival.json](./219602-shadow-survival.json) |
@@ -3733,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrain | 126588 | [126588-shadowrain.json](./126588-shadowrain.json) |
 | Shadowrite | 403712 | [403712-shadowrite.json](./403712-shadowrite.json) |
 | Shadowrun | 7643 | [7643-shadowrun.json](./7643-shadowrun.json) |
+| Shadowrun Chronicles: Boston Lockdown - Infected! | 171351 | [171351-shadowrun-chronicles-boston-lockdown-infected.json](./171351-shadowrun-chronicles-boston-lockdown-infected.json) |
 | Shadowrun Chronicles: Boston Lockdown - Missions | 193178 | [193178-shadowrun-chronicles-boston-lockdown-missions.json](./193178-shadowrun-chronicles-boston-lockdown-missions.json) |
 | Shadowrun Chronicles: Infected - Missions | 171365 | [171365-shadowrun-chronicles-infected-missions.json](./171365-shadowrun-chronicles-infected-missions.json) |
 | Shadowrun Collection | 136925 | [136925-shadowrun-collection.json](./136925-shadowrun-collection.json) |
@@ -3873,6 +3876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shamus | 18659 | [18659-shamus.json](./18659-shamus.json) |
 | Shamus: Case II | 23889 | [23889-shamus-case-ii.json](./23889-shamus-case-ii.json) |
 | Shan Gui II: Sweet Osmanthus II | 110467 | [110467-shan-gui-ii-sweet-osmanthus-ii.json](./110467-shan-gui-ii-sweet-osmanthus-ii.json) |
+| Shan Gui II: Sweet Osmanthus II - Episode 2 | 171349 | [171349-shan-gui-ii-sweet-osmanthus-ii-episode-2.json](./171349-shan-gui-ii-sweet-osmanthus-ii-episode-2.json) |
 | Shān Hǎi Cháng Gē | 284607 | [284607-shan-hai-chang-ge.json](./284607-shan-hai-chang-ge.json) |
 | Shan Hai: Mythic Origins | 374845 | [374845-shan-hai-mythic-origins.json](./374845-shan-hai-mythic-origins.json) |
 | Shan's Salty Seamen | 176291 | [176291-shans-salty-seamen.json](./176291-shans-salty-seamen.json) |
@@ -10685,6 +10689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceCorps XXX | 215180 | [215180-spacecorps-xxx.json](./215180-spacecorps-xxx.json) |
 | Spacecraft Tactics | 274038 | [274038-spacecraft-tactics.json](./274038-spacecraft-tactics.json) |
 | Spacecraft War | 109879 | [109879-spacecraft-war.json](./109879-spacecraft-war.json) |
+| SpaceCrash | 171438 | [171438-spacecrash.json](./171438-spacecrash.json) |
 | SpaceCrooks: The End of Time | 216883 | [216883-spacecrooks-the-end-of-time.json](./216883-spacecrooks-the-end-of-time.json) |
 | Spaced | 93176 | [93176-spaced.json](./93176-spaced.json) |
 | Spaced Out | 296360 | [296360-spaced-out.json](./296360-spaced-out.json) |
@@ -16508,6 +16513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Idle Cats - Tap Farm | 106965 | [106965-super-idle-cats-tap-farm.json](./106965-super-idle-cats-tap-farm.json) |
 | Super Impossible Road | 33503 | [33503-super-impossible-road.json](./33503-super-impossible-road.json) |
 | Super Impostor Bros. | 202379 | [202379-super-impostor-bros.json](./202379-super-impostor-bros.json) |
+| Super Indie Square: Fight Against Time | 171350 | [171350-super-indie-square-fight-against-time.json](./171350-super-indie-square-fight-against-time.json) |
 | Super Inefficient Golf | 90074 | [90074-super-inefficient-golf.json](./90074-super-inefficient-golf.json) |
 | Super Invaders | 330909 | [330909-super-invaders.json](./330909-super-invaders.json) |
 | Super Is Hot | 142374 | [142374-super-is-hot.json](./142374-super-is-hot.json) |
@@ -19128,6 +19134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System City | 257403 | [257403-system-city.json](./257403-system-city.json) |
 | System Clues | 373000 | [373000-system-clues.json](./373000-system-clues.json) |
 | System Control | 157184 | [157184-system-control.json](./157184-system-control.json) |
+| System Crash: Underworld | 171424 | [171424-system-crash-underworld.json](./171424-system-crash-underworld.json) |
 | System Critical II | 240735 | [240735-system-critical-ii.json](./240735-system-critical-ii.json) |
 | System Death | 319794 | [319794-system-death.json](./319794-system-death.json) |
 | System Escape | 237067 | [237067-system-escape.json](./237067-system-escape.json) |
