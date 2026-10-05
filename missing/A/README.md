@@ -8002,6 +8002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AsteroidsHD | 18174 | [18174-asteroidshd.json](./18174-asteroidshd.json) |
 | Asterook | 129654 | [129654-asterook.json](./129654-asterook.json) |
 | Asteros | 304681 | [304681-asteros.json](./304681-asteros.json) |
+| Asterrunner | 149721 | [149721-asterrunner.json](./149721-asterrunner.json) |
 | Asthenia | 381637 | [381637-asthenia.json](./381637-asthenia.json) |
 | Astlibra Gaiden: The Cave of Phantom Mist | 395862 | [395862-astlibra-gaiden-the-cave-of-phantom-mist.json](./395862-astlibra-gaiden-the-cave-of-phantom-mist.json) |
 | Astoaria | 226227 | [226227-astoaria.json](./226227-astoaria.json) |
