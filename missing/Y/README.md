@@ -723,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Boss is Calling... | 214391 | [214391-your-boss-is-calling.json](./214391-your-boss-is-calling.json) |
 | Your Canvas | 387638 | [387638-your-canvas.json](./387638-your-canvas.json) |
 | Your Channel | 228425 | [228425-your-channel.json](./228425-your-channel.json) |
+| Your Chronicle | 168716 | [168716-your-chronicle.json](./168716-your-chronicle.json) |
 | Your City in 3D | 158662 | [158662-your-city-in-3d.json](./158662-your-city-in-3d.json) |
 | Your Computer Might Be at Risk | 200034 | [200034-your-computer-might-be-at-risk.json](./200034-your-computer-might-be-at-risk.json) |
 | Your courier is on their way! | 192845 | [192845-your-courier-is-on-their-way.json](./192845-your-courier-is-on-their-way.json) |
