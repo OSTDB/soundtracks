@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmonian Tales | 146535 | [146535-harmonian-tales.json](./146535-harmonian-tales.json) |
 | Harmonis: The Hand-Made Kingdoms | 287073 | [287073-harmonis-the-hand-made-kingdoms.json](./287073-harmonis-the-hand-made-kingdoms.json) |
 | Harmonium: The Musical | 279616 | [279616-harmonium-the-musical.json](./279616-harmonium-the-musical.json) |
+| Harmony | 131412 | [131412-harmony.json](./131412-harmony.json) |
 | Harmony | 260660 | [260660-harmony.json](./260660-harmony.json) |
 | Harmony | 266397 | [266397-harmony.json](./266397-harmony.json) |
 | Harmony | 371452 | [371452-harmony.json](./371452-harmony.json) |
@@ -3982,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Moo! | 414286 | [414286-hide-and-moo.json](./414286-hide-and-moo.json) |
 | Hide and Secret Treasure of the Ages | 32874 | [32874-hide-and-secret-treasure-of-the-ages.json](./32874-hide-and-secret-treasure-of-the-ages.json) |
 | Hide and Secret: Pharaoh's Quest | 88264 | [88264-hide-and-secret-pharaohs-quest.json](./88264-hide-and-secret-pharaohs-quest.json) |
+| Hide and Seek | 131331 | [131331-hide-and-seek.json](./131331-hide-and-seek.json) |
 | Hide and Seek | 275354 | [275354-hide-and-seek.json](./275354-hide-and-seek.json) |
 | Hide and Seek | 340003 | [340003-hide-and-seek.json](./340003-hide-and-seek.json) |
 | Hide and Seek | 361342 | [361342-hide-and-seek.json](./361342-hide-and-seek.json) |
@@ -4568,6 +4570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HLFX: Lost in Black Mesa | 323780 | [323780-hlfx-lost-in-black-mesa.json](./323780-hlfx-lost-in-black-mesa.json) |
 | Hlina | 244996 | [244996-hlina.json](./244996-hlina.json) |
 | Hlína | 335501 | [335501-hlina.json](./335501-hlina.json) |
+| Hlípa | 131414 | [131414-hlipa.json](./131414-hlipa.json) |
 | Hmph! Hmph! Yowai | 289454 | [289454-hmph-hmph-yowai.json](./289454-hmph-hmph-yowai.json) |
 | Ho Ho Ho Sokoban | 411131 | [411131-ho-ho-ho-sokoban.json](./411131-ho-ho-ho-sokoban.json) |
 | Ho-Ho-Home Invasion | 141655 | [141655-ho-ho-home-invasion.json](./141655-ho-ho-home-invasion.json) |
@@ -6866,6 +6869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypergate | 87985 | [87985-hypergate.json](./87985-hypergate.json) |
 | HyperGlide | 211194 | [211194-hyperglide.json](./211194-hyperglide.json) |
 | Hyperhell | 235965 | [235965-hyperhell.json](./235965-hyperhell.json) |
+| Hyperide | 131423 | [131423-hyperide.json](./131423-hyperide.json) |
 | Hyperide VR | 75024 | [75024-hyperide-vr.json](./75024-hyperide-vr.json) |
 | Hyperkidmorph2mr.gunner | 336110 | [336110-hyperkidmorph2mr-gunner.json](./336110-hyperkidmorph2mr-gunner.json) |
 | Hyperlane Highway | 395812 | [395812-hyperlane-highway.json](./395812-hyperlane-highway.json) |
