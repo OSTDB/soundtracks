@@ -3526,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Nation | 252686 | [252686-fishing-nation.json](./252686-fishing-nation.json) |
 | Fishing Online | 274975 | [274975-fishing-online.json](./274975-fishing-online.json) |
 | Fishing Paradise 3D | 25744 | [25744-fishing-paradise-3d.json](./25744-fishing-paradise-3d.json) |
+| Fishing Planet: Lucky Start Bundle | 118865 | [118865-fishing-planet-lucky-start-bundle.json](./118865-fishing-planet-lucky-start-bundle.json) |
 | Fishing Planet: Sport Kayak Pack | 292673 | [292673-fishing-planet-sport-kayak-pack.json](./292673-fishing-planet-sport-kayak-pack.json) |
 | Fishing Planet: Thanksgiving Cornucopia Pack | 277352 | [277352-fishing-planet-thanksgiving-cornucopia-pack.json](./277352-fishing-planet-thanksgiving-cornucopia-pack.json) |
 | Fishing Pond Simulator | 346157 | [346157-fishing-pond-simulator.json](./346157-fishing-pond-simulator.json) |
@@ -5229,6 +5230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forg Feast Frenzy | 291458 | [291458-forg-feast-frenzy.json](./291458-forg-feast-frenzy.json) |
 | Forge | 19937 | [19937-forge.json](./19937-forge.json) |
 | Forge & Fortune | 264701 | [264701-forge-and-fortune.json](./264701-forge-and-fortune.json) |
+| Forge and Fight | 118768 | [118768-forge-and-fight.json](./118768-forge-and-fight.json) |
 | Forge Front | 287768 | [287768-forge-front.json](./287768-forge-front.json) |
 | Forge Horizon | 235805 | [235805-forge-horizon.json](./235805-forge-horizon.json) |
 | Forge of Empires | 62923 | [62923-forge-of-empires.json](./62923-forge-of-empires.json) |
@@ -5758,6 +5760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four in a Row | 146688 | [146688-four-in-a-row.json](./146688-four-in-a-row.json) |
 | Four in One | 210647 | [210647-four-in-one.json](./210647-four-in-one.json) |
 | Four Kings One War: Virtual Reality | 170899 | [170899-four-kings-one-war-virtual-reality.json](./170899-four-kings-one-war-virtual-reality.json) |
+| Four Legerior | 118878 | [118878-four-legerior.json](./118878-four-legerior.json) |
 | Four Lights | 406727 | [406727-four-lights.json](./406727-four-lights.json) |
 | Four Lights: Erie Ever route | 278131 | [278131-four-lights-erie-ever-route.json](./278131-four-lights-erie-ever-route.json) |
 | Four Lights: The 1st World - Iruka Route | 253437 | [253437-four-lights-the-1st-world-iruka-route.json](./253437-four-lights-the-1st-world-iruka-route.json) |
