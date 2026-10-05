@@ -1461,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Unlimited Cruise 1 - The Treasure Beneath the Waves | 21123 | [21123-one-piece-unlimited-cruise-1-the-treasure-beneath-the-waves.json](./21123-one-piece-unlimited-cruise-1-the-treasure-beneath-the-waves.json) |
 | One Piece: Unlimited Cruise SP2 | 79261 | [79261-one-piece-unlimited-cruise-sp2.json](./79261-one-piece-unlimited-cruise-sp2.json) |
 | One Piece: Unlimited World Red - Prestige Edition | 99804 | [99804-one-piece-unlimited-world-red-prestige-edition.json](./99804-one-piece-unlimited-world-red-prestige-edition.json) |
+| One Piece: World Seeker - Deluxe Edition | 121417 | [121417-one-piece-world-seeker-deluxe-edition.json](./121417-one-piece-world-seeker-deluxe-edition.json) |
 | One Piece: World Seeker Episode Pass | 152911 | [152911-one-piece-world-seeker-episode-pass.json](./152911-one-piece-world-seeker-episode-pass.json) |
 | One Piece: Yume no Luffy Kaizoku-dan Tanjou! | 75739 | [75739-one-piece-yume-no-luffy-kaizoku-dan-tanjou.json](./75739-one-piece-yume-no-luffy-kaizoku-dan-tanjou.json) |
 | One Ping Only | 95610 | [95610-one-ping-only.json](./95610-one-ping-only.json) |
@@ -2188,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of Battle: Kriegsmarine | 118967 | [118967-order-of-battle-kriegsmarine.json](./118967-order-of-battle-kriegsmarine.json) |
 | Order of Battle: Morning Sun | 118961 | [118961-order-of-battle-morning-sun.json](./118961-order-of-battle-morning-sun.json) |
 | Order of Battle: Panzerkrieg | 118969 | [118969-order-of-battle-panzerkrieg.json](./118969-order-of-battle-panzerkrieg.json) |
+| Order of Battle: Red Star | 121528 | [121528-order-of-battle-red-star.json](./121528-order-of-battle-red-star.json) |
 | Order of Battle: Red Steel | 154512 | [154512-order-of-battle-red-steel.json](./154512-order-of-battle-red-steel.json) |
 | Order of Battle: Rising Sun | 118964 | [118964-order-of-battle-rising-sun.json](./118964-order-of-battle-rising-sun.json) |
 | Order of Battle: Sandstorm | 118970 | [118970-order-of-battle-sandstorm.json](./118970-order-of-battle-sandstorm.json) |
