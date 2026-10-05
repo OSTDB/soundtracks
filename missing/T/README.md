@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talon's End | 300033 | [300033-talons-end.json](./300033-talons-end.json) |
 | Talos Descent | 182801 | [182801-talos-descent.json](./182801-talos-descent.json) |
 | Talos VR | 102170 | [102170-talos-vr.json](./102170-talos-vr.json) |
+| Talshard | 127821 | [127821-talshard.json](./127821-talshard.json) |
 | Talvisota: Icy Hell | 9095 | [9095-talvisota-icy-hell.json](./9095-talvisota-icy-hell.json) |
 | Talystro | 334352 | [334352-talystro.json](./334352-talystro.json) |
 | Tama & Friends: 3-choume Daibouken | 41332 | [41332-tama-and-friends-3-choume-daibouken.json](./41332-tama-and-friends-3-choume-daibouken.json) |
@@ -2898,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThanksKilling Day | 223452 | [223452-thankskilling-day.json](./223452-thankskilling-day.json) |
 | Thapster | 86224 | [86224-thapster.json](./86224-thapster.json) |
 | Thapster TV | 85831 | [85831-thapster-tv.json](./85831-thapster-tv.json) |
+| Thapster TV: 2nd Wave | 127741 | [127741-thapster-tv-2nd-wave.json](./127741-thapster-tv-2nd-wave.json) |
 | Tharaba | 280321 | [280321-tharaba.json](./280321-tharaba.json) |
 | That Bastard is Trying to Steal Our Gold! | 33301 | [33301-that-bastard-is-trying-to-steal-our-gold.json](./33301-that-bastard-is-trying-to-steal-our-gold.json) |
 | That Blooming Feeling | 182510 | [182510-that-blooming-feeling.json](./182510-that-blooming-feeling.json) |
@@ -8153,6 +8155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pioneers: Surviving Desolation | 171471 | [171471-the-pioneers-surviving-desolation.json](./171471-the-pioneers-surviving-desolation.json) |
 | The Pirate King | 152731 | [152731-the-pirate-king.json](./152731-the-pirate-king.json) |
 | The Pirate Mermaid | 178528 | [178528-the-pirate-mermaid.json](./178528-the-pirate-mermaid.json) |
+| The Pirate Queen | 127725 | [127725-the-pirate-queen.json](./127725-the-pirate-queen.json) |
 | The Pirate: Caribbean Hunt | 31726 | [31726-the-pirate-caribbean-hunt.json](./31726-the-pirate-caribbean-hunt.json) |
 | The Pirate's Fate: Prisoner of Destiny | 169331 | [169331-the-pirates-fate-prisoner-of-destiny.json](./169331-the-pirates-fate-prisoner-of-destiny.json) |
 | The Pirate's Quest | 310092 | [310092-the-pirates-quest.json](./310092-the-pirates-quest.json) |
