@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarians Nations: Battle for freedom | 175749 | [175749-barbarians-nations-battle-for-freedom.json](./175749-barbarians-nations-battle-for-freedom.json) |
 | Barbarium | 200559 | [200559-barbarium.json](./200559-barbarium.json) |
 | Barbarization | 311491 | [311491-barbarization.json](./311491-barbarization.json) |
+| Barbaros | 153487 | [153487-barbaros.json](./153487-barbaros.json) |
 | Barbarossa Remake | 255664 | [255664-barbarossa-remake.json](./255664-barbarossa-remake.json) |
 | Barbarous 2: Tavern Wars | 192944 | [192944-barbarous-2-tavern-wars.json](./192944-barbarous-2-tavern-wars.json) |
 | Barbarous: Survivor's Quest | 401104 | [401104-barbarous-survivors-quest.json](./401104-barbarous-survivors-quest.json) |
@@ -3015,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beckett | 89504 | [89504-beckett.json](./89504-beckett.json) |
 | Beckoned | 159847 | [159847-beckoned.json](./159847-beckoned.json) |
 | Becloudead | 169806 | [169806-becloudead.json](./169806-becloudead.json) |
+| Become a Gladiator VR | 153530 | [153530-become-a-gladiator-vr.json](./153530-become-a-gladiator-vr.json) |
 | Become a Great Artist in Just 10 Seconds | 139817 | [139817-become-a-great-artist-in-just-10-seconds.json](./139817-become-a-great-artist-in-just-10-seconds.json) |
 | Become a pig | 205244 | [205244-become-a-pig.json](./205244-become-a-pig.json) |
 | Become Barista! | 349520 | [349520-become-barista.json](./349520-become-barista.json) |
@@ -3169,6 +3171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beggar to Emperor | 353367 | [353367-beggar-to-emperor.json](./353367-beggar-to-emperor.json) |
 | Beggar's Life | 391612 | [391612-beggars-life.json](./391612-beggars-life.json) |
 | Beggar's Road | 406195 | [406195-beggars-road.json](./406195-beggars-road.json) |
+| Begie Ade: A lyric of Lie and Retribution | 153533 | [153533-begie-ade-a-lyric-of-lie-and-retribution.json](./153533-begie-ade-a-lyric-of-lie-and-retribution.json) |
 | Beginning Grammer | 42195 | [42195-beginning-grammer.json](./42195-beginning-grammer.json) |
 | BeGone | 109038 | [109038-begone.json](./109038-begone.json) |
 | Behemoth | 274122 | [274122-behemoth.json](./274122-behemoth.json) |
@@ -8759,6 +8762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buck Rogers: Matrix Cubed | 14499 | [14499-buck-rogers-matrix-cubed.json](./14499-buck-rogers-matrix-cubed.json) |
 | Buck Rogers: Planet of Zoom | 11142 | [11142-buck-rogers-planet-of-zoom.json](./11142-buck-rogers-planet-of-zoom.json) |
 | Buck Trucker in Rowdy Business | 352200 | [352200-buck-trucker-in-rowdy-business.json](./352200-buck-trucker-in-rowdy-business.json) |
+| Buck Up and Drive! | 153515 | [153515-buck-up-and-drive.json](./153515-buck-up-and-drive.json) |
 | Bucket Balls | 103201 | [103201-bucket-balls.json](./103201-bucket-balls.json) |
 | Bucket Brawl: Ahlman Edition | 253354 | [253354-bucket-brawl-ahlman-edition.json](./253354-bucket-brawl-ahlman-edition.json) |
 | Bucket Crusher | 208911 | [208911-bucket-crusher.json](./208911-bucket-crusher.json) |
