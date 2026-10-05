@@ -5595,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Restoration Shop Simulator | 410317 | [410317-gun-restoration-shop-simulator.json](./410317-gun-restoration-shop-simulator.json) |
 | Gun Road | 96678 | [96678-gun-road.json](./96678-gun-road.json) |
 | Gun Rocket | 34733 | [34733-gun-rocket.json](./34733-gun-rocket.json) |
+| Gun Rounds | 134481 | [134481-gun-rounds.json](./134481-gun-rounds.json) |
 | Gun Runner | 319122 | [319122-gun-runner.json](./319122-gun-runner.json) |
 | Gun Runner | 81287 | [81287-gun-runner.json](./81287-gun-runner.json) |
 | Gun Shop 3 | 301245 | [301245-gun-shop-3.json](./301245-gun-shop-3.json) |
