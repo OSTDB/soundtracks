@@ -3974,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detention: Deluxe Edition | 52885 | [52885-detention-deluxe-edition.json](./52885-detention-deluxe-edition.json) |
 | Deteriation Game | 229744 | [229744-deteriation-game.json](./229744-deteriation-game.json) |
 | Determinance | 21416 | [21416-determinance.json](./21416-determinance.json) |
+| Determinant | 169826 | [169826-determinant.json](./169826-determinant.json) |
 | Dethcube | 148487 | [148487-dethcube.json](./148487-dethcube.json) |
 | DethKarz | 51252 | [51252-dethkarz.json](./51252-dethkarz.json) |
 | Dethrone | 182977 | [182977-dethrone.json](./182977-dethrone.json) |
@@ -4892,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino-D | 199479 | [199479-dino-d.json](./199479-dino-d.json) |
 | Dino-Sorcerer | 74072 | [74072-dino-sorcerer.json](./74072-dino-sorcerer.json) |
 | Dino's Offline Adventure | 195208 | [195208-dinos-offline-adventure.json](./195208-dinos-offline-adventure.json) |
+| Dinobag's Arcade | 169749 | [169749-dinobags-arcade.json](./169749-dinobags-arcade.json) |
 | Dinoblade | 330174 | [330174-dinoblade.json](./330174-dinoblade.json) |
 | DinoBox | 417416 | [417416-dinobox.json](./417416-dinobox.json) |
 | Dinobreak | 264154 | [264154-dinobreak.json](./264154-dinobreak.json) |
