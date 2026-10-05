@@ -1281,6 +1281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Toki to Yukiyama Kaishi Densetsu Satsujin Jiken | 150118 | [150118-tantei-toki-to-yukiyama-kaishi-densetsu-satsujin-jiken.json](./150118-tantei-toki-to-yukiyama-kaishi-densetsu-satsujin-jiken.json) |
 | Tanteidan X | 356073 | [356073-tanteidan-x.json](./356073-tanteidan-x.json) |
 | Tanthious | 211785 | [211785-tanthious.json](./211785-tanthious.json) |
+| Tantibus | 124589 | [124589-tantibus.json](./124589-tantibus.json) |
 | Tantra Rumble | 120357 | [120357-tantra-rumble.json](./120357-tantra-rumble.json) |
 | Tantrix Quiz | 207838 | [207838-tantrix-quiz.json](./207838-tantrix-quiz.json) |
 | Tantrum | 274220 | [274220-tantrum.json](./274220-tantrum.json) |
@@ -1320,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Blox | 340522 | [340522-tap-blox.json](./340522-tap-blox.json) |
 | Tap Boutique | 256535 | [256535-tap-boutique.json](./256535-tap-boutique.json) |
 | Tap Building | 212469 | [212469-tap-building.json](./212469-tap-building.json) |
+| Tap Busters | 124667 | [124667-tap-busters.json](./124667-tap-busters.json) |
 | Tap Cat RPG: Simple Emoji Cat Idle Game | 297642 | [297642-tap-cat-rpg-simple-emoji-cat-idle-game.json](./297642-tap-cat-rpg-simple-emoji-cat-idle-game.json) |
 | Tap City | 259079 | [259079-tap-city.json](./259079-tap-city.json) |
 | Tap City Tycoon | 256434 | [256434-tap-city-tycoon.json](./256434-tap-city-tycoon.json) |
@@ -3232,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ancient Key | 179562 | [179562-the-ancient-key.json](./179562-the-ancient-key.json) |
 | The Ancient Land of Ys | 2411 | [2411-the-ancient-land-of-ys.json](./2411-the-ancient-land-of-ys.json) |
 | The Ancients AR | 103884 | [103884-the-ancients-ar.json](./103884-the-ancients-ar.json) |
+| The Ancients' Tome | 124567 | [124567-the-ancients-tome.json](./124567-the-ancients-tome.json) |
 | The Andesia Project | 279100 | [279100-the-andesia-project.json](./279100-the-andesia-project.json) |
 | The Andromeda Strain | 24167 | [24167-the-andromeda-strain.json](./24167-the-andromeda-strain.json) |
 | The Angel's Devil Tail: One More Question 2 | 379016 | [379016-the-angels-devil-tail-one-more-question-2.json](./379016-the-angels-devil-tail-one-more-question-2.json) |
@@ -5481,6 +5484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gateway Trilogy | 51980 | [51980-the-gateway-trilogy.json](./51980-the-gateway-trilogy.json) |
 | The Gauntlet | 294930 | [294930-the-gauntlet.json](./294930-the-gauntlet.json) |
 | The Gazebo | 358949 | [358949-the-gazebo.json](./358949-the-gazebo.json) |
+| The Gears Don't Grind | 124573 | [124573-the-gears-dont-grind.json](./124573-the-gears-dont-grind.json) |
 | The Geekwad: Games of the Galaxy | 71772 | [71772-the-geekwad-games-of-the-galaxy.json](./71772-the-geekwad-games-of-the-galaxy.json) |
 | The Gem Collector | 85435 | [85435-the-gem-collector.json](./85435-the-gem-collector.json) |
 | The Gems | 180626 | [180626-the-gems.json](./180626-the-gems.json) |
@@ -10074,6 +10078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Adventure Games Pack Vol.1 | 96527 | [96527-the-ultimate-adventure-games-pack-vol-1.json](./96527-the-ultimate-adventure-games-pack-vol-1.json) |
 | The Ultimate Arena | 77357 | [77357-the-ultimate-arena.json](./77357-the-ultimate-arena.json) |
 | The Ultimate Banana Game | 330898 | [330898-the-ultimate-banana-game.json](./330898-the-ultimate-banana-game.json) |
+| The Ultimate Celebration | 124587 | [124587-the-ultimate-celebration.json](./124587-the-ultimate-celebration.json) |
 | The Ultimate Clicker Master of the Universe | 334825 | [334825-the-ultimate-clicker-master-of-the-universe.json](./334825-the-ultimate-clicker-master-of-the-universe.json) |
 | The Ultimate Death Clock | 251720 | [251720-the-ultimate-death-clock.json](./251720-the-ultimate-death-clock.json) |
 | The Ultimate Doom: In Name Only | 259749 | [259749-the-ultimate-doom-in-name-only.json](./259749-the-ultimate-doom-in-name-only.json) |
@@ -11190,6 +11195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Finger Battle Arena | 192965 | [192965-three-finger-battle-arena.json](./192965-three-finger-battle-arena.json) |
 | Three Foreign Sisters!! | 379352 | [379352-three-foreign-sisters.json](./379352-three-foreign-sisters.json) |
 | Three Games | 178427 | [178427-three-games.json](./178427-three-games.json) |
+| Three Ghostly Roses | 124588 | [124588-three-ghostly-roses.json](./124588-three-ghostly-roses.json) |
 | Three Glyph Tiles | 256307 | [256307-three-glyph-tiles.json](./256307-three-glyph-tiles.json) |
 | Three Goblin Wobblin' | 267076 | [267076-three-goblin-wobblin.json](./267076-three-goblin-wobblin.json) |
 | Three Guys That Paint | 124674 | [124674-three-guys-that-paint.json](./124674-three-guys-that-paint.json) |
