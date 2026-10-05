@@ -1800,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encodya: Save the World Edition | 154533 | [154533-encodya-save-the-world-edition.json](./154533-encodya-save-the-world-edition.json) |
 | Encore | 403601 | [403601-encore.json](./403601-encore.json) |
 | EnCore | 94678 | [94678-encore.json](./94678-encore.json) |
+| Encore Card Games | 130706 | [130706-encore-card-games.json](./130706-encore-card-games.json) |
 | Encore Encore! | 364682 | [364682-encore-encore.json](./364682-encore-encore.json) |
 | Encore Illusions | 190437 | [190437-encore-illusions.json](./190437-encore-illusions.json) |
 | Encore! | 372557 | [372557-encore.json](./372557-encore.json) |
