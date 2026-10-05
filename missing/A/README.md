@@ -1407,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Addition and Subtraction 1 | 42191 | [42191-addition-and-subtraction-1.json](./42191-addition-and-subtraction-1.json) |
 | Addition and Subtraction 2 | 42193 | [42193-addition-and-subtraction-2.json](./42193-addition-and-subtraction-2.json) |
 | Addition and Subtraction 3 | 42192 | [42192-addition-and-subtraction-3.json](./42192-addition-and-subtraction-3.json) |
+| Addle Earth | 158119 | [158119-addle-earth.json](./158119-addle-earth.json) |
 | Addled | 207288 | [207288-addled.json](./207288-addled.json) |
 | Address1 | 265648 | [265648-address1.json](./265648-address1.json) |
 | Addy: Do You Speak English? | 269541 | [269541-addy-do-you-speak-english.json](./269541-addy-do-you-speak-english.json) |
@@ -8171,6 +8172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroNest | 19527 | [19527-astronest.json](./19527-astronest.json) |
 | AstronjumpBaby | 55279 | [55279-astronjumpbaby.json](./55279-astronjumpbaby.json) |
 | Astronoka | 94714 | [94714-astronoka.json](./94714-astronoka.json) |
+| Astronomia | 158092 | [158092-astronomia.json](./158092-astronomia.json) |
 | Astronomic Date | 238614 | [238614-astronomic-date.json](./238614-astronomic-date.json) |
 | Astronomica: The Quest for the Edge of the Universe | 71538 | [71538-astronomica-the-quest-for-the-edge-of-the-universe.json](./71538-astronomica-the-quest-for-the-edge-of-the-universe.json) |
 | Astronomicon | 321527 | [321527-astronomicon.json](./321527-astronomicon.json) |
