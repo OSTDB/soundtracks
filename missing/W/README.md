@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Dreams of Yuri | 339131 | [339131-wandering-dreams-of-yuri.json](./339131-wandering-dreams-of-yuri.json) |
 | Wandering Duelist | 215670 | [215670-wandering-duelist.json](./215670-wandering-duelist.json) |
 | Wandering Gem Jockeying | 121463 | [121463-wandering-gem-jockeying.json](./121463-wandering-gem-jockeying.json) |
+| Wandering Hamster | 124654 | [124654-wandering-hamster.json](./124654-wandering-hamster.json) |
 | Wandering in Space Online VR | 244309 | [244309-wandering-in-space-online-vr.json](./244309-wandering-in-space-online-vr.json) |
 | Wandering Maung | 381682 | [381682-wandering-maung.json](./381682-wandering-maung.json) |
 | Wandering Meatbags | 191552 | [191552-wandering-meatbags.json](./191552-wandering-meatbags.json) |
@@ -1769,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weihnachtsquiz | 98946 | [98946-weihnachtsquiz.json](./98946-weihnachtsquiz.json) |
 | Weinende Rose | 140584 | [140584-weinende-rose.json](./140584-weinende-rose.json) |
 | Weird Al's Great Adventure | 55933 | [55933-weird-als-great-adventure.json](./55933-weird-als-great-adventure.json) |
+| Weird and Unfortunate Things Are Happening | 124655 | [124655-weird-and-unfortunate-things-are-happening.json](./124655-weird-and-unfortunate-things-are-happening.json) |
 | Weird Cat | 341108 | [341108-weird-cat.json](./341108-weird-cat.json) |
 | Weird Cinema | 189936 | [189936-weird-cinema.json](./189936-weird-cinema.json) |
 | Weird Cities | 386698 | [386698-weird-cities.json](./386698-weird-cities.json) |
@@ -2275,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When We Arrive | 390795 | [390795-when-we-arrive.json](./390795-when-we-arrive.json) |
 | When We Lost | 215650 | [215650-when-we-lost.json](./215650-when-we-lost.json) |
 | When Will I Get Home? | 408982 | [408982-when-will-i-get-home.json](./408982-when-will-i-get-home.json) |
+| When Yanderes Cry | 124657 | [124657-when-yanderes-cry.json](./124657-when-yanderes-cry.json) |
 | When You See It | 312122 | [312122-when-you-see-it.json](./312122-when-you-see-it.json) |
 | When You Wish Upon a Star | 200447 | [200447-when-you-wish-upon-a-star.json](./200447-when-you-wish-upon-a-star.json) |
 | When you're gone | 37192 | [37192-when-youre-gone.json](./37192-when-youre-gone.json) |
