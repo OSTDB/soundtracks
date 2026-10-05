@@ -2704,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ningen Maru | 178677 | [178677-ningen-maru.json](./178677-ningen-maru.json) |
 | Ningen Tower Battle | 346018 | [346018-ningen-tower-battle.json](./346018-ningen-tower-battle.json) |
 | NingPo MahJong | 209392 | [209392-ningpo-mahjong.json](./209392-ningpo-mahjong.json) |
+| Ningyo Heart | 151814 | [151814-ningyo-heart.json](./151814-ningyo-heart.json) |
 | Ningyo no Rakuin | 166551 | [166551-ningyo-no-rakuin.json](./166551-ningyo-no-rakuin.json) |
 | Ningyou Genkai | 239799 | [239799-ningyou-genkai.json](./239799-ningyou-genkai.json) |
 | Ningyou no Kizuato | 255112 | [255112-ningyou-no-kizuato.json](./255112-ningyou-no-kizuato.json) |
