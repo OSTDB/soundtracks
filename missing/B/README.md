@@ -4090,6 +4090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biggest Piano | 353385 | [353385-biggest-piano.json](./353385-biggest-piano.json) |
 | Biggest Stream Hover Racing | 193320 | [193320-biggest-stream-hover-racing.json](./193320-biggest-stream-hover-racing.json) |
 | Biggles On Mars | 267594 | [267594-biggles-on-mars.json](./267594-biggles-on-mars.json) |
+| BigHardSun | 122804 | [122804-bighardsun.json](./122804-bighardsun.json) |
 | Bighead Runner | 102379 | [102379-bighead-runner.json](./102379-bighead-runner.json) |
 | Bigroom Escape | 151727 | [151727-bigroom-escape.json](./151727-bigroom-escape.json) |
 | Bigwig Flint | 132674 | [132674-bigwig-flint.json](./132674-bigwig-flint.json) |
@@ -9452,6 +9453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burn Me Twice | 132057 | [132057-burn-me-twice.json](./132057-burn-me-twice.json) |
 | Burn the Midnight Oil | 395846 | [395846-burn-the-midnight-oil.json](./395846-burn-the-midnight-oil.json) |
 | Burn the Rope HD | 107658 | [107658-burn-the-rope-hd.json](./107658-burn-the-rope-hd.json) |
+| Burn the Trash! | 122840 | [122840-burn-the-trash.json](./122840-burn-the-trash.json) |
 | Burn the Witch | 212903 | [212903-burn-the-witch.json](./212903-burn-the-witch.json) |
 | Burn The Witch: Toll of the Bell Bearer | 358957 | [358957-burn-the-witch-toll-of-the-bell-bearer.json](./358957-burn-the-witch-toll-of-the-bell-bearer.json) |
 | Burn Them | 255137 | [255137-burn-them.json](./255137-burn-them.json) |
