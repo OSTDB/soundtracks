@@ -2077,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter Sim Pro Hellfire | 101537 | [101537-helicopter-sim-pro-hellfire.json](./101537-helicopter-sim-pro-hellfire.json) |
 | Helicopter Simulator | 158621 | [158621-helicopter-simulator.json](./158621-helicopter-simulator.json) |
 | Helicopter Simulator 2017 Premium | 87538 | [87538-helicopter-simulator-2017-premium.json](./87538-helicopter-simulator-2017-premium.json) |
+| Helicopter Simulator VR 2021: Rescue Missions | 150767 | [150767-helicopter-simulator-vr-2021-rescue-missions.json](./150767-helicopter-simulator-vr-2021-rescue-missions.json) |
 | Helicopter Simulator: Rescue Sim | 288302 | [288302-helicopter-simulator-rescue-sim.json](./288302-helicopter-simulator-rescue-sim.json) |
 | Helicopter Simulator: Search and Rescue 2014 | 53186 | [53186-helicopter-simulator-search-and-rescue-2014.json](./53186-helicopter-simulator-search-and-rescue-2014.json) |
 | Helidroid 2: Helicopter R/C | 197642 | [197642-helidroid-2-helicopter-r-c.json](./197642-helidroid-2-helicopter-r-c.json) |
@@ -3709,6 +3710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Map | 187369 | [187369-hidden-map.json](./187369-hidden-map.json) |
 | Hidden Memories | 345564 | [345564-hidden-memories.json](./345564-hidden-memories.json) |
 | Hidden Memories of a Bright Summer | 100608 | [100608-hidden-memories-of-a-bright-summer.json](./100608-hidden-memories-of-a-bright-summer.json) |
+| Hidden Memory Nature | 150780 | [150780-hidden-memory-nature.json](./150780-hidden-memory-nature.json) |
 | Hidden Memory: Neko's Life | 171447 | [171447-hidden-memory-nekos-life.json](./171447-hidden-memory-nekos-life.json) |
 | Hidden Motives: The Diamond Rush - Collector's Edition | 186720 | [186720-hidden-motives-the-diamond-rush-collectors-edition.json](./186720-hidden-motives-the-diamond-rush-collectors-edition.json) |
 | Hidden Mysteries: Civil War | 34842 | [34842-hidden-mysteries-civil-war.json](./34842-hidden-mysteries-civil-war.json) |
