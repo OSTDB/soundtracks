@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Shore | 244710 | [244710-war-shore.json](./244710-war-shore.json) |
 | War Smith | 132203 | [132203-war-smith.json](./132203-war-smith.json) |
 | War Sniper | 338395 | [338395-war-sniper.json](./338395-war-sniper.json) |
+| War Stained | 152470 | [152470-war-stained.json](./152470-war-stained.json) |
 | War Survival | 371250 | [371250-war-survival.json](./371250-war-survival.json) |
 | War Tanks | 203923 | [203923-war-tanks.json](./203923-war-tanks.json) |
 | War Theatre: Blood of Winter - Beak and Talon | 172187 | [172187-war-theatre-blood-of-winter-beak-and-talon.json](./172187-war-theatre-blood-of-winter-beak-and-talon.json) |
@@ -3596,6 +3597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wits of Gods | 208062 | [208062-wits-of-gods.json](./208062-wits-of-gods.json) |
 | Wittengrad Is No More | 386254 | [386254-wittengrad-is-no-more.json](./386254-wittengrad-is-no-more.json) |
 | Wittle Defender | 358978 | [358978-wittle-defender.json](./358978-wittle-defender.json) |
+| Witty witch | 152455 | [152455-witty-witch.json](./152455-witty-witch.json) |
 | Wixoss | 56135 | [56135-wixoss.json](./56135-wixoss.json) |
 | Wiz | 157517 | [157517-wiz.json](./157517-wiz.json) |
 | Wiz | 162406 | [162406-wiz.json](./162406-wiz.json) |
