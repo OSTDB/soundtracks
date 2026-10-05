@@ -4228,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hina-chan Snowtime | 208260 | [208260-hina-chan-snowtime.json](./208260-hina-chan-snowtime.json) |
 | Hina-chan's Sticker Survival | 315088 | [315088-hina-chans-sticker-survival.json](./315088-hina-chans-sticker-survival.json) |
 | Hinamizawa Branch School Basketball Tournament | 257559 | [257559-hinamizawa-branch-school-basketball-tournament.json](./257559-hinamizawa-branch-school-basketball-tournament.json) |
+| Hinata in Hot Maze | 163888 | [163888-hinata-in-hot-maze.json](./163888-hinata-in-hot-maze.json) |
 | Hinatazaka46 to Fushigi na Toshoshitsu | 223967 | [223967-hinatazaka46-to-fushigi-na-toshoshitsu.json](./223967-hinatazaka46-to-fushigi-na-toshoshitsu.json) |
 | Hind Strike | 42215 | [42215-hind-strike.json](./42215-hind-strike.json) |
 | HIND: The Russian Combat Helicopter Simulation | 747 | [747-hind-the-russian-combat-helicopter-simulation.json](./747-hind-the-russian-combat-helicopter-simulation.json) |
@@ -5540,6 +5541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Hatch Adventure | 278640 | [278640-hot-hatch-adventure.json](./278640-hot-hatch-adventure.json) |
 | Hot Heat Reset | 224512 | [224512-hot-heat-reset.json](./224512-hot-heat-reset.json) |
 | Hot Homework Help | 269011 | [269011-hot-homework-help.json](./269011-hot-homework-help.json) |
+| Hot Honey | 163894 | [163894-hot-honey.json](./163894-hot-honey.json) |
 | Hot Job 94' | 265228 | [265228-hot-job-94.json](./265228-hot-job-94.json) |
 | Hot Lap League | 197776 | [197776-hot-lap-league.json](./197776-hot-lap-league.json) |
 | Hot Lap Racing | 265779 | [265779-hot-lap-racing.json](./265779-hot-lap-racing.json) |
