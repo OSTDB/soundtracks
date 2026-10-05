@@ -3536,6 +3536,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noneday | 387549 | [387549-noneday.json](./387549-noneday.json) |
 | Nonentity Galaxy | 311490 | [311490-nonentity-galaxy.json](./311490-nonentity-galaxy.json) |
 | Nonessential | 179074 | [179074-nonessential.json](./179074-nonessential.json) |
+| Nonet Concerto | 137984 | [137984-nonet-concerto.json](./137984-nonet-concerto.json) |
+| Nonet Concerto Distortion | 137992 | [137992-nonet-concerto-distortion.json](./137992-nonet-concerto-distortion.json) |
 | Nonet Sympathia | 124761 | [124761-nonet-sympathia.json](./124761-nonet-sympathia.json) |
 | Nonetheless | 294362 | [294362-nonetheless.json](./294362-nonetheless.json) |
 | Nonlinear Door | 273450 | [273450-nonlinear-door.json](./273450-nonlinear-door.json) |
@@ -3884,6 +3886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Island | 144768 | [144768-nova-island.json](./144768-nova-island.json) |
 | Nova Jumper | 414388 | [414388-nova-jumper.json](./414388-nova-jumper.json) |
 | Nova Odessa: The Demon Trainer | 202672 | [202672-nova-odessa-the-demon-trainer.json](./202672-nova-odessa-the-demon-trainer.json) |
+| Nova Parkour | 137945 | [137945-nova-parkour.json](./137945-nova-parkour.json) |
 | Nova Roma | 252867 | [252867-nova-roma.json](./252867-nova-roma.json) |
 | Nova Slash: Unparalleled Power | 195608 | [195608-nova-slash-unparalleled-power.json](./195608-nova-slash-unparalleled-power.json) |
 | Nova Squadron | 215624 | [215624-nova-squadron.json](./215624-nova-squadron.json) |
