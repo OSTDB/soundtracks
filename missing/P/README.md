@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Shape Girl | 87131 | [87131-paint-shape-girl.json](./87131-paint-shape-girl.json) |
 | Paint the Snow: Idle | 365230 | [365230-paint-the-snow-idle.json](./365230-paint-the-snow-idle.json) |
 | Paint to Pixel | 192959 | [192959-paint-to-pixel.json](./192959-paint-to-pixel.json) |
+| Paint Warfare | 131324 | [131324-paint-warfare.json](./131324-paint-warfare.json) |
 | Paint-a'-Way | 271825 | [271825-paint-a-way.json](./271825-paint-a-way.json) |
 | Paint-guin | 310060 | [310060-paint-guin.json](./310060-paint-guin.json) |
 | Paintball 3: Candy Match Factory | 270960 | [270960-paintball-3-candy-match-factory.json](./270960-paintball-3-candy-match-factory.json) |
@@ -477,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palace of Nemrac | 261283 | [261283-palace-of-nemrac.json](./261283-palace-of-nemrac.json) |
 | Palace of Poetry | 386862 | [386862-palace-of-poetry.json](./386862-palace-of-poetry.json) |
 | Palace of Woe | 134683 | [134683-palace-of-woe.json](./134683-palace-of-woe.json) |
+| Paladin | 131415 | [131415-paladin.json](./131415-paladin.json) |
 | Paladin | 71600 | [71600-paladin.json](./71600-paladin.json) |
 | Paladin Dream | 154995 | [154995-paladin-dream.json](./154995-paladin-dream.json) |
 | Paladin Duty: Knights and Blades | 89393 | [89393-paladin-duty-knights-and-blades.json](./89393-paladin-duty-knights-and-blades.json) |
@@ -5857,6 +5859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Broken Circuit | 239197 | [239197-pokemon-broken-circuit.json](./239197-pokemon-broken-circuit.json) |
 | Pokémon Bronze | 129585 | [129585-pokemon-bronze.json](./129585-pokemon-bronze.json) |
 | Pokémon Brown | 129586 | [129586-pokemon-brown.json](./129586-pokemon-brown.json) |
+| Pokémon Card Game: Asobikata DS | 131316 | [131316-pokemon-card-game-asobikata-ds.json](./131316-pokemon-card-game-asobikata-ds.json) |
 | Pokémon Castaway | 260097 | [260097-pokemon-castaway.json](./260097-pokemon-castaway.json) |
 | Pokémon CAWPS | 129809 | [129809-pokemon-cawps.json](./129809-pokemon-cawps.json) |
 | Pokémon Champions | 333568 | [333568-pokemon-champions.json](./333568-pokemon-champions.json) |
@@ -9465,6 +9468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puszka Pandory | 93586 | [93586-puszka-pandory.json](./93586-puszka-pandory.json) |
 | Put Anna | 105173 | [105173-put-anna.json](./105173-put-anna.json) |
 | Put In - Run Out | 119701 | [119701-put-in-run-out.json](./119701-put-in-run-out.json) |
+| Put In Bad | 131330 | [131330-put-in-bad.json](./131330-put-in-bad.json) |
 | Put Out the Fire | 366882 | [366882-put-out-the-fire.json](./366882-put-out-the-fire.json) |
 | Put the Fries in the Bag | 335692 | [335692-put-the-fries-in-the-bag.json](./335692-put-the-fries-in-the-bag.json) |
 | Put Up Your Dukes! | 262562 | [262562-put-up-your-dukes.json](./262562-put-up-your-dukes.json) |
