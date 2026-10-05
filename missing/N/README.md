@@ -4013,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nu, pogodi! | 245427 | [245427-nu-pogodi.json](./245427-nu-pogodi.json) |
 | Nu: Carnival | 194286 | [194286-nu-carnival.json](./194286-nu-carnival.json) |
 | Nuage | 93520 | [93520-nuage.json](./93520-nuage.json) |
+| Nubarron: The adventure of an unlucky gnome | 126978 | [126978-nubarron-the-adventure-of-an-unlucky-gnome.json](./126978-nubarron-the-adventure-of-an-unlucky-gnome.json) |
 | Nubby's Number Factory | 324225 | [324225-nubbys-number-factory.json](./324225-nubbys-number-factory.json) |
 | NubiaPhobia | 345019 | [345019-nubiaphobia.json](./345019-nubiaphobia.json) |
 | Nubla | 26813 | [26813-nubla.json](./26813-nubla.json) |
@@ -4080,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nulandia | 304718 | [304718-nulandia.json](./304718-nulandia.json) |
 | Null & Peta -Invasion of the Queen Bug- | 127372 | [127372-null-and-peta-invasion-of-the-queen-bug.json](./127372-null-and-peta-invasion-of-the-queen-bug.json) |
 | Null Breach | 239151 | [239151-null-breach.json](./239151-null-breach.json) |
+| Null Drifter | 126989 | [126989-null-drifter.json](./126989-null-drifter.json) |
 | Null Event | 215788 | [215788-null-event.json](./215788-null-event.json) |
 | Null G | 226128 | [226128-null-g.json](./226128-null-g.json) |
 | Null Horizon | 411076 | [411076-null-horizon.json](./411076-null-horizon.json) |
