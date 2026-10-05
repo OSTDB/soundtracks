@@ -4088,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Mess | 91982 | [91982-word-mess.json](./91982-word-mess.json) |
 | Word Munchers | 82151 | [82151-word-munchers.json](./82151-word-munchers.json) |
 | Word of Kitchen | 190702 | [190702-word-of-kitchen.json](./190702-word-of-kitchen.json) |
+| Word of Mouth Stories | 152991 | [152991-word-of-mouth-stories.json](./152991-word-of-mouth-stories.json) |
 | Word of the Law: Death Mask - Collector's Edition | 186850 | [186850-word-of-the-law-death-mask-collectors-edition.json](./186850-word-of-the-law-death-mask-collectors-edition.json) |
 | Word On The Hook | 304022 | [304022-word-on-the-hook.json](./304022-word-on-the-hook.json) |
 | Word Party | 85494 | [85494-word-party.json](./85494-word-party.json) |
@@ -4563,6 +4564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Pole Gaiden Rise! Mark of the Deck 2: Sanguine & Melancholia | 278461 | [278461-world-pole-gaiden-rise-mark-of-the-deck-2-sanguine-and-melancholia.json](./278461-world-pole-gaiden-rise-mark-of-the-deck-2-sanguine-and-melancholia.json) |
 | World Process | 156600 | [156600-world-process.json](./156600-world-process.json) |
 | World Quest | 265764 | [265764-world-quest.json](./265764-world-quest.json) |
+| World Quiz | 153018 | [153018-world-quiz.json](./153018-world-quiz.json) |
 | World Racing '95 | 147430 | [147430-world-racing-95.json](./147430-world-racing-95.json) |
 | World Racing 2: Champion Edition | 231399 | [231399-world-racing-2-champion-edition.json](./231399-world-racing-2-champion-edition.json) |
 | World Rally | 46834 | [46834-world-rally.json](./46834-world-rally.json) |
