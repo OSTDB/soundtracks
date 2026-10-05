@@ -3528,6 +3528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Withering Kingdom: Flurry of Arrows | 57721 | [57721-withering-kingdom-flurry-of-arrows.json](./57721-withering-kingdom-flurry-of-arrows.json) |
 | Withering Realms | 329964 | [329964-withering-realms.json](./329964-withering-realms.json) |
 | Withering Rush | 225598 | [225598-withering-rush.json](./225598-withering-rush.json) |
+| Withers | 166570 | [166570-withers.json](./166570-withers.json) |
 | Witherspring Wilds | 391858 | [391858-witherspring-wilds.json](./391858-witherspring-wilds.json) |
 | Within | 377145 | [377145-within.json](./377145-within.json) |
 | Within | 391217 | [391217-within.json](./391217-within.json) |
@@ -3558,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witness the Dark #1: Bloody Burger | 404336 | [404336-witness-the-dark-1-bloody-burger.json](./404336-witness-the-dark-1-bloody-burger.json) |
 | Witness: A Bodyguard Romance | 313846 | [313846-witness-a-bodyguard-romance.json](./313846-witness-a-bodyguard-romance.json) |
 | Witold the Game 2 | 133806 | [133806-witold-the-game-2.json](./133806-witold-the-game-2.json) |
+| Witoru | 166587 | [166587-witoru.json](./166587-witoru.json) |
 | Wits Battle Simulator | 290473 | [290473-wits-battle-simulator.json](./290473-wits-battle-simulator.json) |
 | Wits of Gods | 208062 | [208062-wits-of-gods.json](./208062-wits-of-gods.json) |
 | Wittengrad Is No More | 386254 | [386254-wittengrad-is-no-more.json](./386254-wittengrad-is-no-more.json) |
