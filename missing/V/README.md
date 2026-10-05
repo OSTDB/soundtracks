@@ -790,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venus Voyager 2 | 292882 | [292882-venus-voyager-2.json](./292882-venus-voyager-2.json) |
 | VenusBlood Ragnarok International | 348435 | [348435-venusblood-ragnarok-international.json](./348435-venusblood-ragnarok-international.json) |
 | Venusian Vengeance | 35704 | [35704-venusian-vengeance.json](./35704-venusian-vengeance.json) |
+| Vera Blanc: Full Moon | 140912 | [140912-vera-blanc-full-moon.json](./140912-vera-blanc-full-moon.json) |
 | Vera Blanc: Ghost in the Castle | 142852 | [142852-vera-blanc-ghost-in-the-castle.json](./142852-vera-blanc-ghost-in-the-castle.json) |
 | Vera Blanc: Supernatural Mysteries | 306516 | [306516-vera-blanc-supernatural-mysteries.json](./306516-vera-blanc-supernatural-mysteries.json) |
 | Vera: The Last Hope | 215673 | [215673-vera-the-last-hope.json](./215673-vera-the-last-hope.json) |
