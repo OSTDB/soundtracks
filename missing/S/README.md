@@ -1264,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savant: Ascent Remix | 261364 | [261364-savant-ascent-remix.json](./261364-savant-ascent-remix.json) |
 | Save 2020 | 156043 | [156043-save-2020.json](./156043-save-2020.json) |
 | Save 2B Young Man | 367009 | [367009-save-2b-young-man.json](./367009-save-2b-young-man.json) |
+| Save Aisha | 169842 | [169842-save-aisha.json](./169842-save-aisha.json) |
 | Save and Conquer | 214442 | [214442-save-and-conquer.json](./214442-save-and-conquer.json) |
 | Save and Survive | 291688 | [291688-save-and-survive.json](./291688-save-and-survive.json) |
 | Save Billy | 186683 | [186683-save-billy.json](./186683-save-billy.json) |
@@ -8271,6 +8272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soar | 236803 | [236803-soar.json](./236803-soar.json) |
 | Soar | 306951 | [306951-soar.json](./306951-soar.json) |
 | Soar Up The Charts | 310068 | [310068-soar-up-the-charts.json](./310068-soar-up-the-charts.json) |
+| Soarocity | 169838 | [169838-soarocity.json](./169838-soarocity.json) |
 | Sobreviva Ziggy! | 329012 | [329012-sobreviva-ziggy.json](./329012-sobreviva-ziggy.json) |
 | Soccer | 172594 | [172594-soccer.json](./172594-soccer.json) |
 | Soccer | 18441 | [18441-soccer.json](./18441-soccer.json) |
@@ -10140,6 +10142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Captain McCallery Episode 3: The Weaponmaster's Challenge | 142381 | [142381-space-captain-mccallery-episode-3-the-weaponmasters-challenge.json](./142381-space-captain-mccallery-episode-3-the-weaponmasters-challenge.json) |
 | Space Captain McCallery Episode 4: The Turquoise Temple | 245977 | [245977-space-captain-mccallery-episode-4-the-turquoise-temple.json](./245977-space-captain-mccallery-episode-4-the-turquoise-temple.json) |
 | Space Captain vs Mega Robots | 28119 | [28119-space-captain-vs-mega-robots.json](./28119-space-captain-vs-mega-robots.json) |
+| Space Castle | 169836 | [169836-space-castle.json](./169836-space-castle.json) |
 | Space Casual | 220625 | [220625-space-casual.json](./220625-space-casual.json) |
 | Space Cat Solitaire | 368471 | [368471-space-cat-solitaire.json](./368471-space-cat-solitaire.json) |
 | Space Cats Saga: Chapter I | 196023 | [196023-space-cats-saga-chapter-i.json](./196023-space-cats-saga-chapter-i.json) |
@@ -14976,6 +14979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strength of the Sword 3 | 52864 | [52864-strength-of-the-sword-3.json](./52864-strength-of-the-sword-3.json) |
 | Stress Attack | 337771 | [337771-stress-attack.json](./337771-stress-attack.json) |
 | Stress Ball | 285448 | [285448-stress-ball.json](./285448-stress-ball.json) |
+| Stress Random | 169752 | [169752-stress-random.json](./169752-stress-random.json) |
 | Stress Test | 200168 | [200168-stress-test.json](./200168-stress-test.json) |
 | Stress, Out! | 258716 | [258716-stress-out.json](./258716-stress-out.json) |
 | StressRoom | 301256 | [301256-stressroom.json](./301256-stressroom.json) |
