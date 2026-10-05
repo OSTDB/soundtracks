@@ -1714,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Attack on Titan - Armored Pack | 254687 | [254687-dead-by-daylight-attack-on-titan-armored-pack.json](./254687-dead-by-daylight-attack-on-titan-armored-pack.json) |
 | Dead by Daylight: Attack on Titan - Warhammer Pack | 254686 | [254686-dead-by-daylight-attack-on-titan-warhammer-pack.json](./254686-dead-by-daylight-attack-on-titan-warhammer-pack.json) |
 | Dead by Daylight: Castlevania Chapter | 300809 | [300809-dead-by-daylight-castlevania-chapter.json](./300809-dead-by-daylight-castlevania-chapter.json) |
+| Dead by Daylight: Chains of Hate Chapter | 154343 | [154343-dead-by-daylight-chains-of-hate-chapter.json](./154343-dead-by-daylight-chains-of-hate-chapter.json) |
 | Dead by Daylight: Chucky Chapter | 278424 | [278424-dead-by-daylight-chucky-chapter.json](./278424-dead-by-daylight-chucky-chapter.json) |
 | Dead by Daylight: Descend Beyond Chapter | 154345 | [154345-dead-by-daylight-descend-beyond-chapter.json](./154345-dead-by-daylight-descend-beyond-chapter.json) |
 | Dead by Daylight: Dungeons & Dragons | 300798 | [300798-dead-by-daylight-dungeons-and-dragons.json](./300798-dead-by-daylight-dungeons-and-dragons.json) |
@@ -9595,6 +9596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Settlers | 288782 | [288782-dungeon-settlers.json](./288782-dungeon-settlers.json) |
 | Dungeon Shifters | 364507 | [364507-dungeon-shifters.json](./364507-dungeon-shifters.json) |
 | Dungeon Shooter: Dark Temple | 234580 | [234580-dungeon-shooter-dark-temple.json](./234580-dungeon-shooter-dark-temple.json) |
+| Dungeon Siege Collection | 154612 | [154612-dungeon-siege-collection.json](./154612-dungeon-siege-collection.json) |
 | Dungeon Siege II | 9269 | [9269-dungeon-siege-ii.json](./9269-dungeon-siege-ii.json) |
 | Dungeon Siege III: Limited Edition | 44551 | [44551-dungeon-siege-iii-limited-edition.json](./44551-dungeon-siege-iii-limited-edition.json) |
 | Dungeon Siege III: Treasures of the Sun | 10254 | [10254-dungeon-siege-iii-treasures-of-the-sun.json](./10254-dungeon-siege-iii-treasures-of-the-sun.json) |
