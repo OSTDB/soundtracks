@@ -1252,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faren Touga | 172696 | [172696-faren-touga.json](./172696-faren-touga.json) |
 | Fareo: Shadowlands | 130916 | [130916-fareo-shadowlands.json](./130916-fareo-shadowlands.json) |
 | Farethere City | 75151 | [75151-farethere-city.json](./75151-farethere-city.json) |
+| Farewell | 167123 | [167123-farewell.json](./167123-farewell.json) |
 | Farewell | 252987 | [252987-farewell.json](./252987-farewell.json) |
 | Farewell Avalon | 250901 | [250901-farewell-avalon.json](./250901-farewell-avalon.json) |
 | Farewell Jack | 390251 | [390251-farewell-jack.json](./390251-farewell-jack.json) |
@@ -2697,7 +2698,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
 | Final Fantasy XIV: Heavensward - Collector's Edition | 51532 | [51532-final-fantasy-xiv-heavensward-collectors-edition.json](./51532-final-fantasy-xiv-heavensward-collectors-edition.json) |
 | Final Fantasy XIV: Into the Mist | 376015 | [376015-final-fantasy-xiv-into-the-mist.json](./376015-final-fantasy-xiv-into-the-mist.json) |
+| Final Fantasy XIV: Shadowbringers - Collector's Edition | 167106 | [167106-final-fantasy-xiv-shadowbringers-collectors-edition.json](./167106-final-fantasy-xiv-shadowbringers-collectors-edition.json) |
 | Final Fantasy XIV: Stormblood | 26625 | [26625-final-fantasy-xiv-stormblood.json](./26625-final-fantasy-xiv-stormblood.json) |
+| Final Fantasy XIV: Stormblood - Collector's Edition | 167116 | [167116-final-fantasy-xiv-stormblood-collectors-edition.json](./167116-final-fantasy-xiv-stormblood-collectors-edition.json) |
 | Final Fantasy XIV: The Dark Throne | 246956 | [246956-final-fantasy-xiv-the-dark-throne.json](./246956-final-fantasy-xiv-the-dark-throne.json) |
 | Final Fantasy XIV: The Promise of Tomorrow | 350547 | [350547-final-fantasy-xiv-the-promise-of-tomorrow.json](./350547-final-fantasy-xiv-the-promise-of-tomorrow.json) |
 | Final Fantasy XV Mobile | 129157 | [129157-final-fantasy-xv-mobile.json](./129157-final-fantasy-xv-mobile.json) |
