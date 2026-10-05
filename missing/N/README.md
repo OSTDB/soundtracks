@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negima!? Magister Negi Magi: Neo-Pactio Fight!! | 72653 | [72653-negima-magister-negi-magi-neo-pactio-fight.json](./72653-negima-magister-negi-magi-neo-pactio-fight.json) |
 | Neglected: Trust test | 170904 | [170904-neglected-trust-test.json](./170904-neglected-trust-test.json) |
 | Negligee: Love Stories | 111743 | [111743-negligee-love-stories.json](./111743-negligee-love-stories.json) |
+| Negligee: Spring Clean | 159218 | [159218-negligee-spring-clean.json](./159218-negligee-spring-clean.json) |
 | Negotiation Love | 369108 | [369108-negotiation-love.json](./369108-negotiation-love.json) |
 | Negotiations Have Failed! | 374179 | [374179-negotiations-have-failed.json](./374179-negotiations-have-failed.json) |
 | Nehan 2: Darkness Fantasy | 320889 | [320889-nehan-2-darkness-fantasy.json](./320889-nehan-2-darkness-fantasy.json) |
@@ -1875,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Mysteries: Power of Art - Collector's Edition | 339642 | [339642-new-york-mysteries-power-of-art-collectors-edition.json](./339642-new-york-mysteries-power-of-art-collectors-edition.json) |
 | New York Mysteries: Secrets of the Mafia | 35163 | [35163-new-york-mysteries-secrets-of-the-mafia.json](./35163-new-york-mysteries-secrets-of-the-mafia.json) |
 | New York Nights 2: Friends For Life | 264134 | [264134-new-york-nights-2-friends-for-life.json](./264134-new-york-nights-2-friends-for-life.json) |
+| New York Nights: Success in the City | 159237 | [159237-new-york-nights-success-in-the-city.json](./159237-new-york-nights-success-in-the-city.json) |
 | New York Shark | 294427 | [294427-new-york-shark.json](./294427-new-york-shark.json) |
 | New York Simulator Air Racing and The Statue of Liberty | 197650 | [197650-new-york-simulator-air-racing-and-the-statue-of-liberty.json](./197650-new-york-simulator-air-racing-and-the-statue-of-liberty.json) |
 | New York Taxi Simulator | 33444 | [33444-new-york-taxi-simulator.json](./33444-new-york-taxi-simulator.json) |
