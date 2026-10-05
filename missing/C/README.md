@@ -5899,6 +5899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Vein: Collector's Edition | 103212 | [103212-code-vein-collectors-edition.json](./103212-code-vein-collectors-edition.json) |
 | Code Vein: Hellfire Knight | 129134 | [129134-code-vein-hellfire-knight.json](./129134-code-vein-hellfire-knight.json) |
 | Code Vein: Season Pass | 131955 | [131955-code-vein-season-pass.json](./131955-code-vein-season-pass.json) |
+| Code Zero | 123997 | [123997-code-zero.json](./123997-code-zero.json) |
 | Code Zero | 161896 | [161896-code-zero.json](./161896-code-zero.json) |
 | Code Zero | 174081 | [174081-code-zero.json](./174081-code-zero.json) |
 | Code Zodiac | 251853 | [251853-code-zodiac.json](./251853-code-zodiac.json) |
@@ -7466,6 +7467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conundrum | 380087 | [380087-conundrum.json](./380087-conundrum.json) |
 | Conundrum Catacombs | 245958 | [245958-conundrum-catacombs.json](./245958-conundrum-catacombs.json) |
 | Conveni Dream | 58464 | [58464-conveni-dream.json](./58464-conveni-dream.json) |
+| Convenience Store | 123956 | [123956-convenience-store.json](./123956-convenience-store.json) |
 | Convenience Store Simulator | 382972 | [382972-convenience-store-simulator.json](./382972-convenience-store-simulator.json) |
 | Convenience Stories | 197791 | [197791-convenience-stories.json](./197791-convenience-stories.json) |
 | Convenient | 217010 | [217010-convenient.json](./217010-convenient.json) |
@@ -8921,6 +8923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Shark | 203799 | [203799-crazy-shark.json](./203799-crazy-shark.json) |
 | Crazy Shipping | 324080 | [324080-crazy-shipping.json](./324080-crazy-shipping.json) |
 | Crazy Shooters 2 | 204475 | [204475-crazy-shooters-2.json](./204475-crazy-shooters-2.json) |
+| Crazy Shopping | 123966 | [123966-crazy-shopping.json](./123966-crazy-shopping.json) |
 | Crazy Shot | 12414 | [12414-crazy-shot.json](./12414-crazy-shot.json) |
 | Crazy Snowboard | 87553 | [87553-crazy-snowboard.json](./87553-crazy-snowboard.json) |
 | Crazy Soccer | 104631 | [104631-crazy-soccer.json](./104631-crazy-soccer.json) |
@@ -10026,6 +10029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu Saves the World | 8427 | [8427-cthulhu-saves-the-world.json](./8427-cthulhu-saves-the-world.json) |
 | Cthulhu Saves the World: Super Hyper Enhanced Championship Edition Alpha Diamond DX Plus Alpha FES HD – Premium Enhanced Game of the Year Collector’s Edition (without Avatars!) | 133889 | [133889-cthulhu-saves-the-world-super-hyper-enhanced-championship-edition-alpha-diamond-dx-plus-alpha-fes-hd-premium-enhanced-game-of-the-year-collector-s-edition-without-avatars.json](./133889-cthulhu-saves-the-world-super-hyper-enhanced-championship-edition-alpha-diamond-dx-plus-alpha-fes-hd-premium-enhanced-game-of-the-year-collector-s-edition-without-avatars.json) |
 | Cthulhu Tower | 266750 | [266750-cthulhu-tower.json](./266750-cthulhu-tower.json) |
+| Cthulhu Virtual Pet 2 | 123992 | [123992-cthulhu-virtual-pet-2.json](./123992-cthulhu-virtual-pet-2.json) |
 | Cthulhu: An Unspeakable Mod | 221668 | [221668-cthulhu-an-unspeakable-mod.json](./221668-cthulhu-an-unspeakable-mod.json) |
 | Cthulhu: Frozen Nightmare | 135269 | [135269-cthulhu-frozen-nightmare.json](./135269-cthulhu-frozen-nightmare.json) |
 | Cthulhu's Reach: Devil Reef | 258013 | [258013-cthulhus-reach-devil-reef.json](./258013-cthulhus-reach-devil-reef.json) |
