@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake | 95390 | [95390-wake.json](./95390-wake.json) |
 | Wake & Lunnye Devitsy | 50829 | [50829-wake-and-lunnye-devitsy.json](./50829-wake-and-lunnye-devitsy.json) |
 | Wake of Ragnarok | 211274 | [211274-wake-of-ragnarok.json](./211274-wake-of-ragnarok.json) |
+| Wake Out of Twilight | 150286 | [150286-wake-out-of-twilight.json](./150286-wake-out-of-twilight.json) |
 | Wake the Dead | 313864 | [313864-wake-the-dead.json](./313864-wake-the-dead.json) |
 | Wake the Dragon | 32069 | [32069-wake-the-dragon.json](./32069-wake-the-dragon.json) |
 | Wake Up | 178453 | [178453-wake-up.json](./178453-wake-up.json) |
@@ -2515,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of Wings Jigsaw Puzzles: Expansion Pack 4 | 357966 | [357966-whispers-of-wings-jigsaw-puzzles-expansion-pack-4.json](./357966-whispers-of-wings-jigsaw-puzzles-expansion-pack-4.json) |
 | Whispers: Last Hope | 29720 | [29720-whispers-last-hope.json](./29720-whispers-last-hope.json) |
 | Whisperstring | 329970 | [329970-whisperstring.json](./329970-whisperstring.json) |
+| Whisperwind | 150284 | [150284-whisperwind.json](./150284-whisperwind.json) |
 | Whistle Pig | 350451 | [350451-whistle-pig.json](./350451-whistle-pig.json) |
 | Whistle! Dai 37-kai Tokyo-to Chuugakkou Sougou Taiiku Soccer Taikai | 386986 | [386986-whistle-dai-37-kai-tokyo-to-chuugakkou-sougou-taiiku-soccer-taikai.json](./386986-whistle-dai-37-kai-tokyo-to-chuugakkou-sougou-taiiku-soccer-taikai.json) |
 | Whistle1 | 402524 | [402524-whistle1.json](./402524-whistle1.json) |
@@ -2808,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Cosmos | 381862 | [381862-wild-cosmos.json](./381862-wild-cosmos.json) |
 | Wild Country | 151014 | [151014-wild-country.json](./151014-wild-country.json) |
 | Wild Deer Hunt Jungle Sniper | 28011 | [28011-wild-deer-hunt-jungle-sniper.json](./28011-wild-deer-hunt-jungle-sniper.json) |
+| Wild Dive | 150258 | [150258-wild-dive.json](./150258-wild-dive.json) |
 | Wild Downtown | 76704 | [76704-wild-downtown.json](./76704-wild-downtown.json) |
 | Wild Earth: Africa | 195802 | [195802-wild-earth-africa.json](./195802-wild-earth-africa.json) |
 | Wild Earth: African Safari | 50711 | [50711-wild-earth-african-safari.json](./50711-wild-earth-african-safari.json) |
@@ -3735,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wo Long: Fallen Dynasty - Complete Edition | 285776 | [285776-wo-long-fallen-dynasty-complete-edition.json](./285776-wo-long-fallen-dynasty-complete-edition.json) |
 | Wo Long: Fallen Dynasty - Steelbook Launch Edition | 225774 | [225774-wo-long-fallen-dynasty-steelbook-launch-edition.json](./225774-wo-long-fallen-dynasty-steelbook-launch-edition.json) |
 | Wo Yao Da | 76098 | [76098-wo-yao-da.json](./76098-wo-yao-da.json) |
+| Wǒ Yǒu Shàngjiàng | 150244 | [150244-wo-you-shangjiang.json](./150244-wo-you-shangjiang.json) |
 | Woah Vicky | 96281 | [96281-woah-vicky.json](./96281-woah-vicky.json) |
 | Woahler Coaster! | 373513 | [373513-woahler-coaster.json](./373513-woahler-coaster.json) |
 | Wobbl | 192963 | [192963-wobbl.json](./192963-wobbl.json) |
