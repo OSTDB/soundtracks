@@ -2273,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Crisis | 113838 | [113838-night-crisis.json](./113838-night-crisis.json) |
 | Night Darkness | 166602 | [166602-night-darkness.json](./166602-night-darkness.json) |
 | Night Dream | 26797 | [26797-night-dream.json](./26797-night-dream.json) |
+| Night Dreamer | 154058 | [154058-night-dreamer.json](./154058-night-dreamer.json) |
 | Night Dreams | 147299 | [147299-night-dreams.json](./147299-night-dreams.json) |
 | Night Dreams | 207374 | [207374-night-dreams.json](./207374-night-dreams.json) |
 | Night Drive | 323531 | [323531-night-drive.json](./323531-night-drive.json) |
@@ -3801,6 +3802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing Good Can Come Of This | 297161 | [297161-nothing-good-can-come-of-this.json](./297161-nothing-good-can-come-of-this.json) |
 | Nothing is Known: The Innocents | 364575 | [364575-nothing-is-known-the-innocents.json](./364575-nothing-is-known-the-innocents.json) |
 | Nothing Strange Here | 352856 | [352856-nothing-strange-here.json](./352856-nothing-strange-here.json) |
+| Nothing to be done | 154096 | [154096-nothing-to-be-done.json](./154096-nothing-to-be-done.json) |
 | Nothing to Declare | 225067 | [225067-nothing-to-declare.json](./225067-nothing-to-declare.json) |
 | Nothing To Declare | 366945 | [366945-nothing-to-declare.json](./366945-nothing-to-declare.json) |
 | Nothing to Lose | 237620 | [237620-nothing-to-lose.json](./237620-nothing-to-lose.json) |
@@ -4201,6 +4203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyassembled! | 332979 | [332979-nyassembled.json](./332979-nyassembled.json) |
 | Nyctoban | 252204 | [252204-nyctoban.json](./252204-nyctoban.json) |
 | Nyctophilia | 34424 | [34424-nyctophilia.json](./34424-nyctophilia.json) |
+| Nyctophobia: Devil Unleashed | 154067 | [154067-nyctophobia-devil-unleashed.json](./154067-nyctophobia-devil-unleashed.json) |
 | Nyctophobia: Fear the Dark | 285444 | [285444-nyctophobia-fear-the-dark.json](./285444-nyctophobia-fear-the-dark.json) |
 | Nyet | 94355 | [94355-nyet.json](./94355-nyet.json) |
 | Nyghtmare: The Ninth King | 300969 | [300969-nyghtmare-the-ninth-king.json](./300969-nyghtmare-the-ninth-king.json) |
