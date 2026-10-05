@@ -1179,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Files: Fellow Traveler | 143017 | [143017-paranormal-files-fellow-traveler.json](./143017-paranormal-files-fellow-traveler.json) |
 | Paranormal Files: Ghost Chapter | 187936 | [187936-paranormal-files-ghost-chapter.json](./187936-paranormal-files-ghost-chapter.json) |
 | Paranormal Files: Ghost Chapter - Collector's Edition | 168857 | [168857-paranormal-files-ghost-chapter-collectors-edition.json](./168857-paranormal-files-ghost-chapter-collectors-edition.json) |
+| Paranormal Files: Hook Man's Legend - Collector's Edition | 123967 | [123967-paranormal-files-hook-mans-legend-collectors-edition.json](./123967-paranormal-files-hook-mans-legend-collectors-edition.json) |
 | Paranormal Files: Sacrifice to Shadows - Collector's Edition | 339788 | [339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json](./339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json) |
 | Paranormal Files: Silent Willow - Collector's Edition | 244295 | [244295-paranormal-files-silent-willow-collectors-edition.json](./244295-paranormal-files-silent-willow-collectors-edition.json) |
 | Paranormal Files: The Trap of Truth - Collector's Edition | 370900 | [370900-paranormal-files-the-trap-of-truth-collectors-edition.json](./370900-paranormal-files-the-trap-of-truth-collectors-edition.json) |
