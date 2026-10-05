@@ -808,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happup | 130738 | [130738-happup.json](./130738-happup.json) |
 | Happy Animal Farm | 140930 | [140930-happy-animal-farm.json](./140930-happy-animal-farm.json) |
 | Happy Animal Testing | 216699 | [216699-happy-animal-testing.json](./216699-happy-animal-testing.json) |
+| Happy Animals Bowling | 126488 | [126488-happy-animals-bowling.json](./126488-happy-animals-bowling.json) |
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
 | Happy Ball Rush | 391328 | [391328-happy-ball-rush.json](./391328-happy-ball-rush.json) |
 | Happy Balloons | 57368 | [57368-happy-balloons.json](./57368-happy-balloons.json) |
@@ -4588,6 +4589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoard: Dynamite Roll! | 171075 | [171075-hoard-dynamite-roll.json](./171075-hoard-dynamite-roll.json) |
 | Hoard: Flame-Broiled Sandwich | 171076 | [171076-hoard-flame-broiled-sandwich.json](./171076-hoard-flame-broiled-sandwich.json) |
 | Hoard's LLC: Limited Labyrinth Corporation | 344494 | [344494-hoards-llc-limited-labyrinth-corporation.json](./344494-hoards-llc-limited-labyrinth-corporation.json) |
+| Hoarding Simulator | 126367 | [126367-hoarding-simulator.json](./126367-hoarding-simulator.json) |
 | Hoards of Glory | 156688 | [156688-hoards-of-glory.json](./156688-hoards-of-glory.json) |
 | Hob: The Definitive Edition | 116681 | [116681-hob-the-definitive-edition.json](./116681-hob-the-definitive-edition.json) |
 | Hobble | 192362 | [192362-hobble.json](./192362-hobble.json) |
