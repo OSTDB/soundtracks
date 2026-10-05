@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Christmas Nightmare | 165502 | [165502-a-christmas-nightmare.json](./165502-a-christmas-nightmare.json) |
 | A Christmassy Christmas | 283894 | [283894-a-christmassy-christmas.json](./283894-a-christmassy-christmas.json) |
 | A Chronicle of Occultism in Skinnerburg | 304672 | [304672-a-chronicle-of-occultism-in-skinnerburg.json](./304672-a-chronicle-of-occultism-in-skinnerburg.json) |
+| A Circle Among Squares | 153012 | [153012-a-circle-among-squares.json](./153012-a-circle-among-squares.json) |
 | A Circle of Charity | 237474 | [237474-a-circle-of-charity.json](./237474-a-circle-of-charity.json) |
 | A Clareira | 379469 | [379469-a-clareira.json](./379469-a-clareira.json) |
 | A Clever Label | 152849 | [152849-a-clever-label.json](./152849-a-clever-label.json) |
@@ -1986,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftergreen | 416832 | [416832-aftergreen.json](./416832-aftergreen.json) |
 | Afterimage | 185642 | [185642-afterimage.json](./185642-afterimage.json) |
 | Afterimage: Deluxe Edition | 234215 | [234215-afterimage-deluxe-edition.json](./234215-afterimage-deluxe-edition.json) |
+| Afterinfection | 153013 | [153013-afterinfection.json](./153013-afterinfection.json) |
 | Afterlife | 175 | [175-afterlife.json](./175-afterlife.json) |
 | Afterlife | 264043 | [264043-afterlife.json](./264043-afterlife.json) |
 | Afterlife Beans | 164979 | [164979-afterlife-beans.json](./164979-afterlife-beans.json) |
@@ -3694,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aloft | 204375 | [204375-aloft.json](./204375-aloft.json) |
 | Aloha Play | 91408 | [91408-aloha-play.json](./91408-aloha-play.json) |
 | Aloisius | 183469 | [183469-aloisius.json](./183469-aloisius.json) |
+| Alon | 152986 | [152986-alon.json](./152986-alon.json) |
 | Alon | 311568 | [311568-alon.json](./311568-alon.json) |
 | Alone | 196110 | [196110-alone.json](./196110-alone.json) |
 | Alone but Strong | 369625 | [369625-alone-but-strong.json](./369625-alone-but-strong.json) |
@@ -4958,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing: Pocket Camp | 58630 | [58630-animal-crossing-pocket-camp.json](./58630-animal-crossing-pocket-camp.json) |
 | Animal Crush | 52770 | [52770-animal-crush.json](./52770-animal-crush.json) |
 | Animal Daedal | 180087 | [180087-animal-daedal.json](./180087-animal-daedal.json) |
+| Animal Defense Versus | 152978 | [152978-animal-defense-versus.json](./152978-animal-defense-versus.json) |
 | Animal Diner | 217391 | [217391-animal-diner.json](./217391-animal-diner.json) |
 | Animal Drifters | 219296 | [219296-animal-drifters.json](./219296-animal-drifters.json) |
 | Animal Drop Safari | 168658 | [168658-animal-drop-safari.json](./168658-animal-drop-safari.json) |
@@ -5190,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Standing | 142969 | [142969-anime-standing.json](./142969-anime-standing.json) |
 | Anime Story Otome Game: Comino | 298878 | [298878-anime-story-otome-game-comino.json](./298878-anime-story-otome-game-comino.json) |
 | Anime Studio Saga | 287237 | [287237-anime-studio-saga.json](./287237-anime-studio-saga.json) |
+| Anime Sunset Ride | 153014 | [153014-anime-sunset-ride.json](./153014-anime-sunset-ride.json) |
 | Anime Tank Blitz: Warbound Legends | 283293 | [283293-anime-tank-blitz-warbound-legends.json](./283293-anime-tank-blitz-warbound-legends.json) |
 | Anime Thighs: 18+ Content | 297774 | [297774-anime-thighs-18-content.json](./297774-anime-thighs-18-content.json) |
 | Anime Uni | 273943 | [273943-anime-uni.json](./273943-anime-uni.json) |
@@ -9228,6 +9233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axios Football | 338173 | [338173-axios-football.json](./338173-axios-football.json) |
 | Axis and Allies | 24171 | [24171-axis-and-allies.json](./24171-axis-and-allies.json) |
 | Axis Football 2016 | 32085 | [32085-axis-football-2016.json](./32085-axis-football-2016.json) |
+| Axis Football 2021 | 153011 | [153011-axis-football-2021.json](./153011-axis-football-2021.json) |
 | Axis Football 2023 | 213436 | [213436-axis-football-2023.json](./213436-axis-football-2023.json) |
 | Axis Football 2024 | 264762 | [264762-axis-football-2024.json](./264762-axis-football-2024.json) |
 | Axis Football 2027 | 416119 | [416119-axis-football-2027.json](./416119-axis-football-2027.json) |
