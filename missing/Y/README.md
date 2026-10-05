@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You've Changed | 344505 | [344505-youve-changed.json](./344505-youve-changed.json) |
 | You've Got a Stew Going! | 228971 | [228971-youve-got-a-stew-going.json](./228971-youve-got-a-stew-going.json) |
 | You've Got To Be Kidding! | 299840 | [299840-youve-got-to-be-kidding.json](./299840-youve-got-to-be-kidding.json) |
+| YouCanDoIt? | 163806 | [163806-youcandoit.json](./163806-youcandoit.json) |
 | Youchien Gaiden: Kareinaru Casino Club - Double Draw | 307844 | [307844-youchien-gaiden-kareinaru-casino-club-double-draw.json](./307844-youchien-gaiden-kareinaru-casino-club-double-draw.json) |
 | Youda Fairy | 52784 | [52784-youda-fairy.json](./52784-youda-fairy.json) |
 | Youda Farmer | 9315 | [9315-youda-farmer.json](./9315-youda-farmer.json) |
