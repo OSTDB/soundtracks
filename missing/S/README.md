@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scape | 415979 | [415979-scape.json](./415979-scape.json) |
 | Scapeghost | 12208 | [12208-scapeghost.json](./12208-scapeghost.json) |
 | Scapeland | 33493 | [33493-scapeland.json](./33493-scapeland.json) |
+| Scapevale | 130669 | [130669-scapevale.json](./130669-scapevale.json) |
 | Scapewatch | 401089 | [401089-scapewatch.json](./401089-scapewatch.json) |
 | Scapular | 400285 | [400285-scapular.json](./400285-scapular.json) |
 | Scar-Lead Salvation | 329724 | [329724-scar-lead-salvation.json](./329724-scar-lead-salvation.json) |
@@ -7813,6 +7814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smooth Criminals | 51526 | [51526-smooth-criminals.json](./51526-smooth-criminals.json) |
 | Smooth Mover | 120956 | [120956-smooth-mover.json](./120956-smooth-mover.json) |
 | Smooth Operators 2 | 197209 | [197209-smooth-operators-2.json](./197209-smooth-operators-2.json) |
+| Smoothcade | 130668 | [130668-smoothcade.json](./130668-smoothcade.json) |
 | Smoothie Galaxy | 182518 | [182518-smoothie-galaxy.json](./182518-smoothie-galaxy.json) |
 | Smoothie Swipe | 248646 | [248646-smoothie-swipe.json](./248646-smoothie-swipe.json) |
 | Smoots Crazy Wave | 356841 | [356841-smoots-crazy-wave.json](./356841-smoots-crazy-wave.json) |
@@ -10470,6 +10472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ducks: The Great Escape | 199658 | [199658-space-ducks-the-great-escape.json](./199658-space-ducks-the-great-escape.json) |
 | Space Dudes vs Alien Dudes | 223389 | [223389-space-dudes-vs-alien-dudes.json](./223389-space-dudes-vs-alien-dudes.json) |
 | Space Duel | 18405 | [18405-space-duel.json](./18405-space-duel.json) |
+| Space Duet | 130720 | [130720-space-duet.json](./130720-space-duet.json) |
 | Space Eater Force | 182919 | [182919-space-eater-force.json](./182919-space-eater-force.json) |
 | Space Egg Shooter | 199482 | [199482-space-egg-shooter.json](./199482-space-egg-shooter.json) |
 | Space electrician | 126668 | [126668-space-electrician.json](./126668-space-electrician.json) |
@@ -15061,6 +15064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strazeal | 121483 | [121483-strazeal.json](./121483-strazeal.json) |
 | Stream - Circuit Puzzle | 102128 | [102128-stream-circuit-puzzle.json](./102128-stream-circuit-puzzle.json) |
 | Stream Bakery | 409789 | [409789-stream-bakery.json](./409789-stream-bakery.json) |
+| Stream Battlecards | 130703 | [130703-stream-battlecards.json](./130703-stream-battlecards.json) |
 | Stream Defense | 239208 | [239208-stream-defense.json](./239208-stream-defense.json) |
 | Stream Draws | 139448 | [139448-stream-draws.json](./139448-stream-draws.json) |
 | Stream Fighters | 126578 | [126578-stream-fighters.json](./126578-stream-fighters.json) |
@@ -19560,6 +19564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syr and the Stars' Revival | 399187 | [399187-syr-and-the-stars-revival.json](./399187-syr-and-the-stars-revival.json) |
 | Syrenka Racer | 255659 | [255659-syrenka-racer.json](./255659-syrenka-racer.json) |
 | Syrian Warfare: Return to Palmyra | 167798 | [167798-syrian-warfare-return-to-palmyra.json](./167798-syrian-warfare-return-to-palmyra.json) |
+| Syrnia | 130718 | [130718-syrnia.json](./130718-syrnia.json) |
 | SyS KillMirror | 316616 | [316616-sys-killmirror.json](./316616-sys-killmirror.json) |
 | SYS: Save Your Soul | 386330 | [386330-sys-save-your-soul.json](./386330-sys-save-your-soul.json) |
 | Sys//Purge | 395041 | [395041-sys-purge.json](./395041-sys-purge.json) |
