@@ -1880,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Blue | 171901 | [171901-endless-blue.json](./171901-endless-blue.json) |
 | Endless Boss Fight | 163762 | [163762-endless-boss-fight.json](./163762-endless-boss-fight.json) |
 | Endless Bounce | 414571 | [414571-endless-bounce.json](./414571-endless-bounce.json) |
+| Endless Bounty | 135645 | [135645-endless-bounty.json](./135645-endless-bounty.json) |
 | Endless Casual Drive | 301276 | [301276-endless-casual-drive.json](./301276-endless-casual-drive.json) |
 | Endless Champion | 193931 | [193931-endless-champion.json](./193931-endless-champion.json) |
 | Endless Chaos: Hordes of the Afterlife | 209665 | [209665-endless-chaos-hordes-of-the-afterlife.json](./209665-endless-chaos-hordes-of-the-afterlife.json) |
@@ -3809,6 +3810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolve: Mecha Squad | 309691 | [309691-evolve-mecha-squad.json](./309691-evolve-mecha-squad.json) |
 | Evolve: Ultimate Edition | 99767 | [99767-evolve-ultimate-edition.json](./99767-evolve-ultimate-edition.json) |
 | Evolve! Lite | 60256 | [60256-evolve-lite.json](./60256-evolve-lite.json) |
+| Evolvedustry | 135623 | [135623-evolvedustry.json](./135623-evolvedustry.json) |
 | Evolver | 356224 | [356224-evolver.json](./356224-evolver.json) |
 | Evony: The King's Return | 197880 | [197880-evony-the-kings-return.json](./197880-evony-the-kings-return.json) |
 | Evoplasm | 309859 | [309859-evoplasm.json](./309859-evoplasm.json) |
@@ -3857,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exatron Quest 2 | 44201 | [44201-exatron-quest-2.json](./44201-exatron-quest-2.json) |
 | Exc. Reigai Jishou Kanshikyoku | 405018 | [405018-exc-reigai-jishou-kanshikyoku.json](./405018-exc-reigai-jishou-kanshikyoku.json) |
 | Excaliba | 13844 | [13844-excaliba.json](./13844-excaliba.json) |
+| Excalibots | 135712 | [135712-excalibots.json](./135712-excalibots.json) |
 | Excalibur | 23951 | [23951-excalibur.json](./23951-excalibur.json) |
 | Excalibur 2555 A.D. | 15514 | [15514-excalibur-2555-a-d.json](./15514-excalibur-2555-a-d.json) |
 | Excalibur Mobile | 86204 | [86204-excalibur-mobile.json](./86204-excalibur-mobile.json) |
