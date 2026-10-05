@@ -1992,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC-Sherlock: A Game of Logic & Deduction | 98920 | [98920-pc-sherlock-a-game-of-logic-and-deduction.json](./98920-pc-sherlock-a-game-of-logic-and-deduction.json) |
 | PCB | 372104 | [372104-pcb.json](./372104-pcb.json) |
 | PD: Prope Discoverer | 230223 | [230223-pd-prope-discoverer.json](./230223-pd-prope-discoverer.json) |
+| PDI Check | 119520 | [119520-pdi-check.json](./119520-pdi-check.json) |
 | PDP 10 Timesharing Basketball | 388374 | [388374-pdp-10-timesharing-basketball.json](./388374-pdp-10-timesharing-basketball.json) |
 | Pea Pod Power | 264668 | [264668-pea-pod-power.json](./264668-pea-pod-power.json) |
 | Pea Shootin' Pete | 70481 | [70481-pea-shootin-pete.json](./70481-pea-shootin-pete.json) |
@@ -9356,6 +9357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Hold 'Em World Poker Championships | 201056 | [201056-pure-hold-em-world-poker-championships.json](./201056-pure-hold-em-world-poker-championships.json) |
 | Pure Hold'em | 17840 | [17840-pure-holdem.json](./17840-pure-holdem.json) |
 | Pure Love | 368048 | [368048-pure-love.json](./368048-pure-love.json) |
+| Pure Mahjong | 119518 | [119518-pure-mahjong.json](./119518-pure-mahjong.json) |
 | Pure Metal: Feature 1 | 169288 | [169288-pure-metal-feature-1.json](./169288-pure-metal-feature-1.json) |
 | Pure Mini Golf | 188100 | [188100-pure-mini-golf.json](./188100-pure-mini-golf.json) |
 | Pure Nastalgia | 277034 | [277034-pure-nastalgia.json](./277034-pure-nastalgia.json) |
