@@ -7226,6 +7226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furries & Scalies & Bears OH MY!: The Bear | 171041 | [171041-furries-and-scalies-and-bears-oh-my-the-bear.json](./171041-furries-and-scalies-and-bears-oh-my-the-bear.json) |
 | Furries & Scalies & Bears Oh My!: Ultimate Edition | 185114 | [185114-furries-and-scalies-and-bears-oh-my-ultimate-edition.json](./185114-furries-and-scalies-and-bears-oh-my-ultimate-edition.json) |
 | Furries & Scalies & Scarecrows Oh My! | 321525 | [321525-furries-and-scalies-and-scarecrows-oh-my.json](./321525-furries-and-scalies-and-scarecrows-oh-my.json) |
+| Furries & Scalies: Friendswood | 128972 | [128972-furries-and-scalies-friendswood.json](./128972-furries-and-scalies-friendswood.json) |
 | Furries & Scalies: Super Scary Halloween Spooky Times | 130284 | [130284-furries-and-scalies-super-scary-halloween-spooky-times.json](./130284-furries-and-scalies-super-scary-halloween-spooky-times.json) |
 | Furries & Scalies: Super Scary Halloween Spooky Times Part II - Richard III's Tiny Terrors | 226186 | [226186-furries-and-scalies-super-scary-halloween-spooky-times-part-ii-richard-iiis-tiny-terrors.json](./226186-furries-and-scalies-super-scary-halloween-spooky-times-part-ii-richard-iiis-tiny-terrors.json) |
 | Furrifighters: Prequel I | 369553 | [369553-furrifighters-prequel-i.json](./369553-furrifighters-prequel-i.json) |
@@ -7276,6 +7277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Sexy Girls | 375951 | [375951-furry-sexy-girls.json](./375951-furry-sexy-girls.json) |
 | Furry Shades of Gay | 165025 | [165025-furry-shades-of-gay.json](./165025-furry-shades-of-gay.json) |
 | Furry Shakespeare: Emperor Penguin Lear | 133180 | [133180-furry-shakespeare-emperor-penguin-lear.json](./133180-furry-shakespeare-emperor-penguin-lear.json) |
+| Furry Shakespeare: Love's Lizards Lost | 128973 | [128973-furry-shakespeare-loves-lizards-lost.json](./128973-furry-shakespeare-loves-lizards-lost.json) |
 | Furry Shakespeare: Oops! All Dragons! | 152805 | [152805-furry-shakespeare-oops-all-dragons.json](./152805-furry-shakespeare-oops-all-dragons.json) |
 | Furry Shakespeare: To Date Or Not To Date Cat Girls? - 2 Prophecy of Convenience | 253951 | [253951-furry-shakespeare-to-date-or-not-to-date-cat-girls-2-prophecy-of-convenience.json](./253951-furry-shakespeare-to-date-or-not-to-date-cat-girls-2-prophecy-of-convenience.json) |
 | Furry Stories: Alpha-Male | 130297 | [130297-furry-stories-alpha-male.json](./130297-furry-stories-alpha-male.json) |
