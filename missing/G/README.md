@@ -1173,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates of Dawn | 13857 | [13857-gates-of-dawn.json](./13857-gates-of-dawn.json) |
 | Gates of Despair | 323261 | [323261-gates-of-despair.json](./323261-gates-of-despair.json) |
 | Gates of Devoroth | 211288 | [211288-gates-of-devoroth.json](./211288-gates-of-devoroth.json) |
+| Gates of Hell | 125169 | [125169-gates-of-hell.json](./125169-gates-of-hell.json) |
 | Gates of Horizon | 36125 | [36125-gates-of-horizon.json](./36125-gates-of-horizon.json) |
 | Gates of Horn and Ivory | 108633 | [108633-gates-of-horn-and-ivory.json](./108633-gates-of-horn-and-ivory.json) |
 | Gates of Mirnah | 148998 | [148998-gates-of-mirnah.json](./148998-gates-of-mirnah.json) |
@@ -1974,6 +1975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Dimension | 126403 | [126403-ghost-dimension.json](./126403-ghost-dimension.json) |
 | Ghost Eater | 278997 | [278997-ghost-eater.json](./278997-ghost-eater.json) |
 | Ghost Encounters | 59453 | [59453-ghost-encounters.json](./59453-ghost-encounters.json) |
+| Ghost Files 2: Memory of a Crime | 125177 | [125177-ghost-files-2-memory-of-a-crime.json](./125177-ghost-files-2-memory-of-a-crime.json) |
 | Ghost Files: The Face of Guilt | 28781 | [28781-ghost-files-the-face-of-guilt.json](./28781-ghost-files-the-face-of-guilt.json) |
 | Ghost Follows | 191224 | [191224-ghost-follows.json](./191224-ghost-follows.json) |
 | Ghost For Hire | 295310 | [295310-ghost-for-hire.json](./295310-ghost-for-hire.json) |
