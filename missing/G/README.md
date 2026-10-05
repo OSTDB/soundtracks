@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gedda Cake | 180286 | [180286-gedda-cake.json](./180286-gedda-cake.json) |
 | Gee Bee Air Rally | 12115 | [12115-gee-bee-air-rally.json](./12115-gee-bee-air-rally.json) |
 | Geek Fighter | 90816 | [90816-geek-fighter.json](./90816-geek-fighter.json) |
+| Geekwords: Game of Words | 156971 | [156971-geekwords-game-of-words.json](./156971-geekwords-game-of-words.json) |
 | Geenius: Cupid Dough | 395196 | [395196-geenius-cupid-dough.json](./395196-geenius-cupid-dough.json) |
 | Geeste | 99667 | [99667-geeste.json](./99667-geeste.json) |
 | Geflect | 181908 | [181908-geflect.json](./181908-geflect.json) |
@@ -4274,6 +4275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Digger | 287145 | [287145-grave-digger.json](./287145-grave-digger.json) |
 | Grave Filler | 320185 | [320185-grave-filler.json](./320185-grave-filler.json) |
 | Grave Gunner | 280289 | [280289-grave-gunner.json](./280289-grave-gunner.json) |
+| Grave Knight | 156968 | [156968-grave-knight.json](./156968-grave-knight.json) |
 | Grave Man | 179694 | [179694-grave-man.json](./179694-grave-man.json) |
 | Grave Prosperity: Part 1 | 96869 | [96869-grave-prosperity-part-1.json](./96869-grave-prosperity-part-1.json) |
 | Grave Prosperity: The Vestigial Princess | 202204 | [202204-grave-prosperity-the-vestigial-princess.json](./202204-grave-prosperity-the-vestigial-princess.json) |
