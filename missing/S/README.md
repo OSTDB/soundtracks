@@ -1709,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scission | 384144 | [384144-scission.json](./384144-scission.json) |
 | Scissors and Pink Angels | 345616 | [345616-scissors-and-pink-angels.json](./345616-scissors-and-pink-angels.json) |
 | Sciware Defense | 245841 | [245841-sciware-defense.json](./245841-sciware-defense.json) |
+| Sclash | 143935 | [143935-sclash.json](./143935-sclash.json) |
 | Sclash: Joystick | 311713 | [311713-sclash-joystick.json](./311713-sclash-joystick.json) |
 | Sclash: Pixels | 276417 | [276417-sclash-pixels.json](./276417-sclash-pixels.json) |
 | Sclash: Sakura | 309999 | [309999-sclash-sakura.json](./309999-sclash-sakura.json) |
@@ -3254,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Dragon Saga | 60626 | [60626-seven-dragon-saga.json](./60626-seven-dragon-saga.json) |
 | Seven Guardians | 58313 | [58313-seven-guardians.json](./58313-seven-guardians.json) |
 | Seven Hearts | 351108 | [351108-seven-hearts.json](./351108-seven-hearts.json) |
+| Seven Horns From Tilt | 143973 | [143973-seven-horns-from-tilt.json](./143973-seven-horns-from-tilt.json) |
 | Seven Kingdoms: Ancient Adversaries | 33303 | [33303-seven-kingdoms-ancient-adversaries.json](./33303-seven-kingdoms-ancient-adversaries.json) |
 | Seven Kingdoms: Conquest | 8942 | [8942-seven-kingdoms-conquest.json](./8942-seven-kingdoms-conquest.json) |
 | Seven Kingdoms: The Princess Problem | 336036 | [336036-seven-kingdoms-the-princess-problem.json](./336036-seven-kingdoms-the-princess-problem.json) |
@@ -4877,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot the Robots VR | 278998 | [278998-shoot-the-robots-vr.json](./278998-shoot-the-robots-vr.json) |
 | Shoot the Zombirds VR | 115698 | [115698-shoot-the-zombirds-vr.json](./115698-shoot-the-zombirds-vr.json) |
 | Shoot Them | 126559 | [126559-shoot-them.json](./126559-shoot-them.json) |
+| Shoot Them 2 | 143946 | [143946-shoot-them-2.json](./143946-shoot-them-2.json) |
 | Shoot Till You Meet Death | 390624 | [390624-shoot-till-you-meet-death.json](./390624-shoot-till-you-meet-death.json) |
 | Shoot to Escape | 231901 | [231901-shoot-to-escape.json](./231901-shoot-to-escape.json) |
 | Shoot to Pleasure | 310735 | [310735-shoot-to-pleasure.json](./310735-shoot-to-pleasure.json) |
@@ -4908,6 +4911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Arena VR | 141098 | [141098-shooting-arena-vr.json](./141098-shooting-arena-vr.json) |
 | Shooting Ballons | 247012 | [247012-shooting-ballons.json](./247012-shooting-ballons.json) |
 | Shooting Beena Toy Story 3: Woody to Buzz no Daibouken! | 123619 | [123619-shooting-beena-toy-story-3-woody-to-buzz-no-daibouken.json](./123619-shooting-beena-toy-story-3-woody-to-buzz-no-daibouken.json) |
+| Shooting Blaster Big Bang Boom | 143954 | [143954-shooting-blaster-big-bang-boom.json](./143954-shooting-blaster-big-bang-boom.json) |
 | Shooting Blocks 2 | 91340 | [91340-shooting-blocks-2.json](./91340-shooting-blocks-2.json) |
 | Shooting Bubbles | 115777 | [115777-shooting-bubbles.json](./115777-shooting-bubbles.json) |
 | Shooting Chicken Insanity Chickens | 110171 | [110171-shooting-chicken-insanity-chickens.json](./110171-shooting-chicken-insanity-chickens.json) |
@@ -9744,6 +9748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophias Pizza Restaurant | 293636 | [293636-sophias-pizza-restaurant.json](./293636-sophias-pizza-restaurant.json) |
 | Sophica: Temples of Mystery | 114526 | [114526-sophica-temples-of-mystery.json](./114526-sophica-temples-of-mystery.json) |
 | Sophie: Starlight Whispers | 148440 | [148440-sophie-starlight-whispers.json](./148440-sophie-starlight-whispers.json) |
+| Sophie's Cubes | 143960 | [143960-sophies-cubes.json](./143960-sophies-cubes.json) |
 | Sophie's Grids | 400970 | [400970-sophies-grids.json](./400970-sophies-grids.json) |
 | Sophie's Safecracking Simulator | 152924 | [152924-sophies-safecracking-simulator.json](./152924-sophies-safecracking-simulator.json) |
 | Sophie's World | 73234 | [73234-sophies-world.json](./73234-sophies-world.json) |
@@ -10698,6 +10703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Science Investigations | 215211 | [215211-space-science-investigations.json](./215211-space-science-investigations.json) |
 | Space Scrap Shuffle | 183351 | [183351-space-scrap-shuffle.json](./183351-space-scrap-shuffle.json) |
 | Space ScrubLords | 348930 | [348930-space-scrublords.json](./348930-space-scrublords.json) |
+| Space Sergeants | 143941 | [143941-space-sergeants.json](./143941-space-sergeants.json) |
 | Space Shadow | 178988 | [178988-space-shadow.json](./178988-space-shadow.json) |
 | Space Shapes | 126567 | [126567-space-shapes.json](./126567-space-shapes.json) |
 | Space Shark Wrangle Fest | 245843 | [245843-space-shark-wrangle-fest.json](./245843-space-shark-wrangle-fest.json) |
@@ -11272,6 +11278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedboat Racing | 144387 | [144387-speedboat-racing.json](./144387-speedboat-racing.json) |
 | Speedcat | 198290 | [198290-speedcat.json](./198290-speedcat.json) |
 | Speeder | 152934 | [152934-speeder.json](./152934-speeder.json) |
+| SpeedFighter | 143962 | [143962-speedfighter.json](./143962-speedfighter.json) |
 | Speedin' Shotgun | 263500 | [263500-speedin-shotgun.json](./263500-speedin-shotgun.json) |
 | SpeedingRoad | 158513 | [158513-speedingroad.json](./158513-speedingroad.json) |
 | SpeedJumper | 334787 | [334787-speedjumper.json](./334787-speedjumper.json) |
@@ -12462,6 +12469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squares of Hell | 304612 | [304612-squares-of-hell.json](./304612-squares-of-hell.json) |
 | Squares Proximity | 366332 | [366332-squares-proximity.json](./366332-squares-proximity.json) |
 | Squares Puzzle | 334824 | [334824-squares-puzzle.json](./334824-squares-puzzle.json) |
+| Squares Story | 143944 | [143944-squares-story.json](./143944-squares-story.json) |
 | Squareverse | 390664 | [390664-squareverse.json](./390664-squareverse.json) |
 | Squarewave Maker | 90139 | [90139-squarewave-maker.json](./90139-squarewave-maker.json) |
 | SquareWorld | 102964 | [102964-squareworld.json](./102964-squareworld.json) |
@@ -14751,6 +14759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Straftat | 253558 | [253558-straftat.json](./253558-straftat.json) |
 | Straif | 360577 | [360577-straif.json](./360577-straif.json) |
 | Straight Ahead | 187394 | [187394-straight-ahead.json](./187394-straight-ahead.json) |
+| Straight on 8 | 143968 | [143968-straight-on-8.json](./143968-straight-on-8.json) |
 | Straight Up | 289478 | [289478-straight-up.json](./289478-straight-up.json) |
 | Straight Up: Dummy Characters | 289480 | [289480-straight-up-dummy-characters.json](./289480-straight-up-dummy-characters.json) |
 | Straight Up: Farm Crew Characters | 289479 | [289479-straight-up-farm-crew-characters.json](./289479-straight-up-farm-crew-characters.json) |
@@ -18995,6 +19004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swoon! Earth Escape | 225894 | [225894-swoon-earth-escape.json](./225894-swoon-earth-escape.json) |
 | Swoop | 78988 | [78988-swoop.json](./78988-swoop.json) |
 | Swoops! | 40750 | [40750-swoops.json](./40750-swoops.json) |
+| Swoosh | 143926 | [143926-swoosh.json](./143926-swoosh.json) |
 | SwooshCat | 346249 | [346249-swooshcat.json](./346249-swooshcat.json) |
 | SwooshMania | 347723 | [347723-swooshmania.json](./347723-swooshmania.json) |
 | Sword & Dragon | 58234 | [58234-sword-and-dragon.json](./58234-sword-and-dragon.json) |
