@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Blood | 73030 | [73030-captain-blood.json](./73030-captain-blood.json) |
 | Captain Bumper | 71779 | [71779-captain-bumper.json](./71779-captain-bumper.json) |
 | Captain Buttface | 258093 | [258093-captain-buttface.json](./258093-captain-buttface.json) |
+| Captain Coffer 2D | 157474 | [157474-captain-coffer-2d.json](./157474-captain-coffer-2d.json) |
 | Captain Comet | 400453 | [400453-captain-comet.json](./400453-captain-comet.json) |
 | Captain Comic: The Adventure | 48110 | [48110-captain-comic-the-adventure.json](./48110-captain-comic-the-adventure.json) |
 | Captain Commando | 19821 | [19821-captain-commando.json](./19821-captain-commando.json) |
