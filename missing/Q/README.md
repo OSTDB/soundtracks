@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Mafs Advanced | 193731 | [193731-quick-mafs-advanced.json](./193731-quick-mafs-advanced.json) |
 | Quick Majik Adventure | 171539 | [171539-quick-majik-adventure.json](./171539-quick-majik-adventure.json) |
 | Quick Move | 246362 | [246362-quick-move.json](./246362-quick-move.json) |
+| Quick Packer 2 | 148667 | [148667-quick-packer-2.json](./148667-quick-packer-2.json) |
 | Quick Quack | 201136 | [201136-quick-quack.json](./201136-quick-quack.json) |
 | Quick Quest | 283404 | [283404-quick-quest.json](./283404-quick-quest.json) |
 | Quick Revolver | 180588 | [180588-quick-revolver.json](./180588-quick-revolver.json) |
