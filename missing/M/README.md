@@ -1868,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mardek RPG: Chapter 2 | 62729 | [62729-mardek-rpg-chapter-2.json](./62729-mardek-rpg-chapter-2.json) |
 | Mare | 177407 | [177407-mare.json](./177407-mare.json) |
 | Mare | 25933 | [25933-mare.json](./25933-mare.json) |
+| Mare Nostrum | 164412 | [164412-mare-nostrum.json](./164412-mare-nostrum.json) |
 | Mare Nostrvm | 137077 | [137077-mare-nostrvm.json](./137077-mare-nostrvm.json) |
 | MareDare | 348962 | [348962-maredare.json](./348962-maredare.json) |
 | Marée Noire | 179012 | [179012-maree-noire.json](./179012-maree-noire.json) |
@@ -10437,6 +10438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutual Secret | 107386 | [107386-mutual-secret.json](./107386-mutual-secret.json) |
 | Muumit ja Taikalamppu | 178047 | [178047-muumit-ja-taikalamppu.json](./178047-muumit-ja-taikalamppu.json) |
 | Muv-Luv | 11778 | [11778-muv-luv.json](./11778-muv-luv.json) |
+| Muv-Luv Unlimited: The Day After - Episode 00 Remastered | 164423 | [164423-muv-luv-unlimited-the-day-after-episode-00-remastered.json](./164423-muv-luv-unlimited-the-day-after-episode-00-remastered.json) |
 | Muv-Luv Unlimited: The Day After Ultimate Collection | 399799 | [399799-muv-luv-unlimited-the-day-after-ultimate-collection.json](./399799-muv-luv-unlimited-the-day-after-ultimate-collection.json) |
 | Muv-Luv VR | 33162 | [33162-muv-luv-vr.json](./33162-muv-luv-vr.json) |
 | Muzan: Chiniku no Ikenie | 67230 | [67230-muzan-chiniku-no-ikenie.json](./67230-muzan-chiniku-no-ikenie.json) |
