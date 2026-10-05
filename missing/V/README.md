@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vessel | 8382 | [8382-vessel.json](./8382-vessel.json) |
 | Vessel Blue | 238638 | [238638-vessel-blue.json](./238638-vessel-blue.json) |
 | Vessel Damage Control Trainer | 243417 | [243417-vessel-damage-control-trainer.json](./243417-vessel-damage-control-trainer.json) |
+| Vessels | 141520 | [141520-vessels.json](./141520-vessels.json) |
 | Vessels | 375938 | [375938-vessels.json](./375938-vessels.json) |
 | Vessels of Decay | 143715 | [143715-vessels-of-decay.json](./143715-vessels-of-decay.json) |
 | Vestaria Saga II: The Sacred Sword of Silvanister | 186886 | [186886-vestaria-saga-ii-the-sacred-sword-of-silvanister.json](./186886-vestaria-saga-ii-the-sacred-sword-of-silvanister.json) |
