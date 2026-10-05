@@ -2777,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space | 272554 | [272554-deep-space.json](./272554-deep-space.json) |
 | Deep Space 7 | 308881 | [308881-deep-space-7.json](./308881-deep-space-7.json) |
 | Deep Space Airships | 176322 | [176322-deep-space-airships.json](./176322-deep-space-airships.json) |
+| Deep Space Banana | 130217 | [130217-deep-space-banana.json](./130217-deep-space-banana.json) |
 | Deep Space Battle Simulator | 119616 | [119616-deep-space-battle-simulator.json](./119616-deep-space-battle-simulator.json) |
 | Deep Space Bellhop | 339652 | [339652-deep-space-bellhop.json](./339652-deep-space-bellhop.json) |
 | Deep Space Corridor | 350013 | [350013-deep-space-corridor.json](./350013-deep-space-corridor.json) |
@@ -7145,6 +7146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doriath | 15855 | [15855-doriath.json](./15855-doriath.json) |
 | Doritos Crash Course Go! | 63573 | [63573-doritos-crash-course-go.json](./63573-doritos-crash-course-go.json) |
 | Dorkom | 407600 | [407600-dorkom.json](./407600-dorkom.json) |
+| Dorky Fork | 130209 | [130209-dorky-fork.json](./130209-dorky-fork.json) |
 | Dorman's Attraction: Upgraded & Advanced | 396897 | [396897-dormans-attraction-upgraded-and-advanced.json](./396897-dormans-attraction-upgraded-and-advanced.json) |
 | Dormant | 313496 | [313496-dormant.json](./313496-dormant.json) |
 | Dormitabis | 230514 | [230514-dormitabis.json](./230514-dormitabis.json) |
