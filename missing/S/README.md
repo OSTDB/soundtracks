@@ -3145,6 +3145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serguei's Destiny | 74041 | [74041-sergueis-destiny.json](./74041-sergueis-destiny.json) |
 | Serial Assault: The Memory of the Summer. | 97478 | [97478-serial-assault-the-memory-of-the-summer.json](./97478-serial-assault-the-memory-of-the-summer.json) |
 | Serial Cleaner | 19450 | [19450-serial-cleaner.json](./19450-serial-cleaner.json) |
+| Serial Cleaner + Official Soundtrack Bundle | 118866 | [118866-serial-cleaner-official-soundtrack-bundle.json](./118866-serial-cleaner-official-soundtrack-bundle.json) |
 | Serial Cleaner: Blood & Confetti | 336529 | [336529-serial-cleaner-blood-and-confetti.json](./336529-serial-cleaner-blood-and-confetti.json) |
 | Serial Cleaners: Dino Park | 249301 | [249301-serial-cleaners-dino-park.json](./249301-serial-cleaners-dino-park.json) |
 | Serial Experiments Lain | 76448 | [76448-serial-experiments-lain.json](./76448-serial-experiments-lain.json) |
@@ -6736,6 +6737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Fleet | 144190 | [144190-sky-fleet.json](./144190-sky-fleet.json) |
 | Sky Flight | 110968 | [110968-sky-flight.json](./110968-sky-flight.json) |
 | Sky Flowers | 404449 | [404449-sky-flowers.json](./404449-sky-flowers.json) |
+| Sky Force Bundle | 118869 | [118869-sky-force-bundle.json](./118869-sky-force-bundle.json) |
 | Sky Fortress: Odyssey | 277033 | [277033-sky-fortress-odyssey.json](./277033-sky-fortress-odyssey.json) |
 | Sky Fury | 274469 | [274469-sky-fury.json](./274469-sky-fury.json) |
 | Sky Gamblers - Infinite Jets | 86688 | [86688-sky-gamblers-infinite-jets.json](./86688-sky-gamblers-infinite-jets.json) |
@@ -8820,6 +8822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solarium | 139307 | [139307-solarium.json](./139307-solarium.json) |
 | Solarland | 212459 | [212459-solarland.json](./212459-solarland.json) |
 | Solarmax | 388044 | [388044-solarmax.json](./388044-solarmax.json) |
+| Solarpower | 118766 | [118766-solarpower.json](./118766-solarpower.json) |
 | Solarpunk | 194950 | [194950-solarpunk.json](./194950-solarpunk.json) |
 | Solarpunk: Failed States | 187288 | [187288-solarpunk-failed-states.json](./187288-solarpunk-failed-states.json) |
 | Solarys The Witch of Fire | 301392 | [301392-solarys-the-witch-of-fire.json](./301392-solarys-the-witch-of-fire.json) |
@@ -9201,6 +9204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song Summoner: The Unsung Heroes | 23042 | [23042-song-summoner-the-unsung-heroes.json](./23042-song-summoner-the-unsung-heroes.json) |
 | Songbird | 324103 | [324103-songbird.json](./324103-songbird.json) |
 | Songbirds: Creative Gaming | 174231 | [174231-songbirds-creative-gaming.json](./174231-songbirds-creative-gaming.json) |
+| Songbringer Bundle | 118864 | [118864-songbringer-bundle.json](./118864-songbringer-bundle.json) |
 | Songbringer: The Trial of Ren | 165014 | [165014-songbringer-the-trial-of-ren.json](./165014-songbringer-the-trial-of-ren.json) |
 | Songless | 409608 | [409608-songless.json](./409608-songless.json) |
 | SongPop | 231455 | [231455-songpop.json](./231455-songpop.json) |
@@ -10627,6 +10631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hopper | 187255 | [187255-space-hopper.json](./187255-space-hopper.json) |
 | Space Hopper | 274049 | [274049-space-hopper.json](./274049-space-hopper.json) |
 | Space Hotel | 30270 | [30270-space-hotel.json](./30270-space-hotel.json) |
+| Space Hulk Bundle | 118863 | [118863-space-hulk-bundle.json](./118863-space-hulk-bundle.json) |
 | Space Hulk: Ascension | 17732 | [17732-space-hulk-ascension.json](./17732-space-hulk-ascension.json) |
 | Space Hulk: Deathwing - Enhanced Edition | 154595 | [154595-space-hulk-deathwing-enhanced-edition.json](./154595-space-hulk-deathwing-enhanced-edition.json) |
 | Space Hulk: Deathwing - Enhanced Edition: Infested Mines | 154596 | [154596-space-hulk-deathwing-enhanced-edition-infested-mines.json](./154596-space-hulk-deathwing-enhanced-edition-infested-mines.json) |
@@ -14969,6 +14974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Alchemy | 337807 | [337807-strange-alchemy.json](./337807-strange-alchemy.json) |
 | Strange Bird Island | 180590 | [180590-strange-bird-island.json](./180590-strange-bird-island.json) |
 | Strange Block 36 | 345069 | [345069-strange-block-36.json](./345069-strange-block-36.json) |
+| Strange Brigade: Deluxe Edition | 118899 | [118899-strange-brigade-deluxe-edition.json](./118899-strange-brigade-deluxe-edition.json) |
 | Strange Day | 365881 | [365881-strange-day.json](./365881-strange-day.json) |
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
 | Strange Horizons | 384499 | [384499-strange-horizons.json](./384499-strange-horizons.json) |
@@ -15028,6 +15034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strangest.io's My Megamix '21 | 195798 | [195798-strangest-ios-my-megamix-21.json](./195798-strangest-ios-my-megamix-21.json) |
 | Strania: The Stella Machina | 34342 | [34342-strania-the-stella-machina.json](./34342-strania-the-stella-machina.json) |
 | Strania: The Stella Machina - EX | 328477 | [328477-strania-the-stella-machina-ex.json](./328477-strania-the-stella-machina-ex.json) |
+| Strashilka | 118786 | [118786-strashilka.json](./118786-strashilka.json) |
 | Strashilki: Shestoe chuvstvo | 315017 | [315017-strashilki-shestoe-chuvstvo.json](./315017-strashilki-shestoe-chuvstvo.json) |
 | Strat-O-Gems Deluxe | 40751 | [40751-strat-o-gems-deluxe.json](./40751-strat-o-gems-deluxe.json) |
 | Strata Scavenger | 65219 | [65219-strata-scavenger.json](./65219-strata-scavenger.json) |
@@ -18389,6 +18396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperSquad.GG | 292002 | [292002-supersquad-gg.json](./292002-supersquad-gg.json) |
 | Superstar Chefs | 57666 | [57666-superstar-chefs.json](./57666-superstar-chefs.json) |
 | SuperStar Ebidan | 373026 | [373026-superstar-ebidan.json](./373026-superstar-ebidan.json) |
+| Superstar Hero | 118775 | [118775-superstar-hero.json](./118775-superstar-hero.json) |
 | Superstar Hockey: Pass & Score | 227379 | [227379-superstar-hockey-pass-and-score.json](./227379-superstar-hockey-pass-and-score.json) |
 | Superstar Ice Hockey | 40998 | [40998-superstar-ice-hockey.json](./40998-superstar-ice-hockey.json) |
 | Superstar Izone | 142115 | [142115-superstar-izone.json](./142115-superstar-izone.json) |
