@@ -2251,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Bind | 207782 | [207782-death-bind.json](./207782-death-bind.json) |
 | Death Blade | 170338 | [170338-death-blade.json](./170338-death-blade.json) |
 | Death Bowl | 208598 | [208598-death-bowl.json](./208598-death-bowl.json) |
+| Death Box | 160302 | [160302-death-box.json](./160302-death-box.json) |
 | Death Burger | 364506 | [364506-death-burger.json](./364506-death-burger.json) |
 | Death by AI | 275250 | [275250-death-by-ai.json](./275250-death-by-ai.json) |
 | Death By Chatter | 322934 | [322934-death-by-chatter.json](./322934-death-by-chatter.json) |
@@ -4534,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Died of Fear | 44183 | [44183-died-of-fear.json](./44183-died-of-fear.json) |
 | DieFeen | 305161 | [305161-diefeen.json](./305161-diefeen.json) |
 | Diego Balls | 343830 | [343830-diego-balls.json](./343830-diego-balls.json) |
+| Diego: Mission Red Tomato | 160211 | [160211-diego-mission-red-tomato.json](./160211-diego-mission-red-tomato.json) |
 | Diemi | 375352 | [375352-diemi.json](./375352-diemi.json) |
 | Diep.io | 19341 | [19341-diep-io.json](./19341-diep-io.json) |
 | Diercke Das Geographie-Quiz | 269743 | [269743-diercke-das-geographie-quiz.json](./269743-diercke-das-geographie-quiz.json) |
@@ -4945,7 +4947,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinoland | 165672 | [165672-dinoland.json](./165672-dinoland.json) |
 | DinoLife | 212909 | [212909-dinolife.json](./212909-dinolife.json) |
 | DinoMight Baseball | 209019 | [209019-dinomight-baseball.json](./209019-dinomight-baseball.json) |
+| Dinomod | 160287 | [160287-dinomod.json](./160287-dinomod.json) |
 | DinoOps | 33334 | [33334-dinoops.json](./33334-dinoops.json) |
+| Dinopatch | 160286 | [160286-dinopatch.json](./160286-dinopatch.json) |
 | DinoPlanet VR | 244835 | [244835-dinoplanet-vr.json](./244835-dinoplanet-vr.json) |
 | Dinopunk: The Cacops Adventure | 273648 | [273648-dinopunk-the-cacops-adventure.json](./273648-dinopunk-the-cacops-adventure.json) |
 | Dinorage | 180581 | [180581-dinorage.json](./180581-dinorage.json) |
@@ -6771,6 +6775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom & Destiny Worlds: Ultimate Supporter Edition | 255260 | [255260-doom-and-destiny-worlds-ultimate-supporter-edition.json](./255260-doom-and-destiny-worlds-ultimate-supporter-edition.json) |
 | Doom + Doom II | 313126 | [313126-doom-doom-ii.json](./313126-doom-doom-ii.json) |
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
+| Doom 2 Reloaded | 160288 | [160288-doom-2-reloaded.json](./160288-doom-2-reloaded.json) |
 | Doom 3: BFG Edition | 6968 | [6968-doom-3-bfg-edition.json](./6968-doom-3-bfg-edition.json) |
 | Doom 3: Hard Corps | 196016 | [196016-doom-3-hard-corps.json](./196016-doom-3-hard-corps.json) |
 | Doom 3: Resurrection of Evil | 332410 | [332410-doom-3-resurrection-of-evil.json](./332410-doom-3-resurrection-of-evil.json) |
@@ -9414,6 +9419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Defenders: Quest for the Lost Eternia Shards Part 4 | 164353 | [164353-dungeon-defenders-quest-for-the-lost-eternia-shards-part-4.json](./164353-dungeon-defenders-quest-for-the-lost-eternia-shards-part-4.json) |
 | Dungeon Defenders: Series EV Hero DLC | 164355 | [164355-dungeon-defenders-series-ev-hero-dlc.json](./164355-dungeon-defenders-series-ev-hero-dlc.json) |
 | Dungeon Defenders: Summoner Hero DLC | 164349 | [164349-dungeon-defenders-summoner-hero-dlc.json](./164349-dungeon-defenders-summoner-hero-dlc.json) |
+| Dungeon Defenders: Talay Mining Complex Mission Pack | 160298 | [160298-dungeon-defenders-talay-mining-complex-mission-pack.json](./160298-dungeon-defenders-talay-mining-complex-mission-pack.json) |
 | Dungeon Defenders: The Great Turkey Hunt! Mission & Costumes | 164357 | [164357-dungeon-defenders-the-great-turkey-hunt-mission-and-costumes.json](./164357-dungeon-defenders-the-great-turkey-hunt-mission-and-costumes.json) |
 | Dungeon Defenders: Warden Hero DLC | 364559 | [364559-dungeon-defenders-warden-hero-dlc.json](./364559-dungeon-defenders-warden-hero-dlc.json) |
 | Dungeon Defenders: Warping Core Challenge Mission Pack | 164346 | [164346-dungeon-defenders-warping-core-challenge-mission-pack.json](./164346-dungeon-defenders-warping-core-challenge-mission-pack.json) |
@@ -9971,6 +9977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Night Sex with Zombi | 375952 | [375952-dying-night-sex-with-zombi.json](./375952-dying-night-sex-with-zombi.json) |
 | Dying of Thirst | 177298 | [177298-dying-of-thirst.json](./177298-dying-of-thirst.json) |
 | Dying Reign | 355560 | [355560-dying-reign.json](./355560-dying-reign.json) |
+| Dying: 1983 | 160267 | [160267-dying-1983.json](./160267-dying-1983.json) |
 | Dying: Reborn | 27569 | [27569-dying-reborn.json](./27569-dying-reborn.json) |
 | Dying: Reborn + Dying: Reborn VR Bundle | 217861 | [217861-dying-reborn-dying-reborn-vr-bundle.json](./217861-dying-reborn-dying-reborn-vr-bundle.json) |
 | Dying: Sinner Escape | 63361 | [63361-dying-sinner-escape.json](./63361-dying-sinner-escape.json) |
