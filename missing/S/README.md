@@ -2085,12 +2085,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Next Taiou: Unit & Map Data | 234761 | [234761-sd-gundam-g-next-taiou-unit-and-map-data.json](./234761-sd-gundam-g-next-taiou-unit-and-map-data.json) |
 | SD Gundam G Next: Tsuika Unit Map Data | 234760 | [234760-sd-gundam-g-next-tsuika-unit-map-data.json](./234760-sd-gundam-g-next-tsuika-unit-map-data.json) |
 | SD Gundam G Next: Unit & Map Collection | 234772 | [234772-sd-gundam-g-next-unit-and-map-collection.json](./234772-sd-gundam-g-next-unit-and-map-collection.json) |
+| SD Gundam G-Century | 159236 | [159236-sd-gundam-g-century.json](./159236-sd-gundam-g-century.json) |
+| SD Gundam G-Century S | 159235 | [159235-sd-gundam-g-century-s.json](./159235-sd-gundam-g-century-s.json) |
 | SD Gundam Gaiden IV: Hikari no Knight Densetsu | 385788 | [385788-sd-gundam-gaiden-iv-hikari-no-knight-densetsu.json](./385788-sd-gundam-gaiden-iv-hikari-no-knight-densetsu.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari | 38326 | [38326-sd-gundam-gaiden-knight-gundam-monogatari.json](./38326-sd-gundam-gaiden-knight-gundam-monogatari.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari 2 - Hikari no Knight | 48854 | [48854-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json](./48854-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari 3 - Densetsu no Kishi-dan | 48853 | [48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json](./48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json) |
 | SD Gundam GX | 38323 | [38323-sd-gundam-gx.json](./38323-sd-gundam-gx.json) |
 | SD Gundam Neo Battling | 40411 | [40411-sd-gundam-neo-battling.json](./40411-sd-gundam-neo-battling.json) |
+| SD Gundam Over Galaxian | 159231 | [159231-sd-gundam-over-galaxian.json](./159231-sd-gundam-over-galaxian.json) |
 | SD Gundam Power Formation Puzzle | 38327 | [38327-sd-gundam-power-formation-puzzle.json](./38327-sd-gundam-power-formation-puzzle.json) |
 | SD Gundam Sangokushi Rainbow Tairiku Senki | 370914 | [370914-sd-gundam-sangokushi-rainbow-tairiku-senki.json](./370914-sd-gundam-sangokushi-rainbow-tairiku-senki.json) |
 | SD Gundam World: Gachapon Senshi - Scramble Wars | 41334 | [41334-sd-gundam-world-gachapon-senshi-scramble-wars.json](./41334-sd-gundam-world-gachapon-senshi-scramble-wars.json) |
@@ -9362,6 +9365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Riders Future | 374698 | [374698-sonic-riders-future.json](./374698-sonic-riders-future.json) |
 | Sonic Riders Plus | 369154 | [369154-sonic-riders-plus.json](./369154-sonic-riders-plus.json) |
 | Sonic Riders Regravitified | 172112 | [172112-sonic-riders-regravitified.json](./172112-sonic-riders-regravitified.json) |
+| Sonic Riders Tournament Edition | 159040 | [159040-sonic-riders-tournament-edition.json](./159040-sonic-riders-tournament-edition.json) |
 | Sonic Riders Tournament Edition 2.0 | 337111 | [337111-sonic-riders-tournament-edition-2-0.json](./337111-sonic-riders-tournament-edition-2-0.json) |
 | Sonic Riders Tournament Edition 2.4.6 | 369155 | [369155-sonic-riders-tournament-edition-2-4-6.json](./369155-sonic-riders-tournament-edition-2-4-6.json) |
 | Sonic Riders: Tournament Edition | 396533 | [396533-sonic-riders-tournament-edition.json](./396533-sonic-riders-tournament-edition.json) |
@@ -11068,6 +11072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Tower II | 281681 | [281681-spectral-tower-ii.json](./281681-spectral-tower-ii.json) |
 | SpectralClimb | 271281 | [271281-spectralclimb.json](./271281-spectralclimb.json) |
 | Spectralia | 312735 | [312735-spectralia.json](./312735-spectralia.json) |
+| Spectre | 159226 | [159226-spectre.json](./159226-spectre.json) |
 | Spectre | 59846 | [59846-spectre.json](./59846-spectre.json) |
 | Spectre Divide | 311967 | [311967-spectre-divide.json](./311967-spectre-divide.json) |
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
@@ -11089,6 +11094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
 | Spectrum: First Light | 35827 | [35827-spectrum-first-light.json](./35827-spectrum-first-light.json) |
 | SpectrumTap | 41501 | [41501-spectrumtap.json](./41501-spectrumtap.json) |
+| Speculum Mortis: Regret | 159222 | [159222-speculum-mortis-regret.json](./159222-speculum-mortis-regret.json) |
 | Specvaders | 137557 | [137557-specvaders.json](./137557-specvaders.json) |
 | Spediteur | 293708 | [293708-spediteur.json](./293708-spediteur.json) |
 | Speebot | 74342 | [74342-speebot.json](./74342-speebot.json) |
@@ -18754,6 +18760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swinario Super Bros. Play | 169252 | [169252-swinario-super-bros-play.json](./169252-swinario-super-bros-play.json) |
 | Swindler | 51170 | [51170-swindler.json](./51170-swindler.json) |
 | Swine's Revenge | 360011 | [360011-swines-revenge.json](./360011-swines-revenge.json) |
+| Swing & Miss | 159193 | [159193-swing-and-miss.json](./159193-swing-and-miss.json) |
 | Swing 2 Heli | 262356 | [262356-swing-2-heli.json](./262356-swing-2-heli.json) |
 | Swing Boy | 346573 | [346573-swing-boy.json](./346573-swing-boy.json) |
 | Swing Copters | 7672 | [7672-swing-copters.json](./7672-swing-copters.json) |
