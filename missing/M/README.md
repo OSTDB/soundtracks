@@ -6783,6 +6783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Car Racing | 148355 | [148355-mini-car-racing.json](./148355-mini-car-racing.json) |
 | Mini Car Racing: Tiny Split Screen Tournament | 169157 | [169157-mini-car-racing-tiny-split-screen-tournament.json](./169157-mini-car-racing-tiny-split-screen-tournament.json) |
 | Mini City: Mayhem | 319363 | [319363-mini-city-mayhem.json](./319363-mini-city-mayhem.json) |
+| Mini Countries | 133192 | [133192-mini-countries.json](./133192-mini-countries.json) |
 | Mini Cozy Room: Lo-Fi | 338702 | [338702-mini-cozy-room-lo-fi.json](./338702-mini-cozy-room-lo-fi.json) |
 | Mini craft story | 98783 | [98783-mini-craft-story.json](./98783-mini-craft-story.json) |
 | Mini Crafty | 147392 | [147392-mini-crafty.json](./147392-mini-crafty.json) |
@@ -9208,11 +9209,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: Kombat Pack 2 | 139445 | [139445-mortal-kombat-11-kombat-pack-2.json](./139445-mortal-kombat-11-kombat-pack-2.json) |
 | Mortal Kombat 11: Masquerade Skin Pack | 296025 | [296025-mortal-kombat-11-masquerade-skin-pack.json](./296025-mortal-kombat-11-masquerade-skin-pack.json) |
 | Mortal Kombat 11: Mileena | 139442 | [139442-mortal-kombat-11-mileena.json](./139442-mortal-kombat-11-mileena.json) |
+| Mortal Kombat 11: Nightwolf | 133274 | [133274-mortal-kombat-11-nightwolf.json](./133274-mortal-kombat-11-nightwolf.json) |
 | Mortal Kombat 11: Ninja Mime Johnny Cage | 406880 | [406880-mortal-kombat-11-ninja-mime-johnny-cage.json](./406880-mortal-kombat-11-ninja-mime-johnny-cage.json) |
 | Mortal Kombat 11: Rain | 139443 | [139443-mortal-kombat-11-rain.json](./139443-mortal-kombat-11-rain.json) |
 | Mortal Kombat 11: Rambo | 139444 | [139444-mortal-kombat-11-rambo.json](./139444-mortal-kombat-11-rambo.json) |
 | Mortal Kombat 11: RoboCop | 139440 | [139440-mortal-kombat-11-robocop.json](./139440-mortal-kombat-11-robocop.json) |
+| Mortal Kombat 11: Shang Tsung | 133273 | [133273-mortal-kombat-11-shang-tsung.json](./133273-mortal-kombat-11-shang-tsung.json) |
 | Mortal Kombat 11: Sheeva | 139441 | [139441-mortal-kombat-11-sheeva.json](./139441-mortal-kombat-11-sheeva.json) |
+| Mortal Kombat 11: Sindel | 133276 | [133276-mortal-kombat-11-sindel.json](./133276-mortal-kombat-11-sindel.json) |
+| Mortal Kombat 11: Spawn | 133277 | [133277-mortal-kombat-11-spawn.json](./133277-mortal-kombat-11-spawn.json) |
+| Mortal Kombat 11: Terminator T-800 | 133275 | [133275-mortal-kombat-11-terminator-t-800.json](./133275-mortal-kombat-11-terminator-t-800.json) |
 | Mortal Kombat 11: The Joker | 128009 | [128009-mortal-kombat-11-the-joker.json](./128009-mortal-kombat-11-the-joker.json) |
 | Mortal Kombat 11: Ultimate | 139446 | [139446-mortal-kombat-11-ultimate.json](./139446-mortal-kombat-11-ultimate.json) |
 | Mortal Kombat 11: Ultimate + Injustice 2 Legendary Edition Bundle | 164774 | [164774-mortal-kombat-11-ultimate-injustice-2-legendary-edition-bundle.json](./164774-mortal-kombat-11-ultimate-injustice-2-legendary-edition-bundle.json) |
