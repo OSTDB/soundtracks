@@ -2858,6 +2858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chakana | 377193 | [377193-chakana.json](./377193-chakana.json) |
 | Chakravyuh | 133981 | [133981-chakravyuh.json](./133981-chakravyuh.json) |
 | Chakusin Melody Damon | 283823 | [283823-chakusin-melody-damon.json](./283823-chakusin-melody-damon.json) |
+| Chalice | 151274 | [151274-chalice.json](./151274-chalice.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
 | Chalk Up! | 175184 | [175184-chalk-up.json](./175184-chalk-up.json) |
 | Challange of the Five Realms | 46576 | [46576-challange-of-the-five-realms.json](./46576-challange-of-the-five-realms.json) |
@@ -4513,6 +4514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuzzle Deluxe | 27748 | [27748-chuzzle-deluxe.json](./27748-chuzzle-deluxe.json) |
 | Chuzzle Snap | 266845 | [266845-chuzzle-snap.json](./266845-chuzzle-snap.json) |
 | Chuzzo | 316413 | [316413-chuzzo.json](./316413-chuzzo.json) |
+| CHV: VR Trunk Escape | 151306 | [151306-chv-vr-trunk-escape.json](./151306-chv-vr-trunk-escape.json) |
 | Chwæst: A Creeping Parasite Horror | 393633 | [393633-chw-st-a-creeping-parasite-horror.json](./393633-chw-st-a-creeping-parasite-horror.json) |
 | Chymicalia | 294180 | [294180-chymicalia.json](./294180-chymicalia.json) |
 | Chyrza | 142395 | [142395-chyrza.json](./142395-chyrza.json) |
@@ -6223,6 +6225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color FX Basketball | 245539 | [245539-color-fx-basketball.json](./245539-color-fx-basketball.json) |
 | Color FX Solitaire | 245538 | [245538-color-fx-solitaire.json](./245538-color-fx-solitaire.json) |
 | Color FX Space Invaders | 245534 | [245534-color-fx-space-invaders.json](./245534-color-fx-space-invaders.json) |
+| Color Game | 151295 | [151295-color-game.json](./151295-color-game.json) |
 | Color Hero | 116358 | [116358-color-hero.json](./116358-color-hero.json) |
 | Color Hockey | 105510 | [105510-color-hockey.json](./105510-color-hockey.json) |
 | Color Invader VR | 236874 | [236874-color-invader-vr.json](./236874-color-invader-vr.json) |
@@ -7432,6 +7435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Run: Puzzle World | 198315 | [198315-cookie-run-puzzle-world.json](./198315-cookie-run-puzzle-world.json) |
 | Cookie Run: Tower of Adventures | 198316 | [198316-cookie-run-tower-of-adventures.json](./198316-cookie-run-tower-of-adventures.json) |
 | Cookie Run: Witch's Castle | 193964 | [193964-cookie-run-witchs-castle.json](./193964-cookie-run-witchs-castle.json) |
+| Cookie Shop: Create Your Dream Shop | 151253 | [151253-cookie-shop-create-your-dream-shop.json](./151253-cookie-shop-create-your-dream-shop.json) |
 | Cookie Smash: Cookie Mania | 267338 | [267338-cookie-smash-cookie-mania.json](./267338-cookie-smash-cookie-mania.json) |
 | Cookie's Bakery | 181856 | [181856-cookies-bakery.json](./181856-cookies-bakery.json) |
 | Cookie's Bustle | 122887 | [122887-cookies-bustle.json](./122887-cookies-bustle.json) |
@@ -8571,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrashMetal: Drift Racing Car Driving Simulator - Premium Edition | 283151 | [283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json](./283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json) |
 | Crashocalypse | 201656 | [201656-crashocalypse.json](./201656-crashocalypse.json) |
 | Crashout Crew | 372144 | [372144-crashout-crew.json](./372144-crashout-crew.json) |
+| Crashtest | 151273 | [151273-crashtest.json](./151273-crashtest.json) |
 | CrashTV | 201616 | [201616-crashtv.json](./201616-crashtv.json) |
 | Crashy Cars! | 247178 | [247178-crashy-cars.json](./247178-crashy-cars.json) |
 | Crashy Cops! | 104642 | [104642-crashy-cops.json](./104642-crashy-cops.json) |
@@ -9507,6 +9512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown of Mardan | 67360 | [67360-crown-of-mardan.json](./67360-crown-of-mardan.json) |
 | Crown of Pain | 192880 | [192880-crown-of-pain.json](./192880-crown-of-pain.json) |
 | Crown of Silence | 385220 | [385220-crown-of-silence.json](./385220-crown-of-silence.json) |
+| Crown of the Empire Around the World | 151297 | [151297-crown-of-the-empire-around-the-world.json](./151297-crown-of-the-empire-around-the-world.json) |
 | Crown of the Empire: Collector's Edition | 273342 | [273342-crown-of-the-empire-collectors-edition.json](./273342-crown-of-the-empire-collectors-edition.json) |
 | Crown of the Empire: Temple of Resurrection - Collector's Edition | 417514 | [417514-crown-of-the-empire-temple-of-resurrection-collectors-edition.json](./417514-crown-of-the-empire-temple-of-resurrection-collectors-edition.json) |
 | Crown of the Empire: Timeloop | 417714 | [417714-crown-of-the-empire-timeloop.json](./417714-crown-of-the-empire-timeloop.json) |
