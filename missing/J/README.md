@@ -1011,14 +1011,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle: Delicious Foods | 282135 | [282135-jigsaw-puzzle-delicious-foods.json](./282135-jigsaw-puzzle-delicious-foods.json) |
 | Jigsaw Puzzle: Futanari Threesome | 220834 | [220834-jigsaw-puzzle-futanari-threesome.json](./220834-jigsaw-puzzle-futanari-threesome.json) |
 | Jigsaw Puzzle: New Year Collection | 351599 | [351599-jigsaw-puzzle-new-year-collection.json](./351599-jigsaw-puzzle-new-year-collection.json) |
+| Jigsaw Puzzle: Pro Edition | 162230 | [162230-jigsaw-puzzle-pro-edition.json](./162230-jigsaw-puzzle-pro-edition.json) |
+| Jigsaw Puzzle: Pro Edition - Expansion Pack 1 | 162233 | [162233-jigsaw-puzzle-pro-edition-expansion-pack-1.json](./162233-jigsaw-puzzle-pro-edition-expansion-pack-1.json) |
 | Jigsaw Puzzle: Pro Edition - Expansion Pack 10 | 162242 | [162242-jigsaw-puzzle-pro-edition-expansion-pack-10.json](./162242-jigsaw-puzzle-pro-edition-expansion-pack-10.json) |
 | Jigsaw Puzzle: Pro Edition - Expansion Pack 2 | 162240 | [162240-jigsaw-puzzle-pro-edition-expansion-pack-2.json](./162240-jigsaw-puzzle-pro-edition-expansion-pack-2.json) |
 | Jigsaw Puzzle: Pro Edition - Expansion Pack 3 | 162244 | [162244-jigsaw-puzzle-pro-edition-expansion-pack-3.json](./162244-jigsaw-puzzle-pro-edition-expansion-pack-3.json) |
+| Jigsaw Puzzle: Pro Edition - Expansion Pack 4 | 162237 | [162237-jigsaw-puzzle-pro-edition-expansion-pack-4.json](./162237-jigsaw-puzzle-pro-edition-expansion-pack-4.json) |
 | Jigsaw Puzzle: Pro Edition - Expansion Pack 5 | 162241 | [162241-jigsaw-puzzle-pro-edition-expansion-pack-5.json](./162241-jigsaw-puzzle-pro-edition-expansion-pack-5.json) |
 | Jigsaw Puzzle: Pro Edition - Expansion Pack 6 | 162243 | [162243-jigsaw-puzzle-pro-edition-expansion-pack-6.json](./162243-jigsaw-puzzle-pro-edition-expansion-pack-6.json) |
+| Jigsaw Puzzle: Pro Edition - Expansion Pack 7 | 162239 | [162239-jigsaw-puzzle-pro-edition-expansion-pack-7.json](./162239-jigsaw-puzzle-pro-edition-expansion-pack-7.json) |
+| Jigsaw Puzzle: Pro Edition - Expansion Pack 8 | 162238 | [162238-jigsaw-puzzle-pro-edition-expansion-pack-8.json](./162238-jigsaw-puzzle-pro-edition-expansion-pack-8.json) |
+| Jigsaw Puzzle: Pro Edition - Expansion Pack 9 | 162234 | [162234-jigsaw-puzzle-pro-edition-expansion-pack-9.json](./162234-jigsaw-puzzle-pro-edition-expansion-pack-9.json) |
 | Jigsaw Puzzle. Women's Day | 105903 | [105903-jigsaw-puzzle-womens-day.json](./105903-jigsaw-puzzle-womens-day.json) |
 | Jigsaw Puzzles | 357894 | [357894-jigsaw-puzzles.json](./357894-jigsaw-puzzles.json) |
 | Jigsaw Puzzles All in One | 239115 | [239115-jigsaw-puzzles-all-in-one.json](./239115-jigsaw-puzzles-all-in-one.json) |
+| Jigsaw Puzzles for Kids and Adults: Cute | 162232 | [162232-jigsaw-puzzles-for-kids-and-adults-cute.json](./162232-jigsaw-puzzles-for-kids-and-adults-cute.json) |
+| Jigsaw Puzzles for Kids and Adults: Europe | 162236 | [162236-jigsaw-puzzles-for-kids-and-adults-europe.json](./162236-jigsaw-puzzles-for-kids-and-adults-europe.json) |
+| Jigsaw Puzzles for Kids and Adults: Islands | 162231 | [162231-jigsaw-puzzles-for-kids-and-adults-islands.json](./162231-jigsaw-puzzles-for-kids-and-adults-islands.json) |
 | Jigsaw Puzzles Infinite: Cats & Dogs Puzzle Pack | 286238 | [286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json](./286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json) |
 | Jigsaw Puzzles: Puzzle Game | 223946 | [223946-jigsaw-puzzles-puzzle-game.json](./223946-jigsaw-puzzles-puzzle-game.json) |
 | Jigsaw Realms: Nature | 386369 | [386369-jigsaw-realms-nature.json](./386369-jigsaw-realms-nature.json) |
