@@ -2927,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Park | 17591 | [17591-wildlife-park.json](./17591-wildlife-park.json) |
 | Wildlife Park 2 | 17491 | [17491-wildlife-park-2.json](./17491-wildlife-park-2.json) |
 | Wildlife Park 2 - Horses | 36286 | [36286-wildlife-park-2-horses.json](./36286-wildlife-park-2-horses.json) |
+| Wildlife Park 2: Domestic Animals | 163273 | [163273-wildlife-park-2-domestic-animals.json](./163273-wildlife-park-2-domestic-animals.json) |
 | Wildlife Park 2: Kitz (fawn) | 163274 | [163274-wildlife-park-2-kitz-fawn.json](./163274-wildlife-park-2-kitz-fawn.json) |
 | Wildlife Park 2: Ultimate Edition | 53913 | [53913-wildlife-park-2-ultimate-edition.json](./53913-wildlife-park-2-ultimate-edition.json) |
 | Wildlife Park 3 | 17177 | [17177-wildlife-park-3.json](./17177-wildlife-park-3.json) |
