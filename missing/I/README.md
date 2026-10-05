@@ -2439,6 +2439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insect Planet TD | 111461 | [111461-insect-planet-td.json](./111461-insect-planet-td.json) |
 | Insect Planet TD | 111462 | [111462-insect-planet-td.json](./111462-insect-planet-td.json) |
 | Insect Wars | 249920 | [249920-insect-wars.json](./249920-insect-wars.json) |
+| Insect Worlds | 151294 | [151294-insect-worlds.json](./151294-insect-worlds.json) |
 | Insect: Bombardier beetle | 158075 | [158075-insect-bombardier-beetle.json](./158075-insect-bombardier-beetle.json) |
 | Insecta Vindicta | 377278 | [377278-insecta-vindicta.json](./377278-insecta-vindicta.json) |
 | Insectarium Alternative March | 320173 | [320173-insectarium-alternative-march.json](./320173-insectarium-alternative-march.json) |
@@ -2719,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internship Adventure | 179526 | [179526-internship-adventure.json](./179526-internship-adventure.json) |
 | Interphase | 129210 | [129210-interphase.json](./129210-interphase.json) |
 | Interplanet Ex | 178982 | [178982-interplanet-ex.json](./178982-interplanet-ex.json) |
+| Interplanetary Gardener | 151290 | [151290-interplanetary-gardener.json](./151290-interplanetary-gardener.json) |
 | Interplanetary Voyage | 41541 | [41541-interplanetary-voyage.json](./41541-interplanetary-voyage.json) |
 | Interplay Collection 1 | 130816 | [130816-interplay-collection-1.json](./130816-interplay-collection-1.json) |
 | Interplay Collection 2 | 130687 | [130687-interplay-collection-2.json](./130687-interplay-collection-2.json) |
@@ -3340,6 +3342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island King | 261415 | [261415-island-king.json](./261415-island-king.json) |
 | Island Life | 92439 | [92439-island-life.json](./92439-island-life.json) |
 | Island Master | 264680 | [264680-island-master.json](./264680-island-master.json) |
+| Island Mirrorge VR | 151291 | [151291-island-mirrorge-vr.json](./151291-island-mirrorge-vr.json) |
 | Island of 16 Sisters | 371864 | [371864-island-of-16-sisters.json](./371864-island-of-16-sisters.json) |
 | Island of 16 Sisters Part 2 | 371866 | [371866-island-of-16-sisters-part-2.json](./371866-island-of-16-sisters-part-2.json) |
 | Island of Aito | 199657 | [199657-island-of-aito.json](./199657-island-of-aito.json) |
