@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night at Sea | 228996 | [228996-a-night-at-sea.json](./228996-a-night-at-sea.json) |
 | A Night at the Watermill: Collector's Bundle | 336052 | [336052-a-night-at-the-watermill-collectors-bundle.json](./336052-a-night-at-the-watermill-collectors-bundle.json) |
 | A Night Before the Deadline | 145625 | [145625-a-night-before-the-deadline.json](./145625-a-night-before-the-deadline.json) |
+| A Night In Kyosaka | 154086 | [154086-a-night-in-kyosaka.json](./154086-a-night-in-kyosaka.json) |
 | A Night in Omar's Burger | 249928 | [249928-a-night-in-omars-burger.json](./249928-a-night-in-omars-burger.json) |
 | A Night in Vanet Manor | 147243 | [147243-a-night-in-vanet-manor.json](./147243-a-night-in-vanet-manor.json) |
 | A Night On The Farm | 266431 | [266431-a-night-on-the-farm.json](./266431-a-night-on-the-farm.json) |
@@ -679,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wanderer's Tale: Celebration of the Century | 266415 | [266415-a-wanderers-tale-celebration-of-the-century.json](./266415-a-wanderers-tale-celebration-of-the-century.json) |
 | A War On Christmas: Part 2 | 279773 | [279773-a-war-on-christmas-part-2.json](./279773-a-war-on-christmas-part-2.json) |
 | A Warmer Shade of Summer | 151192 | [151192-a-warmer-shade-of-summer.json](./151192-a-warmer-shade-of-summer.json) |
+| A Wave of Enemies | 154084 | [154084-a-wave-of-enemies.json](./154084-a-wave-of-enemies.json) |
 | A Wave of Lights | 175838 | [175838-a-wave-of-lights.json](./175838-a-wave-of-lights.json) |
 | A Way to Die | 159854 | [159854-a-way-to-die.json](./159854-a-way-to-die.json) |
 | A Week | 223494 | [223494-a-week.json](./223494-a-week.json) |
@@ -5371,6 +5373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anonymous Messages | 262649 | [262649-anonymous-messages.json](./262649-anonymous-messages.json) |
 | Anonymous;Code | 11776 | [11776-anonymous-code.json](./11776-anonymous-code.json) |
 | Anonymous;Code: Limited Edition | 201045 | [201045-anonymous-code-limited-edition.json](./201045-anonymous-code-limited-edition.json) |
+| Anopek | 154066 | [154066-anopek.json](./154066-anopek.json) |
 | Anorak City | 308468 | [308468-anorak-city.json](./308468-anorak-city.json) |
 | Anosognosia | 398584 | [398584-anosognosia.json](./398584-anosognosia.json) |
 | Another Adventure | 27776 | [27776-another-adventure.json](./27776-another-adventure.json) |
@@ -6633,6 +6636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archon Classic | 16208 | [16208-archon-classic.json](./16208-archon-classic.json) |
 | Archon: Initiator | 339920 | [339920-archon-initiator.json](./339920-archon-initiator.json) |
 | Archons: Arena | 264897 | [264897-archons-arena.json](./264897-archons-arena.json) |
+| Archquest | 154056 | [154056-archquest.json](./154056-archquest.json) |
 | ArchRobo: Robotic Annihilation | 55283 | [55283-archrobo-robotic-annihilation.json](./55283-archrobo-robotic-annihilation.json) |
 | Archtower | 177859 | [177859-archtower.json](./177859-archtower.json) |
 | Archvale | 152168 | [152168-archvale.json](./152168-archvale.json) |
@@ -7375,6 +7379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artisan Story | 260215 | [260215-artisan-story.json](./260215-artisan-story.json) |
 | Artist Colony | 23284 | [23284-artist-colony.json](./23284-artist-colony.json) |
 | Artist Idle | 146809 | [146809-artist-idle.json](./146809-artist-idle.json) |
+| Artist Life Simulator | 154076 | [154076-artist-life-simulator.json](./154076-artist-life-simulator.json) |
 | Artistic Girl 1 | 286792 | [286792-artistic-girl-1.json](./286792-artistic-girl-1.json) |
 | Artists of a Dead World | 177307 | [177307-artists-of-a-dead-world.json](./177307-artists-of-a-dead-world.json) |
 | Artists of Fortune: Distant Worlds - Crystallus Planet | 148349 | [148349-artists-of-fortune-distant-worlds-crystallus-planet.json](./148349-artists-of-fortune-distant-worlds-crystallus-planet.json) |
