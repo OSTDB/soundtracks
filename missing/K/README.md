@@ -1957,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kipidon: We Will Always Love You | 337455 | [337455-kipidon-we-will-always-love-you.json](./337455-kipidon-we-will-always-love-you.json) |
 | KIPP: Untouched | 225632 | [225632-kipp-untouched.json](./225632-kipp-untouched.json) |
 | Kira | 29151 | [29151-kira.json](./29151-kira.json) |
+| Kira and the Life Stone | 170901 | [170901-kira-and-the-life-stone.json](./170901-kira-and-the-life-stone.json) |
 | Kira Kira | 140523 | [140523-kira-kira.json](./140523-kira-kira.json) |
 | Kira Kira Pop Princess | 26560 | [26560-kira-kira-pop-princess.json](./26560-kira-kira-pop-princess.json) |
 | Kira Kira Rainbow Pack | 26562 | [26562-kira-kira-rainbow-pack.json](./26562-kira-kira-rainbow-pack.json) |
@@ -3022,6 +3023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kroniki Elevena | 236807 | [236807-kroniki-elevena.json](./236807-kroniki-elevena.json) |
 | Kronno Zomber | 240271 | [240271-kronno-zomber.json](./240271-kronno-zomber.json) |
 | Kronolog: The Nazi Paradox | 50481 | [50481-kronolog-the-nazi-paradox.json](./50481-kronolog-the-nazi-paradox.json) |
+| Kronos: Wisdom Trials | 170870 | [170870-kronos-wisdom-trials.json](./170870-kronos-wisdom-trials.json) |
 | Kronville: Stolen Dreams | 53262 | [53262-kronville-stolen-dreams.json](./53262-kronville-stolen-dreams.json) |
 | Krosfighter | 275844 | [275844-krosfighter.json](./275844-krosfighter.json) |
 | Krosmaga | 29097 | [29097-krosmaga.json](./29097-krosmaga.json) |
