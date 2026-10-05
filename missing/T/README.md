@@ -4852,6 +4852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Evelyn Game | 370315 | [370315-the-evelyn-game.json](./370315-the-evelyn-game.json) |
 | The Event | 253479 | [253479-the-event.json](./253479-the-event.json) |
 | The Eventide | 411687 | [411687-the-eventide.json](./411687-the-eventide.json) |
+| The Ever-Beginning Tale | 171981 | [171981-the-ever-beginning-tale.json](./171981-the-ever-beginning-tale.json) |
 | The Evidence | 209567 | [209567-the-evidence.json](./209567-the-evidence.json) |
 | The Evil Dead | 25832 | [25832-the-evil-dead.json](./25832-the-evil-dead.json) |
 | The Evil Resides | 180636 | [180636-the-evil-resides.json](./180636-the-evil-resides.json) |
@@ -7319,6 +7320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maze Runner | 138159 | [138159-the-maze-runner.json](./138159-the-maze-runner.json) |
 | The Maze VR | 130289 | [130289-the-maze-vr.json](./130289-the-maze-vr.json) |
 | The Maze Wars | 365285 | [365285-the-maze-wars.json](./365285-the-maze-wars.json) |
+| The McCarthy Chronicles: Episode 1 | 171983 | [171983-the-mccarthy-chronicles-episode-1.json](./171983-the-mccarthy-chronicles-episode-1.json) |
 | The Meaning | 203303 | [203303-the-meaning.json](./203303-the-meaning.json) |
 | The Meaning of Auri | 349310 | [349310-the-meaning-of-auri.json](./349310-the-meaning-of-auri.json) |
 | The Meating | 141111 | [141111-the-meating.json](./141111-the-meating.json) |
@@ -12482,6 +12484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinkertown | 133078 | [133078-tinkertown.json](./133078-tinkertown.json) |
 | Tinkertown x Among Us | 222931 | [222931-tinkertown-x-among-us.json](./222931-tinkertown-x-among-us.json) |
 | Tinkle Pit | 59666 | [59666-tinkle-pit.json](./59666-tinkle-pit.json) |
+| Tint n Ink | 171975 | [171975-tint-n-ink.json](./171975-tint-n-ink.json) |
 | Tint The Saver | 334181 | [334181-tint-the-saver.json](./334181-tint-the-saver.json) |
 | Tint. | 125817 | [125817-tint.json](./125817-tint.json) |
 | Tintin in Tibet | 249147 | [249147-tintin-in-tibet.json](./249147-tintin-in-tibet.json) |
