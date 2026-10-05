@@ -1425,6 +1425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam Blaster: Atomic Enforcer | 73362 | [73362-adam-blaster-atomic-enforcer.json](./73362-adam-blaster-atomic-enforcer.json) |
 | Adam: Robot World | 126385 | [126385-adam-robot-world.json](./126385-adam-robot-world.json) |
 | Adam's Venture: Origins | 16298 | [16298-adams-venture-origins.json](./16298-adams-venture-origins.json) |
+| Adam's Venture: Origins - Deluxe Edition | 118747 | [118747-adams-venture-origins-deluxe-edition.json](./118747-adams-venture-origins-deluxe-edition.json) |
 | Adamantine Cruelty | 271248 | [271248-adamantine-cruelty.json](./271248-adamantine-cruelty.json) |
 | Adanath | 219701 | [219701-adanath.json](./219701-adanath.json) |
 | Adapta Solva | 283893 | [283893-adapta-solva.json](./283893-adapta-solva.json) |
@@ -2154,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Farming | 30500 | [30500-age-of-farming.json](./30500-age-of-farming.json) |
 | Age of Fear 2: The Chaos Lord Gold | 180125 | [180125-age-of-fear-2-the-chaos-lord-gold.json](./180125-age-of-fear-2-the-chaos-lord-gold.json) |
 | Age of Fear 3: The Legend | 51550 | [51550-age-of-fear-3-the-legend.json](./51550-age-of-fear-3-the-legend.json) |
+| Age of Fear 4: The Iron Killer | 118733 | [118733-age-of-fear-4-the-iron-killer.json](./118733-age-of-fear-4-the-iron-killer.json) |
 | Age of Fear: The Undead King | 9952 | [9952-age-of-fear-the-undead-king.json](./9952-age-of-fear-the-undead-king.json) |
 | Age of Fear: The Undead King Gold - The Quest for Immortality | 171429 | [171429-age-of-fear-the-undead-king-gold-the-quest-for-immortality.json](./171429-age-of-fear-the-undead-king-gold-the-quest-for-immortality.json) |
 | Age of Fear: Total | 249875 | [249875-age-of-fear-total.json](./249875-age-of-fear-total.json) |
@@ -5971,6 +5973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo Justice: Turnabout Substitution | 143498 | [143498-apollo-justice-turnabout-substitution.json](./143498-apollo-justice-turnabout-substitution.json) |
 | Apollo LM | 174288 | [174288-apollo-lm.json](./174288-apollo-lm.json) |
 | Apollo Lunar Mission | 158571 | [158571-apollo-lunar-mission.json](./158571-apollo-lunar-mission.json) |
+| Apollo Titanic Bundle | 118856 | [118856-apollo-titanic-bundle.json](./118856-apollo-titanic-bundle.json) |
 | Apollo X | 120292 | [120292-apollo-x.json](./120292-apollo-x.json) |
 | Apollo's Palace | 186601 | [186601-apollos-palace.json](./186601-apollos-palace.json) |
 | Apollo4x | 26978 | [26978-apollo4x.json](./26978-apollo4x.json) |
@@ -7964,6 +7967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Liberation HD | 20864 | [20864-assassins-creed-liberation-hd.json](./20864-assassins-creed-liberation-hd.json) |
 | Assassin's Creed: Lost Legacy | 78709 | [78709-assassins-creed-lost-legacy.json](./78709-assassins-creed-lost-legacy.json) |
 | Assassin's Creed: Modern Revolutions Pack | 219003 | [219003-assassins-creed-modern-revolutions-pack.json](./219003-assassins-creed-modern-revolutions-pack.json) |
+| Assassin's Creed: Naval Edition | 118861 | [118861-assassins-creed-naval-edition.json](./118861-assassins-creed-naval-edition.json) |
 | Assassin's Creed: Odyssey - Cloud Version | 109463 | [109463-assassins-creed-odyssey-cloud-version.json](./109463-assassins-creed-odyssey-cloud-version.json) |
 | Assassin's Creed: Odyssey - Deluxe Edition | 24811 | [24811-assassins-creed-odyssey-deluxe-edition.json](./24811-assassins-creed-odyssey-deluxe-edition.json) |
 | Assassin's Creed: Odyssey - Gold Edition | 23648 | [23648-assassins-creed-odyssey-gold-edition.json](./23648-assassins-creed-odyssey-gold-edition.json) |
@@ -8457,6 +8461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asylum of the Forsaken | 318619 | [318619-asylum-of-the-forsaken.json](./318619-asylum-of-the-forsaken.json) |
 | Asylum: Patient Zero | 337192 | [337192-asylum-patient-zero.json](./337192-asylum-patient-zero.json) |
 | Asym Altered Axis | 205794 | [205794-asym-altered-axis.json](./205794-asym-altered-axis.json) |
+| Asymmetric Ops | 118791 | [118791-asymmetric-ops.json](./118791-asymmetric-ops.json) |
 | Asyula | 57030 | [57030-asyula.json](./57030-asyula.json) |
 | ASZG Project | 236296 | [236296-aszg-project.json](./236296-aszg-project.json) |
 | ASZG Project: Director's Cut | 338175 | [338175-aszg-project-directors-cut.json](./338175-aszg-project-directors-cut.json) |
@@ -8832,6 +8837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on the Deathstar | 181203 | [181203-attack-on-the-deathstar.json](./181203-attack-on-the-deathstar.json) |
 | Attack on Time | 193848 | [193848-attack-on-time.json](./193848-attack-on-time.json) |
 | Attack on Titan | 14879 | [14879-attack-on-titan.json](./14879-attack-on-titan.json) |
+| Attack on Titan 2: Deluxe Edition | 118888 | [118888-attack-on-titan-2-deluxe-edition.json](./118888-attack-on-titan-2-deluxe-edition.json) |
 | Attack on Titan 2: Second Victory | 170829 | [170829-attack-on-titan-2-second-victory.json](./170829-attack-on-titan-2-second-victory.json) |
 | Attack on Titan 2: Singular Target | 200426 | [200426-attack-on-titan-2-singular-target.json](./200426-attack-on-titan-2-singular-target.json) |
 | Attack on Titan 2: Treasure Box - Limited Edition | 212312 | [212312-attack-on-titan-2-treasure-box-limited-edition.json](./212312-attack-on-titan-2-treasure-box-limited-edition.json) |
