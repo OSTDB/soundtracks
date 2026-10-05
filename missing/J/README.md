@@ -1630,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judie no Atelier: Gramnad no Renkinjutsushi | 26514 | [26514-judie-no-atelier-gramnad-no-renkinjutsushi.json](./26514-judie-no-atelier-gramnad-no-renkinjutsushi.json) |
 | Judies | 125363 | [125363-judies.json](./125363-judies.json) |
 | Judofuri | 311170 | [311170-judofuri.json](./311170-judofuri.json) |
+| Juémèng: Cyber | 154587 | [154587-juemeng-cyber.json](./154587-juemeng-cyber.json) |
 | Jug | 67670 | [67670-jug.json](./67670-jug.json) |
 | Juggernaut | 341138 | [341138-juggernaut.json](./341138-juggernaut.json) |
 | Juggernaut Champions | 56573 | [56573-juggernaut-champions.json](./56573-juggernaut-champions.json) |
