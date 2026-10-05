@@ -2914,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildfire | 263518 | [263518-wildfire.json](./263518-wildfire.json) |
 | Wildfire | 33813 | [33813-wildfire.json](./33813-wildfire.json) |
 | Wildfire | 94915 | [94915-wildfire.json](./94915-wildfire.json) |
+| Wildfire: Ticket to Rock | 161719 | [161719-wildfire-ticket-to-rock.json](./161719-wildfire-ticket-to-rock.json) |
 | Wildflower: From the Embers | 178095 | [178095-wildflower-from-the-embers.json](./178095-wildflower-from-the-embers.json) |
 | WildFront | 274474 | [274474-wildfront.json](./274474-wildfront.json) |
 | Wildheart Gourmet | 356753 | [356753-wildheart-gourmet.json](./356753-wildheart-gourmet.json) |
