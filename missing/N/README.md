@@ -2698,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NineLives | 273449 | [273449-ninelives.json](./273449-ninelives.json) |
 | Nineteen | 128654 | [128654-nineteen.json](./128654-nineteen.json) |
 | Nineteen: 19 | 413046 | [413046-nineteen-19.json](./413046-nineteen-19.json) |
+| Ninety Days | 149683 | [149683-ninety-days.json](./149683-ninety-days.json) |
 | Ninety Thousand Acres | 321499 | [321499-ninety-thousand-acres.json](./321499-ninety-thousand-acres.json) |
 | Ninety-Nine Nights Online | 66135 | [66135-ninety-nine-nights-online.json](./66135-ninety-nine-nights-online.json) |
 | Ninety8 | 246977 | [246977-ninety8.json](./246977-ninety8.json) |
@@ -2896,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninjala Story Pack: Chapter Four | 247585 | [247585-ninjala-story-pack-chapter-four.json](./247585-ninjala-story-pack-chapter-four.json) |
 | Ninjamurai | 44521 | [44521-ninjamurai.json](./44521-ninjamurai.json) |
 | Ninjapple | 129666 | [129666-ninjapple.json](./129666-ninjapple.json) |
+| Ninjas Busters: Whack A Ninja | 149712 | [149712-ninjas-busters-whack-a-ninja.json](./149712-ninjas-busters-whack-a-ninja.json) |
 | Ninjas Infinity | 339842 | [339842-ninjas-infinity.json](./339842-ninjas-infinity.json) |
 | Ninjas on Trampolines | 351613 | [351613-ninjas-on-trampolines.json](./351613-ninjas-on-trampolines.json) |
 | Ninjas Stars | 344967 | [344967-ninjas-stars.json](./344967-ninjas-stars.json) |
@@ -3113,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Heroes | 62814 | [62814-no-heroes.json](./62814-no-heroes.json) |
 | No Heroes Allowed! | 234732 | [234732-no-heroes-allowed.json](./234732-no-heroes-allowed.json) |
 | No Heroes Allowed! | 67381 | [67381-no-heroes-allowed.json](./67381-no-heroes-allowed.json) |
+| No Hope | 149685 | [149685-no-hope.json](./149685-no-hope.json) |
 | No Horizon | 109572 | [109572-no-horizon.json](./109572-no-horizon.json) |
 | No Internet | 292053 | [292053-no-internet.json](./292053-no-internet.json) |
 | No JetPacks For Chattini | 346015 | [346015-no-jetpacks-for-chattini.json](./346015-no-jetpacks-for-chattini.json) |
