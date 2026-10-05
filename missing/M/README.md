@@ -2354,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars | 91393 | [91393-mars.json](./91393-mars.json) |
 | Mars 2030 | 51519 | [51519-mars-2030.json](./51519-mars-2030.json) |
 | Mars 2055 | 208437 | [208437-mars-2055.json](./208437-mars-2055.json) |
+| Mars 3D | 159197 | [159197-mars-3d.json](./159197-mars-3d.json) |
 | Mars Accident | 157477 | [157477-mars-accident.json](./157477-mars-accident.json) |
 | Mars Assault: 3D Shooter | 294849 | [294849-mars-assault-3d-shooter.json](./294849-mars-assault-3d-shooter.json) |
 | Mars Attracts | 314419 | [314419-mars-attracts.json](./314419-mars-attracts.json) |
@@ -3875,6 +3876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medium: The Psychic Party Game | 161158 | [161158-medium-the-psychic-party-game.json](./161158-medium-the-psychic-party-game.json) |
 | Medival Hustle | 304578 | [304578-medival-hustle.json](./304578-medival-hustle.json) |
 | Medivination | 302505 | [302505-medivination.json](./302505-medivination.json) |
+| Medoka Magik Grls Extended | 159229 | [159229-medoka-magik-grls-extended.json](./159229-medoka-magik-grls-extended.json) |
 | Medulla | 147254 | [147254-medulla.json](./147254-medulla.json) |
 | Medusa and Her Lover | 122930 | [122930-medusa-and-her-lover.json](./122930-medusa-and-her-lover.json) |
 | Medusa Frontier | 196889 | [196889-medusa-frontier.json](./196889-medusa-frontier.json) |
