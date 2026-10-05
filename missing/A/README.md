@@ -4713,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel's Feather: Kuro no Zanei | 51428 | [51428-angels-feather-kuro-no-zanei.json](./51428-angels-feather-kuro-no-zanei.json) |
 | Angel's Lullaby | 330360 | [330360-angels-lullaby.json](./330360-angels-lullaby.json) |
 | Angel's Present: A Marl Kingdom Story | 76591 | [76591-angels-present-a-marl-kingdom-story.json](./76591-angels-present-a-marl-kingdom-story.json) |
+| Angel's Punishment | 165599 | [165599-angels-punishment.json](./165599-angels-punishment.json) |
 | Angel's Return | 401524 | [401524-angels-return.json](./401524-angels-return.json) |
 | Angel's Tale: An extraordinary love story | 166054 | [166054-angels-tale-an-extraordinary-love-story.json](./166054-angels-tale-an-extraordinary-love-story.json) |
 | Angela Knife | 198325 | [198325-angela-knife.json](./198325-angela-knife.json) |
@@ -5253,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Old Town Pack | 227938 | [227938-anno-1800-old-town-pack.json](./227938-anno-1800-old-town-pack.json) |
 | Anno 1800: Pirate Cove Pack | 317336 | [317336-anno-1800-pirate-cove-pack.json](./317336-anno-1800-pirate-cove-pack.json) |
 | Anno 1800: Seeds of Change | 197349 | [197349-anno-1800-seeds-of-change.json](./197349-anno-1800-seeds-of-change.json) |
+| Anno 1800: The High Life | 165588 | [165588-anno-1800-the-high-life.json](./165588-anno-1800-the-high-life.json) |
 | Anno 1800: The Passage | 121765 | [121765-anno-1800-the-passage.json](./121765-anno-1800-the-passage.json) |
 | Anno 1800: Tourist Season | 151204 | [151204-anno-1800-tourist-season.json](./151204-anno-1800-tourist-season.json) |
 | Anno 2070: Bonus Edition | 180261 | [180261-anno-2070-bonus-edition.json](./180261-anno-2070-bonus-edition.json) |
@@ -6239,6 +6241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Soldier Girl Amazon | 99540 | [99540-arcade-archives-soldier-girl-amazon.json](./99540-arcade-archives-soldier-girl-amazon.json) |
 | Arcade Archives: Solitary Fighter | 282154 | [282154-arcade-archives-solitary-fighter.json](./282154-arcade-archives-solitary-fighter.json) |
 | Arcade Archives: Solomon's Key | 99564 | [99564-arcade-archives-solomons-key.json](./99564-arcade-archives-solomons-key.json) |
+| Arcade Archives: Space Cruiser | 165601 | [165601-arcade-archives-space-cruiser.json](./165601-arcade-archives-space-cruiser.json) |
 | Arcade Archives: Super Pac-Man | 187461 | [187461-arcade-archives-super-pac-man.json](./187461-arcade-archives-super-pac-man.json) |
 | Arcade Archives: Super Xevious | 342799 | [342799-arcade-archives-super-xevious.json](./342799-arcade-archives-super-xevious.json) |
 | Arcade Archives: Syvalion | 410362 | [410362-arcade-archives-syvalion.json](./410362-arcade-archives-syvalion.json) |
@@ -6264,6 +6267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: TX-1 | 411810 | [411810-arcade-archives-tx-1.json](./411810-arcade-archives-tx-1.json) |
 | Arcade Archives: Typhoon Gal | 173130 | [173130-arcade-archives-typhoon-gal.json](./173130-arcade-archives-typhoon-gal.json) |
 | Arcade Archives: Urban Champion | 68314 | [68314-arcade-archives-urban-champion.json](./68314-arcade-archives-urban-champion.json) |
+| Arcade Archives: Vandyke | 165600 | [165600-arcade-archives-vandyke.json](./165600-arcade-archives-vandyke.json) |
 | Arcade Archives: Vigilante | 121716 | [121716-arcade-archives-vigilante.json](./121716-arcade-archives-vigilante.json) |
 | Arcade Archives: Violence Fight | 320312 | [320312-arcade-archives-violence-fight.json](./320312-arcade-archives-violence-fight.json) |
 | Arcade Archives: Volfied | 294820 | [294820-arcade-archives-volfied.json](./294820-arcade-archives-volfied.json) |
@@ -6641,6 +6645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardena | 369769 | [369769-ardena.json](./369769-ardena.json) |
 | Ardency: Heart of the Rebellion | 297788 | [297788-ardency-heart-of-the-rebellion.json](./297788-ardency-heart-of-the-rebellion.json) |
 | Ardenfall | 191817 | [191817-ardenfall.json](./191817-ardenfall.json) |
+| Ardennes Offensive | 165489 | [165489-ardennes-offensive.json](./165489-ardennes-offensive.json) |
 | Ardent Azur | 211442 | [211442-ardent-azur.json](./211442-ardent-azur.json) |
 | Ardent Fever | 316980 | [316980-ardent-fever.json](./316980-ardent-fever.json) |
 | Ardent Passions | 261774 | [261774-ardent-passions.json](./261774-ardent-passions.json) |
