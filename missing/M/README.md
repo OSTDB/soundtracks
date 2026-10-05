@@ -3061,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchpoint: Tennis Championships - Legends Edition | 199628 | [199628-matchpoint-tennis-championships-legends-edition.json](./199628-matchpoint-tennis-championships-legends-edition.json) |
 | Matchpoop | 265122 | [265122-matchpoop.json](./265122-matchpoop.json) |
 | MatchR: Now Hiring | 217247 | [217247-matchr-now-hiring.json](./217247-matchr-now-hiring.json) |
+| Matchstick Elegy | 145919 | [145919-matchstick-elegy.json](./145919-matchstick-elegy.json) |
 | Matchstick: Cosmic Flame | 333554 | [333554-matchstick-cosmic-flame.json](./333554-matchstick-cosmic-flame.json) |
 | Matchsticks | 252146 | [252146-matchsticks.json](./252146-matchsticks.json) |
 | Matchsticks: Coffee Break Club | 169459 | [169459-matchsticks-coffee-break-club.json](./169459-matchsticks-coffee-break-club.json) |
@@ -3599,6 +3600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meccha! Taiko no Tatsujin DS: 7-tsu no Shima no Daibouken | 72548 | [72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json](./72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json) |
 | Mech 4X | 395899 | [395899-mech-4x.json](./395899-mech-4x.json) |
 | Mech Ace Combat Trainer | 31880 | [31880-mech-ace-combat-trainer.json](./31880-mech-ace-combat-trainer.json) |
+| Mech Armada | 145929 | [145929-mech-armada.json](./145929-mech-armada.json) |
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
 | Mech Commander Gold | 51238 | [51238-mech-commander-gold.json](./51238-mech-commander-gold.json) |
 | Mech Explorer | 326680 | [326680-mech-explorer.json](./326680-mech-explorer.json) |
@@ -5519,6 +5521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miami Cruise | 105087 | [105087-miami-cruise.json](./105087-miami-cruise.json) |
 | Miami Horizon 2077 | 238735 | [238735-miami-horizon-2077.json](./238735-miami-horizon-2077.json) |
 | Miami Law | 20281 | [20281-miami-law.json](./20281-miami-law.json) |
+| Miami Nights 2: The City Is Yours | 145915 | [145915-miami-nights-2-the-city-is-yours.json](./145915-miami-nights-2-the-city-is-yours.json) |
 | Miami Nights: Bartending in the 80s | 312138 | [312138-miami-nights-bartending-in-the-80s.json](./312138-miami-nights-bartending-in-the-80s.json) |
 | Miami Nights: Singles in the City | 21284 | [21284-miami-nights-singles-in-the-city.json](./21284-miami-nights-singles-in-the-city.json) |
 | Miami Shark | 234942 | [234942-miami-shark.json](./234942-miami-shark.json) |
