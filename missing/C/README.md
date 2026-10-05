@@ -1138,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carbon Warfare | 106128 | [106128-carbon-warfare.json](./106128-carbon-warfare.json) |
 | Carbonflesh | 224641 | [224641-carbonflesh.json](./224641-carbonflesh.json) |
 | Carbox | 317997 | [317997-carbox.json](./317997-carbox.json) |
+| Carcará: Asas da Justiça | 133857 | [133857-carcara-asas-da-justica.json](./133857-carcara-asas-da-justica.json) |
 | Carcassonne | 370250 | [370250-carcassonne.json](./370250-carcassonne.json) |
 | Carcassonne: The Official Board Game - Inns & Cathedrals | 171018 | [171018-carcassonne-the-official-board-game-inns-and-cathedrals.json](./171018-carcassonne-the-official-board-game-inns-and-cathedrals.json) |
 | Carcassonne: The Official Board Game - The Princess & the Dragon | 155175 | [155175-carcassonne-the-official-board-game-the-princess-and-the-dragon.json](./155175-carcassonne-the-official-board-game-the-princess-and-the-dragon.json) |
@@ -5315,6 +5316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Cluck | 381145 | [381145-click-cluck.json](./381145-click-cluck.json) |
 | Click Defense | 119722 | [119722-click-defense.json](./119722-click-defense.json) |
 | Click Deity | 246660 | [246660-click-deity.json](./246660-click-deity.json) |
+| Click for Biscuits! | 133766 | [133766-click-for-biscuits.json](./133766-click-for-biscuits.json) |
 | Click For Cash: Cashed Out | 265944 | [265944-click-for-cash-cashed-out.json](./265944-click-for-cash-cashed-out.json) |
 | Click Here | 264761 | [264761-click-here.json](./264761-click-here.json) |
 | Click Legends | 118597 | [118597-click-legends.json](./118597-click-legends.json) |
