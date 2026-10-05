@@ -2379,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Vampire | 307721 | [307721-epic-vampire.json](./307721-epic-vampire.json) |
 | Epic Walk | 324881 | [324881-epic-walk.json](./324881-epic-walk.json) |
 | Epic War 1 | 86057 | [86057-epic-war-1.json](./86057-epic-war-1.json) |
+| Epic World | 126970 | [126970-epic-world.json](./126970-epic-world.json) |
 | Epic Zombies | 293620 | [293620-epic-zombies.json](./293620-epic-zombies.json) |
 | Epica | 31048 | [31048-epica.json](./31048-epica.json) |
 | Epicedium | 102797 | [102797-epicedium.json](./102797-epicedium.json) |
