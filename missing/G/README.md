@@ -4832,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grief Like a Stray Dog | 195531 | [195531-grief-like-a-stray-dog.json](./195531-grief-like-a-stray-dog.json) |
 | Grief Trigger | 236514 | [236514-grief-trigger.json](./236514-grief-trigger.json) |
 | Grief: How to say goodbye | 182851 | [182851-grief-how-to-say-goodbye.json](./182851-grief-how-to-say-goodbye.json) |
+| Grievance | 135614 | [135614-grievance.json](./135614-grievance.json) |
 | Grieving: Berduka | 372674 | [372674-grieving-berduka.json](./372674-grieving-berduka.json) |
 | Grievous Onslaught | 245966 | [245966-grievous-onslaught.json](./245966-grievous-onslaught.json) |
 | Grievous Survivors | 235680 | [235680-grievous-survivors.json](./235680-grievous-survivors.json) |
@@ -5098,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grotesque Insight | 258622 | [258622-grotesque-insight.json](./258622-grotesque-insight.json) |
 | Grotesque Tactics: Evil Heroes | 18914 | [18914-grotesque-tactics-evil-heroes.json](./18914-grotesque-tactics-evil-heroes.json) |
 | Grottesco Absurdus | 110558 | [110558-grottesco-absurdus.json](./110558-grottesco-absurdus.json) |
+| Grotto | 135631 | [135631-grotto.json](./135631-grotto.json) |
 | Grotto Beasts Arena | 293234 | [293234-grotto-beasts-arena.json](./293234-grotto-beasts-arena.json) |
 | Grotto King | 282004 | [282004-grotto-king.json](./282004-grotto-king.json) |
 | Grottonnia | 171560 | [171560-grottonnia.json](./171560-grottonnia.json) |
