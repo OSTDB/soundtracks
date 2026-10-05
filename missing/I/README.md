@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ic2005 | 256861 | [256861-ic2005.json](./256861-ic2005.json) |
 | Icarace | 125825 | [125825-icarace.json](./125825-icarace.json) |
 | iCarly ipinball | 374219 | [374219-icarly-ipinball.json](./374219-icarly-ipinball.json) |
+| iCarly: Gibby Pinball | 141486 | [141486-icarly-gibby-pinball.json](./141486-icarly-gibby-pinball.json) |
 | iCarly: Groovy Foodie! | 25187 | [25187-icarly-groovy-foodie.json](./25187-icarly-groovy-foodie.json) |
 | iCarly: iDream in Toons | 210060 | [210060-icarly-idream-in-toons.json](./210060-icarly-idream-in-toons.json) |
 | ICarly: Isock it to 'Em | 210076 | [210076-icarly-isock-it-to-em.json](./210076-icarly-isock-it-to-em.json) |
@@ -1830,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indies' Lies: Desires Flowing | 349374 | [349374-indies-lies-desires-flowing.json](./349374-indies-lies-desires-flowing.json) |
 | Indigenous | 26555 | [26555-indigenous.json](./26555-indigenous.json) |
 | Indignum | 397664 | [397664-indignum.json](./397664-indignum.json) |
+| Indigo | 141553 | [141553-indigo.json](./141553-indigo.json) |
 | Indigo | 257441 | [257441-indigo.json](./257441-indigo.json) |
 | Indigo | 25945 | [25945-indigo.json](./25945-indigo.json) |
 | Indigo | 388713 | [388713-indigo.json](./388713-indigo.json) |
@@ -3562,6 +3564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Dark Inside | 235675 | [235675-its-dark-inside.json](./235675-its-dark-inside.json) |
 | It's Dungeon Time! | 172748 | [172748-its-dungeon-time.json](./172748-its-dungeon-time.json) |
 | It's Either Them Or Us | 298812 | [298812-its-either-them-or-us.json](./298812-its-either-them-or-us.json) |
+| It's Fall | 141491 | [141491-its-fall.json](./141491-its-fall.json) |
 | It's Fine | 382473 | [382473-its-fine.json](./382473-its-fine.json) |
 | It's Full of Stars | 204098 | [204098-its-full-of-stars.json](./204098-its-full-of-stars.json) |
 | It's good to be a pirate | 110780 | [110780-its-good-to-be-a-pirate.json](./110780-its-good-to-be-a-pirate.json) |
