@@ -3128,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charge | 120992 | [120992-charge.json](./120992-charge.json) |
 | Charge Blade Hero | 158642 | [158642-charge-blade-hero.json](./158642-charge-blade-hero.json) |
 | Charge Cycles | 183976 | [183976-charge-cycles.json](./183976-charge-cycles.json) |
+| Charge Kid | 144576 | [144576-charge-kid.json](./144576-charge-kid.json) |
 | Charge Up | 413091 | [413091-charge-up.json](./413091-charge-up.json) |
 | Charge! | 148692 | [148692-charge.json](./148692-charge.json) |
 | Charge! | 219101 | [219101-charge.json](./219101-charge.json) |
@@ -8626,6 +8627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crawl Space | 186064 | [186064-crawl-space.json](./186064-crawl-space.json) |
 | Crawl Tactics | 211211 | [211211-crawl-tactics.json](./211211-crawl-tactics.json) |
 | Crawl to Edge | 234621 | [234621-crawl-to-edge.json](./234621-crawl-to-edge.json) |
+| Crawlco Block Knockers | 144623 | [144623-crawlco-block-knockers.json](./144623-crawlco-block-knockers.json) |
 | Crawler | 380096 | [380096-crawler.json](./380096-crawler.json) |
 | Crawlies | 181840 | [181840-crawlies.json](./181840-crawlies.json) |
 | Crawlies Re-Hatched | 418719 | [418719-crawlies-re-hatched.json](./418719-crawlies-re-hatched.json) |
@@ -8706,13 +8708,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken Carnival | 268116 | [268116-crazy-chicken-carnival.json](./268116-crazy-chicken-carnival.json) |
 | Crazy Chicken Jump'n Run: Atlantis Quest | 282571 | [282571-crazy-chicken-jumpn-run-atlantis-quest.json](./282571-crazy-chicken-jumpn-run-atlantis-quest.json) |
 | Crazy Chicken Kart Extra | 92853 | [92853-crazy-chicken-kart-extra.json](./92853-crazy-chicken-kart-extra.json) |
+| Crazy Chicken Mah-Jongg | 144590 | [144590-crazy-chicken-mah-jongg.json](./144590-crazy-chicken-mah-jongg.json) |
 | Crazy Chicken Pinball Vol. 1 | 96540 | [96540-crazy-chicken-pinball-vol-1.json](./96540-crazy-chicken-pinball-vol-1.json) |
+| Crazy Chicken Quest | 144595 | [144595-crazy-chicken-quest.json](./144595-crazy-chicken-quest.json) |
 | Crazy Chicken Strikes Back | 83239 | [83239-crazy-chicken-strikes-back.json](./83239-crazy-chicken-strikes-back.json) |
 | Crazy Chicken Xtreme | 198390 | [198390-crazy-chicken-xtreme.json](./198390-crazy-chicken-xtreme.json) |
 | Crazy Chicken: Director's Cut | 83234 | [83234-crazy-chicken-directors-cut.json](./83234-crazy-chicken-directors-cut.json) |
 | Crazy Chicken: Pirates | 23673 | [23673-crazy-chicken-pirates.json](./23673-crazy-chicken-pirates.json) |
 | Crazy Chicken: Pirates | 282572 | [282572-crazy-chicken-pirates.json](./282572-crazy-chicken-pirates.json) |
 | Crazy Chicken: Shooter Edition | 143060 | [143060-crazy-chicken-shooter-edition.json](./143060-crazy-chicken-shooter-edition.json) |
+| Crazy Chicken: The Winged Pharaoh | 144592 | [144592-crazy-chicken-the-winged-pharaoh.json](./144592-crazy-chicken-the-winged-pharaoh.json) |
 | Crazy Christmas | 101762 | [101762-crazy-christmas.json](./101762-crazy-christmas.json) |
 | Crazy Christmas | 310552 | [310552-crazy-christmas.json](./310552-crazy-christmas.json) |
 | Crazy Circus | 269748 | [269748-crazy-circus.json](./269748-crazy-circus.json) |
