@@ -2294,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleCrypt Bombers | 226238 | [226238-battlecrypt-bombers.json](./226238-battlecrypt-bombers.json) |
 | BattleCubes: Arena | 116333 | [116333-battlecubes-arena.json](./116333-battlecubes-arena.json) |
 | Battlecursed | 33422 | [33422-battlecursed.json](./33422-battlecursed.json) |
+| BattleDead | 152466 | [152466-battledead.json](./152466-battledead.json) |
 | BattleDrive | 283978 | [283978-battledrive.json](./283978-battledrive.json) |
 | BattleDudes.io | 144189 | [144189-battledudes-io.json](./144189-battledudes-io.json) |
 | Battlefall: State of Conflict | 283983 | [283983-battlefall-state-of-conflict.json](./283983-battlefall-state-of-conflict.json) |
@@ -9081,6 +9082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulls and Cows | 210592 | [210592-bulls-and-cows.json](./210592-bulls-and-cows.json) |
 | Bulls town | 112749 | [112749-bulls-town.json](./112749-bulls-town.json) |
 | Bulls Vs Blazers and the NBA Playoffs | 42638 | [42638-bulls-vs-blazers-and-the-nba-playoffs.json](./42638-bulls-vs-blazers-and-the-nba-playoffs.json) |
+| Bullseye | 152485 | [152485-bullseye.json](./152485-bullseye.json) |
 | Bullseye | 213298 | [213298-bullseye.json](./213298-bullseye.json) |
 | Bullseye! | 323852 | [323852-bullseye.json](./323852-bullseye.json) |
 | Bullship! | 375297 | [375297-bullship.json](./375297-bullship.json) |
