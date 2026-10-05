@@ -2740,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beardbarians | 317900 | [317900-beardbarians.json](./317900-beardbarians.json) |
 | Bearded Dragons | 133475 | [133475-bearded-dragons.json](./133475-bearded-dragons.json) |
 | Beards vs. Claws | 399695 | [399695-beards-vs-claws.json](./399695-beards-vs-claws.json) |
+| Beardy the Digger | 122143 | [122143-beardy-the-digger.json](./122143-beardy-the-digger.json) |
 | BearHammer | 105100 | [105100-bearhammer.json](./105100-bearhammer.json) |
 | Bearly Awesome | 382368 | [382368-bearly-awesome.json](./382368-bearly-awesome.json) |
 | Bearly Baking | 355040 | [355040-bearly-baking.json](./355040-bearly-baking.json) |
@@ -4538,6 +4539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birthday Blues | 177881 | [177881-birthday-blues.json](./177881-birthday-blues.json) |
 | Birthday Boy | 399612 | [399612-birthday-boy.json](./399612-birthday-boy.json) |
 | Birthdays the Beginning: Digital Limited Edition | 52628 | [52628-birthdays-the-beginning-digital-limited-edition.json](./52628-birthdays-the-beginning-digital-limited-edition.json) |
+| Birthdays the Beginning: Limited Edition | 122225 | [122225-birthdays-the-beginning-limited-edition.json](./122225-birthdays-the-beginning-limited-edition.json) |
 | Birthplace of Ossian | 26862 | [26862-birthplace-of-ossian.json](./26862-birthplace-of-ossian.json) |
 | Birthright | 156029 | [156029-birthright.json](./156029-birthright.json) |
 | Birthright Cataclysm: Overture | 171595 | [171595-birthright-cataclysm-overture.json](./171595-birthright-cataclysm-overture.json) |
@@ -4596,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Addiction | 277573 | [277573-bit-addiction.json](./277573-bit-addiction.json) |
 | Bit Bit Blocks | 61153 | [61153-bit-bit-blocks.json](./61153-bit-bit-blocks.json) |
 | Bit Blaster XL | 33733 | [33733-bit-blaster-xl.json](./33733-bit-blaster-xl.json) |
+| Bit Boy!! | 122125 | [122125-bit-boy.json](./122125-bit-boy.json) |
 | Bit Boy!! Arcade | 62852 | [62852-bit-boy-arcade.json](./62852-bit-boy-arcade.json) |
 | Bit Brawlers | 61716 | [61716-bit-brawlers.json](./61716-bit-brawlers.json) |
 | Bit Buddy | 379871 | [379871-bit-buddy.json](./379871-bit-buddy.json) |
@@ -5447,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Shot | 145003 | [145003-blind-shot.json](./145003-blind-shot.json) |
 | Blind Simulator | 351262 | [351262-blind-simulator.json](./351262-blind-simulator.json) |
 | Blind Sound | 236892 | [236892-blind-sound.json](./236892-blind-sound.json) |
+| Blind Spot | 122153 | [122153-blind-spot.json](./122153-blind-spot.json) |
 | Blind Spot | 377586 | [377586-blind-spot.json](./377586-blind-spot.json) |
 | Blind Touch | 346760 | [346760-blind-touch.json](./346760-blind-touch.json) |
 | Blind Trust: The City | 357383 | [357383-blind-trust-the-city.json](./357383-blind-trust-the-city.json) |
@@ -8548,6 +8552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BROMS: Battle Royale Management Simulator | 410877 | [410877-broms-battle-royale-management-simulator.json](./410877-broms-battle-royale-management-simulator.json) |
 | Bronk's Jungle Adventure | 143679 | [143679-bronks-jungle-adventure.json](./143679-bronks-jungle-adventure.json) |
 | Bronkie the Bronchiasaurus | 42624 | [42624-bronkie-the-bronchiasaurus.json](./42624-bronkie-the-bronchiasaurus.json) |
+| Bronx | 122240 | [122240-bronx.json](./122240-bronx.json) |
 | Brony Cards | 312214 | [312214-brony-cards.json](./312214-brony-cards.json) |
 | Bronze | 60031 | [60031-bronze.json](./60031-bronze.json) |
 | Bronze Dragon: Conquest of Infinity | 122987 | [122987-bronze-dragon-conquest-of-infinity.json](./122987-bronze-dragon-conquest-of-infinity.json) |
@@ -8896,6 +8901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucket Knight | 118262 | [118262-bucket-knight.json](./118262-bucket-knight.json) |
 | Bucket List | 22741 | [22741-bucket-list.json](./22741-bucket-list.json) |
 | Bucketneers | 176281 | [176281-bucketneers.json](./176281-bucketneers.json) |
+| Buckmasters Top Bow Championship | 122233 | [122233-buckmasters-top-bow-championship.json](./122233-buckmasters-top-bow-championship.json) |
 | Bucko | 236359 | [236359-bucko.json](./236359-bucko.json) |
 | Buckshot Battlemage | 345653 | [345653-buckshot-battlemage.json](./345653-buckshot-battlemage.json) |
 | Bucky O'Hare | 18808 | [18808-bucky-ohare.json](./18808-bucky-ohare.json) |
