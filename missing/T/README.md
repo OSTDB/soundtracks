@@ -12681,6 +12681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Splatter | 110360 | [110360-time-splatter.json](./110360-time-splatter.json) |
 | Time Squared | 26977 | [26977-time-squared.json](./26977-time-squared.json) |
 | Time Stand Still | 10992 | [10992-time-stand-still.json](./10992-time-stand-still.json) |
+| Time Stone | 134479 | [134479-time-stone.json](./134479-time-stone.json) |
 | Time Stripper | 57633 | [57633-time-stripper.json](./57633-time-stripper.json) |
 | Time Survivors: Chapter 0 | 258108 | [258108-time-survivors-chapter-0.json](./258108-time-survivors-chapter-0.json) |
 | Time Takers | 361861 | [361861-time-takers.json](./361861-time-takers.json) |
@@ -13724,6 +13725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Splinter Cell: Elite Echelon Edition | 27866 | [27866-tom-clancys-splinter-cell-elite-echelon-edition.json](./27866-tom-clancys-splinter-cell-elite-echelon-edition.json) |
 | Tom Clancy's Splinter Cell: Essentials | 22632 | [22632-tom-clancys-splinter-cell-essentials.json](./22632-tom-clancys-splinter-cell-essentials.json) |
 | Tom Clancy's Splinter Cell: Mission-Pack | 80186 | [80186-tom-clancys-splinter-cell-mission-pack.json](./80186-tom-clancys-splinter-cell-mission-pack.json) |
+| Tom Clancy's Splinter Cell: Pandora Tomorrow | 134396 | [134396-tom-clancys-splinter-cell-pandora-tomorrow.json](./134396-tom-clancys-splinter-cell-pandora-tomorrow.json) |
 | Tom Clancy's Splinter Cell: Pandora Tomorrow | 874 | [874-tom-clancys-splinter-cell-pandora-tomorrow.json](./874-tom-clancys-splinter-cell-pandora-tomorrow.json) |
 | Tom Clancy's Splinter Cell: Pandora Tomorrow HD | 100002 | [100002-tom-clancys-splinter-cell-pandora-tomorrow-hd.json](./100002-tom-clancys-splinter-cell-pandora-tomorrow-hd.json) |
 | Tom Clancy's SSN | 57686 | [57686-tom-clancys-ssn.json](./57686-tom-clancys-ssn.json) |
@@ -14056,6 +14058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toonkars Racer | 202763 | [202763-toonkars-racer.json](./202763-toonkars-racer.json) |
 | Toons City | 201664 | [201664-toons-city.json](./201664-toons-city.json) |
 | Toontown Online | 25326 | [25326-toontown-online.json](./25326-toontown-online.json) |
+| Toontown Realms | 134489 | [134489-toontown-realms.json](./134489-toontown-realms.json) |
 | Toontown Rewritten: Clear Coasts | 373635 | [373635-toontown-rewritten-clear-coasts.json](./373635-toontown-rewritten-clear-coasts.json) |
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
 | Toot's Race | 108593 | [108593-toots-race.json](./108593-toots-race.json) |
