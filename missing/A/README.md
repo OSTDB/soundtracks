@@ -4951,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anima Shin Gun | 367943 | [367943-anima-shin-gun.json](./367943-anima-shin-gun.json) |
 | Anima: Song from the Abyss | 136432 | [136432-anima-song-from-the-abyss.json](./136432-anima-song-from-the-abyss.json) |
 | Anima: The Reign of Darkness | 151647 | [151647-anima-the-reign-of-darkness.json](./151647-anima-the-reign-of-darkness.json) |
+| ANIMAC | 145243 | [145243-animac.json](./145243-animac.json) |
 | Animaddicts | 190724 | [190724-animaddicts.json](./190724-animaddicts.json) |
 | Animaddicts 2 | 192891 | [192891-animaddicts-2.json](./192891-animaddicts-2.json) |
 | Animaddicts 3 | 195704 | [195704-animaddicts-3.json](./195704-animaddicts-3.json) |
@@ -5293,6 +5294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annihilator | 293348 | [293348-annihilator.json](./293348-annihilator.json) |
 | Annihilator | 339993 | [339993-annihilator.json](./339993-annihilator.json) |
 | Annihilator | 94893 | [94893-annihilator.json](./94893-annihilator.json) |
+| Annihilator Tank | 145244 | [145244-annihilator-tank.json](./145244-annihilator-tank.json) |
 | Annihilith Of Abhorration | 271293 | [271293-annihilith-of-abhorration.json](./271293-annihilith-of-abhorration.json) |
 | Anniversary Collection Arcade Classics | 116390 | [116390-anniversary-collection-arcade-classics.json](./116390-anniversary-collection-arcade-classics.json) |
 | Anno 117: Pax Romana - Blooming Cities Pack | 408893 | [408893-anno-117-pax-romana-blooming-cities-pack.json](./408893-anno-117-pax-romana-blooming-cities-pack.json) |
@@ -5573,6 +5575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti Pong | 147878 | [147878-anti-pong.json](./147878-anti-pong.json) |
 | Anti Terrorist Rush 2 | 116342 | [116342-anti-terrorist-rush-2.json](./116342-anti-terrorist-rush-2.json) |
 | Anti V Reboot | 357805 | [357805-anti-v-reboot.json](./357805-anti-v-reboot.json) |
+| Anti-Ballistic-Missile | 145245 | [145245-anti-ballistic-missile.json](./145245-anti-ballistic-missile.json) |
 | Anti-Goodness Dept. | 176787 | [176787-anti-goodness-dept.json](./176787-anti-goodness-dept.json) |
 | Anti-Grav | 114325 | [114325-anti-grav.json](./114325-anti-grav.json) |
 | Anti-Idle: The Game | 225644 | [225644-anti-idle-the-game.json](./225644-anti-idle-the-game.json) |
@@ -5655,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antz: Panic in the Anthill! | 371232 | [371232-antz-panic-in-the-anthill.json](./371232-antz-panic-in-the-anthill.json) |
 | Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
 | Anubria | 401038 | [401038-anubria.json](./401038-anubria.json) |
+| Anuchard | 145264 | [145264-anuchard.json](./145264-anuchard.json) |
 | Anura | 347364 | [347364-anura.json](./347364-anura.json) |
 | Anuto TD | 207846 | [207846-anuto-td.json](./207846-anuto-td.json) |
 | Anvil | 226234 | [226234-anvil.json](./226234-anvil.json) |
@@ -6210,6 +6214,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Bonze Adventure | 242553 | [242553-arcade-archives-bonze-adventure.json](./242553-arcade-archives-bonze-adventure.json) |
 | Arcade Archives: Bosconian | 263187 | [263187-arcade-archives-bosconian.json](./263187-arcade-archives-bosconian.json) |
 | Arcade Archives: Bravoman | 252393 | [252393-arcade-archives-bravoman.json](./252393-arcade-archives-bravoman.json) |
+| Arcade Archives: Burger Time | 145241 | [145241-arcade-archives-burger-time.json](./145241-arcade-archives-burger-time.json) |
+| Arcade Archives: Burnin' Rubber | 145248 | [145248-arcade-archives-burnin-rubber.json](./145248-arcade-archives-burnin-rubber.json) |
 | Arcade Archives: Burning Force | 273958 | [273958-arcade-archives-burning-force.json](./273958-arcade-archives-burning-force.json) |
 | Arcade Archives: Buta san | 99561 | [99561-arcade-archives-buta-san.json](./99561-arcade-archives-buta-san.json) |
 | Arcade Archives: Cameltry | 404377 | [404377-arcade-archives-cameltry.json](./404377-arcade-archives-cameltry.json) |
@@ -6217,6 +6223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Chack'n Pop | 210747 | [210747-arcade-archives-chackn-pop.json](./210747-arcade-archives-chackn-pop.json) |
 | Arcade Archives: Champion Wrestler | 216226 | [216226-arcade-archives-champion-wrestler.json](./216226-arcade-archives-champion-wrestler.json) |
 | Arcade Archives: Chopper 1 | 362353 | [362353-arcade-archives-chopper-1.json](./362353-arcade-archives-chopper-1.json) |
+| Arcade Archives: Circus Charlie | 145250 | [145250-arcade-archives-circus-charlie.json](./145250-arcade-archives-circus-charlie.json) |
 | Arcade Archives: City Bomber | 324979 | [324979-arcade-archives-city-bomber.json](./324979-arcade-archives-city-bomber.json) |
 | Arcade Archives: City Connection | 99558 | [99558-arcade-archives-city-connection.json](./99558-arcade-archives-city-connection.json) |
 | Arcade Archives: Cosmo Police Galivan | 99566 | [99566-arcade-archives-cosmo-police-galivan.json](./99566-arcade-archives-cosmo-police-galivan.json) |
