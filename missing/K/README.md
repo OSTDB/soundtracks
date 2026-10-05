@@ -2009,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kipper no Eigo Kyoushitsu: Floppy's Phonics Vol. 3 - Chip-Hen | 140932 | [140932-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-3-chip-hen.json](./140932-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-3-chip-hen.json) |
 | Kira | 29151 | [29151-kira.json](./29151-kira.json) |
 | Kira and the Life Stone | 170901 | [170901-kira-and-the-life-stone.json](./170901-kira-and-the-life-stone.json) |
+| Kira Kira | 125163 | [125163-kira-kira.json](./125163-kira-kira.json) |
 | Kira Kira | 140523 | [140523-kira-kira.json](./140523-kira-kira.json) |
 | Kira Kira Pop Princess | 26560 | [26560-kira-kira-pop-princess.json](./26560-kira-kira-pop-princess.json) |
 | Kira Kira Rainbow Pack | 26562 | [26562-kira-kira-rainbow-pack.json](./26562-kira-kira-rainbow-pack.json) |
