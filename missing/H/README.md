@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hair Salon: Cool Stories | 237376 | [237376-hair-salon-cool-stories.json](./237376-hair-salon-cool-stories.json) |
 | Hair Tattoo: Barbershop Master | 208920 | [208920-hair-tattoo-barbershop-master.json](./208920-hair-tattoo-barbershop-master.json) |
 | Hairdresser Liquidator Bundle | 342236 | [342236-hairdresser-liquidator-bundle.json](./342236-hairdresser-liquidator-bundle.json) |
+| Hairdresser Simulator | 149731 | [149731-hairdresser-simulator.json](./149731-hairdresser-simulator.json) |
 | Hairstyle | 104597 | [104597-hairstyle.json](./104597-hairstyle.json) |
 | Hairy Trees Massacre | 299833 | [299833-hairy-trees-massacre.json](./299833-hairy-trees-massacre.json) |
 | Haishin | 376675 | [376675-haishin.json](./376675-haishin.json) |
@@ -5211,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop Skip Jump | 149014 | [149014-hop-skip-jump.json](./149014-hop-skip-jump.json) |
 | Hop Spring Girl | 296658 | [296658-hop-spring-girl.json](./296658-hop-spring-girl.json) |
 | Hop Step Idol | 202400 | [202400-hop-step-idol.json](./202400-hop-step-idol.json) |
+| Hop Step Sing VR Live: Hop Summer Tour 2020 | 149684 | [149684-hop-step-sing-vr-live-hop-summer-tour-2020.json](./149684-hop-step-sing-vr-live-hop-summer-tour-2020.json) |
 | Hop Step Sing! Happy People | 165713 | [165713-hop-step-sing-happy-people.json](./165713-hop-step-sing-happy-people.json) |
 | Hop Step Sing! Kiss x Kiss x Kiss | 43182 | [43182-hop-step-sing-kiss-x-kiss-x-kiss.json](./43182-hop-step-sing-kiss-x-kiss-x-kiss.json) |
 | Hop Step Sing! Summer Live 2023 | 340483 | [340483-hop-step-sing-summer-live-2023.json](./340483-hop-step-sing-summer-live-2023.json) |
@@ -6291,6 +6293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humans 3: Evolution - Lost in Time | 39031 | [39031-humans-3-evolution-lost-in-time.json](./39031-humans-3-evolution-lost-in-time.json) |
 | Humans Are Pattern Finders | 179023 | [179023-humans-are-pattern-finders.json](./179023-humans-are-pattern-finders.json) |
 | Humans Are Useless | 211626 | [211626-humans-are-useless.json](./211626-humans-are-useless.json) |
+| Humans Took My Neighbors! | 149697 | [149697-humans-took-my-neighbors.json](./149697-humans-took-my-neighbors.json) |
 | Humans Vs Ghouls | 153372 | [153372-humans-vs-ghouls.json](./153372-humans-vs-ghouls.json) |
 | Humans vs. Monsters | 303561 | [303561-humans-vs-monsters.json](./303561-humans-vs-monsters.json) |
 | Humans vs. Vampires | 199060 | [199060-humans-vs-vampires.json](./199060-humans-vs-vampires.json) |
