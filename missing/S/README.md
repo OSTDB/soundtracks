@@ -4594,6 +4594,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinseiki GPX Cyber Formula Sin Drei Plus | 112516 | [112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json](./112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json) |
 | Shinsen Renki | 163232 | [163232-shinsen-renki.json](./163232-shinsen-renki.json) |
 | Shinsen-den | 77406 | [77406-shinsen-den.json](./77406-shinsen-den.json) |
+| Shinsengumi Fukuchou no Yuuga na Hitotoki | 163348 | [163348-shinsengumi-fukuchou-no-yuuga-na-hitotoki.json](./163348-shinsengumi-fukuchou-no-yuuga-na-hitotoki.json) |
+| Shinsengumi Soumonki Fugo no Kusa: Nanatsu no Yuube | 163353 | [163353-shinsengumi-soumonki-fugo-no-kusa-nanatsu-no-yuube.json](./163353-shinsengumi-soumonki-fugo-no-kusa-nanatsu-no-yuube.json) |
+| Shinsengumi: Bakumatsu Genshikou | 163346 | [163346-shinsengumi-bakumatsu-genshikou.json](./163346-shinsengumi-bakumatsu-genshikou.json) |
+| Shinsengumi: Bakumatsu Gensou Renai Kitan | 163347 | [163347-shinsengumi-bakumatsu-gensou-renai-kitan.json](./163347-shinsengumi-bakumatsu-gensou-renai-kitan.json) |
 | Shinsetsu Mahou Shoujo | 131589 | [131589-shinsetsu-mahou-shoujo.json](./131589-shinsetsu-mahou-shoujo.json) |
 | Shinsetsu Shiawase Usagi F: Yuujou Yori mo Aiyoku | 277859 | [277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json](./277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json) |
 | Shinshou Ikemen Ooku | 239014 | [239014-shinshou-ikemen-ooku.json](./239014-shinshou-ikemen-ooku.json) |
@@ -5054,6 +5058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show da Copa com Estádio 97 | 255668 | [255668-show-da-copa-com-estadio-97.json](./255668-show-da-copa-com-estadio-97.json) |
 | Show do Milhão | 122331 | [122331-show-do-milhao.json](./122331-show-do-milhao.json) |
 | Show do Milhão | 93008 | [93008-show-do-milhao.json](./93008-show-do-milhao.json) |
+| Show do Milhão 2006 | 163341 | [163341-show-do-milhao-2006.json](./163341-show-do-milhao-2006.json) |
 | Show do Milhão Júnior Volume 2 | 222358 | [222358-show-do-milhao-junior-volume-2.json](./222358-show-do-milhao-junior-volume-2.json) |
 | Show do Milhão Volume 2 | 122333 | [122333-show-do-milhao-volume-2.json](./122333-show-do-milhao-volume-2.json) |
 | Show do Milhão Volume 3 | 122362 | [122362-show-do-milhao-volume-3.json](./122362-show-do-milhao-volume-3.json) |
