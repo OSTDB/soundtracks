@@ -1135,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikebana | 352962 | [352962-ikebana.json](./352962-ikebana.json) |
 | Ikemen Oukoku Joou to Shinjitsu no Kiss | 229030 | [229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json](./229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json) |
 | Ikemen Prince: Beauty and Her Beast | 229032 | [229032-ikemen-prince-beauty-and-her-beast.json](./229032-ikemen-prince-beauty-and-her-beast.json) |
+| Ikemen Sengoku: Romances Across Time | 145953 | [145953-ikemen-sengoku-romances-across-time.json](./145953-ikemen-sengoku-romances-across-time.json) |
 | Ikemen Vampire: Temptation in the Dark | 225536 | [225536-ikemen-vampire-temptation-in-the-dark.json](./225536-ikemen-vampire-temptation-in-the-dark.json) |
 | Ikemen Villains: Wrapped in Wicked Romance | 229033 | [229033-ikemen-villains-wrapped-in-wicked-romance.json](./229033-ikemen-villains-wrapped-in-wicked-romance.json) |
 | Ikenie | 31798 | [31798-ikenie.json](./31798-ikenie.json) |
@@ -1983,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno Meltdown | 266867 | [266867-inferno-meltdown.json](./266867-inferno-meltdown.json) |
 | Inferno Protocol | 381679 | [381679-inferno-protocol.json](./381679-inferno-protocol.json) |
 | Inferno Quest: Journey Through the Lava Cavern | 248021 | [248021-inferno-quest-journey-through-the-lava-cavern.json](./248021-inferno-quest-journey-through-the-lava-cavern.json) |
+| Inferno Wizards | 145956 | [145956-inferno-wizards.json](./145956-inferno-wizards.json) |
 | Inferno: Beyond the 7th Circle | 150583 | [150583-inferno-beyond-the-7th-circle.json](./150583-inferno-beyond-the-7th-circle.json) |
 | Inferno: Deathfield | 82051 | [82051-inferno-deathfield.json](./82051-inferno-deathfield.json) |
 | Inferno: The Odyssey Continues | 70324 | [70324-inferno-the-odyssey-continues.json](./70324-inferno-the-odyssey-continues.json) |
@@ -3430,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islet Hell | 367596 | [367596-islet-hell.json](./367596-islet-hell.json) |
 | Islets | 180154 | [180154-islets.json](./180154-islets.json) |
 | Islets Defense | 322054 | [322054-islets-defense.json](./322054-islets-defense.json) |
+| Isleward | 145941 | [145941-isleward.json](./145941-isleward.json) |
 | Isly | 185010 | [185010-isly.json](./185010-isly.json) |
 | iSnake | 87703 | [87703-isnake.json](./87703-isnake.json) |
 | Iso | 100225 | [100225-iso.json](./100225-iso.json) |
