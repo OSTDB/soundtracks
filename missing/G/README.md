@@ -2447,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gizmos: Jungle Adventures | 294399 | [294399-gizmos-jungle-adventures.json](./294399-gizmos-jungle-adventures.json) |
 | Gizmos: Riddle of the Universe | 384676 | [384676-gizmos-riddle-of-the-universe.json](./384676-gizmos-riddle-of-the-universe.json) |
 | Gizmos: Spirit of the Christmas | 156678 | [156678-gizmos-spirit-of-the-christmas.json](./156678-gizmos-spirit-of-the-christmas.json) |
+| Gizmos: Spooky Adventures | 151296 | [151296-gizmos-spooky-adventures.json](./151296-gizmos-spooky-adventures.json) |
 | Gizoku Tantei Nosuri | 227891 | [227891-gizoku-tantei-nosuri.json](./227891-gizoku-tantei-nosuri.json) |
 | GL Golf | 88347 | [88347-gl-golf.json](./88347-gl-golf.json) |
 | GL-117 Action Flight Simulator | 51245 | [51245-gl-117-action-flight-simulator.json](./51245-gl-117-action-flight-simulator.json) |
@@ -4045,6 +4046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Gate | 208601 | [208601-grand-gate.json](./208601-grand-gate.json) |
 | Grand Guilds | 109774 | [109774-grand-guilds.json](./109774-grand-guilds.json) |
 | Grand Heist | 120317 | [120317-grand-heist.json](./120317-grand-heist.json) |
+| Grand Horse Attraction | 151302 | [151302-grand-horse-attraction.json](./151302-grand-horse-attraction.json) |
 | Grand Hotel Mania | 235162 | [235162-grand-hotel-mania.json](./235162-grand-hotel-mania.json) |
 | Grand Kingdom | 19163 | [19163-grand-kingdom.json](./19163-grand-kingdom.json) |
 | Grand Kingdom: Grand Edition | 89908 | [89908-grand-kingdom-grand-edition.json](./89908-grand-kingdom-grand-edition.json) |
@@ -4456,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Pull | 202172 | [202172-gravity-pull.json](./202172-gravity-pull.json) |
 | Gravity Racers | 379054 | [379054-gravity-racers.json](./379054-gravity-racers.json) |
 | Gravity Range | 175333 | [175333-gravity-range.json](./175333-gravity-range.json) |
+| Gravity Rubik's Cube | 151268 | [151268-gravity-rubiks-cube.json](./151268-gravity-rubiks-cube.json) |
 | Gravity run | 153432 | [153432-gravity-run.json](./153432-gravity-run.json) |
 | Gravity Rush | 11701 | [11701-gravity-rush.json](./11701-gravity-rush.json) |
 | Gravity Rush Remastered: Collector's Edition | 205265 | [205265-gravity-rush-remastered-collectors-edition.json](./205265-gravity-rush-remastered-collectors-edition.json) |
