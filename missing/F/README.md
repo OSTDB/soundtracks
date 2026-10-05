@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Basic | 220557 | [220557-family-basic.json](./220557-family-basic.json) |
 | Family Bible Quest | 335322 | [335322-family-bible-quest.json](./335322-family-bible-quest.json) |
 | Family Billiards | 161760 | [161760-family-billiards.json](./161760-family-billiards.json) |
+| Family Bowling | 135648 | [135648-family-bowling.json](./135648-family-bowling.json) |
 | Family Bundle | 370825 | [370825-family-bundle.json](./370825-family-bundle.json) |
 | Family Card Games Fun Pack | 82139 | [82139-family-card-games-fun-pack.json](./82139-family-card-games-fun-pack.json) |
 | Family Challenge Wii | 268127 | [268127-family-challenge-wii.json](./268127-family-challenge-wii.json) |
@@ -2838,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Splash | 386851 | [386851-final-splash.json](./386851-final-splash.json) |
 | Final Star Force | 40986 | [40986-final-star-force.json](./40986-final-star-force.json) |
 | Final Stardust: Cosmic Nexus | 197262 | [197262-final-stardust-cosmic-nexus.json](./197262-final-stardust-cosmic-nexus.json) |
+| Final Sword | 135636 | [135636-final-sword.json](./135636-final-sword.json) |
 | Final Sword: Definitive Edition | 147999 | [147999-final-sword-definitive-edition.json](./147999-final-sword-definitive-edition.json) |
 | Final Sword: Mobile Edition | 205824 | [205824-final-sword-mobile-edition.json](./205824-final-sword-mobile-edition.json) |
 | Final Tank | 316405 | [316405-final-tank.json](./316405-final-tank.json) |
@@ -6235,6 +6237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frenzy Freak Fantasy | 370198 | [370198-frenzy-freak-fantasy.json](./370198-frenzy-freak-fantasy.json) |
 | Frenzy Plants | 122187 | [122187-frenzy-plants.json](./122187-frenzy-plants.json) |
 | Frenzy Retribution | 122306 | [122306-frenzy-retribution.json](./122306-frenzy-retribution.json) |
+| Frenzy! | 135647 | [135647-frenzy.json](./135647-frenzy.json) |
 | Frequency Dissonance | 199120 | [199120-frequency-dissonance.json](./199120-frequency-dissonance.json) |
 | Frequency Garden | 126522 | [126522-frequency-garden.json](./126522-frequency-garden.json) |
 | Frequency Sync | 130241 | [130241-frequency-sync.json](./130241-frequency-sync.json) |
