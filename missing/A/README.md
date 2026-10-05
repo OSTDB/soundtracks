@@ -3304,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Vendetta | 134559 | [134559-alien-vendetta.json](./134559-alien-vendetta.json) |
 | Alien Virus | 147371 | [147371-alien-virus.json](./147371-alien-virus.json) |
 | Alien vs Predator: The Last of His Clan | 48965 | [48965-alien-vs-predator-the-last-of-his-clan.json](./48965-alien-vs-predator-the-last-of-his-clan.json) |
+| Alien Wall | 169152 | [169152-alien-wall.json](./169152-alien-wall.json) |
 | Alien War Girl | 111072 | [111072-alien-war-girl.json](./111072-alien-war-girl.json) |
 | Alien Weapon Test Grounds | 310209 | [310209-alien-weapon-test-grounds.json](./310209-alien-weapon-test-grounds.json) |
 | Alien Worlds | 93075 | [93075-alien-worlds.json](./93075-alien-worlds.json) |
@@ -3695,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alonecats | 293085 | [293085-alonecats.json](./293085-alonecats.json) |
 | AloneGuy | 267480 | [267480-aloneguy.json](./267480-aloneguy.json) |
 | Aloners | 168677 | [168677-aloners.json](./168677-aloners.json) |
+| Aloners Redux | 169272 | [169272-aloners-redux.json](./169272-aloners-redux.json) |
 | Along Came a Dragonfly | 272356 | [272356-along-came-a-dragonfly.json](./272356-along-came-a-dragonfly.json) |
 | Along Came A Spider | 163364 | [163364-along-came-a-spider.json](./163364-along-came-a-spider.json) |
 | Along Came a Spider: Valley of The Hollow | 314984 | [314984-along-came-a-spider-valley-of-the-hollow.json](./314984-along-came-a-spider-valley-of-the-hollow.json) |
@@ -4021,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Love: Cupid's Arrows | 232570 | [232570-amazing-love-cupids-arrows.json](./232570-amazing-love-cupids-arrows.json) |
 | Amazing Machines | 187385 | [187385-amazing-machines.json](./187385-amazing-machines.json) |
 | Amazing Maze | 18115 | [18115-amazing-maze.json](./18115-amazing-maze.json) |
+| Amazing Maze / Tic-Tac-Toe | 169264 | [169264-amazing-maze-tic-tac-toe.json](./169264-amazing-maze-tic-tac-toe.json) |
 | Amazing Penguin | 7753 | [7753-amazing-penguin.json](./7753-amazing-penguin.json) |
 | Amazing Penguin DX | 279579 | [279579-amazing-penguin-dx.json](./279579-amazing-penguin-dx.json) |
 | Amazing Pets Bundle | 212788 | [212788-amazing-pets-bundle.json](./212788-amazing-pets-bundle.json) |
