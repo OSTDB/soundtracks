@@ -1611,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Princess | 19820 | [19820-fat-princess.json](./19820-fat-princess.json) |
 | Fat Princess Adventures | 11199 | [11199-fat-princess-adventures.json](./11199-fat-princess-adventures.json) |
 | Fat Princess: Fat Roles | 276802 | [276802-fat-princess-fat-roles.json](./276802-fat-princess-fat-roles.json) |
+| Fat Prisoner Simulator 3 | 169156 | [169156-fat-prisoner-simulator-3.json](./169156-fat-prisoner-simulator-3.json) |
 | Fat Slice 2 | 185653 | [185653-fat-slice-2.json](./185653-fat-slice-2.json) |
 | Fat Sonic | 330866 | [330866-fat-sonic.json](./330866-fat-sonic.json) |
 | Fat Worm Blows a Sparky | 37075 | [37075-fat-worm-blows-a-sparky.json](./37075-fat-worm-blows-a-sparky.json) |
@@ -6492,6 +6493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Nava | 282139 | [282139-from-nava.json](./282139-from-nava.json) |
 | From One World To Another | 335087 | [335087-from-one-world-to-another.json](./335087-from-one-world-to-another.json) |
 | From Paris with Love 2: Passion with view | 196113 | [196113-from-paris-with-love-2-passion-with-view.json](./196113-from-paris-with-love-2-passion-with-view.json) |
+| From Paris with Love: Passion with View | 169255 | [169255-from-paris-with-love-passion-with-view.json](./169255-from-paris-with-love-passion-with-view.json) |
 | From Ruins | 381177 | [381177-from-ruins.json](./381177-from-ruins.json) |
 | From Salt to Sugar | 212803 | [212803-from-salt-to-sugar.json](./212803-from-salt-to-sugar.json) |
 | From Scratch | 287199 | [287199-from-scratch.json](./287199-from-scratch.json) |
