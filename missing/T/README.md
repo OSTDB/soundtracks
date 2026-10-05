@@ -15153,6 +15153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Tinker Simulator | 150000 | [150000-toy-tinker-simulator.json](./150000-toy-tinker-simulator.json) |
 | Toy Voyage | 349391 | [349391-toy-voyage.json](./349391-toy-voyage.json) |
 | Toy Wars Invasion | 9449 | [9449-toy-wars-invasion.json](./9449-toy-wars-invasion.json) |
+| Toy Wars: Story of Heroes | 140321 | [140321-toy-wars-story-of-heroes.json](./140321-toy-wars-story-of-heroes.json) |
 | Toy-War: The Beginning | 111192 | [111192-toy-war-the-beginning.json](./111192-toy-war-the-beginning.json) |
 | Toy's Brawl | 340947 | [340947-toys-brawl.json](./340947-toys-brawl.json) |
 | Toy'sMarch | 314335 | [314335-toysmarch.json](./314335-toysmarch.json) |
