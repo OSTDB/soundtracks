@@ -4868,6 +4868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Survivor | 213002 | [213002-grim-survivor.json](./213002-grim-survivor.json) |
 | Grim Swarm | 323809 | [323809-grim-swarm.json](./323809-grim-swarm.json) |
 | Grim Tales 5: Bloody Mary | 57071 | [57071-grim-tales-5-bloody-mary.json](./57071-grim-tales-5-bloody-mary.json) |
+| Grim Tales 8: The Final Suspect | 140299 | [140299-grim-tales-8-the-final-suspect.json](./140299-grim-tales-8-the-final-suspect.json) |
 | Grim Tales: All Shades of Black - Collector's Edition | 337263 | [337263-grim-tales-all-shades-of-black-collectors-edition.json](./337263-grim-tales-all-shades-of-black-collectors-edition.json) |
 | Grim Tales: Crimson Hollow | 188013 | [188013-grim-tales-crimson-hollow.json](./188013-grim-tales-crimson-hollow.json) |
 | Grim Tales: Dual Disposition - Collector's Edition | 247737 | [247737-grim-tales-dual-disposition-collectors-edition.json](./247737-grim-tales-dual-disposition-collectors-edition.json) |
