@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Date with Death: Expansion DLC | 276859 | [276859-a-date-with-death-expansion-dlc.json](./276859-a-date-with-death-expansion-dlc.json) |
 | A Day at the Carnival | 55853 | [55853-a-day-at-the-carnival.json](./55853-a-day-at-the-carnival.json) |
 | A day for a kitten | 75803 | [75803-a-day-for-a-kitten.json](./75803-a-day-for-a-kitten.json) |
+| A Day for Fresh Sushi | 141554 | [141554-a-day-for-fresh-sushi.json](./141554-a-day-for-fresh-sushi.json) |
 | A Day for Soft Food | 304221 | [304221-a-day-for-soft-food.json](./304221-a-day-for-soft-food.json) |
 | A Day In Space | 249257 | [249257-a-day-in-space.json](./249257-a-day-in-space.json) |
 | A Day in the Lie | 176237 | [176237-a-day-in-the-lie.json](./176237-a-day-in-the-lie.json) |
@@ -877,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
 | Abelardo: Steakhouse Musician | 232001 | [232001-abelardo-steakhouse-musician.json](./232001-abelardo-steakhouse-musician.json) |
 | Abenteuer Landtag 2 | 135093 | [135093-abenteuer-landtag-2.json](./135093-abenteuer-landtag-2.json) |
+| Abenteuer Stahl | 141497 | [141497-abenteuer-stahl.json](./141497-abenteuer-stahl.json) |
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
 | Aberrant Nights | 304671 | [304671-aberrant-nights.json](./304671-aberrant-nights.json) |
 | Aberration | 187259 | [187259-aberration.json](./187259-aberration.json) |
@@ -2035,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AfterWar | 264765 | [264765-afterwar.json](./264765-afterwar.json) |
 | Afterward | 184986 | [184986-afterward.json](./184986-afterward.json) |
 | Afterworld | 288746 | [288746-afterworld.json](./288746-afterworld.json) |
+| Afterworld: The Age of Tomorrow | 141501 | [141501-afterworld-the-age-of-tomorrow.json](./141501-afterworld-the-age-of-tomorrow.json) |
 | AftLife: Girl and Cats, and Lost World | 284326 | [284326-aftlife-girl-and-cats-and-lost-world.json](./284326-aftlife-girl-and-cats-and-lost-world.json) |
 | Aftonbuilt | 204390 | [204390-aftonbuilt.json](./204390-aftonbuilt.json) |
 | AG Drive | 54693 | [54693-ag-drive.json](./54693-ag-drive.json) |
@@ -7669,7 +7672,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of War | 369665 | [369665-ashes-of-war.json](./369665-ashes-of-war.json) |
 | Ashes of Xun | 377678 | [377678-ashes-of-xun.json](./377678-ashes-of-xun.json) |
 | Ashes to Ashes | 258104 | [258104-ashes-to-ashes.json](./258104-ashes-to-ashes.json) |
+| Ashes: 2063 | 141485 | [141485-ashes-2063.json](./141485-ashes-2063.json) |
 | Ashes: 2063 - Enriched Edition | 184100 | [184100-ashes-2063-enriched-edition.json](./184100-ashes-2063-enriched-edition.json) |
+| Ashes: Dead Man Walking | 141487 | [141487-ashes-dead-man-walking.json](./141487-ashes-dead-man-walking.json) |
 | Ashfall | 218167 | [218167-ashfall.json](./218167-ashfall.json) |
 | Ashforge: Whispers of the Deep | 358875 | [358875-ashforge-whispers-of-the-deep.json](./358875-ashforge-whispers-of-the-deep.json) |
 | Ashgard: Infinity Mask | 348320 | [348320-ashgard-infinity-mask.json](./348320-ashgard-infinity-mask.json) |
