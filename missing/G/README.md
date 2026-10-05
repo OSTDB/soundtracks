@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galacticverse | 275071 | [275071-galacticverse.json](./275071-galacticverse.json) |
 | Galactix | 381042 | [381042-galactix.json](./381042-galactix.json) |
 | Galactoids: Galactic Invaders | 217279 | [217279-galactoids-galactic-invaders.json](./217279-galactoids-galactic-invaders.json) |
+| Galactory | 160275 | [160275-galactory.json](./160275-galactory.json) |
 | Galactose: Pastries in Space | 109047 | [109047-galactose-pastries-in-space.json](./109047-galactose-pastries-in-space.json) |
 | Galador: The Prince and the Coward | 26484 | [26484-galador-the-prince-and-the-coward.json](./26484-galador-the-prince-and-the-coward.json) |
 | Galaforce | 13719 | [13719-galaforce.json](./13719-galaforce.json) |
