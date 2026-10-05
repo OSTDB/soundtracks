@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faeria: Chronicles of Gagana | 117519 | [117519-faeria-chronicles-of-gagana.json](./117519-faeria-chronicles-of-gagana.json) |
 | Faeria: Game + All DLC Bundle | 238217 | [238217-faeria-game-all-dlc-bundle.json](./238217-faeria-game-all-dlc-bundle.json) |
 | Faeria: Premium Edition | 238045 | [238045-faeria-premium-edition.json](./238045-faeria-premium-edition.json) |
+| Faerie Afterlight | 133272 | [133272-faerie-afterlight.json](./133272-faerie-afterlight.json) |
 | Faerie Solitaire Classic | 182884 | [182884-faerie-solitaire-classic.json](./182884-faerie-solitaire-classic.json) |
 | Faery: Legends of Avalon | 10295 | [10295-faery-legends-of-avalon.json](./10295-faery-legends-of-avalon.json) |
 | Faery: Swapped | 298022 | [298022-faery-swapped.json](./298022-faery-swapped.json) |
@@ -6222,6 +6223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fregocles y la Desinfección del Olimpo | 322551 | [322551-fregocles-y-la-desinfeccion-del-olimpo.json](./322551-fregocles-y-la-desinfeccion-del-olimpo.json) |
 | Freight Hopper | 212880 | [212880-freight-hopper.json](./212880-freight-hopper.json) |
 | Freight Manager | 365742 | [365742-freight-manager.json](./365742-freight-manager.json) |
+| Freight Simulator | 133260 | [133260-freight-simulator.json](./133260-freight-simulator.json) |
 | Freight Tycoon | 176891 | [176891-freight-tycoon.json](./176891-freight-tycoon.json) |
 | Freight Tycoon Inc. | 10335 | [10335-freight-tycoon-inc.json](./10335-freight-tycoon-inc.json) |
 | Freiwillig | 151072 | [151072-freiwillig.json](./151072-freiwillig.json) |
@@ -7261,6 +7263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Sex: Poker | 212192 | [212192-furry-sex-poker.json](./212192-furry-sex-poker.json) |
 | Furry Sexy Girls | 375951 | [375951-furry-sexy-girls.json](./375951-furry-sexy-girls.json) |
 | Furry Shades of Gay | 165025 | [165025-furry-shades-of-gay.json](./165025-furry-shades-of-gay.json) |
+| Furry Shakespeare: Emperor Penguin Lear | 133180 | [133180-furry-shakespeare-emperor-penguin-lear.json](./133180-furry-shakespeare-emperor-penguin-lear.json) |
 | Furry Shakespeare: Oops! All Dragons! | 152805 | [152805-furry-shakespeare-oops-all-dragons.json](./152805-furry-shakespeare-oops-all-dragons.json) |
 | Furry Shakespeare: To Date Or Not To Date Cat Girls? - 2 Prophecy of Convenience | 253951 | [253951-furry-shakespeare-to-date-or-not-to-date-cat-girls-2-prophecy-of-convenience.json](./253951-furry-shakespeare-to-date-or-not-to-date-cat-girls-2-prophecy-of-convenience.json) |
 | Furry Stories: Alpha-Male | 130297 | [130297-furry-stories-alpha-male.json](./130297-furry-stories-alpha-male.json) |
