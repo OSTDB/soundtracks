@@ -5718,6 +5718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Division | 217209 | [217209-division.json](./217209-division.json) |
 | Division 1 | 42174 | [42174-division-1.json](./42174-division-1.json) |
 | Dìwáng Chāiqiān Bàn | 367485 | [367485-diwang-chaiqian-ban.json](./367485-diwang-chaiqian-ban.json) |
+| Dìxiàshì | 148693 | [148693-dixiashi.json](./148693-dixiashi.json) |
 | DIY Fashion Star - Design Hacks Clothing Game | 104486 | [104486-diy-fashion-star-design-hacks-clothing-game.json](./104486-diy-fashion-star-design-hacks-clothing-game.json) |
 | DIY Horse Race Thing | 342860 | [342860-diy-horse-race-thing.json](./342860-diy-horse-race-thing.json) |
 | DIY My Boy | 165704 | [165704-diy-my-boy.json](./165704-diy-my-boy.json) |
