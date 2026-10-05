@@ -3166,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godland: The Fire Quest 2 | 219662 | [219662-godland-the-fire-quest-2.json](./219662-godland-the-fire-quest-2.json) |
 | Godless grove | 201609 | [201609-godless-grove.json](./201609-godless-grove.json) |
 | Godless Tactics | 132673 | [132673-godless-tactics.json](./132673-godless-tactics.json) |
+| Godlike | 133768 | [133768-godlike.json](./133768-godlike.json) |
 | Godlike Burger | 143010 | [143010-godlike-burger.json](./143010-godlike-burger.json) |
 | Godmode Epochs | 252688 | [252688-godmode-epochs.json](./252688-godmode-epochs.json) |
 | Godmorgon: Spooky Ride | 187227 | [187227-godmorgon-spooky-ride.json](./187227-godmorgon-spooky-ride.json) |
@@ -3854,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic 3: Enhanced Gold Edition | 133886 | [133886-gothic-3-enhanced-gold-edition.json](./133886-gothic-3-enhanced-gold-edition.json) |
 | Gothic 3: Forsaken Gods - Enhanced Edition | 10371 | [10371-gothic-3-forsaken-gods-enhanced-edition.json](./10371-gothic-3-forsaken-gods-enhanced-edition.json) |
 | Gothic 3: Game of the Year Edition | 133885 | [133885-gothic-3-game-of-the-year-edition.json](./133885-gothic-3-game-of-the-year-edition.json) |
+| Gothic 3: Gold Edition | 133850 | [133850-gothic-3-gold-edition.json](./133850-gothic-3-gold-edition.json) |
 | Gothic Classic | 260799 | [260799-gothic-classic.json](./260799-gothic-classic.json) |
 | Gothic Classic Khorinis Saga | 300389 | [300389-gothic-classic-khorinis-saga.json](./300389-gothic-classic-khorinis-saga.json) |
 | Gothic Clicker | 345011 | [345011-gothic-clicker.json](./345011-gothic-clicker.json) |
@@ -5229,6 +5231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guàishòu | 277970 | [277970-guaishou.json](./277970-guaishou.json) |
 | Guānyú Sīmén Shì de Yīxiē Chuányán | 397690 | [397690-guanyu-simen-shi-de-yixie-chuanyan.json](./397690-guanyu-simen-shi-de-yixie-chuanyan.json) |
 | Guānyú Wǒ Bèi Xuéjiě Jiǎn Huí Jiā Dāng Nǚyǒu Zhè Jiàn Shì | 397226 | [397226-guanyu-wo-bei-xuejie-jian-hui-jia-dang-nuyou-zhe-jian-shi.json](./397226-guanyu-wo-bei-xuejie-jian-hui-jia-dang-nuyou-zhe-jian-shi.json) |
+| Guard Force: Covert Strike | 133754 | [133754-guard-force-covert-strike.json](./133754-guard-force-covert-strike.json) |
 | Guard of Wonderland VR | 88126 | [88126-guard-of-wonderland-vr.json](./88126-guard-of-wonderland-vr.json) |
 | Guarded | 313893 | [313893-guarded.json](./313893-guarded.json) |
 | Guardian | 15542 | [15542-guardian.json](./15542-guardian.json) |
@@ -5791,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns Up! Mobile | 175705 | [175705-guns-up-mobile.json](./175705-guns-up-mobile.json) |
 | Guns, Blocks, and Steel | 326239 | [326239-guns-blocks-and-steel.json](./326239-guns-blocks-and-steel.json) |
 | Guns, Camera, Action! | 185481 | [185481-guns-camera-action.json](./185481-guns-camera-action.json) |
+| Guns, Gore & Cannoli 1 & 2 | 133772 | [133772-guns-gore-and-cannoli-1-and-2.json](./133772-guns-gore-and-cannoli-1-and-2.json) |
 | Guns'n'Glory | 95410 | [95410-gunsnglory.json](./95410-gunsnglory.json) |
 | Guns'n'Glory Heroes | 68958 | [68958-gunsnglory-heroes.json](./68958-gunsnglory-heroes.json) |
 | Guns'n'Glory Zombies | 296073 | [296073-gunsnglory-zombies.json](./296073-gunsnglory-zombies.json) |
