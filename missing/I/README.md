@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immune Simulator | 264057 | [264057-immune-simulator.json](./264057-immune-simulator.json) |
 | Immune Simulator Type Z | 265345 | [265345-immune-simulator-type-z.json](./265345-immune-simulator-type-z.json) |
 | Immunica | 385872 | [385872-immunica.json](./385872-immunica.json) |
+| Immunity | 126402 | [126402-immunity.json](./126402-immunity.json) |
 | Immunity Protocol | 401625 | [401625-immunity-protocol.json](./401625-immunity-protocol.json) |
 | Immure | 107517 | [107517-immure.json](./107517-immure.json) |
 | Immure: Part Two | 167302 | [167302-immure-part-two.json](./167302-immure-part-two.json) |
@@ -3375,6 +3376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Hopper | 265141 | [265141-island-hopper.json](./265141-island-hopper.json) |
 | Island King | 261415 | [261415-island-king.json](./261415-island-king.json) |
 | Island Life | 92439 | [92439-island-life.json](./92439-island-life.json) |
+| Island Marauder | 126371 | [126371-island-marauder.json](./126371-island-marauder.json) |
 | Island Master | 264680 | [264680-island-master.json](./264680-island-master.json) |
 | Island Mirrorge VR | 151291 | [151291-island-mirrorge-vr.json](./151291-island-mirrorge-vr.json) |
 | Island of 16 Sisters | 371864 | [371864-island-of-16-sisters.json](./371864-island-of-16-sisters.json) |
