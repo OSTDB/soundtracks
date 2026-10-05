@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baker's Dozen | 260859 | [260859-bakers-dozen.json](./260859-bakers-dozen.json) |
 | Bakeru | 254466 | [254466-bakeru.json](./254466-bakeru.json) |
 | Bakery Magnate: Beginning | 292692 | [292692-bakery-magnate-beginning.json](./292692-bakery-magnate-beginning.json) |
+| Bakery Master | 147091 | [147091-bakery-master.json](./147091-bakery-master.json) |
 | Bakery Shop Match Up | 338187 | [338187-bakery-shop-match-up.json](./338187-bakery-shop-match-up.json) |
 | Bakery Shop Simulator | 145637 | [145637-bakery-shop-simulator.json](./145637-bakery-shop-simulator.json) |
 | Bakery Story | 39198 | [39198-bakery-story.json](./39198-bakery-story.json) |
@@ -5197,6 +5198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasteron | 75176 | [75176-blasteron.json](./75176-blasteron.json) |
 | Blastforge Breach | 368628 | [368628-blastforge-breach.json](./368628-blastforge-breach.json) |
 | BlastFort | 164265 | [164265-blastfort.json](./164265-blastfort.json) |
+| Blastful | 147122 | [147122-blastful.json](./147122-blastful.json) |
 | BlastMorph: Pinball | 372572 | [372572-blastmorph-pinball.json](./372572-blastmorph-pinball.json) |
 | Blasto | 377825 | [377825-blasto.json](./377825-blasto.json) |
 | Blastoids | 394380 | [394380-blastoids.json](./394380-blastoids.json) |
