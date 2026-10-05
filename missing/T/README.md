@@ -10127,6 +10127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unseen Fears: Body Thief - Collector's Edition | 377077 | [377077-the-unseen-fears-body-thief-collectors-edition.json](./377077-the-unseen-fears-body-thief-collectors-edition.json) |
 | The Unseen Fears: Inner Darkness - Collector's Edition | 416788 | [416788-the-unseen-fears-inner-darkness-collectors-edition.json](./416788-the-unseen-fears-inner-darkness-collectors-edition.json) |
 | The Unseen Fears: Ominous Talent | 187937 | [187937-the-unseen-fears-ominous-talent.json](./187937-the-unseen-fears-ominous-talent.json) |
+| The Unseen Fears: Ominous Talent - Collector's Edition | 128960 | [128960-the-unseen-fears-ominous-talent-collectors-edition.json](./128960-the-unseen-fears-ominous-talent-collectors-edition.json) |
 | The Unseen Fears: Outlive - Collector's Edition | 360664 | [360664-the-unseen-fears-outlive-collectors-edition.json](./360664-the-unseen-fears-outlive-collectors-edition.json) |
 | The Unseen Fears: Stories Untold | 187940 | [187940-the-unseen-fears-stories-untold.json](./187940-the-unseen-fears-stories-untold.json) |
 | The Unseen Fears: Stories Untold - Collector's Edition | 202738 | [202738-the-unseen-fears-stories-untold-collectors-edition.json](./202738-the-unseen-fears-stories-untold-collectors-edition.json) |
@@ -10755,6 +10756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theo Space Miner | 248818 | [248818-theo-space-miner.json](./248818-theo-space-miner.json) |
 | Theo's World | 150276 | [150276-theos-world.json](./150276-theos-world.json) |
 | Theocracy | 226158 | [226158-theocracy.json](./226158-theocracy.json) |
+| Theology | 128956 | [128956-theology.json](./128956-theology.json) |
 | Theomachiae | 172159 | [172159-theomachiae.json](./172159-theomachiae.json) |
 | Theory | 288813 | [288813-theory.json](./288813-theory.json) |
 | Theory of Poltaran | 186314 | [186314-theory-of-poltaran.json](./186314-theory-of-poltaran.json) |
@@ -16490,6 +16492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trashpunk | 132687 | [132687-trashpunk.json](./132687-trashpunk.json) |
 | Trashville | 29546 | [29546-trashville.json](./29546-trashville.json) |
 | Trashyard | 163192 | [163192-trashyard.json](./163192-trashyard.json) |
+| Trasta | 128978 | [128978-trasta.json](./128978-trasta.json) |
 | Tratel64 | 75207 | [75207-tratel64.json](./75207-tratel64.json) |
 | Traulian: O Ultimo General | 293900 | [293900-traulian-o-ultimo-general.json](./293900-traulian-o-ultimo-general.json) |
 | Traum | 89421 | [89421-traum.json](./89421-traum.json) |
