@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed & Edda: Grand Prix – Racing Champions | 346020 | [346020-ed-and-edda-grand-prix-racing-champions.json](./346020-ed-and-edda-grand-prix-racing-champions.json) |
 | Ed Chess | 93042 | [93042-ed-chess.json](./93042-ed-chess.json) |
 | Ed-0: Zombie Uprising | 195077 | [195077-ed-0-zombie-uprising.json](./195077-ed-0-zombie-uprising.json) |
+| Ed, Edd n Eddy: Clash of the Idiots | 159198 | [159198-ed-edd-n-eddy-clash-of-the-idiots.json](./159198-ed-edd-n-eddy-clash-of-the-idiots.json) |
 | Ed, Edd n Eddy: Cul-de-Sac Smash | 374686 | [374686-ed-edd-n-eddy-cul-de-sac-smash.json](./374686-ed-edd-n-eddy-cul-de-sac-smash.json) |
 | Ed, Edd n Eddy: Scam of the Century | 2817 | [2817-ed-edd-n-eddy-scam-of-the-century.json](./2817-ed-edd-n-eddy-scam-of-the-century.json) |
 | Ed, Edd n Eddy: The Mis-Edventures | 2722 | [2722-ed-edd-n-eddy-the-mis-edventures.json](./2722-ed-edd-n-eddy-the-mis-edventures.json) |
