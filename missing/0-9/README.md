@@ -1540,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 86 Daily Drift Simulator JDM | 223929 | [223929-86-daily-drift-simulator-jdm.json](./223929-86-daily-drift-simulator-jdm.json) |
 | 86'd | 387024 | [387024-86d.json](./387024-86d.json) |
 | 868-Hack | 17034 | [17034-868-hack.json](./17034-868-hack.json) |
+| 87 Aftermath: A Rolling Ball Game | 154563 | [154563-87-aftermath-a-rolling-ball-game.json](./154563-87-aftermath-a-rolling-ball-game.json) |
 | 8874 | 216774 | [216774-8874.json](./216774-8874.json) |
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
 | 8AM | 288739 | [288739-8am.json](./288739-8am.json) |
