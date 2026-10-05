@@ -3732,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ally Gory: The Great Mushroom Hunt | 171998 | [171998-ally-gory-the-great-mushroom-hunt.json](./171998-ally-gory-the-great-mushroom-hunt.json) |
 | Ally Racer | 138542 | [138542-ally-racer.json](./138542-ally-racer.json) |
 | Alma | 80915 | [80915-alma.json](./80915-alma.json) |
+| Almanac of Girlswampwar Territory & The Girls Who Swim as Fertilizer Through the Warm Soil Cloaking the Roots of the Glorious Tree of Eugenics: Giving Birth to a Black Hole in a Walmart Parking Lot at 1am | 131413 | [131413-almanac-of-girlswampwar-territory-and-the-girls-who-swim-as-fertilizer-through-the-warm-soil-cloaking-the-roots-of-the-glorious-tree-of-eugenics-giving-birth-to-a-black-hole-in-a-walmart-parking-lot-at-1am.json](./131413-almanac-of-girlswampwar-territory-and-the-girls-who-swim-as-fertilizer-through-the-warm-soil-cloaking-the-roots-of-the-glorious-tree-of-eugenics-giving-birth-to-a-black-hole-in-a-walmart-parking-lot-at-1am.json) |
 | Almanac: Detective Agency | 399143 | [399143-almanac-detective-agency.json](./399143-almanac-detective-agency.json) |
 | Almanaque Recreio | 227215 | [227215-almanaque-recreio.json](./227215-almanaque-recreio.json) |
 | Almari | 167076 | [167076-almari.json](./167076-almari.json) |
@@ -7350,6 +7351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrival, or Attack of the B-Movie Clichés | 314038 | [314038-arrival-or-attack-of-the-b-movie-cliches.json](./314038-arrival-or-attack-of-the-b-movie-cliches.json) |
 | Arrog | 127144 | [127144-arrog.json](./127144-arrog.json) |
 | Arrogation: Unlight of Day | 220743 | [220743-arrogation-unlight-of-day.json](./220743-arrogation-unlight-of-day.json) |
+| Arrow | 131325 | [131325-arrow.json](./131325-arrow.json) |
 | Arrow Bingo | 382773 | [382773-arrow-bingo.json](./382773-arrow-bingo.json) |
 | Arrow Busters | 97349 | [97349-arrow-busters.json](./97349-arrow-busters.json) |
 | Arrow Dungeon | 351720 | [351720-arrow-dungeon.json](./351720-arrow-dungeon.json) |
@@ -8455,6 +8457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Anniversary Advance | 80442 | [80442-atari-anniversary-advance.json](./80442-atari-anniversary-advance.json) |
 | Atari Anniversary Edition Redux | 43923 | [43923-atari-anniversary-edition-redux.json](./43923-atari-anniversary-edition-redux.json) |
 | Atari Arcade Hits: Volume 1 | 80627 | [80627-atari-arcade-hits-volume-1.json](./80627-atari-arcade-hits-volume-1.json) |
+| Atari Basketball | 131421 | [131421-atari-basketball.json](./131421-atari-basketball.json) |
 | Atari Classics Games | 301495 | [301495-atari-classics-games.json](./301495-atari-classics-games.json) |
 | Atari Classics: Evolved | 46023 | [46023-atari-classics-evolved.json](./46023-atari-classics-evolved.json) |
 | Atari Climber | 40769 | [40769-atari-climber.json](./40769-atari-climber.json) |
