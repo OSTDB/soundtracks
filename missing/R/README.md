@@ -5098,6 +5098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock-n-Roll Domo | 68058 | [68058-rock-n-roll-domo.json](./68058-rock-n-roll-domo.json) |
 | Rock-Slide | 94350 | [94350-rock-slide.json](./94350-rock-slide.json) |
 | Rock, Ken, Bo | 28807 | [28807-rock-ken-bo.json](./28807-rock-ken-bo.json) |
+| Rock, Paper and Scissors | 114274 | [114274-rock-paper-and-scissors.json](./114274-rock-paper-and-scissors.json) |
 | Rock, Paper, Scissors Simulator | 127238 | [127238-rock-paper-scissors-simulator.json](./127238-rock-paper-scissors-simulator.json) |
 | Rock, Paper, Scissors, Shoot! | 408804 | [408804-rock-paper-scissors-shoot.json](./408804-rock-paper-scissors-shoot.json) |
 | Rock, the Tree Hugger | 34732 | [34732-rock-the-tree-hugger.json](./34732-rock-the-tree-hugger.json) |
@@ -6243,6 +6244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rowdy Wrestling | 104211 | [104211-rowdy-wrestling.json](./104211-rowdy-wrestling.json) |
 | Rowen's Grand Adventure | 366391 | [366391-rowens-grand-adventure.json](./366391-rowens-grand-adventure.json) |
 | Rowfall | 200524 | [200524-rowfall.json](./200524-rowfall.json) |
+| RowRow | 114270 | [114270-rowrow.json](./114270-rowrow.json) |
 | Rowtropia | 260628 | [260628-rowtropia.json](./260628-rowtropia.json) |
 | Rox | 50066 | [50066-rox.json](./50066-rox.json) |
 | Rox II | 315507 | [315507-rox-ii.json](./315507-rox-ii.json) |
