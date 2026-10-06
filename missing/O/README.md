@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscure Doubt | 117068 | [117068-obscure-doubt.json](./117068-obscure-doubt.json) |
 | Obscure Figures | 387648 | [387648-obscure-figures.json](./387648-obscure-figures.json) |
 | Obscure Horrors | 386684 | [386684-obscure-horrors.json](./386684-obscure-horrors.json) |
+| Obscure: Dark Aura | 66408 | [66408-obscure-dark-aura.json](./66408-obscure-dark-aura.json) |
 | ObsCure: The Aftermath | 5080 | [5080-obscure-the-aftermath.json](./5080-obscure-the-aftermath.json) |
 | Obscuria | 295906 | [295906-obscuria.json](./295906-obscuria.json) |
 | Obscuritas | 18431 | [18431-obscuritas.json](./18431-obscuritas.json) |
@@ -977,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMG: One Million Guns | 160219 | [160219-omg-one-million-guns.json](./160219-omg-one-million-guns.json) |
 | OMG: One More Goal - Basic Campaigns Pack | 226124 | [226124-omg-one-more-goal-basic-campaigns-pack.json](./226124-omg-one-more-goal-basic-campaigns-pack.json) |
 | OMG: One More Goal! | 157072 | [157072-omg-one-more-goal.json](./157072-omg-one-more-goal.json) |
+| OMG: Our Manic Game | 66420 | [66420-omg-our-manic-game.json](./66420-omg-our-manic-game.json) |
 | Omi Oh My AI | 215393 | [215393-omi-oh-my-ai.json](./215393-omi-oh-my-ai.json) |
 | Omicroid | 107675 | [107675-omicroid.json](./107675-omicroid.json) |
 | Omicron: Coronavirus Battlegrounds | 393453 | [393453-omicron-coronavirus-battlegrounds.json](./393453-omicron-coronavirus-battlegrounds.json) |
