@@ -1671,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Kings VR | 89255 | [89255-baseball-kings-vr.json](./89255-baseball-kings-vr.json) |
 | Baseball Mogul | 605 | [605-baseball-mogul.json](./605-baseball-mogul.json) |
 | Baseball Mogul 2000 | 72675 | [72675-baseball-mogul-2000.json](./72675-baseball-mogul-2000.json) |
+| Baseball Mogul 2003 | 94396 | [94396-baseball-mogul-2003.json](./94396-baseball-mogul-2003.json) |
 | Baseball Mogul 2004 | 72677 | [72677-baseball-mogul-2004.json](./72677-baseball-mogul-2004.json) |
 | Baseball Mogul 2005 | 72676 | [72676-baseball-mogul-2005.json](./72676-baseball-mogul-2005.json) |
 | Baseball Mogul 2006 | 23801 | [23801-baseball-mogul-2006.json](./23801-baseball-mogul-2006.json) |
@@ -9582,6 +9583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burn | 171449 | [171449-burn.json](./171449-burn.json) |
 | Burn | 311118 | [311118-burn.json](./311118-burn.json) |
 | Burn | 365241 | [365241-burn.json](./365241-burn.json) |
+| Burn | 94391 | [94391-burn.json](./94391-burn.json) |
 | Burn Ban | 104776 | [104776-burn-ban.json](./104776-burn-ban.json) |
 | Burn Depth | 203891 | [203891-burn-depth.json](./203891-burn-depth.json) |
 | Burn It Down | 47991 | [47991-burn-it-down.json](./47991-burn-it-down.json) |
