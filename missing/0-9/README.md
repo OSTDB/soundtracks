@@ -1514,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Gunfighters | 345137 | [345137-7-gunfighters.json](./345137-7-gunfighters.json) |
 | 7 Horizons | 210898 | [210898-7-horizons.json](./210898-7-horizons.json) |
 | 7 Invaders | 293240 | [293240-7-invaders.json](./293240-7-invaders.json) |
+| 7 Light-Years | 62017 | [62017-7-light-years.json](./62017-7-light-years.json) |
 | 7 Little Words | 115641 | [115641-7-little-words.json](./115641-7-little-words.json) |
 | 7 Lives | 119530 | [119530-7-lives.json](./119530-7-lives.json) |
 | 7 Mages | 33448 | [33448-7-mages.json](./33448-7-mages.json) |
