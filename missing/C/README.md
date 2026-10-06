@@ -10199,6 +10199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal core | 124212 | [124212-crystal-core.json](./124212-crystal-core.json) |
 | Crystal Cosmos | 32244 | [32244-crystal-cosmos.json](./32244-crystal-cosmos.json) |
 | Crystal Crisis | 101152 | [101152-crystal-crisis.json](./101152-crystal-crisis.json) |
+| Crystal Crush | 70620 | [70620-crystal-crush.json](./70620-crystal-crush.json) |
 | Crystal Daze | 274680 | [274680-crystal-daze.json](./274680-crystal-daze.json) |
 | Crystal Defender | 221126 | [221126-crystal-defender.json](./221126-crystal-defender.json) |
 | Crystal Defenders R1 | 21126 | [21126-crystal-defenders-r1.json](./21126-crystal-defenders-r1.json) |
