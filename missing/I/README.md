@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Dino | 340517 | [340517-idle-dino.json](./340517-idle-dino.json) |
 | Idle Dragon Clicker: Expansion Pack 1 | 263188 | [263188-idle-dragon-clicker-expansion-pack-1.json](./263188-idle-dragon-clicker-expansion-pack-1.json) |
 | Idle Dungeons | 103476 | [103476-idle-dungeons.json](./103476-idle-dungeons.json) |
+| Idle Dunk Masters | 106663 | [106663-idle-dunk-masters.json](./106663-idle-dunk-masters.json) |
 | Idle Dyson Swarm | 313189 | [313189-idle-dyson-swarm.json](./313189-idle-dyson-swarm.json) |
 | Idle Elemental | 392446 | [392446-idle-elemental.json](./392446-idle-elemental.json) |
 | Idle Empires | 372697 | [372697-idle-empires.json](./372697-idle-empires.json) |
