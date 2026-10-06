@@ -6277,6 +6277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoundZ | 371910 | [371910-roundz.json](./371910-roundz.json) |
 | Route | 408971 | [408971-route.json](./408971-route.json) |
 | Route 13 | 253864 | [253864-route-13.json](./253864-route-13.json) |
+| Route 401 Motel | 90224 | [90224-route-401-motel.json](./90224-route-401-motel.json) |
 | Route 66 Simulator | 151094 | [151094-route-66-simulator.json](./151094-route-66-simulator.json) |
 | Route Candle for Steam | 90560 | [90560-route-candle-for-steam.json](./90560-route-candle-for-steam.json) |
 | Route Me Mail and Delivery Co | 147477 | [147477-route-me-mail-and-delivery-co.json](./147477-route-me-mail-and-delivery-co.json) |
