@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ways | 323521 | [323521-ways.json](./323521-ways.json) |
 | Ways of Alchemy | 333069 | [333069-ways-of-alchemy.json](./333069-ways-of-alchemy.json) |
 | Ways Unknown | 408278 | [408278-ways-unknown.json](./408278-ways-unknown.json) |
+| Ways&Ball | 116244 | [116244-ways-and-ball.json](./116244-ways-and-ball.json) |
 | Waystones | 341864 | [341864-waystones.json](./341864-waystones.json) |
 | Wayward | 22099 | [22099-wayward.json](./22099-wayward.json) |
 | Wayward Rose | 248050 | [248050-wayward-rose.json](./248050-wayward-rose.json) |
@@ -2618,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Silence | 388720 | [388720-white-silence.json](./388720-white-silence.json) |
 | White Sky | 151583 | [151583-white-sky.json](./151583-white-sky.json) |
 | White Space | 60500 | [60500-white-space.json](./60500-white-space.json) |
+| White Sun | 116274 | [116274-white-sun.json](./116274-white-sun.json) |
 | White Tiles 4: Piano Master 2 | 87008 | [87008-white-tiles-4-piano-master-2.json](./87008-white-tiles-4-piano-master-2.json) |
 | White Tiles Master | 233743 | [233743-white-tiles-master.json](./233743-white-tiles-master.json) |
 | White Tiles: Widescreen | 91149 | [91149-white-tiles-widescreen.json](./91149-white-tiles-widescreen.json) |
