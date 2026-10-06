@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Big Game Hunter: 2004 Season | 69861 | [69861-cabelas-big-game-hunter-2004-season.json](./69861-cabelas-big-game-hunter-2004-season.json) |
 | Cabela's Big Game Hunter: Ultimate Challenge | 45298 | [45298-cabelas-big-game-hunter-ultimate-challenge.json](./45298-cabelas-big-game-hunter-ultimate-challenge.json) |
 | Cabela's Dangerous Hunts | 5763 | [5763-cabelas-dangerous-hunts.json](./5763-cabelas-dangerous-hunts.json) |
+| Cabela's Dangerous Hunts: Ultimate Challenge | 80845 | [80845-cabelas-dangerous-hunts-ultimate-challenge.json](./80845-cabelas-dangerous-hunts-ultimate-challenge.json) |
 | Cabela's Deer Hunt: 2004 Season | 5764 | [5764-cabelas-deer-hunt-2004-season.json](./5764-cabelas-deer-hunt-2004-season.json) |
 | Cabela's Deer Hunt: 2005 Season | 5765 | [5765-cabelas-deer-hunt-2005-season.json](./5765-cabelas-deer-hunt-2005-season.json) |
 | Cabela's Grand Slam Hunting: North American 29 | 78057 | [78057-cabelas-grand-slam-hunting-north-american-29.json](./78057-cabelas-grand-slam-hunting-north-american-29.json) |
@@ -1250,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardcaptor Sakura: Happiness Memories | 107654 | [107654-cardcaptor-sakura-happiness-memories.json](./107654-cardcaptor-sakura-happiness-memories.json) |
 | Cardcaptor Sakura: Repaint Record | 137637 | [137637-cardcaptor-sakura-repaint-record.json](./137637-cardcaptor-sakura-repaint-record.json) |
 | Cardcaptor Sakura: Sakura Card de Mini-Game | 49519 | [49519-cardcaptor-sakura-sakura-card-de-mini-game.json](./49519-cardcaptor-sakura-sakura-card-de-mini-game.json) |
+| Cardcaptor Sakura: Sakura-Chan to Asobo! | 80800 | [80800-cardcaptor-sakura-sakura-chan-to-asobo.json](./80800-cardcaptor-sakura-sakura-chan-to-asobo.json) |
 | Cardchery | 267487 | [267487-cardchery.json](./267487-cardchery.json) |
 | Cardcore | 112475 | [112475-cardcore.json](./112475-cardcore.json) |
 | CardCraft | 76552 | [76552-cardcraft.json](./76552-cardcraft.json) |
@@ -10219,6 +10221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSI: Deadly Intent | 4780 | [4780-csi-deadly-intent.json](./4780-csi-deadly-intent.json) |
 | CSI: Hard Evidence | 4782 | [4782-csi-hard-evidence.json](./4782-csi-hard-evidence.json) |
 | CSI: Hidden Crimes | 61730 | [61730-csi-hidden-crimes.json](./61730-csi-hidden-crimes.json) |
+| CSI: Miami | 80816 | [80816-csi-miami.json](./80816-csi-miami.json) |
 | CSI: New York | 50800 | [50800-csi-new-york.json](./50800-csi-new-york.json) |
 | CSI: NY | 70640 | [70640-csi-ny.json](./70640-csi-ny.json) |
 | CSI: Slots | 79913 | [79913-csi-slots.json](./79913-csi-slots.json) |
