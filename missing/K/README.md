@@ -1651,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur's Heir | 23970 | [23970-king-arthurs-heir.json](./23970-king-arthurs-heir.json) |
 | King Arthur's K.O.R.T. | 69839 | [69839-king-arthurs-k-o-r-t.json](./69839-king-arthurs-k-o-r-t.json) |
 | King Arthur's Magic Castle | 213275 | [213275-king-arthurs-magic-castle.json](./213275-king-arthurs-magic-castle.json) |
+| King Battle | 82342 | [82342-king-battle.json](./82342-king-battle.json) |
 | King Boo | 190020 | [190020-king-boo.json](./190020-king-boo.json) |
 | King Boo's Revenge PC | 378293 | [378293-king-boos-revenge-pc.json](./378293-king-boos-revenge-pc.json) |
 | King Boo's Seven Towers | 313302 | [313302-king-boos-seven-towers.json](./313302-king-boos-seven-towers.json) |
@@ -1868,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Atham: Crown of the Champions | 166715 | [166715-kingdom-of-atham-crown-of-the-champions.json](./166715-kingdom-of-atham-crown-of-the-champions.json) |
 | Kingdom of Bärn | 279129 | [279129-kingdom-of-barn.json](./279129-kingdom-of-barn.json) |
 | Kingdom of Bees | 158602 | [158602-kingdom-of-bees.json](./158602-kingdom-of-bees.json) |
+| Kingdom of Blades | 82339 | [82339-kingdom-of-blades.json](./82339-kingdom-of-blades.json) |
 | Kingdom of Cards | 278608 | [278608-kingdom-of-cards.json](./278608-kingdom-of-cards.json) |
 | Kingdom of Dinza | 190179 | [190179-kingdom-of-dinza.json](./190179-kingdom-of-dinza.json) |
 | Kingdom of Fallen: The Last Stand | 270161 | [270161-kingdom-of-fallen-the-last-stand.json](./270161-kingdom-of-fallen-the-last-stand.json) |
@@ -3321,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunoichi Beat | 369589 | [369589-kunoichi-beat.json](./369589-kunoichi-beat.json) |
 | Kunoichi Ninja | 122218 | [122218-kunoichi-ninja.json](./122218-kunoichi-ninja.json) |
 | Kunoichi Ninpocho | 97516 | [97516-kunoichi-ninpocho.json](./97516-kunoichi-ninpocho.json) |
+| Kunoichi Rush | 82325 | [82325-kunoichi-rush.json](./82325-kunoichi-rush.json) |
 | Kunoichi Torimonocho | 123577 | [123577-kunoichi-torimonocho.json](./123577-kunoichi-torimonocho.json) |
 | Kunoichi Trainer | 343453 | [343453-kunoichi-trainer.json](./343453-kunoichi-trainer.json) |
 | KunSpace | 365816 | [365816-kunspace.json](./365816-kunspace.json) |
