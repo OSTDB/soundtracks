@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obedient Servant | 213442 | [213442-obedient-servant.json](./213442-obedient-servant.json) |
 | Obeebok | 266395 | [266395-obeebok.json](./266395-obeebok.json) |
 | Obelisk | 130194 | [130194-obelisk.json](./130194-obelisk.json) |
+| Obelix | 71703 | [71703-obelix.json](./71703-obelix.json) |
 | Obelus Manor | 374844 | [374844-obelus-manor.json](./374844-obelus-manor.json) |
 | Obenseuer | 111983 | [111983-obenseuer.json](./111983-obenseuer.json) |
 | Oberak | 270146 | [270146-oberak.json](./270146-oberak.json) |
@@ -1833,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OOTP Baseball Go! | 141512 | [141512-ootp-baseball-go.json](./141512-ootp-baseball-go.json) |
 | Ooze Odyssey | 260231 | [260231-ooze-odyssey.json](./260231-ooze-odyssey.json) |
 | Ooze: Creepy Nights | 57695 | [57695-ooze-creepy-nights.json](./57695-ooze-creepy-nights.json) |
+| Ooze: Creepy Nites | 71746 | [71746-ooze-creepy-nites.json](./71746-ooze-creepy-nites.json) |
 | Ooze: The Great and Powerful | 265315 | [265315-ooze-the-great-and-powerful.json](./265315-ooze-the-great-and-powerful.json) |
 | Oozin' in Space! | 179552 | [179552-oozin-in-space.json](./179552-oozin-in-space.json) |
 | Oozing Blasphemy | 271241 | [271241-oozing-blasphemy.json](./271241-oozing-blasphemy.json) |
@@ -2041,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oprost | 380109 | [380109-oprost.json](./380109-oprost.json) |
 | Opscam | 337156 | [337156-opscam.json](./337156-opscam.json) |
 | OpsCam: Body Cam Shooter | 345675 | [345675-opscam-body-cam-shooter.json](./345675-opscam-body-cam-shooter.json) |
+| Opsys | 71749 | [71749-opsys.json](./71749-opsys.json) |
 | Optasia: The Last Visit | 391034 | [391034-optasia-the-last-visit.json](./391034-optasia-the-last-visit.json) |
 | Optica | 107226 | [107226-optica.json](./107226-optica.json) |
 | Optical Illusions | 282729 | [282729-optical-illusions.json](./282729-optical-illusions.json) |
@@ -3249,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owe Money Pay Money | 301251 | [301251-owe-money-pay-money.json](./301251-owe-money-pay-money.json) |
 | Owen to have fun! | 101363 | [101363-owen-to-have-fun.json](./101363-owen-to-have-fun.json) |
 | Owl Bounce | 378912 | [378912-owl-bounce.json](./378912-owl-bounce.json) |
+| Owl Country | 71729 | [71729-owl-country.json](./71729-owl-country.json) |
 | Owl Force | 319661 | [319661-owl-force.json](./319661-owl-force.json) |
 | Owl Glider Adventure | 359432 | [359432-owl-glider-adventure.json](./359432-owl-glider-adventure.json) |
 | Owl Observatory | 278717 | [278717-owl-observatory.json](./278717-owl-observatory.json) |
