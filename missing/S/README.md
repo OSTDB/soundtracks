@@ -1677,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Maze | 72059 | [72059-school-maze.json](./72059-school-maze.json) |
 | School of Chaos Online MMORPG | 172545 | [172545-school-of-chaos-online-mmorpg.json](./172545-school-of-chaos-online-mmorpg.json) |
 | School of Dragons: How to Train Your Dragon | 36191 | [36191-school-of-dragons-how-to-train-your-dragon.json](./36191-school-of-dragons-how-to-train-your-dragon.json) |
+| School of Horror | 104148 | [104148-school-of-horror.json](./104148-school-of-horror.json) |
 | School of Talent: Suzu-Route | 29932 | [29932-school-of-talent-suzu-route.json](./29932-school-of-talent-suzu-route.json) |
 | School Out Simulator2 | 296443 | [296443-school-out-simulator2.json](./296443-school-out-simulator2.json) |
 | School Out Simulator3 | 296444 | [296444-school-out-simulator3.json](./296444-school-out-simulator3.json) |
@@ -2557,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Dark: Eclipse Mountain - Collector's Edition | 96752 | [96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json](./96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json) |
 | Secrets of the Dark: Mystery of the Ancestral Estate & Secrets of the Dark: The Flower of Shadow | 201813 | [201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json](./201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json) |
 | Secrets of the Dark: Temple of Night | 312914 | [312914-secrets-of-the-dark-temple-of-night.json](./312914-secrets-of-the-dark-temple-of-night.json) |
+| Secrets of the Dark: The Flower of Shadow | 103992 | [103992-secrets-of-the-dark-the-flower-of-shadow.json](./103992-secrets-of-the-dark-the-flower-of-shadow.json) |
 | Secrets of the Heart | 399771 | [399771-secrets-of-the-heart.json](./399771-secrets-of-the-heart.json) |
 | Secrets of the Heartbeat | 302353 | [302353-secrets-of-the-heartbeat.json](./302353-secrets-of-the-heartbeat.json) |
 | Secrets of the Lost Tomb | 165626 | [165626-secrets-of-the-lost-tomb.json](./165626-secrets-of-the-lost-tomb.json) |
@@ -5385,6 +5387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuyaku ni Narenai Boku-tachi ha Kadan de Kaeru wo Tsubusunda. | 314849 | [314849-shuyaku-ni-narenai-boku-tachi-ha-kadan-de-kaeru-wo-tsubusunda.json](./314849-shuyaku-ni-narenai-boku-tachi-ha-kadan-de-kaeru-wo-tsubusunda.json) |
 | Shuyaku wa Zenigata | 66203 | [66203-shuyaku-wa-zenigata.json](./66203-shuyaku-wa-zenigata.json) |
 | Shuyan Saga | 27692 | [27692-shuyan-saga.json](./27692-shuyan-saga.json) |
+| Shuyan Saga: All Episodes | 103995 | [103995-shuyan-saga-all-episodes.json](./103995-shuyan-saga-all-episodes.json) |
 | Shuyun Huazhang | 335360 | [335360-shuyun-huazhang.json](./335360-shuyun-huazhang.json) |
 | Shwip | 71778 | [71778-shwip.json](./71778-shwip.json) |
 | Shy Boy: Escape Game | 223915 | [223915-shy-boy-escape-game.json](./223915-shy-boy-escape-game.json) |
@@ -6979,6 +6982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyscraper Climb VR | 90824 | [90824-skyscraper-climb-vr.json](./90824-skyscraper-climb-vr.json) |
 | Skyscraper Jump | 199392 | [199392-skyscraper-jump.json](./199392-skyscraper-jump.json) |
 | Skyscraper Simulator | 9421 | [9421-skyscraper-simulator.json](./9421-skyscraper-simulator.json) |
+| Skyscrapers Puzzle: Airi's tale | 104155 | [104155-skyscrapers-puzzle-airis-tale.json](./104155-skyscrapers-puzzle-airis-tale.json) |
 | SkyShard | 362918 | [362918-skyshard.json](./362918-skyshard.json) |
 | Skyshine's Bedlam | 12637 | [12637-skyshines-bedlam.json](./12637-skyshines-bedlam.json) |
 | Skyshine's Bedlam Redux! | 51904 | [51904-skyshines-bedlam-redux.json](./51904-skyshines-bedlam-redux.json) |
@@ -7277,6 +7281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slick | 63260 | [63260-slick.json](./63260-slick.json) |
 | Slick Slack | 277300 | [277300-slick-slack.json](./277300-slick-slack.json) |
 | Slick Tricks: Potion Persuasion! | 386101 | [386101-slick-tricks-potion-persuasion.json](./386101-slick-tricks-potion-persuasion.json) |
+| Slickpoo : The Clown | 103983 | [103983-slickpoo-the-clown.json](./103983-slickpoo-the-clown.json) |
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
 | Slide & Magic | 390729 | [390729-slide-and-magic.json](./390729-slide-and-magic.json) |
 | Slide 2 Solve Puzzle | 175341 | [175341-slide-2-solve-puzzle.json](./175341-slide-2-solve-puzzle.json) |
@@ -10880,6 +10885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Raiders in Space + Clumsy Rush | 230406 | [230406-space-raiders-in-space-clumsy-rush.json](./230406-space-raiders-in-space-clumsy-rush.json) |
 | Space Ranger ASK | 33316 | [33316-space-ranger-ask.json](./33316-space-ranger-ask.json) |
 | Space Ranger VR | 130231 | [130231-space-ranger-vr.json](./130231-space-ranger-vr.json) |
+| Space Ranger vs. Reptiloids | 104160 | [104160-space-ranger-vs-reptiloids.json](./104160-space-ranger-vs-reptiloids.json) |
 | Space Ranger: Return to Earth | 45907 | [45907-space-ranger-return-to-earth.json](./45907-space-ranger-return-to-earth.json) |
 | Space Rangers | 7592 | [7592-space-rangers.json](./7592-space-rangers.json) |
 | Space Rangers 2: Dominators | 7593 | [7593-space-rangers-2-dominators.json](./7593-space-rangers-2-dominators.json) |
