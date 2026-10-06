@@ -883,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jig-a-Pix: Love Is... | 269784 | [269784-jig-a-pix-love-is.json](./269784-jig-a-pix-love-is.json) |
 | Jigdoku | 404203 | [404203-jigdoku.json](./404203-jigdoku.json) |
 | JigDoku | 91734 | [91734-jigdoku.json](./91734-jigdoku.json) |
+| Jìgěi Míngrì de Xīwàng | 115581 | [115581-jigei-mingri-de-xiwang.json](./115581-jigei-mingri-de-xiwang.json) |
 | Jigen Bakudan Kaijo | 349942 | [349942-jigen-bakudan-kaijo.json](./349942-jigen-bakudan-kaijo.json) |
 | Jigenro | 402443 | [402443-jigenro.json](./402443-jigenro.json) |
 | Jiggly Zone | 250524 | [250524-jiggly-zone.json](./250524-jiggly-zone.json) |
