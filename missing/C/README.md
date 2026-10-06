@@ -9028,6 +9028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Hands | 164865 | [164865-crazy-hands.json](./164865-crazy-hands.json) |
 | Crazy Hill Racing | 235200 | [235200-crazy-hill-racing.json](./235200-crazy-hill-racing.json) |
 | Crazy Hit 2 | 275261 | [275261-crazy-hit-2.json](./275261-crazy-hit-2.json) |
+| Crazy Home Run! | 87878 | [87878-crazy-home-run.json](./87878-crazy-home-run.json) |
 | Crazy Hospital | 220209 | [220209-crazy-hospital.json](./220209-crazy-hospital.json) |
 | Crazy Indian | 157555 | [157555-crazy-indian.json](./157555-crazy-indian.json) |
 | Crazy Indian: Minion Skins | 157556 | [157556-crazy-indian-minion-skins.json](./157556-crazy-indian-minion-skins.json) |
@@ -9273,6 +9274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crepitations | 275210 | [275210-crepitations.json](./275210-crepitations.json) |
 | Crescendo | 176855 | [176855-crescendo.json](./176855-crescendo.json) |
 | Crescendo Of Dreams + Surmounting Terror | 271490 | [271490-crescendo-of-dreams-surmounting-terror.json](./271490-crescendo-of-dreams-surmounting-terror.json) |
+| Crescent Bay | 87811 | [87811-crescent-bay.json](./87811-crescent-bay.json) |
 | Crescent Bloom | 215095 | [215095-crescent-bloom.json](./215095-crescent-bloom.json) |
 | Crescent County | 305181 | [305181-crescent-county.json](./305181-crescent-county.json) |
 | Crescent Creek: Survival Horror | 416812 | [416812-crescent-creek-survival-horror.json](./416812-crescent-creek-survival-horror.json) |
