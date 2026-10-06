@@ -10306,6 +10306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Gallery | 343946 | [343946-cubic-gallery.json](./343946-cubic-gallery.json) |
 | Cubic Haikus - hikikomori | 418533 | [418533-cubic-haikus-hikikomori.json](./418533-cubic-haikus-hikikomori.json) |
 | Cubic Juice | 158221 | [158221-cubic-juice.json](./158221-cubic-juice.json) |
+| Cubic Kill Array | 106648 | [106648-cubic-kill-array.json](./106648-cubic-kill-array.json) |
 | Cubic Light | 229164 | [229164-cubic-light.json](./229164-cubic-light.json) |
 | Cubic Neon Nightclub | 286764 | [286764-cubic-neon-nightclub.json](./286764-cubic-neon-nightclub.json) |
 | Cubic Ninja | 6754 | [6754-cubic-ninja.json](./6754-cubic-ninja.json) |
