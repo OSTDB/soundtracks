@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xmas Presents | 393452 | [393452-xmas-presents.json](./393452-xmas-presents.json) |
 | Xmas Shooting: Scramble!! | 26594 | [26594-xmas-shooting-scramble.json](./26594-xmas-shooting-scramble.json) |
 | Xmas Survivors | 382876 | [382876-xmas-survivors.json](./382876-xmas-survivors.json) |
+| Xmas Tripeaks | 95661 | [95661-xmas-tripeaks.json](./95661-xmas-tripeaks.json) |
 | Xmas Zombie Rampage | 30079 | [30079-xmas-zombie-rampage.json](./30079-xmas-zombie-rampage.json) |
 | Xmasss Terror | 184503 | [184503-xmasss-terror.json](./184503-xmasss-terror.json) |
 | Xmax KPI | 397086 | [397086-xmax-kpi.json](./397086-xmax-kpi.json) |
