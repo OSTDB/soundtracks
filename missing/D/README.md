@@ -7051,6 +7051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle or Die | 252291 | [252291-doodle-or-die.json](./252291-doodle-or-die.json) |
 | Doodle Smash! | 232578 | [232578-doodle-smash.json](./232578-doodle-smash.json) |
 | Doodle Sprint! | 134445 | [134445-doodle-sprint.json](./134445-doodle-sprint.json) |
+| Doodle Tanks | 76181 | [76181-doodle-tanks.json](./76181-doodle-tanks.json) |
 | Doodle Taxi | 258605 | [258605-doodle-taxi.json](./258605-doodle-taxi.json) |
 | Doodle TD 2 | 295800 | [295800-doodle-td-2.json](./295800-doodle-td-2.json) |
 | Doodle UFO | 246972 | [246972-doodle-ufo.json](./246972-doodle-ufo.json) |
