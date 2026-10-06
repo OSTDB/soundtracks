@@ -10293,6 +10293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Victor Initiative | 320732 | [320732-the-victor-initiative.json](./320732-the-victor-initiative.json) |
 | The Video Game Machine | 123066 | [123066-the-video-game-machine.json](./123066-the-video-game-machine.json) |
 | The Vigil | 271494 | [271494-the-vigil.json](./271494-the-vigil.json) |
+| The Vigil Files: Case 1 | 102258 | [102258-the-vigil-files-case-1.json](./102258-the-vigil-files-case-1.json) |
 | The Vigilant Villa: Non-existent Mirror | 164332 | [164332-the-vigilant-villa-non-existent-mirror.json](./164332-the-vigilant-villa-non-existent-mirror.json) |
 | The Vigilante: Single Shot Justice | 179117 | [179117-the-vigilante-single-shot-justice.json](./179117-the-vigilante-single-shot-justice.json) |
 | The Viking Game | 89704 | [89704-the-viking-game.json](./89704-the-viking-game.json) |
@@ -15335,6 +15336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Shire | 253387 | [253387-toy-shire.json](./253387-toy-shire.json) |
 | Toy Shop | 21299 | [21299-toy-shop.json](./21299-toy-shop.json) |
 | Toy Smash Kaboom! | 347357 | [347357-toy-smash-kaboom.json](./347357-toy-smash-kaboom.json) |
+| Toy soldier: Bastion | 102241 | [102241-toy-soldier-bastion.json](./102241-toy-soldier-bastion.json) |
 | Toy Soldiers | 9450 | [9450-toy-soldiers.json](./9450-toy-soldiers.json) |
 | Toy Soldiers: Cold War | 9485 | [9485-toy-soldiers-cold-war.json](./9485-toy-soldiers-cold-war.json) |
 | Toy Soldiers: War Chest | 15187 | [15187-toy-soldiers-war-chest.json](./15187-toy-soldiers-war-chest.json) |
@@ -17070,6 +17072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrickStyle | 8229 | [8229-trickstyle.json](./8229-trickstyle.json) |
 | TrickStyle Jr. | 227757 | [227757-trickstyle-jr.json](./227757-trickstyle-jr.json) |
 | Tricky and the Dream Caster | 316626 | [316626-tricky-and-the-dream-caster.json](./316626-tricky-and-the-dream-caster.json) |
+| Tricky Ball | 102279 | [102279-tricky-ball.json](./102279-tricky-ball.json) |
 | Tricky Challenge 2 | 90839 | [90839-tricky-challenge-2.json](./90839-tricky-challenge-2.json) |
 | Tricky Challenge 3 | 103875 | [103875-tricky-challenge-3.json](./103875-tricky-challenge-3.json) |
 | Tricky Cow | 286753 | [286753-tricky-cow.json](./286753-tricky-cow.json) |
@@ -17460,6 +17463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Driver: USA Paint Jobs | 241070 | [241070-truck-driver-usa-paint-jobs.json](./241070-truck-driver-usa-paint-jobs.json) |
 | Truck Driving | 362360 | [362360-truck-driving.json](./362360-truck-driving.json) |
 | Truck Go | 197670 | [197670-truck-go.json](./197670-truck-go.json) |
+| Truck Jam | 102271 | [102271-truck-jam.json](./102271-truck-jam.json) |
 | Truck Job | 292294 | [292294-truck-job.json](./292294-truck-job.json) |
 | Truck Journey | 222804 | [222804-truck-journey.json](./222804-truck-journey.json) |
 | Truck Journey: Nitro | 223142 | [223142-truck-journey-nitro.json](./223142-truck-journey-nitro.json) |
