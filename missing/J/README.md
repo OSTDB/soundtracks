@@ -1183,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jing 'an District Copstories | 157043 | [157043-jing-an-district-copstories.json](./157043-jing-an-district-copstories.json) |
 | Jìng Shìjiè | 188441 | [188441-jing-shijie.json](./188441-jing-shijie.json) |
 | Jìngjiè 2: Qiánkūn Yī Zhì | 373687 | [373687-jingjie-2-qiankun-yi-zhi.json](./373687-jingjie-2-qiankun-yi-zhi.json) |
+| Jingle | 81694 | [81694-jingle.json](./81694-jingle.json) |
 | Jingle Cats | 63293 | [63293-jingle-cats.json](./63293-jingle-cats.json) |
 | Jingle Strike VR | 381764 | [381764-jingle-strike-vr.json](./381764-jingle-strike-vr.json) |
 | Jingoku | 175829 | [175829-jingoku.json](./175829-jingoku.json) |
@@ -1848,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump to Die!! | 29758 | [29758-jump-to-die.json](./29758-jump-to-die.json) |
 | Jump To Stratos | 376567 | [376567-jump-to-stratos.json](./376567-jump-to-stratos.json) |
 | Jump To Success | 392341 | [392341-jump-to-success.json](./392341-jump-to-success.json) |
+| Jump to the circle | 81657 | [81657-jump-to-the-circle.json](./81657-jump-to-the-circle.json) |
 | Jump to Win | 22367 | [22367-jump-to-win.json](./22367-jump-to-win.json) |
 | Jump To Win! | 303223 | [303223-jump-to-win.json](./303223-jump-to-win.json) |
 | Jump Tracks | 257315 | [257315-jump-tracks.json](./257315-jump-tracks.json) |
