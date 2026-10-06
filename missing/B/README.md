@@ -2607,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazar Don JC | 404447 | [404447-bazar-don-jc.json](./404447-bazar-don-jc.json) |
 | Bazar Simulator Online | 377169 | [377169-bazar-simulator-online.json](./377169-bazar-simulator-online.json) |
 | Bazar Simulator: The Wan Story | 331338 | [331338-bazar-simulator-the-wan-story.json](./331338-bazar-simulator-the-wan-story.json) |
+| Bazaru de Gozaru no Game de Gozaru | 65278 | [65278-bazaru-de-gozaru-no-game-de-gozaru.json](./65278-bazaru-de-gozaru-no-game-de-gozaru.json) |
 | Bazoik | 178938 | [178938-bazoik.json](./178938-bazoik.json) |
 | Bazooka Blitzkrieg | 42627 | [42627-bazooka-blitzkrieg.json](./42627-bazooka-blitzkrieg.json) |
 | Bazooka Boy | 227498 | [227498-bazooka-boy.json](./227498-bazooka-boy.json) |
@@ -4619,6 +4620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdo vs. Macintosh | 322104 | [322104-birdo-vs-macintosh.json](./322104-birdo-vs-macintosh.json) |
 | Birdo's Holiday Brawl | 279714 | [279714-birdos-holiday-brawl.json](./279714-birdos-holiday-brawl.json) |
 | Birdoo | 352350 | [352350-birdoo.json](./352350-birdoo.json) |
+| Birdopolis | 65262 | [65262-birdopolis.json](./65262-birdopolis.json) |
 | BirdQuest Find the Difference | 351776 | [351776-birdquest-find-the-difference.json](./351776-birdquest-find-the-difference.json) |
 | Birds & Balls | 95233 | [95233-birds-and-balls.json](./95233-birds-and-balls.json) |
 | Birds and Blocks | 147926 | [147926-birds-and-blocks.json](./147926-birds-and-blocks.json) |
@@ -9621,6 +9623,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buoyancy | 115347 | [115347-buoyancy.json](./115347-buoyancy.json) |
 | Bura: The Way the Wind Blows | 217361 | [217361-bura-the-way-the-wind-blows.json](./217361-bura-the-way-the-wind-blows.json) |
 | Burai Fighter Deluxe | 48960 | [48960-burai-fighter-deluxe.json](./48960-burai-fighter-deluxe.json) |
+| Burai: Gekan Kanketsu-hen | 65292 | [65292-burai-gekan-kanketsu-hen.json](./65292-burai-gekan-kanketsu-hen.json) |
+| Burai: Joukan | 65293 | [65293-burai-joukan.json](./65293-burai-joukan.json) |
 | Buraigun: Galaxy Storm | 151561 | [151561-buraigun-galaxy-storm.json](./151561-buraigun-galaxy-storm.json) |
 | Burak Bahar's Unseen Anchor | 83594 | [83594-burak-bahars-unseen-anchor.json](./83594-burak-bahars-unseen-anchor.json) |
 | Buramato | 214744 | [214744-buramato.json](./214744-buramato.json) |
