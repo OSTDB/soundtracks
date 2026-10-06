@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Visit to Sesame Street: Letters | 45945 | [45945-a-visit-to-sesame-street-letters.json](./45945-a-visit-to-sesame-street-letters.json) |
 | A Visit to Sesame Street: Numbers | 46558 | [46558-a-visit-to-sesame-street-numbers.json](./46558-a-visit-to-sesame-street-numbers.json) |
 | A Visitor on Venus | 179590 | [179590-a-visitor-on-venus.json](./179590-a-visitor-on-venus.json) |
+| A Visual Mix: Ayumi Hamasaki Dome Tour 2001 A | 72308 | [72308-a-visual-mix-ayumi-hamasaki-dome-tour-2001-a.json](./72308-a-visual-mix-ayumi-hamasaki-dome-tour-2001-a.json) |
 | A Vøid | 240727 | [240727-a-v-id.json](./240727-a-v-id.json) |
 | A Void Shaper | 277981 | [277981-a-void-shaper.json](./277981-a-void-shaper.json) |
 | A Void Society | 319757 | [319757-a-void-society.json](./319757-a-void-society.json) |
@@ -1672,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advent Shadow | 92698 | [92698-advent-shadow.json](./92698-advent-shadow.json) |
 | Advent/Archive | 352363 | [352363-advent-archive.json](./352363-advent-archive.json) |
 | Adventopia | 355216 | [355216-adventopia.json](./355216-adventopia.json) |
+| Adventsquiz | 72266 | [72266-adventsquiz.json](./72266-adventsquiz.json) |
 | Adventure | 12239 | [12239-adventure.json](./12239-adventure.json) |
 | Adventure | 8253 | [8253-adventure.json](./8253-adventure.json) |
 | Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
@@ -3206,6 +3208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Kidd: Radaxian In Turmoil | 326963 | [326963-alex-kidd-radaxian-in-turmoil.json](./326963-alex-kidd-radaxian-in-turmoil.json) |
 | Alex Kidd: The Lost Stars | 13678 | [13678-alex-kidd-the-lost-stars.json](./13678-alex-kidd-the-lost-stars.json) |
 | Alex the Allegator 2 | 306995 | [306995-alex-the-allegator-2.json](./306995-alex-the-allegator-2.json) |
+| Alex the Allegator 4 | 72286 | [72286-alex-the-allegator-4.json](./72286-alex-the-allegator-4.json) |
 | AleX-World | 125285 | [125285-alex-world.json](./125285-alex-world.json) |
 | Alex's Caves | 316145 | [316145-alexs-caves.json](./316145-alexs-caves.json) |
 | Alex's Journey to the Grave | 319226 | [319226-alexs-journey-to-the-grave.json](./319226-alexs-journey-to-the-grave.json) |
@@ -3219,6 +3222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlexCity 1: Bank Heist | 272009 | [272009-alexcity-1-bank-heist.json](./272009-alexcity-1-bank-heist.json) |
 | AlexCity 1: Bank Heist | 272010 | [272010-alexcity-1-bank-heist.json](./272010-alexcity-1-bank-heist.json) |
 | Alexei Run | 155995 | [155995-alexei-run.json](./155995-alexei-run.json) |
+| Alexey's Dwice | 72314 | [72314-alexeys-dwice.json](./72314-alexeys-dwice.json) |
 | Alexey's Winter: Night Adventure | 160232 | [160232-alexeys-winter-night-adventure.json](./160232-alexeys-winter-night-adventure.json) |
 | Alexi Lalas International Soccer | 43933 | [43933-alexi-lalas-international-soccer.json](./43933-alexi-lalas-international-soccer.json) |
 | Alexia | 260863 | [260863-alexia.json](./260863-alexia.json) |
@@ -7598,6 +7602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrows: Puzzle Escape | 383565 | [383565-arrows-puzzle-escape.json](./383565-arrows-puzzle-escape.json) |
 | Arrowscapades | 401766 | [401766-arrowscapades.json](./401766-arrowscapades.json) |
 | Arrowscapes: Arrows Puzzle | 392368 | [392368-arrowscapes-arrows-puzzle.json](./392368-arrowscapes-arrows-puzzle.json) |
+| Arrrrrr! | 72310 | [72310-arrrrrr.json](./72310-arrrrrr.json) |
 | Arruyo | 201561 | [201561-arruyo.json](./201561-arruyo.json) |
 | Ars Mechanica | 382198 | [382198-ars-mechanica.json](./382198-ars-mechanica.json) |
 | Ars Notoria | 214014 | [214014-ars-notoria.json](./214014-ars-notoria.json) |
