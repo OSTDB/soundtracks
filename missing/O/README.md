@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Online Open World RPG | 234078 | [234078-online-open-world-rpg.json](./234078-online-open-world-rpg.json) |
 | Online Retro Tennis | 156702 | [156702-online-retro-tennis.json](./156702-online-retro-tennis.json) |
 | Online Simulator | 119698 | [119698-online-simulator.json](./119698-online-simulator.json) |
+| Online Soccer Manager | 77576 | [77576-online-soccer-manager.json](./77576-online-soccer-manager.json) |
 | Online World Drifting Championships | 373672 | [373672-online-world-drifting-championships.json](./373672-online-world-drifting-championships.json) |
 | Online: 404 | 403155 | [403155-online-404.json](./403155-online-404.json) |
 | OnlineCTR | 313093 | [313093-onlinectr.json](./313093-onlinectr.json) |
@@ -1767,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onohi | 201634 | [201634-onohi.json](./201634-onohi.json) |
 | Onoow | 298039 | [298039-onoow.json](./298039-onoow.json) |
 | Onryo | 132270 | [132270-onryo.json](./132270-onryo.json) |
+| Onryou Senki | 77561 | [77561-onryou-senki.json](./77561-onryou-senki.json) |
 | Onsen mo Issho | 246072 | [246072-onsen-mo-issho.json](./246072-onsen-mo-issho.json) |
 | Onsen Nozokimi Daisakusen | 306679 | [306679-onsen-nozokimi-daisakusen.json](./306679-onsen-nozokimi-daisakusen.json) |
 | Onsento | 399591 | [399591-onsento.json](./399591-onsento.json) |
