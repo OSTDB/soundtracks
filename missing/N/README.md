@@ -3428,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga no Yabou 2 | 60088 | [60088-nobunaga-no-yabou-2.json](./60088-nobunaga-no-yabou-2.json) |
 | Nobunaga no Yabou 201X | 61101 | [61101-nobunaga-no-yabou-201x.json](./61101-nobunaga-no-yabou-201x.json) |
 | Nobunaga no Yabou DS 2 | 59379 | [59379-nobunaga-no-yabou-ds-2.json](./59379-nobunaga-no-yabou-ds-2.json) |
+| Nobunaga no Yabou Online | 78306 | [78306-nobunaga-no-yabou-online.json](./78306-nobunaga-no-yabou-online.json) |
 | Nobunaga no Yabou: Bushou Fuuunroku | 307153 | [307153-nobunaga-no-yabou-bushou-fuuunroku.json](./307153-nobunaga-no-yabou-bushou-fuuunroku.json) |
 | Nobunaga no Yabou: Bushou Fuuunroku | 307155 | [307155-nobunaga-no-yabou-bushou-fuuunroku.json](./307155-nobunaga-no-yabou-bushou-fuuunroku.json) |
 | Nobunaga no Yabou: Haouden | 37901 | [37901-nobunaga-no-yabou-haouden.json](./37901-nobunaga-no-yabou-haouden.json) |
@@ -3443,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition II | 307125 | [307125-nobunagas-ambition-ii.json](./307125-nobunagas-ambition-ii.json) |
 | Nobunaga's Ambition II | 48287 | [48287-nobunagas-ambition-ii.json](./48287-nobunagas-ambition-ii.json) |
 | Nobunaga's Ambition Mobile | 131367 | [131367-nobunagas-ambition-mobile.json](./131367-nobunagas-ambition-mobile.json) |
+| Nobunaga's Ambition Online: Chapter Nova | 78308 | [78308-nobunagas-ambition-online-chapter-nova.json](./78308-nobunagas-ambition-online-chapter-nova.json) |
 | Nobunaga's Ambition Online: Kakusei no Shou | 167063 | [167063-nobunagas-ambition-online-kakusei-no-shou.json](./167063-nobunagas-ambition-online-kakusei-no-shou.json) |
 | Nobunaga's Ambition Online: Kakusei no Shou - Treasure Box | 167064 | [167064-nobunagas-ambition-online-kakusei-no-shou-treasure-box.json](./167064-nobunagas-ambition-online-kakusei-no-shou-treasure-box.json) |
 | Nobunaga's Ambition: Awakening | 245997 | [245997-nobunagas-ambition-awakening.json](./245997-nobunagas-ambition-awakening.json) |
@@ -3473,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Taishi - The Battle of Okitanawate Scenario | 150665 | [150665-nobunagas-ambition-taishi-the-battle-of-okitanawate-scenario.json](./150665-nobunagas-ambition-taishi-the-battle-of-okitanawate-scenario.json) |
 | Nobunaga's Ambition: Taishi - The Dutiful Lord of Echigo Scenario | 150663 | [150663-nobunagas-ambition-taishi-the-dutiful-lord-of-echigo-scenario.json](./150663-nobunagas-ambition-taishi-the-dutiful-lord-of-echigo-scenario.json) |
 | Nobunaga's Ambition: Taishi Deluxe Edition | 122363 | [122363-nobunagas-ambition-taishi-deluxe-edition.json](./122363-nobunagas-ambition-taishi-deluxe-edition.json) |
+| Nobunaga's Ambition: Tendou | 78305 | [78305-nobunagas-ambition-tendou.json](./78305-nobunagas-ambition-tendou.json) |
 | Nobunaga's Ambition: Tenkasousei with Power Up Kit | 82400 | [82400-nobunagas-ambition-tenkasousei-with-power-up-kit.json](./82400-nobunagas-ambition-tenkasousei-with-power-up-kit.json) |
 | Nobunaga's Ambition: Tenshouki with Power-Up Kit HD Version | 90610 | [90610-nobunagas-ambition-tenshouki-with-power-up-kit-hd-version.json](./90610-nobunagas-ambition-tenshouki-with-power-up-kit-hd-version.json) |
 | Nobunaga's Shadow | 102840 | [102840-nobunagas-shadow.json](./102840-nobunagas-shadow.json) |
