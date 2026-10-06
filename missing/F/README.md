@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantashooting 2 | 208977 | [208977-fantashooting-2.json](./208977-fantashooting-2.json) |
 | Fantasia | 38574 | [38574-fantasia.json](./38574-fantasia.json) |
 | Fantasia | 45587 | [45587-fantasia.json](./45587-fantasia.json) |
+| Fantasia of the Wind | 74675 | [74675-fantasia-of-the-wind.json](./74675-fantasia-of-the-wind.json) |
 | Fantasia of the Wind 2 | 113654 | [113654-fantasia-of-the-wind-2.json](./113654-fantasia-of-the-wind-2.json) |
 | Fantasia Sango 1 | 188656 | [188656-fantasia-sango-1.json](./188656-fantasia-sango-1.json) |
 | Fantasia Sango 2 | 85747 | [85747-fantasia-sango-2.json](./85747-fantasia-sango-2.json) |
@@ -1126,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Maiden Wars: Dream of the Stray Dreamer | 222370 | [222370-fantasy-maiden-wars-dream-of-the-stray-dreamer.json](./222370-fantasy-maiden-wars-dream-of-the-stray-dreamer.json) |
 | Fantasy Maiden Wars: Scarlet | 138718 | [138718-fantasy-maiden-wars-scarlet.json](./138718-fantasy-maiden-wars-scarlet.json) |
 | Fantasy Maiden's Odd Hideout | 124640 | [124640-fantasy-maidens-odd-hideout.json](./124640-fantasy-maidens-odd-hideout.json) |
+| Fantasy Mall | 74738 | [74738-fantasy-mall.json](./74738-fantasy-mall.json) |
 | Fantasy Mercenary Wars | 230964 | [230964-fantasy-mercenary-wars.json](./230964-fantasy-mercenary-wars.json) |
 | Fantasy Miner: Idle Depths | 411749 | [411749-fantasy-miner-idle-depths.json](./411749-fantasy-miner-idle-depths.json) |
 | Fantasy Monarch | 119627 | [119627-fantasy-monarch.json](./119627-fantasy-monarch.json) |
@@ -1688,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat[EX] Courier Simulator | 106652 | [106652-fat-ex-courier-simulator.json](./106652-fat-ex-courier-simulator.json) |
 | Fata morgana no Yakata: Collected Edition | 86081 | [86081-fata-morgana-no-yakata-collected-edition.json](./86081-fata-morgana-no-yakata-collected-edition.json) |
 | Fatal Abyss | 78676 | [78676-fatal-abyss.json](./78676-fatal-abyss.json) |
+| Fatal Art | 74699 | [74699-fatal-art.json](./74699-fatal-art.json) |
 | Fatal Blade | 213015 | [213015-fatal-blade.json](./213015-fatal-blade.json) |
 | Fatal Bullet | 193946 | [193946-fatal-bullet.json](./193946-fatal-bullet.json) |
 | Fatal Craft | 83253 | [83253-fatal-craft.json](./83253-fatal-craft.json) |
@@ -4243,6 +4246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Unlimited Las Vegas | 34909 | [34909-flight-unlimited-las-vegas.json](./34909-flight-unlimited-las-vegas.json) |
 | Flight? Youth! | 395670 | [395670-flight-youth.json](./395670-flight-youth.json) |
 | FlightGear | 51200 | [51200-flightgear.json](./51200-flightgear.json) |
+| Flightless | 74678 | [74678-flightless.json](./74678-flightless.json) |
 | Flightless Fighters | 391710 | [391710-flightless-fighters.json](./391710-flightless-fighters.json) |
 | Flightmare | 267469 | [267469-flightmare.json](./267469-flightmare.json) |
 | Flights of Fancy | 176954 | [176954-flights-of-fancy.json](./176954-flights-of-fancy.json) |
@@ -5082,6 +5086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FootLOL: Crazy Soccer! | 102620 | [102620-footlol-crazy-soccer.json](./102620-footlol-crazy-soccer.json) |
 | Footlord | 383527 | [383527-footlord.json](./383527-footlord.json) |
 | Footprints Combination | 309565 | [309565-footprints-combination.json](./309565-footprints-combination.json) |
+| FootRock | 74735 | [74735-footrock.json](./74735-footrock.json) |
 | FootRock 2 | 29902 | [29902-footrock-2.json](./29902-footrock-2.json) |
 | Footsies Rollback Edition | 139359 | [139359-footsies-rollback-edition.json](./139359-footsies-rollback-edition.json) |
 | Footsy | 311139 | [311139-footsy.json](./311139-footsy.json) |
@@ -6559,6 +6564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friki | 153406 | [153406-friki.json](./153406-friki.json) |
 | Frikin the Laser Shark | 158029 | [158029-frikin-the-laser-shark.json](./158029-frikin-the-laser-shark.json) |
 | Fringe Planet | 121393 | [121393-fringe-planet.json](./121393-fringe-planet.json) |
+| Fringe Wars | 74724 | [74724-fringe-wars.json](./74724-fringe-wars.json) |
 | Fringes of the Empire | 34426 | [34426-fringes-of-the-empire.json](./34426-fringes-of-the-empire.json) |
 | Frio2 - Memory of my sister | 90004 | [90004-frio2-memory-of-my-sister.json](./90004-frio2-memory-of-my-sister.json) |
 | Frip and Froop's Logical Labyrinth | 56509 | [56509-frip-and-froops-logical-labyrinth.json](./56509-frip-and-froops-logical-labyrinth.json) |
