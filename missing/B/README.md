@@ -7983,6 +7983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Frontier ReXona | 205675 | [205675-brave-frontier-rexona.json](./205675-brave-frontier-rexona.json) |
 | Brave Frontier RPG | 118459 | [118459-brave-frontier-rpg.json](./118459-brave-frontier-rpg.json) |
 | Brave Furries | 35603 | [35603-brave-furries.json](./35603-brave-furries.json) |
+| Brave Girl Ravens xR | 98528 | [98528-brave-girl-ravens-xr.json](./98528-brave-girl-ravens-xr.json) |
 | Brave Hero | 295271 | [295271-brave-hero.json](./295271-brave-hero.json) |
 | Brave Hero Yuusha EX | 111639 | [111639-brave-hero-yuusha-ex.json](./111639-brave-hero-yuusha-ex.json) |
 | Brave Heroes | 208604 | [208604-brave-heroes.json](./208604-brave-heroes.json) |
@@ -8683,6 +8684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrothelManager | 18109 | [18109-brothelmanager.json](./18109-brothelmanager.json) |
 | Brother | 340545 | [340545-brother.json](./340545-brother.json) |
 | Brother Against Brother | 59494 | [59494-brother-against-brother.json](./59494-brother-against-brother.json) |
+| Brother Cat: The Legend of Super Cat | 98500 | [98500-brother-cat-the-legend-of-super-cat.json](./98500-brother-cat-the-legend-of-super-cat.json) |
 | Brother Perro | 96867 | [96867-brother-perro.json](./96867-brother-perro.json) |
 | Brother Wake Up | 149696 | [149696-brother-wake-up.json](./149696-brother-wake-up.json) |
 | Brother Wings | 29912 | [29912-brother-wings.json](./29912-brother-wings.json) |
