@@ -14774,6 +14774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch: Man to Man | 66773 | [66773-touch-man-to-man.json](./66773-touch-man-to-man.json) |
 | Touchdown | 346102 | [346102-touchdown.json](./346102-touchdown.json) |
 | Touchdown Fever II | 293316 | [293316-touchdown-fever-ii.json](./293316-touchdown-fever-ii.json) |
+| Touchdown Hero: New Season | 90886 | [90886-touchdown-hero-new-season.json](./90886-touchdown-hero-new-season.json) |
 | Touchdown Pinball | 129804 | [129804-touchdown-pinball.json](./129804-touchdown-pinball.json) |
 | TouchDown Rush | 235151 | [235151-touchdown-rush.json](./235151-touchdown-rush.json) |
 | Touchdown: Armor League | 28057 | [28057-touchdown-armor-league.json](./28057-touchdown-armor-league.json) |
@@ -17385,6 +17386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troll | 375849 | [375849-troll.json](./375849-troll.json) |
 | Troll Face Clicker Quest | 105860 | [105860-troll-face-clicker-quest.json](./105860-troll-face-clicker-quest.json) |
 | Troll Face Quest Horror | 351627 | [351627-troll-face-quest-horror.json](./351627-troll-face-quest-horror.json) |
+| Troll Face Quest Video Memes | 90890 | [90890-troll-face-quest-video-memes.json](./90890-troll-face-quest-video-memes.json) |
 | Troll Face Quest: Game of Trolls | 306703 | [306703-troll-face-quest-game-of-trolls.json](./306703-troll-face-quest-game-of-trolls.json) |
 | Troll Quest | 145930 | [145930-troll-quest.json](./145930-troll-quest.json) |
 | Trollboarder | 85458 | [85458-trollboarder.json](./85458-trollboarder.json) |
