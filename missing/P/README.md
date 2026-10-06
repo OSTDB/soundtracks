@@ -9378,6 +9378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pupple Pop | 390192 | [390192-pupple-pop.json](./390192-pupple-pop.json) |
 | Puppy Balloon Ride | 213392 | [213392-puppy-balloon-ride.json](./213392-puppy-balloon-ride.json) |
 | Puppy Cars: Games for Kids Edition, Animal adventure | 309039 | [309039-puppy-cars-games-for-kids-edition-animal-adventure.json](./309039-puppy-cars-games-for-kids-edition-animal-adventure.json) |
+| Puppy Chef Academy | 107790 | [107790-puppy-chef-academy.json](./107790-puppy-chef-academy.json) |
 | Puppy Cross: Kitty Cross | 170875 | [170875-puppy-cross-kitty-cross.json](./170875-puppy-cross-kitty-cross.json) |
 | Puppy Dentist | 106357 | [106357-puppy-dentist.json](./106357-puppy-dentist.json) |
 | Puppy Drome | 260669 | [260669-puppy-drome.json](./260669-puppy-drome.json) |
