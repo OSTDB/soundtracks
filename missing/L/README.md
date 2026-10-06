@@ -1159,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaf's Odyssey | 301354 | [301354-leafs-odyssey.json](./301354-leafs-odyssey.json) |
 | Leafing Home | 333006 | [333006-leafing-home.json](./333006-leafing-home.json) |
 | Leafko | 352308 | [352308-leafko.json](./352308-leafko.json) |
+| Leaflet Love Story | 106496 | [106496-leaflet-love-story.json](./106496-leaflet-love-story.json) |
 | Leafling | 142347 | [142347-leafling.json](./142347-leafling.json) |
 | Leaftaker | 411043 | [411043-leaftaker.json](./411043-leaftaker.json) |
 | Leafy Season | 330228 | [330228-leafy-season.json](./330228-leafy-season.json) |
