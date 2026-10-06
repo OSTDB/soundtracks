@@ -6343,6 +6343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Loin | 93997 | [93997-sir-loin.json](./93997-sir-loin.json) |
 | Sir Lovelot | 132982 | [132982-sir-lovelot.json](./132982-sir-lovelot.json) |
 | Sir Noggin | 376556 | [376556-sir-noggin.json](./376556-sir-noggin.json) |
+| Sir Questionnaire | 96201 | [96201-sir-questionnaire.json](./96201-sir-questionnaire.json) |
 | Sir Stretchalot: The Plight of the Elves | 216227 | [216227-sir-stretchalot-the-plight-of-the-elves.json](./216227-sir-stretchalot-the-plight-of-the-elves.json) |
 | Sir Tincan: Adventures in the Castle | 147655 | [147655-sir-tincan-adventures-in-the-castle.json](./147655-sir-tincan-adventures-in-the-castle.json) |
 | Sir War-A-Lot | 158093 | [158093-sir-war-a-lot.json](./158093-sir-war-a-lot.json) |
@@ -6865,6 +6866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Pirates of Actorius | 129101 | [129101-sky-pirates-of-actorius.json](./129101-sky-pirates-of-actorius.json) |
 | Sky Plankers | 28195 | [28195-sky-plankers.json](./28195-sky-plankers.json) |
 | Sky Puzzle | 220703 | [220703-sky-puzzle.json](./220703-sky-puzzle.json) |
+| Sky Racerz | 96297 | [96297-sky-racerz.json](./96297-sky-racerz.json) |
 | Sky Races | 186909 | [186909-sky-races.json](./186909-sky-races.json) |
 | Sky Racket | 115006 | [115006-sky-racket.json](./115006-sky-racket.json) |
 | Sky Reach | 382347 | [382347-sky-reach.json](./382347-sky-reach.json) |
@@ -8599,6 +8601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soak & Splash | 250948 | [250948-soak-and-splash.json](./250948-soak-and-splash.json) |
 | Soaked! | 52854 | [52854-soaked.json](./52854-soaked.json) |
 | Soap | 360732 | [360732-soap.json](./360732-soap.json) |
+| Soap Dodgem | 96195 | [96195-soap-dodgem.json](./96195-soap-dodgem.json) |
 | Soap Killer | 399075 | [399075-soap-killer.json](./399075-soap-killer.json) |
 | Soap Land Story II: Memory | 67387 | [67387-soap-land-story-ii-memory.json](./67387-soap-land-story-ii-memory.json) |
 | Soap Slide | 369177 | [369177-soap-slide.json](./369177-soap-slide.json) |
@@ -11388,6 +11391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Forces | 37271 | [37271-special-forces.json](./37271-special-forces.json) |
 | Special Forces | 77269 | [77269-special-forces.json](./77269-special-forces.json) |
 | Special Forces Group 3 | 245043 | [245043-special-forces-group-3.json](./245043-special-forces-group-3.json) |
+| Special Forces Jackal | 96308 | [96308-special-forces-jackal.json](./96308-special-forces-jackal.json) |
 | Special Forces Pack | 100208 | [100208-special-forces-pack.json](./100208-special-forces-pack.json) |
 | Special Forces Strike: Tactical Swat Shooter | 290426 | [290426-special-forces-strike-tactical-swat-shooter.json](./290426-special-forces-strike-tactical-swat-shooter.json) |
 | Special Forces VR | 41964 | [41964-special-forces-vr.json](./41964-special-forces-vr.json) |
