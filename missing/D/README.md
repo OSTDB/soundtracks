@@ -6380,6 +6380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DogStation | 59441 | [59441-dogstation.json](./59441-dogstation.json) |
 | Dogtown Barkery | 115756 | [115756-dogtown-barkery.json](./115756-dogtown-barkery.json) |
 | Dogu the Adventurer | 253457 | [253457-dogu-the-adventurer.json](./253457-dogu-the-adventurer.json) |
+| Doguu Senki: Haou | 77570 | [77570-doguu-senki-haou.json](./77570-doguu-senki-haou.json) |
 | Dogville | 272032 | [272032-dogville.json](./272032-dogville.json) |
 | Dogwalk | 348639 | [348639-dogwalk.json](./348639-dogwalk.json) |
 | DogWorld Premium | 87265 | [87265-dogworld-premium.json](./87265-dogworld-premium.json) |
