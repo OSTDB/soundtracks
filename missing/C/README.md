@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cal | 123082 | [123082-cal.json](./123082-cal.json) |
 | Cal II | 77989 | [77989-cal-ii.json](./77989-cal-ii.json) |
 | Cal Ripken Jr. Baseball | 46230 | [46230-cal-ripken-jr-baseball.json](./46230-cal-ripken-jr-baseball.json) |
+| Caladria Chronicles | 114913 | [114913-caladria-chronicles.json](./114913-caladria-chronicles.json) |
 | Caladria Chronicles Volume 2 | 230972 | [230972-caladria-chronicles-volume-2.json](./230972-caladria-chronicles-volume-2.json) |
 | Caladrius | 47482 | [47482-caladrius.json](./47482-caladrius.json) |
 | Calamari Clash | 127844 | [127844-calamari-clash.json](./127844-calamari-clash.json) |
@@ -2589,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CavEX | 293331 | [293331-cavex.json](./293331-cavex.json) |
 | Cavrncrate | 318513 | [318513-cavrncrate.json](./318513-cavrncrate.json) |
 | Cavy Chronicles | 281984 | [281984-cavy-chronicles.json](./281984-cavy-chronicles.json) |
+| Cavyrn | 114898 | [114898-cavyrn.json](./114898-cavyrn.json) |
 | Cawcaknight | 417695 | [417695-cawcaknight.json](./417695-cawcaknight.json) |
 | Caxy Gambá Encontra o Monstruário | 257103 | [257103-caxy-gamba-encontra-o-monstruario.json](./257103-caxy-gamba-encontra-o-monstruario.json) |
 | Caylus | 175231 | [175231-caylus.json](./175231-caylus.json) |
@@ -2907,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalice | 151274 | [151274-chalice.json](./151274-chalice.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
 | Chalk Up! | 175184 | [175184-chalk-up.json](./175184-chalk-up.json) |
+| Chalkship | 114924 | [114924-chalkship.json](./114924-chalkship.json) |
 | Challange of the Five Realms | 46576 | [46576-challange-of-the-five-realms.json](./46576-challange-of-the-five-realms.json) |
 | Challenge 100 | 359419 | [359419-challenge-100.json](./359419-challenge-100.json) |
 | Challenge Dream Cat | 179997 | [179997-challenge-dream-cat.json](./179997-challenge-dream-cat.json) |
@@ -4453,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Ark: Summer Twilight | 310011 | [310011-chrono-ark-summer-twilight.json](./310011-chrono-ark-summer-twilight.json) |
 | Chrono CCG | 381788 | [381788-chrono-ccg.json](./381788-chrono-ccg.json) |
 | Chrono Circle | 216287 | [216287-chrono-circle.json](./216287-chrono-circle.json) |
+| Chrono Clash: Fantasy Tactics | 114911 | [114911-chrono-clash-fantasy-tactics.json](./114911-chrono-clash-fantasy-tactics.json) |
 | Chrono Clues | 411086 | [411086-chrono-clues.json](./411086-chrono-clues.json) |
 | Chrono Commando 2053 | 272340 | [272340-chrono-commando-2053.json](./272340-chrono-commando-2053.json) |
 | Chrono Cross | 335488 | [335488-chrono-cross.json](./335488-chrono-cross.json) |
@@ -5684,6 +5688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clown Is Hungry | 346783 | [346783-clown-is-hungry.json](./346783-clown-is-hungry.json) |
 | Clown Nightmare, Satan's Joke | 130175 | [130175-clown-nightmare-satans-joke.json](./130175-clown-nightmare-satans-joke.json) |
 | Clown Theft Auto: Woke City | 222958 | [222958-clown-theft-auto-woke-city.json](./222958-clown-theft-auto-woke-city.json) |
+| Clown Thug Cop Zombies | 114927 | [114927-clown-thug-cop-zombies.json](./114927-clown-thug-cop-zombies.json) |
 | Clown2Beat | 30828 | [30828-clown2beat.json](./30828-clown2beat.json) |
 | Clownfield 2042 | 186132 | [186132-clownfield-2042.json](./186132-clownfield-2042.json) |
 | Clowns and Balloons | 40781 | [40781-clowns-and-balloons.json](./40781-clowns-and-balloons.json) |
