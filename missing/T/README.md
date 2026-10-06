@@ -11319,6 +11319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threads of Magic | 177879 | [177879-threads-of-magic.json](./177879-threads-of-magic.json) |
 | Threads of Time | 317820 | [317820-threads-of-time.json](./317820-threads-of-time.json) |
 | Threads of War | 296691 | [296691-threads-of-war.json](./296691-threads-of-war.json) |
+| Threat | 94410 | [94410-threat.json](./94410-threat.json) |
 | Three Alpha One Nine | 312133 | [312133-three-alpha-one-nine.json](./312133-three-alpha-one-nine.json) |
 | Three Bosses | 174323 | [174323-three-bosses.json](./174323-three-bosses.json) |
 | Three Color Cannon | 360001 | [360001-three-color-cannon.json](./360001-three-color-cannon.json) |
@@ -17159,6 +17160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trident's Tale | 336161 | [336161-tridents-tale.json](./336161-tridents-tale.json) |
 | Tridle | 228715 | [228715-tridle.json](./228715-tridle.json) |
 | Tridonis | 62749 | [62749-tridonis.json](./62749-tridonis.json) |
+| Trifide | 94381 | [94381-trifide.json](./94381-trifide.json) |
 | Trifoil | 312574 | [312574-trifoil.json](./312574-trifoil.json) |
 | Triga | 199652 | [199652-triga.json](./199652-triga.json) |
 | Trigaea | 227914 | [227914-trigaea.json](./227914-trigaea.json) |
