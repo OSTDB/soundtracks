@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babysitter Simulator | 203902 | [203902-babysitter-simulator.json](./203902-babysitter-simulator.json) |
 | Babysitting Fun | 310540 | [310540-babysitting-fun.json](./310540-babysitting-fun.json) |
 | Babysitting Mania | 47979 | [47979-babysitting-mania.json](./47979-babysitting-mania.json) |
+| Babysitting Party | 92669 | [92669-babysitting-party.json](./92669-babysitting-party.json) |
 | Babyz: Your Virtual Bundle of Joy | 70343 | [70343-babyz-your-virtual-bundle-of-joy.json](./70343-babyz-your-virtual-bundle-of-joy.json) |
 | Baccarat | 348397 | [348397-baccarat.json](./348397-baccarat.json) |
 | Bacchanalia | 227880 | [227880-bacchanalia.json](./227880-bacchanalia.json) |
@@ -3005,7 +3006,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania Append 5thMix: Time to Get Down | 70994 | [70994-beatmania-append-5thmix-time-to-get-down.json](./70994-beatmania-append-5thmix-time-to-get-down.json) |
 | Beatmania Append ClubMix | 54706 | [54706-beatmania-append-clubmix.json](./54706-beatmania-append-clubmix.json) |
 | Beatmania Append Gottamix 2: Going Global | 292855 | [292855-beatmania-append-gottamix-2-going-global.json](./292855-beatmania-append-gottamix-2-going-global.json) |
+| beatmania Club MIX | 92673 | [92673-beatmania-club-mix.json](./92673-beatmania-club-mix.json) |
 | beatmania complete MIX | 94744 | [94744-beatmania-complete-mix.json](./94744-beatmania-complete-mix.json) |
+| beatmania complete MIX 2 | 92674 | [92674-beatmania-complete-mix-2.json](./92674-beatmania-complete-mix-2.json) |
 | beatmania DA!! | 134407 | [134407-beatmania-da.json](./134407-beatmania-da.json) |
 | Beatmania for WonderSwan | 135089 | [135089-beatmania-for-wonderswan.json](./135089-beatmania-for-wonderswan.json) |
 | Beatmania GB | 91769 | [91769-beatmania-gb.json](./91769-beatmania-gb.json) |
@@ -7465,6 +7468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce On 2: Drallo's Demise | 182297 | [182297-bounce-on-2-drallos-demise.json](./182297-bounce-on-2-drallos-demise.json) |
 | Bounce on Back | 262895 | [262895-bounce-on-back.json](./262895-bounce-on-back.json) |
 | Bounce Original | 344928 | [344928-bounce-original.json](./344928-bounce-original.json) |
+| Bounce Out | 92676 | [92676-bounce-out.json](./92676-bounce-out.json) |
 | Bounce Shot | 262460 | [262460-bounce-shot.json](./262460-bounce-shot.json) |
 | Bounce Tales | 133867 | [133867-bounce-tales.json](./133867-bounce-tales.json) |
 | Bounce Tales 64 | 135264 | [135264-bounce-tales-64.json](./135264-bounce-tales-64.json) |
