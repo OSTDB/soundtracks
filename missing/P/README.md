@@ -3311,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Sim Date 2 | 276253 | [276253-pico-sim-date-2.json](./276253-pico-sim-date-2.json) |
 | Pico Snail! Dream Castle | 152748 | [152748-pico-snail-dream-castle.json](./152748-pico-snail-dream-castle.json) |
 | Pico Sonic | 181240 | [181240-pico-sonic.json](./181240-pico-sonic.json) |
+| Pico Tanks | 113584 | [113584-pico-tanks.json](./113584-pico-tanks.json) |
 | Pico Tanks: Multiplayer Mayhem | 130379 | [130379-pico-tanks-multiplayer-mayhem.json](./130379-pico-tanks-multiplayer-mayhem.json) |
 | Pico vs. Bear | 331683 | [331683-pico-vs-bear.json](./331683-pico-vs-bear.json) |
 | Pico-8 Multicart | 202717 | [202717-pico-8-multicart.json](./202717-pico-8-multicart.json) |
@@ -4303,6 +4304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Dash | 265778 | [265778-pixel-dash.json](./265778-pixel-dash.json) |
 | Pixel Demolish | 220066 | [220066-pixel-demolish.json](./220066-pixel-demolish.json) |
 | Pixel Descent | 264587 | [264587-pixel-descent.json](./264587-pixel-descent.json) |
+| Pixel Devil and the Broken Cartridge | 113610 | [113610-pixel-devil-and-the-broken-cartridge.json](./113610-pixel-devil-and-the-broken-cartridge.json) |
 | Pixel Drawing | 335442 | [335442-pixel-drawing.json](./335442-pixel-drawing.json) |
 | Pixel drawing block | 216208 | [216208-pixel-drawing-block.json](./216208-pixel-drawing-block.json) |
 | Pixel Drift | 83613 | [83613-pixel-drift.json](./83613-pixel-drift.json) |
