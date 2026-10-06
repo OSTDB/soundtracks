@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Strokes: Sins of the Fathers - Collector's Edition | 52838 | [52838-dark-strokes-sins-of-the-fathers-collectors-edition.json](./52838-dark-strokes-sins-of-the-fathers-collectors-edition.json) |
 | Dark Summoner | 38900 | [38900-dark-summoner.json](./38900-dark-summoner.json) |
 | Dark Sun | 278964 | [278964-dark-sun.json](./278964-dark-sun.json) |
+| Dark Sun Pictures' Dark Sun - The Space Shooter | 114262 | [114262-dark-sun-pictures-dark-sun-the-space-shooter.json](./114262-dark-sun-pictures-dark-sun-the-space-shooter.json) |
 | Dark Sun: Shattered Lands | 2466 | [2466-dark-sun-shattered-lands.json](./2466-dark-sun-shattered-lands.json) |
 | Dark Survival | 152728 | [152728-dark-survival.json](./152728-dark-survival.json) |
 | Dark Sword: The Light of Ainn | 295409 | [295409-dark-sword-the-light-of-ainn.json](./295409-dark-sword-the-light-of-ainn.json) |
@@ -1338,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data mining | 106584 | [106584-data-mining.json](./106584-data-mining.json) |
 | Data mining 0 | 116944 | [116944-data-mining-0.json](./116944-data-mining-0.json) |
 | Data mining 2 | 110974 | [110974-data-mining-2.json](./110974-data-mining-2.json) |
+| Data mining 5 | 114313 | [114313-data-mining-5.json](./114313-data-mining-5.json) |
 | Data mining 6 | 115125 | [115125-data-mining-6.json](./115125-data-mining-6.json) |
 | Data Mutations | 108981 | [108981-data-mutations.json](./108981-data-mutations.json) |
 | Data Restored | 383944 | [383944-data-restored.json](./383944-data-restored.json) |
@@ -1721,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De griezelbus 2 | 78322 | [78322-de-griezelbus-2.json](./78322-de-griezelbus-2.json) |
 | De I Cide | 166589 | [166589-de-i-cide.json](./166589-de-i-cide.json) |
 | De Ontdekker en het mysterie van de Diamanten Scarabee | 268124 | [268124-de-ontdekker-en-het-mysterie-van-de-diamanten-scarabee.json](./268124-de-ontdekker-en-het-mysterie-van-de-diamanten-scarabee.json) |
+| De Profundis | 114257 | [114257-de-profundis.json](./114257-de-profundis.json) |
 | De Tres al Cuarto | 227910 | [227910-de-tres-al-cuarto.json](./227910-de-tres-al-cuarto.json) |
 | Dé_Intricate | 310534 | [310534-de-intricate.json](./310534-de-intricate.json) |
 | De-capite | 184445 | [184445-de-capite.json](./184445-de-capite.json) |
@@ -3580,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth Hunter 2: Scuba Kids - Hidden Treasures | 167274 | [167274-depth-hunter-2-scuba-kids-hidden-treasures.json](./167274-depth-hunter-2-scuba-kids-hidden-treasures.json) |
 | Depth Hunter 2: Treasure Hunter | 167272 | [167272-depth-hunter-2-treasure-hunter.json](./167272-depth-hunter-2-treasure-hunter.json) |
 | Depth Loop | 317854 | [317854-depth-loop.json](./317854-depth-loop.json) |
+| Depth of Consciousness | 114315 | [114315-depth-of-consciousness.json](./114315-depth-of-consciousness.json) |
 | Depth of Extinction: Definitive Edition | 222236 | [222236-depth-of-extinction-definitive-edition.json](./222236-depth-of-extinction-definitive-edition.json) |
 | Depth Siege Atlantis | 96521 | [96521-depth-siege-atlantis.json](./96521-depth-siege-atlantis.json) |
 | Depth VR | 31098 | [31098-depth-vr.json](./31098-depth-vr.json) |
