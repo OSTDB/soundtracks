@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xalx no Monshou 98 | 92120 | [92120-xalx-no-monshou-98.json](./92120-xalx-no-monshou-98.json) |
 | Xam | 107154 | [107154-xam.json](./107154-xam.json) |
 | Xanadu Next | 6296 | [6296-xanadu-next.json](./6296-xanadu-next.json) |
+| Xanadu Scenario II | 62583 | [62583-xanadu-scenario-ii.json](./62583-xanadu-scenario-ii.json) |
 | Xanarthraxia | 118808 | [118808-xanarthraxia.json](./118808-xanarthraxia.json) |
 | XanChuchamel | 207368 | [207368-xanchuchamel.json](./207368-xanchuchamel.json) |
 | Xander the Monster Morpher: Universe Breaker | 120983 | [120983-xander-the-monster-morpher-universe-breaker.json](./120983-xander-the-monster-morpher-universe-breaker.json) |
@@ -560,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | xRC Simulator | 137422 | [137422-xrc-simulator.json](./137422-xrc-simulator.json) |
 | XRick | 280354 | [280354-xrick.json](./280354-xrick.json) |
 | XRick | 289883 | [289883-xrick.json](./289883-xrick.json) |
+| Xrodon | 62565 | [62565-xrodon.json](./62565-xrodon.json) |
 | XRY | 103650 | [103650-xry.json](./103650-xry.json) |
 | XS Airboat Racing | 43942 | [43942-xs-airboat-racing.json](./43942-xs-airboat-racing.json) |
 | XS Junior League Dodgeball | 43943 | [43943-xs-junior-league-dodgeball.json](./43943-xs-junior-league-dodgeball.json) |
