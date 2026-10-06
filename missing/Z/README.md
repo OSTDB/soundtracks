@@ -1246,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoria and the Cursed Land | 152227 | [152227-zoria-and-the-cursed-land.json](./152227-zoria-and-the-cursed-land.json) |
 | Zoria: Age of Shattering - Ancestors' Weapon Pack | 402944 | [402944-zoria-age-of-shattering-ancestors-weapon-pack.json](./402944-zoria-age-of-shattering-ancestors-weapon-pack.json) |
 | Zork | 1944 | [1944-zork.json](./1944-zork.json) |
+| Zork Classics: Interactive Fiction | 71755 | [71755-zork-classics-interactive-fiction.json](./71755-zork-classics-interactive-fiction.json) |
 | Zork Collection | 137464 | [137464-zork-collection.json](./137464-zork-collection.json) |
 | Zork Remake | 118444 | [118444-zork-remake.json](./118444-zork-remake.json) |
 | Zork Trilogy | 186103 | [186103-zork-trilogy.json](./186103-zork-trilogy.json) |
