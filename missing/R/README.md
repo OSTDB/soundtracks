@@ -2301,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Cemetery: Grave Testimony - Collector's Edition | 102189 | [102189-redemption-cemetery-grave-testimony-collectors-edition.json](./102189-redemption-cemetery-grave-testimony-collectors-edition.json) |
 | Redemption Cemetery: Salvation of the Lost | 61077 | [61077-redemption-cemetery-salvation-of-the-lost.json](./61077-redemption-cemetery-salvation-of-the-lost.json) |
 | Redemption Cemetery: Terrors | 94776 | [94776-redemption-cemetery-terrors.json](./94776-redemption-cemetery-terrors.json) |
+| Redemption Cemetery: The Island of the Lost | 101668 | [101668-redemption-cemetery-the-island-of-the-lost.json](./101668-redemption-cemetery-the-island-of-the-lost.json) |
 | Redemption Cemetery: The Island of the Lost - Collector's Edition | 36493 | [36493-redemption-cemetery-the-island-of-the-lost-collectors-edition.json](./36493-redemption-cemetery-the-island-of-the-lost-collectors-edition.json) |
 | Redemption Cemetery: The Stolen Time - Collector's Edition | 201144 | [201144-redemption-cemetery-the-stolen-time-collectors-edition.json](./201144-redemption-cemetery-the-stolen-time-collectors-edition.json) |
 | Redemption of Liuyin | 333635 | [333635-redemption-of-liuyin.json](./333635-redemption-of-liuyin.json) |
@@ -2673,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relicta | 109742 | [109742-relicta.json](./109742-relicta.json) |
 | Relief | 404831 | [404831-relief.json](./404831-relief.json) |
 | Reliefs The Time of the Lemures | 95210 | [95210-reliefs-the-time-of-the-lemures.json](./95210-reliefs-the-time-of-the-lemures.json) |
+| Religious Idle | 101695 | [101695-religious-idle.json](./101695-religious-idle.json) |
 | ReLinked 0.26091975 | 345020 | [345020-relinked-0-26091975.json](./345020-relinked-0-26091975.json) |
 | Reliquary | 213627 | [213627-reliquary.json](./213627-reliquary.json) |
 | Reliquia Park | 316259 | [316259-reliquia-park.json](./316259-reliquia-park.json) |
@@ -3508,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the Fallen | 123600 | [123600-revenge-of-the-fallen.json](./123600-revenge-of-the-fallen.json) |
 | Revenge of the Firstborn | 378336 | [378336-revenge-of-the-firstborn.json](./378336-revenge-of-the-firstborn.json) |
 | Revenge of the Gamer | 372685 | [372685-revenge-of-the-gamer.json](./372685-revenge-of-the-gamer.json) |
+| Revenge of the Kid | 101709 | [101709-revenge-of-the-kid.json](./101709-revenge-of-the-kid.json) |
 | Revenge of the King | 271409 | [271409-revenge-of-the-king.json](./271409-revenge-of-the-king.json) |
 | Revenge of the Mutant Camels | 40918 | [40918-revenge-of-the-mutant-camels.json](./40918-revenge-of-the-mutant-camels.json) |
 | Revenge of the Ninja HD Remaster | 255873 | [255873-revenge-of-the-ninja-hd-remaster.json](./255873-revenge-of-the-ninja-hd-remaster.json) |
