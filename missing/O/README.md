@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Decathlon | 78618 | [78618-olympic-decathlon.json](./78618-olympic-decathlon.json) |
 | Olympic Games Tokyo 2020: The Official Video Game | 116797 | [116797-olympic-games-tokyo-2020-the-official-video-game.json](./116797-olympic-games-tokyo-2020-the-official-video-game.json) |
 | Olympic Gold: Barcelona '92 | 46266 | [46266-olympic-gold-barcelona-92.json](./46266-olympic-gold-barcelona-92.json) |
+| Olympic Trials | 71184 | [71184-olympic-trials.json](./71184-olympic-trials.json) |
 | Olympics VR | 75942 | [75942-olympics-vr.json](./75942-olympics-vr.json) |
 | Olympimania | 354592 | [354592-olympimania.json](./354592-olympimania.json) |
 | Olympique de Marseille Club Football 2005 | 267907 | [267907-olympique-de-marseille-club-football-2005.json](./267907-olympique-de-marseille-club-football-2005.json) |
