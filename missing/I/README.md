@@ -2698,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internal Reaches 2 | 274192 | [274192-internal-reaches-2.json](./274192-internal-reaches-2.json) |
 | Internal Reaches 4 | 274193 | [274193-internal-reaches-4.json](./274193-internal-reaches-4.json) |
 | International 5-A-Side | 79619 | [79619-international-5-a-side.json](./79619-international-5-a-side.json) |
+| International Affairs | 116947 | [116947-international-affairs.json](./116947-international-affairs.json) |
 | International Athletics | 20321 | [20321-international-athletics.json](./20321-international-athletics.json) |
 | International Athletics | 272847 | [272847-international-athletics.json](./272847-international-athletics.json) |
 | International Basketball Manager 23 | 224551 | [224551-international-basketball-manager-23.json](./224551-international-basketball-manager-23.json) |
