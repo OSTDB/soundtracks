@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lán Shízhàn Duì | 158649 | [158649-lan-shizhan-dui.json](./158649-lan-shizhan-dui.json) |
 | Lancaster | 292836 | [292836-lancaster.json](./292836-lancaster.json) |
 | Lancelot | 12169 | [12169-lancelot.json](./12169-lancelot.json) |
+| Lancelot's Hangover : The Quest for the Holy Booze | 107775 | [107775-lancelots-hangover-the-quest-for-the-holy-booze.json](./107775-lancelots-hangover-the-quest-for-the-holy-booze.json) |
 | Lancer Tactics | 375255 | [375255-lancer-tactics.json](./375255-lancer-tactics.json) |
 | Land Air Sea Warfare HD | 109017 | [109017-land-air-sea-warfare-hd.json](./109017-land-air-sea-warfare-hd.json) |
 | Land Develop | 387330 | [387330-land-develop.json](./387330-land-develop.json) |
