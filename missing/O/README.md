@@ -2108,12 +2108,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orb Rivals | 126976 | [126976-orb-rivals.json](./126976-orb-rivals.json) |
 | Orb Runner | 145934 | [145934-orb-runner.json](./145934-orb-runner.json) |
 | Orb Slide Dodge Danger | 369183 | [369183-orb-slide-dodge-danger.json](./369183-orb-slide-dodge-danger.json) |
+| Orb the Ball | 68889 | [68889-orb-the-ball.json](./68889-orb-the-ball.json) |
 | Orb Tower | 331951 | [331951-orb-tower.json](./331951-orb-tower.json) |
 | Orb-3D | 48191 | [48191-orb-3d.json](./48191-orb-3d.json) |
 | Orb's Betrayal | 271732 | [271732-orbs-betrayal.json](./271732-orbs-betrayal.json) |
 | Orbals | 145437 | [145437-orbals.json](./145437-orbals.json) |
 | Orbatak | 217881 | [217881-orbatak.json](./217881-orbatak.json) |
 | Orbatron | 149955 | [149955-orbatron.json](./149955-orbatron.json) |
+| Orbb | 68917 | [68917-orbb.json](./68917-orbb.json) |
 | Orbeats | 290995 | [290995-orbeats.json](./290995-orbeats.json) |
 | Orbfall | 403097 | [403097-orbfall.json](./403097-orbfall.json) |
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
@@ -2394,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orr | 118773 | [118773-orr.json](./118773-orr.json) |
 | Orrb | 188916 | [188916-orrb.json](./188916-orrb.json) |
 | Orrery | 317811 | [317811-orrery.json](./317811-orrery.json) |
+| Orrery | 68918 | [68918-orrery.json](./68918-orrery.json) |
 | Orrin's Chessboard | 377758 | [377758-orrins-chessboard.json](./377758-orrins-chessboard.json) |
 | Orso | 390200 | [390200-orso.json](./390200-orso.json) |
 | Ortharion: The Last Battle | 193444 | [193444-ortharion-the-last-battle.json](./193444-ortharion-the-last-battle.json) |
