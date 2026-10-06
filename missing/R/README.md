@@ -2414,9 +2414,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Deal Card Games | 77387 | [77387-reel-deal-card-games.json](./77387-reel-deal-card-games.json) |
 | Reel Deal Card Games '09 | 77388 | [77388-reel-deal-card-games-09.json](./77388-reel-deal-card-games-09.json) |
 | Reel Deal Card Games 2011 | 77389 | [77389-reel-deal-card-games-2011.json](./77389-reel-deal-card-games-2011.json) |
+| Reel Deal Casino Quest | 77613 | [77613-reel-deal-casino-quest.json](./77613-reel-deal-casino-quest.json) |
 | Reel Deal Casino: Championship Edition | 77391 | [77391-reel-deal-casino-championship-edition.json](./77391-reel-deal-casino-championship-edition.json) |
+| Reel Deal Casino: Gold Rush | 77581 | [77581-reel-deal-casino-gold-rush.json](./77581-reel-deal-casino-gold-rush.json) |
+| Reel Deal Casino: High Roller | 77593 | [77593-reel-deal-casino-high-roller.json](./77593-reel-deal-casino-high-roller.json) |
 | Reel Deal Casino: Shuffle Master Edition | 77390 | [77390-reel-deal-casino-shuffle-master-edition.json](./77390-reel-deal-casino-shuffle-master-edition.json) |
 | Reel Deal Poker Challenge | 66727 | [66727-reel-deal-poker-challenge.json](./66727-reel-deal-poker-challenge.json) |
+| Reel Deal Vegas Casino Experience | 77612 | [77612-reel-deal-vegas-casino-experience.json](./77612-reel-deal-vegas-casino-experience.json) |
 | Reel Fishing 3D Paradise | 84832 | [84832-reel-fishing-3d-paradise.json](./84832-reel-fishing-3d-paradise.json) |
 | Reel Fishing 3D Paradise Mini | 84831 | [84831-reel-fishing-3d-paradise-mini.json](./84831-reel-fishing-3d-paradise-mini.json) |
 | Reel Fishing Challenge | 67964 | [67964-reel-fishing-challenge.json](./67964-reel-fishing-challenge.json) |
@@ -6861,6 +6865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune II: God Slayer Edition | 202215 | [202215-rune-ii-god-slayer-edition.json](./202215-rune-ii-god-slayer-edition.json) |
 | Rune in the Three Kingdoms | 278674 | [278674-rune-in-the-three-kingdoms.json](./278674-rune-in-the-three-kingdoms.json) |
 | Rune Infinite | 195025 | [195025-rune-infinite.json](./195025-rune-infinite.json) |
+| Rune Jade | 77572 | [77572-rune-jade.json](./77572-rune-jade.json) |
 | Rune Legacy Idle | 377598 | [377598-rune-legacy-idle.json](./377598-rune-legacy-idle.json) |
 | Rune Lord | 117609 | [117609-rune-lord.json](./117609-rune-lord.json) |
 | Rune of Eternity | 194372 | [194372-rune-of-eternity.json](./194372-rune-of-eternity.json) |
