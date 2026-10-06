@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZenBlade | 58268 | [58268-zenblade.json](./58268-zenblade.json) |
 | Zenbones | 163844 | [163844-zenbones.json](./163844-zenbones.json) |
 | Zendar | 287155 | [287155-zendar.json](./287155-zendar.json) |
+| Zenduko | 64220 | [64220-zenduko.json](./64220-zenduko.json) |
 | Zenerchi | 16075 | [16075-zenerchi.json](./16075-zenerchi.json) |
 | ZenFire | 292268 | [292268-zenfire.json](./292268-zenfire.json) |
 | Zenfit | 240183 | [240183-zenfit.json](./240183-zenfit.json) |
