@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T-Racer | 266865 | [266865-t-racer.json](./266865-t-racer.json) |
 | T-Rex and Muscle Sam: Big Trouble in SPF | 125205 | [125205-t-rex-and-muscle-sam-big-trouble-in-spf.json](./125205-t-rex-and-muscle-sam-big-trouble-in-spf.json) |
 | T-Rex Runner | 105549 | [105549-t-rex-runner.json](./105549-t-rex-runner.json) |
+| T-Rex Simulator | 96299 | [96299-t-rex-simulator.json](./96299-t-rex-simulator.json) |
 | T-Zer0 | 69588 | [69588-t-zer0.json](./69588-t-zer0.json) |
 | T.A.P. | 114329 | [114329-t-a-p.json](./114329-t-a-p.json) |
 | T.B.M: The Blueppers Mayhem | 362385 | [362385-t-b-m-the-blueppers-mayhem.json](./362385-t-b-m-the-blueppers-mayhem.json) |
@@ -7689,6 +7690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mirror Dimension | 260655 | [260655-the-mirror-dimension.json](./260655-the-mirror-dimension.json) |
 | The Mirror Mysteries | 61578 | [61578-the-mirror-mysteries.json](./61578-the-mirror-mysteries.json) |
 | The Mirror's Curse | 322686 | [322686-the-mirrors-curse.json](./322686-the-mirrors-curse.json) |
+| The Mirror's End | 96189 | [96189-the-mirrors-end.json](./96189-the-mirrors-end.json) |
 | The Mirst | 206707 | [206707-the-mirst.json](./206707-the-mirst.json) |
 | The Misadventure of Melon | 120946 | [120946-the-misadventure-of-melon.json](./120946-the-misadventure-of-melon.json) |
 | The Misadventures of Denniz & Diana | 113050 | [113050-the-misadventures-of-denniz-and-diana.json](./113050-the-misadventures-of-denniz-and-diana.json) |
@@ -15627,6 +15629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Cargo: Nightshift | 374159 | [374159-train-cargo-nightshift.json](./374159-train-cargo-nightshift.json) |
 | Train Chase | 148367 | [148367-train-chase.json](./148367-train-chase.json) |
 | Train Conductor | 104721 | [104721-train-conductor.json](./104721-train-conductor.json) |
+| Train Conductor 2: USA | 96303 | [96303-train-conductor-2-usa.json](./96303-train-conductor-2-usa.json) |
 | Train Conductor World | 109578 | [109578-train-conductor-world.json](./109578-train-conductor-world.json) |
 | Train Crew | 182347 | [182347-train-crew.json](./182347-train-crew.json) |
 | Train Crisis | 83943 | [83943-train-crisis.json](./83943-train-crisis.json) |
