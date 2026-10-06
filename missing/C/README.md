@@ -6719,6 +6719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colton Owen: After All's Over | 309993 | [309993-colton-owen-after-alls-over.json](./309993-colton-owen-after-alls-over.json) |
 | Colum and His Friends | 118346 | [118346-colum-and-his-friends.json](./118346-colum-and-his-friends.json) |
 | Columbo's Mystery Capers | 343251 | [343251-columbos-mystery-capers.json](./343251-columbos-mystery-capers.json) |
+| Columbus Discovery | 78317 | [78317-columbus-discovery.json](./78317-columbus-discovery.json) |
 | Column Dodger | 263005 | [263005-column-dodger.json](./263005-column-dodger.json) |
 | Column on the Sea | 122186 | [122186-column-on-the-sea.json](./122186-column-on-the-sea.json) |
 | Column Taker | 114962 | [114962-column-taker.json](./114962-column-taker.json) |
@@ -11148,6 +11149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberHoney | 310171 | [310171-cyberhoney.json](./310171-cyberhoney.json) |
 | Cyberhunk | 211191 | [211191-cyberhunk.json](./211191-cyberhunk.json) |
 | Cyberia | 4331 | [4331-cyberia.json](./4331-cyberia.json) |
+| CyberJudas | 78313 | [78313-cyberjudas.json](./78313-cyberjudas.json) |
 | Cyberjump | 264201 | [264201-cyberjump.json](./264201-cyberjump.json) |
 | Cyberkiller2049 | 320821 | [320821-cyberkiller2049.json](./320821-cyberkiller2049.json) |
 | CyberKitty: Neon Merge | 415858 | [415858-cyberkitty-neon-merge.json](./415858-cyberkitty-neon-merge.json) |
@@ -11243,6 +11245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybervoid | 339999 | [339999-cybervoid.json](./339999-cybervoid.json) |
 | Cyberwar | 166595 | [166595-cyberwar.json](./166595-cyberwar.json) |
 | Cyberwar: Neon City | 231308 | [231308-cyberwar-neon-city.json](./231308-cyberwar-neon-city.json) |
+| Cyberwars | 78314 | [78314-cyberwars.json](./78314-cyberwars.json) |
 | Cyberwave | 310571 | [310571-cyberwave.json](./310571-cyberwave.json) |
 | CyberWave Survivor | 254173 | [254173-cyberwave-survivor.json](./254173-cyberwave-survivor.json) |
 | Cyberway | 182798 | [182798-cyberway.json](./182798-cyberway.json) |
