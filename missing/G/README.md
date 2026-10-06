@@ -1207,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaudi: Barcelona no Kaze | 118312 | [118312-gaudi-barcelona-no-kaze.json](./118312-gaudi-barcelona-no-kaze.json) |
 | Gauge | 9837 | [9837-gauge.json](./9837-gauge.json) |
 | Gauge Guessr | 409727 | [409727-gauge-guessr.json](./409727-gauge-guessr.json) |
+| Gauge of Rage | 107779 | [107779-gauge-of-rage.json](./107779-gauge-of-rage.json) |
 | Gauley | 341327 | [341327-gauley.json](./341327-gauley.json) |
 | Gaung | 362998 | [362998-gaung.json](./362998-gaung.json) |
 | Gauntlet | 330890 | [330890-gauntlet.json](./330890-gauntlet.json) |
@@ -2345,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giraffe Evolution | 348416 | [348416-giraffe-evolution.json](./348416-giraffe-evolution.json) |
 | Giraffe Town | 109783 | [109783-giraffe-town.json](./109783-giraffe-town.json) |
 | Giraffe's Matching Zoo Deluxe: Featuring the Fun Button! | 88418 | [88418-giraffes-matching-zoo-deluxe-featuring-the-fun-button.json](./88418-giraffes-matching-zoo-deluxe-featuring-the-fun-button.json) |
+| Giral | 107766 | [107766-giral.json](./107766-giral.json) |
 | Girauden Strike Force | 156535 | [156535-girauden-strike-force.json](./156535-girauden-strike-force.json) |
 | Girbal | 219795 | [219795-girbal.json](./219795-girbal.json) |
 | Girder & Hearts: Reel Romance | 364500 | [364500-girder-and-hearts-reel-romance.json](./364500-girder-and-hearts-reel-romance.json) |
