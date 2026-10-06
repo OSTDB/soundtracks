@@ -435,11 +435,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairyside | 223480 | [223480-fairyside.json](./223480-fairyside.json) |
 | Fairytale | 47246 | [47246-fairytale.json](./47246-fairytale.json) |
 | Fairytale | 94902 | [94902-fairytale.json](./94902-fairytale.json) |
+| Fairytale Encore | 59199 | [59199-fairytale-encore.json](./59199-fairytale-encore.json) |
+| Fairytale Encore | 59270 | [59270-fairytale-encore.json](./59270-fairytale-encore.json) |
 | Fairytale Fights | 6991 | [6991-fairytale-fights.json](./6991-fairytale-fights.json) |
 | Fairytale Furnishing | 295560 | [295560-fairytale-furnishing.json](./295560-fairytale-furnishing.json) |
 | Fairytale Mosaics: Beauty and the Beast 2 | 99574 | [99574-fairytale-mosaics-beauty-and-the-beast-2.json](./99574-fairytale-mosaics-beauty-and-the-beast-2.json) |
 | Fairytale Mosaics: Cinderella 2 | 155649 | [155649-fairytale-mosaics-cinderella-2.json](./155649-fairytale-mosaics-cinderella-2.json) |
 | Fairytale Mosaics. Beauty and the Beast | 94788 | [94788-fairytale-mosaics-beauty-and-the-beast.json](./94788-fairytale-mosaics-beauty-and-the-beast.json) |
+| Fairytale Requiem | 59271 | [59271-fairytale-requiem.json](./59271-fairytale-requiem.json) |
 | Fairytale Solitaire: Witch Charms | 130843 | [130843-fairytale-solitaire-witch-charms.json](./130843-fairytale-solitaire-witch-charms.json) |
 | Fairytale Symphony | 330166 | [330166-fairytale-symphony.json](./330166-fairytale-symphony.json) |
 | Fairytale Theatre | 238554 | [238554-fairytale-theatre.json](./238554-fairytale-theatre.json) |
@@ -475,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fake Lay | 98501 | [98501-fake-lay.json](./98501-fake-lay.json) |
 | Fake Signals | 236273 | [236273-fake-signals.json](./236273-fake-signals.json) |
 | Fake World | 55270 | [55270-fake-world.json](./55270-fake-world.json) |
+| Fake/SuperSonia | 59233 | [59233-fake-supersonia.json](./59233-fake-supersonia.json) |
 | Fakespearean: Overdramatic | 118254 | [118254-fakespearean-overdramatic.json](./118254-fakespearean-overdramatic.json) |
 | Falafel Tycoon | 152837 | [152837-falafel-tycoon.json](./152837-falafel-tycoon.json) |
 | Falaz | 374811 | [374811-falaz.json](./374811-falaz.json) |
@@ -1332,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farhoud Farmand's The Mountaineer | 249285 | [249285-farhoud-farmands-the-mountaineer.json](./249285-farhoud-farmands-the-mountaineer.json) |
 | Faria: A World of Mystery and Danger! | 48060 | [48060-faria-a-world-of-mystery-and-danger.json](./48060-faria-a-world-of-mystery-and-danger.json) |
 | Faria: Ghosts of the Stream | 32149 | [32149-faria-ghosts-of-the-stream.json](./32149-faria-ghosts-of-the-stream.json) |
+| Faria: Starfall | 59249 | [59249-faria-starfall.json](./59249-faria-starfall.json) |
 | Farjius no Jakoutei: Neo Metal Fantasy | 69862 | [69862-farjius-no-jakoutei-neo-metal-fantasy.json](./69862-farjius-no-jakoutei-neo-metal-fantasy.json) |
 | Farkle King | 243745 | [243745-farkle-king.json](./243745-farkle-king.json) |
 | Farland Saga | 80838 | [80838-farland-saga.json](./80838-farland-saga.json) |
@@ -1806,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: Naraka Mandala - Heian-kyo | 416642 | [416642-fate-grand-order-naraka-mandala-heian-kyo.json](./416642-fate-grand-order-naraka-mandala-heian-kyo.json) |
 | Fate/Grand Order: Ordeal Call I - Paper Moon | 414359 | [414359-fate-grand-order-ordeal-call-i-paper-moon.json](./414359-fate-grand-order-ordeal-call-i-paper-moon.json) |
 | Fate/Hollow Ataraxia | 275640 | [275640-fate-hollow-ataraxia.json](./275640-fate-hollow-ataraxia.json) |
+| Fate/Kaleid Liner Prisma Illya | 59205 | [59205-fate-kaleid-liner-prisma-illya.json](./59205-fate-kaleid-liner-prisma-illya.json) |
 | Fate/Samurai Remnant: Additional Episode 1 - Record's Fragment: Keian Command Championship | 286213 | [286213-fate-samurai-remnant-additional-episode-1-records-fragment-keian-command-championship.json](./286213-fate-samurai-remnant-additional-episode-1-records-fragment-keian-command-championship.json) |
 | Fate/Samurai Remnant: Digital Deluxe Edition | 259526 | [259526-fate-samurai-remnant-digital-deluxe-edition.json](./259526-fate-samurai-remnant-digital-deluxe-edition.json) |
 | Fate/Stay Night | 12328 | [12328-fate-stay-night.json](./12328-fate-stay-night.json) |
@@ -3560,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish! | 100331 | [100331-fish.json](./100331-fish.json) |
 | Fish! | 12101 | [12101-fish.json](./12101-fish.json) |
 | Fish'n Feathers | 207286 | [207286-fishn-feathers.json](./207286-fishn-feathers.json) |
+| Fish's Trip | 59239 | [59239-fishs-trip.json](./59239-fishs-trip.json) |
 | Fishao | 221821 | [221821-fishao.json](./221821-fishao.json) |
 | Fishards | 152852 | [152852-fishards.json](./152852-fishards.json) |
 | Fishbait | 373634 | [373634-fishbait.json](./373634-fishbait.json) |
