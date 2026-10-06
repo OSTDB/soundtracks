@@ -4429,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond | 314304 | [314304-diamond.json](./314304-diamond.json) |
 | Diamond | 35826 | [35826-diamond.json](./35826-diamond.json) |
 | Diamond Battle | 90385 | [90385-diamond-battle.json](./90385-diamond-battle.json) |
+| Diamond Caves | 111571 | [111571-diamond-caves.json](./111571-diamond-caves.json) |
 | Diamond Craze | 248817 | [248817-diamond-craze.json](./248817-diamond-craze.json) |
 | Diamond Crush 2 | 343975 | [343975-diamond-crush-2.json](./343975-diamond-crush-2.json) |
 | Diamond Dash | 72688 | [72688-diamond-dash.json](./72688-diamond-dash.json) |
@@ -7663,6 +7664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: College Football 2024 | 262333 | [262333-draft-day-sports-college-football-2024.json](./262333-draft-day-sports-college-football-2024.json) |
 | Draft Day Sports: College Football 2025 | 386282 | [386282-draft-day-sports-college-football-2025.json](./386282-draft-day-sports-college-football-2025.json) |
 | Draft Day Sports: Pro Basketball 2016 | 58891 | [58891-draft-day-sports-pro-basketball-2016.json](./58891-draft-day-sports-pro-basketball-2016.json) |
+| Draft Day Sports: Pro Basketball 2019 | 111623 | [111623-draft-day-sports-pro-basketball-2019.json](./111623-draft-day-sports-pro-basketball-2019.json) |
 | Draft Day Sports: Pro Basketball 2020 | 126983 | [126983-draft-day-sports-pro-basketball-2020.json](./126983-draft-day-sports-pro-basketball-2020.json) |
 | Draft Day Sports: Pro Basketball 2023 | 226201 | [226201-draft-day-sports-pro-basketball-2023.json](./226201-draft-day-sports-pro-basketball-2023.json) |
 | Draft Day Sports: Pro Football 2016 | 102142 | [102142-draft-day-sports-pro-football-2016.json](./102142-draft-day-sports-pro-football-2016.json) |
