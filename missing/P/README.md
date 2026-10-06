@@ -4219,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Asteroid Belt VR | 116857 | [116857-pirates-of-the-asteroid-belt-vr.json](./116857-pirates-of-the-asteroid-belt-vr.json) |
 | Pirates of the Barbary Coast | 38929 | [38929-pirates-of-the-barbary-coast.json](./38929-pirates-of-the-barbary-coast.json) |
 | Pirates of the Burning Sea | 21283 | [21283-pirates-of-the-burning-sea.json](./21283-pirates-of-the-burning-sea.json) |
+| Pirates of the Caribbean: Armada of the Damned | 68228 | [68228-pirates-of-the-caribbean-armada-of-the-damned.json](./68228-pirates-of-the-caribbean-armada-of-the-damned.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 194266 | [194266-pirates-of-the-caribbean-dead-mans-chest.json](./194266-pirates-of-the-caribbean-dead-mans-chest.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 20542 | [20542-pirates-of-the-caribbean-dead-mans-chest.json](./20542-pirates-of-the-caribbean-dead-mans-chest.json) |
 | Pirates of the Caribbean: Tides of War | 97500 | [97500-pirates-of-the-caribbean-tides-of-war.json](./97500-pirates-of-the-caribbean-tides-of-war.json) |
@@ -8700,6 +8701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Offset | 73013 | [73013-project-offset.json](./73013-project-offset.json) |
 | Project Omega | 70397 | [70397-project-omega.json](./70397-project-omega.json) |
 | Project One | 118347 | [118347-project-one.json](./118347-project-one.json) |
+| Project One-Room | 68363 | [68363-project-one-room.json](./68363-project-one-room.json) |
 | Project Onne | 400283 | [400283-project-onne.json](./400283-project-onne.json) |
 | Project Otherside | 265307 | [265307-project-otherside.json](./265307-project-otherside.json) |
 | Project Overdrive | 186140 | [186140-project-overdrive.json](./186140-project-overdrive.json) |
@@ -9023,6 +9025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protestal | 393634 | [393634-protestal.json](./393634-protestal.json) |
 | Proteus | 2163 | [2163-proteus.json](./2163-proteus.json) |
 | Proteus Zone | 355111 | [355111-proteus-zone.json](./355111-proteus-zone.json) |
+| Protium | 68351 | [68351-protium.json](./68351-protium.json) |
 | Proto Mecha Game | 363906 | [363906-proto-mecha-game.json](./363906-proto-mecha-game.json) |
 | Proto Raider | 34889 | [34889-proto-raider.json](./34889-proto-raider.json) |
 | Proto_1987_01_IT | 339817 | [339817-proto-1987-01-it.json](./339817-proto-1987-01-it.json) |
