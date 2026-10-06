@@ -5717,7 +5717,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ansoku | 236421 | [236421-ansoku.json](./236421-ansoku.json) |
 | Anstorm | 111214 | [111214-anstorm.json](./111214-anstorm.json) |
 | Anstoss | 37126 | [37126-anstoss.json](./37126-anstoss.json) |
+| Anstoß 2 | 85725 | [85725-ansto-2.json](./85725-ansto-2.json) |
 | Anstoss 2: Gold Edition | 155090 | [155090-anstoss-2-gold-edition.json](./155090-anstoss-2-gold-edition.json) |
+| Anstoß 4 | 85734 | [85734-ansto-4.json](./85734-ansto-4.json) |
 | Anstoß Action | 98963 | [98963-ansto-action.json](./98963-ansto-action.json) |
 | Answer Back: Junior Quiz | 14257 | [14257-answer-back-junior-quiz.json](./14257-answer-back-junior-quiz.json) |
 | Answer Back: Senior Quiz | 14258 | [14258-answer-back-senior-quiz.json](./14258-answer-back-senior-quiz.json) |
