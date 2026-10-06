@@ -2238,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelie King 7 | 338377 | [338377-wheelie-king-7.json](./338377-wheelie-king-7.json) |
 | Wheelie Life | 249720 | [249720-wheelie-life.json](./249720-wheelie-life.json) |
 | Wheelie Life Simulator | 396226 | [396226-wheelie-life-simulator.json](./396226-wheelie-life-simulator.json) |
+| Wheelie Rider 3D | 106658 | [106658-wheelie-rider-3d.json](./106658-wheelie-rider-3d.json) |
 | Wheelies | 365104 | [365104-wheelies.json](./365104-wheelies.json) |
 | WheelMates | 387496 | [387496-wheelmates.json](./387496-wheelmates.json) |
 | Wheels Escape - Police Chase! | 99134 | [99134-wheels-escape-police-chase.json](./99134-wheels-escape-police-chase.json) |
@@ -4265,6 +4266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Tracky | 249728 | [249728-word-tracky.json](./249728-word-tracky.json) |
 | Word Trails | 305339 | [305339-word-trails.json](./305339-word-trails.json) |
 | Word Training Camp | 130929 | [130929-word-training-camp.json](./130929-word-training-camp.json) |
+| Word Tropics - Free Word Games and Puzzles | 106656 | [106656-word-tropics-free-word-games-and-puzzles.json](./106656-word-tropics-free-word-games-and-puzzles.json) |
 | Word Tuah | 338303 | [338303-word-tuah.json](./338303-word-tuah.json) |
 | Word U | 104600 | [104600-word-u.json](./104600-word-u.json) |
 | Word War Vi | 242591 | [242591-word-war-vi.json](./242591-word-war-vi.json) |
