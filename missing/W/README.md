@@ -3764,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Warfare | 127196 | [127196-wizard-warfare.json](./127196-wizard-warfare.json) |
 | Wizard Warfare 2: Cephalopod Wars | 269201 | [269201-wizard-warfare-2-cephalopod-wars.json](./269201-wizard-warfare-2-cephalopod-wars.json) |
 | Wizard Wars | 300031 | [300031-wizard-wars.json](./300031-wizard-wars.json) |
+| Wizard Wars | 93205 | [93205-wizard-wars.json](./93205-wizard-wars.json) |
 | Wizard Warz | 12830 | [12830-wizard-warz.json](./12830-wizard-warz.json) |
 | Wizard Willy | 71038 | [71038-wizard-willy.json](./71038-wizard-willy.json) |
 | Wizard With a Gun | 152204 | [152204-wizard-with-a-gun.json](./152204-wizard-with-a-gun.json) |
@@ -4266,6 +4267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Seek English Unlimited | 103874 | [103874-word-seek-english-unlimited.json](./103874-word-seek-english-unlimited.json) |
 | Word Shop - Brain Puzzle Games | 101487 | [101487-word-shop-brain-puzzle-games.json](./101487-word-shop-brain-puzzle-games.json) |
 | Word Shuffle | 108263 | [108263-word-shuffle.json](./108263-word-shuffle.json) |
+| Word Slinger | 93187 | [93187-word-slinger.json](./93187-word-slinger.json) |
 | Word Solitaire | 243642 | [243642-word-solitaire.json](./243642-word-solitaire.json) |
 | Word Soup | 23405 | [23405-word-soup.json](./23405-word-soup.json) |
 | Word Space | 270775 | [270775-word-space.json](./270775-word-space.json) |
