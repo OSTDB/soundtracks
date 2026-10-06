@@ -2638,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terralysia | 284591 | [284591-terralysia.json](./284591-terralysia.json) |
 | Terramachi: Battle Card Game | 215007 | [215007-terramachi-battle-card-game.json](./215007-terramachi-battle-card-game.json) |
 | TerraMartis4x | 157050 | [157050-terramartis4x.json](./157050-terramartis4x.json) |
+| Terrance the Flying Eyeball | 60915 | [60915-terrance-the-flying-eyeball.json](./60915-terrance-the-flying-eyeball.json) |
 | Terranigma | 9633 | [9633-terranigma.json](./9633-terranigma.json) |
 | TerranLands | 258513 | [258513-terranlands.json](./258513-terranlands.json) |
 | Terrapets | 140467 | [140467-terrapets.json](./140467-terrapets.json) |
@@ -7822,6 +7823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Misty Tale | 190190 | [190190-the-misty-tale.json](./190190-the-misty-tale.json) |
 | The Mixer | 223178 | [223178-the-mixer.json](./223178-the-mixer.json) |
 | The Mnemograph | 337304 | [337304-the-mnemograph.json](./337304-the-mnemograph.json) |
+| The Moaning Words | 60913 | [60913-the-moaning-words.json](./60913-the-moaning-words.json) |
 | The Mofflys: Invasion Mayhem | 278509 | [278509-the-mofflys-invasion-mayhem.json](./278509-the-mofflys-invasion-mayhem.json) |
 | The Moment We Met | 110910 | [110910-the-moment-we-met.json](./110910-the-moment-we-met.json) |
 | The Momo Game | 110632 | [110632-the-momo-game.json](./110632-the-momo-game.json) |
@@ -8183,6 +8185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orc Invasion | 237950 | [237950-the-orc-invasion.json](./237950-the-orc-invasion.json) |
 | The Orchid's Edge | 231373 | [231373-the-orchids-edge.json](./231373-the-orchids-edge.json) |
 | The Ord Accord | 289972 | [289972-the-ord-accord.json](./289972-the-ord-accord.json) |
+| The Order of Souls | 60911 | [60911-the-order-of-souls.json](./60911-the-order-of-souls.json) |
 | The Order: 1886 - Blackwater Edition | 62666 | [62666-the-order-1886-blackwater-edition.json](./62666-the-order-1886-blackwater-edition.json) |
 | The ordinary case of Margaret Luoni | 152819 | [152819-the-ordinary-case-of-margaret-luoni.json](./152819-the-ordinary-case-of-margaret-luoni.json) |
 | The Oregon Trail | 11325 | [11325-the-oregon-trail.json](./11325-the-oregon-trail.json) |
@@ -13395,6 +13398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Toon Adventures: Wacky Sports Challenge | 8051 | [8051-tiny-toon-adventures-wacky-sports-challenge.json](./8051-tiny-toon-adventures-wacky-sports-challenge.json) |
 | Tiny Tots | 360719 | [360719-tiny-tots.json](./360719-tiny-tots.json) |
 | Tiny Touchdown | 241058 | [241058-tiny-touchdown.json](./241058-tiny-touchdown.json) |
+| Tiny Tower Vegas | 60892 | [60892-tiny-tower-vegas.json](./60892-tiny-tower-vegas.json) |
 | Tiny Town Mail | 202131 | [202131-tiny-town-mail.json](./202131-tiny-town-mail.json) |
 | Tiny Town VR | 51976 | [51976-tiny-town-vr.json](./51976-tiny-town-vr.json) |
 | Tiny Town VR: Zombie Pack | 170389 | [170389-tiny-town-vr-zombie-pack.json](./170389-tiny-town-vr-zombie-pack.json) |
