@@ -1627,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manchester United | 72167 | [72167-manchester-united.json](./72167-manchester-united.json) |
 | Manchester United Club Football | 52013 | [52013-manchester-united-club-football.json](./52013-manchester-united-club-football.json) |
 | Manchester United Manager 2005 | 22546 | [22546-manchester-united-manager-2005.json](./22546-manchester-united-manager-2005.json) |
+| Manchester United Premier League Champions | 72271 | [72271-manchester-united-premier-league-champions.json](./72271-manchester-united-premier-league-champions.json) |
 | Mancy | 381611 | [381611-mancy.json](./381611-mancy.json) |
 | Manda no Yume | 201780 | [201780-manda-no-yume.json](./201780-manda-no-yume.json) |
 | Mandacaru | 159711 | [159711-mandacaru.json](./159711-mandacaru.json) |
@@ -1878,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Madness | 198810 | [198810-marble-madness.json](./198810-marble-madness.json) |
 | Marble Madness | 301853 | [301853-marble-madness.json](./301853-marble-madness.json) |
 | Marble Madness / Klax | 79831 | [79831-marble-madness-klax.json](./79831-marble-madness-klax.json) |
+| Marble Madness Construction Set | 72280 | [72280-marble-madness-construction-set.json](./72280-marble-madness-construction-set.json) |
 | Marble Mage | 166709 | [166709-marble-mage.json](./166709-marble-mage.json) |
 | Marble Magicks | 259750 | [259750-marble-magicks.json](./259750-marble-magicks.json) |
 | Marble Maid | 160223 | [160223-marble-maid.json](./160223-marble-maid.json) |
@@ -7042,6 +7044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Ship Wars | 155468 | [155468-mini-ship-wars.json](./155468-mini-ship-wars.json) |
 | Mini Soccer Star | 414515 | [414515-mini-soccer-star.json](./414515-mini-soccer-star.json) |
 | Mini Speedy Racers | 240212 | [240212-mini-speedy-racers.json](./240212-mini-speedy-racers.json) |
+| Mini Spheres | 72311 | [72311-mini-spheres.json](./72311-mini-spheres.json) |
 | Mini Star Quest | 344948 | [344948-mini-star-quest.json](./344948-mini-star-quest.json) |
 | Mini Star Survivor | 262902 | [262902-mini-star-survivor.json](./262902-mini-star-survivor.json) |
 | Mini Stasol | 366918 | [366918-mini-stasol.json](./366918-mini-stasol.json) |
@@ -9318,6 +9321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mori Adventures | 407351 | [407351-mori-adventures.json](./407351-mori-adventures.json) |
 | Mori and the Whisper | 118753 | [118753-mori-and-the-whisper.json](./118753-mori-and-the-whisper.json) |
 | Mori no Fantasy: Sekaiju no Densetsu | 220321 | [220321-mori-no-fantasy-sekaiju-no-densetsu.json](./220321-mori-no-fantasy-sekaiju-no-densetsu.json) |
+| Mori no Fukurou | 72270 | [72270-mori-no-fukurou.json](./72270-mori-no-fukurou.json) |
 | Mori no Naka de Mayoi Ie kara no Dasshutsu | 358494 | [358494-mori-no-naka-de-mayoi-ie-kara-no-dasshutsu.json](./358494-mori-no-naka-de-mayoi-ie-kara-no-dasshutsu.json) |
 | Mòrì Zhàn Jī | 367585 | [367585-mori-zhan-ji.json](./367585-mori-zhan-ji.json) |
 | Mori's Nightmare: Hide and seek | 159842 | [159842-moris-nightmare-hide-and-seek.json](./159842-moris-nightmare-hide-and-seek.json) |
@@ -9697,6 +9701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motion | 130173 | [130173-motion.json](./130173-motion.json) |
 | Motion Explosion! | 20224 | [20224-motion-explosion.json](./20224-motion-explosion.json) |
 | Motion Gravure Series: Mori Hiroko | 71487 | [71487-motion-gravure-series-mori-hiroko.json](./71487-motion-gravure-series-mori-hiroko.json) |
+| Motion Gravure Series: Nemoto Harumi | 72297 | [72297-motion-gravure-series-nemoto-harumi.json](./72297-motion-gravure-series-nemoto-harumi.json) |
 | Motion of the Heart | 133229 | [133229-motion-of-the-heart.json](./133229-motion-of-the-heart.json) |
 | Motion Soccer Pro | 320521 | [320521-motion-soccer-pro.json](./320521-motion-soccer-pro.json) |
 | Motion Wulin | 373515 | [373515-motion-wulin.json](./373515-motion-wulin.json) |
