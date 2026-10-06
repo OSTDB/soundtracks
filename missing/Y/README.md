@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yogurt's Big Adventure | 227753 | [227753-yogurts-big-adventure.json](./227753-yogurts-big-adventure.json) |
 | Yogurting | 166014 | [166014-yogurting.json](./166014-yogurting.json) |
 | Yogventures 2: Electric Boogaloo | 184455 | [184455-yogventures-2-electric-boogaloo.json](./184455-yogventures-2-electric-boogaloo.json) |
+| Yogventures! | 65246 | [65246-yogventures.json](./65246-yogventures.json) |
 | Yohane the Parhelion: Additional Character Pack vol.1 "Dia & Hanamaru & Kanan" | 301020 | [301020-yohane-the-parhelion-additional-character-pack-vol-1-dia-and-hanamaru-and-kanan.json](./301020-yohane-the-parhelion-additional-character-pack-vol-1-dia-and-hanamaru-and-kanan.json) |
 | Yohane the Parhelion: Additional character pack vol.3 "Riko & Mari + Yohane" | 315494 | [315494-yohane-the-parhelion-additional-character-pack-vol-3-riko-and-mari-yohane.json](./315494-yohane-the-parhelion-additional-character-pack-vol-3-riko-and-mari-yohane.json) |
 | Yohane the Parhelion: Costume "Fluffy Lailaps" | 324495 | [324495-yohane-the-parhelion-costume-fluffy-lailaps.json](./324495-yohane-the-parhelion-costume-fluffy-lailaps.json) |
