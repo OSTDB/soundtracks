@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallunazi | 74685 | [74685-hallunazi.json](./74685-hallunazi.json) |
 | Hallway Defender | 220030 | [220030-hallway-defender.json](./220030-hallway-defender.json) |
 | Hallway Gunners | 363057 | [363057-hallway-gunners.json](./363057-hallway-gunners.json) |
+| Hallway of Adventures | 71713 | [71713-hallway-of-adventures.json](./71713-hallway-of-adventures.json) |
 | Hallway of Horrors | 319804 | [319804-hallway-of-horrors.json](./319804-hallway-of-horrors.json) |
 | Hallways | 280421 | [280421-hallways.json](./280421-hallways.json) |
 | Halma | 102289 | [102289-halma.json](./102289-halma.json) |
@@ -1555,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haustor's Abbey | 278467 | [278467-haustors-abbey.json](./278467-haustors-abbey.json) |
 | Haustoria | 130922 | [130922-haustoria.json](./130922-haustoria.json) |
 | Haut | 349382 | [349382-haut.json](./349382-haut.json) |
+| Have a N.I.C.E. day! | 71710 | [71710-have-a-n-i-c-e-day.json](./71710-have-a-n-i-c-e-day.json) |
 | Have Fun Together | 259605 | [259605-have-fun-together.json](./259605-have-fun-together.json) |
 | Have Fun Together | 259671 | [259671-have-fun-together.json](./259671-have-fun-together.json) |
 | Have It Coming | 391331 | [391331-have-it-coming.json](./391331-have-it-coming.json) |
