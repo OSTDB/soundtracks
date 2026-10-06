@@ -1219,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukaze Sentai V-Force | 108837 | [108837-harukaze-sentai-v-force.json](./108837-harukaze-sentai-v-force.json) |
 | Harukuru: Spring has Come True? | 332633 | [332633-harukuru-spring-has-come-true.json](./332633-harukuru-spring-has-come-true.json) |
 | Haruna: Spring | 398513 | [398513-haruna-spring.json](./398513-haruna-spring.json) |
+| Haruoto Alice Gram: Snow Drop | 113585 | [113585-haruoto-alice-gram-snow-drop.json](./113585-haruoto-alice-gram-snow-drop.json) |
 | Harvest | 229365 | [229365-harvest.json](./229365-harvest.json) |
 | Harvest | 99400 | [99400-harvest.json](./99400-harvest.json) |
 | Harvest Bliss | 302374 | [302374-harvest-bliss.json](./302374-harvest-bliss.json) |
@@ -2494,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellrider | 143083 | [143083-hellrider.json](./143083-hellrider.json) |
 | Hellrooms | 324322 | [324322-hellrooms.json](./324322-hellrooms.json) |
 | Hells Bend on Wounded Knee | 248679 | [248679-hells-bend-on-wounded-knee.json](./248679-hells-bend-on-wounded-knee.json) |
+| Hellshots Golf | 113593 | [113593-hellshots-golf.json](./113593-hellshots-golf.json) |
 | HellSinker | 50441 | [50441-hellsinker.json](./50441-hellsinker.json) |
 | Hellslinger | 217976 | [217976-hellslinger.json](./217976-hellslinger.json) |
 | Hellspawn | 244204 | [244204-hellspawn.json](./244204-hellspawn.json) |
@@ -3395,6 +3397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heros: The Sanguine Seven | 140621 | [140621-heros-the-sanguine-seven.json](./140621-heros-the-sanguine-seven.json) |
 | HeroSurvival | 248148 | [248148-herosurvival.json](./248148-herosurvival.json) |
 | HeroVersus | 239750 | [239750-heroversus.json](./239750-heroversus.json) |
+| HeroVersus: The Legend of Ki Masters | 113622 | [113622-heroversus-the-legend-of-ki-masters.json](./113622-heroversus-the-legend-of-ki-masters.json) |
 | HeroxTrio | 183027 | [183027-heroxtrio.json](./183027-heroxtrio.json) |
 | Herpit | 385749 | [385749-herpit.json](./385749-herpit.json) |
 | HerrAnwalt: Lawyers Legacy | 224233 | [224233-herranwalt-lawyers-legacy.json](./224233-herranwalt-lawyers-legacy.json) |
