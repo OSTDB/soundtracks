@@ -1293,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watashi no Kokoro! Kimi no Koto ga Suki desu. | 161902 | [161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json](./161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json) |
 | Watashi no MakeSalon | 275635 | [275635-watashi-no-makesalon.json](./275635-watashi-no-makesalon.json) |
 | Watashi Suzume | 216841 | [216841-watashi-suzume.json](./216841-watashi-suzume.json) |
+| Watch | 117604 | [117604-watch.json](./117604-watch.json) |
 | Watch | 271912 | [271912-watch.json](./271912-watch.json) |
 | Watch | 310212 | [310212-watch.json](./310212-watch.json) |
 | Watch Dogs 2: No Compromise | 28377 | [28377-watch-dogs-2-no-compromise.json](./28377-watch-dogs-2-no-compromise.json) |
