@@ -4769,6 +4769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diego Balls | 343830 | [343830-diego-balls.json](./343830-diego-balls.json) |
 | Diego: Mission Red Tomato | 160211 | [160211-diego-mission-red-tomato.json](./160211-diego-mission-red-tomato.json) |
 | Diemi | 375352 | [375352-diemi.json](./375352-diemi.json) |
+| Dien Bien Phu | 78921 | [78921-dien-bien-phu.json](./78921-dien-bien-phu.json) |
 | Diep.io | 19341 | [19341-diep-io.json](./19341-diep-io.json) |
 | Diercke Das Geographie-Quiz | 269743 | [269743-diercke-das-geographie-quiz.json](./269743-diercke-das-geographie-quiz.json) |
 | Diercke: Junior-Quiz Geographie | 269744 | [269744-diercke-junior-quiz-geographie.json](./269744-diercke-junior-quiz-geographie.json) |
@@ -7747,6 +7748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr.Tool Logik Trainer | 91599 | [91599-dr-tool-logik-trainer.json](./91599-dr-tool-logik-trainer.json) |
 | Dr.Tool Mathe Trainer | 91617 | [91617-dr-tool-mathe-trainer.json](./91617-dr-tool-mathe-trainer.json) |
 | Dr.Tool Mathe Trainer und Nonogram | 91619 | [91619-dr-tool-mathe-trainer-und-nonogram.json](./91619-dr-tool-mathe-trainer-und-nonogram.json) |
+| Dr.Tool Toy Factory | 78928 | [78928-dr-tool-toy-factory.json](./78928-dr-tool-toy-factory.json) |
 | DR2 Night Janki | 247502 | [247502-dr2-night-janki.json](./247502-dr2-night-janki.json) |
 | DraBot | 401475 | [401475-drabot.json](./401475-drabot.json) |
 | Drac's Night Out | 48643 | [48643-dracs-night-out.json](./48643-dracs-night-out.json) |
