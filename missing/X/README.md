@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XO Master | 237956 | [237956-xo-master.json](./237956-xo-master.json) |
 | XO Patterns | 27730 | [27730-xo-patterns.json](./27730-xo-patterns.json) |
 | Xob | 149609 | [149609-xob.json](./149609-xob.json) |
+| Xobox | 110934 | [110934-xobox.json](./110934-xobox.json) |
 | Xochi's Apothecary | 253486 | [253486-xochis-apothecary.json](./253486-xochis-apothecary.json) |
 | Xod.io | 130942 | [130942-xod-io.json](./130942-xod-io.json) |
 | Xolo & the Forgotten Gods | 350414 | [350414-xolo-and-the-forgotten-gods.json](./350414-xolo-and-the-forgotten-gods.json) |
