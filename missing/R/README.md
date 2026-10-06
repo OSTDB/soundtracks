@@ -3442,6 +3442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return Ace | 195759 | [195759-return-ace.json](./195759-return-ace.json) |
 | Return Alive | 255803 | [255803-return-alive.json](./255803-return-alive.json) |
 | Return Machine.Love() | 406290 | [406290-return-machine-love.json](./406290-return-machine-love.json) |
+| Return of Die Vie Ess | 71162 | [71162-return-of-die-vie-ess.json](./71162-return-of-die-vie-ess.json) |
 | Return of Double Dragon | 248131 | [248131-return-of-double-dragon.json](./248131-return-of-double-dragon.json) |
 | Return of Jelda | 78312 | [78312-return-of-jelda.json](./78312-return-of-jelda.json) |
 | Return of Red Riding Hood: Enhanced Edition | 81243 | [81243-return-of-red-riding-hood-enhanced-edition.json](./81243-return-of-red-riding-hood-enhanced-edition.json) |
@@ -6247,6 +6248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rothdam! | 196865 | [196865-rothdam.json](./196865-rothdam.json) |
 | RoThings | 227951 | [227951-rothings.json](./227951-rothings.json) |
 | Rotieer | 35909 | [35909-rotieer.json](./35909-rotieer.json) |
+| ROTN Quiz game 2 | 71168 | [71168-rotn-quiz-game-2.json](./71168-rotn-quiz-game-2.json) |
 | Roto Force | 191870 | [191870-roto-force.json](./191870-roto-force.json) |
 | Roto16 | 234055 | [234055-roto16.json](./234055-roto16.json) |
 | RotoCore | 414291 | [414291-rotocore.json](./414291-rotocore.json) |
