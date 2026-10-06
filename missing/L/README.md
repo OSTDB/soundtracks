@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lake House: Children of Silence | 40967 | [40967-lake-house-children-of-silence.json](./40967-lake-house-children-of-silence.json) |
 | Lake Masters | 67302 | [67302-lake-masters.json](./67302-lake-masters.json) |
 | Lake Masters 2 | 67298 | [67298-lake-masters-2.json](./67298-lake-masters-2.json) |
+| Lake Masters EX | 70570 | [70570-lake-masters-ex.json](./70570-lake-masters-ex.json) |
 | Lake Masters Pro | 67300 | [67300-lake-masters-pro.json](./67300-lake-masters-pro.json) |
 | Lake of Creatures | 190990 | [190990-lake-of-creatures.json](./190990-lake-of-creatures.json) |
 | Lake of Darkness | 351116 | [351116-lake-of-darkness.json](./351116-lake-of-darkness.json) |
@@ -2392,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Libble Rabble | 37945 | [37945-libble-rabble.json](./37945-libble-rabble.json) |
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
 | Liber | 163198 | [163198-liber.json](./163198-liber.json) |
+| Liberal Crime Squad | 70579 | [70579-liberal-crime-squad.json](./70579-liberal-crime-squad.json) |
 | Liberate 1024 | 312923 | [312923-liberate-1024.json](./312923-liberate-1024.json) |
 | Liberated: For the Homeland | 170885 | [170885-liberated-for-the-homeland.json](./170885-liberated-for-the-homeland.json) |
 | Liberated: Glory to the Heroes | 170884 | [170884-liberated-glory-to-the-heroes.json](./170884-liberated-glory-to-the-heroes.json) |
@@ -4250,6 +4252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Train | 166154 | [166154-loot-train.json](./166154-loot-train.json) |
 | Loot Tycoon | 379479 | [379479-loot-tycoon.json](./379479-loot-tycoon.json) |
 | Loot, Luck & Levels | 213481 | [213481-loot-luck-and-levels.json](./213481-loot-luck-and-levels.json) |
+| Loot, Steal 'n Destroy | 70623 | [70623-loot-steal-n-destroy.json](./70623-loot-steal-n-destroy.json) |
 | Loot: Action-Packed Bundle | 99750 | [99750-loot-action-packed-bundle.json](./99750-loot-action-packed-bundle.json) |
 | Loot: Games & Themes Ultimate Holiday Bundle | 99760 | [99760-loot-games-and-themes-ultimate-holiday-bundle.json](./99760-loot-games-and-themes-ultimate-holiday-bundle.json) |
 | Loot: Strategy-Packed Bundle | 99759 | [99759-loot-strategy-packed-bundle.json](./99759-loot-strategy-packed-bundle.json) |
@@ -4837,6 +4840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Elysium: Secret of the Goddess - Ultimate Edition | 313141 | [313141-love-elysium-secret-of-the-goddess-ultimate-edition.json](./313141-love-elysium-secret-of-the-goddess-ultimate-edition.json) |
 | Love Engine | 29956 | [29956-love-engine.json](./29956-love-engine.json) |
 | Love Eternal | 305358 | [305358-love-eternal.json](./305358-love-eternal.json) |
+| Love Fashion and Friends | 70598 | [70598-love-fashion-and-friends.json](./70598-love-fashion-and-friends.json) |
 | Love Furry Boys: Zodiac Dating App | 330238 | [330238-love-furry-boys-zodiac-dating-app.json](./330238-love-furry-boys-zodiac-dating-app.json) |
 | Love Furry Girls: Zodiac Dating App | 330239 | [330239-love-furry-girls-zodiac-dating-app.json](./330239-love-furry-girls-zodiac-dating-app.json) |
 | Love Games | 107425 | [107425-love-games.json](./107425-love-games.json) |
