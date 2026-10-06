@@ -1116,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Realms | 336012 | [336012-mahjong-realms.json](./336012-mahjong-realms.json) |
 | Mahjong Roadshow | 29205 | [29205-mahjong-roadshow.json](./29205-mahjong-roadshow.json) |
 | Mahjong Route | 355207 | [355207-mahjong-route.json](./355207-mahjong-route.json) |
+| Mahjong Royal Towers | 63103 | [63103-mahjong-royal-towers.json](./63103-mahjong-royal-towers.json) |
 | Mahjong Safari | 366440 | [366440-mahjong-safari.json](./366440-mahjong-safari.json) |
 | Mahjong Secrets | 88621 | [88621-mahjong-secrets.json](./88621-mahjong-secrets.json) |
 | Mahjong Sengoku Monogatari | 37743 | [37743-mahjong-sengoku-monogatari.json](./37743-mahjong-sengoku-monogatari.json) |
@@ -6528,6 +6529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milthm | 258703 | [258703-milthm.json](./258703-milthm.json) |
 | Milton Cumberdale | 238990 | [238990-milton-cumberdale.json](./238990-milton-cumberdale.json) |
 | Milton the Alien Guy | 230349 | [230349-milton-the-alien-guy.json](./230349-milton-the-alien-guy.json) |
+| Milton's Run | 63139 | [63139-miltons-run.json](./63139-miltons-run.json) |
 | Milu Milan | 265824 | [265824-milu-milan.json](./265824-milu-milan.json) |
 | Milya[broken] | 150128 | [150128-milya-broken.json](./150128-milya-broken.json) |
 | MiM: Meditation Interactive Matrix | 358995 | [358995-mim-meditation-interactive-matrix.json](./358995-mim-meditation-interactive-matrix.json) |
@@ -7509,6 +7511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Spider's Tea Party | 73804 | [73804-miss-spiders-tea-party.json](./73804-miss-spiders-tea-party.json) |
 | Miss Teri Tale | 53385 | [53385-miss-teri-tale.json](./53385-miss-teri-tale.json) |
 | Miss World '96 | 38567 | [38567-miss-world-96.json](./38567-miss-world-96.json) |
+| Miss World '96: Nude | 63152 | [63152-miss-world-96-nude.json](./63152-miss-world-96-nude.json) |
 | Misshapen | 128977 | [128977-misshapen.json](./128977-misshapen.json) |
 | Missile Attack | 245437 | [245437-missile-attack.json](./245437-missile-attack.json) |
 | Missile Attack | 71157 | [71157-missile-attack.json](./71157-missile-attack.json) |
@@ -9598,6 +9601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortuar | 329073 | [329073-mortuar.json](./329073-mortuar.json) |
 | Mortui: Outbreak Secrets | 287874 | [287874-mortui-outbreak-secrets.json](./287874-mortui-outbreak-secrets.json) |
 | Mortuum | 13090 | [13090-mortuum.json](./13090-mortuum.json) |
+| Mortuus Insanis | 63098 | [63098-mortuus-insanis.json](./63098-mortuus-insanis.json) |
 | Morvyn Gutter | 341338 | [341338-morvyn-gutter.json](./341338-morvyn-gutter.json) |
 | Morwen Estate | 342068 | [342068-morwen-estate.json](./342068-morwen-estate.json) |
 | Mos Speedrun | 92279 | [92279-mos-speedrun.json](./92279-mos-speedrun.json) |
@@ -11017,6 +11021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Boyfriend's a Werecat! | 169362 | [169362-my-boyfriends-a-werecat.json](./169362-my-boyfriends-a-werecat.json) |
 | My Breast Friend Sally | 286500 | [286500-my-breast-friend-sally.json](./286500-my-breast-friend-sally.json) |
 | My Brick Breaker | 307158 | [307158-my-brick-breaker.json](./307158-my-brick-breaker.json) |
+| My Broken Blocks | 63141 | [63141-my-broken-blocks.json](./63141-my-broken-blocks.json) |
 | My Brother Hacker | 414478 | [414478-my-brother-hacker.json](./414478-my-brother-hacker.json) |
 | My Brother is a Superhero | 242559 | [242559-my-brother-is-a-superhero.json](./242559-my-brother-is-a-superhero.json) |
 | My brother lives in a canyon | 152725 | [152725-my-brother-lives-in-a-canyon.json](./152725-my-brother-lives-in-a-canyon.json) |
@@ -11933,6 +11938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: The Black Raven 5 | 254756 | [254756-mystery-solitaire-the-black-raven-5.json](./254756-mystery-solitaire-the-black-raven-5.json) |
 | Mystery Solitaire: The Black Raven 6 | 341352 | [341352-mystery-solitaire-the-black-raven-6.json](./341352-mystery-solitaire-the-black-raven-6.json) |
 | Mystery Solving! BrainQuiz | 283278 | [283278-mystery-solving-brainquiz.json](./283278-mystery-solving-brainquiz.json) |
+| Mystery Stories: Mountains of Madness | 63120 | [63120-mystery-stories-mountains-of-madness.json](./63120-mystery-stories-mountains-of-madness.json) |
 | Mystery Tales: Art and Souls | 187922 | [187922-mystery-tales-art-and-souls.json](./187922-mystery-tales-art-and-souls.json) |
 | Mystery Tales: Her Own Eyes HD - A Hidden Object Mystery (Full) | 90065 | [90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json](./90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json) |
 | Mystery Tales: Master of Puppets | 187948 | [187948-mystery-tales-master-of-puppets.json](./187948-mystery-tales-master-of-puppets.json) |
