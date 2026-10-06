@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFS League | 207883 | [207883-ufs-league.json](./207883-ufs-league.json) |
 | UG | 370848 | [370848-ug.json](./370848-ug.json) |
 | Ug! Caveman Game | 198528 | [198528-ug-caveman-game.json](./198528-ug-caveman-game.json) |
+| Ugandan Knuckles Pet | 96300 | [96300-ugandan-knuckles-pet.json](./96300-ugandan-knuckles-pet.json) |
 | Ugetsu Kitan | 57362 | [57362-ugetsu-kitan.json](./57362-ugetsu-kitan.json) |
 | Uggies Garden | 128472 | [128472-uggies-garden.json](./128472-uggies-garden.json) |
 | Ugly Americans: Apocalypsegeddon | 20618 | [20618-ugly-americans-apocalypsegeddon.json](./20618-ugly-americans-apocalypsegeddon.json) |
