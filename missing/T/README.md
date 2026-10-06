@@ -6501,6 +6501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Dragons | 6814 | [6814-the-king-of-dragons.json](./6814-the-king-of-dragons.json) |
 | The King of Drive: Parking Edition | 196102 | [196102-the-king-of-drive-parking-edition.json](./196102-the-king-of-drive-parking-edition.json) |
 | The King of Fighters '95 | 15427 | [15427-the-king-of-fighters-95.json](./15427-the-king-of-fighters-95.json) |
+| The King of Fighters '96 Collection | 75462 | [75462-the-king-of-fighters-96-collection.json](./75462-the-king-of-fighters-96-collection.json) |
 | The King of Fighters '97 | 15428 | [15428-the-king-of-fighters-97.json](./15428-the-king-of-fighters-97.json) |
 | The King of Fighters '97 OL | 80566 | [80566-the-king-of-fighters-97-ol.json](./80566-the-king-of-fighters-97-ol.json) |
 | The King of Fighters '98: Special Edition | 75472 | [75472-the-king-of-fighters-98-special-edition.json](./75472-the-king-of-fighters-98-special-edition.json) |
@@ -12991,6 +12992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time-Gate | 69937 | [69937-time-gate.json](./69937-time-gate.json) |
 | Time's Disillusion | 236960 | [236960-times-disillusion.json](./236960-times-disillusion.json) |
 | Time's Prison | 318423 | [318423-times-prison.json](./318423-times-prison.json) |
+| Time's Up | 75409 | [75409-times-up.json](./75409-times-up.json) |
 | Time's Up in Tiny Town | 190471 | [190471-times-up-in-tiny-town.json](./190471-times-up-in-tiny-town.json) |
 | Timeball | 7791 | [7791-timeball.json](./7791-timeball.json) |
 | Timebot | 219499 | [219499-timebot.json](./219499-timebot.json) |
@@ -17723,6 +17725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trulon | 197766 | [197766-trulon.json](./197766-trulon.json) |
 | Trulon: The Shadow Engine | 20344 | [20344-trulon-the-shadow-engine.json](./20344-trulon-the-shadow-engine.json) |
 | TruLove | 212186 | [212186-trulove.json](./212186-trulove.json) |
+| Truly Kryptic | 75418 | [75418-truly-kryptic.json](./75418-truly-kryptic.json) |
 | Trump and Virus | 393451 | [393451-trump-and-virus.json](./393451-trump-and-virus.json) |
 | Trump Anthology Episode 1: A Link to the Past | 111858 | [111858-trump-anthology-episode-1-a-link-to-the-past.json](./111858-trump-anthology-episode-1-a-link-to-the-past.json) |
 | Trump Boy II | 334278 | [334278-trump-boy-ii.json](./334278-trump-boy-ii.json) |
