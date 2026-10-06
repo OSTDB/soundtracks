@@ -2965,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharabis | 342121 | [342121-pharabis.json](./342121-pharabis.json) |
 | Pharaoh | 7510 | [7510-pharaoh.json](./7510-pharaoh.json) |
 | Pharaoh ISO | 209969 | [209969-pharaoh-iso.json](./209969-pharaoh-iso.json) |
+| Pharaoh Miracle Legend | 107097 | [107097-pharaoh-miracle-legend.json](./107097-pharaoh-miracle-legend.json) |
 | Pharaoh Rebirth+ | 20102 | [20102-pharaoh-rebirth.json](./20102-pharaoh-rebirth.json) |
 | Pharaoh's Purse | 314514 | [314514-pharaohs-purse.json](./314514-pharaohs-purse.json) |
 | Pharaoh's Revenge | 55206 | [55206-pharaohs-revenge.json](./55206-pharaohs-revenge.json) |
@@ -3642,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilot Kids | 39797 | [39797-pilot-kids.json](./39797-pilot-kids.json) |
 | Pilot Light | 319204 | [319204-pilot-light.json](./319204-pilot-light.json) |
 | Pilot Light | 96511 | [96511-pilot-light.json](./96511-pilot-light.json) |
+| Pilot Perils | 107067 | [107067-pilot-perils.json](./107067-pilot-perils.json) |
 | Pilot Rudder VR | 105340 | [105340-pilot-rudder-vr.json](./105340-pilot-rudder-vr.json) |
 | Pilot Rush | 243388 | [243388-pilot-rush.json](./243388-pilot-rush.json) |
 | Pilot Sophie | 96719 | [96719-pilot-sophie.json](./96719-pilot-sophie.json) |
@@ -4628,6 +4630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Town: Akanemachi Mystery 2 | 244311 | [244311-pixel-town-akanemachi-mystery-2.json](./244311-pixel-town-akanemachi-mystery-2.json) |
 | Pixel Town: Akanemachi Sideshow | 298162 | [298162-pixel-town-akanemachi-sideshow.json](./298162-pixel-town-akanemachi-sideshow.json) |
 | Pixel Traffic: Highway Racing | 102216 | [102216-pixel-traffic-highway-racing.json](./102216-pixel-traffic-highway-racing.json) |
+| Pixel Trainer | 107098 | [107098-pixel-trainer.json](./107098-pixel-trainer.json) |
 | Pixel Troopers | 351752 | [351752-pixel-troopers.json](./351752-pixel-troopers.json) |
 | Pixel Trouble | 192235 | [192235-pixel-trouble.json](./192235-pixel-trouble.json) |
 | Pixel Waifu: Escape From the Dark Corporation. The Telepathic Power of a Lovestruck Otaku | 398558 | [398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json](./398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json) |
@@ -4930,6 +4933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Finder | 362299 | [362299-planet-finder.json](./362299-planet-finder.json) |
 | Planet Flipper | 394893 | [394893-planet-flipper.json](./394893-planet-flipper.json) |
 | Planet G | 209972 | [209972-planet-g.json](./209972-planet-g.json) |
+| Planet Genesis 2 | 107092 | [107092-planet-genesis-2.json](./107092-planet-genesis-2.json) |
 | Planet Guardian VR | 76519 | [76519-planet-guardian-vr.json](./76519-planet-guardian-vr.json) |
 | Planet Gula | 145557 | [145557-planet-gula.json](./145557-planet-gula.json) |
 | Planet Harriers | 72972 | [72972-planet-harriers.json](./72972-planet-harriers.json) |
@@ -6437,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poltergeist: A Pixelated Horror | 17855 | [17855-poltergeist-a-pixelated-horror.json](./17855-poltergeist-a-pixelated-horror.json) |
 | Polterparty | 374768 | [374768-polterparty.json](./374768-polterparty.json) |
 | Polterquest | 345027 | [345027-polterquest.json](./345027-polterquest.json) |
+| Poly art coloring pages - Color by number low poly | 107095 | [107095-poly-art-coloring-pages-color-by-number-low-poly.json](./107095-poly-art-coloring-pages-color-by-number-low-poly.json) |
 | Poly Art: Coloring Puzzle Game | 100322 | [100322-poly-art-coloring-puzzle-game.json](./100322-poly-art-coloring-puzzle-game.json) |
 | Poly Backrooms | 262906 | [262906-poly-backrooms.json](./262906-poly-backrooms.json) |
 | Poly Bridge | 11597 | [11597-poly-bridge.json](./11597-poly-bridge.json) |
@@ -6764,6 +6769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | POP Station | 225629 | [225629-pop-station.json](./225629-pop-station.json) |
 | Pop Survivor | 234109 | [234109-pop-survivor.json](./234109-pop-survivor.json) |
 | Pop the Bubblewrap | 328681 | [328681-pop-the-bubblewrap.json](./328681-pop-the-bubblewrap.json) |
+| Pop the Ice | 107080 | [107080-pop-the-ice.json](./107080-pop-the-ice.json) |
 | Pop the Jewel | 233435 | [233435-pop-the-jewel.json](./233435-pop-the-jewel.json) |
 | Pop the Lock | 256976 | [256976-pop-the-lock.json](./256976-pop-the-lock.json) |
 | Pop This Pop-It | 163189 | [163189-pop-this-pop-it.json](./163189-pop-this-pop-it.json) |
@@ -9374,6 +9380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppetShow: Mystery of Joyville | 25926 | [25926-puppetshow-mystery-of-joyville.json](./25926-puppetshow-mystery-of-joyville.json) |
 | PuppetShow: Poetic Justice | 187912 | [187912-puppetshow-poetic-justice.json](./187912-puppetshow-poetic-justice.json) |
 | PuppetShow: Porcelain Smile - Collector's Edition | 115526 | [115526-puppetshow-porcelain-smile-collectors-edition.json](./115526-puppetshow-porcelain-smile-collectors-edition.json) |
+| PuppetShow: The Face of Humanity | 107077 | [107077-puppetshow-the-face-of-humanity.json](./107077-puppetshow-the-face-of-humanity.json) |
 | Puppies World 3D | 84800 | [84800-puppies-world-3d.json](./84800-puppies-world-3d.json) |
 | Pupple Pop | 390192 | [390192-pupple-pop.json](./390192-pupple-pop.json) |
 | Puppy Balloon Ride | 213392 | [213392-puppy-balloon-ride.json](./213392-puppy-balloon-ride.json) |
@@ -9800,6 +9807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Nintama Rantarou GB | 97863 | [97863-puzzle-nintama-rantarou-gb.json](./97863-puzzle-nintama-rantarou-gb.json) |
 | Puzzle of Insects | 295993 | [295993-puzzle-of-insects.json](./295993-puzzle-of-insects.json) |
 | Puzzle of Words | 37301 | [37301-puzzle-of-words.json](./37301-puzzle-of-words.json) |
+| Puzzle Out - Dots, Hexa Lines, Pipes, Tangram | 107101 | [107101-puzzle-out-dots-hexa-lines-pipes-tangram.json](./107101-puzzle-out-dots-hexa-lines-pipes-tangram.json) |
 | Puzzle Page | 91122 | [91122-puzzle-page.json](./91122-puzzle-page.json) |
 | Puzzle Parasite | 366826 | [366826-puzzle-parasite.json](./366826-puzzle-parasite.json) |
 | Puzzle Park | 215882 | [215882-puzzle-park.json](./215882-puzzle-park.json) |
