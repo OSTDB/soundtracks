@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Golf | 288371 | [288371-quick-golf.json](./288371-quick-golf.json) |
 | Quick Mafs Advanced | 193731 | [193731-quick-mafs-advanced.json](./193731-quick-mafs-advanced.json) |
 | Quick Majik Adventure | 171539 | [171539-quick-majik-adventure.json](./171539-quick-majik-adventure.json) |
+| Quick Maths: addition and subtraction | 107741 | [107741-quick-maths-addition-and-subtraction.json](./107741-quick-maths-addition-and-subtraction.json) |
 | Quick Move | 246362 | [246362-quick-move.json](./246362-quick-move.json) |
 | Quick Packer 2 | 148667 | [148667-quick-packer-2.json](./148667-quick-packer-2.json) |
 | Quick Quack | 201136 | [201136-quick-quack.json](./201136-quick-quack.json) |
