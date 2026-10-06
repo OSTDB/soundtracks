@@ -1693,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCStrikers5 | 339414 | [339414-tcstrikers5.json](./339414-tcstrikers5.json) |
 | TD Quest | 233092 | [233092-td-quest.json](./233092-td-quest.json) |
 | TD Strategy of Three Kingdoms | 130927 | [130927-td-strategy-of-three-kingdoms.json](./130927-td-strategy-of-three-kingdoms.json) |
+| TD Ultimate | 101022 | [101022-td-ultimate.json](./101022-td-ultimate.json) |
 | TD: Goblin Defenders | 101650 | [101650-td-goblin-defenders.json](./101650-td-goblin-defenders.json) |
 | TD3D | 371907 | [371907-td3d.json](./371907-td3d.json) |
 | TDP5: Arena 3D | 35639 | [35639-tdp5-arena-3d.json](./35639-tdp5-arena-3d.json) |
@@ -2868,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tex Murphy: Mean Streets + Martian Memorandum | 83575 | [83575-tex-murphy-mean-streets-martian-memorandum.json](./83575-tex-murphy-mean-streets-martian-memorandum.json) |
 | Tex Murphy: Overseer | 5544 | [5544-tex-murphy-overseer.json](./5544-tex-murphy-overseer.json) |
 | Tex Murphy: The Pandora Directive | 17424 | [17424-tex-murphy-the-pandora-directive.json](./17424-tex-murphy-the-pandora-directive.json) |
+| Texas 42 HD | 101042 | [101042-texas-42-hd.json](./101042-texas-42-hd.json) |
 | Texas Butcher | 125257 | [125257-texas-butcher.json](./125257-texas-butcher.json) |
 | Texas Chainsaw Dodge | 307613 | [307613-texas-chainsaw-dodge.json](./307613-texas-chainsaw-dodge.json) |
 | Texas Hold 'Em Poker | 131511 | [131511-texas-hold-em-poker.json](./131511-texas-hold-em-poker.json) |
@@ -5103,6 +5105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fable of Fairy Glen | 355030 | [355030-the-fable-of-fairy-glen.json](./355030-the-fable-of-fairy-glen.json) |
 | The Fable of Ruby | 38498 | [38498-the-fable-of-ruby.json](./38498-the-fable-of-ruby.json) |
 | The Fabric of the Mind | 238748 | [238748-the-fabric-of-the-mind.json](./238748-the-fabric-of-the-mind.json) |
+| The fabulous Animal Playground | 101003 | [101003-the-fabulous-animal-playground.json](./101003-the-fabulous-animal-playground.json) |
 | The Fabulous Screech | 60521 | [60521-the-fabulous-screech.json](./60521-the-fabulous-screech.json) |
 | The Fabulous Wanda and the Secret of Life, the Universe, and Everything | 25854 | [25854-the-fabulous-wanda-and-the-secret-of-life-the-universe-and-everything.json](./25854-the-fabulous-wanda-and-the-secret-of-life-the-universe-and-everything.json) |
 | The Faceless | 237361 | [237361-the-faceless.json](./237361-the-faceless.json) |
@@ -6799,6 +6802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sunshine: Rekindled | 150612 | [150612-the-last-sunshine-rekindled.json](./150612-the-last-sunshine-rekindled.json) |
 | The Last Survey | 139318 | [139318-the-last-survey.json](./139318-the-last-survey.json) |
 | The Last Survivor | 113878 | [113878-the-last-survivor.json](./113878-the-last-survivor.json) |
+| The Last Survivors | 101026 | [101026-the-last-survivors.json](./101026-the-last-survivors.json) |
 | The Last Survivors Harem | 379007 | [379007-the-last-survivors-harem.json](./379007-the-last-survivors-harem.json) |
 | The Last Sword | 235808 | [235808-the-last-sword.json](./235808-the-last-sword.json) |
 | The Last Tale | 403004 | [403004-the-last-tale.json](./403004-the-last-tale.json) |
@@ -8905,6 +8909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secrets | 178686 | [178686-the-secrets.json](./178686-the-secrets.json) |
 | The Secrets of Atlantis: The Sacred Legacy | 19458 | [19458-the-secrets-of-atlantis-the-sacred-legacy.json](./19458-the-secrets-of-atlantis-the-sacred-legacy.json) |
 | The Secrets of Bharas | 356874 | [356874-the-secrets-of-bharas.json](./356874-the-secrets-of-bharas.json) |
+| The Secrets of Da Vinci | 101024 | [101024-the-secrets-of-da-vinci.json](./101024-the-secrets-of-da-vinci.json) |
 | The Secrets of Da Vinci: The Forbidden Manuscript | 23145 | [23145-the-secrets-of-da-vinci-the-forbidden-manuscript.json](./23145-the-secrets-of-da-vinci-the-forbidden-manuscript.json) |
 | The Secrets of Hope | 236533 | [236533-the-secrets-of-hope.json](./236533-the-secrets-of-hope.json) |
 | The Secrets of Hosea Freeman | 62691 | [62691-the-secrets-of-hosea-freeman.json](./62691-the-secrets-of-hosea-freeman.json) |
@@ -9474,6 +9479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Static Speaks My Name | 11765 | [11765-the-static-speaks-my-name.json](./11765-the-static-speaks-my-name.json) |
 | The Station: Escape Room | 151011 | [151011-the-station-escape-room.json](./151011-the-station-escape-room.json) |
 | The Statue Got Me High | 358371 | [358371-the-statue-got-me-high.json](./358371-the-statue-got-me-high.json) |
+| The Stealth House: Secret Key | 101018 | [101018-the-stealth-house-secret-key.json](./101018-the-stealth-house-secret-key.json) |
 | The Stick and the Basket | 215786 | [215786-the-stick-and-the-basket.json](./215786-the-stick-and-the-basket.json) |
 | The Stickman | 341027 | [341027-the-stickman.json](./341027-the-stickman.json) |
 | The Sticky Plan | 183577 | [183577-the-sticky-plan.json](./183577-the-sticky-plan.json) |
@@ -10287,6 +10293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vengeance Of Lady Witch | 250964 | [250964-the-vengeance-of-lady-witch.json](./250964-the-vengeance-of-lady-witch.json) |
 | The Vertigo lite | 129665 | [129665-the-vertigo-lite.json](./129665-the-vertigo-lite.json) |
 | The Very Big Cave Adventure | 26477 | [26477-the-very-big-cave-adventure.json](./26477-the-very-big-cave-adventure.json) |
+| The Very Hungry Caterpillar: First Words | 101013 | [101013-the-very-hungry-caterpillar-first-words.json](./101013-the-very-hungry-caterpillar-first-words.json) |
 | The Very Hungry Caterpillar: Play & Explore | 101072 | [101072-the-very-hungry-caterpillar-play-and-explore.json](./101072-the-very-hungry-caterpillar-play-and-explore.json) |
 | The Very Hungry Caterpillar's ABCs | 84954 | [84954-the-very-hungry-caterpillars-abcs.json](./84954-the-very-hungry-caterpillars-abcs.json) |
 | The Very Idle Game | 310750 | [310750-the-very-idle-game.json](./310750-the-very-idle-game.json) |
@@ -11570,6 +11577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic Tac Toe (Cellular) | 102843 | [102843-tic-tac-toe-cellular.json](./102843-tic-tac-toe-cellular.json) |
 | Tic Tac Toe 3D 2014 HD | 106744 | [106744-tic-tac-toe-3d-2014-hd.json](./106744-tic-tac-toe-3d-2014-hd.json) |
 | Tic Tac Toe Battle Royale | 180712 | [180712-tic-tac-toe-battle-royale.json](./180712-tic-tac-toe-battle-royale.json) |
+| Tic Tac Toe Plus | 100991 | [100991-tic-tac-toe-plus.json](./100991-tic-tac-toe-plus.json) |
 | Tic Tac Toe World | 387339 | [387339-tic-tac-toe-world.json](./387339-tic-tac-toe-world.json) |
 | Tic Tac Toe World Championship HD | 87291 | [87291-tic-tac-toe-world-championship-hd.json](./87291-tic-tac-toe-world-championship-hd.json) |
 | Tic Tac Toe: Speed Tapping | 264063 | [264063-tic-tac-toe-speed-tapping.json](./264063-tic-tac-toe-speed-tapping.json) |
@@ -13599,6 +13607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Todd is Late | 383583 | [383583-todd-is-late.json](./383583-todd-is-late.json) |
 | Todd's Spider Dream | 154567 | [154567-todds-spider-dream.json](./154567-todds-spider-dream.json) |
 | Toddler Flashcards HD: Baby Learning Games & Apps | 87576 | [87576-toddler-flashcards-hd-baby-learning-games-and-apps.json](./87576-toddler-flashcards-hd-baby-learning-games-and-apps.json) |
+| Toddler Racing Car Game for Kids. | 100985 | [100985-toddler-racing-car-game-for-kids.json](./100985-toddler-racing-car-game-for-kids.json) |
 | Toddler Tech Laptop | 333374 | [333374-toddler-tech-laptop.json](./333374-toddler-tech-laptop.json) |
 | Toddler Trainer - Counting Toys Pro | 87316 | [87316-toddler-trainer-counting-toys-pro.json](./87316-toddler-trainer-counting-toys-pro.json) |
 | Todlio | 107074 | [107074-todlio.json](./107074-todlio.json) |
