@@ -993,11 +993,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Hunter: Hentai | 211719 | [211719-idol-hunter-hentai.json](./211719-idol-hunter-hentai.json) |
 | Idol Janshi R: Janguru Project | 248627 | [248627-idol-janshi-r-janguru-project.json](./248627-idol-janshi-r-janguru-project.json) |
 | Idol Janshi Suchi-Pai III Remix | 98808 | [98808-idol-janshi-suchi-pai-iii-remix.json](./98808-idol-janshi-suchi-pai-iii-remix.json) |
+| Idol Janshi Suchie-Pai II | 92136 | [92136-idol-janshi-suchie-pai-ii.json](./92136-idol-janshi-suchie-pai-ii.json) |
 | Idol Janshi Suchie-Pai III | 76610 | [76610-idol-janshi-suchie-pai-iii.json](./76610-idol-janshi-suchie-pai-iii.json) |
+| Idol Janshi Suchie-Pai IV | 92135 | [92135-idol-janshi-suchie-pai-iv.json](./92135-idol-janshi-suchie-pai-iv.json) |
 | Idol Janshi Suchie-Pai IV Portable | 379905 | [379905-idol-janshi-suchie-pai-iv-portable.json](./379905-idol-janshi-suchie-pai-iv-portable.json) |
 | Idol Janshi Suchie-Pai Limited | 166550 | [166550-idol-janshi-suchie-pai-limited.json](./166550-idol-janshi-suchie-pai-limited.json) |
 | Idol Janshi Suchie-Pai Mecha Genteiban: Hatsubai 5 Shuunen (Toku) Package | 85821 | [85821-idol-janshi-suchie-pai-mecha-genteiban-hatsubai-5-shuunen-toku-package.json](./85821-idol-janshi-suchie-pai-mecha-genteiban-hatsubai-5-shuunen-toku-package.json) |
 | Idol Janshi Suchie-Pai: Milky no Yabou | 299296 | [299296-idol-janshi-suchie-pai-milky-no-yabou.json](./299296-idol-janshi-suchie-pai-milky-no-yabou.json) |
+| Idol Janshi wo Tsukucchaou | 92138 | [92138-idol-janshi-wo-tsukucchaou.json](./92138-idol-janshi-wo-tsukucchaou.json) |
 | Idol Kingdom | 405517 | [405517-idol-kingdom.json](./405517-idol-kingdom.json) |
 | Idol Land PriPara | 266402 | [266402-idol-land-pripara.json](./266402-idol-land-pripara.json) |
 | Idol Mahjong Final Romance 4 | 202785 | [202785-idol-mahjong-final-romance-4.json](./202785-idol-mahjong-final-romance-4.json) |
@@ -2731,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internal Plexus | 229747 | [229747-internal-plexus.json](./229747-internal-plexus.json) |
 | Internal Reaches 2 | 274192 | [274192-internal-reaches-2.json](./274192-internal-reaches-2.json) |
 | Internal Reaches 4 | 274193 | [274193-internal-reaches-4.json](./274193-internal-reaches-4.json) |
+| Internal Trouble | 92147 | [92147-internal-trouble.json](./92147-internal-trouble.json) |
 | International 5-A-Side | 79619 | [79619-international-5-a-side.json](./79619-international-5-a-side.json) |
 | International Affairs | 116947 | [116947-international-affairs.json](./116947-international-affairs.json) |
 | International Athletics | 20321 | [20321-international-athletics.json](./20321-international-athletics.json) |
