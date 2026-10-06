@@ -2913,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Illusion | 20770 | [20770-master-of-illusion.json](./20770-master-of-illusion.json) |
 | Master of Illusion Express: Matchmaker | 84484 | [84484-master-of-illusion-express-matchmaker.json](./84484-master-of-illusion-express-matchmaker.json) |
 | Master of Illusion Express: Psychic Camera | 84483 | [84483-master-of-illusion-express-psychic-camera.json](./84483-master-of-illusion-express-psychic-camera.json) |
+| Master of Illusion Express: Shuffle Games | 72941 | [72941-master-of-illusion-express-shuffle-games.json](./72941-master-of-illusion-express-shuffle-games.json) |
 | Master of Ives | 284879 | [284879-master-of-ives.json](./284879-master-of-ives.json) |
 | Master of Luna | 249867 | [249867-master-of-luna.json](./249867-master-of-luna.json) |
 | Master of Magic | 7548 | [7548-master-of-magic.json](./7548-master-of-magic.json) |
@@ -7938,6 +7939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Shin Gihren No Yabou | 56746 | [56746-mobile-suit-gundam-shin-gihren-no-yabou.json](./56746-mobile-suit-gundam-shin-gihren-no-yabou.json) |
 | Mobile Suit Gundam: The One Year War | 43240 | [43240-mobile-suit-gundam-the-one-year-war.json](./43240-mobile-suit-gundam-the-one-year-war.json) |
 | Mobile Tomodachi | 143671 | [143671-mobile-tomodachi.json](./143671-mobile-tomodachi.json) |
+| Mobile Train Simulator | 72899 | [72899-mobile-train-simulator.json](./72899-mobile-train-simulator.json) |
 | Mobile Wars X | 113875 | [113875-mobile-wars-x.json](./113875-mobile-wars-x.json) |
 | Mobile Wars X: Ultimate Simulation Battle | 252197 | [252197-mobile-wars-x-ultimate-simulation-battle.json](./252197-mobile-wars-x-ultimate-simulation-battle.json) |
 | Mobiles Tycoon | 304584 | [304584-mobiles-tycoon.json](./304584-mobiles-tycoon.json) |
