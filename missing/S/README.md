@@ -3240,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Solitaire | 84236 | [84236-serious-solitaire.json](./84236-serious-solitaire.json) |
 | Serious Survivors | 348774 | [348774-serious-survivors.json](./348774-serious-survivors.json) |
 | Seriously Warped Deathmatch | 361921 | [361921-seriously-warped-deathmatch.json](./361921-seriously-warped-deathmatch.json) |
+| Seris the Devil Killer in Harbor Village | 83148 | [83148-seris-the-devil-killer-in-harbor-village.json](./83148-seris-the-devil-killer-in-harbor-village.json) |
 | Serk: Chaos City Delivery | 348919 | [348919-serk-chaos-city-delivery.json](./348919-serk-chaos-city-delivery.json) |
 | SerMon | 404386 | [404386-sermon.json](./404386-sermon.json) |
 | Seroutte | 234575 | [234575-seroutte.json](./234575-seroutte.json) |
@@ -3447,6 +3448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Doll K-Pop Idol | 243155 | [243155-sex-doll-k-pop-idol.json](./243155-sex-doll-k-pop-idol.json) |
 | Sex Dorm | 349868 | [349868-sex-dorm.json](./349868-sex-dorm.json) |
 | Sex Education | 322714 | [322714-sex-education.json](./322714-sex-education.json) |
+| Sex Escape: Ecstasies of Two | 83169 | [83169-sex-escape-ecstasies-of-two.json](./83169-sex-escape-ecstasies-of-two.json) |
 | Sex Game - BDSM - Episode 4 | 382395 | [382395-sex-game-bdsm-episode-4.json](./382395-sex-game-bdsm-episode-4.json) |
 | Sex Game - Gay Affair - Episode 4 | 382394 | [382394-sex-game-gay-affair-episode-4.json](./382394-sex-game-gay-affair-episode-4.json) |
 | Sex Game - Naughty Couple - Episode 7 | 382393 | [382393-sex-game-naughty-couple-episode-7.json](./382393-sex-game-naughty-couple-episode-7.json) |
@@ -7669,6 +7671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slurpy | 25712 | [25712-slurpy.json](./25712-slurpy.json) |
 | Slut Nurses | 371398 | [371398-slut-nurses.json](./371398-slut-nurses.json) |
 | Slut Squad | 385808 | [385808-slut-squad.json](./385808-slut-squad.json) |
+| SlutWitch's Atelier | 83163 | [83163-slutwitchs-atelier.json](./83163-slutwitchs-atelier.json) |
 | Sly 3: Honor Among Thieves | 1800 | [1800-sly-3-honor-among-thieves.json](./1800-sly-3-honor-among-thieves.json) |
 | Sly 3: Honor Among Thieves | 222127 | [222127-sly-3-honor-among-thieves.json](./222127-sly-3-honor-among-thieves.json) |
 | Sly Cooper and the Thievius Raccoonus | 1798 | [1798-sly-cooper-and-the-thievius-raccoonus.json](./1798-sly-cooper-and-the-thievius-raccoonus.json) |
@@ -16354,6 +16357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoroku New Year's Party | 379373 | [379373-sugoroku-new-years-party.json](./379373-sugoroku-new-years-party.json) |
 | Suguri | 80489 | [80489-suguri.json](./80489-suguri.json) |
 | Suguru Nature | 147617 | [147617-suguru-nature.json](./147617-suguru-nature.json) |
+| Sugy the Christmas elf | 83206 | [83206-sugy-the-christmas-elf.json](./83206-sugy-the-christmas-elf.json) |
 | Suho Defense | 339650 | [339650-suho-defense.json](./339650-suho-defense.json) |
 | SuiCats | 272583 | [272583-suicats.json](./272583-suicats.json) |
 | Suichara: Sweets Chara Mode - Sweets Gakkou he Youkoso! | 222401 | [222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json](./222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json) |
@@ -19732,6 +19736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SworLd | 192808 | [192808-sworld.json](./192808-sworld.json) |
 | Swung | 134577 | [134577-swung.json](./134577-swung.json) |
 | Syberia 3: The Complete Journey | 124797 | [124797-syberia-3-the-complete-journey.json](./124797-syberia-3-the-complete-journey.json) |
+| Syberia Collection | 83154 | [83154-syberia-collection.json](./83154-syberia-collection.json) |
 | Syberia II | 6185 | [6185-syberia-ii.json](./6185-syberia-ii.json) |
 | Syberia: 20th Anniversary Bundle | 202126 | [202126-syberia-20th-anniversary-bundle.json](./202126-syberia-20th-anniversary-bundle.json) |
 | Syberia: Remastered | 344050 | [344050-syberia-remastered.json](./344050-syberia-remastered.json) |
