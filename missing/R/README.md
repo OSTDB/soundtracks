@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing in Car 2 | 100326 | [100326-racing-in-car-2.json](./100326-racing-in-car-2.json) |
 | Racing Juke | 151097 | [151097-racing-juke.json](./151097-racing-juke.json) |
 | Racing Karts | 186913 | [186913-racing-karts.json](./186913-racing-karts.json) |
+| Racing Lagoon | 76182 | [76182-racing-lagoon.json](./76182-racing-lagoon.json) |
 | Racing League: Car Race Games | 216148 | [216148-racing-league-car-race-games.json](./216148-racing-league-car-race-games.json) |
 | Racing Legends | 174214 | [174214-racing-legends.json](./174214-racing-legends.json) |
 | Racing Legends: Speed Evolution | 91131 | [91131-racing-legends-speed-evolution.json](./91131-racing-legends-speed-evolution.json) |
@@ -6202,6 +6203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotate It! | 68934 | [68934-rotate-it.json](./68934-rotate-it.json) |
 | Rotate the Rings | 259234 | [259234-rotate-the-rings.json](./259234-rotate-the-rings.json) |
 | Rotate: Collective | 258611 | [258611-rotate-collective.json](./258611-rotate-collective.json) |
+| Rotate: Professional Virtual Aviation Network | 76126 | [76126-rotate-professional-virtual-aviation-network.json](./76126-rotate-professional-virtual-aviation-network.json) |
 | RotatePDF: A Corporate Tale | 214446 | [214446-rotatepdf-a-corporate-tale.json](./214446-rotatepdf-a-corporate-tale.json) |
 | Rotatex | 118778 | [118778-rotatex.json](./118778-rotatex.json) |
 | Rotatex 2 | 149718 | [149718-rotatex-2.json](./149718-rotatex-2.json) |
