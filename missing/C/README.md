@@ -1314,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards Infinity | 187836 | [187836-cards-infinity.json](./187836-cards-infinity.json) |
 | Cards of Action | 400971 | [400971-cards-of-action.json](./400971-cards-of-action.json) |
 | Cards of Binokee | 207351 | [207351-cards-of-binokee.json](./207351-cards-of-binokee.json) |
+| Cards of Curse | 97997 | [97997-cards-of-curse.json](./97997-cards-of-curse.json) |
 | Cards of Destiny | 264064 | [264064-cards-of-destiny.json](./264064-cards-of-destiny.json) |
 | Cards of Eternity: The Wheel of Time | 321147 | [321147-cards-of-eternity-the-wheel-of-time.json](./321147-cards-of-eternity-the-wheel-of-time.json) |
 | Cards of Fortune | 360676 | [360676-cards-of-fortune.json](./360676-cards-of-fortune.json) |
@@ -5542,6 +5543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clive Barker's Jericho | 6939 | [6939-clive-barkers-jericho.json](./6939-clive-barkers-jericho.json) |
 | Clive Barker's Jericho: Special Edition | 47470 | [47470-clive-barkers-jericho-special-edition.json](./47470-clive-barkers-jericho-special-edition.json) |
 | Clive vs. Hives 2 | 188685 | [188685-clive-vs-hives-2.json](./188685-clive-vs-hives-2.json) |
+| Clix | 97990 | [97990-clix.json](./97990-clix.json) |
 | Cloak And Coin | 365810 | [365810-cloak-and-coin.json](./365810-cloak-and-coin.json) |
 | Cloak Hero | 258494 | [258494-cloak-hero.json](./258494-cloak-hero.json) |
 | Cloaked Protocol | 284977 | [284977-cloaked-protocol.json](./284977-cloaked-protocol.json) |
@@ -9156,8 +9158,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures 4 | 79200 | [79200-creatures-4.json](./79200-creatures-4.json) |
 | Creatures Adventures | 11377 | [11377-creatures-adventures.json](./11377-creatures-adventures.json) |
 | Creatures After Calamity | 291517 | [291517-creatures-after-calamity.json](./291517-creatures-after-calamity.json) |
+| Creatures Alchemist | 97971 | [97971-creatures-alchemist.json](./97971-creatures-alchemist.json) |
 | Creatures by Candlelight | 262952 | [262952-creatures-by-candlelight.json](./262952-creatures-by-candlelight.json) |
 | Creatures Exodus | 11279 | [11279-creatures-exodus.json](./11279-creatures-exodus.json) |
+| Creatures Family | 97970 | [97970-creatures-family.json](./97970-creatures-family.json) |
 | Creatures II: Torture Trouble | 11375 | [11375-creatures-ii-torture-trouble.json](./11375-creatures-ii-torture-trouble.json) |
 | Creatures Inc. | 112008 | [112008-creatures-inc.json](./112008-creatures-inc.json) |
 | Creatures Like Us | 415171 | [415171-creatures-like-us.json](./415171-creatures-like-us.json) |
@@ -10366,6 +10370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubicolor | 33430 | [33430-cubicolor.json](./33430-cubicolor.json) |
 | CubicPanic | 98980 | [98980-cubicpanic.json](./98980-cubicpanic.json) |
 | Cubidle | 311473 | [311473-cubidle.json](./311473-cubidle.json) |
+| Cubie Adventure | 97967 | [97967-cubie-adventure.json](./97967-cubie-adventure.json) |
 | Cubified | 241451 | [241451-cubified.json](./241451-cubified.json) |
 | Cubik | 294301 | [294301-cubik.json](./294301-cubik.json) |
 | Cubikill | 341076 | [341076-cubikill.json](./341076-cubikill.json) |
