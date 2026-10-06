@@ -2344,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Drive | 323531 | [323531-night-drive.json](./323531-night-drive.json) |
 | Night Driver | 260733 | [260733-night-driver.json](./260733-night-driver.json) |
 | Night Driver | 311116 | [311116-night-driver.json](./311116-night-driver.json) |
+| Night Driver | 89496 | [89496-night-driver.json](./89496-night-driver.json) |
 | Night Drone | 373654 | [373654-night-drone.json](./373654-night-drone.json) |
 | Night Errand | 381200 | [381200-night-errand.json](./381200-night-errand.json) |
 | Night Errors | 395798 | [395798-night-errors.json](./395798-night-errors.json) |
