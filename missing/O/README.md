@@ -2197,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcs Must Die! Unchained | 9637 | [9637-orcs-must-die-unchained.json](./9637-orcs-must-die-unchained.json) |
 | Orcs Must Die!: Artifacts of Power | 14540 | [14540-orcs-must-die-artifacts-of-power.json](./14540-orcs-must-die-artifacts-of-power.json) |
 | Orcs Must Die!: Lost Adventures | 14541 | [14541-orcs-must-die-lost-adventures.json](./14541-orcs-must-die-lost-adventures.json) |
+| Orcz Evolve VR | 83172 | [83172-orcz-evolve-vr.json](./83172-orcz-evolve-vr.json) |
 | Ordeeer! | 181347 | [181347-ordeeer.json](./181347-ordeeer.json) |
 | Orden des Drachen | 314294 | [314294-orden-des-drachen.json](./314294-orden-des-drachen.json) |
 | Order 13 | 329109 | [329109-order-13.json](./329109-order-13.json) |
