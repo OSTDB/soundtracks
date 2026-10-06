@@ -2274,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seal of Magic | 355186 | [355186-seal-of-magic.json](./355186-seal-of-magic.json) |
 | Seal of Shadows | 410237 | [410237-seal-of-shadows.json](./410237-seal-of-shadows.json) |
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
+| Seal Online: Blades of Destiny | 109510 | [109510-seal-online-blades-of-destiny.json](./109510-seal-online-blades-of-destiny.json) |
 | Seal Online: Eternal Destiny | 267578 | [267578-seal-online-eternal-destiny.json](./267578-seal-online-eternal-destiny.json) |
 | SEAL Team | 14510 | [14510-seal-team.json](./14510-seal-team.json) |
 | Seal: What the Fun | 293698 | [293698-seal-what-the-fun.json](./293698-seal-what-the-fun.json) |
@@ -5733,6 +5734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Still III | 387378 | [387378-silent-still-iii.json](./387378-silent-still-iii.json) |
 | Silent Storm | 10844 | [10844-silent-storm.json](./10844-silent-storm.json) |
 | Silent Storm: Sentinels | 10845 | [10845-silent-storm-sentinels.json](./10845-silent-storm-sentinels.json) |
+| Silent Streets: Mockingbird | 109511 | [109511-silent-streets-mockingbird.json](./109511-silent-streets-mockingbird.json) |
 | Silent Streets: The Mockingbird's Last Dive | 110290 | [110290-silent-streets-the-mockingbirds-last-dive.json](./110290-silent-streets-the-mockingbirds-last-dive.json) |
 | Silent Survivor: Under the Crisis | 351760 | [351760-silent-survivor-under-the-crisis.json](./351760-silent-survivor-under-the-crisis.json) |
 | Silent Threat | 311259 | [311259-silent-threat.json](./311259-silent-threat.json) |
@@ -16810,6 +16812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Collapse! Puzzle Gallery 5 | 201284 | [201284-super-collapse-puzzle-gallery-5.json](./201284-super-collapse-puzzle-gallery-5.json) |
 | Super Columbine Massacre RPG! | 134526 | [134526-super-columbine-massacre-rpg.json](./134526-super-columbine-massacre-rpg.json) |
 | Super Columns | 19690 | [19690-super-columns.json](./19690-super-columns.json) |
+| Super Combat Fighter | 109558 | [109558-super-combat-fighter.json](./109558-super-combat-fighter.json) |
 | Super Comboman | 63550 | [63550-super-comboman.json](./63550-super-comboman.json) |
 | Super ComboMan: Don't Mash Edition | 30231 | [30231-super-comboman-dont-mash-edition.json](./30231-super-comboman-dont-mash-edition.json) |
 | Super Commander XL | 110516 | [110516-super-commander-xl.json](./110516-super-commander-xl.json) |
