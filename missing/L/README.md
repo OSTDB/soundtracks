@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La pesadilla de Illojuan | 302719 | [302719-la-pesadilla-de-illojuan.json](./302719-la-pesadilla-de-illojuan.json) |
 | La Quête du Dentiste | 301396 | [301396-la-quete-du-dentiste.json](./301396-la-quete-du-dentiste.json) |
 | La Quimera | 333606 | [333606-la-quimera.json](./333606-la-quimera.json) |
+| La Rana | 113611 | [113611-la-rana.json](./113611-la-rana.json) |
 | La Ruota Della Sfortuna: Prima parte | 318571 | [318571-la-ruota-della-sfortuna-prima-parte.json](./318571-la-ruota-della-sfortuna-prima-parte.json) |
 | La Sombra | 220593 | [220593-la-sombra.json](./220593-la-sombra.json) |
 | La Statuette maudite de l'oncle Ernest | 282689 | [282689-la-statuette-maudite-de-loncle-ernest.json](./282689-la-statuette-maudite-de-loncle-ernest.json) |
@@ -2545,6 +2546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liftoff Inc. | 410396 | [410396-liftoff-inc.json](./410396-liftoff-inc.json) |
 | Liftoff: Drone Racing | 138528 | [138528-liftoff-drone-racing.json](./138528-liftoff-drone-racing.json) |
 | Liftoff: Drone Racing - Deluxe Edition | 139829 | [139829-liftoff-drone-racing-deluxe-edition.json](./139829-liftoff-drone-racing-deluxe-edition.json) |
+| Lifty! | 113581 | [113581-lifty.json](./113581-lifty.json) |
 | Liga do Tempo | 290086 | [290086-liga-do-tempo.json](./290086-liga-do-tempo.json) |
 | Light | 220607 | [220607-light.json](./220607-light.json) |
 | Light | 93759 | [93759-light.json](./93759-light.json) |
@@ -5389,6 +5391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Legacy | 248041 | [248041-lunar-legacy.json](./248041-lunar-legacy.json) |
 | Lunar Legend | 13907 | [13907-lunar-legend.json](./13907-lunar-legend.json) |
 | Lunar Magic School | 46093 | [46093-lunar-magic-school.json](./46093-lunar-magic-school.json) |
+| Lunar Manor | 113619 | [113619-lunar-manor.json](./113619-lunar-manor.json) |
 | Lunar Mountain | 236923 | [236923-lunar-mountain.json](./236923-lunar-mountain.json) |
 | Lunar Racer | 259246 | [259246-lunar-racer.json](./259246-lunar-racer.json) |
 | Lunar Remastered Collection | 317623 | [317623-lunar-remastered-collection.json](./317623-lunar-remastered-collection.json) |
