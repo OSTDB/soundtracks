@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldorion: Guardians of the Crystals | 346604 | [346604-eldorion-guardians-of-the-crystals.json](./346604-eldorion-guardians-of-the-crystals.json) |
 | Eldrador Creatures | 139836 | [139836-eldrador-creatures.json](./139836-eldrador-creatures.json) |
 | Eldramoor: Haven in the Mist | 397671 | [397671-eldramoor-haven-in-the-mist.json](./397671-eldramoor-haven-in-the-mist.json) |
+| Eldrian Legacy | 109524 | [109524-eldrian-legacy.json](./109524-eldrian-legacy.json) |
 | Eldritch | 8070 | [8070-eldritch.json](./8070-eldritch.json) |
 | Eldritch 2 | 342674 | [342674-eldritch-2.json](./342674-eldritch-2.json) |
 | Eldritch Bulwark | 351180 | [351180-eldritch-bulwark.json](./351180-eldritch-bulwark.json) |
