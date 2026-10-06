@@ -1764,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Hero | 109174 | [109174-basketball-hero.json](./109174-basketball-hero.json) |
 | Basketball Hero VR | 102198 | [102198-basketball-hero-vr.json](./102198-basketball-hero-vr.json) |
 | Basketball Legends 24 | 320758 | [320758-basketball-legends-24.json](./320758-basketball-legends-24.json) |
+| Basketball NBA 17 | 99105 | [99105-basketball-nba-17.json](./99105-basketball-nba-17.json) |
 | Basketball Pinball | 148567 | [148567-basketball-pinball.json](./148567-basketball-pinball.json) |
 | Basketball Playgrounds | 212460 | [212460-basketball-playgrounds.json](./212460-basketball-playgrounds.json) |
 | Basketball Pro Management 2013 | 10025 | [10025-basketball-pro-management-2013.json](./10025-basketball-pro-management-2013.json) |
