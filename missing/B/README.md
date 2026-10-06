@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
 | Baldi's Basics 1 Year Birthday Bash! | 176497 | [176497-baldis-basics-1-year-birthday-bash.json](./176497-baldis-basics-1-year-birthday-bash.json) |
 | Baldi's Basics in 2D | 406248 | [406248-baldis-basics-in-2d.json](./406248-baldis-basics-in-2d.json) |
+| Baldi's Basics in School Education | 102854 | [102854-baldis-basics-in-school-education.json](./102854-baldis-basics-in-school-education.json) |
 | Baldi's Basics: Encounter Doors | 353384 | [353384-baldis-basics-encounter-doors.json](./353384-baldis-basics-encounter-doors.json) |
 | Baldi's Farm! | 263665 | [263665-baldis-farm.json](./263665-baldis-farm.json) |
 | Baldies | 90071 | [90071-baldies.json](./90071-baldies.json) |
@@ -2290,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Tanks: Arena | 240476 | [240476-battle-tanks-arena.json](./240476-battle-tanks-arena.json) |
 | Battle Tanks: World War II | 115159 | [115159-battle-tanks-world-war-ii.json](./115159-battle-tanks-world-war-ii.json) |
 | Battle Tap Tap | 233239 | [233239-battle-tap-tap.json](./233239-battle-tap-tap.json) |
+| Battle Teams 2 | 102862 | [102862-battle-teams-2.json](./102862-battle-teams-2.json) |
 | Battle Teams 2: Wishlist Pack | 310384 | [310384-battle-teams-2-wishlist-pack.json](./310384-battle-teams-2-wishlist-pack.json) |
 | Battle Through Time | 13864 | [13864-battle-through-time.json](./13864-battle-through-time.json) |
 | Battle Thunder Front | 220354 | [220354-battle-thunder-front.json](./220354-battle-thunder-front.json) |
@@ -4156,6 +4158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Rush | 227508 | [227508-bike-rush.json](./227508-bike-rush.json) |
 | Bike Rush | 73170 | [73170-bike-rush.json](./73170-bike-rush.json) |
 | Bike Stunt Master | 105960 | [105960-bike-stunt-master.json](./105960-bike-stunt-master.json) |
+| Bike Super Hero Stunt Driver Racing | 102845 | [102845-bike-super-hero-stunt-driver-racing.json](./102845-bike-super-hero-stunt-driver-racing.json) |
 | Bike Trials Offroad 2 | 255035 | [255035-bike-trials-offroad-2.json](./255035-bike-trials-offroad-2.json) |
 | Bike Unchained | 255737 | [255737-bike-unchained.json](./255737-bike-unchained.json) |
 | Bikeout | 244505 | [244505-bikeout.json](./244505-bikeout.json) |
@@ -4224,6 +4227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billion Road | 109474 | [109474-billion-road.json](./109474-billion-road.json) |
 | Billionaire | 95202 | [95202-billionaire.json](./95202-billionaire.json) |
 | Billionaire Banshee | 141026 | [141026-billionaire-banshee.json](./141026-billionaire-banshee.json) |
+| Billionaire Dad Luxury Life Real Family Games | 102851 | [102851-billionaire-dad-luxury-life-real-family-games.json](./102851-billionaire-dad-luxury-life-real-family-games.json) |
 | Billionaire Life Simulator | 411583 | [411583-billionaire-life-simulator.json](./411583-billionaire-life-simulator.json) |
 | Billionaire Simulator | 403074 | [403074-billionaire-simulator.json](./403074-billionaire-simulator.json) |
 | Billionworlds : Kingdoms | 153437 | [153437-billionworlds-kingdoms.json](./153437-billionworlds-kingdoms.json) |
