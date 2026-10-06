@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fanite | 195108 | [195108-fanite.json](./195108-fanite.json) |
 | Fans Rush | 104700 | [104700-fans-rush.json](./104700-fans-rush.json) |
 | Fant Kids Animated Puzzle | 116982 | [116982-fant-kids-animated-puzzle.json](./116982-fant-kids-animated-puzzle.json) |
+| Fant Kids Matching Game | 112864 | [112864-fant-kids-matching-game.json](./112864-fant-kids-matching-game.json) |
 | Fantamon | 348794 | [348794-fantamon.json](./348794-fantamon.json) |
 | Fantashooting 2 | 208977 | [208977-fantashooting-2.json](./208977-fantashooting-2.json) |
 | Fantasia | 38574 | [38574-fantasia.json](./38574-fantasia.json) |
@@ -6820,6 +6821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Kingdom | 294390 | [294390-frozen-kingdom.json](./294390-frozen-kingdom.json) |
 | Frozen Mahjong | 71255 | [71255-frozen-mahjong.json](./71255-frozen-mahjong.json) |
 | Frozen Memories | 129226 | [129226-frozen-memories.json](./129226-frozen-memories.json) |
+| Frozen Mystery | 112847 | [112847-frozen-mystery.json](./112847-frozen-mystery.json) |
 | Frozen Shelter | 247623 | [247623-frozen-shelter.json](./247623-frozen-shelter.json) |
 | Frozen Ship | 330831 | [330831-frozen-ship.json](./330831-frozen-ship.json) |
 | Frozen Soul | 103649 | [103649-frozen-soul.json](./103649-frozen-soul.json) |
