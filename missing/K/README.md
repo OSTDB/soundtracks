@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kepler Galaxy Wars: Rebel Alliance Mission | 99981 | [99981-kepler-galaxy-wars-rebel-alliance-mission.json](./99981-kepler-galaxy-wars-rebel-alliance-mission.json) |
 | Keplerth | 95587 | [95587-keplerth.json](./95587-keplerth.json) |
 | Kept Man Life | 56145 | [56145-kept-man-life.json](./56145-kept-man-life.json) |
+| Keptosh: The Search for Junc | 110887 | [110887-keptosh-the-search-for-junc.json](./110887-keptosh-the-search-for-junc.json) |
 | Ker-Chunk! | 312159 | [312159-ker-chunk.json](./312159-ker-chunk.json) |
 | Kerbal Space Program | 3102 | [3102-kerbal-space-program.json](./3102-kerbal-space-program.json) |
 | Kerbal Space Program 2 | 121759 | [121759-kerbal-space-program-2.json](./121759-kerbal-space-program-2.json) |
