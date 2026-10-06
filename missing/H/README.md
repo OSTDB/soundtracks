@@ -2336,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellfire 1988: An Oregon Story | 192237 | [192237-hellfire-1988-an-oregon-story.json](./192237-hellfire-1988-an-oregon-story.json) |
 | Hellfire 2 | 274130 | [274130-hellfire-2.json](./274130-hellfire-2.json) |
 | Hellfire Attack | 71587 | [71587-hellfire-attack.json](./71587-hellfire-attack.json) |
+| Hellfire Fortress | 102902 | [102902-hellfire-fortress.json](./102902-hellfire-fortress.json) |
 | Hellfire Hair | 391301 | [391301-hellfire-hair.json](./391301-hellfire-hair.json) |
 | Hellfire Poncho | 283754 | [283754-hellfire-poncho.json](./283754-hellfire-poncho.json) |
 | Hellfire Saga | 234906 | [234906-hellfire-saga.json](./234906-hellfire-saga.json) |
@@ -5974,6 +5975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper: Farm | 200725 | [200725-house-flipper-farm.json](./200725-house-flipper-farm.json) |
 | House Flipper: Garden DLC | 116384 | [116384-house-flipper-garden-dlc.json](./116384-house-flipper-garden-dlc.json) |
 | House Flipper: HGTV DLC | 145529 | [145529-house-flipper-hgtv-dlc.json](./145529-house-flipper-hgtv-dlc.json) |
+| House Flipper: Home Design | 102846 | [102846-house-flipper-home-design.json](./102846-house-flipper-home-design.json) |
 | House Flipper: Pets | 171462 | [171462-house-flipper-pets.json](./171462-house-flipper-pets.json) |
 | House Hopper | 250281 | [250281-house-hopper.json](./250281-house-hopper.json) |
 | House in the village by the river v2.0 | 173813 | [173813-house-in-the-village-by-the-river-v2-0.json](./173813-house-in-the-village-by-the-river-v2-0.json) |
