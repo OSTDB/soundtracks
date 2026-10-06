@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Racing | 125843 | [125843-offroad-racing.json](./125843-offroad-racing.json) |
 | Offroad Racing | 221416 | [221416-offroad-racing.json](./221416-offroad-racing.json) |
 | Offroad Racing on Line | 172161 | [172161-offroad-racing-on-line.json](./172161-offroad-racing-on-line.json) |
+| Offroad Scientist | 58079 | [58079-offroad-scientist.json](./58079-offroad-scientist.json) |
 | Offroad Simulator Online 4x4 | 196584 | [196584-offroad-simulator-online-4x4.json](./196584-offroad-simulator-online-4x4.json) |
 | Offroad Thunder | 3702 | [3702-offroad-thunder.json](./3702-offroad-thunder.json) |
 | Offroad Truck Simulator | 308505 | [308505-offroad-truck-simulator.json](./308505-offroad-truck-simulator.json) |
