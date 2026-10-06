@@ -1410,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Kadath | 271456 | [271456-unknown-kadath.json](./271456-unknown-kadath.json) |
 | Unknown Knights | 175205 | [175205-unknown-knights.json](./175205-unknown-knights.json) |
 | Unknown Memoirs: The Rental | 249840 | [249840-unknown-memoirs-the-rental.json](./249840-unknown-memoirs-the-rental.json) |
+| Unknown Nightmare | 93779 | [93779-unknown-nightmare.json](./93779-unknown-nightmare.json) |
 | Unknown Pain: Hardcore | 96694 | [96694-unknown-pain-hardcore.json](./96694-unknown-pain-hardcore.json) |
 | Unknown Place | 287226 | [287226-unknown-place.json](./287226-unknown-place.json) |
 | Unknown Planet | 149470 | [149470-unknown-planet.json](./149470-unknown-planet.json) |
