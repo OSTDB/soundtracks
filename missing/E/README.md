@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Egg Bundle | 279229 | [279229-easter-egg-bundle.json](./279229-easter-egg-bundle.json) |
 | Easter Eggs | 41493 | [41493-easter-eggs.json](./41493-easter-eggs.json) |
 | Easter Eggstravaganza | 196077 | [196077-easter-eggstravaganza.json](./196077-easter-eggstravaganza.json) |
+| Easter Eggztravaganza | 76899 | [76899-easter-eggztravaganza.json](./76899-easter-eggztravaganza.json) |
 | Easter Eggztravaganza 2 | 418548 | [418548-easter-eggztravaganza-2.json](./418548-easter-eggztravaganza-2.json) |
 | Easter Jewels HD | 87068 | [87068-easter-jewels-hd.json](./87068-easter-jewels-hd.json) |
 | Easter Journey | 296080 | [296080-easter-journey.json](./296080-easter-journey.json) |
@@ -2565,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EreaDrone: FPV Simulator | 112216 | [112216-ereadrone-fpv-simulator.json](./112216-ereadrone-fpv-simulator.json) |
 | Ereban: Shadow Legacy | 204624 | [204624-ereban-shadow-legacy.json](./204624-ereban-shadow-legacy.json) |
 | Erectus the Game | 115188 | [115188-erectus-the-game.json](./115188-erectus-the-game.json) |
+| Eredan iTCG | 76909 | [76909-eredan-itcg.json](./76909-eredan-itcg.json) |
 | Eredia: The Diary of Heroes | 90718 | [90718-eredia-the-diary-of-heroes.json](./90718-eredia-the-diary-of-heroes.json) |
 | Erefia | 44212 | [44212-erefia.json](./44212-erefia.json) |
 | Eremidia: Archivist's Curse | 208588 | [208588-eremidia-archivists-curse.json](./208588-eremidia-archivists-curse.json) |
