@@ -2250,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leveleers | 348378 | [348378-leveleers.json](./348378-leveleers.json) |
 | Levelhead | 212695 | [212695-levelhead.json](./212695-levelhead.json) |
 | LevelMergePuzzle | 297652 | [297652-levelmergepuzzle.json](./297652-levelmergepuzzle.json) |
+| Levers & Buttons | 116942 | [116942-levers-and-buttons.json](./116942-levers-and-buttons.json) |
 | Levers! | 200195 | [200195-levers.json](./200195-levers.json) |
 | Levi no Slime Factory | 355189 | [355189-levi-no-slime-factory.json](./355189-levi-no-slime-factory.json) |
 | Levi's Garden | 142503 | [142503-levis-garden.json](./142503-levis-garden.json) |
@@ -4848,6 +4849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Talks | 209477 | [209477-love-talks.json](./209477-love-talks.json) |
 | Love Tavern | 165028 | [165028-love-tavern.json](./165028-love-tavern.json) |
 | Love the Guard, Be the King | 179686 | [179686-love-the-guard-be-the-king.json](./179686-love-the-guard-be-the-king.json) |
+| Love Thyself: A Horatio Story | 116948 | [116948-love-thyself-a-horatio-story.json](./116948-love-thyself-a-horatio-story.json) |
 | Love Too Easily Bundle | 400199 | [400199-love-too-easily-bundle.json](./400199-love-too-easily-bundle.json) |
 | Love Tore: Bitter | 64466 | [64466-love-tore-bitter.json](./64466-love-tore-bitter.json) |
 | Love Tore: Mint | 64468 | [64468-love-tore-mint.json](./64468-love-tore-mint.json) |
