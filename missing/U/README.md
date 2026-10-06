@@ -1524,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UNO: Legacy Edition | 315848 | [315848-uno-legacy-edition.json](./315848-uno-legacy-edition.json) |
 | Uno: Party! Mania | 323831 | [323831-uno-party-mania.json](./323831-uno-party-mania.json) |
 | UNO! Mobile | 142109 | [142109-uno-mobile.json](./142109-uno-mobile.json) |
+| Uno/Skip-Bo | 78905 | [78905-uno-skip-bo.json](./78905-uno-skip-bo.json) |
 | Unofficial Pokemon Trading Card Game | 363944 | [363944-unofficial-pokemon-trading-card-game.json](./363944-unofficial-pokemon-trading-card-game.json) |
 | Unoklive vs. Zuck | 182459 | [182459-unoklive-vs-zuck.json](./182459-unoklive-vs-zuck.json) |
 | Unolingo | 288195 | [288195-unolingo.json](./288195-unolingo.json) |
