@@ -537,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galer: Plague of Heroes | 31924 | [31924-galer-plague-of-heroes.json](./31924-galer-plague-of-heroes.json) |
 | Galerians: Ash | 19629 | [19629-galerians-ash.json](./19629-galerians-ash.json) |
 | Galerians: Limited Edition | 146856 | [146856-galerians-limited-edition.json](./146856-galerians-limited-edition.json) |
+| Galexia Educational Games | 106483 | [106483-galexia-educational-games.json](./106483-galexia-educational-games.json) |
 | Galf | 131401 | [131401-galf.json](./131401-galf.json) |
 | Galf Streem | 386936 | [386936-galf-streem.json](./386936-galf-streem.json) |
 | Galga | 227882 | [227882-galga.json](./227882-galga.json) |
