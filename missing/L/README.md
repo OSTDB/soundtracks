@@ -3431,6 +3431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Thief | 407575 | [407575-little-thief.json](./407575-little-thief.json) |
 | Little Things | 401130 | [401130-little-things.json](./401130-little-things.json) |
 | Little Things Remastered | 175935 | [175935-little-things-remastered.json](./175935-little-things-remastered.json) |
+| Little Tiger - Mini Kids Games | 104571 | [104571-little-tiger-mini-kids-games.json](./104571-little-tiger-mini-kids-games.json) |
 | Little Town Hero | 109459 | [109459-little-town-hero.json](./109459-little-town-hero.json) |
 | Little Treasures | 383639 | [383639-little-treasures.json](./383639-little-treasures.json) |
 | Little Tree Kingdom | 381625 | [381625-little-tree-kingdom.json](./381625-little-tree-kingdom.json) |
@@ -3561,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Legends: Frozen Beauty Collector's Edition | 355542 | [355542-living-legends-frozen-beauty-collectors-edition.json](./355542-living-legends-frozen-beauty-collectors-edition.json) |
 | Living Legends: Haunting Melody | 355552 | [355552-living-legends-haunting-melody.json](./355552-living-legends-haunting-melody.json) |
 | Living Legends: Ice Rose | 62835 | [62835-living-legends-ice-rose.json](./62835-living-legends-ice-rose.json) |
+| Living Legends: Ice Rose - Collector's Edition | 104704 | [104704-living-legends-ice-rose-collectors-edition.json](./104704-living-legends-ice-rose-collectors-edition.json) |
 | Living Legends: The Red Trace - Collector's Edition | 340557 | [340557-living-legends-the-red-trace-collectors-edition.json](./340557-living-legends-the-red-trace-collectors-edition.json) |
 | Living Legends: Voice of the Sea | 187963 | [187963-living-legends-voice-of-the-sea.json](./187963-living-legends-voice-of-the-sea.json) |
 | Living Legends: Wrath of the Beast Collector's Edition | 107860 | [107860-living-legends-wrath-of-the-beast-collectors-edition.json](./107860-living-legends-wrath-of-the-beast-collectors-edition.json) |
@@ -5015,6 +5017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Löwenzahn: Geschichten aus Natur, Umwelt und Technik | 250534 | [250534-lowenzahn-geschichten-aus-natur-umwelt-und-technik.json](./250534-lowenzahn-geschichten-aus-natur-umwelt-und-technik.json) |
 | Lower Forecourt | 271370 | [271370-lower-forecourt.json](./271370-lower-forecourt.json) |
 | Lower? Higher! | 303640 | [303640-lower-higher.json](./303640-lower-higher.json) |
+| Lowlander II: Lowerlander | 104706 | [104706-lowlander-ii-lowerlander.json](./104706-lowlander-ii-lowerlander.json) |
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
 | LowPoly Towerdefense | 295009 | [295009-lowpoly-towerdefense.json](./295009-lowpoly-towerdefense.json) |
 | Lowrider | 43550 | [43550-lowrider.json](./43550-lowrider.json) |
