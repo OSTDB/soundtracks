@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Study in Blue | 386249 | [386249-a-study-in-blue.json](./386249-a-study-in-blue.json) |
 | A Study in Steampunk: Choice by Gaslight | 34030 | [34030-a-study-in-steampunk-choice-by-gaslight.json](./34030-a-study-in-steampunk-choice-by-gaslight.json) |
 | A Stupid Game About Pouring Drinks for the P.T.A. | 387502 | [387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json](./387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json) |
+| A Sun of Salt | 107784 | [107784-a-sun-of-salt.json](./107784-a-sun-of-salt.json) |
 | A Super Effective Turnabout | 302597 | [302597-a-super-effective-turnabout.json](./302597-a-super-effective-turnabout.json) |
 | A Super Mario Bros X. Level Collection | 346780 | [346780-a-super-mario-bros-x-level-collection.json](./346780-a-super-mario-bros-x-level-collection.json) |
 | A Super Mario Bros. X Thing: Prelude To The Stupid! | 270709 | [270709-a-super-mario-bros-x-thing-prelude-to-the-stupid.json](./270709-a-super-mario-bros-x-thing-prelude-to-the-stupid.json) |
@@ -1819,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aegis of Earth: Protonovus Assault | 20070 | [20070-aegis-of-earth-protonovus-assault.json](./20070-aegis-of-earth-protonovus-assault.json) |
 | Aegis Online | 103881 | [103881-aegis-online.json](./103881-aegis-online.json) |
 | Aegyptus | 55466 | [55466-aegyptus.json](./55466-aegyptus.json) |
+| Aeioth | 107782 | [107782-aeioth.json](./107782-aeioth.json) |
 | Aelfric the Wondrous | 299301 | [299301-aelfric-the-wondrous.json](./299301-aelfric-the-wondrous.json) |
 | Aeloren Tactics | 157111 | [157111-aeloren-tactics.json](./157111-aeloren-tactics.json) |
 | Aenigma Game: Storm Hacker | 264792 | [264792-aenigma-game-storm-hacker.json](./264792-aenigma-game-storm-hacker.json) |
@@ -4234,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber: Journeys Beyond | 12390 | [12390-amber-journeys-beyond.json](./12390-amber-journeys-beyond.json) |
 | Amber's Airline: 7 Wonders | 116726 | [116726-ambers-airline-7-wonders.json](./116726-ambers-airline-7-wonders.json) |
 | AmberCity | 101062 | [101062-ambercity.json](./101062-ambercity.json) |
+| Amberial Dreams | 107773 | [107773-amberial-dreams.json](./107773-amberial-dreams.json) |
 | Ambermoon.net | 217853 | [217853-ambermoon-net.json](./217853-ambermoon-net.json) |
 | Amberspire | 325713 | [325713-amberspire.json](./325713-amberspire.json) |
 | Ambien | 254122 | [254122-ambien.json](./254122-ambien.json) |
@@ -9613,6 +9616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azur Lane: Crosswave | 109475 | [109475-azur-lane-crosswave.json](./109475-azur-lane-crosswave.json) |
 | Azur Lane: Crosswave - Commanders Calendar Edition | 139918 | [139918-azur-lane-crosswave-commanders-calendar-edition.json](./139918-azur-lane-crosswave-commanders-calendar-edition.json) |
 | Azura | 74218 | [74218-azura.json](./74218-azura.json) |
+| Azurael's Circle: Chapter 1 | 107764 | [107764-azuraels-circle-chapter-1.json](./107764-azuraels-circle-chapter-1.json) |
 | Azurael's Circle: Chapter 3 | 112368 | [112368-azuraels-circle-chapter-3.json](./112368-azuraels-circle-chapter-3.json) |
 | Azurael's Circle: Chapter 5 | 168836 | [168836-azuraels-circle-chapter-5.json](./168836-azuraels-circle-chapter-5.json) |
 | Azuran Tales: Trials | 99165 | [99165-azuran-tales-trials.json](./99165-azuran-tales-trials.json) |
