@@ -816,6 +816,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Championship Basketball | 69580 | [69580-ncaa-championship-basketball.json](./69580-ncaa-championship-basketball.json) |
 | NCAA College Football 2K3 | 4039 | [4039-ncaa-college-football-2k3.json](./4039-ncaa-college-football-2k3.json) |
 | NCAA College Hoops 2K8 | 43552 | [43552-ncaa-college-hoops-2k8.json](./43552-ncaa-college-hoops-2k8.json) |
+| NCAA Final Four 2002 | 68262 | [68262-ncaa-final-four-2002.json](./68262-ncaa-final-four-2002.json) |
+| NCAA Final Four 2003 | 68261 | [68261-ncaa-final-four-2003.json](./68261-ncaa-final-four-2003.json) |
 | NCAA Final Four 2004 | 68304 | [68304-ncaa-final-four-2004.json](./68304-ncaa-final-four-2004.json) |
 | NCAA Final Four 99 | 23154 | [23154-ncaa-final-four-99.json](./23154-ncaa-final-four-99.json) |
 | NCAA Football 07 | 5953 | [5953-ncaa-football-07.json](./5953-ncaa-football-07.json) |
