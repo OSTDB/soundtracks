@@ -4691,6 +4691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die O'Clock | 214161 | [214161-die-oclock.json](./214161-die-oclock.json) |
 | Die Original Moorhuhn Jagd | 206592 | [206592-die-original-moorhuhn-jagd.json](./206592-die-original-moorhuhn-jagd.json) |
 | Die Original Moorhuhn Jagd | 83237 | [83237-die-original-moorhuhn-jagd.json](./83237-die-original-moorhuhn-jagd.json) |
+| Die Pferdebande: Falsches Spiel bei der Pferdeshow | 94956 | [94956-die-pferdebande-falsches-spiel-bei-der-pferdeshow.json](./94956-die-pferdebande-falsches-spiel-bei-der-pferdeshow.json) |
 | Die Pizzeria | 91542 | [91542-die-pizzeria.json](./91542-die-pizzeria.json) |
 | Die Quelle von Naroth | 356840 | [356840-die-quelle-von-naroth.json](./356840-die-quelle-von-naroth.json) |
 | Die Rave | 245904 | [245904-die-rave.json](./245904-die-rave.json) |
@@ -5313,6 +5314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Quest Tree | 268672 | [268672-disaster-quest-tree.json](./268672-disaster-quest-tree.json) |
 | Disaster Town Tycoon | 294731 | [294731-disaster-town-tycoon.json](./294731-disaster-town-tycoon.json) |
 | Disaster: Day of Crisis | 4805 | [4805-disaster-day-of-crisis.json](./4805-disaster-day-of-crisis.json) |
+| Disasteroids 3D | 94945 | [94945-disasteroids-3d.json](./94945-disasteroids-3d.json) |
 | DisasterPR+ | 392484 | [392484-disasterpr.json](./392484-disasterpr.json) |
 | Disastles Online | 398593 | [398593-disastles-online.json](./398593-disastles-online.json) |
 | Disbelief | 354417 | [354417-disbelief.json](./354417-disbelief.json) |
@@ -6750,6 +6752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Trust | 311121 | [311121-dont-trust.json](./311121-dont-trust.json) |
 | Don't Turn Your Back On The City | 256797 | [256797-dont-turn-your-back-on-the-city.json](./256797-dont-turn-your-back-on-the-city.json) |
 | Don't Wake the Beast | 322690 | [322690-dont-wake-the-beast.json](./322690-dont-wake-the-beast.json) |
+| Don't Wake the SysOp | 94944 | [94944-dont-wake-the-sysop.json](./94944-dont-wake-the-sysop.json) |
 | Don't wake up | 381009 | [381009-dont-wake-up.json](./381009-dont-wake-up.json) |
 | Don't Wake Up | 183915 | [183915-dont-wake-up.json](./183915-dont-wake-up.json) |
 | Don't Wake Up My Dream | 369588 | [369588-dont-wake-up-my-dream.json](./369588-dont-wake-up-my-dream.json) |
