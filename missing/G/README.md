@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamius Type IV | 51175 | [51175-gamius-type-iv.json](./51175-gamius-type-iv.json) |
 | Gamlet | 146109 | [146109-gamlet.json](./146109-gamlet.json) |
 | Gamma 19 | 213480 | [213480-gamma-19.json](./213480-gamma-19.json) |
+| Gamma Blast | 86412 | [86412-gamma-blast.json](./86412-gamma-blast.json) |
 | Gamma Bros | 33675 | [33675-gamma-bros.json](./33675-gamma-bros.json) |
 | Gamma Force in Pit of a Thousand Screams | 59854 | [59854-gamma-force-in-pit-of-a-thousand-screams.json](./59854-gamma-force-in-pit-of-a-thousand-screams.json) |
 | Gamma Goblins | 59664 | [59664-gamma-goblins.json](./59664-gamma-goblins.json) |
