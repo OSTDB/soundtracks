@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Year of the Ladybug: Season 1 | 337765 | [337765-year-of-the-ladybug-season-1.json](./337765-year-of-the-ladybug-season-1.json) |
 | Yeardle | 200664 | [200664-yeardle.json](./200664-yeardle.json) |
 | Yearn 2 Learn | 93385 | [93385-yearn-2-learn.json](./93385-yearn-2-learn.json) |
+| Yearn Tyrant's Conquest | 96211 | [96211-yearn-tyrants-conquest.json](./96211-yearn-tyrants-conquest.json) |
 | Yearning | 111497 | [111497-yearning.json](./111497-yearning.json) |
 | Yearning: A Gay Story | 127785 | [127785-yearning-a-gay-story.json](./127785-yearning-a-gay-story.json) |
 | Yebushou: Defeat Pirates | 261853 | [261853-yebushou-defeat-pirates.json](./261853-yebushou-defeat-pirates.json) |
@@ -375,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo, Matias: Sueños Peligrosos | 343311 | [343311-yo-matias-suenos-peligrosos.json](./343311-yo-matias-suenos-peligrosos.json) |
 | Yo! Ninjia | 234321 | [234321-yo-ninjia.json](./234321-yo-ninjia.json) |
 | Yo! Noid 2: Game of a Year Edition | 133918 | [133918-yo-noid-2-game-of-a-year-edition.json](./133918-yo-noid-2-game-of-a-year-edition.json) |
+| Yo! Walk the Line | 96324 | [96324-yo-walk-the-line.json](./96324-yo-walk-the-line.json) |
 | Yo' Bro | 42023 | [42023-yo-bro.json](./42023-yo-bro.json) |
 | Yoake Mae yori Ruri Iro na | 60801 | [60801-yoake-mae-yori-ruri-iro-na.json](./60801-yoake-mae-yori-ruri-iro-na.json) |
 | Yoake no Mariko | 65455 | [65455-yoake-no-mariko.json](./65455-yoake-no-mariko.json) |
@@ -848,6 +850,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys | 206826 | [206826-ys.json](./206826-ys.json) |
 | Ys 2 Special | 146536 | [146536-ys-2-special.json](./146536-ys-2-special.json) |
 | Ys Altago | 111847 | [111847-ys-altago.json](./111847-ys-altago.json) |
+| Ys Chronicles 1 | 96317 | [96317-ys-chronicles-1.json](./96317-ys-chronicles-1.json) |
+| Ys Chronicles II | 96318 | [96318-ys-chronicles-ii.json](./96318-ys-chronicles-ii.json) |
 | Ys Foliage Ocean in Celceta: Kai | 288377 | [288377-ys-foliage-ocean-in-celceta-kai.json](./288377-ys-foliage-ocean-in-celceta-kai.json) |
 | Ys I & II Chronicles | 21020 | [21020-ys-i-and-ii-chronicles.json](./21020-ys-i-and-ii-chronicles.json) |
 | Ys II: Ancient Ys Vanished - The Final Chapter | 15449 | [15449-ys-ii-ancient-ys-vanished-the-final-chapter.json](./15449-ys-ii-ancient-ys-vanished-the-final-chapter.json) |
