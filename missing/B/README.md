@@ -4926,6 +4926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Diamond | 275309 | [275309-black-diamond.json](./275309-black-diamond.json) |
 | Black Dragon | 38590 | [38590-black-dragon.json](./38590-black-dragon.json) |
 | Black Dust | 318211 | [318211-black-dust.json](./318211-black-dust.json) |
+| Black Eagle 2 | 63690 | [63690-black-eagle-2.json](./63690-black-eagle-2.json) |
 | Black Emperor | 125471 | [125471-black-emperor.json](./125471-black-emperor.json) |
 | Black Eyes | 229102 | [229102-black-eyes.json](./229102-black-eyes.json) |
 | Black Fairy | 325841 | [325841-black-fairy.json](./325841-black-fairy.json) |
