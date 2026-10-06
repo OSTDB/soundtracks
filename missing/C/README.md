@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.E.O. | 19793 | [19793-c-e-o.json](./19793-c-e-o.json) |
 | C.H.A.O.S Tournament | 117726 | [117726-c-h-a-o-s-tournament.json](./117726-c-h-a-o-s-tournament.json) |
 | C.I.E.B The Backrooms Project | 265402 | [265402-c-i-e-b-the-backrooms-project.json](./265402-c-i-e-b-the-backrooms-project.json) |
+| C.I.T.Y. 2000 | 70022 | [70022-c-i-t-y-2000.json](./70022-c-i-t-y-2000.json) |
 | C.L.A.S.H: Colonial Life Advancing Self-sustained Hemisphere - Chapter 1 | 406245 | [406245-c-l-a-s-h-colonial-life-advancing-self-sustained-hemisphere-chapter-1.json](./406245-c-l-a-s-h-colonial-life-advancing-self-sustained-hemisphere-chapter-1.json) |
 | C.L.A.Y.: The Last Redemption | 193289 | [193289-c-l-a-y-the-last-redemption.json](./193289-c-l-a-y-the-last-redemption.json) |
 | C.L.T.: Cheguei Louco no Trabalho | 255390 | [255390-c-l-t-cheguei-louco-no-trabalho.json](./255390-c-l-t-cheguei-louco-no-trabalho.json) |
@@ -2680,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cede | 108974 | [108974-cede.json](./108974-cede.json) |
 | CEdges | 68678 | [68678-cedges.json](./68678-cedges.json) |
 | Cedric & Odious | 328270 | [328270-cedric-and-odious.json](./328270-cedric-and-odious.json) |
+| Cedric and the Revolution | 70030 | [70030-cedric-and-the-revolution.json](./70030-cedric-and-the-revolution.json) |
 | CeeBot-A | 94574 | [94574-ceebot-a.json](./94574-ceebot-a.json) |
 | Ceiling Mounted Sprinkler | 358439 | [358439-ceiling-mounted-sprinkler.json](./358439-ceiling-mounted-sprinkler.json) |
 | Ceiling Zero | 282105 | [282105-ceiling-zero.json](./282105-ceiling-zero.json) |
@@ -3162,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Islands | 296395 | [296395-chaos-islands.json](./296395-chaos-islands.json) |
 | Chaos Journey | 295021 | [295021-chaos-journey.json](./295021-chaos-journey.json) |
 | Chaos League | 50120 | [50120-chaos-league.json](./50120-chaos-league.json) |
+| Chaos League: Sudden Death | 70068 | [70068-chaos-league-sudden-death.json](./70068-chaos-league-sudden-death.json) |
 | Chaos Machina | 331323 | [331323-chaos-machina.json](./331323-chaos-machina.json) |
 | Chaos Maker | 113033 | [113033-chaos-maker.json](./113033-chaos-maker.json) |
 | Chaos Metaverse | 267658 | [267658-chaos-metaverse.json](./267658-chaos-metaverse.json) |
@@ -5555,6 +5558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliffhanger - Chat Stories | 87042 | [87042-cliffhanger-chat-stories.json](./87042-cliffhanger-chat-stories.json) |
 | Cliffhorse | 18446 | [18446-cliffhorse.json](./18446-cliffhorse.json) |
 | Clifford the Big Red Dog: Learning Activities | 255656 | [255656-clifford-the-big-red-dog-learning-activities.json](./255656-clifford-the-big-red-dog-learning-activities.json) |
+| Clifford the Big Red Dog: Phonics | 70075 | [70075-clifford-the-big-red-dog-phonics.json](./70075-clifford-the-big-red-dog-phonics.json) |
 | Clifford: Ready-to-Read | 230359 | [230359-clifford-ready-to-read.json](./230359-clifford-ready-to-read.json) |
 | Cliffs of War: Fortress Defenders | 34606 | [34606-cliffs-of-war-fortress-defenders.json](./34606-cliffs-of-war-fortress-defenders.json) |
 | Clifftop Games Bundle I Kathy Rain: Director's Cut + Whispers of a Machine | 226788 | [226788-clifftop-games-bundle-i-kathy-rain-directors-cut-whispers-of-a-machine.json](./226788-clifftop-games-bundle-i-kathy-rain-directors-cut-whispers-of-a-machine.json) |
@@ -6793,6 +6797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Master: Season 1 | 318437 | [318437-combat-master-season-1.json](./318437-combat-master-season-1.json) |
 | Combat Mech VR | 157506 | [157506-combat-mech-vr.json](./157506-combat-mech-vr.json) |
 | Combat Medic | 249910 | [249910-combat-medic.json](./249910-combat-medic.json) |
+| Combat Medic: Special Ops | 70041 | [70041-combat-medic-special-ops.json](./70041-combat-medic-special-ops.json) |
 | Combat Mission 2 | 645 | [645-combat-mission-2.json](./645-combat-mission-2.json) |
 | Combat Mission Anthology | 78011 | [78011-combat-mission-anthology.json](./78011-combat-mission-anthology.json) |
 | Combat Mission Fortress Italy: Gustav Line | 266386 | [266386-combat-mission-fortress-italy-gustav-line.json](./266386-combat-mission-fortress-italy-gustav-line.json) |
@@ -10751,6 +10756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Lich King | 178005 | [178005-curse-of-the-lich-king.json](./178005-curse-of-the-lich-king.json) |
 | Curse of The Lineage | 375835 | [375835-curse-of-the-lineage.json](./375835-curse-of-the-lineage.json) |
 | Curse of the Pharaoh: Napoleon's Secret | 208843 | [208843-curse-of-the-pharaoh-napoleons-secret.json](./208843-curse-of-the-pharaoh-napoleons-secret.json) |
+| Curse of the Pharaoh: The Quest for Nefertiti | 70043 | [70043-curse-of-the-pharaoh-the-quest-for-nefertiti.json](./70043-curse-of-the-pharaoh-the-quest-for-nefertiti.json) |
 | Curse of the Sea Rats | 121712 | [121712-curse-of-the-sea-rats.json](./121712-curse-of-the-sea-rats.json) |
 | Curse of the Shadow | 390519 | [390519-curse-of-the-shadow.json](./390519-curse-of-the-shadow.json) |
 | Curse of the Shadow Samurai | 254761 | [254761-curse-of-the-shadow-samurai.json](./254761-curse-of-the-shadow-samurai.json) |
