@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Cannon | 190108 | [190108-safari-cannon.json](./190108-safari-cannon.json) |
 | Safari Central | 95387 | [95387-safari-central.json](./95387-safari-central.json) |
 | Safari Chef | 249732 | [249732-safari-chef.json](./249732-safari-chef.json) |
+| Safari Hunt | 94935 | [94935-safari-hunt.json](./94935-safari-hunt.json) |
 | Safari Hunt 2018 | 108513 | [108513-safari-hunt-2018.json](./108513-safari-hunt-2018.json) |
 | Safari Islands | 241532 | [241532-safari-islands.json](./241532-safari-islands.json) |
 | Safari Kart | 263579 | [263579-safari-kart.json](./263579-safari-kart.json) |
@@ -1162,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SatAM Online | 331950 | [331950-satam-online.json](./331950-satam-online.json) |
 | Satama Puzzle | 190461 | [190461-satama-puzzle.json](./190461-satama-puzzle.json) |
 | Satan | 311182 | [311182-satan.json](./311182-satan.json) |
+| Satan | 94933 | [94933-satan.json](./94933-satan.json) |
 | Satan II | 380552 | [380552-satan-ii.json](./380552-satan-ii.json) |
 | Satan Santa | 369743 | [369743-satan-santa.json](./369743-satan-santa.json) |
 | Satan's Dungeon | 329593 | [329593-satans-dungeon.json](./329593-satans-dungeon.json) |
@@ -2377,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasonal Affectiveness Disorder | 260789 | [260789-seasonal-affectiveness-disorder.json](./260789-seasonal-affectiveness-disorder.json) |
 | Seasonaut | 384671 | [384671-seasonaut.json](./384671-seasonaut.json) |
 | SeasonPark | 263440 | [263440-seasonpark.json](./263440-seasonpark.json) |
+| Seasons | 94938 | [94938-seasons.json](./94938-seasons.json) |
 | Seasons of Chiba | 351636 | [351636-seasons-of-chiba.json](./351636-seasons-of-chiba.json) |
 | Seasons of Courage | 211786 | [211786-seasons-of-courage.json](./211786-seasons-of-courage.json) |
 | Seasons of Solitude | 358366 | [358366-seasons-of-solitude.json](./358366-seasons-of-solitude.json) |
@@ -5374,6 +5377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shǔshān: Chū Zhāng Zhèngshì Bǎn | 368575 | [368575-shushan-chu-zhang-zhengshi-ban.json](./368575-shushan-chu-zhang-zhengshi-ban.json) |
 | Shut In | 139469 | [139469-shut-in.json](./139469-shut-in.json) |
 | Shut the Box Infinity | 175324 | [175324-shut-the-box-infinity.json](./175324-shut-the-box-infinity.json) |
+| Shut the Window | 94968 | [94968-shut-the-window.json](./94968-shut-the-window.json) |
 | Shut Up, Rabbit! | 263744 | [263744-shut-up-rabbit.json](./263744-shut-up-rabbit.json) |
 | Shut your teeth | 164252 | [164252-shut-your-teeth.json](./164252-shut-your-teeth.json) |
 | Shutdown. | 370772 | [370772-shutdown.json](./370772-shutdown.json) |
@@ -10842,6 +10846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space man adventure dash | 99662 | [99662-space-man-adventure-dash.json](./99662-space-man-adventure-dash.json) |
 | Space Mantlet | 365148 | [365148-space-mantlet.json](./365148-space-mantlet.json) |
 | Space Marauder | 49968 | [49968-space-marauder.json](./49968-space-marauder.json) |
+| Space Marines | 94926 | [94926-space-marines.json](./94926-space-marines.json) |
 | Space Marshals | 46747 | [46747-space-marshals.json](./46747-space-marshals.json) |
 | Space Marshals 2 | 38944 | [38944-space-marshals-2.json](./38944-space-marshals-2.json) |
 | Space Marshals 3 | 205223 | [205223-space-marshals-3.json](./205223-space-marshals-3.json) |
@@ -14076,6 +14081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starswirl Academy | 203835 | [203835-starswirl-academy.json](./203835-starswirl-academy.json) |
 | Start a Startup with a Legendary Japanese Warlord | 272909 | [272909-start-a-startup-with-a-legendary-japanese-warlord.json](./272909-start-a-startup-with-a-legendary-japanese-warlord.json) |
 | Start Again: A Prologue | 144092 | [144092-start-again-a-prologue.json](./144092-start-again-a-prologue.json) |
+| Start Blackthorn Castle | 94973 | [94973-start-blackthorn-castle.json](./94973-start-blackthorn-castle.json) |
 | Start Rescue the Enchanter | 87060 | [87060-start-rescue-the-enchanter.json](./87060-start-rescue-the-enchanter.json) |
 | Start Survey? | 177427 | [177427-start-survey.json](./177427-start-survey.json) |
 | Start the Enchanted Books | 91088 | [91088-start-the-enchanted-books.json](./91088-start-the-enchanted-books.json) |
@@ -14441,6 +14447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stefanos Sizzlin Pizza Pie | 180042 | [180042-stefanos-sizzlin-pizza-pie.json](./180042-stefanos-sizzlin-pizza-pie.json) |
 | Stegosaurs | 185028 | [185028-stegosaurs.json](./185028-stegosaurs.json) |
 | Steigar | 315598 | [315598-steigar.json](./315598-steigar.json) |
+| Steigenberger Hotelmanager | 94947 | [94947-steigenberger-hotelmanager.json](./94947-steigenberger-hotelmanager.json) |
 | Stein.World | 95575 | [95575-stein-world.json](./95575-stein-world.json) |
 | Steinkraft | 320162 | [320162-steinkraft.json](./320162-steinkraft.json) |
 | Steins;Gate 0 | 11394 | [11394-steins-gate-0.json](./11394-steins-gate-0.json) |
@@ -16702,6 +16709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super | 51970 | [51970-super.json](./51970-super.json) |
 | Super "Mario" World | 297240 | [297240-super-mario-world.json](./297240-super-mario-world.json) |
 | Super "Mario" World 2 | 297496 | [297496-super-mario-world-2.json](./297496-super-mario-world-2.json) |
+| Super 1 Karting Simulation | 94949 | [94949-super-1-karting-simulation.json](./94949-super-1-karting-simulation.json) |
 | Super 10 Pin | 270885 | [270885-super-10-pin.json](./270885-super-10-pin.json) |
 | Super 10 VR Bundle | 300275 | [300275-super-10-vr-bundle.json](./300275-super-10-vr-bundle.json) |
 | Super 190-in-1 | 137388 | [137388-super-190-in-1.json](./137388-super-190-in-1.json) |
@@ -17075,6 +17083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Flipside | 47993 | [47993-super-flipside.json](./47993-super-flipside.json) |
 | Super Food Frenzy | 187543 | [187543-super-food-frenzy.json](./187543-super-food-frenzy.json) |
 | Super Foosball | 129719 | [129719-super-foosball.json](./129719-super-foosball.json) |
+| Super Football | 94923 | [94923-super-football.json](./94923-super-football.json) |
 | Super Fowlst 2 | 147611 | [147611-super-fowlst-2.json](./147611-super-fowlst-2.json) |
 | Super Fox 2 | 146920 | [146920-super-fox-2.json](./146920-super-fox-2.json) |
 | Super Freaks 1 Remastered | 266873 | [266873-super-freaks-1-remastered.json](./266873-super-freaks-1-remastered.json) |
