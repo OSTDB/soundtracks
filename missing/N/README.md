@@ -1491,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neopets: The Wheel of Monotony | 97687 | [97687-neopets-the-wheel-of-monotony.json](./97687-neopets-the-wheel-of-monotony.json) |
 | Neophyte | 197366 | [197366-neophyte.json](./197366-neophyte.json) |
 | Neophyte: Koplio's Story | 145695 | [145695-neophyte-koplios-story.json](./145695-neophyte-koplios-story.json) |
+| Neophyte: The Journey Begins | 66403 | [66403-neophyte-the-journey-begins.json](./66403-neophyte-the-journey-begins.json) |
 | Neophyte: The Spirit Master | 145696 | [145696-neophyte-the-spirit-master.json](./145696-neophyte-the-spirit-master.json) |
 | Neoproxima | 290545 | [290545-neoproxima.json](./290545-neoproxima.json) |
 | NeoQuest | 229025 | [229025-neoquest.json](./229025-neoquest.json) |
