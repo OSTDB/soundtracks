@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasokare Hotel: Tsubomi | 408273 | [408273-tasokare-hotel-tsubomi.json](./408273-tasokare-hotel-tsubomi.json) |
 | Tasomachi: Behind the Twilight | 121481 | [121481-tasomachi-behind-the-twilight.json](./121481-tasomachi-behind-the-twilight.json) |
 | Tass Times in Tonetown | 29031 | [29031-tass-times-in-tonetown.json](./29031-tass-times-in-tonetown.json) |
+| Taste My Arsenal | 103981 | [103981-taste-my-arsenal.json](./103981-taste-my-arsenal.json) |
 | Taste of Blood | 361268 | [361268-taste-of-blood.json](./361268-taste-of-blood.json) |
 | Taste of Seduction | 212198 | [212198-taste-of-seduction.json](./212198-taste-of-seduction.json) |
 | Taste of Sweet Magic | 217784 | [217784-taste-of-sweet-magic.json](./217784-taste-of-sweet-magic.json) |
@@ -2398,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenrou Toshi | 243268 | [243268-tenrou-toshi.json](./243268-tenrou-toshi.json) |
 | Tenrow | 33321 | [33321-tenrow.json](./33321-tenrow.json) |
 | Tens and Twos | 175384 | [175384-tens-and-twos.json](./175384-tens-and-twos.json) |
+| Tens Junior Maths IQ Challenge | 103993 | [103993-tens-junior-maths-iq-challenge.json](./103993-tens-junior-maths-iq-challenge.json) |
 | Tensai Bakabon | 46110 | [46110-tensai-bakabon.json](./46110-tensai-bakabon.json) |
 | Tensei | 264610 | [264610-tensei.json](./264610-tensei.json) |
 | Tensei Shitara Slime Datta Ken: Lord of Tempest | 90112 | [90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json](./90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json) |
