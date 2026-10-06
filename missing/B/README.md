@@ -9056,6 +9056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Tea: Game for Thinking and Imagination | 151024 | [151024-bubble-tea-game-for-thinking-and-imagination.json](./151024-bubble-tea-game-for-thinking-and-imagination.json) |
 | Bubble Tea: Game for Thinking and Imagination - Escape | 168246 | [168246-bubble-tea-game-for-thinking-and-imagination-escape.json](./168246-bubble-tea-game-for-thinking-and-imagination-escape.json) |
 | Bubble Tower 3D | 314478 | [314478-bubble-tower-3d.json](./314478-bubble-tower-3d.json) |
+| Bubble Town 2 | 66429 | [66429-bubble-town-2.json](./66429-bubble-town-2.json) |
 | Bubble Troops | 236531 | [236531-bubble-troops.json](./236531-bubble-troops.json) |
 | Bubble Trouble | 83918 | [83918-bubble-trouble.json](./83918-bubble-trouble.json) |
 | Bubble Trubble | 42829 | [42829-bubble-trubble.json](./42829-bubble-trubble.json) |
