@@ -1952,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpy Haha | 367957 | [367957-jumpy-haha.json](./367957-jumpy-haha.json) |
 | Jumpy Horse Breeding | 87891 | [87891-jumpy-horse-breeding.json](./87891-jumpy-horse-breeding.json) |
 | Jumpy Jack | 343977 | [343977-jumpy-jack.json](./343977-jumpy-jack.json) |
+| Jumpy Kitten | 101672 | [101672-jumpy-kitten.json](./101672-jumpy-kitten.json) |
 | Jumpy Paws: World Adventures | 258022 | [258022-jumpy-paws-world-adventures.json](./258022-jumpy-paws-world-adventures.json) |
 | Jumpy Penguin | 104702 | [104702-jumpy-penguin.json](./104702-jumpy-penguin.json) |
 | Jumpy Road Race | 232162 | [232162-jumpy-road-race.json](./232162-jumpy-road-race.json) |
@@ -1975,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Bomb Fever | 232916 | [232916-jungle-bomb-fever.json](./232916-jungle-bomb-fever.json) |
 | Jungle Book | 131532 | [131532-jungle-book.json](./131532-jungle-book.json) |
 | Jungle Boy | 362455 | [362455-jungle-boy.json](./362455-jungle-boy.json) |
+| Jungle Care Taker | 101667 | [101667-jungle-care-taker.json](./101667-jungle-care-taker.json) |
 | Jungle Catz | 291786 | [291786-jungle-catz.json](./291786-jungle-catz.json) |
 | Jungle Crash Land | 66151 | [66151-jungle-crash-land.json](./66151-jungle-crash-land.json) |
 | Jungle Drummer | 305139 | [305139-jungle-drummer.json](./305139-jungle-drummer.json) |
