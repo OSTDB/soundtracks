@@ -2137,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Isle: Platinum | 73251 | [73251-battle-isle-platinum.json](./73251-battle-isle-platinum.json) |
 | Battle Isle: The Andosia War | 9034 | [9034-battle-isle-the-andosia-war.json](./9034-battle-isle-the-andosia-war.json) |
 | Battle Isle: Threshold Run | 11103 | [11103-battle-isle-threshold-run.json](./11103-battle-isle-threshold-run.json) |
+| Battle Jump | 83856 | [83856-battle-jump.json](./83856-battle-jump.json) |
 | Battle K-Road | 39561 | [39561-battle-k-road.json](./39561-battle-k-road.json) |
 | Battle Kart 64 | 248308 | [248308-battle-kart-64.json](./248308-battle-kart-64.json) |
 | Battle Leet | 265727 | [265727-battle-leet.json](./265727-battle-leet.json) |
@@ -3219,6 +3220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Shooter | 101526 | [101526-beer-shooter.json](./101526-beer-shooter.json) |
 | Beer Strip | 367024 | [367024-beer-strip.json](./367024-beer-strip.json) |
 | Beer! | 57091 | [57091-beer.json](./57091-beer.json) |
+| Beer! | 83796 | [83796-beer.json](./83796-beer.json) |
 | Beerjeweled | 138036 | [138036-beerjeweled.json](./138036-beerjeweled.json) |
 | Beerman | 31904 | [31904-beerman.json](./31904-beerman.json) |
 | Beers and Boomerangs | 172469 | [172469-beers-and-boomerangs.json](./172469-beers-and-boomerangs.json) |
@@ -9756,6 +9758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 18: Mercedes-Benz Bus Pack 1 | 225062 | [225062-bus-simulator-18-mercedes-benz-bus-pack-1.json](./225062-bus-simulator-18-mercedes-benz-bus-pack-1.json) |
 | Bus Simulator 18: Official Map Extension | 163354 | [163354-bus-simulator-18-official-map-extension.json](./163354-bus-simulator-18-official-map-extension.json) |
 | Bus Simulator 18: Setra Bus Pack 1 | 224124 | [224124-bus-simulator-18-setra-bus-pack-1.json](./224124-bus-simulator-18-setra-bus-pack-1.json) |
+| Bus Simulator 2008 | 83869 | [83869-bus-simulator-2008.json](./83869-bus-simulator-2008.json) |
 | Bus Simulator 2015 HD: New York Route | 97148 | [97148-bus-simulator-2015-hd-new-york-route.json](./97148-bus-simulator-2015-hd-new-york-route.json) |
 | Bus Simulator 2023 | 227959 | [227959-bus-simulator-2023.json](./227959-bus-simulator-2023.json) |
 | Bus Simulator 21: Angel Shores Insider Skin Pack | 213848 | [213848-bus-simulator-21-angel-shores-insider-skin-pack.json](./213848-bus-simulator-21-angel-shores-insider-skin-pack.json) |
