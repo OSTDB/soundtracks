@@ -7389,6 +7389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerShift | 242673 | [242673-powershift.json](./242673-powershift.json) |
 | PowerSimulator | 251808 | [251808-powersimulator.json](./251808-powersimulator.json) |
 | PowerSkate | 233238 | [233238-powerskate.json](./233238-powerskate.json) |
+| Powerslam | 101679 | [101679-powerslam.json](./101679-powerslam.json) |
 | PowerSlave | 188071 | [188071-powerslave.json](./188071-powerslave.json) |
 | PowerSlave: Exhumed | 165054 | [165054-powerslave-exhumed.json](./165054-powerslave-exhumed.json) |
 | Powerstar Golf: Emperor's Garden | 249733 | [249733-powerstar-golf-emperors-garden.json](./249733-powerstar-golf-emperors-garden.json) |
