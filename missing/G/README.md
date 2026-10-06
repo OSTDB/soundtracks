@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genetic | 270663 | [270663-genetic.json](./270663-genetic.json) |
 | Genetic Species | 73458 | [73458-genetic-species.json](./73458-genetic-species.json) |
 | Geneticognito | 44173 | [44173-geneticognito.json](./44173-geneticognito.json) |
+| Genetos | 64187 | [64187-genetos.json](./64187-genetos.json) |
 | Genewars | 14455 | [14455-genewars.json](./14455-genewars.json) |
 | Genfanad | 159346 | [159346-genfanad.json](./159346-genfanad.json) |
 | Gengar | 210568 | [210568-gengar.json](./210568-gengar.json) |
@@ -4159,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grana Embrace Chapter 1 | 125815 | [125815-grana-embrace-chapter-1.json](./125815-grana-embrace-chapter-1.json) |
 | Granada | 280323 | [280323-granada.json](./280323-granada.json) |
 | Granado Espada M | 197354 | [197354-granado-espada-m.json](./197354-granado-espada-m.json) |
+| GranAge Online | 64192 | [64192-granage-online.json](./64192-granage-online.json) |
 | Granblue Fantasy Versus Rising: Color Set 1 | 332820 | [332820-granblue-fantasy-versus-rising-color-set-1.json](./332820-granblue-fantasy-versus-rising-color-set-1.json) |
 | Granblue Fantasy Versus Rising: Color Set 2 | 332821 | [332821-granblue-fantasy-versus-rising-color-set-2.json](./332821-granblue-fantasy-versus-rising-color-set-2.json) |
 | Granblue Fantasy Versus Rising: Color Set 3 | 332822 | [332822-granblue-fantasy-versus-rising-color-set-3.json](./332822-granblue-fantasy-versus-rising-color-set-3.json) |
@@ -5394,6 +5396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT and the Evil Factory | 295856 | [295856-gt-and-the-evil-factory.json](./295856-gt-and-the-evil-factory.json) |
 | GT Manager | 197317 | [197317-gt-manager.json](./197317-gt-manager.json) |
 | GT New Horizons | 204699 | [204699-gt-new-horizons.json](./204699-gt-new-horizons.json) |
+| GT Racers | 64222 | [64222-gt-racers.json](./64222-gt-racers.json) |
 | GT Racing 1980 | 371885 | [371885-gt-racing-1980.json](./371885-gt-racing-1980.json) |
 | GT Racing 2: The Real Car Experience | 38939 | [38939-gt-racing-2-the-real-car-experience.json](./38939-gt-racing-2-the-real-car-experience.json) |
 | GT Racing 97 | 84212 | [84212-gt-racing-97.json](./84212-gt-racing-97.json) |
