@@ -7169,6 +7169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fumpers 2: Dual Realms | 384508 | [384508-fumpers-2-dual-realms.json](./384508-fumpers-2-dual-realms.json) |
 | Fun | 360738 | [360738-fun.json](./360738-fun.json) |
 | Fun 'N Games | 4241 | [4241-fun-n-games.json](./4241-fun-n-games.json) |
+| Fun & Skills Pack: Toddler | 84430 | [84430-fun-and-skills-pack-toddler.json](./84430-fun-and-skills-pack-toddler.json) |
 | Fun Chess: Complete Edition | 277912 | [277912-fun-chess-complete-edition.json](./277912-fun-chess-complete-edition.json) |
 | Fun Chess: Definitive Edition | 275032 | [275032-fun-chess-definitive-edition.json](./275032-fun-chess-definitive-edition.json) |
 | Fun Chess: Extended Edition | 263551 | [263551-fun-chess-extended-edition.json](./263551-fun-chess-extended-edition.json) |
