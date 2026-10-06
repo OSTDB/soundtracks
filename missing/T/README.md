@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Fablecraft: Brawler Collection | 365207 | [365207-tales-of-fablecraft-brawler-collection.json](./365207-tales-of-fablecraft-brawler-collection.json) |
 | Tales of Fablecraft: Storyteller Collection | 365208 | [365208-tales-of-fablecraft-storyteller-collection.json](./365208-tales-of-fablecraft-storyteller-collection.json) |
 | Tales of Fandom Vol. 1: Cress Version | 100158 | [100158-tales-of-fandom-vol-1-cress-version.json](./100158-tales-of-fandom-vol-1-cress-version.json) |
+| Tales of Fandom Vol. 2: Luke Version | 100288 | [100288-tales-of-fandom-vol-2-luke-version.json](./100288-tales-of-fandom-vol-2-luke-version.json) |
 | Tales of Fandom Vol. 2: Tear Version | 43459 | [43459-tales-of-fandom-vol-2-tear-version.json](./43459-tales-of-fandom-vol-2-tear-version.json) |
 | Tales of Fear: Episode Zero | 379432 | [379432-tales-of-fear-episode-zero.json](./379432-tales-of-fear-episode-zero.json) |
 | Tales of Fearless | 379435 | [379435-tales-of-fearless.json](./379435-tales-of-fearless.json) |
@@ -5331,6 +5332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flame in the Flood: Complete Edition | 26181 | [26181-the-flame-in-the-flood-complete-edition.json](./26181-the-flame-in-the-flood-complete-edition.json) |
 | The Flame's Heir | 301278 | [301278-the-flames-heir.json](./301278-the-flames-heir.json) |
 | The Flames | 176510 | [176510-the-flames.json](./176510-the-flames.json) |
+| The Flash | 100289 | [100289-the-flash.json](./100289-the-flash.json) |
 | The Flat | 262910 | [262910-the-flat.json](./262910-the-flat.json) |
 | The Flawless Cup | 156000 | [156000-the-flawless-cup.json](./156000-the-flawless-cup.json) |
 | The Flaws of Gravity | 36477 | [36477-the-flaws-of-gravity.json](./36477-the-flaws-of-gravity.json) |
@@ -11569,6 +11571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TibiaMe | 115761 | [115761-tibiame.json](./115761-tibiame.json) |
 | TibiaScape | 320884 | [320884-tibiascape.json](./320884-tibiascape.json) |
 | Tibili et L'île de la Panthère | 261896 | [261896-tibili-et-lile-de-la-panthere.json](./261896-tibili-et-lile-de-la-panthere.json) |
+| Tic | 100258 | [100258-tic.json](./100258-tic.json) |
 | Tic Cat Dog | 366294 | [366294-tic-cat-dog.json](./366294-tic-cat-dog.json) |
 | Tic Tac | 362822 | [362822-tic-tac.json](./362822-tic-tac.json) |
 | Tic Tac Math Algebra | 109020 | [109020-tic-tac-math-algebra.json](./109020-tic-tac-math-algebra.json) |
@@ -13774,6 +13777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Majin Gakuen: Kenfuuchou | 91923 | [91923-tokyo-majin-gakuen-kenfuuchou.json](./91923-tokyo-majin-gakuen-kenfuuchou.json) |
 | Tokyo Majin Gakuen: Kenpuu Chou Emaki | 91927 | [91927-tokyo-majin-gakuen-kenpuu-chou-emaki.json](./91927-tokyo-majin-gakuen-kenpuu-chou-emaki.json) |
 | Tokyo Majin Gakuen: Kenpuu-chou | 91925 | [91925-tokyo-majin-gakuen-kenpuu-chou.json](./91925-tokyo-majin-gakuen-kenpuu-chou.json) |
+| Tokyo Majin Gakuen: Oboro-Kitan | 100261 | [100261-tokyo-majin-gakuen-oboro-kitan.json](./100261-tokyo-majin-gakuen-oboro-kitan.json) |
 | Tokyo Mew Mew: Toujou Shin Mew Mew! - Minna Issho ni Gohoushi Suru Nyan | 56483 | [56483-tokyo-mew-mew-toujou-shin-mew-mew-minna-issho-ni-gohoushi-suru-nyan.json](./56483-tokyo-mew-mew-toujou-shin-mew-mew-minna-issho-ni-gohoushi-suru-nyan.json) |
 | Tokyo Millennium Collaboration | 333386 | [333386-tokyo-millennium-collaboration.json](./333386-tokyo-millennium-collaboration.json) |
 | Tokyo Mirage Sessions #FE: 3 Support Quest Set | 333630 | [333630-tokyo-mirage-sessions-fe-3-support-quest-set.json](./333630-tokyo-mirage-sessions-fe-3-support-quest-set.json) |
