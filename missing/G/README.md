@@ -2485,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Band Cry First Riff | 369766 | [369766-girls-band-cry-first-riff.json](./369766-girls-band-cry-first-riff.json) |
 | Girls Battlegrounds | 284340 | [284340-girls-battlegrounds.json](./284340-girls-battlegrounds.json) |
 | Girls Book Maker: Shiawase no Libretto | 194573 | [194573-girls-book-maker-shiawase-no-libretto.json](./194573-girls-book-maker-shiawase-no-libretto.json) |
+| Girls Bravo Romance15's | 60879 | [60879-girls-bravo-romance15s.json](./60879-girls-bravo-romance15s.json) |
 | Girls Craft: Crafting and Building | 100959 | [100959-girls-craft-crafting-and-building.json](./100959-girls-craft-crafting-and-building.json) |
 | Girls Dance VR | 384632 | [384632-girls-dance-vr.json](./384632-girls-dance-vr.json) |
 | Girls don't like me | 182905 | [182905-girls-dont-like-me.json](./182905-girls-dont-like-me.json) |
@@ -2954,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Go Ackman | 83923 | [83923-go-go-ackman.json](./83923-go-go-ackman.json) |
 | Go Go Burunyanman Ecstasy!!! | 383005 | [383005-go-go-burunyanman-ecstasy.json](./383005-go-go-burunyanman-ecstasy.json) |
 | Go Go Galago | 61732 | [61732-go-go-galago.json](./61732-go-go-galago.json) |
+| Go Go Golf | 60885 | [60885-go-go-golf.json](./60885-go-go-golf.json) |
 | Go Go Jump!! | 244221 | [244221-go-go-jump.json](./244221-go-go-jump.json) |
 | Go go mr yamaguchi | 39811 | [39811-go-go-mr-yamaguchi.json](./39811-go-go-mr-yamaguchi.json) |
 | Go Go Muffin | 212451 | [212451-go-go-muffin.json](./212451-go-go-muffin.json) |
@@ -3194,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Fishing | 358872 | [358872-god-fishing.json](./358872-god-fishing.json) |
 | God Girl | 250927 | [250927-god-girl.json](./250927-god-girl.json) |
 | God Give Me One More Chance | 400282 | [400282-god-give-me-one-more-chance.json](./400282-god-give-me-one-more-chance.json) |
+| God Hates Charades | 60899 | [60899-god-hates-charades.json](./60899-god-hates-charades.json) |
 | God is in the Radio | 269314 | [269314-god-is-in-the-radio.json](./269314-god-is-in-the-radio.json) |
 | God is Watching | 336922 | [336922-god-is-watching.json](./336922-god-is-watching.json) |
 | God Killer Aria | 182473 | [182473-god-killer-aria.json](./182473-god-killer-aria.json) |
@@ -3537,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Sun The Lost Age: Anniversary Mod | 269061 | [269061-golden-sun-the-lost-age-anniversary-mod.json](./269061-golden-sun-the-lost-age-anniversary-mod.json) |
 | Golden Swords | 31195 | [31195-golden-swords.json](./31195-golden-swords.json) |
 | Golden Tee | 72781 | [72781-golden-tee.json](./72781-golden-tee.json) |
+| Golden Tee 2015 | 60928 | [60928-golden-tee-2015.json](./60928-golden-tee-2015.json) |
 | Golden Tee 2017 | 55848 | [55848-golden-tee-2017.json](./55848-golden-tee-2017.json) |
 | Golden Tee 2018 | 82145 | [82145-golden-tee-2018.json](./82145-golden-tee-2018.json) |
 | Golden Tee PGA Tour | 337445 | [337445-golden-tee-pga-tour.json](./337445-golden-tee-pga-tour.json) |
@@ -3826,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goof Ball | 78033 | [78033-goof-ball.json](./78033-goof-ball.json) |
 | Goof Troop | 325563 | [325563-goof-troop.json](./325563-goof-troop.json) |
 | Goof Troop ST: Space Treasure | 215378 | [215378-goof-troop-st-space-treasure.json](./215378-goof-troop-st-space-treasure.json) |
+| Goofball Goals | 60895 | [60895-goofball-goals.json](./60895-goofball-goals.json) |
 | Goofy Insanity | 259240 | [259240-goofy-insanity.json](./259240-goofy-insanity.json) |
 | Goofy Lil Guys | 335250 | [335250-goofy-lil-guys.json](./335250-goofy-lil-guys.json) |
 | Goofy Monsters - Sokoban Land | 25927 | [25927-goofy-monsters-sokoban-land.json](./25927-goofy-monsters-sokoban-land.json) |
@@ -4341,6 +4346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Rome | 193441 | [193441-grand-theft-rome.json](./193441-grand-theft-rome.json) |
 | Grand Theft Timeline | 410456 | [410456-grand-theft-timeline.json](./410456-grand-theft-timeline.json) |
 | Grand Tits Adventure | 366233 | [366233-grand-tits-adventure.json](./366233-grand-tits-adventure.json) |
+| Grand Tour Racing: GT-R 400 | 60888 | [60888-grand-tour-racing-gt-r-400.json](./60888-grand-tour-racing-gt-r-400.json) |
 | Grand Trucker Aniki: Shigoto to Kenka to Koimoyou | 133781 | [133781-grand-trucker-aniki-shigoto-to-kenka-to-koimoyou.json](./133781-grand-trucker-aniki-shigoto-to-kenka-to-koimoyou.json) |
 | Grand Unified Game | 212692 | [212692-grand-unified-game.json](./212692-grand-unified-game.json) |
 | Grand Values: Monaco | 52224 | [52224-grand-values-monaco.json](./52224-grand-values-monaco.json) |
