@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Plant's Life | 63845 | [63845-a-plants-life.json](./63845-a-plants-life.json) |
 | A Platformer for Ants | 82150 | [82150-a-platformer-for-ants.json](./82150-a-platformer-for-ants.json) |
 | A Playground Afternoon | 402490 | [402490-a-playground-afternoon.json](./402490-a-playground-afternoon.json) |
+| A Plot Story | 59243 | [59243-a-plot-story.json](./59243-a-plot-story.json) |
 | A Pocket Full of Slagford | 404950 | [404950-a-pocket-full-of-slagford.json](./404950-a-pocket-full-of-slagford.json) |
 | A Pointless Adventure | 213346 | [213346-a-pointless-adventure.json](./213346-a-pointless-adventure.json) |
 | A Postcard From Afthonia | 252069 | [252069-a-postcard-from-afthonia.json](./252069-a-postcard-from-afthonia.json) |
@@ -4639,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Walls | 196674 | [196674-among-walls.json](./196674-among-walls.json) |
 | Amora | 102876 | [102876-amora.json](./102876-amora.json) |
 | Amora Crystal | 120790 | [120790-amora-crystal.json](./120790-amora-crystal.json) |
+| Amoreon NightClub | 59241 | [59241-amoreon-nightclub.json](./59241-amoreon-nightclub.json) |
 | Amorous Professor Cherry | 72634 | [72634-amorous-professor-cherry.json](./72634-amorous-professor-cherry.json) |
 | Amorphous | 128658 | [128658-amorphous.json](./128658-amorphous.json) |
 | Amorphous | 265242 | [265242-amorphous.json](./265242-amorphous.json) |
@@ -4842,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Frontier: Tactics | 391310 | [391310-ancient-frontier-tactics.json](./391310-ancient-frontier-tactics.json) |
 | Ancient Frontier: The Crew | 170509 | [170509-ancient-frontier-the-crew.json](./170509-ancient-frontier-the-crew.json) |
 | Ancient Future | 82040 | [82040-ancient-future.json](./82040-ancient-future.json) |
+| Ancient Game Treasures: Mill | 59220 | [59220-ancient-game-treasures-mill.json](./59220-ancient-game-treasures-mill.json) |
 | Ancient Gladiators | 187251 | [187251-ancient-gladiators.json](./187251-ancient-gladiators.json) |
 | Ancient Glory | 129129 | [129129-ancient-glory.json](./129129-ancient-glory.json) |
 | Ancient Guardian | 30479 | [30479-ancient-guardian.json](./30479-ancient-guardian.json) |
@@ -7647,6 +7650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow Flash | 46522 | [46522-arrow-flash.json](./46522-arrow-flash.json) |
 | Arrow Flick | 262463 | [262463-arrow-flick.json](./262463-arrow-flick.json) |
 | Arrow of Laputa | 227979 | [227979-arrow-of-laputa.json](./227979-arrow-of-laputa.json) |
+| Arrow of Laputa: Kage Nashi Sensei to Kiron no Fuuken | 59210 | [59210-arrow-of-laputa-kage-nashi-sensei-to-kiron-no-fuuken.json](./59210-arrow-of-laputa-kage-nashi-sensei-to-kiron-no-fuuken.json) |
 | Arrow Patterns | 267361 | [267361-arrow-patterns.json](./267361-arrow-patterns.json) |
 | Arrow Rain | 351122 | [351122-arrow-rain.json](./351122-arrow-rain.json) |
 | Arrow Snake | 135874 | [135874-arrow-snake.json](./135874-arrow-snake.json) |
@@ -8626,6 +8630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrodle | 291592 | [291592-astrodle.json](./291592-astrodle.json) |
 | Astrodogs | 138055 | [138055-astrodogs.json](./138055-astrodogs.json) |
 | Astrodrifter | 304682 | [304682-astrodrifter.json](./304682-astrodrifter.json) |
+| Astroe | 59234 | [59234-astroe.json](./59234-astroe.json) |
 | AstroFire | 82500 | [82500-astrofire.json](./82500-astrofire.json) |
 | Astroflux | 32875 | [32875-astroflux.json](./32875-astroflux.json) |
 | AstroForge: Space Pirates | 283968 | [283968-astroforge-space-pirates.json](./283968-astroforge-space-pirates.json) |
