@@ -5701,6 +5701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissidia Final Fantasy NT: Steelbook Brawler Edition | 136333 | [136333-dissidia-final-fantasy-nt-steelbook-brawler-edition.json](./136333-dissidia-final-fantasy-nt-steelbook-brawler-edition.json) |
 | Dissimilated Land | 106533 | [106533-dissimilated-land.json](./106533-dissimilated-land.json) |
 | Dissimilation | 86234 | [86234-dissimilation.json](./86234-dissimilation.json) |
+| Dissolution | 107785 | [107785-dissolution.json](./107785-dissolution.json) |
 | Dissolved: Chapter One | 228479 | [228479-dissolved-chapter-one.json](./228479-dissolved-chapter-one.json) |
 | Dissolving | 118821 | [118821-dissolving.json](./118821-dissolving.json) |
 | Dissolving Disarray | 324292 | [324292-dissolving-disarray.json](./324292-dissolving-disarray.json) |
@@ -6194,6 +6195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog In A Box | 113058 | [113058-dog-in-a-box.json](./113058-dog-in-a-box.json) |
 | Dog in the City | 139926 | [139926-dog-in-the-city.json](./139926-dog-in-the-city.json) |
 | Dog in the Machine | 398405 | [398405-dog-in-the-machine.json](./398405-dog-in-the-machine.json) |
+| Dog Jam | 107735 | [107735-dog-jam.json](./107735-dog-jam.json) |
 | Dog Jigsaw from Japan | 397868 | [397868-dog-jigsaw-from-japan.json](./397868-dog-jigsaw-from-japan.json) |
 | Dog Knowse Chapter 1: The Dame | 249790 | [249790-dog-knowse-chapter-1-the-dame.json](./249790-dog-knowse-chapter-1-the-dame.json) |
 | Dog Life Simulator | 214166 | [214166-dog-life-simulator.json](./214166-dog-life-simulator.json) |
@@ -6696,6 +6698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Tap the White Tile | 57324 | [57324-dont-tap-the-white-tile.json](./57324-dont-tap-the-white-tile.json) |
 | Don't Tell My Wife | 396197 | [396197-dont-tell-my-wife.json](./396197-dont-tell-my-wife.json) |
 | Don't Touch Lava | 215038 | [215038-dont-touch-lava.json](./215038-dont-touch-lava.json) |
+| Don't Touch Me | 107796 | [107796-dont-touch-me.json](./107796-dont-touch-me.json) |
 | Don't Touch Me Twice! | 116455 | [116455-dont-touch-me-twice.json](./116455-dont-touch-me-twice.json) |
 | Don't Touch My Phone | 286084 | [286084-dont-touch-my-phone.json](./286084-dont-touch-my-phone.json) |
 | Don't Touch My Teddy Bear | 62772 | [62772-dont-touch-my-teddy-bear.json](./62772-dont-touch-my-teddy-bear.json) |
@@ -8322,6 +8325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw In Maze 2 | 235146 | [235146-draw-in-maze-2.json](./235146-draw-in-maze-2.json) |
 | Draw in the Tray | 380627 | [380627-draw-in-the-tray.json](./380627-draw-in-the-tray.json) |
 | Draw it | 415304 | [415304-draw-it.json](./415304-draw-it.json) |
+| Draw It! 2 | 107753 | [107753-draw-it-2.json](./107753-draw-it-2.json) |
 | Draw Mania | 200155 | [200155-draw-mania.json](./200155-draw-mania.json) |
 | Draw Near | 95600 | [95600-draw-near.json](./95600-draw-near.json) |
 | Draw Nine | 135613 | [135613-draw-nine.json](./135613-draw-nine.json) |
