@@ -3384,6 +3384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Field | 113179 | [113179-alien-field.json](./113179-alien-field.json) |
 | Alien Fish World VR | 379446 | [379446-alien-fish-world-vr.json](./379446-alien-fish-world-vr.json) |
 | Alien Flowers | 229642 | [229642-alien-flowers.json](./229642-alien-flowers.json) |
+| Alien Force | 93201 | [93201-alien-force.json](./93201-alien-force.json) |
 | Alien Front | 206107 | [206107-alien-front.json](./206107-alien-front.json) |
 | Alien Front Online | 3711 | [3711-alien-front-online.json](./3711-alien-front-online.json) |
 | Alien Frontier | 240500 | [240500-alien-frontier.json](./240500-alien-frontier.json) |
