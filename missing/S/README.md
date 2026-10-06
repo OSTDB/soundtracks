@@ -6456,6 +6456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Flags Fun Park | 85164 | [85164-six-flags-fun-park.json](./85164-six-flags-fun-park.json) |
 | Six Floors Under | 296659 | [296659-six-floors-under.json](./296659-six-floors-under.json) |
 | Six in One Translator | 68056 | [68056-six-in-one-translator.json](./68056-six-in-one-translator.json) |
+| Six in One Translator | 85086 | [85086-six-in-one-translator.json](./85086-six-in-one-translator.json) |
 | Six inches deep in mud | 278466 | [278466-six-inches-deep-in-mud.json](./278466-six-inches-deep-in-mud.json) |
 | Six Keys | 276394 | [276394-six-keys.json](./276394-six-keys.json) |
 | Six Match | 82156 | [82156-six-match.json](./82156-six-match.json) |
