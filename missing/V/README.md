@@ -1982,6 +1982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vordakk's Keep | 268425 | [268425-vordakks-keep.json](./268425-vordakks-keep.json) |
 | Vorn's Adventure | 115547 | [115547-vorns-adventure.json](./115547-vorns-adventure.json) |
 | Voron: Raven's Story | 235968 | [235968-voron-ravens-story.json](./235968-voron-ravens-story.json) |
+| Vorpal | 76166 | [76166-vorpal.json](./76166-vorpal.json) |
 | Vortex | 417487 | [417487-vortex.json](./417487-vortex.json) |
 | Vortex | 81436 | [81436-vortex.json](./81436-vortex.json) |
 | Vortex Attack EX | 124235 | [124235-vortex-attack-ex.json](./124235-vortex-attack-ex.json) |
