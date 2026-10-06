@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 284368 | [284368-pac-man.json](./284368-pac-man.json) |
 | Pac-Man | 284369 | [284369-pac-man.json](./284369-pac-man.json) |
 | Pac-Man | 292000 | [292000-pac-man.json](./292000-pac-man.json) |
+| Pac-Man | 63639 | [63639-pac-man.json](./63639-pac-man.json) |
 | Pac-Man | 7559 | [7559-pac-man.json](./7559-pac-man.json) |
 | Pac-Man | 88904 | [88904-pac-man.json](./88904-pac-man.json) |
 | Pac-Man & Galaga Dimensions | 6861 | [6861-pac-man-and-galaga-dimensions.json](./6861-pac-man-and-galaga-dimensions.json) |
@@ -10198,6 +10199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PVPClicker | 382896 | [382896-pvpclicker.json](./382896-pvpclicker.json) |
 | PvPillman | 285463 | [285463-pvpillman.json](./285463-pvpillman.json) |
 | Pwanet Pwotector | 335408 | [335408-pwanet-pwotector.json](./335408-pwanet-pwotector.json) |
+| PWN: Combat Hacking | 63677 | [63677-pwn-combat-hacking.json](./63677-pwn-combat-hacking.json) |
 | Pwn! | 341318 | [341318-pwn.json](./341318-pwn.json) |
 | Pwnz! | 240833 | [240833-pwnz.json](./240833-pwnz.json) |
 | Pwordle | 241405 | [241405-pwordle.json](./241405-pwordle.json) |
