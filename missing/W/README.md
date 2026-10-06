@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars of Napoleon | 33092 | [33092-wars-of-napoleon.json](./33092-wars-of-napoleon.json) |
 | Wars of Prasia | 188381 | [188381-wars-of-prasia.json](./188381-wars-of-prasia.json) |
 | Wars of Succession | 79814 | [79814-wars-of-succession.json](./79814-wars-of-succession.json) |
+| Wars of the Roses: Rosenkönig | 103567 | [103567-wars-of-the-roses-rosenkonig.json](./103567-wars-of-the-roses-rosenkonig.json) |
 | Warsaw Rising: City of Heroes | 115659 | [115659-warsaw-rising-city-of-heroes.json](./115659-warsaw-rising-city-of-heroes.json) |
 | WarShape | 338396 | [338396-warshape.json](./338396-warshape.json) |
 | Warshift | 14075 | [14075-warshift.json](./14075-warshift.json) |
