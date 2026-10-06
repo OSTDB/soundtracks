@@ -5053,6 +5053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetarian: Ultimate Edition | 156191 | [156191-planetarian-ultimate-edition.json](./156191-planetarian-ultimate-edition.json) |
 | Planetarix | 108906 | [108906-planetarix.json](./108906-planetarix.json) |
 | Planetary Annihilation: Titans | 18962 | [18962-planetary-annihilation-titans.json](./18962-planetary-annihilation-titans.json) |
+| Planetary Campaign | 92111 | [92111-planetary-campaign.json](./92111-planetary-campaign.json) |
 | Planetary Defense | 164862 | [164862-planetary-defense.json](./164862-planetary-defense.json) |
 | Planetary Defense Force | 129787 | [129787-planetary-defense-force.json](./129787-planetary-defense-force.json) |
 | Planetary Deliver | 188929 | [188929-planetary-deliver.json](./188929-planetary-deliver.json) |
@@ -9256,6 +9257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PukePuke Demon | 103636 | [103636-pukepuke-demon.json](./103636-pukepuke-demon.json) |
 | Pukunpa: Joshikousei No Houkago | 71023 | [71023-pukunpa-joshikousei-no-houkago.json](./71023-pukunpa-joshikousei-no-houkago.json) |
 | Pulang Insanity: Director's Cut | 117769 | [117769-pulang-insanity-directors-cut.json](./117769-pulang-insanity-directors-cut.json) |
+| Puliton | 92110 | [92110-puliton.json](./92110-puliton.json) |
 | Pull | 148954 | [148954-pull.json](./148954-pull.json) |
 | Pull Ball | 114361 | [114361-pull-ball.json](./114361-pull-ball.json) |
 | Pull Him Up: Pull the Pin Out | 227952 | [227952-pull-him-up-pull-the-pin-out.json](./227952-pull-him-up-pull-the-pin-out.json) |
@@ -9884,6 +9886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle of Words | 37301 | [37301-puzzle-of-words.json](./37301-puzzle-of-words.json) |
 | Puzzle Out - Dots, Hexa Lines, Pipes, Tangram | 107101 | [107101-puzzle-out-dots-hexa-lines-pipes-tangram.json](./107101-puzzle-out-dots-hexa-lines-pipes-tangram.json) |
 | Puzzle Page | 91122 | [91122-puzzle-page.json](./91122-puzzle-page.json) |
+| Puzzle Panic | 92146 | [92146-puzzle-panic.json](./92146-puzzle-panic.json) |
 | Puzzle Parasite | 366826 | [366826-puzzle-parasite.json](./366826-puzzle-parasite.json) |
 | Puzzle Park | 215882 | [215882-puzzle-park.json](./215882-puzzle-park.json) |
 | Puzzle Party | 132275 | [132275-puzzle-party.json](./132275-puzzle-party.json) |
