@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanalika | 180296 | [180296-sanalika.json](./180296-sanalika.json) |
 | Sanasana | 411754 | [411754-sanasana.json](./411754-sanasana.json) |
 | Sanatorium | 375324 | [375324-sanatorium.json](./375324-sanatorium.json) |
+| Sanatorium | 64722 | [64722-sanatorium.json](./64722-sanatorium.json) |
 | Sanatorium: A Mental Asylum Simulator | 213369 | [213369-sanatorium-a-mental-asylum-simulator.json](./213369-sanatorium-a-mental-asylum-simulator.json) |
 | Sanctale | 350431 | [350431-sanctale.json](./350431-sanctale.json) |
 | Sancticide | 291154 | [291154-sancticide.json](./291154-sancticide.json) |
@@ -4076,6 +4077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shan's Salty Seamen | 176291 | [176291-shans-salty-seamen.json](./176291-shans-salty-seamen.json) |
 | Shane Warne's Cricket Test Interactive DVD Game | 352193 | [352193-shane-warnes-cricket-test-interactive-dvd-game.json](./352193-shane-warnes-cricket-test-interactive-dvd-game.json) |
 | Shane's Trains | 400325 | [400325-shanes-trains.json](./400325-shanes-trains.json) |
+| Shanghai | 64739 | [64739-shanghai.json](./64739-shanghai.json) |
 | Shanghai Double Pack | 128644 | [128644-shanghai-double-pack.json](./128644-shanghai-double-pack.json) |
 | Shanghai Dragon | 331987 | [331987-shanghai-dragon.json](./331987-shanghai-dragon.json) |
 | Shanghai DS | 84855 | [84855-shanghai-ds.json](./84855-shanghai-ds.json) |
@@ -5824,6 +5826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hunter Patrol Disk #2 | 77311 | [77311-silent-hunter-patrol-disk-2.json](./77311-silent-hunter-patrol-disk-2.json) |
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
 | Silent Iron | 94866 | [94866-silent-iron.json](./94866-silent-iron.json) |
+| Silent Mobius | 64742 | [64742-silent-mobius.json](./64742-silent-mobius.json) |
 | Silent Möbius | 401739 | [401739-silent-mobius.json](./401739-silent-mobius.json) |
 | Silent Mobius: Case - Titanic | 214432 | [214432-silent-mobius-case-titanic.json](./214432-silent-mobius-case-titanic.json) |
 | Silent Mobius: Genei no Datenshi | 166498 | [166498-silent-mobius-genei-no-datenshi.json](./166498-silent-mobius-genei-no-datenshi.json) |
@@ -13800,6 +13803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starback: Planetdestroyer Redux | 101724 | [101724-starback-planetdestroyer-redux.json](./101724-starback-planetdestroyer-redux.json) |
 | Starbase Gunship | 192772 | [192772-starbase-gunship.json](./192772-starbase-gunship.json) |
 | Starbase Hyperion | 282149 | [282149-starbase-hyperion.json](./282149-starbase-hyperion.json) |
+| Starbeast | 64709 | [64709-starbeast.json](./64709-starbeast.json) |
 | Starbirds | 73292 | [73292-starbirds.json](./73292-starbirds.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
 | Starblaze | 42133 | [42133-starblaze.json](./42133-starblaze.json) |
@@ -18030,6 +18034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Miners | 333792 | [333792-super-miners.json](./333792-super-miners.json) |
 | Super MineSweeper | 309683 | [309683-super-minesweeper.json](./309683-super-minesweeper.json) |
 | Super Mini Mart | 204530 | [204530-super-mini-mart.json](./204530-super-mini-mart.json) |
+| Super Mini Puzzle Heroes | 64711 | [64711-super-mini-puzzle-heroes.json](./64711-super-mini-puzzle-heroes.json) |
 | Super Mining Mechs | 319672 | [319672-super-mining-mechs.json](./319672-super-mining-mechs.json) |
 | Super Mining Mechs: Toxic Treasures | 340567 | [340567-super-mining-mechs-toxic-treasures.json](./340567-super-mining-mechs-toxic-treasures.json) |
 | Super Mombo Quest | 139438 | [139438-super-mombo-quest.json](./139438-super-mombo-quest.json) |
