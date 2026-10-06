@@ -3371,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross-8 | 362915 | [362915-picross-8.json](./362915-picross-8.json) |
 | Picross: Lord of the Nazarick | 120899 | [120899-picross-lord-of-the-nazarick.json](./120899-picross-lord-of-the-nazarick.json) |
 | Picross.io | 126640 | [126640-picross-io.json](./126640-picross-io.json) |
+| Pics Towers of Defense | 110275 | [110275-pics-towers-of-defense.json](./110275-pics-towers-of-defense.json) |
 | Picscape | 339347 | [339347-picscape.json](./339347-picscape.json) |
 | Pictassembler | 127178 | [127178-pictassembler.json](./127178-pictassembler.json) |
 | Picterra | 305957 | [305957-picterra.json](./305957-picterra.json) |
@@ -8264,6 +8265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 1v1 (working title) | 131448 | [131448-project-1v1-working-title.json](./131448-project-1v1-working-title.json) |
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
 | Project 3 VR | 98586 | [98586-project-3-vr.json](./98586-project-3-vr.json) |
+| Project 37 | 110224 | [110224-project-37.json](./110224-project-37.json) |
 | Project 44: Enlightenment | 220657 | [220657-project-44-enlightenment.json](./220657-project-44-enlightenment.json) |
 | Project 5: Sightseer | 76122 | [76122-project-5-sightseer.json](./76122-project-5-sightseer.json) |
 | Project 83113 | 22267 | [22267-project-83113.json](./22267-project-83113.json) |
@@ -9248,6 +9250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Invasion | 180025 | [180025-pumpkin-invasion.json](./180025-pumpkin-invasion.json) |
 | Pumpkin Jam | 269562 | [269562-pumpkin-jam.json](./269562-pumpkin-jam.json) |
 | PumpKin Majo | 235704 | [235704-pumpkin-majo.json](./235704-pumpkin-majo.json) |
+| Pumpkin Online | 110273 | [110273-pumpkin-online.json](./110273-pumpkin-online.json) |
 | Pumpkin Panic | 257329 | [257329-pumpkin-panic.json](./257329-pumpkin-panic.json) |
 | Pumpkin Restaurant | 345064 | [345064-pumpkin-restaurant.json](./345064-pumpkin-restaurant.json) |
 | Pumpkin Story | 201571 | [201571-pumpkin-story.json](./201571-pumpkin-story.json) |
@@ -9627,6 +9630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition | 85357 | [85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json](./85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json) |
 | Puzzle & Dragons: Super Mario Bros. Edition | 59517 | [59517-puzzle-and-dragons-super-mario-bros-edition.json](./59517-puzzle-and-dragons-super-mario-bros-edition.json) |
 | Puzzle & Glory | 13105 | [13105-puzzle-and-glory.json](./13105-puzzle-and-glory.json) |
+| Puzzle & Heroes | 110225 | [110225-puzzle-and-heroes.json](./110225-puzzle-and-heroes.json) |
 | Puzzle & Maze | 152870 | [152870-puzzle-and-maze.json](./152870-puzzle-and-maze.json) |
 | Puzzle & Monarch | 345589 | [345589-puzzle-and-monarch.json](./345589-puzzle-and-monarch.json) |
 | Puzzle 10 | 256221 | [256221-puzzle-10.json](./256221-puzzle-10.json) |
