@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Five-Day Tour in the Morgue | 117580 | [117580-a-five-day-tour-in-the-morgue.json](./117580-a-five-day-tour-in-the-morgue.json) |
 | A Flappy Bird in Real Life | 111077 | [111077-a-flappy-bird-in-real-life.json](./111077-a-flappy-bird-in-real-life.json) |
 | A Flicker of Light | 188449 | [188449-a-flicker-of-light.json](./188449-a-flicker-of-light.json) |
+| A Flipping Good Time | 92592 | [92592-a-flipping-good-time.json](./92592-a-flipping-good-time.json) |
 | A Flower from Hermes | 185015 | [185015-a-flower-from-hermes.json](./185015-a-flower-from-hermes.json) |
 | A Fly in the Array | 387613 | [387613-a-fly-in-the-array.json](./387613-a-fly-in-the-array.json) |
 | A Fool's Art Gallery | 268144 | [268144-a-fools-art-gallery.json](./268144-a-fools-art-gallery.json) |
@@ -848,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaron Stone | 282238 | [282238-aaron-stone.json](./282238-aaron-stone.json) |
 | Aaron vs. Ruth: Battle of the Big Bats | 69280 | [69280-aaron-vs-ruth-battle-of-the-big-bats.json](./69280-aaron-vs-ruth-battle-of-the-big-bats.json) |
 | Aaron's Particle Space | 185416 | [185416-aarons-particle-space.json](./185416-aarons-particle-space.json) |
+| Aaron's Ping Pong | 92663 | [92663-aarons-ping-pong.json](./92663-aarons-ping-pong.json) |
 | AAS Mos Apocalypse | 283871 | [283871-aas-mos-apocalypse.json](./283871-aas-mos-apocalypse.json) |
 | Aashaa | 232969 | [232969-aashaa.json](./232969-aashaa.json) |
 | AashMans Party Mix | 356897 | [356897-aashmans-party-mix.json](./356897-aashmans-party-mix.json) |
@@ -1647,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advent Calendar | 379475 | [379475-advent-calendar.json](./379475-advent-calendar.json) |
 | Advent Crossroad | 154404 | [154404-advent-crossroad.json](./154404-advent-crossroad.json) |
 | Advent of God: Legends | 304168 | [304168-advent-of-god-legends.json](./304168-advent-of-god-legends.json) |
+| Advent Shadow | 92698 | [92698-advent-shadow.json](./92698-advent-shadow.json) |
 | Advent/Archive | 352363 | [352363-advent-archive.json](./352363-advent-archive.json) |
 | Adventopia | 355216 | [355216-adventopia.json](./355216-adventopia.json) |
 | Adventure | 12239 | [12239-adventure.json](./12239-adventure.json) |
@@ -7506,6 +7509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arraynium | 68716 | [68716-arraynium.json](./68716-arraynium.json) |
 | Arre Unicornio | 188583 | [188583-arre-unicornio.json](./188583-arre-unicornio.json) |
 | Arrest of a Stone Buddha | 122373 | [122373-arrest-of-a-stone-buddha.json](./122373-arrest-of-a-stone-buddha.json) |
+| Arriba! | 92668 | [92668-arriba.json](./92668-arriba.json) |
 | Arrival | 256831 | [256831-arrival.json](./256831-arrival.json) |
 | Arrival of Beasts | 152228 | [152228-arrival-of-beasts.json](./152228-arrival-of-beasts.json) |
 | Arrival of the Punnu | 194992 | [194992-arrival-of-the-punnu.json](./194992-arrival-of-the-punnu.json) |
