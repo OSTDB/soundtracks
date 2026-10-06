@@ -1148,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarcophaser | 54719 | [54719-sarcophaser.json](./54719-sarcophaser.json) |
 | Sare Inception | 120931 | [120931-sare-inception.json](./120931-sare-inception.json) |
 | Sargasso | 261544 | [261544-sargasso.json](./261544-sargasso.json) |
+| Sargon 4 | 68874 | [68874-sargon-4.json](./68874-sargon-4.json) |
 | Sargon Chess | 46568 | [46568-sargon-chess.json](./46568-sargon-chess.json) |
 | Sargon I | 83263 | [83263-sargon-i.json](./83263-sargon-i.json) |
 | Sargon II | 47209 | [47209-sargon-ii.json](./47209-sargon-ii.json) |
@@ -1297,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saut | 242578 | [242578-saut.json](./242578-saut.json) |
 | Savage | 129527 | [129527-savage.json](./129527-savage.json) |
 | Savage Age | 294839 | [294839-savage-age.json](./294839-savage-age.json) |
+| Savage Arena | 68895 | [68895-savage-arena.json](./68895-savage-arena.json) |
 | Savage Bliss | 23919 | [23919-savage-bliss.json](./23919-savage-bliss.json) |
 | Savage Gears | 319685 | [319685-savage-gears.json](./319685-savage-gears.json) |
 | Savage Girls | 272940 | [272940-savage-girls.json](./272940-savage-girls.json) |
@@ -1567,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Bendy Neighbor Simulator - Bendy Games 2018 | 103902 | [103902-scary-bendy-neighbor-simulator-bendy-games-2018.json](./103902-scary-bendy-neighbor-simulator-bendy-games-2018.json) |
 | Scary Bucketman | 319950 | [319950-scary-bucketman.json](./319950-scary-bucketman.json) |
 | Scary Buddies | 167717 | [167717-scary-buddies.json](./167717-scary-buddies.json) |
+| Scary Cabin | 68903 | [68903-scary-cabin.json](./68903-scary-cabin.json) |
 | Scary Cave Diving | 410301 | [410301-scary-cave-diving.json](./410301-scary-cave-diving.json) |
 | Scary Clown Death of Park | 235165 | [235165-scary-clown-death-of-park.json](./235165-scary-clown-death-of-park.json) |
 | Scary defense | 93731 | [93731-scary-defense.json](./93731-scary-defense.json) |
@@ -8572,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Legends | 322988 | [322988-snowboard-legends.json](./322988-snowboard-legends.json) |
 | Snowboard Madness | 325274 | [325274-snowboard-madness.json](./325274-snowboard-madness.json) |
 | Snowboard Park 2004 Season Pass | 205119 | [205119-snowboard-park-2004-season-pass.json](./205119-snowboard-park-2004-season-pass.json) |
+| Snowboard Park Tycoon | 68881 | [68881-snowboard-park-tycoon.json](./68881-snowboard-park-tycoon.json) |
 | Snowboard Party | 71202 | [71202-snowboard-party.json](./71202-snowboard-party.json) |
 | Snowboard Party World Tour Pro | 88189 | [88189-snowboard-party-world-tour-pro.json](./88189-snowboard-party-world-tour-pro.json) |
 | Snowboard Party: Aspen | 86954 | [86954-snowboard-party-aspen.json](./86954-snowboard-party-aspen.json) |
@@ -9142,6 +9146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire 220 Plus | 31102 | [31102-solitaire-220-plus.json](./31102-solitaire-220-plus.json) |
 | Solitaire 3D | 89738 | [89738-solitaire-3d.json](./89738-solitaire-3d.json) |
 | Solitaire After Hours | 386147 | [386147-solitaire-after-hours.json](./386147-solitaire-after-hours.json) |
+| Solitaire Antics Deluxe | 68906 | [68906-solitaire-antics-deluxe.json](./68906-solitaire-antics-deluxe.json) |
 | Solitaire Antics Ultimate | 208876 | [208876-solitaire-antics-ultimate.json](./208876-solitaire-antics-ultimate.json) |
 | Solitaire Antics Ultimate Plus | 54388 | [54388-solitaire-antics-ultimate-plus.json](./54388-solitaire-antics-ultimate-plus.json) |
 | Solitaire Battle | 353365 | [353365-solitaire-battle.json](./353365-solitaire-battle.json) |
@@ -13406,6 +13411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Rangers | 70074 | [70074-star-rangers.json](./70074-star-rangers.json) |
 | Star Rank Boxing | 57664 | [57664-star-rank-boxing.json](./57664-star-rank-boxing.json) |
 | Star Rank Boxing II | 69871 | [69871-star-rank-boxing-ii.json](./69871-star-rank-boxing-ii.json) |
+| Star Reach | 68908 | [68908-star-reach.json](./68908-star-reach.json) |
 | Star Realms | 21324 | [21324-star-realms.json](./21324-star-realms.json) |
 | Star Realms: Bases and Battleships | 163284 | [163284-star-realms-bases-and-battleships.json](./163284-star-realms-bases-and-battleships.json) |
 | Star Realms: Colony Wars | 163288 | [163288-star-realms-colony-wars.json](./163288-star-realms-colony-wars.json) |
@@ -19840,6 +19846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Soldiers | 210262 | [210262-swords-and-soldiers.json](./210262-swords-and-soldiers.json) |
 | Swords & Soldiers II | 19975 | [19975-swords-and-soldiers-ii.json](./19975-swords-and-soldiers-ii.json) |
 | Swords & Soldiers: Super Saucy Sausage Fest | 109470 | [109470-swords-and-soldiers-super-saucy-sausage-fest.json](./109470-swords-and-soldiers-super-saucy-sausage-fest.json) |
+| Swords and Galleons | 68985 | [68985-swords-and-galleons.json](./68985-swords-and-galleons.json) |
 | Swords and Sandals 2 Redux: Maximus Edition | 43131 | [43131-swords-and-sandals-2-redux-maximus-edition.json](./43131-swords-and-sandals-2-redux-maximus-edition.json) |
 | Swords and Sandals 5 Redux | 81817 | [81817-swords-and-sandals-5-redux.json](./81817-swords-and-sandals-5-redux.json) |
 | Swords and Sandals Classic Collection | 117173 | [117173-swords-and-sandals-classic-collection.json](./117173-swords-and-sandals-classic-collection.json) |
