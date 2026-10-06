@@ -2584,6 +2584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill and Cross: Trick or Treat 3! | 94877 | [94877-fill-and-cross-trick-or-treat-3.json](./94877-fill-and-cross-trick-or-treat-3.json) |
 | Fill and Cross. Pirate Riddles | 100348 | [100348-fill-and-cross-pirate-riddles.json](./100348-fill-and-cross-pirate-riddles.json) |
 | Fill Fill | 362399 | [362399-fill-fill.json](./362399-fill-fill.json) |
+| Fill In | 105832 | [105832-fill-in.json](./105832-fill-in.json) |
 | Fill in the Holes | 205027 | [205027-fill-in-the-holes.json](./205027-fill-in-the-holes.json) |
 | Fill me up | 190050 | [190050-fill-me-up.json](./190050-fill-me-up.json) |
 | Fill Missing Letters | 187977 | [187977-fill-missing-letters.json](./187977-fill-missing-letters.json) |
@@ -4837,6 +4838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Guess: Pixel Art Trivia | 405477 | [405477-food-guess-pixel-art-trivia.json](./405477-food-guess-pixel-art-trivia.json) |
 | Food Maze | 234678 | [234678-food-maze.json](./234678-food-maze.json) |
 | Food Poppers | 189031 | [189031-food-poppers.json](./189031-food-poppers.json) |
+| Food Truck Chef | 105841 | [105841-food-truck-chef.json](./105841-food-truck-chef.json) |
 | Food Truck Monopoly | 348875 | [348875-food-truck-monopoly.json](./348875-food-truck-monopoly.json) |
 | Food Truck Shop Simulator | 350537 | [350537-food-truck-shop-simulator.json](./350537-food-truck-shop-simulator.json) |
 | Food Truck Simulator | 129109 | [129109-food-truck-simulator.json](./129109-food-truck-simulator.json) |
@@ -6892,6 +6894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Machine Simulator | 72639 | [72639-fruit-machine-simulator.json](./72639-fruit-machine-simulator.json) |
 | Fruit Machine Simulator 2 | 72607 | [72607-fruit-machine-simulator-2.json](./72607-fruit-machine-simulator-2.json) |
 | Fruit Mart Simulator | 349325 | [349325-fruit-mart-simulator.json](./349325-fruit-mart-simulator.json) |
+| Fruit Master | 105852 | [105852-fruit-master.json](./105852-fruit-master.json) |
 | Fruit Merge | 322806 | [322806-fruit-merge.json](./322806-fruit-merge.json) |
 | Fruit Mountain Party | 334302 | [334302-fruit-mountain-party.json](./334302-fruit-mountain-party.json) |
 | Fruit Ninja | 1684 | [1684-fruit-ninja.json](./1684-fruit-ninja.json) |
