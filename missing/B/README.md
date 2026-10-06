@@ -2007,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bands: Rock & Roll Deckbuilder | 155551 | [155551-battle-bands-rock-and-roll-deckbuilder.json](./155551-battle-bands-rock-and-roll-deckbuilder.json) |
 | Battle Barn: Tactics | 190054 | [190054-battle-barn-tactics.json](./190054-battle-barn-tactics.json) |
 | Battle Bean | 291239 | [291239-battle-bean.json](./291239-battle-bean.json) |
+| Battle Bears 1 Mac | 88639 | [88639-battle-bears-1-mac.json](./88639-battle-bears-1-mac.json) |
 | Battle Bears 1: Zombies | 171453 | [171453-battle-bears-1-zombies.json](./171453-battle-bears-1-zombies.json) |
 | Battle Bears Comics | 62247 | [62247-battle-bears-comics.json](./62247-battle-bears-comics.json) |
 | Battle Bears Gold | 62423 | [62423-battle-bears-gold.json](./62423-battle-bears-gold.json) |
@@ -2497,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship Naval Combat | 366404 | [366404-battleship-naval-combat.json](./366404-battleship-naval-combat.json) |
 | Battleship War Multiplayer | 325534 | [325534-battleship-war-multiplayer.json](./325534-battleship-war-multiplayer.json) |
 | Battleship War: Time to Sink the Fleet | 215116 | [215116-battleship-war-time-to-sink-the-fleet.json](./215116-battleship-war-time-to-sink-the-fleet.json) |
+| Battleship: Online Game Hall | 88649 | [88649-battleship-online-game-hall.json](./88649-battleship-online-game-hall.json) |
 | Battleships | 193863 | [193863-battleships.json](./193863-battleships.json) |
 | Battleships and Carriers: WW2 Battleship Game | 111706 | [111706-battleships-and-carriers-ww2-battleship-game.json](./111706-battleships-and-carriers-ww2-battleship-game.json) |
 | Battleships At Dawn! | 33488 | [33488-battleships-at-dawn.json](./33488-battleships-at-dawn.json) |
@@ -7528,6 +7530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Kingdoms | 397768 | [397768-bouncy-kingdoms.json](./397768-bouncy-kingdoms.json) |
 | Bouncy Pork Simulator | 339394 | [339394-bouncy-pork-simulator.json](./339394-bouncy-pork-simulator.json) |
 | Bouncy Smash | 89184 | [89184-bouncy-smash.json](./89184-bouncy-smash.json) |
+| Bouncy Toys | 88655 | [88655-bouncy-toys.json](./88655-bouncy-toys.json) |
 | Bouncy! Trampoline | 233520 | [233520-bouncy-trampoline.json](./233520-bouncy-trampoline.json) |
 | Bouncy's Abyssal Excursion | 382455 | [382455-bouncys-abyssal-excursion.json](./382455-bouncys-abyssal-excursion.json) |
 | Bouncy's Obstacle Course | 377829 | [377829-bouncys-obstacle-course.json](./377829-bouncys-obstacle-course.json) |
@@ -7633,6 +7636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Fever: Grand Edition | 396914 | [396914-bowling-fever-grand-edition.json](./396914-bowling-fever-grand-edition.json) |
 | Bowling Fever: Power Edition | 399811 | [399811-bowling-fever-power-edition.json](./399811-bowling-fever-power-edition.json) |
 | Bowling Fever: Superior Edition | 317915 | [317915-bowling-fever-superior-edition.json](./317915-bowling-fever-superior-edition.json) |
+| Bowling Game 3D | 88584 | [88584-bowling-game-3d.json](./88584-bowling-game-3d.json) |
 | Bowling Islands | 234616 | [234616-bowling-islands.json](./234616-bowling-islands.json) |
 | Bowling Party | 58257 | [58257-bowling-party.json](./58257-bowling-party.json) |
 | Bowling Street | 96913 | [96913-bowling-street.json](./96913-bowling-street.json) |
