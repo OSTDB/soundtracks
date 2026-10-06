@@ -4713,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokko Spaces | 404866 | [404866-hokko-spaces.json](./404866-hokko-spaces.json) |
 | Hokra | 65032 | [65032-hokra.json](./65032-hokra.json) |
 | Hokusai | 106540 | [106540-hokusai.json](./106540-hokusai.json) |
+| Hokuto no Ken | 100267 | [100267-hokuto-no-ken.json](./100267-hokuto-no-ken.json) |
 | Hokuto no Ken | 46115 | [46115-hokuto-no-ken.json](./46115-hokuto-no-ken.json) |
 | Hokuto no Ken 5: Tenma Ryuusei-den Ai Zesshou | 42552 | [42552-hokuto-no-ken-5-tenma-ryuusei-den-ai-zesshou.json](./42552-hokuto-no-ken-5-tenma-ryuusei-den-ai-zesshou.json) |
 | Hokuto no Ken 7: Seiken Retsuden Denshousha he no Michi | 38337 | [38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json](./38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json) |
