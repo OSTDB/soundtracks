@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
 | Absolute Matter | 219697 | [219697-absolute-matter.json](./219697-absolute-matter.json) |
 | Absolute Pinball | 12376 | [12376-absolute-pinball.json](./12376-absolute-pinball.json) |
+| Absolute RC Simulator | 104560 | [104560-absolute-rc-simulator.json](./104560-absolute-rc-simulator.json) |
 | Absolute Solitaire & Patience | 91558 | [91558-absolute-solitaire-and-patience.json](./91558-absolute-solitaire-and-patience.json) |
 | Absolute Talent | 227209 | [227209-absolute-talent.json](./227209-absolute-talent.json) |
 | Absolute Territory: The Space Combat Simulator | 137997 | [137997-absolute-territory-the-space-combat-simulator.json](./137997-absolute-territory-the-space-combat-simulator.json) |
@@ -1259,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces Up! | 366399 | [366399-aces-up.json](./366399-aces-up.json) |
 | Aces: The Complete Collector's Edition | 206206 | [206206-aces-the-complete-collectors-edition.json](./206206-aces-the-complete-collectors-edition.json) |
 | AceSurvivor | 379465 | [379465-acesurvivor.json](./379465-acesurvivor.json) |
+| Achaem | 104680 | [104680-achaem.json](./104680-achaem.json) |
 | Acheron | 154386 | [154386-acheron.json](./154386-acheron.json) |
 | Acheron's Souls | 150121 | [150121-acherons-souls.json](./150121-acherons-souls.json) |
 | Achi: Strategy Game | 142973 | [142973-achi-strategy-game.json](./142973-achi-strategy-game.json) |
@@ -1481,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ADElaide | 399770 | [399770-adelaide.json](./399770-adelaide.json) |
 | Adelamyth: Casual Idle RPG | 223932 | [223932-adelamyth-casual-idle-rpg.json](./223932-adelamyth-casual-idle-rpg.json) |
 | Adelantado Trilogy: Book Two | 76652 | [76652-adelantado-trilogy-book-two.json](./76652-adelantado-trilogy-book-two.json) |
+| Adelantado. 4 Aztec skulls | 104665 | [104665-adelantado-4-aztec-skulls.json](./104665-adelantado-4-aztec-skulls.json) |
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
 | Adeona | 148117 | [148117-adeona.json](./148117-adeona.json) |
 | Adequately Ever After | 337795 | [337795-adequately-ever-after.json](./337795-adequately-ever-after.json) |
@@ -3172,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfa-Arkiv | 60793 | [60793-alfa-arkiv.json](./60793-alfa-arkiv.json) |
 | Alfabet Nauka czytania i pisania | 318485 | [318485-alfabet-nauka-czytania-i-pisania.json](./318485-alfabet-nauka-czytania-i-pisania.json) |
 | Alfabet Śmierci | 14238 | [14238-alfabet-smierci.json](./14238-alfabet-smierci.json) |
+| Alfabit Gonki za Poteryannymi Bukvami (Byez Peklamy) | 104570 | [104570-alfabit-gonki-za-poteryannymi-bukvami-byez-peklamy.json](./104570-alfabit-gonki-za-poteryannymi-bukvami-byez-peklamy.json) |
 | Alfal's Grove | 132651 | [132651-alfals-grove.json](./132651-alfals-grove.json) |
 | Alfons World | 345053 | [345053-alfons-world.json](./345053-alfons-world.json) |
 | Alfonzo's Arctic Adventure | 122808 | [122808-alfonzos-arctic-adventure.json](./122808-alfonzos-arctic-adventure.json) |
