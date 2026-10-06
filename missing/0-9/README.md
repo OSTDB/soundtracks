@@ -1277,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 40 x Escape | 222924 | [222924-40-x-escape.json](./222924-40-x-escape.json) |
 | 400 Minutes of /vr/ | 274120 | [274120-400-minutes-of-vr.json](./274120-400-minutes-of-vr.json) |
 | 400 Years | 12383 | [12383-400-years.json](./12383-400-years.json) |
+| 4004-022 | 117566 | [117566-4004-022.json](./117566-4004-022.json) |
 | 4004Ripper | 342062 | [342062-4004ripper.json](./342062-4004ripper.json) |
 | 404 Knight | 277397 | [277397-404-knight.json](./277397-404-knight.json) |
 | 404: Game Not Found | 379456 | [379456-404-game-not-found.json](./379456-404-game-not-found.json) |
