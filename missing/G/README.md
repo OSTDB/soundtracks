@@ -3017,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Shurihito | 181341 | [181341-go-go-shurihito.json](./181341-go-go-shurihito.json) |
 | Go! Princess PreCure: Sugar Oukoku to 6-nin no Princess! | 222540 | [222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json](./222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json) |
 | Go! Save The Queen! | 289864 | [289864-go-save-the-queen.json](./289864-go-save-the-queen.json) |
+| Go! Sports Ski | 72936 | [72936-go-sports-ski.json](./72936-go-sports-ski.json) |
 | Go! Super Awesome Monkey! | 414329 | [414329-go-super-awesome-monkey.json](./414329-go-super-awesome-monkey.json) |
 | Go!Go! Usa-chan Ressha | 242081 | [242081-go-go-usa-chan-ressha.json](./242081-go-go-usa-chan-ressha.json) |
 | Goaaal | 200131 | [200131-goaaal.json](./200131-goaaal.json) |
@@ -4863,6 +4864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grégoire Lefèbvre Investigations: The Vow of Hate | 390670 | [390670-gregoire-lefebvre-investigations-the-vow-of-hate.json](./390670-gregoire-lefebvre-investigations-the-vow-of-hate.json) |
 | Gregor | 244330 | [244330-gregor.json](./244330-gregor.json) |
 | Gregor's Notebook | 253938 | [253938-gregors-notebook.json](./253938-gregors-notebook.json) |
+| Gregory & the Hot Air Balloon | 72932 | [72932-gregory-and-the-hot-air-balloon.json](./72932-gregory-and-the-hot-air-balloon.json) |
 | Gregory Horror Show | 22252 | [22252-gregory-horror-show.json](./22252-gregory-horror-show.json) |
 | Gregory Horror Show | 292825 | [292825-gregory-horror-show.json](./292825-gregory-horror-show.json) |
 | Gregory Horror Show Soul of Roses | 320168 | [320168-gregory-horror-show-soul-of-roses.json](./320168-gregory-horror-show-soul-of-roses.json) |
