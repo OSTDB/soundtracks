@@ -803,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raishi | 222500 | [222500-raishi.json](./222500-raishi.json) |
 | Raisin Wordsearch | 394211 | [394211-raisin-wordsearch.json](./394211-raisin-wordsearch.json) |
 | Raising a Happy NEET | 417618 | [417618-raising-a-happy-neet.json](./417618-raising-a-happy-neet.json) |
+| Raising Dead | 116960 | [116960-raising-dead.json](./116960-raising-dead.json) |
 | Raising the Bar: Salvation | 281376 | [281376-raising-the-bar-salvation.json](./281376-raising-the-bar-salvation.json) |
 | Raising Torolith | 152885 | [152885-raising-torolith.json](./152885-raising-torolith.json) |
 | Raji: An Ancient Epic - Enhanced Edition | 152175 | [152175-raji-an-ancient-epic-enhanced-edition.json](./152175-raji-an-ancient-epic-enhanced-edition.json) |
@@ -7035,6 +7036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Rabbit | 267796 | [267796-rusty-rabbit.json](./267796-rusty-rabbit.json) |
 | Rusty Ride | 266794 | [266794-rusty-ride.json](./266794-rusty-ride.json) |
 | Rusty Road Racing | 324924 | [324924-rusty-road-racing.json](./324924-rusty-road-racing.json) |
+| Rusty Runner | 116938 | [116938-rusty-runner.json](./116938-rusty-runner.json) |
 | Rusty Seas | 207319 | [207319-rusty-seas.json](./207319-rusty-seas.json) |
 | Rusty Stings | 2962 | [2962-rusty-stings.json](./2962-rusty-stings.json) |
 | Rusty Vein | 411714 | [411714-rusty-vein.json](./411714-rusty-vein.json) |
