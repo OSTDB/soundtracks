@@ -1044,6 +1044,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjick: The Realm Taker | 265129 | [265129-mahjick-the-realm-taker.json](./265129-mahjick-the-realm-taker.json) |
 | Mahjong | 131431 | [131431-mahjong.json](./131431-mahjong.json) |
 | Mahjong | 306028 | [306028-mahjong.json](./306028-mahjong.json) |
+| Mahjong | 86367 | [86367-mahjong.json](./86367-mahjong.json) |
+| Mahjong | 86409 | [86409-mahjong.json](./86409-mahjong.json) |
 | Mahjong | 90692 | [90692-mahjong.json](./90692-mahjong.json) |
 | Mahjong 16 TW | 334339 | [334339-mahjong-16-tw.json](./334339-mahjong-16-tw.json) |
 | Mahjong 300 | 401018 | [401018-mahjong-300.json](./401018-mahjong-300.json) |
@@ -2765,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mask Fighting:Otherworldly Awakening | 357809 | [357809-mask-fighting-otherworldly-awakening.json](./357809-mask-fighting-otherworldly-awakening.json) |
 | Mask II | 39125 | [39125-mask-ii.json](./39125-mask-ii.json) |
 | Mask of Fury | 125434 | [125434-mask-of-fury.json](./125434-mask-of-fury.json) |
+| Mask of Fury | 86419 | [86419-mask-of-fury.json](./86419-mask-of-fury.json) |
 | Mask of Lion | 233626 | [233626-mask-of-lion.json](./233626-mask-of-lion.json) |
 | Mask of Sanity | 121696 | [121696-mask-of-sanity.json](./121696-mask-of-sanity.json) |
 | Mask of the Plague Doctor | 129712 | [129712-mask-of-the-plague-doctor.json](./129712-mask-of-the-plague-doctor.json) |
@@ -7247,6 +7250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Chou Party: Sanae to Tenshi no Gensou Labyrinth | 206944 | [206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json](./206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json) |
 | Miracle Circus | 110365 | [110365-miracle-circus.json](./110365-miracle-circus.json) |
 | Miracle Girls Festival | 13658 | [13658-miracle-girls-festival.json](./13658-miracle-girls-festival.json) |
+| Miracle Girls Festival | 86426 | [86426-miracle-girls-festival.json](./86426-miracle-girls-festival.json) |
 | Miracle Heroes: Temporal Bounty Hunter | 338705 | [338705-miracle-heroes-temporal-bounty-hunter.json](./338705-miracle-heroes-temporal-bounty-hunter.json) |
 | Miracle Jim no Bassing Beat | 362809 | [362809-miracle-jim-no-bassing-beat.json](./362809-miracle-jim-no-bassing-beat.json) |
 | Miracle Merchant | 77734 | [77734-miracle-merchant.json](./77734-miracle-merchant.json) |
