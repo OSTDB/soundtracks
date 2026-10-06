@@ -2231,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2 | 241440 | [241440-just-dance-2.json](./241440-just-dance-2.json) |
 | Just Dance 2: Extra Songs | 268119 | [268119-just-dance-2-extra-songs.json](./268119-just-dance-2-extra-songs.json) |
 | Just Dance 2015 | 15559 | [15559-just-dance-2015.json](./15559-just-dance-2015.json) |
+| Just Dance 2016: Gold Edition | 83795 | [83795-just-dance-2016-gold-edition.json](./83795-just-dance-2016-gold-edition.json) |
 | Just Dance 2018 | 37067 | [37067-just-dance-2018.json](./37067-just-dance-2018.json) |
 | Just Dance 2020 | 119256 | [119256-just-dance-2020.json](./119256-just-dance-2020.json) |
 | Just Dance 2022: Deluxe Edition | 182474 | [182474-just-dance-2022-deluxe-edition.json](./182474-just-dance-2022-deluxe-edition.json) |
