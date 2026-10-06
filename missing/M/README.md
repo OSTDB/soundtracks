@@ -1681,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MangueBoy | 279241 | [279241-mangueboy.json](./279241-mangueboy.json) |
 | ManGuin: Penguin Apocalypse | 130704 | [130704-manguin-penguin-apocalypse.json](./130704-manguin-penguin-apocalypse.json) |
 | ManHandler | 243689 | [243689-manhandler.json](./243689-manhandler.json) |
+| Manhattan Chase | 74030 | [74030-manhattan-chase.json](./74030-manhattan-chase.json) |
 | Manhattan Dealers | 10846 | [10846-manhattan-dealers.json](./10846-manhattan-dealers.json) |
 | Manhattan Dolls | 265329 | [265329-manhattan-dolls.json](./265329-manhattan-dolls.json) |
 | Manhattan Requiem | 349955 | [349955-manhattan-requiem.json](./349955-manhattan-requiem.json) |
@@ -1980,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariam Game | 235484 | [235484-mariam-game.json](./235484-mariam-game.json) |
 | Maridows 64 | 250047 | [250047-maridows-64.json](./250047-maridows-64.json) |
 | Marie & Elie no Atelier: Salburg no Renkinjutsushi 1-2 | 130822 | [130822-marie-and-elie-no-atelier-salburg-no-renkinjutsushi-1-2.json](./130822-marie-and-elie-no-atelier-salburg-no-renkinjutsushi-1-2.json) |
+| Marie Baby-Sitter | 74034 | [74034-marie-baby-sitter.json](./74034-marie-baby-sitter.json) |
 | Marie's Patisserie: Sweet Dreams - Collector's Edition | 362840 | [362840-maries-patisserie-sweet-dreams-collectors-edition.json](./362840-maries-patisserie-sweet-dreams-collectors-edition.json) |
 | Marie's Room | 81173 | [81173-maries-room.json](./81173-maries-room.json) |
 | Marigold | 183053 | [183053-marigold.json](./183053-marigold.json) |
