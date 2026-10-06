@@ -3293,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mawkey The Last Macaw | 358950 | [358950-mawkey-the-last-macaw.json](./358950-mawkey-the-last-macaw.json) |
 | Mawthorne 2 | 382210 | [382210-mawthorne-2.json](./382210-mawthorne-2.json) |
 | Max & the Magic Marker | 5000 | [5000-max-and-the-magic-marker.json](./5000-max-and-the-magic-marker.json) |
+| Max & the Magic Marker - Remastered | 96301 | [96301-max-and-the-magic-marker-remastered.json](./96301-max-and-the-magic-marker-remastered.json) |
 | Max and the Haunted Castle | 127150 | [127150-max-and-the-haunted-castle.json](./127150-max-and-the-haunted-castle.json) |
 | Max and the Magic Marker: Gold Edition | 52571 | [52571-max-and-the-magic-marker-gold-edition.json](./52571-max-and-the-magic-marker-gold-edition.json) |
 | Max and the Pirates | 209540 | [209540-max-and-the-pirates.json](./209540-max-and-the-pirates.json) |
@@ -5616,6 +5617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mi'pu'mi' Collection | 151627 | [151627-mipumi-collection.json](./151627-mipumi-collection.json) |
 | Mia | 169370 | [169370-mia.json](./169370-mia.json) |
 | Mia & Mio | 388752 | [388752-mia-and-mio.json](./388752-mia-and-mio.json) |
+| Mia and me - Free the Unicorns! | 96191 | [96191-mia-and-me-free-the-unicorns.json](./96191-mia-and-me-free-the-unicorns.json) |
 | Mia and me: Freedom for Centopia | 107003 | [107003-mia-and-me-freedom-for-centopia.json](./107003-mia-and-me-freedom-for-centopia.json) |
 | Mia and the Dragon Princess | 212737 | [212737-mia-and-the-dragon-princess.json](./212737-mia-and-the-dragon-princess.json) |
 | Mia Fey: Ace Spirit Attorney | 303005 | [303005-mia-fey-ace-spirit-attorney.json](./303005-mia-fey-ace-spirit-attorney.json) |
@@ -7708,6 +7710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Manager 2015 | 279628 | [279628-mlb-manager-2015.json](./279628-mlb-manager-2015.json) |
 | MLB Manager 2018 | 96270 | [96270-mlb-manager-2018.json](./96270-mlb-manager-2018.json) |
 | MLB Perfect Inning | 323161 | [323161-mlb-perfect-inning.json](./323161-mlb-perfect-inning.json) |
+| MLB Perfect Inning Live | 96295 | [96295-mlb-perfect-inning-live.json](./96295-mlb-perfect-inning-live.json) |
 | MLB Power Pros 2008 | 5010 | [5010-mlb-power-pros-2008.json](./5010-mlb-power-pros-2008.json) |
 | MLB Rivals | 255104 | [255104-mlb-rivals.json](./255104-mlb-rivals.json) |
 | MLB Slam! | 47568 | [47568-mlb-slam.json](./47568-mlb-slam.json) |
@@ -10677,6 +10680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musou Yuugi | 167126 | [167126-musou-yuugi.json](./167126-musou-yuugi.json) |
 | MuSquare | 61315 | [61315-musquare.json](./61315-musquare.json) |
 | Mussoumano 3D Run | 223530 | [223530-mussoumano-3d-run.json](./223530-mussoumano-3d-run.json) |
+| Mussoumano: Ataque dos Haters | 96190 | [96190-mussoumano-ataque-dos-haters.json](./96190-mussoumano-ataque-dos-haters.json) |
 | Mussoumano: Saving Latifas | 223529 | [223529-mussoumano-saving-latifas.json](./223529-mussoumano-saving-latifas.json) |
 | Must Be Feng Shui | 380659 | [380659-must-be-feng-shui.json](./380659-must-be-feng-shui.json) |
 | Must Deliver | 60241 | [60241-must-deliver.json](./60241-must-deliver.json) |
