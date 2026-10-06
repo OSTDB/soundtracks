@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Hungry Peasant | 252117 | [252117-1-hungry-peasant.json](./252117-1-hungry-peasant.json) |
 | 1 Line: One Stroke Connect Puzzle | 102848 | [102848-1-line-one-stroke-connect-puzzle.json](./102848-1-line-one-stroke-connect-puzzle.json) |
 | 1 Minute Math | 108453 | [108453-1-minute-math.json](./108453-1-minute-math.json) |
+| 1 Minute RPG | 63151 | [63151-1-minute-rpg.json](./63151-1-minute-rpg.json) |
 | 1 Moment of Time: Silentville | 32199 | [32199-1-moment-of-time-silentville.json](./32199-1-moment-of-time-silentville.json) |
 | 1 on 1 Government | 39809 | [39809-1-on-1-government.json](./39809-1-on-1-government.json) |
 | 1 Screen Platformer | 97902 | [97902-1-screen-platformer.json](./97902-1-screen-platformer.json) |
@@ -1287,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Letters 1 Word | 239120 | [239120-4-letters-1-word.json](./239120-4-letters-1-word.json) |
 | 4 Minutes and 33 Seconds of Uniqueness | 208886 | [208886-4-minutes-and-33-seconds-of-uniqueness.json](./208886-4-minutes-and-33-seconds-of-uniqueness.json) |
 | 4 Months of You | 165650 | [165650-4-months-of-you.json](./165650-4-months-of-you.json) |
+| 4 Pics 1 Word | 63105 | [63105-4-pics-1-word.json](./63105-4-pics-1-word.json) |
 | 4 Pics Heroes and Villains | 107184 | [107184-4-pics-heroes-and-villains.json](./107184-4-pics-heroes-and-villains.json) |
 | 4 Queen | 84337 | [84337-4-queen.json](./84337-4-queen.json) |
 | 4 Rush Together | 316434 | [316434-4-rush-together.json](./316434-4-rush-together.json) |
