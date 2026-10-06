@@ -4632,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Agent | 244802 | [244802-hockey-agent.json](./244802-hockey-agent.json) |
 | Hockey Allstar Shootout | 85182 | [85182-hockey-allstar-shootout.json](./85182-hockey-allstar-shootout.json) |
 | Hockey Blitz | 244800 | [244800-hockey-blitz.json](./244800-hockey-blitz.json) |
+| Hockey Camp - Goaltender | 114930 | [114930-hockey-camp-goaltender.json](./114930-hockey-camp-goaltender.json) |
 | Hockey Classic 16 | 175252 | [175252-hockey-classic-16.json](./175252-hockey-classic-16.json) |
 | Hockey Club | 361733 | [361733-hockey-club.json](./361733-hockey-club.json) |
 | Hockey Fight Pro | 102579 | [102579-hockey-fight-pro.json](./102579-hockey-fight-pro.json) |
