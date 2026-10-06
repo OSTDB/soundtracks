@@ -1178,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates and Violet | 413029 | [413029-gates-and-violet.json](./413029-gates-and-violet.json) |
 | Gates of a Ruined Empire | 112230 | [112230-gates-of-a-ruined-empire.json](./112230-gates-of-a-ruined-empire.json) |
 | Gates of Andaron | 209594 | [209594-gates-of-andaron.json](./209594-gates-of-andaron.json) |
+| Gates of Avalon | 105262 | [105262-gates-of-avalon.json](./105262-gates-of-avalon.json) |
 | Gates of Dawn | 13857 | [13857-gates-of-dawn.json](./13857-gates-of-dawn.json) |
 | Gates of Despair | 323261 | [323261-gates-of-despair.json](./323261-gates-of-despair.json) |
 | Gates of Devoroth | 211288 | [211288-gates-of-devoroth.json](./211288-gates-of-devoroth.json) |
@@ -1396,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Quest: Rush | 416643 | [416643-gem-quest-rush.json](./416643-gem-quest-rush.json) |
 | Gem Raider 2 | 188467 | [188467-gem-raider-2.json](./188467-gem-raider-2.json) |
 | Gem Rifts | 188498 | [188498-gem-rifts.json](./188498-gem-rifts.json) |
+| Gem Rush | 105445 | [105445-gem-rush.json](./105445-gem-rush.json) |
 | Gem Setter | 176340 | [176340-gem-setter.json](./176340-gem-setter.json) |
 | Gem Shoot | 175344 | [175344-gem-shoot.json](./175344-gem-shoot.json) |
 | Gem Venture | 217326 | [217326-gem-venture.json](./217326-gem-venture.json) |
@@ -2730,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glorious Storm | 258201 | [258201-glorious-storm.json](./258201-glorious-storm.json) |
 | Glorp | 213290 | [213290-glorp.json](./213290-glorp.json) |
 | Glory | 171382 | [171382-glory.json](./171382-glory.json) |
+| Glory & Honor | 105263 | [105263-glory-and-honor.json](./105263-glory-and-honor.json) |
 | Glory Days: Tactical Defense | 84509 | [84509-glory-days-tactical-defense.json](./84509-glory-days-tactical-defense.json) |
 | Glory Hold | 151117 | [151117-glory-hold.json](./151117-glory-hold.json) |
 | Glory Hounds | 210700 | [210700-glory-hounds.json](./210700-glory-hounds.json) |
