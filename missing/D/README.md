@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: Ballad of Rapunzel | 57161 | [57161-dark-parables-ballad-of-rapunzel.json](./57161-dark-parables-ballad-of-rapunzel.json) |
 | Dark Parables: Ballad of Rapunzel - Collector's Edition | 36466 | [36466-dark-parables-ballad-of-rapunzel-collectors-edition.json](./36466-dark-parables-ballad-of-rapunzel-collectors-edition.json) |
 | Dark Parables: Curse of Briar Rose | 63303 | [63303-dark-parables-curse-of-briar-rose.json](./63303-dark-parables-curse-of-briar-rose.json) |
+| Dark Parables: Goldilocks and Fallen Star | 99107 | [99107-dark-parables-goldilocks-and-fallen-star.json](./99107-dark-parables-goldilocks-and-fallen-star.json) |
 | Dark Parables: Goldilocks and the Fallen Star | 139790 | [139790-dark-parables-goldilocks-and-the-fallen-star.json](./139790-dark-parables-goldilocks-and-the-fallen-star.json) |
 | Dark Parables: Goldilocks and the Fallen Star - Collector's Edition | 61593 | [61593-dark-parables-goldilocks-and-the-fallen-star-collectors-edition.json](./61593-dark-parables-goldilocks-and-the-fallen-star-collectors-edition.json) |
 | Dark Parables: Jack and the Sky Kingdom | 57162 | [57162-dark-parables-jack-and-the-sky-kingdom.json](./57162-dark-parables-jack-and-the-sky-kingdom.json) |
@@ -2402,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Live | 123472 | [123472-death-live.json](./123472-death-live.json) |
 | Death Machine | 285004 | [285004-death-machine.json](./285004-death-machine.json) |
 | Death March | 365791 | [365791-death-march.json](./365791-death-march.json) |
+| Death Mark Vol.1 | 99079 | [99079-death-mark-vol-1.json](./99079-death-mark-vol-1.json) |
 | Death Mark: Experience Selection | 167142 | [167142-death-mark-experience-selection.json](./167142-death-mark-experience-selection.json) |
 | Death Mask | 359982 | [359982-death-mask.json](./359982-death-mask.json) |
 | Death Match | 416694 | [416694-death-match.json](./416694-death-match.json) |
@@ -5728,6 +5730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DistanceGuessr | 386116 | [386116-distanceguessr.json](./386116-distanceguessr.json) |
 | Distancy | 316153 | [316153-distancy.json](./316153-distancy.json) |
 | Distant | 329390 | [329390-distant.json](./329390-distant.json) |
+| Distant castle | 99130 | [99130-distant-castle.json](./99130-distant-castle.json) |
 | Distant Colony | 364697 | [364697-distant-colony.json](./364697-distant-colony.json) |
 | Distant Desert | 388234 | [388234-distant-desert.json](./388234-distant-desert.json) |
 | Distant Flux: System Initializing | 346563 | [346563-distant-flux-system-initializing.json](./346563-distant-flux-system-initializing.json) |
