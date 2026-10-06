@@ -10378,6 +10378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unrest Age | 197852 | [197852-the-unrest-age.json](./197852-the-unrest-age.json) |
 | The Unrested | 334297 | [334297-the-unrested.json](./334297-the-unrested.json) |
 | The Unseen | 180565 | [180565-the-unseen.json](./180565-the-unseen.json) |
+| The Unseen | 67599 | [67599-the-unseen.json](./67599-the-unseen.json) |
 | The Unseen Awakening | 347148 | [347148-the-unseen-awakening.json](./347148-the-unseen-awakening.json) |
 | The Unseen Fears: Body Thief - Collector's Edition | 377077 | [377077-the-unseen-fears-body-thief-collectors-edition.json](./377077-the-unseen-fears-body-thief-collectors-edition.json) |
 | The Unseen Fears: Inner Darkness - Collector's Edition | 416788 | [416788-the-unseen-fears-inner-darkness-collectors-edition.json](./416788-the-unseen-fears-inner-darkness-collectors-edition.json) |
