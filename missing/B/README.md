@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banquet of Nausea | 402887 | [402887-banquet-of-nausea.json](./402887-banquet-of-nausea.json) |
 | Banshee | 11939 | [11939-banshee.json](./11939-banshee.json) |
 | Banshee (Fazbear's Pizzeria Tycoon!) | 336023 | [336023-banshee-fazbears-pizzeria-tycoon.json](./336023-banshee-fazbears-pizzeria-tycoon.json) |
+| Banshee Force | 82340 | [82340-banshee-force.json](./82340-banshee-force.json) |
 | Banshees: The Game | 241944 | [241944-banshees-the-game.json](./241944-banshees-the-game.json) |
 | Banshiryuu | 123606 | [123606-banshiryuu.json](./123606-banshiryuu.json) |
 | Bansoko | 179193 | [179193-bansoko.json](./179193-bansoko.json) |
@@ -4411,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BiochRL | 61110 | [61110-biochrl.json](./61110-biochrl.json) |
 | BioCrisis: Return 2 the Lab | 203905 | [203905-biocrisis-return-2-the-lab.json](./203905-biocrisis-return-2-the-lab.json) |
 | Biodigital | 107807 | [107807-biodigital.json](./107807-biodigital.json) |
+| BioEntity | 82328 | [82328-bioentity.json](./82328-bioentity.json) |
 | Biofall: Survival | 349519 | [349519-biofall-survival.json](./349519-biofall-survival.json) |
 | BioForge | 2213 | [2213-bioforge.json](./2213-bioforge.json) |
 | Bioframe: Outpost | 211099 | [211099-bioframe-outpost.json](./211099-bioframe-outpost.json) |
@@ -7494,6 +7496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce on Back | 262895 | [262895-bounce-on-back.json](./262895-bounce-on-back.json) |
 | Bounce Original | 344928 | [344928-bounce-original.json](./344928-bounce-original.json) |
 | Bounce Out | 92676 | [92676-bounce-out.json](./92676-bounce-out.json) |
+| Bounce Rescue! | 82327 | [82327-bounce-rescue.json](./82327-bounce-rescue.json) |
 | Bounce Shot | 262460 | [262460-bounce-shot.json](./262460-bounce-shot.json) |
 | Bounce Tales | 133867 | [133867-bounce-tales.json](./133867-bounce-tales.json) |
 | Bounce Tales 64 | 135264 | [135264-bounce-tales-64.json](./135264-bounce-tales-64.json) |
@@ -8551,6 +8554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brighter Day | 34811 | [34811-brighter-day.json](./34811-brighter-day.json) |
 | Brighter Days | 391187 | [391187-brighter-days.json](./391187-brighter-days.json) |
 | Brighter Than Burning | 334300 | [334300-brighter-than-burning.json](./334300-brighter-than-burning.json) |
+| Brightest | 82353 | [82353-brightest.json](./82353-brightest.json) |
 | Brightest Star | 369621 | [369621-brightest-star.json](./369621-brightest-star.json) |
 | Brightfall | 378215 | [378215-brightfall.json](./378215-brightfall.json) |
 | Brightstone Mysteries: The Others | 234630 | [234630-brightstone-mysteries-the-others.json](./234630-brightstone-mysteries-the-others.json) |
