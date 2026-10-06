@@ -2816,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Panic | 402271 | [402271-deep-panic.json](./402271-deep-panic.json) |
 | Deep Pixel Melancholy | 347185 | [347185-deep-pixel-melancholy.json](./347185-deep-pixel-melancholy.json) |
 | Deep Race: Battle | 121557 | [121557-deep-race-battle.json](./121557-deep-race-battle.json) |
+| Deep Raider | 71758 | [71758-deep-raider.json](./71758-deep-raider.json) |
 | Deep Realms | 92442 | [92442-deep-realms.json](./92442-deep-realms.json) |
 | Deep Research | 271493 | [271493-deep-research.json](./271493-deep-research.json) |
 | Deep Rest | 106395 | [106395-deep-rest.json](./106395-deep-rest.json) |
@@ -4403,6 +4404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devious Lick | 224502 | [224502-devious-lick.json](./224502-devious-lick.json) |
 | Devious Path | 317405 | [317405-devious-path.json](./317405-devious-path.json) |
 | Devive | 382367 | [382367-devive.json](./382367-devive.json) |
+| Devo Presents: Adventures of the Smart Patrol | 71739 | [71739-devo-presents-adventures-of-the-smart-patrol.json](./71739-devo-presents-adventures-of-the-smart-patrol.json) |
 | Devoid | 229212 | [229212-devoid.json](./229212-devoid.json) |
 | Devoid | 377568 | [377568-devoid.json](./377568-devoid.json) |
 | Devoid of Shadows | 27370 | [27370-devoid-of-shadows.json](./27370-devoid-of-shadows.json) |
@@ -7796,6 +7798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula City Master: Idle Army | 232394 | [232394-dracula-city-master-idle-army.json](./232394-dracula-city-master-idle-army.json) |
 | Dracula Frames | 168320 | [168320-dracula-frames.json](./168320-dracula-frames.json) |
 | Dracula Hakushaku | 66111 | [66111-dracula-hakushaku.json](./66111-dracula-hakushaku.json) |
+| Dracula in London | 71727 | [71727-dracula-in-london.json](./71727-dracula-in-london.json) |
 | Dracula Is Coming | 190447 | [190447-dracula-is-coming.json](./190447-dracula-is-coming.json) |
 | Dracula Solitaire | 386152 | [386152-dracula-solitaire.json](./386152-dracula-solitaire.json) |
 | Dracula Twins | 19594 | [19594-dracula-twins.json](./19594-dracula-twins.json) |
