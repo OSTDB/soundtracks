@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-17 Bomber | 5660 | [5660-b-17-bomber.json](./5660-b-17-bomber.json) |
 | B-17 Flying Fortress the Bloody 100th | 223421 | [223421-b-17-flying-fortress-the-bloody-100th.json](./223421-b-17-flying-fortress-the-bloody-100th.json) |
 | B-17 Flying Fortress: The Mighty 8th Redux | 226242 | [226242-b-17-flying-fortress-the-mighty-8th-redux.json](./226242-b-17-flying-fortress-the-mighty-8th-redux.json) |
+| B-17 Gunner: Air War Over Germany | 62016 | [62016-b-17-gunner-air-war-over-germany.json](./62016-b-17-gunner-air-war-over-germany.json) |
 | B-17 Squadron | 171924 | [171924-b-17-squadron.json](./171924-b-17-squadron.json) |
 | B-24 | 44127 | [44127-b-24.json](./44127-b-24.json) |
 | B-Boy | 20565 | [20565-b-boy.json](./20565-b-boy.json) |
@@ -6230,6 +6231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodworks | 76533 | [76533-bloodworks.json](./76533-bloodworks.json) |
 | Bloodwych | 2434 | [2434-bloodwych.json](./2434-bloodwych.json) |
 | Bloodwych: Data Disks Vol. 1 | 57618 | [57618-bloodwych-data-disks-vol-1.json](./57618-bloodwych-data-disks-vol-1.json) |
+| Bloody Alice Defense | 61997 | [61997-bloody-alice-defense.json](./61997-bloody-alice-defense.json) |
 | Bloody Aria | 322000 | [322000-bloody-aria.json](./322000-bloody-aria.json) |
 | Bloody Boobs | 367620 | [367620-bloody-boobs.json](./367620-bloody-boobs.json) |
 | Bloody Bunny: First Blood | 175386 | [175386-bloody-bunny-first-blood.json](./175386-bloody-bunny-first-blood.json) |
@@ -6655,6 +6657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobo's Big Tower | 355170 | [355170-bobos-big-tower.json](./355170-bobos-big-tower.json) |
 | Bobobird | 365141 | [365141-bobobird.json](./365141-bobobird.json) |
 | Bobobo-bo Bo-bobo: Dassutsu! Hajike Royale | 50588 | [50588-bobobo-bo-bo-bobo-dassutsu-hajike-royale.json](./50588-bobobo-bo-bo-bobo-dassutsu-hajike-royale.json) |
+| BoBoiBoy: Adudu Attacks! | 61998 | [61998-boboiboy-adudu-attacks.json](./61998-boboiboy-adudu-attacks.json) |
 | BoboInvasion | 287777 | [287777-boboinvasion.json](./287777-boboinvasion.json) |
 | Bobos FunZone | 278557 | [278557-bobos-funzone.json](./278557-bobos-funzone.json) |
 | Bobr Kurwa | 297241 | [297241-bobr-kurwa.json](./297241-bobr-kurwa.json) |
@@ -9081,6 +9084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Wrap Frenzy | 233236 | [233236-bubble-wrap-frenzy.json](./233236-bubble-wrap-frenzy.json) |
 | Bubble Xmas | 57663 | [57663-bubble-xmas.json](./57663-bubble-xmas.json) |
 | Bubble Zoo 2 | 341064 | [341064-bubble-zoo-2.json](./341064-bubble-zoo-2.json) |
+| Bubble: Journey to the End of the World | 62026 | [62026-bubble-journey-to-the-end-of-the-world.json](./62026-bubble-journey-to-the-end-of-the-world.json) |
 | Bubble's Travel | 387337 | [387337-bubbles-travel.json](./387337-bubbles-travel.json) |
 | BubbleBeast DigiDungeon | 323925 | [323925-bubblebeast-digidungeon.json](./323925-bubblebeast-digidungeon.json) |
 | Bubblefish Bob | 341063 | [341063-bubblefish-bob.json](./341063-bubblefish-bob.json) |
