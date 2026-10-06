@@ -7890,6 +7890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Battle Operation Code Fairy | 178045 | [178045-mobile-suit-gundam-battle-operation-code-fairy.json](./178045-mobile-suit-gundam-battle-operation-code-fairy.json) |
 | Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 2 | 182243 | [182243-mobile-suit-gundam-battle-operation-code-fairy-vol-2.json](./182243-mobile-suit-gundam-battle-operation-code-fairy-vol-2.json) |
 | Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 3 | 182244 | [182244-mobile-suit-gundam-battle-operation-code-fairy-vol-3.json](./182244-mobile-suit-gundam-battle-operation-code-fairy-vol-3.json) |
+| Mobile Suit Gundam: Battlefield Record U.C.0081 | 79530 | [79530-mobile-suit-gundam-battlefield-record-u-c-0081.json](./79530-mobile-suit-gundam-battlefield-record-u-c-0081.json) |
 | Mobile Suit Gundam: Bonds of the Battlefield | 68079 | [68079-mobile-suit-gundam-bonds-of-the-battlefield.json](./68079-mobile-suit-gundam-bonds-of-the-battlefield.json) |
 | Mobile Suit Gundam: Climax U.C. | 68012 | [68012-mobile-suit-gundam-climax-u-c.json](./68012-mobile-suit-gundam-climax-u-c.json) |
 | Mobile Suit Gundam: Desert Operation | 242522 | [242522-mobile-suit-gundam-desert-operation.json](./242522-mobile-suit-gundam-desert-operation.json) |
@@ -8252,6 +8253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momotaro Dentetsu World | 64416 | [64416-momotaro-dentetsu-world.json](./64416-momotaro-dentetsu-world.json) |
 | Momotaro Dentetsu World Deluxe | 186772 | [186772-momotaro-dentetsu-world-deluxe.json](./186772-momotaro-dentetsu-world-deluxe.json) |
 | Momotaro Dentetsu World Remote Play | 186773 | [186773-momotaro-dentetsu-world-remote-play.json](./186773-momotaro-dentetsu-world-remote-play.json) |
+| Momotaro Dentetsu X: Kyushu-hen mo Arubai | 79557 | [79557-momotaro-dentetsu-x-kyushu-hen-mo-arubai.json](./79557-momotaro-dentetsu-x-kyushu-hen-mo-arubai.json) |
 | Momotaro Dentetsu: 20 Shuunen | 64420 | [64420-momotaro-dentetsu-20-shuunen.json](./64420-momotaro-dentetsu-20-shuunen.json) |
 | Momotaro Dentetsu: Showa, Heisei, Reiwa mo Teiban! | 122290 | [122290-momotaro-dentetsu-showa-heisei-reiwa-mo-teiban.json](./122290-momotaro-dentetsu-showa-heisei-reiwa-mo-teiban.json) |
 | Momotaro Douchuuki | 64421 | [64421-momotaro-douchuuki.json](./64421-momotaro-douchuuki.json) |
@@ -11847,6 +11849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Tales: Her Own Eyes HD - A Hidden Object Mystery (Full) | 90065 | [90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json](./90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json) |
 | Mystery Tales: Master of Puppets | 187948 | [187948-mystery-tales-master-of-puppets.json](./187948-mystery-tales-master-of-puppets.json) |
 | Mystery Tales: The Twilight World - Collector's Edition | 74994 | [74994-mystery-tales-the-twilight-world-collectors-edition.json](./74994-mystery-tales-the-twilight-world-collectors-edition.json) |
+| Mystery Tapes | 79536 | [79536-mystery-tapes.json](./79536-mystery-tapes.json) |
 | Mystery Tiles Premium | 100958 | [100958-mystery-tiles-premium.json](./100958-mystery-tiles-premium.json) |
 | Mystery Tower | 48589 | [48589-mystery-tower.json](./48589-mystery-tower.json) |
 | Mystery Town - Fun Seek and Find Hidden Object Puzzles | 104122 | [104122-mystery-town-fun-seek-and-find-hidden-object-puzzles.json](./104122-mystery-town-fun-seek-and-find-hidden-object-puzzles.json) |
