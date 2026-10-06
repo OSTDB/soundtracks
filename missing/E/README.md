@@ -2142,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Cycle | 34202 | [34202-energy-cycle.json](./34202-energy-cycle.json) |
 | Energy Cycle Edge | 112590 | [112590-energy-cycle-edge.json](./112590-energy-cycle-edge.json) |
 | Energy Fighters | 235452 | [235452-energy-fighters.json](./235452-energy-fighters.json) |
+| Energy Heroes | 58619 | [58619-energy-heroes.json](./58619-energy-heroes.json) |
 | Energy Hook | 20182 | [20182-energy-hook.json](./20182-energy-hook.json) |
 | Energy Hunter Boy | 119709 | [119709-energy-hunter-boy.json](./119709-energy-hunter-boy.json) |
 | Energy Invasion | 31792 | [31792-energy-invasion.json](./31792-energy-invasion.json) |
@@ -2787,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Ever After | 211624 | [211624-escape-from-ever-after.json](./211624-escape-from-ever-after.json) |
 | Escape From Exile | 259041 | [259041-escape-from-exile.json](./259041-escape-from-exile.json) |
 | Escape From Exit 7 of the Theater | 315281 | [315281-escape-from-exit-7-of-the-theater.json](./315281-escape-from-exit-7-of-the-theater.json) |
+| Escape From Flare Industries | 58600 | [58600-escape-from-flare-industries.json](./58600-escape-from-flare-industries.json) |
 | Escape From Flea Market Montgomery | 276930 | [276930-escape-from-flea-market-montgomery.json](./276930-escape-from-flea-market-montgomery.json) |
 | Escape from Fools | 112968 | [112968-escape-from-fools.json](./112968-escape-from-fools.json) |
 | Escape From Forest | 147633 | [147633-escape-from-forest.json](./147633-escape-from-forest.json) |
