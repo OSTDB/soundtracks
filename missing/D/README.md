@@ -6326,6 +6326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doge Jump | 62678 | [62678-doge-jump.json](./62678-doge-jump.json) |
 | Doge Rescue | 224072 | [224072-doge-rescue.json](./224072-doge-rescue.json) |
 | Doge Simulator | 243050 | [243050-doge-simulator.json](./243050-doge-simulator.json) |
+| Doge Simulator | 76897 | [76897-doge-simulator.json](./76897-doge-simulator.json) |
 | Doge Storm | 360698 | [360698-doge-storm.json](./360698-doge-storm.json) |
 | Doge to the Moon | 149505 | [149505-doge-to-the-moon.json](./149505-doge-to-the-moon.json) |
 | Dogeminer | 101938 | [101938-dogeminer.json](./101938-dogeminer.json) |
@@ -6658,6 +6659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Be Greedy | 233522 | [233522-dont-be-greedy.json](./233522-dont-be-greedy.json) |
 | Don't Be Nervous Talking to Girls | 91628 | [91628-dont-be-nervous-talking-to-girls.json](./91628-dont-be-nervous-talking-to-girls.json) |
 | Don't Blame You | 229809 | [229809-dont-blame-you.json](./229809-dont-blame-you.json) |
+| Don't Bleed | 76949 | [76949-dont-bleed.json](./76949-dont-bleed.json) |
 | Don't Blink | 155980 | [155980-dont-blink.json](./155980-dont-blink.json) |
 | Don't Break My Heart | 273911 | [273911-dont-break-my-heart.json](./273911-dont-break-my-heart.json) |
 | Don't Break the Egg | 397660 | [397660-dont-break-the-egg.json](./397660-dont-break-the-egg.json) |
