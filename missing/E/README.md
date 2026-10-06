@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egress Protocol | 375856 | [375856-egress-protocol.json](./375856-egress-protocol.json) |
 | Egret II Mini: Arcade Memories Vol. I | 229835 | [229835-egret-ii-mini-arcade-memories-vol-i.json](./229835-egret-ii-mini-arcade-memories-vol-i.json) |
 | Egret II Mini: Arcade Memories Vol. II | 265645 | [265645-egret-ii-mini-arcade-memories-vol-ii.json](./265645-egret-ii-mini-arcade-memories-vol-ii.json) |
+| Egypt | 94952 | [94952-egypt.json](./94952-egypt.json) |
 | Egypt Blocks Puzzle | 180038 | [180038-egypt-blocks-puzzle.json](./180038-egypt-blocks-puzzle.json) |
 | Egypt Collection | 195099 | [195099-egypt-collection.json](./195099-egypt-collection.json) |
 | Egypt Frontiers | 266293 | [266293-egypt-frontiers.json](./266293-egypt-frontiers.json) |
@@ -1633,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emissary One | 411620 | [411620-emissary-one.json](./411620-emissary-one.json) |
 | Emitters: Drone Invasions | 110818 | [110818-emitters-drone-invasions.json](./110818-emitters-drone-invasions.json) |
 | Emlis | 304585 | [304585-emlis.json](./304585-emlis.json) |
+| Emlith | 94957 | [94957-emlith.json](./94957-emlith.json) |
 | Emlyn Hughes Arcade Quiz | 13636 | [13636-emlyn-hughes-arcade-quiz.json](./13636-emlyn-hughes-arcade-quiz.json) |
 | Emma's Armaments | 213017 | [213017-emmas-armaments.json](./213017-emmas-armaments.json) |
 | Emma's World | 299220 | [299220-emmas-world.json](./299220-emmas-world.json) |
