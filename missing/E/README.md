@@ -3152,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN Let's Play Beach Volleyball | 37117 | [37117-espn-lets-play-beach-volleyball.json](./37117-espn-lets-play-beach-volleyball.json) |
 | ESPN Let's Play Soccer | 37119 | [37119-espn-lets-play-soccer.json](./37119-espn-lets-play-soccer.json) |
 | ESPN Let's Play Tennis | 37118 | [37118-espn-lets-play-tennis.json](./37118-espn-lets-play-tennis.json) |
+| ESPN Major League Baseball | 72275 | [72275-espn-major-league-baseball.json](./72275-espn-major-league-baseball.json) |
 | ESPN National Hockey Night | 370312 | [370312-espn-national-hockey-night.json](./370312-espn-national-hockey-night.json) |
 | ESPN National Hockey Night | 5381 | [5381-espn-national-hockey-night.json](./5381-espn-national-hockey-night.json) |
 | ESPN NBA 2Night | 78678 | [78678-espn-nba-2night.json](./78678-espn-nba-2night.json) |
