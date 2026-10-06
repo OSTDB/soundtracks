@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jarinko Chie | 346029 | [346029-jarinko-chie.json](./346029-jarinko-chie.json) |
 | Jarnasmal | 405569 | [405569-jarnasmal.json](./405569-jarnasmal.json) |
 | Jaro Adventures | 305927 | [305927-jaro-adventures.json](./305927-jaro-adventures.json) |
+| Jarokn Cricket | 78255 | [78255-jarokn-cricket.json](./78255-jarokn-cricket.json) |
 | Jarokn Cricket 2 | 62176 | [62176-jarokn-cricket-2.json](./62176-jarokn-cricket-2.json) |
 | Jarpug | 259012 | [259012-jarpug.json](./259012-jarpug.json) |
 | Jarrett & Labonte Stock Car Racing | 80496 | [80496-jarrett-and-labonte-stock-car-racing.json](./80496-jarrett-and-labonte-stock-car-racing.json) |
@@ -1390,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Mnemonic | 73241 | [73241-johnny-mnemonic.json](./73241-johnny-mnemonic.json) |
 | Johnny Nero Action Hero | 72993 | [72993-johnny-nero-action-hero.json](./72993-johnny-nero-action-hero.json) |
 | Johnny Platform Saves Xmas! | 67250 | [67250-johnny-platform-saves-xmas.json](./67250-johnny-platform-saves-xmas.json) |
+| Johnny Platform's Biscuit Romp | 78301 | [78301-johnny-platforms-biscuit-romp.json](./78301-johnny-platforms-biscuit-romp.json) |
 | Johnny Rocketfingers Complete Game Collection! | 252680 | [252680-johnny-rocketfingers-complete-game-collection.json](./252680-johnny-rocketfingers-complete-game-collection.json) |
 | Johnny Test | 126035 | [126035-johnny-test.json](./126035-johnny-test.json) |
 | Johnny Test's Ultimate Meatloaf Quest | 256872 | [256872-johnny-tests-ultimate-meatloaf-quest.json](./256872-johnny-tests-ultimate-meatloaf-quest.json) |
