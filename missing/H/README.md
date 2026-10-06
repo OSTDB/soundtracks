@@ -2746,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Hanako | 232445 | [232445-hentai-hanako.json](./232445-hentai-hanako.json) |
 | Hentai Harem | 367976 | [367976-hentai-harem.json](./367976-hentai-harem.json) |
 | Hentai Heroes | 141010 | [141010-hentai-heroes.json](./141010-hentai-heroes.json) |
+| Hentai Hexa Mosaic | 107783 | [107783-hentai-hexa-mosaic.json](./107783-hentai-hexa-mosaic.json) |
 | Hentai Homewrecker | 297799 | [297799-hentai-homewrecker.json](./297799-hentai-homewrecker.json) |
 | Hentai Horny Furry | 384703 | [384703-hentai-horny-furry.json](./384703-hentai-horny-furry.json) |
 | Hentai Hospital | 371360 | [371360-hentai-hospital.json](./371360-hentai-hospital.json) |
@@ -6500,6 +6501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Meem | 328179 | [328179-hungry-meem.json](./328179-hungry-meem.json) |
 | Hungry Piggy Vs. Chicken | 99657 | [99657-hungry-piggy-vs-chicken.json](./99657-hungry-piggy-vs-chicken.json) |
 | Hungry Pigs | 206180 | [206180-hungry-pigs.json](./206180-hungry-pigs.json) |
+| Hungry Planet | 107755 | [107755-hungry-planet.json](./107755-hungry-planet.json) |
 | Hungry Red Planet | 73765 | [73765-hungry-red-planet.json](./73765-hungry-red-planet.json) |
 | Hungry Shark Arena | 300683 | [300683-hungry-shark-arena.json](./300683-hungry-shark-arena.json) |
 | Hungry Shark Arena: Horror Night | 221713 | [221713-hungry-shark-arena-horror-night.json](./221713-hungry-shark-arena-horror-night.json) |
