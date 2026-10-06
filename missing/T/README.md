@@ -6049,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunter's Path | 327292 | [327292-the-hunters-path.json](./327292-the-hunters-path.json) |
 | The Hunters Journals; Pale Harbour | 119680 | [119680-the-hunters-journals-pale-harbour.json](./119680-the-hunters-journals-pale-harbour.json) |
 | The Hunting God | 51418 | [51418-the-hunting-god.json](./51418-the-hunting-god.json) |
+| The Huntress of the Hollow | 108934 | [108934-the-huntress-of-the-hollow.json](./108934-the-huntress-of-the-hollow.json) |
 | The Huntsman: Winter's Curse (Book 2) | 164437 | [164437-the-huntsman-winters-curse-book-2.json](./164437-the-huntsman-winters-curse-book-2.json) |
 | The Huntsman: Winter's Curse (Book 3) | 164438 | [164438-the-huntsman-winters-curse-book-3.json](./164438-the-huntsman-winters-curse-book-3.json) |
 | The Huntsman: Winter's Curse (Book 4) | 164439 | [164439-the-huntsman-winters-curse-book-4.json](./164439-the-huntsman-winters-curse-book-4.json) |
@@ -16689,6 +16690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traveller's Hymn | 319560 | [319560-travellers-hymn.json](./319560-travellers-hymn.json) |
 | Travellers | 172033 | [172033-travellers.json](./172033-travellers.json) |
 | Travellers Rest | 121967 | [121967-travellers-rest.json](./121967-travellers-rest.json) |
+| Travellers! | 108921 | [108921-travellers.json](./108921-travellers.json) |
 | Travellin Cats in Paris | 239812 | [239812-travellin-cats-in-paris.json](./239812-travellin-cats-in-paris.json) |
 | Travelling Light | 404812 | [404812-travelling-light.json](./404812-travelling-light.json) |
 | Travelogue 360: Paris | 65182 | [65182-travelogue-360-paris.json](./65182-travelogue-360-paris.json) |
