@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safe House | 392132 | [392132-safe-house.json](./392132-safe-house.json) |
 | Safe House | 99588 | [99588-safe-house.json](./99588-safe-house.json) |
 | Safe Journey | 175941 | [175941-safe-journey.json](./175941-safe-journey.json) |
+| Safe Not Safe | 82320 | [82320-safe-not-safe.json](./82320-safe-not-safe.json) |
 | Safe Opening Simulator | 219496 | [219496-safe-opening-simulator.json](./219496-safe-opening-simulator.json) |
 | Safe Place for Dust | 135743 | [135743-safe-place-for-dust.json](./135743-safe-place-for-dust.json) |
 | Safe Robber | 256283 | [256283-safe-robber.json](./256283-safe-robber.json) |
@@ -5474,6 +5475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sick | 168694 | [168694-sick.json](./168694-sick.json) |
 | Sick | 277612 | [277612-sick.json](./277612-sick.json) |
 | Sick Bricks | 23925 | [23925-sick-bricks.json](./23925-sick-bricks.json) |
+| Sick Coaster | 82321 | [82321-sick-coaster.json](./82321-sick-coaster.json) |
 | Sick Generation: The Ghost of the Crane Catcher | 383974 | [383974-sick-generation-the-ghost-of-the-crane-catcher.json](./383974-sick-generation-the-ghost-of-the-crane-catcher.json) |
 | Sick Love - An RPG Maker Novel | 114166 | [114166-sick-love-an-rpg-maker-novel.json](./114166-sick-love-an-rpg-maker-novel.json) |
 | Sick Way | 127087 | [127087-sick-way.json](./127087-sick-way.json) |
@@ -8899,6 +8901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Cresta: Dramatic DLC | 201018 | [201018-sol-cresta-dramatic-dlc.json](./201018-sol-cresta-dramatic-dlc.json) |
 | Sol Divide | 35026 | [35026-sol-divide.json](./35026-sol-divide.json) |
 | Sol Frontiers | 317033 | [317033-sol-frontiers.json](./317033-sol-frontiers.json) |
+| Sol Galaxy Defender | 82337 | [82337-sol-galaxy-defender.json](./82337-sol-galaxy-defender.json) |
 | Sol Hemochroma | 138153 | [138153-sol-hemochroma.json](./138153-sol-hemochroma.json) |
 | Sol Moonarge | 85809 | [85809-sol-moonarge.json](./85809-sol-moonarge.json) |
 | Sol Protocol | 380566 | [380566-sol-protocol.json](./380566-sol-protocol.json) |
@@ -10127,6 +10130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry, We Have A Policy | 256765 | [256765-sorry-we-have-a-policy.json](./256765-sorry-we-have-a-policy.json) |
 | Sorry, We're Open | 200176 | [200176-sorry-were-open.json](./200176-sorry-were-open.json) |
 | Sorry, Wrong Door | 215931 | [215931-sorry-wrong-door.json](./215931-sorry-wrong-door.json) |
+| Sorry! / Aggravation / Scrabble Junior | 82303 | [82303-sorry-aggravation-scrabble-junior.json](./82303-sorry-aggravation-scrabble-junior.json) |
 | Sorry! I surrounded beauty! | 366288 | [366288-sorry-i-surrounded-beauty.json](./366288-sorry-i-surrounded-beauty.json) |
 | Sort and Stack | 108295 | [108295-sort-and-stack.json](./108295-sort-and-stack.json) |
 | Sort Battle: Dungeon | 120716 | [120716-sort-battle-dungeon.json](./120716-sort-battle-dungeon.json) |
@@ -14259,6 +14263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Status Kakunin Tantei | 376002 | [376002-status-kakunin-tantei.json](./376002-status-kakunin-tantei.json) |
 | StaudSoft's Synthetic World | 35899 | [35899-staudsofts-synthetic-world.json](./35899-staudsofts-synthetic-world.json) |
 | Staunch Defense | 175186 | [175186-staunch-defense.json](./175186-staunch-defense.json) |
+| Stax | 82334 | [82334-stax.json](./82334-stax.json) |
 | Staxel | 37294 | [37294-staxel.json](./37294-staxel.json) |
 | Staxter | 186167 | [186167-staxter.json](./186167-staxter.json) |
 | Stay | 348238 | [348238-stay.json](./348238-stay.json) |
@@ -14823,6 +14828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Rope Dismount | 102243 | [102243-stickman-rope-dismount.json](./102243-stickman-rope-dismount.json) |
 | Stickman Skate Battle | 116251 | [116251-stickman-skate-battle.json](./116251-stickman-skate-battle.json) |
 | Stickman Skater | 174341 | [174341-stickman-skater.json](./174341-stickman-skater.json) |
+| Stickman Soccer | 82315 | [82315-stickman-soccer.json](./82315-stickman-soccer.json) |
 | Stickman Soccer 2016 | 90737 | [90737-stickman-soccer-2016.json](./90737-stickman-soccer-2016.json) |
 | Stickman Strikes: Conquer Fantasy World | 317870 | [317870-stickman-strikes-conquer-fantasy-world.json](./317870-stickman-strikes-conquer-fantasy-world.json) |
 | Stickman Synthwave Escape | 202733 | [202733-stickman-synthwave-escape.json](./202733-stickman-synthwave-escape.json) |
