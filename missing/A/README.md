@@ -2155,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agatha Christie: Peril at End House | 78604 | [78604-agatha-christie-peril-at-end-house.json](./78604-agatha-christie-peril-at-end-house.json) |
 | Agatha's Folly | 58866 | [58866-agathas-folly.json](./58866-agathas-folly.json) |
 | Age After Age | 379512 | [379512-age-after-age.json](./379512-age-after-age.json) |
+| Age of 2048 | 100988 | [100988-age-of-2048.json](./100988-age-of-2048.json) |
 | Age of 2048: World | 106373 | [106373-age-of-2048-world.json](./106373-age-of-2048-world.json) |
 | Age of Anthemius | 356226 | [356226-age-of-anthemius.json](./356226-age-of-anthemius.json) |
 | Age of Ants | 275672 | [275672-age-of-ants.json](./275672-age-of-ants.json) |
