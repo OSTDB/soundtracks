@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Knight's Pursuit | 311662 | [311662-a-knights-pursuit.json](./311662-a-knights-pursuit.json) |
 | A Knight's Quest | 109984 | [109984-a-knights-quest.json](./109984-a-knights-quest.json) |
 | A Knights Adventure | 156574 | [156574-a-knights-adventure.json](./156574-a-knights-adventure.json) |
+| A knots story | 101705 | [101705-a-knots-story.json](./101705-a-knots-story.json) |
 | A Koopa's Revenge | 261814 | [261814-a-koopas-revenge.json](./261814-a-koopas-revenge.json) |
 | A Koopa's Revenge 2 | 307669 | [307669-a-koopas-revenge-2.json](./307669-a-koopas-revenge-2.json) |
 | A Kristus Story: A Night Market Holiday Tale | 322048 | [322048-a-kristus-story-a-night-market-holiday-tale.json](./322048-a-kristus-story-a-night-market-holiday-tale.json) |
@@ -4281,6 +4282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambulance Life: A Paramedic Simulator | 278606 | [278606-ambulance-life-a-paramedic-simulator.json](./278606-ambulance-life-a-paramedic-simulator.json) |
 | Ambulance Life: A Paramedic Simulator - Bay Side Expansion | 334668 | [334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json](./334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json) |
 | Ambulance Race | 221712 | [221712-ambulance-race.json](./221712-ambulance-race.json) |
+| Ambulance Rescue | 101678 | [101678-ambulance-rescue.json](./101678-ambulance-rescue.json) |
 | Ambulance Simulator | 9973 | [9973-ambulance-simulator.json](./9973-ambulance-simulator.json) |
 | Ambush | 164935 | [164935-ambush.json](./164935-ambush.json) |
 | Ambush at Sorinor | 69903 | [69903-ambush-at-sorinor.json](./69903-ambush-at-sorinor.json) |
@@ -9469,6 +9471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Pea 2 | 126998 | [126998-awesome-pea-2.json](./126998-awesome-pea-2.json) |
 | Awesome Possum Kicks Dr. Machino's Butt | 46240 | [46240-awesome-possum-kicks-dr-machinos-butt.json](./46240-awesome-possum-kicks-dr-machinos-butt.json) |
 | Awesome Shapes | 62411 | [62411-awesome-shapes.json](./62411-awesome-shapes.json) |
+| Awesome Space Delivery Company | 101687 | [101687-awesome-space-delivery-company.json](./101687-awesome-space-delivery-company.json) |
 | Awesome Tank | 78076 | [78076-awesome-tank.json](./78076-awesome-tank.json) |
 | Awesome Tanks | 313503 | [313503-awesome-tanks.json](./313503-awesome-tanks.json) |
 | Awesome Tanks 2 | 313506 | [313506-awesome-tanks-2.json](./313506-awesome-tanks-2.json) |
