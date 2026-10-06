@@ -803,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hapax | 61687 | [61687-hapax.json](./61687-hapax.json) |
 | Hapland 2 | 335873 | [335873-hapland-2.json](./335873-hapland-2.json) |
 | Hapland 3 | 336009 | [336009-hapland-3.json](./336009-hapland-3.json) |
+| Happening Journey | 108904 | [108904-happening-journey.json](./108904-happening-journey.json) |
 | Happi Basudei | 197323 | [197323-happi-basudei.json](./197323-happi-basudei.json) |
 | Happily Ever After | 48024 | [48024-happily-ever-after.json](./48024-happily-ever-after.json) |
 | Happiness | 184120 | [184120-happiness.json](./184120-happiness.json) |
@@ -4555,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitotsu Tobashi Renai V | 217545 | [217545-hitotsu-tobashi-renai-v.json](./217545-hitotsu-tobashi-renai-v.json) |
 | Hitotsubashi Animal Chronicles | 358386 | [358386-hitotsubashi-animal-chronicles.json](./358386-hitotsubashi-animal-chronicles.json) |
 | Hitou Dungeon | 283842 | [283842-hitou-dungeon.json](./283842-hitou-dungeon.json) |
+| Hitozuma Dorei Keikaku | 108925 | [108925-hitozuma-dorei-keikaku.json](./108925-hitozuma-dorei-keikaku.json) |
 | Hitozuma Dorei Kyoushi | 98029 | [98029-hitozuma-dorei-kyoushi.json](./98029-hitozuma-dorei-kyoushi.json) |
 | Hitozuma Sentai Aisaiger | 65519 | [65519-hitozuma-sentai-aisaiger.json](./65519-hitozuma-sentai-aisaiger.json) |
 | Hitstream | 268454 | [268454-hitstream.json](./268454-hitstream.json) |
@@ -5124,6 +5126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Pot | 317391 | [317391-honey-pot.json](./317391-honey-pot.json) |
 | Honey Select 2: Libido | 134622 | [134622-honey-select-2-libido.json](./134622-honey-select-2-libido.json) |
 | Honey Select 2: Libido DX | 203777 | [203777-honey-select-2-libido-dx.json](./203777-honey-select-2-libido-dx.json) |
+| Honey Select Unlimited | 108930 | [108930-honey-select-unlimited.json](./108930-honey-select-unlimited.json) |
 | Honey Time! with Pooh! | 286613 | [286613-honey-time-with-pooh.json](./286613-honey-time-with-pooh.json) |
 | Honey Toast | 207508 | [207508-honey-toast.json](./207508-honey-toast.json) |
 | Honey Trap | 379540 | [379540-honey-trap.json](./379540-honey-trap.json) |
@@ -6704,6 +6707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hwaet! The Vercelli Book Saga | 403085 | [403085-hwaet-the-vercelli-book-saga.json](./403085-hwaet-the-vercelli-book-saga.json) |
 | Hwajilguji | 219147 | [219147-hwajilguji.json](./219147-hwajilguji.json) |
 | HWY 17 | 252093 | [252093-hwy-17.json](./252093-hwy-17.json) |
+| HxHxH = Hajimari wa H kara: Daisuki Dakara, Daikirai! | 108920 | [108920-hxhxh-hajimari-wa-h-kara-daisuki-dakara-daikirai.json](./108920-hxhxh-hajimari-wa-h-kara-daisuki-dakara-daikirai.json) |
 | Hyacinth | 225747 | [225747-hyacinth.json](./225747-hyacinth.json) |
 | Hyacinthus | 120942 | [120942-hyacinthus.json](./120942-hyacinthus.json) |
 | Hyakka Ryoran Master Samurai Chronicles | 408853 | [408853-hyakka-ryoran-master-samurai-chronicles.json](./408853-hyakka-ryoran-master-samurai-chronicles.json) |
@@ -7005,6 +7009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyposphere | 33020 | [33020-hyposphere.json](./33020-hyposphere.json) |
 | Hyposphere 2 | 187918 | [187918-hyposphere-2.json](./187918-hyposphere-2.json) |
 | Hyposphere Z | 158632 | [158632-hyposphere-z.json](./158632-hyposphere-z.json) |
+| Hypothermia | 108900 | [108900-hypothermia.json](./108900-hypothermia.json) |
 | Hypotheses on the Symmetry between Vision and Hands | 294157 | [294157-hypotheses-on-the-symmetry-between-vision-and-hands.json](./294157-hypotheses-on-the-symmetry-between-vision-and-hands.json) |
 | Hypotheticards: a nature collection mystery!! | 182848 | [182848-hypotheticards-a-nature-collection-mystery.json](./182848-hypotheticards-a-nature-collection-mystery.json) |
 | Hypothetimania | 278405 | [278405-hypothetimania.json](./278405-hypothetimania.json) |
