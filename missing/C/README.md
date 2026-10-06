@@ -3764,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Jump, Puppy Jump | 355197 | [355197-chicken-jump-puppy-jump.json](./355197-chicken-jump-puppy-jump.json) |
 | Chicken Nuggets | 180224 | [180224-chicken-nuggets.json](./180224-chicken-nuggets.json) |
 | Chicken of the Farm | 124612 | [124612-chicken-of-the-farm.json](./124612-chicken-of-the-farm.json) |
+| Chicken Outbreak | 96850 | [96850-chicken-outbreak.json](./96850-chicken-outbreak.json) |
 | Chicken Party: Animal Farm | 314873 | [314873-chicken-party-animal-farm.json](./314873-chicken-party-animal-farm.json) |
 | Chicken Range | 84572 | [84572-chicken-range.json](./84572-chicken-range.json) |
 | Chicken Range Bundle | 139947 | [139947-chicken-range-bundle.json](./139947-chicken-range-bundle.json) |
@@ -4302,6 +4303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Fishing | 419830 | [419830-christmas-fishing.json](./419830-christmas-fishing.json) |
 | Christmas Fun | 226312 | [226312-christmas-fun.json](./226312-christmas-fun.json) |
 | Christmas Griddlers | 168903 | [168903-christmas-griddlers.json](./168903-christmas-griddlers.json) |
+| Christmas Hair Salon | 96837 | [96837-christmas-hair-salon.json](./96837-christmas-hair-salon.json) |
 | Christmas Hidden Objects | 102729 | [102729-christmas-hidden-objects.json](./102729-christmas-hidden-objects.json) |
 | Christmas Horror Land | 336538 | [336538-christmas-horror-land.json](./336538-christmas-horror-land.json) |
 | Christmas Horse 4 | 280858 | [280858-christmas-horse-4.json](./280858-christmas-horse-4.json) |
@@ -5311,6 +5313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claw Dropper | 365720 | [365720-claw-dropper.json](./365720-claw-dropper.json) |
 | Claw Express | 270384 | [270384-claw-express.json](./270384-claw-express.json) |
 | Claw Machine Sim | 259013 | [259013-claw-machine-sim.json](./259013-claw-machine-sim.json) |
+| Clawbert: ToyTown | 96831 | [96831-clawbert-toytown.json](./96831-clawbert-toytown.json) |
 | Clawberta | 192191 | [192191-clawberta.json](./192191-clawberta.json) |
 | Clawed | 342028 | [342028-clawed.json](./342028-clawed.json) |
 | Clawface | 89670 | [89670-clawface.json](./89670-clawface.json) |
@@ -6438,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Snake | 106752 | [106752-color-snake.json](./106752-color-snake.json) |
 | Color Soul: Memories | 124229 | [124229-color-soul-memories.json](./124229-color-soul-memories.json) |
 | Color Souls | 167604 | [167604-color-souls.json](./167604-color-souls.json) |
+| Color Spin | 96917 | [96917-color-spin.json](./96917-color-spin.json) |
 | Color Splash: Birds | 264764 | [264764-color-splash-birds.json](./264764-color-splash-birds.json) |
 | Color Splash: Dinosaurs | 291082 | [291082-color-splash-dinosaurs.json](./291082-color-splash-dinosaurs.json) |
 | Color Splash: Dogs | 261509 | [261509-color-splash-dogs.json](./261509-color-splash-dogs.json) |
@@ -7253,6 +7257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connected Hearts: The Musketeers Saga - DLC | 239149 | [239149-connected-hearts-the-musketeers-saga-dlc.json](./239149-connected-hearts-the-musketeers-saga-dlc.json) |
 | Connected! 2 | 259728 | [259728-connected-2.json](./259728-connected-2.json) |
 | Connectify | 190196 | [190196-connectify.json](./190196-connectify.json) |
+| Connecting 4's Game | 96933 | [96933-connecting-4s-game.json](./96933-connecting-4s-game.json) |
 | Connection | 100859 | [100859-connection.json](./100859-connection.json) |
 | Connection | 322574 | [322574-connection.json](./322574-connection.json) |
 | Connection Crawler | 418586 | [418586-connection-crawler.json](./418586-connection-crawler.json) |
@@ -8892,6 +8897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Bill: Smashing Zelebrities at the Zombie Stars Hotel | 175875 | [175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json](./175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json) |
 | Crazy Boom | 147386 | [147386-crazy-boom.json](./147386-crazy-boom.json) |
 | Crazy Boss | 238401 | [238401-crazy-boss.json](./238401-crazy-boss.json) |
+| Crazy Bowling | 96840 | [96840-crazy-bowling.json](./96840-crazy-bowling.json) |
 | Crazy Buggy Racing | 29107 | [29107-crazy-buggy-racing.json](./29107-crazy-buggy-racing.json) |
 | Crazy Bugs! | 248572 | [248572-crazy-bugs.json](./248572-crazy-bugs.json) |
 | Crazy Bus | 268477 | [268477-crazy-bus.json](./268477-crazy-bus.json) |
