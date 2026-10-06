@@ -1660,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dayshift at Freddy's 3 | 216206 | [216206-dayshift-at-freddys-3.json](./216206-dayshift-at-freddys-3.json) |
 | Daytona Championship USA | 57333 | [57333-daytona-championship-usa.json](./57333-daytona-championship-usa.json) |
 | Daytona Racing | 92623 | [92623-daytona-racing.json](./92623-daytona-racing.json) |
+| Daytona USA Deluxe | 73482 | [73482-daytona-usa-deluxe.json](./73482-daytona-usa-deluxe.json) |
 | DayZ | 2117 | [2117-dayz.json](./2117-dayz.json) |
 | DayZ: Frostline | 311724 | [311724-dayz-frostline.json](./311724-dayz-frostline.json) |
 | DayZ: Livonia Edition | 164803 | [164803-dayz-livonia-edition.json](./164803-dayz-livonia-edition.json) |
@@ -5331,6 +5332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Showdown | 7966 | [7966-dirt-showdown.json](./7966-dirt-showdown.json) |
 | Dirt Track Racing | 73269 | [73269-dirt-track-racing.json](./73269-dirt-track-racing.json) |
 | Dirt Track Racing 2 | 73758 | [73758-dirt-track-racing-2.json](./73758-dirt-track-racing-2.json) |
+| Dirt Track Racing: Australia | 73507 | [73507-dirt-track-racing-australia.json](./73507-dirt-track-racing-australia.json) |
 | Dirt Trackin Sprint Cars | 88095 | [88095-dirt-trackin-sprint-cars.json](./88095-dirt-trackin-sprint-cars.json) |
 | Dirt Trackin' 3 | 347314 | [347314-dirt-trackin-3.json](./347314-dirt-trackin-3.json) |
 | Dirt Trax FX | 42622 | [42622-dirt-trax-fx.json](./42622-dirt-trax-fx.json) |
