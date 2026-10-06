@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kago no Naka no Alicis | 218383 | [218383-kago-no-naka-no-alicis.json](./218383-kago-no-naka-no-alicis.json) |
 | Kaguya-sama: Love Is War | 239005 | [239005-kaguya-sama-love-is-war.json](./239005-kaguya-sama-love-is-war.json) |
 | Kahen Soukou Gunbike | 44756 | [44756-kahen-soukou-gunbike.json](./44756-kahen-soukou-gunbike.json) |
+| Kahogo de Ecchi na Boku no Ane | 97449 | [97449-kahogo-de-ecchi-na-boku-no-ane.json](./97449-kahogo-de-ecchi-na-boku-no-ane.json) |
 | Kai | 302610 | [302610-kai.json](./302610-kai.json) |
 | Kai Temple | 94910 | [94910-kai-temple.json](./94910-kai-temple.json) |
 | Kai Yuan | 236948 | [236948-kai-yuan.json](./236948-kai-yuan.json) |
@@ -782,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KBlocks | 82967 | [82967-kblocks.json](./82967-kblocks.json) |
 | KBRD | 251699 | [251699-kbrd.json](./251699-kbrd.json) |
 | KBreakOut | 141550 | [141550-kbreakout.json](./141550-kbreakout.json) |
+| KC Returns! | 97527 | [97527-kc-returns.json](./97527-kc-returns.json) |
 | KC Returns! II | 208374 | [208374-kc-returns-ii.json](./208374-kc-returns-ii.json) |
 | Kcpts | 244297 | [244297-kcpts.json](./244297-kcpts.json) |
 | KDice | 56512 | [56512-kdice.json](./56512-kdice.json) |
@@ -3296,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunlun Fight | 30180 | [30180-kunlun-fight.json](./30180-kunlun-fight.json) |
 | Kunoichi Beat | 369589 | [369589-kunoichi-beat.json](./369589-kunoichi-beat.json) |
 | Kunoichi Ninja | 122218 | [122218-kunoichi-ninja.json](./122218-kunoichi-ninja.json) |
+| Kunoichi Ninpocho | 97516 | [97516-kunoichi-ninpocho.json](./97516-kunoichi-ninpocho.json) |
 | Kunoichi Torimonocho | 123577 | [123577-kunoichi-torimonocho.json](./123577-kunoichi-torimonocho.json) |
 | Kunoichi Trainer | 343453 | [343453-kunoichi-trainer.json](./343453-kunoichi-trainer.json) |
 | KunSpace | 365816 | [365816-kunspace.json](./365816-kunspace.json) |
