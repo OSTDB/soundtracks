@@ -3120,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esper Dream | 47243 | [47243-esper-dream.json](./47243-esper-dream.json) |
 | Esper Girls | 265925 | [265925-esper-girls.json](./265925-esper-girls.json) |
 | Esper: Make You Live Again | 114991 | [114991-esper-make-you-live-again.json](./114991-esper-make-you-live-again.json) |
+| Espgaluda | 83808 | [83808-espgaluda.json](./83808-espgaluda.json) |
 | Espgaluda II: Black Label | 80457 | [80457-espgaluda-ii-black-label.json](./80457-espgaluda-ii-black-label.json) |
 | Espial | 23932 | [23932-espial.json](./23932-espial.json) |
 | Espiocracy | 153913 | [153913-espiocracy.json](./153913-espiocracy.json) |
