@@ -1621,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schizophrenic Rooms | 230857 | [230857-schizophrenic-rooms.json](./230857-schizophrenic-rooms.json) |
 | Schlag den Raab: Das 2. Spiel | 81447 | [81447-schlag-den-raab-das-2-spiel.json](./81447-schlag-den-raab-das-2-spiel.json) |
 | Schlag den Raab: Das 3. Spiel | 86078 | [86078-schlag-den-raab-das-3-spiel.json](./86078-schlag-den-raab-das-3-spiel.json) |
+| Schlag den Raab: Das Spiel | 116250 | [116250-schlag-den-raab-das-spiel.json](./116250-schlag-den-raab-das-spiel.json) |
 | Schlag den Star: Das 2. Spiel | 144617 | [144617-schlag-den-star-das-2-spiel.json](./144617-schlag-den-star-das-2-spiel.json) |
 | Schlag den Star: Das 3. Spiel | 256216 | [256216-schlag-den-star-das-3-spiel.json](./256216-schlag-den-star-das-3-spiel.json) |
 | Schlag den Star: Das Spiel | 78045 | [78045-schlag-den-star-das-spiel.json](./78045-schlag-den-star-das-spiel.json) |
@@ -3522,6 +3523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Memory Puzzle: Pool Massage | 319238 | [319238-sexy-memory-puzzle-pool-massage.json](./319238-sexy-memory-puzzle-pool-massage.json) |
 | Sexy Memory Puzzle: Spanking Girls | 248658 | [248658-sexy-memory-puzzle-spanking-girls.json](./248658-sexy-memory-puzzle-spanking-girls.json) |
 | Sexy Milfs | 230905 | [230905-sexy-milfs.json](./230905-sexy-milfs.json) |
+| Sexy Miss | 116264 | [116264-sexy-miss.json](./116264-sexy-miss.json) |
 | Sexy Mystic Survivors | 199508 | [199508-sexy-mystic-survivors.json](./199508-sexy-mystic-survivors.json) |
 | Sexy Puzzle | 335443 | [335443-sexy-puzzle.json](./335443-sexy-puzzle.json) |
 | Sexy Sniper | 159814 | [159814-sexy-sniper.json](./159814-sexy-sniper.json) |
@@ -6418,6 +6420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skarbnik | 92968 | [92968-skarbnik.json](./92968-skarbnik.json) |
 | Skat Stammtisch | 99613 | [99613-skat-stammtisch.json](./99613-skat-stammtisch.json) |
 | Skate | 283373 | [283373-skate.json](./283373-skate.json) |
+| Skate & Date | 116276 | [116276-skate-and-date.json](./116276-skate-and-date.json) |
 | Skate Attack | 43524 | [43524-skate-attack.json](./43524-skate-attack.json) |
 | Skate Bums | 387667 | [387667-skate-bums.json](./387667-skate-bums.json) |
 | Skate City | 26944 | [26944-skate-city.json](./26944-skate-city.json) |
@@ -12426,6 +12429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprite Wars | 297006 | [297006-sprite-wars.json](./297006-sprite-wars.json) |
 | Sprite's Honor! | 291491 | [291491-sprites-honor.json](./291491-sprites-honor.json) |
 | Spriters, Hopes Blooming Dawn | 248042 | [248042-spriters-hopes-blooming-dawn.json](./248042-spriters-hopes-blooming-dawn.json) |
+| Sprites | 116231 | [116231-sprites.json](./116231-sprites.json) |
 | Sprites at Play | 196880 | [196880-sprites-at-play.json](./196880-sprites-at-play.json) |
 | Sprkls.exe | 393780 | [393780-sprkls-exe.json](./393780-sprkls-exe.json) |
 | Sprnkls | 97938 | [97938-sprnkls.json](./97938-sprnkls.json) |
@@ -14160,6 +14164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamPowered | 350009 | [350009-steampowered.json](./350009-steampowered.json) |
 | Steampunch | 335075 | [335075-steampunch.json](./335075-steampunch.json) |
 | Steampunch: Lost Tombs | 358357 | [358357-steampunch-lost-tombs.json](./358357-steampunch-lost-tombs.json) |
+| Steampunk Idle Spinner | 116243 | [116243-steampunk-idle-spinner.json](./116243-steampunk-idle-spinner.json) |
 | Steampunk Jigsaw Puzzles | 264578 | [264578-steampunk-jigsaw-puzzles.json](./264578-steampunk-jigsaw-puzzles.json) |
 | Steampunk Jigsaw Puzzles: Airships & Aviators | 265567 | [265567-steampunk-jigsaw-puzzles-airships-and-aviators.json](./265567-steampunk-jigsaw-puzzles-airships-and-aviators.json) |
 | Steampunk Jigsaw Puzzles: Ancient Empires | 267433 | [267433-steampunk-jigsaw-puzzles-ancient-empires.json](./267433-steampunk-jigsaw-puzzles-ancient-empires.json) |
@@ -14591,6 +14596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman PVP Warriors PRO online | 95858 | [95858-stickman-pvp-warriors-pro-online.json](./95858-stickman-pvp-warriors-pro-online.json) |
 | Stickman Red boy and Blue girl | 231892 | [231892-stickman-red-boy-and-blue-girl.json](./231892-stickman-red-boy-and-blue-girl.json) |
 | Stickman Revenge: Demon Slayer | 323201 | [323201-stickman-revenge-demon-slayer.json](./323201-stickman-revenge-demon-slayer.json) |
+| Stickman Skate Battle | 116251 | [116251-stickman-skate-battle.json](./116251-stickman-skate-battle.json) |
 | Stickman Skater | 174341 | [174341-stickman-skater.json](./174341-stickman-skater.json) |
 | Stickman Soccer 2016 | 90737 | [90737-stickman-soccer-2016.json](./90737-stickman-soccer-2016.json) |
 | Stickman Strikes: Conquer Fantasy World | 317870 | [317870-stickman-strikes-conquer-fantasy-world.json](./317870-stickman-strikes-conquer-fantasy-world.json) |
@@ -16849,6 +16855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Doubles Tennis | 40425 | [40425-super-doubles-tennis.json](./40425-super-doubles-tennis.json) |
 | Super Dr Corona | 277930 | [277930-super-dr-corona.json](./277930-super-dr-corona.json) |
 | Super Dragon Ball Heroes: World Mission | 111054 | [111054-super-dragon-ball-heroes-world-mission.json](./111054-super-dragon-ball-heroes-world-mission.json) |
+| Super Dragon Ball Heroes: World Mission - Hero Edition | 116237 | [116237-super-dragon-ball-heroes-world-mission-hero-edition.json](./116237-super-dragon-ball-heroes-world-mission-hero-edition.json) |
 | Super Dragon Punch Force 3 | 295358 | [295358-super-dragon-punch-force-3.json](./295358-super-dragon-punch-force-3.json) |
 | Super Dragonfly Chronicles | 147613 | [147613-super-dragonfly-chronicles.json](./147613-super-dragonfly-chronicles.json) |
 | Super Drake Tracker 2000 EX | 63558 | [63558-super-drake-tracker-2000-ex.json](./63558-super-drake-tracker-2000-ex.json) |
