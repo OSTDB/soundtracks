@@ -1421,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave | 152147 | [152147-wave.json](./152147-wave.json) |
 | Wave 43 | 408124 | [408124-wave-43.json](./408124-wave-43.json) |
 | Wave Arrow | 106374 | [106374-wave-arrow.json](./106374-wave-arrow.json) |
+| Wave Break | 113602 | [113602-wave-break.json](./113602-wave-break.json) |
 | Wave Buxters | 329574 | [329574-wave-buxters.json](./329574-wave-buxters.json) |
 | Wave Circles | 117840 | [117840-wave-circles.json](./117840-wave-circles.json) |
 | Wave Gods: Ammo Night | 395781 | [395781-wave-gods-ammo-night.json](./395781-wave-gods-ammo-night.json) |
@@ -2387,6 +2388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Wild Things Are | 5278 | [5278-where-the-wild-things-are.json](./5278-where-the-wild-things-are.json) |
 | Where They Cremate the Roadkill | 68184 | [68184-where-they-cremate-the-roadkill.json](./68184-where-they-cremate-the-roadkill.json) |
 | Where They Wait | 342081 | [342081-where-they-wait.json](./342081-where-they-wait.json) |
+| Where Thoughts Go: Resolutions | 113606 | [113606-where-thoughts-go-resolutions.json](./113606-where-thoughts-go-resolutions.json) |
 | Where Time Ends | 363568 | [363568-where-time-ends.json](./363568-where-time-ends.json) |
 | Where Time Stood Still | 12489 | [12489-where-time-stood-still.json](./12489-where-time-stood-still.json) |
 | Where To? | 177937 | [177937-where-to.json](./177937-where-to.json) |
@@ -3550,6 +3552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Story | 215653 | [215653-witch-story.json](./215653-witch-story.json) |
 | Witch Thief | 55464 | [55464-witch-thief.json](./55464-witch-thief.json) |
 | Witch War 1 | 352384 | [352384-witch-war-1.json](./352384-witch-war-1.json) |
+| Witch Weapon | 113628 | [113628-witch-weapon.json](./113628-witch-weapon.json) |
 | Witch World | 244226 | [244226-witch-world.json](./244226-witch-world.json) |
 | Witch Wrath | 299861 | [299861-witch-wrath.json](./299861-witch-wrath.json) |
 | Witch You Want | 318407 | [318407-witch-you-want.json](./318407-witch-you-want.json) |
