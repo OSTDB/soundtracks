@@ -3018,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inva-taxi | 9076 | [9076-inva-taxi.json](./9076-inva-taxi.json) |
 | Invadead | 209486 | [209486-invadead.json](./209486-invadead.json) |
 | Invaded | 121698 | [121698-invaded.json](./121698-invaded.json) |
+| Invader | 59801 | [59801-invader.json](./59801-invader.json) |
 | Invader Signal | 207404 | [207404-invader-signal.json](./207404-invader-signal.json) |
 | Invader Simulator | 351616 | [351616-invader-simulator.json](./351616-invader-simulator.json) |
 | Invader's Revenge | 38572 | [38572-invaders-revenge.json](./38572-invaders-revenge.json) |
@@ -3632,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iSurf | 90908 | [90908-isurf.json](./90908-isurf.json) |
 | iSwinging 2 | 101611 | [101611-iswinging-2.json](./101611-iswinging-2.json) |
 | It All Boils Down to This | 184125 | [184125-it-all-boils-down-to-this.json](./184125-it-all-boils-down-to-this.json) |
+| It All Revolves Around You | 59781 | [59781-it-all-revolves-around-you.json](./59781-it-all-revolves-around-you.json) |
 | It Came From Space, and Ate Our Brains | 35930 | [35930-it-came-from-space-and-ate-our-brains.json](./35930-it-came-from-space-and-ate-our-brains.json) |
 | It Came From the Closet | 109050 | [109050-it-came-from-the-closet.json](./109050-it-came-from-the-closet.json) |
 | It Came from the Desert | 1060 | [1060-it-came-from-the-desert.json](./1060-it-came-from-the-desert.json) |
