@@ -7444,6 +7444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Abyss | 213592 | [213592-the-lost-abyss.json](./213592-the-lost-abyss.json) |
 | The Lost Adventures of Legend | 73543 | [73543-the-lost-adventures-of-legend.json](./73543-the-lost-adventures-of-legend.json) |
 | The Lost and Forgotten | 104816 | [104816-the-lost-and-forgotten.json](./104816-the-lost-and-forgotten.json) |
+| The Lost Angelic Chronicles of Frane: Dragon's Odyssey | 65855 | [65855-the-lost-angelic-chronicles-of-frane-dragons-odyssey.json](./65855-the-lost-angelic-chronicles-of-frane-dragons-odyssey.json) |
 | The Lost Art of Innkeeping | 135234 | [135234-the-lost-art-of-innkeeping.json](./135234-the-lost-art-of-innkeeping.json) |
 | The Lost Artifacts | 171588 | [171588-the-lost-artifacts.json](./171588-the-lost-artifacts.json) |
 | The Lost Ashford Ring | 267024 | [267024-the-lost-ashford-ring.json](./267024-the-lost-ashford-ring.json) |
@@ -7618,6 +7619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mammoth: A Cave Painting | 75768 | [75768-the-mammoth-a-cave-painting.json](./75768-the-mammoth-a-cave-painting.json) |
 | The Man Called Merc | 55045 | [55045-the-man-called-merc.json](./55045-the-man-called-merc.json) |
 | The Man from the Window 2 | 272352 | [272352-the-man-from-the-window-2.json](./272352-the-man-from-the-window-2.json) |
+| The Man in the Cape: Special Edition | 65816 | [65816-the-man-in-the-cape-special-edition.json](./65816-the-man-in-the-cape-special-edition.json) |
 | The Man in the Fields | 307850 | [307850-the-man-in-the-fields.json](./307850-the-man-in-the-fields.json) |
 | The Man Outside | 323396 | [323396-the-man-outside.json](./323396-the-man-outside.json) |
 | The Man Who Killed Time | 59681 | [59681-the-man-who-killed-time.json](./59681-the-man-who-killed-time.json) |
@@ -14686,6 +14688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Jigsaw | 99745 | [99745-total-jigsaw.json](./99745-total-jigsaw.json) |
 | Total Madness | 130219 | [130219-total-madness.json](./130219-total-madness.json) |
 | Total Miner | 77339 | [77339-total-miner.json](./77339-total-miner.json) |
+| Total Miner: Forge | 65845 | [65845-total-miner-forge.json](./65845-total-miner-forge.json) |
 | Total Overdose | 6213 | [6213-total-overdose.json](./6213-total-overdose.json) |
 | Total Party Kill | 119272 | [119272-total-party-kill.json](./119272-total-party-kill.json) |
 | Total Pinball 25: 3D Tables | 206745 | [206745-total-pinball-25-3d-tables.json](./206745-total-pinball-25-3d-tables.json) |
@@ -16748,6 +16751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transpire | 144269 | [144269-transpire.json](./144269-transpire.json) |
 | Transplant | 70926 | [70926-transplant.json](./70926-transplant.json) |
 | Transport 2 | 308339 | [308339-transport-2.json](./308339-transport-2.json) |
+| Transport Defender | 65828 | [65828-transport-defender.json](./65828-transport-defender.json) |
 | Transport Fever 2 | 117820 | [117820-transport-fever-2.json](./117820-transport-fever-2.json) |
 | Transport Fever 2: Console Edition - Deluxe Edition | 241357 | [241357-transport-fever-2-console-edition-deluxe-edition.json](./241357-transport-fever-2-console-edition-deluxe-edition.json) |
 | Transport Fever 2: Deluxe Edition | 241359 | [241359-transport-fever-2-deluxe-edition.json](./241359-transport-fever-2-deluxe-edition.json) |
