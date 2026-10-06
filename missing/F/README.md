@@ -7186,6 +7186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funbag Fantasy 2 | 127948 | [127948-funbag-fantasy-2.json](./127948-funbag-fantasy-2.json) |
 | Funbag Fantasy 4: Brother Astor | 210718 | [210718-funbag-fantasy-4-brother-astor.json](./210718-funbag-fantasy-4-brother-astor.json) |
 | Funbag Fantasy: Sideboob Story | 127949 | [127949-funbag-fantasy-sideboob-story.json](./127949-funbag-fantasy-sideboob-story.json) |
+| Funball | 94946 | [94946-funball.json](./94946-funball.json) |
 | Function | 119618 | [119618-function.json](./119618-function.json) |
 | Function.Repair | 63827 | [63827-function-repair.json](./63827-function-repair.json) |
 | Functional: Trees | 296599 | [296599-functional-trees.json](./296599-functional-trees.json) |
