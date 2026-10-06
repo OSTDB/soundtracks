@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wabisabi | 127786 | [127786-wabisabi.json](./127786-wabisabi.json) |
 | Wachenröder | 93007 | [93007-wachenroder.json](./93007-wachenroder.json) |
 | Wack Track Pack | 358318 | [358318-wack-track-pack.json](./358318-wack-track-pack.json) |
+| Wacki: Kosmiczna Rozgrywka | 81666 | [81666-wacki-kosmiczna-rozgrywka.json](./81666-wacki-kosmiczna-rozgrywka.json) |
 | Wacktory | 121609 | [121609-wacktory.json](./121609-wacktory.json) |
 | Wacky Cartoon Racers | 138562 | [138562-wacky-cartoon-racers.json](./138562-wacky-cartoon-racers.json) |
 | Wacky Chariots | 196887 | [196887-wacky-chariots.json](./196887-wacky-chariots.json) |
@@ -4736,6 +4737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series 1964 | 130864 | [130864-world-series-1964.json](./130864-world-series-1964.json) |
 | World Series Baseball | 171986 | [171986-world-series-baseball.json](./171986-world-series-baseball.json) |
 | World Series Baseball | 247009 | [247009-world-series-baseball.json](./247009-world-series-baseball.json) |
+| World Series Baseball | 81662 | [81662-world-series-baseball.json](./81662-world-series-baseball.json) |
 | World Series Baseball '95 | 368629 | [368629-world-series-baseball-95.json](./368629-world-series-baseball-95.json) |
 | World Series Baseball II | 45511 | [45511-world-series-baseball-ii.json](./45511-world-series-baseball-ii.json) |
 | World Series Basketball | 45316 | [45316-world-series-basketball.json](./45316-world-series-basketball.json) |
