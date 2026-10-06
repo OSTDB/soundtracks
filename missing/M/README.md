@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Fest: Winterland | 113163 | [113163-mahjong-fest-winterland.json](./113163-mahjong-fest-winterland.json) |
 | Mahjong Fight Club Wii: Wi-Fi Taiou | 125914 | [125914-mahjong-fight-club-wii-wi-fi-taiou.json](./125914-mahjong-fight-club-wii-wi-fi-taiou.json) |
 | Mahjong Fight Club: Shinsei Zenkoku Taisen-ban | 79829 | [79829-mahjong-fight-club-shinsei-zenkoku-taisen-ban.json](./79829-mahjong-fight-club-shinsei-zenkoku-taisen-ban.json) |
+| Mahjong Fight Club: Zenkoku Taisenban | 76144 | [76144-mahjong-fight-club-zenkoku-taisenban.json](./76144-mahjong-fight-club-zenkoku-taisenban.json) |
 | Mahjong Forest Journey | 108591 | [108591-mahjong-forest-journey.json](./108591-mahjong-forest-journey.json) |
 | Mahjong Gakkou | 415967 | [415967-mahjong-gakkou.json](./415967-mahjong-gakkou.json) |
 | Mahjong Gakuen Touma Soushirou Toujou | 59429 | [59429-mahjong-gakuen-touma-soushirou-toujou.json](./59429-mahjong-gakuen-touma-soushirou-toujou.json) |
@@ -5198,6 +5199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merry Christmas: Snowball Bubble | 187495 | [187495-merry-christmas-snowball-bubble.json](./187495-merry-christmas-snowball-bubble.json) |
 | Merry Clickmas | 23683 | [23683-merry-clickmas.json](./23683-merry-clickmas.json) |
 | Merry Cook | 367934 | [367934-merry-cook.json](./367934-merry-cook.json) |
+| Merry Gear Solid: Secret Santa | 76129 | [76129-merry-gear-solid-secret-santa.json](./76129-merry-gear-solid-secret-santa.json) |
 | Merry Go Round | 287636 | [287636-merry-go-round.json](./287636-merry-go-round.json) |
 | Merry Go Wrong | 181323 | [181323-merry-go-wrong.json](./181323-merry-go-wrong.json) |
 | Merry Snowballs | 27016 | [27016-merry-snowballs.json](./27016-merry-snowballs.json) |
@@ -8560,6 +8562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Dash | 18497 | [18497-monster-dash.json](./18497-monster-dash.json) |
 | Monster Demolition | 261416 | [261416-monster-demolition.json](./261416-monster-demolition.json) |
 | Monster Desert | 233458 | [233458-monster-desert.json](./233458-monster-desert.json) |
+| Monster Dot | 76154 | [76154-monster-dot.json](./76154-monster-dot.json) |
 | Monster Dungeon | 192666 | [192666-monster-dungeon.json](./192666-monster-dungeon.json) |
 | Monster Dunk | 130333 | [130333-monster-dunk.json](./130333-monster-dunk.json) |
 | Monster Dynamite | 115752 | [115752-monster-dynamite.json](./115752-monster-dynamite.json) |
@@ -8596,6 +8599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Galaxy: Exile | 324933 | [324933-monster-galaxy-exile.json](./324933-monster-galaxy-exile.json) |
 | Monster Galaxy: The Zodiac Islands | 98577 | [98577-monster-galaxy-the-zodiac-islands.json](./98577-monster-galaxy-the-zodiac-islands.json) |
 | Monster Gals: Voyage | 373100 | [373100-monster-gals-voyage.json](./373100-monster-gals-voyage.json) |
+| Monster Garage | 76139 | [76139-monster-garage.json](./76139-monster-garage.json) |
 | Monster Girl * Fusion | 82764 | [82764-monster-girl-fusion.json](./82764-monster-girl-fusion.json) |
 | Monster Girl 2 | 237291 | [237291-monster-girl-2.json](./237291-monster-girl-2.json) |
 | Monster Girl Clinic | 412305 | [412305-monster-girl-clinic.json](./412305-monster-girl-clinic.json) |
