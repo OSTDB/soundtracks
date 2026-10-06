@@ -6945,6 +6945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porn Pizza Delivery Boy | 369674 | [369674-porn-pizza-delivery-boy.json](./369674-porn-pizza-delivery-boy.json) |
 | Porn Star Island | 385795 | [385795-porn-star-island.json](./385795-porn-star-island.json) |
 | Porno Empire | 270786 | [270786-porno-empire.json](./270786-porno-empire.json) |
+| Porno Party: Sailor Fuku to Yakyuken - The Yakyuken Game | 96310 | [96310-porno-party-sailor-fuku-to-yakyuken-the-yakyuken-game.json](./96310-porno-party-sailor-fuku-to-yakyuken-the-yakyuken-game.json) |
 | Pornocrates | 158065 | [158065-pornocrates.json](./158065-pornocrates.json) |
 | Pornographer | 411054 | [411054-pornographer.json](./411054-pornographer.json) |
 | Porntris | 299467 | [299467-porntris.json](./299467-porntris.json) |
@@ -9211,6 +9212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pueblo | 236905 | [236905-pueblo.json](./236905-pueblo.json) |
 | Pueblo | 333767 | [333767-pueblo.json](./333767-pueblo.json) |
 | Puerto Rico HD | 90795 | [90795-puerto-rico-hd.json](./90795-puerto-rico-hd.json) |
+| Puerto Rico No Está Apaga'o | 96316 | [96316-puerto-rico-no-esta-apagao.json](./96316-puerto-rico-no-esta-apagao.json) |
 | Puff and the Catnip Caper | 185430 | [185430-puff-and-the-catnip-caper.json](./185430-puff-and-the-catnip-caper.json) |
 | Puff Love Story | 371903 | [371903-puff-love-story.json](./371903-puff-love-story.json) |
 | Puff Puff the Magic Pipe | 156528 | [156528-puff-puff-the-magic-pipe.json](./156528-puff-puff-the-magic-pipe.json) |
