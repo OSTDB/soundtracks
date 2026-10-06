@@ -1418,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmen Sandiego's Great Chase Through Time | 19426 | [19426-carmen-sandiegos-great-chase-through-time.json](./19426-carmen-sandiegos-great-chase-through-time.json) |
 | Carmen Sandiego's Think Quick Challenge | 66607 | [66607-carmen-sandiegos-think-quick-challenge.json](./66607-carmen-sandiegos-think-quick-challenge.json) |
 | Carmen's World Orchestra | 343379 | [343379-carmens-world-orchestra.json](./343379-carmens-world-orchestra.json) |
+| Carmine | 92134 | [92134-carmine.json](./92134-carmine.json) |
 | Carmine Impact | 142318 | [142318-carmine-impact.json](./142318-carmine-impact.json) |
 | Carminia | 153385 | [153385-carminia.json](./153385-carminia.json) |
 | Carnage | 170831 | [170831-carnage.json](./170831-carnage.json) |
@@ -4277,6 +4278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chris's Classroom | 400904 | [400904-chriss-classroom.json](./400904-chriss-classroom.json) |
 | Christa & Tonyo | 352857 | [352857-christa-and-tonyo.json](./352857-christa-and-tonyo.json) |
 | Christian Matchups | 95423 | [95423-christian-matchups.json](./95423-christian-matchups.json) |
+| Christine | 92150 | [92150-christine.json](./92150-christine.json) |
 | Christmas - Color Your Puzzle and Paint for Kids | 87617 | [87617-christmas-color-your-puzzle-and-paint-for-kids.json](./87617-christmas-color-your-puzzle-and-paint-for-kids.json) |
 | Christmas Across America | 417584 | [417584-christmas-across-america.json](./417584-christmas-across-america.json) |
 | Christmas Adventure: Candy Storm | 33159 | [33159-christmas-adventure-candy-storm.json](./33159-christmas-adventure-candy-storm.json) |
@@ -5499,6 +5501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicky Islands | 388729 | [388729-clicky-islands.json](./388729-clicky-islands.json) |
 | Clientele | 213020 | [213020-clientele.json](./213020-clientele.json) |
 | Cliff Rush 3D | 322986 | [322986-cliff-rush-3d.json](./322986-cliff-rush-3d.json) |
+| Cliffed | 92163 | [92163-cliffed.json](./92163-cliffed.json) |
 | Cliffhanger | 5370 | [5370-cliffhanger.json](./5370-cliffhanger.json) |
 | Cliffhanger | 81446 | [81446-cliffhanger.json](./81446-cliffhanger.json) |
 | Cliffhanger - Chat Stories | 87042 | [87042-cliffhanger-chat-stories.json](./87042-cliffhanger-chat-stories.json) |
@@ -8149,6 +8152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosminomy | 357364 | [357364-cosminomy.json](./357364-cosminomy.json) |
 | Cosmo 02 | 165690 | [165690-cosmo-02.json](./165690-cosmo-02.json) |
 | Cosmo and Yuuko: A Space Adventure | 178958 | [178958-cosmo-and-yuuko-a-space-adventure.json](./178958-cosmo-and-yuuko-a-space-adventure.json) |
+| Cosmo Angel | 92148 | [92148-cosmo-angel.json](./92148-cosmo-angel.json) |
 | Cosmo Cargo | 394499 | [394499-cosmo-cargo.json](./394499-cosmo-cargo.json) |
 | Cosmo Duel | 95576 | [95576-cosmo-duel.json](./95576-cosmo-duel.json) |
 | Cosmo Fighter II | 112162 | [112162-cosmo-fighter-ii.json](./112162-cosmo-fighter-ii.json) |
