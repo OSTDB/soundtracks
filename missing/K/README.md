@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kairos | 411799 | [411799-kairos.json](./411799-kairos.json) |
 | Kairos'Light | 132235 | [132235-kairoslight.json](./132235-kairoslight.json) |
 | Kaisen! Ika Gundan! | 269317 | [269317-kaisen-ika-gundan.json](./269317-kaisen-ika-gundan.json) |
+| Kaiser | 76157 | [76157-kaiser.json](./76157-kaiser.json) |
 | Kaiser of Singularity | 260868 | [260868-kaiser-of-singularity.json](./260868-kaiser-of-singularity.json) |
 | Kaisho | 276270 | [276270-kaisho.json](./276270-kaisho.json) |
 | Kaitasume: Zero | 388406 | [388406-kaitasume-zero.json](./388406-kaitasume-zero.json) |
