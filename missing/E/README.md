@@ -719,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EF2000 TACTCOM | 77647 | [77647-ef2000-tactcom.json](./77647-ef2000-tactcom.json) |
 | EF2000 v2.0 | 677 | [677-ef2000-v2-0.json](./677-ef2000-v2-0.json) |
 | Efemeris | 234204 | [234204-efemeris.json](./234204-efemeris.json) |
+| Efera & Jiliora: The Emblem From Darkness | 108923 | [108923-efera-and-jiliora-the-emblem-from-darkness.json](./108923-efera-and-jiliora-the-emblem-from-darkness.json) |
 | Effacer: Hangman from the 25th Century | 45932 | [45932-effacer-hangman-from-the-25th-century.json](./45932-effacer-hangman-from-the-25th-century.json) |
 | Effective Immediately | 310180 | [310180-effective-immediately.json](./310180-effective-immediately.json) |
 | Effeminate Touch | 396543 | [396543-effeminate-touch.json](./396543-effeminate-touch.json) |
