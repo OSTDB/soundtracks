@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bumpy Ride | 312660 | [312660-a-bumpy-ride.json](./312660-a-bumpy-ride.json) |
 | A Bunch of you in a Crowded Room | 177363 | [177363-a-bunch-of-you-in-a-crowded-room.json](./177363-a-bunch-of-you-in-a-crowded-room.json) |
 | A Business Tycoon | 68025 | [68025-a-business-tycoon.json](./68025-a-business-tycoon.json) |
+| A Busty JK Teaches How to Do Petit Compensated Dating | 83168 | [83168-a-busty-jk-teaches-how-to-do-petit-compensated-dating.json](./83168-a-busty-jk-teaches-how-to-do-petit-compensated-dating.json) |
 | A Butterfly | 266400 | [266400-a-butterfly.json](./266400-a-butterfly.json) |
 | A Butterfly | 327294 | [327294-a-butterfly.json](./327294-a-butterfly.json) |
 | A Butterfly's Dream | 194996 | [194996-a-butterflys-dream.json](./194996-a-butterflys-dream.json) |
@@ -310,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hunter's Day | 181198 | [181198-a-hunters-day.json](./181198-a-hunters-day.json) |
 | A Ilha Perdida da Babitonga | 352367 | [352367-a-ilha-perdida-da-babitonga.json](./352367-a-ilha-perdida-da-babitonga.json) |
 | A is for Aardvark | 334281 | [334281-a-is-for-aardvark.json](./334281-a-is-for-aardvark.json) |
+| A JK Voice Actress and an Adult Script | 83188 | [83188-a-jk-voice-actress-and-an-adult-script.json](./83188-a-jk-voice-actress-and-an-adult-script.json) |
 | A Journey Into Xanth | 135643 | [135643-a-journey-into-xanth.json](./135643-a-journey-into-xanth.json) |
 | A Journey Through Valhalla | 165677 | [165677-a-journey-through-valhalla.json](./165677-a-journey-through-valhalla.json) |
 | A Journey Together | 261810 | [261810-a-journey-together.json](./261810-a-journey-together.json) |
@@ -480,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Phone Found in Tall Grass | 245025 | [245025-a-phone-found-in-tall-grass.json](./245025-a-phone-found-in-tall-grass.json) |
 | A Piano Tale | 201677 | [201677-a-piano-tale.json](./201677-a-piano-tale.json) |
 | A Piece of Wish upon the Stars | 106410 | [106410-a-piece-of-wish-upon-the-stars.json](./106410-a-piece-of-wish-upon-the-stars.json) |
+| A Pilferer Lily's Naked Stealth Journey | 83162 | [83162-a-pilferer-lilys-naked-stealth-journey.json](./83162-a-pilferer-lilys-naked-stealth-journey.json) |
 | A Pirate Quartermaster | 120698 | [120698-a-pirate-quartermaster.json](./120698-a-pirate-quartermaster.json) |
 | A Pirate's End | 176276 | [176276-a-pirates-end.json](./176276-a-pirates-end.json) |
 | A Pixel Story | 27210 | [27210-a-pixel-story.json](./27210-a-pixel-story.json) |
@@ -2899,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akatsuki no Goei Trinity: Complete Edition | 202955 | [202955-akatsuki-no-goei-trinity-complete-edition.json](./202955-akatsuki-no-goei-trinity-complete-edition.json) |
 | Akatsuki no Goei: Principal-tachi no Kyuujitsu | 202952 | [202952-akatsuki-no-goei-principal-tachi-no-kyuujitsu.json](./202952-akatsuki-no-goei-principal-tachi-no-kyuujitsu.json) |
 | Akatsuki no Goei: Tsumibukaki Shuumatsuron | 202953 | [202953-akatsuki-no-goei-tsumibukaki-shuumatsuron.json](./202953-akatsuki-no-goei-tsumibukaki-shuumatsuron.json) |
+| Akatsuki no Lily Philia | 83174 | [83174-akatsuki-no-lily-philia.json](./83174-akatsuki-no-lily-philia.json) |
 | Akatsuki no Tenjinroku | 208850 | [208850-akatsuki-no-tenjinroku.json](./208850-akatsuki-no-tenjinroku.json) |
 | Akatsuki Yureru Koi Akari | 238101 | [238101-akatsuki-yureru-koi-akari.json](./238101-akatsuki-yureru-koi-akari.json) |
 | Akatsuki Zero | 258127 | [258127-akatsuki-zero.json](./258127-akatsuki-zero.json) |
@@ -4688,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anagrammatic | 323710 | [323710-anagrammatic.json](./323710-anagrammatic.json) |
 | Anagramme Duel | 96037 | [96037-anagramme-duel.json](./96037-anagramme-duel.json) |
 | Anagrams | 169360 | [169360-anagrams.json](./169360-anagrams.json) |
+| Anahita: The Good Girl | 83151 | [83151-anahita-the-good-girl.json](./83151-anahita-the-good-girl.json) |
 | Analemma | 68767 | [68767-analemma.json](./68767-analemma.json) |
 | Analistica Academy | 89937 | [89937-analistica-academy.json](./89937-analistica-academy.json) |
 | Analog Party Sim | 160246 | [160246-analog-party-sim.json](./160246-analog-party-sim.json) |
@@ -5772,6 +5777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthem of Roses | 55067 | [55067-anthem-of-roses.json](./55067-anthem-of-roses.json) |
 | Anthem: Legion of Dawn Edition | 103276 | [103276-anthem-legion-of-dawn-edition.json](./103276-anthem-legion-of-dawn-edition.json) |
 | Anthem#9 | 276853 | [276853-anthem-9.json](./276853-anthem-9.json) |
+| Anthesis | 83146 | [83146-anthesis.json](./83146-anthesis.json) |
 | Anthology of the Killer | 268731 | [268731-anthology-of-the-killer.json](./268731-anthology-of-the-killer.json) |
 | Antholojam 1: Golden Era of Sci-Fi | 141781 | [141781-antholojam-1-golden-era-of-sci-fi.json](./141781-antholojam-1-golden-era-of-sci-fi.json) |
 | Anthro Heat | 236405 | [236405-anthro-heat.json](./236405-anthro-heat.json) |
@@ -8451,6 +8457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Chase | 282088 | [282088-astro-chase.json](./282088-astro-chase.json) |
 | Astro Chase 3D | 107639 | [107639-astro-chase-3d.json](./107639-astro-chase-3d.json) |
 | Astro Chef | 289381 | [289381-astro-chef.json](./289381-astro-chef.json) |
+| Astro Chef | 83192 | [83192-astro-chef.json](./83192-astro-chef.json) |
 | Astro Combat | 337648 | [337648-astro-combat.json](./337648-astro-combat.json) |
 | Astro Combat | 345097 | [345097-astro-combat.json](./345097-astro-combat.json) |
 | Astro Command Scramble Retro! | 208624 | [208624-astro-command-scramble-retro.json](./208624-astro-command-scramble-retro.json) |
