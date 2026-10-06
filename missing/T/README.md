@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T-Rex Runner | 105549 | [105549-t-rex-runner.json](./105549-t-rex-runner.json) |
 | T-Rex Simulator | 96299 | [96299-t-rex-simulator.json](./96299-t-rex-simulator.json) |
 | T-Zer0 | 69588 | [69588-t-zer0.json](./69588-t-zer0.json) |
+| T. N. T. Bomb Bomb | 92142 | [92142-t-n-t-bomb-bomb.json](./92142-t-n-t-bomb-bomb.json) |
 | T.A.P. | 114329 | [114329-t-a-p.json](./114329-t-a-p.json) |
 | T.B.M: The Blueppers Mayhem | 362385 | [362385-t-b-m-the-blueppers-mayhem.json](./362385-t-b-m-the-blueppers-mayhem.json) |
 | T.D.Z. 3: Dark Way of Stalker | 242671 | [242671-t-d-z-3-dark-way-of-stalker.json](./242671-t-d-z-3-dark-way-of-stalker.json) |
@@ -2908,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Text: Russia | 160233 | [160233-text-russia.json](./160233-text-russia.json) |
 | Texthoth Ludo: Arcanum Senki | 107631 | [107631-texthoth-ludo-arcanum-senki.json](./107631-texthoth-ludo-arcanum-senki.json) |
 | Textiling | 182904 | [182904-textiling.json](./182904-textiling.json) |
+| Texting of the Bread | 92152 | [92152-texting-of-the-bread.json](./92152-texting-of-the-bread.json) |
 | Texting the Awkward Ace Guy You've Had a Crush on Since High School | 279706 | [279706-texting-the-awkward-ace-guy-youve-had-a-crush-on-since-high-school.json](./279706-texting-the-awkward-ace-guy-youve-had-a-crush-on-since-high-school.json) |
 | TextQuests | 397056 | [397056-textquests.json](./397056-textquests.json) |
 | Textris | 62713 | [62713-textris.json](./62713-textris.json) |
@@ -3886,6 +3888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Button Be: Unexpected | 217543 | [217543-the-button-be-unexpected.json](./217543-the-button-be-unexpected.json) |
 | The Button by Elendow | 238612 | [238612-the-button-by-elendow.json](./238612-the-button-by-elendow.json) |
 | The Button Effect | 342839 | [342839-the-button-effect.json](./342839-the-button-effect.json) |
+| The Byoin | 92151 | [92151-the-byoin.json](./92151-the-byoin.json) |
 | The Byouin | 230206 | [230206-the-byouin.json](./230206-the-byouin.json) |
 | The C64 Collection 1 | 214533 | [214533-the-c64-collection-1.json](./214533-the-c64-collection-1.json) |
 | The C64 Collection 2 | 239138 | [239138-the-c64-collection-2.json](./239138-the-c64-collection-2.json) |
@@ -9877,6 +9880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower Must Fall | 412489 | [412489-the-tower-must-fall.json](./412489-the-tower-must-fall.json) |
 | The Tower of Archeos | 287318 | [287318-the-tower-of-archeos.json](./287318-the-tower-of-archeos.json) |
 | The Tower of Beatrice | 90417 | [90417-the-tower-of-beatrice.json](./90417-the-tower-of-beatrice.json) |
+| The Tower of Cabin: Cabin Panic | 92139 | [92139-the-tower-of-cabin-cabin-panic.json](./92139-the-tower-of-cabin-cabin-panic.json) |
 | The Tower of Druaga | 239167 | [239167-the-tower-of-druaga.json](./239167-the-tower-of-druaga.json) |
 | The Tower of Eden | 346153 | [346153-the-tower-of-eden.json](./346153-the-tower-of-eden.json) |
 | The Tower of Five Hearts | 111402 | [111402-the-tower-of-five-hearts.json](./111402-the-tower-of-five-hearts.json) |
@@ -16934,6 +16938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tree World | 225749 | [225749-tree-world.json](./225749-tree-world.json) |
 | Tree.Bonsai | 104946 | [104946-tree-bonsai.json](./104946-tree-bonsai.json) |
 | Tree's Love Crossing Above | 346571 | [346571-trees-love-crossing-above.json](./346571-trees-love-crossing-above.json) |
+| TreeConnect | 92140 | [92140-treeconnect.json](./92140-treeconnect.json) |
 | Treehouse Trouble | 181133 | [181133-treehouse-trouble.json](./181133-treehouse-trouble.json) |
 | Treehouse Truants | 69333 | [69333-treehouse-truants.json](./69333-treehouse-truants.json) |
 | Treekeepers | 219535 | [219535-treekeepers.json](./219535-treekeepers.json) |
