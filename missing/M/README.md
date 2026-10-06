@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
 | Mabeop Cheonjamun DS | 124789 | [124789-mabeop-cheonjamun-ds.json](./124789-mabeop-cheonjamun-ds.json) |
 | Mabeop Cheonjamun DS 2: The Final Hanja Magic | 124788 | [124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json](./124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json) |
+| MabinoB G2 | 97515 | [97515-mabinob-g2.json](./97515-mabinob-g2.json) |
 | MabinoB G3 | 109188 | [109188-mabinob-g3.json](./109188-mabinob-g3.json) |
 | Mabinogi Duel | 23653 | [23653-mabinogi-duel.json](./23653-mabinogi-duel.json) |
 | Mabinogi Mobile | 188377 | [188377-mabinogi-mobile.json](./188377-mabinogi-mobile.json) |
@@ -1946,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maria | 308406 | [308406-maria.json](./308406-maria.json) |
 | Maria 2: Jutai Kokuchi no Nazo | 74346 | [74346-maria-2-jutai-kokuchi-no-nazo.json](./74346-maria-2-jutai-kokuchi-no-nazo.json) |
 | Maria the Witch | 33406 | [33406-maria-the-witch.json](./33406-maria-the-witch.json) |
+| Maria-sama ga Gyakuten | 97525 | [97525-maria-sama-ga-gyakuten.json](./97525-maria-sama-ga-gyakuten.json) |
 | Maria/Alchemist: Synthetist Maria's Tragedy | 98455 | [98455-maria-alchemist-synthetist-marias-tragedy.json](./98455-maria-alchemist-synthetist-marias-tragedy.json) |
 | Mariachi Legends | 252852 | [252852-mariachi-legends.json](./252852-mariachi-legends.json) |
 | Mariam Game | 235484 | [235484-mariam-game.json](./235484-mariam-game.json) |
@@ -5159,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meseugaki Yeong-ae-nim! | 232426 | [232426-meseugaki-yeong-ae-nim.json](./232426-meseugaki-yeong-ae-nim.json) |
 | Mesh Replica | 296684 | [296684-mesh-replica.json](./296684-mesh-replica.json) |
 | Meshchera | 415882 | [415882-meshchera.json](./415882-meshchera.json) |
+| Meshimase Haramase | 97524 | [97524-meshimase-haramase.json](./97524-meshimase-haramase.json) |
 | Meshuda | 406213 | [406213-meshuda.json](./406213-meshuda.json) |
 | Mesih | 281386 | [281386-mesih.json](./281386-mesih.json) |
 | Mesmerize: Distort | 99979 | [99979-mesmerize-distort.json](./99979-mesmerize-distort.json) |
@@ -5995,6 +5998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft World of Flight | 209514 | [209514-microsoft-world-of-flight.json](./209514-microsoft-world-of-flight.json) |
 | Microsoft: My Personal Tutor 1st & 2nd Grade | 144365 | [144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json](./144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json) |
 | Microsoft: My Personal Tutor Preschool & Kindergarden | 144363 | [144363-microsoft-my-personal-tutor-preschool-and-kindergarden.json](./144363-microsoft-my-personal-tutor-preschool-and-kindergarden.json) |
+| Microspace Invaders | 97442 | [97442-microspace-invaders.json](./97442-microspace-invaders.json) |
 | Microsurgeon | 5684 | [5684-microsurgeon.json](./5684-microsurgeon.json) |
 | Microtopia | 293155 | [293155-microtopia.json](./293155-microtopia.json) |
 | Microtransaction Simulator Game of the Decade: Deluxe Edition | 89399 | [89399-microtransaction-simulator-game-of-the-decade-deluxe-edition.json](./89399-microtransaction-simulator-game-of-the-decade-deluxe-edition.json) |
@@ -8247,6 +8251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
 | Moneyball! | 125937 | [125937-moneyball.json](./125937-moneyball.json) |
+| MoneySeize | 97519 | [97519-moneyseize.json](./97519-moneyseize.json) |
 | Mong Jung Mong | 166568 | [166568-mong-jung-mong.json](./166568-mong-jung-mong.json) |
 | Mongol | 227967 | [227967-mongol.json](./227967-mongol.json) |
 | Mongol 2 | 370339 | [370339-mongol-2.json](./370339-mongol-2.json) |
@@ -9710,6 +9715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Toon Grand Prix | 43887 | [43887-motor-toon-grand-prix.json](./43887-motor-toon-grand-prix.json) |
 | Motor Town: Soul of the Machine | 54230 | [54230-motor-town-soul-of-the-machine.json](./54230-motor-town-soul-of-the-machine.json) |
 | Motor Wars | 137592 | [137592-motor-wars.json](./137592-motor-wars.json) |
+| Motor Wars 2 | 97440 | [97440-motor-wars-2.json](./97440-motor-wars-2.json) |
 | Motorama: Classic Racing | 10566 | [10566-motorama-classic-racing.json](./10566-motorama-classic-racing.json) |
 | Motorball | 137599 | [137599-motorball.json](./137599-motorball.json) |
 | Motorbike | 35923 | [35923-motorbike.json](./35923-motorbike.json) |
