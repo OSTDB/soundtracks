@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xploit.Zero | 380561 | [380561-xploit-zero.json](./380561-xploit-zero.json) |
 | Xploquest | 76926 | [76926-xploquest.json](./76926-xploquest.json) |
 | Xplorasi3d 2.0 | 220729 | [220729-xplorasi3d-2-0.json](./220729-xplorasi3d-2-0.json) |
+| Xplore Health | 60391 | [60391-xplore-health.json](./60391-xplore-health.json) |
 | Xplosive Raccoon | 283861 | [283861-xplosive-raccoon.json](./283861-xplosive-raccoon.json) |
 | XPock | 159775 | [159775-xpock.json](./159775-xpock.json) |
 | Xposed Switched | 232562 | [232562-xposed-switched.json](./232562-xposed-switched.json) |
