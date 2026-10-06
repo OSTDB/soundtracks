@@ -1724,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castaway II: Isle of the Titans | 141759 | [141759-castaway-ii-isle-of-the-titans.json](./141759-castaway-ii-isle-of-the-titans.json) |
 | Castaway on a Weird Island | 174198 | [174198-castaway-on-a-weird-island.json](./174198-castaway-on-a-weird-island.json) |
 | Castaway Paradise | 36279 | [36279-castaway-paradise.json](./36279-castaway-paradise.json) |
+| Castaway Paradise - Animal Sim Island | 107089 | [107089-castaway-paradise-animal-sim-island.json](./107089-castaway-paradise-animal-sim-island.json) |
 | Castaway Samurai | 319127 | [319127-castaway-samurai.json](./319127-castaway-samurai.json) |
 | Castaway Soul | 336688 | [336688-castaway-soul.json](./336688-castaway-soul.json) |
 | Castaway Survival In Ocean: Build Your Own Raft, Craft | 409694 | [409694-castaway-survival-in-ocean-build-your-own-raft-craft.json](./409694-castaway-survival-in-ocean-build-your-own-raft-craft.json) |
@@ -4271,6 +4272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Country | 45938 | [45938-christmas-country.json](./45938-christmas-country.json) |
 | Christmas Crisis | 45937 | [45937-christmas-crisis.json](./45937-christmas-crisis.json) |
 | Christmas Defence | 112774 | [112774-christmas-defence.json](./112774-christmas-defence.json) |
+| Christmas Dentist | 107086 | [107086-christmas-dentist.json](./107086-christmas-dentist.json) |
 | Christmas Dropini | 352341 | [352341-christmas-dropini.json](./352341-christmas-dropini.json) |
 | Christmas Escape | 314046 | [314046-christmas-escape.json](./314046-christmas-escape.json) |
 | Christmas Eve: Midnight's Call | 139767 | [139767-christmas-eve-midnights-call.json](./139767-christmas-eve-midnights-call.json) |
