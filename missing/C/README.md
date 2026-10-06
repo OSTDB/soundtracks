@@ -6831,6 +6831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Coloring Book: Complete Edition - Draw Extended | 263528 | [263528-comic-coloring-book-complete-edition-draw-extended.json](./263528-comic-coloring-book-complete-edition-draw-extended.json) |
 | Comic Coloring Book: Complete Edition - DRAW Special | 277905 | [277905-comic-coloring-book-complete-edition-draw-special.json](./277905-comic-coloring-book-complete-edition-draw-special.json) |
 | Comic Days H | 97382 | [97382-comic-days-h.json](./97382-comic-days-h.json) |
+| Comic Kicker Euro 2000 | 92593 | [92593-comic-kicker-euro-2000.json](./92593-comic-kicker-euro-2000.json) |
 | Comic Party Portable | 59388 | [59388-comic-party-portable.json](./59388-comic-party-portable.json) |
 | Comic Sakka Series Touma Senki #1: Mashoujo Gakuen Evil | 41354 | [41354-comic-sakka-series-touma-senki-1-mashoujo-gakuen-evil.json](./41354-comic-sakka-series-touma-senki-1-mashoujo-gakuen-evil.json) |
 | Comic Sakka Series Touma Senki #2: Mermaid no Gyakushuu | 41353 | [41353-comic-sakka-series-touma-senki-2-mermaid-no-gyakushuu.json](./41353-comic-sakka-series-touma-senki-2-mermaid-no-gyakushuu.json) |
