@@ -478,8 +478,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo 3 & Fable II Double Pack | 141865 | [141865-halo-3-and-fable-ii-double-pack.json](./141865-halo-3-and-fable-ii-double-pack.json) |
 | Halo 3: Legendary Edition | 43955 | [43955-halo-3-legendary-edition.json](./43955-halo-3-legendary-edition.json) |
 | Halo 3: The Battlefront Pack | 332561 | [332561-halo-3-the-battlefront-pack.json](./332561-halo-3-the-battlefront-pack.json) |
+| Halo 4: Castle Map Pack | 75416 | [75416-halo-4-castle-map-pack.json](./75416-halo-4-castle-map-pack.json) |
 | Halo 4: Champions Bundle | 20855 | [20855-halo-4-champions-bundle.json](./20855-halo-4-champions-bundle.json) |
+| Halo 4: Crimson Map Pack | 75414 | [75414-halo-4-crimson-map-pack.json](./75414-halo-4-crimson-map-pack.json) |
 | Halo 4: King of the Hill Fueled by Mountain Dew | 77343 | [77343-halo-4-king-of-the-hill-fueled-by-mountain-dew.json](./77343-halo-4-king-of-the-hill-fueled-by-mountain-dew.json) |
+| Halo 4: Majestic Map Pack | 75415 | [75415-halo-4-majestic-map-pack.json](./75415-halo-4-majestic-map-pack.json) |
+| Halo 5: Guardians - Digital Deluxe Edition | 75413 | [75413-halo-5-guardians-digital-deluxe-edition.json](./75413-halo-5-guardians-digital-deluxe-edition.json) |
 | Halo Beats! | 129018 | [129018-halo-beats.json](./129018-halo-beats.json) |
 | Halo CE+ | 276775 | [276775-halo-ce.json](./276775-halo-ce.json) |
 | Halo Chaotic Edition | 271760 | [271760-halo-chaotic-edition.json](./271760-halo-chaotic-edition.json) |
