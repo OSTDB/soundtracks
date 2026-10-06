@@ -6952,6 +6952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombyx | 123639 | [123639-bombyx.json](./123639-bombyx.json) |
 | Bomcat | 362329 | [362329-bomcat.json](./362329-bomcat.json) |
 | BomjMan | 120746 | [120746-bomjman.json](./120746-bomjman.json) |
+| Bomsy | 74681 | [74681-bomsy.json](./74681-bomsy.json) |
 | Bon Appecheese | 352379 | [352379-bon-appecheese.json](./352379-bon-appecheese.json) |
 | Bon Bon Paradise | 109481 | [109481-bon-bon-paradise.json](./109481-bon-bon-paradise.json) |
 | Bon Voyage | 415295 | [415295-bon-voyage.json](./415295-bon-voyage.json) |
@@ -9940,6 +9941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Button VR | 231302 | [231302-button-vr.json](./231302-button-vr.json) |
 | Button VR Expeditions | 247762 | [247762-button-vr-expeditions.json](./247762-button-vr-expeditions.json) |
 | ButtonHunt 3 | 272787 | [272787-buttonhunt-3.json](./272787-buttonhunt-3.json) |
+| Buttons and Scissors | 74711 | [74711-buttons-and-scissors.json](./74711-buttons-and-scissors.json) |
 | Buttons Up! | 386419 | [386419-buttons-up.json](./386419-buttons-up.json) |
 | Buttons Up! 2 | 405568 | [405568-buttons-up-2.json](./405568-buttons-up-2.json) |
 | Buy a Croquette! | 360750 | [360750-buy-a-croquette.json](./360750-buy-a-croquette.json) |
