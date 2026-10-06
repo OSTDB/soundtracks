@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unblock Me Car | 148921 | [148921-unblock-me-car.json](./148921-unblock-me-car.json) |
 | Unblock Now | 336394 | [336394-unblock-now.json](./336394-unblock-now.json) |
 | Unblock the River | 233994 | [233994-unblock-the-river.json](./233994-unblock-the-river.json) |
+| Unblock: The Parking | 105245 | [105245-unblock-the-parking.json](./105245-unblock-the-parking.json) |
 | Unblocking | 195200 | [195200-unblocking.json](./195200-unblocking.json) |
 | Unbodied | 311496 | [311496-unbodied.json](./311496-unbodied.json) |
 | Unbothered | 329033 | [329033-unbothered.json](./329033-unbothered.json) |
@@ -765,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbroken | 298600 | [298600-unbroken.json](./298600-unbroken.json) |
 | Unbroken Valor | 413164 | [413164-unbroken-valor.json](./413164-unbroken-valor.json) |
 | Unbuild | 150063 | [150063-unbuild.json](./150063-unbuild.json) |
+| Uncanny | 105432 | [105432-uncanny.json](./105432-uncanny.json) |
 | Uncanny | 206717 | [206717-uncanny.json](./206717-uncanny.json) |
 | Uncanny Cat Golf | 323318 | [323318-uncanny-cat-golf.json](./323318-uncanny-cat-golf.json) |
 | Uncanny Islands | 81787 | [81787-uncanny-islands.json](./81787-uncanny-islands.json) |
