@@ -1661,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schizofrenia | 78890 | [78890-schizofrenia.json](./78890-schizofrenia.json) |
 | Schizophrenia | 133203 | [133203-schizophrenia.json](./133203-schizophrenia.json) |
 | Schizophrenic Rooms | 230857 | [230857-schizophrenic-rooms.json](./230857-schizophrenic-rooms.json) |
+| Schlag den Raab | 69474 | [69474-schlag-den-raab.json](./69474-schlag-den-raab.json) |
 | Schlag den Raab: Das 2. Spiel | 81447 | [81447-schlag-den-raab-das-2-spiel.json](./81447-schlag-den-raab-das-2-spiel.json) |
 | Schlag den Raab: Das 3. Spiel | 86078 | [86078-schlag-den-raab-das-3-spiel.json](./86078-schlag-den-raab-das-3-spiel.json) |
 | Schlag den Raab: Das Spiel | 116250 | [116250-schlag-den-raab-das-spiel.json](./116250-schlag-den-raab-das-spiel.json) |
@@ -7005,6 +7006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Utopia | 233449 | [233449-sky-utopia.json](./233449-sky-utopia.json) |
 | Sky Valley | 31947 | [31947-sky-valley.json](./31947-sky-valley.json) |
 | Sky War | 272802 | [272802-sky-war.json](./272802-sky-war.json) |
+| Sky Warrior | 69506 | [69506-sky-warrior.json](./69506-sky-warrior.json) |
 | Sky Whale | 100852 | [100852-sky-whale.json](./100852-sky-whale.json) |
 | Sky: Children of the Light - Season of Belonging | 388383 | [388383-sky-children-of-the-light-season-of-belonging.json](./388383-sky-children-of-the-light-season-of-belonging.json) |
 | Sky: Children of the Light - Season of Gratitude | 388290 | [388290-sky-children-of-the-light-season-of-gratitude.json](./388290-sky-children-of-the-light-season-of-gratitude.json) |
@@ -10529,6 +10531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South of Hell | 273560 | [273560-south-of-hell.json](./273560-south-of-hell.json) |
 | South of Midnight: Weaver’s Edition | 329136 | [329136-south-of-midnight-weaver-s-edition.json](./329136-south-of-midnight-weaver-s-edition.json) |
 | South of Real: Rough Beast | 124671 | [124671-south-of-real-rough-beast.json](./124671-south-of-real-rough-beast.json) |
+| South Pacific Quest | 69529 | [69529-south-pacific-quest.json](./69529-south-pacific-quest.json) |
 | South Park | 198486 | [198486-south-park.json](./198486-south-park.json) |
 | South Park : The Stick of Truth + The Fractured but Whole Bundle | 164783 | [164783-south-park-the-stick-of-truth-the-fractured-but-whole-bundle.json](./164783-south-park-the-stick-of-truth-the-fractured-but-whole-bundle.json) |
 | South Park 201 - Quizner's Trivia | 76981 | [76981-south-park-201-quizners-trivia.json](./76981-south-park-201-quizners-trivia.json) |
@@ -11611,6 +11614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
 | Spectrum: First Light | 35827 | [35827-spectrum-first-light.json](./35827-spectrum-first-light.json) |
 | SpectrumTap | 41501 | [41501-spectrumtap.json](./41501-spectrumtap.json) |
+| Speculum Mortis | 69531 | [69531-speculum-mortis.json](./69531-speculum-mortis.json) |
 | Speculum Mortis: Regret | 159222 | [159222-speculum-mortis-regret.json](./159222-speculum-mortis-regret.json) |
 | Specvaders | 137557 | [137557-specvaders.json](./137557-specvaders.json) |
 | Spediteur | 293708 | [293708-spediteur.json](./293708-spediteur.json) |
@@ -12453,6 +12457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooble: A Search Engine Story | 177484 | [177484-spooble-a-search-engine-story.json](./177484-spooble-a-search-engine-story.json) |
 | Spoockey | 189071 | [189071-spoockey.json](./189071-spoockey.json) |
 | Spoofs Playland | 373552 | [373552-spoofs-playland.json](./373552-spoofs-playland.json) |
+| Spook House and Toxic Dumpsite | 69480 | [69480-spook-house-and-toxic-dumpsite.json](./69480-spook-house-and-toxic-dumpsite.json) |
 | Spook Tower | 179735 | [179735-spook-tower.json](./179735-spook-tower.json) |
 | Spook-A-Boo | 317993 | [317993-spook-a-boo.json](./317993-spook-a-boo.json) |
 | Spooked | 45325 | [45325-spooked.json](./45325-spooked.json) |
