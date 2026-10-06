@@ -2120,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scuba Kidz | 92069 | [92069-scuba-kidz.json](./92069-scuba-kidz.json) |
 | Scud Atak | 85766 | [85766-scud-atak.json](./85766-scud-atak.json) |
 | Scud Frenzy | 102395 | [102395-scud-frenzy.json](./102395-scud-frenzy.json) |
+| Scud: Industrial Evolution | 73501 | [73501-scud-industrial-evolution.json](./73501-scud-industrial-evolution.json) |
 | Scudhead | 275206 | [275206-scudhead.json](./275206-scudhead.json) |
 | Scuffle Buddies | 59861 | [59861-scuffle-buddies.json](./59861-scuffle-buddies.json) |
 | Sculplings | 349407 | [349407-sculplings.json](./349407-sculplings.json) |
@@ -3794,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Over Normoth | 183057 | [183057-shadow-over-normoth.json](./183057-shadow-over-normoth.json) |
 | Shadow Over the Twelve Lands | 305338 | [305338-shadow-over-the-twelve-lands.json](./305338-shadow-over-the-twelve-lands.json) |
 | Shadow Overlord: The Beginning | 272264 | [272264-shadow-overlord-the-beginning.json](./272264-shadow-overlord-the-beginning.json) |
+| Shadow President | 73470 | [73470-shadow-president.json](./73470-shadow-president.json) |
 | Shadow Pride | 227367 | [227367-shadow-pride.json](./227367-shadow-pride.json) |
 | Shadow Protocol | 351750 | [351750-shadow-protocol.json](./351750-shadow-protocol.json) |
 | Shadow Puppet | 336687 | [336687-shadow-puppet.json](./336687-shadow-puppet.json) |
@@ -11105,6 +11107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shuttle Mission Simulator: The Collector's Edition | 208862 | [208862-space-shuttle-mission-simulator-the-collectors-edition.json](./208862-space-shuttle-mission-simulator-the-collectors-edition.json) |
 | Space Shuttle: A Journey Into Space | 12318 | [12318-space-shuttle-a-journey-into-space.json](./12318-space-shuttle-a-journey-into-space.json) |
 | Space Simulation Toolkit | 345585 | [345585-space-simulation-toolkit.json](./345585-space-simulation-toolkit.json) |
+| Space Sirens 2: Megababes from Ajia | 73459 | [73459-space-sirens-2-megababes-from-ajia.json](./73459-space-sirens-2-megababes-from-ajia.json) |
 | Space Slayer | 26793 | [26793-space-slayer.json](./26793-space-slayer.json) |
 | Space Slingshot VR | 95198 | [95198-space-slingshot-vr.json](./95198-space-slingshot-vr.json) |
 | Space Smack! | 171074 | [171074-space-smack.json](./171074-space-smack.json) |
