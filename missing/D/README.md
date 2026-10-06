@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Driven Racer | 334474 | [334474-daily-driven-racer.json](./334474-daily-driven-racer.json) |
 | Daily Dungeon Club | 216714 | [216714-daily-dungeon-club.json](./216714-daily-dungeon-club.json) |
 | Daily Espada | 34690 | [34690-daily-espada.json](./34690-daily-espada.json) |
+| Daily Mah Jong | 95663 | [95663-daily-mah-jong.json](./95663-daily-mah-jong.json) |
 | Daily Quizz | 78701 | [78701-daily-quizz.json](./78701-daily-quizz.json) |
 | Daily Run | 72384 | [72384-daily-run.json](./72384-daily-run.json) |
 | Daily Sudoku Together | 344490 | [344490-daily-sudoku-together.json](./344490-daily-sudoku-together.json) |
@@ -1464,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn Apart | 231392 | [231392-dawn-apart.json](./231392-dawn-apart.json) |
 | Dawn Awakening | 174705 | [174705-dawn-awakening.json](./174705-dawn-awakening.json) |
 | Dawn Break -Origin- | 117629 | [117629-dawn-break-origin.json](./117629-dawn-break-origin.json) |
+| Dawn Break: The Flaming Emperor | 95690 | [95690-dawn-break-the-flaming-emperor.json](./95690-dawn-break-the-flaming-emperor.json) |
 | Dawn Car | 371258 | [371258-dawn-car.json](./371258-dawn-car.json) |
 | Dawn City | 81775 | [81775-dawn-city.json](./81775-dawn-city.json) |
 | Dawn in Arctic | 308340 | [308340-dawn-in-arctic.json](./308340-dawn-in-arctic.json) |
@@ -7634,6 +7636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Robotnik's Mean Bean Tetris | 264896 | [264896-dr-robotniks-mean-bean-tetris.json](./264896-dr-robotniks-mean-bean-tetris.json) |
 | Dr. Robotnik's Ring Racers | 238878 | [238878-dr-robotniks-ring-racers.json](./238878-dr-robotniks-ring-racers.json) |
 | Dr. Rudy | 94262 | [94262-dr-rudy.json](./94262-dr-rudy.json) |
+| Dr. Schplot's Nanobots | 95548 | [95548-dr-schplots-nanobots.json](./95548-dr-schplots-nanobots.json) |
 | Dr. Seuss Fix-Up the Mix-Up Puzzler | 40898 | [40898-dr-seuss-fix-up-the-mix-up-puzzler.json](./40898-dr-seuss-fix-up-the-mix-up-puzzler.json) |
 | Dr. Seuss Preschool | 63273 | [63273-dr-seuss-preschool.json](./63273-dr-seuss-preschool.json) |
 | Dr. Seuss Toddler | 63271 | [63271-dr-seuss-toddler.json](./63271-dr-seuss-toddler.json) |
@@ -8336,6 +8339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draknek and Friends Puzzle Bundle | 168691 | [168691-draknek-and-friends-puzzle-bundle.json](./168691-draknek-and-friends-puzzle-bundle.json) |
 | DraKoI | 60505 | [60505-drakoi.json](./60505-drakoi.json) |
 | Drakomon | 283248 | [283248-drakomon.json](./283248-drakomon.json) |
+| Drakomon Legends | 95658 | [95658-drakomon-legends.json](./95658-drakomon-legends.json) |
 | Drakula | 192758 | [192758-drakula.json](./192758-drakula.json) |
 | Dramaqueen | 158230 | [158230-dramaqueen.json](./158230-dramaqueen.json) |
 | Dramatic Past | 130672 | [130672-dramatic-past.json](./130672-dramatic-past.json) |
