@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Home Design | 109208 | [109208-fantasy-home-design.json](./109208-fantasy-home-design.json) |
 | Fantasy Illness | 339115 | [339115-fantasy-illness.json](./339115-fantasy-illness.json) |
 | Fantasy Inn Simulator | 157127 | [157127-fantasy-inn-simulator.json](./157127-fantasy-inn-simulator.json) |
+| Fantasy Island | 114925 | [114925-fantasy-island.json](./114925-fantasy-island.json) |
 | Fantasy Item Company | 216158 | [216158-fantasy-item-company.json](./216158-fantasy-item-company.json) |
 | Fantasy Jigsaw Puzzle 5 | 174118 | [174118-fantasy-jigsaw-puzzle-5.json](./174118-fantasy-jigsaw-puzzle-5.json) |
 | Fantasy Jigsaw Puzzles | 231992 | [231992-fantasy-jigsaw-puzzles.json](./231992-fantasy-jigsaw-puzzles.json) |
@@ -1872,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear of The Unknown | 169810 | [169810-fear-of-the-unknown.json](./169810-fear-of-the-unknown.json) |
 | Fear or Evil: Nightmare Horror Scary Game Phobia 2023 Simulator Hunter Games | 241401 | [241401-fear-or-evil-nightmare-horror-scary-game-phobia-2023-simulator-hunter-games.json](./241401-fear-or-evil-nightmare-horror-scary-game-phobia-2023-simulator-hunter-games.json) |
 | Fear Protocol: Shadow Paradigm | 163187 | [163187-fear-protocol-shadow-paradigm.json](./163187-fear-protocol-shadow-paradigm.json) |
+| Fear Simulator | 114897 | [114897-fear-simulator.json](./114897-fear-simulator.json) |
 | Fear Station Bravo | 273542 | [273542-fear-station-bravo.json](./273542-fear-station-bravo.json) |
 | Fear surrounds | 143693 | [143693-fear-surrounds.json](./143693-fear-surrounds.json) |
 | Fear Survival | 174650 | [174650-fear-survival.json](./174650-fear-survival.json) |
@@ -2527,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Simulator | 326423 | [326423-fighting-simulator.json](./326423-fighting-simulator.json) |
 | Fighting Simulator: 2 in 1 Flying Warriors | 64795 | [64795-fighting-simulator-2-in-1-flying-warriors.json](./64795-fighting-simulator-2-in-1-flying-warriors.json) |
 | Fighting Soccer | 12097 | [12097-fighting-soccer.json](./12097-fighting-soccer.json) |
+| Fighting Spree 3D | 114936 | [114936-fighting-spree-3d.json](./114936-fighting-spree-3d.json) |
 | Fighting Steel: World War II Surface Combat 1939-1942 | 78006 | [78006-fighting-steel-world-war-ii-surface-combat-1939-1942.json](./78006-fighting-steel-world-war-ii-surface-combat-1939-1942.json) |
 | Fighting Vipers | 291605 | [291605-fighting-vipers.json](./291605-fighting-vipers.json) |
 | Fighting Vipers | 39471 | [39471-fighting-vipers.json](./39471-fighting-vipers.json) |
@@ -4636,6 +4639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Hero VR | 164504 | [164504-flying-hero-vr.json](./164504-flying-hero-vr.json) |
 | Flying Hero X | 146684 | [146684-flying-hero-x.json](./146684-flying-hero-x.json) |
 | Flying Heroes | 24119 | [24119-flying-heroes.json](./24119-flying-heroes.json) |
+| Flying in Labyrinth | 114934 | [114934-flying-in-labyrinth.json](./114934-flying-in-labyrinth.json) |
 | Flying Islands | 366955 | [366955-flying-islands.json](./366955-flying-islands.json) |
 | Flying Islands Games Bundle | 147812 | [147812-flying-islands-games-bundle.json](./147812-flying-islands-games-bundle.json) |
 | Flying Kick | 181237 | [181237-flying-kick.json](./181237-flying-kick.json) |
@@ -4823,6 +4827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck Simulator | 129109 | [129109-food-truck-simulator.json](./129109-food-truck-simulator.json) |
 | Food Truck Time Machine | 260299 | [260299-food-truck-time-machine.json](./260299-food-truck-time-machine.json) |
 | Food Truck Together | 385309 | [385309-food-truck-together.json](./385309-food-truck-together.json) |
+| Food Truck Tycoon | 114908 | [114908-food-truck-tycoon.json](./114908-food-truck-tycoon.json) |
 | Food Truck Tycoon + Expansion Pack | 238014 | [238014-food-truck-tycoon-expansion-pack.json](./238014-food-truck-tycoon-expansion-pack.json) |
 | Food Truck Tycoon + Flowlines VS | 243793 | [243793-food-truck-tycoon-flowlines-vs.json](./243793-food-truck-tycoon-flowlines-vs.json) |
 | Food Truck Tycoon + Knights & Guns | 251106 | [251106-food-truck-tycoon-knights-and-guns.json](./251106-food-truck-tycoon-knights-and-guns.json) |
@@ -6189,6 +6194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freebooter of Splorr!! | 152492 | [152492-freebooter-of-splorr.json](./152492-freebooter-of-splorr.json) |
 | Freebot : Battle for FreeWeb | 103640 | [103640-freebot-battle-for-freeweb.json](./103640-freebot-battle-for-freeweb.json) |
 | FreeCell | 383490 | [383490-freecell.json](./383490-freecell.json) |
+| Freecell Battle King | 114907 | [114907-freecell-battle-king.json](./114907-freecell-battle-king.json) |
 | FreeCell Solitaire - Classic Deck Card Games | 88365 | [88365-freecell-solitaire-classic-deck-card-games.json](./88365-freecell-solitaire-classic-deck-card-games.json) |
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
 | Freed Software | 220024 | [220024-freed-software.json](./220024-freed-software.json) |
