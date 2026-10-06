@@ -3535,6 +3535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MazeQuest 2 | 109641 | [109641-mazequest-2.json](./109641-mazequest-2.json) |
 | Mazer Laser | 319341 | [319341-mazer-laser.json](./319341-mazer-laser.json) |
 | Mazera | 94679 | [94679-mazera.json](./94679-mazera.json) |
+| Mazes and Labyrinths | 104728 | [104728-mazes-and-labyrinths.json](./104728-mazes-and-labyrinths.json) |
 | Mazes and Mages | 102721 | [102721-mazes-and-mages.json](./102721-mazes-and-mages.json) |
 | Mazes and Mages 2 | 121778 | [121778-mazes-and-mages-2.json](./121778-mazes-and-mages-2.json) |
 | Mazes of Karradash 2 | 175430 | [175430-mazes-of-karradash-2.json](./175430-mazes-of-karradash-2.json) |
@@ -6333,6 +6334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milki Delivery | 385308 | [385308-milki-delivery.json](./385308-milki-delivery.json) |
 | Milkman Karlson | 135213 | [135213-milkman-karlson.json](./135213-milkman-karlson.json) |
 | Milkraid | 382749 | [382749-milkraid.json](./382749-milkraid.json) |
+| Milkshake Shop | 104707 | [104707-milkshake-shop.json](./104707-milkshake-shop.json) |
 | Milkshake! | 240740 | [240740-milkshake.json](./240740-milkshake.json) |
 | MilkSnake | 61717 | [61717-milksnake.json](./61717-milksnake.json) |
 | MilkSnake: Torus Edition | 99573 | [99573-milksnake-torus-edition.json](./99573-milksnake-torus-edition.json) |
@@ -10018,6 +10020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Hopp's Playhouse 2 | 152818 | [152818-mr-hopps-playhouse-2.json](./152818-mr-hopps-playhouse-2.json) |
 | Mr. Joshua Carrot | 128354 | [128354-mr-joshua-carrot.json](./128354-mr-joshua-carrot.json) |
 | Mr. Jumpington 4 | 68743 | [68743-mr-jumpington-4.json](./68743-mr-jumpington-4.json) |
+| Mr. Kicker - Perfect Kick Soccer Game | 104583 | [104583-mr-kicker-perfect-kick-soccer-game.json](./104583-mr-kicker-perfect-kick-soccer-game.json) |
 | Mr. Krabs Overdoses on Ketamine | 141101 | [141101-mr-krabs-overdoses-on-ketamine.json](./141101-mr-krabs-overdoses-on-ketamine.json) |
 | Mr. Krabs Tax Evasion | 166526 | [166526-mr-krabs-tax-evasion.json](./166526-mr-krabs-tax-evasion.json) |
 | Mr. Krasnoludek, Teach Me Your Magic Spells | 169879 | [169879-mr-krasnoludek-teach-me-your-magic-spells.json](./169879-mr-krasnoludek-teach-me-your-magic-spells.json) |
