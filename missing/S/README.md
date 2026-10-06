@@ -798,7 +798,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shoguns Heart: Romance Among the Cherry Blossoms | 378783 | [378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json](./378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json) |
 | Samurai Solitaire: Return of the Ronin | 204103 | [204103-samurai-solitaire-return-of-the-ronin.json](./204103-samurai-solitaire-return-of-the-ronin.json) |
 | Samurai Solitaire: Threads of Fate | 195694 | [195694-samurai-solitaire-threads-of-fate.json](./195694-samurai-solitaire-threads-of-fate.json) |
+| Samurai Spirits Zero Special (Fixed) | 75446 | [75446-samurai-spirits-zero-special-fixed.json](./75446-samurai-spirits-zero-special-fixed.json) |
+| Samurai Spirits Zero Special (Unfixed) | 75447 | [75447-samurai-spirits-zero-special-unfixed.json](./75447-samurai-spirits-zero-special-unfixed.json) |
 | Samurai Spirits: Kenkaku Yubinan Pack | 56455 | [56455-samurai-spirits-kenkaku-yubinan-pack.json](./56455-samurai-spirits-kenkaku-yubinan-pack.json) |
+| Samurai Spirits! 2 (Best Collection) | 75448 | [75448-samurai-spirits-2-best-collection.json](./75448-samurai-spirits-2-best-collection.json) |
 | Samurai Story | 200495 | [200495-samurai-story.json](./200495-samurai-story.json) |
 | Samurai Stratagem | 379342 | [379342-samurai-stratagem.json](./379342-samurai-stratagem.json) |
 | Samurai Survivor: Undefeated Blade | 244358 | [244358-samurai-survivor-undefeated-blade.json](./244358-samurai-survivor-undefeated-blade.json) |
@@ -2832,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Segagaga | 28151 | [28151-segagaga.json](./28151-segagaga.json) |
 | Segapede | 227784 | [227784-segapede.json](./227784-segapede.json) |
 | SegaSonic Bros. | 200448 | [200448-segasonic-bros.json](./200448-segasonic-bros.json) |
+| Segfault | 75430 | [75430-segfault.json](./75430-segfault.json) |
 | Segment | 93728 | [93728-segment.json](./93728-segment.json) |
 | Sehoni Island: Monsters and Adventures | 236843 | [236843-sehoni-island-monsters-and-adventures.json](./236843-sehoni-island-monsters-and-adventures.json) |
 | Sei Monmusu Festival!! Omatsuri da yo Zen'in Shuugou! | 77370 | [77370-sei-monmusu-festival-omatsuri-da-yo-zenin-shuugou.json](./77370-sei-monmusu-festival-omatsuri-da-yo-zenin-shuugou.json) |
@@ -3019,6 +3023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Koihime EX 3: Mouri Ke no Kizuna-hen | 411694 | [411694-sengoku-koihime-ex-3-mouri-ke-no-kizuna-hen.json](./411694-sengoku-koihime-ex-3-mouri-ke-no-kizuna-hen.json) |
 | Sengoku Koihime X: Otome Kenran Sengoku Emaki Koujou-ke Souran-hen | 339635 | [339635-sengoku-koihime-x-otome-kenran-sengoku-emaki-koujou-ke-souran-hen.json](./339635-sengoku-koihime-x-otome-kenran-sengoku-emaki-koujou-ke-souran-hen.json) |
 | Sengoku Koihime: Otome Kenran Sengoku Emaki | 144381 | [144381-sengoku-koihime-otome-kenran-sengoku-emaki.json](./144381-sengoku-koihime-otome-kenran-sengoku-emaki.json) |
+| Sengoku Legends 2001 | 75445 | [75445-sengoku-legends-2001.json](./75445-sengoku-legends-2001.json) |
 | Sengoku Mugen | 392768 | [392768-sengoku-mugen.json](./392768-sengoku-mugen.json) |
 | Sengoku no Hasha | 37888 | [37888-sengoku-no-hasha.json](./37888-sengoku-no-hasha.json) |
 | Sengoku Otome: Legend Battle | 58465 | [58465-sengoku-otome-legend-battle.json](./58465-sengoku-otome-legend-battle.json) |
@@ -8395,6 +8400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SNK Gals' Fighters | 43983 | [43983-snk-gals-fighters.json](./43983-snk-gals-fighters.json) |
 | SNK Slot Panic Kyuuji | 59399 | [59399-snk-slot-panic-kyuuji.json](./59399-snk-slot-panic-kyuuji.json) |
 | SNK vs Capcom Card Fighters DS | 21387 | [21387-snk-vs-capcom-card-fighters-ds.json](./21387-snk-vs-capcom-card-fighters-ds.json) |
+| SNK vs. Capcom: Card Fighters 2 - Expand Edition | 75441 | [75441-snk-vs-capcom-card-fighters-2-expand-edition.json](./75441-snk-vs-capcom-card-fighters-2-expand-edition.json) |
 | SNK vs. Capcom: SVC Chaos | 309177 | [309177-snk-vs-capcom-svc-chaos.json](./309177-snk-vs-capcom-svc-chaos.json) |
 | Sno Pokeler | 237532 | [237532-sno-pokeler.json](./237532-sno-pokeler.json) |
 | Snoball in Hell | 293314 | [293314-snoball-in-hell.json](./293314-snoball-in-hell.json) |
@@ -9264,6 +9270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solver: The Bank Quest | 71450 | [71450-solver-the-bank-quest.json](./71450-solver-the-bank-quest.json) |
 | Solvimus | 370138 | [370138-solvimus.json](./370138-solvimus.json) |
 | Solward | 335468 | [335468-solward.json](./335468-solward.json) |
+| SoM Soul of Mask | 75424 | [75424-som-soul-of-mask.json](./75424-som-soul-of-mask.json) |
 | Soma Spirits | 400893 | [400893-soma-spirits.json](./400893-soma-spirits.json) |
 | Soma Union | 144855 | [144855-soma-union.json](./144855-soma-union.json) |
 | Somari Insanity | 331871 | [331871-somari-insanity.json](./331871-somari-insanity.json) |
@@ -11297,6 +11304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceRace | 267688 | [267688-spacerace.json](./267688-spacerace.json) |
 | Spacerat Miner | 275659 | [275659-spacerat-miner.json](./275659-spacerat-miner.json) |
 | Spacerift: Arcanum System | 122213 | [122213-spacerift-arcanum-system.json](./122213-spacerift-arcanum-system.json) |
+| SpaceRoads | 75420 | [75420-spaceroads.json](./75420-spaceroads.json) |
 | Spaceruler | 227493 | [227493-spaceruler.json](./227493-spaceruler.json) |
 | SpacerX: Dome Survivals | 55101 | [55101-spacerx-dome-survivals.json](./55101-spacerx-dome-survivals.json) |
 | SpaceShift | 393610 | [393610-spaceshift.json](./393610-spaceshift.json) |
@@ -18116,6 +18124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Real AI | 399844 | [399844-super-real-ai.json](./399844-super-real-ai.json) |
 | Super Real Fishing | 282663 | [282663-super-real-fishing.json](./282663-super-real-fishing.json) |
 | Super Real Hanafuda: Koi Koi Shimasho | 130299 | [130299-super-real-hanafuda-koi-koi-shimasho.json](./130299-super-real-hanafuda-koi-koi-shimasho.json) |
+| Super Real Mahjong | 75408 | [75408-super-real-mahjong.json](./75408-super-real-mahjong.json) |
 | Super Real Mahjong Graffiti | 122965 | [122965-super-real-mahjong-graffiti.json](./122965-super-real-mahjong-graffiti.json) |
 | Super Real Mahjong Love 2~7! | 127798 | [127798-super-real-mahjong-love-2-7.json](./127798-super-real-mahjong-love-2-7.json) |
 | Super Real Mahjong Love 2~7! Special Edition | 342064 | [342064-super-real-mahjong-love-2-7-special-edition.json](./342064-super-real-mahjong-love-2-7-special-edition.json) |
@@ -18130,6 +18139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Realistic Autocross VR | 123474 | [123474-super-realistic-autocross-vr.json](./123474-super-realistic-autocross-vr.json) |
 | Super Recoilfight | 117814 | [117814-super-recoilfight.json](./117814-super-recoilfight.json) |
 | Super Retro Chase | 182931 | [182931-super-retro-chase.json](./182931-super-retro-chase.json) |
+| Super Retro Maker | 75404 | [75404-super-retro-maker.json](./75404-super-retro-maker.json) |
 | Super Retro Platformer Collection | 242770 | [242770-super-retro-platformer-collection.json](./242770-super-retro-platformer-collection.json) |
 | Super Retro Retry | 273399 | [273399-super-retro-retry.json](./273399-super-retro-retry.json) |
 | Super Retro World | 157172 | [157172-super-retro-world.json](./157172-super-retro-world.json) |
