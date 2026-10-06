@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Drift Taxi Car Simulator Ultimate | 251046 | [251046-racing-drift-taxi-car-simulator-ultimate.json](./251046-racing-drift-taxi-car-simulator-ultimate.json) |
 | Racing Empires | 245016 | [245016-racing-empires.json](./245016-racing-empires.json) |
 | Racing Fever | 49352 | [49352-racing-fever.json](./49352-racing-fever.json) |
+| Racing Fever: Moto | 106003 | [106003-racing-fever-moto.json](./106003-racing-fever-moto.json) |
 | Racing Fighters | 118249 | [118249-racing-fighters.json](./118249-racing-fighters.json) |
 | Racing Game Bundle | 379006 | [379006-racing-game-bundle.json](./379006-racing-game-bundle.json) |
 | Racing Glider | 90681 | [90681-racing-glider.json](./90681-racing-glider.json) |
@@ -1953,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recoil vs. The World | 226975 | [226975-recoil-vs-the-world.json](./226975-recoil-vs-the-world.json) |
 | Recoiled | 149498 | [149498-recoiled.json](./149498-recoiled.json) |
 | Recolit | 152179 | [152179-recolit.json](./152179-recolit.json) |
+| Recollect: Coloring Book | 106002 | [106002-recollect-coloring-book.json](./106002-recollect-coloring-book.json) |
 | Recollection | 343806 | [343806-recollection.json](./343806-recollection.json) |
 | Recon Quest | 291578 | [291578-recon-quest.json](./291578-recon-quest.json) |
 | Reconciliation | 309536 | [309536-reconciliation.json](./309536-reconciliation.json) |
@@ -5016,6 +5018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots n Lasers | 193270 | [193270-robots-n-lasers.json](./193270-robots-n-lasers.json) |
 | Robots Runner | 259528 | [259528-robots-runner.json](./259528-robots-runner.json) |
 | Robots under attack! | 129608 | [129608-robots-under-attack.json](./129608-robots-under-attack.json) |
+| Robots vs. Zombies: Transform to Race and Fight | 105842 | [105842-robots-vs-zombies-transform-to-race-and-fight.json](./105842-robots-vs-zombies-transform-to-race-and-fight.json) |
 | Robots With Guns | 351808 | [351808-robots-with-guns.json](./351808-robots-with-guns.json) |
 | Robots, Death & Venice | 172127 | [172127-robots-death-and-venice.json](./172127-robots-death-and-venice.json) |
 | Robotville: Dawn of Robot AI | 327961 | [327961-robotville-dawn-of-robot-ai.json](./327961-robotville-dawn-of-robot-ai.json) |
@@ -6522,6 +6525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby League Live | 41586 | [41586-rugby-league-live.json](./41586-rugby-league-live.json) |
 | Rugby League Live 2 | 41585 | [41585-rugby-league-live-2.json](./41585-rugby-league-live-2.json) |
 | Rugby League Live 2: Gold Edition | 197238 | [197238-rugby-league-live-2-gold-edition.json](./197238-rugby-league-live-2-gold-edition.json) |
+| Rugby League Live 2: Quick Match | 106013 | [106013-rugby-league-live-2-quick-match.json](./106013-rugby-league-live-2-quick-match.json) |
 | Rugby League Live 2: World Cup Edition | 194940 | [194940-rugby-league-live-2-world-cup-edition.json](./194940-rugby-league-live-2-world-cup-edition.json) |
 | Rugby League Live 3 | 17623 | [17623-rugby-league-live-3.json](./17623-rugby-league-live-3.json) |
 | Rugby League Live 4 | 43061 | [43061-rugby-league-live-4.json](./43061-rugby-league-live-4.json) |
