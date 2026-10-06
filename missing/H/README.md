@@ -4197,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Seas Havoc | 10150 | [10150-high-seas-havoc.json](./10150-high-seas-havoc.json) |
 | High Seas Trader | 73867 | [73867-high-seas-trader.json](./73867-high-seas-trader.json) |
 | High Seas, High Profits! | 290922 | [290922-high-seas-high-profits.json](./290922-high-seas-high-profits.json) |
+| High Seas: The Family Fortune | 70034 | [70034-high-seas-the-family-fortune.json](./70034-high-seas-the-family-fortune.json) |
 | High Sidin': Hyphy Edition | 325042 | [325042-high-sidin-hyphy-edition.json](./325042-high-sidin-hyphy-edition.json) |
 | High Speed Extreme Bike Race Game: Space Heroes | 102263 | [102263-high-speed-extreme-bike-race-game-space-heroes.json](./102263-high-speed-extreme-bike-race-game-space-heroes.json) |
 | High Speed Trains 2 - England | 88742 | [88742-high-speed-trains-2-england.json](./88742-high-speed-trains-2-england.json) |
@@ -6368,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huànrèn Lù | 158155 | [158155-huanren-lu.json](./158155-huanren-lu.json) |
 | Huànshì Qíngyuán | 102971 | [102971-huanshi-qingyuan.json](./102971-huanshi-qingyuan.json) |
 | Huanu Poems | 339119 | [339119-huanu-poems.json](./339119-huanu-poems.json) |
+| Huanxiang Sanguozhi | 70024 | [70024-huanxiang-sanguozhi.json](./70024-huanxiang-sanguozhi.json) |
 | Huànxiǎng Xiū Zhēn | 375424 | [375424-huanxiang-xiu-zhen.json](./375424-huanxiang-xiu-zhen.json) |
 | Huaxia: Warring States | 314435 | [314435-huaxia-warring-states.json](./314435-huaxia-warring-states.json) |
 | Hubert Catching | 411109 | [411109-hubert-catching.json](./411109-hubert-catching.json) |
