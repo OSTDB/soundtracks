@@ -2653,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Pals: New Leash on Life | 64121 | [64121-pet-pals-new-leash-on-life.json](./64121-pet-pals-new-leash-on-life.json) |
 | PET Panic! | 290656 | [290656-pet-panic.json](./290656-pet-panic.json) |
 | Pet Paradise Story | 232171 | [232171-pet-paradise-story.json](./232171-pet-paradise-story.json) |
+| Pet Party | 115541 | [115541-pet-party.json](./115541-pet-party.json) |
 | Pet Peaves Monsters | 232168 | [232168-pet-peaves-monsters.json](./232168-pet-peaves-monsters.json) |
 | Pet Puzzle | 119025 | [119025-pet-puzzle.json](./119025-pet-puzzle.json) |
 | Pet Rescue Saga | 60077 | [60077-pet-rescue-saga.json](./60077-pet-rescue-saga.json) |
@@ -4938,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of Cubes Survival Games | 88442 | [88442-planet-of-cubes-survival-games.json](./88442-planet-of-cubes-survival-games.json) |
 | Planet of Lana | 152071 | [152071-planet-of-lana.json](./152071-planet-of-lana.json) |
 | Planet of Lana II: Children of the Leaf | 348200 | [348200-planet-of-lana-ii-children-of-the-leaf.json](./348200-planet-of-lana-ii-children-of-the-leaf.json) |
+| Planet of Pirates | 115533 | [115533-planet-of-pirates.json](./115533-planet-of-pirates.json) |
 | Planet of the Ants | 347134 | [347134-planet-of-the-ants.json](./347134-planet-of-the-ants.json) |
 | Planet of the Apes | 282720 | [282720-planet-of-the-apes.json](./282720-planet-of-the-apes.json) |
 | Planet of the Apes: Last Frontier | 54709 | [54709-planet-of-the-apes-last-frontier.json](./54709-planet-of-the-apes-last-frontier.json) |
@@ -9342,6 +9344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppetShow: Fatal Mistake | 187931 | [187931-puppetshow-fatal-mistake.json](./187931-puppetshow-fatal-mistake.json) |
 | PuppetShow: Mystery of Joyville | 25926 | [25926-puppetshow-mystery-of-joyville.json](./25926-puppetshow-mystery-of-joyville.json) |
 | PuppetShow: Poetic Justice | 187912 | [187912-puppetshow-poetic-justice.json](./187912-puppetshow-poetic-justice.json) |
+| PuppetShow: Porcelain Smile - Collector's Edition | 115526 | [115526-puppetshow-porcelain-smile-collectors-edition.json](./115526-puppetshow-porcelain-smile-collectors-edition.json) |
 | Puppies World 3D | 84800 | [84800-puppies-world-3d.json](./84800-puppies-world-3d.json) |
 | Pupple Pop | 390192 | [390192-pupple-pop.json](./390192-pupple-pop.json) |
 | Puppy Balloon Ride | 213392 | [213392-puppy-balloon-ride.json](./213392-puppy-balloon-ride.json) |
@@ -9415,6 +9418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple | 184393 | [184393-purple.json](./184393-purple.json) |
 | Purple Cape Man | 195514 | [195514-purple-cape-man.json](./195514-purple-cape-man.json) |
 | Purple Chicken Spaceman | 117777 | [117777-purple-chicken-spaceman.json](./117777-purple-chicken-spaceman.json) |
+| Purple Deathmatch | 115557 | [115557-purple-deathmatch.json](./115557-purple-deathmatch.json) |
 | Purple Fantasy | 213610 | [213610-purple-fantasy.json](./213610-purple-fantasy.json) |
 | Purple Noise Echo | 120711 | [120711-purple-noise-echo.json](./120711-purple-noise-echo.json) |
 | Purple Pink Chinese Food | 299237 | [299237-purple-pink-chinese-food.json](./299237-purple-pink-chinese-food.json) |
@@ -9455,6 +9459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrs In Heaven | 146800 | [146800-purrs-in-heaven.json](./146800-purrs-in-heaven.json) |
 | Purrtopia | 413852 | [413852-purrtopia.json](./413852-purrtopia.json) |
 | Purry & Panther: Lost in Helsinki | 304646 | [304646-purry-and-panther-lost-in-helsinki.json](./304646-purry-and-panther-lost-in-helsinki.json) |
+| Pursuer | 115577 | [115577-pursuer.json](./115577-pursuer.json) |
 | Pursuing Susie | 84534 | [84534-pursuing-susie.json](./84534-pursuing-susie.json) |
 | Pursuit Force: Extreme Justice | 299391 | [299391-pursuit-force-extreme-justice.json](./299391-pursuit-force-extreme-justice.json) |
 | Pursuit of Light | 104272 | [104272-pursuit-of-light.json](./104272-pursuit-of-light.json) |
