@@ -5682,6 +5682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mi Espada | 288825 | [288825-mi-espada.json](./288825-mi-espada.json) |
 | Mi ni Iku zo! Hedgehog | 228507 | [228507-mi-ni-iku-zo-hedgehog.json](./228507-mi-ni-iku-zo-hedgehog.json) |
 | Mi'pu'mi' Collection | 151627 | [151627-mipumi-collection.json](./151627-mipumi-collection.json) |
+| MI5 Bob | 71166 | [71166-mi5-bob.json](./71166-mi5-bob.json) |
 | Mia | 169370 | [169370-mia.json](./169370-mia.json) |
 | Mia & Mio | 388752 | [388752-mia-and-mio.json](./388752-mia-and-mio.json) |
 | Mia and me - Free the Unicorns! | 96191 | [96191-mia-and-me-free-the-unicorns.json](./96191-mia-and-me-free-the-unicorns.json) |
@@ -6624,6 +6625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind-Machine Interface | 27763 | [27763-mind-machine-interface.json](./27763-mind-machine-interface.json) |
 | Mind, Body & Soul: Nutrition Matters | 209013 | [209013-mind-body-and-soul-nutrition-matters.json](./209013-mind-body-and-soul-nutrition-matters.json) |
 | Mind: Path to Thalamus | 8876 | [8876-mind-path-to-thalamus.json](./8876-mind-path-to-thalamus.json) |
+| Mind's Eye | 71151 | [71151-minds-eye.json](./71151-minds-eye.json) |
 | Mind's Eye Macrogolf | 361239 | [361239-minds-eye-macrogolf.json](./361239-minds-eye-macrogolf.json) |
 | Mindaro | 355123 | [355123-mindaro.json](./355123-mindaro.json) |
 | Mindball Play | 33455 | [33455-mindball-play.json](./33455-mindball-play.json) |
@@ -7486,6 +7488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss World '96 | 38567 | [38567-miss-world-96.json](./38567-miss-world-96.json) |
 | Misshapen | 128977 | [128977-misshapen.json](./128977-misshapen.json) |
 | Missile Attack | 245437 | [245437-missile-attack.json](./245437-missile-attack.json) |
+| Missile Attack | 71157 | [71157-missile-attack.json](./71157-missile-attack.json) |
 | Missile Base | 13740 | [13740-missile-base.json](./13740-missile-base.json) |
 | Missile City AeroLeague | 249807 | [249807-missile-city-aeroleague.json](./249807-missile-city-aeroleague.json) |
 | Missile Collector Man | 246927 | [246927-missile-collector-man.json](./246927-missile-collector-man.json) |
