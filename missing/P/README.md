@@ -7468,6 +7468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PR: Rivenverse | 326841 | [326841-pr-rivenverse.json](./326841-pr-rivenverse.json) |
 | Practical Pinball | 367477 | [367477-practical-pinball.json](./367477-practical-pinball.json) |
 | Practical Shooting Simulator | 151105 | [151105-practical-shooting-simulator.json](./151105-practical-shooting-simulator.json) |
+| Practice Your Bridge | 88664 | [88664-practice-your-bridge.json](./88664-practice-your-bridge.json) |
 | Prado Car Stunts Arena | 27993 | [27993-prado-car-stunts-arena.json](./27993-prado-car-stunts-arena.json) |
 | PraeBot | 115168 | [115168-praebot.json](./115168-praebot.json) |
 | Praetorians HD Remaster | 119382 | [119382-praetorians-hd-remaster.json](./119382-praetorians-hd-remaster.json) |
