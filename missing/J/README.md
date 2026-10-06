@@ -1988,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Warfare | 13009 | [13009-jungle-warfare.json](./13009-jungle-warfare.json) |
 | Jungle Wars | 138828 | [138828-jungle-wars.json](./138828-jungle-wars.json) |
 | Jungle Wars 2: Kodai Mahou Atimos no Nazo | 37972 | [37972-jungle-wars-2-kodai-mahou-atimos-no-nazo.json](./37972-jungle-wars-2-kodai-mahou-atimos-no-nazo.json) |
+| Jungle Z | 114923 | [114923-jungle-z.json](./114923-jungle-z.json) |
 | JungleBoys | 364718 | [364718-jungleboys.json](./364718-jungleboys.json) |
 | Jungledyret | 286115 | [286115-jungledyret.json](./286115-jungledyret.json) |
 | Jungledyret Hugo: Frikadellekrigen | 286117 | [286117-jungledyret-hugo-frikadellekrigen.json](./286117-jungledyret-hugo-frikadellekrigen.json) |
