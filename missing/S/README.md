@@ -7096,6 +7096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slate | 312714 | [312714-slate.json](./312714-slate.json) |
 | Slaugher League | 141529 | [141529-slaugher-league.json](./141529-slaugher-league.json) |
 | Slaughter | 383031 | [383031-slaughter.json](./383031-slaughter.json) |
+| Slaughter 2: Prison Assault | 102856 | [102856-slaughter-2-prison-assault.json](./102856-slaughter-2-prison-assault.json) |
 | Slaughter Bots | 216887 | [216887-slaughter-bots.json](./216887-slaughter-bots.json) |
 | Slaughter Cannon 2 | 200566 | [200566-slaughter-cannon-2.json](./200566-slaughter-cannon-2.json) |
 | Slaughter Cats | 235354 | [235354-slaughter-cats.json](./235354-slaughter-cats.json) |
@@ -15607,6 +15608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stripper Anya: Christmas Special | 385311 | [385311-stripper-anya-christmas-special.json](./385311-stripper-anya-christmas-special.json) |
 | Stripper Anya: Demon Slayer | 51511 | [51511-stripper-anya-demon-slayer.json](./51511-stripper-anya-demon-slayer.json) |
 | Strippers | 240145 | [240145-strippers.json](./240145-strippers.json) |
+| Strive | 102883 | [102883-strive.json](./102883-strive.json) |
 | Strive For Power: King Growth Program | 308868 | [308868-strive-for-power-king-growth-program.json](./308868-strive-for-power-king-growth-program.json) |
 | Strive: A Path Forward | 334496 | [334496-strive-a-path-forward.json](./334496-strive-a-path-forward.json) |
 | Striving for Light: Survival | 234130 | [234130-striving-for-light-survival.json](./234130-striving-for-light-survival.json) |
@@ -18357,6 +18359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercharge | 299922 | [299922-supercharge.json](./299922-supercharge.json) |
 | Supercharged | 263755 | [263755-supercharged.json](./263755-supercharged.json) |
 | Supercharged Robot Vulkaiser | 20019 | [20019-supercharged-robot-vulkaiser.json](./20019-supercharged-robot-vulkaiser.json) |
+| Supercharged World Cup | 102853 | [102853-supercharged-world-cup.json](./102853-supercharged-world-cup.json) |
 | Supercharged! | 69241 | [69241-supercharged.json](./69241-supercharged.json) |
 | Supercooked! | 251711 | [251711-supercooked.json](./251711-supercooked.json) |
 | SuperCowBoy | 339479 | [339479-supercowboy.json](./339479-supercowboy.json) |
