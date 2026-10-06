@@ -968,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperboy 2 | 307086 | [307086-paperboy-2.json](./307086-paperboy-2.json) |
 | Paperboy 2 | 307087 | [307087-paperboy-2.json](./307087-paperboy-2.json) |
 | Paperboy: Special Delivery | 55885 | [55885-paperboy-special-delivery.json](./55885-paperboy-special-delivery.json) |
+| PaperCat | 59224 | [59224-papercat.json](./59224-papercat.json) |
 | Papercraft Tactics | 345092 | [345092-papercraft-tactics.json](./345092-papercraft-tactics.json) |
 | Papercut Art Gallery-Growth | 297802 | [297802-papercut-art-gallery-growth.json](./297802-papercut-art-gallery-growth.json) |
 | Papercut Art Gallery: Nature | 292854 | [292854-papercut-art-gallery-nature.json](./292854-papercut-art-gallery-nature.json) |
@@ -7235,6 +7236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potatoes | 197180 | [197180-potatoes.json](./197180-potatoes.json) |
 | Potatostrike | 316140 | [316140-potatostrike.json](./316140-potatostrike.json) |
 | PotDuckRun | 364677 | [364677-potduckrun.json](./364677-potduckrun.json) |
+| Potemkin | 59254 | [59254-potemkin.json](./59254-potemkin.json) |
 | Potentia | 142098 | [142098-potentia.json](./142098-potentia.json) |
 | Potential Man | 411102 | [411102-potential-man.json](./411102-potential-man.json) |
 | Pothead | 392362 | [392362-pothead.json](./392362-pothead.json) |
