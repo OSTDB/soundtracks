@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varlet | 341552 | [341552-varlet.json](./341552-varlet.json) |
 | Varmintz | 9063 | [9063-varmintz.json](./9063-varmintz.json) |
 | Varney Lake | 210565 | [210565-varney-lake.json](./210565-varney-lake.json) |
+| Varnir of the Dragon Star: Ecdysis of the Dragon Limited Edition | 116234 | [116234-varnir-of-the-dragon-star-ecdysis-of-the-dragon-limited-edition.json](./116234-varnir-of-the-dragon-star-ecdysis-of-the-dragon-limited-edition.json) |
 | Varooom 3D | 181877 | [181877-varooom-3d.json](./181877-varooom-3d.json) |
 | Varsapura | 378268 | [378268-varsapura.json](./378268-varsapura.json) |
 | Vartra Abyss | 323226 | [323226-vartra-abyss.json](./323226-vartra-abyss.json) |
@@ -1322,10 +1323,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viorate no Atelier: Gramnad no Renkinjutsushi 2 | 26515 | [26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json](./26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json) |
 | Vip Em Up - The action movies stars beat em up Ep.0 ( beta ) | 114348 | [114348-vip-em-up-the-action-movies-stars-beat-em-up-ep-0-beta.json](./114348-vip-em-up-the-action-movies-stars-beat-em-up-ep-0-beta.json) |
 | VIP Rebels | 154376 | [154376-vip-rebels.json](./154376-vip-rebels.json) |
+| VIP Shuttle | 116240 | [116240-vip-shuttle.json](./116240-vip-shuttle.json) |
 | VIP Spades | 84289 | [84289-vip-spades.json](./84289-vip-spades.json) |
 | Viper | 12901 | [12901-viper.json](./12901-viper.json) |
 | Viper Phase 1 | 39819 | [39819-viper-phase-1.json](./39819-viper-phase-1.json) |
 | Viper Thunderground | 355099 | [355099-viper-thunderground.json](./355099-viper-thunderground.json) |
+| Viperbyte | 116252 | [116252-viperbyte.json](./116252-viperbyte.json) |
 | ViperTen16 | 313497 | [313497-viperten16.json](./313497-viperten16.json) |
 | Viquim | 341886 | [341886-viquim.json](./341886-viquim.json) |
 | Virago World | 374738 | [374738-virago-world.json](./374738-virago-world.json) |
