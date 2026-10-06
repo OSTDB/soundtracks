@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Buzzing | 285134 | [285134-backyard-buzzing.json](./285134-backyard-buzzing.json) |
 | Backyard Digger | 346673 | [346673-backyard-digger.json](./346673-backyard-digger.json) |
 | Backyard Football '99 | 366897 | [366897-backyard-football-99.json](./366897-backyard-football-99.json) |
+| Backyard Football 2004 | 68879 | [68879-backyard-football-2004.json](./68879-backyard-football-2004.json) |
 | Backyard Football 2006 | 72974 | [72974-backyard-football-2006.json](./72974-backyard-football-2006.json) |
 | Backyard Hockey | 206012 | [206012-backyard-hockey.json](./206012-backyard-hockey.json) |
 | Backyard Hockey ‘02 | 377817 | [377817-backyard-hockey-02.json](./377817-backyard-hockey-02.json) |
