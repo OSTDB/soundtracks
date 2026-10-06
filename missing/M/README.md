@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong: Dream C Club | 47431 | [47431-mahjong-dream-c-club.json](./47431-mahjong-dream-c-club.json) |
 | Mahjong: Magic Casual Puzzle | 200461 | [200461-mahjong-magic-casual-puzzle.json](./200461-mahjong-magic-casual-puzzle.json) |
 | Mahjong: Magic Chips | 119619 | [119619-mahjong-magic-chips.json](./119619-mahjong-magic-chips.json) |
+| Mahjong: Mystery Mansion | 107068 | [107068-mahjong-mystery-mansion.json](./107068-mahjong-mystery-mansion.json) |
 | Mahjong: Wolf's Stories | 177045 | [177045-mahjong-wolfs-stories.json](./177045-mahjong-wolfs-stories.json) |
 | Mahjongg Master 3 | 93140 | [93140-mahjongg-master-3.json](./93140-mahjongg-master-3.json) |
 | Mahjongg Platinum Evolution Edition | 96762 | [96762-mahjongg-platinum-evolution-edition.json](./96762-mahjongg-platinum-evolution-edition.json) |
@@ -1403,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MakerKing | 153379 | [153379-makerking.json](./153379-makerking.json) |
 | Makeruna! Makendou Z | 64091 | [64091-makeruna-makendou-z.json](./64091-makeruna-makendou-z.json) |
 | MakeThatMoney | 90473 | [90473-makethatmoney.json](./90473-makethatmoney.json) |
+| Makeup Girls - Wedding Dress Up & Make Up Game for girls, by Pazu | 107072 | [107072-makeup-girls-wedding-dress-up-and-make-up-game-for-girls-by-pazu.json](./107072-makeup-girls-wedding-dress-up-and-make-up-game-for-girls-by-pazu.json) |
 | Makeup Stylist: DIY Makeup Game | 208971 | [208971-makeup-stylist-diy-makeup-game.json](./208971-makeup-stylist-diy-makeup-game.json) |
 | Maki Fes! | 186615 | [186615-maki-fes.json](./186615-maki-fes.json) |
 | Maki Maker | 274675 | [274675-maki-maker.json](./274675-maki-maker.json) |
@@ -7377,6 +7379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Dancer 2 | 265323 | [265323-missile-dancer-2.json](./265323-missile-dancer-2.json) |
 | Missile Defence | 290654 | [290654-missile-defence.json](./290654-missile-defence.json) |
 | Missile Defense | 278093 | [278093-missile-defense.json](./278093-missile-defense.json) |
+| Missile Dude | 107096 | [107096-missile-dude.json](./107096-missile-dude.json) |
 | Missile Input | 190477 | [190477-missile-input.json](./190477-missile-input.json) |
 | Missile Invader | 245435 | [245435-missile-invader.json](./245435-missile-invader.json) |
 | Missile Mayhem | 360139 | [360139-missile-mayhem.json](./360139-missile-mayhem.json) |
@@ -9050,6 +9053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonstone Island: Deluxe Edition | 306524 | [306524-moonstone-island-deluxe-edition.json](./306524-moonstone-island-deluxe-edition.json) |
 | Moonstone Island: Designed for Lovers DLC Pack | 293412 | [293412-moonstone-island-designed-for-lovers-dlc-pack.json](./293412-moonstone-island-designed-for-lovers-dlc-pack.json) |
 | Moonstone Island: Pool Party DLC Pack | 322723 | [322723-moonstone-island-pool-party-dlc-pack.json](./322723-moonstone-island-pool-party-dlc-pack.json) |
+| Moonstone Ninja | 107078 | [107078-moonstone-ninja.json](./107078-moonstone-ninja.json) |
 | Moonstone Remix | 274451 | [274451-moonstone-remix.json](./274451-moonstone-remix.json) |
 | Moonstone: A Hard Days Knight | 5507 | [5507-moonstone-a-hard-days-knight.json](./5507-moonstone-a-hard-days-knight.json) |
 | Moonstrider | 34562 | [34562-moonstrider.json](./34562-moonstrider.json) |
@@ -11884,6 +11888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MythicZon | 348310 | [348310-mythiczon.json](./348310-mythiczon.json) |
 | Mything | 381597 | [381597-mything.json](./381597-mything.json) |
 | Mythlands: Dragon Flight VR | 214178 | [214178-mythlands-dragon-flight-vr.json](./214178-mythlands-dragon-flight-vr.json) |
+| Mythlands: Dragon Racing | 107084 | [107084-mythlands-dragon-racing.json](./107084-mythlands-dragon-racing.json) |
 | Mythlink | 28881 | [28881-mythlink.json](./28881-mythlink.json) |
 | Mython Island | 141840 | [141840-mython-island.json](./141840-mython-island.json) |
 | Mythos Ever After: A Cthulhu Dating Sim | 171431 | [171431-mythos-ever-after-a-cthulhu-dating-sim.json](./171431-mythos-ever-after-a-cthulhu-dating-sim.json) |
