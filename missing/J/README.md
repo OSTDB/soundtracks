@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JetBall Arena | 113697 | [113697-jetball-arena.json](./113697-jetball-arena.json) |
 | Jetbike Gang | 207233 | [207233-jetbike-gang.json](./207233-jetbike-gang.json) |
 | Jetborne Racing | 150003 | [150003-jetborne-racing.json](./150003-jetborne-racing.json) |
+| Jetbot | 90896 | [90896-jetbot.json](./90896-jetbot.json) |
 | Jetboy | 119775 | [119775-jetboy.json](./119775-jetboy.json) |
 | Jetbros | 44517 | [44517-jetbros.json](./44517-jetbros.json) |
 | JetFighter II: Advanced Mission Disk | 84260 | [84260-jetfighter-ii-advanced-mission-disk.json](./84260-jetfighter-ii-advanced-mission-disk.json) |
@@ -1077,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Together | 274752 | [274752-jigsaw-together.json](./274752-jigsaw-together.json) |
 | Jigsaw Tour 2 | 102736 | [102736-jigsaw-tour-2.json](./102736-jigsaw-tour-2.json) |
 | Jigsaw Tour 4 | 104688 | [104688-jigsaw-tour-4.json](./104688-jigsaw-tour-4.json) |
+| Jigsaw Tour.London | 90883 | [90883-jigsaw-tour-london.json](./90883-jigsaw-tour-london.json) |
 | Jigsaw Treasure Hunter | 366438 | [366438-jigsaw-treasure-hunter.json](./366438-jigsaw-treasure-hunter.json) |
 | Jigsaw USA | 328059 | [328059-jigsaw-usa.json](./328059-jigsaw-usa.json) |
 | Jigsaw With Animals | 163405 | [163405-jigsaw-with-animals.json](./163405-jigsaw-with-animals.json) |
