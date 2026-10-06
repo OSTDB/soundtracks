@@ -4015,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bang Show | 45943 | [45943-big-bang-show.json](./45943-big-bang-show.json) |
 | Big Bash Boom | 112895 | [112895-big-bash-boom.json](./112895-big-bash-boom.json) |
 | Big Bash Cricket | 170402 | [170402-big-bash-cricket.json](./170402-big-bash-cricket.json) |
+| Big Bass Arcade: No Limit | 59211 | [59211-big-bass-arcade-no-limit.json](./59211-big-bass-arcade-no-limit.json) |
 | Big Bass Fishing | 43880 | [43880-big-bass-fishing.json](./43880-big-bass-fishing.json) |
 | Big Bass World Championship | 20135 | [20135-big-bass-world-championship.json](./20135-big-bass-world-championship.json) |
 | Big Beach Sports 2 | 50639 | [50639-big-beach-sports-2.json](./50639-big-beach-sports-2.json) |
@@ -6265,6 +6266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Streets | 36069 | [36069-bloody-streets.json](./36069-bloody-streets.json) |
 | Bloody Tentacles | 179532 | [179532-bloody-tentacles.json](./179532-bloody-tentacles.json) |
 | Bloody Trapland 2: Curiosity | 28003 | [28003-bloody-trapland-2-curiosity.json](./28003-bloody-trapland-2-curiosity.json) |
+| Bloody Vampire | 59209 | [59209-bloody-vampire.json](./59209-bloody-vampire.json) |
 | Bloody Walls: Hardcore | 166222 | [166222-bloody-walls-hardcore.json](./166222-bloody-walls-hardcore.json) |
 | Bloody Walls: Hardcore x2 | 166223 | [166223-bloody-walls-hardcore-x2.json](./166223-bloody-walls-hardcore-x2.json) |
 | Bloody Walls: The Darkness | 166221 | [166221-bloody-walls-the-darkness.json](./166221-bloody-walls-the-darkness.json) |
@@ -7712,6 +7714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling 3D Extreme | 89226 | [89226-bowling-3d-extreme.json](./89226-bowling-3d-extreme.json) |
 | Bowling Alley | 230840 | [230840-bowling-alley.json](./230840-bowling-alley.json) |
 | Bowling at the Lake | 30190 | [30190-bowling-at-the-lake.json](./30190-bowling-at-the-lake.json) |
+| Bowling Bonanza 3D | 59208 | [59208-bowling-bonanza-3d.json](./59208-bowling-bonanza-3d.json) |
 | Bowling by Jason Belmonte | 262386 | [262386-bowling-by-jason-belmonte.json](./262386-bowling-by-jason-belmonte.json) |
 | Bowling Crew | 256240 | [256240-bowling-crew.json](./256240-bowling-crew.json) |
 | Bowling Cross: Final Frame | 201118 | [201118-bowling-cross-final-frame.json](./201118-bowling-cross-final-frame.json) |
@@ -8483,6 +8486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Block | 304041 | [304041-brick-block.json](./304041-brick-block.json) |
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
 | Brick Breaker | 264223 | [264223-brick-breaker.json](./264223-brick-breaker.json) |
+| Brick Breaker Arcade | 59201 | [59201-brick-breaker-arcade.json](./59201-brick-breaker-arcade.json) |
 | Brick Breaker Bunch | 87968 | [87968-brick-breaker-bunch.json](./87968-brick-breaker-bunch.json) |
 | Brick Breaker DEMOLITION | 312645 | [312645-brick-breaker-demolition.json](./312645-brick-breaker-demolition.json) |
 | Brick Breaker Dungeon | 256458 | [256458-brick-breaker-dungeon.json](./256458-brick-breaker-dungeon.json) |
@@ -9895,6 +9899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bushiden | 116223 | [116223-bushiden.json](./116223-bushiden.json) |
 | Bushido Saga: Nightmare of the Samurai | 260375 | [260375-bushido-saga-nightmare-of-the-samurai.json](./260375-bushido-saga-nightmare-of-the-samurai.json) |
 | Bushido: The Way of the Warrior | 41008 | [41008-bushido-the-way-of-the-warrior.json](./41008-bushido-the-way-of-the-warrior.json) |
+| Busin 0: Wizardry Alternative Neo | 59213 | [59213-busin-0-wizardry-alternative-neo.json](./59213-busin-0-wizardry-alternative-neo.json) |
 | Business 98 | 391200 | [391200-business-98.json](./391200-business-98.json) |
 | Business Boardwalk | 146812 | [146812-business-boardwalk.json](./146812-business-boardwalk.json) |
 | Business Empire | 235374 | [235374-business-empire.json](./235374-business-empire.json) |
