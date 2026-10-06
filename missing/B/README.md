@@ -5340,6 +5340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast'N Bounty | 410376 | [410376-blastn-bounty.json](./410376-blastn-bounty.json) |
 | Blastar | 14317 | [14317-blastar.json](./14317-blastar.json) |
 | Blastar | 267582 | [267582-blastar.json](./267582-blastar.json) |
+| BlastArena.io | 75410 | [75410-blastarena-io.json](./75410-blastarena-io.json) |
 | Blastarock! | 196842 | [196842-blastarock.json](./196842-blastarock.json) |
 | Blastboard | 129124 | [129124-blastboard.json](./129124-blastboard.json) |
 | Blastboard: Casso | 203907 | [203907-blastboard-casso.json](./203907-blastboard-casso.json) |
