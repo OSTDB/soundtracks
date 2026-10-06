@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Lamb | 154064 | [154064-dash-lamb.json](./154064-dash-lamb.json) |
 | Dash or Die | 285441 | [285441-dash-or-die.json](./285441-dash-or-die.json) |
 | Dash Out | 217308 | [217308-dash-out.json](./217308-dash-out.json) |
+| Dash Queen | 74716 | [74716-dash-queen.json](./74716-dash-queen.json) |
 | Dash Quest | 99402 | [99402-dash-quest.json](./99402-dash-quest.json) |
 | Dash Shooters | 211137 | [211137-dash-shooters.json](./211137-dash-shooters.json) |
 | Dash till Puff 2 | 39229 | [39229-dash-till-puff-2.json](./39229-dash-till-puff-2.json) |
@@ -4946,6 +4947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Legacy of Zero | 337775 | [337775-digital-legacy-of-zero.json](./337775-digital-legacy-of-zero.json) |
 | Digital Makeover | 200604 | [200604-digital-makeover.json](./200604-digital-makeover.json) |
 | Digital Market Simulator | 348390 | [348390-digital-market-simulator.json](./348390-digital-market-simulator.json) |
+| Digital Master | 74722 | [74722-digital-master.json](./74722-digital-master.json) |
 | Digital Messiah | 229805 | [229805-digital-messiah.json](./229805-digital-messiah.json) |
 | Digital Monster X | 274145 | [274145-digital-monster-x.json](./274145-digital-monster-x.json) |
 | Digital Monster X Ver.2 | 274146 | [274146-digital-monster-x-ver-2.json](./274146-digital-monster-x-ver-2.json) |
@@ -6539,6 +6541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolphin Simulator | 107007 | [107007-dolphin-simulator.json](./107007-dolphin-simulator.json) |
 | Dolphin Splash! | 272475 | [272475-dolphin-splash.json](./272475-dolphin-splash.json) |
 | Dolphin Trainer | 269739 | [269739-dolphin-trainer.json](./269739-dolphin-trainer.json) |
+| Dolphin's Dream | 74704 | [74704-dolphins-dream.json](./74704-dolphins-dream.json) |
 | Dolphins-Cyborgs and open space | 81756 | [81756-dolphins-cyborgs-and-open-space.json](./81756-dolphins-cyborgs-and-open-space.json) |
 | Dolphy Dash | 104003 | [104003-dolphy-dash.json](./104003-dolphy-dash.json) |
 | Dolven | 248022 | [248022-dolven.json](./248022-dolven.json) |
@@ -10369,6 +10372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DX-Ball | 19224 | [19224-dx-ball.json](./19224-dx-ball.json) |
 | Dyad | 242079 | [242079-dyad.json](./242079-dyad.json) |
 | Dyadin | 84450 | [84450-dyadin.json](./84450-dyadin.json) |
+| Dyana Moto | 74671 | [74671-dyana-moto.json](./74671-dyana-moto.json) |
 | Dye | 27288 | [27288-dye.json](./27288-dye.json) |
 | Dye the Bunny | 245979 | [245979-dye-the-bunny.json](./245979-dye-the-bunny.json) |
 | Dyebreaker | 349389 | [349389-dyebreaker.json](./349389-dyebreaker.json) |
