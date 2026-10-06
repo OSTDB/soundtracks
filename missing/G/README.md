@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Senki | 251188 | [251188-gakuen-senki.json](./251188-gakuen-senki.json) |
 | Gakuen Senki Muryou | 49563 | [49563-gakuen-senki-muryou.json](./49563-gakuen-senki-muryou.json) |
 | Gakuen Sentai Solblast | 322189 | [322189-gakuen-sentai-solblast.json](./322189-gakuen-sentai-solblast.json) |
+| Gakuen Utopia Manabi Straight! Kira-kira Happy Festa! | 61449 | [61449-gakuen-utopia-manabi-straight-kira-kira-happy-festa.json](./61449-gakuen-utopia-manabi-straight-kira-kira-happy-festa.json) |
 | Gakuin Makyo: High School Crisis | 322577 | [322577-gakuin-makyo-high-school-crisis.json](./322577-gakuin-makyo-high-school-crisis.json) |
 | Gakusen Toshi Asteriks Festa: Kirameki no Stella | 175688 | [175688-gakusen-toshi-asteriks-festa-kirameki-no-stella.json](./175688-gakusen-toshi-asteriks-festa-kirameki-no-stella.json) |
 | Gal Guardians: Demon Purge | 212571 | [212571-gal-guardians-demon-purge.json](./212571-gal-guardians-demon-purge.json) |
@@ -3884,6 +3885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goonya Monster: Buster - Lord Ham/Fake Type | 279871 | [279871-goonya-monster-buster-lord-ham-fake-type.json](./279871-goonya-monster-buster-lord-ham-fake-type.json) |
 | Goonya Monster: Fake Type - Pack 2 | 279870 | [279870-goonya-monster-fake-type-pack-2.json](./279870-goonya-monster-fake-type-pack-2.json) |
 | Goooal | 309010 | [309010-goooal.json](./309010-goooal.json) |
+| Goooooal América | 61462 | [61462-goooooal-america.json](./61462-goooooal-america.json) |
 | Goooool! | 312142 | [312142-goooool.json](./312142-goooool.json) |
 | Goop God | 180036 | [180036-goop-god.json](./180036-goop-god.json) |
 | Goop Loop | 141073 | [141073-goop-loop.json](./141073-goop-loop.json) |
