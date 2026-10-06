@@ -3518,6 +3518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing for a Living | 293618 | [293618-fishing-for-a-living.json](./293618-fishing-for-a-living.json) |
 | Fishing For Cats | 309685 | [309685-fishing-for-cats.json](./309685-fishing-for-cats.json) |
 | Fishing Freaks: Bass Rise Plus | 123044 | [123044-fishing-freaks-bass-rise-plus.json](./123044-fishing-freaks-bass-rise-plus.json) |
+| Fishing Hero | 110240 | [110240-fishing-hero.json](./110240-fishing-hero.json) |
 | Fishing Inc | 390614 | [390614-fishing-inc.json](./390614-fishing-inc.json) |
 | Fishing Kingdom | 195226 | [195226-fishing-kingdom.json](./195226-fishing-kingdom.json) |
 | Fishing Kings | 92522 | [92522-fishing-kings.json](./92522-fishing-kings.json) |
