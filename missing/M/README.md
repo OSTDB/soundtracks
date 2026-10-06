@@ -6884,6 +6884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Cup | 305861 | [305861-mini-cup.json](./305861-mini-cup.json) |
 | Mini Dash | 61052 | [61052-mini-dash.json](./61052-mini-dash.json) |
 | Mini DayZ 2 | 174700 | [174700-mini-dayz-2.json](./174700-mini-dayz-2.json) |
+| mini DDrink | 95634 | [95634-mini-ddrink.json](./95634-mini-ddrink.json) |
 | Mini Dogfight | 120217 | [120217-mini-dogfight.json](./120217-mini-dogfight.json) |
 | Mini Doom | 241983 | [241983-mini-doom.json](./241983-mini-doom.json) |
 | Mini Doom 2 | 95994 | [95994-mini-doom-2.json](./95994-mini-doom-2.json) |
@@ -8778,6 +8779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Madness 64 | 10615 | [10615-monster-truck-madness-64.json](./10615-monster-truck-madness-64.json) |
 | Monster Truck Montain Offroad | 228105 | [228105-monster-truck-montain-offroad.json](./228105-monster-truck-montain-offroad.json) |
 | Monster Truck Rally | 48199 | [48199-monster-truck-rally.json](./48199-monster-truck-rally.json) |
+| Monster Truck Rally Racing | 95554 | [95554-monster-truck-rally-racing.json](./95554-monster-truck-rally-racing.json) |
 | Monster Truck Ramp Stunt | 246431 | [246431-monster-truck-ramp-stunt.json](./246431-monster-truck-ramp-stunt.json) |
 | Monster Truck Soccer | 197648 | [197648-monster-truck-soccer.json](./197648-monster-truck-soccer.json) |
 | Monster Truck Trip 2 | 337224 | [337224-monster-truck-trip-2.json](./337224-monster-truck-trip-2.json) |
