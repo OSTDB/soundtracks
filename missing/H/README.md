@@ -4666,6 +4666,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitozuma Dorei Keikaku | 108925 | [108925-hitozuma-dorei-keikaku.json](./108925-hitozuma-dorei-keikaku.json) |
 | Hitozuma Dorei Kyoushi | 98029 | [98029-hitozuma-dorei-kyoushi.json](./98029-hitozuma-dorei-kyoushi.json) |
 | Hitozuma Sentai Aisaiger | 65519 | [65519-hitozuma-sentai-aisaiger.json](./65519-hitozuma-sentai-aisaiger.json) |
+| Hitozuma Unyu Saimin NTR Ben | 59264 | [59264-hitozuma-unyu-saimin-ntr-ben.json](./59264-hitozuma-unyu-saimin-ntr-ben.json) |
+| Hitozuma Unyu Saimin NTR Ben ~Namatame Miki no Yokubou~ | 59263 | [59263-hitozuma-unyu-saimin-ntr-ben-namatame-miki-no-yokubou.json](./59263-hitozuma-unyu-saimin-ntr-ben-namatame-miki-no-yokubou.json) |
+| Hitozuma Unyu Saimin NTR Ben ~Sudou Junko no Yuuwaku~ | 59261 | [59261-hitozuma-unyu-saimin-ntr-ben-sudou-junko-no-yuuwaku.json](./59261-hitozuma-unyu-saimin-ntr-ben-sudou-junko-no-yuuwaku.json) |
 | Hitstream | 268454 | [268454-hitstream.json](./268454-hitstream.json) |
 | Hitsuji no Hakobune | 408308 | [408308-hitsuji-no-hakobune.json](./408308-hitsuji-no-hakobune.json) |
 | Hitting Mices | 212730 | [212730-hitting-mices.json](./212730-hitting-mices.json) |
@@ -6831,6 +6834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hush Hush High | 303555 | [303555-hush-hush-high.json](./303555-hush-hush-high.json) |
 | Hush Little Lily | 177395 | [177395-hush-little-lily.json](./177395-hush-little-lily.json) |
 | Hush: In Search of Dominic Ward | 116298 | [116298-hush-in-search-of-dominic-ward.json](./116298-hush-in-search-of-dominic-ward.json) |
+| Hushaby Baby | 59216 | [59216-hushaby-baby.json](./59216-hushaby-baby.json) |
 | Husk | 179682 | [179682-husk.json](./179682-husk.json) |
 | Husk | 18966 | [18966-husk.json](./18966-husk.json) |
 | Husky's Adventures | 152733 | [152733-huskys-adventures.json](./152733-huskys-adventures.json) |
