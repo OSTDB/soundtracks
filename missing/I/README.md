@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I.G.I.-2: Covert Strike | 8559 | [8559-i-g-i-2-covert-strike.json](./8559-i-g-i-2-covert-strike.json) |
 | I.H.A.S | 224773 | [224773-i-h-a-s.json](./224773-i-h-a-s.json) |
 | I.M. Meen | 84281 | [84281-i-m-meen.json](./84281-i-m-meen.json) |
+| I.N.E.R.T.I.A. | 80810 | [80810-i-n-e-r-t-i-a.json](./80810-i-n-e-r-t-i-a.json) |
 | I.O.R.C Impact Orbital Rescue Crew | 152773 | [152773-i-o-r-c-impact-orbital-rescue-crew.json](./152773-i-o-r-c-impact-orbital-rescue-crew.json) |
 | I.Q Intelligent Qube | 215363 | [215363-i-q-intelligent-qube.json](./215363-i-q-intelligent-qube.json) |
 | I.Q Mania | 72151 | [72151-i-q-mania.json](./72151-i-q-mania.json) |
@@ -1804,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incubo | 113609 | [113609-incubo.json](./113609-incubo.json) |
 | Incubus | 200567 | [200567-incubus.json](./200567-incubus.json) |
 | Incubus: A ghost-hunters tale | 221683 | [221683-incubus-a-ghost-hunters-tale.json](./221683-incubus-a-ghost-hunters-tale.json) |
+| Incursion | 80792 | [80792-incursion.json](./80792-incursion.json) |
 | Incursion2D | 284887 | [284887-incursion2d.json](./284887-incursion2d.json) |
 | Indecision. | 83969 | [83969-indecision.json](./83969-indecision.json) |
 | Indect | 135062 | [135062-indect.json](./135062-indect.json) |
