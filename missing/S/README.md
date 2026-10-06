@@ -2386,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season Match 3: Curse of the Witch Crow | 17789 | [17789-season-match-3-curse-of-the-witch-crow.json](./17789-season-match-3-curse-of-the-witch-crow.json) |
 | Season of Mystery: The Cherry Blossom Murders | 9326 | [9326-season-of-mystery-the-cherry-blossom-murders.json](./9326-season-of-mystery-the-cherry-blossom-murders.json) |
 | Season Ticket Baseball | 206642 | [206642-season-ticket-baseball.json](./206642-season-ticket-baseball.json) |
+| Season Ticket Football 2003 | 79522 | [79522-season-ticket-football-2003.json](./79522-season-ticket-football-2003.json) |
 | Season Up | 95603 | [95603-season-up.json](./95603-season-up.json) |
 | Season's Beatings | 76350 | [76350-seasons-beatings.json](./76350-seasons-beatings.json) |
 | Seasonal Affectiveness Disorder | 260789 | [260789-seasonal-affectiveness-disorder.json](./260789-seasonal-affectiveness-disorder.json) |
@@ -4049,6 +4050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Karate | 47216 | [47216-shanghai-karate.json](./47216-shanghai-karate.json) |
 | Shanghai Kid | 38571 | [38571-shanghai-kid.json](./38571-shanghai-kid.json) |
 | Shanghai Mahjong | 205088 | [205088-shanghai-mahjong.json](./205088-shanghai-mahjong.json) |
+| Shanghai Street Racer | 79547 | [79547-shanghai-street-racer.json](./79547-shanghai-street-racer.json) |
 | Shanghai Summer | 234139 | [234139-shanghai-summer.json](./234139-shanghai-summer.json) |
 | Shanghai Wii | 84853 | [84853-shanghai-wii.json](./84853-shanghai-wii.json) |
 | Shanghai: Dynasty | 343909 | [343909-shanghai-dynasty.json](./343909-shanghai-dynasty.json) |
@@ -16802,6 +16804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunshine Mahou no Mori | 66062 | [66062-sunshine-mahou-no-mori.json](./66062-sunshine-mahou-no-mori.json) |
 | Sunshine Secret Book 64 | 132838 | [132838-sunshine-secret-book-64.json](./132838-sunshine-secret-book-64.json) |
 | Sunshower | 183946 | [183946-sunshower.json](./183946-sunshower.json) |
+| Sunsoft Collection | 79526 | [79526-sunsoft-collection.json](./79526-sunsoft-collection.json) |
 | Sunsoft Collection 2 | 291544 | [291544-sunsoft-collection-2.json](./291544-sunsoft-collection-2.json) |
 | Sunsoft is Back! Retro Game Selection | 297001 | [297001-sunsoft-is-back-retro-game-selection.json](./297001-sunsoft-is-back-retro-game-selection.json) |
 | Sunsoft Mahjong Solitaire: Shanghai Legend | 276952 | [276952-sunsoft-mahjong-solitaire-shanghai-legend.json](./276952-sunsoft-mahjong-solitaire-shanghai-legend.json) |
