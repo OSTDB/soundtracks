@@ -2600,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill & Cross: Pirate Riddles | 155013 | [155013-fill-and-cross-pirate-riddles.json](./155013-fill-and-cross-pirate-riddles.json) |
 | Fill & Cross: Pirate Riddles 2 | 101556 | [101556-fill-and-cross-pirate-riddles-2.json](./101556-fill-and-cross-pirate-riddles-2.json) |
 | Fill & Cross: Pirate Riddles 3 | 213014 | [213014-fill-and-cross-pirate-riddles-3.json](./213014-fill-and-cross-pirate-riddles-3.json) |
+| Fill & Cross: World Contest | 88620 | [88620-fill-and-cross-world-contest.json](./88620-fill-and-cross-world-contest.json) |
 | Fill All | 380615 | [380615-fill-all.json](./380615-fill-all.json) |
 | Fill and Cross: Magic Journey | 159654 | [159654-fill-and-cross-magic-journey.json](./159654-fill-and-cross-magic-journey.json) |
 | Fill and Cross: Trick or Treat | 163987 | [163987-fill-and-cross-trick-or-treat.json](./163987-fill-and-cross-trick-or-treat.json) |
@@ -4141,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Ball - Physics Game | 106776 | [106776-flick-ball-physics-game.json](./106776-flick-ball-physics-game.json) |
 | Flick Champions Classic | 86846 | [86846-flick-champions-classic.json](./86846-flick-champions-classic.json) |
 | Flick Champions Summer Sports | 86871 | [86871-flick-champions-summer-sports.json](./86871-flick-champions-summer-sports.json) |
+| Flick Champions XS | 88646 | [88646-flick-champions-xs.json](./88646-flick-champions-xs.json) |
 | Flick Chess! | 223937 | [223937-flick-chess.json](./223937-flick-chess.json) |
 | Flick Erasers Battle Royale | 315834 | [315834-flick-erasers-battle-royale.json](./315834-flick-erasers-battle-royale.json) |
 | Flick Field Goal 16 | 58208 | [58208-flick-field-goal-16.json](./58208-flick-field-goal-16.json) |
@@ -4758,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlyWings 2018 Flight Simulator: Space Shuttle Family | 168868 | [168868-flywings-2018-flight-simulator-space-shuttle-family.json](./168868-flywings-2018-flight-simulator-space-shuttle-family.json) |
 | FlyWings 2018 Flight Simulator: World War I Fighters | 168879 | [168879-flywings-2018-flight-simulator-world-war-i-fighters.json](./168879-flywings-2018-flight-simulator-world-war-i-fighters.json) |
 | FlyWings 2018 Flight Simulator: World War II Fighters | 168870 | [168870-flywings-2018-flight-simulator-world-war-ii-fighters.json](./168870-flywings-2018-flight-simulator-world-war-ii-fighters.json) |
+| FlyWings Flight Simulator 2017 | 88616 | [88616-flywings-flight-simulator-2017.json](./88616-flywings-flight-simulator-2017.json) |
 | Flywrench | 12072 | [12072-flywrench.json](./12072-flywrench.json) |
 | Flyzz! | 217931 | [217931-flyzz.json](./217931-flyzz.json) |
 | FM4X | 270651 | [270651-fm4x.json](./270651-fm4x.json) |
@@ -6819,6 +6822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontiersman | 91360 | [91360-frontiersman.json](./91360-frontiersman.json) |
 | Frontline 1942 | 275732 | [275732-frontline-1942.json](./275732-frontline-1942.json) |
 | Frontline Berlin 1945 | 25003 | [25003-frontline-berlin-1945.json](./25003-frontline-berlin-1945.json) |
+| Frontline Commando | 88630 | [88630-frontline-commando.json](./88630-frontline-commando.json) |
 | Frontline Commando 2 | 127046 | [127046-frontline-commando-2.json](./127046-frontline-commando-2.json) |
 | Frontline Commando: D-Day | 39223 | [39223-frontline-commando-d-day.json](./39223-frontline-commando-d-day.json) |
 | Frontline Commando: WW2 Shooter | 127048 | [127048-frontline-commando-ww2-shooter.json](./127048-frontline-commando-ww2-shooter.json) |
