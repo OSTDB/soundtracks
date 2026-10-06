@@ -19072,6 +19072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sven: Completely Screwed | 247619 | [247619-sven-completely-screwed.json](./247619-sven-completely-screwed.json) |
 | Sven's SudokuPad | 182196 | [182196-svens-sudokupad.json](./182196-svens-sudokupad.json) |
 | Sverdheim | 134986 | [134986-sverdheim.json](./134986-sverdheim.json) |
+| Sverigejakten | 92590 | [92590-sverigejakten.json](./92590-sverigejakten.json) |
 | Sverigespelet | 300684 | [300684-sverigespelet.json](./300684-sverigespelet.json) |
 | Sveta Sky AI | 408200 | [408200-sveta-sky-ai.json](./408200-sveta-sky-ai.json) |
 | SVETIK | 394507 | [394507-svetik.json](./394507-svetik.json) |
