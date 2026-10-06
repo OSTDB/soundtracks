@@ -9615,6 +9615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Masters: Shadow of the Code | 49402 | [49402-duel-masters-shadow-of-the-code.json](./49402-duel-masters-shadow-of-the-code.json) |
 | Duel of games | 292581 | [292581-duel-of-games.json](./292581-duel-of-games.json) |
 | Duel of Honor | 272239 | [272239-duel-of-honor.json](./272239-duel-of-honor.json) |
+| Duel of Summoners | 67602 | [67602-duel-of-summoners.json](./67602-duel-of-summoners.json) |
 | Duel Princess | 186912 | [186912-duel-princess.json](./186912-duel-princess.json) |
 | Duel School Infinite | 210524 | [210524-duel-school-infinite.json](./210524-duel-school-infinite.json) |
 | Duel Toys 2 | 222860 | [222860-duel-toys-2.json](./222860-duel-toys-2.json) |
