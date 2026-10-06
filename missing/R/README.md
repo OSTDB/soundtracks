@@ -2787,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remote Aphrodite | 404996 | [404996-remote-aphrodite.json](./404996-remote-aphrodite.json) |
 | Remote Assault | 74008 | [74008-remote-assault.json](./74008-remote-assault.json) |
 | Remote Control | 388921 | [388921-remote-control.json](./388921-remote-control.json) |
+| Remote Control Dandy SF | 72951 | [72951-remote-control-dandy-sf.json](./72951-remote-control-dandy-sf.json) |
 | Remote Control Fun Airplanes | 104443 | [104443-remote-control-fun-airplanes.json](./104443-remote-control-fun-airplanes.json) |
 | Remote Knights Online | 153401 | [153401-remote-knights-online.json](./153401-remote-knights-online.json) |
 | Remote Life | 121119 | [121119-remote-life.json](./121119-remote-life.json) |
@@ -5045,6 +5046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot vs Birds Zombies | 34782 | [34782-robot-vs-birds-zombies.json](./34782-robot-vs-birds-zombies.json) |
 | Robot Wants It All | 108325 | [108325-robot-wants-it-all.json](./108325-robot-wants-it-all.json) |
 | Robot Warfare | 109205 | [109205-robot-warfare.json](./109205-robot-warfare.json) |
+| Robot Warlords | 72937 | [72937-robot-warlords.json](./72937-robot-warlords.json) |
 | Robot Wars | 86212 | [86212-robot-wars.json](./86212-robot-wars.json) |
 | Robot Wars: Extreme Destruction | 6014 | [6014-robot-wars-extreme-destruction.json](./6014-robot-wars-extreme-destruction.json) |
 | Robot Wars: Extreme Destruction | 78623 | [78623-robot-wars-extreme-destruction.json](./78623-robot-wars-extreme-destruction.json) |
