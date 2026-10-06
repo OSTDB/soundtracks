@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks But No Tanks | 40724 | [40724-tanks-but-no-tanks.json](./40724-tanks-but-no-tanks.json) |
 | Tanks Defense | 298013 | [298013-tanks-defense.json](./298013-tanks-defense.json) |
 | Tanks Endeavor | 117073 | [117073-tanks-endeavor.json](./117073-tanks-endeavor.json) |
+| Tanks for the Memories | 65264 | [65264-tanks-for-the-memories.json](./65264-tanks-for-the-memories.json) |
 | Tanks Logic Puzzle | 339418 | [339418-tanks-logic-puzzle.json](./339418-tanks-logic-puzzle.json) |
 | Tanks Meet Zombies | 81672 | [81672-tanks-meet-zombies.json](./81672-tanks-meet-zombies.json) |
 | Tanks Racing Sim | 339417 | [339417-tanks-racing-sim.json](./339417-tanks-racing-sim.json) |
@@ -1951,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teddy Bear Wars | 131605 | [131605-teddy-bear-wars.json](./131605-teddy-bear-wars.json) |
 | Teddy Bear Zombies | 120334 | [120334-teddy-bear-zombies.json](./120334-teddy-bear-zombies.json) |
 | Teddy Boy | 46100 | [46100-teddy-boy.json](./46100-teddy-boy.json) |
+| Teddy Defender | 65274 | [65274-teddy-defender.json](./65274-teddy-defender.json) |
 | Teddy Factory | 206353 | [206353-teddy-factory.json](./206353-teddy-factory.json) |
 | Teddy Floppy Ear | 64894 | [64894-teddy-floppy-ear.json](./64894-teddy-floppy-ear.json) |
 | Teddy Floppy Ear: Kayaking | 36003 | [36003-teddy-floppy-ear-kayaking.json](./36003-teddy-floppy-ear-kayaking.json) |
@@ -3678,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bible Game | 225574 | [225574-the-bible-game.json](./225574-the-bible-game.json) |
 | The Bibleman | 72773 | [72773-the-bibleman.json](./72773-the-bibleman.json) |
 | The Bibleman Videogame Adventure: A Fight for Faith | 206659 | [206659-the-bibleman-videogame-adventure-a-fight-for-faith.json](./206659-the-bibleman-videogame-adventure-a-fight-for-faith.json) |
+| The Big 6 | 65241 | [65241-the-big-6.json](./65241-the-big-6.json) |
 | The Big Bang Theory Game | 325084 | [325084-the-big-bang-theory-game.json](./325084-the-big-bang-theory-game.json) |
 | The Big Capitalist 3 | 106758 | [106758-the-big-capitalist-3.json](./106758-the-big-capitalist-3.json) |
 | The Big Catch | 217819 | [217819-the-big-catch.json](./217819-the-big-catch.json) |
@@ -7829,6 +7832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monstrous Horror Show | 213421 | [213421-the-monstrous-horror-show.json](./213421-the-monstrous-horror-show.json) |
 | The Month After | 302440 | [302440-the-month-after.json](./302440-the-month-after.json) |
 | The Moodsters: Memory Match Game | 326627 | [326627-the-moodsters-memory-match-game.json](./326627-the-moodsters-memory-match-game.json) |
+| The Moogies | 65239 | [65239-the-moogies.json](./65239-the-moogies.json) |
 | The Moon 2044 | 282043 | [282043-the-moon-2044.json](./282043-the-moon-2044.json) |
 | The Moon 2050 | 156686 | [156686-the-moon-2050.json](./156686-the-moon-2050.json) |
 | The Moon Ate the Sun | 318192 | [318192-the-moon-ate-the-sun.json](./318192-the-moon-ate-the-sun.json) |
@@ -10313,6 +10317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Adventure Games Pack Vol.1 | 96527 | [96527-the-ultimate-adventure-games-pack-vol-1.json](./96527-the-ultimate-adventure-games-pack-vol-1.json) |
 | The Ultimate Arena | 77357 | [77357-the-ultimate-arena.json](./77357-the-ultimate-arena.json) |
 | The Ultimate Banana Game | 330898 | [330898-the-ultimate-banana-game.json](./330898-the-ultimate-banana-game.json) |
+| The Ultimate Battle of the Sexes: Quiz & Play! | 65242 | [65242-the-ultimate-battle-of-the-sexes-quiz-and-play.json](./65242-the-ultimate-battle-of-the-sexes-quiz-and-play.json) |
 | The Ultimate Celebration | 124587 | [124587-the-ultimate-celebration.json](./124587-the-ultimate-celebration.json) |
 | The Ultimate Clicker Master of the Universe | 334825 | [334825-the-ultimate-clicker-master-of-the-universe.json](./334825-the-ultimate-clicker-master-of-the-universe.json) |
 | The Ultimate Death Clock | 251720 | [251720-the-ultimate-death-clock.json](./251720-the-ultimate-death-clock.json) |
@@ -12812,6 +12817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiki Tandems | 272263 | [272263-tiki-tandems.json](./272263-tiki-tandems.json) |
 | Tiki Tiki Hop | 209672 | [209672-tiki-tiki-hop.json](./209672-tiki-tiki-hop.json) |
 | Tiki Towers | 79912 | [79912-tiki-towers.json](./79912-tiki-towers.json) |
+| Tiki Towers 2: Monkey Republic | 65294 | [65294-tiki-towers-2-monkey-republic.json](./65294-tiki-towers-2-monkey-republic.json) |
 | Tiki-Taka-Toe | 377233 | [377233-tiki-taka-toe.json](./377233-tiki-taka-toe.json) |
 | Tiki: The Masked Journey | 163850 | [163850-tiki-the-masked-journey.json](./163850-tiki-the-masked-journey.json) |
 | Tikus Tales | 211167 | [211167-tikus-tales.json](./211167-tikus-tales.json) |
@@ -13791,6 +13797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Todos Contra Tcheco | 321780 | [321780-todos-contra-tcheco.json](./321780-todos-contra-tcheco.json) |
 | Toe to Toe: Party Games | 196237 | [196237-toe-to-toe-party-games.json](./196237-toe-to-toe-party-games.json) |
 | Toeic Test DS Training | 124095 | [124095-toeic-test-ds-training.json](./124095-toeic-test-ds-training.json) |
+| TOEIC Test: Jissen Tokkun | 65291 | [65291-toeic-test-jissen-tokkun.json](./65291-toeic-test-jissen-tokkun.json) |
 | ToeJam & Earl in Panic on Funkotron | 11123 | [11123-toejam-and-earl-in-panic-on-funkotron.json](./11123-toejam-and-earl-in-panic-on-funkotron.json) |
 | Toem 2 | 325182 | [325182-toem-2.json](./325182-toem-2.json) |
 | Toewr le Fence | 157143 | [157143-toewr-le-fence.json](./157143-toewr-le-fence.json) |
@@ -17058,6 +17065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Trap | 70936 | [70936-treasure-trap.json](./70936-treasure-trap.json) |
 | Treasure Trove Through Time | 176282 | [176282-treasure-trove-through-time.json](./176282-treasure-trove-through-time.json) |
 | Treasure World | 21125 | [21125-treasure-world.json](./21125-treasure-world.json) |
+| Treasures of Montezuma Blitz | 65272 | [65272-treasures-of-montezuma-blitz.json](./65272-treasures-of-montezuma-blitz.json) |
 | Treasures of Oz | 318547 | [318547-treasures-of-oz.json](./318547-treasures-of-oz.json) |
 | Treasures of the Aegan | 169239 | [169239-treasures-of-the-aegan.json](./169239-treasures-of-the-aegan.json) |
 | Treasures of the Aegean | 146900 | [146900-treasures-of-the-aegean.json](./146900-treasures-of-the-aegean.json) |
