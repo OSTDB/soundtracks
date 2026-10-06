@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer’s Market Simulator | 348393 | [348393-farmer-s-market-simulator.json](./348393-farmer-s-market-simulator.json) |
 | Farmerama | 92459 | [92459-farmerama.json](./92459-farmerama.json) |
 | Farmers Co-op: Out of This World | 165609 | [165609-farmers-co-op-out-of-this-world.json](./165609-farmers-co-op-out-of-this-world.json) |
+| FarmFury! | 62576 | [62576-farmfury.json](./62576-farmfury.json) |
 | Farmhand Go! | 223171 | [223171-farmhand-go.json](./223171-farmhand-go.json) |
 | Farmieland | 273488 | [273488-farmieland.json](./273488-farmieland.json) |
 | Farming & Supermarket: Clicker | 405610 | [405610-farming-and-supermarket-clicker.json](./405610-farming-and-supermarket-clicker.json) |
@@ -3234,6 +3235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Vision Quest | 141237 | [141237-fire-emblem-vision-quest.json](./141237-fire-emblem-vision-quest.json) |
 | Fire Embrace: Erabareshi Chigyuu no Ken | 163923 | [163923-fire-embrace-erabareshi-chigyuu-no-ken.json](./163923-fire-embrace-erabareshi-chigyuu-no-ken.json) |
 | Fire Entrance | 374086 | [374086-fire-entrance.json](./374086-fire-entrance.json) |
+| Fire Escape | 62575 | [62575-fire-escape.json](./62575-fire-escape.json) |
 | Fire Farm VR | 31964 | [31964-fire-farm-vr.json](./31964-fire-farm-vr.json) |
 | Fire Fighter | 18479 | [18479-fire-fighter.json](./18479-fire-fighter.json) |
 | Fire Fighter | 246332 | [246332-fire-fighter.json](./246332-fire-fighter.json) |
@@ -4859,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fogel and Porki Evil Arcade | 211675 | [211675-fogel-and-porki-evil-arcade.json](./211675-fogel-and-porki-evil-arcade.json) |
 | Foguetão 2000 | 300815 | [300815-foguetao-2000.json](./300815-foguetao-2000.json) |
 | Fohh | 304156 | [304156-fohh.json](./304156-fohh.json) |
+| Foiled | 62549 | [62549-foiled.json](./62549-foiled.json) |
 | Foillower | 382923 | [382923-foillower.json](./382923-foillower.json) |
 | FolcDark | 275671 | [275671-folcdark.json](./275671-folcdark.json) |
 | FolcDark: Part I | 265119 | [265119-folcdark-part-i.json](./265119-folcdark-part-i.json) |
@@ -6387,6 +6390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeman | 253604 | [253604-freeman.json](./253604-freeman.json) |
 | Freeman and Bob | 252921 | [252921-freeman-and-bob.json](./252921-freeman-and-bob.json) |
 | Freeman: Guerrilla Warfare | 78538 | [78538-freeman-guerrilla-warfare.json](./78538-freeman-guerrilla-warfare.json) |
+| Freeq | 62573 | [62573-freeq.json](./62573-freeq.json) |
 | Freerice | 140371 | [140371-freerice.json](./140371-freerice.json) |
 | Freeride | 204514 | [204514-freeride.json](./204514-freeride.json) |
 | Freerunners | 220025 | [220025-freerunners.json](./220025-freerunners.json) |
