@@ -1696,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Space: Escape Room | 195800 | [195800-in-the-space-escape-room.json](./195800-in-the-space-escape-room.json) |
 | In the Thrall of Darkness: The Gift of Dreams | 76685 | [76685-in-the-thrall-of-darkness-the-gift-of-dreams.json](./76685-in-the-thrall-of-darkness-the-gift-of-dreams.json) |
 | In the Valley of Death | 172673 | [172673-in-the-valley-of-death.json](./172673-in-the-valley-of-death.json) |
+| In the Valley of Gods | 76883 | [76883-in-the-valley-of-gods.json](./76883-in-the-valley-of-gods.json) |
 | In the Van | 412532 | [412532-in-the-van.json](./412532-in-the-van.json) |
 | In the Village of Grandfather: Summer,Sun,Heat. | 106576 | [106576-in-the-village-of-grandfather-summer-sun-heat.json](./106576-in-the-village-of-grandfather-summer-sun-heat.json) |
 | In the Weeds | 235837 | [235837-in-the-weeds.json](./235837-in-the-weeds.json) |
