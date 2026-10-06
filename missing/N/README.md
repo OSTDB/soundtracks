@@ -3736,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nora Roberts: Vision in White | 143330 | [143330-nora-roberts-vision-in-white.json](./143330-nora-roberts-vision-in-white.json) |
 | Nora to Oujo to Noraneko Heart 2 | 205267 | [205267-nora-to-oujo-to-noraneko-heart-2.json](./205267-nora-to-oujo-to-noraneko-heart-2.json) |
 | Nora to Oujo to Noraneko Heart 2: Dakimakura Cover Set | 136972 | [136972-nora-to-oujo-to-noraneko-heart-2-dakimakura-cover-set.json](./136972-nora-to-oujo-to-noraneko-heart-2-dakimakura-cover-set.json) |
+| Nora to Toki no Koubou: Kiri no Mori no Majo | 65848 | [65848-nora-to-toki-no-koubou-kiri-no-mori-no-majo.json](./65848-nora-to-toki-no-koubou-kiri-no-mori-no-majo.json) |
 | Nora Wanna Rise | 291709 | [291709-nora-wanna-rise.json](./291709-nora-wanna-rise.json) |
 | Nora: Forest Nights | 298654 | [298654-nora-forest-nights.json](./298654-nora-forest-nights.json) |
 | Nora: In Search of Hidden Ingredients | 306334 | [306334-nora-in-search-of-hidden-ingredients.json](./306334-nora-in-search-of-hidden-ingredients.json) |
