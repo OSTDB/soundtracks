@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Z After | 213938 | [213938-z-after.json](./213938-z-after.json) |
 | Z After: A Point and Click Survival | 343272 | [343272-z-after-a-point-and-click-survival.json](./343272-z-after-a-point-and-click-survival.json) |
+| Z Buster | 79566 | [79566-z-buster.json](./79566-z-buster.json) |
 | Z Collection | 52102 | [52102-z-collection.json](./52102-z-collection.json) |
 | Z Escape: Complete Edition | 277911 | [277911-z-escape-complete-edition.json](./277911-z-escape-complete-edition.json) |
 | Z Juice | 311812 | [311812-z-juice.json](./311812-z-juice.json) |
