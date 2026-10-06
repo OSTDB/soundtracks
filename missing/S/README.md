@@ -4970,6 +4970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Blaster Big Bang Boom | 143954 | [143954-shooting-blaster-big-bang-boom.json](./143954-shooting-blaster-big-bang-boom.json) |
 | Shooting Blocks 2 | 91340 | [91340-shooting-blocks-2.json](./91340-shooting-blocks-2.json) |
 | Shooting Bubbles | 115777 | [115777-shooting-bubbles.json](./115777-shooting-bubbles.json) |
+| Shooting Champion VR | 116913 | [116913-shooting-champion-vr.json](./116913-shooting-champion-vr.json) |
 | Shooting Chicken Brutal Suckers | 123971 | [123971-shooting-chicken-brutal-suckers.json](./123971-shooting-chicken-brutal-suckers.json) |
 | Shooting Chicken Insanity Chickens | 110171 | [110171-shooting-chicken-insanity-chickens.json](./110171-shooting-chicken-insanity-chickens.json) |
 | Shooting Covid | 195713 | [195713-shooting-covid.json](./195713-shooting-covid.json) |
@@ -7962,6 +7963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake 3310 | 177382 | [177382-snake-3310.json](./177382-snake-3310.json) |
 | Snake and Rhino in the Sketchbook | 360120 | [360120-snake-and-rhino-in-the-sketchbook.json](./360120-snake-and-rhino-in-the-sketchbook.json) |
 | Snake Battle | 111657 | [111657-snake-battle.json](./111657-snake-battle.json) |
+| Snake Blast! | 116961 | [116961-snake-blast.json](./116961-snake-blast.json) |
 | Snake Blocks | 145918 | [145918-snake-blocks.json](./145918-snake-blocks.json) |
 | Snake Blocks | 36025 | [36025-snake-blocks.json](./36025-snake-blocks.json) |
 | Snake Break | 275610 | [275610-snake-break.json](./275610-snake-break.json) |
@@ -8391,6 +8393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowdrift | 401698 | [401698-snowdrift.json](./401698-snowdrift.json) |
 | Snowdrop Escape | 170562 | [170562-snowdrop-escape.json](./170562-snowdrop-escape.json) |
 | Snowdrop the Blade Master | 265629 | [265629-snowdrop-the-blade-master.json](./265629-snowdrop-the-blade-master.json) |
+| Snower's New Clothes | 116923 | [116923-snowers-new-clothes.json](./116923-snowers-new-clothes.json) |
 | SnowFall | 81929 | [81929-snowfall.json](./81929-snowfall.json) |
 | Snowfall Symphony: A Tale of Crustallus | 311619 | [311619-snowfall-symphony-a-tale-of-crustallus.json](./311619-snowfall-symphony-a-tale-of-crustallus.json) |
 | SnowFight Go | 128011 | [128011-snowfight-go.json](./128011-snowfight-go.json) |
@@ -14219,6 +14222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Eagle: Cave Mission | 169287 | [169287-steel-eagle-cave-mission.json](./169287-steel-eagle-cave-mission.json) |
 | Steel Empire | 45588 | [45588-steel-empire.json](./45588-steel-empire.json) |
 | Steel Empire | 49383 | [49383-steel-empire.json](./49383-steel-empire.json) |
+| Steel Fight | 116920 | [116920-steel-fight.json](./116920-steel-fight.json) |
 | Steel Flood | 275710 | [275710-steel-flood.json](./275710-steel-flood.json) |
 | Steel Force | 39670 | [39670-steel-force.json](./39670-steel-force.json) |
 | Steel Graves | 143583 | [143583-steel-graves.json](./143583-steel-graves.json) |
@@ -18506,6 +18510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: The Noise She Couldn't Make | 139919 | [139919-surface-the-noise-she-couldnt-make.json](./139919-surface-the-noise-she-couldnt-make.json) |
 | Surface: The Pantheon | 139748 | [139748-surface-the-pantheon.json](./139748-surface-the-pantheon.json) |
 | Surface: The Soaring City | 139749 | [139749-surface-the-soaring-city.json](./139749-surface-the-soaring-city.json) |
+| Surface: The Soaring City - Collector's Edition | 116921 | [116921-surface-the-soaring-city-collectors-edition.json](./116921-surface-the-soaring-city-collectors-edition.json) |
 | Surface: Virtual Detective | 187925 | [187925-surface-virtual-detective.json](./187925-surface-virtual-detective.json) |
 | Surface: Virtual Detective - Collector's Edition | 166076 | [166076-surface-virtual-detective-collectors-edition.json](./166076-surface-virtual-detective-collectors-edition.json) |
 | Surfacer+ | 85529 | [85529-surfacer.json](./85529-surfacer.json) |
