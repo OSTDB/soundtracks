@@ -4353,6 +4353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words-Attack | 40747 | [40747-words-attack.json](./40747-words-attack.json) |
 | Wordscapes Search | 272562 | [272562-wordscapes-search.json](./272562-wordscapes-search.json) |
 | Wordsdom 2 | 108287 | [108287-wordsdom-2.json](./108287-wordsdom-2.json) |
+| Wordsdom2 | 105835 | [105835-wordsdom2.json](./105835-wordsdom2.json) |
 | Wordsearch Attack | 368543 | [368543-wordsearch-attack.json](./368543-wordsearch-attack.json) |
 | WordSearch Kids HD | 107670 | [107670-wordsearch-kids-hd.json](./107670-wordsearch-kids-hd.json) |
 | WordSearch Story: Chapter 1 | 213325 | [213325-wordsearch-story-chapter-1.json](./213325-wordsearch-story-chapter-1.json) |
