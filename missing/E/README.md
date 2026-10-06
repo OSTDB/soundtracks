@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagles Expedition | 143933 | [143933-eagles-expedition.json](./143933-eagles-expedition.json) |
 | Ealam Arib | 90600 | [90600-ealam-arib.json](./90600-ealam-arib.json) |
 | Ear Hockey, a Microsoft Garage Project | 210740 | [210740-ear-hockey-a-microsoft-garage-project.json](./210740-ear-hockey-a-microsoft-garage-project.json) |
+| Eardis: Revolution Force | 112893 | [112893-eardis-revolution-force.json](./112893-eardis-revolution-force.json) |
 | Eared Hero | 68194 | [68194-eared-hero.json](./68194-eared-hero.json) |
 | Earl Bobby is looking for his Balls | 78686 | [78686-earl-bobby-is-looking-for-his-balls.json](./78686-earl-bobby-is-looking-for-his-balls.json) |
 | Earl Grey | 181711 | [181711-earl-grey.json](./181711-earl-grey.json) |
@@ -2588,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Errant: Hunter's Soul | 200748 | [200748-errant-hunters-soul.json](./200748-errant-hunters-soul.json) |
 | Errante | 185559 | [185559-errante.json](./185559-errante.json) |
 | Errasaga | 381599 | [381599-errasaga.json](./381599-errasaga.json) |
+| Error | 112907 | [112907-error.json](./112907-error.json) |
 | Error #53 | 63010 | [63010-error-53.json](./63010-error-53.json) |
 | Error 0: New World Found | 178685 | [178685-error-0-new-world-found.json](./178685-error-0-new-world-found.json) |
 | Error 2351 | 399833 | [399833-error-2351.json](./399833-error-2351.json) |
@@ -3491,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Zero | 44729 | [44729-eve-zero.json](./44729-eve-zero.json) |
 | Eve: Echoes | 111187 | [111187-eve-echoes.json](./111187-eve-echoes.json) |
 | Eve: Galaxy Conquest | 317843 | [317843-eve-galaxy-conquest.json](./317843-eve-galaxy-conquest.json) |
+| Eve: Rebirth Terror | 112911 | [112911-eve-rebirth-terror.json](./112911-eve-rebirth-terror.json) |
 | Eve: The Fatal Attraction | 44730 | [44730-eve-the-fatal-attraction.json](./44730-eve-the-fatal-attraction.json) |
 | Evel Knievel | 348405 | [348405-evel-knievel.json](./348405-evel-knievel.json) |
 | Evel Knievel Evel-ution | 23533 | [23533-evel-knievel-evel-ution.json](./23533-evel-knievel-evel-ution.json) |
