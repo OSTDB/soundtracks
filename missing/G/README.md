@@ -3466,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldenShot | 275686 | [275686-goldenshot.json](./275686-goldenshot.json) |
 | Goldfish | 346226 | [346226-goldfish.json](./346226-goldfish.json) |
 | Goldfish Brain | 142952 | [142952-goldfish-brain.json](./142952-goldfish-brain.json) |
+| Goldfish Pinball Blast | 107075 | [107075-goldfish-pinball-blast.json](./107075-goldfish-pinball-blast.json) |
 | GoldfishFlap | 172677 | [172677-goldfishflap.json](./172677-goldfishflap.json) |
 | Goldgräber Simulator | 136368 | [136368-goldgraber-simulator.json](./136368-goldgraber-simulator.json) |
 | Goldheart | 248324 | [248324-goldheart.json](./248324-goldheart.json) |
@@ -5218,6 +5219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Big (or Go Home) | 141221 | [141221-grow-big-or-go-home.json](./141221-grow-big-or-go-home.json) |
 | Grow Cannon | 269055 | [269055-grow-cannon.json](./269055-grow-cannon.json) |
 | Grow Golf | 394884 | [394884-grow-golf.json](./394884-grow-golf.json) |
+| Grow Heroes Vip | 107108 | [107108-grow-heroes-vip.json](./107108-grow-heroes-vip.json) |
 | Grow Home | 8774 | [8774-grow-home.json](./8774-grow-home.json) |
 | Grow Home & Grow Up | 354503 | [354503-grow-home-and-grow-up.json](./354503-grow-home-and-grow-up.json) |
 | Grow Recovery | 175835 | [175835-grow-recovery.json](./175835-grow-recovery.json) |
