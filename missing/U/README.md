@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uh? | 419847 | [419847-uh.json](./419847-uh.json) |
 | Uhilant | 337294 | [337294-uhilant.json](./337294-uhilant.json) |
 | Uin | 125993 | [125993-uin.json](./125993-uin.json) |
+| Uizuno Blade VR | 83158 | [83158-uizuno-blade-vr.json](./83158-uizuno-blade-vr.json) |
 | Uju Jeonsa Dooly | 93589 | [93589-uju-jeonsa-dooly.json](./93589-uju-jeonsa-dooly.json) |
 | UK Truck Simulator | 27641 | [27641-uk-truck-simulator.json](./27641-uk-truck-simulator.json) |
 | Uka & Haruka: Hentai Puzzle 18+ | 312681 | [312681-uka-and-haruka-hentai-puzzle-18.json](./312681-uka-and-haruka-hentai-puzzle-18.json) |
