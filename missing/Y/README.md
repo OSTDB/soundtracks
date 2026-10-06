@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeti | 68350 | [68350-yeti.json](./68350-yeti.json) |
 | Yeti Legend: Mystery of the Forest | 294470 | [294470-yeti-legend-mystery-of-the-forest.json](./294470-yeti-legend-mystery-of-the-forest.json) |
 | Yeti Quest: Crazy Penguins | 294469 | [294469-yeti-quest-crazy-penguins.json](./294469-yeti-quest-crazy-penguins.json) |
+| Yeti Sports: Pingu Throw | 66983 | [66983-yeti-sports-pingu-throw.json](./66983-yeti-sports-pingu-throw.json) |
 | Yeti's Parole Officer | 83598 | [83598-yetis-parole-officer.json](./83598-yetis-parole-officer.json) |
 | YetiSports | 202185 | [202185-yetisports.json](./202185-yetisports.json) |
 | Yetisports Arctic Adventure | 43239 | [43239-yetisports-arctic-adventure.json](./43239-yetisports-arctic-adventure.json) |
