@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Lu Baby Bear Care 2 | 227472 | [227472-panda-lu-baby-bear-care-2.json](./227472-panda-lu-baby-bear-care-2.json) |
 | Panda Man | 115600 | [115600-panda-man.json](./115600-panda-man.json) |
 | Panda Pai Gow Poker | 209403 | [209403-panda-pai-gow-poker.json](./209403-panda-pai-gow-poker.json) |
+| Panda PandaMonium | 60902 | [60902-panda-pandamonium.json](./60902-panda-pandamonium.json) |
 | Panda penguin care salon | 88424 | [88424-panda-penguin-care-salon.json](./88424-panda-penguin-care-salon.json) |
 | Panda Pop: Bubble Shooter | 87039 | [87039-panda-pop-bubble-shooter.json](./87039-panda-pop-bubble-shooter.json) |
 | Panda Prince | 48891 | [48891-panda-prince.json](./48891-panda-prince.json) |
@@ -1230,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Snap Shot | 323928 | [323928-paranormal-snap-shot.json](./323928-paranormal-snap-shot.json) |
 | Paranormal State: Poison Spring - Collector's Edition | 30379 | [30379-paranormal-state-poison-spring-collectors-edition.json](./30379-paranormal-state-poison-spring-collectors-edition.json) |
 | Paranormal Survey | 338854 | [338854-paranormal-survey.json](./338854-paranormal-survey.json) |
+| Paranormal Syndrome | 60931 | [60931-paranormal-syndrome.json](./60931-paranormal-syndrome.json) |
 | Paranormal Syndrome 3 | 151527 | [151527-paranormal-syndrome-3.json](./151527-paranormal-syndrome-3.json) |
 | Paranormal Syndrome: R Dolls Edition | 261219 | [261219-paranormal-syndrome-r-dolls-edition.json](./261219-paranormal-syndrome-r-dolls-edition.json) |
 | Paranormal Tales | 222843 | [222843-paranormal-tales.json](./222843-paranormal-tales.json) |
@@ -5257,6 +5259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plataforma branca | 153501 | [153501-plataforma-branca.json](./153501-plataforma-branca.json) |
 | PlatBall | 108340 | [108340-platball.json](./108340-platball.json) |
 | Platboarder | 253415 | [253415-platboarder.json](./253415-platboarder.json) |
+| Platdude in A Bit of a Spin | 60927 | [60927-platdude-in-a-bit-of-a-spin.json](./60927-platdude-in-a-bit-of-a-spin.json) |
 | Platdude in Battling Ostriches | 61426 | [61426-platdude-in-battling-ostriches.json](./61426-platdude-in-battling-ostriches.json) |
 | Platdude in Swamp Golf | 61087 | [61087-platdude-in-swamp-golf.json](./61087-platdude-in-swamp-golf.json) |
 | Plate | 339280 | [339280-plate.json](./339280-plate.json) |
@@ -6966,6 +6969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popop! | 160245 | [160245-popop.json](./160245-popop.json) |
 | Popoposan | 329555 | [329555-popoposan.json](./329555-popoposan.json) |
 | PoPoRoGue | 79937 | [79937-poporogue.json](./79937-poporogue.json) |
+| Popper | 60878 | [60878-popper.json](./60878-popper.json) |
 | Poppet Quest | 358933 | [358933-poppet-quest.json](./358933-poppet-quest.json) |
 | Poppi | 181301 | [181301-poppi.json](./181301-poppi.json) |
 | Poppie Land | 360133 | [360133-poppie-land.json](./360133-poppie-land.json) |
