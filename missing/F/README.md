@@ -1711,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Frontier 1869 | 396362 | [396362-fatal-frontier-1869.json](./396362-fatal-frontier-1869.json) |
 | Fatal Fury | 71128 | [71128-fatal-fury.json](./71128-fatal-fury.json) |
 | Fatal Fury 2 | 4435 | [4435-fatal-fury-2.json](./4435-fatal-fury-2.json) |
+| Fatal Fury First Contact (Best Collection) | 75460 | [75460-fatal-fury-first-contact-best-collection.json](./75460-fatal-fury-first-contact-best-collection.json) |
 | Fatal Fury One | 400426 | [400426-fatal-fury-one.json](./400426-fatal-fury-one.json) |
 | Fatal Fury Special | 5385 | [5385-fatal-fury-special.json](./5385-fatal-fury-special.json) |
 | Fatal Fury: City of the Wolves | 260321 | [260321-fatal-fury-city-of-the-wolves.json](./260321-fatal-fury-city-of-the-wolves.json) |
@@ -4282,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Out Rush | 337724 | [337724-flip-out-rush.json](./337724-flip-out-rush.json) |
 | Flip Out! | 40799 | [40799-flip-out.json](./40799-flip-out.json) |
 | Flip Range 2 | 220156 | [220156-flip-range-2.json](./220156-flip-range-2.json) |
+| Flip Shot | 75463 | [75463-flip-shot.json](./75463-flip-shot.json) |
 | Flip Tale | 133381 | [133381-flip-tale.json](./133381-flip-tale.json) |
 | Flip That Coin! | 284573 | [284573-flip-that-coin.json](./284573-flip-that-coin.json) |
 | Flip the Birdie | 252711 | [252711-flip-the-birdie.json](./252711-flip-the-birdie.json) |
@@ -5970,6 +5972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPS Trainer | 94177 | [94177-fps-trainer.json](./94177-fps-trainer.json) |
 | FPS Training | 130278 | [130278-fps-training.json](./130278-fps-training.json) |
 | FPS War 2 | 240880 | [240880-fps-war-2.json](./240880-fps-war-2.json) |
+| FPS: Fun Puzzle Shooter | 75407 | [75407-fps-fun-puzzle-shooter.json](./75407-fps-fun-puzzle-shooter.json) |
 | FPS80 | 305340 | [305340-fps80.json](./305340-fps80.json) |
 | FPScore | 142971 | [142971-fpscore.json](./142971-fpscore.json) |
 | FPSCore | 390186 | [390186-fpscore.json](./390186-fpscore.json) |
@@ -7591,6 +7594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futebol de Tampinhas | 290090 | [290090-futebol-de-tampinhas.json](./290090-futebol-de-tampinhas.json) |
 | Futilitris | 138152 | [138152-futilitris.json](./138152-futilitris.json) |
 | Futr8 | 231339 | [231339-futr8.json](./231339-futr8.json) |
+| Futsal: 5 on 5 Mini Soccer | 75464 | [75464-futsal-5-on-5-mini-soccer.json](./75464-futsal-5-on-5-mini-soccer.json) |
 | FutSim | 276783 | [276783-futsim.json](./276783-futsim.json) |
 | Futsuma Shoujo Charlotte | 203846 | [203846-futsuma-shoujo-charlotte.json](./203846-futsuma-shoujo-charlotte.json) |
 | Futuclass Chemistry VR | 153324 | [153324-futuclass-chemistry-vr.json](./153324-futuclass-chemistry-vr.json) |
