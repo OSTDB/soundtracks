@@ -1086,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw With Animals | 163405 | [163405-jigsaw-with-animals.json](./163405-jigsaw-with-animals.json) |
 | Jigsaw World | 308926 | [308926-jigsaw-world.json](./308926-jigsaw-world.json) |
 | Jigsaw World | 53249 | [53249-jigsaw-world.json](./53249-jigsaw-world.json) |
+| Jigsaw World | 80812 | [80812-jigsaw-world.json](./80812-jigsaw-world.json) |
 | Jigsaw Zoo | 289371 | [289371-jigsaw-zoo.json](./289371-jigsaw-zoo.json) |
 | Jigsaw's Test | 393090 | [393090-jigsaws-test.json](./393090-jigsaws-test.json) |
 | Jigsawship | 255760 | [255760-jigsawship.json](./255760-jigsawship.json) |
