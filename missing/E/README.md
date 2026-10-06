@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo: Benefits | 141823 | [141823-echo-benefits.json](./141823-echo-benefits.json) |
 | Echo: Defy Death | 303500 | [303500-echo-defy-death.json](./303500-echo-defy-death.json) |
 | Echo: Digital Deluxe Edition | 212910 | [212910-echo-digital-deluxe-edition.json](./212910-echo-digital-deluxe-edition.json) |
+| Echo: Secrets of the Lost Cavern | 76145 | [76145-echo-secrets-of-the-lost-cavern.json](./76145-echo-secrets-of-the-lost-cavern.json) |
 | Echo: The Oracle's Scroll | 319196 | [319196-echo-the-oracles-scroll.json](./319196-echo-the-oracles-scroll.json) |
 | Echo's Climb | 203942 | [203942-echos-climb.json](./203942-echos-climb.json) |
 | EchoBlade | 166752 | [166752-echoblade.json](./166752-echoblade.json) |
@@ -1188,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elegy of Fate | 305375 | [305375-elegy-of-fate.json](./305375-elegy-of-fate.json) |
 | Elektra | 94018 | [94018-elektra.json](./94018-elektra.json) |
 | ElektraGlide | 13632 | [13632-elektraglide.json](./13632-elektraglide.json) |
+| Elektrik | 76153 | [76153-elektrik.json](./76153-elektrik.json) |
 | Elektrosoul | 207197 | [207197-elektrosoul.json](./207197-elektrosoul.json) |
 | Elemates | 207525 | [207525-elemates.json](./207525-elemates.json) |
 | Elemencraft | 194012 | [194012-elemencraft.json](./194012-elemencraft.json) |
@@ -2498,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epstein | 284575 | [284575-epstein.json](./284575-epstein.json) |
 | Epstein 2 | 315091 | [315091-epstein-2.json](./315091-epstein-2.json) |
 | Epyka | 327930 | [327930-epyka.json](./327930-epyka.json) |
+| Epyx Summer Games | 76131 | [76131-epyx-summer-games.json](./76131-epyx-summer-games.json) |
 | Epyx Winter Games | 78929 | [78929-epyx-winter-games.json](./78929-epyx-winter-games.json) |
 | Epyx's Impossible Mission | 118868 | [118868-epyxs-impossible-mission.json](./118868-epyxs-impossible-mission.json) |
 | EQ Survival Manual | 406819 | [406819-eq-survival-manual.json](./406819-eq-survival-manual.json) |
@@ -2694,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape | 356667 | [356667-escape.json](./356667-escape.json) |
 | Escape | 80938 | [80938-escape.json](./80938-escape.json) |
 | Escape | 98433 | [98433-escape.json](./98433-escape.json) |
+| Escape - Norm's World XL | 76176 | [76176-escape-norms-world-xl.json](./76176-escape-norms-world-xl.json) |
 | Escape 2: The Closet | 317400 | [317400-escape-2-the-closet.json](./317400-escape-2-the-closet.json) |
 | Escape 4: The Bathroom | 317401 | [317401-escape-4-the-bathroom.json](./317401-escape-4-the-bathroom.json) |
 | Escape Academy 2: Back 2 School | 347671 | [347671-escape-academy-2-back-2-school.json](./347671-escape-academy-2-back-2-school.json) |
