@@ -5459,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Goddess | 255177 | [255177-guardian-goddess.json](./255177-guardian-goddess.json) |
 | Guardian Goddess | 291577 | [291577-guardian-goddess.json](./291577-guardian-goddess.json) |
 | Guardian Hearts Online | 64445 | [64445-guardian-hearts-online.json](./64445-guardian-hearts-online.json) |
+| Guardian Hunter | 58649 | [58649-guardian-hunter.json](./58649-guardian-hunter.json) |
 | Guardian II: Revenge of the Mutants | 152477 | [152477-guardian-ii-revenge-of-the-mutants.json](./152477-guardian-ii-revenge-of-the-mutants.json) |
 | Guardian Kingdoms | 54686 | [54686-guardian-kingdoms.json](./54686-guardian-kingdoms.json) |
 | Guardian Legend | 284351 | [284351-guardian-legend.json](./284351-guardian-legend.json) |
@@ -5479,6 +5480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Recall | 123006 | [123006-guardian-recall.json](./123006-guardian-recall.json) |
 | Guardian Rock | 286655 | [286655-guardian-rock.json](./286655-guardian-rock.json) |
 | Guardian Sphere | 176334 | [176334-guardian-sphere.json](./176334-guardian-sphere.json) |
+| Guardian Stone: Second War | 58650 | [58650-guardian-stone-second-war.json](./58650-guardian-stone-second-war.json) |
 | Guardian Sword | 26627 | [26627-guardian-sword.json](./26627-guardian-sword.json) |
 | Guardian Tactics: Deck of the Chosen | 292543 | [292543-guardian-tactics-deck-of-the-chosen.json](./292543-guardian-tactics-deck-of-the-chosen.json) |
 | Guardian Tales | 133433 | [133433-guardian-tales.json](./133433-guardian-tales.json) |
