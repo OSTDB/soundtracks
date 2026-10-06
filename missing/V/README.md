@@ -1305,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violent Agent | 189206 | [189206-violent-agent.json](./189206-violent-agent.json) |
 | Violent Angel | 291153 | [291153-violent-angel.json](./291153-violent-angel.json) |
 | Violent Cheese Crusader | 183531 | [183531-violent-cheese-crusader.json](./183531-violent-cheese-crusader.json) |
+| Violent Fighter | 112243 | [112243-violent-fighter.json](./112243-violent-fighter.json) |
 | Violent Horror Stories 2 | 377849 | [377849-violent-horror-stories-2.json](./377849-violent-horror-stories-2.json) |
 | Violent Horror Stories: Anthology | 312120 | [312120-violent-horror-stories-anthology.json](./312120-violent-horror-stories-anthology.json) |
 | Violent Rush | 388216 | [388216-violent-rush.json](./388216-violent-rush.json) |
@@ -2323,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vylan | 157088 | [157088-vylan.json](./157088-vylan.json) |
 | Vyper | 130799 | [130799-vyper.json](./130799-vyper.json) |
 | Vyperspace | 181231 | [181231-vyperspace.json](./181231-vyperspace.json) |
+| Vyruz: Destruction of the Untel Empire | 112224 | [112224-vyruz-destruction-of-the-untel-empire.json](./112224-vyruz-destruction-of-the-untel-empire.json) |
 | Vysions | 290957 | [290957-vysions.json](./290957-vysions.json) |
 | Vythzkel of City Dinasty | 338557 | [338557-vythzkel-of-city-dinasty.json](./338557-vythzkel-of-city-dinasty.json) |
 | Vyun, Kosmeya, and the Witch's Curse | 374714 | [374714-vyun-kosmeya-and-the-witchs-curse.json](./374714-vyun-kosmeya-and-the-witchs-curse.json) |
