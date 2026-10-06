@@ -1479,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeonHat | 187517 | [187517-neonhat.json](./187517-neonhat.json) |
 | NeonLore | 197916 | [197916-neonlore.json](./197916-neonlore.json) |
 | Neonoen | 120782 | [120782-neonoen.json](./120782-neonoen.json) |
+| NeonPlat's Cosmic Adventure | 59825 | [59825-neonplats-cosmic-adventure.json](./59825-neonplats-cosmic-adventure.json) |
 | Neonsomnia | 257087 | [257087-neonsomnia.json](./257087-neonsomnia.json) |
 | NeonTunnel | 176365 | [176365-neontunnel.json](./176365-neontunnel.json) |
 | NeonXSZ | 17314 | [17314-neonxsz.json](./17314-neonxsz.json) |
@@ -1792,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NEW Again Beauty | 106596 | [106596-new-again-beauty.json](./106596-new-again-beauty.json) |
 | New Age | 117628 | [117628-new-age.json](./117628-new-age.json) |
 | New Age of Machine Warfare | 252663 | [252663-new-age-of-machine-warfare.json](./252663-new-age-of-machine-warfare.json) |
+| New Age Vanguard | 59788 | [59788-new-age-vanguard.json](./59788-new-age-vanguard.json) |
 | New Atelier Rorona: The Alchemist of Arland | 82105 | [82105-new-atelier-rorona-the-alchemist-of-arland.json](./82105-new-atelier-rorona-the-alchemist-of-arland.json) |
 | New Athens | 179148 | [179148-new-athens.json](./179148-new-athens.json) |
 | New Baby Sister | 106378 | [106378-new-baby-sister.json](./106378-new-baby-sister.json) |
