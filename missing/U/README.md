@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra 2000 Series: Pac-Man | 284370 | [284370-ultra-2000-series-pac-man.json](./284370-ultra-2000-series-pac-man.json) |
 | Ultra 64 Mario Bros. | 294715 | [294715-ultra-64-mario-bros.json](./294715-ultra-64-mario-bros.json) |
 | Ultra ADHD | 131407 | [131407-ultra-adhd.json](./131407-ultra-adhd.json) |
+| Ultra Adventure Go Go Osawari Island | 98519 | [98519-ultra-adventure-go-go-osawari-island.json](./98519-ultra-adventure-go-go-osawari-island.json) |
 | Ultra Age: Rebirth Project | 224203 | [224203-ultra-age-rebirth-project.json](./224203-ultra-age-rebirth-project.json) |
 | Ultra Aktion! | 59658 | [59658-ultra-aktion.json](./59658-ultra-aktion.json) |
 | Ultra Assault | 94564 | [94564-ultra-assault.json](./94564-ultra-assault.json) |
