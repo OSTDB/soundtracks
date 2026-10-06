@@ -3891,6 +3891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Breach: A VR Escape Game | 120119 | [120119-the-breach-a-vr-escape-game.json](./120119-the-breach-a-vr-escape-game.json) |
 | The Bread Must Rise | 245926 | [245926-the-bread-must-rise.json](./245926-the-bread-must-rise.json) |
 | The Bread Pub Brawlers | 86118 | [86118-the-bread-pub-brawlers.json](./86118-the-bread-pub-brawlers.json) |
+| the Breath. | 59242 | [59242-the-breath.json](./59242-the-breath.json) |
 | The Bricksperience | 184370 | [184370-the-bricksperience.json](./184370-the-bricksperience.json) |
 | The Bride of Vampire | 271711 | [271711-the-bride-of-vampire.json](./271711-the-bride-of-vampire.json) |
 | The Bridge | 352753 | [352753-the-bridge.json](./352753-the-bridge.json) |
@@ -18033,6 +18034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukuyomi: Marebito no Uta | 77941 | [77941-tsukuyomi-marebito-no-uta.json](./77941-tsukuyomi-marebito-no-uta.json) |
 | Tsukuyomi: The Divine Hunter | 342812 | [342812-tsukuyomi-the-divine-hunter.json](./342812-tsukuyomi-the-divine-hunter.json) |
 | Tsuma ga Kirei ni Natta Wake | 82977 | [82977-tsuma-ga-kirei-ni-natta-wake.json](./82977-tsuma-ga-kirei-ni-natta-wake.json) |
+| Tsumamigui 2 | 59219 | [59219-tsumamigui-2.json](./59219-tsumamigui-2.json) |
 | Tsumera | 268456 | [268456-tsumera.json](./268456-tsumera.json) |
 | Tsumiki: The Infernal Tower | 124107 | [124107-tsumiki-the-infernal-tower.json](./124107-tsumiki-the-infernal-tower.json) |
 | Tsumikui: Sen no Noroi, Sen no Inori | 222867 | [222867-tsumikui-sen-no-noroi-sen-no-inori.json](./222867-tsumikui-sen-no-noroi-sen-no-inori.json) |
