@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallows | 95186 | [95186-gallows.json](./95186-gallows.json) |
 | Gallows Choice | 108052 | [108052-gallows-choice.json](./108052-gallows-choice.json) |
 | Galosphere | 341045 | [341045-galosphere.json](./341045-galosphere.json) |
+| Galppo Club | 92132 | [92132-galppo-club.json](./92132-galppo-club.json) |
 | GalRock Girls | 258440 | [258440-galrock-girls.json](./258440-galrock-girls.json) |
 | Gals Fighters | 75468 | [75468-gals-fighters.json](./75468-gals-fighters.json) |
 | Gals Fighters (Best Collection) | 75466 | [75466-gals-fighters-best-collection.json](./75466-gals-fighters-best-collection.json) |
@@ -1298,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear.Club Unlimited: Super Cars Pack | 238212 | [238212-gear-club-unlimited-super-cars-pack.json](./238212-gear-club-unlimited-super-cars-pack.json) |
 | Gearbits | 258457 | [258457-gearbits.json](./258457-gearbits.json) |
 | Gearbits: Raider Expedition | 311094 | [311094-gearbits-raider-expedition.json](./311094-gearbits-raider-expedition.json) |
+| Geared 2! | 92145 | [92145-geared-2.json](./92145-geared-2.json) |
 | Gearguns: Tank Offensive | 31375 | [31375-gearguns-tank-offensive.json](./31375-gearguns-tank-offensive.json) |
 | GearHead: Arena | 181230 | [181230-gearhead-arena.json](./181230-gearhead-arena.json) |
 | Gearlock: Episode 1 | 381719 | [381719-gearlock-episode-1.json](./381719-gearlock-episode-1.json) |
