@@ -2003,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Dreams | 108058 | [108058-heavy-dreams.json](./108058-heavy-dreams.json) |
 | Heavy Drinker | 250893 | [250893-heavy-drinker.json](./250893-heavy-drinker.json) |
 | Heavy Duty | 375422 | [375422-heavy-duty.json](./375422-heavy-duty.json) |
+| Heavy Duty | 72910 | [72910-heavy-duty.json](./72910-heavy-duty.json) |
 | Heavy Duty Inc. | 389088 | [389088-heavy-duty-inc.json](./389088-heavy-duty-inc.json) |
 | Heavy Fire: Afghanistan | 982 | [982-heavy-fire-afghanistan.json](./982-heavy-fire-afghanistan.json) |
 | Heavy Fire: Black Arms | 65497 | [65497-heavy-fire-black-arms.json](./65497-heavy-fire-black-arms.json) |
@@ -6294,6 +6295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Casino | 131506 | [131506-hoyle-casino.json](./131506-hoyle-casino.json) |
 | Hoyle Casino | 210049 | [210049-hoyle-casino.json](./210049-hoyle-casino.json) |
 | Hoyle Casino 2004 | 100135 | [100135-hoyle-casino-2004.json](./100135-hoyle-casino-2004.json) |
+| Hoyle Casino 2008 | 72924 | [72924-hoyle-casino-2008.json](./72924-hoyle-casino-2008.json) |
 | Hoyle Casino 2009 | 210066 | [210066-hoyle-casino-2009.json](./210066-hoyle-casino-2009.json) |
 | Hoyle Casino 2010 | 210067 | [210067-hoyle-casino-2010.json](./210067-hoyle-casino-2010.json) |
 | Hoyle Casino Games 2011 | 210068 | [210068-hoyle-casino-games-2011.json](./210068-hoyle-casino-games-2011.json) |
