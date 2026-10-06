@@ -2594,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Ball 2 | 146818 | [146818-air-ball-2.json](./146818-air-ball-2.json) |
 | Air Battle Chess | 197361 | [197361-air-battle-chess.json](./197361-air-battle-chess.json) |
 | AIR Battlefront | 117477 | [117477-air-battlefront.json](./117477-air-battlefront.json) |
+| Air Battles: Sky Defender | 61478 | [61478-air-battles-sky-defender.json](./61478-air-battles-sky-defender.json) |
 | Air Blitz | 379521 | [379521-air-blitz.json](./379521-air-blitz.json) |
 | Air Blocks | 206101 | [206101-air-blocks.json](./206101-air-blocks.json) |
 | Air Bounce: The Jump 'n' Run Challenge | 142697 | [142697-air-bounce-the-jump-n-run-challenge.json](./142697-air-bounce-the-jump-n-run-challenge.json) |
@@ -3039,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AL: A Choose Your Own Adventure | 179689 | [179689-al-a-choose-your-own-adventure.json](./179689-al-a-choose-your-own-adventure.json) |
 | AL: Artificial Life | 399066 | [399066-al-artificial-life.json](./399066-al-artificial-life.json) |
 | Al's Home | 94570 | [94570-als-home.json](./94570-als-home.json) |
+| Al's Weather Rokies | 61474 | [61474-als-weather-rokies.json](./61474-als-weather-rokies.json) |
 | Ala | 336731 | [336731-ala.json](./336731-ala.json) |
 | Ala Mobile | 372093 | [372093-ala-mobile.json](./372093-ala-mobile.json) |
 | Ala Mobile GP | 175736 | [175736-ala-mobile-gp.json](./175736-ala-mobile-gp.json) |
@@ -4397,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amelia's Diner | 300769 | [300769-amelias-diner.json](./300769-amelias-diner.json) |
 | Amelia's Garden | 319780 | [319780-amelias-garden.json](./319780-amelias-garden.json) |
 | Amelie | 190744 | [190744-amelie.json](./190744-amelie.json) |
+| Amen Jesus Flap | 61442 | [61442-amen-jesus-flap.json](./61442-amen-jesus-flap.json) |
 | Amen: The Quiet Exodus | 406731 | [406731-amen-the-quiet-exodus.json](./406731-amen-the-quiet-exodus.json) |
 | Amenity's Life | 98541 | [98541-amenitys-life.json](./98541-amenitys-life.json) |
 | Amentes Online | 401011 | [401011-amentes-online.json](./401011-amentes-online.json) |
@@ -5237,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crackers | 177567 | [177567-animal-crackers.json](./177567-animal-crackers.json) |
 | Animal Crossing Deluxe | 357452 | [357452-animal-crossing-deluxe.json](./357452-animal-crossing-deluxe.json) |
 | Animal Crossing Neighborhood | 323890 | [323890-animal-crossing-neighborhood.json](./323890-animal-crossing-neighborhood.json) |
+| Animal Crossing Plaza | 61463 | [61463-animal-crossing-plaza.json](./61463-animal-crossing-plaza.json) |
 | Animal Crossing-e: Animal Crossing | 354415 | [354415-animal-crossing-e-animal-crossing.json](./354415-animal-crossing-e-animal-crossing.json) |
 | Animal Crossing-e: PR - Design Card: NES Link | 354416 | [354416-animal-crossing-e-pr-design-card-nes-link.json](./354416-animal-crossing-e-pr-design-card-nes-link.json) |
 | Animal Crossing: City Folk Deluxe | 341895 | [341895-animal-crossing-city-folk-deluxe.json](./341895-animal-crossing-city-folk-deluxe.json) |
