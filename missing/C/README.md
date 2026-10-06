@@ -1710,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassius | 172197 | [172197-cassius.json](./172197-cassius.json) |
 | Cast 'n' Blast | 318564 | [318564-cast-n-blast.json](./318564-cast-n-blast.json) |
 | Cast Ashore | 152815 | [152815-cast-ashore.json](./152815-cast-ashore.json) |
+| Cast Away | 105242 | [105242-cast-away.json](./105242-cast-away.json) |
 | Cast Away: The Oddysee | 311061 | [311061-cast-away-the-oddysee.json](./311061-cast-away-the-oddysee.json) |
 | Cast Cats | 312755 | [312755-cast-cats.json](./312755-cast-cats.json) |
 | Cast Dice Away | 324901 | [324901-cast-dice-away.json](./324901-cast-dice-away.json) |
@@ -2470,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Causality Effect | 228343 | [228343-causality-effect.json](./228343-causality-effect.json) |
 | Cause of Death | 91937 | [91937-cause-of-death.json](./91937-cause-of-death.json) |
 | Cause to Exist | 365174 | [365174-cause-to-exist.json](./365174-cause-to-exist.json) |
+| Causeway | 105406 | [105406-causeway.json](./105406-causeway.json) |
 | Caution | 229590 | [229590-caution.json](./229590-caution.json) |
 | Caution Ahead: Part 2 | 305142 | [305142-caution-ahead-part-2.json](./305142-caution-ahead-part-2.json) |
 | Caution Wet Paint | 405733 | [405733-caution-wet-paint.json](./405733-caution-wet-paint.json) |
@@ -9269,6 +9271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Simulator | 301426 | [301426-crime-simulator.json](./301426-crime-simulator.json) |
 | Crime Simulator: Playgrounds | 415075 | [415075-crime-simulator-playgrounds.json](./415075-crime-simulator-playgrounds.json) |
 | Crime Spree | 42771 | [42771-crime-spree.json](./42771-crime-spree.json) |
+| Crime Stories: Days of Vengeance | 105247 | [105247-crime-stories-days-of-vengeance.json](./105247-crime-stories-days-of-vengeance.json) |
 | Crime Wave | 23837 | [23837-crime-wave.json](./23837-crime-wave.json) |
 | CrimeBloc | 347795 | [347795-crimebloc.json](./347795-crimebloc.json) |
 | CrimeBound Chronicles | 345109 | [345109-crimebound-chronicles.json](./345109-crimebound-chronicles.json) |
