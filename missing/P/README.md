@@ -2091,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peddlers Between Pulsars | 349399 | [349399-peddlers-between-pulsars.json](./349399-peddlers-between-pulsars.json) |
 | Pedro | 314289 | [314289-pedro.json](./314289-pedro.json) |
 | Pedro | 52008 | [52008-pedro.json](./52008-pedro.json) |
+| Pedro Kicks Back | 108932 | [108932-pedro-kicks-back.json](./108932-pedro-kicks-back.json) |
 | Pedro's Adventures in Spanish | 159161 | [159161-pedros-adventures-in-spanish.json](./159161-pedros-adventures-in-spanish.json) |
 | Pee War! | 163861 | [163861-pee-war.json](./163861-pee-war.json) |
 | Peech World | 311599 | [311599-peech-world.json](./311599-peech-world.json) |
@@ -3045,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobos Down | 285462 | [285462-phobos-down.json](./285462-phobos-down.json) |
 | Phobos Massacre | 268424 | [268424-phobos-massacre.json](./268424-phobos-massacre.json) |
 | Phobos Revisited | 313166 | [313166-phobos-revisited.json](./313166-phobos-revisited.json) |
+| Phobos Vector Prime | 108933 | [108933-phobos-vector-prime.json](./108933-phobos-vector-prime.json) |
 | Phobos Vector Prime: The First Ring | 111057 | [111057-phobos-vector-prime-the-first-ring.json](./111057-phobos-vector-prime-the-first-ring.json) |
 | Phobos: Anomaly Reborn | 255623 | [255623-phobos-anomaly-reborn.json](./255623-phobos-anomaly-reborn.json) |
 | PhobosDeimos Anomaly | 263449 | [263449-phobosdeimos-anomaly.json](./263449-phobosdeimos-anomaly.json) |
@@ -5003,6 +5005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet's Edge | 14422 | [14422-planets-edge.json](./14422-planets-edge.json) |
 | Planeta | 158054 | [158054-planeta.json](./158054-planeta.json) |
 | Planetarian: Ultimate Edition | 156191 | [156191-planetarian-ultimate-edition.json](./156191-planetarian-ultimate-edition.json) |
+| Planetarix | 108906 | [108906-planetarix.json](./108906-planetarix.json) |
 | Planetary Annihilation: Titans | 18962 | [18962-planetary-annihilation-titans.json](./18962-planetary-annihilation-titans.json) |
 | Planetary Defense | 164862 | [164862-planetary-defense.json](./164862-planetary-defense.json) |
 | Planetary Defense Force | 129787 | [129787-planetary-defense-force.json](./129787-planetary-defense-force.json) |
@@ -5268,6 +5271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playdle | 272477 | [272477-playdle.json](./272477-playdle.json) |
 | Player 9 | 132095 | [132095-player-9.json](./132095-player-9.json) |
 | Player Goes Jump | 286785 | [286785-player-goes-jump.json](./286785-player-goes-jump.json) |
+| Player Killers' Exchange | 108935 | [108935-player-killers-exchange.json](./108935-player-killers-exchange.json) |
 | Player Manager 2001 | 50025 | [50025-player-manager-2001.json](./50025-player-manager-2001.json) |
 | Player Non Player | 223367 | [223367-player-non-player.json](./223367-player-non-player.json) |
 | Player's Eleven | 129230 | [129230-players-eleven.json](./129230-players-eleven.json) |
