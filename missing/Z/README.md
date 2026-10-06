@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zakesta-Z | 278102 | [278102-zakesta-z.json](./278102-zakesta-z.json) |
 | Zako Slayer | 228073 | [228073-zako-slayer.json](./228073-zako-slayer.json) |
 | Zakon | 212177 | [212177-zakon.json](./212177-zakon.json) |
+| Zaku | 62001 | [62001-zaku.json](./62001-zaku.json) |
 | Zakuro no Aji | 37748 | [37748-zakuro-no-aji.json](./37748-zakuro-no-aji.json) |
 | Zakuzaku Actors | 201615 | [201615-zakuzaku-actors.json](./201615-zakuzaku-actors.json) |
 | Zalera Spark | 310935 | [310935-zalera-spark.json](./310935-zalera-spark.json) |
@@ -211,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zebra Logic Master | 238995 | [238995-zebra-logic-master.json](./238995-zebra-logic-master.json) |
 | Zed | 112831 | [112831-zed.json](./112831-zed.json) |
 | Zed Zone | 216810 | [216810-zed-zone.json](./216810-zed-zone.json) |
+| ZED: Absolution | 62030 | [62030-zed-absolution.json](./62030-zed-absolution.json) |
 | Zeddas | 242258 | [242258-zeddas.json](./242258-zeddas.json) |
 | Zeddas: Servant of Sheol | 74003 | [74003-zeddas-servant-of-sheol.json](./74003-zeddas-servant-of-sheol.json) |
 | Zeddytron 2081 | 293360 | [293360-zeddytron-2081.json](./293360-zeddytron-2081.json) |
