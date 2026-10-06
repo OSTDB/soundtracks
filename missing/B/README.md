@@ -2485,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleSphere Gold | 40813 | [40813-battlesphere-gold.json](./40813-battlesphere-gold.json) |
 | BattleSport | 19993 | [19993-battlesport.json](./19993-battlesport.json) |
 | Battlestage | 171396 | [171396-battlestage.json](./171396-battlestage.json) |
+| Battlestar Galactica Deadlock: Anabasis | 110891 | [110891-battlestar-galactica-deadlock-anabasis.json](./110891-battlestar-galactica-deadlock-anabasis.json) |
 | Battlestar Galactica Deadlock: Armistice | 171015 | [171015-battlestar-galactica-deadlock-armistice.json](./171015-battlestar-galactica-deadlock-armistice.json) |
 | Battlestar Galactica Deadlock: Reinforcement Pack | 171016 | [171016-battlestar-galactica-deadlock-reinforcement-pack.json](./171016-battlestar-galactica-deadlock-reinforcement-pack.json) |
 | Battlestar Galactica Deadlock: Sin and Sacrifice | 115672 | [115672-battlestar-galactica-deadlock-sin-and-sacrifice.json](./115672-battlestar-galactica-deadlock-sin-and-sacrifice.json) |
@@ -5568,6 +5569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlitzPunch | 188123 | [188123-blitzpunch.json](./188123-blitzpunch.json) |
 | Blitzr Ball | 338864 | [338864-blitzr-ball.json](./338864-blitzr-ball.json) |
 | Blix & Chocolate Mine | 145031 | [145031-blix-and-chocolate-mine.json](./145031-blix-and-chocolate-mine.json) |
+| Blixten Quest | 110917 | [110917-blixten-quest.json](./110917-blixten-quest.json) |
 | Blizzard Blowout 64 | 177563 | [177563-blizzard-blowout-64.json](./177563-blizzard-blowout-64.json) |
 | Blizzard World | 175276 | [175276-blizzard-world.json](./175276-blizzard-world.json) |
 | Bloat | 138620 | [138620-bloat.json](./138620-bloat.json) |
@@ -7822,6 +7824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | brainCloud Bombers | 120400 | [120400-braincloud-bombers.json](./120400-braincloud-bombers.json) |
 | Braindead | 345660 | [345660-braindead.json](./345660-braindead.json) |
 | Braindead, Your Majesty | 108827 | [108827-braindead-your-majesty.json](./108827-braindead-your-majesty.json) |
+| Brainfuck | 110888 | [110888-brainfuck.json](./110888-brainfuck.json) |
 | Brainium Solitaire | 87861 | [87861-brainium-solitaire.json](./87861-brainium-solitaire.json) |
 | Brainjogging for Kids | 88485 | [88485-brainjogging-for-kids.json](./88485-brainjogging-for-kids.json) |
 | Brainmelter Deluxe | 112780 | [112780-brainmelter-deluxe.json](./112780-brainmelter-deluxe.json) |
