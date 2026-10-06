@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cable 2 | 11363 | [11363-cable-2.json](./11363-cable-2.json) |
 | Cable Clutter | 211255 | [211255-cable-clutter.json](./211255-cable-clutter.json) |
 | Cable Swiper | 22363 | [22363-cable-swiper.json](./22363-cable-swiper.json) |
+| Cabling | 89472 | [89472-cabling.json](./89472-cabling.json) |
 | Cabral's Quest | 291176 | [291176-cabrals-quest.json](./291176-cabrals-quest.json) |
 | Caccia al Ladro | 305461 | [305461-caccia-al-ladro.json](./305461-caccia-al-ladro.json) |
 | Caccia al Ladro/Heathcliff | 305279 | [305279-caccia-al-ladro-heathcliff.json](./305279-caccia-al-ladro-heathcliff.json) |
@@ -2894,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Reaction | 264566 | [264566-chain-reaction.json](./264566-chain-reaction.json) |
 | Chain Reaction Classic | 241352 | [241352-chain-reaction-classic.json](./241352-chain-reaction-classic.json) |
 | Chain Shot | 64438 | [64438-chain-shot.json](./64438-chain-shot.json) |
+| Chain Solitaire Royale | 89469 | [89469-chain-solitaire-royale.json](./89469-chain-solitaire-royale.json) |
 | Chain Strike | 96546 | [96546-chain-strike.json](./96546-chain-strike.json) |
 | Chain World | 92484 | [92484-chain-world.json](./92484-chain-world.json) |
 | Chain-Chillas | 398343 | [398343-chain-chillas.json](./398343-chain-chillas.json) |
@@ -3581,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Pills | 203931 | [203931-chess-pills.json](./203931-chess-pills.json) |
 | Chess Player 2150 | 70473 | [70473-chess-player-2150.json](./70473-chess-player-2150.json) |
 | Chess Plus+ | 86901 | [86901-chess-plus.json](./86901-chess-plus.json) |
+| Chess Premium HD | 89487 | [89487-chess-premium-hd.json](./89487-chess-premium-hd.json) |
 | Chess Prime 3D Pro | 86834 | [86834-chess-prime-3d-pro.json](./86834-chess-prime-3d-pro.json) |
 | Chess Pro 3D | 88419 | [88419-chess-pro-3d.json](./88419-chess-pro-3d.json) |
 | Chess Pro with Coach - Learn,Play & Online Friends | 90792 | [90792-chess-pro-with-coach-learn-play-and-online-friends.json](./90792-chess-pro-with-coach-learn-play-and-online-friends.json) |
@@ -3740,6 +3743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Coop | 193279 | [193279-chicken-coop.json](./193279-chicken-coop.json) |
 | Chicken Coop | 42165 | [42165-chicken-coop.json](./42165-chicken-coop.json) |
 | Chicken Coop Invaders | 388753 | [388753-chicken-coop-invaders.json](./388753-chicken-coop-invaders.json) |
+| Chicken Daddy | 89480 | [89480-chicken-daddy.json](./89480-chicken-daddy.json) |
 | Chicken Defender | 166616 | [166616-chicken-defender.json](./166616-chicken-defender.json) |
 | Chicken Defense | 181398 | [181398-chicken-defense.json](./181398-chicken-defense.json) |
 | Chicken Defense | 373675 | [373675-chicken-defense.json](./373675-chicken-defense.json) |
@@ -6528,6 +6532,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Book | 338878 | [338878-coloring-book.json](./338878-coloring-book.json) |
 | Coloring Book - Easter MAX | 104708 | [104708-coloring-book-easter-max.json](./104708-coloring-book-easter-max.json) |
 | Coloring Book - Halloween | 87110 | [87110-coloring-book-halloween.json](./87110-coloring-book-halloween.json) |
+| Coloring Book - Travel | 89544 | [89544-coloring-book-travel.json](./89544-coloring-book-travel.json) |
+| Coloring Book - Yummies | 89528 | [89528-coloring-book-yummies.json](./89528-coloring-book-yummies.json) |
 | Coloring Book for Ladybug & Cat Noir | 96011 | [96011-coloring-book-for-ladybug-and-cat-noir.json](./96011-coloring-book-for-ladybug-and-cat-noir.json) |
 | Coloring Book Series: Aquarium | 283280 | [283280-coloring-book-series-aquarium.json](./283280-coloring-book-series-aquarium.json) |
 | Coloring Book: Adventure Bundle - 90 Drawings | 362377 | [362377-coloring-book-adventure-bundle-90-drawings.json](./362377-coloring-book-adventure-bundle-90-drawings.json) |
@@ -9618,6 +9624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross the Red Line | 113859 | [113859-cross-the-red-line.json](./113859-cross-the-red-line.json) |
 | Cross the Road | 186057 | [186057-cross-the-road.json](./186057-cross-the-road.json) |
 | Cross The World | 383627 | [383627-cross-the-world.json](./383627-cross-the-world.json) |
+| Cross Word | 89514 | [89514-cross-word.json](./89514-cross-word.json) |
 | Cross Words | 417427 | [417427-cross-words.json](./417427-cross-words.json) |
 | Cross X Carrot | 111608 | [111608-cross-x-carrot.json](./111608-cross-x-carrot.json) |
 | Cross-Stitch Puzzle | 90822 | [90822-cross-stitch-puzzle.json](./90822-cross-stitch-puzzle.json) |
