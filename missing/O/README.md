@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ohr Oni | 186620 | [186620-ohr-oni.json](./186620-ohr-oni.json) |
 | OHV | 216978 | [216978-ohv.json](./216978-ohv.json) |
 | Oi, Innkeep! | 96121 | [96121-oi-innkeep.json](./96121-oi-innkeep.json) |
+| Oi, Innkeep! - Chronicles! | 115567 | [115567-oi-innkeep-chronicles.json](./115567-oi-innkeep-chronicles.json) |
 | Oib.io | 86079 | [86079-oib-io.json](./86079-oib-io.json) |
 | Oiche Mhaith | 142248 | [142248-oiche-mhaith.json](./142248-oiche-mhaith.json) |
 | Oide Rascal | 125422 | [125422-oide-rascal.json](./125422-oide-rascal.json) |
@@ -1136,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Sunday | 209642 | [209642-on-sunday.json](./209642-on-sunday.json) |
 | On Sunday 2 | 317212 | [317212-on-sunday-2.json](./317212-on-sunday-2.json) |
 | On Target | 69850 | [69850-on-target.json](./69850-on-target.json) |
+| On Target VR Darts | 115529 | [115529-on-target-vr-darts.json](./115529-on-target-vr-darts.json) |
 | On Tario | 185520 | [185520-on-tario.json](./185520-on-tario.json) |
 | On the Alert | 117588 | [117588-on-the-alert.json](./117588-on-the-alert.json) |
 | On the Brink | 249796 | [249796-on-the-brink.json](./249796-on-the-brink.json) |
@@ -2641,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Place | 179155 | [179155-our-place.json](./179155-our-place.json) |
 | Our Private Homeroom | 239204 | [239204-our-private-homeroom.json](./239204-our-private-homeroom.json) |
 | Our Red String | 150023 | [150023-our-red-string.json](./150023-our-red-string.json) |
+| Our Secret Below | 115570 | [115570-our-secret-below.json](./115570-our-secret-below.json) |
 | Our Story in Spring | 254471 | [254471-our-story-in-spring.json](./254471-our-story-in-spring.json) |
 | Our Summer Crush | 327990 | [327990-our-summer-crush.json](./327990-our-summer-crush.json) |
 | Our Summer Festival | 186696 | [186696-our-summer-festival.json](./186696-our-summer-festival.json) |
