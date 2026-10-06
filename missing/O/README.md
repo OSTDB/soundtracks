@@ -2315,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Original Switch Color 2 | 90379 | [90379-original-switch-color-2.json](./90379-original-switch-color-2.json) |
 | Origins | 235685 | [235685-origins.json](./235685-origins.json) |
 | Origins | 300704 | [300704-origins.json](./300704-origins.json) |
+| Origins of an Empire | 107109 | [107109-origins-of-an-empire.json](./107109-origins-of-an-empire.json) |
 | Origins of Merlin: Muscles and Magic | 166710 | [166710-origins-of-merlin-muscles-and-magic.json](./166710-origins-of-merlin-muscles-and-magic.json) |
 | Origins TCG | 412262 | [412262-origins-tcg.json](./412262-origins-tcg.json) |
 | Orin Gamble | 396901 | [396901-orin-gamble.json](./396901-orin-gamble.json) |
