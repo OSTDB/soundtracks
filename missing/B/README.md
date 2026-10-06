@@ -7036,6 +7036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Korvald | 389046 | [389046-book-of-korvald.json](./389046-book-of-korvald.json) |
 | Book of Mario | 159321 | [159321-book-of-mario.json](./159321-book-of-mario.json) |
 | Book of Mario: Thousands of Doors | 159323 | [159323-book-of-mario-thousands-of-doors.json](./159323-book-of-mario-thousands-of-doors.json) |
+| Book of Mormon Scripix | 102274 | [102274-book-of-mormon-scripix.json](./102274-book-of-mormon-scripix.json) |
 | Book of Myko | 350455 | [350455-book-of-myko.json](./350455-book-of-myko.json) |
 | Book of Myths | 174616 | [174616-book-of-myths.json](./174616-book-of-myths.json) |
 | Book of Shadows | 235204 | [235204-book-of-shadows.json](./235204-book-of-shadows.json) |
@@ -7172,6 +7173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booze Masters: Freezing Moonshine | 266821 | [266821-booze-masters-freezing-moonshine.json](./266821-booze-masters-freezing-moonshine.json) |
 | Bop A Dork | 232587 | [232587-bop-a-dork.json](./232587-bop-a-dork.json) |
 | Bop It! Tetris | 229069 | [229069-bop-it-tetris.json](./229069-bop-it-tetris.json) |
+| Bop the Blox | 102265 | [102265-bop-the-blox.json](./102265-bop-the-blox.json) |
 | Bop'n Rumble | 47219 | [47219-bopn-rumble.json](./47219-bopn-rumble.json) |
 | Bopimo! | 325696 | [325696-bopimo.json](./325696-bopimo.json) |
 | Bopp File | 309537 | [309537-bopp-file.json](./309537-bopp-file.json) |
@@ -7363,6 +7365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle Flip! | 97099 | [97099-bottle-flip.json](./97099-bottle-flip.json) |
 | Bottle It!: Beverage Simulator | 389971 | [389971-bottle-it-beverage-simulator.json](./389971-bottle-it-beverage-simulator.json) |
 | Bottle of Sickness | 386216 | [386216-bottle-of-sickness.json](./386216-bottle-of-sickness.json) |
+| Bottle Target Shoot | 102249 | [102249-bottle-target-shoot.json](./102249-bottle-target-shoot.json) |
 | Bottle_Shooter | 55240 | [55240-bottle-shooter.json](./55240-bottle-shooter.json) |
 | Bottle: Pilgrim | 74638 | [74638-bottle-pilgrim.json](./74638-bottle-pilgrim.json) |
 | Bottom of the 9th | 3369 | [3369-bottom-of-the-9th.json](./3369-bottom-of-the-9th.json) |
@@ -7637,6 +7640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Head: Zombies Must Die! | 267350 | [267350-box-head-zombies-must-die.json](./267350-box-head-zombies-must-die.json) |
 | Box Heap | 233523 | [233523-box-heap.json](./233523-box-heap.json) |
 | Box Hustle | 369747 | [369747-box-hustle.json](./369747-box-hustle.json) |
+| Box It | 102281 | [102281-box-it.json](./102281-box-it.json) |
 | Box It Up! Inc. | 306634 | [306634-box-it-up-inc.json](./306634-box-it-up-inc.json) |
 | Box Kid Adventures | 128453 | [128453-box-kid-adventures.json](./128453-box-kid-adventures.json) |
 | Box King | 337297 | [337297-box-king.json](./337297-box-king.json) |
@@ -8587,6 +8591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Memories | 154434 | [154434-broken-memories.json](./154434-broken-memories.json) |
 | Broken Metal | 111038 | [111038-broken-metal.json](./111038-broken-metal.json) |
 | Broken Mind | 181138 | [181138-broken-mind.json](./181138-broken-mind.json) |
+| Broken Minds | 102287 | [102287-broken-minds.json](./102287-broken-minds.json) |
 | Broken Needle | 351169 | [351169-broken-needle.json](./351169-broken-needle.json) |
 | Broken Note | 237041 | [237041-broken-note.json](./237041-broken-note.json) |
 | Broken Pact | 357319 | [357319-broken-pact.json](./357319-broken-pact.json) |
