@@ -1193,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinchou | 337480 | [337480-jinchou.json](./337480-jinchou.json) |
 | Jing 'an District Copstories | 157043 | [157043-jing-an-district-copstories.json](./157043-jing-an-district-copstories.json) |
 | Jìng Shìjiè | 188441 | [188441-jing-shijie.json](./188441-jing-shijie.json) |
+| Jingai Makyou | 70612 | [70612-jingai-makyou.json](./70612-jingai-makyou.json) |
 | Jìngjiè 2: Qiánkūn Yī Zhì | 373687 | [373687-jingjie-2-qiankun-yi-zhi.json](./373687-jingjie-2-qiankun-yi-zhi.json) |
 | Jingle | 81694 | [81694-jingle.json](./81694-jingle.json) |
 | Jingle Cats | 63293 | [63293-jingle-cats.json](./63293-jingle-cats.json) |
@@ -1770,6 +1771,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | July 4th, 1976 | 348976 | [348976-july-4th-1976.json](./348976-july-4th-1976.json) |
 | July the Lost Child | 109699 | [109699-july-the-lost-child.json](./109699-july-the-lost-child.json) |
 | Jumala | 23829 | [23829-jumala.json](./23829-jumala.json) |
+| Jumanji | 70577 | [70577-jumanji.json](./70577-jumanji.json) |
+| Jumanji | 70578 | [70578-jumanji.json](./70578-jumanji.json) |
 | Jumanji: A Jungle Adventure Game Pack | 210003 | [210003-jumanji-a-jungle-adventure-game-pack.json](./210003-jumanji-a-jungle-adventure-game-pack.json) |
 | Jumanji: Epic Run | 234013 | [234013-jumanji-epic-run.json](./234013-jumanji-epic-run.json) |
 | Jumanji: Reverse the Curse | 246639 | [246639-jumanji-reverse-the-curse.json](./246639-jumanji-reverse-the-curse.json) |
