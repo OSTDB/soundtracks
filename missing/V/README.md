@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veck | 71208 | [71208-veck.json](./71208-veck.json) |
 | Vecter | 124183 | [124183-vecter.json](./124183-vecter.json) |
 | Vector 2 | 101939 | [101939-vector-2.json](./101939-vector-2.json) |
+| Vector Born | 95636 | [95636-vector-born.json](./95636-vector-born.json) |
 | Vector HD | 88349 | [88349-vector-hd.json](./88349-vector-hd.json) |
 | Vector Light | 126589 | [126589-vector-light.json](./126589-vector-light.json) |
 | Vector Madness | 62167 | [62167-vector-madness.json](./62167-vector-madness.json) |
@@ -1206,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking's Drakkars | 95235 | [95235-vikings-drakkars.json](./95235-vikings-drakkars.json) |
 | Viking's Tavern | 355153 | [355153-vikings-tavern.json](./355153-vikings-tavern.json) |
 | Vikingard | 175700 | [175700-vikingard.json](./175700-vikingard.json) |
+| VikingJourney | 95671 | [95671-vikingjourney.json](./95671-vikingjourney.json) |
 | Vikings Dynasty | 343265 | [343265-vikings-dynasty.json](./343265-vikings-dynasty.json) |
 | Vikings Hnefatafl: Kings of the Dark Age | 249712 | [249712-vikings-hnefatafl-kings-of-the-dark-age.json](./249712-vikings-hnefatafl-kings-of-the-dark-age.json) |
 | Vikings II | 147276 | [147276-vikings-ii.json](./147276-vikings-ii.json) |
@@ -1608,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vispo: Video Spot the Difference | 369185 | [369185-vispo-video-spot-the-difference.json](./369185-vispo-video-spot-the-difference.json) |
 | Vissekom | 142427 | [142427-vissekom.json](./142427-vissekom.json) |
 | Visser | 129520 | [129520-visser.json](./129520-visser.json) |
+| Vista Golf | 95551 | [95551-vista-golf.json](./95551-vista-golf.json) |
 | Vista Golf Rivals | 106982 | [106982-vista-golf-rivals.json](./106982-vista-golf-rivals.json) |
 | Vista World | 244372 | [244372-vista-world.json](./244372-vista-world.json) |
 | Vistascapes VR | 32891 | [32891-vistascapes-vr.json](./32891-vistascapes-vr.json) |
