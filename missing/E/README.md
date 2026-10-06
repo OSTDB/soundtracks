@@ -2512,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erasure | 125282 | [125282-erasure.json](./125282-erasure.json) |
 | Erayu | 58903 | [58903-erayu.json](./58903-erayu.json) |
 | EreaDrone Simulator | 104189 | [104189-ereadrone-simulator.json](./104189-ereadrone-simulator.json) |
+| EreaDrone: FPV Simulator | 112216 | [112216-ereadrone-fpv-simulator.json](./112216-ereadrone-fpv-simulator.json) |
 | Ereban: Shadow Legacy | 204624 | [204624-ereban-shadow-legacy.json](./204624-ereban-shadow-legacy.json) |
 | Erectus the Game | 115188 | [115188-erectus-the-game.json](./115188-erectus-the-game.json) |
 | Eredia: The Diary of Heroes | 90718 | [90718-eredia-the-diary-of-heroes.json](./90718-eredia-the-diary-of-heroes.json) |
@@ -3446,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evade the Light | 151157 | [151157-evade-the-light.json](./151157-evade-the-light.json) |
 | Evade Zero | 169745 | [169745-evade-zero.json](./169745-evade-zero.json) |
 | Evader | 290693 | [290693-evader.json](./290693-evader.json) |
+| Evades.io | 112223 | [112223-evades-io.json](./112223-evades-io.json) |
 | Evan Quest | 170357 | [170357-evan-quest.json](./170357-evan-quest.json) |
 | Evan Quest 2 | 192929 | [192929-evan-quest-2.json](./192929-evan-quest-2.json) |
 | Evander Holyfield's Real Deal Boxing | 45557 | [45557-evander-holyfields-real-deal-boxing.json](./45557-evander-holyfields-real-deal-boxing.json) |
