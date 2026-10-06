@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire on Trial | 394169 | [394169-vampire-on-trial.json](./394169-vampire-on-trial.json) |
 | Vampire Origins Reloaded | 63013 | [63013-vampire-origins-reloaded.json](./63013-vampire-origins-reloaded.json) |
 | Vampire Panic | 77665 | [77665-vampire-panic.json](./77665-vampire-panic.json) |
+| Vampire Rage | 66347 | [66347-vampire-rage.json](./66347-vampire-rage.json) |
 | Vampire Rain | 7231 | [7231-vampire-rain.json](./7231-vampire-rain.json) |
 | Vampire Revenge | 169786 | [169786-vampire-revenge.json](./169786-vampire-revenge.json) |
 | Vampire Romance | 223013 | [223013-vampire-romance.json](./223013-vampire-romance.json) |
