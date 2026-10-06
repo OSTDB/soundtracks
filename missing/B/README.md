@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Hockey 2005 | 46638 | [46638-backyard-hockey-2005.json](./46638-backyard-hockey-2005.json) |
 | BackYard Hoops | 213336 | [213336-backyard-hoops.json](./213336-backyard-hoops.json) |
 | Backyard Monsters | 159324 | [159324-backyard-monsters.json](./159324-backyard-monsters.json) |
+| Backyard NBA Basketball | 93185 | [93185-backyard-nba-basketball.json](./93185-backyard-nba-basketball.json) |
 | Backyard Parking 3D | 83579 | [83579-backyard-parking-3d.json](./83579-backyard-parking-3d.json) |
 | Backyard Skateboarding | 248633 | [248633-backyard-skateboarding.json](./248633-backyard-skateboarding.json) |
 | Backyard Skateboarding | 49312 | [49312-backyard-skateboarding.json](./49312-backyard-skateboarding.json) |
@@ -3580,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserker: A Viking Board Game | 213203 | [213203-berserker-a-viking-board-game.json](./213203-berserker-a-viking-board-game.json) |
 | Berserker's Descent | 145433 | [145433-berserkers-descent.json](./145433-berserkers-descent.json) |
 | Berserker's Domain | 350024 | [350024-berserkers-domain.json](./350024-berserkers-domain.json) |
+| Bert and the Snake | 93130 | [93130-bert-and-the-snake.json](./93130-bert-and-the-snake.json) |
 | Bertha Butt's Boogie | 314367 | [314367-bertha-butts-boogie.json](./314367-bertha-butts-boogie.json) |
 | Bertie the Stableboy | 265410 | [265410-bertie-the-stableboy.json](./265410-bertie-the-stableboy.json) |
 | Berty the Giraffe | 344391 | [344391-berty-the-giraffe.json](./344391-berty-the-giraffe.json) |
@@ -6651,6 +6653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boggy '84 | 40261 | [40261-boggy-84.json](./40261-boggy-84.json) |
 | Bogie's Super Pick: Value Pack 1 | 98965 | [98965-bogies-super-pick-value-pack-1.json](./98965-bogies-super-pick-value-pack-1.json) |
 | Bogos Binted? | 346205 | [346205-bogos-binted.json](./346205-bogos-binted.json) |
+| BogOut | 93212 | [93212-bogout.json](./93212-bogout.json) |
 | Bograts: The Puzzling Misadventure | 14330 | [14330-bograts-the-puzzling-misadventure.json](./14330-bograts-the-puzzling-misadventure.json) |
 | Bogwater | 381727 | [381727-bogwater.json](./381727-bogwater.json) |
 | Bogy Men | 60206 | [60206-bogy-men.json](./60206-bogy-men.json) |
@@ -8423,6 +8426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks of Rome | 254699 | [254699-bricks-of-rome.json](./254699-bricks-of-rome.json) |
 | Bricksbumpbump | 325830 | [325830-bricksbumpbump.json](./325830-bricksbumpbump.json) |
 | Brickscapes: Bricks Breaker | 237283 | [237283-brickscapes-bricks-breaker.json](./237283-brickscapes-bricks-breaker.json) |
+| BrickShooter | 93208 | [93208-brickshooter.json](./93208-brickshooter.json) |
 | BricksVR | 144928 | [144928-bricksvr.json](./144928-bricksvr.json) |
 | Bricky Boy | 152304 | [152304-bricky-boy.json](./152304-bricky-boy.json) |
 | Brickyard / Clowns | 93565 | [93565-brickyard-clowns.json](./93565-brickyard-clowns.json) |
