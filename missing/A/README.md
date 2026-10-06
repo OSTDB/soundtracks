@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wake Inn: Rebooked | 165400 | [165400-a-wake-inn-rebooked.json](./165400-a-wake-inn-rebooked.json) |
 | A Walk In A Field | 179656 | [179656-a-walk-in-a-field.json](./179656-a-walk-in-a-field.json) |
 | A Walk in the Park | 309331 | [309331-a-walk-in-the-park.json](./309331-a-walk-in-the-park.json) |
+| A Walk in the Woods | 99117 | [99117-a-walk-in-the-woods.json](./99117-a-walk-in-the-woods.json) |
 | A Walk in the Woods: VR | 133888 | [133888-a-walk-in-the-woods-vr.json](./133888-a-walk-in-the-woods-vr.json) |
 | A Walk Through Echoes | 159708 | [159708-a-walk-through-echoes.json](./159708-a-walk-through-echoes.json) |
 | A Walk With Yiayia | 151184 | [151184-a-walk-with-yiayia.json](./151184-a-walk-with-yiayia.json) |
@@ -4217,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Frog Simulator City | 86921 | [86921-amazing-frog-simulator-city.json](./86921-amazing-frog-simulator-city.json) |
 | Amazing Frog: In the City | 96058 | [96058-amazing-frog-in-the-city.json](./96058-amazing-frog-in-the-city.json) |
 | Amazing Gardens | 344366 | [344366-amazing-gardens.json](./344366-amazing-gardens.json) |
+| Amazing Hidden Objects | 99091 | [99091-amazing-hidden-objects.json](./99091-amazing-hidden-objects.json) |
 | Amazing Human | 81741 | [81741-amazing-human.json](./81741-amazing-human.json) |
 | Amazing Island | 3784 | [3784-amazing-island.json](./3784-amazing-island.json) |
 | Amazing Jewel Switch | 240196 | [240196-amazing-jewel-switch.json](./240196-amazing-jewel-switch.json) |
@@ -4841,6 +4843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andria | 339909 | [339909-andria.json](./339909-andria.json) |
 | Andrii's Horror | 52580 | [52580-andriis-horror.json](./52580-andriis-horror.json) |
 | Andro Dunos | 39622 | [39622-andro-dunos.json](./39622-andro-dunos.json) |
+| Andro's World | 99111 | [99111-andros-world.json](./99111-andros-world.json) |
 | Android | 391270 | [391270-android.json](./391270-android.json) |
 | Android Amazones | 120987 | [120987-android-amazones.json](./120987-android-amazones.json) |
 | Android Assault: The Revenge of Bari-Arm | 5358 | [5358-android-assault-the-revenge-of-bari-arm.json](./5358-android-assault-the-revenge-of-bari-arm.json) |
@@ -7400,6 +7403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arms Trade Tycoon: Tanks | 190232 | [190232-arms-trade-tycoon-tanks.json](./190232-arms-trade-tycoon-tanks.json) |
 | Army Antz | 175721 | [175721-army-antz.json](./175721-army-antz.json) |
 | Army Attack | 115544 | [115544-army-attack.json](./115544-army-attack.json) |
+| Army Chess Super Online | 99110 | [99110-army-chess-super-online.json](./99110-army-chess-super-online.json) |
 | Army Clash | 295989 | [295989-army-clash.json](./295989-army-clash.json) |
 | Army Days | 13796 | [13796-army-days.json](./13796-army-days.json) |
 | Army Defence | 256519 | [256519-army-defence.json](./256519-army-defence.json) |
@@ -9342,6 +9346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avenging Angel Hikari Akeldama | 386973 | [386973-avenging-angel-hikari-akeldama.json](./386973-avenging-angel-hikari-akeldama.json) |
 | Avenir Tower | 332414 | [332414-avenir-tower.json](./332414-avenir-tower.json) |
 | Aventador Drift Simulator 2 | 104649 | [104649-aventador-drift-simulator-2.json](./104649-aventador-drift-simulator-2.json) |
+| Aventarium | 99127 | [99127-aventarium.json](./99127-aventarium.json) |
 | Aventia | 187219 | [187219-aventia.json](./187219-aventia.json) |
 | Aventura Copilului Albastru și Urât | 198321 | [198321-aventura-copilului-albastru-si-urat.json](./198321-aventura-copilului-albastru-si-urat.json) |
 | Aventura de Luigi | 322003 | [322003-aventura-de-luigi.json](./322003-aventura-de-luigi.json) |
