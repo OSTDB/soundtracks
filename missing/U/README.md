@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate 1v1 | 125902 | [125902-ultimate-1v1.json](./125902-ultimate-1v1.json) |
 | Ultimate 20-Game Bundle | 392766 | [392766-ultimate-20-game-bundle.json](./392766-ultimate-20-game-bundle.json) |
 | Ultimate 8 Ball Pool | 415309 | [415309-ultimate-8-ball-pool.json](./415309-ultimate-8-ball-pool.json) |
+| Ultimate Action 4 Pack | 85749 | [85749-ultimate-action-4-pack.json](./85749-ultimate-action-4-pack.json) |
 | Ultimate Action Hero | 124708 | [124708-ultimate-action-hero.json](./124708-ultimate-action-hero.json) |
 | Ultimate Action Hero | 306364 | [306364-ultimate-action-hero.json](./306364-ultimate-action-hero.json) |
 | Ultimate Admiral: Dreadnoughts | 125374 | [125374-ultimate-admiral-dreadnoughts.json](./125374-ultimate-admiral-dreadnoughts.json) |
@@ -350,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate NFL Coaches Club Football | 81470 | [81470-ultimate-nfl-coaches-club-football.json](./81470-ultimate-nfl-coaches-club-football.json) |
 | Ultimate Ninja: Ninja King | 99410 | [99410-ultimate-ninja-ninja-king.json](./99410-ultimate-ninja-ninja-king.json) |
 | Ultimate Ocean Simulator | 86890 | [86890-ultimate-ocean-simulator.json](./86890-ultimate-ocean-simulator.json) |
+| Ultimate Pac Pack | 85750 | [85750-ultimate-pac-pack.json](./85750-ultimate-pac-pack.json) |
 | Ultimate Pain | 364017 | [364017-ultimate-pain.json](./364017-ultimate-pain.json) |
 | Ultimate Paintball | 49901 | [49901-ultimate-paintball.json](./49901-ultimate-paintball.json) |
 | Ultimate Paintball Challenge | 206620 | [206620-ultimate-paintball-challenge.json](./206620-ultimate-paintball-challenge.json) |
