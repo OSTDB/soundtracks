@@ -2905,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunter: African Safari | 64372 | [64372-deer-hunter-african-safari.json](./64372-deer-hunter-african-safari.json) |
 | Deer Hunting 2018 | 107058 | [107058-deer-hunting-2018.json](./107058-deer-hunting-2018.json) |
 | Deer Man | 19045 | [19045-deer-man.json](./19045-deer-man.json) |
+| Deer Napped | 93223 | [93223-deer-napped.json](./93223-deer-napped.json) |
 | Deerlivery | 361738 | [361738-deerlivery.json](./361738-deerlivery.json) |
 | Deers and Deckards | 284400 | [284400-deers-and-deckards.json](./284400-deers-and-deckards.json) |
 | Deez | 114340 | [114340-deez.json](./114340-deez.json) |
