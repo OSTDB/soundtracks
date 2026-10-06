@@ -3507,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Mystery: Scent of Desire - Collector's Edition | 29749 | [29749-european-mystery-scent-of-desire-collectors-edition.json](./29749-european-mystery-scent-of-desire-collectors-edition.json) |
 | European Mystery: The Face of Envy | 68947 | [68947-european-mystery-the-face-of-envy.json](./68947-european-mystery-the-face-of-envy.json) |
 | European Quest | 294216 | [294216-european-quest.json](./294216-european-quest.json) |
+| European Racers | 69528 | [69528-european-racers.json](./69528-european-racers.json) |
 | European Ship Simulator | 10288 | [10288-european-ship-simulator.json](./10288-european-ship-simulator.json) |
 | European Soccer Cup 2016 Slot | 232535 | [232535-european-soccer-cup-2016-slot.json](./232535-european-soccer-cup-2016-slot.json) |
 | European Super League | 334686 | [334686-european-super-league.json](./334686-european-super-league.json) |
