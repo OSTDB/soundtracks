@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisen Golf | 198206 | [198206-taisen-golf.json](./198206-taisen-golf.json) |
 | Taisen Golf | 198208 | [198208-taisen-golf.json](./198208-taisen-golf.json) |
 | Taisen Hot Gimmick: Axes-Jong | 282136 | [282136-taisen-hot-gimmick-axes-jong.json](./282136-taisen-hot-gimmick-axes-jong.json) |
+| Taisen Hot Gimmick: Axes-Jong | 97968 | [97968-taisen-hot-gimmick-axes-jong.json](./97968-taisen-hot-gimmick-axes-jong.json) |
 | Taisen IQ | 198203 | [198203-taisen-iq.json](./198203-taisen-iq.json) |
 | Taisen IQ + | 198204 | [198204-taisen-iq.json](./198204-taisen-iq.json) |
 | Taisen Mahjong | 198202 | [198202-taisen-mahjong.json](./198202-taisen-mahjong.json) |
@@ -2269,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenacious | 111202 | [111202-tenacious.json](./111202-tenacious.json) |
 | Tenancy | 413893 | [413893-tenancy.json](./413893-tenancy.json) |
 | Tenants | 129152 | [129152-tenants.json](./129152-tenants.json) |
+| Tenchi Fukkatsu! | 98061 | [98061-tenchi-fukkatsu.json](./98061-tenchi-fukkatsu.json) |
 | Tenchi Muyo! Rensa Hitsuyou | 69329 | [69329-tenchi-muyo-rensa-hitsuyou.json](./69329-tenchi-muyo-rensa-hitsuyou.json) |
 | Tenchi Muyo! Ryo-Ohki FX | 123079 | [123079-tenchi-muyo-ryo-ohki-fx.json](./123079-tenchi-muyo-ryo-ohki-fx.json) |
 | Tenchi Muyo! Toko Muyo | 66384 | [66384-tenchi-muyo-toko-muyo.json](./66384-tenchi-muyo-toko-muyo.json) |
@@ -3279,6 +3281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Angry Video Game Nerd K.O. Boxing | 195569 | [195569-the-angry-video-game-nerd-k-o-boxing.json](./195569-the-angry-video-game-nerd-k-o-boxing.json) |
 | The Angry Viking | 59068 | [59068-the-angry-viking.json](./59068-the-angry-viking.json) |
 | The Animal Detectives | 206190 | [206190-the-animal-detectives.json](./206190-the-animal-detectives.json) |
+| The Animal Half | 97986 | [97986-the-animal-half.json](./97986-the-animal-half.json) |
 | The Animals of Farthing Wood | 364539 | [364539-the-animals-of-farthing-wood.json](./364539-the-animals-of-farthing-wood.json) |
 | The Annual Ghost Town Pumpkin Festival | 141145 | [141145-the-annual-ghost-town-pumpkin-festival.json](./141145-the-annual-ghost-town-pumpkin-festival.json) |
 | The Anointed: David Saves Keilah | 215030 | [215030-the-anointed-david-saves-keilah.json](./215030-the-anointed-david-saves-keilah.json) |
@@ -16571,6 +16574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transport-inators of Doooom! | 230298 | [230298-transport-inators-of-doooom.json](./230298-transport-inators-of-doooom.json) |
 | Transporter | 272896 | [272896-transporter.json](./272896-transporter.json) |
 | Transporter | 338951 | [338951-transporter.json](./338951-transporter.json) |
+| Transporter | 97978 | [97978-transporter.json](./97978-transporter.json) |
 | Transporter the Rescue | 92434 | [92434-transporter-the-rescue.json](./92434-transporter-the-rescue.json) |
 | Transporter Truck Simulator | 119043 | [119043-transporter-truck-simulator.json](./119043-transporter-truck-simulator.json) |
 | Transpose | 109417 | [109417-transpose.json](./109417-transpose.json) |
@@ -18236,6 +18240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Robots: Ultimate Edition | 86236 | [86236-twin-robots-ultimate-edition.json](./86236-twin-robots-ultimate-edition.json) |
 | Twin Rockets | 392290 | [392290-twin-rockets.json](./392290-twin-rockets.json) |
 | Twin Ruin | 119729 | [119729-twin-ruin.json](./119729-twin-ruin.json) |
+| Twin Series Vol. 5: Wan-wan Meitantei EX + Mahou no Kuni no Cake-ya-san Monogatari | 97960 | [97960-twin-series-vol-5-wan-wan-meitantei-ex-mahou-no-kuni-no-cake-ya-san-monogatari.json](./97960-twin-series-vol-5-wan-wan-meitantei-ex-mahou-no-kuni-no-cake-ya-san-monogatari.json) |
 | Twin Shot | 176869 | [176869-twin-shot.json](./176869-twin-shot.json) |
 | Twin Shot 2: Good & Evil | 180291 | [180291-twin-shot-2-good-and-evil.json](./180291-twin-shot-2-good-and-evil.json) |
 | Twin Sisters Ballerina: Dance, Ballet, Dress up | 95845 | [95845-twin-sisters-ballerina-dance-ballet-dress-up.json](./95845-twin-sisters-ballerina-dance-ballet-dress-up.json) |
