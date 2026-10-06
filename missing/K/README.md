@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaerazu no Mori | 98523 | [98523-kaerazu-no-mori.json](./98523-kaerazu-no-mori.json) |
 | Kaerimichi | 308892 | [308892-kaerimichi.json](./308892-kaerimichi.json) |
 | Kaeru Batake DE Tsukamaete | 218510 | [218510-kaeru-batake-de-tsukamaete.json](./218510-kaeru-batake-de-tsukamaete.json) |
+| Kaeru Batake DE Tsukamaete | 78932 | [78932-kaeru-batake-de-tsukamaete.json](./78932-kaeru-batake-de-tsukamaete.json) |
 | Kaeru Batake DE Tsukamaete Portable | 218505 | [218505-kaeru-batake-de-tsukamaete-portable.json](./218505-kaeru-batake-de-tsukamaete-portable.json) |
 | Kaeru Batake DE Tsukamaete: Natsu Chigira Sansen! | 218515 | [218515-kaeru-batake-de-tsukamaete-natsu-chigira-sansen.json](./218515-kaeru-batake-de-tsukamaete-natsu-chigira-sansen.json) |
 | Kaeru Batake DE Tsukamaete: Natsu Chigira Sansen! | 60248 | [60248-kaeru-batake-de-tsukamaete-natsu-chigira-sansen.json](./60248-kaeru-batake-de-tsukamaete-natsu-chigira-sansen.json) |
@@ -1325,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiko: The Last Totem | 92080 | [92080-kiko-the-last-totem.json](./92080-kiko-the-last-totem.json) |
 | Kiko's Apple Adventure | 336635 | [336635-kikos-apple-adventure.json](./336635-kikos-apple-adventure.json) |
 | Kikokugai | 232662 | [232662-kikokugai.json](./232662-kikokugai.json) |
+| Kikori no Yosaku | 78926 | [78926-kikori-no-yosaku.json](./78926-kikori-no-yosaku.json) |
 | Kikou Busou G-Breaker: Legend of Cloudia | 248211 | [248211-kikou-busou-g-breaker-legend-of-cloudia.json](./248211-kikou-busou-g-breaker-legend-of-cloudia.json) |
 | Kikou Heidan J-Phoenix + | 58879 | [58879-kikou-heidan-j-phoenix.json](./58879-kikou-heidan-j-phoenix.json) |
 | Kikou Seiki Unitron | 43969 | [43969-kikou-seiki-unitron.json](./43969-kikou-seiki-unitron.json) |
