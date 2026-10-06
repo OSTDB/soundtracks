@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 23 Miles Deep | 172555 | [172555-23-miles-deep.json](./172555-23-miles-deep.json) |
 | 2310 seconds in Hell | 189954 | [189954-2310-seconds-in-hell.json](./189954-2310-seconds-in-hell.json) |
 | 2351: Apocalypsis | 304667 | [304667-2351-apocalypsis.json](./304667-2351-apocalypsis.json) |
+| 24 Games For Windows 95 | 116956 | [116956-24-games-for-windows-95.json](./116956-24-games-for-windows-95.json) |
 | 24 Hour Crime Scene: Travel Edition | 176826 | [176826-24-hour-crime-scene-travel-edition.json](./176826-24-hour-crime-scene-travel-edition.json) |
 | 24 Hours | 308346 | [308346-24-hours.json](./308346-24-hours.json) |
 | 24 Hours 'til Rescue | 33491 | [33491-24-hours-til-rescue.json](./33491-24-hours-til-rescue.json) |
