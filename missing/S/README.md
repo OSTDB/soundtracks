@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Patricks Day Fun | 224990 | [224990-saint-patricks-day-fun.json](./224990-saint-patricks-day-fun.json) |
 | Saint Seiya Awakening: Knights of the Zodiac | 129144 | [129144-saint-seiya-awakening-knights-of-the-zodiac.json](./129144-saint-seiya-awakening-knights-of-the-zodiac.json) |
 | Saint Seiya EX | 377810 | [377810-saint-seiya-ex.json](./377810-saint-seiya-ex.json) |
+| Saint Seiya Paradise: Saikyou no Senshi-tachi | 60380 | [60380-saint-seiya-paradise-saikyou-no-senshi-tachi.json](./60380-saint-seiya-paradise-saikyou-no-senshi-tachi.json) |
 | Saint Seiya RPG: Asgard Chapter | 279231 | [279231-saint-seiya-rpg-asgard-chapter.json](./279231-saint-seiya-rpg-asgard-chapter.json) |
 | Saint Seiya Shining Soldiers | 129130 | [129130-saint-seiya-shining-soldiers.json](./129130-saint-seiya-shining-soldiers.json) |
 | Saint Seiya Typing: Ryu Sei Ken | 63279 | [63279-saint-seiya-typing-ryu-sei-ken.json](./63279-saint-seiya-typing-ryu-sei-ken.json) |
@@ -518,6 +519,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Knight 3 | 171945 | [171945-sakura-knight-3.json](./171945-sakura-knight-3.json) |
 | Sakura Machizaka Stories Vol. 1 | 77946 | [77946-sakura-machizaka-stories-vol-1.json](./77946-sakura-machizaka-stories-vol-1.json) |
 | Sakura Mau Otome no Rondo | 339138 | [339138-sakura-mau-otome-no-rondo.json](./339138-sakura-mau-otome-no-rondo.json) |
+| Sakura Mau Otome no Rondo | 60374 | [60374-sakura-mau-otome-no-rondo.json](./60374-sakura-mau-otome-no-rondo.json) |
+| Sakura Mau Otome no Rondo: Anata to Miru Fuyu Sakura | 60375 | [60375-sakura-mau-otome-no-rondo-anata-to-miru-fuyu-sakura.json](./60375-sakura-mau-otome-no-rondo-anata-to-miru-fuyu-sakura.json) |
 | Sakura MMO 2 | 113123 | [113123-sakura-mmo-2.json](./113123-sakura-mmo-2.json) |
 | Sakura Momoko Gekijou: Kojikoji | 96493 | [96493-sakura-momoko-gekijou-kojikoji.json](./96493-sakura-momoko-gekijou-kojikoji.json) |
 | Sakura Moonlight | 135892 | [135892-sakura-moonlight.json](./135892-sakura-moonlight.json) |
@@ -1765,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schwarzesmarken Kouketsu no Monshou / Junkyousha-tachi | 86089 | [86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json](./86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json) |
 | Schwebebahn Simulator 2013 | 241490 | [241490-schwebebahn-simulator-2013.json](./241490-schwebebahn-simulator-2013.json) |
 | Schwerkraftprojektionsgerät | 139155 | [139155-schwerkraftprojektionsgerat.json](./139155-schwerkraftprojektionsgerat.json) |
+| Sci-Fi | 60353 | [60353-sci-fi.json](./60353-sci-fi.json) |
 | Sci-Fi Channel Trivia Game | 98802 | [98802-sci-fi-channel-trivia-game.json](./98802-sci-fi-channel-trivia-game.json) |
 | Sci-Fi Racer Simulator | 283245 | [283245-sci-fi-racer-simulator.json](./283245-sci-fi-racer-simulator.json) |
 | Scicry | 390206 | [390206-scicry.json](./390206-scicry.json) |
@@ -5308,6 +5312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shovelware | 346231 | [346231-shovelware.json](./346231-shovelware.json) |
 | Shovelware Adventure! | 262303 | [262303-shovelware-adventure.json](./262303-shovelware-adventure.json) |
 | Show Ball: Tiger Life | 226142 | [226142-show-ball-tiger-life.json](./226142-show-ball-tiger-life.json) |
+| Show by Rock!! | 60352 | [60352-show-by-rock.json](./60352-show-by-rock.json) |
 | Show da Copa com Estádio 97 | 255668 | [255668-show-da-copa-com-estadio-97.json](./255668-show-da-copa-com-estadio-97.json) |
 | Show do Milhão | 122331 | [122331-show-do-milhao.json](./122331-show-do-milhao.json) |
 | Show do Milhão | 93008 | [93008-show-do-milhao.json](./93008-show-do-milhao.json) |
@@ -12652,6 +12657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Pinball Bundle | 153837 | [153837-sports-pinball-bundle.json](./153837-sports-pinball-bundle.json) |
 | Sports Sports | 366371 | [366371-sports-sports.json](./366371-sports-sports.json) |
 | Sports Talk Baseball | 46261 | [46261-sports-talk-baseball.json](./46261-sports-talk-baseball.json) |
+| Sports World Tour: Penalty Challenge | 60389 | [60389-sports-world-tour-penalty-challenge.json](./60389-sports-world-tour-penalty-challenge.json) |
 | Sports: Renovations | 314456 | [314456-sports-renovations.json](./314456-sports-renovations.json) |
 | Sports! | 230334 | [230334-sports.json](./230334-sports.json) |
 | SportsBarVR | 52837 | [52837-sportsbarvr.json](./52837-sportsbarvr.json) |
@@ -16482,6 +16488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Bear | 255121 | [255121-sugar-bear.json](./255121-sugar-bear.json) |
 | Sugar Box | 81227 | [81227-sugar-box.json](./81227-sugar-box.json) |
 | Sugar Bunnies DS: Yume no Sweets Koubou | 68038 | [68038-sugar-bunnies-ds-yume-no-sweets-koubou.json](./68038-sugar-bunnies-ds-yume-no-sweets-koubou.json) |
+| Sugar Coat Freaks | 60401 | [60401-sugar-coat-freaks.json](./60401-sugar-coat-freaks.json) |
 | Sugar Cookie | 396209 | [396209-sugar-cookie.json](./396209-sugar-cookie.json) |
 | Sugar Daddy Crush: Hidden Hotel Love Story | 387674 | [387674-sugar-daddy-crush-hidden-hotel-love-story.json](./387674-sugar-daddy-crush-hidden-hotel-love-story.json) |
 | Sugar Drops | 61048 | [61048-sugar-drops.json](./61048-sugar-drops.json) |
