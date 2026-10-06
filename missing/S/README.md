@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samus Goes to the Fridge to Get a Glass of Milk II | 226403 | [226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json](./226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json) |
 | Samuza | 287215 | [287215-samuza.json](./287215-samuza.json) |
 | San Andreas Multiplayer | 199038 | [199038-san-andreas-multiplayer.json](./199038-san-andreas-multiplayer.json) |
+| San Camillo II | 108338 | [108338-san-camillo-ii.json](./108338-san-camillo-ii.json) |
 | San Diablos | 156995 | [156995-san-diablos.json](./156995-san-diablos.json) |
 | San Diego Zoo Presents: The Animals! | 283392 | [283392-san-diego-zoo-presents-the-animals.json](./283392-san-diego-zoo-presents-the-animals.json) |
 | San Fernando | 247672 | [247672-san-fernando.json](./247672-san-fernando.json) |
@@ -1341,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Fish! | 152919 | [152919-save-the-fish.json](./152919-save-the-fish.json) |
 | Save the Frog Keita | 295268 | [295268-save-the-frog-keita.json](./295268-save-the-frog-keita.json) |
 | Save the Furries | 10813 | [10813-save-the-furries.json](./10813-save-the-furries.json) |
+| Save the Girl | 108382 | [108382-save-the-girl.json](./108382-save-the-girl.json) |
 | Save the Halloween | 75198 | [75198-save-the-halloween.json](./75198-save-the-halloween.json) |
 | Save the Knight | 308882 | [308882-save-the-knight.json](./308882-save-the-knight.json) |
 | Save the Lamb | 75001 | [75001-save-the-lamb.json](./75001-save-the-lamb.json) |
@@ -3919,6 +3921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shafted | 211692 | [211692-shafted.json](./211692-shafted.json) |
 | Shafted | 358931 | [358931-shafted.json](./358931-shafted.json) |
 | Shagster Online 2 | 176812 | [176812-shagster-online-2.json](./176812-shagster-online-2.json) |
+| Shahrzad: The Storyteller | 108378 | [108378-shahrzad-the-storyteller.json](./108378-shahrzad-the-storyteller.json) |
 | Shaiya | 85841 | [85841-shaiya.json](./85841-shaiya.json) |
 | Shajra Namla | 286773 | [286773-shajra-namla.json](./286773-shajra-namla.json) |
 | Shakadou-san no Jun'ai Road | 182226 | [182226-shakadou-san-no-junai-road.json](./182226-shakadou-san-no-junai-road.json) |
@@ -5623,6 +5626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siienaa | 195575 | [195575-siienaa.json](./195575-siienaa.json) |
 | SiIvaGunner: King for a Day Tournament - Playable Credits Minigame!! | 326974 | [326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json](./326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json) |
 | Sika: Tribe's salvation | 184985 | [184985-sika-tribes-salvation.json](./184985-sika-tribes-salvation.json) |
+| Sikanda | 108380 | [108380-sikanda.json](./108380-sikanda.json) |
 | Sikhl | 308266 | [308266-sikhl.json](./308266-sikhl.json) |
 | Sil and the Fading World | 331103 | [331103-sil-and-the-fading-world.json](./331103-sil-and-the-fading-world.json) |
 | Silberheim Evolving Card Game | 393787 | [393787-silberheim-evolving-card-game.json](./393787-silberheim-evolving-card-game.json) |
@@ -10871,6 +10875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
 | Space Riddle: Spaceship Puzzle | 248645 | [248645-space-riddle-spaceship-puzzle.json](./248645-space-riddle-spaceship-puzzle.json) |
 | Space Rider | 94865 | [94865-space-rider.json](./94865-space-rider.json) |
+| Space Ripper Plastiline | 108362 | [108362-space-ripper-plastiline.json](./108362-space-ripper-plastiline.json) |
 | Space Robinson | 111807 | [111807-space-robinson.json](./111807-space-robinson.json) |
 | Space Robot | 46895 | [46895-space-robot.json](./46895-space-robot.json) |
 | Space Rock Breaker | 382412 | [382412-space-rock-breaker.json](./382412-space-rock-breaker.json) |
@@ -11663,6 +11668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelltooth | 383063 | [383063-spelltooth.json](./383063-spelltooth.json) |
 | SpellTower+ | 136455 | [136455-spelltower.json](./136455-spelltower.json) |
 | SpellUp | 233102 | [233102-spellup.json](./233102-spellup.json) |
+| Spellwake | 108373 | [108373-spellwake.json](./108373-spellwake.json) |
 | Spellweaver | 18010 | [18010-spellweaver.json](./18010-spellweaver.json) |
 | Spellwheel | 322968 | [322968-spellwheel.json](./322968-spellwheel.json) |
 | Spellworm | 124054 | [124054-spellworm.json](./124054-spellworm.json) |
@@ -14628,6 +14634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Hero | 227944 | [227944-stickman-hero.json](./227944-stickman-hero.json) |
 | Stickman Hero Fighting Game | 254749 | [254749-stickman-hero-fighting-game.json](./254749-stickman-hero-fighting-game.json) |
 | Stickman Ice Hockey | 142741 | [142741-stickman-ice-hockey.json](./142741-stickman-ice-hockey.json) |
+| Stickman in the portal | 108401 | [108401-stickman-in-the-portal.json](./108401-stickman-in-the-portal.json) |
 | Stickman Insane Bullet | 324976 | [324976-stickman-insane-bullet.json](./324976-stickman-insane-bullet.json) |
 | Stickman Jailbreak 2024 | 292160 | [292160-stickman-jailbreak-2024.json](./292160-stickman-jailbreak-2024.json) |
 | Stickman Kill Sergeant | 220222 | [220222-stickman-kill-sergeant.json](./220222-stickman-kill-sergeant.json) |
@@ -18146,6 +18153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stickman Golf 3 | 58223 | [58223-super-stickman-golf-3.json](./58223-super-stickman-golf-3.json) |
 | Super Storm | 42144 | [42144-super-storm.json](./42144-super-storm.json) |
 | Super Strawberry Clock | 361284 | [361284-super-strawberry-clock.json](./361284-super-strawberry-clock.json) |
+| Super Strawberry Man | 108354 | [108354-super-strawberry-man.json](./108354-super-strawberry-man.json) |
 | Super Stream-Bara | 338948 | [338948-super-stream-bara.json](./338948-super-stream-bara.json) |
 | Super Street Basketball 2 | 64097 | [64097-super-street-basketball-2.json](./64097-super-street-basketball-2.json) |
 | Super Street Fighter II | 322188 | [322188-super-street-fighter-ii.json](./322188-super-street-fighter-ii.json) |
@@ -18730,6 +18738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive Game | 310095 | [310095-survive-game.json](./310095-survive-game.json) |
 | Survive in a little bit | 117698 | [117698-survive-in-a-little-bit.json](./117698-survive-in-a-little-bit.json) |
 | Survive in Angaria | 90125 | [90125-survive-in-angaria.json](./90125-survive-in-angaria.json) |
+| Survive in Angaria TWO | 108337 | [108337-survive-in-angaria-two.json](./108337-survive-in-angaria-two.json) |
 | Survive In Russia | 129631 | [129631-survive-in-russia.json](./129631-survive-in-russia.json) |
 | Survive In Strange World | 288810 | [288810-survive-in-strange-world.json](./288810-survive-in-strange-world.json) |
 | Survive Into Night | 155504 | [155504-survive-into-night.json](./155504-survive-into-night.json) |
