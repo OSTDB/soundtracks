@@ -1817,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Favillesco Episode 1: Genuflected on Io | 313853 | [313853-favillesco-episode-1-genuflected-on-io.json](./313853-favillesco-episode-1-genuflected-on-io.json) |
 | Favo!+ | 126527 | [126527-favo.json](./126527-favo.json) |
 | Favor | 301373 | [301373-favor.json](./301373-favor.json) |
+| Favor Chess | 117610 | [117610-favor-chess.json](./117610-favor-chess.json) |
 | Favorite Dear | 63532 | [63532-favorite-dear.json](./63532-favorite-dear.json) |
 | Favorite Dear: Enkan no Monogatari | 63530 | [63530-favorite-dear-enkan-no-monogatari.json](./63530-favorite-dear-enkan-no-monogatari.json) |
 | Favorite Dear: Junpaku no Yogensha | 63531 | [63531-favorite-dear-junpaku-no-yogensha.json](./63531-favorite-dear-junpaku-no-yogensha.json) |
@@ -4020,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flavortown:VR | 118142 | [118142-flavortown-vr.json](./118142-flavortown-vr.json) |
 | Flawless | 219790 | [219790-flawless.json](./219790-flawless.json) |
 | Flawless Darkness | 260238 | [260238-flawless-darkness.json](./260238-flawless-darkness.json) |
+| Flaws in the People We Love | 117571 | [117571-flaws-in-the-people-we-love.json](./117571-flaws-in-the-people-we-love.json) |
 | Flea the Cat | 242058 | [242058-flea-the-cat.json](./242058-flea-the-cat.json) |
 | Flea War | 334679 | [334679-flea-war.json](./334679-flea-war.json) |
 | Flea! | 150517 | [150517-flea.json](./150517-flea.json) |
@@ -4605,6 +4607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlyBird Leap | 260207 | [260207-flybird-leap.json](./260207-flybird-leap.json) |
 | FlyBye | 249931 | [249931-flybye.json](./249931-flybye.json) |
 | Flycatcher | 93528 | [93528-flycatcher.json](./93528-flycatcher.json) |
+| Flyeeex | 117619 | [117619-flyeeex.json](./117619-flyeeex.json) |
 | Flyer Fox | 46661 | [46661-flyer-fox.json](./46661-flyer-fox.json) |
 | Flyghts | 236512 | [236512-flyghts.json](./236512-flyghts.json) |
 | Flyhight Cloudia | 287881 | [287881-flyhight-cloudia.json](./287881-flyhight-cloudia.json) |
