@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Mojo: Redux | 10020 | [10020-bad-mojo-redux.json](./10020-bad-mojo-redux.json) |
 | Bad Mojos | 119717 | [119717-bad-mojos.json](./119717-bad-mojos.json) |
 | Bad Mothafucka | 281368 | [281368-bad-mothafucka.json](./281368-bad-mothafucka.json) |
+| Bad Name | 98000 | [98000-bad-name.json](./98000-bad-name.json) |
 | Bad Nerd | 360090 | [360090-bad-nerd.json](./360090-bad-nerd.json) |
 | Bad News Baseball | 9167 | [9167-bad-news-baseball.json](./9167-bad-news-baseball.json) |
 | Bad Note | 111865 | [111865-bad-note.json](./111865-bad-note.json) |
@@ -511,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Piggies | 19902 | [19902-bad-piggies.json](./19902-bad-piggies.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6695,6 +6697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku wa Koukuu Kanseikan: Airport Hero 3D - Kankuu All Stars | 222426 | [222426-boku-wa-koukuu-kanseikan-airport-hero-3d-kankuu-all-stars.json](./222426-boku-wa-koukuu-kanseikan-airport-hero-3d-kankuu-all-stars.json) |
 | Boku wa Koukuu Kanseikan: Airport Hero 3D Haneda with JAL | 78708 | [78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json](./78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json) |
 | Boku, Doraemon | 66134 | [66134-boku-doraemon.json](./66134-boku-doraemon.json) |
+| Bokuaso | 98005 | [98005-bokuaso.json](./98005-bokuaso.json) |
 | Bokuaso2 | 97826 | [97826-bokuaso2.json](./97826-bokuaso2.json) |
 | Bokura ga Koko ni Iru Fushigi. | 131381 | [131381-bokura-ga-koko-ni-iru-fushigi.json](./131381-bokura-ga-koko-ni-iru-fushigi.json) |
 | Bokura no Daiundoukai | 165436 | [165436-bokura-no-daiundoukai.json](./165436-bokura-no-daiundoukai.json) |
@@ -9673,6 +9676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burt Roger | 176806 | [176806-burt-roger.json](./176806-burt-roger.json) |
 | Burtik | 96112 | [96112-burtik.json](./96112-burtik.json) |
 | Burujiru | 108997 | [108997-burujiru.json](./108997-burujiru.json) |
+| Burumajiru: Nikuyoku Shoujo Ninjyou | 98007 | [98007-burumajiru-nikuyoku-shoujo-ninjyou.json](./98007-burumajiru-nikuyoku-shoujo-ninjyou.json) |
 | Bury | 151571 | [151571-bury.json](./151571-bury.json) |
 | Bury Me in the Sand | 165523 | [165523-bury-me-in-the-sand.json](./165523-bury-me-in-the-sand.json) |
 | Bury Me With The Rain | 330370 | [330370-bury-me-with-the-rain.json](./330370-bury-me-with-the-rain.json) |
