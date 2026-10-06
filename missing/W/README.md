@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | W Goblins L Humans | 395230 | [395230-w-goblins-l-humans.json](./395230-w-goblins-l-humans.json) |
+| W Ring: The Double Rings | 64746 | [64746-w-ring-the-double-rings.json](./64746-w-ring-the-double-rings.json) |
 | W. L. O. Sekai Renai Kikou | 7239 | [7239-w-l-o-sekai-renai-kikou.json](./7239-w-l-o-sekai-renai-kikou.json) |
 | W.A.N.D. Project | 266782 | [266782-w-a-n-d-project.json](./266782-w-a-n-d-project.json) |
 | W.A.R. Hangry | 302104 | [302104-w-a-r-hangry.json](./302104-w-a-r-hangry.json) |
@@ -3987,8 +3988,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Womb Defense Force | 311575 | [311575-womb-defense-force.json](./311575-womb-defense-force.json) |
 | Womb of Worms | 394378 | [394378-womb-of-worms.json](./394378-womb-of-worms.json) |
 | WomboCombo | 390248 | [390248-wombocombo.json](./390248-wombocombo.json) |
+| Women's Murder Club: A Darker Shade of Grey | 64712 | [64712-womens-murder-club-a-darker-shade-of-grey.json](./64712-womens-murder-club-a-darker-shade-of-grey.json) |
 | Women's Murder Club: Death in Scarlet | 51404 | [51404-womens-murder-club-death-in-scarlet.json](./51404-womens-murder-club-death-in-scarlet.json) |
 | Women's Murder Club: Little Black Lies | 135250 | [135250-womens-murder-club-little-black-lies.json](./135250-womens-murder-club-little-black-lies.json) |
+| Women's Murder Club: Twice in a Blue Moon | 64713 | [64713-womens-murder-club-twice-in-a-blue-moon.json](./64713-womens-murder-club-twice-in-a-blue-moon.json) |
 | Women's Quiz | 152880 | [152880-womens-quiz.json](./152880-womens-quiz.json) |
 | Women's School Simulator 2020 | 299898 | [299898-womens-school-simulator-2020.json](./299898-womens-school-simulator-2020.json) |
 | Women's School Simulator 2022 | 299900 | [299900-womens-school-simulator-2022.json](./299900-womens-school-simulator-2022.json) |
