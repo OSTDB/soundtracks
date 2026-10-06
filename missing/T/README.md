@@ -6526,6 +6526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kraken Wakes | 213425 | [213425-the-kraken-wakes.json](./213425-the-kraken-wakes.json) |
 | The Krampus | 289995 | [289995-the-krampus.json](./289995-the-krampus.json) |
 | The Kreator | 199976 | [199976-the-kreator.json](./199976-the-kreator.json) |
+| The Kremer Collection VR Museum | 104563 | [104563-the-kremer-collection-vr-museum.json](./104563-the-kremer-collection-vr-museum.json) |
 | The Krilling: Scare Feast! | 298146 | [298146-the-krilling-scare-feast.json](./298146-the-krilling-scare-feast.json) |
 | The Krion Conquest | 48173 | [48173-the-krion-conquest.json](./48173-the-krion-conquest.json) |
 | The Kristal | 12168 | [12168-the-kristal.json](./12168-the-kristal.json) |
@@ -12661,6 +12662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilelander | 72143 | [72143-tilelander.json](./72143-tilelander.json) |
 | Tilemount | 341640 | [341640-tilemount.json](./341640-tilemount.json) |
 | Tiler More | 232501 | [232501-tiler-more.json](./232501-tiler-more.json) |
+| Tiles | 104574 | [104574-tiles.json](./104574-tiles.json) |
 | Tiles and Towers TD | 216503 | [216503-tiles-and-towers-td.json](./216503-tiles-and-towers-td.json) |
 | Tiles Fall | 239221 | [239221-tiles-fall.json](./239221-tiles-fall.json) |
 | Tiles Hop: Forever Dancing Ball | 108439 | [108439-tiles-hop-forever-dancing-ball.json](./108439-tiles-hop-forever-dancing-ball.json) |
@@ -15566,6 +15568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Bandit | 68514 | [68514-train-bandit.json](./68514-train-bandit.json) |
 | Train Cargo: Nightshift | 374159 | [374159-train-cargo-nightshift.json](./374159-train-cargo-nightshift.json) |
 | Train Chase | 148367 | [148367-train-chase.json](./148367-train-chase.json) |
+| Train Conductor | 104721 | [104721-train-conductor.json](./104721-train-conductor.json) |
 | Train Conductor World | 109578 | [109578-train-conductor-world.json](./109578-train-conductor-world.json) |
 | Train Crew | 182347 | [182347-train-crew.json](./182347-train-crew.json) |
 | Train Crisis | 83943 | [83943-train-crisis.json](./83943-train-crisis.json) |
