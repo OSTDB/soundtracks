@@ -2433,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osmorrow | 80933 | [80933-osmorrow.json](./80933-osmorrow.json) |
 | Osmos | 14951 | [14951-osmos.json](./14951-osmos.json) |
 | Osomatsu-kun: Back to the Me no Deppa no Maki | 48797 | [48797-osomatsu-kun-back-to-the-me-no-deppa-no-maki.json](./48797-osomatsu-kun-back-to-the-me-no-deppa-no-maki.json) |
+| Osomatsu-san Hesokuri Wars: Battle of the NEETs | 109561 | [109561-osomatsu-san-hesokuri-wars-battle-of-the-neets.json](./109561-osomatsu-san-hesokuri-wars-battle-of-the-neets.json) |
 | Osomatsu-san Protagonist Contest Pokoball | 266478 | [266478-osomatsu-san-protagonist-contest-pokoball.json](./266478-osomatsu-san-protagonist-contest-pokoball.json) |
 | Osomatsu-san: Hesokuri Wars | 56477 | [56477-osomatsu-san-hesokuri-wars.json](./56477-osomatsu-san-hesokuri-wars.json) |
 | OSR Unhinged | 91946 | [91946-osr-unhinged.json](./91946-osr-unhinged.json) |
