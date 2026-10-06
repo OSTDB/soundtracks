@@ -2249,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of the Ivy | 397196 | [397196-order-of-the-ivy.json](./397196-order-of-the-ivy.json) |
 | Order of the Odonata | 143366 | [143366-order-of-the-odonata.json](./143366-order-of-the-odonata.json) |
 | Order of the Sinking Star | 381222 | [381222-order-of-the-sinking-star.json](./381222-order-of-the-sinking-star.json) |
+| Order of War: Challenge | 66900 | [66900-order-of-war-challenge.json](./66900-order-of-war-challenge.json) |
 | Order Road | 162849 | [162849-order-road.json](./162849-order-road.json) |
 | Order Us! | 264031 | [264031-order-us.json](./264031-order-us.json) |
 | Order!! | 408868 | [408868-order.json](./408868-order.json) |
@@ -2772,6 +2773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Deathmount | 231505 | [231505-out-of-the-deathmount.json](./231505-out-of-the-deathmount.json) |
 | Out of the ground | 226202 | [226202-out-of-the-ground.json](./226202-out-of-the-ground.json) |
 | Out of the Ordinary | 351774 | [351774-out-of-the-ordinary.json](./351774-out-of-the-ordinary.json) |
+| Out of the Park Baseball 11 | 66884 | [66884-out-of-the-park-baseball-11.json](./66884-out-of-the-park-baseball-11.json) |
 | Out of the Park Baseball 11: Championship Edition | 209405 | [209405-out-of-the-park-baseball-11-championship-edition.json](./209405-out-of-the-park-baseball-11-championship-edition.json) |
 | Out of the Park Baseball 12 | 65480 | [65480-out-of-the-park-baseball-12.json](./65480-out-of-the-park-baseball-12.json) |
 | Out of the Park Baseball 13 | 64368 | [64368-out-of-the-park-baseball-13.json](./64368-out-of-the-park-baseball-13.json) |
