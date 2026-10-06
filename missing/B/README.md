@@ -8902,6 +8902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter! Tournaments | 78387 | [78387-bubble-shooter-tournaments.json](./78387-bubble-shooter-tournaments.json) |
 | Bubble Soccer | 117505 | [117505-bubble-soccer.json](./117505-bubble-soccer.json) |
 | Bubble Spinner | 144252 | [144252-bubble-spinner.json](./144252-bubble-spinner.json) |
+| Bubble Squad | 104136 | [104136-bubble-squad.json](./104136-bubble-squad.json) |
 | Bubble Struggle II: Rebubbled | 116257 | [116257-bubble-struggle-ii-rebubbled.json](./116257-bubble-struggle-ii-rebubbled.json) |
 | Bubble Surge | 343858 | [343858-bubble-surge.json](./343858-bubble-surge.json) |
 | Bubble Tanks | 210285 | [210285-bubble-tanks.json](./210285-bubble-tanks.json) |
