@@ -5379,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayStation Home Arcade | 80197 | [80197-playstation-home-arcade.json](./80197-playstation-home-arcade.json) |
 | PlayStation Move Ape Escape | 20630 | [20630-playstation-move-ape-escape.json](./20630-playstation-move-ape-escape.json) |
 | PlayStation Move Heroes | 19664 | [19664-playstation-move-heroes.json](./19664-playstation-move-heroes.json) |
+| PlayStation Network Collection: Puzzle Pack | 80160 | [80160-playstation-network-collection-puzzle-pack.json](./80160-playstation-network-collection-puzzle-pack.json) |
 | PlayStation Vita Pets | 63011 | [63011-playstation-vita-pets.json](./63011-playstation-vita-pets.json) |
 | Plaything | 342120 | [342120-plaything.json](./342120-plaything.json) |
 | Playthings: VR Music Vacation | 32881 | [32881-playthings-vr-music-vacation.json](./32881-playthings-vr-music-vacation.json) |
@@ -5717,6 +5718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poco's Maze Adventure | 319190 | [319190-pocos-maze-adventure.json](./319190-pocos-maze-adventure.json) |
 | Pocohontos | 225732 | [225732-pocohontos.json](./225732-pocohontos.json) |
 | Pocoman: Green Machine Level Pack | 262944 | [262944-pocoman-green-machine-level-pack.json](./262944-pocoman-green-machine-level-pack.json) |
+| Pocoro | 80126 | [80126-pocoro.json](./80126-pocoro.json) |
 | Pocoyo | 230414 | [230414-pocoyo.json](./230414-pocoyo.json) |
 | Pocoyo and the Mystery of Hidden Objects | 266417 | [266417-pocoyo-and-the-mystery-of-hidden-objects.json](./266417-pocoyo-and-the-mystery-of-hidden-objects.json) |
 | Pocoyo Art | 102613 | [102613-pocoyo-art.json](./102613-pocoyo-art.json) |
@@ -7320,6 +7322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Ping Pong | 200031 | [200031-power-ping-pong.json](./200031-power-ping-pong.json) |
 | Power Pipes | 146913 | [146913-power-pipes.json](./146913-power-pipes.json) |
 | Power Play Pool | 78335 | [78335-power-play-pool.json](./78335-power-play-pool.json) |
+| Power Play Tennis | 80159 | [80159-power-play-tennis.json](./80159-power-play-tennis.json) |
 | Power Plays | 60548 | [60548-power-plays.json](./60548-power-plays.json) |
 | Power Pocket Koushien | 98512 | [98512-power-pocket-koushien.json](./98512-power-pocket-koushien.json) |
 | Power Pointer | 335080 | [335080-power-pointer.json](./335080-power-pointer.json) |
