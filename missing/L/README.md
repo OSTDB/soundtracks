@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labhorror | 414405 | [414405-labhorror.json](./414405-labhorror.json) |
 | Labirinto 3 | 153892 | [153892-labirinto-3.json](./153892-labirinto-3.json) |
 | Lablue Horror | 411048 | [411048-lablue-horror.json](./411048-lablue-horror.json) |
+| Labo Brick Car | 100990 | [100990-labo-brick-car.json](./100990-labo-brick-car.json) |
 | Labo Halloween Car | 91095 | [91095-labo-halloween-car.json](./91095-labo-halloween-car.json) |
 | Labor Rights Funeral in Ukraine | 379962 | [379962-labor-rights-funeral-in-ukraine.json](./379962-labor-rights-funeral-in-ukraine.json) |
 | Laboratory X-29 | 258550 | [258550-laboratory-x-29.json](./258550-laboratory-x-29.json) |
@@ -1836,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Worlds: Classic Space | 52110 | [52110-lego-worlds-classic-space.json](./52110-lego-worlds-classic-space.json) |
 | LEGO Worlds: Monster Pack | 205608 | [205608-lego-worlds-monster-pack.json](./205608-lego-worlds-monster-pack.json) |
 | LEGO: City Builder | 318792 | [318792-lego-city-builder.json](./318792-lego-city-builder.json) |
+| LEGO: Nexo Knights - Merlok 2.0 | 101021 | [101021-lego-nexo-knights-merlok-2-0.json](./101021-lego-nexo-knights-merlok-2-0.json) |
 | Legofaction | 305288 | [305288-legofaction.json](./305288-legofaction.json) |
 | Leguiumz Experience | 304580 | [304580-leguiumz-experience.json](./304580-leguiumz-experience.json) |
 | Legumi | 292749 | [292749-legumi.json](./292749-legumi.json) |
