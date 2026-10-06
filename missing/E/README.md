@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Eclipse | 389399 | [389399-echoes-of-eclipse.json](./389399-echoes-of-eclipse.json) |
 | Echoes of Egypt | 301997 | [301997-echoes-of-egypt.json](./301997-echoes-of-egypt.json) |
 | Echoes of Eldoria | 333541 | [333541-echoes-of-eldoria.json](./333541-echoes-of-eldoria.json) |
+| Echoes of Eternea | 65281 | [65281-echoes-of-eternea.json](./65281-echoes-of-eternea.json) |
 | Echoes of Etheria | 266788 | [266788-echoes-of-etheria.json](./266788-echoes-of-etheria.json) |
 | Echoes of Fear | 384155 | [384155-echoes-of-fear.json](./384155-echoes-of-fear.json) |
 | Echoes of Forgotten Dreams | 340234 | [340234-echoes-of-forgotten-dreams.json](./340234-echoes-of-forgotten-dreams.json) |
@@ -3498,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europe Front Remastered | 357399 | [357399-europe-front-remastered.json](./357399-europe-front-remastered.json) |
 | European 2 | 70128 | [70128-european-2.json](./70128-european-2.json) |
 | European Air War | 685 | [685-european-air-war.json](./685-european-air-war.json) |
+| European Bus Simulator | 65267 | [65267-european-bus-simulator.json](./65267-european-bus-simulator.json) |
 | European Card Wars | 291229 | [291229-european-card-wars.json](./291229-european-card-wars.json) |
 | European Championship 1992 | 70102 | [70102-european-championship-1992.json](./70102-european-championship-1992.json) |
 | European Conqueror 3D | 85126 | [85126-european-conqueror-3d.json](./85126-european-conqueror-3d.json) |
