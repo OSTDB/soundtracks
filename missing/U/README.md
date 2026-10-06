@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima Online: Axe Marks the Spot | 206618 | [206618-ultima-online-axe-marks-the-spot.json](./206618-ultima-online-axe-marks-the-spot.json) |
 | Ultima Online: Gold | 206619 | [206619-ultima-online-gold.json](./206619-ultima-online-gold.json) |
 | Ultima Online: Kingdom Reborn | 72898 | [72898-ultima-online-kingdom-reborn.json](./72898-ultima-online-kingdom-reborn.json) |
+| Ultima Online: Stygian Abyss | 68226 | [68226-ultima-online-stygian-abyss.json](./68226-ultima-online-stygian-abyss.json) |
 | Ultima Ratio Regum | 142341 | [142341-ultima-ratio-regum.json](./142341-ultima-ratio-regum.json) |
 | Ultima TD | 236261 | [236261-ultima-td.json](./236261-ultima-td.json) |
 | Ultima VI: The False Prophet | 12230 | [12230-ultima-vi-the-false-prophet.json](./12230-ultima-vi-the-false-prophet.json) |
