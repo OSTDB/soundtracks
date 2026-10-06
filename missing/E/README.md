@@ -1248,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elephantasy: Flipside | 235706 | [235706-elephantasy-flipside.json](./235706-elephantasy-flipside.json) |
 | Elepong | 69367 | [69367-elepong.json](./69367-elepong.json) |
 | Elerena | 153855 | [153855-elerena.json](./153855-elerena.json) |
+| Eleria | 107082 | [107082-eleria.json](./107082-eleria.json) |
 | Elestrals | 261897 | [261897-elestrals.json](./261897-elestrals.json) |
 | Elestrals Awakened | 376549 | [376549-elestrals-awakened.json](./376549-elestrals-awakened.json) |
 | Elestrals Clash! | 356622 | [356622-elestrals-clash.json](./356622-elestrals-clash.json) |
@@ -4338,6 +4339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Winter Sports | 62244 | [62244-extreme-winter-sports.json](./62244-extreme-winter-sports.json) |
 | Extreme: Rise of the Triad | 9980 | [9980-extreme-rise-of-the-triad.json](./9980-extreme-rise-of-the-triad.json) |
 | ExtremeBiking | 90383 | [90383-extremebiking.json](./90383-extremebiking.json) |
+| ExtremeJobs Knight's Assistant | 107107 | [107107-extremejobs-knights-assistant.json](./107107-extremejobs-knights-assistant.json) |
 | Extremely Powerful Capybaras | 211746 | [211746-extremely-powerful-capybaras.json](./211746-extremely-powerful-capybaras.json) |
 | Extremely Realistic Siege Warfare Simulator | 130957 | [130957-extremely-realistic-siege-warfare-simulator.json](./130957-extremely-realistic-siege-warfare-simulator.json) |
 | ExtremeRetroArena | 235887 | [235887-extremeretroarena.json](./235887-extremeretroarena.json) |
