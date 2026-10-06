@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macross 30: Voices across the Galaxy | 79292 | [79292-macross-30-voices-across-the-galaxy.json](./79292-macross-30-voices-across-the-galaxy.json) |
 | Macross Digital Mission VF-X | 44776 | [44776-macross-digital-mission-vf-x.json](./44776-macross-digital-mission-vf-x.json) |
 | Macross Plus | 46867 | [46867-macross-plus.json](./46867-macross-plus.json) |
+| Macross Plus Game Edition | 80835 | [80835-macross-plus-game-edition.json](./80835-macross-plus-game-edition.json) |
 | Macross Trial Frontier | 65536 | [65536-macross-trial-frontier.json](./65536-macross-trial-frontier.json) |
 | Macross Ultimate Frontier | 68013 | [68013-macross-ultimate-frontier.json](./68013-macross-ultimate-frontier.json) |
 | Macross: Last Frontier | 65467 | [65467-macross-last-frontier.json](./65467-macross-last-frontier.json) |
@@ -1116,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Solitaire Refresh: Ex Panels | 170928 | [170928-mahjong-solitaire-refresh-ex-panels.json](./170928-mahjong-solitaire-refresh-ex-panels.json) |
 | Mahjong Soul | 117263 | [117263-mahjong-soul.json](./117263-mahjong-soul.json) |
 | Mahjong Taikai | 48788 | [48788-mahjong-taikai.json](./48788-mahjong-taikai.json) |
+| Mahjong Taikai | 80797 | [80797-mahjong-taikai.json](./80797-mahjong-taikai.json) |
 | Mahjong Taikai II | 37936 | [37936-mahjong-taikai-ii.json](./37936-mahjong-taikai-ii.json) |
 | Mahjong Taikai IV | 66091 | [66091-mahjong-taikai-iv.json](./66091-mahjong-taikai-iv.json) |
 | Mahjong Taisen | 48787 | [48787-mahjong-taisen.json](./48787-mahjong-taisen.json) |
@@ -6359,6 +6361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milita Aventuro | 218711 | [218711-milita-aventuro.json](./218711-milita-aventuro.json) |
 | MilitAnt | 20877 | [20877-militant.json](./20877-militant.json) |
 | Militaristic Rain of Terror | 188461 | [188461-militaristic-rain-of-terror.json](./188461-militaristic-rain-of-terror.json) |
+| Military Action Pack Volume 1 | 80786 | [80786-military-action-pack-volume-1.json](./80786-military-action-pack-volume-1.json) |
 | Military Attack | 215612 | [215612-military-attack.json](./215612-military-attack.json) |
 | Military Base War | 169447 | [169447-military-base-war.json](./169447-military-base-war.json) |
 | Military Battlefield: Enlisted | 404361 | [404361-military-battlefield-enlisted.json](./404361-military-battlefield-enlisted.json) |
@@ -8371,6 +8374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Puncher | 50026 | [50026-monkey-puncher.json](./50026-monkey-puncher.json) |
 | Monkey Quest | 182970 | [182970-monkey-quest.json](./182970-monkey-quest.json) |
 | Monkey Rush | 87557 | [87557-monkey-rush.json](./87557-monkey-rush.json) |
+| Monkey Shines | 80849 | [80849-monkey-shines.json](./80849-monkey-shines.json) |
 | Monkey Snowfight | 320300 | [320300-monkey-snowfight.json](./320300-monkey-snowfight.json) |
 | Monkey Splash!! | 274466 | [274466-monkey-splash.json](./274466-monkey-splash.json) |
 | Monkey Split | 142450 | [142450-monkey-split.json](./142450-monkey-split.json) |
@@ -9004,6 +9008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Crashers | 384158 | [384158-moon-crashers.json](./384158-moon-crashers.json) |
 | Moon Cresta | 18762 | [18762-moon-cresta.json](./18762-moon-cresta.json) |
 | Moon Crystal | 48620 | [48620-moon-crystal.json](./48620-moon-crystal.json) |
+| Moon Crystal | 80825 | [80825-moon-crystal.json](./80825-moon-crystal.json) |
 | Moon Crystals | 172710 | [172710-moon-crystals.json](./172710-moon-crystals.json) |
 | Moon Defence | 153901 | [153901-moon-defence.json](./153901-moon-defence.json) |
 | Moon Diver | 20543 | [20543-moon-diver.json](./20543-moon-diver.json) |
