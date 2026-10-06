@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virago: Trepidation | 219517 | [219517-virago-trepidation.json](./219517-virago-trepidation.json) |
 | Virago: What If | 374745 | [374745-virago-what-if.json](./374745-virago-what-if.json) |
 | Viral | 265255 | [265255-viral.json](./265255-viral.json) |
+| Viral Cry | 87821 | [87821-viral-cry.json](./87821-viral-cry.json) |
 | Viral Firar | 166698 | [166698-viral-firar.json](./166698-viral-firar.json) |
 | Viral Hunters | 390204 | [390204-viral-hunters.json](./390204-viral-hunters.json) |
 | Viral Multiplayer | 340556 | [340556-viral-multiplayer.json](./340556-viral-multiplayer.json) |
