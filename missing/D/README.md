@@ -6949,6 +6949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong 64 Lore Quiz | 231609 | [231609-donkey-kong-64-lore-quiz.json](./231609-donkey-kong-64-lore-quiz.json) |
 | Donkey Kong 64: Tag Anywhere | 210708 | [210708-donkey-kong-64-tag-anywhere.json](./210708-donkey-kong-64-tag-anywhere.json) |
 | Donkey Kong Arcade | 339265 | [339265-donkey-kong-arcade.json](./339265-donkey-kong-arcade.json) |
+| Donkey Kong Banana Kingdom | 59215 | [59215-donkey-kong-banana-kingdom.json](./59215-donkey-kong-banana-kingdom.json) |
 | Donkey Kong Bananza | 338106 | [338106-donkey-kong-bananza.json](./338106-donkey-kong-bananza.json) |
 | Donkey Kong Barrel Blast | 4817 | [4817-donkey-kong-barrel-blast.json](./4817-donkey-kong-barrel-blast.json) |
 | Donkey Kong Christmas Remix | 339259 | [339259-donkey-kong-christmas-remix.json](./339259-donkey-kong-christmas-remix.json) |
@@ -7096,6 +7097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Hex | 21475 | [21475-doodle-hex.json](./21475-doodle-hex.json) |
 | Doodle Hunt: Halloween Rush | 320331 | [320331-doodle-hunt-halloween-rush.json](./320331-doodle-hunt-halloween-rush.json) |
 | Doodle Jamboree | 54451 | [54451-doodle-jamboree.json](./54451-doodle-jamboree.json) |
+| Doodle Jump Adventures | 59204 | [59204-doodle-jump-adventures.json](./59204-doodle-jump-adventures.json) |
 | Doodle Jump HD | 90809 | [90809-doodle-jump-hd.json](./90809-doodle-jump-hd.json) |
 | Doodle Jump HD: Insanely Good! | 104106 | [104106-doodle-jump-hd-insanely-good.json](./104106-doodle-jump-hd-insanely-good.json) |
 | Doodle Jump Journey | 85571 | [85571-doodle-jump-journey.json](./85571-doodle-jump-journey.json) |
@@ -9291,6 +9293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Up | 178935 | [178935-drop-up.json](./178935-drop-up.json) |
 | Drop Zone | 46600 | [46600-drop-zone.json](./46600-drop-zone.json) |
 | Drop Zone 4 | 109590 | [109590-drop-zone-4.json](./109590-drop-zone-4.json) |
+| Drop Zone: Under Fire | 59206 | [59206-drop-zone-under-fire.json](./59206-drop-zone-under-fire.json) |
 | Drop: Save the Forest | 373087 | [373087-drop-save-the-forest.json](./373087-drop-save-the-forest.json) |
 | Drop: System Breach | 202862 | [202862-drop-system-breach.json](./202862-drop-system-breach.json) |
 | Drop! | 131340 | [131340-drop.json](./131340-drop.json) |
