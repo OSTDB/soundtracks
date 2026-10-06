@@ -1579,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Net Enjou Jikenbo: Moete Moeru SNS Idol Tenraku Illustration Quiz Game | 225898 | [225898-net-enjou-jikenbo-moete-moeru-sns-idol-tenraku-illustration-quiz-game.json](./225898-net-enjou-jikenbo-moete-moeru-sns-idol-tenraku-illustration-quiz-game.json) |
 | Net Gain: Stories | 120881 | [120881-net-gain-stories.json](./120881-net-gain-stories.json) |
 | Net Gin Rummy | 93047 | [93047-net-gin-rummy.json](./93047-net-gin-rummy.json) |
+| Net Guardian: Dai Kyo Utage | 65277 | [65277-net-guardian-dai-kyo-utage.json](./65277-net-guardian-dai-kyo-utage.json) |
 | Net Invaders | 116427 | [116427-net-invaders.json](./116427-net-invaders.json) |
 | Net King's Call | 143514 | [143514-net-kings-call.json](./143514-net-kings-call.json) |
 | Net Pet | 293205 | [293205-net-pet.json](./293205-net-pet.json) |
