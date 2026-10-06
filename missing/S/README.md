@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S Force | 184411 | [184411-s-force.json](./184411-s-force.json) |
 | S Lanes | 254063 | [254063-s-lanes.json](./254063-s-lanes.json) |
 | S Mahjong 2 | 97722 | [97722-s-mahjong-2.json](./97722-s-mahjong-2.json) |
+| S na Kanojo | 97425 | [97425-s-na-kanojo.json](./97425-s-na-kanojo.json) |
 | S-Copter | 76653 | [76653-s-copter.json](./76653-s-copter.json) |
 | S-Tetris | 70465 | [70465-s-tetris.json](./70465-s-tetris.json) |
 | S: Lost Chapters | 260288 | [260288-s-lost-chapters.json](./260288-s-lost-chapters.json) |
@@ -19011,6 +19012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzu to Mari no Bouken 2: Lost Colors and Golden Bells | 206177 | [206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json](./206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json) |
 | Suzu to Mari no Bouken: The Ghost of Friend | 206176 | [206176-suzu-to-mari-no-bouken-the-ghost-of-friend.json](./206176-suzu-to-mari-no-bouken-the-ghost-of-friend.json) |
 | Suzume: Match 3 Puzzle | 255336 | [255336-suzume-match-3-puzzle.json](./255336-suzume-match-3-puzzle.json) |
+| Suzumiya Haruhi No Datsui | 97512 | [97512-suzumiya-haruhi-no-datsui.json](./97512-suzumiya-haruhi-no-datsui.json) |
 | Suzumiya Haruhi no Gekidou | 69295 | [69295-suzumiya-haruhi-no-gekidou.json](./69295-suzumiya-haruhi-no-gekidou.json) |
 | Suzumiya Haruhi no Houi | 97503 | [97503-suzumiya-haruhi-no-houi.json](./97503-suzumiya-haruhi-no-houi.json) |
 | Suzumiya Haruhi no Tomadoi | 72709 | [72709-suzumiya-haruhi-no-tomadoi.json](./72709-suzumiya-haruhi-no-tomadoi.json) |
@@ -19519,6 +19521,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Apocalypse | 389413 | [389413-sword-of-the-apocalypse.json](./389413-sword-of-the-apocalypse.json) |
 | Sword of the Berserk: Guts' Rage | 28840 | [28840-sword-of-the-berserk-guts-rage.json](./28840-sword-of-the-berserk-guts-rage.json) |
 | Sword of the Dimacreation | 109191 | [109191-sword-of-the-dimacreation.json](./109191-sword-of-the-dimacreation.json) |
+| Sword of the Dimacreation: Side Story - The Hunt of Rabbit | 97521 | [97521-sword-of-the-dimacreation-side-story-the-hunt-of-rabbit.json](./97521-sword-of-the-dimacreation-side-story-the-hunt-of-rabbit.json) |
+| Sword of the Dimacreation: Side Story 2 - Triangle Christmas Chrityous | 97520 | [97520-sword-of-the-dimacreation-side-story-2-triangle-christmas-chrityous.json](./97520-sword-of-the-dimacreation-side-story-2-triangle-christmas-chrityous.json) |
+| Sword of the Dimacreation: Side Story 3 - The Last, But Never End | 97517 | [97517-sword-of-the-dimacreation-side-story-3-the-last-but-never-end.json](./97517-sword-of-the-dimacreation-side-story-3-the-last-but-never-end.json) |
 | Sword of the Necromancer: Resurrection | 290642 | [290642-sword-of-the-necromancer-resurrection.json](./290642-sword-of-the-necromancer-resurrection.json) |
 | Sword of the Necromancer: Ultra Collector's Edition | 148543 | [148543-sword-of-the-necromancer-ultra-collectors-edition.json](./148543-sword-of-the-necromancer-ultra-collectors-edition.json) |
 | Sword of the Slayer | 123524 | [123524-sword-of-the-slayer.json](./123524-sword-of-the-slayer.json) |
