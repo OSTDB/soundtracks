@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Pussy: Chapter 1 | 244719 | [244719-magic-pussy-chapter-1.json](./244719-magic-pussy-chapter-1.json) |
 | Magic Pussy: Chapter 3 | 365670 | [365670-magic-pussy-chapter-3.json](./365670-magic-pussy-chapter-3.json) |
 | Magic Quest: TCG | 121394 | [121394-magic-quest-tcg.json](./121394-magic-quest-tcg.json) |
+| Magic Rampage | 61995 | [61995-magic-rampage.json](./61995-magic-rampage.json) |
 | Magic Realm | 182943 | [182943-magic-realm.json](./182943-magic-realm.json) |
 | Magic Realm | 316636 | [316636-magic-realm.json](./316636-magic-realm.json) |
 | Magic Realm Obby | 391250 | [391250-magic-realm-obby.json](./391250-magic-realm-obby.json) |
@@ -821,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack Three | 362467 | [362467-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-three.json](./362467-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-three.json) |
 | Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack Two | 362466 | [362466-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-two.json](./362466-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-two.json) |
 | Magica Memoria | 289019 | [289019-magica-memoria.json](./289019-magica-memoria.json) |
+| Magica Wars: Zanbatsu | 62013 | [62013-magica-wars-zanbatsu.json](./62013-magica-wars-zanbatsu.json) |
 | Magica X Magica | 200018 | [200018-magica-x-magica.json](./200018-magica-x-magica.json) |
 | Magicademia | 148677 | [148677-magicademia.json](./148677-magicademia.json) |
 | Magicafe | 299127 | [299127-magicafe.json](./299127-magicafe.json) |
@@ -1180,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou Shoujo Pretty Sammy: Osorubeshi Shintai Sokutei! Kakubakuhatsu 5 Byou Mae!! | 61329 | [61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json](./61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json) |
 | Mahou Show-Jo | 185426 | [185426-mahou-show-jo.json](./185426-mahou-show-jo.json) |
 | Mahou Tsukai Kurohime | 108956 | [108956-mahou-tsukai-kurohime.json](./108956-mahou-tsukai-kurohime.json) |
+| Mahouka Koukou no Rettousei: Out of Order | 61996 | [61996-mahouka-koukou-no-rettousei-out-of-order.json](./61996-mahouka-koukou-no-rettousei-out-of-order.json) |
 | MahouSho* | 391711 | [391711-mahousho.json](./391711-mahousho.json) |
 | Mahoutsukai ni Naru Houhou | 97338 | [97338-mahoutsukai-ni-naru-houhou.json](./97338-mahoutsukai-ni-naru-houhou.json) |
 | Mahoutsukai no Yoru | 65487 | [65487-mahoutsukai-no-yoru.json](./65487-mahoutsukai-no-yoru.json) |
@@ -3333,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matts & the Metamagicians | 181684 | [181684-matts-and-the-metamagicians.json](./181684-matts-and-the-metamagicians.json) |
 | Matts Project Z Endless | 149581 | [149581-matts-project-z-endless.json](./149581-matts-project-z-endless.json) |
 | Mature Comedy Visual Novel | 265330 | [265330-mature-comedy-visual-novel.json](./265330-mature-comedy-visual-novel.json) |
+| Mau Mau | 61994 | [61994-mau-mau.json](./61994-mau-mau.json) |
 | Maudelyn's Quest | 186189 | [186189-maudelyns-quest.json](./186189-maudelyns-quest.json) |
 | Maui The Shapeshifter | 314425 | [314425-maui-the-shapeshifter.json](./314425-maui-the-shapeshifter.json) |
 | Mauled | 239681 | [239681-mauled.json](./239681-mauled.json) |
@@ -3817,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanic 8230 | 151107 | [151107-mechanic-8230.json](./151107-mechanic-8230.json) |
 | Mechanic 8230: Deluxe Edition | 252700 | [252700-mechanic-8230-deluxe-edition.json](./252700-mechanic-8230-deluxe-edition.json) |
 | Mechanic 8230: Escape From Ilgrot - Extended Edition | 259544 | [259544-mechanic-8230-escape-from-ilgrot-extended-edition.json](./259544-mechanic-8230-escape-from-ilgrot-extended-edition.json) |
+| Mechanic Infantry | 61986 | [61986-mechanic-infantry.json](./61986-mechanic-infantry.json) |
 | Mechanic Legends | 314472 | [314472-mechanic-legends.json](./314472-mechanic-legends.json) |
 | Mechanic Miner | 77754 | [77754-mechanic-miner.json](./77754-mechanic-miner.json) |
 | Mechanic Supermarket 2024 | 321487 | [321487-mechanic-supermarket-2024.json](./321487-mechanic-supermarket-2024.json) |
@@ -8412,6 +8417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Bananza | 146349 | [146349-monkey-bananza.json](./146349-monkey-bananza.json) |
 | Monkey Barrels | 125160 | [125160-monkey-barrels.json](./125160-monkey-barrels.json) |
 | Monkey Boxing | 61063 | [61063-monkey-boxing.json](./61063-monkey-boxing.json) |
+| Monkey Brains | 62034 | [62034-monkey-brains.json](./62034-monkey-brains.json) |
 | Monkey Business | 147895 | [147895-monkey-business.json](./147895-monkey-business.json) |
 | Monkey Catapult | 323162 | [323162-monkey-catapult.json](./323162-monkey-catapult.json) |
 | Monkey Do | 291484 | [291484-monkey-do.json](./291484-monkey-do.json) |
@@ -10545,6 +10551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mummification | 243063 | [243063-mummification.json](./243063-mummification.json) |
 | Mummmaster! | 150769 | [150769-mummmaster.json](./150769-mummmaster.json) |
 | Mummy Madness | 185702 | [185702-mummy-madness.json](./185702-mummy-madness.json) |
+| Mummy Maze Deluxe | 62007 | [62007-mummy-maze-deluxe.json](./62007-mummy-maze-deluxe.json) |
 | Mummy Sandbox | 175883 | [175883-mummy-sandbox.json](./175883-mummy-sandbox.json) |
 | Mummy, mummy, mummy! | 165692 | [165692-mummy-mummy-mummy.json](./165692-mummy-mummy-mummy.json) |
 | Mummy's Curse | 24852 | [24852-mummys-curse.json](./24852-mummys-curse.json) |
