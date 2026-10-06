@@ -5029,6 +5029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Start: Puzzle Game | 149605 | [149605-robot-start-puzzle-game.json](./149605-robot-start-puzzle-game.json) |
 | Robot terminator | 120704 | [120704-robot-terminator.json](./120704-robot-terminator.json) |
 | Robot Trivia Funtime | 301588 | [301588-robot-trivia-funtime.json](./301588-robot-trivia-funtime.json) |
+| Robot Unicorn Attack 2 | 76895 | [76895-robot-unicorn-attack-2.json](./76895-robot-unicorn-attack-2.json) |
 | Robot Unicorn Attack Forever | 56161 | [56161-robot-unicorn-attack-forever.json](./56161-robot-unicorn-attack-forever.json) |
 | Robot Vacuum Simulator 2013 | 61629 | [61629-robot-vacuum-simulator-2013.json](./61629-robot-vacuum-simulator-2013.json) |
 | Robot Vacuum Simulator X | 130370 | [130370-robot-vacuum-simulator-x.json](./130370-robot-vacuum-simulator-x.json) |
@@ -7056,6 +7057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russia Inside Out: New Year | 368072 | [368072-russia-inside-out-new-year.json](./368072-russia-inside-out-new-year.json) |
 | Russia Roguelike | 116117 | [116117-russia-roguelike.json](./116117-russia-roguelike.json) |
 | Russia: The Great War in the East 1941-1945 | 44124 | [44124-russia-the-great-war-in-the-east-1941-1945.json](./44124-russia-the-great-war-in-the-east-1941-1945.json) |
+| Russia.2028 | 76877 | [76877-russia-2028.json](./76877-russia-2028.json) |
 | Russian Anime | 156034 | [156034-russian-anime.json](./156034-russian-anime.json) |
 | Russian AYE Horror | 96887 | [96887-russian-aye-horror.json](./96887-russian-aye-horror.json) |
 | Russian bank - card game | 106568 | [106568-russian-bank-card-game.json](./106568-russian-bank-card-game.json) |
