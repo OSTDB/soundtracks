@@ -1667,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casey Noir and Carved Pumpkin's Latte | 353967 | [353967-casey-noir-and-carved-pumpkins-latte.json](./353967-casey-noir-and-carved-pumpkins-latte.json) |
 | Casey Powell Lacrosse 16 | 20969 | [20969-casey-powell-lacrosse-16.json](./20969-casey-powell-lacrosse-16.json) |
 | Casey Powell Lacrosse 18 | 96477 | [96477-casey-powell-lacrosse-18.json](./96477-casey-powell-lacrosse-18.json) |
+| Casey's Contraptions | 63646 | [63646-caseys-contraptions.json](./63646-caseys-contraptions.json) |
 | Cash Cleaner Simulator | 297943 | [297943-cash-cleaner-simulator.json](./297943-cash-cleaner-simulator.json) |
 | Cash Cow: Anniversary Edition | 90837 | [90837-cash-cow-anniversary-edition.json](./90837-cash-cow-anniversary-edition.json) |
 | Cash Dash | 384544 | [384544-cash-dash.json](./384544-cash-dash.json) |
@@ -2766,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellchemist | 389731 | [389731-cellchemist.json](./389731-cellchemist.json) |
 | CellCraft | 132122 | [132122-cellcraft.json](./132122-cellcraft.json) |
 | Celldom Classic | 404823 | [404823-celldom-classic.json](./404823-celldom-classic.json) |
+| CellFactor: Combat Training | 63689 | [63689-cellfactor-combat-training.json](./63689-cellfactor-combat-training.json) |
 | CellFactor: Psychokinetic Wars | 21673 | [21673-cellfactor-psychokinetic-wars.json](./21673-cellfactor-psychokinetic-wars.json) |
 | CellFighter | 93216 | [93216-cellfighter.json](./93216-cellfighter.json) |
 | Cellings | 190202 | [190202-cellings.json](./190202-cellings.json) |
@@ -6210,6 +6212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coil's Containment | 338916 | [338916-coils-containment.json](./338916-coils-containment.json) |
 | Coin | 314310 | [314310-coin.json](./314310-coin.json) |
 | Coin | 314433 | [314433-coin.json](./314433-coin.json) |
+| Coin 'n Carry | 63684 | [63684-coin-n-carry.json](./63684-coin-n-carry.json) |
 | Coin & Cauldron | 391618 | [391618-coin-and-cauldron.json](./391618-coin-and-cauldron.json) |
 | Coin Collection Challenge | 379904 | [379904-coin-collection-challenge.json](./379904-coin-collection-challenge.json) |
 | Coin Commander | 128349 | [128349-coin-commander.json](./128349-coin-commander.json) |
@@ -6524,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Road! | 90364 | [90364-color-road.json](./90364-color-road.json) |
 | Color Roll 3D | 215242 | [215242-color-roll-3d.json](./215242-color-roll-3d.json) |
 | Color Shape | 109528 | [109528-color-shape.json](./109528-color-shape.json) |
+| Color Sheep | 63683 | [63683-color-sheep.json](./63683-color-sheep.json) |
 | Color Shooter | 290094 | [290094-color-shooter.json](./290094-color-shooter.json) |
 | Color Slayer | 121012 | [121012-color-slayer.json](./121012-color-slayer.json) |
 | Color SlayerS | 214500 | [214500-color-slayers.json](./214500-color-slayers.json) |
@@ -10617,6 +10621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult | 68774 | [68774-cult.json](./68774-cult.json) |
 | Cult 2112 | 119553 | [119553-cult-2112.json](./119553-cult-2112.json) |
 | Cult Adorable | 276779 | [276779-cult-adorable.json](./276779-cult-adorable.json) |
+| Cult County | 63659 | [63659-cult-county.json](./63659-cult-county.json) |
 | Cult Game | 362875 | [362875-cult-game.json](./362875-cult-game.json) |
 | Cult II: Federal Crime | 69935 | [69935-cult-ii-federal-crime.json](./69935-cult-ii-federal-crime.json) |
 | Cult Land | 309574 | [309574-cult-land.json](./309574-cult-land.json) |
