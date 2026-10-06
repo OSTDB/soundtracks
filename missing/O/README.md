@@ -2442,6 +2442,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osminog Adventures: The Lost Island | 222909 | [222909-osminog-adventures-the-lost-island.json](./222909-osminog-adventures-the-lost-island.json) |
 | Osmo Coding Jam | 100164 | [100164-osmo-coding-jam.json](./100164-osmo-coding-jam.json) |
 | Osmo Monster | 104667 | [104667-osmo-monster.json](./104667-osmo-monster.json) |
+| Osmo Newton | 95652 | [95652-osmo-newton.json](./95652-osmo-newton.json) |
+| Osmo Numbers | 95651 | [95651-osmo-numbers.json](./95651-osmo-numbers.json) |
 | Osmorrow | 80933 | [80933-osmorrow.json](./80933-osmorrow.json) |
 | Osmos | 14951 | [14951-osmos.json](./14951-osmos.json) |
 | Osomatsu-kun: Back to the Me no Deppa no Maki | 48797 | [48797-osomatsu-kun-back-to-the-me-no-deppa-no-maki.json](./48797-osomatsu-kun-back-to-the-me-no-deppa-no-maki.json) |
