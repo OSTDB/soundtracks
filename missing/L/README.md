@@ -4899,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Stitch | 412297 | [412297-love-stitch.json](./412297-love-stitch.json) |
 | Love Stories: Sex and the Furry Titty | 165031 | [165031-love-stories-sex-and-the-furry-titty.json](./165031-love-stories-sex-and-the-furry-titty.json) |
 | Love Story | 259509 | [259509-love-story.json](./259509-love-story.json) |
+| Love Story | 90934 | [90934-love-story.json](./90934-love-story.json) |
 | Love Story of Sparrow | 114531 | [114531-love-story-of-sparrow.json](./114531-love-story-of-sparrow.json) |
 | Love Story: Choices Girl Games | 107010 | [107010-love-story-choices-girl-games.json](./107010-love-story-choices-girl-games.json) |
 | Love Story: Letters from the Past | 29095 | [29095-love-story-letters-from-the-past.json](./29095-love-story-letters-from-the-past.json) |
