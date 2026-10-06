@@ -1238,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 3: The Lost Expeditions Edition | 142159 | [142159-far-cry-3-the-lost-expeditions-edition.json](./142159-far-cry-3-the-lost-expeditions-edition.json) |
 | Far Cry 3: Wish You Were Here Edition | 51544 | [51544-far-cry-3-wish-you-were-here-edition.json](./51544-far-cry-3-wish-you-were-here-edition.json) |
 | Far Cry 4 + Far Cry: Primal Bundle | 164801 | [164801-far-cry-4-far-cry-primal-bundle.json](./164801-far-cry-4-far-cry-primal-bundle.json) |
+| Far Cry 4: Arcade Poker | 60379 | [60379-far-cry-4-arcade-poker.json](./60379-far-cry-4-arcade-poker.json) |
 | Far Cry 4: Gold Edition | 53019 | [53019-far-cry-4-gold-edition.json](./53019-far-cry-4-gold-edition.json) |
 | Far Cry 4: Hurk Deluxe Pack | 109553 | [109553-far-cry-4-hurk-deluxe-pack.json](./109553-far-cry-4-hurk-deluxe-pack.json) |
 | Far Cry 4: Kyrat Edition | 41616 | [41616-far-cry-4-kyrat-edition.json](./41616-far-cry-4-kyrat-edition.json) |
@@ -3122,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger on the Roof! Go! Rooftop Runner! | 214568 | [214568-finger-on-the-roof-go-rooftop-runner.json](./214568-finger-on-the-roof-go-rooftop-runner.json) |
 | Finger Physics | 66426 | [66426-finger-physics.json](./66426-finger-physics.json) |
 | Finger Punch | 378802 | [378802-finger-punch.json](./378802-finger-punch.json) |
+| Finger Safari | 60381 | [60381-finger-safari.json](./60381-finger-safari.json) |
 | Finger Shot RPG | 205007 | [205007-finger-shot-rpg.json](./205007-finger-shot-rpg.json) |
 | Finger Slayer | 341914 | [341914-finger-slayer.json](./341914-finger-slayer.json) |
 | Finger Soccer League | 291171 | [291171-finger-soccer-league.json](./291171-finger-soccer-league.json) |
@@ -6400,6 +6402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeq | 62573 | [62573-freeq.json](./62573-freeq.json) |
 | Freerice | 140371 | [140371-freerice.json](./140371-freerice.json) |
 | Freeride | 204514 | [204514-freeride.json](./204514-freeride.json) |
+| FreeRun Masters | 60393 | [60393-freerun-masters.json](./60393-freerun-masters.json) |
 | Freerunners | 220025 | [220025-freerunners.json](./220025-freerunners.json) |
 | FreeRunners | 156617 | [156617-freerunners.json](./156617-freerunners.json) |
 | FreeSO | 126490 | [126490-freeso.json](./126490-freeso.json) |
@@ -6631,6 +6634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz Chess 13 | 25054 | [25054-fritz-chess-13.json](./25054-fritz-chess-13.json) |
 | Fritz Chess 14 | 17050 | [17050-fritz-chess-14.json](./17050-fritz-chess-14.json) |
 | Fritz Chess 17 Steam Edition | 162708 | [162708-fritz-chess-17-steam-edition.json](./162708-fritz-chess-17-steam-edition.json) |
+| Fritz Mobile | 60385 | [60385-fritz-mobile.json](./60385-fritz-mobile.json) |
 | Fritz: Your Chess Coach | 262648 | [262648-fritz-your-chess-coach.json](./262648-fritz-your-chess-coach.json) |
 | Frizzle | 319194 | [319194-frizzle.json](./319194-frizzle.json) |
 | Frizzy | 34764 | [34764-frizzy.json](./34764-frizzy.json) |
