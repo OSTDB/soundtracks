@@ -2073,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's go! Brave | 269184 | [269184-lets-go-brave.json](./269184-lets-go-brave.json) |
 | Let's Go! My Harem Farm | 278149 | [278149-lets-go-my-harem-farm.json](./278149-lets-go-my-harem-farm.json) |
 | Let's Golf! | 67693 | [67693-lets-golf.json](./67693-lets-golf.json) |
+| Let's Hitchhike! | 84451 | [84451-lets-hitchhike.json](./84451-lets-hitchhike.json) |
 | Let's Journey | 158102 | [158102-lets-journey.json](./158102-lets-journey.json) |
 | Let's Jump | 265759 | [265759-lets-jump.json](./265759-lets-jump.json) |
 | Let's Just Farm | 374846 | [374846-lets-just-farm.json](./374846-lets-just-farm.json) |
@@ -3274,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Einsteins | 231500 | [231500-little-einsteins.json](./231500-little-einsteins.json) |
 | Little Farm Island | 385326 | [385326-little-farm-island.json](./385326-little-farm-island.json) |
 | Little Fiefdom: Medieval | 390259 | [390259-little-fiefdom-medieval.json](./390259-little-fiefdom-medieval.json) |
+| Little fight | 84477 | [84477-little-fight.json](./84477-little-fight.json) |
 | Little Fighter 2 | 8700 | [8700-little-fighter-2.json](./8700-little-fighter-2.json) |
 | Little Fighter Online | 79905 | [79905-little-fighter-online.json](./79905-little-fighter-online.json) |
 | Little Fighters on Stream | 146528 | [146528-little-fighters-on-stream.json](./146528-little-fighters-on-stream.json) |
@@ -4616,6 +4618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Paws | 207343 | [207343-lost-paws.json](./207343-lost-paws.json) |
 | Lost Perspective | 137602 | [137602-lost-perspective.json](./137602-lost-perspective.json) |
 | Lost Phone Stories | 105887 | [105887-lost-phone-stories.json](./105887-lost-phone-stories.json) |
+| Lost Pig (And Place Under Ground) | 84463 | [84463-lost-pig-and-place-under-ground.json](./84463-lost-pig-and-place-under-ground.json) |
 | Lost Pixel | 274536 | [274536-lost-pixel.json](./274536-lost-pixel.json) |
 | Lost Planet 2 | 1915 | [1915-lost-planet-2.json](./1915-lost-planet-2.json) |
 | Lost Planet 3 | 1916 | [1916-lost-planet-3.json](./1916-lost-planet-3.json) |
