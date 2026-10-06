@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youtuber Boys: Love Behind the Camera | 403722 | [403722-youtuber-boys-love-behind-the-camera.json](./403722-youtuber-boys-love-behind-the-camera.json) |
 | Youtubers Clicker | 54332 | [54332-youtubers-clicker.json](./54332-youtubers-clicker.json) |
 | Youtubers Life | 19331 | [19331-youtubers-life.json](./19331-youtubers-life.json) |
+| Youtubers Life - Cooking Channel | 89533 | [89533-youtubers-life-cooking-channel.json](./89533-youtubers-life-cooking-channel.json) |
 | Youtubers Life: Gaming Channel | 88942 | [88942-youtubers-life-gaming-channel.json](./88942-youtubers-life-gaming-channel.json) |
 | Youtubers Life: OMG Edition | 111159 | [111159-youtubers-life-omg-edition.json](./111159-youtubers-life-omg-edition.json) |
 | Youyou Kengeki Musou | 137062 | [137062-youyou-kengeki-musou.json](./137062-youyou-kengeki-musou.json) |
