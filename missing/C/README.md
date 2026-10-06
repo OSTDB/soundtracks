@@ -6246,6 +6246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Sex: Episode 6 | 285603 | [285603-college-sex-episode-6.json](./285603-college-sex-episode-6.json) |
 | College Slam | 365698 | [365698-college-slam.json](./365698-college-slam.json) |
 | College Wrestling Manager 2026 | 384514 | [384514-college-wrestling-manager-2026.json](./384514-college-wrestling-manager-2026.json) |
+| Collider | 116268 | [116268-collider.json](./116268-collider.json) |
 | Colliderscope | 109673 | [109673-colliderscope.json](./109673-colliderscope.json) |
 | Colliding Forces | 63543 | [63543-colliding-forces.json](./63543-colliding-forces.json) |
 | Collie Call: Farm of Tomorrow | 344964 | [344964-collie-call-farm-of-tomorrow.json](./344964-collie-call-farm-of-tomorrow.json) |
