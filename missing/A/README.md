@@ -9111,6 +9111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Au-Delà | 191651 | [191651-au-dela.json](./191651-au-dela.json) |
 | Aube | 104450 | [104450-aube.json](./104450-aube.json) |
 | Auction | 192701 | [192701-auction.json](./192701-auction.json) |
+| Audiball | 70616 | [70616-audiball.json](./70616-audiball.json) |
 | Audica: 5 Seconds of Summer - "Youngblood" | 358945 | [358945-audica-5-seconds-of-summer-youngblood.json](./358945-audica-5-seconds-of-summer-youngblood.json) |
 | Audica: Ariana Grande - "Into You" | 358946 | [358946-audica-ariana-grande-into-you.json](./358946-audica-ariana-grande-into-you.json) |
 | Audica: Chvrches - "The Mother We Share" | 358947 | [358947-audica-chvrches-the-mother-we-share.json](./358947-audica-chvrches-the-mother-we-share.json) |
@@ -9187,6 +9188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Adventure: A Space Academy Tale | 260295 | [260295-aurora-adventure-a-space-academy-tale.json](./260295-aurora-adventure-a-space-academy-tale.json) |
 | Aurora Chronicles | 217228 | [217228-aurora-chronicles.json](./217228-aurora-chronicles.json) |
 | Aurora Dusk: Steam Age | 34581 | [34581-aurora-dusk-steam-age.json](./34581-aurora-dusk-steam-age.json) |
+| Aurora Feint II: The Arena | 70611 | [70611-aurora-feint-ii-the-arena.json](./70611-aurora-feint-ii-the-arena.json) |
 | Aurora Feint II: Tower Puzzles | 67694 | [67694-aurora-feint-ii-tower-puzzles.json](./67694-aurora-feint-ii-tower-puzzles.json) |
 | Aurora Heights | 374762 | [374762-aurora-heights.json](./374762-aurora-heights.json) |
 | Aurora Hex: Pattern Puzzles | 117616 | [117616-aurora-hex-pattern-puzzles.json](./117616-aurora-hex-pattern-puzzles.json) |
