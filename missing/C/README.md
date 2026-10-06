@@ -3648,6 +3648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiaroscuro: O Jogo | 210649 | [210649-chiaroscuro-o-jogo.json](./210649-chiaroscuro-o-jogo.json) |
 | Chiasm | 149482 | [149482-chiasm.json](./149482-chiasm.json) |
 | Chibi 3D Online RPG Sandbox | 300372 | [300372-chibi-3d-online-rpg-sandbox.json](./300372-chibi-3d-online-rpg-sandbox.json) |
+| Chibi Akuma's | 112263 | [112263-chibi-akumas.json](./112263-chibi-akumas.json) |
 | Chibi Akuma's Episode 1: Invasion! | 300807 | [300807-chibi-akumas-episode-1-invasion.json](./300807-chibi-akumas-episode-1-invasion.json) |
 | Chibi Charger | 338562 | [338562-chibi-charger.json](./338562-chibi-charger.json) |
 | Chibi Devi! | 222291 | [222291-chibi-devi.json](./222291-chibi-devi.json) |
@@ -8750,6 +8751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashtest | 151273 | [151273-crashtest.json](./151273-crashtest.json) |
 | CrashTV | 201616 | [201616-crashtv.json](./201616-crashtv.json) |
 | Crashy Cars! | 247178 | [247178-crashy-cars.json](./247178-crashy-cars.json) |
+| Crashy Cats | 112248 | [112248-crashy-cats.json](./112248-crashy-cats.json) |
 | Crashy Cops! | 104642 | [104642-crashy-cops.json](./104642-crashy-cops.json) |
 | Crashy Laps | 244237 | [244237-crashy-laps.json](./244237-crashy-laps.json) |
 | Crashy Racing | 113157 | [113157-crashy-racing.json](./113157-crashy-racing.json) |
