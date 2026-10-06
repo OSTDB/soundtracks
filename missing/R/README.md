@@ -4981,6 +4981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Female Hero 3 | 157508 | [157508-robot-female-hero-3.json](./157508-robot-female-hero-3.json) |
 | Robot Fighter | 216762 | [216762-robot-fighter.json](./216762-robot-fighter.json) |
 | Robot Fighter: Epic Battles | 378407 | [378407-robot-fighter-epic-battles.json](./378407-robot-fighter-epic-battles.json) |
+| Robot Fighting | 86417 | [86417-robot-fighting.json](./86417-robot-fighting.json) |
 | Robot Hospice | 342219 | [342219-robot-hospice.json](./342219-robot-hospice.json) |
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
 | Robot Invasion | 169814 | [169814-robot-invasion.json](./169814-robot-invasion.json) |
