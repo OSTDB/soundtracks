@@ -2019,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Blocks | 137660 | [137660-battle-blocks.json](./137660-battle-blocks.json) |
 | Battle Bloodlines | 338197 | [338197-battle-bloodlines.json](./338197-battle-bloodlines.json) |
 | Battle Blues | 145616 | [145616-battle-blues.json](./145616-battle-blues.json) |
+| Battle Boom | 89526 | [89526-battle-boom.json](./89526-battle-boom.json) |
 | Battle Bouncers | 134572 | [134572-battle-bouncers.json](./134572-battle-bouncers.json) |
 | Battle Brigade | 166167 | [166167-battle-brigade.json](./166167-battle-brigade.json) |
 | Battle Brothers | 14394 | [14394-battle-brothers.json](./14394-battle-brothers.json) |
@@ -2435,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleGuild | 251816 | [251816-battleguild.json](./251816-battleguild.json) |
 | Battlegun | 52276 | [52276-battlegun.json](./52276-battlegun.json) |
 | Battlehawks 1942 | 178 | [178-battlehawks-1942.json](./178-battlehawks-1942.json) |
+| Battleheart | 89488 | [89488-battleheart.json](./89488-battleheart.json) |
 | Battleheart 2 | 104236 | [104236-battleheart-2.json](./104236-battleheart-2.json) |
 | Battleheart Legacy+ | 224991 | [224991-battleheart-legacy.json](./224991-battleheart-legacy.json) |
 | BattleHeights | 327220 | [327220-battleheights.json](./327220-battleheights.json) |
@@ -4154,6 +4156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biggest Piano | 353385 | [353385-biggest-piano.json](./353385-biggest-piano.json) |
 | Biggest Stream Hover Racing | 193320 | [193320-biggest-stream-hover-racing.json](./193320-biggest-stream-hover-racing.json) |
 | Biggles On Mars | 267594 | [267594-biggles-on-mars.json](./267594-biggles-on-mars.json) |
+| Bighand Finding Hunter | 89491 | [89491-bighand-finding-hunter.json](./89491-bighand-finding-hunter.json) |
 | BigHardSun | 122804 | [122804-bighardsun.json](./122804-bighardsun.json) |
 | Bighead Runner | 102379 | [102379-bighead-runner.json](./102379-bighead-runner.json) |
 | Bigroom Escape | 151727 | [151727-bigroom-escape.json](./151727-bigroom-escape.json) |
@@ -8719,6 +8722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brotherhood | 275114 | [275114-brotherhood.json](./275114-brotherhood.json) |
 | Brotherhood of Pain | 388937 | [388937-brotherhood-of-pain.json](./388937-brotherhood-of-pain.json) |
 | Brotherhood of Ruin 2024: Element Temple Research Complex | 311464 | [311464-brotherhood-of-ruin-2024-element-temple-research-complex.json](./311464-brotherhood-of-ruin-2024-element-temple-research-complex.json) |
+| Brotherhood of Violence II | 89517 | [89517-brotherhood-of-violence-ii.json](./89517-brotherhood-of-violence-ii.json) |
 | Brothers | 193446 | [193446-brothers.json](./193446-brothers.json) |
 | Brothers Conflict: Brilliant Blue | 45991 | [45991-brothers-conflict-brilliant-blue.json](./45991-brothers-conflict-brilliant-blue.json) |
 | Brothers Conflict: Passion Pink | 45990 | [45990-brothers-conflict-passion-pink.json](./45990-brothers-conflict-passion-pink.json) |
