@@ -1500,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way to Town | 358466 | [358466-way-to-town.json](./358466-way-to-town.json) |
 | Way to Yaatra | 140604 | [140604-way-to-yaatra.json](./140604-way-to-yaatra.json) |
 | Way Walkers: University | 168695 | [168695-way-walkers-university.json](./168695-way-walkers-university.json) |
+| Way-z | 110933 | [110933-way-z.json](./110933-way-z.json) |
 | WAyE | 105378 | [105378-waye.json](./105378-waye.json) |
 | Wayfarer | 178450 | [178450-wayfarer.json](./178450-wayfarer.json) |
 | Wayfarer | 310721 | [310721-wayfarer.json](./310721-wayfarer.json) |
@@ -3484,6 +3485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wish - Israfil Saga | 94897 | [94897-wish-israfil-saga.json](./94897-wish-israfil-saga.json) |
 | Wish -tale of the sixteenth night of lunar month- | 34684 | [34684-wish-tale-of-the-sixteenth-night-of-lunar-month.json](./34684-wish-tale-of-the-sixteenth-night-of-lunar-month.json) |
 | Wish Eater | 288464 | [288464-wish-eater.json](./288464-wish-eater.json) |
+| Wish Giver | 110921 | [110921-wish-giver.json](./110921-wish-giver.json) |
 | Wish of Abyss Dungeon | 195143 | [195143-wish-of-abyss-dungeon.json](./195143-wish-of-abyss-dungeon.json) |
 | Wish Of Hers | 385744 | [385744-wish-of-hers.json](./385744-wish-of-hers.json) |
 | Wish on this Flower | 360611 | [360611-wish-on-this-flower.json](./360611-wish-on-this-flower.json) |
@@ -3543,6 +3545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch n' Wiz | 179670 | [179670-witch-n-wiz.json](./179670-witch-n-wiz.json) |
 | Witch of Ice Kingdom Collection | 52134 | [52134-witch-of-ice-kingdom-collection.json](./52134-witch-of-ice-kingdom-collection.json) |
 | Witch of Ice Kingdom II | 30034 | [30034-witch-of-ice-kingdom-ii.json](./30034-witch-of-ice-kingdom-ii.json) |
+| Witch of the Woods | 110902 | [110902-witch-of-the-woods.json](./110902-witch-of-the-woods.json) |
 | Witch Pachi | 334293 | [334293-witch-pachi.json](./334293-witch-pachi.json) |
 | Witch Play House | 372689 | [372689-witch-play-house.json](./372689-witch-play-house.json) |
 | Witch Potion | 221427 | [221427-witch-potion.json](./221427-witch-potion.json) |
