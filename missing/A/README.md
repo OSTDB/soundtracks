@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Survival | 61100 | [61100-a-tale-of-survival.json](./61100-a-tale-of-survival.json) |
 | A Tale of Synapse: The Chaos Theories | 146823 | [146823-a-tale-of-synapse-the-chaos-theories.json](./146823-a-tale-of-synapse-the-chaos-theories.json) |
 | A Tale of Synapse: The Chaos Theories - Collector's Edition | 152341 | [152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json](./152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json) |
+| A Taste for Murder | 90881 | [90881-a-taste-for-murder.json](./90881-a-taste-for-murder.json) |
 | A Tasting Flight of Names | 315625 | [315625-a-tasting-flight-of-names.json](./315625-a-tasting-flight-of-names.json) |
 | A Tempting Life with My Neighbor | 420679 | [420679-a-tempting-life-with-my-neighbor.json](./420679-a-tempting-life-with-my-neighbor.json) |
 | A Test Before Jianghu | 235278 | [235278-a-test-before-jianghu.json](./235278-a-test-before-jianghu.json) |
@@ -1352,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acrodog | 185023 | [185023-acrodog.json](./185023-acrodog.json) |
 | Acroflow | 297760 | [297760-acroflow.json](./297760-acroflow.json) |
 | Acrofobic Lunchbreak | 26956 | [26956-acrofobic-lunchbreak.json](./26956-acrofobic-lunchbreak.json) |
+| Acrophobia | 90914 | [90914-acrophobia.json](./90914-acrophobia.json) |
 | Acropolis: The Archaic Age | 111635 | [111635-acropolis-the-archaic-age.json](./111635-acropolis-the-archaic-age.json) |
 | Across | 172028 | [172028-across.json](./172028-across.json) |
 | Across | 30823 | [30823-across.json](./30823-across.json) |
@@ -3996,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpine Racer 3 | 68269 | [68269-alpine-racer-3.json](./68269-alpine-racer-3.json) |
 | Alpine Skiing | 41532 | [41532-alpine-skiing.json](./41532-alpine-skiing.json) |
 | Alpine Sky | 352793 | [352793-alpine-sky.json](./352793-alpine-sky.json) |
+| Alpine Surfer | 90915 | [90915-alpine-surfer.json](./90915-alpine-surfer.json) |
 | Alpine Trail | 87608 | [87608-alpine-trail.json](./87608-alpine-trail.json) |
 | Alpine Train 3D | 90709 | [90709-alpine-train-3d.json](./90709-alpine-train-3d.json) |
 | Alpine Wonder | 246537 | [246537-alpine-wonder.json](./246537-alpine-wonder.json) |
@@ -4409,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Pickers: The Road Less Traveled | 65204 | [65204-american-pickers-the-road-less-traveled.json](./65204-american-pickers-the-road-less-traveled.json) |
 | American Poker | 14252 | [14252-american-poker.json](./14252-american-poker.json) |
 | American Pool | 43928 | [43928-american-pool.json](./43928-american-pool.json) |
+| American Pool II | 90932 | [90932-american-pool-ii.json](./90932-american-pool-ii.json) |
 | American Powerhaul Train Simulator | 33522 | [33522-american-powerhaul-train-simulator.json](./33522-american-powerhaul-train-simulator.json) |
 | American Railroads: Summit River & Pine Valley | 96855 | [96855-american-railroads-summit-river-and-pine-valley.json](./96855-american-railroads-summit-river-and-pine-valley.json) |
 | American Sign Language Tutor | 94948 | [94948-american-sign-language-tutor.json](./94948-american-sign-language-tutor.json) |
@@ -6158,6 +6162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appleocalypse | 223375 | [223375-appleocalypse.json](./223375-appleocalypse.json) |
 | Apples and Oranges | 308424 | [308424-apples-and-oranges.json](./308424-apples-and-oranges.json) |
 | Apples in the Tree | 380028 | [380028-apples-in-the-tree.json](./380028-apples-in-the-tree.json) |
+| Appleseed EX | 90931 | [90931-appleseed-ex.json](./90931-appleseed-ex.json) |
 | Appleseed: Prometheus no Shintaku | 38370 | [38370-appleseed-prometheus-no-shintaku.json](./38370-appleseed-prometheus-no-shintaku.json) |
 | AppleSnake | 51989 | [51989-applesnake.json](./51989-applesnake.json) |
 | AppleSnake: Christmas story | 88181 | [88181-applesnake-christmas-story.json](./88181-applesnake-christmas-story.json) |
@@ -8995,6 +9000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack!! Hiroko-Chan | 67372 | [67372-attack-hiroko-chan.json](./67372-attack-hiroko-chan.json) |
 | Attacker-chan! | 211082 | [211082-attacker-chan.json](./211082-attacker-chan.json) |
 | Attacking Zegeta 2 | 56543 | [56543-attacking-zegeta-2.json](./56543-attacking-zegeta-2.json) |
+| Attank! | 90902 | [90902-attank.json](./90902-attank.json) |
 | Attention Deficit: A story about ADHD | 364007 | [364007-attention-deficit-a-story-about-adhd.json](./364007-attention-deficit-a-story-about-adhd.json) |
 | Attic | 157148 | [157148-attic.json](./157148-attic.json) |
 | Attic | 229743 | [229743-attic.json](./229743-attic.json) |
@@ -9135,6 +9141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aussie Sports VR | 31920 | [31920-aussie-sports-vr.json](./31920-aussie-sports-vr.json) |
 | Austen Translation | 68768 | [68768-austen-translation.json](./68768-austen-translation.json) |
 | Austerity X | 407587 | [407587-austerity-x.json](./407587-austerity-x.json) |
+| Austin Mini Racing | 90933 | [90933-austin-mini-racing.json](./90933-austin-mini-racing.json) |
 | Austin Powers Pinball | 222896 | [222896-austin-powers-pinball.json](./222896-austin-powers-pinball.json) |
 | Austin Powers: Oh, Behave! | 49890 | [49890-austin-powers-oh-behave.json](./49890-austin-powers-oh-behave.json) |
 | Austin Powers: Welcome to My Underground Lair! | 18385 | [18385-austin-powers-welcome-to-my-underground-lair.json](./18385-austin-powers-welcome-to-my-underground-lair.json) |
@@ -9697,6 +9704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azumanga Daioh! The Druglord Game | 210509 | [210509-azumanga-daioh-the-druglord-game.json](./210509-azumanga-daioh-the-druglord-game.json) |
 | Azumanga Fighter: Come Back! | 328279 | [328279-azumanga-fighter-come-back.json](./328279-azumanga-fighter-come-back.json) |
 | Azumanga RPG | 222347 | [222347-azumanga-rpg.json](./222347-azumanga-rpg.json) |
+| Azumi | 90930 | [90930-azumi.json](./90930-azumi.json) |
 | Azumi and the Vertical Slice | 257075 | [257075-azumi-and-the-vertical-slice.json](./257075-azumi-and-the-vertical-slice.json) |
 | Azur Lane: Crosswave | 109475 | [109475-azur-lane-crosswave.json](./109475-azur-lane-crosswave.json) |
 | Azur Lane: Crosswave - Commanders Calendar Edition | 139918 | [139918-azur-lane-crosswave-commanders-calendar-edition.json](./139918-azur-lane-crosswave-commanders-calendar-edition.json) |
