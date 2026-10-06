@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galak-Z: The Void - Deluxe Edition | 115666 | [115666-galak-z-the-void-deluxe-edition.json](./115666-galak-z-the-void-deluxe-edition.json) |
 | Galak-Z: The Void / Skulls of the Shogun: Bone-A-Fide Edition - Platinum Pack | 173777 | [173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json](./173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json) |
 | Galak-Z: The Void & Skulls of the Shogun: Bonafide Edition - Platinum Pack | 138264 | [138264-galak-z-the-void-and-skulls-of-the-shogun-bonafide-edition-platinum-pack.json](./138264-galak-z-the-void-and-skulls-of-the-shogun-bonafide-edition-platinum-pack.json) |
+| Galak-Z: Variant Mobile | 105856 | [105856-galak-z-variant-mobile.json](./105856-galak-z-variant-mobile.json) |
 | Galaksia Online | 407593 | [407593-galaksia-online.json](./407593-galaksia-online.json) |
 | Galax | 382229 | [382229-galax.json](./382229-galax.json) |
 | GalaX | 259836 | [259836-galax.json](./259836-galax.json) |
@@ -993,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of the Sea | 336717 | [336717-garden-of-the-sea.json](./336717-garden-of-the-sea.json) |
 | Garden of the Sea VR | 119339 | [119339-garden-of-the-sea-vr.json](./119339-garden-of-the-sea-vr.json) |
 | Garden of Wandering Souls | 327174 | [327174-garden-of-wandering-souls.json](./327174-garden-of-wandering-souls.json) |
+| Garden of Words | 105838 | [105838-garden-of-words.json](./105838-garden-of-words.json) |
 | Garden Paradise | 305937 | [305937-garden-paradise.json](./305937-garden-paradise.json) |
 | Garden Party Shop | 359399 | [359399-garden-party-shop.json](./359399-garden-party-shop.json) |
 | Garden Paws | 105443 | [105443-garden-paws.json](./105443-garden-paws.json) |
@@ -6060,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyras: Rogue | 305540 | [305540-gyras-rogue.json](./305540-gyras-rogue.json) |
 | Gyre | 347749 | [347749-gyre.json](./347749-gyre.json) |
 | Gyre: Nova State | 109910 | [109910-gyre-nova-state.json](./109910-gyre-nova-state.json) |
+| Gyro Buster | 106000 | [106000-gyro-buster.json](./106000-gyro-buster.json) |
 | Gyro Gear | 181724 | [181724-gyro-gear.json](./181724-gyro-gear.json) |
 | Gyro Gear Tournament+ | 211733 | [211733-gyro-gear-tournament.json](./211733-gyro-gear-tournament.json) |
 | Gyro Skate | 243730 | [243730-gyro-skate.json](./243730-gyro-skate.json) |
