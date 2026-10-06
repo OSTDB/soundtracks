@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman Fighting Evolution 2 | 72608 | [72608-ultraman-fighting-evolution-2.json](./72608-ultraman-fighting-evolution-2.json) |
 | Ultraman Fighting Evolution 3 | 72605 | [72605-ultraman-fighting-evolution-3.json](./72605-ultraman-fighting-evolution-3.json) |
 | Ultraman Nexus | 66390 | [66390-ultraman-nexus.json](./66390-ultraman-nexus.json) |
+| Ultraman Tiga & Ultraman Dyna: New Generations | 66409 | [66409-ultraman-tiga-and-ultraman-dyna-new-generations.json](./66409-ultraman-tiga-and-ultraman-dyna-new-generations.json) |
 | Ultraman: Alphabet TV he Youkoso | 63951 | [63951-ultraman-alphabet-tv-he-youkoso.json](./63951-ultraman-alphabet-tv-he-youkoso.json) |
 | Ultraman: Hiragana Daisakusen | 63950 | [63950-ultraman-hiragana-daisakusen.json](./63950-ultraman-hiragana-daisakusen.json) |
 | Ultraman: Kaijuu Daikessen | 385839 | [385839-ultraman-kaijuu-daikessen.json](./385839-ultraman-kaijuu-daikessen.json) |
