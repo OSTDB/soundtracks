@@ -5850,6 +5850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluedo: The Mysteries Continue | 45936 | [45936-cluedo-the-mysteries-continue.json](./45936-cluedo-the-mysteries-continue.json) |
 | ClueFinders Search and Solve Adventures: The Phantom Amusement Park | 186038 | [186038-cluefinders-search-and-solve-adventures-the-phantom-amusement-park.json](./186038-cluefinders-search-and-solve-adventures-the-phantom-amusement-park.json) |
 | Cluefinders: Math Adventures - Mystery of the Himalayas | 66092 | [66092-cluefinders-math-adventures-mystery-of-the-himalayas.json](./66092-cluefinders-math-adventures-mystery-of-the-himalayas.json) |
+| ClueFinders: Mystery Mansion Arcade | 76183 | [76183-cluefinders-mystery-mansion-arcade.json](./76183-cluefinders-mystery-mansion-arcade.json) |
 | Clueless Crosswords | 244830 | [244830-clueless-crosswords.json](./244830-clueless-crosswords.json) |
 | Clueless: The CD-ROM | 69852 | [69852-clueless-the-cd-rom.json](./69852-clueless-the-cd-rom.json) |
 | Clues By Sam | 352878 | [352878-clues-by-sam.json](./352878-clues-by-sam.json) |
