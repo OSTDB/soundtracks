@@ -2761,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masked Shooters Assault | 240490 | [240490-masked-shooters-assault.json](./240490-masked-shooters-assault.json) |
 | Masked Shooters Single-player | 240489 | [240489-masked-shooters-single-player.json](./240489-masked-shooters-single-player.json) |
 | Masked Wolf: Astronaut Tiles Hop Beat | 182442 | [182442-masked-wolf-astronaut-tiles-hop-beat.json](./182442-masked-wolf-astronaut-tiles-hop-beat.json) |
+| Masken | 103551 | [103551-masken.json](./103551-masken.json) |
 | Maskerade: The Deadpan Cry | 304100 | [304100-maskerade-the-deadpan-cry.json](./304100-maskerade-the-deadpan-cry.json) |
 | Masketeers: Idle has Fallen | 141488 | [141488-masketeers-idle-has-fallen.json](./141488-masketeers-idle-has-fallen.json) |
 | Maskim Xul | 256870 | [256870-maskim-xul.json](./256870-maskim-xul.json) |
@@ -3523,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: Path of Light - Forest Edition | 362372 | [362372-maze-path-of-light-forest-edition.json](./362372-maze-path-of-light-forest-edition.json) |
 | Maze: Shadow of Light | 109562 | [109562-maze-shadow-of-light.json](./109562-maze-shadow-of-light.json) |
 | Maze: Subject 360 - Collector's Edition | 32785 | [32785-maze-subject-360-collectors-edition.json](./32785-maze-subject-360-collectors-edition.json) |
+| Maze: The Amazing Labyrinth | 103554 | [103554-maze-the-amazing-labyrinth.json](./103554-maze-the-amazing-labyrinth.json) |
 | Mazebert TD | 207848 | [207848-mazebert-td.json](./207848-mazebert-td.json) |
 | MazeBrew | 242771 | [242771-mazebrew.json](./242771-mazebrew.json) |
 | MazeCraft | 365217 | [365217-mazecraft.json](./365217-mazecraft.json) |
@@ -7405,6 +7407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missileman Spy Strike 2 | 131603 | [131603-missileman-spy-strike-2.json](./131603-missileman-spy-strike-2.json) |
 | Missileman's Christmas Calamity | 392478 | [392478-missilemans-christmas-calamity.json](./392478-missilemans-christmas-calamity.json) |
 | Missiles Away | 254149 | [254149-missiles-away.json](./254149-missiles-away.json) |
+| Missiles! | 103351 | [103351-missiles.json](./103351-missiles.json) |
 | Missing | 153537 | [153537-missing.json](./153537-missing.json) |
 | Missing | 207870 | [207870-missing.json](./207870-missing.json) |
 | Missing | 213634 | [213634-missing.json](./213634-missing.json) |
