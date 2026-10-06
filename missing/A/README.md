@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Activision Anthology | 301430 | [301430-activision-anthology.json](./301430-activision-anthology.json) |
 | Activision Anthology: Remix Edition | 45979 | [45979-activision-anthology-remix-edition.json](./45979-activision-anthology-remix-edition.json) |
 | Activision's Commodore 64 15 Pack | 82061 | [82061-activisions-commodore-64-15-pack.json](./82061-activisions-commodore-64-15-pack.json) |
+| Activity Bingo Travel | 108908 | [108908-activity-bingo-travel.json](./108908-activity-bingo-travel.json) |
 | Actor Tycoon 2 | 142235 | [142235-actor-tycoon-2.json](./142235-actor-tycoon-2.json) |
 | Actorle | 320912 | [320912-actorle.json](./320912-actorle.json) |
 | Actraiser | 23597 | [23597-actraiser.json](./23597-actraiser.json) |
@@ -1541,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrift | 377088 | [377088-adrift.json](./377088-adrift.json) |
 | Adrift in Turbulent Waters | 201650 | [201650-adrift-in-turbulent-waters.json](./201650-adrift-in-turbulent-waters.json) |
 | Adrift Program | 269048 | [269048-adrift-program.json](./269048-adrift-program.json) |
+| ADsteroids | 108984 | [108984-adsteroids.json](./108984-adsteroids.json) |
 | Aduk: Curse of the Spirits | 379478 | [379478-aduk-curse-of-the-spirits.json](./379478-aduk-curse-of-the-spirits.json) |
 | Adult for Sex Motel | 288894 | [288894-adult-for-sex-motel.json](./288894-adult-for-sex-motel.json) |
 | Adult Puzzle: My Cute Neighbor Serene | 274684 | [274684-adult-puzzle-my-cute-neighbor-serene.json](./274684-adult-puzzle-my-cute-neighbor-serene.json) |
@@ -3805,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almost Reversi | 316407 | [316407-almost-reversi.json](./316407-almost-reversi.json) |
 | Almost There: The Platformer | 113722 | [113722-almost-there-the-platformer.json](./113722-almost-there-the-platformer.json) |
 | Alnahsha Run | 202235 | [202235-alnahsha-run.json](./202235-alnahsha-run.json) |
+| Alnam no Kiba: Juuzoku Juuni Shinto Densetsu | 108919 | [108919-alnam-no-kiba-juuzoku-juuni-shinto-densetsu.json](./108919-alnam-no-kiba-juuzoku-juuni-shinto-densetsu.json) |
 | Alnory | 60195 | [60195-alnory.json](./60195-alnory.json) |
 | Aloft | 204375 | [204375-aloft.json](./204375-aloft.json) |
 | Aloha Play | 91408 | [91408-aloha-play.json](./91408-aloha-play.json) |
@@ -8937,6 +8940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Quad Power Racing | 248615 | [248615-atv-quad-power-racing.json](./248615-atv-quad-power-racing.json) |
 | ATV Quad Power Racing | 4142 | [4142-atv-quad-power-racing.json](./4142-atv-quad-power-racing.json) |
 | ATV Racers | 62261 | [62261-atv-racers.json](./62261-atv-racers.json) |
+| ATV Stand Up Power Sports: Dirt Bike Racing Game | 108907 | [108907-atv-stand-up-power-sports-dirt-bike-racing-game.json](./108907-atv-stand-up-power-sports-dirt-bike-racing-game.json) |
 | ATV Stunt Racing: Extreme Offroad Simulator | 322658 | [322658-atv-stunt-racing-extreme-offroad-simulator.json](./322658-atv-stunt-racing-extreme-offroad-simulator.json) |
 | ATV Thunder Ridge Riders | 49369 | [49369-atv-thunder-ridge-riders.json](./49369-atv-thunder-ridge-riders.json) |
 | ATV Track | 250499 | [250499-atv-track.json](./250499-atv-track.json) |
