@@ -2339,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginger: The Tooth Fairy | 209134 | [209134-ginger-the-tooth-fairy.json](./209134-ginger-the-tooth-fairy.json) |
 | Ginger's Letter to Santa | 326745 | [326745-gingers-letter-to-santa.json](./326745-gingers-letter-to-santa.json) |
 | Gingerbread Holiday | 373006 | [373006-gingerbread-holiday.json](./373006-gingerbread-holiday.json) |
+| Gingerbread Story | 95642 | [95642-gingerbread-story.json](./95642-gingerbread-story.json) |
 | GingerSnap | 316184 | [316184-gingersnap.json](./316184-gingersnap.json) |
 | Giniro no Tou | 416051 | [416051-giniro-no-tou.json](./416051-giniro-no-tou.json) |
 | Ginkgo | 144975 | [144975-ginkgo.json](./144975-ginkgo.json) |
@@ -4725,6 +4726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Crab Grab | 336166 | [336166-green-crab-grab.json](./336166-green-crab-grab.json) |
 | Green Day Revenge | 66074 | [66074-green-day-revenge.json](./66074-green-day-revenge.json) |
 | Green Day: Dookie - Welcome to Paradise | 319233 | [319233-green-day-dookie-welcome-to-paradise.json](./319233-green-day-dookie-welcome-to-paradise.json) |
+| Green Devil: Fish and Grow | 95656 | [95656-green-devil-fish-and-grow.json](./95656-green-devil-fish-and-grow.json) |
 | Green Eyed Monster | 184034 | [184034-green-eyed-monster.json](./184034-green-eyed-monster.json) |
 | Green Fairy VR | 156984 | [156984-green-fairy-vr.json](./156984-green-fairy-vr.json) |
 | Green Farm 2 | 385048 | [385048-green-farm-2.json](./385048-green-farm-2.json) |
