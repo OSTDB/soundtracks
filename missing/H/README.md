@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack Grid | 169852 | [169852-hack-grid.json](./169852-hack-grid.json) |
 | Hack Match | 143035 | [143035-hack-match.json](./143035-hack-match.json) |
 | Hack Run | 16323 | [16323-hack-run.json](./16323-hack-run.json) |
+| Hack the Core | 108367 | [108367-hack-the-core.json](./108367-hack-the-core.json) |
 | Hack the Planet | 220339 | [220339-hack-the-planet.json](./220339-hack-the-planet.json) |
 | Hack the System | 236355 | [236355-hack-the-system.json](./236355-hack-the-system.json) |
 | Hack Time | 51450 | [51450-hack-time.json](./51450-hack-time.json) |
@@ -2013,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hebi no Inochi | 288873 | [288873-hebi-no-inochi.json](./288873-hebi-no-inochi.json) |
 | Hecatomb | 398404 | [398404-hecatomb.json](./398404-hecatomb.json) |
 | Hecaton | 133231 | [133231-hecaton.json](./133231-hecaton.json) |
+| HecatoncheirStory | 108358 | [108358-hecatoncheirstory.json](./108358-hecatoncheirstory.json) |
 | Héchéng Dà Xīguā | 296019 | [296019-hecheng-da-xigua.json](./296019-hecheng-da-xigua.json) |
 | Heck Deck | 154054 | [154054-heck-deck.json](./154054-heck-deck.json) |
 | Heckin' Slimes | 176788 | [176788-heckin-slimes.json](./176788-heckin-slimes.json) |
