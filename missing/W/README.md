@@ -5382,6 +5382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWTF | 110369 | [110369-wwtf.json](./110369-wwtf.json) |
 | Wyatt Derp | 57762 | [57762-wyatt-derp.json](./57762-wyatt-derp.json) |
 | Wyatt Derp 2: Peacekeeper | 57722 | [57722-wyatt-derp-2-peacekeeper.json](./57722-wyatt-derp-2-peacekeeper.json) |
+| Wyatt Earp's Old West | 58072 | [58072-wyatt-earps-old-west.json](./58072-wyatt-earps-old-west.json) |
 | Wyld Land | 334480 | [334480-wyld-land.json](./334480-wyld-land.json) |
 | Wyldheart | 395042 | [395042-wyldheart.json](./395042-wyldheart.json) |
 | WyndBlast | 234752 | [234752-wyndblast.json](./234752-wyndblast.json) |
