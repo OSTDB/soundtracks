@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call to Strike | 311133 | [311133-call-to-strike.json](./311133-call-to-strike.json) |
 | Call to Victory | 179483 | [179483-call-to-victory.json](./179483-call-to-victory.json) |
 | Callahan's Crosstime Saloon | 12410 | [12410-callahans-crosstime-saloon.json](./12410-callahans-crosstime-saloon.json) |
+| CallBack | 113575 | [113575-callback.json](./113575-callback.json) |
 | Callbreak League | 237635 | [237635-callbreak-league.json](./237635-callbreak-league.json) |
 | Caller of the Crows | 348857 | [348857-caller-of-the-crows.json](./348857-caller-of-the-crows.json) |
 | Calling | 403030 | [403030-calling.json](./403030-calling.json) |
@@ -7327,6 +7328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator 2015: Liebherr LTM 1300 6.2 | 168918 | [168918-construction-simulator-2015-liebherr-ltm-1300-6-2.json](./168918-construction-simulator-2015-liebherr-ltm-1300-6-2.json) |
 | Construction Simulator 2015: St. John's Hospital Fuchsberg | 168915 | [168915-construction-simulator-2015-st-johns-hospital-fuchsberg.json](./168915-construction-simulator-2015-st-johns-hospital-fuchsberg.json) |
 | Construction Simulator 2015: Vertical Skyline | 168917 | [168917-construction-simulator-2015-vertical-skyline.json](./168917-construction-simulator-2015-vertical-skyline.json) |
+| Construction Simulator 3 | 113630 | [113630-construction-simulator-3.json](./113630-construction-simulator-3.json) |
 | Construction Simulator 4 | 292143 | [292143-construction-simulator-4.json](./292143-construction-simulator-4.json) |
 | Construction Simulator PRO | 88470 | [88470-construction-simulator-pro.json](./88470-construction-simulator-pro.json) |
 | Construction Simulator: Evolution | 398522 | [398522-construction-simulator-evolution.json](./398522-construction-simulator-evolution.json) |
@@ -7785,6 +7787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core of Darkness | 117681 | [117681-core-of-darkness.json](./117681-core-of-darkness.json) |
 | Core of Innocence | 201127 | [201127-core-of-innocence.json](./201127-core-of-innocence.json) |
 | Core Panic! | 416669 | [416669-core-panic.json](./416669-core-panic.json) |
+| Core Rescue | 113613 | [113613-core-rescue.json](./113613-core-rescue.json) |
 | Core Runners | 417486 | [417486-core-runners.json](./417486-core-runners.json) |
 | Core-Blast | 242605 | [242605-core-blast.json](./242605-core-blast.json) |
 | Core: Licht | 204969 | [204969-core-licht.json](./204969-core-licht.json) |
@@ -8942,6 +8945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy module | 284986 | [284986-crazy-module.json](./284986-crazy-module.json) |
 | Crazy Mom | 310550 | [310550-crazy-mom.json](./310550-crazy-mom.json) |
 | Crazy Monster Truck Smasher | 89160 | [89160-crazy-monster-truck-smasher.json](./89160-crazy-monster-truck-smasher.json) |
+| Crazy Mosquito | 113579 | [113579-crazy-mosquito.json](./113579-crazy-mosquito.json) |
 | Crazy Mouse | 74410 | [74410-crazy-mouse.json](./74410-crazy-mouse.json) |
 | Crazy Music Tennis | 158611 | [158611-crazy-music-tennis.json](./158611-crazy-music-tennis.json) |
 | Crazy Neighbour | 405613 | [405613-crazy-neighbour.json](./405613-crazy-neighbour.json) |
