@@ -10462,6 +10462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whistle | 342837 | [342837-the-whistle.json](./342837-the-whistle.json) |
 | The White Butcher | 122799 | [122799-the-white-butcher.json](./122799-the-white-butcher.json) |
 | The White Day | 305343 | [305343-the-white-day.json](./305343-the-white-day.json) |
+| The White Diner | 117575 | [117575-the-white-diner.json](./117575-the-white-diner.json) |
 | The White Flower | 392801 | [392801-the-white-flower.json](./392801-the-white-flower.json) |
 | The White Hell | 390545 | [390545-the-white-hell.json](./390545-the-white-hell.json) |
 | The White Prison | 262912 | [262912-the-white-prison.json](./262912-the-white-prison.json) |
@@ -12874,6 +12875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeSplitters: Future Perfect | 317416 | [317416-timesplitters-future-perfect.json](./317416-timesplitters-future-perfect.json) |
 | Timestamps: Lost Love | 310041 | [310041-timestamps-lost-love.json](./310041-timestamps-lost-love.json) |
 | TimeTrain | 328629 | [328629-timetrain.json](./328629-timetrain.json) |
+| TimeWalker | 117607 | [117607-timewalker.json](./117607-timewalker.json) |
 | TimeWarp | 240909 | [240909-timewarp.json](./240909-timewarp.json) |
 | TimeWatch | 130909 | [130909-timewatch.json](./130909-timewatch.json) |
 | Timewreck Tales | 173037 | [173037-timewreck-tales.json](./173037-timewreck-tales.json) |
@@ -13132,6 +13134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
 | Tiny Whoop GO | 144143 | [144143-tiny-whoop-go.json](./144143-tiny-whoop-go.json) |
 | Tiny Wizard Tavern | 412388 | [412388-tiny-wizard-tavern.json](./412388-tiny-wizard-tavern.json) |
+| Tiny World | 117595 | [117595-tiny-world.json](./117595-tiny-world.json) |
 | Tiny World | 234586 | [234586-tiny-world.json](./234586-tiny-world.json) |
 | Tiny-Doc | 352347 | [352347-tiny-doc.json](./352347-tiny-doc.json) |
 | Tiny-Tasy Town | 103598 | [103598-tiny-tasy-town.json](./103598-tiny-tasy-town.json) |
@@ -13406,6 +13409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Rescue! 5 | 87221 | [87221-to-the-rescue-5.json](./87221-to-the-rescue-5.json) |
 | To the Stars | 211235 | [211235-to-the-stars.json](./211235-to-the-stars.json) |
 | To the Stars | 336917 | [336917-to-the-stars.json](./336917-to-the-stars.json) |
+| To the Stars and Beyond! | 117572 | [117572-to-the-stars-and-beyond.json](./117572-to-the-stars-and-beyond.json) |
 | To the Stars Idle | 396212 | [396212-to-the-stars-idle.json](./396212-to-the-stars-idle.json) |
 | To the Sunset | 374781 | [374781-to-the-sunset.json](./374781-to-the-sunset.json) |
 | To the Top | 219534 | [219534-to-the-top.json](./219534-to-the-top.json) |
