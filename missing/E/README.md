@@ -2385,6 +2385,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Battle Simulator | 99694 | [99694-epic-battle-simulator.json](./99694-epic-battle-simulator.json) |
 | Epic Battle Simulator 2 | 75046 | [75046-epic-battle-simulator-2.json](./75046-epic-battle-simulator-2.json) |
 | Epic Battles of History | 158613 | [158613-epic-battles-of-history.json](./158613-epic-battles-of-history.json) |
+| Epic Beard | 62031 | [62031-epic-beard.json](./62031-epic-beard.json) |
+| Epic Beard 2 | 62028 | [62028-epic-beard-2.json](./62028-epic-beard-2.json) |
 | Epic Blood Quest | 180185 | [180185-epic-blood-quest.json](./180185-epic-blood-quest.json) |
 | Epic Boss Fighter | 242592 | [242592-epic-boss-fighter.json](./242592-epic-boss-fighter.json) |
 | Epic Car Factory | 97568 | [97568-epic-car-factory.json](./97568-epic-car-factory.json) |
