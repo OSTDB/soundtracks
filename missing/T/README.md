@@ -8324,6 +8324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
 | The Player RPG | 102121 | [102121-the-player-rpg.json](./102121-the-player-rpg.json) |
 | The Playful Triangle | 309454 | [309454-the-playful-triangle.json](./309454-the-playful-triangle.json) |
+| The Playroom | 89494 | [89494-the-playroom.json](./89494-the-playroom.json) |
 | The Playroom 2 | 124137 | [124137-the-playroom-2.json](./124137-the-playroom-2.json) |
 | The Playroom: AR Studio | 296039 | [296039-the-playroom-ar-studio.json](./296039-the-playroom-ar-studio.json) |
 | The Plight of the Cracked | 391849 | [391849-the-plight-of-the-cracked.json](./391849-the-plight-of-the-cracked.json) |
@@ -14500,6 +14501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torpedo Boat | 239648 | [239648-torpedo-boat.json](./239648-torpedo-boat.json) |
 | Torpedo Fire | 23998 | [23998-torpedo-fire.json](./23998-torpedo-fire.json) |
 | Torpedorun | 58872 | [58872-torpedorun.json](./58872-torpedorun.json) |
+| TorpedoRun Naval War | 89525 | [89525-torpedorun-naval-war.json](./89525-torpedorun-naval-war.json) |
 | Torque | 179604 | [179604-torque.json](./179604-torque.json) |
 | Torque Drift 2 | 271277 | [271277-torque-drift-2.json](./271277-torque-drift-2.json) |
 | Torqued Up Legends | 141879 | [141879-torqued-up-legends.json](./141879-torqued-up-legends.json) |
@@ -17598,6 +17600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck World: Driving School | 211709 | [211709-truck-world-driving-school.json](./211709-truck-world-driving-school.json) |
 | Truck Zombie | 109920 | [109920-truck-zombie.json](./109920-truck-zombie.json) |
 | Trucker | 25425 | [25425-trucker.json](./25425-trucker.json) |
+| Trucker Transporter 2 - Parking Simulator | 89516 | [89516-trucker-transporter-2-parking-simulator.json](./89516-trucker-transporter-2-parking-simulator.json) |
 | Truckin' It! | 382338 | [382338-truckin-it.json](./382338-truckin-it.json) |
 | Trucking | 114961 | [114961-trucking.json](./114961-trucking.json) |
 | Trucks & Trailers | 10290 | [10290-trucks-and-trailers.json](./10290-trucks-and-trailers.json) |
