@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re-Bounder | 40940 | [40940-re-bounder.json](./40940-re-bounder.json) |
 | Re-Exit | 336728 | [336728-re-exit.json](./336728-re-exit.json) |
 | Re-Fracture: The Prophet’s Awakening | 348410 | [348410-re-fracture-the-prophet-s-awakening.json](./348410-re-fracture-the-prophet-s-awakening.json) |
+| Re-Loaded | 72263 | [72263-re-loaded.json](./72263-re-loaded.json) |
 | Re-Nullum | 149466 | [149466-re-nullum.json](./149466-re-nullum.json) |
 | Re-O-Ri | 111493 | [111493-re-o-ri.json](./111493-re-o-ri.json) |
 | Re-Pair | 139249 | [139249-re-pair.json](./139249-re-pair.json) |
@@ -1684,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Time Conflict: Shogun Empires | 20494 | [20494-real-time-conflict-shogun-empires.json](./20494-real-time-conflict-shogun-empires.json) |
 | Real Truck Simulator 2022 | 219283 | [219283-real-truck-simulator-2022.json](./219283-real-truck-simulator-2022.json) |
 | Real Truck Simulator USA Car Games: Premium Millionaire Bundle | 328989 | [328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json](./328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json) |
+| Real War: Rogue States | 72294 | [72294-real-war-rogue-states.json](./72294-real-war-rogue-states.json) |
 | Real Warfare 1242 | 9856 | [9856-real-warfare-1242.json](./9856-real-warfare-1242.json) |
 | Real Winners | 105547 | [105547-real-winners.json](./105547-real-winners.json) |
 | Real Winners: Victoryball | 109659 | [109659-real-winners-victoryball.json](./109659-real-winners-victoryball.json) |
@@ -5843,6 +5845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollo Pollo | 348352 | [348352-rollo-pollo.json](./348352-rollo-pollo.json) |
 | RollOn | 194388 | [194388-rollon.json](./194388-rollon.json) |
 | Rollout | 31870 | [31870-rollout.json](./31870-rollout.json) |
+| RollOver | 72302 | [72302-rollover.json](./72302-rollover.json) |
 | Rollover Alien | 358490 | [358490-rollover-alien.json](./358490-rollover-alien.json) |
 | Rolloverture | 40914 | [40914-rolloverture.json](./40914-rolloverture.json) |
 | Rollovski | 202151 | [202151-rollovski.json](./202151-rollovski.json) |
