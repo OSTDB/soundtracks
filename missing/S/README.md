@@ -8562,6 +8562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Below | 269844 | [269844-so-below.json](./269844-so-below.json) |
 | So Far, So High | 191647 | [191647-so-far-so-high.json](./191647-so-far-so-high.json) |
 | So Fart Away: Jam Edition | 255391 | [255391-so-fart-away-jam-edition.json](./255391-so-fart-away-jam-edition.json) |
+| So How About Swapping Our Wives and Disciplining Them? | 98498 | [98498-so-how-about-swapping-our-wives-and-disciplining-them.json](./98498-so-how-about-swapping-our-wives-and-disciplining-them.json) |
 | So I bought a little chainsaw | 367599 | [367599-so-i-bought-a-little-chainsaw.json](./367599-so-i-bought-a-little-chainsaw.json) |
 | So I'm a Spider, So What? Ruler of the Labyrinth | 323711 | [323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json](./323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json) |
 | So Let Us Melt | 68276 | [68276-so-let-us-melt.json](./68276-so-let-us-melt.json) |
@@ -10856,6 +10857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Moonshiner | 230969 | [230969-space-moonshiner.json](./230969-space-moonshiner.json) |
 | Space Moth DX | 33928 | [33928-space-moth-dx.json](./33928-space-moth-dx.json) |
 | Space Mouse 2 | 149507 | [149507-space-mouse-2.json](./149507-space-mouse-2.json) |
+| Space Mouse: 35th Anniversary Edition | 98525 | [98525-space-mouse-35th-anniversary-edition.json](./98525-space-mouse-35th-anniversary-edition.json) |
 | Space Mutants | 283803 | [283803-space-mutants.json](./283803-space-mutants.json) |
 | Space Nature Attack Tower Defense | 287222 | [287222-space-nature-attack-tower-defense.json](./287222-space-nature-attack-tower-defense.json) |
 | Space on the Case | 310961 | [310961-space-on-the-case.json](./310961-space-on-the-case.json) |
@@ -11735,6 +11737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelunker Black | 81451 | [81451-spelunker-black.json](./81451-spelunker-black.json) |
 | Spelunker HD | 45281 | [45281-spelunker-hd.json](./45281-spelunker-hd.json) |
 | Spelunker HD Deluxe: Limited Edition | 167149 | [167149-spelunker-hd-deluxe-limited-edition.json](./167149-spelunker-hd-deluxe-limited-edition.json) |
+| Spelunker II: 23 no Kagi | 98524 | [98524-spelunker-ii-23-no-kagi.json](./98524-spelunker-ii-23-no-kagi.json) |
 | Spelunker Party | 68534 | [68534-spelunker-party.json](./68534-spelunker-party.json) |
 | Spelunker World | 21587 | [21587-spelunker-world.json](./21587-spelunker-world.json) |
 | Spelunker: Collection | 45280 | [45280-spelunker-collection.json](./45280-spelunker-collection.json) |
@@ -15764,6 +15767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Rush: 3D Buggy Racing | 246985 | [246985-stunt-rush-3d-buggy-racing.json](./246985-stunt-rush-3d-buggy-racing.json) |
 | Stunt Scooter Simulator | 294833 | [294833-stunt-scooter-simulator.json](./294833-stunt-scooter-simulator.json) |
 | Stunt Wheels | 261843 | [261843-stunt-wheels.json](./261843-stunt-wheels.json) |
+| Stunt Wheels Party! | 98533 | [98533-stunt-wheels-party.json](./98533-stunt-wheels-party.json) |
 | Stuntcar Extreme | 73246 | [73246-stuntcar-extreme.json](./73246-stuntcar-extreme.json) |
 | StuntCopter! | 108515 | [108515-stuntcopter.json](./108515-stuntcopter.json) |
 | Stuntman | 197884 | [197884-stuntman.json](./197884-stuntman.json) |
@@ -19074,6 +19078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap Motion | 316134 | [316134-swap-motion.json](./316134-swap-motion.json) |
 | Swap n Merge | 121509 | [121509-swap-n-merge.json](./121509-swap-n-merge.json) |
 | Swap Swap | 110536 | [110536-swap-swap.json](./110536-swap-swap.json) |
+| Swap Sword | 98539 | [98539-swap-sword.json](./98539-swap-sword.json) |
 | Swap the Matrix | 54417 | [54417-swap-the-matrix.json](./54417-swap-the-matrix.json) |
 | Swap-Swap Panda | 336122 | [336122-swap-swap-panda.json](./336122-swap-swap-panda.json) |
 | Swap: Mobile Edition | 250439 | [250439-swap-mobile-edition.json](./250439-swap-mobile-edition.json) |
