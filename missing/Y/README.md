@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Capsule Monster Coliseum | 43617 | [43617-yu-gi-oh-capsule-monster-coliseum.json](./43617-yu-gi-oh-capsule-monster-coliseum.json) |
 | Yu-Gi-Oh! Cross Duel | 174874 | [174874-yu-gi-oh-cross-duel.json](./174874-yu-gi-oh-cross-duel.json) |
 | Yu-Gi-Oh! Double Pack | 79360 | [79360-yu-gi-oh-double-pack.json](./79360-yu-gi-oh-double-pack.json) |
+| Yu-Gi-Oh! Double Pack 2 | 80801 | [80801-yu-gi-oh-double-pack-2.json](./80801-yu-gi-oh-double-pack-2.json) |
 | Yu-Gi-Oh! Duel Generation | 79358 | [79358-yu-gi-oh-duel-generation.json](./79358-yu-gi-oh-duel-generation.json) |
 | Yu-Gi-Oh! Duel Links | 27093 | [27093-yu-gi-oh-duel-links.json](./27093-yu-gi-oh-duel-links.json) |
 | Yu-Gi-Oh! Duel Monsters | 57150 | [57150-yu-gi-oh-duel-monsters.json](./57150-yu-gi-oh-duel-monsters.json) |
