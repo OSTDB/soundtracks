@@ -1289,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo: Shinjuku Chuuou Kouen Satsujin Jiken | 41412 | [41412-tantei-jinguji-saburo-shinjuku-chuuou-kouen-satsujin-jiken.json](./41412-tantei-jinguji-saburo-shinjuku-chuuou-kouen-satsujin-jiken.json) |
 | Tantei Jinguji Saburo: Toki no Sugiyuku Mama ni | 48883 | [48883-tantei-jinguji-saburo-toki-no-sugiyuku-mama-ni.json](./48883-tantei-jinguji-saburo-toki-no-sugiyuku-mama-ni.json) |
 | Tantei Jinguji Saburo: Tsubaki no Yukue & Nazono-Jikenbo | 347299 | [347299-tantei-jinguji-saburo-tsubaki-no-yukue-and-nazono-jikenbo.json](./347299-tantei-jinguji-saburo-tsubaki-no-yukue-and-nazono-jikenbo.json) |
+| Tantei Jinguji Saburo: Yokohama-ko Renzoku Satsujin Jiken | 80147 | [80147-tantei-jinguji-saburo-yokohama-ko-renzoku-satsujin-jiken.json](./80147-tantei-jinguji-saburo-yokohama-ko-renzoku-satsujin-jiken.json) |
 | Tantei Kibukawa Ryosuke Jiken Tan: The Masquerade Lullaby | 124070 | [124070-tantei-kibukawa-ryosuke-jiken-tan-the-masquerade-lullaby.json](./124070-tantei-kibukawa-ryosuke-jiken-tan-the-masquerade-lullaby.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan Kamen Genei Satsujin Jiken Introduction | 298797 | [298797-tantei-kibukawa-ryousuke-jiken-tan-kamen-genei-satsujin-jiken-introduction.json](./298797-tantei-kibukawa-ryousuke-jiken-tan-kamen-genei-satsujin-jiken-introduction.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan Vol. 7: Otonari Keiji no Sousa Memo | 297585 | [297585-tantei-kibukawa-ryousuke-jiken-tan-vol-7-otonari-keiji-no-sousa-memo.json](./297585-tantei-kibukawa-ryousuke-jiken-tan-vol-7-otonari-keiji-no-sousa-memo.json) |
@@ -11555,6 +11556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Force IV | 254613 | [254613-thunder-force-iv.json](./254613-thunder-force-iv.json) |
 | Thunder Force V: Perfect System | 43913 | [43913-thunder-force-v-perfect-system.json](./43913-thunder-force-v-perfect-system.json) |
 | Thunder Force: Gold Pack 1 | 100138 | [100138-thunder-force-gold-pack-1.json](./100138-thunder-force-gold-pack-1.json) |
+| Thunder Force: Gold Pack 2 | 80164 | [80164-thunder-force-gold-pack-2.json](./80164-thunder-force-gold-pack-2.json) |
 | Thunder Fox | 39888 | [39888-thunder-fox.json](./39888-thunder-fox.json) |
 | Thunder Hawk | 354645 | [354645-thunder-hawk.json](./354645-thunder-hawk.json) |
 | Thunder Helix | 211162 | [211162-thunder-helix.json](./211162-thunder-helix.json) |
@@ -14519,6 +14521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornado Baseball / Tennis / Handball / Hockey | 93564 | [93564-tornado-baseball-tennis-handball-hockey.json](./93564-tornado-baseball-tennis-handball-hockey.json) |
 | Tornado ECR | 109170 | [109170-tornado-ecr.json](./109170-tornado-ecr.json) |
 | Tornado Emergency | 301244 | [301244-tornado-emergency.json](./301244-tornado-emergency.json) |
+| Tornado Jockey | 80133 | [80133-tornado-jockey.json](./80133-tornado-jockey.json) |
 | Tornado Mania! | 241466 | [241466-tornado-mania.json](./241466-tornado-mania.json) |
 | Tornado Raid / Tornado Blade | 297722 | [297722-tornado-raid-tornado-blade.json](./297722-tornado-raid-tornado-blade.json) |
 | Tornado: Low Level | 23052 | [23052-tornado-low-level.json](./23052-tornado-low-level.json) |
@@ -18099,6 +18102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turleon | 390755 | [390755-turleon.json](./390755-turleon.json) |
 | Turlock Holmes | 286086 | [286086-turlock-holmes.json](./286086-turlock-holmes.json) |
 | Turma da Mônica em O Resgate | 246679 | [246679-turma-da-monica-em-o-resgate.json](./246679-turma-da-monica-em-o-resgate.json) |
+| Turma da Mônica em: O Resgate | 80132 | [80132-turma-da-monica-em-o-resgate.json](./80132-turma-da-monica-em-o-resgate.json) |
 | Turma da Mônica na Terra dos Monstros | 98931 | [98931-turma-da-monica-na-terra-dos-monstros.json](./98931-turma-da-monica-na-terra-dos-monstros.json) |
 | Turma do Arrepio: Grand Prix | 249456 | [249456-turma-do-arrepio-grand-prix.json](./249456-turma-do-arrepio-grand-prix.json) |
 | Turma do Chico Bento | 251580 | [251580-turma-do-chico-bento.json](./251580-turma-do-chico-bento.json) |
