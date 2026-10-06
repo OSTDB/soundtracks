@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | _________ (What Even Is That Thing?) | 186066 | [186066-what-even-is-that-thing.json](./186066-what-even-is-that-thing.json) |
 | __________ | 176875 | [176875-.json](./176875-.json) |
 | _Message: | 273453 | [273453-message.json](./273453-message.json) |
+| _Prism | 95694 | [95694-prism.json](./95694-prism.json) |
 | _Turing | 306086 | [306086-turing.json](./306086-turing.json) |
 | -256 | 245917 | [245917-256.json](./245917-256.json) |
 | -Space Hunter- | 125156 | [125156-space-hunter.json](./125156-space-hunter.json) |
@@ -970,8 +971,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2X | 208984 | [208984-2x.json](./208984-2x.json) |
 | 2x4 Nails | 258003 | [258003-2x4-nails.json](./258003-2x4-nails.json) |
 | 2XL ATV Offroad | 197676 | [197676-2xl-atv-offroad.json](./197676-2xl-atv-offroad.json) |
+| 2XL Snocross | 95653 | [95653-2xl-snocross.json](./95653-2xl-snocross.json) |
 | 2XL Supercross | 69327 | [69327-2xl-supercross.json](./69327-2xl-supercross.json) |
 | 2XL Supercross HD | 96726 | [96726-2xl-supercross-hd.json](./96726-2xl-supercross-hd.json) |
+| 2XL Trophylite Rally | 95678 | [95678-2xl-trophylite-rally.json](./95678-2xl-trophylite-rally.json) |
 | 2Xtreme | 45105 | [45105-2xtreme.json](./45105-2xtreme.json) |
 | 3 BigEggs | 99572 | [99572-3-bigeggs.json](./99572-3-bigeggs.json) |
 | 3 Coins At School | 32980 | [32980-3-coins-at-school.json](./32980-3-coins-at-school.json) |
@@ -1414,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 555! | 241328 | [241328-555.json](./241328-555.json) |
 | 57° North for Merge Cube | 90141 | [90141-57-north-for-merge-cube.json](./90141-57-north-for-merge-cube.json) |
 | 59 Fucks the Machine | 257540 | [257540-59-fucks-the-machine.json](./257540-59-fucks-the-machine.json) |
+| 59049 | 95672 | [95672-59049.json](./95672-59049.json) |
 | 5D Chess With Multiverse Time Travel Chatting | 411803 | [411803-5d-chess-with-multiverse-time-travel-chatting.json](./411803-5d-chess-with-multiverse-time-travel-chatting.json) |
 | 5D Diplomacy with Multiverse Time Travel | 330835 | [330835-5d-diplomacy-with-multiverse-time-travel.json](./330835-5d-diplomacy-with-multiverse-time-travel.json) |
 | 5G VR Football | 191163 | [191163-5g-vr-football.json](./191163-5g-vr-football.json) |
