@@ -1765,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Dash: 2.0 Update | 374301 | [374301-geometry-dash-2-0-update.json](./374301-geometry-dash-2-0-update.json) |
 | Geometry Dash: 2.1 Update | 374302 | [374302-geometry-dash-2-1-update.json](./374302-geometry-dash-2-1-update.json) |
 | Geometry Dash: 2.2 Update | 374303 | [374303-geometry-dash-2-2-update.json](./374303-geometry-dash-2-2-update.json) |
+| Geometry Defense | 98526 | [98526-geometry-defense.json](./98526-geometry-defense.json) |
 | Geometry Dodge Pro | 86908 | [86908-geometry-dodge-pro.json](./86908-geometry-dodge-pro.json) |
 | Geometry Hero | 126612 | [126612-geometry-hero.json](./126612-geometry-hero.json) |
 | Geometry League | 238986 | [238986-geometry-league.json](./238986-geometry-league.json) |
@@ -2449,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls of The Tower: Journey To Chaos | 305772 | [305772-girls-of-the-tower-journey-to-chaos.json](./305772-girls-of-the-tower-journey-to-chaos.json) |
 | Girls on puzzle | 156625 | [156625-girls-on-puzzle.json](./156625-girls-on-puzzle.json) |
 | Girls on puzzle 4 | 156622 | [156622-girls-on-puzzle-4.json](./156622-girls-on-puzzle-4.json) |
+| Girls on Tanks | 98504 | [98504-girls-on-tanks.json](./98504-girls-on-tanks.json) |
 | Girls Overboard | 167173 | [167173-girls-overboard.json](./167173-girls-overboard.json) |
 | Girls Pinball | 157575 | [157575-girls-pinball.json](./157575-girls-pinball.json) |
 | Girls Pinball: DLC1 | 157576 | [157576-girls-pinball-dlc1.json](./157576-girls-pinball-dlc1.json) |
