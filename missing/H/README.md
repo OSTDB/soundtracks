@@ -1688,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Panic | 39683 | [39683-head-panic.json](./39683-head-panic.json) |
 | Head Reattachment Trauma | 271249 | [271249-head-reattachment-trauma.json](./271249-head-reattachment-trauma.json) |
 | Head Shot | 32472 | [32472-head-shot.json](./32472-head-shot.json) |
+| Head Shot God | 79523 | [79523-head-shot-god.json](./79523-head-shot-god.json) |
 | Head Soccer | 260094 | [260094-head-soccer.json](./260094-head-soccer.json) |
 | Head Soccer | 87430 | [87430-head-soccer.json](./87430-head-soccer.json) |
 | Head to Head Football | 217833 | [217833-head-to-head-football.json](./217833-head-to-head-football.json) |
@@ -2586,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helping Hand | 104858 | [104858-helping-hand.json](./104858-helping-hand.json) |
 | Helping Hand | 365739 | [365739-helping-hand.json](./365739-helping-hand.json) |
 | Helpless Zombies | 96938 | [96938-helpless-zombies.json](./96938-helpless-zombies.json) |
+| Helsingfors | 79559 | [79559-helsingfors.json](./79559-helsingfors.json) |
 | Heltons Haunted Hotel | 148371 | [148371-heltons-haunted-hotel.json](./148371-heltons-haunted-hotel.json) |
 | Helvetii | 119673 | [119673-helvetii.json](./119673-helvetii.json) |
 | Helwyr | 148551 | [148551-helwyr.json](./148551-helwyr.json) |
