@@ -4727,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Rally | 46834 | [46834-world-rally.json](./46834-world-rally.json) |
 | World Rally Championship | 8313 | [8313-world-rally-championship.json](./8313-world-rally-championship.json) |
 | World Reborn | 49502 | [49502-world-reborn.json](./49502-world-reborn.json) |
+| World Revolution | 84454 | [84454-world-revolution.json](./84454-world-revolution.json) |
 | World Robot Boxing 2 | 196302 | [196302-world-robot-boxing-2.json](./196302-world-robot-boxing-2.json) |
 | World Seed Classic | 129736 | [129736-world-seed-classic.json](./129736-world-seed-classic.json) |
 | World Senate Game - Free Online Multiplayer Game | 145434 | [145434-world-senate-game-free-online-multiplayer-game.json](./145434-world-senate-game-free-online-multiplayer-game.json) |
