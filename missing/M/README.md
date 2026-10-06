@@ -2679,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvellous Inc.: MarvGPT | 296521 | [296521-marvellous-inc-marvgpt.json](./296521-marvellous-inc-marvgpt.json) |
 | Marvellous Journeys Bundle | 196282 | [196282-marvellous-journeys-bundle.json](./196282-marvellous-journeys-bundle.json) |
 | Marvelous: Mouhitotsu no Takarajima | 15837 | [15837-marvelous-mouhitotsu-no-takarajima.json](./15837-marvelous-mouhitotsu-no-takarajima.json) |
+| Marvin the Hatter | 116937 | [116937-marvin-the-hatter.json](./116937-marvin-the-hatter.json) |
 | Marwan's Haunting | 258509 | [258509-marwans-haunting.json](./258509-marwans-haunting.json) |
 | Mary Had a Little Lamb | 241458 | [241458-mary-had-a-little-lamb.json](./241458-mary-had-a-little-lamb.json) |
 | Mary Had A Lost Lamb | 314072 | [314072-mary-had-a-lost-lamb.json](./314072-mary-had-a-lost-lamb.json) |
@@ -3065,6 +3066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match the Monsters! | 311693 | [311693-match-the-monsters.json](./311693-match-the-monsters.json) |
 | Match Three Fun | 99144 | [99144-match-three-fun.json](./99144-match-three-fun.json) |
 | Match Three Pack | 244821 | [244821-match-three-pack.json](./244821-match-three-pack.json) |
+| Match Three Pirates! Heir to Davy Jones | 116917 | [116917-match-three-pirates-heir-to-davy-jones.json](./116917-match-three-pirates-heir-to-davy-jones.json) |
 | Match Tree | 282693 | [282693-match-tree.json](./282693-match-tree.json) |
 | Match Up | 81405 | [81405-match-up.json](./81405-match-up.json) |
 | Match Up! | 85618 | [85618-match-up.json](./85618-match-up.json) |
@@ -5192,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Clash | 40355 | [40355-metal-clash.json](./40355-metal-clash.json) |
 | Metal Coffin | 335256 | [335256-metal-coffin.json](./335256-metal-coffin.json) |
 | Metal Combat | 209523 | [209523-metal-combat.json](./209523-metal-combat.json) |
+| Metal Country | 116933 | [116933-metal-country.json](./116933-metal-country.json) |
 | Metal Crisis | 368579 | [368579-metal-crisis.json](./368579-metal-crisis.json) |
 | Metal Dead | 17433 | [17433-metal-dead.json](./17433-metal-dead.json) |
 | Metal Detecting Simulator | 235768 | [235768-metal-detecting-simulator.json](./235768-metal-detecting-simulator.json) |
@@ -5736,6 +5739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroLink Shut the Box | 74063 | [74063-microlink-shut-the-box.json](./74063-microlink-shut-the-box.json) |
 | Micromon Adventures | 105865 | [105865-micromon-adventures.json](./105865-micromon-adventures.json) |
 | Micron Defense Force | 303062 | [303062-micron-defense-force.json](./303062-micron-defense-force.json) |
+| Micronomicon: Heroes | 116919 | [116919-micronomicon-heroes.json](./116919-micronomicon-heroes.json) |
 | Micropede | 14504 | [14504-micropede.json](./14504-micropede.json) |
 | Micropolis | 46622 | [46622-micropolis.json](./46622-micropolis.json) |
 | MicroProse Entertainment Pack Vol #1: Dr Floyd's Desktop Toys | 98962 | [98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json](./98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json) |
@@ -6743,6 +6747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Clicker | 387598 | [387598-miner-clicker.json](./387598-miner-clicker.json) |
 | Miner Escape: Puzzle Adventure | 296425 | [296425-miner-escape-puzzle-adventure.json](./296425-miner-escape-puzzle-adventure.json) |
 | Miner Gun Builder | 248159 | [248159-miner-gun-builder.json](./248159-miner-gun-builder.json) |
+| Miner Lou | 116918 | [116918-miner-lou.json](./116918-miner-lou.json) |
 | Miner Man | 391215 | [391215-miner-man.json](./391215-miner-man.json) |
 | Miner Problem | 180117 | [180117-miner-problem.json](./180117-miner-problem.json) |
 | Miner Rogue | 290391 | [290391-miner-rogue.json](./290391-miner-rogue.json) |
