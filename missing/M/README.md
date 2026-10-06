@@ -3582,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Slider | 143969 | [143969-maze-slider.json](./143969-maze-slider.json) |
 | Maze Survivor | 408979 | [408979-maze-survivor.json](./408979-maze-survivor.json) |
 | Maze Tanks | 252222 | [252222-maze-tanks.json](./252222-maze-tanks.json) |
+| Maze Trials | 67601 | [67601-maze-trials.json](./67601-maze-trials.json) |
 | Maze Twister | 191820 | [191820-maze-twister.json](./191820-maze-twister.json) |
 | Maze Walk VR - Virtual Reality Game Puzzle Apps | 88063 | [88063-maze-walk-vr-virtual-reality-game-puzzle-apps.json](./88063-maze-walk-vr-virtual-reality-game-puzzle-apps.json) |
 | Maze Wars | 116316 | [116316-maze-wars.json](./116316-maze-wars.json) |
@@ -11740,6 +11741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myself;Yourself: Sorezore no Finale | 325278 | [325278-myself-yourself-sorezore-no-finale.json](./325278-myself-yourself-sorezore-no-finale.json) |
 | MySims | 2689 | [2689-mysims.json](./2689-mysims.json) |
 | MySims Agents | 5035 | [5035-mysims-agents.json](./5035-mysims-agents.json) |
+| MySims Camera | 67631 | [67631-mysims-camera.json](./67631-mysims-camera.json) |
 | MySims Friends | 323835 | [323835-mysims-friends.json](./323835-mysims-friends.json) |
 | MySims Kingdom | 201341 | [201341-mysims-kingdom.json](./201341-mysims-kingdom.json) |
 | MySims Kingdom | 336028 | [336028-mysims-kingdom.json](./336028-mysims-kingdom.json) |
