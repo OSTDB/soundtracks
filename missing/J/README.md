@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackass: The Game | 2805 | [2805-jackass-the-game.json](./2805-jackass-the-game.json) |
 | Jackass: The Game DS | 79808 | [79808-jackass-the-game-ds.json](./79808-jackass-the-game-ds.json) |
 | Jacked | 124685 | [124685-jacked.json](./124685-jacked.json) |
+| Jackhammer Tower | 96919 | [96919-jackhammer-tower.json](./96919-jackhammer-tower.json) |
 | Jackie Chan in Fists of Fire | 39606 | [39606-jackie-chan-in-fists-of-fire.json](./39606-jackie-chan-in-fists-of-fire.json) |
 | Jackie Chan: The Kung-Fu Master | 39607 | [39607-jackie-chan-the-kung-fu-master.json](./39607-jackie-chan-the-kung-fu-master.json) |
 | Jackie Chan's Action Kung Fu | 12522 | [12522-jackie-chans-action-kung-fu.json](./12522-jackie-chans-action-kung-fu.json) |
