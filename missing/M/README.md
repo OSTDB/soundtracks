@@ -10609,6 +10609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Catch 2 | 216325 | [216325-music-catch-2.json](./216325-music-catch-2.json) |
 | Music Chase 1: The Music In Me | 399836 | [399836-music-chase-1-the-music-in-me.json](./399836-music-chase-1-the-music-in-me.json) |
 | Music Club Manager | 126616 | [126616-music-club-manager.json](./126616-music-club-manager.json) |
+| Music Composer | 100301 | [100301-music-composer.json](./100301-music-composer.json) |
 | Music Drive | 273994 | [273994-music-drive.json](./273994-music-drive.json) |
 | Music Drive: Chase the Beat | 351004 | [351004-music-drive-chase-the-beat.json](./351004-music-drive-chase-the-beat.json) |
 | Music Escape | 115137 | [115137-music-escape.json](./115137-music-escape.json) |
@@ -10616,6 +10617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music GunGun! | 64963 | [64963-music-gungun.json](./64963-music-gungun.json) |
 | Music in Motion | 265745 | [265745-music-in-motion.json](./265745-music-in-motion.json) |
 | Music Intro Pro 68K | 265972 | [265972-music-intro-pro-68k.json](./265972-music-intro-pro-68k.json) |
+| Music Maker | 100265 | [100265-music-maker.json](./100265-music-maker.json) |
 | Music Master Chopin | 62679 | [62679-music-master-chopin.json](./62679-music-master-chopin.json) |
 | Music on: Acoustic Guitar | 79882 | [79882-music-on-acoustic-guitar.json](./79882-music-on-acoustic-guitar.json) |
 | Music on: Electric Guitar | 79881 | [79881-music-on-electric-guitar.json](./79881-music-on-electric-guitar.json) |
