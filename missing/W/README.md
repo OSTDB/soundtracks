@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Dimension | 172034 | [172034-web-dimension.json](./172034-web-dimension.json) |
 | Web Earth Online | 392155 | [392155-web-earth-online.json](./392155-web-earth-online.json) |
 | Web Koihime Musou | 64169 | [64169-web-koihime-musou.json](./64169-web-koihime-musou.json) |
+| Web Mystery: Yochimu wo Miru Neko | 59815 | [59815-web-mystery-yochimu-wo-miru-neko.json](./59815-web-mystery-yochimu-wo-miru-neko.json) |
 | Web no Naka no Kanojo: Password ni Himerareta Nazo | 237434 | [237434-web-no-naka-no-kanojo-password-ni-himerareta-nazo.json](./237434-web-no-naka-no-kanojo-password-ni-himerareta-nazo.json) |
 | Web or Dead | 236272 | [236272-web-or-dead.json](./236272-web-or-dead.json) |
 | Web Power Dolls | 228983 | [228983-web-power-dolls.json](./228983-web-power-dolls.json) |
@@ -4110,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonka's World of Candy | 112151 | [112151-wonkas-world-of-candy.json](./112151-wonkas-world-of-candy.json) |
 | WonkaZoid: Oompa Candy Flip | 313237 | [313237-wonkazoid-oompa-candy-flip.json](./313237-wonkazoid-oompa-candy-flip.json) |
 | WonkaZoid: Shockball Showdown | 313238 | [313238-wonkazoid-shockball-showdown.json](./313238-wonkazoid-shockball-showdown.json) |
+| Wonky Ship | 59821 | [59821-wonky-ship.json](./59821-wonky-ship.json) |
 | Wonky Ship: Black Hole Down | 168322 | [168322-wonky-ship-black-hole-down.json](./168322-wonky-ship-black-hole-down.json) |
 | Wonky Works! | 189051 | [189051-wonky-works.json](./189051-wonky-works.json) |
 | Woo Woo | 388919 | [388919-woo-woo.json](./388919-woo-woo.json) |
