@@ -3360,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noble | 176975 | [176975-noble.json](./176975-noble.json) |
 | Noble Armada: Lost Worlds | 107897 | [107897-noble-armada-lost-worlds.json](./107897-noble-armada-lost-worlds.json) |
 | Noble Fates | 183602 | [183602-noble-fates.json](./183602-noble-fates.json) |
+| Noble in Exile | 113580 | [113580-noble-in-exile.json](./113580-noble-in-exile.json) |
 | Noble Knight | 263191 | [263191-noble-knight.json](./263191-noble-knight.json) |
 | Noble Legacy | 347284 | [347284-noble-legacy.json](./347284-noble-legacy.json) |
 | Noble Racing | 118870 | [118870-noble-racing.json](./118870-noble-racing.json) |
