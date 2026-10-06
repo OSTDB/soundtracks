@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babe-lathe | 296493 | [296493-babe-lathe.json](./296493-babe-lathe.json) |
 | Babel | 198377 | [198377-babel.json](./198377-babel.json) |
 | Babel | 239161 | [239161-babel.json](./239161-babel.json) |
+| Babel | 78908 | [78908-babel.json](./78908-babel.json) |
 | Babel Defender | 318760 | [318760-babel-defender.json](./318760-babel-defender.json) |
 | Babel Defense | 338174 | [338174-babel-defense.json](./338174-babel-defense.json) |
 | Babel Deluxe | 63897 | [63897-babel-deluxe.json](./63897-babel-deluxe.json) |
@@ -1071,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banco Imobiliário 2000 | 187876 | [187876-banco-imobiliario-2000.json](./187876-banco-imobiliario-2000.json) |
 | Bancroft Academy | 265412 | [265412-bancroft-academy.json](./265412-bancroft-academy.json) |
 | Band Hero | 2678 | [2678-band-hero.json](./2678-band-hero.json) |
+| Band Manager | 78934 | [78934-band-manager.json](./78934-band-manager.json) |
 | Band Mates | 386414 | [386414-band-mates.json](./386414-band-mates.json) |
 | Band of Badasses | 355138 | [355138-band-of-badasses.json](./355138-band-of-badasses.json) |
 | Band of Brothers | 148924 | [148924-band-of-brothers.json](./148924-band-of-brothers.json) |
@@ -4701,6 +4703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Generations: Boundish | 94200 | [94200-bit-generations-boundish.json](./94200-bit-generations-boundish.json) |
 | Bit Generations: Dialhex | 251173 | [251173-bit-generations-dialhex.json](./251173-bit-generations-dialhex.json) |
 | Bit Generations: Digidrive | 49481 | [49481-bit-generations-digidrive.json](./49481-bit-generations-digidrive.json) |
+| Bit Generations: Dotstream | 78880 | [78880-bit-generations-dotstream.json](./78880-bit-generations-dotstream.json) |
 | Bit Generations: Orbital | 49513 | [49513-bit-generations-orbital.json](./49513-bit-generations-orbital.json) |
 | Bit Generations: Soundvoyager | 49482 | [49482-bit-generations-soundvoyager.json](./49482-bit-generations-soundvoyager.json) |
 | Bit Heroes | 67937 | [67937-bit-heroes.json](./67937-bit-heroes.json) |
@@ -6463,6 +6466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluff: Fun Family Card Game | 227852 | [227852-bluff-fun-family-card-game.json](./227852-bluff-fun-family-card-game.json) |
 | Bluk | 57735 | [57735-bluk.json](./57735-bluk.json) |
 | Blukaty | 291241 | [291241-blukaty.json](./291241-blukaty.json) |
+| Blumenmacht | 78913 | [78913-blumenmacht.json](./78913-blumenmacht.json) |
 | Blumgi Castle | 219262 | [219262-blumgi-castle.json](./219262-blumgi-castle.json) |
 | Blumgi Soccer | 303170 | [303170-blumgi-soccer.json](./303170-blumgi-soccer.json) |
 | Blunder The Sea | 303169 | [303169-blunder-the-sea.json](./303169-blunder-the-sea.json) |
