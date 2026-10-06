@@ -4552,6 +4552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond love | 111496 | [111496-diamond-love.json](./111496-diamond-love.json) |
 | Diamond Mind Baseball 8.0 | 94249 | [94249-diamond-mind-baseball-8-0.json](./94249-diamond-mind-baseball-8-0.json) |
 | Diamond no Kuni no Alice: Wonderful Mirror World | 213845 | [213845-diamond-no-kuni-no-alice-wonderful-mirror-world.json](./213845-diamond-no-kuni-no-alice-wonderful-mirror-world.json) |
+| Diamond no Kuni no Alice: Wonderful Wonder World | 64165 | [64165-diamond-no-kuni-no-alice-wonderful-wonder-world.json](./64165-diamond-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Diamond Painting | 365872 | [365872-diamond-painting.json](./365872-diamond-painting.json) |
 | Diamond Painting ASMR: Complete Edition | 313213 | [313213-diamond-painting-asmr-complete-edition.json](./313213-diamond-painting-asmr-complete-edition.json) |
 | Diamond Painting ASMR: Cool & Festive | 309075 | [309075-diamond-painting-asmr-cool-and-festive.json](./309075-diamond-painting-asmr-cool-and-festive.json) |
@@ -5217,6 +5218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinoku | 83533 | [83533-dinoku.json](./83533-dinoku.json) |
 | Dinoland | 165672 | [165672-dinoland.json](./165672-dinoland.json) |
 | DinoLife | 212909 | [212909-dinolife.json](./212909-dinolife.json) |
+| Dinomaster Party | 64224 | [64224-dinomaster-party.json](./64224-dinomaster-party.json) |
 | DinoMight Baseball | 209019 | [209019-dinomight-baseball.json](./209019-dinomight-baseball.json) |
 | Dinomod | 160287 | [160287-dinomod.json](./160287-dinomod.json) |
 | DinoOps | 33334 | [33334-dinoops.json](./33334-dinoops.json) |
