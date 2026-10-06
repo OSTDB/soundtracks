@@ -1098,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keystone Kapers | 12311 | [12311-keystone-kapers.json](./12311-keystone-kapers.json) |
 | Keystone Kapers | 198792 | [198792-keystone-kapers.json](./198792-keystone-kapers.json) |
 | Keystone Library | 226428 | [226428-keystone-library.json](./226428-keystone-library.json) |
+| keyWars | 96848 | [96848-keywars.json](./96848-keywars.json) |
 | KeyWords | 72079 | [72079-keywords.json](./72079-keywords.json) |
 | Keziah's Realm | 329100 | [329100-keziahs-realm.json](./329100-keziahs-realm.json) |
 | KFC Kitchen | 334928 | [334928-kfc-kitchen.json](./334928-kfc-kitchen.json) |
@@ -2515,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Slimes | 115649 | [115649-knights-and-slimes.json](./115649-knights-and-slimes.json) |
 | Knights and Bikes | 25584 | [25584-knights-and-bikes.json](./25584-knights-and-bikes.json) |
 | Knights and Craftsmen | 223689 | [223689-knights-and-craftsmen.json](./223689-knights-and-craftsmen.json) |
+| Knights and Ogres | 96926 | [96926-knights-and-ogres.json](./96926-knights-and-ogres.json) |
 | Knights College | 142272 | [142272-knights-college.json](./142272-knights-college.json) |
 | Knights Combo | 299403 | [299403-knights-combo.json](./299403-knights-combo.json) |
 | Knights Conquest | 123060 | [123060-knights-conquest.json](./123060-knights-conquest.json) |
@@ -2784,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokurase: Episode 3 | 167799 | [167799-kokurase-episode-3.json](./167799-kokurase-episode-3.json) |
 | Kokuriko | 296922 | [296922-kokuriko.json](./296922-kokuriko.json) |
 | Kokuu Hyouryuu Nirgends | 45951 | [45951-kokuu-hyouryuu-nirgends.json](./45951-kokuu-hyouryuu-nirgends.json) |
+| Kolb Antarctica Experience | 96830 | [96830-kolb-antarctica-experience.json](./96830-kolb-antarctica-experience.json) |
 | Kolhii Champions AU | 213314 | [213314-kolhii-champions-au.json](./213314-kolhii-champions-au.json) |
 | Kolibri | 19733 | [19733-kolibri.json](./19733-kolibri.json) |
 | Koliquest | 146243 | [146243-koliquest.json](./146243-koliquest.json) |
