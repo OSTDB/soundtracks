@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth | 379903 | [379903-labyrinth.json](./379903-labyrinth.json) |
 | Labyrinth | 78506 | [78506-labyrinth.json](./78506-labyrinth.json) |
 | Labyrinth 2 | 155663 | [155663-labyrinth-2.json](./155663-labyrinth-2.json) |
+| Labyrinth 2 | 96302 | [96302-labyrinth-2.json](./96302-labyrinth-2.json) |
 | Labyrinth 3 | 171066 | [171066-labyrinth-3.json](./171066-labyrinth-3.json) |
 | Labyrinth City: Pierre the Maze Detective | 145786 | [145786-labyrinth-city-pierre-the-maze-detective.json](./145786-labyrinth-city-pierre-the-maze-detective.json) |
 | Labyrinth DeLux: A Crusoe Quest | 192229 | [192229-labyrinth-delux-a-crusoe-quest.json](./192229-labyrinth-delux-a-crusoe-quest.json) |
@@ -1192,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Light: Dark Omens - Collector's Edition | 31065 | [31065-league-of-light-dark-omens-collectors-edition.json](./31065-league-of-light-dark-omens-collectors-edition.json) |
 | League of Light: Dark Omens & League of Light: Wicked Harvest | 201815 | [201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json](./201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json) |
 | League of Light: Edge of Justice | 108245 | [108245-league-of-light-edge-of-justice.json](./108245-league-of-light-edge-of-justice.json) |
+| League of Light: Justice | 96182 | [96182-league-of-light-justice.json](./96182-league-of-light-justice.json) |
 | League of Light: The Gatherer | 182309 | [182309-league-of-light-the-gatherer.json](./182309-league-of-light-the-gatherer.json) |
 | League of Light: The Gatherer - Collector's Edition | 182310 | [182310-league-of-light-the-gatherer-collectors-edition.json](./182310-league-of-light-the-gatherer-collectors-edition.json) |
 | League of Mermaids | 34920 | [34920-league-of-mermaids.json](./34920-league-of-mermaids.json) |
@@ -5224,6 +5226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lufia: The Legend Returns | 1179 | [1179-lufia-the-legend-returns.json](./1179-lufia-the-legend-returns.json) |
 | Lufia: The Ruins of Lore | 1180 | [1180-lufia-the-ruins-of-lore.json](./1180-lufia-the-ruins-of-lore.json) |
 | Luft Gears | 377060 | [377060-luft-gears.json](./377060-luft-gears.json) |
+| Luft: Onward and Upward | 96307 | [96307-luft-onward-and-upward.json](./96307-luft-onward-and-upward.json) |
 | Luftwaffe Commander | 22840 | [22840-luftwaffe-commander.json](./22840-luftwaffe-commander.json) |
 | Lufulus' Creatures | 129000 | [129000-lufulus-creatures.json](./129000-lufulus-creatures.json) |
 | Lug's Delightful Dioramas | 198463 | [198463-lugs-delightful-dioramas.json](./198463-lugs-delightful-dioramas.json) |
