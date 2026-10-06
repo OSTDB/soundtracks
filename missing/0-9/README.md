@@ -1116,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Creation Station | 64907 | [64907-3d-creation-station.json](./64907-3d-creation-station.json) |
 | 3D Cricket | 243753 | [243753-3d-cricket.json](./243753-3d-cricket.json) |
 | 3D Crosswords | 268507 | [268507-3d-crosswords.json](./268507-3d-crosswords.json) |
+| 3D Custom Girl | 92660 | [92660-3d-custom-girl.json](./92660-3d-custom-girl.json) |
 | 3D Cyber Puck | 300012 | [300012-3d-cyber-puck.json](./300012-3d-cyber-puck.json) |
 | 3D Dinosaur Hunter | 263459 | [263459-3d-dinosaur-hunter.json](./263459-3d-dinosaur-hunter.json) |
 | 3D Don't Die Mr Robot | 219510 | [219510-3d-dont-die-mr-robot.json](./219510-3d-dont-die-mr-robot.json) |
@@ -1245,6 +1246,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Colors Classic Multiplayer | 202767 | [202767-4-colors-classic-multiplayer.json](./202767-4-colors-classic-multiplayer.json) |
 | 4 Colours | 262058 | [262058-4-colours.json](./262058-4-colours.json) |
 | 4 days in *** | 244365 | [244365-4-days-in.json](./244365-4-days-in.json) |
+| 4 Degrees: Bible | 92656 | [92656-4-degrees-bible.json](./92656-4-degrees-bible.json) |
+| 4 Degrees: Vol 1 | 92657 | [92657-4-degrees-vol-1.json](./92657-4-degrees-vol-1.json) |
+| 4 Degrees: Vol 2 | 92655 | [92655-4-degrees-vol-2.json](./92655-4-degrees-vol-2.json) |
 | 4 Elements II | 64131 | [64131-4-elements-ii.json](./64131-4-elements-ii.json) |
 | 4 En Raya | 249251 | [249251-4-en-raya.json](./249251-4-en-raya.json) |
 | 4 Game in One | 268570 | [268570-4-game-in-one.json](./268570-4-game-in-one.json) |
