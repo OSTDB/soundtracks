@@ -1801,6 +1801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lego Merlok 2.0 Version 4.0.0 | 345593 | [345593-lego-merlok-2-0-version-4-0-0.json](./345593-lego-merlok-2-0-version-4-0-0.json) |
 | LEGO Minifigures Online | 17874 | [17874-lego-minifigures-online.json](./17874-lego-minifigures-online.json) |
 | LEGO Ninjago: The Four Paths | 340034 | [340034-lego-ninjago-the-four-paths.json](./340034-lego-ninjago-the-four-paths.json) |
+| LEGO Ninjago: Tournament | 77616 | [77616-lego-ninjago-tournament.json](./77616-lego-ninjago-tournament.json) |
 | LEGO Pirates of the Caribbean: The Video Game | 283748 | [283748-lego-pirates-of-the-caribbean-the-video-game.json](./283748-lego-pirates-of-the-caribbean-the-video-game.json) |
 | LEGO Racers | 248764 | [248764-lego-racers.json](./248764-lego-racers.json) |
 | LEGO Racers | 343274 | [343274-lego-racers.json](./343274-lego-racers.json) |
