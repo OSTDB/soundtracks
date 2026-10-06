@@ -2734,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masala Drive | 263542 | [263542-masala-drive.json](./263542-masala-drive.json) |
 | Masarada Town Story | 223372 | [223372-masarada-town-story.json](./223372-masarada-town-story.json) |
 | Mascar | 394891 | [394891-mascar.json](./394891-mascar.json) |
+| Mascot Dunks | 90234 | [90234-mascot-dunks.json](./90234-mascot-dunks.json) |
 | Mascot Mayhem | 350004 | [350004-mascot-mayhem.json](./350004-mascot-mayhem.json) |
 | Masefeh | 378443 | [378443-masefeh.json](./378443-masefeh.json) |
 | Maseylia: Echoes of the Past | 302107 | [302107-maseylia-echoes-of-the-past.json](./302107-maseylia-echoes-of-the-past.json) |
@@ -9188,6 +9189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morbidity: 1 | 271757 | [271757-morbidity-1.json](./271757-morbidity-1.json) |
 | Morbidity: 2 | 271758 | [271758-morbidity-2.json](./271758-morbidity-2.json) |
 | Morbius Heardle | 203829 | [203829-morbius-heardle.json](./203829-morbius-heardle.json) |
+| Morbius: The Utopia Conspiracy | 90226 | [90226-morbius-the-utopia-conspiracy.json](./90226-morbius-the-utopia-conspiracy.json) |
 | Mordecai Saw Game | 385050 | [385050-mordecai-saw-game.json](./385050-mordecai-saw-game.json) |
 | Mordeny | 356804 | [356804-mordeny.json](./356804-mordeny.json) |
 | Mordeth | 316605 | [316605-mordeth.json](./316605-mordeth.json) |
@@ -10145,6 +10147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Run and Jump | 249540 | [249540-mr-run-and-jump.json](./249540-mr-run-and-jump.json) |
 | Mr. Run and Jump 2600 | 280753 | [280753-mr-run-and-jump-2600.json](./280753-mr-run-and-jump-2600.json) |
 | Mr. Runner | 246474 | [246474-mr-runner.json](./246474-mr-runner.json) |
+| Mr. Runner 2: The Masks | 90204 | [90204-mr-runner-2-the-masks.json](./90204-mr-runner-2-the-masks.json) |
 | Mr. Saitou | 228357 | [228357-mr-saitou.json](./228357-mr-saitou.json) |
 | Mr. Setam: Lady Killer | 61118 | [61118-mr-setam-lady-killer.json](./61118-mr-setam-lady-killer.json) |
 | Mr. Shifty: Collector's Edition | 53388 | [53388-mr-shifty-collectors-edition.json](./53388-mr-shifty-collectors-edition.json) |
@@ -10654,6 +10657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Box: Funky Vintage | 316266 | [316266-music-box-funky-vintage.json](./316266-music-box-funky-vintage.json) |
 | Music Box: Hip Hop | 316271 | [316271-music-box-hip-hop.json](./316271-music-box-hip-hop.json) |
 | Music Box: Hip Hop vol.2 | 316272 | [316272-music-box-hip-hop-vol-2.json](./316272-music-box-hip-hop-vol-2.json) |
+| Music Boy 3D | 90191 | [90191-music-boy-3d.json](./90191-music-boy-3d.json) |
 | Music Catch 2 | 216325 | [216325-music-catch-2.json](./216325-music-catch-2.json) |
 | Music Chase 1: The Music In Me | 399836 | [399836-music-chase-1-the-music-in-me.json](./399836-music-chase-1-the-music-in-me.json) |
 | Music Club Manager | 126616 | [126616-music-club-manager.json](./126616-music-club-manager.json) |
