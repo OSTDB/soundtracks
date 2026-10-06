@@ -8993,6 +8993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken Pinball Vol. 1 | 96540 | [96540-crazy-chicken-pinball-vol-1.json](./96540-crazy-chicken-pinball-vol-1.json) |
 | Crazy Chicken Quest | 144595 | [144595-crazy-chicken-quest.json](./144595-crazy-chicken-quest.json) |
 | Crazy Chicken Strikes Back | 83239 | [83239-crazy-chicken-strikes-back.json](./83239-crazy-chicken-strikes-back.json) |
+| Crazy Chicken X | 78882 | [78882-crazy-chicken-x.json](./78882-crazy-chicken-x.json) |
 | Crazy Chicken Xtreme | 198390 | [198390-crazy-chicken-xtreme.json](./198390-crazy-chicken-xtreme.json) |
 | Crazy Chicken: Director's Cut | 83234 | [83234-crazy-chicken-directors-cut.json](./83234-crazy-chicken-directors-cut.json) |
 | Crazy Chicken: Pirates | 23673 | [23673-crazy-chicken-pirates.json](./23673-crazy-chicken-pirates.json) |
