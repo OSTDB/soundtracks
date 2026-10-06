@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Scooperia | 210503 | [210503-papas-scooperia.json](./210503-papas-scooperia.json) |
 | Papa's Sushiria | 101028 | [101028-papas-sushiria.json](./101028-papas-sushiria.json) |
 | Papa's Taco Mia HD | 87027 | [87027-papas-taco-mia-hd.json](./87027-papas-taco-mia-hd.json) |
+| Papa's Time Machine | 96843 | [96843-papas-time-machine.json](./96843-papas-time-machine.json) |
 | Papair | 57148 | [57148-papair.json](./57148-papair.json) |
 | Papao: The Legend of the Bogeyman | 372544 | [372544-papao-the-legend-of-the-bogeyman.json](./372544-papao-the-legend-of-the-bogeyman.json) |
 | Paparazzi | 379586 | [379586-paparazzi.json](./379586-paparazzi.json) |
@@ -3278,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picbox | 93505 | [93505-picbox.json](./93505-picbox.json) |
 | Piccadilly's Puzzle Museum | 126015 | [126015-piccadillys-puzzle-museum.json](./126015-piccadillys-puzzle-museum.json) |
 | Piccross Adventure House | 102819 | [102819-piccross-adventure-house.json](./102819-piccross-adventure-house.json) |
+| picFind - Find in the Space | 96851 | [96851-picfind-find-in-the-space.json](./96851-picfind-find-in-the-space.json) |
 | Pichenette | 384530 | [384530-pichenette.json](./384530-pichenette.json) |
 | Pichon: The Bouncy Bird | 180107 | [180107-pichon-the-bouncy-bird.json](./180107-pichon-the-bouncy-bird.json) |
 | Pichu Bros. Mini | 92303 | [92303-pichu-bros-mini.json](./92303-pichu-bros-mini.json) |
@@ -4834,6 +4836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Tower: Final Round | 345569 | [345569-pizza-tower-final-round.json](./345569-pizza-tower-final-round.json) |
 | Pizza Tower: Idle Tycoon | 320926 | [320926-pizza-tower-idle-tycoon.json](./320926-pizza-tower-idle-tycoon.json) |
 | Pizza Tower: The Noise Update | 291543 | [291543-pizza-tower-the-noise-update.json](./291543-pizza-tower-the-noise-update.json) |
+| Pizza Truck | 96836 | [96836-pizza-truck.json](./96836-pizza-truck.json) |
 | Pizza Turtle 4evr | 232038 | [232038-pizza-turtle-4evr.json](./232038-pizza-turtle-4evr.json) |
 | Pizza Tycoon 2 | 51885 | [51885-pizza-tycoon-2.json](./51885-pizza-tycoon-2.json) |
 | Pizza Western | 318191 | [318191-pizza-western.json](./318191-pizza-western.json) |
@@ -8125,6 +8128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Football | 289866 | [289866-pro-football.json](./289866-pro-football.json) |
 | Pro Gamer Tycoon | 103471 | [103471-pro-gamer-tycoon.json](./103471-pro-gamer-tycoon.json) |
 | Pro Golf | 385778 | [385778-pro-golf.json](./385778-pro-golf.json) |
+| Pro Golf Challenge | 96930 | [96930-pro-golf-challenge.json](./96930-pro-golf-challenge.json) |
 | Pro Gymnast Simulator | 128347 | [128347-pro-gymnast-simulator.json](./128347-pro-gymnast-simulator.json) |
 | Pro Gymnast Simulator + Brawl Chess | 219051 | [219051-pro-gymnast-simulator-brawl-chess.json](./219051-pro-gymnast-simulator-brawl-chess.json) |
 | Pro Gymnast Simulator + Clumsy Rush | 218456 | [218456-pro-gymnast-simulator-clumsy-rush.json](./218456-pro-gymnast-simulator-clumsy-rush.json) |
