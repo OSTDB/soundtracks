@@ -2994,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Woody | 5461 | [5461-wild-woody.json](./5461-wild-woody.json) |
 | Wild Workshop | 157490 | [157490-wild-workshop.json](./157490-wild-workshop.json) |
 | Wild world | 150629 | [150629-wild-world.json](./150629-wild-world.json) |
+| Wild World: Tribe | 99709 | [99709-wild-world-tribe.json](./99709-wild-world-tribe.json) |
 | Wildagotchi: Virtual Pet | 261344 | [261344-wildagotchi-virtual-pet.json](./261344-wildagotchi-virtual-pet.json) |
 | Wildagotchi: Virtual Pet - Deluxe Edition | 277304 | [277304-wildagotchi-virtual-pet-deluxe-edition.json](./277304-wildagotchi-virtual-pet-deluxe-edition.json) |
 | Wildaria | 322197 | [322197-wildaria.json](./322197-wildaria.json) |
