@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.G: Strike Gunner | 39692 | [39692-s-t-g-strike-gunner.json](./39692-s-t-g-strike-gunner.json) |
 | S.T.R.E.T.C.H. | 100566 | [100566-s-t-r-e-t-c-h.json](./100566-s-t-r-e-t-c-h.json) |
 | S.T.U.N. Runner | 12368 | [12368-s-t-u-n-runner.json](./12368-s-t-u-n-runner.json) |
+| S.U.A.V.E - Sport-Utility Assault Vehicle Extreme! | 60908 | [60908-s-u-a-v-e-sport-utility-assault-vehicle-extreme.json](./60908-s-u-a-v-e-sport-utility-assault-vehicle-extreme.json) |
 | S.U.M. Slay Uncool Monsters: Archer | 168247 | [168247-s-u-m-slay-uncool-monsters-archer.json](./168247-s-u-m-slay-uncool-monsters-archer.json) |
 | S.U.M. Slay Uncool Monsters: Assassin | 168248 | [168248-s-u-m-slay-uncool-monsters-assassin.json](./168248-s-u-m-slay-uncool-monsters-assassin.json) |
 | S.U.M. Slay Uncool Monsters: Paladin | 168250 | [168250-s-u-m-slay-uncool-monsters-paladin.json](./168250-s-u-m-slay-uncool-monsters-paladin.json) |
@@ -1116,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanyo Pachinko Paradise 3 | 55927 | [55927-sanyo-pachinko-paradise-3.json](./55927-sanyo-pachinko-paradise-3.json) |
 | Sanyo Pachinko Paradise 4 | 55954 | [55954-sanyo-pachinko-paradise-4.json](./55954-sanyo-pachinko-paradise-4.json) |
 | Sanyo Pachinko Paradise 7: Edokko Gen-san | 138539 | [138539-sanyo-pachinko-paradise-7-edokko-gen-san.json](./138539-sanyo-pachinko-paradise-7-edokko-gen-san.json) |
+| Sanyo Pachinko Paradise 8: Shin Umi Monogatari | 60901 | [60901-sanyo-pachinko-paradise-8-shin-umi-monogatari.json](./60901-sanyo-pachinko-paradise-8-shin-umi-monogatari.json) |
 | Sanyou Pachinko Paradise 5: Ukiuki Tairyouki | 138685 | [138685-sanyou-pachinko-paradise-5-ukiuki-tairyouki.json](./138685-sanyou-pachinko-paradise-5-ukiuki-tairyouki.json) |
 | Sanzen Sekai Yuugi: Re Multi Universe Myself | 103175 | [103175-sanzen-sekai-yuugi-re-multi-universe-myself.json](./103175-sanzen-sekai-yuugi-re-multi-universe-myself.json) |
 | Sanzensekai no Ko wo Koroshi | 399061 | [399061-sanzensekai-no-ko-wo-koroshi.json](./399061-sanzensekai-no-ko-wo-koroshi.json) |
@@ -1899,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scourge of War: Waterloo - Wavre | 171040 | [171040-scourge-of-war-waterloo-wavre.json](./171040-scourge-of-war-waterloo-wavre.json) |
 | Scourge of Worlds | 107628 | [107628-scourge-of-worlds.json](./107628-scourge-of-worlds.json) |
 | Scourge Outbreak: Blindside | 167710 | [167710-scourge-outbreak-blindside.json](./167710-scourge-outbreak-blindside.json) |
+| Scourge: Ambush | 60907 | [60907-scourge-ambush.json](./60907-scourge-ambush.json) |
 | ScourgeBringer | 115899 | [115899-scourgebringer.json](./115899-scourgebringer.json) |
 | Scout | 231533 | [231533-scout.json](./231533-scout.json) |
 | Scout | 56584 | [56584-scout.json](./56584-scout.json) |
@@ -5642,6 +5645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidereal Defense | 54357 | [54357-sidereal-defense.json](./54357-sidereal-defense.json) |
 | Sidereal Wanderer | 291712 | [291712-sidereal-wanderer.json](./291712-sidereal-wanderer.json) |
 | SideShow | 70364 | [70364-sideshow.json](./70364-sideshow.json) |
+| Sidewalk Fighter II | 60912 | [60912-sidewalk-fighter-ii.json](./60912-sidewalk-fighter-ii.json) |
 | Sidewalk Simulator | 324294 | [324294-sidewalk-simulator.json](./324294-sidewalk-simulator.json) |
 | Sideway New York | 16273 | [16273-sideway-new-york.json](./16273-sideway-new-york.json) |
 | Sidewinder | 159249 | [159249-sidewinder.json](./159249-sidewinder.json) |
@@ -6037,6 +6041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimClassics: 3 in 1 Pack | 86030 | [86030-simclassics-3-in-1-pack.json](./86030-simclassics-3-in-1-pack.json) |
 | SimCoaster | 19422 | [19422-simcoaster.json](./19422-simcoaster.json) |
 | SimCopter | 1496 | [1496-simcopter.json](./1496-simcopter.json) |
+| SimDrive | 60881 | [60881-simdrive.json](./60881-simdrive.json) |
 | Sime Is Back: 3D Old School | 340370 | [340370-sime-is-back-3d-old-school.json](./340370-sime-is-back-3d-old-school.json) |
 | SimEarth: The Living Planet | 42017 | [42017-simearth-the-living-planet.json](./42017-simearth-the-living-planet.json) |
 | SimEarth: The Living Planet | 44456 | [44456-simearth-the-living-planet.json](./44456-simearth-the-living-planet.json) |
@@ -6114,6 +6119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 104: The Robot Tsuku Rouze! - Gekitou! Robot Fight | 203334 | [203334-simple-2000-series-vol-104-the-robot-tsuku-rouze-gekitou-robot-fight.json](./203334-simple-2000-series-vol-104-the-robot-tsuku-rouze-gekitou-robot-fight.json) |
 | Simple 2000 Series Vol. 105: The Maid Fuku to Kikanjuu | 43478 | [43478-simple-2000-series-vol-105-the-maid-fuku-to-kikanjuu.json](./43478-simple-2000-series-vol-105-the-maid-fuku-to-kikanjuu.json) |
 | Simple 2000 Series Vol. 109: The Taxi 2 | 203335 | [203335-simple-2000-series-vol-109-the-taxi-2.json](./203335-simple-2000-series-vol-109-the-taxi-2.json) |
+| Simple 2000 Series Vol. 110: The Toubou Prisoner - Ross City Shinjitsu he no 10-Jikan | 60891 | [60891-simple-2000-series-vol-110-the-toubou-prisoner-ross-city-shinjitsu-he-no-10-jikan.json](./60891-simple-2000-series-vol-110-the-toubou-prisoner-ross-city-shinjitsu-he-no-10-jikan.json) |
 | Simple 2000 Series Vol. 115: The Roomshare to Iu Seikatsu | 203336 | [203336-simple-2000-series-vol-115-the-roomshare-to-iu-seikatsu.json](./203336-simple-2000-series-vol-115-the-roomshare-to-iu-seikatsu.json) |
 | Simple 2000 Series Vol. 117: The Zerosen | 203338 | [203338-simple-2000-series-vol-117-the-zerosen.json](./203338-simple-2000-series-vol-117-the-zerosen.json) |
 | Simple 2000 Series Vol. 118: The Ochimusha - Doemu Samurai Toujou | 203339 | [203339-simple-2000-series-vol-118-the-ochimusha-doemu-samurai-toujou.json](./203339-simple-2000-series-vol-118-the-ochimusha-doemu-samurai-toujou.json) |
@@ -15706,6 +15712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter X Mega Man | 45184 | [45184-street-fighter-x-mega-man.json](./45184-street-fighter-x-mega-man.json) |
 | Street Fighter Zero 3 | 242649 | [242649-street-fighter-zero-3.json](./242649-street-fighter-zero-3.json) |
 | Street Fighter: Duel | 142490 | [142490-street-fighter-duel.json](./142490-street-fighter-duel.json) |
+| Street Fighter: Puzzle Spirits | 60889 | [60889-street-fighter-puzzle-spirits.json](./60889-street-fighter-puzzle-spirits.json) |
 | Street Fighting Grandma | 252264 | [252264-street-fighting-grandma.json](./252264-street-fighting-grandma.json) |
 | Street Food Restaurant Owner | 327979 | [327979-street-food-restaurant-owner.json](./327979-street-food-restaurant-owner.json) |
 | Street Food South East Asia | 197699 | [197699-street-food-south-east-asia.json](./197699-street-food-south-east-asia.json) |
