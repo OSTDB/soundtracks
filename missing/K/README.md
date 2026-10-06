@@ -2712,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kodomo Chousadan Mighty Pockets | 134461 | [134461-kodomo-chousadan-mighty-pockets.json](./134461-kodomo-chousadan-mighty-pockets.json) |
 | Kodomo-tachi no Kuni Magic Children | 353375 | [353375-kodomo-tachi-no-kuni-magic-children.json](./353375-kodomo-tachi-no-kuni-magic-children.json) |
 | Koe | 50532 | [50532-koe.json](./50532-koe.json) |
+| Koe wo Tayori ni SP | 83818 | [83818-koe-wo-tayori-ni-sp.json](./83818-koe-wo-tayori-ni-sp.json) |
 | KOF Chronicle | 117502 | [117502-kof-chronicle.json](./117502-kof-chronicle.json) |
 | KOF X Garou Densetsu | 63832 | [63832-kof-x-garou-densetsu.json](./63832-kof-x-garou-densetsu.json) |
 | Koffi Yellow Copter | 40797 | [40797-koffi-yellow-copter.json](./40797-koffi-yellow-copter.json) |
@@ -2954,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korg DS-10 | 73009 | [73009-korg-ds-10.json](./73009-korg-ds-10.json) |
 | KORG Gadget | 77537 | [77537-korg-gadget.json](./77537-korg-gadget.json) |
 | Korg M01 | 63564 | [63564-korg-m01.json](./63564-korg-m01.json) |
+| Korgan | 83810 | [83810-korgan.json](./83810-korgan.json) |
 | Kori DRoP | 234591 | [234591-kori-drop.json](./234591-kori-drop.json) |
 | Kori's Fable Visual Novel | 232442 | [232442-koris-fable-visual-novel.json](./232442-koris-fable-visual-novel.json) |
 | Korin's Mines | 323167 | [323167-korins-mines.json](./323167-korins-mines.json) |
