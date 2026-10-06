@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Doors: Escape from Work | 167806 | [167806-100-doors-escape-from-work.json](./167806-100-doors-escape-from-work.json) |
 | 100 Dubai Cats | 334120 | [334120-100-dubai-cats.json](./334120-100-dubai-cats.json) |
 | 100 Egypt Cats | 304666 | [304666-100-egypt-cats.json](./304666-100-egypt-cats.json) |
+| 100 Familien Spiele | 91608 | [91608-100-familien-spiele.json](./91608-100-familien-spiele.json) |
 | 100 Flaps | 183899 | [183899-100-flaps.json](./183899-100-flaps.json) |
 | 100 Floors Ninja | 235289 | [235289-100-floors-ninja.json](./235289-100-floors-ninja.json) |
 | 100 for Justice | 407343 | [407343-100-for-justice.json](./407343-100-for-justice.json) |
@@ -912,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24H Stories: The Blackout | 276706 | [276706-24h-stories-the-blackout.json](./276706-24h-stories-the-blackout.json) |
 | 24H Stories: The Cabin In The Forest | 308942 | [308942-24h-stories-the-cabin-in-the-forest.json](./308942-24h-stories-the-cabin-in-the-forest.json) |
 | 25 | 223926 | [223926-25.json](./223926-25.json) |
+| 25 Pferdespiele | 91592 | [91592-25-pferdespiele.json](./91592-25-pferdespiele.json) |
 | 25 Years on Earth | 261459 | [261459-25-years-on-earth.json](./261459-25-years-on-earth.json) |
 | 25,000 Sudoku Puzzles | 125838 | [125838-25-000-sudoku-puzzles.json](./125838-25-000-sudoku-puzzles.json) |
 | 25°N 71°W | 192159 | [192159-25-n-71-w.json](./192159-25-n-71-w.json) |
@@ -1036,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 Days of Tower | 290955 | [290955-30-days-of-tower.json](./290955-30-days-of-tower.json) |
 | 30 Floors of Madness | 308952 | [308952-30-floors-of-madness.json](./308952-30-floors-of-madness.json) |
 | 30 in 1 Family Games Mega Collection | 391259 | [391259-30-in-1-family-games-mega-collection.json](./391259-30-in-1-family-games-mega-collection.json) |
+| 30 Pferdespiele | 91609 | [91609-30-pferdespiele.json](./91609-30-pferdespiele.json) |
 | 30 Seconds to Jail | 97110 | [97110-30-seconds-to-jail.json](./97110-30-seconds-to-jail.json) |
 | 30-in-1 Game Collection: Volume 2 | 119514 | [119514-30-in-1-game-collection-volume-2.json](./119514-30-in-1-game-collection-volume-2.json) |
 | 30,000 Games | 97119 | [97119-30-000-games.json](./97119-30-000-games.json) |
