@@ -1789,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure the Four Swords | 179576 | [179576-adventure-the-four-swords.json](./179576-adventure-the-four-swords.json) |
 | Adventure Time Game Wizard: Draw Your Own Adventure Time Games | 88096 | [88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json](./88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json) |
 | Adventure Time Puzzle Quest | 19952 | [19952-adventure-time-puzzle-quest.json](./19952-adventure-time-puzzle-quest.json) |
+| Adventure Time: Blind Finned | 63658 | [63658-adventure-time-blind-finned.json](./63658-adventure-time-blind-finned.json) |
 | Adventure Time: Explore the Dungeon Because I Don't Know! | 4557 | [4557-adventure-time-explore-the-dungeon-because-i-dont-know.json](./4557-adventure-time-explore-the-dungeon-because-i-dont-know.json) |
 | Adventure Time: Finn and Bones | 176870 | [176870-adventure-time-finn-and-bones.json](./176870-adventure-time-finn-and-bones.json) |
 | Adventure Time: Finn and Jake Investigations | 11320 | [11320-adventure-time-finn-and-jake-investigations.json](./11320-adventure-time-finn-and-jake-investigations.json) |
@@ -2395,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agos | 206602 | [206602-agos.json](./206602-agos.json) |
 | AGOS: A Game of Space | 138768 | [138768-agos-a-game-of-space.json](./138768-agos-a-game-of-space.json) |
 | Agraelus, Wanna be MaN | 141737 | [141737-agraelus-wanna-be-man.json](./141737-agraelus-wanna-be-man.json) |
+| Agrar Simulator 2012 | 63692 | [63692-agrar-simulator-2012.json](./63692-agrar-simulator-2012.json) |
 | Agraria | 403059 | [403059-agraria.json](./403059-agraria.json) |
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
 | AgrChamp | 240748 | [240748-agrchamp.json](./240748-agrchamp.json) |
@@ -5682,6 +5684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Boss Battle Test | 214716 | [214716-another-boss-battle-test.json](./214716-another-boss-battle-test.json) |
 | Another Brick in Space | 95601 | [95601-another-brick-in-space.json](./95601-another-brick-in-space.json) |
 | Another Case Solved | 38915 | [38915-another-case-solved.json](./38915-another-case-solved.json) |
+| Another Castle | 63660 | [63660-another-castle.json](./63660-another-castle.json) |
 | Another Century's Episode | 9566 | [9566-another-centurys-episode.json](./9566-another-centurys-episode.json) |
 | Another Century's Episode 2 | 9579 | [9579-another-centurys-episode-2.json](./9579-another-centurys-episode-2.json) |
 | Another Century's Episode 3: The Final | 9582 | [9582-another-centurys-episode-3-the-final.json](./9582-another-centurys-episode-3-the-final.json) |
@@ -7161,6 +7164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Masters: Legend Begins | 77587 | [77587-arena-masters-legend-begins.json](./77587-arena-masters-legend-begins.json) |
 | Arena of Block Puzzle | 302437 | [302437-arena-of-block-puzzle.json](./302437-arena-of-block-puzzle.json) |
 | Arena of Dreams | 305266 | [305266-arena-of-dreams.json](./305266-arena-of-dreams.json) |
+| Arena of Heroes | 63657 | [63657-arena-of-heroes.json](./63657-arena-of-heroes.json) |
 | Arena of Ruins | 159787 | [159787-arena-of-ruins.json](./159787-arena-of-ruins.json) |
 | Arena of Speed: Fast and Furious | 174832 | [174832-arena-of-speed-fast-and-furious.json](./174832-arena-of-speed-fast-and-furious.json) |
 | Arena of Taryon | 278609 | [278609-arena-of-taryon.json](./278609-arena-of-taryon.json) |
@@ -9329,6 +9333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autoescuela Aprueba Conmigo | 86072 | [86072-autoescuela-aprueba-conmigo.json](./86072-autoescuela-aprueba-conmigo.json) |
 | Autoescuela Trainer | 269652 | [269652-autoescuela-trainer.json](./269652-autoescuela-trainer.json) |
 | Autofading Se Disparaître | 257429 | [257429-autofading-se-disparaitre.json](./257429-autofading-se-disparaitre.json) |
+| AutoFans: Charged Rate | 63691 | [63691-autofans-charged-rate.json](./63691-autofans-charged-rate.json) |
 | AutoForge | 257105 | [257105-autoforge.json](./257105-autoforge.json) |
 | Autogiro | 326251 | [326251-autogiro.json](./326251-autogiro.json) |
 | Autograv | 288194 | [288194-autograv.json](./288194-autograv.json) |
