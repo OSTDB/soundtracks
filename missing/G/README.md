@@ -637,6 +637,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Builder Garage | 146762 | [146762-game-builder-garage.json](./146762-game-builder-garage.json) |
 | Game Cafe Escape | 261881 | [261881-game-cafe-escape.json](./261881-game-cafe-escape.json) |
 | Game Center Club | 197636 | [197636-game-center-club.json](./197636-game-center-club.json) |
+| Game Chest: Board Games | 100253 | [100253-game-chest-board-games.json](./100253-game-chest-board-games.json) |
+| Game Chest: Logic Games | 100252 | [100252-game-chest-logic-games.json](./100252-game-chest-logic-games.json) |
 | Game Chinese | 105949 | [105949-game-chinese.json](./105949-game-chinese.json) |
 | Game club "Waka-Waka" | 117064 | [117064-game-club-waka-waka.json](./117064-game-club-waka-waka.json) |
 | Game Collecting Simulator | 239714 | [239714-game-collecting-simulator.json](./239714-game-collecting-simulator.json) |
@@ -4659,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Powers | 291482 | [291482-great-powers.json](./291482-great-powers.json) |
 | Great Race: Route 66 | 233111 | [233111-great-race-route-66.json](./233111-great-race-route-66.json) |
 | Great Sluggers: New World Stadium | 140480 | [140480-great-sluggers-new-world-stadium.json](./140480-great-sluggers-new-world-stadium.json) |
+| Great Soccer | 100299 | [100299-great-soccer.json](./100299-great-soccer.json) |
 | Great Song's Records of Economy | 161644 | [161644-great-songs-records-of-economy.json](./161644-great-songs-records-of-economy.json) |
 | Great States II | 55989 | [55989-great-states-ii.json](./55989-great-states-ii.json) |
 | Great Time Trio Remake | 306684 | [306684-great-time-trio-remake.json](./306684-great-time-trio-remake.json) |
