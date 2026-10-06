@@ -3587,6 +3587,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Istaria: Chronicles of the Gifted | 9578 | [9578-istaria-chronicles-of-the-gifted.json](./9578-istaria-chronicles-of-the-gifted.json) |
 | iStorm | 29111 | [29111-istorm.json](./29111-istorm.json) |
 | Istrolid | 33326 | [33326-istrolid.json](./33326-istrolid.json) |
+| iStunt 2 | 90888 | [90888-istunt-2.json](./90888-istunt-2.json) |
+| iSurf | 90908 | [90908-isurf.json](./90908-isurf.json) |
 | iSwinging 2 | 101611 | [101611-iswinging-2.json](./101611-iswinging-2.json) |
 | It All Boils Down to This | 184125 | [184125-it-all-boils-down-to-this.json](./184125-it-all-boils-down-to-this.json) |
 | It Came From Space, and Ate Our Brains | 35930 | [35930-it-came-from-space-and-ate-our-brains.json](./35930-it-came-from-space-and-ate-our-brains.json) |
