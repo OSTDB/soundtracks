@@ -3128,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Saw | 236771 | [236771-chaos-saw.json](./236771-chaos-saw.json) |
 | Chaos Souls | 75042 | [75042-chaos-souls.json](./75042-chaos-souls.json) |
 | Chaos Starter | 116876 | [116876-chaos-starter.json](./116876-chaos-starter.json) |
+| Chaos Theory | 114298 | [114298-chaos-theory.json](./114298-chaos-theory.json) |
 | Chaos Theory Pirates | 130193 | [130193-chaos-theory-pirates.json](./130193-chaos-theory-pirates.json) |
 | Chaos Uproar | 188949 | [188949-chaos-uproar.json](./188949-chaos-uproar.json) |
 | Chaos Village | 114822 | [114822-chaos-village.json](./114822-chaos-village.json) |
@@ -4444,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Vipers | 253321 | [253321-chronicles-of-vipers.json](./253321-chronicles-of-vipers.json) |
 | Chronicles of Witches & Warlocks | 52738 | [52738-chronicles-of-witches-and-warlocks.json](./52738-chronicles-of-witches-and-warlocks.json) |
 | Chronicon | 35130 | [35130-chronicon.json](./35130-chronicon.json) |
+| Chronicon Apocalyptica | 114302 | [114302-chronicon-apocalyptica.json](./114302-chronicon-apocalyptica.json) |
 | Chronicon Complete | 242676 | [242676-chronicon-complete.json](./242676-chronicon-complete.json) |
 | Chronicon: Survivors | 314369 | [314369-chronicon-survivors.json](./314369-chronicon-survivors.json) |
 | Chronicon: The Mechanist | 233560 | [233560-chronicon-the-mechanist.json](./233560-chronicon-the-mechanist.json) |
@@ -9620,6 +9622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroads: On a Just Path - Collector's Edition | 187306 | [187306-crossroads-on-a-just-path-collectors-edition.json](./187306-crossroads-on-a-just-path-collectors-edition.json) |
 | Crossroads: What Was Lost | 417713 | [417713-crossroads-what-was-lost.json](./417713-crossroads-what-was-lost.json) |
 | CrossTown 1: Giften | 122315 | [122315-crosstown-1-giften.json](./122315-crosstown-1-giften.json) |
+| CrossTrix | 114258 | [114258-crosstrix.json](./114258-crosstrix.json) |
 | Crosswinds | 404394 | [404394-crosswinds.json](./404394-crosswinds.json) |
 | Crossword | 402255 | [402255-crossword.json](./402255-crossword.json) |
 | Crossword Champ | 58273 | [58273-crossword-champ.json](./58273-crossword-champ.json) |
@@ -10585,6 +10588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Night | 244194 | [244194-cursed-night.json](./244194-cursed-night.json) |
 | Cursed Omelette | 370114 | [370114-cursed-omelette.json](./370114-cursed-omelette.json) |
 | Cursed Order | 284993 | [284993-cursed-order.json](./284993-cursed-order.json) |
+| Cursed Puppetry | 114314 | [114314-cursed-puppetry.json](./114314-cursed-puppetry.json) |
 | Cursed Queen : Wicked Witch | 105371 | [105371-cursed-queen-wicked-witch.json](./105371-cursed-queen-wicked-witch.json) |
 | Cursed Realm | 258722 | [258722-cursed-realm.json](./258722-cursed-realm.json) |
 | Cursed Realms: Path Over The Abyss | 262302 | [262302-cursed-realms-path-over-the-abyss.json](./262302-cursed-realms-path-over-the-abyss.json) |
