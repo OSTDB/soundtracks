@@ -1849,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumper | 205099 | [205099-jumper.json](./205099-jumper.json) |
 | Jumper Platform | 231944 | [231944-jumper-platform.json](./231944-jumper-platform.json) |
 | Jumper Three | 79910 | [79910-jumper-three.json](./79910-jumper-three.json) |
+| Jumper Tree | 112863 | [112863-jumper-tree.json](./112863-jumper-tree.json) |
 | Jumper, Jumpy Time Attack Adventure | 309367 | [309367-jumper-jumpy-time-attack-adventure.json](./309367-jumper-jumpy-time-attack-adventure.json) |
 | Jumper: Speedrun | 55253 | [55253-jumper-speedrun.json](./55253-jumper-speedrun.json) |
 | Jumper's Doom | 351634 | [351634-jumpers-doom.json](./351634-jumpers-doom.json) |
