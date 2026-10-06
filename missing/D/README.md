@@ -2837,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep State | 281560 | [281560-deep-state.json](./281560-deep-state.json) |
 | Deep Stories Bundle | 218689 | [218689-deep-stories-bundle.json](./218689-deep-stories-bundle.json) |
 | Deep the Game: The Darkest Cave | 169957 | [169957-deep-the-game-the-darkest-cave.json](./169957-deep-the-game-the-darkest-cave.json) |
+| Deep Town | 98532 | [98532-deep-town.json](./98532-deep-town.json) |
 | Deep Treasure | 275080 | [275080-deep-treasure.json](./275080-deep-treasure.json) |
 | Deep Under | 260302 | [260302-deep-under.json](./260302-deep-under.json) |
 | Deep Voyage | 96040 | [96040-deep-voyage.json](./96040-deep-voyage.json) |
@@ -3141,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeLight: The Journey Home - Chapter 4 | 314898 | [314898-delight-the-journey-home-chapter-4.json](./314898-delight-the-journey-home-chapter-4.json) |
 | Delightful Adventure: Enhanced | 307728 | [307728-delightful-adventure-enhanced.json](./307728-delightful-adventure-enhanced.json) |
 | Delilah | 217340 | [217340-delilah.json](./217340-delilah.json) |
+| Delinquent Girlfriend Is Made Into a Masochist Femswine by Disgusting Bad Friend | 98544 | [98544-delinquent-girlfriend-is-made-into-a-masochist-femswine-by-disgusting-bad-friend.json](./98544-delinquent-girlfriend-is-made-into-a-masochist-femswine-by-disgusting-bad-friend.json) |
 | Deliria | 202748 | [202748-deliria.json](./202748-deliria.json) |
 | Delirious | 183546 | [183546-delirious.json](./183546-delirious.json) |
 | Delirium | 234755 | [234755-delirium.json](./234755-delirium.json) |
@@ -4474,6 +4476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Painting ASMR: Cool & Festive | 309075 | [309075-diamond-painting-asmr-cool-and-festive.json](./309075-diamond-painting-asmr-cool-and-festive.json) |
 | Diamond Painting ASMR: Cute Edition | 317260 | [317260-diamond-painting-asmr-cute-edition.json](./317260-diamond-painting-asmr-cute-edition.json) |
 | Diamond Painting ASMR: Fun & Cute | 309076 | [309076-diamond-painting-asmr-fun-and-cute.json](./309076-diamond-painting-asmr-fun-and-cute.json) |
+| Diamond Quest | 98537 | [98537-diamond-quest.json](./98537-diamond-quest.json) |
 | Diamond Run | 305745 | [305745-diamond-run.json](./305745-diamond-run.json) |
 | Diamond Runway | 398417 | [398417-diamond-runway.json](./398417-diamond-runway.json) |
 | Diamond Rush | 261986 | [261986-diamond-rush.json](./261986-diamond-rush.json) |
@@ -4771,6 +4774,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig2China | 247515 | [247515-dig2china.json](./247515-dig2china.json) |
 | Digan no Maseki | 107632 | [107632-digan-no-maseki.json](./107632-digan-no-maseki.json) |
 | Digaway | 372115 | [372115-digaway.json](./372115-digaway.json) |
+| Digby Forever | 98535 | [98535-digby-forever.json](./98535-digby-forever.json) |
+| Digby Jump | 98536 | [98536-digby-jump.json](./98536-digby-jump.json) |
 | Digby's Donuts | 122893 | [122893-digbys-donuts.json](./122893-digbys-donuts.json) |
 | Digdig | 316611 | [316611-digdig.json](./316611-digdig.json) |
 | Digdigdig | 338861 | [338861-digdigdig.json](./338861-digdigdig.json) |
@@ -6888,6 +6893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donsol | 275678 | [275678-donsol.json](./275678-donsol.json) |
 | Dont Buzz | 26851 | [26851-dont-buzz.json](./26851-dont-buzz.json) |
 | Dont Jump: Gamesforfarm | 364592 | [364592-dont-jump-gamesforfarm.json](./364592-dont-jump-gamesforfarm.json) |
+| Dont Play This Game.exe | 98538 | [98538-dont-play-this-game-exe.json](./98538-dont-play-this-game-exe.json) |
 | Dontbegrey | 51965 | [51965-dontbegrey.json](./51965-dontbegrey.json) |
 | Dontcrush | 384177 | [384177-dontcrush.json](./384177-dontcrush.json) |
 | Dontdy | 156108 | [156108-dontdy.json](./156108-dontdy.json) |
@@ -8027,6 +8033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Princess Anastasia | 195619 | [195619-dragon-princess-anastasia.json](./195619-dragon-princess-anastasia.json) |
 | Dragon Princess: Meikyuu no Madoushi | 67256 | [67256-dragon-princess-meikyuu-no-madoushi.json](./67256-dragon-princess-meikyuu-no-madoushi.json) |
 | Dragon Project | 76712 | [76712-dragon-project.json](./76712-dragon-project.json) |
+| Dragon Providence | 98520 | [98520-dragon-providence.json](./98520-dragon-providence.json) |
 | Dragon Puncher | 332997 | [332997-dragon-puncher.json](./332997-dragon-puncher.json) |
 | Dragon puzzle | 132733 | [132733-dragon-puzzle.json](./132733-dragon-puzzle.json) |
 | Dragon Quest | 239185 | [239185-dragon-quest.json](./239185-dragon-quest.json) |
