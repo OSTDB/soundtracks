@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanx101 Trivia | 215154 | [215154-hanx101-trivia.json](./215154-hanx101-trivia.json) |
 | Hanz Puppetguns | 106619 | [106619-hanz-puppetguns.json](./106619-hanz-puppetguns.json) |
 | Hanzala Returns | 299169 | [299169-hanzala-returns.json](./299169-hanzala-returns.json) |
+| Hanzo Quest | 98542 | [98542-hanzo-quest.json](./98542-hanzo-quest.json) |
 | Hao x Sora: The Sky's Abound | 274005 | [274005-hao-x-sora-the-skys-abound.json](./274005-hao-x-sora-the-skys-abound.json) |
 | Hao-kun no Fushigi na Tabi | 215144 | [215144-hao-kun-no-fushigi-na-tabi.json](./215144-hao-kun-no-fushigi-na-tabi.json) |
 | Hàoyuè Kōnghuá | 112991 | [112991-haoyue-konghua.json](./112991-haoyue-konghua.json) |
@@ -1082,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardware: Online Arena | 15697 | [15697-hardware-online-arena.json](./15697-hardware-online-arena.json) |
 | Hardware: Rivals | 15695 | [15695-hardware-rivals.json](./15695-hardware-rivals.json) |
 | Hardway Party | 102197 | [102197-hardway-party.json](./102197-hardway-party.json) |
+| Hardway: Endless Road Builder | 98534 | [98534-hardway-endless-road-builder.json](./98534-hardway-endless-road-builder.json) |
 | Hardwood Backgammon | 20501 | [20501-hardwood-backgammon.json](./20501-hardwood-backgammon.json) |
 | Hardwood Hearts | 20507 | [20507-hardwood-hearts.json](./20507-hardwood-hearts.json) |
 | Hardy Boyz Stunt Challenge | 261205 | [261205-hardy-boyz-stunt-challenge.json](./261205-hardy-boyz-stunt-challenge.json) |
