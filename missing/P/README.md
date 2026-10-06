@@ -3342,6 +3342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross Fairytale | 102879 | [102879-picross-fairytale.json](./102879-picross-fairytale.json) |
 | Picross Floof | 116104 | [116104-picross-floof.json](./116104-picross-floof.json) |
 | Picross for a Cause | 139253 | [139253-picross-for-a-cause.json](./139253-picross-for-a-cause.json) |
+| Picross Hansel and Gretel - Nonograms | 116233 | [116233-picross-hansel-and-gretel-nonograms.json](./116233-picross-hansel-and-gretel-nonograms.json) |
 | Picross NP Vol. 2 | 148421 | [148421-picross-np-vol-2.json](./148421-picross-np-vol-2.json) |
 | Picross NP Vol. 3 | 148428 | [148428-picross-np-vol-3.json](./148428-picross-np-vol-3.json) |
 | Picross NP Vol. 4 | 148430 | [148430-picross-np-vol-4.json](./148430-picross-np-vol-4.json) |
@@ -3396,6 +3397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piczle Cross Adventure + PictoQuest: The Cursed Grids | 146140 | [146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json](./146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json) |
 | Piczle Cross: Story of Seasons | 280465 | [280465-piczle-cross-story-of-seasons.json](./280465-piczle-cross-story-of-seasons.json) |
 | Piczle Lines DX Bundle | 147788 | [147788-piczle-lines-dx-bundle.json](./147788-piczle-lines-dx-bundle.json) |
+| Piczle Lines DX+α | 116247 | [116247-piczle-lines-dx.json](./116247-piczle-lines-dx.json) |
 | Piczle Puzzle Adventures + Picto Quest Puzzle Bundle | 145690 | [145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json](./145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json) |
 | Piczle Puzzle Pack 3-in-1 | 136960 | [136960-piczle-puzzle-pack-3-in-1.json](./136960-piczle-puzzle-pack-3-in-1.json) |
 | Pid | 1892 | [1892-pid.json](./1892-pid.json) |
@@ -8943,6 +8945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSI: Pressure Climbing | 276964 | [276964-psi-pressure-climbing.json](./276964-psi-pressure-climbing.json) |
 | Psichodelya | 17406 | [17406-psichodelya.json](./17406-psichodelya.json) |
 | Psicose? | 129235 | [129235-psicose.json](./129235-psicose.json) |
+| Psikodelya | 116241 | [116241-psikodelya.json](./116241-psikodelya.json) |
 | Psikodelya: The Mansion of Madness | 170895 | [170895-psikodelya-the-mansion-of-madness.json](./170895-psikodelya-the-mansion-of-madness.json) |
 | Psikyo Collection Vol. 2 | 112290 | [112290-psikyo-collection-vol-2.json](./112290-psikyo-collection-vol-2.json) |
 | Psikyo Shooting Library Vol. 1 | 136837 | [136837-psikyo-shooting-library-vol-1.json](./136837-psikyo-shooting-library-vol-1.json) |
