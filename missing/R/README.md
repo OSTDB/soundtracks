@@ -2470,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflex Unit: Strike Ops | 304653 | [304653-reflex-unit-strike-ops.json](./304653-reflex-unit-strike-ops.json) |
 | Reflexia Prototype ver. | 224749 | [224749-reflexia-prototype-ver.json](./224749-reflexia-prototype-ver.json) |
 | Reforged TD | 150586 | [150586-reforged-td.json](./150586-reforged-td.json) |
+| Reformers Intl Ver | 102250 | [102250-reformers-intl-ver.json](./102250-reformers-intl-ver.json) |
 | Reformpunk | 367604 | [367604-reformpunk.json](./367604-reformpunk.json) |
 | Refraction: Beyond the Mirror | 186647 | [186647-refraction-beyond-the-mirror.json](./186647-refraction-beyond-the-mirror.json) |
 | Refrain Blue | 395006 | [395006-refrain-blue.json](./395006-refrain-blue.json) |
@@ -4808,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Gauntlet | 156720 | [156720-robo-gauntlet.json](./156720-robo-gauntlet.json) |
 | Robo Go | 165715 | [165715-robo-go.json](./165715-robo-go.json) |
 | Robo Hop | 399787 | [399787-robo-hop.json](./399787-robo-hop.json) |
+| Robo Jumper 3D | 102276 | [102276-robo-jumper-3d.json](./102276-robo-jumper-3d.json) |
 | Robo Miner 2 | 117175 | [117175-robo-miner-2.json](./117175-robo-miner-2.json) |
 | Robo Oh | 158159 | [158159-robo-oh.json](./158159-robo-oh.json) |
 | Robo Panic | 307599 | [307599-robo-panic.json](./307599-robo-panic.json) |
