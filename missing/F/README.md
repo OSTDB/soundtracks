@@ -5572,6 +5572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
 | Forsaken Denizen | 395004 | [395004-forsaken-denizen.json](./395004-forsaken-denizen.json) |
 | Forsaken Frontiers | 288820 | [288820-forsaken-frontiers.json](./288820-forsaken-frontiers.json) |
+| Forsaken Generation | 65801 | [65801-forsaken-generation.json](./65801-forsaken-generation.json) |
 | Forsaken Isle | 35819 | [35819-forsaken-isle.json](./35819-forsaken-isle.json) |
 | Forsaken Isles: Xenia's Defense | 295836 | [295836-forsaken-isles-xenias-defense.json](./295836-forsaken-isles-xenias-defense.json) |
 | Forsaken Kingdom | 391853 | [391853-forsaken-kingdom.json](./391853-forsaken-kingdom.json) |
