@@ -2668,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decline | 326202 | [326202-decline.json](./326202-decline.json) |
 | Decline | 406895 | [406895-decline.json](./406895-decline.json) |
 | Deco: Block Simulator | 151661 | [151661-deco-block-simulator.json](./151661-deco-block-simulator.json) |
+| Decoherence | 97966 | [97966-decoherence.json](./97966-decoherence.json) |
 | Decollate Decoration | 266187 | [266187-decollate-decoration.json](./266187-decollate-decoration.json) |
 | Decommissioned Tech Repair Mechanic Simulator 2099 | 365763 | [365763-decommissioned-tech-repair-mechanic-simulator-2099.json](./365763-decommissioned-tech-repair-mechanic-simulator-2099.json) |
 | Decommissioner | 186252 | [186252-decommissioner.json](./186252-decommissioner.json) |
@@ -5590,6 +5591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Tsum Tsum Stadium | 250331 | [250331-disney-tsum-tsum-stadium.json](./250331-disney-tsum-tsum-stadium.json) |
 | Disney Twisted-Wonderland | 117776 | [117776-disney-twisted-wonderland.json](./117776-disney-twisted-wonderland.json) |
 | Disney Two Pack I Big Hero 6: Battle In the Bay & Frozen: Olaf's Quest | 79914 | [79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json](./79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json) |
+| Disney Villains Challenge | 97983 | [97983-disney-villains-challenge.json](./97983-disney-villains-challenge.json) |
 | Disney XD Grand Prix | 361336 | [361336-disney-xd-grand-prix.json](./361336-disney-xd-grand-prix.json) |
 | Disney's 101 Dalmatians II: Patch's London Adventure | 43737 | [43737-disneys-101-dalmatians-ii-patchs-london-adventure.json](./43737-disneys-101-dalmatians-ii-patchs-london-adventure.json) |
 | Disney's 102 Dalmatians: Puppies to the Rescue | 2361 | [2361-disneys-102-dalmatians-puppies-to-the-rescue.json](./2361-disneys-102-dalmatians-puppies-to-the-rescue.json) |
