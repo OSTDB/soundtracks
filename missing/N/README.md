@@ -1598,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netspectre | 211225 | [211225-netspectre.json](./211225-netspectre.json) |
 | Netto de Para | 267584 | [267584-netto-de-para.json](./267584-netto-de-para.json) |
 | Netto de Tennis | 58169 | [58169-netto-de-tennis.json](./58169-netto-de-tennis.json) |
+| Nettou! Powerful Koushien | 98508 | [98508-nettou-powerful-koushien.json](./98508-nettou-powerful-koushien.json) |
 | Netty | 181211 | [181211-netty.json](./181211-netty.json) |
 | NetWalk | 283745 | [283745-netwalk.json](./283745-netwalk.json) |
 | NetWars | 14505 | [14505-netwars.json](./14505-netwars.json) |
