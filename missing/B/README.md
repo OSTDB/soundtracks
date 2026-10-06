@@ -905,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistic: The story of Marble and the Energy Core | 240738 | [240738-ballistic-the-story-of-marble-and-the-energy-core.json](./240738-ballistic-the-story-of-marble-and-the-energy-core.json) |
 | BallisticNG | 32640 | [32640-ballisticng.json](./32640-ballisticng.json) |
 | BallisticNG: Outer Reaches | 167304 | [167304-ballisticng-outer-reaches.json](./167304-ballisticng-outer-reaches.json) |
+| Ballloon Gentleman | 60909 | [60909-ballloon-gentleman.json](./60909-ballloon-gentleman.json) |
 | Balloball: Ribbit & Rescue | 388214 | [388214-balloball-ribbit-and-rescue.json](./388214-balloball-ribbit-and-rescue.json) |
 | Ballochet 3 | 79272 | [79272-ballochet-3.json](./79272-ballochet-3.json) |
 | Balloon | 379997 | [379997-balloon.json](./379997-balloon.json) |
@@ -6356,6 +6357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloxi: The Word Game | 190949 | [190949-bloxi-the-word-game.json](./190949-bloxi-the-word-game.json) |
 | Bloxicus | 122428 | [122428-bloxicus.json](./122428-bloxicus.json) |
 | Bloxiq VR | 31828 | [31828-bloxiq-vr.json](./31828-bloxiq-vr.json) |
+| Bloxland Story | 60906 | [60906-bloxland-story.json](./60906-bloxland-story.json) |
 | Bloxolotl | 303166 | [303166-bloxolotl.json](./303166-bloxolotl.json) |
 | Bloxorz: Roll the Block | 105786 | [105786-bloxorz-roll-the-block.json](./105786-bloxorz-roll-the-block.json) |
 | Bloxs | 244791 | [244791-bloxs.json](./244791-bloxs.json) |
@@ -6604,6 +6606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob the Builder: Fix it Fun! | 49879 | [49879-bob-the-builder-fix-it-fun.json](./49879-bob-the-builder-fix-it-fun.json) |
 | Bob the Elementalist | 267489 | [267489-bob-the-elementalist.json](./267489-bob-the-elementalist.json) |
 | Bob the Goose | 213476 | [213476-bob-the-goose.json](./213476-bob-the-goose.json) |
+| Bob the Hamster | 60917 | [60917-bob-the-hamster.json](./60917-bob-the-hamster.json) |
 | Bob The Mad Rabbit | 410402 | [410402-bob-the-mad-rabbit.json](./410402-bob-the-mad-rabbit.json) |
 | Bob the Robber 4 | 342199 | [342199-bob-the-robber-4.json](./342199-bob-the-robber-4.json) |
 | Bob the Robber 5 | 187970 | [187970-bob-the-robber-5.json](./187970-bob-the-robber-5.json) |
@@ -7289,6 +7292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bopimo! | 325696 | [325696-bopimo.json](./325696-bopimo.json) |
 | Bopp File | 309537 | [309537-bopp-file.json](./309537-bopp-file.json) |
 | Boppin' | 14333 | [14333-boppin.json](./14333-boppin.json) |
+| Bopscotch | 60884 | [60884-bopscotch.json](./60884-bopscotch.json) |
 | BOPZ.io | 304751 | [304751-bopz-io.json](./304751-bopz-io.json) |
 | Bor Dungeon | 248005 | [248005-bor-dungeon.json](./248005-bor-dungeon.json) |
 | Borb the Birb | 135057 | [135057-borb-the-birb.json](./135057-borb-the-birb.json) |
