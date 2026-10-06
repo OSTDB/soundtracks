@@ -468,6 +468,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saiyan Legends | 96781 | [96781-saiyan-legends.json](./96781-saiyan-legends.json) |
 | Saiyan Saga | 90363 | [90363-saiyan-saga.json](./90363-saiyan-saga.json) |
 | Saiyan Warriors : Heroes | 105827 | [105827-saiyan-warriors-heroes.json](./105827-saiyan-warriors-heroes.json) |
+| Saiyuki Reload | 68239 | [68239-saiyuki-reload.json](./68239-saiyuki-reload.json) |
+| Saiyuki Reload: Gunlock | 68247 | [68247-saiyuki-reload-gunlock.json](./68247-saiyuki-reload-gunlock.json) |
 | Saiyuuki World 2: Tenjoukai no Majin | 19669 | [19669-saiyuuki-world-2-tenjoukai-no-majin.json](./19669-saiyuuki-world-2-tenjoukai-no-majin.json) |
 | Sak'd | 115786 | [115786-sakd.json](./115786-sakd.json) |
 | Sakamoto Dangerous Barrage | 331884 | [331884-sakamoto-dangerous-barrage.json](./331884-sakamoto-dangerous-barrage.json) |
@@ -4046,7 +4048,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
 | Shalter 03 | 412442 | [412442-shalter-03.json](./412442-shalter-03.json) |
 | ShamaL | 201316 | [201316-shamal.json](./201316-shamal.json) |
+| Shaman King Chou Senjiryokketsu: Meramera Version | 68237 | [68237-shaman-king-chou-senjiryokketsu-meramera-version.json](./68237-shaman-king-chou-senjiryokketsu-meramera-version.json) |
 | Shaman King: Asu he no Ishi | 37319 | [37319-shaman-king-asu-he-no-ishi.json](./37319-shaman-king-asu-he-no-ishi.json) |
+| Shaman King: Asu he no Ishi | 68231 | [68231-shaman-king-asu-he-no-ishi.json](./68231-shaman-king-asu-he-no-ishi.json) |
+| Shaman King: Chou Senjiryakketsu 3 | 68232 | [68232-shaman-king-chou-senjiryakketsu-3.json](./68232-shaman-king-chou-senjiryakketsu-3.json) |
+| Shaman King: Funbari Spirits | 68246 | [68246-shaman-king-funbari-spirits.json](./68246-shaman-king-funbari-spirits.json) |
 | Shaman King: Master of Spirits | 6590 | [6590-shaman-king-master-of-spirits.json](./6590-shaman-king-master-of-spirits.json) |
 | Shaman King: Spirit of Shamans | 4120 | [4120-shaman-king-spirit-of-shamans.json](./4120-shaman-king-spirit-of-shamans.json) |
 | Shaman Odyssey: Tropic Adventure | 10821 | [10821-shaman-odyssey-tropic-adventure.json](./10821-shaman-odyssey-tropic-adventure.json) |
@@ -17393,6 +17399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Huey 1 & 2 Airdrop | 171909 | [171909-super-huey-1-and-2-airdrop.json](./171909-super-huey-1-and-2-airdrop.json) |
 | Super Huggie Bros | 272806 | [272806-super-huggie-bros.json](./272806-super-huggie-bros.json) |
 | Super Hunchback | 157211 | [157211-super-hunchback.json](./157211-super-hunchback.json) |
+| Super Hyperactive Ninja | 68358 | [68358-super-hyperactive-ninja.json](./68358-super-hyperactive-ninja.json) |
 | Super Icarus | 291599 | [291599-super-icarus.json](./291599-super-icarus.json) |
 | Super Ick | 193502 | [193502-super-ick.json](./193502-super-ick.json) |
 | Super Idle Cats - Tap Farm | 106965 | [106965-super-idle-cats-tap-farm.json](./106965-super-idle-cats-tap-farm.json) |
