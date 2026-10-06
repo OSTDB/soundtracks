@@ -1446,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GemCore | 214157 | [214157-gemcore.json](./214157-gemcore.json) |
 | GemCraft | 23979 | [23979-gemcraft.json](./23979-gemcraft.json) |
 | GemCraft Chapter One: The Forgotten | 79289 | [79289-gemcraft-chapter-one-the-forgotten.json](./79289-gemcraft-chapter-one-the-forgotten.json) |
+| GemCraft Chapter Zero: Gem of Eternity | 62003 | [62003-gemcraft-chapter-zero-gem-of-eternity.json](./62003-gemcraft-chapter-zero-gem-of-eternity.json) |
 | GemCraft Lost Chapter: Labyrinth | 79288 | [79288-gemcraft-lost-chapter-labyrinth.json](./79288-gemcraft-lost-chapter-labyrinth.json) |
 | Gemcraft: Legacy Collection | 408202 | [408202-gemcraft-legacy-collection.json](./408202-gemcraft-legacy-collection.json) |
 | Gemdance | 124575 | [124575-gemdance.json](./124575-gemdance.json) |
@@ -3355,6 +3356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla: Doki-doki Kaijuu-tou!! | 75890 | [75890-godzilla-doki-doki-kaijuu-tou.json](./75890-godzilla-doki-doki-kaijuu-tou.json) |
 | Godzilla: Save the Earth | 5847 | [5847-godzilla-save-the-earth.json](./5847-godzilla-save-the-earth.json) |
 | Godzilla: Save the Earth - Melee | 301492 | [301492-godzilla-save-the-earth-melee.json](./301492-godzilla-save-the-earth-melee.json) |
+| Godzilla: Smash 3 | 61983 | [61983-godzilla-smash-3.json](./61983-godzilla-smash-3.json) |
 | Godzilla: The Game | 8731 | [8731-godzilla-the-game.json](./8731-godzilla-the-game.json) |
 | Godzilla: The Series | 75893 | [75893-godzilla-the-series.json](./75893-godzilla-the-series.json) |
 | Goemon: Mononoke Sugoroku | 3507 | [3507-goemon-mononoke-sugoroku.json](./3507-goemon-mononoke-sugoroku.json) |
