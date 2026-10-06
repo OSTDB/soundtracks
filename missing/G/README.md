@@ -6060,6 +6060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guru-guru Town Hanamaru-kun | 281538 | [281538-guru-guru-town-hanamaru-kun.json](./281538-guru-guru-town-hanamaru-kun.json) |
 | Gurugedara | 61620 | [61620-gurugedara.json](./61620-gurugedara.json) |
 | Guruguru Animals | 96268 | [96268-guruguru-animals.json](./96268-guruguru-animals.json) |
+| Guruguru Tamagotchi! | 77578 | [77578-guruguru-tamagotchi.json](./77578-guruguru-tamagotchi.json) |
 | Gururin World | 286633 | [286633-gururin-world.json](./286633-gururin-world.json) |
 | Gus and Jaq's Cooking Chaos | 246526 | [246526-gus-and-jaqs-cooking-chaos.json](./246526-gus-and-jaqs-cooking-chaos.json) |
 | Gus and the Cyberbuds: Sing, Play & Paint-A-Long | 282237 | [282237-gus-and-the-cyberbuds-sing-play-and-paint-a-long.json](./282237-gus-and-the-cyberbuds-sing-play-and-paint-a-long.json) |
