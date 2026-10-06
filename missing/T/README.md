@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Moriviha: Deadly Secret | 276162 | [276162-tales-of-moriviha-deadly-secret.json](./276162-tales-of-moriviha-deadly-secret.json) |
 | Tales of Nebezem RPG: Red Peril | 115609 | [115609-tales-of-nebezem-rpg-red-peril.json](./115609-tales-of-nebezem-rpg-red-peril.json) |
 | Tales of Nebezem: Elemental Link | 86749 | [86749-tales-of-nebezem-elemental-link.json](./86749-tales-of-nebezem-elemental-link.json) |
+| Tales of Nebezem: Gnomish Plot | 101697 | [101697-tales-of-nebezem-gnomish-plot.json](./101697-tales-of-nebezem-gnomish-plot.json) |
 | Tales of Phantasia | 1200 | [1200-tales-of-phantasia.json](./1200-tales-of-phantasia.json) |
 | Tales of Phantasia | 196660 | [196660-tales-of-phantasia.json](./196660-tales-of-phantasia.json) |
 | Tales of Phantasia: Cross Edition | 351694 | [351694-tales-of-phantasia-cross-edition.json](./351694-tales-of-phantasia-cross-edition.json) |
@@ -1692,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCStrikers5 | 339414 | [339414-tcstrikers5.json](./339414-tcstrikers5.json) |
 | TD Quest | 233092 | [233092-td-quest.json](./233092-td-quest.json) |
 | TD Strategy of Three Kingdoms | 130927 | [130927-td-strategy-of-three-kingdoms.json](./130927-td-strategy-of-three-kingdoms.json) |
+| TD: Goblin Defenders | 101650 | [101650-td-goblin-defenders.json](./101650-td-goblin-defenders.json) |
 | TD3D | 371907 | [371907-td3d.json](./371907-td3d.json) |
 | TDP5: Arena 3D | 35639 | [35639-tdp5-arena-3d.json](./35639-tdp5-arena-3d.json) |
 | TDS | 287793 | [287793-tds.json](./287793-tds.json) |
@@ -5191,6 +5193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Farm | 231524 | [231524-the-farm.json](./231524-the-farm.json) |
 | The Farm You Grew Up On | 180749 | [180749-the-farm-you-grew-up-on.json](./180749-the-farm-you-grew-up-on.json) |
 | The Farmer Was Replaced | 243931 | [243931-the-farmer-was-replaced.json](./243931-the-farmer-was-replaced.json) |
+| The Farming Game | 101664 | [101664-the-farming-game.json](./101664-the-farming-game.json) |
 | The Farming One | 383601 | [383601-the-farming-one.json](./383601-the-farming-one.json) |
 | The Farnese Hercules | 203308 | [203308-the-farnese-hercules.json](./203308-the-farnese-hercules.json) |
 | The Farside of Titan | 274182 | [274182-the-farside-of-titan.json](./274182-the-farside-of-titan.json) |
@@ -6111,6 +6114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The IL Tempo Game | 83601 | [83601-the-il-tempo-game.json](./83601-the-il-tempo-game.json) |
 | The Illogical Journey of the Zambonis | 165439 | [165439-the-illogical-journey-of-the-zambonis.json](./165439-the-illogical-journey-of-the-zambonis.json) |
 | The Illusory Abyss | 118368 | [118368-the-illusory-abyss.json](./118368-the-illusory-abyss.json) |
+| The Illusory Wall | 101710 | [101710-the-illusory-wall.json](./101710-the-illusory-wall.json) |
 | The Imaginary Circle | 215369 | [215369-the-imaginary-circle.json](./215369-the-imaginary-circle.json) |
 | The Immemorial Order | 290005 | [290005-the-immemorial-order.json](./290005-the-immemorial-order.json) |
 | The Immortal | 187982 | [187982-the-immortal.json](./187982-the-immortal.json) |
@@ -8071,6 +8075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Other Brothers | 116428 | [116428-the-other-brothers.json](./116428-the-other-brothers.json) |
 | The Other Me | 261550 | [261550-the-other-me.json](./261550-the-other-me.json) |
 | The Other Order | 384793 | [384793-the-other-order.json](./384793-the-other-order.json) |
+| The Other Room | 101663 | [101663-the-other-room.json](./101663-the-other-room.json) |
 | The Other Side | 178673 | [178673-the-other-side.json](./178673-the-other-side.json) |
 | The Other Side | 215087 | [215087-the-other-side.json](./215087-the-other-side.json) |
 | The Other Side | 286264 | [286264-the-other-side.json](./286264-the-other-side.json) |
@@ -11101,6 +11106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thinkin' Things Collection 3 | 78954 | [78954-thinkin-things-collection-3.json](./78954-thinkin-things-collection-3.json) |
 | Thinking Games 2 | 72064 | [72064-thinking-games-2.json](./72064-thinking-games-2.json) |
 | Thinking of You Beyond Time | 328085 | [328085-thinking-of-you-beyond-time.json](./328085-thinking-of-you-beyond-time.json) |
+| Thinkrolls Kings & Queens | 101651 | [101651-thinkrolls-kings-and-queens.json](./101651-thinkrolls-kings-and-queens.json) |
 | Thinkrolls Space | 119571 | [119571-thinkrolls-space.json](./119571-thinkrolls-space.json) |
 | ThinkSmart: Family! | 268428 | [268428-thinksmart-family.json](./268428-thinksmart-family.json) |
 | ThinkTanks | 84240 | [84240-thinktanks.json](./84240-thinktanks.json) |
@@ -11290,6 +11296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Games | 178427 | [178427-three-games.json](./178427-three-games.json) |
 | Three Ghostly Roses | 124588 | [124588-three-ghostly-roses.json](./124588-three-ghostly-roses.json) |
 | Three Glyph Tiles | 256307 | [256307-three-glyph-tiles.json](./256307-three-glyph-tiles.json) |
+| Three Goblets | 101689 | [101689-three-goblets.json](./101689-three-goblets.json) |
 | Three Goblin Wobblin' | 267076 | [267076-three-goblin-wobblin.json](./267076-three-goblin-wobblin.json) |
 | Three Guys That Paint | 124674 | [124674-three-guys-that-paint.json](./124674-three-guys-that-paint.json) |
 | Three Heroes | 34990 | [34990-three-heroes.json](./34990-three-heroes.json) |
@@ -13501,6 +13508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toad and the Ancient Keys | 321449 | [321449-toad-and-the-ancient-keys.json](./321449-toad-and-the-ancient-keys.json) |
 | Toad in SMB1 | 198470 | [198470-toad-in-smb1.json](./198470-toad-in-smb1.json) |
 | Toad Line | 89701 | [89701-toad-line.json](./89701-toad-line.json) |
+| Toad Mountain | 101681 | [101681-toad-mountain.json](./101681-toad-mountain.json) |
 | Toad on Fire | 139482 | [139482-toad-on-fire.json](./139482-toad-on-fire.json) |
 | Toad Runner | 271375 | [271375-toad-runner.json](./271375-toad-runner.json) |
 | Toad Strikes Back | 134068 | [134068-toad-strikes-back.json](./134068-toad-strikes-back.json) |
