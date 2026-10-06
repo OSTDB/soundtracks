@@ -1490,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrie the Caregiver: Episode 1 - Infancy | 95416 | [95416-carrie-the-caregiver-episode-1-infancy.json](./95416-carrie-the-caregiver-episode-1-infancy.json) |
 | Carrie's Order Up! | 24812 | [24812-carries-order-up.json](./24812-carries-order-up.json) |
 | Carrier | 55181 | [55181-carrier.json](./55181-carrier.json) |
+| Carrier | 71183 | [71183-carrier.json](./71183-carrier.json) |
 | Carrier Aces | 42632 | [42632-carrier-aces.json](./42632-carrier-aces.json) |
 | Carrier Battles 4 Guadalcanal | 242201 | [242201-carrier-battles-4-guadalcanal.json](./242201-carrier-battles-4-guadalcanal.json) |
 | Carrier Battles 4 Guadalcanal: Advanced Fog of War in the Pacific | 170520 | [170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json](./170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json) |
@@ -3843,6 +3844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickens Can't Fly | 22341 | [22341-chickens-cant-fly.json](./22341-chickens-cant-fly.json) |
 | Chickens Don't Fly | 361681 | [361681-chickens-dont-fly.json](./361681-chickens-dont-fly.json) |
 | Chickens in Choppers | 270401 | [270401-chickens-in-choppers.json](./270401-chickens-in-choppers.json) |
+| Chickens Madness | 71189 | [71189-chickens-madness.json](./71189-chickens-madness.json) |
 | Chickens on the Road | 143072 | [143072-chickens-on-the-road.json](./143072-chickens-on-the-road.json) |
 | Chickens VS Zombies | 299414 | [299414-chickens-vs-zombies.json](./299414-chickens-vs-zombies.json) |
 | Chickens. Chickens? Chickens! | 417412 | [417412-chickens-chickens-chickens.json](./417412-chickens-chickens-chickens.json) |
@@ -4005,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Brush Simulator | 129077 | [129077-chinese-brush-simulator.json](./129077-chinese-brush-simulator.json) |
 | Chinese Characters | 223507 | [223507-chinese-characters.json](./223507-chinese-characters.json) |
 | Chinese Checkers | 100228 | [100228-chinese-checkers.json](./100228-chinese-checkers.json) |
+| Chinese Checkers | 71190 | [71190-chinese-checkers.json](./71190-chinese-checkers.json) |
 | Chinese Checkers Deluxe | 67983 | [67983-chinese-checkers-deluxe.json](./67983-chinese-checkers-deluxe.json) |
 | Chinese Chess Deluxe | 146922 | [146922-chinese-chess-deluxe.json](./146922-chinese-chess-deluxe.json) |
 | Chinese Chess: Elephant Game | 72872 | [72872-chinese-chess-elephant-game.json](./72872-chinese-chess-elephant-game.json) |
@@ -6978,6 +6981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander Cool 2 | 35620 | [35620-commander-cool-2.json](./35620-commander-cool-2.json) |
 | Commander in Chief: Geo-Political Simulator 2009 | 135166 | [135166-commander-in-chief-geo-political-simulator-2009.json](./135166-commander-in-chief-geo-political-simulator-2009.json) |
 | Commander Keen | 2447 | [2447-commander-keen.json](./2447-commander-keen.json) |
+| Commander Keen Enters RON | 71177 | [71177-commander-keen-enters-ron.json](./71177-commander-keen-enters-ron.json) |
 | Commander Keen in Invasion of the Vorticons: Marooned on Mars | 2439 | [2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json](./2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json) |
 | Commander Keen: Battle of the Brains | 288347 | [288347-commander-keen-battle-of-the-brains.json](./288347-commander-keen-battle-of-the-brains.json) |
 | Commander Keen: Dead in the Desert | 288346 | [288346-commander-keen-dead-in-the-desert.json](./288346-commander-keen-dead-in-the-desert.json) |
