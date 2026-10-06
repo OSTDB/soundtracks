@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart-Warming Deliveries | 345598 | [345598-heart-warming-deliveries.json](./345598-heart-warming-deliveries.json) |
 | Heart.HalfHalf | 260384 | [260384-heart-halfhalf.json](./260384-heart-halfhalf.json) |
 | Heart's Medicine Collection | 53176 | [53176-hearts-medicine-collection.json](./53176-hearts-medicine-collection.json) |
+| Heart's Medicine: Season One | 88660 | [88660-hearts-medicine-season-one.json](./88660-hearts-medicine-season-one.json) |
 | Heart&Slash | 17911 | [17911-heart-and-slash.json](./17911-heart-and-slash.json) |
 | Heartache | 57687 | [57687-heartache.json](./57687-heartache.json) |
 | Heartbaked | 177504 | [177504-heartbaked.json](./177504-heartbaked.json) |
@@ -3646,6 +3647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexzen | 408950 | [408950-hexzen.json](./408950-hexzen.json) |
 | Hey Arnold!: Match-Master | 273883 | [273883-hey-arnold-match-master.json](./273883-hey-arnold-match-master.json) |
 | Hey Bobby! | 331697 | [331697-hey-bobby.json](./331697-hey-bobby.json) |
+| Hey Duggee: The Big Badge App | 88593 | [88593-hey-duggee-the-big-badge-app.json](./88593-hey-duggee-the-big-badge-app.json) |
 | Hey Duggee: The Big Outdoor App | 88308 | [88308-hey-duggee-the-big-outdoor-app.json](./88308-hey-duggee-the-big-outdoor-app.json) |
 | Hey Duggee: We Love Animals | 96184 | [96184-hey-duggee-we-love-animals.json](./96184-hey-duggee-we-love-animals.json) |
 | Hey Ma I'm a Dragon Now | 279586 | [279586-hey-ma-im-a-dragon-now.json](./279586-hey-ma-im-a-dragon-now.json) |
@@ -3956,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: Secret Vampire Rooms - Lost Kingdom: My Village | 86700 | [86700-hidden-objects-secret-vampire-rooms-lost-kingdom-my-village.json](./86700-hidden-objects-secret-vampire-rooms-lost-kingdom-my-village.json) |
 | Hidden Objects: Sherlock Holmes Mystery Case - The Big Apartment: My Mysterious House - The Big Hotel | 86723 | [86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json](./86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json) |
 | Hidden Objects: The Big Circus Mystery - My Watch Shop: Wanted Dead or Alive | 107677 | [107677-hidden-objects-the-big-circus-mystery-my-watch-shop-wanted-dead-or-alive.json](./107677-hidden-objects-the-big-circus-mystery-my-watch-shop-wanted-dead-or-alive.json) |
+| Hidden Objects: Travel London - Farm: Detective | 88669 | [88669-hidden-objects-travel-london-farm-detective.json](./88669-hidden-objects-travel-london-farm-detective.json) |
 | Hidden Objects: Victoria in Egypt - Cheops Pyramid | 200197 | [200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json](./200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json) |
 | Hidden Objects: Wallace & Gromit | 334916 | [334916-hidden-objects-wallace-and-gromit.json](./334916-hidden-objects-wallace-and-gromit.json) |
 | Hidden Oddities | 302099 | [302099-hidden-oddities.json](./302099-hidden-oddities.json) |
