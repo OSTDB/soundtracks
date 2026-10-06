@@ -3391,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross Floof | 116104 | [116104-picross-floof.json](./116104-picross-floof.json) |
 | Picross for a Cause | 139253 | [139253-picross-for-a-cause.json](./139253-picross-for-a-cause.json) |
 | Picross Hansel and Gretel - Nonograms | 116233 | [116233-picross-hansel-and-gretel-nonograms.json](./116233-picross-hansel-and-gretel-nonograms.json) |
+| Picross NP Vol. 1 | 76894 | [76894-picross-np-vol-1.json](./76894-picross-np-vol-1.json) |
 | Picross NP Vol. 2 | 148421 | [148421-picross-np-vol-2.json](./148421-picross-np-vol-2.json) |
 | Picross NP Vol. 3 | 148428 | [148428-picross-np-vol-3.json](./148428-picross-np-vol-3.json) |
 | Picross NP Vol. 4 | 148430 | [148430-picross-np-vol-4.json](./148430-picross-np-vol-4.json) |
@@ -8239,6 +8240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Soccer Online | 182202 | [182202-pro-soccer-online.json](./182202-pro-soccer-online.json) |
 | Pro Sport Hockey | 48220 | [48220-pro-sport-hockey.json](./48220-pro-sport-hockey.json) |
 | Pro Stadium | 268525 | [268525-pro-stadium.json](./268525-pro-stadium.json) |
+| Pro Strategy Football 2018 | 76917 | [76917-pro-strategy-football-2018.json](./76917-pro-strategy-football-2018.json) |
 | Pro Strategy Football 2021 | 168164 | [168164-pro-strategy-football-2021.json](./168164-pro-strategy-football-2021.json) |
 | Pro Strategy Football 2022 | 165623 | [165623-pro-strategy-football-2022.json](./165623-pro-strategy-football-2022.json) |
 | Pro Strategy Football 2024 | 263776 | [263776-pro-strategy-football-2024.json](./263776-pro-strategy-football-2024.json) |
