@@ -1835,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bat Fizz | 343936 | [343936-bat-fizz.json](./343936-bat-fizz.json) |
 | Bat Galaxy | 326779 | [326779-bat-galaxy.json](./326779-bat-galaxy.json) |
 | Bat Hero | 236388 | [236388-bat-hero.json](./236388-bat-hero.json) |
+| Bat Hotel | 116926 | [116926-bat-hotel.json](./116926-bat-hotel.json) |
 | Bat Lizard Bonanza | 186176 | [186176-bat-lizard-bonanza.json](./186176-bat-lizard-bonanza.json) |
 | Bat N' Ball | 237274 | [237274-bat-n-ball.json](./237274-bat-n-ball.json) |
 | Bat of Dead | 233252 | [233252-bat-of-dead.json](./233252-bat-of-dead.json) |
@@ -2953,6 +2954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeatBox Runner | 160130 | [160130-beatbox-runner.json](./160130-beatbox-runner.json) |
 | Beatbuddy: On Tour | 34170 | [34170-beatbuddy-on-tour.json](./34170-beatbuddy-on-tour.json) |
 | Beatcraft Cyclon | 232683 | [232683-beatcraft-cyclon.json](./232683-beatcraft-cyclon.json) |
+| Beatdown Dungeon | 116959 | [116959-beatdown-dungeon.json](./116959-beatdown-dungeon.json) |
 | Beatem Tom and Jerry | 100822 | [100822-beatem-tom-and-jerry.json](./100822-beatem-tom-and-jerry.json) |
 | Beaten Path | 264711 | [264711-beaten-path.json](./264711-beaten-path.json) |
 | Beater: Apocal Undone | 290492 | [290492-beater-apocal-undone.json](./290492-beater-apocal-undone.json) |
@@ -6240,6 +6242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Chips | 191126 | [191126-blue-chips.json](./191126-blue-chips.json) |
 | Blue Cradle: Signifie | 265143 | [265143-blue-cradle-signifie.json](./265143-blue-cradle-signifie.json) |
 | Blue Crow | 385822 | [385822-blue-crow.json](./385822-blue-crow.json) |
+| Blue Crystal | 116914 | [116914-blue-crystal.json](./116914-blue-crystal.json) |
 | Blue Delta | 350599 | [350599-blue-delta.json](./350599-blue-delta.json) |
 | Blue Dragon: Awakened Shadow | 20465 | [20465-blue-dragon-awakened-shadow.json](./20465-blue-dragon-awakened-shadow.json) |
 | Blue Dragon: Shuffle Dungeon | 259863 | [259863-blue-dragon-shuffle-dungeon.json](./259863-blue-dragon-shuffle-dungeon.json) |
@@ -9147,6 +9150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bull-Bia Ricky | 291456 | [291456-bull-bia-ricky.json](./291456-bull-bia-ricky.json) |
 | Bull3000VRTS | 369649 | [369649-bull3000vrts.json](./369649-bull3000vrts.json) |
 | Bullcrap! | 215022 | [215022-bullcrap.json](./215022-bullcrap.json) |
+| Bulldozer | 116949 | [116949-bulldozer.json](./116949-bulldozer.json) |
 | Bulldozer Bob | 146921 | [146921-bulldozer-bob.json](./146921-bulldozer-bob.json) |
 | Bulldozer Crash | 227466 | [227466-bulldozer-crash.json](./227466-bulldozer-crash.json) |
 | Bulle | 178590 | [178590-bulle.json](./178590-bulle.json) |
@@ -9328,6 +9332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker Farmer | 296590 | [296590-bunker-farmer.json](./296590-bunker-farmer.json) |
 | Bunker Life | 220870 | [220870-bunker-life.json](./220870-bunker-life.json) |
 | Bunker of Barzai | 271460 | [271460-bunker-of-barzai.json](./271460-bunker-of-barzai.json) |
+| Bunker: Nightmare Begins | 116925 | [116925-bunker-nightmare-begins.json](./116925-bunker-nightmare-begins.json) |
 | Bunker16 | 223684 | [223684-bunker16.json](./223684-bunker16.json) |
 | Bunmei Kaika: Aoiza Ibunroku | 221966 | [221966-bunmei-kaika-aoiza-ibunroku.json](./221966-bunmei-kaika-aoiza-ibunroku.json) |
 | Bunmei Kaika: Aoiza Ibunroku Saien | 59391 | [59391-bunmei-kaika-aoiza-ibunroku-saien.json](./59391-bunmei-kaika-aoiza-ibunroku-saien.json) |
