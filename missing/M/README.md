@@ -2915,6 +2915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Chaos | 398362 | [398362-master-of-chaos.json](./398362-master-of-chaos.json) |
 | Master of Cladia | 385282 | [385282-master-of-cladia.json](./385282-master-of-cladia.json) |
 | Master of Command | 298178 | [298178-master-of-command.json](./298178-master-of-command.json) |
+| Master of Defense | 64729 | [64729-master-of-defense.json](./64729-master-of-defense.json) |
 | Master of Dimensions | 7695 | [7695-master-of-dimensions.json](./7695-master-of-dimensions.json) |
 | Master of Dodging | 367631 | [367631-master-of-dodging.json](./367631-master-of-dodging.json) |
 | Master of Earth | 211213 | [211213-master-of-earth.json](./211213-master-of-earth.json) |
@@ -4558,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaPak 1 | 138754 | [138754-megapak-1.json](./138754-megapak-1.json) |
 | Megaplex | 94722 | [94722-megaplex.json](./94722-megaplex.json) |
 | Megaplex Madness 2: Summer Blockbuster | 352383 | [352383-megaplex-madness-2-summer-blockbuster.json](./352383-megaplex-madness-2-summer-blockbuster.json) |
+| Megaplex Madness: Now Playing | 64730 | [64730-megaplex-madness-now-playing.json](./64730-megaplex-madness-now-playing.json) |
 | Megaplex Manager | 102116 | [102116-megaplex-manager.json](./102116-megaplex-manager.json) |
 | Megapolis | 196320 | [196320-megapolis.json](./196320-megapolis.json) |
 | Megaquarium: Invertebrilliant Collection | 392780 | [392780-megaquarium-invertebrilliant-collection.json](./392780-megaquarium-invertebrilliant-collection.json) |
@@ -11843,6 +11845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: The Riddle of Mrs. Bishop - Collector's Edition | 360039 | [360039-mystery-case-files-the-riddle-of-mrs-bishop-collectors-edition.json](./360039-mystery-case-files-the-riddle-of-mrs-bishop-collectors-edition.json) |
 | Mystery Castle | 19889 | [19889-mystery-castle.json](./19889-mystery-castle.json) |
 | Mystery Cat | 257519 | [257519-mystery-cat.json](./257519-mystery-cat.json) |
+| Mystery Chronicles: Murder Among Friends | 64727 | [64727-mystery-chronicles-murder-among-friends.json](./64727-mystery-chronicles-murder-among-friends.json) |
 | Mystery Chronicles: One Way Heroics | 124745 | [124745-mystery-chronicles-one-way-heroics.json](./124745-mystery-chronicles-one-way-heroics.json) |
 | Mystery Circle | 37916 | [37916-mystery-circle.json](./37916-mystery-circle.json) |
 | Mystery Coin | 195557 | [195557-mystery-coin.json](./195557-mystery-coin.json) |
