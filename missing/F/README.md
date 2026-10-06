@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable Mosaics: Rapunzel | 294218 | [294218-fable-mosaics-rapunzel.json](./294218-fable-mosaics-rapunzel.json) |
 | Fable Rush | 52283 | [52283-fable-rush.json](./52283-fable-rush.json) |
 | Fable: 20th Anniversary Demake | 342668 | [342668-fable-20th-anniversary-demake.json](./342668-fable-20th-anniversary-demake.json) |
+| Fable: Coin Golf | 92131 | [92131-fable-coin-golf.json](./92131-fable-coin-golf.json) |
 | Fable: The Lost Chapters | 694 | [694-fable-the-lost-chapters.json](./694-fable-the-lost-chapters.json) |
 | Fableborne | 379584 | [379584-fableborne.json](./379584-fableborne.json) |
 | FableBrawl | 411113 | [411113-fablebrawl.json](./411113-fablebrawl.json) |
@@ -2863,6 +2864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Legacy | 25697 | [25697-final-legacy.json](./25697-final-legacy.json) |
 | Final Liberation: Warhammer Epic 40,000 | 12521 | [12521-final-liberation-warhammer-epic-40-000.json](./12521-final-liberation-warhammer-epic-40-000.json) |
 | Final Light: The Prison | 105892 | [105892-final-light-the-prison.json](./105892-final-light-the-prison.json) |
+| Final Lolita | 92144 | [92144-final-lolita.json](./92144-final-lolita.json) |
 | final m00n - Defender of the Cubes | 113752 | [113752-final-m00n-defender-of-the-cubes.json](./113752-final-m00n-defender-of-the-cubes.json) |
 | Final Match | 99730 | [99730-final-match.json](./99730-final-match.json) |
 | Final Mission | 215141 | [215141-final-mission.json](./215141-final-mission.json) |
@@ -6253,6 +6255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free-Energy | 180576 | [180576-free-energy.json](./180576-free-energy.json) |
 | Free.ksPeak | 285999 | [285999-free-kspeak.json](./285999-free-kspeak.json) |
 | Free.Will | 180078 | [180078-free-will.json](./180078-free-will.json) |
+| Freeballin' | 92159 | [92159-freeballin.json](./92159-freeballin.json) |
 | Freebie | 32400 | [32400-freebie.json](./32400-freebie.json) |
 | Freebooter of Splorr!! | 152492 | [152492-freebooter-of-splorr.json](./152492-freebooter-of-splorr.json) |
 | Freebot : Battle for FreeWeb | 103640 | [103640-freebot-battle-for-freeweb.json](./103640-freebot-battle-for-freeweb.json) |
@@ -7305,6 +7308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fura-fura Bouken Flan-chan | 205069 | [205069-fura-fura-bouken-flan-chan.json](./205069-fura-fura-bouken-flan-chan.json) |
 | Fura-fura Bouken Flan-chan: Kaizoku Zaihou Tanken-tai | 205070 | [205070-fura-fura-bouken-flan-chan-kaizoku-zaihou-tanken-tai.json](./205070-fura-fura-bouken-flan-chan-kaizoku-zaihou-tanken-tai.json) |
 | Fura-fura Puzzrumia! | 204670 | [204670-fura-fura-puzzrumia.json](./204670-fura-fura-puzzrumia.json) |
+| Furball | 92127 | [92127-furball.json](./92127-furball.json) |
 | Furball Farm | 324317 | [324317-furball-farm.json](./324317-furball-farm.json) |
 | FurBalls Racing | 207299 | [207299-furballs-racing.json](./207299-furballs-racing.json) |
 | Furby Island | 233987 | [233987-furby-island.json](./233987-furby-island.json) |
