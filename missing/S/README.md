@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabak Legend | 123563 | [123563-sabak-legend.json](./123563-sabak-legend.json) |
 | Saban's Mighty Morphin Power Rangers | 217939 | [217939-sabans-mighty-morphin-power-rangers.json](./217939-sabans-mighty-morphin-power-rangers.json) |
 | Saban's Mighty Morphin Power Rangers: Mega Battle | 78258 | [78258-sabans-mighty-morphin-power-rangers-mega-battle.json](./78258-sabans-mighty-morphin-power-rangers-mega-battle.json) |
+| Saban's Mighty Morphin Power Rangers: Mega Battle Launch Pack | 99743 | [99743-sabans-mighty-morphin-power-rangers-mega-battle-launch-pack.json](./99743-sabans-mighty-morphin-power-rangers-mega-battle-launch-pack.json) |
 | Saban's Power Rangers in Space | 217937 | [217937-sabans-power-rangers-in-space.json](./217937-sabans-power-rangers-in-space.json) |
 | Saban's Power Rangers Turbo | 217936 | [217936-sabans-power-rangers-turbo.json](./217936-sabans-power-rangers-turbo.json) |
 | Saban's Power Rangers Zeo Versus the Machine Empire | 73341 | [73341-sabans-power-rangers-zeo-versus-the-machine-empire.json](./73341-sabans-power-rangers-zeo-versus-the-machine-empire.json) |
@@ -2737,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Vol. 30: Galaxy Force II - Special Extended Edition | 64897 | [64897-sega-ages-2500-vol-30-galaxy-force-ii-special-extended-edition.json](./64897-sega-ages-2500-vol-30-galaxy-force-ii-special-extended-edition.json) |
 | Sega Ages 2500 Vol. 32: Phantasy Star Complete Collection | 69267 | [69267-sega-ages-2500-vol-32-phantasy-star-complete-collection.json](./69267-sega-ages-2500-vol-32-phantasy-star-complete-collection.json) |
 | Sega Ages 2500 Vol. 4: Space Harrier | 96512 | [96512-sega-ages-2500-vol-4-space-harrier.json](./96512-sega-ages-2500-vol-4-space-harrier.json) |
+| Sega Ages 2500 Vol. 7: Columns | 99692 | [99692-sega-ages-2500-vol-7-columns.json](./99692-sega-ages-2500-vol-7-columns.json) |
 | Sega Ages 2500 Vol. 8: Virtua Racing FlatOut | 96528 | [96528-sega-ages-2500-vol-8-virtua-racing-flatout.json](./96528-sega-ages-2500-vol-8-virtua-racing-flatout.json) |
 | Sega Ages Fantasy Zone | 117158 | [117158-sega-ages-fantasy-zone.json](./117158-sega-ages-fantasy-zone.json) |
 | Sega Ages G-LOC: Air Battle | 117157 | [117157-sega-ages-g-loc-air-battle.json](./117157-sega-ages-g-loc-air-battle.json) |
@@ -4732,6 +4734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiny Summer | 164897 | [164897-shiny-summer.json](./164897-shiny-summer.json) |
 | Shiny the Firefly | 10823 | [10823-shiny-the-firefly.json](./10823-shiny-the-firefly.json) |
 | Shiny-Man-Adventures | 211751 | [211751-shiny-man-adventures.json](./211751-shiny-man-adventures.json) |
+| Shiny: A Robotic Adventure | 99726 | [99726-shiny-a-robotic-adventure.json](./99726-shiny-a-robotic-adventure.json) |
 | Shiny: Deluxe Edition | 118929 | [118929-shiny-deluxe-edition.json](./118929-shiny-deluxe-edition.json) |
 | Shinya Ichi-ji no Koukanshu | 329234 | [329234-shinya-ichi-ji-no-koukanshu.json](./329234-shinya-ichi-ji-no-koukanshu.json) |
 | Shinya Ichizoku: The Battle for Hokkaido's Delicious Foods | 186908 | [186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json](./186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json) |
@@ -6403,6 +6406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Days in Fallujah | 143482 | [143482-six-days-in-fallujah.json](./143482-six-days-in-fallujah.json) |
 | Six Days in Fallujah | 36538 | [36538-six-days-in-fallujah.json](./36538-six-days-in-fallujah.json) |
 | Six Degrees of Damnation | 118981 | [118981-six-degrees-of-damnation.json](./118981-six-degrees-of-damnation.json) |
+| Six Dots | 99710 | [99710-six-dots.json](./99710-six-dots.json) |
 | Six F and Six 0 | 151660 | [151660-six-f-and-six-0.json](./151660-six-f-and-six-0.json) |
 | Six Flags Fun Park | 206039 | [206039-six-flags-fun-park.json](./206039-six-flags-fun-park.json) |
 | Six Flags Fun Park | 85164 | [85164-six-flags-fun-park.json](./85164-six-flags-fun-park.json) |
@@ -15847,6 +15851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subjectivation | 341910 | [341910-subjectivation.json](./341910-subjectivation.json) |
 | Sublight | 377057 | [377057-sublight.json](./377057-sublight.json) |
 | Subliminal Realms: The Masterpiece | 140290 | [140290-subliminal-realms-the-masterpiece.json](./140290-subliminal-realms-the-masterpiece.json) |
+| Subliminal Realms: The Masterpiece HD | 99717 | [99717-subliminal-realms-the-masterpiece-hd.json](./99717-subliminal-realms-the-masterpiece-hd.json) |
 | Subliminal Region | 168132 | [168132-subliminal-region.json](./168132-subliminal-region.json) |
 | Sublimity | 292528 | [292528-sublimity.json](./292528-sublimity.json) |
 | Subluminal | 189942 | [189942-subluminal.json](./189942-subluminal.json) |
@@ -18476,6 +18481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Cola Dash Deluxe! | 374667 | [374667-supermarket-cola-dash-deluxe.json](./374667-supermarket-cola-dash-deluxe.json) |
 | Supermarket Duck Dash | 221160 | [221160-supermarket-duck-dash.json](./221160-supermarket-duck-dash.json) |
 | Supermarket Electronic | 416069 | [416069-supermarket-electronic.json](./416069-supermarket-electronic.json) |
+| Supermarket Girl | 99693 | [99693-supermarket-girl.json](./99693-supermarket-girl.json) |
 | Supermarket Grocery Simulator | 319774 | [319774-supermarket-grocery-simulator.json](./319774-supermarket-grocery-simulator.json) |
 | Supermarket Guard Simulator | 393113 | [393113-supermarket-guard-simulator.json](./393113-supermarket-guard-simulator.json) |
 | Supermarket Life Simulator | 407487 | [407487-supermarket-life-simulator.json](./407487-supermarket-life-simulator.json) |
