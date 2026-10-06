@@ -1475,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Davigo | 121403 | [121403-davigo.json](./121403-davigo.json) |
 | Davis Cup | 172597 | [172597-davis-cup.json](./172597-davis-cup.json) |
 | Davis Haunted House | 340942 | [340942-davis-haunted-house.json](./340942-davis-haunted-house.json) |
+| Davy Jones C'est Mort | 71152 | [71152-davy-jones-cest-mort.json](./71152-davy-jones-cest-mort.json) |
 | Davy Jones Dating Simulator | 282710 | [282710-davy-jones-dating-simulator.json](./282710-davy-jones-dating-simulator.json) |
 | Davy Jones is Back | 71241 | [71241-davy-jones-is-back.json](./71241-davy-jones-is-back.json) |
 | Davy Jones' Locker | 177024 | [177024-davy-jones-locker.json](./177024-davy-jones-locker.json) |
@@ -2997,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender of Diosa | 341090 | [341090-defender-of-diosa.json](./341090-defender-of-diosa.json) |
 | Defender of Falyndor | 311604 | [311604-defender-of-falyndor.json](./311604-defender-of-falyndor.json) |
 | Defender of Freedom | 65734 | [65734-defender-of-freedom.json](./65734-defender-of-freedom.json) |
+| Defender of RON | 71174 | [71174-defender-of-ron.json](./71174-defender-of-ron.json) |
 | Defender of the Crown | 1873 | [1873-defender-of-the-crown.json](./1873-defender-of-the-crown.json) |
 | Defender of the Crown: Digitally Remastered Edition | 170339 | [170339-defender-of-the-crown-digitally-remastered-edition.json](./170339-defender-of-the-crown-digitally-remastered-edition.json) |
 | Defender of the Favicon | 201095 | [201095-defender-of-the-favicon.json](./201095-defender-of-the-favicon.json) |
@@ -7398,6 +7400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Kareshi: We're 8bit Lovers! III - Yami no Hanayome | 206232 | [206232-dot-kareshi-were-8bit-lovers-iii-yami-no-hanayome.json](./206232-dot-kareshi-were-8bit-lovers-iii-yami-no-hanayome.json) |
 | Dot Ninja | 179183 | [179183-dot-ninja.json](./179183-dot-ninja.json) |
 | Dot Pop! | 99184 | [99184-dot-pop.json](./99184-dot-pop.json) |
+| Dot Pull | 71153 | [71153-dot-pull.json](./71153-dot-pull.json) |
 | Dot Scape | 379510 | [379510-dot-scape.json](./379510-dot-scape.json) |
 | Dot Tanki | 222940 | [222940-dot-tanki.json](./222940-dot-tanki.json) |
 | Dot to Tot - Connect Alphabets | 88210 | [88210-dot-to-tot-connect-alphabets.json](./88210-dot-to-tot-connect-alphabets.json) |
