@@ -8470,6 +8470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks n Balls | 89246 | [89246-bricks-n-balls.json](./89246-bricks-n-balls.json) |
 | Bricks of Atlantis | 70108 | [70108-bricks-of-atlantis.json](./70108-bricks-of-atlantis.json) |
 | Bricks of Rome | 254699 | [254699-bricks-of-rome.json](./254699-bricks-of-rome.json) |
+| Bricks4ever | 79569 | [79569-bricks4ever.json](./79569-bricks4ever.json) |
 | Bricksbumpbump | 325830 | [325830-bricksbumpbump.json](./325830-bricksbumpbump.json) |
 | Brickscapes: Bricks Breaker | 237283 | [237283-brickscapes-bricks-breaker.json](./237283-brickscapes-bricks-breaker.json) |
 | BrickShooter | 93208 | [93208-brickshooter.json](./93208-brickshooter.json) |
@@ -9207,6 +9208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buhei | 265397 | [265397-buhei.json](./265397-buhei.json) |
 | Buhoi Batya | 111594 | [111594-buhoi-batya.json](./111594-buhoi-batya.json) |
 | Buhumi II | 91581 | [91581-buhumi-ii.json](./91581-buhumi-ii.json) |
+| Buichi Terasawa's Takeru: Letter of the Law | 79537 | [79537-buichi-terasawas-takeru-letter-of-the-law.json](./79537-buichi-terasawas-takeru-letter-of-the-law.json) |
 | Buick PGA Tour Courses | 100136 | [100136-buick-pga-tour-courses.json](./100136-buick-pga-tour-courses.json) |
 | Build & Battle | 166694 | [166694-build-and-battle.json](./166694-build-and-battle.json) |
 | Build & Feast Collection | 328561 | [328561-build-and-feast-collection.json](./328561-build-and-feast-collection.json) |
