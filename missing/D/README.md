@@ -5107,6 +5107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinodon | 238624 | [238624-dinodon.json](./238624-dinodon.json) |
 | DinoFense | 30169 | [30169-dinofense.json](./30169-dinofense.json) |
 | Dinofurie | 332417 | [332417-dinofurie.json](./332417-dinofurie.json) |
+| Dinogen | 101706 | [101706-dinogen.json](./101706-dinogen.json) |
 | Dinogen Online: Commando Bundle | 253468 | [253468-dinogen-online-commando-bundle.json](./253468-dinogen-online-commando-bundle.json) |
 | DinoGore | 358348 | [358348-dinogore.json](./358348-dinogore.json) |
 | Dinogotchi | 173311 | [173311-dinogotchi.json](./173311-dinogotchi.json) |
