@@ -3688,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonstop | 188427 | [188427-nonstop.json](./188427-nonstop.json) |
 | Nonstop Arrow | 246931 | [246931-nonstop-arrow.json](./246931-nonstop-arrow.json) |
 | Nonstop Balls | 87731 | [87731-nonstop-balls.json](./87731-nonstop-balls.json) |
+| Nonstop Chuck Norris | 75402 | [75402-nonstop-chuck-norris.json](./75402-nonstop-chuck-norris.json) |
 | Nonstop Game | 208966 | [208966-nonstop-game.json](./208966-nonstop-game.json) |
 | Nonstop Knight | 57367 | [57367-nonstop-knight.json](./57367-nonstop-knight.json) |
 | Nontan to Issho: Hoshi no Okurimono | 268518 | [268518-nontan-to-issho-hoshi-no-okurimono.json](./268518-nontan-to-issho-hoshi-no-okurimono.json) |
