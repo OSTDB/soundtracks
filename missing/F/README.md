@@ -41,12 +41,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-Team | 211803 | [211803-f-team.json](./211803-f-team.json) |
 | F-Zero | 3490 | [3490-f-zero.json](./3490-f-zero.json) |
 | F-Zero 99: Ver. 1.5.0 | 329658 | [329658-f-zero-99-ver-1-5-0.json](./329658-f-zero-99-ver-1-5-0.json) |
+| F-Zero AX | 78271 | [78271-f-zero-ax.json](./78271-f-zero-ax.json) |
 | F-Zero Climax | 6400 | [6400-f-zero-climax.json](./6400-f-zero-climax.json) |
 | F-Zero DSX | 313346 | [313346-f-zero-dsx.json](./313346-f-zero-dsx.json) |
 | F-Zero GX | 3492 | [3492-f-zero-gx.json](./3492-f-zero-gx.json) |
 | F-Zero GX Demake Overdrive | 290106 | [290106-f-zero-gx-demake-overdrive.json](./290106-f-zero-gx-demake-overdrive.json) |
 | F-Zero X | 3489 | [3489-f-zero-x.json](./3489-f-zero-x.json) |
 | F-Zero X Climax | 135258 | [135258-f-zero-x-climax.json](./135258-f-zero-x-climax.json) |
+| F-Zero X Expansion Kit | 78269 | [78269-f-zero-x-expansion-kit.json](./78269-f-zero-x-expansion-kit.json) |
 | F-Zero ZX Overdrive | 173084 | [173084-f-zero-zx-overdrive.json](./173084-f-zero-zx-overdrive.json) |
 | F-Zero: Falcon Densetsu | 329645 | [329645-f-zero-falcon-densetsu.json](./329645-f-zero-falcon-densetsu.json) |
 | F-Zero: Falcon Densetsu e+ - Big Blue: Pigeon | 329545 | [329545-f-zero-falcon-densetsu-e-big-blue-pigeon.json](./329545-f-zero-falcon-densetsu-e-big-blue-pigeon.json) |
@@ -6349,6 +6351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freespace 2 | 722 | [722-freespace-2.json](./722-freespace-2.json) |
 | Freestead Castle Defense | 292553 | [292553-freestead-castle-defense.json](./292553-freestead-castle-defense.json) |
 | Freestyle Baseball 2 | 239890 | [239890-freestyle-baseball-2.json](./239890-freestyle-baseball-2.json) |
+| Freestyle BMX: featuring Brian Foster & Joey Garcia | 78318 | [78318-freestyle-bmx-featuring-brian-foster-and-joey-garcia.json](./78318-freestyle-bmx-featuring-brian-foster-and-joey-garcia.json) |
 | Freestyle Boardin' '99 | 23155 | [23155-freestyle-boardin-99.json](./23155-freestyle-boardin-99.json) |
 | FreeStyle Football | 30033 | [30033-freestyle-football.json](./30033-freestyle-football.json) |
 | Freestyle Football R | 213008 | [213008-freestyle-football-r.json](./213008-freestyle-football-r.json) |
@@ -6817,6 +6820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Forge | 413769 | [413769-frontier-forge.json](./413769-frontier-forge.json) |
 | Frontier Fortress | 194997 | [194997-frontier-fortress.json](./194997-frontier-fortress.json) |
 | Frontier Fugitive | 300337 | [300337-frontier-fugitive.json](./300337-frontier-fugitive.json) |
+| Frontier Gate | 78277 | [78277-frontier-gate.json](./78277-frontier-gate.json) |
 | Frontier Gate Boost+ | 159214 | [159214-frontier-gate-boost.json](./159214-frontier-gate-boost.json) |
 | Frontier Heroes | 396586 | [396586-frontier-heroes.json](./396586-frontier-heroes.json) |
 | Frontier Hunter: Costume Pack Season 3 | 265251 | [265251-frontier-hunter-costume-pack-season-3.json](./265251-frontier-hunter-costume-pack-season-3.json) |
