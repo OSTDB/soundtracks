@@ -3399,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes, Warlords and Ruin | 398533 | [398533-heroes-warlords-and-ruin.json](./398533-heroes-warlords-and-ruin.json) |
 | Heroes: The Official Mobile Game | 264132 | [264132-heroes-the-official-mobile-game.json](./264132-heroes-the-official-mobile-game.json) |
 | HeroField: Game Craft | 368514 | [368514-herofield-game-craft.json](./368514-herofield-game-craft.json) |
+| Herogest | 87801 | [87801-herogest.json](./87801-herogest.json) |
 | Heroglobin: Monster Hospital | 311122 | [311122-heroglobin-monster-hospital.json](./311122-heroglobin-monster-hospital.json) |
 | Herogrinder: Tactical Combat Arenas | 122397 | [122397-herogrinder-tactical-combat-arenas.json](./122397-herogrinder-tactical-combat-arenas.json) |
 | Herogue | 224633 | [224633-herogue.json](./224633-herogue.json) |
