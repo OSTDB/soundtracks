@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldorado Gate Volume 7 | 5558 | [5558-eldorado-gate-volume-7.json](./5558-eldorado-gate-volume-7.json) |
 | Eldoria: The Cursed Crown | 310758 | [310758-eldoria-the-cursed-crown.json](./310758-eldoria-the-cursed-crown.json) |
 | Eldorion: Guardians of the Crystals | 346604 | [346604-eldorion-guardians-of-the-crystals.json](./346604-eldorion-guardians-of-the-crystals.json) |
+| Eldr Legacy | 102881 | [102881-eldr-legacy.json](./102881-eldr-legacy.json) |
 | Eldrador Creatures | 139836 | [139836-eldrador-creatures.json](./139836-eldrador-creatures.json) |
 | Eldramoor: Haven in the Mist | 397671 | [397671-eldramoor-haven-in-the-mist.json](./397671-eldramoor-haven-in-the-mist.json) |
 | Eldrian Legacy | 109524 | [109524-eldrian-legacy.json](./109524-eldrian-legacy.json) |
