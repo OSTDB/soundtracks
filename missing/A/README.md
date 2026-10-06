@@ -3731,6 +3731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Japan Super Bombliss Cup '95: Dai-2-kai | 179708 | [179708-all-japan-super-bombliss-cup-95-dai-2-kai.json](./179708-all-japan-super-bombliss-cup-95-dai-2-kai.json) |
 | All Japan Super Bombliss Cup '95: Dai-3-kai | 179709 | [179709-all-japan-super-bombliss-cup-95-dai-3-kai.json](./179709-all-japan-super-bombliss-cup-95-dai-3-kai.json) |
 | All Japan Super Bombliss Cup '95: Dai-4-kai | 179710 | [179710-all-japan-super-bombliss-cup-95-dai-4-kai.json](./179710-all-japan-super-bombliss-cup-95-dai-4-kai.json) |
+| All Kamen Rider: Rider Generation | 65849 | [65849-all-kamen-rider-rider-generation.json](./65849-all-kamen-rider-rider-generation.json) |
 | All Kamen Rider: Rider Generation 2 | 64575 | [64575-all-kamen-rider-rider-generation-2.json](./64575-all-kamen-rider-rider-generation-2.json) |
 | All Kamen Rider: Rider Revolution | 81413 | [81413-all-kamen-rider-rider-revolution.json](./81413-all-kamen-rider-rider-revolution.json) |
 | All Men Are Pigs | 183041 | [183041-all-men-are-pigs.json](./183041-all-men-are-pigs.json) |
@@ -4320,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazon Quest | 245785 | [245785-amazon-quest.json](./245785-amazon-quest.json) |
 | Amazon Rush | 89271 | [89271-amazon-rush.json](./89271-amazon-rush.json) |
 | Amazon Skulls | 73735 | [73735-amazon-skulls.json](./73735-amazon-skulls.json) |
+| Amazon Trail II | 65850 | [65850-amazon-trail-ii.json](./65850-amazon-trail-ii.json) |
 | Amazon Warrior | 342053 | [342053-amazon-warrior.json](./342053-amazon-warrior.json) |
 | Amazona Adventure | 279593 | [279593-amazona-adventure.json](./279593-amazona-adventure.json) |
 | Amazonia | 202189 | [202189-amazonia.json](./202189-amazonia.json) |
@@ -7511,6 +7513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armour-Geddon II: Codename Hellfire | 14267 | [14267-armour-geddon-ii-codename-hellfire.json](./14267-armour-geddon-ii-codename-hellfire.json) |
 | Armoured Onslaught | 129223 | [129223-armoured-onslaught.json](./129223-armoured-onslaught.json) |
 | Arms Devicer S!! | 82895 | [82895-arms-devicer-s.json](./82895-arms-devicer-s.json) |
+| Arms of Telos | 65839 | [65839-arms-of-telos.json](./65839-arms-of-telos.json) |
 | Arms Race 2 | 236420 | [236420-arms-race-2.json](./236420-arms-race-2.json) |
 | Arms Race: TCWE | 29691 | [29691-arms-race-tcwe.json](./29691-arms-race-tcwe.json) |
 | Arms Race: TCWE - Industrialization | 172191 | [172191-arms-race-tcwe-industrialization.json](./172191-arms-race-tcwe-industrialization.json) |
@@ -7544,6 +7547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men: World War - Land Sea Air | 45097 | [45097-army-men-world-war-land-sea-air.json](./45097-army-men-world-war-land-sea-air.json) |
 | Army Moves | 11916 | [11916-army-moves.json](./11916-army-moves.json) |
 | Army of Ages | 286651 | [286651-army-of-ages.json](./286651-army-of-ages.json) |
+| Army of Darkness Defense | 65853 | [65853-army-of-darkness-defense.json](./65853-army-of-darkness-defense.json) |
 | Army of Darkness Doom 2 Total Conversion | 381149 | [381149-army-of-darkness-doom-2-total-conversion.json](./381149-army-of-darkness-doom-2-total-conversion.json) |
 | Army of Frogs HD | 254670 | [254670-army-of-frogs-hd.json](./254670-army-of-frogs-hd.json) |
 | Army of Ninjas | 240195 | [240195-army-of-ninjas.json](./240195-army-of-ninjas.json) |
@@ -9578,6 +9582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avventura nel Castello | 304177 | [304177-avventura-nel-castello.json](./304177-avventura-nel-castello.json) |
 | Avy, Fables of the Night | 269288 | [269288-avy-fables-of-the-night.json](./269288-avy-fables-of-the-night.json) |
 | Aw Heck, War! | 241302 | [241302-aw-heck-war.json](./241302-aw-heck-war.json) |
+| Aw Nutz | 65815 | [65815-aw-nutz.json](./65815-aw-nutz.json) |
 | AWA | 32877 | [32877-awa.json](./32877-awa.json) |
 | AWA 2024 | 278169 | [278169-awa-2024.json](./278169-awa-2024.json) |
 | Awaiting Salvation | 119737 | [119737-awaiting-salvation.json](./119737-awaiting-salvation.json) |
