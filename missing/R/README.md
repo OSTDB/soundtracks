@@ -6657,6 +6657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run and Hunt: Skeleton Rebellion | 298642 | [298642-run-and-hunt-skeleton-rebellion.json](./298642-run-and-hunt-skeleton-rebellion.json) |
 | Run and Jump Little Vico | 152727 | [152727-run-and-jump-little-vico.json](./152727-run-and-jump-little-vico.json) |
 | Run and Retry | 279902 | [279902-run-and-retry.json](./279902-run-and-retry.json) |
+| Run Around | 106510 | [106510-run-around.json](./106510-run-around.json) |
 | Run Away | 172041 | [172041-run-away.json](./172041-run-away.json) |
 | Run away 2 | 100598 | [100598-run-away-2.json](./100598-run-away-2.json) |
 | Run Away SkyDancer | 307726 | [307726-run-away-skydancer.json](./307726-run-away-skydancer.json) |
