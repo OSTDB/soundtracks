@@ -8917,6 +8917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Rat | 330829 | [330829-moon-rat.json](./330829-moon-rat.json) |
 | Moon Rider | 215171 | [215171-moon-rider.json](./215171-moon-rider.json) |
 | Moon Rider | 295026 | [295026-moon-rider.json](./295026-moon-rider.json) |
+| Moon River | 111590 | [111590-moon-river.json](./111590-moon-river.json) |
 | Moon River | 298303 | [298303-moon-river.json](./298303-moon-river.json) |
 | Moon Rover | 148126 | [148126-moon-rover.json](./148126-moon-rover.json) |
 | Moon Runner | 199125 | [199125-moon-runner.json](./199125-moon-runner.json) |
