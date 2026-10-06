@@ -2572,7 +2572,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otome Chat Connection | 199051 | [199051-otome-chat-connection.json](./199051-otome-chat-connection.json) |
 | Otome Daoshi Fighting For Love | 391856 | [391856-otome-daoshi-fighting-for-love.json](./391856-otome-daoshi-fighting-for-love.json) |
 | Otome Domain | 143356 | [143356-otome-domain.json](./143356-otome-domain.json) |
+| Otome ga Kanaderu Koi no Aria | 60376 | [60376-otome-ga-kanaderu-koi-no-aria.json](./60376-otome-ga-kanaderu-koi-no-aria.json) |
+| Otome ga Kanaderu Koi no Aria: Kimi ni Sasageru Encore | 60377 | [60377-otome-ga-kanaderu-koi-no-aria-kimi-ni-sasageru-encore.json](./60377-otome-ga-kanaderu-koi-no-aria-kimi-ni-sasageru-encore.json) |
 | Otome ga Musubu Tsukiyo no Kirameki | 194593 | [194593-otome-ga-musubu-tsukiyo-no-kirameki.json](./194593-otome-ga-musubu-tsukiyo-no-kirameki.json) |
+| Otome ga Tsumugu Koi no Canvas | 60371 | [60371-otome-ga-tsumugu-koi-no-canvas.json](./60371-otome-ga-tsumugu-koi-no-canvas.json) |
+| Otome ga Tsumugu Koi no Canvas: Futari no Gallery | 60372 | [60372-otome-ga-tsumugu-koi-no-canvas-futari-no-gallery.json](./60372-otome-ga-tsumugu-koi-no-canvas-futari-no-gallery.json) |
 | Otome Games: Is It Love? Ryan | 105778 | [105778-otome-games-is-it-love-ryan.json](./105778-otome-games-is-it-love-ryan.json) |
 | Otome Kishi: Ima Sugu Watashi wo Dakishimete | 415321 | [415321-otome-kishi-ima-sugu-watashi-wo-dakishimete.json](./415321-otome-kishi-ima-sugu-watashi-wo-dakishimete.json) |
 | Otome no Himitsu | 188526 | [188526-otome-no-himitsu.json](./188526-otome-no-himitsu.json) |
