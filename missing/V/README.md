@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ven Adventure | 216495 | [216495-ven-adventure.json](./216495-ven-adventure.json) |
 | Ven Games | 145472 | [145472-ven-games.json](./145472-ven-games.json) |
 | Ven'rif | 342900 | [342900-venrif.json](./342900-venrif.json) |
+| Venal Soul: Chapter One | 99132 | [99132-venal-soul-chapter-one.json](./99132-venal-soul-chapter-one.json) |
 | Venandi In Silva | 124217 | [124217-venandi-in-silva.json](./124217-venandi-in-silva.json) |
 | Venari | 128434 | [128434-venari.json](./128434-venari.json) |
 | Venatio | 188073 | [188073-venatio.json](./188073-venatio.json) |
@@ -1615,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visual echoes | 183941 | [183941-visual-echoes.json](./183941-visual-echoes.json) |
 | Visual Novel Sisters | 167169 | [167169-visual-novel-sisters.json](./167169-visual-novel-sisters.json) |
 | Visual Novel: Call of Toilet | 397247 | [397247-visual-novel-call-of-toilet.json](./397247-visual-novel-call-of-toilet.json) |
+| Visual Pinball | 99113 | [99113-visual-pinball.json](./99113-visual-pinball.json) |
 | Visual Quiz Kore Naanda? | 260698 | [260698-visual-quiz-kore-naanda.json](./260698-visual-quiz-kore-naanda.json) |
 | Visualizer | 80590 | [80590-visualizer.json](./80590-visualizer.json) |
 | Vita Mahjong | 344507 | [344507-vita-mahjong.json](./344507-vita-mahjong.json) |
@@ -2161,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Rome | 111385 | [111385-vr-rome.json](./111385-vr-rome.json) |
 | VR Room: The Flintstones | 279674 | [279674-vr-room-the-flintstones.json](./279674-vr-room-the-flintstones.json) |
 | VR Run | 224546 | [224546-vr-run.json](./224546-vr-run.json) |
+| VR RV | 99077 | [99077-vr-rv.json](./99077-vr-rv.json) |
 | VR Sailing | 338561 | [338561-vr-sailing.json](./338561-vr-sailing.json) |
 | VR Sand | 115150 | [115150-vr-sand.json](./115150-vr-sand.json) |
 | VR Secretary: Ailey Edition | 338560 | [338560-vr-secretary-ailey-edition.json](./338560-vr-secretary-ailey-edition.json) |
