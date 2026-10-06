@@ -3610,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revive: C64 Classics | 84199 | [84199-revive-c64-classics.json](./84199-revive-c64-classics.json) |
 | Revived | 181728 | [181728-revived.json](./181728-revived.json) |
 | Revived Forest | 203806 | [203806-revived-forest.json](./203806-revived-forest.json) |
+| Revived Legends: Titan's Revenge HD | 107099 | [107099-revived-legends-titans-revenge-hd.json](./107099-revived-legends-titans-revenge-hd.json) |
 | Revived Souls | 163912 | [163912-revived-souls.json](./163912-revived-souls.json) |
 | Revived Witch | 170356 | [170356-revived-witch.json](./170356-revived-witch.json) |
 | Reviver | 292583 | [292583-reviver.json](./292583-reviver.json) |
@@ -6412,6 +6413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RS3: Racing Simulation Three | 73359 | [73359-rs3-racing-simulation-three.json](./73359-rs3-racing-simulation-three.json) |
 | RSDKv4 Decompilation | 202233 | [202233-rsdkv4-decompilation.json](./202233-rsdkv4-decompilation.json) |
 | RSSU: Retro Style Soviet Undies | 298065 | [298065-rssu-retro-style-soviet-undies.json](./298065-rssu-retro-style-soviet-undies.json) |
+| RSweeps | 107081 | [107081-rsweeps.json](./107081-rsweeps.json) |
 | RTA Adventure | 407447 | [407447-rta-adventure.json](./407447-rta-adventure.json) |
 | RTA New York Street | 359992 | [359992-rta-new-york-street.json](./359992-rta-new-york-street.json) |
 | RTA Run!! | 407451 | [407451-rta-run.json](./407451-rta-run.json) |
