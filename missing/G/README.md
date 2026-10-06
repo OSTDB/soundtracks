@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Chest: Board Games | 100253 | [100253-game-chest-board-games.json](./100253-game-chest-board-games.json) |
 | Game Chest: Logic Games | 100252 | [100252-game-chest-logic-games.json](./100252-game-chest-logic-games.json) |
 | Game Chinese | 105949 | [105949-game-chinese.json](./105949-game-chinese.json) |
+| Game classix | 91593 | [91593-game-classix.json](./91593-game-classix.json) |
 | Game club "Waka-Waka" | 117064 | [117064-game-club-waka-waka.json](./117064-game-club-waka-waka.json) |
 | Game Collecting Simulator | 239714 | [239714-game-collecting-simulator.json](./239714-game-collecting-simulator.json) |
 | Game Collector | 266792 | [266792-game-collector.json](./266792-game-collector.json) |
@@ -4604,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Was A Mistake | 366830 | [366830-gravity-was-a-mistake.json](./366830-gravity-was-a-mistake.json) |
 | Gravity Waves | 253371 | [253371-gravity-waves.json](./253371-gravity-waves.json) |
 | Gravity Well | 142317 | [142317-gravity-well.json](./142317-gravity-well.json) |
+| Gravity Well | 91588 | [91588-gravity-well.json](./91588-gravity-well.json) |
 | Gravity: Sylux's Crusade | 338822 | [338822-gravity-syluxs-crusade.json](./338822-gravity-syluxs-crusade.json) |
 | Gravity's Apple | 330920 | [330920-gravitys-apple.json](./330920-gravitys-apple.json) |
 | Gravity's Edge | 386942 | [386942-gravitys-edge.json](./386942-gravitys-edge.json) |
@@ -5312,6 +5314,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grunder | 278517 | [278517-grunder.json](./278517-grunder.json) |
 | GrundHeim | 235969 | [235969-grundheim.json](./235969-grundheim.json) |
 | Grundlewhack | 380527 | [380527-grundlewhack.json](./380527-grundlewhack.json) |
+| Grundschule Deutsch | 91624 | [91624-grundschule-deutsch.json](./91624-grundschule-deutsch.json) |
+| Grundschule Mathematik | 91622 | [91622-grundschule-mathematik.json](./91622-grundschule-mathematik.json) |
+| Grundschule Sachkunde | 91620 | [91620-grundschule-sachkunde.json](./91620-grundschule-sachkunde.json) |
 | Gruniożerca | 195503 | [195503-gruniozerca.json](./195503-gruniozerca.json) |
 | Gruniożerca 2 | 195505 | [195505-gruniozerca-2.json](./195505-gruniozerca-2.json) |
 | Gruniożerca 3: The Great Cavy Clean-Up | 308402 | [308402-gruniozerca-3-the-great-cavy-clean-up.json](./308402-gruniozerca-3-the-great-cavy-clean-up.json) |
