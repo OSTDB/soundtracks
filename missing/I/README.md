@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I.O.R.C Impact Orbital Rescue Crew | 152773 | [152773-i-o-r-c-impact-orbital-rescue-crew.json](./152773-i-o-r-c-impact-orbital-rescue-crew.json) |
 | I.Q Intelligent Qube | 215363 | [215363-i-q-intelligent-qube.json](./215363-i-q-intelligent-qube.json) |
 | I.Q Mania | 72151 | [72151-i-q-mania.json](./72151-i-q-mania.json) |
+| I.Q Remix+: Intelligent Qube | 78295 | [78295-i-q-remix-intelligent-qube.json](./78295-i-q-remix-intelligent-qube.json) |
 | I.Rule | 208402 | [208402-i-rule.json](./208402-i-rule.json) |
 | I.T Never Ends | 388373 | [388373-i-t-never-ends.json](./388373-i-t-never-ends.json) |
 | I'd Kill You as a Worm | 331682 | [331682-id-kill-you-as-a-worm.json](./331682-id-kill-you-as-a-worm.json) |
