@@ -4004,6 +4004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Strike | 259027 | [259027-nova-strike.json](./259027-nova-strike.json) |
 | Nova Survivors | 372542 | [372542-nova-survivors.json](./372542-nova-survivors.json) |
 | Nova Urbana | 222859 | [222859-nova-urbana.json](./222859-nova-urbana.json) |
+| Nova Usagi no Game de Ryuugaku!? DS | 72929 | [72929-nova-usagi-no-game-de-ryuugaku-ds.json](./72929-nova-usagi-no-game-de-ryuugaku-ds.json) |
 | Nova Wing II | 95609 | [95609-nova-wing-ii.json](./95609-nova-wing-ii.json) |
 | Nova X9 | 258413 | [258413-nova-x9.json](./258413-nova-x9.json) |
 | Nova-111 | 12561 | [12561-nova-111.json](./12561-nova-111.json) |
