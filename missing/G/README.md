@@ -84,6 +84,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.G Series: The Spiky Blowfish!! | 84562 | [84562-g-g-series-the-spiky-blowfish.json](./84562-g-g-series-the-spiky-blowfish.json) |
 | G.G Series: Vector | 84561 | [84561-g-g-series-vector.json](./84561-g-g-series-vector.json) |
 | G.G Series: Vertex | 84560 | [84560-g-g-series-vertex.json](./84560-g-g-series-vertex.json) |
+| G.G Series: Wonder Land | 67643 | [67643-g-g-series-wonder-land.json](./67643-g-g-series-wonder-land.json) |
+| G.G Series: Z.ONE | 67642 | [67642-g-g-series-z-one.json](./67642-g-g-series-z-one.json) |
 | G.G. Series: Shin Hero Ouga | 67370 | [67370-g-g-series-shin-hero-ouga.json](./67370-g-g-series-shin-hero-ouga.json) |
 | G.H.O.S.T. Chronicles: Phantom of the Faire | 209598 | [209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json](./209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json) |
 | G.I. Joe: A Real American Hero | 218433 | [218433-g-i-joe-a-real-american-hero.json](./218433-g-i-joe-a-real-american-hero.json) |
@@ -1035,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardener Simulator | 390636 | [390636-gardener-simulator.json](./390636-gardener-simulator.json) |
 | Gardener's Quest | 287235 | [287235-gardeners-quest.json](./287235-gardeners-quest.json) |
 | Gardenia: Prologue | 402924 | [402924-gardenia-prologue.json](./402924-gardenia-prologue.json) |
+| Gardening Guide | 67616 | [67616-gardening-guide.json](./67616-gardening-guide.json) |
 | Gardening Mama | 11361 | [11361-gardening-mama.json](./11361-gardening-mama.json) |
 | Gardening Mama 2: Forest Friends | 6357 | [6357-gardening-mama-2-forest-friends.json](./6357-gardening-mama-2-forest-friends.json) |
 | Gardens Inc. 3: A Bridal Pursuit | 88826 | [88826-gardens-inc-3-a-bridal-pursuit.json](./88826-gardens-inc-3-a-bridal-pursuit.json) |
