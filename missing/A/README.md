@@ -5633,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Adventure | 27776 | [27776-another-adventure.json](./27776-another-adventure.json) |
 | Another Attack 2: Weissensee | 270686 | [270686-another-attack-2-weissensee.json](./270686-another-attack-2-weissensee.json) |
 | Another Attack: Woudrichem War | 270685 | [270685-another-attack-woudrichem-war.json](./270685-another-attack-woudrichem-war.json) |
+| Another Bible | 78310 | [78310-another-bible.json](./78310-another-bible.json) |
 | Another Big Base Attacked | 270694 | [270694-another-big-base-attacked.json](./270694-another-big-base-attacked.json) |
 | Another Boss Battle Test | 214716 | [214716-another-boss-battle-test.json](./214716-another-boss-battle-test.json) |
 | Another Brick in Space | 95601 | [95601-another-brick-in-space.json](./95601-another-brick-in-space.json) |
@@ -6327,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AR Basketball | 63247 | [63247-ar-basketball.json](./63247-ar-basketball.json) |
 | AR Butterflies and Flowers | 105773 | [105773-ar-butterflies-and-flowers.json](./105773-ar-butterflies-and-flowers.json) |
 | AR Darts | 55895 | [55895-ar-darts.json](./55895-ar-darts.json) |
+| AR Defender | 78284 | [78284-ar-defender.json](./78284-ar-defender.json) |
 | AR Flappy | 232186 | [232186-ar-flappy.json](./232186-ar-flappy.json) |
 | AR Invaders | 63248 | [63248-ar-invaders.json](./63248-ar-invaders.json) |
 | Ar Luminae | 221848 | [221848-ar-luminae.json](./221848-ar-luminae.json) |
