@@ -1902,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Line | 330158 | [330158-end-of-line.json](./330158-end-of-line.json) |
 | End of Lines | 188903 | [188903-end-of-lines.json](./188903-end-of-lines.json) |
 | End of Realms | 121413 | [121413-end-of-realms.json](./121413-end-of-realms.json) |
+| End of Serenity | 61466 | [61466-end-of-serenity.json](./61466-end-of-serenity.json) |
 | End of Sonic Inflation | 140540 | [140540-end-of-sonic-inflation.json](./140540-end-of-sonic-inflation.json) |
 | End of Space Project | 264651 | [264651-end-of-space-project.json](./264651-end-of-space-project.json) |
 | End of Starchild | 400374 | [400374-end-of-starchild.json](./400374-end-of-starchild.json) |
