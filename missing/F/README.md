@@ -1134,6 +1134,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics 45: Amusement Park | 296064 | [296064-fantasy-mosaics-45-amusement-park.json](./296064-fantasy-mosaics-45-amusement-park.json) |
 | Fantasy Mosaics 5 | 300375 | [300375-fantasy-mosaics-5.json](./300375-fantasy-mosaics-5.json) |
 | Fantasy Mosaics 54: Back to School | 378354 | [378354-fantasy-mosaics-54-back-to-school.json](./378354-fantasy-mosaics-54-back-to-school.json) |
+| Fantasy Mosaics 7: Our Home | 96838 | [96838-fantasy-mosaics-7-our-home.json](./96838-fantasy-mosaics-7-our-home.json) |
+| Fantasy Mosaics 9: Portal in the Woods | 96839 | [96839-fantasy-mosaics-9-portal-in-the-woods.json](./96839-fantasy-mosaics-9-portal-in-the-woods.json) |
 | Fantasy Mountains | 401027 | [401027-fantasy-mountains.json](./401027-fantasy-mountains.json) |
 | Fantasy of Esula | 292578 | [292578-fantasy-of-esula.json](./292578-fantasy-of-esula.json) |
 | Fantasy of Expedition | 113648 | [113648-fantasy-of-expedition.json](./113648-fantasy-of-expedition.json) |
@@ -1354,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Invasion USA | 61125 | [61125-farm-invasion-usa.json](./61125-farm-invasion-usa.json) |
 | Farm It: Fluffy DLC | 316209 | [316209-farm-it-fluffy-dlc.json](./316209-farm-it-fluffy-dlc.json) |
 | Farm It: Funky DLC | 316210 | [316210-farm-it-funky-dlc.json](./316210-farm-it-funky-dlc.json) |
+| Farm it! Seasons | 96921 | [96921-farm-it-seasons.json](./96921-farm-it-seasons.json) |
 | Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
 | Farm Keeper | 247034 | [247034-farm-keeper.json](./247034-farm-keeper.json) |
 | Farm Kitten: Puzzle Pipes | 165711 | [165711-farm-kitten-puzzle-pipes.json](./165711-farm-kitten-puzzle-pipes.json) |
@@ -2652,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Cut: Fame Fatale - A Hidden Object Adventure | 88468 | [88468-final-cut-fame-fatale-a-hidden-object-adventure.json](./88468-final-cut-fame-fatale-a-hidden-object-adventure.json) |
 | Final Cut: Homage | 98382 | [98382-final-cut-homage.json](./98382-final-cut-homage.json) |
 | Final Cut: The True Escapade | 98380 | [98380-final-cut-the-true-escapade.json](./98380-final-cut-the-true-escapade.json) |
+| Final Cut: The True Escapade - Collector's Edition | 96942 | [96942-final-cut-the-true-escapade-collectors-edition.json](./96942-final-cut-the-true-escapade-collectors-edition.json) |
 | Final Dawn | 227259 | [227259-final-dawn.json](./227259-final-dawn.json) |
 | Final Days | 33101 | [33101-final-days.json](./33101-final-days.json) |
 | Final Desolation | 287309 | [287309-final-desolation.json](./287309-final-desolation.json) |
@@ -3841,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix and Foxi: Episode 1 - Lupo | 208380 | [208380-fix-and-foxi-episode-1-lupo.json](./208380-fix-and-foxi-episode-1-lupo.json) |
 | Fix EV3 Rover | 104002 | [104002-fix-ev3-rover.json](./104002-fix-ev3-rover.json) |
 | Fix Fixer | 253504 | [253504-fix-fixer.json](./253504-fix-fixer.json) |
+| Fix My Car: Classic Muscle | 96833 | [96833-fix-my-car-classic-muscle.json](./96833-fix-my-car-classic-muscle.json) |
 | Fix My Car: Garage Wars - Furious Street Mechanics! | 70406 | [70406-fix-my-car-garage-wars-furious-street-mechanics.json](./70406-fix-my-car-garage-wars-furious-street-mechanics.json) |
 | Fix My Hand Doc | 219789 | [219789-fix-my-hand-doc.json](./219789-fix-my-hand-doc.json) |
 | Fix My Truck: Offroad Pickup | 104670 | [104670-fix-my-truck-offroad-pickup.json](./104670-fix-my-truck-offroad-pickup.json) |
@@ -4660,6 +4665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying 'N Frying Popcorn Dude | 273493 | [273493-flying-n-frying-popcorn-dude.json](./273493-flying-n-frying-popcorn-dude.json) |
 | Flying Aces: Legend of the Red Baron | 394997 | [394997-flying-aces-legend-of-the-red-baron.json](./394997-flying-aces-legend-of-the-red-baron.json) |
 | Flying Angel | 151002 | [151002-flying-angel.json](./151002-flying-angel.json) |
+| Flying Arrow! | 96920 | [96920-flying-arrow.json](./96920-flying-arrow.json) |
 | Flying Car Robot Flight Drive Simulator Game 2017 | 86854 | [86854-flying-car-robot-flight-drive-simulator-game-2017.json](./86854-flying-car-robot-flight-drive-simulator-game-2017.json) |
 | Flying Cat | 282147 | [282147-flying-cat.json](./282147-flying-cat.json) |
 | Flying Corps: Gold | 209461 | [209461-flying-corps-gold.json](./209461-flying-corps-gold.json) |
@@ -6617,6 +6623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 341890 | [341890-frogger.json](./341890-frogger.json) |
 | Frogger | 6795 | [6795-frogger.json](./6795-frogger.json) |
 | Frogger 64 | 40917 | [40917-frogger-64.json](./40917-frogger-64.json) |
+| Frogger Arcade Game | 96929 | [96929-frogger-arcade-game.json](./96929-frogger-arcade-game.json) |
 | Frogger Evolution | 218547 | [218547-frogger-evolution.json](./218547-frogger-evolution.json) |
 | Frogger HD | 99998 | [99998-frogger-hd.json](./99998-frogger-hd.json) |
 | Frogger II: ThreeeDeep! | 11464 | [11464-frogger-ii-threeedeep.json](./11464-frogger-ii-threeedeep.json) |
@@ -6850,6 +6857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen | 230377 | [230377-frozen.json](./230377-frozen.json) |
 | Frozen Bubble | 61702 | [61702-frozen-bubble.json](./61702-frozen-bubble.json) |
 | Frozen Cortex | 16521 | [16521-frozen-cortex.json](./16521-frozen-cortex.json) |
+| Frozen Dragon Gems | 96849 | [96849-frozen-dragon-gems.json](./96849-frozen-dragon-gems.json) |
 | Frozen Drift Race | 30185 | [30185-frozen-drift-race.json](./30185-frozen-drift-race.json) |
 | Frozen Feathers | 362266 | [362266-frozen-feathers.json](./362266-frozen-feathers.json) |
 | Frozen Forward | 383967 | [383967-frozen-forward.json](./383967-frozen-forward.json) |
