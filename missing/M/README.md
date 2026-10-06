@@ -3604,6 +3604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MazeCraft | 365217 | [365217-mazecraft.json](./365217-mazecraft.json) |
 | Mazed and Bemused | 143963 | [143963-mazed-and-bemused.json](./143963-mazed-and-bemused.json) |
 | MazeFinger | 79863 | [79863-mazefinger.json](./79863-mazefinger.json) |
+| Mazeglaser | 65833 | [65833-mazeglaser.json](./65833-mazeglaser.json) |
 | Mazeing | 306384 | [306384-mazeing.json](./306384-mazeing.json) |
 | Mazekko Tower | 83814 | [83814-mazekko-tower.json](./83814-mazekko-tower.json) |
 | Mazelit: Rolling With Style | 295346 | [295346-mazelit-rolling-with-style.json](./295346-mazelit-rolling-with-style.json) |
@@ -5383,6 +5384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal March | 228088 | [228088-metal-march.json](./228088-metal-march.json) |
 | Metal Marines | 42497 | [42497-metal-marines.json](./42497-metal-marines.json) |
 | Metal Max 2 | 37929 | [37929-metal-max-2.json](./37929-metal-max-2.json) |
+| Metal Max 2: Reloaded | 65858 | [65858-metal-max-2-reloaded.json](./65858-metal-max-2-reloaded.json) |
 | Metal Max 3 | 66922 | [66922-metal-max-3.json](./66922-metal-max-3.json) |
 | Metal Max Balls | 249310 | [249310-metal-max-balls.json](./249310-metal-max-balls.json) |
 | Metal Max Returns | 38373 | [38373-metal-max-returns.json](./38373-metal-max-returns.json) |
@@ -10195,6 +10197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Hopp's Manor Escape | 196119 | [196119-mr-hopps-manor-escape.json](./196119-mr-hopps-manor-escape.json) |
 | Mr. Hopp's Playhouse 2 | 152818 | [152818-mr-hopps-playhouse-2.json](./152818-mr-hopps-playhouse-2.json) |
 | Mr. Joshua Carrot | 128354 | [128354-mr-joshua-carrot.json](./128354-mr-joshua-carrot.json) |
+| Mr. Jumpington 3 | 65793 | [65793-mr-jumpington-3.json](./65793-mr-jumpington-3.json) |
 | Mr. Jumpington 4 | 68743 | [68743-mr-jumpington-4.json](./68743-mr-jumpington-4.json) |
 | Mr. Kicker - Perfect Kick Soccer Game | 104583 | [104583-mr-kicker-perfect-kick-soccer-game.json](./104583-mr-kicker-perfect-kick-soccer-game.json) |
 | Mr. Krabs Overdoses on Ketamine | 141101 | [141101-mr-krabs-overdoses-on-ketamine.json](./141101-mr-krabs-overdoses-on-ketamine.json) |
