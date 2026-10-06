@@ -1661,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Rage | 207716 | [207716-real-rage.json](./207716-real-rage.json) |
 | Real Rally | 240493 | [240493-real-rally.json](./240493-real-rally.json) |
 | Real Rash Flying Copter | 100328 | [100328-real-rash-flying-copter.json](./100328-real-rash-flying-copter.json) |
+| Real Robot Battle Line | 92121 | [92121-real-robot-battle-line.json](./92121-real-robot-battle-line.json) |
 | Real Robots Final Attack | 68026 | [68026-real-robots-final-attack.json](./68026-real-robots-final-attack.json) |
 | Real Scary | 117864 | [117864-real-scary.json](./117864-real-scary.json) |
 | Real Shot VR | 98477 | [98477-real-shot-vr.json](./98477-real-shot-vr.json) |
