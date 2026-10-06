@@ -1757,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Ahead: Zombie Warfare | 56166 | [56166-dead-ahead-zombie-warfare.json](./56166-dead-ahead-zombie-warfare.json) |
 | Dead Air | 330949 | [330949-dead-air.json](./330949-dead-air.json) |
 | Dead Alliance | 36781 | [36781-dead-alliance.json](./36781-dead-alliance.json) |
+| Dead Alliance: Day One Edition | 103376 | [103376-dead-alliance-day-one-edition.json](./103376-dead-alliance-day-one-edition.json) |
 | Dead and Buried | 57195 | [57195-dead-and-buried.json](./57195-dead-and-buried.json) |
 | Dead Before Work: The Commute | 399087 | [399087-dead-before-work-the-commute.json](./399087-dead-before-work-the-commute.json) |
 | Dead Bits | 8429 | [8429-dead-bits.json](./8429-dead-bits.json) |
@@ -3573,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depict the City | 212462 | [212462-depict-the-city.json](./212462-depict-the-city.json) |
 | Depict1 | 186635 | [186635-depict1.json](./186635-depict1.json) |
 | Depixtion: Halloween Edition | 336909 | [336909-depixtion-halloween-edition.json](./336909-depixtion-halloween-edition.json) |
+| Deploy and Destroy: Ash vs ED | 103550 | [103550-deploy-and-destroy-ash-vs-ed.json](./103550-deploy-and-destroy-ash-vs-ed.json) |
 | DEPO: Death Epileptic Pixel Origins | 207316 | [207316-depo-death-epileptic-pixel-origins.json](./207316-depo-death-epileptic-pixel-origins.json) |
 | Deponia Collection | 119068 | [119068-deponia-collection.json](./119068-deponia-collection.json) |
 | Deponia: The Complete Journey | 17224 | [17224-deponia-the-complete-journey.json](./17224-deponia-the-complete-journey.json) |
@@ -5410,6 +5412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discworld: Limited Edition | 132078 | [132078-discworld-limited-edition.json](./132078-discworld-limited-edition.json) |
 | Disdain | 215077 | [215077-disdain.json](./215077-disdain.json) |
 | Disdoored | 102093 | [102093-disdoored.json](./102093-disdoored.json) |
+| Disease -Hidden Object- | 103372 | [103372-disease-hidden-object.json](./103372-disease-hidden-object.json) |
 | Disease Infected: Plague | 187976 | [187976-disease-infected-plague.json](./187976-disease-infected-plague.json) |
 | Disease Z | 245842 | [245842-disease-z.json](./245842-disease-z.json) |
 | Disenchantment Heart | 161161 | [161161-disenchantment-heart.json](./161161-disenchantment-heart.json) |
@@ -9249,6 +9252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS Yamamura Misa Suspense: Maiko Kogiku / Kisha Katherine / Sougiya Ishihara Akiko / Koto ni Mauhana Sanrin - Kyoto Satujin Jiken File | 269575 | [269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json](./269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json) |
 | DsDooM3 | 314899 | [314899-dsdoom3.json](./314899-dsdoom3.json) |
 | DSS war party | 286071 | [286071-dss-war-party.json](./286071-dss-war-party.json) |
+| Dsync | 103361 | [103361-dsync.json](./103361-dsync.json) |
 | DT Racer | 44709 | [44709-dt-racer.json](./44709-dt-racer.json) |
 | DT Racer Refueled | 68306 | [68306-dt-racer-refueled.json](./68306-dt-racer-refueled.json) |
 | DT: Lords of Genomes | 65523 | [65523-dt-lords-of-genomes.json](./65523-dt-lords-of-genomes.json) |
