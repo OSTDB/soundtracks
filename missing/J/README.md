@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jake and the Never Land Pirates | 230381 | [230381-jake-and-the-never-land-pirates.json](./230381-jake-and-the-never-land-pirates.json) |
 | Jake Hunter Detective Story: Ghost of the Dusk | 55863 | [55863-jake-hunter-detective-story-ghost-of-the-dusk.json](./55863-jake-hunter-detective-story-ghost-of-the-dusk.json) |
 | Jake Hunter Detective Story: Memories of the Past | 47772 | [47772-jake-hunter-detective-story-memories-of-the-past.json](./47772-jake-hunter-detective-story-memories-of-the-past.json) |
+| Jake Hunter Detective Story: Prism of Eyes | 101033 | [101033-jake-hunter-detective-story-prism-of-eyes.json](./101033-jake-hunter-detective-story-prism-of-eyes.json) |
 | Jake Hunter Unleashed 1: The Death of an Anthropologist | 349481 | [349481-jake-hunter-unleashed-1-the-death-of-an-anthropologist.json](./349481-jake-hunter-unleashed-1-the-death-of-an-anthropologist.json) |
 | Jake Hunter Unleashed 2: A Is for Angel | 349483 | [349483-jake-hunter-unleashed-2-a-is-for-angel.json](./349483-jake-hunter-unleashed-2-a-is-for-angel.json) |
 | Jake Hunter Unleashed 3: Picture Perfect | 349485 | [349485-jake-hunter-unleashed-3-picture-perfect.json](./349485-jake-hunter-unleashed-3-picture-perfect.json) |
