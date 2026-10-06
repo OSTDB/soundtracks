@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Furry Tale: A night in Havena | 312673 | [312673-a-furry-tale-a-night-in-havena.json](./312673-a-furry-tale-a-night-in-havena.json) |
 | A Future With You | 364521 | [364521-a-future-with-you.json](./364521-a-future-with-you.json) |
 | A G-G-Ghost! | 311656 | [311656-a-g-g-ghost.json](./311656-a-g-g-ghost.json) |
+| A Game About | 110919 | [110919-a-game-about.json](./110919-a-game-about.json) |
 | A Game About a King Saving a Dragon | 384142 | [384142-a-game-about-a-king-saving-a-dragon.json](./384142-a-game-about-a-king-saving-a-dragon.json) |
 | A Game About Ants | 184916 | [184916-a-game-about-ants.json](./184916-a-game-about-ants.json) |
 | A Game About Bouncing DVD | 406321 | [406321-a-game-about-bouncing-dvd.json](./406321-a-game-about-bouncing-dvd.json) |
@@ -312,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Journey's End | 291182 | [291182-a-journeys-end.json](./291182-a-journeys-end.json) |
 | A Juggler's Tale | 122050 | [122050-a-jugglers-tale.json](./122050-a-jugglers-tale.json) |
 | A Killer Chat! Christmas | 370876 | [370876-a-killer-chat-christmas.json](./370876-a-killer-chat-christmas.json) |
+| A Killer's Sorrow | 110926 | [110926-a-killers-sorrow.json](./110926-a-killers-sorrow.json) |
 | A King's Tale: Final Fantasy XV | 19600 | [19600-a-kings-tale-final-fantasy-xv.json](./19600-a-kings-tale-final-fantasy-xv.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
 | A Kiss for the Petals - Remembering How We Met | 34585 | [34585-a-kiss-for-the-petals-remembering-how-we-met.json](./34585-a-kiss-for-the-petals-remembering-how-we-met.json) |
@@ -1290,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achilles: Legends Untold | 160293 | [160293-achilles-legends-untold.json](./160293-achilles-legends-untold.json) |
 | Achilles: Survivor | 319802 | [319802-achilles-survivor.json](./319802-achilles-survivor.json) |
 | Achromatic | 203807 | [203807-achromatic.json](./203807-achromatic.json) |
+| Achtung die Kugel! | 110927 | [110927-achtung-die-kugel.json](./110927-achtung-die-kugel.json) |
 | Achtung Franz: Quest for Wine | 314993 | [314993-achtung-franz-quest-for-wine.json](./314993-achtung-franz-quest-for-wine.json) |
 | Achtung Spitfire | 86015 | [86015-achtung-spitfire.json](./86015-achtung-spitfire.json) |
 | Achtung! Cthulhu Tactics | 106562 | [106562-achtung-cthulhu-tactics.json](./106562-achtung-cthulhu-tactics.json) |
@@ -2459,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim God | 203784 | [203784-aim-god.json](./203784-aim-god.json) |
 | Aim in Space | 274513 | [274513-aim-in-space.json](./274513-aim-in-space.json) |
 | Aim Lab Mobile | 226768 | [226768-aim-lab-mobile.json](./226768-aim-lab-mobile.json) |
+| Aim Master | 110913 | [110913-aim-master.json](./110913-aim-master.json) |
 | Aim Master H | 169787 | [169787-aim-master-h.json](./169787-aim-master-h.json) |
 | Aim Sex | 297058 | [297058-aim-sex.json](./297058-aim-sex.json) |
 | Aim To Capture | 373618 | [373618-aim-to-capture.json](./373618-aim-to-capture.json) |
@@ -6947,6 +6951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Area: Zero | 221151 | [221151-area-zero.json](./221151-area-zero.json) |
 | aReaker Water | 74068 | [74068-areaker-water.json](./74068-areaker-water.json) |
 | Areas | 269056 | [269056-areas.json](./269056-areas.json) |
+| AreaZ | 110925 | [110925-areaz.json](./110925-areaz.json) |
 | Areena 4 | 317423 | [317423-areena-4.json](./317423-areena-4.json) |
 | Areena 5 | 134570 | [134570-areena-5.json](./134570-areena-5.json) |
 | Arelite Core: Horse Armor | 156140 | [156140-arelite-core-horse-armor.json](./156140-arelite-core-horse-armor.json) |
