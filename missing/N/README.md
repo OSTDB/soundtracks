@@ -2806,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Clowns | 40993 | [40993-ninja-clowns.json](./40993-ninja-clowns.json) |
 | Ninja Code | 110362 | [110362-ninja-code.json](./110362-ninja-code.json) |
 | Ninja Cop Saizou | 215137 | [215137-ninja-cop-saizou.json](./215137-ninja-cop-saizou.json) |
+| Ninja Dash | 104000 | [104000-ninja-dash.json](./104000-ninja-dash.json) |
 | Ninja Dash - Ronin Jump RPG | 104648 | [104648-ninja-dash-ronin-jump-rpg.json](./104648-ninja-dash-ronin-jump-rpg.json) |
 | Ninja Defense: Revenge | 234002 | [234002-ninja-defense-revenge.json](./234002-ninja-defense-revenge.json) |
 | Ninja Dojo | 181771 | [181771-ninja-dojo.json](./181771-ninja-dojo.json) |
