@@ -1101,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Kizuna Encounter | 113906 | [113906-aca-neo-geo-kizuna-encounter.json](./113906-aca-neo-geo-kizuna-encounter.json) |
 | ACA Neo Geo: Nam-1975 | 28409 | [28409-aca-neo-geo-nam-1975.json](./28409-aca-neo-geo-nam-1975.json) |
 | ACA Neo Geo: Ninja Master's | 114147 | [114147-aca-neo-geo-ninja-masters.json](./114147-aca-neo-geo-ninja-masters.json) |
+| ACA Neo Geo: Pleasure Goal - 5 on 5 Mini Soccer | 111644 | [111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json](./111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json) |
 | ACA Neo Geo: Puzzle Bobble | 113438 | [113438-aca-neo-geo-puzzle-bobble.json](./113438-aca-neo-geo-puzzle-bobble.json) |
 | ACA Neo Geo: Samurai Shodown V Special | 117520 | [117520-aca-neo-geo-samurai-shodown-v-special.json](./117520-aca-neo-geo-samurai-shodown-v-special.json) |
 | ACA Neo Geo: Sengoku 3 | 104269 | [104269-aca-neo-geo-sengoku-3.json](./104269-aca-neo-geo-sengoku-3.json) |
@@ -1325,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acrodog | 185023 | [185023-acrodog.json](./185023-acrodog.json) |
 | Acroflow | 297760 | [297760-acroflow.json](./297760-acroflow.json) |
 | Acrofobic Lunchbreak | 26956 | [26956-acrofobic-lunchbreak.json](./26956-acrofobic-lunchbreak.json) |
+| Acropolis: The Archaic Age | 111635 | [111635-acropolis-the-archaic-age.json](./111635-acropolis-the-archaic-age.json) |
 | Across | 172028 | [172028-across.json](./172028-across.json) |
 | Across | 30823 | [30823-across.json](./30823-across.json) |
 | Across Icaria | 337794 | [337794-across-icaria.json](./337794-across-icaria.json) |
@@ -2113,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agarest: Generations of War | 8764 | [8764-agarest-generations-of-war.json](./8764-agarest-generations-of-war.json) |
 | Agartha | 145519 | [145519-agartha.json](./145519-agartha.json) |
 | Agartha Platform 81!: City of Angels | 400499 | [400499-agartha-platform-81-city-of-angels.json](./400499-agartha-platform-81-city-of-angels.json) |
+| Agartha-S | 111653 | [111653-agartha-s.json](./111653-agartha-s.json) |
 | Agassi Tennis Generation | 248735 | [248735-agassi-tennis-generation.json](./248735-agassi-tennis-generation.json) |
 | Agatha Christie Collection | 214003 | [214003-agatha-christie-collection.json](./214003-agatha-christie-collection.json) |
 | Agatha Christie: 4:50 from Paddington | 135245 | [135245-agatha-christie-4-50-from-paddington.json](./135245-agatha-christie-4-50-from-paddington.json) |
@@ -7309,6 +7312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core: Nexus | 19412 | [19412-armored-core-nexus.json](./19412-armored-core-nexus.json) |
 | Armored Core: Silent Line Portable | 21757 | [21757-armored-core-silent-line-portable.json](./21757-armored-core-silent-line-portable.json) |
 | Armored Evolution | 81638 | [81638-armored-evolution.json](./81638-armored-evolution.json) |
+| Armored Fighter | 111573 | [111573-armored-fighter.json](./111573-armored-fighter.json) |
 | Armored Firestorm | 194995 | [194995-armored-firestorm.json](./194995-armored-firestorm.json) |
 | Armored Heroes | 242204 | [242204-armored-heroes.json](./242204-armored-heroes.json) |
 | Armored Hunter Gunhound EX | 36391 | [36391-armored-hunter-gunhound-ex.json](./36391-armored-hunter-gunhound-ex.json) |
@@ -8029,6 +8033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault on Arnhem | 33307 | [33307-assault-on-arnhem.json](./33307-assault-on-arnhem.json) |
 | Assault on Everest | 356700 | [356700-assault-on-everest.json](./356700-assault-on-everest.json) |
 | Assault on Hartblood Hotel | 363989 | [363989-assault-on-hartblood-hotel.json](./363989-assault-on-hartblood-hotel.json) |
+| Assault on Hyperion Base | 111618 | [111618-assault-on-hyperion-base.json](./111618-assault-on-hyperion-base.json) |
 | Assault on Metaltron | 115797 | [115797-assault-on-metaltron.json](./115797-assault-on-metaltron.json) |
 | Assault on Port Stanley | 12981 | [12981-assault-on-port-stanley.json](./12981-assault-on-port-stanley.json) |
 | Assault on Proxima | 234213 | [234213-assault-on-proxima.json](./234213-assault-on-proxima.json) |
