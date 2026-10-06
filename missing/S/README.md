@@ -1129,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sargon Chess | 46568 | [46568-sargon-chess.json](./46568-sargon-chess.json) |
 | Sargon I | 83263 | [83263-sargon-i.json](./83263-sargon-i.json) |
 | Sargon II | 47209 | [47209-sargon-ii.json](./47209-sargon-ii.json) |
+| Sargon's Lair | 107760 | [107760-sargons-lair.json](./107760-sargons-lair.json) |
 | Saria Reclaimed | 255637 | [255637-saria-reclaimed.json](./255637-saria-reclaimed.json) |
 | Sariel's Day Out | 371416 | [371416-sariels-day-out.json](./371416-sariels-day-out.json) |
 | Sarissa and the Legendary Sword | 287332 | [287332-sarissa-and-the-legendary-sword.json](./287332-sarissa-and-the-legendary-sword.json) |
@@ -5396,6 +5397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siaty's Return | 361883 | [361883-siatys-return.json](./361883-siatys-return.json) |
 | Sibal Wonsung-iui Moheom | 59885 | [59885-sibal-wonsung-iui-moheom.json](./59885-sibal-wonsung-iui-moheom.json) |
 | Sibal Wonsung-iui Moheom 2 | 59884 | [59884-sibal-wonsung-iui-moheom-2.json](./59884-sibal-wonsung-iui-moheom-2.json) |
+| Siberian Dawn | 107794 | [107794-siberian-dawn.json](./107794-siberian-dawn.json) |
 | Siberian Dawn: Winterflood | 310408 | [310408-siberian-dawn-winterflood.json](./310408-siberian-dawn-winterflood.json) |
 | Siberian Strike | 91888 | [91888-siberian-strike.json](./91888-siberian-strike.json) |
 | Siberian Way | 333237 | [333237-siberian-way.json](./333237-siberian-way.json) |
@@ -8741,6 +8743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban Land DX | 44206 | [44206-sokoban-land-dx.json](./44206-sokoban-land-dx.json) |
 | Sokoban World | 308565 | [308565-sokoban-world.json](./308565-sokoban-world.json) |
 | Sokoban: Bunny Tales | 168220 | [168220-sokoban-bunny-tales.json](./168220-sokoban-bunny-tales.json) |
+| Sokoban: The RPG | 107767 | [107767-sokoban-the-rpg.json](./107767-sokoban-the-rpg.json) |
 | Sokobear: Autumn | 219591 | [219591-sokobear-autumn.json](./219591-sokobear-autumn.json) |
 | Sokobear: Goo | 221161 | [221161-sokobear-goo.json](./221161-sokobear-goo.json) |
 | Sokobear: Spring | 219592 | [219592-sokobear-spring.json](./219592-sokobear-spring.json) |
@@ -8927,6 +8930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SolForge | 16487 | [16487-solforge.json](./16487-solforge.json) |
 | Solheim | 397830 | [397830-solheim.json](./397830-solheim.json) |
 | Soli-tair-ror | 382969 | [382969-soli-tair-ror.json](./382969-soli-tair-ror.json) |
+| Solid Aether | 107763 | [107763-solid-aether.json](./107763-solid-aether.json) |
 | Solid Body Picross | 124053 | [124053-solid-body-picross.json](./124053-solid-body-picross.json) |
 | Solid Ice | 208882 | [208882-solid-ice.json](./208882-solid-ice.json) |
 | Solid Lancer | 248584 | [248584-solid-lancer.json](./248584-solid-lancer.json) |
