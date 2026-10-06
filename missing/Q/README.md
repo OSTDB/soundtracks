@@ -659,6 +659,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Kingdom: Elementary Math Kids RPG | 364065 | [364065-quiz-kingdom-elementary-math-kids-rpg.json](./364065-quiz-kingdom-elementary-math-kids-rpg.json) |
 | Quiz Kit | 138593 | [138593-quiz-kit.json](./138593-quiz-kit.json) |
 | Quiz Magic Academy | 112143 | [112143-quiz-magic-academy.json](./112143-quiz-magic-academy.json) |
+| Quiz Magic Academy DS | 61435 | [61435-quiz-magic-academy-ds.json](./61435-quiz-magic-academy-ds.json) |
+| Quiz Magic Academy DS: Futatsu no Jikuu Koku | 61436 | [61436-quiz-magic-academy-ds-futatsu-no-jikuu-koku.json](./61436-quiz-magic-academy-ds-futatsu-no-jikuu-koku.json) |
 | Quiz Maker* | 105844 | [105844-quiz-maker.json](./105844-quiz-maker.json) |
 | Quiz Master Zero and the Silky Road | 110313 | [110313-quiz-master-zero-and-the-silky-road.json](./110313-quiz-master-zero-and-the-silky-road.json) |
 | Quiz Meitantei Neo & Geo: Quiz Daisousasen Part 2 | 75511 | [75511-quiz-meitantei-neo-and-geo-quiz-daisousasen-part-2.json](./75511-quiz-meitantei-neo-and-geo-quiz-daisousasen-part-2.json) |
