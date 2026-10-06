@@ -1094,6 +1094,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyboard Warrior Simulator | 351711 | [351711-keyboard-warrior-simulator.json](./351711-keyboard-warrior-simulator.json) |
 | Keyboard Warrior Stickman: Typing Beat Em Up | 413773 | [413773-keyboard-warrior-stickman-typing-beat-em-up.json](./413773-keyboard-warrior-stickman-typing-beat-em-up.json) |
 | Keyboard Warrior: Dreamstate | 209714 | [209714-keyboard-warrior-dreamstate.json](./209714-keyboard-warrior-dreamstate.json) |
+| Keyboardmania 2ndMix | 62579 | [62579-keyboardmania-2ndmix.json](./62579-keyboardmania-2ndmix.json) |
+| Keyboardmania II: 2ndMix and 3rdMix | 62578 | [62578-keyboardmania-ii-2ndmix-and-3rdmix.json](./62578-keyboardmania-ii-2ndmix-and-3rdmix.json) |
 | Keyboardmania: Yamaha Edition | 69378 | [69378-keyboardmania-yamaha-edition.json](./69378-keyboardmania-yamaha-edition.json) |
 | Keybort | 389700 | [389700-keybort.json](./389700-keybort.json) |
 | KeyBreach | 389690 | [389690-keybreach.json](./389690-keybreach.json) |
@@ -2345,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiwie vs. Desert | 290913 | [290913-kiwie-vs-desert.json](./290913-kiwie-vs-desert.json) |
 | KiwiFlight | 306707 | [306707-kiwiflight.json](./306707-kiwiflight.json) |
 | Kiwis Can't Fly | 306691 | [306691-kiwis-cant-fly.json](./306691-kiwis-cant-fly.json) |
+| Kizuchida Quiz da Gen-San Da! | 62597 | [62597-kizuchida-quiz-da-gen-san-da.json](./62597-kizuchida-quiz-da-gen-san-da.json) |
 | Kizuna AI: Touch the Beat! | 187869 | [187869-kizuna-ai-touch-the-beat.json](./187869-kizuna-ai-touch-the-beat.json) |
 | Kizuna Encounter: Super Tag Battle | 380124 | [380124-kizuna-encounter-super-tag-battle.json](./380124-kizuna-encounter-super-tag-battle.json) |
 | Kizuna Kirameku Koi Iroha | 339373 | [339373-kizuna-kirameku-koi-iroha.json](./339373-kizuna-kirameku-koi-iroha.json) |
@@ -2439,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Adventure | 34315 | [34315-knight-adventure.json](./34315-knight-adventure.json) |
 | Knight and Mourning | 202703 | [202703-knight-and-mourning.json](./202703-knight-and-mourning.json) |
 | Knight and Princess | 170551 | [170551-knight-and-princess.json](./170551-knight-and-princess.json) |
+| Knight Arms: The Hyblid Framer | 62594 | [62594-knight-arms-the-hyblid-framer.json](./62594-knight-arms-the-hyblid-framer.json) |
 | Knight Bewitched | 97079 | [97079-knight-bewitched.json](./97079-knight-bewitched.json) |
 | Knight Cats: Leaves on the Road | 260879 | [260879-knight-cats-leaves-on-the-road.json](./260879-knight-cats-leaves-on-the-road.json) |
 | Knight Cats: Waves on the Water - Collector's Edition | 337276 | [337276-knight-cats-waves-on-the-water-collectors-edition.json](./337276-knight-cats-waves-on-the-water-collectors-edition.json) |
