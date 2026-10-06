@@ -2214,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fibula Wars | 145293 | [145293-fibula-wars.json](./145293-fibula-wars.json) |
 | Fickle Allies | 417495 | [417495-fickle-allies.json](./417495-fickle-allies.json) |
 | FickleFlame | 367472 | [367472-fickleflame.json](./367472-fickleflame.json) |
+| Ficterra | 111615 | [111615-ficterra.json](./111615-ficterra.json) |
 | Fiction Fixers: The Curse of Oz & Adventures in Wonderland | 209421 | [209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json](./209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json) |
 | Fiction.Colors | 341152 | [341152-fiction-colors.json](./341152-fiction-colors.json) |
 | Fidchell | 139338 | [139338-fidchell.json](./139338-fidchell.json) |
