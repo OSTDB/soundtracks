@@ -2363,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inline | 81070 | [81070-inline.json](./81070-inline.json) |
 | Inline Race | 94560 | [94560-inline-race.json](./94560-inline-race.json) |
 | Inline: Out of Time | 290706 | [290706-inline-out-of-time.json](./290706-inline-out-of-time.json) |
+| Inma Nemu no Chu-chu Seieki Tanken-ki | 114904 | [114904-inma-nemu-no-chu-chu-seieki-tanken-ki.json](./114904-inma-nemu-no-chu-chu-seieki-tanken-ki.json) |
 | Inn Hand | 325865 | [325865-inn-hand.json](./325865-inn-hand.json) |
 | Inn Mage | 156608 | [156608-inn-mage.json](./156608-inn-mage.json) |
 | Inn Need | 225766 | [225766-inn-need.json](./225766-inn-need.json) |
