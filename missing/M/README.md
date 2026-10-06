@@ -3328,6 +3328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matsuro Palette | 245042 | [245042-matsuro-palette.json](./245042-matsuro-palette.json) |
 | Matt Hazard: Blood Bath and Beyond | 47430 | [47430-matt-hazard-blood-bath-and-beyond.json](./47430-matt-hazard-blood-bath-and-beyond.json) |
 | Matt Sandorf: Journey to Endless Entertainment | 258187 | [258187-matt-sandorf-journey-to-endless-entertainment.json](./258187-matt-sandorf-journey-to-endless-entertainment.json) |
+| Matta Blatta | 60346 | [60346-matta-blatta.json](./60346-matta-blatta.json) |
 | Mattel Match | 406255 | [406255-mattel-match.json](./406255-mattel-match.json) |
 | Matter | 299869 | [299869-matter.json](./299869-matter.json) |
 | Matter | 80601 | [80601-matter.json](./80601-matter.json) |
@@ -4963,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MemoryMaze | 319367 | [319367-memorymaze.json](./319367-memorymaze.json) |
 | MemoTrimo | 84471 | [84471-memotrimo.json](./84471-memotrimo.json) |
 | Memoware | 381280 | [381280-memoware.json](./381280-memoware.json) |
+| Men Are From Mars, Women Are From Venus: The CD-ROM Game | 60351 | [60351-men-are-from-mars-women-are-from-venus-the-cd-rom-game.json](./60351-men-are-from-mars-women-are-from-venus-the-cd-rom-game.json) |
 | Men at Work! 2: Hunter Academy he Youkoso | 112298 | [112298-men-at-work-2-hunter-academy-he-youkoso.json](./112298-men-at-work-2-hunter-academy-he-youkoso.json) |
 | Men in Black | 270678 | [270678-men-in-black.json](./270678-men-in-black.json) |
 | Men in Black 2: The Series | 49912 | [49912-men-in-black-2-the-series.json](./49912-men-in-black-2-the-series.json) |
