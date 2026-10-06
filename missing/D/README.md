@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Da Capo 3 R | 27760 | [27760-da-capo-3-r.json](./27760-da-capo-3-r.json) |
 | Dà Fùwēng | 125469 | [125469-da-fuweng.json](./125469-da-fuweng.json) |
 | Dà Mèng Chūnqiū | 373702 | [373702-da-meng-chunqiu.json](./373702-da-meng-chunqiu.json) |
+| Da New Guys: Day of the Jackass | 65296 | [65296-da-new-guys-day-of-the-jackass.json](./65296-da-new-guys-day-of-the-jackass.json) |
 | Da Paper Boy | 259017 | [259017-da-paper-boy.json](./259017-da-paper-boy.json) |
 | Da Rock | 332579 | [332579-da-rock.json](./332579-da-rock.json) |
 | Dà Sānguó Shídài | 347226 | [347226-da-sanguo-shidai.json](./347226-da-sanguo-shidai.json) |
@@ -2546,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathball | 60631 | [60631-deathball.json](./60631-deathball.json) |
 | Deathbed Lullabye | 201328 | [201328-deathbed-lullabye.json](./201328-deathbed-lullabye.json) |
 | Deathbloom: Chapter 2 | 127103 | [127103-deathbloom-chapter-2.json](./127103-deathbloom-chapter-2.json) |
+| Deathbounce | 65256 | [65256-deathbounce.json](./65256-deathbounce.json) |
 | Deathbound | 135796 | [135796-deathbound.json](./135796-deathbound.json) |
 | Deathbound: Accepted by Death | 320735 | [320735-deathbound-accepted-by-death.json](./320735-deathbound-accepted-by-death.json) |
 | Deathbound: Ultimate Edition | 313211 | [313211-deathbound-ultimate-edition.json](./313211-deathbound-ultimate-edition.json) |
@@ -9282,6 +9284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droplets | 327338 | [327338-droplets.json](./327338-droplets.json) |
 | Droplette | 291169 | [291169-droplette.json](./291169-droplette.json) |
 | Droplitz | 10250 | [10250-droplitz.json](./10250-droplitz.json) |
+| Droplitz Delight | 65295 | [65295-droplitz-delight.json](./65295-droplitz-delight.json) |
 | Dropoff | 410269 | [410269-dropoff.json](./410269-dropoff.json) |
 | Dropped into the Modern World: Surviving the Red-Light District | 311623 | [311623-dropped-into-the-modern-world-surviving-the-red-light-district.json](./311623-dropped-into-the-modern-world-surviving-the-red-light-district.json) |
 | Dropship: United Peace Force | 44723 | [44723-dropship-united-peace-force.json](./44723-dropship-united-peace-force.json) |
@@ -9907,6 +9910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Explorer: Warriors of Ancient Arts | 42865 | [42865-dungeon-explorer-warriors-of-ancient-arts.json](./42865-dungeon-explorer-warriors-of-ancient-arts.json) |
 | Dungeon Explorer: Warriors of the Ancient Arts | 20274 | [20274-dungeon-explorer-warriors-of-the-ancient-arts.json](./20274-dungeon-explorer-warriors-of-the-ancient-arts.json) |
 | Dungeon Explorers | 385857 | [385857-dungeon-explorers.json](./385857-dungeon-explorers.json) |
+| Dungeon Fighter Live: Fall of Hendon Myre | 65266 | [65266-dungeon-fighter-live-fall-of-hendon-myre.json](./65266-dungeon-fighter-live-fall-of-hendon-myre.json) |
 | Dungeon Forge | 373181 | [373181-dungeon-forge.json](./373181-dungeon-forge.json) |
 | Dungeon Frontier | 130294 | [130294-dungeon-frontier.json](./130294-dungeon-frontier.json) |
 | Dungeon Full Dive: True Supporter Dice | 305780 | [305780-dungeon-full-dive-true-supporter-dice.json](./305780-dungeon-full-dive-true-supporter-dice.json) |
@@ -9996,6 +10000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Windaria | 72637 | [72637-dungeon-of-windaria.json](./72637-dungeon-of-windaria.json) |
 | Dungeon of Zaar: Explorer Edition | 238545 | [238545-dungeon-of-zaar-explorer-edition.json](./238545-dungeon-of-zaar-explorer-edition.json) |
 | Dungeon of Zolthan | 32967 | [32967-dungeon-of-zolthan.json](./32967-dungeon-of-zolthan.json) |
+| Dungeon Overlord | 65261 | [65261-dungeon-overlord.json](./65261-dungeon-overlord.json) |
 | Dungeon Pain Maniac | 117561 | [117561-dungeon-pain-maniac.json](./117561-dungeon-pain-maniac.json) |
 | Dungeon Party | 134613 | [134613-dungeon-party.json](./134613-dungeon-party.json) |
 | Dungeon Peplum | 379880 | [379880-dungeon-peplum.json](./379880-dungeon-peplum.json) |
