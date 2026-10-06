@@ -1997,6 +1997,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Fútbol 2000 | 78034 | [78034-pc-futbol-2000.json](./78034-pc-futbol-2000.json) |
 | PC Fútbol 2001 | 94569 | [94569-pc-futbol-2001.json](./94569-pc-futbol-2001.json) |
 | PC Fútbol 2006 | 94567 | [94567-pc-futbol-2006.json](./94567-pc-futbol-2006.json) |
+| PC Fútbol 4.0 | 85758 | [85758-pc-futbol-4-0.json](./85758-pc-futbol-4-0.json) |
+| PC Fútbol 5.0 | 85751 | [85751-pc-futbol-5-0.json](./85751-pc-futbol-5-0.json) |
 | PC Fútbol 6.0 | 70107 | [70107-pc-futbol-6-0.json](./70107-pc-futbol-6-0.json) |
 | PC Fútbol 7 | 98942 | [98942-pc-futbol-7.json](./98942-pc-futbol-7.json) |
 | PC Futbol 8 | 298143 | [298143-pc-futbol-8.json](./298143-pc-futbol-8.json) |
@@ -2414,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Percipio | 339634 | [339634-percipio.json](./339634-percipio.json) |
 | Percussion Master | 382980 | [382980-percussion-master.json](./382980-percussion-master.json) |
 | Percussive VR | 31108 | [31108-percussive-vr.json](./31108-percussive-vr.json) |
+| PercussOne | 85721 | [85721-percussone.json](./85721-percussone.json) |
 | Percy Penguin | 128467 | [128467-percy-penguin.json](./128467-percy-penguin.json) |
 | Percy's Last Stand | 118403 | [118403-percys-last-stand.json](./118403-percys-last-stand.json) |
 | Perdition | 121580 | [121580-perdition.json](./121580-perdition.json) |
@@ -4108,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Code | 62727 | [62727-pirate-code.json](./62727-pirate-code.json) |
 | Pirate Coin Dozer | 60624 | [60624-pirate-coin-dozer.json](./60624-pirate-coin-dozer.json) |
 | Pirate Cove Simulator | 326381 | [326381-pirate-cove-simulator.json](./326381-pirate-cove-simulator.json) |
+| Pirate Cubes | 85720 | [85720-pirate-cubes.json](./85720-pirate-cubes.json) |
 | Pirate Dawn | 62414 | [62414-pirate-dawn.json](./62414-pirate-dawn.json) |
 | Pirate Defender | 176805 | [176805-pirate-defender.json](./176805-pirate-defender.json) |
 | Pirate Doom II | 298313 | [298313-pirate-doom-ii.json](./298313-pirate-doom-ii.json) |
@@ -7413,6 +7417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerful Wind, Slicked-back Hair, But It’s a Game | 393484 | [393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json](./393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json) |
 | Powerglove | 183459 | [183459-powerglove.json](./183459-powerglove.json) |
 | Powerglove Reloaded | 187883 | [187883-powerglove-reloaded.json](./187883-powerglove-reloaded.json) |
+| PowerHits Sports | 85745 | [85745-powerhits-sports.json](./85745-powerhits-sports.json) |
 | PowerHits: BattleTech | 69864 | [69864-powerhits-battletech.json](./69864-powerhits-battletech.json) |
 | Powerjackers: Superhero Battle Royale | 204941 | [204941-powerjackers-superhero-battle-royale.json](./204941-powerjackers-superhero-battle-royale.json) |
 | Powerline.io | 191257 | [191257-powerline-io.json](./191257-powerline-io.json) |
@@ -8328,6 +8333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professora Abelha Aprendendo Figuras Geométricas | 294437 | [294437-professora-abelha-aprendendo-figuras-geometricas.json](./294437-professora-abelha-aprendendo-figuras-geometricas.json) |
 | Profiler: The Hopscotch Killer - Extended Edition | 262360 | [262360-profiler-the-hopscotch-killer-extended-edition.json](./262360-profiler-the-hopscotch-killer-extended-edition.json) |
 | Profiles of the Forgotten | 123419 | [123419-profiles-of-the-forgotten.json](./123419-profiles-of-the-forgotten.json) |
+| Profitania | 85755 | [85755-profitania.json](./85755-profitania.json) |
 | PROFITS 2167: Planetary Resource Optimization & Freight Infrastructure Technician Simulator | 397201 | [397201-profits-2167-planetary-resource-optimization-and-freight-infrastructure-technician-simulator.json](./397201-profits-2167-planetary-resource-optimization-and-freight-infrastructure-technician-simulator.json) |
 | Profound | 277594 | [277594-profound.json](./277594-profound.json) |
 | Profundum | 112769 | [112769-profundum.json](./112769-profundum.json) |
