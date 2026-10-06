@@ -2677,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightBike 2 | 234015 | [234015-lightbike-2.json](./234015-lightbike-2.json) |
 | Lightbot: Programming Puzzles | 88528 | [88528-lightbot-programming-puzzles.json](./88528-lightbot-programming-puzzles.json) |
 | Lightbox | 153861 | [153861-lightbox.json](./153861-lightbox.json) |
+| Lightbringer | 100302 | [100302-lightbringer.json](./100302-lightbringer.json) |
 | LightCells | 368582 | [368582-lightcells.json](./368582-lightcells.json) |
 | Lightclusters | 289552 | [289552-lightclusters.json](./289552-lightclusters.json) |
 | Lighted Knights | 123525 | [123525-lighted-knights.json](./123525-lighted-knights.json) |
