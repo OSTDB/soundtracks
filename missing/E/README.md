@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egypt in Space | 343998 | [343998-egypt-in-space.json](./343998-egypt-in-space.json) |
 | Egypt Pharaoh Secret | 109213 | [109213-egypt-pharaoh-secret.json](./109213-egypt-pharaoh-secret.json) |
 | Egypt Picross. Pharaoh's Riddles. | 99990 | [99990-egypt-picross-pharaohs-riddles.json](./99990-egypt-picross-pharaohs-riddles.json) |
+| Egypt Series: The Prophecy - Part 1 | 88661 | [88661-egypt-series-the-prophecy-part-1.json](./88661-egypt-series-the-prophecy-part-1.json) |
 | Egypt Series: The Prophecy - Part 2 | 88830 | [88830-egypt-series-the-prophecy-part-2.json](./88830-egypt-series-the-prophecy-part-2.json) |
 | Egypt Solitaire: Match 2 Cards | 127237 | [127237-egypt-solitaire-match-2-cards.json](./127237-egypt-solitaire-match-2-cards.json) |
 | Egypt: Old Kingdom | 75230 | [75230-egypt-old-kingdom.json](./75230-egypt-old-kingdom.json) |
@@ -2889,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Kids | 39867 | [39867-escape-kids.json](./39867-escape-kids.json) |
 | Escape Lala 2 | 118370 | [118370-escape-lala-2.json](./118370-escape-lala-2.json) |
 | Escape Legacy: Ancient Scrolls | 110733 | [110733-escape-legacy-ancient-scrolls.json](./110733-escape-legacy-ancient-scrolls.json) |
+| Escape Lite | 88579 | [88579-escape-lite.json](./88579-escape-lite.json) |
 | Escape Lizards | 31903 | [31903-escape-lizards.json](./31903-escape-lizards.json) |
 | Escape Machines | 26823 | [26823-escape-machines.json](./26823-escape-machines.json) |
 | Escape Memoirs: Bank Heist | 349988 | [349988-escape-memoirs-bank-heist.json](./349988-escape-memoirs-bank-heist.json) |
@@ -4001,6 +4003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EXD: Extra Dimensional | 380540 | [380540-exd-extra-dimensional.json](./380540-exd-extra-dimensional.json) |
 | EXE Clash | 265874 | [265874-exe-clash.json](./265874-exe-clash.json) |
 | Execute Daddy: Papa ga Nandemo Shinu Game | 215889 | [215889-execute-daddy-papa-ga-nandemo-shinu-game.json](./215889-execute-daddy-papa-ga-nandemo-shinu-game.json) |
+| Executioner | 88648 | [88648-executioner.json](./88648-executioner.json) |
 | Executive Assault 2 | 110573 | [110573-executive-assault-2.json](./110573-executive-assault-2.json) |
 | Executive Command | 207842 | [207842-executive-command.json](./207842-executive-command.json) |
 | Executive Hockey | 82396 | [82396-executive-hockey.json](./82396-executive-hockey.json) |
