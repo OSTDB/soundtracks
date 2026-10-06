@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana no Ibara: Yuurei Kitan | 181657 | [181657-hana-no-ibara-yuurei-kitan.json](./181657-hana-no-ibara-yuurei-kitan.json) |
 | Hana Oboro: Sengoku-den Ranki | 136480 | [136480-hana-oboro-sengoku-den-ranki.json](./136480-hana-oboro-sengoku-den-ranki.json) |
 | Hana Saki Work Spring! | 111649 | [111649-hana-saki-work-spring.json](./111649-hana-saki-work-spring.json) |
+| Hana to Otome ni Shukufuku wo Royal Bouquet | 60368 | [60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json](./60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json) |
 | Hana: Hide and Seek | 250529 | [250529-hana-hide-and-seek.json](./250529-hana-hide-and-seek.json) |
 | Hana: Spacetime Fantasy | 260715 | [260715-hana-spacetime-fantasy.json](./260715-hana-spacetime-fantasy.json) |
 | Hanabi | 131388 | [131388-hanabi.json](./131388-hanabi.json) |
@@ -675,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanasaki Work Spring! | 143355 | [143355-hanasaki-work-spring.json](./143355-hanasaki-work-spring.json) |
 | Hanata-Kadaka!? | 59993 | [59993-hanata-kadaka.json](./59993-hanata-kadaka.json) |
 | Hanayaka Nari, Waga Ichizoku | 61640 | [61640-hanayaka-nari-waga-ichizoku.json](./61640-hanayaka-nari-waga-ichizoku.json) |
+| Hanayaka Nari, Waga Ichizoku Gentou Nostalgie | 60347 | [60347-hanayaka-nari-waga-ichizoku-gentou-nostalgie.json](./60347-hanayaka-nari-waga-ichizoku-gentou-nostalgie.json) |
 | Hanayaka Nari, Waga Ichizoku Modern Nostalgie | 136796 | [136796-hanayaka-nari-waga-ichizoku-modern-nostalgie.json](./136796-hanayaka-nari-waga-ichizoku-modern-nostalgie.json) |
 | Hanayaka Nari, Waga Ichizoku Tasogare Polar Star | 224448 | [224448-hanayaka-nari-waga-ichizoku-tasogare-polar-star.json](./224448-hanayaka-nari-waga-ichizoku-tasogare-polar-star.json) |
 | Hanayome: The Sacrificial Bride | 284611 | [284611-hanayome-the-sacrificial-bride.json](./284611-hanayome-the-sacrificial-bride.json) |
@@ -734,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handy Machines VR | 159749 | [159749-handy-machines-vr.json](./159749-handy-machines-vr.json) |
 | HandyBot | 57891 | [57891-handybot.json](./57891-handybot.json) |
 | HandyCopter | 89959 | [89959-handycopter.json](./89959-handycopter.json) |
+| Handycrafts for all | 60392 | [60392-handycrafts-for-all.json](./60392-handycrafts-for-all.json) |
 | Handyman | 117582 | [117582-handyman.json](./117582-handyman.json) |
 | Handyman | 216202 | [216202-handyman.json](./216202-handyman.json) |
 | Handyman Fantasy | 368078 | [368078-handyman-fantasy.json](./368078-handyman-fantasy.json) |
