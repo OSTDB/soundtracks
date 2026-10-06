@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abbot's Book | 92095 | [92095-abbots-book.json](./92095-abbots-book.json) |
 | Abby Héroes en apuros | 316790 | [316790-abby-heroes-en-apuros.json](./316790-abby-heroes-en-apuros.json) |
 | Abby Monkey Musical Puzzle Games | 96753 | [96753-abby-monkey-musical-puzzle-games.json](./96753-abby-monkey-musical-puzzle-games.json) |
+| Abbys Endless Adventure | 77591 | [77591-abbys-endless-adventure.json](./77591-abbys-endless-adventure.json) |
 | ABC Match with Me | 193300 | [193300-abc-match-with-me.json](./193300-abc-match-with-me.json) |
 | ABC Memory Match | 99415 | [99415-abc-memory-match.json](./99415-abc-memory-match.json) |
 | ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
@@ -6877,6 +6878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archangel | 74276 | [74276-archangel.json](./74276-archangel.json) |
 | Archangel Demon Rush | 396574 | [396574-archangel-demon-rush.json](./396574-archangel-demon-rush.json) |
 | Archangel: Hellfire - Fully Loaded | 171377 | [171377-archangel-hellfire-fully-loaded.json](./171377-archangel-hellfire-fully-loaded.json) |
+| ArcheAge Begins | 77607 | [77607-archeage-begins.json](./77607-archeage-begins.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
 | ArcheBlade | 11664 | [11664-archeblade.json](./11664-archeblade.json) |
 | Archeholder | 238560 | [238560-archeholder.json](./238560-archeholder.json) |
@@ -7104,6 +7106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena II | 359082 | [359082-arena-ii.json](./359082-arena-ii.json) |
 | Arena Kingdoms | 265690 | [265690-arena-kingdoms.json](./265690-arena-kingdoms.json) |
 | Arena Master | 30802 | [30802-arena-master.json](./30802-arena-master.json) |
+| Arena Masters: Legend Begins | 77587 | [77587-arena-masters-legend-begins.json](./77587-arena-masters-legend-begins.json) |
 | Arena of Block Puzzle | 302437 | [302437-arena-of-block-puzzle.json](./302437-arena-of-block-puzzle.json) |
 | Arena of Dreams | 305266 | [305266-arena-of-dreams.json](./305266-arena-of-dreams.json) |
 | Arena of Ruins | 159787 | [159787-arena-of-ruins.json](./159787-arena-of-ruins.json) |
@@ -9381,14 +9384,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar 2 Way of Watter: Porn Game | 287101 | [287101-avatar-2-way-of-watter-porn-game.json](./287101-avatar-2-way-of-watter-porn-game.json) |
 | Avatar Aquarium | 77409 | [77409-avatar-aquarium.json](./77409-avatar-aquarium.json) |
 | Avatar Arena | 195022 | [195022-avatar-arena.json](./195022-avatar-arena.json) |
+| Avatar Avenue | 77573 | [77573-avatar-avenue.json](./77573-avatar-avenue.json) |
+| Avatar Deathmatch | 77582 | [77582-avatar-deathmatch.json](./77582-avatar-deathmatch.json) |
+| Avatar Deathmatch City | 77596 | [77596-avatar-deathmatch-city.json](./77596-avatar-deathmatch-city.json) |
 | Avatar Drop | 91630 | [91630-avatar-drop.json](./91630-avatar-drop.json) |
 | Avatar Farm! | 94737 | [94737-avatar-farm.json](./94737-avatar-farm.json) |
+| Avatar Laser Wars | 77599 | [77599-avatar-laser-wars.json](./77599-avatar-laser-wars.json) |
 | Avatar Legends: The Fighting Game | 373021 | [373021-avatar-legends-the-fighting-game.json](./373021-avatar-legends-the-fighting-game.json) |
 | Avatar Legends: The Fighting Game - Deluxe Edition | 412376 | [412376-avatar-legends-the-fighting-game-deluxe-edition.json](./412376-avatar-legends-the-fighting-game-deluxe-edition.json) |
 | Avatar Life | 151848 | [151848-avatar-life.json](./151848-avatar-life.json) |
 | Avatar Ninja! | 94738 | [94738-avatar-ninja.json](./94738-avatar-ninja.json) |
+| Avatar Onslaught 2 | 77594 | [77594-avatar-onslaught-2.json](./77594-avatar-onslaught-2.json) |
+| Avatar Paintball | 77598 | [77598-avatar-paintball.json](./77598-avatar-paintball.json) |
 | Avatar Project (Working Title) | 131442 | [131442-avatar-project-working-title.json](./131442-avatar-project-working-title.json) |
 | Avatar Racedrome | 54704 | [54704-avatar-racedrome.json](./54704-avatar-racedrome.json) |
+| Avatar Rockets | 77586 | [77586-avatar-rockets.json](./77586-avatar-rockets.json) |
+| Avatar Snowball Fight | 77608 | [77608-avatar-snowball-fight.json](./77608-avatar-snowball-fight.json) |
 | Avatar: Frontiers of Pandora - Complete Edition | 392391 | [392391-avatar-frontiers-of-pandora-complete-edition.json](./392391-avatar-frontiers-of-pandora-complete-edition.json) |
 | Avatar: Frontiers of Pandora - From the Ashes | 371949 | [371949-avatar-frontiers-of-pandora-from-the-ashes.json](./371949-avatar-frontiers-of-pandora-from-the-ashes.json) |
 | Avatar: Frontiers of Pandora - Secrets of the Spire | 319229 | [319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json](./319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json) |
