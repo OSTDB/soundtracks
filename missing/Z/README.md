@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaphie 2 | 145656 | [145656-zaphie-2.json](./145656-zaphie-2.json) |
 | Zapitalism Deluxe | 202183 | [202183-zapitalism-deluxe.json](./202183-zapitalism-deluxe.json) |
 | Zapling Bygone: Deluxe Edition | 249261 | [249261-zapling-bygone-deluxe-edition.json](./249261-zapling-bygone-deluxe-edition.json) |
+| ZapM | 61471 | [61471-zapm.json](./61471-zapm.json) |
 | Zapp: Escape From Hollowcell | 52100 | [52100-zapp-escape-from-hollowcell.json](./52100-zapp-escape-from-hollowcell.json) |
 | Zapper | 202182 | [202182-zapper.json](./202182-zapper.json) |
 | Zapper: One Wicked Cricket! | 4583 | [4583-zapper-one-wicked-cricket.json](./4583-zapper-one-wicked-cricket.json) |
