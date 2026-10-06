@@ -1241,6 +1241,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Billiards | 92297 | [92297-jissen-billiards.json](./92297-jissen-billiards.json) |
 | Jissen Kyoutei | 42643 | [42643-jissen-kyoutei.json](./42643-jissen-kyoutei.json) |
 | Jissen Pachi-Slot Hisshouhou! DS: Aladdin II Evolution | 269825 | [269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json](./269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json) |
+| Jissen Pachi-Slot Hisshouhou! Hokuto no Ken | 64182 | [64182-jissen-pachi-slot-hisshouhou-hokuto-no-ken.json](./64182-jissen-pachi-slot-hisshouhou-hokuto-no-ken.json) |
+| Jissen Pachi-Slot Hisshouhou! Hokuto no Ken 2: Ransei Haou-den Tenha no Shou | 64174 | [64174-jissen-pachi-slot-hisshouhou-hokuto-no-ken-2-ransei-haou-den-tenha-no-shou.json](./64174-jissen-pachi-slot-hisshouhou-hokuto-no-ken-2-ransei-haou-den-tenha-no-shou.json) |
+| Jissen Pachi-Slot Hisshouhou! Hokuto no Ken DS | 64181 | [64181-jissen-pachi-slot-hisshouhou-hokuto-no-ken-ds.json](./64181-jissen-pachi-slot-hisshouhou-hokuto-no-ken-ds.json) |
+| Jissen Pachi-Slot Hisshouhou! Hokuto no Ken F: Seikimatsu Kyuuseishu Densetsu | 64175 | [64175-jissen-pachi-slot-hisshouhou-hokuto-no-ken-f-seikimatsu-kyuuseishu-densetsu.json](./64175-jissen-pachi-slot-hisshouhou-hokuto-no-ken-f-seikimatsu-kyuuseishu-densetsu.json) |
+| Jissen Pachi-Slot Hisshouhou! Hokuto no Ken Plus | 64180 | [64180-jissen-pachi-slot-hisshouhou-hokuto-no-ken-plus.json](./64180-jissen-pachi-slot-hisshouhou-hokuto-no-ken-plus.json) |
+| Jissen Pachi-Slot Hisshouhou! Hokuto no Ken Portable | 64179 | [64179-jissen-pachi-slot-hisshouhou-hokuto-no-ken-portable.json](./64179-jissen-pachi-slot-hisshouhou-hokuto-no-ken-portable.json) |
+| Jissen Pachi-Slot Hisshouhou! Hokuto no Ken SE | 64178 | [64178-jissen-pachi-slot-hisshouhou-hokuto-no-ken-se.json](./64178-jissen-pachi-slot-hisshouhou-hokuto-no-ken-se.json) |
+| Jissen Pachi-Slot Hisshouhou! Hokuto no Ken SE DS | 64177 | [64177-jissen-pachi-slot-hisshouhou-hokuto-no-ken-se-ds.json](./64177-jissen-pachi-slot-hisshouhou-hokuto-no-ken-se-ds.json) |
+| Jissen Pachi-Slot Hisshouhou! Hokuto no Ken SE Portable | 64176 | [64176-jissen-pachi-slot-hisshouhou-hokuto-no-ken-se-portable.json](./64176-jissen-pachi-slot-hisshouhou-hokuto-no-ken-se-portable.json) |
 | Jissen Pachi-Slot Hisshouhou! King Camel | 82304 | [82304-jissen-pachi-slot-hisshouhou-king-camel.json](./82304-jissen-pachi-slot-hisshouhou-king-camel.json) |
 | Jissen Pachi-Slot Hisshouhou! Mou-juu-oh S | 82302 | [82302-jissen-pachi-slot-hisshouhou-mou-juu-oh-s.json](./82302-jissen-pachi-slot-hisshouhou-mou-juu-oh-s.json) |
 | Jissen Pachi-Slot Hisshouhou! Mr. Magic Neo | 82310 | [82310-jissen-pachi-slot-hisshouhou-mr-magic-neo.json](./82310-jissen-pachi-slot-hisshouhou-mr-magic-neo.json) |
