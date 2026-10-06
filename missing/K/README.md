@@ -1218,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiddie Coaster | 66045 | [66045-kiddie-coaster.json](./66045-kiddie-coaster.json) |
 | Kiddies Party Pack | 100174 | [100174-kiddies-party-pack.json](./100174-kiddies-party-pack.json) |
 | Kiddo | 176794 | [176794-kiddo.json](./176794-kiddo.json) |
+| Kiddopia - Preschool Learning Games | 105831 | [105831-kiddopia-preschool-learning-games.json](./105831-kiddopia-preschool-learning-games.json) |
 | Kiddy Kong's Challenge | 307718 | [307718-kiddy-kongs-challenge.json](./307718-kiddy-kongs-challenge.json) |
 | Kiddy Memory | 221264 | [221264-kiddy-memory.json](./221264-kiddy-memory.json) |
 | Kidgames | 131351 | [131351-kidgames.json](./131351-kidgames.json) |
@@ -1802,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Come: Deliverance II: Legacy of the Forge | 361887 | [361887-kingdom-come-deliverance-ii-legacy-of-the-forge.json](./361887-kingdom-come-deliverance-ii-legacy-of-the-forge.json) |
 | Kingdom Death: Simulator | 360609 | [360609-kingdom-death-simulator.json](./360609-kingdom-death-simulator.json) |
 | Kingdom Defense: Deliverance | 333136 | [333136-kingdom-defense-deliverance.json](./333136-kingdom-defense-deliverance.json) |
+| Kingdom Defense: Hero Legend | 105834 | [105834-kingdom-defense-hero-legend.json](./105834-kingdom-defense-hero-legend.json) |
 | Kingdom Draw | 210507 | [210507-kingdom-draw.json](./210507-kingdom-draw.json) |
 | Kingdom Eighties | 209620 | [209620-kingdom-eighties.json](./209620-kingdom-eighties.json) |
 | Kingdom Flipper | 325539 | [325539-kingdom-flipper.json](./325539-kingdom-flipper.json) |
