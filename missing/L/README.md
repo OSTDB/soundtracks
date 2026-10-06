@@ -1496,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Otherworld | 288430 | [288430-legend-of-the-otherworld.json](./288430-legend-of-the-otherworld.json) |
 | Legend of the Seven Paladins | 140401 | [140401-legend-of-the-seven-paladins.json](./140401-legend-of-the-seven-paladins.json) |
 | Legend of the Skyfish | 27604 | [27604-legend-of-the-skyfish.json](./27604-legend-of-the-skyfish.json) |
+| Legend of the Skyfish 2 | 94965 | [94965-legend-of-the-skyfish-2.json](./94965-legend-of-the-skyfish-2.json) |
 | Legend of the Storm | 340911 | [340911-legend-of-the-storm.json](./340911-legend-of-the-storm.json) |
 | Legend of the Sword Saint | 340912 | [340912-legend-of-the-sword-saint.json](./340912-legend-of-the-sword-saint.json) |
 | Legend of the Tetrarchs | 117738 | [117738-legend-of-the-tetrarchs.json](./117738-legend-of-the-tetrarchs.json) |
@@ -3736,6 +3737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock Her Up: The Trump Supremacy | 81815 | [81815-lock-her-up-the-trump-supremacy.json](./81815-lock-her-up-the-trump-supremacy.json) |
 | Lock In: Final Cut | 202754 | [202754-lock-in-final-cut.json](./202754-lock-in-final-cut.json) |
 | Lock Lock: Farm | 168628 | [168628-lock-lock-farm.json](./168628-lock-lock-farm.json) |
+| Lock N' Load | 94929 | [94929-lock-n-load.json](./94929-lock-n-load.json) |
 | Lock On | 335708 | [335708-lock-on.json](./335708-lock-on.json) |
 | Lock on: Flaming Cliffs 3 | 63815 | [63815-lock-on-flaming-cliffs-3.json](./63815-lock-on-flaming-cliffs-3.json) |
 | Lock On: Modern Air Combat | 10201 | [10201-lock-on-modern-air-combat.json](./10201-lock-on-modern-air-combat.json) |
