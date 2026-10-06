@@ -1425,6 +1425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impact Trial: Simulation | 164508 | [164508-impact-trial-simulation.json](./164508-impact-trial-simulation.json) |
 | Impact Trial: The Lost Planet | 258128 | [258128-impact-trial-the-lost-planet.json](./258128-impact-trial-the-lost-planet.json) |
 | Impact! | 289584 | [289584-impact.json](./289584-impact.json) |
+| Impale Your Friends! | 117573 | [117573-impale-your-friends.json](./117573-impale-your-friends.json) |
 | Impaler Gold | 196078 | [196078-impaler-gold.json](./196078-impaler-gold.json) |
 | Impartial | 339091 | [339091-impartial.json](./339091-impartial.json) |
 | Impassioned Fowl | 179544 | [179544-impassioned-fowl.json](./179544-impassioned-fowl.json) |
@@ -2441,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane Maze | 217208 | [217208-insane-maze.json](./217208-insane-maze.json) |
 | Insane Road | 37404 | [37404-insane-road.json](./37404-insane-road.json) |
 | Insane Rules | 284615 | [284615-insane-rules.json](./284615-insane-rules.json) |
+| Insane West | 117564 | [117564-insane-west.json](./117564-insane-west.json) |
 | Insanely Twisted Shadow Planet | 6168 | [6168-insanely-twisted-shadow-planet.json](./6168-insanely-twisted-shadow-planet.json) |
 | Insania | 132738 | [132738-insania.json](./132738-insania.json) |
 | Insanias | 250950 | [250950-insanias.json](./250950-insanias.json) |
