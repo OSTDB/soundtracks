@@ -1470,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jorel's Brother and the Most Important Game of the Galaxy: Chapter 2 - The Lustrous of the Universe | 253311 | [253311-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-2-the-lustrous-of-the-universe.json](./253311-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-2-the-lustrous-of-the-universe.json) |
 | Jorel's Brother and the Most Important Game of the Galaxy: Chapter 3 - The Final Rave | 253316 | [253316-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-3-the-final-rave.json](./253316-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-3-the-final-rave.json) |
 | Jorji and Impossible Forest | 104817 | [104817-jorji-and-impossible-forest.json](./104817-jorji-and-impossible-forest.json) |
+| Jormungandr | 117618 | [117618-jormungandr.json](./117618-jormungandr.json) |
 | Jorogumo | 251742 | [251742-jorogumo.json](./251742-jorogumo.json) |
 | Jorry | 129032 | [129032-jorry.json](./129032-jorry.json) |
 | Joryuu Janshi ni Chousen | 97861 | [97861-joryuu-janshi-ni-chousen.json](./97861-joryuu-janshi-ni-chousen.json) |
