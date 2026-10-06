@@ -2953,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inumeda | 263113 | [263113-inumeda.json](./263113-inumeda.json) |
 | Inunaki Tunnel | 126348 | [126348-inunaki-tunnel.json](./126348-inunaki-tunnel.json) |
 | Inuwashi: Urabure Tantei to Ojou-sama Keiji no Ikebukuro Jiken File | 130237 | [130237-inuwashi-urabure-tantei-to-ojou-sama-keiji-no-ikebukuro-jiken-file.json](./130237-inuwashi-urabure-tantei-to-ojou-sama-keiji-no-ikebukuro-jiken-file.json) |
+| Inuyasha | 100268 | [100268-inuyasha.json](./100268-inuyasha.json) |
 | Inuyasha Awakening | 174825 | [174825-inuyasha-awakening.json](./174825-inuyasha-awakening.json) |
 | Inuyasha: Battle of Hell | 121442 | [121442-inuyasha-battle-of-hell.json](./121442-inuyasha-battle-of-hell.json) |
 | Inuyasha: Battle of Naraku | 193963 | [193963-inuyasha-battle-of-naraku.json](./193963-inuyasha-battle-of-naraku.json) |
@@ -2982,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invariant | 326224 | [326224-invariant.json](./326224-invariant.json) |
 | Invariant | 410973 | [410973-invariant.json](./410973-invariant.json) |
 | Invasão | 299473 | [299473-invasao.json](./299473-invasao.json) |
+| Invasion | 100298 | [100298-invasion.json](./100298-invasion.json) |
 | Invasion | 109448 | [109448-invasion.json](./109448-invasion.json) |
 | Invasion | 320342 | [320342-invasion.json](./320342-invasion.json) |
 | Invasion | 95388 | [95388-invasion.json](./95388-invasion.json) |
@@ -3011,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invention 5 | 336699 | [336699-invention-5.json](./336699-invention-5.json) |
 | Invention 6 | 340759 | [340759-invention-6.json](./340759-invention-6.json) |
 | Invention 7 | 340760 | [340760-invention-7.json](./340760-invention-7.json) |
+| Invention Studio | 100254 | [100254-invention-studio.json](./100254-invention-studio.json) |
 | Inventioneers | 34621 | [34621-inventioneers.json](./34621-inventioneers.json) |
 | Inventor | 120272 | [120272-inventor.json](./120272-inventor.json) |
 | Inventor Labs | 94242 | [94242-inventor-labs.json](./94242-inventor-labs.json) |
