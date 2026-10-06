@@ -1406,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Flight Simulator 2020 VR | 162748 | [162748-rc-flight-simulator-2020-vr.json](./162748-rc-flight-simulator-2020-vr.json) |
 | RC Fun City | 80975 | [80975-rc-fun-city.json](./80975-rc-fun-city.json) |
 | RC Heli 3 | 240862 | [240862-rc-heli-3.json](./240862-rc-heli-3.json) |
+| RC Helicopter Indoor Adventure | 78279 | [78279-rc-helicopter-indoor-adventure.json](./78279-rc-helicopter-indoor-adventure.json) |
 | RC Overdrive | 393799 | [393799-rc-overdrive.json](./393799-rc-overdrive.json) |
 | Rc Plane 2 | 260654 | [260654-rc-plane-2.json](./260654-rc-plane-2.json) |
 | RC Plane 3: Canyon Scenario | 167718 | [167718-rc-plane-3-canyon-scenario.json](./167718-rc-plane-3-canyon-scenario.json) |
@@ -3422,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return Alive | 255803 | [255803-return-alive.json](./255803-return-alive.json) |
 | Return Machine.Love() | 406290 | [406290-return-machine-love.json](./406290-return-machine-love.json) |
 | Return of Double Dragon | 248131 | [248131-return-of-double-dragon.json](./248131-return-of-double-dragon.json) |
+| Return of Jelda | 78312 | [78312-return-of-jelda.json](./78312-return-of-jelda.json) |
 | Return of Red Riding Hood: Enhanced Edition | 81243 | [81243-return-of-red-riding-hood-enhanced-edition.json](./81243-return-of-red-riding-hood-enhanced-edition.json) |
 | Return of Saiyan | 95840 | [95840-return-of-saiyan.json](./95840-return-of-saiyan.json) |
 | Return of the Demons | 386337 | [386337-return-of-the-demons.json](./386337-return-of-the-demons.json) |
