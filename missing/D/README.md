@@ -4637,6 +4637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Again | 133340 | [133340-die-again.json](./133340-die-again.json) |
 | Die Alien Slime | 13593 | [13593-die-alien-slime.json](./13593-die-alien-slime.json) |
 | Die Bahnwelt | 82035 | [82035-die-bahnwelt.json](./82035-die-bahnwelt.json) |
+| Die Biene Maja: Klatschmohnwiese in Gefahr | 94425 | [94425-die-biene-maja-klatschmohnwiese-in-gefahr.json](./94425-die-biene-maja-klatschmohnwiese-in-gefahr.json) |
 | Die Bloody Nazi Die! | 117543 | [117543-die-bloody-nazi-die.json](./117543-die-bloody-nazi-die.json) |
 | Die by Anything | 328099 | [328099-die-by-anything.json](./328099-die-by-anything.json) |
 | Die by the Sword: Limb from Limb | 10913 | [10913-die-by-the-sword-limb-from-limb.json](./10913-die-by-the-sword-limb-from-limb.json) |
@@ -7182,6 +7183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doppelgänger | 275029 | [275029-doppelganger.json](./275029-doppelganger.json) |
 | Doppelgänger | 275902 | [275902-doppelganger.json](./275902-doppelganger.json) |
 | Doppelganger: Dawn of the Inverted Souls | 61306 | [61306-doppelganger-dawn-of-the-inverted-souls.json](./61306-doppelganger-dawn-of-the-inverted-souls.json) |
+| Doppelpass | 94402 | [94402-doppelpass.json](./94402-doppelpass.json) |
 | Doppelscape | 288228 | [288228-doppelscape.json](./288228-doppelscape.json) |
 | DoppelTest | 352746 | [352746-doppeltest.json](./352746-doppeltest.json) |
 | Doppleganger | 13606 | [13606-doppleganger.json](./13606-doppleganger.json) |
@@ -7544,6 +7546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downstairs at Grandma's House | 113832 | [113832-downstairs-at-grandmas-house.json](./113832-downstairs-at-grandmas-house.json) |
 | Downtown | 174110 | [174110-downtown.json](./174110-downtown.json) |
 | Downtown | 354573 | [354573-downtown.json](./354573-downtown.json) |
+| DownTown | 94406 | [94406-downtown.json](./94406-downtown.json) |
 | Downtown Club | 330284 | [330284-downtown-club.json](./330284-downtown-club.json) |
 | Downtown Dodgeball Da yo: Zenin Shuugou!! | 60501 | [60501-downtown-dodgeball-da-yo-zenin-shuugou.json](./60501-downtown-dodgeball-da-yo-zenin-shuugou.json) |
 | Downtown Jam | 207784 | [207784-downtown-jam.json](./207784-downtown-jam.json) |
@@ -8955,6 +8958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drip Drip | 86203 | [86203-drip-drip.json](./86203-drip-drip.json) |
 | Driv3r | 194978 | [194978-driv3r.json](./194978-driv3r.json) |
 | Drive | 366908 | [366908-drive.json](./366908-drive.json) |
+| Drive | 94414 | [94414-drive.json](./94414-drive.json) |
 | Drive 'n' Park | 132025 | [132025-drive-n-park.json](./132025-drive-n-park.json) |
 | Drive 21 | 157501 | [157501-drive-21.json](./157501-drive-21.json) |
 | Drive 4 Survival | 139390 | [139390-drive-4-survival.json](./139390-drive-4-survival.json) |
@@ -9492,6 +9496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dueling Network | 136180 | [136180-dueling-network.json](./136180-dueling-network.json) |
 | Duelist | 154349 | [154349-duelist.json](./154349-duelist.json) |
 | Duelite | 303496 | [303496-duelite.json](./303496-duelite.json) |
+| Duels | 94383 | [94383-duels.json](./94383-duels.json) |
 | Duels Kings | 227834 | [227834-duels-kings.json](./227834-duels-kings.json) |
 | DuelVox | 155574 | [155574-duelvox.json](./155574-duelvox.json) |
 | Duelyst GG | 232452 | [232452-duelyst-gg.json](./232452-duelyst-gg.json) |
