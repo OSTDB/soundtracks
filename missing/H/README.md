@@ -1210,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter: Quidditch World Cup | 166523 | [166523-harry-potter-quidditch-world-cup.json](./166523-harry-potter-quidditch-world-cup.json) |
 | Harry Styles Heardle | 225622 | [225622-harry-styles-heardle.json](./225622-harry-styles-heardle.json) |
 | Harry the Hamster 2: The Quest for the Golden Wheel | 235333 | [235333-harry-the-hamster-2-the-quest-for-the-golden-wheel.json](./235333-harry-the-hamster-2-the-quest-for-the-golden-wheel.json) |
+| Harry's Burgers | 86431 | [86431-harrys-burgers.json](./86431-harrys-burgers.json) |
 | Harry's Legend | 320965 | [320965-harrys-legend.json](./320965-harrys-legend.json) |
 | Harrys Restaurant | 66388 | [66388-harrys-restaurant.json](./66388-harrys-restaurant.json) |
 | Harsh. | 294363 | [294363-harsh.json](./294363-harsh.json) |
@@ -1429,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Escape: Wrath of Victoria | 62759 | [62759-haunted-escape-wrath-of-victoria.json](./62759-haunted-escape-wrath-of-victoria.json) |
 | Haunted Gas Station | 123976 | [123976-haunted-gas-station.json](./123976-haunted-gas-station.json) |
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
+| Haunted Halls: Fears from Childhood - Collector's Edition | 86437 | [86437-haunted-halls-fears-from-childhood-collectors-edition.json](./86437-haunted-halls-fears-from-childhood-collectors-edition.json) |
 | Haunted Heye Apartment | 245811 | [245811-haunted-heye-apartment.json](./245811-haunted-heye-apartment.json) |
 | Haunted Hill | 276390 | [276390-haunted-hill.json](./276390-haunted-hill.json) |
 | Haunted Hotel | 146857 | [146857-haunted-hotel.json](./146857-haunted-hotel.json) |
