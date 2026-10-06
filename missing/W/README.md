@@ -2076,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What a Ball | 225727 | [225727-what-a-ball.json](./225727-what-a-ball.json) |
 | What A Legend | 239306 | [239306-what-a-legend.json](./239306-what-a-legend.json) |
 | What a Shitty Job | 348869 | [348869-what-a-shitty-job.json](./348869-what-a-shitty-job.json) |
+| What A Trash Game | 104150 | [104150-what-a-trash-game.json](./104150-what-a-trash-game.json) |
 | What Awaits Us Below | 177295 | [177295-what-awaits-us-below.json](./177295-what-awaits-us-below.json) |
 | What Beats Rock | 309019 | [309019-what-beats-rock.json](./309019-what-beats-rock.json) |
 | What Belongs?Find Hidden Words | 232057 | [232057-what-belongs-find-hidden-words.json](./232057-what-belongs-find-hidden-words.json) |
