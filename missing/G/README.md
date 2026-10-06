@@ -3841,6 +3841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | googolChooChoo3D2 | 106990 | [106990-googolchoochoo3d2.json](./106990-googolchoochoo3d2.json) |
 | Googoo: Bash! | 216728 | [216728-googoo-bash.json](./216728-googoo-bash.json) |
 | GooGooRise | 304628 | [304628-googoorise.json](./304628-googoorise.json) |
+| GooHuebelets | 65792 | [65792-goohuebelets.json](./65792-goohuebelets.json) |
 | Gooing Up! | 321340 | [321340-gooing-up.json](./321340-gooing-up.json) |
 | Goolems | 244233 | [244233-goolems.json](./244233-goolems.json) |
 | Goomanuvr | 189164 | [189164-goomanuvr.json](./189164-goomanuvr.json) |
