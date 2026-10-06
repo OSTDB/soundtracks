@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Chance for Turnabout | 309994 | [309994-last-chance-for-turnabout.json](./309994-last-chance-for-turnabout.json) |
 | Last Chance in Xollywood: Special Edition | 265609 | [265609-last-chance-in-xollywood-special-edition.json](./265609-last-chance-in-xollywood-special-edition.json) |
 | Last Chance Market | 220602 | [220602-last-chance-market.json](./220602-last-chance-market.json) |
+| Last Chance Supermarket | 80808 | [80808-last-chance-supermarket.json](./80808-last-chance-supermarket.json) |
 | Last Chance to Green | 179655 | [179655-last-chance-to-green.json](./179655-last-chance-to-green.json) |
 | Last Chance VR | 123552 | [123552-last-chance-vr.json](./123552-last-chance-vr.json) |
 | Last Chaos | 90316 | [90316-last-chaos.json](./90316-last-chaos.json) |
@@ -3489,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Walker | 33388 | [33388-little-walker.json](./33388-little-walker.json) |
 | Little Warlings | 181763 | [181763-little-warlings.json](./181763-little-warlings.json) |
 | Little Weasel | 309485 | [309485-little-weasel.json](./309485-little-weasel.json) |
+| Little Wheel | 80829 | [80829-little-wheel.json](./80829-little-wheel.json) |
 | Little White Man vs. X | 252221 | [252221-little-white-man-vs-x.json](./252221-little-white-man-vs-x.json) |
 | Little Wing | 264234 | [264234-little-wing.json](./264234-little-wing.json) |
 | Little Wing | 79591 | [79591-little-wing.json](./79591-little-wing.json) |
