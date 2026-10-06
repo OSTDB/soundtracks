@@ -999,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absence Makes... | 242500 | [242500-absence-makes.json](./242500-absence-makes.json) |
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
 | Absence: Verdict of Silence | 185002 | [185002-absence-verdict-of-silence.json](./185002-absence-verdict-of-silence.json) |
+| Absent II | 58073 | [58073-absent-ii.json](./58073-absent-ii.json) |
 | AbsentedAge 2: Ghostbound | 363570 | [363570-absentedage-2-ghostbound.json](./363570-absentedage-2-ghostbound.json) |
 | Absentis | 189193 | [189193-absentis.json](./189193-absentis.json) |
 | Absin | 165505 | [165505-absin.json](./165505-absin.json) |
@@ -1170,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Academy of Magic: Dark Possession | 153877 | [153877-academy-of-magic-dark-possession.json](./153877-academy-of-magic-dark-possession.json) |
 | Academy Romance 7 | 185077 | [185077-academy-romance-7.json](./185077-academy-romance-7.json) |
 | Acai cOrner | 297558 | [297558-acai-corner.json](./297558-acai-corner.json) |
+| Acalius: Enemies of the Wild | 58069 | [58069-acalius-enemies-of-the-wild.json](./58069-acalius-enemies-of-the-wild.json) |
 | Acan's Call: Act 1 | 32084 | [32084-acans-call-act-1.json](./32084-acans-call-act-1.json) |
 | Acanthoceras | 208272 | [208272-acanthoceras.json](./208272-acanthoceras.json) |
 | ACardShooter | 118233 | [118233-acardshooter.json](./118233-acardshooter.json) |
@@ -1252,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 8: Wings of Theve | 381247 | [381247-ace-combat-8-wings-of-theve.json](./381247-ace-combat-8-wings-of-theve.json) |
 | Ace Combat X: Recompiled | 413916 | [413916-ace-combat-x-recompiled.json](./413916-ace-combat-x-recompiled.json) |
 | Ace Combat: Northern Wings | 175783 | [175783-ace-combat-northern-wings.json](./175783-ace-combat-northern-wings.json) |
+| Ace Duswell: Where's the Ace? | 58067 | [58067-ace-duswell-wheres-the-ace.json](./58067-ace-duswell-wheres-the-ace.json) |
 | Ace Force | 121736 | [121736-ace-force.json](./121736-ace-force.json) |
 | Ace Gals Tennis | 61059 | [61059-ace-gals-tennis.json](./61059-ace-gals-tennis.json) |
 | Ace In Space | 128339 | [128339-ace-in-space.json](./128339-ace-in-space.json) |
@@ -1300,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces: The Complete Collector's Edition | 206206 | [206206-aces-the-complete-collectors-edition.json](./206206-aces-the-complete-collectors-edition.json) |
 | AceSurvivor | 379465 | [379465-acesurvivor.json](./379465-acesurvivor.json) |
 | Achaem | 104680 | [104680-achaem.json](./104680-achaem.json) |
+| Achar Chronicles: Oblitus | 58068 | [58068-achar-chronicles-oblitus.json](./58068-achar-chronicles-oblitus.json) |
 | Acheron | 154386 | [154386-acheron.json](./154386-acheron.json) |
 | Acheron's Souls | 150121 | [150121-acherons-souls.json](./150121-acherons-souls.json) |
 | Achi: Strategy Game | 142973 | [142973-achi-strategy-game.json](./142973-achi-strategy-game.json) |
@@ -1816,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure with Firefly | 220545 | [220545-adventure-with-firefly.json](./220545-adventure-with-firefly.json) |
 | Adventure Word: Around the World | 275890 | [275890-adventure-word-around-the-world.json](./275890-adventure-word-around-the-world.json) |
 | Adventure Workshop 4th-6th Grade 5th Edition | 72114 | [72114-adventure-workshop-4th-6th-grade-5th-edition.json](./72114-adventure-workshop-4th-6th-grade-5th-edition.json) |
+| Adventure: All in the Game | 58070 | [58070-adventure-all-in-the-game.json](./58070-adventure-all-in-the-game.json) |
 | Adventure: The Inside Job | 60796 | [60796-adventure-the-inside-job.json](./60796-adventure-the-inside-job.json) |
 | Adventure: Welcome to the Genre | 165506 | [165506-adventure-welcome-to-the-genre.json](./165506-adventure-welcome-to-the-genre.json) |
 | Adventure4+ | 305199 | [305199-adventure4.json](./305199-adventure4.json) |
@@ -1955,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeronaut | 178522 | [178522-aeronaut.json](./178522-aeronaut.json) |
 | Aeronautica Imperialis: Flight Command | 132207 | [132207-aeronautica-imperialis-flight-command.json](./132207-aeronautica-imperialis-flight-command.json) |
 | Aeronautica Imperialis: Flight Command - Skulls Pack | 162754 | [162754-aeronautica-imperialis-flight-command-skulls-pack.json](./162754-aeronautica-imperialis-flight-command-skulls-pack.json) |
+| Aeronuts | 58049 | [58049-aeronuts.json](./58049-aeronuts.json) |
 | Aeroplanoui | 105296 | [105296-aeroplanoui.json](./105296-aeroplanoui.json) |
 | Aeropunx | 369180 | [369180-aeropunx.json](./369180-aeropunx.json) |
 | AeroSpace Engineering | 379494 | [379494-aerospace-engineering.json](./379494-aerospace-engineering.json) |
@@ -3121,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemelee | 128333 | [128333-alchemelee.json](./128333-alchemelee.json) |
 | Alchementalist | 157082 | [157082-alchementalist.json](./157082-alchementalist.json) |
 | Alchemia | 117032 | [117032-alchemia.json](./117032-alchemia.json) |
+| Alchemia | 58040 | [58040-alchemia.json](./58040-alchemia.json) |
 | Alchemia Story | 109917 | [109917-alchemia-story.json](./109917-alchemia-story.json) |
 | Alchemic Cutie | 107171 | [107171-alchemic-cutie.json](./107171-alchemic-cutie.json) |
 | Alchemic Maze | 82492 | [82492-alchemic-maze.json](./82492-alchemic-maze.json) |
@@ -3243,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alexa, Destroy Me | 398487 | [398487-alexa-destroy-me.json](./398487-alexa-destroy-me.json) |
 | Alexander | 398509 | [398509-alexander.json](./398509-alexander.json) |
 | Alexander | 9359 | [9359-alexander.json](./9359-alexander.json) |
+| Alexander the Great: Secrets of Power | 58039 | [58039-alexander-the-great-secrets-of-power.json](./58039-alexander-the-great-secrets-of-power.json) |
 | Alexander: Heroes of the Conquest | 202679 | [202679-alexander-heroes-of-the-conquest.json](./202679-alexander-heroes-of-the-conquest.json) |
 | Alexandra Fortune: Mystery of the Lunar Archipelago | 177047 | [177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json](./177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json) |
 | Alexandria IV | 221143 | [221143-alexandria-iv.json](./221143-alexandria-iv.json) |
@@ -3552,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Syndrome | 273026 | [273026-alien-syndrome.json](./273026-alien-syndrome.json) |
 | Alien Syndrome | 273027 | [273027-alien-syndrome.json](./273027-alien-syndrome.json) |
 | Alien Tequila | 73263 | [73263-alien-tequila.json](./73263-alien-tequila.json) |
+| Alien Time Zone | 58037 | [58037-alien-time-zone.json](./58037-alien-time-zone.json) |
 | Alien Tower | 259543 | [259543-alien-tower.json](./259543-alien-tower.json) |
 | Alien Town Invasion | 223398 | [223398-alien-town-invasion.json](./223398-alien-town-invasion.json) |
 | Alien Tribe 2 | 97309 | [97309-alien-tribe-2.json](./97309-alien-tribe-2.json) |
@@ -3779,6 +3788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All one click | 267086 | [267086-all-one-click.json](./267086-all-one-click.json) |
 | All or Nothing | 152482 | [152482-all-or-nothing.json](./152482-all-or-nothing.json) |
 | All Our Asias | 68216 | [68216-all-our-asias.json](./68216-all-our-asias.json) |
+| All Pigs Deserve to Burn in Hell | 58034 | [58034-all-pigs-deserve-to-burn-in-hell.json](./58034-all-pigs-deserve-to-burn-in-hell.json) |
 | All Pro Basketball | 217823 | [217823-all-pro-basketball.json](./217823-all-pro-basketball.json) |
 | All Quiet in the Trenches | 245905 | [245905-all-quiet-in-the-trenches.json](./245905-all-quiet-in-the-trenches.json) |
 | All Quite on the Bridge: Mad Cliff | 105306 | [105306-all-quite-on-the-bridge-mad-cliff.json](./105306-all-quite-on-the-bridge-mad-cliff.json) |
@@ -3947,6 +3957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Grey | 151829 | [151829-alone-in-the-grey.json](./151829-alone-in-the-grey.json) |
 | Alone in the Grey | 201707 | [201707-alone-in-the-grey.json](./201707-alone-in-the-grey.json) |
 | Alone in the Machine | 363909 | [363909-alone-in-the-machine.json](./363909-alone-in-the-machine.json) |
+| Alone in the Night | 58033 | [58033-alone-in-the-night.json](./58033-alone-in-the-night.json) |
 | Alone in the Outback | 226215 | [226215-alone-in-the-outback.json](./226215-alone-in-the-outback.json) |
 | Alone in the School | 302385 | [302385-alone-in-the-school.json](./302385-alone-in-the-school.json) |
 | Alone in the Stars: Survivor | 334886 | [334886-alone-in-the-stars-survivor.json](./334886-alone-in-the-stars-survivor.json) |
@@ -4241,8 +4252,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amanthi | 141853 | [141853-amanthi.json](./141853-amanthi.json) |
 | Amaranth III | 69264 | [69264-amaranth-iii.json](./69264-amaranth-iii.json) |
 | Amaranthine | 33200 | [33200-amaranthine.json](./33200-amaranthine.json) |
+| Amaranthine Voyage: The Living Mountain | 58027 | [58027-amaranthine-voyage-the-living-mountain.json](./58027-amaranthine-voyage-the-living-mountain.json) |
+| Amaranthine Voyage: The Obsidian Book | 58028 | [58028-amaranthine-voyage-the-obsidian-book.json](./58028-amaranthine-voyage-the-obsidian-book.json) |
 | Amaranthine Voyage: The Obsidian Book - Collector's Edition | 105338 | [105338-amaranthine-voyage-the-obsidian-book-collectors-edition.json](./105338-amaranthine-voyage-the-obsidian-book-collectors-edition.json) |
+| Amaranthine Voyage: The Orb of Purity | 58030 | [58030-amaranthine-voyage-the-orb-of-purity.json](./58030-amaranthine-voyage-the-orb-of-purity.json) |
+| Amaranthine Voyage: The Shadow of Torment | 58032 | [58032-amaranthine-voyage-the-shadow-of-torment.json](./58032-amaranthine-voyage-the-shadow-of-torment.json) |
 | Amaranthine Voyage: The Sky | 89143 | [89143-amaranthine-voyage-the-sky.json](./89143-amaranthine-voyage-the-sky.json) |
+| Amaranthine Voyage: The Tree of Life | 58029 | [58029-amaranthine-voyage-the-tree-of-life.json](./58029-amaranthine-voyage-the-tree-of-life.json) |
+| Amaranthine Voyage: Winter Neverending | 58026 | [58026-amaranthine-voyage-winter-neverending.json](./58026-amaranthine-voyage-winter-neverending.json) |
 | AmaranTime | 30172 | [30172-amarantime.json](./30172-amarantime.json) |
 | Amarantus | 201324 | [201324-amarantus.json](./201324-amarantus.json) |
 | Amarillo's Butt Slapper | 319679 | [319679-amarillos-butt-slapper.json](./319679-amarillos-butt-slapper.json) |
@@ -4354,6 +4371,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber Time Pocket | 226220 | [226220-amber-time-pocket.json](./226220-amber-time-pocket.json) |
 | Amber: Journeys Beyond | 12390 | [12390-amber-journeys-beyond.json](./12390-amber-journeys-beyond.json) |
 | Amber's Airline: 7 Wonders | 116726 | [116726-ambers-airline-7-wonders.json](./116726-ambers-airline-7-wonders.json) |
+| Amber's Blood | 58025 | [58025-ambers-blood.json](./58025-ambers-blood.json) |
+| Amber's Tales: The Isle of Dead Ships | 58024 | [58024-ambers-tales-the-isle-of-dead-ships.json](./58024-ambers-tales-the-isle-of-dead-ships.json) |
 | AmberCity | 101062 | [101062-ambercity.json](./101062-ambercity.json) |
 | Amberial Dreams | 107773 | [107773-amberial-dreams.json](./107773-amberial-dreams.json) |
 | Ambermoon.net | 217853 | [217853-ambermoon-net.json](./217853-ambermoon-net.json) |
@@ -9760,6 +9779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axis Football 2023 | 213436 | [213436-axis-football-2023.json](./213436-axis-football-2023.json) |
 | Axis Football 2024 | 264762 | [264762-axis-football-2024.json](./264762-axis-football-2024.json) |
 | Axis Football 2027 | 416119 | [416119-axis-football-2027.json](./416119-axis-football-2027.json) |
+| Axis Football League | 58041 | [58041-axis-football-league.json](./58041-axis-football-league.json) |
 | Axis Forward | 100930 | [100930-axis-forward.json](./100930-axis-forward.json) |
 | Axis Mundi | 26942 | [26942-axis-mundi.json](./26942-axis-mundi.json) |
 | Axium's Box | 235453 | [235453-axiums-box.json](./235453-axiums-box.json) |
