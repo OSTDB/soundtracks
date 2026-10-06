@@ -1462,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Grand Cruise | 47292 | [47292-one-piece-grand-cruise.json](./47292-one-piece-grand-cruise.json) |
 | One Piece: Maboroshi no Grand Line Boukenki! | 75744 | [75744-one-piece-maboroshi-no-grand-line-boukenki.json](./75744-one-piece-maboroshi-no-grand-line-boukenki.json) |
 | One Piece: Mezase Kaizoku-ou! | 75737 | [75737-one-piece-mezase-kaizoku-ou.json](./75737-one-piece-mezase-kaizoku-ou.json) |
+| One Piece: Mezase Kaizokuou! | 61475 | [61475-one-piece-mezase-kaizokuou.json](./61475-one-piece-mezase-kaizokuou.json) |
 | One Piece: Nanatsu Shima no Daihihou | 75747 | [75747-one-piece-nanatsu-shima-no-daihihou.json](./75747-one-piece-nanatsu-shima-no-daihihou.json) |
 | One Piece: Niji no Shima Densetsu | 75741 | [75741-one-piece-niji-no-shima-densetsu.json](./75741-one-piece-niji-no-shima-densetsu.json) |
 | One Piece: Ocean's Dream! | 75750 | [75750-one-piece-oceans-dream.json](./75750-one-piece-oceans-dream.json) |
@@ -1813,8 +1814,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oogy: Can You Help | 190086 | [190086-oogy-can-you-help.json](./190086-oogy-can-you-help.json) |
 | Ookami Game | 151847 | [151847-ookami-game.json](./151847-ookami-game.json) |
 | Ookami to Koushinryou: Boku to Holo no Ichi-nen | 123449 | [123449-ookami-to-koushinryou-boku-to-holo-no-ichi-nen.json](./123449-ookami-to-koushinryou-boku-to-holo-no-ichi-nen.json) |
+| Ookami to Koushinryou: Umi wo Wataru Kaze | 61433 | [61433-ookami-to-koushinryou-umi-wo-wataru-kaze.json](./61433-ookami-to-koushinryou-umi-wo-wataru-kaze.json) |
 | Ookami-otoko Satsujin Jiken | 56755 | [56755-ookami-otoko-satsujin-jiken.json](./56755-ookami-otoko-satsujin-jiken.json) |
 | Ookibloks | 34516 | [34516-ookibloks.json](./34516-ookibloks.json) |
+| Ookiku Furikabutte: Honto no Ace ni Nareru Kamo | 61431 | [61431-ookiku-furikabutte-honto-no-ace-ni-nareru-kamo.json](./61431-ookiku-furikabutte-honto-no-ace-ni-nareru-kamo.json) |
 | Ookouchi Gengorou Ikka | 247528 | [247528-ookouchi-gengorou-ikka.json](./247528-ookouchi-gengorou-ikka.json) |
 | Oolite | 47274 | [47274-oolite.json](./47274-oolite.json) |
 | Oolo | 345036 | [345036-oolo.json](./345036-oolo.json) |
