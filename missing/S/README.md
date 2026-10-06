@@ -2884,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self-Defense Training Camp | 8545 | [8545-self-defense-training-camp.json](./8545-self-defense-training-camp.json) |
 | Self-knowledge VR | 114373 | [114373-self-knowledge-vr.json](./114373-self-knowledge-vr.json) |
 | Self-Portrait, Vomit on Concrete | 309962 | [309962-self-portrait-vomit-on-concrete.json](./309962-self-portrait-vomit-on-concrete.json) |
+| Self-Reliance | 114920 | [114920-self-reliance.json](./114920-self-reliance.json) |
 | Selfie : Sisters of the Amniotic Lens | 17176 | [17176-selfie-sisters-of-the-amniotic-lens.json](./17176-selfie-sisters-of-the-amniotic-lens.json) |
 | Selfie Games: A TV Party Game | 112149 | [112149-selfie-games-a-tv-party-game.json](./112149-selfie-games-a-tv-party-game.json) |
 | Selfie Worm | 404362 | [404362-selfie-worm.json](./404362-selfie-worm.json) |
@@ -3992,6 +3993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanhe Remain | 375988 | [375988-shanhe-remain.json](./375988-shanhe-remain.json) |
 | Shank the Cop | 155988 | [155988-shank-the-cop.json](./155988-shank-the-cop.json) |
 | Shankala | 377045 | [377045-shankala.json](./377045-shankala.json) |
+| Shanky: The Vegan's Nightmare | 114906 | [114906-shanky-the-vegans-nightmare.json](./114906-shanky-the-vegans-nightmare.json) |
 | Shannara | 2233 | [2233-shannara.json](./2233-shannara.json) |
 | Shanshui | 178485 | [178485-shanshui.json](./178485-shanshui.json) |
 | Shanshui Haven | 273347 | [273347-shanshui-haven.json](./273347-shanshui-haven.json) |
@@ -6779,6 +6781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Kingdoms | 54366 | [54366-sky-kingdoms.json](./54366-sky-kingdoms.json) |
 | Sky Kingdoms - Castle Siege | 100747 | [100747-sky-kingdoms-castle-siege.json](./100747-sky-kingdoms-castle-siege.json) |
 | Sky Knights | 26633 | [26633-sky-knights.json](./26633-sky-knights.json) |
+| Sky Labyrinth | 114922 | [114922-sky-labyrinth.json](./114922-sky-labyrinth.json) |
 | Sky Legends: An Aeropostal Epic | 361845 | [361845-sky-legends-an-aeropostal-epic.json](./361845-sky-legends-an-aeropostal-epic.json) |
 | Sky Love Boys: Flight Attendant Crush | 370824 | [370824-sky-love-boys-flight-attendant-crush.json](./370824-sky-love-boys-flight-attendant-crush.json) |
 | Sky Love Girls: Flight Attendant Crush | 370797 | [370797-sky-love-girls-flight-attendant-crush.json](./370797-sky-love-girls-flight-attendant-crush.json) |
@@ -9010,6 +9013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire: Decked Out | 133855 | [133855-solitaire-decked-out.json](./133855-solitaire-decked-out.json) |
 | Solitaire: Jack Frost Winter Adventures | 99984 | [99984-solitaire-jack-frost-winter-adventures.json](./99984-solitaire-jack-frost-winter-adventures.json) |
 | Solitaire: Klondike Card Game | 88833 | [88833-solitaire-klondike-card-game.json](./88833-solitaire-klondike-card-game.json) |
+| Solitaire: Learn Chemistry! | 114917 | [114917-solitaire-learn-chemistry.json](./114917-solitaire-learn-chemistry.json) |
 | Solitaire: Match 2 Cards - Valentine's Day | 286520 | [286520-solitaire-match-2-cards-valentines-day.json](./286520-solitaire-match-2-cards-valentines-day.json) |
 | Solitaire: Royal Mansion | 199627 | [199627-solitaire-royal-mansion.json](./199627-solitaire-royal-mansion.json) |
 | Solitaire: The Clean One | 221851 | [221851-solitaire-the-clean-one.json](./221851-solitaire-the-clean-one.json) |
@@ -10808,6 +10812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Quest I: Roger Wilco in the Sarien Encounter | 77194 | [77194-space-quest-i-roger-wilco-in-the-sarien-encounter.json](./77194-space-quest-i-roger-wilco-in-the-sarien-encounter.json) |
 | Space Quest II: Roger Wilco in Vohaul's Revenge | 84150 | [84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json](./84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json) |
 | Space Quiz | 74456 | [74456-space-quiz.json](./74456-space-quiz.json) |
+| Space Rabbits in Space | 114895 | [114895-space-rabbits-in-space.json](./114895-space-rabbits-in-space.json) |
 | Space Race | 361117 | [361117-space-race.json](./361117-space-race.json) |
 | Space Raft | 142117 | [142117-space-raft.json](./142117-space-raft.json) |
 | Space Rage | 105947 | [105947-space-rage.json](./105947-space-rage.json) |
@@ -10967,6 +10972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Wackos | 279850 | [279850-space-wackos.json](./279850-space-wackos.json) |
 | Space Walk | 170527 | [170527-space-walk.json](./170527-space-walk.json) |
 | Space Walk: Memory Games for Adults | 232538 | [232538-space-walk-memory-games-for-adults.json](./232538-space-walk-memory-games-for-adults.json) |
+| Space War Arena | 114884 | [114884-space-war-arena.json](./114884-space-war-arena.json) |
 | Space War Attack | 43546 | [43546-space-war-attack.json](./43546-space-war-attack.json) |
 | Space War Economy Idle | 346253 | [346253-space-war-economy-idle.json](./346253-space-war-economy-idle.json) |
 | Space War: Infinity | 118608 | [118608-space-war-infinity.json](./118608-space-war-infinity.json) |
@@ -14092,6 +14098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steal the Meal: Unblock Puzzle | 261514 | [261514-steal-the-meal-unblock-puzzle.json](./261514-steal-the-meal-unblock-puzzle.json) |
 | Steal The Pig | 344448 | [344448-steal-the-pig.json](./344448-steal-the-pig.json) |
 | Steal the Spotlight | 185454 | [185454-steal-the-spotlight.json](./185454-steal-the-spotlight.json) |
+| Stealth | 114888 | [114888-stealth.json](./114888-stealth.json) |
 | Stealth | 147969 | [147969-stealth.json](./147969-stealth.json) |
 | Stealth | 86207 | [86207-stealth.json](./86207-stealth.json) |
 | Stealth ATF | 48237 | [48237-stealth-atf.json](./48237-stealth-atf.json) |
@@ -16567,6 +16574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Adventure Island | 9064 | [9064-super-adventure-island.json](./9064-super-adventure-island.json) |
 | Super Adventurer | 61021 | [61021-super-adventurer.json](./61021-super-adventurer.json) |
 | Super Agent | 272486 | [272486-super-agent.json](./272486-super-agent.json) |
+| Super Agent: Drunk Kent | 114928 | [114928-super-agent-drunk-kent.json](./114928-super-agent-drunk-kent.json) |
 | Super Airwolf | 45548 | [45548-super-airwolf.json](./45548-super-airwolf.json) |
 | Super Alabama Beach Mouse | 377600 | [377600-super-alabama-beach-mouse.json](./377600-super-alabama-beach-mouse.json) |
 | Super Algebrawl | 283889 | [283889-super-algebrawl.json](./283889-super-algebrawl.json) |
@@ -18381,6 +18389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernatural | 303936 | [303936-supernatural.json](./303936-supernatural.json) |
 | Supernatural Squad | 333395 | [333395-supernatural-squad.json](./333395-supernatural-squad.json) |
 | Supernatural Story | 129714 | [129714-supernatural-story.json](./129714-supernatural-story.json) |
+| Supernatural Super Squad Fight! | 114933 | [114933-supernatural-super-squad-fight.json](./114933-supernatural-super-squad-fight.json) |
 | Supernatural Sweethearts | 206951 | [206951-supernatural-sweethearts.json](./206951-supernatural-sweethearts.json) |
 | Supernatural Visual Novel: The Fourteenth Guzai Vol. 1 & 2 | 373524 | [373524-supernatural-visual-novel-the-fourteenth-guzai-vol-1-and-2.json](./373524-supernatural-visual-novel-the-fourteenth-guzai-vol-1-and-2.json) |
 | Supernatural: The Game | 316718 | [316718-supernatural-the-game.json](./316718-supernatural-the-game.json) |
@@ -18622,6 +18631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival in Three Kingdoms | 115803 | [115803-survival-in-three-kingdoms.json](./115803-survival-in-three-kingdoms.json) |
 | Survival Island | 201672 | [201672-survival-island.json](./201672-survival-island.json) |
 | Survival Island: Evolve | 231882 | [231882-survival-island-evolve.json](./231882-survival-island-evolve.json) |
+| Survival Journals | 114889 | [114889-survival-journals.json](./114889-survival-journals.json) |
 | Survival Machine | 152121 | [152121-survival-machine.json](./152121-survival-machine.json) |
 | Survival Maze | 99428 | [99428-survival-maze.json](./99428-survival-maze.json) |
 | Survival Messenger Adventure | 231453 | [231453-survival-messenger-adventure.json](./231453-survival-messenger-adventure.json) |
