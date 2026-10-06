@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caladria Chronicles | 114913 | [114913-caladria-chronicles.json](./114913-caladria-chronicles.json) |
 | Caladria Chronicles Volume 2 | 230972 | [230972-caladria-chronicles-volume-2.json](./230972-caladria-chronicles-volume-2.json) |
 | Caladrius | 47482 | [47482-caladrius.json](./47482-caladrius.json) |
+| Calamai Kid | 95688 | [95688-calamai-kid.json](./95688-calamai-kid.json) |
 | Calamari Clash | 127844 | [127844-calamari-clash.json](./127844-calamari-clash.json) |
 | Calamity | 303719 | [303719-calamity.json](./303719-calamity.json) |
 | Calamity | 364103 | [364103-calamity.json](./364103-calamity.json) |
@@ -5377,6 +5378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleanup On Aisle 3 | 414428 | [414428-cleanup-on-aisle-3.json](./414428-cleanup-on-aisle-3.json) |
 | Cleanup Project | 255256 | [255256-cleanup-project.json](./255256-cleanup-project.json) |
 | Clear Mosaic | 253990 | [253990-clear-mosaic.json](./253990-clear-mosaic.json) |
+| Clear Sky 1941 | 95553 | [95553-clear-sky-1941.json](./95553-clear-sky-1941.json) |
 | Clear The Coast | 270692 | [270692-clear-the-coast.json](./270692-clear-the-coast.json) |
 | Clear the Lot | 224082 | [224082-clear-the-lot.json](./224082-clear-the-lot.json) |
 | Clear the Train | 255247 | [255247-clear-the-train.json](./255247-clear-the-train.json) |
@@ -5388,6 +5390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clear: Atarashii Kaze no Fuku Oka de | 133909 | [133909-clear-atarashii-kaze-no-fuku-oka-de.json](./133909-clear-atarashii-kaze-no-fuku-oka-de.json) |
 | Clearance Sale | 248794 | [248794-clearance-sale.json](./248794-clearance-sale.json) |
 | Clearing Blade | 326248 | [326248-clearing-blade.json](./326248-clearing-blade.json) |
+| ClearIt | 95660 | [95660-clearit.json](./95660-clearit.json) |
 | ClearIt2 | 96320 | [96320-clearit2.json](./96320-clearit2.json) |
 | Clearwater | 270718 | [270718-clearwater.json](./270718-clearwater.json) |
 | Cleave | 346181 | [346181-cleave.json](./346181-cleave.json) |
