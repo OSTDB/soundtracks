@@ -5022,6 +5022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Alone | 78598 | [78598-home-alone.json](./78598-home-alone.json) |
 | Home Alone | 78599 | [78599-home-alone.json](./78599-home-alone.json) |
 | Home Alone 2: Lost in New York | 243884 | [243884-home-alone-2-lost-in-new-york.json](./243884-home-alone-2-lost-in-new-york.json) |
+| Home Alone Girlfriend | 76943 | [76943-home-alone-girlfriend.json](./76943-home-alone-girlfriend.json) |
 | Home Alone Survival | 365062 | [365062-home-alone-survival.json](./365062-home-alone-survival.json) |
 | Home Babysitter | 83265 | [83265-home-babysitter.json](./83265-home-babysitter.json) |
 | Home Before Dark | 183360 | [183360-home-before-dark.json](./183360-home-before-dark.json) |
