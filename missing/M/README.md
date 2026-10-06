@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man of the World | 156074 | [156074-man-of-the-world.json](./156074-man-of-the-world.json) |
 | Man of War | 62287 | [62287-man-of-war.json](./62287-man-of-war.json) |
 | Man of War II: Chains of Command | 73835 | [73835-man-of-war-ii-chains-of-command.json](./73835-man-of-war-ii-chains-of-command.json) |
+| Man or Vampire | 112264 | [112264-man-or-vampire.json](./112264-man-or-vampire.json) |
 | Man Sa Yarbah Al Malyoon | 301363 | [301363-man-sa-yarbah-al-malyoon.json](./301363-man-sa-yarbah-al-malyoon.json) |
 | Man vs Machine | 150062 | [150062-man-vs-machine.json](./150062-man-vs-machine.json) |
 | Man Without Clothes Runner | 368469 | [368469-man-without-clothes-runner.json](./368469-man-without-clothes-runner.json) |
@@ -7818,6 +7819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobocratic | 164279 | [164279-mobocratic.json](./164279-mobocratic.json) |
 | Mobocratic Union | 269229 | [269229-mobocratic-union.json](./269229-mobocratic-union.json) |
 | MobOS | 350566 | [350566-mobos.json](./350566-mobos.json) |
+| Mobs 'n Gunners | 112250 | [112250-mobs-n-gunners.json](./112250-mobs-n-gunners.json) |
 | Mobs 'N Monsters | 321379 | [321379-mobs-n-monsters.json](./321379-mobs-n-monsters.json) |
 | Mobsmash.io | 125981 | [125981-mobsmash-io.json](./125981-mobsmash-io.json) |
 | Mobsters | 78608 | [78608-mobsters.json](./78608-mobsters.json) |
