@@ -14865,6 +14865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Smashed | 74304 | [74304-totally-smashed.json](./74304-totally-smashed.json) |
 | Totally Spies! | 359460 | [359460-totally-spies.json](./359460-totally-spies.json) |
 | Totally Spies! | 8021 | [8021-totally-spies.json](./8021-totally-spies.json) |
+| Totally Spies! 3: Secret Agents | 61468 | [61468-totally-spies-3-secret-agents.json](./61468-totally-spies-3-secret-agents.json) |
 | Totally Spies! 4: Around the World | 304040 | [304040-totally-spies-4-around-the-world.json](./304040-totally-spies-4-around-the-world.json) |
 | Totally Spies! Cyber Mission | 302511 | [302511-totally-spies-cyber-mission.json](./302511-totally-spies-cyber-mission.json) |
 | Totally Spies! The Mobile Game | 317003 | [317003-totally-spies-the-mobile-game.json](./317003-totally-spies-the-mobile-game.json) |
@@ -18126,6 +18127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumbleweed Destiny | 195073 | [195073-tumbleweed-destiny.json](./195073-tumbleweed-destiny.json) |
 | Tumbobots | 382224 | [382224-tumbobots.json](./382224-tumbobots.json) |
 | Tumor Necrosis Factor: Amen | 386716 | [386716-tumor-necrosis-factor-amen.json](./386716-tumor-necrosis-factor-amen.json) |
+| Tums: Battle of the Burn | 61430 | [61430-tums-battle-of-the-burn.json](./61430-tums-battle-of-the-burn.json) |
 | Tun Shi Tian Di III | 330523 | [330523-tun-shi-tian-di-iii.json](./330523-tun-shi-tian-di-iii.json) |
 | Tuna Roll | 325826 | [325826-tuna-roll.json](./325826-tuna-roll.json) |
 | Tuna The Cat | 249184 | [249184-tuna-the-cat.json](./249184-tuna-the-cat.json) |
