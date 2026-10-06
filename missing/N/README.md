@@ -3553,6 +3553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nogalious | 105438 | [105438-nogalious.json](./105438-nogalious.json) |
 | Nogard | 94729 | [94729-nogard.json](./94729-nogard.json) |
 | Nogginknockers | 66381 | [66381-nogginknockers.json](./66381-nogginknockers.json) |
+| Nogibator: Way of Legs | 83193 | [83193-nogibator-way-of-legs.json](./83193-nogibator-way-of-legs.json) |
 | Nohra | 156659 | [156659-nohra.json](./156659-nohra.json) |
 | Nohzdyve | 123624 | [123624-nohzdyve.json](./123624-nohzdyve.json) |
 | Noir Crime Bundle: Mafia, Mystery & Investigation | 402297 | [402297-noir-crime-bundle-mafia-mystery-and-investigation.json](./402297-noir-crime-bundle-mafia-mystery-and-investigation.json) |
@@ -4086,6 +4087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NTR homestay | 132191 | [132191-ntr-homestay.json](./132191-ntr-homestay.json) |
 | NTR Hunter: Hisako’s Secret | 386949 | [386949-ntr-hunter-hisako-s-secret.json](./386949-ntr-hunter-hisako-s-secret.json) |
 | NTR'd By Clumsiness | 236205 | [236205-ntrd-by-clumsiness.json](./236205-ntrd-by-clumsiness.json) |
+| NTRed Class Rep Yukino: H Days of Class Rep Who Can't Say No | 83173 | [83173-ntred-class-rep-yukino-h-days-of-class-rep-who-cant-say-no.json](./83173-ntred-class-rep-yukino-h-days-of-class-rep-who-cant-say-no.json) |
 | NTRstory | 245933 | [245933-ntrstory.json](./245933-ntrstory.json) |
 | Nu pogodi! Vypusk 3: Pesnya dlya zajca | 232658 | [232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json](./232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json) |
 | Nu, pogodi! | 245427 | [245427-nu-pogodi.json](./245427-nu-pogodi.json) |
