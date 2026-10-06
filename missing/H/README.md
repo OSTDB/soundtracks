@@ -2467,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty: Hello Submarine | 206193 | [206193-hello-kitty-hello-submarine.json](./206193-hello-kitty-hello-submarine.json) |
 | Hello Kitty: Kids Hospital | 377696 | [377696-hello-kitty-kids-hospital.json](./377696-hello-kitty-kids-hospital.json) |
 | Hello Kitty: Picnic with Sanrio Friends | 7437 | [7437-hello-kitty-picnic-with-sanrio-friends.json](./7437-hello-kitty-picnic-with-sanrio-friends.json) |
+| Hello Kitty: Puzzle Party | 83207 | [83207-hello-kitty-puzzle-party.json](./83207-hello-kitty-puzzle-party.json) |
 | Hello Kitty: School Bus | 206194 | [206194-hello-kitty-school-bus.json](./206194-hello-kitty-school-bus.json) |
 | Hello Kitty: Seaside Holiday | 218355 | [218355-hello-kitty-seaside-holiday.json](./218355-hello-kitty-seaside-holiday.json) |
 | Hello Kitty: Sweet Little Shops | 206159 | [206159-hello-kitty-sweet-little-shops.json](./206159-hello-kitty-sweet-little-shops.json) |
@@ -3523,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagonal Explods | 238729 | [238729-hexagonal-explods.json](./238729-hexagonal-explods.json) |
 | Hexagonal Tower | 195109 | [195109-hexagonal-tower.json](./195109-hexagonal-tower.json) |
 | Hexagoner | 286032 | [286032-hexagoner.json](./286032-hexagoner.json) |
+| Hexagons | 83179 | [83179-hexagons.json](./83179-hexagons.json) |
 | Hexagourds | 182893 | [182893-hexagourds.json](./182893-hexagourds.json) |
 | Hexahedral | 314461 | [314461-hexahedral.json](./314461-hexahedral.json) |
 | Hexahedral Pathfinder | 108418 | [108418-hexahedral-pathfinder.json](./108418-hexahedral-pathfinder.json) |
