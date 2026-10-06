@@ -1398,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carious Weltling | 354450 | [354450-carious-weltling.json](./354450-carious-weltling.json) |
 | CarJacker: Hotwired and Gone! | 66365 | [66365-carjacker-hotwired-and-gone.json](./66365-carjacker-hotwired-and-gone.json) |
 | Carl Currency, Expert Exchanger | 229345 | [229345-carl-currency-expert-exchanger.json](./229345-carl-currency-expert-exchanger.json) |
+| Carl Lewis Athletics 2000 | 66342 | [66342-carl-lewis-athletics-2000.json](./66342-carl-lewis-athletics-2000.json) |
 | Carl the Caveman | 281419 | [281419-carl-the-caveman.json](./281419-carl-the-caveman.json) |
 | Carl the Caveman: Christmas Adventures | 281421 | [281421-carl-the-caveman-christmas-adventures.json](./281421-carl-the-caveman-christmas-adventures.json) |
 | Carl und Cari: Trubel in Tierstadt | 309871 | [309871-carl-und-cari-trubel-in-tierstadt.json](./309871-carl-und-cari-trubel-in-tierstadt.json) |
@@ -3273,6 +3274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlotte's Web | 248749 | [248749-charlottes-web.json](./248749-charlottes-web.json) |
 | Charlotte's Web: Wilbur and Friends | 71015 | [71015-charlottes-web-wilbur-and-friends.json](./71015-charlottes-web-wilbur-and-friends.json) |
 | Charly Diams | 39114 | [39114-charly-diams.json](./39114-charly-diams.json) |
+| Charly the Clown | 66339 | [66339-charly-the-clown.json](./66339-charly-the-clown.json) |
 | Charm | 232657 | [232657-charm.json](./232657-charm.json) |
 | Charm & Clue 2 | 417505 | [417505-charm-and-clue-2.json](./417505-charm-and-clue-2.json) |
 | Charm & Clue 2: Collector's Edition | 416782 | [416782-charm-and-clue-2-collectors-edition.json](./416782-charm-and-clue-2-collectors-edition.json) |
@@ -6035,6 +6037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Eagle! | 246438 | [246438-code-eagle.json](./246438-code-eagle.json) |
 | Code Exit | 292540 | [292540-code-exit.json](./292540-code-exit.json) |
 | Code Geass: Hangyaku no Lelouch | 80230 | [80230-code-geass-hangyaku-no-lelouch.json](./80230-code-geass-hangyaku-no-lelouch.json) |
+| Code Geass: Lelouch of the Rebellion - Lost Colors | 66411 | [66411-code-geass-lelouch-of-the-rebellion-lost-colors.json](./66411-code-geass-lelouch-of-the-rebellion-lost-colors.json) |
 | Code Geass: Lelouch of the Rebellion R2 Banjou no Geass Gekijou | 80162 | [80162-code-geass-lelouch-of-the-rebellion-r2-banjou-no-geass-gekijou.json](./80162-code-geass-lelouch-of-the-rebellion-r2-banjou-no-geass-gekijou.json) |
 | Code Lyoko: Get Ready to Virtualize | 8453 | [8453-code-lyoko-get-ready-to-virtualize.json](./8453-code-lyoko-get-ready-to-virtualize.json) |
 | Code My Robot Vacuum | 396524 | [396524-code-my-robot-vacuum.json](./396524-code-my-robot-vacuum.json) |
