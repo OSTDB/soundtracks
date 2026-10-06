@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
 | Makoto Wakaido's Case Files: Phantom's Foot | 151811 | [151811-makoto-wakaidos-case-files-phantoms-foot.json](./151811-makoto-wakaidos-case-files-phantoms-foot.json) |
 | Makutsu no Liliane | 310120 | [310120-makutsu-no-liliane.json](./310120-makutsu-no-liliane.json) |
+| Makyouden | 92122 | [92122-makyouden.json](./92122-makyouden.json) |
 | Mala Petaka | 224535 | [224535-mala-petaka.json](./224535-mala-petaka.json) |
 | Malacadabra | 229037 | [229037-malacadabra.json](./229037-malacadabra.json) |
 | Malasombra | 227820 | [227820-malasombra.json](./227820-malasombra.json) |
@@ -3373,6 +3374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximus 2: Fantasy Beat-Em-Up | 196574 | [196574-maximus-2-fantasy-beat-em-up.json](./196574-maximus-2-fantasy-beat-em-up.json) |
 | Maxit | 78372 | [78372-maxit.json](./78372-maxit.json) |
 | Maxo Scringle's "Human Rocket" Mini-Type Rocket Golf | 402367 | [402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json](./402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json) |
+| MaXplosion | 92153 | [92153-maxplosion.json](./92153-maxplosion.json) |
 | MaxRacer | 143670 | [143670-maxracer.json](./143670-maxracer.json) |
 | MaxSwitch | 220214 | [220214-maxswitch.json](./220214-maxswitch.json) |
 | Maxwell Manor | 25979 | [25979-maxwell-manor.json](./25979-maxwell-manor.json) |
@@ -3491,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze in Your Mind | 351598 | [351598-maze-in-your-mind.json](./351598-maze-in-your-mind.json) |
 | Maze Invaders | 98243 | [98243-maze-invaders.json](./98243-maze-invaders.json) |
 | Maze It Out | 374730 | [374730-maze-it-out.json](./374730-maze-it-out.json) |
+| Maze Land | 92143 | [92143-maze-land.json](./92143-maze-land.json) |
 | Maze Lord | 33305 | [33305-maze-lord.json](./33305-maze-lord.json) |
 | Maze Machina | 119646 | [119646-maze-machina.json](./119646-maze-machina.json) |
 | Maze Madness | 101598 | [101598-maze-madness.json](./101598-maze-madness.json) |
@@ -3515,6 +3518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of the Mini-taur | 185126 | [185126-maze-of-the-mini-taur.json](./185126-maze-of-the-mini-taur.json) |
 | Maze of Wires | 342177 | [342177-maze-of-wires.json](./342177-maze-of-wires.json) |
 | Maze Pak | 247027 | [247027-maze-pak.json](./247027-maze-pak.json) |
+| Maze Panic | 92157 | [92157-maze-panic.json](./92157-maze-panic.json) |
 | Maze Party | 150487 | [150487-maze-party.json](./150487-maze-party.json) |
 | Maze Puzzle | 277868 | [277868-maze-puzzle.json](./277868-maze-puzzle.json) |
 | Maze Quest 1: The Forest | 107739 | [107739-maze-quest-1-the-forest.json](./107739-maze-quest-1-the-forest.json) |
@@ -8054,6 +8058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moira | 182523 | [182523-moira.json](./182523-moira.json) |
 | Möira | 18289 | [18289-moira.json](./18289-moira.json) |
 | Moira: Fated Twins | 121459 | [121459-moira-fated-twins.json](./121459-moira-fated-twins.json) |
+| Moji Bowling | 92115 | [92115-moji-bowling.json](./92115-moji-bowling.json) |
 | Mojib-Ribbon | 25097 | [25097-mojib-ribbon.json](./25097-mojib-ribbon.json) |
 | Mójiè Qíbīng | 268440 | [268440-mojie-qibing.json](./268440-mojie-qibing.json) |
 | Mojito the Cat: Animals Skins | 298336 | [298336-mojito-the-cat-animals-skins.json](./298336-mojito-the-cat-animals-skins.json) |
