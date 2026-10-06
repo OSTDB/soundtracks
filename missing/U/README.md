@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umokay 64DS 9: The Purple Comet | 270375 | [270375-umokay-64ds-9-the-purple-comet.json](./270375-umokay-64ds-9-the-purple-comet.json) |
 | Umokay 64DS X: To Infinity And Beyond! | 270376 | [270376-umokay-64ds-x-to-infinity-and-beyond.json](./270376-umokay-64ds-x-to-infinity-and-beyond.json) |
 | Umpteenth Photo | 386887 | [386887-umpteenth-photo.json](./386887-umpteenth-photo.json) |
+| UMS II: Nations at War | 74007 | [74007-ums-ii-nations-at-war.json](./74007-ums-ii-nations-at-war.json) |
 | UMS: The Universal Military Simulator | 37154 | [37154-ums-the-universal-military-simulator.json](./37154-ums-the-universal-military-simulator.json) |
 | Umurangi Generation | 131631 | [131631-umurangi-generation.json](./131631-umurangi-generation.json) |
 | Un juego de huevos | 81390 | [81390-un-juego-de-huevos.json](./81390-un-juego-de-huevos.json) |
