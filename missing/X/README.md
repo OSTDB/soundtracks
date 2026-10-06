@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X Rock | 95380 | [95380-x-rock.json](./95380-x-rock.json) |
 | X S.E.E.D. | 62716 | [62716-x-s-e-e-d.json](./62716-x-s-e-e-d.json) |
 | X Simulator Drone | 312171 | [312171-x-simulator-drone.json](./312171-x-simulator-drone.json) |
+| X Stacking | 89545 | [89545-x-stacking.json](./89545-x-stacking.json) |
 | X Virus | 190742 | [190742-x-virus.json](./190742-x-virus.json) |
 | X Wars Deluxe | 121554 | [121554-x-wars-deluxe.json](./121554-x-wars-deluxe.json) |
 | X-1 | 375353 | [375353-x-1.json](./375353-x-1.json) |
