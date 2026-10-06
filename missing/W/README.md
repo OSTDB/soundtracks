@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Stained | 152470 | [152470-war-stained.json](./152470-war-stained.json) |
 | War Survival | 371250 | [371250-war-survival.json](./371250-war-survival.json) |
 | War Tanks | 203923 | [203923-war-tanks.json](./203923-war-tanks.json) |
+| War Theatre | 76870 | [76870-war-theatre.json](./76870-war-theatre.json) |
 | War Theatre: Blood of Winter - Beak and Talon | 172187 | [172187-war-theatre-blood-of-winter-beak-and-talon.json](./172187-war-theatre-blood-of-winter-beak-and-talon.json) |
 | War Thunder - T-55AM-1 Pack | 293764 | [293764-war-thunder-t-55am-1-pack.json](./293764-war-thunder-t-55am-1-pack.json) |
 | War Thunder: "Black Friday" Bundle | 331500 | [331500-war-thunder-black-friday-bundle.json](./331500-war-thunder-black-friday-bundle.json) |
@@ -1543,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayward Shadows | 213416 | [213416-wayward-shadows.json](./213416-wayward-shadows.json) |
 | Wayward Souls: Curse of Shadow | 19270 | [19270-wayward-souls-curse-of-shadow.json](./19270-wayward-souls-curse-of-shadow.json) |
 | Wayward Terran Frontier: Zero Falls | 34680 | [34680-wayward-terran-frontier-zero-falls.json](./34680-wayward-terran-frontier-zero-falls.json) |
+| WaywaY | 76925 | [76925-wayway.json](./76925-wayway.json) |
 | Waznk Zahb | 320275 | [320275-waznk-zahb.json](./320275-waznk-zahb.json) |
 | WBTR: Welcome Back to Reality | 130376 | [130376-wbtr-welcome-back-to-reality.json](./130376-wbtr-welcome-back-to-reality.json) |
 | WC Dream | 296385 | [296385-wc-dream.json](./296385-wc-dream.json) |
@@ -3596,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Stories | 329681 | [329681-witch-stories.json](./329681-witch-stories.json) |
 | Witch Story | 215653 | [215653-witch-story.json](./215653-witch-story.json) |
 | Witch Thief | 55464 | [55464-witch-thief.json](./55464-witch-thief.json) |
+| Witch Trials | 76874 | [76874-witch-trials.json](./76874-witch-trials.json) |
 | Witch War 1 | 352384 | [352384-witch-war-1.json](./352384-witch-war-1.json) |
 | Witch Weapon | 113628 | [113628-witch-weapon.json](./113628-witch-weapon.json) |
 | Witch World | 244226 | [244226-witch-world.json](./244226-witch-world.json) |
@@ -5023,6 +5026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wounded: The Beginning | 114560 | [114560-wounded-the-beginning.json](./114560-wounded-the-beginning.json) |
 | Wounds 4 Hard Medication | 181291 | [181291-wounds-4-hard-medication.json](./181291-wounds-4-hard-medication.json) |
 | Wove | 369024 | [369024-wove.json](./369024-wove.json) |
+| Wow! Wow! Wubbzy | 76890 | [76890-wow-wow-wubbzy.json](./76890-wow-wow-wubbzy.json) |
 | Wowowow Korone Box | 165402 | [165402-wowowow-korone-box.json](./165402-wowowow-korone-box.json) |
 | Woyo!! | 301958 | [301958-woyo.json](./301958-woyo.json) |
 | WPCA: World Phasebound Control Authority | 394524 | [394524-wpca-world-phasebound-control-authority.json](./394524-wpca-world-phasebound-control-authority.json) |
