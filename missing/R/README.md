@@ -1958,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recall | 309570 | [309570-recall.json](./309570-recall.json) |
 | Recapture the Castle | 173062 | [173062-recapture-the-castle.json](./173062-recapture-the-castle.json) |
 | ReCast FF3: War of the Magitek | 339255 | [339255-recast-ff3-war-of-the-magitek.json](./339255-recast-ff3-war-of-the-magitek.json) |
+| Recca no Honoo: Flame of Recca - Final Burning | 61445 | [61445-recca-no-honoo-flame-of-recca-final-burning.json](./61445-recca-no-honoo-flame-of-recca-final-burning.json) |
 | Receiver 2 & Receiver | 394471 | [394471-receiver-2-and-receiver.json](./394471-receiver-2-and-receiver.json) |
 | Recess | 406223 | [406223-recess.json](./406223-recess.json) |
 | Recesses | 317409 | [317409-recesses.json](./317409-recesses.json) |
