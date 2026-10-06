@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy II | 305456 | [305456-galaxy-ii.json](./305456-galaxy-ii.json) |
 | Galaxy in Peril: Time Trouble | 157063 | [157063-galaxy-in-peril-time-trouble.json](./157063-galaxy-in-peril-time-trouble.json) |
 | Galaxy in Turmoil | 19436 | [19436-galaxy-in-turmoil.json](./19436-galaxy-in-turmoil.json) |
+| Galaxy Invader | 96937 | [96937-galaxy-invader.json](./96937-galaxy-invader.json) |
 | Galaxy Invader 1000 | 47282 | [47282-galaxy-invader-1000.json](./47282-galaxy-invader-1000.json) |
 | Galaxy Kingdoms | 236214 | [236214-galaxy-kingdoms.json](./236214-galaxy-kingdoms.json) |
 | Galaxy Life | 201559 | [201559-galaxy-life.json](./201559-galaxy-life.json) |
@@ -2589,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glenwich Idle MMO | 397790 | [397790-glenwich-idle-mmo.json](./397790-glenwich-idle-mmo.json) |
 | Gleylancer & Gynoug Combo Pack | 286566 | [286566-gleylancer-and-gynoug-combo-pack.json](./286566-gleylancer-and-gynoug-combo-pack.json) |
 | Gli Animotosi e la Macchina Motante | 213625 | [213625-gli-animotosi-e-la-macchina-motante.json](./213625-gli-animotosi-e-la-macchina-motante.json) |
+| Glide Collide | 96927 | [96927-glide-collide.json](./96927-glide-collide.json) |
 | Glide Scramble Mechanic Star Shooting | 98045 | [98045-glide-scramble-mechanic-star-shooting.json](./98045-glide-scramble-mechanic-star-shooting.json) |
 | Glider Island | 32109 | [32109-glider-island.json](./32109-glider-island.json) |
 | Glider Rider | 13002 | [13002-glider-rider.json](./13002-glider-rider.json) |
@@ -4680,6 +4682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Wall Street Fortune Hunt | 41545 | [41545-great-wall-street-fortune-hunt.json](./41545-great-wall-street-fortune-hunt.json) |
 | Great White Shark Attack Sim | 106127 | [106127-great-white-shark-attack-sim.json](./106127-great-white-shark-attack-sim.json) |
 | Greatest Angels | 365856 | [365856-greatest-angels.json](./365856-greatest-angels.json) |
+| Greatest Artists Jigsaw Puzzle | 96828 | [96828-greatest-artists-jigsaw-puzzle.json](./96828-greatest-artists-jigsaw-puzzle.json) |
 | Greatest Dungeon | 295546 | [295546-greatest-dungeon.json](./295546-greatest-dungeon.json) |
 | Greatlandia Election Simulator | 413195 | [413195-greatlandia-election-simulator.json](./413195-greatlandia-election-simulator.json) |
 | Greats of the Gridiron | 153514 | [153514-greats-of-the-gridiron.json](./153514-greats-of-the-gridiron.json) |
@@ -4994,6 +4997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: The Legacy | 80522 | [80522-grim-tales-the-legacy.json](./80522-grim-tales-the-legacy.json) |
 | Grim Tales: The Nomad | 191650 | [191650-grim-tales-the-nomad.json](./191650-grim-tales-the-nomad.json) |
 | Grim Tales: The Stone Queen | 76516 | [76516-grim-tales-the-stone-queen.json](./76516-grim-tales-the-stone-queen.json) |
+| Grim Tales: The Stone Queen - Collector's Edition | 96943 | [96943-grim-tales-the-stone-queen-collectors-edition.json](./96943-grim-tales-the-stone-queen-collectors-edition.json) |
 | Grim Tales: The Time Traveler | 258697 | [258697-grim-tales-the-time-traveler.json](./258697-grim-tales-the-time-traveler.json) |
 | Grim Tales: The Time Traveler - Collector's Edition | 231357 | [231357-grim-tales-the-time-traveler-collectors-edition.json](./231357-grim-tales-the-time-traveler-collectors-edition.json) |
 | Grim Tales: The Vengeance - Collector's Edition | 118337 | [118337-grim-tales-the-vengeance-collectors-edition.json](./118337-grim-tales-the-vengeance-collectors-edition.json) |
