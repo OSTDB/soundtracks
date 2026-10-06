@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saga | 21484 | [21484-saga.json](./21484-saga.json) |
 | Saga | 266812 | [266812-saga.json](./266812-saga.json) |
 | SaGa 2: A Haniwa's Contingency | 360104 | [360104-saga-2-a-haniwas-contingency.json](./360104-saga-2-a-haniwas-contingency.json) |
+| SaGa 3: Jikuu no Hasha - Shadow or Light | 66404 | [66404-saga-3-jikuu-no-hasha-shadow-or-light.json](./66404-saga-3-jikuu-no-hasha-shadow-or-light.json) |
 | SaGa Frontier 2 Remastered | 294870 | [294870-saga-frontier-2-remastered.json](./294870-saga-frontier-2-remastered.json) |
 | Saga of Guardians | 322764 | [322764-saga-of-guardians.json](./322764-saga-of-guardians.json) |
 | Saga of Lucimia | 71020 | [71020-saga-of-lucimia.json](./71020-saga-of-lucimia.json) |
@@ -4528,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiba Wars | 397913 | [397913-shiba-wars.json](./397913-shiba-wars.json) |
 | Shibainu: VR Katana Simulator | 197408 | [197408-shibainu-vr-katana-simulator.json](./197408-shibainu-vr-katana-simulator.json) |
 | Shibui Coliseum | 120985 | [120985-shibui-coliseum.json](./120985-shibui-coliseum.json) |
+| Shibuya | 66414 | [66414-shibuya.json](./66414-shibuya.json) |
 | Shibuya Grandmaster | 133825 | [133825-shibuya-grandmaster.json](./133825-shibuya-grandmaster.json) |
 | Shibuya Scramble Stories | 351642 | [351642-shibuya-scramble-stories.json](./351642-shibuya-scramble-stories.json) |
 | Shibuya Sukeban | 248799 | [248799-shibuya-sukeban.json](./248799-shibuya-sukeban.json) |
@@ -5201,6 +5203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoppy Mart | 60067 | [60067-shoppy-mart.json](./60067-shoppy-mart.json) |
 | Shoppy Mart: Steam Edition | 90633 | [90633-shoppy-mart-steam-edition.json](./90633-shoppy-mart-steam-edition.json) |
 | Shore Doodle | 340373 | [340373-shore-doodle.json](./340373-shore-doodle.json) |
+| Shores of Hazeron | 66413 | [66413-shores-of-hazeron.json](./66413-shores-of-hazeron.json) |
 | Short 'n Quick | 274203 | [274203-short-n-quick.json](./274203-short-n-quick.json) |
 | Short 'n Quick 2 | 274204 | [274204-short-n-quick-2.json](./274204-short-n-quick-2.json) |
 | Short Circuit | 193440 | [193440-short-circuit.json](./193440-short-circuit.json) |
@@ -8480,6 +8483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoopy Pop | 87016 | [87016-snoopy-pop.json](./87016-snoopy-pop.json) |
 | Snoopy Tennis | 49878 | [49878-snoopy-tennis.json](./49878-snoopy-tennis.json) |
 | Snoopy vs. The Red Baron | 2756 | [2756-snoopy-vs-the-red-baron.json](./2756-snoopy-vs-the-red-baron.json) |
+| Snoopy: The Cool Computer Game | 66345 | [66345-snoopy-the-cool-computer-game.json](./66345-snoopy-the-cool-computer-game.json) |
 | Snoopy's Magic Show DX | 279583 | [279583-snoopys-magic-show-dx.json](./279583-snoopys-magic-show-dx.json) |
 | Snoopy's Silly Sports Spectacular! | 48077 | [48077-snoopys-silly-sports-spectacular.json](./48077-snoopys-silly-sports-spectacular.json) |
 | Snoot Booper | 392282 | [392282-snoot-booper.json](./392282-snoot-booper.json) |
@@ -13724,6 +13728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Starfighter - Special Edition | 242773 | [242773-star-wars-starfighter-special-edition.json](./242773-star-wars-starfighter-special-edition.json) |
 | Star Wars: Tales from the Galaxy's Edge | 134957 | [134957-star-wars-tales-from-the-galaxys-edge.json](./134957-star-wars-tales-from-the-galaxys-edge.json) |
 | Star Wars: Tales from the Galaxy's Edge - Last Call | 166008 | [166008-star-wars-tales-from-the-galaxys-edge-last-call.json](./166008-star-wars-tales-from-the-galaxys-edge-last-call.json) |
+| Star Wars: The Battle for Hoth | 66424 | [66424-star-wars-the-battle-for-hoth.json](./66424-star-wars-the-battle-for-hoth.json) |
 | Star Wars: The Best of PC | 75085 | [75085-star-wars-the-best-of-pc.json](./75085-star-wars-the-best-of-pc.json) |
 | Star Wars: The Clone Wars | 230403 | [230403-star-wars-the-clone-wars.json](./230403-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars | 320344 | [320344-star-wars-the-clone-wars.json](./320344-star-wars-the-clone-wars.json) |
