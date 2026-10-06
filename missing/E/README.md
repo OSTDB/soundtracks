@@ -1448,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elta 7 | 192684 | [192684-elta-7.json](./192684-elta-7.json) |
 | Elthlead Senshi | 92072 | [92072-elthlead-senshi.json](./92072-elthlead-senshi.json) |
 | Elude | 152474 | [152474-elude.json](./152474-elude.json) |
+| Elude | 93802 | [93802-elude.json](./93802-elude.json) |
 | Elumin | 295811 | [295811-elumin.json](./295811-elumin.json) |
 | Elune | 125832 | [125832-elune.json](./125832-elune.json) |
 | Elusive | 336540 | [336540-elusive.json](./336540-elusive.json) |
@@ -3446,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Football Champ | 42573 | [42573-european-football-champ.json](./42573-european-football-champ.json) |
 | European Games | 100112 | [100112-european-games.json](./100112-european-games.json) |
 | European Mystery: Flowers of Death - Collector's Edition | 89408 | [89408-european-mystery-flowers-of-death-collectors-edition.json](./89408-european-mystery-flowers-of-death-collectors-edition.json) |
+| European Mystery: Flowers of Death HD | 93827 | [93827-european-mystery-flowers-of-death-hd.json](./93827-european-mystery-flowers-of-death-hd.json) |
 | European Mystery: Scent of Desire - Collector's Edition | 29749 | [29749-european-mystery-scent-of-desire-collectors-edition.json](./29749-european-mystery-scent-of-desire-collectors-edition.json) |
 | European Mystery: The Face of Envy | 68947 | [68947-european-mystery-the-face-of-envy.json](./68947-european-mystery-the-face-of-envy.json) |
 | European Quest | 294216 | [294216-european-quest.json](./294216-european-quest.json) |
