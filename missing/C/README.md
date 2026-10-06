@@ -8462,6 +8462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid-19: Corona Clicker | 165003 | [165003-covid-19-corona-clicker.json](./165003-covid-19-corona-clicker.json) |
 | Covid19: Toilet Paper Run | 285531 | [285531-covid19-toilet-paper-run.json](./285531-covid19-toilet-paper-run.json) |
 | Cow Catcher | 124594 | [124594-cow-catcher.json](./124594-cow-catcher.json) |
+| Cow Catcher Simulator | 82323 | [82323-cow-catcher-simulator.json](./82323-cow-catcher-simulator.json) |
 | Cow Defender | 97441 | [97441-cow-defender.json](./97441-cow-defender.json) |
 | Cow Evolution | 203205 | [203205-cow-evolution.json](./203205-cow-evolution.json) |
 | Cow Project 1986 | 401643 | [401643-cow-project-1986.json](./401643-cow-project-1986.json) |
