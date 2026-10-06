@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La-Mulana & La-Mulana 2 | 130905 | [130905-la-mulana-and-la-mulana-2.json](./130905-la-mulana-and-la-mulana-2.json) |
 | La-Mulana 2: The Tower of Oannes | 188630 | [188630-la-mulana-2-the-tower-of-oannes.json](./188630-la-mulana-2-the-tower-of-oannes.json) |
 | Lab | 199511 | [199511-lab.json](./199511-lab.json) |
+| Lab 03 Yrinth | 75433 | [75433-lab-03-yrinth.json](./75433-lab-03-yrinth.json) |
 | Lab 77 | 319988 | [319988-lab-77.json](./319988-lab-77.json) |
 | Lab Boom | 290087 | [290087-lab-boom.json](./290087-lab-boom.json) |
 | Lab BreakOut | 158533 | [158533-lab-breakout.json](./158533-lab-breakout.json) |
@@ -4404,6 +4405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost & Round | 153364 | [153364-lost-and-round.json](./153364-lost-and-round.json) |
 | Lost Abroad Café | 235450 | [235450-lost-abroad-cafe.json](./235450-lost-abroad-cafe.json) |
 | Lost Adventures of Kroz | 69575 | [69575-lost-adventures-of-kroz.json](./69575-lost-adventures-of-kroz.json) |
+| Lost Alice: Destined Lovers in Wonderland | 75422 | [75422-lost-alice-destined-lovers-in-wonderland.json](./75422-lost-alice-destined-lovers-in-wonderland.json) |
 | Lost Alone | 167223 | [167223-lost-alone.json](./167223-lost-alone.json) |
 | Lost Alone EP.1: Little Sister | 185649 | [185649-lost-alone-ep-1-little-sister.json](./185649-lost-alone-ep-1-little-sister.json) |
 | Lost Alone Ultimate | 245026 | [245026-lost-alone-ultimate.json](./245026-lost-alone-ultimate.json) |
