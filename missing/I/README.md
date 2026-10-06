@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Climber | 246340 | [246340-ice-climber.json](./246340-ice-climber.json) |
 | Ice Climber-e | 170012 | [170012-ice-climber-e.json](./170012-ice-climber-e.json) |
 | Ice Cold Beer | 406941 | [406941-ice-cold-beer.json](./406941-ice-cold-beer.json) |
+| Ice Cold Beer | 77592 | [77592-ice-cold-beer.json](./77592-ice-cold-beer.json) |
 | Ice Cream | 344005 | [344005-ice-cream.json](./344005-ice-cream.json) |
 | Ice Cream Break: Head to Head | 194397 | [194397-ice-cream-break-head-to-head.json](./194397-ice-cream-break-head-to-head.json) |
 | Ice Cream Man | 409013 | [409013-ice-cream-man.json](./409013-ice-cream-man.json) |
@@ -3652,6 +3653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It’s A Game Changer | 336637 | [336637-it-s-a-game-changer.json](./336637-it-s-a-game-changer.json) |
 | It's a Gas! | 325080 | [325080-its-a-gas.json](./325080-its-a-gas.json) |
 | It's a Giant! | 185102 | [185102-its-a-giant.json](./185102-its-a-giant.json) |
+| It's a Knockout | 77615 | [77615-its-a-knockout.json](./77615-its-a-knockout.json) |
 | It's a Match!! | 268987 | [268987-its-a-match.json](./268987-its-a-match.json) |
 | It's A Me | 202391 | [202391-its-a-me.json](./202391-its-a-me.json) |
 | It's A Wipe! | 17982 | [17982-its-a-wipe.json](./17982-its-a-wipe.json) |
