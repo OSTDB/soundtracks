@@ -5236,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plati Nalog: Favorite Russian Game | 88083 | [88083-plati-nalog-favorite-russian-game.json](./88083-plati-nalog-favorite-russian-game.json) |
 | Platina: Lab | 339987 | [339987-platina-lab.json](./339987-platina-lab.json) |
 | Platinum | 313829 | [313829-platinum.json](./313829-platinum.json) |
+| Platinum | 94937 | [94937-platinum.json](./94937-platinum.json) |
 | Platinum Demo: Final Fantasy XV | 299106 | [299106-platinum-demo-final-fantasy-xv.json](./299106-platinum-demo-final-fantasy-xv.json) |
 | Platinum Kill | 112272 | [112272-platinum-kill.json](./112272-platinum-kill.json) |
 | Platinum White | 307137 | [307137-platinum-white.json](./307137-platinum-white.json) |
