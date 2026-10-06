@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Zombies: Battle Royale | 259173 | [259173-z-zombies-battle-royale.json](./259173-z-zombies-battle-royale.json) |
 | Z-89 | 93371 | [93371-z-89.json](./93371-z-89.json) |
 | Z-Aftershock | 89478 | [89478-z-aftershock.json](./89478-z-aftershock.json) |
+| Z-Alert | 83861 | [83861-z-alert.json](./83861-z-alert.json) |
 | Z-Ape: Tower Defense | 304009 | [304009-z-ape-tower-defense.json](./304009-z-ape-tower-defense.json) |
 | Z-Arena | 28153 | [28153-z-arena.json](./28153-z-arena.json) |
 | Z-axys | 102210 | [102210-z-axys.json](./102210-z-axys.json) |
