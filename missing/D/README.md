@@ -1921,6 +1921,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Island: Riptide | 1833 | [1833-dead-island-riptide.json](./1833-dead-island-riptide.json) |
 | Dead Island: Riptide - Complete Edition | 99809 | [99809-dead-island-riptide-complete-edition.json](./99809-dead-island-riptide-complete-edition.json) |
 | Dead Island: Riptide - Definitive Edition | 24311 | [24311-dead-island-riptide-definitive-edition.json](./24311-dead-island-riptide-definitive-edition.json) |
+| Dead Knight | 87859 | [87859-dead-knight.json](./87859-dead-knight.json) |
+| Dead Knight: Pocket Edition | 87858 | [87858-dead-knight-pocket-edition.json](./87858-dead-knight-pocket-edition.json) |
 | Dead Lab | 223661 | [223661-dead-lab.json](./223661-dead-lab.json) |
 | Dead Land 2 VR | 336368 | [336368-dead-land-2-vr.json](./336368-dead-land-2-vr.json) |
 | Dead Land VR | 118911 | [118911-dead-land-vr.json](./118911-dead-land-vr.json) |
@@ -2001,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Reckoning | 71536 | [71536-dead-reckoning.json](./71536-dead-reckoning.json) |
 | Dead Reckoning: Knowledge | 101957 | [101957-dead-reckoning-knowledge.json](./101957-dead-reckoning-knowledge.json) |
 | Dead Reckoning: Lethal Knowledge | 145298 | [145298-dead-reckoning-lethal-knowledge.json](./145298-dead-reckoning-lethal-knowledge.json) |
+| Dead Reckoning: Sleight | 87872 | [87872-dead-reckoning-sleight.json](./87872-dead-reckoning-sleight.json) |
 | Dead Reckoning: The Crescent Case - Collector's Edition | 89944 | [89944-dead-reckoning-the-crescent-case-collectors-edition.json](./89944-dead-reckoning-the-crescent-case-collectors-edition.json) |
 | Dead Reset | 346233 | [346233-dead-reset.json](./346233-dead-reset.json) |
 | Dead Rising | 4797 | [4797-dead-rising.json](./4797-dead-rising.json) |
@@ -4558,6 +4561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Legacy: Corrupted Fates | 196296 | [196296-dice-legacy-corrupted-fates.json](./196296-dice-legacy-corrupted-fates.json) |
 | Dice Legacy: Deluxe Edition | 173102 | [173102-dice-legacy-deluxe-edition.json](./173102-dice-legacy-deluxe-edition.json) |
 | Dice Life: Dice Game | 291618 | [291618-dice-life-dice-game.json](./291618-dice-life-dice-game.json) |
+| Dice Mage 2 | 87866 | [87866-dice-mage-2.json](./87866-dice-mage-2.json) |
 | Dice Make 10! | 314860 | [314860-dice-make-10.json](./314860-dice-make-10.json) |
 | Dice Mayor | 253470 | [253470-dice-mayor.json](./253470-dice-mayor.json) |
 | Dice Mice | 184615 | [184615-dice-mice.json](./184615-dice-mice.json) |
@@ -5110,6 +5114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Robot Infinity | 193842 | [193842-dino-robot-infinity.json](./193842-dino-robot-infinity.json) |
 | Dino Robot: Megalodon | 193796 | [193796-dino-robot-megalodon.json](./193796-dino-robot-megalodon.json) |
 | Dino Run | 260083 | [260083-dino-run.json](./260083-dino-run.json) |
+| Dino Run 2 | 87853 | [87853-dino-run-2.json](./87853-dino-run-2.json) |
 | Dino Run DX | 16636 | [16636-dino-run-dx.json](./16636-dino-run-dx.json) |
 | Dino Run SE | 64965 | [64965-dino-run-se.json](./64965-dino-run-se.json) |
 | Dino Rush | 343481 | [343481-dino-rush.json](./343481-dino-rush.json) |
