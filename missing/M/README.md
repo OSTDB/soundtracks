@@ -4632,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megatouch Mobile Arcade | 286675 | [286675-megatouch-mobile-arcade.json](./286675-megatouch-mobile-arcade.json) |
 | Megatramp: A Success Story | 312613 | [312613-megatramp-a-success-story.json](./312613-megatramp-a-success-story.json) |
 | Megatron VGA | 46648 | [46648-megatron-vga.json](./46648-megatron-vga.json) |
+| Megatronic Void | 59226 | [59226-megatronic-void.json](./59226-megatronic-void.json) |
 | MegaWorld | 286568 | [286568-megaworld.json](./286568-megaworld.json) |
 | Megazone 23: Aoi Garland | 7366 | [7366-megazone-23-aoi-garland.json](./7366-megazone-23-aoi-garland.json) |
 | Megdan | 298549 | [298549-megdan.json](./298549-megdan.json) |
@@ -6742,6 +6743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Trap Reborn | 140509 | [140509-mine-trap-reborn.json](./140509-mine-trap-reborn.json) |
 | Mine Upgrade | 369585 | [369585-mine-upgrade.json](./369585-mine-upgrade.json) |
 | Mine Your Way Out 2 | 345623 | [345623-mine-your-way-out-2.json](./345623-mine-your-way-out-2.json) |
+| Mine! | 59257 | [59257-mine.json](./59257-mine.json) |
 | Minebot Arena | 74050 | [74050-minebot-arena.json](./74050-minebot-arena.json) |
 | Minebuilder | 86893 | [86893-minebuilder.json](./86893-minebuilder.json) |
 | MineCart - 3D Mine Cart Game for MineCraft | 86692 | [86692-minecart-3d-mine-cart-game-for-minecraft.json](./86692-minecart-3d-mine-cart-game-for-minecraft.json) |
