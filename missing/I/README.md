@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I See You | 259630 | [259630-i-see-you.json](./259630-i-see-you.json) |
 | I Shall Remain | 17234 | [17234-i-shall-remain.json](./17234-i-shall-remain.json) |
 | I Slay Zombies: VR Shooter | 174343 | [174343-i-slay-zombies-vr-shooter.json](./174343-i-slay-zombies-vr-shooter.json) |
+| I Spy | 58627 | [58627-i-spy.json](./58627-i-spy.json) |
 | I Spy | 80520 | [80520-i-spy.json](./80520-i-spy.json) |
 | I Spy Fantasy | 73162 | [73162-i-spy-fantasy.json](./73162-i-spy-fantasy.json) |
 | I Spy Fun House | 252149 | [252149-i-spy-fun-house.json](./252149-i-spy-fun-house.json) |
@@ -2064,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infestation | 9486 | [9486-infestation.json](./9486-infestation.json) |
 | Infestation on Epsilon 13 | 365826 | [365826-infestation-on-epsilon-13.json](./365826-infestation-on-epsilon-13.json) |
 | Infestation Sea | 273420 | [273420-infestation-sea.json](./273420-infestation-sea.json) |
+| Infestation World | 58628 | [58628-infestation-world.json](./58628-infestation-world.json) |
 | Infestation: Battle Royale | 130205 | [130205-infestation-battle-royale.json](./130205-infestation-battle-royale.json) |
 | Infestation: Origins | 281398 | [281398-infestation-origins.json](./281398-infestation-origins.json) |
 | Infestation: Revival | 122933 | [122933-infestation-revival.json](./122933-infestation-revival.json) |
@@ -3055,6 +3057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion of the Zombie Monsters | 197857 | [197857-invasion-of-the-zombie-monsters.json](./197857-invasion-of-the-zombie-monsters.json) |
 | Invasion Omega | 339899 | [339899-invasion-omega.json](./339899-invasion-omega.json) |
 | Invasion UAC | 257528 | [257528-invasion-uac.json](./257528-invasion-uac.json) |
+| Invasion VS | 58640 | [58640-invasion-vs.json](./58640-invasion-vs.json) |
 | Invasion Waves | 200578 | [200578-invasion-waves.json](./200578-invasion-waves.json) |
 | Invasion: Brain Craving | 33942 | [33942-invasion-brain-craving.json](./33942-invasion-brain-craving.json) |
 | Invasion. Lost in Time | 89684 | [89684-invasion-lost-in-time.json](./89684-invasion-lost-in-time.json) |
