@@ -2445,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Taxi | 341707 | [341707-mars-taxi.json](./341707-mars-taxi.json) |
 | Mars Taxi | 70356 | [70356-mars-taxi.json](./70356-mars-taxi.json) |
 | Mars Training Camp VR | 264115 | [264115-mars-training-camp-vr.json](./264115-mars-training-camp-vr.json) |
+| Mars Troopers | 105229 | [105229-mars-troopers.json](./105229-mars-troopers.json) |
 | Mars Type I | 181855 | [181855-mars-type-i.json](./181855-mars-type-i.json) |
 | Mars Underground | 110490 | [110490-mars-underground.json](./110490-mars-underground.json) |
 | Mars vs. Robots | 319693 | [319693-mars-vs-robots.json](./319693-mars-vs-robots.json) |
@@ -4848,6 +4849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Stamps | 174223 | [174223-memory-stamps.json](./174223-memory-stamps.json) |
 | Memory Traces: Egypt | 221106 | [221106-memory-traces-egypt.json](./221106-memory-traces-egypt.json) |
 | Memory Train | 412986 | [412986-memory-train.json](./412986-memory-train.json) |
+| Memory Trainer | 105238 | [105238-memory-trainer.json](./105238-memory-trainer.json) |
 | Memory Wonderland: Bond | 259083 | [259083-memory-wonderland-bond.json](./259083-memory-wonderland-bond.json) |
 | Memory: Match & Catch! | 58485 | [58485-memory-match-and-catch.json](./58485-memory-match-and-catch.json) |
 | Memory: Unlocked | 264124 | [264124-memory-unlocked.json](./264124-memory-unlocked.json) |
@@ -7300,6 +7302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Satsuki Edition | 225039 | [225039-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-satsuki-edition.json](./225039-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-satsuki-edition.json) |
 | Mischief House | 408864 | [408864-mischief-house.json](./408864-mischief-house.json) |
 | Mischief Motors | 294130 | [294130-mischief-motors.json](./294130-mischief-motors.json) |
+| Mischief on Main Street | 105232 | [105232-mischief-on-main-street.json](./105232-mischief-on-main-street.json) |
 | Miscreated | 17379 | [17379-miscreated.json](./17379-miscreated.json) |
 | Miscreated: Canyonlands | 171581 | [171581-miscreated-canyonlands.json](./171581-miscreated-canyonlands.json) |
 | Miscrits: Volcano Island | 98465 | [98465-miscrits-volcano-island.json](./98465-miscrits-volcano-island.json) |
