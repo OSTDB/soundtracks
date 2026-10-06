@@ -1669,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Grace of Our Malice | 292063 | [292063-in-the-grace-of-our-malice.json](./292063-in-the-grace-of-our-malice.json) |
 | In the Grass | 212289 | [212289-in-the-grass.json](./212289-in-the-grass.json) |
 | In the Grave Wood | 183599 | [183599-in-the-grave-wood.json](./183599-in-the-grave-wood.json) |
+| In the Groove 2 | 70591 | [70591-in-the-groove-2.json](./70591-in-the-groove-2.json) |
 | In the Hole | 195023 | [195023-in-the-hole.json](./195023-in-the-hole.json) |
 | In the Intrigue of the Ratings | 145694 | [145694-in-the-intrigue-of-the-ratings.json](./145694-in-the-intrigue-of-the-ratings.json) |
 | In the Keeper's Shadow | 120884 | [120884-in-the-keepers-shadow.json](./120884-in-the-keepers-shadow.json) |
@@ -2851,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Dragon: Into the depths... of space! | 374670 | [374670-interstellar-dragon-into-the-depths-of-space.json](./374670-interstellar-dragon-into-the-depths-of-space.json) |
 | Interstellar Escape | 333795 | [333795-interstellar-escape.json](./333795-interstellar-escape.json) |
 | Interstellar Espionage Inc. | 372453 | [372453-interstellar-espionage-inc.json](./372453-interstellar-espionage-inc.json) |
+| Interstellar Flames 2 | 70574 | [70574-interstellar-flames-2.json](./70574-interstellar-flames-2.json) |
 | Interstellar Highway Robbery | 180793 | [180793-interstellar-highway-robbery.json](./180793-interstellar-highway-robbery.json) |
 | Interstellar Holy Spirit | 372128 | [372128-interstellar-holy-spirit.json](./372128-interstellar-holy-spirit.json) |
 | Interstellar Impact | 270090 | [270090-interstellar-impact.json](./270090-interstellar-impact.json) |
