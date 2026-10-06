@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie Epic Road Trip | 228355 | [228355-barbie-epic-road-trip.json](./228355-barbie-epic-road-trip.json) |
 | Barbie Fashion Closet | 103905 | [103905-barbie-fashion-closet.json](./103905-barbie-fashion-closet.json) |
 | Barbie Fashion Show | 200592 | [200592-barbie-fashion-show.json](./200592-barbie-fashion-show.json) |
+| Barbie Fashion Show: Eye for Style | 78256 | [78256-barbie-fashion-show-eye-for-style.json](./78256-barbie-fashion-show-eye-for-style.json) |
 | Barbie for Girls Beach Adventure | 245569 | [245569-barbie-for-girls-beach-adventure.json](./245569-barbie-for-girls-beach-adventure.json) |
 | Barbie for Girls Hearts & Stars | 245568 | [245568-barbie-for-girls-hearts-and-stars.json](./245568-barbie-for-girls-hearts-and-stars.json) |
 | Barbie for Girls Horseback Riding | 245567 | [245567-barbie-for-girls-horseback-riding.json](./245567-barbie-for-girls-horseback-riding.json) |
@@ -6815,6 +6816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Jack Twin | 39652 | [39652-bomb-jack-twin.json](./39652-bomb-jack-twin.json) |
 | Bomb Kitten | 370788 | [370788-bomb-kitten.json](./370788-bomb-kitten.json) |
 | Bomb Labyrinth | 99623 | [99623-bomb-labyrinth.json](./99623-bomb-labyrinth.json) |
+| Bomb Man | 78266 | [78266-bomb-man.json](./78266-bomb-man.json) |
 | Bomb Meirin | 204406 | [204406-bomb-meirin.json](./204406-bomb-meirin.json) |
 | Bomb Riders | 108407 | [108407-bomb-riders.json](./108407-bomb-riders.json) |
 | Bomb Rush Cyberfunk: Exclusive Edition | 379972 | [379972-bomb-rush-cyberfunk-exclusive-edition.json](./379972-bomb-rush-cyberfunk-exclusive-edition.json) |
@@ -7533,6 +7535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncers | 131481 | [131481-bouncers.json](./131481-bouncers.json) |
 | Bouncers | 259755 | [259755-bouncers.json](./259755-bouncers.json) |
 | BounceShot | 182484 | [182484-bounceshot.json](./182484-bounceshot.json) |
+| BounciBall | 78293 | [78293-bounciball.json](./78293-bounciball.json) |
 | Bouncin' Baby Bunnies | 282632 | [282632-bouncin-baby-bunnies.json](./282632-bouncin-baby-bunnies.json) |
 | Bouncing Babies | 377828 | [377828-bouncing-babies.json](./377828-bouncing-babies.json) |
 | Bouncing Babies | 46652 | [46652-bouncing-babies.json](./46652-bouncing-babies.json) |
