@@ -5387,6 +5387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shugo Chara! Spirit! Chara Formation-Rhythm | 124276 | [124276-shugo-chara-spirit-chara-formation-rhythm.json](./124276-shugo-chara-spirit-chara-formation-rhythm.json) |
 | Shǔguāng zhī Shī | 157116 | [157116-shuguang-zhi-shi.json](./157116-shuguang-zhi-shi.json) |
 | Shuǐhǔ Zhuàn | 138098 | [138098-shuihu-zhuan.json](./138098-shuihu-zhuan.json) |
+| Shuǐhǔ Zhuàn | 78259 | [78259-shuihu-zhuan.json](./78259-shuihu-zhuan.json) |
 | Shukkou!! Container-maru | 107070 | [107070-shukkou-container-maru.json](./107070-shukkou-container-maru.json) |
 | Shukuchi Ninja | 213457 | [213457-shukuchi-ninja.json](./213457-shukuchi-ninja.json) |
 | Shukusai no Utahime: Kimi to Tsumugu Asu he no Uta | 194605 | [194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json](./194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json) |
@@ -7118,6 +7119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Dunk 2: Zenkoku he no Tip Off | 228502 | [228502-slam-dunk-2-zenkoku-he-no-tip-off.json](./228502-slam-dunk-2-zenkoku-he-no-tip-off.json) |
 | Slam Dunk Basketball | 245410 | [245410-slam-dunk-basketball.json](./245410-slam-dunk-basketball.json) |
 | Slam Dunk Basketball 2 | 259142 | [259142-slam-dunk-basketball-2.json](./259142-slam-dunk-basketball-2.json) |
+| Slam Dunk: Kyougou Makkou Taiketsu! | 78307 | [78307-slam-dunk-kyougou-makkou-taiketsu.json](./78307-slam-dunk-kyougou-makkou-taiketsu.json) |
 | Slam Poets | 399698 | [399698-slam-poets.json](./399698-slam-poets.json) |
 | Slam Racer | 270277 | [270277-slam-racer.json](./270277-slam-racer.json) |
 | Slam Tilt | 70944 | [70944-slam-tilt.json](./70944-slam-tilt.json) |
@@ -18213,6 +18215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sized Rescue Squad | 305764 | [305764-super-sized-rescue-squad.json](./305764-super-sized-rescue-squad.json) |
 | Super Skelly Belly | 184929 | [184929-super-skelly-belly.json](./184929-super-skelly-belly.json) |
 | Super Sketchy Party | 167294 | [167294-super-sketchy-party.json](./167294-super-sketchy-party.json) |
+| Super Skidmarks Data Disks | 78315 | [78315-super-skidmarks-data-disks.json](./78315-super-skidmarks-data-disks.json) |
 | Super Skull Smash GO! | 63924 | [63924-super-skull-smash-go.json](./63924-super-skull-smash-go.json) |
 | Super Skull Smash GO! 2 Turbo | 90127 | [90127-super-skull-smash-go-2-turbo.json](./90127-super-skull-smash-go-2-turbo.json) |
 | Super Sky Arena | 9569 | [9569-super-sky-arena.json](./9569-super-sky-arena.json) |
