@@ -2596,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be a Bee | 386357 | [386357-be-a-bee.json](./386357-be-a-bee.json) |
 | Be A Bee | 351090 | [351090-be-a-bee.json](./351090-be-a-bee.json) |
 | Be a King | 80245 | [80245-be-a-king.json](./80245-be-a-king.json) |
+| Be A Lord | 114293 | [114293-be-a-lord.json](./114293-be-a-lord.json) |
 | Be a Maid in the Demon World: The Secret Cafe of the Demon Angel Hero | 171960 | [171960-be-a-maid-in-the-demon-world-the-secret-cafe-of-the-demon-angel-hero.json](./171960-be-a-maid-in-the-demon-world-the-secret-cafe-of-the-demon-angel-hero.json) |
 | Be a Pirate | 143746 | [143746-be-a-pirate.json](./143746-be-a-pirate.json) |
 | Be Brave, Barb | 331143 | [331143-be-brave-barb.json](./331143-be-brave-barb.json) |
@@ -3157,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beefy Brad the Muscle Man | 265735 | [265735-beefy-brad-the-muscle-man.json](./265735-beefy-brad-the-muscle-man.json) |
 | Beehive Bedlam | 238469 | [238469-beehive-bedlam.json](./238469-beehive-bedlam.json) |
 | Beekeeper | 117804 | [117804-beekeeper.json](./117804-beekeeper.json) |
+| Beekyr | 114307 | [114307-beekyr.json](./114307-beekyr.json) |
 | Beeline | 15669 | [15669-beeline.json](./15669-beeline.json) |
 | Beena Town he Youkoso | 300416 | [300416-beena-town-he-youkoso.json](./300416-beena-town-he-youkoso.json) |
 | Beep | 133952 | [133952-beep.json](./133952-beep.json) |
@@ -5800,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Fills | 255168 | [255168-blocky-fills.json](./255168-blocky-fills.json) |
 | Blocky Football | 58203 | [58203-blocky-football.json](./58203-blocky-football.json) |
 | Blocky Granny Mod chapter One | 248175 | [248175-blocky-granny-mod-chapter-one.json](./248175-blocky-granny-mod-chapter-one.json) |
+| Blocky McBlockFace | 114272 | [114272-blocky-mcblockface.json](./114272-blocky-mcblockface.json) |
 | Blocky Monsters Smash | 100195 | [100195-blocky-monsters-smash.json](./100195-blocky-monsters-smash.json) |
 | Blocky Raider | 58202 | [58202-blocky-raider.json](./58202-blocky-raider.json) |
 | Blocky Roads | 23413 | [23413-blocky-roads.json](./23413-blocky-roads.json) |
@@ -6962,6 +6965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boobs on Island | 97179 | [97179-boobs-on-island.json](./97179-boobs-on-island.json) |
 | Boobs or [Redacted] | 368061 | [368061-boobs-or-redacted.json](./368061-boobs-or-redacted.json) |
 | Boobs Saga | 89322 | [89322-boobs-saga.json](./89322-boobs-saga.json) |
+| Boobs vs Zombies | 114292 | [114292-boobs-vs-zombies.json](./114292-boobs-vs-zombies.json) |
 | Booby Kids | 7796 | [7796-booby-kids.json](./7796-booby-kids.json) |
 | Booeys: Rip in the Rift | 292246 | [292246-booeys-rip-in-the-rift.json](./292246-booeys-rip-in-the-rift.json) |
 | Boofie's Birthday Adventure | 340246 | [340246-boofies-birthday-adventure.json](./340246-boofies-birthday-adventure.json) |
