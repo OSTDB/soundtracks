@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jawbreaker | 339639 | [339639-jawbreaker.json](./339639-jawbreaker.json) |
 | Jawed | 408909 | [408909-jawed.json](./408909-jawed.json) |
 | Jawless Fishtank | 348440 | [348440-jawless-fishtank.json](./348440-jawless-fishtank.json) |
+| Jawns | 87813 | [87813-jawns.json](./87813-jawns.json) |
 | Jaws | 346093 | [346093-jaws.json](./346093-jaws.json) |
 | Jaws | 68385 | [68385-jaws.json](./68385-jaws.json) |
 | Jaws & Claws | 189070 | [189070-jaws-and-claws.json](./189070-jaws-and-claws.json) |
