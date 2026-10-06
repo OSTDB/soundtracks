@@ -2106,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Again | 117713 | [117713-again.json](./117713-again.json) |
 | Again | 177548 | [177548-again.json](./177548-again.json) |
 | Again and Again | 216182 | [216182-again-and-again.json](./216182-again-and-again.json) |
+| Again? | 106503 | [106503-again.json](./106503-again.json) |
 | Against | 152211 | [152211-against.json](./152211-against.json) |
 | Against All Odds | 174102 | [174102-against-all-odds.json](./174102-against-all-odds.json) |
 | Against All Odds | 228719 | [228719-against-all-odds.json](./228719-against-all-odds.json) |
@@ -2356,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AHH!!! MazeZing | 158046 | [158046-ahh-mazezing.json](./158046-ahh-mazezing.json) |
 | Ahhnalog 112 | 196106 | [196106-ahhnalog-112.json](./196106-ahhnalog-112.json) |
 | Ahlgrens Bilspelet | 74070 | [74070-ahlgrens-bilspelet.json](./74070-ahlgrens-bilspelet.json) |
+| Ahlman Arcade 2018 | 106546 | [106546-ahlman-arcade-2018.json](./106546-ahlman-arcade-2018.json) |
 | Ahlman Mansion 2020 | 150758 | [150758-ahlman-mansion-2020.json](./150758-ahlman-mansion-2020.json) |
 | Ahmmit's Gate | 184944 | [184944-ahmmits-gate.json](./184944-ahmmits-gate.json) |
 | Ahnayro: The Dream World | 22377 | [22377-ahnayro-the-dream-world.json](./22377-ahnayro-the-dream-world.json) |
@@ -3550,6 +3552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alister Alt Costume | 322713 | [322713-alister-alt-costume.json](./322713-alister-alt-costume.json) |
 | Alita: Battle Angel - The Game | 114770 | [114770-alita-battle-angel-the-game.json](./114770-alita-battle-angel-the-game.json) |
 | Alite | 207872 | [207872-alite.json](./207872-alite.json) |
+| Alive | 106659 | [106659-alive.json](./106659-alive.json) |
 | Alive | 226212 | [226212-alive.json](./226212-alive.json) |
 | Alive | 282657 | [282657-alive.json](./282657-alive.json) |
 | Alive | 287661 | [287661-alive.json](./287661-alive.json) |
@@ -8475,6 +8478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrotit | 93074 | [93074-astrotit.json](./93074-astrotit.json) |
 | AstroTrucks | 207183 | [207183-astrotrucks.json](./207183-astrotrucks.json) |
 | Astround | 342049 | [342049-astround.json](./342049-astround.json) |
+| AstroViking | 106653 | [106653-astroviking.json](./106653-astroviking.json) |
 | Astrovity | 163908 | [163908-astrovity.json](./163908-astrovity.json) |
 | Astrowar | 11127 | [11127-astrowar.json](./11127-astrowar.json) |
 | AstroWings: Space War | 147656 | [147656-astrowings-space-war.json](./147656-astrowings-space-war.json) |
