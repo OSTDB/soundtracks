@@ -1598,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patched World | 237481 | [237481-patched-world.json](./237481-patched-world.json) |
 | Patchman vs. Blue Squares | 90119 | [90119-patchman-vs-blue-squares.json](./90119-patchman-vs-blue-squares.json) |
 | Patchman vs. Red Circles | 35012 | [35012-patchman-vs-red-circles.json](./35012-patchman-vs-red-circles.json) |
+| Patchmania Kids: A Puzzle About Bunny Revenge! | 104138 | [104138-patchmania-kids-a-puzzle-about-bunny-revenge.json](./104138-patchmania-kids-a-puzzle-about-bunny-revenge.json) |
 | Patchouli: A Little War in Bland-Old Library | 250511 | [250511-patchouli-a-little-war-in-bland-old-library.json](./250511-patchouli-a-little-war-in-bland-old-library.json) |
 | Patchouli's Adventure In Doll's House | 293707 | [293707-patchoulis-adventure-in-dolls-house.json](./293707-patchoulis-adventure-in-dolls-house.json) |
 | Patchwork Girl | 180242 | [180242-patchwork-girl.json](./180242-patchwork-girl.json) |
@@ -4651,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel's Hallows Eve | 139209 | [139209-pixels-hallows-eve.json](./139209-pixels-hallows-eve.json) |
 | Pixelance | 382883 | [382883-pixelance.json](./382883-pixelance.json) |
 | Pixelarium | 117853 | [117853-pixelarium.json](./117853-pixelarium.json) |
+| Pixelated Jigsaw | 103987 | [103987-pixelated-jigsaw.json](./103987-pixelated-jigsaw.json) |
 | PixelBot Extreme! | 96229 | [96229-pixelbot-extreme.json](./96229-pixelbot-extreme.json) |
 | Pixelburg | 345055 | [345055-pixelburg.json](./345055-pixelburg.json) |
 | PixelCraft Game | 100929 | [100929-pixelcraft-game.json](./100929-pixelcraft-game.json) |
@@ -4795,6 +4797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Panic! | 393469 | [393469-pizza-panic.json](./393469-pizza-panic.json) |
 | Pizza Parking | 115057 | [115057-pizza-parking.json](./115057-pizza-parking.json) |
 | Pizza Party | 167197 | [167197-pizza-party.json](./167197-pizza-party.json) |
+| Pizza Penguins | 103979 | [103979-pizza-penguins.json](./103979-pizza-penguins.json) |
 | Pizza Pony | 180852 | [180852-pizza-pony.json](./180852-pizza-pony.json) |
 | Pizza Possum | 199132 | [199132-pizza-possum.json](./199132-pizza-possum.json) |
 | Pizza Rogue: P.P.M.P.D.E.S. | 334218 | [334218-pizza-rogue-p-p-m-p-d-e-s.json](./334218-pizza-rogue-p-p-m-p-d-e-s.json) |
@@ -4982,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Quiz: Learn & Discover - Mystery & Myth | 227773 | [227773-planet-quiz-learn-and-discover-mystery-and-myth.json](./227773-planet-quiz-learn-and-discover-mystery-and-myth.json) |
 | Planet Quiz: Learn & Discover - Trivia | 227782 | [227782-planet-quiz-learn-and-discover-trivia.json](./227782-planet-quiz-learn-and-discover-trivia.json) |
 | Planet R-12 | 26522 | [26522-planet-r-12.json](./26522-planet-r-12.json) |
+| Planet Reserve | 104140 | [104140-planet-reserve.json](./104140-planet-reserve.json) |
 | Planet Romance Boys: Conquer the Zodiac Horoscope | 376761 | [376761-planet-romance-boys-conquer-the-zodiac-horoscope.json](./376761-planet-romance-boys-conquer-the-zodiac-horoscope.json) |
 | Planet Romance Girls: Conquer the Zodiac Horoscope | 378862 | [378862-planet-romance-girls-conquer-the-zodiac-horoscope.json](./378862-planet-romance-girls-conquer-the-zodiac-horoscope.json) |
 | Planet Royale | 292556 | [292556-planet-royale.json](./292556-planet-royale.json) |
@@ -8206,6 +8210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prodigal | 139196 | [139196-prodigal.json](./139196-prodigal.json) |
 | Prodigal | 304099 | [304099-prodigal.json](./304099-prodigal.json) |
 | Prodigy | 85588 | [85588-prodigy.json](./85588-prodigy.json) |
+| Prodigy Math Game | 103984 | [103984-prodigy-math-game.json](./103984-prodigy-math-game.json) |
 | Prodigy Racing | 311287 | [311287-prodigy-racing.json](./311287-prodigy-racing.json) |
 | Prodigy Tactics | 77360 | [77360-prodigy-tactics.json](./77360-prodigy-tactics.json) |
 | Prodoomer | 201234 | [201234-prodoomer.json](./201234-prodoomer.json) |
