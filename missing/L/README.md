@@ -4635,6 +4635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LostHero | 138248 | [138248-losthero.json](./138248-losthero.json) |
 | LostMagic | 20522 | [20522-lostmagic.json](./20522-lostmagic.json) |
 | LostWinds | 21486 | [21486-lostwinds.json](./21486-lostwinds.json) |
+| LostX Dungeon | 112213 | [112213-lostx-dungeon.json](./112213-lostx-dungeon.json) |
 | Lot Lizard | 294178 | [294178-lot-lizard.json](./294178-lot-lizard.json) |
 | Lot Lot | 40368 | [40368-lot-lot.json](./40368-lot-lot.json) |
 | Lot'zAmonsters | 107825 | [107825-lotzamonsters.json](./107825-lotzamonsters.json) |
@@ -4832,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Red | 302371 | [302371-love-red.json](./302371-love-red.json) |
 | Love Rhythm | 126420 | [126420-love-rhythm.json](./126420-love-rhythm.json) |
 | Love Ribbon | 30410 | [30410-love-ribbon.json](./30410-love-ribbon.json) |
+| Love Ritmo | 112258 | [112258-love-ritmo.json](./112258-love-ritmo.json) |
 | Love Room VR | 111809 | [111809-love-room-vr.json](./111809-love-room-vr.json) |
 | Love Root Zero Kiss Kiss Labyrinth | 221733 | [221733-love-root-zero-kiss-kiss-labyrinth.json](./221733-love-root-zero-kiss-kiss-labyrinth.json) |
 | Love Sex & Fitness | 389649 | [389649-love-sex-and-fitness.json](./389649-love-sex-and-fitness.json) |
