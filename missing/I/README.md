@@ -1065,6 +1065,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iffy Institute | 96238 | [96238-iffy-institute.json](./96238-iffy-institute.json) |
 | iFighter 1945 | 91940 | [91940-ifighter-1945.json](./91940-ifighter-1945.json) |
 | Ifighter 2: The Pacific 1942 | 341075 | [341075-ifighter-2-the-pacific-1942.json](./341075-ifighter-2-the-pacific-1942.json) |
+| iFishing 2: Saltwater Edition | 97446 | [97446-ifishing-2-saltwater-edition.json](./97446-ifishing-2-saltwater-edition.json) |
+| iFishing 3 | 97447 | [97447-ifishing-3.json](./97447-ifishing-3.json) |
 | Ifu | 302488 | [302488-ifu.json](./302488-ifu.json) |
 | IFU | 274774 | [274774-ifu.json](./274774-ifu.json) |
 | IG Arena: Idle RPG | 232054 | [232054-ig-arena-idle-rpg.json](./232054-ig-arena-idle-rpg.json) |
@@ -2292,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial D Arcade Stage 2 | 201776 | [201776-initial-d-arcade-stage-2.json](./201776-initial-d-arcade-stage-2.json) |
 | Initial D Arcade Stage 6 AA | 80479 | [80479-initial-d-arcade-stage-6-aa.json](./80479-initial-d-arcade-stage-6-aa.json) |
 | Initial D Extreme Stage | 7354 | [7354-initial-d-extreme-stage.json](./7354-initial-d-extreme-stage.json) |
+| Initial D: Koudou Saisoku Densetsu | 97532 | [97532-initial-d-koudou-saisoku-densetsu.json](./97532-initial-d-koudou-saisoku-densetsu.json) |
 | Initial D: Perfect Shift Online | 85193 | [85193-initial-d-perfect-shift-online.json](./85193-initial-d-perfect-shift-online.json) |
 | Initial D: Street Stage | 45992 | [45992-initial-d-street-stage.json](./45992-initial-d-street-stage.json) |
 | Initial Daydream | 272464 | [272464-initial-daydream.json](./272464-initial-daydream.json) |
@@ -2412,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innerchild VR | 332607 | [332607-innerchild-vr.json](./332607-innerchild-vr.json) |
 | InnerCube | 35879 | [35879-innercube.json](./35879-innercube.json) |
 | Innergy | 81398 | [81398-innergy.json](./81398-innergy.json) |
+| Inniku Dorei no Shu | 97518 | [97518-inniku-dorei-no-shu.json](./97518-inniku-dorei-no-shu.json) |
 | Innkeeper VR | 320917 | [320917-innkeeper-vr.json](./320917-innkeeper-vr.json) |
 | Innkeeper's Basement | 243275 | [243275-innkeepers-basement.json](./243275-innkeepers-basement.json) |
 | Inno Vation! 2007 | 166055 | [166055-inno-vation-2007.json](./166055-inno-vation-2007.json) |
@@ -2524,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside Grass | 119503 | [119503-inside-grass.json](./119503-inside-grass.json) |
 | Inside Her Bedroom | 391827 | [391827-inside-her-bedroom.json](./391827-inside-her-bedroom.json) |
 | Inside Intruder | 329564 | [329564-inside-intruder.json](./329564-inside-intruder.json) |
+| Inside Kitty's Outside Adventure | 97444 | [97444-inside-kittys-outside-adventure.json](./97444-inside-kittys-outside-adventure.json) |
 | Inside Lacrosse's CL2010 | 91420 | [91420-inside-lacrosses-cl2010.json](./91420-inside-lacrosses-cl2010.json) |
 | Inside My Mind | 149090 | [149090-inside-my-mind.json](./149090-inside-my-mind.json) |
 | Inside My Mind 2 | 226851 | [226851-inside-my-mind-2.json](./226851-inside-my-mind-2.json) |
