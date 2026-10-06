@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
 | UAC Invasion: The Supply Depot | 256868 | [256868-uac-invasion-the-supply-depot.json](./256868-uac-invasion-the-supply-depot.json) |
 | UAC Ultra | 140469 | [140469-uac-ultra.json](./140469-uac-ultra.json) |
+| UAV Wars | 92672 | [92672-uav-wars.json](./92672-uav-wars.json) |
 | Ubaste | 218474 | [218474-ubaste.json](./218474-ubaste.json) |
 | UBeat | 91921 | [91921-ubeat.json](./91921-ubeat.json) |
 | Ubel | 195142 | [195142-ubel.json](./195142-ubel.json) |
@@ -77,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UC Love | 238218 | [238218-uc-love.json](./238218-uc-love.json) |
 | Uchi No Heya! | 403050 | [403050-uchi-no-heya.json](./403050-uchi-no-heya.json) |
 | Uchi Tore: Saitan 4-fun Kin Tore & Yuusansou Undou | 276469 | [276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json](./276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json) |
+| Uchida Yasuo DS Mystery Detective Asami Mitsuhiko Series: Fukutoshin Serial Murder Incidents | 92650 | [92650-uchida-yasuo-ds-mystery-detective-asami-mitsuhiko-series-fukutoshin-serial-murder-incidents.json](./92650-uchida-yasuo-ds-mystery-detective-asami-mitsuhiko-series-fukutoshin-serial-murder-incidents.json) |
 | Uchikano: Living With My Lovers | 250485 | [250485-uchikano-living-with-my-lovers.json](./250485-uchikano-living-with-my-lovers.json) |
 | Uchu | 145507 | [145507-uchu.json](./145507-uchu.json) |
 | Uchu Mega Fight | 196791 | [196791-uchu-mega-fight.json](./196791-uchu-mega-fight.json) |
@@ -465,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Age: Rebirth Project | 224203 | [224203-ultra-age-rebirth-project.json](./224203-ultra-age-rebirth-project.json) |
 | Ultra Aktion! | 59658 | [59658-ultra-aktion.json](./59658-ultra-aktion.json) |
 | Ultra Assault | 94564 | [94564-ultra-assault.json](./94564-ultra-assault.json) |
+| Ultra Baken | 92661 | [92661-ultra-baken.json](./92661-ultra-baken.json) |
 | Ultra Baseball Jitsumei-ban 3 | 37775 | [37775-ultra-baseball-jitsumei-ban-3.json](./37775-ultra-baseball-jitsumei-ban-3.json) |
 | Ultra Boat Game!!! | 154379 | [154379-ultra-boat-game.json](./154379-ultra-boat-game.json) |
 | Ultra Bonk Survivors | 378181 | [378181-ultra-bonk-survivors.json](./378181-ultra-bonk-survivors.json) |
@@ -1996,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | User Is Typing // Message Sent | 134687 | [134687-user-is-typing-message-sent.json](./134687-user-is-typing-message-sent.json) |
 | Ushinawareta Mirai wo Motomete | 76601 | [76601-ushinawareta-mirai-wo-motomete.json](./76601-ushinawareta-mirai-wo-motomete.json) |
 | Ushio to Tora | 38380 | [38380-ushio-to-tora.json](./38380-ushio-to-tora.json) |
+| Ushiro | 92685 | [92685-ushiro.json](./92685-ushiro.json) |
 | UsoNatsu: The Summer Romance Bloomed From a Lie | 234340 | [234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json](./234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json) |
 | Usotsuki Game | 83528 | [83528-usotsuki-game.json](./83528-usotsuki-game.json) |
 | Usotsuki Shangurira | 132090 | [132090-usotsuki-shangurira.json](./132090-usotsuki-shangurira.json) |
