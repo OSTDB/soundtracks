@@ -4728,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Stars Super Starcade | 48038 | [48038-shining-stars-super-starcade.json](./48038-shining-stars-super-starcade.json) |
 | Shining Symbol | 250965 | [250965-shining-symbol.json](./250965-shining-symbol.json) |
 | Shining the Holy Ark | 46063 | [46063-shining-the-holy-ark.json](./46063-shining-the-holy-ark.json) |
+| Shining Wind | 72920 | [72920-shining-wind.json](./72920-shining-wind.json) |
 | Shinjatta Kanojo | 251614 | [251614-shinjatta-kanojo.json](./251614-shinjatta-kanojo.json) |
 | Shinjuku Anomaly | 386407 | [386407-shinjuku-anomaly.json](./386407-shinjuku-anomaly.json) |
 | Shinjuku Soumei | 261212 | [261212-shinjuku-soumei.json](./261212-shinjuku-soumei.json) |
@@ -5635,6 +5636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sierra Ops: Episode 4 - Cadence of the Morning Star | 128395 | [128395-sierra-ops-episode-4-cadence-of-the-morning-star.json](./128395-sierra-ops-episode-4-cadence-of-the-morning-star.json) |
 | Sierra Pro Pilot 98: The Complete Flight Simulator | 62276 | [62276-sierra-pro-pilot-98-the-complete-flight-simulator.json](./62276-sierra-pro-pilot-98-the-complete-flight-simulator.json) |
 | Sierra Ridge Technologies | 349315 | [349315-sierra-ridge-technologies.json](./349315-sierra-ridge-technologies.json) |
+| Sierra Soccer | 72888 | [72888-sierra-soccer.json](./72888-sierra-soccer.json) |
 | Sierra Sports NFL Football Pro '99 | 22608 | [22608-sierra-sports-nfl-football-pro-99.json](./22608-sierra-sports-nfl-football-pro-99.json) |
 | Sierra Sports NFL Football Pro 2000 | 22609 | [22609-sierra-sports-nfl-football-pro-2000.json](./22609-sierra-sports-nfl-football-pro-2000.json) |
 | Sierra's 3-D Helicopter Simulator | 72087 | [72087-sierras-3-d-helicopter-simulator.json](./72087-sierras-3-d-helicopter-simulator.json) |
@@ -7807,6 +7809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smalls Island Woes | 177341 | [177341-smalls-island-woes.json](./177341-smalls-island-woes.json) |
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
 | Smart Baby ABC Games: Toddler Kids Learning Apps | 87032 | [87032-smart-baby-abc-games-toddler-kids-learning-apps.json](./87032-smart-baby-abc-games-toddler-kids-learning-apps.json) |
+| Smart Bomb | 72930 | [72930-smart-bomb.json](./72930-smart-bomb.json) |
 | Smart Bomber | 247035 | [247035-smart-bomber.json](./247035-smart-bomber.json) |
 | Smart Boy's Gameroom II | 208958 | [208958-smart-boys-gameroom-ii.json](./208958-smart-boys-gameroom-ii.json) |
 | Smart Boy's: Toy Club | 124044 | [124044-smart-boys-toy-club.json](./124044-smart-boys-toy-club.json) |
@@ -14168,6 +14171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Assassin | 57061 | [57061-starship-assassin.json](./57061-starship-assassin.json) |
 | Starship Bloopers | 405606 | [405606-starship-bloopers.json](./405606-starship-bloopers.json) |
 | Starship Caramba | 326776 | [326776-starship-caramba.json](./326776-starship-caramba.json) |
+| Starship Catan | 72949 | [72949-starship-catan.json](./72949-starship-catan.json) |
 | Starship Coaster | 278507 | [278507-starship-coaster.json](./278507-starship-coaster.json) |
 | Starship Command | 13764 | [13764-starship-command.json](./13764-starship-command.json) |
 | Starship Commander | 108965 | [108965-starship-commander.json](./108965-starship-commander.json) |
@@ -15368,6 +15372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Command: European Theater | 51892 | [51892-strategic-command-european-theater.json](./51892-strategic-command-european-theater.json) |
 | Strategic Command: World War I | 129592 | [129592-strategic-command-world-war-i.json](./129592-strategic-command-world-war-i.json) |
 | Strategic Command: World War I - Empires in Turmoil | 262929 | [262929-strategic-command-world-war-i-empires-in-turmoil.json](./262929-strategic-command-world-war-i-empires-in-turmoil.json) |
+| Strategic Conquest | 72934 | [72934-strategic-conquest.json](./72934-strategic-conquest.json) |
 | Strategic Mind: Fight for Dominance | 257425 | [257425-strategic-mind-fight-for-dominance.json](./257425-strategic-mind-fight-for-dominance.json) |
 | Strategic Mind: Fight for Dominance + Kaiju Wars - Fight Monsters Bundle | 289417 | [289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json](./289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json) |
 | Strategic Simulations: Commander's Collection | 73779 | [73779-strategic-simulations-commanders-collection.json](./73779-strategic-simulations-commanders-collection.json) |
@@ -15788,6 +15793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strikers 1945 | 39300 | [39300-strikers-1945.json](./39300-strikers-1945.json) |
 | Strikers 1945 II for Nintendo Switch | 234133 | [234133-strikers-1945-ii-for-nintendo-switch.json](./234133-strikers-1945-ii-for-nintendo-switch.json) |
 | Strikers 1945 III for Nintendo Switch | 212270 | [212270-strikers-1945-iii-for-nintendo-switch.json](./212270-strikers-1945-iii-for-nintendo-switch.json) |
+| Strikers 1945 Plus | 72911 | [72911-strikers-1945-plus.json](./72911-strikers-1945-plus.json) |
 | Strikers 2020 | 118840 | [118840-strikers-2020.json](./118840-strikers-2020.json) |
 | Strikers Club | 343323 | [343323-strikers-club.json](./343323-strikers-club.json) |
 | Strikewave: Nightly Underground Fighter | 349945 | [349945-strikewave-nightly-underground-fighter.json](./349945-strikewave-nightly-underground-fighter.json) |
