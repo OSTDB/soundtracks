@@ -1107,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garou Densetsu Battle Archive 2 | 73876 | [73876-garou-densetsu-battle-archive-2.json](./73876-garou-densetsu-battle-archive-2.json) |
 | Garou Sliding Simulator | 377715 | [377715-garou-sliding-simulator.json](./377715-garou-sliding-simulator.json) |
 | Garou: Mark of the Wolves | 10605 | [10605-garou-mark-of-the-wolves.json](./10605-garou-mark-of-the-wolves.json) |
+| Garrett the Slug | 70613 | [70613-garrett-the-slug.json](./70613-garrett-the-slug.json) |
 | Garrison | 13856 | [13856-garrison.json](./13856-garrison.json) |
 | Garrison I-II | 112231 | [112231-garrison-i-ii.json](./112231-garrison-i-ii.json) |
 | Garshasp: The Monster Slayer | 3279 | [3279-garshasp-the-monster-slayer.json](./3279-garshasp-the-monster-slayer.json) |
@@ -3366,6 +3367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goiken Muyou: Anarchy in the Nippon | 45528 | [45528-goiken-muyou-anarchy-in-the-nippon.json](./45528-goiken-muyou-anarchy-in-the-nippon.json) |
 | Goime 500 | 56535 | [56535-goime-500.json](./56535-goime-500.json) |
 | Goin Up | 245033 | [245033-goin-up.json](./245033-goin-up.json) |
+| Goin' Downtown | 70580 | [70580-goin-downtown.json](./70580-goin-downtown.json) |
 | Goindol | 64461 | [64461-goindol.json](./64461-goindol.json) |
 | Going Balls | 378161 | [378161-going-balls.json](./378161-going-balls.json) |
 | Going Dark | 179518 | [179518-going-dark.json](./179518-going-dark.json) |
