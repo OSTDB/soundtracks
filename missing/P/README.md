@@ -3266,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick & Match | 87223 | [87223-pick-and-match.json](./87223-pick-and-match.json) |
 | Pick & Place | 402298 | [402298-pick-and-place.json](./402298-pick-and-place.json) |
 | Pick a Boo | 406116 | [406116-pick-a-boo.json](./406116-pick-a-boo.json) |
+| Pick and Learn - Easy Learning for Kids | 106015 | [106015-pick-and-learn-easy-learning-for-kids.json](./106015-pick-and-learn-easy-learning-for-kids.json) |
 | Pick Ball | 404428 | [404428-pick-ball.json](./404428-pick-ball.json) |
 | Pick Me Pick Me | 321125 | [321125-pick-me-pick-me.json](./321125-pick-me-pick-me.json) |
 | Pick me up! Rescue Rangers | 147822 | [147822-pick-me-up-rescue-rangers.json](./147822-pick-me-up-rescue-rangers.json) |
@@ -4272,6 +4273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Art: Color by Number | 87040 | [87040-pixel-art-color-by-number.json](./87040-pixel-art-color-by-number.json) |
 | Pixel Artist | 220876 | [220876-pixel-artist.json](./220876-pixel-artist.json) |
 | Pixel Artist Simulator | 177892 | [177892-pixel-artist-simulator.json](./177892-pixel-artist-simulator.json) |
+| Pixel Artist: Color Number, Pixel Coloring Book | 105847 | [105847-pixel-artist-color-number-pixel-coloring-book.json](./105847-pixel-artist-color-number-pixel-coloring-book.json) |
 | Pixel Battle Royale | 113686 | [113686-pixel-battle-royale.json](./113686-pixel-battle-royale.json) |
 | Pixel Blitz - Impossible Runner | 86913 | [86913-pixel-blitz-impossible-runner.json](./86913-pixel-blitz-impossible-runner.json) |
 | Pixel Blocked! | 92491 | [92491-pixel-blocked.json](./92491-pixel-blocked.json) |
@@ -4821,6 +4823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizzeria of Peril | 260790 | [260790-pizzeria-of-peril.json](./260790-pizzeria-of-peril.json) |
 | Pizzicato Polka: Ensa Genya | 108833 | [108833-pizzicato-polka-ensa-genya.json](./108833-pizzicato-polka-ensa-genya.json) |
 | PJ Masks Power Heroes: Mighty Alliance | 282048 | [282048-pj-masks-power-heroes-mighty-alliance.json](./282048-pj-masks-power-heroes-mighty-alliance.json) |
+| PJ Masks Rush: Kart Racing | 105826 | [105826-pj-masks-rush-kart-racing.json](./105826-pj-masks-rush-kart-racing.json) |
 | Pj Masks: Heroes of the Night | 148527 | [148527-pj-masks-heroes-of-the-night.json](./148527-pj-masks-heroes-of-the-night.json) |
 | PJ Masks: Heroes of the Night - Complete Edition | 214727 | [214727-pj-masks-heroes-of-the-night-complete-edition.json](./214727-pj-masks-heroes-of-the-night-complete-edition.json) |
 | PJ Masks: Heroes of the Night - Mischief on Mystery Mountain | 195772 | [195772-pj-masks-heroes-of-the-night-mischief-on-mystery-mountain.json](./195772-pj-masks-heroes-of-the-night-mischief-on-mystery-mountain.json) |
@@ -7341,6 +7344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerama | 60582 | [60582-powerama.json](./60582-powerama.json) |
 | Powerball: Monster's Quest | 329697 | [329697-powerball-monsters-quest.json](./329697-powerball-monsters-quest.json) |
 | PowerBeatsVR | 113557 | [113557-powerbeatsvr.json](./113557-powerbeatsvr.json) |
+| PowerBoat Mega Ramp Racing | 105829 | [105829-powerboat-mega-ramp-racing.json](./105829-powerboat-mega-ramp-racing.json) |
 | PowerBots Builders | 222812 | [222812-powerbots-builders.json](./222812-powerbots-builders.json) |
 | PowerBots Retro | 143566 | [143566-powerbots-retro.json](./143566-powerbots-retro.json) |
 | PowerCharge | 349398 | [349398-powercharge.json](./349398-powercharge.json) |
