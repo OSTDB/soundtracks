@@ -8370,6 +8370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monomyth | 112491 | [112491-monomyth.json](./112491-monomyth.json) |
 | Mononc's Adventures | 368659 | [368659-mononcs-adventures.json](./368659-mononcs-adventures.json) |
 | Mononobe no Futo to Muttsu no Shiren | 206958 | [206958-mononobe-no-futo-to-muttsu-no-shiren.json](./206958-mononobe-no-futo-to-muttsu-no-shiren.json) |
+| Mononofu Battle Princess of White Lily | 98507 | [98507-mononofu-battle-princess-of-white-lily.json](./98507-mononofu-battle-princess-of-white-lily.json) |
 | Mononoke Chigiri | 343948 | [343948-mononoke-chigiri.json](./343948-mononoke-chigiri.json) |
 | Mononoke no Kuni | 270069 | [270069-mononoke-no-kuni.json](./270069-mononoke-no-kuni.json) |
 | Mononoke Tantei: Nobuta no Ayakashi Jikenbo | 222361 | [222361-mononoke-tantei-nobuta-no-ayakashi-jikenbo.json](./222361-mononoke-tantei-nobuta-no-ayakashi-jikenbo.json) |
@@ -11906,6 +11907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Blades | 72740 | [72740-mythic-blades.json](./72740-mythic-blades.json) |
 | Mythic Defender | 195616 | [195616-mythic-defender.json](./195616-mythic-defender.json) |
 | Mythic Dreams | 276759 | [276759-mythic-dreams.json](./276759-mythic-dreams.json) |
+| Mythic Glory | 98531 | [98531-mythic-glory.json](./98531-mythic-glory.json) |
 | Mythic Legends | 201617 | [201617-mythic-legends.json](./201617-mythic-legends.json) |
 | Mythic Love: Iberian Legends | 386288 | [386288-mythic-love-iberian-legends.json](./386288-mythic-love-iberian-legends.json) |
 | Mythic Manager | 408151 | [408151-mythic-manager.json](./408151-mythic-manager.json) |
