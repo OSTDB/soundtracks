@@ -4322,6 +4322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amelia's Garden | 319780 | [319780-amelias-garden.json](./319780-amelias-garden.json) |
 | Amelie | 190744 | [190744-amelie.json](./190744-amelie.json) |
 | Amen: The Quiet Exodus | 406731 | [406731-amen-the-quiet-exodus.json](./406731-amen-the-quiet-exodus.json) |
+| Amenity's Life | 98541 | [98541-amenitys-life.json](./98541-amenitys-life.json) |
 | Amentes Online | 401011 | [401011-amentes-online.json](./401011-amentes-online.json) |
 | Ameprod Television Game 10 | 243416 | [243416-ameprod-television-game-10.json](./243416-ameprod-television-game-10.json) |
 | America Adventure | 206111 | [206111-america-adventure.json](./206111-america-adventure.json) |
@@ -5767,6 +5768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antidote | 170819 | [170819-antidote.json](./170819-antidote.json) |
 | Antiem | 183856 | [183856-antiem.json](./183856-antiem.json) |
 | AntiGolfity | 260293 | [260293-antigolfity.json](./260293-antigolfity.json) |
+| Antigrams | 98521 | [98521-antigrams.json](./98521-antigrams.json) |
 | Antigrav | 43521 | [43521-antigrav.json](./43521-antigrav.json) |
 | Antigrav Racing Championship | 248329 | [248329-antigrav-racing-championship.json](./248329-antigrav-racing-championship.json) |
 | Antigravity Racing | 239292 | [239292-antigravity-racing.json](./239292-antigravity-racing.json) |
@@ -8892,6 +8894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atropos | 326240 | [326240-atropos.json](./326240-atropos.json) |
 | Atrox | 73551 | [73551-atrox.json](./73551-atrox.json) |
 | ATSS Retribution II | 224100 | [224100-atss-retribution-ii.json](./224100-atss-retribution-ii.json) |
+| Atsumare! Pawapuro-kun no DS Koushien | 98515 | [98515-atsumare-pawapuro-kun-no-ds-koushien.json](./98515-atsumare-pawapuro-kun-no-ds-koushien.json) |
 | Atsumete Asobu Kuma no Pooh-san: Mori no Takaramono | 50018 | [50018-atsumete-asobu-kuma-no-pooh-san-mori-no-takaramono.json](./50018-atsumete-asobu-kuma-no-pooh-san-mori-no-takaramono.json) |
 | Atsumete! Banki-chan | 216353 | [216353-atsumete-banki-chan.json](./216353-atsumete-banki-chan.json) |
 | Attachment Not Found | 256787 | [256787-attachment-not-found.json](./256787-attachment-not-found.json) |
@@ -8935,6 +8938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Inirea | 342254 | [342254-attack-on-inirea.json](./342254-attack-on-inirea.json) |
 | Attack on King: Reloaded | 226225 | [226225-attack-on-king-reloaded.json](./226225-attack-on-king-reloaded.json) |
 | Attack on Lothal | 359445 | [359445-attack-on-lothal.json](./359445-attack-on-lothal.json) |
+| Attack on Moe H | 98503 | [98503-attack-on-moe-h.json](./98503-attack-on-moe-h.json) |
 | Attack on Mutation Station | 307118 | [307118-attack-on-mutation-station.json](./307118-attack-on-mutation-station.json) |
 | Attack on Reality | 231612 | [231612-attack-on-reality.json](./231612-attack-on-reality.json) |
 | Attack on Steel | 346228 | [346228-attack-on-steel.json](./346228-attack-on-steel.json) |
