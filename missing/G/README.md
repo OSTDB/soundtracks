@@ -2628,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glide Collide | 96927 | [96927-glide-collide.json](./96927-glide-collide.json) |
 | Glide Hockey | 80149 | [80149-glide-hockey.json](./80149-glide-hockey.json) |
 | Glide Scramble Mechanic Star Shooting | 98045 | [98045-glide-scramble-mechanic-star-shooting.json](./98045-glide-scramble-mechanic-star-shooting.json) |
+| Glider 4.0 | 72313 | [72313-glider-4-0.json](./72313-glider-4-0.json) |
 | Glider Island | 32109 | [32109-glider-island.json](./32109-glider-island.json) |
 | Glider Rider | 13002 | [13002-glider-rider.json](./13002-glider-rider.json) |
 | Glider Simulator | 326413 | [326413-glider-simulator.json](./326413-glider-simulator.json) |
@@ -2997,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go-Kart Racing | 96470 | [96470-go-kart-racing.json](./96470-go-kart-racing.json) |
 | Go-Kart Racing 2 | 369178 | [369178-go-kart-racing-2.json](./369178-go-kart-racing-2.json) |
 | Go-Kart Simulator | 326417 | [326417-go-kart-simulator.json](./326417-go-kart-simulator.json) |
+| Go, Diego, Go: Wolf Pup Rescue | 72293 | [72293-go-diego-go-wolf-pup-rescue.json](./72293-go-diego-go-wolf-pup-rescue.json) |
 | Go, Diego, Go! | 220092 | [220092-go-diego-go.json](./220092-go-diego-go.json) |
 | Go, Diego, Go! Great Dinosaur Rescue | 292114 | [292114-go-diego-go-great-dinosaur-rescue.json](./292114-go-diego-go-great-dinosaur-rescue.json) |
 | Go, Diego, Go! Great Dinosaur Rescue | 47978 | [47978-go-diego-go-great-dinosaur-rescue.json](./47978-go-diego-go-great-dinosaur-rescue.json) |
@@ -5354,6 +5356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grump's Dream Course | 37890 | [37890-grumps-dream-course.json](./37890-grumps-dream-course.json) |
 | Grumpy Cat's Worst Game Ever | 98930 | [98930-grumpy-cats-worst-game-ever.json](./98930-grumpy-cats-worst-game-ever.json) |
 | Grumpy Gaffer | 357374 | [357374-grumpy-gaffer.json](./357374-grumpy-gaffer.json) |
+| Grumpy Gumphrey Supersleuth | 72262 | [72262-grumpy-gumphrey-supersleuth.json](./72262-grumpy-gumphrey-supersleuth.json) |
 | Grumpy Jack | 391288 | [391288-grumpy-jack.json](./391288-grumpy-jack.json) |
 | Grumpy Librarian | 181681 | [181681-grumpy-librarian.json](./181681-grumpy-librarian.json) |
 | Grumpy Witch | 115015 | [115015-grumpy-witch.json](./115015-grumpy-witch.json) |
