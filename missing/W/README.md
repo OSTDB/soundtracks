@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waku Waku Sweets | 102782 | [102782-waku-waku-sweets.json](./102782-waku-waku-sweets.json) |
 | Waku Waku Sweets: Happy Sweets Making | 96093 | [96093-waku-waku-sweets-happy-sweets-making.json](./96093-waku-waku-sweets-happy-sweets-making.json) |
 | Waku-waku Doubutsu Land | 101034 | [101034-waku-waku-doubutsu-land.json](./101034-waku-waku-doubutsu-land.json) |
+| Waku-waku Monster | 62010 | [62010-waku-waku-monster.json](./62010-waku-waku-monster.json) |
 | Waku-waku Puyo Puyo Dungeon | 70934 | [70934-waku-waku-puyo-puyo-dungeon.json](./70934-waku-waku-puyo-puyo-dungeon.json) |
 | Waku-waku Ski Wonder Spur | 37770 | [37770-waku-waku-ski-wonder-spur.json](./37770-waku-waku-ski-wonder-spur.json) |
 | Waku-waku Ultraman Racing | 252170 | [252170-waku-waku-ultraman-racing.json](./252170-waku-waku-ultraman-racing.json) |
@@ -1455,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Runner | 39794 | [39794-wave-runner.json](./39794-wave-runner.json) |
 | Wave Scanner | 352836 | [352836-wave-scanner.json](./352836-wave-scanner.json) |
 | Wave Shark | 142397 | [142397-wave-shark.json](./142397-wave-shark.json) |
+| Wave Wave | 62018 | [62018-wave-wave.json](./62018-wave-wave.json) |
 | Wave Weaver | 289899 | [289899-wave-weaver.json](./289899-wave-weaver.json) |
 | Wave_Machine | 186055 | [186055-wave-machine.json](./186055-wave-machine.json) |
 | Waveat | 362808 | [362808-waveat.json](./362808-waveat.json) |
@@ -2688,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whitestone | 263534 | [263534-whitestone.json](./263534-whitestone.json) |
 | Whitevale Defender | 98774 | [98774-whitevale-defender.json](./98774-whitevale-defender.json) |
 | Whiteverse: No Country for Old Men | 121690 | [121690-whiteverse-no-country-for-old-men.json](./121690-whiteverse-no-country-for-old-men.json) |
+| Whitewash | 62005 | [62005-whitewash.json](./62005-whitewash.json) |
 | WhiteWash | 370774 | [370774-whitewash.json](./370774-whitewash.json) |
 | Whitewater Rapids | 205838 | [205838-whitewater-rapids.json](./205838-whitewater-rapids.json) |
 | Whitewater VR: Extreme Kayaking Adventure | 244388 | [244388-whitewater-vr-extreme-kayaking-adventure.json](./244388-whitewater-vr-extreme-kayaking-adventure.json) |
