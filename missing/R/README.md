@@ -676,6 +676,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway: Koko ni Aru Yume | 271418 | [271418-railway-koko-ni-aru-yume.json](./271418-railway-koko-ni-aru-yume.json) |
 | Railworks 2: Train Simulator | 5548 | [5548-railworks-2-train-simulator.json](./5548-railworks-2-train-simulator.json) |
 | Railworks 3: Train Simulator 2012 - Bristol to Avonmouth | 136479 | [136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json](./136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json) |
+| Railworks Class 20 Pack DLC | 93812 | [93812-railworks-class-20-pack-dlc.json](./93812-railworks-class-20-pack-dlc.json) |
+| Railworks Class 45 Pack DLC | 93811 | [93811-railworks-class-45-pack-dlc.json](./93811-railworks-class-45-pack-dlc.json) |
+| Railworks Evening Star DLC | 93810 | [93810-railworks-evening-star-dlc.json](./93810-railworks-evening-star-dlc.json) |
 | Raimodula | 247463 | [247463-raimodula.json](./247463-raimodula.json) |
 | Rain | 128617 | [128617-rain.json](./128617-rain.json) |
 | Rain | 135784 | [135784-rain.json](./135784-rain.json) |
@@ -2490,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refrain no Chika Meikyuu to Majo no Ryodan: Limited Edition | 201050 | [201050-refrain-no-chika-meikyuu-to-majo-no-ryodan-limited-edition.json](./201050-refrain-no-chika-meikyuu-to-majo-no-ryodan-limited-edition.json) |
 | RefRain: Prism Memories | 33659 | [33659-refrain-prism-memories.json](./33659-refrain-prism-memories.json) |
 | RefRain: Prism Memories - Collector's Edition | 53499 | [53499-refrain-prism-memories-collectors-edition.json](./53499-refrain-prism-memories-collectors-edition.json) |
+| Reframed | 93794 | [93794-reframed.json](./93794-reframed.json) |
 | Refuge | 110251 | [110251-refuge.json](./110251-refuge.json) |
 | Refuge | 226969 | [226969-refuge.json](./226969-refuge.json) |
 | Refuge For Troubles: Episode 1 - Dear Stranger | 171566 | [171566-refuge-for-troubles-episode-1-dear-stranger.json](./171566-refuge-for-troubles-episode-1-dear-stranger.json) |
@@ -3558,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverie Knights Tactics: Prologue | 156214 | [156214-reverie-knights-tactics-prologue.json](./156214-reverie-knights-tactics-prologue.json) |
 | Reverie: A Heroes Tale | 89951 | [89951-reverie-a-heroes-tale.json](./89951-reverie-a-heroes-tale.json) |
 | Reverie: Sweet As Edition | 114418 | [114418-reverie-sweet-as-edition.json](./114418-reverie-sweet-as-edition.json) |
+| Reveries: Soul Collector HD | 93829 | [93829-reveries-soul-collector-hd.json](./93829-reveries-soul-collector-hd.json) |
 | Reversal | 78717 | [78717-reversal.json](./78717-reversal.json) |
 | Reversal of Deck | 283717 | [283717-reversal-of-deck.json](./283717-reversal-of-deck.json) |
 | Reverse 1999: A Long Long Way | 374300 | [374300-reverse-1999-a-long-long-way.json](./374300-reverse-1999-a-long-long-way.json) |
@@ -6241,6 +6246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Round About | 25858 | [25858-round-about.json](./25858-round-about.json) |
 | Round Invaders Rush | 209918 | [209918-round-invaders-rush.json](./209918-round-invaders-rush.json) |
 | Round Invaders Rush 2 | 214039 | [214039-round-invaders-rush-2.json](./214039-round-invaders-rush-2.json) |
+| Round Mars | 93783 | [93783-round-mars.json](./93783-round-mars.json) |
 | Round My Corners | 301241 | [301241-round-my-corners.json](./301241-round-my-corners.json) |
 | Round Ogre | 201121 | [201121-round-ogre.json](./201121-round-ogre.json) |
 | Round Spike | 348954 | [348954-round-spike.json](./348954-round-spike.json) |
