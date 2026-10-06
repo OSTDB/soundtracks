@@ -2480,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Git Up! | 335498 | [335498-git-up.json](./335498-git-up.json) |
 | Gitaroo Man | 11338 | [11338-gitaroo-man.json](./11338-gitaroo-man.json) |
 | Gitaroo Man Lives! | 42813 | [42813-gitaroo-man-lives.json](./42813-gitaroo-man-lives.json) |
+| Giten Megami Tensei: Tokyo Mokushiroku | 103378 | [103378-giten-megami-tensei-tokyo-mokushiroku.json](./103378-giten-megami-tensei-tokyo-mokushiroku.json) |
 | Give a Dam! | 248066 | [248066-give-a-dam.json](./248066-give-a-dam.json) |
 | Give an imp a chance! | 330931 | [330931-give-an-imp-a-chance.json](./330931-give-an-imp-a-chance.json) |
 | Give Gifts Give Life | 397240 | [397240-give-gifts-give-life.json](./397240-give-gifts-give-life.json) |
@@ -2527,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator's Arena | 236530 | [236530-gladiators-arena.json](./236530-gladiators-arena.json) |
 | Gladiatorial Conquest: Battle Arena of Legends | 283266 | [283266-gladiatorial-conquest-battle-arena-of-legends.json](./283266-gladiatorial-conquest-battle-arena-of-legends.json) |
 | Gladiators Tale | 248001 | [248001-gladiators-tale.json](./248001-gladiators-tale.json) |
+| Gladihoppers | 103356 | [103356-gladihoppers.json](./103356-gladihoppers.json) |
 | Gladio and Glory | 144881 | [144881-gladio-and-glory.json](./144881-gladio-and-glory.json) |
 | Gladio Mori | 278415 | [278415-gladio-mori.json](./278415-gladio-mori.json) |
 | Gladom: The 2D MOBA in Pixel Art | 121469 | [121469-gladom-the-2d-moba-in-pixel-art.json](./121469-gladom-the-2d-moba-in-pixel-art.json) |
@@ -4295,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granny in Paradise | 71333 | [71333-granny-in-paradise.json](./71333-granny-in-paradise.json) |
 | Granny Legend | 245381 | [245381-granny-legend.json](./245381-granny-legend.json) |
 | Granny Remake | 255022 | [255022-granny-remake.json](./255022-granny-remake.json) |
+| Granny Simulator | 103568 | [103568-granny-simulator.json](./103568-granny-simulator.json) |
 | Granny Unleashed | 177561 | [177561-granny-unleashed.json](./177561-granny-unleashed.json) |
 | Granny's Gotcha | 343414 | [343414-grannys-gotcha.json](./343414-grannys-gotcha.json) |
 | Granny's Grantastic Granventure | 105096 | [105096-grannys-grantastic-granventure.json](./105096-grannys-grantastic-granventure.json) |
