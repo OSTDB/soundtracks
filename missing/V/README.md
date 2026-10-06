@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velucity | 155656 | [155656-velucity.json](./155656-velucity.json) |
 | Velucity: O2Jam Pack 1 | 170381 | [170381-velucity-o2jam-pack-1.json](./170381-velucity-o2jam-pack-1.json) |
 | Velvet Dark | 130336 | [130336-velvet-dark.json](./130336-velvet-dark.json) |
+| Velvet Guard | 93771 | [93771-velvet-guard.json](./93771-velvet-guard.json) |
 | Velvet Hammer | 392149 | [392149-velvet-hammer.json](./392149-velvet-hammer.json) |
 | Velvet Shedding | 415890 | [415890-velvet-shedding.json](./415890-velvet-shedding.json) |
 | Velvet Sundown | 13159 | [13159-velvet-sundown.json](./13159-velvet-sundown.json) |
