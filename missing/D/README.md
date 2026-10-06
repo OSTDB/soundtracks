@@ -6931,6 +6931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodlebug | 261511 | [261511-doodlebug.json](./261511-doodlebug.json) |
 | Doodlebug: Bug Bash II | 80636 | [80636-doodlebug-bug-bash-ii.json](./80636-doodlebug-bug-bash-ii.json) |
 | DoodleVR | 110513 | [110513-doodlevr.json](./110513-doodlevr.json) |
+| Doodly.io | 112221 | [112221-doodly-io.json](./112221-doodly-io.json) |
 | Doofas | 133438 | [133438-doofas.json](./133438-doofas.json) |
 | Doofus | 39025 | [39025-doofus.json](./39025-doofus.json) |
 | Dookie Nukem 3D | 218115 | [218115-dookie-nukem-3d.json](./218115-dookie-nukem-3d.json) |
