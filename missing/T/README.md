@@ -3130,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The ABC | 243625 | [243625-the-abc.json](./243625-the-abc.json) |
 | The Abduction of Bacon at Dawn | 120356 | [120356-the-abduction-of-bacon-at-dawn.json](./120356-the-abduction-of-bacon-at-dawn.json) |
 | The Abduction of Oscar Z | 300808 | [300808-the-abduction-of-oscar-z.json](./300808-the-abduction-of-oscar-z.json) |
+| The Abettor's Letters | 58071 | [58071-the-abettors-letters.json](./58071-the-abettors-letters.json) |
 | The Abominable Shitpit | 418772 | [418772-the-abominable-shitpit.json](./418772-the-abominable-shitpit.json) |
 | The Abominable Snowmen | 15586 | [15586-the-abominable-snowmen.json](./15586-the-abominable-snowmen.json) |
 | The Absence of Is | 136429 | [136429-the-absence-of-is.json](./136429-the-absence-of-is.json) |
@@ -3207,6 +3208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Jason and the Argonauts | 114926 | [114926-the-adventures-of-jason-and-the-argonauts.json](./114926-the-adventures-of-jason-and-the-argonauts.json) |
 | The Adventures of Jerry Mouse: The Rescue of Nibbles | 233613 | [233613-the-adventures-of-jerry-mouse-the-rescue-of-nibbles.json](./233613-the-adventures-of-jerry-mouse-the-rescue-of-nibbles.json) |
 | The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies | 3779 | [3779-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json](./3779-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json) |
+| The Adventures of JP and Cosmo: A Friend Indeed... | 58050 | [58050-the-adventures-of-jp-and-cosmo-a-friend-indeed.json](./58050-the-adventures-of-jp-and-cosmo-a-friend-indeed.json) |
 | The Adventures of King Dengotti | 206208 | [206208-the-adventures-of-king-dengotti.json](./206208-the-adventures-of-king-dengotti.json) |
 | The Adventures of Kroma | 392993 | [392993-the-adventures-of-kroma.json](./392993-the-adventures-of-kroma.json) |
 | The Adventures of Kusoge | 83529 | [83529-the-adventures-of-kusoge.json](./83529-the-adventures-of-kusoge.json) |
@@ -3259,6 +3261,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Age of Gods Return | 173271 | [173271-the-age-of-gods-return.json](./173271-the-age-of-gods-return.json) |
 | The Age of Navigation: Commemorative Edition | 196133 | [196133-the-age-of-navigation-commemorative-edition.json](./196133-the-age-of-navigation-commemorative-edition.json) |
 | The Age of Navigation: Deluxe Edition | 196134 | [196134-the-age-of-navigation-deluxe-edition.json](./196134-the-age-of-navigation-deluxe-edition.json) |
+| The Agency of Anomalies: Cinderstone Orphanage | 58044 | [58044-the-agency-of-anomalies-cinderstone-orphanage.json](./58044-the-agency-of-anomalies-cinderstone-orphanage.json) |
+| The Agency of Anomalies: Mind Invasion | 58043 | [58043-the-agency-of-anomalies-mind-invasion.json](./58043-the-agency-of-anomalies-mind-invasion.json) |
+| The Agency of Anomalies: Mystic Hospital | 58045 | [58045-the-agency-of-anomalies-mystic-hospital.json](./58045-the-agency-of-anomalies-mystic-hospital.json) |
+| The Agency of Anomalies: The Last Performance | 58046 | [58046-the-agency-of-anomalies-the-last-performance.json](./58046-the-agency-of-anomalies-the-last-performance.json) |
 | The Agent | 91767 | [91767-the-agent.json](./91767-the-agent.json) |
 | The Agent Saga: Rover Rescue | 54434 | [54434-the-agent-saga-rover-rescue.json](./54434-the-agent-saga-rover-rescue.json) |
 | The Ai Games | 286767 | [286767-the-ai-games.json](./286767-the-ai-games.json) |
