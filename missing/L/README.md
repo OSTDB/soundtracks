@@ -1451,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Ixtona | 68979 | [68979-legend-of-ixtona.json](./68979-legend-of-ixtona.json) |
 | Legend of Johnny | 366351 | [366351-legend-of-johnny.json](./366351-legend-of-johnny.json) |
 | Legend of Junior | 112521 | [112521-legend-of-junior.json](./112521-legend-of-junior.json) |
+| Legend of K-1 Grand Prix '96 | 66886 | [66886-legend-of-k-1-grand-prix-96.json](./66886-legend-of-k-1-grand-prix-96.json) |
 | Legend of Kay | 3219 | [3219-legend-of-kay.json](./3219-legend-of-kay.json) |
 | Legend of Keepers Collection | 222226 | [222226-legend-of-keepers-collection.json](./222226-legend-of-keepers-collection.json) |
 | Legend of Keepers: Complete Edition | 225547 | [225547-legend-of-keepers-complete-edition.json](./225547-legend-of-keepers-complete-edition.json) |
