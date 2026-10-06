@@ -13090,6 +13090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Archer | 337982 | [337982-star-archer.json](./337982-star-archer.json) |
 | Star Arthur Densetsu I: Wakusei Mephius | 65513 | [65513-star-arthur-densetsu-i-wakusei-mephius.json](./65513-star-arthur-densetsu-i-wakusei-mephius.json) |
 | Star Ash Fleet | 345081 | [345081-star-ash-fleet.json](./345081-star-ash-fleet.json) |
+| Star Ball | 84472 | [84472-star-ball.json](./84472-star-ball.json) |
 | Star Battalion | 203231 | [203231-star-battalion.json](./203231-star-battalion.json) |
 | Star Beads | 329007 | [329007-star-beads.json](./329007-star-beads.json) |
 | Star Beasts: Meteor Version | 227920 | [227920-star-beasts-meteor-version.json](./227920-star-beasts-meteor-version.json) |
