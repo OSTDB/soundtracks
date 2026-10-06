@@ -6772,6 +6772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecranker | 259636 | [259636-minecranker.json](./259636-minecranker.json) |
 | Mined | 183983 | [183983-mined.json](./183983-mined.json) |
 | Mined Plants: Farm | 105536 | [105536-mined-plants-farm.json](./105536-mined-plants-farm.json) |
+| Mined-Out | 93131 | [93131-mined-out.json](./93131-mined-out.json) |
 | MineDrill Redux | 41945 | [41945-minedrill-redux.json](./41945-minedrill-redux.json) |
 | Minefield | 39724 | [39724-minefield.json](./39724-minefield.json) |
 | Minefield Combat | 315660 | [315660-minefield-combat.json](./315660-minefield-combat.json) |
@@ -7319,6 +7320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirth Melody | 313781 | [313781-mirth-melody.json](./313781-mirth-melody.json) |
 | Mirum Orbis | 262482 | [262482-mirum-orbis.json](./262482-mirum-orbis.json) |
 | Miruri: Mahou Fuku Bouken | 408248 | [408248-miruri-mahou-fuku-bouken.json](./408248-miruri-mahou-fuku-bouken.json) |
+| Mis Ladrillos Interactivo | 93218 | [93218-mis-ladrillos-interactivo.json](./93218-mis-ladrillos-interactivo.json) |
 | Misa | 337725 | [337725-misa.json](./337725-misa.json) |
 | Misa! | 88801 | [88801-misa.json](./88801-misa.json) |
 | Misadventure In Little Lon | 125425 | [125425-misadventure-in-little-lon.json](./125425-misadventure-in-little-lon.json) |
