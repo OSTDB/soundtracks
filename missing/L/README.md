@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Langrisser IV & V: Final Edition | 44862 | [44862-langrisser-iv-and-v-final-edition.json](./44862-langrisser-iv-and-v-final-edition.json) |
 | Langrisser Mobile | 106104 | [106104-langrisser-mobile.json](./106104-langrisser-mobile.json) |
 | Langrisser Re:Incarnation Tensei | 20080 | [20080-langrisser-re-incarnation-tensei.json](./20080-langrisser-re-incarnation-tensei.json) |
+| Langrisser Tribute | 76893 | [76893-langrisser-tribute.json](./76893-langrisser-tribute.json) |
 | Langrisser V: The End of Legend | 78665 | [78665-langrisser-v-the-end-of-legend.json](./78665-langrisser-v-the-end-of-legend.json) |
 | Langrisser: Hikari no Matsuei | 42010 | [42010-langrisser-hikari-no-matsuei.json](./42010-langrisser-hikari-no-matsuei.json) |
 | Langrisser: Sea of Sword | 411065 | [411065-langrisser-sea-of-sword.json](./411065-langrisser-sea-of-sword.json) |
@@ -3558,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live A Live | 15835 | [15835-live-a-live.json](./15835-live-a-live.json) |
 | Live Adventure | 187298 | [187298-live-adventure.json](./187298-live-adventure.json) |
 | Live Ammo | 93030 | [93030-live-ammo.json](./93030-live-ammo.json) |
+| Live and Learn | 76931 | [76931-live-and-learn.json](./76931-live-and-learn.json) |
 | Live at Strummer's Pond | 253498 | [253498-live-at-strummers-pond.json](./253498-live-at-strummers-pond.json) |
 | Live Bingo | 186058 | [186058-live-bingo.json](./186058-live-bingo.json) |
 | Live by the Sword: Tactics | 152334 | [152334-live-by-the-sword-tactics.json](./152334-live-by-the-sword-tactics.json) |
