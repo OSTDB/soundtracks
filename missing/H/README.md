@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallway Gunners | 363057 | [363057-hallway-gunners.json](./363057-hallway-gunners.json) |
 | Hallway of Horrors | 319804 | [319804-hallway-of-horrors.json](./319804-hallway-of-horrors.json) |
 | Hallways | 280421 | [280421-hallways.json](./280421-hallways.json) |
+| Halma | 102289 | [102289-halma.json](./102289-halma.json) |
 | Halmaverse | 340409 | [340409-halmaverse.json](./340409-halmaverse.json) |
 | Halo 2 Digsite: Alpha Moon | 332818 | [332818-halo-2-digsite-alpha-moon.json](./332818-halo-2-digsite-alpha-moon.json) |
 | Halo 2 Digsite: E3 2003 Demo | 321524 | [321524-halo-2-digsite-e3-2003-demo.json](./321524-halo-2-digsite-e3-2003-demo.json) |
@@ -924,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Soccer Physics | 97311 | [97311-happy-soccer-physics.json](./97311-happy-soccer-physics.json) |
 | Happy Stealing with Kirisame Marisa | 112878 | [112878-happy-stealing-with-kirisame-marisa.json](./112878-happy-stealing-with-kirisame-marisa.json) |
 | Happy Summer Quest | 189931 | [189931-happy-summer-quest.json](./189931-happy-summer-quest.json) |
+| Happy Sumotori Dreams | 102237 | [102237-happy-sumotori-dreams.json](./102237-happy-sumotori-dreams.json) |
 | Happy Tails Zoo Keeper | 54077 | [54077-happy-tails-zoo-keeper.json](./54077-happy-tails-zoo-keeper.json) |
 | Happy Telepathy | 286218 | [286218-happy-telepathy.json](./286218-happy-telepathy.json) |
 | Happy Time | 362282 | [362282-happy-time.json](./362282-happy-time.json) |
@@ -4047,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide vs. Seek | 28942 | [28942-hide-vs-seek.json](./28942-hide-vs-seek.json) |
 | Hide vs. Seek! | 378808 | [378808-hide-vs-seek.json](./378808-hide-vs-seek.json) |
 | Hide-And-Seek | 86196 | [86196-hide-and-seek.json](./86196-hide-and-seek.json) |
+| Hide.io | 102269 | [102269-hide-io.json](./102269-hide-io.json) |
 | Hideaways Lost Island | 53212 | [53212-hideaways-lost-island.json](./53212-hideaways-lost-island.json) |
 | Hideaways: Foggy Valley | 84519 | [84519-hideaways-foggy-valley.json](./84519-hideaways-foggy-valley.json) |
 | Hideko | 326201 | [326201-hideko.json](./326201-hideko.json) |
@@ -4134,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Seas Trader | 73867 | [73867-high-seas-trader.json](./73867-high-seas-trader.json) |
 | High Seas, High Profits! | 290922 | [290922-high-seas-high-profits.json](./290922-high-seas-high-profits.json) |
 | High Sidin': Hyphy Edition | 325042 | [325042-high-sidin-hyphy-edition.json](./325042-high-sidin-hyphy-edition.json) |
+| High Speed Extreme Bike Race Game: Space Heroes | 102263 | [102263-high-speed-extreme-bike-race-game-space-heroes.json](./102263-high-speed-extreme-bike-race-game-space-heroes.json) |
 | High Speed Trains 2 - England | 88742 | [88742-high-speed-trains-2-england.json](./88742-high-speed-trains-2-england.json) |
 | High Spirits | 317300 | [317300-high-spirits.json](./317300-high-spirits.json) |
 | High Stakes | 141081 | [141081-high-stakes.json](./141081-high-stakes.json) |
@@ -5960,6 +5964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Designer | 171625 | [171625-house-designer.json](./171625-house-designer.json) |
 | House Designer 2 | 274026 | [274026-house-designer-2.json](./274026-house-designer-2.json) |
 | House Designer: Fix & Flip | 107134 | [107134-house-designer-fix-and-flip.json](./107134-house-designer-fix-and-flip.json) |
+| House Escape | 102270 | [102270-house-escape.json](./102270-house-escape.json) |
 | House Fixer Simulator | 401125 | [401125-house-fixer-simulator.json](./401125-house-fixer-simulator.json) |
 | House Flipper | 27744 | [27744-house-flipper.json](./27744-house-flipper.json) |
 | House Flipper 2 | 191797 | [191797-house-flipper-2.json](./191797-house-flipper-2.json) |
