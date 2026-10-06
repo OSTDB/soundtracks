@@ -4635,6 +4635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Race | 200425 | [200425-road-race.json](./200425-road-race.json) |
 | Road Racer | 297243 | [297243-road-racer.json](./297243-road-racer.json) |
 | Road Rage 3 | 43536 | [43536-road-rage-3.json](./43536-road-rage-3.json) |
+| Road Rage Royale | 115563 | [115563-road-rage-royale.json](./115563-road-rage-royale.json) |
 | Road Rash | 141271 | [141271-road-rash.json](./141271-road-rash.json) |
 | Road Rash | 249144 | [249144-road-rash.json](./249144-road-rash.json) |
 | Road Rash 2 | 327271 | [327271-road-rash-2.json](./327271-road-rash-2.json) |
@@ -4915,6 +4916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Dinosaurs That Shoot Beams When They Roar | 378445 | [378445-robot-dinosaurs-that-shoot-beams-when-they-roar.json](./378445-robot-dinosaurs-that-shoot-beams-when-they-roar.json) |
 | Robot Dir | 249768 | [249768-robot-dir.json](./249768-robot-dir.json) |
 | Robot Farm | 111857 | [111857-robot-farm.json](./111857-robot-farm.json) |
+| Robot Female Hero 1 | 115573 | [115573-robot-female-hero-1.json](./115573-robot-female-hero-1.json) |
 | Robot Female Hero 2 | 120939 | [120939-robot-female-hero-2.json](./120939-robot-female-hero-2.json) |
 | Robot Female Hero 3 | 157508 | [157508-robot-female-hero-3.json](./157508-robot-female-hero-3.json) |
 | Robot Fighter | 216762 | [216762-robot-fighter.json](./216762-robot-fighter.json) |
@@ -5999,6 +6001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root | 24036 | [24036-root.json](./24036-root.json) |
 | Root After and Another | 72720 | [72720-root-after-and-another.json](./72720-root-after-and-another.json) |
 | Root Bear | 235214 | [235214-root-bear.json](./235214-root-bear.json) |
+| Root Beer on Tap | 115566 | [115566-root-beer-on-tap.json](./115566-root-beer-on-tap.json) |
 | Root Connections | 249911 | [249911-root-connections.json](./249911-root-connections.json) |
 | Root Double: Before Crime * After Days | 79295 | [79295-root-double-before-crime-after-days.json](./79295-root-double-before-crime-after-days.json) |
 | Root Infinity Rexx | 61660 | [61660-root-infinity-rexx.json](./61660-root-infinity-rexx.json) |
