@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IBowl | 93983 | [93983-ibowl.json](./93983-ibowl.json) |
 | iBowl Deluxe | 197668 | [197668-ibowl-deluxe.json](./197668-ibowl-deluxe.json) |
 | Ibreak! | 103895 | [103895-ibreak.json](./103895-ibreak.json) |
+| iBridgeCards | 88586 | [88586-ibridgecards.json](./88586-ibridgecards.json) |
 | Ibuki Suika Game | 407592 | [407592-ibuki-suika-game.json](./407592-ibuki-suika-game.json) |
 | IC Carddass DragonBall | 59995 | [59995-ic-carddass-dragonball.json](./59995-ic-carddass-dragonball.json) |
 | ic2005 | 256861 | [256861-ic2005.json](./256861-ic2005.json) |
