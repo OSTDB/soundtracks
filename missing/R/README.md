@@ -825,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakuga Fantasy | 183436 | [183436-rakuga-fantasy.json](./183436-rakuga-fantasy.json) |
 | Rakugaki Kingdom | 221245 | [221245-rakugaki-kingdom.json](./221245-rakugaki-kingdom.json) |
 | Rakugaki Showtime | 46082 | [46082-rakugaki-showtime.json](./46082-rakugaki-showtime.json) |
+| Ralf | 111598 | [111598-ralf.json](./111598-ralf.json) |
 | Ralf's Adventure: Aztec Mystery | 140910 | [140910-ralfs-adventure-aztec-mystery.json](./140910-ralfs-adventure-aztec-mystery.json) |
 | Rally | 197381 | [197381-rally.json](./197381-rally.json) |
 | Rally Ar | 266843 | [266843-rally-ar.json](./266843-rally-ar.json) |
@@ -2829,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rental House | 313336 | [313336-rental-house.json](./313336-rental-house.json) |
 | Renters Revenge | 75177 | [75177-renters-revenge.json](./75177-renters-revenge.json) |
 | Rento Fortune Monolit | 105624 | [105624-rento-fortune-monolit.json](./105624-rento-fortune-monolit.json) |
+| Rento Fortune VR | 111592 | [111592-rento-fortune-vr.json](./111592-rento-fortune-vr.json) |
 | Rento Fortune: Dice Configurator | 298335 | [298335-rento-fortune-dice-configurator.json](./298335-rento-fortune-dice-configurator.json) |
 | RentoFortune | 187545 | [187545-rentofortune.json](./187545-rentofortune.json) |
 | Renxia | 278696 | [278696-renxia.json](./278696-renxia.json) |
