@@ -531,12 +531,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Odyssey ACE: Launch Edition | 42668 | [42668-ragnarok-odyssey-ace-launch-edition.json](./42668-ragnarok-odyssey-ace-launch-edition.json) |
 | Ragnarok Online / Grand Chase | 80588 | [80588-ragnarok-online-grand-chase.json](./80588-ragnarok-online-grand-chase.json) |
 | Ragnarok Online 2 | 16484 | [16484-ragnarok-online-2.json](./16484-ragnarok-online-2.json) |
+| Ragnarok Online: Valkyrie Uprising | 63655 | [63655-ragnarok-online-valkyrie-uprising.json](./63655-ragnarok-online-valkyrie-uprising.json) |
 | Ragnarok Origin: Classic | 402201 | [402201-ragnarok-origin-classic.json](./402201-ragnarok-origin-classic.json) |
 | Ragnarok Re:Start | 51429 | [51429-ragnarok-re-start.json](./51429-ragnarok-re-start.json) |
 | Ragnarok Remastered: A Mythic Hating Sim | 181128 | [181128-ragnarok-remastered-a-mythic-hating-sim.json](./181128-ragnarok-remastered-a-mythic-hating-sim.json) |
 | Ragnarok Rush | 110282 | [110282-ragnarok-rush.json](./110282-ragnarok-rush.json) |
 | Ragnarok Survivors: Valhalla | 235683 | [235683-ragnarok-survivors-valhalla.json](./235683-ragnarok-survivors-valhalla.json) |
 | Ragnarok Tactics | 243421 | [243421-ragnarok-tactics.json](./243421-ragnarok-tactics.json) |
+| Ragnarok Violet | 63653 | [63653-ragnarok-violet.json](./63653-ragnarok-violet.json) |
 | Ragnarok: Back to Glory | 338348 | [338348-ragnarok-back-to-glory.json](./338348-ragnarok-back-to-glory.json) |
 | Ragnarok: Fallen Legends | 227932 | [227932-ragnarok-fallen-legends.json](./227932-ragnarok-fallen-legends.json) |
 | Ragnarok: Labyrinth | 197375 | [197375-ragnarok-labyrinth.json](./197375-ragnarok-labyrinth.json) |
