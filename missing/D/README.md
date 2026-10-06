@@ -5042,6 +5042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensional | 26578 | [26578-dimensional.json](./26578-dimensional.json) |
 | Dimensional Dexterity | 252179 | [252179-dimensional-dexterity.json](./252179-dimensional-dexterity.json) |
 | Dimensional Double Shift | 317856 | [317856-dimensional-double-shift.json](./317856-dimensional-double-shift.json) |
+| Dimensional Fighter Epsilon3 | 62593 | [62593-dimensional-fighter-epsilon3.json](./62593-dimensional-fighter-epsilon3.json) |
 | Dimensional Gears | 214047 | [214047-dimensional-gears.json](./214047-dimensional-gears.json) |
 | Dimensional Illusion | 324879 | [324879-dimensional-illusion.json](./324879-dimensional-illusion.json) |
 | Dimensional Intersection | 33404 | [33404-dimensional-intersection.json](./33404-dimensional-intersection.json) |
