@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Factory TD | 307694 | [307694-candy-factory-td.json](./307694-candy-factory-td.json) |
 | Candy Fall | 148980 | [148980-candy-fall.json](./148980-candy-fall.json) |
 | Candy Girl | 382784 | [382784-candy-girl.json](./382784-candy-girl.json) |
+| Candy Hair Salon | 90898 | [90898-candy-hair-salon.json](./90898-candy-hair-salon.json) |
 | Candy Jump featuring Frosty | 147131 | [147131-candy-jump-featuring-frosty.json](./147131-candy-jump-featuring-frosty.json) |
 | Candy Kingdom | 31395 | [31395-candy-kingdom.json](./31395-candy-kingdom.json) |
 | Candy land | 154401 | [154401-candy-land.json](./154401-candy-land.json) |
@@ -2938,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalice | 151274 | [151274-chalice.json](./151274-chalice.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
 | Chalk Up! | 175184 | [175184-chalk-up.json](./175184-chalk-up.json) |
+| Chalked | 90906 | [90906-chalked.json](./90906-chalked.json) |
 | Chalkship | 114924 | [114924-chalkship.json](./114924-chalkship.json) |
 | Challange of the Five Realms | 46576 | [46576-challange-of-the-five-realms.json](./46576-challange-of-the-five-realms.json) |
 | Challenge 100 | 359419 | [359419-challenge-100.json](./359419-challenge-100.json) |
@@ -5797,6 +5799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cludbugz Twisted Magic | 180059 | [180059-cludbugz-twisted-magic.json](./180059-cludbugz-twisted-magic.json) |
 | Cludbugz's Twisted Magic | 51969 | [51969-cludbugzs-twisted-magic.json](./51969-cludbugzs-twisted-magic.json) |
 | Clue | 206977 | [206977-clue.json](./206977-clue.json) |
+| Clue / Mouse Trap / Perfection / Aggravation | 90926 | [90926-clue-mouse-trap-perfection-aggravation.json](./90926-clue-mouse-trap-perfection-aggravation.json) |
 | Clue Kaguya-sama: Love is War | 262363 | [262363-clue-kaguya-sama-love-is-war.json](./262363-clue-kaguya-sama-love-is-war.json) |
 | Clue Murder at Boddy Mansion | 28097 | [28097-clue-murder-at-boddy-mansion.json](./28097-clue-murder-at-boddy-mansion.json) |
 | Clue Solver | 105532 | [105532-clue-solver.json](./105532-clue-solver.json) |
@@ -7487,6 +7490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constructor | 26780 | [26780-constructor.json](./26780-constructor.json) |
 | Constructor: Building Pack 1 - World Tenant Buildings | 226839 | [226839-constructor-building-pack-1-world-tenant-buildings.json](./226839-constructor-building-pack-1-world-tenant-buildings.json) |
 | Constructor: Building Pack 2 Made in America | 226840 | [226840-constructor-building-pack-2-made-in-america.json](./226840-constructor-building-pack-2-made-in-america.json) |
+| Constructor360 | 90907 | [90907-constructor360.json](./90907-constructor360.json) |
 | Consult Me Before Opening A Snack Shop | 280350 | [280350-consult-me-before-opening-a-snack-shop.json](./280350-consult-me-before-opening-a-snack-shop.json) |
 | Consume | 179514 | [179514-consume.json](./179514-consume.json) |
 | Consume Thy Flesh: The Pumpkin Smashing Sim | 189137 | [189137-consume-thy-flesh-the-pumpkin-smashing-sim.json](./189137-consume-thy-flesh-the-pumpkin-smashing-sim.json) |
