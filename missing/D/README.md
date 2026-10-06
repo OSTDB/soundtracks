@@ -4145,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detectives United: Vengeance from the Past - Collector's Edition | 409718 | [409718-detectives-united-vengeance-from-the-past-collectors-edition.json](./409718-detectives-united-vengeance-from-the-past-collectors-edition.json) |
 | Detectivez | 113683 | [113683-detectivez.json](./113683-detectivez.json) |
 | Detector | 68349 | [68349-detector.json](./68349-detector.json) |
+| Detector Island: A Metal Detecting Game | 106005 | [106005-detector-island-a-metal-detecting-game.json](./106005-detector-island-a-metal-detecting-game.json) |
 | Detention | 26776 | [26776-detention.json](./26776-detention.json) |
 | Detention | 320745 | [320745-detention.json](./320745-detention.json) |
 | Detention Club: School's Out | 167813 | [167813-detention-club-schools-out.json](./167813-detention-club-schools-out.json) |
@@ -5893,6 +5894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ Puff's Volcanic Capers | 47215 | [47215-dj-puffs-volcanic-capers.json](./47215-dj-puffs-volcanic-capers.json) |
 | DJ Simulator | 303479 | [303479-dj-simulator.json](./303479-dj-simulator.json) |
 | DJ Star | 21243 | [21243-dj-star.json](./21243-dj-star.json) |
+| DJ Word Master | 105837 | [105837-dj-word-master.json](./105837-dj-word-master.json) |
 | Djikstra's Enigmatic Puzzle Cube | 278423 | [278423-djikstras-enigmatic-puzzle-cube.json](./278423-djikstras-enigmatic-puzzle-cube.json) |
 | Djinn Caster | 129605 | [129605-djinn-caster.json](./129605-djinn-caster.json) |
 | Djinn: The Forbidden Knowledge | 302578 | [302578-djinn-the-forbidden-knowledge.json](./302578-djinn-the-forbidden-knowledge.json) |
@@ -6463,6 +6465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominari | 75099 | [75099-dominari.json](./75099-dominari.json) |
 | Dominate: Board Game | 147971 | [147971-dominate-board-game.json](./147971-dominate-board-game.json) |
 | Dominating the Skies | 162412 | [162412-dominating-the-skies.json](./162412-dominating-the-skies.json) |
+| Domination Earth | 106010 | [106010-domination-earth.json](./106010-domination-earth.json) |
 | Domination: War of Nations | 232981 | [232981-domination-war-of-nations.json](./232981-domination-war-of-nations.json) |
 | DomiNations | 39257 | [39257-dominations.json](./39257-dominations.json) |
 | Dominator | 13601 | [13601-dominator.json](./13601-dominator.json) |
@@ -9302,6 +9305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dubbed | 416687 | [416687-dubbed.json](./416687-dubbed.json) |
 | Dubbelmoral | 72606 | [72606-dubbelmoral.json](./72606-dubbelmoral.json) |
 | Dubbing Time | 156623 | [156623-dubbing-time.json](./156623-dubbing-time.json) |
+| Dubble Bubble Shooter | 106017 | [106017-dubble-bubble-shooter.json](./106017-dubble-bubble-shooter.json) |
 | Dubio | 293859 | [293859-dubio.json](./293859-dubio.json) |
 | Dubium | 182352 | [182352-dubium.json](./182352-dubium.json) |
 | Dubstep Abasralsa | 102407 | [102407-dubstep-abasralsa.json](./102407-dubstep-abasralsa.json) |
