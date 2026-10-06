@@ -1254,6 +1254,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantalus | 377197 | [377197-tantalus.json](./377197-tantalus.json) |
 | Tantei Gakuen Q: Kioukan no Satsui | 359064 | [359064-tantei-gakuen-q-kioukan-no-satsui.json](./359064-tantei-gakuen-q-kioukan-no-satsui.json) |
 | Tantei ha Tsuki wo Miru | 343979 | [343979-tantei-ha-tsuki-wo-miru.json](./343979-tantei-ha-tsuki-wo-miru.json) |
+| Tantei Jinguji Saburo DS: Akai Chou | 78906 | [78906-tantei-jinguji-saburo-ds-akai-chou.json](./78906-tantei-jinguji-saburo-ds-akai-chou.json) |
+| Tantei Jinguji Saburo DS: Kienai Kokoro | 78907 | [78907-tantei-jinguji-saburo-ds-kienai-kokoro.json](./78907-tantei-jinguji-saburo-ds-kienai-kokoro.json) |
 | Tantei Jinguji Saburo Oldies | 347278 | [347278-tantei-jinguji-saburo-oldies.json](./347278-tantei-jinguji-saburo-oldies.json) |
 | Tantei Jinguji Saburo Series No. 02: Yokohama-ko Renzoku Satsujin Jiken | 347247 | [347247-tantei-jinguji-saburo-series-no-02-yokohama-ko-renzoku-satsujin-jiken.json](./347247-tantei-jinguji-saburo-series-no-02-yokohama-ko-renzoku-satsujin-jiken.json) |
 | Tantei Jinguji Saburo Series No. 03: Kiken na Futari | 347248 | [347248-tantei-jinguji-saburo-series-no-03-kiken-na-futari.json](./347248-tantei-jinguji-saburo-series-no-03-kiken-na-futari.json) |
@@ -7796,6 +7798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moonlit Tower | 216324 | [216324-the-moonlit-tower.json](./216324-the-moonlit-tower.json) |
 | The Mooseman | 27358 | [27358-the-mooseman.json](./27358-the-mooseman.json) |
 | The Morgue: Hospital Escape | 177286 | [177286-the-morgue-hospital-escape.json](./177286-the-morgue-hospital-escape.json) |
+| The Morlov Affair | 78895 | [78895-the-morlov-affair.json](./78895-the-morlov-affair.json) |
 | The Moroccan Castle 3: Behind The Secrets | 242229 | [242229-the-moroccan-castle-3-behind-the-secrets.json](./242229-the-moroccan-castle-3-behind-the-secrets.json) |
 | The Moron Test | 117757 | [117757-the-moron-test.json](./117757-the-moron-test.json) |
 | The Morphine Western Revenge | 185622 | [185622-the-morphine-western-revenge.json](./185622-the-morphine-western-revenge.json) |
@@ -13452,6 +13455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TKKG: Verrat an TKKG | 150019 | [150019-tkkg-verrat-an-tkkg.json](./150019-tkkg-verrat-an-tkkg.json) |
 | TKKG: Wer stoppt den Feuerteufel? | 158722 | [158722-tkkg-wer-stoppt-den-feuerteufel.json](./158722-tkkg-wer-stoppt-den-feuerteufel.json) |
 | Tkl Online | 36106 | [36106-tkl-online.json](./36106-tkl-online.json) |
+| TKO | 78914 | [78914-tko.json](./78914-tko.json) |
 | Tlatoani | 319114 | [319114-tlatoani.json](./319114-tlatoani.json) |
 | Tlen Kray | 256810 | [256810-tlen-kray.json](./256810-tlen-kray.json) |
 | Tlicolity Eyes Vol. 1 | 116379 | [116379-tlicolity-eyes-vol-1.json](./116379-tlicolity-eyes-vol-1.json) |
@@ -17061,6 +17065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triad | 54692 | [54692-triad.json](./54692-triad.json) |
 | Triad Stone | 63931 | [63931-triad-stone.json](./63931-triad-stone.json) |
 | Triad Volume 1 | 93153 | [93153-triad-volume-1.json](./93153-triad-volume-1.json) |
+| Triad Volume 2 | 78888 | [78888-triad-volume-2.json](./78888-triad-volume-2.json) |
 | Triadino | 277342 | [277342-triadino.json](./277342-triadino.json) |
 | Triage | 228341 | [228341-triage.json](./228341-triage.json) |
 | Triage | 353861 | [353861-triage.json](./353861-triage.json) |
