@@ -1313,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Farty: The Trivia Game | 142838 | [142838-save-farty-the-trivia-game.json](./142838-save-farty-the-trivia-game.json) |
 | Save from Bobr Curve | 291679 | [291679-save-from-bobr-curve.json](./291679-save-from-bobr-curve.json) |
 | Save Granny | 100343 | [100343-save-granny.json](./100343-save-granny.json) |
+| Save her, from dreams | 99129 | [99129-save-her-from-dreams.json](./99129-save-her-from-dreams.json) |
 | Save Home | 31175 | [31175-save-home.json](./31175-save-home.json) |
 | Save HomeWorld | 110370 | [110370-save-homeworld.json](./110370-save-homeworld.json) |
 | Save Humanity.exe | 405534 | [405534-save-humanity-exe.json](./405534-save-humanity-exe.json) |
@@ -3733,12 +3734,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Ninja Reborn: Deluxe Edition | 317229 | [317229-shadow-of-the-ninja-reborn-deluxe-edition.json](./317229-shadow-of-the-ninja-reborn-deluxe-edition.json) |
 | Shadow of the Road | 124209 | [124209-shadow-of-the-road.json](./124209-shadow-of-the-road.json) |
 | Shadow of the School | 302474 | [302474-shadow-of-the-school.json](./302474-shadow-of-the-school.json) |
+| Shadow of the Tomb Raider: Croft Edition | 99122 | [99122-shadow-of-the-tomb-raider-croft-edition.json](./99122-shadow-of-the-tomb-raider-croft-edition.json) |
+| Shadow of the Tomb Raider: Digital Deluxe Edition | 99121 | [99121-shadow-of-the-tomb-raider-digital-deluxe-edition.json](./99121-shadow-of-the-tomb-raider-digital-deluxe-edition.json) |
 | Shadow of the Tomb Raider: Limited Steelbook Edition | 198245 | [198245-shadow-of-the-tomb-raider-limited-steelbook-edition.json](./198245-shadow-of-the-tomb-raider-limited-steelbook-edition.json) |
 | Shadow of the Tomb Raider: The Grand Caiman | 116800 | [116800-shadow-of-the-tomb-raider-the-grand-caiman.json](./116800-shadow-of-the-tomb-raider-the-grand-caiman.json) |
 | Shadow of the Tomb Raider: The Nightmare | 113987 | [113987-shadow-of-the-tomb-raider-the-nightmare.json](./113987-shadow-of-the-tomb-raider-the-nightmare.json) |
 | Shadow of the Tomb Raider: The Path Home | 117711 | [117711-shadow-of-the-tomb-raider-the-path-home.json](./117711-shadow-of-the-tomb-raider-the-path-home.json) |
 | Shadow of the Tomb Raider: The Pillar | 113988 | [113988-shadow-of-the-tomb-raider-the-pillar.json](./113988-shadow-of-the-tomb-raider-the-pillar.json) |
 | Shadow of the Tomb Raider: The Serpent's Heart | 116003 | [116003-shadow-of-the-tomb-raider-the-serpents-heart.json](./116003-shadow-of-the-tomb-raider-the-serpents-heart.json) |
+| Shadow of the Tomb Raider: Ultimate Edition | 99123 | [99123-shadow-of-the-tomb-raider-ultimate-edition.json](./99123-shadow-of-the-tomb-raider-ultimate-edition.json) |
 | Shadow of the Wyrm | 77656 | [77656-shadow-of-the-wyrm.json](./77656-shadow-of-the-wyrm.json) |
 | Shadow of Winter | 374067 | [374067-shadow-of-winter.json](./374067-shadow-of-winter.json) |
 | Shadow of Witch Marionette | 210516 | [210516-shadow-of-witch-marionette.json](./210516-shadow-of-witch-marionette.json) |
@@ -6684,6 +6688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skinwoods: The Full Cut | 390737 | [390737-skinwoods-the-full-cut.json](./390737-skinwoods-the-full-cut.json) |
 | Skip Ahead | 307607 | [307607-skip-ahead.json](./307607-skip-ahead.json) |
 | Skip Around The World: Finland | 310947 | [310947-skip-around-the-world-finland.json](./310947-skip-around-the-world-finland.json) |
+| Skip's Sanity | 99072 | [99072-skips-sanity.json](./99072-skips-sanity.json) |
 | Skipchaser | 31927 | [31927-skipchaser.json](./31927-skipchaser.json) |
 | Skiplit | 27799 | [27799-skiplit.json](./27799-skiplit.json) |
 | Skipper & Skeeto: The Shadow of Mr. Shade | 22353 | [22353-skipper-and-skeeto-the-shadow-of-mr-shade.json](./22353-skipper-and-skeeto-the-shadow-of-mr-shade.json) |
@@ -9005,6 +9010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Card Games | 147883 | [147883-solitaire-card-games.json](./147883-solitaire-card-games.json) |
 | Solitaire Central | 384790 | [384790-solitaire-central.json](./384790-solitaire-central.json) |
 | Solitaire City | 76589 | [76589-solitaire-city.json](./76589-solitaire-city.json) |
+| Solitaire City Classic | 99103 | [99103-solitaire-city-classic.json](./99103-solitaire-city-classic.json) |
 | Solitaire Classic | 277564 | [277564-solitaire-classic.json](./277564-solitaire-classic.json) |
 | Solitaire Classic Online | 87092 | [87092-solitaire-classic-online.json](./87092-solitaire-classic-online.json) |
 | Solitaire Classic: Card Game | 231895 | [231895-solitaire-classic-card-game.json](./231895-solitaire-classic-card-game.json) |
@@ -13693,6 +13699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate SG-1: Unleashed - Episode 2 | 308352 | [308352-stargate-sg-1-unleashed-episode-2.json](./308352-stargate-sg-1-unleashed-episode-2.json) |
 | Stargate Worlds | 14534 | [14534-stargate-worlds.json](./14534-stargate-worlds.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
+| Stargazer program | 99070 | [99070-stargazer-program.json](./99070-stargazer-program.json) |
 | StarGazers | 245873 | [245873-stargazers.json](./245873-stargazers.json) |
 | Stargazing | 261426 | [261426-stargazing.json](./261426-stargazing.json) |
 | StarGazing | 145288 | [145288-stargazing.json](./145288-stargazing.json) |
@@ -13976,6 +13983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars Shooter | 245301 | [245301-stars-shooter.json](./245301-stars-shooter.json) |
 | Stars Survivor | 291481 | [291481-stars-survivor.json](./291481-stars-survivor.json) |
 | Stars Wheel | 175747 | [175747-stars-wheel.json](./175747-stars-wheel.json) |
+| Stars Without Number | 99095 | [99095-stars-without-number.json](./99095-stars-without-number.json) |
 | Stars, Stripes and Subgames: Collector's Edition | 308494 | [308494-stars-stripes-and-subgames-collectors-edition.json](./308494-stars-stripes-and-subgames-collectors-edition.json) |
 | Starsand | 152754 | [152754-starsand.json](./152754-starsand.json) |
 | Starsand Island | 310885 | [310885-starsand-island.json](./310885-starsand-island.json) |
