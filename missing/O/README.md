@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh no! More Lemmings | 242042 | [242042-oh-no-more-lemmings.json](./242042-oh-no-more-lemmings.json) |
 | Oh No! More Lemmings | 14481 | [14481-oh-no-more-lemmings.json](./14481-oh-no-more-lemmings.json) |
 | Oh No! More Zombies Ate My Neighbors | 38294 | [38294-oh-no-more-zombies-ate-my-neighbors.json](./38294-oh-no-more-zombies-ate-my-neighbors.json) |
+| Oh No! Ninjas! | 81707 | [81707-oh-no-ninjas.json](./81707-oh-no-ninjas.json) |
 | Oh No! UFO! | 386730 | [386730-oh-no-ufo.json](./386730-oh-no-ufo.json) |
 | Oh Noes!!1 | 91896 | [91896-oh-noes-1.json](./91896-oh-noes-1.json) |
 | Oh Putt Off! | 181678 | [181678-oh-putt-off.json](./181678-oh-putt-off.json) |
@@ -2042,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Optional Boss | 135887 | [135887-optional-boss.json](./135887-optional-boss.json) |
 | OptoLexem | 103528 | [103528-optolexem.json](./103528-optolexem.json) |
 | Opus | 181873 | [181873-opus.json](./181873-opus.json) |
+| Opus 1 - Social Justice War | 81691 | [81691-opus-1-social-justice-war.json](./81691-opus-1-social-justice-war.json) |
 | Opus Castle: Chapter II | 196107 | [196107-opus-castle-chapter-ii.json](./196107-opus-castle-chapter-ii.json) |
 | Opus Collection: The Day We Found Earth + Rocket of Whispers | 111912 | [111912-opus-collection-the-day-we-found-earth-rocket-of-whispers.json](./111912-opus-collection-the-day-we-found-earth-rocket-of-whispers.json) |
 | Opus Ludum | 169379 | [169379-opus-ludum.json](./169379-opus-ludum.json) |
@@ -2957,6 +2959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outrage | 33144 | [33144-outrage.json](./33144-outrage.json) |
 | OutRage: Fight Fest | 262662 | [262662-outrage-fight-fest.json](./262662-outrage-fight-fest.json) |
 | Outranked | 220617 | [220617-outranked.json](./220617-outranked.json) |
+| Outrealm | 81641 | [81641-outrealm.json](./81641-outrealm.json) |
 | Outrider Mako | 119655 | [119655-outrider-mako.json](./119655-outrider-mako.json) |
 | Outriders: Complete Edition | 286513 | [286513-outriders-complete-edition.json](./286513-outriders-complete-edition.json) |
 | Outriders: Day One Edition | 139917 | [139917-outriders-day-one-edition.json](./139917-outriders-day-one-edition.json) |
