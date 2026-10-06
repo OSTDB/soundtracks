@@ -3571,6 +3571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noisz: Hyun Level Pack | 317031 | [317031-noisz-hyun-level-pack.json](./317031-noisz-hyun-level-pack.json) |
 | Noitapeli | 249886 | [249886-noitapeli.json](./249886-noitapeli.json) |
 | Noitcelfer | 248128 | [248128-noitcelfer.json](./248128-noitcelfer.json) |
+| Noitu Love and the Army of Grinning Darns | 87799 | [87799-noitu-love-and-the-army-of-grinning-darns.json](./87799-noitu-love-and-the-army-of-grinning-darns.json) |
 | Noiz2sa | 335673 | [335673-noiz2sa.json](./335673-noiz2sa.json) |
 | Noiz2sa | 86033 | [86033-noiz2sa.json](./86033-noiz2sa.json) |
 | Nojong | 184380 | [184380-nojong.json](./184380-nojong.json) |
