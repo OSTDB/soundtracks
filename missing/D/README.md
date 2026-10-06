@@ -8330,6 +8330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw in the Tray | 380627 | [380627-draw-in-the-tray.json](./380627-draw-in-the-tray.json) |
 | Draw it | 415304 | [415304-draw-it.json](./415304-draw-it.json) |
 | Draw It! 2 | 107753 | [107753-draw-it-2.json](./107753-draw-it-2.json) |
+| Draw Light | 106500 | [106500-draw-light.json](./106500-draw-light.json) |
 | Draw Mania | 200155 | [200155-draw-mania.json](./200155-draw-mania.json) |
 | Draw Near | 95600 | [95600-draw-near.json](./95600-draw-near.json) |
 | Draw Nine | 135613 | [135613-draw-nine.json](./135613-draw-nine.json) |
@@ -9072,6 +9073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop That Cat | 330399 | [330399-drop-that-cat.json](./330399-drop-that-cat.json) |
 | Drop the Bomb | 99587 | [99587-drop-the-bomb.json](./99587-drop-the-bomb.json) |
 | Drop the Number | 216214 | [216214-drop-the-number.json](./216214-drop-the-number.json) |
+| Drop Up | 106497 | [106497-drop-up.json](./106497-drop-up.json) |
 | Drop Up | 178935 | [178935-drop-up.json](./178935-drop-up.json) |
 | Drop Zone | 46600 | [46600-drop-zone.json](./46600-drop-zone.json) |
 | Drop Zone 4 | 109590 | [109590-drop-zone-4.json](./109590-drop-zone-4.json) |
@@ -10095,6 +10097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust & Neon | 215894 | [215894-dust-and-neon.json](./215894-dust-and-neon.json) |
 | Dust & Rain: Post-apocalyptic RPG | 301987 | [301987-dust-and-rain-post-apocalyptic-rpg.json](./301987-dust-and-rain-post-apocalyptic-rpg.json) |
 | Dust and Aliens | 254069 | [254069-dust-and-aliens.json](./254069-dust-and-aliens.json) |
+| Dust and Echos: Vengeance | 106489 | [106489-dust-and-echos-vengeance.json](./106489-dust-and-echos-vengeance.json) |
 | Dust and Salt | 81742 | [81742-dust-and-salt.json](./81742-dust-and-salt.json) |
 | Dust and Sorcery | 385222 | [385222-dust-and-sorcery.json](./385222-dust-and-sorcery.json) |
 | Dust Bunnies | 185554 | [185554-dust-bunnies.json](./185554-dust-bunnies.json) |
@@ -10139,6 +10142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dutch Maximus: Out of the Toy Box | 217004 | [217004-dutch-maximus-out-of-the-toy-box.json](./217004-dutch-maximus-out-of-the-toy-box.json) |
 | Dutch's Chickens | 234541 | [234541-dutchs-chickens.json](./234541-dutchs-chickens.json) |
 | Duterra | 213018 | [213018-duterra.json](./213018-duterra.json) |
+| Dutiful Bulldozer | 106518 | [106518-dutiful-bulldozer.json](./106518-dutiful-bulldozer.json) |
 | Duty Calls | 80555 | [80555-duty-calls.json](./80555-duty-calls.json) |
 | Duty Free Shop Simulator | 373099 | [373099-duty-free-shop-simulator.json](./373099-duty-free-shop-simulator.json) |
 | Dvalloc | 258533 | [258533-dvalloc.json](./258533-dvalloc.json) |
