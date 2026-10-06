@@ -3375,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers Royale | 96309 | [96309-checkers-royale.json](./96309-checkers-royale.json) |
 | Checkers RPG: Online Battles | 261829 | [261829-checkers-rpg-online-battles.json](./261829-checkers-rpg-online-battles.json) |
 | Checkers Saga | 58275 | [58275-checkers-saga.json](./58275-checkers-saga.json) |
+| Checkers World | 88663 | [88663-checkers-world.json](./88663-checkers-world.json) |
 | Checkers' Village | 382190 | [382190-checkers-village.json](./382190-checkers-village.json) |
 | Checkmate Heroines | 391068 | [391068-checkmate-heroines.json](./391068-checkmate-heroines.json) |
 | Checkmate in the Wild West: Chess Adventure | 373534 | [373534-checkmate-in-the-wild-west-chess-adventure.json](./373534-checkmate-in-the-wild-west-chess-adventure.json) |
@@ -4323,6 +4324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Fishing | 419830 | [419830-christmas-fishing.json](./419830-christmas-fishing.json) |
 | Christmas Fun | 226312 | [226312-christmas-fun.json](./226312-christmas-fun.json) |
 | Christmas Griddlers | 168903 | [168903-christmas-griddlers.json](./168903-christmas-griddlers.json) |
+| Christmas Griddlers: Journey to Santa | 88653 | [88653-christmas-griddlers-journey-to-santa.json](./88653-christmas-griddlers-journey-to-santa.json) |
 | Christmas Hair Salon | 96837 | [96837-christmas-hair-salon.json](./96837-christmas-hair-salon.json) |
 | Christmas Hidden Objects | 102729 | [102729-christmas-hidden-objects.json](./102729-christmas-hidden-objects.json) |
 | Christmas Horror Land | 336538 | [336538-christmas-horror-land.json](./336538-christmas-horror-land.json) |
@@ -4344,6 +4346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Mutilator | 326235 | [326235-christmas-mutilator.json](./326235-christmas-mutilator.json) |
 | Christmas Night | 236804 | [236804-christmas-night.json](./236804-christmas-night.json) |
 | Christmas Night Archery | 77667 | [77667-christmas-night-archery.json](./77667-christmas-night-archery.json) |
+| Christmas Night Shift | 88666 | [88666-christmas-night-shift.json](./88666-christmas-night-shift.json) |
 | Christmas Otome | 125412 | [125412-christmas-otome.json](./125412-christmas-otome.json) |
 | Christmas Panic | 187307 | [187307-christmas-panic.json](./187307-christmas-panic.json) |
 | Christmas Patchwork Frozen | 286522 | [286522-christmas-patchwork-frozen.json](./286522-christmas-patchwork-frozen.json) |
@@ -4972,6 +4975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Living: Urban Stories | 106746 | [106746-city-living-urban-stories.json](./106746-city-living-urban-stories.json) |
 | City Mage 3: False Prophecy - Collector's Edition | 417520 | [417520-city-mage-3-false-prophecy-collectors-edition.json](./417520-city-mage-3-false-prophecy-collectors-edition.json) |
 | City Maker | 144220 | [144220-city-maker.json](./144220-city-maker.json) |
+| City Mysteries - Fun Seek and Find Hidden Object Puzzles | 88583 | [88583-city-mysteries-fun-seek-and-find-hidden-object-puzzles.json](./88583-city-mysteries-fun-seek-and-find-hidden-object-puzzles.json) |
 | City Night Rider | 101505 | [101505-city-night-rider.json](./101505-city-night-rider.json) |
 | City of Atlantis | 153911 | [153911-city-of-atlantis.json](./153911-city-of-atlantis.json) |
 | City of Brass | 44122 | [44122-city-of-brass.json](./44122-city-of-brass.json) |
@@ -9763,6 +9767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Dungeon | 208017 | [208017-crossword-dungeon.json](./208017-crossword-dungeon.json) |
 | Crossword Explorer | 406089 | [406089-crossword-explorer.json](./406089-crossword-explorer.json) |
 | Crossword Go | 303106 | [303106-crossword-go.json](./303106-crossword-go.json) |
+| Crossword Light | 88640 | [88640-crossword-light.json](./88640-crossword-light.json) |
 | Crossword Master | 381272 | [381272-crossword-master.json](./381272-crossword-master.json) |
 | Crossword Puzzle | 286096 | [286096-crossword-puzzle.json](./286096-crossword-puzzle.json) |
 | Crossword Safari: Word Hunt | 108630 | [108630-crossword-safari-word-hunt.json](./108630-crossword-safari-word-hunt.json) |
