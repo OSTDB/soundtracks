@@ -2467,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Humanity | 391869 | [391869-second-humanity.json](./391869-second-humanity.json) |
 | Second Novel: Kanojo no Natsu, 15fun no Kioku | 138805 | [138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json](./138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json) |
 | Second Period Chemistry | 181660 | [181660-second-period-chemistry.json](./181660-second-period-chemistry.json) |
+| Second Person Shooter Zato | 62589 | [62589-second-person-shooter-zato.json](./62589-second-person-shooter-zato.json) |
 | Second Person: Secret Laboratory | 158657 | [158657-second-person-secret-laboratory.json](./158657-second-person-secret-laboratory.json) |
 | Second Puberty | 176923 | [176923-second-puberty.json](./176923-second-puberty.json) |
 | Second Room | 302577 | [302577-second-room.json](./302577-second-room.json) |
@@ -2776,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seen | 117641 | [117641-seen.json](./117641-seen.json) |
 | Seen | 142972 | [142972-seen.json](./142972-seen.json) |
 | Seen on Screen | 225721 | [225721-seen-on-screen.json](./225721-seen-on-screen.json) |
+| SeeNa | 62590 | [62590-seena.json](./62590-seena.json) |
 | Seers Isle | 86344 | [86344-seers-isle.json](./86344-seers-isle.json) |
 | Seethe and Scab | 194359 | [194359-seethe-and-scab.json](./194359-seethe-and-scab.json) |
 | SeeYou | 381606 | [381606-seeyou.json](./381606-seeyou.json) |
@@ -4361,6 +4363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She's Outta This World | 179487 | [179487-shes-outta-this-world.json](./179487-shes-outta-this-world.json) |
 | She'sn | 267583 | [267583-shesn.json](./267583-shesn.json) |
 | Sheaf - Together EP | 120769 | [120769-sheaf-together-ep.json](./120769-sheaf-together-ep.json) |
+| Sheared | 62585 | [62585-sheared.json](./62585-sheared.json) |
 | Shechu de Fubao | 255624 | [255624-shechu-de-fubao.json](./255624-shechu-de-fubao.json) |
 | Shed | 406191 | [406191-shed.json](./406191-shed.json) |
 | Shed | 91728 | [91728-shed.json](./91728-shed.json) |
@@ -5959,6 +5962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Falls: Ghoul Busters | 208583 | [208583-silver-falls-ghoul-busters.json](./208583-silver-falls-ghoul-busters.json) |
 | Silver Falls: Guardians And Metal Exterminators S | 283722 | [283722-silver-falls-guardians-and-metal-exterminators-s.json](./283722-silver-falls-guardians-and-metal-exterminators-s.json) |
 | Silver Gene: The Mutia Chronicle 1 | 308414 | [308414-silver-gene-the-mutia-chronicle-1.json](./308414-silver-gene-the-mutia-chronicle-1.json) |
+| Silver Ghost | 62581 | [62581-silver-ghost.json](./62581-silver-ghost.json) |
 | Silver Island | 29066 | [29066-silver-island.json](./29066-silver-island.json) |
 | Silver Jiken | 84317 | [84317-silver-jiken.json](./84317-silver-jiken.json) |
 | Silver Jiken: 25-ku | 30220 | [30220-silver-jiken-25-ku.json](./30220-silver-jiken-25-ku.json) |
@@ -10865,6 +10869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fury | 8805 | [8805-space-fury.json](./8805-space-fury.json) |
 | Space Fury: The Phantom Menace | 208342 | [208342-space-fury-the-phantom-menace.json](./208342-space-fury-the-phantom-menace.json) |
 | Space Fuss | 31387 | [31387-space-fuss.json](./31387-space-fuss.json) |
+| Space Galaga | 62563 | [62563-space-galaga.json](./62563-space-galaga.json) |
 | Space Game | 312741 | [312741-space-game.json](./312741-space-game.json) |
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
 | Space Gate Rush | 259565 | [259565-space-gate-rush.json](./259565-space-gate-rush.json) |
@@ -17099,6 +17104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Brawl | 63640 | [63640-super-brawl.json](./63640-super-brawl.json) |
 | Super Brawl 2 | 63641 | [63641-super-brawl-2.json](./63641-super-brawl-2.json) |
 | Super Brawl 3: Good vs. Evil | 63643 | [63643-super-brawl-3-good-vs-evil.json](./63643-super-brawl-3-good-vs-evil.json) |
+| Super Brawl 3: Just Got Real | 62555 | [62555-super-brawl-3-just-got-real.json](./62555-super-brawl-3-just-got-real.json) |
 | Super Brawl 4 | 59042 | [59042-super-brawl-4.json](./59042-super-brawl-4.json) |
 | Super Brawl Universe | 125347 | [125347-super-brawl-universe.json](./125347-super-brawl-universe.json) |
 | Super Brawl World | 71180 | [71180-super-brawl-world.json](./71180-super-brawl-world.json) |
@@ -18011,6 +18017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Bread | 185485 | [185485-super-mega-bread.json](./185485-super-mega-bread.json) |
 | Super Mega Drive 3: 12 Super Jogos | 287345 | [287345-super-mega-drive-3-12-super-jogos.json](./287345-super-mega-drive-3-12-super-jogos.json) |
 | Super Mega Drive 3: 30 Super Jogos | 287346 | [287346-super-mega-drive-3-30-super-jogos.json](./287346-super-mega-drive-3-30-super-jogos.json) |
+| Super Mega Extreme Cyber Ortek Flier 2005 X | 62552 | [62552-super-mega-extreme-cyber-ortek-flier-2005-x.json](./62552-super-mega-extreme-cyber-ortek-flier-2005-x.json) |
 | Super Mega Hentai Collection! | 215248 | [215248-super-mega-hentai-collection.json](./215248-super-mega-hentai-collection.json) |
 | Super Mega Lucky Box | 234599 | [234599-super-mega-lucky-box.json](./234599-super-mega-lucky-box.json) |
 | Super Mega Runners | 365137 | [365137-super-mega-runners.json](./365137-super-mega-runners.json) |
