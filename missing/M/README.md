@@ -3633,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat and Metal | 261761 | [261761-meat-and-metal.json](./261761-meat-and-metal.json) |
 | Meat Beating: No More Horny | 156640 | [156640-meat-beating-no-more-horny.json](./156640-meat-beating-no-more-horny.json) |
 | Meat Boy | 92427 | [92427-meat-boy.json](./92427-meat-boy.json) |
+| Meat Cannon Golf | 106660 | [106660-meat-cannon-golf.json](./106660-meat-cannon-golf.json) |
 | Meat Cleaver Mutilator | 125258 | [125258-meat-cleaver-mutilator.json](./125258-meat-cleaver-mutilator.json) |
 | Meat Factory | 276391 | [276391-meat-factory.json](./276391-meat-factory.json) |
 | Meat Fest | 348370 | [348370-meat-fest.json](./348370-meat-fest.json) |
@@ -6769,6 +6770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Rush | 201799 | [201799-miner-rush.json](./201799-miner-rush.json) |
 | Miner Ultra Adventures 2 | 187297 | [187297-miner-ultra-adventures-2.json](./187297-miner-ultra-adventures-2.json) |
 | Miner Ultra Rag Smash | 163918 | [163918-miner-ultra-rag-smash.json](./163918-miner-ultra-rag-smash.json) |
+| Miner Ultra Wild Tides | 106494 | [106494-miner-ultra-wild-tides.json](./106494-miner-ultra-wild-tides.json) |
 | Miner: Dig Deep | 23846 | [23846-miner-dig-deep.json](./23846-miner-dig-deep.json) |
 | Miner's Hell | 158619 | [158619-miners-hell.json](./158619-miners-hell.json) |
 | Mineral | 302438 | [302438-mineral.json](./302438-mineral.json) |
@@ -6870,6 +6872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf | 209506 | [209506-mini-golf.json](./209506-mini-golf.json) |
 | Mini Golf | 209507 | [209507-mini-golf.json](./209507-mini-golf.json) |
 | Mini Golf | 246469 | [246469-mini-golf.json](./246469-mini-golf.json) |
+| Mini Golf 18 | 106515 | [106515-mini-golf-18.json](./106515-mini-golf-18.json) |
 | Mini Golf 2003 | 79593 | [79593-mini-golf-2003.json](./79593-mini-golf-2003.json) |
 | Mini Golf 3D | 117753 | [117753-mini-golf-3d.json](./117753-mini-golf-3d.json) |
 | Mini Golf Buddies | 110182 | [110182-mini-golf-buddies.json](./110182-mini-golf-buddies.json) |
@@ -8390,6 +8393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstabox | 334134 | [334134-monstabox.json](./334134-monstabox.json) |
 | MonstaFish | 79190 | [79190-monstafish.json](./79190-monstafish.json) |
 | Monstania | 42486 | [42486-monstania.json](./42486-monstania.json) |
+| Monstapals | 106482 | [106482-monstapals.json](./106482-monstapals.json) |
 | MonStar | 193971 | [193971-monstar.json](./193971-monstar.json) |
 | Monster & Me | 182466 | [182466-monster-and-me.json](./182466-monster-and-me.json) |
 | Monster 2 | 266314 | [266314-monster-2.json](./266314-monster-2.json) |
