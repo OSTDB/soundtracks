@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rake Remastered | 267007 | [267007-rake-remastered.json](./267007-rake-remastered.json) |
 | Raketenwashmachine | 149439 | [149439-raketenwashmachine.json](./149439-raketenwashmachine.json) |
 | Rakker and the Sinking Cities | 69569 | [69569-rakker-and-the-sinking-cities.json](./69569-rakker-and-the-sinking-cities.json) |
+| Raklem: War on Earth | 73456 | [73456-raklem-war-on-earth.json](./73456-raklem-war-on-earth.json) |
 | Rakoo's Adventure | 25164 | [25164-rakoos-adventure.json](./25164-rakoos-adventure.json) |
 | RaKoval~Nya: Escape Edition | 102164 | [102164-rakoval-nya-escape-edition.json](./102164-rakoval-nya-escape-edition.json) |
 | Rakshasa | 318411 | [318411-rakshasa.json](./318411-rakshasa.json) |
@@ -3015,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Refused | 397172 | [397172-rescue-refused.json](./397172-rescue-refused.json) |
 | Rescue Rina | 169797 | [169797-rescue-rina.json](./169797-rescue-rina.json) |
 | Rescue Roby | 68933 | [68933-rescue-roby.json](./68933-rescue-roby.json) |
+| Rescue Rover | 73509 | [73509-rescue-rover.json](./73509-rescue-rover.json) |
 | Rescue Rover 2 | 72110 | [72110-rescue-rover-2.json](./72110-rescue-rover-2.json) |
 | Rescue Rover Collection | 150692 | [150692-rescue-rover-collection.json](./150692-rescue-rover-collection.json) |
 | Rescue Squad | 24006 | [24006-rescue-squad.json](./24006-rescue-squad.json) |
