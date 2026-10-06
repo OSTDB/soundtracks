@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing: Breakthrough Gaming Arcade | 145668 | [145668-racing-breakthrough-gaming-arcade.json](./145668-racing-breakthrough-gaming-arcade.json) |
 | Racing: Storm Chase | 369232 | [369232-racing-storm-chase.json](./369232-racing-storm-chase.json) |
 | Rack | 140574 | [140574-rack.json](./140574-rack.json) |
+| Rack 'Em | 94961 | [94961-rack-em.json](./94961-rack-em.json) |
 | Rack 'Em Up | 66717 | [66717-rack-em-up.json](./66717-rack-em-up.json) |
 | Rack and Run | 338805 | [338805-rack-and-run.json](./338805-rack-and-run.json) |
 | Rack and Slay | 245289 | [245289-rack-and-slay.json](./245289-rack-and-slay.json) |
@@ -726,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow High: Runway Rush | 249255 | [249255-rainbow-high-runway-rush.json](./249255-rainbow-high-runway-rush.json) |
 | Rainbow Hills | 216742 | [216742-rainbow-hills.json](./216742-rainbow-hills.json) |
 | Rainbow Infinity | 232148 | [232148-rainbow-infinity.json](./232148-rainbow-infinity.json) |
+| Rainbow Invaders | 94958 | [94958-rainbow-invaders.json](./94958-rainbow-invaders.json) |
 | Rainbow Islands | 194445 | [194445-rainbow-islands.json](./194445-rainbow-islands.json) |
 | Rainbow Islands | 194448 | [194448-rainbow-islands.json](./194448-rainbow-islands.json) |
 | Rainbow Islands: Bubble Bobble 2 | 194446 | [194446-rainbow-islands-bubble-bobble-2.json](./194446-rainbow-islands-bubble-bobble-2.json) |
@@ -3225,6 +3227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resurgence | 56594 | [56594-resurgence.json](./56594-resurgence.json) |
 | Resurgence: Earth United | 71193 | [71193-resurgence-earth-united.json](./71193-resurgence-earth-united.json) |
 | Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
+| Resurrection | 94924 | [94924-resurrection.json](./94924-resurrection.json) |
 | Resurrection Core | 335267 | [335267-resurrection-core.json](./335267-resurrection-core.json) |
 | Resurrection Island: Love and Victory | 265570 | [265570-resurrection-island-love-and-victory.json](./265570-resurrection-island-love-and-victory.json) |
 | Resurrection of Santiago | 349385 | [349385-resurrection-of-santiago.json](./349385-resurrection-of-santiago.json) |
