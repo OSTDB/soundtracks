@@ -2588,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey Pink | 175177 | [175177-air-hockey-pink.json](./175177-air-hockey-pink.json) |
 | Air Hockey Puzzles | 196643 | [196643-air-hockey-puzzles.json](./196643-air-hockey-puzzles.json) |
 | Air Hockey Simulator | 379525 | [379525-air-hockey-simulator.json](./379525-air-hockey-simulator.json) |
+| Air Hockey XL | 100276 | [100276-air-hockey-xl.json](./100276-air-hockey-xl.json) |
 | Air Hockey-fuu: Soukai Taisen Action Game - Breaking Beats! | 250444 | [250444-air-hockey-fuu-soukai-taisen-action-game-breaking-beats.json](./250444-air-hockey-fuu-soukai-taisen-action-game-breaking-beats.json) |
 | Air Hockey: Casual Table Arcade | 306526 | [306526-air-hockey-casual-table-arcade.json](./306526-air-hockey-casual-table-arcade.json) |
 | Air Hockey: Championship 3D+ | 239889 | [239889-air-hockey-championship-3d.json](./239889-air-hockey-championship-3d.json) |
@@ -3902,6 +3903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha and Omega | 98810 | [98810-alpha-and-omega.json](./98810-alpha-and-omega.json) |
 | Alpha Beam With Ernie | 3252 | [3252-alpha-beam-with-ernie.json](./3252-alpha-beam-with-ernie.json) |
 | Alpha Black Zero: Intrepid Protocol | 73232 | [73232-alpha-black-zero-intrepid-protocol.json](./73232-alpha-black-zero-intrepid-protocol.json) |
+| Alpha Blaster | 100284 | [100284-alpha-blaster.json](./100284-alpha-blaster.json) |
 | Alpha Centauri | 261818 | [261818-alpha-centauri.json](./261818-alpha-centauri.json) |
 | Alpha Centauri Space Force | 156165 | [156165-alpha-centauri-space-force.json](./156165-alpha-centauri-space-force.json) |
 | Alpha Ceti TD | 389741 | [389741-alpha-ceti-td.json](./389741-alpha-ceti-td.json) |
@@ -3927,6 +3929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Shield | 59837 | [59837-alpha-shield.json](./59837-alpha-shield.json) |
 | Alpha Sorcerer | 245996 | [245996-alpha-sorcerer.json](./245996-alpha-sorcerer.json) |
 | Alpha Spectrum | 400493 | [400493-alpha-spectrum.json](./400493-alpha-spectrum.json) |
+| Alpha Squad | 100260 | [100260-alpha-squad.json](./100260-alpha-squad.json) |
 | Alpha Squadron | 358921 | [358921-alpha-squadron.json](./358921-alpha-squadron.json) |
 | Alpha Squirrel | 183517 | [183517-alpha-squirrel.json](./183517-alpha-squirrel.json) |
 | Alpha Terminus | 226216 | [226216-alpha-terminus.json](./226216-alpha-terminus.json) |
