@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tadeo Jones y el Manuscrito Perdido | 82043 | [82043-tadeo-jones-y-el-manuscrito-perdido.json](./82043-tadeo-jones-y-el-manuscrito-perdido.json) |
 | Tadpole Swimmer | 110822 | [110822-tadpole-swimmer.json](./110822-tadpole-swimmer.json) |
 | Tadpole Treble Encore | 142698 | [142698-tadpole-treble-encore.json](./142698-tadpole-treble-encore.json) |
+| Tae Bo Girl Dress Up | 62596 | [62596-tae-bo-girl-dress-up.json](./62596-tae-bo-girl-dress-up.json) |
 | TaekwonGirl | 329087 | [329087-taekwongirl.json](./329087-taekwongirl.json) |
 | Taern | 55929 | [55929-taern.json](./55929-taern.json) |
 | Tafl PTK | 296997 | [296997-tafl-ptk.json](./296997-tafl-ptk.json) |
@@ -958,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tall Poppy | 172550 | [172550-tall-poppy.json](./172550-tall-poppy.json) |
 | Tall Ships: Age of Sail | 256537 | [256537-tall-ships-age-of-sail.json](./256537-tall-ships-age-of-sail.json) |
 | Tall Tales | 239139 | [239139-tall-tales.json](./239139-tall-tales.json) |
+| Tall Twins Tower | 62547 | [62547-tall-twins-tower.json](./62547-tall-twins-tower.json) |
 | Tallawa Game Nights | 415894 | [415894-tallawa-game-nights.json](./415894-tallawa-game-nights.json) |
 | Tally Castle | 182857 | [182857-tally-castle.json](./182857-tally-castle.json) |
 | Tally Man | 412399 | [412399-tally-man.json](./412399-tally-man.json) |
@@ -4199,6 +4201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cold War Era 2 | 132791 | [132791-the-cold-war-era-2.json](./132791-the-cold-war-era-2.json) |
 | The Coldest Winter | 293617 | [293617-the-coldest-winter.json](./293617-the-coldest-winter.json) |
 | The Collar | 268230 | [268230-the-collar.json](./268230-the-collar.json) |
+| The Collectables | 62548 | [62548-the-collectables.json](./62548-the-collectables.json) |
 | The Collection | 296390 | [296390-the-collection.json](./296390-the-collection.json) |
 | The Collective | 416835 | [416835-the-collective.json](./416835-the-collective.json) |
 | The Collector | 238210 | [238210-the-collector.json](./238210-the-collector.json) |
@@ -6138,6 +6141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hundred Year Kingdom | 151737 | [151737-the-hundred-year-kingdom.json](./151737-the-hundred-year-kingdom.json) |
 | The Hundred Youkai Master | 346674 | [346674-the-hundred-youkai-master.json](./346674-the-hundred-youkai-master.json) |
 | The Hunger Games Adventures | 57708 | [57708-the-hunger-games-adventures.json](./57708-the-hunger-games-adventures.json) |
+| The Hunger Games: Catching Fire - Panem Run | 62600 | [62600-the-hunger-games-catching-fire-panem-run.json](./62600-the-hunger-games-catching-fire-panem-run.json) |
 | The Hunger: Games Ensemble | 164914 | [164914-the-hunger-games-ensemble.json](./164914-the-hunger-games-ensemble.json) |
 | The Hungry House | 179502 | [179502-the-hungry-house.json](./179502-the-hungry-house.json) |
 | The Hungry Witch and the Gourmet Dish | 185157 | [185157-the-hungry-witch-and-the-gourmet-dish.json](./185157-the-hungry-witch-and-the-gourmet-dish.json) |
@@ -8958,6 +8962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scene Of the Crime | 383374 | [383374-the-scene-of-the-crime.json](./383374-the-scene-of-the-crime.json) |
 | The Scenic Treasures - Japanese Learning Visual Novel | 112927 | [112927-the-scenic-treasures-japanese-learning-visual-novel.json](./112927-the-scenic-treasures-japanese-learning-visual-novel.json) |
 | The Scent of Home | 181729 | [181729-the-scent-of-home.json](./181729-the-scent-of-home.json) |
+| The Scheme | 62582 | [62582-the-scheme.json](./62582-the-scheme.json) |
 | The School: White Day | 89861 | [89861-the-school-white-day.json](./89861-the-school-white-day.json) |
 | The Scientist Battles | 359559 | [359559-the-scientist-battles.json](./359559-the-scientist-battles.json) |
 | The Scientists' Secret: Hidden Object Game | 259542 | [259542-the-scientists-secret-hidden-object-game.json](./259542-the-scientists-secret-hidden-object-game.json) |
@@ -13637,6 +13642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Light: Ex Umbra | 102370 | [102370-to-light-ex-umbra.json](./102370-to-light-ex-umbra.json) |
 | To Love Ru x 2 | 97376 | [97376-to-love-ru-x-2.json](./97376-to-love-ru-x-2.json) |
 | To Love-ru Darkness Gravure Chance | 175683 | [175683-to-love-ru-darkness-gravure-chance.json](./175683-to-love-ru-darkness-gravure-chance.json) |
+| To Love-Ru Darkness: Battle Ecstasy | 62587 | [62587-to-love-ru-darkness-battle-ecstasy.json](./62587-to-love-ru-darkness-battle-ecstasy.json) |
 | To Make a Game | 192889 | [192889-to-make-a-game.json](./192889-to-make-a-game.json) |
 | To Mortal Dust | 260217 | [260217-to-mortal-dust.json](./260217-to-mortal-dust.json) |
 | To My Best Friend | 149545 | [149545-to-my-best-friend.json](./149545-to-my-best-friend.json) |
@@ -14252,6 +14258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tome of Talis: A Dice Conquest Game | 388299 | [388299-tome-of-talis-a-dice-conquest-game.json](./388299-tome-of-talis-a-dice-conquest-game.json) |
 | Tome of the Damned | 380081 | [380081-tome-of-the-damned.json](./380081-tome-of-the-damned.json) |
 | Tome of the Sun | 112118 | [112118-tome-of-the-sun.json](./112118-tome-of-the-sun.json) |
+| Tome: Immortal Arena | 62570 | [62570-tome-immortal-arena.json](./62570-tome-immortal-arena.json) |
 | Tomeling | 85448 | [85448-tomeling.json](./85448-tomeling.json) |
 | Tomeling in Trouble | 85447 | [85447-tomeling-in-trouble.json](./85447-tomeling-in-trouble.json) |
 | TomeNet | 98397 | [98397-tomenet.json](./98397-tomenet.json) |
