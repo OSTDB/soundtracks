@@ -3278,6 +3278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resurrection of Santiago | 349385 | [349385-resurrection-of-santiago.json](./349385-resurrection-of-santiago.json) |
 | Resurrection of Soul Drain | 187902 | [187902-resurrection-of-soul-drain.json](./187902-resurrection-of-soul-drain.json) |
 | Resurrection: New Mexico - Collector's Edition | 125310 | [125310-resurrection-new-mexico-collectors-edition.json](./125310-resurrection-new-mexico-collectors-edition.json) |
+| Resurrection: The Return of the Black Dragon | 63094 | [63094-resurrection-the-return-of-the-black-dragon.json](./63094-resurrection-the-return-of-the-black-dragon.json) |
 | Resurrector | 126624 | [126624-resurrector.json](./126624-resurrector.json) |
 | Resurviv.biz: Battle Royale | 373642 | [373642-resurviv-biz-battle-royale.json](./373642-resurviv-biz-battle-royale.json) |
 | Resver | 392273 | [392273-resver.json](./392273-resver.json) |
@@ -5917,6 +5918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
 | Romance is Dead | 273098 | [273098-romance-is-dead.json](./273098-romance-is-dead.json) |
 | Romance MD: Always on Call | 239207 | [239207-romance-md-always-on-call.json](./239207-romance-md-always-on-call.json) |
+| Romance of the Forgotten Kingdom | 63109 | [63109-romance-of-the-forgotten-kingdom.json](./63109-romance-of-the-forgotten-kingdom.json) |
 | Romance of the Three Kingdom Touch | 21956 | [21956-romance-of-the-three-kingdom-touch.json](./21956-romance-of-the-three-kingdom-touch.json) |
 | Romance of The Three Kingdoms 8 Remake: Digital Deluxe Edition | 317904 | [317904-romance-of-the-three-kingdoms-8-remake-digital-deluxe-edition.json](./317904-romance-of-the-three-kingdoms-8-remake-digital-deluxe-edition.json) |
 | Romance of the Three Kingdoms Hadou | 371351 | [371351-romance-of-the-three-kingdoms-hadou.json](./371351-romance-of-the-three-kingdoms-hadou.json) |
