@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Blaster Code Red | 85168 | [85168-galaxy-blaster-code-red.json](./85168-galaxy-blaster-code-red.json) |
 | Galaxy Boom - Defend Planet | 108487 | [108487-galaxy-boom-defend-planet.json](./108487-galaxy-boom-defend-planet.json) |
 | Galaxy Bowling | 101540 | [101540-galaxy-bowling.json](./101540-galaxy-bowling.json) |
+| Galaxy Brawl | 97439 | [97439-galaxy-brawl.json](./97439-galaxy-brawl.json) |
 | Galaxy Bricks | 274045 | [274045-galaxy-bricks.json](./274045-galaxy-bricks.json) |
 | Galaxy Cannon Rider | 33051 | [33051-galaxy-cannon-rider.json](./33051-galaxy-cannon-rider.json) |
 | Galaxy Cocoa | 363573 | [363573-galaxy-cocoa.json](./363573-galaxy-cocoa.json) |
@@ -1876,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Off Work | 379031 | [379031-get-off-work.json](./379031-get-off-work.json) |
 | Get Ogre It | 141747 | [141747-get-ogre-it.json](./141747-get-ogre-it.json) |
 | Get on Slime Level | 393614 | [393614-get-on-slime-level.json](./393614-get-on-slime-level.json) |
+| Get on Top! | 97452 | [97452-get-on-top.json](./97452-get-on-top.json) |
 | Get Order! | 274465 | [274465-get-order.json](./274465-get-order.json) |
 | Get Out | 287099 | [287099-get-out.json](./287099-get-out.json) |
 | Get Out | 395537 | [395537-get-out.json](./395537-get-out.json) |
@@ -1904,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Them To Safety | 374053 | [374053-get-them-to-safety.json](./374053-get-them-to-safety.json) |
 | Get Tilted! :) | 304819 | [304819-get-tilted.json](./304819-get-tilted.json) |
 | Get to a Gun | 110511 | [110511-get-to-a-gun.json](./110511-get-to-a-gun.json) |
+| Get to tha Choppa!!1 | 97450 | [97450-get-to-tha-choppa-1.json](./97450-get-to-tha-choppa-1.json) |
 | Get to the Gate | 235692 | [235692-get-to-the-gate.json](./235692-get-to-the-gate.json) |
 | Get to the Top 2: Breakthrough Gaming Arcade | 200726 | [200726-get-to-the-top-2-breakthrough-gaming-arcade.json](./200726-get-to-the-top-2-breakthrough-gaming-arcade.json) |
 | Get to the Top Although There Is No Top!! | 286572 | [286572-get-to-the-top-although-there-is-no-top.json](./286572-get-to-the-top-although-there-is-no-top.json) |
@@ -5905,6 +5908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns, Gore & Cannoli 1 & 2 | 133772 | [133772-guns-gore-and-cannoli-1-and-2.json](./133772-guns-gore-and-cannoli-1-and-2.json) |
 | Guns'n'Glory | 95410 | [95410-gunsnglory.json](./95410-gunsnglory.json) |
 | Guns'n'Glory Heroes | 68958 | [68958-gunsnglory-heroes.json](./68958-gunsnglory-heroes.json) |
+| Guns'n'Glory WW2 | 97445 | [97445-gunsnglory-ww2.json](./97445-gunsnglory-ww2.json) |
 | Guns'n'Glory Zombies | 296073 | [296073-gunsnglory-zombies.json](./296073-gunsnglory-zombies.json) |
 | GunsBox VR | 188431 | [188431-gunsbox-vr.json](./188431-gunsbox-vr.json) |
 | Gunscape | 17010 | [17010-gunscape.json](./17010-gunscape.json) |
