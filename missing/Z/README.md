@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Spring Episode 1 | 112125 | [112125-zero-spring-episode-1.json](./112125-zero-spring-episode-1.json) |
 | Zero spring episode 2 | 112370 | [112370-zero-spring-episode-2.json](./112370-zero-spring-episode-2.json) |
 | Zero spring episode 3 | 114305 | [114305-zero-spring-episode-3.json](./114305-zero-spring-episode-3.json) |
+| Zero Sum Future | 107751 | [107751-zero-sum-future.json](./107751-zero-sum-future.json) |
 | Zero Target | 272797 | [272797-zero-target.json](./272797-zero-target.json) |
 | Zero Team USA | 40207 | [40207-zero-team-usa.json](./40207-zero-team-usa.json) |
 | Zero the Kamikaze Squirrel | 38405 | [38405-zero-the-kamikaze-squirrel.json](./38405-zero-the-kamikaze-squirrel.json) |
@@ -684,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiarc Ring | 331146 | [331146-zodiarc-ring.json](./331146-zodiarc-ring.json) |
 | Zodiax | 383378 | [383378-zodiax.json](./383378-zodiax.json) |
 | ZodiaX | 259849 | [259849-zodiax.json](./259849-zodiax.json) |
+| Zodicat | 107752 | [107752-zodicat.json](./107752-zodicat.json) |
 | Zoe and the Cursed Dreamer | 402282 | [402282-zoe-and-the-cursed-dreamer.json](./402282-zoe-and-the-cursed-dreamer.json) |
 | Zoelie | 161169 | [161169-zoelie.json](./161169-zoelie.json) |
 | Zoey 101 | 18325 | [18325-zoey-101.json](./18325-zoey-101.json) |
