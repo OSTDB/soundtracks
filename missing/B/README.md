@@ -3079,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty from Wisdom | 236372 | [236372-beauty-from-wisdom.json](./236372-beauty-from-wisdom.json) |
 | Beauty Jigsaw: Image Pack | 357874 | [357874-beauty-jigsaw-image-pack.json](./357874-beauty-jigsaw-image-pack.json) |
 | Beauty Lawyer Victoria 2 | 200058 | [200058-beauty-lawyer-victoria-2.json](./200058-beauty-lawyer-victoria-2.json) |
+| Beauty List | 92133 | [92133-beauty-list.json](./92133-beauty-list.json) |
 | Beauty or the Beast | 165517 | [165517-beauty-or-the-beast.json](./165517-beauty-or-the-beast.json) |
 | Beauty Rental Shop | 203286 | [203286-beauty-rental-shop.json](./203286-beauty-rental-shop.json) |
 | Beauty Showdown: Awakening | 273088 | [273088-beauty-showdown-awakening.json](./273088-beauty-showdown-awakening.json) |
@@ -5617,6 +5618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitzr Ball | 338864 | [338864-blitzr-ball.json](./338864-blitzr-ball.json) |
 | Blix & Chocolate Mine | 145031 | [145031-blix-and-chocolate-mine.json](./145031-blix-and-chocolate-mine.json) |
 | Blixten Quest | 110917 | [110917-blixten-quest.json](./110917-blixten-quest.json) |
+| Blizzard | 92141 | [92141-blizzard.json](./92141-blizzard.json) |
 | Blizzard Blowout 64 | 177563 | [177563-blizzard-blowout-64.json](./177563-blizzard-blowout-64.json) |
 | Blizzard World | 175276 | [175276-blizzard-world.json](./175276-blizzard-world.json) |
 | Bloat | 138620 | [138620-bloat.json](./138620-bloat.json) |
@@ -9344,6 +9346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletz | 275111 | [275111-bulletz.json](./275111-bulletz.json) |
 | Bullfight Ring no Hasha | 59428 | [59428-bullfight-ring-no-hasha.json](./59428-bullfight-ring-no-hasha.json) |
 | Bullring | 281373 | [281373-bullring.json](./281373-bullring.json) |
+| Bulls and Bears | 92154 | [92154-bulls-and-bears.json](./92154-bulls-and-bears.json) |
 | Bulls and Cows | 210592 | [210592-bulls-and-cows.json](./210592-bulls-and-cows.json) |
 | Bulls town | 112749 | [112749-bulls-town.json](./112749-bulls-town.json) |
 | Bulls Vs Blazers and the NBA Playoffs | 42638 | [42638-bulls-vs-blazers-and-the-nba-playoffs.json](./42638-bulls-vs-blazers-and-the-nba-playoffs.json) |
