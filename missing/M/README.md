@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.I.N.D. | 95234 | [95234-m-i-n-d.json](./95234-m-i-n-d.json) |
 | M.O.O.D.S. | 199487 | [199487-m-o-o-d-s.json](./199487-m-o-o-d-s.json) |
 | M.o.o.n. | 243951 | [243951-m-o-o-n.json](./243951-m-o-o-n.json) |
+| M.O.R.E. | 97979 | [97979-m-o-r-e.json](./97979-m-o-r-e.json) |
 | M.o.u.s.e. Game | 339898 | [339898-m-o-u-s-e-game.json](./339898-m-o-u-s-e-game.json) |
 | M.O.Z.O.X.: Space Salvager | 209157 | [209157-m-o-z-o-x-space-salvager.json](./209157-m-o-z-o-x-space-salvager.json) |
 | M.S. Salmon | 211236 | [211236-m-s-salmon.json](./211236-m-s-salmon.json) |
@@ -5183,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Messy Up | 263771 | [263771-messy-up.json](./263771-messy-up.json) |
 | Mestres da Pangada | 307683 | [307683-mestres-da-pangada.json](./307683-mestres-da-pangada.json) |
 | Mestroids | 313195 | [313195-mestroids.json](./313195-mestroids.json) |
+| Mesubuta Chokyo Monogatari | 97996 | [97996-mesubuta-chokyo-monogatari.json](./97996-mesubuta-chokyo-monogatari.json) |
 | Mesudoku | 400866 | [400866-mesudoku.json](./400866-mesudoku.json) |
 | Mesuinu Moon | 97510 | [97510-mesuinu-moon.json](./97510-mesuinu-moon.json) |
 | Met Rage | 122970 | [122970-met-rage.json](./122970-met-rage.json) |
@@ -5615,6 +5617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mia and the Dragon Princess | 212737 | [212737-mia-and-the-dragon-princess.json](./212737-mia-and-the-dragon-princess.json) |
 | Mia Fey: Ace Spirit Attorney | 303005 | [303005-mia-fey-ace-spirit-attorney.json](./303005-mia-fey-ace-spirit-attorney.json) |
 | Mia Hamm Soccer | 362900 | [362900-mia-hamm-soccer.json](./362900-mia-hamm-soccer.json) |
+| Mia Hamm Soccer Shootout | 98004 | [98004-mia-hamm-soccer-shootout.json](./98004-mia-hamm-soccer-shootout.json) |
 | MIA Online | 135806 | [135806-mia-online.json](./135806-mia-online.json) |
 | MIA: Memory Fragments | 404202 | [404202-mia-memory-fragments.json](./404202-mia-memory-fragments.json) |
 | Mia's Christmas 2 | 229165 | [229165-mias-christmas-2.json](./229165-mias-christmas-2.json) |
@@ -7753,6 +7756,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moai III: Trade Mission - Collector's Edition | 53382 | [53382-moai-iii-trade-mission-collectors-edition.json](./53382-moai-iii-trade-mission-collectors-edition.json) |
 | Moai IV: Terra Incognita | 53381 | [53381-moai-iv-terra-incognita.json](./53381-moai-iv-terra-incognita.json) |
 | Moaisland | 298140 | [298140-moaisland.json](./298140-moaisland.json) |
+| Moana: Island Life | 97982 | [97982-moana-island-life.json](./97982-moana-island-life.json) |
+| Moana: Rhythm Run | 97981 | [97981-moana-rhythm-run.json](./97981-moana-rhythm-run.json) |
 | MOAR: Appeteaser | 209718 | [209718-moar-appeteaser.json](./209718-moar-appeteaser.json) |
 | Mob Control | 227808 | [227808-mob-control.json](./227808-mob-control.json) |
 | Mob Control: Champions | 277900 | [277900-mob-control-champions.json](./277900-mob-control-champions.json) |
@@ -9137,6 +9142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mora: Mining for Freedom | 373747 | [373747-mora-mining-for-freedom.json](./373747-mora-mining-for-freedom.json) |
 | Moraff's Entrap | 69815 | [69815-moraffs-entrap.json](./69815-moraffs-entrap.json) |
 | Moraff's Escapade | 135666 | [135666-moraffs-escapade.json](./135666-moraffs-escapade.json) |
+| Moraff's MahJongg XIV International | 97969 | [97969-moraffs-mahjongg-xiv-international.json](./97969-moraffs-mahjongg-xiv-international.json) |
 | Moraff's Maximum Mahjongg 2 | 24077 | [24077-moraffs-maximum-mahjongg-2.json](./24077-moraffs-maximum-mahjongg-2.json) |
 | Moraff's Maximum Mahjongg 3 | 202186 | [202186-moraffs-maximum-mahjongg-3.json](./202186-moraffs-maximum-mahjongg-3.json) |
 | Moraff's World | 74053 | [74053-moraffs-world.json](./74053-moraffs-world.json) |
