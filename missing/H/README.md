@@ -4819,6 +4819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Solitaire Easter | 173070 | [173070-holiday-solitaire-easter.json](./173070-holiday-solitaire-easter.json) |
 | Holiday Time | 191086 | [191086-holiday-time.json](./191086-holiday-time.json) |
 | Holiday with Gwen | 213485 | [213485-holiday-with-gwen.json](./213485-holiday-with-gwen.json) |
+| Holiday World | 93126 | [93126-holiday-world.json](./93126-holiday-world.json) |
 | Holidays | 167567 | [167567-holidays.json](./167567-holidays.json) |
 | Hollenburg: Hell Castle | 256259 | [256259-hollenburg-hell-castle.json](./256259-hollenburg-hell-castle.json) |
 | Höllische Nachbarn | 92979 | [92979-hollische-nachbarn.json](./92979-hollische-nachbarn.json) |
