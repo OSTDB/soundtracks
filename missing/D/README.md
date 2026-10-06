@@ -5796,6 +5796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disorder | 229692 | [229692-disorder.json](./229692-disorder.json) |
 | Disorder | 229817 | [229817-disorder.json](./229817-disorder.json) |
 | Disorder: Save Your Family | 307243 | [307243-disorder-save-your-family.json](./307243-disorder-save-your-family.json) |
+| Disorder6 | 63124 | [63124-disorder6.json](./63124-disorder6.json) |
 | Disorderly | 319142 | [319142-disorderly.json](./319142-disorderly.json) |
 | Disorderly | 356625 | [356625-disorderly.json](./356625-disorderly.json) |
 | Disoriented | 76212 | [76212-disoriented.json](./76212-disoriented.json) |
