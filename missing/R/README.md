@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rantou Proresu | 83211 | [83211-rantou-proresu.json](./83211-rantou-proresu.json) |
 | Ranveer vs. Wild With Bear Grylls | 256869 | [256869-ranveer-vs-wild-with-bear-grylls.json](./256869-ranveer-vs-wild-with-bear-grylls.json) |
 | Ranx | 77645 | [77645-ranx.json](./77645-ranx.json) |
+| Rap Attack: 2pacalypse Now | 92683 | [92683-rap-attack-2pacalypse-now.json](./92683-rap-attack-2pacalypse-now.json) |
 | Rap Basketball | 37870 | [37870-rap-basketball.json](./37870-rap-basketball.json) |
 | Rap Quest | 295037 | [295037-rap-quest.json](./295037-rap-quest.json) |
 | Rap Simulator | 250303 | [250303-rap-simulator.json](./250303-rap-simulator.json) |
@@ -1439,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re-telling | 176955 | [176955-re-telling.json](./176955-re-telling.json) |
 | Re-Volt | 3585 | [3585-re-volt.json](./3585-re-volt.json) |
 | Re-Volt OpenGL | 257552 | [257552-re-volt-opengl.json](./257552-re-volt-opengl.json) |
+| Re-wind | 92658 | [92658-re-wind.json](./92658-re-wind.json) |
 | Re-wind 2005 | 70428 | [70428-re-wind-2005.json](./70428-re-wind-2005.json) |
 | Re;flection | 191675 | [191675-re-flection.json](./191675-re-flection.json) |
 | Re;Lord 1: The Witch of Herfort and Stuffed Animals | 90256 | [90256-re-lord-1-the-witch-of-herfort-and-stuffed-animals.json](./90256-re-lord-1-the-witch-of-herfort-and-stuffed-animals.json) |
