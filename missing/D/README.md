@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damocles Gaze | 172666 | [172666-damocles-gaze.json](./172666-damocles-gaze.json) |
 | Damocles: Mission Disk 1 | 15502 | [15502-damocles-mission-disk-1.json](./15502-damocles-mission-disk-1.json) |
 | Damon and Baby: Deluxe Edition | 390527 | [390527-damon-and-baby-deluxe-edition.json](./390527-damon-and-baby-deluxe-edition.json) |
+| Dämonenburg | 91586 | [91586-damonenburg.json](./91586-damonenburg.json) |
 | Damoria | 196273 | [196273-damoria.json](./196273-damoria.json) |
 | Damper/Glooper | 319577 | [319577-damper-glooper.json](./319577-damper-glooper.json) |
 | Dampftraum | 201111 | [201111-dampftraum.json](./201111-dampftraum.json) |
@@ -1264,6 +1265,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Das Geheimnis der Ägyptischen Mumie | 92285 | [92285-das-geheimnis-der-agyptischen-mumie.json](./92285-das-geheimnis-der-agyptischen-mumie.json) |
 | Das Magische Labyrinth | 301499 | [301499-das-magische-labyrinth.json](./301499-das-magische-labyrinth.json) |
 | Das Milliarden-Quiz | 94533 | [94533-das-milliarden-quiz.json](./94533-das-milliarden-quiz.json) |
+| Das neue Dr. Brain Gehirn Jogging | 91613 | [91613-das-neue-dr-brain-gehirn-jogging.json](./91613-das-neue-dr-brain-gehirn-jogging.json) |
+| Das neue Dr. Brain Gehirn Jogging Deluxe Version | 91605 | [91605-das-neue-dr-brain-gehirn-jogging-deluxe-version.json](./91605-das-neue-dr-brain-gehirn-jogging-deluxe-version.json) |
 | Das neue Dr. Brain Gehirn Jogging Vol.2 | 98815 | [98815-das-neue-dr-brain-gehirn-jogging-vol-2.json](./98815-das-neue-dr-brain-gehirn-jogging-vol-2.json) |
 | Das neue Dr.Brain Gehirnjogging Vol.3 | 98805 | [98805-das-neue-dr-brain-gehirnjogging-vol-3.json](./98805-das-neue-dr-brain-gehirnjogging-vol-3.json) |
 | Das Rätsel in Ägypten | 81399 | [81399-das-ratsel-in-agypten.json](./81399-das-ratsel-in-agypten.json) |
@@ -3157,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delirium VR | 116224 | [116224-delirium-vr.json](./116224-delirium-vr.json) |
 | Delirium: Bad Trip Edition | 86570 | [86570-delirium-bad-trip-edition.json](./86570-delirium-bad-trip-edition.json) |
 | Delirium: Echoes of the Domino | 360654 | [360654-delirium-echoes-of-the-domino.json](./360654-delirium-echoes-of-the-domino.json) |
+| Deliro | 91590 | [91590-deliro.json](./91590-deliro.json) |
 | Delisoba Deluxe | 213864 | [213864-delisoba-deluxe.json](./213864-delisoba-deluxe.json) |
 | DeliSpace | 291441 | [291441-delispace.json](./291441-delispace.json) |
 | Deliver This! | 365152 | [365152-deliver-this.json](./365152-deliver-this.json) |
@@ -3650,6 +3654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Planer | 86048 | [86048-der-planer.json](./86048-der-planer.json) |
 | Der Planer 3 | 92964 | [92964-der-planer-3.json](./92964-der-planer-3.json) |
 | Der Schatz im Silbersee | 72045 | [72045-der-schatz-im-silbersee.json](./72045-der-schatz-im-silbersee.json) |
+| Der Spiel Tipp | 91607 | [91607-der-spiel-tipp.json](./91607-der-spiel-tipp.json) |
 | Der Wanderer über dem Säuremeer | 271231 | [271231-der-wanderer-uber-dem-sauremeer.json](./271231-der-wanderer-uber-dem-sauremeer.json) |
 | Der Weichensteller: Odyssey Live | 309108 | [309108-der-weichensteller-odyssey-live.json](./309108-der-weichensteller-odyssey-live.json) |
 | Der Zorn Gottes | 308241 | [308241-der-zorn-gottes.json](./308241-der-zorn-gottes.json) |
@@ -4218,6 +4223,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deuteros: The Next Millennium | 9575 | [9575-deuteros-the-next-millennium.json](./9575-deuteros-the-next-millennium.json) |
 | Deutsch 1.-4: Klasse - Fit fuers Gymnasium | 269746 | [269746-deutsch-1-4-klasse-fit-fuers-gymnasium.json](./269746-deutsch-1-4-klasse-fit-fuers-gymnasium.json) |
 | Deutsch 1.-4. Klasse 2012 | 269747 | [269747-deutsch-1-4-klasse-2012.json](./269747-deutsch-1-4-klasse-2012.json) |
+| Deutsch für Zwerge 2 | 91623 | [91623-deutsch-fur-zwerge-2.json](./91623-deutsch-fur-zwerge-2.json) |
+| Deutsch Pfiffikus 2009 | 91621 | [91621-deutsch-pfiffikus-2009.json](./91621-deutsch-pfiffikus-2009.json) |
 | Deutschland sucht den Superstar | 130904 | [130904-deutschland-sucht-den-superstar.json](./130904-deutschland-sucht-den-superstar.json) |
 | Dev Inc | 152835 | [152835-dev-inc.json](./152835-dev-inc.json) |
 | Dev_me | 111945 | [111945-dev-me.json](./111945-dev-me.json) |
@@ -6591,6 +6598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Be Afraid | 80904 | [80904-dont-be-afraid.json](./80904-dont-be-afraid.json) |
 | Don't Be Afraid 2 | 287825 | [287825-dont-be-afraid-2.json](./287825-dont-be-afraid-2.json) |
 | Don't Be Greedy | 233522 | [233522-dont-be-greedy.json](./233522-dont-be-greedy.json) |
+| Don't Be Nervous Talking to Girls | 91628 | [91628-dont-be-nervous-talking-to-girls.json](./91628-dont-be-nervous-talking-to-girls.json) |
 | Don't Blame You | 229809 | [229809-dont-blame-you.json](./229809-dont-blame-you.json) |
 | Don't Blink | 155980 | [155980-dont-blink.json](./155980-dont-blink.json) |
 | Don't Break My Heart | 273911 | [273911-dont-break-my-heart.json](./273911-dont-break-my-heart.json) |
@@ -7665,11 +7673,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Umgebung's School of Life | 128992 | [128992-dr-umgebungs-school-of-life.json](./128992-dr-umgebungs-school-of-life.json) |
 | Dr. Wise: Medical Mysteries | 65185 | [65185-dr-wise-medical-mysteries.json](./65185-dr-wise-medical-mysteries.json) |
 | Dr. Woo's Twisted Clone Shop | 343996 | [343996-dr-woos-twisted-clone-shop.json](./343996-dr-woos-twisted-clone-shop.json) |
+| Dr.Brain Gehirn Jogging Frühjahrsedition | 91612 | [91612-dr-brain-gehirn-jogging-fruhjahrsedition.json](./91612-dr-brain-gehirn-jogging-fruhjahrsedition.json) |
+| Dr.Brain Nonogram PC | 91600 | [91600-dr-brain-nonogram-pc.json](./91600-dr-brain-nonogram-pc.json) |
 | Dr.Green | 36001 | [36001-dr-green.json](./36001-dr-green.json) |
 | Dr.Meep | 103676 | [103676-dr-meep.json](./103676-dr-meep.json) |
 | Dr.Pumpkin | 210678 | [210678-dr-pumpkin.json](./210678-dr-pumpkin.json) |
 | Dr.Roland | 270768 | [270768-dr-roland.json](./270768-dr-roland.json) |
+| Dr.Tool Augen Training | 91615 | [91615-dr-tool-augen-training.json](./91615-dr-tool-augen-training.json) |
+| Dr.Tool Augen Training 2 | 91616 | [91616-dr-tool-augen-training-2.json](./91616-dr-tool-augen-training-2.json) |
 | Dr.Tool Gehirn Sport | 81395 | [81395-dr-tool-gehirn-sport.json](./81395-dr-tool-gehirn-sport.json) |
+| Dr.Tool Lern Coach für Kinder | 91598 | [91598-dr-tool-lern-coach-fur-kinder.json](./91598-dr-tool-lern-coach-fur-kinder.json) |
+| Dr.Tool Logik Trainer | 91599 | [91599-dr-tool-logik-trainer.json](./91599-dr-tool-logik-trainer.json) |
+| Dr.Tool Mathe Trainer | 91617 | [91617-dr-tool-mathe-trainer.json](./91617-dr-tool-mathe-trainer.json) |
+| Dr.Tool Mathe Trainer und Nonogram | 91619 | [91619-dr-tool-mathe-trainer-und-nonogram.json](./91619-dr-tool-mathe-trainer-und-nonogram.json) |
 | DR2 Night Janki | 247502 | [247502-dr2-night-janki.json](./247502-dr2-night-janki.json) |
 | DraBot | 401475 | [401475-drabot.json](./401475-drabot.json) |
 | Drac's Night Out | 48643 | [48643-dracs-night-out.json](./48643-dracs-night-out.json) |
