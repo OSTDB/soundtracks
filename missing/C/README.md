@@ -3246,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charm & Clue 2 | 417505 | [417505-charm-and-clue-2.json](./417505-charm-and-clue-2.json) |
 | Charm & Clue 2: Collector's Edition | 416782 | [416782-charm-and-clue-2-collectors-edition.json](./416782-charm-and-clue-2-collectors-edition.json) |
 | Charm & Clue: Collector's Edition | 417506 | [417506-charm-and-clue-collectors-edition.json](./417506-charm-and-clue-collectors-edition.json) |
+| Charm Girls Club: My Charmed Life | 91626 | [91626-charm-girls-club-my-charmed-life.json](./91626-charm-girls-club-my-charmed-life.json) |
 | Charm Girls Club: My Fashion Mall | 68084 | [68084-charm-girls-club-my-fashion-mall.json](./68084-charm-girls-club-my-fashion-mall.json) |
 | Charm Girls Club: My Fashion Show | 68085 | [68085-charm-girls-club-my-fashion-show.json](./68085-charm-girls-club-my-fashion-show.json) |
 | Charm Girls Club: My Perfect Prom | 68086 | [68086-charm-girls-club-my-perfect-prom.json](./68086-charm-girls-club-my-perfect-prom.json) |
@@ -9065,6 +9066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Pocket | 413613 | [413613-crazy-pocket.json](./413613-crazy-pocket.json) |
 | Crazy Projectile | 143966 | [143966-crazy-projectile.json](./143966-crazy-projectile.json) |
 | Crazy Puzzle | 358935 | [358935-crazy-puzzle.json](./358935-crazy-puzzle.json) |
+| Crazy Quader | 91587 | [91587-crazy-quader.json](./91587-crazy-quader.json) |
 | Crazy Quiz! Are You Crazy Enough? | 268117 | [268117-crazy-quiz-are-you-crazy-enough.json](./268117-crazy-quiz-are-you-crazy-enough.json) |
 | Crazy Rabbits | 250973 | [250973-crazy-rabbits.json](./250973-crazy-rabbits.json) |
 | Crazy Rails | 179481 | [179481-crazy-rails.json](./179481-crazy-rails.json) |
