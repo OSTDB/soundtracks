@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xin Juedai Shuangjiao: Qianzhuan | 85754 | [85754-xin-juedai-shuangjiao-qianzhuan.json](./85754-xin-juedai-shuangjiao-qianzhuan.json) |
 | Xīn Shéndiāo Xiálǚ zhī Wánjiépiān | 295240 | [295240-xin-shendiao-xialu-zhi-wanjiepian.json](./295240-xin-shendiao-xialu-zhi-wanjiepian.json) |
 | Xīn Suǒ Xiàngwǎng de Běijíxīng | 375426 | [375426-xin-suo-xiangwang-de-beijixing.json](./375426-xin-suo-xiangwang-de-beijixing.json) |
+| Xin Yuejian Hen | 78919 | [78919-xin-yuejian-hen.json](./78919-xin-yuejian-hen.json) |
 | Xing: The Land Beyond | 36300 | [36300-xing-the-land-beyond.json](./36300-xing-the-land-beyond.json) |
 | Xingchenbian Online | 367952 | [367952-xingchenbian-online.json](./367952-xingchenbian-online.json) |
 | Xìngcúnzhě Lèyuán | 165655 | [165655-xingcunzhe-leyuan.json](./165655-xingcunzhe-leyuan.json) |
