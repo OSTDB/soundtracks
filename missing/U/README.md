@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under The Surface | 343457 | [343457-under-the-surface.json](./343457-under-the-surface.json) |
 | Under the Thorns | 304723 | [304723-under-the-thorns.json](./304723-under-the-thorns.json) |
 | Under the Tree | 291027 | [291027-under-the-tree.json](./291027-under-the-tree.json) |
+| Under the War | 104144 | [104144-under-the-war.json](./104144-under-the-war.json) |
 | Under the Warehouse | 195605 | [195605-under-the-warehouse.json](./195605-under-the-warehouse.json) |
 | Under the Water | 174105 | [174105-under-the-water.json](./174105-under-the-water.json) |
 | Under the Weather | 145925 | [145925-under-the-weather.json](./145925-under-the-weather.json) |
@@ -1092,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underwater Cities | 249936 | [249936-underwater-cities.json](./249936-underwater-cities.json) |
 | Underwater Cycling | 368645 | [368645-underwater-cycling.json](./368645-underwater-cycling.json) |
 | Underwater Diving | 224547 | [224547-underwater-diving.json](./224547-underwater-diving.json) |
+| Underwater hunting | 104158 | [104158-underwater-hunting.json](./104158-underwater-hunting.json) |
 | Underwater Life | 148514 | [148514-underwater-life.json](./148514-underwater-life.json) |
 | Underwater Life Bundle | 273005 | [273005-underwater-life-bundle.json](./273005-underwater-life-bundle.json) |
 | Underwater World | 204924 | [204924-underwater-world.json](./204924-underwater-world.json) |
