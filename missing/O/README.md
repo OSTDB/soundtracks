@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld: New 'n' Tasty - Deluxe Edition | 132146 | [132146-oddworld-new-n-tasty-deluxe-edition.json](./132146-oddworld-new-n-tasty-deluxe-edition.json) |
 | Oddworld: Soulstorm - Day 1 Oddition | 146118 | [146118-oddworld-soulstorm-day-1-oddition.json](./146118-oddworld-soulstorm-day-1-oddition.json) |
 | Oddworld: Soulstorm Oddtimized Edition | 222891 | [222891-oddworld-soulstorm-oddtimized-edition.json](./222891-oddworld-soulstorm-oddtimized-edition.json) |
+| Oddworld: Squeek's Oddysee | 65861 | [65861-oddworld-squeeks-oddysee.json](./65861-oddworld-squeeks-oddysee.json) |
 | Oddworld: The Oddbox | 121444 | [121444-oddworld-the-oddbox.json](./121444-oddworld-the-oddbox.json) |
 | Oddy's Lost and Found | 257071 | [257071-oddys-lost-and-found.json](./257071-oddys-lost-and-found.json) |
 | Oddyssey: Your Space, Your Way | 163736 | [163736-oddyssey-your-space-your-way.json](./163736-oddyssey-your-space-your-way.json) |
