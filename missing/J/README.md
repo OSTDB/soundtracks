@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Excite Stage '94: Shimizu S-Pulse | 329712 | [329712-j-league-excite-stage-94-shimizu-s-pulse.json](./329712-j-league-excite-stage-94-shimizu-s-pulse.json) |
 | J.League Excite Stage '94: Verdy Yomiuri | 329700 | [329700-j-league-excite-stage-94-verdy-yomiuri.json](./329700-j-league-excite-stage-94-verdy-yomiuri.json) |
 | J.League Excite Stage '96 | 42657 | [42657-j-league-excite-stage-96.json](./42657-j-league-excite-stage-96.json) |
+| J.League Excite Stage Tactics | 79553 | [79553-j-league-excite-stage-tactics.json](./79553-j-league-excite-stage-tactics.json) |
 | J.League GG Pro-Striker '94 | 126010 | [126010-j-league-gg-pro-striker-94.json](./126010-j-league-gg-pro-striker-94.json) |
 | J.League Jikkyou Honoo no Striker | 220856 | [220856-j-league-jikkyou-honoo-no-striker.json](./220856-j-league-jikkyou-honoo-no-striker.json) |
 | J.League Jikkyou Winning Eleven 3 | 220865 | [220865-j-league-jikkyou-winning-eleven-3.json](./220865-j-league-jikkyou-winning-eleven-3.json) |
@@ -507,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jazz Jackrabbit 2: Holiday Hare 98 | 71761 | [71761-jazz-jackrabbit-2-holiday-hare-98.json](./71761-jazz-jackrabbit-2-holiday-hare-98.json) |
 | Jazz Jackrabbit 2: The Secret Files | 51347 | [51347-jazz-jackrabbit-2-the-secret-files.json](./51347-jazz-jackrabbit-2-the-secret-files.json) |
 | Jazz Jackrabbit 3 | 72667 | [72667-jazz-jackrabbit-3.json](./72667-jazz-jackrabbit-3.json) |
+| Jazz Jackrabbit: Holiday Hare 1994 | 79517 | [79517-jazz-jackrabbit-holiday-hare-1994.json](./79517-jazz-jackrabbit-holiday-hare-1994.json) |
 | Jazz Lightning : Castle Dungeons | 126644 | [126644-jazz-lightning-castle-dungeons.json](./126644-jazz-lightning-castle-dungeons.json) |
 | Jazz Smash | 260767 | [260767-jazz-smash.json](./260767-jazz-smash.json) |
 | Jazz Time | 181316 | [181316-jazz-time.json](./181316-jazz-time.json) |
@@ -617,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy! | 64476 | [64476-jeopardy.json](./64476-jeopardy.json) |
 | Jeopardy! | 78592 | [78592-jeopardy.json](./78592-jeopardy.json) |
 | Jeopardy! 2nd Edition | 43911 | [43911-jeopardy-2nd-edition.json](./43911-jeopardy-2nd-edition.json) |
+| Jeopardy! New Sports Edition | 79544 | [79544-jeopardy-new-sports-edition.json](./79544-jeopardy-new-sports-edition.json) |
 | Jeopardy! PlayShow | 140551 | [140551-jeopardy-playshow.json](./140551-jeopardy-playshow.json) |
 | Jeopardy! Sports Edition | 48977 | [48977-jeopardy-sports-edition.json](./48977-jeopardy-sports-edition.json) |
 | Jeopardy! Super Deluxe | 210134 | [210134-jeopardy-super-deluxe.json](./210134-jeopardy-super-deluxe.json) |
@@ -715,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JetFighter II: Advanced Mission Disk | 84260 | [84260-jetfighter-ii-advanced-mission-disk.json](./84260-jetfighter-ii-advanced-mission-disk.json) |
 | JetFighter II: Advanced Tactical Fighter | 50489 | [50489-jetfighter-ii-advanced-tactical-fighter.json](./50489-jetfighter-ii-advanced-tactical-fighter.json) |
 | JetFighter III Classic | 78053 | [78053-jetfighter-iii-classic.json](./78053-jetfighter-iii-classic.json) |
+| JetFighter III Enhanced Campaign CD | 79565 | [79565-jetfighter-iii-enhanced-campaign-cd.json](./79565-jetfighter-iii-enhanced-campaign-cd.json) |
 | JetFighter: The Adventure | 50490 | [50490-jetfighter-the-adventure.json](./50490-jetfighter-the-adventure.json) |
 | Jetlad | 117786 | [117786-jetlad.json](./117786-jetlad.json) |
 | Jetman | 92852 | [92852-jetman.json](./92852-jetman.json) |
