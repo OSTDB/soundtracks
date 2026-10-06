@@ -7566,6 +7566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Servi | 293635 | [293635-premier-servi.json](./293635-premier-servi.json) |
 | Premier Soccer | 40397 | [40397-premier-soccer.json](./40397-premier-soccer.json) |
 | Premium Bowling | 109304 | [109304-premium-bowling.json](./109304-premium-bowling.json) |
+| Premium Brettspiele | 91595 | [91595-premium-brettspiele.json](./91595-premium-brettspiele.json) |
 | Premortal VR | 197107 | [197107-premortal-vr.json](./197107-premortal-vr.json) |
 | Prens Cavid | 127736 | [127736-prens-cavid.json](./127736-prens-cavid.json) |
 | Prenup Struggles | 314062 | [314062-prenup-struggles.json](./314062-prenup-struggles.json) |
@@ -9729,6 +9730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Dragons: Super Mario Bros. Edition | 59517 | [59517-puzzle-and-dragons-super-mario-bros-edition.json](./59517-puzzle-and-dragons-super-mario-bros-edition.json) |
 | Puzzle & Glory | 13105 | [13105-puzzle-and-glory.json](./13105-puzzle-and-glory.json) |
 | Puzzle & Heroes | 110225 | [110225-puzzle-and-heroes.json](./110225-puzzle-and-heroes.json) |
+| Puzzle & Logikspiele | 91601 | [91601-puzzle-and-logikspiele.json](./91601-puzzle-and-logikspiele.json) |
 | Puzzle & Maze | 152870 | [152870-puzzle-and-maze.json](./152870-puzzle-and-maze.json) |
 | Puzzle & Monarch | 345589 | [345589-puzzle-and-monarch.json](./345589-puzzle-and-monarch.json) |
 | Puzzle & Squishies | 109560 | [109560-puzzle-and-squishies.json](./109560-puzzle-and-squishies.json) |
