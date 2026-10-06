@@ -3975,6 +3975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GP World | 6108 | [6108-gp-world.json](./6108-gp-world.json) |
 | GP-1 Part II | 42591 | [42591-gp-1-part-ii.json](./42591-gp-1-part-ii.json) |
 | GPS Monster Scouter | 372137 | [372137-gps-monster-scouter.json](./372137-gps-monster-scouter.json) |
+| Graahl: Of Feather and Grit | 109549 | [109549-graahl-of-feather-and-grit.json](./109549-graahl-of-feather-and-grit.json) |
 | GraalOnline Era | 55842 | [55842-graalonline-era.json](./55842-graalonline-era.json) |
 | GraalOnline: Delteria | 82153 | [82153-graalonline-delteria.json](./82153-graalonline-delteria.json) |
 | Grab | 202813 | [202813-grab.json](./202813-grab.json) |
