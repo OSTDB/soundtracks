@@ -1623,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Other Waters | 86504 | [86504-in-other-waters.json](./86504-in-other-waters.json) |
 | In Other Waters: Xenobiologist Edition | 227179 | [227179-in-other-waters-xenobiologist-edition.json](./227179-in-other-waters-xenobiologist-edition.json) |
 | In Passing | 125443 | [125443-in-passing.json](./125443-in-passing.json) |
+| In Pursuit of Greed | 73489 | [73489-in-pursuit-of-greed.json](./73489-in-pursuit-of-greed.json) |
 | In Requiem | 178460 | [178460-in-requiem.json](./178460-in-requiem.json) |
 | In Search of Dr. Riptide | 69578 | [69578-in-search-of-dr-riptide.json](./69578-in-search-of-dr-riptide.json) |
 | In Search of Freedom | 383563 | [383563-in-search-of-freedom.json](./383563-in-search-of-freedom.json) |
