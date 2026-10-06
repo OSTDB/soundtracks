@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldis Basics Calculator Sim | 106637 | [106637-baldis-basics-calculator-sim.json](./106637-baldis-basics-calculator-sim.json) |
 | Baldo: The Guardian Owls - The Three Fairies Edition | 200682 | [200682-baldo-the-guardian-owls-the-three-fairies-edition.json](./200682-baldo-the-guardian-owls-the-three-fairies-edition.json) |
 | Baldoo | 116822 | [116822-baldoo.json](./116822-baldoo.json) |
+| Baldr Bringer | 71194 | [71194-baldr-bringer.json](./71194-baldr-bringer.json) |
 | Baldr Bringer Extend Code | 180651 | [180651-baldr-bringer-extend-code.json](./180651-baldr-bringer-extend-code.json) |
 | Baldr Fist | 180241 | [180241-baldr-fist.json](./180241-baldr-fist.json) |
 | Baldr Force Exe | 44622 | [44622-baldr-force-exe.json](./44622-baldr-force-exe.json) |
@@ -3274,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before the Blood | 93790 | [93790-before-the-blood.json](./93790-before-the-blood.json) |
 | Before the Dawn | 235362 | [235362-before-the-dawn.json](./235362-before-the-dawn.json) |
 | Before the Last Hour | 200428 | [200428-before-the-last-hour.json](./200428-before-the-last-hour.json) |
+| Before the Legacy | 71165 | [71165-before-the-legacy.json](./71165-before-the-legacy.json) |
 | Before the Moon | 311067 | [311067-before-the-moon.json](./311067-before-the-moon.json) |
 | Before the Needle Lifts | 303754 | [303754-before-the-needle-lifts.json](./303754-before-the-needle-lifts.json) |
 | Before the Night | 189049 | [189049-before-the-night.json](./189049-before-the-night.json) |
@@ -8702,6 +8704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Path | 154443 | [154443-broken-path.json](./154443-broken-path.json) |
 | Broken Pearl | 223554 | [223554-broken-pearl.json](./223554-broken-pearl.json) |
 | Broken Picture Telephone | 252290 | [252290-broken-picture-telephone.json](./252290-broken-picture-telephone.json) |
+| Broken Picturephone | 71160 | [71160-broken-picturephone.json](./71160-broken-picturephone.json) |
 | Broken Pieces | 137286 | [137286-broken-pieces.json](./137286-broken-pieces.json) |
 | Broken Prism | 346211 | [346211-broken-prism.json](./346211-broken-prism.json) |
 | Broken Puppet | 124607 | [124607-broken-puppet.json](./124607-broken-puppet.json) |
