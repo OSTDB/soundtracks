@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panties Attack | 297173 | [297173-panties-attack.json](./297173-panties-attack.json) |
 | Panties of Rage | 109604 | [109604-panties-of-rage.json](./109604-panties-of-rage.json) |
 | Pantomime | 341597 | [341597-pantomime.json](./341597-pantomime.json) |
+| Pantropy | 77611 | [77611-pantropy.json](./77611-pantropy.json) |
 | Pants | 179678 | [179678-pants.json](./179678-pants.json) |
 | Pants Quest | 190217 | [190217-pants-quest.json](./190217-pants-quest.json) |
 | Pantsu Hunter: Back to the 90s | 113726 | [113726-pantsu-hunter-back-to-the-90s.json](./113726-pantsu-hunter-back-to-the-90s.json) |
@@ -4141,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Jam: Space DLC | 280331 | [280331-pirate-jam-space-dlc.json](./280331-pirate-jam-space-dlc.json) |
 | Pirate Jigsaw | 156095 | [156095-pirate-jigsaw.json](./156095-pirate-jigsaw.json) |
 | Pirate Jigsaw 2 | 98778 | [98778-pirate-jigsaw-2.json](./98778-pirate-jigsaw-2.json) |
+| Pirate King Online | 77574 | [77574-pirate-king-online.json](./77574-pirate-king-online.json) |
 | Pirate Kings | 98927 | [98927-pirate-kings.json](./98927-pirate-kings.json) |
 | Pirate Legends TD | 62992 | [62992-pirate-legends-td.json](./62992-pirate-legends-td.json) |
 | Pirate Life | 395538 | [395538-pirate-life.json](./395538-pirate-life.json) |
@@ -5634,6 +5636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Knights 2 | 54715 | [54715-pocket-knights-2.json](./54715-pocket-knights-2.json) |
 | Pocket Lands | 183473 | [183473-pocket-lands.json](./183473-pocket-lands.json) |
 | Pocket Legend | 322144 | [322144-pocket-legend.json](./322144-pocket-legend.json) |
+| Pocket Legends Adventures | 77609 | [77609-pocket-legends-adventures.json](./77609-pocket-legends-adventures.json) |
 | Pocket Lights | 239924 | [239924-pocket-lights.json](./239924-pocket-lights.json) |
 | Pocket Lint Zero | 387645 | [387645-pocket-lint-zero.json](./387645-pocket-lint-zero.json) |
 | Pocket Love | 63334 | [63334-pocket-love.json](./63334-pocket-love.json) |
@@ -7506,6 +7509,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Praise Champion | 209929 | [209929-praise-champion.json](./209929-praise-champion.json) |
 | Prana | 75113 | [75113-prana.json](./75113-prana.json) |
 | Prank Call | 165423 | [165423-prank-call.json](./165423-prank-call.json) |
+| Prank Call | 77585 | [77585-prank-call.json](./77585-prank-call.json) |
+| Prank Call 2 | 77584 | [77584-prank-call-2.json](./77584-prank-call-2.json) |
 | Prank Heart | 287754 | [287754-prank-heart.json](./287754-prank-heart.json) |
 | Prank Masters | 108030 | [108030-prank-masters.json](./108030-prank-masters.json) |
 | Prank Your Neighbor | 68076 | [68076-prank-your-neighbor.json](./68076-prank-your-neighbor.json) |
@@ -7918,6 +7923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Principal: Game of Mission | 70907 | [70907-princess-principal-game-of-mission.json](./70907-princess-principal-game-of-mission.json) |
 | Princess Puzzle Adventure | 279868 | [279868-princess-puzzle-adventure.json](./279868-princess-puzzle-adventure.json) |
 | Princess Quest | 286070 | [286070-princess-quest.json](./286070-princess-quest.json) |
+| Princess Quest | 77600 | [77600-princess-quest.json](./77600-princess-quest.json) |
 | Princess Quest Part 1 | 250055 | [250055-princess-quest-part-1.json](./250055-princess-quest-part-1.json) |
 | Princess Rescue | 46886 | [46886-princess-rescue.json](./46886-princess-rescue.json) |
 | Princess RPG | 196814 | [196814-princess-rpg.json](./196814-princess-rpg.json) |
