@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet Another Snake Game | 111195 | [111195-yet-another-snake-game.json](./111195-yet-another-snake-game.json) |
 | Yet Another Solitaire Game | 316981 | [316981-yet-another-solitaire-game.json](./316981-yet-another-solitaire-game.json) |
 | Yet Another Sonic the Hedgehog Minigame | 326830 | [326830-yet-another-sonic-the-hedgehog-minigame.json](./326830-yet-another-sonic-the-hedgehog-minigame.json) |
+| Yet Another Survival Game | 114929 | [114929-yet-another-survival-game.json](./114929-yet-another-survival-game.json) |
 | Yet another tower defence | 110367 | [110367-yet-another-tower-defence.json](./110367-yet-another-tower-defence.json) |
 | Yet Another Vanilla SMA2 Hack | 342622 | [342622-yet-another-vanilla-sma2-hack.json](./342622-yet-another-vanilla-sma2-hack.json) |
 | Yet Another World | 34190 | [34190-yet-another-world.json](./34190-yet-another-world.json) |
