@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Chase | 40738 | [40738-panda-chase.json](./40738-panda-chase.json) |
 | Panda Choice Mahjong | 263502 | [263502-panda-choice-mahjong.json](./263502-panda-choice-mahjong.json) |
 | Panda City | 160131 | [160131-panda-city.json](./160131-panda-city.json) |
+| Panda Dodgeball | 79549 | [79549-panda-dodgeball.json](./79549-panda-dodgeball.json) |
 | Panda Dynasty | 177927 | [177927-panda-dynasty.json](./177927-panda-dynasty.json) |
 | Panda Go | 275118 | [275118-panda-go.json](./275118-panda-go.json) |
 | Panda Hero: Remastered | 143054 | [143054-panda-hero-remastered.json](./143054-panda-hero-remastered.json) |
@@ -5359,6 +5360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playing with Our Lives | 291003 | [291003-playing-with-our-lives.json](./291003-playing-with-our-lives.json) |
 | Playing With the Big Boys | 360697 | [360697-playing-with-the-big-boys.json](./360697-playing-with-the-big-boys.json) |
 | PlayMaker Football | 366964 | [366964-playmaker-football.json](./366964-playmaker-football.json) |
+| PlayMaker Football 2.0 | 79567 | [79567-playmaker-football-2-0.json](./79567-playmaker-football-2-0.json) |
 | Playman Extreme Running | 316707 | [316707-playman-extreme-running.json](./316707-playman-extreme-running.json) |
 | Playman Extreme Running | 316708 | [316708-playman-extreme-running.json](./316708-playman-extreme-running.json) |
 | Playmobil Dragon Adventures | 209362 | [209362-playmobil-dragon-adventures.json](./209362-playmobil-dragon-adventures.json) |
@@ -7542,6 +7544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predator: Hunting Grounds - Viking Predator | 168761 | [168761-predator-hunting-grounds-viking-predator.json](./168761-predator-hunting-grounds-viking-predator.json) |
 | Predator: Hunting Grounds - Yautja Edition | 320763 | [320763-predator-hunting-grounds-yautja-edition.json](./320763-predator-hunting-grounds-yautja-edition.json) |
 | Predator: Hunting Grounds: Oni Predator | 361905 | [361905-predator-hunting-grounds-oni-predator.json](./361905-predator-hunting-grounds-oni-predator.json) |
+| Predators | 79534 | [79534-predators.json](./79534-predators.json) |
 | Predatory Islands | 251832 | [251832-predatory-islands.json](./251832-predatory-islands.json) |
 | Predecessor | 115078 | [115078-predecessor.json](./115078-predecessor.json) |
 | Predefined | 253585 | [253585-predefined.json](./253585-predefined.json) |
@@ -9785,6 +9788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Block Blast | 221382 | [221382-puzzle-block-blast.json](./221382-puzzle-block-blast.json) |
 | Puzzle Block Wood - Wooden Block & Puzzle Game | 100936 | [100936-puzzle-block-wood-wooden-block-and-puzzle-game.json](./100936-puzzle-block-wood-wooden-block-and-puzzle-game.json) |
 | Puzzle Blocks | 83937 | [83937-puzzle-blocks.json](./83937-puzzle-blocks.json) |
+| Puzzle Bobble 2X & Space Invaders | 79528 | [79528-puzzle-bobble-2x-and-space-invaders.json](./79528-puzzle-bobble-2x-and-space-invaders.json) |
 | Puzzle Bobble 2X/Bust-A-Move 2: Arcade Edition & Puzzle Bobble 3/Bust-A-Move 3: S-Tribute | 233580 | [233580-puzzle-bobble-2x-bust-a-move-2-arcade-edition-and-puzzle-bobble-3-bust-a-move-3-s-tribute.json](./233580-puzzle-bobble-2x-bust-a-move-2-arcade-edition-and-puzzle-bobble-3-bust-a-move-3-s-tribute.json) |
 | Puzzle Bobble Everybubble! | 215033 | [215033-puzzle-bobble-everybubble.json](./215033-puzzle-bobble-everybubble.json) |
 | Puzzle Bobble Pocket | 42774 | [42774-puzzle-bobble-pocket.json](./42774-puzzle-bobble-pocket.json) |
