@@ -1191,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Strike | 76609 | [76609-tank-strike.json](./76609-tank-strike.json) |
 | Tank Sudoku | 190734 | [190734-tank-sudoku.json](./190734-tank-sudoku.json) |
 | Tank survival Game | 110985 | [110985-tank-survival-game.json](./110985-tank-survival-game.json) |
+| Tank Tactics | 59785 | [59785-tank-tactics.json](./59785-tank-tactics.json) |
 | Tank Team | 112254 | [112254-tank-team.json](./112254-tank-team.json) |
 | Tank Time | 177424 | [177424-tank-time.json](./177424-tank-time.json) |
 | Tank Top Tactics | 212842 | [212842-tank-top-tactics.json](./212842-tank-top-tactics.json) |
@@ -1203,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank vs. Tank: Discovery Edition | 400205 | [400205-tank-vs-tank-discovery-edition.json](./400205-tank-vs-tank-discovery-edition.json) |
 | Tank vs. Tank: Prime Edition | 333727 | [333727-tank-vs-tank-prime-edition.json](./333727-tank-vs-tank-prime-edition.json) |
 | Tank vs. Tank: Value Edition | 397892 | [397892-tank-vs-tank-value-edition.json](./397892-tank-vs-tank-value-edition.json) |
+| Tank War | 59798 | [59798-tank-war.json](./59798-tank-war.json) |
 | Tank War Defender 3 | 175405 | [175405-tank-war-defender-3.json](./175405-tank-war-defender-3.json) |
 | Tank War Nexus | 149080 | [149080-tank-war-nexus.json](./149080-tank-war-nexus.json) |
 | Tank Warfare: El Guettar | 154531 | [154531-tank-warfare-el-guettar.json](./154531-tank-warfare-el-guettar.json) |
@@ -5712,6 +5714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Goblinseekers | 269187 | [269187-the-goblinseekers.json](./269187-the-goblinseekers.json) |
 | The God | 100568 | [100568-the-god.json](./100568-the-god.json) |
 | The God Heroes | 282656 | [282656-the-god-heroes.json](./282656-the-god-heroes.json) |
+| The God Paradox | 59793 | [59793-the-god-paradox.json](./59793-the-god-paradox.json) |
 | The GoD Unit | 127756 | [127756-the-god-unit.json](./127756-the-god-unit.json) |
 | The God's Chain | 22787 | [22787-the-gods-chain.json](./22787-the-gods-chain.json) |
 | The Godbeast | 108299 | [108299-the-godbeast.json](./108299-the-godbeast.json) |
@@ -8926,6 +8929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rupture | 137972 | [137972-the-rupture.json](./137972-the-rupture.json) |
 | The Rush: The Veronica Story | 145577 | [145577-the-rush-the-veronica-story.json](./145577-the-rush-the-veronica-story.json) |
 | The Russian Roulette Game: PR | 292522 | [292522-the-russian-roulette-game-pr.json](./292522-the-russian-roulette-game-pr.json) |
+| The Rust Belt | 59786 | [59786-the-rust-belt.json](./59786-the-rust-belt.json) |
 | The Rusted | 379377 | [379377-the-rusted.json](./379377-the-rusted.json) |
 | The Rusty Sword: Vanguard Island | 199397 | [199397-the-rusty-sword-vanguard-island.json](./199397-the-rusty-sword-vanguard-island.json) |
 | The S Factor: Sonia and Silver | 45579 | [45579-the-s-factor-sonia-and-silver.json](./45579-the-s-factor-sonia-and-silver.json) |
