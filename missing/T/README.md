@@ -1475,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target of Desire: Episode 1 | 52745 | [52745-target-of-desire-episode-1.json](./52745-target-of-desire-episode-1.json) |
 | Target Practice | 167303 | [167303-target-practice.json](./167303-target-practice.json) |
 | Target Runner | 149690 | [149690-target-runner.json](./149690-target-runner.json) |
+| Target speed | 82330 | [82330-target-speed.json](./82330-target-speed.json) |
 | Target Toss Pro: Bags | 85431 | [85431-target-toss-pro-bags.json](./85431-target-toss-pro-bags.json) |
 | Target Toss Pro: Lawn Darts | 66355 | [66355-target-toss-pro-lawn-darts.json](./66355-target-toss-pro-lawn-darts.json) |
 | Target: Pheromone | 127794 | [127794-target-pheromone.json](./127794-target-pheromone.json) |
@@ -4196,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Comedian Adventure | 266884 | [266884-the-comedian-adventure.json](./266884-the-comedian-adventure.json) |
 | The Comfort Zone | 177417 | [177417-the-comfort-zone.json](./177417-the-comfort-zone.json) |
 | The Commander of Steel | 262063 | [262063-the-commander-of-steel.json](./262063-the-commander-of-steel.json) |
+| The Communist Dogifesto | 82345 | [82345-the-communist-dogifesto.json](./82345-the-communist-dogifesto.json) |
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
 | The Complete Emergency | 136375 | [136375-the-complete-emergency.json](./136375-the-complete-emergency.json) |
 | The Complete Movie Games Collection | 336051 | [336051-the-complete-movie-games-collection.json](./336051-the-complete-movie-games-collection.json) |
@@ -9095,6 +9097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shooting Maguro | 156024 | [156024-the-shooting-maguro.json](./156024-the-shooting-maguro.json) |
 | The Shopping List | 198373 | [198373-the-shopping-list.json](./198373-the-shopping-list.json) |
 | The Short Bread Game | 324900 | [324900-the-short-bread-game.json](./324900-the-short-bread-game.json) |
+| The Short Story of a Drifting Labyrinth | 82341 | [82341-the-short-story-of-a-drifting-labyrinth.json](./82341-the-short-story-of-a-drifting-labyrinth.json) |
 | The Shortest Journey | 327327 | [327327-the-shortest-journey.json](./327327-the-shortest-journey.json) |
 | The Shouboutai | 124081 | [124081-the-shouboutai.json](./124081-the-shouboutai.json) |
 | The Show | 310641 | [310641-the-show.json](./310641-the-show.json) |
@@ -15425,6 +15428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy RollerCoaster 3D | 87544 | [87544-toy-rollercoaster-3d.json](./87544-toy-rollercoaster-3d.json) |
 | Toy Rush | 74321 | [74321-toy-rush.json](./74321-toy-rush.json) |
 | Toy Scrappers | 333549 | [333549-toy-scrappers.json](./333549-toy-scrappers.json) |
+| Toy Seeker | 82356 | [82356-toy-seeker.json](./82356-toy-seeker.json) |
 | Toy Shire | 253387 | [253387-toy-shire.json](./253387-toy-shire.json) |
 | Toy Shop | 21299 | [21299-toy-shop.json](./21299-toy-shop.json) |
 | Toy Smash Kaboom! | 347357 | [347357-toy-smash-kaboom.json](./347357-toy-smash-kaboom.json) |
