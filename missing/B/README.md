@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Boy Simulator | 412511 | [412511-ball-boy-simulator.json](./412511-ball-boy-simulator.json) |
 | Ball Brawl 3D | 154620 | [154620-ball-brawl-3d.json](./154620-ball-brawl-3d.json) |
 | Ball Breaker 3D | 78036 | [78036-ball-breaker-3d.json](./78036-ball-breaker-3d.json) |
+| Ball Breakers Corp. | 70051 | [70051-ball-breakers-corp.json](./70051-ball-breakers-corp.json) |
 | Ball Bulét | 304632 | [304632-ball-bulet.json](./304632-ball-bulet.json) |
 | Ball Buster | 134976 | [134976-ball-buster.json](./134976-ball-buster.json) |
 | Ball Buster Breakout | 404372 | [404372-ball-buster-breakout.json](./404372-ball-buster-breakout.json) |
@@ -4882,6 +4883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Cat Blitz | 316085 | [316085-black-cat-blitz.json](./316085-black-cat-blitz.json) |
 | Black Cat Bundle | 367627 | [367627-black-cat-bundle.json](./367627-black-cat-bundle.json) |
 | Black Cat Explores Minds | 151736 | [151736-black-cat-explores-minds.json](./151736-black-cat-explores-minds.json) |
+| Black Cat in a Black Room | 70046 | [70046-black-cat-in-a-black-room.json](./70046-black-cat-in-a-black-room.json) |
 | Black Cat-astrophe | 243814 | [243814-black-cat-astrophe.json](./243814-black-cat-astrophe.json) |
 | Black Cat: Kikai Shikake no Tenshi | 229712 | [229712-black-cat-kikai-shikake-no-tenshi.json](./229712-black-cat-kikai-shikake-no-tenshi.json) |
 | Black Cats and Pointed Hats | 71785 | [71785-black-cats-and-pointed-hats.json](./71785-black-cats-and-pointed-hats.json) |
@@ -5462,6 +5464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Tornado | 39582 | [39582-blazing-tornado.json](./39582-blazing-tornado.json) |
 | Blazing Trail | 293100 | [293100-blazing-trail.json](./293100-blazing-trail.json) |
 | Blazing War | 203915 | [203915-blazing-war.json](./203915-blazing-war.json) |
+| Blazing Wings | 70033 | [70033-blazing-wings.json](./70033-blazing-wings.json) |
 | Blazted VR | 207778 | [207778-blazted-vr.json](./207778-blazted-vr.json) |
 | Bleach | 201562 | [201562-bleach.json](./201562-bleach.json) |
 | Bleach DS 4th: Flame Bringer | 47832 | [47832-bleach-ds-4th-flame-bringer.json](./47832-bleach-ds-4th-flame-bringer.json) |
@@ -8423,6 +8426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brewtopia | 319384 | [319384-brewtopia.json](./319384-brewtopia.json) |
 | BRG's Alice in Wonderland Visual Novel | 118772 | [118772-brgs-alice-in-wonderland-visual-novel.json](./118772-brgs-alice-in-wonderland-visual-novel.json) |
 | Brian Clough's Football Fortunes | 12283 | [12283-brian-cloughs-football-fortunes.json](./12283-brian-cloughs-football-fortunes.json) |
+| Brian Lara 2007 Pressure Play | 70025 | [70025-brian-lara-2007-pressure-play.json](./70025-brian-lara-2007-pressure-play.json) |
 | Brian Lara Cricket | 94848 | [94848-brian-lara-cricket.json](./94848-brian-lara-cricket.json) |
 | Brian Lara International Cricket 2007 | 6927 | [6927-brian-lara-international-cricket-2007.json](./6927-brian-lara-international-cricket-2007.json) |
 | Brian the Brain | 151606 | [151606-brian-the-brain.json](./151606-brian-the-brain.json) |
