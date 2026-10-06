@@ -1037,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ketsui: Kizuna Jigoku Tachi Extra | 79853 | [79853-ketsui-kizuna-jigoku-tachi-extra.json](./79853-ketsui-kizuna-jigoku-tachi-extra.json) |
 | Ketsui: Kizuna Jigoku-tachi | 214717 | [214717-ketsui-kizuna-jigoku-tachi.json](./214717-ketsui-kizuna-jigoku-tachi.json) |
 | Ketto Majiku | 105123 | [105123-ketto-majiku.json](./105123-ketto-majiku.json) |
+| Ketu de Ganba | 97999 | [97999-ketu-de-ganba.json](./97999-ketu-de-ganba.json) |
 | Keturan | 358470 | [358470-keturan.json](./358470-keturan.json) |
 | Ketzal's Corridors | 47651 | [47651-ketzals-corridors.json](./47651-ketzals-corridors.json) |
 | Ketzer | 405720 | [405720-ketzer.json](./405720-ketzer.json) |
@@ -1516,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
