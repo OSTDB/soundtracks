@@ -4005,6 +4005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius V | 1488 | [1488-gradius-v.json](./1488-gradius-v.json) |
 | Gradually Forward | 119611 | [119611-gradually-forward.json](./119611-gradually-forward.json) |
 | Graduate Battle | 358511 | [358511-graduate-battle.json](./358511-graduate-battle.json) |
+| Graduated | 117617 | [117617-graduated.json](./117617-graduated.json) |
 | Graffiti Bombing | 126973 | [126973-graffiti-bombing.json](./126973-graffiti-bombing.json) |
 | Graffiti Cozy | 189061 | [189061-graffiti-cozy.json](./189061-graffiti-cozy.json) |
 | Graffiti Groovin' | 228465 | [228465-graffiti-groovin.json](./228465-graffiti-groovin.json) |
@@ -5288,6 +5289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guānyú Wǒ Bèi Xuéjiě Jiǎn Huí Jiā Dāng Nǚyǒu Zhè Jiàn Shì | 397226 | [397226-guanyu-wo-bei-xuejie-jian-hui-jia-dang-nuyou-zhe-jian-shi.json](./397226-guanyu-wo-bei-xuejie-jian-hui-jia-dang-nuyou-zhe-jian-shi.json) |
 | Guard Force: Covert Strike | 133754 | [133754-guard-force-covert-strike.json](./133754-guard-force-covert-strike.json) |
 | Guard of Wonderland VR | 88126 | [88126-guard-of-wonderland-vr.json](./88126-guard-of-wonderland-vr.json) |
+| Guard the Future | 117574 | [117574-guard-the-future.json](./117574-guard-the-future.json) |
 | Guarded | 313893 | [313893-guarded.json](./313893-guarded.json) |
 | Guardian | 15542 | [15542-guardian.json](./15542-guardian.json) |
 | Guardian | 37295 | [37295-guardian.json](./37295-guardian.json) |
