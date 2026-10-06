@@ -6290,6 +6290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HSS: Reload | 317306 | [317306-hss-reload.json](./317306-hss-reload.json) |
 | HSX: Hypersonic Xtreme | 43656 | [43656-hsx-hypersonic-xtreme.json](./43656-hsx-hypersonic-xtreme.json) |
 | htoL#NiQ: The Firefly Diary - Limited Edition | 89918 | [89918-htol-niq-the-firefly-diary-limited-edition.json](./89918-htol-niq-the-firefly-diary-limited-edition.json) |
+| HTown Fight | 97530 | [97530-htown-fight.json](./97530-htown-fight.json) |
 | HTR High Tech Racing | 85174 | [85174-htr-high-tech-racing.json](./85174-htr-high-tech-racing.json) |
 | HTR+ Slot Car Simulation | 17197 | [17197-htr-slot-car-simulation.json](./17197-htr-slot-car-simulation.json) |
 | HU-man Dungeons | 294963 | [294963-hu-man-dungeons.json](./294963-hu-man-dungeons.json) |
