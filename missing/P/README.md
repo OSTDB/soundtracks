@@ -2325,6 +2325,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penthouse Interactive: Virtual Photo Shoot Vol. 1 | 254498 | [254498-penthouse-interactive-virtual-photo-shoot-vol-1.json](./254498-penthouse-interactive-virtual-photo-shoot-vol-1.json) |
 | Pentium | 92073 | [92073-pentium.json](./92073-pentium.json) |
 | Pentomino | 202422 | [202422-pentomino.json](./202422-pentomino.json) |
+| Pentominon | 102859 | [102859-pentominon.json](./102859-pentominon.json) |
+| Pentominon Transctiption | 102864 | [102864-pentominon-transctiption.json](./102864-pentominon-transctiption.json) |
 | Pentominovich | 207847 | [207847-pentominovich.json](./207847-pentominovich.json) |
 | Penultima | 307189 | [307189-penultima.json](./307189-penultima.json) |
 | Penumbra | 177550 | [177550-penumbra.json](./177550-penumbra.json) |
@@ -6909,6 +6911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porcini | 148999 | [148999-porcini.json](./148999-porcini.json) |
 | Porcuball | 96122 | [96122-porcuball.json](./96122-porcuball.json) |
 | Porcupine's Fate: Chapter 1 | 196694 | [196694-porcupines-fate-chapter-1.json](./196694-porcupines-fate-chapter-1.json) |
+| Porg Wars | 102841 | [102841-porg-wars.json](./102841-porg-wars.json) |
 | Porgy | 318416 | [318416-porgy.json](./318416-porgy.json) |
 | Porkchop's Horror Show | 237438 | [237438-porkchops-horror-show.json](./237438-porkchops-horror-show.json) |
 | Porkerpillar | 89209 | [89209-porkerpillar.json](./89209-porkerpillar.json) |
@@ -8252,6 +8255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Heinz Wolff's Gravity | 5109 | [5109-professor-heinz-wolffs-gravity.json](./5109-professor-heinz-wolffs-gravity.json) |
 | Professor Layton and the Azran Legacy | 1403 | [1403-professor-layton-and-the-azran-legacy.json](./1403-professor-layton-and-the-azran-legacy.json) |
 | Professor Layton and the Curious Village | 1397 | [1397-professor-layton-and-the-curious-village.json](./1397-professor-layton-and-the-curious-village.json) |
+| Professor Layton and the Curious Village HD for Mobile | 102865 | [102865-professor-layton-and-the-curious-village-hd-for-mobile.json](./102865-professor-layton-and-the-curious-village-hd-for-mobile.json) |
 | Professor Layton and the Diabolical Box HD for Mobile | 128436 | [128436-professor-layton-and-the-diabolical-box-hd-for-mobile.json](./128436-professor-layton-and-the-diabolical-box-hd-for-mobile.json) |
 | Professor Layton and the Mansion of the Deathly Mirror | 276490 | [276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json](./276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json) |
 | Professor Layton and the Miracle Mask | 1401 | [1401-professor-layton-and-the-miracle-mask.json](./1401-professor-layton-and-the-miracle-mask.json) |
