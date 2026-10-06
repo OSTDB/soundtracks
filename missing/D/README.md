@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dataflow | 112353 | [112353-dataflow.json](./112353-dataflow.json) |
 | Datahit | 185560 | [185560-datahit.json](./185560-datahit.json) |
 | DataJack 2020 | 244318 | [244318-datajack-2020.json](./244318-datajack-2020.json) |
+| Datamine | 85074 | [85074-datamine.json](./85074-datamine.json) |
 | Dataminer | 183876 | [183876-dataminer.json](./183876-dataminer.json) |
 | Datascape | 96128 | [96128-datascape.json](./96128-datascape.json) |
 | Date A Live: Arusu Install - Limited Edition | 86225 | [86225-date-a-live-arusu-install-limited-edition.json](./86225-date-a-live-arusu-install-limited-edition.json) |
@@ -1391,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date of Death: Origin | 195553 | [195553-date-of-death-origin.json](./195553-date-of-death-origin.json) |
 | Date or Destiny: Kiss or Miss | 348880 | [348880-date-or-destiny-kiss-or-miss.json](./348880-date-or-destiny-kiss-or-miss.json) |
 | Date or Die | 56508 | [56508-date-or-die.json](./56508-date-or-die.json) |
+| Date or Ditch | 85073 | [85073-date-or-ditch.json](./85073-date-or-ditch.json) |
 | Date Plus | 358498 | [358498-date-plus.json](./358498-date-plus.json) |
 | Date quartet | 183944 | [183944-date-quartet.json](./183944-date-quartet.json) |
 | Date Senbei | 412450 | [412450-date-senbei.json](./412450-date-senbei.json) |
@@ -2599,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeCalc | 62972 | [62972-decalc.json](./62972-decalc.json) |
 | Decamped | 157028 | [157028-decamped.json](./157028-decamped.json) |
 | Decathlon | 242097 | [242097-decathlon.json](./242097-decathlon.json) |
+| Decathlon 2012 | 85078 | [85078-decathlon-2012.json](./85078-decathlon-2012.json) |
 | Decay | 122884 | [122884-decay.json](./122884-decay.json) |
 | Decay | 189966 | [189966-decay.json](./189966-decay.json) |
 | Decay | 254575 | [254575-decay.json](./254575-decay.json) |
@@ -2817,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea | 124155 | [124155-deep-sea.json](./124155-deep-sea.json) |
 | Deep Sea Arena | 344350 | [344350-deep-sea-arena.json](./344350-deep-sea-arena.json) |
 | Deep Sea Bubble Shooter: Reflex Challenge | 385862 | [385862-deep-sea-bubble-shooter-reflex-challenge.json](./385862-deep-sea-bubble-shooter-reflex-challenge.json) |
+| Deep Sea Creatures | 85077 | [85077-deep-sea-creatures.json](./85077-deep-sea-creatures.json) |
 | Deep Sea Endurance | 114894 | [114894-deep-sea-endurance.json](./114894-deep-sea-endurance.json) |
 | Deep Sea Hunter | 95988 | [95988-deep-sea-hunter.json](./95988-deep-sea-hunter.json) |
 | Deep Sea Hunter 2 | 95989 | [95989-deep-sea-hunter-2.json](./95989-deep-sea-hunter-2.json) |
@@ -2917,6 +2921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunter x Treme Focal Plane | 169420 | [169420-deer-hunter-x-treme-focal-plane.json](./169420-deer-hunter-x-treme-focal-plane.json) |
 | Deer Hunter: African Safari | 64372 | [64372-deer-hunter-african-safari.json](./64372-deer-hunter-african-safari.json) |
 | Deer Hunting 2018 | 107058 | [107058-deer-hunting-2018.json](./107058-deer-hunting-2018.json) |
+| Deer Hunting King | 85076 | [85076-deer-hunting-king.json](./85076-deer-hunting-king.json) |
 | Deer Man | 19045 | [19045-deer-man.json](./19045-deer-man.json) |
 | Deer Napped | 93223 | [93223-deer-napped.json](./93223-deer-napped.json) |
 | Deerlivery | 361738 | [361738-deerlivery.json](./361738-deerlivery.json) |
@@ -3470,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonic Defence 3 | 380695 | [380695-demonic-defence-3.json](./380695-demonic-defence-3.json) |
 | Demonic Destruction! | 261451 | [261451-demonic-destruction.json](./261451-demonic-destruction.json) |
 | Demonic Gauntlet | 403120 | [403120-demonic-gauntlet.json](./403120-demonic-gauntlet.json) |
+| Demonic Karma Summoner | 85083 | [85083-demonic-karma-summoner.json](./85083-demonic-karma-summoner.json) |
 | Demonic Kiss | 371388 | [371388-demonic-kiss.json](./371388-demonic-kiss.json) |
 | Demonic Labyrinth | 237074 | [237074-demonic-labyrinth.json](./237074-demonic-labyrinth.json) |
 | Demonic Libido | 262427 | [262427-demonic-libido.json](./262427-demonic-libido.json) |
@@ -3539,6 +3545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dengenki Days | 287358 | [287358-dengenki-days.json](./287358-dengenki-days.json) |
 | Denis Through the Drinking Glass | 73823 | [73823-denis-through-the-drinking-glass.json](./73823-denis-through-the-drinking-glass.json) |
 | Denizen | 227193 | [227193-denizen.json](./227193-denizen.json) |
+| Denjarasu Jii-san Jya | 85082 | [85082-denjarasu-jii-san-jya.json](./85082-denjarasu-jii-san-jya.json) |
 | Denjin Makai | 46782 | [46782-denjin-makai.json](./46782-denjin-makai.json) |
 | Denki Blocks! | 49155 | [49155-denki-blocks.json](./49155-denki-blocks.json) |
 | Dennis Miller: That's Geek to Me | 245252 | [245252-dennis-miller-thats-geek-to-me.json](./245252-dennis-miller-thats-geek-to-me.json) |
@@ -3554,6 +3561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dennou Taisen: DroneZ | 202162 | [202162-dennou-taisen-dronez.json](./202162-dennou-taisen-dronez.json) |
 | Denny's Atari Remix | 305367 | [305367-dennys-atari-remix.json](./305367-dennys-atari-remix.json) |
 | Denos City | 385858 | [385858-denos-city.json](./385858-denos-city.json) |
+| Denpa Ningen no RPG | 85081 | [85081-denpa-ningen-no-rpg.json](./85081-denpa-ningen-no-rpg.json) |
 | Denpa Ningen no RPG 2 | 221987 | [221987-denpa-ningen-no-rpg-2.json](./221987-denpa-ningen-no-rpg-2.json) |
 | Denpa Ningen no RPG 3 | 221988 | [221988-denpa-ningen-no-rpg-3.json](./221988-denpa-ningen-no-rpg-3.json) |
 | Denpa Ningen no RPG Free! | 61348 | [61348-denpa-ningen-no-rpg-free.json](./61348-denpa-ningen-no-rpg-free.json) |
@@ -4261,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devices Disruptive Offense Simulator | 407480 | [407480-devices-disruptive-offense-simulator.json](./407480-devices-disruptive-offense-simulator.json) |
 | Devidicon | 400459 | [400459-devidicon.json](./400459-devidicon.json) |
 | Deviens Miss France | 269745 | [269745-deviens-miss-france.json](./269745-deviens-miss-france.json) |
+| Devil Band: Rock the Underworld | 85079 | [85079-devil-band-rock-the-underworld.json](./85079-devil-band-rock-the-underworld.json) |
 | Devil Below | 293171 | [293171-devil-below.json](./293171-devil-below.json) |
 | Devil Book: Hand-Drawn Action MMO | 146171 | [146171-devil-book-hand-drawn-action-mmo.json](./146171-devil-book-hand-drawn-action-mmo.json) |
 | Devil Catcher | 171414 | [171414-devil-catcher.json](./171414-devil-catcher.json) |
@@ -4649,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dictator's Creed | 212749 | [212749-dictators-creed.json](./212749-dictators-creed.json) |
 | Diction | 319124 | [319124-diction.json](./319124-diction.json) |
 | Dicy Chess | 299148 | [299148-dicy-chess.json](./299148-dicy-chess.json) |
+| Did It Myself ABC123 | 85087 | [85087-did-it-myself-abc123.json](./85087-did-it-myself-abc123.json) |
 | Did You Scared | 195128 | [195128-did-you-scared.json](./195128-did-you-scared.json) |
 | Did You See That? | 416647 | [416647-did-you-see-that.json](./416647-did-you-see-that.json) |
 | Diddl in the Cheesecakeland Diddl en Diddland | 269742 | [269742-diddl-in-the-cheesecakeland-diddl-en-diddland.json](./269742-diddl-in-the-cheesecakeland-diddl-en-diddland.json) |
@@ -5228,6 +5238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinotraz | 408232 | [408232-dinotraz.json](./408232-dinotraz.json) |
 | Dinovaporate | 256562 | [256562-dinovaporate.json](./256562-dinovaporate.json) |
 | DinoVR | 114981 | [114981-dinovr.json](./114981-dinovr.json) |
+| Dinox | 85085 | [85085-dinox.json](./85085-dinox.json) |
 | DinoZzz | 88834 | [88834-dinozzz.json](./88834-dinozzz.json) |
 | Dinus Escape | 338293 | [338293-dinus-escape.json](./338293-dinus-escape.json) |
 | Dio Simulator Remastered | 201841 | [201841-dio-simulator-remastered.json](./201841-dio-simulator-remastered.json) |
@@ -5416,6 +5427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disco Tomb | 217299 | [217299-disco-tomb.json](./217299-disco-tomb.json) |
 | Disco Zombie Fever | 240200 | [240200-disco-zombie-fever.json](./240200-disco-zombie-fever.json) |
 | Discode Reverse | 97366 | [97366-discode-reverse.json](./97366-discode-reverse.json) |
+| Discolight | 85084 | [85084-discolight.json](./85084-discolight.json) |
 | Discolored Bundle | 332504 | [332504-discolored-bundle.json](./332504-discolored-bundle.json) |
 | Discomfort | 177956 | [177956-discomfort.json](./177956-discomfort.json) |
 | Disconcerting Unease 1 | 275313 | [275313-disconcerting-unease-1.json](./275313-disconcerting-unease-1.json) |
@@ -5564,6 +5576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Fairies: Tinker Bell and the Great Fairy Rescue | 230553 | [230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json](./230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json) |
 | Disney Fairies: Tinker Bell and the Lost Treasure | 230409 | [230409-disney-fairies-tinker-bell-and-the-lost-treasure.json](./230409-disney-fairies-tinker-bell-and-the-lost-treasure.json) |
 | Disney Fairies: Tinker Bell's Adventure | 50099 | [50099-disney-fairies-tinker-bells-adventure.json](./50099-disney-fairies-tinker-bells-adventure.json) |
+| Disney Fireworks | 85089 | [85089-disney-fireworks.json](./85089-disney-fireworks.json) |
 | Disney Friends | 220083 | [220083-disney-friends.json](./220083-disney-friends.json) |
 | Disney Frozen Adventures | 138679 | [138679-disney-frozen-adventures.json](./138679-disney-frozen-adventures.json) |
 | Disney Hot Shots: Disney's Tarzan Jungle Tumble | 231855 | [231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json](./231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json) |
@@ -5848,6 +5861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diver's Dream | 180281 | [180281-divers-dream.json](./180281-divers-dream.json) |
 | Divergence: Year Zero | 31287 | [31287-divergence-year-zero.json](./31287-divergence-year-zero.json) |
 | Divergences | 356267 | [356267-divergences.json](./356267-divergences.json) |
+| Divergent Shift | 85095 | [85095-divergent-shift.json](./85095-divergent-shift.json) |
 | Diversant | 180294 | [180294-diversant.json](./180294-diversant.json) |
 | Diverse Defenders | 308913 | [308913-diverse-defenders.json](./308913-diverse-defenders.json) |
 | Divertron | 290091 | [290091-divertron.json](./290091-divertron.json) |
@@ -6217,6 +6231,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoDodge | 231330 | [231330-dododge.json](./231330-dododge.json) |
 | DoDodge2020 | 209674 | [209674-dododge2020.json](./209674-dododge2020.json) |
 | DodoGo! | 66709 | [66709-dodogo.json](./66709-dodogo.json) |
+| DodoGo! Challenge | 85094 | [85094-dodogo-challenge.json](./85094-dodogo-challenge.json) |
+| DodoGo! Robo | 85093 | [85093-dodogo-robo.json](./85093-dodogo-robo.json) |
 | DoDonPachi Dai-Ou-Jou V101 | 84158 | [84158-dodonpachi-dai-ou-jou-v101.json](./84158-dodonpachi-dai-ou-jou-v101.json) |
 | DoDonPachi Daifukkatsu Black Label | 77997 | [77997-dodonpachi-daifukkatsu-black-label.json](./77997-dodonpachi-daifukkatsu-black-label.json) |
 | DoDonPachi DaiFukkatsu Ver 1.5 | 84160 | [84160-dodonpachi-daifukkatsu-ver-1-5.json](./84160-dodonpachi-daifukkatsu-ver-1-5.json) |
@@ -6627,7 +6643,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Choke | 180754 | [180754-dont-choke.json](./180754-dont-choke.json) |
 | Don't Click The Flower | 394317 | [394317-dont-click-the-flower.json](./394317-dont-click-the-flower.json) |
 | Don't Cock It Up | 66768 | [66768-dont-cock-it-up.json](./66768-dont-cock-it-up.json) |
+| Don't Crash Go | 85092 | [85092-dont-crash-go.json](./85092-dont-crash-go.json) |
 | Don't Crash: The Political Game | 159863 | [159863-dont-crash-the-political-game.json](./159863-dont-crash-the-political-game.json) |
+| Don't Cross the Line | 85091 | [85091-dont-cross-the-line.json](./85091-dont-cross-the-line.json) |
 | Don't Cut Your Hand 2 | 158729 | [158729-dont-cut-your-hand-2.json](./158729-dont-cut-your-hand-2.json) |
 | Don't Die | 151570 | [151570-dont-die.json](./151570-dont-die.json) |
 | Don't Die | 343339 | [343339-dont-die.json](./343339-dont-die.json) |
@@ -6766,6 +6784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Talk to Strangers | 180638 | [180638-dont-talk-to-strangers.json](./180638-dont-talk-to-strangers.json) |
 | Don't Tap the White Tile | 57324 | [57324-dont-tap-the-white-tile.json](./57324-dont-tap-the-white-tile.json) |
 | Don't Tell My Wife | 396197 | [396197-dont-tell-my-wife.json](./396197-dont-tell-my-wife.json) |
+| Don't Touch Anything Red | 85090 | [85090-dont-touch-anything-red.json](./85090-dont-touch-anything-red.json) |
 | Don't Touch Lava | 215038 | [215038-dont-touch-lava.json](./215038-dont-touch-lava.json) |
 | Don't Touch Me | 107796 | [107796-dont-touch-me.json](./107796-dont-touch-me.json) |
 | Don't Touch Me Twice! | 116455 | [116455-dont-touch-me-twice.json](./116455-dont-touch-me-twice.json) |
@@ -6968,6 +6987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Cats | 320325 | [320325-doodle-cats.json](./320325-doodle-cats.json) |
 | Doodle Champs | 211629 | [211629-doodle-champs.json](./211629-doodle-champs.json) |
 | Doodle Creatures HD | 100873 | [100873-doodle-creatures-hd.json](./100873-doodle-creatures-hd.json) |
+| Doodle Dash | 85096 | [85096-doodle-dash.json](./85096-doodle-dash.json) |
 | Doodle Date | 96632 | [96632-doodle-date.json](./96632-doodle-date.json) |
 | Doodle Defense | 366295 | [366295-doodle-defense.json](./366295-doodle-defense.json) |
 | Doodle Devil: Dark Side | 386861 | [386861-doodle-devil-dark-side.json](./386861-doodle-devil-dark-side.json) |
@@ -7352,6 +7372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotcraft. | 106770 | [106770-dotcraft.json](./106770-dotcraft.json) |
 | DotDot | 253971 | [253971-dotdot.json](./253971-dotdot.json) |
 | Doterminism | 200538 | [200538-doterminism.json](./200538-doterminism.json) |
+| DotMan | 85098 | [85098-dotman.json](./85098-dotman.json) |
 | Dotonon | 341677 | [341677-dotonon.json](./341677-dotonon.json) |
 | Dotori | 143600 | [143600-dotori.json](./143600-dotori.json) |
 | Dots | 76631 | [76631-dots.json](./76631-dots.json) |
@@ -8434,6 +8455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Sword | 358926 | [358926-draw-sword.json](./358926-draw-sword.json) |
 | Draw Sword | 359540 | [359540-draw-sword.json](./359540-draw-sword.json) |
 | Draw the Hands | 405580 | [405580-draw-the-hands.json](./405580-draw-the-hands.json) |
+| Draw the Line | 85101 | [85101-draw-the-line.json](./85101-draw-the-line.json) |
 | Draw the Way | 29833 | [29833-draw-the-way.json](./29833-draw-the-way.json) |
 | Draw Two Save: Save the man | 197363 | [197363-draw-two-save-save-the-man.json](./197363-draw-two-save-save-the-man.json) |
 | Draw Wario | 328684 | [328684-draw-wario.json](./328684-draw-wario.json) |
@@ -8876,6 +8898,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dresden Files Cooperative Card Game: Winter Schemes | 266503 | [266503-dresden-files-cooperative-card-game-winter-schemes.json](./266503-dresden-files-cooperative-card-game-winter-schemes.json) |
 | Dress | 94748 | [94748-dress.json](./94748-dress.json) |
 | Dress Me | 101049 | [101049-dress-me.json](./101049-dress-me.json) |
+| Dress to Play: Cute Witches! | 85100 | [85100-dress-to-play-cute-witches.json](./85100-dress-to-play-cute-witches.json) |
+| Dress to Play: Magic Bubbles! | 85099 | [85099-dress-to-play-magic-bubbles.json](./85099-dress-to-play-magic-bubbles.json) |
 | Dress Treat! | 146521 | [146521-dress-treat.json](./146521-dress-treat.json) |
 | Dress Up Bear | 96029 | [96029-dress-up-bear.json](./96029-dress-up-bear.json) |
 | Dress-up | 103672 | [103672-dress-up.json](./103672-dress-up.json) |
@@ -9155,6 +9179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Flip | 96538 | [96538-drop-flip.json](./96538-drop-flip.json) |
 | Drop Flip Seasons | 96284 | [96284-drop-flip-seasons.json](./96284-drop-flip-seasons.json) |
 | Drop It | 285127 | [285127-drop-it.json](./285127-drop-it.json) |
+| Drop It: Block Paradise! | 85104 | [85104-drop-it-block-paradise.json](./85104-drop-it-block-paradise.json) |
 | Drop Kick Zombie! | 118763 | [118763-drop-kick-zombie.json](./118763-drop-kick-zombie.json) |
 | Drop Loot | 411029 | [411029-drop-loot.json](./411029-drop-loot.json) |
 | Drop Mahjong Tiles | 287314 | [287314-drop-mahjong-tiles.json](./287314-drop-mahjong-tiles.json) |
@@ -9808,6 +9833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Gambit Boy | 89666 | [89666-dungeon-gambit-boy.json](./89666-dungeon-gambit-boy.json) |
 | Dungeon Girl Scouts | 210693 | [210693-dungeon-girl-scouts.json](./210693-dungeon-girl-scouts.json) |
 | Dungeon Golf | 244507 | [244507-dungeon-golf.json](./244507-dungeon-golf.json) |
+| Dungeon Hearts DX | 85103 | [85103-dungeon-hearts-dx.json](./85103-dungeon-hearts-dx.json) |
 | Dungeon Hero | 18788 | [18788-dungeon-hero.json](./18788-dungeon-hero.json) |
 | Dungeon Hotpot | 404814 | [404814-dungeon-hotpot.json](./404814-dungeon-hotpot.json) |
 | Dungeon Hunter | 23258 | [23258-dungeon-hunter.json](./23258-dungeon-hunter.json) |
@@ -10419,6 +10445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors Online | 72612 | [72612-dynasty-warriors-online.json](./72612-dynasty-warriors-online.json) |
 | Dynasty Warriors Online Z | 257658 | [257658-dynasty-warriors-online-z.json](./257658-dynasty-warriors-online-z.json) |
 | Dynasty Warriors Vol. 2 | 42886 | [42886-dynasty-warriors-vol-2.json](./42886-dynasty-warriors-vol-2.json) |
+| Dynasty Warriors Vs | 85102 | [85102-dynasty-warriors-vs.json](./85102-dynasty-warriors-vs.json) |
 | Dynasty Warriors: God Seekers | 44537 | [44537-dynasty-warriors-god-seekers.json](./44537-dynasty-warriors-god-seekers.json) |
 | Dynasty Warriors: Gundam | 6977 | [6977-dynasty-warriors-gundam.json](./6977-dynasty-warriors-gundam.json) |
 | Dynasty Warriors: Gundam 3 | 6982 | [6982-dynasty-warriors-gundam-3.json](./6982-dynasty-warriors-gundam-3.json) |
