@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail: Dungeons | 313123 | [313123-fairy-tail-dungeons.json](./313123-fairy-tail-dungeons.json) |
 | Fairy Tail: Forces Unite! | 193970 | [193970-fairy-tail-forces-unite.json](./193970-fairy-tail-forces-unite.json) |
 | Fairy Tail: Guild Masters | 193873 | [193873-fairy-tail-guild-masters.json](./193873-fairy-tail-guild-masters.json) |
+| Fairy Tail: Hero's Journey | 59806 | [59806-fairy-tail-heros-journey.json](./59806-fairy-tail-heros-journey.json) |
 | Fairy Tail: Zeref's Awakening | 63398 | [63398-fairy-tail-zerefs-awakening.json](./63398-fairy-tail-zerefs-awakening.json) |
 | Fairy Tale Busters | 56571 | [56571-fairy-tale-busters.json](./56571-fairy-tale-busters.json) |
 | Fairy Tale Diaries | 110972 | [110972-fairy-tale-diaries.json](./110972-fairy-tale-diaries.json) |
@@ -707,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Ball Ocean | 107167 | [107167-falling-ball-ocean.json](./107167-falling-ball-ocean.json) |
 | Falling Ball Space | 106488 | [106488-falling-ball-space.json](./106488-falling-ball-space.json) |
 | Falling Ballz | 214404 | [214404-falling-ballz.json](./214404-falling-ballz.json) |
+| Falling Block | 59797 | [59797-falling-block.json](./59797-falling-block.json) |
 | Falling Blocks | 105389 | [105389-falling-blocks.json](./105389-falling-blocks.json) |
 | Falling Blocks | 237333 | [237333-falling-blocks.json](./237333-falling-blocks.json) |
 | Falling Bricks: Endless Smash | 390784 | [390784-falling-bricks-endless-smash.json](./390784-falling-bricks-endless-smash.json) |
@@ -2936,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Shot | 175704 | [175704-final-shot.json](./175704-final-shot.json) |
 | Final Shot | 177554 | [177554-final-shot.json](./177554-final-shot.json) |
 | Final Sim | 116109 | [116109-final-sim.json](./116109-final-sim.json) |
+| Final Sky | 59819 | [59819-final-sky.json](./59819-final-sky.json) |
 | Final Slam 2 | 8868 | [8868-final-slam-2.json](./8868-final-slam-2.json) |
 | Final Soldier | 37712 | [37712-final-soldier.json](./37712-final-soldier.json) |
 | Final Soldier: Special Version | 42026 | [42026-final-soldier-special-version.json](./42026-final-soldier-special-version.json) |
@@ -3477,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Time Mom | 392297 | [392297-first-time-mom.json](./392297-first-time-mom.json) |
 | First Up | 264567 | [264567-first-up.json](./264567-first-up.json) |
 | First Winter | 97027 | [97027-first-winter.json](./97027-first-winter.json) |
+| First Wonder | 59812 | [59812-first-wonder.json](./59812-first-wonder.json) |
 | First, Breathe | 124751 | [124751-first-breathe.json](./124751-first-breathe.json) |
 | First! Person Shooter | 333228 | [333228-first-person-shooter.json](./333228-first-person-shooter.json) |
 | FirstPlanet | 114552 | [114552-firstplanet.json](./114552-firstplanet.json) |
@@ -7607,6 +7611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusionfall Legacy | 302612 | [302612-fusionfall-legacy.json](./302612-fusionfall-legacy.json) |
 | FusionFall Retro | 54747 | [54747-fusionfall-retro.json](./54747-fusionfall-retro.json) |
 | Fusionist | 250945 | [250945-fusionist.json](./250945-fusionist.json) |
+| Fuss-Ball | 59802 | [59802-fuss-ball.json](./59802-fuss-ball.json) |
 | Fussball Manager 25 | 335346 | [335346-fussball-manager-25.json](./335346-fussball-manager-25.json) |
 | Fussball Manager 26 | 392424 | [392424-fussball-manager-26.json](./392424-fussball-manager-26.json) |
 | Fussball Manager Bundesliga 2001 | 209417 | [209417-fussball-manager-bundesliga-2001.json](./209417-fussball-manager-bundesliga-2001.json) |
