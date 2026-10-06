@@ -2223,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Reunion | 341641 | [341641-deadly-reunion.json](./341641-deadly-reunion.json) |
 | Deadly Road | 247097 | [247097-deadly-road.json](./247097-deadly-road.json) |
 | Deadly Rooms of Death | 50147 | [50147-deadly-rooms-of-death.json](./50147-deadly-rooms-of-death.json) |
+| Deadly Rooms of Death: Architect's Edition | 70045 | [70045-deadly-rooms-of-death-architects-edition.json](./70045-deadly-rooms-of-death-architects-edition.json) |
 | Deadly Runner | 367562 | [367562-deadly-runner.json](./367562-deadly-runner.json) |
 | Deadly Secret Beneath the Dark Wood | 269657 | [269657-deadly-secret-beneath-the-dark-wood.json](./269657-deadly-secret-beneath-the-dark-wood.json) |
 | Deadly Skies | 22730 | [22730-deadly-skies.json](./22730-deadly-skies.json) |
@@ -4966,6 +4967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Pinball: Necronomicon | 45453 | [45453-digital-pinball-necronomicon.json](./45453-digital-pinball-necronomicon.json) |
 | Digital Processing | 400284 | [400284-digital-processing.json](./400284-digital-processing.json) |
 | Digital Resistance | 105189 | [105189-digital-resistance.json](./105189-digital-resistance.json) |
+| Digital Road | 70057 | [70057-digital-road.json](./70057-digital-road.json) |
 | Digital Runner | 93725 | [93725-digital-runner.json](./93725-digital-runner.json) |
 | Digital Spacecade | 28181 | [28181-digital-spacecade.json](./28181-digital-spacecade.json) |
 | Digital Survivor | 411728 | [411728-digital-survivor.json](./411728-digital-survivor.json) |
