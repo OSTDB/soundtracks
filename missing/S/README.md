@@ -1834,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorched Lands | 401536 | [401536-scorched-lands.json](./401536-scorched-lands.json) |
 | Scorched Planet | 12906 | [12906-scorched-planet.json](./12906-scorched-planet.json) |
 | Scorched Sun | 375434 | [375434-scorched-sun.json](./375434-scorched-sun.json) |
+| Scorched Tanks | 72265 | [72265-scorched-tanks.json](./72265-scorched-tanks.json) |
 | Scorched Warfare | 323959 | [323959-scorched-warfare.json](./323959-scorched-warfare.json) |
 | Scorcher | 115550 | [115550-scorcher.json](./115550-scorcher.json) |
 | Scorchie Adventures | 306579 | [306579-scorchie-adventures.json](./306579-scorchie-adventures.json) |
@@ -2394,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season Marbles: Winter | 337627 | [337627-season-marbles-winter.json](./337627-season-marbles-winter.json) |
 | Season Match 3: Curse of the Witch Crow | 17789 | [17789-season-match-3-curse-of-the-witch-crow.json](./17789-season-match-3-curse-of-the-witch-crow.json) |
 | Season of Mystery: The Cherry Blossom Murders | 9326 | [9326-season-of-mystery-the-cherry-blossom-murders.json](./9326-season-of-mystery-the-cherry-blossom-murders.json) |
+| Season of the Sakura | 72277 | [72277-season-of-the-sakura.json](./72277-season-of-the-sakura.json) |
 | Season Ticket Baseball | 206642 | [206642-season-ticket-baseball.json](./206642-season-ticket-baseball.json) |
 | Season Ticket Football 2003 | 79522 | [79522-season-ticket-football-2003.json](./79522-season-ticket-football-2003.json) |
 | Season Up | 95603 | [95603-season-up.json](./95603-season-up.json) |
@@ -2772,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Vol. 23: Sega Memorial Selection | 69883 | [69883-sega-ages-2500-vol-23-sega-memorial-selection.json](./69883-sega-ages-2500-vol-23-sega-memorial-selection.json) |
 | Sega Ages 2500 Vol. 28: Tetris Collection | 64898 | [64898-sega-ages-2500-vol-28-tetris-collection.json](./64898-sega-ages-2500-vol-28-tetris-collection.json) |
 | Sega Ages 2500 Vol. 29: Monster World Complete Collection | 78047 | [78047-sega-ages-2500-vol-29-monster-world-complete-collection.json](./78047-sega-ages-2500-vol-29-monster-world-complete-collection.json) |
+| Sega Ages 2500 Vol. 3: Fantasy Zone | 72315 | [72315-sega-ages-2500-vol-3-fantasy-zone.json](./72315-sega-ages-2500-vol-3-fantasy-zone.json) |
 | Sega Ages 2500 Vol. 30: Galaxy Force II - Special Extended Edition | 64897 | [64897-sega-ages-2500-vol-30-galaxy-force-ii-special-extended-edition.json](./64897-sega-ages-2500-vol-30-galaxy-force-ii-special-extended-edition.json) |
 | Sega Ages 2500 Vol. 32: Phantasy Star Complete Collection | 69267 | [69267-sega-ages-2500-vol-32-phantasy-star-complete-collection.json](./69267-sega-ages-2500-vol-32-phantasy-star-complete-collection.json) |
 | Sega Ages 2500 Vol. 4: Space Harrier | 96512 | [96512-sega-ages-2500-vol-4-space-harrier.json](./96512-sega-ages-2500-vol-4-space-harrier.json) |
@@ -7930,6 +7933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashing Four | 69372 | [69372-smashing-four.json](./69372-smashing-four.json) |
 | Smashing Healthy VR | 132248 | [132248-smashing-healthy-vr.json](./132248-smashing-healthy-vr.json) |
 | Smashing Kitty | 61056 | [61056-smashing-kitty.json](./61056-smashing-kitty.json) |
+| Smashing Pumpkins into Small Piles of Putrid Debris | 72307 | [72307-smashing-pumpkins-into-small-piles-of-putrid-debris.json](./72307-smashing-pumpkins-into-small-piles-of-putrid-debris.json) |
 | Smashing Simulator Idle | 311274 | [311274-smashing-simulator-idle.json](./311274-smashing-simulator-idle.json) |
 | Smashing Spirits: Brazil's First Boxer | 135713 | [135713-smashing-spirits-brazils-first-boxer.json](./135713-smashing-spirits-brazils-first-boxer.json) |
 | Smashing Star | 202855 | [202855-smashing-star.json](./202855-smashing-star.json) |
@@ -18468,6 +18472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Strong Warriors | 64922 | [64922-super-strong-warriors.json](./64922-super-strong-warriors.json) |
 | Super Stunt Spectacular | 208350 | [208350-super-stunt-spectacular.json](./208350-super-stunt-spectacular.json) |
 | Super Stuntman | 55083 | [55083-super-stuntman.json](./55083-super-stuntman.json) |
+| Super Stupid Space Invaders | 72305 | [72305-super-stupid-space-invaders.json](./72305-super-stupid-space-invaders.json) |
 | Super Sucker | 351233 | [351233-super-sucker.json](./351233-super-sucker.json) |
 | Super Sucker: Clever Edition | 362371 | [362371-super-sucker-clever-edition.json](./362371-super-sucker-clever-edition.json) |
 | Super Sucker: Complete Edition | 356811 | [356811-super-sucker-complete-edition.json](./356811-super-sucker-complete-edition.json) |
@@ -19723,6 +19728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Master | 69900 | [69900-sword-master.json](./69900-sword-master.json) |
 | Sword Master Story | 140896 | [140896-sword-master-story.json](./140896-sword-master-story.json) |
 | Sword n' Dragons | 275703 | [275703-sword-n-dragons.json](./275703-sword-n-dragons.json) |
+| Sword of Aragon | 72291 | [72291-sword-of-aragon.json](./72291-sword-of-aragon.json) |
 | Sword of Atlas | 188565 | [188565-sword-of-atlas.json](./188565-sword-of-atlas.json) |
 | Sword of Chaos | 59467 | [59467-sword-of-chaos.json](./59467-sword-of-chaos.json) |
 | Sword of Convallaria: For This World of Peace | 212438 | [212438-sword-of-convallaria-for-this-world-of-peace.json](./212438-sword-of-convallaria-for-this-world-of-peace.json) |
