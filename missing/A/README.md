@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lucky First Turnabout: A Klavier Gavin Story | 308550 | [308550-a-lucky-first-turnabout-a-klavier-gavin-story.json](./308550-a-lucky-first-turnabout-a-klavier-gavin-story.json) |
 | A Lucky Hunt With Calista | 385277 | [385277-a-lucky-hunt-with-calista.json](./385277-a-lucky-hunt-with-calista.json) |
 | A Lucky Hunt With: Ione | 392956 | [392956-a-lucky-hunt-with-ione.json](./392956-a-lucky-hunt-with-ione.json) |
+| A Lullaby of Colors | 114901 | [114901-a-lullaby-of-colors.json](./114901-a-lullaby-of-colors.json) |
 | A Mage Reborn | 207342 | [207342-a-mage-reborn.json](./207342-a-mage-reborn.json) |
 | A Magical Girl's Duty | 181692 | [181692-a-magical-girls-duty.json](./181692-a-magical-girls-duty.json) |
 | A Magical Tale: Cavern Crawler | 134995 | [134995-a-magical-tale-cavern-crawler.json](./134995-a-magical-tale-cavern-crawler.json) |
@@ -1121,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acanthoceras | 208272 | [208272-acanthoceras.json](./208272-acanthoceras.json) |
 | ACardShooter | 118233 | [118233-acardshooter.json](./118233-acardshooter.json) |
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
+| Accel | 114902 | [114902-accel.json](./114902-accel.json) |
 | Accel World vs. Sword Art Online: Deluxe Edition | 65842 | [65842-accel-world-vs-sword-art-online-deluxe-edition.json](./65842-accel-world-vs-sword-art-online-deluxe-edition.json) |
 | Accel World vs. Sword Art Online: Millennium Twilight | 36796 | [36796-accel-world-vs-sword-art-online-millennium-twilight.json](./36796-accel-world-vs-sword-art-online-millennium-twilight.json) |
 | Accel World: End of Burst | 76242 | [76242-accel-world-end-of-burst.json](./76242-accel-world-end-of-burst.json) |
